@@ -55,7 +55,56 @@
 
 ## Báo Dân Trí
 <!-- dantri:START -->
-<!-- dantri:END -->
+- 🐻 [Phó tổng thống Mỹ thừa nhận lo ngại kịch bản ông Trump thắng cử](https://dantri.com.vn/the-gioi/pho-tong-thong-my-thua-nhan-lo-ngai-kich-ban-ong-trump-thang-cu-20240118113803278.htm) -05:02 18/01/2024
+- 🧠 [&quot;Vui như Tết, Quý như Vàng&quot; - thông điệp phim ngắn đầy ý nghĩa từ PNJ](https://dantri.com.vn/van-hoa/vui-nhu-tet-quy-nhu-vang-thong-diep-phim-ngan-day-y-nghia-tu-pnj-20240118112825484.htm) -05:00 18/01/2024
+- 🤔 [Bộ trưởng Vận tải Singapore từ chức vì vướng cáo buộc tham nhũng](https://dantri.com.vn/the-gioi/bo-truong-van-tai-singapore-tu-chuc-vi-vuong-cao-buoc-tham-nhung-20240118113539940.htm) -04:58 18/01/2024
+- 📝 [AFC chỉ ra ưu thế của đội tuyển Việt Nam so với Indonesia](https://dantri.com.vn/the-thao/afc-chi-ra-uu-the-cua-doi-tuyen-viet-nam-so-voi-indonesia-20240118114613175.htm) -04:46 18/01/2024
+- 🤖 [Hai Thủ tướng thúc đẩy xây cao tốc nối Phnôm Pênh với TPHCM](https://dantri.com.vn/xa-hoi/hai-thu-tuong-thuc-day-xay-cao-toc-noi-phnom-penh-voi-tphcm-20240118113324555.htm) -04:44 18/01/2024
+- 🥰 [Cựu Trưởng Công an quận Đồ Sơn cùng thuộc cấp hầu tòa](https://dantri.com.vn/phap-luat/cuu-truong-cong-an-quan-do-son-cung-thuoc-cap-hau-toa-20240118112020338.htm) -04:39 18/01/2024
+- 🚀 [Phát hiện sự thật đầy bất ngờ về Mặt Trăng](https://dantri.com.vn/khoa-hoc-cong-nghe/phat-hien-su-that-day-bat-ngo-ve-mat-trang-20240118105823021.htm) -04:31 18/01/2024
+- 🏊 [Bắt 5 đối tượng trong vụ tranh chấp ngư trường ở Cà Mau](https://dantri.com.vn/phap-luat/bat-5-doi-tuong-trong-vu-tranh-chap-ngu-truong-o-ca-mau-20240118112231914.htm) -04:27 18/01/2024
+- 🎃 [Tổng thống Ukraine chất vấn ông Trump về cách chấm dứt xung đột với Nga](https://dantri.com.vn/the-gioi/tong-thong-ukraine-chat-van-ong-trump-ve-cach-cham-dut-xung-dot-voi-nga-20240118105319367.htm) -04:25 18/01/2024
+- 🎓 [Dành gần 58.000 tỷ đồng cho 32 dự án giao thông trọng điểm](https://dantri.com.vn/kinh-doanh/danh-gan-58000-ty-dong-cho-32-du-an-giao-thong-trong-diem-20240118094550264.htm) -04:18 18/01/2024
+- 👹 [Herbalife: &quot;Công ty chỉ phân phối qua thành viên độc lập, không bán ở siêu thị, cửa hàng&quot;](https://dantri.com.vn/kinh-doanh/herbalife-cong-ty-chi-phan-phoi-qua-thanh-vien-doc-lap-khong-ban-o-sieu-thi-cua-hang-20240118111154538.htm) -04:16 18/01/2024
+- 🔥 [Kế hoạch hình thành trung tâm tài chính tại TPHCM năm 2030](https://dantri.com.vn/xa-hoi/ke-hoach-hinh-thanh-trung-tam-tai-chinh-tai-tphcm-nam-2030-20240118104841938.htm) -04:16 18/01/2024
+- 🦏 [Vụ huy động 1.300 tỷ đồng của công ty bầu Đức lại có diễn biến mới](https://dantri.com.vn/kinh-doanh/vu-huy-dong-1300-ty-dong-cua-cong-ty-bau-duc-lai-co-dien-bien-moi-20240118092250809.htm) -04:16 18/01/2024
+- ⛽️ [Nghi mâu thuẫn, cháu dùng dao chém chú ruột trọng thương](https://dantri.com.vn/phap-luat/nghi-mau-thuan-chau-dung-dao-chem-chu-ruot-trong-thuong-20240118105929193.htm) -04:15 18/01/2024
+- 🕯 [Bức tường nơ đỏ và những điểm chụp ảnh ở TPHCM &quot;gây sốt&quot; với giới trẻ](https://dantri.com.vn/nhip-song-tre/buc-tuong-no-do-va-nhung-diem-chup-anh-o-tphcm-gay-sot-voi-gioi-tre-20240117170443650.htm) -04:01 18/01/2024
+- 💫 [Thợ ảnh kiếm bộn tiền dịp Tết khi &quot;một m2 có 10 nàng thơ&quot;](https://dantri.com.vn/lao-dong-viec-lam/tho-anh-kiem-bon-tien-dip-tet-khi-mot-m2-co-10-nang-tho-20240117194820233.htm) -04:00 18/01/2024
+- 🎭 [Đàm Vĩnh Hưng hé lộ Mỹ Tâm bỏ trống phần cát-xê khi nhận lời hát ở liveshow](https://dantri.com.vn/giai-tri/dam-vinh-hung-he-lo-my-tam-bo-trong-phan-cat-xe-khi-nhan-loi-hat-o-liveshow-20240118105657307.htm) -03:57 18/01/2024
+- 🪜 [Chiến sự Ukraine 18/1: Nga tấn công Kharkov, mở rộng kiểm soát ở Marinka](https://dantri.com.vn/the-gioi/chien-su-ukraine-181-nga-tan-cong-kharkov-mo-rong-kiem-soat-o-marinka-20240118094646522.htm) -03:44 18/01/2024
+- 🚀 [Đất không có giấy tờ trước 1/7/2014 sẽ được cấp sổ đỏ](https://dantri.com.vn/bat-dong-san/dat-khong-co-giay-to-truoc-172014-se-duoc-cap-so-do-20231231105809483.htm) -03:35 18/01/2024
+- 🎭 [Hyundai Tucson và Santa Fe giảm doanh số sau khi tăng giá 30-90 triệu đồng](https://dantri.com.vn/o-to-xe-may/hyundai-tucson-va-santa-fe-giam-doanh-so-sau-khi-tang-gia-30-90-trieu-dong-20240111095636321.htm) -03:31 18/01/2024
+- 👹 [Tăng 10.000 ghế mỗi ngày tại sân bay Tân Sơn Nhất dịp Tết](https://dantri.com.vn/xa-hoi/tang-10000-ghe-moi-ngay-tai-san-bay-tan-son-nhat-dip-tet-20240118101918133.htm) -03:28 18/01/2024
+- 🤔 [Khởi tố 7 cựu cán bộ, nhân viên ngân hàng gây thiệt hại 2,2 tỷ đồng](https://dantri.com.vn/phap-luat/khoi-to-7-cuu-can-bo-nhan-vien-ngan-hang-gay-thiet-hai-22-ty-dong-20240118095555754.htm) -03:15 18/01/2024
+- 🥳 [Năm 2024, ai được ưu tiên khi tuyển dụng viên chức?](https://dantri.com.vn/an-sinh/nam-2024-ai-duoc-uu-tien-khi-tuyen-dung-vien-chuc-20240117183555590.htm) -03:12 18/01/2024
+- 🤗 [Bộ TT&amp;TT phê duyệt phương án đấu giá băng tần 5G](https://dantri.com.vn/suc-manh-so/bo-tttt-phe-duyet-phuong-an-dau-gia-bang-tan-5g-20240118100036326.htm) -03:11 18/01/2024
+- 🔭 [Hãng vận tải Việt Nam dùng robot để phân loại hàng hóa thay cho con người](https://dantri.com.vn/suc-manh-so/hang-van-tai-viet-nam-dung-robot-de-phan-loai-hang-hoa-thay-cho-con-nguoi-20240118095447629.htm) -03:04 18/01/2024
+- 🚀 [Đốm đỏ trên bàn tay ông Trump thổi bùng đồn đoán](https://dantri.com.vn/the-gioi/dom-do-tren-ban-tay-ong-trump-thoi-bung-don-doan-20240118094015501.htm) -02:49 18/01/2024
+- 🥰 [Ukraine tiết lộ về 2.800 bộ phận đặc biệt khi mổ xẻ vũ khí Nga](https://dantri.com.vn/the-gioi/ukraine-tiet-lo-ve-2800-bo-phan-dac-biet-khi-mo-xe-vu-khi-nga-20240118090242388.htm) -02:45 18/01/2024
+- 🦅 [Chủ tịch Quốc hội: Nhanh chóng đưa Luật Đất đai sửa đổi vào cuộc sống](https://dantri.com.vn/xa-hoi/chu-tich-quoc-hoi-nhanh-chong-dua-luat-dat-dai-sua-doi-vao-cuoc-song-20240118092608949.htm) -02:45 18/01/2024
+- 🐻 [Sản phẩm sinh lý nam VIP MEN bị thu hồi](https://dantri.com.vn/suc-khoe/san-pham-sinh-ly-nam-vip-men-bi-thu-hoi-20240118094012629.htm) -02:40 18/01/2024
+- 🕴 [Thiếu nữ xúng xính áo dài chụp ảnh tại ngôi chợ 300 năm tuổi ở Nghệ An](https://dantri.com.vn/du-lich/thieu-nu-xung-xinh-ao-dai-chup-anh-tai-ngoi-cho-300-nam-tuoi-o-nghe-an-20240115130237623.htm) -02:32 18/01/2024
+- 🐲 [Tên lửa &quot;quái vật Frankenstein&quot; của Ukraine lần đầu bắn hạ UAV Nga](https://dantri.com.vn/the-gioi/ten-lua-quai-vat-frankenstein-cua-ukraine-lan-dau-ban-ha-uav-nga-20240118084258037.htm) -02:31 18/01/2024
+- 🌏 [2 nguyên phó chủ tịch huyện bị khởi tố liên quan khu dân cư lớn nhất huyện](https://dantri.com.vn/phap-luat/2-nguyen-pho-chu-tich-huyen-bi-khoi-to-lien-quan-khu-dan-cu-lon-nhat-huyen-20240118085904183.htm) -02:28 18/01/2024
+- 🧑‍🏫 [Triển lãm tranh chào xuân 2024 về tình yêu quê hương đất nước](https://dantri.com.vn/van-hoa/trien-lam-tranh-chao-xuan-2024-ve-tinh-yeu-que-huong-dat-nuoc-20240117155246819.htm) -02:26 18/01/2024
+- 🧠 [&quot;Nữ hoàng dao kéo&quot; xứ Hàn liên quan gì tới vụ lừa đảo của bạn trai cũ?](https://dantri.com.vn/giai-tri/nu-hoang-dao-keo-xu-han-lien-quan-gi-toi-vu-lua-dao-cua-ban-trai-cu-20240117150817599.htm) -02:19 18/01/2024
+- 🌮 [Phim nhiều cảnh &quot;nóng&quot; nhất năm 2023 khiến nam chính hoảng sợ](https://dantri.com.vn/van-hoa/phim-nhieu-canh-nong-nhat-nam-2023-khien-nam-chinh-hoang-so-20240118020609394.htm) -02:15 18/01/2024
+- 🎡 [Cảnh sát đu dây xuống giếng sâu vớt thi thể người](https://dantri.com.vn/xa-hoi/canh-sat-du-day-xuong-gieng-sau-vot-thi-the-nguoi-20240118071922620.htm) -02:11 18/01/2024
+- 🌊 [Bất động sản mở ra chu kỳ mới, hình hài ra sao?](https://dantri.com.vn/bat-dong-san/bat-dong-san-mo-ra-chu-ky-moi-hinh-hai-ra-sao-20240118080138214.htm) -02:11 18/01/2024
+- 📝 [Máy bay của Ngoại trưởng Mỹ gặp &quot;sự cố nghiêm trọng&quot; ở Thụy Sĩ](https://dantri.com.vn/the-gioi/may-bay-cua-ngoai-truong-my-gap-su-co-nghiem-trong-o-thuy-si-20240118090110063.htm) -02:03 18/01/2024
+- 🎉 [Học sinh đạt IELTS 7.0 nhưng kiểm tra trên lớp chỉ được... 4-5 điểm](https://dantri.com.vn/giao-duc/hoc-sinh-dat-ielts-70-nhung-kiem-tra-tren-lop-chi-duoc-4-5-diem-20240118084712668.htm) -02:02 18/01/2024
+- 🕯 [Thông qua Luật Các tổ chức tín dụng, thêm quy định ngăn sở hữu chéo](https://dantri.com.vn/kinh-doanh/thong-qua-luat-cac-to-chuc-tin-dung-them-quy-dinh-ngan-so-huu-cheo-20240118085741391.htm) -02:01 18/01/2024
+- 💡 [Quốc hội thông qua Luật Đất đai sửa đổi](https://dantri.com.vn/xa-hoi/quoc-hoi-thong-qua-luat-dat-dai-sua-doi-20240118085626025.htm) -02:01 18/01/2024
+- 🤠 [Bia trái cây LUSH: &quot;Sống tới, trải vị mới&quot;](https://dantri.com.vn/doi-song/bia-trai-cay-lush-song-toi-trai-vi-moi-20240117185204858.htm) -02:00 18/01/2024
+- 🚦 [Quang Hải, Văn Toàn được kỳ vọng tỏa sáng trước Indonesia](https://dantri.com.vn/the-thao/quang-hai-van-toan-duoc-ky-vong-toa-sang-truoc-indonesia-20240118085534070.htm) -01:56 18/01/2024
+- 🕯 [Về nhà lúc nửa đêm, tôi lặng người khi thấy đôi giày đàn ông trước cửa](https://dantri.com.vn/tinh-yeu-gioi-tinh/ve-nha-luc-nua-dem-toi-lang-nguoi-khi-thay-doi-giay-dan-ong-truoc-cua-20240113211434257.htm) -01:49 18/01/2024
+- 💪 [Tạo cơ hội cho đồng bào miền núi đi lao động nước ngoài](https://dantri.com.vn/lao-dong-viec-lam/tao-co-hoi-cho-dong-bao-mien-nui-di-lao-dong-nuoc-ngoai-20240117170934246.htm) -01:48 18/01/2024
+- 🥰 [&quot;Đường tử thần&quot; thức tỉnh sau 800 năm ngủ quên](https://dantri.com.vn/khoa-hoc-cong-nghe/duong-tu-than-thuc-tinh-sau-800-nam-ngu-quen-20240118084132796.htm) -01:46 18/01/2024
+- 🤔 [Khách mò mẫm từng vườn, săn bưởi đỏ &quot;tiến vua&quot; khắc chữ tài, lộc ở Hà Nội](https://dantri.com.vn/tet-2024/khach-mo-mam-tung-vuon-san-buoi-do-tien-vua-khac-chu-tai-loc-o-ha-noi-20240110100923176.htm) -01:46 18/01/2024
+- 🔭 [Filip Nguyễn gặp vợ Việt kiều ở phòng gym, yêu từ cái nhìn đầu tiên](https://dantri.com.vn/nhip-song-tre/filip-nguyen-gap-vo-viet-kieu-o-phong-gym-yeu-tu-cai-nhin-dau-tien-20240117182849077.htm) -01:46 18/01/2024
+- 🤖 [Loài cá kỳ lạ chuyển màu đen khi bị chọc giận](https://dantri.com.vn/khoa-hoc-cong-nghe/loai-ca-ky-la-chuyen-mau-den-khi-bi-choc-gian-20240118080752228.htm) -01:44 18/01/2024
+- 🥷 [Ngôi mộ hợp táng bỗng dưng &quot;biến mất&quot; ở Hà Tĩnh](https://dantri.com.vn/phap-luat/ngoi-mo-hop-tang-bong-dung-bien-mat-o-ha-tinh-20240118012205114.htm) -01:38 18/01/2024<!-- dantri:END -->
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
