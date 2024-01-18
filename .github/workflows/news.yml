@@ -1,59 +1,88 @@
 name: "Cronjob"
-
 on:
   schedule:
     - cron: '*/5 * * * *'
   push:
-    branches: [main]
-
+    branches:
+      - 'main'
 jobs:
   update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/cache@v3
+      - name: Cache dependencies
+        uses: actions/cache@v3
         with:
-          path: ~/.npm
+          path: |
+            ~/.npm
           key: ${{ runner.os }}-npm-${{ hashFiles('**/*.json') }}
-          restore-keys: ${{ runner.os }}-npm-
+          restore-keys: |
+            ${{ runner.os }}-npm-
 
-      - &pull_news
+      - name: Pull in vnexpress news
         uses: ePlus-DEV/blog-post-workflow@v1.0.0
         with:
           retry_count: 2
+          feed_list: "https://vnexpress.net/rss/tin-moi-nhat.rss"
           committer_email: "h250694@gmail.com"
-          commit_message: Get latest news
+          commit_message: Get vnexpress news
+          rand_seed: "vnexpress"
+          comment_tag_name: "vnexpress"
           date_format: 'HH:MM dd/mm/yyyy'
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) -$date"
           max_post_count: 50
 
-      - <<: *pull_news
+      - name: Pull in dantri news
+        uses: ePlus-DEV/blog-post-workflow@v1.0.0
         with:
-          feed_list: "https://vnexpress.net/rss/tin-moi-nhat.rss"
-          rand_seed: "vnexpress"
-          comment_tag_name: "vnexpress"
-
-      - <<: *pull_news
-        with:
+          retry_count: 2
           feed_list: "https://dantri.com.vn/rss/home.rss"
+          committer_email: "h250694@gmail.com"
+          commit_message: Get dantri news
           rand_seed: "dantri"
           comment_tag_name: "dantri"
+          date_format: 'HH:MM dd/mm/yyyy'
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) -$date"
+          max_post_count: 50
 
-      - <<: *pull_news
+      - name: Pull in thanhnien news
+        uses: ePlus-DEV/blog-post-workflow@v1.0.0
         with:
+          retry_count: 2
           feed_list: "https://thanhnien.vn/rss/home.rss"
+          committer_email: "h250694@gmail.com"
+          commit_message: Get thanhnien news
           rand_seed: "thanhnien"
           comment_tag_name: "thanhnien"
+          date_format: 'HH:MM dd/mm/yyyy'
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) -$date"
+          max_post_count: 50
 
-      - <<: *pull_news
+      - name: Pull in laodong news
+        uses: ePlus-DEV/blog-post-workflow@v1.0.0
         with:
+          retry_count: 2
           feed_list: "https://laodong.vn/rss/home.rss"
+          committer_email: "h250694@gmail.com"
+          commit_message: Get laodong news
           rand_seed: "laodong"
           comment_tag_name: "laodong"
+          date_format: 'HH:MM dd/mm/yyyy'
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) -$date"
+          max_post_count: 50
 
-      - <<: *pull_news
+      - name: Pull in hoahoctro news
+        uses: ePlus-DEV/blog-post-workflow@v1.0.0
         with:
+          retry_count: 2
           feed_list: "https://hoahoctro.tienphong.vn/rss/home.rss"
+          committer_email: "h250694@gmail.com"
+          commit_message: Get hoahoctro news
           rand_seed: "hoahoctro"
           comment_tag_name: "hoahoctro"
+          date_format: 'HH:MM dd/mm/yyyy'
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) -$date"
+          max_post_count: 50
