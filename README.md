@@ -55,7 +55,7 @@
 
 ## Báo Dân Trí
 <!-- dantri:START -->
-<!-- dantri:START -->
+<!-- dantri:END -->
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
