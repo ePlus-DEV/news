@@ -264,17 +264,6 @@
 - 🪜 [Sẽ khai thác thử nghiệm Bể than sông Hồng](https://tienphong.vn/se-khai-thac-thu-nghiem-be-than-song-hong-post1605638.tpo) -17:12 18/01/2024
 - 🤡 [&#39;Háo hức đến thăm Làng Văn hóa, nhưng lúc ra về thấy rất buồn&#39;](https://tienphong.vn/hao-huc-den-tham-lang-van-hoa-nhung-luc-ra-ve-thay-rat-buon-post1605642.tpo) -17:06 18/01/2024<!-- hoahoctro:END -->
 
-<<<<<<< HEAD
-=======
-## Báo Thanh Niên
-<!-- thanhnien:START -->
-- 🤠 [NXB Kim Đồng &#39;được mùa&#39; giải thưởng](https://thanhnien.vn/nxb-kim-dong-duoc-mua-giai-thuong-185240118180556545.htm) -15:40 18/01/2024
-- 🥸 [Án mạng ở Vĩnh Long: Chồng sát hại vợ](https://thanhnien.vn/an-mang-o-vinh-long-chong-sat-hai-vo-185240118215600267.htm) -15:22 18/01/2024
-- 🌁 [Trọng Hiếu &#39;mở tiệc âm nhạc&#39; giữa đường phố Hàn Quốc](https://thanhnien.vn/trong-hieu-mo-tiec-am-nhac-giua-duong-pho-han-quoc-185240118205515786.htm) -15:17 18/01/2024
-- 🤡 [Giám đốc Công an TP.Cần Thơ khen thưởng 22 phóng viên, nhà báo](https://thanhnien.vn/giam-doc-cong-an-tpcan-tho-khen-thuong-22-phong-vien-nha-bao-185240118215626925.htm) -15:11 18/01/2024
-- 🎉 [Nhật Bản hồi hộp chờ tin vui từ mặt trăng](https://thanhnien.vn/nhat-ban-hoi-hop-cho-tin-vui-tu-mat-trang-185240118220726639.htm) -15:10 18/01/2024<!-- thanhnien:END -->
-
->>>>>>> 95001c3a94455c1df52fbe31dde6bf4aac5dcbf4
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
 </div>
