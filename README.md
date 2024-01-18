@@ -3,7 +3,8 @@
 <!--ts-->
 * [Báo VnExpress](#báo-vnexpress)
 * [Báo Dân Trí](#báo-dân-trí)
-* [Báo Thanh Niên](#báo-thanh-nien)
+* [Báo Hoa Học Trò](#báo-hoa-học-trò)
+* [Báo Thanh Niên](#báo-thanh-niên)
 <!--te-->
 
 ## Báo VnExpress
@@ -111,6 +112,10 @@
 - 🔭 [Filip Nguyễn gặp vợ Việt kiều ở phòng gym, yêu từ cái nhìn đầu tiên](https://dantri.com.vn/nhip-song-tre/filip-nguyen-gap-vo-viet-kieu-o-phong-gym-yeu-tu-cai-nhin-dau-tien-20240117182849077.htm) -01:46 18/01/2024
 - 🤖 [Loài cá kỳ lạ chuyển màu đen khi bị chọc giận](https://dantri.com.vn/khoa-hoc-cong-nghe/loai-ca-ky-la-chuyen-mau-den-khi-bi-choc-gian-20240118080752228.htm) -01:44 18/01/2024
 - 🥷 [Ngôi mộ hợp táng bỗng dưng &quot;biến mất&quot; ở Hà Tĩnh](https://dantri.com.vn/phap-luat/ngoi-mo-hop-tang-bong-dung-bien-mat-o-ha-tinh-20240118012205114.htm) -01:38 18/01/2024<!-- dantri:END -->
+
+## Báo Hoa Học Trò
+<!-- hoahoctro:START -->
+<!-- hoahoctro:END -->
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
