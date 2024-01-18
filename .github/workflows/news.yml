@@ -16,7 +16,7 @@ jobs:
         uses: ePlus-DEV/blog-post-workflow@v1.0.0
         with:
           retry_count: 2
-          feed_list: "https://thanhnien.vn/rss/xe.rss, https://vnexpress.net/rss/tin-moi-nhat.rss"
+          feed_list: "https://vnexpress.net/rss/tin-moi-nhat.rss"
           committer_email: "h250694@gmail.com"
           commit_message: Get vnexpress news
           rand_seed: "vnexpress"
@@ -27,7 +27,7 @@ jobs:
         uses: ePlus-DEV/blog-post-workflow@v1.0.0
         with:
           retry_count: 2
-          feed_list: "https://thanhnien.vn/rss/xe.rss, https://vnexpress.net/rss/tin-moi-nhat.rss"
+          feed_list: "https://thanhnien.vn/rss/xe.rss"
           committer_email: "h250694@gmail.com"
           commit_message: Get thanhnien news
           rand_seed: "thanhnien"
