@@ -1,64 +1,59 @@
 name: "Cronjob"
+
 on:
   schedule:
     - cron: '*/5 * * * *'
   push:
-    branches:
-      - 'main'
+    branches: [main]
 
 jobs:
-  update-readme:
+  update-readme-with-blog:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Cache dependencies
-        uses: actions/cache@v3
+      - uses: actions/cache@v3
         with:
-          path: |
-            ~/.npm
+          path: ~/.npm
           key: ${{ runner.os }}-npm-${{ hashFiles('**/*.json') }}
-          restore-keys: |
-            ${{ runner.os }}-npm-
+          restore-keys: ${{ runner.os }}-npm-
 
-      - run: *update-readme-step
+      - &pull_news
+        uses: ePlus-DEV/blog-post-workflow@v1.0.0
+        with:
+          retry_count: 2
+          committer_email: "h250694@gmail.com"
+          commit_message: Get latest news
+          date_format: 'HH:MM dd/mm/yyyy'
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) -$date"
+          max_post_count: 50
+
+      - <<: *pull_news
         with:
           feed_list: "https://vnexpress.net/rss/tin-moi-nhat.rss"
-          comment_tag_name: "vnexpress"
           rand_seed: "vnexpress"
+          comment_tag_name: "vnexpress"
 
-      - run: *update-readme-step
+      - <<: *pull_news
         with:
           feed_list: "https://dantri.com.vn/rss/home.rss"
-          comment_tag_name: "dantri"
           rand_seed: "dantri"
+          comment_tag_name: "dantri"
 
-      - run: *update-readme-step
+      - <<: *pull_news
         with:
           feed_list: "https://thanhnien.vn/rss/home.rss"
-          comment_tag_name: "thanhnien"
           rand_seed: "thanhnien"
+          comment_tag_name: "thanhnien"
 
-      - run: *update-readme-step
+      - <<: *pull_news
         with:
           feed_list: "https://laodong.vn/rss/home.rss"
-          comment_tag_name: "laodong"
           rand_seed: "laodong"
+          comment_tag_name: "laodong"
 
-      - run: *update-readme-step
+      - <<: *pull_news
         with:
           feed_list: "https://hoahoctro.tienphong.vn/rss/home.rss"
-          comment_tag_name: "hoahoctro"
           rand_seed: "hoahoctro"
-
-# Anchor definition
-  update-readme-step: &update-readme-step
-    name: Update README with latest blog posts
-    uses: ePlus-DEV/blog-post-workflow@v1.0.0
-    with:
-      retry_count: 2
-      committer_email: "h250694@gmail.com"
-      commit_message: Get news
-      date_format: 'HH:MM dd/mm/yyyy'
-      template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,...) [$title]($url) -$date"
-      max_post_count: 50
+          comment_tag_name: "hoahoctro"
