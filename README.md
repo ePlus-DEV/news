@@ -120,7 +120,7 @@
 - 💼 [Tưng bừng &#39;Gặp mặt Đối ngoại chào năm mới 2024 – Xuân Giáp Thìn&#39;](https://tienphong.vn/tung-bung-gap-mat-doi-ngoai-chao-nam-moi-2024-xuan-giap-thin-post1605709.tpo) -21:49 18/01/2024
 - 👺 [Chủ tịch Quốc hội Vương Đình Huệ dự lễ công bố thành lập thị xã Việt Yên](https://tienphong.vn/chu-tich-quoc-hoi-vuong-dinh-hue-du-le-cong-bo-thanh-lap-thi-xa-viet-yen-post1605516.tpo) -21:27 18/01/2024
 - 💪 [Thế Giới Di Động bắt tay Xiaomi, đặt mục tiêu bán 1,2 triệu máy năm nay](https://tienphong.vn/the-gioi-di-dong-bat-tay-xiaomi-dat-muc-tieu-ban-12-trieu-may-nam-nay-post1605699.tpo) -21:00 18/01/2024
-- 💃 [Trực tiếp Ấn Độ vs Uzbekistan 0-3 &lpar;H2&rpar;: Uzbekistan có bàn thứ 3 phút bù giờ](https://tienphong.vn/truc-tiep-an-do-vs-uzbekistan-0-3-h2-uzbekistan-co-ban-thu-3-phut-bu-gio-post1605659.tpo) -20:45 18/01/2024
+- 💃 [Ấn Độ vs Uzbekistan 0-3 &lpar;H2&rpar;: Ấn Độ liên tiếp dứt điểm nhưng không có bàn thắng](https://tienphong.vn/an-do-vs-uzbekistan-0-3-h2-an-do-lien-tiep-dut-diem-nhung-khong-co-ban-thang-post1605659.tpo) -20:45 18/01/2024
 - 🦍 [Phong trào Không liên kết bàn vấn đề Biển Đông](https://tienphong.vn/phong-trao-khong-lien-ket-ban-van-de-bien-dong-post1605682.tpo) -20:32 18/01/2024
 - 👹 [Tổng thống Đức và Phu nhân sắp thăm Việt Nam](https://tienphong.vn/tong-thong-duc-va-phu-nhan-sap-tham-viet-nam-post1605684.tpo) -20:31 18/01/2024
 - 🌜 [Chủ tịch Quốc hội dự trao nhà đại đoàn kết, tặng quà công nhân ở Bắc Giang](https://tienphong.vn/chu-tich-quoc-hoi-du-trao-nha-dai-doan-ket-tang-qua-cong-nhan-o-bac-giang-post1605511.tpo) -20:21 18/01/2024
