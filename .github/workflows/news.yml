@@ -5,13 +5,12 @@ on:
   push:
     branches:
       - 'main'
+
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Cache dependencies
         uses: actions/cache@v3
@@ -22,53 +21,44 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-npm-
 
-      - name: Pull in vnexpress news
-        uses: ePlus-DEV/blog-post-workflow@v1.0.0
+      - run: *update-readme-step
         with:
-          retry_count: 2
           feed_list: "https://vnexpress.net/rss/tin-moi-nhat.rss"
-          committer_email: "h250694@gmail.com"
-          commit_message: Get vnexpress news
-          rand_seed: "vnexpress"
           comment_tag_name: "vnexpress"
-          date_format: 'HH:MM dd/mm/yyyy'
-          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) -$date"
-          max_post_count: 50
+          rand_seed: "vnexpress"
 
-      - name: Pull in dantri news
-        uses: ePlus-DEV/blog-post-workflow@v1.0.0
+      - run: *update-readme-step
         with:
-          retry_count: 2
           feed_list: "https://dantri.com.vn/rss/home.rss"
-          committer_email: "h250694@gmail.com"
-          commit_message: Get dantri news
-          rand_seed: "dantri"
           comment_tag_name: "dantri"
-          date_format: 'HH:MM dd/mm/yyyy'
-          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) -$date"
-          max_post_count: 50
+          rand_seed: "dantri"
 
-      - name: Pull in hoahoctro news
-        uses: ePlus-DEV/blog-post-workflow@v1.0.0
+      - run: *update-readme-step
         with:
-          retry_count: 2
-          feed_list: "https://hoahoctro.tienphong.vn/rss/home.rss"
-          committer_email: "h250694@gmail.com"
-          commit_message: Get hoahoctro news
-          rand_seed: "hoahoctro"
-          comment_tag_name: "hoahoctro"
-          date_format: 'HH:MM dd/mm/yyyy'
-          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) -$date"
-          max_post_count: 50
-
-      - name: Pull in thanhnien news
-        uses: ePlus-DEV/blog-post-workflow@v1.0.0
-        with:
-          retry_count: 2
           feed_list: "https://thanhnien.vn/rss/home.rss"
-          committer_email: "h250694@gmail.com"
-          commit_message: Get thanhnien news
-          rand_seed: "thanhnien"
           comment_tag_name: "thanhnien"
-          date_format: 'HH:MM dd/mm/yyyy'
-          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) -$date"
+          rand_seed: "thanhnien"
+
+      - run: *update-readme-step
+        with:
+          feed_list: "https://laodong.vn/rss/home.rss"
+          comment_tag_name: "laodong"
+          rand_seed: "laodong"
+
+      - run: *update-readme-step
+        with:
+          feed_list: "https://hoahoctro.tienphong.vn/rss/home.rss"
+          comment_tag_name: "hoahoctro"
+          rand_seed: "hoahoctro"
+
+# Anchor definition
+  update-readme-step: &update-readme-step
+    name: Update README with latest blog posts
+    uses: ePlus-DEV/blog-post-workflow@v1.0.0
+    with:
+      retry_count: 2
+      committer_email: "h250694@gmail.com"
+      commit_message: Get news
+      date_format: 'HH:MM dd/mm/yyyy'
+      template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,...) [$title]($url) -$date"
+      max_post_count: 50

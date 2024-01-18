@@ -3,8 +3,9 @@
 <!--ts-->
 * [Báo VnExpress](#báo-vnexpress)
 * [Báo Dân Trí](#báo-dân-trí)
-* [Báo Hoa Học Trò](#báo-hoa-học-trò)
 * [Báo Thanh Niên](#báo-thanh-niên)
+* [Báo Lao Động](#báo-lao-động)
+* [Báo Hoa Học Trò](#báo-hoa-học-trò)
 <!--te-->
 
 ## Báo VnExpress
@@ -113,6 +114,20 @@
 - 🤖 [Loài cá kỳ lạ chuyển màu đen khi bị chọc giận](https://dantri.com.vn/khoa-hoc-cong-nghe/loai-ca-ky-la-chuyen-mau-den-khi-bi-choc-gian-20240118080752228.htm) -01:44 18/01/2024
 - 🥷 [Ngôi mộ hợp táng bỗng dưng &quot;biến mất&quot; ở Hà Tĩnh](https://dantri.com.vn/phap-luat/ngoi-mo-hop-tang-bong-dung-bien-mat-o-ha-tinh-20240118012205114.htm) -01:38 18/01/2024<!-- dantri:END -->
 
+
+## Báo Thanh Niên
+<!-- thanhnien:START -->
+- 🤠 [Án mạng ở Vĩnh Long: Chồng sát hại vợ](https://thanhnien.vn/an-mang-o-vinh-long-chong-sat-hai-vo-185240118215600267.htm) -15:22 18/01/2024
+- 🥸 [Trọng Hiếu &#39;mở tiệc âm nhạc&#39; giữa đường phố Hàn Quốc](https://thanhnien.vn/trong-hieu-mo-tiec-am-nhac-giua-duong-pho-han-quoc-185240118205515786.htm) -15:17 18/01/2024
+- 🌁 [Giám đốc Công an TP.Cần Thơ khen thưởng 22 phóng viên, nhà báo](https://thanhnien.vn/giam-doc-cong-an-tpcan-tho-khen-thuong-22-phong-vien-nha-bao-185240118215626925.htm) -15:11 18/01/2024
+- 🤡 [Nhật Bản hồi hộp chờ tin vui từ mặt trăng](https://thanhnien.vn/nhat-ban-hoi-hop-cho-tin-vui-tu-mat-trang-185240118220726639.htm) -15:10 18/01/2024
+- 🎉 [Trung tá Nguyễn Quốc Hùng làm Phó giám đốc Công an tỉnh Hà Tĩnh](https://thanhnien.vn/trung-ta-nguyen-quoc-hung-lam-pho-giam-doc-cong-an-tinh-ha-tinh-185240118212530278.htm) -15:04 18/01/2024<!-- thanhnien:END -->
+
+
+## Báo Lao Động
+<!-- laodong:START -->
+<!-- laodong:END -->
+
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
 - 💼 [Showbiz 18/1: Mặt mộc của Việt Hương, Cẩm Ly ở Táo Xuân](https://tienphong.vn/showbiz-181-mat-moc-cua-viet-huong-cam-ly-o-tao-xuan-post1605691.tpo) -22:13 18/01/2024
@@ -166,6 +181,8 @@
 - 🪜 [Sẽ khai thác thử nghiệm Bể than sông Hồng](https://tienphong.vn/se-khai-thac-thu-nghiem-be-than-song-hong-post1605638.tpo) -17:12 18/01/2024
 - 🤡 [&#39;Háo hức đến thăm Làng Văn hóa, nhưng lúc ra về thấy rất buồn&#39;](https://tienphong.vn/hao-huc-den-tham-lang-van-hoa-nhung-luc-ra-ve-thay-rat-buon-post1605642.tpo) -17:06 18/01/2024<!-- hoahoctro:END -->
 
+<<<<<<< HEAD
+=======
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
 - 🤠 [NXB Kim Đồng &#39;được mùa&#39; giải thưởng](https://thanhnien.vn/nxb-kim-dong-duoc-mua-giai-thuong-185240118180556545.htm) -15:40 18/01/2024
@@ -174,6 +191,7 @@
 - 🤡 [Giám đốc Công an TP.Cần Thơ khen thưởng 22 phóng viên, nhà báo](https://thanhnien.vn/giam-doc-cong-an-tpcan-tho-khen-thuong-22-phong-vien-nha-bao-185240118215626925.htm) -15:11 18/01/2024
 - 🎉 [Nhật Bản hồi hộp chờ tin vui từ mặt trăng](https://thanhnien.vn/nhat-ban-hoi-hop-cho-tin-vui-tu-mat-trang-185240118220726639.htm) -15:10 18/01/2024<!-- thanhnien:END -->
 
+>>>>>>> 95001c3a94455c1df52fbe31dde6bf4aac5dcbf4
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
 </div>
