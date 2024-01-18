@@ -53,6 +53,10 @@
 - 🤩 [Tổng giám đốc WTO: Việt Nam là câu chuyện thành công về phát triển kinh tế](https://vnexpress.net/tong-giam-doc-wto-viet-nam-la-cau-chuyen-thanh-cong-ve-phat-trien-kinh-te-4702432.html) -10:33 18/01/2024
 - 🏊 [Đóng nút giao ở cửa ngõ nam Sài Gòn trong 8 tháng](https://vnexpress.net/dong-nut-giao-o-cua-ngo-nam-sai-gon-trong-8-thang-4702438.html) -10:30 18/01/2024<!-- vnexpress:END -->
 
+## Báo Dân Trí
+<!-- dantri:START -->
+<!-- dantri:START -->
+
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
 - 🤠 [Xe tay ga Trung Quốc sản xuất tại Đ&amp;ocirc;ng Nam &amp;Aacute;, cạnh tranh Honda ADV 160](https://thanhnien.vn/xe-tay-ga-trung-quoc-san-xuat-tai-dong-nam-a-canh-tranh-honda-adv-160-185240118102945438.htm) -12:53 18/01/2024
