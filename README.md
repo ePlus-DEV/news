@@ -1,6 +1,6 @@
 # News
 
-## vnexpress
+## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Nhu cầu vay vốn của doanh nghiệp chưa cải thiện](https://vnexpress.net/nhu-cau-vay-von-cua-doanh-nghiep-chua-cai-thien-4702414.html) - 2024-01-18
 - 🧰 [Ukraine bắt sinh viên bị cáo buộc làm gián điệp cho Nga](https://vnexpress.net/ukraine-bat-sinh-vien-bi-cao-buoc-lam-gian-diep-cho-nga-4702481.html) - 2024-01-18
@@ -18,7 +18,7 @@
 - 🎬 [Bộ trưởng Singapore đầu tiên mất chức vì cáo buộc tham nhũng](https://vnexpress.net/bo-truong-singapore-dau-tien-mat-chuc-vi-cao-buoc-tham-nhung-4702467.html) - 2024-01-18
 - 🚀 [Thủ tướng bắt đầu thăm Hungary](https://vnexpress.net/thu-tuong-bat-dau-tham-hungary-4702476.html) - 2024-01-18<!-- vnexpress:END -->
 
-## thanhnien
+## Báo Thanh Niên
 <!-- thanhnien:START -->
 - 🤠 [Xe tay ga Trung Quốc sản xuất tại Đ&amp;ocirc;ng Nam &amp;Aacute;, cạnh tranh Honda ADV 160](https://thanhnien.vn/xe-tay-ga-trung-quoc-san-xuat-tai-dong-nam-a-canh-tranh-honda-adv-160-185240118102945438.htm) - 2024-01-18
 - 🥸 [Lynk &amp;amp; Co 01 định vị &amp;#039;m&amp;acirc;m tr&amp;ecirc;n&amp;#039; Mazda CX-5, gi&amp;aacute; 999 triệu đồng tại Việt Nam](https://thanhnien.vn/lynk-co-01-dinh-vi-mam-tren-mazda-cx-5-gia-999-trieu-dong-tai-viet-nam-185240114172029212.htm) - 2024-01-18
