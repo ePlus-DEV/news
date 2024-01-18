@@ -2,21 +2,21 @@
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Nhu cầu vay vốn của doanh nghiệp chưa cải thiện](https://vnexpress.net/nhu-cau-vay-von-cua-doanh-nghiep-chua-cai-thien-4702414.html) - 2024-01-18
-- 🧰 [Ukraine bắt sinh viên bị cáo buộc làm gián điệp cho Nga](https://vnexpress.net/ukraine-bat-sinh-vien-bi-cao-buoc-lam-gian-diep-cho-nga-4702481.html) - 2024-01-18
-- 🥰 [Đất không giấy tờ trước tháng 7/2014 được cấp sổ đỏ](https://vnexpress.net/dat-khong-giay-to-truoc-thang-7-2014-duoc-cap-so-do-4702445.html) - 2024-01-18
-- 🌏 [Vị tướng nhà Trần nào là tác giả bài &#39;Tụng giá hoàn kinh sư&#39;?](https://vnexpress.net/vi-tuong-nha-tran-nao-la-tac-gia-bai-tung-gia-hoan-kinh-su-4702447.html) - 2024-01-18
-- 🧐 [Tóc cuốn vào máy làm tróc da đầu người phụ nữ](https://vnexpress.net/toc-cuon-vao-may-lam-troc-da-dau-nguoi-phu-nu-4702411.html) - 2024-01-18
-- 💫 [Sống lại vì xe cứu thương vấp ổ gà](https://vnexpress.net/song-lai-vi-xe-cuu-thuong-vap-o-ga-4702288.html) - 2024-01-18
-- 😺 [Những dải bóng bí ẩn xuất hiện trong nhật thực](https://vnexpress.net/nhung-dai-bong-bi-an-xuat-hien-trong-nhat-thuc-4702094.html) - 2024-01-18
-- 🕯 [Apple cho phép dịch vụ thanh toán ngoài App Store](https://vnexpress.net/apple-cho-phep-dich-vu-thanh-toan-ngoai-app-store-4702045.html) - 2024-01-18
-- 💃 [Giải pháp cai dần thuốc lá](https://vnexpress.net/giai-phap-cai-dan-thuoc-la-4702469.html) - 2024-01-18
-- 💂 [Bốn loại lệnh điều kiện trong chứng khoán](https://vnexpress.net/bon-loai-lenh-dieu-kien-trong-chung-khoan-4702255.html) - 2024-01-18
-- 🎊 [Clickbuy cung cấp loạt smartphone kèm ưu đãi](https://vnexpress.net/clickbuy-cung-cap-loat-smartphone-kem-uu-dai-4701757.html) - 2024-01-18
-- 🤠 [Hai dòng máy ảnh nhỏ gọn, ứng dụng AI từ Sony](https://vnexpress.net/hai-dong-may-anh-nho-gon-ung-dung-ai-tu-sony-4701740.html) - 2024-01-18
-- 🌈 [Khu liên hợp thể thao Mỹ Đình &#39;không còn khả năng thanh toán nợ thuế&#39;](https://vnexpress.net/khu-lien-hop-the-thao-my-dinh-khong-con-kha-nang-thanh-toan-no-thue-4702460.html) - 2024-01-18
-- 🎬 [Bộ trưởng Singapore đầu tiên mất chức vì cáo buộc tham nhũng](https://vnexpress.net/bo-truong-singapore-dau-tien-mat-chuc-vi-cao-buoc-tham-nhung-4702467.html) - 2024-01-18
-- 🚀 [Thủ tướng bắt đầu thăm Hungary](https://vnexpress.net/thu-tuong-bat-dau-tham-hungary-4702476.html) - 2024-01-18<!-- vnexpress:END -->
+- 🚀 [Khách không đội mũ bảo hiểm, tài xế xe ôm cùng bị phạt](https://vnexpress.net/khach-khong-doi-mu-bao-hiem-tai-xe-xe-om-cung-bi-phat-4702326.html) - 2024-01-18
+- 🧰 [Tổng thống Đức sắp thăm Việt Nam](https://vnexpress.net/tong-thong-duc-sap-tham-viet-nam-4702485.html) - 2024-01-18
+- 🥰 [Truy bắt phạm nhân bơi qua sông trốn khỏi trại giam](https://vnexpress.net/truy-bat-pham-nhan-boi-qua-song-tron-khoi-trai-giam-4702493.html) - 2024-01-18
+- 🌏 [Dàn nghệ sĩ dự thảm đỏ giải Mai Vàng](https://vnexpress.net/dan-nghe-si-du-tham-do-giai-mai-vang-4702490.html) - 2024-01-18
+- 🧐 [Thái Lan kết án tù nửa thế kỷ với người phạm tội khi quân](https://vnexpress.net/thai-lan-ket-an-tu-nua-the-ky-voi-nguoi-pham-toi-khi-quan-4702477.html) - 2024-01-18
+- 💫 [Những phụ huynh cắm mặt vào điện thoại, để con làm ồn tại quán cà phê](https://vnexpress.net/nhung-phu-huynh-cam-mat-vao-dien-thoai-de-con-lam-on-tai-quan-ca-phe-4702425.html) - 2024-01-18
+- 😺 [Nhà vợ giục tôi ký đơn nhanh để cô ấy còn lấy chồng khác](https://vnexpress.net/nha-vo-giuc-toi-ky-don-nhanh-de-co-ay-con-lay-chong-khac-4702407.html) - 2024-01-18
+- 🕯 [Mong anh trưởng thành trong suy nghĩ và hành động](https://vnexpress.net/mong-anh-truong-thanh-trong-suy-nghi-va-hanh-dong-4702120.html) - 2024-01-18
+- 💃 [Bách Hóa Xanh dự kiến bán tối đa 10% cổ phần](https://vnexpress.net/bach-hoa-xanh-du-kien-ban-toi-da-10-co-phan-4702483.html) - 2024-01-18
+- 💂 [Nhu cầu vay vốn của doanh nghiệp chưa cải thiện](https://vnexpress.net/nhu-cau-vay-von-cua-doanh-nghiep-chua-cai-thien-4702414.html) - 2024-01-18
+- 🎊 [Ukraine bắt sinh viên bị cáo buộc làm gián điệp cho Nga](https://vnexpress.net/ukraine-bat-sinh-vien-bi-cao-buoc-lam-gian-diep-cho-nga-4702481.html) - 2024-01-18
+- 🤠 [Đất không giấy tờ trước tháng 7/2014 được cấp sổ đỏ](https://vnexpress.net/dat-khong-giay-to-truoc-thang-7-2014-duoc-cap-so-do-4702445.html) - 2024-01-18
+- 🌈 [Vị tướng nhà Trần nào là tác giả bài &#39;Tụng giá hoàn kinh sư&#39;?](https://vnexpress.net/vi-tuong-nha-tran-nao-la-tac-gia-bai-tung-gia-hoan-kinh-su-4702447.html) - 2024-01-18
+- 🎬 [Tóc cuốn vào máy làm tróc da đầu người phụ nữ](https://vnexpress.net/toc-cuon-vao-may-lam-troc-da-dau-nguoi-phu-nu-4702411.html) - 2024-01-18
+- 🚀 [Sống lại vì xe cứu thương vấp ổ gà](https://vnexpress.net/song-lai-vi-xe-cuu-thuong-vap-o-ga-4702288.html) - 2024-01-18<!-- vnexpress:END -->
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
