@@ -12,14 +12,25 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in eplus.dev posts
+      - name: Pull in vnexpress news
         uses: ePlus-DEV/blog-post-workflow@v1.0.0
         with:
           retry_count: 2
           feed_list: "https://thanhnien.vn/rss/xe.rss, https://vnexpress.net/rss/tin-moi-nhat.rss"
           committer_email: "h250694@gmail.com"
-          commit_message: Get blog posts
-          rand_seed: "hoangsvit"
+          commit_message: Get vnexpress news
+          rand_seed: "vnexpress"
+          date_format: 'UTC: yyyy-mm-dd'
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) -$date"
+          max_post_count: 15
+      - name: Pull in thanhnien news
+        uses: ePlus-DEV/blog-post-workflow@v1.0.0
+        with:
+          retry_count: 2
+          feed_list: "https://thanhnien.vn/rss/xe.rss, https://vnexpress.net/rss/tin-moi-nhat.rss"
+          committer_email: "h250694@gmail.com"
+          commit_message: Get thanhnien news
+          rand_seed: "thanhnien"
           date_format: 'UTC: yyyy-mm-dd'
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) -$date"
           max_post_count: 15
