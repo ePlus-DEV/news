@@ -216,7 +216,7 @@
 <!-- hoahoctro:START -->
 - 💼 [Phát hiện đường dây ma túy lớn nhất trong lịch sử từ vụ 4 tiếp viên hàng không](https://tienphong.vn/phat-hien-duong-day-ma-tuy-lon-nhat-trong-lich-su-tu-vu-4-tiep-vien-hang-khong-post1606004.tpo) - 21:29 19/01/2024
 - 🎊 [Một phụ nữ tử vong tại cầu thang thoát hiểm bệnh viện ở Quảng Bình](https://tienphong.vn/mot-phu-nu-tu-vong-tai-cau-thang-thoat-hiem-benh-vien-o-quang-binh-post1606003.tpo) - 20:52 19/01/2024
-- 💼 [Trực tiếp Việt Nam vs Indonesia 0-1 &lpar;H2&rpar;: Thành Long, Văn Khang nhập trận](https://tienphong.vn/truc-tiep-viet-nam-vs-indonesia-0-1-h2-thanh-long-van-khang-nhap-tran-post1605996.tpo) - 20:45 19/01/2024
+- 💼 [Trực tiếp Việt Nam vs Indonesia 0-1 &lpar;H2&rpar;: Tuấn Anh dứt điểm vọt xà](https://tienphong.vn/truc-tiep-viet-nam-vs-indonesia-0-1-h2-tuan-anh-dut-diem-vot-xa-post1605996.tpo) - 20:45 19/01/2024
 - 👺 [Highlights Iraq vs Nhật Bản: &#39;Samurai xanh&#39; gãy kiếm](https://tienphong.vn/highlights-iraq-vs-nhat-ban-samurai-xanh-gay-kiem-post1606000.tpo) - 20:43 19/01/2024
 - 💪 [Tìm thấy thi thể nạn nhân 16 tuổi trong vụ nổ trên sông ở Cà Mau](https://tienphong.vn/tim-thay-thi-the-nan-nhan-16-tuoi-trong-vu-no-tren-song-o-ca-mau-post1605995.tpo) - 20:28 19/01/2024
 - 💃 [Chẩn đoán hình ảnh kỹ thuật cao như &#39;mắt thần&#39; phát hiện ung thư](https://tienphong.vn/chan-doan-hinh-anh-ky-thuat-cao-nhu-mat-than-phat-hien-ung-thu-post1605985.tpo) - 20:08 19/01/2024
