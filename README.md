@@ -117,7 +117,7 @@
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Nhật Bản hoãn sứ mệnh đổ bộ mặt trăng](https://thanhnien.vn/nhat-ban-hoan-su-menh-do-bo-mat-trang-185240119193618491.htm) - 14:46 19/01/2024
+- 🤠 [Truyền thông châu Á ‘sốc toàn tập’ khi đội tuyển Nhật Bản ngã ngựa trước Iraq](https://thanhnien.vn/truyen-thong-chau-a-soc-toan-tap-khi-doi-tuyen-nhat-ban-nga-ngua-truoc-iraq-185240119212819753.htm) - 15:10 19/01/2024
 - 🥸 [Liên hoan phim châu Á lần thứ 2 sẽ trao giải &#39;Thành tựu điện ảnh&#39;](https://thanhnien.vn/lien-hoan-phim-chau-a-lan-thu-2-se-trao-giai-thanh-tuu-dien-anh-185240119210525203.htm) - 14:41 19/01/2024
 - 🌁 [&#39;Ông lớn&#39; xăng dầu nợ thuế môi trường nghìn tỉ, Tổng cục Thuế nói gì?](https://thanhnien.vn/ong-lon-xang-dau-no-thue-moi-truong-nghin-ti-tong-cuc-thue-noi-gi-185240119210953557.htm) - 14:38 19/01/2024
 - 🤡 [Nhánh cây gãy làm một người tử vong ở TP.HCM](https://thanhnien.vn/nhanh-cay-gay-lam-mot-nguoi-tu-vong-o-tphcm-185240119212316359.htm) - 14:33 19/01/2024
@@ -139,7 +139,7 @@
 - 🌋 [Ông Vũ Xuân Bách làm Tổng cục trưởng Tổng cục Dự trữ nhà nước](https://thanhnien.vn/ong-vu-xuan-bach-lam-tong-cuc-truong-tong-cuc-du-tru-nha-nuoc-185240119201127101.htm) - 13:48 19/01/2024
 - 🐻 [Thủ tướng đề nghị công ty dược Hungary chuyển giao công nghệ với Việt Nam](https://thanhnien.vn/thu-tuong-de-nghi-cong-ty-duoc-hungary-chuyen-giao-cong-nghe-voi-viet-nam-185240119201149556.htm) - 13:39 19/01/2024
 - 🧠 [Điểm xung đột: Nga không đàm phán kiểm soát vũ khí với Mỹ; 90.000 quân NATO tập trận lớn](https://thanhnien.vn/diem-xung-dot-nga-khong-dam-phan-kiem-soat-vu-khi-voi-my-90000-quan-nato-tap-tran-lon-185240119175102771.htm) - 13:35 19/01/2024
-- 🔥 [Đội tuyển Việt Nam 0-0 Indonesia, Asian Cup 2023: Sức ép khủng khiếp lên Nguyễn Filip](https://thanhnien.vn/doi-tuyen-viet-nam-indonesia-asian-cup-2023-menh-lenh-doat-3-diem-185240119131233132.htm) - 13:30 19/01/2024
+- 🔥 [Đội tuyển Việt Nam 0-1 Indonesia, Asian Cup 2023: Mangkualam sút 11 m thành công!](https://thanhnien.vn/doi-tuyen-viet-nam-indonesia-asian-cup-2023-menh-lenh-doat-3-diem-185240119131233132.htm) - 13:30 19/01/2024
 - 🌋 [Thủ tướng Phạm Minh Chính hội kiến Phó chủ tịch Quốc hội Hungary Jakab István](https://thanhnien.vn/thu-tuong-pham-minh-chinh-hoi-kien-pho-chu-tich-quoc-hoi-hungary-jakab-istvan-185240119184658538.htm) - 13:29 19/01/2024
 - 😎 [Tổ chức ủng hộ Tổng thống Mỹ tái tranh cử gây quỹ 208 triệu USD năm 2023](https://thanhnien.vn/to-chuc-ung-ho-tong-thong-my-tai-tranh-cu-gay-quy-208-trieu-usd-nam-2023-185240119195121413.htm) - 13:22 19/01/2024
 - 🥰 [Quảng Ninh: Triệt phá &#39;xưởng&#39; sản xuất pháo nổ trong khu dân cư](https://thanhnien.vn/quang-ninh-triet-pha-xuong-san-xuat-phao-no-trong-khu-dan-cu-185240119173144973.htm) - 13:22 19/01/2024
