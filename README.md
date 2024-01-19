@@ -214,7 +214,7 @@
 - 🌋 [Hậu trường 19.1: Nguyễn Thị Huyền song ca cùng huấn luyện viên](https://laodong.vn/the-thao/hau-truong-191-nguyen-thi-huyen-song-ca-cung-huan-luyen-vien-1294606.ldo) - 12:34 19/01/2024
 - 💄 [Bản tin dự báo thời tiết đêm nay và ngày mai 20.1](https://laodong.vn/video-xa-hoi/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-201-1294202.ldo) - 12:30 19/01/2024<!-- laodong:END -->
 
-## Báo Người Lao Động (NLD)
+## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Nếu thắng đậm Iraq, tuyển Việt Nam vẫn bị loại khỏi Asian Cup 2023](https://nld.com.vn/thua-indoneisa-tuyen-viet-nam-som-bi-loai-khoi-asian-cup-2023-196240120001434913.htm) - 17:15 19/01/2024
 - 😺 [Ấm áp chương trình văn nghệ &quot;Thắm tình hữu nghị Việt Nam - Lào&quot;](https://nld.com.vn/am-ap-chuong-trinh-van-nghe-tham-tinh-huu-nghi-viet-nam-lao-196240119223236078.htm) - 15:34 19/01/2024
