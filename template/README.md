@@ -5,7 +5,7 @@
 * [Báo Dân Trí](#báo-dân-trí)
 * [Báo Thanh Niên](#báo-thanh-niên)
 * [Báo Lao Động](#báo-lao-động)
-* [Báo Người Lao Động](#báo-người-lao-động-nld)
+* [Báo Người Lao Động](#báo-người-lao-động)
 * [Báo VTC](#báo-vtc)
 * [Báo Mực Tím](#báo-mực-tím)
 * [Báo Hoa Học Trò](#báo-hoa-học-trò)
@@ -27,7 +27,7 @@
 <!-- laodong:START -->
 <!-- laodong:END -->
 
-## Báo Người Lao Động (NLD)
+## Báo Người Lao Động
 <!-- nld:START -->
 <!-- nld:END -->
 
