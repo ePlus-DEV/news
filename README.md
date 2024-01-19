@@ -197,7 +197,7 @@
 - 💫 [Động thái của IU sau khi đĩa đơn &quot;Love Wins&quot; kết hợp V BTS gây tranh cãi](https://laodong.vn/van-hoa-giai-tri/dong-thai-cua-iu-sau-khi-dia-don-love-wins-ket-hop-v-bts-gay-tranh-cai-1294552.ldo) - 13:30 19/01/2024
 - ⛽️ [Tin tức 24h: Không khí lạnh dồn dập 2 đợt, có khả năng xuất hiện mưa tuyết](https://laodong.vn/video/tin-tuc-24h-khong-khi-lanh-don-dap-2-dot-co-kha-nang-xuat-hien-mua-tuyet-1294661.ldo) - 13:30 19/01/2024
 - 💫 [&quot;Chợ Tết Công đoàn&quot; giúp công nhân ở Nam Định yên tâm sắm Tết](https://laodong.vn/video/cho-tet-cong-doan-giup-cong-nhan-o-nam-dinh-yen-tam-sam-tet-1294676.ldo) - 13:29 19/01/2024
-- 🥸 [Trực tiếp tuyển Việt Nam 0-1 Indonesia: Thành Long nhận thẻ đỏ](https://laodong.vn/bong-da/truc-tiep-tuyen-viet-nam-0-1-indonesia-thanh-long-nhan-the-do-1294674.ldo) - 13:14 19/01/2024
+- 🥸 [Thua Indonesia 0-1, tuyển Việt Nam chính thức bị loại ở Asian Cup 2023](https://laodong.vn/bong-da/thua-indonesia-0-1-tuyen-viet-nam-chinh-thuc-bi-loai-o-asian-cup-2023-1294674.ldo) - 13:14 19/01/2024
 - 🐻 [TPHCM hỗ trợ người dân, doanh nghiệp chuyển đổi sang xe điện](https://laodong.vn/xa-hoi/tphcm-ho-tro-nguoi-dan-doanh-nghiep-chuyen-doi-sang-xe-dien-1294677.ldo) - 13:08 19/01/2024
 - 🪄 [Mua 8 triệu đồng ma túy chưa kịp bán lại đã bị bắt](https://laodong.vn/phap-luat/mua-8-trieu-dong-ma-tuy-chua-kip-ban-lai-da-bi-bat-1294597.ldo) - 13:02 19/01/2024
 - 🧑‍🏫 [Ai có quyền yêu cầu xác định cha mẹ cho con?](https://laodong.vn/tu-van-phap-luat/ai-co-quyen-yeu-cau-xac-dinh-cha-me-cho-con-1293599.ldo) - 13:00 19/01/2024
