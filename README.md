@@ -5,6 +5,7 @@
 * [Báo Dân Trí](#báo-dân-trí)
 * [Báo Thanh Niên](#báo-thanh-niên)
 * [Báo Lao Động](#báo-lao-động)
+* [Báo Người Lao Động](#báo-người-lao-động)
 * [Báo VTC](#báo-vtc)
 * [Báo Mực Tím](#báo-mực-tím)
 * [Báo Hoa Học Trò](#báo-hoa-học-trò)
@@ -170,7 +171,6 @@
 - 🧑‍🏫 [Máy bay vận tải Boeing đáp khẩn vì động cơ bốc cháy giữa không trung](https://thanhnien.vn/may-bay-van-tai-boeing-dap-khan-vi-dong-co-boc-chay-giua-khong-trung-185240119190857314.htm) - 12:24 19/01/2024
 - 🫣 [90.000 lính NATO tập trận lớn nhất kể từ sau Chiến tranh Lạnh](https://thanhnien.vn/90000-linh-nato-tap-tran-lon-nhat-ke-tu-sau-chien-tranh-lanh-185240119142012905.htm) - 12:22 19/01/2024<!-- thanhnien:END -->
 
-
 ## Báo Lao Động
 <!-- laodong:START -->
 - 🗽 [Link xem trực tiếp Inter Miami vs El Salvador, giao hữu quốc tế](https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-inter-miami-vs-el-salvador-giao-huu-quoc-te-1294701.ldo) - 17:00 19/01/2024
@@ -213,6 +213,10 @@
 - 🕴 [220 suất quà Tết Sum vầy đầu tiên trao tận tay công nhân Bình Thuận](https://laodong.vn/cong-doan-toan-quoc/220-suat-qua-tet-sum-vay-dau-tien-trao-tan-tay-cong-nhan-binh-thuan-1294611.ldo) - 12:37 19/01/2024
 - 🌋 [Hậu trường 19.1: Nguyễn Thị Huyền song ca cùng huấn luyện viên](https://laodong.vn/the-thao/hau-truong-191-nguyen-thi-huyen-song-ca-cung-huan-luyen-vien-1294606.ldo) - 12:34 19/01/2024
 - 💄 [Bản tin dự báo thời tiết đêm nay và ngày mai 20.1](https://laodong.vn/video-xa-hoi/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-201-1294202.ldo) - 12:30 19/01/2024<!-- laodong:END -->
+
+## Báo Người Lao Động (NLD)
+<!-- nld:START -->
+<!-- nld:END -->
 
 ## Báo VTC
 <!-- vtc:START -->
