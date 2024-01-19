@@ -5,8 +5,9 @@
 * [Báo Dân Trí](#báo-dân-trí)
 * [Báo Thanh Niên](#báo-thanh-niên)
 * [Báo Lao Động](#báo-lao-động)
-* [Báo Hoa Học Trò](#báo-hoa-học-trò)
+* [Báo VTC](#báo-vtc)
 * [Báo Mực Tím](#báo-mực-tím)
+* [Báo Hoa Học Trò](#báo-hoa-học-trò)
 <!--te-->
 
 ## Báo VnExpress
@@ -212,6 +213,10 @@
 - 🕴 [220 suất quà Tết Sum vầy đầu tiên trao tận tay công nhân Bình Thuận](https://laodong.vn/cong-doan-toan-quoc/220-suat-qua-tet-sum-vay-dau-tien-trao-tan-tay-cong-nhan-binh-thuan-1294611.ldo) - 12:37 19/01/2024
 - 🌋 [Hậu trường 19.1: Nguyễn Thị Huyền song ca cùng huấn luyện viên](https://laodong.vn/the-thao/hau-truong-191-nguyen-thi-huyen-song-ca-cung-huan-luyen-vien-1294606.ldo) - 12:34 19/01/2024
 - 💄 [Bản tin dự báo thời tiết đêm nay và ngày mai 20.1](https://laodong.vn/video-xa-hoi/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-201-1294202.ldo) - 12:30 19/01/2024<!-- laodong:END -->
+
+## Báo VTC
+<!-- vtc:START -->
+<!-- vtc:END -->
 
 ## Báo Mực Tím
 <!-- muctim:START -->

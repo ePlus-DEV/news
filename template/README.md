@@ -5,6 +5,7 @@
 * [Báo Dân Trí](#báo-dân-trí)
 * [Báo Thanh Niên](#báo-thanh-niên)
 * [Báo Lao Động](#báo-lao-động)
+* [Báo VTC](#báo-vtc)
 * [Báo Mực Tím](#báo-mực-tím)
 * [Báo Hoa Học Trò](#báo-hoa-học-trò)
 <!--te-->
@@ -24,6 +25,10 @@
 ## Báo Lao Động
 <!-- laodong:START -->
 <!-- laodong:END -->
+
+## Báo VTC
+<!-- vtc:START -->
+<!-- vtc:END -->
 
 ## Báo Mực Tím
 <!-- muctim:START -->
