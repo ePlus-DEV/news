@@ -215,7 +215,56 @@
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-<!-- muctim:END -->
+- 🤔 [Thiếu nhi khó khăn Trường tiểu học Quang Trung &lpar;Đồng Nai&rpar; nhận học bổng từ Chi đoàn Khăn Quàng Đỏ](https://muctim.tuoitre.vn/thieu-nhi-kho-khan-truong-tieu-hoc-quang-trung-dong-nai-nhan-hoc-bong-tu-chi-doan-khan-quang-do-10124011921161589.htm) - 15:54 19/01/2024
+- 🥷 [Trung Quân ra mắt 8 MV cho album kỷ niệm 15 năm ca hát](https://muctim.tuoitre.vn/trung-quan-ra-mat-8-mv-cho-album-ky-niem-15-nam-ca-hat-101240119202522668.htm) - 13:57 19/01/2024
+- 🤖 [Sau hoa hậu mèo, nghệ nhân Quảng Trị lại gây sốt với linh vật rồng](https://muctim.tuoitre.vn/sau-hoa-hau-meo-nghe-nhan-quang-tri-lai-gay-sot-voi-linh-vat-rong-101240119162604871.htm) - 13:47 19/01/2024
+- 🤓 [Trường đại học Hoa Sen mở 4 ngành học mới năm 2024](https://muctim.tuoitre.vn/truong-dai-hoc-hoa-sen-mo-4-nganh-hoc-moi-nam-2024-10124011917535155.htm) - 13:45 19/01/2024
+- 🎉 [Điều em muốn nói: Sốc vì kết quả thi học kỳ 1, em phải làm sao?](https://muctim.tuoitre.vn/dieu-em-muon-noi-soc-vi-ket-qua-thi-hoc-ky-1-101240116090330917.htm) - 12:00 19/01/2024
+- 👨‍🏫 [Asian Cup 2023: Bạn trẻ háo hức dự đoán tỉ số trận Việt Nam - Indonesia](https://muctim.tuoitre.vn/asian-cup-2023-ban-tre-hao-huc-du-doan-ti-so-tran-viet-nam-indonesia-101240119152322254.htm) - 08:49 19/01/2024
+- 🚦 [Tuyết Minh như một trang sách mở ra biết bao điều hay](https://muctim.tuoitre.vn/tuyet-minh-nhu-mot-trang-sach-mo-ra-biet-bao-dieu-hay-101240115150208702.htm) - 08:01 19/01/2024
+- 🤭 [Tò te tí... lớp bạn đã trang trí Tết chưa?](https://muctim.tuoitre.vn/to-te-ti-lop-ban-da-trang-tri-tet-chua-101240115141638198.htm) - 07:43 19/01/2024
+- 😺 [Em yêu thành phố của em: Check in Phố sức khỏe quận 10](https://muctim.tuoitre.vn/em-yeu-thanh-pho-cua-em-check-in-pho-suc-khoe-quan-10-101240115160337345.htm) - 07:18 19/01/2024
+- 😎 [Nét cọ mến thương của nhóm bạn teen trường quốc tế](https://muctim.tuoitre.vn/net-co-men-thuong-cua-nhom-ban-teen-truong-quoc-te-101240112100741288.htm) - 04:38 19/01/2024
+- 🐎 [Gợi ý làm bài ngữ văn Giải Lê Quý Đôn: Hôm nay là một món quà](https://muctim.tuoitre.vn/goi-y-lam-bai-ngu-van-giai-le-quy-don-hom-nay-la-mot-mon-qua-101240108152812975.htm) - 03:25 19/01/2024
+- 🎓 [Bí mật 12 cung hoàng đạo: Các chòm sao nhìn trộm ai?](https://muctim.tuoitre.vn/bi-mat-12-cung-hoang-dao-cac-chom-sao-nhin-trom-ai-101240115095855202.htm) - 01:39 19/01/2024
+- 🐎 [Người đẹp Puerto Rico đăng quang Miss Global 2023, Đoàn Thu Thủy là á hậu 4](https://muctim.tuoitre.vn/nguoi-dep-puerto-rico-dang-quang-miss-global-2023-doan-thu-thuy-la-a-hau-4-101240119063016566.htm) - 23:24 18/01/2024
+- 💃 [Lịch trực tiếp Asian Cup 2023: Việt Nam đấu Indonesia](https://muctim.tuoitre.vn/lich-truc-tiep-asian-cup-2023-viet-nam-dau-indonesia-101240119062345614.htm) - 23:15 18/01/2024
+- 🪜 [Thời tiết hôm nay 19-1: Bắc Bộ sắp rét đậm diện rộng, Nam Bộ nắng gắt](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-19-1-bac-bo-sap-ret-dam-dien-rong-nam-bo-nang-gat-101240119061531608.htm) - 23:12 18/01/2024
+- 🎉 [Thứ Sáu của 12 cung hoàng đạo &lpar;19-1&rpar;: Ma Kết tham vọng](https://muctim.tuoitre.vn/thu-sau-cua-12-cung-hoang-dao-19-1-ma-ket-tham-vong-101240119061111087.htm) - 23:03 18/01/2024
+- 🥳 [Đông Nhi và con gái trình diễn tại Asian Kids Fashion Week](https://muctim.tuoitre.vn/dong-nhi-va-con-gai-trinh-dien-tai-asian-kids-fashion-week-101240118215317081.htm) - 22:58 18/01/2024
+- 🤓 [Bạch Lộc và Lý Nhất Đồng như chị em sinh đôi vì đụng tạo hình](https://muctim.tuoitre.vn/bach-loc-va-ly-nhat-dong-nhu-chi-em-sinh-doi-vi-dung-tao-hinh-101240118193313503.htm) - 22:56 18/01/2024
+- 🎉 [Quẳng gánh lo đi, người trẻ háo hức đón Tết Giáp Thìn](https://muctim.tuoitre.vn/quang-ganh-lo-di-nguoi-tre-hao-huc-don-tet-giap-thin-101240113215032096.htm) - 22:54 18/01/2024
+- 🥳 [Nữ sinh THPT chuyên Lê Hồng Phong giành học bổng 8 tỷ nhờ bài luận kết hợp tranh biện và khoa học](https://muctim.tuoitre.vn/nu-sinh-thpt-chuyen-le-hong-phong-gianh-hoc-bong-8-ty-nho-bai-luan-ket-hop-tranh-bien-va-khoa-hoc-101240118203516278.htm) - 22:37 18/01/2024
+- 🎡 [Truyện ngắn Mực Tím: Hoa nắng dưới thềm](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-hoa-nang-duoi-them-101240118165738774.htm) - 14:24 18/01/2024
+- 👨‍🏫 [Vì sao xe đưa đón học sinh ở phương Tây có màu vàng sậm?](https://muctim.tuoitre.vn/vi-sao-xe-dua-don-hoc-sinh-o-phuong-tay-co-mau-vang-sam-101240118211734215.htm) - 14:07 18/01/2024
+- 🧠 [Đàm Vĩnh Hưng chỉ cần gửi 4 tin nhắn đã được Mỹ Tâm nhận lời tham gia liveshow](https://muctim.tuoitre.vn/dam-vinh-hung-chi-can-gui-4-tin-nhan-da-duoc-my-tam-nhan-loi-tham-gia-liveshow-10124011811060373.htm) - 13:53 18/01/2024
+- 🥷 [Ngu Thư Hân đối đầu Cúc Tịnh Y khi hai phim Tiên kiếm cùng lên sóng](https://muctim.tuoitre.vn/ngu-thu-han-doi-dau-cuc-tinh-y-khi-hai-phim-tien-kiem-cung-len-song-101240118155711206.htm) - 13:49 18/01/2024
+- 🤔 [Mỹ nhân Hoa ngữ sinh năm 1998: Triệu Lộ Tư chiếm thế áp đảo?](https://muctim.tuoitre.vn/my-nhan-hoa-ngu-sinh-nam-1998-trieu-lo-tu-chiem-the-ap-dao-101240117112209198.htm) - 04:00 18/01/2024
+- 🐎 [Ngày giáp Tết của những học trò sống một mình](https://muctim.tuoitre.vn/ngay-giap-tet-cua-nhung-hoc-tro-song-mot-minh-101240112095651017.htm) - 23:54 17/01/2024
+- ⛽️ [Nhan sắc Park Min Young Cô đi mà lấy chồng tôi biến đổi thế nào theo thời gian?](https://muctim.tuoitre.vn/nhan-sac-park-min-young-co-di-ma-lay-chong-toi-bien-doi-the-nao-theo-thoi-gian-101240110093412124.htm) - 23:52 17/01/2024
+- 🤡 [Lịch trực tiếp Asian Cup 2023 hôm nay: UAE, Úc, và Uzbekistan thi đấu](https://muctim.tuoitre.vn/lich-truc-tiep-asian-cup-2023-hom-nay-uae-uc-va-uzbekistan-thi-dau-101240118064833463.htm) - 23:49 17/01/2024
+- 🌁 [Nguyễn Đình Bắc sẽ không ra sân trận Việt Nam - Indonesia?](https://muctim.tuoitre.vn/nguyen-dinh-bac-se-khong-ra-san-tran-viet-nam-indonesia-101240118064204461.htm) - 23:42 17/01/2024
+- 🎓 [Tin tức thể thao sáng 18-1: Martial không được tập cùng đội 1 Man United; Morocco thắng dễ](https://muctim.tuoitre.vn/tin-tuc-the-thao-sang-18-1-martial-khong-duoc-tap-cung-doi-1-man-united-morocco-thang-de-101240118063713614.htm) - 23:31 17/01/2024
+- 🦍 [Thời tiết hôm nay 18-1: Nam Bộ nắng ráo, Bắc Bộ mưa rét](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-18-1-nam-bo-nang-rao-bac-bo-mua-ret-101240118063101819.htm) - 23:28 17/01/2024
+- 🤠 [Teen 2K6 ơi, cuối tuần này, lập team dự chương trình tư vấn tuyển sinh - hướng nghiệp thôi!](https://muctim.tuoitre.vn/teen-2k6-oi-cuoi-tuan-nay-lap-team-du-chuong-trinh-tu-van-tuyen-sinh-huong-nghiep-thoi-101240118062705509.htm) - 22:43 17/01/2024
+- 🎬 [Thứ Năm của 12 cung hoàng đạo &lpar;18-1&rpar;: Niềm vui đơn giản của Bảo Bình](https://muctim.tuoitre.vn/thu-nam-cua-12-cung-hoang-dao-18-1-niem-vui-don-gian-cua-bao-binh-101240118054054804.htm) - 22:28 17/01/2024
+- 🌮 [Gen Z mặc Việt phục dạo phố, chụp ảnh](https://muctim.tuoitre.vn/gen-z-mac-viet-phuc-dao-pho-chup-anh-101240117141706487.htm) - 22:27 17/01/2024
+- 👹 [LE SSERAFIM, ATEEZ và The Rose biểu diễn bên cạnh loạt sao lớn tại Coachella 2024](https://muctim.tuoitre.vn/le-sserafim-ateez-va-the-rose-bieu-dien-ben-canh-loat-sao-lon-tai-coachella-2024-101240117205724945.htm) - 14:13 17/01/2024
+- 🤔 [Từ Chào mừng đến Samdalri nghĩ về những người mẹ thương con trong phim Hàn](https://muctim.tuoitre.vn/tu-chao-mung-den-samdalri-nghi-ve-nhung-nguoi-me-thuong-con-trong-phim-han-101240112175803204.htm) - 13:00 17/01/2024
+- 🏊 [Phim vừa lên sóng, Cúc Tịnh Y và Trần Triết Viễn đã tranh cãi](https://muctim.tuoitre.vn/phim-vua-len-song-cuc-tinh-y-va-tran-triet-vien-da-tranh-cai-101240117180516026.htm) - 12:44 17/01/2024
+- 📝 [Truyện ngắn Mực Tím: Hành tinh song song*](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-hanh-tinh-song-song-10124011419010163.htm) - 12:17 17/01/2024
+- 👺 [Teen TP.HCM diễn kịch, hoạt cảnh nói về trường học hạnh phúc](https://muctim.tuoitre.vn/teen-tphcm-dien-kich-hoat-canh-noi-ve-truong-hoc-hanh-phuc-101240117132027179.htm) - 11:53 17/01/2024
+- 👹 [Những con đường đến trường gập ghềnh](https://muctim.tuoitre.vn/nhung-con-duong-den-truong-gap-ghenh-101240115102021284.htm) - 11:38 17/01/2024
+- 🎊 [Thanh Hằng đón tin vui đầu năm](https://muctim.tuoitre.vn/thanh-hang-don-tin-vui-dau-nam-101240117163739722.htm) - 11:00 17/01/2024
+- 👹 [Quốc Thiên tung loạt ca khúc mùa xuân; Chu Thúy Quỳnh thay đổi phong cách](https://muctim.tuoitre.vn/quoc-thien-tung-loat-ca-khuc-mua-xuan-chu-thuy-quynh-thay-doi-phong-cach-101240117142714561.htm) - 10:57 17/01/2024
+- 🎃 [Kết quả Asian Cup 2023 của các đội Đông Nam Á sau lượt trận đầu tiên](https://muctim.tuoitre.vn/ket-qua-asian-cup-2023-cua-cac-doi-dong-nam-a-sau-luot-tran-dau-tien-101240117144437781.htm) - 10:34 17/01/2024
+- 🧑‍🏫 [Diễn viên Thanh xuân vật vã vụt sáng trong Cô đi mà lấy chồng tôi](https://muctim.tuoitre.vn/dien-vien-thanh-xuan-vat-va-vut-sang-trong-co-di-ma-lay-chong-toi-101240116175003687.htm) - 05:34 17/01/2024
+- 🎊 [Hội Chợ Dân Gian 2024 – hội xuân cực cháy của teen THPT Nguyễn Hữu Huân](https://muctim.tuoitre.vn/hoi-cho-dan-gian-2024-hoi-xuan-cuc-chay-cua-teen-thpt-nguyen-huu-huan-101240117062124318.htm) - 05:23 17/01/2024
+- 📝 [Diệu Nhi: Tôi mong là phiên bản nữ của anh Kiều Minh Tuấn](https://muctim.tuoitre.vn/dieu-nhi-toi-mong-la-phien-ban-nu-cua-anh-kieu-minh-tuan-101240112143213848.htm) - 03:31 17/01/2024
+- 🥳 [Đà Lạt mùa hoa ban nở trắng núi đồi](https://muctim.tuoitre.vn/da-lat-mua-hoa-ban-no-trang-nui-doi-101240110140647052.htm) - 23:29 16/01/2024
+- 💻 [Những chiếc bao lì xì do chính tay các bệnh nhi thiết kế](https://muctim.tuoitre.vn/nhung-chiec-bao-li-xi-do-chinh-tay-cac-benh-nhi-thiet-ke-101240108023518367.htm) - 23:17 16/01/2024
+- 😎 [Những tựa sách xuân cho kỳ nghỉ tết sắp đến thêm rộn ràng](https://muctim.tuoitre.vn/nhung-tua-sach-xuan-cho-ky-nghi-tet-sap-den-them-ron-rang-101240114151222358.htm) - 23:12 16/01/2024
+- 🤭 [Thời tiết hôm nay 17-1: Bắc Bộ mưa rào đến mưa to, Nam Bộ sáng sớm se mát](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-17-1-bac-bo-mua-rao-den-mua-to-nam-bo-sang-som-se-mat-101240117061024765.htm) - 23:07 16/01/2024<!-- muctim:END -->
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
