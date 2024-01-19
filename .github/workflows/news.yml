@@ -69,7 +69,7 @@ jobs:
         uses: ePlus-DEV/blog-post-workflow@v1.0.0
         with:
           retry_count: 2
-          feed_list: "hhttps://vtc.vn/rss/feed.rss"
+          feed_list: "https://vtc.vn/rss/feed.rss"
           committer_email: "h250694@gmail.com"
           commit_message: Get vtc news
           rand_seed: "vtc"
