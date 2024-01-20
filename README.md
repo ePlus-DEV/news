@@ -325,7 +325,7 @@
 - 🤓 [Tuyết Minh như một trang sách mở ra biết bao điều hay](https://muctim.tuoitre.vn/tuyet-minh-nhu-mot-trang-sach-mo-ra-biet-bao-dieu-hay-101240115150208702.htm) - 08:01 19/01/2024
 - 🎉 [Tò te tí... lớp bạn đã trang trí Tết chưa?](https://muctim.tuoitre.vn/to-te-ti-lop-ban-da-trang-tri-tet-chua-101240115141638198.htm) - 07:43 19/01/2024
 - 🥳 [Em yêu thành phố của em: Check in Phố sức khỏe quận 10](https://muctim.tuoitre.vn/em-yeu-thanh-pho-cua-em-check-in-pho-suc-khoe-quan-10-101240115160337345.htm) - 07:18 19/01/2024
-- 🎡 [Nét cọ mến thương của nhóm bạn teen trường quốc tế](https://muctim.tuoitre.vn/net-co-men-thuong-cua-nhom-ban-teen-truong-quoc-te-101240112100741288.htm) - 04:38 19/01/2024
+- 🎡 [Nét cọ mến thương của nhóm bạn teen TP.HCM](https://muctim.tuoitre.vn/net-co-men-thuong-cua-nhom-ban-teen-tphcm-101240112100741288.htm) - 04:38 19/01/2024
 - 👨‍🏫 [Gợi ý làm bài ngữ văn Giải Lê Quý Đôn: Hôm nay là một món quà](https://muctim.tuoitre.vn/goi-y-lam-bai-ngu-van-giai-le-quy-don-hom-nay-la-mot-mon-qua-101240108152812975.htm) - 03:25 19/01/2024
 - 🧠 [Bí mật 12 cung hoàng đạo: Các chòm sao nhìn trộm ai?](https://muctim.tuoitre.vn/bi-mat-12-cung-hoang-dao-cac-chom-sao-nhin-trom-ai-101240115095855202.htm) - 01:39 19/01/2024
 - 🥷 [Người đẹp Puerto Rico đăng quang Miss Global 2023, Đoàn Thu Thủy là á hậu 4](https://muctim.tuoitre.vn/nguoi-dep-puerto-rico-dang-quang-miss-global-2023-doan-thu-thuy-la-a-hau-4-101240119063016566.htm) - 23:24 18/01/2024
