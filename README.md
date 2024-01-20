@@ -265,20 +265,20 @@
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Giá nhà ngày càng đắt, căn hộ diện tích nhỏ lên ngôi](https://vtc.vn/gia-nha-ngay-cang-dat-can-ho-dien-tich-nho-len-ngoi-ar847835.html) - 06:00 20/01/2024
-- 🤭 [Nga tung UAV Shahed-238 vào chiến đấu, Ukraine thêm gặp khó](https://vtc.vn/nga-tung-uav-shahed-238-vao-chien-dau-ukraine-them-gap-kho-ar848178.html) - 05:01 20/01/2024
-- 🦒 [Chiêm ngưỡng &#39;Vũ điệu bách long&#39; - 100 rồng gốm phù điêu của nghệ nhân đất Cảng](https://vtc.vn/chiem-nguong-vu-dieu-bach-long-100-rong-gom-phu-dieu-cua-nghe-nhan-dat-cang-ar846655.html) - 04:45 20/01/2024
-- 🌮 [Hai &#39;đại gia chân đất&#39;: Người là giám đốc nhà hát, người có tài sản khủng](https://vtc.vn/hai-dai-gia-chan-dat-nguoi-la-giam-doc-nha-hat-nguoi-co-tai-san-khung-ar848350.html) - 04:33 20/01/2024
-- 🤖 [Khởi tố, bắt tạm giam cán bộ văn phòng đăng ký đất đai tỉnh Quảng Trị](https://vtc.vn/khoi-to-bat-tam-giam-can-bo-van-phong-dang-ky-dat-dai-tinh-quang-tri-ar848703.html) - 04:25 20/01/2024
-- 🎬 [Đánh bại tuyển Việt Nam, Indonesia cắt mạch 17 năm không thắng ở Asian Cup](https://vtc.vn/danh-bai-tuyen-viet-nam-indonesia-cat-mach-17-nam-khong-thang-o-asian-cup-ar848702.html) - 04:12 20/01/2024
-- 🥳 [Ba lý do khiến tuyển Việt Nam thua cay đắng Indonesia](https://vtc.vn/ba-ly-do-khien-tuyen-viet-nam-thua-cay-dang-indonesia-ar848691.html) - 04:09 20/01/2024
-- 🎓 [Những chỉ chứng tiếng Anh sinh viên nên có](https://vtc.vn/nhung-chi-chung-tieng-anh-sinh-vien-nen-co-ar848577.html) - 04:06 20/01/2024
-- 👹 [Đội tuyển Việt Nam nguy cơ bị bật khỏi top 100 thế giới](https://vtc.vn/doi-tuyen-viet-nam-nguy-co-bi-bat-khoi-top-100-the-gioi-ar848698.html) - 03:54 20/01/2024
-- 🤖 [Hành trình hơn 15.000 km vòng quanh nước Mỹ cùng VinFast VF 8](https://vtc.vn/hanh-trinh-hon-15-000-km-vong-quanh-nuoc-my-cung-vinfast-vf-8-ar848653.html) - 03:46 20/01/2024
-- 🎊 [VCPMC thu hơn 344 tỷ đồng tiền tác quyền âm nhạc trong năm 2023](https://vtc.vn/vcpmc-thu-hon-344-ty-dong-tien-tac-quyen-am-nhac-trong-nam-2023-ar848626.html) - 03:34 20/01/2024
-- 🐻 [Bộ ảnh cưới cá tính của nhạc sĩ Nguyễn Đức Cường và Vũ Hạnh Nguyên](https://vtc.vn/bo-anh-cuoi-ca-tinh-cua-nhac-si-nguyen-duc-cuong-va-vu-hanh-nguyen-ar848672.html) - 03:03 20/01/2024
-- 👍 [Thấy gì từ việc loạt tỉnh thành xây dựng Zalo mini app cho người dân?](https://vtc.vn/thay-gi-tu-viec-loat-tinh-thanh-xay-dung-zalo-mini-app-cho-nguoi-dan-ar846780.html) - 03:00 20/01/2024
-- 🪜 [Ngắm chậu lan hồ điệp mạ vàng, cao 9 tầng ở Hà Nội](https://vtc.vn/ngam-chau-lan-ho-diep-ma-vang-cao-9-tang-o-ha-noi-ar848661.html) - 02:30 20/01/2024
+- 🥸 [Bộ Ngoại giao lên tiếng việc Trung Quốc chiếm đoạt Hoàng Sa](https://vtc.vn/bo-ngoai-giao-len-tieng-viec-trung-quoc-chiem-doat-hoang-sa-ar848706.html) - 06:42 20/01/2024
+- 🤭 [Giá nhà ngày càng đắt, căn hộ diện tích nhỏ lên ngôi](https://vtc.vn/gia-nha-ngay-cang-dat-can-ho-dien-tich-nho-len-ngoi-ar847835.html) - 06:00 20/01/2024
+- 🦒 [Nga tung UAV Shahed-238 vào chiến đấu, Ukraine thêm gặp khó](https://vtc.vn/nga-tung-uav-shahed-238-vao-chien-dau-ukraine-them-gap-kho-ar848178.html) - 05:01 20/01/2024
+- 🌮 [Chiêm ngưỡng &#39;Vũ điệu bách long&#39; - 100 rồng gốm phù điêu của nghệ nhân đất Cảng](https://vtc.vn/chiem-nguong-vu-dieu-bach-long-100-rong-gom-phu-dieu-cua-nghe-nhan-dat-cang-ar846655.html) - 04:45 20/01/2024
+- 🤖 [Hai &#39;đại gia chân đất&#39;: Người là giám đốc nhà hát, người có tài sản khủng](https://vtc.vn/hai-dai-gia-chan-dat-nguoi-la-giam-doc-nha-hat-nguoi-co-tai-san-khung-ar848350.html) - 04:33 20/01/2024
+- 🎬 [Khởi tố, bắt tạm giam cán bộ văn phòng đăng ký đất đai tỉnh Quảng Trị](https://vtc.vn/khoi-to-bat-tam-giam-can-bo-van-phong-dang-ky-dat-dai-tinh-quang-tri-ar848703.html) - 04:25 20/01/2024
+- 🥳 [Đánh bại tuyển Việt Nam, Indonesia cắt mạch 17 năm không thắng ở Asian Cup](https://vtc.vn/danh-bai-tuyen-viet-nam-indonesia-cat-mach-17-nam-khong-thang-o-asian-cup-ar848702.html) - 04:12 20/01/2024
+- 🎓 [Ba lý do khiến tuyển Việt Nam thua cay đắng Indonesia](https://vtc.vn/ba-ly-do-khien-tuyen-viet-nam-thua-cay-dang-indonesia-ar848691.html) - 04:09 20/01/2024
+- 👹 [Những chỉ chứng tiếng Anh sinh viên nên có](https://vtc.vn/nhung-chi-chung-tieng-anh-sinh-vien-nen-co-ar848577.html) - 04:06 20/01/2024
+- 🤖 [Đội tuyển Việt Nam nguy cơ bị bật khỏi top 100 thế giới](https://vtc.vn/doi-tuyen-viet-nam-nguy-co-bi-bat-khoi-top-100-the-gioi-ar848698.html) - 03:54 20/01/2024
+- 🎊 [Hành trình hơn 15.000 km vòng quanh nước Mỹ cùng VinFast VF 8](https://vtc.vn/hanh-trinh-hon-15-000-km-vong-quanh-nuoc-my-cung-vinfast-vf-8-ar848653.html) - 03:46 20/01/2024
+- 🐻 [VCPMC thu hơn 344 tỷ đồng tiền tác quyền âm nhạc trong năm 2023](https://vtc.vn/vcpmc-thu-hon-344-ty-dong-tien-tac-quyen-am-nhac-trong-nam-2023-ar848626.html) - 03:34 20/01/2024
+- 👍 [Bộ ảnh cưới cá tính của nhạc sĩ Nguyễn Đức Cường và Vũ Hạnh Nguyên](https://vtc.vn/bo-anh-cuoi-ca-tinh-cua-nhac-si-nguyen-duc-cuong-va-vu-hanh-nguyen-ar848672.html) - 03:03 20/01/2024
+- 🪜 [Thấy gì từ việc loạt tỉnh thành xây dựng Zalo mini app cho người dân?](https://vtc.vn/thay-gi-tu-viec-loat-tinh-thanh-xay-dung-zalo-mini-app-cho-nguoi-dan-ar846780.html) - 03:00 20/01/2024
 - 🌮 [TP.HCM chi 1.000 tỷ đồng giải cứu &#39;ma trận kẹt xe&#39; cửa ngõ phía Đông Bắc](https://vtc.vn/tp-hcm-chi-1-000-ty-dong-giai-cuu-ma-tran-ket-xe-cua-ngo-phia-dong-bac-ar847156.html) - 01:59 20/01/2024
 - 🌁 [Dự báo thời tiết TP.HCM hôm nay 20/1: Mây thay đổi, ngày nắng](https://vtc.vn/du-bao-thoi-tiet-tp-hcm-hom-nay-20-1-may-thay-doi-ngay-nang-ar848695.html) - 01:57 20/01/2024
 - 👺 [Xe tải điện đón nhận công nghệ sạc không dây cực nhanh, 500kW chỉ trong 15 phút](https://vtc.vn/xe-tai-dien-don-nhan-cong-nghe-sac-khong-day-cuc-nhanh-500kw-chi-trong-15-phut-ar848384.html) - 00:43 20/01/2024
