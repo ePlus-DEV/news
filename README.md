@@ -266,23 +266,23 @@
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Cristiano Ronaldo giành 3 giải thưởng, vẫn trượt &#39;Quả bóng vàng Dubai&#39;](https://vtc.vn/cristiano-ronaldo-gianh-3-giai-thuong-van-truot-qua-bong-vang-dubai-ar848688.html) - 00:15 20/01/2024
-- 🤭 [Mang cả tập tiền ra đường ném để giải tán nhóm các bà đang múa hát quá ồn](https://vtc.vn/mang-ca-tap-tien-ra-duong-nem-de-giai-tan-nhom-cac-ba-dang-mua-hat-qua-on-ar848548.html) - 00:00 20/01/2024
-- 🦒 [Tuyển Việt Nam thua Indonesia, HLV Troussier nói &#39;không hối tiếc&#39;](https://vtc.vn/tuyen-viet-nam-thua-indonesia-hlv-troussier-noi-khong-hoi-tiec-ar848687.html) - 00:00 20/01/2024
-- 🌮 [Cây trôi hơn 400 năm tuổi ở Hà Tĩnh](https://vtc.vn/cay-troi-hon-400-nam-tuoi-o-ha-tinh-ar847334.html) - 23:48 19/01/2024
-- 🤖 [Sao Việt 20/1: Minh Hằng khoe eo thon sau sinh, Ngọc Huyền diện váy cưới](https://vtc.vn/sao-viet-20-1-minh-hang-khoe-eo-thon-sau-sinh-ngoc-huyen-dien-vay-cuoi-ar848658.html) - 23:44 19/01/2024
-- 🎬 [Mỹ gấp rút hồi sinh ngành công nghiệp vũ khí hạt nhân](https://vtc.vn/my-gap-rut-hoi-sinh-nganh-cong-nghiep-vu-khi-hat-nhan-ar848104.html) - 23:41 19/01/2024
-- 🥳 [Dân Vũ Đại xuyên đêm đỏ lửa, đeo kính bơi kho cá bạc triệu phục vụ Tết](https://vtc.vn/dan-vu-dai-xuyen-dem-do-lua-deo-kinh-boi-kho-ca-bac-trieu-phuc-vu-tet-ar847783.html) - 23:35 19/01/2024
-- 🎓 [Choáng ngợp cặp đào, mai mạ vàng giá 6 tỷ đồng](https://vtc.vn/choang-ngop-cap-dao-mai-ma-vang-gia-6-ty-dong-ar848342.html) - 23:30 19/01/2024
-- 👹 [Vượt Minh Hằng nhận giải &#39;Nữ diễn viên xuất sắc&#39;, Diệp Bảo Ngọc nói gì?](https://vtc.vn/vuot-minh-hang-nhan-giai-nu-dien-vien-xuat-sac-diep-bao-ngoc-noi-gi-ar848686.html) - 23:30 19/01/2024
+- 🥸 [Nỗi khổ của người mẹ trẻ bị vết bớt chiếm nửa khuôn mặt](https://vtc.vn/noi-kho-cua-nguoi-me-tre-bi-vet-bot-chiem-nua-khuon-mat-ar843624.html) - 00:30 20/01/2024
+- 🤭 [Cristiano Ronaldo giành 3 giải thưởng, vẫn trượt &#39;Quả bóng vàng Dubai&#39;](https://vtc.vn/cristiano-ronaldo-gianh-3-giai-thuong-van-truot-qua-bong-vang-dubai-ar848688.html) - 00:15 20/01/2024
+- 🦒 [Mang cả tập tiền ra đường ném để giải tán nhóm các bà đang múa hát quá ồn](https://vtc.vn/mang-ca-tap-tien-ra-duong-nem-de-giai-tan-nhom-cac-ba-dang-mua-hat-qua-on-ar848548.html) - 00:00 20/01/2024
+- 🌮 [Tuyển Việt Nam thua Indonesia, HLV Troussier nói &#39;không hối tiếc&#39;](https://vtc.vn/tuyen-viet-nam-thua-indonesia-hlv-troussier-noi-khong-hoi-tiec-ar848687.html) - 00:00 20/01/2024
+- 🤖 [Cây trôi hơn 400 năm tuổi ở Hà Tĩnh](https://vtc.vn/cay-troi-hon-400-nam-tuoi-o-ha-tinh-ar847334.html) - 23:48 19/01/2024
+- 🎬 [Sao Việt 20/1: Minh Hằng khoe eo thon sau sinh, Ngọc Huyền diện váy cưới](https://vtc.vn/sao-viet-20-1-minh-hang-khoe-eo-thon-sau-sinh-ngoc-huyen-dien-vay-cuoi-ar848658.html) - 23:44 19/01/2024
+- 🥳 [Mỹ gấp rút hồi sinh ngành công nghiệp vũ khí hạt nhân](https://vtc.vn/my-gap-rut-hoi-sinh-nganh-cong-nghiep-vu-khi-hat-nhan-ar848104.html) - 23:41 19/01/2024
+- 🎓 [Dân Vũ Đại xuyên đêm đỏ lửa, đeo kính bơi kho cá bạc triệu phục vụ Tết](https://vtc.vn/dan-vu-dai-xuyen-dem-do-lua-deo-kinh-boi-kho-ca-bac-trieu-phuc-vu-tet-ar847783.html) - 23:35 19/01/2024
+- 👹 [Choáng ngợp cặp đào, mai mạ vàng giá 6 tỷ đồng](https://vtc.vn/choang-ngop-cap-dao-mai-ma-vang-gia-6-ty-dong-ar848342.html) - 23:30 19/01/2024
 - 🤖 [Vượt Minh Hằng nhận giải &#39;Nữ diễn viên xuất sắc&#39;, Diệp Bảo Ngọc nói gì?](https://vtc.vn/vuot-minh-hang-nhan-giai-nu-dien-vien-xuat-sac-diep-bao-ngoc-noi-gi-ar848686.html) - 23:30 19/01/2024
-- 🎊 [HLV Troussier không trách Thanh Bình mắc lỗi](https://vtc.vn/hlv-troussier-khong-trach-thanh-binh-mac-loi-ar848689.html) - 23:30 19/01/2024
-- 🐻 [Không khí lạnh tràn về, đêm nay miền Bắc mưa rét](https://vtc.vn/khong-khi-lanh-tran-ve-dem-nay-mien-bac-mua-ret-ar848657.html) - 23:24 19/01/2024
-- 👍 [Thiên Lôi trong &#39;Táo quân&#39; thay đổi thế nào sau hơn 20 năm lên sóng?](https://vtc.vn/thien-loi-trong-tao-quan-thay-doi-the-nao-sau-hon-20-nam-len-song-ar848187.html) - 23:20 19/01/2024
-- 🪜 [Tuyển Việt Nam gục ngã, cầu thủ Indonesia òa khóc](https://vtc.vn/tuyen-viet-nam-guc-nga-cau-thu-indonesia-oa-khoc-ar848690.html) - 23:15 19/01/2024
-- 🌮 [Cận cảnh kỳ quan cung điện quanh năm ngập chìm trong nước nổi tiếng ở Ấn Độ](https://vtc.vn/can-canh-ky-quan-cung-dien-quanh-nam-ngap-chim-trong-nuoc-noi-tieng-o-an-do-ar848679.html) - 23:13 19/01/2024
-- 🌁 [Độ xe, làm đẹp cho xe thế nào để không bị trượt đăng kiểm?](https://vtc.vn/do-xe-lam-dep-cho-xe-the-nao-de-khong-bi-truot-dang-kiem-ar847821.html) - 23:11 19/01/2024
-- 👺 [Tuyển thủ Việt Nam nghẹn ngào sau thất bại, thừa nhận bị bất ngờ trước Indonesia](https://vtc.vn/tuyen-thu-viet-nam-nghen-ngao-sau-that-bai-thua-nhan-bi-bat-ngo-truoc-indonesia-ar848685.html) - 23:00 19/01/2024
+- 🎊 [Vượt Minh Hằng nhận giải &#39;Nữ diễn viên xuất sắc&#39;, Diệp Bảo Ngọc nói gì?](https://vtc.vn/vuot-minh-hang-nhan-giai-nu-dien-vien-xuat-sac-diep-bao-ngoc-noi-gi-ar848686.html) - 23:30 19/01/2024
+- 🐻 [HLV Troussier không trách Thanh Bình mắc lỗi](https://vtc.vn/hlv-troussier-khong-trach-thanh-binh-mac-loi-ar848689.html) - 23:30 19/01/2024
+- 👍 [Không khí lạnh tràn về, đêm nay miền Bắc mưa rét](https://vtc.vn/khong-khi-lanh-tran-ve-dem-nay-mien-bac-mua-ret-ar848657.html) - 23:24 19/01/2024
+- 🪜 [Thiên Lôi trong &#39;Táo quân&#39; thay đổi thế nào sau hơn 20 năm lên sóng?](https://vtc.vn/thien-loi-trong-tao-quan-thay-doi-the-nao-sau-hon-20-nam-len-song-ar848187.html) - 23:20 19/01/2024
+- 🌮 [Tuyển Việt Nam gục ngã, cầu thủ Indonesia òa khóc](https://vtc.vn/tuyen-viet-nam-guc-nga-cau-thu-indonesia-oa-khoc-ar848690.html) - 23:15 19/01/2024
+- 🌁 [Cận cảnh kỳ quan cung điện quanh năm ngập chìm trong nước nổi tiếng ở Ấn Độ](https://vtc.vn/can-canh-ky-quan-cung-dien-quanh-nam-ngap-chim-trong-nuoc-noi-tieng-o-an-do-ar848679.html) - 23:13 19/01/2024
+- 👺 [Độ xe, làm đẹp cho xe thế nào để không bị trượt đăng kiểm?](https://vtc.vn/do-xe-lam-dep-cho-xe-the-nao-de-khong-bi-truot-dang-kiem-ar847821.html) - 23:11 19/01/2024
 - 🌊 [Uống nước trước khi ngủ có ngừa đột quỵ?](https://vtc.vn/uong-nuoc-truoc-khi-ngu-co-ngua-dot-quy-ar848482.html) - 11:17 19/01/2024
 - 🤖 [Khởi tố 3 bị can né kiểm tra nồng độ cồn, lao xe vào mô tô CSGT](https://vtc.vn/khoi-to-3-bi-can-ne-kiem-tra-nong-do-con-lao-xe-vao-mo-to-csgt-ar848637.html) - 11:08 19/01/2024
 - 🥸 [Kính viễn vọng mới NASA sẽ xuyên qua bức màn vật chất tối vào năm 2027](https://vtc.vn/kinh-vien-vong-moi-nasa-se-xuyen-qua-buc-man-vat-chat-toi-vao-nam-2027-ar848559.html) - 11:08 19/01/2024
