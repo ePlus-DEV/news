@@ -364,7 +364,7 @@
 - 💼 [Đương kim Hoa hậu Quốc tế bị chê già](https://tienphong.vn/duong-kim-hoa-hau-quoc-te-bi-che-gia-post1606140.tpo) - 22:04 20/01/2024
 - 🎊 [Showbiz 20/1: Hoa hậu Đoàn Thu Thủy xin lỗi](https://tienphong.vn/showbiz-201-hoa-hau-doan-thu-thuy-xin-loi-post1606232.tpo) - 21:59 20/01/2024
 - 💼 [Thắng huỷ diệt Crystal Palace, Arsenal chính thức &#39;ra khỏi hang&#39;](https://tienphong.vn/thang-huy-diet-crystal-palace-arsenal-chinh-thuc-ra-khoi-hang-post1606245.tpo) - 21:37 20/01/2024
-- 👺 [Trực tiếp Bahrain vs Malaysia 0-0 &lpar;hết H1&rpar;: Thiếu chính xác ở đường chuyền quyết định](https://tienphong.vn/truc-tiep-bahrain-vs-malaysia-0-0-het-h1-thieu-chinh-xac-o-duong-chuyen-quyet-dinh-post1606233.tpo) - 21:19 20/01/2024
+- 👺 [Trực tiếp Bahrain vs Malaysia 0-0 &lpar;H2&rpar;: Thiếu chính xác ở đường chuyền quyết định](https://tienphong.vn/truc-tiep-bahrain-vs-malaysia-0-0-h2-thieu-chinh-xac-o-duong-chuyen-quyet-dinh-post1606233.tpo) - 21:19 20/01/2024
 - 💪 [Thủ tướng đến Bucharest, bắt đầu thăm chính thức Romania](https://tienphong.vn/thu-tuong-den-bucharest-bat-dau-tham-chinh-thuc-romania-post1606215.tpo) - 21:08 20/01/2024
 - 💃 [Highlights Jordan vs Hàn Quốc: Son Heung-min bế tắc, Hàn Quốc mắc kẹt ở Thumama](https://tienphong.vn/highlights-jordan-vs-han-quoc-son-heung-min-be-tac-han-quoc-mac-ket-o-thumama-post1606226.tpo) - 20:57 20/01/2024
 - 🦍 [Tròn 3 năm thành lập, &#39;thành phố trong lòng thành phố&#39; đầu tiên nhận Huân chương Lao động](https://tienphong.vn/tron-3-nam-thanh-lap-thanh-pho-trong-long-thanh-pho-dau-tien-nhan-huan-chuong-lao-dong-post1606180.tpo) - 20:26 20/01/2024
