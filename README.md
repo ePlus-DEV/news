@@ -382,7 +382,7 @@
 - 💪 [Bản tin Hình sự: Đến nhà chị gái chơi, người phụ nữ rơi lầu tử vong](https://tienphong.vn/ban-tin-hinh-su-den-nha-chi-gai-choi-nguoi-phu-nu-roi-lau-tu-vong-post1606192.tpo) - 18:02 20/01/2024
 - 🎡 [Xuất khẩu rau quả tăng mạnh đầu năm mới](https://tienphong.vn/xuat-khau-rau-qua-tang-manh-dau-nam-moi-post1606172.tpo) - 18:02 20/01/2024
 - 😎 [Tuyển Việt Nam lao dốc trên BXH FIFA sau trận thua Indonesia](https://tienphong.vn/tuyen-viet-nam-lao-doc-tren-bxh-fifa-sau-tran-thua-indonesia-post1606199.tpo) - 17:53 20/01/2024
-- 🦄 [Trực tiếp Jordan vs Hàn Quốc 2-2&lpar;H2&rpar;: Hậu vệ Jordan phản lưới nhà](https://tienphong.vn/truc-tiep-jordan-vs-han-quoc-2-2h2-hau-ve-jordan-phan-luoi-nha-post1606179.tpo) - 17:45 20/01/2024
+- 🦄 [Hàn Quốc chật vật giành 1 điểm trước Jordan](https://tienphong.vn/han-quoc-chat-vat-gianh-1-diem-truoc-jordan-post1606179.tpo) - 17:45 20/01/2024
 - 🚀 [Thái Bình điều động, bổ nhiệm 10 vị trí cán bộ chủ chốt](https://tienphong.vn/thai-binh-dieu-dong-bo-nhiem-10-vi-tri-can-bo-chu-chot-post1606196.tpo) - 17:45 20/01/2024
 - 🤓 [Vụ nổ làm 3 người mất tích trên sông ở Cà Mau: Thấy thêm 1 thi thể nạn nhân](https://tienphong.vn/vu-no-lam-3-nguoi-mat-tich-tren-song-o-ca-mau-thay-them-1-thi-the-nan-nhan-post1606186.tpo) - 17:32 20/01/2024
 - 💄 [Ngày hội gia đình Lương Thế Vinh - Hoạt động &#39;Tết sẻ chia 2024&#39; mang ý nghĩa thiện nguyện](https://tienphong.vn/ngay-hoi-gia-dinh-luong-the-vinh-hoat-dong-tet-se-chia-2024-mang-y-nghia-thien-nguyen-post1606191.tpo) - 17:11 20/01/2024
