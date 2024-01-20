@@ -245,7 +245,7 @@
 - 🥷 [Tất bật thu hoạch &quot;bàn tay phật&quot; ở Hà Nội](https://nld.com.vn/tat-bat-thu-hoach-ban-tay-phat-o-ha-noi-196240117105824726.htm) - 07:52 20/01/2024
 - 🫶 [Vì sao bác sĩ coi ung thư vú là bệnh dễ chẩn đoán sớm?](https://nld.com.vn/vi-sao-bac-si-coi-ung-thu-vu-la-benh-de-chan-doan-som-196240120135955709.htm) - 07:50 20/01/2024
 - 🐻 [Hà Nội gắn biển tên phố Thâm Tâm](https://nld.com.vn/ha-noi-gan-bien-ten-pho-tham-tam-196240120135314146.htm) - 07:48 20/01/2024
-- 🐲 [Chủ tịch Quốc hội Vương Đình Huệ tặng người lao động, gia đình chính sách](https://nld.com.vn/chu-tich-quoc-hoi-vuong-dinh-hue-tang-nguoi-lao-dong-gia-dinh-chinh-sach-196240120115253574.htm) - 07:43 20/01/2024
+- 🐲 [Chủ tịch Quốc hội Vương Đình Huệ tặng quà người lao động, gia đình chính sách](https://nld.com.vn/chu-tich-quoc-hoi-vuong-dinh-hue-tang-nguoi-lao-dong-gia-dinh-chinh-sach-196240120115253574.htm) - 07:43 20/01/2024
 - 🧑‍💻 [Lan tỏa “Đường cờ Tổ quốc” ở huyện Củ Chi - TP HCM](https://nld.com.vn/lan-toa-duong-co-to-quoc-o-huyen-cu-chi-tp-hcm-196240120135512514.htm) - 07:26 20/01/2024
 - 🎬 [Lý Hải quậy hết mình cùng dàn sao &quot;Lật mặt 7&quot;](https://nld.com.vn/ly-hai-quay-het-minh-cung-dan-sao-lat-mat-7-19624012012382659.htm) - 07:18 20/01/2024
 - 👀 [Điểm danh loạt phim Việt bối cảnh &quot;hoài niệm&quot;](https://nld.com.vn/diem-danh-loat-phim-viet-boi-canh-hoai-niem-196240120132451571.htm) - 07:16 20/01/2024
