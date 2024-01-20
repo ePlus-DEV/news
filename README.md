@@ -13,7 +13,7 @@
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Ăn mừng vì 5 bạn gái mang thai cùng lúc](https://vnexpress.net/an-mung-vi-5-ban-gai-mang-thai-cung-luc-4702917.html) - 13:00 20/01/2024
+- 🚀 [Chí Trung và bạn gái dự đám cưới diễn viên Ngọc Huyền](https://vnexpress.net/chi-trung-va-ban-gai-du-dam-cuoi-dien-vien-ngoc-huyen-4703180.html) - 13:11 20/01/2024
 - 🧰 [Thú có túi ăn thịt đồng loại và giao phối đến chết](https://vnexpress.net/thu-co-tui-an-thit-dong-loai-va-giao-phoi-den-chet-4702479.html) - 13:00 20/01/2024
 - 🥰 [Vừa cưới thì phát hiện chồng có vấn đề thần kinh](https://vnexpress.net/vua-cuoi-thi-phat-hien-chong-co-van-de-than-kinh-4703127.html) - 13:00 20/01/2024
 - 🌏 [Bộ trưởng Pháp cáo buộc đảng đối lập hỗ trợ Nga](https://vnexpress.net/bo-truong-phap-cao-buoc-dang-doi-lap-ho-tro-nga-4703171.html) - 12:34 20/01/2024
@@ -24,8 +24,8 @@
 - 💃 [Miến nấu lòng mề gà kiểu Bắc Bộ](https://vnexpress.net/mien-nau-long-me-ga-kieu-bac-bo-4703121.html) - 12:00 20/01/2024
 - 💂 [Anh hãy đến như món quà đầu năm mới](https://vnexpress.net/anh-hay-den-nhu-mon-qua-dau-nam-moi-4703101.html) - 12:00 20/01/2024
 - 🎊 [Dừng xe đạp giữa đường buôn chuyện](https://vnexpress.net/dung-xe-dap-giua-duong-buon-chuyen-4702813.html) - 12:00 20/01/2024
-- 🤠 [Tom Cruise làm &#39;Top Gun 3&#39;](https://vnexpress.net/tom-cruise-lam-top-gun-3-4699129.html) - 12:00 20/01/2024
-- 🌈 [HarmonyOS có mặt trên 800 triệu thiết bị](https://vnexpress.net/harmonyos-co-mat-tren-800-trieu-thiet-bi-4703024.html) - 12:00 20/01/2024
+- 🤠 [HarmonyOS có mặt trên 800 triệu thiết bị](https://vnexpress.net/harmonyos-co-mat-tren-800-trieu-thiet-bi-4703024.html) - 12:00 20/01/2024
+- 🌈 [Tom Cruise làm &#39;Top Gun 3&#39;](https://vnexpress.net/tom-cruise-lam-top-gun-3-4699129.html) - 12:00 20/01/2024
 - 🎬 [Hà Nội có phố mang tên nhà thơ Thâm Tâm](https://vnexpress.net/ha-noi-co-pho-mang-ten-nha-tho-tham-tam-4703175.html) - 11:47 20/01/2024
 - 🚀 [Bà Haley không muốn làm phó tướng của ông Trump](https://vnexpress.net/ba-haley-khong-muon-lam-pho-tuong-cua-ong-trump-4703159.html) - 11:22 20/01/2024
 - 🪄 [Hơn 100 tỷ USD vốn hóa Bitcoin &#39;bốc hơi&#39; sau sóng ETF](https://vnexpress.net/hon-100-ty-usd-von-hoa-bitcoin-boc-hoi-sau-song-etf-4703084.html) - 11:20 20/01/2024
