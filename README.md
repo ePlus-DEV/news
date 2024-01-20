@@ -269,7 +269,7 @@
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Bị &#39;chen hàng&#39;, người đàn ông ôm chặt bệnh nhân đang đau nặng, ngăn cấp cứu.](https://vtc.vn/bi-chen-hang-nguoi-dan-ong-om-chat-benh-nhan-dang-dau-nang-ngan-cap-cuu-ar848564.html) - 11:00 20/01/2024
+- 🥸 [Bị &#39;chen hàng&#39;, người đàn ông ôm chặt bệnh nhân đang đau nặng, ngăn cấp cứu](https://vtc.vn/bi-chen-hang-nguoi-dan-ong-om-chat-benh-nhan-dang-dau-nang-ngan-cap-cuu-ar848564.html) - 11:00 20/01/2024
 - 🤭 [Dự báo thời tiết 10 ngày từ đêm 20/1 đến 30/1 cho Hà Nội và cả nước](https://vtc.vn/du-bao-thoi-tiet-10-ngay-tu-dem-20-1-den-30-1-cho-ha-noi-va-ca-nuoc-ar848747.html) - 10:46 20/01/2024
 - 🦒 [Người phụ nữ tử vong sau khi rơi từ tầng 9 trúng ô tô đang đỗ](https://vtc.vn/nguoi-phu-nu-tu-vong-sau-khi-roi-tu-tang-9-trung-o-to-dang-do-ar848746.html) - 10:14 20/01/2024
 - 🌮 [Trường tiểu học ở Hải Dương bị tố chi phúc lợi giáo viên rồi đòi lại](https://vtc.vn/truong-tieu-hoc-o-hai-duong-bi-to-chi-phuc-loi-giao-vien-roi-doi-lai-ar848693.html) - 10:09 20/01/2024
