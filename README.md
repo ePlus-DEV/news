@@ -173,46 +173,46 @@
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Dù khó khăn, vẫn lo Tết cho đoàn viên, công nhân](https://laodong.vn/ldld-quang-ngai/du-kho-khan-van-lo-tet-cho-doan-vien-cong-nhan-1295175.ldo) - 06:42 21/01/2024
-- 📝 [Tặng quà Tết cho gần 260 đoàn viên nghiệp đoàn có hoàn cảnh khó khăn](https://laodong.vn/ldld-tphcm/tang-qua-tet-cho-gan-260-doan-vien-nghiep-doan-co-hoan-canh-kho-khan-1295176.ldo) - 06:39 21/01/2024
-- 🦏 [Trao tặng 1.000 &quot;phiếu mua hàng 0 đồng&quot; cho công nhân có hoàn cảnh khó khăn](https://laodong.vn/ldld-vinh-phuc/trao-tang-1000-phieu-mua-hang-0-dong-cho-cong-nhan-co-hoan-canh-kho-khan-1295113.ldo) - 06:31 21/01/2024
-- 🦩 [Vi phạm an toàn thực phẩm có thể bị xử lý hình sự lên tới 20 năm tù](https://laodong.vn/media/vi-pham-an-toan-thuc-pham-co-the-bi-xu-ly-hinh-su-len-toi-20-nam-tu-1295143.ldo) - 06:30 21/01/2024
-- 🦏 [Khoảnh khắc Ninh Dương Lan Ngọc, Trang Pháp cúi xuống chỉnh giày cao gót cho Thu Phương](https://laodong.vn/van-hoa-giai-tri/khoanh-khac-ninh-duong-lan-ngoc-trang-phap-cui-xuong-chinh-giay-cao-got-cho-thu-phuong-1295166.ldo) - 06:25 21/01/2024
-- 🧰 [Quất cảnh hình rồng chưng Tết giá 200 triệu đồng ở Hà Nội](https://laodong.vn/van-hoa-giai-tri/quat-canh-hinh-rong-chung-tet-gia-200-trieu-dong-o-ha-noi-1295188.ldo) - 06:15 21/01/2024
-- 🌊 [Ánh hào quang ở châu Âu đang rời xa Jose Mourinho](https://laodong.vn/the-thao/anh-hao-quang-o-chau-au-dang-roi-xa-jose-mourinho-1295157.ldo) - 05:57 21/01/2024
-- 🔥 [Chi tiết chứng minh tình bạn bền chặt của Park Seo Joon và V BTS](https://laodong.vn/van-hoa-giai-tri/chi-tiet-chung-minh-tinh-ban-ben-chat-cua-park-seo-joon-va-v-bts-1295080.ldo) - 05:56 21/01/2024
-- 🦒 [Đề xuất quy chuẩn đăng kiểm cho ôtô điện](https://laodong.vn/xe/de-xuat-quy-chuan-dang-kiem-cho-oto-dien-1295141.ldo) - 05:52 21/01/2024
-- 💼 [Trang Pháp tiết lộ về chấn thương và sự thật việc các chị đẹp tranh cãi](https://laodong.vn/van-hoa-giai-tri/trang-phap-tiet-lo-ve-chan-thuong-va-su-that-viec-cac-chi-dep-tranh-cai-1295071.ldo) - 05:50 21/01/2024
-- 🤖 [UBND thị xã Sơn Tây rời chợ Tết bất ngờ, tiểu thương đối diện với thua lỗ](https://laodong.vn/ban-doc/ubnd-thi-xa-son-tay-roi-cho-tet-bat-ngo-tieu-thuong-doi-dien-voi-thua-lo-1295127.ldo) - 05:45 21/01/2024
-- 💪 [Cảnh báo không khí lạnh gây rét đậm rét hại kéo dài ở Bắc Bộ, Bắc Trung Bộ](https://laodong.vn/moi-truong/canh-bao-khong-khi-lanh-gay-ret-dam-ret-hai-keo-dai-o-bac-bo-bac-trung-bo-1295163.ldo) - 05:38 21/01/2024
-- 👍 [10 năm &quot;Tết Sum vầy&quot; - một chặng đường nhân ái, tình thương](https://laodong.vn/lao-dong-cuoi-tuan/10-nam-tet-sum-vay-mot-chang-duong-nhan-ai-tinh-thuong-1294300.ldo) - 05:37 21/01/2024
-- 💂 [&quot;Tết Sum vầy&quot; - điểm đến mong đợi của đoàn viên, người lao động](https://laodong.vn/lao-dong-cuoi-tuan/tet-sum-vay-diem-den-mong-doi-cua-doan-vien-nguoi-lao-dong-1294371.ldo) - 05:36 21/01/2024
-- 🧰 [Không biết nói gì hơn là cảm ơn Công đoàn](https://laodong.vn/lao-dong-cuoi-tuan/khong-biet-noi-gi-hon-la-cam-on-cong-doan-1294377.ldo) - 05:35 21/01/2024
-- 🥷 [Giải pháp mới cho vấn đề hàng công của Arsenal](https://laodong.vn/the-thao/giai-phap-moi-cho-van-de-hang-cong-cua-arsenal-1295125.ldo) - 05:35 21/01/2024
-- 💫 [Tết sẻ chia ở Bình Dương](https://laodong.vn/lao-dong-cuoi-tuan/tet-se-chia-o-binh-duong-1294380.ldo) - 05:33 21/01/2024
-- 🎭 [Chùa cổ Thiểm Khê chứng tích về chiến thắng Bạch Đằng năm 1288](https://laodong.vn/lao-dong-cuoi-tuan/chua-co-thiem-khe-chung-tich-ve-chien-thang-bach-dang-nam-1288-1294393.ldo) - 05:32 21/01/2024
-- 😎 [Rồng](https://laodong.vn/lao-dong-cuoi-tuan/rong-1294396.ldo) - 05:31 21/01/2024
-- 💄 [Miếng ngon sông nước](https://laodong.vn/lao-dong-cuoi-tuan/mieng-ngon-song-nuoc-1294457.ldo) - 05:30 21/01/2024
-- 🫣 [Truyện ngắn dự thi: Trầm tích trên da](https://laodong.vn/lao-dong-cuoi-tuan/truyen-ngan-du-thi-tram-tich-tren-da-1294472.ldo) - 05:29 21/01/2024
-- 🧑‍🏫 [Bán một cành mai ăn Tết: Những câu chuyện đáng suy ngẫm về mùa Xuân](https://laodong.vn/lao-dong-cuoi-tuan/ban-mot-canh-mai-an-tet-nhung-cau-chuyen-dang-suy-ngam-ve-mua-xuan-1294479.ldo) - 05:28 21/01/2024
-- 🦣 [Rộn Chạp](https://laodong.vn/lao-dong-cuoi-tuan/ron-chap-1294486.ldo) - 05:27 21/01/2024
-- 💫 [Chào đón những người bạn máy móc](https://laodong.vn/lao-dong-cuoi-tuan/chao-don-nhung-nguoi-ban-may-moc-1294525.ldo) - 05:27 21/01/2024
-- ⛽️ [Ấn tượng “rồng đá” Vũ Long](https://laodong.vn/lao-dong-cuoi-tuan/an-tuong-rong-da-vu-long-1294565.ldo) - 05:26 21/01/2024
-- 💫 [Chỉ cần hộ chiếu, người Việt Nam có thể đến 55 quốc gia, vùng lãnh thổ](https://laodong.vn/ban-doc/chi-can-ho-chieu-nguoi-viet-nam-co-the-den-55-quoc-gia-vung-lanh-tho-1295132.ldo) - 05:26 21/01/2024
-- 🥸 [Khi Mourinho vẫn chưa hết đặc biệt](https://laodong.vn/lao-dong-cuoi-tuan/khi-mourinho-van-chua-het-dac-biet-1294582.ldo) - 05:24 21/01/2024
-- 🐻 [5 món ăn nhẹ để tăng cơ bắp và giảm cân hiệu quả](https://laodong.vn/suc-khoe/5-mon-an-nhe-de-tang-co-bap-va-giam-can-hieu-qua-1295055.ldo) - 05:22 21/01/2024
-- 🪄 [Lãnh đạo Ban Dân vận Trung ương vui Tết Sum vầy cùng công nhân Nghệ An](https://laodong.vn/ldld-nghe-an/lanh-dao-ban-dan-van-trung-uong-vui-tet-sum-vay-cung-cong-nhan-nghe-an-1295029.ldo) - 05:20 21/01/2024
-- 🧑‍🏫 [Nằm mơ World Cup](https://laodong.vn/su-kien-binh-luan/nam-mo-world-cup-1294993.ldo) - 05:15 21/01/2024
-- 🌊 [Các bước thực hiện thủ tục sang tên đất nông nghiệp](https://laodong.vn/ban-tin/cac-buoc-thuc-hien-thu-tuc-sang-ten-dat-nong-nghiep-1294969.ldo) - 05:13 21/01/2024
-- 💻 [Tuyển Việt Nam gặp Iraq, huấn luyện viên Troussier cần lấy lại niềm tin](https://laodong.vn/bong-da/tuyen-viet-nam-gap-iraq-huan-luyen-vien-troussier-can-lay-lai-niem-tin-1295148.ldo) - 05:06 21/01/2024
-- 👨‍🏫 [Ngày nào rét nhất trong đợt không khí lạnh cực mạnh đang tác động?](https://laodong.vn/video-xa-hoi/ngay-nao-ret-nhat-trong-dot-khong-khi-lanh-cuc-manh-dang-tac-dong-1294454.ldo) - 05:05 21/01/2024
-- 🌈 [Thi đánh giá tư duy sớm, học sinh giảm áp lực tăng cơ hội trúng tuyển](https://laodong.vn/video/thi-danh-gia-tu-duy-som-hoc-sinh-giam-ap-luc-tang-co-hoi-trung-tuyen-1295120.ldo) - 05:03 21/01/2024
-- 🐲 [Đề minh họa thi tốt nghiệp 2025 môn Tiếng Anh khiến học sinh nhăn mặt](https://laodong.vn/video-xa-hoi/de-minh-hoa-thi-tot-nghiep-2025-mon-tieng-anh-khien-hoc-sinh-nhan-mat-1295151.ldo) - 05:00 21/01/2024
-- 🚀 [Thưởng Tết 20 triệu đồng nhưng công nhân vẫn nghỉ việc](https://laodong.vn/cong-doan/thuong-tet-20-trieu-dong-nhung-cong-nhan-van-nghi-viec-1292776.ldo) - 04:59 21/01/2024
-- 😺 [Khóa cửa nhốt trên 20 ngư phủ, 2 thanh niên bị tạm giam để điều tra](https://laodong.vn/ban-tin/khoa-cua-nhot-tren-20-ngu-phu-2-thanh-nien-bi-tam-giam-de-dieu-tra-1295118.ldo) - 04:58 21/01/2024
-- 🕴 [Hàng nghìn học sinh, phụ huynh chạy bộ gây quỹ từ thiện Tết sẻ chia 2024](https://laodong.vn/video-xa-hoi/hang-nghin-hoc-sinh-phu-huynh-chay-bo-gay-quy-tu-thien-tet-se-chia-2024-1295156.ldo) - 04:56 21/01/2024
-- 🌋 [Không dễ đạt mục tiêu nguồn cung nhà ở xã hội khi rào cản còn nhiều](https://laodong.vn/bat-dong-san/khong-de-dat-muc-tieu-nguon-cung-nha-o-xa-hoi-khi-rao-can-con-nhieu-1295123.ldo) - 04:54 21/01/2024
-- 💄 [Chính khách Bosnia phản hồi Mỹ về đường ống dẫn khí chiến lược ở châu Âu](https://laodong.vn/the-gioi/chinh-khach-bosnia-phan-hoi-my-ve-duong-ong-dan-khi-chien-luoc-o-chau-au-1295124.ldo) - 04:52 21/01/2024<!-- laodong:END -->
+- 🗽 [Kiểm tra taxi, phát hiện người đàn ông mang theo ma túy ở Hà Nội](https://laodong.vn/phap-luat/kiem-tra-taxi-phat-hien-nguoi-dan-ong-mang-theo-ma-tuy-o-ha-noi-1295180.ldo) - 06:54 21/01/2024
+- 📝 [Gần 4,2 tỉ đồng lo Tết cho người lao động khó khăn ở Bình Định](https://laodong.vn/ldld-binh-dinh/gan-42-ti-dong-lo-tet-cho-nguoi-lao-dong-kho-khan-o-binh-dinh-1295115.ldo) - 06:52 21/01/2024
+- 🦏 [Chăm lo Tết cho 6.000 công nhân lao động tại Khu chế xuất Tân Thuận](https://laodong.vn/ldld-tphcm/cham-lo-tet-cho-6000-cong-nhan-lao-dong-tai-khu-che-xuat-tan-thuan-1295161.ldo) - 06:51 21/01/2024
+- 🦩 [Tháng 2.2024 thi công đường gom dân sinh cao tốc Phan Thiết - Dầu Giây](https://laodong.vn/xa-hoi/thang-22024-thi-cong-duong-gom-dan-sinh-cao-toc-phan-thiet-dau-giay-1295184.ldo) - 06:47 21/01/2024
+- 🦏 [Dù khó khăn, vẫn lo Tết cho đoàn viên, công nhân](https://laodong.vn/ldld-quang-ngai/du-kho-khan-van-lo-tet-cho-doan-vien-cong-nhan-1295175.ldo) - 06:42 21/01/2024
+- 🧰 [Tặng quà Tết cho gần 260 đoàn viên nghiệp đoàn có hoàn cảnh khó khăn](https://laodong.vn/ldld-tphcm/tang-qua-tet-cho-gan-260-doan-vien-nghiep-doan-co-hoan-canh-kho-khan-1295176.ldo) - 06:39 21/01/2024
+- 🌊 [Trao tặng 1.000 &quot;phiếu mua hàng 0 đồng&quot; cho công nhân có hoàn cảnh khó khăn](https://laodong.vn/ldld-vinh-phuc/trao-tang-1000-phieu-mua-hang-0-dong-cho-cong-nhan-co-hoan-canh-kho-khan-1295113.ldo) - 06:31 21/01/2024
+- 🔥 [Vi phạm an toàn thực phẩm có thể bị xử lý hình sự lên tới 20 năm tù](https://laodong.vn/media/vi-pham-an-toan-thuc-pham-co-the-bi-xu-ly-hinh-su-len-toi-20-nam-tu-1295143.ldo) - 06:30 21/01/2024
+- 🦒 [Khoảnh khắc Ninh Dương Lan Ngọc, Trang Pháp cúi xuống chỉnh giày cao gót cho Thu Phương](https://laodong.vn/van-hoa-giai-tri/khoanh-khac-ninh-duong-lan-ngoc-trang-phap-cui-xuong-chinh-giay-cao-got-cho-thu-phuong-1295166.ldo) - 06:25 21/01/2024
+- 💼 [Quất cảnh hình rồng chưng Tết giá 200 triệu đồng ở Hà Nội](https://laodong.vn/van-hoa-giai-tri/quat-canh-hinh-rong-chung-tet-gia-200-trieu-dong-o-ha-noi-1295188.ldo) - 06:15 21/01/2024
+- 🤖 [Ánh hào quang ở châu Âu đang rời xa Jose Mourinho](https://laodong.vn/the-thao/anh-hao-quang-o-chau-au-dang-roi-xa-jose-mourinho-1295157.ldo) - 05:57 21/01/2024
+- 💪 [Chi tiết chứng minh tình bạn bền chặt của Park Seo Joon và V BTS](https://laodong.vn/van-hoa-giai-tri/chi-tiet-chung-minh-tinh-ban-ben-chat-cua-park-seo-joon-va-v-bts-1295080.ldo) - 05:56 21/01/2024
+- 👍 [Đề xuất quy chuẩn đăng kiểm cho ôtô điện](https://laodong.vn/xe/de-xuat-quy-chuan-dang-kiem-cho-oto-dien-1295141.ldo) - 05:52 21/01/2024
+- 💂 [Trang Pháp tiết lộ về chấn thương và sự thật việc các chị đẹp tranh cãi](https://laodong.vn/van-hoa-giai-tri/trang-phap-tiet-lo-ve-chan-thuong-va-su-that-viec-cac-chi-dep-tranh-cai-1295071.ldo) - 05:50 21/01/2024
+- 🧰 [UBND thị xã Sơn Tây rời chợ Tết bất ngờ, tiểu thương đối diện với thua lỗ](https://laodong.vn/ban-doc/ubnd-thi-xa-son-tay-roi-cho-tet-bat-ngo-tieu-thuong-doi-dien-voi-thua-lo-1295127.ldo) - 05:45 21/01/2024
+- 🥷 [Cảnh báo không khí lạnh gây rét đậm rét hại kéo dài ở Bắc Bộ, Bắc Trung Bộ](https://laodong.vn/moi-truong/canh-bao-khong-khi-lanh-gay-ret-dam-ret-hai-keo-dai-o-bac-bo-bac-trung-bo-1295163.ldo) - 05:38 21/01/2024
+- 💫 [10 năm &quot;Tết Sum vầy&quot; - một chặng đường nhân ái, tình thương](https://laodong.vn/lao-dong-cuoi-tuan/10-nam-tet-sum-vay-mot-chang-duong-nhan-ai-tinh-thuong-1294300.ldo) - 05:37 21/01/2024
+- 🎭 [&quot;Tết Sum vầy&quot; - điểm đến mong đợi của đoàn viên, người lao động](https://laodong.vn/lao-dong-cuoi-tuan/tet-sum-vay-diem-den-mong-doi-cua-doan-vien-nguoi-lao-dong-1294371.ldo) - 05:36 21/01/2024
+- 😎 [Không biết nói gì hơn là cảm ơn Công đoàn](https://laodong.vn/lao-dong-cuoi-tuan/khong-biet-noi-gi-hon-la-cam-on-cong-doan-1294377.ldo) - 05:35 21/01/2024
+- 💄 [Giải pháp mới cho vấn đề hàng công của Arsenal](https://laodong.vn/the-thao/giai-phap-moi-cho-van-de-hang-cong-cua-arsenal-1295125.ldo) - 05:35 21/01/2024
+- 🫣 [Tết sẻ chia ở Bình Dương](https://laodong.vn/lao-dong-cuoi-tuan/tet-se-chia-o-binh-duong-1294380.ldo) - 05:33 21/01/2024
+- 🧑‍🏫 [Chùa cổ Thiểm Khê chứng tích về chiến thắng Bạch Đằng năm 1288](https://laodong.vn/lao-dong-cuoi-tuan/chua-co-thiem-khe-chung-tich-ve-chien-thang-bach-dang-nam-1288-1294393.ldo) - 05:32 21/01/2024
+- 🦣 [Rồng](https://laodong.vn/lao-dong-cuoi-tuan/rong-1294396.ldo) - 05:31 21/01/2024
+- 💫 [Miếng ngon sông nước](https://laodong.vn/lao-dong-cuoi-tuan/mieng-ngon-song-nuoc-1294457.ldo) - 05:30 21/01/2024
+- ⛽️ [Truyện ngắn dự thi: Trầm tích trên da](https://laodong.vn/lao-dong-cuoi-tuan/truyen-ngan-du-thi-tram-tich-tren-da-1294472.ldo) - 05:29 21/01/2024
+- 💫 [Bán một cành mai ăn Tết: Những câu chuyện đáng suy ngẫm về mùa Xuân](https://laodong.vn/lao-dong-cuoi-tuan/ban-mot-canh-mai-an-tet-nhung-cau-chuyen-dang-suy-ngam-ve-mua-xuan-1294479.ldo) - 05:28 21/01/2024
+- 🥸 [Rộn Chạp](https://laodong.vn/lao-dong-cuoi-tuan/ron-chap-1294486.ldo) - 05:27 21/01/2024
+- 🐻 [Chào đón những người bạn máy móc](https://laodong.vn/lao-dong-cuoi-tuan/chao-don-nhung-nguoi-ban-may-moc-1294525.ldo) - 05:27 21/01/2024
+- 🪄 [Ấn tượng “rồng đá” Vũ Long](https://laodong.vn/lao-dong-cuoi-tuan/an-tuong-rong-da-vu-long-1294565.ldo) - 05:26 21/01/2024
+- 🧑‍🏫 [Chỉ cần hộ chiếu, người Việt Nam có thể đến 55 quốc gia, vùng lãnh thổ](https://laodong.vn/ban-doc/chi-can-ho-chieu-nguoi-viet-nam-co-the-den-55-quoc-gia-vung-lanh-tho-1295132.ldo) - 05:26 21/01/2024
+- 🌊 [Khi Mourinho vẫn chưa hết đặc biệt](https://laodong.vn/lao-dong-cuoi-tuan/khi-mourinho-van-chua-het-dac-biet-1294582.ldo) - 05:24 21/01/2024
+- 💻 [5 món ăn nhẹ để tăng cơ bắp và giảm cân hiệu quả](https://laodong.vn/suc-khoe/5-mon-an-nhe-de-tang-co-bap-va-giam-can-hieu-qua-1295055.ldo) - 05:22 21/01/2024
+- 👨‍🏫 [Lãnh đạo Ban Dân vận Trung ương vui Tết Sum vầy cùng công nhân Nghệ An](https://laodong.vn/ldld-nghe-an/lanh-dao-ban-dan-van-trung-uong-vui-tet-sum-vay-cung-cong-nhan-nghe-an-1295029.ldo) - 05:20 21/01/2024
+- 🌈 [Nằm mơ World Cup](https://laodong.vn/su-kien-binh-luan/nam-mo-world-cup-1294993.ldo) - 05:15 21/01/2024
+- 🐲 [Các bước thực hiện thủ tục sang tên đất nông nghiệp](https://laodong.vn/ban-tin/cac-buoc-thuc-hien-thu-tuc-sang-ten-dat-nong-nghiep-1294969.ldo) - 05:13 21/01/2024
+- 🚀 [Tuyển Việt Nam gặp Iraq, huấn luyện viên Troussier cần lấy lại niềm tin](https://laodong.vn/bong-da/tuyen-viet-nam-gap-iraq-huan-luyen-vien-troussier-can-lay-lai-niem-tin-1295148.ldo) - 05:06 21/01/2024
+- 😺 [Ngày nào rét nhất trong đợt không khí lạnh cực mạnh đang tác động?](https://laodong.vn/video-xa-hoi/ngay-nao-ret-nhat-trong-dot-khong-khi-lanh-cuc-manh-dang-tac-dong-1294454.ldo) - 05:05 21/01/2024
+- 🕴 [Thi đánh giá tư duy sớm, học sinh giảm áp lực tăng cơ hội trúng tuyển](https://laodong.vn/video/thi-danh-gia-tu-duy-som-hoc-sinh-giam-ap-luc-tang-co-hoi-trung-tuyen-1295120.ldo) - 05:03 21/01/2024
+- 🌋 [Đề minh họa thi tốt nghiệp 2025 môn Tiếng Anh khiến học sinh nhăn mặt](https://laodong.vn/video-xa-hoi/de-minh-hoa-thi-tot-nghiep-2025-mon-tieng-anh-khien-hoc-sinh-nhan-mat-1295151.ldo) - 05:00 21/01/2024
+- 💄 [Thưởng Tết 20 triệu đồng nhưng công nhân vẫn nghỉ việc](https://laodong.vn/cong-doan/thuong-tet-20-trieu-dong-nhung-cong-nhan-van-nghi-viec-1292776.ldo) - 04:59 21/01/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
