@@ -269,15 +269,15 @@
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Đình Bắc trở lại, Tuấn Hải có thể lỡ trận Việt Nam vs Iraq](https://vtc.vn/dinh-bac-tro-lai-tuan-hai-co-the-lo-tran-viet-nam-vs-iraq-ar848826.html) - 13:03 21/01/2024
-- 🤭 [HLV Gong Oh-kyun tiết lộ góc khuất ở CLB Công an Hà Nội](https://vtc.vn/hlv-gong-oh-kyun-tiet-lo-goc-khuat-o-clb-cong-an-ha-noi-ar848821.html) - 12:54 21/01/2024
-- 🦒 [Đêm nay miền Bắc giảm nhiệt sâu, trời rét hại diện rộng](https://vtc.vn/dem-nay-mien-bac-giam-nhiet-sau-troi-ret-hai-dien-rong-ar848818.html) - 12:50 21/01/2024
-- 🌮 [Xuân Hinh, Thanh Lam góp mặt trong chương trình &#39;Gala Tết quê hương&#39;](https://vtc.vn/xuan-hinh-thanh-lam-gop-mat-trong-chuong-trinh-gala-tet-que-huong-ar848824.html) - 12:48 21/01/2024
-- 🤖 [Kỷ luật cảnh cáo Trụ trì chùa Ba Vàng Thích Trúc Thái Minh](https://vtc.vn/ky-luat-canh-cao-tru-tri-chua-ba-vang-thich-truc-thai-minh-ar848828.html) - 12:39 21/01/2024
-- 🎬 [Thế chấp ngân hàng vay 700 triệu đồng cần lưu ý những gì?](https://vtc.vn/the-chap-ngan-hang-vay-700-trieu-dong-can-luu-y-nhung-gi-ar848700.html) - 12:26 21/01/2024
-- 🥳 [Vì sao gần một thập kỷ nữa mới có ngày 30 Tết?](https://vtc.vn/vi-sao-gan-mot-thap-ky-nua-moi-co-ngay-30-tet-ar848822.html) - 12:12 21/01/2024
-- 🎓 [Nga tung ra chiến trường Ukraine UAV mới, có thể ‘rải thảm’ lựu đạn như ném bom](https://vtc.vn/nga-tung-ra-chien-truong-ukraine-uav-moi-co-the-rai-tham-luu-dan-nhu-nem-bom-ar848666.html) - 11:36 21/01/2024
-- 👹 [Nữ sinh lớp 5 tử vong khi sạc pin điện thoại](https://vtc.vn/nu-sinh-lop-5-tu-vong-khi-sac-pin-dien-thoai-ar848812.html) - 10:11 21/01/2024
+- 🥸 [Xác định 5 đội tuyển sớm qua vòng bảng Asian Cup 2023](https://vtc.vn/xac-dinh-5-doi-tuyen-som-qua-vong-bang-asian-cup-2023-ar848854.html) - 23:36 21/01/2024
+- 🤭 [Trụ cột tuyển Thái Lan bị &#39;treo giò&#39; vì chơi xấu](https://vtc.vn/tru-cot-tuyen-thai-lan-bi-treo-gio-vi-choi-xau-ar848853.html) - 23:32 21/01/2024
+- 🦒 [Khoảnh khắc pháo binh Nga oanh tạc mục tiêu Ukraine](https://vtc.vn/khoanh-khac-phao-binh-nga-oanh-tac-muc-tieu-ukraine-ar848859.html) - 23:31 21/01/2024
+- 🌮 [Xe chở hàng Tết tấp nập thông quan qua cửa khẩu Lạng Sơn](https://vtc.vn/xe-cho-hang-tet-tap-nap-thong-quan-qua-cua-khau-lang-son-ar848825.html) - 23:18 21/01/2024
+- 🤖 [Đình Bắc trở lại, Tuấn Hải có thể lỡ trận Việt Nam vs Iraq](https://vtc.vn/dinh-bac-tro-lai-tuan-hai-co-the-lo-tran-viet-nam-vs-iraq-ar848826.html) - 13:03 21/01/2024
+- 🎬 [HLV Gong Oh-kyun tiết lộ góc khuất ở CLB Công an Hà Nội](https://vtc.vn/hlv-gong-oh-kyun-tiet-lo-goc-khuat-o-clb-cong-an-ha-noi-ar848821.html) - 12:54 21/01/2024
+- 🥳 [Đêm nay miền Bắc giảm nhiệt sâu, trời rét hại diện rộng](https://vtc.vn/dem-nay-mien-bac-giam-nhiet-sau-troi-ret-hai-dien-rong-ar848818.html) - 12:50 21/01/2024
+- 🎓 [Xuân Hinh, Thanh Lam góp mặt trong chương trình &#39;Gala Tết quê hương&#39;](https://vtc.vn/xuan-hinh-thanh-lam-gop-mat-trong-chuong-trinh-gala-tet-que-huong-ar848824.html) - 12:48 21/01/2024
+- 👹 [Thế chấp ngân hàng vay 700 triệu đồng cần lưu ý những gì?](https://vtc.vn/the-chap-ngan-hang-vay-700-trieu-dong-can-luu-y-nhung-gi-ar848700.html) - 12:26 21/01/2024
 - 🤖 [Kinh nghiệm du lịch Pù Luông 2 ngày 1 đêm giá rẻ](https://vtc.vn/kinh-nghiem-du-lich-pu-luong-2-ngay-1-dem-gia-re-ar848631.html) - 10:07 21/01/2024
 - 🎊 [Làm gì khi ô tô &#39;dính&#39; phạt nguội?](https://vtc.vn/lam-gi-khi-o-to-dinh-phat-nguoi-ar848677.html) - 10:01 21/01/2024
 - 🐻 [Thế chấp sổ đỏ vay 800 triệu mỗi tháng trả bao nhiêu tiền lãi?](https://vtc.vn/the-chap-so-do-vay-800-trieu-moi-thang-tra-bao-nhieu-tien-lai-ar848709.html) - 09:53 21/01/2024
