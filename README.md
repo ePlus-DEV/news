@@ -309,7 +309,7 @@
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Gen Z vẽ ký hoạ trường gây sốt mạng xã hội](https://muctim.tuoitre.vn/gen-z-ve-ky-hoa-truong-gay-sot-mang-xa-hoi-101240120225812087.htm) - 12:00 21/01/2024
+- 🤔 [Gen Z vẽ ký họa Trường Nhân văn gây sốt mạng xã hội](https://muctim.tuoitre.vn/gen-z-ve-ky-hoa-truong-gay-sot-mang-xa-hoi-101240120225812087.htm) - 12:00 21/01/2024
 - 🥷 [Vũ Thu Phương mở hội du xuân, tâm huyết với văn hoá truyền thống](https://muctim.tuoitre.vn/vu-thu-phuong-mo-hoi-du-xuan-tam-huyet-voi-van-hoa-truyen-thong-101240121172727154.htm) - 11:36 21/01/2024
 - 🤖 [Tết Giáp Thìn 2024, hoạ tiết chăn con công lại lên ngôi](https://muctim.tuoitre.vn/tet-giap-thin-2024-hoa-tiet-chan-con-cong-lai-len-ngoi-101240119070359515.htm) - 11:00 21/01/2024
 - 🤓 [Những cô bạn thủ lĩnh tài năng của phong trào Đội](https://muctim.tuoitre.vn/nhung-co-ban-thu-linh-tai-nang-cua-phong-trao-doi-10124012021143429.htm) - 08:01 21/01/2024
