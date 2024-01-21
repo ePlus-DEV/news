@@ -153,7 +153,7 @@
 - 🦄 [Nam Thư bất ngờ trước loạt câu hỏi &#39;hóc búa&#39; của sinh viên](https://thanhnien.vn/nam-thu-bat-ngo-truoc-loat-cau-hoi-hoc-bua-cua-sinh-vien-185240121002243264.htm) - 01:54 21/01/2024
 - 🤔 [Giá USD hôm nay 21.1.2024: Kết tuần tăng thêm gần 90 đồng](https://thanhnien.vn/gia-usd-hom-nay-2112024-ket-tuan-tang-them-gan-90-dong-185240121072831916.htm) - 01:53 21/01/2024
 - 🧰 [Chuyện kẻ ở lại, người về quê dịp tết...](https://thanhnien.vn/chuyen-ke-o-lai-nguoi-ve-que-dip-tet-185240120190934864.htm) - 01:50 21/01/2024
-- 🌁 [Giá hồ tiêu sẽ tăng đến đâu?](https://thanhnien.vn/gia-ho-tieu-se-tang-den-dau-18524012018485049.htm) - 01:40 21/01/2024
+- 🌁 [Giá hồ tiêu tăng mạnh, nông dân thắng lớn](https://thanhnien.vn/gia-ho-tieu-se-tang-den-dau-18524012018485049.htm) - 01:40 21/01/2024
 - 🧐 [Ronaldo bất ngờ bị chấn thương, lỡ cuộc hẹn ‘lịch sử’ với Messi](https://thanhnien.vn/ronaldo-bat-ngo-bi-chan-thuong-lo-cuoc-hen-lich-su-voi-messi-185240121081534826.htm) - 01:34 21/01/2024
 - 🌏 [Chiều xuân - Thơ của Sơn Trần](https://thanhnien.vn/chieu-xuan-tho-cua-son-tran-185240120192855894.htm) - 01:30 21/01/2024
 - 🎬 [Cuối năm, ngồi nghĩ  - Thơ của Sơn Trần](https://thanhnien.vn/cuoi-nam-ngoi-nghi-tho-cua-son-tran-1852401201925275.htm) - 01:30 21/01/2024
