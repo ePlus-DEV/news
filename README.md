@@ -240,7 +240,7 @@
 - 💫 [Bình Thuận: 11 vụ vỡ hụi với tổng số tiền hơn 247 tỉ đồng trong năm 2023](https://nld.com.vn/binh-thuan-11-vu-vo-hui-voi-tong-so-tien-hon-247-ti-dong-trong-nam-2023-196240121165655534.htm) - 10:17 21/01/2024
 - 🔭 [Đang bị truy nã, đối tượng vẫn tiếp tục tìm tới dùng súng truy sát nạn nhân](https://nld.com.vn/dang-bi-truy-na-doi-tuong-van-tiep-tuc-tim-toi-dung-sung-truy-sat-nan-nhan-196240121165326201.htm) - 10:16 21/01/2024
 - 🌝 [Chủ tịch Quốc hội trao 200 suất quà Tết tới người khó khăn](https://nld.com.vn/chu-tich-quoc-hoi-trao-200-suat-qua-tet-toi-nguoi-kho-khan-196240121154119772.htm) - 09:49 21/01/2024
-- 💪 [Diệp Lâm Anh, Thanh Trúc ngồi &quot;ghế nóng&quot; tìm kiếm mẫu nhí](https://nld.com.vn/nguoi-dep-diep-lam-anh-thanh-truc-ngoi-ghe-nong-tim-kiem-mau-nhi-19624012114275814.htm) - 09:47 21/01/2024
+- 💪 [Thạch Thu Thảo, Thanh Trúc ngồi &quot;ghế nóng&quot; tìm kiếm mẫu nhí](https://nld.com.vn/nguoi-dep-diep-lam-anh-thanh-truc-ngoi-ghe-nong-tim-kiem-mau-nhi-19624012114275814.htm) - 09:47 21/01/2024
 - 🦍 [Nhà đầu tư &quot;nóng mặt&quot; vì xe né trạm: Xem xét đóng dải phân cách](https://nld.com.vn/nha-dau-tu-nong-mat-vi-xe-ne-tram-xem-xet-dong-dai-phan-cach-196240121133613637.htm) - 08:28 21/01/2024
 - 🥷 [Xe tang chở người chết đi hoả táng va chạm với xe tải, tài xế kẹt trong cabin](https://nld.com.vn/xe-tang-cho-nguoi-chet-di-hoa-tang-va-cham-voi-xe-tai-tai-xe-ket-trong-cabin-196240121150607651.htm) - 08:15 21/01/2024
 - 🫶 [Đi nghĩa vụ quân sự có được về chơi Tết?](https://nld.com.vn/di-nghia-vu-quan-su-co-duoc-ve-choi-tet-196240121144645369.htm) - 07:58 21/01/2024
