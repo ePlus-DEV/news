@@ -366,7 +366,7 @@
 - 🎊 [Xe tải tông liên hoàn trên đèo Lò Xo, một phụ nữ tử vong](https://tienphong.vn/xe-tai-tong-lien-hoan-tren-deo-lo-xo-mot-phu-nu-tu-vong-post1606486.tpo) - 22:22 21/01/2024
 - 💼 [Dự báo rét 7-10 độ, Sở Giáo dục Hà Nội chỉ đạo nóng](https://tienphong.vn/du-bao-ret-7-10-do-so-giao-duc-ha-noi-chi-dao-nong-post1606480.tpo) - 22:11 21/01/2024
 - 👺 [Công an &#39;đột kích&#39; nhà hàng tổ chức cho nữ tiếp viên bán dâm](https://tienphong.vn/cong-an-dot-kich-nha-hang-to-chuc-cho-nu-tiep-vien-ban-dam-post1606443.tpo) - 21:18 21/01/2024
-- 💪 [Trực tiếp Oman vs Thái Lan 0-0 &lpar;H2&rpar; : Oman bế tắc](https://tienphong.vn/truc-tiep-oman-vs-thai-lan-0-0-h2-oman-be-tac-post1606449.tpo) - 20:54 21/01/2024
+- 💪 [Hoà Oman, Thái Lan đặt 1 chân vào vòng 1/8 Asian Cup 2023](https://tienphong.vn/hoa-oman-thai-lan-dat-1-chan-vao-vong-18-asian-cup-2023-post1606449.tpo) - 20:54 21/01/2024
 - 💃 [Chủ tịch Quốc hội dự lễ công bố xã đạt chuẩn nông thôn mới nâng cao ở Nghệ An](https://tienphong.vn/chu-tich-quoc-hoi-du-le-cong-bo-xa-dat-chuan-nong-thon-moi-nang-cao-o-nghe-an-post1606373.tpo) - 20:50 21/01/2024
 - 🦍 [Showbiz 21/1: Hoa hậu Diễm Hương cưới lần 3](https://tienphong.vn/showbiz-211-hoa-hau-diem-huong-cuoi-lan-3-post1606447.tpo) - 20:48 21/01/2024
 - 👹 [Nhà sản xuất Chị đẹp xin lỗi](https://tienphong.vn/nha-san-xuat-chi-dep-xin-loi-post1606433.tpo) - 20:42 21/01/2024
