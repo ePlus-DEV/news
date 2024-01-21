@@ -25,7 +25,7 @@
 - 💂 [Cha mẹ mặc kệ con làm ồn ở quán cà phê, máy bay](https://vnexpress.net/cha-me-mac-ke-con-lam-on-o-quan-ca-phe-may-bay-4703330.html) - 13:52 21/01/2024
 - 🎊 [Người phụ nữ hai lần bị truy sát](https://vnexpress.net/nguoi-phu-nu-hai-lan-bi-truy-sat-4703397.html) - 13:49 21/01/2024
 - 🤠 [Nga tuyên bố kiểm soát làng ở miền đông Ukraine](https://vnexpress.net/nga-tuyen-bo-kiem-soat-lang-o-mien-dong-ukraine-4703399.html) - 13:46 21/01/2024
-- 🌈 [Thái Lan đặt một chân vào vòng 1/8 Asian Cup](https://vnexpress.net/thai-lan-vs-oman-4703370.html) - 13:45 21/01/2024
+- 🌈 [Thái Lan đặt một chân vào vòng 1/8 Asian Cup](https://vnexpress.net/thai-lan-vs-oman-4703370-tong-thuat.html) - 13:45 21/01/2024
 - 🎬 [Nhà hàng ở Sài Gòn có 40 tiếp viên bán dâm](https://vnexpress.net/nha-hang-o-sai-gon-co-40-tiep-vien-ban-dam-4703398.html) - 13:40 21/01/2024
 - 🚀 [Doanh thu xuất khẩu dầu Nga thấp nhất 6 tháng](https://vnexpress.net/doanh-thu-xuat-khau-dau-nga-thap-nhat-6-thang-4703319.html) - 13:30 21/01/2024
 - 🪄 [Đại sứ Nga nói Thụy Sĩ đánh mất vai trò hòa giải](https://vnexpress.net/dai-su-nga-noi-thuy-si-danh-mat-vai-tro-hoa-giai-4703396.html) - 13:12 21/01/2024
