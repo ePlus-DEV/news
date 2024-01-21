@@ -363,7 +363,7 @@
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
 - 💼 [Công an &#39;đột kích&#39; nhà hàng tổ chức cho nữ tiếp viên bán dâm](https://tienphong.vn/cong-an-dot-kich-nha-hang-to-chuc-cho-nu-tiep-vien-ban-dam-post1606443.tpo) - 21:18 21/01/2024
-- 🎊 [Trực tiếp Oman vs Thái Lan 0-0 &lpar;H1&rpar; : Chờ ‘Voi chiến&quot; gây sốc](https://tienphong.vn/truc-tiep-oman-vs-thai-lan-0-0-h1-cho-voi-chien-gay-soc-post1606449.tpo) - 20:54 21/01/2024
+- 🎊 [Trực tiếp Oman vs Thái Lan 0-0 &lpar;H1&rpar; : Thái Lan khiến Oman vất vả](https://tienphong.vn/truc-tiep-oman-vs-thai-lan-0-0-h1-thai-lan-khien-oman-vat-va-post1606449.tpo) - 20:54 21/01/2024
 - 💼 [Chủ tịch Quốc hội dự lễ công bố xã đạt chuẩn nông thôn mới nâng cao ở Nghệ An](https://tienphong.vn/chu-tich-quoc-hoi-du-le-cong-bo-xa-dat-chuan-nong-thon-moi-nang-cao-o-nghe-an-post1606373.tpo) - 20:50 21/01/2024
 - 👺 [Showbiz 21/1: Hoa hậu Diễm Hương cưới lần 3](https://tienphong.vn/showbiz-211-hoa-hau-diem-huong-cuoi-lan-3-post1606447.tpo) - 20:48 21/01/2024
 - 💪 [Nhà sản xuất Chị đẹp xin lỗi](https://tienphong.vn/nha-san-xuat-chi-dep-xin-loi-post1606433.tpo) - 20:42 21/01/2024
@@ -411,7 +411,7 @@
 - 📝 [Ẩn ý từ thay đổi ngoại hình của con gái lãnh đạo Triều Tiên](https://tienphong.vn/an-y-tu-thay-doi-ngoai-hinh-cua-con-gai-lanh-dao-trieu-tien-post1606381.tpo) - 15:34 21/01/2024
 - 🪄 [Có nên mua cổ phiếu lúc cận Tết?](https://tienphong.vn/co-nen-mua-co-phieu-luc-can-tet-post1606362.tpo) - 15:34 21/01/2024
 - 🪜 [MU gây sốc, bổ nhiệm giám đốc điều hành siêu khủng từ Man City](https://tienphong.vn/mu-gay-soc-bo-nhiem-giam-doc-dieu-hanh-sieu-khung-tu-man-city-post1606385.tpo) - 15:33 21/01/2024
-- 🤡 [Sửng sốt đám cưới tỷ phú Ấn Độ ở Đà Nẵng: Bao trọn khu nghỉ dưỡng, cô dâu chú rể ‘cháy’ hơn trong phim](https://tienphong.vn/sung-sot-dam-cuoi-ty-phu-an-do-o-da-nang-bao-tron-khu-nghi-duong-co-dau-chu-re-chay-hon-trong-phim-post1606343.tpo) - 15:32 21/01/2024<!-- hoahoctro:END -->
+- 🤡 [Đám cưới tỷ phú Ấn Độ ở Đà Nẵng: Bao trọn khu nghỉ dưỡng, cô dâu chú rể ‘cháy’ hơn trong phim](https://tienphong.vn/dam-cuoi-ty-phu-an-do-o-da-nang-bao-tron-khu-nghi-duong-co-dau-chu-re-chay-hon-trong-phim-post1606343.tpo) - 15:32 21/01/2024<!-- hoahoctro:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
