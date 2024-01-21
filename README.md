@@ -269,24 +269,24 @@
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Những giải thưởng gây tranh cãi của sao Việt](https://vtc.vn/nhung-giai-thuong-gay-tranh-cai-cua-sao-viet-ar848280.html) - 04:30 21/01/2024
-- 🤭 [Bất ngờ khi Triều Tiên khoe cặp UAV y hệt máy bay không người lái Mỹ](https://vtc.vn/bat-ngo-khi-trieu-tien-khoe-cap-uav-y-het-may-bay-khong-nguoi-lai-my-ar848665.html) - 04:26 21/01/2024
-- 🦒 [14 bức ảnh chứng minh sự kiên trì có thể đem đến kết quả tuyệt vời](https://vtc.vn/14-buc-anh-chung-minh-su-kien-tri-co-the-dem-den-ket-qua-tuyet-voi-ar848589.html) - 04:00 21/01/2024
-- 🌮 [Ngày mai 22/1, miền Bắc chìm trong rét đậm rét hại, có thể xảy ra mưa tuyết](https://vtc.vn/ngay-mai-22-1-mien-bac-chim-trong-ret-dam-ret-hai-co-the-xay-ra-mua-tuyet-ar848770.html) - 03:40 21/01/2024
-- 🤖 [Vay thế chấp bằng miếng đất định mua có được không?](https://vtc.vn/vay-the-chap-bang-mieng-dat-dinh-mua-co-duoc-khong-ar848535.html) - 03:00 21/01/2024
-- 🎬 [Uống nước lá vối có tác dụng gì với sức khoẻ?](https://vtc.vn/uong-nuoc-la-voi-co-tac-dung-gi-voi-suc-khoe-ar848711.html) - 02:23 21/01/2024
-- 🥳 [Thủy quân lục chiến Trung Quốc mạnh đến đâu?](https://vtc.vn/thuy-quan-luc-chien-trung-quoc-manh-den-dau-ar848393.html) - 01:37 21/01/2024
-- 🎓 [Dùng Chatbot AI dự đoán xổ số](https://vtc.vn/dung-chatbot-ai-du-doan-xo-so-ar848562.html) - 01:31 21/01/2024
-- 👹 [&#39;Quyền sạc điện&#39; là tiêu chí cấp phép chung cư tại nhiều nước trên thế giới](https://vtc.vn/quyen-sac-dien-la-tieu-chi-cap-phep-chung-cu-tai-nhieu-nuoc-tren-the-gioi-ar848755.html) - 01:15 21/01/2024
-- 🤖 [Tình tiết mới vụ đại án tham nhũng chấn động bóng đá Trung Quốc](https://vtc.vn/tinh-tiet-moi-vu-dai-an-tham-nhung-chan-dong-bong-da-trung-quoc-ar848763.html) - 00:57 21/01/2024
-- 🎊 [Nhà thầu quân sự Pháp ở Ukraine bị tấn công: Nga nhắm mục tiêu đặc biệt?](https://vtc.vn/nha-thau-quan-su-phap-o-ukraine-bi-tan-cong-nga-nham-muc-tieu-dac-biet-ar848740.html) - 23:52 20/01/2024
-- 🐻 [Thăm ngôi làng mỗi ngày gói nghìn chiếc bánh chưng giữa Thủ đô](https://vtc.vn/tham-ngoi-lang-moi-ngay-goi-nghin-chiec-banh-chung-giua-thu-do-ar848343.html) - 23:47 20/01/2024
-- 👍 [Thiết kế nhà ống 1 trệt 1 lửng 1 lầu đang được ưa chuộng](https://vtc.vn/thiet-ke-nha-ong-1-tret-1-lung-1-lau-dang-duoc-ua-chuong-ar848300.html) - 23:47 20/01/2024
-- 🪜 [Xe nào phải nhường đường khi qua ngã tư?](https://vtc.vn/xe-nao-phai-nhuong-duong-khi-qua-nga-tu-ar848449.html) - 23:38 20/01/2024
-- 🌮 [Cách đọc ngôn ngữ cơ thể của mọi người qua 11 dấu hiệu](https://vtc.vn/cach-doc-ngon-ngu-co-the-cua-moi-nguoi-qua-11-dau-hieu-ar848574.html) - 23:35 20/01/2024
-- 🌁 [AI tạo sinh &#39;cướp&#39; việc của 5% nhân viên trong 2024](https://vtc.vn/ai-tao-sinh-cuop-viec-cua-5-nhan-vien-trong-2024-ar848699.html) - 23:31 20/01/2024
-- 👺 [Đố bạn đoán trong 20 giây: Ai là mẹ của đứa trẻ?](https://vtc.vn/do-ban-doan-trong-20-giay-ai-la-me-cua-dua-tre-ar848026.html) - 23:30 20/01/2024
-- 🌊 [Khách thích thú ngắm đào cổ Sapa phủ đầy rêu từ gốc đến ngọn](https://vtc.vn/khach-thich-thu-ngam-dao-co-sapa-phu-day-reu-tu-goc-den-ngon-ar848528.html) - 23:27 20/01/2024
+- 🥸 [Nga dội tên lửa P-35B phá hủy hệ thống phòng không Ukraine tại Odessa](https://vtc.vn/nga-doi-ten-lua-p-35b-pha-huy-he-thong-phong-khong-ukraine-tai-odessa-ar848773.html) - 05:35 21/01/2024
+- 🤭 [Nước đóng băng trên sao Hỏa có thể lấp đầy biển Đỏ](https://vtc.vn/nuoc-dong-bang-tren-sao-hoa-co-the-lap-day-bien-do-ar848696.html) - 05:33 21/01/2024
+- 🦒 [Làm nhà vừa túi tiền để thị trường bất động sản ‘ấm lên’?](https://vtc.vn/lam-nha-vua-tui-tien-de-thi-truong-bat-dong-san-am-len-ar848076.html) - 05:00 21/01/2024
+- 🌮 [Những giải thưởng gây tranh cãi của sao Việt](https://vtc.vn/nhung-giai-thuong-gay-tranh-cai-cua-sao-viet-ar848280.html) - 04:30 21/01/2024
+- 🤖 [Bất ngờ khi Triều Tiên khoe cặp UAV y hệt máy bay không người lái Mỹ](https://vtc.vn/bat-ngo-khi-trieu-tien-khoe-cap-uav-y-het-may-bay-khong-nguoi-lai-my-ar848665.html) - 04:26 21/01/2024
+- 🎬 [14 bức ảnh chứng minh sự kiên trì có thể đem đến kết quả tuyệt vời](https://vtc.vn/14-buc-anh-chung-minh-su-kien-tri-co-the-dem-den-ket-qua-tuyet-voi-ar848589.html) - 04:00 21/01/2024
+- 🥳 [Ngày mai 22/1, miền Bắc chìm trong rét đậm rét hại, có thể xảy ra mưa tuyết](https://vtc.vn/ngay-mai-22-1-mien-bac-chim-trong-ret-dam-ret-hai-co-the-xay-ra-mua-tuyet-ar848770.html) - 03:40 21/01/2024
+- 🎓 [Vay thế chấp bằng miếng đất định mua có được không?](https://vtc.vn/vay-the-chap-bang-mieng-dat-dinh-mua-co-duoc-khong-ar848535.html) - 03:00 21/01/2024
+- 👹 [Uống nước lá vối có tác dụng gì với sức khoẻ?](https://vtc.vn/uong-nuoc-la-voi-co-tac-dung-gi-voi-suc-khoe-ar848711.html) - 02:23 21/01/2024
+- 🤖 [Thủy quân lục chiến Trung Quốc mạnh đến đâu?](https://vtc.vn/thuy-quan-luc-chien-trung-quoc-manh-den-dau-ar848393.html) - 01:37 21/01/2024
+- 🎊 [Dùng Chatbot AI dự đoán xổ số](https://vtc.vn/dung-chatbot-ai-du-doan-xo-so-ar848562.html) - 01:31 21/01/2024
+- 🐻 [&#39;Quyền sạc điện&#39; là tiêu chí cấp phép chung cư tại nhiều nước trên thế giới](https://vtc.vn/quyen-sac-dien-la-tieu-chi-cap-phep-chung-cu-tai-nhieu-nuoc-tren-the-gioi-ar848755.html) - 01:15 21/01/2024
+- 👍 [Tình tiết mới vụ đại án tham nhũng chấn động bóng đá Trung Quốc](https://vtc.vn/tinh-tiet-moi-vu-dai-an-tham-nhung-chan-dong-bong-da-trung-quoc-ar848763.html) - 00:57 21/01/2024
+- 🪜 [Nhà thầu quân sự Pháp ở Ukraine bị tấn công: Nga nhắm mục tiêu đặc biệt?](https://vtc.vn/nha-thau-quan-su-phap-o-ukraine-bi-tan-cong-nga-nham-muc-tieu-dac-biet-ar848740.html) - 23:52 20/01/2024
+- 🌮 [Thiết kế nhà ống 1 trệt 1 lửng 1 lầu đang được ưa chuộng](https://vtc.vn/thiet-ke-nha-ong-1-tret-1-lung-1-lau-dang-duoc-ua-chuong-ar848300.html) - 23:47 20/01/2024
+- 🌁 [Xe nào phải nhường đường khi qua ngã tư?](https://vtc.vn/xe-nao-phai-nhuong-duong-khi-qua-nga-tu-ar848449.html) - 23:38 20/01/2024
+- 👺 [Cách đọc ngôn ngữ cơ thể của mọi người qua 11 dấu hiệu](https://vtc.vn/cach-doc-ngon-ngu-co-the-cua-moi-nguoi-qua-11-dau-hieu-ar848574.html) - 23:35 20/01/2024
+- 🌊 [Đố bạn đoán trong 20 giây: Ai là mẹ của đứa trẻ?](https://vtc.vn/do-ban-doan-trong-20-giay-ai-la-me-cua-dua-tre-ar848026.html) - 23:30 20/01/2024
 - 🤖 [Sao Việt 21/1: Con gái Vũ Linh đóng kịch Tết, Nhã Phương đẹp dịu dàng](https://vtc.vn/sao-viet-21-1-con-gai-vu-linh-dong-kich-tet-nha-phuong-dep-diu-dang-ar848754.html) - 23:20 20/01/2024
 - 🥸 [Điều cần biết về tính năng dừng xe tạm tắt máy trên ô tô](https://vtc.vn/dieu-can-biet-ve-tinh-nang-dung-xe-tam-tat-may-tren-o-to-ar847567.html) - 23:16 20/01/2024
 - 🥸 [Thị trường bất động sản 2024 có hút dòng tiền lớn?](https://vtc.vn/thi-truong-bat-dong-san-2024-co-hut-dong-tien-lon-ar847839.html) - 23:14 20/01/2024
