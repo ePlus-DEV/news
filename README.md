@@ -33,7 +33,7 @@
 - 🎊 [Hai mẹ con bị ôtô tải tông tử vong](https://vnexpress.net/hai-me-con-bi-oto-tai-tong-tu-vong-4703760.html) - 09:48 22/01/2024
 - ⚗️ [Trả tiền để con gái nghỉ việc](https://vnexpress.net/tra-tien-de-con-gai-nghi-viec-4703780.html) - 09:44 22/01/2024
 - 🫣 [Cứu sống nam thanh niên bị thủng tim](https://vnexpress.net/cuu-song-nam-thanh-nien-bi-thung-tim-4703726.html) - 09:42 22/01/2024
-- 👨‍🏫 [Băng xuất hiện trên đỉnh Phia Oắc](https://vnexpress.net/bang-xuat-hien-tren-dinh-phia-oac-4703768.html) - 09:32 22/01/2024
+- 👨‍🏫 [Băng xuất hiện trên đỉnh Phia Oắc, Mẫu Sơn](https://vnexpress.net/bang-xuat-hien-tren-dinh-phia-oac-mau-son-4703768.html) - 09:32 22/01/2024
 - 🐻 [Giá USD tự do vượt 25.000 đồng](https://vnexpress.net/gia-usd-tu-do-vuot-25-000-dong-4703750.html) - 09:32 22/01/2024
 - 😺 [Nghệ sĩ Lệ Thẩm qua đời](https://vnexpress.net/nghe-si-le-tham-qua-doi-4703746.html) - 09:30 22/01/2024
 - 🤔 [Đột quỵ nhẹ có cần điều trị?](https://vnexpress.net/dot-quy-nhe-co-can-dieu-tri-4703759.html) - 09:30 22/01/2024
