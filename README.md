@@ -268,21 +268,21 @@
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Triệu phú bị quấy rối đến khốn khổ khi treo thưởng 34 tỷ đồng tìm con thất lạc](https://vtc.vn/trieu-phu-bi-quay-roi-den-khon-kho-khi-treo-thuong-34-ty-dong-tim-con-that-lac-ar848940.html) - 07:18 22/01/2024
-- 🤭 [TP.HCM: Cháy ở công ty vàng bạc đá quý, nhiều nhân viên tháo chạy](https://vtc.vn/tp-hcm-chay-o-cong-ty-vang-bac-da-quy-nhieu-nhan-vien-thao-chay-ar848942.html) - 06:48 22/01/2024
-- 🦒 [Ca sĩ Quang Hà tuổi 43: Sống đơn giản, thích mặc áo thun, quần đùi vào bếp](https://vtc.vn/ca-si-quang-ha-tuoi-43-song-don-gian-thich-mac-ao-thun-quan-dui-vao-bep-ar848851.html) - 06:30 22/01/2024
-- 🌮 [Độc đáo lễ hội cưỡi ngựa phi qua lửa ở Tây Ban Nha](https://vtc.vn/doc-dao-le-hoi-cuoi-ngua-phi-qua-lua-o-tay-ban-nha-ar848892.html) - 06:30 22/01/2024
-- 🤖 [Lính cứu hỏa phá tường, phun vòi rồng dập tắt đám cháy nhà ở Hà Nội](https://vtc.vn/linh-cuu-hoa-pha-tuong-phun-voi-rong-dap-tat-dam-chay-nha-o-ha-noi-ar848939.html) - 05:43 22/01/2024
-- 🎬 [Quỳnh Kool lấn át Huyền Lizzie](https://vtc.vn/quynh-kool-lan-at-huyen-lizzie-ar848932.html) - 05:25 22/01/2024
-- 🥳 [Muôn kiểu linh vật rồng gây sốt mạng trước Tết Giáp Thìn 2024](https://vtc.vn/muon-kieu-linh-vat-rong-gay-sot-mang-truoc-tet-giap-thin-2024-ar848901.html) - 05:19 22/01/2024
-- 🎓 [47 người bị vùi lấp trong lở đất tại Trung Quốc](https://vtc.vn/47-nguoi-bi-vui-lap-trong-lo-dat-tai-trung-quoc-ar848936.html) - 05:18 22/01/2024
-- 👹 [Tầng lớp trung lưu ở Trung Quốc lao đao, nhiều người thậm chí &#39;âm&#39; tiền](https://vtc.vn/tang-lop-trung-luu-o-trung-quoc-lao-dao-nhieu-nguoi-tham-chi-am-tien-ar848900.html) - 05:12 22/01/2024
-- 🤖 [Tìm nước trên sao Hoả dễ dàng hơn nhờ máy bay công nghệ mới](https://vtc.vn/tim-nuoc-tren-sao-hoa-de-dang-hon-nho-may-bay-cong-nghe-moi-ar848902.html) - 04:46 22/01/2024
-- 🎊 [Xét xử 2 nhóm giang hồ bảo kê đất nổ súng làm 2 người chết ở Phú Quốc](https://vtc.vn/xet-xu-2-nhom-giang-ho-bao-ke-dat-no-sung-lam-2-nguoi-chet-o-phu-quoc-ar848924.html) - 04:42 22/01/2024
-- 🐻 [Thứ trưởng Quốc phòng Ukraine nêu điều kiện với Nga để tìm kiếm hoà bình](https://vtc.vn/thu-truong-quoc-phong-ukraine-neu-dieu-kien-voi-nga-de-tim-kiem-hoa-binh-ar848914.html) - 04:36 22/01/2024
-- 👍 [Bầu cử Mỹ 2024: Ứng cử viên Ron DeSantis bất ngờ từ bỏ cuộc đua](https://vtc.vn/bau-cu-my-2024-ung-cu-vien-ron-desantis-bat-ngo-tu-bo-cuoc-dua-ar848918.html) - 04:22 22/01/2024
-- 🪜 [Thái Lan sắp lấy vị trí số 1 Đông Nam Á của ĐT Việt Nam](https://vtc.vn/thai-lan-sap-lay-vi-tri-so-1-dong-nam-a-cua-dt-viet-nam-ar848926.html) - 04:18 22/01/2024
-- 🌮 [Giá vàng nhẫn lập kỷ lục mới, vàng miếng đi xuống](https://vtc.vn/gia-vang-nhan-lap-ky-luc-moi-vang-mieng-di-xuong-ar848916.html) - 04:17 22/01/2024
+- 🥸 [Asian Cup 2023: Tuyển Việt Nam, Malaysia lép vế trước Indonesia, Thái Lan](https://vtc.vn/asian-cup-2023-tuyen-viet-nam-malaysia-lep-ve-truoc-indonesia-thai-lan-ar848935.html) - 07:40 22/01/2024
+- 🤭 [Mỹ yêu cầu Israel tập trung mục tiêu nhóm thủ lĩnh Hamas](https://vtc.vn/my-yeu-cau-israel-tap-trung-muc-tieu-nhom-thu-linh-hamas-ar848946.html) - 07:40 22/01/2024
+- 🦒 [Đợt rét hại diện rộng ở miền Bắc kéo dài tới khi nào?](https://vtc.vn/dot-ret-hai-dien-rong-o-mien-bac-keo-dai-toi-khi-nao-ar848941.html) - 07:40 22/01/2024
+- 🌮 [Triệu phú bị quấy rối đến khốn khổ khi treo thưởng 34 tỷ đồng tìm con thất lạc](https://vtc.vn/trieu-phu-bi-quay-roi-den-khon-kho-khi-treo-thuong-34-ty-dong-tim-con-that-lac-ar848940.html) - 07:18 22/01/2024
+- 🤖 [TP.HCM: Cháy ở công ty vàng bạc đá quý, nhiều nhân viên tháo chạy](https://vtc.vn/tp-hcm-chay-o-cong-ty-vang-bac-da-quy-nhieu-nhan-vien-thao-chay-ar848942.html) - 06:48 22/01/2024
+- 🎬 [Ca sĩ Quang Hà tuổi 43: Sống đơn giản, thích mặc áo thun, quần đùi vào bếp](https://vtc.vn/ca-si-quang-ha-tuoi-43-song-don-gian-thich-mac-ao-thun-quan-dui-vao-bep-ar848851.html) - 06:30 22/01/2024
+- 🥳 [Độc đáo lễ hội cưỡi ngựa phi qua lửa ở Tây Ban Nha](https://vtc.vn/doc-dao-le-hoi-cuoi-ngua-phi-qua-lua-o-tay-ban-nha-ar848892.html) - 06:30 22/01/2024
+- 🎓 [Lính cứu hỏa phá tường, phun vòi rồng dập tắt đám cháy nhà ở Hà Nội](https://vtc.vn/linh-cuu-hoa-pha-tuong-phun-voi-rong-dap-tat-dam-chay-nha-o-ha-noi-ar848939.html) - 05:43 22/01/2024
+- 👹 [Quỳnh Kool lấn át Huyền Lizzie](https://vtc.vn/quynh-kool-lan-at-huyen-lizzie-ar848932.html) - 05:25 22/01/2024
+- 🤖 [Muôn kiểu linh vật rồng gây sốt mạng trước Tết Giáp Thìn 2024](https://vtc.vn/muon-kieu-linh-vat-rong-gay-sot-mang-truoc-tet-giap-thin-2024-ar848901.html) - 05:19 22/01/2024
+- 🎊 [47 người bị vùi lấp trong lở đất tại Trung Quốc](https://vtc.vn/47-nguoi-bi-vui-lap-trong-lo-dat-tai-trung-quoc-ar848936.html) - 05:18 22/01/2024
+- 🐻 [Tầng lớp trung lưu ở Trung Quốc lao đao, nhiều người thậm chí &#39;âm&#39; tiền](https://vtc.vn/tang-lop-trung-luu-o-trung-quoc-lao-dao-nhieu-nguoi-tham-chi-am-tien-ar848900.html) - 05:12 22/01/2024
+- 👍 [Tìm nước trên sao Hoả dễ dàng hơn nhờ máy bay công nghệ mới](https://vtc.vn/tim-nuoc-tren-sao-hoa-de-dang-hon-nho-may-bay-cong-nghe-moi-ar848902.html) - 04:46 22/01/2024
+- 🪜 [Xét xử 2 nhóm giang hồ bảo kê đất nổ súng làm 2 người chết ở Phú Quốc](https://vtc.vn/xet-xu-2-nhom-giang-ho-bao-ke-dat-no-sung-lam-2-nguoi-chet-o-phu-quoc-ar848924.html) - 04:42 22/01/2024
+- 🌮 [Bầu cử Mỹ 2024: Ứng cử viên Ron DeSantis bất ngờ từ bỏ cuộc đua](https://vtc.vn/bau-cu-my-2024-ung-cu-vien-ron-desantis-bat-ngo-tu-bo-cuoc-dua-ar848918.html) - 04:22 22/01/2024
 - 🌁 [Các trường đại học xét điểm chuẩn khối D từ 20 đến 25 điểm](https://vtc.vn/cac-truong-dai-hoc-xet-diem-chuan-khoi-d-tu-20-den-25-diem-ar845756.html) - 04:17 22/01/2024
 - 👺 [Thu Phương: Hủy đám cưới đã chờ đợi 11 năm vì &#39;Chị đẹp đạp gió rẽ sóng&#39;](https://vtc.vn/thu-phuong-huy-dam-cuoi-da-cho-doi-11-nam-vi-chi-dep-dap-gio-re-song-ar848911.html) - 04:07 22/01/2024
 - 🌊 [Cô gái vừa hát vừa nhảy siêu cuốn ở quán nhậu là ai?](https://vtc.vn/co-gai-vua-hat-vua-nhay-sieu-cuon-o-quan-nhau-la-ai-ar848909.html) - 03:53 22/01/2024
