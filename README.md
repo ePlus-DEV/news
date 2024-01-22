@@ -364,7 +364,7 @@
 <!-- hoahoctro:START -->
 - 💼 [Phát hiện số lượng lớn mứt Tết không nguồn gốc](https://tienphong.vn/phat-hien-so-luong-lon-mut-tet-khong-nguon-goc-post1606590.tpo) - 22:25 22/01/2024
 - 🎊 [Lý do kinh tế Bình Thuận tăng trưởng thần tốc](https://tienphong.vn/ly-do-kinh-te-binh-thuan-tang-truong-than-toc-post1606709.tpo) - 22:23 22/01/2024
-- 💼 [Trực tiếp Qatar vs Trung Quốc 1-0 &lpar;H2&rpar;: Siêu phẩm vô lê giúp Qatar mở tỷ số](https://tienphong.vn/truc-tiep-qatar-vs-trung-quoc-1-0-h2-sieu-pham-vo-le-giup-qatar-mo-ty-so-post1606744.tpo) - 21:21 22/01/2024
+- 💼 [Thua Qatar 0-1, Trung Quốc coi như hết cách qua vòng bảng](https://tienphong.vn/thua-qatar-0-1-trung-quoc-coi-nhu-het-cach-qua-vong-bang-post1606744.tpo) - 21:21 22/01/2024
 - 👺 [Showbiz 22/1: Thu Phương hủy cưới](https://tienphong.vn/showbiz-221-thu-phuong-huy-cuoi-post1606731.tpo) - 21:20 22/01/2024
 - 💪 [Sinh viên nước ngoài hào hứng tìm hiểu Tết Việt](https://tienphong.vn/sinh-vien-nuoc-ngoai-hao-hung-tim-hieu-tet-viet-post1606725.tpo) - 20:57 22/01/2024
 - 💃 [Rủ nhau xuống đập tắm, 4 nữ sinh ở Đắk Lắk đuối nước tử vong](https://tienphong.vn/ru-nhau-xuong-dap-tam-4-nu-sinh-o-dak-lak-duoi-nuoc-tu-vong-post1606730.tpo) - 20:34 22/01/2024
