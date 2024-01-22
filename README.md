@@ -267,16 +267,16 @@
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Thủ tướng Phạm Minh Chính gặp gỡ các hội đoàn, bạn bè hữu nghị Romania](https://vtc.vn/thu-tuong-pham-minh-chinh-gap-go-cac-hoi-doan-ban-be-huu-nghi-romania-ar848896.html) - 03:10 22/01/2024
-- 🤭 [Bắt huấn luyện viên giở trò ‘biến thái’ với nhiều võ sinh nam](https://vtc.vn/bat-huan-luyen-vien-gio-tro-bien-thai-voi-nhieu-vo-sinh-nam-ar848888.html) - 03:09 22/01/2024
-- 🦒 [Tài xế bị phạt nặng do vi phạm nồng độ cồn: &#39;Tết này hết đường về quê&#39;](https://vtc.vn/tai-xe-bi-phat-nang-do-vi-pham-nong-do-con-tet-nay-het-duong-ve-que-ar848877.html) - 02:45 22/01/2024
-- 🌮 [Bé trai mắc bệnh &#39;nghìn người có một&#39;, cần hơn 1 tỷ để ghép tuỷ](https://vtc.vn/be-trai-mac-benh-nghin-nguoi-co-mot-can-hon-1-ty-de-ghep-tuy-ar847272.html) - 02:43 22/01/2024
-- 🤖 [Xe chở đất thải dự án Âu Cơ - Nghi Tàm đăng ký &#39;một đường đổ một nẻo&#39;](https://vtc.vn/xe-cho-dat-thai-du-an-au-co-nghi-tam-dang-ky-mot-duong-do-mot-neo-ar848213.html) - 02:15 22/01/2024
-- 🎬 [Lạnh giá tàn phá nước Mỹ, hơn 80 người thiệt mạng](https://vtc.vn/lanh-gia-tan-pha-nuoc-my-hon-80-nguoi-thiet-mang-ar848884.html) - 02:06 22/01/2024
-- 🥳 [Khám phá 5 chiếc trực thăng quân sự kỳ lạ nhất](https://vtc.vn/kham-pha-5-chiec-truc-thang-quan-su-ky-la-nhat-ar848422.html) - 01:50 22/01/2024
-- 🎓 [Mỹ muốn kéo dài kế hoạch ném bom cho đến khi Houthi suy yếu](https://vtc.vn/my-muon-keo-dai-ke-hoach-nem-bom-cho-den-khi-houthi-suy-yeu-ar848881.html) - 01:43 22/01/2024
-- 👹 [Hà Nội đề xuất cộng điểm thi lớp 10 cho học sinh giỏi cấp thành phố](https://vtc.vn/ha-noi-de-xuat-cong-diem-thi-lop-10-cho-hoc-sinh-gioi-cap-thanh-pho-ar848876.html) - 01:35 22/01/2024
-- 🤖 [Sau 20 lần mổ, cô gái bị chồng đổ xăng đốt hôm mùng 2 Tết hiện ra sao?](https://vtc.vn/sau-20-lan-mo-co-gai-bi-chong-do-xang-dot-hom-mung-2-tet-hien-ra-sao-ar848227.html) - 01:25 22/01/2024
+- 🥸 [Luật Đất đai sửa đổi vừa được thông qua có gì mới?](https://vtc.vn/luat-dat-dai-sua-doi-vua-duoc-thong-qua-co-gi-moi-ar848893.html) - 03:35 22/01/2024
+- 🤭 [Xử lý xe &#39;máy chém&#39; diễu phố: CSGT còn nương tay thì sẽ còn nhiều cái chết oan](https://vtc.vn/xu-ly-xe-may-chem-dieu-pho-csgt-con-nuong-tay-thi-se-con-nhieu-cai-chet-oan-ar847880.html) - 03:30 22/01/2024
+- 🦒 [Thủ tướng Phạm Minh Chính gặp gỡ các hội đoàn, bạn bè hữu nghị Romania](https://vtc.vn/thu-tuong-pham-minh-chinh-gap-go-cac-hoi-doan-ban-be-huu-nghi-romania-ar848896.html) - 03:10 22/01/2024
+- 🌮 [Bắt huấn luyện viên giở trò ‘biến thái’ với nhiều võ sinh nam](https://vtc.vn/bat-huan-luyen-vien-gio-tro-bien-thai-voi-nhieu-vo-sinh-nam-ar848888.html) - 03:09 22/01/2024
+- 🤖 [Tài xế bị phạt nặng do vi phạm nồng độ cồn: &#39;Tết này hết đường về quê&#39;](https://vtc.vn/tai-xe-bi-phat-nang-do-vi-pham-nong-do-con-tet-nay-het-duong-ve-que-ar848877.html) - 02:45 22/01/2024
+- 🎬 [Bé trai mắc bệnh &#39;nghìn người có một&#39;, cần hơn 1 tỷ để ghép tuỷ](https://vtc.vn/be-trai-mac-benh-nghin-nguoi-co-mot-can-hon-1-ty-de-ghep-tuy-ar847272.html) - 02:43 22/01/2024
+- 🥳 [Xe chở đất thải dự án Âu Cơ - Nghi Tàm đăng ký &#39;một đường đổ một nẻo&#39;](https://vtc.vn/xe-cho-dat-thai-du-an-au-co-nghi-tam-dang-ky-mot-duong-do-mot-neo-ar848213.html) - 02:15 22/01/2024
+- 🎓 [Lạnh giá tàn phá nước Mỹ, hơn 80 người thiệt mạng](https://vtc.vn/lanh-gia-tan-pha-nuoc-my-hon-80-nguoi-thiet-mang-ar848884.html) - 02:06 22/01/2024
+- 👹 [Khám phá 5 chiếc trực thăng quân sự kỳ lạ nhất](https://vtc.vn/kham-pha-5-chiec-truc-thang-quan-su-ky-la-nhat-ar848422.html) - 01:50 22/01/2024
+- 🤖 [Mỹ muốn kéo dài kế hoạch ném bom cho đến khi Houthi suy yếu](https://vtc.vn/my-muon-keo-dai-ke-hoach-nem-bom-cho-den-khi-houthi-suy-yeu-ar848881.html) - 01:43 22/01/2024
 - 🎊 [Thực hư thông tin NSND Công Lý xuất hiện trong buổi tập của Táo quân](https://vtc.vn/thuc-hu-thong-tin-nsnd-cong-ly-xuat-hien-trong-buoi-tap-cua-tao-quan-ar848831.html) - 01:16 22/01/2024
 - 🐻 [Cầu gần 40 tỷ ở Quảng Nam xây xong &#39;đắp chiếu&#39;: Thông tin mới nhất](https://vtc.vn/cau-gan-40-ty-o-quang-nam-xay-xong-dap-chieu-thong-tin-moi-nhat-ar848873.html) - 01:14 22/01/2024
 - 👍 [Thắng đậm Bournemouth, Liverpool củng cố ngôi đầu Ngoại Hạng Anh](https://vtc.vn/thang-dam-bournemouth-liverpool-cung-co-ngoi-dau-ngoai-hang-anh-ar848868.html) - 00:36 22/01/2024
