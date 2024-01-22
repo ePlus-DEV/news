@@ -132,8 +132,8 @@
 - 🥰 [Bỏ việc tại Mỹ, về làm trí tuệ nhân tạo miễn phí cho người Việt](https://thanhnien.vn/bo-viec-tai-my-ve-lam-tri-tue-nhan-tao-mien-phi-cho-nguoi-viet-185240121183106753.htm) - 02:00 22/01/2024
 - 🐲 [Hành trình khám phá 5 điểm đến hấp dẫn ở Yongin, Hàn Quốc](https://thanhnien.vn/thoi-trang-tre/hanh-trinh-kham-pha-5-diem-den-hap-dan-o-yongin-han-quoc-185240121103327786.htm) - 02:00 22/01/2024
 - 🎃 [Giá USD hôm nay 22.1.2024: Đô tự do tăng vọt, bỏ xa 25.000 đồng](https://thanhnien.vn/gia-usd-hom-nay-2212024-do-tu-do-tang-vot-bo-xa-25000-dong-185240122083936876.htm) - 01:53 22/01/2024
-- 🎬 [Giá heo hơi hôm nay 22.1.2024: Đứng giá](https://thanhnien.vn/gia-heo-hoi-hom-nay-2212024-dung-gia-185240122072911516.htm) - 01:52 22/01/2024
-- 🌜 [Giá xăng dầu hôm nay 22.1.2024: Giữ đà giảm](https://thanhnien.vn/gia-xang-dau-hom-nay-2212024-giu-da-giam-185240122084014993.htm) - 01:49 22/01/2024
+- 🎬 [Giá heo hơi hôm nay 22.1.2024: Tết cũng không &#39;kích&#39; nổi giá tăng](https://thanhnien.vn/gia-heo-hoi-hom-nay-2212024-dung-gia-185240122072911516.htm) - 01:52 22/01/2024
+- 🌜 [Giá xăng dầu hôm nay 22.1.2024: Tiếp tục giảm do nhu cầu yếu](https://thanhnien.vn/gia-xang-dau-hom-nay-2212024-giu-da-giam-185240122084014993.htm) - 01:49 22/01/2024
 - 🦆 [Thái Lan sắp qua mặt đội tuyển Việt Nam lấy lại ngôi số 1 Đông Nam Á](https://thanhnien.vn/thai-lan-sap-qua-mat-doi-tuyen-viet-nam-lay-lai-ngoi-so-1-dong-nam-a-185240122083343874.htm) - 01:41 22/01/2024
 - 🐵 [Xứng danh ‘lò trẻ Liverpool’](https://thanhnien.vn/xung-danh-lo-tre-liverpool-185240121213646227.htm) - 01:32 22/01/2024
 - 🙉 [Vùng Leningrad của Nga báo động cao, nhà ga nhiên liệu lớn dừng hoạt động](https://thanhnien.vn/vung-leningrad-cua-nga-bao-dong-cao-nha-ga-nhien-lieu-lon-dung-hoat-dong-185240122081716524.htm) - 01:29 22/01/2024
