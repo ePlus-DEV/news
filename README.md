@@ -362,7 +362,7 @@
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Trực tiếp Qatar vs Trung Quốc, 22h00 ngày 22/1: Chờ đợi bất ngờ](https://tienphong.vn/truc-tiep-qatar-vs-trung-quoc-22h00-ngay-221-cho-doi-bat-ngo-post1606744.tpo) - 21:21 22/01/2024
+- 💼 [Trực tiếp Qatar vs Trung Quốc 0-0 &lpar;H1&rpar;: Chờ đợi bất ngờ](https://tienphong.vn/truc-tiep-qatar-vs-trung-quoc-0-0-h1-cho-doi-bat-ngo-post1606744.tpo) - 21:21 22/01/2024
 - 🎊 [Showbiz 22/1: Thu Phương hủy cưới](https://tienphong.vn/showbiz-221-thu-phuong-huy-cuoi-post1606731.tpo) - 21:20 22/01/2024
 - 💼 [Sinh viên nước ngoài hào hứng tìm hiểu Tết Việt](https://tienphong.vn/sinh-vien-nuoc-ngoai-hao-hung-tim-hieu-tet-viet-post1606725.tpo) - 20:57 22/01/2024
 - 👺 [Rủ nhau xuống đập tắm, 4 nữ sinh ở Đắk Lắk đuối nước tử vong](https://tienphong.vn/ru-nhau-xuong-dap-tam-4-nu-sinh-o-dak-lak-duoi-nuoc-tu-vong-post1606730.tpo) - 20:34 22/01/2024
