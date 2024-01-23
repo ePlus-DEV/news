@@ -265,18 +265,18 @@
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Tuyển Việt Nam sắp mất ngôi số 1 Đông Nam Á: Ông Troussier lùi về vạch xuất phát](https://vtc.vn/tuyen-viet-nam-sap-mat-ngoi-so-1-dong-nam-a-ong-troussier-lui-ve-vach-xuat-phat-ar849085.html) - 05:41 23/01/2024
-- 🤭 [Trường học tạm nghỉ, phụ huynh loay hoay tìm cách gửi con](https://vtc.vn/truong-hoc-tam-nghi-phu-huynh-cuong-cuong-tim-cach-gui-con-ar849104.html) - 05:15 23/01/2024
-- 🦒 [Một doanh nghiệp kinh doanh vàng mã thu 2 tỷ đồng/ngày](https://vtc.vn/mot-doanh-nghiep-kinh-doanh-vang-ma-thu-2-ty-dong-ngay-ar849162.html) - 04:58 23/01/2024
-- 🌮 [Đề nghị y án 9 năm tù cựu Cục phó Trần Hùng](https://vtc.vn/de-nghi-y-an-9-nam-tu-cuu-cuc-pho-tran-hung-ar849171.html) - 04:52 23/01/2024
-- 🤖 [Trang Pháp và Lệ Quyên tại show &#39;Chị đẹp&#39;: Người toả sáng, người gây tranh cãi](https://vtc.vn/trang-phap-va-le-quyen-tai-show-chi-dep-nguoi-toa-sang-nguoi-gay-tranh-cai-ar849151.html) - 04:42 23/01/2024
-- 🎬 [Asian Cup 2023: Tuyển Trung Quốc không biết ghi bàn, HLV vẫn khen tiến bộ](https://vtc.vn/asian-cup-2023-tuyen-trung-quoc-khong-biet-ghi-ban-hlv-van-khen-tien-bo-ar849136.html) - 04:41 23/01/2024
-- 🥳 [Xe khách lao xuống vực làm 22 người thương vong: Sức khỏe các nạn nhân thế nào?](https://vtc.vn/xe-khach-lao-xuong-vuc-lam-22-nguoi-thuong-vong-suc-khoe-cac-nan-nhan-the-nao-ar849166.html) - 04:34 23/01/2024
-- 🎓 [Đội lần đầu dự Asian Cup góp phần đẩy tuyển Việt Nam khỏi top 100 thế giới](https://vtc.vn/doi-lan-dau-du-asian-cup-gop-phan-day-tuyen-viet-nam-khoi-top-100-the-gioi-ar849159.html) - 04:33 23/01/2024
-- 👹 [Băng giá phủ trắng chùa Đồng Yên Tử ở Quảng Ninh](https://vtc.vn/bang-gia-phu-trang-chua-dong-yen-tu-o-quang-ninh-ar849144.html) - 04:20 23/01/2024
-- 🤖 [Phụ huynh Hà Nội &#39;quấn kén&#39; đưa con đến trường trong thời tiết 8 độ C](https://vtc.vn/phu-huynh-ha-noi-quan-ken-dua-con-den-truong-trong-thoi-tiet-8-do-c-ar849120.html) - 04:00 23/01/2024
-- 🎊 [Công an Hà Nội thông tin vụ 2 ô tô tông nhau bẹp rúm trên cầu Vĩnh Tuy](https://vtc.vn/cong-an-ha-noi-thong-tin-vu-2-o-to-tong-nhau-bep-rum-tren-cau-vinh-tuy-ar849157.html) - 03:54 23/01/2024
-- 🐻 [Xét nghiệm ADN cả 2 con, người đàn ông phát hiện bí mật động trời vợ giấu 12 năm](https://vtc.vn/xet-nghiem-adn-ca-2-con-nguoi-dan-ong-phat-hien-bi-mat-dong-troi-vo-giau-12-nam-ar849118.html) - 03:36 23/01/2024
+- 🥸 [Mời bạn đọc mua ấn phẩm Tết đặc biệt &#39;Đồng lòng vượt khó&#39; của VTC News](https://vtc.vn/moi-ban-doc-mua-an-pham-tet-dac-biet-dong-long-vuot-kho-cua-vtc-news-ar849050.html) - 07:30 23/01/2024
+- 🤭 [Tuyển Việt Nam sắp mất ngôi số 1 Đông Nam Á: Ông Troussier lùi về vạch xuất phát](https://vtc.vn/tuyen-viet-nam-sap-mat-ngoi-so-1-dong-nam-a-ong-troussier-lui-ve-vach-xuat-phat-ar849085.html) - 05:41 23/01/2024
+- 🦒 [Trường học tạm nghỉ, phụ huynh loay hoay tìm cách gửi con](https://vtc.vn/truong-hoc-tam-nghi-phu-huynh-cuong-cuong-tim-cach-gui-con-ar849104.html) - 05:15 23/01/2024
+- 🌮 [Một doanh nghiệp kinh doanh vàng mã thu 2 tỷ đồng/ngày](https://vtc.vn/mot-doanh-nghiep-kinh-doanh-vang-ma-thu-2-ty-dong-ngay-ar849162.html) - 04:58 23/01/2024
+- 🤖 [Đề nghị y án 9 năm tù cựu Cục phó Trần Hùng](https://vtc.vn/de-nghi-y-an-9-nam-tu-cuu-cuc-pho-tran-hung-ar849171.html) - 04:52 23/01/2024
+- 🎬 [Trang Pháp và Lệ Quyên tại show &#39;Chị đẹp&#39;: Người toả sáng, người gây tranh cãi](https://vtc.vn/trang-phap-va-le-quyen-tai-show-chi-dep-nguoi-toa-sang-nguoi-gay-tranh-cai-ar849151.html) - 04:42 23/01/2024
+- 🥳 [Asian Cup 2023: Tuyển Trung Quốc không biết ghi bàn, HLV vẫn khen tiến bộ](https://vtc.vn/asian-cup-2023-tuyen-trung-quoc-khong-biet-ghi-ban-hlv-van-khen-tien-bo-ar849136.html) - 04:41 23/01/2024
+- 🎓 [Xe khách lao xuống vực làm 22 người thương vong: Sức khỏe các nạn nhân thế nào?](https://vtc.vn/xe-khach-lao-xuong-vuc-lam-22-nguoi-thuong-vong-suc-khoe-cac-nan-nhan-the-nao-ar849166.html) - 04:34 23/01/2024
+- 👹 [Đội lần đầu dự Asian Cup góp phần đẩy tuyển Việt Nam khỏi top 100 thế giới](https://vtc.vn/doi-lan-dau-du-asian-cup-gop-phan-day-tuyen-viet-nam-khoi-top-100-the-gioi-ar849159.html) - 04:33 23/01/2024
+- 🤖 [Băng giá phủ trắng chùa Đồng Yên Tử ở Quảng Ninh](https://vtc.vn/bang-gia-phu-trang-chua-dong-yen-tu-o-quang-ninh-ar849144.html) - 04:20 23/01/2024
+- 🎊 [Phụ huynh Hà Nội &#39;quấn kén&#39; đưa con đến trường trong thời tiết 8 độ C](https://vtc.vn/phu-huynh-ha-noi-quan-ken-dua-con-den-truong-trong-thoi-tiet-8-do-c-ar849120.html) - 04:00 23/01/2024
+- 🐻 [Công an Hà Nội thông tin vụ 2 ô tô tông nhau bẹp rúm trên cầu Vĩnh Tuy](https://vtc.vn/cong-an-ha-noi-thong-tin-vu-2-o-to-tong-nhau-bep-rum-tren-cau-vinh-tuy-ar849157.html) - 03:54 23/01/2024
 - 👍 [7 người thắng trong show &#39;Chị đẹp&#39; sẽ lập nhóm nhạc hay tan rã ngay lập tức?](https://vtc.vn/7-nguoi-thang-trong-show-chi-dep-se-lap-nhom-nhac-hay-tan-ra-ngay-lap-tuc-ar849107.html) - 03:15 23/01/2024
 - 🪜 [Thi công xuyên Tết dự án &#39;thành phố hàng không&#39; hiện đại nhất Việt Nam](https://vtc.vn/thi-cong-xuyen-tet-du-an-thanh-pho-hang-khong-hien-dai-nhat-viet-nam-ar849025.html) - 03:08 23/01/2024
 - 🌮 [Cây thị rỗng ruột hơn 700 tuổi gắn với giai thoại vua Lê Lợi](https://vtc.vn/cay-thi-rong-ruot-hon-700-tuoi-gan-voi-giai-thoai-vua-le-loi-ar849106.html) - 02:11 23/01/2024
