@@ -211,8 +211,8 @@
 - 🚀 [Mức giá thấp bất ngờ của loạt biển số siêu đẹp tại Hà Nội trong phiên 23.1](https://laodong.vn/ban-tin/muc-gia-thap-bat-ngo-cua-loat-bien-so-sieu-dep-tai-ha-noi-trong-phien-231-1296226.ldo) - 13:12 23/01/2024
 - 😺 [Vụ Đặng Thị Hàn Ni - Nguyễn Phương Hằng, bài học về tấn công nhau trên mạng](https://laodong.vn/su-kien-binh-luan/vu-dang-thi-han-ni-nguyen-phuong-hang-bai-hoc-ve-tan-cong-nhau-tren-mang-1295953.ldo) - 13:10 23/01/2024
 - 🕴 [Từ các phong trào thi đua, xuất hiện nhiều kiện tướng chạy tàu](https://laodong.vn/cd-duong-sat/tu-cac-phong-trao-thi-dua-xuat-hien-nhieu-kien-tuong-chay-tau-1296100.ldo) - 13:06 23/01/2024
-- 🌋 [Tin 20h: Sau cải cách tiền lương, giáo viên sẽ nhận được quyền lợi gì?](https://laodong.vn/video-xa-hoi/tin-20h-sau-cai-cach-tien-luong-giao-vien-se-nhan-duoc-quyen-loi-gi-1296189.ldo) - 13:00 23/01/2024
-- 💄 [Điều kiện được bồi thường về đất khi bị thu hồi đất vì lợi ích quốc gia](https://laodong.vn/tu-van-phap-luat/dieu-kien-duoc-boi-thuong-ve-dat-khi-bi-thu-hoi-dat-vi-loi-ich-quoc-gia-1295137.ldo) - 13:00 23/01/2024<!-- laodong:END -->
+- 🌋 [Điều kiện được bồi thường về đất khi bị thu hồi đất vì lợi ích quốc gia](https://laodong.vn/tu-van-phap-luat/dieu-kien-duoc-boi-thuong-ve-dat-khi-bi-thu-hoi-dat-vi-loi-ich-quoc-gia-1295137.ldo) - 13:00 23/01/2024
+- 💄 [Có bị thổi nồng độ cồn nếu dắt bộ xe máy sau khi uống rượu bia hay không?](https://laodong.vn/video-xa-hoi/co-bi-thoi-nong-do-con-neu-dat-bo-xe-may-sau-khi-uong-ruou-bia-hay-khong-1296148.ldo) - 13:00 23/01/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
