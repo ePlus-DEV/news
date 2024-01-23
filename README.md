@@ -268,20 +268,20 @@
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Giám đốc Công an Thừa Thiên - Huế chia sẻ những ngày đầu công bố đường dây nóng](https://vtc.vn/giam-doc-cong-an-thua-thien-hue-chia-se-nhung-ngay-dau-cong-bo-duong-day-nong-ar849309.html) - 14:46 23/01/2024
-- 🤭 [Phu nhân Chủ tịch nước và Phu nhân Tổng thống Đức thưởng thức múa rối nước](https://vtc.vn/phu-nhan-chu-tich-nuoc-va-phu-nhan-tong-thong-duc-thuong-thuc-mua-roi-nuoc-ar849307.html) - 14:23 23/01/2024
-- 🦒 [Bại tướng của HLV Troussier nhiều cơ hội đi tiếp tại Asian Cup 2023](https://vtc.vn/bai-tuong-cua-hlv-troussier-nhieu-co-hoi-di-tiep-tai-asian-cup-2023-ar849310.html) - 14:19 23/01/2024
-- 🌮 [Ronaldo chấn thương, toàn bộ tour du đấu Trung Quốc bị hủy](https://vtc.vn/ronaldo-chan-thuong-toan-bo-tour-du-dau-trung-quoc-bi-huy-ar849311.html) - 14:08 23/01/2024
-- 🤖 [Ba cuộn tôn rơi từ ô tô đầu kéo đè bẹp xe máy, 2 người thoát chết trong gang tấc](https://vtc.vn/ba-cuon-ton-roi-khoi-ro-mooc-xe-dau-keo-2-thanh-nien-thoat-chet-trong-gang-tac-ar849308.html) - 14:03 23/01/2024
-- 🎬 [Xe khách chở 22 người rơi vực: Xác minh thời gian lái xe liên tục của tài xế](https://vtc.vn/xe-khach-cho-22-nguoi-roi-vuc-xac-minh-thoi-gian-lai-xe-lien-tuc-cua-tai-xe-ar849305.html) - 13:54 23/01/2024
-- 🥳 [Ngoại trưởng Lavrov: Nga sẵn sàng đàm phán với Ukraine chấm dứt xung đột](https://vtc.vn/ngoai-truong-lavrov-nga-san-sang-dam-phan-voi-ukraine-cham-dut-xung-dot-ar849291.html) - 13:18 23/01/2024
-- 🎓 [Toà bác kháng cáo kêu oan, tuyên y án 9 năm tù với cựu Cục phó Trần Hùng](https://vtc.vn/toa-bac-khang-cao-keu-oan-tuyen-y-an-9-nam-tu-voi-cuu-cuc-pho-tran-hung-ar849299.html) - 13:18 23/01/2024
-- 👹 [Nga tập kích loạt cơ sở công nghiệp - quân sự của Ukraine](https://vtc.vn/nga-tap-kich-loat-co-so-cong-nghiep-quan-su-cua-ukraine-ar849300.html) - 12:55 23/01/2024
-- 🤖 [Nổ ống nghiệm trong giờ thực hành, 5 học sinh Cần Thơ bị thương](https://vtc.vn/no-ong-nghiem-trong-gio-thuc-hanh-5-hoc-sinh-can-tho-bi-thuong-ar849298.html) - 12:51 23/01/2024
-- 🎊 [Bắt giam Chủ tịch Công ty TNHH vận tải Thủy bộ Hải Hà Trần Tuyết Mai](https://vtc.vn/bat-giam-chu-tich-cong-ty-tnhh-van-tai-thuy-bo-hai-ha-tran-tuyet-mai-ar849302.html) - 12:44 23/01/2024
-- 🐻 [Kiểm tra việc thực hiện chính sách tiền lương tại 2 Bộ và 5 địa phương](https://vtc.vn/kiem-tra-viec-thuc-hien-chinh-sach-tien-luong-tai-2-bo-va-5-dia-phuong-ar849286.html) - 12:14 23/01/2024
-- 👍 [Bộ trưởng Quốc phòng Đức lên tiếng trước nguy cơ xung đột với Nga](https://vtc.vn/bo-truong-quoc-phong-duc-len-tieng-truoc-nguy-co-xung-dot-voi-nga-ar849290.html) - 11:55 23/01/2024
-- 🪜 [Dự báo thời tiết ngày mai 24/1: Hà Nội rét 8 độ C, học sinh tiếp tục nghỉ học](https://vtc.vn/du-bao-thoi-tiet-ngay-mai-24-1-ha-noi-duoi-10-do-c-hoc-sinh-tiep-tuc-nghi-hoc-ar849158.html) - 11:43 23/01/2024
+- 🥸 [Chuyên gia khí tượng dự báo thời điểm kết thúc đợt rét hại diện rộng ở miền Bắc](https://vtc.vn/chuyen-gia-khi-tuong-du-bao-thoi-diem-ket-thuc-dot-ret-hai-dien-rong-o-mien-bac-ar849168.html) - 14:58 23/01/2024
+- 🤭 [Giám đốc Công an Thừa Thiên - Huế chia sẻ những ngày đầu công bố đường dây nóng](https://vtc.vn/giam-doc-cong-an-thua-thien-hue-chia-se-nhung-ngay-dau-cong-bo-duong-day-nong-ar849309.html) - 14:46 23/01/2024
+- 🦒 [Phu nhân Chủ tịch nước và Phu nhân Tổng thống Đức thưởng thức múa rối nước](https://vtc.vn/phu-nhan-chu-tich-nuoc-va-phu-nhan-tong-thong-duc-thuong-thuc-mua-roi-nuoc-ar849307.html) - 14:23 23/01/2024
+- 🌮 [Bại tướng của HLV Troussier nhiều cơ hội đi tiếp tại Asian Cup 2023](https://vtc.vn/bai-tuong-cua-hlv-troussier-nhieu-co-hoi-di-tiep-tai-asian-cup-2023-ar849310.html) - 14:19 23/01/2024
+- 🤖 [Ronaldo chấn thương, toàn bộ tour du đấu Trung Quốc bị hủy](https://vtc.vn/ronaldo-chan-thuong-toan-bo-tour-du-dau-trung-quoc-bi-huy-ar849311.html) - 14:08 23/01/2024
+- 🎬 [Ba cuộn tôn rơi từ ô tô đầu kéo đè bẹp xe máy, 2 người thoát chết trong gang tấc](https://vtc.vn/ba-cuon-ton-roi-khoi-ro-mooc-xe-dau-keo-2-thanh-nien-thoat-chet-trong-gang-tac-ar849308.html) - 14:03 23/01/2024
+- 🥳 [Xe khách chở 22 người rơi vực: Xác minh thời gian lái xe liên tục của tài xế](https://vtc.vn/xe-khach-cho-22-nguoi-roi-vuc-xac-minh-thoi-gian-lai-xe-lien-tuc-cua-tai-xe-ar849305.html) - 13:54 23/01/2024
+- 🎓 [Ngoại trưởng Lavrov: Nga sẵn sàng đàm phán với Ukraine chấm dứt xung đột](https://vtc.vn/ngoai-truong-lavrov-nga-san-sang-dam-phan-voi-ukraine-cham-dut-xung-dot-ar849291.html) - 13:18 23/01/2024
+- 👹 [Toà bác kháng cáo kêu oan, tuyên y án 9 năm tù với cựu Cục phó Trần Hùng](https://vtc.vn/toa-bac-khang-cao-keu-oan-tuyen-y-an-9-nam-tu-voi-cuu-cuc-pho-tran-hung-ar849299.html) - 13:18 23/01/2024
+- 🤖 [Nga tập kích loạt cơ sở công nghiệp - quân sự của Ukraine](https://vtc.vn/nga-tap-kich-loat-co-so-cong-nghiep-quan-su-cua-ukraine-ar849300.html) - 12:55 23/01/2024
+- 🎊 [Nổ ống nghiệm trong giờ thực hành, 5 học sinh Cần Thơ bị thương](https://vtc.vn/no-ong-nghiem-trong-gio-thuc-hanh-5-hoc-sinh-can-tho-bi-thuong-ar849298.html) - 12:51 23/01/2024
+- 🐻 [Bắt giam Chủ tịch Công ty TNHH vận tải Thủy bộ Hải Hà Trần Tuyết Mai](https://vtc.vn/bat-giam-chu-tich-cong-ty-tnhh-van-tai-thuy-bo-hai-ha-tran-tuyet-mai-ar849302.html) - 12:44 23/01/2024
+- 👍 [Kiểm tra việc thực hiện chính sách tiền lương tại 2 Bộ và 5 địa phương](https://vtc.vn/kiem-tra-viec-thuc-hien-chinh-sach-tien-luong-tai-2-bo-va-5-dia-phuong-ar849286.html) - 12:14 23/01/2024
+- 🪜 [Bộ trưởng Quốc phòng Đức lên tiếng trước nguy cơ xung đột với Nga](https://vtc.vn/bo-truong-quoc-phong-duc-len-tieng-truoc-nguy-co-xung-dot-voi-nga-ar849290.html) - 11:55 23/01/2024
 - 🌮 [Tài xế xe bán tải đi ẩu khiến 3 ô tô tông nhau liên hoàn trên cầu Thanh Trì](https://vtc.vn/tai-xe-xe-ban-tai-di-au-khien-3-o-to-tong-nhau-lien-hoan-tren-cau-thanh-tri-ar849239.html) - 11:35 23/01/2024
 - 🌁 [Cách xử lý micro gặp sự cố trên điện thoại Android](https://vtc.vn/cach-xu-ly-micro-gap-su-co-tren-dien-thoai-android-ar848275.html) - 11:34 23/01/2024
 - 👺 [Máy bay quân sự của Myanmar trượt khỏi đường băng, 12 người bị thương](https://vtc.vn/may-bay-quan-su-cua-myanmar-truot-khoi-duong-bang-12-nguoi-bi-thuong-ar849288.html) - 11:27 23/01/2024
