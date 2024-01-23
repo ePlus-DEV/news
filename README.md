@@ -229,7 +229,7 @@
 - 🤩 [Bi Thái Tử vừa bị công an bắt là ai?](https://nld.com.vn/bi-thai-tu-vua-bi-cong-an-bat-la-ai-196240123174027446.htm) - 11:12 23/01/2024
 - 🎭 [Cần Thơ: Nổ ống nghiệm trong giờ thực hành, 5 học sinh bị thương](https://nld.com.vn/can-tho-no-ong-nghiem-trong-gio-thuc-hanh-5-hoc-sinh-bi-thuong-196240123175424833.htm) - 11:11 23/01/2024
 - 💄 [Tết này, Việt Nam vào tốp 5 điểm đến hàng đầu châu Á](https://nld.com.vn/tet-nay-viet-nam-vao-top-5-diem-den-hang-dau-chau-a-196240123173041596.htm) - 10:54 23/01/2024
-- 🎊 [Thiếu hụt lực lượng lao động vì già hóa dân số](https://nld.com.vn/thieu-hut-luc-luong-lao-dong-vi-gia-hoa-dan-so-196240123164123439.htm) - 10:34 23/01/2024
+- 🎊 [TP HCM: Số người cao tuổi đang tăng nhanh](https://nld.com.vn/thieu-hut-luc-luong-lao-dong-vi-gia-hoa-dan-so-196240123164123439.htm) - 10:34 23/01/2024
 - 🎡 [Thông tin mới vụ biến đất rẫy của chủ tịch xã thành nơi dạy lái xe](https://nld.com.vn/thong-tin-moi-vu-bien-dat-ray-cua-chu-tich-xa-thanh-noi-day-lai-xe-196240123162710564.htm) - 10:32 23/01/2024
 - 🎉 [Hàng loạt đường bay kỳ lạ trải khắp châu Âu, cả ngàn người thót tim](https://nld.com.vn/hang-loat-duong-bay-ky-la-trai-khap-chau-au-ca-ngan-nguoi-thot-tim-196240123170837057.htm) - 10:24 23/01/2024
 - 😺 [Rét hại ở miền Bắc còn kéo dài đến cuối tháng 1-2024](https://nld.com.vn/ret-hai-o-mien-bac-con-keo-dai-den-cuoi-thang-1-2024-196240123161656311.htm) - 10:20 23/01/2024
