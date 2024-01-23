@@ -276,8 +276,8 @@
 - 🤖 [Hạ tầng &#39;khủng&#39; giúp giao thông Trung Quốc chở cả tỷ lượt khách mùa Xuân Vận](https://vtc.vn/ha-tang-khung-giup-giao-thong-trung-quoc-cho-ca-ty-luot-khach-mua-xuan-van-ar849180.html) - 08:49 23/01/2024
 - 🎬 [Nga hoàn thành thử nghiệm tên lửa săn máy bay không người lái](https://vtc.vn/nga-hoan-thanh-thu-nghiem-ten-lua-san-may-bay-khong-nguoi-lai-ar849219.html) - 08:32 23/01/2024
 - 🥳 [Những bài luận đặc biệt giúp học sinh Việt giành học bổng &#39;khủng&#39; tại Mỹ](https://vtc.vn/nhung-bai-luan-dac-biet-giup-hoc-sinh-viet-gianh-hoc-bong-khung-tai-my-ar849164.html) - 08:29 23/01/2024
-- 🎓 [Cây cối đóng băng ở xã biên giới Hà Giang](https://vtc.vn/cay-coi-dong-bang-o-xa-bien-gioi-ha-giang-ar849192.html) - 08:26 23/01/2024
-- 👹 [Tập thể dục ngoài trời rét căm căm, thói quen nguy hiểm cần bỏ ngay](https://vtc.vn/tap-the-duc-ngoai-troi-ret-cam-cam-thoi-quen-nguy-hiem-can-bo-ngay-ar849160.html) - 07:46 23/01/2024
+- 🎓 [Tập thể dục ngoài trời rét căm căm, thói quen nguy hiểm cần bỏ ngay](https://vtc.vn/tap-the-duc-ngoai-troi-ret-cam-cam-thoi-quen-nguy-hiem-can-bo-ngay-ar849160.html) - 07:46 23/01/2024
+- 👹 [Lầu Năm Góc hết tiền chi cho Ukraine](https://vtc.vn/lau-nam-goc-het-tien-chi-cho-ukraine-ar849199.html) - 07:36 23/01/2024
 - 🤖 [Bắt thanh niên giả danh công an, mua bán trái phép tài khoản ngân hàng](https://vtc.vn/bat-thanh-nien-gia-danh-cong-an-mua-ban-trai-phep-tai-khoan-ngan-hang-ar849189.html) - 07:14 23/01/2024
 - 🎊 [Đóng chung phim với ông xã Anh Tú, Diệu Nhi thừa nhận: &#39;Không thể né nhau mãi&#39;](https://vtc.vn/dong-chung-phim-voi-ong-xa-anh-tu-dieu-nhi-thua-nhan-khong-the-ne-nhau-mai-ar848975.html) - 07:06 23/01/2024
 - 🐻 [Trang Pháp và Lệ Quyên tại show &#39;Chị đẹp&#39;: Người toả sáng, người gây tranh cãi](https://vtc.vn/trang-phap-va-le-quyen-tai-show-chi-dep-nguoi-toa-sang-nguoi-gay-tranh-cai-ar849151.html) - 04:42 23/01/2024
