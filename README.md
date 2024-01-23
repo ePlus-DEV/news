@@ -269,14 +269,14 @@
 - 🤭 [Băng giá phủ trắng chùa Đồng Yên Tử ở Quảng Ninh](https://vtc.vn/bang-gia-phu-trang-chua-dong-yen-tu-o-quang-ninh-ar849144.html) - 04:20 23/01/2024
 - 🦒 [Phụ huynh Hà Nội &#39;quấn kén&#39; đưa con đến trường trong thời tiết 8 độ C](https://vtc.vn/phu-huynh-ha-noi-quan-ken-dua-con-den-truong-trong-thoi-tiet-8-do-c-ar849120.html) - 04:00 23/01/2024
 - 🌮 [Công an Hà Nội thông tin vụ 2 ô tô tông nhau bẹp rúm trên cầu Vĩnh Tuy](https://vtc.vn/cong-an-ha-noi-thong-tin-vu-2-o-to-tong-nhau-bep-rum-tren-cau-vinh-tuy-ar849157.html) - 03:54 23/01/2024
-- 🤖 [Sắm Tết bao nhiêu là hợp lý?](https://vtc.vn/sam-tet-bao-nhieu-la-hop-ly-ar849019.html) - 03:51 23/01/2024
-- 🎬 [Xét nghiệm ADN cả 2 con, người đàn ông phát hiện bí mật động trời vợ giấu 12 năm](https://vtc.vn/xet-nghiem-adn-ca-2-con-nguoi-dan-ong-phat-hien-bi-mat-dong-troi-vo-giau-12-nam-ar849118.html) - 03:36 23/01/2024
-- 🥳 [Xe khách lao xuống vực khiến 22 người thương vong: Tài xế buồn ngủ](https://vtc.vn/xe-khach-lao-xuong-vuc-khien-22-nguoi-thuong-vong-tai-xe-buon-ngu-ar849132.html) - 03:17 23/01/2024
-- 🎓 [7 người thắng trong show &#39;Chị đẹp&#39; sẽ lập nhóm nhạc hay tan rã ngay lập tức?](https://vtc.vn/7-nguoi-thang-trong-show-chi-dep-se-lap-nhom-nhac-hay-tan-ra-ngay-lap-tuc-ar849107.html) - 03:15 23/01/2024
-- 👹 [Thi công xuyên Tết dự án &#39;thành phố hàng không&#39; hiện đại nhất Việt Nam](https://vtc.vn/thi-cong-xuyen-tet-du-an-thanh-pho-hang-khong-hien-dai-nhat-viet-nam-ar849025.html) - 03:08 23/01/2024
-- 🤖 [Nhiệt độ xuống -1,1 độ C, băng giá phủ kín đỉnh Mẫu Sơn](https://vtc.vn/nhiet-do-xuong-1-1-do-c-bang-gia-phu-kin-dinh-mau-son-ar849122.html) - 02:30 23/01/2024
-- 🎊 [Xe khách lao xuống vực ở cao tốc La Sơn-Túy Loan: Giây phút kinh hoàng](https://vtc.vn/xe-khach-lao-xuong-vuc-o-cao-toc-la-son-tuy-loan-giay-phut-kinh-hoang-ar849124.html) - 02:26 23/01/2024
-- 🐻 [Cây thị rỗng ruột hơn 700 tuổi gắn với giai thoại vua Lê Lợi](https://vtc.vn/cay-thi-rong-ruot-hon-700-tuoi-gan-voi-giai-thoai-vua-le-loi-ar849106.html) - 02:11 23/01/2024
+- 🤖 [Xét nghiệm ADN cả 2 con, người đàn ông phát hiện bí mật động trời vợ giấu 12 năm](https://vtc.vn/xet-nghiem-adn-ca-2-con-nguoi-dan-ong-phat-hien-bi-mat-dong-troi-vo-giau-12-nam-ar849118.html) - 03:36 23/01/2024
+- 🎬 [Xe khách lao xuống vực khiến 22 người thương vong: Tài xế buồn ngủ](https://vtc.vn/xe-khach-lao-xuong-vuc-khien-22-nguoi-thuong-vong-tai-xe-buon-ngu-ar849132.html) - 03:17 23/01/2024
+- 🥳 [7 người thắng trong show &#39;Chị đẹp&#39; sẽ lập nhóm nhạc hay tan rã ngay lập tức?](https://vtc.vn/7-nguoi-thang-trong-show-chi-dep-se-lap-nhom-nhac-hay-tan-ra-ngay-lap-tuc-ar849107.html) - 03:15 23/01/2024
+- 🎓 [Thi công xuyên Tết dự án &#39;thành phố hàng không&#39; hiện đại nhất Việt Nam](https://vtc.vn/thi-cong-xuyen-tet-du-an-thanh-pho-hang-khong-hien-dai-nhat-viet-nam-ar849025.html) - 03:08 23/01/2024
+- 👹 [Nhiệt độ xuống -1,1 độ C, băng giá phủ kín đỉnh Mẫu Sơn](https://vtc.vn/nhiet-do-xuong-1-1-do-c-bang-gia-phu-kin-dinh-mau-son-ar849122.html) - 02:30 23/01/2024
+- 🤖 [Xe khách lao xuống vực ở cao tốc La Sơn-Túy Loan: Giây phút kinh hoàng](https://vtc.vn/xe-khach-lao-xuong-vuc-o-cao-toc-la-son-tuy-loan-giay-phut-kinh-hoang-ar849124.html) - 02:26 23/01/2024
+- 🎊 [Cây thị rỗng ruột hơn 700 tuổi gắn với giai thoại vua Lê Lợi](https://vtc.vn/cay-thi-rong-ruot-hon-700-tuoi-gan-voi-giai-thoai-vua-le-loi-ar849106.html) - 02:11 23/01/2024
+- 🐻 [Israel đề xuất tạm dừng giao tranh 2 tháng ở Gaza](https://vtc.vn/israel-de-xuat-tam-dung-giao-tranh-2-thang-o-gaza-ar849094.html) - 02:01 23/01/2024
 - 👍 [H&#39;Hen Niê bị chê hát chán ở &#39;Chị đẹp đạp gió rẽ sóng&#39;, Lệ Quyên bênh vực](https://vtc.vn/h-hen-nie-bi-che-hat-chan-o-chi-dep-dap-gio-re-song-le-quyen-benh-vuc-ar849082.html) - 02:00 23/01/2024
 - 🪜 [Điều gì sẽ xảy ra nếu ăn 3 quả chuối mỗi ngày?](https://vtc.vn/dieu-gi-se-xay-ra-neu-an-3-qua-chuoi-moi-ngay-ar848984.html) - 01:53 23/01/2024
 - 🌮 [Tại sao cả thế giới đua nhau quay lại Mặt trăng?](https://vtc.vn/tai-sao-ca-the-gioi-dua-nhau-quay-lai-mat-trang-ar849113.html) - 01:45 23/01/2024
