@@ -287,7 +287,7 @@
 - 🌁 [Ngành công nghiệp xe điện Mỹ lại đón tin vui](https://vtc.vn/nganh-cong-nghiep-xe-dien-my-lai-don-tin-vui-ar849240.html) - 10:26 23/01/2024
 - 👺 [Chắc suất đi tiếp, HLV Iraq vẫn muốn thắng tuyển Việt Nam](https://vtc.vn/chac-suat-di-tiep-hlv-iraq-van-muon-thang-tuyen-viet-nam-ar849241.html) - 10:25 23/01/2024
 - 🌊 [Tài xế điều khiển chạy xe theo hướng nào mới đúng quy tắc giao thông?](https://vtc.vn/tai-xe-dieu-khien-chay-xe-theo-huong-nao-moi-dung-quy-tac-giao-thong-ar848950.html) - 10:24 23/01/2024
-- 🤖 [Thua Nhật Bản, Indonesia, HLV Troussier vẫn tự tin khen tuyển Việt Nam tiến bộ](https://vtc.vn/hlv-troussier-tuyen-viet-nam-tien-bo-truong-thanh-ar849258.html) - 10:15 23/01/2024
+- 🤖 [Liên tiếp thua Nhật Bản, Indonesia, HLV Troussier vẫn khen ĐT Việt Nam tiến bộ](https://vtc.vn/hlv-troussier-tuyen-viet-nam-tien-bo-truong-thanh-ar849258.html) - 10:15 23/01/2024
 - 🥸 [Dự báo thời tiết 10 ngày từ đêm 23/1 đến 2/2 và tin không khí lạnh tăng cường](https://vtc.vn/du-bao-thoi-tiet-10-ngay-tu-dem-23-1-den-2-2-va-tin-khong-khi-lanh-tang-cuong-ar849262.html) - 10:07 23/01/2024
 - 🥸 [Top 5 tivi bán chạy trước Tết Nguyên đán 2024 giá cực tốt, ưu đãi hấp dẫn](https://vtc.vn/top-5-tivi-ban-chay-truoc-tet-nguyen-dan-2024-gia-cuc-tot-uu-dai-hap-dan-ar849261.html) - 09:57 23/01/2024
 - 🪜 [3 kiểu áo khoác dạ vừa lỗi mốt vừa dễ khiến bạn già đi vài tuổi](https://vtc.vn/3-kieu-ao-khoac-da-vua-loi-mot-vua-de-khien-ban-gia-di-vai-tuoi-ar849233.html) - 09:56 23/01/2024
