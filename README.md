@@ -35,8 +35,8 @@
 - 🫣 [Ukraine tuyên bố hạ phi công UAV giỏi nhất của Nga](https://vnexpress.net/ukraine-tuyen-bo-ha-phi-cong-uav-gioi-nhat-cua-nga-4703670.html) - 04:01 23/01/2024
 - 👨‍🏫 [&#39;Thủ phủ&#39; bưởi Diễn thu hoạch bán Tết](https://vnexpress.net/thu-phu-buoi-dien-thu-hoach-ban-tet-4703373.html) - 04:00 23/01/2024
 - 🐻 [Sẵn sàng đồng hành, chỉ cần anh nghiêm túc và chung thủy](https://vnexpress.net/san-sang-dong-hanh-chi-can-anh-nghiem-tuc-va-chung-thuy-4703921.html) - 04:00 23/01/2024
-- 😺 [Vợ nhạy cảm và hay suy nghĩ khiến gia đình bất hòa](https://vnexpress.net/vo-nhay-cam-va-hay-suy-nghi-khien-gia-dinh-bat-hoa-4703892.html) - 04:00 23/01/2024
-- 🤔 [Chàng trai có đôi chân khiến chị em ghen tỵ](https://vnexpress.net/chang-trai-co-doi-chan-khien-chi-em-ghen-ty-4700835.html) - 04:00 23/01/2024
+- 😺 [Chàng trai có đôi chân khiến chị em ghen tỵ](https://vnexpress.net/chang-trai-co-doi-chan-khien-chi-em-ghen-ty-4700835.html) - 04:00 23/01/2024
+- 🤔 [Vợ nhạy cảm và hay suy nghĩ khiến gia đình bất hòa](https://vnexpress.net/vo-nhay-cam-va-hay-suy-nghi-khien-gia-dinh-bat-hoa-4703892.html) - 04:00 23/01/2024
 - 🌮 [Giáo phái giết người để thống trị xã hội tại Nhật](https://vnexpress.net/giao-phai-giet-nguoi-de-thong-tri-xa-hoi-tai-nhat-4703963.html) - 04:00 23/01/2024
 - 🦩 [6 món ăn giúp giảm viêm phổi](https://vnexpress.net/6-mon-an-giup-giam-viem-phoi-4703933.html) - 04:00 23/01/2024
 - 📝 [Nghiên cứu dùng bướm đêm sản xuất vaccine](https://vnexpress.net/nghien-cuu-dung-buom-dem-san-xuat-vaccine-4703913.html) - 04:00 23/01/2024
@@ -57,8 +57,7 @@
 - 🪜 [Nguy hiểm ẩn núp trên cao tốc La Sơn - Túy Loan](https://vnexpress.net/nguy-hiem-an-nup-tren-cao-toc-la-son-tuy-loan-4703941.html) - 03:21 23/01/2024
 - 🚦 [Trung Quốc có thể hạn chế xe điện vì cung vượt cầu](https://vnexpress.net/trung-quoc-co-the-han-che-xe-dien-vi-cung-vuot-cau-4703898.html) - 03:20 23/01/2024
 - 🕯 [Băng phủ trắng Mẫu Sơn, chùa Đồng](https://vnexpress.net/bang-phu-trang-mau-son-chua-dong-4703932.html) - 03:14 23/01/2024
-- 💪 [Tài khoản SEC bị tấn công vì chiêu hoán đổi sim](https://vnexpress.net/tai-khoan-sec-bi-tan-cong-vi-chieu-hoan-doi-sim-4703915.html) - 03:08 23/01/2024
-- 🧑‍🏫 [Người tình mặc sexy đón sinh nhật tỷ phú Jeff Bezos](https://vnexpress.net/nguoi-tinh-mac-sexy-don-sinh-nhat-ty-phu-jeff-bezos-4703955.html) - 03:06 23/01/2024<!-- vnexpress:END -->
+- 💪 [Tài khoản SEC bị tấn công vì chiêu hoán đổi sim](https://vnexpress.net/tai-khoan-sec-bi-tan-cong-vi-chieu-hoan-doi-sim-4703915.html) - 03:08 23/01/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
