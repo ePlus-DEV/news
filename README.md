@@ -121,7 +121,7 @@
 - 🥸 [Trung Quốc mua dầu nhiều nhất từ Nga trong năm 2023](https://thanhnien.vn/trung-quoc-mua-dau-nhieu-nhat-tu-nga-trong-nam-2023-185240122210259978.htm) - 07:16 23/01/2024
 - 🌁 [Apple thắng lớn với doanh số đặt trước Vision Pro](https://thanhnien.vn/apple-thang-lon-voi-doanh-so-dat-truoc-vision-pro-185240123114712377.htm) - 07:15 23/01/2024
 - 🤡 [5.000 phụ huynh kiện TikTok vì &#39;hủy hoại cuộc đời con cái&#39;](https://thanhnien.vn/5000-phu-huynh-kien-tiktok-vi-huy-hoai-cuoc-doi-con-cai-185240123140209329.htm) - 07:10 23/01/2024
-- 🎉 [Xe khách lao xuống vực ở cao tốc: Sức khỏe các hành khách ra sao ?](https://thanhnien.vn/xe-khach-lao-xuong-vuc-o-cao-toc-suc-khoe-cac-hanh-khach-ra-sao-185240123112206466.htm) - 06:52 23/01/2024
+- 🎉 [Xe khách lao xuống vực ở cao tốc: Sức khỏe các hành khách ra sao?](https://thanhnien.vn/xe-khach-lao-xuong-vuc-o-cao-toc-suc-khoe-cac-hanh-khach-ra-sao-185240123112206466.htm) - 06:52 23/01/2024
 - 🎊 [&#39;Rớt tim&#39; cảnh du khách check- in trên đầu rồng khổng lồ tại hồ Thủy Tiên](https://thanhnien.vn/rot-tim-canh-du-khach-check-in-tren-dau-rong-khong-lo-tai-ho-thuy-tien-185240123091518628.htm) - 06:50 23/01/2024
 - 🤠 [Mùa cưới, mùa đi đám cưới 4.0: Tiền vàng thách cưới, bỏ phong bì bao nhiêu là đủ?](https://thanhnien.vn/mua-cuoi-mua-di-dam-cuoi-40-tien-vang-thach-cuoi-bo-phong-bi-bao-nhieu-la-du-185240114203401011.htm) - 06:50 23/01/2024
 - 💼 [Dựng hiện trường vụ chém người giữa phố Đà Lạt](https://thanhnien.vn/dung-hien-truong-vu-chem-nguoi-giua-pho-da-lat-185240123120509901.htm) - 06:46 23/01/2024
