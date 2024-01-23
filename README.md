@@ -56,9 +56,7 @@
 - 🚀 [Biến chủng Covid mới lây nhiễm sâu trong phổi](https://vnexpress.net/bien-chung-covid-moi-lay-nhiem-sau-trong-phoi-4704018.html) - 04:07 23/01/2024
 - 🪜 [Ukraine tuyên bố hạ phi công UAV giỏi nhất của Nga](https://vnexpress.net/ukraine-tuyen-bo-ha-phi-cong-uav-gioi-nhat-cua-nga-4703670.html) - 04:01 23/01/2024
 - 🚦 [&#39;Thủ phủ&#39; bưởi Diễn thu hoạch bán Tết](https://vnexpress.net/thu-phu-buoi-dien-thu-hoach-ban-tet-4703373.html) - 04:00 23/01/2024
-- 🕯 [Sẵn sàng đồng hành, chỉ cần anh nghiêm túc và chung thủy](https://vnexpress.net/san-sang-dong-hanh-chi-can-anh-nghiem-tuc-va-chung-thuy-4703921.html) - 04:00 23/01/2024
-- 💪 [Chàng trai có đôi chân khiến chị em ghen tỵ](https://vnexpress.net/chang-trai-co-doi-chan-khien-chi-em-ghen-ty-4700835.html) - 04:00 23/01/2024
-- 🧑‍🏫 [Vợ nhạy cảm và hay suy nghĩ khiến gia đình bất hòa](https://vnexpress.net/vo-nhay-cam-va-hay-suy-nghi-khien-gia-dinh-bat-hoa-4703892.html) - 04:00 23/01/2024<!-- vnexpress:END -->
+- 🕯 [Sẵn sàng đồng hành, chỉ cần anh nghiêm túc và chung thủy](https://vnexpress.net/san-sang-dong-hanh-chi-can-anh-nghiem-tuc-va-chung-thuy-4703921.html) - 04:00 23/01/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
