@@ -269,17 +269,17 @@
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Hạ tầng &#39;khủng&#39; giúp giao thông Trung Quốc chở cả tỷ lượt khách mùa Xuân Vận](https://vtc.vn/ha-tang-khung-giup-giao-thong-trung-quoc-cho-ca-ty-luot-khach-mua-xuan-van-ar849180.html) - 08:49 23/01/2024
-- 🤭 [Nga hoàn thành thử nghiệm tên lửa săn máy bay không người lái](https://vtc.vn/nga-hoan-thanh-thu-nghiem-ten-lua-san-may-bay-khong-nguoi-lai-ar849219.html) - 08:32 23/01/2024
-- 🦒 [Những bài luận đặc biệt giúp học sinh Việt giành học bổng &#39;khủng&#39; tại Mỹ](https://vtc.vn/nhung-bai-luan-dac-biet-giup-hoc-sinh-viet-gianh-hoc-bong-khung-tai-my-ar849164.html) - 08:29 23/01/2024
-- 🌮 [Cây cối đóng băng ở xã biên giới Hà Giang](https://vtc.vn/cay-coi-dong-bang-o-xa-bien-gioi-ha-giang-ar849192.html) - 08:26 23/01/2024
-- 🤖 [Tập thể dục ngoài trời rét căm căm, thói quen nguy hiểm cần bỏ ngay](https://vtc.vn/tap-the-duc-ngoai-troi-ret-cam-cam-thoi-quen-nguy-hiem-can-bo-ngay-ar849160.html) - 07:46 23/01/2024
-- 🎬 [Lầu Năm Góc hết tiền chi cho Ukraine](https://vtc.vn/lau-nam-goc-het-tien-chi-cho-ukraine-ar849199.html) - 07:36 23/01/2024
-- 🥳 [Mời bạn đọc mua đặc san Tết &#39;Đồng lòng vượt khó&#39; của VTC News](https://vtc.vn/moi-ban-doc-mua-dac-san-tet-dac-biet-dong-long-vuot-kho-cua-vtc-news-ar849050.html) - 07:30 23/01/2024
-- 🎓 [Hàng loạt ngân hàng tiếp tục giảm lãi suất huy động](https://vtc.vn/hang-loat-ngan-hang-tiep-tuc-giam-lai-suat-huy-dong-ar849170.html) - 07:23 23/01/2024
-- 👹 [Bắt thanh niên giả danh công an, mua bán trái phép tài khoản ngân hàng](https://vtc.vn/bat-thanh-nien-gia-danh-cong-an-mua-ban-trai-phep-tai-khoan-ngan-hang-ar849189.html) - 07:14 23/01/2024
-- 🤖 [Đóng chung phim với ông xã Anh Tú, Diệu Nhi thừa nhận: &#39;Không thể né nhau mãi&#39;](https://vtc.vn/dong-chung-phim-voi-ong-xa-anh-tu-dieu-nhi-thua-nhan-khong-the-ne-nhau-mai-ar848975.html) - 07:06 23/01/2024
-- 🎊 [Tuyển Việt Nam sắp mất ngôi số 1 Đông Nam Á: Ông Troussier lùi về vạch xuất phát](https://vtc.vn/tuyen-viet-nam-sap-mat-ngoi-so-1-dong-nam-a-ong-troussier-lui-ve-vach-xuat-phat-ar849085.html) - 05:41 23/01/2024
+- 🥸 [Băng giá phủ kín đỉnh Mẫu Sơn, du khách ùn ùn kéo đến ngắm](https://vtc.vn/bang-gia-phu-kin-dinh-mau-son-du-khach-un-un-keo-den-ngam-ar849265.html) - 09:34 23/01/2024
+- 🤭 [Tổng thống Đức và Phu nhân tham quan Khu Di tích Lịch sử Văn Miếu-Quốc Tử Giám](https://vtc.vn/tong-thong-duc-va-phu-nhan-tham-quan-khu-di-tich-lich-su-van-mieu-quoc-tu-giam-ar849255.html) - 09:32 23/01/2024
+- 🦒 [Ông Nguyễn Đăng Quang trở lại danh sách tỷ phú USD, 5 tỷ phú VN cũng thăng hạng](https://vtc.vn/ong-nguyen-dang-quang-tro-lai-danh-sach-ty-phu-usd-5-ty-phu-vn-cung-thang-hang-ar849267.html) - 09:26 23/01/2024
+- 🌮 [HLV Troussier: Tuyển Việt Nam không ghi bàn là tại tôi, phạt đền là tại tôi](https://vtc.vn/doi-tuyen-viet-nam-bi-che-bai-hlv-troussier-chi-trich-truyen-thong-ar849246.html) - 09:11 23/01/2024
+- 🤖 [Hạ tầng &#39;khủng&#39; giúp giao thông Trung Quốc chở cả tỷ lượt khách mùa Xuân Vận](https://vtc.vn/ha-tang-khung-giup-giao-thong-trung-quoc-cho-ca-ty-luot-khach-mua-xuan-van-ar849180.html) - 08:49 23/01/2024
+- 🎬 [Nga hoàn thành thử nghiệm tên lửa săn máy bay không người lái](https://vtc.vn/nga-hoan-thanh-thu-nghiem-ten-lua-san-may-bay-khong-nguoi-lai-ar849219.html) - 08:32 23/01/2024
+- 🥳 [Những bài luận đặc biệt giúp học sinh Việt giành học bổng &#39;khủng&#39; tại Mỹ](https://vtc.vn/nhung-bai-luan-dac-biet-giup-hoc-sinh-viet-gianh-hoc-bong-khung-tai-my-ar849164.html) - 08:29 23/01/2024
+- 🎓 [Cây cối đóng băng ở xã biên giới Hà Giang](https://vtc.vn/cay-coi-dong-bang-o-xa-bien-gioi-ha-giang-ar849192.html) - 08:26 23/01/2024
+- 👹 [Tập thể dục ngoài trời rét căm căm, thói quen nguy hiểm cần bỏ ngay](https://vtc.vn/tap-the-duc-ngoai-troi-ret-cam-cam-thoi-quen-nguy-hiem-can-bo-ngay-ar849160.html) - 07:46 23/01/2024
+- 🤖 [Bắt thanh niên giả danh công an, mua bán trái phép tài khoản ngân hàng](https://vtc.vn/bat-thanh-nien-gia-danh-cong-an-mua-ban-trai-phep-tai-khoan-ngan-hang-ar849189.html) - 07:14 23/01/2024
+- 🎊 [Đóng chung phim với ông xã Anh Tú, Diệu Nhi thừa nhận: &#39;Không thể né nhau mãi&#39;](https://vtc.vn/dong-chung-phim-voi-ong-xa-anh-tu-dieu-nhi-thua-nhan-khong-the-ne-nhau-mai-ar848975.html) - 07:06 23/01/2024
 - 🐻 [Trang Pháp và Lệ Quyên tại show &#39;Chị đẹp&#39;: Người toả sáng, người gây tranh cãi](https://vtc.vn/trang-phap-va-le-quyen-tai-show-chi-dep-nguoi-toa-sang-nguoi-gay-tranh-cai-ar849151.html) - 04:42 23/01/2024
 - 👍 [Asian Cup 2023: Tuyển Trung Quốc không biết ghi bàn, HLV vẫn khen tiến bộ](https://vtc.vn/asian-cup-2023-tuyen-trung-quoc-khong-biet-ghi-ban-hlv-van-khen-tien-bo-ar849136.html) - 04:41 23/01/2024
 - 🪜 [Xe khách lao xuống vực làm 22 người thương vong: Sức khỏe các nạn nhân thế nào?](https://vtc.vn/xe-khach-lao-xuong-vuc-lam-22-nguoi-thuong-vong-suc-khoe-cac-nan-nhan-the-nao-ar849166.html) - 04:34 23/01/2024
