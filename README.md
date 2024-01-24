@@ -358,56 +358,56 @@
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [TIN NHANH: Bộ Y tế nói về biến thể phụ nguy hiểm của COVID-19 ở TPHCM; Pha bắt việt vị gây tranh cãi của công nghệ VAR](https://tienphong.vn/tin-nhanh-bo-y-te-noi-ve-bien-the-phu-nguy-hiem-cua-covid-19-o-tphcm-pha-bat-viet-vi-gay-tranh-cai-cua-cong-nghe-var-post1607221.tpo) - 12:33 24/01/2024
-- 🎊 [Ngắm băng giá trên đỉnh đèo Ô Quý Hồ](https://tienphong.vn/ngam-bang-gia-tren-dinh-deo-o-quy-ho-post1607184.tpo) - 12:22 24/01/2024
-- 💼 [Thông tin mới nhất về lễ trao danh hiệu NSND, NSƯT](https://tienphong.vn/thong-tin-moi-nhat-ve-le-trao-danh-hieu-nsnd-nsut-post1607199.tpo) - 12:20 24/01/2024
-- 👺 [Vợ bị chồng vừa ly hôn sát hại trong phòng ngủ khi quay về nhà cũ](https://tienphong.vn/vo-bi-chong-vua-ly-hon-sat-hai-trong-phong-ngu-khi-quay-ve-nha-cu-post1607194.tpo) - 12:15 24/01/2024
-- 💪 [Nữ sinh lớp 11 bị đánh hội đồng chấn thương sọ não, gãy mũi](https://tienphong.vn/nu-sinh-lop-11-bi-danh-hoi-dong-chan-thuong-so-nao-gay-mui-post1607175.tpo) - 12:08 24/01/2024
-- 💃 [Hà Nội: &#39;Cháy&#39; thiết bị sưởi ấm vì trời rét cắt da cắt thịt](https://tienphong.vn/ha-noi-chay-thiet-bi-suoi-am-vi-troi-ret-cat-da-cat-thit-post1607211.tpo) - 12:06 24/01/2024
-- 🦍 [Trên đường đưa về quê lo hậu sự, nam thanh niên bất ngờ được cứu sống](https://tienphong.vn/tren-duong-dua-ve-que-lo-hau-su-nam-thanh-nien-bat-ngo-duoc-cuu-song-post1607193.tpo) - 12:05 24/01/2024
-- 👹 [Độc đáo cặp rồng gốm sứ tại làng nghề hàng trăm tuổi ở Bình Dương](https://tienphong.vn/doc-dao-cap-rong-gom-su-tai-lang-nghe-hang-tram-tuoi-o-binh-duong-post1607190.tpo) - 12:02 24/01/2024
-- 🌜 [Người đàn ông bị xử phạt vì livestream &#39;rao bán 7.000 xe máy tang vật&#39;](https://tienphong.vn/nguoi-dan-ong-bi-xu-phat-vi-livestream-rao-ban-7000-xe-may-tang-vat-post1607187.tpo) - 11:51 24/01/2024
-- 🎓 [Phá đường dây cho vay lãi nặng 9.000 tỷ đồng: Bộ Công an gửi thư khen Công an Đà Nẵng](https://tienphong.vn/pha-duong-day-cho-vay-lai-nang-9000-ty-dong-bo-cong-an-gui-thu-khen-cong-an-da-nang-post1607206.tpo) - 11:49 24/01/2024
-- 🦣 [Bí thư Quận 1 TPHCM giữ chức Phó chủ tịch Ủy ban Trung ương MTTQ Việt Nam](https://tienphong.vn/bi-thu-quan-1-tphcm-giu-chuc-pho-chu-tich-uy-ban-trung-uong-mttq-viet-nam-post1607209.tpo) - 11:47 24/01/2024
-- 🤓 [Tỉnh nghèo Quảng Bình bất ngờ xin rút khỏi danh sách hỗ trợ gạo ăn Tết](https://tienphong.vn/tinh-ngheo-quang-binh-bat-ngo-xin-rut-khoi-danh-sach-ho-tro-gao-an-tet-post1607200.tpo) - 11:41 24/01/2024
-- 🌁 [Núi Bà Hỏa được phủ lưới thép chống sạt lở](https://tienphong.vn/nui-ba-hoa-duoc-phu-luoi-thep-chong-sat-lo-post1607182.tpo) - 11:36 24/01/2024
-- 🤩 [Kết luận điều tra bổ sung vụ mua kit test Việt Á của Bệnh viện TP.Thủ Đức](https://tienphong.vn/ket-luan-dieu-tra-bo-sung-vu-mua-kit-test-viet-a-cua-benh-vien-tpthu-duc-post1607164.tpo) - 11:25 24/01/2024
-- 🫶 [Rét run cầm cập, người dân vùng cao quấn chăn, đốt lửa sưởi ấm cho trâu bò](https://tienphong.vn/ret-run-cam-cap-nguoi-dan-vung-cao-quan-chan-dot-lua-suoi-am-cho-trau-bo-post1607165.tpo) - 11:24 24/01/2024
-- 🌁 [Sập bẫy lừa cập nhật dữ liệu bị sai trên VNeID, người phụ nữ mất hơn 100 triệu](https://tienphong.vn/sap-bay-lua-cap-nhat-du-lieu-bi-sai-tren-vneid-nguoi-phu-nu-mat-hon-100-trieu-post1607137.tpo) - 11:22 24/01/2024
-- 🤭 [Biến Hội chợ Xuân thành &#39;đặc sản&#39; của du lịch Hà Nội](https://tienphong.vn/bien-hoi-cho-xuan-thanh-dac-san-cua-du-lich-ha-noi-post1607177.tpo) - 11:21 24/01/2024
-- 💪 [VFF giải thích lý do chưa sa thải HLV Troussier](https://tienphong.vn/vff-giai-thich-ly-do-chua-sa-thai-hlv-troussier-post1607197.tpo) - 11:15 24/01/2024
-- 🎡 [LĐBĐ Trung Quốc sa thải Jankovic, mời HLV người Hàn Quốc cầm quân](https://tienphong.vn/ldbd-trung-quoc-sa-thai-jankovic-moi-hlv-nguoi-han-quoc-cam-quan-post1607191.tpo) - 11:14 24/01/2024
-- 😎 [Vincom Mega Mall Grand Park sắp khai trương, tăng sức hút cho TP.Thủ Đức](https://tienphong.vn/vincom-mega-mall-grand-park-sap-khai-truong-tang-suc-hut-cho-tpthu-duc-post1607178.tpo) - 11:12 24/01/2024
-- 🦄 [Canada: Máy bay rơi khi đang đến mỏ kim cương, nhiều người thiệt mạng](https://tienphong.vn/canada-may-bay-roi-khi-dang-den-mo-kim-cuong-nhieu-nguoi-thiet-mang-post1607183.tpo) - 11:10 24/01/2024
-- 🚀 [Lịch thi đấu Asian Cup 2023 hôm nay 24/1: Lời chia tay của tuyển Việt Nam](https://tienphong.vn/lich-thi-dau-asian-cup-2023-hom-nay-241-loi-chia-tay-cua-tuyen-viet-nam-post1607179.tpo) - 11:09 24/01/2024
-- 🤓 [Suy ngẫm khác về ồn ào của chị đẹp Lệ Quyên và Trang Pháp](https://tienphong.vn/suy-ngam-khac-ve-on-ao-cua-chi-dep-le-quyen-va-trang-phap-post1607157.tpo) - 10:57 24/01/2024
-- 💄 [Bộ Công an nói gì về tính bảo mật, kịp thời trong xử lý tin báo tố giác tội phạm qua ứng dụng VNeID?](https://tienphong.vn/bo-cong-an-noi-gi-ve-tinh-bao-mat-kip-thoi-trong-xu-ly-tin-bao-to-giac-toi-pham-qua-ung-dung-vneid-post1607173.tpo) - 10:54 24/01/2024
+- 💼 [Nhà sản xuất Chị đẹp phản hồi vụ Mỹ Linh hát sai lời nhạc Trịnh](https://tienphong.vn/nha-san-xuat-chi-dep-phan-hoi-vu-my-linh-hat-sai-loi-nhac-trinh-post1607224.tpo) - 13:22 24/01/2024
+- 🎊 [Sự thật cụ bà vô gia cư &#39;ngày xin đồ từ thiện, tối về nhà chục tỷ&#39; ở Hà Nội](https://tienphong.vn/su-that-cu-ba-vo-gia-cu-ngay-xin-do-tu-thien-toi-ve-nha-chuc-ty-o-ha-noi-post1607180.tpo) - 13:13 24/01/2024
+- 💼 [Việt Nam trong chiến lược đa dạng hoá của Đức](https://tienphong.vn/viet-nam-trong-chien-luoc-da-dang-hoa-cua-duc-post1607230.tpo) - 13:05 24/01/2024
+- 👺 [Rét căm căm, giáo viên mầm non đốt củi sưởi cho học trò](https://tienphong.vn/ret-cam-cam-giao-vien-mam-non-dot-cui-suoi-cho-hoc-tro-post1607171.tpo) - 13:03 24/01/2024
+- 💪 [Anh em, họ hàng bán đất cho nhau có phải nộp thuế?](https://tienphong.vn/anh-em-ho-hang-ban-dat-cho-nhau-co-phai-nop-thue-post1606513.tpo) - 13:02 24/01/2024
+- 💃 [Máy bay ném bom tàng hình B-21 của Mỹ chính thức đi vào sản xuất](https://tienphong.vn/may-bay-nem-bom-tang-hinh-b-21-cua-my-chinh-thuc-di-vao-san-xuat-post1607214.tpo) - 13:00 24/01/2024
+- 🦍 [5.000 phụ huynh Mỹ kiện TikTok vì &#39;ngã ngửa&#39; với con](https://tienphong.vn/5000-phu-huynh-my-kien-tiktok-vi-nga-ngua-voi-con-post1607213.tpo) - 12:57 24/01/2024
+- 👹 [Hàn Quốc nói Triều Tiên vừa phóng nhiều tên lửa hành trình](https://tienphong.vn/han-quoc-noi-trieu-tien-vua-phong-nhieu-ten-lua-hanh-trinh-post1607208.tpo) - 12:54 24/01/2024
+- 🌜 [&#39;Về tương lai HLV Troussier, nên có những phản biện từ Hội đồng HLV Quốc gia&#39;](https://tienphong.vn/ve-tuong-lai-hlv-troussier-nen-co-nhung-phan-bien-tu-hoi-dong-hlv-quoc-gia-post1607115.tpo) - 12:52 24/01/2024
+- 🎓 [Sau Messi, đến lượt Ronaldo hủy tour du đấu Trung Quốc](https://tienphong.vn/sau-messi-den-luot-ronaldo-huy-tour-du-dau-trung-quoc-post1607212.tpo) - 12:48 24/01/2024
+- 🦣 [TIN NHANH: Bộ Y tế nói về biến thể phụ nguy hiểm của COVID-19 ở TPHCM; Pha bắt việt vị gây tranh cãi của công nghệ VAR](https://tienphong.vn/tin-nhanh-bo-y-te-noi-ve-bien-the-phu-nguy-hiem-cua-covid-19-o-tphcm-pha-bat-viet-vi-gay-tranh-cai-cua-cong-nghe-var-post1607221.tpo) - 12:33 24/01/2024
+- 🤓 [Ngắm băng giá trên đỉnh đèo Ô Quý Hồ](https://tienphong.vn/ngam-bang-gia-tren-dinh-deo-o-quy-ho-post1607184.tpo) - 12:22 24/01/2024
+- 🌁 [Thông tin mới nhất về lễ trao danh hiệu NSND, NSƯT](https://tienphong.vn/thong-tin-moi-nhat-ve-le-trao-danh-hieu-nsnd-nsut-post1607199.tpo) - 12:20 24/01/2024
+- 🤩 [Vợ bị chồng vừa ly hôn sát hại trong phòng ngủ khi quay về nhà cũ](https://tienphong.vn/vo-bi-chong-vua-ly-hon-sat-hai-trong-phong-ngu-khi-quay-ve-nha-cu-post1607194.tpo) - 12:15 24/01/2024
+- 🫶 [Nữ sinh lớp 11 bị đánh hội đồng chấn thương sọ não, gãy mũi](https://tienphong.vn/nu-sinh-lop-11-bi-danh-hoi-dong-chan-thuong-so-nao-gay-mui-post1607175.tpo) - 12:08 24/01/2024
+- 🌁 [Hà Nội: &#39;Cháy&#39; thiết bị sưởi ấm vì trời rét cắt da cắt thịt](https://tienphong.vn/ha-noi-chay-thiet-bi-suoi-am-vi-troi-ret-cat-da-cat-thit-post1607211.tpo) - 12:06 24/01/2024
+- 🤭 [Trên đường đưa về quê lo hậu sự, nam thanh niên bất ngờ được cứu sống](https://tienphong.vn/tren-duong-dua-ve-que-lo-hau-su-nam-thanh-nien-bat-ngo-duoc-cuu-song-post1607193.tpo) - 12:05 24/01/2024
+- 💪 [Độc đáo cặp rồng gốm sứ tại làng nghề hàng trăm tuổi ở Bình Dương](https://tienphong.vn/doc-dao-cap-rong-gom-su-tai-lang-nghe-hang-tram-tuoi-o-binh-duong-post1607190.tpo) - 12:02 24/01/2024
+- 🎡 [Người đàn ông bị xử phạt vì livestream &#39;rao bán 7.000 xe máy tang vật&#39;](https://tienphong.vn/nguoi-dan-ong-bi-xu-phat-vi-livestream-rao-ban-7000-xe-may-tang-vat-post1607187.tpo) - 11:51 24/01/2024
+- 😎 [Phá đường dây cho vay lãi nặng 9.000 tỷ đồng: Bộ Công an gửi thư khen Công an Đà Nẵng](https://tienphong.vn/pha-duong-day-cho-vay-lai-nang-9000-ty-dong-bo-cong-an-gui-thu-khen-cong-an-da-nang-post1607206.tpo) - 11:49 24/01/2024
+- 🦄 [Bí thư Quận 1 TPHCM giữ chức Phó chủ tịch Ủy ban Trung ương MTTQ Việt Nam](https://tienphong.vn/bi-thu-quan-1-tphcm-giu-chuc-pho-chu-tich-uy-ban-trung-uong-mttq-viet-nam-post1607209.tpo) - 11:47 24/01/2024
+- 🚀 [Tỉnh nghèo Quảng Bình bất ngờ xin rút khỏi danh sách hỗ trợ gạo ăn Tết](https://tienphong.vn/tinh-ngheo-quang-binh-bat-ngo-xin-rut-khoi-danh-sach-ho-tro-gao-an-tet-post1607200.tpo) - 11:41 24/01/2024
+- 🤓 [Núi Bà Hỏa được phủ lưới thép chống sạt lở](https://tienphong.vn/nui-ba-hoa-duoc-phu-luoi-thep-chong-sat-lo-post1607182.tpo) - 11:36 24/01/2024
+- 💄 [Kết luận điều tra bổ sung vụ mua kit test Việt Á của Bệnh viện TP.Thủ Đức](https://tienphong.vn/ket-luan-dieu-tra-bo-sung-vu-mua-kit-test-viet-a-cua-benh-vien-tpthu-duc-post1607164.tpo) - 11:25 24/01/2024
+- 🌋 [Rét run cầm cập, người dân vùng cao quấn chăn, đốt lửa sưởi ấm cho trâu bò](https://tienphong.vn/ret-run-cam-cap-nguoi-dan-vung-cao-quan-chan-dot-lua-suoi-am-cho-trau-bo-post1607165.tpo) - 11:24 24/01/2024
+- 🥷 [Sập bẫy lừa cập nhật dữ liệu bị sai trên VNeID, người phụ nữ mất hơn 100 triệu](https://tienphong.vn/sap-bay-lua-cap-nhat-du-lieu-bi-sai-tren-vneid-nguoi-phu-nu-mat-hon-100-trieu-post1607137.tpo) - 11:22 24/01/2024
+- 🦏 [Biến Hội chợ Xuân thành &#39;đặc sản&#39; của du lịch Hà Nội](https://tienphong.vn/bien-hoi-cho-xuan-thanh-dac-san-cua-du-lich-ha-noi-post1607177.tpo) - 11:21 24/01/2024
+- 🎓 [VFF giải thích lý do chưa sa thải HLV Troussier](https://tienphong.vn/vff-giai-thich-ly-do-chua-sa-thai-hlv-troussier-post1607197.tpo) - 11:15 24/01/2024
+- 🐘 [LĐBĐ Trung Quốc sa thải Jankovic, mời HLV người Hàn Quốc cầm quân](https://tienphong.vn/ldbd-trung-quoc-sa-thai-jankovic-moi-hlv-nguoi-han-quoc-cam-quan-post1607191.tpo) - 11:14 24/01/2024
+- 🎡 [Vincom Mega Mall Grand Park sắp khai trương, tăng sức hút cho TP.Thủ Đức](https://tienphong.vn/vincom-mega-mall-grand-park-sap-khai-truong-tang-suc-hut-cho-tpthu-duc-post1607178.tpo) - 11:12 24/01/2024
+- 🔭 [Canada: Máy bay rơi khi đang đến mỏ kim cương, nhiều người thiệt mạng](https://tienphong.vn/canada-may-bay-roi-khi-dang-den-mo-kim-cuong-nhieu-nguoi-thiet-mang-post1607183.tpo) - 11:10 24/01/2024
+- 🧰 [Lịch thi đấu Asian Cup 2023 hôm nay 24/1: Lời chia tay của tuyển Việt Nam](https://tienphong.vn/lich-thi-dau-asian-cup-2023-hom-nay-241-loi-chia-tay-cua-tuyen-viet-nam-post1607179.tpo) - 11:09 24/01/2024
+- 💂 [Suy ngẫm khác về ồn ào của chị đẹp Lệ Quyên và Trang Pháp](https://tienphong.vn/suy-ngam-khac-ve-on-ao-cua-chi-dep-le-quyen-va-trang-phap-post1607157.tpo) - 10:57 24/01/2024
+- 🦏 [Bộ Công an nói gì về tính bảo mật, kịp thời trong xử lý tin báo tố giác tội phạm qua ứng dụng VNeID?](https://tienphong.vn/bo-cong-an-noi-gi-ve-tinh-bao-mat-kip-thoi-trong-xu-ly-tin-bao-to-giac-toi-pham-qua-ung-dung-vneid-post1607173.tpo) - 10:54 24/01/2024
 - 🌋 [Cô trò đốt lửa sưởi ấm chống rét ở điểm trường có độ cao gần 2.000m](https://tienphong.vn/co-tro-dot-lua-suoi-am-chong-ret-o-diem-truong-co-do-cao-gan-2000m-post1607185.tpo) - 10:54 24/01/2024
-- 🥷 [Ở nơi lạnh - 62 độ C, người dân vẫn hoạt động bình thường](https://tienphong.vn/o-noi-lanh-62-do-c-nguoi-dan-van-hoat-dong-binh-thuong-post1607176.tpo) - 10:51 24/01/2024
-- 🦏 [Trao các quyết định của Giám đốc Công an Bình Thuận về công tác cán bộ](https://tienphong.vn/trao-cac-quyet-dinh-cua-giam-doc-cong-an-binh-thuan-ve-cong-tac-can-bo-post1607181.tpo) - 10:45 24/01/2024
-- 🎓 [Sắp lắp thang máy trong hang động nổi tiếng ở Malaysia](https://tienphong.vn/sap-lap-thang-may-trong-hang-dong-noi-tieng-o-malaysia-post1607170.tpo) - 10:42 24/01/2024
-- 🐘 [Hơn 3 tỷ USD &#39;nằm chờ&#39; trong tài khoản, chưa biết mua gì](https://tienphong.vn/hon-3-ty-usd-nam-cho-trong-tai-khoan-chua-biet-mua-gi-post1607150.tpo) - 10:39 24/01/2024
-- 🎡 [Lâm Đồng cho chuyển đổi hơn 6.500m² đất để xây trường đua ngựa ngàn tỷ](https://tienphong.vn/lam-dong-cho-chuyen-doi-hon-6500m-dat-de-xay-truong-dua-ngua-ngan-ty-post1607138.tpo) - 10:36 24/01/2024
-- 🔭 [Lần đầu sử dụng 3D mapping tái hiện cuộc khởi nghĩa Hai Bà Trưng](https://tienphong.vn/lan-dau-su-dung-3d-mapping-tai-hien-cuoc-khoi-nghia-hai-ba-trung-post1607033.tpo) - 10:34 24/01/2024
-- 🧰 [Bị phạt 5 triệu đồng vì vội đi họp phụ huynh](https://tienphong.vn/bi-phat-5-trieu-dong-vi-voi-di-hop-phu-huynh-post1607174.tpo) - 10:31 24/01/2024
-- 💂 [Một nữ tổng giám đốc bị bắt vì gây thất thoát 317 tỷ đồng](https://tienphong.vn/mot-nu-tong-giam-doc-bi-bat-vi-gay-that-thoat-317-ty-dong-post1607153.tpo) - 10:31 24/01/2024
-- 🦏 [Phim bị cấm ở Việt Nam thất thế tại Oscar 2024](https://tienphong.vn/phim-bi-cam-o-viet-nam-that-the-tai-oscar-2024-post1607135.tpo) - 10:28 24/01/2024
-- 🌋 [Lội bùn cấy lúa giữa trời giá rét giúp gia đình đoàn viên khó khăn](https://tienphong.vn/loi-bun-cay-lua-giua-troi-gia-ret-giup-gia-dinh-doan-vien-kho-khan-post1607145.tpo) - 10:25 24/01/2024
-- 🧰 [Cứu 5 ngư dân trên tàu cá Bình Định bị chìm](https://tienphong.vn/cuu-5-ngu-dan-tren-tau-ca-binh-dinh-bi-chim-post1607162.tpo) - 10:19 24/01/2024
-- 🦩 [Sô cô la đen - &#39;thần dược&#39; giảm huyết áp](https://tienphong.vn/so-co-la-den-than-duoc-giam-huyet-ap-post1606988.tpo) - 10:16 24/01/2024
-- 📝 [Dâu tây vào mùa, ngon khó cưỡng, lại mang đến nhiều lợi ích bất ngờ cho sức khỏe](https://tienphong.vn/dau-tay-vao-mua-ngon-kho-cuong-lai-mang-den-nhieu-loi-ich-bat-ngo-cho-suc-khoe-post1607166.tpo) - 10:15 24/01/2024
-- 🤓 [Lợn nhập lậu tăng mạnh: Người chăn nuôi lo phá sản](https://tienphong.vn/lon-nhap-lau-tang-manh-nguoi-chan-nuoi-lo-pha-san-post1607071.tpo) - 10:15 24/01/2024
-- 🎭 [Ấm nồng đông lạnh giá](https://tienphong.vn/am-nong-dong-lanh-gia-post1607074.tpo) - 10:15 24/01/2024
-- 🐘 [Nhà đồi gây thương nhớ vì quá đỗi bình yên](https://tienphong.vn/nha-doi-gay-thuong-nho-vi-qua-doi-binh-yen-post1605278.tpo) - 10:09 24/01/2024
-- 😺 [Chủ dự án Khu công nghiệp Yên Lư bị xử phạt vì xây dựng không phép](https://tienphong.vn/chu-du-an-khu-cong-nghiep-yen-lu-bi-xu-phat-vi-xay-dung-khong-phep-post1607160.tpo) - 10:08 24/01/2024
-- 🌁 [Chủ đầu tư được trả tiền thuê hàng năm sẽ giúp hạ giá nhà, đất?](https://tienphong.vn/chu-dau-tu-duoc-tra-tien-thue-hang-nam-se-giup-ha-gia-nha-dat-post1605817.tpo) - 10:07 24/01/2024
-- 💄 [Ba linh vật rồng cỡ lớn ở Đường hoa Nguyễn Huệ sẽ được chuyển nhượng làm thiện nguyện](https://tienphong.vn/ba-linh-vat-rong-co-lon-o-duong-hoa-nguyen-hue-se-duoc-chuyen-nhuong-lam-thien-nguyen-post1607154.tpo) - 10:04 24/01/2024
-- 🧰 [Mỹ tiến hành đợt không kích mới ở Iraq](https://tienphong.vn/my-tien-hanh-dot-khong-kich-moi-o-iraq-post1607158.tpo) - 10:02 24/01/2024
-- 🗽 [Trải lòng của tiểu thương đốt lửa, dựng lều thức xuyên đêm trông đào Tết](https://tienphong.vn/trai-long-cua-tieu-thuong-dot-lua-dung-leu-thuc-xuyen-dem-trong-dao-tet-post1607141.tpo) - 09:56 24/01/2024
-- 📝 [Hàng nghìn người chen chân lên Mẫu Sơn &#39;săn&#39; tuyết gây ùn tắc](https://tienphong.vn/hang-nghin-nguoi-chen-chan-len-mau-son-san-tuyet-gay-un-tac-post1607151.tpo) - 09:56 24/01/2024
-- 🪄 [Cựu Giám đốc Bệnh viện TP Thủ Đức bị đề nghị truy tố vì liên quan Cty Việt Á](https://tienphong.vn/cuu-giam-doc-benh-vien-tp-thu-duc-bi-de-nghi-truy-to-vi-lien-quan-cty-viet-a-post1607147.tpo) - 09:49 24/01/2024
-- 🪜 [Ngậm ngùi…thưởng Tết](https://tienphong.vn/ngam-nguithuong-tet-post1607095.tpo) - 09:48 24/01/2024
-- 🤡 [Xe bị phủ băng và những lưu ý lái xe khi nhiệt độ giảm sâu](https://tienphong.vn/xe-bi-phu-bang-va-nhung-luu-y-lai-xe-khi-nhiet-do-giam-sau-post1606986.tpo) - 09:46 24/01/2024<!-- hoahoctro:END -->
+- 🧰 [Ở nơi lạnh - 62 độ C, người dân vẫn hoạt động bình thường](https://tienphong.vn/o-noi-lanh-62-do-c-nguoi-dan-van-hoat-dong-binh-thuong-post1607176.tpo) - 10:51 24/01/2024
+- 🦩 [Trao các quyết định của Giám đốc Công an Bình Thuận về công tác cán bộ](https://tienphong.vn/trao-cac-quyet-dinh-cua-giam-doc-cong-an-binh-thuan-ve-cong-tac-can-bo-post1607181.tpo) - 10:45 24/01/2024
+- 📝 [Sắp lắp thang máy trong hang động nổi tiếng ở Malaysia](https://tienphong.vn/sap-lap-thang-may-trong-hang-dong-noi-tieng-o-malaysia-post1607170.tpo) - 10:42 24/01/2024
+- 🤓 [Hơn 3 tỷ USD &#39;nằm chờ&#39; trong tài khoản, chưa biết mua gì](https://tienphong.vn/hon-3-ty-usd-nam-cho-trong-tai-khoan-chua-biet-mua-gi-post1607150.tpo) - 10:39 24/01/2024
+- 🎭 [Lâm Đồng cho chuyển đổi hơn 6.500m² đất để xây trường đua ngựa ngàn tỷ](https://tienphong.vn/lam-dong-cho-chuyen-doi-hon-6500m-dat-de-xay-truong-dua-ngua-ngan-ty-post1607138.tpo) - 10:36 24/01/2024
+- 🐘 [Lần đầu sử dụng 3D mapping tái hiện cuộc khởi nghĩa Hai Bà Trưng](https://tienphong.vn/lan-dau-su-dung-3d-mapping-tai-hien-cuoc-khoi-nghia-hai-ba-trung-post1607033.tpo) - 10:34 24/01/2024
+- 😺 [Bị phạt 5 triệu đồng vì vội đi họp phụ huynh](https://tienphong.vn/bi-phat-5-trieu-dong-vi-voi-di-hop-phu-huynh-post1607174.tpo) - 10:31 24/01/2024
+- 🌁 [Một nữ tổng giám đốc bị bắt vì gây thất thoát 317 tỷ đồng](https://tienphong.vn/mot-nu-tong-giam-doc-bi-bat-vi-gay-that-thoat-317-ty-dong-post1607153.tpo) - 10:31 24/01/2024
+- 💄 [Phim bị cấm ở Việt Nam thất thế tại Oscar 2024](https://tienphong.vn/phim-bi-cam-o-viet-nam-that-the-tai-oscar-2024-post1607135.tpo) - 10:28 24/01/2024
+- 🧰 [Lội bùn cấy lúa giữa trời giá rét giúp gia đình đoàn viên khó khăn](https://tienphong.vn/loi-bun-cay-lua-giua-troi-gia-ret-giup-gia-dinh-doan-vien-kho-khan-post1607145.tpo) - 10:25 24/01/2024
+- 🗽 [Cứu 5 ngư dân trên tàu cá Bình Định bị chìm](https://tienphong.vn/cuu-5-ngu-dan-tren-tau-ca-binh-dinh-bi-chim-post1607162.tpo) - 10:19 24/01/2024
+- 📝 [Sô cô la đen - &#39;thần dược&#39; giảm huyết áp](https://tienphong.vn/so-co-la-den-than-duoc-giam-huyet-ap-post1606988.tpo) - 10:16 24/01/2024
+- 🪄 [Dâu tây vào mùa, ngon khó cưỡng, lại mang đến nhiều lợi ích bất ngờ cho sức khỏe](https://tienphong.vn/dau-tay-vao-mua-ngon-kho-cuong-lai-mang-den-nhieu-loi-ich-bat-ngo-cho-suc-khoe-post1607166.tpo) - 10:15 24/01/2024
+- 🪜 [Lợn nhập lậu tăng mạnh: Người chăn nuôi lo phá sản](https://tienphong.vn/lon-nhap-lau-tang-manh-nguoi-chan-nuoi-lo-pha-san-post1607071.tpo) - 10:15 24/01/2024
+- 🤡 [Ấm nồng đông lạnh giá](https://tienphong.vn/am-nong-dong-lanh-gia-post1607074.tpo) - 10:15 24/01/2024<!-- hoahoctro:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
