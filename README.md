@@ -267,24 +267,24 @@
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Lịch nghỉ Tết Nguyên đán 2024 của các trường đại học](https://vtc.vn/lich-nghi-tet-nguyen-dan-2024-cua-cac-truong-dai-hoc-ar847092.html) - 01:14 24/01/2024
-- 🤭 [Chung cư mini ở Hà Nội thay đổi thế nào sau vụ cháy thảm ở Khương Hạ?](https://vtc.vn/chung-cu-mini-o-ha-noi-thay-doi-the-nao-sau-vu-chay-tham-o-khuong-ha-ar848933.html) - 01:09 24/01/2024
-- 🦒 [Giám đốc Nhà hát Tuổi trẻ công bố mức thưởng Tết 2024](https://vtc.vn/giam-doc-nha-hat-tuoi-tre-cong-bo-muc-thuong-tet-2024-ar849370.html) - 01:09 24/01/2024
-- 🌮 [Nhận định bóng đá Iraq vs Việt Nam: Trận đấu danh dự](https://vtc.vn/nhan-dinh-bong-da-iraq-vs-viet-nam-tran-dau-danh-du-ar849349.html) - 00:42 24/01/2024
-- 🤖 [Chiếc máy bay &#39;quá khổ&#39; nhất thế giới có thể cất cánh từ tàu sân bay](https://vtc.vn/chiec-may-bay-qua-kho-nhat-the-gioi-co-the-cat-canh-tu-tau-san-bay-ar848751.html) - 00:37 24/01/2024
-- 🎬 [Lịch thi đấu bóng đá hôm nay ngày 24/1 mới nhất](https://vtc.vn/lich-thi-dau-bong-da-hom-nay-ngay-24-1-moi-nhat-ar849357.html) - 00:36 24/01/2024
-- 🥳 [24 binh sĩ Israel thiệt mạng](https://vtc.vn/24-binh-si-israel-thiet-mang-ar849355.html) - 00:36 24/01/2024
-- 🎓 [Độc đáo nghề làm ngói âm dương ở Cao Bằng](https://vtc.vn/doc-dao-nghe-lam-ngoi-am-duong-o-cao-bang-ar849155.html) - 00:30 24/01/2024
-- 👹 [Cuộc đời thăng trầm của nữ tiến sĩ đầu tiên trên thế giới](https://vtc.vn/cuoc-doi-thang-tram-cua-nu-tien-si-dau-tien-tren-the-gioi-ar849360.html) - 00:26 24/01/2024
-- 🤖 [Cuộc đua không gian Mỹ - Trung: Mục tiêu Mặt Trăng và &#39;bãi đỗ đẹp&#39; trên quỹ đạo](https://vtc.vn/cuoc-dua-khong-gian-my-trung-muc-tieu-mat-trang-va-bai-do-dep-tren-quy-dao-ar848738.html) - 00:17 24/01/2024
-- 🎊 [Rét buốt bao trùm miền Bắc, đỉnh Mẫu Sơn xuống -2,5 độ C](https://vtc.vn/ret-buot-bao-trum-mien-bac-dinh-mau-son-xuong-2-5-do-c-ar849354.html) - 00:11 24/01/2024
-- 🐻 [Đội hình dự kiến Việt Nam vs Iraq: Duy Mạnh, Hùng Dũng trở lại](https://vtc.vn/doi-hinh-du-kien-viet-nam-vs-iraq-duy-manh-hung-dung-tro-lai-ar849348.html) - 00:02 24/01/2024
-- 👍 [Vợ đi ăn cỗ cưới không rủ, chồng phóng hỏa đốt nhà](https://vtc.vn/vo-di-an-co-cuoi-khong-ru-chong-phong-hoa-dot-nha-ar849314.html) - 00:00 24/01/2024
-- 🪜 [Nữ tiến sĩ đầu tiên trong lịch sử khoa bảng Việt Nam là ai?](https://vtc.vn/nu-tien-si-dau-tien-trong-lich-su-khoa-bang-viet-nam-la-ai-ar849027.html) - 00:00 24/01/2024
-- 🌮 [Xem trực tiếp bóng đá Iraq vs  Việt Nam Asian Cup 2023 trên kênh nào?](https://vtc.vn/xem-truc-tiep-bong-da-iraq-vs-viet-nam-asian-cup-2023-tren-kenh-nao-ar849350.html) - 23:51 23/01/2024
-- 🌁 [Sự cố máy sưởi khiến bé trai 11 tháng tuổi chết oan](https://vtc.vn/su-co-may-suoi-khien-be-trai-11-thang-tuoi-chet-oan-ar849334.html) - 23:49 23/01/2024
-- 👺 [Ăn sập các món ngon nhất quanh Hồ Gươm](https://vtc.vn/an-sap-cac-mon-ngon-nhat-quanh-ho-guom-ar849049.html) - 23:47 23/01/2024
-- 🌊 [Giá xăng dầu hôm nay 24/1: Giá dầu đi xuống](https://vtc.vn/gia-xang-dau-hom-nay-24-1-gia-dau-di-xuong-ar849353.html) - 23:40 23/01/2024
+- 🥸 [Hết chê CĐV lại trách truyền thông, HLV Troussier lặp lại thói quen &#39;vạ miệng&#39;?](https://vtc.vn/het-che-cdv-lai-trach-truyen-thong-hlv-troussier-lap-lai-thoi-quen-va-mieng-ar849344.html) - 02:07 24/01/2024
+- 🤭 [Lịch nghỉ Tết Nguyên đán 2024 của các trường đại học](https://vtc.vn/lich-nghi-tet-nguyen-dan-2024-cua-cac-truong-dai-hoc-ar847092.html) - 01:14 24/01/2024
+- 🦒 [Chung cư mini ở Hà Nội thay đổi thế nào sau vụ cháy thảm ở Khương Hạ?](https://vtc.vn/chung-cu-mini-o-ha-noi-thay-doi-the-nao-sau-vu-chay-tham-o-khuong-ha-ar848933.html) - 01:09 24/01/2024
+- 🌮 [Giám đốc Nhà hát Tuổi trẻ công bố mức thưởng Tết 2024](https://vtc.vn/giam-doc-nha-hat-tuoi-tre-cong-bo-muc-thuong-tet-2024-ar849370.html) - 01:09 24/01/2024
+- 🤖 [Nhận định bóng đá Iraq vs Việt Nam: Trận đấu danh dự](https://vtc.vn/nhan-dinh-bong-da-iraq-vs-viet-nam-tran-dau-danh-du-ar849349.html) - 00:42 24/01/2024
+- 🎬 [Chiếc máy bay &#39;quá khổ&#39; nhất thế giới có thể cất cánh từ tàu sân bay](https://vtc.vn/chiec-may-bay-qua-kho-nhat-the-gioi-co-the-cat-canh-tu-tau-san-bay-ar848751.html) - 00:37 24/01/2024
+- 🥳 [Lịch thi đấu bóng đá hôm nay ngày 24/1 mới nhất](https://vtc.vn/lich-thi-dau-bong-da-hom-nay-ngay-24-1-moi-nhat-ar849357.html) - 00:36 24/01/2024
+- 🎓 [24 binh sĩ Israel thiệt mạng](https://vtc.vn/24-binh-si-israel-thiet-mang-ar849355.html) - 00:36 24/01/2024
+- 👹 [Độc đáo nghề làm ngói âm dương ở Cao Bằng](https://vtc.vn/doc-dao-nghe-lam-ngoi-am-duong-o-cao-bang-ar849155.html) - 00:30 24/01/2024
+- 🤖 [Cuộc đời thăng trầm của nữ tiến sĩ đầu tiên trên thế giới](https://vtc.vn/cuoc-doi-thang-tram-cua-nu-tien-si-dau-tien-tren-the-gioi-ar849360.html) - 00:26 24/01/2024
+- 🎊 [Cuộc đua không gian Mỹ - Trung: Mục tiêu Mặt Trăng và &#39;bãi đỗ đẹp&#39; trên quỹ đạo](https://vtc.vn/cuoc-dua-khong-gian-my-trung-muc-tieu-mat-trang-va-bai-do-dep-tren-quy-dao-ar848738.html) - 00:17 24/01/2024
+- 🐻 [Rét buốt bao trùm miền Bắc, đỉnh Mẫu Sơn xuống -2,5 độ C](https://vtc.vn/ret-buot-bao-trum-mien-bac-dinh-mau-son-xuong-2-5-do-c-ar849354.html) - 00:11 24/01/2024
+- 👍 [Đội hình dự kiến Việt Nam vs Iraq: Duy Mạnh, Hùng Dũng trở lại](https://vtc.vn/doi-hinh-du-kien-viet-nam-vs-iraq-duy-manh-hung-dung-tro-lai-ar849348.html) - 00:02 24/01/2024
+- 🪜 [Vợ đi ăn cỗ cưới không rủ, chồng phóng hỏa đốt nhà](https://vtc.vn/vo-di-an-co-cuoi-khong-ru-chong-phong-hoa-dot-nha-ar849314.html) - 00:00 24/01/2024
+- 🌮 [Nữ tiến sĩ đầu tiên trong lịch sử khoa bảng Việt Nam là ai?](https://vtc.vn/nu-tien-si-dau-tien-trong-lich-su-khoa-bang-viet-nam-la-ai-ar849027.html) - 00:00 24/01/2024
+- 🌁 [Xem trực tiếp bóng đá Iraq vs  Việt Nam Asian Cup 2023 trên kênh nào?](https://vtc.vn/xem-truc-tiep-bong-da-iraq-vs-viet-nam-asian-cup-2023-tren-kenh-nao-ar849350.html) - 23:51 23/01/2024
+- 👺 [Sự cố máy sưởi khiến bé trai 11 tháng tuổi chết oan](https://vtc.vn/su-co-may-suoi-khien-be-trai-11-thang-tuoi-chet-oan-ar849334.html) - 23:49 23/01/2024
+- 🌊 [Ăn sập các món ngon nhất quanh Hồ Gươm](https://vtc.vn/an-sap-cac-mon-ngon-nhat-quanh-ho-guom-ar849049.html) - 23:47 23/01/2024
 - 🤖 [Văn khấn cúng rằm tháng Chạp chuẩn nhất](https://vtc.vn/van-khan-cung-ram-thang-chap-chuan-nhat-ar848904.html) - 23:40 23/01/2024
 - 🥸 [Kiểu xây nhà 2 tầng 7x13 chi phí 600 triệu](https://vtc.vn/kieu-xay-nha-2-tang-7x13-chi-phi-600-trieu-ar849242.html) - 23:36 23/01/2024
 - 🥸 [Lập xuân 2024 là ngày nào?](https://vtc.vn/lap-xuan-2024-la-ngay-nao-ar846839.html) - 23:30 23/01/2024
