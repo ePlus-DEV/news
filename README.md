@@ -271,8 +271,8 @@
 <!-- vtc:START -->
 - 🥸 [Hết chê CĐV lại trách truyền thông, HLV Troussier lặp lại thói quen &#39;vạ miệng&#39;?](https://vtc.vn/het-che-cdv-lai-trach-truyen-thong-hlv-troussier-lap-lai-thoi-quen-va-mieng-ar849344.html) - 02:07 24/01/2024
 - 🤭 [Lịch nghỉ Tết Nguyên đán 2024 của các trường đại học](https://vtc.vn/lich-nghi-tet-nguyen-dan-2024-cua-cac-truong-dai-hoc-ar847092.html) - 01:14 24/01/2024
-- 🦒 [Chung cư mini ở Hà Nội thay đổi thế nào sau vụ cháy thảm ở Khương Hạ?](https://vtc.vn/chung-cu-mini-o-ha-noi-thay-doi-the-nao-sau-vu-chay-tham-o-khuong-ha-ar848933.html) - 01:09 24/01/2024
-- 🌮 [Giám đốc Nhà hát Tuổi trẻ công bố mức thưởng Tết 2024](https://vtc.vn/giam-doc-nha-hat-tuoi-tre-cong-bo-muc-thuong-tet-2024-ar849370.html) - 01:09 24/01/2024
+- 🦒 [Giám đốc Nhà hát Tuổi trẻ công bố mức thưởng Tết 2024](https://vtc.vn/giam-doc-nha-hat-tuoi-tre-cong-bo-muc-thuong-tet-2024-ar849370.html) - 01:09 24/01/2024
+- 🌮 [Chung cư mini ở Hà Nội thay đổi thế nào sau vụ cháy thảm ở Khương Hạ?](https://vtc.vn/chung-cu-mini-o-ha-noi-thay-doi-the-nao-sau-vu-chay-tham-o-khuong-ha-ar848933.html) - 01:09 24/01/2024
 - 🤖 [Nhận định bóng đá Iraq vs Việt Nam: Trận đấu danh dự](https://vtc.vn/nhan-dinh-bong-da-iraq-vs-viet-nam-tran-dau-danh-du-ar849349.html) - 00:42 24/01/2024
 - 🎬 [Chiếc máy bay &#39;quá khổ&#39; nhất thế giới có thể cất cánh từ tàu sân bay](https://vtc.vn/chiec-may-bay-qua-kho-nhat-the-gioi-co-the-cat-canh-tu-tau-san-bay-ar848751.html) - 00:37 24/01/2024
 - 🥳 [Lịch thi đấu bóng đá hôm nay ngày 24/1 mới nhất](https://vtc.vn/lich-thi-dau-bong-da-hom-nay-ngay-24-1-moi-nhat-ar849357.html) - 00:36 24/01/2024
