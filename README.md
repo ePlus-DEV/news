@@ -269,7 +269,7 @@
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Trực tiếp bóng đá Việt Nam 0-1 Iraq: Đối thủ đá phản lưới nhà](https://vtc.vn/truc-tiep-bong-da-viet-nam-vs-iraq-bang-d-asian-cup-2023-ar849473.html) - 10:33 24/01/2024
+- 🥸 [Trực tiếp bóng đá Việt Nam 0-0 Iraq: Bàn thắng không được công nhận](https://vtc.vn/truc-tiep-bong-da-viet-nam-vs-iraq-bang-d-asian-cup-2023-ar849473.html) - 10:33 24/01/2024
 - 🤭 [Đội hình Việt Nam vs Iraq: Hùng Dũng làm đội trưởng, Quang Hải dự bị](https://vtc.vn/doi-hinh-viet-nam-vs-iraq-hung-dung-lam-doi-truong-quang-hai-du-bi-ar849502.html) - 10:32 24/01/2024
 - 🦒 [Bắt 3 cán bộ thuộc Sở Công thương Lâm Đồng](https://vtc.vn/bat-3-can-bo-thuoc-so-cong-thuong-lam-dong-ar849508.html) - 10:30 24/01/2024
 - 🌮 [Nhiều trường THPT ở Hà Nội tuyển thẳng lớp 10 với 5.5 IELTS trở lên](https://vtc.vn/nhieu-truong-thpt-o-ha-noi-tuyen-thang-lop-10-voi-5-5-ielts-tro-len-ar849489.html) - 10:26 24/01/2024
