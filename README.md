@@ -216,7 +216,7 @@
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Tuyển Việt Nam - Iraq: Quyết rời giải trong thế ngẩng cao đầu](https://nld.com.vn/tuyen-viet-nam-iraq-quyet-roi-giai-trong-the-ngang-cao-dau-196240124173150736.htm) - 10:39 24/01/2024
+- 🐎 [Tuyển Việt Nam - Iraq: Đình Bắc trở lại đội hình xuất phát](https://nld.com.vn/tuyen-viet-nam-iraq-quyet-roi-giai-trong-the-ngang-cao-dau-196240124173150736.htm) - 10:39 24/01/2024
 - 😺 [Tổng thống Đức với bài phát biểu ấn tượng trước sinh viên Đại học Việt Đức tại Bình Dương](https://nld.com.vn/tong-thong-duc-voi-bai-phat-bieu-an-tuong-truoc-sinh-vien-dai-hoc-viet-duc-tai-binh-duong-19624012414324059.htm) - 10:20 24/01/2024
 - 👍 [7 nạn nhân bị lừa bán sang Myanmar trốn thoát thần kỳ](https://nld.com.vn/7-nan-nhan-bi-lua-ban-sang-myanmar-tron-thoat-than-ky-19624012416535858.htm) - 10:17 24/01/2024
 - 🥷 [Trường ĐH Công thương TP HCM tăng chỉ tiêu tuyển sinh](https://nld.com.vn/truong-dh-cong-thuong-tp-hcm-tang-chi-tieu-tuyen-sinh-196240124164539411.htm) - 10:16 24/01/2024
