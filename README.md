@@ -269,20 +269,20 @@
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Sở NN&amp;PTNT Bắc Ninh có người phụ trách thay Giám đốc Sở vừa bị thôi chức](https://vtc.vn/so-nn-ptnt-bac-ninh-co-nguoi-phu-trach-thay-giam-doc-so-vua-bi-thoi-chuc-ar849524.html) - 12:10 24/01/2024
-- 🤭 [Vì sao Văn Khang tránh bóng vẫn bị phạt, trọng tài hủy bàn thắng tuyển Việt Nam?](https://vtc.vn/vi-sao-van-khang-tranh-bong-van-bi-phat-trong-tai-huy-ban-thang-tuyen-viet-nam-ar849526.html) - 12:07 24/01/2024
-- 🦒 [Tài xế xe buýt ngang ngược, cố tình chặn đầu ô tô](https://vtc.vn/tai-xe-xe-buyt-ngang-nguoc-co-tinh-chan-dau-o-to-ar849499.html) - 11:58 24/01/2024
-- 🌮 [Dự báo thời tiết ngày 25/1: Hà Nội tiếp tục rét hại, nhiệt độ thấp nhất 9 độ C](https://vtc.vn/du-bao-thoi-tiet-ngay-25-1-ha-noi-tiep-tuc-ret-hai-nhiet-do-thap-nhat-9-do-c-ar849515.html) - 11:54 24/01/2024
-- 🤖 [Máy bay IL-76 Nga chở 65 tù binh Ukraine rơi, nghi bị bắn](https://vtc.vn/may-bay-il-76-nga-cho-65-tu-binh-ukraine-roi-nghi-bi-ban-ar849518.html) - 11:53 24/01/2024
-- 🎬 [Trực tiếp bóng đá Việt Nam 1-0 Iraq: Văn Khang nhận thẻ đỏ](https://vtc.vn/truc-tiep-bong-da-viet-nam-vs-iraq-bang-d-asian-cup-2023-ar849473.html) - 10:33 24/01/2024
-- 🥳 [Đội hình Việt Nam vs Iraq: Hùng Dũng làm đội trưởng, Quang Hải dự bị](https://vtc.vn/doi-hinh-viet-nam-vs-iraq-hung-dung-lam-doi-truong-quang-hai-du-bi-ar849502.html) - 10:32 24/01/2024
-- 🎓 [Bắt 3 cán bộ thuộc Sở Công thương Lâm Đồng](https://vtc.vn/bat-3-can-bo-thuoc-so-cong-thuong-lam-dong-ar849508.html) - 10:30 24/01/2024
-- 👹 [Nhiều trường THPT ở Hà Nội tuyển thẳng lớp 10 với 5.5 IELTS trở lên](https://vtc.vn/nhieu-truong-thpt-o-ha-noi-tuyen-thang-lop-10-voi-5-5-ielts-tro-len-ar849489.html) - 10:26 24/01/2024
-- 🤖 [Năm 2024: El Nino đạt đỉnh, khí hậu toàn cầu nóng kỷ lục, thiên tai bất thường](https://vtc.vn/nam-2024-el-nino-dat-dinh-khi-hau-toan-cau-nong-ky-luc-thien-tai-bat-thuong-ar849461.html) - 09:58 24/01/2024
-- 🎊 [Trường ĐH Nông Lâm TP.HCM có hiệu trưởng mới sau 3 năm trống ghế](https://vtc.vn/truong-dh-nong-lam-tp-hcm-co-hieu-truong-moi-sau-3-nam-trong-ghe-ar849496.html) - 09:51 24/01/2024
-- 🐻 [Hamas bác đề nghị tạm dừng giao tranh 2 tháng của Israel](https://vtc.vn/hamas-bac-de-nghi-tam-dung-giao-tranh-2-thang-cua-israel-ar849486.html) - 09:38 24/01/2024
-- 👍 [Các bước xử lý nước vào ô tô](https://vtc.vn/cac-buoc-xu-ly-nuoc-vao-o-to-ar849359.html) - 09:37 24/01/2024
-- 🪜 [Cựu Bí thư tỉnh Bắc Ninh Nguyễn Nhân Chiến bị bắt](https://vtc.vn/nguyen-bi-thu-bac-ninh-nguyen-nhan-chien-bi-bat-ar849493.html) - 09:37 24/01/2024
+- 🥸 [Khởi tố Bí thư tỉnh Lâm Đồng Trần Đức Quận](https://vtc.vn/khoi-to-bi-thu-tinh-lam-dong-tran-duc-quan-ar849530.html) - 12:51 24/01/2024
+- 🤭 [Bùi Hoàng Việt Anh ghi bàn, tuyển Việt Nam dẫn trước Iraq](https://vtc.vn/bui-hoang-viet-anh-ghi-ban-tuyen-viet-nam-dan-truoc-iraq-ar849528.html) - 12:24 24/01/2024
+- 🦒 [Sở NN&amp;PTNT Bắc Ninh có người phụ trách thay Giám đốc Sở vừa bị thôi chức](https://vtc.vn/so-nn-ptnt-bac-ninh-co-nguoi-phu-trach-thay-giam-doc-so-vua-bi-thoi-chuc-ar849524.html) - 12:10 24/01/2024
+- 🌮 [Vì sao Văn Khang tránh bóng vẫn bị phạt, trọng tài hủy bàn thắng tuyển Việt Nam?](https://vtc.vn/vi-sao-van-khang-tranh-bong-van-bi-phat-trong-tai-huy-ban-thang-tuyen-viet-nam-ar849526.html) - 12:07 24/01/2024
+- 🤖 [Tài xế xe buýt ngang ngược, cố tình chặn đầu ô tô](https://vtc.vn/tai-xe-xe-buyt-ngang-nguoc-co-tinh-chan-dau-o-to-ar849499.html) - 11:58 24/01/2024
+- 🎬 [Dự báo thời tiết ngày 25/1: Hà Nội tiếp tục rét hại, nhiệt độ thấp nhất 9 độ C](https://vtc.vn/du-bao-thoi-tiet-ngay-25-1-ha-noi-tiep-tuc-ret-hai-nhiet-do-thap-nhat-9-do-c-ar849515.html) - 11:54 24/01/2024
+- 🥳 [Máy bay IL-76 Nga chở 65 tù binh Ukraine rơi, nghi bị bắn](https://vtc.vn/may-bay-il-76-nga-cho-65-tu-binh-ukraine-roi-nghi-bi-ban-ar849518.html) - 11:53 24/01/2024
+- 🎓 [Trực tiếp bóng đá Việt Nam 1-1 Iraq: Đối thủ có bàn gỡ](https://vtc.vn/truc-tiep-bong-da-viet-nam-vs-iraq-bang-d-asian-cup-2023-ar849473.html) - 10:33 24/01/2024
+- 👹 [Bắt 3 cán bộ thuộc Sở Công thương Lâm Đồng](https://vtc.vn/bat-3-can-bo-thuoc-so-cong-thuong-lam-dong-ar849508.html) - 10:30 24/01/2024
+- 🤖 [Nhiều trường THPT ở Hà Nội tuyển thẳng lớp 10 với 5.5 IELTS trở lên](https://vtc.vn/nhieu-truong-thpt-o-ha-noi-tuyen-thang-lop-10-voi-5-5-ielts-tro-len-ar849489.html) - 10:26 24/01/2024
+- 🎊 [Năm 2024: El Nino đạt đỉnh, khí hậu toàn cầu nóng kỷ lục, thiên tai bất thường](https://vtc.vn/nam-2024-el-nino-dat-dinh-khi-hau-toan-cau-nong-ky-luc-thien-tai-bat-thuong-ar849461.html) - 09:58 24/01/2024
+- 🐻 [Trường ĐH Nông Lâm TP.HCM có hiệu trưởng mới sau 3 năm trống ghế](https://vtc.vn/truong-dh-nong-lam-tp-hcm-co-hieu-truong-moi-sau-3-nam-trong-ghe-ar849496.html) - 09:51 24/01/2024
+- 👍 [Hamas bác đề nghị tạm dừng giao tranh 2 tháng của Israel](https://vtc.vn/hamas-bac-de-nghi-tam-dung-giao-tranh-2-thang-cua-israel-ar849486.html) - 09:38 24/01/2024
+- 🪜 [Các bước xử lý nước vào ô tô](https://vtc.vn/cac-buoc-xu-ly-nuoc-vao-o-to-ar849359.html) - 09:37 24/01/2024
 - 🌮 [Tác dụng chữa bệnh của cây thông](https://vtc.vn/tac-dung-chua-benh-cua-cay-thong-ar848262.html) - 09:30 24/01/2024
 - 🌁 [Buôn pháo trên mạng, nam sinh lĩnh 12 tháng tù](https://vtc.vn/buon-phao-tren-mang-nam-sinh-linh-12-thang-tu-ar849487.html) - 09:18 24/01/2024
 - 👺 [Trưởng Ban Công tác đại biểu Nguyễn Thị Thanh nhận thêm nhiệm vụ](https://vtc.vn/truong-ban-cong-tac-dai-bieu-nguyen-thi-thanh-nhan-them-nhiem-vu-ar849289.html) - 09:08 24/01/2024
