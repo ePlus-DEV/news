@@ -269,17 +269,17 @@
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Thủng lưới phút cuối, tuyển Việt Nam thua tiếc nuối Iraq](https://vtc.vn/thung-luoi-phut-cuoi-tuyen-viet-nam-thua-tiec-nuoi-iraq-ar849535.html) - 13:38 24/01/2024
-- 🤭 [Khoảnh khắc Quang Hải sút tung lưới Iraq, tuyển Việt Nam gỡ hòa](https://vtc.vn/khoanh-khac-quang-hai-sut-tung-luoi-iraq-tuyen-viet-nam-go-hoa-ar849532.html) - 13:32 24/01/2024
-- 🦒 [Cháy khu mua sắm ở Trung Quốc, 39 người chết](https://vtc.vn/chay-khu-mua-sam-o-trung-quoc-39-nguoi-chet-ar849529.html) - 12:56 24/01/2024
-- 🌮 [Khởi tố Bí thư Tỉnh ủy Lâm Đồng Trần Đức Quận](https://vtc.vn/khoi-to-bi-thu-tinh-lam-dong-tran-duc-quan-ar849530.html) - 12:51 24/01/2024
-- 🤖 [Bị phạt nhiều lần vẫn bất chấp chạy xe tự chế chở hàng, tài xế nói &#39;vì mưu sinh&#39;](https://vtc.vn/bi-phat-nhieu-lan-van-bat-chap-chay-xe-tu-che-cho-hang-tai-xe-noi-vi-muu-sinh-ar849432.html) - 12:38 24/01/2024
-- 🎬 [Bùi Hoàng Việt Anh ghi bàn, tuyển Việt Nam dẫn trước Iraq](https://vtc.vn/bui-hoang-viet-anh-ghi-ban-tuyen-viet-nam-dan-truoc-iraq-ar849528.html) - 12:24 24/01/2024
-- 🥳 [Sở NN&amp;PTNT Bắc Ninh có người phụ trách thay Giám đốc Sở vừa bị thôi chức](https://vtc.vn/so-nn-ptnt-bac-ninh-co-nguoi-phu-trach-thay-giam-doc-so-vua-bi-thoi-chuc-ar849524.html) - 12:10 24/01/2024
-- 🎓 [Vì sao Văn Khang tránh bóng vẫn bị phạt, trọng tài hủy bàn thắng tuyển Việt Nam?](https://vtc.vn/vi-sao-van-khang-tranh-bong-van-bi-phat-trong-tai-huy-ban-thang-tuyen-viet-nam-ar849526.html) - 12:07 24/01/2024
-- 👹 [Tài xế xe buýt ngang ngược, cố tình chặn đầu ô tô](https://vtc.vn/tai-xe-xe-buyt-ngang-nguoc-co-tinh-chan-dau-o-to-ar849499.html) - 11:58 24/01/2024
-- 🤖 [Dự báo thời tiết ngày 25/1: Hà Nội tiếp tục rét hại, nhiệt độ thấp nhất 9 độ C](https://vtc.vn/du-bao-thoi-tiet-ngay-25-1-ha-noi-tiep-tuc-ret-hai-nhiet-do-thap-nhat-9-do-c-ar849515.html) - 11:54 24/01/2024
-- 🎊 [Máy bay IL-76 Nga chở 65 tù binh Ukraine rơi, nghi bị bắn](https://vtc.vn/may-bay-il-76-nga-cho-65-tu-binh-ukraine-roi-nghi-bi-ban-ar849518.html) - 11:53 24/01/2024
+- 🥸 [Bùi Hoàng Việt Anh rưng rưng tiếc nuối: Tuyển Việt Nam chắc chắn sẽ đá tốt](https://vtc.vn/bui-hoang-viet-anh-rung-rung-tiec-nuoi-tuyen-viet-nam-chac-chan-se-da-tot-ar849537.html) - 14:13 24/01/2024
+- 🤭 [Thủng lưới phút cuối, tuyển Việt Nam thua tiếc nuối Iraq](https://vtc.vn/thung-luoi-phut-cuoi-tuyen-viet-nam-thua-tiec-nuoi-iraq-ar849535.html) - 13:38 24/01/2024
+- 🦒 [Khoảnh khắc Quang Hải sút tung lưới Iraq, tuyển Việt Nam gỡ hòa](https://vtc.vn/khoanh-khac-quang-hai-sut-tung-luoi-iraq-tuyen-viet-nam-go-hoa-ar849532.html) - 13:32 24/01/2024
+- 🌮 [Cháy khu mua sắm ở Trung Quốc, 39 người chết](https://vtc.vn/chay-khu-mua-sam-o-trung-quoc-39-nguoi-chet-ar849529.html) - 12:56 24/01/2024
+- 🤖 [Khởi tố Bí thư Tỉnh ủy Lâm Đồng Trần Đức Quận](https://vtc.vn/khoi-to-bi-thu-tinh-lam-dong-tran-duc-quan-ar849530.html) - 12:51 24/01/2024
+- 🎬 [Bị phạt nhiều lần vẫn bất chấp chạy xe tự chế chở hàng, tài xế nói &#39;vì mưu sinh&#39;](https://vtc.vn/bi-phat-nhieu-lan-van-bat-chap-chay-xe-tu-che-cho-hang-tai-xe-noi-vi-muu-sinh-ar849432.html) - 12:38 24/01/2024
+- 🥳 [Bùi Hoàng Việt Anh ghi bàn, tuyển Việt Nam dẫn trước Iraq](https://vtc.vn/bui-hoang-viet-anh-ghi-ban-tuyen-viet-nam-dan-truoc-iraq-ar849528.html) - 12:24 24/01/2024
+- 🎓 [Sở NN&amp;PTNT Bắc Ninh có người phụ trách thay Giám đốc Sở vừa bị thôi chức](https://vtc.vn/so-nn-ptnt-bac-ninh-co-nguoi-phu-trach-thay-giam-doc-so-vua-bi-thoi-chuc-ar849524.html) - 12:10 24/01/2024
+- 👹 [Vì sao Văn Khang tránh bóng vẫn bị phạt, trọng tài hủy bàn thắng tuyển Việt Nam?](https://vtc.vn/vi-sao-van-khang-tranh-bong-van-bi-phat-trong-tai-huy-ban-thang-tuyen-viet-nam-ar849526.html) - 12:07 24/01/2024
+- 🤖 [Tài xế xe buýt ngang ngược, cố tình chặn đầu ô tô](https://vtc.vn/tai-xe-xe-buyt-ngang-nguoc-co-tinh-chan-dau-o-to-ar849499.html) - 11:58 24/01/2024
+- 🎊 [Dự báo thời tiết ngày 25/1: Hà Nội tiếp tục rét hại, nhiệt độ thấp nhất 9 độ C](https://vtc.vn/du-bao-thoi-tiet-ngay-25-1-ha-noi-tiep-tuc-ret-hai-nhiet-do-thap-nhat-9-do-c-ar849515.html) - 11:54 24/01/2024
 - 🐻 [Bắt 3 cán bộ thuộc Sở Công thương Lâm Đồng](https://vtc.vn/bat-3-can-bo-thuoc-so-cong-thuong-lam-dong-ar849508.html) - 10:30 24/01/2024
 - 👍 [Nhiều trường THPT ở Hà Nội tuyển thẳng lớp 10 với 5.5 IELTS trở lên](https://vtc.vn/nhieu-truong-thpt-o-ha-noi-tuyen-thang-lop-10-voi-5-5-ielts-tro-len-ar849489.html) - 10:26 24/01/2024
 - 🪜 [Năm 2024: El Nino đạt đỉnh, khí hậu toàn cầu nóng kỷ lục, thiên tai bất thường](https://vtc.vn/nam-2024-el-nino-dat-dinh-khi-hau-toan-cau-nong-ky-luc-thien-tai-bat-thuong-ar849461.html) - 09:58 24/01/2024
