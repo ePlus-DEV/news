@@ -269,10 +269,10 @@
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Đội tuyển Việt Nam thua đau Iraq: Lặp lại kịch bản cay đắng](https://vtc.vn/doi-tuyen-viet-nam-thua-dau-iraq-lap-lai-kich-ban-cay-dang-ar849547.html) - 15:55 24/01/2024
-- 🤭 [Thắng ở phút cuối, HLV Iraq khen tuyển Việt Nam phòng ngự tốt](https://vtc.vn/thang-o-phut-cuoi-hlv-iraq-khen-tuyen-viet-nam-phong-ngu-tot-ar849557.html) - 15:44 24/01/2024
-- 🦒 [Tuyển Thái Lan chắc suất qua vòng bảng Asian Cup 2023](https://vtc.vn/tuyen-thai-lan-chac-suat-qua-vong-bang-asian-cup-2023-ar849527.html) - 14:42 24/01/2024
-- 🌮 [Thủng lưới phút cuối, tuyển Việt Nam thua tiếc nuối Iraq](https://vtc.vn/thung-luoi-phut-cuoi-tuyen-viet-nam-thua-tiec-nuoi-iraq-ar849535.html) - 13:38 24/01/2024
+- 🥸 [HLV Troussier: Tuyển Việt Nam không gặp may](https://vtc.vn/hlv-troussier-tuyen-viet-nam-khong-gap-may-ar849559.html) - 16:06 24/01/2024
+- 🤭 [Đội tuyển Việt Nam thua đau Iraq: Lặp lại kịch bản cay đắng](https://vtc.vn/doi-tuyen-viet-nam-thua-dau-iraq-lap-lai-kich-ban-cay-dang-ar849547.html) - 15:55 24/01/2024
+- 🦒 [Thắng ở phút cuối, HLV Iraq khen tuyển Việt Nam phòng ngự tốt](https://vtc.vn/thang-o-phut-cuoi-hlv-iraq-khen-tuyen-viet-nam-phong-ngu-tot-ar849557.html) - 15:44 24/01/2024
+- 🌮 [Tuyển Thái Lan chắc suất qua vòng bảng Asian Cup 2023](https://vtc.vn/tuyen-thai-lan-chac-suat-qua-vong-bang-asian-cup-2023-ar849527.html) - 14:42 24/01/2024
 - 🤖 [Khoảnh khắc Quang Hải sút tung lưới Iraq, tuyển Việt Nam gỡ hòa](https://vtc.vn/khoanh-khac-quang-hai-sut-tung-luoi-iraq-tuyen-viet-nam-go-hoa-ar849532.html) - 13:32 24/01/2024
 - 🎬 [Cháy khu mua sắm ở Trung Quốc, 39 người chết](https://vtc.vn/chay-khu-mua-sam-o-trung-quoc-39-nguoi-chet-ar849529.html) - 12:56 24/01/2024
 - 🥳 [Khởi tố Bí thư Tỉnh ủy Lâm Đồng Trần Đức Quận](https://vtc.vn/khoi-to-bi-thu-tinh-lam-dong-tran-duc-quan-ar849530.html) - 12:51 24/01/2024
