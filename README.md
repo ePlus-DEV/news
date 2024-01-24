@@ -306,7 +306,7 @@
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Tinh hoa Việt Nam - cuộc thi dành cho teen khoe vẻ đẹp đất nước](https://muctim.tuoitre.vn/tinh-hoa-viet-nam-cuoc-thi-danh-cho-teen-khoe-ve-dep-dat-nuoc-101240119100845784.htm) - 04:18 24/01/2024
-- 🥷 [THPT Nguyễn Hữu Cảnh: Chữa lành cảm xúc bằng cây check-in](https://muctim.tuoitre.vn/thpt-nguyen-huu-canh-chua-lanh-cam-xuc-bang-cay-check-in-101240119084623804.htm) - 04:10 24/01/2024
+- 🥷 [Teen Trường THPT Nguyễn Hữu Cảnh chữa lành cảm xúc bằng cây check in](https://muctim.tuoitre.vn/thpt-nguyen-huu-canh-chua-lanh-cam-xuc-bang-cay-check-in-101240119084623804.htm) - 04:10 24/01/2024
 - 🤖 [Làm đẹp đón Tết, cấp tốc nhưng phải an toàn](https://muctim.tuoitre.vn/lam-dep-don-tet-cap-toc-nhung-phai-an-toan-101240112141554697.htm) - 03:24 24/01/2024
 - 🤓 [Series Tiên kiếm kỳ hiệp: Lưu Diệc Phi, Dương Mịch vẫn là cái bóng quá lớn](https://muctim.tuoitre.vn/series-tien-kiem-ky-hiep-luu-diec-phi-duong-mich-van-la-cai-bong-qua-lon-101240124020623302.htm) - 03:20 24/01/2024
 - 🎉 [Luna Đào: Tôi muốn khán giả tập trung nghe nhạc của mình](https://muctim.tuoitre.vn/luna-dao-toi-muon-khan-gia-tap-trung-nghe-nhac-cua-minh-101240124085340386.htm) - 03:18 24/01/2024
