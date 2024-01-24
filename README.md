@@ -267,7 +267,7 @@
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Nguyên Bí thư Bắc Ninh Nguyễn Nhân Chiến bị bắt](https://vtc.vn/nguyen-bi-thu-bac-ninh-nguyen-nhan-chien-bi-bat-ar849493.html) - 09:37 24/01/2024
+- 🥸 [Cựu Bí thư tỉnh Bắc Ninh Nguyễn Nhân Chiến bị bắt](https://vtc.vn/nguyen-bi-thu-bac-ninh-nguyen-nhan-chien-bi-bat-ar849493.html) - 09:37 24/01/2024
 - 🤭 [Hàng trăm gian hàng ẩm thực tụ tại lễ hội ẩm thực Novaworld Phan Thiet](https://vtc.vn/hang-tram-gian-hang-am-thuc-tu-tai-le-hoi-am-thuc-novaworld-phan-thiet-ar849458.html) - 08:30 24/01/2024
 - 🦒 [Giá xăng ngày mai có thể tăng lần thứ ba liên tiếp](https://vtc.vn/gia-xang-ngay-mai-co-the-tang-lan-thu-ba-lien-tiep-ar849374.html) - 07:14 24/01/2024
 - 🌮 [Bưởi đỏ tạo hình độc lạ &#39;cháy&#39; hàng  dịp Tết Nguyên đán](https://vtc.vn/buoi-do-tao-hinh-doc-la-chay-hang-dip-tet-nguyen-dan-ar849320.html) - 06:30 24/01/2024
