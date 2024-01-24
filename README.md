@@ -155,7 +155,7 @@
 - 🦄 [&#39;Siêu&#39; đám cưới của cặp đôi Ấn Độ tại Thị trấn Hoàng Hôn](https://thanhnien.vn/sieu-dam-cuoi-cua-cap-doi-an-do-tai-thi-tran-hoang-hon-185240124164746879.htm) - 10:12 24/01/2024
 - 🤔 [Những cánh rừng ở Trường Sa](https://thanhnien.vn/nhung-canh-rung-o-truong-sa-185240124141050717.htm) - 10:12 24/01/2024
 - 🧰 [Người khó khăn thoải mái sắm tết tại &#39;siêu thị mini 0 đồng&#39; ở TP.HCM](https://thanhnien.vn/nguoi-kho-khan-thoai-mai-sam-tet-tai-sieu-thi-mini-0-dong-o-tphcm-185240124161348816.htm) - 10:11 24/01/2024
-- 🌁 [Đội tuyển Việt Nam 0-0 Iraq, Asian Cup 2023: Quà chia tay?](https://thanhnien.vn/doi-tuyen-viet-nam-iraq-asian-cup-2023-qua-chia-tay-185240124160235366.htm) - 10:11 24/01/2024
+- 🌁 [Đội tuyển Việt Nam 0-0 Iraq, Asian Cup 2023: Trọng tài không công nhận bàn thắng](https://thanhnien.vn/doi-tuyen-viet-nam-iraq-asian-cup-2023-qua-chia-tay-185240124160235366.htm) - 10:11 24/01/2024
 - 🧐 [Buộc thôi việc cựu Phó chánh án TAND TX.Bình Minh nhận hối lộ](https://thanhnien.vn/buoc-thoi-viec-cuu-pho-chanh-an-tand-txbinh-minh-nhan-hoi-lo-185240124155626696.htm) - 10:05 24/01/2024
 - 🌏 [Kem chống nắng nào cũng SPF 50+ PA++++, làm sao để biết chống nắng nào tốt hơn?](https://thanhnien.vn/kem-chong-nang-nao-cung-spf-50-pa-lam-sao-de-biet-chong-nang-nao-tot-hon-18524012416374883.htm) - 10:00 24/01/2024
 - 🎬 [Bắt giữ 4 nghi phạm chở 30.000 viên ma túy từ Quảng Trị ra Quảng Bình](https://thanhnien.vn/bat-giu-4-nghi-pham-cho-30000-vien-ma-tuy-tu-quang-tri-ra-quang-binh-185240124151708056.htm) - 10:00 24/01/2024
