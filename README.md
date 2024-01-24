@@ -269,16 +269,16 @@
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Trường ĐH Nông Lâm TP.HCM có hiệu trưởng mới sau 3 năm trống ghế](https://vtc.vn/truong-dh-nong-lam-tp-hcm-co-hieu-truong-moi-sau-3-nam-trong-ghe-ar849496.html) - 09:51 24/01/2024
-- 🤭 [Hamas bác đề nghị tạm dừng giao tranh 2 tháng của Israel](https://vtc.vn/hamas-bac-de-nghi-tam-dung-giao-tranh-2-thang-cua-israel-ar849486.html) - 09:38 24/01/2024
-- 🦒 [Các bước xử lý nước vào ô tô](https://vtc.vn/cac-buoc-xu-ly-nuoc-vao-o-to-ar849359.html) - 09:37 24/01/2024
-- 🌮 [Cựu Bí thư tỉnh Bắc Ninh Nguyễn Nhân Chiến bị bắt](https://vtc.vn/nguyen-bi-thu-bac-ninh-nguyen-nhan-chien-bi-bat-ar849493.html) - 09:37 24/01/2024
-- 🤖 [Tác dụng chữa bệnh của cây thông](https://vtc.vn/tac-dung-chua-benh-cua-cay-thong-ar848262.html) - 09:30 24/01/2024
-- 🎬 [HLV Hoàng Anh Tuấn: Tuyển Việt Nam sẽ chơi hay trước Iraq](https://vtc.vn/hlv-hoang-anh-tuan-tuyen-viet-nam-se-choi-hay-truoc-iraq-ar849494.html) - 09:22 24/01/2024
+- 🥸 [Đội hình Việt Nam vs Iraq: Hùng Dũng làm đội trưởng, Quang Hải dự bị](https://vtc.vn/doi-hinh-viet-nam-vs-iraq-hung-dung-lam-doi-truong-quang-hai-du-bi-ar849502.html) - 10:32 24/01/2024
+- 🤭 [Trường ĐH Nông Lâm TP.HCM có hiệu trưởng mới sau 3 năm trống ghế](https://vtc.vn/truong-dh-nong-lam-tp-hcm-co-hieu-truong-moi-sau-3-nam-trong-ghe-ar849496.html) - 09:51 24/01/2024
+- 🦒 [Hamas bác đề nghị tạm dừng giao tranh 2 tháng của Israel](https://vtc.vn/hamas-bac-de-nghi-tam-dung-giao-tranh-2-thang-cua-israel-ar849486.html) - 09:38 24/01/2024
+- 🌮 [Các bước xử lý nước vào ô tô](https://vtc.vn/cac-buoc-xu-ly-nuoc-vao-o-to-ar849359.html) - 09:37 24/01/2024
+- 🤖 [Cựu Bí thư tỉnh Bắc Ninh Nguyễn Nhân Chiến bị bắt](https://vtc.vn/nguyen-bi-thu-bac-ninh-nguyen-nhan-chien-bi-bat-ar849493.html) - 09:37 24/01/2024
+- 🎬 [Tác dụng chữa bệnh của cây thông](https://vtc.vn/tac-dung-chua-benh-cua-cay-thong-ar848262.html) - 09:30 24/01/2024
 - 🥳 [Buôn pháo trên mạng, nam sinh lĩnh 12 tháng tù](https://vtc.vn/buon-phao-tren-mang-nam-sinh-linh-12-thang-tu-ar849487.html) - 09:18 24/01/2024
 - 🎓 [Trưởng Ban Công tác đại biểu Nguyễn Thị Thanh nhận thêm nhiệm vụ](https://vtc.vn/truong-ban-cong-tac-dai-bieu-nguyen-thi-thanh-nhan-them-nhiem-vu-ar849289.html) - 09:08 24/01/2024
 - 👹 [Ông Lương Nguyễn Minh Triết làm Bí thư Tỉnh ủy Quảng Nam](https://vtc.vn/ong-luong-nguyen-minh-triet-lam-bi-thu-tinh-uy-quang-nam-ar849492.html) - 09:03 24/01/2024
-- 🤖 [Trực tiếp bóng đá Việt Nam vs Iraq bảng D Asian Cup 2023](https://vtc.vn/truc-tiep-bong-da-viet-nam-vs-iraq-bang-d-asian-cup-2023-ar849473.html) - 08:33 24/01/2024
+- 🤖 [Trực tiếp bóng đá Việt Nam vs Iraq: Hùng Dũng đá chính](https://vtc.vn/truc-tiep-bong-da-viet-nam-vs-iraq-bang-d-asian-cup-2023-ar849473.html) - 08:33 24/01/2024
 - 🎊 [Mỹ thừa nhận thua trong cuộc đua vũ khí siêu thanh với Nga](https://vtc.vn/my-thua-nhan-thua-trong-cuoc-dua-vu-khi-sieu-thanh-voi-nga-ar849447.html) - 08:31 24/01/2024
 - 🐻 [Hàng trăm gian hàng ẩm thực tụ tại lễ hội ẩm thực Novaworld Phan Thiet](https://vtc.vn/hang-tram-gian-hang-am-thuc-tu-tai-le-hoi-am-thuc-novaworld-phan-thiet-ar849458.html) - 08:30 24/01/2024
 - 👍 [Điều gì xảy ra nếu bạn ăn vài hạt nho khô mỗi ngày?](https://vtc.vn/dieu-gi-xay-ra-neu-ban-an-vai-hat-nho-kho-moi-ngay-ar849126.html) - 08:30 24/01/2024
