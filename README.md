@@ -18,8 +18,8 @@
 - 🥰 [Năm nay mình cưới em nhé](https://vnexpress.net/nam-nay-minh-cuoi-em-nhe-4704634.html) - 14:00 24/01/2024
 - 🌏 [Tôi &#39;cho đi&#39; sau biến cố hôn nhân, stress và bế tắc](https://vnexpress.net/toi-cho-di-sau-bien-co-hon-nhan-stress-va-be-tac-4704425.html) - 14:00 24/01/2024
 - 🧐 [Giám đốc công ty đăng kiểm: &#39;Sai phạm vì sợ mất khách&#39;](https://vnexpress.net/giam-doc-cong-ty-dang-kiem-sai-pham-vi-so-mat-khach-4704696.html) - 13:56 24/01/2024
-- 💫 [HLV Iraq họp báo sau trận gặp Việt Nam](https://vnexpress.net/hlv-iraq-hop-bao-sau-tran-gap-viet-nam-4704761.html) - 13:47 24/01/2024
-- 😺 [HLV Troussier: &#39;Tôi rất hài lòng, dù thua Iraq&#39;](https://vnexpress.net/hlv-troussier-toi-rat-hai-long-du-thua-iraq-4704751.html) - 13:46 24/01/2024
+- 💫 [HLV Iraq: &#39;Việt Nam là đối thủ khó chơi&#39;](https://vnexpress.net/hlv-iraq-viet-nam-la-doi-thu-kho-choi-4704761.html) - 13:47 24/01/2024
+- 😺 [HLV Troussier: &#39;Việt Nam rời Asian Cup 2023 với hình ảnh đẹp&#39;](https://vnexpress.net/hlv-troussier-viet-nam-roi-asian-cup-2023-voi-hinh-anh-dep-4704751.html) - 13:46 24/01/2024
 - 🕯 [Medvedev chật vật vào bán kết Australia Mở rộng](https://vnexpress.net/medvedev-chat-vat-vao-ban-ket-australia-mo-rong-4704715.html) - 13:35 24/01/2024
 - 💃 [Trần Nữ Yên Khê nhận đề cử giải &#39;Oscar nước Pháp&#39;](https://vnexpress.net/tran-nu-yen-khe-nhan-de-cu-giai-oscar-nuoc-phap-4704753.html) - 13:19 24/01/2024
 - 💂 [Thủy Nguyễn làm trang phục làm từ vải vụn](https://vnexpress.net/thuy-nguyen-lam-trang-phuc-lam-tu-vai-vun-4704690.html) - 13:17 24/01/2024
