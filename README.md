@@ -270,7 +270,7 @@
 ## Báo VTC
 <!-- vtc:START -->
 - 🥸 [Việt Nam bác bỏ thông tin vu cáo của &#39;tổ chức theo dõi nhân quyền&#39;](https://vtc.vn/viet-nam-bac-bo-thong-tin-vu-cao-cua-to-chuc-theo-doi-nhan-quyen-ar849728.html) - 09:42 25/01/2024
-- 🤭 [Nhiệt độ trên đỉnh Mẫu Sơn tăng lên 0 độ C, băng giá bắt đầu tan chảy](https://vtc.vn/nhiet-do-tren-dinh-mau-son-tang-len-0-do-c-bang-gia-bat-dau-tan-chay-ar849717.html) - 09:39 25/01/2024
+- 🤭 [Nhiệt độ tăng lên 0 độ C, băng giá trên đỉnh Mẫu Sơn bắt đầu tan](https://vtc.vn/nhiet-do-tren-dinh-mau-son-tang-len-0-do-c-bang-gia-bat-dau-tan-chay-ar849717.html) - 09:39 25/01/2024
 - 🦒 [5 thói quen làm bếp có thể gây hỏa hoạn](https://vtc.vn/5-thoi-quen-lam-bep-co-the-gay-hoa-hoan-ar849378.html) - 09:00 25/01/2024
 - 🌮 [Nghệ An: Nghi phạm tự tử sau khi sát hại vợ và mẹ vợ](https://vtc.vn/nghe-an-nghi-pham-tu-tu-sau-khi-sat-hai-vo-va-me-vo-ar849655.html) - 08:59 25/01/2024
 - 🤖 [Đề nghị Bộ Chính trị kỷ luật nguyên Bí thư Tỉnh ủy Bắc Ninh Nguyễn Nhân Chiến](https://vtc.vn/de-nghi-bo-chinh-tri-ky-luat-nguyen-bi-thu-tinh-uy-bac-ninh-nguyen-nhan-chien-ar846543.html) - 08:52 25/01/2024
