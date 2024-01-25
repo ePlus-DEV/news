@@ -6,6 +6,7 @@
 * [Báo Thanh Niên](#báo-thanh-niên)
 * [Báo Lao Động](#báo-lao-động)
 * [Báo Người Lao Động](#báo-người-lao-động)
+* [Báo SGGP](#báo-sggp)
 * [Báo VTC](#báo-vtc)
 * [Báo Chính Phủ](#báo-chính-phủ)
 * [Báo Mực Tím](#báo-mực-tím)
@@ -31,6 +32,10 @@
 ## Báo Người Lao Động
 <!-- nld:START -->
 <!-- nld:END -->
+
+## Báo SGGP
+<!-- sggp:START -->
+<!-- sggp:END -->
 
 ## Báo VTC
 <!-- vtc:START -->
