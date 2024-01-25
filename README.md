@@ -283,7 +283,7 @@
 - 🐻 [Tiềm năng tuyến đường sắt kết nối Á-Âu của Kazakhstan](https://vtc.vn/tiem-nang-cua-tuyen-duong-sat-ket-noi-a-au-cua-kazakhstan-ar849637.html) - 08:58 25/01/2024
 - 👍 [Đề nghị Bộ Chính trị kỷ luật nguyên Bí thư Tỉnh ủy Bắc Ninh Nguyễn Nhân Chiến](https://vtc.vn/de-nghi-bo-chinh-tri-ky-luat-nguyen-bi-thu-tinh-uy-bac-ninh-nguyen-nhan-chien-ar846543.html) - 08:52 25/01/2024
 - 🪜 [Đề nghị Bộ Chính trị kỷ luật Bí thư Tỉnh ủy Lâm Đồng Trần Đức Quận](https://vtc.vn/de-nghi-bo-chinh-tri-ky-luat-bi-thu-tinh-uy-lam-dong-tran-duc-quan-ar849712.html) - 08:50 25/01/2024
-- 🌮 [Xe điện làm sụt giảm nhu cầu tiêu thụ mỏ](https://vtc.vn/xe-dien-lam-sut-giam-nhu-cau-tieu-thu-mo-ar849514.html) - 08:35 25/01/2024
+- 🌮 [Xe điện làm sụt giảm nhu cầu tiêu thụ dầu mỏ](https://vtc.vn/xe-dien-lam-sut-giam-nhu-cau-tieu-thu-mo-ar849514.html) - 08:35 25/01/2024
 - 🌁 [Toyota Việt Nam vững bước vượt thách thức kép](https://vtc.vn/toyota-viet-nam-vung-buoc-vuot-thach-thuc-kep-ar849701.html) - 08:32 25/01/2024
 - 👺 [Tử vong sau khi ăn tiết canh liên hoan cuối năm](https://vtc.vn/tu-vong-sau-khi-an-tiet-canh-lien-hoan-cuoi-nam-ar849652.html) - 08:31 25/01/2024
 - 🌊 [Thời gian phục vụ khách hàng của hệ thống ATM](https://vtc.vn/thoi-gian-phuc-vu-khach-hang-cua-he-thong-atm-ar849633.html) - 08:10 25/01/2024
