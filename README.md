@@ -237,7 +237,7 @@
 - 🔭 [Người chơi chứng khoán cần biết chiêu lừa này tránh &quot;bay màu&quot; tài khoản](https://nld.com.vn/nguoi-choi-chung-khoan-can-biet-chieu-lua-nay-tranh-bay-mau-tai-khoan-196240125112008341.htm) - 04:34 25/01/2024
 - 🌝 [40 tuổi trở lên gặp điều này, nguy cơ ung thư tăng 57%](https://nld.com.vn/40-tuoi-tro-len-gap-dieu-nay-nguy-co-ung-thu-tang-57-196240125110328963.htm) - 04:17 25/01/2024
 - 💪 [Kỷ luật khai trừ Đảng đối với bà Mai Thị Ngọc Hà](https://nld.com.vn/ky-luat-khai-tru-dang-doi-voi-ba-mai-thi-ngoc-ha-196240125105353844.htm) - 04:15 25/01/2024
-- 🦍 [Công an TP HCM điều tra 4 bệnh viện mua kit xét nghiệm của Việt Á](https://nld.com.vn/cong-an-tp-hcm-dieu-tra-4-benh-vien-mua-kit-xet-nghiem-cua-viet-a-196240125105756155.htm) - 04:08 25/01/2024
+- 🦍 [Công an TP HCM: Còn 4 bệnh viện mua kit xét nghiệm của Việt Á](https://nld.com.vn/cong-an-tp-hcm-con-4-benh-vien-mua-kit-xet-nghiem-cua-viet-a-196240125105756155.htm) - 04:08 25/01/2024
 - 🥷 [Vàng SJC, vàng nhẫn giảm nhỏ giọt](https://nld.com.vn/vang-sjc-vang-nhan-giam-nho-giot-196240125104251137.htm) - 04:04 25/01/2024
 - 🫶 [“Tết triệu sắc Việt, Xuân vạn sinh sôi” trên đường hoa Home Hanoi Xuan 2024](https://nld.com.vn/tet-trieu-sac-viet-xuan-van-sinh-soi-tren-duong-hoa-home-hanoi-xuan-2024-19624012510154244.htm) - 03:50 25/01/2024
 - 🐻 [UAV bay qua, kho dầu Nga cháy lớn](https://nld.com.vn/uav-bay-qua-kho-dau-nga-chay-lon-196240125090752461.htm) - 03:49 25/01/2024
