@@ -13,7 +13,7 @@
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Thùy Linh bị loại sớm ở giải Indonesia Masters](https://vnexpress.net/thuy-linh-bi-loai-som-o-giai-indonesia-masters-4704869.html) - 01:46 25/01/2024
+- 🚀 [Thuỳ Linh bị loại sớm ở giải Indonesia Masters](https://vnexpress.net/thuy-linh-bi-loai-som-o-giai-indonesia-masters-4700703.html) - 01:47 25/01/2024
 - 🧰 [Phi công Il-76 Nga cố tránh nơi đông người trước khi rơi](https://vnexpress.net/phi-cong-il-76-nga-co-tranh-noi-dong-nguoi-truoc-khi-roi-4704811.html) - 01:40 25/01/2024
 - 🥰 [Mazda3 2019 giá 500 triệu có đắt?](https://vnexpress.net/mazda3-2019-gia-500-trieu-co-dat-4704859.html) - 01:34 25/01/2024
 - 🌏 [Ôtô đỗ ngược chiều gây tắc đường](https://vnexpress.net/oto-do-nguoc-chieu-gay-tac-duong-4704486.html) - 01:24 25/01/2024
@@ -25,7 +25,7 @@
 - 💂 [Xác ướp phu nhân hầu tước nguyên vẹn 2.100 năm](https://vnexpress.net/xac-uop-phu-nhan-hau-tuoc-nguyen-ven-2-100-nam-4704374.html) - 01:04 25/01/2024
 - 🎊 [Đằng sau những cửa hàng không người](https://vnexpress.net/dang-sau-nhung-cua-hang-khong-nguoi-4704550.html) - 01:00 25/01/2024
 - 🤠 [Món ăn khách phải đăng ký trước 43 năm mới đến lượt mua](https://vnexpress.net/mon-an-khach-phai-dang-ky-truoc-43-nam-moi-den-luot-mua-4704502.html) - 01:00 25/01/2024
-- 🌈 [&#39;Tuyển tập&#39; những bài tập thể dục kỳ quái của các cụ già](https://vnexpress.net/tuyen-tap-nhung-bai-tap-the-duc-ky-quai-cua-cac-cu-gia-4704436.html) - 01:00 25/01/2024
+- 🌈 [Những bài tập thể dục kỳ quái của các cụ già](https://vnexpress.net/nhung-bai-tap-the-duc-ky-quai-cua-cac-cu-gia-4704436.html) - 01:00 25/01/2024
 - 🎬 [Oracle Clinics of OUI ưu đãi trẻ hóa da với Thermage FLX 2024](https://vnexpress.net/oracle-clinics-of-oui-uu-dai-tre-hoa-da-voi-thermage-flx-2024-4704003.html) - 01:00 25/01/2024
 - 🚀 [Thiết bị đa nhiệm Tomko GoWithMe dành cho gia đình](https://vnexpress.net/thiet-bi-da-nhiem-tomko-gowithme-danh-cho-gia-dinh-4702632.html) - 01:00 25/01/2024
 - 🪄 [Bất động sản Nam Hà Nội hưởng lợi từ quy hoạch](https://vnexpress.net/bat-dong-san-nam-ha-noi-huong-loi-tu-quy-hoach-4701314.html) - 01:00 25/01/2024
