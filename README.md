@@ -265,14 +265,14 @@
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Nghiên cứu chuyển quỹ vaccine phòng COVID-19 thực hiện xóa nhà tạm, nhà dột](https://vtc.vn/nghien-cuu-chuyen-quy-vaccine-phong-covid-19-thuc-hien-xoa-nha-tam-nha-dot-ar849599.html) - 05:34 25/01/2024
-- 🤭 [Lần đầu tiên tìm thấy cụm sao khổng lồ sinh đôi, sinh ba trong vũ trụ](https://vtc.vn/lan-dau-tien-tim-thay-cum-sao-khong-lo-sinh-doi-sinh-ba-trong-vu-tru-ar849583.html) - 05:30 25/01/2024
-- 🦒 [HLV Shin Tae-yong: Thắng tuyển Việt Nam là vui nhất](https://vtc.vn/hlv-shin-tae-yong-thang-tuyen-viet-nam-la-vui-nhat-ar849645.html) - 05:12 25/01/2024
-- 🌮 [Mẹ già sống lay lắt nuôi 2 con tâm thần, chỉ mong có căn nhà để ở](https://vtc.vn/me-gia-song-lay-lat-nuoi-2-con-tam-than-chi-mong-co-can-nha-de-o-ar847438.html) - 05:08 25/01/2024
-- 🤖 [Bắt tài xế bán tải &#39;thông chốt&#39; nồng độ cồn, kéo lê xe CSGT toé lửa](https://vtc.vn/bat-giu-tai-xe-ban-tai-thong-chot-nong-do-con-keo-le-xe-csgt-toe-lua-ar849616.html) - 04:35 25/01/2024
-- 🎬 [Hoãn lễ trao tặng danh hiệu NSND, NSƯT](https://vtc.vn/hoan-le-trao-tang-danh-hieu-nsnd-nsut-ar849618.html) - 04:21 25/01/2024
-- 🥳 [Mãn nhãn bộ đôi cây cảnh Tết giá gần 6 tỷ đồng](https://vtc.vn/man-nhan-bo-doi-cay-canh-tet-gia-gan-6-ty-dong-ar849427.html) - 04:15 25/01/2024
-- 🎓 [Khởi tố 2 bị can trong đường dây &#39;Mua bán người&#39; đội lốt môi giới lao động](https://vtc.vn/khoi-to-2-bi-can-trong-duong-day-mua-ban-nguoi-doi-lot-moi-gioi-lao-dong-ar849612.html) - 03:53 25/01/2024
+- 🥸 [Giá xăng tăng cao nhất hơn 900 đồng, vượt 23.000 đồng/lít](https://vtc.vn/gia-xang-tang-cao-nhat-hon-900-dong-vuot-23-000-dong-lit-ar849675.html) - 07:48 25/01/2024
+- 🤭 [Nghiên cứu chuyển quỹ vaccine phòng COVID-19 thực hiện xóa nhà tạm, nhà dột](https://vtc.vn/nghien-cuu-chuyen-quy-vaccine-phong-covid-19-thuc-hien-xoa-nha-tam-nha-dot-ar849599.html) - 05:34 25/01/2024
+- 🦒 [Lần đầu tiên tìm thấy cụm sao khổng lồ sinh đôi, sinh ba trong vũ trụ](https://vtc.vn/lan-dau-tien-tim-thay-cum-sao-khong-lo-sinh-doi-sinh-ba-trong-vu-tru-ar849583.html) - 05:30 25/01/2024
+- 🌮 [HLV Shin Tae-yong: Thắng tuyển Việt Nam là vui nhất](https://vtc.vn/hlv-shin-tae-yong-thang-tuyen-viet-nam-la-vui-nhat-ar849645.html) - 05:12 25/01/2024
+- 🤖 [Mẹ già sống lay lắt nuôi 2 con tâm thần, chỉ mong có căn nhà để ở](https://vtc.vn/me-gia-song-lay-lat-nuoi-2-con-tam-than-chi-mong-co-can-nha-de-o-ar847438.html) - 05:08 25/01/2024
+- 🎬 [Bắt tài xế bán tải &#39;thông chốt&#39; nồng độ cồn, kéo lê xe CSGT toé lửa](https://vtc.vn/bat-giu-tai-xe-ban-tai-thong-chot-nong-do-con-keo-le-xe-csgt-toe-lua-ar849616.html) - 04:35 25/01/2024
+- 🥳 [Hoãn lễ trao tặng danh hiệu NSND, NSƯT](https://vtc.vn/hoan-le-trao-tang-danh-hieu-nsnd-nsut-ar849618.html) - 04:21 25/01/2024
+- 🎓 [Mãn nhãn bộ đôi cây cảnh Tết giá gần 6 tỷ đồng](https://vtc.vn/man-nhan-bo-doi-cay-canh-tet-gia-gan-6-ty-dong-ar849427.html) - 04:15 25/01/2024
 - 👹 [Tài xế ô tô thản nhiên đỗ xe ngược chiều, chặn đứng dòng phương tiện](https://vtc.vn/tai-xe-o-to-than-nhien-do-xe-nguoc-chieu-chan-dung-dong-phuong-tien-ar849567.html) - 02:50 25/01/2024
 - 🤖 [Ô tô Trung Quốc sẽ hủy diệt đối thủ toàn cầu nếu không có rào cản thương mại](https://vtc.vn/o-to-trung-quoc-se-huy-diet-doi-thu-toan-cau-neu-khong-co-rao-can-thuong-mai-ar849592.html) - 02:25 25/01/2024
 - 🎊 [Gia đình cố nhạc sĩ Trịnh Công Sơn phản hồi về lời xin lỗi của Mỹ Linh](https://vtc.vn/gia-dinh-co-nhac-si-trinh-cong-son-phan-hoi-ve-loi-xin-loi-cua-my-linh-ar849589.html) - 01:58 25/01/2024
