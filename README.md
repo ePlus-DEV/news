@@ -6,6 +6,7 @@
 * [Báo Thanh Niên](#báo-thanh-niên)
 * [Báo Lao Động](#báo-lao-động)
 * [Báo Người Lao Động](#báo-người-lao-động)
+* [Báo SGGP](#báo-sggp)
 * [Báo VTC](#báo-vtc)
 * [Báo Chính Phủ](#báo-chính-phủ)
 * [Báo Mực Tím](#báo-mực-tím)
@@ -265,6 +266,10 @@
 - 🐵 [Sau khi truy sát chủ nợ, nghi phạm tử vong trong ô tô](https://nld.com.vn/sau-khi-truy-sat-chu-no-nghi-pham-tu-vong-trong-o-to-196240125150054522.htm) - 08:45 25/01/2024
 - 🙉 [Dừng hoạt động phố đi bộ Hồ Gươm dịp Tết Giáp Thìn 2024](https://nld.com.vn/dung-hoat-dong-pho-di-bo-ho-guom-dip-tet-giap-thin-2024-196240125151343635.htm) - 08:40 25/01/2024
 - 💪 [Người đàn ông khoẻ mạnh bất ngờ nguy kịch sau ăn &quot;món khoái khẩu&quot;](https://nld.com.vn/nguoi-dan-ong-khoe-manh-bat-ngo-nguy-kich-sau-an-mon-khoai-khau-196240125152436549.htm) - 08:33 25/01/2024<!-- nld:END -->
+
+## Báo SGGP
+<!-- sggp:START -->
+<!-- sggp:END -->
 
 ## Báo VTC
 <!-- vtc:START -->
