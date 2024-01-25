@@ -269,21 +269,21 @@
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [5 thói quen làm bếp có thể gây hỏa hoạn](https://vtc.vn/5-thoi-quen-lam-bep-co-the-gay-hoa-hoan-ar849378.html) - 09:00 25/01/2024
-- 🤭 [Nghệ An: Nghi phạm tự tử sau khi sát hại vợ và mẹ vợ](https://vtc.vn/nghe-an-nghi-pham-tu-tu-sau-khi-sat-hai-vo-va-me-vo-ar849655.html) - 08:59 25/01/2024
-- 🦒 [Đề nghị Bộ Chính trị kỷ luật nguyên Bí thư Tỉnh ủy Bắc Ninh Nguyễn Nhân Chiến](https://vtc.vn/de-nghi-bo-chinh-tri-ky-luat-nguyen-bi-thu-tinh-uy-bac-ninh-nguyen-nhan-chien-ar846543.html) - 08:52 25/01/2024
-- 🌮 [Đề nghị Bộ Chính trị kỷ luật Bí thư Tỉnh ủy Lâm Đồng Trần Đức Quận](https://vtc.vn/de-nghi-bo-chinh-tri-ky-luat-bi-thu-tinh-uy-lam-dong-tran-duc-quan-ar849712.html) - 08:50 25/01/2024
-- 🤖 [Xe điện làm sụt giảm nhu cầu tiêu thụ mỏ](https://vtc.vn/xe-dien-lam-sut-giam-nhu-cau-tieu-thu-mo-ar849514.html) - 08:35 25/01/2024
-- 🎬 [Toyota Việt Nam vững bước vượt thách thức kép](https://vtc.vn/toyota-viet-nam-vung-buoc-vuot-thach-thuc-kep-ar849701.html) - 08:32 25/01/2024
-- 🥳 [Tử vong sau khi ăn tiết canh liên hoan cuối năm](https://vtc.vn/tu-vong-sau-khi-an-tiet-canh-lien-hoan-cuoi-nam-ar849652.html) - 08:31 25/01/2024
-- 🎓 [Thời gian phục vụ khách hàng của hệ thống ATM](https://vtc.vn/thoi-gian-phuc-vu-khach-hang-cua-he-thong-atm-ar849633.html) - 08:10 25/01/2024
-- 👹 [Dân công sở tranh thủ giờ nghỉ trưa đổ về Phủ Tây Hồ dâng lễ rằm tháng Chạp](https://vtc.vn/dan-cong-so-tranh-thu-gio-nghi-trua-do-ve-phu-tay-ho-dang-le-ram-thang-chap-ar849607.html) - 08:06 25/01/2024
-- 🤖 [Tài xế ô tô càn quét loạt phương tiện rồi bỏ chạy](https://vtc.vn/tai-xe-o-to-can-quet-loat-phuong-tien-roi-bo-chay-ar849630.html) - 07:51 25/01/2024
-- 🎊 [Học sinh ở nơi &#39;4 không&#39; quấn chăn đến trường chống chọi giá rét](https://vtc.vn/hoc-sinh-o-noi-4-khong-quan-chan-den-truong-chong-choi-gia-ret-ar849504.html) - 07:50 25/01/2024
-- 🐻 [Qatar gửi đề xuất ngừng bắn mới tới Israel, Hamas](https://vtc.vn/qatar-gui-de-xuat-ngung-ban-moi-toi-israel-hamas-ar849677.html) - 07:48 25/01/2024
+- 🥸 [Việt Nam bác bỏ thông tin vu cáo của &#39;tổ chức theo dõi nhân quyền&#39;](https://vtc.vn/viet-nam-bac-bo-thong-tin-vu-cao-cua-to-chuc-theo-doi-nhan-quyen-ar849728.html) - 09:42 25/01/2024
+- 🤭 [5 thói quen làm bếp có thể gây hỏa hoạn](https://vtc.vn/5-thoi-quen-lam-bep-co-the-gay-hoa-hoan-ar849378.html) - 09:00 25/01/2024
+- 🦒 [Nghệ An: Nghi phạm tự tử sau khi sát hại vợ và mẹ vợ](https://vtc.vn/nghe-an-nghi-pham-tu-tu-sau-khi-sat-hai-vo-va-me-vo-ar849655.html) - 08:59 25/01/2024
+- 🌮 [Đề nghị Bộ Chính trị kỷ luật nguyên Bí thư Tỉnh ủy Bắc Ninh Nguyễn Nhân Chiến](https://vtc.vn/de-nghi-bo-chinh-tri-ky-luat-nguyen-bi-thu-tinh-uy-bac-ninh-nguyen-nhan-chien-ar846543.html) - 08:52 25/01/2024
+- 🤖 [Đề nghị Bộ Chính trị kỷ luật Bí thư Tỉnh ủy Lâm Đồng Trần Đức Quận](https://vtc.vn/de-nghi-bo-chinh-tri-ky-luat-bi-thu-tinh-uy-lam-dong-tran-duc-quan-ar849712.html) - 08:50 25/01/2024
+- 🎬 [Xe điện làm sụt giảm nhu cầu tiêu thụ mỏ](https://vtc.vn/xe-dien-lam-sut-giam-nhu-cau-tieu-thu-mo-ar849514.html) - 08:35 25/01/2024
+- 🥳 [Toyota Việt Nam vững bước vượt thách thức kép](https://vtc.vn/toyota-viet-nam-vung-buoc-vuot-thach-thuc-kep-ar849701.html) - 08:32 25/01/2024
+- 🎓 [Tử vong sau khi ăn tiết canh liên hoan cuối năm](https://vtc.vn/tu-vong-sau-khi-an-tiet-canh-lien-hoan-cuoi-nam-ar849652.html) - 08:31 25/01/2024
+- 👹 [Thời gian phục vụ khách hàng của hệ thống ATM](https://vtc.vn/thoi-gian-phuc-vu-khach-hang-cua-he-thong-atm-ar849633.html) - 08:10 25/01/2024
+- 🤖 [Dân công sở tranh thủ giờ nghỉ trưa đổ về Phủ Tây Hồ dâng lễ rằm tháng Chạp](https://vtc.vn/dan-cong-so-tranh-thu-gio-nghi-trua-do-ve-phu-tay-ho-dang-le-ram-thang-chap-ar849607.html) - 08:06 25/01/2024
+- 🎊 [Tài xế ô tô càn quét loạt phương tiện rồi bỏ chạy](https://vtc.vn/tai-xe-o-to-can-quet-loat-phuong-tien-roi-bo-chay-ar849630.html) - 07:51 25/01/2024
+- 🐻 [Học sinh ở nơi &#39;4 không&#39; quấn chăn đến trường chống chọi giá rét](https://vtc.vn/hoc-sinh-o-noi-4-khong-quan-chan-den-truong-chong-choi-gia-ret-ar849504.html) - 07:50 25/01/2024
 - 👍 [Qatar gửi đề xuất ngừng bắn mới tới Israel, Hamas](https://vtc.vn/qatar-gui-de-xuat-ngung-ban-moi-toi-israel-hamas-ar849677.html) - 07:48 25/01/2024
-- 🪜 [Giá xăng tăng cao nhất hơn 900 đồng, vượt 23.000 đồng/lít](https://vtc.vn/gia-xang-tang-cao-nhat-hon-900-dong-vuot-23-000-dong-lit-ar849675.html) - 07:48 25/01/2024
-- 🌮 [Tuyển Việt Nam về nước: Xuân Mạnh ngồi xe lăn rời sân bay](https://vtc.vn/tuyen-viet-nam-ve-nuoc-xuan-manh-ngoi-xe-lan-roi-san-bay-ar849667.html) - 07:35 25/01/2024
+- 🪜 [Qatar gửi đề xuất ngừng bắn mới tới Israel, Hamas](https://vtc.vn/qatar-gui-de-xuat-ngung-ban-moi-toi-israel-hamas-ar849677.html) - 07:48 25/01/2024
+- 🌮 [Giá xăng tăng cao nhất hơn 900 đồng, vượt 23.000 đồng/lít](https://vtc.vn/gia-xang-tang-cao-nhat-hon-900-dong-vuot-23-000-dong-lit-ar849675.html) - 07:48 25/01/2024
 - 🌁 [Mách bạn những quán cà phê view bờ hồ cực xịn ở Hà Nội](https://vtc.vn/mach-ban-nhung-quan-ca-phe-view-bo-ho-cuc-xin-o-ha-noi-ar848889.html) - 07:33 25/01/2024
 - 👺 [Cháy Pin Lithium – Ion, dập tắt bằng cách nào hiệu quả?](https://vtc.vn/chay-pin-lithium-ion-dap-tat-bang-cach-nao-hieu-qua-ar849333.html) - 07:30 25/01/2024
 - 🌊 [Đạo diễn Lương Đình Dũng: Tôi từng là đứa trẻ hư và bướng bỉnh](https://vtc.vn/dao-dien-luong-dinh-dung-toi-tung-la-dua-tre-hu-va-buong-binh-ar849653.html) - 07:23 25/01/2024
