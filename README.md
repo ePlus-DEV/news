@@ -362,9 +362,9 @@
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Hành trình bền bỉ và kiên trì của Siêu thị Mini 0 đồng](https://tienphong.vn/hanh-trinh-ben-bi-va-kien-tri-cua-sieu-thi-mini-0-dong-post1607741.tpo) - 20:34 25/01/2024
-- 🎊 [Highlights Jordan 0-1 Bahrain: Cả làng đều vui](https://tienphong.vn/highlights-jordan-0-1-bahrain-ca-lang-deu-vui-post1607745.tpo) - 20:32 25/01/2024
-- 💼 [Malaysia suýt gây sốc trước Hàn Quốc](https://tienphong.vn/malaysia-suyt-gay-soc-truoc-han-quoc-post1607737.tpo) - 20:31 25/01/2024
+- 💼 [Thời tiết lạnh giá, nam sinh lớp 7 dùng tiền tiết kiệm mua 700 đôi tất tặng bạn](https://tienphong.vn/thoi-tiet-lanh-gia-nam-sinh-lop-7-dung-tien-tiet-kiem-mua-700-doi-tat-tang-ban-post1607735.tpo) - 20:41 25/01/2024
+- 🎊 [Hành trình bền bỉ và kiên trì của Siêu thị Mini 0 đồng](https://tienphong.vn/hanh-trinh-ben-bi-va-kien-tri-cua-sieu-thi-mini-0-dong-post1607741.tpo) - 20:34 25/01/2024
+- 💼 [Highlights Jordan 0-1 Bahrain: Cả làng đều vui](https://tienphong.vn/highlights-jordan-0-1-bahrain-ca-lang-deu-vui-post1607745.tpo) - 20:32 25/01/2024
 - 👺 [Bác sĩ nói về việc lạnh dưới 10 độ C nên cho trẻ đi học hay ở nhà](https://tienphong.vn/bac-si-noi-ve-viec-lanh-duoi-10-do-c-nen-cho-tre-di-hoc-hay-o-nha-post1607742.tpo) - 20:26 25/01/2024
 - 💪 [Showbiz 25/1: Nữ DJ 23 tuổi chết trong tình trạng khỏa thân](https://tienphong.vn/showbiz-251-nu-dj-23-tuoi-chet-trong-tinh-trang-khoa-than-post1607708.tpo) - 20:17 25/01/2024
 - 💃 [Tử vong sau khi ăn liên hoan cuối năm](https://tienphong.vn/tu-vong-sau-khi-an-lien-hoan-cuoi-nam-post1607739.tpo) - 20:17 25/01/2024
