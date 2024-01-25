@@ -267,29 +267,29 @@
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Tài xế ô tô thản nhiên đỗ xe ngược chiều, chặn đứng dòng phương tiện](https://vtc.vn/tai-xe-o-to-than-nhien-do-xe-nguoc-chieu-chan-dung-dong-phuong-tien-ar849567.html) - 02:50 25/01/2024
-- 🤭 [Ô tô Trung Quốc sẽ hủy diệt đối thủ toàn cầu nếu không có rào cản thương mại](https://vtc.vn/o-to-trung-quoc-se-huy-diet-doi-thu-toan-cau-neu-khong-co-rao-can-thuong-mai-ar849592.html) - 02:25 25/01/2024
-- 🦒 [Thủ tướng yêu cầu tuyệt đối không để thiếu hụt xăng dầu dịp Tết Nguyên đán](https://vtc.vn/thu-tuong-yeu-cau-tuyet-doi-khong-de-thieu-hut-xang-dau-dip-tet-nguyen-dan-ar849596.html) - 02:16 25/01/2024
-- 🌮 [Asian Cup 2023: Indonesia hồi hộp chờ suất đi tiếp](https://vtc.vn/asian-cup-2023-indonesia-hoi-hop-cho-suat-di-tiep-ar849593.html) - 02:04 25/01/2024
-- 🤖 [Tuyển Việt Nam thất bại ở Asian Cup 2023: Chưa phải lúc sa thải HLV Troussier?](https://vtc.vn/tuyen-viet-nam-that-bai-o-asian-cup-2023-chua-phai-luc-sa-thai-hlv-troussier-ar849575.html) - 01:55 25/01/2024
-- 🎬 [Muôn kiểu chống rét của người Hà Nội](https://vtc.vn/muon-kieu-chong-ret-cua-nguoi-ha-noi-ar849549.html) - 01:30 25/01/2024
-- 🥳 [Ô mai Hà Nội loại nào ngon, được tìm mua nhiều nhất?](https://vtc.vn/o-mai-ha-noi-loai-nao-ngon-duoc-tim-mua-nhieu-nhat-ar848871.html) - 01:28 25/01/2024
-- 🎓 [Những bàn tay khiêng đá, bắt cá mưu sinh trong giá rét 9 độ C ở Hà Nội](https://vtc.vn/nhung-ban-tay-khieng-da-bat-ca-muu-sinh-trong-gia-ret-9-do-c-o-ha-noi-ar849577.html) - 00:47 25/01/2024
-- 👹 [3 chiến lược tái chế rác thải nhựa có thể cứu Trái đất](https://vtc.vn/3-chien-luoc-tai-che-rac-thai-nhua-co-the-cuu-trai-dat-ar849467.html) - 00:43 25/01/2024
-- 🤖 [Danh sách độc giả ủng hộ các hoàn cảnh khó khăn từ ngày 13/1 đến 19/1](https://vtc.vn/danh-sach-doc-gia-ung-ho-cac-hoan-canh-kho-khan-tu-ngay-13-1-den-19-1-ar849190.html) - 00:43 25/01/2024
-- 🎊 [Bé trai đốt lửa trong thang máy gây cháy, dư luận giận dữ trách mắng phụ huynh](https://vtc.vn/be-trai-dot-lua-trong-thang-may-gay-chay-du-luan-gian-du-trach-mang-phu-huynh-ar849444.html) - 00:40 25/01/2024
-- 🐻 [Mỹ phủ nhận rút quân khỏi Syria](https://vtc.vn/my-phu-nhan-rut-quan-khoi-syria-ar849582.html) - 00:37 25/01/2024
-- 👍 [NATO khởi động chuỗi tập trận lớn nhất kể từ chiến tranh lạnh](https://vtc.vn/nato-khoi-dong-chuoi-tap-tran-lon-nhat-ke-tu-chien-tranh-lanh-ar849585.html) - 00:34 25/01/2024
-- 🪜 [Taxi bay tốc độ 193 km/h của Hàn Quốc hoạt động thế nào?](https://vtc.vn/taxi-bay-toc-do-193-km-h-cua-han-quoc-hoat-dong-the-nao-ar849321.html) - 00:30 25/01/2024
-- 🌮 [Ký ức Tết xưa: Mong ngóng Tết để được ăn thịt gà](https://vtc.vn/ky-uc-tet-xua-mong-ngong-tet-de-duoc-an-thit-ga-ar849513.html) - 00:27 25/01/2024
-- 🌁 [Ký ức Tết xưa: Mong ngóng Tết để được ăn thịt gà](https://vtc.vn/ky-uc-tet-xua-mong-ngong-tet-de-duoc-an-thit-ga-ar849513.html) - 00:27 25/01/2024
-- 👺 [Trường kinh tế mở ngành công nghệ: Xu thế hay chạy đua tuyển sinh?](https://vtc.vn/truong-kinh-te-mo-nganh-cong-nghe-xu-the-hay-chay-dua-tuyen-sinh-ar849516.html) - 00:22 25/01/2024
-- 🌊 [Trường kinh tế mở ngành công nghệ: Xu thế hay chạy đua tuyển sinh?](https://vtc.vn/truong-kinh-te-mo-nganh-cong-nghe-xu-the-hay-chay-dua-tuyen-sinh-ar849516.html) - 00:22 25/01/2024
-- 🤖 [Lịch nghỉ Tết Nguyên đán Giáp Thìn 2024 và những điều người lao động cần biết](https://vtc.vn/lich-nghi-tet-nguyen-dan-giap-thin-2024-va-nhung-dieu-nguoi-lao-dong-can-biet-ar843832.html) - 00:02 25/01/2024
+- 🥸 [Bắt tài xế bán tải &#39;thông chốt&#39; nồng độ cồn, kéo lê xe CSGT toé lửa](https://vtc.vn/bat-giu-tai-xe-ban-tai-thong-chot-nong-do-con-keo-le-xe-csgt-toe-lua-ar849616.html) - 04:35 25/01/2024
+- 🤭 [HLV Troussier thừa nhận thất bại ở Asian Cup, hẹn tháng 3 bù đắp](https://vtc.vn/hlv-troussier-thua-nhan-that-bai-o-asian-cup-hen-thang-3-bu-dap-ar849610.html) - 03:39 25/01/2024
+- 🦒 [Tài xế ô tô thản nhiên đỗ xe ngược chiều, chặn đứng dòng phương tiện](https://vtc.vn/tai-xe-o-to-than-nhien-do-xe-nguoc-chieu-chan-dung-dong-phuong-tien-ar849567.html) - 02:50 25/01/2024
+- 🌮 [Ô tô Trung Quốc sẽ hủy diệt đối thủ toàn cầu nếu không có rào cản thương mại](https://vtc.vn/o-to-trung-quoc-se-huy-diet-doi-thu-toan-cau-neu-khong-co-rao-can-thuong-mai-ar849592.html) - 02:25 25/01/2024
+- 🤖 [Thủ tướng yêu cầu tuyệt đối không để thiếu hụt xăng dầu dịp Tết Nguyên đán](https://vtc.vn/thu-tuong-yeu-cau-tuyet-doi-khong-de-thieu-hut-xang-dau-dip-tet-nguyen-dan-ar849596.html) - 02:16 25/01/2024
+- 🎬 [Asian Cup 2023: Indonesia hồi hộp chờ suất đi tiếp](https://vtc.vn/asian-cup-2023-indonesia-hoi-hop-cho-suat-di-tiep-ar849593.html) - 02:04 25/01/2024
+- 🥳 [Tuyển Việt Nam thất bại ở Asian Cup 2023: Chưa phải lúc sa thải HLV Troussier?](https://vtc.vn/tuyen-viet-nam-that-bai-o-asian-cup-2023-chua-phai-luc-sa-thai-hlv-troussier-ar849575.html) - 01:55 25/01/2024
+- 🎓 [Muôn kiểu chống rét của người Hà Nội](https://vtc.vn/muon-kieu-chong-ret-cua-nguoi-ha-noi-ar849549.html) - 01:30 25/01/2024
+- 👹 [Ô mai Hà Nội loại nào ngon, được tìm mua nhiều nhất?](https://vtc.vn/o-mai-ha-noi-loai-nao-ngon-duoc-tim-mua-nhieu-nhat-ar848871.html) - 01:28 25/01/2024
+- 🤖 [Những bàn tay khiêng đá, bắt cá mưu sinh trong giá rét 9 độ C ở Hà Nội](https://vtc.vn/nhung-ban-tay-khieng-da-bat-ca-muu-sinh-trong-gia-ret-9-do-c-o-ha-noi-ar849577.html) - 00:47 25/01/2024
+- 🎊 [3 chiến lược tái chế rác thải nhựa có thể cứu Trái đất](https://vtc.vn/3-chien-luoc-tai-che-rac-thai-nhua-co-the-cuu-trai-dat-ar849467.html) - 00:43 25/01/2024
+- 🐻 [Danh sách độc giả ủng hộ các hoàn cảnh khó khăn từ ngày 13/1 đến 19/1](https://vtc.vn/danh-sach-doc-gia-ung-ho-cac-hoan-canh-kho-khan-tu-ngay-13-1-den-19-1-ar849190.html) - 00:43 25/01/2024
+- 👍 [Bé trai đốt lửa trong thang máy gây cháy, dư luận giận dữ trách mắng phụ huynh](https://vtc.vn/be-trai-dot-lua-trong-thang-may-gay-chay-du-luan-gian-du-trach-mang-phu-huynh-ar849444.html) - 00:40 25/01/2024
+- 🪜 [Mỹ phủ nhận rút quân khỏi Syria](https://vtc.vn/my-phu-nhan-rut-quan-khoi-syria-ar849582.html) - 00:37 25/01/2024
+- 🌮 [NATO khởi động chuỗi tập trận lớn nhất kể từ chiến tranh lạnh](https://vtc.vn/nato-khoi-dong-chuoi-tap-tran-lon-nhat-ke-tu-chien-tranh-lanh-ar849585.html) - 00:34 25/01/2024
+- 🌁 [Taxi bay tốc độ 193 km/h của Hàn Quốc hoạt động thế nào?](https://vtc.vn/taxi-bay-toc-do-193-km-h-cua-han-quoc-hoat-dong-the-nao-ar849321.html) - 00:30 25/01/2024
+- 👺 [Ký ức Tết xưa: Mong ngóng Tết để được ăn thịt gà](https://vtc.vn/ky-uc-tet-xua-mong-ngong-tet-de-duoc-an-thit-ga-ar849513.html) - 00:27 25/01/2024
+- 🌊 [Ký ức Tết xưa: Mong ngóng Tết để được ăn thịt gà](https://vtc.vn/ky-uc-tet-xua-mong-ngong-tet-de-duoc-an-thit-ga-ar849513.html) - 00:27 25/01/2024
+- 🤖 [Trường kinh tế mở ngành công nghệ: Xu thế hay chạy đua tuyển sinh?](https://vtc.vn/truong-kinh-te-mo-nganh-cong-nghe-xu-the-hay-chay-dua-tuyen-sinh-ar849516.html) - 00:22 25/01/2024
+- 🥸 [Lịch nghỉ Tết Nguyên đán Giáp Thìn 2024 và những điều người lao động cần biết](https://vtc.vn/lich-nghi-tet-nguyen-dan-giap-thin-2024-va-nhung-dieu-nguoi-lao-dong-can-biet-ar843832.html) - 00:02 25/01/2024
 - 🥸 [Chia đồ ăn vặt cho bạn, vài giây sau bạn đột tử, cả nhà cậu bé bị kiện](https://vtc.vn/chia-do-an-vat-cho-ban-vai-giay-sau-ban-dot-tu-ca-nha-cau-be-bi-kien-ar849440.html) - 00:00 25/01/2024
-- 🥸 [Dấu hiệu cảnh báo thận không khỏe](https://vtc.vn/dau-hieu-canh-bao-than-khong-khoe-ar846793.html) - 23:54 24/01/2024
-- 🪜 [Thứ tự các xe đi thế nào để đúng quy tắc giao thông?](https://vtc.vn/thu-tu-cac-xe-di-the-nao-de-dung-quy-tac-giao-thong-ar849476.html) - 23:53 24/01/2024
-- 💪 [Hà Nội rét dưới 10 độ C trong 3 ngày liên tiếp, đỉnh Mẫu Sơn -2,6 độ C](https://vtc.vn/ha-noi-ret-duoi-10-do-c-trong-3-ngay-lien-tiep-dinh-mau-son-2-6-do-c-ar849572.html) - 23:45 24/01/2024
+- 🪜 [Dấu hiệu cảnh báo thận không khỏe](https://vtc.vn/dau-hieu-canh-bao-than-khong-khoe-ar846793.html) - 23:54 24/01/2024
+- 💪 [Thứ tự các xe đi thế nào để đúng quy tắc giao thông?](https://vtc.vn/thu-tu-cac-xe-di-the-nao-de-dung-quy-tac-giao-thong-ar849476.html) - 23:53 24/01/2024
 - 🌝 [Trường học gỡ gương trong toilet vì học sinh nghiện quay TikTok](https://vtc.vn/truong-hoc-go-guong-trong-toilet-vi-hoc-sinh-nghien-quay-tiktok-ar848997.html) - 23:45 24/01/2024
 - 🧑‍💻 [Lệ Quyên bị chỉ trích &#39;vô duyên, phá kịch bản&#39; khi trao giải &#39;Làn sóng xanh&#39;](https://vtc.vn/le-quyen-bi-chi-trich-vo-duyen-pha-kich-ban-khi-trao-giai-lan-song-xanh-ar849574.html) - 23:44 24/01/2024
 - 🤭 [Tìm hiểu kiến trúc nhà sàn hiện đại kiểu mới](https://vtc.vn/tim-hieu-kien-truc-nha-san-hien-dai-kieu-moi-ar849205.html) - 23:41 24/01/2024
