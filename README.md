@@ -218,7 +218,7 @@
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Giá vàng hôm nay, 25-1: Giảm mạnh dù giá trị đồng USD “bốc hơi”](https://nld.com.vn/gia-vang-hom-nay-25-1-giam-manh-du-gia-tri-dong-usd-boc-hoi-19624012506403334.htm) - 23:48 24/01/2024
-- 😺 [Giành tất cả vì đam mê chạy bộ của con trai](https://nld.com.vn/gianh-tat-ca-vi-dam-me-chay-bo-cua-con-trai-196240124152528458.htm) - 23:41 24/01/2024
+- 😺 [Dành tất cả vì đam mê chạy bộ của con trai](https://nld.com.vn/gianh-tat-ca-vi-dam-me-chay-bo-cua-con-trai-196240124152528458.htm) - 23:41 24/01/2024
 - 👍 [Tổng thống Biden sẽ &quot;tái đấu&quot; ông Trump?](https://nld.com.vn/tong-thong-biden-se-tai-dau-ong-trump-196240124215651133.htm) - 23:36 24/01/2024
 - 🥷 [Bà Nguyễn Thị Kim Ngân nhận Huân chương Mặt Trời mọc](https://nld.com.vn/ba-nguyen-thi-kim-ngan-nhan-huan-chuong-mat-troi-moc-196240124220209418.htm) - 23:33 24/01/2024
 - 🤔 [Ngược dòng bất thành, Fulham trao vé chung kết League Cup cho Liverpool](https://nld.com.vn/nguoc-dong-bat-thanh-fulham-trao-ve-chung-ket-league-cup-cho-liverpool-196240125055637239.htm) - 23:24 24/01/2024
