@@ -7,6 +7,7 @@
 * [Báo Lao Động](#báo-lao-động)
 * [Báo Người Lao Động](#báo-người-lao-động)
 * [Báo VTC](#báo-vtc)
+* [Báo Chính Phủ](#báo-chính-phủ)
 * [Báo Mực Tím](#báo-mực-tím)
 * [Báo Hoa Học Trò](#báo-hoa-học-trò)
 <!--te-->
@@ -305,6 +306,10 @@
 - 👨‍🏫 [Xe ô tô chạy yếu, tăng tốc chậm, nguyên nhân tại sao?](https://vtc.vn/xe-o-to-chay-yeu-tang-toc-cham-nguyen-nhan-tai-sao-ar849573.html) - 05:25 25/01/2024
 - 🎡 [Mẹ già sống lay lắt nuôi 2 con tâm thần, chỉ mong có căn nhà để ở](https://vtc.vn/me-gia-song-lay-lat-nuoi-2-con-tam-than-chi-mong-co-can-nha-de-o-ar847438.html) - 05:08 25/01/2024
 - 🕴 [Con rể vừa ra tù truy sát cả gia đình vợ khiến hai người tử vong](https://vtc.vn/con-re-vua-ra-tu-truy-sat-ca-gia-dinh-vo-khien-hai-nguoi-tu-vong-ar849639.html) - 04:59 25/01/2024<!-- vtc:END -->
+
+## Báo Chính Phủ
+<!-- cp:START -->
+<!-- cp:END -->
 
 ## Báo Mực Tím
 <!-- muctim:START -->
