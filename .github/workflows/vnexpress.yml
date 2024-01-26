@@ -104,7 +104,7 @@ jobs:
           readme_path: ${{ matrix.readme_path }}
           feed_list: ${{ matrix.feed_list }}
           committer_email: ${{ env.committer_email }}
-          commit_message: "Get vnexpress news - ${{ matrix.rand_seed }}"
+          commit_message: "Get vnexpress news - ${{ matrix.rand_seed }} - ${{ github.event.workflow_run.created_at }}"
           rand_seed: ${{ matrix.rand_seed }}
           comment_tag_name: ${{ matrix.rand_seed }}
           date_format: ${{ env.date_format }}
