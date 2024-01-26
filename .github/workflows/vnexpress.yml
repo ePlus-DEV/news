@@ -1,4 +1,4 @@
-name: "Cronjob VNExpress"
+name: "Cronjob VnExpress"
 on:
   workflow_run:
     workflows: ["Cronjob"]
@@ -6,7 +6,7 @@ on:
 
 jobs:
   vnexpress:
-    name: VNExpress - ${{ matrix.rand_seed }}
+    name: VnExpress - ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:
       matrix:
