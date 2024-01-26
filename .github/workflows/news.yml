@@ -7,31 +7,32 @@ on:
       - "main"
 jobs:
   update-homepages:
-    name: Get newspapers
+    name: Get ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        include:
-          - feed_list: "https://vnexpress.net/rss/tin-moi-nhat.rss"
-            rand_seed: "vnexpress"
-          - feed_list: "https://dantri.com.vn/rss/home.rss"
-            rand_seed: "dantri"
-          - feed_list: "https://thanhnien.vn/rss/home.rss"
-            rand_seed: "thanhnien"
-          - feed_list: "https://laodong.vn/rss/home.rss"
-            rand_seed: "laodong"
-          - feed_list: "https://nld.com.vn/rss/home.rss"
-            rand_seed: "nld"
-          - feed_list: "https://www.sggp.org.vn/rss/home.rss"
-            rand_seed: "sggp"
-          - feed_list: "https://vtc.vn/rss/feed.rss"
-            rand_seed: "vtc"
-          - feed_list: "https://baochinhphu.vn/home.rss"
-            rand_seed: "baochinhphu"
-          - feed_list: "https://muctim.tuoitre.vn/rss/home.rss"
-            rand_seed: "muctim"
-          - feed_list: "https://hoahoctro.tienphong.vn/rss/home.rss"
-            rand_seed: "hoahoctro"
+        feed_list:
+          - "https://vnexpress.net/rss/tin-moi-nhat.rss"
+          - "https://dantri.com.vn/rss/home.rss"
+          - "https://thanhnien.vn/rss/home.rss"
+          - "https://laodong.vn/rss/home.rss"
+          - "https://nld.com.vn/rss/home.rss"
+          - "https://www.sggp.org.vn/rss/home.rss"
+          - "https://vtc.vn/rss/feed.rss"
+          - "https://baochinhphu.vn/home.rss"
+          - "https://muctim.tuoitre.vn/rss/home.rss"
+          - "https://hoahoctro.tienphong.vn/rss/home.rss"
+        rand_seed:
+          - "vnexpress"
+          - "dantri"
+          - "thanhnien"
+          - "laodong"
+          - "nld"
+          - "sggp"
+          - "vtc"
+          - "baochinhphu"
+          - "muctim"
+          - "hoahoctro"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -43,7 +44,7 @@ jobs:
           readme_path: ./docs/index.md
           feed_list: ${{ matrix.feed_list }}
           committer_email: "h250694@gmail.com"
-          commit_message: Get news
+          commit_message: "Get - ${{ matrix.rand_seed }} news - ${{ github.event.workflow_run.created_at }}"
           rand_seed: ${{ matrix.rand_seed }}
           comment_tag_name: ${{ matrix.rand_seed }}
           date_format: "HH:MM dd/mm/yyyy"
