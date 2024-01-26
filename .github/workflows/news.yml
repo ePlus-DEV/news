@@ -7,148 +7,25 @@ on:
       - "main"
 jobs:
   update-homepages:
-    name: Get a list of news from the homepages of various newspapers
+    name: Cronjob newspapers
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        feed_list: ["https://vnexpress.net/rss/tin-moi-nhat.rss", "https://dantri.com.vn/rss/home.rss", "https://thanhnien.vn/rss/home.rss", "https://laodong.vn/rss/home.rss", "https://nld.com.vn/rss/home.rss", "https://www.sggp.org.vn/rss/home.rss", "https://vtc.vn/rss/feed.rss", "https://baochinhphu.vn/home.rss", "https://muctim.tuoitre.vn/rss/home.rss", "https://hoahoctro.tienphong.vn/rss/home.rss"]
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Pull in vnexpress news
+      - name: Pull in news
         uses: ePlus-DEV/blog-post-workflow@v1.0.1
         with:
           retry_count: 5
           readme_path: ./docs/index.md
-          feed_list: "https://vnexpress.net/rss/tin-moi-nhat.rss"
+          feed_list: ${{ matrix.feed_list }}
           committer_email: "h250694@gmail.com"
-          commit_message: Get vnexpress news
-          rand_seed: "vnexpress"
-          comment_tag_name: "vnexpress"
+          commit_message: "Get news"
+          rand_seed: ${{ matrix.feed_list }}
+          comment_tag_name: ${{ matrix.feed_list }}
           date_format: "HH:MM dd/mm/yyyy"
-          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
-          max_post_count: 50
-
-      - name: Pull in dantri news
-        uses: ePlus-DEV/blog-post-workflow@v1.0.1
-        with:
-          retry_count: 5
-          readme_path: ./docs/index.md
-          feed_list: "https://dantri.com.vn/rss/home.rss"
-          committer_email: "h250694@gmail.com"
-          commit_message: Get dantri news
-          rand_seed: "dantri"
-          comment_tag_name: "dantri"
-          date_format: "HH:MM dd/mm/yyyy"
-          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
-          max_post_count: 50
-
-      - name: Pull in thanhnien news
-        uses: ePlus-DEV/blog-post-workflow@v1.0.1
-        with:
-          retry_count: 5
-          readme_path: ./docs/index.md
-          feed_list: "https://thanhnien.vn/rss/home.rss"
-          committer_email: "h250694@gmail.com"
-          commit_message: Get thanhnien news
-          rand_seed: "thanhnien"
-          comment_tag_name: "thanhnien"
-          date_format: "HH:MM dd/mm/yyyy"
-          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
-          max_post_count: 50
-
-      - name: Pull in laodong news
-        uses: ePlus-DEV/blog-post-workflow@v1.0.1
-        with:
-          retry_count: 5
-          readme_path: ./docs/index.md
-          feed_list: "https://laodong.vn/rss/home.rss"
-          committer_email: "h250694@gmail.com"
-          commit_message: Get laodong news
-          rand_seed: "laodong"
-          comment_tag_name: "laodong"
-          date_format: "HH:MM dd/mm/yyyy"
-          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
-          max_post_count: 50
-
-      - name: Pull in nld news
-        uses: ePlus-DEV/blog-post-workflow@v1.0.1
-        with:
-          retry_count: 5
-          readme_path: ./docs/index.md
-          feed_list: "https://nld.com.vn/rss/home.rss"
-          committer_email: "h250694@gmail.com"
-          commit_message: Get nld news
-          rand_seed: "nld"
-          comment_tag_name: "nld"
-          date_format: "HH:MM dd/mm/yyyy"
-          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
-          max_post_count: 50
-
-      - name: Pull in sggp news
-        uses: ePlus-DEV/blog-post-workflow@v1.0.1
-        with:
-          retry_count: 5
-          readme_path: ./docs/index.md
-          feed_list: "https://www.sggp.org.vn/rss/home.rss"
-          committer_email: "h250694@gmail.com"
-          commit_message: Get sggp news
-          rand_seed: "sggp"
-          comment_tag_name: "sggp"
-          date_format: 'HH:MM dd/mm/yyyy'
-          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
-          max_post_count: 50
-
-      - name: Pull in vtc news
-        uses: ePlus-DEV/blog-post-workflow@v1.0.1
-        with:
-          retry_count: 5
-          readme_path: ./docs/index.md
-          feed_list: "https://vtc.vn/rss/feed.rss"
-          committer_email: "h250694@gmail.com"
-          commit_message: Get vtc news
-          rand_seed: "vtc"
-          comment_tag_name: "vtc"
-          date_format: "HH:MM dd/mm/yyyy"
-          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
-          max_post_count: 50
-
-      - name: Pull in cp news
-        uses: ePlus-DEV/blog-post-workflow@v1.0.1
-        with:
-          retry_count: 5
-          readme_path: ./docs/index.md
-          feed_list: "https://baochinhphu.vn/home.rss"
-          committer_email: "h250694@gmail.com"
-          commit_message: Get cp news
-          rand_seed: "cp"
-          comment_tag_name: "cp"
-          date_format: 'HH:MM dd/mm/yyyy'
-          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
-          max_post_count: 50
-
-      - name: Pull in muctim news
-        uses: ePlus-DEV/blog-post-workflow@v1.0.1
-        with:
-          retry_count: 5
-          readme_path: ./docs/index.md
-          feed_list: "https://muctim.tuoitre.vn/rss/home.rss"
-          committer_email: "h250694@gmail.com"
-          commit_message: Get muctim news
-          rand_seed: "muctim"
-          comment_tag_name: "muctim"
-          date_format: "HH:MM dd/mm/yyyy"
-          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
-          max_post_count: 50
-
-      - name: Pull in hoahoctro news
-        uses: ePlus-DEV/blog-post-workflow@v1.0.1
-        with:
-          retry_count: 5
-          readme_path: ./docs/index.md
-          feed_list: "https://hoahoctro.tienphong.vn/rss/home.rss"
-          committer_email: "h250694@gmail.com"
-          commit_message: Get hoahoctro news
-          rand_seed: "hoahoctro"
-          comment_tag_name: "hoahoctro"
-          date_format: 'HH:MM dd/mm/yyyy'
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
           max_post_count: 50
