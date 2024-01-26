@@ -69,7 +69,7 @@ const config = {
       navbar: {
         title: 'ePlus News',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'ePlus News Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -91,11 +91,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'About',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'ePlus.DEV',
+                to: 'https://eplus.dev',
               },
             ],
           },
@@ -115,10 +115,6 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'ePlus.DEV',
-                to: 'https://eplus.dev',
-              },
               {
                 label: 'Blog',
                 to: '/blog',
