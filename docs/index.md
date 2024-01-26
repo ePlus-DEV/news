@@ -383,7 +383,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🕴 [Thiếu nữ bị người đàn ông chặn đường giở trò đồi bại](https://vtc.vn/thieu-nu-bi-nguoi-dan-ong-chan-duong-gio-tro-doi-bai-ar849887.html) - 05:03 26/01/2024<!-- vtc:END -->
 
 ## Báo Chính Phủ
-<!-- cp:START -->
+<!-- baochinhphu:START -->
 - 🎬 [Điện mừng kỷ niệm Quốc khánh lần thứ 236 của Australia](https://baochinhphu.vn/dien-mung-ky-niem-quoc-khanh-lan-thu-236-cua-australia-102240126203650682.htm) - 21:49 26/01/2024
 - 🐵 [Thủ tướng gặp mặt các nhà đầu tư, nhà tài trợ, đề nghị cùng Việt Nam đoàn kết, hành động](https://baochinhphu.vn/thu-tuong-gap-mat-cac-nha-dau-tu-nha-tai-tro-de-nghi-cung-viet-nam-doan-ket-hanh-dong-102240126214003205.htm) - 21:45 26/01/2024
 - 🎃 [Cẩn trọng với xe bus điện nội thành vì an toàn cho hành khách là quan trọng nhất](https://baochinhphu.vn/can-trong-voi-xe-bus-dien-noi-thanh-vi-an-toan-cho-hanh-khach-la-quan-trong-nhat-102240126192025266.htm) - 19:20 26/01/2024
@@ -433,7 +433,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 👹 [Đề xuất quy định mới về thử thuốc trên lâm sàng](https://baochinhphu.vn/de-xuat-quy-dinh-moi-ve-thu-thuoc-tren-lam-sang-102240125172344889.htm) - 19:08 25/01/2024
 - 🤩 [Huyện Tam Bình &lpar;Vĩnh Long&rpar; đạt chuẩn nông thôn mới](https://baochinhphu.vn/huyen-tam-binh-vinh-long-dat-chuan-nong-thon-moi-10224012518464121.htm) - 19:07 25/01/2024
 - 🤖 [Ngoại giao đa phương: Tiếp tục đổi mới tư duy, tham mưu kịp thời, chuẩn xác](https://baochinhphu.vn/ngoai-giao-da-phuong-tiep-tuc-doi-moi-tu-duy-tham-muu-kip-thoi-chuan-xac-102240125190514285.htm) - 19:06 25/01/2024
-- 🦅 [Quy chế hoạt động BCĐ Nhà nước các dự án quan trọng quốc gia, trọng điểm ngành năng lượng](https://baochinhphu.vn/quy-che-hoat-dong-bcd-nha-nuoc-cac-du-an-quan-trong-quoc-gia-trong-diem-nganh-nang-luong-10224012519013019.htm) - 19:01 25/01/2024<!-- cp:END -->
+- 🦅 [Quy chế hoạt động BCĐ Nhà nước các dự án quan trọng quốc gia, trọng điểm ngành năng lượng](https://baochinhphu.vn/quy-che-hoat-dong-bcd-nha-nuoc-cac-du-an-quan-trong-quoc-gia-trong-diem-nganh-nang-luong-10224012519013019.htm) - 19:01 25/01/2024<!-- baochinhphu:END -->
 
 ## Báo Mực Tím
 <!-- muctim:START -->
