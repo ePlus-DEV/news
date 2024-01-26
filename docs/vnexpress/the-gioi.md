@@ -3,5 +3,5 @@ title: Thế giới
 sidebar_position: 2
 ---
 
-<!-- vnexpress-the-goi:START -->
-<!-- vnexpress-the-goi:END -->
+<!-- vnexpress-the-gioi:START -->
+<!-- vnexpress-the-gioi:END -->

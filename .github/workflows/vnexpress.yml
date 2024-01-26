@@ -31,12 +31,12 @@ jobs:
         uses: ePlus-DEV/blog-post-workflow@v1.0.1
         with:
           retry_count: 5
-          readme_path: ./docs/vnexpress/the-goi.md
-          feed_list: "https://vnexpress.net/rss/the-goi.rss"
+          readme_path: ./docs/vnexpress/the-gioi.md
+          feed_list: "https://vnexpress.net/rss/the-gioi.rss"
           committer_email: "h250694@gmail.com"
           commit_message: Get vnexpress news - Thế giới
-          rand_seed: "vnexpress-the-goi"
-          comment_tag_name: "vnexpress-the-goi"
+          rand_seed: "vnexpress-the-gioi"
+          comment_tag_name: "vnexpress-the-gioi"
           date_format: "HH:MM dd/mm/yyyy"
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
           max_post_count: 50
