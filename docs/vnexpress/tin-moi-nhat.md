@@ -52,6 +52,6 @@ sidebar_position: 9
 - 🎡 [Đà Nẵng đào tạo nhân lực vi mạch](https://vnexpress.net/da-nang-dao-tao-nhan-luc-vi-mach-4705553.html) - 10:53 26/01/2024
 - 👍 [Dự án Khu vui chơi ở Hải Phòng được giảm vốn hơn 11.800 tỷ đồng](https://vnexpress.net/du-an-khu-vui-choi-o-hai-phong-duoc-giam-von-hon-11-800-ty-dong-4705587.html) - 10:53 26/01/2024
 - 🐎 [Hà Nội làm đường dành riêng cho xe đạp](https://vnexpress.net/ha-noi-lam-duong-danh-rieng-cho-xe-dap-4705622.html) - 10:52 26/01/2024
-- 🏊 [Kẻ vượt ngục &#39;đầu hàng&#39; sau 40 phút vì không chịu được lạnh](https://vnexpress.net/ke-vuot-nguc-dau-hang-sau-40-phut-vi-khong-chiu-duoc-lanh-4705620.html) - 10:50 26/01/2024
+- 🏊 [Kẻ vượt ngục xin quay lại nhà tù vì không chịu được lạnh](https://vnexpress.net/ke-vuot-nguc-dau-hang-sau-40-phut-vi-khong-chiu-duoc-lanh-4705620.html) - 10:50 26/01/2024
 - 🦩 [Trung Quốc &#39;kêu gọi Iran kiềm chế Houthi ở Biển Đỏ&#39;](https://vnexpress.net/trung-quoc-keu-goi-iran-kiem-che-houthi-o-bien-do-4705564.html) - 10:40 26/01/2024
 - 👍 [Cư dân ấn tượng về chất lượng căn hộ Masterise Homes](https://vnexpress.net/cu-dan-an-tuong-ve-chat-luong-can-ho-masterise-homes-4705126.html) - 10:30 26/01/2024<!-- vnexpress-tin-moi-nhat:END -->
