@@ -1,5 +1,5 @@
 ---
-title: Giải trí
+title: Thể thao
 sidebar_position: 5
 ---
 

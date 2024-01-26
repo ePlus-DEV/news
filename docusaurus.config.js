@@ -30,8 +30,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'vi',
+    locales: ['vi', 'en'],
   },
 
   presets: [
@@ -92,7 +92,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'About',
+            title: 'Thông tin',
             items: [
               {
                 label: 'ePlus.DEV',
@@ -101,7 +101,7 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Mạng xã hội',
             items: [
               {
                 label: 'Discord',
@@ -114,7 +114,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Mở rộng',
             items: [
               {
                 label: 'Blog',
@@ -127,7 +127,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} ePlus.DEV Labs. Built with Docusaurus.`,
+        copyright: `© 2019-${new Date().getFullYear()}. ePlus.DEV Labs điều hành & phát triển.`,
       },
       prism: {
         theme: prismThemes.github,

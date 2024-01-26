@@ -17,7 +17,7 @@ jobs:
         uses: ePlus-DEV/blog-post-workflow@v1.0.1
         with:
           retry_count: 5
-          readme_path: ./docs/intro.md
+          readme_path: ./docs/index.md
           feed_list: "https://vnexpress.net/rss/tin-moi-nhat.rss"
           committer_email: "h250694@gmail.com"
           commit_message: Get vnexpress news
@@ -31,7 +31,7 @@ jobs:
         uses: ePlus-DEV/blog-post-workflow@v1.0.1
         with:
           retry_count: 5
-          readme_path: ./docs/intro.md
+          readme_path: ./docs/index.md
           feed_list: "https://dantri.com.vn/rss/home.rss"
           committer_email: "h250694@gmail.com"
           commit_message: Get dantri news
@@ -45,7 +45,7 @@ jobs:
         uses: ePlus-DEV/blog-post-workflow@v1.0.1
         with:
           retry_count: 5
-          readme_path: ./docs/intro.md
+          readme_path: ./docs/index.md
           feed_list: "https://thanhnien.vn/rss/home.rss"
           committer_email: "h250694@gmail.com"
           commit_message: Get thanhnien news
@@ -59,7 +59,7 @@ jobs:
         uses: ePlus-DEV/blog-post-workflow@v1.0.1
         with:
           retry_count: 5
-          readme_path: ./docs/intro.md
+          readme_path: ./docs/index.md
           feed_list: "https://laodong.vn/rss/home.rss"
           committer_email: "h250694@gmail.com"
           commit_message: Get laodong news
@@ -73,7 +73,7 @@ jobs:
         uses: ePlus-DEV/blog-post-workflow@v1.0.1
         with:
           retry_count: 5
-          readme_path: ./docs/intro.md
+          readme_path: ./docs/index.md
           feed_list: "https://nld.com.vn/rss/home.rss"
           committer_email: "h250694@gmail.com"
           commit_message: Get nld news
@@ -83,25 +83,25 @@ jobs:
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
           max_post_count: 50
 
-      # - name: Pull in sggp news
-      #   uses: ePlus-DEV/blog-post-workflow@v1.0.1
-      #   with:
-      #     retry_count: 5
-      #     readme_path: ./docs/intro.md
-      #     feed_list: "https://www.sggp.org.vn/rss/home.rss"
-      #     committer_email: "h250694@gmail.com"
-      #     commit_message: Get sggp news
-      #     rand_seed: "sggp"
-      #     comment_tag_name: "sggp"
-      #     date_format: 'HH:MM dd/mm/yyyy'
-      #     template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
-      #     max_post_count: 50
+      - name: Pull in sggp news
+        uses: ePlus-DEV/blog-post-workflow@v1.0.1
+        with:
+          retry_count: 5
+          readme_path: ./docs/index.md
+          feed_list: "https://www.sggp.org.vn/rss/home.rss"
+          committer_email: "h250694@gmail.com"
+          commit_message: Get sggp news
+          rand_seed: "sggp"
+          comment_tag_name: "sggp"
+          date_format: 'HH:MM dd/mm/yyyy'
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
+          max_post_count: 50
 
       - name: Pull in vtc news
         uses: ePlus-DEV/blog-post-workflow@v1.0.1
         with:
           retry_count: 5
-          readme_path: ./docs/intro.md
+          readme_path: ./docs/index.md
           feed_list: "https://vtc.vn/rss/feed.rss"
           committer_email: "h250694@gmail.com"
           commit_message: Get vtc news
@@ -111,25 +111,25 @@ jobs:
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
           max_post_count: 50
 
-      # - name: Pull in cp news
-      #   uses: ePlus-DEV/blog-post-workflow@v1.0.1
-      #   with:
-      #     retry_count: 5
-      #     readme_path: ./docs/intro.md
-      #     feed_list: "https://baochinhphu.vn/home.rss"
-      #     committer_email: "h250694@gmail.com"
-      #     commit_message: Get cp news
-      #     rand_seed: "cp"
-      #     comment_tag_name: "cp"
-      #     date_format: 'HH:MM dd/mm/yyyy'
-      #     template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
-      #     max_post_count: 50
+      - name: Pull in cp news
+        uses: ePlus-DEV/blog-post-workflow@v1.0.1
+        with:
+          retry_count: 5
+          readme_path: ./docs/index.md
+          feed_list: "https://baochinhphu.vn/home.rss"
+          committer_email: "h250694@gmail.com"
+          commit_message: Get cp news
+          rand_seed: "cp"
+          comment_tag_name: "cp"
+          date_format: 'HH:MM dd/mm/yyyy'
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
+          max_post_count: 50
 
       - name: Pull in muctim news
         uses: ePlus-DEV/blog-post-workflow@v1.0.1
         with:
           retry_count: 5
-          readme_path: ./docs/intro.md
+          readme_path: ./docs/index.md
           feed_list: "https://muctim.tuoitre.vn/rss/home.rss"
           committer_email: "h250694@gmail.com"
           commit_message: Get muctim news
@@ -139,16 +139,16 @@ jobs:
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
           max_post_count: 50
 
-      # - name: Pull in hoahoctro news
-      #   uses: ePlus-DEV/blog-post-workflow@v1.0.1
-      #   with:
-      #     retry_count: 5
-      #     readme_path: ./docs/intro.md
-      #     feed_list: "https://hoahoctro.tienphong.vn/rss/home.rss"
-      #     committer_email: "h250694@gmail.com"
-      #     commit_message: Get hoahoctro news
-      #     rand_seed: "hoahoctro"
-      #     comment_tag_name: "hoahoctro"
-      #     date_format: 'HH:MM dd/mm/yyyy'
-      #     template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
-      #     max_post_count: 50
+      - name: Pull in hoahoctro news
+        uses: ePlus-DEV/blog-post-workflow@v1.0.1
+        with:
+          retry_count: 5
+          readme_path: ./docs/index.md
+          feed_list: "https://hoahoctro.tienphong.vn/rss/home.rss"
+          committer_email: "h250694@gmail.com"
+          commit_message: Get hoahoctro news
+          rand_seed: "hoahoctro"
+          comment_tag_name: "hoahoctro"
+          date_format: 'HH:MM dd/mm/yyyy'
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
+          max_post_count: 50
