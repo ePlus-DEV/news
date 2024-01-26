@@ -1,0 +1,28 @@
+name: "Cronjob"
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  push:
+    branches:
+      - "main"
+jobs:
+  vnexpress-thoi-su:
+    name: VNExpress - Thời sự
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull in vnexpress news - thời sự
+        uses: ePlus-DEV/blog-post-workflow@v1.0.1
+        with:
+          retry_count: 5
+          readme_path: ./docs/vnexpress/thoi-su.md
+          feed_list: "https://vnexpress.net/rss/thoi-su.rss"
+          committer_email: "h250694@gmail.com"
+          commit_message: Get vnexpress news - thời sự
+          rand_seed: "vnexpress-thoi-su"
+          comment_tag_name: "vnexpress-thoi-su"
+          date_format: "HH:MM dd/mm/yyyy"
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
+          max_post_count: 50
