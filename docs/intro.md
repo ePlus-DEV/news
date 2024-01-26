@@ -25,7 +25,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Nhiều người Mỹ trưởng thành nhưng vẫn phụ thuộc bố mẹ](https://vnexpress.net/nhieu-nguoi-my-truong-thanh-nhung-van-phu-thuoc-bo-me-4705383.html) - 09:07 26/01/2024
+- 🚀 [Người trẻ Mỹ sống phụ thuộc bố mẹ](https://vnexpress.net/nguoi-tre-my-song-phu-thuoc-bo-me-4705383.html) - 09:07 26/01/2024
 - 🧰 [Mỹ thi hành án tử đầu tiên bằng khí nitơ](https://vnexpress.net/my-thi-hanh-an-tu-dau-tien-bang-khi-nito-4705499.html) - 09:05 26/01/2024
 - 🥰 [Cổ phiếu ngân hàng hồi phục](https://vnexpress.net/co-phieu-ngan-hang-hoi-phuc-4705570.html) - 09:03 26/01/2024
 - 🌏 [Quạ dùng que lấy thức ăn kẹt trong ống nhựa](https://vnexpress.net/qua-dung-que-lay-thuc-an-ket-trong-ong-nhua-4705518.html) - 09:00 26/01/2024
