@@ -5,6 +5,9 @@ on:
   push:
     branches:
       - 'main'
+  repository_dispatch:
+  types: [deploy]
+  workflow_dispatch:
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
