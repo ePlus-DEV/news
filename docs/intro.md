@@ -334,21 +334,21 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Trụ trì chùa Ba Vàng Thích Trúc Thái Minh bị xử phạt 7,5 triệu đồng](https://vtc.vn/tru-tri-chua-ba-vang-thich-truc-thai-minh-bi-xu-phat-7-5-trieu-dong-ar849991.html) - 11:55 26/01/2024
-- 🤭 [Kinh tế Trung Quốc khó phục hồi về mức trước đại dịch](https://vtc.vn/kinh-te-trung-quoc-kho-phuc-hoi-ve-muc-truoc-dai-dich-ar849940.html) - 11:06 26/01/2024
-- 🦒 [Hà Nội &#39;chốt&#39; thời gian đón khách đi tuyến đường sắt Nhổn - ga Hà Nội](https://vtc.vn/ha-noi-chot-thoi-gian-don-khach-di-tuyen-duong-sat-nhon-ga-ha-noi-ar849972.html) - 10:44 26/01/2024
-- 🌮 [Hà Nội làm làn đường dành riêng cho xe đạp ven sông Tô Lịch](https://vtc.vn/ha-noi-lam-lan-duong-danh-rieng-cho-xe-dap-ven-song-to-lich-ar849965.html) - 10:41 26/01/2024
-- 🤖 [Linh vật rồng gây tranh cãi ở Thanh Hóa: Sở VH-TT-DL nói gì?](https://vtc.vn/linh-vat-rong-gay-tranh-cai-o-thanh-hoa-so-vh-tt-dl-noi-gi-ar849963.html) - 10:08 26/01/2024
-- 🎬 [Phạt 5 triệu đồng tài xế xe buýt lấn làn, chặn đầu xe con ở Hà Nội](https://vtc.vn/phat-5-trieu-dong-tai-xe-xe-buyt-lan-lan-chan-dau-xe-con-o-ha-noi-ar849954.html) - 10:07 26/01/2024
-- 🥳 [Tuyển Việt Nam thất bại ở Asian Cup, VFF vẫn tin tưởng HLV Troussier](https://vtc.vn/tuyen-viet-nam-that-bai-o-asian-cup-vff-van-tin-tuong-hlv-troussier-ar849946.html) - 10:03 26/01/2024
-- 🎓 [Biệt thự Pháp cổ từng gây tranh cãi mở cửa đón khách sau 2 năm trùng tu](https://vtc.vn/biet-thu-phap-co-tung-gay-tranh-cai-mo-cua-don-khach-sau-2-nam-trung-tu-ar849870.html) - 09:52 26/01/2024
-- 👹 [Biệt thự Pháp cổ từng gây tranh cãi mở cửa đón khách sau 2 năm trùng tu](https://vtc.vn/biet-thu-phap-co-tung-gay-tranh-cai-mo-cua-don-khach-sau-2-nam-trung-tu-ar849870.html) - 09:52 26/01/2024
-- 🤖 [CSGT yêu cầu kiểm tra nồng độ cồn, tài xế ‘cố thủ’ trên xe hơn 2 giờ](https://vtc.vn/csgt-yeu-cau-kiem-tra-nong-do-con-tai-xe-co-thu-tren-xe-hon-2-gio-ar849905.html) - 09:49 26/01/2024
-- 🎊 [Tuyên truyền nâng tầm vị thế đối ngoại quốc phòng Việt Nam](https://vtc.vn/tuyen-truyen-nang-tam-vi-the-doi-ngoai-quoc-phong-viet-nam-ar849926.html) - 09:35 26/01/2024
-- 🐻 [Tết Nguyên đán 2024, miền Bắc có thể đón không khí lạnh](https://vtc.vn/tet-nguyen-dan-2024-mien-bac-co-the-don-khong-khi-lanh-ar849928.html) - 09:32 26/01/2024
-- 👍 [Công nghệ VVT-i của Toyota là gì?](https://vtc.vn/cong-nghe-vvt-i-cua-toyota-la-gi-ar849545.html) - 09:30 26/01/2024
-- 🪜 [Nghệ An có tân Phó Giám đốc Công an tỉnh](https://vtc.vn/nghe-an-co-tan-pho-giam-doc-cong-an-tinh-ar849892.html) - 09:29 26/01/2024
-- 🌮 [Bệnh viện ở Hà Nội công bố mức thưởng Tết, có nơi 40 triệu đồng/người](https://vtc.vn/benh-vien-o-ha-noi-cong-bo-muc-thuong-tet-co-noi-40-trieu-dong-nguoi-ar849933.html) - 09:15 26/01/2024
+- 🥸 [Cầu thủ mắc sai lầm ở Asian Cup, VFF nhờ ban trọng tài giúp tuyển Việt Nam](https://vtc.vn/cau-thu-mac-sai-lam-o-asian-cup-vff-nho-ban-trong-tai-giup-tuyen-viet-nam-ar849996.html) - 13:20 26/01/2024
+- 🤭 [Mỹ Linh từng xin loại khỏi &#39;Chị đẹp đạp gió rẽ sóng&#39;, Uyên Linh phản ứng gay gắt](https://vtc.vn/my-linh-tung-xin-loai-khoi-chi-dep-dap-gio-re-song-uyen-linh-phan-ung-gay-gat-ar849973.html) - 12:33 26/01/2024
+- 🦒 [Dự báo thời tiết ngày 27/1: Miền Bắc đón không khí lạnh tăng cường, trời mưa rét](https://vtc.vn/du-bao-thoi-tiet-ngay-27-1-mien-bac-don-khong-khi-lanh-tang-cuong-troi-mua-ret-ar849993.html) - 12:26 26/01/2024
+- 🌮 [Trụ trì chùa Ba Vàng Thích Trúc Thái Minh bị xử phạt 7,5 triệu đồng](https://vtc.vn/tru-tri-chua-ba-vang-thich-truc-thai-minh-bi-xu-phat-7-5-trieu-dong-ar849991.html) - 11:55 26/01/2024
+- 🤖 [Kinh tế Trung Quốc khó phục hồi về mức trước đại dịch](https://vtc.vn/kinh-te-trung-quoc-kho-phuc-hoi-ve-muc-truoc-dai-dich-ar849940.html) - 11:06 26/01/2024
+- 🎬 [Hà Nội &#39;chốt&#39; thời gian đón khách đi tuyến đường sắt Nhổn - ga Hà Nội](https://vtc.vn/ha-noi-chot-thoi-gian-don-khach-di-tuyen-duong-sat-nhon-ga-ha-noi-ar849972.html) - 10:44 26/01/2024
+- 🥳 [Hà Nội làm làn đường dành riêng cho xe đạp ven sông Tô Lịch](https://vtc.vn/ha-noi-lam-lan-duong-danh-rieng-cho-xe-dap-ven-song-to-lich-ar849965.html) - 10:41 26/01/2024
+- 🎓 [Linh vật rồng gây tranh cãi ở Thanh Hóa: Sở VH-TT-DL nói gì?](https://vtc.vn/linh-vat-rong-gay-tranh-cai-o-thanh-hoa-so-vh-tt-dl-noi-gi-ar849963.html) - 10:08 26/01/2024
+- 👹 [Phạt 5 triệu đồng tài xế xe buýt lấn làn, chặn đầu xe con ở Hà Nội](https://vtc.vn/phat-5-trieu-dong-tai-xe-xe-buyt-lan-lan-chan-dau-xe-con-o-ha-noi-ar849954.html) - 10:07 26/01/2024
+- 🤖 [Biệt thự Pháp cổ từng gây tranh cãi mở cửa đón khách sau 2 năm trùng tu](https://vtc.vn/biet-thu-phap-co-tung-gay-tranh-cai-mo-cua-don-khach-sau-2-nam-trung-tu-ar849870.html) - 09:52 26/01/2024
+- 🎊 [CSGT yêu cầu kiểm tra nồng độ cồn, tài xế ‘cố thủ’ trên xe hơn 2 giờ](https://vtc.vn/csgt-yeu-cau-kiem-tra-nong-do-con-tai-xe-co-thu-tren-xe-hon-2-gio-ar849905.html) - 09:49 26/01/2024
+- 🐻 [Tuyên truyền nâng tầm vị thế đối ngoại quốc phòng Việt Nam](https://vtc.vn/tuyen-truyen-nang-tam-vi-the-doi-ngoai-quoc-phong-viet-nam-ar849926.html) - 09:35 26/01/2024
+- 👍 [Tết Nguyên đán 2024, miền Bắc có thể đón không khí lạnh](https://vtc.vn/tet-nguyen-dan-2024-mien-bac-co-the-don-khong-khi-lanh-ar849928.html) - 09:32 26/01/2024
+- 🪜 [Công nghệ VVT-i của Toyota là gì?](https://vtc.vn/cong-nghe-vvt-i-cua-toyota-la-gi-ar849545.html) - 09:30 26/01/2024
+- 🌮 [Nghệ An có tân Phó Giám đốc Công an tỉnh](https://vtc.vn/nghe-an-co-tan-pho-giam-doc-cong-an-tinh-ar849892.html) - 09:29 26/01/2024
 - 🌁 [Bệnh viện ở Hà Nội công bố mức thưởng Tết, có nơi 40 triệu đồng/người](https://vtc.vn/benh-vien-o-ha-noi-cong-bo-muc-thuong-tet-co-noi-40-trieu-dong-nguoi-ar849933.html) - 09:15 26/01/2024
 - 👺 [Tại sao giá vàng SJC cao hơn PNJ?](https://vtc.vn/tai-sao-gia-vang-sjc-cao-hon-pnj-ar849784.html) - 09:00 26/01/2024
 - 🌊 [Thanh niên đi xe ngổ ngáo, tông gãy kính chiếu hậu ô tô rồi bỏ chạy](https://vtc.vn/thanh-nien-chay-xe-ngo-ngao-tong-gay-kinh-chieu-hau-o-to-roi-bo-chay-ar849924.html) - 08:58 26/01/2024
