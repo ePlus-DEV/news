@@ -69,7 +69,7 @@ const config = {
       navbar: {
         title: 'ePlus News',
         logo: {
-          alt: 'ePlus News Logo',
+          alt: 'ePlus News',
           src: 'img/logo.svg',
         },
         items: [
