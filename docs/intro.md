@@ -1,20 +1,26 @@
 ---
 sidebar_position: 1
+slug: /
 ---
 
-# Tin Tức Việt Nam 24/7
+# Trang chủ
 
 <!--ts-->
-* [Báo VnExpress](#báo-vnexpress)
-* [Báo Dân Trí](#báo-dân-trí)
-* [Báo Thanh Niên](#báo-thanh-niên)
-* [Báo Lao Động](#báo-lao-động)
-* [Báo Người Lao Động](#báo-người-lao-động)
-* [Báo SGGP](#báo-sggp)
-* [Báo VTC](#báo-vtc)
-* [Báo Chính Phủ](#báo-chính-phủ)
-* [Báo Mực Tím](#báo-mực-tím)
-* [Báo Hoa Học Trò](#báo-hoa-học-trò)
+
+Trang cung cấp một danh sách các báo điện tử hàng đầu tại Việt Nam. Bạn có thể tìm thấy thông tin mới nhất về các tin tức, sự kiện, và các bài viết đa dạng từ các nguồn tin uy tín. Dưới đây là một số báo nổi tiếng mà bạn có thể khám phá:
+
+- [Báo VnExpress](#báo-vnexpress)
+- [Báo Dân Trí](#báo-dân-trí)
+- [Báo Thanh Niên](#báo-thanh-niên)
+- [Báo Lao Động](#báo-lao-động)
+- [Báo Người Lao Động](#báo-người-lao-động)
+- [Báo SGGP](#báo-sggp)
+- [Báo VTC](#báo-vtc)
+- [Báo Chính Phủ](#báo-chính-phủ)
+- [Báo Mực Tím](#báo-mực-tím)
+- [Báo Hoa Học Trò](#báo-hoa-học-trò)
+
+Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ các nguồn tin này.
 <!--te-->
 
 ## Báo VnExpress
