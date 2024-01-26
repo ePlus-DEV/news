@@ -8,7 +8,7 @@ sidebar_position: 12
 - 🥰 [Giang hồ bắn chết hai đối thủ ở Phú Quốc bị đề nghị án tử hình](https://vnexpress.net/giang-ho-ban-chet-hai-doi-thu-o-phu-quoc-bi-de-nghi-an-tu-hinh-4705629.html) - 12:49 26/01/2024
 - 🎓 [Tông ngã cô gái, kéo vào nghĩa trang để xâm hại](https://vnexpress.net/tong-nga-co-gai-keo-vao-nghia-trang-de-xam-hai-4705642.html) - 12:45 26/01/2024
 - 🤓 [Cựu chủ tịch Khánh Hòa: &#39;Năng lực hạn chế dẫn đến sai sót&#39;](https://vnexpress.net/cuu-chu-tich-khanh-hoa-nang-luc-han-che-dan-den-sai-sot-4705509.html) - 11:52 26/01/2024
-- 🎊 [Kẻ vượt ngục &#39;đầu hàng&#39; sau 40 phút vì không chịu được lạnh](https://vnexpress.net/ke-vuot-nguc-dau-hang-sau-40-phut-vi-khong-chiu-duoc-lanh-4705620.html) - 10:50 26/01/2024
+- 🎊 [Kẻ vượt ngục xin quay lại nhà tù vì không chịu được lạnh](https://vnexpress.net/ke-vuot-nguc-dau-hang-sau-40-phut-vi-khong-chiu-duoc-lanh-4705620.html) - 10:50 26/01/2024
 - 🙉 [Sáu phút hung thủ bắn gục 3 người ở Vĩnh Long](https://vnexpress.net/sau-phut-hung-thu-ban-guc-3-nguoi-o-vinh-long-4705519.html) - 09:42 26/01/2024
 - 🤡 [Truy sát gia đình vợ do mâu thuẫn chia nợ khi ly hôn](https://vnexpress.net/truy-sat-gia-dinh-vo-do-mau-thuan-chia-no-khi-ly-hon-4705479.html) - 08:26 26/01/2024
 - 🗽 [Điều dưỡng bị kiện vì để người già hóc thịt viên đến chết](https://vnexpress.net/dieu-duong-bi-kien-vi-de-nguoi-gia-hoc-thit-vien-den-chet-4705476.html) - 07:46 26/01/2024
