@@ -53,4 +53,14 @@ sidebar_position: 1
 - 🏊 [Xe khách lao xuống vực sâu 30 m, 2 người tử vong](https://vnexpress.net/xe-khach-lao-xuong-vuc-sau-30-m-2-nguoi-tu-vong-4703883.html) - 00:49 23/01/2024
 - 🌮 [Miền Bắc rét nhất âm 1 độ C](https://vnexpress.net/mien-bac-ret-nhat-am-1-do-c-4703872.html) - 00:45 23/01/2024
 - 🫣 [Căng thẳng vé tàu, xe Tết về miền Trung](https://vnexpress.net/cang-thang-ve-tau-xe-tet-ve-mien-trung-4703846.html) - 23:00 22/01/2024
-- ⚗️ [Thợ gốm chế tác tượng rồng](https://vnexpress.net/tho-gom-che-tac-tuong-rong-4703799.html) - 17:13 22/01/2024<!-- vnexpress-thoi-su:END -->
+- ⚗️ [Thợ gốm chế tác tượng rồng](https://vnexpress.net/tho-gom-che-tac-tuong-rong-4703799.html) - 17:13 22/01/2024
+- 🌜 [Đề xuất xây thêm 6 công viên ở TP HCM](https://vnexpress.net/de-xuat-xay-them-6-cong-vien-o-tp-hcm-4703849.html) - 17:00 22/01/2024
+- 🌁 [Văn bản hướng dẫn Luật Đất đai ít nhưng phải khoa học](https://vnexpress.net/van-ban-huong-dan-luat-dat-dai-it-nhung-phai-khoa-hoc-4703822.html) - 14:12 22/01/2024
+- 🐲 [4 nữ sinh tử vong dưới hồ](https://vnexpress.net/4-nu-sinh-tu-vong-duoi-ho-4703818.html) - 12:18 22/01/2024
+- ⛽️ [Hai mẹ con bị ôtô tải tông tử vong](https://vnexpress.net/hai-me-con-bi-oto-tai-tong-tu-vong-4703760.html) - 09:48 22/01/2024
+- 🗽 [Băng xuất hiện trên đỉnh Phia Oắc, Mẫu Sơn](https://vnexpress.net/bang-xuat-hien-tren-dinh-phia-oac-mau-son-4703768.html) - 09:32 22/01/2024
+- 🔥 [Những bảo vật quốc gia mới được công nhận](https://vnexpress.net/nhung-bao-vat-quoc-gia-moi-duoc-cong-nhan-4703638.html) - 07:14 22/01/2024
+- 💯 [Cháy công ty nữ trang ở Sài Gòn, gần 40 nhân viên tháo chạy](https://vnexpress.net/chay-cong-ty-nu-trang-o-sai-gon-gan-40-nhan-vien-thao-chay-4703641.html) - 05:33 22/01/2024
+- 🦆 [Đề xuất hơn 35.000 tỷ đồng đầu tư metro Nam Thăng Long - Trần Hưng Đạo](https://vnexpress.net/de-xuat-hon-35-000-ty-dong-dau-tu-metro-nam-thang-long-tran-hung-dao-4703553.html) - 05:17 22/01/2024
+- 🫣 [Thi công cầu metro gặp sự cố, cửa ngõ TP HCM ùn tắc](https://vnexpress.net/thi-cong-cau-metro-gap-su-co-cua-ngo-tp-hcm-un-tac-4703618.html) - 04:52 22/01/2024
+- 🤡 [Miền Bắc vào đợt cao điểm rét hại](https://vnexpress.net/mien-bac-vao-dot-cao-diem-ret-hai-4703555.html) - 04:35 22/01/2024<!-- vnexpress-thoi-su:END -->
