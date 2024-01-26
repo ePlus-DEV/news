@@ -15,28 +15,37 @@ jobs:
 
       - name: Pull in vnexpress news - Thời sự
         uses: ePlus-DEV/blog-post-workflow@v1.0.1
-        with:
+        env:
           retry_count: 5
+          committer_email: "h250694@gmail.com"
+          date_format: "HH:MM dd/mm/yyyy"
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉)"
+          max_post_count: 50
+
+      - name: Pull in vnexpress news - Thời sự
+        uses: ePlus-DEV/blog-post-workflow@v1.0.1
+        with:
+          retry_count: ${{ env.retry_count }}
           readme_path: ./docs/vnexpress/thoi-su.md
           feed_list: "https://vnexpress.net/rss/thoi-su.rss"
-          committer_email: "h250694@gmail.com"
+          committer_email: ${{ env.committer_email }}
           commit_message: Get vnexpress news - thời sự
           rand_seed: "vnexpress-thoi-su"
           comment_tag_name: "vnexpress-thoi-su"
-          date_format: "HH:MM dd/mm/yyyy"
-          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
-          max_post_count: 50
+          date_format: ${{ env.date_format }}
+          template: ${{ env.template }} [$title]($url) - $date"
+          max_post_count: ${{ env.max_post_count }}
 
       - name: Pull in vnexpress news - Thế giới
         uses: ePlus-DEV/blog-post-workflow@v1.0.1
         with:
-          retry_count: 5
+          retry_count: ${{ env.retry_count }}
           readme_path: ./docs/vnexpress/the-gioi.md
           feed_list: "https://vnexpress.net/rss/the-gioi.rss"
-          committer_email: "h250694@gmail.com"
+          committer_email: ${{ env.committer_email }}
           commit_message: Get vnexpress news - Thế giới
           rand_seed: "vnexpress-the-gioi"
           comment_tag_name: "vnexpress-the-gioi"
-          date_format: "HH:MM dd/mm/yyyy"
-          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
-          max_post_count: 50
+          date_format: ${{ env.date_format }}
+          template: ${{ env.template }} [$title]($url) - $date"
+          max_post_count: ${{ env.max_post_count }}
