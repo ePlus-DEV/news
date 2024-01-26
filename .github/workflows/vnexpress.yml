@@ -9,6 +9,9 @@ on:
     workflows: ["news.yml"]
     types:
       - completed
+  pull_request:
+    branches:
+      - "main"
 jobs:
   vnexpress:
     name: VNExpress
@@ -27,10 +30,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Pull code
-        run: |
-          git pull origin main
 
       - name: Pull in vnexpress news
         uses: ePlus-DEV/blog-post-workflow@v1.0.1
