@@ -4,53 +4,53 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Khoảnh khắc xe bán tải gây tai nạn liên hoàn ở đèn đỏ](https://video.vnexpress.net/khoanh-khac-xe-ban-tai-gay-tai-nan-lien-hoan-o-den-do-4705515.html) - 08:18 26/01/2024
-- 🤓 [&#39;Tình báo quốc phòng phải có nhãn quan, tư duy nghiệp vụ sắc sảo&#39;](https://vnexpress.net/tinh-bao-quoc-phong-phai-co-nhan-quan-tu-duy-nghiep-vu-sac-sao-4705471.html) - 08:16 26/01/2024
-- ⚗️ [Ưu tiên cung cấp thông tin cho báo chí bằng văn bản điện tử](https://vnexpress.net/uu-tien-cung-cap-thong-tin-cho-bao-chi-bang-van-ban-dien-tu-4705486.html) - 07:39 26/01/2024
-- 🌊 [Miền Bắc tiếp tục rét hại đến 28/1](https://vnexpress.net/mien-bac-tiep-tuc-ret-hai-den-28-1-4705453.html) - 07:21 26/01/2024
-- 🎓 [Đà Nẵng thành lập trung tâm nghiên cứu, thiết kế vi mạch bán dẫn](https://vnexpress.net/da-nang-thanh-lap-trung-tam-nghien-cuu-thiet-ke-vi-mach-ban-dan-4705469.html) - 06:54 26/01/2024
-- 🔥 [Cầu Sài Gòn ùn tắc hơn một km sau tai nạn](https://vnexpress.net/cau-sai-gon-un-tac-hon-mot-km-sau-tai-nan-4705426.html) - 04:32 26/01/2024
-- 🦏 [Cháy nhà ở TP HCM, 6 người leo lan can thoát nạn](https://vnexpress.net/chay-nha-o-tp-hcm-6-nguoi-leo-lan-can-thoat-nan-4705349.html) - 02:30 26/01/2024
-- 👺 [Hiện trạng 6 khu đất được đề xuất làm công viên ở Sài Gòn](https://vnexpress.net/hien-trang-6-khu-dat-duoc-de-xuat-lam-cong-vien-o-sai-gon-4704777.html) - 23:00 25/01/2024
-- 🧑‍🏫 [Những &#39;con mắt&#39; canh cửa biển biên giới Việt - Campuchia](https://vnexpress.net/nhung-con-mat-canh-cua-bien-bien-gioi-viet-campuchia-4704891.html) - 21:00 25/01/2024
-- 🚦 [Rầm rộ đào vàng ngày cận Tết](https://vnexpress.net/ram-ro-dao-vang-ngay-can-tet-4705097.html) - 18:05 25/01/2024
-- 🎉 [Biệt thự 49 Trần Hưng Đạo hoàn thành trùng tu](https://vnexpress.net/biet-thu-49-tran-hung-dao-hoan-thanh-trung-tu-4705198.html) - 17:00 25/01/2024
-- 🦒 [Cứu ba người mắc kẹt trong đám cháy ở Hà Nội](https://vnexpress.net/cuu-ba-nguoi-mac-ket-trong-dam-chay-o-ha-noi-4705268.html) - 15:58 25/01/2024
-- 🤗 [&#39;Cánh chim hòa bình&#39; giành giải nhất cuộc thi kiến trúc cầu Thượng Cát](https://vnexpress.net/canh-chim-hoa-binh-gianh-giai-nhat-cuoc-thi-kien-truc-cau-thuong-cat-4705091.html) - 15:23 25/01/2024
-- 💼 [Nghiên cứu dùng Quỹ vaccine Covid-19 xóa nhà tạm, nhà dột](https://vnexpress.net/nghien-cuu-dung-quy-vaccine-covid-19-xoa-nha-tam-nha-dot-4705254.html) - 14:45 25/01/2024
-- 🤩 [Thủ tướng yêu cầu giảm thủ tục phải nộp lý lịch tư pháp](https://vnexpress.net/thu-tuong-yeu-cau-giam-thu-tuc-phai-nop-ly-lich-tu-phap-4705248.html) - 14:11 25/01/2024
-- 🤡 [Tài xế đâm xe cảnh sát giao thông rồi bỏ chạy](https://vnexpress.net/tai-xe-dam-xe-canh-sat-giao-thong-roi-bo-chay-4705162.html) - 10:39 25/01/2024
-- 💯 [TP HCM sẽ bắn pháo hoa 8 điểm dịp Tết](https://vnexpress.net/tp-hcm-se-ban-phao-hoa-8-diem-dip-tet-4705181.html) - 10:05 25/01/2024
-- 👺 [Chủ tịch An Giang Nguyễn Thanh Bình bị đề nghị kỷ luật](https://vnexpress.net/chu-tich-an-giang-nguyen-thanh-binh-bi-de-nghi-ky-luat-4705158.html) - 09:32 25/01/2024
-- 🌮 [Cựu Bí thư Bắc Ninh Nguyễn Nhân Chiến bị đề nghị kỷ luật](https://vnexpress.net/cuu-bi-thu-bac-ninh-nguyen-nhan-chien-bi-de-nghi-ky-luat-4702794.html) - 09:14 25/01/2024
-- 🥸 [Đề nghị Bộ Chính trị kỷ luật Bí thư Tỉnh ủy Lâm Đồng](https://vnexpress.net/de-nghi-bo-chinh-tri-ky-luat-bi-thu-tinh-uy-lam-dong-4705138.html) - 08:56 25/01/2024
-- 🐻 [Hai tỉnh miền Trung rút đề nghị hỗ trợ gạo cứu đói dịp Tết](https://vnexpress.net/hai-tinh-mien-trung-rut-de-nghi-ho-tro-gao-cuu-doi-dip-tet-4704780.html) - 08:06 25/01/2024
-- 👀 [Nguy hiểm rình rập trên cao tốc La Sơn - Túy Loan](https://vnexpress.net/nguy-hiem-rinh-rap-tren-cao-toc-la-son-tuy-loan-4704914.html) - 04:29 25/01/2024
-- 🤔 [Người Hà Nội trong giá rét dưới 10 độ](https://vnexpress.net/nguoi-ha-noi-trong-gia-ret-duoi-10-do-4704574.html) - 04:29 25/01/2024
-- 🕯 [Tặng quà Tết cho công nhân kèm điều kiện phải mở thẻ tín dụng](https://vnexpress.net/tang-qua-tet-cho-cong-nhan-kem-dieu-kien-phai-mo-the-tin-dung-4704736.html) - 04:21 25/01/2024
-- 😺 [Thưởng Tết ở 10 tỉnh thành nhiều lao động nhất ra sao?](https://vnexpress.net/thuong-tet-o-10-tinh-thanh-nhieu-lao-dong-nhat-ra-sao-4704051.html) - 01:17 25/01/2024
-- 🦆 [Cảnh đối lập trên công trường cao tốc Biên Hòa - Vũng Tàu](https://vnexpress.net/canh-doi-lap-tren-cong-truong-cao-toc-bien-hoa-vung-tau-4704750.html) - 00:51 25/01/2024
-- 🧰 [Công sở hơn 260 tỷ đồng ở Sầm Sơn trước ngày hoạt động](https://vnexpress.net/cong-so-hon-260-ty-dong-o-sam-son-truoc-ngay-hoat-dong-4704651.html) - 23:00 24/01/2024
-- 🦍 [Hàng trăm xe máy vô chủ trong tầng hầm chung cư](https://vnexpress.net/hang-tram-xe-may-vo-chu-trong-tang-ham-chung-cu-4704215.html) - 20:00 24/01/2024
-- 🧰 [Ông Lương Nguyễn Minh Triết làm Bí thư Tỉnh ủy Quảng Nam](https://vnexpress.net/ong-luong-nguyen-minh-triet-lam-bi-thu-tinh-uy-quang-nam-4704658.html) - 10:22 24/01/2024
-- 💃 [Hàng loạt đỉnh núi xuất hiện băng](https://vnexpress.net/hang-loat-dinh-nui-xuat-hien-bang-4704623.html) - 09:24 24/01/2024
-- 🧰 [&#39;Cải cách tiền lương phải đi kèm chính sách an sinh&#39;](https://vnexpress.net/cai-cach-tien-luong-phai-di-kem-chinh-sach-an-sinh-4704566.html) - 07:42 24/01/2024
-- 🚀 [Đề xuất dùng ngân sách làm đường, kè ở Nha Trang sau khi WB hủy tài trợ](https://vnexpress.net/de-xuat-dung-ngan-sach-lam-duong-ke-o-nha-trang-sau-khi-wb-huy-tai-tro-4704299.html) - 07:32 24/01/2024
-- 🎊 [Sẽ không chuyển đổi Khu chế xuất Tân Thuận thành đất ở](https://vnexpress.net/se-khong-chuyen-doi-khu-che-xuat-tan-thuan-thanh-dat-o-4704568.html) - 06:52 24/01/2024
-- 🤭 [Bà Tô Thị Bích Châu làm Phó chủ tịch MTTQ Việt Nam](https://vnexpress.net/ba-to-thi-bich-chau-lam-pho-chu-tich-mttq-viet-nam-4704410.html) - 03:39 24/01/2024
-- 🤗 [Miền Bắc chìm sâu trong giá rét dưới 10 độ](https://vnexpress.net/mien-bac-chim-sau-trong-gia-ret-duoi-10-do-4704387.html) - 01:32 24/01/2024
-- 🌈 [45 công trình vi phạm đất rừng Sóc Sơn chưa bị xử lý](https://vnexpress.net/45-cong-trinh-vi-pham-dat-rung-soc-son-chua-bi-xu-ly-4704305.html) - 14:53 23/01/2024
-- 🦣 [Cuộn thép 20 tấn rơi đè bẹp xe máy người đi đường](https://vnexpress.net/cuon-thep-20-tan-roi-de-bep-xe-may-nguoi-di-duong-4704301.html) - 12:20 23/01/2024
-- 🎡 [Bị phạt vì livestream &#39;rao bán 7.000 xe vi phạm&#39;](https://vnexpress.net/bi-phat-vi-livestream-rao-ban-7-000-xe-vi-pham-4704269.html) - 10:13 23/01/2024
-- 🦏 [Hiện trường xe khách lao xuống vực sâu 30 m](https://vnexpress.net/hien-truong-xe-khach-lao-xuong-vuc-sau-30-m-4704153.html) - 08:29 23/01/2024
-- 🎊 [Núi Bà Hỏa ở Quy Nhơn được bọc lưới thép chống sạt lở](https://vnexpress.net/nui-ba-hoa-o-quy-nhon-duoc-boc-luoi-thep-chong-sat-lo-4704134.html) - 08:00 23/01/2024
-- 🫶 [Cuộc sống ở &#39;vọng gác tiền tiêu&#39; biên giới Tây Nam](https://vnexpress.net/cuoc-song-o-vong-gac-tien-tieu-bien-gioi-tay-nam-4703772.html) - 06:50 23/01/2024
-- 🤔 [Xe giường nằm lộn 4 vòng khi lao xuống vực](https://vnexpress.net/xe-giuong-nam-lon-4-vong-khi-lao-xuong-vuc-4703976.html) - 05:26 23/01/2024
-- 🤠 [&#39;Thủ phủ&#39; bưởi Diễn thu hoạch bán Tết](https://vnexpress.net/thu-phu-buoi-dien-thu-hoach-ban-tet-4703373.html) - 04:00 23/01/2024
-- 🌜 [Băng phủ trắng Mẫu Sơn, chùa Đồng](https://vnexpress.net/bang-phu-trang-mau-son-chua-dong-4703932.html) - 03:14 23/01/2024
-- 🕯 [Xe khách lao xuống vực sâu 30 m, 2 người tử vong](https://vnexpress.net/xe-khach-lao-xuong-vuc-sau-30-m-2-nguoi-tu-vong-4703883.html) - 00:49 23/01/2024
-- 🤔 [Miền Bắc rét nhất âm 1 độ C](https://vnexpress.net/mien-bac-ret-nhat-am-1-do-c-4703872.html) - 00:45 23/01/2024
-- 🏊 [Căng thẳng vé tàu, xe Tết về miền Trung](https://vnexpress.net/cang-thang-ve-tau-xe-tet-ve-mien-trung-4703846.html) - 23:00 22/01/2024
-- 🌮 [Thợ gốm chế tác tượng rồng](https://vnexpress.net/tho-gom-che-tac-tuong-rong-4703799.html) - 17:13 22/01/2024
-- 🫣 [Đề xuất xây thêm 6 công viên ở TP HCM](https://vnexpress.net/de-xuat-xay-them-6-cong-vien-o-tp-hcm-4703849.html) - 17:00 22/01/2024
-- ⚗️ [Văn bản hướng dẫn Luật Đất đai ít nhưng phải khoa học](https://vnexpress.net/van-ban-huong-dan-luat-dat-dai-it-nhung-phai-khoa-hoc-4703822.html) - 14:12 22/01/2024<!-- vnexpress-thoi-su:END -->
+- 🎭 [Lực lượng Mỹ đề nghị người dân không chiếu tia laser vào chiến đấu cơ](https://vnexpress.net/luc-luong-my-de-nghi-nguoi-dan-khong-chieu-tia-laser-vao-chien-dau-co-4705527.html) - 08:32 26/01/2024"
+- 🕴 [Tín đồ móc xiên vào người trong lễ hội Hindu](https://vnexpress.net/tin-do-moc-xien-vao-nguoi-trong-le-hoi-hindu-4705334.html) - 07:56 26/01/2024"
+- 🤭 [Nỗ lực &#39;châu chấu đá voi&#39; của Haley trong cuộc đấu với Trump](https://vnexpress.net/no-luc-chau-chau-da-voi-cua-haley-trong-cuoc-dau-voi-trump-4704830.html) - 07:17 26/01/2024"
+- 🧑‍💻 [Ukraine nói an ninh Nga cản quan chức cấp cao lên chiếc Il-76 bị rơi](https://vnexpress.net/ukraine-noi-an-ninh-nga-can-quan-chuc-cap-cao-len-chiec-il-76-bi-roi-4705415.html) - 04:56 26/01/2024"
+- 🦏 [Nga, Ukraine khẩu chiến tại Hội đồng Bảo an về vụ rơi máy bay](https://vnexpress.net/nga-ukraine-khau-chien-tai-hoi-dong-bao-an-ve-vu-roi-may-bay-4705389.html) - 04:42 26/01/2024"
+- 🦒 [Israel tuyên bố phá hủy đường băng phục vụ UAV của Hezbollah](https://vnexpress.net/israel-tuyen-bo-pha-huy-duong-bang-phuc-vu-uav-cua-hezbollah-4705392.html) - 03:41 26/01/2024"
+- 🌈 [Lính Ukraine dùng súng máy hạng nặng bắn hạ tên lửa Nga](https://vnexpress.net/linh-ukraine-dung-sung-may-hang-nang-ban-ha-ten-lua-nga-4705049.html) - 03:22 26/01/2024"
+- 🧑‍🏫 [Lỗ hổng khiến phòng không Nga bị UAV xuyên phá](https://vnexpress.net/lo-hong-khien-phong-khong-nga-bi-uav-xuyen-pha-4704139.html) - 03:19 26/01/2024"
+- 🐲 [Cựu cố vấn của ông Trump bị kết án tù](https://vnexpress.net/cuu-co-van-cua-ong-trump-bi-ket-an-tu-4705326.html) - 02:50 26/01/2024"
+- 🦒 [Khoảnh khắc tên lửa Nga phóng mồi bẫy khi lao xuống Kiev](https://vnexpress.net/khoanh-khac-ten-lua-nga-phong-moi-bay-khi-lao-xuong-kiev-4705330.html) - 02:36 26/01/2024"
+- 🐻 [Vườn thú Anh lên kế hoạch chỉnh đốn vẹt chửi thề](https://vnexpress.net/vuon-thu-anh-len-ke-hoach-chinh-don-vet-chui-the-4705329.html) - 02:16 26/01/2024"
+- 🚀 [Đức bác tin chuyển tên lửa tầm xa cho Anh](https://vnexpress.net/duc-bac-tin-chuyen-ten-lua-tam-xa-cho-anh-4705314.html) - 02:01 26/01/2024"
+- 🥰 [Đồng minh muốn đảng Cộng hòa coi ông Trump là &#39;ứng viên đề cử&#39;](https://vnexpress.net/dong-minh-muon-dang-cong-hoa-coi-ong-trump-la-ung-vien-de-cu-4705296.html) - 00:54 26/01/2024"
+- 🔥 [Hamas nói sẽ tuân thủ lệnh ngừng bắn của tòa Liên Hợp Quốc](https://vnexpress.net/hamas-noi-se-tuan-thu-lenh-ngung-ban-cua-toa-lien-hop-quoc-4705297.html) - 00:20 26/01/2024"
+- 🥳 [Thổ Nhĩ Kỳ hoàn tất duyệt Thụy Điển vào NATO](https://vnexpress.net/tho-nhi-ky-hoan-tat-duyet-thuy-dien-vao-nato-4705290.html) - 23:47 25/01/2024"
+- 💼 [Nga điều tra khủng bố vụ rơi máy bay chở tù binh Ukraine](https://vnexpress.net/nga-dieu-tra-khung-bo-vu-roi-may-bay-cho-tu-binh-ukraine-4705289.html) - 23:30 25/01/2024"
+- 🤡 [Áp lực chồng chất với Boeing sau loạt sự cố](https://vnexpress.net/ap-luc-chong-chat-voi-boeing-sau-loat-su-co-4704823.html) - 22:00 25/01/2024"
+- 🌁 [Lý do ông Trump &#39;bất chiến tự nhiên thành&#39; ở Nevada](https://vnexpress.net/ly-do-ong-trump-bat-chien-tu-nhien-thanh-o-nevada-4704931.html) - 18:00 25/01/2024"
+- 🤩 [Sự thật về &#39;lãnh cung&#39; trong Tử Cấm Thành Trung Quốc](https://vnexpress.net/su-that-ve-lanh-cung-trong-tu-cam-thanh-trung-quoc-4704177.html) - 17:00 25/01/2024"
+- 🎉 [Mỹ, Anh trừng phạt lãnh đạo Houthi](https://vnexpress.net/my-anh-trung-phat-lanh-dao-houthi-4705270.html) - 16:48 25/01/2024"
+- 🎉 [Ông Trump được khuyên chọn phụ nữ làm phó tướng](https://vnexpress.net/ong-trump-duoc-khuyen-chon-phu-nu-lam-pho-tuong-4705272.html) - 16:46 25/01/2024"
+- 🌁 [Ông Trump dọa trừng phạt người tài trợ bà Haley](https://vnexpress.net/ong-trump-doa-trung-phat-nguoi-tai-tro-ba-haley-4705252.html) - 15:14 25/01/2024"
+- 🌊 [Nga phạt tù người đánh bom quán cà phê](https://vnexpress.net/nga-phat-tu-nguoi-danh-bom-quan-ca-phe-4705238.html) - 13:52 25/01/2024"
+- 🕴 [Ông Trump dẫn trước ông Biden trong bầu cử giả định](https://vnexpress.net/ong-trump-dan-truoc-ong-biden-trong-bau-cu-gia-dinh-4705239.html) - 13:31 25/01/2024"
+- 🎓 [Vụ hoàng tử bắn người khiến Arab Saudi áp lệnh cấm rượu bia](https://vnexpress.net/vu-hoang-tu-ban-nguoi-khien-arab-saudi-ap-lenh-cam-ruou-bia-4704978.html) - 13:16 25/01/2024"
+- 🦩 [Gần 30% người Gen Z ở Mỹ &#39;thuộc cộng đồng LGBTQ&#39;](https://vnexpress.net/gan-30-nguoi-gen-z-o-my-thuoc-cong-dong-lgbtq-4705081.html) - 12:41 25/01/2024"
+- 🌏 [Ukraine tấn công nhà máy lọc dầu Nga](https://vnexpress.net/ukraine-tan-cong-nha-may-loc-dau-nga-4705208.html) - 12:19 25/01/2024"
+- 🌋 [Thổ Nhĩ Kỳ nhận được gì từ ván cược Thụy Điển](https://vnexpress.net/tho-nhi-ky-nhan-duoc-gi-tu-van-cuoc-thuy-dien-4704367.html) - 12:04 25/01/2024"
+- 🪜 [Nữ nghị sĩ Hàn Quốc bị đập đá vào đầu giữa phố](https://vnexpress.net/nu-nghi-si-han-quoc-bi-dap-da-vao-dau-giua-pho-4705214.html) - 12:03 25/01/2024"
+- 🕴 [Bác sĩ Trung Quốc phẫu thuật não giữa động đất hơn 7 độ](https://vnexpress.net/bac-si-trung-quoc-phau-thuat-nao-giua-dong-dat-hon-7-do-4705122.html) - 11:43 25/01/2024"
+- 🧑‍🏫 [Mỹ thúc đẩy bán tiêm kích F-16 cho Thổ Nhĩ Kỳ](https://vnexpress.net/my-thuc-day-ban-tiem-kich-f-16-cho-tho-nhi-ky-4705182.html) - 11:33 25/01/2024"
+- 🌮 [Phụ nữ Nhật sẽ lần đầu được tham gia &#39;lễ hội khỏa thân&#39;](https://vnexpress.net/phu-nu-nhat-se-lan-dau-duoc-tham-gia-le-hoi-khoa-than-4705072.html) - 11:32 25/01/2024"
+- 🚦 [Nga kêu gọi quốc tế điều tra Ukraine vì vụ rơi máy bay chở tù binh](https://vnexpress.net/nga-keu-goi-quoc-te-dieu-tra-ukraine-vi-vu-roi-may-bay-cho-tu-binh-4705050.html) - 11:22 25/01/2024"
+- 💫 [Đức có thể chuyển tên lửa cho Anh để gián tiếp hỗ trợ Ukraine](https://vnexpress.net/duc-co-the-chuyen-ten-lua-cho-anh-de-gian-tiep-ho-tro-ukraine-4705116.html) - 10:47 25/01/2024"
+- 🤡 [Việt Nam lên án luận điệu bịa đặt của Tổ chức Theo dõi Nhân quyền](https://vnexpress.net/viet-nam-len-an-luan-dieu-bia-dat-cua-to-chuc-theo-doi-nhan-quyen-4705160.html) - 10:08 25/01/2024"
+- 🦣 [Tổng thống Philippines sắp thăm Việt Nam](https://vnexpress.net/tong-thong-philippines-sap-tham-viet-nam-4705108.html) - 09:45 25/01/2024"
+- 🎬 [&#39;Mỹ khẳng định không dung túng người liên quan vụ khủng bố Đăk Lăk&#39;](https://vnexpress.net/my-khang-dinh-khong-dung-tung-nguoi-lien-quan-vu-khung-bo-dak-lak-4705147.html) - 09:24 25/01/2024"
+- 🎉 [Người Nhật tranh cãi về tân Hoa hậu gốc Ukraine](https://vnexpress.net/nguoi-nhat-tranh-cai-ve-tan-hoa-hau-goc-ukraine-4705066.html) - 08:39 25/01/2024"
+- 🎡 [Sóng cuốn phăng cửa tại căn cứ Mỹ](https://vnexpress.net/song-cuon-phang-cua-tai-can-cu-my-4705080.html) - 07:53 25/01/2024"
+- 🌜 [Tranh cãi quanh vụ &#39;máy bay Nga chở tù binh Ukraine bị bắn rơi&#39;](https://vnexpress.net/tranh-cai-quanh-vu-may-bay-nga-cho-tu-binh-ukraine-bi-ban-roi-4705001.html) - 07:38 25/01/2024"
+- 🎡 [Nhật tuyên tử hình kẻ đốt xưởng phim khiến 36 người chết](https://vnexpress.net/nhat-tuyen-tu-hinh-ke-dot-xuong-phim-khien-36-nguoi-chet-4705006.html) - 07:20 25/01/2024"
+- 🤗 [Dân số giảm, người Hàn Quốc vẫn khó mua nhà](https://vnexpress.net/dan-so-giam-nguoi-han-quoc-van-kho-mua-nha-4704909.html) - 07:00 25/01/2024"
+- 🦩 [Nga chế thiết bị giúp lính làm quen với vụ nổ hạt nhân](https://vnexpress.net/nga-che-thiet-bi-giup-linh-lam-quen-voi-vu-no-hat-nhan-4704631.html) - 06:39 25/01/2024"
+- 🎓 [Xác vận tải cơ Nga chi chít lỗ thủng trên cánh đồng](https://vnexpress.net/xac-van-tai-co-nga-chi-chit-lo-thung-tren-canh-dong-4704998.html) - 05:03 25/01/2024"
+- 🌁 [Hỏa hoạn khiến 39 người chết ở Trung Quốc do thi công trái phép](https://vnexpress.net/hoa-hoan-khien-39-nguoi-chet-o-trung-quoc-do-thi-cong-trai-phep-4704955.html) - 04:54 25/01/2024"
+- 🤩 [Nga tuyên bố tập kích tổ hợp phòng không hơn nửa tỷ USD của Ukraine](https://vnexpress.net/nga-tuyen-bo-tap-kich-to-hop-phong-khong-hon-nua-ty-usd-cua-ukraine-4704968.html) - 04:48 25/01/2024"
+- 👹 [Nhật Bản cho phép tù nhân nam dùng sản phẩm dưỡng da](https://vnexpress.net/nhat-ban-cho-phep-tu-nhan-nam-dung-san-pham-duong-da-4704937.html) - 04:33 25/01/2024"
+- ⛽️ [Thông điệp của Triều Tiên khi coi Hàn Quốc là &#39;ngoại bang&#39;](https://vnexpress.net/thong-diep-cua-trieu-tien-khi-coi-han-quoc-la-ngoai-bang-4704579.html) - 04:19 25/01/2024"
+- 🚀 [Nạn trộm ôtô hoành hành ở Canada](https://vnexpress.net/nan-trom-oto-hoanh-hanh-o-canada-4704616.html) - 04:13 25/01/2024"
+- 🎡 [Xe tăng Israel bị tố tấn công trại tị nạn của LHQ ở Gaza](https://vnexpress.net/xe-tang-israel-bi-to-tan-cong-trai-ti-nan-cua-lhq-o-gaza-4704920.html) - 03:45 25/01/2024"<!-- vnexpress-thoi-su:END -->
