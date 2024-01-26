@@ -63,8 +63,7 @@ sidebar_position: 1
 - 🪜 [Pochettino: &#39;Chelsea cần danh hiệu, không cần thêm tân binh&#39;](https://vnexpress.net/pochettino-chelsea-can-danh-hieu-khong-can-them-tan-binh-4705355.html) - 02:50 26/01/2024
 - 🚦 [Cựu cố vấn của ông Trump bị kết án tù](https://vnexpress.net/cuu-co-van-cua-ong-trump-bi-ket-an-tu-4705326.html) - 02:50 26/01/2024
 - 🕯 [Chưa đến Tết đã tiêu hết tiền thưởng](https://vnexpress.net/chua-den-tet-da-tieu-het-tien-thuong-4705336.html) - 02:42 26/01/2024
-- 💪 [Cơ chế biến gấu nước thành sinh vật khó hủy diệt](https://vnexpress.net/co-che-bien-gau-nuoc-thanh-sinh-vat-kho-huy-diet-4705183.html) - 02:41 26/01/2024
-- 🧑‍🏫 [Khoảnh khắc tên lửa Nga phóng mồi bẫy khi lao xuống Kiev](https://vnexpress.net/khoanh-khac-ten-lua-nga-phong-moi-bay-khi-lao-xuong-kiev-4705330.html) - 02:36 26/01/2024<!-- vnexpress:END -->
+- 💪 [Cơ chế biến gấu nước thành sinh vật khó hủy diệt](https://vnexpress.net/co-che-bien-gau-nuoc-thanh-sinh-vat-kho-huy-diet-4705183.html) - 02:41 26/01/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
