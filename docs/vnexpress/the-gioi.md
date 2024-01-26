@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Trung Quốc tuyên bố phát triển thành công đạn pháo &#39;trong mơ&#39;](https://vnexpress.net/trung-quoc-tuyen-bo-phat-trien-thanh-cong-dan-phao-trong-mo-4704713.html) - 09:20 26/01/2024"
-- 🕴 [Mỹ thi hành án tử đầu tiên bằng khí nitơ](https://vnexpress.net/my-thi-hanh-an-tu-dau-tien-bang-khi-nito-4705499.html) - 09:05 26/01/2024"
+- 🕴 [Mỹ lần đầu tiên thi hành án tử bằng khí nitơ](https://vnexpress.net/my-lan-dau-tien-thi-hanh-an-tu-bang-khi-nito-4705499.html) - 09:05 26/01/2024"
 - 🤭 [Lực lượng Mỹ đề nghị người dân không chiếu tia laser vào chiến đấu cơ](https://vnexpress.net/luc-luong-my-de-nghi-nguoi-dan-khong-chieu-tia-laser-vao-chien-dau-co-4705527.html) - 08:32 26/01/2024"
 - 🧑‍💻 [Tín đồ móc xiên vào người trong lễ hội Hindu](https://vnexpress.net/tin-do-moc-xien-vao-nguoi-trong-le-hoi-hindu-4705334.html) - 07:56 26/01/2024"
 - 🦏 [Nỗ lực &#39;châu chấu đá voi&#39; của Haley trong cuộc đấu với Trump](https://vnexpress.net/no-luc-chau-chau-da-voi-cua-haley-trong-cuoc-dau-voi-trump-4704830.html) - 07:17 26/01/2024"
