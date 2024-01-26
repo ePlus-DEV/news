@@ -108,5 +108,5 @@ jobs:
           rand_seed: ${{ matrix.rand_seed }}
           comment_tag_name: ${{ matrix.rand_seed }}
           date_format: ${{ env.date_format }}
-          template: ${{ env.template }} [$title]($url) - $date"
+          template: ${{ env.template }} [$title]($url) - $date
           max_post_count: ${{ env.max_post_count }}
