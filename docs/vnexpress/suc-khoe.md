@@ -53,4 +53,14 @@ sidebar_position: 10
 - 🎬 [Nguyên nhân gây đầy bụng buồn nôn](https://vnexpress.net/nguyen-nhan-gay-day-bung-buon-non-4704894.html) - 03:30 25/01/2024
 - 🪜 [Thanh niên 22 tuổi ghép phổi sau nhiều năm hút thuốc lá điện tử](https://vnexpress.net/thanh-nien-22-tuoi-ghep-phoi-sau-nhieu-nam-hut-thuoc-la-dien-tu-4704678.html) - 02:31 25/01/2024
 - 🦣 [Cách tập thể dục khi trời rét để tránh đột quỵ](https://vnexpress.net/cach-tap-the-duc-khi-troi-ret-de-tranh-dot-quy-4703978.html) - 02:00 25/01/2024
-- 🧐 [Viêm vòm mũi họng khiến bé gái ba tuổi ngáy to](https://vnexpress.net/viem-vom-mui-hong-khien-be-gai-ba-tuoi-ngay-to-4704835.html) - 02:00 25/01/2024<!-- vnexpress-suc-khoe:END -->
+- 🧐 [Viêm vòm mũi họng khiến bé gái ba tuổi ngáy to](https://vnexpress.net/viem-vom-mui-hong-khien-be-gai-ba-tuoi-ngay-to-4704835.html) - 02:00 25/01/2024
+- 🤡 [6 món ăn giàu kẽm phòng bệnh khi trời lạnh](https://vnexpress.net/6-mon-an-giau-kem-phong-benh-khi-troi-lanh-4704632.html) - 02:00 25/01/2024
+- 👍 [82 người tử vong do bệnh dại trong năm 2023](https://vnexpress.net/82-nguoi-tu-vong-do-benh-dai-trong-nam-2023-4704847.html) - 01:58 25/01/2024
+- 💡 [Bữa cơm tất niên ở viện ung thư](https://vnexpress.net/bua-com-tat-nien-o-vien-ung-thu-4704747.html) - 00:16 25/01/2024
+- 💯 [Nhiễm trùng da mới biết bị tiểu đường](https://vnexpress.net/nhiem-trung-da-moi-biet-bi-tieu-duong-4704527.html) - 00:00 25/01/2024
+- 🧠 [Dịch bệnh X - mối đe dọa tương lai](https://vnexpress.net/dich-benh-x-moi-de-doa-tuong-lai-4704723.html) - 23:07 24/01/2024
+- 🎡 [Loại cây hấp thu độc tố, tượng trưng tài lộc ngày Tết](https://vnexpress.net/loai-cay-hap-thu-doc-to-tuong-trung-tai-loc-ngay-tet-4703957.html) - 22:06 24/01/2024
+- 🌏 [6 điều cần biết về biến chủng Covid JN.1](https://vnexpress.net/6-dieu-can-biet-ve-bien-chung-covid-jn-1-4704549.html) - 22:04 24/01/2024
+- ⚗️ [Ung thư ống hậu môn](https://vnexpress.net/ung-thu-ong-hau-mon-4704101.html) - 17:03 24/01/2024
+- 👨‍🏫 [Bị bắn vào đầu vẫn ăn nhậu suốt 4 ngày](https://vnexpress.net/bi-ban-vao-dau-van-an-nhau-suot-4-ngay-4704697.html) - 12:24 24/01/2024
+- 🤖 [Hôn mê sau đốt than hoa sưởi ấm trong phòng kín](https://vnexpress.net/hon-me-sau-dot-than-hoa-suoi-am-trong-phong-kin-4704668.html) - 09:35 24/01/2024<!-- vnexpress-suc-khoe:END -->
