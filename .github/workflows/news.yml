@@ -6,7 +6,7 @@ on:
     branches:
       - 'main'
   repository_dispatch:
-  types: [deploy]
+    types: [deploy]
   workflow_dispatch:
 jobs:
   update-readme-with-blog:
