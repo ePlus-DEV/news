@@ -17,7 +17,7 @@ jobs:
         uses: ePlus-DEV/blog-post-workflow@v1.0.1
         with:
           retry_count: 5
-          readme_path: ./docs/intro.md
+          readme_path: ./docs/index.md
           feed_list: "https://vnexpress.net/rss/tin-moi-nhat.rss"
           committer_email: "h250694@gmail.com"
           commit_message: Get vnexpress news
@@ -31,7 +31,7 @@ jobs:
         uses: ePlus-DEV/blog-post-workflow@v1.0.1
         with:
           retry_count: 5
-          readme_path: ./docs/intro.md
+          readme_path: ./docs/index.md
           feed_list: "https://dantri.com.vn/rss/home.rss"
           committer_email: "h250694@gmail.com"
           commit_message: Get dantri news
@@ -45,7 +45,7 @@ jobs:
         uses: ePlus-DEV/blog-post-workflow@v1.0.1
         with:
           retry_count: 5
-          readme_path: ./docs/intro.md
+          readme_path: ./docs/index.md
           feed_list: "https://thanhnien.vn/rss/home.rss"
           committer_email: "h250694@gmail.com"
           commit_message: Get thanhnien news
@@ -59,7 +59,7 @@ jobs:
         uses: ePlus-DEV/blog-post-workflow@v1.0.1
         with:
           retry_count: 5
-          readme_path: ./docs/intro.md
+          readme_path: ./docs/index.md
           feed_list: "https://laodong.vn/rss/home.rss"
           committer_email: "h250694@gmail.com"
           commit_message: Get laodong news
@@ -73,7 +73,7 @@ jobs:
         uses: ePlus-DEV/blog-post-workflow@v1.0.1
         with:
           retry_count: 5
-          readme_path: ./docs/intro.md
+          readme_path: ./docs/index.md
           feed_list: "https://nld.com.vn/rss/home.rss"
           committer_email: "h250694@gmail.com"
           commit_message: Get nld news
@@ -87,7 +87,7 @@ jobs:
       #   uses: ePlus-DEV/blog-post-workflow@v1.0.1
       #   with:
       #     retry_count: 5
-      #     readme_path: ./docs/intro.md
+      #     readme_path: ./docs/index.md
       #     feed_list: "https://www.sggp.org.vn/rss/home.rss"
       #     committer_email: "h250694@gmail.com"
       #     commit_message: Get sggp news
@@ -101,7 +101,7 @@ jobs:
         uses: ePlus-DEV/blog-post-workflow@v1.0.1
         with:
           retry_count: 5
-          readme_path: ./docs/intro.md
+          readme_path: ./docs/index.md
           feed_list: "https://vtc.vn/rss/feed.rss"
           committer_email: "h250694@gmail.com"
           commit_message: Get vtc news
@@ -115,7 +115,7 @@ jobs:
       #   uses: ePlus-DEV/blog-post-workflow@v1.0.1
       #   with:
       #     retry_count: 5
-      #     readme_path: ./docs/intro.md
+      #     readme_path: ./docs/index.md
       #     feed_list: "https://baochinhphu.vn/home.rss"
       #     committer_email: "h250694@gmail.com"
       #     commit_message: Get cp news
@@ -129,7 +129,7 @@ jobs:
         uses: ePlus-DEV/blog-post-workflow@v1.0.1
         with:
           retry_count: 5
-          readme_path: ./docs/intro.md
+          readme_path: ./docs/index.md
           feed_list: "https://muctim.tuoitre.vn/rss/home.rss"
           committer_email: "h250694@gmail.com"
           commit_message: Get muctim news
@@ -143,7 +143,7 @@ jobs:
       #   uses: ePlus-DEV/blog-post-workflow@v1.0.1
       #   with:
       #     retry_count: 5
-      #     readme_path: ./docs/intro.md
+      #     readme_path: ./docs/index.md
       #     feed_list: "https://hoahoctro.tienphong.vn/rss/home.rss"
       #     committer_email: "h250694@gmail.com"
       #     commit_message: Get hoahoctro news
