@@ -11,15 +11,15 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        feed_list:
-          [
-            "https://vnexpress.net/rss/thoi-su.rss",
-            "https://vnexpress.net/rss/the-gioi.rss",
-          ]
-        readme_path:
-          ["./docs/vnexpress/thoi-su.md", "./docs/vnexpress/the-gioi.md"]
-        rand_seed: ["vnexpress-thoi-su", "vnexpress-the-gioi"]
-        comment_tag_name: ["vnexpress-thoi-su", "vnexpress-the-gioi"]
+        include:
+          - feed_list: "https://vnexpress.net/rss/thoi-su.rss"
+            readme_path: "./docs/vnexpress/thoi-su.md"
+            rand_seed: "vnexpress-thoi-su"
+            comment_tag_name: "vnexpress-thoi-su"
+          - feed_list: "https://vnexpress.net/rss/the-gioi.rss"
+            readme_path: "./docs/vnexpress/the-gioi.md"
+            rand_seed: "vnexpress-the-gioi"
+            comment_tag_name: "vnexpress-the-gioi"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
