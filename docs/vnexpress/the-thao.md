@@ -53,4 +53,14 @@ sidebar_position: 5
 - 🕯 [Barca bị loại ở Cup Nhà Vua](https://vnexpress.net/barca-bi-loai-o-cup-nha-vua-4704802.html) - 01:24 25/01/2024
 - 📝 [Liverpool gặp Chelsea ở chung kết Cup Liên đoàn](https://vnexpress.net/liverpool-gap-chelsea-o-chung-ket-cup-lien-doan-4704809.html) - 23:53 24/01/2024
 - 🧐 [Alcaraz bị Zverev loại ở tứ kết Australia Mở rộng](https://vnexpress.net/alcaraz-bi-zverev-loai-o-tu-ket-australia-mo-rong-4704808.html) - 23:44 24/01/2024
-- 🙉 [Hong Kong Marathon thưởng gần 1300 USD cho runner đạt sub3](https://vnexpress.net/hong-kong-marathon-thuong-gan-1300-usd-cho-runner-dat-sub3-4704805.html) - 23:38 24/01/2024<!-- vnexpress-the-thao:END -->
+- 🙉 [Hong Kong Marathon thưởng gần 1300 USD cho runner đạt sub3](https://vnexpress.net/hong-kong-marathon-thuong-gan-1300-usd-cho-runner-dat-sub3-4704805.html) - 23:38 24/01/2024
+- 🏊 [Kane giúp Bayern giải tỏa áp lực](https://vnexpress.net/kane-giup-bayern-giai-toa-ap-luc-4704801.html) - 23:14 24/01/2024
+- 🌊 [Bùi Hoàng Việt Anh ám chỉ Việt Nam thua vì thẻ đỏ](https://vnexpress.net/bui-hoang-viet-anh-am-chi-viet-nam-thua-vi-the-do-4704773.html) - 15:02 24/01/2024
+- 👨‍🏫 [HLV Iraq: &#39;Việt Nam là đối thủ khó chơi&#39;](https://vnexpress.net/hlv-iraq-viet-nam-la-doi-thu-kho-choi-4704761.html) - 13:47 24/01/2024
+- 🥷 [HLV Troussier: &#39;Việt Nam rời Asian Cup 2023 với hình ảnh đẹp&#39;](https://vnexpress.net/hlv-troussier-viet-nam-roi-asian-cup-2023-voi-hinh-anh-dep-4704751.html) - 13:46 24/01/2024
+- ⚗️ [Medvedev chật vật vào bán kết Australia Mở rộng](https://vnexpress.net/medvedev-chat-vat-vao-ban-ket-australia-mo-rong-4704715.html) - 13:35 24/01/2024
+- 🌮 [Cựu giám sát VFF: &#39;Trọng tài xử lý đúng các lỗi của Việt Nam&#39;](https://vnexpress.net/cuu-giam-sat-vff-trong-tai-xu-ly-dung-cac-loi-cua-viet-nam-4704754.html) - 13:02 24/01/2024
+- 🤩 [Nhật Bản thắng dễ Indonesia](https://vnexpress.net/nhat-ban-vs-indonesia-4704709-tong-thuat.html) - 10:32 24/01/2024
+- 🏊 [Việt Nam lại thua Iraq ở phút cuối](https://vnexpress.net/viet-nam-vs-iraq-4704682-tong-thuat.html) - 10:30 24/01/2024
+- 🐎 [CĐV hốt bạc khi golfer nghiệp dư vô địch PGA Tour](https://vnexpress.net/cdv-hot-bac-khi-golfer-nghiep-du-vo-dich-pga-tour-4704661.html) - 08:55 24/01/2024
+- 💫 [Lập hội đồng kỷ luật hai HLV đội TDDC Hà Nội](https://vnexpress.net/lap-hoi-dong-ky-luat-hai-hlv-doi-tddc-ha-noi-4704571.html) - 07:10 24/01/2024<!-- vnexpress-the-thao:END -->
