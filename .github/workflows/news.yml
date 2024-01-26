@@ -1,18 +1,18 @@
 name: "Cronjob"
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: "*/5 * * * *"
   push:
     branches:
-      - 'main'
+      - "main"
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-homepages:
+    name: Get a list of news from the homepages of various newspapers
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        
+
       - name: Pull in vnexpress news
         uses: ePlus-DEV/blog-post-workflow@v1.0.1
         with:
@@ -23,7 +23,7 @@ jobs:
           commit_message: Get vnexpress news
           rand_seed: "vnexpress"
           comment_tag_name: "vnexpress"
-          date_format: 'HH:MM dd/mm/yyyy'
+          date_format: "HH:MM dd/mm/yyyy"
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
           max_post_count: 50
 
@@ -37,7 +37,7 @@ jobs:
           commit_message: Get dantri news
           rand_seed: "dantri"
           comment_tag_name: "dantri"
-          date_format: 'HH:MM dd/mm/yyyy'
+          date_format: "HH:MM dd/mm/yyyy"
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
           max_post_count: 50
 
@@ -51,7 +51,7 @@ jobs:
           commit_message: Get thanhnien news
           rand_seed: "thanhnien"
           comment_tag_name: "thanhnien"
-          date_format: 'HH:MM dd/mm/yyyy'
+          date_format: "HH:MM dd/mm/yyyy"
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
           max_post_count: 50
 
@@ -65,7 +65,7 @@ jobs:
           commit_message: Get laodong news
           rand_seed: "laodong"
           comment_tag_name: "laodong"
-          date_format: 'HH:MM dd/mm/yyyy'
+          date_format: "HH:MM dd/mm/yyyy"
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
           max_post_count: 50
 
@@ -79,7 +79,7 @@ jobs:
           commit_message: Get nld news
           rand_seed: "nld"
           comment_tag_name: "nld"
-          date_format: 'HH:MM dd/mm/yyyy'
+          date_format: "HH:MM dd/mm/yyyy"
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
           max_post_count: 50
 
@@ -107,7 +107,7 @@ jobs:
           commit_message: Get vtc news
           rand_seed: "vtc"
           comment_tag_name: "vtc"
-          date_format: 'HH:MM dd/mm/yyyy'
+          date_format: "HH:MM dd/mm/yyyy"
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
           max_post_count: 50
 
@@ -135,7 +135,7 @@ jobs:
           commit_message: Get muctim news
           rand_seed: "muctim"
           comment_tag_name: "muctim"
-          date_format: 'HH:MM dd/mm/yyyy'
+          date_format: "HH:MM dd/mm/yyyy"
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
           max_post_count: 50
 

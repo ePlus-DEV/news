@@ -1,17 +1,9 @@
 name: "Cronjob VNExpress"
 on:
-  schedule:
-    - cron: "*/5 * * * *"
-  push:
-    branches:
-      - "main"
   workflow_run:
-    workflows: ["news.yml"]
-    types:
-      - completed
-  pull_request:
-    branches:
-      - "main"
+    workflows: ["Cronjob"]
+    types: [completed]
+
 jobs:
   vnexpress:
     name: VNExpress
