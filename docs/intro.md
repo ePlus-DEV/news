@@ -66,7 +66,7 @@ sidebar_position: 1
 - 💪 [Honda CB350 H&#39;ness - môtô cho người hoài cổ](https://vnexpress.net/honda-cb350-h-ness-moto-cho-nguoi-hoai-co-4704784.html) - 18:00 25/01/2024
 - 🧑‍🏫 [Loại quả giúp thanh lọc, giải ngấy ngày Tết](https://vnexpress.net/loai-qua-giup-thanh-loc-giai-ngay-ngay-tet-4700551.html) - 17:04 25/01/2024
 - 🎓 [Đường sinh mệnh tiết lộ cách sống và công việc của bạn](https://vnexpress.net/duong-sinh-menh-tiet-lo-cach-song-va-cong-viec-cua-ban-4704953.html) - 17:01 25/01/2024
-- 💫 [Chiếm làn trái, chạy &#39;rùa bò&#39;](https://vnexpress.net/chiem-lan-trai-chay-rua-bo-4705274.html) - 17:00 25/01/2024
+- 💫 [Xe &#39;rùa bò&#39; trên cao tốc](https://vnexpress.net/xe-rua-bo-tren-cao-toc-4705274.html) - 17:00 25/01/2024
 - 🤩 [Mất ăn mất ngủ từ khi chuyển việc](https://vnexpress.net/mat-an-mat-ngu-tu-khi-chuyen-viec-4705234.html) - 17:00 25/01/2024
 - 🏊 [Những nhà khoa học góp phần phát hiện điện](https://vnexpress.net/nhung-nha-khoa-hoc-gop-phan-phat-hien-dien-4705215.html) - 17:00 25/01/2024<!-- vnexpress:END -->
 
