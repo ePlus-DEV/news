@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Thụy Điển nói sẽ không nhượng bộ Hungary để gia nhập NATO](https://vnexpress.net/thuy-dien-noi-se-khong-nhuong-bo-hungary-de-gia-nhap-nato-4705656.html) - 13:04 26/01/2024
+- 🎭 [Thụy Điển sẽ không nhượng bộ Hungary để gia nhập NATO](https://vnexpress.net/thuy-dien-se-khong-nhuong-bo-hungary-de-gia-nhap-nato-4705656.html) - 13:04 26/01/2024
 - 🕴 [Những điểm nóng chiến sự đe dọa triển vọng tranh cử của ông Biden](https://vnexpress.net/nhung-diem-nong-chien-su-de-doa-trien-vong-tranh-cu-cua-ong-biden-4705309.html) - 12:00 26/01/2024
 - 🤭 [Nga công bố mẫu UAV &#39;nhanh nhất chiến trường Ukraine&#39;](https://vnexpress.net/nga-cong-bo-mau-uav-nhanh-nhat-chien-truong-ukraine-4705635.html) - 11:46 26/01/2024
 - 🧑‍💻 [Nga bắt hai người bị nghi là gián điệp Ukraine](https://vnexpress.net/nga-bat-hai-nguoi-bi-nghi-la-gian-diep-ukraine-4705644.html) - 11:27 26/01/2024
