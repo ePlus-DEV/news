@@ -9,11 +9,22 @@ jobs:
   vnexpress:
     name: VNExpress
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        feed_list:
+          [
+            "https://vnexpress.net/rss/thoi-su.rss",
+            "https://vnexpress.net/rss/the-gioi.rss",
+          ]
+        readme_path:
+          ["./docs/vnexpress/thoi-su.md", "./docs/vnexpress/the-gioi.md"]
+        rand_seed: ["vnexpress-thoi-su", "vnexpress-the-gioi"]
+        comment_tag_name: ["vnexpress-thoi-su", "vnexpress-the-gioi"]
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Pull in vnexpress news - Thời sự
+      - name: Pull in vnexpress news
         uses: ePlus-DEV/blog-post-workflow@v1.0.1
         env:
           retry_count: 5
@@ -21,31 +32,14 @@ jobs:
           date_format: "HH:MM dd/mm/yyyy"
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉)"
           max_post_count: 50
-
-      - name: Pull in vnexpress news - Thời sự
-        uses: ePlus-DEV/blog-post-workflow@v1.0.1
         with:
           retry_count: ${{ env.retry_count }}
-          readme_path: ./docs/vnexpress/thoi-su.md
-          feed_list: "https://vnexpress.net/rss/thoi-su.rss"
+          readme_path: ${{ matrix.readme_path }}
+          feed_list: ${{ matrix.feed_list }}
           committer_email: ${{ env.committer_email }}
-          commit_message: Get vnexpress news - thời sự
-          rand_seed: "vnexpress-thoi-su"
-          comment_tag_name: "vnexpress-thoi-su"
-          date_format: ${{ env.date_format }}
-          template: ${{ env.template }} [$title]($url) - $date"
-          max_post_count: ${{ env.max_post_count }}
-
-      - name: Pull in vnexpress news - Thế giới
-        uses: ePlus-DEV/blog-post-workflow@v1.0.1
-        with:
-          retry_count: ${{ env.retry_count }}
-          readme_path: ./docs/vnexpress/the-gioi.md
-          feed_list: "https://vnexpress.net/rss/the-gioi.rss"
-          committer_email: ${{ env.committer_email }}
-          commit_message: Get vnexpress news - Thế giới
-          rand_seed: "vnexpress-the-gioi"
-          comment_tag_name: "vnexpress-the-gioi"
+          commit_message: "Get vnexpress news - ${{ matrix.comment_tag_name }}"
+          rand_seed: ${{ matrix.rand_seed }}
+          comment_tag_name: ${{ matrix.comment_tag_name }}
           date_format: ${{ env.date_format }}
           template: ${{ env.template }} [$title]($url) - $date"
           max_post_count: ${{ env.max_post_count }}
