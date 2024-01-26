@@ -6,7 +6,7 @@ on:
 
 jobs:
   vnexpress:
-    name: VNExpress
+    name: VNExpress - ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -14,11 +14,12 @@ jobs:
           - feed_list: "https://vnexpress.net/rss/thoi-su.rss"
             readme_path: "./docs/vnexpress/thoi-su.md"
             rand_seed: "vnexpress-thoi-su"
-            comment_tag_name: "vnexpress-thoi-su"
           - feed_list: "https://vnexpress.net/rss/the-gioi.rss"
             readme_path: "./docs/vnexpress/the-gioi.md"
             rand_seed: "vnexpress-the-gioi"
-            comment_tag_name: "vnexpress-the-gioi"
+          - feed_list: "https://vnexpress.net/rss/kinh-doanh.rss"
+            readme_path: "./docs/vnexpress/kinh-doanh.md"
+            rand_seed: "vnexpress-kinh-doanh"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -36,9 +37,9 @@ jobs:
           readme_path: ${{ matrix.readme_path }}
           feed_list: ${{ matrix.feed_list }}
           committer_email: ${{ env.committer_email }}
-          commit_message: "Get vnexpress news - ${{ matrix.comment_tag_name }}"
+          commit_message: "Get vnexpress news - ${{ matrix.rand_seed }}"
           rand_seed: ${{ matrix.rand_seed }}
-          comment_tag_name: ${{ matrix.comment_tag_name }}
+          comment_tag_name: ${{ matrix.rand_seed }}
           date_format: ${{ env.date_format }}
           template: ${{ env.template }} [$title]($url) - $date"
           max_post_count: ${{ env.max_post_count }}
