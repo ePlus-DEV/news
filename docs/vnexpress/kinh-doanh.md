@@ -53,4 +53,14 @@ sidebar_position: 3
 - 🥸 [PNJ lãi kỷ lục](https://vnexpress.net/pnj-lai-ky-luc-4703831.html) - 05:36 23/01/2024
 - 🦆 [Hòa Phát lãi hơn 6.800 tỷ đồng năm ngoái](https://vnexpress.net/hoa-phat-lai-hon-6-800-ty-dong-nam-ngoai-4703790.html) - 23:59 22/01/2024
 - 🌋 [Lợi nhuận Techcombank giảm](https://vnexpress.net/loi-nhuan-techcombank-giam-4703842.html) - 23:52 22/01/2024
-- 🦍 [Doanh nghiệp bán lẻ vẫn muốn có chiết khấu cố định xăng dầu](https://vnexpress.net/doanh-nghiep-ban-le-van-muon-co-chiet-khau-co-dinh-xang-dau-4703702.html) - 23:42 22/01/2024<!-- vnexpress-kinh-doanh:END -->
+- 🦍 [Doanh nghiệp bán lẻ vẫn muốn có chiết khấu cố định xăng dầu](https://vnexpress.net/doanh-nghiep-ban-le-van-muon-co-chiet-khau-co-dinh-xang-dau-4703702.html) - 23:42 22/01/2024
+- 🤔 [Ngân hàng tiếp tục hạ giá du thuyền của FLC thêm 2,6 tỷ đồng](https://vnexpress.net/ngan-hang-tiep-tuc-ha-gia-du-thuyen-cua-flc-them-2-6-ty-dong-4703803.html) - 11:52 22/01/2024
+- 🧰 [Người Mỹ lạc quan về nền kinh tế](https://vnexpress.net/nguoi-my-lac-quan-ve-nen-kinh-te-4703711.html) - 11:13 22/01/2024
+- 🌝 [Nga thành nhà cung cấp dầu thô lớn nhất cho Trung Quốc](https://vnexpress.net/nga-thanh-nha-cung-cap-dau-tho-lon-nhat-cho-trung-quoc-4703684.html) - 10:10 22/01/2024
+- 👍 [Giá USD tự do vượt 25.000 đồng](https://vnexpress.net/gia-usd-tu-do-vuot-25-000-dong-4703750.html) - 09:32 22/01/2024
+- 🗽 [Cổ phiếu Hòa Phát đỡ thị trường](https://vnexpress.net/co-phieu-hoa-phat-do-thi-truong-4703737.html) - 08:48 22/01/2024
+- 🐎 [Xuất khẩu rau quả tăng đột biến tháng đầu năm](https://vnexpress.net/xuat-khau-rau-qua-tang-dot-bien-thang-dau-nam-4703584.html) - 07:01 22/01/2024
+- 🪄 [Sản phẩm hình rồng hút hàng ở Trung Quốc](https://vnexpress.net/san-pham-hinh-rong-hut-hang-o-trung-quoc-4703552.html) - 05:40 22/01/2024
+- 🎊 [Ngân hàng phải công khai cổ đông nắm từ 1% vốn điều lệ](https://vnexpress.net/ngan-hang-phai-cong-khai-co-dong-nam-tu-1-von-dieu-le-4703520.html) - 04:40 22/01/2024
+- 🗽 [Hãng tàu cao tốc Superdong lỗ trở lại vì du lịch Phú Quốc chưa phục hồi](https://vnexpress.net/hang-tau-cao-toc-superdong-lo-tro-lai-vi-du-lich-phu-quoc-chua-phuc-hoi-4703462.html) - 03:59 22/01/2024
+- 🦩 [Giá vàng được dự đoán tăng trong tuần này](https://vnexpress.net/gia-vang-duoc-du-doan-tang-trong-tuan-nay-4703393.html) - 00:12 22/01/2024<!-- vnexpress-kinh-doanh:END -->
