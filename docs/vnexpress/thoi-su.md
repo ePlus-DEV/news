@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Khoảnh khắc xe bán tải gây tai nạn liên hoàn ở đèn đỏ](https://video.vnexpress.net/khoanh-khac-xe-ban-tai-gay-tai-nan-lien-hoan-o-den-do-4705515.html) - 08:18 26/01/2024"
 - 🤓 [&#39;Tình báo quốc phòng phải có nhãn quan, tư duy nghiệp vụ sắc sảo&#39;](https://vnexpress.net/tinh-bao-quoc-phong-phai-co-nhan-quan-tu-duy-nghiep-vu-sac-sao-4705471.html) - 08:16 26/01/2024"
 - ⚗️ [Ưu tiên cung cấp thông tin cho báo chí bằng văn bản điện tử](https://vnexpress.net/uu-tien-cung-cap-thong-tin-cho-bao-chi-bang-van-ban-dien-tu-4705486.html) - 07:39 26/01/2024"
-- 🌊 [Miền Bắc tiếp tục rét hại đến 28/1](https://vnexpress.net/mien-bac-tiep-tuc-ret-hai-den-28-1-4705453.html) - 07:21 26/01/2024"
+- 🌊 [Miền Bắc rét hại đến 28/1](https://vnexpress.net/mien-bac-ret-hai-den-28-1-4705453.html) - 07:21 26/01/2024"
 - 🎓 [Đà Nẵng thành lập trung tâm nghiên cứu, thiết kế vi mạch bán dẫn](https://vnexpress.net/da-nang-thanh-lap-trung-tam-nghien-cuu-thiet-ke-vi-mach-ban-dan-4705469.html) - 06:54 26/01/2024"
 - 🔥 [Cầu Sài Gòn ùn tắc hơn một km sau tai nạn](https://vnexpress.net/cau-sai-gon-un-tac-hon-mot-km-sau-tai-nan-4705426.html) - 04:32 26/01/2024"
 - 🦏 [Cháy nhà ở TP HCM, 6 người leo lan can thoát nạn](https://vnexpress.net/chay-nha-o-tp-hcm-6-nguoi-leo-lan-can-thoat-nan-4705349.html) - 02:30 26/01/2024"
