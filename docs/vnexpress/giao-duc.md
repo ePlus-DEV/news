@@ -53,4 +53,14 @@ sidebar_position: 7
 - 💪 [Nam sinh nhận giải thưởng gần 70.000 USD của Hội Tim mạch Mỹ](https://vnexpress.net/nam-sinh-nhan-giai-thuong-gan-70-000-usd-cua-hoi-tim-mach-my-4703061.html) - 23:00 20/01/2024
 - 💂 [Có nên du học ngành Công nghệ sinh học?](https://vnexpress.net/co-nen-du-hoc-nganh-cong-nghe-sinh-hoc-4702190.html) - 16:59 20/01/2024
 - 🌮 [Sinh viên trình diễn đồ án ở trung tâm thương mại](https://vnexpress.net/sinh-vien-trinh-dien-do-an-o-trung-tam-thuong-mai-4703167.html) - 14:13 20/01/2024
-- 🪄 [Tỉnh nào có cáp treo 3 dây dài nhất thế giới?](https://vnexpress.net/tinh-nao-co-cap-treo-3-day-dai-nhat-the-gioi-4703148.html) - 12:17 20/01/2024<!-- vnexpress-giao-duc:END -->
+- 🪄 [Tỉnh nào có cáp treo 3 dây dài nhất thế giới?](https://vnexpress.net/tinh-nao-co-cap-treo-3-day-dai-nhat-the-gioi-4703148.html) - 12:17 20/01/2024
+- 🎡 [Phân biệt &#39;shy&#39;, &#39;embarassed&#39; và &#39;ashamed&#39;](https://vnexpress.net/phan-biet-shy-embarassed-va-ashamed-4703120.html) - 10:00 20/01/2024
+- 🌈 [11 tháng tìm việc của cô gái Việt ở Mỹ](https://vnexpress.net/11-thang-tim-viec-cua-co-gai-viet-o-my-4702207.html) - 06:50 20/01/2024
+- 🎊 [Đại học Giao thông vận tải tăng chỉ tiêu](https://vnexpress.net/dai-hoc-giao-thong-van-tai-tang-chi-tieu-4702999.html) - 02:12 20/01/2024
+- ⚗️ [Một số đại học giảm xét tuyển học bạ](https://vnexpress.net/mot-so-dai-hoc-giam-xet-tuyen-hoc-ba-4702448.html) - 00:40 20/01/2024
+- 🌁 [Vĩnh Phúc được sáp nhập từ hai tỉnh nào?](https://vnexpress.net/vinh-phuc-duoc-sap-nhap-tu-hai-tinh-nao-4702929.html) - 13:08 19/01/2024
+- 🦏 [Dự kiến cấp giấy chứng nhận nghề nghiệp cho giáo viên](https://vnexpress.net/du-kien-cap-giay-chung-nhan-nghe-nghiep-cho-giao-vien-4702680.html) - 07:45 19/01/2024
+- 👍 [60 đại học xét tuyển bằng học bạ năm 2024](https://vnexpress.net/60-dai-hoc-xet-tuyen-bang-hoc-ba-nam-2024-4701788.html) - 00:38 19/01/2024
+- 🌈 [Gần 40 tỉnh, thành công bố lịch nghỉ Tết cho học sinh](https://vnexpress.net/gan-40-tinh-thanh-cong-bo-lich-nghi-tet-cho-hoc-sinh-4702166.html) - 00:14 19/01/2024
+- 🕴 [Đại học chi thưởng Tết giảng viên 10-50 triệu đồng](https://vnexpress.net/dai-hoc-chi-thuong-tet-giang-vien-10-50-trieu-dong-4702104.html) - 23:45 18/01/2024
+- 🧰 [Vị tướng nhà Trần nào là tác giả bài &#39;Tụng giá hoàn kinh sư&#39;?](https://vnexpress.net/vi-tuong-nha-tran-nao-la-tac-gia-bai-tung-gia-hoan-kinh-su-4702447.html) - 13:09 18/01/2024<!-- vnexpress-giao-duc:END -->
