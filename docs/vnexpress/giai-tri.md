@@ -53,4 +53,14 @@ sidebar_position: 5
 - 😎 [Đường sách TP HCM thu gần 60 tỷ đồng năm qua](https://vnexpress.net/duong-sach-tp-hcm-thu-gan-60-ty-dong-nam-qua-4704300.html) - 13:17 23/01/2024
 - 🌊 [Sắc vóc &#39;gái hai con&#39; của Kim Tae Hee](https://vnexpress.net/sac-voc-gai-hai-con-cua-kim-tae-hee-4704092.html) - 12:00 23/01/2024
 - 🐲 [Con trai Đan Trường diện kiến Giáo hoàng Francis](https://vnexpress.net/con-trai-dan-truong-dien-kien-giao-hoang-francis-4704110.html) - 09:55 23/01/2024
-- 💂 [Nghị lực nữ phi công đăng quang Hoa hậu Mỹ](https://vnexpress.net/nghi-luc-nu-phi-cong-dang-quang-hoa-hau-my-4703571.html) - 06:44 23/01/2024<!-- vnexpress-giai-tri:END -->
+- 💂 [Nghị lực nữ phi công đăng quang Hoa hậu Mỹ](https://vnexpress.net/nghi-luc-nu-phi-cong-dang-quang-hoa-hau-my-4703571.html) - 06:44 23/01/2024
+- 🙉 [Mỹ nhân chưng diện ở Tuần thời trang cao cấp Paris](https://vnexpress.net/my-nhan-chung-dien-o-tuan-thoi-trang-cao-cap-paris-4704013.html) - 04:28 23/01/2024
+- 💪 [Quỳnh Lương: &#39;Tôi không yêu thiếu gia ăn chơi&#39;](https://vnexpress.net/quynh-luong-toi-khong-yeu-thieu-gia-an-choi-4703970.html) - 04:27 23/01/2024
+- 👍 [Người tình mặc sexy đón sinh nhật tỷ phú Jeff Bezos](https://vnexpress.net/nguoi-tinh-mac-sexy-don-sinh-nhat-ty-phu-jeff-bezos-4703955.html) - 03:06 23/01/2024
+- 💪 [Mars Anh Tú ra MV Tết](https://vnexpress.net/mars-anh-tu-ra-mv-tet-4703652.html) - 03:00 23/01/2024
+- 💄 [Vợ phủ nhận bị Quách Phú Thành coi thường](https://vnexpress.net/vo-phu-nhan-bi-quach-phu-thanh-coi-thuong-4703938.html) - 02:53 23/01/2024
+- 🦩 [Hậu trường Diệu Nhi đóng cảnh bị cháy trong phim Tết](https://vnexpress.net/hau-truong-dieu-nhi-dong-canh-bi-chay-trong-phim-tet-4703361.html) - 02:19 23/01/2024
+- 🥸 [&#39;Trái đất chuyển mình&#39; - lịch sử chưa kể về nhân loại](https://vnexpress.net/trai-dat-chuyen-minh-lich-su-chua-ke-ve-nhan-loai-4699789.html) - 22:43 22/01/2024
+- 🧰 [Những màn &#39;lăn xả&#39; của Mỹ Linh tại show Đạp gió](https://vnexpress.net/nhung-man-lan-xa-cua-my-linh-tai-show-dap-gio-4703505.html) - 17:00 22/01/2024
+- 💼 [Váy áo tôn eo của &#39;chị đẹp&#39; Trang Pháp](https://vnexpress.net/vay-ao-ton-eo-cua-chi-dep-trang-phap-4703546.html) - 13:00 22/01/2024
+- 🧑‍💻 [Tài tử 74 tuổi &#39;rối bời&#39; khi bạn gái vướng scandal](https://vnexpress.net/tai-tu-74-tuoi-roi-boi-khi-ban-gai-vuong-scandal-4703727.html) - 10:57 22/01/2024<!-- vnexpress-giai-tri:END -->

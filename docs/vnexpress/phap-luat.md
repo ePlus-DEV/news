@@ -53,4 +53,14 @@ sidebar_position: 12
 - 🤖 [Ông Trần Hùng bị bác kháng cáo kêu oan](https://vnexpress.net/vks-tranh-luan-ve-loi-khai-bat-nhat-hoi-lo-ong-tran-hung-4704130.html) - 09:31 23/01/2024
 - ⚗️ [Cựu chủ tịch Khánh Hòa: &#39;Bị cáo thấy đau xót vì sai phạm&#39;](https://vnexpress.net/cuu-chu-tich-khanh-hoa-bi-cao-thay-dau-xot-vi-sai-pham-4704145.html) - 09:27 23/01/2024
 - 🌏 [Đại ca giang hồ Trung Cà Mau: &#39;Không cầm đầu, chủ mưu hỗn chiến&#39;](https://vnexpress.net/dai-ca-giang-ho-trung-ca-mau-khong-cam-dau-chu-muu-hon-chien-4704085.html) - 08:08 23/01/2024
-- 🦆 [Bị bắt khi rút một tỷ đồng trong tài khoản phong tỏa](https://vnexpress.net/bi-bat-khi-rut-mot-ty-dong-trong-tai-khoan-phong-toa-4704080.html) - 07:19 23/01/2024<!-- vnexpress-phap-luat:END -->
+- 🦆 [Bị bắt khi rút một tỷ đồng trong tài khoản phong tỏa](https://vnexpress.net/bi-bat-khi-rut-mot-ty-dong-trong-tai-khoan-phong-toa-4704080.html) - 07:19 23/01/2024
+- 🐎 [Nhà báo Hàn Ni bị truy tố khung hình phạt 2-7 năm tù](https://vnexpress.net/nha-bao-han-ni-bi-truy-to-khung-hinh-phat-2-7-nam-tu-4704028.html) - 04:16 23/01/2024
+- 😎 [Interpol kêu gọi mở đồn cảnh sát ảo trong metaverse](https://vnexpress.net/interpol-keu-goi-mo-don-canh-sat-ao-trong-metaverse-4703973.html) - 03:57 23/01/2024
+- 💪 [VKS: Ông Trần Hùng không oan](https://vnexpress.net/vks-ong-tran-hung-khong-oan-4703974.html) - 03:39 23/01/2024
+- 🤡 [An ninh siết chặt tại phiên xử cựu lãnh đạo tỉnh sai phạm ở dự án Mường Thanh](https://vnexpress.net/an-ninh-siet-chat-tai-phien-xu-cuu-lanh-dao-tinh-sai-pham-o-du-an-muong-thanh-4703964.html) - 03:23 23/01/2024
+- 🌁 [Vận chuyển con hổ hơn 200 kg trên ôtô](https://vnexpress.net/van-chuyen-con-ho-hon-200-kg-tren-oto-4703861.html) - 02:24 23/01/2024
+- 🔥 [Tài xế bị bắt vì chống đối CSGT đo nồng độ cồn](https://vnexpress.net/tai-xe-tong-csgt-do-nong-do-con-bi-bat-4703910.html) - 01:59 23/01/2024
+- 🔥 [Thảm án 7 thi thể trong phòng tắm hơi](https://vnexpress.net/tham-an-7-thi-the-trong-phong-tam-hoi-4703804.html) - 17:00 22/01/2024
+- 👺 [Án mạng từ việc không được nhường đường](https://vnexpress.net/an-mang-tu-viec-khong-duoc-nhuong-duong-4703747.html) - 17:00 22/01/2024
+- 🎊 [Có được giảm trừ gia cảnh cho người không chung hộ khẩu?](https://vnexpress.net/co-duoc-giam-tru-gia-canh-cho-nguoi-khong-chung-ho-khau-4703527.html) - 17:00 22/01/2024
+- 🎊 [Phó phòng của Chứng khoán Sài Gòn Hà Nội - SHS bị bắt](https://vnexpress.net/pho-phong-cua-chung-khoan-sai-gon-ha-noi-shs-bi-bat-4703835.html) - 15:21 22/01/2024<!-- vnexpress-phap-luat:END -->
