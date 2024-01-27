@@ -334,10 +334,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Hoàng Đức đá hỏng phạt đền, Thể Công Viettel mất cúp vô địch giao hữu quốc tế](https://vtc.vn/hoang-duc-da-hong-phat-den-the-cong-viettel-mat-cup-vo-dich-giao-huu-quoc-te-ar850177.html) - 14:18 27/01/2024
-- 🤭 [Nga tăng cường độ tấn công ở Bakhmut, Ukraine chật vật vì thiếu đạn dược](https://vtc.vn/nga-tang-cuong-do-tan-cong-o-bakhmut-ukraine-chat-vat-vi-thieu-dan-duoc-ar850152.html) - 12:39 27/01/2024
-- 🦒 [Bạn đọc VTC News ủng hộ gần 60 triệu đồng giúp đỡ 3 hoàn cảnh khó khăn ở Hà Tĩnh](https://vtc.vn/ban-doc-vtc-news-ung-ho-gan-60-trieu-dong-giup-do-3-hoan-canh-kho-khan-o-ha-tinh-ar849738.html) - 12:17 27/01/2024
-- 🌮 [Trực tiếp &#39;Chị đẹp đạp gió rẽ sóng&#39; tập 14](https://vtc.vn/truc-tiep-chi-dep-dap-gio-re-song-tap-14-ar849925.html) - 12:00 27/01/2024
+- 🥸 [Giá thuê tàu chở hàng qua biển Đỏ tăng lên 100.000 USD mỗi ngày](https://vtc.vn/gia-thue-tau-cho-hang-qua-bien-do-tang-len-100-000-usd-moi-ngay-ar850201.html) - 15:54 27/01/2024
+- 🤭 [Hoàng Đức đá hỏng phạt đền, Thể Công Viettel mất cúp vô địch giao hữu quốc tế](https://vtc.vn/hoang-duc-da-hong-phat-den-the-cong-viettel-mat-cup-vo-dich-giao-huu-quoc-te-ar850177.html) - 14:18 27/01/2024
+- 🦒 [Nga tăng cường độ tấn công ở Bakhmut, Ukraine chật vật vì thiếu đạn dược](https://vtc.vn/nga-tang-cuong-do-tan-cong-o-bakhmut-ukraine-chat-vat-vi-thieu-dan-duoc-ar850152.html) - 12:39 27/01/2024
+- 🌮 [Bạn đọc VTC News ủng hộ gần 60 triệu đồng giúp đỡ 3 hoàn cảnh khó khăn ở Hà Tĩnh](https://vtc.vn/ban-doc-vtc-news-ung-ho-gan-60-trieu-dong-giup-do-3-hoan-canh-kho-khan-o-ha-tinh-ar849738.html) - 12:17 27/01/2024
 - 🤖 [Hai người tử vong sau va chạm với xe đầu kéo](https://vtc.vn/hai-nguoi-tu-vong-sau-va-cham-voi-xe-dau-keo-ar850165.html) - 11:56 27/01/2024
 - 🎬 [Đèo An Khê liên tục tắc nghẽn nhiều giờ, ô tô xếp hàng hơn 10km trên quốc lộ 19](https://vtc.vn/deo-an-khe-lien-tuc-tac-nghen-nhieu-gio-o-to-xep-hang-hon-10km-tren-quoc-lo-19-ar850140.html) - 10:44 27/01/2024
 - 🥳 [Dự báo thời tiết ngày 28/1: Mưa rét bao trùm miền Bắc, có nơi dưới 3 độ C](https://vtc.vn/du-bao-thoi-tiet-ngay-28-1-mua-ret-bao-trum-mien-bac-co-noi-duoi-3-do-c-ar850110.html) - 10:41 27/01/2024
