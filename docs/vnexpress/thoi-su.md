@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Chi gần 5 tỷ đồng mua cá song làm quà tết công nhân](https://vnexpress.net/chi-gan-5-ty-dong-mua-ca-song-lam-qua-tet-cong-nhan-4705816.html) - 07:49 27/01/2024
+- 🦒 [Chi gần 5 tỷ đồng mua cá song làm quà Tết cho công nhân](https://vnexpress.net/chi-gan-5-ty-dong-mua-ca-song-lam-qua-tet-cho-cong-nhan-4705816.html) - 07:49 27/01/2024
 - 🤓 [Biệt thự xây trái phép ở Cà Mau được tồn tại](https://vnexpress.net/biet-thu-xay-trai-phep-o-ca-mau-duoc-ton-tai-4705833.html) - 07:04 27/01/2024
 - ⚗️ [Chủ tịch An Giang Nguyễn Thanh Bình bị khai trừ Đảng](https://vnexpress.net/chu-tich-an-giang-nguyen-thanh-binh-bi-khai-tru-dang-4705824.html) - 06:01 27/01/2024
 - 🌊 [Đề nghị khai trừ cựu Bí thư Bắc Ninh Nguyễn Nhân Chiến](https://vnexpress.net/de-nghi-khai-tru-cuu-bi-thu-bac-ninh-nguyen-nhan-chien-4705821.html) - 05:45 27/01/2024
