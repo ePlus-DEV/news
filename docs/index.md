@@ -334,27 +334,27 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Vợ chồng sinh 5 con trai trong 13 tháng, hài hước kể chuyện phân xử](https://vtc.vn/vo-chong-sinh-5-con-trai-trong-13-thang-hai-huoc-ke-chuyen-phan-xu-ar850135.html) - 09:51 27/01/2024
-- 🤭 [Đội tuyển Trung Quốc không mất phí bồi thường sa thải HLV Jankovic](https://vtc.vn/doi-tuyen-trung-quoc-khong-mat-phi-boi-thuong-sa-thai-hlv-jankovic-ar850144.html) - 09:48 27/01/2024
-- 🦒 [Shipper đang vận chuyển ma túy thì gặp công an](https://vtc.vn/shipper-dang-van-chuyen-ma-tuy-thi-gap-cong-an-ar850143.html) - 09:45 27/01/2024
-- 🌮 [Cập nhật mới nhất tỷ lệ nắm giữ của khối ngoại tại 3 ngân hàng trong nhóm Big4](https://vtc.vn/cap-nhat-moi-nhat-ty-le-nam-giu-cua-khoi-ngoai-tai-3-ngan-hang-trong-nhom-big4-ar850138.html) - 09:29 27/01/2024
-- 🤖 [Bạn mất bao lâu để tìm ra điểm bất thường trong bức ảnh này?](https://vtc.vn/ban-mat-bao-lau-de-tim-ra-diem-bat-thuong-trong-buc-anh-nay-ar849815.html) - 08:09 27/01/2024
-- 🎬 [Bình Thuận: Mâu thuẫn nợ nần ngày giáp Tết, 1 thanh niên bị đâm chết](https://vtc.vn/binh-thuan-mau-thuan-no-nan-ngay-giap-tet-1-thanh-nien-bi-dam-chet-ar850091.html) - 08:04 27/01/2024
-- 🥳 [NSƯT Lê Văn Duy - đạo diễn phim cuối cùng của Lê Công Tuấn Anh - qua đời](https://vtc.vn/nsut-le-van-duy-dao-dien-phim-cuoi-cung-cua-le-cong-tuan-anh-qua-doi-ar850119.html) - 07:55 27/01/2024
-- 🎓 [NATO kêu gọi Hungary bật đèn xanh cho Thụy Điển](https://vtc.vn/nato-keu-goi-hungary-bat-den-xanh-cho-thuy-dien-ar850116.html) - 07:53 27/01/2024
-- 👹 [Kiếm tiền triệu mỗi ngày từ việc ngắt lá mai dịp Tết](https://vtc.vn/kiem-tien-trieu-moi-ngay-tu-viec-ngat-la-mai-dip-tet-ar850095.html) - 07:45 27/01/2024
-- 🤖 [&#39;Phù phép&#39; gần 4.000 xe gian thành xe mới xuất xưởng: 2 kẻ bị truy nã ra đầu thú](https://vtc.vn/phu-phep-gan-4-000-xe-gian-thanh-xe-moi-xuat-xuong-2-ke-bi-truy-na-ra-dau-thu-ar850107.html) - 07:28 27/01/2024
-- 🎊 [Cầu thủ tại Asian Cup 2023 dính doping](https://vtc.vn/cau-thu-tai-asian-cup-2023-dinh-doping-ar850106.html) - 07:24 27/01/2024
-- 🐻 [Đình chỉ hoạt động Phòng khám Quốc tế Sài Gòn sau phản ánh của VTC News](https://vtc.vn/dinh-chi-hoat-dong-phong-kham-quoc-te-sai-gon-sau-phan-anh-cua-vtc-news-ar850103.html) - 07:19 27/01/2024
-- 👍 [Công an ngâm mình trong nước lạnh tìm thiếu niên 15 tuổi nhảy cầu tự tử](https://vtc.vn/cong-an-ngam-minh-trong-nuoc-lanh-tim-thieu-nien-15-tuoi-nhay-cau-tu-tu-ar850098.html) - 06:38 27/01/2024
-- 🪜 [Đội quân đất nung Tần Thủy Hoàng phiên bản băng tuyết](https://vtc.vn/doi-quan-dat-nung-tan-thuy-hoang-phien-ban-bang-tuyet-ar850096.html) - 06:30 27/01/2024
-- 🌮 [Sát Tết Nguyên đán Giáp Thìn, doanh nghiệp lữ hành vẫn ngóng khách](https://vtc.vn/sat-tet-nguyen-dan-giap-thin-doanh-nghiep-lu-hanh-van-ngong-khach-ar850061.html) - 06:07 27/01/2024
-- 🌁 [Nguyên Phó Thủ tướng Trịnh Đình Dũng bị Bộ Chính trị kỷ luật khiển trách](https://vtc.vn/nguyen-pho-thu-tuong-trinh-dinh-dung-bi-bo-chinh-tri-ky-luat-khien-trach-ar849746.html) - 06:06 27/01/2024
-- 👺 [VTV chưa công bố ngày ghi hình, trên mạng đã rao vé Táo quân 14 triệu đồng/cặp](https://vtc.vn/vtv-chua-cong-bo-ngay-ghi-hinh-tren-mang-da-rao-ve-tao-quan-14-trieu-dong-cap-ar850026.html) - 06:02 27/01/2024
-- 🌊 [Bộ Chính trị đề nghị Trung ương khai trừ Đảng ông Nguyễn Nhân Chiến](https://vtc.vn/de-nghi-trung-uong-khai-tru-dang-nguyen-bi-thu-bac-ninh-nguyen-nhan-chien-ar847610.html) - 06:00 27/01/2024
-- 🤖 [Bí thư Tỉnh ủy Lâm Đồng bị đề nghị khai trừ khỏi Đảng](https://vtc.vn/bi-thu-tinh-uy-lam-dong-bi-de-nghi-khai-tru-khoi-dang-ar849708.html) - 05:55 27/01/2024
+- 🥸 [Đèo An Khê liên tục tắc nghẽn nhiều giờ, ô tô xếp hàng hơn 10km trên quốc lộ 19](https://vtc.vn/deo-an-khe-lien-tuc-tac-nghen-nhieu-gio-o-to-xep-hang-hon-10km-tren-quoc-lo-19-ar850140.html) - 10:44 27/01/2024
+- 🤭 [Dự báo thời tiết ngày 28/1: Mưa rét bao trùm miền Bắc, có nơi dưới 3 độ C](https://vtc.vn/du-bao-thoi-tiet-ngay-28-1-mua-ret-bao-trum-mien-bac-co-noi-duoi-3-do-c-ar850110.html) - 10:41 27/01/2024
+- 🦒 [Vợ chồng sinh 5 con trai trong 13 tháng, hài hước kể chuyện phân xử](https://vtc.vn/vo-chong-sinh-5-con-trai-trong-13-thang-hai-huoc-ke-chuyen-phan-xu-ar850135.html) - 09:51 27/01/2024
+- 🌮 [Đội tuyển Trung Quốc không mất phí bồi thường sa thải HLV Jankovic](https://vtc.vn/doi-tuyen-trung-quoc-khong-mat-phi-boi-thuong-sa-thai-hlv-jankovic-ar850144.html) - 09:48 27/01/2024
+- 🤖 [Shipper đang vận chuyển ma túy thì gặp công an](https://vtc.vn/shipper-dang-van-chuyen-ma-tuy-thi-gap-cong-an-ar850143.html) - 09:45 27/01/2024
+- 🎬 [Cập nhật mới nhất tỷ lệ nắm giữ của khối ngoại tại 3 ngân hàng trong nhóm Big4](https://vtc.vn/cap-nhat-moi-nhat-ty-le-nam-giu-cua-khoi-ngoai-tai-3-ngan-hang-trong-nhom-big4-ar850138.html) - 09:29 27/01/2024
+- 🥳 [Bạn mất bao lâu để tìm ra điểm bất thường trong bức ảnh này?](https://vtc.vn/ban-mat-bao-lau-de-tim-ra-diem-bat-thuong-trong-buc-anh-nay-ar849815.html) - 08:09 27/01/2024
+- 🎓 [Bình Thuận: Mâu thuẫn nợ nần ngày giáp Tết, 1 thanh niên bị đâm chết](https://vtc.vn/binh-thuan-mau-thuan-no-nan-ngay-giap-tet-1-thanh-nien-bi-dam-chet-ar850091.html) - 08:04 27/01/2024
+- 👹 [NSƯT Lê Văn Duy - đạo diễn phim cuối cùng của Lê Công Tuấn Anh - qua đời](https://vtc.vn/nsut-le-van-duy-dao-dien-phim-cuoi-cung-cua-le-cong-tuan-anh-qua-doi-ar850119.html) - 07:55 27/01/2024
+- 🤖 [NATO kêu gọi Hungary bật đèn xanh cho Thụy Điển](https://vtc.vn/nato-keu-goi-hungary-bat-den-xanh-cho-thuy-dien-ar850116.html) - 07:53 27/01/2024
+- 🎊 [Kiếm tiền triệu mỗi ngày từ việc ngắt lá mai dịp Tết](https://vtc.vn/kiem-tien-trieu-moi-ngay-tu-viec-ngat-la-mai-dip-tet-ar850095.html) - 07:45 27/01/2024
+- 🐻 [&#39;Phù phép&#39; gần 4.000 xe gian thành xe mới xuất xưởng: 2 kẻ bị truy nã ra đầu thú](https://vtc.vn/phu-phep-gan-4-000-xe-gian-thanh-xe-moi-xuat-xuong-2-ke-bi-truy-na-ra-dau-thu-ar850107.html) - 07:28 27/01/2024
+- 👍 [Cầu thủ tại Asian Cup 2023 dính doping](https://vtc.vn/cau-thu-tai-asian-cup-2023-dinh-doping-ar850106.html) - 07:24 27/01/2024
+- 🪜 [Đình chỉ hoạt động Phòng khám Quốc tế Sài Gòn sau phản ánh của VTC News](https://vtc.vn/dinh-chi-hoat-dong-phong-kham-quoc-te-sai-gon-sau-phan-anh-cua-vtc-news-ar850103.html) - 07:19 27/01/2024
+- 🌮 [Công an ngâm mình trong nước lạnh tìm thiếu niên 15 tuổi nhảy cầu tự tử](https://vtc.vn/cong-an-ngam-minh-trong-nuoc-lanh-tim-thieu-nien-15-tuoi-nhay-cau-tu-tu-ar850098.html) - 06:38 27/01/2024
+- 🌁 [Đội quân đất nung Tần Thủy Hoàng phiên bản băng tuyết](https://vtc.vn/doi-quan-dat-nung-tan-thuy-hoang-phien-ban-bang-tuyet-ar850096.html) - 06:30 27/01/2024
+- 👺 [Sát Tết Nguyên đán Giáp Thìn, doanh nghiệp lữ hành vẫn ngóng khách](https://vtc.vn/sat-tet-nguyen-dan-giap-thin-doanh-nghiep-lu-hanh-van-ngong-khach-ar850061.html) - 06:07 27/01/2024
+- 🌊 [Nguyên Phó Thủ tướng Trịnh Đình Dũng bị Bộ Chính trị kỷ luật khiển trách](https://vtc.vn/nguyen-pho-thu-tuong-trinh-dinh-dung-bi-bo-chinh-tri-ky-luat-khien-trach-ar849746.html) - 06:06 27/01/2024
+- 🤖 [VTV chưa công bố ngày ghi hình, trên mạng đã rao vé Táo quân 14 triệu đồng/cặp](https://vtc.vn/vtv-chua-cong-bo-ngay-ghi-hinh-tren-mang-da-rao-ve-tao-quan-14-trieu-dong-cap-ar850026.html) - 06:02 27/01/2024
+- 🥸 [Bộ Chính trị đề nghị Trung ương khai trừ Đảng ông Nguyễn Nhân Chiến](https://vtc.vn/de-nghi-trung-uong-khai-tru-dang-nguyen-bi-thu-bac-ninh-nguyen-nhan-chien-ar847610.html) - 06:00 27/01/2024
 - 🥸 [Đâm chết khách hát, nhân viên quán karaoke nhận án tù chung thân](https://vtc.vn/dam-chet-khach-hat-nhan-vien-quan-karaoke-nhan-an-tu-chung-than-ar850097.html) - 05:54 27/01/2024
-- 🥸 [CSGT Tuyên Quang xác minh &#39;quan tài bay&#39; vượt ẩu, suýt gây tai nạn](https://vtc.vn/csgt-tuyen-quang-xac-minh-quan-tai-bay-vuot-au-suyt-gay-tai-nan-ar850082.html) - 05:50 27/01/2024
 - 🪜 [Nam sinh Đại học chết khi rơi từ tầng 19 chung cư](https://vtc.vn/nam-sinh-dai-hoc-chet-khi-roi-tu-tang-19-chung-cu-ar850092.html) - 05:44 27/01/2024
 - 💪 [Bắt giam nguyên Giám đốc trung tâm đào tạo lái xe ở Lào Cai](https://vtc.vn/bat-giam-nguyen-giam-doc-trung-tam-dao-tao-lai-xe-o-lao-cai-ar850090.html) - 05:41 27/01/2024
 - 🌝 [Dương Cầm lần đầu hoá thầy bói, xem quẻ tình duyên cho Sao mai Hồng Duyên](https://vtc.vn/duong-cam-lan-dau-hoa-thay-boi-xem-que-tinh-duyen-cho-sao-mai-hong-duyen-ar849939.html) - 05:29 27/01/2024
