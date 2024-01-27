@@ -351,7 +351,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤖 [Công an ngâm mình trong nước lạnh tìm thiếu niên 15 tuổi nhảy cầu tự tử](https://vtc.vn/cong-an-ngam-minh-trong-nuoc-lanh-tim-thieu-nien-15-tuoi-nhay-cau-tu-tu-ar850098.html) - 06:38 27/01/2024
 - 🥸 [Đội quân đất nung Tần Thủy Hoàng phiên bản băng tuyết](https://vtc.vn/doi-quan-dat-nung-tan-thuy-hoang-phien-ban-bang-tuyet-ar850096.html) - 06:30 27/01/2024
 - 🥸 [Sát Tết Nguyên đán Giáp Thìn, doanh nghiệp lữ hành vẫn ngóng khách](https://vtc.vn/sat-tet-nguyen-dan-giap-thin-doanh-nghiep-lu-hanh-van-ngong-khach-ar850061.html) - 06:07 27/01/2024
-- 🪜 [Nguyên Phó Thủ tướng Trịnh Đình Dũng bị Bộ Chính trị kỷ luật khiển trách](https://vtc.vn/nguyen-pho-thu-tuong-trinh-dinh-dung-bi-bo-chinh-tri-ky-luat-khien-trach-ar849746.html) - 06:06 27/01/2024
+- 🪜 [Bộ Chính trị kỷ luật một số nguyên cán bộ cấp cao](https://vtc.vn/bo-chinh-tri-ky-luat-mot-so-nguyen-can-bo-cap-cao-ar849746.html) - 06:06 27/01/2024
 - 💪 [Bộ Chính trị đề nghị Trung ương khai trừ Đảng ông Nguyễn Nhân Chiến](https://vtc.vn/de-nghi-trung-uong-khai-tru-dang-nguyen-bi-thu-bac-ninh-nguyen-nhan-chien-ar847610.html) - 06:00 27/01/2024
 - 🌝 [Đâm chết khách hát, nhân viên quán karaoke nhận án tù chung thân](https://vtc.vn/dam-chet-khach-hat-nhan-vien-quan-karaoke-nhan-an-tu-chung-than-ar850097.html) - 05:54 27/01/2024
 - 🧑‍💻 [Nam sinh Đại học chết khi rơi từ tầng 19 chung cư](https://vtc.vn/nam-sinh-dai-hoc-chet-khi-roi-tu-tang-19-chung-cu-ar850092.html) - 05:44 27/01/2024
