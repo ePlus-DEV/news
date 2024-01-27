@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Cựu hậu vệ U21 SLNA nguy cơ sống thực vật](https://vnexpress.net/cuu-hau-ve-u21-slna-nguy-co-song-thuc-vat-4705860.html) - 10:08 27/01/2024
+- 🪜 [Cựu hậu vệ U21 SLNA gặp nạn ở Nhật Bản](https://vnexpress.net/cuu-hau-ve-u21-slna-gap-nan-o-nhat-ban-4705860.html) - 10:08 27/01/2024
 - 🦩 [Chuyên gia Đoàn Minh Xương: &#39;HLV Troussier nên bỏ bớt cái tôi&#39;](https://vnexpress.net/chuyen-gia-doan-minh-xuong-hlv-troussier-nen-bo-bot-cai-toi-4705844.html) - 07:43 27/01/2024
 - 🧰 [Sinner tập không nghỉ trước khi hạ Djokovic](https://vnexpress.net/sinner-tap-khong-nghi-truoc-khi-ha-djokovic-4705804.html) - 05:31 27/01/2024
 - 🤗 [Asian Cup 2023 có cầu thủ dính doping](https://vnexpress.net/asian-cup-2023-co-cau-thu-dinh-doping-4705806.html) - 04:45 27/01/2024
