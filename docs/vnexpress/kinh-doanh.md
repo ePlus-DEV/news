@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Thủ tướng: Dồn lực làm đường 500 kV mạch 3 để tăng điện cho miền Bắc](https://vnexpress.net/thu-tuong-don-luc-lam-duong-500-kv-mach-3-de-tang-dien-cho-mien-bac-4705883.html) - 11:16 27/01/2024
+- ⛽️ [Thủ tướng: Dồn lực làm đường dây 500 kV mạch 3 để tăng điện cho miền Bắc](https://vnexpress.net/thu-tuong-don-luc-lam-duong-day-500-kv-mach-3-de-tang-dien-cho-mien-bac-4705883.html) - 11:16 27/01/2024
 - 🐲 [10 triệu thùng dầu Nga mắc kẹt trên biển](https://vnexpress.net/10-trieu-thung-dau-nga-mac-ket-tren-bien-4705814.html) - 10:25 27/01/2024
 - 🔥 [Chuyên gia lại đề xuất bỏ quỹ bình ổn giá xăng dầu](https://vnexpress.net/chuyen-gia-lai-de-xuat-bo-quy-binh-on-gia-xang-dau-4705831.html) - 06:35 27/01/2024
 - 🐵 [Trung Quốc sẽ tạo cơ chế đặc biệt cho tôm hùm Việt](https://vnexpress.net/trung-quoc-se-tao-co-che-dac-biet-cho-tom-hum-viet-4705757.html) - 06:17 27/01/2024
