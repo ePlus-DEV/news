@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Khách rơi vào &#39;thế kẹt&#39; khi chuyến bay Tết liên tục đổi giờ](https://vnexpress.net/khach-roi-vao-the-ket-khi-chuyen-bay-tet-lien-tuc-doi-gio-4705243.html) - 22:00 26/01/2024
+- 🦒 [Khách vào &#39;thế kẹt&#39; khi chuyến bay Tết liên tục đổi giờ](https://vnexpress.net/khach-vao-the-ket-khi-chuyen-bay-tet-lien-tuc-doi-gio-4705243.html) - 22:00 26/01/2024
 - 🤓 [&#39;Biệt thự 49 Trần Hưng Đạo là hình mẫu phục hồi di sản Hà Nội&#39;](https://vnexpress.net/biet-thu-49-tran-hung-dao-la-hinh-mau-phuc-hoi-di-san-ha-noi-4705098.html) - 21:00 26/01/2024
 - ⚗️ [Dừng mở rộng đường ven đồi Cù Đà Lạt](https://vnexpress.net/dung-mo-rong-duong-ven-doi-cu-da-lat-4705665.html) - 17:00 26/01/2024
 - 🌊 [Đại đức Thích Trúc Thái Minh bị xử phạt 7,5 triệu đồng](https://vnexpress.net/dai-duc-thich-truc-thai-minh-bi-xu-phat-7-5-trieu-dong-4705660.html) - 13:46 26/01/2024
