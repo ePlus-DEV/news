@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Hai tàu cá bị chìm, 3 ngư dân mất tích](https://vnexpress.net/hai-tau-ca-bi-chim-3-ngu-dan-mat-tich-4705905.html) - 12:36 27/01/2024
-- 🤓 [Tuyến đại lộ từ TP Thanh Hóa đi Sầm Sơn được mở rộng lên 70 m](https://vnexpress.net/tuyen-dai-lo-tu-tp-thanh-hoa-di-sam-son-duoc-mo-rong-len-70-m-4705850.html) - 11:49 27/01/2024
+- 🤓 [Mở rộng đại lộ từ TP Thanh Hóa đi Sầm Sơn lên 70 m](https://vnexpress.net/mo-rong-dai-lo-tu-tp-thanh-hoa-di-sam-son-len-70-m-4705850.html) - 11:49 27/01/2024
 - ⚗️ [Linh vật rồng khắp cả nước](https://vnexpress.net/linh-vat-rong-khap-ca-nuoc-4705789.html) - 09:37 27/01/2024
 - 🌊 [Cuộc sống trong sương mù, rét 5 độ C](https://vnexpress.net/cuoc-song-trong-suong-mu-ret-5-do-c-4705822.html) - 08:27 27/01/2024
 - 🎓 [Chi gần 5 tỷ đồng mua cá song làm quà Tết cho công nhân](https://vnexpress.net/chi-gan-5-ty-dong-mua-ca-song-lam-qua-tet-cho-cong-nhan-4705816.html) - 07:49 27/01/2024
