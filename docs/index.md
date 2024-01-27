@@ -334,18 +334,18 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Thái Lan chơi ấn tượng tại Asian Cup, HLV Ishii muốn dự World Cup](https://vtc.vn/thai-lan-choi-an-tuong-tai-asian-cup-hlv-ishii-muon-du-world-cup-ar850073.html) - 04:27 27/01/2024
-- 🤭 [Một doanh nghiệp mua 18 tấn cá song làm quà Tết cho nhân viên](https://vtc.vn/mot-doanh-nghiep-mua-18-tan-ca-song-lam-qua-tet-cho-nhan-vien-ar850086.html) - 04:24 27/01/2024
-- 🦒 [Nổ súng tại cổng trường ở Mỹ, 2 học sinh thiệt mạng](https://vtc.vn/no-sung-tai-cong-truong-o-my-2-hoc-sinh-thiet-mang-ar850074.html) - 04:12 27/01/2024
-- 🌮 [Cận cảnh linh vật rồng uy nghi ở thị trấn biên giới Quảng Trị](https://vtc.vn/can-canh-linh-vat-rong-uy-nghi-o-thi-tran-bien-gioi-quang-tri-ar850071.html) - 04:06 27/01/2024
-- 🤖 [Hát không hay nhưng vẫn vào chung kết show &#39;Chị đẹp&#39;, Diệu Nhi nói gì?](https://vtc.vn/hat-khong-hay-nhung-van-vao-chung-ket-show-chi-dep-dieu-nhi-noi-gi-ar850058.html) - 03:52 27/01/2024
-- 🎬 [Vi phạm nồng độ cồn, tài xế không ký biên bản mà còn cầm điện thoại quay CSGT](https://vtc.vn/vi-pham-nong-do-con-tai-xe-khong-ky-bien-ban-ma-con-cam-dien-thoai-quay-csgt-ar850063.html) - 03:50 27/01/2024
-- 🥳 [Lốc xoáy càn quét, nông dân &#39;đứng hình&#39; trên đồng ruộng](https://vtc.vn/loc-xoay-can-quet-nong-dan-dung-hinh-tren-dong-ruong-ar850010.html) - 03:30 27/01/2024
-- 🎓 [Phá đường dây cho vay nặng lãi 35 tỷ đồng ở Huế](https://vtc.vn/pha-duong-day-cho-vay-nang-lai-35-ty-dong-o-hue-ar850065.html) - 03:29 27/01/2024
-- 👹 [VTC News trao quà Tết cho 200 hộ nghèo ở Thái Bình](https://vtc.vn/vtc-news-trao-qua-tet-cho-200-ho-ngheo-o-thai-binh-ar850024.html) - 03:24 27/01/2024
-- 🤖 [Khoảnh khắc tù binh Ukraine lên máy bay IL-76 bị rơi](https://vtc.vn/khoanh-khac-tu-binh-ukraine-len-may-bay-il-76-bi-roi-ar850054.html) - 03:12 27/01/2024
-- 🎊 [Loạt hit đình đám nào của Vpop sẽ xuất hiện trong Táo quân 2024?](https://vtc.vn/loat-hit-dinh-dam-nao-cua-vpop-se-xuat-hien-trong-tao-quan-2024-ar850051.html) - 02:53 27/01/2024
-- 🐻 [Bất ngờ giá nhà tập thể cũ ngang ngửa căn hộ hạng sang](https://vtc.vn/bat-ngo-gia-nha-tap-the-cu-ngang-ngua-can-ho-hang-sang-ar850042.html) - 02:51 27/01/2024
+- 🥸 [Bí thư Tỉnh ủy Lâm Đồng bị đề nghị khai trừ khỏi Đảng](https://vtc.vn/bi-thu-tinh-uy-lam-dong-bi-de-nghi-khai-tru-khoi-dang-ar849708.html) - 05:55 27/01/2024
+- 🤭 [Thái Lan chơi ấn tượng tại Asian Cup, HLV Ishii muốn dự World Cup](https://vtc.vn/thai-lan-choi-an-tuong-tai-asian-cup-hlv-ishii-muon-du-world-cup-ar850073.html) - 04:27 27/01/2024
+- 🦒 [Một doanh nghiệp mua 18 tấn cá song làm quà Tết cho nhân viên](https://vtc.vn/mot-doanh-nghiep-mua-18-tan-ca-song-lam-qua-tet-cho-nhan-vien-ar850086.html) - 04:24 27/01/2024
+- 🌮 [Nổ súng tại cổng trường ở Mỹ, 2 học sinh thiệt mạng](https://vtc.vn/no-sung-tai-cong-truong-o-my-2-hoc-sinh-thiet-mang-ar850074.html) - 04:12 27/01/2024
+- 🤖 [Cận cảnh linh vật rồng uy nghi ở thị trấn biên giới Quảng Trị](https://vtc.vn/can-canh-linh-vat-rong-uy-nghi-o-thi-tran-bien-gioi-quang-tri-ar850071.html) - 04:06 27/01/2024
+- 🎬 [Hát không hay nhưng vẫn vào chung kết show &#39;Chị đẹp&#39;, Diệu Nhi nói gì?](https://vtc.vn/hat-khong-hay-nhung-van-vao-chung-ket-show-chi-dep-dieu-nhi-noi-gi-ar850058.html) - 03:52 27/01/2024
+- 🥳 [Vi phạm nồng độ cồn, tài xế không ký biên bản mà còn cầm điện thoại quay CSGT](https://vtc.vn/vi-pham-nong-do-con-tai-xe-khong-ky-bien-ban-ma-con-cam-dien-thoai-quay-csgt-ar850063.html) - 03:50 27/01/2024
+- 🎓 [Lốc xoáy càn quét, nông dân &#39;đứng hình&#39; trên đồng ruộng](https://vtc.vn/loc-xoay-can-quet-nong-dan-dung-hinh-tren-dong-ruong-ar850010.html) - 03:30 27/01/2024
+- 👹 [Phá đường dây cho vay nặng lãi 35 tỷ đồng ở Huế](https://vtc.vn/pha-duong-day-cho-vay-nang-lai-35-ty-dong-o-hue-ar850065.html) - 03:29 27/01/2024
+- 🤖 [VTC News trao quà Tết cho 200 hộ nghèo ở Thái Bình](https://vtc.vn/vtc-news-trao-qua-tet-cho-200-ho-ngheo-o-thai-binh-ar850024.html) - 03:24 27/01/2024
+- 🎊 [Khoảnh khắc tù binh Ukraine lên máy bay IL-76 bị rơi](https://vtc.vn/khoanh-khac-tu-binh-ukraine-len-may-bay-il-76-bi-roi-ar850054.html) - 03:12 27/01/2024
+- 🐻 [Loạt hit đình đám nào của Vpop sẽ xuất hiện trong Táo quân 2024?](https://vtc.vn/loat-hit-dinh-dam-nao-cua-vpop-se-xuat-hien-trong-tao-quan-2024-ar850051.html) - 02:53 27/01/2024
 - 👍 [Container tông xe máy trên quốc lộ, vợ chết chồng trọng thương](https://vtc.vn/container-tong-xe-may-tren-quoc-lo-vo-chet-chong-trong-thuong-ar850056.html) - 02:48 27/01/2024
 - 🪜 [Đường tuần tra trong băng giá nơi biên cương](https://vtc.vn/duong-tuan-tra-trong-bang-gia-noi-bien-cuong-ar850048.html) - 02:23 27/01/2024
 - 🌮 [Học sinh vùng cao Mù Cang Chải chống chọi với giá rét thế nào?](https://vtc.vn/hoc-sinh-vung-cao-mu-cang-chai-chong-choi-voi-gia-ret-the-nao-ar849859.html) - 02:00 27/01/2024
