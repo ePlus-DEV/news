@@ -52,4 +52,6 @@ sidebar_position: 9
 - 🎡 [Mở cửa thoát hiểm vì phải ngồi chờ trong máy bay 4 tiếng](https://vnexpress.net/mo-cua-thoat-hiem-vi-phai-ngoi-cho-trong-may-bay-4-tieng-4705788.html) - 05:48 27/01/2024
 - 👍 [Đề nghị khai trừ cựu Bí thư Bắc Ninh Nguyễn Nhân Chiến](https://vnexpress.net/de-nghi-khai-tru-cuu-bi-thu-bac-ninh-nguyen-nhan-chien-4705821.html) - 05:45 27/01/2024
 - 🐎 [Nhân viên LHQ bị cáo buộc hỗ trợ vụ đột kích của Hamas](https://vnexpress.net/nhan-vien-lhq-bi-cao-buoc-ho-tro-vu-dot-kich-cua-hamas-4705775.html) - 05:45 27/01/2024
-- 🏊 [Bí thư Lâm Đồng Trần Đức Quận bị đề nghị khai trừ Đảng](https://vnexpress.net/bi-thu-lam-dong-tran-duc-quan-bi-de-nghi-khai-tru-dang-4705818.html) - 05:33 27/01/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🏊 [Bí thư Lâm Đồng Trần Đức Quận bị đề nghị khai trừ Đảng](https://vnexpress.net/bi-thu-lam-dong-tran-duc-quan-bi-de-nghi-khai-tru-dang-4705818.html) - 05:33 27/01/2024
+- 🦩 [Sinner tập không nghỉ trước khi hạ Djokovic](https://vnexpress.net/sinner-tap-khong-nghi-truoc-khi-ha-djokovic-4705804.html) - 05:31 27/01/2024
+- 👍 [Orion hợp tác cùng INAB phát triển mô hình trồng khoai tây](https://vnexpress.net/orion-hop-tac-cung-inab-phat-trien-mo-hinh-trong-khoai-tay-4705808.html) - 05:30 27/01/2024<!-- vnexpress-tin-moi-nhat:END -->
