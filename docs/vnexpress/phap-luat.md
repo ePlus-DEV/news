@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Chủ nhân vướng lao lý vì sư tử được dạo phố trên siêu xe](https://vnexpress.net/chu-nhan-vuong-lao-ly-vi-su-tu-duoc-dao-pho-tren-sieu-xe-4705836.html) - 08:21 27/01/2024
+- 😎 [Chiêu thế chấp điện thoại nhái iPhone 15 Pro Max](https://vnexpress.net/chieu-the-chap-dien-thoai-nhai-iphone-15-pro-max-4705836.html) - 08:21 27/01/2024
 - 🥰 [Đường dây &#39;tín dụng đen&#39; dùng thiết bị định vị theo dõi con nợ](https://vnexpress.net/duong-day-tin-dung-den-dung-thiet-bi-dinh-vi-theo-doi-con-no-4705765.html) - 08:14 27/01/2024
 - 🎓 [Thêm 2 người bị bắt trong vụ &#39;phù phép&#39; 4.000 xe gian thành xe mới](https://vnexpress.net/them-2-nguoi-bi-bat-trong-vu-phu-phep-4-000-xe-gian-thanh-xe-moi-4705832.html) - 07:55 27/01/2024
 - 🤓 [Có nên chung vốn mở công ty với chồng khi &#39;ngấp nghé ly hôn&#39;?](https://vnexpress.net/co-nen-chung-von-mo-cong-ty-voi-chong-khi-ngap-nghe-ly-hon-4705566.html) - 23:00 26/01/2024
