@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Cầu vượt ba tầng đầu tiên ở Việt Nam ở đâu?](https://vnexpress.net/cau-vuot-ba-tang-dau-tien-o-viet-nam-o-dau-4705867.html) - 13:21 27/01/2024
+- 🤓 [Cầu vượt ba tầng đầu tiên của Việt Nam ở đâu?](https://vnexpress.net/cau-vuot-ba-tang-dau-tien-cua-viet-nam-o-dau-4705867.html) - 13:21 27/01/2024
 - 🦆 [VinUni hợp tác cùng Đại học Quốc gia Singapore](https://vnexpress.net/vinuni-hop-tac-cung-dai-hoc-quoc-gia-singapore-4705888.html) - 11:00 27/01/2024
 - 🦩 [ĐH Sư phạm Hà Nội công bố phương thức tuyển sinh](https://vnexpress.net/dh-su-pham-ha-noi-cong-bo-phuong-thuc-tuyen-sinh-4705747.html) - 04:39 27/01/2024
 - 🌮 [Nữ sinh lớp 6 bị đánh chảy máu mặt](https://vnexpress.net/nu-sinh-lop-6-bi-danh-chay-mau-mat-4705714.html) - 02:04 27/01/2024
