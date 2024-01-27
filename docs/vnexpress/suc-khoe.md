@@ -14,7 +14,7 @@ sidebar_position: 10
 - 👀 [Triệu chứng báo hiệu ung thư sớm thường bị bỏ qua](https://vnexpress.net/trieu-chung-bao-hieu-ung-thu-som-thuong-bi-bo-qua-4705684.html) - 05:04 27/01/2024
 - 🌋 [Trắc nghiệm giúp bạn nuôi con cao vượt trội](https://vnexpress.net/trac-nghiem-giup-ban-nuoi-con-cao-vuot-troi-4705759.html) - 05:00 27/01/2024
 - 🫶 [Những món ăn giúp hạ đường huyết](https://vnexpress.net/nhung-mon-an-giup-ha-duong-huyet-4705742.html) - 05:00 27/01/2024
-- 🦆 [Bác sĩ Việt &#39;trình diễn&#39; kỹ thuật mổ tim phức tạp](https://vnexpress.net/bac-si-viet-trinh-dien-ky-thuat-mo-tim-phuc-tap-4705795.html) - 04:52 27/01/2024
+- 🦆 [Can thiệp tim mạch từ Việt Nam truyền trực tiếp sang Singapore](https://vnexpress.net/can-thiep-tim-mach-tu-viet-nam-truyen-truc-tiep-sang-singapore-4705795.html) - 04:52 27/01/2024
 - 🚀 [Hội chứng chân không yên khiến người đàn ông mất ngủ triền miên](https://vnexpress.net/hoi-chung-chan-khong-yen-khien-nguoi-dan-ong-mat-ngu-trien-mien-4705736.html) - 04:00 27/01/2024
 - 🌜 [Cách giúp phái đẹp giảm căng thẳng](https://vnexpress.net/cach-giup-phai-dep-giam-cang-thang-4705165.html) - 04:00 27/01/2024
 - 🧰 [Bệnh ít gặp khiến thiếu niên dễ viêm tuyến mồ hôi](https://vnexpress.net/benh-it-gap-khien-thieu-nien-de-viem-tuyen-mo-hoi-4705722.html) - 03:00 27/01/2024
