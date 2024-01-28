@@ -334,43 +334,43 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Tổng thống Philippines thăm Việt Nam: Cột mốc trong quan hệ song phương](https://vtc.vn/tong-thong-philippines-tham-viet-nam-cot-moc-trong-quan-he-song-phuong-ar850227.html) - 01:48 28/01/2024
-- 🤭 [Hà Nội mùa cây bàng lá đỏ](https://vtc.vn/ha-noi-mua-cay-bang-la-do-ar848037.html) - 01:32 28/01/2024
-- 🦒 [Chậu hoa giấy &#39;Long vân quần mộc&#39; có gì đặc biệt?](https://vtc.vn/chau-hoa-giay-long-van-quan-moc-co-gi-dac-biet-ar849798.html) - 01:28 28/01/2024
-- 🌮 [Lệ Quyên bị chỉ trích ở &#39;Chị đẹp đạp gió rẽ sóng&#39;, Diệp Lâm Anh bênh vực](https://vtc.vn/le-quyen-bi-chi-trich-o-chi-dep-dap-gio-re-song-diep-lam-anh-benh-vuc-ar850225.html) - 01:24 28/01/2024
-- 🤖 [Kinh tế khó khăn, đền Bà Chúa Kho vắng người đến &#39;trả nợ&#39;](https://vtc.vn/kinh-te-kho-khan-den-ba-chua-kho-vang-nguoi-den-tra-no-ar849539.html) - 01:13 28/01/2024
-- 🎬 [Tiết canh - món ăn dễ rước bệnh, nguy cơ tử vong cao](https://vtc.vn/tiet-canh-mon-an-de-ruoc-benh-nguy-co-tu-vong-cao-ar850072.html) - 01:12 28/01/2024
-- 🥳 [Kiev: Mỹ hứa tịch thu tài sản của Nga](https://vtc.vn/kiev-my-hua-tich-thu-tai-san-cua-nga-ar850216.html) - 00:55 28/01/2024
-- 🎓 [Nhận định bóng đá Australia vs Indonesia: Khó có bất ngờ](https://vtc.vn/nhan-dinh-bong-da-australia-vs-indonesia-kho-co-bat-ngo-ar850210.html) - 00:44 28/01/2024
-- 👹 [HLV Xavi xác nhận rời Barcelona](https://vtc.vn/hlv-xavi-xac-nhan-roi-barcelona-ar850224.html) - 00:42 28/01/2024
-- 🤖 [HLV Australia khen tuyển Indonesia: &#39;Thắng Việt Nam là chứng tỏ sức mạnh&#39;](https://vtc.vn/hlv-australia-khen-tuyen-indonesia-thang-viet-nam-la-chung-to-suc-manh-ar850213.html) - 00:39 28/01/2024
-- 🎊 [Mỹ Linh: &#39;Tôi từng xin Ban tổ chức Chị đẹp đạp gió rẽ sóng cho tôi dừng lại&#39;](https://vtc.vn/my-linh-toi-tung-xin-ban-to-chuc-chi-dep-dap-gio-re-song-cho-toi-dung-lai-ar850223.html) - 00:39 28/01/2024
-- 🐻 [Ngành Khoa học máy tính có gì đặc biệt?](https://vtc.vn/nganh-khoa-hoc-may-tinh-co-gi-dac-biet-ar849395.html) - 00:38 28/01/2024
-- 👍 [Cỗ máy in 3D đồ nội thất bằng kim loại lỏng](https://vtc.vn/co-may-in-3d-do-noi-that-bang-kim-loai-long-ar850021.html) - 00:30 28/01/2024
-- 🪜 [Giá vàng hôm nay 28/1: Vàng giảm nhẹ cuối tuần](https://vtc.vn/gia-vang-hom-nay-28-1-vang-giam-nhe-cuoi-tuan-ar850218.html) - 00:17 28/01/2024
-- 🌮 [Giá dầu tiếp tục tăng phiên cuối tuần](https://vtc.vn/gia-dau-tiep-tuc-tang-phien-cuoi-tuan-ar850221.html) - 00:12 28/01/2024
-- 🌁 [Ăn lươn thường xuyên có tốt?](https://vtc.vn/an-luon-thuong-xuyen-co-tot-ar850093.html) - 00:11 28/01/2024
-- 👺 [Điều ám ảnh nam đạo diễn khi thực hiện cảnh quay về rác thải nhựa](https://vtc.vn/dieu-am-anh-nam-dao-dien-khi-thuc-hien-canh-quay-ve-rac-thai-nhua-ar850025.html) - 00:10 28/01/2024
-- 🌊 [Điều khiển ô tô không có bằng lái bị phạt bao nhiêu tiền?](https://vtc.vn/dieu-khien-o-to-khong-co-bang-lai-bi-phat-bao-nhieu-tien-ar849512.html) - 00:00 28/01/2024
-- 🤖 [Trứng để được bao lâu trong tủ lạnh và ở nhiệt độ phòng?](https://vtc.vn/trung-de-duoc-bao-lau-trong-tu-lanh-va-o-nhiet-do-phong-ar849761.html) - 00:00 28/01/2024
-- 🥸 [Câu đố dành cho người hài hước và thông minh: Sách gì không có chữ?](https://vtc.vn/cau-do-danh-cho-nguoi-hai-huoc-va-thong-minh-sach-gi-khong-co-chu-ar849948.html) - 23:45 27/01/2024
-- 🥸 [Hướng dẫn dùng quần tất da chân đúng cách không bị rách](https://vtc.vn/huong-dan-dung-quan-tat-da-chan-dung-cach-khong-bi-rach-ar849879.html) - 23:23 27/01/2024
-- 🪜 [Công nghệ &#39;đu trend&#39; tiên nữ giáng trần](https://vtc.vn/cong-nghe-du-trend-tien-nu-giang-tran-ar849947.html) - 19:00 27/01/2024
-- 💪 [Nữ giới có học được ngành Công nghệ thông tin?](https://vtc.vn/nu-gioi-co-hoc-duoc-nganh-cong-nghe-thong-tin-ar850189.html) - 17:01 27/01/2024
-- 🌝 [Phòng ngừa loãng xương thông qua thói quen ăn uống thông minh](https://vtc.vn/phong-ngua-loang-xuong-thong-qua-thoi-quen-an-uong-thong-minh-ar842613.html) - 17:00 27/01/2024
-- 🧑‍💻 [Giá thuê tàu chở hàng qua biển Đỏ tăng lên 100.000 USD mỗi ngày](https://vtc.vn/gia-thue-tau-cho-hang-qua-bien-do-tang-len-100-000-usd-moi-ngay-ar850201.html) - 15:54 27/01/2024
-- 🤭 [Bắt giam kẻ sát hại cụ bà để cướp tài sản](https://vtc.vn/bat-giam-ke-sat-hai-cu-ba-de-cuop-tai-san-ar850197.html) - 15:42 27/01/2024
-- 🧑‍🏫 [ESPN: Tuyển Việt Nam bị loại đáng tiếc](https://vtc.vn/espn-tuyen-viet-nam-bi-loai-dang-tiec-ar850176.html) - 14:36 27/01/2024
-- 🎃 [Hoàng Đức đá hỏng phạt đền, Thể Công Viettel mất cúp vô địch giao hữu quốc tế](https://vtc.vn/hoang-duc-da-hong-phat-den-the-cong-viettel-mat-cup-vo-dich-giao-huu-quoc-te-ar850177.html) - 14:18 27/01/2024
-- 👀 [Nga tăng cường độ tấn công ở Bakhmut, Ukraine chật vật vì thiếu đạn dược](https://vtc.vn/nga-tang-cuong-do-tan-cong-o-bakhmut-ukraine-chat-vat-vi-thieu-dan-duoc-ar850152.html) - 12:39 27/01/2024
-- 🐵 [Bạn đọc VTC News ủng hộ gần 60 triệu đồng giúp đỡ 3 hoàn cảnh khó khăn ở Hà Tĩnh](https://vtc.vn/ban-doc-vtc-news-ung-ho-gan-60-trieu-dong-giup-do-3-hoan-canh-kho-khan-o-ha-tinh-ar849738.html) - 12:17 27/01/2024
-- 🪜 [Hai người tử vong sau va chạm với xe đầu kéo](https://vtc.vn/hai-nguoi-tu-vong-sau-va-cham-voi-xe-dau-keo-ar850165.html) - 11:56 27/01/2024
-- 😎 [Vợ chồng sinh 5 con trai trong 13 tháng, hài hước kể chuyện phân xử](https://vtc.vn/vo-chong-sinh-5-con-trai-trong-13-thang-hai-huoc-ke-chuyen-phan-xu-ar850135.html) - 09:51 27/01/2024
-- 🥳 [Đội tuyển Trung Quốc không mất phí bồi thường sa thải HLV Jankovic](https://vtc.vn/doi-tuyen-trung-quoc-khong-mat-phi-boi-thuong-sa-thai-hlv-jankovic-ar850144.html) - 09:48 27/01/2024
-- 💫 [Shipper đang vận chuyển ma túy thì gặp công an](https://vtc.vn/shipper-dang-van-chuyen-ma-tuy-thi-gap-cong-an-ar850143.html) - 09:45 27/01/2024
-- 👨‍🏫 [Cập nhật mới nhất tỷ lệ nắm giữ của khối ngoại tại 3 ngân hàng trong nhóm Big4](https://vtc.vn/cap-nhat-moi-nhat-ty-le-nam-giu-cua-khoi-ngoai-tai-3-ngan-hang-trong-nhom-big4-ar850138.html) - 09:29 27/01/2024
-- 🎡 [Bạn mất bao lâu để tìm ra điểm bất thường trong bức ảnh này?](https://vtc.vn/ban-mat-bao-lau-de-tim-ra-diem-bat-thuong-trong-buc-anh-nay-ar849815.html) - 08:09 27/01/2024
-- 🕴 [Bình Thuận: Mâu thuẫn nợ nần ngày giáp Tết, 1 thanh niên bị đâm chết](https://vtc.vn/binh-thuan-mau-thuan-no-nan-ngay-giap-tet-1-thanh-nien-bi-dam-chet-ar850091.html) - 08:04 27/01/2024<!-- vtc:END -->
+- 🥸 [MLee bật khóc ở Chị đẹp đạp gió rẽ sóng: &#39;Từ nhỏ tôi đã không ở với ba mẹ ruột&#39;](https://vtc.vn/mlee-bat-khoc-o-chi-dep-dap-gio-re-song-tu-nho-toi-da-khong-o-voi-ba-me-ruot-ar850229.html) - 01:57 28/01/2024
+- 🤭 [Rau tầm bóp có tác dụng gì với sức khoẻ?](https://vtc.vn/rau-tam-bop-co-tac-dung-gi-voi-suc-khoe-ar849997.html) - 01:50 28/01/2024
+- 🦒 [Tổng thống Philippines thăm Việt Nam: Cột mốc trong quan hệ song phương](https://vtc.vn/tong-thong-philippines-tham-viet-nam-cot-moc-trong-quan-he-song-phuong-ar850227.html) - 01:48 28/01/2024
+- 🌮 [Hà Nội mùa cây bàng lá đỏ](https://vtc.vn/ha-noi-mua-cay-bang-la-do-ar848037.html) - 01:32 28/01/2024
+- 🤖 [Chậu hoa giấy &#39;Long vân quần mộc&#39; có gì đặc biệt?](https://vtc.vn/chau-hoa-giay-long-van-quan-moc-co-gi-dac-biet-ar849798.html) - 01:28 28/01/2024
+- 🎬 [Lệ Quyên bị chỉ trích ở &#39;Chị đẹp đạp gió rẽ sóng&#39;, Diệp Lâm Anh bênh vực](https://vtc.vn/le-quyen-bi-chi-trich-o-chi-dep-dap-gio-re-song-diep-lam-anh-benh-vuc-ar850225.html) - 01:24 28/01/2024
+- 🥳 [Kinh tế khó khăn, đền Bà Chúa Kho vắng người đến &#39;trả nợ&#39;](https://vtc.vn/kinh-te-kho-khan-den-ba-chua-kho-vang-nguoi-den-tra-no-ar849539.html) - 01:13 28/01/2024
+- 🎓 [Tiết canh - món ăn dễ rước bệnh, nguy cơ tử vong cao](https://vtc.vn/tiet-canh-mon-an-de-ruoc-benh-nguy-co-tu-vong-cao-ar850072.html) - 01:12 28/01/2024
+- 👹 [Kiev: Mỹ hứa tịch thu tài sản của Nga](https://vtc.vn/kiev-my-hua-tich-thu-tai-san-cua-nga-ar850216.html) - 00:55 28/01/2024
+- 🤖 [Nhận định bóng đá Australia vs Indonesia: Khó có bất ngờ](https://vtc.vn/nhan-dinh-bong-da-australia-vs-indonesia-kho-co-bat-ngo-ar850210.html) - 00:44 28/01/2024
+- 🎊 [HLV Xavi xác nhận rời Barcelona](https://vtc.vn/hlv-xavi-xac-nhan-roi-barcelona-ar850224.html) - 00:42 28/01/2024
+- 🐻 [HLV Australia khen tuyển Indonesia: &#39;Thắng Việt Nam là chứng tỏ sức mạnh&#39;](https://vtc.vn/hlv-australia-khen-tuyen-indonesia-thang-viet-nam-la-chung-to-suc-manh-ar850213.html) - 00:39 28/01/2024
+- 👍 [Mỹ Linh: &#39;Tôi từng xin Ban tổ chức Chị đẹp đạp gió rẽ sóng cho tôi dừng lại&#39;](https://vtc.vn/my-linh-toi-tung-xin-ban-to-chuc-chi-dep-dap-gio-re-song-cho-toi-dung-lai-ar850223.html) - 00:39 28/01/2024
+- 🪜 [Ngành Khoa học máy tính có gì đặc biệt?](https://vtc.vn/nganh-khoa-hoc-may-tinh-co-gi-dac-biet-ar849395.html) - 00:38 28/01/2024
+- 🌮 [Cỗ máy in 3D đồ nội thất bằng kim loại lỏng](https://vtc.vn/co-may-in-3d-do-noi-that-bang-kim-loai-long-ar850021.html) - 00:30 28/01/2024
+- 🌁 [Giá vàng hôm nay 28/1: Vàng giảm nhẹ cuối tuần](https://vtc.vn/gia-vang-hom-nay-28-1-vang-giam-nhe-cuoi-tuan-ar850218.html) - 00:17 28/01/2024
+- 👺 [Giá dầu tiếp tục tăng phiên cuối tuần](https://vtc.vn/gia-dau-tiep-tuc-tang-phien-cuoi-tuan-ar850221.html) - 00:12 28/01/2024
+- 🌊 [Ăn lươn thường xuyên có tốt?](https://vtc.vn/an-luon-thuong-xuyen-co-tot-ar850093.html) - 00:11 28/01/2024
+- 🤖 [Điều ám ảnh nam đạo diễn khi thực hiện cảnh quay về rác thải nhựa](https://vtc.vn/dieu-am-anh-nam-dao-dien-khi-thuc-hien-canh-quay-ve-rac-thai-nhua-ar850025.html) - 00:10 28/01/2024
+- 🥸 [Điều khiển ô tô không có bằng lái bị phạt bao nhiêu tiền?](https://vtc.vn/dieu-khien-o-to-khong-co-bang-lai-bi-phat-bao-nhieu-tien-ar849512.html) - 00:00 28/01/2024
+- 🥸 [Trứng để được bao lâu trong tủ lạnh và ở nhiệt độ phòng?](https://vtc.vn/trung-de-duoc-bao-lau-trong-tu-lanh-va-o-nhiet-do-phong-ar849761.html) - 00:00 28/01/2024
+- 🪜 [Câu đố dành cho người hài hước và thông minh: Sách gì không có chữ?](https://vtc.vn/cau-do-danh-cho-nguoi-hai-huoc-va-thong-minh-sach-gi-khong-co-chu-ar849948.html) - 23:45 27/01/2024
+- 💪 [Hướng dẫn dùng quần tất da chân đúng cách không bị rách](https://vtc.vn/huong-dan-dung-quan-tat-da-chan-dung-cach-khong-bi-rach-ar849879.html) - 23:23 27/01/2024
+- 🌝 [Công nghệ &#39;đu trend&#39; tiên nữ giáng trần](https://vtc.vn/cong-nghe-du-trend-tien-nu-giang-tran-ar849947.html) - 19:00 27/01/2024
+- 🧑‍💻 [Nữ giới có học được ngành Công nghệ thông tin?](https://vtc.vn/nu-gioi-co-hoc-duoc-nganh-cong-nghe-thong-tin-ar850189.html) - 17:01 27/01/2024
+- 🤭 [Phòng ngừa loãng xương thông qua thói quen ăn uống thông minh](https://vtc.vn/phong-ngua-loang-xuong-thong-qua-thoi-quen-an-uong-thong-minh-ar842613.html) - 17:00 27/01/2024
+- 🧑‍🏫 [Giá thuê tàu chở hàng qua biển Đỏ tăng lên 100.000 USD mỗi ngày](https://vtc.vn/gia-thue-tau-cho-hang-qua-bien-do-tang-len-100-000-usd-moi-ngay-ar850201.html) - 15:54 27/01/2024
+- 🎃 [Bắt giam kẻ sát hại cụ bà để cướp tài sản](https://vtc.vn/bat-giam-ke-sat-hai-cu-ba-de-cuop-tai-san-ar850197.html) - 15:42 27/01/2024
+- 👀 [ESPN: Tuyển Việt Nam bị loại đáng tiếc](https://vtc.vn/espn-tuyen-viet-nam-bi-loai-dang-tiec-ar850176.html) - 14:36 27/01/2024
+- 🐵 [Hoàng Đức đá hỏng phạt đền, Thể Công Viettel mất cúp vô địch giao hữu quốc tế](https://vtc.vn/hoang-duc-da-hong-phat-den-the-cong-viettel-mat-cup-vo-dich-giao-huu-quoc-te-ar850177.html) - 14:18 27/01/2024
+- 🪜 [Nga tăng cường độ tấn công ở Bakhmut, Ukraine chật vật vì thiếu đạn dược](https://vtc.vn/nga-tang-cuong-do-tan-cong-o-bakhmut-ukraine-chat-vat-vi-thieu-dan-duoc-ar850152.html) - 12:39 27/01/2024
+- 😎 [Bạn đọc VTC News ủng hộ gần 60 triệu đồng giúp đỡ 3 hoàn cảnh khó khăn ở Hà Tĩnh](https://vtc.vn/ban-doc-vtc-news-ung-ho-gan-60-trieu-dong-giup-do-3-hoan-canh-kho-khan-o-ha-tinh-ar849738.html) - 12:17 27/01/2024
+- 🥳 [Hai người tử vong sau va chạm với xe đầu kéo](https://vtc.vn/hai-nguoi-tu-vong-sau-va-cham-voi-xe-dau-keo-ar850165.html) - 11:56 27/01/2024
+- 💫 [Vợ chồng sinh 5 con trai trong 13 tháng, hài hước kể chuyện phân xử](https://vtc.vn/vo-chong-sinh-5-con-trai-trong-13-thang-hai-huoc-ke-chuyen-phan-xu-ar850135.html) - 09:51 27/01/2024
+- 👨‍🏫 [Đội tuyển Trung Quốc không mất phí bồi thường sa thải HLV Jankovic](https://vtc.vn/doi-tuyen-trung-quoc-khong-mat-phi-boi-thuong-sa-thai-hlv-jankovic-ar850144.html) - 09:48 27/01/2024
+- 🎡 [Shipper đang vận chuyển ma túy thì gặp công an](https://vtc.vn/shipper-dang-van-chuyen-ma-tuy-thi-gap-cong-an-ar850143.html) - 09:45 27/01/2024
+- 🕴 [Cập nhật mới nhất tỷ lệ nắm giữ của khối ngoại tại 3 ngân hàng trong nhóm Big4](https://vtc.vn/cap-nhat-moi-nhat-ty-le-nam-giu-cua-khoi-ngoai-tai-3-ngan-hang-trong-nhom-big4-ar850138.html) - 09:29 27/01/2024<!-- vtc:END -->
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
