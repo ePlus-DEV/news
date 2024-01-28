@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Bến phà Gót ra đảo Cát Bà sẽ dừng hoạt động từ 1/3](https://vnexpress.net/ben-pha-got-ra-dao-cat-ba-se-dung-hoat-dong-tu-1-3-4706100.html) - 14:12 28/01/2024
-- 🧰 [Đại học Kinh tế - Luật dành 50% chỉ tiêu xét đánh giá năng lực](https://vnexpress.net/dai-hoc-kinh-te-luat-danh-50-chi-tieu-xet-danh-gia-nang-luc-4706088.html) - 14:12 28/01/2024
+- 🧰 [Đại học Kinh tế - Luật dành 50% chỉ tiêu xét điểm thi đánh giá năng lực](https://vnexpress.net/dai-hoc-kinh-te-luat-danh-50-chi-tieu-xet-diem-thi-danh-gia-nang-luc-4706088.html) - 14:12 28/01/2024
 - 🥰 [Mong gặp người yêu và chở che em bằng cả tình yêu thương](https://vnexpress.net/mong-gap-nguoi-yeu-va-cho-che-em-bang-ca-tinh-yeu-thuong-4705981.html) - 14:00 28/01/2024
 - 🌏 [Không an tâm khi chồng đưa nhiều tiền bất thường](https://vnexpress.net/khong-an-tam-khi-chong-dua-nhieu-tien-bat-thuong-4705926.html) - 14:00 28/01/2024
 - 🧐 [Chân váy xuyên thấu &#39;nở rộ&#39;](https://vnexpress.net/chan-vay-xuyen-thau-no-ro-4705762.html) - 14:00 28/01/2024
