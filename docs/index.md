@@ -338,7 +338,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌮 [Nam sinh Bắc Ninh lập kỷ lục điểm số Đường lên đỉnh Olympia năm thứ 24](https://vtc.vn/nam-sinh-bac-ninh-lap-ky-luc-diem-so-duong-len-dinh-olympia-nam-thu-24-ar850291.html) - 11:33 28/01/2024
 - 🤖 [2 tàu cá ở Quảng Bình chìm trên biển: Tìm thấy thi thể 1 ngư dân](https://vtc.vn/2-tau-ca-o-quang-binh-chim-tren-bien-tim-thay-thi-the-1-ngu-dan-ar850285.html) - 10:34 28/01/2024
 - 🎬 [Vườn thú Hà Nội nói gì trước thông tin khỉ gầy trơ xương, chịu rét 10 độ C?](https://vtc.vn/vuon-thu-ha-noi-noi-gi-truoc-thong-tin-khi-gay-tro-xuong-chiu-ret-10-do-c-ar850282.html) - 10:32 28/01/2024
-- 🥳 [Trực tiếp bóng đá Australia 2-0 Indonesia: Bàn thắng đẹp mắt](https://vtc.vn/truc-tiep-bong-da-australia-vs-indonesia-vong-1-8-asian-cup-2023-ar850279.html) - 09:02 28/01/2024
+- 🥳 [Trực tiếp bóng đá Australia 4-0 Indonesia: Thế trận bế tắc](https://vtc.vn/truc-tiep-bong-da-australia-vs-indonesia-vong-1-8-asian-cup-2023-ar850279.html) - 09:02 28/01/2024
 - 🎓 [Ông Trump: NATO sẽ không bảo vệ Mỹ](https://vtc.vn/ong-trump-nato-se-khong-bao-ve-my-ar850275.html) - 08:10 28/01/2024
 - 👹 [Tàu thuỷ hàng trăm tấn &#39;đi&#39; trên núi ở Trung Quốc](https://vtc.vn/nhung-con-tau-thuy-hang-tram-tan-di-tren-nui-o-trung-quoc-ar850190.html) - 07:48 28/01/2024
 - 🤖 [Bắt nhóm chuyên bẻ gương chiếu hậu ô tô ở TP.HCM](https://vtc.vn/bat-nhom-chuyen-be-guong-chieu-hau-o-to-o-tp-hcm-ar850268.html) - 07:44 28/01/2024
