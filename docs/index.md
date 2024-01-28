@@ -333,17 +333,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Ukraine phát hiện vụ tham nhũng 40 triệu USD trong mua sắm vũ khí](https://vtc.vn/ukraine-phat-hien-vu-tham-nhung-40-trieu-usd-trong-mua-sam-vu-khi-ar850240.html) - 04:42 28/01/2024
-- 🤭 [Hàng không liên tục tăng chuyến, giá vé máy bay Tết vẫn &#39;nóng hầm hập&#39;](https://vtc.vn/hang-khong-lien-tuc-tang-chuyen-gia-ve-may-bay-tet-van-nong-ham-hap-ar850231.html) - 04:15 28/01/2024
-- 🦒 [Yêu cầu đặc biệt cho khán giả xem ghi hình Táo quân 2024](https://vtc.vn/yeu-cau-dac-biet-cho-khan-gia-xem-ghi-hinh-tao-quan-2024-ar850233.html) - 04:14 28/01/2024
-- 🌮 [Nhúng cành hoa vào nước sôi có công dụng gì?](https://vtc.vn/nhung-canh-hoa-vao-nuoc-soi-co-cong-dung-gi-ar849789.html) - 04:00 28/01/2024
-- 🤖 [Dự báo thời tiết 10 ngày từ 28/1 đến 6/2 cho Hà Nội và cả nước](https://vtc.vn/du-bao-thoi-tiet-10-ngay-tu-28-1-den-6-2-cho-ha-noi-va-ca-nuoc-ar850238.html) - 03:30 28/01/2024
-- 🎬 [Hàn Quốc: Triều Tiên phóng nhiều tên lửa hành trình từ bờ biển phía Đông](https://vtc.vn/han-quoc-trieu-tien-phong-nhieu-ten-lua-hanh-trinh-tu-bo-bien-phia-dong-ar850235.html) - 03:19 28/01/2024
-- 🥳 [Sao Việt 28/1: Vợ chồng Trấn Thành tình tứ, Việt Trinh trẻ trung ở tuổi 52](https://vtc.vn/sao-viet-28-1-vo-chong-tran-thanh-tinh-tu-viet-trinh-tre-trung-o-tuoi-52-ar850206.html) - 03:01 28/01/2024
-- 🎓 [Ngôi làng duy nhất trên thế giới mọi người đều đi được trên dây](https://vtc.vn/ngoi-lang-duy-nhat-tren-the-gioi-moi-nguoi-deu-di-duoc-tren-day-ar850183.html) - 03:00 28/01/2024
-- 👹 [Chỉ trích HLV trưởng tuyển Malaysia, nữ cầu thủ phải giải trình](https://vtc.vn/chi-trich-hlv-truong-tuyen-malaysia-nu-cau-thu-phai-giai-trinh-ar850215.html) - 03:00 28/01/2024
-- 🤖 [Nhận định Newport County vs Man Utd: &#39;Quỷ đỏ&#39; thị uy sức mạnh](https://vtc.vn/nhan-dinh-newport-county-vs-man-utd-quy-do-thi-uy-suc-manh-ar850228.html) - 02:54 28/01/2024
-- 🎊 [Độc đáo 10 cây đào uốn thành chiếc lộc bình hút khách chơi Tết](https://vtc.vn/doc-dao-10-cay-dao-uon-thanh-chiec-loc-binh-hut-khach-choi-tet-ar850186.html) - 02:33 28/01/2024
+- 🥸 [Đốt củi để sưởi ấm, 2 người ở Thanh Hoá suýt mất mạng](https://vtc.vn/dot-cui-de-suoi-am-2-nguoi-o-thanh-hoa-suyt-mat-mang-ar850244.html) - 05:02 28/01/2024
+- 🤭 [Ukraine phát hiện vụ tham nhũng 40 triệu USD trong mua sắm vũ khí](https://vtc.vn/ukraine-phat-hien-vu-tham-nhung-40-trieu-usd-trong-mua-sam-vu-khi-ar850240.html) - 04:42 28/01/2024
+- 🦒 [Hàng không liên tục tăng chuyến, giá vé máy bay Tết vẫn &#39;nóng hầm hập&#39;](https://vtc.vn/hang-khong-lien-tuc-tang-chuyen-gia-ve-may-bay-tet-van-nong-ham-hap-ar850231.html) - 04:15 28/01/2024
+- 🌮 [Yêu cầu đặc biệt cho khán giả xem ghi hình Táo quân 2024](https://vtc.vn/yeu-cau-dac-biet-cho-khan-gia-xem-ghi-hinh-tao-quan-2024-ar850233.html) - 04:14 28/01/2024
+- 🤖 [Nhúng cành hoa vào nước sôi có công dụng gì?](https://vtc.vn/nhung-canh-hoa-vao-nuoc-soi-co-cong-dung-gi-ar849789.html) - 04:00 28/01/2024
+- 🎬 [Dự báo thời tiết 10 ngày từ 28/1 đến 6/2 cho Hà Nội và cả nước](https://vtc.vn/du-bao-thoi-tiet-10-ngay-tu-28-1-den-6-2-cho-ha-noi-va-ca-nuoc-ar850238.html) - 03:30 28/01/2024
+- 🥳 [Hàn Quốc: Triều Tiên phóng nhiều tên lửa hành trình từ bờ biển phía Đông](https://vtc.vn/han-quoc-trieu-tien-phong-nhieu-ten-lua-hanh-trinh-tu-bo-bien-phia-dong-ar850235.html) - 03:19 28/01/2024
+- 🎓 [Sao Việt 28/1: Vợ chồng Trấn Thành tình tứ, Việt Trinh trẻ trung ở tuổi 52](https://vtc.vn/sao-viet-28-1-vo-chong-tran-thanh-tinh-tu-viet-trinh-tre-trung-o-tuoi-52-ar850206.html) - 03:01 28/01/2024
+- 👹 [Ngôi làng duy nhất trên thế giới mọi người đều đi được trên dây](https://vtc.vn/ngoi-lang-duy-nhat-tren-the-gioi-moi-nguoi-deu-di-duoc-tren-day-ar850183.html) - 03:00 28/01/2024
+- 🤖 [Chỉ trích HLV trưởng tuyển Malaysia, nữ cầu thủ phải giải trình](https://vtc.vn/chi-trich-hlv-truong-tuyen-malaysia-nu-cau-thu-phai-giai-trinh-ar850215.html) - 03:00 28/01/2024
+- 🎊 [Nhận định Newport County vs Man Utd: &#39;Quỷ đỏ&#39; thị uy sức mạnh](https://vtc.vn/nhan-dinh-newport-county-vs-man-utd-quy-do-thi-uy-suc-manh-ar850228.html) - 02:54 28/01/2024
 - 🐻 [MLee bật khóc ở Chị đẹp đạp gió rẽ sóng: &#39;Từ nhỏ tôi đã không ở với ba mẹ ruột&#39;](https://vtc.vn/mlee-bat-khoc-o-chi-dep-dap-gio-re-song-tu-nho-toi-da-khong-o-voi-ba-me-ruot-ar850229.html) - 01:57 28/01/2024
 - 👍 [Rau tầm bóp có tác dụng gì với sức khoẻ?](https://vtc.vn/rau-tam-bop-co-tac-dung-gi-voi-suc-khoe-ar849997.html) - 01:50 28/01/2024
 - 🪜 [Tổng thống Philippines thăm Việt Nam: Cột mốc trong quan hệ song phương](https://vtc.vn/tong-thong-philippines-tham-viet-nam-cot-moc-trong-quan-he-song-phuong-ar850227.html) - 01:48 28/01/2024
