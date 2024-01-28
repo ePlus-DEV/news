@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [4.000 sinh viên về quê nghỉ Tết trên chuyến xe miễn phí](https://vnexpress.net/4-000-sinh-vien-ve-que-nghi-tet-tren-chuyen-xe-mien-phi-4706008.html) - 05:09 28/01/2024
-- 🦆 [10 sai lầm khiến học sinh mắc kẹt ở điểm 6 IELTS Writing](https://vnexpress.net/10-sai-lam-khien-hoc-sinh-mac-ket-o-diem-6-ielts-writing-4705866.html) - 04:00 28/01/2024
+- 🦆 [10 sai lầm khiến học sinh mắc kẹt ở điểm 6.0 IELTS Writing](https://vnexpress.net/10-sai-lam-khien-hoc-sinh-mac-ket-o-diem-6-0-ielts-writing-4705866.html) - 04:00 28/01/2024
 - 🦩 [Bốn hình thức thuê nhà với du học sinh ở Australia](https://vnexpress.net/bon-hinh-thuc-thue-nha-voi-du-hoc-sinh-o-australia-4705411.html) - 02:15 28/01/2024
 - 🌮 [Nghệ An dừng biệt phái giáo viên về phòng Giáo dục](https://vnexpress.net/nghe-an-dung-biet-phai-giao-vien-ve-phong-giao-duc-4705812.html) - 14:46 27/01/2024
 - 🔭 [Cầu vượt ba tầng đầu tiên của Việt Nam ở đâu?](https://vnexpress.net/cau-vuot-ba-tang-dau-tien-cua-viet-nam-o-dau-4705867.html) - 13:21 27/01/2024
