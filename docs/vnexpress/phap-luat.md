@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Hàng loạt gương ôtô bị ăn trộm trong đêm ở Sài Gòn](https://vnexpress.net/hang-loat-guong-oto-bi-an-trom-trong-dem-o-sai-gon-4706022.html) - 05:52 28/01/2024
+- 😎 [Hàng loạt ôtô ở Sài Gòn bị trộm gương](https://vnexpress.net/hang-loat-oto-o-sai-gon-bi-trom-guong-4706022.html) - 05:52 28/01/2024
 - 🥰 [Gần 20 người ẩu đả trước quán bar ở trung tâm TP HCM](https://vnexpress.net/gan-20-nguoi-au-da-truoc-quan-bar-o-trung-tam-tp-hcm-4706012.html) - 05:39 28/01/2024
 - 🎓 [Người say đi ra đường, nếu bị tông xe sẽ mất quyền đòi bồi thường?](https://vnexpress.net/nguoi-say-di-ra-duong-neu-bi-tong-xe-se-khong-co-quyen-doi-boi-thuong-4705533.html) - 03:31 28/01/2024
 - 🤓 [Được bồi thường 2,25 tỷ USD vì bị ung thư khi dùng thuốc diệt cỏ](https://vnexpress.net/duoc-boi-thuong-2-25-ty-usd-vi-bi-ung-thu-khi-dung-thuoc-diet-co-4705917.html) - 03:31 28/01/2024
