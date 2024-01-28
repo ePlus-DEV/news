@@ -335,7 +335,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VTC
 <!-- vtc:START -->
 - 🥸 [2 tàu cá ở Quảng Bình chìm trên biển: Tìm thấy thi thể 1 ngư dân](https://vtc.vn/2-tau-ca-o-quang-binh-chim-tren-bien-tim-thay-thi-the-1-ngu-dan-ar850285.html) - 10:34 28/01/2024
-- 🤭 [Đàn thú chịu rét 10 độ C, khỉ gầy trơ xương: Vườn thú Hà Nội nói gì?](https://vtc.vn/dan-thu-chiu-ret-10-do-c-khi-gay-tro-xuong-vuon-thu-ha-noi-noi-gi-ar850282.html) - 10:32 28/01/2024
+- 🤭 [Vườn thú Hà Nội nói gì trước thông tin khỉ gầy trơ xương, chịu rét 10 độ C?](https://vtc.vn/vuon-thu-ha-noi-noi-gi-truoc-thong-tin-khi-gay-tro-xuong-chiu-ret-10-do-c-ar850282.html) - 10:32 28/01/2024
 - 🦒 [Trực tiếp bóng đá Australia vs Indonesia vòng 1/8 Asian Cup 2023](https://vtc.vn/truc-tiep-bong-da-australia-vs-indonesia-vong-1-8-asian-cup-2023-ar850279.html) - 09:02 28/01/2024
 - 🌮 [Bị đồn sang Australia du học để sinh con, Ninh Dương Lan Ngọc nói gì?](https://vtc.vn/bi-don-sang-australia-du-hoc-de-sinh-con-ninh-duong-lan-ngoc-noi-gi-ar850250.html) - 09:01 28/01/2024
 - 🤖 [Ba người trong gia đình tử vong nghi do ngộ độc khí than ở Bắc Giang](https://vtc.vn/ba-nguoi-trong-gia-dinh-tu-vong-nghi-do-ngo-doc-khi-than-o-bac-giang-ar850277.html) - 08:32 28/01/2024
