@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Những thiếu niên &#39;bất đắc dĩ&#39; làm mẹ](https://vnexpress.net/nhung-thieu-nien-bat-dac-di-lam-me-4705628.html) - 23:05 27/01/2024
+- 🔥 [Những thiếu nữ bất đắc dĩ làm mẹ](https://vnexpress.net/nhung-thieu-nu-bat-dac-di-lam-me-4705628.html) - 23:05 27/01/2024
 - 🥰 [Những ung thư có tính di truyền](https://vnexpress.net/nhung-ung-thu-co-tinh-di-truyen-4705459.html) - 21:00 27/01/2024
 - 💡 [Anh phát triển vaccine đầu tiên điều trị ung thư ruột](https://vnexpress.net/anh-phat-trien-vaccine-dau-tien-dieu-tri-ung-thu-ruot-4705851.html) - 19:00 27/01/2024
 - 🤗 [Mất móng chân cái vì ung thư da mà không biết](https://vnexpress.net/mat-mong-chan-cai-vi-ung-thu-da-ma-khong-biet-4705217.html) - 17:04 27/01/2024
