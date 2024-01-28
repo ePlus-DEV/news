@@ -334,21 +334,21 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Người dân mang đào quất đi tảo mộ, mời tổ tiên về đón Tết](https://vtc.vn/nguoi-dan-mang-dao-quat-di-tao-mo-moi-to-tien-ve-don-tet-ar850198.html) - 12:17 28/01/2024
-- 🤭 [‘Soi’ thu nhập các sếp ngân hàng, cao nhất gần 4,3 tỷ đồng/năm](https://vtc.vn/soi-thu-nhap-cac-sep-ngan-hang-cao-nhat-gan-4-3-ty-dong-nam-ar845408.html) - 11:54 28/01/2024
-- 🦒 [Trong 5 năm, Việt Nam có thêm 2.184 Giáo sư, Phó giáo sư được công nhận](https://vtc.vn/trong-5-nam-viet-nam-co-them-2-184-giao-su-pho-giao-su-duoc-cong-nhan-ar850297.html) - 11:51 28/01/2024
-- 🌮 [Dự báo thời tiết ngày 29/1: Miền Bắc tăng nhiệt, nhiều nơi hứng mưa rào](https://vtc.vn/du-bao-thoi-tiet-ngay-29-1-mien-bac-tang-nhiet-nhieu-noi-hung-mua-rao-ar850259.html) - 11:44 28/01/2024
-- 🤖 [Bắt 7 thanh niên hack tài khoản Facebook, chiếm đoạt 8 tỷ đồng](https://vtc.vn/bat-7-thanh-nien-hack-tai-khoan-facebook-chiem-doat-8-ty-dong-ar850287.html) - 11:40 28/01/2024
-- 🎬 [Thổ Nhĩ Kỳ: Tấn công có vũ trang nhằm vào nhà thờ, ít nhất 1 người thiệt mạng](https://vtc.vn/tho-nhi-ky-tan-cong-co-vu-trang-nham-vao-nha-tho-it-nhat-1-nguoi-thiet-mang-ar850296.html) - 11:36 28/01/2024
-- 🥳 [Nam sinh Bắc Ninh lập kỷ lục điểm số Đường lên đỉnh Olympia năm thứ 24](https://vtc.vn/nam-sinh-bac-ninh-lap-ky-luc-diem-so-duong-len-dinh-olympia-nam-thu-24-ar850291.html) - 11:33 28/01/2024
-- 🎓 [2 tàu cá ở Quảng Bình chìm trên biển: Tìm thấy thi thể 1 ngư dân](https://vtc.vn/2-tau-ca-o-quang-binh-chim-tren-bien-tim-thay-thi-the-1-ngu-dan-ar850285.html) - 10:34 28/01/2024
+- 🥸 [Hơn 100 người mặc áo dài truyền thống, tái hiện Tết xưa trên phố cổ Hà Nội](https://vtc.vn/hon-100-nguoi-mac-ao-dai-truyen-thong-tai-hien-tet-xua-tren-pho-co-ha-noi-ar850319.html) - 14:30 28/01/2024
+- 🤭 [Người dân mang đào quất đi tảo mộ, mời tổ tiên về đón Tết](https://vtc.vn/nguoi-dan-mang-dao-quat-di-tao-mo-moi-to-tien-ve-don-tet-ar850198.html) - 12:17 28/01/2024
+- 🦒 [‘Soi’ thu nhập các sếp ngân hàng, cao nhất gần 4,3 tỷ đồng/năm](https://vtc.vn/soi-thu-nhap-cac-sep-ngan-hang-cao-nhat-gan-4-3-ty-dong-nam-ar845408.html) - 11:54 28/01/2024
+- 🌮 [Trong 5 năm, Việt Nam có thêm 2.184 Giáo sư, Phó giáo sư được công nhận](https://vtc.vn/trong-5-nam-viet-nam-co-them-2-184-giao-su-pho-giao-su-duoc-cong-nhan-ar850297.html) - 11:51 28/01/2024
+- 🤖 [Dự báo thời tiết ngày 29/1: Miền Bắc tăng nhiệt, nhiều nơi hứng mưa rào](https://vtc.vn/du-bao-thoi-tiet-ngay-29-1-mien-bac-tang-nhiet-nhieu-noi-hung-mua-rao-ar850259.html) - 11:44 28/01/2024
+- 🎬 [Bắt 7 thanh niên hack tài khoản Facebook, chiếm đoạt 8 tỷ đồng](https://vtc.vn/bat-7-thanh-nien-hack-tai-khoan-facebook-chiem-doat-8-ty-dong-ar850287.html) - 11:40 28/01/2024
+- 🥳 [Thổ Nhĩ Kỳ: Tấn công có vũ trang nhằm vào nhà thờ, ít nhất 1 người thiệt mạng](https://vtc.vn/tho-nhi-ky-tan-cong-co-vu-trang-nham-vao-nha-tho-it-nhat-1-nguoi-thiet-mang-ar850296.html) - 11:36 28/01/2024
+- 🎓 [Nam sinh Bắc Ninh lập kỷ lục điểm số Đường lên đỉnh Olympia năm thứ 24](https://vtc.vn/nam-sinh-bac-ninh-lap-ky-luc-diem-so-duong-len-dinh-olympia-nam-thu-24-ar850291.html) - 11:33 28/01/2024
 - 👹 [2 tàu cá ở Quảng Bình chìm trên biển: Tìm thấy thi thể 1 ngư dân](https://vtc.vn/2-tau-ca-o-quang-binh-chim-tren-bien-tim-thay-thi-the-1-ngu-dan-ar850285.html) - 10:34 28/01/2024
-- 🤖 [Ngọc Anh 3A tiết lộ chồng Tây bị tai biến sau 1 năm làm đám cưới](https://vtc.vn/ngoc-anh-3a-tiet-lo-chong-tay-bi-tai-bien-sau-1-nam-lam-dam-cuoi-ar850276.html) - 10:34 28/01/2024
-- 🎊 [Xe container kéo gãy khung sắt trên Quốc lộ 1A, đổ đè lên xe buýt](https://vtc.vn/xe-container-keo-gay-khung-sat-tren-quoc-lo-1a-do-de-len-xe-buyt-ar849540.html) - 10:32 28/01/2024
-- 🐻 [Vườn thú Hà Nội nói gì trước thông tin khỉ gầy trơ xương, chịu rét 10 độ C?](https://vtc.vn/vuon-thu-ha-noi-noi-gi-truoc-thong-tin-khi-gay-tro-xuong-chiu-ret-10-do-c-ar850282.html) - 10:32 28/01/2024
-- 👍 [Trung Quốc dẫn đầu về đầu tư dự án mới tại Việt Nam](https://vtc.vn/trung-quoc-dan-dau-ve-dau-tu-du-an-moi-tai-viet-nam-ar850288.html) - 10:21 28/01/2024
-- 🪜 [Người dân Đức phải tự xây hầm trú ẩn nếu chiến tranh xảy ra](https://vtc.vn/nguoi-dan-duc-phai-tu-xay-ham-tru-an-neu-chien-tranh-xay-ra-ar850283.html) - 09:47 28/01/2024
-- 🌮 [Bị đồn sang Australia du học để sinh con, Ninh Dương Lan Ngọc nói gì?](https://vtc.vn/bi-don-sang-australia-du-hoc-de-sinh-con-ninh-duong-lan-ngoc-noi-gi-ar850250.html) - 09:01 28/01/2024
+- 🤖 [2 tàu cá ở Quảng Bình chìm trên biển: Tìm thấy thi thể 1 ngư dân](https://vtc.vn/2-tau-ca-o-quang-binh-chim-tren-bien-tim-thay-thi-the-1-ngu-dan-ar850285.html) - 10:34 28/01/2024
+- 🎊 [Ngọc Anh 3A tiết lộ chồng Tây bị tai biến sau 1 năm làm đám cưới](https://vtc.vn/ngoc-anh-3a-tiet-lo-chong-tay-bi-tai-bien-sau-1-nam-lam-dam-cuoi-ar850276.html) - 10:34 28/01/2024
+- 🐻 [Xe container kéo gãy khung sắt trên Quốc lộ 1A, đổ đè lên xe buýt](https://vtc.vn/xe-container-keo-gay-khung-sat-tren-quoc-lo-1a-do-de-len-xe-buyt-ar849540.html) - 10:32 28/01/2024
+- 👍 [Vườn thú Hà Nội nói gì trước thông tin khỉ gầy trơ xương, chịu rét 10 độ C?](https://vtc.vn/vuon-thu-ha-noi-noi-gi-truoc-thong-tin-khi-gay-tro-xuong-chiu-ret-10-do-c-ar850282.html) - 10:32 28/01/2024
+- 🪜 [Trung Quốc dẫn đầu về đầu tư dự án mới tại Việt Nam](https://vtc.vn/trung-quoc-dan-dau-ve-dau-tu-du-an-moi-tai-viet-nam-ar850288.html) - 10:21 28/01/2024
+- 🌮 [Người dân Đức phải tự xây hầm trú ẩn nếu chiến tranh xảy ra](https://vtc.vn/nguoi-dan-duc-phai-tu-xay-ham-tru-an-neu-chien-tranh-xay-ra-ar850283.html) - 09:47 28/01/2024
 - 🌁 [Mạng X lập trụ sở kiểm duyệt nội dung 100 người](https://vtc.vn/mang-x-lap-tru-so-kiem-duyet-noi-dung-100-nguoi-ar850232.html) - 08:58 28/01/2024
 - 👺 [Sắp đưa đi hỏa thiêu, thi thể bị công an giữ khám nghiệm vì nghi ngờ án mạng](https://vtc.vn/sap-duoc-dua-di-hoa-thieu-cong-an-giu-thi-the-kham-nghiem-vi-nghi-ngo-an-mang-ar850273.html) - 08:26 28/01/2024
 - 🌊 [Ông Trump: NATO sẽ không bảo vệ Mỹ](https://vtc.vn/ong-trump-nato-se-khong-bao-ve-my-ar850275.html) - 08:10 28/01/2024
