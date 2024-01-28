@@ -16,7 +16,7 @@ sidebar_position: 1
 - 🚦 [Đặc sản thịt chua xứ Nghệ vào vụ Tết](https://vnexpress.net/dac-san-thit-chua-xu-nghe-vao-vu-tet-4705896.html) - 20:00 27/01/2024
 - 🎉 [Miền Bắc sẽ mưa lạnh dịp Tết Giáp Thìn](https://vnexpress.net/mien-bac-se-mua-lanh-dip-tet-giap-thin-4705529.html) - 17:00 27/01/2024
 - 🦒 [Xuyên đêm đúc đồng bán Tết ở làng nghề hơn 200 năm tuổi](https://vnexpress.net/xuyen-dem-duc-dong-ban-tet-o-lang-nghe-hon-200-nam-tuoi-4704648.html) - 17:00 27/01/2024
-- 🤗 [Hai tàu cá bị chìm, 3 ngư dân mất tích](https://vnexpress.net/hai-tau-ca-bi-chim-3-ngu-dan-mat-tich-4705905.html) - 12:36 27/01/2024
+- 🤗 [Hai tàu cá bị chìm, ba ngư dân mất tích](https://vnexpress.net/hai-tau-ca-bi-chim-ba-ngu-dan-mat-tich-4705905.html) - 12:36 27/01/2024
 - 💼 [Mở rộng đại lộ từ TP Thanh Hóa đi Sầm Sơn lên 70 m](https://vnexpress.net/mo-rong-dai-lo-tu-tp-thanh-hoa-di-sam-son-len-70-m-4705850.html) - 11:49 27/01/2024
 - 🤩 [Linh vật rồng khắp cả nước](https://vnexpress.net/linh-vat-rong-khap-ca-nuoc-4705789.html) - 09:37 27/01/2024
 - 🤡 [Cuộc sống trong sương mù, rét 5 độ C](https://vnexpress.net/cuoc-song-trong-suong-mu-ret-5-do-c-4705822.html) - 08:27 27/01/2024
