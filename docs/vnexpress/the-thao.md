@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Sinner *3-6, 2-5 Medvedev &lpar;set 2&rpar;: Thế trận một chiều](https://vnexpress.net/truc-tiep-sinner-vs-medvedev-chung-ket-australia-mo-rong-4705999.html) - 08:16 28/01/2024
+- 🪜 [Sinner 3-6, 3-6, 2-1* Medvedev &lpar;set 3&rpar;: Thế trận một chiều](https://vnexpress.net/truc-tiep-sinner-vs-medvedev-chung-ket-australia-mo-rong-4705999.html) - 08:16 28/01/2024
 - 🦩 [Man Utd thời Ten Hag thiếu bản sắc thế nào](https://vnexpress.net/man-utd-thoi-ten-hag-thieu-ban-sac-the-nao-4705954.html) - 06:54 28/01/2024
 - 🧰 [Dấu hiệu thiếu vitamin B12 khi chạy bộ](https://vnexpress.net/dau-hieu-thieu-vitamin-b12-khi-chay-bo-4705945.html) - 05:49 28/01/2024
 - 🤗 [Khán giả xuống sân làm trọng tài ở Bundesliga](https://vnexpress.net/khan-gia-xuong-san-lam-trong-tai-o-bundesliga-4705975.html) - 03:46 28/01/2024
