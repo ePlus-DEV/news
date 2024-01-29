@@ -10,7 +10,7 @@ sidebar_position: 1
 - 🌊 [Hàng trăm gia súc chết rét](https://vnexpress.net/hang-tram-gia-suc-chet-ret-4706293.html) - 05:03 29/01/2024
 - 🎓 [Cọc bêtông đè bẹp cabin, tài xế mắc kẹt](https://vnexpress.net/coc-betong-de-bep-cabin-tai-xe-mac-ket-4706144.html) - 01:10 29/01/2024
 - 🔥 [GS Võ Tòng Xuân: Miền Tây có thể sản xuất 4 vụ lúa một năm](https://vnexpress.net/gs-vo-tong-xuan-mien-tay-co-the-san-xuat-4-vu-lua-mot-nam-4705963.html) - 22:00 28/01/2024
-- 🦏 [Bến phà Gót ra đảo Cát Bà sẽ dừng hoạt động từ 1/3](https://vnexpress.net/ben-pha-got-ra-dao-cat-ba-se-dung-hoat-dong-tu-1-3-4706100.html) - 14:12 28/01/2024
+- 🦏 [Bến phà Gót ra đảo Cát Bà dừng hoạt động từ 1/3](https://vnexpress.net/ben-pha-got-ra-dao-cat-ba-dung-hoat-dong-tu-1-3-4706100.html) - 14:12 28/01/2024
 - 👺 [Quốc lộ 1 qua TP HCM ùn tắc 6 km sau tai nạn](https://vnexpress.net/quoc-lo-1-qua-tp-hcm-un-tac-6-km-sau-tai-nan-4706068.html) - 10:04 28/01/2024
 - 🧑‍🏫 [Ba người chết nghi do sưởi than hoa](https://vnexpress.net/ba-nguoi-chet-nghi-do-suoi-than-hoa-4706047.html) - 08:48 28/01/2024
 - 🚦 [Sửa miễn phí hơn nghìn xe máy cho công nhân về Tết](https://vnexpress.net/sua-mien-phi-hon-nghin-xe-may-cho-cong-nhan-ve-tet-4705994.html) - 06:30 28/01/2024
