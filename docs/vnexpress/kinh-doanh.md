@@ -4,8 +4,8 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Bình Tân sắp có phố thương mại, dịch vụ](https://vnexpress.net/binh-tan-sap-co-pho-thuong-mai-dich-vu-4706535.html) - 13:55 29/01/2024
-- 🐲 [Dừng thông quan với hai doanh nghiệp đầu mối xăng dầu bị rút giấy phép](https://vnexpress.net/dung-thong-quan-voi-hai-doanh-nghiep-dau-moi-xang-dau-bi-rut-giay-phep-4706538.html) - 13:38 29/01/2024
+- ⛽️ [Hải Hà Petro và Xuyên Việt Oil bị dừng thông quan xăng dầu](https://vnexpress.net/hai-ha-petro-va-xuyen-viet-oil-bi-dung-thong-quan-xang-dau-4706538.html) - 13:56 29/01/2024
+- 🐲 [Bình Tân sắp có phố thương mại, dịch vụ](https://vnexpress.net/binh-tan-sap-co-pho-thuong-mai-dich-vu-4706535.html) - 13:55 29/01/2024
 - 🔥 [Rời EVN, cán bộ vận hành điện A0 có thể vẫn nhận lương 40 triệu đồng](https://vnexpress.net/roi-evn-can-bo-van-hanh-dien-a0-co-the-van-nhan-luong-40-trieu-dong-4706446.html) - 09:10 29/01/2024
 - 🐵 [Chuỗi nhà thuốc Long Châu thu gần 16.000 tỷ đồng năm 2023](https://vnexpress.net/chuoi-nha-thuoc-long-chau-thu-gan-16-000-ty-dong-nam-2023-4706347.html) - 08:20 29/01/2024
 - 🦅 [Gần triệu đồng cặp dừa, bưởi vẽ thư pháp](https://vnexpress.net/gan-trieu-dong-cap-dua-buoi-ve-thu-phap-4705950.html) - 07:30 29/01/2024
