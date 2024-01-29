@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Rời EVN, cán bộ vận hành điện A0 có thể vẫn nhận lương 40 triệu đồng](https://vnexpress.net/roi-evn-can-bo-van-hanh-dien-a0-co-the-van-nhan-luong-40-trieu-dong-4706446.html) - 09:10 29/01/2024
-- 🐲 [Chủ chuỗi FPT Shop lỗ gần 300 tỷ đồng năm 2023](https://vnexpress.net/chu-chuoi-fpt-shop-lo-gan-300-ty-dong-nam-2023-4706347.html) - 08:20 29/01/2024
+- 🐲 [Chuỗi nhà thuốc Long Châu thu gần 16.000 tỷ đồng năm 2023](https://vnexpress.net/chuoi-nha-thuoc-long-chau-thu-gan-16-000-ty-dong-nam-2023-4706347.html) - 08:20 29/01/2024
 - 🔥 [Gần triệu đồng cặp dừa, bưởi vẽ thư pháp](https://vnexpress.net/gan-trieu-dong-cap-dua-buoi-ve-thu-phap-4705950.html) - 07:30 29/01/2024
 - 🐵 [Chủ quản công viên Đầm Sen tiếp tục thua lỗ](https://vnexpress.net/chu-quan-cong-vien-dam-sen-tiep-tuc-thua-lo-4706259.html) - 04:18 29/01/2024
 - 🦅 [&#39;Quả bom nợ&#39; Evergrande phải thanh lý tài sản](https://vnexpress.net/qua-bom-no-evergrande-phai-thanh-ly-tai-san-4706248.html) - 04:10 29/01/2024
