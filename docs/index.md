@@ -334,21 +334,21 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Mất 2 con vì bệnh hiếm, người mẹ ước giá như không sinh con thứ 4](https://vtc.vn/mat-2-con-vi-benh-hiem-nguoi-me-uoc-gia-nhu-khong-sinh-con-thu-4-ar849449.html) - 07:53 29/01/2024
-- 🤭 [Bí quyết trường thọ của người sống ở ngôi làng lạnh nhất thế giới](https://vtc.vn/bi-quyet-truong-tho-cua-nguoi-song-o-ngoi-lang-lanh-nhat-the-gioi-ar850351.html) - 07:12 29/01/2024
-- 🦒 [Chuyên gia nhận định tình hình mưa rét dịp Tết Nguyên đán Giáp Thìn 2024](https://vtc.vn/chuyen-gia-nhan-dinh-tinh-hinh-mua-ret-dip-tet-nguyen-dan-giap-thin-2024-ar849782.html) - 07:02 29/01/2024
-- 🌮 [Dân mạng đua nhau khoe tuyệt chiêu làm sạch bàn ghế gỗ chạm trổ đón Tết](https://vtc.vn/dan-mang-dua-nhau-khoe-tuyet-chieu-lam-sach-ban-ghe-go-cham-tro-don-tet-ar850363.html) - 07:01 29/01/2024
-- 🤖 [Trong 10 giây, đố bạn tìm được con sâu trên cây](https://vtc.vn/trong-10-giay-do-ban-tim-duoc-con-sau-tren-cay-ar849957.html) - 07:00 29/01/2024
-- 🎬 [Sâu đá, ấu trùng chuồn chuồn, đặc sản vùng Tây Bắc dành cho người can đảm](https://vtc.vn/sau-da-au-trung-chuon-chuon-dac-san-vung-tay-bac-danh-cho-nguoi-can-dam-ar850408.html) - 06:39 29/01/2024
-- 🥳 [Những tin đồn xung quanh iPad và MacBook Air mới sắp ra mắt](https://vtc.vn/nhung-tin-don-xung-quanh-ipad-va-macbook-air-moi-sap-ra-mat-ar850359.html) - 06:14 29/01/2024
-- 🎓 [Iran phủ nhận liên quan đến vụ tấn công căn cứ Mỹ ở Jordan](https://vtc.vn/iran-phu-nhan-lien-quan-den-vu-tan-cong-can-cu-my-o-jordan-ar850383.html) - 06:09 29/01/2024
-- 👹 [Tòa án Hong Kong ra lệnh thanh lý tài sản Evergrande](https://vtc.vn/toa-an-hong-kong-ra-lenh-thanh-ly-tai-san-evergrande-ar850398.html) - 06:08 29/01/2024
-- 🤖 [Đội tuyển Việt Nam chỉ thắng 1 lần trong các trận có VAR](https://vtc.vn/doi-tuyen-viet-nam-chi-thang-1-lan-trong-cac-tran-co-var-ar850397.html) - 06:03 29/01/2024
-- 🎊 [Điều tra vụ tung tin bịa đặt &#39;thảm án 3 người chết ở Long An&#39;](https://vtc.vn/dieu-tra-vu-tung-tin-bia-dat-tham-an-3-nguoi-chet-o-long-an-ar850395.html) - 05:34 29/01/2024
-- 🐻 [Bắt kẻ giết người, trốn trong rừng sâu buôn ma túy](https://vtc.vn/bat-ke-giet-nguoi-tron-trong-rung-sau-buon-ma-tuy-ar850390.html) - 05:13 29/01/2024
-- 👍 [Bắt cựu Chủ tịch Công ty Sen Tài Thu và con gái](https://vtc.vn/bat-chu-tich-cong-ty-sen-tai-thu-va-con-gai-ar850386.html) - 05:05 29/01/2024
-- 🪜 [Bí thư Thành ủy Uông Bí Nghiêm Xuân Cường giữ chức Phó Chủ tịch tỉnh Quảng Ninh](https://vtc.vn/bi-thu-thanh-uy-uong-bi-nghiem-xuan-cuong-giu-chuc-pho-chu-tich-tinh-quang-ninh-ar850380.html) - 04:55 29/01/2024
-- 🌮 [Táo quân 2024: Dàn Táo thay mới toàn bộ, chỉ &#39;Ngọc Hoàng&#39; Quốc Khánh ở lại](https://vtc.vn/tao-quan-2024-dan-tao-thay-moi-toan-bo-chi-ngoc-hoang-quoc-khanh-o-lai-ar850378.html) - 04:53 29/01/2024
+- 🥸 [Tổng thống Philippines đến Hà Nội, bắt đầu thăm cấp Nhà nước Việt Nam](https://vtc.vn/tong-thong-philippines-den-ha-noi-bat-dau-tham-cap-nha-nuoc-viet-nam-ar850463.html) - 09:22 29/01/2024
+- 🤭 [Đề xuất xử lý hình sự tài xế vi phạm nồng độ cồn vượt mức kịch khung](https://vtc.vn/de-xuat-xu-ly-hinh-su-tai-xe-vi-pham-nong-do-con-vuot-muc-kich-khung-ar850430.html) - 09:22 29/01/2024
+- 🦒 [Mất 2 con vì bệnh hiếm, người mẹ ước giá như không sinh con thứ 4](https://vtc.vn/mat-2-con-vi-benh-hiem-nguoi-me-uoc-gia-nhu-khong-sinh-con-thu-4-ar849449.html) - 07:53 29/01/2024
+- 🌮 [Bí quyết trường thọ của người sống ở ngôi làng lạnh nhất thế giới](https://vtc.vn/bi-quyet-truong-tho-cua-nguoi-song-o-ngoi-lang-lanh-nhat-the-gioi-ar850351.html) - 07:12 29/01/2024
+- 🤖 [Chuyên gia nhận định tình hình mưa rét dịp Tết Nguyên đán Giáp Thìn 2024](https://vtc.vn/chuyen-gia-nhan-dinh-tinh-hinh-mua-ret-dip-tet-nguyen-dan-giap-thin-2024-ar849782.html) - 07:02 29/01/2024
+- 🎬 [Dân mạng đua nhau khoe tuyệt chiêu làm sạch bàn ghế gỗ chạm trổ đón Tết](https://vtc.vn/dan-mang-dua-nhau-khoe-tuyet-chieu-lam-sach-ban-ghe-go-cham-tro-don-tet-ar850363.html) - 07:01 29/01/2024
+- 🥳 [Trong 10 giây, đố bạn tìm được con sâu trên cây](https://vtc.vn/trong-10-giay-do-ban-tim-duoc-con-sau-tren-cay-ar849957.html) - 07:00 29/01/2024
+- 🎓 [Sâu đá, ấu trùng chuồn chuồn, đặc sản vùng Tây Bắc dành cho người can đảm](https://vtc.vn/sau-da-au-trung-chuon-chuon-dac-san-vung-tay-bac-danh-cho-nguoi-can-dam-ar850408.html) - 06:39 29/01/2024
+- 👹 [Những tin đồn xung quanh iPad và MacBook Air mới sắp ra mắt](https://vtc.vn/nhung-tin-don-xung-quanh-ipad-va-macbook-air-moi-sap-ra-mat-ar850359.html) - 06:14 29/01/2024
+- 🤖 [Iran phủ nhận liên quan đến vụ tấn công căn cứ Mỹ ở Jordan](https://vtc.vn/iran-phu-nhan-lien-quan-den-vu-tan-cong-can-cu-my-o-jordan-ar850383.html) - 06:09 29/01/2024
+- 🎊 [Tòa án Hong Kong ra lệnh thanh lý tài sản Evergrande](https://vtc.vn/toa-an-hong-kong-ra-lenh-thanh-ly-tai-san-evergrande-ar850398.html) - 06:08 29/01/2024
+- 🐻 [Đội tuyển Việt Nam chỉ thắng 1 lần trong các trận có VAR](https://vtc.vn/doi-tuyen-viet-nam-chi-thang-1-lan-trong-cac-tran-co-var-ar850397.html) - 06:03 29/01/2024
+- 👍 [Điều tra vụ tung tin bịa đặt &#39;thảm án 3 người chết ở Long An&#39;](https://vtc.vn/dieu-tra-vu-tung-tin-bia-dat-tham-an-3-nguoi-chet-o-long-an-ar850395.html) - 05:34 29/01/2024
+- 🪜 [Bắt kẻ giết người, trốn trong rừng sâu buôn ma túy](https://vtc.vn/bat-ke-giet-nguoi-tron-trong-rung-sau-buon-ma-tuy-ar850390.html) - 05:13 29/01/2024
+- 🌮 [Bắt cựu Chủ tịch Công ty Sen Tài Thu và con gái](https://vtc.vn/bat-chu-tich-cong-ty-sen-tai-thu-va-con-gai-ar850386.html) - 05:05 29/01/2024
 - 🌁 [Triều Tiên lần đầu tiên phóng thử thành công tên lửa hành trình từ tàu ngầm](https://vtc.vn/trieu-tien-lan-dau-tien-phong-thu-thanh-cong-ten-lua-hanh-trinh-tu-tau-ngam-ar850352.html) - 04:26 29/01/2024
 - 👺 [Giá USD &#39;chợ đen&#39; hạ nhiệt sau nhiều ngày leo dốc](https://vtc.vn/gia-usd-cho-den-ha-nhiet-sau-nhieu-ngay-leo-doc-ar850358.html) - 03:31 29/01/2024
 - 🌊 [Con tự tử vì bị giáo viên lăng mạ, cha thành luật sư quyết đòi công lý](https://vtc.vn/con-tu-tu-vi-bi-giao-vien-lang-ma-cha-thanh-luat-su-quyet-doi-cong-ly-ar850342.html) - 03:20 29/01/2024
