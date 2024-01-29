@@ -4,63 +4,63 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Thảm án từ &#39;cuộc chiến phong thuỷ&#39; với gia đình hàng xóm](https://vnexpress.net/tham-an-tu-cuoc-chien-phong-thuy-voi-gia-dinh-hang-xom-4706465.html) - 17:00 29/01/2024
-- 🥰 [Cha mẹ có bị phạt hành chính khi con gây ồn, phiền hàng xóm?](https://vnexpress.net/cha-me-co-bi-phat-hanh-chinh-khi-con-gay-on-phien-hang-xom-4703945.html) - 17:00 29/01/2024
-- 🎓 [Đại án tham nhũng chấn động bóng đá Trung Quốc](https://vnexpress.net/dai-an-tham-nhung-chan-dong-bong-da-trung-quoc-4706550.html) - 16:05 29/01/2024
-- 🤓 [Bảo mẫu cẩu thả gây ra cái chết của bé trai](https://vnexpress.net/bao-mau-cau-tha-gay-ra-cai-chet-cua-be-trai-4706515.html) - 11:50 29/01/2024
-- 🎊 [Bộ Công an lý giải đề xuất siết quản lý dao nhọn trên 20 cm](https://vnexpress.net/bo-cong-an-ly-giai-de-xuat-siet-quan-ly-dao-nhon-tren-20-cm-4706333.html) - 09:17 29/01/2024
-- 🙉 [Chủ đầu tư dự án Kingsway bị cáo buộc chiếm đoạt 465 tỷ đồng](https://vnexpress.net/chu-dau-tu-du-an-kingsway-bi-cao-buoc-chiem-doat-465-ty-dong-4706374.html) - 08:13 29/01/2024
-- 🤡 [Kẻ giết người trốn vào rừng sâu lập đường dây ma túy](https://vnexpress.net/ke-giet-nguoi-tron-vao-rung-sau-lap-duong-day-ma-tuy-4706332.html) - 06:59 29/01/2024
-- 🗽 [Cảnh sát ngăn vụ hỏa táng thi thể để điều tra án mạng](https://vnexpress.net/canh-sat-ngan-vu-hoa-tang-thi-the-de-dieu-tra-an-mang-4706328.html) - 06:10 29/01/2024
-- 🌋 [Chủ tịch HĐQT Sen Tài Thu Phạm Thị Hòa bị bắt](https://vnexpress.net/chu-tich-hdqt-sen-tai-thu-pham-thi-hoa-bi-bat-4706320.html) - 05:10 29/01/2024
-- 🎬 [Người không có hộ khẩu, làm căn cước công dân thế nào?](https://vnexpress.net/nguoi-khong-co-ho-khau-lam-can-cuoc-cong-dan-the-nao-4705139.html) - 03:33 29/01/2024
-- 💯 [Thói quen vứt đồ &#39;tố cáo&#39; sát thủ thích trộm nội y phụ nữ](https://vnexpress.net/thoi-quen-vut-do-to-cao-sat-thu-thich-trom-noi-y-phu-nu-4706107.html) - 00:56 29/01/2024
-- 🌏 [Người nhập ngũ phải có học vấn tối thiểu lớp mấy?](https://vnexpress.net/nguoi-nhap-ngu-phai-co-trinh-do-hoc-van-toi-thieu-lop-may-4705169.html) - 23:00 28/01/2024
-- 🌊 [Không đóng phạt nguội giao thông, sau 12 tháng sẽ được &#39;xóa&#39; vi phạm?](https://vnexpress.net/khong-dong-phat-nguoi-giao-thong-sau-12-thang-se-duoc-xoa-vi-pham-4705997.html) - 17:00 28/01/2024
-- 💂 [70 giang hồ hỗn chiến ở Phú Quốc nói &#39;nuối tiếc, xin khoan hồng&#39;](https://vnexpress.net/70-giang-ho-hon-chien-o-phu-quoc-noi-nuoi-tiec-xin-khoan-hong-4706059.html) - 10:11 28/01/2024
-- 🎡 [Hàng loạt ôtô ở Sài Gòn bị trộm gương](https://vnexpress.net/hang-loat-oto-o-sai-gon-bi-trom-guong-4706022.html) - 05:52 28/01/2024
-- 🫶 [Gần 20 người ẩu đả trước quán bar ở trung tâm TP HCM](https://vnexpress.net/gan-20-nguoi-au-da-truoc-quan-bar-o-trung-tam-tp-hcm-4706012.html) - 05:39 28/01/2024
-- 🐲 [Người say đi ra đường, nếu bị tông xe sẽ mất quyền đòi bồi thường?](https://vnexpress.net/nguoi-say-di-ra-duong-neu-bi-tong-xe-se-khong-co-quyen-doi-boi-thuong-4705533.html) - 03:31 28/01/2024
-- 🚀 [Được bồi thường 2,25 tỷ USD vì bị ung thư khi dùng thuốc diệt cỏ](https://vnexpress.net/duoc-boi-thuong-2-25-ty-usd-vi-bi-ung-thu-khi-dung-thuoc-diet-co-4705917.html) - 03:31 28/01/2024
-- 🎊 [Ngôi sao của Peaky Blinders ra tòa vì sử dụng cocaine](https://vnexpress.net/ngoi-sao-cua-peaky-blinders-ra-toa-vi-su-dung-cocaine-4705928.html) - 03:17 28/01/2024
-- 🤗 [Mất tiền tỷ vì bẫy &#39;kiếm tiền liền tay&#39; qua app](https://vnexpress.net/mat-tien-ty-vi-bay-kiem-tien-lien-tay-qua-app-4702867.html) - 23:00 27/01/2024
-- 🗽 [Đốt pháo trong đám cưới khiến 3 người bị thương](https://vnexpress.net/dot-phao-trong-dam-cuoi-khien-3-nguoi-bi-thuong-4705859.html) - 11:26 27/01/2024
-- 🕴 [Nhân viên quán karaoke chém khách từ mâu thuẫn &#39;yêu cầu giảm giá&#39;](https://vnexpress.net/nhan-vien-quan-karaoke-chem-khach-tu-mau-thuan-yeu-cau-giam-gia-4705892.html) - 11:18 27/01/2024
-- 🌜 [Chiêu thế chấp điện thoại nhái iPhone 15 Pro Max](https://vnexpress.net/chieu-the-chap-dien-thoai-nhai-iphone-15-pro-max-4705836.html) - 08:21 27/01/2024
-- 🧑‍🏫 [Đường dây &#39;tín dụng đen&#39; dùng thiết bị định vị theo dõi con nợ](https://vnexpress.net/duong-day-tin-dung-den-dung-thiet-bi-dinh-vi-theo-doi-con-no-4705765.html) - 08:14 27/01/2024
-- 🦩 [Thêm 2 người bị bắt trong vụ &#39;phù phép&#39; 4.000 xe gian thành xe mới](https://vnexpress.net/them-2-nguoi-bi-bat-trong-vu-phu-phep-4-000-xe-gian-thanh-xe-moi-4705832.html) - 07:55 27/01/2024
-- 💼 [Có nên chung vốn mở công ty với chồng khi &#39;ngấp nghé ly hôn&#39;?](https://vnexpress.net/co-nen-chung-von-mo-cong-ty-voi-chong-khi-ngap-nghe-ly-hon-4705566.html) - 23:00 26/01/2024
-- 💫 [Đại uý công an cứu cô gái khỏi &#39;yêu râu xanh&#39; ở nghĩa trang](https://vnexpress.net/dai-uy-cong-an-cuu-co-gai-khoi-yeu-rau-xanh-o-nghia-trang-4705679.html) - 17:00 26/01/2024
-- 🦅 [16 năm truy tìm kẻ bịt mặt cưỡng bức thiếu nữ trên núi](https://vnexpress.net/16-nam-truy-tim-ke-bit-mat-ham-hiep-thieu-nu-tren-nui-4705627.html) - 17:00 26/01/2024
-- 🧑‍💻 [Nỗi khổ của những người sập &#39;bẫy&#39; lừa xuất khẩu lao động sang Nhật](https://vnexpress.net/noi-kho-cua-nhung-nguoi-sap-bay-lua-xuat-khau-lao-dong-sang-nhat-4705574.html) - 17:00 26/01/2024
-- 💻 [Vảy tê tê giá hơn 14 tỷ đồng trong nhà người phụ nữ](https://vnexpress.net/vay-te-te-gia-hon-14-ty-dong-trong-nha-nguoi-phu-nu-4705663.html) - 14:39 26/01/2024
-- 🤠 [Giang hồ bắn chết hai đối thủ ở Phú Quốc bị đề nghị án tử hình](https://vnexpress.net/giang-ho-ban-chet-hai-doi-thu-o-phu-quoc-bi-de-nghi-an-tu-hinh-4705629.html) - 12:49 26/01/2024
-- 🧑‍🏫 [Tông ngã cô gái, kéo vào nghĩa trang để xâm hại](https://vnexpress.net/tong-nga-co-gai-keo-vao-nghia-trang-de-xam-hai-4705642.html) - 12:45 26/01/2024
-- 🌈 [Cựu chủ tịch Khánh Hòa: &#39;Năng lực hạn chế dẫn đến sai sót&#39;](https://vnexpress.net/cuu-chu-tich-khanh-hoa-nang-luc-han-che-dan-den-sai-sot-4705509.html) - 11:52 26/01/2024
-- 🌮 [Kẻ vượt ngục xin quay lại nhà tù vì không chịu được lạnh](https://vnexpress.net/ke-vuot-nguc-dau-hang-sau-40-phut-vi-khong-chiu-duoc-lanh-4705620.html) - 10:50 26/01/2024
-- 🐲 [Sáu phút hung thủ bắn gục 3 người ở Vĩnh Long](https://vnexpress.net/sau-phut-hung-thu-ban-guc-3-nguoi-o-vinh-long-4705519.html) - 09:42 26/01/2024
-- 🧰 [Truy sát gia đình vợ do mâu thuẫn chia nợ khi ly hôn](https://vnexpress.net/truy-sat-gia-dinh-vo-do-mau-thuan-chia-no-khi-ly-hon-4705479.html) - 08:26 26/01/2024
-- 💄 [Điều dưỡng bị kiện vì để người già hóc thịt viên đến chết](https://vnexpress.net/dieu-duong-bi-kien-vi-de-nguoi-gia-hoc-thit-vien-den-chet-4705476.html) - 07:46 26/01/2024
+- 😎 [Vợ một mình bán đất thế nào khi chồng hôn mê do tai nạn?](https://vnexpress.net/vo-mot-minh-ban-dat-the-nao-khi-chong-hon-me-do-tai-nan-4705179.html) - 23:00 29/01/2024
+- 🥰 [Thảm án từ &#39;cuộc chiến phong thuỷ&#39; với gia đình hàng xóm](https://vnexpress.net/tham-an-tu-cuoc-chien-phong-thuy-voi-gia-dinh-hang-xom-4706465.html) - 17:00 29/01/2024
+- 🎓 [Cha mẹ có bị phạt hành chính khi con gây ồn, phiền hàng xóm?](https://vnexpress.net/cha-me-co-bi-phat-hanh-chinh-khi-con-gay-on-phien-hang-xom-4703945.html) - 17:00 29/01/2024
+- 🤓 [Đại án tham nhũng chấn động bóng đá Trung Quốc](https://vnexpress.net/dai-an-tham-nhung-chan-dong-bong-da-trung-quoc-4706550.html) - 16:05 29/01/2024
+- 🎊 [Bảo mẫu cẩu thả gây ra cái chết của bé trai](https://vnexpress.net/bao-mau-cau-tha-gay-ra-cai-chet-cua-be-trai-4706515.html) - 11:50 29/01/2024
+- 🙉 [Bộ Công an lý giải đề xuất siết quản lý dao nhọn trên 20 cm](https://vnexpress.net/bo-cong-an-ly-giai-de-xuat-siet-quan-ly-dao-nhon-tren-20-cm-4706333.html) - 09:17 29/01/2024
+- 🤡 [Chủ đầu tư dự án Kingsway bị cáo buộc chiếm đoạt 465 tỷ đồng](https://vnexpress.net/chu-dau-tu-du-an-kingsway-bi-cao-buoc-chiem-doat-465-ty-dong-4706374.html) - 08:13 29/01/2024
+- 🗽 [Kẻ giết người trốn vào rừng sâu lập đường dây ma túy](https://vnexpress.net/ke-giet-nguoi-tron-vao-rung-sau-lap-duong-day-ma-tuy-4706332.html) - 06:59 29/01/2024
+- 🌋 [Cảnh sát ngăn vụ hỏa táng thi thể để điều tra án mạng](https://vnexpress.net/canh-sat-ngan-vu-hoa-tang-thi-the-de-dieu-tra-an-mang-4706328.html) - 06:10 29/01/2024
+- 🎬 [Chủ tịch HĐQT Sen Tài Thu Phạm Thị Hòa bị bắt](https://vnexpress.net/chu-tich-hdqt-sen-tai-thu-pham-thi-hoa-bi-bat-4706320.html) - 05:10 29/01/2024
+- 💯 [Người không có hộ khẩu, làm căn cước công dân thế nào?](https://vnexpress.net/nguoi-khong-co-ho-khau-lam-can-cuoc-cong-dan-the-nao-4705139.html) - 03:33 29/01/2024
+- 🌏 [Thói quen vứt đồ &#39;tố cáo&#39; sát thủ thích trộm nội y phụ nữ](https://vnexpress.net/thoi-quen-vut-do-to-cao-sat-thu-thich-trom-noi-y-phu-nu-4706107.html) - 00:56 29/01/2024
+- 🌊 [Người nhập ngũ phải có học vấn tối thiểu lớp mấy?](https://vnexpress.net/nguoi-nhap-ngu-phai-co-trinh-do-hoc-van-toi-thieu-lop-may-4705169.html) - 23:00 28/01/2024
+- 💂 [Không đóng phạt nguội giao thông, sau 12 tháng sẽ được &#39;xóa&#39; vi phạm?](https://vnexpress.net/khong-dong-phat-nguoi-giao-thong-sau-12-thang-se-duoc-xoa-vi-pham-4705997.html) - 17:00 28/01/2024
+- 🎡 [70 giang hồ hỗn chiến ở Phú Quốc nói &#39;nuối tiếc, xin khoan hồng&#39;](https://vnexpress.net/70-giang-ho-hon-chien-o-phu-quoc-noi-nuoi-tiec-xin-khoan-hong-4706059.html) - 10:11 28/01/2024
+- 🫶 [Hàng loạt ôtô ở Sài Gòn bị trộm gương](https://vnexpress.net/hang-loat-oto-o-sai-gon-bi-trom-guong-4706022.html) - 05:52 28/01/2024
+- 🐲 [Gần 20 người ẩu đả trước quán bar ở trung tâm TP HCM](https://vnexpress.net/gan-20-nguoi-au-da-truoc-quan-bar-o-trung-tam-tp-hcm-4706012.html) - 05:39 28/01/2024
+- 🚀 [Người say đi ra đường, nếu bị tông xe sẽ mất quyền đòi bồi thường?](https://vnexpress.net/nguoi-say-di-ra-duong-neu-bi-tong-xe-se-khong-co-quyen-doi-boi-thuong-4705533.html) - 03:31 28/01/2024
+- 🎊 [Được bồi thường 2,25 tỷ USD vì bị ung thư khi dùng thuốc diệt cỏ](https://vnexpress.net/duoc-boi-thuong-2-25-ty-usd-vi-bi-ung-thu-khi-dung-thuoc-diet-co-4705917.html) - 03:31 28/01/2024
+- 🤗 [Ngôi sao của Peaky Blinders ra tòa vì sử dụng cocaine](https://vnexpress.net/ngoi-sao-cua-peaky-blinders-ra-toa-vi-su-dung-cocaine-4705928.html) - 03:17 28/01/2024
+- 🗽 [Mất tiền tỷ vì bẫy &#39;kiếm tiền liền tay&#39; qua app](https://vnexpress.net/mat-tien-ty-vi-bay-kiem-tien-lien-tay-qua-app-4702867.html) - 23:00 27/01/2024
+- 🕴 [Đốt pháo trong đám cưới khiến 3 người bị thương](https://vnexpress.net/dot-phao-trong-dam-cuoi-khien-3-nguoi-bi-thuong-4705859.html) - 11:26 27/01/2024
+- 🌜 [Nhân viên quán karaoke chém khách từ mâu thuẫn &#39;yêu cầu giảm giá&#39;](https://vnexpress.net/nhan-vien-quan-karaoke-chem-khach-tu-mau-thuan-yeu-cau-giam-gia-4705892.html) - 11:18 27/01/2024
+- 🧑‍🏫 [Chiêu thế chấp điện thoại nhái iPhone 15 Pro Max](https://vnexpress.net/chieu-the-chap-dien-thoai-nhai-iphone-15-pro-max-4705836.html) - 08:21 27/01/2024
+- 🦩 [Đường dây &#39;tín dụng đen&#39; dùng thiết bị định vị theo dõi con nợ](https://vnexpress.net/duong-day-tin-dung-den-dung-thiet-bi-dinh-vi-theo-doi-con-no-4705765.html) - 08:14 27/01/2024
+- 💼 [Thêm 2 người bị bắt trong vụ &#39;phù phép&#39; 4.000 xe gian thành xe mới](https://vnexpress.net/them-2-nguoi-bi-bat-trong-vu-phu-phep-4-000-xe-gian-thanh-xe-moi-4705832.html) - 07:55 27/01/2024
+- 💫 [Có nên chung vốn mở công ty với chồng khi &#39;ngấp nghé ly hôn&#39;?](https://vnexpress.net/co-nen-chung-von-mo-cong-ty-voi-chong-khi-ngap-nghe-ly-hon-4705566.html) - 23:00 26/01/2024
+- 🦅 [Đại uý công an cứu cô gái khỏi &#39;yêu râu xanh&#39; ở nghĩa trang](https://vnexpress.net/dai-uy-cong-an-cuu-co-gai-khoi-yeu-rau-xanh-o-nghia-trang-4705679.html) - 17:00 26/01/2024
+- 🧑‍💻 [16 năm truy tìm kẻ bịt mặt cưỡng bức thiếu nữ trên núi](https://vnexpress.net/16-nam-truy-tim-ke-bit-mat-ham-hiep-thieu-nu-tren-nui-4705627.html) - 17:00 26/01/2024
+- 💻 [Nỗi khổ của những người sập &#39;bẫy&#39; lừa xuất khẩu lao động sang Nhật](https://vnexpress.net/noi-kho-cua-nhung-nguoi-sap-bay-lua-xuat-khau-lao-dong-sang-nhat-4705574.html) - 17:00 26/01/2024
+- 🤠 [Vảy tê tê giá hơn 14 tỷ đồng trong nhà người phụ nữ](https://vnexpress.net/vay-te-te-gia-hon-14-ty-dong-trong-nha-nguoi-phu-nu-4705663.html) - 14:39 26/01/2024
+- 🧑‍🏫 [Giang hồ bắn chết hai đối thủ ở Phú Quốc bị đề nghị án tử hình](https://vnexpress.net/giang-ho-ban-chet-hai-doi-thu-o-phu-quoc-bi-de-nghi-an-tu-hinh-4705629.html) - 12:49 26/01/2024
+- 🌈 [Tông ngã cô gái, kéo vào nghĩa trang để xâm hại](https://vnexpress.net/tong-nga-co-gai-keo-vao-nghia-trang-de-xam-hai-4705642.html) - 12:45 26/01/2024
+- 🌮 [Cựu chủ tịch Khánh Hòa: &#39;Năng lực hạn chế dẫn đến sai sót&#39;](https://vnexpress.net/cuu-chu-tich-khanh-hoa-nang-luc-han-che-dan-den-sai-sot-4705509.html) - 11:52 26/01/2024
+- 🐲 [Kẻ vượt ngục xin quay lại nhà tù vì không chịu được lạnh](https://vnexpress.net/ke-vuot-nguc-dau-hang-sau-40-phut-vi-khong-chiu-duoc-lanh-4705620.html) - 10:50 26/01/2024
+- 🧰 [Sáu phút hung thủ bắn gục 3 người ở Vĩnh Long](https://vnexpress.net/sau-phut-hung-thu-ban-guc-3-nguoi-o-vinh-long-4705519.html) - 09:42 26/01/2024
+- 💄 [Truy sát gia đình vợ do mâu thuẫn chia nợ khi ly hôn](https://vnexpress.net/truy-sat-gia-dinh-vo-do-mau-thuan-chia-no-khi-ly-hon-4705479.html) - 08:26 26/01/2024
+- ⛽️ [Điều dưỡng bị kiện vì để người già hóc thịt viên đến chết](https://vnexpress.net/dieu-duong-bi-kien-vi-de-nguoi-gia-hoc-thit-vien-den-chet-4705476.html) - 07:46 26/01/2024
 - ⛽️ [Chủ thầu trả lương thợ xây bằng ma túy](https://vnexpress.net/chu-thau-tra-luong-tho-xay-bang-ma-tuy-4705460.html) - 07:21 26/01/2024
-- ⛽️ [Ba chủ cửa hàng xe ở Sài Gòn bị bắt](https://vnexpress.net/ba-chu-cua-hang-xe-o-sai-gon-bi-bat-4705438.html) - 05:24 26/01/2024
-- 💂 [Tấn công bà chủ quán, cướp tài sản](https://vnexpress.net/tan-cong-ba-chu-quan-cuop-tai-san-4705273.html) - 23:33 25/01/2024
-- 🤔 [Chậm giải chấp sổ đỏ sau khi trả hết nợ ngân hàng, sẽ gặp rủi ro gì?](https://vnexpress.net/cham-giai-chap-so-do-sau-khi-tra-het-no-ngan-hang-se-gap-rui-ro-gi-4705102.html) - 22:00 25/01/2024
-- 🧐 [&#39;Đặc vụ chìm&#39; đấu trí với đại gia 4 lần thuê sát thủ hại vợ](https://vnexpress.net/dac-vu-chim-dau-tri-voi-dai-gia-4-lan-thue-sat-thu-hai-vo-4705209.html) - 17:00 25/01/2024
-- 🎃 [Từ 15/2 phải có giấy tờ nào mới được đi máy bay?](https://vnexpress.net/tu-15-2-phai-co-giay-to-nao-moi-duoc-di-may-bay-4705105.html) - 17:00 25/01/2024
-- 🤓 [Kẻ cướp ngân hàng được miễn tội vì hành vi &#39;lịch sự&#39;](https://vnexpress.net/ke-cuop-ngan-hang-duoc-mien-truy-to-vi-lich-su-4705210.html) - 14:06 25/01/2024
-- 💃 [Ba người bị bắn ở Vĩnh Long](https://vnexpress.net/ba-nguoi-bi-ban-o-vinh-long-4705245.html) - 13:41 25/01/2024
-- 🐵 [Khoảnh khắc tài xế ôtô bán tải tông xe CSGT](https://video.vnexpress.net/khoanh-khac-tai-xe-oto-ban-tai-tong-xe-csgt-4705216.html) - 13:34 25/01/2024
-- 🤖 [Mang gần 540.000 USD giả đến ngân hàng bán](https://vnexpress.net/mang-gan-540-000-usd-gia-den-ngan-hang-ban-4705229.html) - 13:26 25/01/2024
-- ⚗️ [Dàn cảnh móc túi ở trung tâm Sài Gòn](https://vnexpress.net/dan-canh-moc-tui-o-trung-tam-sai-gon-4705220.html) - 11:50 25/01/2024
-- 🌏 [Trộm túi Hermes có tiền, nhẫn kim cương trong ôtô](https://vnexpress.net/trom-tui-hermes-co-tien-nhan-kim-cuong-trong-oto-4705186.html) - 11:29 25/01/2024
-- 🦆 [Giang hồ Thái Bus: &#39;Nhiều anh em xã hội dám làm mà không dám nhận&#39;](https://vnexpress.net/giang-ho-thai-bus-nhieu-anh-em-xa-hoi-dam-lam-ma-khong-dam-nhan-4705130.html) - 11:14 25/01/2024
-- 🐎 [Hàng loạt ôtô bị bắn vỡ kính lấy tài sản](https://vnexpress.net/hang-loat-oto-bi-ban-vo-kinh-lay-tai-san-4705042.html) - 07:38 25/01/2024
-- 😎 [Nhóm cướp ngân hàng ở Sài Gòn lĩnh án](https://vnexpress.net/nhom-cuop-ngan-hang-o-sai-gon-linh-an-4705074.html) - 07:36 25/01/2024
-- 💪 [Làm việc ngày nghỉ Tết Âm lịch được hưởng lương 300% hay 400%?](https://vnexpress.net/lam-viec-vao-ngay-nghi-tet-am-lich-2024-duoc-huong-luong-300-hay-400-4704903.html) - 06:08 25/01/2024
-- 🤡 [Con rể truy sát gia đình vợ, 2 người tử vong](https://vnexpress.net/con-re-truy-sat-gia-dinh-vo-2-nguoi-tu-vong-4704976.html) - 04:26 25/01/2024
-- 🌁 [Chủ đầu tư dự án khách sạn 4 sao ở Hậu Giang bị bắt](https://vnexpress.net/chu-dau-tu-du-an-khach-san-4-sao-o-hau-giang-bi-bat-4704935.html) - 03:30 25/01/2024
+- 💂 [Ba chủ cửa hàng xe ở Sài Gòn bị bắt](https://vnexpress.net/ba-chu-cua-hang-xe-o-sai-gon-bi-bat-4705438.html) - 05:24 26/01/2024
+- 🤔 [Tấn công bà chủ quán, cướp tài sản](https://vnexpress.net/tan-cong-ba-chu-quan-cuop-tai-san-4705273.html) - 23:33 25/01/2024
+- 🧐 [Chậm giải chấp sổ đỏ sau khi trả hết nợ ngân hàng, sẽ gặp rủi ro gì?](https://vnexpress.net/cham-giai-chap-so-do-sau-khi-tra-het-no-ngan-hang-se-gap-rui-ro-gi-4705102.html) - 22:00 25/01/2024
+- 🎃 [&#39;Đặc vụ chìm&#39; đấu trí với đại gia 4 lần thuê sát thủ hại vợ](https://vnexpress.net/dac-vu-chim-dau-tri-voi-dai-gia-4-lan-thue-sat-thu-hai-vo-4705209.html) - 17:00 25/01/2024
+- 🤓 [Từ 15/2 phải có giấy tờ nào mới được đi máy bay?](https://vnexpress.net/tu-15-2-phai-co-giay-to-nao-moi-duoc-di-may-bay-4705105.html) - 17:00 25/01/2024
+- 💃 [Kẻ cướp ngân hàng được miễn tội vì hành vi &#39;lịch sự&#39;](https://vnexpress.net/ke-cuop-ngan-hang-duoc-mien-truy-to-vi-lich-su-4705210.html) - 14:06 25/01/2024
+- 🐵 [Ba người bị bắn ở Vĩnh Long](https://vnexpress.net/ba-nguoi-bi-ban-o-vinh-long-4705245.html) - 13:41 25/01/2024
+- 🤖 [Khoảnh khắc tài xế ôtô bán tải tông xe CSGT](https://video.vnexpress.net/khoanh-khac-tai-xe-oto-ban-tai-tong-xe-csgt-4705216.html) - 13:34 25/01/2024
+- ⚗️ [Mang gần 540.000 USD giả đến ngân hàng bán](https://vnexpress.net/mang-gan-540-000-usd-gia-den-ngan-hang-ban-4705229.html) - 13:26 25/01/2024
+- 🌏 [Dàn cảnh móc túi ở trung tâm Sài Gòn](https://vnexpress.net/dan-canh-moc-tui-o-trung-tam-sai-gon-4705220.html) - 11:50 25/01/2024
+- 🦆 [Trộm túi Hermes có tiền, nhẫn kim cương trong ôtô](https://vnexpress.net/trom-tui-hermes-co-tien-nhan-kim-cuong-trong-oto-4705186.html) - 11:29 25/01/2024
+- 🐎 [Giang hồ Thái Bus: &#39;Nhiều anh em xã hội dám làm mà không dám nhận&#39;](https://vnexpress.net/giang-ho-thai-bus-nhieu-anh-em-xa-hoi-dam-lam-ma-khong-dam-nhan-4705130.html) - 11:14 25/01/2024
+- 😎 [Hàng loạt ôtô bị bắn vỡ kính lấy tài sản](https://vnexpress.net/hang-loat-oto-bi-ban-vo-kinh-lay-tai-san-4705042.html) - 07:38 25/01/2024
+- 💪 [Nhóm cướp ngân hàng ở Sài Gòn lĩnh án](https://vnexpress.net/nhom-cuop-ngan-hang-o-sai-gon-linh-an-4705074.html) - 07:36 25/01/2024
+- 🤡 [Làm việc ngày nghỉ Tết Âm lịch được hưởng lương 300% hay 400%?](https://vnexpress.net/lam-viec-vao-ngay-nghi-tet-am-lich-2024-duoc-huong-luong-300-hay-400-4704903.html) - 06:08 25/01/2024
+- 🌁 [Con rể truy sát gia đình vợ, 2 người tử vong](https://vnexpress.net/con-re-truy-sat-gia-dinh-vo-2-nguoi-tu-vong-4704976.html) - 04:26 25/01/2024
+- 🔥 [Chủ đầu tư dự án khách sạn 4 sao ở Hậu Giang bị bắt](https://vnexpress.net/chu-dau-tu-du-an-khach-san-4-sao-o-hau-giang-bi-bat-4704935.html) - 03:30 25/01/2024
 - 🔥 [Hai kẻ cầm súng giả, cướp ngân hàng ở Quảng Nam bị khởi tố](https://vnexpress.net/hai-ke-cam-sung-gia-cuop-ngan-hang-o-quang-nam-bi-khoi-to-4704917.html) - 03:27 25/01/2024
-- 🔥 [Âm mưu của đứa con nuôi &#39;khát tiền&#39;](https://vnexpress.net/am-muu-cua-dua-con-nuoi-khat-tien-4704735.html) - 17:27 24/01/2024
-- 👺 [Giám đốc công ty đăng kiểm: &#39;Sai phạm vì sợ mất khách&#39;](https://vnexpress.net/giam-doc-cong-ty-dang-kiem-sai-pham-vi-so-mat-khach-4704696.html) - 13:56 24/01/2024
-- 🎊 [Bí thư Tỉnh ủy Lâm Đồng Trần Đức Quận bị bắt](https://vnexpress.net/bi-thu-tinh-uy-lam-dong-tran-duc-quan-bi-bat-4698658.html) - 12:48 24/01/2024
-- 🎊 [Ba cán bộ Sở Công thương Lâm Đồng bị bắt](https://vnexpress.net/ba-can-bo-so-cong-thuong-lam-dong-bi-bat-4704712.html) - 10:37 24/01/2024<!-- vnexpress-phap-luat:END -->
+- 👺 [Âm mưu của đứa con nuôi &#39;khát tiền&#39;](https://vnexpress.net/am-muu-cua-dua-con-nuoi-khat-tien-4704735.html) - 17:27 24/01/2024
+- 🎊 [Giám đốc công ty đăng kiểm: &#39;Sai phạm vì sợ mất khách&#39;](https://vnexpress.net/giam-doc-cong-ty-dang-kiem-sai-pham-vi-so-mat-khach-4704696.html) - 13:56 24/01/2024
+- 🎊 [Bí thư Tỉnh ủy Lâm Đồng Trần Đức Quận bị bắt](https://vnexpress.net/bi-thu-tinh-uy-lam-dong-tran-duc-quan-bi-bat-4698658.html) - 12:48 24/01/2024<!-- vnexpress-phap-luat:END -->
