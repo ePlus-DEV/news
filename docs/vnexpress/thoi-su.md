@@ -13,7 +13,7 @@ sidebar_position: 1
 - 🦏 [Cháy nhà ở TP HCM, cảnh sát giương thang cứu 3 người mắc kẹt](https://vnexpress.net/chay-nha-o-tp-hcm-canh-sat-giuong-thang-cuu-3-nguoi-mac-ket-4706021.html) - 05:37 28/01/2024
 - 👺 [Tượng rồng khổng lồ ở Thừa Thiên Huế sẽ bị đập bỏ](https://vnexpress.net/tuong-rong-khong-lo-o-thua-thien-hue-se-bi-dap-bo-4705990.html) - 04:30 28/01/2024
 - 🧑‍🏫 [Tuần tra biên giới Việt - Trung ngày cận Tết](https://vnexpress.net/tuan-tra-bien-gioi-viet-trung-ngay-can-tet-4705937.html) - 02:39 28/01/2024
-- 🚦 [Đông nghịt người ở sân bay Tân Sơn Nhất đón Việt kiều về ăn Tết](https://video.vnexpress.net/san-bay-tan-son-nhat-dong-nghit-vi-mot-viet-kieu-ve-an-tet-ca-chuc-nguoi-than-di-don-4705939.html) - 02:32 28/01/2024
+- 🚦 [Sân bay Tân Sơn Nhất đông nghịt người đón Việt kiều về ăn Tết](https://video.vnexpress.net/san-bay-tan-son-nhat-dong-nghit-vi-mot-viet-kieu-ve-an-tet-ca-chuc-nguoi-than-di-don-4705939.html) - 02:32 28/01/2024
 - 🎉 [Tận dụng đất vườn xoài xây bể nuôi cá đặc sản thu tiền tỷ](https://vnexpress.net/tan-dung-dat-vuon-xoai-xay-be-nuoi-ca-dac-san-thu-tien-ty-4703815.html) - 22:00 27/01/2024
 - 🦒 [Đặc sản thịt chua xứ Nghệ vào vụ Tết](https://vnexpress.net/dac-san-thit-chua-xu-nghe-vao-vu-tet-4705896.html) - 20:00 27/01/2024
 - 🤗 [Miền Bắc sẽ mưa lạnh dịp Tết Giáp Thìn](https://vnexpress.net/mien-bac-se-mua-lanh-dip-tet-giap-thin-4705529.html) - 17:00 27/01/2024
