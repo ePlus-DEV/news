@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Neymar gây sốc với ngoại hình thừa cân](https://vnexpress.net/neymar-gay-soc-voi-ngoai-hinh-thua-can-4706487.html) - 11:18 29/01/2024
 - 🦩 [Rashford cáo ốm xin nghỉ tập sau hai đêm tiệc tùng](https://vnexpress.net/rashford-cao-om-xin-nghi-tap-sau-hai-dem-tiec-tung-4706365.html) - 11:09 29/01/2024
 - 🧰 [Hồi kết gay cấn ở Drive On Championship](https://vnexpress.net/hoi-ket-gay-can-o-drive-on-championship-4706518.html) - 11:02 29/01/2024
-- 🤗 [Iraq 0-1 Jordan &lpar;H2&rpar;: Haidar suýt gỡ hòa](https://vnexpress.net/iraq-vs-jordan-4706499.html) - 11:00 29/01/2024
+- 🤗 [Iraq 2-1 Jordan &lpar;H2&rpar;: Aymen Hussein lại ghi bàn](https://vnexpress.net/iraq-vs-jordan-4706499.html) - 11:00 29/01/2024
 - 🥳 [Ten Hag tặng đối thủ chai rượu vang](https://vnexpress.net/ten-hag-tang-doi-thu-chai-ruou-vang-4706240.html) - 07:10 29/01/2024
 - 🦣 [Sinner đoạt Grand Slam nhờ cảm hứng Alcaraz](https://vnexpress.net/sinner-doat-grand-slam-nho-cam-hung-alcaraz-4706295.html) - 06:00 29/01/2024
 - 🌜 [Tranh cãi khi VĐV chuyển giới thắng hạng mục nữ giải trail](https://vnexpress.net/tranh-cai-khi-vdv-chuyen-gioi-thang-hang-muc-nu-giai-trail-4706324.html) - 05:21 29/01/2024
