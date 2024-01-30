@@ -339,7 +339,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦒 [Lịch thi đấu bóng đá hôm nay ngày 31/1 mới nhất](https://vtc.vn/lich-thi-dau-bong-da-hom-nay-ngay-31-1-moi-nhat-ar850693.html) - 14:00 30/01/2024
 - 🌮 [Theerathon Bunmathan mắc sai lầm, tuyển Thái Lan bị loại khỏi Asian Cup 2023](https://vtc.vn/theerathon-bunmathan-mac-sai-lam-tuyen-thai-lan-bi-loai-khoi-asian-cup-2023-ar850754.html) - 13:31 30/01/2024
 - 🤖 [&#39;Chị đẹp&#39; liên tục xảy ra ồn ào đạo nhái](https://vtc.vn/chi-dep-lien-tuc-xay-ra-on-ao-dao-nhai-ar850752.html) - 13:26 30/01/2024
-- 🎬 [Chưa khai xuân, tượng cá chép vượt vũ môn hóa rồng ở Nha Trang đã bị thiêu rụi](https://vtc.vn/chua-khai-xuan-tuong-ca-chep-vuot-vu-mon-hoa-rong-o-nha-trang-da-bi-thieu-rui-ar850750.html) - 13:23 30/01/2024
+- 🎬 [Tượng cá chép vượt vũ môn hóa rồng ở Nha Trang bị cháy rụi](https://vtc.vn/chua-khai-xuan-tuong-ca-chep-vuot-vu-mon-hoa-rong-o-nha-trang-da-bi-thieu-rui-ar850750.html) - 13:23 30/01/2024
 - 🥳 [Trời lạnh, sợ muộn học, phóng nhanh, nam sinh gặp nạn thương tâm](https://vtc.vn/troi-lanh-so-muon-hoc-phong-nhanh-nam-sinh-gap-nan-thuong-tam-ar850730.html) - 12:41 30/01/2024
 - 🎓 [Hướng dẫn lộ trình người dân từ TP.HCM về các tỉnh dịp Tết Nguyên đán](https://vtc.vn/huong-dan-lo-trinh-nguoi-dan-tu-tp-hcm-ve-cac-tinh-dip-tet-nguyen-dan-ar850734.html) - 12:00 30/01/2024
 - 👹 [Chủ tịch Quốc hội và Tổng thống Philippines nhấn mạnh gia tăng tin cậy chính trị](https://vtc.vn/chu-tich-quoc-hoi-va-tong-thong-philippines-nhan-manh-gia-tang-tin-cay-chinh-tri-ar850737.html) - 11:53 30/01/2024
