@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Tổng thống Philippines cảm ơn Việt Nam về nguồn cung gạo](https://vnexpress.net/tong-thong-philippines-cam-on-viet-nam-ve-nguon-cung-gao-4706825.html) - 08:18 30/01/2024
-- 🕴 [Tự chặt tay thoát khỏi chuồng gấu](https://vnexpress.net/tu-chat-tay-thoat-khoi-chuong-gau-4706797.html) - 08:16 30/01/2024
+- 🕴 [Tự chặt tay để thoát khỏi cú cắn của gấu](https://vnexpress.net/tu-chat-tay-de-thoat-khoi-cu-can-cua-gau-4706797.html) - 08:16 30/01/2024
 - 🤭 [Nga, Ukraine tập kích lẫn nhau bằng hàng chục UAV tự sát](https://vnexpress.net/nga-ukraine-tap-kich-lan-nhau-bang-hang-chuc-uav-tu-sat-4706793.html) - 07:55 30/01/2024
 - 🧑‍💻 [Canada dỡ lệnh cấm xuất khẩu vũ khí sang Thổ Nhĩ Kỳ](https://vnexpress.net/canada-do-lenh-cam-xuat-khau-vu-khi-sang-tho-nhi-ky-4706759.html) - 07:19 30/01/2024
 - 🦏 [Dự án ốp đá cho kim tự tháp gây tranh cãi](https://vnexpress.net/du-an-op-da-cho-kim-tu-thap-gay-tranh-cai-4706739.html) - 05:15 30/01/2024
