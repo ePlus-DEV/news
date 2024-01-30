@@ -481,7 +481,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
 - 💼 [Mô hình cá chép hóa rồng ở Nha Trang bất ngờ bốc cháy](https://tienphong.vn/mo-hinh-ca-chep-hoa-rong-o-nha-trang-bat-ngo-boc-chay-post1609049.tpo) - 23:59 30/01/2024
-- 🎊 [Hàn Quốc loại Saudi Arabia trên chấm luân lưu](https://tienphong.vn/han-quoc-loai-saudi-arabia-tren-cham-luan-luu-post1609060.tpo) - 22:19 30/01/2024
+- 🎊 [Trực tiếp Saudi Arabia vs Hàn Quốc 1-1 &lpar;H2&rpar;:  Hai đội đá luân lưu](https://tienphong.vn/truc-tiep-saudi-arabia-vs-han-quoc-1-1-h2-hai-doi-da-luan-luu-post1609060.tpo) - 22:19 30/01/2024
 - 💼 [Phim của Trấn Thành dán mác 18+ vì cảnh nóng, nhân vật chửi bậy](https://tienphong.vn/phim-cua-tran-thanh-dan-mac-18-vi-canh-nong-nhan-vat-chui-bay-post1609040.tpo) - 21:54 30/01/2024
 - 👺 [HLV tuyển Thái Lan đặt mục tiêu dự World Cup 2026 sau khi bị loại khỏi Asian Cup 2023](https://tienphong.vn/hlv-tuyen-thai-lan-dat-muc-tieu-du-world-cup-2026-sau-khi-bi-loai-khoi-asian-cup-2023-post1609052.tpo) - 21:47 30/01/2024
 - 💪 [Showbiz 30/1: Chi Dân đáp trả khi bị chê hết thời](https://tienphong.vn/showbiz-301-chi-dan-dap-tra-khi-bi-che-het-thoi-post1609050.tpo) - 21:38 30/01/2024
