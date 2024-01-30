@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cháy mô hình linh vật rồng ở công viên trung tâm Nha Trang](https://vnexpress.net/chay-mo-hinh-linh-vat-rong-o-cong-vien-trung-tam-nha-trang-4706963.html) - 13:01 30/01/2024
+- 🦒 [Cháy mô hình rồng ở công viên trung tâm Nha Trang](https://vnexpress.net/chay-mo-hinh-rong-o-cong-vien-trung-tam-nha-trang-4706963.html) - 13:01 30/01/2024
 - 🤓 [Người hiến máu phản ánh &#39;bằng khen không kèm tiền thưởng&#39;](https://vnexpress.net/nguoi-hien-mau-phan-anh-bang-khen-khong-kem-tien-thuong-4706938.html) - 11:21 30/01/2024
 - ⚗️ [Chấn chỉnh lao động Việt &#39;uống rượu, đánh bạc&#39; tại Romania](https://vnexpress.net/chan-chinh-lao-dong-viet-uong-ruou-danh-bac-tai-romania-4706826.html) - 08:39 30/01/2024
 - 🌊 [Đà Nẵng khánh thành 3 dự án giao thông gần 2.500 tỷ đồng](https://vnexpress.net/da-nang-khanh-thanh-3-du-an-giao-thong-gan-2-500-ty-dong-4706786.html) - 06:57 30/01/2024
