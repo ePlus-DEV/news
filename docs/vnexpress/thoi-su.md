@@ -9,7 +9,7 @@ sidebar_position: 1
 - ⚗️ [Đề xuất xử lý hình sự tài xế có nồng độ cồn mức cao](https://vnexpress.net/de-xuat-xu-ly-hinh-su-tai-xe-co-nong-do-con-muc-cao-4706522.html) - 13:52 29/01/2024
 - 🌊 [Phó chủ tịch Quảng Ninh làm Thứ trưởng Tài chính](https://vnexpress.net/pho-chu-tich-quang-ninh-lam-thu-truong-tai-chinh-4706537.html) - 13:21 29/01/2024
 - 🎓 [Tết sớm ở Trường Hy Vọng](https://vnexpress.net/tet-som-o-truong-hy-vong-4706256.html) - 12:32 29/01/2024
-- 🔥 [Long An xây toà nhà trung tâm hành chính hơn 1.400 tỷ đồng](https://vnexpress.net/long-an-xay-toa-nha-trung-tam-hanh-chinh-hon-1-400-ty-dong-4706524.html) - 11:57 29/01/2024
+- 🔥 [Long An xây tòa nhà trung tâm hành chính hơn 1.400 tỷ đồng](https://vnexpress.net/long-an-xay-toa-nha-trung-tam-hanh-chinh-hon-1-400-ty-dong-4706524.html) - 11:57 29/01/2024
 - 🦏 [Xe bồn chở hơn 11.000 lít xăng bốc cháy](https://vnexpress.net/xe-bon-cho-hon-11-000-lit-xang-boc-chay-4706381.html) - 08:24 29/01/2024
 - 👺 [Hàng nghìn phật tử rước xá lợi thiền sư Thích Nhất Hạnh](https://vnexpress.net/hang-nghin-phat-tu-ruoc-xa-loi-thien-su-thich-nhat-hanh-4706316.html) - 07:44 29/01/2024
 - 🧑‍🏫 [Tháo dỡ khách sạn 12 tầng xây trái phép ở Phú Quốc](https://vnexpress.net/thao-do-khach-san-12-tang-xay-trai-phep-o-phu-quoc-4706323.html) - 05:59 29/01/2024
