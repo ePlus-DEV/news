@@ -9,6 +9,10 @@ jobs:
   update-homepages:
     name: Get ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
     strategy:
       matrix:
         include:
