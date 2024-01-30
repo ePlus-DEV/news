@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Uzbekistan - Thái Lan: Theerathon trở lại](https://vnexpress.net/truc-tiep-thai-lan-vs-uzbekistan-4706884.html) - 10:39 30/01/2024
+- 🪜 [Uzbekistan 0-0 Thái Lan &lpar;H1&rpar;: Nhập cuộc thận trọng](https://vnexpress.net/truc-tiep-thai-lan-vs-uzbekistan-4706884.html) - 10:39 30/01/2024
 - 🦩 [Indonesia tăng cường nhập tịch trước khi tái đấu Việt Nam](https://vnexpress.net/indonesia-tang-cuong-nhap-tich-truoc-khi-tai-dau-viet-nam-4706935.html) - 10:24 30/01/2024
 - 🧰 [Lewandowski xin lỗi, thuyết phục HLV Xavi ở lại](https://vnexpress.net/lewandowski-xin-loi-thuyet-phuc-hlv-xavi-o-lai-4706889.html) - 10:18 30/01/2024
 - 🤗 [Vũ khí đá phạt của Arsenal](https://vnexpress.net/vu-khi-da-phat-cua-arsenal-4704328.html) - 08:30 30/01/2024
