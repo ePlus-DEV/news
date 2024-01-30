@@ -332,43 +332,43 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Tổng thống Philippines gặp ông Phạm Nhật Vượng bàn chuyện sản xuất xe điện](https://vtc.vn/tong-thong-philippines-gap-ong-pham-nhat-vuong-ban-chuyen-san-xuat-xe-dien-ar850572.html) - 02:16 30/01/2024
-- 🤭 [Làng hương Quảng Phú Cầu thành điểm &#39;săn&#39; ảnh dịp cuối năm](https://vtc.vn/lang-huong-quang-phu-cau-thanh-diem-san-anh-dip-cuoi-nam-ar850511.html) - 02:00 30/01/2024
-- 🦒 [Cận cảnh tiêm kích ném bom Su-34 Nga oanh tạc mục tiêu ở Ukraine](https://vtc.vn/can-canh-tiem-kich-nem-bom-su-34-nga-oanh-tac-muc-tieu-o-ukraine-ar850554.html) - 01:45 30/01/2024
-- 🌮 [Nhận định bóng đá Uzbekistan vs  Thái Lan: Niềm hy vọng của Đông Nam Á](https://vtc.vn/nhan-dinh-bong-da-uzbekistan-vs-thai-lan-niem-hy-vong-cua-dong-nam-a-ar850533.html) - 01:41 30/01/2024
-- 🤖 [CĐV Malaysia bán xe máy để đi xem Asian Cup 2023 gây sốt mạng xã hội](https://vtc.vn/cdv-malaysia-ban-xe-may-de-di-xem-asian-cup-2023-gay-sot-mang-xa-hoi-ar850546.html) - 01:41 30/01/2024
-- 🎬 [Bức ảnh gây choáng về nội thất trong trạm vũ trụ ISS](https://vtc.vn/buc-anh-gay-choang-ve-noi-that-trong-tram-vu-tru-iss-ar850557.html) - 01:18 30/01/2024
-- 🥳 [NATO lên kế hoạch &#39;Schengen quân sự&#39;](https://vtc.vn/nato-len-ke-hoach-schengen-quan-su-ar850560.html) - 01:12 30/01/2024
-- 🎓 [Quy mô quân đội Ukraine tăng lên gần 900.000 người](https://vtc.vn/quy-mo-quan-doi-ukraine-tang-len-gan-900-000-nguoi-ar850559.html) - 01:07 30/01/2024
-- 👹 [Ukraine phủ nhận tin Tổng thống Zelensky yêu cầu Đại tướng Zaluzhny từ chức](https://vtc.vn/ukraine-phu-nhan-tin-tong-thong-zelensky-yeu-cau-dai-tuong-zaluzhny-tu-chuc-ar850562.html) - 01:03 30/01/2024
-- 🤖 [Nên cúng ông Công ông Táo vào ngày nào?](https://vtc.vn/cung-ong-cong-ong-tao-vao-ngay-nao-ar848174.html) - 01:00 30/01/2024
-- 🎊 [Ngưỡng mộ bảng thành tích học tập của nam vương vừa đa tài, vừa điển trai](https://vtc.vn/nguong-mo-bang-thanh-tich-hoc-tap-cua-nam-vuong-vua-da-tai-vua-dien-trai-ar848521.html) - 00:11 30/01/2024
-- 🐻 [Miền Bắc kết thúc đợt rét đậm rét hại diện rộng, nhiệt độ cao nhất 21 độ C](https://vtc.vn/mien-bac-ket-thuc-dot-ret-dam-ret-hai-dien-rong-nhiet-do-cao-nhat-21-do-c-ar850558.html) - 00:11 30/01/2024
-- 👍 [Vẻ đẹp đặc trưng của nhà vườn nông thôn Nam Bộ](https://vtc.vn/ve-dep-dac-trung-cua-nha-vuon-nong-thon-nam-bo-ar850133.html) - 00:05 30/01/2024
-- 🪜 [Lên cao nguyên Mộc Châu ngắm hoa mận nở trắng trời](https://vtc.vn/len-cao-nguyen-moc-chau-ngam-hoa-man-no-trang-troi-ar850438.html) - 00:04 30/01/2024
-- 🌮 [Đau đầu vì Tết về quê đi đâu cũng bị hỏi &#39;khi nào lấy chồng?&#39;](https://vtc.vn/dau-dau-vi-tet-ve-que-di-dau-cung-bi-hoi-khi-nao-lay-chong-ar850504.html) - 00:00 30/01/2024
-- 🌁 [Lý do Lan Khuê dừng hợp tác với Miss Universe Vietnam](https://vtc.vn/ly-do-lan-khue-dung-hop-tac-voi-miss-universe-vietnam-ar850414.html) - 23:57 29/01/2024
-- 👺 [Messi ghi bàn và kiến tạo, Inter Miami vẫn thua CLB Ả Rập](https://vtc.vn/messi-ghi-ban-va-kien-tao-inter-miami-van-thua-clb-a-rap-ar850548.html) - 23:53 29/01/2024
-- 🌊 [HLV Iraq suýt bị đánh trong phòng họp báo](https://vtc.vn/hlv-iraq-suyt-bi-danh-trong-phong-hop-bao-ar850547.html) - 23:49 29/01/2024
-- 🤖 [Rau cải xoong được đánh giá loại rau &#39;bẩn nhất&#39; nhưng có thể ngừa ung thư](https://vtc.vn/rau-cai-xoong-duoc-danh-gia-loai-rau-ban-nhat-nhung-co-the-ngua-ung-thu-ar850301.html) - 23:43 29/01/2024
-- 🥸 [Sao Việt 30/1: Con gái Vũ Linh được khán giả đón nhận, Thu Minh gợi cảm tuổi 47](https://vtc.vn/sao-viet-30-1-con-gai-vu-linh-duoc-khan-gia-don-nhan-thu-minh-goi-cam-tuoi-47-ar850522.html) - 23:37 29/01/2024
-- 🥸 [Giá vàng hôm nay 30/1: Căng thẳng chính trị leo thang, vàng tiếp đà đi lên](https://vtc.vn/gia-vang-hom-nay-30-1-cang-thang-chinh-tri-leo-thang-vang-tiep-da-di-len-ar850556.html) - 23:36 29/01/2024
-- 🪜 [Mách bạn cách phối layer ấm áp mà không nặng nề](https://vtc.vn/mach-ban-cach-phoi-layer-am-ap-ma-khong-nang-ne-ar850362.html) - 23:30 29/01/2024
-- 💪 [Đố bạn biết vali nào là của ai?](https://vtc.vn/do-ban-biet-vali-nao-la-cua-ai-ar850468.html) - 23:28 29/01/2024
-- 🌝 [Các cách khôi phục tin nhắn đã xóa trên Android](https://vtc.vn/cac-cach-khoi-phuc-tin-nhan-da-xoa-tren-android-ar849453.html) - 23:22 29/01/2024
-- 🧑‍💻 [Có được mang chó mèo lên xe khách?](https://vtc.vn/co-duoc-mang-cho-meo-len-xe-khach-ar849683.html) - 23:17 29/01/2024
-- 🤭 [Những thực phẩm nào nhanh hỏng khi bảo quản trong tủ lạnh?](https://vtc.vn/nhung-thuc-pham-nao-nhanh-hong-khi-bao-quan-trong-tu-lanh-ar850020.html) - 23:15 29/01/2024
-- 🧑‍🏫 [Kính James Webb soi 19 cấu trúc thiên hà phức tạp với độ chi tiết chưa từng có](https://vtc.vn/kinh-james-webb-soi-19-cau-truc-thien-ha-phuc-tap-voi-do-chi-tiet-chua-tung-co-ar850553.html) - 23:11 29/01/2024
-- 🎃 [Tiktoker hỗ trợ nông dân bán hàng: Lợi cả đôi đường](https://vtc.vn/tiktoker-ho-tro-nong-dan-ban-hang-loi-ca-doi-duong-ar850528.html) - 23:07 29/01/2024
-- 👀 [Tết ông Công ông Táo 2024 rơi vào ngày nào?](https://vtc.vn/tet-ong-cong-ong-tao-2024-roi-vao-ngay-nao-ar845239.html) - 23:00 29/01/2024
-- 🐵 [Tổng quan về hệ thống điện trên ô tô](https://vtc.vn/tong-quan-ve-he-thong-dien-tren-o-to-ar849361.html) - 23:00 29/01/2024
-- 🪜 [Cách quy đổi giá vàng thế giới và giá vàng trong nước](https://vtc.vn/cach-quy-doi-gia-vang-the-gioi-va-gia-vang-trong-nuoc-ar850355.html) - 23:00 29/01/2024
-- 😎 [Nữ vận động viên bỏ bóng chuyền, bước chân vào showbiz](https://vtc.vn/nu-van-dong-vien-bo-bong-chuyen-buoc-chan-vao-showbiz-ar850447.html) - 23:00 29/01/2024
-- 🥳 [Người IQ cao chỉ mất 3 giây để tạo ra số 6 bằng 3 que diêm này](https://vtc.vn/nguoi-iq-cao-chi-mat-3-giay-de-tao-ra-so-6-bang-3-que-diem-nay-ar850471.html) - 19:00 29/01/2024
-- 💫 [Món ăn ảnh hưởng xấu đến chất lượng tinh trùng](https://vtc.vn/mon-an-anh-huong-xau-den-chat-luong-tinh-trung-ar846508.html) - 17:01 29/01/2024
-- 👨‍🏫 [5 cách quản lý thời gian hiệu quả dành cho sinh viên](https://vtc.vn/5-cach-quan-ly-thoi-gian-hieu-qua-danh-cho-sinh-vien-ar848279.html) - 17:00 29/01/2024
-- 🎡 [Tại sao cầu thủ Iraq phải nhận thẻ đỏ khiến đội nhà thua ngược Jordan?](https://vtc.vn/tai-sao-cau-thu-iraq-phai-nhan-the-do-khien-doi-nha-thua-nguoc-jordan-ar850516.html) - 15:40 29/01/2024
-- 🕴 [Bê bối Toyota lan rộng, 10 mẫu xe bị phát hiện gian lận dữ liệu động cơ](https://vtc.vn/be-boi-toyota-lan-rong-10-mau-xe-bi-phat-hien-gian-lan-du-lieu-dong-co-ar850503.html) - 13:36 29/01/2024<!-- vtc:END -->
+- 🥸 [Truy quét điểm khai thác vàng trái phép, &#39;vàng tặc&#39; tháo chạy khỏi hiện trường](https://vtc.vn/truy-quet-diem-khai-thac-vang-trai-phep-vang-tac-thao-chay-khoi-hien-truong-ar850591.html) - 04:00 30/01/2024
+- 🤭 [Chủ tịch nước Võ Văn Thưởng chủ trì Lễ đón chính thức Tổng thống Philippines](https://vtc.vn/chu-tich-nuoc-vo-van-thuong-chu-tri-le-don-chinh-thuc-tong-thong-philippines-ar850592.html) - 03:42 30/01/2024
+- 🦒 [Cận cảnh miếng sushi nhỏ nhất thế giới](https://vtc.vn/can-canh-mieng-sushi-nho-nhat-the-gioi-ar850517.html) - 03:40 30/01/2024
+- 🌮 [Bỏ trống nhân vật Bắc Đẩu, Táo quân 2024 còn lại gì?](https://vtc.vn/bo-trong-nhan-vat-bac-dau-tao-quan-2024-con-lai-gi-ar850586.html) - 03:40 30/01/2024
+- 🤖 [Người nhảy sông cứu nữ tài xế: &#39;Rét run nhưng cứu được người tôi thấy ấm lòng&#39;](https://vtc.vn/nguoi-nhay-song-cuu-nu-tai-xe-ret-run-nhung-cuu-duoc-nguoi-toi-thay-am-long-ar850521.html) - 03:23 30/01/2024
+- 🎬 [Biến động điểm chuẩn ngành Y khoa trong 3 năm gần đây](https://vtc.vn/bien-dong-diem-chuan-nganh-y-khoa-trong-3-nam-gan-day-ar849852.html) - 02:30 30/01/2024
+- 🥳 [Tổng thống Philippines gặp ông Phạm Nhật Vượng bàn chuyện sản xuất xe điện](https://vtc.vn/tong-thong-philippines-gap-ong-pham-nhat-vuong-ban-chuyen-san-xuat-xe-dien-ar850572.html) - 02:16 30/01/2024
+- 🎓 [Uống chè xanh mỗi ngày có tốt cho sức khoẻ?](https://vtc.vn/uong-che-xanh-moi-ngay-co-tot-cho-suc-khoe-ar850505.html) - 02:09 30/01/2024
+- 👹 [Làng hương Quảng Phú Cầu thành điểm &#39;săn&#39; ảnh dịp cuối năm](https://vtc.vn/lang-huong-quang-phu-cau-thanh-diem-san-anh-dip-cuoi-nam-ar850511.html) - 02:00 30/01/2024
+- 🤖 [Cận cảnh tiêm kích ném bom Su-34 Nga oanh tạc mục tiêu ở Ukraine](https://vtc.vn/can-canh-tiem-kich-nem-bom-su-34-nga-oanh-tac-muc-tieu-o-ukraine-ar850554.html) - 01:45 30/01/2024
+- 🎊 [Nhận định bóng đá Uzbekistan vs  Thái Lan: Niềm hy vọng của Đông Nam Á](https://vtc.vn/nhan-dinh-bong-da-uzbekistan-vs-thai-lan-niem-hy-vong-cua-dong-nam-a-ar850533.html) - 01:41 30/01/2024
+- 🐻 [CĐV Malaysia bán xe máy để đi xem Asian Cup 2023 gây sốt mạng xã hội](https://vtc.vn/cdv-malaysia-ban-xe-may-de-di-xem-asian-cup-2023-gay-sot-mang-xa-hoi-ar850546.html) - 01:41 30/01/2024
+- 👍 [Bức ảnh gây choáng về nội thất trong trạm vũ trụ ISS](https://vtc.vn/buc-anh-gay-choang-ve-noi-that-trong-tram-vu-tru-iss-ar850557.html) - 01:18 30/01/2024
+- 🪜 [NATO lên kế hoạch &#39;Schengen quân sự&#39;](https://vtc.vn/nato-len-ke-hoach-schengen-quan-su-ar850560.html) - 01:12 30/01/2024
+- 🌮 [Quy mô quân đội Ukraine tăng lên gần 900.000 người](https://vtc.vn/quy-mo-quan-doi-ukraine-tang-len-gan-900-000-nguoi-ar850559.html) - 01:07 30/01/2024
+- 🌁 [Ukraine phủ nhận tin Tổng thống Zelensky yêu cầu Đại tướng Zaluzhny từ chức](https://vtc.vn/ukraine-phu-nhan-tin-tong-thong-zelensky-yeu-cau-dai-tuong-zaluzhny-tu-chuc-ar850562.html) - 01:03 30/01/2024
+- 👺 [Nên cúng ông Công ông Táo vào ngày nào?](https://vtc.vn/cung-ong-cong-ong-tao-vao-ngay-nao-ar848174.html) - 01:00 30/01/2024
+- 🌊 [Ngưỡng mộ bảng thành tích học tập của nam vương vừa đa tài, vừa điển trai](https://vtc.vn/nguong-mo-bang-thanh-tich-hoc-tap-cua-nam-vuong-vua-da-tai-vua-dien-trai-ar848521.html) - 00:11 30/01/2024
+- 🤖 [Vẻ đẹp đặc trưng của nhà vườn nông thôn Nam Bộ](https://vtc.vn/ve-dep-dac-trung-cua-nha-vuon-nong-thon-nam-bo-ar850133.html) - 00:05 30/01/2024
+- 🥸 [Lên cao nguyên Mộc Châu ngắm hoa mận nở trắng trời](https://vtc.vn/len-cao-nguyen-moc-chau-ngam-hoa-man-no-trang-troi-ar850438.html) - 00:04 30/01/2024
+- 🥸 [Lý do Lan Khuê dừng hợp tác với Miss Universe Vietnam](https://vtc.vn/ly-do-lan-khue-dung-hop-tac-voi-miss-universe-vietnam-ar850414.html) - 23:57 29/01/2024
+- 🪜 [Messi ghi bàn và kiến tạo, Inter Miami vẫn thua CLB Ả Rập](https://vtc.vn/messi-ghi-ban-va-kien-tao-inter-miami-van-thua-clb-a-rap-ar850548.html) - 23:53 29/01/2024
+- 💪 [Rau cải xoong được đánh giá loại rau &#39;bẩn nhất&#39; nhưng có thể ngừa ung thư](https://vtc.vn/rau-cai-xoong-duoc-danh-gia-loai-rau-ban-nhat-nhung-co-the-ngua-ung-thu-ar850301.html) - 23:43 29/01/2024
+- 🌝 [Sao Việt 30/1: Con gái Vũ Linh được khán giả đón nhận, Thu Minh gợi cảm tuổi 47](https://vtc.vn/sao-viet-30-1-con-gai-vu-linh-duoc-khan-gia-don-nhan-thu-minh-goi-cam-tuoi-47-ar850522.html) - 23:37 29/01/2024
+- 🧑‍💻 [Giá vàng hôm nay 30/1: Căng thẳng chính trị leo thang, vàng tiếp đà đi lên](https://vtc.vn/gia-vang-hom-nay-30-1-cang-thang-chinh-tri-leo-thang-vang-tiep-da-di-len-ar850556.html) - 23:36 29/01/2024
+- 🤭 [Mách bạn cách phối layer ấm áp mà không nặng nề](https://vtc.vn/mach-ban-cach-phoi-layer-am-ap-ma-khong-nang-ne-ar850362.html) - 23:30 29/01/2024
+- 🧑‍🏫 [Đố bạn biết vali nào là của ai?](https://vtc.vn/do-ban-biet-vali-nao-la-cua-ai-ar850468.html) - 23:28 29/01/2024
+- 🎃 [Các cách khôi phục tin nhắn đã xóa trên Android](https://vtc.vn/cac-cach-khoi-phuc-tin-nhan-da-xoa-tren-android-ar849453.html) - 23:22 29/01/2024
+- 👀 [Có được mang chó mèo lên xe khách?](https://vtc.vn/co-duoc-mang-cho-meo-len-xe-khach-ar849683.html) - 23:17 29/01/2024
+- 🐵 [Những thực phẩm nào nhanh hỏng khi bảo quản trong tủ lạnh?](https://vtc.vn/nhung-thuc-pham-nao-nhanh-hong-khi-bao-quan-trong-tu-lanh-ar850020.html) - 23:15 29/01/2024
+- 🪜 [Kính James Webb soi 19 cấu trúc thiên hà phức tạp với độ chi tiết chưa từng có](https://vtc.vn/kinh-james-webb-soi-19-cau-truc-thien-ha-phuc-tap-voi-do-chi-tiet-chua-tung-co-ar850553.html) - 23:11 29/01/2024
+- 😎 [Tiktoker hỗ trợ nông dân bán hàng: Lợi cả đôi đường](https://vtc.vn/tiktoker-ho-tro-nong-dan-ban-hang-loi-ca-doi-duong-ar850528.html) - 23:07 29/01/2024
+- 🥳 [Tết ông Công ông Táo 2024 rơi vào ngày nào?](https://vtc.vn/tet-ong-cong-ong-tao-2024-roi-vao-ngay-nao-ar845239.html) - 23:00 29/01/2024
+- 💫 [Tổng quan về hệ thống điện trên ô tô](https://vtc.vn/tong-quan-ve-he-thong-dien-tren-o-to-ar849361.html) - 23:00 29/01/2024
+- 👨‍🏫 [Cách quy đổi giá vàng thế giới và giá vàng trong nước](https://vtc.vn/cach-quy-doi-gia-vang-the-gioi-va-gia-vang-trong-nuoc-ar850355.html) - 23:00 29/01/2024
+- 🎡 [Nữ vận động viên bỏ bóng chuyền, bước chân vào showbiz](https://vtc.vn/nu-van-dong-vien-bo-bong-chuyen-buoc-chan-vao-showbiz-ar850447.html) - 23:00 29/01/2024
+- 🕴 [Người IQ cao chỉ mất 3 giây để tạo ra số 6 bằng 3 que diêm này](https://vtc.vn/nguoi-iq-cao-chi-mat-3-giay-de-tao-ra-so-6-bang-3-que-diem-nay-ar850471.html) - 19:00 29/01/2024<!-- vtc:END -->
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
