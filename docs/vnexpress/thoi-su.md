@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Đà Nẵng khánh thành 3 dự án giao thông gần 2.500 tỷ đồng](https://vnexpress.net/da-nang-khanh-thanh-3-du-an-giao-thong-gan-2-500-ty-dong-4706786.html) - 06:57 30/01/2024
-- 🤓 [Hai phương án xây hầm chui dưới đường Tôn Đức Thắng](https://vnexpress.net/hai-phuong-an-xay-ham-chui-duoi-duong-ton-duc-thang-4706779.html) - 06:23 30/01/2024
+- 🤓 [Phương án xây gần một km hầm dưới đường Tôn Đức Thắng](https://vnexpress.net/phuong-an-xay-gan-mot-km-ham-duoi-duong-ton-duc-thang-4706779.html) - 06:23 30/01/2024
 - ⚗️ [Đồng Nai dùng &#39;đất vàng&#39; làm bãi đậu xe](https://vnexpress.net/dong-nai-dung-dat-vang-lam-bai-dau-xe-4706717.html) - 04:36 30/01/2024
 - 🌊 [Nhảy xuống sông cứu nữ tài xế trong ôtô đang chìm](https://vnexpress.net/nhay-xuong-song-cuu-nu-tai-xe-trong-oto-dang-chim-4706712.html) - 04:14 30/01/2024
 - 🎓 [Thông xe đèo Prenn ở cửa ngõ Đà Lạt ngày 31/1](https://vnexpress.net/thong-xe-deo-prenn-o-cua-ngo-da-lat-ngay-31-1-4706702.html) - 03:52 30/01/2024
