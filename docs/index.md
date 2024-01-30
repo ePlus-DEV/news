@@ -333,20 +333,20 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Hướng dẫn lộ trình người dân từ TP.HCM về các tỉnh dịp Tết Nguyên đán](https://vtc.vn/huong-dan-lo-trinh-nguoi-dan-tu-tp-hcm-ve-cac-tinh-dip-tet-nguyen-dan-ar850734.html) - 12:00 30/01/2024
-- 🤭 [Chủ tịch Quốc hội và Tổng thống Philippines nhấn mạnh gia tăng tin cậy chính trị](https://vtc.vn/chu-tich-quoc-hoi-va-tong-thong-philippines-nhan-manh-gia-tang-tin-cay-chinh-tri-ar850737.html) - 11:53 30/01/2024
-- 🦒 [Những khối tuyết rơi như thác nước &#39;trút giận&#39; vào loạt ô tô](https://vtc.vn/nhung-khoi-tuyet-roi-nhu-thac-nuoc-trut-gian-vao-loat-o-to-ar850642.html) - 11:45 30/01/2024
-- 🌮 [Xe điện Tesla Model Y vượt Toyota soán ngôi bán chạy nhất thế giới](https://vtc.vn/xe-dien-tesla-model-y-vuot-toyota-soan-ngoi-ban-chay-nhat-the-gioi-ar850736.html) - 11:45 30/01/2024
-- 🤖 [TP.HCM: Trường ngoài công lập thưởng tết cao nhất 150 triệu đồng/người](https://vtc.vn/tp-hcm-truong-ngoai-cong-lap-thuong-tet-cao-nhat-150-trieu-dong-nguoi-ar850731.html) - 11:42 30/01/2024
-- 🎬 [Một trường THPT công lập ở TP.HCM thưởng Tết từ 20 - 35 triệu đồng](https://vtc.vn/mot-truong-thpt-cong-lap-o-tp-hcm-thuong-tet-tu-20-35-trieu-dong-ar850699.html) - 11:11 30/01/2024
+- 🥸 [Trời lạnh, sợ muộn học, phóng nhanh, nam sinh gặp nạn thương tâm](https://vtc.vn/troi-lanh-so-muon-hoc-phong-nhanh-nam-sinh-gap-nan-thuong-tam-ar850730.html) - 12:41 30/01/2024
+- 🤭 [Hướng dẫn lộ trình người dân từ TP.HCM về các tỉnh dịp Tết Nguyên đán](https://vtc.vn/huong-dan-lo-trinh-nguoi-dan-tu-tp-hcm-ve-cac-tinh-dip-tet-nguyen-dan-ar850734.html) - 12:00 30/01/2024
+- 🦒 [Chủ tịch Quốc hội và Tổng thống Philippines nhấn mạnh gia tăng tin cậy chính trị](https://vtc.vn/chu-tich-quoc-hoi-va-tong-thong-philippines-nhan-manh-gia-tang-tin-cay-chinh-tri-ar850737.html) - 11:53 30/01/2024
+- 🌮 [Những khối tuyết rơi như thác nước &#39;trút giận&#39; vào loạt ô tô](https://vtc.vn/nhung-khoi-tuyet-roi-nhu-thac-nuoc-trut-gian-vao-loat-o-to-ar850642.html) - 11:45 30/01/2024
+- 🤖 [Xe điện Tesla Model Y vượt Toyota soán ngôi bán chạy nhất thế giới](https://vtc.vn/xe-dien-tesla-model-y-vuot-toyota-soan-ngoi-ban-chay-nhat-the-gioi-ar850736.html) - 11:45 30/01/2024
+- 🎬 [TP.HCM: Trường ngoài công lập thưởng tết cao nhất 150 triệu đồng/người](https://vtc.vn/tp-hcm-truong-ngoai-cong-lap-thuong-tet-cao-nhat-150-trieu-dong-nguoi-ar850731.html) - 11:42 30/01/2024
 - 🥳 [Một trường THPT công lập ở TP.HCM thưởng Tết từ 20 - 35 triệu đồng](https://vtc.vn/mot-truong-thpt-cong-lap-o-tp-hcm-thuong-tet-tu-20-35-trieu-dong-ar850699.html) - 11:11 30/01/2024
-- 🎓 [HLV Casas bị tấn công: AFC ra án phạt nhà báo Iraq](https://vtc.vn/hlv-casas-bi-tan-cong-afc-ra-an-phat-nha-bao-iraq-ar850724.html) - 11:02 30/01/2024
-- 👹 [Cách trang trí mâm ngũ quả đẹp ngày Tết](https://vtc.vn/cach-trang-tri-mam-ngu-qua-dep-ngay-tet-ar849148.html) - 11:00 30/01/2024
-- 🤖 [Bị ốm có nên ăn cua đồng?](https://vtc.vn/bi-om-co-nen-an-cua-dong-ar850601.html) - 11:00 30/01/2024
-- 🎊 [Thưởng thức gói xôi cốm Hà Nội, thức quà bình dị gây thương nhớ](https://vtc.vn/thuong-thuc-goi-xoi-com-ha-noi-thuc-qua-binh-di-gay-thuong-nho-ar848878.html) - 10:50 30/01/2024
-- 🐻 [Ông Trịnh Minh Hoàng giữ chức Phó Chủ tịch UBND tỉnh Ninh Thuận](https://vtc.vn/ong-trinh-minh-hoang-giu-chuc-pho-chu-tich-ubnd-tinh-ninh-thuan-ar850483.html) - 10:48 30/01/2024
-- 👍 [Dự báo thời tiết ngày 31/1: Miền Bắc trời rét, sáng và đêm xuất hiện mưa phùn](https://vtc.vn/du-bao-thoi-tiet-ngay-31-1-mien-bac-troi-ret-sang-va-dem-xuat-hien-mua-phun-ar850722.html) - 10:48 30/01/2024
-- 🪜 [Thủ tướng Phạm Minh Chính và Tổng thống Philippines gặp gỡ doanh nghiệp hai nước](https://vtc.vn/thu-tuong-pham-minh-chinh-va-tong-thong-philippines-gap-go-doanh-nghiep-hai-nuoc-ar850725.html) - 10:42 30/01/2024
+- 🎓 [Một trường THPT công lập ở TP.HCM thưởng Tết từ 20 - 35 triệu đồng](https://vtc.vn/mot-truong-thpt-cong-lap-o-tp-hcm-thuong-tet-tu-20-35-trieu-dong-ar850699.html) - 11:11 30/01/2024
+- 👹 [HLV Casas bị tấn công: AFC ra án phạt nhà báo Iraq](https://vtc.vn/hlv-casas-bi-tan-cong-afc-ra-an-phat-nha-bao-iraq-ar850724.html) - 11:02 30/01/2024
+- 🤖 [Cách trang trí mâm ngũ quả đẹp ngày Tết](https://vtc.vn/cach-trang-tri-mam-ngu-qua-dep-ngay-tet-ar849148.html) - 11:00 30/01/2024
+- 🎊 [Bị ốm có nên ăn cua đồng?](https://vtc.vn/bi-om-co-nen-an-cua-dong-ar850601.html) - 11:00 30/01/2024
+- 🐻 [Thưởng thức gói xôi cốm Hà Nội, thức quà bình dị gây thương nhớ](https://vtc.vn/thuong-thuc-goi-xoi-com-ha-noi-thuc-qua-binh-di-gay-thuong-nho-ar848878.html) - 10:50 30/01/2024
+- 👍 [Ông Trịnh Minh Hoàng giữ chức Phó Chủ tịch UBND tỉnh Ninh Thuận](https://vtc.vn/ong-trinh-minh-hoang-giu-chuc-pho-chu-tich-ubnd-tinh-ninh-thuan-ar850483.html) - 10:48 30/01/2024
+- 🪜 [Dự báo thời tiết ngày 31/1: Miền Bắc trời rét, sáng và đêm xuất hiện mưa phùn](https://vtc.vn/du-bao-thoi-tiet-ngay-31-1-mien-bac-troi-ret-sang-va-dem-xuat-hien-mua-phun-ar850722.html) - 10:48 30/01/2024
 - 🌮 [Nga tấn công 107 đơn vị tác chiến, phá hủy hàng loạt khí tài Ukraine](https://vtc.vn/nga-tan-cong-107-don-vi-tac-chien-pha-huy-hang-loat-khi-tai-ukraine-ar850718.html) - 10:36 30/01/2024
 - 🌁 [2 năm liên tiếp không có thưởng, nhiều nhân viên y tế ngậm ngùi vay tiền sắm Tết](https://vtc.vn/2-nam-lien-tiep-khong-co-thuong-nhieu-nhan-vien-y-te-ngam-ngui-vay-tien-sam-tet-ar850589.html) - 09:31 30/01/2024
 - 👺 [3 loại cây vừa có thể làm thuốc vừa hấp thu được độc tố trong không khí](https://vtc.vn/3-loai-cay-vua-co-the-lam-thuoc-vua-hap-thu-duoc-doc-to-trong-khong-khi-ar850434.html) - 09:29 30/01/2024
