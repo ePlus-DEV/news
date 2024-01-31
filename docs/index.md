@@ -334,28 +334,28 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Facebook Messenger gặp lỗi, tự kéo về tin nhắn cũ](https://vtc.vn/facebook-messenger-gap-loi-tu-keo-ve-tin-nhan-cu-ar850972.html) - 14:47 31/01/2024
-- 🤭 [Lịch thi đấu bóng đá hôm nay ngày 1/2 mới nhất](https://vtc.vn/lich-thi-dau-bong-da-hom-nay-ngay-1-2-moi-nhat-ar850937.html) - 14:00 31/01/2024
-- 🦒 [Các &#39;ông lớn&#39; NATO phản đối kết nạp Ukraine](https://vtc.vn/cac-ong-lon-nato-phan-doi-ket-nap-ukraine-ar850957.html) - 13:52 31/01/2024
-- 🌮 [Thắng dễ Bahrain, tuyển Nhật Bản vào bán kết Asian Cup 2023](https://vtc.vn/thang-de-bahrain-tuyen-nhat-ban-vao-ban-ket-asian-cup-2023-ar850967.html) - 13:36 31/01/2024
-- 🤖 [Dương Tử Quỳnh ly hôn chồng cũ vì không thể sinh con](https://vtc.vn/duong-tu-quynh-ly-hon-chong-cu-vi-khong-the-sinh-con-ar850959.html) - 13:14 31/01/2024
-- 🎬 [Sai phạm tại Mường Thanh Viễn Triều: Cựu Chủ tịch Khánh Hoà lĩnh 5 năm tù](https://vtc.vn/sai-pham-tai-muong-thanh-vien-trieu-cuu-chu-tich-khanh-hoa-linh-5-nam-tu-ar850955.html) - 12:21 31/01/2024
-- 🥳 [Tàu ngầm Kronshtadt gia nhập hải quân Nga](https://vtc.vn/tau-ngam-kronshtadt-gia-nhap-hai-quan-nga-ar850947.html) - 12:09 31/01/2024
-- 🎓 [Khởi tố 6 cựu cán bộ liên quan vụ cháy chung cư mini ở Hà Nội](https://vtc.vn/khoi-to-6-cuu-can-bo-o-ha-noi-lien-quan-vu-chay-chung-cu-mini-pho-khuong-ha-ar850954.html) - 11:58 31/01/2024
-- 👹 [Trao quyết định bổ nhiệm tân Thứ trưởng Bộ Tài chính Bùi Văn Khắng](https://vtc.vn/trao-quyet-dinh-bo-nhiem-tan-thu-truong-bo-tai-chinh-bui-van-khang-ar850943.html) - 11:45 31/01/2024
-- 🤖 [Hungary sẽ bật đèn xanh thông qua gói hỗ trợ hàng tỷ USD cho Ukraine?](https://vtc.vn/hungary-se-bat-den-xanh-thong-qua-goi-ho-tro-hang-ty-usd-cho-ukraine-ar850951.html) - 11:30 31/01/2024
-- 🎊 [Vietnam Airlines lãi hơn 26 tỷ đồng chỉ trong 1 tháng](https://vtc.vn/vietnam-airlines-lai-hon-26-ty-dong-chi-trong-1-thang-ar850931.html) - 11:29 31/01/2024
-- 🐻 [Trung Quốc xuất hiện ca tử vong do nhiễm hỗn hợp virus cúm A/H3N2 và H10N5](https://vtc.vn/trung-quoc-xuat-hien-ca-tu-vong-do-nhiem-hon-hop-virus-cum-a-h3n2-va-h10n5-ar850946.html) - 11:23 31/01/2024
-- 👍 [Bộ trưởng TT&amp;TT: Doanh nghiệp lớn mơ lớn, sứ mệnh lớn](https://vtc.vn/bo-truong-tt-tt-doanh-nghiep-lon-mo-lon-su-menh-lon-ar850944.html) - 11:21 31/01/2024
-- 🪜 [Cách chức Trưởng ban Quản lý Khu kinh tế Cửa khẩu Đồng Đăng - Lạng Sơn](https://vtc.vn/cach-chuc-truong-ban-quan-ly-khu-kinh-te-cua-khau-dong-dang-lang-son-ar850941.html) - 11:20 31/01/2024
-- 🌮 [Miền Bắc khả năng đón không khí lạnh ngày giáp Tết, có nơi rét đậm](https://vtc.vn/mien-bac-kha-nang-don-khong-khi-lanh-ngay-giap-tet-co-noi-ret-dam-ar850939.html) - 11:15 31/01/2024
-- 🌁 [Khởi tố nguyên Tổng giám đốc FLC và 21 người giúp ông Trịnh Văn Quyết lừa đảo](https://vtc.vn/khoi-to-nguyen-tong-giam-doc-flc-va-21-nguoi-giup-ong-trinh-van-quyet-lua-dao-ar850907.html) - 11:14 31/01/2024
-- 👺 [Cận cảnh UGV Ukraine ‘lẻn vào’ khu vực do Nga kiểm soát để tấn công mục tiêu](https://vtc.vn/can-canh-ugv-ukraine-len-vao-khu-vuc-do-nga-kiem-soat-de-tan-cong-muc-tieu-ar850855.html) - 11:10 31/01/2024
-- 🌊 [HDBank đạt 13.017 tỷ lợi nhuận, đẩy mạnh tài chính xanh và chuyển đổi số](https://vtc.vn/hdbank-dat-13-017-ty-loi-nhuan-day-manh-tai-chinh-xanh-va-chuyen-doi-so-ar850936.html) - 11:08 31/01/2024
-- 🤖 [Vì sao 23 người ở Thanh Hóa bị khởi tố về tội &#39;đưa, nhận hối lộ&#39;?](https://vtc.vn/vi-sao-23-nguoi-o-thanh-hoa-bi-khoi-to-ve-toi-dua-nhan-hoi-lo-ar850942.html) - 11:06 31/01/2024
-- 🥸 [Hành trình kỳ lạ của &#39;nam thần&#39; Cho Gue-sung](https://vtc.vn/hanh-trinh-ky-la-cua-nam-than-cho-gue-sung-ar850940.html) - 10:46 31/01/2024
-- 🥸 [Một Giám đốc ngân hàng Big 4 nhận thù lao hơn 15 tỷ đồng/năm](https://vtc.vn/giam-doc-ngan-hang-vietcombank-nhan-thu-lao-hon-15-ty-dong-nam-ar850886.html) - 10:37 31/01/2024
-- 🪜 [Tự hào và tin tưởng dưới lá cờ vẻ vang của Đảng](https://vtc.vn/tu-hao-va-tin-tuong-duoi-la-co-ve-vang-cua-dang-ar850891.html) - 09:58 31/01/2024
+- 🥸 [Giải thưởng âm nhạc của Hội Nhạc sĩ Việt Nam bỏ trống nhiều giải A](https://vtc.vn/giai-thuong-am-nhac-cua-hoi-nhac-si-viet-nam-bo-trong-nhieu-giai-a-ar850901.html) - 15:09 31/01/2024
+- 🤭 [Ronaldo lỡ đại chiến với Messi tại Ả Rập](https://vtc.vn/ronaldo-lo-dai-chien-voi-messi-tai-a-rap-ar850973.html) - 15:08 31/01/2024
+- 🦒 [Facebook Messenger gặp lỗi, tự kéo về tin nhắn cũ](https://vtc.vn/facebook-messenger-gap-loi-tu-keo-ve-tin-nhan-cu-ar850972.html) - 14:47 31/01/2024
+- 🌮 [Lịch thi đấu bóng đá hôm nay ngày 1/2 mới nhất](https://vtc.vn/lich-thi-dau-bong-da-hom-nay-ngay-1-2-moi-nhat-ar850937.html) - 14:00 31/01/2024
+- 🤖 [Các &#39;ông lớn&#39; NATO phản đối kết nạp Ukraine](https://vtc.vn/cac-ong-lon-nato-phan-doi-ket-nap-ukraine-ar850957.html) - 13:52 31/01/2024
+- 🎬 [Thắng dễ Bahrain, tuyển Nhật Bản vào tứ kết Asian Cup 2023](https://vtc.vn/thang-de-bahrain-tuyen-nhat-ban-vao-ban-ket-asian-cup-2023-ar850967.html) - 13:36 31/01/2024
+- 🥳 [Dương Tử Quỳnh ly hôn chồng cũ vì không thể sinh con](https://vtc.vn/duong-tu-quynh-ly-hon-chong-cu-vi-khong-the-sinh-con-ar850959.html) - 13:14 31/01/2024
+- 🎓 [Sai phạm tại Mường Thanh Viễn Triều: Cựu Chủ tịch Khánh Hoà lĩnh 5 năm tù](https://vtc.vn/sai-pham-tai-muong-thanh-vien-trieu-cuu-chu-tich-khanh-hoa-linh-5-nam-tu-ar850955.html) - 12:21 31/01/2024
+- 👹 [Tàu ngầm Kronshtadt gia nhập hải quân Nga](https://vtc.vn/tau-ngam-kronshtadt-gia-nhap-hai-quan-nga-ar850947.html) - 12:09 31/01/2024
+- 🤖 [Khởi tố 6 cựu cán bộ liên quan vụ cháy chung cư mini ở Hà Nội](https://vtc.vn/khoi-to-6-cuu-can-bo-o-ha-noi-lien-quan-vu-chay-chung-cu-mini-pho-khuong-ha-ar850954.html) - 11:58 31/01/2024
+- 🎊 [Trao quyết định bổ nhiệm tân Thứ trưởng Bộ Tài chính Bùi Văn Khắng](https://vtc.vn/trao-quyet-dinh-bo-nhiem-tan-thu-truong-bo-tai-chinh-bui-van-khang-ar850943.html) - 11:45 31/01/2024
+- 🐻 [Hungary sẽ bật đèn xanh thông qua gói hỗ trợ hàng tỷ USD cho Ukraine?](https://vtc.vn/hungary-se-bat-den-xanh-thong-qua-goi-ho-tro-hang-ty-usd-cho-ukraine-ar850951.html) - 11:30 31/01/2024
+- 👍 [Vietnam Airlines lãi hơn 26 tỷ đồng chỉ trong 1 tháng](https://vtc.vn/vietnam-airlines-lai-hon-26-ty-dong-chi-trong-1-thang-ar850931.html) - 11:29 31/01/2024
+- 🪜 [Trung Quốc xuất hiện ca tử vong do nhiễm hỗn hợp virus cúm A/H3N2 và H10N5](https://vtc.vn/trung-quoc-xuat-hien-ca-tu-vong-do-nhiem-hon-hop-virus-cum-a-h3n2-va-h10n5-ar850946.html) - 11:23 31/01/2024
+- 🌮 [Bộ trưởng TT&amp;TT: Doanh nghiệp lớn mơ lớn, sứ mệnh lớn](https://vtc.vn/bo-truong-tt-tt-doanh-nghiep-lon-mo-lon-su-menh-lon-ar850944.html) - 11:21 31/01/2024
+- 🌁 [Cách chức Trưởng ban Quản lý Khu kinh tế Cửa khẩu Đồng Đăng - Lạng Sơn](https://vtc.vn/cach-chuc-truong-ban-quan-ly-khu-kinh-te-cua-khau-dong-dang-lang-son-ar850941.html) - 11:20 31/01/2024
+- 👺 [Miền Bắc khả năng đón không khí lạnh ngày giáp Tết, có nơi rét đậm](https://vtc.vn/mien-bac-kha-nang-don-khong-khi-lanh-ngay-giap-tet-co-noi-ret-dam-ar850939.html) - 11:15 31/01/2024
+- 🌊 [Khởi tố nguyên Tổng giám đốc FLC và 21 người giúp ông Trịnh Văn Quyết lừa đảo](https://vtc.vn/khoi-to-nguyen-tong-giam-doc-flc-va-21-nguoi-giup-ong-trinh-van-quyet-lua-dao-ar850907.html) - 11:14 31/01/2024
+- 🤖 [Cận cảnh UGV Ukraine ‘lẻn vào’ khu vực do Nga kiểm soát để tấn công mục tiêu](https://vtc.vn/can-canh-ugv-ukraine-len-vao-khu-vuc-do-nga-kiem-soat-de-tan-cong-muc-tieu-ar850855.html) - 11:10 31/01/2024
+- 🥸 [HDBank đạt 13.017 tỷ lợi nhuận, đẩy mạnh tài chính xanh và chuyển đổi số](https://vtc.vn/hdbank-dat-13-017-ty-loi-nhuan-day-manh-tai-chinh-xanh-va-chuyen-doi-so-ar850936.html) - 11:08 31/01/2024
+- 🥸 [Vì sao 23 người ở Thanh Hóa bị khởi tố về tội &#39;đưa, nhận hối lộ&#39;?](https://vtc.vn/vi-sao-23-nguoi-o-thanh-hoa-bi-khoi-to-ve-toi-dua-nhan-hoi-lo-ar850942.html) - 11:06 31/01/2024
+- 🪜 [Hành trình kỳ lạ của &#39;nam thần&#39; Cho Gue-sung](https://vtc.vn/hanh-trinh-ky-la-cua-nam-than-cho-gue-sung-ar850940.html) - 10:46 31/01/2024
 - 💪 [&#39;Chuyến xe mùa xuân&#39; đưa hơn 2.000 sinh viên, người lao động về quê đón Tết](https://vtc.vn/chuyen-xe-mua-xuan-dua-hon-2-000-sinh-vien-nguoi-lao-dong-ve-que-don-tet-ar850879.html) - 09:25 31/01/2024
 - 🌝 [Khỉ sổng chuồng, cắn người ở TP.HCM](https://vtc.vn/khi-song-chuong-can-nguoi-o-tp-hcm-ar850887.html) - 09:25 31/01/2024
 - 🧑‍💻 [1 chỉ vàng PNJ giá bao nhiêu?](https://vtc.vn/1-chi-vang-pnj-gia-bao-nhieu-ar850672.html) - 09:11 31/01/2024
