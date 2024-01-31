@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Nguy cơ nếu Mỹ tập kích Iran](https://vnexpress.net/nguy-co-neu-my-tap-kich-iran-4707030.html) - 04:59 31/01/2024
+- 🎭 [Rủi ro với Mỹ nếu tập kích Iran](https://vnexpress.net/rui-ro-voi-my-neu-tap-kich-iran-4707030.html) - 04:59 31/01/2024
 - 🕴 [Israel xác nhận bơm nước biển vào địa đạo Hamas](https://vnexpress.net/israel-xac-nhan-bom-nuoc-bien-vao-dia-dao-hamas-4707115.html) - 04:14 31/01/2024
 - 🤭 [Lính Nga thoát chết vì UAV tự sát Ukraine kẹt trên kính xe](https://vnexpress.net/linh-nga-thoat-chet-vi-uav-tu-sat-ukraine-ket-tren-kinh-xe-4707071.html) - 04:05 31/01/2024
 - 🧑‍💻 [Cuộc biểu tình bao vây Paris của nông dân Pháp](https://vnexpress.net/cuoc-bieu-tinh-bao-vay-paris-cua-nong-dan-phap-4707063.html) - 03:27 31/01/2024
