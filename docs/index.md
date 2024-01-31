@@ -481,7 +481,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
 - 💼 [Diễn viên Thủy Phạm qua đời ở tuổi 34](https://tienphong.vn/dien-vien-thuy-pham-qua-doi-o-tuoi-34-post1609380.tpo) - 00:12 01/02/2024
-- 🎊 [Trực tiếp Iran vs Syria 1-1 &lpar;HP1&rpar;: Hai đội vào hiệp phụ](https://tienphong.vn/truc-tiep-iran-vs-syria-1-1-hp1-hai-doi-vao-hiep-phu-post1609338.tpo) - 22:15 31/01/2024
+- 🎊 [Kéo trận đấu đến loạt luân lưu, Iran hạ Syria 1-1 &lpar;5-3&rpar; để vào tứ kết](https://tienphong.vn/keo-tran-dau-den-loat-luan-luu-iran-ha-syria-1-1-5-3-de-vao-tu-ket-post1609338.tpo) - 22:15 31/01/2024
 - 💼 [Highlights Bahrain vs Nhật Bản: Thắng trong nỗi lo thủ môn](https://tienphong.vn/highlights-bahrain-vs-nhat-ban-thang-trong-noi-lo-thu-mon-post1609346.tpo) - 21:11 31/01/2024
 - 👺 [Novaland báo lãi nghìn tỷ](https://tienphong.vn/novaland-bao-lai-nghin-ty-post1609267.tpo) - 21:02 31/01/2024
 - 💪 [Trao quyết định bổ nhiệm tân Thứ trưởng Bộ Tài chính](https://tienphong.vn/trao-quyet-dinh-bo-nhiem-tan-thu-truong-bo-tai-chinh-post1609226.tpo) - 20:53 31/01/2024
