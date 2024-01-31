@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Giải mã danh xưng đội tân binh trên LIV Golf League 2024](https://vnexpress.net/giai-ma-danh-xung-doi-tan-binh-tren-liv-golf-league-2024-4707365.html) - 11:06 31/01/2024
-- 🦩 [Nhật Bản 0-0 Bahrain &lpar;H1&rpar;: Kubo, Tomiyasu đá chính](https://vnexpress.net/nhat-ban-vs-bahrain-4707296.html) - 11:00 31/01/2024
+- 🦩 [Nhật Bản 3-1 Bahrain &lpar;H2&rpar;: Ueda chuộc lỗi](https://vnexpress.net/nhat-ban-vs-bahrain-4707296.html) - 11:00 31/01/2024
 - 🧰 [Hà Nội sẽ siết chặt việc tổ chức marathon](https://vnexpress.net/ha-noi-se-siet-chat-viec-to-chuc-marathon-4707297.html) - 09:35 31/01/2024
 - 🤗 [Thủ môn Hàn Quốc: &#39;Bí quyết cản phá luân lưu là vợ tôi&#39;](https://vnexpress.net/thu-mon-han-quoc-bi-quyet-can-pha-luan-luu-la-vo-toi-4707306.html) - 08:56 31/01/2024
 - 🥳 [Runner bị nhầm là ăn trộm vì đeo tủ lạnh tập luyện](https://vnexpress.net/runner-bi-nham-la-an-trom-vi-deo-tu-lanh-tap-luyen-4707298.html) - 08:48 31/01/2024
@@ -13,8 +13,8 @@ sidebar_position: 5
 - 🌜 [HLV của Tottenham: &#39;Liverpool sẽ không suy yếu khi Klopp ra đi&#39;](https://vnexpress.net/hlv-cua-tottenham-liverpool-se-khong-suy-yeu-khi-klopp-ra-di-4707236.html) - 07:16 31/01/2024
 - 🫶 [Klopp không lo Liverpool &#39;tan đàn xẻ nghé&#39;](https://vnexpress.net/klopp-khong-lo-liverpool-tan-dan-xe-nghe-4706005.html) - 07:12 31/01/2024
 - 🌜 [Rashford tìm cách xoa dịu Ten Hag](https://vnexpress.net/rashford-tim-cach-xoa-diu-ten-hag-4707227.html) - 06:58 31/01/2024
-- 😺 [HLV Moya: &#39;Nadal chỉ sợ chấn thương&#39;](https://vnexpress.net/hlv-moya-nadal-chi-so-chan-thuong-4707148.html) - 04:59 31/01/2024
-- 👍 [Ngày cuối mua vé siêu sớm 6 giải VnExpress Marathon 2024](https://vnexpress.net/ngay-cuoi-mua-ve-sieu-som-6-giai-vnexpress-marathon-2024-4706642.html) - 04:54 31/01/2024
+- 😺 [Ngày cuối mua vé siêu sớm 6 giải VnExpress Marathon 2024](https://vnexpress.net/ngay-cuoi-mua-ve-sieu-som-6-giai-vnexpress-marathon-2024-4706642.html) - 06:00 31/01/2024
+- 👍 [HLV Moya: &#39;Nadal chỉ sợ chấn thương&#39;](https://vnexpress.net/hlv-moya-nadal-chi-so-chan-thuong-4707148.html) - 04:59 31/01/2024
 - 🐵 [8 thói quen có thể giúp bạn chạy tốt hơn](https://vnexpress.net/8-thoi-quen-co-the-giup-ban-chay-tot-hon-4706923.html) - 03:01 31/01/2024
 - 💫 [&#39;Ngai vàng&#39; bị thách thức của Djokovic](https://vnexpress.net/ngai-vang-bi-thach-thuc-cua-djokovic-4706890.html) - 02:42 31/01/2024
 - 🦆 [Arteta thích cầu thủ Arsenal tranh cãi trên sân](https://vnexpress.net/arteta-thich-cau-thu-arsenal-tranh-cai-tren-san-4707047.html) - 01:33 31/01/2024
