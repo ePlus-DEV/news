@@ -62,6 +62,9 @@ const config = {
           trackingID: 'G-XE98YSP4LS',
           anonymizeIP: true,
         },
+        sitemap: {
+          changefreq: 'hourly',
+        },
       }),
     ],
   ],
