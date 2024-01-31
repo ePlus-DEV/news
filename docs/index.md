@@ -327,8 +327,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VTC
 <!-- vtc:START -->
 - 🥸 [&#39;Cặp đôi hoàn hảo của dòng nhạc đỏ&#39;: Sự nghiệp vang danh, kinh tế vững vàng](https://vtc.vn/cap-doi-hoan-hao-cua-dong-nhac-do-su-nghiep-vang-danh-kinh-te-vung-vang-ar850687.html) - 07:57 31/01/2024
-- 🤭 [Trường đại học nào đào tạo ngành Kỹ thuật máy tính tốt nhất hiện nay?](https://vtc.vn/truong-dai-hoc-nao-dao-tao-nganh-ky-thuat-may-tinh-tot-nhat-hien-nay-ar849377.html) - 07:48 31/01/2024
-- 🦒 [Sau 30 năm oan sai, giám đốc công ty được VKSND TP.HCM xin lỗi công khai](https://vtc.vn/sau-30-nam-oan-sai-giam-doc-cong-ty-duoc-vksnd-tp-hcm-xin-loi-cong-khai-ar850876.html) - 07:48 31/01/2024
+- 🤭 [Sau 30 năm oan sai, giám đốc công ty được VKSND TP.HCM xin lỗi công khai](https://vtc.vn/sau-30-nam-oan-sai-giam-doc-cong-ty-duoc-vksnd-tp-hcm-xin-loi-cong-khai-ar850876.html) - 07:48 31/01/2024
+- 🦒 [Trường đại học nào đào tạo ngành Kỹ thuật máy tính tốt nhất hiện nay?](https://vtc.vn/truong-dai-hoc-nao-dao-tao-nganh-ky-thuat-may-tinh-tot-nhat-hien-nay-ar849377.html) - 07:48 31/01/2024
 - 🌮 [Cho thôi chức Ủy viên Bộ Chính trị đối với ông Trần Tuấn Anh](https://vtc.vn/ban-chap-hanh-trung-uong-dang-khoa-xiii-quyet-dinh-ve-cong-tac-can-bo-ar850836.html) - 07:32 31/01/2024
 - 🤖 [Vướng nghi vấn đường lưỡi bò, phim của em trai Phạm Băng Băng bị gỡ bỏ](https://vtc.vn/vuong-nghi-van-duong-luoi-bo-phim-cua-em-trai-pham-bang-bang-bi-go-bo-ar850868.html) - 07:08 31/01/2024
 - 🎬 [Nga bắn cháy kho đạn, nhiên liệu của Ukraine ở hữu ngạn sông Dnipro](https://vtc.vn/nga-ban-chay-kho-dan-nhien-lieu-cua-ukraine-o-huu-ngan-song-dnipro-ar850877.html) - 07:01 31/01/2024
