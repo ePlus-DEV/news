@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Giải mã danh xưng đội tân binh trên LIV Golf League 2024](https://vnexpress.net/giai-ma-danh-xung-doi-tan-binh-tren-liv-golf-league-2024-4707365.html) - 11:06 31/01/2024
-- 🦩 [Nhật Bản 3-1 Bahrain &lpar;H2&rpar;: Ueda chuộc lỗi](https://vnexpress.net/nhat-ban-vs-bahrain-4707296.html) - 11:00 31/01/2024
+- 🦩 [Nhật Bản dễ dàng vào tứ kết Asian Cup 2023](https://vnexpress.net/nhat-ban-vs-bahrain-4707296.html) - 11:00 31/01/2024
 - 🧰 [Hà Nội sẽ siết chặt việc tổ chức marathon](https://vnexpress.net/ha-noi-se-siet-chat-viec-to-chuc-marathon-4707297.html) - 09:35 31/01/2024
 - 🤗 [Thủ môn Hàn Quốc: &#39;Bí quyết cản phá luân lưu là vợ tôi&#39;](https://vnexpress.net/thu-mon-han-quoc-bi-quyet-can-pha-luan-luu-la-vo-toi-4707306.html) - 08:56 31/01/2024
 - 🥳 [Runner bị nhầm là ăn trộm vì đeo tủ lạnh tập luyện](https://vnexpress.net/runner-bi-nham-la-an-trom-vi-deo-tu-lanh-tap-luyen-4707298.html) - 08:48 31/01/2024
