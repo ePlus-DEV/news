@@ -1,7 +1,7 @@
 name: "Cronjob VnExpress"
 on:
   workflow_run:
-    workflows: ["Cronjob"]
+    workflows: ["Cronjob ThuVienPhapLuat"]
     types: [completed]
 
 jobs:
@@ -11,6 +11,9 @@ jobs:
     strategy:
       matrix:
         include:
+          - feed_list: "https://vnexpress.net/rss/tin-moi-nhat.rss"
+            readme_path: "./docs/index.md"
+            rand_seed: "vnexpress"
           - feed_list: "https://vnexpress.net/rss/thoi-su.rss"
             readme_path: "./docs/vnexpress/thoi-su.md"
             rand_seed: "vnexpress-thoi-su"
