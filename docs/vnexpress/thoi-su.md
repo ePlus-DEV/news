@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Cháy cửa hàng mứt bánh gần chợ Đà Lạt](https://vnexpress.net/chay-cua-hang-mut-banh-gan-cho-da-lat-4707547.html) - 03:46 01/02/2024
-- 🤓 [TP HCM tăng số điểm bắn pháo hoa dịp Tết](https://vnexpress.net/tp-hcm-tang-so-diem-ban-phao-hoa-dip-tet-4707515.html) - 03:37 01/02/2024
+- 🤓 [TP HCM tăng điểm bắn pháo hoa dịp Tết](https://vnexpress.net/tp-hcm-tang-diem-ban-phao-hoa-dip-tet-4707515.html) - 03:37 01/02/2024
 - ⚗️ [TP Quy Nhơn, Quảng Ngãi chìm trong sương mù](https://vnexpress.net/tp-quy-nhon-quang-ngai-chim-trong-suong-mu-4707479.html) - 03:28 01/02/2024
 - 🌊 [Ba mẹ con tử vong trong ngôi nhà cháy](https://vnexpress.net/ba-me-con-tu-vong-trong-ngoi-nha-chay-4707501.html) - 02:50 01/02/2024
 - 🎓 [Bến xe lớn nhất nước ế ẩm, &#39;xe dù&#39; tấp nập](https://vnexpress.net/ben-xe-lon-nhat-nuoc-e-am-xe-du-tap-nap-4707326.html) - 23:00 31/01/2024
