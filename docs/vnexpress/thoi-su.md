@@ -15,7 +15,7 @@ sidebar_position: 1
 - 🧑‍🏫 [Bến xe lớn nhất nước ế ẩm, &#39;xe dù&#39; tấp nập](https://vnexpress.net/ben-xe-lon-nhat-nuoc-e-am-xe-du-tap-nap-4707326.html) - 23:00 31/01/2024
 - 🚦 [Hẻm Sài Gòn trang hoàng đón Tết](https://vnexpress.net/hem-sai-gon-trang-hoang-don-tet-4707218.html) - 22:00 31/01/2024
 - 🎉 [Chợ cá chép nhộn nhịp trước ngày ông Táo](https://vnexpress.net/cho-ca-chep-nhon-nhip-truoc-ngay-ong-tao-4707076.html) - 17:00 31/01/2024
-- 🦒 [Lắp hộ lan chống lật xe ở khúc cua đèo Prenn](https://vnexpress.net/lap-ho-lan-chong-lat-xe-o-khuc-cua-deo-prenn-4707373.html) - 12:15 31/01/2024
+- 🦒 [Lắp hộ lan chống lật xe ở đèo Prenn](https://vnexpress.net/lap-ho-lan-chong-lat-xe-o-deo-prenn-4707373.html) - 12:15 31/01/2024
 - 🤗 [Cựu Bí thư Quảng Nam Phan Việt Cường thôi Ủy viên Trung ương](https://vnexpress.net/cuu-bi-thu-quang-nam-phan-viet-cuong-thoi-uy-vien-trung-uong-4679901.html) - 07:24 31/01/2024
 - 💼 [Cựu Bí thư Bắc Ninh Nguyễn Nhân Chiến bị khai trừ Đảng](https://vnexpress.net/cuu-bi-thu-bac-ninh-nguyen-nhan-chien-bi-khai-tru-dang-4706869.html) - 07:21 31/01/2024
 - 🤩 [Bí thư Lâm Đồng Trần Đức Quận bị khai trừ Đảng](https://vnexpress.net/bi-thu-lam-dong-tran-duc-quan-bi-khai-tru-dang-4706820.html) - 07:18 31/01/2024
