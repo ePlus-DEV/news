@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [5 cầu thủ bị khởi tố vì &#39;dàn xếp tỷ số&#39;](https://vnexpress.net/5-cau-thu-bi-khoi-to-vi-dan-xep-ty-so-4707608.html) - 04:24 01/02/2024
+- 😎 [5 cầu thủ CLB Bà Rịa - Vũng Tàu bị khởi tố vì &#39;dàn xếp tỷ số&#39;](https://vnexpress.net/5-cau-thu-clb-ba-ria-vung-tau-bi-khoi-to-vi-dan-xep-ty-so-4707608.html) - 04:24 01/02/2024
 - 🥰 [Nhiều cán bộ phường bị bắt trong vụ nhận hối lộ làm sổ đỏ](https://vnexpress.net/nhieu-can-bo-phuong-bi-bat-trong-vu-nhan-hoi-lo-lam-so-do-4707224.html) - 04:02 01/02/2024
 - 🎓 [Vợ chồng chủ hụi bị bắt vì &#39;cuỗm&#39; 50 tỷ đồng của người chơi](https://vnexpress.net/vo-chong-chu-hui-bi-bat-vi-cuom-50-ty-dong-cua-nguoi-choi-4707489.html) - 02:54 01/02/2024
 - 🤓 [Bị sa thải, nhân viên có được nhận tiền lương tháng cuối cùng?](https://vnexpress.net/bi-sa-thai-nhan-vien-co-duoc-nhan-tien-luong-4704919.html) - 20:00 31/01/2024
