@@ -1,7 +1,7 @@
 name: "Cronjob VnExpress"
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/20 * * * *"
   push:
     branches:
       - "main"
