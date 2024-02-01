@@ -1,9 +1,11 @@
 name: "Cronjob ThuVienPhapLuat"
 on:
-  workflow_run:
-    workflows: ["Cronjob"]
-    types: [completed]
-
+  schedule:
+    - cron: "*/5 * * * *"
+  push:
+    branches:
+      - "main"
+  workflow_dispatch:
 jobs:
   vnexpress:
     name: Thư Viện Pháp Luật - ${{ matrix.rand_seed }}
