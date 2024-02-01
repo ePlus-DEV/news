@@ -424,7 +424,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Thư Viện Pháp Luật
 <!-- thuvienphapluat:START -->
-<!-- thuvienphapluat:START -->
+<!-- thuvienphapluat:END -->
 
 ## Báo Mực Tím
 <!-- muctim:START -->
