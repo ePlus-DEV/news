@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Bị sa thải, nhân viên có được nhận tiền lương tháng cuối cùng?](https://vnexpress.net/bi-sa-thai-nhan-vien-co-duoc-nhan-tien-luong-4704919.html) - 20:00 31/01/2024
 - 🥰 [Người cha &#39;sợ con không biết tiếng Việt&#39; thua kiện](https://vnexpress.net/nguoi-cha-so-con-khong-biet-tieng-viet-thua-kien-4707355.html) - 17:00 31/01/2024
-- 🎓 [Vì sao ba lãnh đạo Sen Tài Thu bị cáo buộc lừa nghìn tỷ đồng](https://vnexpress.net/vi-sao-ba-lanh-dao-sen-tai-thu-bi-cao-buoc-lua-nghin-ty-dong-4707317.html) - 17:00 31/01/2024
+- 🎓 [Vì sao ba lãnh đạo Sen Tài Thu bị cáo buộc lừa nghìn tỷ đồng?](https://vnexpress.net/vi-sao-ba-lanh-dao-sen-tai-thu-bi-cao-buoc-lua-nghin-ty-dong-4707317.html) - 17:00 31/01/2024
 - 🤓 [Cựu chủ tịch Khánh Hòa lĩnh 5 năm tù vì giao đất làm dự án Mường Thanh sai pháp luật](https://vnexpress.net/cuu-chu-tich-khanh-hoa-linh-5-nam-tu-vi-giao-dat-lam-du-an-muong-thanh-sai-phap-luat-4707368.html) - 11:47 31/01/2024
 - 🎊 [Thêm 6 cán bộ bị khởi tố trong vụ cháy chung cư mini ở Hà Nội](https://vnexpress.net/them-6-can-bo-bi-khoi-to-trong-vu-chay-chung-cu-mini-o-ha-noi-4707362.html) - 11:11 31/01/2024
 - 🙉 [Cựu tổng giám đốc FLC Doãn Văn Phương bị khởi tố](https://vnexpress.net/cuu-tong-giam-doc-flc-doan-van-phuong-bi-khoi-to-4707359.html) - 10:52 31/01/2024
