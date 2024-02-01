@@ -143,14 +143,14 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Bang New York muốn khuyến khích sinh viên quốc tế ở lại khởi nghiệp](https://thanhnien.vn/bang-new-york-muon-khuyen-khich-sinh-vien-quoc-te-o-lai-khoi-nghiep-185240131124509962.htm) - 05:13 01/02/2024
-- 🥸 [Xe khách lao xuống vực ở cao tốc La Sơn - Túy Loan: Bắt tạm giam tài xế](https://thanhnien.vn/xe-khach-lao-xuong-vuc-o-cao-toc-la-son-tuy-loan-bat-tam-giam-tai-xe-185240201112927964.htm) - 05:11 01/02/2024
-- 🌁 [Vì sao 5 cầu thủ CLB Bà Rịa-Vũng Tàu bị khởi tố?](https://thanhnien.vn/vi-sao-5-cau-thu-clb-ba-ria-vung-tau-bi-khoi-to-185240201114622523.htm) - 05:06 01/02/2024
-- 🤡 [Linh vật rồng Gen Z trong đại gia đình rồng Suối Tiên lộ diện tạo &#39;bão&#39; mạng](https://thanhnien.vn/linh-vat-rong-gen-z-trong-dai-gia-dinh-rong-suoi-tien-lo-dien-tao-bao-mang-185240201100933282.htm) - 05:05 01/02/2024
-- 🎉 [Lo ngại nếu nhận chìm 2,2 triệu m3 vật liệu nạo vét xuống biển Hà Tĩnh](https://thanhnien.vn/lo-ngai-neu-nhan-chim-22-trieu-m3-vat-lieu-nao-vet-xuong-bien-ha-tinh-185240201112632048.htm) - 05:04 01/02/2024
-- 🎊 [Ngày đầu chợ hoa tết Phú Mỹ Hưng: Đại gia chốt giá trên trăm triệu, người bán mừng rơn](https://thanhnien.vn/ngay-dau-cho-hoa-tet-phu-my-hung-dai-gia-chot-gia-tren-tram-trieu-nguoi-ban-mung-ron-185240201112039639.htm) - 05:00 01/02/2024
-- 🤠 [Cách thêm thu nhập cho dân văn phòng chỉ với 2-3 giờ rảnh mỗi ngày](https://thanhnien.vn/cach-them-thu-nhap-cho-dan-van-phong-chi-voi-2-3-gio-ranh-moi-ngay-185240201111938157.htm) - 05:00 01/02/2024
-- 💼 [Bỏ túi đi Bình Ba không quá 1 triệu đồng cùng hội bạn bè](https://thanhnien.vn/thoi-trang-tre/bo-tui-di-binh-ba-khong-qua-1-trieu-dong-cung-hoi-ban-be-185240131152740959.htm) - 05:00 01/02/2024
+- 🤠 [Tai nạn giao thông khiến 2 nữ sinh ở Nam Định tử vong](https://thanhnien.vn/tai-nan-giao-thong-khien-2-nu-sinh-o-nam-dinh-tu-vong-185240201105847203.htm) - 05:34 01/02/2024
+- 🥸 [Bang New York muốn khuyến khích sinh viên quốc tế ở lại khởi nghiệp](https://thanhnien.vn/bang-new-york-muon-khuyen-khich-sinh-vien-quoc-te-o-lai-khoi-nghiep-185240131124509962.htm) - 05:13 01/02/2024
+- 🌁 [Xe khách lao xuống vực ở cao tốc La Sơn - Túy Loan: Bắt tạm giam tài xế](https://thanhnien.vn/xe-khach-lao-xuong-vuc-o-cao-toc-la-son-tuy-loan-bat-tam-giam-tai-xe-185240201112927964.htm) - 05:11 01/02/2024
+- 🤡 [Vì sao 5 cầu thủ CLB Bà Rịa-Vũng Tàu bị khởi tố?](https://thanhnien.vn/vi-sao-5-cau-thu-clb-ba-ria-vung-tau-bi-khoi-to-185240201114622523.htm) - 05:06 01/02/2024
+- 🎉 [Linh vật rồng Gen Z trong đại gia đình rồng Suối Tiên lộ diện tạo &#39;bão&#39; mạng](https://thanhnien.vn/linh-vat-rong-gen-z-trong-dai-gia-dinh-rong-suoi-tien-lo-dien-tao-bao-mang-185240201100933282.htm) - 05:05 01/02/2024
+- 🎊 [Lo ngại nếu nhận chìm 2,2 triệu m3 vật liệu nạo vét xuống biển Hà Tĩnh](https://thanhnien.vn/lo-ngai-neu-nhan-chim-22-trieu-m3-vat-lieu-nao-vet-xuong-bien-ha-tinh-185240201112632048.htm) - 05:04 01/02/2024
+- 🤠 [Ngày đầu chợ hoa tết Phú Mỹ Hưng: Đại gia chốt giá trên trăm triệu, người bán mừng rơn](https://thanhnien.vn/ngay-dau-cho-hoa-tet-phu-my-hung-dai-gia-chot-gia-tren-tram-trieu-nguoi-ban-mung-ron-185240201112039639.htm) - 05:00 01/02/2024
+- 💼 [Cách thêm thu nhập cho dân văn phòng chỉ với 2-3 giờ rảnh mỗi ngày](https://thanhnien.vn/cach-them-thu-nhap-cho-dan-van-phong-chi-voi-2-3-gio-ranh-moi-ngay-185240201111938157.htm) - 05:00 01/02/2024
 - 🐻 [Game xây dựng sở thú Planet Zoo sắp cập bến hệ máy console](https://thanhnien.vn/game-xay-dung-so-thu-planet-zoo-sap-cap-ben-he-may-console-185240201100944564.htm) - 04:56 01/02/2024
 - 🤔 [Linh vật rồng kiểu ấn Hoàng đế chi bảo nhận &#39;mưa&#39; lời khen](https://thanhnien.vn/linh-vat-rong-kieu-an-hoang-de-chi-bao-nhan-mua-loi-khen-185240201095524032.htm) - 04:56 01/02/2024
 - 📝 [Xem nhanh 12h: Ngày mai xét xử Ngọc Trinh | Tâm sự của giám đốc 30 năm oan sai](https://thanhnien.vn/xem-nhanh-12h-ngay-mai-xet-xu-ngoc-trinh-tam-su-cua-giam-doc-30-nam-oan-sai-18524020111461953.htm) - 04:52 01/02/2024
