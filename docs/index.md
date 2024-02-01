@@ -125,7 +125,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤔 [Sau tất cả, người Việt lại về bên mâm cơm Tết đậm đà](https://dantri.com.vn/tet-2024/sau-tat-ca-nguoi-viet-lai-ve-ben-mam-com-tet-dam-da-20240131143719285.htm) - 08:00 31/01/2024
 - 🔭 [Sắp diễn ra chương trình &quot;Xuân quê hương 2024&quot; tại TPHCM](https://dantri.com.vn/van-hoa/sap-dien-ra-chuong-trinh-xuan-que-huong-2024-tai-tphcm-20240131144245093.htm) - 08:00 31/01/2024
 - 🤖 [Chủ tịch Thanh Hóa chỉ đạo &quot;nóng&quot; sau vụ cháy 3 mẹ con tử vong](https://dantri.com.vn/xa-hoi/chu-tich-thanh-hoa-chi-dao-nong-sau-vu-chay-3-me-con-tu-vong-20240131132054797.htm) - 07:55 31/01/2024
-- 🥷 [Trấn Thành khóc trong buổi ra mắt phim Tết gắn nhãn 18+, được vợ vỗ về](https://dantri.com.vn/giai-tri/tran-thanh-khoc-trong-buoi-ra-mat-phim-tet-gan-nhan-18-duoc-vo-vo-ve-20240131114609440.htm) - 07:51 31/01/2024<!-- dantri:END -->
+- 🥷 [Trấn Thành khóc trong buổi ra mắt phim Tết gắn nhãn 18+, được vợ vỗ về](https://dantri.com.vn/giai-tri/tran-thanh-khoc-trong-buoi-ra-mat-phim-tet-gan-nhan-18-duoc-vo-vo-ve-20240131114609440.htm) - 07:51 31/01/2024
+- 🦩 [HLV Klinsmann tiết lộ bí quyết giúp Hàn Quốc vào tứ kết Asian Cup](https://dantri.com.vn/the-thao/hlv-klinsmann-tiet-lo-bi-quyet-giup-han-quoc-vao-tu-ket-asian-cup-20240131142722547.htm) - 07:39 31/01/2024
+- 😎 [Thuê xe tải đi trộm nguyên một đàn bò](https://dantri.com.vn/phap-luat/thue-xe-tai-di-trom-nguyen-mot-dan-bo-20240131130808206.htm) - 07:28 31/01/2024
+- 🥰 [Ông Trump được đề cử Nobel Hòa bình](https://dantri.com.vn/the-gioi/ong-trump-duoc-de-cu-nobel-hoa-binh-20240131121939011.htm) - 07:25 31/01/2024
+- 🏊 [Hai cán bộ cấp cao thôi giữ chức Ủy viên Bộ Chính trị, Ủy viên Trung ương](https://dantri.com.vn/xa-hoi/hai-can-bo-cap-cao-thoi-giu-chuc-uy-vien-bo-chinh-tri-uy-vien-trung-uong-20240130193833544.htm) - 07:23 31/01/2024
+- 🕯 [Điều kiện để người sinh năm 1975 được nhận lương hưu](https://dantri.com.vn/an-sinh/dieu-kien-de-nguoi-sinh-nam-1975-duoc-nhan-luong-huu-20240131134018933.htm) - 07:14 31/01/2024
+- 🌈 [Nga tăng cường sản xuất tên lửa](https://dantri.com.vn/the-gioi/nga-tang-cuong-san-xuat-ten-lua-20240131140214305.htm) - 07:11 31/01/2024
+- 🧑‍💻 [Hoa tiêu thụ chậm, nhà vườn sợ... Tết](https://dantri.com.vn/lao-dong-viec-lam/hoa-tieu-thu-cham-nha-vuon-so-tet-20240130092923818.htm) - 07:07 31/01/2024
+- 💫 [Thiết kế cổng trường &quot;liêu xiêu&quot; ở Huế, nhà trường lên tiếng](https://dantri.com.vn/giao-duc/thiet-ke-cong-truong-lieu-xieu-o-hue-nha-truong-len-tieng-20240131110337311.htm) - 07:04 31/01/2024
+- ⛽️ [Lãi tăng gần 60%, Vincom Retail tính nới 160.000m2 mặt sàn bán lẻ](https://dantri.com.vn/kinh-doanh/lai-tang-gan-60-vincom-retail-tinh-noi-160000m2-mat-san-ban-le-20240131074651942.htm) - 07:03 31/01/2024
+- 🌜 [VietinBank mang ý nghĩa thực của sống &quot;lãi&quot; đến khách hàng](https://dantri.com.vn/giai-tri/vietinbank-mang-y-nghia-thuc-cua-song-lai-den-khach-hang-20240131121849900.htm) - 07:00 31/01/2024<!-- dantri:END -->
 
 
 ## Báo Thanh Niên
