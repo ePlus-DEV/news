@@ -50,7 +50,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐻 [Thêm hai vụ án vào diện theo dõi của Ban Chỉ đạo trung ương](https://vnexpress.net/them-hai-vu-an-vao-dien-theo-doi-cua-ban-chi-dao-trung-uong-4707761.html) - 10:06 01/02/2024
 - 😺 [Phụ nữ trẻ hết động lực đẻ](https://vnexpress.net/phu-nu-tre-het-dong-luc-de-4707721.html) - 10:00 01/02/2024
 - 🤔 [Chỉ cần ta cảm thấy bình an khi bên nhau là đủ](https://vnexpress.net/chi-can-ta-cam-thay-binh-an-khi-ben-nhau-la-du-4707529.html) - 10:00 01/02/2024
-- 🌮 [Điểm tin 21h: &#39;Vật tư bị nâng khống tại vụ án EVN Bình Thuận&#39;; TP HCM đặt mục tiêu tăng trưởng 6,5% quý I](https://vnexpress.net/diem-tin-21h-vat-tu-bi-nang-khong-tai-vu-an-evn-binh-thuan-tp-hcm-dat-muc-tieu-tang-truong-6-5-quy-i-4707775.html) - 10:00 01/02/2024
+- 🌮 [Điểm tin 17h: Giá vàng miếng vượt 78 triệu đồng; 5 cầu thủ CLB Bà Rịa - Vũng Tàu bị khởi tố](https://vnexpress.net/diem-tin-17h-gia-vang-mieng-vuot-78-trieu-dong-5-cau-thu-clb-ba-ria-vung-tau-bi-khoi-to-4707775.html) - 10:00 01/02/2024
 - 🦩 [HDBank tung gói tín dụng lãi suất 0% trong tháng 2](https://vnexpress.net/hdbank-tung-goi-tin-dung-lai-suat-0-trong-thang-2-4707773.html) - 10:00 01/02/2024
 - 📝 [Tác hại khi lăn kim trị mụn trứng cá](https://vnexpress.net/tac-hai-khi-lan-kim-tri-mun-trung-ca-4707669.html) - 10:00 01/02/2024
 - 🕴 [PGA Tour được đầu tư 3 tỷ USD](https://vnexpress.net/pga-tour-duoc-dau-tu-3-ty-usd-4707776.html) - 09:58 01/02/2024
