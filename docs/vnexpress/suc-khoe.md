@@ -6,7 +6,7 @@ sidebar_position: 10
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [Sùi mào gà có lây khi cùng ăn chung bát đũa?](https://vnexpress.net/sui-mao-ga-co-lay-khi-cung-an-chung-bat-dua-4707522.html) - 04:00 01/02/2024
 - 🥰 [10 gia vị phòng ung thư vú](https://vnexpress.net/10-gia-vi-phong-ung-thu-vu-4707386.html) - 03:36 01/02/2024
-- 💡 [Thịt động vật hoang dã - món ăn &#39;lấy may&#39; hay gây hại?](https://vnexpress.net/thit-dong-vat-hoang-da-mon-an-lay-may-hay-gay-hai-4707087.html) - 03:27 01/02/2024
+- 💡 [Thịt động vật hoang dã - món ăn lấy may hay gây hại?](https://vnexpress.net/thit-dong-vat-hoang-da-mon-an-lay-may-hay-gay-hai-4707087.html) - 03:27 01/02/2024
 - 🤗 [Có nên phẫu thuật chữa phì đại cuốn mũi?](https://vnexpress.net/co-nen-phau-thuat-chua-phi-dai-cuon-mui-4707483.html) - 03:12 01/02/2024
 - 🪜 [Có con sau 5 lần chẩn đoán vô sinh](https://vnexpress.net/co-con-sau-5-lan-chan-doan-vo-sinh-4707499.html) - 03:00 01/02/2024
 - 🕯 [Triệu chứng cảnh báo chảy máu não](https://vnexpress.net/trieu-chung-canh-bao-chay-mau-nao-4707158.html) - 03:00 01/02/2024
