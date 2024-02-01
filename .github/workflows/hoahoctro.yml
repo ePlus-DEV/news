@@ -5,7 +5,7 @@ on:
     types: [in_progress]
 
 jobs:
-  vnexpress:
+  hoahoctro_job:
     name: HoaHocTro - ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:

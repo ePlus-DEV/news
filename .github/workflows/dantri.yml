@@ -5,7 +5,7 @@ on:
     types: [in_progress]
 
 jobs:
-  vnexpress:
+  dantri_job:
     name: Dân Trí - ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:

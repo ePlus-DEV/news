@@ -5,7 +5,7 @@ on:
     types: [in_progress]
 
 jobs:
-  vnexpress:
+  nld_job:
     name: Người Lao Động - ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:

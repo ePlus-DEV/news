@@ -4,7 +4,7 @@ on:
     workflows: ["Cronjob VnExpress"]
     types: [in_progress]
 jobs:
-  vnexpress:
+  thuvienphapluat_job:
     name: Thư Viện Pháp Luật - ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:

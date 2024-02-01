@@ -5,7 +5,7 @@ on:
     types: [in_progress]
 
 jobs:
-  vnexpress:
+  muctim_job:
     name: MucTim - ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:

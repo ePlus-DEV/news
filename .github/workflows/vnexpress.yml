@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  vnexpress:
+  vnexpress_job:
     name: VnExpress - ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:

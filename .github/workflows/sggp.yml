@@ -5,7 +5,7 @@ on:
     types: [in_progress]
 
 jobs:
-  vnexpress:
+  sggp_job:
     name: SGGP - ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:
