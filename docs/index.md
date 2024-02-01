@@ -265,7 +265,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤩 [Mang Tết đến với người khuyết tật, trẻ em mồ côi TP HCM](https://nld.com.vn/mang-tet-den-voi-nguoi-khuyet-tat-tre-em-mo-coi-tp-hcm-196240201153326281.htm) - 09:07 01/02/2024
 - 🎭 [Những nước nào nhận cam kết tài trợ khí hậu kỷ lục từ ADB trong năm 2023?](https://nld.com.vn/nhung-nuoc-nao-nhan-cam-ket-tai-tro-khi-hau-ky-luc-tu-adb-trong-nam-2023-196240201124019719.htm) - 09:00 01/02/2024
 - 💄 [“Hot girl” đi ăn trộm](https://nld.com.vn/hot-girl-di-an-trom-196240201153422136.htm) - 08:59 01/02/2024
-- 🎊 [Đẹp ngẩn ngơ với những “cụ” mai vàng xứ Huế](https://nld.com.vn/dep-ngan-ngo-voi-nhung-cu-mai-vang-xu-hue-196240201133922429.htm) - 08:58 01/02/2024
+- 🎊 [Đẹp ngẩn ngơ với những cội mai xứ Huế](https://nld.com.vn/dep-ngan-ngo-voi-nhung-cu-mai-vang-xu-hue-196240201133922429.htm) - 08:58 01/02/2024
 - 🎡 [Khi nghệ sĩ hài hát thì sẽ thế nào?](https://nld.com.vn/khi-nghe-si-hai-hat-thi-se-the-nao-196240201143125725.htm) - 08:37 01/02/2024
 - 🎉 [&quot;Định mệnh&quot; của Đen Vâu tên Linh](https://nld.com.vn/dinh-menh-cua-den-vau-ten-linh-196240201145429107.htm) - 08:36 01/02/2024
 - 😺 [Kết quả xổ số hôm nay &lpar;1-2&rpar;: Tây Ninh, An Giang, Bình Thuận, Bình Định, Quảng Trị, Hà Nội](https://nld.com.vn/ket-qua-xo-so-hom-nay-1-2-tay-ninh-an-giang-binh-thuan-binh-dinh-quang-tri-ha-noi-196240201151848345.htm) - 08:35 01/02/2024
