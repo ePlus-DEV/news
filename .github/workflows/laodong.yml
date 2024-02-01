@@ -3,6 +3,7 @@ on:
   workflow_run:
     workflows: ["Cronjob ThanhNien"]
     types: [in_progress]
+  workflow_dispatch:
 
 jobs:
   laodong_job:
