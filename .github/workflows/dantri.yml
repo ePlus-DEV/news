@@ -3,6 +3,7 @@ on:
   workflow_run:
     workflows: ["Cronjob ThuVienPhapLuat"]
     types: [in_progress]
+  workflow_dispatch:
 
 jobs:
   dantri_job:
