@@ -2,7 +2,7 @@ name: "Cronjob LaoDong"
 on:
   workflow_run:
     workflows: ["Cronjob ThanhNien"]
-    types: [completed]
+    types: [in_progress]
 
 jobs:
   vnexpress:
