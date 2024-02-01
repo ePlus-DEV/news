@@ -1,8 +1,11 @@
 name: "Cronjob VnExpress"
 on:
-  workflow_run:
-    workflows: ["Cronjob ThuVienPhapLuat"]
-    types: [completed]
+  schedule:
+    - cron: "*/5 * * * *"
+  push:
+    branches:
+      - "main"
+  workflow_dispatch:
 
 jobs:
   vnexpress:

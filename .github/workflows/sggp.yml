@@ -1,32 +1,32 @@
-name: "Cronjob ThuVienPhapLuat"
+name: "Cronjob SGGP"
 on:
   workflow_run:
-    workflows: ["Cronjob VnExpress"]
+    workflows: ["Cronjob NLD"]
     types: [completed]
 
 jobs:
   vnexpress:
-    name: Thư Viện Pháp Luật - ${{ matrix.rand_seed }}
+    name: SGGP - ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:
       matrix:
         include:
-          - feed_list: "https://thuvienphapluat.vn/rss.xml"
+          - feed_list: "https://www.sggp.org.vn/rss/home.rss"
             readme_path: "./docs/index.md"
-            rand_seed: "thuvienphapluat"
+            rand_seed: "sggp"
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Pull in Thư Viện Pháp Luật news
+      - name: Pull in SGGP news
         uses: ePlus-DEV/blog-post-workflow@v1.0.2
         with:
           retry_count: 5
           readme_path: ${{ matrix.readme_path }}
           feed_list: ${{ matrix.feed_list }}
           committer_email: "h250694@gmail.com"
-          commit_message: "Get ThuVienPhapLuat news - ${{ matrix.rand_seed }} - ${{ github.event.repository.updated_at}}"
+          commit_message: "Get SGGP news - ${{ matrix.rand_seed }} - ${{ github.event.repository.updated_at}}"
           rand_seed: ${{ matrix.rand_seed }}
           comment_tag_name: ${{ matrix.rand_seed }}
           date_format: "HH:MM dd/mm/yyyy"

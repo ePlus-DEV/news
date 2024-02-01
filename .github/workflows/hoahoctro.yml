@@ -1,32 +1,32 @@
-name: "Cronjob ThuVienPhapLuat"
+name: "Cronjob HoaHocTro"
 on:
   workflow_run:
-    workflows: ["Cronjob VnExpress"]
+    workflows: ["Cronjob MucTim"]
     types: [completed]
 
 jobs:
   vnexpress:
-    name: Thư Viện Pháp Luật - ${{ matrix.rand_seed }}
+    name: HoaHocTro - ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:
       matrix:
         include:
-          - feed_list: "https://thuvienphapluat.vn/rss.xml"
+          - feed_list: "https://hoahoctro.tienphong.vn/rss/home.rss"
             readme_path: "./docs/index.md"
-            rand_seed: "thuvienphapluat"
+            rand_seed: "hoahoctro"
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Pull in Thư Viện Pháp Luật news
+      - name: Pull in HoaHocTro news
         uses: ePlus-DEV/blog-post-workflow@v1.0.2
         with:
           retry_count: 5
           readme_path: ${{ matrix.readme_path }}
           feed_list: ${{ matrix.feed_list }}
           committer_email: "h250694@gmail.com"
-          commit_message: "Get ThuVienPhapLuat news - ${{ matrix.rand_seed }} - ${{ github.event.repository.updated_at}}"
+          commit_message: "Get HoaHocTro news - ${{ matrix.rand_seed }} - ${{ github.event.repository.updated_at}}"
           rand_seed: ${{ matrix.rand_seed }}
           comment_tag_name: ${{ matrix.rand_seed }}
           date_format: "HH:MM dd/mm/yyyy"
