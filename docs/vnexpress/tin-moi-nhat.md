@@ -49,5 +49,4 @@ sidebar_position: 9
 - 🦆 [Không gian văn hóa đa trải nghiệm tại hệ thống Vincom](https://vnexpress.net/khong-gian-van-hoa-da-trai-nghiem-tai-he-thong-vincom-4707725.html) - 09:00 01/02/2024
 - 🎊 [Phụ nữ dễ mắc bệnh gì tuổi trung niên?](https://vnexpress.net/phu-nu-de-mac-benh-gi-tuoi-trung-nien-4707694.html) - 09:00 01/02/2024
 - 👺 [Sỏi tiết niệu ảnh hưởng sinh lý nam thế nào](https://vnexpress.net/soi-tiet-nieu-anh-huong-sinh-ly-nam-the-nao-4707663.html) - 09:00 01/02/2024
-- 🎡 [Tặng 2.000 chiếc đệm làm quà Tết cho công nhân](https://vnexpress.net/tang-2-000-chiec-dem-lam-qua-tet-cho-cong-nhan-4707720.html) - 08:49 01/02/2024
-- 👍 [Denis Villeneuve sẽ ngừng làm phim &#39;Dune&#39;](https://vnexpress.net/denis-villeneuve-se-ngung-lam-phim-dune-4707535.html) - 08:45 01/02/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🎡 [Tặng 2.000 chiếc đệm làm quà Tết cho công nhân](https://vnexpress.net/tang-2-000-chiec-dem-lam-qua-tet-cho-cong-nhan-4707720.html) - 08:49 01/02/2024<!-- vnexpress-tin-moi-nhat:END -->
