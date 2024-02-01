@@ -12,7 +12,7 @@ sidebar_position: 3
 - 😺 [Lợi nhuận hai &#39;ông lớn&#39; ngành bia giảm sâu](https://vnexpress.net/loi-nhuan-hai-ong-lon-nganh-bia-giam-sau-4707566.html) - 07:51 01/02/2024
 - 🤩 [Giá xăng tăng gần 800 đồng mỗi lít](https://vnexpress.net/gia-xang-moi-nhat-hom-nay-4707708.html) - 07:38 01/02/2024
 - 🌮 [Thủ tướng: Kinh tế tháng đầu năm phục hồi tích cực](https://vnexpress.net/thu-tuong-kinh-te-thang-dau-nam-phuc-hoi-tich-cuc-4707649.html) - 05:57 01/02/2024
-- 🧰 [Việt Nam trúng thầu gần 238.000 tấn gạo xuất sang Indonesia](https://vnexpress.net/viet-nam-trung-thau-gan-238-000-tan-gao-xuat-sang-indonesia-4707462.html) - 05:56 01/02/2024
+- 🧰 [Việt Nam trúng thầu 300.000 tấn gạo xuất sang Indonesia](https://vnexpress.net/viet-nam-trung-thau-300-000-tan-gao-xuat-sang-indonesia-4707462.html) - 05:56 01/02/2024
 - 🤔 [Thủ phủ cá chép đỏ Đồng Nai vào vụ Tết](https://vnexpress.net/thu-phu-ca-chep-do-dong-nai-vao-vu-tet-4707205.html) - 05:28 01/02/2024
 - 🧑‍💻 [Giá vàng miếng vượt 78 triệu đồng](https://vnexpress.net/gia-vang-mieng-vuot-78-trieu-dong-4707513.html) - 03:27 01/02/2024
 - 🕴 [Yêu cầu chặn buôn lậu heo vào Việt Nam](https://vnexpress.net/yeu-cau-chan-buon-lau-heo-vao-viet-nam-4707498.html) - 03:02 01/02/2024
