@@ -17,6 +17,7 @@ Trang cung cấp một danh sách các báo điện tử hàng đầu tại Vi�
 - [Báo SGGP](#báo-sggp)
 - [Báo VTC](#báo-vtc)
 - [Báo Chính Phủ](#báo-chính-phủ)
+- [Thư Viện Pháp Luật](#thư-viện-pháp-luật)
 - [Báo Mực Tím](#báo-mực-tím)
 - [Báo Hoa Học Trò](#báo-hoa-học-trò)
 
@@ -421,6 +422,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🕴 [Chỉ tiêu kế hoạch và nhiệm vụ cụ thể trong các lĩnh vực ngành Xây dựng trong năm 2024](https://baochinhphu.vn/chi-tieu-ke-hoach-va-nhiem-vu-cu-the-trong-cac-linh-vuc-nganh-xay-dung-trong-nam-2024-10224013109134757.htm) - 09:48 31/01/2024
 - 🌈 [Thông tin chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ ngày 30/1](https://baochinhphu.vn/thong-tin-chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-30-1-102240131084740132.htm) - 09:11 31/01/2024
 - 🔥 [Khoan giếng thay thế phải làm thủ tục gì?](https://baochinhphu.vn/khoan-gieng-thay-the-phai-lam-thu-tuc-gi-102240130221839949.htm) - 09:02 31/01/2024<!-- baochinhphu:END -->
+
+## Thư Viện Pháp Luật
+<!-- thuvienphapluat:START -->
+<!-- thuvienphapluat:START -->
 
 ## Báo Mực Tím
 <!-- muctim:START -->
