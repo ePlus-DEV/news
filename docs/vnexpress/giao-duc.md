@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Lịch nghỉ Tết của học sinh cả nước](https://vnexpress.net/lich-nghi-tet-cua-hoc-sinh-ca-nuoc-4707476.html) - 06:29 01/02/2024
 - 🦆 [Học bổng Chính phủ Australia mở đơn](https://vnexpress.net/hoc-bong-chinh-phu-australia-mo-don-4707518.html) - 04:44 01/02/2024
-- 🦩 [Đại học Quốc gia Hà Nội thành lập một trường mới](https://vnexpress.net/dai-hoc-quoc-gia-ha-noi-thanh-lap-mot-truong-moi-4707526.html) - 04:32 01/02/2024
+- 🦩 [Thêm một khoa của ĐH Quốc gia Hà Nội chuyển thành trường](https://vnexpress.net/them-mot-khoa-cua-dh-quoc-gia-ha-noi-chuyen-thanh-truong-4707526.html) - 04:32 01/02/2024
 - 🌮 [New Zealand trao 25 học bổng toàn phần cho ứng viên Việt Nam](https://vnexpress.net/new-zealand-trao-25-hoc-bong-toan-phan-cho-ung-vien-viet-nam-4707406.html) - 03:26 01/02/2024
 - 🔭 [Đại học chi tiền tỷ lì xì cho sinh viên](https://vnexpress.net/dai-hoc-chi-tien-ty-li-xi-cho-sinh-vien-4706880.html) - 01:34 01/02/2024
 - 💡 [Từ cậu trò nghèo đến ứng viên giáo sư tại Mỹ](https://vnexpress.net/tu-cau-tro-ngheo-den-ung-vien-giao-su-tai-my-4707337.html) - 23:59 31/01/2024
