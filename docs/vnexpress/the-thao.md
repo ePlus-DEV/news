@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Inter Miami thảm bại trước Al Nassr dù Messi thi đấu](https://vnexpress.net/inter-miami-tham-bai-truoc-al-nassr-du-messi-thi-dau-4707818.html) - 20:09 01/02/2024
+- 🪜 [Inter Miami thảm bại trước Al Nassr dù có Messi](https://vnexpress.net/inter-miami-tham-bai-truoc-al-nassr-du-co-messi-4707818.html) - 20:09 01/02/2024
 - 🦩 [Kỳ thủ Gia Phúc giành chuẩn Đại kiện tướng đầu tiên](https://vnexpress.net/ky-thu-gia-phuc-gianh-chuan-dai-kien-tuong-dau-tien-4707795.html) - 16:23 01/02/2024
 - 🧰 [Lewis Hamilton chuyển sang Ferrari từ năm 2025](https://vnexpress.net/lewis-hamilton-chuyen-sang-ferrari-tu-nam-2025-4707785.html) - 10:54 01/02/2024
 - 🤗 [PGA Tour được đầu tư 3 tỷ USD](https://vnexpress.net/pga-tour-duoc-dau-tu-3-ty-usd-4707776.html) - 09:58 01/02/2024
