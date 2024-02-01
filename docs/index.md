@@ -331,24 +331,24 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VTC
 <!-- vtc:START -->
-- 🥸 [Những chính sách quan trọng có hiệu lực từ tháng 2/2024](https://vtc.vn/nhung-chinh-sach-quan-trong-co-hieu-luc-tu-thang-2-2024-ar850338.html) - 00:28 01/02/2024
-- 🤭 [Bác sĩ chỉ ra sai lầm thường thấy của cha mẹ trong việc giữ ấm cho trẻ](https://vtc.vn/bac-si-chi-ra-sai-lam-thuong-thay-cua-cha-me-trong-viec-giu-am-cho-tre-ar849877.html) - 00:02 01/02/2024
-- 🦒 [4 ngày 10 mâm cỗ cúng, tôi phát hoảng với Tết nhà chồng](https://vtc.vn/4-ngay-10-mam-co-cung-toi-phat-hoang-voi-tet-nha-chong-ar850800.html) - 00:00 01/02/2024
-- 🌮 [Miền Bắc sáng sớm mưa rét, trưa chiều hửng nắng](https://vtc.vn/mien-bac-sang-som-mua-ret-trua-chieu-hung-nang-ar851002.html) - 23:57 31/01/2024
-- 🤖 [Miền Bắc sáng sớm mưa rét, trưa chiều hửng nắng](https://vtc.vn/mien-bac-sang-som-mua-ret-trua-chieu-hung-nang-ar851002.html) - 23:57 31/01/2024
-- 🎬 [Kết quả Ngoại Hạng Anh: Vùi dập Chelsea, Liverpool giữ chắc ngôi đầu](https://vtc.vn/ket-qua-ngoai-hang-anh-vui-dap-chelsea-liverpool-giu-chac-ngoi-dau-ar851004.html) - 23:49 31/01/2024
-- 🥳 [Giá vé tàu Tết Giáp Thìn tăng 10%, hầu hết các chuyến đã kín chỗ](https://vtc.vn/gia-ve-tau-tet-giap-thin-tang-10-hau-het-cac-chuyen-da-kin-cho-ar851000.html) - 23:44 31/01/2024
-- 🎓 [Sao Việt 1/2: NSND Trần Hiếu phong độ bên vợ trẻ, Minh Hằng nhuận sắc sau sinh](https://vtc.vn/sao-viet-1-2-nsnd-tran-hieu-phong-do-ben-vo-tre-minh-hang-nhuan-sac-sau-sinh-ar850976.html) - 23:32 31/01/2024
-- 👹 [Giá vàng hôm nay 1/2: Tăng nhẹ nhưng khó bứt phá](https://vtc.vn/gia-vang-hom-nay-1-2-tang-nhe-nhung-kho-but-pha-ar851001.html) - 23:30 31/01/2024
-- 🤖 [Đố bạn tìm được số 98 trong 5 giây](https://vtc.vn/do-ban-tim-duoc-so-98-trong-5-giay-ar850812.html) - 23:30 31/01/2024
-- 🎊 [Nga tiếp nhận 195 binh sĩ từ khu vực do Ukraine kiểm soát](https://vtc.vn/nga-tiep-nhan-195-binh-si-tu-khu-vuc-do-ukraine-kiem-soat-ar850979.html) - 23:26 31/01/2024
-- 🐻 [&#39;Đối thủ&#39; của ông Putin đăng ký tranh cử tổng thống Nga](https://vtc.vn/doi-thu-cua-ong-putin-dang-ky-tranh-cu-tong-thong-nga-ar850926.html) - 23:22 31/01/2024
-- 👍 [Khoảnh khắc tiêm kích Su-25 của Nga oanh tạc mục tiêu ở Ukraine](https://vtc.vn/khoanh-khac-tiem-kich-su-25-cua-nga-oanh-tac-muc-tieu-o-ukraine-ar850784.html) - 23:15 31/01/2024
-- 🪜 [Đặt mâm lễ cúng ông Công ông Táo ở bếp hay bàn thờ gia tiên?](https://vtc.vn/dat-mam-le-cung-ong-cong-ong-tao-o-bep-hay-ban-tho-gia-tien-ar849935.html) - 23:15 31/01/2024
-- 🌮 [Giá xăng hôm nay có thể tăng 1.000 đồng/lít](https://vtc.vn/gia-xang-hom-nay-co-the-tang-1-000-dong-lit-ar850958.html) - 23:09 31/01/2024
-- 🌁 [Diễn viên Xuân Phúc kiệt sức, &#39;hồn lìa khỏi xác&#39; khi vào vai lính cứu hoả](https://vtc.vn/dien-vien-xuan-phuc-kiet-suc-hon-lia-khoi-xac-khi-vao-vai-linh-cuu-hoa-ar850700.html) - 23:00 31/01/2024
-- 👺 [Nữ diễn viên Việt qua đời ở tuổi 34 vì tai nạn giao thông](https://vtc.vn/nu-dien-vien-viet-qua-doi-o-tuoi-34-vi-tai-nan-giao-thong-ar850986.html) - 16:11 31/01/2024
-- 🌊 [Giải thưởng âm nhạc của Hội Nhạc sĩ Việt Nam bỏ trống nhiều giải A](https://vtc.vn/giai-thuong-am-nhac-cua-hoi-nhac-si-viet-nam-bo-trong-nhieu-giai-a-ar850901.html) - 15:09 31/01/2024
+- 🥸 [CSGT xử phạt hàng loạt xe &#39;máy chém&#39; nghênh ngang trên phố Hà Nội dịp cuối năm](https://vtc.vn/csgt-xu-phat-hang-loat-xe-may-chem-nghenh-ngang-tren-pho-ha-noi-dip-cuoi-nam-ar850774.html) - 02:00 01/02/2024
+- 🤭 [&#39;Trùm&#39; cuối linh vật rồng Bình Định lộ diện, điểm độc đáo được hé mở](https://vtc.vn/trum-cuoi-linh-vat-rong-binh-dinh-lo-dien-diem-doc-dao-duoc-tiet-lo-ar850977.html) - 01:45 01/02/2024
+- 🦒 [Cháy nhà ở Hải Phòng lúc rạng sáng, 3 mẹ con chết thương tâm](https://vtc.vn/chay-nha-o-hai-phong-luc-rang-sang-3-me-con-chet-thuong-tam-ar851022.html) - 01:34 01/02/2024
+- 🌮 [Giáo viên: &#39;Tôi ước một lần được thưởng Tết để mua cho con thêm chiếc áo mới&#39;](https://vtc.vn/giao-vien-toi-uoc-mot-lan-duoc-thuong-tet-de-mua-cho-con-them-chiec-ao-moi-ar850783.html) - 01:23 01/02/2024
+- 🤖 [Những chính sách quan trọng có hiệu lực từ tháng 2/2024](https://vtc.vn/nhung-chinh-sach-quan-trong-co-hieu-luc-tu-thang-2-2024-ar850338.html) - 00:28 01/02/2024
+- 🎬 [Bác sĩ chỉ ra sai lầm thường thấy của cha mẹ trong việc giữ ấm cho trẻ](https://vtc.vn/bac-si-chi-ra-sai-lam-thuong-thay-cua-cha-me-trong-viec-giu-am-cho-tre-ar849877.html) - 00:02 01/02/2024
+- 🥳 [4 ngày 10 mâm cỗ cúng, tôi phát hoảng với Tết nhà chồng](https://vtc.vn/4-ngay-10-mam-co-cung-toi-phat-hoang-voi-tet-nha-chong-ar850800.html) - 00:00 01/02/2024
+- 🎓 [Miền Bắc sáng sớm mưa rét, trưa chiều hửng nắng](https://vtc.vn/mien-bac-sang-som-mua-ret-trua-chieu-hung-nang-ar851002.html) - 23:57 31/01/2024
+- 👹 [Miền Bắc sáng sớm mưa rét, trưa chiều hửng nắng](https://vtc.vn/mien-bac-sang-som-mua-ret-trua-chieu-hung-nang-ar851002.html) - 23:57 31/01/2024
+- 🤖 [Kết quả Ngoại Hạng Anh: Vùi dập Chelsea, Liverpool giữ chắc ngôi đầu](https://vtc.vn/ket-qua-ngoai-hang-anh-vui-dap-chelsea-liverpool-giu-chac-ngoi-dau-ar851004.html) - 23:49 31/01/2024
+- 🎊 [Sao Việt 1/2: NSND Trần Hiếu phong độ bên vợ trẻ, Minh Hằng nhuận sắc sau sinh](https://vtc.vn/sao-viet-1-2-nsnd-tran-hieu-phong-do-ben-vo-tre-minh-hang-nhuan-sac-sau-sinh-ar850976.html) - 23:32 31/01/2024
+- 🐻 [Giá vàng hôm nay 1/2: Tăng nhẹ nhưng khó bứt phá](https://vtc.vn/gia-vang-hom-nay-1-2-tang-nhe-nhung-kho-but-pha-ar851001.html) - 23:30 31/01/2024
+- 👍 [Đố bạn tìm được số 98 trong 5 giây](https://vtc.vn/do-ban-tim-duoc-so-98-trong-5-giay-ar850812.html) - 23:30 31/01/2024
+- 🪜 [&#39;Đối thủ&#39; của ông Putin đăng ký tranh cử tổng thống Nga](https://vtc.vn/doi-thu-cua-ong-putin-dang-ky-tranh-cu-tong-thong-nga-ar850926.html) - 23:22 31/01/2024
+- 🌮 [Khoảnh khắc tiêm kích Su-25 của Nga oanh tạc mục tiêu ở Ukraine](https://vtc.vn/khoanh-khac-tiem-kich-su-25-cua-nga-oanh-tac-muc-tieu-o-ukraine-ar850784.html) - 23:15 31/01/2024
+- 🌁 [Đặt mâm lễ cúng ông Công ông Táo ở bếp hay bàn thờ gia tiên?](https://vtc.vn/dat-mam-le-cung-ong-cong-ong-tao-o-bep-hay-ban-tho-gia-tien-ar849935.html) - 23:15 31/01/2024
+- 👺 [Diễn viên Xuân Phúc kiệt sức, &#39;hồn lìa khỏi xác&#39; khi vào vai lính cứu hoả](https://vtc.vn/dien-vien-xuan-phuc-kiet-suc-hon-lia-khoi-xac-khi-vao-vai-linh-cuu-hoa-ar850700.html) - 23:00 31/01/2024
+- 🌊 [Nữ diễn viên Việt qua đời ở tuổi 34 vì tai nạn giao thông](https://vtc.vn/nu-dien-vien-viet-qua-doi-o-tuoi-34-vi-tai-nan-giao-thong-ar850986.html) - 16:11 31/01/2024
 - 🤖 [Facebook Messenger gặp lỗi, tự kéo về tin nhắn cũ](https://vtc.vn/facebook-messenger-gap-loi-tu-keo-ve-tin-nhan-cu-ar850972.html) - 14:47 31/01/2024
 - 🥸 [Lịch thi đấu bóng đá hôm nay ngày 1/2 mới nhất](https://vtc.vn/lich-thi-dau-bong-da-hom-nay-ngay-1-2-moi-nhat-ar850937.html) - 14:00 31/01/2024
 - 🥸 [Các &#39;ông lớn&#39; NATO phản đối kết nạp Ukraine](https://vtc.vn/cac-ong-lon-nato-phan-doi-ket-nap-ukraine-ar850957.html) - 13:52 31/01/2024
