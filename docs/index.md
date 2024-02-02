@@ -576,7 +576,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Trực tiếp Australia vs Hàn Quốc 1-1 &lpar;hết H2&rpar;: Hai đội dẫn nhau vào hiệp phụ](https://tienphong.vn/truc-tiep-australia-vs-han-quoc-1-1-het-h2-hai-doi-dan-nhau-vao-hiep-phu-post1609846.tpo) - 21:45 02/02/2024
+- 💼 [Trực tiếp Australia vs Hàn Quốc 1-0 &lpar;H2&rpar;: Australia bỏ lỡ cơ hội kết liễu trận đấu](https://tienphong.vn/truc-tiep-australia-vs-han-quoc-1-0-h2-australia-bo-lo-co-hoi-ket-lieu-tran-dau-post1609846.tpo) - 21:45 02/02/2024
 - 🎊 [Tiềm năng của giới trí thức kiều bào rất lớn](https://tienphong.vn/tiem-nang-cua-gioi-tri-thuc-kieu-bao-rat-lon-post1609836.tpo) - 21:32 02/02/2024
 - 💼 [Arturo Vidal được đối đãi như vua trong lễ ra mắt CLB](https://tienphong.vn/arturo-vidal-duoc-doi-dai-nhu-vua-trong-le-ra-mat-clb-post1609844.tpo) - 21:31 02/02/2024
 - 👺 [Kết quả kiểm tra 3 tổ chức đảng ở quận Thanh Xuân sau vụ cháy chung cư mini](https://tienphong.vn/ket-qua-kiem-tra-3-to-chuc-dang-o-quan-thanh-xuan-sau-vu-chay-chung-cu-mini-post1609835.tpo) - 21:00 02/02/2024
