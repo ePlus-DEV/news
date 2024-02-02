@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Lisa, Leon - con song sinh năng động của Hồ Ngọc Hà](https://vnexpress.net/lisa-leon-con-song-sinh-nang-dong-cua-ho-ngoc-ha-4706417.html) - 04:25 02/02/2024
+- 🌏 [Lisa, Leon - con song sinh năng động của Hà Hồ](https://vnexpress.net/lisa-leon-con-song-sinh-nang-dong-cua-ha-ho-4706417.html) - 04:25 02/02/2024
 - 💫 [Brad Pitt đàm phán đóng chính phim cuối của Tarantino](https://vnexpress.net/brad-pitt-dam-phan-dong-chinh-phim-cuoi-cua-tarantino-4707925.html) - 03:20 02/02/2024
 - 🌮 [Kim Tử Long đưa vợ con lên thảm đỏ](https://vnexpress.net/kim-tu-long-dua-vo-con-len-tham-do-4707870.html) - 02:18 02/02/2024
 - 🧠 [Những nhiếp ảnh gia nhí nổi tiếng thế giới](https://vnexpress.net/nhung-nhiep-anh-gia-nhi-noi-tieng-the-gioi-4704164.html) - 02:01 02/02/2024
