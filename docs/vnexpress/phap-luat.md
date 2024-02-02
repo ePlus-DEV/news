@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Khoảnh khắc tên cướp xông vào ngân hàng cướp tiền](https://video.vnexpress.net/khoanh-khac-ten-cuop-xong-vao-ngan-hang-cuop-tien-4707930.html) - 03:21 02/02/2024
 - 🥰 [Bức ảnh &#39;tắm trong tiền&#39; vạch tội cô vợ tham lam](https://vnexpress.net/buc-anh-tam-trong-tien-vach-toi-co-vo-tham-lam-4707363.html) - 23:36 01/02/2024
-- 🎓 [Ngọc Trinh: &#39;Bị cáo không cố ý vi phạm pháp luật&#39;](https://vnexpress.net/ngoc-trinh-hau-toa-4707762.html) - 23:00 01/02/2024
+- 🎓 [Ngọc Trinh: &#39;Đây là bài học quá lớn đối với bị cáo&#39;](https://vnexpress.net/https-vnexpress-net-ngoc-trinh-bi-cao-khong-co-y-vi-pham-phap-luat-4707762-html-4707762.html) - 23:00 01/02/2024
 - 🤓 [Công ty môi giới bất động sản có được thu tiền đặt cọc của khách?](https://vnexpress.net/cong-ty-moi-gioi-bat-dong-san-co-duoc-thu-tien-dat-coc-cua-khach-4707234.html) - 17:00 01/02/2024
 - 🎊 [&#39;Vật tư bị nâng khống tại vụ án EVN Bình Thuận&#39;](https://vnexpress.net/vat-tu-bi-nang-khong-tai-vu-an-evn-binh-thuan-4707781.html) - 10:59 01/02/2024
 - 🙉 [Xông vào ngân hàng cướp tiền](https://vnexpress.net/xong-vao-ngan-hang-cuop-tien-4707782.html) - 10:46 01/02/2024
