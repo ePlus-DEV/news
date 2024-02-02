@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Mệt mỏi vì tiệc tất niên công sở](https://vnexpress.net/met-moi-vi-tiec-tat-nien-cong-so-4703065.html) - 23:30 01/02/2024
+- 🚀 [Người trẻ chán tiệc tất niên công sở](https://vnexpress.net/nguoi-tre-chan-tiec-tat-nien-cong-so-4703065.html) - 23:30 01/02/2024
 - 🎓 [Thịt kho hột vịt truyền thống miền Tây](https://vnexpress.net/thit-kho-hot-vit-truyen-thong-mien-tay-4707556.html) - 12:00 01/02/2024
 - 🚦 [Tặng 2.000 chiếc đệm làm quà Tết cho công nhân](https://vnexpress.net/tang-2-000-chiec-dem-lam-qua-tet-cho-cong-nhan-4707720.html) - 08:49 01/02/2024
 - 🦣 [Khuyến khích nhân viên nhuộm tóc](https://vnexpress.net/khuyen-khich-nhan-vien-nhuom-toc-4707424.html) - 07:32 01/02/2024
