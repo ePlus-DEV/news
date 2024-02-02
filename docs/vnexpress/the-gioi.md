@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Armenia nói nhiều lần bị Nga làm thất vọng](https://vnexpress.net/armenia-noi-nhieu-lan-bi-nga-lam-that-vong-4708171.html) - 13:57 02/02/2024
-- 🕴 [Hamas bước đầu ủng hộ đề xuất ngừng bắn của Israel](https://vnexpress.net/hamas-buoc-dau-ung-ho-de-xuat-ngung-ban-cua-israel-4708168.html) - 13:42 02/02/2024
+- 🎭 [Armenia bày tỏ thất vọng về Nga](https://vnexpress.net/armenia-bay-to-that-vong-ve-nga-4708171.html) - 13:57 02/02/2024
+- 🕴 [Qatar nói Hamas bước đầu ủng hộ đề xuất ngừng bắn của Israel](https://vnexpress.net/qatar-noi-hamas-buoc-dau-ung-ho-de-xuat-ngung-ban-cua-israel-4708168.html) - 13:42 02/02/2024
 - 🤭 [Mỹ và Iran trong bài toán tránh vượt &#39;lằn ranh đỏ&#39;](https://vnexpress.net/my-va-iran-trong-bai-toan-tranh-vuot-lan-ranh-do-4707845.html) - 12:18 02/02/2024
 - 🧑‍💻 [Ông trùm băng mafia bạo lực nhất Italy bị bắt](https://vnexpress.net/ong-trum-bang-mafia-bao-luc-nhat-italy-bi-bat-4708160.html) - 12:17 02/02/2024
 - 🦏 [Lính Nga dùng cành cây hạ UAV tự sát Ukraine](https://vnexpress.net/linh-nga-dung-canh-cay-ha-uav-tu-sat-ukraine-4708048.html) - 11:27 02/02/2024
