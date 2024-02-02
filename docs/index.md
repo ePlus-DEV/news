@@ -262,7 +262,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤗 [Khởi tố bí thư xã điều khiển ôtô tông chết 2 nữ sinh](https://nld.com.vn/khoi-to-bi-thu-xa-dieu-khien-oto-tong-chet-2-nu-sinh-196240202170034918.htm) - 10:27 02/02/2024
 - 🦅 [Bản tin chiều 2-2: Vì sao sương mù dày đặc ở Hà Nội?](https://nld.com.vn/ban-tin-chieu-2-2-vi-sao-suong-mu-day-dac-o-ha-noi-196240202170120787.htm) - 10:22 02/02/2024
 - 🤩 [&quot;Tết nghĩa là hy vọng&quot; trong năm mới Giáp Thìn](https://nld.com.vn/tet-nghia-la-hy-vong-trong-nam-moi-giap-thin-196240202160422198.htm) - 10:21 02/02/2024
-- 🎭 [Bác bỏ thông tin sai sự thật về “căn biệt thư đẹp nhất Long An”](https://nld.com.vn/bac-bo-thong-tin-sai-su-that-ve-can-biet-thu-dep-nhat-long-an-196240202171911004.htm) - 10:19 02/02/2024
+- 🎭 [Bác bỏ thông tin sai sự thật về “căn biệt thự đẹp nhất Long An”](https://nld.com.vn/bac-bo-thong-tin-sai-su-that-ve-can-biet-thu-dep-nhat-long-an-196240202171911004.htm) - 10:19 02/02/2024
 - 💄 [HLV Park Hang Seo nhận tin buồn ngày cuối năm](https://nld.com.vn/hlv-park-hang-seo-nhan-tin-buon-ngay-cuoi-nam-196240202171001612.htm) - 10:12 02/02/2024
 - 🎊 [Gần 5 năm &quot;Xây cầu đến lớp&quot; cho trẻ vùng sâu, vùng xa](https://phunu.nld.com.vn/gan-5-nam-xay-cau-den-lop-cho-tre-vung-sau-vung-xa-196240202154054057.htm) - 10:09 02/02/2024
 - 🎡 [Tập đoàn Y khoa Hoàn Mỹ giành giải thưởng kép tại Asian Management Excellence Awards 2024](https://phunu.nld.com.vn/tap-doan-y-khoa-hoan-my-gianh-giai-thuong-kep-tai-asian-management-excellence-awards-2024-196240202152803248.htm) - 10:07 02/02/2024
