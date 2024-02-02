@@ -6,12 +6,12 @@ sidebar_position: 9
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Mẹ đơn thân lành tính, dễ chịu](https://vnexpress.net/me-don-than-lanh-tinh-de-chiu-4707814.html) - 14:00 02/02/2024
 - 🐎 [Là quản lý nhưng tôi vẫn run mỗi khi đứng trước đám đông](https://vnexpress.net/la-quan-ly-nhung-toi-van-run-moi-khi-dung-truoc-dam-dong-4706434.html) - 14:00 02/02/2024
-- 🦍 [Armenia nói nhiều lần bị Nga làm thất vọng](https://vnexpress.net/armenia-noi-nhieu-lan-bi-nga-lam-that-vong-4708171.html) - 13:57 02/02/2024
+- 🦍 [Armenia bày tỏ thất vọng về Nga](https://vnexpress.net/armenia-bay-to-that-vong-ve-nga-4708171.html) - 13:57 02/02/2024
 - 🏊 [Quảng Nam cách chức một giám đốc, ba phó giám đốc sở](https://vnexpress.net/quang-nam-cach-chuc-mot-giam-doc-ba-pho-giam-doc-so-4708174.html) - 13:52 02/02/2024
 - 🎊 [Hàng trăm con vẹt tê liệt rơi xuống Australia](https://vnexpress.net/hang-tram-con-vet-te-liet-roi-xuong-australia-4707832.html) - 13:50 02/02/2024
-- 🎃 [Hamas bước đầu ủng hộ đề xuất ngừng bắn của Israel](https://vnexpress.net/hamas-buoc-dau-ung-ho-de-xuat-ngung-ban-cua-israel-4708168.html) - 13:42 02/02/2024
+- 🎃 [Qatar nói Hamas bước đầu ủng hộ đề xuất ngừng bắn của Israel](https://vnexpress.net/qatar-noi-hamas-buoc-dau-ung-ho-de-xuat-ngung-ban-cua-israel-4708168.html) - 13:42 02/02/2024
 - 🧰 [Hà Nội xem xét kỷ luật 28 đảng viên sau vụ cháy chung cư mini](https://vnexpress.net/ha-noi-xem-xet-ky-luat-28-dang-vien-sau-vu-chay-chung-cu-mini-4708173.html) - 13:31 02/02/2024
-- 🔭 [340 thửa đất mặt bằng cao tốc Biên Hòa - Vũng Tàu &#39;vắng&#39; chủ](https://vnexpress.net/340-thua-dat-mat-bang-cao-toc-bien-hoa-vung-tau-vang-chu-4707956.html) - 13:16 02/02/2024
+- 🔭 [240 thửa đất mặt bằng cao tốc Biên Hòa - Vũng Tàu &#39;vắng&#39; chủ](https://vnexpress.net/240-thua-dat-mat-bang-cao-toc-bien-hoa-vung-tau-vang-chu-4707956.html) - 13:16 02/02/2024
 - 🫶 [Tục cúng ông Táo xuất hiện từ khi nào?](https://vnexpress.net/tuc-cung-ong-tao-xuat-hien-tu-khi-nao-4708122.html) - 13:02 02/02/2024
 - 🪜 [BEST Express vinh danh gần 300 bưu cục xuất sắc](https://vnexpress.net/best-express-vinh-danh-gan-300-buu-cuc-xuat-sac-4708083.html) - 13:00 02/02/2024
 - 👨‍🏫 [Chế độ ăn giúp tăng ham muốn cho nam giới](https://vnexpress.net/che-do-an-giup-tang-ham-muon-cho-nam-gioi-4708034.html) - 13:00 02/02/2024
