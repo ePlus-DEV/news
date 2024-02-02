@@ -148,7 +148,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Son Heung-min tỏa sáng, Hàn Quốc ngược dòng nghẹt thở, loại Úc khỏi bán kết Asian Cup 2023](https://thanhnien.vn/son-heung-min-toa-sang-han-quoc-nguoc-dong-nghet-tho-loai-uc-khoi-ban-ket-asian-cup-2023-185240202234659127.htm) - 18:15 02/02/2024
+- 🤠 [Son Heung-min rực rỡ, Hàn Quốc ngược dòng nghẹt thở, loại Úc khỏi bán kết Asian Cup 2023](https://thanhnien.vn/son-heung-min-toa-sang-han-quoc-nguoc-dong-nghet-tho-loai-uc-khoi-ban-ket-asian-cup-2023-185240202234659127.htm) - 18:15 02/02/2024
 - 🥸 [Ai đang tranh ‘cúp châu Phi’?](https://thanhnien.vn/ai-dang-tranh-cup-chau-phi-185240202225303985.htm) - 17:49 02/02/2024
 - 🌁 [Ngày mới với tin tức sức khỏe: Lợi ích của đi bộ 10 phút sau bữa ăn](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-loi-ich-cua-di-bo-10-phut-sau-bua-an-185240202195822424.htm) - 17:10 02/02/2024
 - 🤡 [Những cách ngăn say xe](https://thanhnien.vn/nhung-cach-ngan-say-xe-185240202152225326.htm) - 17:07 02/02/2024
