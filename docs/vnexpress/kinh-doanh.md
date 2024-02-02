@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Lý do kiều hối về Việt Nam nhiều kỷ lục](https://vnexpress.net/kieu-hoi-ve-viet-nam-dat-ky-luc-16-ty-usd-4706903.html) - 00:03 02/02/2024
-- 🐲 [&#39;Nhà đầu tư ngoại giao dịch chứng khoán sẽ được nới điều kiện ký quỹ&#39;](https://vnexpress.net/nha-dau-tu-ngoai-giao-dich-chung-khoan-se-duoc-noi-dieu-kien-ky-quy-4707779.html) - 10:58 01/02/2024
+- 🐲 [&#39;Nhà đầu tư ngoại giao dịch chứng khoán sẽ không phải ký quỹ 100%&#39;](https://vnexpress.net/nha-dau-tu-ngoai-giao-dich-chung-khoan-se-khong-phai-ky-quy-100-4707779.html) - 10:58 01/02/2024
 - 🔥 [Hàng hóa ế ẩm dịp cúng ông Công ông Táo](https://vnexpress.net/hang-hoa-e-am-dip-cung-ong-cong-ong-tao-4707677.html) - 10:33 01/02/2024
 - 🐵 [TP HCM đặt mục tiêu tăng trưởng 6,5% quý I](https://vnexpress.net/tp-hcm-dat-muc-tieu-tang-truong-6-5-quy-i-4707716.html) - 09:45 01/02/2024
 - 🦅 [Cổ phiếu bán lẻ hút dòng tiền](https://vnexpress.net/co-phieu-ban-le-hut-dong-tien-4707740.html) - 09:17 01/02/2024
