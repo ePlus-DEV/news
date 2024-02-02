@@ -16,7 +16,7 @@ sidebar_position: 10
 - 🫶 [6 cách giảm bốc hỏa ở tuổi trung niên](https://vnexpress.net/6-cach-giam-boc-hoa-o-tuoi-trung-nien-4707848.html) - 08:00 02/02/2024
 - 🦆 [Số ca mắc ung thư toàn cầu tăng 75% vào năm 2025](https://vnexpress.net/so-ca-mac-ung-thu-toan-cau-tang-75-vao-nam-2025-4708043.html) - 07:53 02/02/2024
 - 🚀 [90% người nhiễm nấm phổi không biết mình mắc bệnh](https://vnexpress.net/90-nguoi-nhiem-nam-phoi-khong-biet-minh-mac-benh-4707792.html) - 07:37 02/02/2024
-- 🌜 [Suýt mù một mắt do dị vật văng trúng](https://vnexpress.net/suyt-mu-mot-mat-do-di-vat-vang-trung-4707884.html) - 07:11 02/02/2024
+- 🌜 [Bảo tồn mắt cho thanh niên bị vật nổ bắn trúng](https://vnexpress.net/bao-ton-mat-cho-thanh-nien-bi-vat-no-ban-trung-4707884.html) - 07:11 02/02/2024
 - 🧰 [Thường xuyên xây xẩm do hẹp động mạch cảnh](https://vnexpress.net/thuong-xuyen-xay-xam-do-hep-dong-mach-canh-4707969.html) - 07:00 02/02/2024
 - 💫 [Ba cách giúp phát hiện giò Tết chứa hàn the](https://vnexpress.net/ba-cach-giup-phat-hien-gio-tet-chua-han-the-4707913.html) - 06:44 02/02/2024
 - 🌝 [Món ăn ngày Tết giúp hệ tiêu hóa khỏe](https://vnexpress.net/mon-an-ngay-tet-giup-he-tieu-hoa-khoe-4707943.html) - 06:00 02/02/2024
