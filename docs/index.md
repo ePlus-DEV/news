@@ -250,7 +250,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Vì sao uống rượu sau gần 1 ngày vẫn còn nồng độ cồn?](https://nld.com.vn/podcast/vi-sao-uong-ruou-sau-gan-1-ngay-van-con-nong-do-con-196240203111414092.htm) - 04:15 03/02/2024
+- 🐎 [Vì sao uống rượu sau gần 1 ngày vẫn còn cồn trong hơi thở?](https://nld.com.vn/podcast/vi-sao-uong-ruou-sau-gan-1-ngay-van-con-nong-do-con-196240203111414092.htm) - 04:15 03/02/2024
 - 😺 [Bảy loại thức ăn và 5 thức uống làm giảm mỡ bụng, cho vóc dáng đẹp](https://phunu.nld.com.vn/bay-loai-thuc-an-va-5-thuc-uong-lam-giam-mo-bung-cho-voc-dang-dep-196240123104653639.htm) - 04:07 03/02/2024
 - 👍 [Cuộc thi Siêu mẫu nhí Nam Việt 2024: Hành trình tìm kiếm tài năng nhí nổi bật](https://phunu.nld.com.vn/cuoc-thi-sieu-mau-nhi-nam-viet-2024-hanh-trinh-tim-kiem-tai-nang-nhi-noi-bat-196240131120441013.htm) - 03:52 03/02/2024
 - 🥷 [Tết này, trải nghiệm lì xì online thời thượng, an toàn trên MoMo](https://phunu.nld.com.vn/tet-nay-trai-nghiem-li-xi-online-thoi-thuong-an-toan-tren-momo-196240202091829082.htm) - 03:51 03/02/2024
@@ -292,7 +292,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - ⛽️ [Tết, nói không với bài tập bắt buộc!](https://nld.com.vn/tet-noi-khong-voi-bai-tap-bat-buoc-196240202210412147.htm) - 00:05 03/02/2024
 - 🥸 [Nguồn lực kiều bào thúc đẩy sự phát triển TP HCM](https://nld.com.vn/nguon-luc-kieu-bao-thuc-day-su-phat-trien-tp-hcm-19624020223005239.htm) - 00:03 03/02/2024
 - 🌁 [Hoài bão tuổi 15 của kỳ thủ Gia Phúc](https://nld.com.vn/hoai-bao-tuoi-15-cua-ky-thu-gia-phuc-19624020220193926.htm) - 00:00 03/02/2024
-- 🌮 [Uống rượu sau gần 1 ngày vẫn còn nồng độ cồn, bác sĩ nói gì?](https://nld.com.vn/uong-ruou-sau-gan-1-ngay-van-con-nong-do-con-bac-si-noi-gi-196240202175123875.htm) - 00:00 03/02/2024
+- 🌮 [Uống rượu sau gần 1 ngày vẫn còn cồn trong hơi thở, bác sĩ nói gì?](https://nld.com.vn/uong-ruou-sau-gan-1-ngay-van-con-nong-do-con-bac-si-noi-gi-196240202175123875.htm) - 00:00 03/02/2024
 - 🎉 [Giá vàng hôm nay, 3-2: Vàng thế giới giảm mạnh](https://nld.com.vn/gia-vang-hom-nay-3-2-vang-the-gioi-giam-manh-196240203062137292.htm) - 23:50 02/02/2024
 - 🤔 [Kết nối doanh nghiệp với sân khấu](https://nld.com.vn/ket-noi-doanh-nghiep-voi-san-khau-196240202201703526.htm) - 23:41 02/02/2024
 - 🐘 [Ngọc Trinh trả giá đắt](https://nld.com.vn/ngoc-trinh-tra-gia-dat-196240202202818482.htm) - 23:32 02/02/2024
