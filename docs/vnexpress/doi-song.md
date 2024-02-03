@@ -5,7 +5,7 @@ sidebar_position: 6
 
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Bí quyết gói, luộc bánh chưng theo cách truyền thống](https://vnexpress.net/bi-quyet-goi-luoc-banh-chung-theo-cach-truyen-thong-4708389.html) - 08:19 03/02/2024
-- 🎓 [Hiệu trưởng mất việc ăn gian cà phê](https://vnexpress.net/hieu-truong-mat-viec-an-gian-ca-phe-4708262.html) - 07:54 03/02/2024
+- 🎓 [Hiệu trưởng mất việc vì ăn gian cà phê](https://vnexpress.net/hieu-truong-mat-viec-vi-an-gian-ca-phe-4708262.html) - 07:54 03/02/2024
 - 🚦 [Cô giáo vùng cao hơn 10 năm chờ điểm trường mới](https://vnexpress.net/co-giao-vung-cao-hon-10-nam-cho-diem-truong-moi-4708280.html) - 06:23 03/02/2024
 - 🦣 [Điều gì tạo nên một người có phong cách?](https://vnexpress.net/dieu-gi-tao-nen-mot-nguoi-co-phong-cach-4707199.html) - 02:00 03/02/2024
 - 🎓 [Rộ mốt in mã QR để nhận lì xì](https://vnexpress.net/ro-mot-in-ma-qr-de-nhan-li-xi-4707010.html) - 23:30 02/02/2024
