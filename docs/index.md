@@ -505,7 +505,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- muctim:START -->
 - 🤔 [Đóng phim Tết Sáng đèn, Trúc Mây sốc vì Bạch Công Khanh múa dẻo hơn mình](https://muctim.tuoitre.vn/dong-phim-tet-sang-den-truc-may-soc-vi-bach-cong-khanh-mua-deo-hon-minh-101240203024022978.htm) - 00:43 03/02/2024
 - 🥷 [Dịch vụ khách sạn, làm đẹp cho thú cưng tất bật cận Tết Giáp Thìn](https://muctim.tuoitre.vn/dich-vu-khach-san-lam-dep-cho-thu-cung-tat-bat-can-tet-giap-thin-101240202022259567.htm) - 00:41 03/02/2024
-- 🤖 [Sở hữu nụ cười ngọt ngào, sinh lớp 12 đăng quang Nét đẹp THPT Trưng Vương](https://muctim.tuoitre.vn/so-huu-nu-cuoi-ngot-ngao-sinh-lop-12-dang-quang-net-dep-thpt-trung-vuong-10124020210211042.htm) - 00:38 03/02/2024
+- 🤖 [Sở hữu nụ cười ngọt ngào, nữ sinh lớp 12 đăng quang Nét đẹp THPT Trưng Vương](https://muctim.tuoitre.vn/so-huu-nu-cuoi-ngot-ngao-nu-sinh-lop-12-dang-quang-net-dep-thpt-trung-vuong-10124020210211042.htm) - 00:38 03/02/2024
 - 🤓 [Sau trend con vịt, giới trẻ lại rần rần chụp ảnh Tết với rồng giấy](https://muctim.tuoitre.vn/sau-trend-con-vit-gioi-tre-lai-ran-ran-chup-anh-tet-voi-rong-giay-101240202061914907.htm) - 00:37 03/02/2024
 - 🎉 [Dàn sao Việt chúc mừng đạo diễn Lê Hoàng ra mắt phim Trà](https://muctim.tuoitre.vn/dan-sao-viet-chuc-mung-dao-dien-le-hoang-ra-mat-phim-tra-101240203003350928.htm) - 00:34 03/02/2024
 - 👨‍🏫 [Lịch trực tiếp Asian Cup 2023: Iran đấu Nhật Bản](https://muctim.tuoitre.vn/lich-truc-tiep-asian-cup-2023-iran-dau-nhat-ban-101240203073345503.htm) - 00:30 03/02/2024
