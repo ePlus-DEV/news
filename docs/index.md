@@ -30,7 +30,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧰 [Tại sao huyết tương biến màu trắng đục sau tiệc rượu ngày Tết?](https://vnexpress.net/tai-sao-huyet-tuong-bien-mau-trang-duc-sau-tiec-ruou-ngay-tet-4706841.html) - 22:00 03/02/2024
 - 🥰 [Ám ảnh bay Tết](https://vnexpress.net/am-anh-bay-tet-4708464.html) - 21:00 03/02/2024
 - 🌏 [Rửa gầm xe khi nào cần thiết?](https://vnexpress.net/rua-gam-xe-khi-nao-can-thiet-4708186.html) - 20:00 03/02/2024
-- 🧐 [Ôtô chở hơn 30 người lao xuống vực sâu](https://vnexpress.net/oto-cho-hon-30-nguoi-lao-xuong-vuc-sau-4708483.html) - 18:15 03/02/2024
+- 🧐 [Ôtô chở hơn 30 người về Tết lao xuống vực sâu](https://vnexpress.net/oto-cho-hon-30-nguoi-ve-tet-lao-xuong-vuc-sau-4708483.html) - 18:15 03/02/2024
 - 💫 [5 loại carbohydrate tinh chế người tiểu đường nên hạn chế](https://vnexpress.net/5-loai-carbohydrate-tinh-che-nguoi-tieu-duong-nen-han-che-4707966.html) - 18:02 03/02/2024
 - 😺 [Ngân hàng có quyền tự ý phong toả tài khoản của khách?](https://vnexpress.net/ngan-hang-co-quyen-tu-y-phong-toa-tai-khoan-cua-khach-4708059.html) - 17:20 03/02/2024
 - 🕯 [&#39;Đường đến ngày vinh quang&#39; được đưa vào sách giáo khoa](https://vnexpress.net/duong-den-ngay-vinh-quang-duoc-dua-vao-sach-giao-khoa-4708438.html) - 17:17 03/02/2024
