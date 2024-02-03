@@ -77,7 +77,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤩 [Mưa liên tục, có cần rửa gầm xe?](https://vnexpress.net/mua-lien-tuc-co-can-rua-gam-xe-4708299.html) - 02:48 03/02/2024
 - 🏊 [Mỹ hoãn xử ông Trump vụ âm mưu lật kèo bầu cử](https://vnexpress.net/my-hoan-xu-ong-trump-vu-am-muu-lat-keo-bau-cu-4708253.html) - 02:42 03/02/2024
 - 💂 [Thật tốt nếu anh là ông bố đơn thân](https://vnexpress.net/that-tot-neu-anh-la-ong-bo-don-than-4708271.html) - 02:30 03/02/2024
-- 🚀 [Tiệc tất niên không thể &#39;thích mới đi&#39;](https://vnexpress.net/tiec-tat-nien-khong-the-thich-moi-di-4708117.html) - 02:20 03/02/2024<!-- vnexpress:END -->
+- 🚀 [Tiệc tất niên không thể &#39;thích mới đi&#39;](https://vnexpress.net/tiec-tat-nien-khong-the-thich-moi-di-4708117.html) - 02:20 03/02/2024
+- 🕴 [Cao tốc Vĩnh Hảo – Phan Thiết, TP HCM - Dầu Giây kẹt xe kéo dài](https://vnexpress.net/cao-toc-vinh-hao-phan-thiet-tp-hcm-dau-giay-ket-xe-keo-dai-4708286.html) - 02:19 03/02/2024
+- 🦆 [Ukraine có thể đã báo cho Mỹ kế hoạch sa thải tư lệnh quân đội](https://vnexpress.net/ukraine-co-the-da-bao-cho-my-ke-hoach-sa-thai-tu-lenh-quan-doi-4708244.html) - 02:17 03/02/2024
+- 💫 [Người Mỹ xếp hàng mua kính Vision Pro giá 3.500 USD](https://vnexpress.net/nguoi-my-xep-hang-mua-kinh-vision-pro-gia-3-500-usd-4708248.html) - 02:14 03/02/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
