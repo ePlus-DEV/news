@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Ôtô chở 30 người lao xuống vực sâu 20 m](https://vnexpress.net/oto-cho-30-nguoi-lao-xuong-vuc-sau-20-m-4708483.html) - 18:15 03/02/2024
+- 🚀 [Ôtô chở hơn 30 người lao xuống vực sâu](https://vnexpress.net/oto-cho-hon-30-nguoi-lao-xuong-vuc-sau-4708483.html) - 18:15 03/02/2024
 - 🧰 [5 loại carbohydrate tinh chế người tiểu đường nên hạn chế](https://vnexpress.net/5-loai-carbohydrate-tinh-che-nguoi-tieu-duong-nen-han-che-4707966.html) - 18:02 03/02/2024
 - 🥰 [Ngân hàng có quyền tự ý phong toả tài khoản của khách?](https://vnexpress.net/ngan-hang-co-quyen-tu-y-phong-toa-tai-khoan-cua-khach-4708059.html) - 17:20 03/02/2024
 - 🌏 [&#39;Đường đến ngày vinh quang&#39; được đưa vào sách giáo khoa](https://vnexpress.net/duong-den-ngay-vinh-quang-duoc-dua-vao-sach-giao-khoa-4708438.html) - 17:17 03/02/2024
