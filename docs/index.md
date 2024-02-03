@@ -253,13 +253,13 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Xe khách chở 30 người lao xuống vực, chưa rõ số người thương vong](https://nld.com.vn/xe-khach-cho-30-nguoi-lao-xuong-vuc-chua-ro-so-nguoi-thuong-vong-196240204000841184.htm) - 17:35 03/02/2024
-- 😺 [Gỡ vướng trong việc tuyển lao động nước ngoài](https://nld.com.vn/go-vuong-trong-viec-tuyen-lao-dong-nuoc-ngoai-196240203182801144.htm) - 17:20 03/02/2024
-- 👍 [Nghệ sĩ LÊ KHÁNH: Tôi phải xứng đáng với 6 Giải Mai Vàng](https://nld.com.vn/nghe-si-le-khanh-toi-phai-xung-dang-voi-6-giai-mai-vang-196240203202327919.htm) - 17:00 03/02/2024
-- 🥷 [TP HCM: Nhiều hoạt động chào đón năm mới](https://nld.com.vn/tp-hcm-nhieu-hoat-dong-chao-don-nam-moi-196240203231800323.htm) - 16:50 03/02/2024
-- 🤔 [Trải nghiệm không gian 720 độ Van Gogh Immersive ở Gigamall](https://nld.com.vn/trai-nghiem-khong-gian-720-do-van-gogh-immersive-o-gigamall-196240203234040819.htm) - 16:43 03/02/2024
-- 🌈 [Các cuộc không kích của Mỹ làm Trung Đông sôi sục](https://nld.com.vn/cac-cuoc-khong-kich-cua-my-lam-trung-dong-soi-suc-196240203214533347.htm) - 15:36 03/02/2024
-- 🔥 [Thời sự sáng 4-2: Người dân về quê ăn Tết, cao tốc căng thẳng](https://nld.com.vn/thoi-su-sang-4-2-nguoi-dan-ve-que-an-tet-cao-toc-cang-thang-196240203215841587.htm) - 15:21 03/02/2024
+- 🐎 [Gieo mầm yêu thương ngày xuân](https://nld.com.vn/gieo-mam-yeu-thuong-ngay-xuan-196240203184635913.htm) - 17:40 03/02/2024
+- 😺 [Xe khách chở 30 người lao xuống vực, chưa rõ số người thương vong](https://nld.com.vn/xe-khach-cho-30-nguoi-lao-xuong-vuc-chua-ro-so-nguoi-thuong-vong-196240204000841184.htm) - 17:35 03/02/2024
+- 👍 [Gỡ vướng trong việc tuyển lao động nước ngoài](https://nld.com.vn/go-vuong-trong-viec-tuyen-lao-dong-nuoc-ngoai-196240203182801144.htm) - 17:20 03/02/2024
+- 🥷 [Nghệ sĩ LÊ KHÁNH: Tôi phải xứng đáng với 6 Giải Mai Vàng](https://nld.com.vn/nghe-si-le-khanh-toi-phai-xung-dang-voi-6-giai-mai-vang-196240203202327919.htm) - 17:00 03/02/2024
+- 🤔 [TP HCM: Nhiều hoạt động chào đón năm mới](https://nld.com.vn/tp-hcm-nhieu-hoat-dong-chao-don-nam-moi-196240203231800323.htm) - 16:50 03/02/2024
+- 🌈 [Trải nghiệm không gian 720 độ Van Gogh Immersive ở Gigamall](https://nld.com.vn/trai-nghiem-khong-gian-720-do-van-gogh-immersive-o-gigamall-196240203234040819.htm) - 16:43 03/02/2024
+- 🔥 [Các cuộc không kích của Mỹ làm Trung Đông sôi sục](https://nld.com.vn/cac-cuoc-khong-kich-cua-my-lam-trung-dong-soi-suc-196240203214533347.htm) - 15:36 03/02/2024
 - 🧰 [Đặc sắc Hội xuân](https://nld.com.vn/dac-sac-hoi-xuan-19624020321501835.htm) - 14:52 03/02/2024
 - 🤗 [Asian Cup 2023: Iran ngược dòng loại Nhật Bản](https://nld.com.vn/asian-cup-2023-iran-nguoc-dong-loai-nhat-ban-196240203211147149.htm) - 14:12 03/02/2024
 - 🦅 [Người phụ nữ &quot;ôm hàng trăm tỉ đồng&quot; bỏ trốn, nhiều đại gia chết lặng?](https://nld.com.vn/nguoi-phu-nu-om-hang-tram-ti-dong-bo-tron-nhieu-dai-gia-chet-lang-19624020320122612.htm) - 13:34 03/02/2024
