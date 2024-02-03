@@ -583,7 +583,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💃 [Vận động hỗ trợ học sinh tử vong do đuối nước](https://tienphong.vn/van-dong-ho-tro-hoc-sinh-tu-vong-do-duoi-nuoc-post1610025.tpo) - 21:57 03/02/2024
 - 🦍 [Trang Pháp là quán quân, công bố 7 chị đẹp chiến thắng](https://tienphong.vn/trang-phap-la-quan-quan-cong-bo-7-chi-dep-chien-thang-post1610037.tpo) - 21:25 03/02/2024
 - 👹 [Xứ Trầm Hương thúc đẩy giao thương với đất nước của con đường tơ lụa](https://tienphong.vn/xu-tram-huong-thuc-day-giao-thuong-voi-dat-nuoc-cua-con-duong-to-lua-post1610034.tpo) - 21:24 03/02/2024
-- 🌜 [Trực tiếp Qatar vs Uzbekistan 1-1 &lpar;Hiệp phụ 2&rpar;: Hai đội đá luân lưu](https://tienphong.vn/truc-tiep-qatar-vs-uzbekistan-1-1-hiep-phu-2-hai-doi-da-luan-luu-post1610010.tpo) - 21:15 03/02/2024
+- 🌜 [Qatar thắng Uzbekistan sau loạt luân lưu](https://tienphong.vn/qatar-thang-uzbekistan-sau-loat-luan-luu-post1610010.tpo) - 21:15 03/02/2024
 - 🎓 [Highlights Iran 2-1 Nhật Bản: Dấu chấm hết cho &#39;Samurai xanh&#39;](https://tienphong.vn/highlights-iran-2-1-nhat-ban-dau-cham-het-cho-samurai-xanh-post1610039.tpo) - 20:51 03/02/2024
 - 🦣 [Một phó phòng giao dịch ngân hàng lừa đảo chiếm đoạt hơn chục tỷ đồng](https://tienphong.vn/mot-pho-phong-giao-dich-ngan-hang-lua-dao-chiem-doat-hon-chuc-ty-dong-post1609920.tpo) - 20:50 03/02/2024
 - 🤓 [Bắt đối tượng chuyên cho dân nghèo vay lãi ‘cắt cổ’](https://tienphong.vn/bat-doi-tuong-chuyen-cho-dan-ngheo-vay-lai-cat-co-post1610035.tpo) - 20:48 03/02/2024
