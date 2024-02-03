@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Ôtô chở hơn 30 người lao xuống vực sâu](https://vnexpress.net/oto-cho-hon-30-nguoi-lao-xuong-vuc-sau-4708483.html) - 18:15 03/02/2024
+- 🦒 [Ôtô chở hơn 30 người về Tết lao xuống vực sâu](https://vnexpress.net/oto-cho-hon-30-nguoi-ve-tet-lao-xuong-vuc-sau-4708483.html) - 18:15 03/02/2024
 - 🤓 [San hô ở vịnh Nha Trang dần phục hồi](https://vnexpress.net/san-ho-o-vinh-nha-trang-dan-phuc-hoi-4708345.html) - 17:00 03/02/2024
 - ⚗️ [Hai bé trai mất tích khi lội sông](https://vnexpress.net/hai-be-trai-mat-tich-khi-loi-song-4708467.html) - 16:36 03/02/2024
 - 🌊 [TP HCM tuyên dương đảng viên tiêu biểu là công nhân](https://vnexpress.net/tp-hcm-tuyen-duong-dang-vien-tieu-bieu-la-cong-nhan-4708403.html) - 09:52 03/02/2024
