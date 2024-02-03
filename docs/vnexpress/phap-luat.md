@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [11 người dùng ma tuý trong chung cư cao cấp](https://video.vnexpress.net/11-nguoi-dung-ma-tuy-trong-chung-cu-cao-cap-4708187.html) - 04:34 03/02/2024
 - 🥰 [Diễn viên 79 tuổi của phim Squid Game đối mặt tội quấy rối tình dục](https://vnexpress.net/dien-vien-79-tuoi-cua-phim-squid-game-doi-mat-toi-quay-roi-tinh-duc-4708308.html) - 04:06 03/02/2024
 - 🎓 [Cán bộ ngân hàng lừa đáo hạn 14 tỷ đồng](https://vnexpress.net/can-bo-ngan-hang-lua-dao-han-14-ty-dong-4708291.html) - 03:05 03/02/2024
-- 🤓 [Kiện đòi bồi thường vì chồng vì lười tắm](https://vnexpress.net/kien-doi-boi-thuong-vi-chong-vi-luoi-tam-4708290.html) - 02:51 03/02/2024
+- 🤓 [Kiện đòi bồi thường vì chồng lười tắm](https://vnexpress.net/kien-doi-boi-thuong-vi-chong-vi-luoi-tam-4708290.html) - 02:51 03/02/2024
 - 🎊 [Ngoại lệ nào cho xe chưa đăng ký biển số mà không bị phạt?](https://vnexpress.net/ngoai-le-nao-cho-xe-chua-dang-ky-bien-so-ma-khong-bi-phat-4708036.html) - 17:00 02/02/2024
 - 🙉 [Vì sao Ngọc Trinh được hưởng án treo?](https://vnexpress.net/vi-sao-ngoc-trinh-duoc-huong-an-treo-4708172.html) - 17:00 02/02/2024
 - 🤡 [Loạt đạn của kẻ hiếp dâm săn tìm nữ sinh trên cao tốc](https://vnexpress.net/loat-dan-cua-ke-hiep-dam-san-tim-nu-sinh-tren-cao-toc-4707766.html) - 17:00 02/02/2024
