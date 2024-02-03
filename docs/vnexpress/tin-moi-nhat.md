@@ -50,4 +50,6 @@ sidebar_position: 9
 - 🎊 [Người tông chết vợ chồng cụ ông bị bắt](https://vnexpress.net/nguoi-tong-chet-vo-chong-cu-ong-bi-bat-4708188.html) - 15:57 02/02/2024
 - 👺 [Sách về xây dựng lực lượng công an của Đại tướng Tô Lâm](https://vnexpress.net/sach-ve-xay-dung-luc-luong-cong-an-cua-dai-tuong-to-lam-4708176.html) - 15:53 02/02/2024
 - 🎡 [200 phạm nhân tấn công quản ngục ở California](https://vnexpress.net/200-pham-nhan-tan-cong-quan-nguc-o-california-4708180.html) - 15:31 02/02/2024
-- 👍 [Mẹ đơn thân lành tính, dễ chịu](https://vnexpress.net/me-don-than-lanh-tinh-de-chiu-4707814.html) - 14:00 02/02/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 👍 [Mẹ đơn thân lành tính, dễ chịu](https://vnexpress.net/me-don-than-lanh-tinh-de-chiu-4707814.html) - 14:00 02/02/2024
+- 🐎 [Là quản lý nhưng tôi vẫn run mỗi khi đứng trước đám đông](https://vnexpress.net/la-quan-ly-nhung-toi-van-run-moi-khi-dung-truoc-dam-dong-4706434.html) - 14:00 02/02/2024
+- 🏊 [Armenia bày tỏ thất vọng về Nga](https://vnexpress.net/armenia-bay-to-that-vong-ve-nga-4708171.html) - 13:57 02/02/2024<!-- vnexpress-tin-moi-nhat:END -->
