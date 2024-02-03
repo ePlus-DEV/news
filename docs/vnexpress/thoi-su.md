@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cao tốc Vĩnh Hảo – Phan Thiết kẹt xe gần 10 km](https://vnexpress.net/cao-toc-vinh-hao-phan-thiet-ket-xe-gan-10-km-4708286.html) - 02:19 03/02/2024
+- 🦒 [Cao tốc Vĩnh Hảo – Phan Thiết, TP HCM - Dầu Giây kẹt xe kéo dài](https://vnexpress.net/cao-toc-vinh-hao-phan-thiet-tp-hcm-dau-giay-ket-xe-keo-dai-4708286.html) - 02:19 03/02/2024
 - 🤓 [Chủ tịch nước: Kiều bào là nhân tố quan trọng trong ngoại giao nhân dân](https://vnexpress.net/chu-tich-nuoc-kieu-bao-la-nhan-to-quan-trong-trong-ngoai-giao-nhan-dan-4708191.html) - 17:00 02/02/2024
 - ⚗️ [Quảng Nam cách chức một giám đốc, ba phó giám đốc sở](https://vnexpress.net/quang-nam-cach-chuc-mot-giam-doc-ba-pho-giam-doc-so-4708174.html) - 13:52 02/02/2024
 - 🌊 [Hà Nội xem xét kỷ luật 28 đảng viên sau vụ cháy chung cư mini](https://vnexpress.net/ha-noi-xem-xet-ky-luat-28-dang-vien-sau-vu-chay-chung-cu-mini-4708173.html) - 13:31 02/02/2024
