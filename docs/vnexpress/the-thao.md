@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Nhật Bản - Iran: Kubo đá chính, Mitoma dự bị](https://vnexpress.net/nhat-ban-vs-iran-4708426.html) - 11:00 03/02/2024
+- 🪜 [Nhật Bản 1-0 Iran &lpar;H1&rpar;: Morita ghi tuyệt phẩm](https://vnexpress.net/nhat-ban-vs-iran-4708426.html) - 11:00 03/02/2024
 - 🦩 [Hãng dụng cụ golf uy tín kiện tập đoàn bán lẻ khổng lồ ở Mỹ](https://vnexpress.net/hang-dung-cu-golf-uy-tin-kien-tap-doan-ban-le-khong-lo-o-my-4708430.html) - 10:43 03/02/2024
 - 🧰 [Tuyển Hàn Quốc được ví như &#39;đội quân zombie&#39;](https://vnexpress.net/tuyen-han-quoc-duoc-vi-nhu-doi-quan-zombie-4708427.html) - 10:29 03/02/2024
 - 🤗 [Chủ tịch Barca tiết lộ danh tính 15 CLB dự Super League](https://vnexpress.net/chu-tich-barca-tiet-lo-danh-tinh-15-clb-du-super-league-4708412.html) - 09:24 03/02/2024
