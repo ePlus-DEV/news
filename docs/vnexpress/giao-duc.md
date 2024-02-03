@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Người Việt ít bị ảnh hưởng khi Canada siết giấy phép du học](https://vnexpress.net/nguoi-viet-it-bi-anh-huong-khi-canada-siet-giay-phep-du-hoc-4707279.html) - 01:21 03/02/2024
+- 🤓 [Người Việt ảnh hưởng gì khi Canada siết giấy phép du học](https://vnexpress.net/nguoi-viet-anh-huong-gi-khi-canada-siet-giay-phep-du-hoc-4707279.html) - 01:21 03/02/2024
 - 🦆 [Tục cúng ông Táo xuất hiện từ khi nào?](https://vnexpress.net/tuc-cung-ong-tao-xuat-hien-tu-khi-nao-4708122.html) - 13:02 02/02/2024
 - 🦩 [&#39;Làm việc tối ngày&#39; nói thế nào trong tiếng Anh](https://vnexpress.net/lam-viec-toi-ngay-noi-the-nao-trong-tieng-anh-4708119.html) - 09:50 02/02/2024
 - 🌮 [Học viên ILA thể hiện trình độ ngoại ngữ qua đam mê nghệ thuật](https://vnexpress.net/hoc-vien-ila-the-hien-trinh-do-ngoai-ngu-qua-dam-me-nghe-thuat-4707877.html) - 02:00 02/02/2024
