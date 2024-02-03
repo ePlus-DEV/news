@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Tài tử &#39;Squid Game&#39; ra tòa vì quấy rối tình dục](https://vnexpress.net/tai-tu-squid-game-ra-toa-vi-quay-roi-tinh-duc-4708322.html) - 04:44 03/02/2024
+- 🌏 [Kim Xuân, Minh Dự gửi thông điệp tình thân trong phim Tết](https://vnexpress.net/kim-xuan-minh-du-gui-thong-diep-tinh-than-trong-phim-tet-4708313.html) - 04:55 03/02/2024
 - 💫 [Taylor Swift được bạn trai tặng vòng kim cương](https://vnexpress.net/taylor-swift-duoc-ban-trai-tang-vong-kim-cuong-4708312.html) - 03:33 03/02/2024
 - 🌮 [Diễn viên TVB Hà Quốc Vinh qua đời](https://vnexpress.net/dien-vien-tvb-ha-quoc-vinh-qua-doi-4708272.html) - 02:56 03/02/2024
 - 🧠 [&#39;Kẻ canh gác bầu trời&#39; - tiểu thuyết kỳ ảo đề cập vấn đề xã hội](https://vnexpress.net/ke-canh-gac-bau-troi-tieu-thuyet-ky-ao-de-cap-van-de-xa-hoi-4702436.html) - 01:27 03/02/2024
