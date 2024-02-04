@@ -4,12 +4,12 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Nga có thể dồn 500 xe tăng tiến công Kupyansk](https://vnexpress.net/nga-co-the-don-500-xe-tang-tien-cong-kupyansk-4708634.html) - 09:45 04/02/2024
+- 🎭 [Nga có thể dồn 500 xe tăng tiến công thành phố ở Kharkov](https://vnexpress.net/nga-co-the-don-500-xe-tang-tien-cong-thanh-pho-o-kharkov-4708634.html) - 09:45 04/02/2024
 - 🕴 [Nga, Hàn Quốc đấu khẩu về Triều Tiên](https://vnexpress.net/nga-han-quoc-dau-khau-ve-trieu-tien-4708626.html) - 09:08 04/02/2024
 - 🤭 [Chuyên gia lo ngại Israel tạo vùng đệm trong Gaza](https://vnexpress.net/chuyen-gia-lo-ngai-israel-tao-vung-dem-trong-gaza-4708595.html) - 07:45 04/02/2024
 - 🧑‍💻 [Mục tiêu dang dở của Israel sau gần 4 tháng khai chiến với Hamas](https://vnexpress.net/muc-tieu-dang-do-cua-israel-sau-gan-4-thang-khai-chien-voi-hamas-4707045.html) - 04:30 04/02/2024
 - 🦏 [Ông Biden thắng vòng sơ bộ đảng Dân chủ ở Nam Carolina](https://vnexpress.net/ong-biden-thang-vong-so-bo-dang-dan-chu-o-nam-carolina-4708545.html) - 03:40 04/02/2024
-- 🦒 [Nga tố Ukraine nã pháo HIMARS vào xưởng bánh khiến 20 người chết](https://vnexpress.net/nga-to-ukraine-na-phao-himars-vao-xuong-banh-khien-20-nguoi-chet-4708521.html) - 02:07 04/02/2024
+- 🦒 [Nga tố Ukraine nã pháo HIMARS vào xưởng bánh khiến 28 người chết](https://vnexpress.net/nga-to-ukraine-na-phao-himars-vao-xuong-banh-khien-28-nguoi-chet-4708521.html) - 02:07 04/02/2024
 - 🌈 [Cháy rừng chưa từng có tại Chile, 46 người thiệt mạng](https://vnexpress.net/chay-rung-chua-tung-co-tai-chile-46-nguoi-thiet-mang-4708503.html) - 00:44 04/02/2024
 - 🧑‍🏫 [Mỹ, Anh tấn công loạt mục tiêu Houthi](https://vnexpress.net/my-anh-tan-cong-loat-muc-tieu-houthi-4708500.html) - 23:37 03/02/2024
 - 🐲 [Trump đối mặt rủi ro khi đồng minh gây hấn với Taylor Swift](https://vnexpress.net/trump-doi-mat-rui-ro-khi-dong-minh-gay-han-voi-taylor-swift-4708247.html) - 17:00 03/02/2024
