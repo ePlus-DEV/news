@@ -76,7 +76,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💫 [Đại bàng cướp miếng ăn trong miệng cò](https://vnexpress.net/dai-bang-cuop-mieng-an-trong-mieng-co-4707917.html) - 01:00 04/02/2024
 - 🤩 [Các món ăn sáng tốt cho người trào ngược dạ dày](https://vnexpress.net/cac-mon-an-sang-tot-cho-nguoi-trao-nguoc-da-day-4707572.html) - 01:00 04/02/2024
 - 🏊 [Mặt đỏ phừng khi chạy](https://vnexpress.net/mat-do-phung-khi-chay-4707357.html) - 00:49 04/02/2024
-- 💂 [Thành nữ sinh giỏi ở Bách khoa sau khi trượt trường Kinh tế](https://vnexpress.net/thanh-nu-sinh-gioi-o-bach-khoa-sau-khi-truot-truong-kinh-te-4708081.html) - 00:46 04/02/2024<!-- vnexpress:END -->
+- 💂 [Thành nữ sinh giỏi ở Bách khoa sau khi trượt trường Kinh tế](https://vnexpress.net/thanh-nu-sinh-gioi-o-bach-khoa-sau-khi-truot-truong-kinh-te-4708081.html) - 00:46 04/02/2024
+- 🚀 [Cháy rừng chưa từng có tại Chile, 46 người thiệt mạng](https://vnexpress.net/chay-rung-chua-tung-co-tai-chile-46-nguoi-thiet-mang-4708503.html) - 00:44 04/02/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
