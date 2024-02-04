@@ -574,7 +574,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
 - 💼 [Tri ân Chi Lăng lịch sử anh hùng](https://tienphong.vn/tri-an-chi-lang-lich-su-anh-hung-post1610209.tpo) - 20:45 04/02/2024
-- 🎊 [Trực tiếp MU vs West Ham 0-0 &lpar;H1&rpar;: Onana cứu thua cho Quỷ đỏ](https://tienphong.vn/truc-tiep-mu-vs-west-ham-0-0-h1-onana-cuu-thua-cho-quy-do-post1610218.tpo) - 20:32 04/02/2024
+- 🎊 [Trực tiếp MU vs West Ham 1-0 &lpar;hết H1&rpar;: Hojlund mở tỷ số cho Quỷ đỏ, Onana chơi xuất sắc](https://tienphong.vn/truc-tiep-mu-vs-west-ham-1-0-het-h1-hojlund-mo-ty-so-cho-quy-do-onana-choi-xuat-sac-post1610218.tpo) - 20:32 04/02/2024
 - 💼 [Chia sẻ tâm huyết của lãnh đạo Thành ủy TPHCM với cán bộ Đoàn – Hội trước thềm năm mới](https://tienphong.vn/chia-se-tam-huyet-cua-lanh-dao-thanh-uy-tphcm-voi-can-bo-doan-hoi-truoc-them-nam-moi-post1610150.tpo) - 20:25 04/02/2024
 - 👺 [Tết sum vầy cùng thanh niên công nhân nhà trọ](https://tienphong.vn/tet-sum-vay-cung-thanh-nien-cong-nhan-nha-tro-post1610109.tpo) - 20:22 04/02/2024
 - 💪 [Showbiz 4/2: Hoa hậu Diễm Hương nói về tin có 3 con nhưng giấu](https://tienphong.vn/showbiz-42-hoa-hau-diem-huong-noi-ve-tin-co-3-con-nhung-giau-post1610215.tpo) - 20:17 04/02/2024
