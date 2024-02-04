@@ -53,5 +53,4 @@ sidebar_position: 9
 - 👍 [Trang Pháp chiến thắng show &#39;Đạp gió&#39;](https://vnexpress.net/trang-phap-chien-thang-show-dap-gio-4708459.html) - 16:17 03/02/2024
 - 🐎 [Chi Pu song ca &#39;nam thần&#39; Trương Đống Lương](https://vnexpress.net/chi-pu-song-ca-nam-than-truong-dong-luong-4708457.html) - 15:37 03/02/2024
 - 🏊 [Điếng người khi biết chồng tìm gái gọi từ khi chưa cưới](https://vnexpress.net/dieng-nguoi-khi-biet-chong-tim-gai-goi-tu-khi-chua-cuoi-4707039.html) - 15:00 03/02/2024
-- 🦩 [Tổng thống Ba Lan hứng chỉ trích vì hoài nghi khả năng Ukraine giành Crimea](https://vnexpress.net/tong-thong-ba-lan-hung-chi-trich-vi-hoai-nghi-kha-nang-ukraine-gianh-crimea-4708449.html) - 14:51 03/02/2024
-- 👍 [Tottenham rơi chiến thắng ở phút bù giờ](https://vnexpress.net/tottenham-roi-chien-thang-o-phut-bu-gio-4708452.html) - 14:31 03/02/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🦩 [Tổng thống Ba Lan hứng chỉ trích vì hoài nghi khả năng Ukraine giành Crimea](https://vnexpress.net/tong-thong-ba-lan-hung-chi-trich-vi-hoai-nghi-kha-nang-ukraine-gianh-crimea-4708449.html) - 14:51 03/02/2024<!-- vnexpress-tin-moi-nhat:END -->
