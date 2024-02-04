@@ -4,8 +4,8 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Miễn thuế với khoản thu từ đổi mới sáng tạo của doanh nghiệp tại TP HCM](https://vnexpress.net/mien-thue-voi-khoan-thu-tu-doi-moi-sang-tao-cua-doanh-nghiep-tai-tp-hcm-4708567.html) - 07:39 04/02/2024
-- 🐲 [Chủ dự án Hoiana lỗ hơn 1.000 tỷ đồng từ kinh doanh casino](https://vnexpress.net/chu-du-an-hoiana-lo-hon-1-000-ty-dong-tu-kinh-doanh-casino-4708529.html) - 04:35 04/02/2024
+- ⛽️ [Công viên tại TP HCM nhộn nhịp người mua hoa ngày 25 Tết](https://vnexpress.net/cong-vien-tai-tp-hcm-nhon-nhip-nguoi-mua-hoa-ngay-25-tet-4708588.html) - 08:58 04/02/2024
+- 🐲 [Miễn thuế với khoản thu từ đổi mới sáng tạo của doanh nghiệp tại TP HCM](https://vnexpress.net/mien-thue-voi-khoan-thu-tu-doi-moi-sang-tao-cua-doanh-nghiep-tai-tp-hcm-4708567.html) - 07:39 04/02/2024
 - 🔥 [Cựu CEO FLC thôi làm sếp tại Dabaco](https://vnexpress.net/cuu-ceo-flc-thoi-lam-sep-tai-dabaco-4708542.html) - 04:04 04/02/2024
 - 🐵 [Top 5 ngân hàng lãi tỷ USD](https://vnexpress.net/top-5-ngan-hang-lai-ty-usd-4707722.html) - 02:34 04/02/2024
 - 🦅 [Châu Âu tự tin đủ khí đốt dù thiếu Mỹ](https://vnexpress.net/chau-au-tu-tin-du-khi-dot-du-thieu-my-4708477.html) - 01:29 04/02/2024
