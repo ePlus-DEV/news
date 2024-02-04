@@ -577,7 +577,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Trực tiếp Arsenal 2-1 Liverpool &lpar;H2&rpar;: Konate bị đuổi, The Kop gặp khó](https://tienphong.vn/truc-tiep-arsenal-2-1-liverpool-h2-konate-bi-duoi-the-kop-gap-kho-post1610207.tpo) - 22:30 04/02/2024
+- 💼 [Đại thắng Liverpool, Arsenal phả hơi nóng vào ngôi đầu bảng](https://tienphong.vn/dai-thang-liverpool-arsenal-pha-hoi-nong-vao-ngoi-dau-bang-post1610207.tpo) - 22:30 04/02/2024
 - 🎊 [Chủ tịch nước chúc Tết các đồng chí nguyên lãnh đạo Đảng, Nhà nước](https://tienphong.vn/chu-tich-nuoc-chuc-tet-cac-dong-chi-nguyen-lanh-dao-dang-nha-nuoc-post1610233.tpo) - 21:59 04/02/2024
 - 💼 [Lập công ty, lừa người đi xuất khẩu lao động](https://tienphong.vn/lap-cong-ty-lua-nguoi-di-xuat-khau-lao-dong-post1610212.tpo) - 21:54 04/02/2024
 - 👺 [Tri ân Chi Lăng lịch sử anh hùng](https://tienphong.vn/tri-an-chi-lang-lich-su-anh-hung-post1610209.tpo) - 20:45 04/02/2024
