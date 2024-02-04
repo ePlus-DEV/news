@@ -10,7 +10,7 @@ sidebar_position: 5
 - 🤗 [Cầu thủ Nhật Bản: &#39;Chúng tôi chơi thảm hại ở hiệp hai&#39;](https://vnexpress.net/cau-thu-nhat-ban-chung-toi-choi-tham-hai-o-hiep-hai-4708476.html) - 00:14 04/02/2024
 - 🥳 [Hazard tự nhận giỏi hơn Ronaldo](https://vnexpress.net/hazard-tu-nhan-gioi-hon-ronaldo-4708495.html) - 00:06 04/02/2024
 - 🦣 [Qatar vào bán kết Asian Cup 2023 sau loạt luân lưu](https://vnexpress.net/qatar-vao-ban-ket-asian-cup-2023-sau-loat-luan-luu-4708488.html) - 00:02 04/02/2024
-- 🌜 [Lewandowski đứt mạch tịt ngòi ở La Liga](https://vnexpress.net/lewandowski-dut-mach-tit-ngoi-o-la-liga-4708498.html) - 23:49 03/02/2024
+- 🌜 [Lewandowski dứt mạch tịt ngòi ở La Liga](https://vnexpress.net/lewandowski-dut-mach-tit-ngoi-o-la-liga-4708498.html) - 23:49 03/02/2024
 - 🫶 [Newcastle hòa đội tân binh trong trận cầu có tám bàn](https://vnexpress.net/newcastle-hoa-doi-tan-binh-trong-tran-cau-co-tam-ban-4708481.html) - 17:14 03/02/2024
 - 🌜 [Kane giúp Bayern thắng ngược đối thủ kỵ giơ](https://vnexpress.net/kane-giup-bayern-thang-nguoc-doi-thu-ky-gio-4708475.html) - 16:23 03/02/2024
 - 😺 [Tottenham rơi chiến thắng ở phút bù giờ](https://vnexpress.net/tottenham-roi-chien-thang-o-phut-bu-gio-4708452.html) - 14:31 03/02/2024
