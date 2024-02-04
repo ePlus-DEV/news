@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Nạn nhân kể thời điểm ôtô chở gần 40 người lăn xuống vực](https://vnexpress.net/nan-nhan-ke-thoi-diem-oto-cho-gan-40-nguoi-lan-xuong-vuc-4708564.html) - 11:01 04/02/2024
+- 🦒 [Nạn nhân: &#39;Xe khách như khúc cây lăn nhiều vòng xuống vực&#39;](https://vnexpress.net/nan-nhan-xe-khach-nhu-khuc-cay-lan-nhieu-vong-xuong-vuc-4708564.html) - 11:01 04/02/2024
 - 🤓 [Cửa ngõ phía Tây TP HCM ùn tắc nhiều giờ](https://vnexpress.net/cua-ngo-phia-tay-tp-hcm-un-tac-nhieu-gio-4708617.html) - 08:39 04/02/2024
 - ⚗️ [Hoa hậu H&#39;Hen Niê làm bánh dày cho học sinh vùng cao](https://vnexpress.net/hoa-hau-h-hen-nie-lam-banh-day-cho-hoc-sinh-vung-cao-4708532.html) - 08:10 04/02/2024
 - 🌊 [Hiện trường ôtô chở gần 40 khách nằm dưới vực sâu](https://vnexpress.net/hien-truong-oto-cho-gan-40-khach-nam-duoi-vuc-sau-4708580.html) - 07:23 04/02/2024
