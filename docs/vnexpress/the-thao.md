@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Chính phủ Hong Kong phàn nàn vì Messi không thi đấu](https://vnexpress.net/chinh-phu-hong-kong-phan-nan-vi-messi-khong-thi-dau-4708720.html) - 18:42 04/02/2024
-- 🦩 [Arsenal hạ Liverpool trong trận đấu thảm họa của Alisson](https://vnexpress.net/arsenal-ha-liverpool-trong-tran-dau-tham-hoa-cua-alisson-4708721.html) - 18:29 04/02/2024
+- 🦩 [Arsenal hạ Liverpool để thắp lại hy vọng vô địch](https://vnexpress.net/arsenal-ha-liverpool-de-thap-lai-hy-vong-vo-dich-4708721.html) - 18:29 04/02/2024
 - 🧰 [Chelsea thua đậm ở Ngoại hạng Anh](https://vnexpress.net/chelsea-thua-dam-o-ngoai-hang-anh-4708704.html) - 16:04 04/02/2024
 - 🤗 [Man Utd đại thắng ở Ngoại hạng Anh](https://vnexpress.net/man-utd-dai-thang-o-ngoai-hang-anh-4708706.html) - 16:03 04/02/2024
 - 🥳 [Lý Hoàng Nam không cứu nổi Việt Nam ở Davis Cup](https://vnexpress.net/ly-hoang-nam-khong-cuu-noi-viet-nam-o-davis-cup-4708646.html) - 13:45 04/02/2024
