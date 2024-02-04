@@ -393,8 +393,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Phó Thủ tướng Lê Minh Khái thăm, tặng quà Tết tại An Giang](https://baochinhphu.vn/pho-thu-tuong-le-minh-khai-tham-tang-qua-tet-tai-an-giang-102240204125515942.htm) - 12:55 04/02/2024
-- 🌜 [Thủ tướng: Cả nước triển khai chiến dịch an sinh xã hội để toàn dân đều có Tết](https://baochinhphu.vn/thu-tuong-ca-nuoc-trien-khai-chien-dich-an-sinh-xa-hoi-de-toan-dan-deu-co-tet-102240204093915667.htm) - 09:58 04/02/2024
+- 💻 [Thủ tướng: Cả nước triển khai chiến dịch an sinh xã hội để toàn dân đều có Tết](https://baochinhphu.vn/thu-tuong-ca-nuoc-trien-khai-chien-dich-an-sinh-xa-hoi-de-toan-dan-deu-co-tet-102240204093915667.htm) - 13:17 04/02/2024
+- 🌜 [Phó Thủ tướng Lê Minh Khái thăm, tặng quà Tết tại An Giang](https://baochinhphu.vn/pho-thu-tuong-le-minh-khai-tham-tang-qua-tet-tai-an-giang-102240204125515942.htm) - 12:55 04/02/2024
 - 🦆 [EU thông qua dự luật Trí tuệ nhân tạo](https://baochinhphu.vn/eu-thong-qua-du-luat-tri-tue-nhan-tao-102240204083843693.htm) - 08:38 04/02/2024
 - 🌝 [Bài 2: Phát triển du lịch biển, đảo chuyên nghiệp, trở thành điểm đến hấp dẫn](https://baochinhphu.vn/bai-2-phat-trien-du-lich-bien-dao-chuyen-nghiep-tro-thanh-diem-den-hap-dan-102240129215948802.htm) - 08:36 04/02/2024
 - 🦣 [Chỉ định người giám hộ để lĩnh thay lương hưu thế nào?](https://baochinhphu.vn/chi-dinh-nguoi-giam-ho-de-linh-thay-luong-huu-the-nao-10224013112025033.htm) - 07:02 04/02/2024
