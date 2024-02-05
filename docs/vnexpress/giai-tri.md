@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Taylor Swift bốn lần thắng Album của năm ở Grammy](https://vnexpress.net/taylor-swift-bon-lan-thang-album-cua-nam-o-grammy-4709067.html) - 12:59 05/02/2024
+- 🌏 [Bốn lần thắng Album của năm ở Grammy của Taylor Swift](https://vnexpress.net/bon-lan-thang-album-cua-nam-o-grammy-cua-taylor-swift-4709067.html) - 12:59 05/02/2024
 - 💫 [5 bộ cánh sexy của Miley Cyrus ở Grammy](https://vnexpress.net/5-bo-canh-sexy-cua-miley-cyrus-o-grammy-4709026.html) - 12:19 05/02/2024
 - 🌮 [SZA diện đầm &#39;thần vệ nữ&#39; của Đỗ Long tại Grammy](https://vnexpress.net/sza-dien-dam-than-ve-nu-cua-do-long-tai-grammy-4708950.html) - 10:39 05/02/2024
 - 🧠 [Tranh The Beatles vẽ giá hơn 1,7 triệu USD](https://vnexpress.net/tranh-the-beatles-ve-gia-hon-1-7-trieu-usd-4709013.html) - 09:23 05/02/2024
