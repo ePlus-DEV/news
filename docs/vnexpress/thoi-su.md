@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Hà Nội cấm một số đường quanh hồ Tây để trình diễn drone](https://vnexpress.net/ha-noi-cam-mot-so-duong-quanh-ho-tay-de-trinh-dien-drone-4708691.html) - 21:00 04/02/2024
 - 🤓 [Đà Nẵng trồng thành công hoa loa kèn](https://vnexpress.net/da-nang-trong-thanh-cong-hoa-loa-ken-4708705.html) - 18:13 04/02/2024
 - ⚗️ [Đò chùa Hương vào hợp tác xã](https://vnexpress.net/do-chua-huong-vao-hop-tac-xa-4708702.html) - 18:03 04/02/2024
-- 🌊 [Xây dựng các bảng lương mới áp dụng từ giữa năm 2024](https://vnexpress.net/xay-dung-cac-bang-luong-moi-ap-dung-tu-giua-nam-2024-4708703.html) - 17:27 04/02/2024
+- 🌊 [Xây dựng bảng lương mới áp dụng từ giữa năm 2024](https://vnexpress.net/xay-dung-bang-luong-moi-ap-dung-tu-giua-nam-2024-4708703.html) - 17:27 04/02/2024
 - 🎓 [Cán bộ thôi giữ chức vụ có thể được làm công chức](https://vnexpress.net/can-bo-thoi-giu-chuc-vu-co-the-duoc-lam-cong-chuc-4708673.html) - 14:29 04/02/2024
 - 🔥 [Nạn nhân: &#39;Xe khách như khúc cây lăn nhiều vòng xuống vực&#39;](https://vnexpress.net/nan-nhan-xe-khach-nhu-khuc-cay-lan-nhieu-vong-xuong-vuc-4708564.html) - 11:01 04/02/2024
 - 🦏 [Cửa ngõ phía Tây TP HCM ùn tắc nhiều giờ](https://vnexpress.net/cua-ngo-phia-tay-tp-hcm-un-tac-nhieu-gio-4708617.html) - 08:39 04/02/2024
