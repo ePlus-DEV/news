@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [Bùng nổ doanh thu bán áo dài mùa Tết](https://vnexpress.net/bung-no-doanh-thu-ban-ao-dai-mua-tet-4708659.html) - 07:04 05/02/2024
 - 🐲 [Giảm phát đẩy các nhà máy Trung Quốc đến bờ vực đóng cửa](https://vnexpress.net/giam-phat-day-cac-nha-may-trung-quoc-den-bo-vuc-dong-cua-4708810.html) - 06:18 05/02/2024
 - 🔥 [Thế Giới Di Động đặt mục tiêu lãi 2024 gấp 14 lần](https://vnexpress.net/the-gioi-di-dong-dat-muc-tieu-lai-2024-gap-14-lan-4708935.html) - 05:26 05/02/2024
-- 🐵 [Nhà sản xuất show &#39;Chị đẹp&#39; lãi cao nhất hai năm](https://vnexpress.net/nha-san-xuat-show-chi-dep-lai-cao-nhat-hai-nam-4708809.html) - 04:14 05/02/2024
+- 🐵 [Nhà sản xuất show &#39;Đạp gió&#39; lãi cao nhất hai năm](https://vnexpress.net/nha-san-xuat-show-dap-gio-lai-cao-nhat-hai-nam-4708809.html) - 04:14 05/02/2024
 - 🦅 [Các nhà máy Đông Nam Á dự kiến có một năm suôn sẻ](https://vnexpress.net/cac-nha-may-dong-nam-a-du-kien-co-mot-nam-suon-se-4708712.html) - 01:12 05/02/2024
 - 😺 [Nông dân châu Âu chật vật](https://vnexpress.net/nong-dan-chau-au-chat-vat-4708484.html) - 23:42 04/02/2024
 - 🤩 [Giá vàng tuần này khó dự đoán](https://vnexpress.net/gia-vang-tuan-nay-kho-du-doan-4708644.html) - 23:25 04/02/2024
