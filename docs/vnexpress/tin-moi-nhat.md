@@ -49,4 +49,5 @@ sidebar_position: 9
 - 🦆 [6 mẹo bảo quản thực phẩm Tết khi trời nồm ẩm](https://vnexpress.net/6-meo-bao-quan-thuc-pham-tet-khi-troi-nom-am-4708005.html) - 03:40 05/02/2024
 - 🎊 [Chuyên viên Thanh tra Ngân hàng bị bắt với cáo buộc dùng giấy tờ giả vay 5,5 tỷ đồng](https://vnexpress.net/chuyen-vien-thanh-tra-ngan-hang-bi-bat-voi-cao-buoc-dung-giay-to-gia-vay-5-5-ty-dong-4708859.html) - 03:36 05/02/2024
 - 👺 [Ông Trump nêu tiêu chí chọn phó tướng](https://vnexpress.net/ong-trump-neu-tieu-chi-chon-pho-tuong-4708811.html) - 03:32 05/02/2024
-- 🎡 [Hạm đội Biển Đen Nga có thể đã mất nửa tàu chiến](https://vnexpress.net/ham-doi-bien-den-nga-co-the-da-mat-nua-tau-chien-4708846.html) - 03:25 05/02/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🎡 [Hạm đội Biển Đen Nga có thể đã mất nửa tàu chiến](https://vnexpress.net/ham-doi-bien-den-nga-co-the-da-mat-nua-tau-chien-4708846.html) - 03:25 05/02/2024
+- 👍 [Taylor Swift đeo vòng cổ đồng hồ ở Grammy](https://vnexpress.net/taylor-swift-deo-vong-co-dong-ho-o-grammy-4708828.html) - 03:15 05/02/2024<!-- vnexpress-tin-moi-nhat:END -->
