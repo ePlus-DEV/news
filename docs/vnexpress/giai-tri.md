@@ -7,12 +7,12 @@ sidebar_position: 5
 - 🌏 [Taylor Swift đeo vòng cổ đồng hồ ở Grammy](https://vnexpress.net/taylor-swift-deo-vong-co-dong-ho-o-grammy-4708828.html) - 03:15 05/02/2024
 - 💫 [Brad Pitt thắng Angelina Jolie trong vụ kiện điền trang](https://vnexpress.net/brad-pitt-thang-angelina-jolie-trong-vu-kien-dien-trang-4708819.html) - 02:37 05/02/2024
 - 🌮 [Miley Cyrus &#39;mặc như không&#39; bên dàn sao Grammy](https://vnexpress.net/miley-cyrus-mac-nhu-khong-ben-dan-sao-grammy-4708749.html) - 00:56 05/02/2024
-- 🧠 [Grammy 2024: Taylor gây sốt khi công bố album mới](https://vnexpress.net/grammy-2024-taylor-gay-sot-khi-cong-bo-album-moi-4708731.html) - 00:47 05/02/2024
+- 🧠 [Grammy 2024: Billie Eilish thắng giải Bài hát của năm](https://vnexpress.net/grammy-2024-billie-eilish-thang-giai-bai-hat-cua-nam-4708731.html) - 00:47 05/02/2024
 - 👨‍🏫 [Á hậu Hoàng My: &#39;Tôi chiến đấu với bệnh tật để có con đầu lòng&#39;](https://vnexpress.net/a-hau-hoang-my-toi-chien-dau-voi-benh-tat-de-co-con-dau-long-4708551.html) - 17:00 04/02/2024
 - ⚗️ [Diễn viên &#39;American Fiction&#39;: Robert Downey Jr. xứng đáng đoạt Oscar](https://vnexpress.net/dien-vien-american-fiction-robert-downey-jr-xung-dang-doat-oscar-4708540.html) - 14:18 04/02/2024
 - 😎 [Gia đình Khánh Thi - Phan Hiển quây quần chụp ảnh Tết](https://vnexpress.net/gia-dinh-khanh-thi-phan-hien-quay-quan-chup-anh-tet-4708658.html) - 13:00 04/02/2024
 - 🫣 [Uyên Linh: &#39;Tôi dám sống thẳng&#39;](https://vnexpress.net/uyen-linh-toi-dam-song-thang-4706357.html) - 12:00 04/02/2024
-- 🪄 [Sách tái hiện hôn nhân của minh tinh Elizabeth Taylor](https://vnexpress.net/sach-tai-hien-hon-nhan-cua-minh-tinh-elizabeth-taylor-4708443.html) - 11:05 04/02/2024
+- 🪄 [Sách tái hiện hôn nhân của Elizabeth Taylor](https://vnexpress.net/sach-tai-hien-hon-nhan-cua-elizabeth-taylor-4708443.html) - 11:05 04/02/2024
 - 🤓 [Grammy 2024 - cuộc cạnh tranh của những giọng ca nữ](https://vnexpress.net/grammy-2024-cuoc-canh-tranh-cua-nhung-giong-ca-nu-4708606.html) - 11:00 04/02/2024
 - 🫶 [Tú Vi lần đầu diễn kịch Tết](https://vnexpress.net/tu-vi-lan-dau-dien-kich-tet-4708425.html) - 10:58 04/02/2024
 - 🧑‍🏫 [DJ Martin Garrix khám phá hang Sơn Đoòng](https://vnexpress.net/dj-martin-garrix-kham-pha-hang-son-doong-4708597.html) - 07:58 04/02/2024
