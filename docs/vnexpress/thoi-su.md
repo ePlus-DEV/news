@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Xe khách 45 chỗ nhồi nhét 81 người](https://vnexpress.net/xe-khach-45-cho-nhoi-nhet-81-nguoi-4709143.html) - 14:05 05/02/2024
+- 🦒 [Xe khách 41 chỗ nhồi nhét 81 người](https://vnexpress.net/xe-khach-41-cho-nhoi-nhet-81-nguoi-4709143.html) - 14:05 05/02/2024
 - 🤓 [Bất ngờ được tặng quà trên đường về quê ăn Tết](https://vnexpress.net/bat-ngo-duoc-tang-qua-tren-duong-ve-que-an-tet-4709112.html) - 10:58 05/02/2024
 - ⚗️ [Ông Trần Tuấn Anh thôi nhiệm vụ đại biểu Quốc hội](https://vnexpress.net/ong-tran-tuan-anh-thoi-nhiem-vu-dai-bieu-quoc-hoi-4709090.html) - 10:06 05/02/2024
 - 🌊 [Trình Chính phủ tăng lương tối thiểu từ ngày 1/7](https://vnexpress.net/trinh-chinh-phu-tang-luong-toi-thieu-tu-ngay-1-7-4708996.html) - 08:08 05/02/2024
