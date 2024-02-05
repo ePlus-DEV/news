@@ -202,46 +202,46 @@ cùng ngày, cùng địa điểm](https://thanhnien.vn/lan-toa-tren-mang-xa-hoi
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Danh sách 25 ao hồ nước ở Bình Dương bị cấm san lấp](https://laodong.vn/bat-dong-san/danh-sach-25-ao-ho-nuoc-o-binh-duong-bi-cam-san-lap-1301219.ldo) - 03:03 05/02/2024
-- 📝 [Xác định sân tổ chức trận chung kết World Cup 2026](https://laodong.vn/the-thao/xac-dinh-san-to-chuc-tran-chung-ket-world-cup-2026-1301239.ldo) - 03:02 05/02/2024
-- 🦏 [Cầu thủ Việt kiều nên đá ở V.League hay nước ngoài?](https://laodong.vn/the-thao/cau-thu-viet-kieu-nen-da-o-vleague-hay-nuoc-ngoai-1301121.ldo) - 03:00 05/02/2024
-- 🦩 [Giải mã lý do phim Giữa cơn bão tuyết của Ngô Lỗi gây chú ý](https://laodong.vn/van-hoa-giai-tri/giai-ma-ly-do-phim-giua-con-bao-tuyet-cua-ngo-loi-gay-chu-y-1301167.ldo) - 02:54 05/02/2024
-- 🦏 [Rời Baby Monster trước khi nhóm ra mắt, Jane Wang và Vicky Wei giờ ra sao?](https://laodong.vn/van-hoa-giai-tri/roi-baby-monster-truoc-khi-nhom-ra-mat-jane-wang-va-vicky-wei-gio-ra-sao-1301216.ldo) - 02:46 05/02/2024
-- 🧰 [Mức phạt chủ tịch UBND huyện cố tình dùng ôtô công đưa đón đi làm hàng ngày](https://laodong.vn/xe/muc-phat-chu-tich-ubnd-huyen-co-tinh-dung-oto-cong-dua-don-di-lam-hang-ngay-1301207.ldo) - 02:41 05/02/2024
-- 🌊 [Báo Australia ca ngợi 9 trải nghiệm tuyệt nhất khi du lịch Việt Nam](https://laodong.vn/van-hoa-giai-tri/bao-australia-ca-ngoi-9-trai-nghiem-tuyet-nhat-khi-du-lich-viet-nam-1301235.ldo) - 02:40 05/02/2024
-- 🔥 [4 cách chăm sóc, làm đẹp bản thân trước tuổi 40](https://laodong.vn/suc-khoe/4-cach-cham-soc-lam-dep-ban-than-truoc-tuoi-40-1300790.ldo) - 02:39 05/02/2024
-- 🦒 [Joselu là một phước lành với Real Madrid](https://laodong.vn/bong-da-quoc-te/joselu-la-mot-phuoc-lanh-voi-real-madrid-1301146.ldo) - 02:33 05/02/2024
-- 💼 [Những chức danh không được dùng xe ô tô công đưa đón tận nhà](https://laodong.vn/ban-tin/nhung-chuc-danh-khong-duoc-dung-xe-o-to-cong-dua-don-tan-nha-1301176.ldo) - 02:32 05/02/2024
-- 🤖 [Giá vàng và ngoại tệ 5.2: Vàng vẫn còn rủi ro](https://laodong.vn/video-kinh-te/gia-vang-va-ngoai-te-52-vang-van-con-rui-ro-1301226.ldo) - 02:32 05/02/2024
-- 💪 [Niềm vui của công nhân Bắc Giang từ Tết Sum vầy](https://laodong.vn/ldld-bac-giang/niem-vui-cua-cong-nhan-bac-giang-tu-tet-sum-vay-1301123.ldo) - 02:25 05/02/2024
-- 👍 [VFF, tuyển nữ Việt Nam tri ân huấn luyện viên Mai Đức Chung](https://laodong.vn/bong-da/vff-tuyen-nu-viet-nam-tri-an-huan-luyen-vien-mai-duc-chung-1301155.ldo) - 02:25 05/02/2024
-- 💂 [Công đoàn Hà Nội bố trí nhiều điểm đón CNLĐ trở lại làm việc](https://laodong.vn/ldld-tphn/cong-doan-ha-noi-bo-tri-nhieu-diem-don-cnld-tro-lai-lam-viec-1301129.ldo) - 02:24 05/02/2024
-- 🧰 [Hai chữ “miễn phí” ấm áp tình người](https://laodong.vn/nguoi-viet-tu-te/hai-chu-mien-phi-am-ap-tinh-nguoi-1301106.ldo) - 02:22 05/02/2024
-- 🥷 [Tín hiệu tích cực về nhà ở xã hội](https://laodong.vn/bat-dong-san/tin-hieu-tich-cuc-ve-nha-o-xa-hoi-1301133.ldo) - 02:19 05/02/2024
-- 💫 [Việt Nam sẽ tiến đến hình thành hệ sinh thái năng lượng tái tạo](https://laodong.vn/thoi-su/viet-nam-se-tien-den-hinh-thanh-he-sinh-thai-nang-luong-tai-tao-1301134.ldo) - 02:16 05/02/2024
-- 🎭 [Mạnh tay với hành động bán độ](https://laodong.vn/the-thao/manh-tay-voi-hanh-dong-ban-do-1301114.ldo) - 02:15 05/02/2024
-- 😎 [Phương án đi lại cho người dân từ Hà Nội về quê dịp Tết để tránh ùn tắc](https://laodong.vn/infographic/phuong-an-di-lai-cho-nguoi-dan-tu-ha-noi-ve-que-dip-tet-de-tranh-un-tac-1296940.ldo) - 02:15 05/02/2024
-- 💄 [Hưởng thụ](https://laodong.vn/van-hoa-giai-tri/huong-thu-1301111.ldo) - 02:14 05/02/2024
-- 🫣 [Hệ lụy lớn của hành động nhỏ](https://laodong.vn/the-gioi/he-luy-lon-cua-hanh-dong-nho-1301080.ldo) - 02:12 05/02/2024
-- 🧑‍🏫 [Chuyến tàu công đoàn nghĩa tình đưa đoàn viên, công nhân về quê ăn Tết](https://laodong.vn/ldld-thanh-hoa/chuyen-tau-cong-doan-nghia-tinh-dua-doan-vien-cong-nhan-ve-que-an-tet-1301054.ldo) - 01:49 05/02/2024
-- 🦣 [Khách du lịch tăng, Đà Nẵng tập trung nâng chất lượng tour](https://laodong.vn/van-hoa-giai-tri/khach-du-lich-tang-da-nang-tap-trung-nang-chat-luong-tour-1301118.ldo) - 01:44 05/02/2024
-- 💫 [Đi chợ Tết Công đoàn, nữ công nhân trúng thưởng xe máy](https://laodong.vn/ldld-quang-ninh/di-cho-tet-cong-doan-nu-cong-nhan-trung-thuong-xe-may-1301126.ldo) - 01:42 05/02/2024
-- ⛽️ [Hơn 500 gia đình công nhân về quê ăn Tết trên Chuyến tàu mùa xuân](https://laodong.vn/photo/hon-500-gia-dinh-cong-nhan-ve-que-an-tet-tren-chuyen-tau-mua-xuan-1301172.ldo) - 01:40 05/02/2024
-- 💫 [Đào hiếm khoe sắc ở vựa hoa lớn nhất Vĩnh Phúc](https://laodong.vn/xa-hoi/dao-hiem-khoe-sac-o-vua-hoa-lon-nhat-vinh-phuc-1301175.ldo) - 01:32 05/02/2024
-- 🥸 [Kho vẫn còn ôtô sản xuất 2022, đại lý tung giảm giá sâu](https://laodong.vn/xe/kho-van-con-oto-san-xuat-2022-dai-ly-tung-giam-gia-sau-1301164.ldo) - 01:28 05/02/2024
-- 🐻 [Gói bánh chưng theo phong cách truyền thống trong ngôi nhà cổ ở Hà Nội](https://laodong.vn/photo/goi-banh-chung-theo-phong-cach-truyen-thong-trong-ngoi-nha-co-o-ha-noi-1301182.ldo) - 01:27 05/02/2024
-- 🪄 [Nhịp điều chỉnh không ảnh hưởng đến đà tăng của chứng khoán](https://laodong.vn/kinh-doanh/nhip-dieu-chinh-khong-anh-huong-den-da-tang-cua-chung-khoan-1301208.ldo) - 01:26 05/02/2024
-- 🧑‍🏫 [Đề xuất cộng điểm trong tuyển sinh lớp 10](https://laodong.vn/giao-duc/de-xuat-cong-diem-trong-tuyen-sinh-lop-10-1301101.ldo) - 01:24 05/02/2024
-- 🌊 [Trường đại học nỗ lực thưởng Tết cao hơn năm trước](https://laodong.vn/giao-duc/truong-dai-hoc-no-luc-thuong-tet-cao-hon-nam-truoc-1301099.ldo) - 01:21 05/02/2024
-- 💻 [Chuyên gia dự báo bất ngờ, giá vàng có nguy cơ lao dốc](https://laodong.vn/tien-te-dau-tu/chuyen-gia-du-bao-bat-ngo-gia-vang-co-nguy-co-lao-doc-1301170.ldo) - 01:17 05/02/2024
-- 👨‍🏫 [Cái kết cho hoa hậu duy nhất của Chị đẹp đạp gió rẽ sóng](https://laodong.vn/van-hoa-giai-tri/cai-ket-cho-hoa-hau-duy-nhat-cua-chi-dep-dap-gio-re-song-1300944.ldo) - 01:13 05/02/2024
-- 🌈 [Phi hành gia Nga lập kỷ lục mới trong vũ trụ](https://laodong.vn/the-gioi/phi-hanh-gia-nga-lap-ky-luc-moi-trong-vu-tru-1301204.ldo) - 01:11 05/02/2024
-- 🐲 [Câu chuyện đưa trái vú sữa vượt &quot;ao làng&quot; thu ngoại tệ](https://laodong.vn/kinh-doanh/cau-chuyen-dua-trai-vu-sua-vuot-ao-lang-thu-ngoai-te-1301091.ldo) - 01:09 05/02/2024
-- 🚀 [Phiên giao dịch đầu tuần, giá dầu tiếp tục suy giảm](https://laodong.vn/kinh-doanh/phien-giao-dich-dau-tuan-gia-dau-tiep-tuc-suy-giam-1301206.ldo) - 01:03 05/02/2024
-- 😺 [Phim hành động “Badland Hunters” của Ma Dong Seok nhận khen chê trái chiều](https://laodong.vn/van-hoa-giai-tri/phim-hanh-dong-badland-hunters-cua-ma-dong-seok-nhan-khen-che-trai-chieu-1301152.ldo) - 01:00 05/02/2024
-- 🕴 [Gia tăng tỉ lệ người dân đến khám bệnh với mong muốn &quot;săn rồng vàng&quot;](https://laodong.vn/video/gia-tang-ti-le-nguoi-dan-den-kham-benh-voi-mong-muon-san-rong-vang-1301095.ldo) - 01:00 05/02/2024
-- 🌋 [Một số cách kết hợp với đi bộ để giảm cân hiệu quả](https://laodong.vn/suc-khoe/mot-so-cach-ket-hop-voi-di-bo-de-giam-can-hieu-qua-1299583.ldo) - 01:00 05/02/2024
-- 💄 [Tết Nguyên Đán Giáp Thìn, FE CREDIT  tung chương trình ưu đãi khủng trị giá lên tới hàng tỉ đồng](https://laodong.vn/kinh-doanh/tet-nguyen-dan-giap-thin-fe-credit-tung-chuong-trinh-uu-dai-khung-tri-gia-len-toi-hang-ti-dong-1300595.ldo) - 01:00 05/02/2024<!-- laodong:END -->
+- 🗽 [EU là đối tác ưu tiên hàng đầu trong chính sách đối ngoại của Việt Nam](https://laodong.vn/the-gioi/eu-la-doi-tac-uu-tien-hang-dau-trong-chinh-sach-doi-ngoai-cua-viet-nam-1301081.ldo) - 03:30 05/02/2024
+- 📝 [Bến xe ở Hà Nội lên phương án phục vụ hành khách cao điểm Tết](https://laodong.vn/xa-hoi/ben-xe-o-ha-noi-len-phuong-an-phuc-vu-hanh-khach-cao-diem-tet-1301104.ldo) - 03:30 05/02/2024
+- 🦏 [Cách lau dọn bàn thờ và tỉa chân hương đón Tết Giáp Thìn 2024 chuẩn nhất](https://laodong.vn/video-van-hoa-giai-tri/cach-lau-don-ban-tho-va-tia-chan-huong-don-tet-giap-thin-2024-chuan-nhat-1300526.ldo) - 03:29 05/02/2024
+- 🦩 [Danh sách 25 ao hồ nước ở Bình Dương bị cấm san lấp](https://laodong.vn/bat-dong-san/danh-sach-25-ao-ho-nuoc-o-binh-duong-bi-cam-san-lap-1301219.ldo) - 03:03 05/02/2024
+- 🦏 [Xác định sân tổ chức trận chung kết World Cup 2026](https://laodong.vn/the-thao/xac-dinh-san-to-chuc-tran-chung-ket-world-cup-2026-1301239.ldo) - 03:02 05/02/2024
+- 🧰 [Cầu thủ Việt kiều nên đá ở V.League hay nước ngoài?](https://laodong.vn/the-thao/cau-thu-viet-kieu-nen-da-o-vleague-hay-nuoc-ngoai-1301121.ldo) - 03:00 05/02/2024
+- 🌊 [Giải mã lý do phim Giữa cơn bão tuyết của Ngô Lỗi gây chú ý](https://laodong.vn/van-hoa-giai-tri/giai-ma-ly-do-phim-giua-con-bao-tuyet-cua-ngo-loi-gay-chu-y-1301167.ldo) - 02:54 05/02/2024
+- 🔥 [Rời Baby Monster trước khi nhóm ra mắt, Jane Wang và Vicky Wei giờ ra sao?](https://laodong.vn/van-hoa-giai-tri/roi-baby-monster-truoc-khi-nhom-ra-mat-jane-wang-va-vicky-wei-gio-ra-sao-1301216.ldo) - 02:46 05/02/2024
+- 🦒 [Mức phạt chủ tịch UBND huyện cố tình dùng ôtô công đưa đón đi làm hàng ngày](https://laodong.vn/xe/muc-phat-chu-tich-ubnd-huyen-co-tinh-dung-oto-cong-dua-don-di-lam-hang-ngay-1301207.ldo) - 02:41 05/02/2024
+- 💼 [Báo Australia ca ngợi 9 trải nghiệm tuyệt nhất khi du lịch Việt Nam](https://laodong.vn/van-hoa-giai-tri/bao-australia-ca-ngoi-9-trai-nghiem-tuyet-nhat-khi-du-lich-viet-nam-1301235.ldo) - 02:40 05/02/2024
+- 🤖 [4 cách chăm sóc, làm đẹp bản thân trước tuổi 40](https://laodong.vn/suc-khoe/4-cach-cham-soc-lam-dep-ban-than-truoc-tuoi-40-1300790.ldo) - 02:39 05/02/2024
+- 💪 [Joselu là một phước lành với Real Madrid](https://laodong.vn/bong-da-quoc-te/joselu-la-mot-phuoc-lanh-voi-real-madrid-1301146.ldo) - 02:33 05/02/2024
+- 👍 [Những chức danh không được dùng xe ô tô công đưa đón tận nhà](https://laodong.vn/ban-tin/nhung-chuc-danh-khong-duoc-dung-xe-o-to-cong-dua-don-tan-nha-1301176.ldo) - 02:32 05/02/2024
+- 💂 [Giá vàng và ngoại tệ 5.2: Vàng vẫn còn rủi ro](https://laodong.vn/video-kinh-te/gia-vang-va-ngoai-te-52-vang-van-con-rui-ro-1301226.ldo) - 02:32 05/02/2024
+- 🧰 [Niềm vui của công nhân Bắc Giang từ Tết Sum vầy](https://laodong.vn/ldld-bac-giang/niem-vui-cua-cong-nhan-bac-giang-tu-tet-sum-vay-1301123.ldo) - 02:25 05/02/2024
+- 🥷 [VFF, tuyển nữ Việt Nam tri ân huấn luyện viên Mai Đức Chung](https://laodong.vn/bong-da/vff-tuyen-nu-viet-nam-tri-an-huan-luyen-vien-mai-duc-chung-1301155.ldo) - 02:25 05/02/2024
+- 💫 [Công đoàn Hà Nội bố trí nhiều điểm đón CNLĐ trở lại làm việc](https://laodong.vn/ldld-tphn/cong-doan-ha-noi-bo-tri-nhieu-diem-don-cnld-tro-lai-lam-viec-1301129.ldo) - 02:24 05/02/2024
+- 🎭 [Hai chữ “miễn phí” ấm áp tình người](https://laodong.vn/nguoi-viet-tu-te/hai-chu-mien-phi-am-ap-tinh-nguoi-1301106.ldo) - 02:22 05/02/2024
+- 😎 [Tín hiệu tích cực về nhà ở xã hội](https://laodong.vn/bat-dong-san/tin-hieu-tich-cuc-ve-nha-o-xa-hoi-1301133.ldo) - 02:19 05/02/2024
+- 💄 [Việt Nam sẽ tiến đến hình thành hệ sinh thái năng lượng tái tạo](https://laodong.vn/thoi-su/viet-nam-se-tien-den-hinh-thanh-he-sinh-thai-nang-luong-tai-tao-1301134.ldo) - 02:16 05/02/2024
+- 🫣 [Mạnh tay với hành động bán độ](https://laodong.vn/the-thao/manh-tay-voi-hanh-dong-ban-do-1301114.ldo) - 02:15 05/02/2024
+- 🧑‍🏫 [Phương án đi lại cho người dân từ Hà Nội về quê dịp Tết để tránh ùn tắc](https://laodong.vn/infographic/phuong-an-di-lai-cho-nguoi-dan-tu-ha-noi-ve-que-dip-tet-de-tranh-un-tac-1296940.ldo) - 02:15 05/02/2024
+- 🦣 [Hưởng thụ](https://laodong.vn/van-hoa-giai-tri/huong-thu-1301111.ldo) - 02:14 05/02/2024
+- 💫 [Hệ lụy lớn của hành động nhỏ](https://laodong.vn/the-gioi/he-luy-lon-cua-hanh-dong-nho-1301080.ldo) - 02:12 05/02/2024
+- ⛽️ [Chuyến tàu công đoàn nghĩa tình đưa đoàn viên, công nhân về quê ăn Tết](https://laodong.vn/ldld-thanh-hoa/chuyen-tau-cong-doan-nghia-tinh-dua-doan-vien-cong-nhan-ve-que-an-tet-1301054.ldo) - 01:49 05/02/2024
+- 💫 [Khách du lịch tăng, Đà Nẵng tập trung nâng chất lượng tour](https://laodong.vn/van-hoa-giai-tri/khach-du-lich-tang-da-nang-tap-trung-nang-chat-luong-tour-1301118.ldo) - 01:44 05/02/2024
+- 🥸 [Đi chợ Tết Công đoàn, nữ công nhân trúng thưởng xe máy](https://laodong.vn/ldld-quang-ninh/di-cho-tet-cong-doan-nu-cong-nhan-trung-thuong-xe-may-1301126.ldo) - 01:42 05/02/2024
+- 🐻 [Hơn 500 gia đình công nhân về quê ăn Tết trên Chuyến tàu mùa xuân](https://laodong.vn/photo/hon-500-gia-dinh-cong-nhan-ve-que-an-tet-tren-chuyen-tau-mua-xuan-1301172.ldo) - 01:40 05/02/2024
+- 🪄 [Đào hiếm khoe sắc ở vựa hoa lớn nhất Vĩnh Phúc](https://laodong.vn/xa-hoi/dao-hiem-khoe-sac-o-vua-hoa-lon-nhat-vinh-phuc-1301175.ldo) - 01:32 05/02/2024
+- 🧑‍🏫 [Kho vẫn còn ôtô sản xuất 2022, đại lý tung giảm giá sâu](https://laodong.vn/xe/kho-van-con-oto-san-xuat-2022-dai-ly-tung-giam-gia-sau-1301164.ldo) - 01:28 05/02/2024
+- 🌊 [Gói bánh chưng theo phong cách truyền thống trong ngôi nhà cổ ở Hà Nội](https://laodong.vn/photo/goi-banh-chung-theo-phong-cach-truyen-thong-trong-ngoi-nha-co-o-ha-noi-1301182.ldo) - 01:27 05/02/2024
+- 💻 [Nhịp điều chỉnh không ảnh hưởng đến đà tăng của chứng khoán](https://laodong.vn/kinh-doanh/nhip-dieu-chinh-khong-anh-huong-den-da-tang-cua-chung-khoan-1301208.ldo) - 01:26 05/02/2024
+- 👨‍🏫 [Đề xuất cộng điểm trong tuyển sinh lớp 10](https://laodong.vn/giao-duc/de-xuat-cong-diem-trong-tuyen-sinh-lop-10-1301101.ldo) - 01:24 05/02/2024
+- 🌈 [Trường đại học nỗ lực thưởng Tết cao hơn năm trước](https://laodong.vn/giao-duc/truong-dai-hoc-no-luc-thuong-tet-cao-hon-nam-truoc-1301099.ldo) - 01:21 05/02/2024
+- 🐲 [Chuyên gia dự báo bất ngờ, giá vàng có nguy cơ lao dốc](https://laodong.vn/tien-te-dau-tu/chuyen-gia-du-bao-bat-ngo-gia-vang-co-nguy-co-lao-doc-1301170.ldo) - 01:17 05/02/2024
+- 🚀 [Cái kết cho hoa hậu duy nhất của Chị đẹp đạp gió rẽ sóng](https://laodong.vn/van-hoa-giai-tri/cai-ket-cho-hoa-hau-duy-nhat-cua-chi-dep-dap-gio-re-song-1300944.ldo) - 01:13 05/02/2024
+- 😺 [Phi hành gia Nga lập kỷ lục mới trong vũ trụ](https://laodong.vn/the-gioi/phi-hanh-gia-nga-lap-ky-luc-moi-trong-vu-tru-1301204.ldo) - 01:11 05/02/2024
+- 🕴 [Câu chuyện đưa trái vú sữa vượt &quot;ao làng&quot; thu ngoại tệ](https://laodong.vn/kinh-doanh/cau-chuyen-dua-trai-vu-sua-vuot-ao-lang-thu-ngoai-te-1301091.ldo) - 01:09 05/02/2024
+- 🌋 [Phiên giao dịch đầu tuần, giá dầu tiếp tục suy giảm](https://laodong.vn/kinh-doanh/phien-giao-dich-dau-tuan-gia-dau-tiep-tuc-suy-giam-1301206.ldo) - 01:03 05/02/2024
+- 💄 [Phim hành động “Badland Hunters” của Ma Dong Seok nhận khen chê trái chiều](https://laodong.vn/van-hoa-giai-tri/phim-hanh-dong-badland-hunters-cua-ma-dong-seok-nhan-khen-che-trai-chieu-1301152.ldo) - 01:00 05/02/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
