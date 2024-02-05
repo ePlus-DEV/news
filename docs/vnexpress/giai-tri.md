@@ -10,7 +10,7 @@ sidebar_position: 5
 - 🧠 [Taylor Swift đeo vòng cổ đồng hồ ở Grammy](https://vnexpress.net/taylor-swift-deo-vong-co-dong-ho-o-grammy-4708828.html) - 03:15 05/02/2024
 - 👨‍🏫 [Brad Pitt thắng Angelina Jolie trong vụ kiện điền trang](https://vnexpress.net/brad-pitt-thang-angelina-jolie-trong-vu-kien-dien-trang-4708819.html) - 02:37 05/02/2024
 - ⚗️ [Miley Cyrus &#39;mặc như không&#39; bên dàn sao Grammy](https://vnexpress.net/miley-cyrus-mac-nhu-khong-ben-dan-sao-grammy-4708749.html) - 00:56 05/02/2024
-- 😎 [Taylor Swift làm nên lịch sử ở Grammy 2024](https://vnexpress.net/taylor-swift-lam-nen-lich-su-o-grammy-2024-4708731.html) - 00:47 05/02/2024
+- 😎 [Taylor Swift làm nên lịch sử ở Grammy 2024](https://vnexpress.net/taylor-swift-lam-nen-lich-su-o-grammy-2024-4708731-tong-thuat.html) - 00:47 05/02/2024
 - 🫣 [Á hậu Hoàng My: &#39;Tôi chiến đấu với bệnh tật để có con đầu lòng&#39;](https://vnexpress.net/a-hau-hoang-my-toi-chien-dau-voi-benh-tat-de-co-con-dau-long-4708551.html) - 17:00 04/02/2024
 - 🪄 [Diễn viên &#39;American Fiction&#39;: Robert Downey Jr. xứng đáng đoạt Oscar](https://vnexpress.net/dien-vien-american-fiction-robert-downey-jr-xung-dang-doat-oscar-4708540.html) - 14:18 04/02/2024
 - 🤓 [Gia đình Khánh Thi - Phan Hiển quây quần chụp ảnh Tết](https://vnexpress.net/gia-dinh-khanh-thi-phan-hien-quay-quan-chup-anh-tet-4708658.html) - 13:00 04/02/2024
