@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [SZA diện đầm cảm hứng thần vệ nữ của Đỗ Long tại Grammy](https://vnexpress.net/sza-dien-dam-cam-hung-than-ve-nu-cua-do-long-tai-grammy-4708950.html) - 10:39 05/02/2024
+- 🌏 [SZA diện đầm &#39;thần vệ nữ&#39; của Đỗ Long tại Grammy](https://vnexpress.net/sza-dien-dam-than-ve-nu-cua-do-long-tai-grammy-4708950.html) - 10:39 05/02/2024
 - 💫 [Tranh The Beatles vẽ giá hơn 1,7 triệu USD](https://vnexpress.net/tranh-the-beatles-ve-gia-hon-1-7-trieu-usd-4709013.html) - 09:23 05/02/2024
 - 🌮 [&#39;Gặp lại chị Bầu&#39; mở màn gần 9 tỷ đồng](https://vnexpress.net/gap-lai-chi-bau-mo-man-gan-9-ty-dong-4708989.html) - 07:49 05/02/2024
 - 🧠 [Đổng Tuyền tìm bạn đời](https://vnexpress.net/dong-tuyen-tim-ban-doi-4708951.html) - 07:11 05/02/2024
