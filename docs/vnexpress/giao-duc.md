@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nhiều đại học Anh bị tố hạ chuẩn đầu vào với sinh viên quốc tế](https://vnexpress.net/nhieu-dai-hoc-anh-bi-to-ha-chuan-dau-vao-voi-sinh-vien-quoc-te-4708514.html) - 23:54 04/02/2024
+- 🤓 [Loạt đại học Anh bị tố hạ chuẩn đầu vào với sinh viên quốc tế](https://vnexpress.net/loat-dai-hoc-anh-bi-to-ha-chuan-dau-vao-voi-sinh-vien-quoc-te-4708514.html) - 23:54 04/02/2024
 - 🦆 [Có nên thi lại ngành Y sau khi tốt nghiệp Công nghệ thông tin?](https://vnexpress.net/co-nen-thi-lai-nganh-y-sau-khi-tot-nghiep-cong-nghe-thong-tin-4708605.html) - 17:00 04/02/2024
 - 🦩 [Ai là vị vua duy nhất trong lịch sử Việt Nam lên ngôi hai lần?](https://vnexpress.net/ai-la-vi-vua-duy-nhat-trong-lich-su-viet-nam-len-ngoi-hai-lan-4708601.html) - 13:01 04/02/2024
 - 🌮 [6 trường Sư phạm tiếp tục xét tuyển học bạ](https://vnexpress.net/6-truong-su-pham-tiep-tuc-xet-tuyen-hoc-ba-4708131.html) - 06:03 04/02/2024
