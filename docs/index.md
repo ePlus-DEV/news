@@ -571,7 +571,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Mọi ngả đường, tuyến phố Thủ đô tắc cứng trong chiều 27 Tết](https://tienphong.vn/moi-nga-duong-tuyen-pho-thu-do-tac-cung-trong-chieu-27-tet-post1610750.tpo) - 18:00 06/02/2024
+- 💼 [Hà Nội tắc mọi ngả đường chiều 27 tết](https://tienphong.vn/ha-noi-tac-moi-nga-duong-chieu-27-tet-post1610750.tpo) - 18:00 06/02/2024
 - 🎊 [Bộ Công an lấy ý kiến các nhà khoa học về công nghệ sinh trắc học ADN phục vụ triển khai Luật Căn cước](https://tienphong.vn/bo-cong-an-lay-y-kien-cac-nha-khoa-hoc-ve-cong-nghe-sinh-trac-hoc-adn-phuc-vu-trien-khai-luat-can-cuoc-post1610729.tpo) - 17:36 06/02/2024
 - 💼 [Chuyến xe nghĩa tình 0 đồng đưa bệnh nhân nghèo về quê ăn Tết](https://tienphong.vn/chuyen-xe-nghia-tinh-0-dong-dua-benh-nhan-ngheo-ve-que-an-tet-post1610736.tpo) - 17:25 06/02/2024
 - 👺 [Bản tin Hình sự: Chân dung kẻ cầm đầu đường dây bán nội tạng tiền tỷ](https://tienphong.vn/ban-tin-hinh-su-chan-dung-ke-cam-dau-duong-day-ban-noi-tang-tien-ty-post1610731.tpo) - 17:24 06/02/2024
