@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Ronaldinho, Henry dự &#39;World Cup cho cầu thủ trên 35 tuổi&#39;](https://vnexpress.net/ronaldinho-henry-du-world-cup-cho-cau-thu-tren-35-tuoi-4709650.html) - 17:01 06/02/2024
-- 🦩 [Hàn Quốc bị loại ở bán kết Asian Cup](https://vnexpress.net/truc-tiep-jordan-vs-han-quoc-4709629.html) - 14:17 06/02/2024
+- 🦩 [Hàn Quốc bị loại ở bán kết Asian Cup](https://vnexpress.net/truc-tiep-jordan-vs-han-quoc-4709629-tong-thuat.html) - 14:17 06/02/2024
 - 🧰 [Ngoại hạng Anh lập kỷ lục mới về số bàn trong một vòng](https://vnexpress.net/ngoai-hang-anh-lap-ky-luc-moi-ve-so-ban-trong-mot-vong-4709608.html) - 12:13 06/02/2024
 - 🤗 [Golfer Thụy Điển áp sát Woods trong chiến tích tăng bậc thế giới](https://vnexpress.net/golfer-thuy-dien-ap-sat-woods-trong-chien-tich-tang-bac-the-gioi-4709609.html) - 12:08 06/02/2024
 - 🥳 [Mbappe sẵn sàng từ bỏ 86 triệu USD để đến Real](https://vnexpress.net/mbappe-san-sang-tu-bo-86-trieu-usd-de-den-real-4709601.html) - 11:59 06/02/2024
