@@ -25,7 +25,7 @@ sidebar_position: 9
 - 💪 [5 người được ân giảm án tử hình xuống tù chung thân](https://vnexpress.net/5-nguoi-duoc-an-giam-an-tu-hinh-xuong-tu-chung-than-4709616.html) - 15:57 06/02/2024
 - 🎓 [Việt Nam sẽ hỗ trợ đại diện thường trú Vatican hoàn thành nhiệm vụ](https://vnexpress.net/viet-nam-se-ho-tro-dai-dien-thuong-tru-vatican-hoan-thanh-nhiem-vu-4709638.html) - 15:05 06/02/2024
 - 🫣 [Bộ Văn hóa yêu cầu giám sát chặt lễ hội đông người](https://vnexpress.net/bo-van-hoa-yeu-cau-giam-sat-chat-le-hoi-dong-nguoi-4709621.html) - 14:39 06/02/2024
-- 🧑‍💻 [Hàn Quốc bị loại ở bán kết Asian Cup](https://vnexpress.net/truc-tiep-jordan-vs-han-quoc-4709629.html) - 14:17 06/02/2024
+- 🧑‍💻 [Hàn Quốc bị loại ở bán kết Asian Cup](https://vnexpress.net/truc-tiep-jordan-vs-han-quoc-4709629-tong-thuat.html) - 14:17 06/02/2024
 - 🐲 [Thái Lan sẽ cấm sử dụng cần sa để giải trí](https://vnexpress.net/thai-lan-se-cam-su-dung-can-sa-de-giai-tri-4709630.html) - 14:14 06/02/2024
 - 🌝 [Anh có suy nghĩ theo số ít](https://vnexpress.net/anh-co-suy-nghi-theo-so-it-4709324.html) - 14:00 06/02/2024
 - 😺 [Chồng không vui khi tôi kiếm được tiền](https://vnexpress.net/chong-khong-vui-khi-toi-kiem-duoc-tien-4709221.html) - 14:00 06/02/2024
