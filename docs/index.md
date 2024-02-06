@@ -71,8 +71,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚦 [VinFast triệu hồi VF 5 Plus sửa lỗi đèn pha tắt khi bật xi-nhan](https://vnexpress.net/vinfast-trieu-hoi-vf-5-plus-sua-loi-den-pha-tat-khi-bat-xi-nhan-4709472.html) - 09:31 06/02/2024
 - 🕯 [Linh vật Giáp Thìn xứ Huế lấy cảm hứng từ rồng thời Nguyễn](https://vnexpress.net/linh-vat-giap-thin-xu-hue-lay-cam-hung-tu-rong-thoi-nguyen-4709481.html) - 09:30 06/02/2024
 - 💪 [Quan lại Trung Quốc thời xưa nghỉ Tết thế nào](https://vnexpress.net/quan-lai-trung-quoc-thoi-xua-nghi-tet-the-nao-4709464.html) - 09:04 06/02/2024
-- 🧑‍🏫 [Thị trưởng Kiev cảnh báo ông Zelensky về kế hoạch sa thải tổng tư lệnh](https://vnexpress.net/thi-truong-kiev-canh-bao-ong-zelensky-ve-ke-hoach-sa-thai-tong-tu-lenh-4709450.html) - 09:00 06/02/2024
-- 🎓 [4 điều nên thực hiện trước năm mới](https://vnexpress.net/4-dieu-nen-thuc-hien-truoc-nam-moi-4709528.html) - 09:00 06/02/2024<!-- vnexpress:END -->
+- 🧑‍🏫 [Thị trưởng Kiev cảnh báo ông Zelensky về kế hoạch sa thải tổng tư lệnh](https://vnexpress.net/thi-truong-kiev-canh-bao-ong-zelensky-ve-ke-hoach-sa-thai-tong-tu-lenh-4709450.html) - 09:00 06/02/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
