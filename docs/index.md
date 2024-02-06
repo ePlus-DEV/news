@@ -27,7 +27,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Bộ Văn hóa yêu cầu giám sát chặt lễ hội đông người](https://vnexpress.net/bo-van-hoa-yeu-cau-giam-sat-chat-le-hoi-dong-nguoi-4709621.html) - 14:39 06/02/2024
-- 🧰 [Jordan 0-0 Hàn Quốc &lpar;H1&rpar;: Son Heung-min đá chính](https://vnexpress.net/truc-tiep-jordan-vs-han-quoc-4709629.html) - 14:17 06/02/2024
+- 🧰 [Jordan - Hàn Quốc: Son Heung-min đá chính](https://vnexpress.net/truc-tiep-jordan-vs-han-quoc-4709629.html) - 14:17 06/02/2024
 - 🥰 [Thái Lan sẽ cấm sử dụng cần sa để giải trí](https://vnexpress.net/thai-lan-se-cam-su-dung-can-sa-de-giai-tri-4709630.html) - 14:14 06/02/2024
 - 🌏 [Anh có suy nghĩ theo số ít](https://vnexpress.net/anh-co-suy-nghi-theo-so-it-4709324.html) - 14:00 06/02/2024
 - 🧐 [Chồng không vui khi tôi kiếm được tiền](https://vnexpress.net/chong-khong-vui-khi-toi-kiem-duoc-tien-4709221.html) - 14:00 06/02/2024
@@ -71,7 +71,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚦 [VinFast triệu hồi VF 5 Plus sửa lỗi đèn pha tắt khi bật xi-nhan](https://vnexpress.net/vinfast-trieu-hoi-vf-5-plus-sua-loi-den-pha-tat-khi-bat-xi-nhan-4709472.html) - 09:31 06/02/2024
 - 🕯 [Linh vật Giáp Thìn xứ Huế lấy cảm hứng từ rồng thời Nguyễn](https://vnexpress.net/linh-vat-giap-thin-xu-hue-lay-cam-hung-tu-rong-thoi-nguyen-4709481.html) - 09:30 06/02/2024
 - 💪 [Quan lại Trung Quốc thời xưa nghỉ Tết thế nào](https://vnexpress.net/quan-lai-trung-quoc-thoi-xua-nghi-tet-the-nao-4709464.html) - 09:04 06/02/2024
-- 🧑‍🏫 [Thị trưởng Kiev cảnh báo ông Zelensky về kế hoạch sa thải tổng tư lệnh](https://vnexpress.net/thi-truong-kiev-canh-bao-ong-zelensky-ve-ke-hoach-sa-thai-tong-tu-lenh-4709450.html) - 09:00 06/02/2024<!-- vnexpress:END -->
+- 🧑‍🏫 [Thị trưởng Kiev cảnh báo ông Zelensky về kế hoạch sa thải tổng tư lệnh](https://vnexpress.net/thi-truong-kiev-canh-bao-ong-zelensky-ve-ke-hoach-sa-thai-tong-tu-lenh-4709450.html) - 09:00 06/02/2024
+- 🎓 [4 điều nên thực hiện trước năm mới](https://vnexpress.net/4-dieu-nen-thuc-hien-truoc-nam-moi-4709528.html) - 09:00 06/02/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
