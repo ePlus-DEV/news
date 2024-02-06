@@ -20,7 +20,7 @@ sidebar_position: 7
 - 🧰 [6 trường Sư phạm tiếp tục xét tuyển học bạ](https://vnexpress.net/6-truong-su-pham-tiep-tuc-xet-tuyen-hoc-ba-4708131.html) - 06:03 04/02/2024
 - 🧑‍💻 [Nên chuyển từ ngành Khoa học máy tính sang Kinh tế không?](https://vnexpress.net/nen-chuyen-tu-nganh-khoa-hoc-may-tinh-sang-kinh-te-khong-4708424.html) - 01:32 04/02/2024
 - 🫶 [Giành học bổng thạc sĩ toàn phần nhờ email gửi hiệu trưởng](https://vnexpress.net/gianh-hoc-bong-thac-si-toan-phan-nho-email-gui-hieu-truong-4703308.html) - 01:20 04/02/2024
-- 🪜 [Thành nữ sinh giỏi ở Bách khoa sau khi trượt trường Kinh tế](https://vnexpress.net/thanh-nu-sinh-gioi-o-bach-khoa-sau-khi-truot-truong-kinh-te-4708081.html) - 00:46 04/02/2024
+- 🪜 [Thành nữ sinh giỏi ở Bách khoa sau khi trượt nguyện vọng 1](https://vnexpress.net/thanh-nu-sinh-gioi-o-bach-khoa-sau-khi-truot-nguyen-vong-1-4708081.html) - 00:46 04/02/2024
 - 🎊 [Bánh chưng gù là đặc sản ở tỉnh nào?](https://vnexpress.net/banh-chung-gu-la-dac-san-o-tinh-nao-4708414.html) - 13:00 03/02/2024
 - 🧐 [Nữ sinh đánh bạn chảy máu mặt bị đình chỉ học 6 ngày](https://vnexpress.net/nu-sinh-danh-ban-chay-mau-mat-bi-dinh-chi-hoc-6-ngay-4708428.html) - 11:27 03/02/2024
 - 🌈 [6 lưu ý ở vòng phỏng vấn đại học Mỹ](https://vnexpress.net/6-luu-y-o-vong-phong-van-dai-hoc-my-4708125.html) - 07:26 03/02/2024
