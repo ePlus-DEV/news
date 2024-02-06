@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Klinsmann cảm thấy Hàn Quốc giống Argentina ở World Cup 2022](https://vnexpress.net/klinsmann-cam-thay-han-quoc-giong-argentina-o-world-cup-2022-4709369.html) - 04:34 06/02/2024
 - 🦩 [Kipchoge không ngán chạy đua với Kiptum](https://vnexpress.net/kipchoge-khong-ngan-chay-dua-voi-kiptum-4709349.html) - 03:44 06/02/2024
 - 🧰 [Nạn nhân lo không được tin tưởng khi tố cáo Dani Alves](https://vnexpress.net/nan-nhan-lo-khong-duoc-tin-tuong-khi-to-cao-dani-alves-4709332.html) - 03:25 06/02/2024
-- 🤗 [Nỗi lo thế hệ trong giấc mơ World Cup](https://vnexpress.net/noi-lo-the-he-trong-giac-mo-world-cup-4709161.html) - 02:45 06/02/2024
+- 🤗 [Tuyển Việt Nam tìm chân đế cho giấc mơ World Cup](https://vnexpress.net/tuyen-viet-nam-tim-chan-de-cho-giac-mo-world-cup-4709161.html) - 02:45 06/02/2024
 - 🥳 [Djokovic, Nadal dự ‘Grand Slam mới’](https://vnexpress.net/djokovic-nadal-du-grand-slam-moi-4709262.html) - 02:43 06/02/2024
 - 🦣 [Djokovic hết hy vọng đoạt Davis Cup 2024](https://vnexpress.net/djokovic-het-hy-vong-doat-davis-cup-2024-4709293.html) - 01:44 06/02/2024
 - 🌜 [Roma thắng ba trận liên tiếp sau khi sa thải Mourinho](https://vnexpress.net/roma-thang-ba-tran-lien-tiep-sau-khi-sa-thai-mourinho-4709197.html) - 00:50 06/02/2024
