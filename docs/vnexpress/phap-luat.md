@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Có nên trả tiền nhận chuyển khoản nhầm, khi công an không chứng kiến?](https://vnexpress.net/co-nen-tra-tien-nhan-chuyen-khoan-nham-khi-cong-an-khong-chung-kien-4709167.html) - 18:01 05/02/2024
 - 🥰 [Chiêu dìm giá đất ở Đông Anh của Chủ tịch Vimedimex](https://vnexpress.net/chieu-dim-gia-dat-o-dong-anh-cua-chu-tich-vimedimex-4709152.html) - 17:50 05/02/2024
 - 🎓 [Đâm chết người sau va chạm giao thông suýt ngã](https://vnexpress.net/dam-chet-nguoi-sau-va-cham-giao-thong-suyt-nga-4709124.html) - 17:37 05/02/2024
-- 🤓 [Thanh niên vờ đổi tiền mới cướp 120 triệu đồng](https://video.vnexpress.net/thanh-nien-vo-doi-tien-moi-cuop-120-trieu-dong-4709144.html) - 15:56 05/02/2024
+- 🤓 [Thanh niên dùng súng giả cướp 120 triệu đồng](https://video.vnexpress.net/thanh-nien-dung-sung-gia-cuop-120-trieu-dong-4709144.html) - 15:56 05/02/2024
 - 🎊 [Băng nhóm bảo kê lập nơi buôn bán sát chợ đầu mối Long Biên bị bắt](https://vnexpress.net/bang-nhom-bao-ke-lap-noi-buon-ban-sat-cho-dau-moi-long-bien-bi-bat-4709149.html) - 14:26 05/02/2024
 - 🙉 [Án mạng tại tiệc sinh nhật](https://vnexpress.net/an-mang-tai-tiec-sinh-nhat-4709079.html) - 10:23 05/02/2024
 - 🤡 [Nghi phạm phi tang thi thể người nước ngoài ở Phan Thiết là ai?](https://vnexpress.net/nghi-pham-phi-tang-thi-the-nguoi-nuoc-ngoai-o-phan-thiet-la-ai-4709007.html) - 08:53 05/02/2024
