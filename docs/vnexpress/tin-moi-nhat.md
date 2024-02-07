@@ -56,5 +56,4 @@ sidebar_position: 9
 - 🦩 [&#39;Đi về phía lửa&#39; - phim nghề cứu hỏa hé lộ hậu trường](https://vnexpress.net/di-ve-phia-lua-phim-nghe-cuu-hoa-he-lo-hau-truong-4709272.html) - 12:00 07/02/2024
 - 👍 [‘Chúc Tết là văn hóa đặc sắc của người Việt’](https://vnexpress.net/chuc-tet-la-van-hoa-dac-sac-cua-nguoi-viet-4708295.html) - 12:00 07/02/2024
 - 🔥 [Thụy Điển dừng điều tra vụ Nord Stream bị phá hoại](https://vnexpress.net/thuy-dien-dung-dieu-tra-vu-nord-stream-bi-pha-hoai-4710010.html) - 11:44 07/02/2024
-- 💄 [Sao Việt nấu bánh, trang hoàng nhà cửa đón Tết](https://vnexpress.net/sao-viet-nau-banh-trang-hoang-nha-cua-don-tet-4709692.html) - 11:21 07/02/2024
-- 🤡 [Cửa ngõ Hà Nội, TP HCM đông nghịt người về quê ăn Tết](https://vnexpress.net/cua-ngo-ha-noi-tp-hcm-dong-nghit-nguoi-ve-que-an-tet-4710025.html) - 11:06 07/02/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 💄 [Sao Việt nấu bánh, trang hoàng nhà cửa đón Tết](https://vnexpress.net/sao-viet-nau-banh-trang-hoang-nha-cua-don-tet-4709692.html) - 11:21 07/02/2024<!-- vnexpress-tin-moi-nhat:END -->
