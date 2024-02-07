@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Nỗi oan của cô gái nghi dùng &#39;khổ nhục kế&#39; để được nổi tiếng](https://vnexpress.net/noi-oan-cua-co-gai-nghi-dung-kho-nhuc-ke-de-duoc-noi-tieng-4709589.html) - 17:00 06/02/2024
-- 🥰 [Bà lão 65 tuổi kiện công ty vì &#39;phân biệt tuổi&#39; trong công việc](https://vnexpress.net/ba-lao-65-tuoi-kien-cong-ty-vi-phan-biet-tuoi-trong-cong-viec-4709444.html) - 17:00 06/02/2024
+- 🥰 [Người phụ nữ 65 tuổi kiện công ty vì &#39;phân biệt tuổi&#39; trong công việc](https://vnexpress.net/ba-lao-65-tuoi-kien-cong-ty-vi-phan-biet-tuoi-trong-cong-viec-4709444.html) - 17:00 06/02/2024
 - 🎓 [Con 10 tuổi chết sau khi ăn quà vặt, cha mẹ kiện đứa trẻ chia quà](https://vnexpress.net/con-10-tuoi-chet-sau-khi-an-qua-vat-cha-me-kien-dua-tre-chia-qua-4709632.html) - 16:08 06/02/2024
 - 🤓 [5 người được ân giảm án tử hình xuống tù chung thân](https://vnexpress.net/5-nguoi-duoc-an-giam-an-tu-hinh-xuong-tu-chung-than-4709616.html) - 15:57 06/02/2024
 - 🎊 [Chủ tiệm vàng bị bắt sau một năm &#39;vỡ hụi&#39;](https://vnexpress.net/chu-tiem-vang-bi-bat-sau-mot-nam-vo-hui-4709502.html) - 08:55 06/02/2024
