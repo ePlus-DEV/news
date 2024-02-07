@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Nhà xưởng 1.000 m2 bị thiêu rụi](https://vnexpress.net/nha-xuong-1-000-m2-bi-thieu-rui-4709776.html) - 02:57 07/02/2024
-- 🤓 [&#39;Nâng chiều cao khu tập thể Trung Tự là phù hợp&#39;](https://vnexpress.net/nang-chieu-cao-khu-tap-the-trung-tu-la-phu-hop-4709677.html) - 02:17 07/02/2024
+- 🤓 [Sở Quy hoạch và Kiến trúc Hà Nội: &#39;Nâng chiều cao tập thể Trung Tự là phù hợp&#39;](https://vnexpress.net/so-quy-hoach-va-kien-truc-ha-noi-nang-chieu-cao-tap-the-trung-tu-la-phu-hop-4709677.html) - 02:17 07/02/2024
 - ⚗️ [Ôtô bắt đầu được chạy 90 km/h trên 6 đoạn cao tốc](https://vnexpress.net/oto-bat-dau-duoc-chay-90-km-h-tren-6-doan-cao-toc-4709667.html) - 01:44 07/02/2024
 - 🌊 [Nhiều nông dân Sa Đéc đón Tết buồn vì hoa ế ẩm](https://vnexpress.net/nhieu-nong-dan-sa-dec-don-tet-buon-vi-hoa-e-am-4709599.html) - 22:00 06/02/2024
 - 🎓 [Tình nguyện làm hộ lan ở khúc cua &#39;tử thần&#39;](https://vnexpress.net/tinh-nguyen-lam-ho-lan-o-khuc-cua-tu-than-4706839.html) - 17:42 06/02/2024
