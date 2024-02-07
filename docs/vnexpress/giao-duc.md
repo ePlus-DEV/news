@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Trương tư Hà Nội rục rịch tuyển sinh lớp 1](https://vnexpress.net/truong-tu-ha-noi-ruc-rich-tuyen-sinh-lop-1-4709413.html) - 23:00 06/02/2024
+- 🤓 [Trường tư Hà Nội rục rịch tuyển sinh lớp 1](https://vnexpress.net/truong-tu-ha-noi-ruc-rich-tuyen-sinh-lop-1-4709413.html) - 23:00 06/02/2024
 - 🦆 [Thương cảng đầu tiên của Việt Nam ở tỉnh nào?](https://vnexpress.net/thuong-cang-dau-tien-cua-viet-nam-o-tinh-nao-4708487.html) - 13:15 06/02/2024
 - 🦩 [Phát hiện trường đại học tuyển vượt tới 700% chỉ tiêu](https://vnexpress.net/phat-hien-truong-dai-hoc-tuyen-vuot-toi-700-chi-tieu-4709375.html) - 06:12 06/02/2024
 - 🌮 [Đại học Ivy League đầu tiên yêu cầu điểm SAT trở lại](https://vnexpress.net/dai-hoc-ivy-league-dau-tien-yeu-cau-diem-sat-tro-lai-4709289.html) - 05:35 06/02/2024
