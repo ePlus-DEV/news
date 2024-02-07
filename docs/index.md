@@ -574,9 +574,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Sân bay Tân Sơn Nhất thông thoáng bất ngờ vào ngày 28 Tết](https://tienphong.vn/san-bay-tan-son-nhat-thong-thoang-bat-ngo-vao-ngay-28-tet-post1610954.tpo) - 16:35 07/02/2024
+- 💼 [Sân bay Tân Sơn Nhất thông thoáng bất ngờ ngày 28 Tết](https://tienphong.vn/san-bay-tan-son-nhat-thong-thoang-bat-ngo-ngay-28-tet-post1610954.tpo) - 16:35 07/02/2024
 - 🎊 [Quan chức Hàn Quốc kêu gọi bổ nhiệm HLV Park Hang-seo thay Klinsmann](https://tienphong.vn/quan-chuc-han-quoc-keu-goi-bo-nhiem-hlv-park-hang-seo-thay-klinsmann-post1610961.tpo) - 16:34 07/02/2024
-- 💼 [28 Tết, chợ hoa lớn nhất Buôn Ma Thuột giá giảm sâu, &#39;bán tặng&#39; vẫn vắng hoe khách](https://tienphong.vn/28-tet-cho-hoa-lon-nhat-buon-ma-thuot-gia-giam-sau-ban-tang-van-vang-hoe-khach-post1610953.tpo) - 16:33 07/02/2024
+- 💼 [28 Tết, chợ hoa lớn nhất Buôn Ma Thuột giá giảm sâu, &#39;bán tặng&#39; vẫn vắng hoe](https://tienphong.vn/28-tet-cho-hoa-lon-nhat-buon-ma-thuot-gia-giam-sau-ban-tang-van-vang-hoe-post1610953.tpo) - 16:33 07/02/2024
 - 👺 [Mới 28 Tết đào quất đã &#39;đổ&#39; ra đường, chỉ 80.000 đồng/cây](https://tienphong.vn/moi-28-tet-dao-quat-da-do-ra-duong-chi-80000-dongcay-post1610942.tpo) - 16:31 07/02/2024
 - 💪 [Người dân đổ dồn về quê nghỉ lễ, đường phố Hà Nội đông nghịt chiều 28 Tết](https://tienphong.vn/nguoi-dan-do-don-ve-que-nghi-le-duong-pho-ha-noi-dong-nghit-chieu-28-tet-post1610957.tpo) - 16:28 07/02/2024
 - 💃 [Mai vàng Bình Định khoe sắc &#39;níu chân&#39; khách đi đường](https://tienphong.vn/mai-vang-binh-dinh-khoe-sac-niu-chan-khach-di-duong-post1610932.tpo) - 16:27 07/02/2024
