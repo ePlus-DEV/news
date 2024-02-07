@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Đường dây môi giới thiếu nữ 15 tuổi bán dâm bị phát hiện](https://vnexpress.net/duong-day-moi-gioi-thieu-nu-15-tuoi-ban-dam-bi-phat-hien-4710081.html) - 12:45 07/02/2024
-- 🥰 [Người phụ nữ đâm chết &#39;chồng hờ&#39; trẻ tuổi](https://vnexpress.net/nguoi-phu-nu-dam-chet-chong-ho-kem-12-tuoi-4710079.html) - 12:28 07/02/2024
+- 🥰 [Người phụ nữ đâm chết &#39;chồng hờ&#39; trẻ tuổi](https://vnexpress.net/nguoi-phu-nu-dam-chet-chong-ho-tre-tuoi-4710079.html) - 12:28 07/02/2024
 - 🎓 [Mỹ lần đầu xét xử cả phụ huynh khi con xả súng tại trường](https://vnexpress.net/my-lan-dau-xet-xu-ca-phu-huynh-khi-con-xa-sung-tai-truong-4710058.html) - 12:23 07/02/2024
 - 🤓 [Đưa tiền cho vợ sắm Tết từ việc giật dây chuyền vàng](https://vnexpress.net/dua-tien-cho-vo-sam-tet-tu-viec-giat-day-chuyen-vang-4710049.html) - 12:15 07/02/2024
 - 🎊 [Cướp ngân hàng bằng súng ở Lâm Đồng](https://vnexpress.net/cuop-ngan-hang-bang-sung-o-lam-dong-4710046.html) - 10:16 07/02/2024
