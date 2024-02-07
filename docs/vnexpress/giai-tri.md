@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Ấn 2.000 năm tuổi của hoàng hậu được nhặt từ vũng bùn](https://vnexpress.net/an-2-000-nam-tuoi-cua-hoang-hau-duoc-nhat-tu-vung-bun-4709002.html) - 17:00 06/02/2024
-- 💫 [Street style dạo phố xuân của Lý Nhã Kỳ](https://vnexpress.net/street-style-dao-pho-xuan-cua-ly-nha-ky-4709545.html) - 13:00 06/02/2024
-- 🌮 [Những công việc bị ​​AI đe dọa ở Hollywood](https://vnexpress.net/nhung-cong-viec-bi-ai-de-doa-o-hollywood-4708602.html) - 12:00 06/02/2024
-- 🧠 [Miley Cyrus hôn bạn trai kém sáu tuổi tại Grammy](https://vnexpress.net/miley-cyrus-hon-ban-trai-kem-sau-tuoi-tai-grammy-4709462.html) - 08:31 06/02/2024
-- 👨‍🏫 [Phương Thảo, Ngọc Lễ hát cùng học trò nhí trong MV Tết](https://vnexpress.net/phuong-thao-ngoc-le-hat-cung-hoc-tro-nhi-trong-mv-tet-4709331.html) - 07:38 06/02/2024
-- ⚗️ [Sách về địa lý hành chính và tập quán người Việt trước 1945](https://vnexpress.net/sach-ve-dia-ly-hanh-chinh-va-tap-quan-nguoi-viet-truoc-1945-4709055.html) - 04:45 06/02/2024
-- 😎 [Tài tử &#39;Người trong giang hồ&#39; mất tài sản sau ly hôn](https://vnexpress.net/tai-tu-nguoi-trong-giang-ho-mat-tai-san-sau-ly-hon-4709309.html) - 04:18 06/02/2024
-- 🫣 [Khán phòng Grammy vỡ òa khi thấy Celine Dion](https://vnexpress.net/khan-phong-grammy-vo-oa-khi-thay-celine-dion-4709283.html) - 04:05 06/02/2024
-- 🪄 [Lương Thế Thành, Thúy Diễm đưa con dạo phố ông đồ](https://vnexpress.net/luong-the-thanh-thuy-diem-dua-con-dao-pho-ong-do-4709288.html) - 03:11 06/02/2024
-- 🤓 [Đoàn phim Park Min Young được thưởng chuyến du lịch Việt Nam](https://vnexpress.net/doan-phim-park-min-young-duoc-thuong-chuyen-du-lich-viet-nam-4709014.html) - 02:30 06/02/2024
-- 🫶 [Mẫu nhí Bảo Hà diễn cho nhà mốt Hàn Quốc](https://vnexpress.net/mau-nhi-bao-ha-dien-cho-nha-mot-han-quoc-4708991.html) - 02:22 06/02/2024
-- 🧑‍🏫 [Trịnh Sảng: &#39;Tôi sống bằng tiền dưỡng già của bố mẹ&#39;](https://vnexpress.net/trinh-sang-toi-song-bang-tien-duong-gia-cua-bo-me-4709255.html) - 02:14 06/02/2024
-- 🦄 [Vy Oanh, Phan Như Thảo, Vân Hugo dạo phố xuân](https://vnexpress.net/vy-oanh-phan-nhu-thao-van-hugo-dao-pho-xuan-4708852.html) - 01:50 06/02/2024
-- 💫 [Quang Minh: &#39;Tôi vui vì giữ được tình bạn với Hồng Đào&#39;](https://vnexpress.net/quang-minh-toi-vui-vi-giu-duoc-tinh-ban-voi-hong-dao-4709141.html) - 17:00 05/02/2024
-- 🎊 [Người đẹp chuyển giới lăn ra sàn khi đăng quang hoa hậu](https://vnexpress.net/nguoi-dep-chuyen-gioi-lan-ra-san-khi-dang-quang-hoa-hau-4709170.html) - 16:03 05/02/2024
-- 👹 [Bốn lần thắng Album của năm ở Grammy của Taylor Swift](https://vnexpress.net/bon-lan-thang-album-cua-nam-o-grammy-cua-taylor-swift-4709067.html) - 12:59 05/02/2024
-- 💻 [5 bộ cánh sexy của Miley Cyrus ở Grammy](https://vnexpress.net/5-bo-canh-sexy-cua-miley-cyrus-o-grammy-4709026.html) - 12:19 05/02/2024
-- 🤡 [SZA diện đầm &#39;thần vệ nữ&#39; của Đỗ Long tại Grammy](https://vnexpress.net/sza-dien-dam-than-ve-nu-cua-do-long-tai-grammy-4708950.html) - 10:39 05/02/2024
-- 🥰 [Tranh The Beatles vẽ giá hơn 1,7 triệu USD](https://vnexpress.net/tranh-the-beatles-ve-gia-hon-1-7-trieu-usd-4709013.html) - 09:23 05/02/2024
-- 🚀 [&#39;Gặp lại chị Bầu&#39; mở màn gần 9 tỷ đồng](https://vnexpress.net/gap-lai-chi-bau-mo-man-gan-9-ty-dong-4708989.html) - 07:49 05/02/2024
-- 📝 [Đổng Tuyền tìm bạn đời](https://vnexpress.net/dong-tuyen-tim-ban-doi-4708951.html) - 07:11 05/02/2024
-- 🐲 [Giọng ca Mỹ diện đầm Công Trí ở Grammy](https://vnexpress.net/giong-ca-my-dien-dam-cong-tri-o-grammy-4708794.html) - 04:47 05/02/2024
-- 🎃 [Con dâu nói may mắn khi &#39;mẹ chồng là Victoria Beckham&#39;](https://vnexpress.net/con-dau-noi-may-man-khi-me-chong-la-victoria-beckham-4708854.html) - 03:50 05/02/2024
-- 🤠 [Trang Pháp vượt định kiến &#39;hot girl đi hát&#39;](https://vnexpress.net/trang-phap-vuot-dinh-kien-hot-girl-di-hat-4708506.html) - 03:42 05/02/2024
-- 🎭 [Taylor Swift đeo vòng cổ đồng hồ ở Grammy](https://vnexpress.net/taylor-swift-deo-vong-co-dong-ho-o-grammy-4708828.html) - 03:15 05/02/2024
-- 🧰 [Brad Pitt thắng Angelina Jolie trong vụ kiện điền trang](https://vnexpress.net/brad-pitt-thang-angelina-jolie-trong-vu-kien-dien-trang-4708819.html) - 02:37 05/02/2024
-- 🦍 [Miley Cyrus &#39;mặc như không&#39; bên dàn sao Grammy](https://vnexpress.net/miley-cyrus-mac-nhu-khong-ben-dan-sao-grammy-4708749.html) - 00:56 05/02/2024
-- 🌝 [Taylor Swift làm nên lịch sử ở Grammy 2024](https://vnexpress.net/taylor-swift-lam-nen-lich-su-o-grammy-2024-4708731-tong-thuat.html) - 00:47 05/02/2024
-- 🧑‍💻 [Á hậu Hoàng My: &#39;Tôi chiến đấu với bệnh tật để có con đầu lòng&#39;](https://vnexpress.net/a-hau-hoang-my-toi-chien-dau-voi-benh-tat-de-co-con-dau-long-4708551.html) - 17:00 04/02/2024
-- 🥸 [Diễn viên &#39;American Fiction&#39;: Robert Downey Jr. xứng đáng đoạt Oscar](https://vnexpress.net/dien-vien-american-fiction-robert-downey-jr-xung-dang-doat-oscar-4708540.html) - 14:18 04/02/2024
-- 🔥 [Gia đình Khánh Thi - Phan Hiển quây quần chụp ảnh Tết](https://vnexpress.net/gia-dinh-khanh-thi-phan-hien-quay-quan-chup-anh-tet-4708658.html) - 13:00 04/02/2024
-- 🐎 [Uyên Linh: &#39;Tôi dám sống thẳng&#39;](https://vnexpress.net/uyen-linh-toi-dam-song-thang-4706357.html) - 12:00 04/02/2024
-- 😎 [Sách tái hiện hôn nhân của Elizabeth Taylor](https://vnexpress.net/sach-tai-hien-hon-nhan-cua-elizabeth-taylor-4708443.html) - 11:05 04/02/2024
-- 🦄 [Grammy 2024 - cuộc cạnh tranh của những giọng ca nữ](https://vnexpress.net/grammy-2024-cuoc-canh-tranh-cua-nhung-giong-ca-nu-4708606.html) - 11:00 04/02/2024
-- 🌜 [Tú Vi lần đầu diễn kịch Tết](https://vnexpress.net/tu-vi-lan-dau-dien-kich-tet-4708425.html) - 10:58 04/02/2024
-- 🚦 [DJ Martin Garrix khám phá hang Sơn Đoòng](https://vnexpress.net/dj-martin-garrix-kham-pha-hang-son-doong-4708597.html) - 07:58 04/02/2024
-- 🧐 [Gu mặc của diễn viên cao 1,96 m đóng Elvis Presley](https://vnexpress.net/gu-mac-cua-dien-vien-cao-1-96-m-dong-elvis-presley-4708569.html) - 07:08 04/02/2024
-- 🐵 [&#39;Maestro&#39; - giai điệu tình yêu](https://vnexpress.net/giai-tri/phim/thu-vien-phim/maestro-679) - 05:00 04/02/2024
-- ⚗️ [Anh em gốc Việt đóng phim cùng Dương Tử Quỳnh](https://vnexpress.net/anh-em-goc-viet-dong-phim-cung-duong-tu-quynh-4708255.html) - 03:44 04/02/2024
-- 👺 [Chi Pu cùng dàn sao khuấy động sân khấu &#39;Đạp gió&#39;](https://vnexpress.net/chi-pu-cung-dan-sao-khuay-dong-san-khau-dap-gio-4708501.html) - 02:24 04/02/2024
-- 🌊 [Phim 18+ của Trấn Thành đối đầu loạt tác phẩm Việt mùa Tết](https://vnexpress.net/phim-18-cua-tran-thanh-doi-dau-loat-tac-pham-viet-mua-tet-4708405.html) - 02:10 04/02/2024
-- 🪜 [&#39;Đường đến ngày vinh quang&#39; được đưa vào sách giáo khoa](https://vnexpress.net/duong-den-ngay-vinh-quang-duoc-dua-vao-sach-giao-khoa-4708438.html) - 17:17 03/02/2024
-- 🕴 [Trang Pháp chiến thắng show &#39;Đạp gió&#39;](https://vnexpress.net/trang-phap-chien-thang-show-dap-gio-4708459.html) - 16:17 03/02/2024
-- 💃 [Chi Pu song ca &#39;nam thần&#39; Trương Đống Lương](https://vnexpress.net/chi-pu-song-ca-nam-than-truong-dong-luong-4708457.html) - 15:37 03/02/2024
-- 🦄 [Mai Phương mang điệu &#39;See Tình&#39; đến Miss World](https://vnexpress.net/mai-phuong-mang-dieu-see-tinh-den-miss-world-4708429.html) - 13:44 03/02/2024
-- ⛽️ [Hoa hậu Ý Nhi tạo dáng áo dài ở Đại học Sydney](https://vnexpress.net/hoa-hau-y-nhi-tao-dang-ao-dai-o-dai-hoc-sydney-4708356.html) - 12:00 03/02/2024
-- 😎 [Jacob Elordi - diễn viên cao 1,96 m gây chú ý](https://vnexpress.net/jacob-elordi-dien-vien-cao-1-96-m-gay-chu-y-4706905.html) - 11:00 03/02/2024
-- 🌊 [Kim Soo Hyun mua nhà 6,5 triệu USD](https://vnexpress.net/kim-soo-hyun-mua-nha-6-5-trieu-usd-4708374.html) - 09:23 03/02/2024
-- 🐲 [10 bộ trang phục độc lạ qua các mùa Grammy](https://vnexpress.net/10-bo-trang-phuc-doc-la-qua-cac-mua-grammy-4708340.html) - 08:00 03/02/2024
-- 💂 [Mỹ Linh: &#39;Anh Quân khuyên tôi thi Đạp gió để bớt già nua&#39;](https://vnexpress.net/my-linh-anh-quan-khuyen-toi-thi-dap-gio-de-bot-gia-nua-4708279.html) - 05:37 03/02/2024
-- 🙉 [Kim Xuân, Minh Dự gửi thông điệp tình thân trong phim Tết](https://vnexpress.net/kim-xuan-minh-du-gui-thong-diep-tinh-than-trong-phim-tet-4708313.html) - 04:55 03/02/2024
-- 💪 [Taylor Swift được bạn trai tặng vòng kim cương](https://vnexpress.net/taylor-swift-duoc-ban-trai-tang-vong-kim-cuong-4708312.html) - 03:33 03/02/2024
-- 👍 [Diễn viên TVB Hà Quốc Vinh qua đời](https://vnexpress.net/dien-vien-tvb-ha-quoc-vinh-qua-doi-4708272.html) - 02:56 03/02/2024
-- 💪 [&#39;Kẻ canh gác bầu trời&#39; - tiểu thuyết kỳ ảo đề cập vấn đề xã hội](https://vnexpress.net/ke-canh-gac-bau-troi-tieu-thuyet-ky-ao-de-cap-van-de-xa-hoi-4702436.html) - 01:27 03/02/2024
-- 💄 [Diễn viên phim &#39;Rocky&#39; qua đời](https://vnexpress.net/dien-vien-phim-rocky-qua-doi-4708245.html) - 01:21 03/02/2024
-- 🦩 [Bảo vật của hoàng hậu cuối cùng Trung Quốc](https://vnexpress.net/bao-vat-cua-hoang-hau-cuoi-cung-trung-quoc-4707890.html) - 17:00 02/02/2024
-- 🥸 [Trịnh Sảng trốn nợ](https://vnexpress.net/trinh-sang-tron-no-4708028.html) - 08:09 02/02/2024
-- 🧰 [Chủ tịch nước chúc Tết nghệ sĩ Kim Cương](https://vnexpress.net/chu-tich-nuoc-chuc-tet-nghe-si-kim-cuong-4708031.html) - 07:22 02/02/2024
-- 💼 [Hồng Nhung: &#39;Chưa bao giờ nghĩ nhạc của tôi đẳng cấp&#39;](https://vnexpress.net/hong-nhung-chua-bao-gio-nghi-nhac-cua-toi-dang-cap-4707871.html) - 06:44 02/02/2024
-- 🧑‍💻 [Lisa, Leon - con song sinh năng động của Hà Hồ](https://vnexpress.net/lisa-leon-con-song-sinh-nang-dong-cua-ha-ho-4706417.html) - 04:25 02/02/2024<!-- vnexpress-giai-tri:END -->
+- 🌏 [Sắc vóc tuổi 34 của Hoàng Oanh trong bộ ảnh xuân](https://vnexpress.net/sac-voc-tuoi-34-cua-hoang-oanh-trong-bo-anh-xuan-4709313.html) - 01:12 07/02/2024
+- 💫 [Ấn 2.000 năm tuổi của hoàng hậu được nhặt từ vũng bùn](https://vnexpress.net/an-2-000-nam-tuoi-cua-hoang-hau-duoc-nhat-tu-vung-bun-4709002.html) - 17:00 06/02/2024
+- 🌮 [Street style dạo phố xuân của Lý Nhã Kỳ](https://vnexpress.net/street-style-dao-pho-xuan-cua-ly-nha-ky-4709545.html) - 13:00 06/02/2024
+- 🧠 [Những công việc bị ​​AI đe dọa ở Hollywood](https://vnexpress.net/nhung-cong-viec-bi-ai-de-doa-o-hollywood-4708602.html) - 12:00 06/02/2024
+- 👨‍🏫 [Miley Cyrus hôn bạn trai kém sáu tuổi tại Grammy](https://vnexpress.net/miley-cyrus-hon-ban-trai-kem-sau-tuoi-tai-grammy-4709462.html) - 08:31 06/02/2024
+- ⚗️ [Phương Thảo, Ngọc Lễ hát cùng học trò nhí trong MV Tết](https://vnexpress.net/phuong-thao-ngoc-le-hat-cung-hoc-tro-nhi-trong-mv-tet-4709331.html) - 07:38 06/02/2024
+- 😎 [Sách về địa lý hành chính và tập quán người Việt trước 1945](https://vnexpress.net/sach-ve-dia-ly-hanh-chinh-va-tap-quan-nguoi-viet-truoc-1945-4709055.html) - 04:45 06/02/2024
+- 🫣 [Tài tử &#39;Người trong giang hồ&#39; mất tài sản sau ly hôn](https://vnexpress.net/tai-tu-nguoi-trong-giang-ho-mat-tai-san-sau-ly-hon-4709309.html) - 04:18 06/02/2024
+- 🪄 [Khán phòng Grammy vỡ òa khi thấy Celine Dion](https://vnexpress.net/khan-phong-grammy-vo-oa-khi-thay-celine-dion-4709283.html) - 04:05 06/02/2024
+- 🤓 [Lương Thế Thành, Thúy Diễm đưa con dạo phố ông đồ](https://vnexpress.net/luong-the-thanh-thuy-diem-dua-con-dao-pho-ong-do-4709288.html) - 03:11 06/02/2024
+- 🫶 [Đoàn phim Park Min Young được thưởng chuyến du lịch Việt Nam](https://vnexpress.net/doan-phim-park-min-young-duoc-thuong-chuyen-du-lich-viet-nam-4709014.html) - 02:30 06/02/2024
+- 🧑‍🏫 [Mẫu nhí Bảo Hà diễn cho nhà mốt Hàn Quốc](https://vnexpress.net/mau-nhi-bao-ha-dien-cho-nha-mot-han-quoc-4708991.html) - 02:22 06/02/2024
+- 🦄 [Trịnh Sảng: &#39;Tôi sống bằng tiền dưỡng già của bố mẹ&#39;](https://vnexpress.net/trinh-sang-toi-song-bang-tien-duong-gia-cua-bo-me-4709255.html) - 02:14 06/02/2024
+- 💫 [Vy Oanh, Phan Như Thảo, Vân Hugo dạo phố xuân](https://vnexpress.net/vy-oanh-phan-nhu-thao-van-hugo-dao-pho-xuan-4708852.html) - 01:50 06/02/2024
+- 🎊 [Quang Minh: &#39;Tôi vui vì giữ được tình bạn với Hồng Đào&#39;](https://vnexpress.net/quang-minh-toi-vui-vi-giu-duoc-tinh-ban-voi-hong-dao-4709141.html) - 17:00 05/02/2024
+- 👹 [Người đẹp chuyển giới lăn ra sàn khi đăng quang hoa hậu](https://vnexpress.net/nguoi-dep-chuyen-gioi-lan-ra-san-khi-dang-quang-hoa-hau-4709170.html) - 16:03 05/02/2024
+- 💻 [Bốn lần thắng Album của năm ở Grammy của Taylor Swift](https://vnexpress.net/bon-lan-thang-album-cua-nam-o-grammy-cua-taylor-swift-4709067.html) - 12:59 05/02/2024
+- 🤡 [5 bộ cánh sexy của Miley Cyrus ở Grammy](https://vnexpress.net/5-bo-canh-sexy-cua-miley-cyrus-o-grammy-4709026.html) - 12:19 05/02/2024
+- 🥰 [SZA diện đầm &#39;thần vệ nữ&#39; của Đỗ Long tại Grammy](https://vnexpress.net/sza-dien-dam-than-ve-nu-cua-do-long-tai-grammy-4708950.html) - 10:39 05/02/2024
+- 🚀 [Tranh The Beatles vẽ giá hơn 1,7 triệu USD](https://vnexpress.net/tranh-the-beatles-ve-gia-hon-1-7-trieu-usd-4709013.html) - 09:23 05/02/2024
+- 📝 [&#39;Gặp lại chị Bầu&#39; mở màn gần 9 tỷ đồng](https://vnexpress.net/gap-lai-chi-bau-mo-man-gan-9-ty-dong-4708989.html) - 07:49 05/02/2024
+- 🐲 [Đổng Tuyền tìm bạn đời](https://vnexpress.net/dong-tuyen-tim-ban-doi-4708951.html) - 07:11 05/02/2024
+- 🎃 [Giọng ca Mỹ diện đầm Công Trí ở Grammy](https://vnexpress.net/giong-ca-my-dien-dam-cong-tri-o-grammy-4708794.html) - 04:47 05/02/2024
+- 🤠 [Con dâu nói may mắn khi &#39;mẹ chồng là Victoria Beckham&#39;](https://vnexpress.net/con-dau-noi-may-man-khi-me-chong-la-victoria-beckham-4708854.html) - 03:50 05/02/2024
+- 🎭 [Trang Pháp vượt định kiến &#39;hot girl đi hát&#39;](https://vnexpress.net/trang-phap-vuot-dinh-kien-hot-girl-di-hat-4708506.html) - 03:42 05/02/2024
+- 🧰 [Taylor Swift đeo vòng cổ đồng hồ ở Grammy](https://vnexpress.net/taylor-swift-deo-vong-co-dong-ho-o-grammy-4708828.html) - 03:15 05/02/2024
+- 🦍 [Brad Pitt thắng Angelina Jolie trong vụ kiện điền trang](https://vnexpress.net/brad-pitt-thang-angelina-jolie-trong-vu-kien-dien-trang-4708819.html) - 02:37 05/02/2024
+- 🌝 [Miley Cyrus &#39;mặc như không&#39; bên dàn sao Grammy](https://vnexpress.net/miley-cyrus-mac-nhu-khong-ben-dan-sao-grammy-4708749.html) - 00:56 05/02/2024
+- 🧑‍💻 [Taylor Swift làm nên lịch sử ở Grammy 2024](https://vnexpress.net/taylor-swift-lam-nen-lich-su-o-grammy-2024-4708731-tong-thuat.html) - 00:47 05/02/2024
+- 🥸 [Á hậu Hoàng My: &#39;Tôi chiến đấu với bệnh tật để có con đầu lòng&#39;](https://vnexpress.net/a-hau-hoang-my-toi-chien-dau-voi-benh-tat-de-co-con-dau-long-4708551.html) - 17:00 04/02/2024
+- 🔥 [Diễn viên &#39;American Fiction&#39;: Robert Downey Jr. xứng đáng đoạt Oscar](https://vnexpress.net/dien-vien-american-fiction-robert-downey-jr-xung-dang-doat-oscar-4708540.html) - 14:18 04/02/2024
+- 🐎 [Gia đình Khánh Thi - Phan Hiển quây quần chụp ảnh Tết](https://vnexpress.net/gia-dinh-khanh-thi-phan-hien-quay-quan-chup-anh-tet-4708658.html) - 13:00 04/02/2024
+- 😎 [Uyên Linh: &#39;Tôi dám sống thẳng&#39;](https://vnexpress.net/uyen-linh-toi-dam-song-thang-4706357.html) - 12:00 04/02/2024
+- 🦄 [Sách tái hiện hôn nhân của Elizabeth Taylor](https://vnexpress.net/sach-tai-hien-hon-nhan-cua-elizabeth-taylor-4708443.html) - 11:05 04/02/2024
+- 🌜 [Grammy 2024 - cuộc cạnh tranh của những giọng ca nữ](https://vnexpress.net/grammy-2024-cuoc-canh-tranh-cua-nhung-giong-ca-nu-4708606.html) - 11:00 04/02/2024
+- 🚦 [Tú Vi lần đầu diễn kịch Tết](https://vnexpress.net/tu-vi-lan-dau-dien-kich-tet-4708425.html) - 10:58 04/02/2024
+- 🧐 [DJ Martin Garrix khám phá hang Sơn Đoòng](https://vnexpress.net/dj-martin-garrix-kham-pha-hang-son-doong-4708597.html) - 07:58 04/02/2024
+- 🐵 [Gu mặc của diễn viên cao 1,96 m đóng Elvis Presley](https://vnexpress.net/gu-mac-cua-dien-vien-cao-1-96-m-dong-elvis-presley-4708569.html) - 07:08 04/02/2024
+- ⚗️ [&#39;Maestro&#39; - giai điệu tình yêu](https://vnexpress.net/giai-tri/phim/thu-vien-phim/maestro-679) - 05:00 04/02/2024
+- 👺 [Anh em gốc Việt đóng phim cùng Dương Tử Quỳnh](https://vnexpress.net/anh-em-goc-viet-dong-phim-cung-duong-tu-quynh-4708255.html) - 03:44 04/02/2024
+- 🌊 [Chi Pu cùng dàn sao khuấy động sân khấu &#39;Đạp gió&#39;](https://vnexpress.net/chi-pu-cung-dan-sao-khuay-dong-san-khau-dap-gio-4708501.html) - 02:24 04/02/2024
+- 🪜 [Phim 18+ của Trấn Thành đối đầu loạt tác phẩm Việt mùa Tết](https://vnexpress.net/phim-18-cua-tran-thanh-doi-dau-loat-tac-pham-viet-mua-tet-4708405.html) - 02:10 04/02/2024
+- 🕴 [&#39;Đường đến ngày vinh quang&#39; được đưa vào sách giáo khoa](https://vnexpress.net/duong-den-ngay-vinh-quang-duoc-dua-vao-sach-giao-khoa-4708438.html) - 17:17 03/02/2024
+- 💃 [Trang Pháp chiến thắng show &#39;Đạp gió&#39;](https://vnexpress.net/trang-phap-chien-thang-show-dap-gio-4708459.html) - 16:17 03/02/2024
+- 🦄 [Chi Pu song ca &#39;nam thần&#39; Trương Đống Lương](https://vnexpress.net/chi-pu-song-ca-nam-than-truong-dong-luong-4708457.html) - 15:37 03/02/2024
+- ⛽️ [Mai Phương mang điệu &#39;See Tình&#39; đến Miss World](https://vnexpress.net/mai-phuong-mang-dieu-see-tinh-den-miss-world-4708429.html) - 13:44 03/02/2024
+- 😎 [Hoa hậu Ý Nhi tạo dáng áo dài ở Đại học Sydney](https://vnexpress.net/hoa-hau-y-nhi-tao-dang-ao-dai-o-dai-hoc-sydney-4708356.html) - 12:00 03/02/2024
+- 🌊 [Jacob Elordi - diễn viên cao 1,96 m gây chú ý](https://vnexpress.net/jacob-elordi-dien-vien-cao-1-96-m-gay-chu-y-4706905.html) - 11:00 03/02/2024
+- 🐲 [Kim Soo Hyun mua nhà 6,5 triệu USD](https://vnexpress.net/kim-soo-hyun-mua-nha-6-5-trieu-usd-4708374.html) - 09:23 03/02/2024
+- 💂 [10 bộ trang phục độc lạ qua các mùa Grammy](https://vnexpress.net/10-bo-trang-phuc-doc-la-qua-cac-mua-grammy-4708340.html) - 08:00 03/02/2024
+- 🙉 [Mỹ Linh: &#39;Anh Quân khuyên tôi thi Đạp gió để bớt già nua&#39;](https://vnexpress.net/my-linh-anh-quan-khuyen-toi-thi-dap-gio-de-bot-gia-nua-4708279.html) - 05:37 03/02/2024
+- 💪 [Kim Xuân, Minh Dự gửi thông điệp tình thân trong phim Tết](https://vnexpress.net/kim-xuan-minh-du-gui-thong-diep-tinh-than-trong-phim-tet-4708313.html) - 04:55 03/02/2024
+- 👍 [Taylor Swift được bạn trai tặng vòng kim cương](https://vnexpress.net/taylor-swift-duoc-ban-trai-tang-vong-kim-cuong-4708312.html) - 03:33 03/02/2024
+- 💪 [Diễn viên TVB Hà Quốc Vinh qua đời](https://vnexpress.net/dien-vien-tvb-ha-quoc-vinh-qua-doi-4708272.html) - 02:56 03/02/2024
+- 💄 [&#39;Kẻ canh gác bầu trời&#39; - tiểu thuyết kỳ ảo đề cập vấn đề xã hội](https://vnexpress.net/ke-canh-gac-bau-troi-tieu-thuyet-ky-ao-de-cap-van-de-xa-hoi-4702436.html) - 01:27 03/02/2024
+- 🦩 [Diễn viên phim &#39;Rocky&#39; qua đời](https://vnexpress.net/dien-vien-phim-rocky-qua-doi-4708245.html) - 01:21 03/02/2024
+- 🥸 [Bảo vật của hoàng hậu cuối cùng Trung Quốc](https://vnexpress.net/bao-vat-cua-hoang-hau-cuoi-cung-trung-quoc-4707890.html) - 17:00 02/02/2024
+- 🧰 [Trịnh Sảng trốn nợ](https://vnexpress.net/trinh-sang-tron-no-4708028.html) - 08:09 02/02/2024
+- 💼 [Chủ tịch nước chúc Tết nghệ sĩ Kim Cương](https://vnexpress.net/chu-tich-nuoc-chuc-tet-nghe-si-kim-cuong-4708031.html) - 07:22 02/02/2024
+- 🧑‍💻 [Hồng Nhung: &#39;Chưa bao giờ nghĩ nhạc của tôi đẳng cấp&#39;](https://vnexpress.net/hong-nhung-chua-bao-gio-nghi-nhac-cua-toi-dang-cap-4707871.html) - 06:44 02/02/2024<!-- vnexpress-giai-tri:END -->
