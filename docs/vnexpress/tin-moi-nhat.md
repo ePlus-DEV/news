@@ -7,7 +7,7 @@ sidebar_position: 9
 - 🎬 [Dự luật huy động thêm quân của Ukraine được bật đèn xanh](https://vnexpress.net/du-luat-huy-dong-them-quan-cua-ukraine-duoc-bat-den-xanh-4710088.html) - 15:12 07/02/2024
 - 🐎 [Biển người đổ về đường hoa Nguyễn Huệ đêm khai mạc](https://vnexpress.net/bien-nguoi-do-ve-duong-hoa-nguyen-hue-dem-khai-mac-4710090.html) - 14:52 07/02/2024
 - 🦍 [Ông Putin lần đầu trả lời truyền thông Mỹ từ khi chiến sự Ukraine bùng phát](https://vnexpress.net/ong-putin-lan-dau-tra-loi-truyen-thong-my-tu-khi-chien-su-ukraine-bung-phat-4710085.html) - 14:28 07/02/2024
-- 🏊 [Qatar 1-1 Iran &lpar;H1&rpar;: Gaber gỡ hòa](https://vnexpress.net/qatar-vs-iran-4710093.html) - 14:18 07/02/2024
+- 🏊 [Qatar 2-1 Iran &lpar;H1&rpar;: Afif đưa chủ nhà vượt lên](https://vnexpress.net/qatar-vs-iran-4710093.html) - 14:18 07/02/2024
 - 🎊 [Sống chung rồi tôi mới biết bộ mặt thật của chồng](https://vnexpress.net/song-chung-roi-toi-moi-biet-bo-mat-that-cua-chong-4709843.html) - 14:00 07/02/2024
 - 🎃 [Xuân này, em có muốn cùng anh du xuân?](https://vnexpress.net/xuan-nay-em-co-muon-cung-anh-du-xuan-4709642.html) - 14:00 07/02/2024
 - 🧰 [VinFast đến Indonesia](https://vnexpress.net/vinfast-den-indonesia-4710091.html) - 14:00 07/02/2024
