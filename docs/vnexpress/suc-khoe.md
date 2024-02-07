@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Chăm bệnh xuyên Tết lương gấp đôi ngày thường](https://vnexpress.net/cham-benh-xuyen-tet-luong-gap-doi-ngay-thuong-4709150.html) - 23:03 06/02/2024
+- 🔥 [Chăm bệnh xuyên Tết lương hơn triệu đồng một ngày](https://vnexpress.net/cham-benh-xuyen-tet-luong-gap-doi-ngay-thuong-4709150.html) - 23:03 06/02/2024
 - 🥰 [4 cây cảnh hút vận may, thanh lọc sức khỏe dịp năm mới](https://vnexpress.net/4-cay-canh-hut-van-may-thanh-loc-suc-khoe-dip-nam-moi-4709499.html) - 22:03 06/02/2024
 - 💡 [Ăn Tết thế nào để giảm trào ngược dạ dày, thực quản](https://vnexpress.net/an-tet-the-nao-de-giam-trao-nguoc-da-day-thuc-quan-4703998.html) - 20:03 06/02/2024
 - 🤗 [Công dụng bất ngờ từ lá dong gói bánh chưng](https://vnexpress.net/cong-dung-bat-ngo-tu-la-dong-goi-banh-chung-4709174.html) - 17:03 06/02/2024
