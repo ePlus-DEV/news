@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Ngân hàng ở Lâm Đồng bị cướp](https://vnexpress.net/ngan-hang-o-lam-dong-bi-cuop-4710046.html) - 10:16 07/02/2024
+- 😎 [Cướp ngân hàng bằng súng ở Lâm Đồng](https://vnexpress.net/cuop-ngan-hang-bang-sung-o-lam-dong-4710046.html) - 10:16 07/02/2024
 - 🥰 [Án mạng sau ly hôn](https://vnexpress.net/an-mang-sau-ly-hon-4709932.html) - 07:46 07/02/2024
 - 🎓 [Nỗi oan của cô gái nghi dùng &#39;khổ nhục kế&#39; để được nổi tiếng](https://vnexpress.net/noi-oan-cua-co-gai-nghi-dung-kho-nhuc-ke-de-duoc-noi-tieng-4709589.html) - 17:00 06/02/2024
 - 🤓 [Người phụ nữ 65 tuổi kiện công ty vì &#39;phân biệt tuổi&#39; trong công việc](https://vnexpress.net/ba-lao-65-tuoi-kien-cong-ty-vi-phan-biet-tuoi-trong-cong-viec-4709444.html) - 17:00 06/02/2024
