@@ -144,26 +144,26 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Diễn viên &#39;Bắc đại bàng&#39;, &#39;Thế chột&#39; Chu Hùng qua đời ở tuổi 67](https://thanhnien.vn/dien-vien-bac-dai-bang-the-chot-chu-hung-qua-doi-o-tuoi-67-185240207184451343.htm) - 13:23 07/02/2024
-- 🥸 [Đường hoa Đà Nẵng mở cửa chiều 28 tết, người dân nô nức check-in](https://thanhnien.vn/duong-hoa-da-nang-mo-cua-chieu-28-tet-nguoi-dan-no-nuc-check-in-185240207194639847.htm) - 13:19 07/02/2024
-- 🌁 [Hai vụ tấn công kinh hoàng tại Pakistan trước thềm bầu cử, 26 người chết](https://thanhnien.vn/hai-vu-tan-cong-kinh-hoang-tai-pakistan-truoc-them-bau-cu-26-nguoi-chet-18524020719470482.htm) - 13:16 07/02/2024
-- 🤡 [Tưng bừng khai mạc lễ hội Đường sách Tết Giáp Thìn tại TP.HCM](https://thanhnien.vn/tung-bung-khai-mac-le-hoi-duong-sach-tet-giap-thin-tai-tphcm-185240207183645547.htm) - 13:13 07/02/2024
-- 🎉 [Mùa cưới, mùa đi đám cưới thời 4.0 vui bao nhiêu:
+- 🤠 [Cướp giật dây chuyền để trả nợ, đưa vợ mua sắm tết](https://thanhnien.vn/cuop-giat-day-chuyen-de-tra-no-dua-vo-mua-sam-tet-185240207132117444.htm) - 13:30 07/02/2024
+- 🥸 [Diễn viên &#39;Bắc đại bàng&#39;, &#39;Thế chột&#39; Chu Hùng qua đời ở tuổi 67](https://thanhnien.vn/dien-vien-bac-dai-bang-the-chot-chu-hung-qua-doi-o-tuoi-67-185240207184451343.htm) - 13:23 07/02/2024
+- 🌁 [Đường hoa Đà Nẵng mở cửa chiều 28 tết, người dân nô nức check-in](https://thanhnien.vn/duong-hoa-da-nang-mo-cua-chieu-28-tet-nguoi-dan-no-nuc-check-in-185240207194639847.htm) - 13:19 07/02/2024
+- 🤡 [Hai vụ tấn công kinh hoàng tại Pakistan trước thềm bầu cử, 26 người chết](https://thanhnien.vn/hai-vu-tan-cong-kinh-hoang-tai-pakistan-truoc-them-bau-cu-26-nguoi-chet-18524020719470482.htm) - 13:16 07/02/2024
+- 🎉 [Tưng bừng khai mạc lễ hội Đường sách Tết Giáp Thìn tại TP.HCM](https://thanhnien.vn/tung-bung-khai-mac-le-hoi-duong-sach-tet-giap-thin-tai-tphcm-185240207183645547.htm) - 13:13 07/02/2024
+- 🎊 [Mùa cưới, mùa đi đám cưới thời 4.0 vui bao nhiêu:
 Làm sao để hợp với lối sống văn minh?](https://thanhnien.vn/mua-cuoi-mua-di-dam-cuoi-thoi-40-vui-bao-nhieulam-sao-de-hop-voi-loi-song-van-minh-185240115144008277.htm) - 13:07 07/02/2024
-- 🎊 [Xem nhanh 20h ngày 28 tết: Khoảnh khắc xúc động ở sân bay | Độc lạ hoa mai &#39;ngàn cây có một&#39;](https://thanhnien.vn/xem-nhanh-20h-ngay-28-tet-khoanh-khac-xuc-dong-o-san-bay-doc-la-hoa-mai-ngan-cay-co-mot-185240207163135849.htm) - 13:00 07/02/2024
-- 🤠 [Nghệ sĩ nói gì về việc đưa trend vào các sản phẩm kịch?](https://thanhnien.vn/nghe-si-noi-gi-ve-viec-dua-trend-vao-cac-san-pham-kich-185240204162719403.htm) - 13:00 07/02/2024
-- 💼 [Bà chủ tiệm mứt hơn nửa thế kỷ chỉ mẹo bảo quản mứt không bị chảy nước](https://thanhnien.vn/ba-chu-tiem-mut-hon-nua-the-ky-chi-meo-bao-quan-mut-khong-bi-chay-nuoc-185240112130930117.htm) - 13:00 07/02/2024
-- 🐻 [Lần đầu ăn tết ở TP.HCM, cả nhà thâu đêm canh nồi bánh tét: &#39;Tết sum vầy là đây&#39;](https://thanhnien.vn/lan-dau-an-tet-o-tphcm-ca-nha-thau-dem-canh-noi-banh-tet-tet-sum-vay-la-day-185240207122322412.htm) - 12:47 07/02/2024
-- 🤔 [Messi trở lại thi đấu, Inter Miami thua Vissel Kobe trên chấm 11 m](https://thanhnien.vn/messi-tro-lai-thi-dau-inter-miami-thua-vissel-kobe-tren-cham-11-m-185240207194045326.htm) - 12:45 07/02/2024
-- 📝 [TP.HCM hợp tác phát triển trường học số](https://thanhnien.vn/tphcm-hop-tac-phat-trien-truong-hoc-so-185240207183106268.htm) - 12:35 07/02/2024
-- 🥰 [Xem lính đảo Trường Sa thi gói bánh chưng đón tết](https://thanhnien.vn/xem-linh-dao-truong-sa-thi-goi-banh-chung-don-tet-185240207120859.htm) - 12:35 07/02/2024
-- 🐲 [&#39;Trạm yêu thương&#39; mang mùa xuân đến với gia đình khiếm thị nghèo](https://thanhnien.vn/tram-yeu-thuong-mang-mua-xuan-den-voi-gia-dinh-khiem-thi-ngheo-185240207160832399.htm) - 12:28 07/02/2024
-- 🎃 [Quyền Linh nói gì khi chưa được NSND sau hơn 30 năm làm nghề?](https://thanhnien.vn/quyen-linh-noi-gi-khi-chua-duoc-nsnd-sau-hon-30-nam-lam-nghe-185240207183242619.htm) - 12:26 07/02/2024
-- 🎬 [Cửa ngõ phía nam Hà Nội bất ngờ thông thoáng trong ngày làm việc cuối cùng](https://thanhnien.vn/cua-ngo-phia-nam-ha-noi-bat-ngo-thong-thoang-trong-ngay-lam-viec-cuoi-cung-185240207183824619.htm) - 12:18 07/02/2024
-- 🌜 [Nga điều hai máy bay ném bom chiến lược đến gần Mỹ](https://thanhnien.vn/nga-dieu-hai-may-bay-nem-bom-chien-luoc-den-gan-my-185240207175745902.htm) - 12:18 07/02/2024
-- 🦆 [Hộp nhựa chứa thức ăn có thể gây nguy cơ sinh non](https://thanhnien.vn/hop-nhua-chua-thuc-an-co-the-gay-nguy-co-sinh-non-185240207153929703.htm) - 12:16 07/02/2024
-- 🐵 [28 tết: Đông nghẹt người dân ở TP.HCM chờ vào đường hoa Nguyễn Huệ](https://thanhnien.vn/28-tet-dong-nghet-nguoi-dan-o-tphcm-cho-vao-duong-hoa-nguyen-hue-185240207171137765.htm) - 12:05 07/02/2024
-- 🙉 [Heineken 0.0 không độ cồn - thể hiện tinh thần trách nhiệm và đảm bảo an toàn](https://thanhnien.vn/heineken-00-khong-do-con-the-hien-tinh-than-trach-nhiem-va-dam-bao-an-toan-185240207171108189.htm) - 12:00 07/02/2024
+- 🤠 [Xem nhanh 20h ngày 28 tết: Khoảnh khắc xúc động ở sân bay | Độc lạ hoa mai &#39;ngàn cây có một&#39;](https://thanhnien.vn/xem-nhanh-20h-ngay-28-tet-khoanh-khac-xuc-dong-o-san-bay-doc-la-hoa-mai-ngan-cay-co-mot-185240207163135849.htm) - 13:00 07/02/2024
+- 💼 [Nghệ sĩ nói gì về việc đưa trend vào các sản phẩm kịch?](https://thanhnien.vn/nghe-si-noi-gi-ve-viec-dua-trend-vao-cac-san-pham-kich-185240204162719403.htm) - 13:00 07/02/2024
+- 🐻 [Bà chủ tiệm mứt hơn nửa thế kỷ chỉ mẹo bảo quản mứt không bị chảy nước](https://thanhnien.vn/ba-chu-tiem-mut-hon-nua-the-ky-chi-meo-bao-quan-mut-khong-bi-chay-nuoc-185240112130930117.htm) - 13:00 07/02/2024
+- 🤔 [Lần đầu ăn tết ở TP.HCM, cả nhà thâu đêm canh nồi bánh tét: &#39;Tết sum vầy là đây&#39;](https://thanhnien.vn/lan-dau-an-tet-o-tphcm-ca-nha-thau-dem-canh-noi-banh-tet-tet-sum-vay-la-day-185240207122322412.htm) - 12:47 07/02/2024
+- 📝 [Messi trở lại thi đấu, Inter Miami thua Vissel Kobe trên chấm 11 m](https://thanhnien.vn/messi-tro-lai-thi-dau-inter-miami-thua-vissel-kobe-tren-cham-11-m-185240207194045326.htm) - 12:45 07/02/2024
+- 🥰 [TP.HCM hợp tác phát triển trường học số](https://thanhnien.vn/tphcm-hop-tac-phat-trien-truong-hoc-so-185240207183106268.htm) - 12:35 07/02/2024
+- 🐲 [Xem lính đảo Trường Sa thi gói bánh chưng đón tết](https://thanhnien.vn/xem-linh-dao-truong-sa-thi-goi-banh-chung-don-tet-185240207120859.htm) - 12:35 07/02/2024
+- 🎃 [&#39;Trạm yêu thương&#39; mang mùa xuân đến với gia đình khiếm thị nghèo](https://thanhnien.vn/tram-yeu-thuong-mang-mua-xuan-den-voi-gia-dinh-khiem-thi-ngheo-185240207160832399.htm) - 12:28 07/02/2024
+- 🎬 [Quyền Linh nói gì khi chưa được NSND sau hơn 30 năm làm nghề?](https://thanhnien.vn/quyen-linh-noi-gi-khi-chua-duoc-nsnd-sau-hon-30-nam-lam-nghe-185240207183242619.htm) - 12:26 07/02/2024
+- 🌜 [Cửa ngõ phía nam Hà Nội bất ngờ thông thoáng trong ngày làm việc cuối cùng](https://thanhnien.vn/cua-ngo-phia-nam-ha-noi-bat-ngo-thong-thoang-trong-ngay-lam-viec-cuoi-cung-185240207183824619.htm) - 12:18 07/02/2024
+- 🦆 [Nga điều hai máy bay ném bom chiến lược đến gần Mỹ](https://thanhnien.vn/nga-dieu-hai-may-bay-nem-bom-chien-luoc-den-gan-my-185240207175745902.htm) - 12:18 07/02/2024
+- 🐵 [Hộp nhựa chứa thức ăn có thể gây nguy cơ sinh non](https://thanhnien.vn/hop-nhua-chua-thuc-an-co-the-gay-nguy-co-sinh-non-185240207153929703.htm) - 12:16 07/02/2024
+- 🙉 [28 tết: Đông nghẹt người dân ở TP.HCM chờ vào đường hoa Nguyễn Huệ](https://thanhnien.vn/28-tet-dong-nghet-nguoi-dan-o-tphcm-cho-vao-duong-hoa-nguyen-hue-185240207171137765.htm) - 12:05 07/02/2024
 - 🌋 [Những món ăn “rất Nga” nhất định phải thử](https://thanhnien.vn/thoi-trang-tre/nhung-mon-an-rat-nga-nhat-dinh-phai-thu-185240205131231841.htm) - 12:00 07/02/2024
 - 🐻 [Con &#39;nghiện nặng&#39; ti vi, điện thoại dịp tết, ba mẹ phải làm sao?](https://thanhnien.vn/con-nghien-nang-ti-vi-dien-thoai-dip-tet-ba-me-phai-lam-sao-185240207162026786.htm) - 11:56 07/02/2024
 - 🧠 [Cách ngắm linh vật rồng bay chỉ có ở đường hoa Nguyễn Huệ tết năm nay](https://thanhnien.vn/cach-ngam-linh-vat-rong-bay-chi-co-o-duong-hoa-o-tphcm-tet-nam-nay-185240207115420603.htm) - 11:16 07/02/2024
