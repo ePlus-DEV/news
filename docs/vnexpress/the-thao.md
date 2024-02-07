@@ -38,8 +38,8 @@ sidebar_position: 5
 - 🚀 [Djokovic hết hy vọng đoạt Davis Cup 2024](https://vnexpress.net/djokovic-het-hy-vong-doat-davis-cup-2024-4709293.html) - 01:44 06/02/2024
 - 🎃 [Roma thắng ba trận liên tiếp sau khi sa thải Mourinho](https://vnexpress.net/roma-thang-ba-tran-lien-tiep-sau-khi-sa-thai-mourinho-4709197.html) - 00:50 06/02/2024
 - 🧰 [Man City thắng nhờ hat-trick của Foden](https://vnexpress.net/man-city-thang-nho-hat-trick-cua-foden-4709193.html) - 22:48 05/02/2024
-- 👀 [Arteta, Odegaard bị chê vì mừng quá khích](https://vnexpress.net/arteta-odegaard-bi-che-vi-mung-qua-khich-4709171.html) - 17:00 05/02/2024
-- 🌜 [Mudryk thách đấu CĐV Chelsea](https://vnexpress.net/mudryk-thach-dau-cdv-chelsea-4709172.html) - 17:00 05/02/2024
+- 👀 [Mudryk thách đấu CĐV Chelsea](https://vnexpress.net/mudryk-thach-dau-cdv-chelsea-4709172.html) - 17:00 05/02/2024
+- 🌜 [Arteta, Odegaard bị chê vì mừng quá khích](https://vnexpress.net/arteta-odegaard-bi-che-vi-mung-qua-khich-4709171.html) - 17:00 05/02/2024
 - 🫶 [Vì sao Nhật Bản thất bại ở Asian Cup 2023?](https://vnexpress.net/vi-sao-nhat-ban-that-bai-o-asian-cup-2023-4709125.html) - 11:17 05/02/2024
 - 🦄 [Golfer thêm cup trên PGA Tour nhờ thời tiết xấu](https://vnexpress.net/golfer-them-cup-tren-pga-tour-nho-thoi-tiet-xau-4709123.html) - 10:54 05/02/2024
 - 🥳 [Dani Alves hầu tòa](https://vnexpress.net/dani-alves-hau-toa-4709116.html) - 10:34 05/02/2024
