@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Qatar 2-2 Iran &lpar;H2&rpar;: Jahanbakhsh ghi bàn phạt đền](https://vnexpress.net/qatar-vs-iran-4710093.html) - 14:18 07/02/2024
+- 🪜 [Qatar thắng ngược Iran để vào chung kết Asian Cup](https://vnexpress.net/qatar-vs-iran-4710093.html) - 14:18 07/02/2024
 - 🦩 [Đội tân binh ra mắt ấn tượng trên LIV Golf League](https://vnexpress.net/doi-tan-binh-ra-mat-an-tuong-tren-liv-golf-league-4710087.html) - 13:40 07/02/2024
 - 🧰 [Carragher: &#39;Hàng thủ là bệ phóng để Arsenal hướng tới danh hiệu&#39;](https://vnexpress.net/carragher-hang-thu-la-be-phong-de-arsenal-huong-toi-danh-hieu-4710006.html) - 10:20 07/02/2024
 - 🤗 [Cựu bảo vệ hộp đêm hốt bạc khi đấu PGA Tour](https://vnexpress.net/cuu-bao-ve-hop-dem-hot-bac-khi-dau-pga-tour-4709996.html) - 08:46 07/02/2024
