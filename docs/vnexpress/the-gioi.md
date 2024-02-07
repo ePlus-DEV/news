@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Ukraine lập lực lượng riêng về khí tài không người lái](https://vnexpress.net/ukraine-lap-luc-luong-rieng-ve-khi-tai-khong-nguoi-lai-4709837.html) - 04:54 07/02/2024
 - 🕴 [Máy bay Nga tiến vào vùng nhận dạng phòng không Mỹ](https://vnexpress.net/may-bay-nga-tien-vao-vung-nhan-dang-phong-khong-my-4709808.html) - 04:24 07/02/2024
-- 🤭 [Ảnh hưởng của ông Trump đe dọa nguồn viện trợ cho Ukraine](https://vnexpress.net/anh-huong-cua-ong-trump-de-doa-nguon-vien-tro-cho-ukraine-4709484.html) - 04:10 07/02/2024
+- 🤭 [Tiếng nói của ông Trump đe dọa nguồn viện trợ cho Ukraine](https://vnexpress.net/tieng-noi-cua-ong-trump-de-doa-nguon-vien-tro-cho-ukraine-4709484.html) - 04:10 07/02/2024
 - 🧑‍💻 [Anh rút tàu khu trục tối tân khỏi Biển Đỏ](https://vnexpress.net/anh-rut-tau-khu-truc-toi-tan-khoi-bien-do-4709754.html) - 03:34 07/02/2024
 - 🦏 [Harry về Anh thăm bố sau khi Vua Charles mắc ung thư](https://vnexpress.net/harry-ve-anh-tham-bo-sau-khi-vua-charles-mac-ung-thu-4709741.html) - 03:01 07/02/2024
 - 🦒 [Đặc nhiệm Ukraine đột kích, phá hủy trạm radar Nga ở Biển Đen](https://vnexpress.net/dac-nhiem-ukraine-dot-kich-pha-huy-tram-radar-nga-o-bien-den-4709749.html) - 02:59 07/02/2024
