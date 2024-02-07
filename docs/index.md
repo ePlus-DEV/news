@@ -211,7 +211,7 @@ Làm sao để hợp với lối sống văn minh?](https://thanhnien.vn/mua-cuo
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp tuyển Qatar và Iran tại bán kết Asian Cup 2023](https://laodong.vn/bong-da/truc-tiep-tuyen-qatar-va-iran-tai-ban-ket-asian-cup-2023-1302392.ldo) - 14:35 07/02/2024
+- 🗽 [Trực tiếp tuyển Qatar 0-1 Iran: Azmoun mở tỉ số](https://laodong.vn/bong-da/truc-tiep-tuyen-qatar-0-1-iran-azmoun-mo-ti-so-1302392.ldo) - 14:35 07/02/2024
 - 📝 [Liên tục bắt giữ các đối tượng mua bán, tàng trữ pháo nổ ở Hà Nội](https://laodong.vn/phap-luat/lien-tuc-bat-giu-cac-doi-tuong-mua-ban-tang-tru-phao-no-o-ha-noi-1302398.ldo) - 14:19 07/02/2024
 - 🦏 [Nhịp showbiz: Mỹ Linh nói về Lệ Quyên, Xuân Bắc thăm Công Lý lúc nửa đêm](https://laodong.vn/giai-tri/nhip-showbiz-my-linh-noi-ve-le-quyen-xuan-bac-tham-cong-ly-luc-nua-dem-1302389.ldo) - 14:16 07/02/2024
 - 🦩 [Thủ tướng chỉ đạo tổ chức lễ kỷ niệm 70 năm Chiến thắng Điện Biên Phủ](https://laodong.vn/thoi-su/thu-tuong-chi-dao-to-chuc-le-ky-niem-70-nam-chien-thang-dien-bien-phu-1302400.ldo) - 14:15 07/02/2024
