@@ -396,8 +396,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
 - 💻 [Liên tiếp 6 trận động đất tại Kon Tum trong ngày 28 Tết](https://baochinhphu.vn/lien-tiep-6-tran-dong-dat-tai-kon-tum-trong-ngay-28-tet-102240207153354386.htm) - 16:36 07/02/2024
-- 🌜 [Sớm hiện thực hóa khát vọng xây dựng Thủ đô Hà Nội &#39;Văn hiến - Văn minh - Hiện đại&#39;](https://baochinhphu.vn/som-hien-thuc-hoa-khat-vong-xay-dung-thu-do-ha-noi-van-hien-van-minh-hien-dai-102240207152042378.htm) - 16:31 07/02/2024
-- 🦆 [Tổng Bí thư Nguyễn Phú Trọng chúc Tết lãnh đạo, nguyên lãnh đạo Đảng, Nhà nước](https://baochinhphu.vn/tong-bi-thu-nguyen-phu-trong-chuc-tet-lanh-dao-nguyen-lanh-dao-dang-nha-nuoc-102240207120838146.htm) - 14:34 07/02/2024
+- 🌜 [Tổng Bí thư Nguyễn Phú Trọng chúc Tết lãnh đạo, nguyên lãnh đạo Đảng, Nhà nước](https://baochinhphu.vn/tong-bi-thu-nguyen-phu-trong-chuc-tet-lanh-dao-nguyen-lanh-dao-dang-nha-nuoc-102240207120838146.htm) - 16:34 07/02/2024
+- 🦆 [Sớm hiện thực hóa khát vọng xây dựng Thủ đô Hà Nội &#39;Văn hiến - Văn minh - Hiện đại&#39;](https://baochinhphu.vn/som-hien-thuc-hoa-khat-vong-xay-dung-thu-do-ha-noi-van-hien-van-minh-hien-dai-102240207152042378.htm) - 16:31 07/02/2024
 - 🌝 [Phát biểu của Tổng Bí thư tại buổi gặp mặt chúc Tết lãnh đạo, nguyên lãnh đạo Đảng, Nhà nước](https://baochinhphu.vn/phat-bieu-cua-tong-bi-thu-tai-buoi-gap-mat-chuc-tet-lanh-dao-nguyen-lanh-dao-dang-nha-nuoc-102240207132740522.htm) - 14:28 07/02/2024
 - 🦣 [Dốc toàn lực cho chặng đường về đích](https://baochinhphu.vn/doc-toan-luc-cho-chang-duong-ve-dich-102240207115718468.htm) - 14:28 07/02/2024
 - ⛽️ [Tổng Bí thư Nguyễn Phú Trọng dâng hương tưởng niệm Chủ tịch Hồ Chí Minh](https://baochinhphu.vn/tong-bi-thu-nguyen-phu-trong-dang-huong-tuong-niem-chu-tich-ho-chi-minh-102240207133123505.htm) - 14:26 07/02/2024
