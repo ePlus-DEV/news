@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Lĩnh án tù vì chụp ảnh cưới gây cháy rừng](https://vnexpress.net/linh-an-tu-vi-chup-anh-cuoi-gay-chay-rung-4710304.html) - 15:59 08/02/2024
 - 🥰 [Nhân viên cửa hàng pizza cầm búa đánh đuổi tên cướp](https://vnexpress.net/nhan-vien-cua-hang-cam-bua-chong-tra-ten-cuop-4710288.html) - 15:59 08/02/2024
-- 🎓 [Đường dây 32 người giả công an gọi điện thoại để lừa 200 tỷ đồng](https://vnexpress.net/duong-day-32-nguoi-gia-cong-an-goi-dien-thoai-de-lua-200-ty-dong-4710400.html) - 15:53 08/02/2024
+- 🎓 [Đường dây 32 người giả công an gọi điện thoại lừa 200 tỷ đồng](https://vnexpress.net/duong-day-32-nguoi-gia-cong-an-goi-dien-thoai-de-lua-200-ty-dong-4710400.html) - 15:53 08/02/2024
 - 🤓 [Thiếu niên mang súng đến điểm cờ bạc cướp tiền](https://vnexpress.net/thieu-nien-mang-sung-den-diem-co-bac-cuop-tien-4710326.html) - 12:39 08/02/2024
 - 🎊 [Đường dây bán hơn 100 phụ nữ làm vợ người Trung Quốc](https://vnexpress.net/hon-100-phu-nu-bi-ban-lam-vo-dan-ong-trung-quoc-4710342.html) - 12:33 08/02/2024
 - 🙉 [Sát hại cha vì bị đòi nợ](https://vnexpress.net/con-trai-dam-chet-cha-ruot-4710350.html) - 12:19 08/02/2024
