@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cần Thơ bắn pháo hoa đón giao thừa trên sà lan](https://vnexpress.net/can-tho-ban-phao-hoa-don-giao-thua-tren-sa-lan-4710330.html) - 10:55 08/02/2024
+- 🦒 [Cần Thơ bắn pháo hoa trên sà lan đêm giao thừa](https://vnexpress.net/can-tho-ban-phao-hoa-tren-sa-lan-dem-giao-thua-4710330.html) - 10:55 08/02/2024
 - 🤓 [Đóng nút giao trọng điểm ở cửa ngõ Nam Sài Gòn](https://vnexpress.net/dong-nut-giao-trong-diem-o-cua-ngo-nam-sai-gon-4710268.html) - 06:06 08/02/2024
 - ⚗️ [Đưa nước sạch vượt sông Hồng tới xã đảo của Thủ đô](https://vnexpress.net/dua-nuoc-sach-vuot-song-hong-toi-xa-dao-cua-thu-do-4710232.html) - 05:40 08/02/2024
 - 🌊 [Miền Bắc đón rét dịp Tết Giáp Thìn](https://vnexpress.net/mien-bac-don-ret-dip-tet-giap-thin-4710241.html) - 04:52 08/02/2024
