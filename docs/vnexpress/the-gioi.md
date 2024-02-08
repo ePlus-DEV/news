@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Núi lửa Iceland phun trào, bắn dung nham cao 80 m](https://vnexpress.net/nui-lua-iceland-phun-trao-ban-dung-nham-cao-80-m-4710322.html) - 09:43 08/02/2024
 - 🕴 [16 nhóm nhân quyền Palestine chỉ trích cố vấn LHQ](https://vnexpress.net/16-nhom-nhan-quyen-palestine-chi-trich-co-van-lhq-4710317.html) - 09:13 08/02/2024
-- 🤭 [Lở đất chôn vùi làng đào vàng Philippines, gần 90 người mất tích](https://vnexpress.net/lo-dat-chon-vui-lang-dao-vang-philippines-gan-90-nguoi-mat-tich-4710303.html) - 09:06 08/02/2024
+- 🤭 [Lở đất chôn vùi làng đào vàng Philippines, 90 người mất tích](https://vnexpress.net/lo-dat-chon-vui-lang-dao-vang-philippines-90-nguoi-mat-tich-4710303.html) - 09:06 08/02/2024
 - 🧑‍💻 [Iraq nói liên minh chống IS do Mỹ dẫn đầu là &#39;nhân tố gây bất ổn&#39;](https://vnexpress.net/iraq-noi-lien-minh-chong-is-do-my-dan-dau-la-nhan-to-gay-bat-on-4710307.html) - 08:40 08/02/2024
 - 🦏 [Trình diễn drone - giải pháp thay thế pháo hoa trên thế giới](https://vnexpress.net/trinh-dien-drone-giai-phap-thay-the-phao-hoa-tren-the-gioi-4710266.html) - 08:11 08/02/2024
 - 🦒 [Ba Lan tin ông Trump có thể chấm dứt chiến sự Ukraine trong 24 giờ](https://vnexpress.net/ba-lan-tin-ong-trump-co-the-cham-dut-chien-su-ukraine-trong-24-gio-4710254.html) - 07:46 08/02/2024
