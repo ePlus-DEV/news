@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Ten Hag: &#39;Mọi trận còn lại của Man Utd đều là chung kết&#39;](https://vnexpress.net/ten-hag-moi-tran-con-lai-cua-man-utd-deu-la-chung-ket-4710435.html) - 21:39 08/02/2024
-- 🦩 [Messi bị đề nghị đừng trở lại Hong Kong](https://vnexpress.net/messi-bi-de-nghi-dung-tro-lai-hong-kong-4710414.html) - 21:39 08/02/2024
+- 🦩 [Messi bị đề nghị không trở lại Hong Kong](https://vnexpress.net/messi-bi-de-nghi-khong-tro-lai-hong-kong-4710414.html) - 21:39 08/02/2024
 - 🧰 [Golfer &#39;bắn hạ&#39; chim khi phát bóng bằng gậy sắt](https://vnexpress.net/golfer-ban-ha-chim-khi-phat-bong-bang-gay-sat-4710410.html) - 21:00 08/02/2024
 - 🤗 [Kỷ lục gia Tây Ban Nha bị cấm thi đấu vì 3 lần phạm quy doping](https://vnexpress.net/ky-luc-gia-tay-ban-nha-bi-cam-thi-dau-vi-3-lan-pham-quy-doping-4710406.html) - 17:00 08/02/2024
 - 🥳 [Madam Pang làm chủ tịch LĐBĐ Thái Lan](https://vnexpress.net/madam-pang-lam-chu-tich-ldbd-thai-lan-4710358.html) - 12:02 08/02/2024
