@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Kế hoạch tẩu thoát của kẻ dùng súng cướp 3 tỷ đồng của Vietinbank](https://vnexpress.net/ke-hoach-tau-thoat-cua-ke-dung-sung-cuop-3-ty-dong-cua-vietinbank-4710245.html) - 05:30 08/02/2024
+- 😎 [Kế hoạch đánh lạc hướng cảnh sát của kẻ cướp ngân hàng Vietinbank](https://vnexpress.net/ke-hoach-danh-lac-huong-canh-sat-cua-ke-cuop-ngan-hang-vietinbank-4710245.html) - 05:30 08/02/2024
 - 🥰 [Nghi can cướp ngân hàng ở Lâm Đồng bị bắt](https://vnexpress.net/nghi-can-cuop-ngan-hang-o-lam-dong-bi-bat-4710157.html) - 00:37 08/02/2024
 - 🎓 [Pháo hoa mua về dùng không hết, bán lại được không?](https://vnexpress.net/phao-hoa-mua-ve-dung-khong-het-ban-lai-duoc-khong-4709915.html) - 17:00 07/02/2024
 - 🤓 [&#39;Tội ác thế kỷ&#39; của nhóm cướp 2,7 triệu USD](https://vnexpress.net/toi-ac-the-ky-cua-nhom-cuop-2-7-trieu-usd-4709592.html) - 17:00 07/02/2024
