@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [2024 drone vẽ biểu tượng Hà Nội trên trời đêm thế nào](https://video.vnexpress.net/2024-drone-ve-bieu-tuong-ha-noi-tren-troi-dem-the-nao-4710136.html) - 02:12 08/02/2024
+- 🦒 [2.024 drone vẽ biểu tượng Hà Nội trên trời đêm thế nào](https://video.vnexpress.net/2-024-drone-ve-bieu-tuong-ha-noi-tren-troi-dem-the-nao-4710136.html) - 02:12 08/02/2024
 - 🤓 [Người Sài Gòn nấu bánh chưng, tét khắp các hẻm](https://vnexpress.net/nguoi-sai-gon-nau-banh-chung-tet-khap-cac-hem-4709647.html) - 22:00 07/02/2024
 - ⚗️ [Xã &#39;đầu bếp&#39;](https://vnexpress.net/xa-dau-bep-4708507.html) - 22:00 07/02/2024
 - 🌊 [Đà Nẵng dự kiến khoác áo mới cho sông Hàn](https://vnexpress.net/da-nang-du-kien-khoac-ao-moi-cho-song-han-4706714.html) - 21:00 07/02/2024
