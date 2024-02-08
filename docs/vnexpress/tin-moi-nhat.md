@@ -4,8 +4,8 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Cuộc sống không lối thoát bên trong &#39;nồi áp suất&#39; Gaza](https://vnexpress.net/cuoc-song-khong-loi-thoat-ben-trong-noi-ap-suat-gaza-4709798.html) - 04:17 08/02/2024
-- 🐎 [Chi tiền khủng khuyến khích nhân viên sinh con](https://vnexpress.net/chi-tien-khung-khuyen-khich-nhan-vien-sinh-con-4710163.html) - 04:13 08/02/2024
+- 🎬 [Tiện ích trên ngân hàng số BVBank](https://vnexpress.net/tien-ich-tren-ngan-hang-so-bvbank-4709911.html) - 04:20 08/02/2024
+- 🐎 [Cuộc sống không lối thoát bên trong &#39;nồi áp suất&#39; Gaza](https://vnexpress.net/cuoc-song-khong-loi-thoat-ben-trong-noi-ap-suat-gaza-4709798.html) - 04:17 08/02/2024
 - 🦍 [Thủ tướng Israel: Đề xuất ngừng bắn của Hamas là &#39;ảo tưởng&#39;](https://vnexpress.net/thu-tuong-israel-de-xuat-ngung-ban-cua-hamas-la-ao-tuong-4710224.html) - 04:11 08/02/2024
 - 🏊 [Kỳ tích mang tên Bờ Biển Ngà ở AFCON 2024](https://vnexpress.net/ky-tich-mang-ten-bo-bien-nga-o-afcon-2024-4710195.html) - 04:08 08/02/2024
 - 🎊 [Mâm cỗ 30 Tết truyền thống của người Hà Nội](https://vnexpress.net/mam-co-30-tet-truyen-thong-cua-nguoi-ha-noi-4709863.html) - 04:00 08/02/2024
