@@ -210,46 +210,46 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [NSƯT Chí Trung: Tôi vẫn sẽ xem Táo Quân 2024, vì đó là tình yêu và nỗi nhớ](https://laodong.vn/van-hoa-giai-tri/nsut-chi-trung-toi-van-se-xem-tao-quan-2024-vi-do-la-tinh-yeu-va-noi-nho-1298468.ldo) - 23:30 08/02/2024
-- 📝 [Giấc ngủ vội của những tiểu thương đến TPHCM bán hoa kiểng dịp Tết](https://laodong.vn/media/giac-ngu-voi-cua-nhung-tieu-thuong-den-tphcm-ban-hoa-kieng-dip-tet-1302708.ldo) - 23:30 08/02/2024
-- 🦏 [Tuyến Metro số 1 - hành trình ước vọng](https://laodong.vn/xa-hoi/tuyen-metro-so-1-hanh-trinh-uoc-vong-1302415.ldo) - 23:26 08/02/2024
-- 🦩 [Lãi suất ngân hàng hôm nay 9.2: Tết gửi tiết kiệm ở đâu lãi suất cao nhất](https://laodong.vn/tien-te-dau-tu/lai-suat-ngan-hang-hom-nay-92-tet-gui-tiet-kiem-o-dau-lai-suat-cao-nhat-1300768.ldo) - 23:23 08/02/2024
-- 🦏 [Ngày Tết nhà có đồ mới nhờ “Chợ Tết Công đoàn năm 2024”](https://laodong.vn/cong-doan/ngay-tet-nha-co-do-moi-nho-cho-tet-cong-doan-nam-2024-1301501.ldo) - 23:21 08/02/2024
-- 🧰 [Tỷ giá ngoại tệ, cập nhật tỷ giá USD chợ đen hôm nay 9.2](https://laodong.vn/tien-te-dau-tu/ty-gia-ngoai-te-cap-nhat-ty-gia-usd-cho-den-hom-nay-92-1298235.ldo) - 23:19 08/02/2024
-- 🌊 [Kiếm gần chục triệu từ việc chở hoa kiểng ngày Tết](https://laodong.vn/kinh-doanh/kiem-gan-chuc-trieu-tu-viec-cho-hoa-kieng-ngay-tet-1302749.ldo) - 23:16 08/02/2024
-- 🔥 [Sẵn sàng cho mùa du lịch Tết Nguyên đán](https://laodong.vn/van-hoa-giai-tri/san-sang-cho-mua-du-lich-tet-nguyen-dan-1301545.ldo) - 23:14 08/02/2024
-- 🦒 [Dự báo thời tiết Nam Bộ trong những ngày Tết Nguyên đán 2024](https://laodong.vn/video-xa-hoi/du-bao-thoi-tiet-nam-bo-trong-nhung-ngay-tet-nguyen-dan-2024-1300760.ldo) - 23:00 08/02/2024
-- 💼 [Chi tiết 32 điểm bắn pháo hoa đêm giao thừa tại Hà Nội](https://laodong.vn/ban-tin/chi-tiet-32-diem-ban-phao-hoa-dem-giao-thua-tai-ha-noi-1302265.ldo) - 23:00 08/02/2024
-- 🤖 [Lời chúc mừng năm mới ở các nước đón Tết Nguyên đán](https://laodong.vn/the-gioi/loi-chuc-mung-nam-moi-o-cac-nuoc-don-tet-nguyen-dan-1300886.ldo) - 23:00 08/02/2024
-- 💪 [Cách ăn uống và sinh hoạt để giữ sức khỏe trong dịp Tết Nguyên đán](https://laodong.vn/suc-khoe/cach-an-uong-va-sinh-hoat-de-giu-suc-khoe-trong-dip-tet-nguyen-dan-1300894.ldo) - 23:00 08/02/2024
-- 👍 [Cô gái 9x giúp gần 5.000 trẻ em được tiếp cận bóng đá](https://laodong.vn/nguoi-viet-tu-te/co-gai-9x-giup-gan-5000-tre-em-duoc-tiep-can-bong-da-1300956.ldo) - 23:00 08/02/2024
-- 💂 [Nha Trang bước vào mùa xuân 100 năm tuổi](https://laodong.vn/xa-hoi/nha-trang-buoc-vao-mua-xuan-100-nam-tuoi-1300976.ldo) - 23:00 08/02/2024
-- 🧰 [Tín hiệu tích cực mang tới kỳ vọng cho thị trường địa ốc dịp đầu năm](https://laodong.vn/bat-dong-san/tin-hieu-tich-cuc-mang-toi-ky-vong-cho-thi-truong-dia-oc-dip-dau-nam-1301371.ldo) - 23:00 08/02/2024
-- 🥷 [Top 11 cầu thủ sinh năm 2000 có ảnh hưởng nhất](https://laodong.vn/the-thao/top-11-cau-thu-sinh-nam-2000-co-anh-huong-nhat-1301438.ldo) - 23:00 08/02/2024
-- 💫 [Điều kiện để hộ gia đình được bồi thường về đất khi bị thu hồi đất](https://laodong.vn/tu-van-phap-luat/dieu-kien-de-ho-gia-dinh-duoc-boi-thuong-ve-dat-khi-bi-thu-hoi-dat-1298521.ldo) - 23:00 08/02/2024
-- 🎭 [Lý do nên cho học sinh các cấp nghỉ Tết Nguyên đán dài ngày](https://laodong.vn/ban-doc/ly-do-nen-cho-hoc-sinh-cac-cap-nghi-tet-nguyen-dan-dai-ngay-1299432.ldo) - 23:00 08/02/2024
-- 😎 [Người dân Cần Thơ ưu tiên lì xì Tết có giá trị hay tặng quà?](https://laodong.vn/gia-dinh-hon-nhan/nguoi-dan-can-tho-uu-tien-li-xi-tet-co-gia-tri-hay-tang-qua-1300186.ldo) - 23:00 08/02/2024
-- 💄 [Lưu ý dinh dưỡng cho trẻ trong ngày Tết](https://laodong.vn/suc-khoe/luu-y-dinh-duong-cho-tre-trong-ngay-tet-1300269.ldo) - 23:00 08/02/2024
-- 🫣 [Chợ sỉ bánh kẹo lớn nhất TPHCM mở cửa đón khách tham quan, check-in ngày Tết](https://laodong.vn/kinh-doanh/cho-si-banh-keo-lon-nhat-tphcm-mo-cua-don-khach-tham-quan-check-in-ngay-tet-1300321.ldo) - 23:00 08/02/2024
-- 🧑‍🏫 [Trọn bộ lãi suất Agribank, Vietcombank, BIDV, VietinBank mới nhất ngày 9.2](https://laodong.vn/tien-te-dau-tu/tron-bo-lai-suat-agribank-vietcombank-bidv-vietinbank-moi-nhat-ngay-92-1302699.ldo) - 23:00 08/02/2024
-- 🦣 [Vì sao người Việt mua muối và kiêng mua vôi ngày đầu năm mới?](https://laodong.vn/ban-doc/vi-sao-nguoi-viet-mua-muoi-va-kieng-mua-voi-ngay-dau-nam-moi-1300504.ldo) - 22:30 08/02/2024
-- 💫 [Phó Thủ tướng Trần Hồng Hà thăm, động viên các lực lượng trực Tết ở Hà Nội](https://laodong.vn/thoi-su/pho-thu-tuong-tran-hong-ha-tham-dong-vien-cac-luc-luong-truc-tet-o-ha-noi-1302625.ldo) - 15:42 08/02/2024
-- ⛽️ [Xe khách chở 39 người về quê ăn Tết gặp tai nạn, lật dưới ruộng lúa](https://laodong.vn/xa-hoi/xe-khach-cho-39-nguoi-ve-que-an-tet-gap-tai-nan-lat-duoi-ruong-lua-1302735.ldo) - 15:27 08/02/2024
-- 💫 [Hàng nghìn người check-in Hội hoa xuân tỉnh Bình Dương đêm 29 Tết](https://laodong.vn/photo/hang-nghin-nguoi-check-in-hoi-hoa-xuan-tinh-binh-duong-dem-29-tet-1302717.ldo) - 15:24 08/02/2024
-- 🥸 [Điểm bắn pháo hoa, đón giao thừa Tết Giáp Thìn 2024 trên cả nước](https://laodong.vn/van-hoa-giai-tri/diem-ban-phao-hoa-don-giao-thua-tet-giap-thin-2024-tren-ca-nuoc-1302732.ldo) - 14:56 08/02/2024
-- 🐻 [Ấm lòng những lao động phục vụ Tết](https://laodong.vn/xa-hoi/am-long-nhung-lao-dong-phuc-vu-tet-1302676.ldo) - 14:55 08/02/2024
-- 🪄 [Đăng ký công nhận lại, nhiều sản phẩm OCOP gặp khó](https://laodong.vn/kinh-doanh/dang-ky-cong-nhan-lai-nhieu-san-pham-ocop-gap-kho-1301604.ldo) - 14:26 08/02/2024
-- 🧑‍🏫 [Bệnh viện còn bệnh nhân thì y bác sĩ chưa thể nghỉ ngơi](https://laodong.vn/thoi-su/benh-vien-con-benh-nhan-thi-y-bac-si-chua-the-nghi-ngoi-1302716.ldo) - 14:11 08/02/2024
-- 🌊 [Thủ tướng Phạm Minh Chính dâng hương cố Thủ tướng Phạm Văn Đồng](https://laodong.vn/thoi-su/thu-tuong-pham-minh-chinh-dang-huong-co-thu-tuong-pham-van-dong-1302713.ldo) - 14:10 08/02/2024
-- 💻 [Bắt giữ 32 đối tượng giả danh cán bộ nhà nước lừa đảo hơn 200 tỉ đồng](https://laodong.vn/phap-luat/bat-giu-32-doi-tuong-gia-danh-can-bo-nha-nuoc-lua-dao-hon-200-ti-dong-1302715.ldo) - 14:08 08/02/2024
-- 👨‍🏫 [Làm rõ vụ cháy bãi chứa rác thải ở Bình Dương chiều 29 Tết](https://laodong.vn/xa-hoi/lam-ro-vu-chay-bai-chua-rac-thai-o-binh-duong-chieu-29-tet-1302712.ldo) - 14:05 08/02/2024
-- 🌈 [TPHCM lung linh ánh sáng về đêm, đếm giờ chào đón năm mới](https://laodong.vn/photo/tphcm-lung-linh-anh-sang-ve-dem-dem-gio-chao-don-nam-moi-1302384.ldo) - 14:04 08/02/2024
-- 🐲 [Triệt xóa đường dây mua bán 65 kg ma túy xuyên quốc gia, bắt giữ nhiều đối tượng](https://laodong.vn/phap-luat/triet-xoa-duong-day-mua-ban-65-kg-ma-tuy-xuyen-quoc-gia-bat-giu-nhieu-doi-tuong-1302707.ldo) - 14:04 08/02/2024
-- 🚀 [Thu nhập ổn định từ nghề sửa chữa... thời gian](https://laodong.vn/xa-hoi/thu-nhap-on-dinh-tu-nghe-sua-chua-thoi-gian-1302683.ldo) - 14:03 08/02/2024
-- 😺 [NAPAS đảm bảo hạ tầng thanh toán ổn định, an toàn và thông suốt, đáp ứng nhu cầu thanh toán của người dân dịp Tết Giáp Thìn 2024](https://laodong.vn/kinh-doanh/napas-dam-bao-ha-tang-thanh-toan-on-dinh-an-toan-va-thong-suot-dap-ung-nhu-cau-thanh-toan-cua-nguoi-dan-dip-tet-giap-thin-2024-1301859.ldo) - 13:53 08/02/2024
-- 🕴 [Chu Thanh Huyền đeo túi &quot;đắt nhất hành tinh&quot; cạnh Quang Hải ngày đặc biệt](https://laodong.vn/gia-dinh-hon-nhan/chu-thanh-huyen-deo-tui-dat-nhat-hanh-tinh-canh-quang-hai-ngay-dac-biet-1302684.ldo) - 13:52 08/02/2024
-- 🌋 [Công ty Hàn Quốc chi cho nhân viên 75.000 USD mỗi lần sinh con](https://laodong.vn/the-gioi/cong-ty-han-quoc-chi-cho-nhan-vien-75000-usd-moi-lan-sinh-con-1302654.ldo) - 13:45 08/02/2024
-- 💄 [Chợ vàng mã lớn nhất TPHCM tấp nập trước ngày cúng giao thừa](https://laodong.vn/media/cho-vang-ma-lon-nhat-tphcm-tap-nap-truoc-ngay-cung-giao-thua-1302692.ldo) - 13:38 08/02/2024<!-- laodong:END -->
+- 🗽 [Nữ Tiến sĩ trẻ tiên phong ứng dụng AI trong nội soi tiêu hóa](https://laodong.vn/suc-khoe/nu-tien-si-tre-tien-phong-ung-dung-ai-trong-noi-soi-tieu-hoa-1302358.ldo) - 23:50 08/02/2024
+- 📝 [Du học sinh Việt ở châu Âu đón Tết](https://laodong.vn/giao-duc/du-hoc-sinh-viet-o-chau-au-don-tet-1299788.ldo) - 23:45 08/02/2024
+- 🦏 [Tăng tốc siêu dự án sân bay Long Thành cất cánh đúng tiến độ](https://laodong.vn/xa-hoi/tang-toc-sieu-du-an-san-bay-long-thanh-cat-canh-dung-tien-do-1302401.ldo) - 23:41 08/02/2024
+- 🦩 [Mùa xuân từ những nhà trọ 0 đồng](https://laodong.vn/xa-hoi/mua-xuan-tu-nhung-nha-tro-0-dong-1302411.ldo) - 23:37 08/02/2024
+- 🦏 [Giấc ngủ vội của những tiểu thương đến TPHCM bán hoa kiểng dịp Tết](https://laodong.vn/media/giac-ngu-voi-cua-nhung-tieu-thuong-den-tphcm-ban-hoa-kieng-dip-tet-1302708.ldo) - 23:30 08/02/2024
+- 🧰 [NSƯT Chí Trung: Tôi vẫn sẽ xem Táo Quân 2024, vì đó là tình yêu và nỗi nhớ](https://laodong.vn/van-hoa-giai-tri/nsut-chi-trung-toi-van-se-xem-tao-quan-2024-vi-do-la-tinh-yeu-va-noi-nho-1298468.ldo) - 23:30 08/02/2024
+- 🌊 [Tuyến Metro số 1 - hành trình ước vọng](https://laodong.vn/xa-hoi/tuyen-metro-so-1-hanh-trinh-uoc-vong-1302415.ldo) - 23:26 08/02/2024
+- 🔥 [Lãi suất ngân hàng hôm nay 9.2: Tết gửi tiết kiệm ở đâu lãi suất cao nhất](https://laodong.vn/tien-te-dau-tu/lai-suat-ngan-hang-hom-nay-92-tet-gui-tiet-kiem-o-dau-lai-suat-cao-nhat-1300768.ldo) - 23:23 08/02/2024
+- 🦒 [Ngày Tết nhà có đồ mới nhờ “Chợ Tết Công đoàn năm 2024”](https://laodong.vn/cong-doan/ngay-tet-nha-co-do-moi-nho-cho-tet-cong-doan-nam-2024-1301501.ldo) - 23:21 08/02/2024
+- 💼 [Tỷ giá ngoại tệ, cập nhật tỷ giá USD chợ đen hôm nay 9.2](https://laodong.vn/tien-te-dau-tu/ty-gia-ngoai-te-cap-nhat-ty-gia-usd-cho-den-hom-nay-92-1298235.ldo) - 23:19 08/02/2024
+- 🤖 [Kiếm gần chục triệu từ việc chở hoa kiểng ngày Tết](https://laodong.vn/kinh-doanh/kiem-gan-chuc-trieu-tu-viec-cho-hoa-kieng-ngay-tet-1302749.ldo) - 23:16 08/02/2024
+- 💪 [Sẵn sàng cho mùa du lịch Tết Nguyên đán](https://laodong.vn/van-hoa-giai-tri/san-sang-cho-mua-du-lich-tet-nguyen-dan-1301545.ldo) - 23:14 08/02/2024
+- 👍 [Lời chúc mừng năm mới ở các nước đón Tết Nguyên đán](https://laodong.vn/the-gioi/loi-chuc-mung-nam-moi-o-cac-nuoc-don-tet-nguyen-dan-1300886.ldo) - 23:00 08/02/2024
+- 💂 [Cách ăn uống và sinh hoạt để giữ sức khỏe trong dịp Tết Nguyên đán](https://laodong.vn/suc-khoe/cach-an-uong-va-sinh-hoat-de-giu-suc-khoe-trong-dip-tet-nguyen-dan-1300894.ldo) - 23:00 08/02/2024
+- 🧰 [Cô gái 9x giúp gần 5.000 trẻ em được tiếp cận bóng đá](https://laodong.vn/nguoi-viet-tu-te/co-gai-9x-giup-gan-5000-tre-em-duoc-tiep-can-bong-da-1300956.ldo) - 23:00 08/02/2024
+- 🥷 [Nha Trang bước vào mùa xuân 100 năm tuổi](https://laodong.vn/xa-hoi/nha-trang-buoc-vao-mua-xuan-100-nam-tuoi-1300976.ldo) - 23:00 08/02/2024
+- 💫 [Tín hiệu tích cực mang tới kỳ vọng cho thị trường địa ốc dịp đầu năm](https://laodong.vn/bat-dong-san/tin-hieu-tich-cuc-mang-toi-ky-vong-cho-thi-truong-dia-oc-dip-dau-nam-1301371.ldo) - 23:00 08/02/2024
+- 🎭 [Top 11 cầu thủ sinh năm 2000 có ảnh hưởng nhất](https://laodong.vn/the-thao/top-11-cau-thu-sinh-nam-2000-co-anh-huong-nhat-1301438.ldo) - 23:00 08/02/2024
+- 😎 [Dự báo thời tiết Nam Bộ trong những ngày Tết Nguyên đán 2024](https://laodong.vn/video-xa-hoi/du-bao-thoi-tiet-nam-bo-trong-nhung-ngay-tet-nguyen-dan-2024-1300760.ldo) - 23:00 08/02/2024
+- 💄 [Điều kiện để hộ gia đình được bồi thường về đất khi bị thu hồi đất](https://laodong.vn/tu-van-phap-luat/dieu-kien-de-ho-gia-dinh-duoc-boi-thuong-ve-dat-khi-bi-thu-hoi-dat-1298521.ldo) - 23:00 08/02/2024
+- 🫣 [Lý do nên cho học sinh các cấp nghỉ Tết Nguyên đán dài ngày](https://laodong.vn/ban-doc/ly-do-nen-cho-hoc-sinh-cac-cap-nghi-tet-nguyen-dan-dai-ngay-1299432.ldo) - 23:00 08/02/2024
+- 🧑‍🏫 [Người dân Cần Thơ ưu tiên lì xì Tết có giá trị hay tặng quà?](https://laodong.vn/gia-dinh-hon-nhan/nguoi-dan-can-tho-uu-tien-li-xi-tet-co-gia-tri-hay-tang-qua-1300186.ldo) - 23:00 08/02/2024
+- 🦣 [Lưu ý dinh dưỡng cho trẻ trong ngày Tết](https://laodong.vn/suc-khoe/luu-y-dinh-duong-cho-tre-trong-ngay-tet-1300269.ldo) - 23:00 08/02/2024
+- 💫 [Chợ sỉ bánh kẹo lớn nhất TPHCM mở cửa đón khách tham quan, check-in ngày Tết](https://laodong.vn/kinh-doanh/cho-si-banh-keo-lon-nhat-tphcm-mo-cua-don-khach-tham-quan-check-in-ngay-tet-1300321.ldo) - 23:00 08/02/2024
+- ⛽️ [Chi tiết 32 điểm bắn pháo hoa đêm giao thừa tại Hà Nội](https://laodong.vn/ban-tin/chi-tiet-32-diem-ban-phao-hoa-dem-giao-thua-tai-ha-noi-1302265.ldo) - 23:00 08/02/2024
+- 💫 [Trọn bộ lãi suất Agribank, Vietcombank, BIDV, VietinBank mới nhất ngày 9.2](https://laodong.vn/tien-te-dau-tu/tron-bo-lai-suat-agribank-vietcombank-bidv-vietinbank-moi-nhat-ngay-92-1302699.ldo) - 23:00 08/02/2024
+- 🥸 [Vì sao người Việt mua muối và kiêng mua vôi ngày đầu năm mới?](https://laodong.vn/ban-doc/vi-sao-nguoi-viet-mua-muoi-va-kieng-mua-voi-ngay-dau-nam-moi-1300504.ldo) - 22:30 08/02/2024
+- 🐻 [Phó Thủ tướng Trần Hồng Hà thăm, động viên các lực lượng trực Tết ở Hà Nội](https://laodong.vn/thoi-su/pho-thu-tuong-tran-hong-ha-tham-dong-vien-cac-luc-luong-truc-tet-o-ha-noi-1302625.ldo) - 15:42 08/02/2024
+- 🪄 [Xe khách chở 39 người về quê ăn Tết gặp tai nạn, lật dưới ruộng lúa](https://laodong.vn/xa-hoi/xe-khach-cho-39-nguoi-ve-que-an-tet-gap-tai-nan-lat-duoi-ruong-lua-1302735.ldo) - 15:27 08/02/2024
+- 🧑‍🏫 [Hàng nghìn người check-in Hội hoa xuân tỉnh Bình Dương đêm 29 Tết](https://laodong.vn/photo/hang-nghin-nguoi-check-in-hoi-hoa-xuan-tinh-binh-duong-dem-29-tet-1302717.ldo) - 15:24 08/02/2024
+- 🌊 [Điểm bắn pháo hoa, đón giao thừa Tết Giáp Thìn 2024 trên cả nước](https://laodong.vn/van-hoa-giai-tri/diem-ban-phao-hoa-don-giao-thua-tet-giap-thin-2024-tren-ca-nuoc-1302732.ldo) - 14:56 08/02/2024
+- 💻 [Ấm lòng những lao động phục vụ Tết](https://laodong.vn/xa-hoi/am-long-nhung-lao-dong-phuc-vu-tet-1302676.ldo) - 14:55 08/02/2024
+- 👨‍🏫 [Đăng ký công nhận lại, nhiều sản phẩm OCOP gặp khó](https://laodong.vn/kinh-doanh/dang-ky-cong-nhan-lai-nhieu-san-pham-ocop-gap-kho-1301604.ldo) - 14:26 08/02/2024
+- 🌈 [Bệnh viện còn bệnh nhân thì y bác sĩ chưa thể nghỉ ngơi](https://laodong.vn/thoi-su/benh-vien-con-benh-nhan-thi-y-bac-si-chua-the-nghi-ngoi-1302716.ldo) - 14:11 08/02/2024
+- 🐲 [Thủ tướng Phạm Minh Chính dâng hương cố Thủ tướng Phạm Văn Đồng](https://laodong.vn/thoi-su/thu-tuong-pham-minh-chinh-dang-huong-co-thu-tuong-pham-van-dong-1302713.ldo) - 14:10 08/02/2024
+- 🚀 [Bắt giữ 32 đối tượng giả danh cán bộ nhà nước lừa đảo hơn 200 tỉ đồng](https://laodong.vn/phap-luat/bat-giu-32-doi-tuong-gia-danh-can-bo-nha-nuoc-lua-dao-hon-200-ti-dong-1302715.ldo) - 14:08 08/02/2024
+- 😺 [Làm rõ vụ cháy bãi chứa rác thải ở Bình Dương chiều 29 Tết](https://laodong.vn/xa-hoi/lam-ro-vu-chay-bai-chua-rac-thai-o-binh-duong-chieu-29-tet-1302712.ldo) - 14:05 08/02/2024
+- 🕴 [TPHCM lung linh ánh sáng về đêm, đếm giờ chào đón năm mới](https://laodong.vn/photo/tphcm-lung-linh-anh-sang-ve-dem-dem-gio-chao-don-nam-moi-1302384.ldo) - 14:04 08/02/2024
+- 🌋 [Triệt xóa đường dây mua bán 65 kg ma túy xuyên quốc gia, bắt giữ nhiều đối tượng](https://laodong.vn/phap-luat/triet-xoa-duong-day-mua-ban-65-kg-ma-tuy-xuyen-quoc-gia-bat-giu-nhieu-doi-tuong-1302707.ldo) - 14:04 08/02/2024
+- 💄 [Thu nhập ổn định từ nghề sửa chữa... thời gian](https://laodong.vn/xa-hoi/thu-nhap-on-dinh-tu-nghe-sua-chua-thoi-gian-1302683.ldo) - 14:03 08/02/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
