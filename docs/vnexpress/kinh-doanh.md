@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Hoa quả ngày Tết giá rẻ bằng nửa năm ngoái vẫn bán chậm](https://vnexpress.net/hoa-qua-ngay-tet-gia-re-bang-nua-nam-ngoai-van-ban-cham-4710236.html) - 10:19 08/02/2024
+- ⛽️ [Hoa quả ngày Tết rẻ bằng nửa năm ngoái vẫn bán chậm](https://vnexpress.net/hoa-qua-ngay-tet-re-bang-nua-nam-ngoai-van-ban-cham-4710236.html) - 10:19 08/02/2024
 - 🐲 [Việt Nam xuất khẩu cao nhất gần hai năm](https://vnexpress.net/viet-nam-xuat-khau-cao-nhat-gan-hai-nam-4710275.html) - 08:00 08/02/2024
 - 🔥 [Giá xăng giảm 900 đồng một lít trước Tết](https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-8-2-4710286.html) - 07:42 08/02/2024
 - 🐵 [Giá tiêu dùng Trung Quốc giảm mạnh nhất 14 năm](https://vnexpress.net/gia-tieu-dung-trung-quoc-giam-manh-nhat-14-nam-4710239.html) - 07:12 08/02/2024
