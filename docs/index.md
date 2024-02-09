@@ -250,66 +250,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Dòng người đổ về hồ Gươm xem bắn pháo hoa chào đón năm mới](https://nld.com.vn/dong-nguoi-do-ve-ho-guom-xem-ban-phao-hoa-chao-don-nam-moi-196240209115650227.htm) - 14:14 09/02/2024
-- 😺 [Ngày xuân nghĩ chữ hiếu thuận với cha mẹ](https://nld.com.vn/ngay-xuan-nghi-chu-hieu-thuan-voi-cha-me-196240209205959731.htm) - 14:13 09/02/2024
-- 👍 [Đi xa để trở về](https://nld.com.vn/di-xa-de-tro-ve-196240209194422879.htm) - 14:10 09/02/2024
-- 🥷 [Xem linh vật rồng phun lửa ở Đà Nẵng chờ đón giao thừa](https://nld.com.vn/xem-linh-vat-rong-phun-lua-o-da-nang-cho-don-giao-thua-196240209203249065.htm) - 13:42 09/02/2024
-- 🤔 [Du học sinh Việt lần đầu đón Tết xa quê](https://nld.com.vn/du-hoc-sinh-viet-lan-dau-don-tet-xa-que-196240209201610995.htm) - 13:39 09/02/2024
-- 🌈 [Tránh cảnh đập bỏ hoa, TP HCM mua hơn 9.000 chậu hoa Tết của tiểu thương](https://nld.com.vn/tranh-canh-dap-bo-hoa-tp-hcm-mua-hon-9000-chau-hoa-tet-cua-tieu-thuong-196240209200827877.htm) - 13:35 09/02/2024
-- 🔥 [Người dân đổ về trung tâm TP HCM &quot;xí&quot; chỗ đẹp xem pháo hoa](https://nld.com.vn/nguoi-dan-do-ve-trung-tam-tp-hcm-xi-cho-dep-xem-phao-hoa-196240209200719433.htm) - 13:30 09/02/2024
-- 🧰 [Công nhân vệ sinh Đà Nẵng: “Chỉ mong về nhà trước giao thừa”](https://nld.com.vn/cong-nhan-ve-sinh-da-nang-chi-mong-ve-nha-truoc-giao-thua-19624020920093581.htm) - 13:29 09/02/2024
-- 🤗 [Những vụ cướp ngân hàng manh động và khuyến cáo của công an](https://nld.com.vn/nhung-vu-cuop-ngan-hang-manh-dong-va-khuyen-cao-cua-cong-an-196240209195210275.htm) - 13:25 09/02/2024
-- 🦅 [Giải cứu cô gái bị cây phượng bật gốc đè ngất xỉu chiều 30 Tết](https://nld.com.vn/giai-cuu-co-gai-bi-cay-phuong-bat-goc-de-ngat-xiu-chieu-30-tet-196240209194131971.htm) - 13:08 09/02/2024
-- 🤩 [Cận cảnh dàn pháo hoa đêm giao thừa ở Kiên Giang](https://nld.com.vn/can-canh-dan-phao-hoa-dem-giao-thua-o-kien-giang-196240209194623326.htm) - 13:04 09/02/2024
-- 🎭 [Tết gần trong tim người Việt ở xa](https://nld.com.vn/tet-gan-trong-tim-nguoi-viet-o-xa-196240206220746657.htm) - 12:55 09/02/2024
-- 💄 [Đặc sản tôm xẻ, tôm lụi Cà Mau &quot;cháy&quot; hàng dịp Tết](https://nld.com.vn/dac-san-tom-xe-tom-lui-ca-mau-chay-hang-dip-tet-196240209152057642.htm) - 12:37 09/02/2024
-- 🎊 [Runner hỏi - Coach trả lời: Những lưu ý sau khi chạy đường dài](https://nld.com.vn/runner-hoi-coach-tra-loi-nhung-luu-y-sau-khi-chay-duong-dai-196240209190020563.htm) - 12:32 09/02/2024
-- 🎡 [Người dân TP HCM làm gì trước đêm giao thừa đặc biệt, gần 1 thập kỷ nữa mới có?](https://nld.com.vn/nguoi-dan-tp-hcm-lam-gi-truoc-dem-giao-thua-dac-biet-gan-1-thap-ky-nua-moi-co-196240209181134065.htm) - 12:21 09/02/2024
-- 🎉 [Hoàn thành gói thầu đầu tiên dự án nạo vét luồng Cái Mép - Thị Vải](https://nld.com.vn/hoan-thanh-goi-thau-dau-tien-du-an-nao-vet-luong-cai-mep-thi-vai-196240209185035612.htm) - 12:10 09/02/2024
-- 😺 [Thưởng nóng tập thể phá nhanh vụ thi thể bị phi tang dưới kênh ở Vĩnh Long](https://nld.com.vn/thuong-nong-tap-the-pha-nhanh-vu-thi-the-bi-phi-tang-duoi-kenh-o-vinh-long-196240209184912011.htm) - 12:04 09/02/2024
-- 🐻 [&quot;Xuân sum vầy - Tết sẻ chia&quot;: Đêm 30 Tết, mong ai cũng có nơi trở về](https://nld.com.vn/dem-30-tet-mong-ai-cung-co-noi-tro-ve-196240204140158805.htm) - 12:00 09/02/2024
-- 🤡 [Cứu sống tiểu thương bán trái cây Tết bị vỡ phình mạch máu não](https://nld.com.vn/cuu-song-tieu-thuong-ban-trai-cay-tet-bi-vo-phinh-mach-mau-nao-196240209162500256.htm) - 11:36 09/02/2024
-- 🚦 [9x TP HCM và các ảnh minh họa cho tuyển Việt Nam, FIFA](https://nld.com.vn/9x-tp-hcm-va-cac-anh-minh-hoa-cho-tuyen-viet-nam-fifa-196240209153941641.htm) - 11:33 09/02/2024
-- 🪜 [Bản tin chiều 9-2: Giá vàng SJC lên cao nhất năm 2024](https://nld.com.vn/ban-tin-chieu-9-2-gia-vang-sjc-len-cao-nhat-nam-2024-196240209170151735.htm) - 11:13 09/02/2024
-- 💫 [Mùa xuân của mẹ](https://nld.com.vn/mua-xuan-cua-me-196240206083054086.htm) - 11:11 09/02/2024
-- 🔭 [Argentina: Sức mạnh vô đối từ cúp vàng và Messi](https://nld.com.vn/argentina-suc-manh-vo-doi-tu-cup-vang-va-messi-196240209174233559.htm) - 10:53 09/02/2024
-- 🌝 [Nghĩa tình chuyến thăm công nhân chiều 30 Tết](https://nld.com.vn/nghia-tinh-chuyen-tham-cong-nhan-chieu-30-tet-1962402091729172.htm) - 10:50 09/02/2024
-- 💪 [Công an TP HCM bắt nhóm cho vay nặng lãi](https://nld.com.vn/cong-an-tp-hcm-bat-nhom-cho-vay-nang-lai-196240209171435953.htm) - 10:41 09/02/2024
-- 🦍 [30 Tết: Hoa trên nhiều tỉnh, thành đua nhau “xả lỗ”](https://nld.com.vn/30-tet-hoa-tren-nhieu-tinh-thanh-dua-nhau-xa-lo-196240209145234639.htm) - 10:18 09/02/2024
-- 🥷 [85 người thương vong vì tai nạn giao thông ngày 30 Tết](https://nld.com.vn/85-nguoi-thuong-vong-vi-tai-nan-giao-thong-ngay-30-tet-196240209165354397.htm) - 10:07 09/02/2024
-- 🫶 [Báo Mỹ tiết lộ “thủ phạm” bắn hạ máy bay Il-76 của Nga](https://nld.com.vn/bao-my-tiet-lo-thu-pham-ban-ha-may-bay-il-76-cua-nga-196240209163255693.htm) - 10:00 09/02/2024
-- 🐻 [TP HCM: Sôi nổi các hoạt động trước giao thừa](https://nld.com.vn/tp-hcm-soi-noi-cac-hoat-dong-truoc-giao-thua-196240209162702151.htm) - 09:54 09/02/2024
-- 🐲 [Sân bay Nội Bài - cửa ngõ Thủ đô khác lạ ngày cuối năm](https://nld.com.vn/san-bay-noi-bai-cua-ngo-thu-do-khac-la-ngay-cuoi-nam-196240209162918224.htm) - 09:48 09/02/2024
-- 🧑‍💻 [Chiều 30 Tết, cây cảnh giảm giá kịch sàn nhưng không có người mua](https://nld.com.vn/chieu-30-tet-cay-canh-giam-gia-kich-san-nhung-khong-co-nguoi-mua-19624020915345094.htm) - 09:43 09/02/2024
-- 🎬 [Đưa cả AI vào, ngân hàng, ví điện tử &quot;đua&quot; hút khách lì xì online dịp Tết](https://nld.com.vn/dua-ca-ai-vao-ngan-hang-vi-dien-tu-dua-hut-khach-li-xi-online-dip-tet-196240209161747086.htm) - 09:30 09/02/2024
-- 👀 [Vườn hoa Xuân Ninh Thuận lung linh sắc màu](https://nld.com.vn/vuon-hoa-xuan-ninh-thuan-lung-linh-sac-mau-196240209162034788.htm) - 09:22 09/02/2024
-- 👍 [Thái Lan: Voi “ăn xin” nổi điên giẫm chủ đến chết](https://nld.com.vn/thai-lan-voi-an-xin-noi-dien-giam-chu-den-chet-196240209121640092.htm) - 09:21 09/02/2024
-- 🦅 [EVNSPC khánh thành công trình bổ sung nguồn điện diesel Côn Đảo](https://nld.com.vn/evnspc-khanh-thanh-cong-trinh-bo-sung-nguon-dien-diesel-con-dao-196240209155335568.htm) - 09:20 09/02/2024
-- 🦏 [Muôn kiểu “trông” thú cưng mùa Tết](https://nld.com.vn/muon-kieu-trong-thu-cung-mua-tet-196240209154800613.htm) - 09:15 09/02/2024
-- 🗽 [Bé gái 12 tuổi ở Bạc Liêu bị xâm hại sau khi đi xem lô tô](https://nld.com.vn/be-gai-12-tuoi-o-bac-lieu-bi-xam-hai-sau-khi-di-xem-lo-to-196240209161117475.htm) - 09:13 09/02/2024
-- 🔭 [70 năm 1 hiệp định kiến thiết hòa bình](https://nld.com.vn/70-nam-1-hiep-dinh-kien-thiet-hoa-binh-196240205142016001.htm) - 09:08 09/02/2024
-- 👍 [Những tỉ phú nông dân ở làng mai Bình Lợi](https://nld.com.vn/nhung-ti-phu-nong-dan-o-lang-mai-binh-loi-196240209153739324.htm) - 09:02 09/02/2024
-- ⛽️ [Gặp nghịch cảnh éo le, biết xử sao cho phải?](https://phunu.nld.com.vn/gap-nghich-canh-eo-le-biet-xu-sao-cho-phai-196240125094815942.htm) - 08:49 09/02/2024
-- 🥸 [Xu hướng màu sắc sơn tường năm 2024](https://diaoc.nld.com.vn/xu-huong-mau-sac-son-tuong-nam-2024-196240124150450745.htm) - 08:48 09/02/2024
-- 🌁 [Những chuyện kỳ lạ ở châu Á năm qua](https://nld.com.vn/nhung-chuyen-ky-la-o-chau-a-nam-qua-196240127151438675.htm) - 08:41 09/02/2024
-- 🌮 [Kết quả xổ số hôm nay &lpar;9-2&rpar;: Vĩnh Long, Bình Dương, Trà Vinh, Ninh Thuận,...](https://nld.com.vn/ket-qua-xo-so-hom-nay-9-2-vinh-long-binh-duong-tra-vinh-ninh-thuan-hai-phong-196240209153159005.htm) - 08:37 09/02/2024
-- 🎉 [TP HCM: Người dân nô nức xuống phố chuẩn bị đón giao thừa](https://nld.com.vn/tp-hcm-nguoi-dan-no-nuc-xuong-pho-chuan-bi-don-giao-thua-196240209144649164.htm) - 08:34 09/02/2024
-- 🤔 [Gần 2.000 khách quốc tế đến Phú Quốc bằng siêu tàu Aida Bella](https://nld.com.vn/gan-2000-khach-quoc-te-den-phu-quoc-bang-sieu-tau-aida-bella-196240209144218046.htm) - 08:33 09/02/2024
-- 🐘 [Công an TP HCM tạm giam một đồng phạm của Khanh &quot;Super&quot;](https://nld.com.vn/cong-an-tp-hcm-tam-giam-mot-dong-pham-cua-khanh-super-196240209150610889.htm) - 08:29 09/02/2024
-- 🙉 [Trường học, bệnh viện .. mất hơn 1 tỉ USD tiền chuộc năm 2023](https://nld.com.vn/truong-hoc-benh-vien-mat-hon-1-ti-usd-tien-chuoc-nam-2023-196240209143538149.htm) - 08:27 09/02/2024
-- 🐵 [&quot;Tết sum vầy - Xuân sẻ chia&quot;: Hoa giấy Thanh Tiên khoe sắc đón Tết](https://nld.com.vn/hoa-giay-thanh-tien-khoe-sac-don-tet-196240209145756676.htm) - 08:18 09/02/2024
-- 🙉 [Nổ pháo tự chế, 1 thiếu niên tử vong ngày giáp Tết](https://nld.com.vn/no-phao-tu-che-1-thieu-nien-tu-vong-ngay-giap-tet-196240209142216653.htm) - 08:10 09/02/2024
-- 💪 [Buôn bán hoa Tết có lỗ như nhiều người nghĩ?](https://nld.com.vn/buon-ban-hoa-tet-co-lo-nhu-nhieu-nguoi-nghi-196240208220830982.htm) - 07:59 09/02/2024
-- ⛽️ [Đăng sai sự thật trên Facebook, người đàn ông bị phạt 7,5 triệu đồng](https://nld.com.vn/dang-sai-su-that-tren-facebook-nguoi-dan-ong-bi-phat-75-trieu-dong-196240209144858249.htm) - 07:55 09/02/2024
-- 👺 [Một phóng viên bị phạt 4 triệu đồng vì hoạt động không đúng tôn chỉ mục đích](https://nld.com.vn/mot-phong-vien-bi-phat-4-trieu-dong-vi-hoat-dong-khong-dung-ton-chi-muc-dich-196240209142346155.htm) - 07:46 09/02/2024
-- 🧠 [Bé gái 2 tuổi gặp tai nạn tử vong ngày cận Tết](https://nld.com.vn/be-gai-2-tuoi-gap-tai-nan-tu-vong-ngay-can-tet-196240209142117811.htm) - 07:43 09/02/2024
-- 🔭 [Nàng xuân “gõ cửa” Trà Sư](https://nld.com.vn/nang-xuan-go-cua-tra-su-196240209131650441.htm) - 07:27 09/02/2024
-- 🦣 [Chồng giết vợ lớn hơn 16 tuổi rồi phi tang thi thể xuống kênh](https://nld.com.vn/chong-giet-vo-lon-hon-16-tuoi-roi-phi-tang-thi-the-xuong-kenh-196240209140834366.htm) - 07:18 09/02/2024
-- 🔥 [Sắc vàng rực rỡ ở làng mai Háo Đức](https://nld.com.vn/sac-vang-ruc-ro-o-lang-mai-hao-duc-196240208165727324.htm) - 07:01 09/02/2024
-- 🌝 [Năm rồng ngấp nghé, châu Á tất bật chờ đón Tết](https://nld.com.vn/nam-rong-ngap-nghe-chau-a-tat-bat-cho-don-tet-196240209002607674.htm) - 06:39 09/02/2024
-- 👍 [Người TP HCM chọn thú vui &quot;cà phê 30 Tết&quot;](https://nld.com.vn/nguoi-tp-hcm-chon-thu-vui-ca-phe-30-tet-196240209131255539.htm) - 06:20 09/02/2024
-- 💂 [Danh sách 9 điểm bắn pháo hoa đêm giao thừa ở BR-VT](https://nld.com.vn/danh-sach-9-diem-ban-phao-hoa-dem-giao-thua-o-br-vt-196240209123917541.htm) - 06:04 09/02/2024
-- 🤖 [Nhà vườn bông giấy thắng lớn ở Hội hoa xuân Bến Bình Đông](https://nld.com.vn/nha-vuon-bong-giay-thang-lon-o-hoi-hoa-xuan-ben-binh-dong-196240209120557115.htm) - 06:02 09/02/2024<!-- nld:END -->
+- 🐎 [Nga lên tiếng về việc Ukraine thay tư lệnh quân đội](https://nld.com.vn/nga-len-tieng-ve-viec-ukraine-thay-tu-lenh-quan-doi-196240209210419216.htm) - 14:21 09/02/2024
+- 😺 [Dòng người đổ về hồ Gươm xem bắn pháo hoa chào đón năm mới](https://nld.com.vn/dong-nguoi-do-ve-ho-guom-xem-ban-phao-hoa-chao-don-nam-moi-196240209115650227.htm) - 14:14 09/02/2024
+- 👍 [Ngày xuân nghĩ chữ hiếu thuận với cha mẹ](https://nld.com.vn/ngay-xuan-nghi-chu-hieu-thuan-voi-cha-me-196240209205959731.htm) - 14:13 09/02/2024
+- 🥷 [Đi xa để trở về](https://nld.com.vn/di-xa-de-tro-ve-196240209194422879.htm) - 14:10 09/02/2024
+- 🤔 [Xem linh vật rồng phun lửa ở Đà Nẵng chờ đón giao thừa](https://nld.com.vn/xem-linh-vat-rong-phun-lua-o-da-nang-cho-don-giao-thua-196240209203249065.htm) - 13:42 09/02/2024
+- 🌈 [Du học sinh Việt lần đầu đón Tết xa quê](https://nld.com.vn/du-hoc-sinh-viet-lan-dau-don-tet-xa-que-196240209201610995.htm) - 13:39 09/02/2024
+- 🔥 [Tránh cảnh đập bỏ hoa, TP HCM mua hơn 9.000 chậu hoa Tết của tiểu thương](https://nld.com.vn/tranh-canh-dap-bo-hoa-tp-hcm-mua-hon-9000-chau-hoa-tet-cua-tieu-thuong-196240209200827877.htm) - 13:35 09/02/2024
+- 🧰 [Người dân đổ về trung tâm TP HCM &quot;xí&quot; chỗ đẹp xem pháo hoa](https://nld.com.vn/nguoi-dan-do-ve-trung-tam-tp-hcm-xi-cho-dep-xem-phao-hoa-196240209200719433.htm) - 13:30 09/02/2024
+- 🤗 [Công nhân vệ sinh Đà Nẵng: “Chỉ mong về nhà trước giao thừa”](https://nld.com.vn/cong-nhan-ve-sinh-da-nang-chi-mong-ve-nha-truoc-giao-thua-19624020920093581.htm) - 13:29 09/02/2024
+- 🦅 [Những vụ cướp ngân hàng manh động và khuyến cáo của công an](https://nld.com.vn/nhung-vu-cuop-ngan-hang-manh-dong-va-khuyen-cao-cua-cong-an-196240209195210275.htm) - 13:25 09/02/2024
+- 🤩 [Giải cứu cô gái bị cây phượng bật gốc đè ngất xỉu chiều 30 Tết](https://nld.com.vn/giai-cuu-co-gai-bi-cay-phuong-bat-goc-de-ngat-xiu-chieu-30-tet-196240209194131971.htm) - 13:08 09/02/2024
+- 🎭 [Cận cảnh dàn pháo hoa đêm giao thừa ở Kiên Giang](https://nld.com.vn/can-canh-dan-phao-hoa-dem-giao-thua-o-kien-giang-196240209194623326.htm) - 13:04 09/02/2024
+- 💄 [Tết gần trong tim người Việt ở xa](https://nld.com.vn/tet-gan-trong-tim-nguoi-viet-o-xa-196240206220746657.htm) - 12:55 09/02/2024
+- 🎊 [Đặc sản tôm xẻ, tôm lụi Cà Mau &quot;cháy&quot; hàng dịp Tết](https://nld.com.vn/dac-san-tom-xe-tom-lui-ca-mau-chay-hang-dip-tet-196240209152057642.htm) - 12:37 09/02/2024
+- 🎡 [Runner hỏi - Coach trả lời: Những lưu ý sau khi chạy đường dài](https://nld.com.vn/runner-hoi-coach-tra-loi-nhung-luu-y-sau-khi-chay-duong-dai-196240209190020563.htm) - 12:32 09/02/2024
+- 🎉 [Người dân TP HCM làm gì trước đêm giao thừa đặc biệt, gần 1 thập kỷ nữa mới có?](https://nld.com.vn/nguoi-dan-tp-hcm-lam-gi-truoc-dem-giao-thua-dac-biet-gan-1-thap-ky-nua-moi-co-196240209181134065.htm) - 12:21 09/02/2024
+- 😺 [Hoàn thành gói thầu đầu tiên dự án nạo vét luồng Cái Mép - Thị Vải](https://nld.com.vn/hoan-thanh-goi-thau-dau-tien-du-an-nao-vet-luong-cai-mep-thi-vai-196240209185035612.htm) - 12:10 09/02/2024
+- 🐻 [Thưởng nóng tập thể phá nhanh vụ thi thể bị phi tang dưới kênh ở Vĩnh Long](https://nld.com.vn/thuong-nong-tap-the-pha-nhanh-vu-thi-the-bi-phi-tang-duoi-kenh-o-vinh-long-196240209184912011.htm) - 12:04 09/02/2024
+- 🤡 [&quot;Xuân sum vầy - Tết sẻ chia&quot;: Đêm 30 Tết, mong ai cũng có nơi trở về](https://nld.com.vn/dem-30-tet-mong-ai-cung-co-noi-tro-ve-196240204140158805.htm) - 12:00 09/02/2024
+- 🚦 [Cứu sống tiểu thương bán trái cây Tết bị vỡ phình mạch máu não](https://nld.com.vn/cuu-song-tieu-thuong-ban-trai-cay-tet-bi-vo-phinh-mach-mau-nao-196240209162500256.htm) - 11:36 09/02/2024
+- 🪜 [9x TP HCM và các ảnh minh họa cho tuyển Việt Nam, FIFA](https://nld.com.vn/9x-tp-hcm-va-cac-anh-minh-hoa-cho-tuyen-viet-nam-fifa-196240209153941641.htm) - 11:33 09/02/2024
+- 💫 [Bản tin chiều 9-2: Giá vàng SJC lên cao nhất năm 2024](https://nld.com.vn/ban-tin-chieu-9-2-gia-vang-sjc-len-cao-nhat-nam-2024-196240209170151735.htm) - 11:13 09/02/2024
+- 🔭 [Mùa xuân của mẹ](https://nld.com.vn/mua-xuan-cua-me-196240206083054086.htm) - 11:11 09/02/2024
+- 🌝 [Argentina: Sức mạnh vô đối từ cúp vàng và Messi](https://nld.com.vn/argentina-suc-manh-vo-doi-tu-cup-vang-va-messi-196240209174233559.htm) - 10:53 09/02/2024
+- 💪 [Nghĩa tình chuyến thăm công nhân chiều 30 Tết](https://nld.com.vn/nghia-tinh-chuyen-tham-cong-nhan-chieu-30-tet-1962402091729172.htm) - 10:50 09/02/2024
+- 🦍 [Công an TP HCM bắt nhóm cho vay nặng lãi](https://nld.com.vn/cong-an-tp-hcm-bat-nhom-cho-vay-nang-lai-196240209171435953.htm) - 10:41 09/02/2024
+- 🥷 [30 Tết: Hoa trên nhiều tỉnh, thành đua nhau “xả lỗ”](https://nld.com.vn/30-tet-hoa-tren-nhieu-tinh-thanh-dua-nhau-xa-lo-196240209145234639.htm) - 10:18 09/02/2024
+- 🫶 [85 người thương vong vì tai nạn giao thông ngày 30 Tết](https://nld.com.vn/85-nguoi-thuong-vong-vi-tai-nan-giao-thong-ngay-30-tet-196240209165354397.htm) - 10:07 09/02/2024
+- 🐻 [Báo Mỹ tiết lộ “thủ phạm” bắn hạ máy bay Il-76 của Nga](https://nld.com.vn/bao-my-tiet-lo-thu-pham-ban-ha-may-bay-il-76-cua-nga-196240209163255693.htm) - 10:00 09/02/2024
+- 🐲 [TP HCM: Sôi nổi các hoạt động trước giao thừa](https://nld.com.vn/tp-hcm-soi-noi-cac-hoat-dong-truoc-giao-thua-196240209162702151.htm) - 09:54 09/02/2024
+- 🧑‍💻 [Sân bay Nội Bài - cửa ngõ Thủ đô khác lạ ngày cuối năm](https://nld.com.vn/san-bay-noi-bai-cua-ngo-thu-do-khac-la-ngay-cuoi-nam-196240209162918224.htm) - 09:48 09/02/2024
+- 🎬 [Chiều 30 Tết, cây cảnh giảm giá kịch sàn nhưng không có người mua](https://nld.com.vn/chieu-30-tet-cay-canh-giam-gia-kich-san-nhung-khong-co-nguoi-mua-19624020915345094.htm) - 09:43 09/02/2024
+- 👀 [Đưa cả AI vào, ngân hàng, ví điện tử &quot;đua&quot; hút khách lì xì online dịp Tết](https://nld.com.vn/dua-ca-ai-vao-ngan-hang-vi-dien-tu-dua-hut-khach-li-xi-online-dip-tet-196240209161747086.htm) - 09:30 09/02/2024
+- 👍 [Vườn hoa Xuân Ninh Thuận lung linh sắc màu](https://nld.com.vn/vuon-hoa-xuan-ninh-thuan-lung-linh-sac-mau-196240209162034788.htm) - 09:22 09/02/2024
+- 🦅 [Thái Lan: Voi “ăn xin” nổi điên giẫm chủ đến chết](https://nld.com.vn/thai-lan-voi-an-xin-noi-dien-giam-chu-den-chet-196240209121640092.htm) - 09:21 09/02/2024
+- 🦏 [EVNSPC khánh thành công trình bổ sung nguồn điện diesel Côn Đảo](https://nld.com.vn/evnspc-khanh-thanh-cong-trinh-bo-sung-nguon-dien-diesel-con-dao-196240209155335568.htm) - 09:20 09/02/2024
+- 🗽 [Muôn kiểu “trông” thú cưng mùa Tết](https://nld.com.vn/muon-kieu-trong-thu-cung-mua-tet-196240209154800613.htm) - 09:15 09/02/2024
+- 🔭 [Bé gái 12 tuổi ở Bạc Liêu bị xâm hại sau khi đi xem lô tô](https://nld.com.vn/be-gai-12-tuoi-o-bac-lieu-bi-xam-hai-sau-khi-di-xem-lo-to-196240209161117475.htm) - 09:13 09/02/2024
+- 👍 [70 năm 1 hiệp định kiến thiết hòa bình](https://nld.com.vn/70-nam-1-hiep-dinh-kien-thiet-hoa-binh-196240205142016001.htm) - 09:08 09/02/2024
+- ⛽️ [Những tỉ phú nông dân ở làng mai Bình Lợi](https://nld.com.vn/nhung-ti-phu-nong-dan-o-lang-mai-binh-loi-196240209153739324.htm) - 09:02 09/02/2024
+- 🥸 [Gặp nghịch cảnh éo le, biết xử sao cho phải?](https://phunu.nld.com.vn/gap-nghich-canh-eo-le-biet-xu-sao-cho-phai-196240125094815942.htm) - 08:49 09/02/2024
+- 🌁 [Xu hướng màu sắc sơn tường năm 2024](https://diaoc.nld.com.vn/xu-huong-mau-sac-son-tuong-nam-2024-196240124150450745.htm) - 08:48 09/02/2024
+- 🌮 [Những chuyện kỳ lạ ở châu Á năm qua](https://nld.com.vn/nhung-chuyen-ky-la-o-chau-a-nam-qua-196240127151438675.htm) - 08:41 09/02/2024
+- 🎉 [Kết quả xổ số hôm nay &lpar;9-2&rpar;: Vĩnh Long, Bình Dương, Trà Vinh, Ninh Thuận,...](https://nld.com.vn/ket-qua-xo-so-hom-nay-9-2-vinh-long-binh-duong-tra-vinh-ninh-thuan-hai-phong-196240209153159005.htm) - 08:37 09/02/2024
+- 🤔 [TP HCM: Người dân nô nức xuống phố chuẩn bị đón giao thừa](https://nld.com.vn/tp-hcm-nguoi-dan-no-nuc-xuong-pho-chuan-bi-don-giao-thua-196240209144649164.htm) - 08:34 09/02/2024
+- 🐘 [Gần 2.000 khách quốc tế đến Phú Quốc bằng siêu tàu Aida Bella](https://nld.com.vn/gan-2000-khach-quoc-te-den-phu-quoc-bang-sieu-tau-aida-bella-196240209144218046.htm) - 08:33 09/02/2024
+- 🙉 [Công an TP HCM tạm giam một đồng phạm của Khanh &quot;Super&quot;](https://nld.com.vn/cong-an-tp-hcm-tam-giam-mot-dong-pham-cua-khanh-super-196240209150610889.htm) - 08:29 09/02/2024
+- 🐵 [Trường học, bệnh viện .. mất hơn 1 tỉ USD tiền chuộc năm 2023](https://nld.com.vn/truong-hoc-benh-vien-mat-hon-1-ti-usd-tien-chuoc-nam-2023-196240209143538149.htm) - 08:27 09/02/2024
+- 🙉 [&quot;Tết sum vầy - Xuân sẻ chia&quot;: Hoa giấy Thanh Tiên khoe sắc đón Tết](https://nld.com.vn/hoa-giay-thanh-tien-khoe-sac-don-tet-196240209145756676.htm) - 08:18 09/02/2024
+- 💪 [Nổ pháo tự chế, 1 thiếu niên tử vong ngày giáp Tết](https://nld.com.vn/no-phao-tu-che-1-thieu-nien-tu-vong-ngay-giap-tet-196240209142216653.htm) - 08:10 09/02/2024
+- ⛽️ [Buôn bán hoa Tết có lỗ như nhiều người nghĩ?](https://nld.com.vn/buon-ban-hoa-tet-co-lo-nhu-nhieu-nguoi-nghi-196240208220830982.htm) - 07:59 09/02/2024
+- 👺 [Đăng sai sự thật trên Facebook, người đàn ông bị phạt 7,5 triệu đồng](https://nld.com.vn/dang-sai-su-that-tren-facebook-nguoi-dan-ong-bi-phat-75-trieu-dong-196240209144858249.htm) - 07:55 09/02/2024
+- 🧠 [Một phóng viên bị phạt 4 triệu đồng vì hoạt động không đúng tôn chỉ mục đích](https://nld.com.vn/mot-phong-vien-bi-phat-4-trieu-dong-vi-hoat-dong-khong-dung-ton-chi-muc-dich-196240209142346155.htm) - 07:46 09/02/2024
+- 🔭 [Bé gái 2 tuổi gặp tai nạn tử vong ngày cận Tết](https://nld.com.vn/be-gai-2-tuoi-gap-tai-nan-tu-vong-ngay-can-tet-196240209142117811.htm) - 07:43 09/02/2024
+- 🦣 [Nàng xuân “gõ cửa” Trà Sư](https://nld.com.vn/nang-xuan-go-cua-tra-su-196240209131650441.htm) - 07:27 09/02/2024
+- 🔥 [Chồng giết vợ lớn hơn 16 tuổi rồi phi tang thi thể xuống kênh](https://nld.com.vn/chong-giet-vo-lon-hon-16-tuoi-roi-phi-tang-thi-the-xuong-kenh-196240209140834366.htm) - 07:18 09/02/2024
+- 🌝 [Sắc vàng rực rỡ ở làng mai Háo Đức](https://nld.com.vn/sac-vang-ruc-ro-o-lang-mai-hao-duc-196240208165727324.htm) - 07:01 09/02/2024
+- 👍 [Năm rồng ngấp nghé, châu Á tất bật chờ đón Tết](https://nld.com.vn/nam-rong-ngap-nghe-chau-a-tat-bat-cho-don-tet-196240209002607674.htm) - 06:39 09/02/2024
+- 💂 [Người TP HCM chọn thú vui &quot;cà phê 30 Tết&quot;](https://nld.com.vn/nguoi-tp-hcm-chon-thu-vui-ca-phe-30-tet-196240209131255539.htm) - 06:20 09/02/2024
+- 🤖 [Danh sách 9 điểm bắn pháo hoa đêm giao thừa ở BR-VT](https://nld.com.vn/danh-sach-9-diem-ban-phao-hoa-dem-giao-thua-o-br-vt-196240209123917541.htm) - 06:04 09/02/2024<!-- nld:END -->
 
 ## Báo SGGP
 <!-- sggp:START -->
