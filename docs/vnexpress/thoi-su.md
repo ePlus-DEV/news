@@ -11,7 +11,7 @@ sidebar_position: 1
 - 🎓 [Người Việt duy nhất vượt Thái Bình Dương bằng bè luồng](https://vnexpress.net/nguoi-viet-duy-nhat-vuot-thai-binh-duong-bang-be-luong-4706052.html) - 17:00 09/02/2024
 - 🔥 [Ông Vương Đình Huệ: &#39;Liên tục sàng lọc, bổ sung quy hoạch đại biểu Quốc hội khóa mới&#39;](https://vnexpress.net/ong-vuong-dinh-hue-lien-tuc-sang-loc-bo-sung-quy-hoach-dai-bieu-quoc-hoi-khoa-moi-4699510.html) - 17:00 09/02/2024
 - 🦏 [Đà Nẵng bác tin CSGT &#39;không kiểm tra nồng độ cồn dịp Tết&#39;](https://vnexpress.net/da-nang-bac-tin-csgt-khong-kiem-tra-nong-do-con-dip-tet-4710696.html) - 16:48 09/02/2024
-- 👺 [Tài xế xe biển xanh đón con gái lãnh đạo ở sân bay bị phạt 2,5 triệu đồng](https://vnexpress.net/tai-xe-xe-bien-xanh-don-con-gai-lanh-dao-o-san-bay-bi-phat-2-5-trieu-dong-4710644.html) - 13:09 09/02/2024
+- 👺 [Tài xế xe biển xanh đón con gái lãnh đạo bị phạt 2,5 triệu đồng](https://vnexpress.net/tai-xe-xe-bien-xanh-don-con-gai-lanh-dao-bi-phat-2-5-trieu-dong-4710644.html) - 13:09 09/02/2024
 - 🧑‍🏫 [Chào xuân Giáp Thìn](https://vnexpress.net/chao-xuan-giap-thin-4710602.html) - 13:00 09/02/2024
 - 🚦 [Đào ế vứt la liệt bên đường chiều 30 Tết](https://vnexpress.net/dao-e-vut-la-liet-ben-duong-chieu-30-tet-4710621.html) - 11:57 09/02/2024
 - 🎉 [Cây phượng bật gốc đè cô gái](https://vnexpress.net/cay-phuong-bat-goc-de-co-gai-4710618.html) - 10:55 09/02/2024
