@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Không khí chuẩn bị đón Tết Giáp Thìn trên thế giới](https://vnexpress.net/khong-khi-chuan-bi-don-tet-giap-thin-tren-the-gioi-4710501.html) - 04:11 09/02/2024
+- 🎭 [Không khí chuẩn bị đón Tết trên thế giới](https://vnexpress.net/khong-khi-chuan-bi-don-tet-tren-the-gioi-4710501.html) - 04:11 09/02/2024
 - 🕴 [Nhà báo Mỹ công bố nội dung phỏng vấn ông Putin](https://vnexpress.net/nha-bao-my-cong-bo-noi-dung-phong-van-ong-putin-4710453.html) - 01:04 09/02/2024
 - 🤭 [Chiến thuật tranh cử &#39;ẩn mình&#39; của ông Biden](https://vnexpress.net/chien-thuat-tranh-cu-an-minh-cua-ong-biden-4709713.html) - 00:43 09/02/2024
 - 🧑‍💻 [Công tố viên đặc biệt nói ông Biden có trí nhớ kém](https://vnexpress.net/cong-to-vien-dac-biet-noi-ong-biden-co-tri-nho-kem-4710452.html) - 00:22 09/02/2024
