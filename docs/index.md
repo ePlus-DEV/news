@@ -145,18 +145,18 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Hàng vạn người dân TP.HCM chật kín đường hoa Nguyễn Huệ đón giao thừa Nhâm Thìn 2024](https://thanhnien.vn/hang-van-nguoi-dan-tphcm-chat-kin-duong-hoa-nguyen-hue-don-giao-thua-nham-thin-2024-185240209202319859.htm) - 13:30 09/02/2024
+- 🤠 [Hàng vạn người dân TP.HCM chật kín đường hoa Nguyễn Huệ đón giao thừa Giáp Thìn 2024](https://thanhnien.vn/hang-van-nguoi-dan-tphcm-chat-kin-duong-hoa-nguyen-hue-don-giao-thua-nham-thin-2024-185240209202319859.htm) - 13:30 09/02/2024
 - 🥸 [TP.HCM: Đường phố rực rỡ cờ đỏ sao vàng chiều 30 tết](https://thanhnien.vn/tphcm-duong-pho-ruc-ro-co-do-sao-vang-chieu-30-tet-185240209200637875.htm) - 13:27 09/02/2024
 - 🌁 [Vì sao doanh số xe máy tại Việt Nam giảm mạnh trong năm 2023?](https://thanhnien.vn/vi-sao-doanh-so-xe-may-tai-viet-nam-giam-manh-trong-nam-2023-185240205130801361.htm) - 13:24 09/02/2024
 - 🤡 [Thi ảnh Khát vọng năm rồng: Thư pháp ngày xuân](https://thanhnien.vn/thi-anh-khat-vong-nam-rong-thu-phap-ngay-xuan-185240209162620768.htm) - 13:18 09/02/2024
-- 🎉 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp mùng 1 năm Giáp Thìn](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-mung-1-nam-giap-thin-185240208153647975.htm) - 13:15 09/02/2024
+- 🎉 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp mùng 1 Tết Giáp Thìn](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-mung-1-nam-giap-thin-185240208153647975.htm) - 13:15 09/02/2024
 - 🎊 [Lời khai ban đầu của nghi phạm giết vợ, phân xác ở Vĩnh Long](https://thanhnien.vn/loi-khai-ban-dau-cua-nghi-pham-giet-vo-phan-xac-o-vinh-long-185240209181509519.htm) - 13:01 09/02/2024
 - 🤠 [Ngày tết, người người đi chùa: Chắp tay lạy Phật thế nào?](https://thanhnien.vn/ngay-tet-nguoi-nguoi-di-chua-chap-tay-lay-phat-the-nao-185240208201752826.htm) - 13:01 09/02/2024
 - 💼 [Nữ bác sĩ 18 năm trực giao thừa: Con tôi hỏi sao mẹ đi trực mãi thế?](https://thanhnien.vn/nu-bac-si-18-nam-truc-giao-thua-con-toi-hoi-sao-me-di-truc-mai-the-185240209170101769.htm) - 13:00 09/02/2024
 - 🐻 [Điểm lại 5 Resort Hà Giang nổi tiếng với tầm nhìn núi rừng hùng vĩ](https://thanhnien.vn/thoi-trang-tre/diem-lai-5-resort-ha-giang-noi-tieng-voi-tam-nhin-nui-rung-hung-vi-185240208171945466.htm) - 13:00 09/02/2024
 - 🤔 [XEM NHANH 20H số tất niên: Sân bay hạ nhiệt ngày 30 tết | Bao lì xì ấm áp của chàng trai trẻ](https://thanhnien.vn/xem-nhanh-20h-so-tat-nien-san-bay-ha-nhiet-ngay-30-tet-bao-li-xi-am-ap-cua-chang-trai-tre-185240209194022445.htm) - 12:58 09/02/2024
 - 📝 [Giám đốc Công an Thừa Thiên - Huế chúc tết các lực lượng ứng trực xuyên tết](https://thanhnien.vn/giam-doc-cong-an-thua-thien-hue-chuc-tet-cac-luc-luong-ung-truc-xuyen-tet-185240209185716895.htm) - 12:57 09/02/2024
-- 🥰 [Chợ hoa trung tâm TP.HCM 30 tết: Tiểu thương từ chối bán lỗ](https://thanhnien.vn/cho-hoa-trung-tam-tphcm-30-tet-tieu-thuong-tu-choi-ban-lo-185240209182803575.htm) - 12:55 09/02/2024
+- 🥰 [Chợ hoa trung tâm TP.HCM 30 tết: ‘Thà tặng cho chùa chứ lỗ cũng đã lỗ rồi’](https://thanhnien.vn/cho-hoa-trung-tam-tphcm-30-tet-tieu-thuong-tu-choi-ban-lo-185240209182803575.htm) - 12:55 09/02/2024
 - 🐲 [Người bán hoa tết ở Đà Nẵng thất thần vì &#39;ế ẩm chưa từng thấy&#39;](https://thanhnien.vn/nguoi-ban-hoa-tet-o-da-nang-that-than-vi-e-am-chua-tung-thay-185240209190109527.htm) - 12:53 09/02/2024
 - 🎃 [Khai bút đầu năm, vì sao phai mờ?](https://thanhnien.vn/khai-but-dau-nam-vi-sao-phai-mo-185240209164325262.htm) - 12:52 09/02/2024
 - 🎬 [Thi ảnh Khát vọng năm rồng: Mong tết ấm no bên nồi cá kho](https://thanhnien.vn/thi-anh-khat-vong-nam-rong-mong-tet-am-no-ben-noi-ca-kho-185240209135353115.htm) - 12:46 09/02/2024
