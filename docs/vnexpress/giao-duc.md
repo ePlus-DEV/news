@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Cô gái nghèo giành học bổng tiến sĩ ở viện ung thư lớn nhất Đức](https://vnexpress.net/co-gai-ngheo-gianh-hoc-bong-tien-si-o-vien-ung-thu-lon-nhat-duc-4705932.html) - 23:00 08/02/2024
+- 🤓 [Cô gái giành học bổng tiến sĩ ở viện ung thư lớn nhất Đức](https://vnexpress.net/co-gai-gianh-hoc-bong-tien-si-o-vien-ung-thu-lon-nhat-duc-4705932.html) - 23:00 08/02/2024
 - 🦆 [Rớt môn lập trình, có nên chuyển ngành khác?](https://vnexpress.net/rot-mon-lap-trinh-co-nen-chuyen-nganh-khac-4709404.html) - 16:59 08/02/2024
 - 🦩 [Nữ sinh ngành Ôtô tốt nghiệp thủ khoa, trúng tuyển giảng viên](https://vnexpress.net/nu-sinh-nganh-oto-tot-nghiep-thu-khoa-trung-tuyen-giang-vien-4709656.html) - 13:00 08/02/2024
 - 🌮 [Gội đầu vào 30 Tết là nghi lễ của dân tộc nào?](https://vnexpress.net/goi-dau-vao-30-tet-la-nghi-le-cua-dan-toc-nao-4708939.html) - 12:00 08/02/2024
