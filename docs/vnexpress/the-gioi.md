@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Bé gái sống sót sau 60 giờ mắc kẹt trong lở đất ở Philippines](https://vnexpress.net/be-gai-song-sot-sau-60-gio-mac-ket-trong-lo-dat-o-philippines-4710549.html) - 06:38 09/02/2024
 - 🕴 [Ông Trump chiến thắng vòng sơ bộ ở Nevada](https://vnexpress.net/ong-trump-chien-thang-vong-so-bo-o-nevada-4710540.html) - 05:17 09/02/2024
-- 🤭 [Ông Biden nổi giận với công tố viên đặc biệt](https://vnexpress.net/ong-biden-noi-gian-voi-cong-to-vien-dac-biet-4710527.html) - 04:43 09/02/2024
+- 🤭 [Tổng thống Biden nổi giận với công tố viên đặc biệt](https://vnexpress.net/tong-thong-biden-noi-gian-voi-cong-to-vien-dac-biet-4710527.html) - 04:43 09/02/2024
 - 🧑‍💻 [Không khí chuẩn bị đón Tết trên thế giới](https://vnexpress.net/khong-khi-chuan-bi-don-tet-tren-the-gioi-4710501.html) - 04:11 09/02/2024
 - 🦏 [Nhà báo Mỹ công bố nội dung phỏng vấn ông Putin](https://vnexpress.net/nha-bao-my-cong-bo-noi-dung-phong-van-ong-putin-4710453.html) - 01:04 09/02/2024
 - 🦒 [Chiến thuật tranh cử &#39;ẩn mình&#39; của ông Biden](https://vnexpress.net/chien-thuat-tranh-cu-an-minh-cua-ong-biden-4709713.html) - 00:43 09/02/2024
