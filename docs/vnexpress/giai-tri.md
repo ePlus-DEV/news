@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Thời trang của Madam Pang và chồng đại tá](https://vnexpress.net/thoi-trang-cua-madam-pang-va-chong-dai-ta-4710441.html) - 00:45 09/02/2024
-- 💫 [3 xu hướng áo dài du xuân được người Việt yêu thích](https://vnexpress.net/3-xu-huong-ao-dai-du-xuan-duoc-nguoi-viet-yeu-thich-4710402.html) - 00:00 09/02/2024
+- 💫 [3 mốt áo dài Tết được người Việt yêu thích](https://vnexpress.net/3-mot-ao-dai-tet-duoc-nguoi-viet-yeu-thich-4710402.html) - 00:00 09/02/2024
 - 🌮 [Thanh Lam: &#39;Tôi dự định cưới năm Giáp Thìn&#39;](https://vnexpress.net/thanh-lam-toi-du-dinh-cuoi-nam-giap-thin-4710210.html) - 17:00 08/02/2024
 - 🧠 [Robert De Niro kể chuyện làm bố ở tuổi ngoài 80](https://vnexpress.net/robert-de-niro-ke-chuyen-lam-bo-o-tuoi-ngoai-80-4710420.html) - 16:30 08/02/2024
 - 👨‍🏫 [Hoàng Thùy, Thanh Trúc viếng lăng 200 năm tuổi](https://vnexpress.net/hoang-thuy-thanh-truc-vieng-lang-200-nam-tuoi-4710103.html) - 14:50 08/02/2024
