@@ -15,7 +15,7 @@ sidebar_position: 9
 - 🫶 [Mong bạn đời có nhân cách tốt, sống tình cảm](https://vnexpress.net/mong-ban-doi-co-nhan-cach-tot-song-tinh-cam-4710454.html) - 14:00 09/02/2024
 - 🪜 [Có nên &#39;tán tỉnh&#39; lại anh sau bốn năm chia tay](https://vnexpress.net/co-nen-tan-tinh-lai-anh-sau-bon-nam-chia-tay-4710405.html) - 14:00 09/02/2024
 - 👨‍🏫 [Cách gọi năm Giáp Thìn trong tiếng Anh](https://vnexpress.net/cach-goi-nam-giap-thin-trong-tieng-anh-4710297.html) - 14:00 09/02/2024
-- 🎊 [&#39;Săn hàng&#39; giá rẻ ngày 30 Tết](https://vnexpress.net/san-hang-gia-re-ngay-30-tet-4710623.html) - 13:43 09/02/2024
+- 🎊 [Nhiều người sắm Tết trong ngày cuối cùng của năm](https://vnexpress.net/nhieu-nguoi-sam-tet-trong-ngay-cuoi-cung-cua-nam-4710623.html) - 13:43 09/02/2024
 - 🎊 [Nga công bố video &#39;tập kích HIMARS, S-300&#39; của Ukraine](https://vnexpress.net/nga-cong-bo-video-tap-kich-himars-s-300-cua-ukraine-4710647.html) - 13:26 09/02/2024
 - 😺 [Tài xế xe biển xanh đón con gái lãnh đạo ở sân bay bị phạt 2,5 triệu đồng](https://vnexpress.net/tai-xe-xe-bien-xanh-don-con-gai-lanh-dao-o-san-bay-bi-phat-2-5-trieu-dong-4710644.html) - 13:09 09/02/2024
 - 🐘 [Bhutan xây &#39;thành phố hạnh phúc&#39; đón khách du lịch](https://vnexpress.net/bhutan-xay-thanh-pho-hanh-phuc-don-khach-du-lich-4710503.html) - 13:09 09/02/2024
@@ -55,5 +55,4 @@ sidebar_position: 9
 - 🏊 [Người mắt kém không thấy con voi, còn bạn?](https://vnexpress.net/nguoi-mat-kem-khong-thay-con-voi-con-ban-4706205.html) - 09:00 09/02/2024
 - 🦩 [TP HCM mua hơn 9.000 chậu hoa Tết của tiểu thương](https://vnexpress.net/tp-hcm-mua-hon-9-000-chau-hoa-tet-cua-tieu-thuong-4710583.html) - 08:47 09/02/2024
 - 👍 [Cụ ông ngồi xe lăn múa sư tử](https://vnexpress.net/cu-ong-ngoi-xe-lan-mua-su-tu-4710591.html) - 08:46 09/02/2024
-- 🔥 [Tân tổng tư lệnh dày dạn kinh nghiệm chống Nga của Ukraine](https://vnexpress.net/tan-tong-tu-lenh-day-dan-kinh-nghiem-chong-nga-cua-ukraine-4710451.html) - 08:34 09/02/2024
-- 💄 [Bé trai thiếu canxi từ trong bụng mẹ](https://vnexpress.net/be-trai-thieu-canxi-tu-trong-bung-me-4710562.html) - 08:19 09/02/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🔥 [Tân tổng tư lệnh dày dạn kinh nghiệm chống Nga của Ukraine](https://vnexpress.net/tan-tong-tu-lenh-day-dan-kinh-nghiem-chong-nga-cua-ukraine-4710451.html) - 08:34 09/02/2024<!-- vnexpress-tin-moi-nhat:END -->
