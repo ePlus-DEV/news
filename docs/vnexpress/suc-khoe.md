@@ -18,15 +18,15 @@ sidebar_position: 10
 - 🚀 [Làm gì giảm hơi thở có mùi ngày Tết?](https://vnexpress.net/lam-gi-giam-hoi-tho-co-mui-ngay-tet-4709963.html) - 06:00 09/02/2024
 - 🌜 [Mẹo giảm say xe khi đi lại ngày Tết](https://vnexpress.net/meo-giam-say-xe-khi-di-lai-ngay-tet-4710483.html) - 05:09 09/02/2024
 - 🧰 [Thói quen ngày Tết gây đau lưng](https://vnexpress.net/thoi-quen-ngay-tet-gay-dau-lung-4710200.html) - 05:00 09/02/2024
-- 💫 [Người bệnh ung thư vú có nên ăn bánh chưng, bánh tét?](https://vnexpress.net/nguoi-benh-ung-thu-vu-co-nen-an-banh-chung-banh-tet-4709965.html) - 04:00 09/02/2024
-- 🌝 [Dấu hiệu trẻ ngộ độc ngày Tết](https://vnexpress.net/dau-hieu-tre-ngo-doc-ngay-tet-4709998.html) - 04:00 09/02/2024
-- 🗽 [Người bệnh tim có được uống rượu bia?](https://vnexpress.net/nguoi-benh-tim-co-duoc-uong-ruou-bia-4709953.html) - 03:00 09/02/2024
-- 🕯 [Lịch tiêm vaccine trúng ngày Tết, dời lại có sao không?](https://vnexpress.net/lich-tiem-vaccine-trung-ngay-tet-doi-lai-co-sao-khong-4709390.html) - 03:00 09/02/2024
-- 🦅 [Lượng calo trong các món ăn ngày Tết](https://vnexpress.net/luong-calo-trong-cac-mon-an-ngay-tet-4709988.html) - 03:00 09/02/2024
+- 💫 [Dấu hiệu trẻ ngộ độc ngày Tết](https://vnexpress.net/dau-hieu-tre-ngo-doc-ngay-tet-4709998.html) - 04:00 09/02/2024
+- 🌝 [Người bệnh ung thư vú có nên ăn bánh chưng, bánh tét?](https://vnexpress.net/nguoi-benh-ung-thu-vu-co-nen-an-banh-chung-banh-tet-4709965.html) - 04:00 09/02/2024
+- 🗽 [Lượng calo trong các món ăn ngày Tết](https://vnexpress.net/luong-calo-trong-cac-mon-an-ngay-tet-4709988.html) - 03:00 09/02/2024
+- 🕯 [Người bệnh tim có được uống rượu bia?](https://vnexpress.net/nguoi-benh-tim-co-duoc-uong-ruou-bia-4709953.html) - 03:00 09/02/2024
+- 🦅 [Lịch tiêm vaccine trúng ngày Tết, dời lại có sao không?](https://vnexpress.net/lich-tiem-vaccine-trung-ngay-tet-doi-lai-co-sao-khong-4709390.html) - 03:00 09/02/2024
 - 🦆 [Hai kiêng kỵ sai lầm đêm giao thừa](https://vnexpress.net/hai-kieng-ky-sai-lam-dem-giao-thua-4705129.html) - 02:00 09/02/2024
 - 🎊 [Cách phục hồi tóc hư tổn đón Tết](https://vnexpress.net/cach-phuc-hoi-toc-hu-ton-don-tet-4710338.html) - 02:00 09/02/2024
-- 🏊 [Thai phụ có kiêng chúc Tết?](https://vnexpress.net/thai-phu-co-kieng-chuc-tet-4710019.html) - 01:00 09/02/2024
-- 📝 [Người bệnh ung thư cần lưu ý gì khi đi du lịch?](https://vnexpress.net/nguoi-benh-ung-thu-can-luu-y-gi-khi-di-du-lich-4710165.html) - 01:00 09/02/2024
+- 🏊 [Người bệnh ung thư cần lưu ý gì khi đi du lịch?](https://vnexpress.net/nguoi-benh-ung-thu-can-luu-y-gi-khi-di-du-lich-4710165.html) - 01:00 09/02/2024
+- 📝 [Thai phụ có kiêng chúc Tết?](https://vnexpress.net/thai-phu-co-kieng-chuc-tet-4710019.html) - 01:00 09/02/2024
 - 💯 [Gan nhiễm mỡ nên ăn uống gì ngày Tết?](https://vnexpress.net/gan-nhiem-mo-nen-an-uong-gi-ngay-tet-4709960.html) - 00:00 09/02/2024
 - 🌊 [Bác sĩ cấp cứu &#39;như con thoi&#39; cận Tết](https://vnexpress.net/bac-si-cap-cuu-nhu-con-thoi-can-tet-4710323.html) - 23:06 08/02/2024
 - 🚀 [Tái tạo ngực sau 5 năm đoạn nhũ vì ung thư](https://vnexpress.net/tai-tao-nguc-sau-5-nam-doan-nhu-vi-ung-thu-4710324.html) - 22:41 08/02/2024
@@ -46,14 +46,14 @@ sidebar_position: 10
 - 🦒 [Lưu ý khi ăn các loại hạt dịp Tết](https://vnexpress.net/luu-y-khi-an-cac-loai-hat-dip-tet-4709964.html) - 05:00 08/02/2024
 - 👨‍🏫 [Trẻ ăn gì để giữ đà tăng trưởng dịp Tết?](https://vnexpress.net/tre-an-gi-de-giu-da-tang-truong-dip-tet-4709929.html) - 05:00 08/02/2024
 - 🌜 [Xử trí ngộ độc rượu bia dịp Tết](https://vnexpress.net/xu-tri-ngo-doc-ruou-bia-dip-tet-4709461.html) - 04:00 08/02/2024
-- 🚀 [Món ăn ngày Tết ít tăng đường huyết](https://vnexpress.net/mon-an-ngay-tet-it-tang-duong-huyet-4709680.html) - 03:00 08/02/2024
-- 💃 [4 bệnh từ động vật cần phòng ngừa dịp Tết](https://vnexpress.net/4-benh-tu-dong-vat-can-phong-ngua-dip-tet-4709382.html) - 03:00 08/02/2024
-- 💯 [Có nên gội đầu ba ngày Tết?](https://vnexpress.net/co-nen-goi-dau-ba-ngay-tet-4710021.html) - 03:00 08/02/2024
+- 🚀 [Có nên gội đầu ba ngày Tết?](https://vnexpress.net/co-nen-goi-dau-ba-ngay-tet-4710021.html) - 03:00 08/02/2024
+- 💃 [Món ăn ngày Tết ít tăng đường huyết](https://vnexpress.net/mon-an-ngay-tet-it-tang-duong-huyet-4709680.html) - 03:00 08/02/2024
+- 💯 [4 bệnh từ động vật cần phòng ngừa dịp Tết](https://vnexpress.net/4-benh-tu-dong-vat-can-phong-ngua-dip-tet-4709382.html) - 03:00 08/02/2024
 - 🤔 [Có nên sinh đúng mùng Một Tết?](https://vnexpress.net/co-nen-sinh-dung-mung-mot-tet-4709940.html) - 02:47 08/02/2024
 - 🎬 [Khói hương ảnh hưởng đến người viêm mũi xoang thế nào](https://vnexpress.net/khoi-huong-anh-huong-den-nguoi-viem-mui-xoang-the-nao-4709688.html) - 02:00 08/02/2024
 - 🪜 [Tết có nên ăn nhiều mứt?](https://vnexpress.net/tet-co-nen-an-nhieu-mut-4700322.html) - 01:55 08/02/2024
-- 🦣 [Về Việt Nam khám sức khỏe, cô gái phát hiện ung thư tuyến giáp](https://vnexpress.net/ve-viet-nam-kham-suc-khoe-co-gai-phat-hien-ung-thu-tuyen-giap-4709738.html) - 01:00 08/02/2024
-- 🧐 [5 loại thuốc nên có trong nhà dịp Tết](https://vnexpress.net/5-loai-thuoc-nen-co-trong-nha-dip-tet-4709918.html) - 01:00 08/02/2024
+- 🦣 [5 loại thuốc nên có trong nhà dịp Tết](https://vnexpress.net/5-loai-thuoc-nen-co-trong-nha-dip-tet-4709918.html) - 01:00 08/02/2024
+- 🧐 [Về Việt Nam khám sức khỏe, cô gái phát hiện ung thư tuyến giáp](https://vnexpress.net/ve-viet-nam-kham-suc-khoe-co-gai-phat-hien-ung-thu-tuyen-giap-4709738.html) - 01:00 08/02/2024
 - 🤡 [Bí kíp tránh tăng huyết áp, loạn nhịp tim ngày Tết](https://vnexpress.net/bi-kip-tranh-tang-huyet-ap-loan-nhip-tim-ngay-tet-4708033.html) - 01:00 08/02/2024
 - 👍 [Những món ăn ngày Tết nguy cơ nhiễm ký sinh trùng](https://vnexpress.net/nhung-mon-an-ngay-tet-nguy-co-nhiem-ky-sinh-trung-4707946.html) - 23:05 07/02/2024
 - 💡 [Cận Tết, nhiều người đột quỵ](https://vnexpress.net/can-tet-nhieu-nguoi-dot-quy-4710074.html) - 22:00 07/02/2024
