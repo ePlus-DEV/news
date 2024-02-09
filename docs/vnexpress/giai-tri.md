@@ -40,7 +40,7 @@ sidebar_position: 5
 - 🦄 [Nghệ sĩ Chu Hùng qua đời](https://vnexpress.net/nghe-si-chu-hung-qua-doi-4709935.html) - 06:56 07/02/2024
 - 🌜 [Taylor Swift dọa kiện sinh viên](https://vnexpress.net/taylor-swift-doa-kien-sinh-vien-4709804.html) - 06:38 07/02/2024
 - 🚦 [Miley Cyrus không cảm ơn cha khi thắng Grammy](https://vnexpress.net/miley-cyrus-khong-cam-on-cha-khi-thang-grammy-4709751.html) - 06:06 07/02/2024
-- 🧐 [Nhà sản xuất Thi Trần: &#39;Êkíp Bên trong vỏ kén vàng gặp nhiều thách thức&#39;](https://vnexpress.net/nha-san-xuat-thi-tran-ekip-ben-trong-vo-ken-vang-gap-nhieu-thach-thuc-4709848.html) - 05:30 07/02/2024
+- 🧐 [Nhà sản xuất Trần Văn Thi: &#39;Êkíp Bên trong vỏ kén vàng gặp nhiều thách thức&#39;](https://vnexpress.net/nha-san-xuat-tran-van-thi-ekip-ben-trong-vo-ken-vang-gap-nhieu-thach-thuc-4709848.html) - 05:30 07/02/2024
 - 🐵 [Nét phong trần tuổi 50 của Johnny Trí Nguyễn](https://vnexpress.net/net-phong-tran-tuoi-50-cua-johnny-tri-nguyen-4709366.html) - 05:13 07/02/2024
 - ⚗️ [&#39;Tượng đài&#39; nhạc đồng quê Mỹ Toby Keith qua đời](https://vnexpress.net/tuong-dai-nhac-dong-que-my-toby-keith-qua-doi-4709730.html) - 03:08 07/02/2024
 - 👺 [Taylor Swift tiết lộ các ca khúc trong album mới](https://vnexpress.net/taylor-swift-tiet-lo-cac-ca-khuc-trong-album-moi-4709740.html) - 02:52 07/02/2024
