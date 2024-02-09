@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Phong thủy kinh tế năm Giáp Thìn](https://vnexpress.net/phong-thuy-kinh-te-nam-giap-thin-4706914.html) - 17:01 09/02/2024
-- 🐲 [Nhộn nhịp sắm Tết trong ngày cuối cùng của năm](https://vnexpress.net/nhon-nhip-sam-tet-trong-ngay-cuoi-cung-cua-nam-4710623.html) - 13:43 09/02/2024
+- 🐲 [Nhộn nhịp sắm Tết trong ngày cuối năm](https://vnexpress.net/nhon-nhip-sam-tet-trong-ngay-cuoi-nam-4710623.html) - 13:43 09/02/2024
 - 🔥 [Nỗi lòng tiểu thương bán hoa 30 Tết](https://video.vnexpress.net/noi-long-tieu-thuong-ban-hoa-30-tet-4710622.html) - 11:15 09/02/2024
 - 🐵 [Kỷ lục 2.024 drone là dự án văn hóa công nghệ](https://vnexpress.net/ky-luc-2-024-drone-la-du-an-van-hoa-cong-nghe-4710624.html) - 11:00 09/02/2024
 - 🦅 [Trung Quốc mua gần 524.000 tấn sầu riêng từ Việt Nam](https://vnexpress.net/trung-quoc-mua-gan-524-000-tan-sau-rieng-tu-viet-nam-4710505.html) - 08:09 09/02/2024
