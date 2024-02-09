@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Vùng quê Việt Nam một thế kỷ trước qua tranh họa sĩ Pháp](https://vnexpress.net/vung-que-viet-nam-mot-the-ky-truoc-qua-tranh-hoa-si-phap-4704491.html) - 18:03 09/02/2024
+- 🌏 [Vùng quê Việt một thế kỷ trước qua tranh họa sĩ Pháp](https://vnexpress.net/vung-que-viet-mot-the-ky-truoc-qua-tranh-hoa-si-phap-4704491.html) - 18:03 09/02/2024
 - 💫 [&#39;Táo quân 2024&#39; - nỗ lực của dàn diễn viên mới](https://vnexpress.net/tao-quan-2024-no-luc-cua-dan-dien-vien-moi-4710650.html) - 17:00 09/02/2024
 - 🌮 [Gia đình Dianka, Bùi Tiến Dũng diện áo dài đón Tết](https://vnexpress.net/gia-dinh-dianka-bui-tien-dung-dien-ao-dai-don-tet-4710672.html) - 14:50 09/02/2024
 - 🧠 [Thời trang bầu của &#39;Thiên thần nội y&#39; Miranda Kerr](https://vnexpress.net/thoi-trang-bau-cua-thien-than-noi-y-miranda-kerr-4710244.html) - 14:14 09/02/2024
