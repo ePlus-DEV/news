@@ -69,7 +69,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [Cách gọi năm Giáp Thìn trong tiếng Anh](https://vnexpress.net/cach-goi-nam-giap-thin-trong-tieng-anh-4710297.html) - 14:00 09/02/2024
 - 🪜 [Nhộn nhịp sắm Tết trong ngày cuối năm](https://vnexpress.net/nhon-nhip-sam-tet-trong-ngay-cuoi-nam-4710623.html) - 13:43 09/02/2024
 - 🚦 [Nga công bố video &#39;tập kích HIMARS, S-300&#39; của Ukraine](https://vnexpress.net/nga-cong-bo-video-tap-kich-himars-s-300-cua-ukraine-4710647.html) - 13:26 09/02/2024
-- 🕯 [Tài xế xe biển xanh đón con gái lãnh đạo bị phạt 2,5 triệu đồng](https://vnexpress.net/tai-xe-xe-bien-xanh-don-con-gai-lanh-dao-bi-phat-2-5-trieu-dong-4710644.html) - 13:09 09/02/2024
+- 🕯 [Tài xế xe biển xanh đón con gái lãnh đạo ở sân bay bị phạt 2,5 triệu đồng](https://vnexpress.net/tai-xe-xe-bien-xanh-don-con-gai-lanh-dao-o-san-bay-bi-phat-2-5-trieu-dong-4710644.html) - 13:09 09/02/2024
 - 💪 [Bhutan xây &#39;thành phố hạnh phúc&#39; đón khách du lịch](https://vnexpress.net/bhutan-xay-thanh-pho-hanh-phuc-don-khach-du-lich-4710503.html) - 13:09 09/02/2024
 - 🧑‍🏫 [Chào xuân Giáp Thìn](https://vnexpress.net/chao-xuan-giap-thin-4710602.html) - 13:00 09/02/2024
 - 🎓 [Sư tử mẹ bỏ mồi để cứu con khỏi linh cẩu](https://vnexpress.net/su-tu-me-bo-moi-de-cuu-con-khoi-linh-cau-4710484.html) - 13:00 09/02/2024
