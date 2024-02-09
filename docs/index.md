@@ -80,8 +80,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [Mắc bệnh lậu do rách bao cao su khi quan hệ tình dục](https://vnexpress.net/mac-benh-lau-do-rach-bao-cao-su-khi-quan-he-tinh-duc-4710557.html) - 12:00 09/02/2024
 - 🕴 [Vệ tinh châu Âu nặng 2.300 kg sắp rơi không kiểm soát](https://vnexpress.net/ve-tinh-chau-au-nang-2-300-kg-sap-roi-khong-kiem-soat-4710496.html) - 12:00 09/02/2024
 - 🦆 [So sánh dung lượng pin trên iPhone 16 với iPhone 15](https://vnexpress.net/so-sanh-dung-luong-pin-tren-iphone-16-voi-iphone-15-4710283.html) - 12:00 09/02/2024
-- 💫 [Tỉnh nào có đặc sản bánh chưng đen?](https://vnexpress.net/tinh-nao-co-dac-san-banh-chung-den-4709185.html) - 12:00 09/02/2024
-- 🤓 [Trang Pháp: &#39;Thành công của tôi giúp bố mẹ bớt lo&#39;](https://vnexpress.net/trang-phap-thanh-cong-cua-toi-giup-bo-me-bot-lo-4710348.html) - 12:00 09/02/2024<!-- vnexpress:END -->
+- 💫 [Tỉnh nào có đặc sản bánh chưng đen?](https://vnexpress.net/tinh-nao-co-dac-san-banh-chung-den-4709185.html) - 12:00 09/02/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
