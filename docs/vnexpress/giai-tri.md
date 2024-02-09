@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Giang Hồng Ngọc không áp lực chuyện làm dâu ngày Tết](https://vnexpress.net/giang-hong-ngoc-khong-ap-luc-chuyen-lam-dau-ngay-tet-4709825.html) - 04:45 09/02/2024
+- 🌏 [Giang Hồng Ngọc không áp lực làm dâu ngày Tết](https://vnexpress.net/giang-hong-ngoc-khong-ap-luc-lam-dau-ngay-tet-4709825.html) - 04:45 09/02/2024
 - 💫 [Hương Giang: &#39;Tôi chu toàn tốt gia đình là nhờ chồng&#39;](https://vnexpress.net/huong-giang-toi-chu-toan-tot-gia-dinh-la-nho-chong-4709281.html) - 04:05 09/02/2024
 - 🌮 [Nghệ sĩ Chu Hùng trong ký ức người ở lại](https://vnexpress.net/nghe-si-chu-hung-trong-ky-uc-nguoi-o-lai-4710215.html) - 03:58 09/02/2024
 - 🧠 [Thích Tiểu Long diễn võ rồng mừng năm mới](https://vnexpress.net/thich-tieu-long-dien-vo-rong-mung-nam-moi-4710374.html) - 03:18 09/02/2024
