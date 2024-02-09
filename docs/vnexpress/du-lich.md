@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Địa điểm lý tưởng ngắm pháo hoa giao thừa ở Sài Gòn](https://vnexpress.net/dia-diem-ly-tuong-ngam-phao-hoa-giao-thua-o-sai-gon-4709587.html) - 02:00 09/02/2024
+- 💂 [Điểm ngắm pháo hoa giao thừa lý tưởng ở Sài Gòn](https://vnexpress.net/diem-ngam-phao-hoa-giao-thua-ly-tuong-o-sai-gon-4709587.html) - 02:00 09/02/2024
 - 🪄 [Làng đào Phú Thượng rực rỡ trước Tết](https://vnexpress.net/lang-dao-phu-thuong-ruc-ro-truoc-tet-4709627.html) - 01:08 09/02/2024
 - 🦅 [Khách nước ngoài trải nghiệm &#39;Tây ăn Tết ta&#39;](https://vnexpress.net/khach-nuoc-ngoai-trai-nghiem-tay-an-tet-ta-4710343.html) - 00:00 09/02/2024
 - 🕴 [Nghệ nhân Ánh Tuyết tái hiện mâm cỗ Tết của người Hà Nội](https://vnexpress.net/nghe-nhan-anh-tuyet-tai-hien-mam-co-tet-cua-nguoi-ha-noi-4708203.html) - 23:00 08/02/2024
