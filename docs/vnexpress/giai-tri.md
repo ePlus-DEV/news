@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Sách giới thiệu &#39;1.000 điểm đến đồng bằng Bắc Bộ&#39;](https://vnexpress.net/sach-gioi-thieu-1-000-diem-den-dong-bang-bac-bo-4707764.html) - 12:15 09/02/2024
-- 💫 [Trang Pháp: &#39;Thành công của tôi là khiến bố mẹ bớt lo&#39;](https://vnexpress.net/trang-phap-thanh-cong-cua-toi-la-khien-bo-me-bot-lo-4710348.html) - 12:00 09/02/2024
+- 💫 [Trang Pháp: &#39;Thành công của tôi giúp bố mẹ bớt lo&#39;](https://vnexpress.net/trang-phap-thanh-cong-cua-toi-giup-bo-me-bot-lo-4710348.html) - 12:00 09/02/2024
 - 🌮 [Diễm My 9x trang hoàng biệt thự bố mẹ chồng tặng](https://vnexpress.net/diem-my-9x-trang-hoang-biet-thu-bo-me-chong-tang-4710563.html) - 10:07 09/02/2024
 - 🧠 [Đàm Vĩnh Hưng 10 năm phục vụ văn nghệ trại giam](https://vnexpress.net/dam-vinh-hung-10-nam-phuc-vu-van-nghe-trai-giam-4709930.html) - 09:00 09/02/2024
 - 👨‍🏫 [Lisa thành lập công ty riêng](https://vnexpress.net/lisa-thanh-lap-cong-ty-rieng-4710551.html) - 05:22 09/02/2024
