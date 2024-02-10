@@ -4,11 +4,11 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Coteccons thâu tóm hai doanh nghiệp hạ tầng](https://vnexpress.net/coteccons-thau-tom-hai-doanh-nghiep-ha-tang-4710741.html) - 05:00 10/02/2024
-- 🐲 [EVNSPC khánh thành công trình bổ sung điện diesel cho Côn Đảo](https://vnexpress.net/evnspc-khanh-thanh-cong-trinh-bo-sung-dien-diesel-cho-con-dao-4710673.html) - 02:00 10/02/2024
-- 🔥 [Một buổi trình diễn công nghệ drone có giá thế nào](https://vnexpress.net/mot-buoi-trinh-dien-cong-nghe-drone-co-gia-the-nao-4710642.html) - 01:58 10/02/2024
-- 🐵 [Chứng khoán Mỹ lập kỷ lục mới](https://vnexpress.net/chung-khoan-my-lap-ky-luc-moi-4710711.html) - 01:50 10/02/2024
-- 🦅 [Kịch bản điều hành kinh tế Mỹ nếu Biden tái đắc cử tổng thống](https://vnexpress.net/kich-ban-dieu-hanh-kinh-te-my-neu-biden-tai-dac-cu-tong-thong-4707763.html) - 01:28 10/02/2024
+- ⛽️ [Kịch bản điều hành kinh tế Mỹ nếu Biden tái đắc cử tổng thống](https://vnexpress.net/kich-ban-dieu-hanh-kinh-te-my-neu-biden-tai-dac-cu-tong-thong-4707763.html) - 10:14 10/02/2024
+- 🐲 [Coteccons thâu tóm hai doanh nghiệp hạ tầng](https://vnexpress.net/coteccons-thau-tom-hai-doanh-nghiep-ha-tang-4710741.html) - 05:00 10/02/2024
+- 🔥 [EVNSPC khánh thành công trình bổ sung điện diesel cho Côn Đảo](https://vnexpress.net/evnspc-khanh-thanh-cong-trinh-bo-sung-dien-diesel-cho-con-dao-4710673.html) - 02:00 10/02/2024
+- 🐵 [Một buổi trình diễn công nghệ drone có giá thế nào](https://vnexpress.net/mot-buoi-trinh-dien-cong-nghe-drone-co-gia-the-nao-4710642.html) - 01:58 10/02/2024
+- 🦅 [Chứng khoán Mỹ lập kỷ lục mới](https://vnexpress.net/chung-khoan-my-lap-ky-luc-moi-4710711.html) - 01:50 10/02/2024
 - 😺 [Những doanh nhân thành đạt tuổi Thìn](https://vnexpress.net/nhung-doanh-nhan-thanh-dat-tuoi-thin-4710143.html) - 22:00 09/02/2024
 - 🤩 [Phong thủy kinh tế năm Giáp Thìn](https://vnexpress.net/phong-thuy-kinh-te-nam-giap-thin-4706914.html) - 17:01 09/02/2024
 - 🌮 [Nhộn nhịp sắm Tết trong ngày cuối năm](https://vnexpress.net/nhon-nhip-sam-tet-trong-ngay-cuoi-nam-4710623.html) - 13:43 09/02/2024
