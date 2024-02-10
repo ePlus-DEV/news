@@ -212,7 +212,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- laodong:START -->
 - 🗽 [Haaland lập cú đúp, Man City tạm chiếm ngôi đầu](https://laodong.vn/bong-da-quoc-te/haaland-lap-cu-dup-man-city-tam-chiem-ngoi-dau-1303174.ldo) - 15:17 10/02/2024
 - 📝 [Đi xem pháo hoa đêm giao thừa, thiếu niên 16 tuổi lạc không biết đường về](https://laodong.vn/xa-hoi/di-xem-phao-hoa-dem-giao-thua-thieu-nien-16-tuoi-lac-khong-biet-duong-ve-1303151.ldo) - 15:12 10/02/2024
-- 🦏 [Trực tiếp Qatar 0-0 Jordan: Hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-qatar-0-0-jordan-hiep-1-1303167.ldo) - 14:51 10/02/2024
+- 🦏 [Trực tiếp Qatar 1-0 Jordan: Afif ghi bàn từ chấm 11m](https://laodong.vn/bong-da-quoc-te/truc-tiep-qatar-1-0-jordan-afif-ghi-ban-tu-cham-11m-1303167.ldo) - 14:51 10/02/2024
 - 🦩 [Công nhân đón tết xa quê vui mừng khi nhận lì xì tối mùng 1 Tết](https://laodong.vn/ldld-binh-duong/cong-nhan-don-tet-xa-que-vui-mung-khi-nhan-li-xi-toi-mung-1-tet-1303163.ldo) - 14:21 10/02/2024
 - 🦏 [Công ty của SNSD tổng tấn công, ra mắt 4 nhóm nhạc trong năm 2024](https://laodong.vn/giai-tri/cong-ty-cua-snsd-tong-tan-cong-ra-mat-4-nhom-nhac-trong-nam-2024-1303161.ldo) - 14:15 10/02/2024
 - 🧰 [Nga thừa nhận, một số ngân hàng Trung Quốc từ chối giao dịch với Nga](https://laodong.vn/the-gioi/nga-thua-nhan-mot-so-ngan-hang-trung-quoc-tu-choi-giao-dich-voi-nga-1303020.ldo) - 14:02 10/02/2024
