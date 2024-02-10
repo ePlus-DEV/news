@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Haaland đưa Man City lên đỉnh bảng Ngoại hạng Anh](https://vnexpress.net/haaland-dua-man-city-len-dinh-bang-ngoai-hang-anh-4710827.html) - 15:02 10/02/2024
-- 🦩 [Jordan 1-2 Qatar &lpar;H2&rpar;: Quả penalty thứ hai](https://vnexpress.net/truc-tiep-jordan-vs-qatar-4710822.html) - 14:10 10/02/2024
+- 🦩 [Jordan 1-3 Qatar &lpar;H2&rpar;: Hattrick penalty](https://vnexpress.net/truc-tiep-jordan-vs-qatar-4710822.html) - 14:10 10/02/2024
 - 🧰 [Chạy khi bụng rỗng](https://vnexpress.net/chay-khi-bung-rong-4710760.html) - 06:33 10/02/2024
 - 🤗 [Guardiola: &#39;Không cần học Harvard để hiểu tầm quan trọng của De Bruyne, Haaland&#39;](https://vnexpress.net/guardiola-khong-can-hoc-harvard-de-hieu-tam-quan-trong-cua-de-bruyne-haaland-4710744.html) - 02:58 10/02/2024
 - 🥳 [Mũi đinh ba lợi hại trên hàng công Man Utd](https://vnexpress.net/mui-dinh-ba-loi-hai-tren-hang-cong-man-utd-4709733.html) - 02:47 10/02/2024
