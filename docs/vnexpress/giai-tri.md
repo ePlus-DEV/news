@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Mai Phương Thúy: &#39;Tôi muốn tập trung chuyện tình yêu trong 2024&#39;](https://vnexpress.net/mai-phuong-thuy-toi-muon-tap-trung-chuyen-tinh-yeu-trong-2024-4710516.html) - 04:25 10/02/2024
+- 🌏 [Mai Phương Thúy: &#39;Tôi muốn yêu nhiều hơn trong 2024&#39;](https://vnexpress.net/mai-phuong-thuy-toi-muon-yeu-nhieu-hon-trong-2024-4710516.html) - 04:25 10/02/2024
 - 💫 [Vợ chồng Brooklyn Beckham gây chú ý ở New York Fashion Week](https://vnexpress.net/vo-chong-brooklyn-beckham-gay-chu-y-o-new-york-fashion-week-4710732.html) - 02:38 10/02/2024
 - 🌮 [Chí Trung: &#39;Tôi dừng đóng Táo quân vì áp lực đổi mới&#39;](https://vnexpress.net/chi-trung-toi-dung-dong-tao-quan-vi-ap-luc-doi-moi-4710524.html) - 01:52 10/02/2024
 - 🧠 [Trang phục may mắn cho 12 con giáp năm Giáp Thìn 2024](https://vnexpress.net/trang-phuc-may-man-cho-12-con-giap-nam-giap-thin-2024-4709870.html) - 01:00 10/02/2024
