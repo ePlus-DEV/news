@@ -395,56 +395,56 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Nhộn nhịp du khách &#39;xông đất&#39; Đà Nẵng](https://baochinhphu.vn/nhon-nhip-du-khach-xong-dat-da-nang-102240210091001156.htm) - 11:41 10/02/2024
-- 🌜 [Đón Giao thừa Giáp Thìn rộn ràng trên thế giới](https://baochinhphu.vn/khong-khi-don-giao-thua-giap-thin-tung-bung-tren-the-gioi-102240210103253252.htm) - 10:32 10/02/2024
-- 🦆 [Hậu duệ của Rồng](https://baochinhphu.vn/hau-due-cua-rong-102240204191039622.htm) - 10:19 10/02/2024
-- 🌝 [Người dân cả nước hân hoan đón Năm mới](https://baochinhphu.vn/nguoi-dan-ca-nuoc-han-hoan-don-nam-moi-102240210090025379.htm) - 09:00 10/02/2024
-- 🦣 [TPHCM: Phát lệnh làm hàng đầu Xuân đêm Giao thừa](https://baochinhphu.vn/tphcm-phat-lenh-lam-hang-dau-xuan-dem-giao-thua-102240209224723926.htm) - 08:59 10/02/2024
-- ⛽️ [Vượt gió chướng tin tưởng đón xuân](https://baochinhphu.vn/vuot-gio-chuong-tin-tuong-don-xuan-102240204190306244.htm) - 08:39 10/02/2024
-- 🎓 [Tết của những người mặc ‘blouse trắng’](https://baochinhphu.vn/tet-cua-nhung-nguoi-mac-blouse-trang-102240202162701822.htm) - 08:09 10/02/2024
-- 💡 [Chính phủ đã chỉ đạo, điều hành kịp thời, hiệu quả, vượt qua cơn gió ngược](https://baochinhphu.vn/chinh-phu-da-chi-dao-dieu-hanh-kip-thoi-hieu-qua-vuot-qua-con-gio-nguoc-102240208154305997.htm) - 08:08 10/02/2024
-- 🌊 [Đề xuất tiêu chuẩn, điều kiện xét thăng hạng viên chức chuyên ngành thể dục thể thao](https://baochinhphu.vn/de-xuat-tieu-chuan-dieu-kien-xet-thang-hang-vien-chuc-chuyen-nganh-the-duc-the-thao-10224020713385574.htm) - 08:02 10/02/2024
-- 💯 [Tiêu chuẩn trình độ giáo viên tiếng Anh tiểu học, trung học cơ sở](https://baochinhphu.vn/tieu-chuan-trinh-do-giao-vien-tieng-anh-tieu-hoc-trung-hoc-co-so-102240205155328526.htm) - 08:02 10/02/2024
-- 🦣 [Nâng mức tự chủ, đơn vị có phải nộp lại nguồn cải cách tiền lương?](https://baochinhphu.vn/nang-muc-tu-chu-don-vi-co-phai-nop-lai-nguon-cai-cach-tien-luong-102240205111636968.htm) - 07:02 10/02/2024
-- 🥷 [Xuân về nơi huyện đảo tiền tiêu của Tổ quốc](https://baochinhphu.vn/xuan-ve-noi-huyen-dao-tien-tieu-cua-to-quoc-102240209153803671.htm) - 06:24 10/02/2024
-- 💻 [Thông điệp chúc Tết Giáp Thìn 2024 của Chủ tịch nước Võ Văn Thưởng](https://baochinhphu.vn/thong-diep-chuc-tet-giap-thin-2024-cua-chu-tich-nuoc-vo-van-thuong-102240209081801716.htm) - 00:06 10/02/2024
-- 🤭 [Đến sân bay Nội Bài để được tặng chữ thư pháp trong ngày đầu năm mới](https://baochinhphu.vn/den-san-bay-noi-bai-de-duoc-tang-chu-thu-phap-trong-ngay-dau-nam-moi-102240209160403401.htm) - 23:30 09/02/2024
-- 🦆 [Đón Tết trên đại công trường xây dựng Sân bay Long Thành](https://baochinhphu.vn/don-tet-tren-dai-cong-truong-xay-dung-san-bay-long-thanh-102240209162150189.htm) - 23:28 09/02/2024
-- 🤖 [Thủ tướng kiểm tra công tác ứng trực, bảo đảm thông tin tại 3 cơ quan thông tấn, báo chí chủ lực](https://baochinhphu.vn/thu-tuong-kiem-tra-cong-tac-ung-truc-bao-dam-thong-tin-tai-3-co-quan-thong-tan-bao-chi-chu-luc-102240209212259906.htm) - 21:25 09/02/2024
-- 🌁 [Thường trực Ban Bí thư Trương Thị Mai chúc Tết công nhân môi trường tại Đà Lạt](https://baochinhphu.vn/thuong-truc-ban-bi-thu-truong-thi-mai-chuc-tet-cong-nhan-moi-truong-tai-da-lat-102240209213758383.htm) - 21:13 09/02/2024
-- 💼 [Điện mừng Thủ tướng Georgia](https://baochinhphu.vn/dien-mung-thu-tuong-georgia-102240209203917705.htm) - 21:08 09/02/2024
-- 🧠 [Điện mừng Tổng thống Cộng hòa Azerbaijan](https://baochinhphu.vn/dien-mung-tong-thong-cong-hoa-azerbaijan-102240209203502495.htm) - 21:08 09/02/2024
-- 🌊 [Ba động lực tăng trưởng của Thành phố Hồ Chí Minh trong năm 2024](https://baochinhphu.vn/ba-dong-luc-tang-truong-cua-thanh-pho-ho-chi-minh-trong-nam-2024-102240207134530252.htm) - 21:00 09/02/2024
-- 🤭 [Du học sinh góp phần lan tỏa văn hóa Tết Việt](https://baochinhphu.vn/du-hoc-sinh-gop-phan-lan-toa-van-hoa-tet-viet-102240209173455701.htm) - 19:52 09/02/2024
-- 🥷 [Ấm áp những chuyến xe đưa thợ mỏ về quê đón Tết](https://baochinhphu.vn/am-ap-nhung-chuyen-xe-dua-tho-mo-ve-que-don-tet-102240209163315128.htm) - 18:25 09/02/2024
-- 🌁 [Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ nổi bật tuần từ 5-9/2/2024](https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-noi-bat-tuan-tu-5-9-2-2024-102240207103641222.htm) - 16:34 09/02/2024
-- 🐵 [Phê duyệt Báo cáo quốc gia về thực thi công ước chống tra tấn](https://baochinhphu.vn/phe-duyet-bao-cao-quoc-gia-ve-thuc-thi-cong-uoc-chong-tra-tan-10224020916243559.htm) - 16:32 09/02/2024
-- 💯 [Cộng đồng người Việt Nam ở nước ngoài - Nguồn lực quan trọng đóng góp tích cực vào sự phát triển đất nước](https://baochinhphu.vn/cong-dong-nguoi-viet-nam-o-nuoc-ngoai-nguon-luc-quan-trong-dong-gop-tich-cuc-vao-su-phat-trien-dat-nuoc-10224020900261099.htm) - 14:56 09/02/2024
-- 🔥 [Giấy chứng nhận sai số thửa, đính chính hay thu hồi?](https://baochinhphu.vn/giay-chung-nhan-sai-so-thua-dinh-chinh-hay-thu-hoi-102240207090538245.htm) - 14:02 09/02/2024
-- 👍 [Tết – Thời gian ý nghĩa cho gia đình, người thân](https://baochinhphu.vn/tet-thoi-gian-y-nghia-cho-gia-dinh-nguoi-than-102240207105630878.htm) - 14:00 09/02/2024
-- 🧰 [Tết Việt Nam trong mắt nhà ngoại giao nước ngoài](https://baochinhphu.vn/tet-viet-nam-trong-mat-nha-ngoai-giao-nuoc-ngoai-102240205104956541.htm) - 13:22 09/02/2024
-- 🦏 [Thủ tướng Phạm Minh Chính thăm, chúc Tết, động viên cán bộ, bác sĩ và bệnh nhân các bệnh viện tại Hà Nội](https://baochinhphu.vn/thu-tuong-pham-minh-chinh-tham-chuc-tet-dong-vien-can-bo-bac-si-va-benh-nhan-cac-benh-vien-tai-ha-noi-102240208194020856.htm) - 12:20 09/02/2024
-- 🕯 [&#39;Khu bảy&#39; giờ đã khác](https://baochinhphu.vn/niem-vui-an-cu-cua-dong-bao-co-tu-vung-bien-gioi-quang-nam-102240130141048169.htm) - 09:49 09/02/2024
-- 🤠 [Giá dầu bật tăng, nông sản rung lắc mạnh](https://baochinhphu.vn/gia-dau-bat-tang-nong-san-rung-lac-manh-102240209094003751.htm) - 09:42 09/02/2024
-- 💂 [Thiêng liêng bữa cơm đoàn viên chiều 30 Tết](https://baochinhphu.vn/thieng-lieng-bua-com-doan-vien-chieu-30-tet-10224020510570823.htm) - 09:29 09/02/2024
-- 🐲 [TPHCM triệt để tận dụng cơ chế đặc thù, triển khai đồng bộ các giải pháp phát triển KTXH](https://baochinhphu.vn/tphcm-san-sang-tang-toc-trong-nam-2024-102240205223610439.htm) - 09:12 09/02/2024
-- 🦩 [Đề xuất quy định về sở hữu trong kinh doanh dịch vụ viễn thông](https://baochinhphu.vn/de-xuat-quy-dinh-ve-so-huu-trong-kinh-doanh-dich-vu-vien-thong-10224020610561181.htm) - 08:53 09/02/2024
-- 💂 [Làng đào Nhật Tân – Phú Thượng khoe sắc ngày cận Tết](https://baochinhphu.vn/lang-dao-nhat-tan-phu-thuong-khoe-sac-ngay-can-tet-102240209005705295.htm) - 08:50 09/02/2024
-- 🌈 [Giáo viên chuyển cấp dạy học, xếp lương thế nào?](https://baochinhphu.vn/giao-vien-chuyen-cap-day-hoc-xep-luong-the-nao-102240205155843787.htm) - 08:02 09/02/2024
-- 🔥 [Thẩm quyền cấp giấy phép môi trường](https://baochinhphu.vn/tham-quyen-cap-giay-phep-moi-truong-102240206165856539.htm) - 07:02 09/02/2024
-- 🦄 [Ấm áp Tết Việt tại các nước](https://baochinhphu.vn/am-ap-tet-viet-tai-cac-nuoc-102240209063400781.htm) - 06:33 09/02/2024
-- 🚀 [Xuất khẩu hàng hóa tháng 1 tăng 42%](https://baochinhphu.vn/xuat-khau-hang-hoa-thang-1-tang-42-10224020823453513.htm) - 05:07 09/02/2024
-- 🤖 [Xử lý 8.540 trường hợp vi phạm an toàn giao thông](https://baochinhphu.vn/xu-ly-8540-truong-hop-vi-pham-an-toan-giao-thong-102240209000327729.htm) - 05:06 09/02/2024
-- 🕴 [Phó Thủ tướng Trần Hồng Hà thăm, chúc Tết một số đơn vị ở Hà Nội](https://baochinhphu.vn/pho-thu-tuong-tran-hong-ha-tham-chuc-tet-mot-so-don-vi-o-ha-noi-102240208213117904.htm) - 21:00 08/02/2024
-- 🤔 [Thị trường hàng hoá đầy biến động ngay đầu năm 2024](https://baochinhphu.vn/thi-truong-hang-hoa-day-bien-dong-ngay-dau-nam-2024-102240208202251622.htm) - 20:42 08/02/2024
-- 💫 [&#39;No ấm nhờ công bộ đội&#39;](https://baochinhphu.vn/no-am-nho-cong-bo-doi-10224020708584152.htm) - 20:37 08/02/2024
-- 👺 [Viettel ứng dụng AI để phục vụ tốt nhất cho khách hàng dịp Tết Nguyên đán](https://baochinhphu.vn/viettel-ung-dung-ai-de-phuc-vu-tot-nhat-cho-khach-hang-dip-tet-nguyen-dan-102240208175500831.htm) - 20:31 08/02/2024
+- 💻 [Hơn 150 y, bác sĩ thực hiện ca lấy, ghép tạng trong ngày 30 Tết](https://baochinhphu.vn/hon-150-y-bac-si-thuc-hien-ca-lay-ghep-tang-trong-ngay-30-tet-102240210104635586.htm) - 12:08 10/02/2024
+- 🌜 [Nhộn nhịp du khách &#39;xông đất&#39; Đà Nẵng](https://baochinhphu.vn/nhon-nhip-du-khach-xong-dat-da-nang-102240210091001156.htm) - 11:41 10/02/2024
+- 🦆 [Đón Giao thừa Giáp Thìn rộn ràng trên thế giới](https://baochinhphu.vn/khong-khi-don-giao-thua-giap-thin-tung-bung-tren-the-gioi-102240210103253252.htm) - 10:32 10/02/2024
+- 🌝 [Hậu duệ của Rồng](https://baochinhphu.vn/hau-due-cua-rong-102240204191039622.htm) - 10:19 10/02/2024
+- 🦣 [Người dân cả nước hân hoan đón Năm mới](https://baochinhphu.vn/nguoi-dan-ca-nuoc-han-hoan-don-nam-moi-102240210090025379.htm) - 09:00 10/02/2024
+- ⛽️ [TPHCM: Phát lệnh làm hàng đầu Xuân đêm Giao thừa](https://baochinhphu.vn/tphcm-phat-lenh-lam-hang-dau-xuan-dem-giao-thua-102240209224723926.htm) - 08:59 10/02/2024
+- 🎓 [Vượt gió chướng tin tưởng đón xuân](https://baochinhphu.vn/vuot-gio-chuong-tin-tuong-don-xuan-102240204190306244.htm) - 08:39 10/02/2024
+- 💡 [Tết của những người mặc ‘blouse trắng’](https://baochinhphu.vn/tet-cua-nhung-nguoi-mac-blouse-trang-102240202162701822.htm) - 08:09 10/02/2024
+- 🌊 [Chính phủ đã chỉ đạo, điều hành kịp thời, hiệu quả, vượt qua cơn gió ngược](https://baochinhphu.vn/chinh-phu-da-chi-dao-dieu-hanh-kip-thoi-hieu-qua-vuot-qua-con-gio-nguoc-102240208154305997.htm) - 08:08 10/02/2024
+- 💯 [Đề xuất tiêu chuẩn, điều kiện xét thăng hạng viên chức chuyên ngành thể dục thể thao](https://baochinhphu.vn/de-xuat-tieu-chuan-dieu-kien-xet-thang-hang-vien-chuc-chuyen-nganh-the-duc-the-thao-10224020713385574.htm) - 08:02 10/02/2024
+- 🦣 [Tiêu chuẩn trình độ giáo viên tiếng Anh tiểu học, trung học cơ sở](https://baochinhphu.vn/tieu-chuan-trinh-do-giao-vien-tieng-anh-tieu-hoc-trung-hoc-co-so-102240205155328526.htm) - 08:02 10/02/2024
+- 🥷 [Nâng mức tự chủ, đơn vị có phải nộp lại nguồn cải cách tiền lương?](https://baochinhphu.vn/nang-muc-tu-chu-don-vi-co-phai-nop-lai-nguon-cai-cach-tien-luong-102240205111636968.htm) - 07:02 10/02/2024
+- 💻 [Xuân về nơi huyện đảo tiền tiêu của Tổ quốc](https://baochinhphu.vn/xuan-ve-noi-huyen-dao-tien-tieu-cua-to-quoc-102240209153803671.htm) - 06:24 10/02/2024
+- 🤭 [Thông điệp chúc Tết Giáp Thìn 2024 của Chủ tịch nước Võ Văn Thưởng](https://baochinhphu.vn/thong-diep-chuc-tet-giap-thin-2024-cua-chu-tich-nuoc-vo-van-thuong-102240209081801716.htm) - 00:06 10/02/2024
+- 🦆 [Đến sân bay Nội Bài để được tặng chữ thư pháp trong ngày đầu năm mới](https://baochinhphu.vn/den-san-bay-noi-bai-de-duoc-tang-chu-thu-phap-trong-ngay-dau-nam-moi-102240209160403401.htm) - 23:30 09/02/2024
+- 🤖 [Đón Tết trên đại công trường xây dựng Sân bay Long Thành](https://baochinhphu.vn/don-tet-tren-dai-cong-truong-xay-dung-san-bay-long-thanh-102240209162150189.htm) - 23:28 09/02/2024
+- 🌁 [Thủ tướng kiểm tra công tác ứng trực, bảo đảm thông tin tại 3 cơ quan thông tấn, báo chí chủ lực](https://baochinhphu.vn/thu-tuong-kiem-tra-cong-tac-ung-truc-bao-dam-thong-tin-tai-3-co-quan-thong-tan-bao-chi-chu-luc-102240209212259906.htm) - 21:25 09/02/2024
+- 💼 [Thường trực Ban Bí thư Trương Thị Mai chúc Tết công nhân môi trường tại Đà Lạt](https://baochinhphu.vn/thuong-truc-ban-bi-thu-truong-thi-mai-chuc-tet-cong-nhan-moi-truong-tai-da-lat-102240209213758383.htm) - 21:13 09/02/2024
+- 🧠 [Điện mừng Thủ tướng Georgia](https://baochinhphu.vn/dien-mung-thu-tuong-georgia-102240209203917705.htm) - 21:08 09/02/2024
+- 🌊 [Điện mừng Tổng thống Cộng hòa Azerbaijan](https://baochinhphu.vn/dien-mung-tong-thong-cong-hoa-azerbaijan-102240209203502495.htm) - 21:08 09/02/2024
+- 🤭 [Ba động lực tăng trưởng của Thành phố Hồ Chí Minh trong năm 2024](https://baochinhphu.vn/ba-dong-luc-tang-truong-cua-thanh-pho-ho-chi-minh-trong-nam-2024-102240207134530252.htm) - 21:00 09/02/2024
+- 🥷 [Du học sinh góp phần lan tỏa văn hóa Tết Việt](https://baochinhphu.vn/du-hoc-sinh-gop-phan-lan-toa-van-hoa-tet-viet-102240209173455701.htm) - 19:52 09/02/2024
+- 🌁 [Ấm áp những chuyến xe đưa thợ mỏ về quê đón Tết](https://baochinhphu.vn/am-ap-nhung-chuyen-xe-dua-tho-mo-ve-que-don-tet-102240209163315128.htm) - 18:25 09/02/2024
+- 🐵 [Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ nổi bật tuần từ 5-9/2/2024](https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-noi-bat-tuan-tu-5-9-2-2024-102240207103641222.htm) - 16:34 09/02/2024
+- 💯 [Phê duyệt Báo cáo quốc gia về thực thi công ước chống tra tấn](https://baochinhphu.vn/phe-duyet-bao-cao-quoc-gia-ve-thuc-thi-cong-uoc-chong-tra-tan-10224020916243559.htm) - 16:32 09/02/2024
+- 🔥 [Cộng đồng người Việt Nam ở nước ngoài - Nguồn lực quan trọng đóng góp tích cực vào sự phát triển đất nước](https://baochinhphu.vn/cong-dong-nguoi-viet-nam-o-nuoc-ngoai-nguon-luc-quan-trong-dong-gop-tich-cuc-vao-su-phat-trien-dat-nuoc-10224020900261099.htm) - 14:56 09/02/2024
+- 👍 [Giấy chứng nhận sai số thửa, đính chính hay thu hồi?](https://baochinhphu.vn/giay-chung-nhan-sai-so-thua-dinh-chinh-hay-thu-hoi-102240207090538245.htm) - 14:02 09/02/2024
+- 🧰 [Tết – Thời gian ý nghĩa cho gia đình, người thân](https://baochinhphu.vn/tet-thoi-gian-y-nghia-cho-gia-dinh-nguoi-than-102240207105630878.htm) - 14:00 09/02/2024
+- 🦏 [Tết Việt Nam trong mắt nhà ngoại giao nước ngoài](https://baochinhphu.vn/tet-viet-nam-trong-mat-nha-ngoai-giao-nuoc-ngoai-102240205104956541.htm) - 13:22 09/02/2024
+- 🕯 [Thủ tướng Phạm Minh Chính thăm, chúc Tết, động viên cán bộ, bác sĩ và bệnh nhân các bệnh viện tại Hà Nội](https://baochinhphu.vn/thu-tuong-pham-minh-chinh-tham-chuc-tet-dong-vien-can-bo-bac-si-va-benh-nhan-cac-benh-vien-tai-ha-noi-102240208194020856.htm) - 12:20 09/02/2024
+- 🤠 [&#39;Khu bảy&#39; giờ đã khác](https://baochinhphu.vn/niem-vui-an-cu-cua-dong-bao-co-tu-vung-bien-gioi-quang-nam-102240130141048169.htm) - 09:49 09/02/2024
+- 💂 [Giá dầu bật tăng, nông sản rung lắc mạnh](https://baochinhphu.vn/gia-dau-bat-tang-nong-san-rung-lac-manh-102240209094003751.htm) - 09:42 09/02/2024
+- 🐲 [Thiêng liêng bữa cơm đoàn viên chiều 30 Tết](https://baochinhphu.vn/thieng-lieng-bua-com-doan-vien-chieu-30-tet-10224020510570823.htm) - 09:29 09/02/2024
+- 🦩 [TPHCM triệt để tận dụng cơ chế đặc thù, triển khai đồng bộ các giải pháp phát triển KTXH](https://baochinhphu.vn/tphcm-san-sang-tang-toc-trong-nam-2024-102240205223610439.htm) - 09:12 09/02/2024
+- 💂 [Đề xuất quy định về sở hữu trong kinh doanh dịch vụ viễn thông](https://baochinhphu.vn/de-xuat-quy-dinh-ve-so-huu-trong-kinh-doanh-dich-vu-vien-thong-10224020610561181.htm) - 08:53 09/02/2024
+- 🌈 [Làng đào Nhật Tân – Phú Thượng khoe sắc ngày cận Tết](https://baochinhphu.vn/lang-dao-nhat-tan-phu-thuong-khoe-sac-ngay-can-tet-102240209005705295.htm) - 08:50 09/02/2024
+- 🔥 [Giáo viên chuyển cấp dạy học, xếp lương thế nào?](https://baochinhphu.vn/giao-vien-chuyen-cap-day-hoc-xep-luong-the-nao-102240205155843787.htm) - 08:02 09/02/2024
+- 🦄 [Thẩm quyền cấp giấy phép môi trường](https://baochinhphu.vn/tham-quyen-cap-giay-phep-moi-truong-102240206165856539.htm) - 07:02 09/02/2024
+- 🚀 [Ấm áp Tết Việt tại các nước](https://baochinhphu.vn/am-ap-tet-viet-tai-cac-nuoc-102240209063400781.htm) - 06:33 09/02/2024
+- 🤖 [Xuất khẩu hàng hóa tháng 1 tăng 42%](https://baochinhphu.vn/xuat-khau-hang-hoa-thang-1-tang-42-10224020823453513.htm) - 05:07 09/02/2024
+- 🕴 [Xử lý 8.540 trường hợp vi phạm an toàn giao thông](https://baochinhphu.vn/xu-ly-8540-truong-hop-vi-pham-an-toan-giao-thong-102240209000327729.htm) - 05:06 09/02/2024
+- 🤔 [Phó Thủ tướng Trần Hồng Hà thăm, chúc Tết một số đơn vị ở Hà Nội](https://baochinhphu.vn/pho-thu-tuong-tran-hong-ha-tham-chuc-tet-mot-so-don-vi-o-ha-noi-102240208213117904.htm) - 21:00 08/02/2024
+- 💫 [Thị trường hàng hoá đầy biến động ngay đầu năm 2024](https://baochinhphu.vn/thi-truong-hang-hoa-day-bien-dong-ngay-dau-nam-2024-102240208202251622.htm) - 20:42 08/02/2024
+- 👺 [&#39;No ấm nhờ công bộ đội&#39;](https://baochinhphu.vn/no-am-nho-cong-bo-doi-10224020708584152.htm) - 20:37 08/02/2024
+- 🦍 [Viettel ứng dụng AI để phục vụ tốt nhất cho khách hàng dịp Tết Nguyên đán](https://baochinhphu.vn/viettel-ung-dung-ai-de-phuc-vu-tot-nhat-cho-khach-hang-dip-tet-nguyen-dan-102240208175500831.htm) - 20:31 08/02/2024
 - 🦍 [Thủ tướng Phạm Minh Chính dâng hương cố Thủ tướng Phạm Văn Đồng](https://baochinhphu.vn/thu-tuong-pham-minh-chinh-dang-huong-co-thu-tuong-pham-van-dong-102240208195113296.htm) - 20:18 08/02/2024
-- 🦍 [Đường hoa xuân Đà Nẵng rực rỡ đón Tết](https://baochinhphu.vn/duong-hoa-xuan-da-nang-ruc-ro-don-tet-102240208142237708.htm) - 17:33 08/02/2024
-- 🧐 [Giá xăng, dầu đồng loạt giảm mạnh](https://baochinhphu.vn/gia-xang-dau-dong-loat-giam-manh-102240208151638164.htm) - 15:39 08/02/2024
-- 🕴 [Chủ tịch Quốc hội Vương Đình Huệ thăm, chúc Tết Công an tỉnh Nghệ An](https://baochinhphu.vn/chu-tich-quoc-hoi-vuong-dinh-hue-tham-chuc-tet-cong-an-tinh-nghe-an-102240208152806177.htm) - 15:09 08/02/2024
-- 🌈 [Món quà Tết đặc biệt cho những mảnh đời đang xây lại ước mơ](https://baochinhphu.vn/mang-tet-den-voi-nhung-manh-doi-mong-muon-xay-lai-uoc-mo-102240201154831025.htm) - 14:31 08/02/2024
-- 🔥 [Thời hạn sử dụng đất khi cấp đổi Giấy chứng nhận](https://baochinhphu.vn/thoi-han-su-dung-dat-khi-cap-doi-giay-chung-nhan-102240206164850578.htm) - 14:02 08/02/2024<!-- baochinhphu:END -->
+- 🧐 [Đường hoa xuân Đà Nẵng rực rỡ đón Tết](https://baochinhphu.vn/duong-hoa-xuan-da-nang-ruc-ro-don-tet-102240208142237708.htm) - 17:33 08/02/2024
+- 🕴 [Giá xăng, dầu đồng loạt giảm mạnh](https://baochinhphu.vn/gia-xang-dau-dong-loat-giam-manh-102240208151638164.htm) - 15:39 08/02/2024
+- 🌈 [Chủ tịch Quốc hội Vương Đình Huệ thăm, chúc Tết Công an tỉnh Nghệ An](https://baochinhphu.vn/chu-tich-quoc-hoi-vuong-dinh-hue-tham-chuc-tet-cong-an-tinh-nghe-an-102240208152806177.htm) - 15:09 08/02/2024
+- 🔥 [Món quà Tết đặc biệt cho những mảnh đời đang xây lại ước mơ](https://baochinhphu.vn/mang-tet-den-voi-nhung-manh-doi-mong-muon-xay-lai-uoc-mo-102240201154831025.htm) - 14:31 08/02/2024<!-- baochinhphu:END -->
 
 ## Thư Viện Pháp Luật
 <!-- thuvienphapluat:START -->
