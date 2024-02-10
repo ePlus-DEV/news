@@ -577,7 +577,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
 - 💼 [Haaland lập cú đúp, Man City tạm giữ ngôi đầu Ngoại hạng Anh](https://tienphong.vn/haaland-lap-cu-dup-man-city-tam-giu-ngoi-dau-ngoai-hang-anh-post1611641.tpo) - 22:47 10/02/2024
-- 🎊 [Trực tiếp Jordan vs Qatar 1-2&lpar;H2&rpar;: Qatar hưởng quả phạt đền thứ 2](https://tienphong.vn/truc-tiep-jordan-vs-qatar-1-2h2-qatar-huong-qua-phat-den-thu-2-post1611620.tpo) - 21:12 10/02/2024
+- 🎊 [Trực tiếp Jordan vs Qatar 1-3&lpar;H2&rpar;: Afif lập hat-trick, vẫn là 11m](https://tienphong.vn/truc-tiep-jordan-vs-qatar-1-3h2-afif-lap-hat-trick-van-la-11m-post1611620.tpo) - 21:12 10/02/2024
 - 💼 [Showbiz 9/2: Người thân khóc nức nở khi gặp lại Ngọc Trinh ngày Tết](https://tienphong.vn/showbiz-92-nguoi-than-khoc-nuc-no-khi-gap-lai-ngoc-trinh-ngay-tet-post1611629.tpo) - 21:07 10/02/2024
 - 👺 [Ôtô 16 chỗ va chạm với tàu hỏa tại Hà Nam, 8 người đi viện](https://tienphong.vn/oto-16-cho-va-cham-voi-tau-hoa-tai-ha-nam-8-nguoi-di-vien-post1611628.tpo) - 20:23 10/02/2024
 - 💪 [Cửa khẩu quốc tế ở Quảng Trị đón lô hàng đầu tiên trong năm mới](https://tienphong.vn/cua-khau-quoc-te-o-quang-tri-don-lo-hang-dau-tien-trong-nam-moi-post1611613.tpo) - 20:07 10/02/2024
