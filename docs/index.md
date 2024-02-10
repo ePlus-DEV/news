@@ -577,7 +577,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- hoahoctro:START -->
 - 💼 [Xu hướng du lịch tết phát triển, Vietravel cùng hàng nghìn du khách xuất hành đầu năm mới](https://tienphong.vn/xu-huong-du-lich-tet-phat-trien-vietravel-cung-hang-nghin-du-khach-xuat-hanh-dau-nam-moi-post1611610.tpo) - 17:09 10/02/2024
 - 🎊 [Độc lạ phong tục thờ Tôn Ngộ Không ở TPHCM](https://tienphong.vn/doc-la-phong-tuc-tho-ton-ngo-khong-o-tphcm-post1611600.tpo) - 17:01 10/02/2024
-- 💼 [Dân Sài Gòn nhộn nhịp check-in chốn ‘kỳ hoa dị thảo’ ngày mùng 1](https://tienphong.vn/dan-sai-gon-nhon-nhip-check-in-chon-ky-hoa-di-thao-ngay-mung-1-post1611603.tpo) - 16:46 10/02/2024
+- 💼 [Dân Sài Gòn nhộn nhịp check-in chốn ‘kỳ hoa dị thảo’ ngày Mùng 1](https://tienphong.vn/dan-sai-gon-nhon-nhip-check-in-chon-ky-hoa-di-thao-ngay-mung-1-post1611603.tpo) - 16:46 10/02/2024
 - 👺 [Thời tiết nắng đẹp, người dân Thanh Hoá đi chùa, đến điểm vui chơi Tết](https://tienphong.vn/thoi-tiet-nang-dep-nguoi-dan-thanh-hoa-di-chua-den-diem-vui-choi-tet-post1611363.tpo) - 16:05 10/02/2024
 - 💪 [Độc lạ bộ sưu tập linh vật rồng bằng gốm cổ ở Đắk Lắk](https://tienphong.vn/doc-la-bo-suu-tap-linh-vat-rong-bang-gom-co-o-dak-lak-post1611522.tpo) - 15:53 10/02/2024
 - 💃 [Bà hoả thiêu rụi 2 căn nhà ở Kon Tum đêm giao thừa](https://tienphong.vn/ba-hoa-thieu-rui-2-can-nha-o-kon-tum-dem-giao-thua-post1611571.tpo) - 15:35 10/02/2024
