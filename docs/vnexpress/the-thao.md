@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [10 kỷ lục Djokovic có thể đạt được trong năm nay](https://vnexpress.net/10-ky-luc-djokovic-co-the-dat-duoc-trong-nam-nay-4710845.html) - 21:35 10/02/2024
 - 🦩 [Son Heung-min kiến tạo trong ngày trở lại Tottenham](https://vnexpress.net/son-heung-min-kien-tao-trong-ngay-tro-lai-tottenham-4710843.html) - 18:04 10/02/2024
 - 🧰 [Nunez giúp Liverpool đòi lại đỉnh bảng](https://vnexpress.net/nunez-giup-liverpool-doi-lai-dinh-bang-4710841.html) - 17:26 10/02/2024
-- 🤗 [Haaland đưa Man City lên đỉnh bảng Ngoại hạng Anh](https://vnexpress.net/haaland-dua-man-city-len-dinh-bang-ngoai-hang-anh-4710827.html) - 15:02 10/02/2024
+- 🤗 [Haaland giúp Man City nối dài mạch thắng lên 10 trận](https://vnexpress.net/haaland-giup-man-city-noi-dai-mach-thang-len-10-tran-4710827.html) - 15:02 10/02/2024
 - 🥳 [Qatar thắng chung kết Asian Cup nhờ hattrick phạt đền](https://vnexpress.net/truc-tiep-jordan-vs-qatar-4710822.html) - 14:10 10/02/2024
 - 🦣 [Chạy khi bụng rỗng](https://vnexpress.net/chay-khi-bung-rong-4710760.html) - 06:33 10/02/2024
 - 🌜 [Guardiola: &#39;Không cần học Harvard để hiểu tầm quan trọng của De Bruyne, Haaland&#39;](https://vnexpress.net/guardiola-khong-can-hoc-harvard-de-hieu-tam-quan-trong-cua-de-bruyne-haaland-4710744.html) - 02:58 10/02/2024
