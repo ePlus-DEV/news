@@ -149,7 +149,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- thanhnien:START -->
 - 🤠 [5 mẹo an toàn để người bệnh tiểu đường tận hưởng ngày tết](https://thanhnien.vn/5-meo-an-toan-de-nguoi-benh-tieu-duong-tan-huong-ngay-tet-185240201150126571.htm) - 17:07 10/02/2024
 - 🥸 [Bệnh tim: Mẹo bảo vệ bản thân và gia đình trong những ngày tết](https://thanhnien.vn/benh-tim-meo-bao-ve-ban-than-va-gia-dinh-trong-nhung-ngay-tet-185240131205318744.htm) - 17:07 10/02/2024
-- 🌁 [Lý giải màn ‘ảo thuật’ của Akram Afif ở trận chung kết Asian Cup 2023](https://thanhnien.vn/ly-giai-man-ao-thuat-cua-akram-afif-o-tran-chung-ket-asian-cup-2023-185240210233032912.htm) - 16:33 10/02/2024
+- 🌁 [Lý giải màn ‘ảo thuật’ thú vị của Akram Afif ở trận chung kết Asian Cup 2023](https://thanhnien.vn/ly-giai-man-ao-thuat-cua-akram-afif-o-tran-chung-ket-asian-cup-2023-185240210233032912.htm) - 16:33 10/02/2024
 - 🤡 [&#39;Trọn bộ&#39; kinh nghiệm ăn chơi thành phố Thessaloniki, thành phố lớn thứ hai của Hy lạp](https://thanhnien.vn/thoi-trang-tre/tron-bo-kinh-nghiem-an-choi-thanh-pho-thessaloniki-thanh-pho-lon-thu-hai-cua-hy-lap-185240209163439579.htm) - 16:00 10/02/2024
 - 🎉 [Erling Haaland ghi 2 bàn thắng trong ngày Man City chỉ có 2 cú sút trúng đích](https://thanhnien.vn/erling-haaland-ghi-2-ban-thang-trong-ngay-man-city-chi-co-2-cu-sut-trung-dich-185240210214832327.htm) - 15:53 10/02/2024
 - 🎊 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp mùng 2 năm Giáp Thìn](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-mung-2-nam-giap-thin-185240209144032401.htm) - 15:28 10/02/2024
