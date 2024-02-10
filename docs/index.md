@@ -516,66 +516,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Loạt phim đoạt giải Oscar kinh điển dành cho mọt phim mùa Tết](https://muctim.tuoitre.vn/loat-phim-doat-giai-oscar-kinh-dien-danh-cho-mot-phim-mua-tet-101240130133437877.htm) - 10:44 10/02/2024
-- 🥷 [Top 3 phim hoạt hình chiếu rạp đáng xem dịp Tết Giáp Thìn](https://muctim.tuoitre.vn/top-3-phim-hoat-hinh-chieu-rap-dang-xem-dip-tet-giap-thin-101240202193351975.htm) - 10:41 10/02/2024
-- 🤖 [Sân chơi Ở đây có Tết: Mẹ ơi, Tết rồi nghỉ ngơi thôi!](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-me-oi-tet-roi-nghi-ngoi-thoi-101240210164135405.htm) - 10:36 10/02/2024
-- 🤓 [Sân chơi Ở đây có Tết: Sao tớ không háo hức mỗi khi Tết đến?](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-sao-to-khong-hao-huc-moi-khi-tet-den-101240210161017801.htm) - 10:36 10/02/2024
-- 🎉 [Mặc gì cho năm mới tươi mới?](https://muctim.tuoitre.vn/mac-gi-cho-nam-moi-tuoi-moi-101240203064624863.htm) - 10:30 10/02/2024
-- 👨‍🏫 [Cắn hột dưa, trò chuyện cùng Mona Bảo Tiên và Hạo Khang](https://muctim.tuoitre.vn/can-hot-dua-tro-chuyen-cung-mona-bao-tien-va-hao-khang-101240202213819334.htm) - 10:29 10/02/2024
-- 🚦 [Lưu ý gì khi đi du lịch homestay, camping ngày Tết?](https://muctim.tuoitre.vn/luu-y-gi-khi-di-du-lich-homestay-camping-ngay-tet-101240209154245912.htm) - 10:11 10/02/2024
-- 🤭 [Sân chơi Ở đây có Tết: Mong Tết để thấy con về...](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-mong-tet-de-thay-con-ve-101240210155657629.htm) - 08:42 10/02/2024
-- 😺 [Cận cảnh cụm linh vật rồng Bình Định ban ngày và buổi tối](https://muctim.tuoitre.vn/can-canh-cum-linh-vat-rong-binh-dinh-ban-ngay-va-buoi-toi-101240209054234605.htm) - 08:16 10/02/2024
-- 😎 [Tết trên quê hương mình: Món quà đầu năm](https://muctim.tuoitre.vn/tet-tren-que-huong-minh-mon-qua-dau-nam-101240202092815097.htm) - 04:30 10/02/2024
-- 🐎 [Nghệ sĩ gen Z sáng tạo trên nền văn hóa truyền thống](https://muctim.tuoitre.vn/nghe-si-gen-z-sang-tao-tren-nen-van-hoa-truyen-thong-101240203120837602.htm) - 02:00 10/02/2024
-- 🎓 [Lịch trực tiếp chung kết Asian Cup 2023: Qatar đấu Jordan](https://muctim.tuoitre.vn/lich-truc-tiep-chung-ket-asian-cup-2023-qatar-dau-jordan-10124021007555789.htm) - 01:07 10/02/2024
-- 🐎 [Chọn hướng, chọn giờ và những kiêng kỵ trong xuất hành, khai bút đầu năm](https://muctim.tuoitre.vn/chon-huong-chon-gio-va-nhung-kieng-ky-trong-xuat-hanh-khai-but-dau-nam-101240210080403098.htm) - 00:56 10/02/2024
-- 💃 [Mách bạn hai địa điểm du xuân gần gũi thiên nhiên ở TP.HCM](https://muctim.tuoitre.vn/mach-ban-hai-dia-diem-du-xuan-gan-gui-thien-nhien-o-tphcm-101240122141748357.htm) - 00:45 10/02/2024
-- 🪜 [Lịch trực tiếp bóng đá châu Âu: Real Madrid đấu &#39;hiện tượng La Liga&#39; Girona](https://muctim.tuoitre.vn/lich-truc-tiep-bong-da-chau-au-real-madrid-dau-hien-tuong-la-liga-girona-101240210074447526.htm) - 00:36 10/02/2024
-- 🎉 [Tin tức thể thao sáng 10-2: Dortmund xây chắc vị trí thứ tư](https://muctim.tuoitre.vn/tin-tuc-the-thao-sang-10-2-dortmund-xay-chac-vi-tri-thu-tu-101240210073621056.htm) - 00:29 10/02/2024
-- 🥳 [Thời tiết hôm nay mùng 1 Tết: Bắc Bộ mưa rét, Nam Bộ nắng](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-mung-1-tet-bac-bo-mua-ret-nam-bo-nang-101240210065944431.htm) - 23:59 09/02/2024
-- 🤓 [Mùng Một của 12 cung hoàng đạo &lpar;10-2&rpar;: Xử Nữ mới mẻ](https://muctim.tuoitre.vn/mung-mot-cua-12-cung-hoang-dao-10-2-xu-nu-moi-me-101240210002459425.htm) - 17:19 09/02/2024
-- 🎉 [Sinh viên về quê ăn Tết tranh thủ kiếm thêm thu nhập](https://muctim.tuoitre.vn/sinh-vien-ve-que-an-tet-tranh-thu-kiem-them-thu-nhap-101240209215724802.htm) - 16:53 09/02/2024
-- 🥳 [Tiêu Chiến, Địch Lệ Nhiệt Ba và dàn sao Hoa ngữ mừng xuân 2024](https://muctim.tuoitre.vn/tieu-chien-dich-le-nhiet-ba-va-dan-sao-hoa-ngu-mung-xuan-2024-101240209191558137.htm) - 16:28 09/02/2024
-- 🎡 [Teen cần lưu ý những gì khi khai bút đầu năm?](https://muctim.tuoitre.vn/teen-can-luu-y-nhung-gi-khi-khai-but-dau-nam-101240118150500468.htm) - 16:19 09/02/2024
-- 👨‍🏫 [Lần đầu tiên trái thanh long có trong... bếp Tết](https://muctim.tuoitre.vn/lan-dau-tien-trai-thanh-long-co-trong-bep-tet-10124020305564103.htm) - 15:53 09/02/2024
-- 🧠 [Sao Việt đón năm mới: người tất bật chạy show, người sum họp gia đình](https://muctim.tuoitre.vn/sao-viet-don-nam-moi-nguoi-tat-bat-chay-show-nguoi-sum-hop-gia-dinh-101240209175041858.htm) - 15:46 09/02/2024
-- 🥷 [Giao thừa Tết Giáp Thìn: Gen Z ước mong điều gì cho năm mới?](https://muctim.tuoitre.vn/giao-thua-tet-giap-thin-gen-z-uoc-mong-dieu-gi-cho-nam-moi-101240209091009979.htm) - 15:30 09/02/2024
-- 🤔 [Sân chơi Ở đây có Tết: Giao thừa](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-giao-thua-101240209222349781.htm) - 14:59 09/02/2024
-- 🐎 [Tết trong trái tim ta: Cuộc gặp gỡ trước giờ giao thừa](https://muctim.tuoitre.vn/tet-trong-trai-tim-ta-cuoc-gap-go-truoc-gio-giao-thua-101240202081302758.htm) - 14:57 09/02/2024
-- ⛽️ [Lắng nghe podcast theo cung hoàng đạo](https://muctim.tuoitre.vn/lang-nghe-podcast-theo-cung-hoang-dao-10124020307174398.htm) - 14:46 09/02/2024
-- 🤡 [Tết Âm lịch 2024, có điểm du lịch gần Hà Nội nào hấp dẫn?](https://muctim.tuoitre.vn/tet-am-lich-2024-co-diem-du-lich-gan-ha-noi-nao-hap-dan-101240116102013065.htm) - 12:00 09/02/2024
-- 🌁 [Gen Z trổ tài làm mâm cỗ cúng 30 Tết](https://muctim.tuoitre.vn/gen-z-tro-tai-lam-mam-co-ngay-30-tet-101240209123520382.htm) - 08:46 09/02/2024
-- 🎓 [4 cách gạt bỏ lo toan, đón năm mới với nhiều điều tích cực](https://muctim.tuoitre.vn/4-cach-gat-bo-lo-toan-don-nam-moi-voi-nhieu-dieu-tich-cuc-101240208185822542.htm) - 02:00 09/02/2024
-- 🦍 [Tin tức thể thao sáng 9-2: Ronaldo là vận động viên thu nhập cao nhất thế giới](https://muctim.tuoitre.vn/tin-tuc-the-thao-sang-9-2-ronaldo-la-van-dong-vien-thu-nhap-cao-nhat-the-gioi-101240209070600561.htm) - 00:02 09/02/2024
-- 🤠 [Thời tiết hôm nay 30 Tết: Ngày cuối năm phía đông Bắc Bộ rét đậm, Nam Bộ oi bức](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-30-tet-ngay-cuoi-nam-phia-dong-bac-bo-ret-dam-nam-bo-oi-buc-101240209070127389.htm) - 23:55 08/02/2024
-- 🎬 [Thứ Sáu của 12 cung hoàng đạo &lpar;9-2&rpar;: Cự Giải sẵn sàng đón nhận điều mới](https://muctim.tuoitre.vn/thu-sau-cua-12-cung-hoang-dao-9-2-cu-giai-san-sang-don-nhan-dieu-moi-101240209065445828.htm) - 23:41 08/02/2024
-- 🌮 [Điểm bắn pháo hoa dịp Tết Nguyên đán 2024 tại TP.HCM, Hà Nội,...](https://muctim.tuoitre.vn/diem-ban-phao-hoa-dip-tet-nguyen-dan-2024-tai-tphcm-ha-noi-101240203212544779.htm) - 23:00 08/02/2024
-- 👹 [Gợi ý 30 câu chúc Tết hay và ý nghĩa năm 2024](https://muctim.tuoitre.vn/goi-y-30-cau-chuc-tet-hay-va-y-nghia-nam-2024-101240111150212388.htm) - 23:00 08/02/2024
-- 🤔 [Dự báo thời tiết 10 ngày Tết: Bắc Bộ rét, Trung Bộ mưa rào, Nam Bộ nắng nóng](https://muctim.tuoitre.vn/du-bao-thoi-tiet-10-ngay-tet-bac-bo-ret-trung-bo-mua-rao-nam-bo-nang-nong-101240208232944197.htm) - 16:25 08/02/2024
-- 🏊 [Lisa &lpar;BLACKPINK&rpar; là thành viên tiếp theo mở công ty riêng](https://muctim.tuoitre.vn/lisa-blackpink-la-thanh-vien-tiep-theo-mo-cong-ty-rieng-101240208192654848.htm) - 15:37 08/02/2024
-- 📝 [Những địa điểm mở xuyên Tết Giáp Thìn 2024 tại TP.HCM](https://muctim.tuoitre.vn/nhung-dia-diem-mo-xuyen-tet-giap-thin-2024-tai-tphcm-101240208000958283.htm) - 15:33 08/02/2024
-- 👺 [Chạm tay vào giấc mơ tuyết trắng ở làng Tuyết Hương &lpar;Trung Quốc&rpar;](https://muctim.tuoitre.vn/cham-tay-vao-giac-mo-tuyet-trang-o-lang-tuyet-huong-trung-quoc-101240126102744139.htm) - 15:31 08/02/2024
-- 👹 [Truyện ngắn Mực Tím: Cửa tiệm An Nhiên](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-cua-tiem-an-nhien-101240201141227952.htm) - 15:30 08/02/2024
-- 🎊 [Bật mí 10 điểm vui chơi cực hot tại Đà Nẵng dịp Tết Nguyên đán](https://muctim.tuoitre.vn/bat-mi-10-diem-vui-choi-cuc-hot-tai-da-nang-dip-tet-nguyen-dan-101240111163145786.htm) - 12:00 08/02/2024
-- 👹 [Sinh viên Hà Nội bật mí 10 điểm vui chơi dịp Tết Nguyên Đán](https://muctim.tuoitre.vn/sinh-vien-ha-noi-bat-mi-10-diem-vui-choi-dip-tet-nguyen-dan-101240111155850854.htm) - 12:00 08/02/2024
-- 🎃 [Ấn tượng Hội hoa xuân Nha Trang &lpar;Khánh Hòa&rpar;](https://muctim.tuoitre.vn/an-tuong-hoi-hoa-xuan-nha-trang-khanh-hoa-101240207220216392.htm) - 02:45 08/02/2024
-- 🧑‍🏫 [Linh vật rồng đường hoa Nguyễn Huệ 2024 chính thức sáng đèn](https://muctim.tuoitre.vn/linh-vat-rong-duong-hoa-nguyen-hue-2024-chinh-thuc-sang-den-101240208005848826.htm) - 02:41 08/02/2024
-- 🎊 [Bí quyết đạt Học sinh 3 tốt cấp Trung ương của nữ sinh THPT Chuyên Lê Quý Đôn &lpar;Quảng Trị&rpar;](https://muctim.tuoitre.vn/bi-quyet-dat-hoc-sinh-3-tot-cap-trung-uong-cua-nu-sinh-thpt-chuyen-le-quy-don-quang-tri-101240207182321419.htm) - 02:34 08/02/2024
-- 📝 [Poster phim Past lives của nhà thiết kế Việt gây ấn tượng](https://muctim.tuoitre.vn/poster-phim-past-lives-cua-nha-thiet-ke-viet-gay-an-tuong-101240207221043003.htm) - 02:32 08/02/2024
-- 🥳 [Top 8 phim cổ trang Hoa ngữ hay nhất cho bạn cày xuyên Tết](https://muctim.tuoitre.vn/top-8-phim-co-trang-hoa-ngu-hay-nhat-cho-ban-cay-xuyen-tet-101240205181921328.htm) - 02:31 08/02/2024
-- 💻 [Tin tức thể thao sáng 8-2: Xác định 2 đội vào chung kết AFCON 2023](https://muctim.tuoitre.vn/tin-tuc-the-thao-sang-8-2-xac-dinh-2-doi-vao-chung-ket-afcon-2023-101240208092956499.htm) - 02:24 08/02/2024
-- 😎 [Chung kết Asian Cup 2023 khi nào, trực tiếp ở đâu?](https://muctim.tuoitre.vn/chung-ket-asian-cup-2023-khi-nao-truc-tiep-o-dau-101240208092340273.htm) - 02:19 08/02/2024
-- 🤭 [Trường đại học Nông Lâm TP.HCM thêm phương thức tuyển sinh kết hợp](https://muctim.tuoitre.vn/truong-dai-hoc-nong-lam-tphcm-them-phuong-thuc-tuyen-sinh-ket-hop-101240208091857569.htm) - 02:13 08/02/2024
-- 🤩 [Thời tiết hôm nay 8-2: Bắc Bộ thêm rét, nhiệt độ vùng núi xuống 5 độ C](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-8-2-bac-bo-them-ret-nhiet-do-vung-nui-xuong-5-do-c-101240208091313557.htm) - 02:09 08/02/2024
-- 🚀 [Thứ Năm của 12 cung hoàng đạo &lpar;8-2&rpar;: Song Tử tràn đầy năng lượng](https://muctim.tuoitre.vn/thu-nam-cua-12-cung-hoang-dao-8-2-song-tu-tran-day-nang-luong-10124020809093277.htm) - 01:59 08/02/2024
-- 🕴 [Tổng hợp caption, lời chúc Tết hay năm 2024](https://muctim.tuoitre.vn/tong-hop-caption-loi-chuc-tet-hay-nam-2024-10124020722593041.htm) - 01:00 08/02/2024
-- ⛽️ [Cày xuyên Tết với 10 phim hot trên ứng dụng VieON](https://muctim.tuoitre.vn/cay-xuyen-tet-voi-10-phim-hot-tren-ung-dung-vieon-101240207004800861.htm) - 13:00 07/02/2024
-- 🧐 [Ngoài Táo quân, teen có thể xem gì trong giao thừa Tết Giáp Thìn?](https://muctim.tuoitre.vn/ngoai-tao-quan-teen-co-the-xem-gi-trong-giao-thua-tet-giap-thin-101240130201936807.htm) - 12:00 07/02/2024
-- 🦆 [Gợi ý 6 điểm du lịch gần TP.HCM dịp Tết Âm lịch 2024](https://muctim.tuoitre.vn/goi-y-6-diem-du-lich-gan-tphcm-dip-tet-am-lich-2024-101240112193858495.htm) - 10:35 07/02/2024
-- 🤖 [Hội xuân 2 trong 1 của Trường cao đẳng Bách khoa Sài Gòn](https://muctim.tuoitre.vn/hoi-xuan-2-trong-1-cua-truong-cao-dang-bach-khoa-sai-gon-101240125152332583.htm) - 09:21 07/02/2024
-- 💃 [Gợi ý những tựa sách xuân thích hợp đọc trong ngày Tết](https://muctim.tuoitre.vn/goi-y-nhung-tua-sach-xuan-thich-hop-doc-trong-ngay-tet-101240206074937269.htm) - 09:20 07/02/2024
-- 🚀 [3 lưu ý khi nhận lì xì Tết Giáp Thìn 2024 này!](https://muctim.tuoitre.vn/3-luu-y-khi-nhan-li-xi-tet-giap-thin-2024-nay-101240206135841617.htm) - 09:19 07/02/2024
-- 🦍 [Khoảnh khắc giao thừa Tết Giáp Thìn 2024 của 12 cung hoàng đạo](https://muctim.tuoitre.vn/khoanh-khac-giao-thua-tet-giap-thin-2024-cua-12-cung-hoang-dao-10124012210460591.htm) - 03:00 07/02/2024<!-- muctim:END -->
+- 🤔 [Trải nghiệm săn mây ở Đà Lạt thu nhỏ trong lòng Quảng Trị](https://muctim.tuoitre.vn/trai-nghiem-san-may-o-da-lat-thu-nho-trong-long-quang-tri-10124020716401242.htm) - 23:00 10/02/2024
+- 🥷 [Loạt phim đoạt giải Oscar kinh điển dành cho mọt phim mùa Tết](https://muctim.tuoitre.vn/loat-phim-doat-giai-oscar-kinh-dien-danh-cho-mot-phim-mua-tet-101240130133437877.htm) - 10:44 10/02/2024
+- 🤖 [Top 3 phim hoạt hình chiếu rạp đáng xem dịp Tết Giáp Thìn](https://muctim.tuoitre.vn/top-3-phim-hoat-hinh-chieu-rap-dang-xem-dip-tet-giap-thin-101240202193351975.htm) - 10:41 10/02/2024
+- 🤓 [Sân chơi Ở đây có Tết: Mẹ ơi, Tết rồi nghỉ ngơi thôi!](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-me-oi-tet-roi-nghi-ngoi-thoi-101240210164135405.htm) - 10:36 10/02/2024
+- 🎉 [Sân chơi Ở đây có Tết: Sao tớ không háo hức mỗi khi Tết đến?](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-sao-to-khong-hao-huc-moi-khi-tet-den-101240210161017801.htm) - 10:36 10/02/2024
+- 👨‍🏫 [Mặc gì cho năm mới tươi mới?](https://muctim.tuoitre.vn/mac-gi-cho-nam-moi-tuoi-moi-101240203064624863.htm) - 10:30 10/02/2024
+- 🚦 [Cắn hột dưa, trò chuyện cùng Mona Bảo Tiên và Hạo Khang](https://muctim.tuoitre.vn/can-hot-dua-tro-chuyen-cung-mona-bao-tien-va-hao-khang-101240202213819334.htm) - 10:29 10/02/2024
+- 🤭 [Lưu ý gì khi đi du lịch homestay, camping ngày Tết?](https://muctim.tuoitre.vn/luu-y-gi-khi-di-du-lich-homestay-camping-ngay-tet-101240209154245912.htm) - 10:11 10/02/2024
+- 😺 [Sân chơi Ở đây có Tết: Mong Tết để thấy con về...](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-mong-tet-de-thay-con-ve-101240210155657629.htm) - 08:42 10/02/2024
+- 😎 [Cận cảnh cụm linh vật rồng Bình Định ban ngày và buổi tối](https://muctim.tuoitre.vn/can-canh-cum-linh-vat-rong-binh-dinh-ban-ngay-va-buoi-toi-101240209054234605.htm) - 08:16 10/02/2024
+- 🐎 [Tết trên quê hương mình: Món quà đầu năm](https://muctim.tuoitre.vn/tet-tren-que-huong-minh-mon-qua-dau-nam-101240202092815097.htm) - 04:30 10/02/2024
+- 🎓 [Nghệ sĩ gen Z sáng tạo trên nền văn hóa truyền thống](https://muctim.tuoitre.vn/nghe-si-gen-z-sang-tao-tren-nen-van-hoa-truyen-thong-101240203120837602.htm) - 02:00 10/02/2024
+- 🐎 [Lịch trực tiếp chung kết Asian Cup 2023: Qatar đấu Jordan](https://muctim.tuoitre.vn/lich-truc-tiep-chung-ket-asian-cup-2023-qatar-dau-jordan-10124021007555789.htm) - 01:07 10/02/2024
+- 💃 [Chọn hướng, chọn giờ và những kiêng kỵ trong xuất hành, khai bút đầu năm](https://muctim.tuoitre.vn/chon-huong-chon-gio-va-nhung-kieng-ky-trong-xuat-hanh-khai-but-dau-nam-101240210080403098.htm) - 00:56 10/02/2024
+- 🪜 [Mách bạn hai địa điểm du xuân gần gũi thiên nhiên ở TP.HCM](https://muctim.tuoitre.vn/mach-ban-hai-dia-diem-du-xuan-gan-gui-thien-nhien-o-tphcm-101240122141748357.htm) - 00:45 10/02/2024
+- 🎉 [Lịch trực tiếp bóng đá châu Âu: Real Madrid đấu &#39;hiện tượng La Liga&#39; Girona](https://muctim.tuoitre.vn/lich-truc-tiep-bong-da-chau-au-real-madrid-dau-hien-tuong-la-liga-girona-101240210074447526.htm) - 00:36 10/02/2024
+- 🥳 [Tin tức thể thao sáng 10-2: Dortmund xây chắc vị trí thứ tư](https://muctim.tuoitre.vn/tin-tuc-the-thao-sang-10-2-dortmund-xay-chac-vi-tri-thu-tu-101240210073621056.htm) - 00:29 10/02/2024
+- 🤓 [Thời tiết hôm nay mùng 1 Tết: Bắc Bộ mưa rét, Nam Bộ nắng](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-mung-1-tet-bac-bo-mua-ret-nam-bo-nang-101240210065944431.htm) - 23:59 09/02/2024
+- 🎉 [Mùng Một của 12 cung hoàng đạo &lpar;10-2&rpar;: Xử Nữ mới mẻ](https://muctim.tuoitre.vn/mung-mot-cua-12-cung-hoang-dao-10-2-xu-nu-moi-me-101240210002459425.htm) - 17:19 09/02/2024
+- 🥳 [Sinh viên về quê ăn Tết tranh thủ kiếm thêm thu nhập](https://muctim.tuoitre.vn/sinh-vien-ve-que-an-tet-tranh-thu-kiem-them-thu-nhap-101240209215724802.htm) - 16:53 09/02/2024
+- 🎡 [Tiêu Chiến, Địch Lệ Nhiệt Ba và dàn sao Hoa ngữ mừng xuân 2024](https://muctim.tuoitre.vn/tieu-chien-dich-le-nhiet-ba-va-dan-sao-hoa-ngu-mung-xuan-2024-101240209191558137.htm) - 16:28 09/02/2024
+- 👨‍🏫 [Teen cần lưu ý những gì khi khai bút đầu năm?](https://muctim.tuoitre.vn/teen-can-luu-y-nhung-gi-khi-khai-but-dau-nam-101240118150500468.htm) - 16:19 09/02/2024
+- 🧠 [Lần đầu tiên trái thanh long có trong... bếp Tết](https://muctim.tuoitre.vn/lan-dau-tien-trai-thanh-long-co-trong-bep-tet-10124020305564103.htm) - 15:53 09/02/2024
+- 🥷 [Sao Việt đón năm mới: người tất bật chạy show, người sum họp gia đình](https://muctim.tuoitre.vn/sao-viet-don-nam-moi-nguoi-tat-bat-chay-show-nguoi-sum-hop-gia-dinh-101240209175041858.htm) - 15:46 09/02/2024
+- 🤔 [Giao thừa Tết Giáp Thìn: Gen Z ước mong điều gì cho năm mới?](https://muctim.tuoitre.vn/giao-thua-tet-giap-thin-gen-z-uoc-mong-dieu-gi-cho-nam-moi-101240209091009979.htm) - 15:30 09/02/2024
+- 🐎 [Sân chơi Ở đây có Tết: Giao thừa](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-giao-thua-101240209222349781.htm) - 14:59 09/02/2024
+- ⛽️ [Tết trong trái tim ta: Cuộc gặp gỡ trước giờ giao thừa](https://muctim.tuoitre.vn/tet-trong-trai-tim-ta-cuoc-gap-go-truoc-gio-giao-thua-101240202081302758.htm) - 14:57 09/02/2024
+- 🤡 [Lắng nghe podcast theo cung hoàng đạo](https://muctim.tuoitre.vn/lang-nghe-podcast-theo-cung-hoang-dao-10124020307174398.htm) - 14:46 09/02/2024
+- 🌁 [Tết Âm lịch 2024, có điểm du lịch gần Hà Nội nào hấp dẫn?](https://muctim.tuoitre.vn/tet-am-lich-2024-co-diem-du-lich-gan-ha-noi-nao-hap-dan-101240116102013065.htm) - 12:00 09/02/2024
+- 🎓 [Gen Z trổ tài làm mâm cỗ cúng 30 Tết](https://muctim.tuoitre.vn/gen-z-tro-tai-lam-mam-co-ngay-30-tet-101240209123520382.htm) - 08:46 09/02/2024
+- 🦍 [4 cách gạt bỏ lo toan, đón năm mới với nhiều điều tích cực](https://muctim.tuoitre.vn/4-cach-gat-bo-lo-toan-don-nam-moi-voi-nhieu-dieu-tich-cuc-101240208185822542.htm) - 02:00 09/02/2024
+- 🤠 [Tin tức thể thao sáng 9-2: Ronaldo là vận động viên thu nhập cao nhất thế giới](https://muctim.tuoitre.vn/tin-tuc-the-thao-sang-9-2-ronaldo-la-van-dong-vien-thu-nhap-cao-nhat-the-gioi-101240209070600561.htm) - 00:02 09/02/2024
+- 🎬 [Thời tiết hôm nay 30 Tết: Ngày cuối năm phía đông Bắc Bộ rét đậm, Nam Bộ oi bức](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-30-tet-ngay-cuoi-nam-phia-dong-bac-bo-ret-dam-nam-bo-oi-buc-101240209070127389.htm) - 23:55 08/02/2024
+- 🌮 [Thứ Sáu của 12 cung hoàng đạo &lpar;9-2&rpar;: Cự Giải sẵn sàng đón nhận điều mới](https://muctim.tuoitre.vn/thu-sau-cua-12-cung-hoang-dao-9-2-cu-giai-san-sang-don-nhan-dieu-moi-101240209065445828.htm) - 23:41 08/02/2024
+- 👹 [Điểm bắn pháo hoa dịp Tết Nguyên đán 2024 tại TP.HCM, Hà Nội,...](https://muctim.tuoitre.vn/diem-ban-phao-hoa-dip-tet-nguyen-dan-2024-tai-tphcm-ha-noi-101240203212544779.htm) - 23:00 08/02/2024
+- 🤔 [Gợi ý 30 câu chúc Tết hay và ý nghĩa năm 2024](https://muctim.tuoitre.vn/goi-y-30-cau-chuc-tet-hay-va-y-nghia-nam-2024-101240111150212388.htm) - 23:00 08/02/2024
+- 🏊 [Dự báo thời tiết 10 ngày Tết: Bắc Bộ rét, Trung Bộ mưa rào, Nam Bộ nắng nóng](https://muctim.tuoitre.vn/du-bao-thoi-tiet-10-ngay-tet-bac-bo-ret-trung-bo-mua-rao-nam-bo-nang-nong-101240208232944197.htm) - 16:25 08/02/2024
+- 📝 [Lisa &lpar;BLACKPINK&rpar; là thành viên tiếp theo mở công ty riêng](https://muctim.tuoitre.vn/lisa-blackpink-la-thanh-vien-tiep-theo-mo-cong-ty-rieng-101240208192654848.htm) - 15:37 08/02/2024
+- 👺 [Những địa điểm mở xuyên Tết Giáp Thìn 2024 tại TP.HCM](https://muctim.tuoitre.vn/nhung-dia-diem-mo-xuyen-tet-giap-thin-2024-tai-tphcm-101240208000958283.htm) - 15:33 08/02/2024
+- 👹 [Chạm tay vào giấc mơ tuyết trắng ở làng Tuyết Hương &lpar;Trung Quốc&rpar;](https://muctim.tuoitre.vn/cham-tay-vao-giac-mo-tuyet-trang-o-lang-tuyet-huong-trung-quoc-101240126102744139.htm) - 15:31 08/02/2024
+- 🎊 [Truyện ngắn Mực Tím: Cửa tiệm An Nhiên](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-cua-tiem-an-nhien-101240201141227952.htm) - 15:30 08/02/2024
+- 👹 [Bật mí 10 điểm vui chơi cực hot tại Đà Nẵng dịp Tết Nguyên đán](https://muctim.tuoitre.vn/bat-mi-10-diem-vui-choi-cuc-hot-tai-da-nang-dip-tet-nguyen-dan-101240111163145786.htm) - 12:00 08/02/2024
+- 🎃 [Sinh viên Hà Nội bật mí 10 điểm vui chơi dịp Tết Nguyên Đán](https://muctim.tuoitre.vn/sinh-vien-ha-noi-bat-mi-10-diem-vui-choi-dip-tet-nguyen-dan-101240111155850854.htm) - 12:00 08/02/2024
+- 🧑‍🏫 [Ấn tượng Hội hoa xuân Nha Trang &lpar;Khánh Hòa&rpar;](https://muctim.tuoitre.vn/an-tuong-hoi-hoa-xuan-nha-trang-khanh-hoa-101240207220216392.htm) - 02:45 08/02/2024
+- 🎊 [Linh vật rồng đường hoa Nguyễn Huệ 2024 chính thức sáng đèn](https://muctim.tuoitre.vn/linh-vat-rong-duong-hoa-nguyen-hue-2024-chinh-thuc-sang-den-101240208005848826.htm) - 02:41 08/02/2024
+- 📝 [Bí quyết đạt Học sinh 3 tốt cấp Trung ương của nữ sinh THPT Chuyên Lê Quý Đôn &lpar;Quảng Trị&rpar;](https://muctim.tuoitre.vn/bi-quyet-dat-hoc-sinh-3-tot-cap-trung-uong-cua-nu-sinh-thpt-chuyen-le-quy-don-quang-tri-101240207182321419.htm) - 02:34 08/02/2024
+- 🥳 [Poster phim Past lives của nhà thiết kế Việt gây ấn tượng](https://muctim.tuoitre.vn/poster-phim-past-lives-cua-nha-thiet-ke-viet-gay-an-tuong-101240207221043003.htm) - 02:32 08/02/2024
+- 💻 [Top 8 phim cổ trang Hoa ngữ hay nhất cho bạn cày xuyên Tết](https://muctim.tuoitre.vn/top-8-phim-co-trang-hoa-ngu-hay-nhat-cho-ban-cay-xuyen-tet-101240205181921328.htm) - 02:31 08/02/2024
+- 😎 [Tin tức thể thao sáng 8-2: Xác định 2 đội vào chung kết AFCON 2023](https://muctim.tuoitre.vn/tin-tuc-the-thao-sang-8-2-xac-dinh-2-doi-vao-chung-ket-afcon-2023-101240208092956499.htm) - 02:24 08/02/2024
+- 🤭 [Chung kết Asian Cup 2023 khi nào, trực tiếp ở đâu?](https://muctim.tuoitre.vn/chung-ket-asian-cup-2023-khi-nao-truc-tiep-o-dau-101240208092340273.htm) - 02:19 08/02/2024
+- 🤩 [Trường đại học Nông Lâm TP.HCM thêm phương thức tuyển sinh kết hợp](https://muctim.tuoitre.vn/truong-dai-hoc-nong-lam-tphcm-them-phuong-thuc-tuyen-sinh-ket-hop-101240208091857569.htm) - 02:13 08/02/2024
+- 🚀 [Thời tiết hôm nay 8-2: Bắc Bộ thêm rét, nhiệt độ vùng núi xuống 5 độ C](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-8-2-bac-bo-them-ret-nhiet-do-vung-nui-xuong-5-do-c-101240208091313557.htm) - 02:09 08/02/2024
+- 🕴 [Thứ Năm của 12 cung hoàng đạo &lpar;8-2&rpar;: Song Tử tràn đầy năng lượng](https://muctim.tuoitre.vn/thu-nam-cua-12-cung-hoang-dao-8-2-song-tu-tran-day-nang-luong-10124020809093277.htm) - 01:59 08/02/2024
+- ⛽️ [Tổng hợp caption, lời chúc Tết hay năm 2024](https://muctim.tuoitre.vn/tong-hop-caption-loi-chuc-tet-hay-nam-2024-10124020722593041.htm) - 01:00 08/02/2024
+- 🧐 [Cày xuyên Tết với 10 phim hot trên ứng dụng VieON](https://muctim.tuoitre.vn/cay-xuyen-tet-voi-10-phim-hot-tren-ung-dung-vieon-101240207004800861.htm) - 13:00 07/02/2024
+- 🦆 [Ngoài Táo quân, teen có thể xem gì trong giao thừa Tết Giáp Thìn?](https://muctim.tuoitre.vn/ngoai-tao-quan-teen-co-the-xem-gi-trong-giao-thua-tet-giap-thin-101240130201936807.htm) - 12:00 07/02/2024
+- 🤖 [Gợi ý 6 điểm du lịch gần TP.HCM dịp Tết Âm lịch 2024](https://muctim.tuoitre.vn/goi-y-6-diem-du-lich-gan-tphcm-dip-tet-am-lich-2024-101240112193858495.htm) - 10:35 07/02/2024
+- 💃 [Hội xuân 2 trong 1 của Trường cao đẳng Bách khoa Sài Gòn](https://muctim.tuoitre.vn/hoi-xuan-2-trong-1-cua-truong-cao-dang-bach-khoa-sai-gon-101240125152332583.htm) - 09:21 07/02/2024
+- 🚀 [Gợi ý những tựa sách xuân thích hợp đọc trong ngày Tết](https://muctim.tuoitre.vn/goi-y-nhung-tua-sach-xuan-thich-hop-doc-trong-ngay-tet-101240206074937269.htm) - 09:20 07/02/2024
+- 🦍 [3 lưu ý khi nhận lì xì Tết Giáp Thìn 2024 này!](https://muctim.tuoitre.vn/3-luu-y-khi-nhan-li-xi-tet-giap-thin-2024-nay-101240206135841617.htm) - 09:19 07/02/2024<!-- muctim:END -->
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
