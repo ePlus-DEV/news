@@ -148,7 +148,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
 - 🤠 [&#39;The Conjuring 4&#39; sẽ kết thúc toàn bộ thương hiệu &#39;Ám ảnh kinh hoàng&#39;](https://thanhnien.vn/the-conjuring-4-se-ket-thuc-toan-bo-thuong-hieu-am-anh-kinh-hoang-185240210202733494.htm) - 14:06 10/02/2024
-- 🥸 [Chung kết Asian Cup 2023, Qatar - Jordan: Lịch sử chờ đợi Jordan](https://thanhnien.vn/chung-ket-asian-cup-2023-qatar-jordan-lich-su-cho-doi-jordan-185240210112827877.htm) - 14:00 10/02/2024
+- 🥸 [Chung kết Asian Cup 2023, Qatar 0-0 Jordan: Lịch sử chờ đợi Jordan](https://thanhnien.vn/chung-ket-asian-cup-2023-qatar-jordan-lich-su-cho-doi-jordan-185240210112827877.htm) - 14:00 10/02/2024
 - 🌁 [Đến Montreal, Canada thăm thánh đường tráng lệ, mua sắm thả ga](https://thanhnien.vn/thoi-trang-tre/den-montreal-canada-tham-thanh-duong-trang-le-mua-sam-tha-ga-185240209162548399.htm) - 14:00 10/02/2024
 - 🤡 [Kỳ lạ ngôi miếu 300 tuổi nằm giữa sông &#39;sở hữu&#39; gần 100 con rồng](https://thanhnien.vn/ky-la-ngoi-mieu-300-tuoi-nam-giua-song-so-huu-gan-100-con-rong-185240207173701551.htm) - 13:52 10/02/2024
 - 🎉 [Thi ảnh Khát vọng năm rồng: Ngắm làng mai vàng nức tiếng miền Tây](https://thanhnien.vn/thi-anh-khat-vong-nam-rong-ngam-lang-mai-vang-nuc-tieng-mien-tay-185240210141211363.htm) - 13:41 10/02/2024
