@@ -208,46 +208,46 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Đức tính quốc hữu hóa công ty con của gã khổng lồ dầu khí Nga](https://laodong.vn/the-gioi/duc-tinh-quoc-huu-hoa-cong-ty-con-cua-ga-khong-lo-dau-khi-nga-1303011.ldo) - 02:02 10/02/2024
-- 📝 [Khởi tố vụ án liên quan đến vụ TNGT khiến 2 thanh niên tử vong ở Hòa Bình](https://laodong.vn/phap-luat/khoi-to-vu-an-lien-quan-den-vu-tngt-khien-2-thanh-nien-tu-vong-o-hoa-binh-1303013.ldo) - 02:02 10/02/2024
-- 🦏 [Điều động, bổ nhiệm nhân sự mới ở Đà Nẵng, Quảng Bình, Nghệ An, Cao Bằng](https://laodong.vn/thoi-su/dieu-dong-bo-nhiem-nhan-su-moi-o-da-nang-quang-binh-nghe-an-cao-bang-1301601.ldo) - 02:01 10/02/2024
-- 🦩 [Tranh cãi đón Tết nội - Tết ngoại, làm sao để cân bằng?](https://laodong.vn/video/tranh-cai-don-tet-noi-tet-ngoai-lam-sao-de-can-bang-1301075.ldo) - 02:00 10/02/2024
-- 🦏 [Công nhân bám công trường thi công xuyên Tết ở dự án sân bay Long Thành](https://laodong.vn/photo/cong-nhan-bam-cong-truong-thi-cong-xuyen-tet-o-du-an-san-bay-long-thanh-1301400.ldo) - 02:00 10/02/2024
-- 🧰 [Những người đón giao thừa ở các tuyến đường, góc phố](https://laodong.vn/xa-hoi/nhung-nguoi-don-giao-thua-o-cac-tuyen-duong-goc-pho-1303041.ldo) - 01:57 10/02/2024
-- 🌊 [Đón Tết cùng chủ nhà trọ, công nhân vơi đi nỗi nhớ quê](https://laodong.vn/cong-doan/don-tet-cung-chu-nha-tro-cong-nhan-voi-di-noi-nho-que-1303028.ldo) - 01:56 10/02/2024
-- 🔥 [Người dân TP Hưng Yên tấp nập đi lễ chùa cầu an sau Giao thừa](https://laodong.vn/ban-tin/nguoi-dan-tp-hung-yen-tap-nap-di-le-chua-cau-an-sau-giao-thua-1303043.ldo) - 01:51 10/02/2024
-- 🦒 [Kích hoạt dòng vốn lớn chảy vào thị trường chứng khoán](https://laodong.vn/kinh-doanh/kich-hoat-dong-von-lon-chay-vao-thi-truong-chung-khoan-1303050.ldo) - 01:45 10/02/2024
-- 💼 [Apple giới thiệu mô hình AI mới](https://laodong.vn/cong-nghe/apple-gioi-thieu-mo-hinh-ai-moi-1303039.ldo) - 01:42 10/02/2024
-- 🤖 [Nhiều người Cần Thơ chuộng lì xì qua quét mã QR](https://laodong.vn/ban-doc/nhieu-nguoi-can-tho-chuong-li-xi-qua-quet-ma-qr-1302403.ldo) - 01:41 10/02/2024
-- 💪 [Trọng tài Trung Quốc điều khiển trận chung kết Asian Cup 2023](https://laodong.vn/bong-da-quoc-te/trong-tai-trung-quoc-dieu-khien-tran-chung-ket-asian-cup-2023-1303058.ldo) - 01:39 10/02/2024
-- 👍 [Lịch thi đấu quần vợt 10.2: Khachanov vs Dimitrov](https://laodong.vn/lich-thi-dau/lich-thi-dau-quan-vot-102-khachanov-vs-dimitrov-1303056.ldo) - 01:38 10/02/2024
-- 💂 [Tết Nguyên đán Việt Nam gây ấn tượng sâu sắc trong mắt bạn bè quốc tế](https://laodong.vn/video-xa-hoi/tet-nguyen-dan-viet-nam-gay-an-tuong-sau-sac-trong-mat-ban-be-quoc-te-1301169.ldo) - 01:30 10/02/2024
-- 🧰 [Xu hướng chọn trang phục áo bà ba để du Xuân](https://laodong.vn/ban-tin/xu-huong-chon-trang-phuc-ao-ba-ba-de-du-xuan-1300435.ldo) - 01:30 10/02/2024
-- 🥷 [Google Doodle chúc mừng Tết Nguyên đán 2024](https://laodong.vn/the-gioi/google-doodle-chuc-mung-tet-nguyen-dan-2024-1303049.ldo) - 01:18 10/02/2024
-- 💫 [Công nhân dọn vệ sinh đêm giao thừa ở Bình Phước được tặng quà Tết](https://laodong.vn/cong-doan/cong-nhan-don-ve-sinh-dem-giao-thua-o-binh-phuoc-duoc-tang-qua-tet-1303025.ldo) - 01:14 10/02/2024
-- 🎭 [&quot;Rồng nhí&quot; đầu tiên chào đời tại Bệnh viện Phụ Sản Hà Nội](https://laodong.vn/suc-khoe/rong-nhi-dau-tien-chao-doi-tai-benh-vien-phu-san-ha-noi-1303042.ldo) - 01:09 10/02/2024
-- 😎 [Một mình trèo lên đỉnh núi giữa vịnh Hạ Long chụp bức ảnh “Rồng”](https://laodong.vn/van-hoa-giai-tri/mot-minh-treo-len-dinh-nui-giua-vinh-ha-long-chup-buc-anh-rong-1302918.ldo) - 01:08 10/02/2024
-- 💄 [Lo ngại nguồn cung từ Trung Đông gián đoạn, giá dầu tiếp tục đi lên](https://laodong.vn/kinh-doanh/lo-ngai-nguon-cung-tu-trung-dong-gian-doan-gia-dau-tiep-tuc-di-len-1303047.ldo) - 01:03 10/02/2024
-- 🫣 [Không khí Tết trên các nhà giàn DK1](https://laodong.vn/photo/khong-khi-tet-tren-cac-nha-gian-dk1-1302824.ldo) - 01:00 10/02/2024
-- 🧑‍🏫 [Khi Gen Z say mê quảng bá du lịch Cần Thơ](https://laodong.vn/video/khi-gen-z-say-me-quang-ba-du-lich-can-tho-1300438.ldo) - 01:00 10/02/2024
-- 🦣 [Vượt sóng mang tết ra Trường Sa](https://laodong.vn/video/vuot-song-mang-tet-ra-truong-sa-1297799.ldo) - 01:00 10/02/2024
-- 💫 [Lịch thi đấu bóng đá 10.2: Chung kết Asian Cup 2023 Jordan vs Qatar](https://laodong.vn/lich-thi-dau/lich-thi-dau-bong-da-102-chung-ket-asian-cup-2023-jordan-vs-qatar-1302989.ldo) - 00:57 10/02/2024
-- ⛽️ [Thức trắng đêm Giao thừa cùng bệnh nhân tại nơi đèn điện không bao giờ tắt](https://laodong.vn/suc-khoe/thuc-trang-dem-giao-thua-cung-benh-nhan-tai-noi-den-dien-khong-bao-gio-tat-1303012.ldo) - 00:54 10/02/2024
-- 💫 [Ẩm thực Việt tỏa sáng cùng ngôi sao Michelin](https://laodong.vn/xa-hoi/am-thuc-viet-toa-sang-cung-ngoi-sao-michelin-1302696.ldo) - 00:50 10/02/2024
-- 🥸 [Lãi suất ngân hàng hôm nay 10.2: Top 10 ngân hàng lãi suất cao nhất Tết](https://laodong.vn/tien-te-dau-tu/lai-suat-ngan-hang-hom-nay-102-top-10-ngan-hang-lai-suat-cao-nhat-tet-1300769.ldo) - 00:45 10/02/2024
-- 🐻 [Ý nghĩa đằng sau tục xông đất, hái cành lộc đêm giao thừa](https://laodong.vn/gia-dinh-hon-nhan/y-nghia-dang-sau-tuc-xong-dat-hai-canh-loc-dem-giao-thua-1302910.ldo) - 00:43 10/02/2024
-- 🪄 [Tỷ giá ngoại tệ, cập nhật tỷ giá USD chợ đen hôm nay 10.2](https://laodong.vn/tien-te-dau-tu/ty-gia-ngoai-te-cap-nhat-ty-gia-usd-cho-den-hom-nay-102-1302751.ldo) - 00:42 10/02/2024
-- 🧑‍🏫 [Cải thiện môi trường kinh doanh hướng tới Việt Nam phát triển, thu nhập cao](https://laodong.vn/kinh-doanh/cai-thien-moi-truong-kinh-doanh-huong-toi-viet-nam-phat-trien-thu-nhap-cao-1302976.ldo) - 00:41 10/02/2024
-- 🌊 [Bộ trưởng Y tế lì xì đầu xuân cho y bác sĩ đón những em bé &quot;rồng&quot; đầu tiên](https://laodong.vn/suc-khoe/bo-truong-y-te-li-xi-dau-xuan-cho-y-bac-si-don-nhung-em-be-rong-dau-tien-1303030.ldo) - 00:39 10/02/2024
-- 💻 [Đêm Giao thừa ở Trung tâm Cấp cứu lớn nhất miền Bắc](https://laodong.vn/video/dem-giao-thua-o-trung-tam-cap-cuu-lon-nhat-mien-bac-1303046.ldo) - 00:39 10/02/2024
-- 👨‍🏫 [Tết thời bao cấp xa xăm](https://laodong.vn/van-hoa-giai-tri/tet-thoi-bao-cap-xa-xam-1302689.ldo) - 00:38 10/02/2024
-- 🌈 [Hoa hậu Đỗ Thị Hà tiết lộ 2 điều nguyện cầu khi đi lễ chùa ngày mùng 1 Tết](https://laodong.vn/video-van-hoa-giai-tri/hoa-hau-do-thi-ha-tiet-lo-2-dieu-nguyen-cau-khi-di-le-chua-ngay-mung-1-tet-1302912.ldo) - 00:30 10/02/2024
-- 🐲 [Xuân miền Tây rực rỡ sắc mai vàng](https://laodong.vn/video/xuan-mien-tay-ruc-ro-sac-mai-vang-1303015.ldo) - 00:30 10/02/2024
-- 🚀 [Cập nhật giá vàng sáng 10.2: Liên tục &quot;nhảy múa&quot;, nhận định bất ngờ](https://laodong.vn/tien-te-dau-tu/cap-nhat-gia-vang-sang-102-lien-tuc-nhay-mua-nhan-dinh-bat-ngo-1303017.ldo) - 00:28 10/02/2024
-- 😺 [Giá đất được thực hiện qua quá trình đấu giá sẽ được cập nhật minh bạch hơn](https://laodong.vn/thoi-su/gia-dat-duoc-thuc-hien-qua-qua-trinh-dau-gia-se-duoc-cap-nhat-minh-bach-hon-1300580.ldo) - 00:26 10/02/2024
-- 🕴 [Các vận động viên, bình luận viên gửi lời chúc năm mới 2024 tới độc giả báo Lao Động](https://laodong.vn/video/cac-van-dong-vien-binh-luan-vien-gui-loi-chuc-nam-moi-2024-toi-doc-gia-bao-lao-dong-1303016.ldo) - 00:14 10/02/2024
-- 🌋 [Thanh Hoá: Người dân nô nức đi lễ chùa sau thời khắc giao thừa Tết 2024](https://laodong.vn/video/thanh-hoa-nguoi-dan-no-nuc-di-le-chua-sau-thoi-khac-giao-thua-tet-2024-1303045.ldo) - 00:12 10/02/2024
-- 💄 [Thông điệp chúc Tết Giáp Thìn 2024 của Chủ tịch nước Võ Văn Thưởng](https://laodong.vn/thoi-su/thong-diep-chuc-tet-giap-thin-2024-cua-chu-tich-nuoc-vo-van-thuong-1303029.ldo) - 00:00 10/02/2024<!-- laodong:END -->
+- 🗽 [Khu di tích quốc gia đặc biệt Kim Liên rực rỡ đón Xuân mới](https://laodong.vn/van-hoa-giai-tri/khu-di-tich-quoc-gia-dac-biet-kim-lien-ruc-ro-don-xuan-moi-1302994.ldo) - 02:24 10/02/2024
+- 📝 [Vui Tết với công nhân môi trường vùng biên trong đêm giao thừa](https://laodong.vn/ldld-cao-bang/vui-tet-voi-cong-nhan-moi-truong-vung-bien-trong-dem-giao-thua-1303022.ldo) - 02:24 10/02/2024
+- 🦏 [Xảy ra nhiều vụ cháy trong đêm giao thừa tại Bà Rịa - Vũng Tàu](https://laodong.vn/xa-hoi/xay-ra-nhieu-vu-chay-trong-dem-giao-thua-tai-ba-ria-vung-tau-1303048.ldo) - 02:23 10/02/2024
+- 🦩 [Chào năm mới với quyết tâm mới, cơ hội mới của tổ chức Công đoàn](https://laodong.vn/su-kien-binh-luan/chao-nam-moi-voi-quyet-tam-moi-co-hoi-moi-cua-to-chuc-cong-doan-1301555.ldo) - 02:21 10/02/2024
+- 🦏 [Cuộc gọi video - cầu truyền hình ngày Tết cho những người xa gia đình](https://laodong.vn/cong-nghe/cuoc-goi-video-cau-truyen-hinh-ngay-tet-cho-nhung-nguoi-xa-gia-dinh-1302913.ldo) - 02:14 10/02/2024
+- 🧰 [Du khách quốc tế hào hứng hái lộc đầu năm khi đến sân bay Đà Nẵng](https://laodong.vn/van-hoa-giai-tri/du-khach-quoc-te-hao-hung-hai-loc-dau-nam-khi-den-san-bay-da-nang-1303055.ldo) - 02:13 10/02/2024
+- 🌊 [Đức tính quốc hữu hóa công ty con của gã khổng lồ dầu khí Nga](https://laodong.vn/the-gioi/duc-tinh-quoc-huu-hoa-cong-ty-con-cua-ga-khong-lo-dau-khi-nga-1303011.ldo) - 02:02 10/02/2024
+- 🔥 [Khởi tố vụ án liên quan đến vụ TNGT khiến 2 thanh niên tử vong ở Hòa Bình](https://laodong.vn/phap-luat/khoi-to-vu-an-lien-quan-den-vu-tngt-khien-2-thanh-nien-tu-vong-o-hoa-binh-1303013.ldo) - 02:02 10/02/2024
+- 🦒 [Điều động, bổ nhiệm nhân sự mới ở Đà Nẵng, Quảng Bình, Nghệ An, Cao Bằng](https://laodong.vn/thoi-su/dieu-dong-bo-nhiem-nhan-su-moi-o-da-nang-quang-binh-nghe-an-cao-bang-1301601.ldo) - 02:01 10/02/2024
+- 💼 [Tranh cãi đón Tết nội - Tết ngoại, làm sao để cân bằng?](https://laodong.vn/video/tranh-cai-don-tet-noi-tet-ngoai-lam-sao-de-can-bang-1301075.ldo) - 02:00 10/02/2024
+- 🤖 [Công nhân bám công trường thi công xuyên Tết ở dự án sân bay Long Thành](https://laodong.vn/photo/cong-nhan-bam-cong-truong-thi-cong-xuyen-tet-o-du-an-san-bay-long-thanh-1301400.ldo) - 02:00 10/02/2024
+- 💪 [Những người đón giao thừa ở các tuyến đường, góc phố](https://laodong.vn/xa-hoi/nhung-nguoi-don-giao-thua-o-cac-tuyen-duong-goc-pho-1303041.ldo) - 01:57 10/02/2024
+- 👍 [Đón Tết cùng chủ nhà trọ, công nhân vơi đi nỗi nhớ quê](https://laodong.vn/cong-doan/don-tet-cung-chu-nha-tro-cong-nhan-voi-di-noi-nho-que-1303028.ldo) - 01:56 10/02/2024
+- 💂 [Người dân TP Hưng Yên tấp nập đi lễ chùa cầu an sau Giao thừa](https://laodong.vn/ban-tin/nguoi-dan-tp-hung-yen-tap-nap-di-le-chua-cau-an-sau-giao-thua-1303043.ldo) - 01:51 10/02/2024
+- 🧰 [Kích hoạt dòng vốn lớn chảy vào thị trường chứng khoán](https://laodong.vn/kinh-doanh/kich-hoat-dong-von-lon-chay-vao-thi-truong-chung-khoan-1303050.ldo) - 01:45 10/02/2024
+- 🥷 [Apple giới thiệu mô hình AI mới](https://laodong.vn/cong-nghe/apple-gioi-thieu-mo-hinh-ai-moi-1303039.ldo) - 01:42 10/02/2024
+- 💫 [Nhiều người Cần Thơ chuộng lì xì qua quét mã QR](https://laodong.vn/ban-doc/nhieu-nguoi-can-tho-chuong-li-xi-qua-quet-ma-qr-1302403.ldo) - 01:41 10/02/2024
+- 🎭 [Trọng tài Trung Quốc điều khiển trận chung kết Asian Cup 2023](https://laodong.vn/bong-da-quoc-te/trong-tai-trung-quoc-dieu-khien-tran-chung-ket-asian-cup-2023-1303058.ldo) - 01:39 10/02/2024
+- 😎 [Lịch thi đấu quần vợt 10.2: Khachanov vs Dimitrov](https://laodong.vn/lich-thi-dau/lich-thi-dau-quan-vot-102-khachanov-vs-dimitrov-1303056.ldo) - 01:38 10/02/2024
+- 💄 [Tết Nguyên đán Việt Nam gây ấn tượng sâu sắc trong mắt bạn bè quốc tế](https://laodong.vn/video-xa-hoi/tet-nguyen-dan-viet-nam-gay-an-tuong-sau-sac-trong-mat-ban-be-quoc-te-1301169.ldo) - 01:30 10/02/2024
+- 🫣 [Xu hướng chọn trang phục áo bà ba để du Xuân](https://laodong.vn/ban-tin/xu-huong-chon-trang-phuc-ao-ba-ba-de-du-xuan-1300435.ldo) - 01:30 10/02/2024
+- 🧑‍🏫 [Google Doodle chúc mừng Tết Nguyên đán 2024](https://laodong.vn/the-gioi/google-doodle-chuc-mung-tet-nguyen-dan-2024-1303049.ldo) - 01:18 10/02/2024
+- 🦣 [Công nhân dọn vệ sinh đêm giao thừa ở Bình Phước được tặng quà Tết](https://laodong.vn/cong-doan/cong-nhan-don-ve-sinh-dem-giao-thua-o-binh-phuoc-duoc-tang-qua-tet-1303025.ldo) - 01:14 10/02/2024
+- 💫 [&quot;Rồng nhí&quot; đầu tiên chào đời tại Bệnh viện Phụ Sản Hà Nội](https://laodong.vn/suc-khoe/rong-nhi-dau-tien-chao-doi-tai-benh-vien-phu-san-ha-noi-1303042.ldo) - 01:09 10/02/2024
+- ⛽️ [Một mình trèo lên đỉnh núi giữa vịnh Hạ Long chụp bức ảnh “Rồng”](https://laodong.vn/van-hoa-giai-tri/mot-minh-treo-len-dinh-nui-giua-vinh-ha-long-chup-buc-anh-rong-1302918.ldo) - 01:08 10/02/2024
+- 💫 [Lo ngại nguồn cung từ Trung Đông gián đoạn, giá dầu tiếp tục đi lên](https://laodong.vn/kinh-doanh/lo-ngai-nguon-cung-tu-trung-dong-gian-doan-gia-dau-tiep-tuc-di-len-1303047.ldo) - 01:03 10/02/2024
+- 🥸 [Không khí Tết trên các nhà giàn DK1](https://laodong.vn/photo/khong-khi-tet-tren-cac-nha-gian-dk1-1302824.ldo) - 01:00 10/02/2024
+- 🐻 [Vượt sóng mang tết ra Trường Sa](https://laodong.vn/video/vuot-song-mang-tet-ra-truong-sa-1297799.ldo) - 01:00 10/02/2024
+- 🪄 [Khi Gen Z say mê quảng bá du lịch Cần Thơ](https://laodong.vn/video/khi-gen-z-say-me-quang-ba-du-lich-can-tho-1300438.ldo) - 01:00 10/02/2024
+- 🧑‍🏫 [Lịch thi đấu bóng đá 10.2: Chung kết Asian Cup 2023 Jordan vs Qatar](https://laodong.vn/lich-thi-dau/lich-thi-dau-bong-da-102-chung-ket-asian-cup-2023-jordan-vs-qatar-1302989.ldo) - 00:57 10/02/2024
+- 🌊 [Thức trắng đêm Giao thừa cùng bệnh nhân tại nơi đèn điện không bao giờ tắt](https://laodong.vn/suc-khoe/thuc-trang-dem-giao-thua-cung-benh-nhan-tai-noi-den-dien-khong-bao-gio-tat-1303012.ldo) - 00:54 10/02/2024
+- 💻 [Ẩm thực Việt tỏa sáng cùng ngôi sao Michelin](https://laodong.vn/xa-hoi/am-thuc-viet-toa-sang-cung-ngoi-sao-michelin-1302696.ldo) - 00:50 10/02/2024
+- 👨‍🏫 [Lãi suất ngân hàng hôm nay 10.2: Top 10 ngân hàng lãi suất cao nhất Tết](https://laodong.vn/tien-te-dau-tu/lai-suat-ngan-hang-hom-nay-102-top-10-ngan-hang-lai-suat-cao-nhat-tet-1300769.ldo) - 00:45 10/02/2024
+- 🌈 [Ý nghĩa đằng sau tục xông đất, hái cành lộc đêm giao thừa](https://laodong.vn/gia-dinh-hon-nhan/y-nghia-dang-sau-tuc-xong-dat-hai-canh-loc-dem-giao-thua-1302910.ldo) - 00:43 10/02/2024
+- 🐲 [Tỷ giá ngoại tệ, cập nhật tỷ giá USD chợ đen hôm nay 10.2](https://laodong.vn/tien-te-dau-tu/ty-gia-ngoai-te-cap-nhat-ty-gia-usd-cho-den-hom-nay-102-1302751.ldo) - 00:42 10/02/2024
+- 🚀 [Cải thiện môi trường kinh doanh hướng tới Việt Nam phát triển, thu nhập cao](https://laodong.vn/kinh-doanh/cai-thien-moi-truong-kinh-doanh-huong-toi-viet-nam-phat-trien-thu-nhap-cao-1302976.ldo) - 00:41 10/02/2024
+- 😺 [Bộ trưởng Y tế lì xì đầu xuân cho y bác sĩ đón những em bé &quot;rồng&quot; đầu tiên](https://laodong.vn/suc-khoe/bo-truong-y-te-li-xi-dau-xuan-cho-y-bac-si-don-nhung-em-be-rong-dau-tien-1303030.ldo) - 00:39 10/02/2024
+- 🕴 [Đêm Giao thừa ở Trung tâm Cấp cứu lớn nhất miền Bắc](https://laodong.vn/video/dem-giao-thua-o-trung-tam-cap-cuu-lon-nhat-mien-bac-1303046.ldo) - 00:39 10/02/2024
+- 🌋 [Tết thời bao cấp xa xăm](https://laodong.vn/van-hoa-giai-tri/tet-thoi-bao-cap-xa-xam-1302689.ldo) - 00:38 10/02/2024
+- 💄 [Xuân miền Tây rực rỡ sắc mai vàng](https://laodong.vn/video/xuan-mien-tay-ruc-ro-sac-mai-vang-1303015.ldo) - 00:30 10/02/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
