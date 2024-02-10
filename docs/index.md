@@ -395,9 +395,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Tinh thần phục vụ nhân dân là mục tiêu cao nhất của lực lượng CAND](https://baochinhphu.vn/tinh-than-phuc-vu-nhan-dan-la-muc-tieu-cao-nhat-cua-luc-luong-cand-102240207112214018.htm) - 14:18 10/02/2024
-- 🌜 [Bộ trưởng Nguyễn Kim Sơn: Nhất quán, bản lĩnh, dốc sức, đồng lòng cho sự đổi mới](https://baochinhphu.vn/nganh-gddt-nhat-quan-dong-long-doc-suc-cho-su-doi-moi-102240201111412512.htm) - 14:15 10/02/2024
-- 🦆 [Điều kiện cấp phép xây dựng nhà ở riêng lẻ tại đô thị](https://baochinhphu.vn/dieu-kien-cap-phep-xay-dung-nha-o-rieng-le-tai-do-thi-102240207114906921.htm) - 14:02 10/02/2024
+- 💻 [Điều kiện cấp phép xây dựng nhà ở riêng lẻ tại đô thị](https://baochinhphu.vn/dieu-kien-cap-phep-xay-dung-nha-o-rieng-le-tai-do-thi-102240207114906921.htm) - 16:02 10/02/2024
+- 🌜 [Tinh thần phục vụ nhân dân là mục tiêu cao nhất của lực lượng CAND](https://baochinhphu.vn/tinh-than-phuc-vu-nhan-dan-la-muc-tieu-cao-nhat-cua-luc-luong-cand-102240207112214018.htm) - 14:18 10/02/2024
+- 🦆 [Bộ trưởng Nguyễn Kim Sơn: Nhất quán, bản lĩnh, dốc sức, đồng lòng cho sự đổi mới](https://baochinhphu.vn/nganh-gddt-nhat-quan-dong-long-doc-suc-cho-su-doi-moi-102240201111412512.htm) - 14:15 10/02/2024
 - 🌝 [Điều kiện thăng hạng chức danh nghề nghiệp y tế công cộng chính](https://baochinhphu.vn/dieu-kien-thang-hang-chuc-danh-nghe-nghiep-y-te-cong-cong-chinh-102240205145757998.htm) - 14:02 10/02/2024
 - 🦣 [Hơn 150 y, bác sĩ thực hiện ca lấy, ghép tạng trong ngày 30 Tết](https://baochinhphu.vn/hon-150-y-bac-si-thuc-hien-ca-lay-ghep-tang-trong-ngay-30-tet-102240210104635586.htm) - 12:08 10/02/2024
 - ⛽️ [Nhộn nhịp du khách &#39;xông đất&#39; Đà Nẵng](https://baochinhphu.vn/nhon-nhip-du-khach-xong-dat-da-nang-102240210091001156.htm) - 11:41 10/02/2024
