@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [EVNSPC khánh thành công trình bổ sung điện diesel cho Côn Đảo](https://vnexpress.net/evnspc-khanh-thanh-cong-trinh-bo-sung-dien-diesel-cho-con-dao-4710673.html) - 02:00 10/02/2024
 - 🐲 [Một buổi trình diễn công nghệ drone có giá thế nào](https://vnexpress.net/mot-buoi-trinh-dien-cong-nghe-drone-co-gia-the-nao-4710642.html) - 01:58 10/02/2024
 - 🔥 [Chứng khoán Mỹ lập kỷ lục mới](https://vnexpress.net/chung-khoan-my-lap-ky-luc-moi-4710711.html) - 01:50 10/02/2024
-- 🐵 [Những doanh nhân Việt thành đạt tuổi Thìn](https://vnexpress.net/nhung-doanh-nhan-viet-thanh-dat-tuoi-thin-4710143.html) - 22:00 09/02/2024
+- 🐵 [Những doanh nhân thành đạt tuổi Thìn](https://vnexpress.net/nhung-doanh-nhan-thanh-dat-tuoi-thin-4710143.html) - 22:00 09/02/2024
 - 🦅 [Phong thủy kinh tế năm Giáp Thìn](https://vnexpress.net/phong-thuy-kinh-te-nam-giap-thin-4706914.html) - 17:01 09/02/2024
 - 😺 [Nhộn nhịp sắm Tết trong ngày cuối năm](https://vnexpress.net/nhon-nhip-sam-tet-trong-ngay-cuoi-nam-4710623.html) - 13:43 09/02/2024
 - 🤩 [Nỗi lòng tiểu thương bán hoa 30 Tết](https://video.vnexpress.net/noi-long-tieu-thuong-ban-hoa-30-tet-4710622.html) - 11:15 09/02/2024
