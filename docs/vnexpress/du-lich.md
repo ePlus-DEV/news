@@ -62,5 +62,4 @@ sidebar_position: 11
 - 🧰 [4 món gà của Việt Nam vào top ngon nhất châu Á](https://vnexpress.net/4-mon-ga-cua-viet-nam-vao-top-ngon-nhat-chau-a-4707905.html) - 04:50 02/02/2024
 - 🕯 [Phú Quốc lần đầu đón khách Thái Lan trên du thuyền 5 sao](https://vnexpress.net/phu-quoc-lan-dau-don-khach-thai-lan-tren-du-thuyen-5-sao-4707927.html) - 04:44 02/02/2024
 - 👍 [Thái Lan, Singapore đang &#39;hưởng lợi nhiều nhất&#39; từ khách Trung Quốc](https://vnexpress.net/thai-lan-singapore-dang-huong-loi-nhieu-nhat-tu-khach-trung-quoc-4707757.html) - 02:42 02/02/2024
-- 😎 [Chàng trai Sài Gòn lần đầu phượt Tây Bắc trong đợt lạnh sâu](https://vnexpress.net/chang-trai-sai-gon-lan-dau-phuot-tay-bac-trong-dot-lanh-sau-4706743.html) - 02:38 02/02/2024
-- 🐘 [Cẩm nang du lịch Yên Bái](https://vnexpress.net/cam-nang-du-lich-yen-bai-4701574.html) - 17:09 01/02/2024<!-- vnexpress-du-lich:END -->
+- 😎 [Cẩm nang du lịch Yên Bái](https://vnexpress.net/cam-nang-du-lich-yen-bai-4701574.html) - 17:09 01/02/2024<!-- vnexpress-du-lich:END -->
