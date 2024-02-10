@@ -57,4 +57,5 @@ sidebar_position: 9
 - 👍 [Fan rao bán đế giày của Taylor Swift](https://vnexpress.net/fan-rao-ban-de-giay-cua-taylor-swift-4710763.html) - 06:55 10/02/2024
 - 🔥 [Thị trường ôtô Việt 2024 kỳ vọng khởi sắc](https://vnexpress.net/thi-truong-oto-viet-2024-ky-vong-khoi-sac-4710761.html) - 06:53 10/02/2024
 - 💄 [Công Lý - nét hài riêng của &#39;Táo quân&#39;](https://vnexpress.net/cong-ly-net-hai-rieng-cua-tao-quan-4710748.html) - 06:52 10/02/2024
-- 🤡 [Chạy khi bụng rỗng](https://vnexpress.net/chay-khi-bung-rong-4710760.html) - 06:33 10/02/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🤡 [Chạy khi bụng rỗng](https://vnexpress.net/chay-khi-bung-rong-4710760.html) - 06:33 10/02/2024
+- ⛽️ [Cỗ Tết miền Tây](https://vnexpress.net/co-tet-mien-tay-4710383.html) - 06:27 10/02/2024<!-- vnexpress-tin-moi-nhat:END -->
