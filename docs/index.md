@@ -577,7 +577,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Trực tiếp Jordan vs Qatar &lpar;22h00 ngày 10/2&rpar;: Đỉnh cao tại Lusail](https://tienphong.vn/truc-tiep-jordan-vs-qatar-22h00-ngay-102-dinh-cao-tai-lusail-post1611620.tpo) - 21:12 10/02/2024
+- 💼 [Trực tiếp Jordan vs Qatar 0-0 &lpar;H1&rpar;: Olwan nhận thẻ vàng](https://tienphong.vn/truc-tiep-jordan-vs-qatar-0-0-h1-olwan-nhan-the-vang-post1611620.tpo) - 21:12 10/02/2024
 - 🎊 [Showbiz 9/2: Người thân khóc nức nở khi gặp lại Ngọc Trinh ngày Tết](https://tienphong.vn/showbiz-92-nguoi-than-khoc-nuc-no-khi-gap-lai-ngoc-trinh-ngay-tet-post1611629.tpo) - 21:07 10/02/2024
 - 💼 [Ôtô 16 chỗ va chạm với tàu hỏa tại Hà Nam, 8 người đi viện](https://tienphong.vn/oto-16-cho-va-cham-voi-tau-hoa-tai-ha-nam-8-nguoi-di-vien-post1611628.tpo) - 20:23 10/02/2024
 - 👺 [Cửa khẩu quốc tế ở Quảng Trị đón lô hàng đầu tiên trong năm mới](https://tienphong.vn/cua-khau-quoc-te-o-quang-tri-don-lo-hang-dau-tien-trong-nam-moi-post1611613.tpo) - 20:07 10/02/2024
