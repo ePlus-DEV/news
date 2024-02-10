@@ -209,46 +209,46 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Hai cửa khẩu quốc tế ở Quảng Trị đón lô hàng đầu tiên của năm Giáp Thìn](https://laodong.vn/kinh-doanh/hai-cua-khau-quoc-te-o-quang-tri-don-lo-hang-dau-tien-cua-nam-giap-thin-1303036.ldo) - 08:02 10/02/2024
-- 📝 [Chiêm ngưỡng con rồng bằng bạc làm hơn 10 năm chưa hoàn thiện](https://laodong.vn/photo/chiem-nguong-con-rong-bang-bac-lam-hon-10-nam-chua-hoan-thien-1301310.ldo) - 08:00 10/02/2024
-- 🦏 [Phim “The Good Doctor” tung trailer mùa cuối cùng đầy cảm xúc](https://laodong.vn/giai-tri/phim-the-good-doctor-tung-trailer-mua-cuoi-cung-day-cam-xuc-1303019.ldo) - 07:43 10/02/2024
-- 🦩 [Từ “Đất rừng phương Nam” nhìn về phim lịch sử Việt](https://laodong.vn/van-hoa/tu-dat-rung-phuong-nam-nhin-ve-phim-lich-su-viet-1302718.ldo) - 07:42 10/02/2024
-- 🦏 [13 kỉ lục Djokovic có thể tiếp tục phá](https://laodong.vn/tennis/13-ki-luc-djokovic-co-the-tiep-tuc-pha-1303115.ldo) - 07:29 10/02/2024
-- 🧰 [Những chuyến phà đầu năm 2024](https://laodong.vn/photo/nhung-chuyen-pha-dau-nam-2024-1303114.ldo) - 07:29 10/02/2024
-- 🌊 [Linh thiêng khoảnh khắc chào cờ đầu năm mới nơi địa đầu Tổ quốc](https://laodong.vn/photo/linh-thieng-khoanh-khac-chao-co-dau-nam-moi-noi-dia-dau-to-quoc-1303110.ldo) - 07:26 10/02/2024
-- 🔥 [Ăn Tết và chơi Tết qua góc nhìn của các thế hệ](https://laodong.vn/talkshow/an-tet-va-choi-tet-qua-goc-nhin-cua-cac-the-he-1302612.ldo) - 07:00 10/02/2024
-- 🦒 [Quần thể kiến trúc của người Chăm cổ xưa giữa lòng phố biển Nha Trang](https://laodong.vn/photo/quan-the-kien-truc-cua-nguoi-cham-co-xua-giua-long-pho-bien-nha-trang-1300850.ldo) - 07:00 10/02/2024
-- 💼 [Ngày Tết của những người giữ rừng ở Đắk Nông](https://laodong.vn/xa-hoi/ngay-tet-cua-nhung-nguoi-giu-rung-o-dak-nong-1302969.ldo) - 06:19 10/02/2024
-- 🤖 [6 nguyên nhân khiến chỉ số đường huyết thấp hơn bình thường](https://laodong.vn/suc-khoe/6-nguyen-nhan-khien-chi-so-duong-huyet-thap-hon-binh-thuong-1302970.ldo) - 06:13 10/02/2024
-- 💪 [Khánh Hòa đón chuyến bay “xông đất” mùng 1 Tết Nguyên đán Giáp Thìn](https://laodong.vn/xa-hoi/khanh-hoa-don-chuyen-bay-xong-dat-mung-1-tet-nguyen-dan-giap-thin-1303100.ldo) - 06:09 10/02/2024
-- 👍 [Seventeen, NewJeans và loạt sao Hàn chúc mừng Tết Nguyên đán](https://laodong.vn/giai-tri/seventeen-newjeans-va-loat-sao-han-chuc-mung-tet-nguyen-dan-1303085.ldo) - 06:03 10/02/2024
-- 💂 [3 hoa hậu tuổi Thìn: Biết ơn năm cũ, không ngại năm tuổi](https://laodong.vn/van-hoa/3-hoa-hau-tuoi-thin-biet-on-nam-cu-khong-ngai-nam-tuoi-1302724.ldo) - 06:00 10/02/2024
-- 🧰 [Đi thuyền trên sông Nho Quế ngắm trọn hẻm vực sâu nhất Đông Nam Á](https://laodong.vn/photo/di-thuyen-tren-song-nho-que-ngam-tron-hem-vuc-sau-nhat-dong-nam-a-1301174.ldo) - 06:00 10/02/2024
-- 🥷 [Những cầu thủ tuổi Thìn tài năng của bóng đá Việt Nam](https://laodong.vn/the-thao/nhung-cau-thu-tuoi-thin-tai-nang-cua-bong-da-viet-nam-1300654.ldo) - 06:00 10/02/2024
-- 💫 [Quốc gia an toàn nhất châu Á tiếp tục làm cho du khách, nhà đầu tư hài lòng](https://laodong.vn/su-kien-binh-luan/quoc-gia-an-toan-nhat-chau-a-tiep-tuc-lam-cho-du-khach-nha-dau-tu-hai-long-1303089.ldo) - 05:44 10/02/2024
-- 🎭 [Ngày đầu năm mới, nhớ Nguyễn Thái Học và tinh thần bất diệt của khởi nghĩa Yên Bái](https://laodong.vn/xa-hoi/ngay-dau-nam-moi-nho-nguyen-thai-hoc-va-tinh-than-bat-diet-cua-khoi-nghia-yen-bai-1303098.ldo) - 05:43 10/02/2024
-- 😎 [Những chính khách nổi tiếng thế giới sinh năm rồng](https://laodong.vn/the-gioi/nhung-chinh-khach-noi-tieng-the-gioi-sinh-nam-rong-1303101.ldo) - 05:42 10/02/2024
-- 💄 [Xếp hàng xin chữ ở Văn Miếu - Quốc Tử Giám ngày mùng 1 Tết](https://laodong.vn/photo/xep-hang-xin-chu-o-van-mieu-quoc-tu-giam-ngay-mung-1-tet-1303103.ldo) - 05:32 10/02/2024
-- 🫣 [Tốc độ tối đa trên cao tốc Bắc - Nam từ Hà Nội đi Nghệ An](https://laodong.vn/xe/toc-do-toi-da-tren-cao-toc-bac-nam-tu-ha-noi-di-nghe-an-1303066.ldo) - 05:30 10/02/2024
-- 🧑‍🏫 [Hình ảnh linh vật rồng trong bộ gốm sứ cổ triển lãm vào dịp Tết ở Vũng Tàu](https://laodong.vn/photo/hinh-anh-linh-vat-rong-trong-bo-gom-su-co-trien-lam-vao-dip-tet-o-vung-tau-1303097.ldo) - 05:27 10/02/2024
-- 🦣 [Thú chơi ngâm rượu dưới đáy vịnh Hạ Long](https://laodong.vn/xa-hoi/thu-choi-ngam-ruou-duoi-day-vinh-ha-long-1302703.ldo) - 05:17 10/02/2024
-- 💫 [Năm 2024, Cà Mau sẽ bứt phá để không còn xa lắm](https://laodong.vn/kinh-doanh/nam-2024-ca-mau-se-but-pha-de-khong-con-xa-lam-1303009.ldo) - 05:12 10/02/2024
-- ⛽️ [Bạch Lộc liệu có làm nên chuyện với phim Bắc Thượng?](https://laodong.vn/van-hoa-giai-tri/bach-loc-lieu-co-lam-nen-chuyen-voi-phim-bac-thuong-1303093.ldo) - 05:04 10/02/2024
-- 💫 [Phòng vé Mùng 1 Tết: Phim Mai của Trấn Thành áp đảo cả phim ngoại và 3 phim Việt](https://laodong.vn/van-hoa-giai-tri/phong-ve-mung-1-tet-phim-mai-cua-tran-thanh-ap-dao-ca-phim-ngoai-va-3-phim-viet-1303099.ldo) - 05:00 10/02/2024
-- 🥸 [Những hy vọng cho bóng đá nam Việt Nam trong năm 2024](https://laodong.vn/the-thao/nhung-hy-vong-cho-bong-da-nam-viet-nam-trong-nam-2024-1301509.ldo) - 05:00 10/02/2024
-- 🐻 [Bình Dương đẩy mạnh cải thiện môi trường đầu tư thu hút FDI chất lượng cao](https://laodong.vn/emagazine/binh-duong-day-manh-cai-thien-moi-truong-dau-tu-thu-hut-fdi-chat-luong-cao-1298970.ldo) - 05:00 10/02/2024
-- 🪄 [Tỷ giá đồng Yên cao kỷ lục, giá USD tăng](https://laodong.vn/kinh-doanh/ty-gia-dong-yen-cao-ky-luc-gia-usd-tang-1302950.ldo) - 04:57 10/02/2024
-- 🧑‍🏫 [Người dân TPHCM tấp nập đi mua vàng lấy may ngày mùng 1 Tết](https://laodong.vn/photo/nguoi-dan-tphcm-tap-nap-di-mua-vang-lay-may-ngay-mung-1-tet-1303095.ldo) - 04:38 10/02/2024
-- 🌊 [Những địa điểm được người dân ở Bình Dương ưa thích &quot;check in&quot; nhiều nhất](https://laodong.vn/photo/nhung-dia-diem-duoc-nguoi-dan-o-binh-duong-ua-thich-check-in-nhieu-nhat-1303072.ldo) - 04:36 10/02/2024
-- 💻 [“Tôi hạnh phúc khi được tham gia tổ chức Công đoàn”](https://laodong.vn/cong-doan/toi-hanh-phuc-khi-duoc-tham-gia-to-chuc-cong-doan-1303018.ldo) - 04:30 10/02/2024
-- 👨‍🏫 [Con rồng dài 9m bốc cháy, hàng trăm người dân đến xin lửa cầu may](https://laodong.vn/photo/con-rong-dai-9m-boc-chay-hang-tram-nguoi-dan-den-xin-lua-cau-may-1303096.ldo) - 04:28 10/02/2024
-- 🌈 [Messi không đá, người hâm mộ được trả 50% tiền vé](https://laodong.vn/bong-da-quoc-te/messi-khong-da-nguoi-ham-mo-duoc-tra-50-tien-ve-1303082.ldo) - 04:24 10/02/2024
-- 🐲 [Người dân Hà Nội nô nức dâng hương, lễ chùa ngày đầu năm mới](https://laodong.vn/photo/nguoi-dan-ha-noi-no-nuc-dang-huong-le-chua-ngay-dau-nam-moi-1303092.ldo) - 04:06 10/02/2024
-- 🚀 [Giá vàng hôm nay 10.2: Kỳ vọng bứt phá trong năm 2024](https://laodong.vn/tien-te-dau-tu/gia-vang-hom-nay-102-ky-vong-but-pha-trong-nam-2024-1303069.ldo) - 04:05 10/02/2024
-- 😺 [Những người trẻ giữ hồn Tết Việt](https://laodong.vn/van-hoa/nhung-nguoi-tre-giu-hon-tet-viet-1301159.ldo) - 04:00 10/02/2024
-- 🕴 [Cách tội phạm mạng ứng dụng AI trên dark web năm 2024](https://laodong.vn/cong-nghe/cach-toi-pham-mang-ung-dung-ai-tren-dark-web-nam-2024-1301160.ldo) - 04:00 10/02/2024
-- 🌋 [Chiêm ngưỡng chiếc máy cày, kỷ vật Bác Hồ dành tặng người dân Thanh Hóa](https://laodong.vn/photo/chiem-nguong-chiec-may-cay-ky-vat-bac-ho-danh-tang-nguoi-dan-thanh-hoa-1301931.ldo) - 04:00 10/02/2024
-- 💄 [BTS sụt hạng sâu so với Seventeen, RIIZE ở top nhóm nhạc nam K-Pop hot nhất](https://laodong.vn/van-hoa-giai-tri/bts-sut-hang-sau-so-voi-seventeen-riize-o-top-nhom-nhac-nam-k-pop-hot-nhat-1303090.ldo) - 03:53 10/02/2024<!-- laodong:END -->
+- 🗽 [Khách hành hương tấp nập viếng Miếu bà Chúa Xứ Núi Sam ngày đầu năm mới](https://laodong.vn/photo/khach-hanh-huong-tap-nap-vieng-mieu-ba-chua-xu-nui-sam-ngay-dau-nam-moi-1303116.ldo) - 08:25 10/02/2024
+- 📝 [Du khách trên chuyến tàu đầu tiên đến Bình Thuận năm mới bất ngờ được lì xì](https://laodong.vn/video/du-khach-tren-chuyen-tau-dau-tien-den-binh-thuan-nam-moi-bat-ngo-duoc-li-xi-1303118.ldo) - 08:21 10/02/2024
+- 🦏 [Ấn tượng về một kỳ Festival tại Ninh Bình](https://laodong.vn/photo/an-tuong-ve-mot-ky-festival-tai-ninh-binh-1303122.ldo) - 08:17 10/02/2024
+- 🦩 [Hai cửa khẩu quốc tế ở Quảng Trị đón lô hàng đầu tiên của năm Giáp Thìn](https://laodong.vn/kinh-doanh/hai-cua-khau-quoc-te-o-quang-tri-don-lo-hang-dau-tien-cua-nam-giap-thin-1303036.ldo) - 08:02 10/02/2024
+- 🦏 [Chiêm ngưỡng con rồng bằng bạc làm hơn 10 năm chưa hoàn thiện](https://laodong.vn/photo/chiem-nguong-con-rong-bang-bac-lam-hon-10-nam-chua-hoan-thien-1301310.ldo) - 08:00 10/02/2024
+- 🧰 [Phim “The Good Doctor” tung trailer mùa cuối cùng đầy cảm xúc](https://laodong.vn/giai-tri/phim-the-good-doctor-tung-trailer-mua-cuoi-cung-day-cam-xuc-1303019.ldo) - 07:43 10/02/2024
+- 🌊 [Từ “Đất rừng phương Nam” nhìn về phim lịch sử Việt](https://laodong.vn/van-hoa/tu-dat-rung-phuong-nam-nhin-ve-phim-lich-su-viet-1302718.ldo) - 07:42 10/02/2024
+- 🔥 [13 kỉ lục Djokovic có thể tiếp tục phá](https://laodong.vn/tennis/13-ki-luc-djokovic-co-the-tiep-tuc-pha-1303115.ldo) - 07:29 10/02/2024
+- 🦒 [Những chuyến phà đầu năm 2024](https://laodong.vn/photo/nhung-chuyen-pha-dau-nam-2024-1303114.ldo) - 07:29 10/02/2024
+- 💼 [Linh thiêng khoảnh khắc chào cờ đầu năm mới nơi địa đầu Tổ quốc](https://laodong.vn/photo/linh-thieng-khoanh-khac-chao-co-dau-nam-moi-noi-dia-dau-to-quoc-1303110.ldo) - 07:26 10/02/2024
+- 🤖 [Ăn Tết và chơi Tết qua góc nhìn của các thế hệ](https://laodong.vn/talkshow/an-tet-va-choi-tet-qua-goc-nhin-cua-cac-the-he-1302612.ldo) - 07:00 10/02/2024
+- 💪 [Quần thể kiến trúc của người Chăm cổ xưa giữa lòng phố biển Nha Trang](https://laodong.vn/photo/quan-the-kien-truc-cua-nguoi-cham-co-xua-giua-long-pho-bien-nha-trang-1300850.ldo) - 07:00 10/02/2024
+- 👍 [Ngày Tết của những người giữ rừng ở Đắk Nông](https://laodong.vn/xa-hoi/ngay-tet-cua-nhung-nguoi-giu-rung-o-dak-nong-1302969.ldo) - 06:19 10/02/2024
+- 💂 [6 nguyên nhân khiến chỉ số đường huyết thấp hơn bình thường](https://laodong.vn/suc-khoe/6-nguyen-nhan-khien-chi-so-duong-huyet-thap-hon-binh-thuong-1302970.ldo) - 06:13 10/02/2024
+- 🧰 [Khánh Hòa đón chuyến bay “xông đất” mùng 1 Tết Nguyên đán Giáp Thìn](https://laodong.vn/xa-hoi/khanh-hoa-don-chuyen-bay-xong-dat-mung-1-tet-nguyen-dan-giap-thin-1303100.ldo) - 06:09 10/02/2024
+- 🥷 [Seventeen, NewJeans và loạt sao Hàn chúc mừng Tết Nguyên đán](https://laodong.vn/giai-tri/seventeen-newjeans-va-loat-sao-han-chuc-mung-tet-nguyen-dan-1303085.ldo) - 06:03 10/02/2024
+- 💫 [3 hoa hậu tuổi Thìn: Biết ơn năm cũ, không ngại năm tuổi](https://laodong.vn/van-hoa/3-hoa-hau-tuoi-thin-biet-on-nam-cu-khong-ngai-nam-tuoi-1302724.ldo) - 06:00 10/02/2024
+- 🎭 [Đi thuyền trên sông Nho Quế ngắm trọn hẻm vực sâu nhất Đông Nam Á](https://laodong.vn/photo/di-thuyen-tren-song-nho-que-ngam-tron-hem-vuc-sau-nhat-dong-nam-a-1301174.ldo) - 06:00 10/02/2024
+- 😎 [Những cầu thủ tuổi Thìn tài năng của bóng đá Việt Nam](https://laodong.vn/the-thao/nhung-cau-thu-tuoi-thin-tai-nang-cua-bong-da-viet-nam-1300654.ldo) - 06:00 10/02/2024
+- 💄 [Quốc gia an toàn nhất châu Á tiếp tục làm cho du khách, nhà đầu tư hài lòng](https://laodong.vn/su-kien-binh-luan/quoc-gia-an-toan-nhat-chau-a-tiep-tuc-lam-cho-du-khach-nha-dau-tu-hai-long-1303089.ldo) - 05:44 10/02/2024
+- 🫣 [Ngày đầu năm mới, nhớ Nguyễn Thái Học và tinh thần bất diệt của khởi nghĩa Yên Bái](https://laodong.vn/xa-hoi/ngay-dau-nam-moi-nho-nguyen-thai-hoc-va-tinh-than-bat-diet-cua-khoi-nghia-yen-bai-1303098.ldo) - 05:43 10/02/2024
+- 🧑‍🏫 [Những chính khách nổi tiếng thế giới sinh năm rồng](https://laodong.vn/the-gioi/nhung-chinh-khach-noi-tieng-the-gioi-sinh-nam-rong-1303101.ldo) - 05:42 10/02/2024
+- 🦣 [Xếp hàng xin chữ ở Văn Miếu - Quốc Tử Giám ngày mùng 1 Tết](https://laodong.vn/photo/xep-hang-xin-chu-o-van-mieu-quoc-tu-giam-ngay-mung-1-tet-1303103.ldo) - 05:32 10/02/2024
+- 💫 [Tốc độ tối đa trên cao tốc Bắc - Nam từ Hà Nội đi Nghệ An](https://laodong.vn/xe/toc-do-toi-da-tren-cao-toc-bac-nam-tu-ha-noi-di-nghe-an-1303066.ldo) - 05:30 10/02/2024
+- ⛽️ [Hình ảnh linh vật rồng trong bộ gốm sứ cổ triển lãm vào dịp Tết ở Vũng Tàu](https://laodong.vn/photo/hinh-anh-linh-vat-rong-trong-bo-gom-su-co-trien-lam-vao-dip-tet-o-vung-tau-1303097.ldo) - 05:27 10/02/2024
+- 💫 [Thú chơi ngâm rượu dưới đáy vịnh Hạ Long](https://laodong.vn/xa-hoi/thu-choi-ngam-ruou-duoi-day-vinh-ha-long-1302703.ldo) - 05:17 10/02/2024
+- 🥸 [Năm 2024, Cà Mau sẽ bứt phá để không còn xa lắm](https://laodong.vn/kinh-doanh/nam-2024-ca-mau-se-but-pha-de-khong-con-xa-lam-1303009.ldo) - 05:12 10/02/2024
+- 🐻 [Bạch Lộc liệu có làm nên chuyện với phim Bắc Thượng?](https://laodong.vn/van-hoa-giai-tri/bach-loc-lieu-co-lam-nen-chuyen-voi-phim-bac-thuong-1303093.ldo) - 05:04 10/02/2024
+- 🪄 [Phòng vé Mùng 1 Tết: Phim Mai của Trấn Thành áp đảo cả phim ngoại và 3 phim Việt](https://laodong.vn/van-hoa-giai-tri/phong-ve-mung-1-tet-phim-mai-cua-tran-thanh-ap-dao-ca-phim-ngoai-va-3-phim-viet-1303099.ldo) - 05:00 10/02/2024
+- 🧑‍🏫 [Những hy vọng cho bóng đá nam Việt Nam trong năm 2024](https://laodong.vn/the-thao/nhung-hy-vong-cho-bong-da-nam-viet-nam-trong-nam-2024-1301509.ldo) - 05:00 10/02/2024
+- 🌊 [Bình Dương đẩy mạnh cải thiện môi trường đầu tư thu hút FDI chất lượng cao](https://laodong.vn/emagazine/binh-duong-day-manh-cai-thien-moi-truong-dau-tu-thu-hut-fdi-chat-luong-cao-1298970.ldo) - 05:00 10/02/2024
+- 💻 [Tỷ giá đồng Yên cao kỷ lục, giá USD tăng](https://laodong.vn/kinh-doanh/ty-gia-dong-yen-cao-ky-luc-gia-usd-tang-1302950.ldo) - 04:57 10/02/2024
+- 👨‍🏫 [Người dân TPHCM tấp nập đi mua vàng lấy may ngày mùng 1 Tết](https://laodong.vn/photo/nguoi-dan-tphcm-tap-nap-di-mua-vang-lay-may-ngay-mung-1-tet-1303095.ldo) - 04:38 10/02/2024
+- 🌈 [Những địa điểm được người dân ở Bình Dương ưa thích &quot;check in&quot; nhiều nhất](https://laodong.vn/photo/nhung-dia-diem-duoc-nguoi-dan-o-binh-duong-ua-thich-check-in-nhieu-nhat-1303072.ldo) - 04:36 10/02/2024
+- 🐲 [“Tôi hạnh phúc khi được tham gia tổ chức Công đoàn”](https://laodong.vn/cong-doan/toi-hanh-phuc-khi-duoc-tham-gia-to-chuc-cong-doan-1303018.ldo) - 04:30 10/02/2024
+- 🚀 [Con rồng dài 9m bốc cháy, hàng trăm người dân đến xin lửa cầu may](https://laodong.vn/photo/con-rong-dai-9m-boc-chay-hang-tram-nguoi-dan-den-xin-lua-cau-may-1303096.ldo) - 04:28 10/02/2024
+- 😺 [Messi không đá, người hâm mộ được trả 50% tiền vé](https://laodong.vn/bong-da-quoc-te/messi-khong-da-nguoi-ham-mo-duoc-tra-50-tien-ve-1303082.ldo) - 04:24 10/02/2024
+- 🕴 [Người dân Hà Nội nô nức dâng hương, lễ chùa ngày đầu năm mới](https://laodong.vn/photo/nguoi-dan-ha-noi-no-nuc-dang-huong-le-chua-ngay-dau-nam-moi-1303092.ldo) - 04:06 10/02/2024
+- 🌋 [Giá vàng hôm nay 10.2: Kỳ vọng bứt phá trong năm 2024](https://laodong.vn/tien-te-dau-tu/gia-vang-hom-nay-102-ky-vong-but-pha-trong-nam-2024-1303069.ldo) - 04:05 10/02/2024
+- 💄 [Chiêm ngưỡng chiếc máy cày, kỷ vật Bác Hồ dành tặng người dân Thanh Hóa](https://laodong.vn/photo/chiem-nguong-chiec-may-cay-ky-vat-bac-ho-danh-tang-nguoi-dan-thanh-hoa-1301931.ldo) - 04:00 10/02/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
