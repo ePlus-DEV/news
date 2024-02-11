@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Kinh đô nhà Hậu Lê bị lãng quên](https://vnexpress.net/kinh-do-nha-hau-le-bi-lang-quen-4706401.html) - 17:00 11/02/2024
 - 🤓 [Thủ tướng yêu cầu liên thông cơ sở dữ liệu quốc gia về đất đai và dân cư](https://vnexpress.net/thu-tuong-yeu-cau-lien-thong-co-so-du-lieu-quoc-gia-ve-dat-dai-va-dan-cu-4710977.html) - 13:50 11/02/2024
-- ⚗️ [Ngã ba Trung Lương rối loạn vì triều cường chiều mùng 2 Tết](https://vnexpress.net/nga-ba-trung-luong-roi-loan-vi-trieu-cuong-chieu-mung-2-tet-4710975.html) - 12:14 11/02/2024
+- ⚗️ [Ngã ba Trung Lương rối loạn vì triều cường](https://vnexpress.net/nga-ba-trung-luong-roi-loan-vi-trieu-cuong-4710975.html) - 12:14 11/02/2024
 - 🌊 [Ngư dân Phan Thiết đua thuyền mừng xuân](https://vnexpress.net/ngu-dan-phan-thiet-dua-thuyen-mung-xuan-4710956.html) - 10:46 11/02/2024
 - 🎓 [Ngôi nhà Đức - công trình kiến trúc xanh chuẩn quốc tế đầu tiên ở Việt Nam](https://vnexpress.net/ngoi-nha-duc-cong-trinh-kien-truc-xanh-chuan-quoc-te-dau-tien-o-viet-nam-4700978.html) - 09:46 11/02/2024
 - 🔥 [Hành khách được tặng hoa, nghe nhạc trên chuyến bay đầu năm](https://vnexpress.net/hanh-khach-duoc-tang-hoa-nghe-nhac-tren-chuyen-bay-dau-nam-4710926.html) - 09:40 11/02/2024
