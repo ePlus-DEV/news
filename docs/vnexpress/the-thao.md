@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Man Utd quật ngã Aston Villa](https://vnexpress.net/man-utd-quat-nga-aston-villa-4711002.html) - 18:29 11/02/2024
+- 🪜 [Man Utd thắng Aston Villa nhờ bàn muộn](https://vnexpress.net/man-utd-thang-aston-villa-nho-ban-muon-4711002.html) - 18:29 11/02/2024
 - 🦩 [Arsenal thắng 6-0 tại Ngoại hạng Anh](https://vnexpress.net/arsenal-thang-6-0-tai-ngoai-hang-anh-4710995.html) - 16:17 11/02/2024
 - 🧰 [Ten Hag và thử thách cho cầu thủ trẻ Man Utd](https://vnexpress.net/ten-hag-va-thu-thach-cho-cau-thu-tre-man-utd-4710973.html) - 12:01 11/02/2024
 - 🤗 [Phoenix Open 2024 quá tải khán giả](https://vnexpress.net/phoenix-open-2024-qua-tai-khan-gia-4710932.html) - 09:28 11/02/2024
