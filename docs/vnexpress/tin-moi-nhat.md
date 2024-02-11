@@ -37,7 +37,7 @@ sidebar_position: 9
 - 💫 [Giới công nghệ tăng sa thải nhân sự](https://vnexpress.net/gioi-cong-nghe-tang-sa-thai-nhan-su-4710838.html) - 12:38 11/02/2024
 - 🎉 [ETF Bitcoin đạt 10 tỷ USD sau một tháng](https://vnexpress.net/etf-bitcoin-dat-10-ty-usd-sau-mot-thang-4710917.html) - 12:28 11/02/2024
 - 🌋 [Iran muốn LHQ khai trừ Israel](https://vnexpress.net/iran-muon-lhq-khai-tru-israel-4710976.html) - 12:20 11/02/2024
-- 🤖 [Ngã ba Trung Lương rối loạn vì triều cường chiều mùng 2 Tết](https://vnexpress.net/nga-ba-trung-luong-roi-loan-vi-trieu-cuong-chieu-mung-2-tet-4710975.html) - 12:14 11/02/2024
+- 🤖 [Ngã ba Trung Lương rối loạn vì triều cường](https://vnexpress.net/nga-ba-trung-luong-roi-loan-vi-trieu-cuong-4710975.html) - 12:14 11/02/2024
 - 🦏 [Đế chế kinh doanh của Trump gây lo ngại về xung đột lợi ích](https://vnexpress.net/de-che-kinh-doanh-cua-trump-gay-lo-ngai-ve-xung-dot-loi-ich-4709222.html) - 12:02 11/02/2024
 - 🦩 [Ten Hag và thử thách cho cầu thủ trẻ Man Utd](https://vnexpress.net/ten-hag-va-thu-thach-cho-cau-thu-tre-man-utd-4710973.html) - 12:01 11/02/2024
 - 👺 [Phát hiện siêu Trái Đất có thể nằm trong vùng ở được](https://vnexpress.net/phat-hien-sieu-trai-dat-co-the-nam-trong-vung-o-duoc-4710869.html) - 12:00 11/02/2024
