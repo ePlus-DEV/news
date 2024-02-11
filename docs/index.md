@@ -204,46 +204,46 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Hình tượng con rồng trong nghệ thuật, kiến trúc và điêu khắc Việt Nam](https://laodong.vn/lao-dong-cuoi-tuan/hinh-tuong-con-rong-trong-nghe-thuat-kien-truc-va-dieu-khac-viet-nam-1298484.ldo) - 23:00 11/02/2024
-- 📝 [Ngắm những gian nhà cổ trăm năm tuổi của người dân Thái Bình](https://laodong.vn/photo/ngam-nhung-gian-nha-co-tram-nam-tuoi-cua-nguoi-dan-thai-binh-1298953.ldo) - 23:00 11/02/2024
-- 🦏 [Cán bộ, công chức mong thay đổi đột phá khi cải cách tiền lương 2024](https://laodong.vn/cong-doan/can-bo-cong-chuc-mong-thay-doi-dot-pha-khi-cai-cach-tien-luong-2024-1300711.ldo) - 23:00 11/02/2024
-- 🦩 [Đón năm mới như những người hạnh phúc nhất thế giới ở Phần Lan](https://laodong.vn/the-gioi/don-nam-moi-nhu-nhung-nguoi-hanh-phuc-nhat-the-gioi-o-phan-lan-1300981.ldo) - 23:00 11/02/2024
-- 🦏 [Tết phương Nam trong mắt người con xa quê](https://laodong.vn/gia-dinh-hon-nhan/tet-phuong-nam-trong-mat-nguoi-con-xa-que-1301055.ldo) - 23:00 11/02/2024
-- 🧰 [Tiền vệ Thái Sơn, từ cậu bé đá bóng nhựa đến tuyển thủ quốc gia](https://laodong.vn/bong-da/tien-ve-thai-son-tu-cau-be-da-bong-nhua-den-tuyen-thu-quoc-gia-1301088.ldo) - 23:00 11/02/2024
-- 🌊 [Du lịch nông nghiệp hấp dẫn du khách với những trải nghiệm](https://laodong.vn/kinh-doanh/du-lich-nong-nghiep-hap-dan-du-khach-voi-nhung-trai-nghiem-1301156.ldo) - 23:00 11/02/2024
-- 🔥 [Hình thức lừa đảo phổ biến nhất ở Việt Nam trong năm 2023](https://laodong.vn/xa-hoi/hinh-thuc-lua-dao-pho-bien-nhat-o-viet-nam-trong-nam-2023-1301275.ldo) - 23:00 11/02/2024
-- 🦒 [Nội dung quy hoạch sử dụng đất cấp huyện theo Luật Đất đai 2024](https://laodong.vn/tu-van-phap-luat/noi-dung-quy-hoach-su-dung-dat-cap-huyen-theo-luat-dat-dai-2024-1301382.ldo) - 23:00 11/02/2024
-- 💼 [Nhiều mô hình, thiết chế thể thao cho công nhân, lao động](https://laodong.vn/cong-doan/nhieu-mo-hinh-thiet-che-the-thao-cho-cong-nhan-lao-dong-1301496.ldo) - 23:00 11/02/2024
-- 🤖 [Thị trường smartphone Việt Nam 2024, doanh thu 4 tỉ USD, cạnh tranh gay gắt](https://laodong.vn/cong-nghe/thi-truong-smartphone-viet-nam-2024-doanh-thu-4-ti-usd-canh-tranh-gay-gat-1300786.ldo) - 23:00 11/02/2024
-- 💪 [Ngày Thần Tài không mua vàng thì làm gì để lấy lộc cả năm](https://laodong.vn/ban-doc/ngay-than-tai-khong-mua-vang-thi-lam-gi-de-lay-loc-ca-nam-1300789.ldo) - 23:00 11/02/2024
-- 👍 [Một đầu bếp trẻ tâm huyết với ẩm thực Đà Lạt](https://laodong.vn/van-hoa-giai-tri/mot-dau-bep-tre-tam-huyet-voi-am-thuc-da-lat-1300903.ldo) - 23:00 11/02/2024
-- 💂 [Xu hướng chúc Tết online liệu có làm mất đi ý nghĩa ngày Tết thầy?](https://laodong.vn/video-xa-hoi/xu-huong-chuc-tet-online-lieu-co-lam-mat-di-y-nghia-ngay-tet-thay-1301558.ldo) - 23:00 11/02/2024
-- 🧰 [Diệu Nhi - Anh Tú tiết lộ về cái Tết đặc biệt](https://laodong.vn/gia-dinh-hon-nhan/dieu-nhi-anh-tu-tiet-lo-ve-cai-tet-dac-biet-1301573.ldo) - 23:00 11/02/2024
-- 🥷 [Nhiều ước vọng về giáo dục và đào tạo trong năm 2024](https://laodong.vn/giao-duc/nhieu-uoc-vong-ve-giao-duc-va-dao-tao-trong-nam-2024-1302034.ldo) - 23:00 11/02/2024
-- 💫 [Tỷ giá hối đoái, tỷ giá ngoại tệ, cập nhật tỷ giá USD chợ đen hôm nay 12.2](https://laodong.vn/tien-te-dau-tu/ty-gia-hoi-doai-ty-gia-ngoai-te-cap-nhat-ty-gia-usd-cho-den-hom-nay-122-1302753.ldo) - 23:00 11/02/2024
-- 🎭 [Nộm gà thơm ngon, chống ngán cho Tết để tránh lãng phí đồ ăn](https://laodong.vn/gia-dinh-hon-nhan/nom-ga-thom-ngon-chong-ngan-cho-tet-de-tranh-lang-phi-do-an-1303177.ldo) - 23:00 11/02/2024
-- 😎 [Văn hóa cuốn hút trong điệu múa chiêu của người Hà Lăng ở Kon Tum](https://laodong.vn/van-hoa-giai-tri/van-hoa-cuon-hut-trong-dieu-mua-chieu-cua-nguoi-ha-lang-o-kon-tum-1303260.ldo) - 23:00 11/02/2024
-- 💄 [Hương vị Tết xưa](https://laodong.vn/xa-hoi/huong-vi-tet-xua-1302690.ldo) - 22:45 11/02/2024
-- 🫣 [Âm thanh của mùa Xuân](https://laodong.vn/lao-dong-cuoi-tuan/am-thanh-cua-mua-xuan-1299539.ldo) - 22:30 11/02/2024
-- 🧑‍🏫 [Thể Công Viettel - Sự trở lại của một tượng đài bóng đá](https://laodong.vn/lao-dong-cuoi-tuan/the-cong-viettel-su-tro-lai-cua-mot-tuong-dai-bong-da-1298630.ldo) - 22:30 11/02/2024
-- 🦣 [Arsenal thắng West Ham 6-0 trên sân khách](https://laodong.vn/bong-da-quoc-te/arsenal-thang-west-ham-6-0-tren-san-khach-1303372.ldo) - 16:08 11/02/2024
-- 💫 [Tin buồn](https://laodong.vn/xa-hoi/tin-buon-1303358.ldo) - 15:47 11/02/2024
-- ⛽️ [Xử phạt nam sinh lớp 11 đầu trần, nằm trên yên điều khiển xe máy ở Hải Phòng](https://laodong.vn/phap-luat/xu-phat-nam-sinh-lop-11-dau-tran-nam-tren-yen-dieu-khien-xe-may-o-hai-phong-1303366.ldo) - 15:46 11/02/2024
-- 💫 [Tết nhớ chén trà](https://laodong.vn/lao-dong-cuoi-tuan/tet-nho-chen-tra-1299276.ldo) - 15:00 11/02/2024
-- 🥸 [CSGT kịp thời đưa người bị đột quỵ đi cấp cứu ngày mùng 2 Tết](https://laodong.vn/xa-hoi/csgt-kip-thoi-dua-nguoi-bi-dot-quy-di-cap-cuu-ngay-mung-2-tet-1303361.ldo) - 14:52 11/02/2024
-- 🐻 [Chăm sóc răng miệng - việc quan trọng ngày Tết](https://laodong.vn/suc-khoe/cham-soc-rang-mieng-viec-quan-trong-ngay-tet-1301528.ldo) - 14:52 11/02/2024
-- 🪄 [Nơi tôn vinh các giá trị hòa bình](https://laodong.vn/xa-hoi/noi-ton-vinh-cac-gia-tri-hoa-binh-1300942.ldo) - 14:48 11/02/2024
-- 🧑‍🏫 [Những hàng cây mang tên “Công đoàn Hà Tĩnh”](https://laodong.vn/cong-doan/nhung-hang-cay-mang-ten-cong-doan-ha-tinh-1301515.ldo) - 14:46 11/02/2024
-- 🌊 [Thạc sỹ mất đôi tay “gieo” lạc quan qua “khu vườn hạnh phúc”](https://laodong.vn/xa-hoi/thac-sy-mat-doi-tay-gieo-lac-quan-qua-khu-vuon-hanh-phuc-1300758.ldo) - 14:45 11/02/2024
-- 💻 [Xây dựng thần tượng thể thao khơi gợi đam mê, niềm tự hào dân tộc](https://laodong.vn/lao-dong-cuoi-tuan/xay-dung-than-tuong-the-thao-khoi-goi-dam-me-niem-tu-hao-dan-toc-1298625.ldo) - 14:43 11/02/2024
-- 👨‍🏫 [Đi về phía mặt trời](https://laodong.vn/lao-dong-cuoi-tuan/di-ve-phia-mat-troi-1299226.ldo) - 14:42 11/02/2024
-- 🌈 [Check in vòng quanh thế giới](https://laodong.vn/lao-dong-cuoi-tuan/check-in-vong-quanh-the-gioi-1299233.ldo) - 14:38 11/02/2024
-- 🐲 [Thảo thơm thay bông hoa sen Hà Nội](https://laodong.vn/lao-dong-cuoi-tuan/thao-thom-thay-bong-hoa-sen-ha-noi-1298604.ldo) - 14:29 11/02/2024
-- 🚀 [Đi qua những mùa hoa Tây Bắc](https://laodong.vn/lao-dong-cuoi-tuan/di-qua-nhung-mua-hoa-tay-bac-1299196.ldo) - 14:28 11/02/2024
-- 😺 [Câu chuyện phía sau những bức ảnh đoạt giải quốc tế](https://laodong.vn/lao-dong-cuoi-tuan/cau-chuyen-phia-sau-nhung-buc-anh-doat-giai-quoc-te-1299179.ldo) - 14:26 11/02/2024
-- 🕴 [Đợi chờ những mùa Xuân](https://laodong.vn/lao-dong-cuoi-tuan/doi-cho-nhung-mua-xuan-1299287.ldo) - 14:22 11/02/2024
-- 🌋 [Cánh én liệng và tiếng oanh ca](https://laodong.vn/lao-dong-cuoi-tuan/canh-en-lieng-va-tieng-oanh-ca-1299537.ldo) - 14:19 11/02/2024
-- 💄 [Anh đừng cộng em với than](https://laodong.vn/lao-dong-cuoi-tuan/anh-dung-cong-em-voi-than-1299282.ldo) - 14:15 11/02/2024<!-- laodong:END -->
+- 🗽 [Lí do doanh số sedan lao dốc, xe gầm cao ngày càng lên ngôi dù giá cao hơn](https://laodong.vn/xe/li-do-doanh-so-sedan-lao-doc-xe-gam-cao-ngay-cang-len-ngoi-du-gia-cao-hon-1299258.ldo) - 23:22 11/02/2024
+- 📝 [Chia sẻ khó khăn với người bán hoa Tết là quyết định ý nghĩa, nhân văn](https://laodong.vn/su-kien-binh-luan/chia-se-kho-khan-voi-nguoi-ban-hoa-tet-la-quyet-dinh-y-nghia-nhan-van-1302967.ldo) - 23:21 11/02/2024
+- 🦏 [Dự kiến tháng 5.2024 hoàn thành Nghị định mức lương tối thiểu với người lao động](https://laodong.vn/thoi-su/du-kien-thang-52024-hoan-thanh-nghi-dinh-muc-luong-toi-thieu-voi-nguoi-lao-dong-1300638.ldo) - 23:16 11/02/2024
+- 🦩 [Tạm giữ thanh niên vi phạm nồng độ cồn, tông gãy chân chiến sĩ CSGT](https://laodong.vn/phap-luat/tam-giu-thanh-nien-vi-pham-nong-do-con-tong-gay-chan-chien-si-csgt-1303382.ldo) - 23:15 11/02/2024
+- 🦏 [Qua Tết đem tiền đầu tư chung cư cần nắm chắc lưu ý quan trọng này](https://laodong.vn/bat-dong-san/qua-tet-dem-tien-dau-tu-chung-cu-can-nam-chac-luu-y-quan-trong-nay-1302988.ldo) - 23:15 11/02/2024
+- 🧰 [Vẹn tròn vị Tết trên mâm cỗ đầu Xuân](https://laodong.vn/lao-dong-cuoi-tuan/ven-tron-vi-tet-tren-mam-co-dau-xuan-1298585.ldo) - 23:15 11/02/2024
+- 🌊 [Hình tượng con rồng trong nghệ thuật, kiến trúc và điêu khắc Việt Nam](https://laodong.vn/lao-dong-cuoi-tuan/hinh-tuong-con-rong-trong-nghe-thuat-kien-truc-va-dieu-khac-viet-nam-1298484.ldo) - 23:00 11/02/2024
+- 🔥 [Ngắm những gian nhà cổ trăm năm tuổi của người dân Thái Bình](https://laodong.vn/photo/ngam-nhung-gian-nha-co-tram-nam-tuoi-cua-nguoi-dan-thai-binh-1298953.ldo) - 23:00 11/02/2024
+- 🦒 [Đón năm mới như những người hạnh phúc nhất thế giới ở Phần Lan](https://laodong.vn/the-gioi/don-nam-moi-nhu-nhung-nguoi-hanh-phuc-nhat-the-gioi-o-phan-lan-1300981.ldo) - 23:00 11/02/2024
+- 💼 [Tết phương Nam trong mắt người con xa quê](https://laodong.vn/gia-dinh-hon-nhan/tet-phuong-nam-trong-mat-nguoi-con-xa-que-1301055.ldo) - 23:00 11/02/2024
+- 🤖 [Tiền vệ Thái Sơn, từ cậu bé đá bóng nhựa đến tuyển thủ quốc gia](https://laodong.vn/bong-da/tien-ve-thai-son-tu-cau-be-da-bong-nhua-den-tuyen-thu-quoc-gia-1301088.ldo) - 23:00 11/02/2024
+- 💪 [Du lịch nông nghiệp hấp dẫn du khách với những trải nghiệm](https://laodong.vn/kinh-doanh/du-lich-nong-nghiep-hap-dan-du-khach-voi-nhung-trai-nghiem-1301156.ldo) - 23:00 11/02/2024
+- 👍 [Hình thức lừa đảo phổ biến nhất ở Việt Nam trong năm 2023](https://laodong.vn/xa-hoi/hinh-thuc-lua-dao-pho-bien-nhat-o-viet-nam-trong-nam-2023-1301275.ldo) - 23:00 11/02/2024
+- 💂 [Nội dung quy hoạch sử dụng đất cấp huyện theo Luật Đất đai 2024](https://laodong.vn/tu-van-phap-luat/noi-dung-quy-hoach-su-dung-dat-cap-huyen-theo-luat-dat-dai-2024-1301382.ldo) - 23:00 11/02/2024
+- 🧰 [Nhiều mô hình, thiết chế thể thao cho công nhân, lao động](https://laodong.vn/cong-doan/nhieu-mo-hinh-thiet-che-the-thao-cho-cong-nhan-lao-dong-1301496.ldo) - 23:00 11/02/2024
+- 🥷 [Nộm gà thơm ngon, chống ngán cho Tết để tránh lãng phí đồ ăn](https://laodong.vn/gia-dinh-hon-nhan/nom-ga-thom-ngon-chong-ngan-cho-tet-de-tranh-lang-phi-do-an-1303177.ldo) - 23:00 11/02/2024
+- 💫 [Văn hóa cuốn hút trong điệu múa chiêu của người Hà Lăng ở Kon Tum](https://laodong.vn/van-hoa-giai-tri/van-hoa-cuon-hut-trong-dieu-mua-chieu-cua-nguoi-ha-lang-o-kon-tum-1303260.ldo) - 23:00 11/02/2024
+- 🎭 [Xu hướng chúc Tết online liệu có làm mất đi ý nghĩa ngày Tết thầy?](https://laodong.vn/video-xa-hoi/xu-huong-chuc-tet-online-lieu-co-lam-mat-di-y-nghia-ngay-tet-thay-1301558.ldo) - 23:00 11/02/2024
+- 😎 [Diệu Nhi - Anh Tú tiết lộ về cái Tết đặc biệt](https://laodong.vn/gia-dinh-hon-nhan/dieu-nhi-anh-tu-tiet-lo-ve-cai-tet-dac-biet-1301573.ldo) - 23:00 11/02/2024
+- 💄 [Nhiều ước vọng về giáo dục và đào tạo trong năm 2024](https://laodong.vn/giao-duc/nhieu-uoc-vong-ve-giao-duc-va-dao-tao-trong-nam-2024-1302034.ldo) - 23:00 11/02/2024
+- 🫣 [Cán bộ, công chức mong thay đổi đột phá khi cải cách tiền lương 2024](https://laodong.vn/cong-doan/can-bo-cong-chuc-mong-thay-doi-dot-pha-khi-cai-cach-tien-luong-2024-1300711.ldo) - 23:00 11/02/2024
+- 🧑‍🏫 [Thị trường smartphone Việt Nam 2024, doanh thu 4 tỉ USD, cạnh tranh gay gắt](https://laodong.vn/cong-nghe/thi-truong-smartphone-viet-nam-2024-doanh-thu-4-ti-usd-canh-tranh-gay-gat-1300786.ldo) - 23:00 11/02/2024
+- 🦣 [Ngày Thần Tài không mua vàng thì làm gì để lấy lộc cả năm](https://laodong.vn/ban-doc/ngay-than-tai-khong-mua-vang-thi-lam-gi-de-lay-loc-ca-nam-1300789.ldo) - 23:00 11/02/2024
+- 💫 [Một đầu bếp trẻ tâm huyết với ẩm thực Đà Lạt](https://laodong.vn/van-hoa-giai-tri/mot-dau-bep-tre-tam-huyet-voi-am-thuc-da-lat-1300903.ldo) - 23:00 11/02/2024
+- ⛽️ [Tỷ giá hối đoái, tỷ giá ngoại tệ, cập nhật tỷ giá USD chợ đen hôm nay 12.2](https://laodong.vn/tien-te-dau-tu/ty-gia-hoi-doai-ty-gia-ngoai-te-cap-nhat-ty-gia-usd-cho-den-hom-nay-122-1302753.ldo) - 23:00 11/02/2024
+- 💫 [Hương vị Tết xưa](https://laodong.vn/xa-hoi/huong-vi-tet-xua-1302690.ldo) - 22:45 11/02/2024
+- 🥸 [Âm thanh của mùa Xuân](https://laodong.vn/lao-dong-cuoi-tuan/am-thanh-cua-mua-xuan-1299539.ldo) - 22:30 11/02/2024
+- 🐻 [Thể Công Viettel - Sự trở lại của một tượng đài bóng đá](https://laodong.vn/lao-dong-cuoi-tuan/the-cong-viettel-su-tro-lai-cua-mot-tuong-dai-bong-da-1298630.ldo) - 22:30 11/02/2024
+- 🪄 [Arsenal thắng West Ham 6-0 trên sân khách](https://laodong.vn/bong-da-quoc-te/arsenal-thang-west-ham-6-0-tren-san-khach-1303372.ldo) - 16:08 11/02/2024
+- 🧑‍🏫 [Tin buồn](https://laodong.vn/xa-hoi/tin-buon-1303358.ldo) - 15:47 11/02/2024
+- 🌊 [Xử phạt nam sinh lớp 11 đầu trần, nằm trên yên điều khiển xe máy ở Hải Phòng](https://laodong.vn/phap-luat/xu-phat-nam-sinh-lop-11-dau-tran-nam-tren-yen-dieu-khien-xe-may-o-hai-phong-1303366.ldo) - 15:46 11/02/2024
+- 💻 [Tết nhớ chén trà](https://laodong.vn/lao-dong-cuoi-tuan/tet-nho-chen-tra-1299276.ldo) - 15:00 11/02/2024
+- 👨‍🏫 [CSGT kịp thời đưa người bị đột quỵ đi cấp cứu ngày mùng 2 Tết](https://laodong.vn/xa-hoi/csgt-kip-thoi-dua-nguoi-bi-dot-quy-di-cap-cuu-ngay-mung-2-tet-1303361.ldo) - 14:52 11/02/2024
+- 🌈 [Chăm sóc răng miệng - việc quan trọng ngày Tết](https://laodong.vn/suc-khoe/cham-soc-rang-mieng-viec-quan-trong-ngay-tet-1301528.ldo) - 14:52 11/02/2024
+- 🐲 [Nơi tôn vinh các giá trị hòa bình](https://laodong.vn/xa-hoi/noi-ton-vinh-cac-gia-tri-hoa-binh-1300942.ldo) - 14:48 11/02/2024
+- 🚀 [Những hàng cây mang tên “Công đoàn Hà Tĩnh”](https://laodong.vn/cong-doan/nhung-hang-cay-mang-ten-cong-doan-ha-tinh-1301515.ldo) - 14:46 11/02/2024
+- 😺 [Thạc sỹ mất đôi tay “gieo” lạc quan qua “khu vườn hạnh phúc”](https://laodong.vn/xa-hoi/thac-sy-mat-doi-tay-gieo-lac-quan-qua-khu-vuon-hanh-phuc-1300758.ldo) - 14:45 11/02/2024
+- 🕴 [Xây dựng thần tượng thể thao khơi gợi đam mê, niềm tự hào dân tộc](https://laodong.vn/lao-dong-cuoi-tuan/xay-dung-than-tuong-the-thao-khoi-goi-dam-me-niem-tu-hao-dan-toc-1298625.ldo) - 14:43 11/02/2024
+- 🌋 [Đi về phía mặt trời](https://laodong.vn/lao-dong-cuoi-tuan/di-ve-phia-mat-troi-1299226.ldo) - 14:42 11/02/2024
+- 💄 [Check in vòng quanh thế giới](https://laodong.vn/lao-dong-cuoi-tuan/check-in-vong-quanh-the-gioi-1299233.ldo) - 14:38 11/02/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
