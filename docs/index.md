@@ -247,16 +247,16 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Du khách đổ về Sa Pa, khách sạn &quot;cháy&quot; phòng](https://nld.com.vn/du-khach-do-ve-sa-pa-khach-san-chay-phong-196240211185356242.htm) - 22:39 11/02/2024
-- 😺 [IoT Viêt Nam toàn cầu](https://nld.com.vn/iot-viet-nam-toan-cau-19624020514330421.htm) - 22:28 11/02/2024
-- 👍 [Nghĩ về “nguyên khí quốc gia”](https://nld.com.vn/nghi-ve-nguyen-khi-quoc-gia-196240206090526178.htm) - 22:26 11/02/2024
-- 🥷 [Vàng son món Huế ngày xuân](https://nld.com.vn/vang-son-mon-hue-ngay-xuan-196240205233936118.htm) - 22:24 11/02/2024
-- 🤔 [TP HCM chiêu hiền đãi sĩ](https://nld.com.vn/tp-hcm-chieu-hien-dai-si-196240206085846644.htm) - 22:18 11/02/2024
-- 🌈 [Hoàng Sa những ngày tháng không quên](https://nld.com.vn/hoang-sa-nhung-ngay-thang-khong-quen-196240205163637826.htm) - 22:18 11/02/2024
-- 🔥 [Lịch Âm hôm nay &lpar;12-2&rpar;: Mùng 3 Tết, ngày tốt để làm nhiều việc](https://nld.com.vn/lich-am-hom-nay-12-2-mung-3-tet-ngay-tot-de-lam-nhieu-viec-196240210220307418.htm) - 22:17 11/02/2024
-- 🧰 [Những bài thơ hay ngày Xuân](https://nld.com.vn/nhung-bai-tho-hay-ngay-xuan-196240209011359968.htm) - 22:00 11/02/2024
-- 🤗 [Rồng trong huân chương, kim tiền tặng thưởng](https://nld.com.vn/rong-trong-huan-chuong-kim-tien-tang-thuong-196240206151432804.htm) - 22:00 11/02/2024
-- 🦅 [Hình bóng quê nhà qua Tết Việt ở Úc](https://nld.com.vn/hinh-bong-que-nha-qua-tet-viet-o-uc-196240211163029474.htm) - 19:42 11/02/2024
+- 🐎 [Top 5 trải nghiệm vui Tết tại Phú Quốc](https://nld.com.vn/top-5-trai-nghiem-vui-tet-tai-phu-quoc-196240210185423227.htm) - 23:00 11/02/2024
+- 😺 [Du khách đổ về Sa Pa, khách sạn &quot;cháy&quot; phòng](https://nld.com.vn/du-khach-do-ve-sa-pa-khach-san-chay-phong-196240211185356242.htm) - 22:39 11/02/2024
+- 👍 [IoT Viêt Nam toàn cầu](https://nld.com.vn/iot-viet-nam-toan-cau-19624020514330421.htm) - 22:28 11/02/2024
+- 🥷 [Nghĩ về “nguyên khí quốc gia”](https://nld.com.vn/nghi-ve-nguyen-khi-quoc-gia-196240206090526178.htm) - 22:26 11/02/2024
+- 🤔 [Vàng son món Huế ngày xuân](https://nld.com.vn/vang-son-mon-hue-ngay-xuan-196240205233936118.htm) - 22:24 11/02/2024
+- 🌈 [TP HCM chiêu hiền đãi sĩ](https://nld.com.vn/tp-hcm-chieu-hien-dai-si-196240206085846644.htm) - 22:18 11/02/2024
+- 🔥 [Hoàng Sa những ngày tháng không quên](https://nld.com.vn/hoang-sa-nhung-ngay-thang-khong-quen-196240205163637826.htm) - 22:18 11/02/2024
+- 🧰 [Lịch Âm hôm nay &lpar;12-2&rpar;: Mùng 3 Tết, ngày tốt để làm nhiều việc](https://nld.com.vn/lich-am-hom-nay-12-2-mung-3-tet-ngay-tot-de-lam-nhieu-viec-196240210220307418.htm) - 22:17 11/02/2024
+- 🤗 [Những bài thơ hay ngày Xuân](https://nld.com.vn/nhung-bai-tho-hay-ngay-xuan-196240209011359968.htm) - 22:00 11/02/2024
+- 🦅 [Rồng trong huân chương, kim tiền tặng thưởng](https://nld.com.vn/rong-trong-huan-chuong-kim-tien-tang-thuong-196240206151432804.htm) - 22:00 11/02/2024
 - 🤩 [Bài khấn lễ cúng tiễn ông bà mùng 3 Tết](https://nld.com.vn/bai-khan-le-cung-tien-ong-ba-196240210230400941.htm) - 17:15 11/02/2024
 - 🎭 [Đại sứ &quot;mách&quot; doanh nhân đường ra biển lớn](https://nld.com.vn/dai-su-mach-doanh-nhan-duong-ra-bien-lon-196240211201733143.htm) - 15:34 11/02/2024
 - 💄 [Về nhà ăn Tết, đối tượng truy nã nguy hiểm bị bắt](https://nld.com.vn/ve-nha-an-tet-doi-tuong-truy-na-nguy-hiem-bi-bat-196240211193731346.htm) - 15:31 11/02/2024
