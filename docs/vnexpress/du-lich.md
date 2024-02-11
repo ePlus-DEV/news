@@ -6,7 +6,7 @@ sidebar_position: 11
 <!-- vnexpress-du-lich:START -->
 - 💂 [Đem áo dài &#39;check in&#39; khắp thế giới](https://vnexpress.net/dem-ao-dai-check-in-khap-the-gioi-4710792.html) - 04:09 11/02/2024
 - 🪄 [Nem chua vào top các món cay ngon nhất thế giới](https://vnexpress.net/nem-chua-vao-top-cac-mon-cay-ngon-nhat-the-gioi-4710840.html) - 01:28 11/02/2024
-- 🦅 [Làng hương trăm tuổi ở Hà Nội chuyển mình làm du lịch](https://vnexpress.net/lang-huong-tram-tuoi-o-ha-noi-chuyen-minh-lam-du-lich-4709972.html) - 00:09 11/02/2024
+- 🦅 [Làng hương trăm tuổi Hà Nội chuyển mình](https://vnexpress.net/lang-huong-tram-tuoi-ha-noi-chuyen-minh-4709972.html) - 00:09 11/02/2024
 - 🕴 [Du xuân đến ba ngôi chùa cổ nổi tiếng Bắc Ninh](https://vnexpress.net/du-xuan-den-ba-ngoi-chua-co-noi-tieng-bac-ninh-4704196.html) - 17:00 10/02/2024
 - 👀 [Vietjet khai trương đường bay TP HCM - Thành Đô](https://vnexpress.net/vietjet-khai-truong-duong-bay-tp-hcm-thanh-do-4710826.html) - 16:15 10/02/2024
 - 🎭 [Quách Tuấn Du tặng vé cáp treo Núi Sam cho du khách](https://vnexpress.net/quach-tuan-du-tang-ve-cap-treo-nui-sam-cho-du-khach-4710801.html) - 11:00 10/02/2024
