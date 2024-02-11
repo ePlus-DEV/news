@@ -578,7 +578,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💃 [Tết của ông hoàng nhạc đỏ](https://tienphong.vn/tet-cua-ong-hoang-nhac-do-post1611050.tpo) - 20:30 11/02/2024
 - 🦍 [Tổ đình Phúc Khánh đông nghịt người đi lễ chiều mùng 2 Tết](https://tienphong.vn/to-dinh-phuc-khanh-dong-nghit-nguoi-di-le-chieu-mung-2-tet-post1611761.tpo) - 20:21 11/02/2024
 - 👹 [Cẩm Ly, NSƯT Kim Tử Long giải quyết drama](https://tienphong.vn/cam-ly-nsut-kim-tu-long-giai-quyet-drama-post1611741.tpo) - 20:20 11/02/2024
-- 🌜 [Trực tiếp West Ham 0-5 Arsenal &lpar;H2&rpar;: Saka lập cú đúp](https://tienphong.vn/truc-tiep-west-ham-0-5-arsenal-h2-saka-lap-cu-dup-post1611751.tpo) - 20:10 11/02/2024
+- 🌜 [Trực tiếp West Ham 0-6 Arsenal &lpar;H2&rpar;: Rice lập siêu phẩm](https://tienphong.vn/truc-tiep-west-ham-0-6-arsenal-h2-rice-lap-sieu-pham-post1611751.tpo) - 20:10 11/02/2024
 - 🎓 [TPHCM: Nhiều trường hợp bị xử lý vi phạm nồng độ cồn trong ngày Tết](https://tienphong.vn/tphcm-nhieu-truong-hop-bi-xu-ly-vi-pham-nong-do-con-trong-ngay-tet-post1611755.tpo) - 19:47 11/02/2024
 - 🦣 [Vào Hoàng thành Huế chiêm ngưỡng tạo hình rồng độc đáo](https://tienphong.vn/vao-hoang-thanh-hue-chiem-nguong-tao-hinh-rong-doc-dao-post1611750.tpo) - 19:41 11/02/2024
 - 🤓 [Tin mới vụ giết người phân xác ở Vĩnh Long](https://tienphong.vn/tin-moi-vu-giet-nguoi-phan-xac-o-vinh-long-post1611748.tpo) - 19:37 11/02/2024
