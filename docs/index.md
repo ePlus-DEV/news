@@ -208,46 +208,46 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Gói ghém yêu thương, gửi Tết tới muôn phương](https://laodong.vn/xa-hoi/goi-ghem-yeu-thuong-gui-tet-toi-muon-phuong-1302012.ldo) - 13:44 12/02/2024
-- 📝 [Bắc Trung Bộ đi thật nhanh và đi được xa](https://laodong.vn/thoi-su/bac-trung-bo-di-that-nhanh-va-di-duoc-xa-1302041.ldo) - 13:44 12/02/2024
-- 🦏 [Lên Sa Pa đầu xuân mới, toát mồ hôi với trò bịt mắt bắt dê](https://laodong.vn/photo/len-sa-pa-dau-xuan-moi-toat-mo-hoi-voi-tro-bit-mat-bat-de-1303563.ldo) - 13:41 12/02/2024
-- 🦩 [Đi suốt bốn mùa vui](https://laodong.vn/xa-hoi/di-suot-bon-mua-vui-1302011.ldo) - 13:37 12/02/2024
-- 🦏 [Từ kỳ tích thu hút vốn FDI của Nghệ An](https://laodong.vn/kinh-doanh/tu-ky-tich-thu-hut-von-fdi-cua-nghe-an-1302019.ldo) - 13:36 12/02/2024
-- 🧰 [Chăm lo đời sống công nhân mỏ là người dân tộc thiểu số](https://laodong.vn/cd-than-khoang-san/cham-lo-doi-song-cong-nhan-mo-la-nguoi-dan-toc-thieu-so-1303365.ldo) - 13:34 12/02/2024
-- 🌊 [Mùa Xuân và khát vọng chấn hưng giáo dục](https://laodong.vn/giao-duc/mua-xuan-va-khat-vong-chan-hung-giao-duc-1302056.ldo) - 13:32 12/02/2024
-- 🔥 [Quảng Bình vững tin vượt qua khó khăn, thách thức](https://laodong.vn/xa-hoi/quang-binh-vung-tin-vuot-qua-kho-khan-thach-thuc-1302485.ldo) - 13:31 12/02/2024
-- 🦒 [Mãn nhãn với triển lãm hình tượng rồng](https://laodong.vn/van-hoa-giai-tri/man-nhan-voi-trien-lam-hinh-tuong-rong-1303544.ldo) - 13:23 12/02/2024
-- 💼 [4 loại thức phẩm cay giúp giảm nghẹt mũi và viêm xoang](https://laodong.vn/dinh-duong-am-thuc/4-loai-thuc-pham-cay-giup-giam-nghet-mui-va-viem-xoang-1303542.ldo) - 13:06 12/02/2024
-- 🤖 [Cao tốc Pháp Vân - Cầu Giẽ ùn tắc 2km từ chiều tối mùng 3 Tết](https://laodong.vn/photo/cao-toc-phap-van-cau-gie-un-tac-2km-tu-chieu-toi-mung-3-tet-1303558.ldo) - 13:05 12/02/2024
-- 💪 [Taylor Swift và Lionel Messi có sức ảnh hưởng đến thể thao Mỹ như thế nào?](https://laodong.vn/the-thao/taylor-swift-va-lionel-messi-co-suc-anh-huong-den-the-thao-my-nhu-the-nao-1303541.ldo) - 13:04 12/02/2024
-- 👍 [Lao động xa xứ ăn Tết online cho vơi nỗi nhớ quê nhà](https://laodong.vn/xa-hoi/lao-dong-xa-xu-an-tet-online-cho-voi-noi-nho-que-nha-1303539.ldo) - 13:00 12/02/2024
-- 💂 [Doanh nghiệp nhận góp vốn bằng quyền sử dụng đất có quyền, nghĩa vụ gì?](https://laodong.vn/tu-van-phap-luat/doanh-nghiep-nhan-gop-von-bang-quyen-su-dung-dat-co-quyen-nghia-vu-gi-1301272.ldo) - 13:00 12/02/2024
-- 🧰 [Quảng Nam có 3 người chết do tai nạn giao thông trong 5 ngày nghỉ tết](https://laodong.vn/xa-hoi/quang-nam-co-3-nguoi-chet-do-tai-nan-giao-thong-trong-5-ngay-nghi-tet-1303547.ldo) - 12:55 12/02/2024
-- 🥷 [Những loại xe được lắp đèn ưu tiên](https://laodong.vn/xe/nhung-loai-xe-duoc-lap-den-uu-tien-1303521.ldo) - 12:53 12/02/2024
-- 💫 [3 kiểu tóc cho các cô nàng cá tính đón Lễ Tình nhân](https://laodong.vn/thoi-trang/3-kieu-toc-cho-cac-co-nang-ca-tinh-don-le-tinh-nhan-1303548.ldo) - 12:48 12/02/2024
-- 🎭 [Hyun Bin hé lộ về chuyện hẹn hò với Son Ye Jin trước khi cưới](https://laodong.vn/giai-tri/hyun-bin-he-lo-ve-chuyen-hen-ho-voi-son-ye-jin-truoc-khi-cuoi-1303509.ldo) - 12:46 12/02/2024
-- 😎 [Việt Nam đề xuất biện pháp xây dựng tầm nhìn chung kết nối Biển Đông](https://laodong.vn/the-gioi/viet-nam-de-xuat-bien-phap-xay-dung-tam-nhin-chung-ket-noi-bien-dong-1303540.ldo) - 12:43 12/02/2024
-- 💄 [Ấn Độ và Nga đàm phán các thỏa thuận dầu mỏ dài hạn](https://laodong.vn/the-gioi/an-do-va-nga-dam-phan-cac-thoa-thuan-dau-mo-dai-han-1303360.ldo) - 12:37 12/02/2024
-- 🫣 [Người dân đổ về cầu bình an tại ngôi đền thiêng thờ &quot;cá Ông&quot; ở Thái Bình](https://laodong.vn/xa-hoi/nguoi-dan-do-ve-cau-binh-an-tai-ngoi-den-thieng-tho-ca-ong-o-thai-binh-1303526.ldo) - 12:35 12/02/2024
+- 🗽 [Hải Phòng khai hội bơi trải đền chùa Ngọ Dương - Di sản văn hoá phi vật thể](https://laodong.vn/van-hoa-giai-tri/hai-phong-khai-hoi-boi-trai-den-chua-ngo-duong-di-san-van-hoa-phi-vat-the-1303561.ldo) - 14:09 12/02/2024
+- 📝 [Gia đình 10 người du xuân bằng tàu hỏa mùng 3 Tết Giáp Thìn](https://laodong.vn/xa-hoi/gia-dinh-10-nguoi-du-xuan-bang-tau-hoa-mung-3-tet-giap-thin-1303573.ldo) - 14:07 12/02/2024
+- 🦏 [Hàng vạn du khách trẩy hội chùa Hương ngày mùng 3 Tết](https://laodong.vn/photo/hang-van-du-khach-tray-hoi-chua-huong-ngay-mung-3-tet-1303556.ldo) - 14:06 12/02/2024
+- 🦩 [Người dân đổ ra đường đi chơi Tết, TPHCM kẹt xe kinh hoàng tối mùng 3 Tết](https://laodong.vn/photo/nguoi-dan-do-ra-duong-di-choi-tet-tphcm-ket-xe-kinh-hoang-toi-mung-3-tet-1303569.ldo) - 14:03 12/02/2024
+- 🦏 [Tàu cá neo đậu ở làng chài Mũi Né bốc cháy, trôi ra xa bờ](https://laodong.vn/xa-hoi/tau-ca-neo-dau-o-lang-chai-mui-ne-boc-chay-troi-ra-xa-bo-1303570.ldo) - 14:02 12/02/2024
+- 🧰 [Scott McTominay là nguồn năng lượng không bao giờ tắt của Erik ten Hag](https://laodong.vn/bong-da-quoc-te/scott-mctominay-la-nguon-nang-luong-khong-bao-gio-tat-cua-erik-ten-hag-1303560.ldo) - 14:00 12/02/2024
+- 🌊 [Nguyễn Phi Hùng - ca sĩ của công nhân](https://laodong.vn/lao-dong-cuoi-tuan/nguyen-phi-hung-ca-si-cua-cong-nhan-1299033.ldo) - 13:56 12/02/2024
+- 🔥 [Hàng nghìn người dân đổ về công viên Thủ Lệ ngày mùng 3 Tết](https://laodong.vn/xa-hoi/hang-nghin-nguoi-dan-do-ve-cong-vien-thu-le-ngay-mung-3-tet-1303567.ldo) - 13:54 12/02/2024
+- 🦒 [Gói ghém yêu thương, gửi Tết tới muôn phương](https://laodong.vn/xa-hoi/goi-ghem-yeu-thuong-gui-tet-toi-muon-phuong-1302012.ldo) - 13:44 12/02/2024
+- 💼 [Bắc Trung Bộ đi thật nhanh và đi được xa](https://laodong.vn/thoi-su/bac-trung-bo-di-that-nhanh-va-di-duoc-xa-1302041.ldo) - 13:44 12/02/2024
+- 🤖 [Lên Sa Pa đầu xuân mới, toát mồ hôi với trò bịt mắt bắt dê](https://laodong.vn/photo/len-sa-pa-dau-xuan-moi-toat-mo-hoi-voi-tro-bit-mat-bat-de-1303563.ldo) - 13:41 12/02/2024
+- 💪 [Đi suốt bốn mùa vui](https://laodong.vn/xa-hoi/di-suot-bon-mua-vui-1302011.ldo) - 13:37 12/02/2024
+- 👍 [Từ kỳ tích thu hút vốn FDI của Nghệ An](https://laodong.vn/kinh-doanh/tu-ky-tich-thu-hut-von-fdi-cua-nghe-an-1302019.ldo) - 13:36 12/02/2024
+- 💂 [Chăm lo đời sống công nhân mỏ là người dân tộc thiểu số](https://laodong.vn/cd-than-khoang-san/cham-lo-doi-song-cong-nhan-mo-la-nguoi-dan-toc-thieu-so-1303365.ldo) - 13:34 12/02/2024
+- 🧰 [Mùa Xuân và khát vọng chấn hưng giáo dục](https://laodong.vn/giao-duc/mua-xuan-va-khat-vong-chan-hung-giao-duc-1302056.ldo) - 13:32 12/02/2024
+- 🥷 [Quảng Bình vững tin vượt qua khó khăn, thách thức](https://laodong.vn/xa-hoi/quang-binh-vung-tin-vuot-qua-kho-khan-thach-thuc-1302485.ldo) - 13:31 12/02/2024
+- 💫 [Mãn nhãn với triển lãm hình tượng rồng](https://laodong.vn/van-hoa-giai-tri/man-nhan-voi-trien-lam-hinh-tuong-rong-1303544.ldo) - 13:23 12/02/2024
+- 🎭 [4 loại thức phẩm cay giúp giảm nghẹt mũi và viêm xoang](https://laodong.vn/dinh-duong-am-thuc/4-loai-thuc-pham-cay-giup-giam-nghet-mui-va-viem-xoang-1303542.ldo) - 13:06 12/02/2024
+- 😎 [Cao tốc Pháp Vân - Cầu Giẽ ùn tắc 2km từ chiều tối mùng 3 Tết](https://laodong.vn/photo/cao-toc-phap-van-cau-gie-un-tac-2km-tu-chieu-toi-mung-3-tet-1303558.ldo) - 13:05 12/02/2024
+- 💄 [Taylor Swift và Lionel Messi có sức ảnh hưởng đến thể thao Mỹ như thế nào?](https://laodong.vn/the-thao/taylor-swift-va-lionel-messi-co-suc-anh-huong-den-the-thao-my-nhu-the-nao-1303541.ldo) - 13:04 12/02/2024
+- 🫣 [Lao động xa xứ ăn Tết online cho vơi nỗi nhớ quê nhà](https://laodong.vn/xa-hoi/lao-dong-xa-xu-an-tet-online-cho-voi-noi-nho-que-nha-1303539.ldo) - 13:00 12/02/2024
+- 🧑‍🏫 [Doanh nghiệp nhận góp vốn bằng quyền sử dụng đất có quyền, nghĩa vụ gì?](https://laodong.vn/tu-van-phap-luat/doanh-nghiep-nhan-gop-von-bang-quyen-su-dung-dat-co-quyen-nghia-vu-gi-1301272.ldo) - 13:00 12/02/2024
+- 🦣 [Quảng Nam có 3 người chết do tai nạn giao thông trong 5 ngày nghỉ tết](https://laodong.vn/xa-hoi/quang-nam-co-3-nguoi-chet-do-tai-nan-giao-thong-trong-5-ngay-nghi-tet-1303547.ldo) - 12:55 12/02/2024
+- 💫 [Những loại xe được lắp đèn ưu tiên](https://laodong.vn/xe/nhung-loai-xe-duoc-lap-den-uu-tien-1303521.ldo) - 12:53 12/02/2024
+- ⛽️ [3 kiểu tóc cho các cô nàng cá tính đón Lễ Tình nhân](https://laodong.vn/thoi-trang/3-kieu-toc-cho-cac-co-nang-ca-tinh-don-le-tinh-nhan-1303548.ldo) - 12:48 12/02/2024
+- 💫 [Hyun Bin hé lộ về chuyện hẹn hò với Son Ye Jin trước khi cưới](https://laodong.vn/giai-tri/hyun-bin-he-lo-ve-chuyen-hen-ho-voi-son-ye-jin-truoc-khi-cuoi-1303509.ldo) - 12:46 12/02/2024
+- 🥸 [Việt Nam đề xuất biện pháp xây dựng tầm nhìn chung kết nối Biển Đông](https://laodong.vn/the-gioi/viet-nam-de-xuat-bien-phap-xay-dung-tam-nhin-chung-ket-noi-bien-dong-1303540.ldo) - 12:43 12/02/2024
+- 🐻 [Ấn Độ và Nga đàm phán các thỏa thuận dầu mỏ dài hạn](https://laodong.vn/the-gioi/an-do-va-nga-dam-phan-cac-thoa-thuan-dau-mo-dai-han-1303360.ldo) - 12:37 12/02/2024
+- 🪄 [Người dân đổ về cầu bình an tại ngôi đền thiêng thờ &quot;cá Ông&quot; ở Thái Bình](https://laodong.vn/xa-hoi/nguoi-dan-do-ve-cau-binh-an-tai-ngoi-den-thieng-tho-ca-ong-o-thai-binh-1303526.ldo) - 12:35 12/02/2024
 - 🧑‍🏫 [Cập nhật giá vàng chốt phiên 12.2: Tiếp tục sụt giảm, đi ngược dự báo](https://laodong.vn/tien-te-dau-tu/cap-nhat-gia-vang-chot-phien-122-tiep-tuc-sut-giam-di-nguoc-du-bao-1303535.ldo) - 12:30 12/02/2024
-- 🦣 [Bản tin dự báo thời tiết đêm nay và ngày mai 13.2](https://laodong.vn/video-xa-hoi/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-132-1302374.ldo) - 12:30 12/02/2024
-- 💫 [Công nhân miền Tây chuẩn bị hành trang trở lại nhà máy](https://laodong.vn/cong-doan/cong-nhan-mien-tay-chuan-bi-hanh-trang-tro-lai-nha-may-1303525.ldo) - 12:29 12/02/2024
-- ⛽️ [Điện Kiến Trung là ví dụ về sự trao truyền trong bảo tồn di sản ở Huế](https://laodong.vn/su-kien-binh-luan/dien-kien-trung-la-vi-du-ve-su-trao-truyen-trong-bao-ton-di-san-o-hue-1301582.ldo) - 12:22 12/02/2024
-- 💫 [Taylor Swift ăn mừng cuồng nhiệt, hôn bạn trai mừng chức vô địch Super Bowl](https://laodong.vn/giai-tri/taylor-swift-an-mung-cuong-nhiet-hon-ban-trai-mung-chuc-vo-dich-super-bowl-1303524.ldo) - 12:20 12/02/2024
-- 🥸 [Các đội bóng V.League hội quân trở lại, tập luyện khai xuân](https://laodong.vn/bong-da/cac-doi-bong-vleague-hoi-quan-tro-lai-tap-luyen-khai-xuan-1303530.ldo) - 12:16 12/02/2024
-- 🐻 [Alcaraz muốn giải cơn khát danh hiệu tại Argentina Open 2024](https://laodong.vn/tennis/alcaraz-muon-giai-con-khat-danh-hieu-tai-argentina-open-2024-1303482.ldo) - 12:15 12/02/2024
-- 🪄 [Dự báo thời tiết ngày mai mùng 4 Tết &lpar;13.2&rpar; trên cả nước](https://laodong.vn/moi-truong/du-bao-thoi-tiet-ngay-mai-mung-4-tet-132-tren-ca-nuoc-1303529.ldo) - 12:13 12/02/2024
-- 🧑‍🏫 [Cháy lớn ở Phú Quốc, lực lượng Vùng 5 Hải quân tham gia hỗ trợ](https://laodong.vn/xa-hoi/chay-lon-o-phu-quoc-luc-luong-vung-5-hai-quan-tham-gia-ho-tro-1303550.ldo) - 12:12 12/02/2024
-- 🌊 [Trên công trường ga ngầm Metro Nhổn - Ga Hà Nội ngày mùng 3 Tết](https://laodong.vn/photo/tren-cong-truong-ga-ngam-metro-nhon-ga-ha-noi-ngay-mung-3-tet-1303490.ldo) - 12:11 12/02/2024
-- 💻 [Bỡ ngỡ với dịch vụ chèo đò kiểu mới ở lễ hội chùa Hương](https://laodong.vn/xa-hoi/bo-ngo-voi-dich-vu-cheo-do-kieu-moi-o-le-hoi-chua-huong-1303510.ldo) - 12:06 12/02/2024
-- 👨‍🏫 [Tranh thủ những ngày cuối nghỉ Tết, nhiều gia đình Cần Thơ du xuân chụp ảnh](https://laodong.vn/photo/tranh-thu-nhung-ngay-cuoi-nghi-tet-nhieu-gia-dinh-can-tho-du-xuan-chup-anh-1303531.ldo) - 11:58 12/02/2024
-- 🌈 [Ji Chang Wook khơi dậy làn sóng chỉ trích người nổi tiếng hút thuốc](https://laodong.vn/giai-tri/ji-chang-wook-khoi-day-lan-song-chi-trich-nguoi-noi-tieng-hut-thuoc-1303520.ldo) - 11:46 12/02/2024
-- 🐲 [Dự báo diễn biến thời tiết từ mùng 3 đến hết mùng 5 Tết Giáp Thìn 2024](https://laodong.vn/moi-truong/du-bao-dien-bien-thoi-tiet-tu-mung-3-den-het-mung-5-tet-giap-thin-2024-1303519.ldo) - 11:32 12/02/2024
-- 🚀 [Hai cô gái trẻ bị ôtô tông trực diện, văng khỏi cầu vượt, tử vong tại chỗ ngày mùng 3 Tết](https://laodong.vn/xa-hoi/hai-co-gai-tre-bi-oto-tong-truc-dien-vang-khoi-cau-vuot-tu-vong-tai-cho-ngay-mung-3-tet-1303538.ldo) - 11:22 12/02/2024
-- 😺 [Điểm du lịch Quảng Ninh tấp nập, lượng khách tăng 164% qua 4 ngày nghỉ Tết](https://laodong.vn/photo/diem-du-lich-quang-ninh-tap-nap-luong-khach-tang-164-qua-4-ngay-nghi-tet-1303503.ldo) - 11:21 12/02/2024
-- 🕴 [Thủ tướng kiểm tra dự án nhà ga T3 sân bay Tân Sơn Nhất](https://laodong.vn/thoi-su/thu-tuong-kiem-tra-du-an-nha-ga-t3-san-bay-tan-son-nhat-1303516.ldo) - 11:14 12/02/2024
-- 🌋 [Mùng 3 Tết, vi phạm nồng độ cồn tăng đột biến lên 5.589 trường hợp](https://laodong.vn/xa-hoi/mung-3-tet-vi-pham-nong-do-con-tang-dot-bien-len-5589-truong-hop-1303528.ldo) - 11:09 12/02/2024
-- 💄 [4 podcast “hot” khó có thể bỏ qua của nghệ sĩ US - UK](https://laodong.vn/giai-tri/4-podcast-hot-kho-co-the-bo-qua-cua-nghe-si-us-uk-1303496.ldo) - 11:00 12/02/2024<!-- laodong:END -->
+- 🌊 [Bản tin dự báo thời tiết đêm nay và ngày mai 13.2](https://laodong.vn/video-xa-hoi/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-132-1302374.ldo) - 12:30 12/02/2024
+- 💻 [Công nhân miền Tây chuẩn bị hành trang trở lại nhà máy](https://laodong.vn/cong-doan/cong-nhan-mien-tay-chuan-bi-hanh-trang-tro-lai-nha-may-1303525.ldo) - 12:29 12/02/2024
+- 👨‍🏫 [Điện Kiến Trung là ví dụ về sự trao truyền trong bảo tồn di sản ở Huế](https://laodong.vn/su-kien-binh-luan/dien-kien-trung-la-vi-du-ve-su-trao-truyen-trong-bao-ton-di-san-o-hue-1301582.ldo) - 12:22 12/02/2024
+- 🌈 [Taylor Swift ăn mừng cuồng nhiệt, hôn bạn trai mừng chức vô địch Super Bowl](https://laodong.vn/giai-tri/taylor-swift-an-mung-cuong-nhiet-hon-ban-trai-mung-chuc-vo-dich-super-bowl-1303524.ldo) - 12:20 12/02/2024
+- 🐲 [Các đội bóng V.League hội quân trở lại, tập luyện khai xuân](https://laodong.vn/bong-da/cac-doi-bong-vleague-hoi-quan-tro-lai-tap-luyen-khai-xuan-1303530.ldo) - 12:16 12/02/2024
+- 🚀 [Alcaraz muốn giải cơn khát danh hiệu tại Argentina Open 2024](https://laodong.vn/tennis/alcaraz-muon-giai-con-khat-danh-hieu-tai-argentina-open-2024-1303482.ldo) - 12:15 12/02/2024
+- 😺 [Dự báo thời tiết ngày mai mùng 4 Tết &lpar;13.2&rpar; trên cả nước](https://laodong.vn/moi-truong/du-bao-thoi-tiet-ngay-mai-mung-4-tet-132-tren-ca-nuoc-1303529.ldo) - 12:13 12/02/2024
+- 🕴 [Cháy lớn ở Phú Quốc, lực lượng Vùng 5 Hải quân tham gia hỗ trợ](https://laodong.vn/xa-hoi/chay-lon-o-phu-quoc-luc-luong-vung-5-hai-quan-tham-gia-ho-tro-1303550.ldo) - 12:12 12/02/2024
+- 🌋 [Trên công trường ga ngầm Metro Nhổn - Ga Hà Nội ngày mùng 3 Tết](https://laodong.vn/photo/tren-cong-truong-ga-ngam-metro-nhon-ga-ha-noi-ngay-mung-3-tet-1303490.ldo) - 12:11 12/02/2024
+- 💄 [Bỡ ngỡ với dịch vụ chèo đò kiểu mới ở lễ hội chùa Hương](https://laodong.vn/xa-hoi/bo-ngo-voi-dich-vu-cheo-do-kieu-moi-o-le-hoi-chua-huong-1303510.ldo) - 12:06 12/02/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
