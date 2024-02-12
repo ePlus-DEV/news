@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Hành khách tử vong trên máy bay vì mất &#39;hàng lít máu&#39;](https://vnexpress.net/hanh-khach-tu-vong-tren-may-bay-vi-mat-hang-lit-mau-4711120.html) - 10:07 12/02/2024
+- 🎭 [Hành khách ho ra máu, tử vong trên máy bay](https://vnexpress.net/hanh-khach-ho-ra-mau-tu-vong-tren-may-bay-4711120.html) - 10:07 12/02/2024
 - 🕴 [Houthi tuyên bố tấn công tàu hàng Mỹ trên Biển Đỏ](https://vnexpress.net/houthi-tuyen-bo-tan-cong-tau-hang-my-tren-bien-do-4711109.html) - 09:12 12/02/2024
 - 🤭 [Israel không kích khiến 50 người chết khi giải cứu hai con tin](https://vnexpress.net/israel-khong-kich-khien-50-nguoi-chet-khi-giai-cuu-hai-con-tin-4711104.html) - 08:19 12/02/2024
 - 🧑‍💻 [Donald Trump: Taylor Swift không đời nào ủng hộ ông Biden](https://vnexpress.net/donald-trump-taylor-swift-khong-doi-nao-ung-ho-ong-biden-4711094.html) - 07:51 12/02/2024
