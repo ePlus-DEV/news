@@ -153,7 +153,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎊 [Tết xa xứ của vợ chồng Việt lan tỏa ẩm thực quê hương trên đảo Bali](https://thanhnien.vn/tet-xa-xu-cua-vo-chong-viet-lan-toa-am-thuc-que-huong-tren-dao-bali-185240210191256815.htm) - 13:37 12/02/2024
 - 🤠 [Độc đáo bí sợi mì](https://thanhnien.vn/doc-dao-bi-soi-mi-185240205160129976.htm) - 13:25 12/02/2024
 - 💼 [Rapper Double2T: &#39;Đánh cắp mặt trời&#39; mang điện lên vùng cao](https://thanhnien.vn/rapper-double2t-danh-cap-mat-troi-mang-dien-len-vung-cao-185240209125353149.htm) - 13:00 12/02/2024
-- 🐻 [Người dân đi du xuân, giao thông xuất hiện tình trạng ùn ứ ngày mùng 3 tết](https://thanhnien.vn/nguoi-dan-di-du-xuan-giao-thong-xuat-hien-tinh-trang-un-u-ngay-mung-3-tet-185240212180658265.htm) - 12:46 12/02/2024
+- 🐻 [Người dân du xuân, giao thông xuất hiện tình trạng ùn ứ ngày mùng 3 tết](https://thanhnien.vn/nguoi-dan-di-du-xuan-giao-thong-xuat-hien-tinh-trang-un-u-ngay-mung-3-tet-185240212180658265.htm) - 12:46 12/02/2024
 - 🤔 [Thi ảnh Khát vọng năm rồng: Tết ghe ở miền Tây](https://thanhnien.vn/thi-anh-nam-rong-tet-ghe-o-mien-tay-185240210223732692.htm) - 12:45 12/02/2024
 - 📝 [Nhà ga T3 sân bay Tân Sơn Nhất sẽ hoàn thành vào tháng 4.2025](https://thanhnien.vn/nha-ga-t3-san-bay-tan-son-nhat-se-hoan-thanh-vao-thang-42025-18524021218111061.htm) - 12:43 12/02/2024
 - 🥰 [Vì sao tòa án ra lệnh Hà Lan dừng cung cấp bộ phận F-35 cho Israel?](https://thanhnien.vn/vi-sao-toa-an-ra-lenh-ha-lan-dung-cung-cap-bo-phan-f-35-cho-israel-185240212191142599.htm) - 12:25 12/02/2024
