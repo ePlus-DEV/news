@@ -9,7 +9,7 @@ sidebar_position: 2
 - 🤭 [Vua Jordan tham gia thả hàng viện trợ ở Gaza](https://vnexpress.net/vua-jordan-tham-gia-tha-hang-vien-tro-o-gaza-4711020.html) - 01:27 12/02/2024
 - 🧑‍💻 [Gần 90% người Mỹ nghĩ ông Biden quá già cho nhiệm kỳ hai](https://vnexpress.net/gan-90-nguoi-my-nghi-ong-biden-qua-gia-cho-nhiem-ky-hai-4711012.html) - 00:36 12/02/2024
 - 🦏 [Chuyên gia phong thủy đoán vận mệnh 2024 của ông Trump, ông Biden](https://vnexpress.net/chuyen-gia-phong-thuy-doan-van-menh-2024-cua-ong-trump-ong-biden-4710783.html) - 00:12 12/02/2024
-- 🦒 [Ai cập dựng tường, điều xe tăng đến biên giới Gaza](https://vnexpress.net/ai-cap-dung-tuong-dieu-xe-tang-den-bien-gioi-gaza-4711014.html) - 23:55 11/02/2024
+- 🦒 [Ai Cập dựng tường, điều xe tăng đến biên giới Gaza](https://vnexpress.net/ai-cap-dung-tuong-dieu-xe-tang-den-bien-gioi-gaza-4711014.html) - 23:55 11/02/2024
 - 🌈 [Bộ trưởng Quốc phòng Mỹ tiếp tục vào viện](https://vnexpress.net/bo-truong-quoc-phong-my-tiep-tuc-vao-vien-4711010.html) - 23:37 11/02/2024
 - 🧑‍🏫 [Hamas nói thêm hai con tin thiệt mạng vì đòn không kích của Israel](https://vnexpress.net/hamas-noi-them-hai-con-tin-thiet-mang-vi-don-khong-kich-cua-israel-4710997.html) - 16:22 11/02/2024
 - 🐲 [Mỹ tấn công loạt vị trí của Houthi](https://vnexpress.net/my-tan-cong-loat-vi-tri-cua-houthi-4710993.html) - 15:41 11/02/2024
