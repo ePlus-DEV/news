@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Houthi tuyên bố tấn công tàu Mỹ trên Biển Đỏ](https://vnexpress.net/houthi-tuyen-bo-tan-cong-tau-my-tren-bien-do-4711109.html) - 09:12 12/02/2024
+- 🎭 [Houthi tuyên bố tấn công tàu hàng Mỹ trên Biển Đỏ](https://vnexpress.net/houthi-tuyen-bo-tan-cong-tau-hang-my-tren-bien-do-4711109.html) - 09:12 12/02/2024
 - 🕴 [Israel không kích khiến 50 người chết khi giải cứu hai con tin](https://vnexpress.net/israel-khong-kich-khien-50-nguoi-chet-khi-giai-cuu-hai-con-tin-4711104.html) - 08:19 12/02/2024
 - 🤭 [Donald Trump: Taylor Swift không đời nào ủng hộ ông Biden](https://vnexpress.net/donald-trump-taylor-swift-khong-doi-nao-ung-ho-ong-biden-4711094.html) - 07:51 12/02/2024
 - 🧑‍💻 [&#39;Cô gái vàng&#39; phơi bày góc khuất trong làng trượt băng Mỹ](https://vnexpress.net/co-gai-vang-phoi-bay-goc-khuat-trong-lang-truot-bang-my-4709343.html) - 07:25 12/02/2024
