@@ -207,46 +207,46 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Số phận của hai bức tượng nữ thần Chăm tại các khu di tích Quảng Nam](https://laodong.vn/van-hoa/so-phan-cua-hai-buc-tuong-nu-than-cham-tai-cac-khu-di-tich-quang-nam-1257918.ldo) - 06:30 12/02/2024
-- 📝 [Tỷ giá đồng Yên dự báo còn gia tăng](https://laodong.vn/kinh-doanh/ty-gia-dong-yen-du-bao-con-gia-tang-1303384.ldo) - 06:18 12/02/2024
-- 🦏 [Bí quyết &quot;không đụng hàng&quot; của bánh khô mè 7 lửa Đà Nẵng](https://laodong.vn/kinh-doanh/bi-quyet-khong-dung-hang-cua-banh-kho-me-7-lua-da-nang-1300076.ldo) - 06:00 12/02/2024
-- 🦩 [Món quà ý nghĩa đặc biệt ngày đầu Xuân tại Quảng Ninh](https://laodong.vn/xa-hoi/mon-qua-y-nghia-dac-biet-ngay-dau-xuan-tai-quang-ninh-1303318.ldo) - 05:58 12/02/2024
-- 🦏 [Thủ tướng Phạm Minh Chính lì xì, chúc Tết người lao động tại Hà Nội](https://laodong.vn/thoi-su/thu-tuong-pham-minh-chinh-li-xi-chuc-tet-nguoi-lao-dong-tai-ha-noi-1303454.ldo) - 05:55 12/02/2024
-- 🧰 [2 cô gái ở Phú Yên bị tàu hỏa tông](https://laodong.vn/xa-hoi/2-co-gai-o-phu-yen-bi-tau-hoa-tong-1303442.ldo) - 05:41 12/02/2024
-- 🌊 [Chị đẹp Diệp Lâm Anh: Thận trọng quá sẽ.. ế](https://laodong.vn/chuyen-nha-minh/chi-dep-diep-lam-anh-than-trong-qua-se-e-1301904.ldo) - 05:38 12/02/2024
-- 🔥 [4 thành viên Blackpink đang bắt tay vào hoạt động solo chính thức](https://laodong.vn/van-hoa-giai-tri/4-thanh-vien-blackpink-dang-bat-tay-vao-hoat-dong-solo-chinh-thuc-1303438.ldo) - 05:32 12/02/2024
-- 🦒 [Xe khách mất lái đâm vào nhà dân ở Nam Định](https://laodong.vn/xa-hoi/xe-khach-mat-lai-dam-vao-nha-dan-o-nam-dinh-1303423.ldo) - 05:30 12/02/2024
-- 💼 [Siết nồng độ cồn để giảm tai nạn giao thông và xây dựng nếp sống văn minh](https://laodong.vn/su-kien-binh-luan/siet-nong-do-con-de-giam-tai-nan-giao-thong-va-xay-dung-nep-song-van-minh-1303414.ldo) - 05:24 12/02/2024
-- 🤖 [Biển người đổ về Phủ Tây Hồ đi lễ mùng 3 Tết, gửi ôtô, xe máy quét QR Code](https://laodong.vn/photo/bien-nguoi-do-ve-phu-tay-ho-di-le-mung-3-tet-gui-oto-xe-may-quet-qr-code-1303456.ldo) - 05:21 12/02/2024
-- 💪 [Bê thui Cầu Mống – ngon đã khẩu, nhìn sướng con mắt](https://laodong.vn/van-hoa-giai-tri/be-thui-cau-mong--ngon-da-khau-nhin-suong-con-mat-1299667.ldo) - 05:20 12/02/2024
-- 👍 [Tổng thống Pháp hoãn chuyến thăm Ukraina](https://laodong.vn/the-gioi/tong-thong-phap-hoan-chuyen-tham-ukraina-1303444.ldo) - 05:10 12/02/2024
-- 💂 [Đặc sản Tết của người Thái Bình làm từ nguyên tảng thịt](https://laodong.vn/photo/dac-san-tet-cua-nguoi-thai-binh-lam-tu-nguyen-tang-thit-1300836.ldo) - 05:00 12/02/2024
-- 🧰 [Núi Cấm – Đà Lạt bên dòng Cửu Long](https://laodong.vn/van-hoa-giai-tri/nui-cam--da-lat-ben-dong-cuu-long-1301048.ldo) - 04:56 12/02/2024
-- 🥷 [Tết ở nơi gieo mầm thiện](https://laodong.vn/video/tet-o-noi-gieo-mam-thien-1303447.ldo) - 04:56 12/02/2024
-- 💫 [Đặc sản xứ Nghệ lên ngôi dịp Tết Nguyên đán](https://laodong.vn/ban-doc/dac-san-xu-nghe-len-ngoi-dip-tet-nguyen-dan-1303436.ldo) - 04:53 12/02/2024
-- 🎭 [Hàng nghìn người dân chen chúc xin chữ cầu may trong ngày mùng 3 Tết thầy](https://laodong.vn/video-xa-hoi/hang-nghin-nguoi-dan-chen-chuc-xin-chu-cau-may-trong-ngay-mung-3-tet-thay-1303440.ldo) - 04:53 12/02/2024
-- 😎 [Haller - Ngôi sao bị ung thư đưa Bờ Biển Ngà đến chức vô địch châu Phi](https://laodong.vn/bong-da-quoc-te/haller-ngoi-sao-bi-ung-thu-dua-bo-bien-nga-den-chuc-vo-dich-chau-phi-1303439.ldo) - 04:52 12/02/2024
-- 💄 [Nhận định, dự đoán tỉ số trận Crystal Palace - Chelsea](https://laodong.vn/bong-da-quoc-te/nhan-dinh-du-doan-ti-so-tran-crystal-palace-chelsea-1303415.ldo) - 04:52 12/02/2024
-- 🫣 [Long An nhanh chóng đưa Nghị quyết Đại hội Công đoàn vào cuộc sống](https://laodong.vn/ldld-long-an/long-an-nhanh-chong-dua-nghi-quyet-dai-hoi-cong-doan-vao-cuoc-song-1303409.ldo) - 04:51 12/02/2024
-- 🧑‍🏫 [Siêu thị ở TPHCM đón khách mùng 3 Tết, nơi đầy ắp hàng, nơi kệ trống](https://laodong.vn/photo/sieu-thi-o-tphcm-don-khach-mung-3-tet-noi-day-ap-hang-noi-ke-trong-1303417.ldo) - 04:49 12/02/2024
-- 🦣 [Lo lắng tìm chỗ đỗ xe khi đi chơi Tết tại Hà Nội](https://laodong.vn/ban-doc/lo-lang-tim-cho-do-xe-khi-di-choi-tet-tai-ha-noi-1303416.ldo) - 04:49 12/02/2024
-- 💫 [Đi xin lộc ở chợ đình Bích La vào rạng sáng mùng 3 Tết](https://laodong.vn/photo/di-xin-loc-o-cho-dinh-bich-la-vao-rang-sang-mung-3-tet-1303431.ldo) - 04:47 12/02/2024
-- ⛽️ [Giỏ quà Tết ế hàng, tiểu thương nói không lo lỗ vốn](https://laodong.vn/kinh-doanh/gio-qua-tet-e-hang-tieu-thuong-noi-khong-lo-lo-von-1303027.ldo) - 04:43 12/02/2024
-- 💫 [Phát huy vai trò bảo vệ, chăm lo đoàn viên, người lao động gắn với các khâu đột phá](https://laodong.vn/ldld-kien-giang/phat-huy-vai-tro-bao-ve-cham-lo-doan-vien-nguoi-lao-dong-gan-voi-cac-khau-dot-pha-1303410.ldo) - 04:41 12/02/2024
-- 🥸 [Ý nghĩa chiếc vòng đồng trong những dịp đặc biệt của người Ê Đê](https://laodong.vn/van-hoa-giai-tri/y-nghia-chiec-vong-dong-trong-nhung-dip-dac-biet-cua-nguoi-e-de-1301999.ldo) - 04:39 12/02/2024
-- 🐻 [Tước 69 giấy phép lái xe qua 4 ngày nghỉ Tết tại Quảng Ninh](https://laodong.vn/phap-luat/tuoc-69-giay-phep-lai-xe-qua-4-ngay-nghi-tet-tai-quang-ninh-1303413.ldo) - 04:34 12/02/2024
-- 🪄 [Quyết liệt xử lý nồng độ cồn, có ngày phát hiện gần 4.000 tài xế vi phạm](https://laodong.vn/phap-luat/quyet-liet-xu-ly-nong-do-con-co-ngay-phat-hien-gan-4000-tai-xe-vi-pham-1303432.ldo) - 04:34 12/02/2024
-- 🧑‍🏫 [Cầu vượt sông Ông Đốc khắc phục xong, dân qua lại du Xuân thuận lơi](https://laodong.vn/ban-doc/cau-vuot-song-ong-doc-khac-phuc-xong-dan-qua-lai-du-xuan-thuan-loi-1303429.ldo) - 04:28 12/02/2024
-- 🌊 [Hàng ngàn người dâng hương, viếng mộ Đại tướng Võ Nguyên Giáp tại Vũng Chùa - Đảo Yến](https://laodong.vn/xa-hoi/hang-ngan-nguoi-dang-huong-vieng-mo-dai-tuong-vo-nguyen-giap-tai-vung-chua-dao-yen-1303411.ldo) - 04:27 12/02/2024
-- 💻 [Giá vàng hôm nay 12.2: Chuyên gia lạc quan, có nên mua ngay?](https://laodong.vn/tien-te-dau-tu/gia-vang-hom-nay-122-chuyen-gia-lac-quan-co-nen-mua-ngay-1303418.ldo) - 04:16 12/02/2024
-- 👨‍🏫 [Chiêm ngưỡng ấn vàng Hoàng đế chi bảo trưng bày tại Bảo tàng ở Bắc Ninh](https://laodong.vn/photo/chiem-nguong-an-vang-hoang-de-chi-bao-trung-bay-tai-bao-tang-o-bac-ninh-1303404.ldo) - 04:12 12/02/2024
-- 🌈 [Phần Lan có tổng thống mới](https://laodong.vn/the-gioi/phan-lan-co-tong-thong-moi-1303435.ldo) - 04:06 12/02/2024
-- 🐲 [Nhu cầu nhà ở thực của người dân sẽ được tháo gỡ khó khăn như thế nào?](https://laodong.vn/kinh-doanh/nhu-cau-nha-o-thuc-cua-nguoi-dan-se-duoc-thao-go-kho-khan-nhu-the-nao-1303405.ldo) - 04:03 12/02/2024
-- 🚀 [Kỉ lục gia marathon thế giới Kiptum tử nạn](https://laodong.vn/the-thao/ki-luc-gia-marathon-the-gioi-kiptum-tu-nan-1303419.ldo) - 04:00 12/02/2024
-- 😺 [Công an đang điều tra vụ cô gái mất tích trước ngày về quê đón Tết](https://laodong.vn/phap-luat/cong-an-dang-dieu-tra-vu-co-gai-mat-tich-truoc-ngay-ve-que-don-tet-1303428.ldo) - 04:00 12/02/2024
-- 🕴 [Mùng 3 Tết thầy: Ngẫm về vị thế nhà giáo trong xã hội hiện đại](https://laodong.vn/video-xa-hoi/mung-3-tet-thay-ngam-ve-vi-the-nha-giao-trong-xa-hoi-hien-dai-1301461.ldo) - 04:00 12/02/2024
-- 🌋 [Bình luận của ông Trump về Nga và NATO bị phản ứng dữ dội](https://laodong.vn/the-gioi/binh-luan-cua-ong-trump-ve-nga-va-nato-bi-phan-ung-du-doi-1303385.ldo) - 03:58 12/02/2024
-- 💄 [Vỏ bọc của kẻ cầm đầu đường dây mua bán thận liên tỉnh](https://laodong.vn/phap-luat/vo-boc-cua-ke-cam-dau-duong-day-mua-ban-than-lien-tinh-1303421.ldo) - 03:57 12/02/2024<!-- laodong:END -->
+- 🗽 [Sạt lở cồn Thanh Long](https://laodong.vn/xa-hoi/sat-lo-con-thanh-long-1303452.ldo) - 06:37 12/02/2024
+- 📝 [Số phận của hai bức tượng nữ thần Chăm tại các khu di tích Quảng Nam](https://laodong.vn/van-hoa/so-phan-cua-hai-buc-tuong-nu-than-cham-tai-cac-khu-di-tich-quang-nam-1257918.ldo) - 06:30 12/02/2024
+- 🦏 [Tỷ giá đồng Yên dự báo còn gia tăng](https://laodong.vn/kinh-doanh/ty-gia-dong-yen-du-bao-con-gia-tang-1303384.ldo) - 06:18 12/02/2024
+- 🦩 [Bí quyết &quot;không đụng hàng&quot; của bánh khô mè 7 lửa Đà Nẵng](https://laodong.vn/kinh-doanh/bi-quyet-khong-dung-hang-cua-banh-kho-me-7-lua-da-nang-1300076.ldo) - 06:00 12/02/2024
+- 🦏 [Món quà ý nghĩa đặc biệt ngày đầu Xuân tại Quảng Ninh](https://laodong.vn/xa-hoi/mon-qua-y-nghia-dac-biet-ngay-dau-xuan-tai-quang-ninh-1303318.ldo) - 05:58 12/02/2024
+- 🧰 [Thủ tướng Phạm Minh Chính lì xì, chúc Tết người lao động tại Hà Nội](https://laodong.vn/thoi-su/thu-tuong-pham-minh-chinh-li-xi-chuc-tet-nguoi-lao-dong-tai-ha-noi-1303454.ldo) - 05:55 12/02/2024
+- 🌊 [2 cô gái ở Phú Yên bị tàu hỏa tông](https://laodong.vn/xa-hoi/2-co-gai-o-phu-yen-bi-tau-hoa-tong-1303442.ldo) - 05:41 12/02/2024
+- 🔥 [Chị đẹp Diệp Lâm Anh: Thận trọng quá sẽ.. ế](https://laodong.vn/chuyen-nha-minh/chi-dep-diep-lam-anh-than-trong-qua-se-e-1301904.ldo) - 05:38 12/02/2024
+- 🦒 [4 thành viên Blackpink đang bắt tay vào hoạt động solo chính thức](https://laodong.vn/van-hoa-giai-tri/4-thanh-vien-blackpink-dang-bat-tay-vao-hoat-dong-solo-chinh-thuc-1303438.ldo) - 05:32 12/02/2024
+- 💼 [Xe khách mất lái đâm vào nhà dân ở Nam Định](https://laodong.vn/xa-hoi/xe-khach-mat-lai-dam-vao-nha-dan-o-nam-dinh-1303423.ldo) - 05:30 12/02/2024
+- 🤖 [Siết nồng độ cồn để giảm tai nạn giao thông và xây dựng nếp sống văn minh](https://laodong.vn/su-kien-binh-luan/siet-nong-do-con-de-giam-tai-nan-giao-thong-va-xay-dung-nep-song-van-minh-1303414.ldo) - 05:24 12/02/2024
+- 💪 [Biển người đổ về Phủ Tây Hồ đi lễ mùng 3 Tết, gửi ôtô, xe máy quét QR Code](https://laodong.vn/photo/bien-nguoi-do-ve-phu-tay-ho-di-le-mung-3-tet-gui-oto-xe-may-quet-qr-code-1303456.ldo) - 05:21 12/02/2024
+- 👍 [Bê thui Cầu Mống – ngon đã khẩu, nhìn sướng con mắt](https://laodong.vn/van-hoa-giai-tri/be-thui-cau-mong--ngon-da-khau-nhin-suong-con-mat-1299667.ldo) - 05:20 12/02/2024
+- 💂 [Tổng thống Pháp hoãn chuyến thăm Ukraina](https://laodong.vn/the-gioi/tong-thong-phap-hoan-chuyen-tham-ukraina-1303444.ldo) - 05:10 12/02/2024
+- 🧰 [Đặc sản Tết của người Thái Bình làm từ nguyên tảng thịt](https://laodong.vn/photo/dac-san-tet-cua-nguoi-thai-binh-lam-tu-nguyen-tang-thit-1300836.ldo) - 05:00 12/02/2024
+- 🥷 [Núi Cấm – Đà Lạt bên dòng Cửu Long](https://laodong.vn/van-hoa-giai-tri/nui-cam--da-lat-ben-dong-cuu-long-1301048.ldo) - 04:56 12/02/2024
+- 💫 [Tết ở nơi gieo mầm thiện](https://laodong.vn/video/tet-o-noi-gieo-mam-thien-1303447.ldo) - 04:56 12/02/2024
+- 🎭 [Đặc sản xứ Nghệ lên ngôi dịp Tết Nguyên đán](https://laodong.vn/ban-doc/dac-san-xu-nghe-len-ngoi-dip-tet-nguyen-dan-1303436.ldo) - 04:53 12/02/2024
+- 😎 [Hàng nghìn người dân chen chúc xin chữ cầu may trong ngày mùng 3 Tết thầy](https://laodong.vn/video-xa-hoi/hang-nghin-nguoi-dan-chen-chuc-xin-chu-cau-may-trong-ngay-mung-3-tet-thay-1303440.ldo) - 04:53 12/02/2024
+- 💄 [Haller - Ngôi sao bị ung thư đưa Bờ Biển Ngà đến chức vô địch châu Phi](https://laodong.vn/bong-da-quoc-te/haller-ngoi-sao-bi-ung-thu-dua-bo-bien-nga-den-chuc-vo-dich-chau-phi-1303439.ldo) - 04:52 12/02/2024
+- 🫣 [Nhận định, dự đoán tỉ số trận Crystal Palace - Chelsea](https://laodong.vn/bong-da-quoc-te/nhan-dinh-du-doan-ti-so-tran-crystal-palace-chelsea-1303415.ldo) - 04:52 12/02/2024
+- 🧑‍🏫 [Long An nhanh chóng đưa Nghị quyết Đại hội Công đoàn vào cuộc sống](https://laodong.vn/ldld-long-an/long-an-nhanh-chong-dua-nghi-quyet-dai-hoi-cong-doan-vao-cuoc-song-1303409.ldo) - 04:51 12/02/2024
+- 🦣 [Siêu thị ở TPHCM đón khách mùng 3 Tết, nơi đầy ắp hàng, nơi kệ trống](https://laodong.vn/photo/sieu-thi-o-tphcm-don-khach-mung-3-tet-noi-day-ap-hang-noi-ke-trong-1303417.ldo) - 04:49 12/02/2024
+- 💫 [Lo lắng tìm chỗ đỗ xe khi đi chơi Tết tại Hà Nội](https://laodong.vn/ban-doc/lo-lang-tim-cho-do-xe-khi-di-choi-tet-tai-ha-noi-1303416.ldo) - 04:49 12/02/2024
+- ⛽️ [Đi xin lộc ở chợ đình Bích La vào rạng sáng mùng 3 Tết](https://laodong.vn/photo/di-xin-loc-o-cho-dinh-bich-la-vao-rang-sang-mung-3-tet-1303431.ldo) - 04:47 12/02/2024
+- 💫 [Giỏ quà Tết ế hàng, tiểu thương nói không lo lỗ vốn](https://laodong.vn/kinh-doanh/gio-qua-tet-e-hang-tieu-thuong-noi-khong-lo-lo-von-1303027.ldo) - 04:43 12/02/2024
+- 🥸 [Phát huy vai trò bảo vệ, chăm lo đoàn viên, người lao động gắn với các khâu đột phá](https://laodong.vn/ldld-kien-giang/phat-huy-vai-tro-bao-ve-cham-lo-doan-vien-nguoi-lao-dong-gan-voi-cac-khau-dot-pha-1303410.ldo) - 04:41 12/02/2024
+- 🐻 [Ý nghĩa chiếc vòng đồng trong những dịp đặc biệt của người Ê Đê](https://laodong.vn/van-hoa-giai-tri/y-nghia-chiec-vong-dong-trong-nhung-dip-dac-biet-cua-nguoi-e-de-1301999.ldo) - 04:39 12/02/2024
+- 🪄 [Tước 69 giấy phép lái xe qua 4 ngày nghỉ Tết tại Quảng Ninh](https://laodong.vn/phap-luat/tuoc-69-giay-phep-lai-xe-qua-4-ngay-nghi-tet-tai-quang-ninh-1303413.ldo) - 04:34 12/02/2024
+- 🧑‍🏫 [Quyết liệt xử lý nồng độ cồn, có ngày phát hiện gần 4.000 tài xế vi phạm](https://laodong.vn/phap-luat/quyet-liet-xu-ly-nong-do-con-co-ngay-phat-hien-gan-4000-tai-xe-vi-pham-1303432.ldo) - 04:34 12/02/2024
+- 🌊 [Cầu vượt sông Ông Đốc khắc phục xong, dân qua lại du Xuân thuận lơi](https://laodong.vn/ban-doc/cau-vuot-song-ong-doc-khac-phuc-xong-dan-qua-lai-du-xuan-thuan-loi-1303429.ldo) - 04:28 12/02/2024
+- 💻 [Hàng ngàn người dâng hương, viếng mộ Đại tướng Võ Nguyên Giáp tại Vũng Chùa - Đảo Yến](https://laodong.vn/xa-hoi/hang-ngan-nguoi-dang-huong-vieng-mo-dai-tuong-vo-nguyen-giap-tai-vung-chua-dao-yen-1303411.ldo) - 04:27 12/02/2024
+- 👨‍🏫 [Giá vàng hôm nay 12.2: Chuyên gia lạc quan, có nên mua ngay?](https://laodong.vn/tien-te-dau-tu/gia-vang-hom-nay-122-chuyen-gia-lac-quan-co-nen-mua-ngay-1303418.ldo) - 04:16 12/02/2024
+- 🌈 [Chiêm ngưỡng ấn vàng Hoàng đế chi bảo trưng bày tại Bảo tàng ở Bắc Ninh](https://laodong.vn/photo/chiem-nguong-an-vang-hoang-de-chi-bao-trung-bay-tai-bao-tang-o-bac-ninh-1303404.ldo) - 04:12 12/02/2024
+- 🐲 [Phần Lan có tổng thống mới](https://laodong.vn/the-gioi/phan-lan-co-tong-thong-moi-1303435.ldo) - 04:06 12/02/2024
+- 🚀 [Nhu cầu nhà ở thực của người dân sẽ được tháo gỡ khó khăn như thế nào?](https://laodong.vn/kinh-doanh/nhu-cau-nha-o-thuc-cua-nguoi-dan-se-duoc-thao-go-kho-khan-nhu-the-nao-1303405.ldo) - 04:03 12/02/2024
+- 😺 [Kỉ lục gia marathon thế giới Kiptum tử nạn](https://laodong.vn/the-thao/ki-luc-gia-marathon-the-gioi-kiptum-tu-nan-1303419.ldo) - 04:00 12/02/2024
+- 🕴 [Công an đang điều tra vụ cô gái mất tích trước ngày về quê đón Tết](https://laodong.vn/phap-luat/cong-an-dang-dieu-tra-vu-co-gai-mat-tich-truoc-ngay-ve-que-don-tet-1303428.ldo) - 04:00 12/02/2024
+- 🌋 [Mùng 3 Tết thầy: Ngẫm về vị thế nhà giáo trong xã hội hiện đại](https://laodong.vn/video-xa-hoi/mung-3-tet-thay-ngam-ve-vi-the-nha-giao-trong-xa-hoi-hien-dai-1301461.ldo) - 04:00 12/02/2024
+- 💄 [Bình luận của ông Trump về Nga và NATO bị phản ứng dữ dội](https://laodong.vn/the-gioi/binh-luan-cua-ong-trump-ve-nga-va-nato-bi-phan-ung-du-doi-1303385.ldo) - 03:58 12/02/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
