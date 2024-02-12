@@ -252,7 +252,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- nld:START -->
 - 🐎 [Một đại úy công an bị nam thanh niên tông xe gãy chân](https://nld.com.vn/mot-dai-uy-cong-an-bi-nam-thanh-nien-tong-xe-gay-chan-196240212205746388.htm) - 14:20 12/02/2024
 - 😺 [Văn hóa chơi Cổ Nhơn – Trò chơi dân gian của người Bình Định](https://nld.com.vn/van-hoa-choi-co-nhon-tro-choi-dan-gian-cua-nguoi-binh-dinh-196240212203658004.htm) - 14:02 12/02/2024
-- 👍 [CLB Hoàng Anh Gia Lai đón tân binh đến từ TP HCM](https://nld.com.vn/clb-hoang-anh-gia-lai-don-tan-binh-den-tu-tp-hcm-196240212204654422.htm) - 13:56 12/02/2024
+- 👍 [CLB Hoàng Anh Gia Lai sẽ đón tân binh từ TP HCM](https://nld.com.vn/clb-hoang-anh-gia-lai-don-tan-binh-den-tu-tp-hcm-196240212204654422.htm) - 13:56 12/02/2024
 - 🥷 [Gương mặt Việt trên sàn diễn tuần lễ thời trang London](https://nld.com.vn/guong-mat-viet-tren-san-dien-tuan-le-thoi-trang-london-196240212203342867.htm) - 13:37 12/02/2024
 - 🤔 [Mặc sóng gió bủa vây, ông Trump phàn nàn Taylor Swift](https://nld.com.vn/mac-song-gio-bua-vay-ong-trump-phan-nan-taylor-swift-196240212183655448.htm) - 12:32 12/02/2024
 - 🌈 [Vụ 2 cô gái bị ôtô tông văng khỏi cầu tử vong: Kết quả nồng độ cồn của tài xế](https://nld.com.vn/vu-2-co-gai-bi-oto-tong-vang-khoi-cau-tu-vong-ket-qua-nong-do-con-cua-tai-xe-196240212190914027.htm) - 12:22 12/02/2024
