@@ -75,8 +75,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎓 [Dung nhan mỹ nhân &#39;Hoàng Phi Hồng&#39; gây chú ý](https://vnexpress.net/dung-nhan-my-nhan-hoang-phi-hong-gay-chu-y-4711030.html) - 02:34 12/02/2024
 - 💫 [Ngại khám bệnh ngày Tết, thiếu niên suýt hỏng tinh hoàn](https://vnexpress.net/ngai-kham-benh-ngay-tet-thieu-nien-suyt-hong-tinh-hoan-4711037.html) - 02:25 12/02/2024
 - 🤩 [Thế giới thể thao sốc khi Kiptum tử nạn](https://vnexpress.net/the-gioi-the-thao-soc-khi-kiptum-tu-nan-4711052.html) - 02:21 12/02/2024
-- 🏊 [Tài hội họa của mỹ nhân &#39;Ông trùm&#39;](https://vnexpress.net/tai-hoi-hoa-cua-my-nhan-ong-trum-4710921.html) - 02:00 12/02/2024
-- 💂 [Nếu hữu duyên, mình chung đôi trên đường đời em nhé](https://vnexpress.net/neu-huu-duyen-minh-chung-doi-tren-duong-doi-em-nhe-4710427.html) - 02:00 12/02/2024<!-- vnexpress:END -->
+- 🏊 [Tài hội họa của mỹ nhân &#39;Ông trùm&#39;](https://vnexpress.net/tai-hoi-hoa-cua-my-nhan-ong-trum-4710921.html) - 02:00 12/02/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
