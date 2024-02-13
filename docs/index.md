@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Nhập viện do không tuân thủ uống thuốc dịp Tết](https://vnexpress.net/nhap-vien-do-khong-tuan-thu-uong-thuoc-dip-tet-4711332.html) - 22:00 13/02/2024
+- 🚀 [Bỏ uống thuốc, virus viêm gan B bùng phát](https://vnexpress.net/bo-uong-thuoc-virus-viem-gan-b-bung-phat-4711332.html) - 22:00 13/02/2024
 - 🧰 [Quang Minh: Hối hận nhất là đón Tết xa cha mẹ](https://vnexpress.net/quang-minh-hoi-han-nhat-la-don-tet-xa-cha-me-4711070.html) - 21:00 13/02/2024
 - 🥰 [Biến tướng mại dâm núp bóng thuê người yêu](https://vnexpress.net/bien-tuong-mai-dam-nup-bong-thue-nguoi-yeu-4711140.html) - 21:00 13/02/2024
 - 🌏 [Range Rover độ mui trần chạy điện](https://vnexpress.net/range-rover-do-mui-tran-chay-dien-4710905.html) - 18:34 13/02/2024
