@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Ancelotti coi nhẹ bão chấn thương tại Real](https://vnexpress.net/ancelotti-coi-nhe-bao-chan-thuong-tai-real-4711235.html) - 02:55 13/02/2024
 - 🦩 [Guardiola muốn Haaland kiên nhẫn hơn](https://vnexpress.net/guardiola-muon-haaland-kien-nhan-hon-4711220.html) - 02:36 13/02/2024
 - 🧰 [Bố Kiptum kêu gọi điều tra về cái chết của con trai](https://vnexpress.net/bo-kiptum-keu-goi-dieu-tra-ve-cai-chet-cua-con-trai-4711217.html) - 01:58 13/02/2024
-- 🤗 [Juventus thua trận thứ hai liên tiếp](https://vnexpress.net/juventus-thua-tran-thu-hai-lien-tiep-4711195.html) - 00:54 13/02/2024
+- 🤗 [Juventus thua trận thứ hai liên tiếp ở Serie A](https://vnexpress.net/juventus-thua-tran-thu-hai-lien-tiep-o-serie-a-4711195.html) - 00:54 13/02/2024
 - 🥳 [Xavi đối mặt nguy cơ bị sa thải sớm](https://vnexpress.net/xavi-doi-mat-nguy-co-bi-sa-thai-som-4711188.html) - 00:46 13/02/2024
 - 🦣 [Chelsea thắng ngược ở phút bù Ngoại hạng Anh](https://vnexpress.net/chelsea-thang-nguoc-o-phut-bu-ngoai-hang-anh-4711189.html) - 00:34 13/02/2024
 - 🌜 [Chàng trai Pháp tìm hồn Việt qua bóng đá](https://vnexpress.net/chang-trai-phap-tim-hon-viet-qua-bong-da-4710999.html) - 23:52 12/02/2024
