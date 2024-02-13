@@ -74,7 +74,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧑‍🏫 [Ông Trump ủng hộ con dâu làm đồng chủ tịch ủy ban đảng Cộng hòa](https://vnexpress.net/ong-trump-ung-ho-con-dau-lam-dong-chu-tich-uy-ban-dang-cong-hoa-4711242.html) - 04:37 13/02/2024
 - 🎓 [Cây &#39;ước nguyện&#39; trăm tuổi ở TP HCM hút khách đầu năm](https://vnexpress.net/cay-uoc-nguyen-tram-tuoi-o-tp-hcm-hut-khach-dau-nam-4711157.html) - 04:09 13/02/2024
 - 💫 [Vụ án đầu tiên được phá nhờ công nghệ ADN](https://vnexpress.net/vu-an-dau-tien-duoc-pha-nho-cong-nghe-adn-4711172.html) - 04:00 13/02/2024
-- 🤩 [5 loại vaccine đắt nhất thế giới](https://vnexpress.net/5-loai-vaccine-dat-nhat-the-gioi-4709487.html) - 04:00 13/02/2024<!-- vnexpress:END -->
+- 🤩 [5 loại vaccine đắt nhất thế giới](https://vnexpress.net/5-loai-vaccine-dat-nhat-the-gioi-4709487.html) - 04:00 13/02/2024
+- 🏊 [Tom Cruise hẹn hò mỹ nhân kém 25 tuổi](https://vnexpress.net/tom-cruise-hen-ho-my-nhan-kem-25-tuoi-4711257.html) - 03:59 13/02/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
