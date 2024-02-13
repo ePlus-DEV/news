@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Nhập viện do không tuân thủ uống thuốc dịp Tết](https://vnexpress.net/nhap-vien-do-khong-tuan-thu-uong-thuoc-dip-tet-4711332.html) - 22:00 13/02/2024
+- 🔥 [Bỏ uống thuốc, virus viêm gan B bùng phát](https://vnexpress.net/bo-uong-thuoc-virus-viem-gan-b-bung-phat-4711332.html) - 22:00 13/02/2024
 - 🥰 [Nguy cơ tử vong vì ám ảnh việc tính calo](https://vnexpress.net/nguy-co-tu-vong-vi-am-anh-viec-tinh-calo-4711311.html) - 17:05 13/02/2024
 - 💡 [5 món đồ ăn, thức uống ngày Tết tăng nguy cơ ung thư](https://vnexpress.net/5-mon-do-an-thuc-uong-ngay-tet-tang-nguy-co-ung-thu-4709968.html) - 17:00 13/02/2024
 - 🤗 [Hơn 500 người cấp cứu do pháo nổ dịp Tết](https://vnexpress.net/hon-500-nguoi-cap-cuu-do-phao-no-dip-tet-4711329.html) - 15:12 13/02/2024
