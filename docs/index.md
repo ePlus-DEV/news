@@ -75,7 +75,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎓 [Ăn món hấp bia, ướp rượu có lên nồng độ cồn?](https://vnexpress.net/an-mon-hap-bia-uop-ruou-co-len-nong-do-con-4711201.html) - 07:00 13/02/2024
 - 💫 [Phòng ngừa viêm tụy cấp trong dịp Tết](https://vnexpress.net/phong-ngua-viem-tuy-cap-trong-dip-tet-4710660.html) - 07:00 13/02/2024
 - 🤩 [Giá thực phẩm ổn định đầu năm mới](https://vnexpress.net/gia-thuc-pham-on-dinh-dau-nam-moi-4711273.html) - 06:56 13/02/2024
-- 🏊 [Tàu đổ bộ thứ hai của Mỹ sẵn sàng bay tới Mặt Trăng](https://vnexpress.net/tau-do-bo-thu-hai-cua-my-san-sang-bay-toi-mat-trang-4711198.html) - 06:50 13/02/2024<!-- vnexpress:END -->
+- 🏊 [Tàu đổ bộ thứ hai của Mỹ sẵn sàng bay tới Mặt Trăng](https://vnexpress.net/tau-do-bo-thu-hai-cua-my-san-sang-bay-toi-mat-trang-4711198.html) - 06:50 13/02/2024
+- 💂 [Vịt quay Bắc Kinh - món ăn đắt khách ngày Tết ở Trung Quốc](https://vnexpress.net/vit-quay-bac-kinh-mon-an-dat-khach-ngay-tet-o-trung-quoc-4711261.html) - 06:09 13/02/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
