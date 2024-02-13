@@ -7,7 +7,7 @@ sidebar_position: 11
 - 💂 [Khách Việt nhộn nhịp sang Trung Quốc du lịch](https://vnexpress.net/khach-viet-nhon-nhip-sang-trung-quoc-du-lich-4711265.html) - 07:51 13/02/2024
 - 🪄 [Cây &#39;ước nguyện&#39; trăm tuổi ở TP HCM hút khách đầu năm](https://vnexpress.net/cay-uoc-nguyen-tram-tuoi-o-tp-hcm-hut-khach-dau-nam-4711157.html) - 04:09 13/02/2024
 - 🦅 [Dành 50 năm đi du lịch tất cả các quốc gia trên thế giới](https://vnexpress.net/danh-50-nam-di-du-lich-tat-ca-cac-quoc-gia-tren-the-gioi-4711090.html) - 23:09 12/02/2024
-- 🕴 [Du khách nườm nượp diện kiến điện Kiến Trung](https://vnexpress.net/du-khach-nuom-nuop-dien-kien-dien-kien-trung-4711124.html) - 17:00 12/02/2024
+- 🕴 [Du khách nườm nượp tham quan điện Kiến Trung](https://vnexpress.net/du-khach-nuom-nuop-tham-quan-dien-kien-trung-4711124.html) - 17:00 12/02/2024
 - 👀 [Hơn 20.000 khách Trung Quốc sang Móng Cái chơi Tết](https://vnexpress.net/hon-20-000-khach-trung-quoc-sang-mong-cai-choi-tet-4711133.html) - 12:50 12/02/2024
 - 🎭 [Đổ xô thăm vườn nho mẫu đơn 10.000 m2 ở Suối Tiên](https://vnexpress.net/do-xo-tham-vuon-nho-mau-don-10-000-m2-o-suoi-tien-4711084.html) - 12:09 12/02/2024
 - 🦒 [Nhiều điểm du lịch nhộn nhịp đón khách](https://vnexpress.net/nhieu-diem-du-lich-nhon-nhip-don-khach-4711115.html) - 10:37 12/02/2024
