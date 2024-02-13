@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cao tốc Dầu Giây - Phan Thiết ùn tắc 5 km sau tai nạn liên hoàn](https://vnexpress.net/cao-toc-dau-giay-phan-thiet-un-tac-5-km-sau-tai-nan-lien-hoan-4711325.html) - 13:37 13/02/2024
+- 🦒 [5 ôtô tông liên hoàn trên cao tốc Dầu Giây - Phan Thiết](https://vnexpress.net/5-oto-tong-lien-hoan-tren-cao-toc-dau-giay-phan-thiet-4711325.html) - 13:37 13/02/2024
 - 🤓 [Xe khách đâm vào thành cầu, một người chết](https://vnexpress.net/xe-khach-dam-vao-thanh-cau-mot-nguoi-chet-4711291.html) - 09:16 13/02/2024
 - ⚗️ [Thủ tướng: &#39;Phấn đấu hoàn thành sân bay Long Thành trước 6 tháng&#39;](https://vnexpress.net/thu-tuong-phan-dau-hoan-thanh-san-bay-long-thanh-truoc-6-thang-4711293.html) - 09:01 13/02/2024
 - 🌊 [Cây đổ đè cô gái tử vong](https://vnexpress.net/cay-do-de-co-gai-tu-vong-4711300.html) - 08:48 13/02/2024
