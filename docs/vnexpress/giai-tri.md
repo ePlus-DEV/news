@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Phim &#39;Mai&#39; đạt 100 tỷ đồng nhanh nhất lịch sử phim Việt](https://vnexpress.net/phim-mai-dat-100-ty-dong-nhanh-nhat-lich-su-phim-viet-4711194.html) - 02:33 13/02/2024
+- 🌏 [&#39;Mai&#39; của Trấn Thành đạt 100 tỷ đồng nhanh nhất lịch sử phim Việt](https://vnexpress.net/mai-cua-tran-thanh-dat-100-ty-dong-nhanh-nhat-lich-su-phim-viet-4711194.html) - 02:33 13/02/2024
 - 💫 [Cuộc sống vợ chồng son của &#39;tiên đồng ngọc nữ&#39; Thái Lan](https://vnexpress.net/cuoc-song-vo-chong-son-cua-tien-dong-ngoc-nu-thai-lan-4709981.html) - 01:56 13/02/2024
 - 🌮 [Cao Thái Sơn dành trọn ngày Tết bên con trai](https://vnexpress.net/cao-thai-son-danh-tron-ngay-tet-ben-con-trai-4710878.html) - 17:00 12/02/2024
 - 🧠 [Mỹ nhân Việt cùng con gái diện đồ đôi du xuân](https://vnexpress.net/my-nhan-viet-cung-con-gai-dien-do-doi-du-xuan-4711134.html) - 14:59 12/02/2024
