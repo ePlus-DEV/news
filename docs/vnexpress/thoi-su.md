@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Thủ tướng: &#39;Phấn đấu hoàn thành sân bay Long Thành trước 6 tháng&#39;](https://vnexpress.net/thu-tuong-phan-dau-hoan-thanh-san-bay-long-thanh-truoc-6-thang-4711293.html) - 09:01 13/02/2024
 - ⚗️ [Cây đổ đè cô gái tử vong](https://vnexpress.net/cay-do-de-co-gai-tu-vong-4711300.html) - 08:48 13/02/2024
 - 🌊 [Lễ rước pháo khổng lồ làng Đồng Kỵ](https://vnexpress.net/le-ruoc-phao-khong-lo-lang-dong-ky-4711281.html) - 07:29 13/02/2024
-- 🎓 [Người dân ùn ùn trở lại Hà Nội sau kỳ nghỉ Tết](https://vnexpress.net/nguoi-dan-un-un-tro-lai-ha-noi-sau-ky-nghi-tet-4711275.html) - 07:12 13/02/2024
+- 🎓 [Người dân ùn ùn trở lại Hà Nội, TP HCM sau kỳ nghỉ Tết](https://vnexpress.net/nguoi-dan-un-un-tro-lai-ha-noi-tp-hcm-sau-ky-nghi-tet-4711275.html) - 07:12 13/02/2024
 - 🔥 [Tổng bí thư dâng hương tại Hoàng thành Thăng Long](https://vnexpress.net/tong-bi-thu-dang-huong-tai-hoang-thanh-thang-long-4711274.html) - 05:59 13/02/2024
 - 🦏 [Miền Bắc đón không khí lạnh yếu](https://vnexpress.net/mien-bac-don-khong-khi-lanh-yeu-4711232.html) - 03:00 13/02/2024
 - 👺 [Chùa cổ nằm chênh vênh trên núi đá ở Hà Nội](https://vnexpress.net/chua-co-nam-chenh-venh-tren-nui-da-o-ha-noi-4708343.html) - 02:00 13/02/2024
