@@ -219,7 +219,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🔥 [Tăng các phiên giao dịch việc làm trực tuyến hỗ trợ người lao động tìm việc](https://laodong.vn/viec-lam/tang-cac-phien-giao-dich-viec-lam-truc-tuyen-ho-tro-nguoi-lao-dong-tim-viec-1301356.ldo) - 23:00 13/02/2024
 - 🦒 [Thể thao Việt Nam tại Olympic 2024, nhiều suất nhưng liệu có huy chương?](https://laodong.vn/the-thao/the-thao-viet-nam-tai-olympic-2024-nhieu-suat-nhung-lieu-co-huy-chuong-1301357.ldo) - 23:00 13/02/2024
 - 💼 [Chuyện quanh cá gỗ xứ Nghệ](https://laodong.vn/van-hoa/chuyen-quanh-ca-go-xu-nghe-1302018.ldo) - 23:00 13/02/2024
-- 🤖 [Công nghệ đã thay đổi Tết như thế nào](https://laodong.vn/cong-nghe/cong-nghe-da-thay-doi-tet-nhu-the-nao-1302293.ldo) - 23:00 13/02/2024
+- 🤖 [Công nghệ đã thay đổi Tết như thế nào?](https://laodong.vn/cong-nghe/cong-nghe-da-thay-doi-tet-nhu-the-nao-1302293.ldo) - 23:00 13/02/2024
 - 💪 [Chuyện bếp núc báo chí ở Đại hội Công đoàn](https://laodong.vn/cong-doan/chuyen-bep-nuc-bao-chi-o-dai-hoi-cong-doan-1302303.ldo) - 23:00 13/02/2024
 - 👍 [Cuộc sống khang trang của hàng nghìn hộ dân nhường đất xây sân bay Long Thành](https://laodong.vn/xa-hoi/cuoc-song-khang-trang-cua-hang-nghin-ho-dan-nhuong-dat-xay-san-bay-long-thanh-1302406.ldo) - 23:00 13/02/2024
 - 💂 [Hanbok Hàn Quốc, áo dài Huế và câu chuyện vinh danh nghệ nhân](https://laodong.vn/van-hoa/hanbok-han-quoc-ao-dai-hue-va-cau-chuyen-vinh-danh-nghe-nhan-1302721.ldo) - 23:00 13/02/2024
