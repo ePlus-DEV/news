@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [ĐH Kiến trúc TP HCM hạ điều kiện xét tuyển với học sinh chuyên](https://vnexpress.net/dh-kien-truc-tp-hcm-ha-dieu-kien-xet-tuyen-voi-hoc-sinh-chuyen-4711173.html) - 13:26 13/02/2024
-- 🦆 [Tỉnh nào có phường được đặt tên theo chữ số La Mã?](https://vnexpress.net/tinh-nao-co-phuong-duoc-dat-ten-theo-chu-so-la-ma-4708434.html) - 13:00 13/02/2024
+- 🦆 [Tỉnh duy nhất nào có phường được đặt tên theo chữ số La Mã?](https://vnexpress.net/tinh-duy-nhat-nao-co-phuong-duoc-dat-ten-theo-chu-so-la-ma-4708434.html) - 13:00 13/02/2024
 - 🦩 [Loạt trường tư ở Hà Nội tổ chức thi riêng để tuyển sinh lớp 10](https://vnexpress.net/loat-truong-tu-o-ha-noi-to-chuc-thi-rieng-de-tuyen-sinh-lop-10-4708985.html) - 05:00 13/02/2024
 - 🌮 [Đại học Y tế công cộng xét tuyển học bạ từ tháng 4](https://vnexpress.net/dai-hoc-y-te-cong-cong-xet-tuyen-hoc-ba-tu-thang-4-4711169.html) - 03:38 13/02/2024
 - 🔭 [Học sinh lớp 10 làm trà lá ổi kiểu mới](https://vnexpress.net/hoc-sinh-lop-10-lam-tra-la-oi-kieu-moi-4710233.html) - 00:04 13/02/2024
@@ -63,4 +63,4 @@ sidebar_position: 7
 - 👍 [Nên chuyển từ ngành Khoa học máy tính sang Kinh tế không?](https://vnexpress.net/nen-chuyen-tu-nganh-khoa-hoc-may-tinh-sang-kinh-te-khong-4708424.html) - 01:32 04/02/2024
 - 🌈 [Giành học bổng thạc sĩ toàn phần nhờ email gửi hiệu trưởng](https://vnexpress.net/gianh-hoc-bong-thac-si-toan-phan-nho-email-gui-hieu-truong-4703308.html) - 01:20 04/02/2024
 - 🕴 [Thành nữ sinh giỏi ở Bách khoa sau khi trượt nguyện vọng 1](https://vnexpress.net/thanh-nu-sinh-gioi-o-bach-khoa-sau-khi-truot-nguyen-vong-1-4708081.html) - 00:46 04/02/2024
-- 🧰 [Nữ sinh đánh bạn chảy máu mặt bị đình chỉ học 6 ngày](https://vnexpress.net/nu-sinh-danh-ban-chay-mau-mat-bi-dinh-chi-hoc-6-ngay-4708428.html) - 11:27 03/02/2024<!-- vnexpress-giao-duc:END -->
+- 🧰 [Bánh chưng gù là đặc sản ở tỉnh nào?](https://vnexpress.net/banh-chung-gu-la-dac-san-o-tinh-nao-4708414.html) - 13:00 03/02/2024<!-- vnexpress-giao-duc:END -->
