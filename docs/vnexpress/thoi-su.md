@@ -4,63 +4,63 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Ông tổ dưỡng sinh học Đào Công Chính](https://vnexpress.net/ong-to-duong-sinh-hoc-dao-cong-chinh-4710353.html) - 23:00 13/02/2024
-- 🤓 [&#39;TP HCM cần được phân quyền tối đa để thực hiện cơ chế đặc thù&#39;](https://vnexpress.net/tp-hcm-can-duoc-phan-quyen-toi-da-de-thuc-hien-co-che-dac-thu-4708730.html) - 23:00 13/02/2024
-- ⚗️ [Bộ trưởng Nguyễn Kim Sơn: Đào tạo nhân lực bán dẫn - thách thức lớn, cơ hội nhiều](https://vnexpress.net/bo-truong-nguyen-kim-son-dao-tao-nhan-luc-ban-dan-thach-thuc-lon-co-hoi-nhieu-4710941.html) - 22:00 13/02/2024
-- 🌊 [Nguồn gốc cam &#39;tiến vua&#39; Xã Đoài](https://vnexpress.net/nguon-goc-cam-tien-vua-xa-doai-4708305.html) - 17:00 13/02/2024
-- 🎓 [5 ôtô tông liên hoàn trên cao tốc Dầu Giây - Phan Thiết](https://vnexpress.net/5-oto-tong-lien-hoan-tren-cao-toc-dau-giay-phan-thiet-4711325.html) - 13:37 13/02/2024
-- 🔥 [Xe khách đâm vào thành cầu, một người chết](https://vnexpress.net/xe-khach-dam-vao-thanh-cau-mot-nguoi-chet-4711291.html) - 09:16 13/02/2024
-- 🦏 [Thủ tướng: &#39;Phấn đấu hoàn thành sân bay Long Thành trước 6 tháng&#39;](https://vnexpress.net/thu-tuong-phan-dau-hoan-thanh-san-bay-long-thanh-truoc-6-thang-4711293.html) - 09:01 13/02/2024
-- 👺 [Cây đổ đè cô gái tử vong](https://vnexpress.net/cay-do-de-co-gai-tu-vong-4711300.html) - 08:48 13/02/2024
-- 🧑‍🏫 [Lễ rước pháo khổng lồ làng Đồng Kỵ](https://vnexpress.net/le-ruoc-phao-khong-lo-lang-dong-ky-4711281.html) - 07:29 13/02/2024
-- 🚦 [Người dân ùn ùn trở lại Hà Nội, TP HCM sau kỳ nghỉ Tết](https://vnexpress.net/nguoi-dan-un-un-tro-lai-ha-noi-tp-hcm-sau-ky-nghi-tet-4711275.html) - 07:12 13/02/2024
-- 🎉 [Tổng bí thư dâng hương tại Hoàng thành Thăng Long](https://vnexpress.net/tong-bi-thu-dang-huong-tai-hoang-thanh-thang-long-4711274.html) - 05:59 13/02/2024
-- 🦒 [Miền Bắc đón không khí lạnh yếu](https://vnexpress.net/mien-bac-don-khong-khi-lanh-yeu-4711232.html) - 03:00 13/02/2024
-- 🤗 [Chùa cổ nằm chênh vênh trên núi đá ở Hà Nội](https://vnexpress.net/chua-co-nam-chenh-venh-tren-nui-da-o-ha-noi-4708343.html) - 02:00 13/02/2024
-- 💼 [Báu vật nghìn năm ở làng Trung Lập](https://vnexpress.net/bau-vat-nghin-nam-o-lang-trung-lap-4708830.html) - 23:00 12/02/2024
-- 🤩 [Băng rừng săn ong &#39;mặt quỷ&#39;](https://vnexpress.net/co-gai-bang-rung-san-ong-vo-ve-4704675.html) - 23:00 12/02/2024
-- 🤡 [Bộ trưởng Lê Minh Hoan: &#39;Nông dân đừng tự hào mãi vào kinh nghiệm của mình&#39;](https://vnexpress.net/bo-truong-le-minh-hoan-nong-dan-dung-tu-hao-mai-vao-kinh-nghiem-cua-minh-4710467.html) - 22:00 12/02/2024
-- 💯 [Bí mật hơn 100 năm trong tráp gỗ](https://vnexpress.net/bi-mat-hon-100-nam-trong-trap-go-4708304.html) - 17:00 12/02/2024
-- 👺 [Lửa bao trùm tàu đậu ở biển Mũi Né](https://vnexpress.net/lua-bao-trum-tau-dau-o-bien-mui-ne-4711158.html) - 15:22 12/02/2024
-- 🌮 [Xe máy tông đổ cổng làng rồi bốc cháy, một người chết](https://vnexpress.net/xe-may-tong-do-cong-lang-roi-boc-chay-mot-nguoi-chet-4711144.html) - 13:14 12/02/2024
-- 🥸 [Hai cô gái bị ôtô tông văng khỏi cầu vượt](https://vnexpress.net/hai-co-gai-bi-oto-tong-vang-khoi-cau-vuot-4711137.html) - 11:55 12/02/2024
-- 🐻 [Thủ tướng: Không kéo dài tiến độ đường sắt Nhổn - ga Hà Nội](https://vnexpress.net/thu-tuong-khong-keo-dai-tien-do-duong-sat-nhon-ga-ha-noi-4711117.html) - 09:40 12/02/2024
-- 👀 [Hiện trạng cao tốc gần 12.000 tỷ đồng qua khu kinh tế Vân Phong](https://vnexpress.net/hien-trang-cao-toc-gan-12-000-ty-dong-qua-khu-kinh-te-van-phong-4708662.html) - 09:18 12/02/2024
-- 🤔 [Cháy xưởng tái chế nhựa](https://vnexpress.net/chay-xuong-tai-che-nhua-4711101.html) - 08:22 12/02/2024
-- 🕯 [Chè kho Đại Đồng, đặc sản trong tiệc trà của Tổng bí thư](https://vnexpress.net/che-kho-dai-dong-dac-san-trong-tiec-tra-cua-tong-bi-thu-4710987.html) - 03:35 12/02/2024
-- 😺 [Những chủ vịt ăn Tết ngoài đồng](https://vnexpress.net/nhung-chu-vit-an-tet-ngoai-dong-4710004.html) - 03:00 12/02/2024
-- 🦆 [Ngôi chùa lưu giữ kho cổ vật](https://vnexpress.net/ngoi-chua-luu-giu-kho-co-vat-4708082.html) - 02:00 12/02/2024
+- 🦒 [Phiên chợ Âm Dương trong đêm ở Bắc Ninh](https://vnexpress.net/phien-cho-am-duong-trong-dem-o-bac-ninh-4711348.html) - 01:27 14/02/2024
+- 🤓 [Viết kinh bằng chữ Khmer cổ trên lá](https://vnexpress.net/viet-kinh-bang-chu-khmer-co-tren-la-4708598.html) - 01:00 14/02/2024
+- ⚗️ [Ông tổ dưỡng sinh học Đào Công Chính](https://vnexpress.net/ong-to-duong-sinh-hoc-dao-cong-chinh-4710353.html) - 23:00 13/02/2024
+- 🌊 [&#39;TP HCM cần được phân quyền tối đa để thực hiện cơ chế đặc thù&#39;](https://vnexpress.net/tp-hcm-can-duoc-phan-quyen-toi-da-de-thuc-hien-co-che-dac-thu-4708730.html) - 23:00 13/02/2024
+- 🎓 [Bộ trưởng Nguyễn Kim Sơn: Đào tạo nhân lực bán dẫn - thách thức lớn, cơ hội nhiều](https://vnexpress.net/bo-truong-nguyen-kim-son-dao-tao-nhan-luc-ban-dan-thach-thuc-lon-co-hoi-nhieu-4710941.html) - 22:00 13/02/2024
+- 🔥 [Nguồn gốc cam &#39;tiến vua&#39; Xã Đoài](https://vnexpress.net/nguon-goc-cam-tien-vua-xa-doai-4708305.html) - 17:00 13/02/2024
+- 🦏 [5 ôtô tông liên hoàn trên cao tốc Dầu Giây - Phan Thiết](https://vnexpress.net/5-oto-tong-lien-hoan-tren-cao-toc-dau-giay-phan-thiet-4711325.html) - 13:37 13/02/2024
+- 👺 [Xe khách đâm vào thành cầu, một người chết](https://vnexpress.net/xe-khach-dam-vao-thanh-cau-mot-nguoi-chet-4711291.html) - 09:16 13/02/2024
+- 🧑‍🏫 [Thủ tướng: &#39;Phấn đấu hoàn thành sân bay Long Thành trước 6 tháng&#39;](https://vnexpress.net/thu-tuong-phan-dau-hoan-thanh-san-bay-long-thanh-truoc-6-thang-4711293.html) - 09:01 13/02/2024
+- 🚦 [Cây đổ đè cô gái tử vong](https://vnexpress.net/cay-do-de-co-gai-tu-vong-4711300.html) - 08:48 13/02/2024
+- 🎉 [Lễ rước pháo khổng lồ làng Đồng Kỵ](https://vnexpress.net/le-ruoc-phao-khong-lo-lang-dong-ky-4711281.html) - 07:29 13/02/2024
+- 🦒 [Người dân ùn ùn trở lại Hà Nội, TP HCM sau kỳ nghỉ Tết](https://vnexpress.net/nguoi-dan-un-un-tro-lai-ha-noi-tp-hcm-sau-ky-nghi-tet-4711275.html) - 07:12 13/02/2024
+- 🤗 [Tổng bí thư dâng hương tại Hoàng thành Thăng Long](https://vnexpress.net/tong-bi-thu-dang-huong-tai-hoang-thanh-thang-long-4711274.html) - 05:59 13/02/2024
+- 💼 [Miền Bắc đón không khí lạnh yếu](https://vnexpress.net/mien-bac-don-khong-khi-lanh-yeu-4711232.html) - 03:00 13/02/2024
+- 🤩 [Chùa cổ nằm chênh vênh trên núi đá ở Hà Nội](https://vnexpress.net/chua-co-nam-chenh-venh-tren-nui-da-o-ha-noi-4708343.html) - 02:00 13/02/2024
+- 🤡 [Báu vật nghìn năm ở làng Trung Lập](https://vnexpress.net/bau-vat-nghin-nam-o-lang-trung-lap-4708830.html) - 23:00 12/02/2024
+- 💯 [Băng rừng săn ong &#39;mặt quỷ&#39;](https://vnexpress.net/co-gai-bang-rung-san-ong-vo-ve-4704675.html) - 23:00 12/02/2024
+- 👺 [Bộ trưởng Lê Minh Hoan: &#39;Nông dân đừng tự hào mãi vào kinh nghiệm của mình&#39;](https://vnexpress.net/bo-truong-le-minh-hoan-nong-dan-dung-tu-hao-mai-vao-kinh-nghiem-cua-minh-4710467.html) - 22:00 12/02/2024
+- 🌮 [Bí mật hơn 100 năm trong tráp gỗ](https://vnexpress.net/bi-mat-hon-100-nam-trong-trap-go-4708304.html) - 17:00 12/02/2024
+- 🥸 [Lửa bao trùm tàu đậu ở biển Mũi Né](https://vnexpress.net/lua-bao-trum-tau-dau-o-bien-mui-ne-4711158.html) - 15:22 12/02/2024
+- 🐻 [Xe máy tông đổ cổng làng rồi bốc cháy, một người chết](https://vnexpress.net/xe-may-tong-do-cong-lang-roi-boc-chay-mot-nguoi-chet-4711144.html) - 13:14 12/02/2024
+- 👀 [Hai cô gái bị ôtô tông văng khỏi cầu vượt](https://vnexpress.net/hai-co-gai-bi-oto-tong-vang-khoi-cau-vuot-4711137.html) - 11:55 12/02/2024
+- 🤔 [Thủ tướng: Không kéo dài tiến độ đường sắt Nhổn - ga Hà Nội](https://vnexpress.net/thu-tuong-khong-keo-dai-tien-do-duong-sat-nhon-ga-ha-noi-4711117.html) - 09:40 12/02/2024
+- 🕯 [Hiện trạng cao tốc gần 12.000 tỷ đồng qua khu kinh tế Vân Phong](https://vnexpress.net/hien-trang-cao-toc-gan-12-000-ty-dong-qua-khu-kinh-te-van-phong-4708662.html) - 09:18 12/02/2024
+- 😺 [Cháy xưởng tái chế nhựa](https://vnexpress.net/chay-xuong-tai-che-nhua-4711101.html) - 08:22 12/02/2024
+- 🦆 [Chè kho Đại Đồng, đặc sản trong tiệc trà của Tổng bí thư](https://vnexpress.net/che-kho-dai-dong-dac-san-trong-tiec-tra-cua-tong-bi-thu-4710987.html) - 03:35 12/02/2024
+- 🧰 [Những chủ vịt ăn Tết ngoài đồng](https://vnexpress.net/nhung-chu-vit-an-tet-ngoai-dong-4710004.html) - 03:00 12/02/2024
+- 🦍 [Ngôi chùa lưu giữ kho cổ vật](https://vnexpress.net/ngoi-chua-luu-giu-kho-co-vat-4708082.html) - 02:00 12/02/2024
 - 🧰 [Vườn cao su cổ nhất Việt Nam](https://vnexpress.net/vuon-cao-su-co-nhat-viet-nam-4706907.html) - 01:08 12/02/2024
-- 🦍 [Bộ đội Việt Nam cứu hộ xe bị tấn công vũ trang ở châu Phi](https://vnexpress.net/bo-doi-viet-nam-cuu-ho-xe-bi-tan-cong-vu-trang-o-chau-phi-4698021.html) - 21:00 11/02/2024
+- 💃 [Bộ đội Việt Nam cứu hộ xe bị tấn công vũ trang ở châu Phi](https://vnexpress.net/bo-doi-viet-nam-cuu-ho-xe-bi-tan-cong-vu-trang-o-chau-phi-4698021.html) - 21:00 11/02/2024
 - 🧰 [Kinh đô nhà Hậu Lê bị lãng quên](https://vnexpress.net/kinh-do-nha-hau-le-bi-lang-quen-4706401.html) - 17:00 11/02/2024
-- 💃 [Thủ tướng yêu cầu liên thông cơ sở dữ liệu quốc gia về đất đai và dân cư](https://vnexpress.net/thu-tuong-yeu-cau-lien-thong-co-so-du-lieu-quoc-gia-ve-dat-dai-va-dan-cu-4710977.html) - 13:50 11/02/2024
-- 🧰 [Ngã ba Trung Lương rối loạn vì triều cường](https://vnexpress.net/nga-ba-trung-luong-roi-loan-vi-trieu-cuong-4710975.html) - 12:14 11/02/2024
-- 🚀 [Ngư dân Phan Thiết đua thuyền mừng xuân](https://vnexpress.net/ngu-dan-phan-thiet-dua-thuyen-mung-xuan-4710956.html) - 10:46 11/02/2024
-- 🎊 [Ngôi nhà Đức - công trình kiến trúc xanh chuẩn quốc tế đầu tiên ở Việt Nam](https://vnexpress.net/ngoi-nha-duc-cong-trinh-kien-truc-xanh-chuan-quoc-te-dau-tien-o-viet-nam-4700978.html) - 09:46 11/02/2024
-- 🤭 [Hành khách được tặng hoa, nghe nhạc trên chuyến bay đầu năm](https://vnexpress.net/hanh-khach-duoc-tang-hoa-nghe-nhac-tren-chuyen-bay-dau-nam-4710926.html) - 09:40 11/02/2024
-- 🤗 [Phương tiện đăng kiểm có thể ùn ứ sau Tết](https://vnexpress.net/phuong-tien-dang-kiem-co-the-un-u-sau-tet-4710902.html) - 09:34 11/02/2024
-- 🌈 [Nỗ lực vượt nghịch cảnh của đại uý lìa 2 chân khi bắt cát tặc](https://vnexpress.net/no-luc-vuot-nghich-canh-cua-dai-uy-lia-2-chan-khi-bat-cat-tac-4710128.html) - 02:00 11/02/2024
-- 🦣 [Những người giữ sáng đèn biển 125 tuổi trên đảo tiền tiêu](https://vnexpress.net/nhung-nguoi-giu-sang-den-bien-125-tuoi-tren-dao-tien-tieu-4710131.html) - 21:00 10/02/2024
-- 🎡 [Khởi nghiệp từ lò gạch cũ](https://vnexpress.net/khoi-nghiep-tu-lo-gach-cu-4706806.html) - 21:00 10/02/2024
-- 🦏 [&#39;Việt Nam sẽ là trung tâm công nghiệp văn hóa của Đông Nam Á&#39;](https://vnexpress.net/viet-nam-se-la-trung-tam-cong-nghiep-van-hoa-cua-dong-nam-a-4709096.html) - 17:00 10/02/2024
-- 🎊 [Chiếu phim lưu động ở buôn làng Tây Nguyên](https://vnexpress.net/chieu-phim-luu-dong-o-buon-lang-tay-nguyen-4707636.html) - 17:00 10/02/2024
-- 🫶 [Hành trình 5.500 dặm vượt Thái Bình Dương bằng bè luồng](https://vnexpress.net/hanh-trinh-5-500-dam-vuot-thai-binh-duong-bang-be-luong-4707267.html) - 17:00 10/02/2024
-- 🤔 [Người dân xếp hàng xin chữ đầu năm](https://vnexpress.net/nguoi-dan-xep-hang-xin-chu-dau-nam-4710766.html) - 09:37 10/02/2024
-- 🤠 [Giao thừa ở nhà giàn DK1](https://vnexpress.net/giao-thua-o-nha-gian-dk1-4707066.html) - 08:35 10/02/2024
-- 🌜 [Những cuộc tranh luận khi làm cầu Rồng](https://vnexpress.net/nhung-cuoc-tranh-luan-khi-lam-cau-rong-4706997.html) - 07:00 10/02/2024
-- 🕯 [Phủ Tây Hồ đông nghịt người đi lễ đầu năm mới](https://video.vnexpress.net/phu-tay-ho-dong-nghit-nguoi-di-le-dau-nam-moi-4710765.html) - 05:27 10/02/2024
-- 🤔 [Người Sài Gòn tấp nập lễ chùa đầu xuân](https://vnexpress.net/nguoi-sai-gon-tap-nap-le-chua-dau-xuan-4710751.html) - 04:25 10/02/2024
-- 🏊 [Hà Nội, TP HCM vắng vẻ sáng mùng 1 Tết](https://vnexpress.net/ha-noi-tp-hcm-vang-ve-sang-mung-1-tet-4710738.html) - 04:00 10/02/2024
-- 🌮 [Tết nhớ quê của lao động Việt ở nước ngoài](https://vnexpress.net/tet-nho-que-cua-lao-dong-viet-o-nuoc-ngoai-4709649.html) - 03:00 10/02/2024
-- 🫣 [Bộ đội Việt Nam dựng cây nêu 20 m đón Tết tại châu Phi](https://vnexpress.net/bo-doi-viet-nam-dung-cay-neu-20-m-don-tet-tai-chau-phi-4710729.html) - 02:58 10/02/2024
-- ⚗️ [Bảo vật chạm khắc hàng trăm con rồng ở Bắc Ninh](https://vnexpress.net/bao-vat-cham-khac-hang-tram-con-rong-o-bac-ninh-4708760.html) - 02:00 10/02/2024
-- 🌜 [3 cây cầu kỳ vọng tạo điểm nhấn kiến trúc cho TP HCM](https://vnexpress.net/3-cay-cau-ky-vong-tao-diem-nhan-kien-truc-cho-tp-hcm-4710110.html) - 23:00 09/02/2024
-- 🌁 [Kỳ vọng năm mới của người dân đêm giao thừa](https://video.vnexpress.net/ky-vong-nam-moi-cua-nguoi-dan-dem-giao-thua-4710710.html) - 20:01 09/02/2024
-- 🐲 [Biển người xem 2.024 drone trình diễn đêm giao thừa](https://video.vnexpress.net/bien-nguoi-xem-2-024-drone-trinh-dien-dem-giao-thua-4710709.html) - 19:29 09/02/2024
-- ⛽️ [Pháo hoa rực sáng cả nước chào xuân Giáp Thìn](https://vnexpress.net/phao-hoa-ruc-sang-ca-nuoc-chao-xuan-giap-thin-4710708.html) - 18:36 09/02/2024
-- 🗽 [Chuyến tàu cuối năm rời ga Hà Nội](https://vnexpress.net/chuyen-tau-cuoi-nam-roi-ga-ha-noi-4710705.html) - 18:31 09/02/2024
-- 🔥 [Người Việt duy nhất vượt Thái Bình Dương bằng bè luồng](https://vnexpress.net/nguoi-viet-duy-nhat-vuot-thai-binh-duong-bang-be-luong-4706052.html) - 17:00 09/02/2024
-- 💯 [Ông Vương Đình Huệ: &#39;Liên tục sàng lọc, bổ sung quy hoạch đại biểu Quốc hội khóa mới&#39;](https://vnexpress.net/ong-vuong-dinh-hue-lien-tuc-sang-loc-bo-sung-quy-hoach-dai-bieu-quoc-hoi-khoa-moi-4699510.html) - 17:00 09/02/2024
-- 🦆 [Đà Nẵng bác tin CSGT &#39;không kiểm tra nồng độ cồn dịp Tết&#39;](https://vnexpress.net/da-nang-bac-tin-csgt-khong-kiem-tra-nong-do-con-dip-tet-4710696.html) - 16:48 09/02/2024
-- 🫣 [Tài xế xe biển xanh đón con gái lãnh đạo bị phạt 2,5 triệu đồng](https://vnexpress.net/tai-xe-xe-bien-xanh-don-con-gai-lanh-dao-bi-phat-2-5-trieu-dong-4710644.html) - 13:09 09/02/2024
-- 🤡 [Chào xuân Giáp Thìn](https://vnexpress.net/chao-xuan-giap-thin-4710602.html) - 13:00 09/02/2024<!-- vnexpress-thoi-su:END -->
+- 🚀 [Thủ tướng yêu cầu liên thông cơ sở dữ liệu quốc gia về đất đai và dân cư](https://vnexpress.net/thu-tuong-yeu-cau-lien-thong-co-so-du-lieu-quoc-gia-ve-dat-dai-va-dan-cu-4710977.html) - 13:50 11/02/2024
+- 🎊 [Ngã ba Trung Lương rối loạn vì triều cường](https://vnexpress.net/nga-ba-trung-luong-roi-loan-vi-trieu-cuong-4710975.html) - 12:14 11/02/2024
+- 🤭 [Ngư dân Phan Thiết đua thuyền mừng xuân](https://vnexpress.net/ngu-dan-phan-thiet-dua-thuyen-mung-xuan-4710956.html) - 10:46 11/02/2024
+- 🤗 [Ngôi nhà Đức - công trình kiến trúc xanh chuẩn quốc tế đầu tiên ở Việt Nam](https://vnexpress.net/ngoi-nha-duc-cong-trinh-kien-truc-xanh-chuan-quoc-te-dau-tien-o-viet-nam-4700978.html) - 09:46 11/02/2024
+- 🌈 [Hành khách được tặng hoa, nghe nhạc trên chuyến bay đầu năm](https://vnexpress.net/hanh-khach-duoc-tang-hoa-nghe-nhac-tren-chuyen-bay-dau-nam-4710926.html) - 09:40 11/02/2024
+- 🦣 [Phương tiện đăng kiểm có thể ùn ứ sau Tết](https://vnexpress.net/phuong-tien-dang-kiem-co-the-un-u-sau-tet-4710902.html) - 09:34 11/02/2024
+- 🎡 [Nỗ lực vượt nghịch cảnh của đại uý lìa 2 chân khi bắt cát tặc](https://vnexpress.net/no-luc-vuot-nghich-canh-cua-dai-uy-lia-2-chan-khi-bat-cat-tac-4710128.html) - 02:00 11/02/2024
+- 🦏 [Những người giữ sáng đèn biển 125 tuổi trên đảo tiền tiêu](https://vnexpress.net/nhung-nguoi-giu-sang-den-bien-125-tuoi-tren-dao-tien-tieu-4710131.html) - 21:00 10/02/2024
+- 🎊 [Khởi nghiệp từ lò gạch cũ](https://vnexpress.net/khoi-nghiep-tu-lo-gach-cu-4706806.html) - 21:00 10/02/2024
+- 🫶 [&#39;Việt Nam sẽ là trung tâm công nghiệp văn hóa của Đông Nam Á&#39;](https://vnexpress.net/viet-nam-se-la-trung-tam-cong-nghiep-van-hoa-cua-dong-nam-a-4709096.html) - 17:00 10/02/2024
+- 🤔 [Chiếu phim lưu động ở buôn làng Tây Nguyên](https://vnexpress.net/chieu-phim-luu-dong-o-buon-lang-tay-nguyen-4707636.html) - 17:00 10/02/2024
+- 🤠 [Hành trình 5.500 dặm vượt Thái Bình Dương bằng bè luồng](https://vnexpress.net/hanh-trinh-5-500-dam-vuot-thai-binh-duong-bang-be-luong-4707267.html) - 17:00 10/02/2024
+- 🌜 [Người dân xếp hàng xin chữ đầu năm](https://vnexpress.net/nguoi-dan-xep-hang-xin-chu-dau-nam-4710766.html) - 09:37 10/02/2024
+- 🕯 [Giao thừa ở nhà giàn DK1](https://vnexpress.net/giao-thua-o-nha-gian-dk1-4707066.html) - 08:35 10/02/2024
+- 🤔 [Những cuộc tranh luận khi làm cầu Rồng](https://vnexpress.net/nhung-cuoc-tranh-luan-khi-lam-cau-rong-4706997.html) - 07:00 10/02/2024
+- 🏊 [Phủ Tây Hồ đông nghịt người đi lễ đầu năm mới](https://video.vnexpress.net/phu-tay-ho-dong-nghit-nguoi-di-le-dau-nam-moi-4710765.html) - 05:27 10/02/2024
+- 🌮 [Người Sài Gòn tấp nập lễ chùa đầu xuân](https://vnexpress.net/nguoi-sai-gon-tap-nap-le-chua-dau-xuan-4710751.html) - 04:25 10/02/2024
+- 🫣 [Hà Nội, TP HCM vắng vẻ sáng mùng 1 Tết](https://vnexpress.net/ha-noi-tp-hcm-vang-ve-sang-mung-1-tet-4710738.html) - 04:00 10/02/2024
+- ⚗️ [Tết nhớ quê của lao động Việt ở nước ngoài](https://vnexpress.net/tet-nho-que-cua-lao-dong-viet-o-nuoc-ngoai-4709649.html) - 03:00 10/02/2024
+- 🌜 [Bộ đội Việt Nam dựng cây nêu 20 m đón Tết tại châu Phi](https://vnexpress.net/bo-doi-viet-nam-dung-cay-neu-20-m-don-tet-tai-chau-phi-4710729.html) - 02:58 10/02/2024
+- 🌁 [Bảo vật chạm khắc hàng trăm con rồng ở Bắc Ninh](https://vnexpress.net/bao-vat-cham-khac-hang-tram-con-rong-o-bac-ninh-4708760.html) - 02:00 10/02/2024
+- 🐲 [3 cây cầu kỳ vọng tạo điểm nhấn kiến trúc cho TP HCM](https://vnexpress.net/3-cay-cau-ky-vong-tao-diem-nhan-kien-truc-cho-tp-hcm-4710110.html) - 23:00 09/02/2024
+- ⛽️ [Kỳ vọng năm mới của người dân đêm giao thừa](https://video.vnexpress.net/ky-vong-nam-moi-cua-nguoi-dan-dem-giao-thua-4710710.html) - 20:01 09/02/2024
+- 🗽 [Biển người xem 2.024 drone trình diễn đêm giao thừa](https://video.vnexpress.net/bien-nguoi-xem-2-024-drone-trinh-dien-dem-giao-thua-4710709.html) - 19:29 09/02/2024
+- 🔥 [Pháo hoa rực sáng cả nước chào xuân Giáp Thìn](https://vnexpress.net/phao-hoa-ruc-sang-ca-nuoc-chao-xuan-giap-thin-4710708.html) - 18:36 09/02/2024
+- 💯 [Chuyến tàu cuối năm rời ga Hà Nội](https://vnexpress.net/chuyen-tau-cuoi-nam-roi-ga-ha-noi-4710705.html) - 18:31 09/02/2024
+- 🦆 [Người Việt duy nhất vượt Thái Bình Dương bằng bè luồng](https://vnexpress.net/nguoi-viet-duy-nhat-vuot-thai-binh-duong-bang-be-luong-4706052.html) - 17:00 09/02/2024
+- 🫣 [Ông Vương Đình Huệ: &#39;Liên tục sàng lọc, bổ sung quy hoạch đại biểu Quốc hội khóa mới&#39;](https://vnexpress.net/ong-vuong-dinh-hue-lien-tuc-sang-loc-bo-sung-quy-hoach-dai-bieu-quoc-hoi-khoa-moi-4699510.html) - 17:00 09/02/2024
+- 🤡 [Đà Nẵng bác tin CSGT &#39;không kiểm tra nồng độ cồn dịp Tết&#39;](https://vnexpress.net/da-nang-bac-tin-csgt-khong-kiem-tra-nong-do-con-dip-tet-4710696.html) - 16:48 09/02/2024<!-- vnexpress-thoi-su:END -->
