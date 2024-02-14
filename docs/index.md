@@ -395,7 +395,7 @@ Hành động ngay để không chậm chân!](https://nld.com.vn/dien-dan-de-th
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
 - 💻 [Thủ tướng chỉ thị đảm bảo cung ứng điện, cung cấp than, khí cho sản xuất điện](https://baochinhphu.vn/thu-tuong-chi-thi-dam-bao-cung-ung-dien-cung-cap-than-khi-cho-san-xuat-dien-102240214185734098.htm) - 18:28 14/02/2024
-- 🌜 [Tập trung nghiên cứu các giải pháp trọng tâm, trọng điểm, thúc đẩy mạnh mẽ cho đầu tư phát triển 19 tập đoàn, tổng công ty](https://baochinhphu.vn/tap-trung-nghien-cuu-cac-giai-phap-trong-tam-trong-diem-thuc-day-manh-me-cho-dau-tu-phat-trien-19-tap-doan-tong-cong-ty-102240214190425964.htm) - 18:04 14/02/2024
+- 🌜 [Tập trung nghiên cứu các giải pháp trọng tâm, thúc đẩy mạnh mẽ đầu tư phát triển 19 tập đoàn, tổng công ty](https://baochinhphu.vn/tap-trung-nghien-cuu-cac-giai-phap-trong-tam-trong-diem-thuc-day-manh-me-cho-dau-tu-phat-trien-19-tap-doan-tong-cong-ty-102240214190425964.htm) - 18:04 14/02/2024
 - 🦆 [Xử lý 29.000 &#39;ma men&#39;, phạt hơn 182 tỷ đồng](https://baochinhphu.vn/xu-ly-29000-ma-men-phat-hon-182-ty-dong-102240214160748979.htm) - 16:07 14/02/2024
 - 🌝 [Đi tìm lời giải cho công nghiệp văn hoá Hà Nội](https://baochinhphu.vn/di-tim-loi-giai-cho-cong-nghiep-van-hoa-ha-noi-102240214154742421.htm) - 15:55 14/02/2024
 - 🦣 [Sáng mãi hình ảnh người phụ nữ Việt Nam anh hùng](https://baochinhphu.vn/sang-mai-hinh-anh-nguoi-phu-nu-viet-nam-anh-hung-102240214125805454.htm) - 15:50 14/02/2024
