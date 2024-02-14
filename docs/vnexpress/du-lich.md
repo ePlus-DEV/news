@@ -14,7 +14,7 @@ sidebar_position: 11
 - 👨‍🏫 [Bãi tắm Vũng Tàu đông nghịt người dù biển động](https://vnexpress.net/bai-tam-vung-tau-dong-nghit-nguoi-du-bien-dong-4711316.html) - 17:09 13/02/2024
 - ⚗️ [Gần 300 khách Đài Loan bị bỏ rơi ở Phú Quốc](https://vnexpress.net/gan-300-khach-dai-loan-bi-bo-roi-o-phu-quoc-4711314.html) - 12:13 13/02/2024
 - 🥸 [Hàng loạt điểm du lịch chật kín khách du xuân](https://vnexpress.net/hang-loat-diem-du-lich-chat-kin-khach-du-xuan-4711308.html) - 11:51 13/02/2024
-- 🤠 [Hội xuân mở cổng trời Fansifan hút khách đầu năm](https://vnexpress.net/hoi-xuan-mo-cong-troi-fansifan-hut-khach-dau-nam-4711278.html) - 11:00 13/02/2024
+- 🤠 [Hội xuân mở cổng trời Fansipan hút khách đầu năm](https://vnexpress.net/hoi-xuan-mo-cong-troi-fansipan-hut-khach-dau-nam-4711278.html) - 11:00 13/02/2024
 - 🚀 [Khách Việt nhộn nhịp sang Trung Quốc du lịch](https://vnexpress.net/khach-viet-nhon-nhip-sang-trung-quoc-du-lich-4711265.html) - 07:51 13/02/2024
 - 💻 [Cây &#39;ước nguyện&#39; trăm tuổi ở TP HCM hút khách đầu năm](https://vnexpress.net/cay-uoc-nguyen-tram-tuoi-o-tp-hcm-hut-khach-dau-nam-4711157.html) - 04:09 13/02/2024
 - 💼 [Dành 50 năm đi du lịch tất cả các quốc gia trên thế giới](https://vnexpress.net/danh-50-nam-di-du-lich-tat-ca-cac-quoc-gia-tren-the-gioi-4711090.html) - 23:09 12/02/2024
