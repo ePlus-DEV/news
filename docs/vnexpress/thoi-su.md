@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Phiên chợ Âm Dương trong đêm ở Bắc Ninh](https://vnexpress.net/phien-cho-am-duong-trong-dem-o-bac-ninh-4711348.html) - 01:27 14/02/2024
 - ⚗️ [Viết kinh bằng chữ Khmer cổ trên lá](https://vnexpress.net/viet-kinh-bang-chu-khmer-co-tren-la-4708598.html) - 01:00 14/02/2024
 - 🌊 [Ông tổ dưỡng sinh học Đào Công Chính](https://vnexpress.net/ong-to-duong-sinh-hoc-dao-cong-chinh-4710353.html) - 23:00 13/02/2024
-- 🎓 [&#39;TP HCM cần được phân quyền tối đa để thực hiện cơ chế đặc thù&#39;](https://vnexpress.net/tp-hcm-can-duoc-phan-quyen-toi-da-de-thuc-hien-co-che-dac-thu-4708730.html) - 23:00 13/02/2024
+- 🎓 [&#39;Được phân quyền TP HCM không phải lăn tăn xin chỗ nọ chỗ kia&#39;](https://vnexpress.net/duoc-phan-quyen-tp-hcm-khong-phai-lan-tan-xin-cho-no-cho-kia-4708730.html) - 23:00 13/02/2024
 - 🔥 [Bộ trưởng Nguyễn Kim Sơn: Đào tạo nhân lực bán dẫn - thách thức lớn, cơ hội nhiều](https://vnexpress.net/bo-truong-nguyen-kim-son-dao-tao-nhan-luc-ban-dan-thach-thuc-lon-co-hoi-nhieu-4710941.html) - 22:00 13/02/2024
 - 🦏 [Nguồn gốc cam &#39;tiến vua&#39; Xã Đoài](https://vnexpress.net/nguon-goc-cam-tien-vua-xa-doai-4708305.html) - 17:00 13/02/2024
 - 👺 [5 ôtô tông liên hoàn trên cao tốc Dầu Giây - Phan Thiết](https://vnexpress.net/5-oto-tong-lien-hoan-tren-cao-toc-dau-giay-phan-thiet-4711325.html) - 13:37 13/02/2024
