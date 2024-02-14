@@ -253,7 +253,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😺 [3 thiếu niên phải cắt tay do pháo nổ](https://nld.com.vn/3-thieu-nien-phai-cat-tay-do-phao-no-196240214094554933.htm) - 03:08 14/02/2024
 - 👍 [Mùng 5 Tết, giá vàng SJC, vàng nhẫn đồng loạt lao dốc](https://nld.com.vn/mung-5-tet-gia-vang-sjc-vang-nhan-dong-loat-lao-doc-196240214094701528.htm) - 03:01 14/02/2024
 - 🥷 [Ngày Valentine trong mắt vợ chồng nghệ sĩ Ngọc Giàu, Cẩm Vân, Lê Tứ](https://nld.com.vn/ngay-valentine-trong-mat-vo-chong-nghe-si-ngoc-giau-cam-van-le-tu-19624021408291029.htm) - 02:56 14/02/2024
-- 🤔 [Trải nghiệm khó quên từ tâm bão bang Victoria &lpar;Australia&rpar;](https://nld.com.vn/trai-nghiem-kho-quen-tu-tam-bao-bang-victoria-australia-19624021409503696.htm) - 02:50 14/02/2024
+- 🤔 [Trải nghiệm khó quên từ tâm bão bang Victoria - Úc](https://nld.com.vn/trai-nghiem-kho-quen-tu-tam-bao-bang-victoria-australia-19624021409503696.htm) - 02:50 14/02/2024
 - 🌈 [Phim Tết của đạo diễn Lê Hoàng rời đường đua](https://nld.com.vn/phim-tet-cua-dao-dien-le-hoang-roi-duong-dua-19624021409374482.htm) - 02:50 14/02/2024
 - 🔥 [BigDaddy - Emily tái xuất sau 5 năm gây bão với &quot;Mượn rượu tỏ tình&quot;](https://nld.com.vn/bigdaddy-emily-tai-xuat-sau-5-nam-gay-bao-voi-muon-ruou-to-tinh-196240214091232329.htm) - 02:46 14/02/2024
 - 🧰 [Cố vấn ông Trump &quot;thêm dầu vào lửa&quot; vụ NATO, Tổng thống Joe Biden đáp trả](https://nld.com.vn/co-van-ong-trump-them-dau-vao-lua-vu-nato-tong-thong-joe-biden-dap-tra-196240214085536807.htm) - 02:31 14/02/2024
