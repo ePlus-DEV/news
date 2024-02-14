@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [5 cách thay thế &#39;New&#39; trong IELTS Speaking](https://vnexpress.net/5-cach-thay-the-new-trong-ielts-speaking-4709952.html) - 17:00 14/02/2024
+- 🤓 [5 cách thay thế &#39;new&#39; trong IELTS Speaking](https://vnexpress.net/5-cach-thay-the-new-trong-ielts-speaking-4709952.html) - 17:00 14/02/2024
 - 🦆 [Ngành Cơ khí hàng không có khác Kỹ thuật hàng không?](https://vnexpress.net/nganh-co-khi-hang-khong-co-khac-ky-thuat-hang-khong-4711413.html) - 16:59 14/02/2024
 - 🦩 [Công chúa Việt Nam đầu tiên tốt nghiệp thạc sĩ ở nước ngoài là ai?](https://vnexpress.net/cong-chua-viet-nam-dau-tien-tot-nghiep-thac-si-o-nuoc-ngoai-la-ai-4709176.html) - 13:00 14/02/2024
 - 🌮 [Băn khoăn vì trót học ngành Ngôn ngữ Pháp](https://vnexpress.net/ban-khoan-vi-trot-hoc-nganh-ngon-ngu-phap-4709543.html) - 10:00 14/02/2024
