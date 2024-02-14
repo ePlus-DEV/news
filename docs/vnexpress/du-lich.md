@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Những bí ẩn ở &#39;làng địa ngục&#39;](https://video.vnexpress.net/nhung-bi-an-o-lang-dia-nguc-4692160.html) - 23:00 13/02/2024
+- 💂 [Những điều đặc biệt ở &#39;làng địa ngục&#39;](https://video.vnexpress.net/nhung-dieu-dac-biet-o-lang-dia-nguc-4692160.html) - 23:00 13/02/2024
 - 🪄 [Bãi tắm Vũng Tàu đông nghịt người dù biển động](https://vnexpress.net/bai-tam-vung-tau-dong-nghit-nguoi-du-bien-dong-4711316.html) - 17:09 13/02/2024
 - 🦅 [Gần 300 khách Đài Loan bị bỏ rơi ở Phú Quốc](https://vnexpress.net/gan-300-khach-dai-loan-bi-bo-roi-o-phu-quoc-4711314.html) - 12:13 13/02/2024
 - 🕴 [Hàng loạt điểm du lịch chật kín khách du xuân](https://vnexpress.net/hang-loat-diem-du-lich-chat-kin-khach-du-xuan-4711308.html) - 11:51 13/02/2024
