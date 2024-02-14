@@ -13,8 +13,8 @@ sidebar_position: 10
 - 🤭 [Suýt chết vì kiêng &#39;xông đất&#39; bệnh viện đầu năm](https://vnexpress.net/suyt-chet-vi-kieng-xong-dat-benh-vien-dau-nam-4711410.html) - 03:48 14/02/2024
 - 👀 [Bị thoái hóa khớp gối nên tập như thế nào](https://vnexpress.net/bi-thoai-hoa-khop-goi-nen-tap-nhu-the-nao-4705599.html) - 02:00 14/02/2024
 - 🌋 [Cách giảm vết tàn nhang trên da](https://vnexpress.net/cach-giam-vet-tan-nhang-tren-da-4710593.html) - 02:00 14/02/2024
-- 🫶 [Thai phụ có đi du lịch được không?](https://vnexpress.net/thai-phu-co-di-du-lich-duoc-khong-4710641.html) - 01:00 14/02/2024
-- 🦆 [Uống nhiều nước ngọt có tăng nguy cơ mắc bệnh tim mạch?](https://vnexpress.net/uong-nhieu-nuoc-ngot-co-tang-nguy-co-mac-benh-tim-mach-4710640.html) - 01:00 14/02/2024
+- 🫶 [Uống nhiều nước ngọt có tăng nguy cơ mắc bệnh tim mạch?](https://vnexpress.net/uong-nhieu-nuoc-ngot-co-tang-nguy-co-mac-benh-tim-mach-4710640.html) - 01:00 14/02/2024
+- 🦆 [Thai phụ có đi du lịch được không?](https://vnexpress.net/thai-phu-co-di-du-lich-duoc-khong-4710641.html) - 01:00 14/02/2024
 - 🚀 [Ăn lựu giúp hạ đường huyết](https://vnexpress.net/an-luu-giup-ha-duong-huyet-4708963.html) - 01:00 14/02/2024
 - 🌜 [Cắt amidan bao lâu có thể uống rượu bia?](https://vnexpress.net/cat-amidan-bao-lau-co-the-uong-ruou-bia-4709682.html) - 00:00 14/02/2024
 - 🧰 [7 món giúp no lâu, tránh ăn nhiều ngày Tết](https://vnexpress.net/7-mon-giup-no-lau-tranh-an-nhieu-ngay-tet-4709516.html) - 00:00 14/02/2024
@@ -39,8 +39,8 @@ sidebar_position: 10
 - 🦒 [Mẹ cho con bú có nên ăn bánh chưng, dưa kiệu?](https://vnexpress.net/me-cho-con-bu-co-nen-an-banh-chung-dua-kieu-4710560.html) - 22:00 12/02/2024
 - 💫 [Bị thoái hóa khớp nên ăn uống thế nào](https://vnexpress.net/bi-thoai-hoa-khop-nen-an-uong-the-nao-4705835.html) - 17:05 12/02/2024
 - 🐘 [6 loại hạt trong mâm cỗ ngày Tết tốt cho tim](https://vnexpress.net/6-loai-hat-trong-mam-co-ngay-tet-tot-cho-tim-4710302.html) - 17:00 12/02/2024
-- 🚀 [Tết đầu tiên có con của vợ chồng 13 năm hiếm muộn](https://vnexpress.net/tet-dau-tien-co-con-cua-vo-chong-13-nam-hiem-muon-4710222.html) - 17:00 12/02/2024
-- 🕯 [Các thói quen khiến trẻ ho nhiều ngày Tết](https://vnexpress.net/cac-thoi-quen-khien-tre-ho-nhieu-ngay-tet-4710191.html) - 17:00 12/02/2024
+- 🚀 [Các thói quen khiến trẻ ho nhiều ngày Tết](https://vnexpress.net/cac-thoi-quen-khien-tre-ho-nhieu-ngay-tet-4710191.html) - 17:00 12/02/2024
+- 🕯 [Tết đầu tiên có con của vợ chồng 13 năm hiếm muộn](https://vnexpress.net/tet-dau-tien-co-con-cua-vo-chong-13-nam-hiem-muon-4710222.html) - 17:00 12/02/2024
 - 🦏 [Có nên ăn móng giò, uống thảo mộc để lợi sữa?](https://vnexpress.net/co-nen-an-mong-gio-uong-thao-moc-de-loi-sua-4711047.html) - 10:00 12/02/2024
 - 🦄 [4 món cá kho cho người tiểu đường](https://vnexpress.net/4-mon-ca-kho-cho-nguoi-tieu-duong-4710188.html) - 09:00 12/02/2024
 - 🦒 [Quý ông uống rượu bia giảm khả năng đón &#39;rồng con&#39;](https://vnexpress.net/quy-ong-uong-ruou-bia-giam-kha-nang-don-rong-con-4711048.html) - 07:00 12/02/2024
@@ -48,16 +48,16 @@ sidebar_position: 10
 - 🌜 [Cách phòng tăng huyết áp dịp Tết](https://vnexpress.net/cach-phong-tang-huyet-ap-dip-tet-4710311.html) - 05:00 12/02/2024
 - 🚀 [Các món trẻ nên ăn trong ngày Tết](https://vnexpress.net/cac-mon-tre-nen-an-trong-ngay-tet-4710164.html) - 04:00 12/02/2024
 - 💃 [Viêm tụy cấp từ thói quen ăn uống ngày Tết](https://vnexpress.net/viem-tuy-cap-tu-thoi-quen-an-uong-ngay-tet-4710948.html) - 03:00 12/02/2024
-- 💯 [Thai phụ có được uống rượu ngày Tết?](https://vnexpress.net/thai-phu-co-duoc-uong-ruou-ngay-tet-4710175.html) - 03:00 12/02/2024
-- 🤔 [Có nên tiêm vaccine dại khi đang say?](https://vnexpress.net/co-nen-tiem-vaccine-dai-khi-dang-say-4709477.html) - 03:00 12/02/2024
+- 💯 [Có nên tiêm vaccine dại khi đang say?](https://vnexpress.net/co-nen-tiem-vaccine-dai-khi-dang-say-4709477.html) - 03:00 12/02/2024
+- 🤔 [Thai phụ có được uống rượu ngày Tết?](https://vnexpress.net/thai-phu-co-duoc-uong-ruou-ngay-tet-4710175.html) - 03:00 12/02/2024
 - 🎬 [Ngại khám bệnh ngày Tết, thiếu niên suýt hỏng tinh hoàn](https://vnexpress.net/ngai-kham-benh-ngay-tet-thieu-nien-suyt-hong-tinh-hoan-4711037.html) - 02:25 12/02/2024
 - 🪜 [Xử trí và phòng ngừa hóc dị vật đường thở cho trẻ](https://vnexpress.net/xu-tri-va-phong-ngua-hoc-di-vat-duong-tho-cho-tre-4710186.html) - 02:00 12/02/2024
 - 🦣 [Ba cách đơn giản cải thiện sức khỏe thể chất](https://vnexpress.net/ba-cach-don-gian-cai-thien-suc-khoe-the-chat-4710992.html) - 01:00 12/02/2024
-- 🧐 [5 loại trà dưỡng nhan, đẹp da](https://vnexpress.net/5-loai-tra-duong-nhan-dep-da-4710349.html) - 01:00 12/02/2024
+- 🧐 [Những thói quen ngày Tết làm tăng nguy cơ ung thư](https://vnexpress.net/nhung-thoi-quen-ngay-tet-lam-tang-nguy-co-ung-thu-4710183.html) - 01:00 12/02/2024
 - 🤡 [Mẹo ăn ngon, khỏe xương khớp ngày Tết](https://vnexpress.net/meo-an-ngon-khoe-xuong-khop-ngay-tet-4710214.html) - 01:00 12/02/2024
-- 👍 [Những thói quen ngày Tết làm tăng nguy cơ ung thư](https://vnexpress.net/nhung-thoi-quen-ngay-tet-lam-tang-nguy-co-ung-thu-4710183.html) - 01:00 12/02/2024
-- 💡 [Người bệnh hô hấp lưu ý gì khi đi du lịch?](https://vnexpress.net/nguoi-benh-ho-hap-luu-y-gi-khi-di-du-lich-4710113.html) - 00:00 12/02/2024
-- 💯 [Người bệnh tim mạch nên kiêng gì ngày Tết?](https://vnexpress.net/nguoi-benh-tim-mach-nen-kieng-gi-ngay-tet-4710108.html) - 00:00 12/02/2024
+- 👍 [5 loại trà dưỡng nhan, đẹp da](https://vnexpress.net/5-loai-tra-duong-nhan-dep-da-4710349.html) - 01:00 12/02/2024
+- 💡 [Người bệnh tim mạch nên kiêng gì ngày Tết?](https://vnexpress.net/nguoi-benh-tim-mach-nen-kieng-gi-ngay-tet-4710108.html) - 00:00 12/02/2024
+- 💯 [Người bệnh hô hấp lưu ý gì khi đi du lịch?](https://vnexpress.net/nguoi-benh-ho-hap-luu-y-gi-khi-di-du-lich-4710113.html) - 00:00 12/02/2024
 - 🧠 [Ngộ độc bởi tiếc cơm thừa, cỗ nguội ngày Tết](https://vnexpress.net/ngo-doc-boi-tiec-com-thua-co-nguoi-ngay-tet-4710873.html) - 23:05 11/02/2024
 - 🎡 [Cách chăm sóc da khi thay đổi thời tiết dịp Tết](https://vnexpress.net/cach-cham-soc-da-khi-thay-doi-thoi-tiet-dip-tet-4710834.html) - 17:03 11/02/2024
 - 🌏 [Hai thói quen hại gan, thận ngày Tết](https://vnexpress.net/hai-thoi-quen-hai-gan-than-ngay-tet-4710946.html) - 09:10 11/02/2024
