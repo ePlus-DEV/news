@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Công an TP HCM thông tin vụ cô gái bị sát hại, phi tang thi thể](https://vnexpress.net/cong-an-tp-hcm-thong-tin-vu-co-gai-bi-sat-hai-phi-tang-thi-the-4711486.html) - 09:45 14/02/2024
+- 😎 [Tội ác của kẻ phi tang thi thể cô gái ở Sài Gòn](https://vnexpress.net/toi-ac-cua-ke-phi-tang-thi-the-co-gai-o-sai-gon-4711486.html) - 09:45 14/02/2024
 - 🥰 [Rapper Snoop Dogg kiện nhà phân phối khi thương hiệu riêng ế ẩm](https://vnexpress.net/rapper-snoop-dogg-kien-nha-phan-phoi-khi-thuong-hieu-rieng-e-am-4711338.html) - 01:11 14/02/2024
 - 🎓 [Tiếp viên ngã do sàn máy bay trơn kiện đòi 1,3 triệu USD](https://vnexpress.net/tiep-vien-nga-do-san-may-bay-tron-kien-doi-1-3-trieu-usd-4711323.html) - 01:02 14/02/2024
 - 🤓 [Đổi màu sơn ôtô, làm gì để không bị CSGT phạt?](https://vnexpress.net/doi-mau-son-oto-lam-gi-de-khong-bi-csgt-phat-4710615.html) - 17:00 13/02/2024
