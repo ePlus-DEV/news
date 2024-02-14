@@ -252,7 +252,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Hành trình 10 năm thăm tất cả 195 quốc gia trên thế giới](https://nld.com.vn/hanh-trinh-10-nam-tham-tat-ca-195-quoc-gia-tren-the-gioi-196240204040551661.htm) - 13:47 14/02/2024
-- 😺 [CLIP: Người dân trở lại TP HCM trong ngày cuối cùng của kỳ nghỉ Tết](https://nld.com.vn/clip-nguoi-dan-tro-lai-tp-hcm-trong-ngay-cuoi-cung-cua-ky-nghi-tet-196240214200751739.htm) - 13:44 14/02/2024
+- 😺 [CLIP: Người dân trở lại TP HCM trong ngày cuối của kỳ nghỉ Tết](https://nld.com.vn/clip-nguoi-dan-tro-lai-tp-hcm-trong-ngay-cuoi-cung-cua-ky-nghi-tet-196240214200751739.htm) - 13:44 14/02/2024
 - 👍 [Hoành tráng và uy nghiêm chương trình sân khấu hóa “Sáng mãi hào khí cờ đào”](https://nld.com.vn/hoanh-trang-va-uy-nghiem-chuong-trinh-san-khau-hoa-sang-mai-hao-khi-co-dao-196240214181827286.htm) - 13:16 14/02/2024
 - 🥷 [Công an bắt hai thiếu niên cướp giật tài sản chiều mùng 1 Tết](https://nld.com.vn/cong-an-bat-hai-thieu-nien-cuop-giat-tai-san-chieu-mung-1-tet-196240214195419796.htm) - 13:14 14/02/2024
 - 🤔 [Sao trẻ PSG lên tiếng xin lỗi sau khi đánh nhau với Son Heung-min](https://nld.com.vn/sao-tre-psg-len-tieng-xin-loi-sau-khi-danh-nhau-voi-son-heung-min-196240214194225704.htm) - 13:04 14/02/2024
