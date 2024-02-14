@@ -80,8 +80,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [Rapper Snoop Dogg kiện nhà phân phối khi thương hiệu riêng ế ẩm](https://vnexpress.net/rapper-snoop-dogg-kien-nha-phan-phoi-khi-thuong-hieu-rieng-e-am-4711338.html) - 01:11 14/02/2024
 - 🕴 [Bộ trưởng Quốc phòng Mỹ xuất viện](https://vnexpress.net/bo-truong-quoc-phong-my-xuat-vien-4711361.html) - 01:11 14/02/2024
 - 🦆 [Khách quốc tế đến Phú Quốc dịp Tết tăng gần 6 lần](https://vnexpress.net/khach-quoc-te-den-phu-quoc-dip-tet-tang-gan-6-lan-4711305.html) - 01:10 14/02/2024
-- 💫 [Mỹ có thể đã từ chối đề xuất ngừng bắn của ông Putin](https://vnexpress.net/my-co-the-da-tu-choi-de-xuat-ngung-ban-cua-ong-putin-4711363.html) - 01:06 14/02/2024
-- 🤓 [Tiếp viên ngã do sàn máy bay trơn kiện đòi 1,3 triệu USD](https://vnexpress.net/tiep-vien-nga-do-san-may-bay-tron-kien-doi-1-3-trieu-usd-4711323.html) - 01:02 14/02/2024<!-- vnexpress:END -->
+- 💫 [Mỹ có thể đã từ chối đề xuất ngừng bắn của ông Putin](https://vnexpress.net/my-co-the-da-tu-choi-de-xuat-ngung-ban-cua-ong-putin-4711363.html) - 01:06 14/02/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
