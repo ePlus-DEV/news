@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Xe bồn chở nhiên liệu cháy trên cao tốc Trung Lương](https://vnexpress.net/xe-bon-cho-nhien-lieu-chay-tren-cao-toc-trung-luong-4711829.html) - 10:31 15/02/2024
+- 🦒 [Xe bồn chở xăng cháy trên cao tốc Trung Lương](https://vnexpress.net/xe-bon-cho-xang-chay-tren-cao-toc-trung-luong-4711829.html) - 10:31 15/02/2024
 - 🤓 [Chủ tịch nước: Mỗi cây được trồng là món quà vô giá gửi thế hệ mai sau](https://vnexpress.net/chu-tich-nuoc-moi-cay-duoc-trong-la-mon-qua-vo-gia-gui-the-he-mai-sau-4711811.html) - 10:17 15/02/2024
 - ⚗️ [Gà hỗ trợ người nghèo &#39;lạc&#39; vào nhà người thân chủ tịch xã](https://vnexpress.net/ga-ho-tro-nguoi-ngheo-lac-vao-nha-nguoi-than-chu-tich-xa-4711819.html) - 10:06 15/02/2024
 - 🌊 [Thủ tướng xuống đồng cấy lúa](https://vnexpress.net/thu-tuong-xuong-dong-cay-lua-4711784.html) - 08:59 15/02/2024
