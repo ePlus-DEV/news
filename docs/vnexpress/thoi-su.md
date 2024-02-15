@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [&#39;Ăn gió nằm sương’ rà mìn chiến tranh biên giới phía Bắc](https://vnexpress.net/an-gio-nam-suong-ra-min-chien-tranh-bien-gioi-phia-bac-4711797.html) - 17:15 15/02/2024
+- 🦒 [&#39;Ăn gió nằm sương&#39; rà mìn chiến tranh biên giới phía Bắc](https://vnexpress.net/an-gio-nam-suong-ra-min-chien-tranh-bien-gioi-phia-bac-4711797.html) - 17:15 15/02/2024
 - 🤓 [BOT Bến Lức tăng phí từ đầu tháng 3](https://vnexpress.net/bot-ben-luc-tang-phi-tu-dau-thang-3-4711865.html) - 17:00 15/02/2024
 - ⚗️ [Bảo vật hơn 500 tuổi ở Quảng Bình](https://vnexpress.net/bao-vat-hon-500-tuoi-o-quang-binh-4707354.html) - 17:00 15/02/2024
 - 🌊 [Vợ chồng tử nạn sau va chạm với ôtô](https://vnexpress.net/vo-chong-tu-nan-sau-va-cham-voi-oto-4711881.html) - 15:11 15/02/2024
