@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Ai là trạng nguyên đầu tiên ở Việt Nam?](https://vnexpress.net/ai-la-trang-nguyen-dau-tien-o-viet-nam-4711723.html) - 13:00 15/02/2024
+- 🤓 [Ai là trạng nguyên đầu tiên trong lịch sử Việt Nam?](https://vnexpress.net/ai-la-trang-nguyen-dau-tien-trong-lich-su-viet-nam-4711723.html) - 13:00 15/02/2024
 - 🦆 [Đại học Kinh tế TP HCM mở hai ngành công nghệ](https://vnexpress.net/dai-hoc-kinh-te-tp-hcm-mo-hai-nganh-cong-nghe-4711786.html) - 12:58 15/02/2024
 - 🦩 [Đại học Tôn Đức Thắng nhận hồ sơ xét học bạ từ 1/4](https://vnexpress.net/dai-hoc-ton-duc-thang-nhan-ho-so-xet-hoc-ba-tu-1-4-4711752.html) - 09:02 15/02/2024
 - 🌮 [TP HCM, Sơn La là &#39;thành phố học tập toàn cầu&#39;](https://vnexpress.net/tp-hcm-son-la-la-thanh-pho-hoc-tap-toan-cau-4711714.html) - 08:01 15/02/2024
