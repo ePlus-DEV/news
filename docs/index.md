@@ -395,16 +395,16 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Ghép thành công 2 lá phổi cho bệnh nhân 21 tuổi](https://baochinhphu.vn/ghep-thanh-cong-2-la-phoi-cho-benh-nhan-21-tuoi-102240215170336024.htm) - 18:21 15/02/2024
-- 🌜 [Bộ trưởng TT&amp;TT ‘xông đất’ FPT với hy vọng về sự lớn mạnh của các doanh nghiệp số](https://baochinhphu.vn/bo-truong-tttt-xong-dat-fpt-voi-hy-vong-ve-su-lon-manh-cua-cac-doanh-nghiep-so-10224021518014993.htm) - 18:19 15/02/2024
-- 🦆 [Thành tích đột xuất có là căn cứ xét tặng Bằng khen của Thủ tướng?](https://baochinhphu.vn/thanh-tich-dot-xuat-co-la-can-cu-xet-tang-bang-khen-cua-thu-tuong-102240206090622591.htm) - 17:02 15/02/2024
-- 🌝 [Đẩy mạnh cải cách hành chính trên cả 6 lĩnh vực](https://baochinhphu.vn/day-manh-cai-cach-hanh-chinh-tren-ca-6-linh-vuc-102240215163931254.htm) - 16:55 15/02/2024
-- 🦣 [Tăng cường phòng, chống buôn lậu qua đường hàng không](https://baochinhphu.vn/tang-cuong-phong-chong-buon-lau-qua-duong-hang-khong-102240215162041725.htm) - 16:25 15/02/2024
-- ⛽️ [EVN đã đảm bảo cung cấp điện an toàn, ổn định trong dịp Tết](https://baochinhphu.vn/evn-da-dam-bao-cung-cap-dien-an-toan-on-dinh-trong-dip-tet-102240215155229577.htm) - 16:06 15/02/2024
-- 🎓 [Phí cấp giấy chứng nhận đăng ký bán hàng đa cấp 5 triệu đồng/01 lần](https://baochinhphu.vn/phi-cap-giay-chung-nhan-dang-ky-ban-hang-da-cap-5-trieu-dong-01-lan-102240215155152616.htm) - 15:54 15/02/2024
-- 💡 [Giá xăng tăng hơn 700 đồng/lít từ chiều nay](https://baochinhphu.vn/gia-xang-tang-hon-700-dong-lit-tu-chieu-nay-10224021515220136.htm) - 15:28 15/02/2024
-- 🌊 [Không quy định hạn mức chuyển mục đích sử dụng đất](https://baochinhphu.vn/khong-quy-dinh-han-muc-chuyen-muc-dich-su-dung-dat-102240215115812274.htm) - 15:02 15/02/2024
-- 💯 [Thủ tướng xuống đồng cấy hái cùng nông dân, động viên sản xuất nông nghiệp](https://baochinhphu.vn/thu-tuong-xuong-dong-cay-lua-thu-hoach-ca-rot-cung-nong-dan-102240215142301844.htm) - 14:50 15/02/2024
+- 💻 [Thủ tướng xuống đồng cấy hái cùng nông dân, động viên sản xuất nông nghiệp](https://baochinhphu.vn/thu-tuong-xuong-dong-cay-lua-thu-hoach-ca-rot-cung-nong-dan-102240215142301844.htm) - 19:16 15/02/2024
+- 🌜 [Ghép thành công 2 lá phổi cho bệnh nhân 21 tuổi](https://baochinhphu.vn/ghep-thanh-cong-2-la-phoi-cho-benh-nhan-21-tuoi-102240215170336024.htm) - 18:21 15/02/2024
+- 🦆 [Bộ trưởng TT&amp;TT ‘xông đất’ FPT với hy vọng về sự lớn mạnh của các doanh nghiệp số](https://baochinhphu.vn/bo-truong-tttt-xong-dat-fpt-voi-hy-vong-ve-su-lon-manh-cua-cac-doanh-nghiep-so-10224021518014993.htm) - 18:19 15/02/2024
+- 🌝 [Thành tích đột xuất có là căn cứ xét tặng Bằng khen của Thủ tướng?](https://baochinhphu.vn/thanh-tich-dot-xuat-co-la-can-cu-xet-tang-bang-khen-cua-thu-tuong-102240206090622591.htm) - 17:02 15/02/2024
+- 🦣 [Đẩy mạnh cải cách hành chính trên cả 6 lĩnh vực](https://baochinhphu.vn/day-manh-cai-cach-hanh-chinh-tren-ca-6-linh-vuc-102240215163931254.htm) - 16:55 15/02/2024
+- ⛽️ [Tăng cường phòng, chống buôn lậu qua đường hàng không](https://baochinhphu.vn/tang-cuong-phong-chong-buon-lau-qua-duong-hang-khong-102240215162041725.htm) - 16:25 15/02/2024
+- 🎓 [EVN đã đảm bảo cung cấp điện an toàn, ổn định trong dịp Tết](https://baochinhphu.vn/evn-da-dam-bao-cung-cap-dien-an-toan-on-dinh-trong-dip-tet-102240215155229577.htm) - 16:06 15/02/2024
+- 💡 [Phí cấp giấy chứng nhận đăng ký bán hàng đa cấp 5 triệu đồng/01 lần](https://baochinhphu.vn/phi-cap-giay-chung-nhan-dang-ky-ban-hang-da-cap-5-trieu-dong-01-lan-102240215155152616.htm) - 15:54 15/02/2024
+- 🌊 [Giá xăng tăng hơn 700 đồng/lít từ chiều nay](https://baochinhphu.vn/gia-xang-tang-hon-700-dong-lit-tu-chieu-nay-10224021515220136.htm) - 15:28 15/02/2024
+- 💯 [Không quy định hạn mức chuyển mục đích sử dụng đất](https://baochinhphu.vn/khong-quy-dinh-han-muc-chuyen-muc-dich-su-dung-dat-102240215115812274.htm) - 15:02 15/02/2024
 - 🦣 [Đồng bào dân tộc thiểu số đón Tết vui tươi, lành mạnh, an toàn, tiết kiệm](https://baochinhphu.vn/dong-bao-dan-toc-thieu-so-don-tet-vui-tuoi-lanh-manh-an-toan-tiet-kiem-102240215134825818.htm) - 14:17 15/02/2024
 - 🥷 [Khai hội chùa Bái Đính - Xuân Giáp Thìn 2024](https://baochinhphu.vn/khai-hoi-chua-bai-dinh-xuan-giap-thin-2024-102240215134955047.htm) - 14:15 15/02/2024
 - 💻 [Thời tiết đẹp, du lịch miền Trung hút khách dịp Tết](https://baochinhphu.vn/thoi-tiet-dep-du-lich-mien-trung-hut-khach-dip-tet-102240215082139542.htm) - 14:13 15/02/2024
