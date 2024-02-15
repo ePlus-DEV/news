@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Vợ chồng tử nạn sau cú tông ôtô](https://vnexpress.net/vo-chong-tu-nan-sau-cu-tong-oto-4711881.html) - 15:11 15/02/2024
+- 🦒 [Vợ chồng tử nạn sau va chạm với ôtô](https://vnexpress.net/vo-chong-tu-nan-sau-va-cham-voi-oto-4711881.html) - 15:11 15/02/2024
 - 🤓 [Trâu húc chết người](https://vnexpress.net/trau-huc-chet-nguoi-4711876.html) - 14:00 15/02/2024
 - ⚗️ [Trai tráng Thủ đô vật cầu lấy may](https://vnexpress.net/trai-trang-thu-do-vat-cau-lay-may-4711867.html) - 12:22 15/02/2024
 - 🌊 [Xe bồn chở xăng cháy trên cao tốc Trung Lương](https://vnexpress.net/xe-bon-cho-xang-chay-tren-cao-toc-trung-luong-4711829.html) - 10:31 15/02/2024
