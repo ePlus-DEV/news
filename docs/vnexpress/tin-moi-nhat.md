@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Vợ chồng tử nạn sau cú tông ôtô](https://vnexpress.net/vo-chong-tu-nan-sau-cu-tong-oto-4711881.html) - 15:11 15/02/2024
+- 🎬 [Vợ chồng tử nạn sau va chạm với ôtô](https://vnexpress.net/vo-chong-tu-nan-sau-va-cham-voi-oto-4711881.html) - 15:11 15/02/2024
 - 🐎 [Israel tuyên bố hạ chỉ huy đặc nhiệm Hezbollah](https://vnexpress.net/israel-tuyen-bo-ha-chi-huy-dac-nhiem-hezbollah-4711877.html) - 14:46 15/02/2024
 - 🦍 [Tiger Woods không tiếc dấu ấn cũ](https://vnexpress.net/tiger-woods-khong-tiec-dau-an-cu-4711879.html) - 14:09 15/02/2024
 - 🏊 [Thái Lan bội thu dịp Tết Nguyên đán](https://vnexpress.net/thai-lan-boi-thu-dip-tet-nguyen-dan-4711659.html) - 14:05 15/02/2024
