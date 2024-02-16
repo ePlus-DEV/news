@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Mỹ sẵn sàng ngăn bạo lực leo thang ở Bắc Kosovo](https://vnexpress.net/my-san-sang-ngan-bao-luc-leo-thang-o-bac-kosovo-4712235.html) - 15:46 16/02/2024
+- 🎭 [Mỹ sẵn sàng ngăn bạo lực leo thang ở bắc Kosovo](https://vnexpress.net/my-san-sang-ngan-bao-luc-leo-thang-o-bac-kosovo-4712235.html) - 15:46 16/02/2024
 - 🕴 [Israel tuyên bố không có ý định trục xuất người Palestine khỏi Gaza](https://vnexpress.net/israel-tuyen-bo-khong-co-y-dinh-truc-xuat-nguoi-palestine-khoi-gaza-4712242.html) - 15:10 16/02/2024
 - 🤭 [Ukraine ký hiệp ước an ninh &#39;lịch sử&#39; với Đức](https://vnexpress.net/ukraine-ky-hiep-uoc-an-ninh-lich-su-voi-duc-4712220.html) - 13:09 16/02/2024
 - 🧑‍💻 [Chính trị gia đối lập Nga Navalny chết trong tù](https://vnexpress.net/chinh-tri-gia-doi-lap-nga-navalny-chet-trong-tu-4712226.html) - 12:00 16/02/2024
