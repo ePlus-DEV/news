@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Nhiều nhà máy khai trương sớm để chạy đơn hàng](https://vnexpress.net/nhieu-nha-may-khai-truong-som-de-chay-don-hang-4711887.html) - 23:00 15/02/2024
+- 🦒 [Nhiều nhà máy tất bật chạy đơn hàng từ đầu năm](https://vnexpress.net/nhieu-nha-may-tat-bat-chay-don-hang-tu-dau-nam-4711887.html) - 23:00 15/02/2024
 - 🤓 [Hơn 600 người kéo co cầu may mắn đầu năm](https://vnexpress.net/hon-600-nguoi-keo-co-cau-may-man-dau-nam-4711869.html) - 21:00 15/02/2024
 - ⚗️ [&#39;Ăn gió nằm sương&#39; rà mìn chiến tranh biên giới phía Bắc](https://vnexpress.net/an-gio-nam-suong-ra-min-chien-tranh-bien-gioi-phia-bac-4711797.html) - 17:15 15/02/2024
 - 🌊 [BOT Bến Lức tăng phí từ đầu tháng 3](https://vnexpress.net/bot-ben-luc-tang-phi-tu-dau-thang-3-4711865.html) - 17:00 15/02/2024
