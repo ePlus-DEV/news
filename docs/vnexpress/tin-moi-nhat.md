@@ -5,7 +5,7 @@ sidebar_position: 9
 
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Israel tuyên bố không có ý định trục xuất người Palestine khỏi Gaza](https://vnexpress.net/israel-tuyen-bo-khong-co-y-dinh-truc-xuat-nguoi-palestine-khoi-gaza-4712242.html) - 15:10 16/02/2024
-- 🐎 [Ôtô bẹp rúm sau tai nạn trên cao tốc Dầu Giây - Phan Thiết](https://vnexpress.net/oto-bep-rum-sau-tai-nan-tren-cao-toc-dau-giay-phan-thiet-4712240.html) - 15:05 16/02/2024
+- 🐎 [Tai nạn liên hoàn 4 xe, cao tốc Dầu Giây - Phan Thiết đóng lối vào](https://vnexpress.net/tai-nan-lien-hoan-4-xe-cao-toc-dau-giay-phan-thiet-dong-loi-vao-4712240.html) - 15:05 16/02/2024
 - 🦍 [Người Việt du học nhiều nhất Đông Nam Á](https://vnexpress.net/nguoi-viet-du-hoc-nhieu-nhat-dong-nam-a-4712239.html) - 14:59 16/02/2024
 - 🏊 [Suýt chết vì bị rắn lục cắn sau nhà bếp](https://vnexpress.net/suyt-chet-vi-bi-ran-luc-can-sau-nha-bep-4712237.html) - 14:32 16/02/2024
 - 🎊 [Vợ coi người thân của tôi như người ngoài](https://vnexpress.net/vo-coi-nguoi-than-cua-toi-nhu-nguoi-ngoai-4712143.html) - 14:00 16/02/2024
