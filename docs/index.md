@@ -285,7 +285,7 @@ Kiến tạo để Việt Nam trở thành điểm &quot;phải đến&quot;](ht
 - 🎬 [Bị phạt 7,5 triệu đồng vì lên Facebook tiết lộ chốt kiểm tra nồng độ cồn](https://nld.com.vn/bi-phat-75-trieu-dong-vi-len-facebook-tiet-lo-chot-kiem-tra-nong-do-con-196240216123428851.htm) - 06:01 16/02/2024
 - 👀 [Kiểm điểm nhiều tập thể, cá nhân liên quan sai phạm ở quận Bình Thạnh](https://nld.com.vn/kiem-diem-nhieu-tap-the-ca-nhan-lien-quan-sai-pham-o-quan-binh-thanh-196240216120548834.htm) - 05:59 16/02/2024
 - 👍 [Giải Jackpot 1 trị giá 116 tỉ đồng của Vietlott đang chờ vé trúng](https://nld.com.vn/giai-jackpot-1-tri-gia-116-ti-dong-cua-vietlott-dang-cho-ve-trung-196240216123234954.htm) - 05:58 16/02/2024
-- 🦅 [TP HCM: Đề xuất thành lập Tập đoàn Metro và TOD](https://nld.com.vn/tp-hcm-de-xuat-thanh-lap-tap-doan-metro-va-tod-19624021611542507.htm) - 05:33 16/02/2024
+- 🦅 [Chuyên gia đề xuất thành lập tập đoàn phát triển đường sắt đô thị tại TP HCM](https://nld.com.vn/tp-hcm-de-xuat-thanh-lap-tap-doan-metro-va-tod-19624021611542507.htm) - 05:33 16/02/2024
 - 🦏 [“Bắt thóp” bậc thầy nói dối không chớp mắt trong 12 cung hoàng đạo](https://nld.com.vn/bat-thop-bac-thay-noi-doi-khong-chop-mat-trong-12-cung-hoang-dao-196240207205807234.htm) - 05:26 16/02/2024
 - 🗽 [Những khu phố xanh màu lá](https://nld.com.vn/nhung-khu-pho-xanh-mau-la-196240207160934884.htm) - 05:26 16/02/2024
 - 🔭 [Tang vật chờ xử lý thì &quot;biến mất&quot;: UBND huyện tiếp tục phớt lờ](https://nld.com.vn/tang-vat-cho-xu-ly-thi-bien-mat-ubnd-huyen-tiep-tuc-phot-lo-196240216115225562.htm) - 05:16 16/02/2024
