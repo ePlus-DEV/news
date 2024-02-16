@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Học phí 50 đại học tốt nhất nước Mỹ](https://vnexpress.net/hoc-phi-50-dai-hoc-tot-nhat-nuoc-my-4708912.html) - 02:21 16/02/2024
 - 🦆 [Gần 100 đại học công bố xét tuyển học bạ năm 2024](https://vnexpress.net/gan-100-dai-hoc-cong-bo-xet-tuyen-hoc-ba-nam-2024-4711702.html) - 23:47 15/02/2024
-- 🦩 [Ai là trạng nguyên đầu tiên trong lịch sử Việt Nam?](https://vnexpress.net/ai-la-trang-nguyen-dau-tien-trong-lich-su-viet-nam-4711723.html) - 13:00 15/02/2024
+- 🦩 [Ai nổi tiếng với sự tích &#39;ném đá ao bèo&#39;?](https://vnexpress.net/ai-noi-tieng-voi-su-tich-nem-da-ao-beo-4711723.html) - 13:00 15/02/2024
 - 🌮 [Đại học Kinh tế TP HCM mở hai ngành công nghệ](https://vnexpress.net/dai-hoc-kinh-te-tp-hcm-mo-hai-nganh-cong-nghe-4711786.html) - 12:58 15/02/2024
 - 🔭 [Đại học Tôn Đức Thắng nhận hồ sơ xét học bạ từ 1/4](https://vnexpress.net/dai-hoc-ton-duc-thang-nhan-ho-so-xet-hoc-ba-tu-1-4-4711752.html) - 09:02 15/02/2024
 - 💡 [TP HCM, Sơn La là &#39;thành phố học tập toàn cầu&#39;](https://vnexpress.net/tp-hcm-son-la-la-thanh-pho-hoc-tap-toan-cau-4711714.html) - 08:01 15/02/2024
