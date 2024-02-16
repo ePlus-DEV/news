@@ -79,9 +79,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💂 [Bảy phút cứu sống bé trai 3 tuổi bị ném xuống kênh](https://vnexpress.net/bay-phut-cuu-song-be-trai-3-tuoi-bi-nem-xuong-kenh-4712096.html) - 10:50 16/02/2024
 - 🚀 [105 trường xét điểm thi đánh giá năng lực của ĐH Quốc gia TP HCM](https://vnexpress.net/105-truong-xet-diem-thi-danh-gia-nang-luc-cua-dh-quoc-gia-tp-hcm-4712156.html) - 10:50 16/02/2024
 - 🕴 [Tài xế kiện vì gãi đầu nhưng camera AI &#39;tưởng&#39; nghe điện thoại](https://vnexpress.net/tai-xe-kien-vi-gai-dau-nhung-camera-ai-tuong-nghe-dien-thoai-4712147.html) - 10:37 16/02/2024
-- 🦆 [Nhiều người ngụy biện nhưng nghĩ mình &#39;phản biện&#39;](https://vnexpress.net/nhieu-nguoi-nguy-bien-nhung-nghi-minh-phan-bien-4711924.html) - 10:28 16/02/2024
-- 💫 [Đổ xô đăng ký chuyến đi bí ẩn của hãng bay Thụy Sĩ](https://vnexpress.net/do-xo-dang-ky-chuyen-di-bi-an-cua-hang-bay-thuy-si-4711999.html) - 10:27 16/02/2024
-- 🤓 [Ngày thơ 2024 tôn vinh di sản thi ca của 54 dân tộc](https://vnexpress.net/ngay-tho-2024-ton-vinh-di-san-thi-ca-cua-54-dan-toc-4712153.html) - 10:14 16/02/2024<!-- vnexpress:END -->
+- 🦆 [Nhiều người ngụy biện nhưng nghĩ mình &#39;phản biện&#39;](https://vnexpress.net/nhieu-nguoi-nguy-bien-nhung-nghi-minh-phan-bien-4711924.html) - 10:28 16/02/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
