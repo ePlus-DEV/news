@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Ôtô bẹp rúm sau tai nạn trên cao tốc Dầu Giây - Phan Thiết](https://vnexpress.net/oto-bep-rum-sau-tai-nan-tren-cao-toc-dau-giay-phan-thiet-4712240.html) - 15:05 16/02/2024
+- 🦒 [Tai nạn liên hoàn 4 xe, cao tốc Dầu Giây - Phan Thiết đóng lối vào](https://vnexpress.net/tai-nan-lien-hoan-4-xe-cao-toc-dau-giay-phan-thiet-dong-loi-vao-4712240.html) - 15:05 16/02/2024
 - 🤓 [Đà Nẵng dự kiến làm công viên linh vật rồng](https://vnexpress.net/da-nang-du-kien-lam-cong-vien-linh-vat-rong-4712211.html) - 11:06 16/02/2024
 - ⚗️ [Doanh trại thông minh của Công binh Việt Nam ở châu Phi sắp hoàn thành](https://vnexpress.net/doanh-trai-thong-minh-cua-cong-binh-viet-nam-o-chau-phi-sap-hoan-thanh-4712190.html) - 10:57 16/02/2024
 - 🌊 [Bảy phút cứu sống bé trai 3 tuổi bị ném xuống kênh](https://vnexpress.net/bay-phut-cuu-song-be-trai-3-tuoi-bi-nem-xuong-kenh-4712096.html) - 10:50 16/02/2024
