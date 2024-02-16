@@ -10,7 +10,7 @@ sidebar_position: 1
 - 🌊 [15 phút tìm vị khách bỏ quên 100 triệu tại sân bay Nội Bài](https://vnexpress.net/15-phut-tim-vi-khach-bo-quen-100-trieu-tai-san-bay-noi-bai-4712093.html) - 07:00 16/02/2024
 - 🎓 [Cụ ông 74 tuổi đóng vai vua cày ruộng trong lễ hội Tịch điền 2024](https://vnexpress.net/cu-ong-74-tuoi-dong-vai-vua-cay-ruong-trong-le-hoi-tich-dien-2024-4712088.html) - 06:22 16/02/2024
 - 🔥 [Việt Nam nghiên cứu mở rộng diện miễn visa](https://vnexpress.net/viet-nam-nghien-cuu-mo-rong-dien-mien-visa-4712064.html) - 05:01 16/02/2024
-- 🦏 [Người dân xin chữ sau lễ hạ nêu trong Hoàng cung Huế](https://vnexpress.net/nguoi-dan-xin-chu-sau-le-ha-neu-trong-hoang-cung-hue-4712039.html) - 04:42 16/02/2024
+- 🦏 [Lễ hạ cây nêu ở Hoàng cung Huế](https://vnexpress.net/le-ha-cay-neu-o-hoang-cung-hue-4712039.html) - 04:42 16/02/2024
 - 👺 [Lập Hội đồng Quốc gia về Khoa học Công nghệ và Đổi mới sáng tạo](https://vnexpress.net/lap-hoi-dong-quoc-gia-ve-khoa-hoc-cong-nghe-va-doi-moi-sang-tao-4712031.html) - 04:06 16/02/2024
 - 🧑‍🏫 [Ùn ùn người xem diễn thực cảnh tái hiện khởi nghĩa Hai Bà Trưng](https://video.vnexpress.net/un-un-nguoi-xem-dien-thuc-canh-tai-hien-khoi-nghia-hai-ba-trung-4712033.html) - 04:01 16/02/2024
 - 🚦 [657.000 tỷ đồng đầu tư công năm 2024 chủ yếu cho hạ tầng giao thông](https://vnexpress.net/657-000-ty-dong-dau-tu-cong-nam-2024-chu-yeu-cho-ha-tang-giao-thong-4712017.html) - 03:43 16/02/2024
