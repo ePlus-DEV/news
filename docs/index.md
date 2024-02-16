@@ -31,7 +31,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥰 [Những hành vi kỳ lạ của động vật trong nhật thực](https://vnexpress.net/nhung-hanh-vi-ky-la-cua-dong-vat-trong-nhat-thuc-4712212.html) - 13:00 16/02/2024
 - 🌏 [Việt Nam có mấy thành phố biên giới?](https://vnexpress.net/viet-nam-co-may-thanh-pho-bien-gioi-4712168.html) - 13:00 16/02/2024
 - 🧐 [VinFast sắp có 5 đại lý tại Indonesia](https://vnexpress.net/vinfast-sap-co-5-dai-ly-tai-indonesia-4712231.html) - 13:00 16/02/2024
-- 💫 [Cách tìm điểm G khi &#39;yêu&#39;](https://vnexpress.net/cach-tim-diem-g-khi-yeu-4711871.html) - 13:00 16/02/2024
+- 💫 [Cách khám phá &#39;điểm G&#39;](https://vnexpress.net/cach-kham-pha-diem-g-4711871.html) - 13:00 16/02/2024
 - 😺 [Sắc vóc mỹ nhân Philippines eo 49 cm](https://vnexpress.net/sac-voc-my-nhan-philippines-eo-49-cm-4712195.html) - 12:43 16/02/2024
 - 🕯 [Chính trị gia đối lập Nga Navalny chết trong tù](https://vnexpress.net/chinh-tri-gia-doi-lap-nga-navalny-chet-trong-tu-4712226.html) - 12:00 16/02/2024
 - 💃 [Điệu nhảy giúp Bộ trưởng Quốc phòng Indonesia chinh phục cử tri trẻ](https://vnexpress.net/dieu-nhay-giup-bo-truong-quoc-phong-indonesia-chinh-phuc-cu-tri-tre-4712175.html) - 12:00 16/02/2024
