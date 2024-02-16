@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Đại học Công nghiệp Hà Nội dự kiến thành lập thêm 3 trường](https://vnexpress.net/dai-hoc-cong-nghiep-ha-noi-du-kien-thanh-lap-them-3-truong-4712034.html) - 07:04 16/02/2024
+- 🤓 [Trường Công nghiệp Hà Nội dự kiến chuyển thành đại học](https://vnexpress.net/truong-cong-nghiep-ha-noi-du-kien-chuyen-thanh-dai-hoc-4712034.html) - 07:04 16/02/2024
 - 🦆 [Học bổng chính phủ Singapore bắt đầu nhận hồ sơ](https://vnexpress.net/hoc-bong-chinh-phu-singapore-bat-dau-nhan-ho-so-4712068.html) - 05:35 16/02/2024
 - 🦩 [Đường vào đại học Mỹ của nam sinh Quốc học Huế](https://vnexpress.net/duong-vao-dai-hoc-my-cua-nam-sinh-quoc-hoc-hue-4711742.html) - 05:19 16/02/2024
 - 🌮 [Học phí 50 đại học tốt nhất nước Mỹ](https://vnexpress.net/hoc-phi-50-dai-hoc-tot-nhat-nuoc-my-4708912.html) - 02:21 16/02/2024
