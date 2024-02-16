@@ -511,66 +511,66 @@ Kiến tạo để Việt Nam trở thành điểm &quot;phải đến&quot;](ht
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Sân chơi Ở đây có Tết: Nhớ vị mứt của chị](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-nho-vi-mut-cua-chi-101240215213118109.htm) - 01:50 16/02/2024
-- 🥷 [Sân chơi Ở đây có Tết: Bà ơi, đào nở hoa rồi!](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-ba-oi-dao-no-hoa-roi-101240215212835354.htm) - 01:42 16/02/2024
-- 🤖 [Sân chơi Ở đây có Tết: Một ánh xuân hồng](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-mot-anh-xuan-hong-10124021521244268.htm) - 01:32 16/02/2024
-- 🤓 [Sân chơi Ở đây có Tết: mọi khoảnh khắc đều là duy nhất](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-moi-khoanh-khac-deu-la-duy-nhat-101240215211907778.htm) - 01:20 16/02/2024
-- 🎉 [Sân chơi Ở đây có Tết: Tết quê tôi](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-tet-que-toi-101240215211544993.htm) - 01:12 16/02/2024
-- 👨‍🏫 [Sân chơi Ở đây có Tết: Tết của những đứa trẻ sắp lớn](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-tet-cua-nhung-dua-tre-sap-lon-101240215211058998.htm) - 01:07 16/02/2024
-- 🚦 [4 cách lấy lại động lực học tập sau kỳ nghỉ Tết](https://muctim.tuoitre.vn/4-cach-lay-lai-dong-luc-hoc-tap-sau-ky-nghi-tet-101240214213005987.htm) - 01:04 16/02/2024
-- 🤭 [Tin tức thể thao sáng 16-2: AC Milan thắng đậm ở Europa League](https://muctim.tuoitre.vn/tin-tuc-the-thao-sang-16-2-ac-milan-thang-dam-o-europa-league-101240216080407967.htm) - 01:00 16/02/2024
-- 😺 [Thời tiết hôm nay 16-2: Bắc Bộ mưa rào, Nam Bộ nắng nóng](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-16-2-bac-bo-mua-rao-nam-bo-nang-nong-101240216080005309.htm) - 00:56 16/02/2024
-- 😎 [Thứ Sáu của 12 cung hoàng đạo &lpar;16-2&rpar;: Song Tử cần thực tế](https://muctim.tuoitre.vn/thu-sau-cua-12-cung-hoang-dao-16-2-song-tu-can-thuc-te-101240216075617018.htm) - 00:31 16/02/2024
+- 🤔 [Nhớ cái Tết thay mẹ ra đường quét rác](https://muctim.tuoitre.vn/nho-cai-tet-thay-me-ra-duong-quet-rac-101240215213749046.htm) - 08:33 16/02/2024
+- 🥷 [Sân chơi Ở đây có Tết: Vượt 200km, tôi về ăn Tết Đắk Nông](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-vuot-200km-toi-ve-an-tet-dak-nong-101240215213353376.htm) - 08:20 16/02/2024
+- 🤖 [Sân chơi Ở đây có Tết: Nhớ vị mứt của chị](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-nho-vi-mut-cua-chi-101240215213118109.htm) - 01:50 16/02/2024
+- 🤓 [Sân chơi Ở đây có Tết: Bà ơi, đào nở hoa rồi!](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-ba-oi-dao-no-hoa-roi-101240215212835354.htm) - 01:42 16/02/2024
+- 🎉 [Sân chơi Ở đây có Tết: Một ánh xuân hồng](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-mot-anh-xuan-hong-10124021521244268.htm) - 01:32 16/02/2024
+- 👨‍🏫 [Sân chơi Ở đây có Tết: mọi khoảnh khắc đều là duy nhất](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-moi-khoanh-khac-deu-la-duy-nhat-101240215211907778.htm) - 01:20 16/02/2024
+- 🚦 [Sân chơi Ở đây có Tết: Tết quê tôi](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-tet-que-toi-101240215211544993.htm) - 01:12 16/02/2024
+- 🤭 [Sân chơi Ở đây có Tết: Tết của những đứa trẻ sắp lớn](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-tet-cua-nhung-dua-tre-sap-lon-101240215211058998.htm) - 01:07 16/02/2024
+- 😺 [4 cách lấy lại động lực học tập sau kỳ nghỉ Tết](https://muctim.tuoitre.vn/4-cach-lay-lai-dong-luc-hoc-tap-sau-ky-nghi-tet-101240214213005987.htm) - 01:04 16/02/2024
+- 😎 [Tin tức thể thao sáng 16-2: AC Milan thắng đậm ở Europa League](https://muctim.tuoitre.vn/tin-tuc-the-thao-sang-16-2-ac-milan-thang-dam-o-europa-league-101240216080407967.htm) - 01:00 16/02/2024
+- 🐎 [Thời tiết hôm nay 16-2: Bắc Bộ mưa rào, Nam Bộ nắng nóng](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-16-2-bac-bo-mua-rao-nam-bo-nang-nong-101240216080005309.htm) - 00:56 16/02/2024
+- 🎓 [Thứ Sáu của 12 cung hoàng đạo &lpar;16-2&rpar;: Song Tử cần thực tế](https://muctim.tuoitre.vn/thu-sau-cua-12-cung-hoang-dao-16-2-song-tu-can-thuc-te-101240216075617018.htm) - 00:31 16/02/2024
 - 🐎 [Bảo Anh tìm thấy tri kỷ âm nhạc; Anh Tú, Diệu Nhi cùng hát nhạc phim](https://muctim.tuoitre.vn/bao-anh-tim-thay-tri-ky-am-nhac-anh-tu-dieu-nhi-cung-hat-nhac-phim-101240215100635921.htm) - 08:19 15/02/2024
-- 🎓 [Cậu bạn lớp 12 ở Cà Mau sở hữu hơn 30 chiếc tàu chiến](https://muctim.tuoitre.vn/cau-ban-lop-12-o-ca-mau-so-huu-hon-30-chiec-tau-chien-101240203160002984.htm) - 01:27 15/02/2024
-- 🐎 [Kết thúc trọn vẹn của Giữa cơn bão tuyết: Lâm Diệc Dương cầu hôn Ân Quả](https://muctim.tuoitre.vn/ket-thuc-tron-ven-cua-giua-con-bao-tuyet-lam-diec-duong-cau-hon-an-qua-10124021422261447.htm) - 01:21 15/02/2024
-- 💃 [Cặp đôi phim Mai tung bộ ảnh ngọt ngào nhân Valentine](https://muctim.tuoitre.vn/cap-doi-phim-mai-tung-bo-anh-ngot-ngao-nhan-valentine-101240214150735742.htm) - 01:17 15/02/2024
-- 🪜 [Dữ phượng hành của Triệu Lệ Dĩnh gây bão](https://muctim.tuoitre.vn/du-phuong-hanh-cua-trieu-le-dinh-gay-bao-101240214131805853.htm) - 01:17 15/02/2024
-- 🎉 [Tin tức thể thao sáng 15-2: Ronaldo tỏa sáng ở AFC Champions League](https://muctim.tuoitre.vn/tin-tuc-the-thao-sang-15-2-ronaldo-toa-sang-o-afc-champions-league-101240215081317678.htm) - 01:08 15/02/2024
-- 🥳 [Bị thẻ đỏ gây tranh cãi, Bayern Munich thua Lazio ở Champions League](https://muctim.tuoitre.vn/bi-the-do-gay-tranh-cai-bayern-munich-thua-lazio-o-champions-league-101240215080805428.htm) - 01:01 15/02/2024
-- 🤓 [Mbappe tỏa sáng đưa PSG tiến gần vào tứ kết Champions League](https://muctim.tuoitre.vn/mbappe-toa-sang-dua-psg-tien-gan-vao-tu-ket-champions-league-101240215080109079.htm) - 00:56 15/02/2024
-- 🎉 [Thời tiết hôm nay mùng 6 Tết: Đề phòng dông gió trên biển, Nam Bộ nắng nóng](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-mung-6-tet-de-phong-dong-gio-tren-bien-nam-bo-nang-nong-101240215075453586.htm) - 00:52 15/02/2024
-- 🥳 [Thứ Năm của 12 cung hoàng đạo &lpar;15-2&rpar;: Ma Kết chú ý điều này](https://muctim.tuoitre.vn/thu-nam-cua-12-cung-hoang-dao-15-2-ma-ket-chu-y-dieu-nay-101240215075106387.htm) - 00:33 15/02/2024
-- 🎡 [Tết trong trái tim ta: Cây bơ yêu thương](https://muctim.tuoitre.vn/tet-trong-trai-tim-ta-cay-bo-yeu-thuong-101240202084801008.htm) - 12:00 14/02/2024
-- 👨‍🏫 [Sân chơi Ở đây có Tết: Được mấy lần Tết nữa?](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-duoc-may-lan-tet-nua-101240213221954747.htm) - 06:05 14/02/2024
-- 🧠 [Tizi - Đích Lép gây xúc động với dự án đặc biệt dịp Valentine](https://muctim.tuoitre.vn/tizi-dich-lep-gay-xuc-dong-voi-du-an-dac-biet-dip-valentine-101240214111355997.htm) - 06:03 14/02/2024
-- 🥷 [Vũ trụ có Giang - Cô bạn múa ba lê trên nước](https://muctim.tuoitre.vn/vu-tru-co-giang-co-ban-mua-ba-le-tren-nuoc-101240203154038941.htm) - 01:27 14/02/2024
-- 🤔 [Kevin De Bruyne tỏa sáng giúp Man City thắng dễ Copenhagen](https://muctim.tuoitre.vn/kevin-de-bruyne-toa-sang-giup-man-city-thang-de-copenhagen-101240214080519144.htm) - 01:01 14/02/2024
-- 🐎 [Real Madrid hạ Leipzig nhờ phút lóe sáng của Diaz](https://muctim.tuoitre.vn/real-madrid-ha-leipzig-nho-phut-loe-sang-cua-diaz-10124021408004956.htm) - 00:55 14/02/2024
-- ⛽️ [Thời tiết hôm nay mùng 5 Tết: Bắc Bộ tới Huế mưa nhẹ, Nam Bộ nắng nóng](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-mung-5-tet-bac-bo-toi-hue-mua-nhe-nam-bo-nang-nong-101240214075432071.htm) - 00:51 14/02/2024
-- 🤡 [Valentine của 12 cung hoàng đạo &lpar;ngày 14-2&rpar;: Thiên Bình lãng mạn](https://muctim.tuoitre.vn/valentine-cua-12-cung-hoang-dao-ngay-14-2-thien-binh-lang-man-101240214074917481.htm) - 00:32 14/02/2024
-- 🌁 [Phim Mai tung nhạc phim lụi tim, người thể hiện gây bất ngờ](https://muctim.tuoitre.vn/phim-mai-tung-nhac-phim-lui-tim-nguoi-the-hien-gay-bat-ngo-10124021321425271.htm) - 15:26 13/02/2024
-- 🎓 [Ảnh bạn đọc tham dự sân chơi Một chiếc ảnh Tết](https://muctim.tuoitre.vn/anh-ban-doc-tham-du-san-choi-mot-chiec-anh-tet-101240213215137745.htm) - 14:51 13/02/2024
-- 🦍 [Lễ Valentine trùng Tết Nguyên đán, các cặp đôi hẹn hò thế nào?](https://muctim.tuoitre.vn/le-valentine-trung-tet-nguyen-dan-cac-cap-doi-hen-ho-the-nao-101240212082357972.htm) - 14:24 13/02/2024
-- 🤠 [Sân chơi Ở đây có Tết: Tết trong tôi là...](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-tet-trong-toi-la-101240213211241781.htm) - 14:13 13/02/2024
-- 🎬 [Sân chơi Ở đây có Tết: Một cái Tết bất đắc dĩ của tôi](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-mot-cai-tet-bat-dac-di-cua-toi-101240213210216454.htm) - 13:27 13/02/2024
-- 🌮 [Top 15 câu tỏ tình hay dành cho crush trong ngày Valentine](https://muctim.tuoitre.vn/top-15-cau-to-tinh-hay-danh-cho-crush-trong-ngay-valentine-101240212235930147.htm) - 01:18 13/02/2024
-- 👹 [Cô đi mà lấy chồng tôi tăng kịch tính, chuẩn bị đi đến hồi kết](https://muctim.tuoitre.vn/co-di-ma-lay-chong-toi-tang-kich-tinh-chuan-bi-di-den-hoi-ket-101240213004512164.htm) - 01:17 13/02/2024
-- 🤔 [Hình mẫu bạn trai green flag của hội chị em cho ngày Valentine](https://muctim.tuoitre.vn/hinh-mau-ban-trai-green-flag-cua-hoi-chi-em-cho-ngay-valentine-101240213003951677.htm) - 01:16 13/02/2024
-- 🏊 [Lộ diện nàng thơ mới trong MV Valentine của Song Luân](https://muctim.tuoitre.vn/lo-dien-nang-tho-moi-trong-mv-valentine-cua-song-luan-101240212234823308.htm) - 01:14 13/02/2024
-- 📝 [Gieo một hạt mầm hạnh phúc](https://muctim.tuoitre.vn/gieo-mot-hat-mam-hanh-phuc-10124020218380786.htm) - 01:14 13/02/2024
-- 👺 [Thơ Tết Khăn Quàng Đỏ 2024](https://muctim.tuoitre.vn/tho-tet-khan-quang-do-2024-101240202152227326.htm) - 00:57 13/02/2024
+- 💃 [Cậu bạn lớp 12 ở Cà Mau sở hữu hơn 30 chiếc tàu chiến](https://muctim.tuoitre.vn/cau-ban-lop-12-o-ca-mau-so-huu-hon-30-chiec-tau-chien-101240203160002984.htm) - 01:27 15/02/2024
+- 🪜 [Kết thúc trọn vẹn của Giữa cơn bão tuyết: Lâm Diệc Dương cầu hôn Ân Quả](https://muctim.tuoitre.vn/ket-thuc-tron-ven-cua-giua-con-bao-tuyet-lam-diec-duong-cau-hon-an-qua-10124021422261447.htm) - 01:21 15/02/2024
+- 🎉 [Cặp đôi phim Mai tung bộ ảnh ngọt ngào nhân Valentine](https://muctim.tuoitre.vn/cap-doi-phim-mai-tung-bo-anh-ngot-ngao-nhan-valentine-101240214150735742.htm) - 01:17 15/02/2024
+- 🥳 [Dữ phượng hành của Triệu Lệ Dĩnh gây bão](https://muctim.tuoitre.vn/du-phuong-hanh-cua-trieu-le-dinh-gay-bao-101240214131805853.htm) - 01:17 15/02/2024
+- 🤓 [Tin tức thể thao sáng 15-2: Ronaldo tỏa sáng ở AFC Champions League](https://muctim.tuoitre.vn/tin-tuc-the-thao-sang-15-2-ronaldo-toa-sang-o-afc-champions-league-101240215081317678.htm) - 01:08 15/02/2024
+- 🎉 [Bị thẻ đỏ gây tranh cãi, Bayern Munich thua Lazio ở Champions League](https://muctim.tuoitre.vn/bi-the-do-gay-tranh-cai-bayern-munich-thua-lazio-o-champions-league-101240215080805428.htm) - 01:01 15/02/2024
+- 🥳 [Mbappe tỏa sáng đưa PSG tiến gần vào tứ kết Champions League](https://muctim.tuoitre.vn/mbappe-toa-sang-dua-psg-tien-gan-vao-tu-ket-champions-league-101240215080109079.htm) - 00:56 15/02/2024
+- 🎡 [Thời tiết hôm nay mùng 6 Tết: Đề phòng dông gió trên biển, Nam Bộ nắng nóng](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-mung-6-tet-de-phong-dong-gio-tren-bien-nam-bo-nang-nong-101240215075453586.htm) - 00:52 15/02/2024
+- 👨‍🏫 [Thứ Năm của 12 cung hoàng đạo &lpar;15-2&rpar;: Ma Kết chú ý điều này](https://muctim.tuoitre.vn/thu-nam-cua-12-cung-hoang-dao-15-2-ma-ket-chu-y-dieu-nay-101240215075106387.htm) - 00:33 15/02/2024
+- 🧠 [Tết trong trái tim ta: Cây bơ yêu thương](https://muctim.tuoitre.vn/tet-trong-trai-tim-ta-cay-bo-yeu-thuong-101240202084801008.htm) - 12:00 14/02/2024
+- 🥷 [Sân chơi Ở đây có Tết: Được mấy lần Tết nữa?](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-duoc-may-lan-tet-nua-101240213221954747.htm) - 06:05 14/02/2024
+- 🤔 [Tizi - Đích Lép gây xúc động với dự án đặc biệt dịp Valentine](https://muctim.tuoitre.vn/tizi-dich-lep-gay-xuc-dong-voi-du-an-dac-biet-dip-valentine-101240214111355997.htm) - 06:03 14/02/2024
+- 🐎 [Vũ trụ có Giang - Cô bạn múa ba lê trên nước](https://muctim.tuoitre.vn/vu-tru-co-giang-co-ban-mua-ba-le-tren-nuoc-101240203154038941.htm) - 01:27 14/02/2024
+- ⛽️ [Kevin De Bruyne tỏa sáng giúp Man City thắng dễ Copenhagen](https://muctim.tuoitre.vn/kevin-de-bruyne-toa-sang-giup-man-city-thang-de-copenhagen-101240214080519144.htm) - 01:01 14/02/2024
+- 🤡 [Real Madrid hạ Leipzig nhờ phút lóe sáng của Diaz](https://muctim.tuoitre.vn/real-madrid-ha-leipzig-nho-phut-loe-sang-cua-diaz-10124021408004956.htm) - 00:55 14/02/2024
+- 🌁 [Thời tiết hôm nay mùng 5 Tết: Bắc Bộ tới Huế mưa nhẹ, Nam Bộ nắng nóng](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-mung-5-tet-bac-bo-toi-hue-mua-nhe-nam-bo-nang-nong-101240214075432071.htm) - 00:51 14/02/2024
+- 🎓 [Valentine của 12 cung hoàng đạo &lpar;ngày 14-2&rpar;: Thiên Bình lãng mạn](https://muctim.tuoitre.vn/valentine-cua-12-cung-hoang-dao-ngay-14-2-thien-binh-lang-man-101240214074917481.htm) - 00:32 14/02/2024
+- 🦍 [Phim Mai tung nhạc phim lụi tim, người thể hiện gây bất ngờ](https://muctim.tuoitre.vn/phim-mai-tung-nhac-phim-lui-tim-nguoi-the-hien-gay-bat-ngo-10124021321425271.htm) - 15:26 13/02/2024
+- 🤠 [Ảnh bạn đọc tham dự sân chơi Một chiếc ảnh Tết](https://muctim.tuoitre.vn/anh-ban-doc-tham-du-san-choi-mot-chiec-anh-tet-101240213215137745.htm) - 14:51 13/02/2024
+- 🎬 [Lễ Valentine trùng Tết Nguyên đán, các cặp đôi hẹn hò thế nào?](https://muctim.tuoitre.vn/le-valentine-trung-tet-nguyen-dan-cac-cap-doi-hen-ho-the-nao-101240212082357972.htm) - 14:24 13/02/2024
+- 🌮 [Sân chơi Ở đây có Tết: Tết trong tôi là...](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-tet-trong-toi-la-101240213211241781.htm) - 14:13 13/02/2024
+- 👹 [Sân chơi Ở đây có Tết: Một cái Tết bất đắc dĩ của tôi](https://muctim.tuoitre.vn/san-choi-o-day-co-tet-mot-cai-tet-bat-dac-di-cua-toi-101240213210216454.htm) - 13:27 13/02/2024
+- 🤔 [Top 15 câu tỏ tình hay dành cho crush trong ngày Valentine](https://muctim.tuoitre.vn/top-15-cau-to-tinh-hay-danh-cho-crush-trong-ngay-valentine-101240212235930147.htm) - 01:18 13/02/2024
+- 🏊 [Cô đi mà lấy chồng tôi tăng kịch tính, chuẩn bị đi đến hồi kết](https://muctim.tuoitre.vn/co-di-ma-lay-chong-toi-tang-kich-tinh-chuan-bi-di-den-hoi-ket-101240213004512164.htm) - 01:17 13/02/2024
+- 📝 [Hình mẫu bạn trai green flag của hội chị em cho ngày Valentine](https://muctim.tuoitre.vn/hinh-mau-ban-trai-green-flag-cua-hoi-chi-em-cho-ngay-valentine-101240213003951677.htm) - 01:16 13/02/2024
+- 👺 [Lộ diện nàng thơ mới trong MV Valentine của Song Luân](https://muctim.tuoitre.vn/lo-dien-nang-tho-moi-trong-mv-valentine-cua-song-luan-101240212234823308.htm) - 01:14 13/02/2024
+- 👹 [Gieo một hạt mầm hạnh phúc](https://muctim.tuoitre.vn/gieo-mot-hat-mam-hanh-phuc-10124020218380786.htm) - 01:14 13/02/2024
+- 🎊 [Thơ Tết Khăn Quàng Đỏ 2024](https://muctim.tuoitre.vn/tho-tet-khan-quang-do-2024-101240202152227326.htm) - 00:57 13/02/2024
 - 👹 [Lịch trực tiếp Champions League: Leipzig đấu Real Madrid](https://muctim.tuoitre.vn/lich-truc-tiep-champions-league-leipzig-dau-real-madrid-101240213075216394.htm) - 00:48 13/02/2024
-- 🎊 [Tin tức thể thao sáng 14-2: Chelsea thắng Crystal Pal; HLV Mascherano dành suất cho Messi ở Olympic](https://muctim.tuoitre.vn/tin-tuc-the-thao-sang-14-2-chelsea-thang-crystal-pal-hlv-mascherano-danh-suat-cho-messi-o-olympic-101240213074810382.htm) - 00:43 13/02/2024
-- 👹 [Thời tiết hôm nay mùng 4 Tết: Nam Bộ nắng cả ngày, Bắc Bộ sáng rét, sương mù](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-mung-4-tet-nam-bo-nang-ca-ngay-bac-bo-sang-ret-suong-mu-101240213074302515.htm) - 00:39 13/02/2024
-- 🎃 [Mùng 4 Tết của 12 cung hoàng đạo &lpar;13-2&rpar;: Song Ngư cần bình tĩnh](https://muctim.tuoitre.vn/mung-4-tet-cua-12-cung-hoang-dao-13-2-song-ngu-can-binh-tinh-101240213073910184.htm) - 00:20 13/02/2024
-- 🧑‍🏫 [Những món quà Valentine dành tặng cho nửa kia của bạn](https://muctim.tuoitre.vn/nhung-mon-qua-valentine-danh-tang-cho-nua-kia-cua-ban-10124021209542555.htm) - 14:23 12/02/2024
-- 🎊 [5 ý tưởng hẹn hò Valentine lý tưởng cho các cặp đôi](https://muctim.tuoitre.vn/5-y-tuong-hen-ho-valentine-ly-tuong-cho-cac-cap-doi-101240211231239191.htm) - 13:00 12/02/2024
-- 📝 [Truyện ngắn Khăn Quàng Đỏ Tết: Con rồng bằng đồng đen](https://muctim.tuoitre.vn/truyen-ngan-khan-quang-do-tet-con-rong-bang-dong-den-101240202095035404.htm) - 13:00 12/02/2024
-- 🥳 [Tết trong trái tim ta: Chuyện Tết của Beo](https://muctim.tuoitre.vn/tet-trong-trai-tim-ta-chuyen-tet-cua-beo-10124020115381153.htm) - 12:00 12/02/2024
-- 💻 [Truyện ngắn Mực Tím: Từ phút ban đầu](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-tu-phut-ban-dau-101240202160326889.htm) - 11:00 12/02/2024
-- 😎 [Đường quê ở Đồng Tháp đẹp mê ly khiến ai nhìn cũng muốn ghé thăm](https://muctim.tuoitre.vn/duong-que-o-dong-thap-dep-me-ly-khien-ai-nhin-cung-muon-ghe-tham-101240212121638047.htm) - 04:16 12/02/2024
-- 🤭 [Gallery &quot;biến cũ thành mới&quot;](https://muctim.tuoitre.vn/gallery-bien-cu-thanh-moi-101240203170412493.htm) - 01:29 12/02/2024
-- 🤩 [Lọ Lem, con gái MC Quyền Linh, kể chuyện gia đình](https://muctim.tuoitre.vn/lo-lem-con-gai-mc-quyen-linh-ke-chuyen-gia-dinh-101240203113727393.htm) - 01:14 12/02/2024
-- 🚀 [Học trò làm Đường 20 Tháng 11 tặng thầy cô](https://muctim.tuoitre.vn/hoc-tro-lam-duong-20-thang-11-tang-thay-co-101240212080539091.htm) - 00:56 12/02/2024
-- 🕴 [Phim Sáng đèn công bố dời lịch chiếu, rời đường đua phim Tết](https://muctim.tuoitre.vn/phim-sang-den-cong-bo-doi-lich-chieu-roi-duong-dua-phim-tet-101240212075626663.htm) - 00:51 12/02/2024
-- ⛽️ [Tin tức thể thao sáng 12-2: Barca lại gây thất vọng](https://muctim.tuoitre.vn/tin-tuc-the-thao-sang-12-2-barca-lai-gay-that-vong-101240212075139217.htm) - 00:48 12/02/2024
-- 🧐 [Bờ Biển Ngà vô địch AFCON 2023](https://muctim.tuoitre.vn/bo-bien-nga-vo-dich-afcon-2023-101240212074740755.htm) - 00:43 12/02/2024
-- 🦆 [Thời tiết hôm nay mùng 3 Tết: Tiết trời thuận lợi du xuân](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-mung-3-tet-tiet-troi-thuan-loi-du-xuan-101240212074225119.htm) - 00:39 12/02/2024
-- 🤖 [Độc đáo bộ sưu tập làm từ mứt Tết của nhà thiết kế Nguyễn Minh Công](https://muctim.tuoitre.vn/doc-dao-bo-suu-tap-lam-tu-mut-tet-cua-nha-thiet-ke-nguyen-minh-cong-101240211215915724.htm) - 00:34 12/02/2024
-- 💃 [Rosé &lpar;BLACKPINK&rpar; đón sinh nhật tuổi 27](https://muctim.tuoitre.vn/rose-blackpink-don-sinh-nhat-tuoi-27-101240211222600874.htm) - 00:33 12/02/2024
-- 🚀 [Mùng 3 Tết của 12 cung hoàng đạo &lpar;12-2&rpar;: Bọ Cạp nạp lại năng lượng](https://muctim.tuoitre.vn/mung-3-tet-cua-12-cung-hoang-dao-12-2-bo-cap-nap-lai-nang-luong-101240212073215985.htm) - 00:32 12/02/2024
-- 🦍 [Tuần mới của 12 cung hoàng đạo &lpar;12-2 đến 18-2-2024&rpar;: Cơ hội của Xử Nữ](https://muctim.tuoitre.vn/tuan-moi-cua-12-cung-hoang-dao-12-2-den-18-2-2024-co-hoi-cua-xu-nu-10124021207170031.htm) - 23:57 11/02/2024<!-- muctim:END -->
+- 🎃 [Tin tức thể thao sáng 14-2: Chelsea thắng Crystal Pal; HLV Mascherano dành suất cho Messi ở Olympic](https://muctim.tuoitre.vn/tin-tuc-the-thao-sang-14-2-chelsea-thang-crystal-pal-hlv-mascherano-danh-suat-cho-messi-o-olympic-101240213074810382.htm) - 00:43 13/02/2024
+- 🧑‍🏫 [Thời tiết hôm nay mùng 4 Tết: Nam Bộ nắng cả ngày, Bắc Bộ sáng rét, sương mù](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-mung-4-tet-nam-bo-nang-ca-ngay-bac-bo-sang-ret-suong-mu-101240213074302515.htm) - 00:39 13/02/2024
+- 🎊 [Mùng 4 Tết của 12 cung hoàng đạo &lpar;13-2&rpar;: Song Ngư cần bình tĩnh](https://muctim.tuoitre.vn/mung-4-tet-cua-12-cung-hoang-dao-13-2-song-ngu-can-binh-tinh-101240213073910184.htm) - 00:20 13/02/2024
+- 📝 [Những món quà Valentine dành tặng cho nửa kia của bạn](https://muctim.tuoitre.vn/nhung-mon-qua-valentine-danh-tang-cho-nua-kia-cua-ban-10124021209542555.htm) - 14:23 12/02/2024
+- 🥳 [5 ý tưởng hẹn hò Valentine lý tưởng cho các cặp đôi](https://muctim.tuoitre.vn/5-y-tuong-hen-ho-valentine-ly-tuong-cho-cac-cap-doi-101240211231239191.htm) - 13:00 12/02/2024
+- 💻 [Truyện ngắn Khăn Quàng Đỏ Tết: Con rồng bằng đồng đen](https://muctim.tuoitre.vn/truyen-ngan-khan-quang-do-tet-con-rong-bang-dong-den-101240202095035404.htm) - 13:00 12/02/2024
+- 😎 [Tết trong trái tim ta: Chuyện Tết của Beo](https://muctim.tuoitre.vn/tet-trong-trai-tim-ta-chuyen-tet-cua-beo-10124020115381153.htm) - 12:00 12/02/2024
+- 🤭 [Truyện ngắn Mực Tím: Từ phút ban đầu](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-tu-phut-ban-dau-101240202160326889.htm) - 11:00 12/02/2024
+- 🤩 [Đường quê ở Đồng Tháp đẹp mê ly khiến ai nhìn cũng muốn ghé thăm](https://muctim.tuoitre.vn/duong-que-o-dong-thap-dep-me-ly-khien-ai-nhin-cung-muon-ghe-tham-101240212121638047.htm) - 04:16 12/02/2024
+- 🚀 [Gallery &quot;biến cũ thành mới&quot;](https://muctim.tuoitre.vn/gallery-bien-cu-thanh-moi-101240203170412493.htm) - 01:29 12/02/2024
+- 🕴 [Lọ Lem, con gái MC Quyền Linh, kể chuyện gia đình](https://muctim.tuoitre.vn/lo-lem-con-gai-mc-quyen-linh-ke-chuyen-gia-dinh-101240203113727393.htm) - 01:14 12/02/2024
+- ⛽️ [Học trò làm Đường 20 Tháng 11 tặng thầy cô](https://muctim.tuoitre.vn/hoc-tro-lam-duong-20-thang-11-tang-thay-co-101240212080539091.htm) - 00:56 12/02/2024
+- 🧐 [Phim Sáng đèn công bố dời lịch chiếu, rời đường đua phim Tết](https://muctim.tuoitre.vn/phim-sang-den-cong-bo-doi-lich-chieu-roi-duong-dua-phim-tet-101240212075626663.htm) - 00:51 12/02/2024
+- 🦆 [Tin tức thể thao sáng 12-2: Barca lại gây thất vọng](https://muctim.tuoitre.vn/tin-tuc-the-thao-sang-12-2-barca-lai-gay-that-vong-101240212075139217.htm) - 00:48 12/02/2024
+- 🤖 [Bờ Biển Ngà vô địch AFCON 2023](https://muctim.tuoitre.vn/bo-bien-nga-vo-dich-afcon-2023-101240212074740755.htm) - 00:43 12/02/2024
+- 💃 [Thời tiết hôm nay mùng 3 Tết: Tiết trời thuận lợi du xuân](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-mung-3-tet-tiet-troi-thuan-loi-du-xuan-101240212074225119.htm) - 00:39 12/02/2024
+- 🚀 [Độc đáo bộ sưu tập làm từ mứt Tết của nhà thiết kế Nguyễn Minh Công](https://muctim.tuoitre.vn/doc-dao-bo-suu-tap-lam-tu-mut-tet-cua-nha-thiet-ke-nguyen-minh-cong-101240211215915724.htm) - 00:34 12/02/2024
+- 🦍 [Rosé &lpar;BLACKPINK&rpar; đón sinh nhật tuổi 27](https://muctim.tuoitre.vn/rose-blackpink-don-sinh-nhat-tuoi-27-101240211222600874.htm) - 00:33 12/02/2024<!-- muctim:END -->
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
