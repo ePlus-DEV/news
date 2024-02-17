@@ -253,7 +253,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- nld:START -->
 - 🐎 [Trồng 1.000 cây xanh trong ngày đầu xuân tại Đà Nẵng](https://nld.com.vn/trong-1000-cay-xanh-trong-ngay-dau-xuan-tai-da-nang-196240217111427332.htm) - 05:27 17/02/2024
 - 😺 [Ukraine giải thích lý do rút khỏi thành trì Avdiivka](https://nld.com.vn/ukraine-giai-thich-ly-do-rut-khoi-thanh-tri-avdiivka-196240217114315219.htm) - 05:21 17/02/2024
-- 👍 [Giây phút ôm em bé thoát khỏi đám cháy trong vụ 4 người chết ở quận 10](https://nld.com.vn/giay-phut-om-em-be-thoat-khoi-dam-chay-trong-vu-4-nguoi-chet-o-quan-10-1962402171213108.htm) - 05:17 17/02/2024
+- 👍 [Bí thư TP HCM Nguyễn Văn Nên đến hiện trường vụ cháy làm 4 người chết ở quận 10](https://nld.com.vn/giay-phut-om-em-be-thoat-khoi-dam-chay-trong-vu-4-nguoi-chet-o-quan-10-1962402171213108.htm) - 05:17 17/02/2024
 - 🥷 [Xôn xao thông tin cô gái &quot;tố&quot; tài xế xe khách sàm sỡ](https://nld.com.vn/xon-xao-thong-tin-co-gai-to-tai-xe-xe-khach-sam-so-196240217093042421.htm) - 05:15 17/02/2024
 - 🤔 [Đề nghị hoàn thành tuyến kênh dài nhất TP HCM dịp 30-4-2025](https://nld.com.vn/de-nghi-hoan-thanh-tuyen-kenh-dai-nhat-tp-hcm-dip-30-4-2025-196240217112427205.htm) - 05:10 17/02/2024
 - 🌈 [TP HCM: Một tháng, đăng ký biến động nhà đất hơn 34.000 sổ hồng](https://nld.com.vn/tp-hcm-mot-thang-dang-ky-bien-dong-nha-dat-hon-34000-so-hong-196240217113638068.htm) - 05:07 17/02/2024
