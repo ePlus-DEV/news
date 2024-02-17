@@ -7,7 +7,7 @@ sidebar_position: 11
 - 💂 [Mang món bánh đường phố Trung Đông từ Ukraine về Hà Nội](https://vnexpress.net/mang-mon-banh-duong-pho-trung-dong-tu-ukraine-ve-ha-noi-4706064.html) - 01:13 17/02/2024
 - 🪄 [Tiền &#39;boa&#39; trong mắt du khách quốc tế tới Việt Nam](https://vnexpress.net/tien-boa-trong-mat-du-khach-quoc-te-toi-viet-nam-4707768.html) - 17:00 16/02/2024
 - 🦅 [Đài Loan đình chỉ hoạt động công ty bỏ rơi khách ở Phú Quốc](https://vnexpress.net/dai-loan-dinh-chi-hoat-dong-cong-ty-bo-roi-khach-o-phu-quoc-4712221.html) - 13:12 16/02/2024
-- 🕴 [Đổ xô đăng ký chuyến đi bí ẩn của hãng bay Thụy Sĩ](https://vnexpress.net/do-xo-dang-ky-chuyen-di-bi-an-cua-hang-bay-thuy-si-4711999.html) - 10:27 16/02/2024
+- 🕴 [Đổ xô đăng ký chuyến đi bí ẩn của hãng bay Thụy Điển](https://vnexpress.net/do-xo-dang-ky-chuyen-di-bi-an-cua-hang-bay-thuy-dien-4711999.html) - 10:27 16/02/2024
 - 👀 [Thái Lan cung cấp bảo hiểm y tế miễn phí cho du khách](https://vnexpress.net/thai-lan-cung-cap-bao-hiem-y-te-mien-phi-cho-du-khach-4711950.html) - 04:30 16/02/2024
 - 🎭 [&#39;Làng cá gỗ&#39; quảng bá hiếu học](https://vnexpress.net/lang-ca-go-quang-ba-hieu-hoc-4702970.html) - 01:14 16/02/2024
 - 🦒 [Những lưu ý ở 5 lễ hội mùa xuân miền Bắc](https://vnexpress.net/nhung-luu-y-o-5-le-hoi-mua-xuan-mien-bac-4711610.html) - 23:09 15/02/2024
