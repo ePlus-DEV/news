@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Cách ông Trump có thể nộp gần 450 triệu USD tiền phạt](https://vnexpress.net/cach-ong-trump-co-the-nop-gan-450-trieu-usd-tien-phat-4712310.html) - 12:00 17/02/2024
+- 🎭 [Ông Trump lấy tiền từ đâu để nộp khoản phạt gần 450 triệu USD](https://vnexpress.net/ong-trump-lay-tien-tu-dau-de-nop-khoan-phat-gan-450-trieu-usd-4712310.html) - 12:00 17/02/2024
 - 🕴 [Ukraine nêu lý do rút quân khỏi Avdeevka](https://vnexpress.net/ukraine-neu-ly-do-rut-quan-khoi-avdeevka-4712441.html) - 11:43 17/02/2024
 - 🤭 [Houthi tập kích tàu dầu trên Biển Đỏ](https://vnexpress.net/houthi-tap-kich-tau-dau-tren-bien-do-4712406.html) - 10:16 17/02/2024
 - 🧑‍💻 [Iran công bố tổ hợp phòng thủ tên lửa đạn đạo](https://vnexpress.net/iran-cong-bo-to-hop-phong-thu-ten-lua-dan-dao-4712419.html) - 09:51 17/02/2024
