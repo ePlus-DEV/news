@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Giành giật manh chiếu cầu con trai ở lễ hội đúc Bụt](https://video.vnexpress.net/gianh-giat-manh-chieu-cau-con-trai-o-le-hoi-duc-but-4712390.html) - 08:23 17/02/2024
+- 🦒 [Giành giật manh chiếu cầu con ở lễ hội đúc Bụt](https://video.vnexpress.net/gianh-giat-manh-chieu-cau-con-o-le-hoi-duc-but-4712390.html) - 08:23 17/02/2024
 - 🤓 [Chen chân giành manh chiếu cầu may](https://vnexpress.net/chen-chan-gianh-manh-chieu-cau-may-4712375.html) - 08:17 17/02/2024
 - ⚗️ [Bên trong nhà cháy làm 4 người chết](https://vnexpress.net/ben-trong-nha-chay-lam-4-nguoi-chet-4712367.html) - 07:45 17/02/2024
 - 🌊 [Đổ xô mua giỏ, vó tre để cầu may](https://video.vnexpress.net/do-xo-mua-gio-vo-tre-de-cau-may-4712368.html) - 07:32 17/02/2024
