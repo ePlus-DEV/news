@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Dầu vón cục dạt vào bờ biển Hà Tĩnh](https://vnexpress.net/dau-von-cuc-dat-vao-bo-bien-ha-tinh-4712284.html) - 02:04 17/02/2024
-- 🤓 [Cháy hai căn nhà ở Sài Gòn, 4 người chết](https://vnexpress.net/chay-hai-can-nha-o-sai-gon-4-nguoi-chet-4712307.html) - 01:28 17/02/2024
+- 🤓 [Cháy ba căn nhà ở Sài Gòn, 4 người chết](https://vnexpress.net/chay-ba-can-nha-o-sai-gon-4-nguoi-chet-4712307.html) - 01:28 17/02/2024
 - ⚗️ [Tăng chất lượng gạo để bán giá cao thay vì thêm vụ](https://vnexpress.net/tang-chat-luong-gao-de-ban-gia-cao-thay-vi-them-vu-4707225.html) - 22:00 16/02/2024
 - 🌊 [Dòng người nhích từng bước ở chợ Viềng](https://video.vnexpress.net/dong-nguoi-nhich-tung-buoc-o-cho-vieng-4712258.html) - 19:29 16/02/2024
 - 🎓 [&#39;TP HCM có tiền làm 200 km metro, chỉ cần cơ chế thực hiện&#39;](https://vnexpress.net/tp-hcm-co-tien-lam-200-km-metro-chi-can-co-che-thuc-hien-4712230.html) - 17:00 16/02/2024
