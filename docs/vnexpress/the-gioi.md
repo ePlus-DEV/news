@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Ông Biden: Nga chưa triển khai kế hoạch vũ khí diệt vệ tinh](https://vnexpress.net/ong-biden-nga-chua-trien-khai-ke-hoach-vu-khi-diet-ve-tinh-4712380.html) - 07:56 17/02/2024
+- 🎭 [Ông Biden: Nga chưa triển khai vũ khí diệt vệ tinh](https://vnexpress.net/ong-biden-nga-chua-trien-khai-vu-khi-diet-ve-tinh-4712380.html) - 07:56 17/02/2024
 - 🕴 [Mỹ có thể sắp chuyển 1.000 quả bom cho Israel](https://vnexpress.net/my-co-the-sap-chuyen-1-000-qua-bom-cho-israel-4712391.html) - 07:54 17/02/2024
 - 🤭 [Hàng nghìn người tìm cách rời Myanmar sau lệnh gọi nhập ngũ](https://vnexpress.net/hang-nghin-nguoi-tim-cach-roi-myanmar-sau-lenh-goi-nhap-ngu-4712357.html) - 07:33 17/02/2024
 - 🧑‍💻 [Nơi phụ nữ phá thai phải ngồi tù](https://vnexpress.net/noi-phu-nu-pha-thai-phai-ngoi-tu-4712353.html) - 05:28 17/02/2024
