@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Phát ngôn viên của Navalny yêu cầu Nga trả thi thể cho gia đình](https://vnexpress.net/phat-ngon-vien-cua-navalny-yeu-cau-nga-tra-thi-the-cho-gia-dinh-4712453.html) - 14:15 17/02/2024
+- 🎭 [Phát ngôn viên của Navalny yêu cầu trả thi thể cho gia đình](https://vnexpress.net/phat-ngon-vien-cua-navalny-yeu-cau-tra-thi-the-cho-gia-dinh-4712453.html) - 14:15 17/02/2024
 - 🕴 [Lợi dụng lỗ hổng pháp lý để ở miễn phí khách sạn 5 năm](https://vnexpress.net/loi-dung-lo-hong-phap-ly-de-o-mien-phi-khach-san-5-nam-4712427.html) - 13:17 17/02/2024
 - 🤭 [Ông Trump lấy tiền từ đâu để nộp khoản phạt gần 450 triệu USD](https://vnexpress.net/ong-trump-lay-tien-tu-dau-de-nop-khoan-phat-gan-450-trieu-usd-4712310.html) - 12:00 17/02/2024
 - 🧑‍💻 [Ukraine nêu lý do rút quân khỏi Avdeevka](https://vnexpress.net/ukraine-neu-ly-do-rut-quan-khoi-avdeevka-4712441.html) - 11:43 17/02/2024
