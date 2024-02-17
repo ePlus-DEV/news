@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Giành giật manh chiếu cầu con ở lễ hội đúc Bụt](https://video.vnexpress.net/gianh-giat-manh-chieu-cau-con-o-le-hoi-duc-but-4712390.html) - 08:23 17/02/2024
 - 🤓 [Chen chân giành manh chiếu cầu may](https://vnexpress.net/chen-chan-gianh-manh-chieu-cau-may-4712375.html) - 08:17 17/02/2024
 - ⚗️ [Bên trong nhà cháy làm 4 người chết](https://vnexpress.net/ben-trong-nha-chay-lam-4-nguoi-chet-4712367.html) - 07:45 17/02/2024
-- 🌊 [Đổ xô mua giỏ, vó tre để cầu may](https://video.vnexpress.net/do-xo-mua-gio-vo-tre-de-cau-may-4712368.html) - 07:32 17/02/2024
+- 🌊 [Đổ xô mua giỏ, vó tre ở chợ Viềng](https://video.vnexpress.net/do-xo-mua-gio-vo-tre-o-cho-vieng-4712368.html) - 07:32 17/02/2024
 - 🎓 [Nguy cơ thiếu cát làm đường ven kênh dài nhất TP HCM](https://vnexpress.net/nguy-co-thieu-cat-lam-duong-ven-kenh-dai-nhat-tp-hcm-4712369.html) - 06:08 17/02/2024
 - 🔥 [Nam Bộ nắng nóng gay gắt kéo dài](https://vnexpress.net/nam-bo-nang-nong-gay-gat-keo-dai-4712198.html) - 05:00 17/02/2024
 - 🦏 [Khen thưởng người cứu bé 3 tuổi bị ném xuống kênh](https://vnexpress.net/khen-thuong-nguoi-cuu-be-3-tuoi-bi-nem-xuong-kenh-4712334.html) - 03:55 17/02/2024
