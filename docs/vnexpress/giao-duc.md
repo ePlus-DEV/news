@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Loạt đại học hàng đầu Hà Lan hạn chế tuyển sinh viên quốc tế](https://vnexpress.net/loat-dai-hoc-hang-dau-ha-lan-han-che-tuyen-sinh-vien-quoc-te-4711823.html) - 05:12 17/02/2024
+- 🤓 [14 đại học hàng đầu Hà Lan hạn chế tuyển sinh viên quốc tế](https://vnexpress.net/14-dai-hoc-hang-dau-ha-lan-han-che-tuyen-sinh-vien-quoc-te-4711823.html) - 05:12 17/02/2024
 - 🦆 [Ba cấu trúc thường gây nhầm lẫn trong tiếng Anh](https://vnexpress.net/ba-cau-truc-thuong-gay-nham-lan-trong-tieng-anh-4711821.html) - 04:00 17/02/2024
 - 🦩 [ĐH Khoa học Tự nhiên xét tuyển chủ yếu bằng điểm thi tốt nghiệp](https://vnexpress.net/dh-khoa-hoc-tu-nhien-xet-tuyen-chu-yeu-bang-diem-thi-tot-nghiep-4712171.html) - 01:53 17/02/2024
 - 🌮 [Người Việt du học nhiều nhất Đông Nam Á](https://vnexpress.net/nguoi-viet-du-hoc-nhieu-nhat-dong-nam-a-4712239.html) - 14:59 16/02/2024
