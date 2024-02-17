@@ -50,8 +50,4 @@ sidebar_position: 9
 - 🎊 [Foden - Palmer: Nhân tố đột biến ở đại chiến Man City - Chelsea](https://vnexpress.net/foden-palmer-nhan-to-dot-bien-o-dai-chien-man-city-chelsea-4712286.html) - 02:52 17/02/2024
 - 👺 [Giá vé vào cửa Văn Miếu 70.000 đồng đắt hay rẻ?](https://vnexpress.net/gia-ve-vao-cua-van-mieu-70-000-dong-dat-hay-re-4712322.html) - 02:52 17/02/2024
 - 🎡 [Thời trang phá cách của Zendaya khi quảng bá &#39;Dune&#39;](https://vnexpress.net/thoi-trang-pha-cach-cua-zendaya-khi-quang-ba-dune-4712045.html) - 02:39 17/02/2024
-- 👍 [Texas tính xây căn cứ quân sự sát biên giới Mexico](https://vnexpress.net/texas-tinh-xay-can-cu-quan-su-sat-bien-gioi-mexico-4712303.html) - 02:37 17/02/2024
-- 🐎 [Bà Harris chỉ trích quan điểm &#39;nước Mỹ trên hết&#39;](https://vnexpress.net/ba-harris-chi-trich-quan-diem-nuoc-my-tren-het-4712308.html) - 02:21 17/02/2024
-- 🏊 [Nên vay 1,5 tỷ mua nhà ở TP HCM hay Cần Thơ?](https://vnexpress.net/nen-vay-1-5-ty-mua-nha-o-tp-hcm-hay-can-tho-4711642.html) - 02:16 17/02/2024
-- 🦩 [Moskva nói Ecuador hủy kế hoạch chuyển khí tài Nga cho Mỹ](https://vnexpress.net/moskva-noi-ecuador-huy-ke-hoach-chuyen-khi-tai-nga-cho-my-4712309.html) - 02:14 17/02/2024
-- 👍 [Dầu vón cục dạt vào bờ biển Hà Tĩnh](https://vnexpress.net/dau-von-cuc-dat-vao-bo-bien-ha-tinh-4712284.html) - 02:04 17/02/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 👍 [Texas tính xây căn cứ quân sự sát biên giới Mexico](https://vnexpress.net/texas-tinh-xay-can-cu-quan-su-sat-bien-gioi-mexico-4712303.html) - 02:37 17/02/2024<!-- vnexpress-tin-moi-nhat:END -->
