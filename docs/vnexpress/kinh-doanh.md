@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Giá vàng nhẫn lập đỉnh trước ngày vía Thần Tài](https://vnexpress.net/gia-vang-nhan-lap-dinh-truoc-ngay-via-than-tai-4712432.html) - 11:13 17/02/2024
+- ⛽️ [Giá vàng nhẫn lập đỉnh trước ngày vía Thần Tài](https://vnexpress.net/gia-vang-nhan-lap-dinh-truoc-ngay-than-tai-4712432.html) - 11:13 17/02/2024
 - 🐲 [Sức mạnh tài chính của Nga được dự báo khó suy giảm](https://vnexpress.net/suc-manh-tai-chinh-cua-nga-duoc-du-bao-kho-suy-giam-4712342.html) - 11:07 17/02/2024
 - 🔥 [Công ty sở hữu ChatGPT được định giá 80 tỷ USD](https://vnexpress.net/cong-ty-so-huu-chatgpt-duoc-dinh-gia-80-ty-usd-4712423.html) - 11:02 17/02/2024
 - 🐵 [Người dân ngại chi tiêu, đẩy Nhật Bản vào suy thoái](https://vnexpress.net/nguoi-dan-ngai-chi-tieu-day-nhat-ban-vao-suy-thoai-4712320.html) - 04:05 17/02/2024
