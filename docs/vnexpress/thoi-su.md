@@ -9,7 +9,7 @@ sidebar_position: 1
 - ⚗️ [Nam sinh bị đuối nước khi cứu bạn](https://vnexpress.net/nam-sinh-bi-duoi-nuoc-khi-cuu-ban-4712642.html) - 14:38 18/02/2024
 - 🌊 [Tưởng nhớ người mở cõi Huyền Trân công chúa](https://vnexpress.net/tuong-nho-nguoi-mo-coi-huyen-tran-cong-chua-4712630.html) - 14:19 18/02/2024
 - 🎓 [Bảy ôtô tông nhau, cao tốc Trung Lương - Mỹ Thuận ùn ứ 10 km](https://vnexpress.net/bay-oto-tong-nhau-cao-toc-trung-luong-my-thuan-un-u-10-km-4712638.html) - 14:14 18/02/2024
-- 🔥 [Ôtô đối đầu, một người chết](https://vnexpress.net/oto-doi-dau-mot-nguoi-chet-4712637.html) - 13:53 18/02/2024
+- 🔥 [Ôtô đấu đầu, một người chết](https://vnexpress.net/oto-dau-dau-mot-nguoi-chet-4712637.html) - 13:53 18/02/2024
 - 🦏 [Hiện trường vụ tông xe liên hoàn khiến ba người chết](https://vnexpress.net/hien-truong-vu-tong-xe-lien-hoan-khien-ba-nguoi-chet-4712599.html) - 09:49 18/02/2024
 - 👺 [Chủ tịch nước Võ Văn Thưởng khai bút đầu xuân](https://vnexpress.net/chu-tich-nuoc-vo-van-thuong-khai-but-dau-xuan-4712564.html) - 08:14 18/02/2024
 - 🧑‍🏫 [Thi thể hai bé trai dưới hồ](https://vnexpress.net/thi-the-hai-be-trai-duoi-ho-4712567.html) - 06:51 18/02/2024
