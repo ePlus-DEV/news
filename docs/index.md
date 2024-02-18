@@ -251,10 +251,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Nhóm &quot;nữ quái&quot; gây ra hàng loạt vụ trộm cắp tại lễ hội Tiên Công](https://nld.com.vn/nhom-nu-quai-gay-ra-hang-loat-vu-trom-cap-tai-le-hoi-tien-cong-196240218191230845.htm) - 13:43 18/02/2024
-- 😺 [CLB LPBank HAGL thua trận đầu tiên dưới thời HLV Vũ Tiến Thành](https://nld.com.vn/clb-lpbank-hagl-thua-tran-dau-tien-duoi-thoi-hlv-vu-tien-thanh-196240218195111034.htm) - 13:01 18/02/2024
-- 👍 [Vì sao nhiều người có tiền nhưng dễ bị lừa trên mạng?](https://nld.com.vn/vi-sao-nhieu-nguoi-co-tien-nhung-de-bi-lua-tren-mang-1962402181756292.htm) - 12:48 18/02/2024
-- 🥷 [Trả lại vẻ đẹp cho lễ hội truyền thống](https://nld.com.vn/tra-lai-ve-dep-cho-le-hoi-truyen-thong-196240218194046049.htm) - 12:47 18/02/2024
+- 🐎 [Tối 18-2, giá vàng SJC giảm, khách ùn ùn đi mua vàng trước ngày Thần Tài](https://nld.com.vn/toi-18-2-gia-vang-sjc-giam-khach-un-un-di-mua-vang-truoc-ngay-than-tai-196240218212913322.htm) - 14:42 18/02/2024
+- 😺 [Nhóm &quot;nữ quái&quot; gây ra hàng loạt vụ trộm cắp tại lễ hội Tiên Công](https://nld.com.vn/nhom-nu-quai-gay-ra-hang-loat-vu-trom-cap-tai-le-hoi-tien-cong-196240218191230845.htm) - 13:43 18/02/2024
+- 👍 [CLB LPBank HAGL thua trận đầu tiên dưới thời HLV Vũ Tiến Thành](https://nld.com.vn/clb-lpbank-hagl-thua-tran-dau-tien-duoi-thoi-hlv-vu-tien-thanh-196240218195111034.htm) - 13:01 18/02/2024
+- 🥷 [Vì sao nhiều người có tiền nhưng dễ bị lừa trên mạng?](https://nld.com.vn/vi-sao-nhieu-nguoi-co-tien-nhung-de-bi-lua-tren-mang-1962402181756292.htm) - 12:48 18/02/2024
 - 🤔 [Cựu tuyển thủ Hà Minh Tuấn bất tỉnh trong trận đấu trên sân Hòa Xuân](https://nld.com.vn/cuu-tuyen-thu-ha-minh-tuan-bat-tinh-trong-tran-dau-tren-san-hoa-xuan-196240218192403996.htm) - 12:25 18/02/2024
 - 🌈 [Liên đoàn quyền Anh Việt Nam tổ chức tập huấn giám sát và HLV chuyên nghiệp](https://nld.com.vn/lien-doan-quyen-anh-viet-nam-to-chuc-tap-huan-giam-sat-va-hlv-chuyen-nghiep-196240218185838484.htm) - 12:04 18/02/2024
 - 🔥 [Ông Donald Trump &quot;nặng lời&quot; với khoản phạt gần 355 triệu USD](https://nld.com.vn/ong-donald-trump-nang-loi-voi-khoan-phat-gan-355-trieu-usd-196240218184935813.htm) - 12:01 18/02/2024
