@@ -12,7 +12,7 @@ sidebar_position: 5
 - ⚗️ [Những bộ đầm đẹp trong lịch sử BAFTA](https://vnexpress.net/nhung-bo-dam-dep-trong-lich-su-bafta-4712570.html) - 09:00 18/02/2024
 - 😎 [Loạt đầm bầu của Lan Phương](https://vnexpress.net/loat-dam-bau-cua-lan-phuong-4712526.html) - 07:30 18/02/2024
 - 🫣 [Những &#39;vụ án&#39; văn chương khoa cử ở triều Nguyễn](https://vnexpress.net/nhung-vu-an-van-chuong-khoa-cu-o-trieu-nguyen-4712135.html) - 05:55 18/02/2024
-- 🪄 [Hoa hậu Thùy Tiên: &#39;Tôi muốn lấy chồng&#39;](https://vnexpress.net/hoa-hau-thuy-tien-toi-muon-lay-chong-4706653.html) - 05:21 18/02/2024
+- 🪄 [Thùy Tiên: &#39;Nhìn bạn bè kết hôn, tôi cũng muốn lấy chồng&#39;](https://vnexpress.net/thuy-tien-nhin-ban-be-ket-hon-toi-cung-muon-lay-chong-4706653.html) - 05:21 18/02/2024
 - 🤓 [Mai Phương cùng dàn mỹ nhân đến Ấn Độ thi Miss World](https://vnexpress.net/mai-phuong-cung-dan-my-nhan-den-an-do-thi-miss-world-4712512.html) - 04:00 18/02/2024
 - 🫶 [Á hậu Trương Thị May rung chuông chùa đầu năm](https://vnexpress.net/a-hau-truong-thi-may-rung-chuong-chua-dau-nam-4712501.html) - 02:14 18/02/2024
 - 🧑‍🏫 [Sao theo đuổi mốt &#39;vợ ông trùm&#39;](https://vnexpress.net/sao-theo-duoi-mot-vo-ong-trum-4712358.html) - 01:33 18/02/2024
