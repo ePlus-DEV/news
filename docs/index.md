@@ -608,7 +608,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧰 [Nhớ Rau Việt ở Cuba](https://tienphong.vn/nho-rau-viet-o-cuba-post1610479.tpo) - 16:58 18/02/2024
 - 💂 [Đang quét rác trước sân nhà, người phụ nữ bị cướp xông vào giật dây chuyền](https://tienphong.vn/dang-quet-rac-truoc-san-nha-nguoi-phu-nu-bi-cuop-xong-vao-giat-day-chuyen-post1613061.tpo) - 16:53 18/02/2024
 - 🦏 [Á hậu gốc Việt gây chú ý ở show tuyển chọn thần tượng](https://tienphong.vn/a-hau-goc-viet-gay-chu-y-o-show-tuyen-chon-than-tuong-post1613053.tpo) - 16:49 18/02/2024
-- 🌋 [Nam thanh niên nhảy sông tự tử](https://tienphong.vn/nam-thanh-nien-nhay-song-tu-tu-post1613047.tpo) - 16:45 18/02/2024
+- 🌋 [Nam thanh niên ở Nghệ An nhảy sông tự tử](https://tienphong.vn/nam-thanh-nien-o-nghe-an-nhay-song-tu-tu-post1613047.tpo) - 16:45 18/02/2024
 - 🧰 [Cụ ông 84 tuổi &#39;trồng cây chuối&#39; bên bờ Hồ khiến thanh niên trầm trồ](https://tienphong.vn/cu-ong-84-tuoi-trong-cay-chuoi-ben-bo-ho-khien-thanh-nien-tram-tro-post1612981.tpo) - 16:43 18/02/2024
 - 🦩 [Thêm cường kích-ném bom Su-34 Nga bị Ukraine bắn hạ](https://tienphong.vn/them-cuong-kich-nem-bom-su-34-nga-bi-ukraine-ban-ha-post1613052.tpo) - 16:23 18/02/2024
 - 📝 [Những thực phẩm đại kỵ với mật ong, chớ dại ăn chung kẻo nguy hiểm khôn lường](https://tienphong.vn/nhung-thuc-pham-dai-ky-voi-mat-ong-cho-dai-an-chung-keo-nguy-hiem-khon-luong-post1613013.tpo) - 16:18 18/02/2024
