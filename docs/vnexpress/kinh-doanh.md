@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Diễn biến giá vàng quanh dịp Vía Thần tài chục năm qua](https://vnexpress.net/dien-bien-gia-vang-quanh-dip-via-than-tai-chuc-nam-qua-4712668.html) - 23:15 18/02/2024
+- ⛽️ [Diễn biến giá vàng quanh dịp Vía Thần tài 10 năm qua](https://vnexpress.net/dien-bien-gia-vang-quanh-dip-via-than-tai-10-nam-qua-4712668.html) - 23:15 18/02/2024
 - 🐲 [Máy bay Trung Quốc lần đầu ra nước ngoài](https://vnexpress.net/may-bay-trung-quoc-lan-dau-ra-nuoc-ngoai-4712608.html) - 10:27 18/02/2024
 - 🔥 [Nhiều người đi mua vàng trước ngày vía Thần Tài](https://vnexpress.net/nhon-nhip-di-mua-vang-truoc-ngay-via-than-tai-4712596.html) - 09:55 18/02/2024
 - 🐵 [Giá vàng thế giới tuần sau có thể giảm](https://vnexpress.net/gia-vang-the-gioi-tuan-sau-co-the-giam-4712543.html) - 08:00 18/02/2024
