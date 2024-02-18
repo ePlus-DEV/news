@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Trấn Thành từ tay ngang thành &#39;đạo diễn nghìn tỷ&#39; như thế nào](https://vnexpress.net/tran-thanh-tu-tay-ngang-thanh-dao-dien-nghin-ty-nhu-the-nao-4712197.html) - 17:00 18/02/2024
+- 🌏 [&#39;Ả cave nhà hàng Maxim&#39; - kịch về mặt trái giới thượng lưu Pháp](https://vnexpress.net/a-cave-nha-hang-maxim-kich-ve-mat-trai-gioi-thuong-luu-phap-4712616.html) - 17:48 18/02/2024
 - 💫 [Thời trang tôn sắc vóc tuổi 25 của em gái Trấn Thành](https://vnexpress.net/thoi-trang-ton-sac-voc-tuoi-25-cua-em-gai-tran-thanh-4712588.html) - 13:00 18/02/2024
 - 🌮 [Tóc bob &#39;Tiền cũ&#39; trở thành xu hướng hot](https://vnexpress.net/toc-bob-tien-cu-tro-thanh-xu-huong-hot-4712575.html) - 11:22 18/02/2024
 - 🧠 [Blazer đồng hồ cát - chiếc áo tôn mọi vóc dáng](https://vnexpress.net/blazer-dong-ho-cat-chiec-ao-ton-moi-voc-dang-4712590.html) - 11:18 18/02/2024
