@@ -54,5 +54,4 @@ sidebar_position: 9
 - 🐎 [Tác dụng đặt muỗng gỗ lên miệng nồi khi nấu ăn](https://vnexpress.net/tac-dung-dat-muong-go-len-mieng-noi-khi-nau-an-4712331.html) - 04:00 18/02/2024
 - 🏊 [Lợi ích của hạt hướng dương với người bệnh tiểu đường](https://vnexpress.net/loi-ich-cua-hat-huong-duong-voi-nguoi-benh-tieu-duong-4712411.html) - 04:00 18/02/2024
 - 🦩 [Trắc nghiệm để biết nguyên nhân trẻ tự kỷ](https://vnexpress.net/trac-nghiem-de-biet-nguyen-nhan-tre-tu-ky-4712409.html) - 04:00 18/02/2024
-- 👍 [6 món ăn giảm ợ nóng](https://vnexpress.net/6-mon-an-giam-o-nong-4712343.html) - 04:00 18/02/2024
-- 🔥 [Guardiola: &#39;Tôi không thể bảo Haaland cách ghi bàn&#39;](https://vnexpress.net/guardiola-toi-khong-the-bao-haaland-cach-ghi-ban-4712551.html) - 03:58 18/02/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 👍 [6 món ăn giảm ợ nóng](https://vnexpress.net/6-mon-an-giam-o-nong-4712343.html) - 04:00 18/02/2024<!-- vnexpress-tin-moi-nhat:END -->
