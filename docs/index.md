@@ -207,46 +207,46 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [&quot;Chúng ta của 8 năm sau&quot; trở lại, nhiều chuyện tồi tệ xảy ra với Dương và Lâm](https://laodong.vn/giai-tri/chung-ta-cua-8-nam-sau-tro-lai-nhieu-chuyen-toi-te-xay-ra-voi-duong-va-lam-1305347.ldo) - 10:28 18/02/2024
-- 📝 [Cập nhật giá vàng hôm nay trong nước và thế giới 18.2](https://laodong.vn/infographic/cap-nhat-gia-vang-hom-nay-trong-nuoc-va-the-gioi-182-1305385.ldo) - 10:23 18/02/2024
+- 🗽 [Trực tiếp CLB Thanh Hoá và Hà Nội tại vòng 9 V.League 2023-2024](https://laodong.vn/bong-da/truc-tiep-clb-thanh-hoa-va-ha-noi-tai-vong-9-vleague-2023-2024-1305320.ldo) - 10:35 18/02/2024
+- 📝 [Nam tài xế ly hôn sau 4 tháng cưới, được mai mối cho mẹ đơn thân](https://laodong.vn/gia-dinh-hon-nhan/nam-tai-xe-ly-hon-sau-4-thang-cuoi-duoc-mai-moi-cho-me-don-than-1305341.ldo) - 10:31 18/02/2024
+- 🦏 [&quot;Chúng ta của 8 năm sau&quot; trở lại, nhiều chuyện tồi tệ xảy ra với Dương và Lâm](https://laodong.vn/giai-tri/chung-ta-cua-8-nam-sau-tro-lai-nhieu-chuyen-toi-te-xay-ra-voi-duong-va-lam-1305347.ldo) - 10:28 18/02/2024
+- 🦩 [Cập nhật giá vàng hôm nay trong nước và thế giới 18.2](https://laodong.vn/infographic/cap-nhat-gia-vang-hom-nay-trong-nuoc-va-the-gioi-182-1305385.ldo) - 10:23 18/02/2024
 - 🦏 [Đến từng tàu thăm, tặng quà bà con ngư dân nhân chuyến biển đầu năm](https://laodong.vn/video/den-tung-tau-tham-tang-qua-ba-con-ngu-dan-nhan-chuyen-bien-dau-nam-1305372.ldo) - 10:21 18/02/2024
-- 🦩 [Những loại bánh độc lạ hút khách ngày vía Thần Tài](https://laodong.vn/video-kinh-te/nhung-loai-banh-doc-la-hut-khach-ngay-via-than-tai-1305365.ldo) - 10:16 18/02/2024
-- 🦏 [Đường 2.000 tỉ chưa được bàn giao, người dân bất chấp nguy hiểm vẫn đi vào](https://laodong.vn/photo/duong-2000-ti-chua-duoc-ban-giao-nguoi-dan-bat-chap-nguy-hiem-van-di-vao-1305289.ldo) - 10:14 18/02/2024
-- 🧰 [Hà Nội kiểm tra 2.400 cơ sở kinh doanh dễ bị lợi dụng để hoạt động mại dâm](https://laodong.vn/xa-hoi/ha-noi-kiem-tra-2400-co-so-kinh-doanh-de-bi-loi-dung-de-hoat-dong-mai-dam-1305364.ldo) - 10:12 18/02/2024
-- 🌊 [Sôi động khuyến mãi sau Tết, người Cần Thơ tranh thủ mua dự trữ](https://laodong.vn/photo/soi-dong-khuyen-mai-sau-tet-nguoi-can-tho-tranh-thu-mua-du-tru-1305321.ldo) - 10:11 18/02/2024
-- 🔥 [Đóng bảo hiểm 4 năm 5 tháng, người lao động có được rút bảo hiểm xã hội một lần?](https://laodong.vn/ban-doc/dong-bao-hiem-4-nam-5-thang-nguoi-lao-dong-co-duoc-rut-bao-hiem-xa-hoi-mot-lan-1305352.ldo) - 10:09 18/02/2024
-- 🦒 [Trò chuyện với những thủy thủ trên thuyền đua đầu tiên vào vịnh Hạ Long](https://laodong.vn/xa-hoi/tro-chuyen-voi-nhung-thuy-thu-tren-thuyen-dua-dau-tien-vao-vinh-ha-long-1305324.ldo) - 10:08 18/02/2024
-- 💼 [Hàng ngàn người đổ về Lễ hội đền Huyền Trân tưởng nhớ bậc tiền nhân](https://laodong.vn/photo/hang-ngan-nguoi-do-ve-le-hoi-den-huyen-tran-tuong-nho-bac-tien-nhan-1305299.ldo) - 10:06 18/02/2024
-- 🤖 [Mua vàng ngày vía Thần tài cần lưu ý 4 điều sau đây](https://laodong.vn/infographic/mua-vang-ngay-via-than-tai-can-luu-y-4-dieu-sau-day-1305310.ldo) - 10:06 18/02/2024
-- 💪 [Tiến độ 4 dự án cao tốc trọng điểm đi qua địa bàn Khánh Hòa](https://laodong.vn/xa-hoi/tien-do-4-du-an-cao-toc-trong-diem-di-qua-dia-ban-khanh-hoa-1304928.ldo) - 09:54 18/02/2024
-- 👍 [Rashford, Hojlund và Garnacho đang dẫn đầu sự hồi sinh của Man United](https://laodong.vn/bong-da-quoc-te/rashford-hojlund-va-garnacho-dang-dan-dau-su-hoi-sinh-cua-man-united-1305315.ldo) - 09:51 18/02/2024
-- 💂 [Klinsmann và những huấn luyện viên mất việc sau Asian Cup 2023](https://laodong.vn/bong-da/klinsmann-va-nhung-huan-luyen-vien-mat-viec-sau-asian-cup-2023-1305339.ldo) - 09:48 18/02/2024
-- 🧰 [Bình Thuận ngăn chặn nạn lấn chiếm đất, xây dựng trái phép](https://laodong.vn/bat-dong-san/binh-thuan-ngan-chan-nan-lan-chiem-dat-xay-dung-trai-phep-1305346.ldo) - 09:47 18/02/2024
-- 🥷 [Dự báo thời tiết ngày mai 19.2 trên cả nước](https://laodong.vn/moi-truong/du-bao-thoi-tiet-ngay-mai-192-tren-ca-nuoc-1305245.ldo) - 09:45 18/02/2024
-- 💫 [Hơn 300.000 lượt đoàn viên được hưởng lợi từ chương trình Hành trình Tết Công đoàn - Xuân 2024](https://laodong.vn/cong-doan/hon-300000-luot-doan-vien-duoc-huong-loi-tu-chuong-trinh-hanh-trinh-tet-cong-doan-xuan-2024-1305344.ldo) - 09:45 18/02/2024
-- 🎭 [Vĩnh Long đã giao 3 triệu m3 cát cho cao tốc Cần Thơ - Cà Mau](https://laodong.vn/xa-hoi/vinh-long-da-giao-3-trieu-m3-cat-cho-cao-toc-can-tho-ca-mau-1305338.ldo) - 09:43 18/02/2024
-- 😎 [Nguy cơ ngộ độc thực phẩm sau Tết rất cao](https://laodong.vn/suc-khoe/nguy-co-ngo-doc-thuc-pham-sau-tet-rat-cao-1305307.ldo) - 09:41 18/02/2024
-- 💄 [Nên mua nhiều hay ít vàng ngày vía Thần Tài để cầu may mắn](https://laodong.vn/tien-te-dau-tu/nen-mua-nhieu-hay-it-vang-ngay-via-than-tai-de-cau-may-man-1305178.ldo) - 09:39 18/02/2024
-- 🫣 [Thêm 17 trường ở Hải Dương được công nhận đạt chuẩn quốc gia](https://laodong.vn/giao-duc/them-17-truong-o-hai-duong-duoc-cong-nhan-dat-chuan-quoc-gia-1305326.ldo) - 09:19 18/02/2024
-- 🧑‍🏫 [Một công ty tuyển khoảng 400 lao động cho gói thầu 35.000 tỉ đồng ở sân bay Long Thành](https://laodong.vn/cong-doan/mot-cong-ty-tuyen-khoang-400-lao-dong-cho-goi-thau-35000-ti-dong-o-san-bay-long-thanh-1305308.ldo) - 09:16 18/02/2024
-- 🦣 [Dâng hương khai Xuân tại Hoàng thành Thăng Long](https://laodong.vn/xa-hoi/dang-huong-khai-xuan-tai-hoang-thanh-thang-long-1305323.ldo) - 09:10 18/02/2024
+- 🧰 [Những loại bánh độc lạ hút khách ngày vía Thần Tài](https://laodong.vn/video-kinh-te/nhung-loai-banh-doc-la-hut-khach-ngay-via-than-tai-1305365.ldo) - 10:16 18/02/2024
+- 🌊 [Đường 2.000 tỉ chưa được bàn giao, người dân bất chấp nguy hiểm vẫn đi vào](https://laodong.vn/photo/duong-2000-ti-chua-duoc-ban-giao-nguoi-dan-bat-chap-nguy-hiem-van-di-vao-1305289.ldo) - 10:14 18/02/2024
+- 🔥 [Hà Nội kiểm tra 2.400 cơ sở kinh doanh dễ bị lợi dụng để hoạt động mại dâm](https://laodong.vn/xa-hoi/ha-noi-kiem-tra-2400-co-so-kinh-doanh-de-bi-loi-dung-de-hoat-dong-mai-dam-1305364.ldo) - 10:12 18/02/2024
+- 🦒 [Sôi động khuyến mãi sau Tết, người Cần Thơ tranh thủ mua dự trữ](https://laodong.vn/photo/soi-dong-khuyen-mai-sau-tet-nguoi-can-tho-tranh-thu-mua-du-tru-1305321.ldo) - 10:11 18/02/2024
+- 💼 [Đóng bảo hiểm 4 năm 5 tháng, người lao động có được rút bảo hiểm xã hội một lần?](https://laodong.vn/ban-doc/dong-bao-hiem-4-nam-5-thang-nguoi-lao-dong-co-duoc-rut-bao-hiem-xa-hoi-mot-lan-1305352.ldo) - 10:09 18/02/2024
+- 🤖 [Trò chuyện với những thủy thủ trên thuyền đua đầu tiên vào vịnh Hạ Long](https://laodong.vn/xa-hoi/tro-chuyen-voi-nhung-thuy-thu-tren-thuyen-dua-dau-tien-vao-vinh-ha-long-1305324.ldo) - 10:08 18/02/2024
+- 💪 [Hàng ngàn người đổ về Lễ hội đền Huyền Trân tưởng nhớ bậc tiền nhân](https://laodong.vn/photo/hang-ngan-nguoi-do-ve-le-hoi-den-huyen-tran-tuong-nho-bac-tien-nhan-1305299.ldo) - 10:06 18/02/2024
+- 👍 [Mua vàng ngày vía Thần tài cần lưu ý 4 điều sau đây](https://laodong.vn/infographic/mua-vang-ngay-via-than-tai-can-luu-y-4-dieu-sau-day-1305310.ldo) - 10:06 18/02/2024
+- 💂 [Tiến độ 4 dự án cao tốc trọng điểm đi qua địa bàn Khánh Hòa](https://laodong.vn/xa-hoi/tien-do-4-du-an-cao-toc-trong-diem-di-qua-dia-ban-khanh-hoa-1304928.ldo) - 09:54 18/02/2024
+- 🧰 [Rashford, Hojlund và Garnacho đang dẫn đầu sự hồi sinh của Man United](https://laodong.vn/bong-da-quoc-te/rashford-hojlund-va-garnacho-dang-dan-dau-su-hoi-sinh-cua-man-united-1305315.ldo) - 09:51 18/02/2024
+- 🥷 [Klinsmann và những huấn luyện viên mất việc sau Asian Cup 2023](https://laodong.vn/bong-da/klinsmann-va-nhung-huan-luyen-vien-mat-viec-sau-asian-cup-2023-1305339.ldo) - 09:48 18/02/2024
+- 💫 [Bình Thuận ngăn chặn nạn lấn chiếm đất, xây dựng trái phép](https://laodong.vn/bat-dong-san/binh-thuan-ngan-chan-nan-lan-chiem-dat-xay-dung-trai-phep-1305346.ldo) - 09:47 18/02/2024
+- 🎭 [Dự báo thời tiết ngày mai 19.2 trên cả nước](https://laodong.vn/moi-truong/du-bao-thoi-tiet-ngay-mai-192-tren-ca-nuoc-1305245.ldo) - 09:45 18/02/2024
+- 😎 [Hơn 300.000 lượt đoàn viên được hưởng lợi từ chương trình Hành trình Tết Công đoàn - Xuân 2024](https://laodong.vn/cong-doan/hon-300000-luot-doan-vien-duoc-huong-loi-tu-chuong-trinh-hanh-trinh-tet-cong-doan-xuan-2024-1305344.ldo) - 09:45 18/02/2024
+- 💄 [Vĩnh Long đã giao 3 triệu m3 cát cho cao tốc Cần Thơ - Cà Mau](https://laodong.vn/xa-hoi/vinh-long-da-giao-3-trieu-m3-cat-cho-cao-toc-can-tho-ca-mau-1305338.ldo) - 09:43 18/02/2024
+- 🫣 [Nguy cơ ngộ độc thực phẩm sau Tết rất cao](https://laodong.vn/suc-khoe/nguy-co-ngo-doc-thuc-pham-sau-tet-rat-cao-1305307.ldo) - 09:41 18/02/2024
+- 🧑‍🏫 [Nên mua nhiều hay ít vàng ngày vía Thần Tài để cầu may mắn](https://laodong.vn/tien-te-dau-tu/nen-mua-nhieu-hay-it-vang-ngay-via-than-tai-de-cau-may-man-1305178.ldo) - 09:39 18/02/2024
+- 🦣 [Thêm 17 trường ở Hải Dương được công nhận đạt chuẩn quốc gia](https://laodong.vn/giao-duc/them-17-truong-o-hai-duong-duoc-cong-nhan-dat-chuan-quoc-gia-1305326.ldo) - 09:19 18/02/2024
+- 💫 [Một công ty tuyển khoảng 400 lao động cho gói thầu 35.000 tỉ đồng ở sân bay Long Thành](https://laodong.vn/cong-doan/mot-cong-ty-tuyen-khoang-400-lao-dong-cho-goi-thau-35000-ti-dong-o-san-bay-long-thanh-1305308.ldo) - 09:16 18/02/2024
+- ⛽️ [Dâng hương khai Xuân tại Hoàng thành Thăng Long](https://laodong.vn/xa-hoi/dang-huong-khai-xuan-tai-hoang-thanh-thang-long-1305323.ldo) - 09:10 18/02/2024
 - 💫 [Bắc Giang thu ngân sách hơn 2.500 tỉ đồng trong tháng đầu năm](https://laodong.vn/xa-hoi/bac-giang-thu-ngan-sach-hon-2500-ti-dong-trong-thang-dau-nam-1305247.ldo) - 09:03 18/02/2024
-- ⛽️ [Sắc xuân đậm đà nơi làng đá cổ có từ thời nhà Mạc](https://laodong.vn/photo/sac-xuan-dam-da-noi-lang-da-co-co-tu-thoi-nha-mac-1305131.ldo) - 09:02 18/02/2024
-- 💫 [Năm 2024, Bộ Y tế bãi bỏ 12 thủ tục hành chính khám chữa bệnh](https://laodong.vn/ban-tin/nam-2024-bo-y-te-bai-bo-12-thu-tuc-hanh-chinh-kham-chua-benh-1305136.ldo) - 09:02 18/02/2024
-- 🥸 [Tài xế ôtô đấm đá túi bụi nam shipper ở Hà Nội](https://laodong.vn/phap-luat/tai-xe-oto-dam-da-tui-bui-nam-shipper-o-ha-noi-1305273.ldo) - 09:01 18/02/2024
-- 🐻 [Cách giảm đau chân hiệu quả khi đi giày cao gót](https://laodong.vn/lam-dep/cach-giam-dau-chan-hieu-qua-khi-di-giay-cao-got-1305038.ldo) - 09:00 18/02/2024
-- 🪄 [Sức mua tăng hơn 20% trước ngày vía Thần Tài, dân đổ xô mua vàng tích trữ](https://laodong.vn/video-kinh-te/suc-mua-tang-hon-20-truoc-ngay-via-than-tai-dan-do-xo-mua-vang-tich-tru-1305309.ldo) - 08:59 18/02/2024
-- 🧑‍🏫 [Link xem trực tiếp Thanh Hoá vs Hà Nội FC tại vòng 9 V.League](https://laodong.vn/bong-da/link-xem-truc-tiep-thanh-hoa-vs-ha-noi-fc-tai-vong-9-vleague-1305263.ldo) - 08:57 18/02/2024
-- 🌊 [Gánh nặng nuôi con của nữ công nhân khu công nghiệp](https://laodong.vn/video/ganh-nang-nuoi-con-cua-nu-cong-nhan-khu-cong-nghiep-1305285.ldo) - 08:56 18/02/2024
-- 💻 [Lý do khán giả bỗng săn lùng, làm sập web đặt phim Đào, phở và piano](https://laodong.vn/giai-tri/ly-do-khan-gia-bong-san-lung-lam-sap-web-dat-phim-dao-pho-va-piano-1305316.ldo) - 08:54 18/02/2024
-- 👨‍🏫 [Chùa Hà đông nghịt người đi gieo quẻ xăm cầu may](https://laodong.vn/photo/chua-ha-dong-nghit-nguoi-di-gieo-que-xam-cau-may-1305231.ldo) - 08:54 18/02/2024
-- 🌈 [Công đoàn thực hiện chương trình “Cha mẹ đỡ đầu”](https://laodong.vn/cong-doan/cong-doan-thuc-hien-chuong-trinh-cha-me-do-dau-1305295.ldo) - 08:49 18/02/2024
-- 🐲 [5 loại nhạc cụ cơ bản giúp các bé phát triển năng khiếu](https://laodong.vn/nuoi-con/5-loai-nhac-cu-co-ban-giup-cac-be-phat-trien-nang-khieu-1305301.ldo) - 08:47 18/02/2024
-- 🚀 [Dùng tiền lì xì mua vàng ngày vía Thần Tài để cầu may và làm vốn cho con](https://laodong.vn/tien-te-dau-tu/dung-tien-li-xi-mua-vang-ngay-via-than-tai-de-cau-may-va-lam-von-cho-con-1305283.ldo) - 08:43 18/02/2024
-- 😺 [120 vận động viên đua thuyền làm dậy sóng dòng sông Cu Đê, Đà Nẵng](https://laodong.vn/the-thao/120-van-dong-vien-dua-thuyen-lam-day-song-dong-song-cu-de-da-nang-1305297.ldo) - 08:38 18/02/2024
-- 🕴 [Mỗi năm Hà Nam giải quyết việc làm mới cho 24.000 lao động](https://laodong.vn/cong-doan/moi-nam-ha-nam-giai-quyet-viec-lam-moi-cho-24000-lao-dong-1305303.ldo) - 08:36 18/02/2024
-- 🌋 [Cơ sở Khu đô thị Gia Lâm gần 90.000 dân được cấp lại phép môi trường](https://laodong.vn/xa-hoi/co-so-khu-do-thi-gia-lam-gan-90000-dan-duoc-cap-lai-phep-moi-truong-1305180.ldo) - 08:34 18/02/2024
-- 💄 [Trẩy hội chùa Phượng Vũ, xem kiệu quay dưới nước ở Thái Bình](https://laodong.vn/van-hoa-giai-tri/tray-hoi-chua-phuong-vu-xem-kieu-quay-duoi-nuoc-o-thai-binh-1305318.ldo) - 08:30 18/02/2024<!-- laodong:END -->
+- 🥸 [Sắc xuân đậm đà nơi làng đá cổ có từ thời nhà Mạc](https://laodong.vn/photo/sac-xuan-dam-da-noi-lang-da-co-co-tu-thoi-nha-mac-1305131.ldo) - 09:02 18/02/2024
+- 🐻 [Năm 2024, Bộ Y tế bãi bỏ 12 thủ tục hành chính khám chữa bệnh](https://laodong.vn/ban-tin/nam-2024-bo-y-te-bai-bo-12-thu-tuc-hanh-chinh-kham-chua-benh-1305136.ldo) - 09:02 18/02/2024
+- 🪄 [Tài xế ôtô đấm đá túi bụi nam shipper ở Hà Nội](https://laodong.vn/phap-luat/tai-xe-oto-dam-da-tui-bui-nam-shipper-o-ha-noi-1305273.ldo) - 09:01 18/02/2024
+- 🧑‍🏫 [Cách giảm đau chân hiệu quả khi đi giày cao gót](https://laodong.vn/lam-dep/cach-giam-dau-chan-hieu-qua-khi-di-giay-cao-got-1305038.ldo) - 09:00 18/02/2024
+- 🌊 [Sức mua tăng hơn 20% trước ngày vía Thần Tài, dân đổ xô mua vàng tích trữ](https://laodong.vn/video-kinh-te/suc-mua-tang-hon-20-truoc-ngay-via-than-tai-dan-do-xo-mua-vang-tich-tru-1305309.ldo) - 08:59 18/02/2024
+- 💻 [Link xem trực tiếp Thanh Hoá vs Hà Nội FC tại vòng 9 V.League](https://laodong.vn/bong-da/link-xem-truc-tiep-thanh-hoa-vs-ha-noi-fc-tai-vong-9-vleague-1305263.ldo) - 08:57 18/02/2024
+- 👨‍🏫 [Gánh nặng nuôi con của nữ công nhân khu công nghiệp](https://laodong.vn/video/ganh-nang-nuoi-con-cua-nu-cong-nhan-khu-cong-nghiep-1305285.ldo) - 08:56 18/02/2024
+- 🌈 [Lý do khán giả bỗng săn lùng, làm sập web đặt phim Đào, phở và piano](https://laodong.vn/giai-tri/ly-do-khan-gia-bong-san-lung-lam-sap-web-dat-phim-dao-pho-va-piano-1305316.ldo) - 08:54 18/02/2024
+- 🐲 [Chùa Hà đông nghịt người đi gieo quẻ xăm cầu may](https://laodong.vn/photo/chua-ha-dong-nghit-nguoi-di-gieo-que-xam-cau-may-1305231.ldo) - 08:54 18/02/2024
+- 🚀 [Công đoàn thực hiện chương trình “Cha mẹ đỡ đầu”](https://laodong.vn/cong-doan/cong-doan-thuc-hien-chuong-trinh-cha-me-do-dau-1305295.ldo) - 08:49 18/02/2024
+- 😺 [5 loại nhạc cụ cơ bản giúp các bé phát triển năng khiếu](https://laodong.vn/nuoi-con/5-loai-nhac-cu-co-ban-giup-cac-be-phat-trien-nang-khieu-1305301.ldo) - 08:47 18/02/2024
+- 🕴 [Dùng tiền lì xì mua vàng ngày vía Thần Tài để cầu may và làm vốn cho con](https://laodong.vn/tien-te-dau-tu/dung-tien-li-xi-mua-vang-ngay-via-than-tai-de-cau-may-va-lam-von-cho-con-1305283.ldo) - 08:43 18/02/2024
+- 🌋 [120 vận động viên đua thuyền làm dậy sóng dòng sông Cu Đê, Đà Nẵng](https://laodong.vn/the-thao/120-van-dong-vien-dua-thuyen-lam-day-song-dong-song-cu-de-da-nang-1305297.ldo) - 08:38 18/02/2024
+- 💄 [Mỗi năm Hà Nam giải quyết việc làm mới cho 24.000 lao động](https://laodong.vn/cong-doan/moi-nam-ha-nam-giai-quyet-viec-lam-moi-cho-24000-lao-dong-1305303.ldo) - 08:36 18/02/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
