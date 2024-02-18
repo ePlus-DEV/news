@@ -28,26 +28,26 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- vnexpress:START -->
 - 🚀 [Số người khám bệnh tình dục tăng sau Tết](https://vnexpress.net/so-nguoi-kham-benh-tinh-duc-tang-sau-tet-4712528.html) - 04:08 18/02/2024
 - 🧰 [Mai Phương cùng dàn mỹ nhân đến Ấn Độ thi Miss World](https://vnexpress.net/mai-phuong-cung-dan-my-nhan-den-an-do-thi-miss-world-4712512.html) - 04:00 18/02/2024
-- 🥰 [Lợi ích của hạt hướng dương với người bệnh tiểu đường](https://vnexpress.net/loi-ich-cua-hat-huong-duong-voi-nguoi-benh-tieu-duong-4712411.html) - 04:00 18/02/2024
-- 🌏 [Trắc nghiệm để biết nguyên nhân trẻ tự kỷ](https://vnexpress.net/trac-nghiem-de-biet-nguyen-nhan-tre-tu-ky-4712409.html) - 04:00 18/02/2024
-- 🧐 [6 món ăn giảm ợ nóng](https://vnexpress.net/6-mon-an-giam-o-nong-4712343.html) - 04:00 18/02/2024
-- 💫 [Tác dụng đặt muỗng gỗ lên miệng nồi khi nấu ăn](https://vnexpress.net/tac-dung-dat-muong-go-len-mieng-noi-khi-nau-an-4712331.html) - 04:00 18/02/2024
+- 🥰 [Tác dụng đặt muỗng gỗ lên miệng nồi khi nấu ăn](https://vnexpress.net/tac-dung-dat-muong-go-len-mieng-noi-khi-nau-an-4712331.html) - 04:00 18/02/2024
+- 🌏 [Lợi ích của hạt hướng dương với người bệnh tiểu đường](https://vnexpress.net/loi-ich-cua-hat-huong-duong-voi-nguoi-benh-tieu-duong-4712411.html) - 04:00 18/02/2024
+- 🧐 [Trắc nghiệm để biết nguyên nhân trẻ tự kỷ](https://vnexpress.net/trac-nghiem-de-biet-nguyen-nhan-tre-tu-ky-4712409.html) - 04:00 18/02/2024
+- 💫 [6 món ăn giảm ợ nóng](https://vnexpress.net/6-mon-an-giam-o-nong-4712343.html) - 04:00 18/02/2024
 - 😺 [Guardiola: &#39;Tôi không thể bảo Haaland cách ghi bàn&#39;](https://vnexpress.net/guardiola-toi-khong-the-bao-haaland-cach-ghi-ban-4712551.html) - 03:58 18/02/2024
 - 🕯 [Chuyên gia hàng không Mỹ hóa giải nỗi sợ máy bay](https://vnexpress.net/chuyen-gia-hang-khong-my-hoa-giai-noi-so-may-bay-4712179.html) - 03:42 18/02/2024
 - 💃 [Miền Bắc tăng nhiệt, miền Nam nắng nóng](https://vnexpress.net/mien-bac-tang-nhiet-mien-nam-nang-nong-4712524.html) - 03:20 18/02/2024
 - 💂 [Ông Trump phẫn nộ vì ảnh chế béo bụng](https://vnexpress.net/ong-trump-phan-no-vi-anh-che-beo-bung-4712525.html) - 03:15 18/02/2024
 - 🎊 [Bánh hình rồng, Thần tài &#39;cháy hàng&#39;](https://vnexpress.net/banh-hinh-rong-than-tai-chay-hang-4712413.html) - 03:15 18/02/2024
 - 🤠 [Chờ 20 phút vì không trả tiền online được](https://vnexpress.net/cho-20-phut-vi-khong-tra-tien-online-duoc-4712497.html) - 03:02 18/02/2024
-- 🌈 [Polyp cổ tử cung có gây nguy hiểm cho thai phụ?](https://vnexpress.net/polyp-co-tu-cung-co-gay-nguy-hiem-cho-thai-phu-4712397.html) - 03:00 18/02/2024
-- 🎬 [Tôm vệ sinh miệng cho cá mú khổng lồ](https://vnexpress.net/tom-ve-sinh-mieng-cho-ca-mu-khong-lo-4712010.html) - 03:00 18/02/2024
+- 🌈 [Tôm vệ sinh miệng cho cá mú khổng lồ](https://vnexpress.net/tom-ve-sinh-mieng-cho-ca-mu-khong-lo-4712010.html) - 03:00 18/02/2024
+- 🎬 [Polyp cổ tử cung có gây nguy hiểm cho thai phụ?](https://vnexpress.net/polyp-co-tu-cung-co-gay-nguy-hiem-cho-thai-phu-4712397.html) - 03:00 18/02/2024
 - 🚀 [&#39;Chùa đông quá nên con xin phép ra về&#39;](https://vnexpress.net/chua-dong-qua-nen-con-xin-phep-ra-ve-4712414.html) - 02:50 18/02/2024
 - 🪄 [Mỹ liệu có suy thoái như Anh và Nhật Bản?](https://vnexpress.net/my-lieu-co-suy-thoai-nhu-anh-va-nhat-ban-4712503.html) - 02:37 18/02/2024
 - 😎 [Moto Guzzi V85 phiên bản mới lộ giá bán](https://vnexpress.net/moto-guzzi-v85-phien-ban-moi-lo-gia-ban-4711943.html) - 02:32 18/02/2024
 - 🎊 [Á hậu Trương Thị May rung chuông chùa đầu năm](https://vnexpress.net/a-hau-truong-thi-may-rung-chuong-chua-dau-nam-4712501.html) - 02:14 18/02/2024
 - ⚗️ [Tôi phải chọn giữa về quê sống cùng nhà chồng hoặc ly hôn](https://vnexpress.net/toi-phai-chon-giua-ve-que-song-cung-nha-chong-hoac-ly-hon-4712520.html) - 02:00 18/02/2024
 - 🫣 [Cô gái nấu ăn ngon tìm chàng trai trưởng thành](https://vnexpress.net/co-gai-nau-an-ngon-tim-chang-trai-truong-thanh-4712439.html) - 02:00 18/02/2024
-- 👨‍🏫 [Nguyên nhân suy giảm sức đề kháng](https://vnexpress.net/nguyen-nhan-suy-giam-suc-de-khang-4712429.html) - 02:00 18/02/2024
-- 🐻 [Thời kỳ đen tối với các kỹ sư công nghệ](https://vnexpress.net/thoi-ky-den-toi-voi-cac-ky-su-cong-nghe-4712374.html) - 02:00 18/02/2024
+- 👨‍🏫 [Thời kỳ đen tối với các kỹ sư công nghệ](https://vnexpress.net/thoi-ky-den-toi-voi-cac-ky-su-cong-nghe-4712374.html) - 02:00 18/02/2024
+- 🐻 [Nguyên nhân suy giảm sức đề kháng](https://vnexpress.net/nguyen-nhan-suy-giam-suc-de-khang-4712429.html) - 02:00 18/02/2024
 - 😺 [Pochettino: &#39;Chelsea sẽ đạt đẳng cấp của Man City&#39;](https://vnexpress.net/pochettino-chelsea-se-dat-dang-cap-cua-man-city-4712514.html) - 01:49 18/02/2024
 - 🤔 [Hungary có thể duyệt Thụy Điển vào NATO trong tháng 2](https://vnexpress.net/hungary-co-the-duyet-thuy-dien-vao-nato-trong-thang-2-4712511.html) - 01:45 18/02/2024
 - 🌮 [Sao theo đuổi mốt &#39;vợ ông trùm&#39;](https://vnexpress.net/sao-theo-duoi-mot-vo-ong-trum-4712358.html) - 01:33 18/02/2024
@@ -55,9 +55,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 📝 [Nhà máy điện mặt trời lớn nhất thế giới đi vào hoạt động](https://vnexpress.net/nha-may-dien-mat-troi-lon-nhat-the-gioi-di-vao-hoat-dong-4712276.html) - 01:18 18/02/2024
 - 🕴 [Arteta: &#39;Arsenal luôn muốn thắng đậm&#39;](https://vnexpress.net/arteta-arsenal-luon-muon-thang-dam-4712504.html) - 01:18 18/02/2024
 - 🐲 [Nuôi ốc hương công nghệ cao thu tiền tỷ](https://vnexpress.net/bo-tom-nuoi-oc-huong-cong-nghe-cao-thu-tien-ty-4709917.html) - 01:17 18/02/2024
-- 🌜 [5 thói quen buổi sáng giúp bảo vệ tim](https://vnexpress.net/5-thoi-quen-buoi-sang-giup-bao-ve-tim-4712422.html) - 01:00 18/02/2024
-- 💄 [6 loại rau quả màu xanh giúp giảm cân](https://vnexpress.net/6-loai-rau-qua-mau-xanh-giup-giam-can-4712407.html) - 01:00 18/02/2024
-- 🌁 [5 con giáp có số đào hoa trong năm 2024](https://vnexpress.net/5-con-giap-co-so-dao-hoa-trong-nam-2024-4712166.html) - 01:00 18/02/2024
+- 🌜 [5 con giáp có số đào hoa trong năm 2024](https://vnexpress.net/5-con-giap-co-so-dao-hoa-trong-nam-2024-4712166.html) - 01:00 18/02/2024
+- 💄 [5 thói quen buổi sáng giúp bảo vệ tim](https://vnexpress.net/5-thoi-quen-buoi-sang-giup-bao-ve-tim-4712422.html) - 01:00 18/02/2024
+- 🌁 [6 loại rau quả màu xanh giúp giảm cân](https://vnexpress.net/6-loai-rau-qua-mau-xanh-giup-giam-can-4712407.html) - 01:00 18/02/2024
 - 🎬 [Đưa con nhỏ đi khắp thế giới sau khi có 54 triệu USD](https://vnexpress.net/dua-con-nho-di-khap-the-gioi-sau-khi-co-54-trieu-usd-4712448.html) - 00:54 18/02/2024
 - 👨‍🏫 [Nhiều đại học quy đổi điểm IELTS từ 4.5-5.0](https://vnexpress.net/nhieu-dai-hoc-quy-doi-diem-ielts-tu-4-5-5-0-4712123.html) - 00:38 18/02/2024
 - ⚗️ [Alcaraz dừng bước ở bán kết Argentina Mở rộng](https://vnexpress.net/alcaraz-dung-buoc-o-ban-ket-argentina-mo-rong-4712493.html) - 00:19 18/02/2024
