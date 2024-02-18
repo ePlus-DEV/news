@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Chuyện vi phạm thi cử ở triều Nguyễn](https://vnexpress.net/chuyen-vi-pham-thi-cu-o-trieu-nguyen-4712135.html) - 05:55 18/02/2024
+- 🌏 [Những &#39;vụ án&#39; văn chương khoa cử ở triều Nguyễn](https://vnexpress.net/nhung-vu-an-van-chuong-khoa-cu-o-trieu-nguyen-4712135.html) - 05:55 18/02/2024
 - 💫 [Hoa hậu Thùy Tiên: &#39;Tôi muốn lấy chồng&#39;](https://vnexpress.net/hoa-hau-thuy-tien-toi-muon-lay-chong-4706653.html) - 05:21 18/02/2024
 - 🌮 [Mai Phương cùng dàn mỹ nhân đến Ấn Độ thi Miss World](https://vnexpress.net/mai-phuong-cung-dan-my-nhan-den-an-do-thi-miss-world-4712512.html) - 04:00 18/02/2024
 - 🧠 [Á hậu Trương Thị May rung chuông chùa đầu năm](https://vnexpress.net/a-hau-truong-thi-may-rung-chuong-chua-dau-nam-4712501.html) - 02:14 18/02/2024
