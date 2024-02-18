@@ -219,7 +219,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦒 [Cháy ngôi nhà sàn 5 gian tại Điện Biên](https://laodong.vn/xa-hoi/chay-ngoi-nha-san-5-gian-tai-dien-bien-1305374.ldo) - 11:06 18/02/2024
 - 💼 [4 lợi ích khi đi bộ đường dài đối với người trung niên và cao tuổi](https://laodong.vn/cac-loai-benh/4-loi-ich-khi-di-bo-duong-dai-doi-voi-nguoi-trung-nien-va-cao-tuoi-1305045.ldo) - 11:00 18/02/2024
 - 🤖 [Thêm nhiều trường đại học top đầu xét tuyển bằng IELTS](https://laodong.vn/giao-duc/them-nhieu-truong-dai-hoc-top-dau-xet-tuyen-bang-ielts-1305277.ldo) - 10:45 18/02/2024
-- 💪 [Trực tiếp CLB Thanh Hoá 0-0 Hà Nội: Hiệp 1](https://laodong.vn/bong-da/truc-tiep-clb-thanh-hoa-0-0-ha-noi-hiep-1-1305320.ldo) - 10:35 18/02/2024
+- 💪 [Trực tiếp CLB Thanh Hoá 0-0 Hà Nội: Hết hiệp 1](https://laodong.vn/bong-da/truc-tiep-clb-thanh-hoa-0-0-ha-noi-het-hiep-1-1305320.ldo) - 10:35 18/02/2024
 - 👍 [Nam tài xế ly hôn sau 4 tháng cưới, được mai mối cho mẹ đơn thân](https://laodong.vn/gia-dinh-hon-nhan/nam-tai-xe-ly-hon-sau-4-thang-cuoi-duoc-mai-moi-cho-me-don-than-1305341.ldo) - 10:31 18/02/2024
 - 💂 [&quot;Chúng ta của 8 năm sau&quot; trở lại, nhiều chuyện tồi tệ xảy ra với Dương và Lâm](https://laodong.vn/giai-tri/chung-ta-cua-8-nam-sau-tro-lai-nhieu-chuyen-toi-te-xay-ra-voi-duong-va-lam-1305347.ldo) - 10:28 18/02/2024
 - 🧰 [Cập nhật giá vàng hôm nay trong nước và thế giới 18.2](https://laodong.vn/infographic/cap-nhat-gia-vang-hom-nay-trong-nuoc-va-the-gioi-182-1305385.ldo) - 10:23 18/02/2024
