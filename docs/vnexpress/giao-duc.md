@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Chật vật đăng ký thi đánh giá năng lực vì nghẽn mạng](https://vnexpress.net/chat-vat-dang-ky-thi-danh-gia-nang-luc-vi-nghen-mang-4712556.html) - 05:08 18/02/2024
+- 🤓 [Nghẽn mạng đăng ký thi đánh giá năng lực](https://vnexpress.net/nghen-mang-dang-ky-thi-danh-gia-nang-luc-4712556.html) - 05:08 18/02/2024
 - 🦆 [Nhiều đại học quy đổi điểm IELTS từ 4.5-5.0](https://vnexpress.net/nhieu-dai-hoc-quy-doi-diem-ielts-tu-4-5-5-0-4712123.html) - 00:38 18/02/2024
 - 🦩 [Học Sư phạm hay Quản trị kinh doanh dễ xin việc hơn?](https://vnexpress.net/hoc-su-pham-hay-quan-tri-kinh-doanh-de-xin-viec-hon-4712394.html) - 16:59 17/02/2024
 - 🌮 [Cô hiệu phó vừa nhảy vừa đọc rap, học trò phấn khích](https://vnexpress.net/co-hieu-pho-vua-nhay-vua-doc-rap-hoc-tro-phan-khich-4712402.html) - 13:30 17/02/2024
