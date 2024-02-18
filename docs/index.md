@@ -393,7 +393,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Năm mới, khí thế mới, Vietjet đón chào tàu bay thứ 105](https://baochinhphu.vn/nam-moi-khi-the-moi-vietjet-don-chao-tau-bay-thu-105-102240218160244396.htm) - 16:03 18/02/2024
+- 💻 [Vietjet tiếp tục nhận tàu bay ngày đầu năm mới](https://baochinhphu.vn/nam-moi-khi-the-moi-vietjet-don-chao-tau-bay-thu-105-102240218160244396.htm) - 16:03 18/02/2024
 - 🌜 [Chủ tịch nước khai bút đầu xuân tại Khu Lưu niệm Nguyễn Trãi](https://baochinhphu.vn/chu-tich-nuoc-khai-but-dau-xuan-tai-khu-luu-niem-nguyen-trai-102240218151344083.htm) - 15:14 18/02/2024
 - 🦆 [Quy hoạch tỉnh Hà Giang hướng tới phát triển xanh, bản sắc, bền vững và toàn diện](https://baochinhphu.vn/quy-hoach-tinh-ha-giang-huong-toi-phat-trien-xanh-ban-sac-ben-vung-va-toan-dien-102240218115619787.htm) - 14:58 18/02/2024
 - 🌝 [Tri ân các chiến sĩ, gia đình chính sách tại Vị Xuyên, Hà Giang](https://baochinhphu.vn/tri-an-cac-chien-si-gia-dinh-chinh-sach-tai-vi-xuyen-ha-giang-102240218111850988.htm) - 11:32 18/02/2024
