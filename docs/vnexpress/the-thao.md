@@ -15,7 +15,7 @@ sidebar_position: 5
 - 🌜 [Leverkusen hơn Bayern tám điểm ở Bundesliga](https://vnexpress.net/leverkusen-hon-bayern-tam-diem-o-bundesliga-4712476.html) - 19:43 17/02/2024
 - 😺 [Chelsea cắt mạch thắng của Man City](https://vnexpress.net/chelsea-cat-mach-thang-cua-man-city-4712481.html) - 19:27 17/02/2024
 - 👍 [Ronaldo giúp Al Nassr thắng trận thứ năm liên tiếp](https://vnexpress.net/ronaldo-giup-al-nassr-thang-tran-thu-nam-lien-tiep-4712482.html) - 19:04 17/02/2024
-- 🐵 [Tottenham rớt khỏi top bốn](https://vnexpress.net/tottenham-rot-khoi-top-bon-4712475.html) - 17:28 17/02/2024
+- 🐵 [Tottenham rớt khỏi top 4 Ngoại hạng Anh](https://vnexpress.net/tottenham-rot-khoi-top-4-ngoai-hang-anh-4712475.html) - 17:28 17/02/2024
 - 💫 [Arsenal lại thắng đậm ở Ngoại hạng Anh](https://vnexpress.net/arsenal-lai-thang-dam-o-ngoai-hang-anh-4712477.html) - 17:15 17/02/2024
 - 🦆 [Nam Định hạ Hải Phòng để giữ đỉnh bảng V-League](https://vnexpress.net/nam-dinh-ha-hai-phong-de-giu-dinh-bang-v-league-4712466.html) - 15:28 17/02/2024
 - 🙉 [Thể Công không thắng liền bốn trận ở V-League](https://vnexpress.net/the-cong-khong-thang-lien-bon-tran-o-v-league-4712434.html) - 15:05 17/02/2024
