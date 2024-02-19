@@ -32,7 +32,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌏 [Đại học Huế công bố 6 phương thức tuyển sinh](https://vnexpress.net/dai-hoc-hue-cong-bo-6-phuong-thuc-tuyen-sinh-4713090.html) - 15:11 19/02/2024
 - 🧐 [Nguyễn Hoàng Đức giành Quả Bóng Vàng 2023](https://vnexpress.net/nguyen-hoang-duc-gianh-qua-bong-vang-2023-4713099.html) - 15:05 19/02/2024
 - 💫 [Phong cách đời thường của nữ chính phim &#39;Mai&#39;](https://vnexpress.net/phong-cach-doi-thuong-cua-nu-chinh-phim-mai-4712806.html) - 15:00 19/02/2024
-- 😺 [Cháy nhà ở Sài Gòn, bé 9 tuổi tử vong](https://vnexpress.net/chay-nha-o-sai-gon-be-9-tuoi-tu-vong-4713096.html) - 14:56 19/02/2024
+- 😺 [Cháy nhà ở Sài Gòn, bé 8 tuổi tử vong](https://vnexpress.net/chay-nha-o-sai-gon-be-8-tuoi-tu-vong-4713096.html) - 14:56 19/02/2024
 - 🕯 [Đường sắt tốc độ cao ưu tiên vận chuyển hành khách](https://vnexpress.net/duong-sat-toc-do-cao-uu-tien-van-chuyen-hanh-khach-4713094.html) - 14:41 19/02/2024
 - 💃 [Tôi không buồn khi học trò quên lãng &#39;mùng 3 Tết thầy&#39;](https://vnexpress.net/toi-khong-buon-khi-hoc-tro-quen-lang-mung-3-tet-thay-4712728.html) - 14:38 19/02/2024
 - 💂 [Xuyên Việt Oil chưa nộp lại hơn 200 tỷ đồng Quỹ bình ổn xăng dầu](https://vnexpress.net/xuyen-viet-oil-chua-nop-lai-hon-200-ty-dong-quy-binh-on-xang-dau-4713087.html) - 14:28 19/02/2024
