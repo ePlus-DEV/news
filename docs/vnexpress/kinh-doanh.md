@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Xuyên Việt Oil chưa nộp lại hơn 200 tỷ đồng Quỹ bình ổn xăng dầu](https://vnexpress.net/xuyen-viet-oil-chua-nop-lai-hon-200-ty-dong-quy-binh-on-xang-dau-4713087.html) - 14:28 19/02/2024
-- 🐲 [Đội mưa buổi tối đi mua vàng Thần Tài](https://vnexpress.net/doi-mua-mua-vang-vao-toi-than-tai-4713075.html) - 12:56 19/02/2024
+- 🐲 [Đội mưa buổi tối đi mua vàng Thần Tài](https://vnexpress.net/doi-mua-buoi-toi-di-mua-vang-than-tai-4713075.html) - 12:56 19/02/2024
 - 🔥 [Cổ phiếu Vingroup kéo thị trường](https://vnexpress.net/co-phieu-vingroup-keo-thi-truong-4713027.html) - 09:39 19/02/2024
 - 🐵 [Xoài hạt lép lần đầu xuất sang Hàn Quốc](https://vnexpress.net/xoai-hat-lep-lan-dau-xuat-sang-han-quoc-4712920.html) - 09:17 19/02/2024
 - 🦅 [Hãng xe điện Trung Quốc tìm cách tồn tại](https://vnexpress.net/hang-xe-dien-trung-quoc-tim-cach-ton-tai-4712932.html) - 08:50 19/02/2024
