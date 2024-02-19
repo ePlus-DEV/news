@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Thầy hiệu phó kêu gọi lì xì cho gần 10.000 học sinh](https://vnexpress.net/thay-hieu-pho-keu-goi-li-xi-cho-gan-10-000-hoc-sinh-4712894.html) - 05:58 19/02/2024
+- 🤓 [Thầy hiệu phó quyên tiền để lì xì cho 10.000 học sinh](https://vnexpress.net/thay-hieu-pho-quyen-tien-de-li-xi-cho-10-000-hoc-sinh-4712894.html) - 05:58 19/02/2024
 - 🦆 [Cách trả lời 5 câu chào hỏi của người nước ngoài](https://vnexpress.net/cach-tra-loi-5-cau-chao-hoi-cua-nguoi-nuoc-ngoai-4712885.html) - 05:10 19/02/2024
 - 🦩 [Lịch 8 kỳ thi đánh giá năng lực, tư duy năm 2024](https://vnexpress.net/lich-8-ky-thi-danh-gia-nang-luc-tu-duy-nam-2024-4712418.html) - 23:00 18/02/2024
 - 🌮 [Học Toán bình thường có nên chọn ngành Kiểm toán?](https://vnexpress.net/hoc-toan-binh-thuong-co-nen-chon-nganh-kiem-toan-4712386.html) - 16:59 18/02/2024
