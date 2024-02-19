@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Hai khách sạn Việt được công nhận &#39;xuất sắc nhất thế giới&#39;](https://vnexpress.net/hai-khach-san-viet-duoc-cong-nhan-xuat-sac-nhat-the-gioi-4713052.html) - 13:01 19/02/2024
+- 💂 [Hai khách sạn Việt được công nhận &#39;tốt nhất thế giới&#39;](https://vnexpress.net/hai-khach-san-viet-duoc-cong-nhan-tot-nhat-the-gioi-4713052.html) - 13:01 19/02/2024
 - 🪄 [Hội An là &#39;thành phố đẹp nhất&#39; trong mắt du khách nước ngoài](https://vnexpress.net/hoi-an-la-thanh-pho-dep-nhat-trong-mat-du-khach-nuoc-ngoai-4712387.html) - 05:29 19/02/2024
 - 🦅 [Ba nhân tố giúp du lịch Việt có mùa Tết thành công](https://vnexpress.net/ba-nhan-to-giup-du-lich-viet-co-mua-tet-thanh-cong-4712401.html) - 03:47 19/02/2024
 - 🕴 [Lưu ý về thuế du lịch mới khi đến Bali](https://vnexpress.net/luu-y-ve-thue-du-lich-moi-khi-den-bali-4712640.html) - 02:18 19/02/2024
