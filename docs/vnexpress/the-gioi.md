@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Tương lai chiến sự Ukraine sau khi Avdeevka thất thủ](https://vnexpress.net/tuong-lai-chien-su-ukraine-sau-khi-avdeevka-that-thu-4712795.html) - 12:00 19/02/2024
-- 🕴 [Đám đông chen lấn xin hộ chiếu rời Myanmar khiến hai người chết](https://vnexpress.net/dam-dong-chen-lan-xin-ho-chieu-roi-myanmar-khien-hai-nguoi-chet-4713069.html) - 11:52 19/02/2024
+- 🕴 [Chen lấn xin hộ chiếu rời Myanmar, hai người chết](https://vnexpress.net/chen-lan-xin-ho-chieu-roi-myanmar-hai-nguoi-chet-4713069.html) - 11:52 19/02/2024
 - 🤭 [Trung Quốc lần đầu khoe trực thăng &#39;bản sao Apache&#39;](https://vnexpress.net/trung-quoc-lan-dau-khoe-truc-thang-ban-sao-apache-4713037.html) - 10:14 19/02/2024
 - 🧑‍💻 [Hải quân Mỹ đương đầu trận chiến lớn nhất trên Biển Đỏ](https://vnexpress.net/hai-quan-my-duong-dau-tran-chien-lon-nhat-tren-bien-do-4712928.html) - 10:02 19/02/2024
 - 🦏 [Nga tuyên bố xóa sổ cứ điểm cuối cùng của Ukraine tại Avdeevka](https://vnexpress.net/nga-tuyen-bo-xoa-so-cu-diem-cuoi-cung-cua-ukraine-tai-avdeevka-4712902.html) - 09:46 19/02/2024
