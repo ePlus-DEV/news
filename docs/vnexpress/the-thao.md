@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Thủ môn Kim Thanh đoạt Quả Bóng Vàng nữ 2023](https://vnexpress.net/le-trao-qua-bong-vang-viet-nam-4713063.html) - 12:30 19/02/2024
+- 🪜 [Hoàng Đức lần thứ hai đoạt Quả Bóng Vàng](https://vnexpress.net/le-trao-qua-bong-vang-viet-nam-4713063.html) - 12:30 19/02/2024
 - 🦩 [Hamann nghi cầu thủ Bayern muốn lật đổ HLV Tuchel](https://vnexpress.net/hamann-nghi-cau-thu-bayern-muon-lat-do-hlv-tuchel-4713016.html) - 10:15 19/02/2024
 - 🧰 [Matsuyama bất ngờ vô địch Genesis Invitational 2024](https://vnexpress.net/matsuyama-bat-ngo-vo-dich-genesis-invitational-2024-4713049.html) - 10:07 19/02/2024
 - 🤗 [Báo Marca: &#39;Mbappe ký hợp đồng với Real đến 2029&#39;](https://vnexpress.net/bao-marca-mbappe-ky-hop-dong-voi-real-den-2029-4713043.html) - 09:58 19/02/2024
