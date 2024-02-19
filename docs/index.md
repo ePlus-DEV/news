@@ -27,7 +27,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Loại quả trong vườn giúp giảm đầy hơi sau Tết](https://vnexpress.net/loai-qua-trong-vuon-giup-giam-day-hoi-sau-tet-4712782.html) - 22:02 19/02/2024
-- 🧰 [&#39;Não bỏng ngô&#39; - hệ quả của mạng xã hội](https://vnexpress.net/nao-bong-ngo-he-qua-cua-mang-xa-hoi-4712956.html) - 22:00 19/02/2024
+- 🧰 [&#39;Não bỏng ngô&#39; trong thời đại số](https://vnexpress.net/nao-bong-ngo-trong-thoi-dai-so-4712956.html) - 22:00 19/02/2024
 - 🥰 [Người phụ nữ Australia bỏ phố về quê trong ngôi nhà không điện, nước](https://vnexpress.net/nguoi-phu-nu-australia-bo-pho-ve-que-trong-ngoi-nha-khong-dien-nuoc-4712935.html) - 22:00 19/02/2024
 - 🌏 [Doanh nghiệp khó tuyển lao động thời vụ sau Tết](https://vnexpress.net/doanh-nghiep-kho-tuyen-lao-dong-thoi-vu-sau-tet-4713112.html) - 21:00 19/02/2024
 - 🧐 [Honda Grom phiên bản mới giá 2.600 USD](https://vnexpress.net/honda-grom-phien-ban-moi-gia-2-600-usd-4713014.html) - 20:00 19/02/2024
