@@ -254,7 +254,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥷 [Lãnh đạo Bộ TN-MT nói về cấp sổ đỏ cho đất không giấy tờ](https://nld.com.vn/lanh-dao-bo-tn-mt-noi-ve-cap-so-do-cho-dat-khong-giay-to-19624021912140611.htm) - 06:29 19/02/2024
 - 🤔 [VIDEO: Tài xế ôtô đạp ngã người đi xe máy chở thùng hàng](https://nld.com.vn/video-tai-xe-oto-dap-nga-nguoi-di-xe-may-cho-thung-hang-196240219120339454.htm) - 06:27 19/02/2024
 - 🌈 [Nhận hối lộ, nguyên phó chánh án bị phạt 4 năm tù](https://nld.com.vn/nhan-hoi-lo-nguyen-pho-chanh-an-bi-phat-4-nam-tu-196240219121430228.htm) - 05:39 19/02/2024
-- 🔥 [Cháy tại tòa chung vào ngày vía Thần Tài](https://nld.com.vn/chay-tai-toa-chung-vao-ngay-via-than-tai-196240219114656245.htm) - 05:29 19/02/2024
+- 🔥 [Cháy tại tòa chung cư vào ngày vía Thần Tài](https://nld.com.vn/chay-tai-toa-chung-vao-ngay-via-than-tai-196240219114656245.htm) - 05:29 19/02/2024
 - 🧰 [Ông Nguyễn Hữu Phước làm Phó Bí thư Thành ủy Đồng Hới](https://nld.com.vn/ong-nguyen-huu-phuoc-lam-pho-bi-thu-thanh-uy-dong-hoi-19624021911212321.htm) - 05:03 19/02/2024
 - 🤗 [Ngày vía Thần Tài, vàng SJC diễn biến lạ](https://nld.com.vn/podcast/ngay-via-than-tai-vang-sjc-dien-bien-la-196240219111222931.htm) - 04:21 19/02/2024
 - 🦅 [Vừa được trả tự do, ông Thaksin lại đối diện nguy cơ ngồi tù](https://nld.com.vn/vua-duoc-tra-tu-do-ong-thaksin-lai-doi-dien-nguy-co-ngoi-tu-196240219110850456.htm) - 04:18 19/02/2024
