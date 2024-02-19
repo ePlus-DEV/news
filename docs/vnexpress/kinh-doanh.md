@@ -8,7 +8,7 @@ sidebar_position: 3
 - 🐲 [Phó thống đốc: Luật mới tạo điều kiện để công chúng giám sát ngân hàng](https://vnexpress.net/pho-thong-doc-luat-moi-tao-dieu-kien-de-cong-chung-giam-sat-ngan-hang-4712866.html) - 05:19 19/02/2024
 - 🔥 [Giá hạt tiêu tăng vọt](https://vnexpress.net/gia-hat-tieu-tang-vot-4712796.html) - 04:23 19/02/2024
 - 🐵 [PNJ thu hút khách ngày Thần Tài](https://vnexpress.net/pnj-thu-hut-khach-ngay-than-tai-4712756.html) - 03:20 19/02/2024
-- 🦅 [Mỗi lượng vàng miếng giảm gần triệu đồng ngày Thần Tài](https://vnexpress.net/gia-vang-nhu-the-nao-trong-ngay-via-than-tai-4712719.html) - 02:33 19/02/2024
+- 🦅 [Giá vàng đảo chiều tăng nửa triệu đồng](https://vnexpress.net/gia-vang-nhu-the-nao-trong-ngay-via-than-tai-4712719.html) - 02:33 19/02/2024
 - 😺 [Tiệm vàng vắng khách sát giờ mở cửa ngày vía Thần Tài](https://vnexpress.net/tiem-vang-vang-khach-sat-gio-mo-cua-ngay-via-than-tai-4712677.html) - 00:52 19/02/2024
 - 🤩 [Diễn biến giá vàng quanh dịp vía Thần Tài 10 năm qua](https://vnexpress.net/dien-bien-gia-vang-quanh-dip-via-than-tai-10-nam-qua-4712668.html) - 23:15 18/02/2024
 - 🌮 [Máy bay Trung Quốc lần đầu ra nước ngoài](https://vnexpress.net/may-bay-trung-quoc-lan-dau-ra-nuoc-ngoai-4712608.html) - 10:27 18/02/2024
