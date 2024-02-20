@@ -575,7 +575,7 @@ Roóng Poọc ở Tả Van](https://thanhnien.vn/chay-rung-lan-rong-sa-pa-giam-q
 <!-- hoahoctro:START -->
 - 💼 [Sau tai nạn nghiêm trọng: Rà soát, điều chỉnh giao thông cao tốc Cam Lộ - La Sơn](https://tienphong.vn/sau-tai-nan-nghiem-trong-ra-soat-dieu-chinh-giao-thong-cao-toc-cam-lo-la-son-post1613700.tpo) - 22:12 20/02/2024
 - 🎊 [Sơn La: Cháy hơn 50 ha rừng đang trong quy hoạch phòng hộ](https://tienphong.vn/son-la-chay-hon-50-ha-rung-dang-trong-quy-hoach-phong-ho-post1613648.tpo) - 21:59 20/02/2024
-- 💼 [Hà Nội: 5 Đảng viên ở Chương Mỹ bị cách chức Ủy viên Ban Thường vụ Đảng ủy](https://tienphong.vn/ha-noi-5-dang-vien-o-chuong-my-bi-cach-chuc-uy-vien-ban-thuong-vu-dang-uy-post1613556.tpo) - 21:20 20/02/2024
+- 💼 [Hà Nội: 5 đảng viên ở Chương Mỹ bị cách chức Ủy viên Ban Thường vụ Đảng ủy](https://tienphong.vn/ha-noi-5-dang-vien-o-chuong-my-bi-cach-chuc-uy-vien-ban-thuong-vu-dang-uy-post1613556.tpo) - 21:20 20/02/2024
 - 👺 [Công an Hà Nội thông tin vụ cô gái 21 tuổi bị sát hại trong phòng trọ](https://tienphong.vn/cong-an-ha-noi-thong-tin-vu-co-gai-21-tuoi-bi-sat-hai-trong-phong-tro-post1613672.tpo) - 21:02 20/02/2024
 - 💪 [Chủ tịch TPHCM: Cuối năm 2025 các hoạt động hành chính phải thực hiện trên nền tảng số](https://tienphong.vn/chu-tich-tphcm-cuoi-nam-2025-cac-hoat-dong-hanh-chinh-phai-thuc-hien-tren-nen-tang-so-post1613659.tpo) - 20:35 20/02/2024
 - 💃 [Bắt đầu di dời tập trung 1.800 ngôi mộ tại nghĩa trang tự phát lớn nhất TPHCM](https://tienphong.vn/bat-dau-di-doi-tap-trung-1800-ngoi-mo-tai-nghia-trang-tu-phat-lon-nhat-tphcm-post1613670.tpo) - 20:22 20/02/2024
