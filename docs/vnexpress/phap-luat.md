@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Thầy phong thủy dùng &#39;nước thần&#39; đoạt mạng 5 quý bà](https://vnexpress.net/nuoc-than-doat-mang-quy-ba-cua-dai-su-phong-thuy-4713040.html) - 17:00 19/02/2024
+- 😎 [&#39;Nước thần&#39; đoạt mạng quý bà của thầy phong thủy](https://vnexpress.net/nuoc-than-doat-mang-quy-ba-cua-dai-su-phong-thuy-4713040.html) - 17:00 19/02/2024
 - 🥰 [Vụ kiện 37 triệu USD vì đường không vỉa hè khiến tài xế tông chết người](https://vnexpress.net/vu-kien-37-trieu-usd-vi-duong-kem-an-toan-khien-tai-xe-gay-tai-nan-4712982.html) - 14:03 19/02/2024
 - 🎓 [Cô gái nghi bị sát hại ở Hà Nội](https://vnexpress.net/co-gai-nghi-bi-sat-hai-o-ha-noi-4713080.html) - 12:36 19/02/2024
 - 🤓 [Bực tức con trai &#39;độ&#39; xe, cha ra tay sát hại](https://vnexpress.net/buc-tuc-con-trai-do-xe-cha-ra-tay-sat-hai-4713062.html) - 11:14 19/02/2024
