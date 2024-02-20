@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nam sinh mê trà đạo đỗ Đại học Johns Hopkins](https://vnexpress.net/nam-sinh-me-tra-dao-do-dai-hoc-johns-hopkins-4712741.html) - 04:27 20/02/2024
+- 🤓 [Nam sinh mê trà đạo đỗ đại học top 9 nước Mỹ](https://vnexpress.net/nam-sinh-me-tra-dao-do-dai-hoc-top-9-nuoc-my-4712741.html) - 04:27 20/02/2024
 - 🦆 [Đại học Kiến trúc Hà Nội tăng điều kiện xét tuyển IELTS](https://vnexpress.net/dai-hoc-kien-truc-ha-noi-tang-dieu-kien-xet-tuyen-ielts-4713100.html) - 23:11 19/02/2024
 - 🦩 [Ba trường chuyên ở Hà Nội thông báo lịch thi thử lớp 10](https://vnexpress.net/ba-truong-chuyen-o-ha-noi-thong-bao-lich-thi-thu-lop-10-4712971.html) - 23:00 19/02/2024
 - 🌮 [24-27 điểm nên học Công nghệ thông tin hay Điện tử viễn thông](https://vnexpress.net/24-27-diem-nen-hoc-cong-nghe-thong-tin-hay-dien-tu-vien-thong-4712379.html) - 16:59 19/02/2024
