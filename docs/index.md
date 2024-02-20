@@ -573,7 +573,7 @@ Roóng Poọc ở Tả Van](https://thanhnien.vn/chay-rung-lan-rong-sa-pa-giam-q
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Sau tai nạn nghiêm trọng: Rà soát, điều chỉnh giao thông cao tốc Cam Lộ - La Sơn](https://tienphong.vn/sau-tai-nan-nghiem-trong-ra-soat-dieu-chinh-giao-thong-cao-toc-cam-lo-la-son-post1613700.tpo) - 22:12 20/02/2024
+- 💼 [Rà soát, điều chỉnh giao thông cao tốc Cam Lộ - La Sơn sau tai nạn nghiêm trọng](https://tienphong.vn/ra-soat-dieu-chinh-giao-thong-cao-toc-cam-lo-la-son-sau-tai-nan-nghiem-trong-post1613700.tpo) - 22:12 20/02/2024
 - 🎊 [Sơn La: Cháy hơn 50 ha rừng đang trong quy hoạch phòng hộ](https://tienphong.vn/son-la-chay-hon-50-ha-rung-dang-trong-quy-hoach-phong-ho-post1613648.tpo) - 21:59 20/02/2024
 - 💼 [Hà Nội: 5 đảng viên ở Chương Mỹ bị cách chức Ủy viên Ban Thường vụ Đảng ủy](https://tienphong.vn/ha-noi-5-dang-vien-o-chuong-my-bi-cach-chuc-uy-vien-ban-thuong-vu-dang-uy-post1613556.tpo) - 21:20 20/02/2024
 - 👺 [Công an Hà Nội thông tin vụ cô gái 21 tuổi bị sát hại trong phòng trọ](https://tienphong.vn/cong-an-ha-noi-thong-tin-vu-co-gai-21-tuoi-bi-sat-hai-trong-phong-tro-post1613672.tpo) - 21:02 20/02/2024
