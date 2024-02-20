@@ -389,7 +389,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
 - 💻 [Nên tiếp tục đóng BHXH hay nhận trợ cấp một lần?](https://baochinhphu.vn/nen-tiep-tuc-dong-bhxh-hay-nhan-tro-cap-mot-lan-102240216100023448.htm) - 14:20 20/02/2024
-- 🌜 [Chủ tịch nước Võ Văn Thưởng dâng hương tưởng niệm Đức vua An Dương Vương](https://baochinhphu.vn/chu-tich-nuoc-vo-van-thuong-dang-huong-tuong-niem-duc-vua-an-duong-vuong-102240220140217077.htm) - 14:19 20/02/2024
+- 🌜 [Chủ tịch nước Võ Văn Thưởng dâng hương tưởng niệm Thục Phán An Dương Vương](https://baochinhphu.vn/chu-tich-nuoc-vo-van-thuong-dang-huong-tuong-niem-duc-vua-an-duong-vuong-102240220140217077.htm) - 14:19 20/02/2024
 - 🦆 [Đến năm 2050 cơ bản hoàn thiện mạng lưới đường sắt khu vực đầu mối TPHCM](https://baochinhphu.vn/den-nam-2050-co-ban-hoan-thien-mang-luoi-duong-sat-khu-vuc-dau-moi-tphcm-10224022012371231.htm) - 13:02 20/02/2024
 - 🌝 [Các dự án giao thông &#39;vào guồng&#39; đua tiến độ ngay từ đầu năm](https://baochinhphu.vn/cac-du-an-giao-thong-vao-guong-dua-tien-do-ngay-tu-dau-nam-102240220113607756.htm) - 12:41 20/02/2024
 - 🦣 [Thông tin về tuyển sinh lớp 10 năm học 2024-2025](https://baochinhphu.vn/thong-tin-ve-tuyen-sinh-lop-10-nam-hoc-2024-2025-102240220113511093.htm) - 12:38 20/02/2024
