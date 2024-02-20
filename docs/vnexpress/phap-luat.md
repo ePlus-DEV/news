@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cựu giám đốc phòng giao ngân hàng bị điều tra lừa 14 tỷ đồng](https://vnexpress.net/cuu-giam-doc-phong-giao-ngan-hang-bi-dieu-tra-lua-14-ty-dong-4713293.html) - 05:32 20/02/2024
+- 😎 [Cựu giám đốc phòng giao dịch ngân hàng bị điều tra lừa 14 tỷ đồng](https://vnexpress.net/cuu-giam-doc-phong-giao-ngan-hang-bi-dieu-tra-lua-14-ty-dong-4713293.html) - 05:32 20/02/2024
 - 🥰 [Nghi phạm sát hại cô gái 21 tuổi ở Hà Nội bị bắt](https://vnexpress.net/nghi-pham-sat-hai-co-gai-21-tuoi-o-ha-noi-bi-bat-4713156.html) - 01:09 20/02/2024
 - 🎓 [&#39;Nước thần&#39; đoạt mạng quý bà của thầy phong thủy](https://vnexpress.net/nuoc-than-doat-mang-quy-ba-cua-dai-su-phong-thuy-4713040.html) - 17:00 19/02/2024
 - 🤓 [Vụ kiện 37 triệu USD vì đường không vỉa hè khiến tài xế tông chết người](https://vnexpress.net/vu-kien-37-trieu-usd-vi-duong-kem-an-toan-khien-tai-xe-gay-tai-nan-4712982.html) - 14:03 19/02/2024
