@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Nên bổ sung bao nhiêu quả cam một ngày?](https://vnexpress.net/nen-bo-sung-bao-nhieu-qua-cam-mot-ngay-4713035.html) - 06:54 20/02/2024
+- 🔥 [Nên ăn bao nhiêu quả cam một ngày?](https://vnexpress.net/nen-bo-sung-bao-nhieu-qua-cam-mot-ngay-4713035.html) - 06:54 20/02/2024
 - 🥰 [Kiểm tra để biết tại sao cholesterol của bạn tăng cao](https://vnexpress.net/kiem-tra-de-biet-tai-sao-cholesterol-cua-ban-tang-cao-4713057.html) - 06:47 20/02/2024
 - 💡 [Làm gì khi đau dạ dày ban đêm?](https://vnexpress.net/lam-gi-khi-dau-da-day-ban-dem-4713242.html) - 06:00 20/02/2024
 - 🤗 [7 món ăn giàu chất xơ tốt cho người bệnh tiểu đường](https://vnexpress.net/7-mon-an-giau-chat-xo-tot-cho-nguoi-benh-tieu-duong-4713079.html) - 05:02 20/02/2024
