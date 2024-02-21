@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Tuchel và Bayern chia tay vào cuối mùa giải](https://vnexpress.net/tuchel-va-bayern-chia-tay-vao-cuoi-mua-giai-4713853.html) - 10:57 21/02/2024
+- 🪜 [Tuchel rời Bayern cuối mùa này](https://vnexpress.net/tuchel-roi-bayern-cuoi-mua-nay-4713853.html) - 10:57 21/02/2024
 - 🦩 [Gundogan: &#39;Tôi ước có thể làm được nhiều hơn cho Xavi&#39;](https://vnexpress.net/gundogan-toi-uoc-co-the-lam-duoc-nhieu-hon-cho-xavi-4713854.html) - 10:51 21/02/2024
 - 🧰 [Tỷ phú Ratcliffe tăng thêm quyền kiểm soát Man Utd](https://vnexpress.net/ty-phu-ratcliffe-tang-them-quyen-kiem-soat-man-utd-4713823.html) - 09:55 21/02/2024
 - 🤗 [Báo Hàn: &#39;HLV Park Hang-seo là phương án chữa cháy cho Hàn Quốc&#39;](https://vnexpress.net/bao-han-hlv-park-hang-seo-la-phuong-an-chua-chay-cho-han-quoc-4713832.html) - 09:52 21/02/2024
