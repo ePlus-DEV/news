@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Đa số người Israel không tin vào &#39;chiến thắng hoàn toàn&#39; ở Gaza](https://vnexpress.net/da-so-nguoi-israel-khong-tin-vao-chien-thang-hoan-toan-o-gaza-4713892.html) - 15:40 21/02/2024
-- 🕴 [Nông dân châu Âu tiếp tục biểu tình](https://vnexpress.net/nong-dan-chau-au-tiep-tuc-bieu-tinh-4713886.html) - 15:33 21/02/2024
+- 🕴 [Nông dân biểu tình khắp châu Âu](https://vnexpress.net/nong-dan-bieu-tinh-khap-chau-au-4713886.html) - 15:33 21/02/2024
 - 🤭 [Ukraine biến UAV huấn luyện của Anh thành vũ khí tự sát](https://vnexpress.net/ukraine-bien-uav-huan-luyen-cua-anh-thanh-vu-khi-tu-sat-4713855.html) - 14:52 21/02/2024
 - 🧑‍💻 [Bệnh nhân Hàn Quốc bức xúc khi 9.000 bác sĩ đồng loạt xin nghỉ](https://vnexpress.net/benh-nhan-han-quoc-buc-xuc-khi-9-000-bac-si-dong-loat-xin-nghi-4713877.html) - 14:04 21/02/2024
 - 🦏 [Anh trừng phạt 6 quan chức nhà tù nơi Navalny tử vong](https://vnexpress.net/anh-trung-phat-6-quan-chuc-nha-tu-noi-navalny-tu-vong-4713872.html) - 13:21 21/02/2024
