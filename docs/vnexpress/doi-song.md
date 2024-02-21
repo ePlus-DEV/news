@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Vì sao giới trẻ bị gọi là &#39;thế hệ bông tuyết&#39;?](https://vnexpress.net/vi-sao-gioi-tre-bi-goi-la-the-he-bong-tuyet-4713463.html) - 23:00 20/02/2024
+- 🚀 [Gen Z có phải là &#39;thế hệ bông tuyết&#39;?](https://vnexpress.net/gen-z-co-phai-la-the-he-bong-tuyet-4713463.html) - 23:00 20/02/2024
 - 🎓 [Mẹo rang lạc giữ được giòn lâu, không bị hôi](https://vnexpress.net/meo-rang-lac-giu-duoc-gion-lau-khong-bi-hoi-4713323.html) - 12:00 20/02/2024
 - 🚦 [5 thói quen nhà bếp gây độc hại](https://vnexpress.net/5-thoi-quen-nha-bep-gay-doc-hai-4712703.html) - 08:08 20/02/2024
 - 🦣 [&#39;Hồi sinh&#39; người chết ở Trung Quốc](https://vnexpress.net/hoi-sinh-nguoi-chet-o-trung-quoc-4711697.html) - 04:45 20/02/2024
