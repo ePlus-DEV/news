@@ -394,10 +394,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Giải quyết dứt điểm vướng mắc về đấu thầu thuốc, vật tư, thiết bị y tế](https://baochinhphu.vn/giai-quyet-dut-diem-vuong-mac-ve-dau-thau-thuoc-vat-tu-thiet-bi-y-te-102240221193148971.htm) - 19:40 21/02/2024
-- 🌜 [Thái Bình: Quyết tâm bàn giao mặt bằng hành lang tuyến dự án đường dây 500kV mạch 3 trước ngày 15/3](https://baochinhphu.vn/thai-binh-quyet-tam-ban-giao-mat-bang-hanh-lang-tuyen-du-an-duong-day-500kv-mach-3-truoc-ngay-15-3-102240221185325701.htm) - 19:35 21/02/2024
-- 🦆 [Gần 170 sự kiện hưởng ứng Năm Du lịch quốc gia-Điện Biên 2024](https://baochinhphu.vn/gan-170-su-kien-huong-ung-nam-du-lich-quoc-gia-dien-bien-2024-102240221174811728.htm) - 19:26 21/02/2024
-- 🌝 [Thủ tướng yêu cầu đẩy nhanh nâng cấp các tuyến cao tốc đầu tư phân kỳ](https://baochinhphu.vn/thu-tuong-yeu-cau-day-nhanh-nang-cap-cac-tuyen-cao-toc-dau-tu-phan-ky-10224022118284423.htm) - 18:35 21/02/2024
+- 💻 [Thủ tướng yêu cầu đẩy nhanh nâng cấp các tuyến cao tốc đầu tư phân kỳ](https://baochinhphu.vn/thu-tuong-yeu-cau-day-nhanh-nang-cap-cac-tuyen-cao-toc-dau-tu-phan-ky-10224022118284423.htm) - 20:35 21/02/2024
+- 🌜 [Giải quyết dứt điểm vướng mắc về đấu thầu thuốc, vật tư, thiết bị y tế](https://baochinhphu.vn/giai-quyet-dut-diem-vuong-mac-ve-dau-thau-thuoc-vat-tu-thiet-bi-y-te-102240221193148971.htm) - 19:40 21/02/2024
+- 🦆 [Thái Bình: Quyết tâm bàn giao mặt bằng hành lang tuyến dự án đường dây 500kV mạch 3 trước ngày 15/3](https://baochinhphu.vn/thai-binh-quyet-tam-ban-giao-mat-bang-hanh-lang-tuyen-du-an-duong-day-500kv-mach-3-truoc-ngay-15-3-102240221185325701.htm) - 19:35 21/02/2024
+- 🌝 [Gần 170 sự kiện hưởng ứng Năm Du lịch quốc gia-Điện Biên 2024](https://baochinhphu.vn/gan-170-su-kien-huong-ung-nam-du-lich-quoc-gia-dien-bien-2024-102240221174811728.htm) - 19:26 21/02/2024
 - 🦣 [Hội nghị triển khai Chương trình làm việc của Bộ Chính trị, Ban Bí thư năm 2024](https://baochinhphu.vn/hoi-nghi-trien-khai-chuong-trinh-lam-viec-cua-bo-chinh-tri-ban-bi-thu-nam-2024-102240221182846208.htm) - 18:28 21/02/2024
 - ⛽️ [Bà con ngư dân chấp hành nghiêm quy định về chống khai thác thủy sản bất hợp pháp](https://baochinhphu.vn/ba-con-ngu-dan-chap-hanh-nghiem-quy-dinh-ve-chong-khai-thac-thuy-san-bat-hop-phap-102240221163409867.htm) - 18:17 21/02/2024
 - 🎓 [Thủ tục cấp “Sổ đỏ” lần đầu](https://baochinhphu.vn/thu-tuc-cap-so-do-lan-dau-102240221174811482.htm) - 17:52 21/02/2024
