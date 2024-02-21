@@ -207,7 +207,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Cựu Giám đốc Công an Hải Phòng Đỗ Hữu Ca giải trình khối tài sản bị tạm giữ](https://laodong.vn/phap-luat/cuu-giam-doc-cong-an-hai-phong-do-huu-ca-giai-trinh-khoi-tai-san-bi-tam-giu-1306589.ldo) - 13:12 21/02/2024
+- 🗽 [Cựu Giám đốc Công an Hải Phòng Đỗ Hữu Ca giải trình về khối tài sản bị tạm giữ](https://laodong.vn/phap-luat/cuu-giam-doc-cong-an-hai-phong-do-huu-ca-giai-trinh-ve-khoi-tai-san-bi-tam-giu-1306589.ldo) - 13:12 21/02/2024
 - 📝 [Mang súng đi đòi nợ còn bắn 1 phát chỉ thiên, 2 thanh niên lĩnh án tù](https://laodong.vn/ban-tin/mang-sung-di-doi-no-con-ban-1-phat-chi-thien-2-thanh-nien-linh-an-tu-1306565.ldo) - 13:01 21/02/2024
 - 🦏 [Tin 20h: Tìm mọi cách săn vé trước cơn sốt  &quot;Đào, Phở và Piano&quot;](https://laodong.vn/video/tin-20h-tim-moi-cach-san-ve-truoc-con-sot-dao-pho-va-piano-1306571.ldo) - 13:00 21/02/2024
 - 🦩 [Sinh viên sư phạm không làm về giáo dục, phải bồi hoàn tiền hỗ trợ học phí?](https://laodong.vn/tu-van-phap-luat/sinh-vien-su-pham-khong-lam-ve-giao-duc-phai-boi-hoan-tien-ho-tro-hoc-phi-1301834.ldo) - 13:00 21/02/2024
