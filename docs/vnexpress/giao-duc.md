@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [5 cách thay thế từ &#39;cheap&#39; trong tiếng Anh](https://vnexpress.net/5-cach-thay-the-tu-cheap-trong-tieng-anh-4713700.html) - 04:47 21/02/2024
+- 🤓 [5 cách nói thay thế &#39;cheap&#39; trong tiếng Anh](https://vnexpress.net/5-cach-noi-thay-the-cheap-trong-tieng-anh-4713700.html) - 04:47 21/02/2024
 - 🦆 [Học sinh đạt 4.0 IELTS được cộng điểm, tuyển thẳng lớp 10](https://vnexpress.net/hoc-sinh-dat-4-0-ielts-duoc-cong-diem-tuyen-thang-lop-10-4713345.html) - 23:24 20/02/2024
 - 🦩 [Đạt 5 điểm/môn có cơ hội học Thiết kế vi mạch?](https://vnexpress.net/dat-5-diem-mon-co-co-hoi-hoc-thiet-ke-vi-mach-4712378.html) - 16:59 20/02/2024
 - 🌮 [5 học sinh, sinh viên được đề cử Gương mặt trẻ Việt Nam tiêu biểu](https://vnexpress.net/5-hoc-sinh-sinh-vien-duoc-de-cu-guong-mat-tre-viet-nam-tieu-bieu-4713494.html) - 14:33 20/02/2024
