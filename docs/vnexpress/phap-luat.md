@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Nghi can bỏ trốn 4 lần đưa tiền &#39;chạy án&#39; đến nhà cựu thiếu tướng Đỗ Hữu Ca](https://vnexpress.net/nghi-can-bo-tron-khai-chi-35-ty-dong-chay-an-cho-cuu-thieu-tuong-do-huu-ca-4713547.html) - 02:20 21/02/2024
+- 😎 [Bốn lần đưa tiền &#39;chạy án&#39; 35 tỷ đồng cho thiếu tướng Đỗ Hữu Ca](https://vnexpress.net/nghi-can-bo-tron-khai-chi-35-ty-dong-chay-an-cho-cuu-thieu-tuong-do-huu-ca-4713547.html) - 02:20 21/02/2024
 - 🥰 [Thủ đoạn che giấu tội ác của người đàn bà ngoại tình](https://vnexpress.net/thu-doan-che-giau-toi-ac-cua-nguoi-dan-ba-ngoai-tinh-4713473.html) - 17:00 20/02/2024
 - 🎓 [Nghi phạm giết cô gái 21 tuổi, giấu xác trong tủ bếp bị phát hiện thế nào](https://vnexpress.net/loi-khai-cua-nghi-pham-giet-co-gai-21-tuoi-giau-xac-trong-tu-bep-4713489.html) - 13:54 20/02/2024
 - 🤓 [Chiếm đoạt tài sản của người bất tỉnh vì say thuốc lào](https://vnexpress.net/chiem-doat-tai-san-cua-nguoi-bat-tinh-vi-say-thuoc-lao-4713457.html) - 11:02 20/02/2024
