@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Ông Putin bay cùng phi hành đoàn trên oanh tạc cơ Tu-160](https://vnexpress.net/ong-putin-bay-cung-phi-hanh-doan-tren-oanh-tac-co-tu-160-4714299.html) - 13:08 22/02/2024
+- 🎭 [Ông Putin bay cùng phi hành đoàn trên oanh tạc cơ Tu-160M](https://vnexpress.net/ong-putin-bay-cung-phi-hanh-doan-tren-oanh-tac-co-tu-160m-4714299.html) - 13:08 22/02/2024
 - 🕴 [Đan Mạch ký hiệp ước an ninh 10 năm với Ukraine](https://vnexpress.net/dan-mach-ky-hiep-uoc-an-ninh-10-nam-voi-ukraine-4714289.html) - 12:34 22/02/2024
 - 🤭 [Nỗ lực bám trụ đến phút chót của lính Ukraine ở Avdeevka](https://vnexpress.net/no-luc-bam-tru-den-phut-chot-cua-linh-ukraine-o-avdeevka-4714274.html) - 12:00 22/02/2024
 - 🧑‍💻 [Khoảnh khắc sà lan đâm sập cầu ở Trung Quốc](https://vnexpress.net/khoanh-khac-sa-lan-dam-sap-cau-o-trung-quoc-4714265.html) - 11:05 22/02/2024
