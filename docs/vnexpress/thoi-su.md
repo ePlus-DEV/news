@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Xe giường nằm mất lái chắn ngang, vành đai 3 tê liệt](https://vnexpress.net/xe-giuong-nam-mat-lai-chan-ngang-vanh-dai-3-te-liet-4714330.html) - 17:05 22/02/2024
+- 🦒 [Xe giường nằm chắn ngang, vành đai 3 trên cao tê liệt](https://vnexpress.net/xe-giuong-nam-chan-ngang-vanh-dai-3-tren-cao-te-liet-4714330.html) - 17:05 22/02/2024
 - 🤓 [TP HCM kiểm tra tiền công đức ở các di tích](https://vnexpress.net/tp-hcm-kiem-tra-tien-cong-duc-o-cac-di-tich-4714317.html) - 17:00 22/02/2024
 - ⚗️ [Ông Phan Văn Mãi: &#39;Vành đai 4 TP HCM phải đạt chuẩn cao tốc&#39;](https://vnexpress.net/ong-phan-van-mai-vanh-dai-4-tp-hcm-phai-dat-chuan-cao-toc-4714306.html) - 17:00 22/02/2024
 - 🌊 [Kho hàng 700 m2 trên đất quốc phòng cháy dữ dội](https://vnexpress.net/kho-hang-700-m2-tren-dat-quoc-phong-chay-du-doi-4714311.html) - 14:50 22/02/2024
