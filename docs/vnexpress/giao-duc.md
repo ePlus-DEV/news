@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nga tài trợ 1.000 học bổng cho du học sinh Việt Nam](https://vnexpress.net/nga-tai-tro-1-000-hoc-bong-cho-du-hoc-sinh-viet-nam-4713895.html) - 04:27 22/02/2024
+- 🤓 [Nga cấp 1.000 học bổng cho du học sinh Việt Nam](https://vnexpress.net/nga-cap-1-000-hoc-bong-cho-du-hoc-sinh-viet-nam-4713895.html) - 04:27 22/02/2024
 - 🦆 [Sinh viên làm thiết bị tạo dòng điện từ bước chân](https://vnexpress.net/sinh-vien-lam-thiet-bi-tao-dong-dien-tu-buoc-chan-4713848.html) - 03:28 22/02/2024
 - 🦩 [Vì sao các tỉnh tuyển thẳng, cộng điểm lớp 10 từ 4.0 IELTS?](https://vnexpress.net/vi-sao-cac-tinh-tuyen-thang-cong-diem-lop-10-tu-4-0-ielts-4713808.html) - 23:40 21/02/2024
 - 🌮 [5 lưu ý với du học sinh khi va chạm giao thông ở Mỹ](https://vnexpress.net/5-luu-y-voi-du-hoc-sinh-khi-va-cham-giao-thong-o-my-4708440.html) - 17:00 21/02/2024
