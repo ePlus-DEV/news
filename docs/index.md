@@ -571,7 +571,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Cơ quan chức năng nói gì về vụ Nam Em livestream ồn ào trên mạng xã hội?](https://tienphong.vn/co-quan-chuc-nang-noi-gi-ve-vu-nam-em-livestream-on-ao-tren-mang-xa-hoi-post1614277.tpo) - 22:06 22/02/2024
+- 💼 [Nam Em sẽ bị xử lý sau vụ livestream bóc phốt showbiz](https://tienphong.vn/nam-em-se-bi-xu-ly-sau-vu-livestream-boc-phot-showbiz-post1614277.tpo) - 22:06 22/02/2024
 - 🎊 [Lửa cháy đỏ rực ở rừng thông ở Đắk Nông](https://tienphong.vn/lua-chay-do-ruc-o-rung-thong-o-dak-nong-post1614267.tpo) - 21:45 22/02/2024
 - 💼 [Lương Xuân Trường từng giấu bệnh tim để ở lại HAGL](https://tienphong.vn/luong-xuan-truong-tung-giau-benh-tim-de-o-lai-hagl-post1614272.tpo) - 21:04 22/02/2024
 - 👺 [Cầu thủ Hàn Quốc bị chị dâu phát tán video 18+](https://tienphong.vn/cau-thu-han-quoc-bi-chi-dau-phat-tan-video-18-post1614216.tpo) - 20:56 22/02/2024
