@@ -26,12 +26,12 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Hoang mang khi thấy tên cô gái lạ thuộc gia đình tôi trong gia phả](https://vnexpress.net/hoang-mang-khi-thay-ten-co-gai-la-thuoc-gia-dinh-toi-trong-gia-pha-4714170.html) - 14:00 22/02/2024
+- 🚀 [Hoang mang khi thấy tên cô gái lạ trong gia phả](https://vnexpress.net/hoang-mang-khi-thay-ten-co-gai-la-trong-gia-pha-4714170.html) - 14:00 22/02/2024
 - 🧰 [Tìm người đàn ông không vướng tứ đổ tường, chăm lo gia đình](https://vnexpress.net/tim-nguoi-dan-ong-khong-vuong-tu-do-tuong-cham-lo-gia-dinh-4714158.html) - 14:00 22/02/2024
 - 🥰 [Doanh nghiệp hàng tiêu dùng, đồ gỗ dồi dào đơn hàng xuất khẩu](https://vnexpress.net/doanh-nghiep-hang-tieu-dung-do-go-doi-dao-don-hang-xuat-khau-4714290.html) - 13:53 22/02/2024
 - 🌏 [Hàng trăm khán giả TP HCM đi xem &#39;Đào, phở và piano&#39;](https://vnexpress.net/hang-tram-khan-gia-tp-hcm-di-xem-dao-pho-va-piano-4714240.html) - 13:34 22/02/2024
 - 🧐 [Lạp xưởng nướng đá ở Hà Nội hút khách ăn đêm](https://vnexpress.net/lap-xuong-nuong-da-o-ha-noi-hut-khach-an-dem-4714051.html) - 13:16 22/02/2024
-- 💫 [Ông Putin bay cùng phi hành đoàn trên oanh tạc cơ Tu-160](https://vnexpress.net/ong-putin-bay-cung-phi-hanh-doan-tren-oanh-tac-co-tu-160-4714299.html) - 13:08 22/02/2024
+- 💫 [Ông Putin bay cùng phi hành đoàn trên oanh tạc cơ Tu-160M](https://vnexpress.net/ong-putin-bay-cung-phi-hanh-doan-tren-oanh-tac-co-tu-160m-4714299.html) - 13:08 22/02/2024
 - 😺 [Ai được gọi là &#39;hoàng hậu hai triều&#39; trong lịch sử Việt Nam?](https://vnexpress.net/ai-duoc-goi-la-hoang-hau-hai-trieu-trong-lich-su-viet-nam-4714281.html) - 13:00 22/02/2024
 - 🕯 [Ngụy biện &#39;ăn tôm hấp bia bị phạt nồng độ cồn&#39;](https://vnexpress.net/nguy-bien-an-tom-hap-bia-bi-phat-nong-do-con-4714230.html) - 13:00 22/02/2024
 - 💃 [Triệu phú sống như người vô gia cư](https://vnexpress.net/trieu-phu-song-nhu-nguoi-vo-gia-cu-4714178.html) - 13:00 22/02/2024
@@ -70,7 +70,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🪜 [Ukraine bác tin 1.000 binh sĩ bị bắt tại Avdeevka](https://vnexpress.net/ukraine-bac-tin-1-000-binh-si-bi-bat-tai-avdeevka-4714241.html) - 10:12 22/02/2024
 - 🚦 [Khó xử khi phát hiện chồng sếp cũng là chồng của bạn tôi](https://vnexpress.net/kho-xu-khi-phat-hien-chong-sep-cung-la-chong-cua-ban-toi-4713961.html) - 10:00 22/02/2024
 - 🕯 [Nếu đủ duyên, anh sẽ chia sẻ may mắn cùng em](https://vnexpress.net/neu-du-duyen-anh-se-chia-se-may-man-cung-em-4713947.html) - 10:00 22/02/2024
-- 💪 [Điểm tin 17h: Bà Trương Mỹ Lan bị di lý vào TP HCM để xét xử; Ông Medvedev nói Nga cần đưa quân trở lại Kiev](https://vnexpress.net/diem-tin-17h-ba-truong-my-lan-bi-di-ly-vao-tp-hcm-de-xet-xu-ong-medvedev-noi-nga-can-dua-quan-tro-lai-kiev-4714257.html) - 10:00 22/02/2024
+- 💪 [Điểm tin 21h: Nam Em sẽ bị xử lý sau ồn ào livestream; Giá USD và vàng cùng đi lên](https://vnexpress.net/diem-tin-21h-nam-em-se-bi-xu-ly-sau-on-ao-livestream-gia-usd-va-vang-cung-di-len-4714257.html) - 10:00 22/02/2024
 - 🧑‍🏫 [Chó cưng của ông Biden rời Nhà Trắng sau loạt vụ cắn người](https://vnexpress.net/cho-cung-cua-ong-biden-roi-nha-trang-sau-loat-vu-can-nguoi-4714167.html) - 09:58 22/02/2024
 - 🎓 [Tâm lý nhảy việc dễ dãi của nhiều Gen Z](https://vnexpress.net/tam-ly-nhay-viec-de-dai-cua-nhieu-gen-z-4714163.html) - 09:55 22/02/2024
 - 💫 [HAGL Agrico sắp rót 18.000 tỷ vào dự án nông nghiệp tại Lào](https://vnexpress.net/hagl-agrico-sap-rot-18-000-ty-vao-du-an-nong-nghiep-tai-lao-4714210.html) - 09:45 22/02/2024
