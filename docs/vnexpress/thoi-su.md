@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [4.000 cảnh sát bảo vệ phát ấn đền Trần](https://video.vnexpress.net/4-000-canh-sat-bao-ve-phat-an-den-tran-4714729.html) - 11:46 23/02/2024
+- 🦒 [4.000 cảnh sát đảm bảo an ninh lễ phát ấn đền Trần](https://video.vnexpress.net/4-000-canh-sat-dam-bao-an-ninh-le-phat-an-den-tran-4714729.html) - 11:46 23/02/2024
 - 🤓 [Thuyền trưởng: &#39;Tàu bị tông gãy đôi rồi chìm ngay, không ai kịp trở tay&#39;](https://vnexpress.net/thuyen-truong-tau-bi-tong-gay-doi-roi-chim-ngay-khong-ai-kip-tro-tay-4714593.html) - 10:47 23/02/2024
 - ⚗️ [Day dứt của người sống sót sau tai nạn trên cao tốc Cam Lộ - La Sơn](https://vnexpress.net/day-dut-cua-nguoi-song-sot-sau-tai-nan-tren-cao-toc-cam-lo-la-son-4714552.html) - 08:19 23/02/2024
 - 🌊 [Tổng bí thư: Đại hội Đảng 14 sẽ đẩy mạnh công cuộc đổi mới](https://vnexpress.net/tong-bi-thu-dai-hoi-dang-14-se-day-manh-cong-cuoc-doi-moi-4714546.html) - 06:24 23/02/2024
