@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Bộ Công an đề xuất 6 thay đổi tại thẻ căn cước mới](https://vnexpress.net/bo-cong-an-de-xuat-6-thay-doi-tai-the-can-cuoc-moi-4714446.html) - 08:56 23/02/2024
+- 😎 [Bộ Công an đề xuất 6 thay đổi trên thẻ căn cước mới](https://vnexpress.net/bo-cong-an-de-xuat-6-thay-doi-tai-the-can-cuoc-moi-4714446.html) - 08:56 23/02/2024
 - 🥰 [Xác minh thu nhập, tài sản của 8 trưởng phòng thuộc Bộ Công an](https://vnexpress.net/xac-minh-thu-nhap-tai-san-cua-8-truong-phong-thuoc-bo-cong-an-4714578.html) - 08:48 23/02/2024
 - 🎓 [Hẹn chết cùng vợ nhưng hối hận, chồng bị kết tội giết người](https://vnexpress.net/hen-chet-cung-vo-nhung-hoi-han-chong-bi-ket-toi-giet-nguoi-4714528.html) - 08:26 23/02/2024
 - 🤓 [Vượt chốt đo nồng độ cồn, đánh gãy tay CSGT](https://vnexpress.net/vuot-chot-do-nong-do-con-danh-gay-tay-csgt-4714553.html) - 06:04 23/02/2024
