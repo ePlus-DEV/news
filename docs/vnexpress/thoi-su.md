@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Tàu bị tông gãy đôi, 9 ngư dân rơi xuống biển](https://vnexpress.net/tau-bi-tong-gay-doi-9-ngu-dan-roi-xuong-bien-4714466.html) - 03:13 23/02/2024
+- 🦒 [Tàu bị tông gãy đôi, 9 người rơi xuống biển](https://vnexpress.net/tau-bi-tong-gay-doi-9-nguoi-roi-xuong-bien-4714466.html) - 03:13 23/02/2024
 - 🤓 [Hiện trạng cầu 400 tỷ đồng thiếu đường kết nối](https://vnexpress.net/hien-trang-cau-400-ty-dong-thieu-duong-ket-noi-4714322.html) - 02:01 23/02/2024
 - ⚗️ [Những cô gái viết đơn tình nguyện nhập ngũ](https://vnexpress.net/nhung-co-gai-viet-don-tinh-nguyen-nhap-ngu-4714126.html) - 18:00 22/02/2024
 - 🌊 [Xe giường nằm chắn ngang, vành đai 3 trên cao tê liệt](https://vnexpress.net/xe-giuong-nam-chan-ngang-vanh-dai-3-tren-cao-te-liet-4714330.html) - 17:05 22/02/2024
