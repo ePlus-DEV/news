@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Thủ khoa thi học sinh giỏi Lịch sử quốc gia viết 23 mặt giấy](https://vnexpress.net/thu-khoa-thi-hoc-sinh-gioi-lich-su-quoc-gia-viet-23-mat-giay-4714276.html) - 05:12 23/02/2024
+- 🤓 [Bước chuyển đưa nữ sinh thành thủ khoa môn Lịch sử toàn quốc](https://vnexpress.net/buoc-chuyen-dua-nu-sinh-thanh-thu-khoa-mon-lich-su-toan-quoc-4714276.html) - 05:12 23/02/2024
 - 🦆 [Viettel Digital Talent 2024 chiêu mộ thực tập sinh công nghệ cao](https://vnexpress.net/viettel-digital-talent-2024-chieu-mo-thuc-tap-sinh-cong-nghe-cao-4714284.html) - 03:00 23/02/2024
 - 🦩 [Học bổng hơn 700 triệu đồng tại AIS](https://vnexpress.net/hoc-bong-hon-700-trieu-dong-tai-ais-4713685.html) - 01:00 23/02/2024
 - 🌮 [5 nữ sinh làm than nén không khói từ vỏ cam, bưởi](https://vnexpress.net/5-nu-sinh-lam-than-nen-khong-khoi-tu-vo-cam-buoi-4714248.html) - 00:14 23/02/2024
