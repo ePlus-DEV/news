@@ -445,8 +445,7 @@ ban hành trong tháng 01/2024](https://baochinhphu.vn/van-ban-qppl-do-chinh-phu
 
 ## Thư Viện Pháp Luật
 <!-- thuvienphapluat:START -->
-- 🕴 [Nghị định 19/2024/NĐ-CP sửa đổi Nghị định 48/2019/NĐ-CP
-quy định về quản lý hoạt động của phương tiện phục vụ vui chơi, giải trí dưới nước](https://thuvienphapluat.vn/van-ban/Giao-thong-Van-tai/Nghi-dinh-19-2024-ND-CP-sua-doi-Nghi-dinh-48-2019-ND-CP-quan-ly-phuong-tien-vui-choi-duoi-nuoc-599548.aspx) - 00:00 23/02/2024
+- 🕴 [Nghị định 19/2024/NĐ-CP sửa đổi Nghị định 48/2019/NĐ-CP quy định về quản lý hoạt động của phương tiện phục vụ vui chơi, giải trí dưới nước](https://thuvienphapluat.vn/van-ban/Giao-thong-Van-tai/Nghi-dinh-19-2024-ND-CP-sua-doi-Nghi-dinh-48-2019-ND-CP-quan-ly-phuong-tien-vui-choi-duoi-nuoc-599548.aspx) - 00:00 23/02/2024
 - 🎭 [Quyết định 192/QĐ-TTg về Kế hoạch theo dõi tình hình thi hành pháp luật trong lĩnh vực trọng tâm, liên ngành năm 2024 do Thủ tướng Chính phủ ban hành](https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-192-QD-TTg-2024-Ke-hoach-theo-doi-tinh-hinh-thi-hanh-phap-luat-linh-vuc-trong-tam-599553.aspx) - 00:00 22/02/2024
 - 💪 [Quyết định 190/QĐ-TTg năm 2024 phê duyệt Nhiệm vụ lập Quy hoạch bảo quản, tu bổ, phục hồi Di tích quốc gia đặc biệt chùa Tây Phương, huyện Thạch Thất, thành phố Hà Nội do Thủ tướng Chính phủ ban hành](https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Quyet-dinh-190-QD-TTg-2024-lap-Quy-hoach-bao-quan-Di-tich-quoc-gia-dac-biet-chua-Tay-Phuong-599507.aspx) - 00:00 22/02/2024
 - 🚀 [Công văn 1081/BCT-TTTN năm 2024 điều hành kinh doanh xăng dầu do Bộ Công thương ban hành](https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1081-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-599429.aspx) - 00:00 22/02/2024
