@@ -9,7 +9,7 @@ sidebar_position: 5
 - 🌮 [&#39;Triển Chiêu&#39; Hà Gia Kính xác nhận có vợ con](https://vnexpress.net/trien-chieu-ha-gia-kinh-xac-nhan-co-vo-con-4714561.html) - 07:32 23/02/2024
 - 🧠 [Thú chơi túi đa dạng của Taylor Swift](https://vnexpress.net/thu-choi-tui-da-dang-cua-taylor-swift-4714058.html) - 06:52 23/02/2024
 - 👨‍🏫 [Quỳnh Anh Shyn phối đồ tôn dáng tại Milan Fashion Week](https://vnexpress.net/quynh-anh-shyn-phoi-do-ton-dang-tai-milan-fashion-week-4714079.html) - 06:49 23/02/2024
-- ⚗️ [Xác minh thông tin &#39;rạp để học sinh xem phim 18+&#39;](https://vnexpress.net/xac-minh-thong-tin-rap-de-hoc-sinh-xem-phim-18-4714534.html) - 06:26 23/02/2024
+- ⚗️ [Thanh tra thông tin &#39;rạp để học sinh xem phim 18+&#39;](https://vnexpress.net/thanh-tra-thong-tin-rap-de-hoc-sinh-xem-phim-18-4714534.html) - 06:26 23/02/2024
 - 😎 [&#39;Miền thơ ấu&#39; - viên ngọc tuổi thơ](https://vnexpress.net/mien-tho-au-vien-ngoc-tuoi-tho-4701479.html) - 04:53 23/02/2024
 - 🫣 [Hồ Quỳnh Hương ra mắt ca khúc cuối hợp tác Xuân Phương](https://vnexpress.net/ho-quynh-huong-ra-mat-ca-khuc-cuoi-hop-tac-xuan-phuong-4714428.html) - 04:39 23/02/2024
 - 🪄 [Bạn trai Taylor Swift muốn vào Hollywood](https://vnexpress.net/ban-trai-taylor-swift-muon-vao-hollywood-4714194.html) - 04:00 23/02/2024
