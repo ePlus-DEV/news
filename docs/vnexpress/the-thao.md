@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Dani Alves khánh kiệt sau khi bị xử tù](https://vnexpress.net/dani-alves-khanh-kiet-sau-khi-bi-xu-tu-4714543.html) - 05:03 23/02/2024
 - 🦩 [Berrettini chia tay siêu mẫu nghiện sex](https://vnexpress.net/berrettini-chia-tay-sieu-mau-nghien-sex-4714525.html) - 04:57 23/02/2024
-- 🧰 [Vì sao Ngoại hạng Anh vượt ngày càng xa các giải khác?](https://vnexpress.net/vi-sao-ngoai-hang-anh-vuot-ngay-cang-xa-cac-giai-khac-4714511.html) - 04:26 23/02/2024
+- 🧰 [Lý do Ngoại hạng Anh vượt ngày càng xa các giải khác](https://vnexpress.net/ly-do-ngoai-hang-anh-vuot-ngay-cang-xa-cac-giai-khac-4714511.html) - 04:26 23/02/2024
 - 🤗 [Chặng đường cuối của Kiptum](https://vnexpress.net/chang-duong-cuoi-cua-kiptum-4714489.html) - 03:32 23/02/2024
 - 🥳 [Công ty mua bib cho toàn bộ nhân viên dự giải chạy đêm TP HCM](https://vnexpress.net/cong-ty-mua-bib-cho-toan-bo-nhan-vien-du-giai-chay-dem-tp-hcm-4712021.html) - 03:30 23/02/2024
 - 🦣 [Nadal không dự Miami Mở rộng](https://vnexpress.net/nadal-khong-du-miami-mo-rong-4714461.html) - 03:18 23/02/2024
