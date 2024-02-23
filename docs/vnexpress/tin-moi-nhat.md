@@ -12,7 +12,7 @@ sidebar_position: 9
 - 🎃 [Tìm người đàn ông vững vàng, tử tế và có đạo đức](https://vnexpress.net/tim-nguoi-dan-ong-vung-vang-tu-te-va-co-dao-duc-4714638.html) - 14:00 23/02/2024
 - 🧰 [Lý trí bảo không nhưng con tim tôi lại muốn cho anh cơ hội](https://vnexpress.net/ly-tri-bao-khong-nhung-con-tim-toi-lai-muon-cho-anh-co-hoi-4714531.html) - 14:00 23/02/2024
 - 🔭 [Hàng trăm nghìn ngọn đăng thắp sáng núi Bà Đen](https://vnexpress.net/hang-tram-nghin-ngon-dang-thap-sang-nui-ba-den-4714767.html) - 14:00 23/02/2024
-- 🫶 [Đề xuất giảm thanh toán BHYT điều trị nội trú, tăng chi trả ngoại trú](https://vnexpress.net/de-xuat-giam-thanh-toan-bhyt-dieu-tri-noi-tru-tang-chi-tra-ngoai-tru-4714601.html) - 13:57 23/02/2024
+- 🫶 [Đề xuất giảm BHYT điều trị nội trú, tăng chi trả ngoại trú](https://vnexpress.net/de-xuat-giam-bhyt-dieu-tri-noi-tru-tang-chi-tra-ngoai-tru-4714601.html) - 13:57 23/02/2024
 - 🪜 [Tết Nguyên tiêu còn có tên gọi khác là gì?](https://vnexpress.net/tet-nguyen-tieu-con-co-ten-goi-khac-la-gi-4714741.html) - 13:32 23/02/2024
 - 👨‍🏫 [Emma Watson thu hút ở Milan Fashion Week](https://vnexpress.net/emma-watson-thu-hut-o-milan-fashion-week-4714509.html) - 13:31 23/02/2024
 - 🎊 [Cựu HLV tuyển Trung Quốc lĩnh án tù chung thân](https://vnexpress.net/cuu-hlv-tuyen-trung-quoc-linh-an-tu-chung-than-4714759.html) - 13:22 23/02/2024
