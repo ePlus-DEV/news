@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Năm học sinh nhập viện nghi do uống nước ngọt ở cổng trường](https://vnexpress.net/nam-hoc-sinh-nhap-vien-nghi-do-uong-nuoc-ngot-o-cong-truong-4714756.html) - 16:32 23/02/2024
-- 🦆 [Tết Nguyên tiêu còn có tên gọi khác là gì?](https://vnexpress.net/tet-nguyen-tieu-con-co-ten-goi-khac-la-gi-4714741.html) - 13:32 23/02/2024
+- 🦆 [Tết Nguyên tiêu có tên gọi khác là gì?](https://vnexpress.net/tet-nguyen-tieu-co-ten-goi-khac-la-gi-4714741.html) - 13:32 23/02/2024
 - 🦩 [Bộ Giáo dục yêu cầu dừng tuyển thẳng lớp 10 bằng IELTS](https://vnexpress.net/bo-giao-duc-yeu-cau-dung-tuyen-thang-lop-10-bang-ielts-4714754.html) - 12:33 23/02/2024
 - 🌮 [Hơn 300 chuyên gia quốc tế dự hội nghị kiểm định tại Trường ĐH FPT](https://vnexpress.net/hon-300-chuyen-gia-quoc-te-du-hoi-nghi-kiem-dinh-tai-truong-dh-fpt-4714687.html) - 11:40 23/02/2024
 - 🔭 [Lý do học sinh nên tham gia các trại hè quốc tế](https://vnexpress.net/ly-do-hoc-sinh-nen-tham-gia-cac-trai-he-quoc-te-4713684.html) - 09:00 23/02/2024
