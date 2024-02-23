@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Đề xuất giảm BHYT điều trị nội trú, tăng chi trả ngoại trú](https://vnexpress.net/de-xuat-giam-bhyt-dieu-tri-noi-tru-tang-chi-tra-ngoai-tru-4714601.html) - 13:57 23/02/2024
+- 🔥 [Đề xuất giảm thanh toán BHYT điều trị nội trú, tăng chi trả ngoại trú](https://vnexpress.net/de-xuat-giam-thanh-toan-bhyt-dieu-tri-noi-tru-tang-chi-tra-ngoai-tru-4714601.html) - 13:57 23/02/2024
 - 🥰 [Robot phẫu thuật cắt trọn khối u ung thư gan](https://vnexpress.net/robot-phau-thuat-cat-tron-khoi-u-ung-thu-gan-4714713.html) - 13:18 23/02/2024
 - 💡 [4 lý do khiến trẻ dễ bị chó tấn công và mắc bệnh dại](https://vnexpress.net/4-ly-do-khien-tre-de-bi-cho-tan-cong-va-mac-benh-dai-4714268.html) - 13:00 23/02/2024
 - 🤗 [Da mụn có nên trang điểm?](https://vnexpress.net/da-mun-co-nen-trang-diem-4714676.html) - 12:58 23/02/2024
