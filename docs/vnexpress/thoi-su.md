@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Tổng bí thư: Đại hội Đảng 14 sẽ đẩy mạnh công cuộc đổi mới](https://vnexpress.net/tong-bi-thu-dai-hoi-dang-14-se-day-manh-cong-cuoc-doi-moi-4714546.html) - 06:24 23/02/2024
-- 🤓 [Tông xe liên hoàn, quốc lộ 1 ùn tắc kéo dài](https://vnexpress.net/tong-xe-lien-hoan-quoc-lo-1-un-tac-keo-dai-4714547.html) - 05:58 23/02/2024
+- 🤓 [Tông xe liên hoàn, quốc lộ 1 ùn tắc](https://vnexpress.net/tong-xe-lien-hoan-quoc-lo-1-un-tac-4714547.html) - 05:58 23/02/2024
 - ⚗️ [Người trúng đấu giá đất hơn 4 tỷ đồng/m2 sẽ được trả tiền cọc](https://vnexpress.net/nguoi-trung-dau-gia-dat-hon-4-ty-dong-m2-se-duoc-tra-tien-coc-4714536.html) - 05:45 23/02/2024
 - 🌊 [Tàu bị tông gãy đôi, 9 người rơi xuống biển](https://vnexpress.net/tau-bi-tong-gay-doi-9-nguoi-roi-xuong-bien-4714466.html) - 03:13 23/02/2024
 - 🎓 [Hiện trạng cầu 400 tỷ đồng thiếu đường kết nối](https://vnexpress.net/hien-trang-cau-400-ty-dong-thieu-duong-ket-noi-4714322.html) - 02:01 23/02/2024
