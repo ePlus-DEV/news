@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Phát âm &#39;ər&#39; trong tiếng Anh thế nào cho chuẩn?](https://vnexpress.net/phat-am-r-trong-tieng-anh-the-nao-cho-chuan-4714977.html) - 10:24 24/02/2024
+- 🤓 [Cách phát âm &#39;ər&#39; trong tiếng Anh](https://vnexpress.net/cach-phat-am-r-trong-tieng-anh-4714977.html) - 10:24 24/02/2024
 - 🦆 [Học Sư phạm tiếng Trung có dễ xin việc?](https://vnexpress.net/hoc-su-pham-tieng-trung-co-de-xin-viec-4714309.html) - 01:30 24/02/2024
 - 🦩 [Chàng trai 22 tuổi đỗ học bổng tiến sĩ đại học số 1 thế giới](https://vnexpress.net/chang-trai-22-tuoi-do-hoc-bong-tien-si-dai-hoc-so-1-the-gioi-4713713.html) - 23:32 23/02/2024
 - 🌮 [Năm học sinh nhập viện nghi do uống nước ngọt ở cổng trường](https://vnexpress.net/nam-hoc-sinh-nhap-vien-nghi-do-uong-nuoc-ngot-o-cong-truong-4714756.html) - 16:32 23/02/2024
