@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [7 cán bộ chứng khoán &#39;tiếp tay&#39; ông Trịnh Văn Quyết thao túng thị trường](https://vnexpress.net/7-can-bo-chung-khoan-tiep-tay-chu-tich-flc-trinh-van-quyet-thao-tung-thi-truong-4714861.html) - 02:27 24/02/2024
+- 😎 [7 cán bộ chứng khoán liên quan vụ ông Trịnh Văn Quyết thao túng thị trường](https://vnexpress.net/7-can-bo-chung-khoan-lien-quan-vu-chu-tich-flc-trinh-van-quyet-thao-tung-thi-truong-4714861.html) - 02:27 24/02/2024
 - 🥰 [Có phải ai muốn vào xem phiên toà cũng được?](https://vnexpress.net/co-phai-ai-muon-vao-xem-phien-toa-cung-duoc-4714695.html) - 23:00 23/02/2024
 - 🎓 [Con trai 10 tuổi bị bắt vì tiểu bậy, mẹ kiện cảnh sát đòi 2 triệu USD](https://vnexpress.net/con-trai-10-tuoi-bi-bat-vi-tieu-bay-me-kien-canh-sat-doi-2-trieu-usd-4714796.html) - 17:00 23/02/2024
 - 🤓 [Kẻ sát nhân đóng vai bạn tốt, giấu tội hơn 20 năm](https://vnexpress.net/ke-sat-nhan-dong-vai-ban-tot-giau-toi-hon-20-nam-4714740.html) - 17:00 23/02/2024
