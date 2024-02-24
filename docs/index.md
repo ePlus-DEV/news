@@ -139,7 +139,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Bằng bác sĩ y khoa của Việt Nam có thể được thế giới công nhận](https://thanhnien.vn/bang-bac-si-y-khoa-cua-viet-nam-co-the-duoc-the-gioi-cong-nhan-185240224150350462.htm) - 09:11 24/02/2024
+- 🤠 [Hướng tới bằng bác sĩ y khoa của Việt Nam được thế giới công nhận](https://thanhnien.vn/bang-bac-si-y-khoa-cua-viet-nam-co-the-duoc-the-gioi-cong-nhan-185240224150350462.htm) - 09:11 24/02/2024
 - 🥸 [Ông Trần Quí Thanh bị cáo buộc chiếm đoạt hơn 1.000 tỉ đồng](https://thanhnien.vn/ong-tran-qui-thanh-bi-cao-buoc-chiem-doat-hon-1000-ti-dong-185240224155443939.htm) - 09:07 24/02/2024
 - 🌁 [Chủ tịch tỉnh Bình Định quay video phản ánh xe tập lái vi phạm](https://thanhnien.vn/chu-tich-tinh-binh-dinh-quay-video-phan-anh-xe-tap-lai-vi-pham-185240224155416826.htm) - 09:07 24/02/2024
 - 🤡 [Kết quả xổ số hôm nay - KQXS - Xổ số trực tiếp thứ bảy ngày 24.2.2024](https://thanhnien.vn/ket-qua-xo-so-hom-nay-kqxs-xo-so-truc-tiep-thu-bay-ngay-2422024-185240224141927864.htm) - 09:05 24/02/2024
