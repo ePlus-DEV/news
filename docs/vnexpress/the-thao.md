@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Indonesia hạ Việt Nam vào top khoảnh khắc ở Asian Cup 2023](https://vnexpress.net/indonesia-ha-viet-nam-vao-top-khoanh-khac-o-asian-cup-2023-4714953.html) - 09:58 24/02/2024
-- 🦩 [Hơn 50 triệu lượt xem &#39;trứng khôn hơn vịt&#39; trên sân tập golf](https://vnexpress.net/hon-50-trieu-luot-xem-trung-khon-hon-vit-tren-san-tap-golf-4714935.html) - 07:09 24/02/2024
+- 🦩 [Hơn 50 triệu lượt xem video giáo viên bị dạy dỗ trên sân tập golf](https://vnexpress.net/hon-50-trieu-luot-xem-video-giao-vien-bi-day-do-tren-san-tap-golf-4714935.html) - 07:09 24/02/2024
 - 🧰 [Kiptum an nghỉ trong khuôn viên gia đình](https://vnexpress.net/kiptum-an-nghi-trong-khuon-vien-gia-dinh-4714915.html) - 05:21 24/02/2024
 - 🤗 [&#39;Liverpool phải đá hiệp phụ để hạ Chelsea&#39;](https://vnexpress.net/liverpool-phai-da-hiep-phu-de-ha-chelsea-4714878.html) - 05:13 24/02/2024
 - 🥳 [Messi được yêu thích nhất ở Mỹ](https://vnexpress.net/messi-duoc-yeu-thich-nhat-o-my-4714898.html) - 05:11 24/02/2024
