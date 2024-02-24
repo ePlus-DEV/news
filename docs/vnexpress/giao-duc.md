@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Các tỉnh tiếc nuối vì không được tuyển lớp 10 bằng IELTS](https://vnexpress.net/cac-tinh-tiec-nuoi-vi-khong-duoc-tuyen-lop-10-bang-ielts-4714931.html) - 14:02 24/02/2024
+- 🤓 [Các tỉnh tiếc nuối vì phải dừng tuyển lớp 10 bằng IELTS](https://vnexpress.net/cac-tinh-tiec-nuoi-vi-phai-dung-tuyen-lop-10-bang-ielts-4714931.html) - 14:02 24/02/2024
 - 🦆 [Danh nhân nào được đặt tên cho 25 phường, xã ở Việt Nam?](https://vnexpress.net/danh-nhan-nao-duoc-dat-ten-cho-25-phuong-xa-o-viet-nam-4714969.html) - 13:06 24/02/2024
 - 🦩 [Cách phát âm &#39;ər&#39; trong tiếng Anh](https://vnexpress.net/cach-phat-am-r-trong-tieng-anh-4714977.html) - 10:24 24/02/2024
 - 🌮 [Học Sư phạm tiếng Trung có dễ xin việc?](https://vnexpress.net/hoc-su-pham-tieng-trung-co-de-xin-viec-4714309.html) - 01:30 24/02/2024
