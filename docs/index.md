@@ -217,7 +217,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦒 [&quot;Cứu người trước, dập lửa sau&quot; và sự dũng cảm của chiến sĩ cảnh sát PCCC](https://laodong.vn/video-xa-hoi/cuu-nguoi-truoc-dap-lua-sau-va-su-dung-cam-cua-chien-si-canh-sat-pccc-1307779.ldo) - 14:50 24/02/2024
 - 💼 [Truy bắt 2 đối tượng trộm cắp rồi nhảy sông bỏ trốn ở Hải Phòng](https://laodong.vn/phap-luat/truy-bat-2-doi-tuong-trom-cap-roi-nhay-song-bo-tron-o-hai-phong-1307771.ldo) - 14:46 24/02/2024
 - 🤖 [Nhiều doanh nghiệp trốn gặp Bảo hiểm xã hội](https://laodong.vn/cong-doan/nhieu-doanh-nghiep-tron-gap-bao-hiem-xa-hoi-1307727.ldo) - 14:44 24/02/2024
-- 💪 [Trực tiếp Man United 0-1 Fulham: Bassey mở tỉ số](https://laodong.vn/bong-da-quoc-te/truc-tiep-man-united-0-1-fulham-bassey-mo-ti-so-1307780.ldo) - 14:42 24/02/2024
+- 💪 [Trực tiếp Man United 1-1 Fulham: Maguire gỡ hoà](https://laodong.vn/bong-da-quoc-te/truc-tiep-man-united-1-1-fulham-maguire-go-hoa-1307780.ldo) - 14:42 24/02/2024
 - 👍 [Kiên quyết từ chối thanh toán BHYT với các chi phí bất hợp lý](https://laodong.vn/ban-doc/kien-quyet-tu-choi-thanh-toan-bhyt-voi-cac-chi-phi-bat-hop-ly-1307696.ldo) - 14:30 24/02/2024
 - 💂 [Lý do bánh mì chua là thực phẩm hàng đầu để bảo vệ sức khỏe](https://laodong.vn/dinh-duong-am-thuc/ly-do-banh-mi-chua-la-thuc-pham-hang-dau-de-bao-ve-suc-khoe-1307716.ldo) - 14:30 24/02/2024
 - 🧰 [Tình nguyện nhập ngũ để trưởng thành](https://laodong.vn/cong-doan/tinh-nguyen-nhap-ngu-de-truong-thanh-1307686.ldo) - 14:21 24/02/2024
