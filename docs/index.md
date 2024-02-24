@@ -253,7 +253,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌈 [Chứng khoán lao dốc cuối tuần, nhà đầu tư bán hay giữ cổ phiếu?](https://nld.com.vn/chung-khoan-lao-doc-cuoi-tuan-nha-dau-tu-ban-hay-giu-co-phieu-196240224143720534.htm) - 08:29 24/02/2024
 - 🔥 [Hết sức, hết lòng thực hiện Tháng Thanh niên năm 2024](https://nld.com.vn/het-suc-het-long-thuc-hien-thang-thanh-nien-nam-2024-196240224133611873.htm) - 08:27 24/02/2024
 - 🧰 [TP HCM: Khai mạc Ngày thơ Việt Nam 2024](https://nld.com.vn/tp-hcm-khai-mac-ngay-tho-viet-nam-2024-196240224144246443.htm) - 08:19 24/02/2024
-- 🤗 [Đề nghị truy tố ông chủ Tân Hiệp Phát Trần Quí Thanh và 2 con gái](https://nld.com.vn/de-nghi-truy-to-ong-chu-tan-hiep-phat-tran-qui-thanh-va-2-con-gai-1962402241456295.htm) - 08:04 24/02/2024
+- 🤗 [Đề nghị truy tố ông Trần Quí Thanh và 2 con gái](https://nld.com.vn/de-nghi-truy-to-ong-chu-tan-hiep-phat-tran-qui-thanh-va-2-con-gai-1962402241456295.htm) - 08:04 24/02/2024
 - 🦅 [Buffet chay tại siêu thị hút khách ngày rằm tháng Giêng](https://nld.com.vn/buffet-chay-tai-sieu-thi-hut-khach-ngay-ram-thang-gieng-196240224143308308.htm) - 08:01 24/02/2024
 - 🤩 [Tạm giữ thanh niên chuyên cho học sinh vay lãi nặng, đến 10.000%/năm](https://nld.com.vn/tam-giu-thanh-nien-chuyen-cho-hoc-sinh-vay-lai-nang-den-10000-nam-196240224143908765.htm) - 07:48 24/02/2024
 - 🎭 [Bắt tạm giam người đại diện một công ty bất động sản ở Quảng Nam](https://nld.com.vn/bat-tam-giam-nguoi-dai-dien-mot-cong-ty-bat-dong-san-o-quang-nam-19624022413185221.htm) - 07:06 24/02/2024
