@@ -157,7 +157,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦆 [Mỹ tấn công dồn dập vào Houthi sau khi tàu hàng trúng tên lửa](https://thanhnien.vn/my-tan-cong-don-dap-vao-houthi-sau-khi-tau-hang-trung-ten-lua-185240224110358215.htm) - 04:12 24/02/2024
 - 🐵 [Tàu vũ trụ Mỹ bị vấp &#39;đổ nhào&#39; trên mặt trăng](https://thanhnien.vn/tau-vu-tru-my-bi-vap-do-nhao-tren-mat-trang-185240224104413402.htm) - 04:11 24/02/2024
 - 🙉 [Triệu tim cho những clip cháu nội quay cùng bà nội U.90](https://thanhnien.vn/trieu-tim-cho-nhung-clip-chau-noi-quay-cung-ba-noi-u90-185240223224839103.htm) - 04:05 24/02/2024
-- 🌋 [Trịnh Công Sơn: Thầy giáo dạy võ đặc biệt của trẻ em nghèo](https://thanhnien.vn/trinh-cong-son-thay-giao-day-vo-dac-biet-cua-tre-em-ngheo-185240223174006934.htm) - 04:00 24/02/2024
+- 🌋 [Trịnh Công Sơn: Thầy giáo dạy võ của trẻ em nghèo](https://thanhnien.vn/trinh-cong-son-thay-giao-day-vo-dac-biet-cua-tre-em-ngheo-185240223174006934.htm) - 04:00 24/02/2024
 - 🐻 [Những thiên đường nghỉ dưỡng mùa hè ở châu Âu mà bạn nên lưu ngay](https://thanhnien.vn/thoi-trang-tre/nhung-thien-duong-nghi-duong-mua-he-o-chau-au-ma-ban-nen-luu-ngay-1852402221716439.htm) - 04:00 24/02/2024
 - 🧠 [Sắp có tuyến xe buýt liên tỉnh Quảng Trị - Huế](https://thanhnien.vn/sap-co-tuyen-xe-buyt-lien-tinh-quang-tri-hue-185240224102118083.htm) - 03:48 24/02/2024
 - 🔥 [‘Hot boy’ Trần Đức Hoan của ĐH Thủy Lợi: Chưa có bạn gái và trí nhớ siêu đỉnh](https://thanhnien.vn/hot-boy-tran-duc-hoan-cua-dh-thuy-loi-chua-co-ban-gai-va-tri-nho-sieu-dinh-185240224100945478.htm) - 03:47 24/02/2024
