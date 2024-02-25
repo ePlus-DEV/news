@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Cách lãnh đạo HOSE giúp Trịnh Văn Quyết chiếm đoạt 3.600 tỷ đồng](https://vnexpress.net/cach-lanh-dao-hose-giup-trinh-van-quyet-chiem-doat-3-600-ty-dong-4715087.html) - 07:24 25/02/2024
 - 🥰 [Người bị bắt oan 39 năm trước ở Sài Gòn mòn mỏi tìm công lý](https://vnexpress.net/nguoi-bi-bat-oan-39-nam-truoc-o-sai-gon-mon-moi-tim-cong-ly-4714961.html) - 05:42 25/02/2024
-- 🎓 [Hơn 190 người trốn trại cai nghiện](https://vnexpress.net/gan-200-nguoi-tron-trai-cai-nghiem-ma-tuy-4715110.html) - 03:29 25/02/2024
+- 🎓 [Hơn 190 người phá cửa, trốn trại cai nghiện](https://vnexpress.net/gan-200-nguoi-tron-trai-cai-nghiem-ma-tuy-4715110.html) - 03:29 25/02/2024
 - 🤓 [Băng cướp trong bộ dạng &#39;người chậm chạp&#39; tuổi 70](https://vnexpress.net/bang-cuop-trong-bo-dang-nguoi-cham-chap-tuoi-70-4714799.html) - 22:00 24/02/2024
 - 🎊 [Sai phạm gì thì sẽ bị hoãn xuất cảnh?](https://vnexpress.net/sai-pham-gi-thi-se-bi-hoan-xuat-canh-4714717.html) - 17:00 24/02/2024
 - 🙉 [Thủ đoạn giả danh quân nhân để lừa đảo &#39;mua hàng cho đơn vị&#39;](https://vnexpress.net/thu-doan-gia-danh-quan-nhan-de-lua-dao-mua-hang-cho-don-vi-4714587.html) - 17:00 24/02/2024
