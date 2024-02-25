@@ -393,10 +393,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Hôm nay, thanh niên 30 địa phương lên đường nhập ngũ](https://baochinhphu.vn/hom-nay-thanh-nien-30-dia-phuong-len-duong-nhap-ngu-102240225163543231.htm) - 18:12 25/02/2024
-- 🌜 [Chủ tịch Quốc hội dự Lễ khởi động Tháng Thanh niên và Tết trồng cây Xuân Giáp Thìn 2024](https://baochinhphu.vn/chu-tich-quoc-hoi-du-le-khoi-dong-thang-thanh-nien-va-tet-trong-cay-xuan-giap-thin-2024-102240225152544137.htm) - 18:08 25/02/2024
-- 🦆 [Điện mừng Quốc khánh Nhà nước Kuwait](https://baochinhphu.vn/dien-mung-quoc-khanh-nha-nuoc-kuwait-102240225174351452.htm) - 18:07 25/02/2024
-- 🌝 [Chủ tịch nước Võ Văn Thưởng thăm, chúc mừng các y, bác sĩ tại tỉnh Hà Nam](https://baochinhphu.vn/chu-tich-nuoc-vo-van-thuong-tham-chuc-mung-cac-y-bac-si-tai-tinh-ha-nam-102240225151222062.htm) - 15:33 25/02/2024
+- 💻 [Chủ tịch nước Võ Văn Thưởng thăm, chúc mừng các y, bác sĩ tại tỉnh Hà Nam](https://baochinhphu.vn/chu-tich-nuoc-vo-van-thuong-tham-chuc-mung-cac-y-bac-si-tai-tinh-ha-nam-102240225151222062.htm) - 18:59 25/02/2024
+- 🌜 [Hôm nay, thanh niên 30 địa phương lên đường nhập ngũ](https://baochinhphu.vn/hom-nay-thanh-nien-30-dia-phuong-len-duong-nhap-ngu-102240225163543231.htm) - 18:12 25/02/2024
+- 🦆 [Chủ tịch Quốc hội dự Lễ khởi động Tháng Thanh niên và Tết trồng cây Xuân Giáp Thìn 2024](https://baochinhphu.vn/chu-tich-quoc-hoi-du-le-khoi-dong-thang-thanh-nien-va-tet-trong-cay-xuan-giap-thin-2024-102240225152544137.htm) - 18:08 25/02/2024
+- 🌝 [Điện mừng Quốc khánh Nhà nước Kuwait](https://baochinhphu.vn/dien-mung-quoc-khanh-nha-nuoc-kuwait-102240225174351452.htm) - 18:07 25/02/2024
 - 🦣 [Chủ tịch Quốc hội Vương Đình Huệ dâng hương tại Khu Di tích quốc gia đặc biệt Kim Liên, Khu Di tích lịch sử quốc gia Truông Bồn](https://baochinhphu.vn/chu-tich-quoc-hoi-vuong-dinh-hue-dang-huong-tai-khu-di-tich-quoc-gia-dac-biet-kim-lien-khu-di-tich-lich-su-quoc-gia-truong-bon-102240225122922232.htm) - 15:29 25/02/2024
 - ⛽️ [Thanh niên trên địa bàn Quân khu 5 hăng hái tòng quân](https://baochinhphu.vn/thanh-nien-tren-dia-ban-quan-khu-5-hang-hai-tong-quan-102240225111233629.htm) - 15:22 25/02/2024
 - 🎓 [Quy định mới về cấp giấy chứng nhận đủ điều kiện kỹ thuật đối với thiết bị, phương tiện chuyên ngành hàng không](https://baochinhphu.vn/quy-dinh-moi-ve-cap-giay-chung-nhan-du-dieu-kien-ky-thuat-doi-voi-thiet-bi-phuong-tien-chuyen-nganh-hang-khong-102240223181626502.htm) - 09:26 25/02/2024
