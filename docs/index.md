@@ -581,7 +581,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 👺 [Vờ mua nữ trang, giật kiềng vàng 7 chỉ bỏ chạy](https://tienphong.vn/vo-mua-nu-trang-giat-kieng-vang-7-chi-bo-chay-post1614973.tpo) - 21:40 25/02/2024
 - 💪 [Tân binh Lạng Sơn hứa quyết tâm rèn luyện, công tác tốt](https://tienphong.vn/tan-binh-lang-son-hua-quyet-tam-ren-luyen-cong-tac-tot-post1614919.tpo) - 21:37 25/02/2024
 - 💃 [Ninh Thuận bán đấu giá trung tâm văn hoá với giá khởi điểm hơn 140 tỷ đồng](https://tienphong.vn/ninh-thuan-ban-dau-gia-trung-tam-van-hoa-voi-gia-khoi-diem-hon-140-ty-dong-post1614942.tpo) - 21:28 25/02/2024
-- 🦍 [Trực tiếp Chelsea vs Liverpool 0-0 &lpar;H2&rpar;: Hai đội đá hiệp phụ](https://tienphong.vn/truc-tiep-chelsea-vs-liverpool-0-0-h2-hai-doi-da-hiep-phu-post1614980.tpo) - 21:24 25/02/2024
+- 🦍 [Liverpool vô địch cúp Liên đoàn sau trận cầu nghẹt thở](https://tienphong.vn/liverpool-vo-dich-cup-lien-doan-sau-tran-cau-nghet-tho-post1614980.tpo) - 21:24 25/02/2024
 - 👹 [Cầu 40 năm tuổi ở Bình Định đổ sập khi xe lôi chở cát đi qua](https://tienphong.vn/cau-40-nam-tuoi-o-binh-dinh-do-sap-khi-xe-loi-cho-cat-di-qua-post1614979.tpo) - 21:16 25/02/2024
 - 🌜 [Vượt hơn 80km để săn vé &#39;Đào, phở và piano&#39;](https://tienphong.vn/vuot-hon-80km-de-san-ve-dao-pho-va-piano-post1614867.tpo) - 20:48 25/02/2024
 - 🎓 [Hai người mất tích trên vùng biển thành phố Huế](https://tienphong.vn/hai-nguoi-mat-tich-tren-vung-bien-thanh-pho-hue-post1614974.tpo) - 20:46 25/02/2024
