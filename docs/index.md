@@ -35,7 +35,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😺 [Thuê người chặt chân để gian lận tiền bảo hiểm](https://vnexpress.net/thue-nguoi-chat-chan-de-gian-lan-tien-bao-hiem-4715157.html) - 17:00 25/02/2024
 - 🕯 [Biệt thự bỏ hoang thành chuồng bò ở Trung Quốc](https://vnexpress.net/biet-thu-bo-hoang-thanh-chuong-bo-o-trung-quoc-4715142.html) - 17:00 25/02/2024
 - 💃 [Mong mình nắm tay nhau đi đến cuối đời](https://vnexpress.net/mong-minh-nam-tay-nhau-di-den-cuoi-doi-4715102.html) - 17:00 25/02/2024
-- 💂 [Trừ điểm bằng lái xe](https://vnexpress.net/tru-diem-bang-lai-xe-4715040.html) - 17:00 25/02/2024
+- 💂 [Thuốc đắng &#39;trừ điểm, treo bằng&#39;](https://vnexpress.net/thuoc-dang-tru-diem-treo-bang-4715040.html) - 17:00 25/02/2024
 - 🎊 [Nhiều kỳ vọng Việt Nam mở visa hướng đến khách Âu](https://vnexpress.net/nhieu-ky-vong-viet-nam-mo-visa-huong-den-khach-au-4714948.html) - 17:00 25/02/2024
 - 🤠 [Cho vật kim loại vào lò vi sóng có nguy hiểm không?](https://vnexpress.net/cho-vat-kim-loai-vao-lo-vi-song-co-nguy-hiem-khong-4714720.html) - 17:00 25/02/2024
 - 🌈 [Có nên nhờ người đứng tên mua nhà khi vợ chồng &#39;không thuận&#39;?](https://vnexpress.net/co-nen-nho-nguoi-dung-ten-mua-nha-khi-vo-chong-khong-thuan-4714640.html) - 17:00 25/02/2024
@@ -54,7 +54,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦩 [Ôtô khách tông nhiều lần vào xe cảnh sát giao thông](https://vnexpress.net/oto-khach-tong-nhieu-lan-vao-xe-canh-sat-giao-thong-4715213.html) - 14:40 25/02/2024
 - 📝 [Đảo quốc nhỏ bé giao dịch bằng tiền đá khổng lồ](https://vnexpress.net/dao-quoc-nho-be-giao-dich-bang-tien-da-khong-lo-4715107.html) - 14:37 25/02/2024
 - 🕴 [Giảm 8 kg, phát hiện ung thư phổi di căn](https://vnexpress.net/giam-8-kg-phat-hien-ung-thu-phoi-di-can-4715207.html) - 14:27 25/02/2024
-- 🐲 [Chelsea 0-0 Liverpool &lpar;hiệp phụ 2&rpar;: Liên tục bỏ lỡ khó tin](https://vnexpress.net/truc-tiep-chelsea-vs-liverpool-4715218.html) - 14:21 25/02/2024
+- 🐲 [Liverpool giành Cup Liên đoàn Anh](https://vnexpress.net/truc-tiep-chelsea-vs-liverpool-4715218.html) - 14:21 25/02/2024
 - 🌜 [Philippines tố hải cảnh Trung Quốc cản tàu tiếp tế trên Biển Đông](https://vnexpress.net/philippines-to-hai-canh-trung-quoc-can-tau-tiep-te-tren-bien-dong-4715214.html) - 14:03 25/02/2024
 - 💄 [Tác giả 104 tuổi ra mắt tự truyện](https://vnexpress.net/tac-gia-104-tuoi-ra-mat-tu-truyen-4715206.html) - 14:02 25/02/2024
 - 🌁 [Còn cơ hội để tôi có lại người vợ xinh đẹp, ngoan hiền?](https://vnexpress.net/con-co-hoi-de-toi-co-lai-nguoi-vo-xinh-dep-ngoan-hien-4715165.html) - 14:00 25/02/2024
