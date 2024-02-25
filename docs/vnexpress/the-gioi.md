@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Ông Trump thắng bầu cử sơ bộ ở Nam Carolina](https://vnexpress.net/ong-trump-thang-bau-cu-so-bo-o-nam-carolina-4715063.html) - 00:39 25/02/2024
+- 🎭 [Trump đánh bại Haley ở bang nhà Nam Carolina](https://vnexpress.net/trump-danh-bai-haley-o-bang-nha-nam-carolina-4715063.html) - 00:39 25/02/2024
 - 🕴 [G7 cam kết gia tăng trừng phạt Nga](https://vnexpress.net/g7-cam-ket-gia-tang-trung-phat-nga-4715058.html) - 00:09 25/02/2024
 - 🤭 [Mỹ, Anh tập kích Houthi ở Yemen](https://vnexpress.net/my-anh-tap-kich-houthi-o-yemen-4715054.html) - 23:46 24/02/2024
 - 🧑‍💻 [Ukraine lộ thế yếu sau hai năm chiến sự](https://vnexpress.net/ukraine-lo-the-yeu-sau-hai-nam-chien-su-4714766.html) - 22:00 24/02/2024
