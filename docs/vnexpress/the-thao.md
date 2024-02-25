@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Ronaldo sút phạt đền thành bàn 18 lần liên tiếp](https://vnexpress.net/ronaldo-sut-phat-den-thanh-ban-18-lan-lien-tiep-4715245.html) - 19:09 25/02/2024
 - 🦩 [Khán giả PSG la ó khi Mbappe bị thay ra](https://vnexpress.net/khan-gia-psg-la-o-khi-mbappe-bi-thay-ra-4715244.html) - 18:12 25/02/2024
 - 🧰 [Lê Đức Phát vô địch giải cầu lông ở Uganda](https://vnexpress.net/le-duc-phat-vo-dich-giai-cau-long-o-uganda-4715236.html) - 16:04 25/02/2024
-- 🤗 [Liverpool giành Cup Liên đoàn Anh](https://vnexpress.net/truc-tiep-chelsea-vs-liverpool-4715218.html) - 14:21 25/02/2024
+- 🤗 [Liverpool giành Cup Liên đoàn Anh](https://vnexpress.net/ket-qua-chelsea-vs-liverpool-4715218-tong-thuat.html) - 14:21 25/02/2024
 - 🥳 [Cựu bảo vệ hộp đêm rộng cửa vô địch trên PGA Tour tuần này](https://vnexpress.net/cuu-bao-ve-hop-dem-rong-cua-vo-dich-tren-pga-tour-tuan-nay-4715208.html) - 12:35 25/02/2024
 - 🦣 [HLV Troussier gặp Công Phượng ở Nhật Bản](https://vnexpress.net/hlv-troussier-gap-cong-phuong-o-nhat-ban-4715197.html) - 11:03 25/02/2024
 - 🌜 [Lý Hoàng Nam giải cơn khát danh hiệu](https://vnexpress.net/ly-hoang-nam-giai-con-khat-danh-hieu-4715186.html) - 09:53 25/02/2024
