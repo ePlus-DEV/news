@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Philippines tố hải cảnh Trung Quốc cản tàu tiếp tế gần bãi Cỏ Mây](https://vnexpress.net/philippines-to-hai-canh-trung-quoc-can-tau-tiep-te-gan-bai-co-may-4715214.html) - 14:03 25/02/2024
+- 🎭 [Philippines tố hải cảnh Trung Quốc cản tàu tiếp tế trên Biển Đông](https://vnexpress.net/philippines-to-hai-canh-trung-quoc-can-tau-tiep-te-tren-bien-dong-4715214.html) - 14:03 25/02/2024
 - 🕴 [&#39;50% vũ khí phương Tây viện trợ Ukraine bị bàn giao chậm&#39;](https://vnexpress.net/50-vu-khi-phuong-tay-vien-tro-ukraine-bi-ban-giao-cham-4715201.html) - 12:33 25/02/2024
 - 🤭 [Chiến dịch Trump phớt lờ Haley sau thắng lợi ở Nam Carolina](https://vnexpress.net/chien-dich-trump-phot-lo-haley-sau-thang-loi-o-nam-carolina-4715193.html) - 11:00 25/02/2024
 - 🧑‍💻 [Ông Hun Sen quay trở lại chính trường](https://vnexpress.net/ong-hun-sen-quay-tro-lai-chinh-truong-4715170.html) - 08:02 25/02/2024
