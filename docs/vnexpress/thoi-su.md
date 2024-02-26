@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [VnExpress tròn 23 tuổi](https://vnexpress.net/vnexpress-tron-23-tuoi-4714668.html) - 17:00 25/02/2024
 - ⚗️ [Ôtô khách tông nhiều lần vào xe cảnh sát giao thông](https://vnexpress.net/oto-khach-tong-nhieu-lan-vao-xe-canh-sat-giao-thong-4715213.html) - 14:40 25/02/2024
 - 🌊 [Những cô gái miền đất lửa Quảng Trị tình nguyện nhập ngũ](https://vnexpress.net/nhung-co-gai-mien-dat-lua-quang-tri-tinh-nguyen-nhap-ngu-4715072.html) - 05:46 25/02/2024
-- 🎓 [Xem xét cho xe chạy vào lề đường cao tốc Cam Lộ - La Sơn](https://vnexpress.net/xem-xet-cho-xe-chay-vao-le-duong-cao-toc-cam-lo-la-son-4715109.html) - 05:03 25/02/2024
+- 🎓 [Xem xét cho xe chạy vào lề cao tốc Cam Lộ - La Sơn](https://vnexpress.net/xem-xet-cho-xe-chay-vao-le-cao-toc-cam-lo-la-son-4715109.html) - 05:03 25/02/2024
 - 🔥 [Miền Bắc duy trì mưa rét](https://vnexpress.net/mien-bac-duy-tri-mua-ret-4715089.html) - 02:43 25/02/2024
 - 🦏 [Người dân dỡ nhà, giao đất mở rộng đường vào Tân Sơn Nhất](https://vnexpress.net/nguoi-dan-do-nha-giao-dat-mo-rong-duong-vao-tan-son-nhat-4714901.html) - 22:00 24/02/2024
 - 👺 [Khôi phục sen Hồ Tây](https://vnexpress.net/khoi-phuc-sen-ho-tay-4715015.html) - 21:00 24/02/2024
