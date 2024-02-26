@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Pacer đánh giá cao cung đường đêm TP HCM](https://vnexpress.net/pacer-danh-gia-cao-cung-duong-dem-tp-hcm-4715129.html) - 12:30 26/02/2024
+- 🪜 [Pacer đánh giá cao cung đường giải chạy đêm TP HCM](https://vnexpress.net/pacer-danh-gia-cao-cung-duong-giai-chay-dem-tp-hcm-4715129.html) - 12:30 26/02/2024
 - 🦩 [Runner Kenya qua đời sau khi hoàn thành giải leo núi](https://vnexpress.net/runner-kenya-qua-doi-sau-khi-hoan-thanh-giai-leo-nui-4715587.html) - 11:13 26/02/2024
 - 🧰 [Trợ lý của Troussier làm HLV tạm quyền U23 Việt Nam](https://vnexpress.net/tro-ly-cua-troussier-lam-hlv-tam-quyen-u23-viet-nam-4715577.html) - 10:43 26/02/2024
 - 🤗 [Nguyễn Văn Lai tổ chức sự kiện chạy đầu xuân](https://vnexpress.net/nguyen-van-lai-to-chuc-su-kien-chay-dau-xuan-4715549.html) - 10:34 26/02/2024
