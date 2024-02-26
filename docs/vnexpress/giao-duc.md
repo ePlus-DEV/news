@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Thủ khoa Sư phạm hiếm hoi tốt nghiệp sớm với điểm tuyệt đối](https://vnexpress.net/thu-khoa-su-pham-hiem-hoi-tot-nghiep-som-voi-diem-tuyet-doi-4715168.html) - 23:00 25/02/2024
+- 🤓 [Thủ khoa Sư phạm tốt nghiệp sớm với điểm tuyệt đối](https://vnexpress.net/thu-khoa-su-pham-tot-nghiep-som-voi-diem-tuyet-doi-4715168.html) - 23:00 25/02/2024
 - 🦆 [Muốn học ngành Tâm lý nhưng lo không xin được việc](https://vnexpress.net/muon-hoc-nganh-tam-ly-nhung-lo-khong-xin-duoc-viec-4713449.html) - 16:59 25/02/2024
 - 🦩 [Đồng Tháp được hợp nhất từ hai tỉnh nào?](https://vnexpress.net/dong-thap-duoc-hop-nhat-tu-hai-tinh-nao-4715192.html) - 13:17 25/02/2024
 - 🌮 [HV Thanh thiếu niên Việt Nam đổi tổ hợp xét tuyển ngành Quan hệ công chúng](https://vnexpress.net/hv-thanh-thieu-nien-viet-nam-doi-to-hop-xet-tuyen-nganh-quan-he-cong-chung-4715019.html) - 12:04 25/02/2024
