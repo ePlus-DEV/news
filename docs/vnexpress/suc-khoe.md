@@ -6,7 +6,7 @@ sidebar_position: 10
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [Chủ tịch TP HCM: &#39;Chuyển đổi số để người bệnh làm xét nghiệm một lần&#39;](https://vnexpress.net/chu-tich-tp-hcm-chuyen-doi-so-de-nguoi-benh-lam-xet-nghiem-mot-lan-4715571.html) - 13:18 26/02/2024
 - 🥰 [Tiềm năng ngăn bệnh Alzheimer từ vaccine lao BCG](https://vnexpress.net/tiem-nang-ngan-benh-alzheimer-tu-vaccine-lao-bcg-4715538.html) - 13:00 26/02/2024
-- 💡 [Phát bệnh tâm thần sau thua cờ bạc](https://vnexpress.net/phat-benh-tam-than-sau-thua-co-bac-4715540.html) - 10:11 26/02/2024
+- 💡 [Phát bệnh tâm thần sau thua cờ bạc tiền tỷ](https://vnexpress.net/phat-benh-tam-than-sau-thua-co-bac-tien-ty-4715540.html) - 10:11 26/02/2024
 - 🤗 [Ăn gì giảm đau xương khớp?](https://vnexpress.net/an-gi-giam-dau-xuong-khop-4715525.html) - 10:00 26/02/2024
 - 🪜 [Dùng từ trường xuyên sọ chữa mất ngủ?](https://vnexpress.net/dung-tu-truong-xuyen-so-chua-mat-ngu-4715494.html) - 09:30 26/02/2024
 - 🕯 [Những bệnh thường gặp nào gây vô sinh nữ?](https://vnexpress.net/nhung-benh-thuong-gap-nao-gay-vo-sinh-nu-4715529.html) - 09:20 26/02/2024
