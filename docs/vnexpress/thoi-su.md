@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Sụt đất khi đào giếng, hai người chết](https://vnexpress.net/sut-dat-khi-dao-gieng-hai-nguoi-chet-4715574.html) - 10:58 26/02/2024
+- 🦒 [Sụt đất khi đào giếng, hai anh em tử vong](https://vnexpress.net/sut-dat-khi-dao-gieng-hai-anh-em-tu-vong-4715574.html) - 10:58 26/02/2024
 - 🤓 [Tìm thấy nam thanh niên sau 10 ngày mất tích ở khu du lịch](https://vnexpress.net/tim-thay-nam-thanh-nien-sau-10-ngay-mat-tich-o-khu-du-lich-4715542.html) - 10:41 26/02/2024
 - ⚗️ [Hai thanh niên tạt đầu ôtô, đánh người trên vành đai 2](https://vnexpress.net/hai-thanh-nien-tat-dau-oto-danh-nguoi-tren-vanh-dai-2-4715564.html) - 10:35 26/02/2024
 - 🌊 [Xe khách tông vào hộ lan, nhiều người bị thương](https://vnexpress.net/xe-khach-tong-vao-ho-lan-nhieu-nguoi-bi-thuong-4715537.html) - 09:28 26/02/2024
