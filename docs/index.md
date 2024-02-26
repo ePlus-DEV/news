@@ -71,7 +71,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚦 [Giá USD ngân hàng tăng mạnh](https://vnexpress.net/gia-usd-ngan-hang-tang-manh-4715381.html) - 03:45 26/02/2024
 - 🕯 [Con ngựa đang đi theo hướng nào?](https://vnexpress.net/con-ngua-dang-di-theo-huong-nao-4714641.html) - 03:30 26/02/2024
 - 💪 [Vinhomes khởi công dự án The Opus One](https://vnexpress.net/vinhomes-khoi-cong-du-an-the-opus-one-4715308.html) - 03:30 26/02/2024
-- 🧑‍🏫 [Hai người bị sóng cuốn mất tích](https://vnexpress.net/hai-nguoi-bi-song-cuon-mat-tich-4715312.html) - 03:28 26/02/2024<!-- vnexpress:END -->
+- 🧑‍🏫 [Hai người bị sóng cuốn mất tích](https://vnexpress.net/hai-nguoi-bi-song-cuon-mat-tich-4715312.html) - 03:28 26/02/2024
+- 🎓 [Chelsea bị chê là đội bóng tỷ đô luôn gục ngã trước áp lực](https://vnexpress.net/chelsea-bi-che-la-doi-bong-ty-do-luon-guc-nga-truoc-ap-luc-4715384.html) - 03:26 26/02/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
