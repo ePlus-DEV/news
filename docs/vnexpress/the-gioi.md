@@ -7,7 +7,7 @@ sidebar_position: 2
 - 🎭 [108 nhân viên bầu cử Indonesia chết vì kiệt sức](https://vnexpress.net/108-nhan-vien-bau-cu-indonesia-chet-vi-kiet-suc-4715293.html) - 03:22 26/02/2024
 - 🕴 [Khoảnh khắc biệt kích Israel dùng drone, lựu đạn hạ tay súng Hamas](https://vnexpress.net/khoanh-khac-biet-kich-israel-dung-drone-luu-dan-ha-tay-sung-hamas-4715280.html) - 02:42 26/02/2024
 - 🤭 [Phó lãnh đạo phe Cộng hòa tại Thượng viện hậu thuẫn ông Trump tranh cử](https://vnexpress.net/pho-lanh-dao-phe-cong-hoa-tai-thuong-vien-hau-thuan-ong-trump-tranh-cu-4715286.html) - 02:11 26/02/2024
-- 🧑‍💻 [Tự thiêu trước đại sứ quán Israel ở Mỹ](https://vnexpress.net/tu-thieu-truoc-dai-su-quan-israel-o-my-4715258.html) - 00:56 26/02/2024
+- 🧑‍💻 [Lính Mỹ tự thiêu trước đại sứ quán Israel](https://vnexpress.net/linh-my-tu-thieu-truoc-dai-su-quan-israel-4715258.html) - 00:56 26/02/2024
 - 🦏 [Israel sẽ tiếp tục chống Hezbollah ngay cả khi ngừng bắn ở Gaza](https://vnexpress.net/israel-se-tiep-tuc-chong-hezbollah-ngay-ca-khi-ngung-ban-o-gaza-4715259.html) - 00:49 26/02/2024
 - 🦒 [Ông Trump bị chỉ trích sau khi nêu lý do hút cử tri da màu](https://vnexpress.net/ong-trump-bi-chi-trich-sau-khi-neu-ly-do-hut-cu-tri-da-mau-4715250.html) - 23:55 25/02/2024
 - 🌈 [Kế hoạch phản công lớn của Ukraine &#39;bị tuồn cho Nga&#39;](https://vnexpress.net/ke-hoach-phan-cong-lon-cua-ukraine-bi-tuon-cho-nga-4715251.html) - 23:41 25/02/2024
