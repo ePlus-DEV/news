@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Bác sĩ tìm lại khả năng giao tiếp cho bệnh nhân đột quỵ](https://vnexpress.net/bac-si-tim-lai-kha-nang-giao-tiep-cho-benh-nhan-dot-quy-4715171.html) - 23:04 26/02/2024
+- 🔥 [Người tìm lại khả năng giao tiếp cho bệnh nhân đột quỵ](https://vnexpress.net/bac-si-tim-lai-kha-nang-giao-tiep-cho-benh-nhan-dot-quy-4715171.html) - 23:04 26/02/2024
 - 🥰 [Can thiệp tim bào thai được vinh danh thành tựu y khoa Việt Nam](https://vnexpress.net/can-thiep-tim-bao-thai-duoc-vinh-danh-thanh-tuu-y-khoa-viet-nam-4715615.html) - 20:29 26/02/2024
 - 💡 [Bí quyết ngừa lão hóa của &#39;thần sấm&#39; Chris Hemsworth](https://vnexpress.net/bi-quyet-ngua-lao-hoa-cua-than-sam-chris-hemsworth-4715502.html) - 19:00 26/02/2024
 - 🤗 [5 thói quen có thể khiến nam giới vô sinh](https://vnexpress.net/5-thoi-quen-co-the-khien-nam-gioi-vo-sinh-4715302.html) - 18:00 26/02/2024
