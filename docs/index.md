@@ -389,8 +389,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Đào tạo bác sĩ chất lượng cao là sứ mệnh của các trường đại học y](https://baochinhphu.vn/dao-tao-bac-si-chat-luong-cao-la-su-menh-cua-cac-truong-dai-hoc-y-102240226160128855.htm) - 16:51 26/02/2024
-- 🌜 [Thường trực Ban Bí thư thăm, chúc mừng Bệnh viện Trung ương Quân đội 108 nhân Ngày Thầy thuốc Việt Nam](https://baochinhphu.vn/thuong-truc-ban-bi-thu-tham-chuc-mung-benh-vien-trung-uong-quan-doi-108-nhan-ngay-thay-thuoc-viet-nam-102240226160938832.htm) - 16:44 26/02/2024
+- 💻 [Xây dựng BV Trung ương Quân đội 108 xứng đáng là bệnh viện hạng đặc biệt](https://baochinhphu.vn/xay-dung-bv-trung-uong-quan-doi-108-xung-dang-la-benh-vien-hang-dac-biet-102240226170543997.htm) - 17:09 26/02/2024
+- 🌜 [Đào tạo bác sĩ chất lượng cao là sứ mệnh của các trường đại học y](https://baochinhphu.vn/dao-tao-bac-si-chat-luong-cao-la-su-menh-cua-cac-truong-dai-hoc-y-102240226160128855.htm) - 16:51 26/02/2024
 - 🦆 [Phải xử lý hết sức có trách nhiệm vướng mắc về TTHC](https://baochinhphu.vn/phai-xu-ly-het-suc-co-trach-nhiem-vuong-mac-ve-tthc-10224022616364494.htm) - 16:38 26/02/2024
 - 🌝 [Phát động thi đua 120 ngày về đích tiến độ dự án đường dây 500kV mạch 3 từ Quảng Trạch đến Phố Nối](https://baochinhphu.vn/phat-dong-thi-dua-120-ngay-ve-dich-tien-do-du-an-duong-day-500kv-mach-3-tu-quang-trach-den-pho-noi-102240226153042109.htm) - 15:40 26/02/2024
 - 🦣 [Nhiều địa phương quyết định chỉ thi 3 môn vào lớp 10 năm học 2024-2025](https://baochinhphu.vn/nhieu-dia-phuong-quyet-dinh-chi-thi-3-mon-vao-lop-10-nam-hoc-2024-2025-10224022615012265.htm) - 15:34 26/02/2024
