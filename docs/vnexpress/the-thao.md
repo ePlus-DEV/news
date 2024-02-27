@@ -63,4 +63,4 @@ sidebar_position: 5
 - 🤩 [Guardiola: &#39;Các cầu thủ Man City là siêu nhân&#39;](https://vnexpress.net/guardiola-cac-cau-thu-man-city-la-sieu-nhan-4715067.html) - 00:25 25/02/2024
 - 🏊 [Arteta: &#39;Arsenal muốn thành CLB mạnh nhất thế giới&#39;](https://vnexpress.net/arteta-arsenal-muon-thanh-clb-manh-nhat-the-gioi-4715064.html) - 00:15 25/02/2024
 - 🐎 [Ten Hag: &#39;Bức tranh toàn cảnh vẫn tốt với Man Utd&#39;](https://vnexpress.net/ten-hag-buc-tranh-toan-canh-van-tot-voi-man-utd-4715059.html) - 23:54 24/02/2024
-- 💫 [Chuyện golf của nghệ sĩ violin Mỹ](https://vnexpress.net/chuyen-golf-cua-nghe-si-violin-my-4715020.html) - 21:00 24/02/2024<!-- vnexpress-the-thao:END -->
+- 💫 [Bất ngờ từ ý tưởng cược golf hút hơn nghìn like](https://vnexpress.net/bat-ngo-tu-y-tuong-cuoc-golf-hut-hon-nghin-like-4715023.html) - 21:00 24/02/2024<!-- vnexpress-the-thao:END -->
