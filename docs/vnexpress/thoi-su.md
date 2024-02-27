@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hai thanh niên lạng lách, đánh người trên vành đai 2 bị triệu tập](https://vnexpress.net/hai-thanh-nien-lang-lach-danh-nguoi-tren-vanh-dai-2-bi-trieu-tap-4715747.html) - 04:05 27/02/2024
+- 🦒 [Hai người lạng lách, đánh người trên vành đai 2 bị triệu tập](https://vnexpress.net/hai-nguoi-lang-lach-danh-nguoi-tren-vanh-dai-2-bi-trieu-tap-4715747.html) - 04:05 27/02/2024
 - 🤓 [Tài xế lái xe ngược chiều trên cao tốc bị phạt 17 triệu đồng](https://vnexpress.net/tai-xe-lai-xe-nguoc-chieu-tren-cao-toc-bi-phat-17-trieu-dong-4714956.html) - 03:12 27/02/2024
 - ⚗️ [11 năm cùng tiến của hai bác sĩ quân y xứ Nghệ](https://vnexpress.net/11-nam-cung-tien-cua-hai-bac-si-quan-y-xu-nghe-4715120.html) - 18:07 26/02/2024
 - 🌊 [Kỹ sư tạo nước nóng từ nguồn nhiệt dư thừa của bếp củi](https://vnexpress.net/ky-su-tao-nuoc-nong-tu-nguon-nhiet-du-thua-cua-bep-cui-4715012.html) - 17:00 26/02/2024
