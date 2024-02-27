@@ -71,7 +71,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚦 [Máy bay Trung Quốc C919 đầu tiên có gì đặc biệt?](https://vnexpress.net/may-bay-trung-quoc-c919-dau-tien-co-gi-dac-biet-4715685.html) - 08:05 27/02/2024
 - 🕯 [Muốn cùng em trải qua &#39;hỷ nộ ái ố&#39; một đời người](https://vnexpress.net/muon-cung-em-trai-qua-hy-no-ai-o-mot-doi-nguoi-4715763.html) - 08:00 27/02/2024
 - 💪 [Vợ nhiệt tình đón nhận sự tán tỉnh của nhiều người hồi yêu tôi](https://vnexpress.net/vo-nhiet-tinh-don-nhan-su-tan-tinh-cua-nhieu-nguoi-hoi-yeu-toi-4715760.html) - 08:00 27/02/2024
-- 🧑‍🏫 [Hai container &#39;hôn&#39; nhau](https://vnexpress.net/hai-container-hon-nhau-4715738.html) - 08:00 27/02/2024<!-- vnexpress:END -->
+- 🧑‍🏫 [Hai container &#39;hôn&#39; nhau](https://vnexpress.net/hai-container-hon-nhau-4715738.html) - 08:00 27/02/2024
+- 🎓 [&#39;Số hóa doanh nghiệp bảo hiểm nhân thọ là yêu cầu tất yếu&#39;](https://vnexpress.net/so-hoa-doanh-nghiep-bao-hiem-nhan-tho-la-yeu-cau-tat-yeu-4715878.html) - 08:00 27/02/2024
+- 💫 [Người dùng Mỹ nói gì về xe điện VinFast](https://vnexpress.net/nguoi-dung-my-noi-gi-ve-xe-dien-vinfast-4715858.html) - 08:00 27/02/2024
+- 🤩 [5 dấu hiệu sớm cảnh báo ung thư phổi](https://vnexpress.net/5-dau-hieu-som-canh-bao-ung-thu-phoi-4715769.html) - 08:00 27/02/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
