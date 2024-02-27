@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [TP HCM có mưa giải nhiệt sau 3 tuần nắng nóng](https://vnexpress.net/tp-hcm-co-mua-giai-nhiet-sau-3-tuan-nang-nong-4715986.html) - 10:14 27/02/2024
+- 🦒 [TP HCM có mưa sau một tháng nắng nóng](https://vnexpress.net/tp-hcm-co-mua-sau-mot-thang-nang-nong-4715986.html) - 10:14 27/02/2024
 - 🤓 [Người phụ nữ chết trong căn nhà cháy](https://vnexpress.net/nguoi-phu-nu-chet-trong-can-nha-chay-4715948.html) - 09:28 27/02/2024
 - ⚗️ [Phó thủ tướng thúc tiến độ thi công đường dây 500 kV hơn 22.000 tỷ đồng](https://vnexpress.net/pho-thu-tuong-thuc-tien-do-thi-cong-duong-day-500-kv-hon-22-000-ty-dong-4715897.html) - 09:28 27/02/2024
 - 🌊 [Nút giao cửa ngõ nam Sài Gòn ùn tắc sau gần một tháng rào chắn](https://vnexpress.net/nut-giao-cua-ngo-nam-sai-gon-un-tac-sau-gan-mot-thang-rao-chan-4715837.html) - 07:15 27/02/2024
