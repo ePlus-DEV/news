@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Sốc khi chồng báo nợ](https://vnexpress.net/soc-khi-chong-bao-no-4714652.html) - 23:31 26/02/2024
+- 🚀 [Làm gì khi bạn đời báo nợ?](https://vnexpress.net/lam-gi-khi-ban-doi-bao-no-4714652.html) - 23:31 26/02/2024
 - 🎓 [Cho thuê thời gian](https://vnexpress.net/cho-thue-thoi-gian-4715313.html) - 23:00 26/02/2024
 - 🚦 [Các nữ rapper U80](https://vnexpress.net/cac-nu-rapper-u80-4715569.html) - 13:00 26/02/2024
 - 🦣 [Canh khoai tây nghiền nấu rau cần kiểu Thái Bình](https://vnexpress.net/canh-khoai-tay-nghien-nau-rau-can-kieu-thai-binh-4715534.html) - 12:00 26/02/2024
