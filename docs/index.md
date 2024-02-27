@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Tự bảo vệ mình thế nào khi bị chặn ôtô, gây hấn trên đường?](https://vnexpress.net/tu-bao-ve-minh-the-nao-khi-bi-chan-oto-gay-han-tren-duong-4716046.html) - 16:10 27/02/2024
+- 🚀 [Lừa góp vốn buôn nông sản với lợi nhuận cao](https://vnexpress.net/lua-gop-von-buon-nong-san-voi-loi-nhuan-cao-4716040.html) - 16:17 27/02/2024
 - 🧰 [Chạy KPI để có người yêu năm nay](https://vnexpress.net/chay-kpi-de-co-nguoi-yeu-nam-nay-4715978.html) - 16:00 27/02/2024
 - 🥰 [Hunter Biden lo cha thất cử nếu bản thân tái nghiện](https://vnexpress.net/hunter-biden-lo-cha-that-cu-neu-ban-than-tai-nghien-4715626.html) - 15:42 27/02/2024
 - 🌏 [Hải Phòng tuột chiến thắng vì phạt đền ở V-League](https://vnexpress.net/hai-phong-tuot-chien-thang-vi-phat-den-o-v-league-4716049.html) - 15:38 27/02/2024
