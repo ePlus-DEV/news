@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Hậu trường loạt cảnh one-shot trong phim &#39;Mai&#39; của Trấn Thành](https://vnexpress.net/hau-truong-loat-canh-one-shot-trong-phim-mai-cua-tran-thanh-4715488.html) - 03:10 27/02/2024
+- 🌏 [Hậu trường cảnh one-shot trong &#39;Mai&#39; của Trấn Thành](https://vnexpress.net/hau-truong-canh-one-shot-trong-mai-cua-tran-thanh-4715488.html) - 03:10 27/02/2024
 - 💫 [Ra mắt &#39;Tiểu luận về nghệ thuật An Nam&#39;](https://vnexpress.net/ra-mat-tieu-luan-ve-nghe-thuat-an-nam-4715154.html) - 02:12 27/02/2024
 - 🌮 [Diễn viên đóng &#39;Once Upon a Time&#39; qua đời ở tuổi 48](https://vnexpress.net/dien-vien-dong-once-upon-a-time-qua-doi-o-tuoi-48-4715666.html) - 01:58 27/02/2024
 - 🧠 [Ưng Hoàng Phúc: &#39;Tôi vẫn đắt show, chưa hết thời&#39;](https://vnexpress.net/ung-hoang-phuc-toi-van-dat-show-chua-het-thoi-4715443.html) - 17:00 26/02/2024
