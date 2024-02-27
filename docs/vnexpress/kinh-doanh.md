@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Bên trong tàu bay &#39;made in China&#39; lần đầu đến Việt Nam](https://vnexpress.net/ben-trong-tau-bay-made-in-china-lan-dau-den-viet-nam-4715836.html) - 06:36 27/02/2024
-- 🐲 [Giá vàng miếng neo quanh 79 triệu đồng](https://vnexpress.net/gia-vang-mieng-neo-quanh-79-trieu-dong-4715766.html) - 04:29 27/02/2024
+- 🐲 [Giá vàng miếng neo quanh 79 triệu đồng](https://vnexpress.net/gia-vang-mieng-len-79-5-trieu-dong-4715766.html) - 04:29 27/02/2024
 - 🔥 [Lạm phát Nhật Bản cao vượt dự báo](https://vnexpress.net/lam-phat-nhat-ban-cao-vuot-du-bao-4715715.html) - 04:03 27/02/2024
 - 🐵 [Bitcoin vượt 56.000 USD](https://vnexpress.net/bitcoin-vuot-56-000-usd-4715743.html) - 03:31 27/02/2024
 - 🦅 [Chính phủ yêu cầu hoàn thiện pháp lý về tài sản ảo](https://vnexpress.net/chinh-phu-yeu-cau-hoan-thien-phap-ly-ve-tai-san-ao-4715713.html) - 03:29 27/02/2024
