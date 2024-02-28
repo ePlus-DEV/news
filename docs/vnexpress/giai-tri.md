@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [&#39;Poor Things&#39; - phim 18+ về cô gái có tâm hồn trẻ thơ](https://vnexpress.net/poor-things-phim-18-ve-co-gai-co-tam-hon-tre-tho-4713071.html) - 17:00 27/02/2024
+- 🌏 [&#39;Poor Things&#39; - phim 18+ về cô gái có tâm hồn trẻ thơ](https://vnexpress.net/giai-tri/phim/thu-vien-phim/poor-things-682) - 17:00 27/02/2024
 - 💫 [Nguyễn Việt Hà, Nguyễn Một nhận giải thưởng Hội Nhà văn](https://vnexpress.net/nguyen-viet-ha-nguyen-mot-nhan-giai-thuong-hoi-nha-van-4716022.html) - 15:28 27/02/2024
 - 🌮 [5 đề cử Kỹ xảo xuất sắc Oscar 2024](https://vnexpress.net/5-de-cu-ky-xao-xuat-sac-oscar-2024-4715875.html) - 13:30 27/02/2024
 - 🧠 [Vẻ đẹp &#39;Hoàng Dung&#39; Chu Nhân](https://vnexpress.net/ve-dep-hoang-dung-chu-nhan-4715509.html) - 12:00 27/02/2024
