@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Xuất khẩu tôm tăng vọt](https://vnexpress.net/xuat-khau-tom-tang-vot-4716236.html) - 10:50 28/02/2024
-- 🐲 [12 tàu A321 của Vietnam Airlines sẽ phải dừng bay để bảo dưỡng](https://vnexpress.net/12-tau-a321-cua-vietnam-airlines-se-phai-dung-bay-de-bao-duong-4716357.html) - 10:15 28/02/2024
+- 🐲 [12 tàu A321 của Vietnam Airlines sẽ dừng bay để bảo dưỡng](https://vnexpress.net/12-tau-a321-cua-vietnam-airlines-se-dung-bay-de-bao-duong-4716357.html) - 10:15 28/02/2024
 - 🔥 [Indonesia sắp nhập thêm 1,6 triệu tấn gạo](https://vnexpress.net/indonesia-sap-nhap-them-1-6-trieu-tan-gao-4716358.html) - 09:53 28/02/2024
 - 🐵 [Hàng loạt đại gia điện tử cùng rời Nga](https://vnexpress.net/hang-loat-dai-gia-dien-tu-cung-roi-nga-4716367.html) - 09:32 28/02/2024
 - 🦅 [BIM Group dẫn đầu top &#39;nhà tuyển dụng yêu thích&#39; ngành bất động sản](https://vnexpress.net/bim-group-dan-dau-top-nha-tuyen-dung-yeu-thich-nganh-bat-dong-san-4715670.html) - 09:30 28/02/2024
