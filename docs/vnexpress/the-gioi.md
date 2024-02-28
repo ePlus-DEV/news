@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Vùng ly khai Moldova đề nghị Nga &#39;bảo vệ&#39;](https://vnexpress.net/vung-ly-khai-moldova-de-nghi-nga-bao-ve-4716446.html) - 13:20 28/02/2024
+- 🎭 [Vùng ly khai Moldova đề nghị Nga bảo vệ](https://vnexpress.net/vung-ly-khai-moldova-de-nghi-nga-bao-ve-4716446.html) - 13:20 28/02/2024
 - 🕴 [Harry thua kiện chính phủ Anh](https://vnexpress.net/harry-thua-kien-chinh-phu-anh-4716443.html) - 13:07 28/02/2024
 - 🤭 [Nga nói Ukraine đối mặt thảm họa ở tiền tuyến](https://vnexpress.net/nga-noi-ukraine-doi-mat-tham-hoa-o-tien-tuyen-4716444.html) - 12:40 28/02/2024
 - 🧑‍💻 [Đám tang Navalny sẽ diễn ra ở Moskva](https://vnexpress.net/dam-tang-navalny-se-dien-ra-o-moskva-4716436.html) - 12:20 28/02/2024
