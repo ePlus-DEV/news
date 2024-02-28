@@ -7,7 +7,7 @@ sidebar_position: 10
 - 🔥 [Làm gì khi trẻ ngã đập đầu?](https://vnexpress.net/lam-gi-khi-tre-nga-dap-dau-4716228.html) - 05:00 28/02/2024
 - 🥰 [4 thói quen ngủ cần tránh để tim khỏe](https://vnexpress.net/4-thoi-quen-ngu-can-tranh-de-tim-khoe-4716166.html) - 05:00 28/02/2024
 - 💡 [Ba chế độ ăn giúp tuổi trung niên khỏe mạnh](https://vnexpress.net/ba-che-do-an-giup-tuoi-trung-nien-khoe-manh-4715992.html) - 05:00 28/02/2024
-- 🤗 [Hàn Quốc cho phép y tá làm một số công việc của bác sĩ](https://vnexpress.net/han-quoc-cho-phep-y-ta-lam-mot-so-cong-viec-cua-bac-si-4716241.html) - 04:42 28/02/2024
+- 🤗 [Hàn Quốc chính thức cho y tá làm thay bác sĩ một số thủ thuật](https://vnexpress.net/han-quoc-chinh-thuc-cho-y-ta-lam-thay-bac-si-mot-so-thu-thuat-4716241.html) - 04:42 28/02/2024
 - 🪜 [Tiêm botox giảm mồ hôi nách thế nào](https://vnexpress.net/tiem-botox-giam-mo-hoi-nach-the-nao-4716203.html) - 04:00 28/02/2024
 - 🕯 [Hàng trăm con rận trong mi mắt nữ sinh](https://vnexpress.net/hang-tram-con-ran-trong-mi-mat-nu-sinh-4716214.html) - 03:56 28/02/2024
 - 🤭 [WHO cảnh báo một nửa thế giới nguy cơ bùng phát sởi](https://vnexpress.net/who-canh-bao-mot-nua-the-gioi-nguy-co-bung-phat-soi-4716197.html) - 03:19 28/02/2024
