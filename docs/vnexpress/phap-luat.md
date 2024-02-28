@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Ba cảnh sát bị thương trong vụ 191 người nghiện trốn trại](https://vnexpress.net/ba-canh-sat-bi-thuong-trong-vu-191-nguoi-nghien-tron-trai-4716272.html) - 08:10 28/02/2024
+- 😎 [Bốn cảnh sát bị thương trong vụ 191 người nghiện trốn trại](https://vnexpress.net/bon-canh-sat-bi-thuong-trong-vu-191-nguoi-nghien-tron-trai-4716272.html) - 08:10 28/02/2024
 - 🥰 [Người cầm dao chém lốp xe buýt bị tạm giam](https://vnexpress.net/nguoi-cam-dao-chem-lop-xe-buyt-bi-tam-giam-4716265.html) - 07:18 28/02/2024
 - 🎓 [Bị bắt vì không trả lại tiền ngân hàng chuyển nhầm](https://vnexpress.net/bi-bat-vi-khong-tra-lai-tien-ngan-hang-chuyen-nham-4716240.html) - 04:19 28/02/2024
 - 🤓 [Cảnh sát trưởng Thái Lan bị truy tố vì giúp &#39;thái tử Red Bull&#39; trốn tội](https://vnexpress.net/canh-sat-truong-thai-lan-bi-truy-to-vi-giup-thai-tu-red-bull-tron-toi-4716222.html) - 03:38 28/02/2024
