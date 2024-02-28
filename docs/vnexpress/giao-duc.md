@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Ba trường quân đội tăng chỉ tiêu tuyển sinh năm 2024](https://vnexpress.net/ba-truong-quan-doi-tang-chi-tieu-tuyen-sinh-nam-2024-4716167.html) - 03:18 28/02/2024
-- 🦆 [Từ thầy giáo đệm đàn đến giảng viên đại học Mỹ](https://vnexpress.net/tu-thay-giao-dem-dan-den-giang-vien-dai-hoc-my-4714794.html) - 23:32 27/02/2024
+- 🦆 [Thầy giáo đệm đàn giành học bổng tiến sĩ ở Mỹ](https://vnexpress.net/thay-giao-dem-dan-gianh-hoc-bong-tien-si-o-my-4714794.html) - 23:32 27/02/2024
 - 🦩 [Bộ Giáo dục: Dùng IELTS xét tuyển lớp 10 gây mất công bằng](https://vnexpress.net/bo-giao-duc-dung-ielts-xet-tuyen-lop-10-gay-mat-cong-bang-4715936.html) - 14:40 27/02/2024
 - 🌮 [Tỉnh, thành nào nhiều lễ hội nhất Việt Nam?](https://vnexpress.net/tinh-thanh-nao-nhieu-le-hoi-nhat-viet-nam-4715881.html) - 12:55 27/02/2024
 - 🔭 [Bốn cụm từ tiếng Anh để nói về công việc](https://vnexpress.net/bon-cum-tu-tieng-anh-de-noi-ve-cong-viec-4715974.html) - 09:55 27/02/2024
