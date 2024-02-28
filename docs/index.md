@@ -397,10 +397,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Thêm cơ hội xuất khẩu cho gạo Việt Nam](https://baochinhphu.vn/them-co-hoi-xuat-khau-cho-gao-viet-nam-102240228082730882.htm) - 09:13 28/02/2024
-- 🌜 [Thủ tục tiếp nhận người có công vào cơ sở điều dưỡng](https://baochinhphu.vn/thu-tuc-tiep-nhan-nguoi-co-cong-vao-co-so-dieu-duong-102240227094257435.htm) - 09:02 28/02/2024
-- 🦆 [Khai thác khoáng sản phải lập phương án cải tạo, phục hồi môi trường](https://baochinhphu.vn/khai-thac-khoang-san-phai-lap-phuong-an-cai-tao-phuc-hoi-moi-truong-102240222140048782.htm) - 09:02 28/02/2024
-- 🌝 [TỔNG THUẬT: Thủ tướng chủ trì Hội nghị triển khai nhiệm vụ phát triển thị trường chứng khoán năm 2024](https://baochinhphu.vn/tong-thuat-thu-tuong-chu-tri-hoi-nghi-trien-khai-nhiem-vu-phat-trien-thi-truong-chung-khoan-nam-2024-102240228084357002.htm) - 08:43 28/02/2024
+- 💻 [TỔNG THUẬT: Thủ tướng chủ trì Hội nghị triển khai nhiệm vụ phát triển thị trường chứng khoán năm 2024](https://baochinhphu.vn/tong-thuat-thu-tuong-chu-tri-hoi-nghi-trien-khai-nhiem-vu-phat-trien-thi-truong-chung-khoan-nam-2024-102240228084357002.htm) - 09:30 28/02/2024
+- 🌜 [Thêm cơ hội xuất khẩu cho gạo Việt Nam](https://baochinhphu.vn/them-co-hoi-xuat-khau-cho-gao-viet-nam-102240228082730882.htm) - 09:13 28/02/2024
+- 🦆 [Thủ tục tiếp nhận người có công vào cơ sở điều dưỡng](https://baochinhphu.vn/thu-tuc-tiep-nhan-nguoi-co-cong-vao-co-so-dieu-duong-102240227094257435.htm) - 09:02 28/02/2024
+- 🌝 [Khai thác khoáng sản phải lập phương án cải tạo, phục hồi môi trường](https://baochinhphu.vn/khai-thac-khoang-san-phai-lap-phuong-an-cai-tao-phuc-hoi-moi-truong-102240222140048782.htm) - 09:02 28/02/2024
 - 🦣 [Hơn 4,29 tỷ USD vốn FDI đầu tư vào Việt Nam sau 2 tháng đầu năm](https://baochinhphu.vn/hon-429-ty-usd-von-fdi-dau-tu-vao-viet-nam-sau-2-thang-dau-nam-102240228080319861.htm) - 08:24 28/02/2024
 - ⛽️ [Điều kiện dự án được bố trí vốn đầu tư công hằng năm](https://baochinhphu.vn/dieu-kien-du-an-duoc-bo-tri-von-dau-tu-cong-hang-nam-1022402231513185.htm) - 08:02 28/02/2024
 - 🎓 [Hướng dẫn sửa E-HSMT](https://baochinhphu.vn/huong-dan-sua-e-hsmt-102240223114343953.htm) - 07:02 28/02/2024
