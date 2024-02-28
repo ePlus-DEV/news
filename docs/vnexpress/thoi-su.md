@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [430 triệu USD làm dự án chống ngập cho TP Thủ Đức](https://vnexpress.net/430-trieu-usd-lam-du-an-chong-ngap-cho-tp-thu-duc-4716307.html) - 08:31 28/02/2024
 - 🤓 [Không khí lạnh tăng cường xuống miền Bắc](https://vnexpress.net/khong-khi-lanh-tang-cuong-xuong-mien-bac-4716288.html) - 06:58 28/02/2024
 - ⚗️ [Bí thư Hà Nội: Dự án Yên Xá sẽ &#39;hồi sinh&#39; các dòng sông nội đô](https://vnexpress.net/bi-thu-ha-noi-du-an-yen-xa-se-hoi-sinh-cac-dong-song-noi-do-4716218.html) - 05:33 28/02/2024
-- 🌊 [Cháy gara ở Cần Thơ, nhiều ôtô bị thiêu rụi](https://vnexpress.net/chay-gara-o-can-tho-nhieu-oto-bi-thieu-rui-4716274.html) - 05:24 28/02/2024
+- 🌊 [Cháy gara ở Cần Thơ, 10 ôtô bị thiêu rụi](https://vnexpress.net/chay-gara-o-can-tho-10-oto-bi-thieu-rui-4716274.html) - 05:24 28/02/2024
 - 🎓 [800 cây sâm Ngọc Linh bị nhổ trộm](https://vnexpress.net/800-cay-sam-ngoc-linh-bi-nho-trom-4716115.html) - 04:42 28/02/2024
 - 🔥 [Xe đầu kéo lật trên cao tốc La Sơn - Túy Loan, tài xế tử nạn](https://vnexpress.net/xe-dau-keo-lat-tren-cao-toc-la-son-tuy-loan-tai-xe-tu-nan-4716164.html) - 03:06 28/02/2024
 - 🦏 [Cháy hai tàu ở cảng Tịnh Kỳ](https://vnexpress.net/chay-hai-tau-o-cang-tinh-ky-4716084.html) - 00:59 28/02/2024
