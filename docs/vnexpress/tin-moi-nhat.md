@@ -48,7 +48,7 @@ sidebar_position: 9
 - 💃 [12 tàu A321 của Vietnam Airlines sẽ dừng bay để bảo dưỡng](https://vnexpress.net/12-tau-a321-cua-vietnam-airlines-se-dung-bay-de-bao-duong-4716357.html) - 10:15 28/02/2024
 - 🦆 [Mong cùng em sống một đời bình an](https://vnexpress.net/mong-cung-em-song-mot-doi-binh-an-4716189.html) - 10:00 28/02/2024
 - 🎊 [Chồng chưa khách quan trong hôn nhân của chúng tôi](https://vnexpress.net/chong-chua-khach-quan-trong-hon-nhan-cua-chung-toi-4715164.html) - 10:00 28/02/2024
-- 👺 [Điểm tin 21h: Báo Indonesia lo tuyển Việt Nam thay đổi lối chơi; Không khí lạnh tăng cường](https://vnexpress.net/diem-tin-21h-bao-indonesia-lo-tuyen-viet-nam-thay-doi-loi-choi-khong-khi-lanh-tang-cuong-4716415.html) - 10:00 28/02/2024
+- 👺 [Điểm tin 21h: Báo Indonesia lo tuyển Việt Nam thay đổi lối chơi; Vùng ly khai Moldova đề nghị Nga bảo vệ](https://vnexpress.net/diem-tin-21h-bao-indonesia-lo-tuyen-viet-nam-thay-doi-loi-choi-vung-ly-khai-moldova-de-nghi-nga-bao-ve-4716415.html) - 10:00 28/02/2024
 - 🎡 [Bất thường nhiễm sắc thể khiến người đàn ông vô sinh](https://vnexpress.net/bat-thuong-nhiem-sac-the-khien-nguoi-dan-ong-vo-sinh-4716386.html) - 10:00 28/02/2024
 - 👍 [Bạn có hiểu đúng về hơi thở có mùi?](https://vnexpress.net/ban-co-hieu-dung-ve-hoi-tho-co-mui-4716341.html) - 10:00 28/02/2024
 - 🐎 [ĐH Quốc gia TP HCM trả lương thấp nhất 20-35 triệu đồng/tháng cho nhà khoa học](https://vnexpress.net/dh-quoc-gia-tp-hcm-tra-luong-thap-nhat-20-35-trieu-dong-thang-cho-nha-khoa-hoc-4716268.html) - 09:55 28/02/2024
