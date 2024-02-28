@@ -386,9 +386,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Điều kiện năng lực ngoại ngữ để học chương trình liên kết](https://baochinhphu.vn/dieu-kien-nang-luc-ngoai-ngu-de-hoc-chuong-trinh-lien-ket-102240226122543204.htm) - 10:02 28/02/2024
-- 🌜 [Quyết liệt tháo gỡ khó khăn về định mức, vật liệu cho các công trình giao thông trọng điểm](https://baochinhphu.vn/quyet-liet-thao-go-kho-khan-ve-dinh-muc-vat-lieu-cho-cac-cong-trinh-giao-thong-trong-diem-102240228095154402.htm) - 09:57 28/02/2024
-- 🦆 [TỔNG THUẬT: Thủ tướng chủ trì Hội nghị triển khai nhiệm vụ phát triển thị trường chứng khoán năm 2024](https://baochinhphu.vn/tong-thuat-thu-tuong-chu-tri-hoi-nghi-trien-khai-nhiem-vu-phat-trien-thi-truong-chung-khoan-nam-2024-102240228084357002.htm) - 09:30 28/02/2024
+- 💻 [TỔNG THUẬT: Thủ tướng chủ trì Hội nghị triển khai nhiệm vụ phát triển thị trường chứng khoán năm 2024](https://baochinhphu.vn/tong-thuat-thu-tuong-chu-tri-hoi-nghi-trien-khai-nhiem-vu-phat-trien-thi-truong-chung-khoan-nam-2024-102240228084357002.htm) - 10:30 28/02/2024
+- 🌜 [Điều kiện năng lực ngoại ngữ để học chương trình liên kết](https://baochinhphu.vn/dieu-kien-nang-luc-ngoai-ngu-de-hoc-chuong-trinh-lien-ket-102240226122543204.htm) - 10:02 28/02/2024
+- 🦆 [Quyết liệt tháo gỡ khó khăn về định mức, vật liệu cho các công trình giao thông trọng điểm](https://baochinhphu.vn/quyet-liet-thao-go-kho-khan-ve-dinh-muc-vat-lieu-cho-cac-cong-trinh-giao-thong-trong-diem-102240228095154402.htm) - 09:57 28/02/2024
 - 🌝 [Thêm cơ hội xuất khẩu cho gạo Việt Nam](https://baochinhphu.vn/them-co-hoi-xuat-khau-cho-gao-viet-nam-102240228082730882.htm) - 09:13 28/02/2024
 - 🦣 [Thủ tục tiếp nhận người có công vào cơ sở điều dưỡng](https://baochinhphu.vn/thu-tuc-tiep-nhan-nguoi-co-cong-vao-co-so-dieu-duong-102240227094257435.htm) - 09:02 28/02/2024
 - ⛽️ [Khai thác khoáng sản phải lập phương án cải tạo, phục hồi môi trường](https://baochinhphu.vn/khai-thac-khoang-san-phai-lap-phuong-an-cai-tao-phuc-hoi-moi-truong-102240222140048782.htm) - 09:02 28/02/2024
