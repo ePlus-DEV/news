@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Khánh thành tượng Trịnh Công Sơn bên dòng sông Hương](https://vnexpress.net/khanh-thanh-tuong-trinh-cong-son-ben-dong-song-huong-4716435.html) - 11:41 28/02/2024
 - ⚗️ [Phó thủ tướng: Khó tăng lương vì bộ máy nặng nề](https://vnexpress.net/pho-thu-tuong-kho-tang-luong-vi-bo-may-nang-ne-4716429.html) - 11:28 28/02/2024
 - 🌊 [Lính radar cứu 4 ngư dân tàu cá](https://vnexpress.net/linh-radar-cuu-4-ngu-dan-tau-ca-4716426.html) - 10:50 28/02/2024
-- 🎓 [Cả nước sáp nhập 50 huyện trong hai năm tới](https://vnexpress.net/ca-nuoc-sap-nhap-50-huyen-trong-hai-nam-toi-4716234.html) - 08:57 28/02/2024
+- 🎓 [Cả nước sáp nhập 50 huyện trong năm nay](https://vnexpress.net/ca-nuoc-sap-nhap-50-huyen-trong-nam-nay-4716234.html) - 08:57 28/02/2024
 - 🔥 [430 triệu USD làm dự án chống ngập cho TP Thủ Đức](https://vnexpress.net/430-trieu-usd-lam-du-an-chong-ngap-cho-tp-thu-duc-4716307.html) - 08:31 28/02/2024
 - 🦏 [Không khí lạnh tăng cường xuống miền Bắc](https://vnexpress.net/khong-khi-lanh-tang-cuong-xuong-mien-bac-4716288.html) - 06:58 28/02/2024
 - 👺 [Bí thư Hà Nội: Dự án Yên Xá sẽ &#39;hồi sinh&#39; các dòng sông nội đô](https://vnexpress.net/bi-thu-ha-noi-du-an-yen-xa-se-hoi-sinh-cac-dong-song-noi-do-4716218.html) - 05:33 28/02/2024
