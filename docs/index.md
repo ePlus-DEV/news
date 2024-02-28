@@ -256,7 +256,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐎 [Nổi cơn ghen, mang dao đến nhà trọ đâm chết bạn của vợ cũ](https://nld.com.vn/noi-con-ghen-mang-dao-den-nha-tro-dam-chet-ban-cua-vo-cu-196240228194948109.htm) - 13:23 28/02/2024
 - 😺 [Bắt nghi phạm vụ giết người tại bar Kinh Đô](https://nld.com.vn/bat-nghi-pham-vu-giet-nguoi-tai-bar-kinh-do-196240228190511986.htm) - 13:19 28/02/2024
 - 👍 [Home Credit Việt Nam sẽ về tay ngân hàng lâu đời nhất Thái Lan](https://nld.com.vn/home-credit-viet-nam-se-ve-tay-ngan-hang-lau-doi-nhat-thai-lan-196240228191012751.htm) - 12:58 28/02/2024
-- 🥷 [TP HCM: CSGT quận 10 mở cao điểm &quot;siết&quot; xe cứu thương](https://nld.com.vn/tp-hcm-csgt-quan-10-mo-cao-diem-siet-xe-cuu-thuong-196240228194243906.htm) - 12:57 28/02/2024
+- 🥷 [Tài xế xe cứu thương chia sẻ chuyện dở khóc dở cười khi gặp các đội &quot;mở đường&quot;](https://nld.com.vn/tp-hcm-csgt-quan-10-mo-cao-diem-siet-xe-cuu-thuong-196240228194243906.htm) - 12:57 28/02/2024
 - 🤔 [VinFast ký thỏa thuận hợp tác với đại lý đầu tiên tại Trung Đông](https://nld.com.vn/vinfast-ky-thoa-thuan-hop-tac-voi-dai-ly-dau-tien-tai-trung-dong-196240228194656944.htm) - 12:54 28/02/2024
 - 🌈 [Hai người nam, nữ đi cấp cứu sau &quot;tiệc tùng vui vẻ&quot;](https://nld.com.vn/hai-nguoi-nam-nu-di-cap-cuu-sau-tiec-tung-vui-ve-196240228190125537.htm) - 12:13 28/02/2024
 - 🔥 [Giải chạy đêm VnExpress Marathon 2024 trở lại TP HCM](https://nld.com.vn/giai-chay-dem-vnexpress-marathon-2024-tro-lai-tp-hcm-196240228175952595.htm) - 11:59 28/02/2024
