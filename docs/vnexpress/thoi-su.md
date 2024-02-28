@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hơn 100 tấn cá ở hồ câu chết do ngạt khí](https://vnexpress.net/hon-100-tan-ca-o-ho-cau-chet-do-ngat-khi-4716448.html) - 13:30 28/02/2024
+- 🦒 [Hơn 100 tấn cá chết ở hồ câu do ngạt khí](https://vnexpress.net/hon-100-tan-ca-chet-o-ho-cau-do-ngat-khi-4716448.html) - 13:30 28/02/2024
 - 🤓 [&#39;Thời tiết những tháng tới sẽ bất thường, ngoài quy luật&#39;](https://vnexpress.net/thoi-tiet-nhung-thang-toi-se-bat-thuong-ngoai-quy-luat-4716172.html) - 12:06 28/02/2024
 - ⚗️ [Khánh thành tượng Trịnh Công Sơn bên dòng sông Hương](https://vnexpress.net/khanh-thanh-tuong-trinh-cong-son-ben-dong-song-huong-4716435.html) - 11:41 28/02/2024
 - 🌊 [Phó thủ tướng: Khó tăng lương vì bộ máy nặng nề](https://vnexpress.net/pho-thu-tuong-kho-tang-luong-vi-bo-may-nang-ne-4716429.html) - 11:28 28/02/2024
