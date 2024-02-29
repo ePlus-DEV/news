@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [TP HCM điều chỉnh đề thi Văn vào lớp 10](https://vnexpress.net/tp-hcm-dieu-chinh-de-thi-van-vao-lop-10-4716598.html) - 03:48 29/02/2024
-- 🦆 [Cô giáo 36 tuổi tốt nghiệp xuất sắc thạc sĩ ở Anh](https://vnexpress.net/co-giao-36-tuoi-tot-nghiep-xuat-sac-thac-si-o-anh-4715788.html) - 00:57 29/02/2024
+- 🦆 [Cô gái chuyên tiếng Pháp tốt nghiệp xuất sắc thạc sĩ Anh](https://vnexpress.net/co-gai-chuyen-tieng-phap-tot-nghiep-xuat-sac-thac-si-anh-4715788.html) - 00:57 29/02/2024
 - 🦩 [Kỳ thi đánh giá năng lực dự kiến thêm môn Ngoại ngữ](https://vnexpress.net/ky-thi-danh-gia-nang-luc-du-kien-them-mon-ngoai-ngu-4716464.html) - 15:06 28/02/2024
 - 🌮 [Học viện An ninh nhân dân công bố chỉ tiêu tuyển sinh](https://vnexpress.net/hoc-vien-an-ninh-nhan-dan-cong-bo-chi-tieu-tuyen-sinh-4716450.html) - 14:30 28/02/2024
 - 🔭 [Ai là chính thất vua Thiệu Trị, sống qua 10 đời vua Nguyễn?](https://vnexpress.net/ai-la-chinh-that-vua-thieu-tri-song-qua-10-doi-vua-nguyen-4716343.html) - 13:22 28/02/2024
