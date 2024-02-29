@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Chứng khoán Tân Việt thay tổng giám đốc và phó tổng giám đốc](https://vnexpress.net/chung-khoan-tan-viet-thay-tong-giam-doc-va-pho-tong-giam-doc-4716604.html) - 03:45 29/02/2024
-- 🐲 [Giá vàng miếng SJC vọt lên 80 triệu đồng](https://vnexpress.net/gia-vang-mieng-sjc-vot-len-80-trieu-dong-4716611.html) - 03:42 29/02/2024
+- 🐲 [Giá vàng miếng SJC vọt lên 80 triệu đồng](https://vnexpress.net/gia-vang-mieng-bien-dong-manh-292-4716611.html) - 03:42 29/02/2024
 - 🔥 [&#39;Trùm&#39; nhà xã hội hứa trả hết nợ thuế trong tháng tới](https://vnexpress.net/trum-nha-xa-hoi-hua-tra-het-no-thue-trong-thang-toi-4716581.html) - 03:06 29/02/2024
 - 🐵 [Xuất khẩu cà phê có thể vượt tỷ USD hai tháng đầu năm](https://vnexpress.net/xuat-khau-ca-phe-co-the-vuot-ty-usd-hai-thang-dau-nam-4716535.html) - 02:32 29/02/2024
 - 🦅 [El Salvador có thể lãi hơn 40 triệu USD từ Bitcoin](https://vnexpress.net/el-salvador-co-the-lai-hon-40-trieu-usd-tu-bitcoin-4716526.html) - 01:30 29/02/2024
