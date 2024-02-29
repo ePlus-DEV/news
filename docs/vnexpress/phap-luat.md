@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Chủ bãi rác Đa Phước thắng kiện &#39;người nói xấu&#39;](https://vnexpress.net/chu-bai-rac-da-phuoc-thang-kien-nguoi-noi-xau-4716663.html) - 05:17 29/02/2024
-- 🥰 [Chủ doanh nghiệp ở TP HCM được bà Trương Mỹ Lan &#39;thưởng&#39; gần 1.500 tỷ đồng](https://vnexpress.net/chu-doanh-nghiep-o-tp-hcm-duoc-ba-truong-my-lan-thuong-gan-1-500-ty-dong-4716352.html) - 05:00 29/02/2024
+- 🥰 [Tổng giám đốc ở TP HCM được bà Trương Mỹ Lan &#39;thưởng&#39; gần 1.500 tỷ đồng](https://vnexpress.net/tong-giam-doc-o-tp-hcm-duoc-ba-truong-my-lan-thuong-gan-1-500-ty-dong-4716352.html) - 05:00 29/02/2024
 - 🎓 [Vượt chốt đo nồng độ cồn, tông CSGT bị thương](https://vnexpress.net/vuot-chot-do-nong-do-con-tong-csgt-bi-thuong-4716549.html) - 03:44 29/02/2024
 - 🤓 [&#39;Thiếu gia&#39; trộm hàng hiệu ở Sài Gòn](https://vnexpress.net/thieu-gia-trom-hang-hieu-o-sai-gon-4716547.html) - 02:20 29/02/2024
 - 🎊 [Bà Trương Mỹ Lan khai &#39;cơ duyên&#39; với SCB](https://vnexpress.net/ba-truong-my-lan-khai-co-duyen-voi-scb-4714584.html) - 23:00 28/02/2024
