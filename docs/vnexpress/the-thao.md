@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Bài tập khởi động chi tiết trước khi chạy](https://vnexpress.net/bai-tap-khoi-dong-chi-tiet-truoc-khi-chay-4716284.html) - 03:00 29/02/2024
+- 🪜 [Khởi động trước khi chạy thế nào cho đúng?](https://vnexpress.net/khoi-dong-truoc-khi-chay-the-nao-cho-dung-4716284.html) - 03:00 29/02/2024
 - 🦩 [Đỗ Thủy - từ người thách thức giới hạn đến pacer truyền lửa](https://vnexpress.net/do-thuy-tu-nguoi-thach-thuc-gioi-han-den-pacer-truyen-lua-4714029.html) - 03:00 29/02/2024
 - 🧰 [Inter toàn thắng 11 trận trong năm 2024](https://vnexpress.net/inter-toan-thang-11-tran-trong-nam-2024-4716524.html) - 00:57 29/02/2024
 - 🤗 [Ronaldo bị treo giò một trận](https://vnexpress.net/ronaldo-bi-treo-gio-mot-tran-4716503.html) - 23:46 28/02/2024
