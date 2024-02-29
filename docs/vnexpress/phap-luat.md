@@ -4,11 +4,11 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [&#39;Thiếu gia&#39; trộm hàng hiệu trong trung tâm thương mại ở Sài Gòn](https://vnexpress.net/thieu-gia-trom-hang-hieu-trong-trung-tam-thuong-mai-o-sai-gon-4716547.html) - 02:20 29/02/2024
+- 😎 [&#39;Thiếu gia&#39; trộm hàng hiệu ở Sài Gòn](https://vnexpress.net/thieu-gia-trom-hang-hieu-o-sai-gon-4716547.html) - 02:20 29/02/2024
 - 🥰 [Bà Trương Mỹ Lan khai &#39;cơ duyên&#39; với SCB](https://vnexpress.net/ba-truong-my-lan-khai-co-duyen-voi-scb-4714584.html) - 23:00 28/02/2024
 - 🎓 [Cuộc trốn chạy của đại gia làm sụp đổ đế chế thương mại](https://vnexpress.net/cuoc-tron-chay-cua-dai-gia-lam-sup-do-de-che-thuong-mai-4716438.html) - 17:00 28/02/2024
 - 🤓 [Nhà hàng từ chối xuất hóa đơn VAT nếu không trả thêm tiền, phải làm sao?](https://vnexpress.net/nha-hang-tu-choi-xuat-hoa-don-vat-neu-khong-tra-them-tien-phai-lam-sao-4716252.html) - 17:00 28/02/2024
-- 🎊 [Cựu giám đốc CDC Hà Nội Trương Quang Việt ra tòa](https://vnexpress.net/cuu-giam-doc-cdc-ha-noi-truong-quang-viet-ra-toa-4716230.html) - 17:00 28/02/2024
+- 🎊 [Cựu giám đốc CDC Hà Nội Trương Quang Việt nhập viện trước ngày ra tòa](https://vnexpress.net/cuu-giam-doc-cdc-ha-noi-truong-quang-viet-ra-toa-4716230.html) - 17:00 28/02/2024
 - 🙉 [CSGT Suối Tre bị tố cáo gợi ý &#39;nhận bảo kê&#39; xe vi phạm](https://vnexpress.net/csgt-suoi-tre-bi-to-cao-goi-y-nhan-bao-ke-xe-vi-pham-4716122.html) - 17:00 28/02/2024
 - 🤡 [Tài xế bị phạt tù vì &#39;hất&#39; an ninh sân bay Đà Nẵng lên nắp capô](https://vnexpress.net/tai-xe-bi-phat-tu-vi-hat-an-ninh-san-bay-da-nang-len-nap-capo-4716452.html) - 15:02 28/02/2024
 - 🗽 [5 năm &#39;tạo sóng&#39; cổ phiếu họ FLC của ông Trịnh Văn Quyết](https://vnexpress.net/5-nam-tao-song-co-phieu-ho-flc-cua-ong-trinh-van-quyet-4716298.html) - 14:37 28/02/2024
