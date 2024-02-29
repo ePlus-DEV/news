@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Đại học chi hơn 10 tỷ mua siêu máy chủ từ Nvidia](https://vnexpress.net/dai-hoc-chi-hon-10-ty-mua-sieu-may-chu-tu-nvidia-4716666.html) - 05:01 29/02/2024
+- 🤓 [Đại học Công nghệ Thông tin chi 10 tỷ mua siêu máy chủ Nvidia](https://vnexpress.net/dai-hoc-cong-nghe-thong-tin-chi-10-ty-mua-sieu-may-chu-nvidia-4716666.html) - 05:01 29/02/2024
 - 🦆 [TP HCM điều chỉnh đề thi Văn vào lớp 10](https://vnexpress.net/tp-hcm-dieu-chinh-de-thi-van-vao-lop-10-4716598.html) - 03:48 29/02/2024
 - 🦩 [Cô gái chuyên tiếng Pháp tốt nghiệp xuất sắc thạc sĩ Anh](https://vnexpress.net/co-gai-chuyen-tieng-phap-tot-nghiep-xuat-sac-thac-si-anh-4715788.html) - 00:57 29/02/2024
 - 🌮 [Kỳ thi đánh giá năng lực dự kiến thêm môn Ngoại ngữ](https://vnexpress.net/ky-thi-danh-gia-nang-luc-du-kien-them-mon-ngoai-ngu-4716464.html) - 15:06 28/02/2024
