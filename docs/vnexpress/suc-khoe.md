@@ -9,7 +9,7 @@ sidebar_position: 10
 - 💡 [Những người chạy thận nhân tạo vẫn lạc quan sống](https://vnexpress.net/nhung-nguoi-chay-than-nhan-tao-van-lac-quan-song-4716738.html) - 08:30 29/02/2024
 - 🤗 [Làm thế nào phát triển thể chất tuổi teen](https://vnexpress.net/lam-the-nao-phat-trien-the-chat-tuoi-teen-4716648.html) - 08:00 29/02/2024
 - 🪜 [Cà Mau ghi nhận ca đậu mùa khỉ đầu tiên](https://vnexpress.net/xuat-hien-ca-dau-mua-khi-dau-tien-o-ca-mau-4716670.html) - 07:28 29/02/2024
-- 🕯 [Đề xuất lấy thêm nguồn tạng hiến từ người chết tim](https://vnexpress.net/de-xuat-lay-them-nguon-tang-hien-tu-nguoi-chet-tim-4716685.html) - 07:18 29/02/2024
+- 🕯 [Đề xuất cho phép hiến mô tạng từ người chết tim](https://vnexpress.net/de-xuat-lay-them-nguon-tang-hien-tu-nguoi-chet-tim-4716685.html) - 07:18 29/02/2024
 - 🤭 [Các loại vitamin tốt cho làn da khô](https://vnexpress.net/cac-loai-vitamin-tot-cho-lan-da-kho-4716597.html) - 07:00 29/02/2024
 - 👀 [Suýt chết do nhồi máu cơ tim lúc ngủ](https://vnexpress.net/suyt-chet-do-nhoi-mau-co-tim-luc-ngu-4716682.html) - 06:59 29/02/2024
 - 🌋 [Bí quyết trẻ trung như nữ sinh của người phụ nữ U55](https://vnexpress.net/bi-quyet-tre-trung-nhu-nu-sinh-cua-nguoi-phu-nu-u55-4716594.html) - 05:02 29/02/2024
