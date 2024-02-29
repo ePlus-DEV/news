@@ -9,7 +9,7 @@ sidebar_position: 2
 - 🤭 [Singapore mua thêm tiêm kích tàng hình F-35](https://vnexpress.net/singapore-mua-them-tiem-kich-tang-hinh-f-35-4716564.html) - 02:44 29/02/2024
 - 🧑‍💻 [Pháo HIMARS tập kích đội hình diễu duyệt của Nga](https://vnexpress.net/phao-himars-tap-kich-doi-hinh-dieu-duyet-cua-nga-4716553.html) - 02:20 29/02/2024
 - 🦏 [Lãnh đạo phe Cộng hòa tại Thượng viện thông báo sẽ từ chức](https://vnexpress.net/lanh-dao-phe-cong-hoa-tai-thuong-vien-thong-bao-se-tu-chuc-4716512.html) - 02:11 29/02/2024
-- 🦒 [Khoảnh khắc xe tăng Abrams Ukraine bị bắn cháy](https://vnexpress.net/khoanh-khac-xe-tang-abrams-ukraine-bi-ban-chay-4716511.html) - 00:49 29/02/2024
+- 🦒 [Nga hé lộ vũ khí hạ xe tăng Abrams đầu tiên của Ukraine](https://vnexpress.net/nga-he-lo-vu-khi-ha-xe-tang-abrams-dau-tien-cua-ukraine-4716511.html) - 00:49 29/02/2024
 - 🌈 [Cuba bắt đầu tăng giá xăng 500%](https://vnexpress.net/cuba-bat-dau-tang-gia-xang-500-4716507.html) - 00:15 29/02/2024
 - 🧑‍🏫 [Bác sĩ nói ông Biden đủ khỏe để làm tổng thống](https://vnexpress.net/bac-si-noi-ong-biden-du-khoe-de-lam-tong-thong-4716498.html) - 23:44 28/02/2024
 - 🐲 [Chiến hạm Đức phóng loạt tên lửa triệu đô, suýt bắn rơi UAV Mỹ](https://vnexpress.net/chien-ham-duc-phong-loat-ten-lua-trieu-do-suyt-ban-roi-uav-my-4716504.html) - 23:37 28/02/2024
