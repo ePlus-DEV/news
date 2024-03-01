@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Tỷ lệ đậu thị thực vào Australia của du học sinh Việt ở mức cao](https://vnexpress.net/ty-le-dau-thi-thuc-vao-australia-cua-du-hoc-sinh-viet-o-muc-cao-4716715.html) - 02:42 01/03/2024
+- 🤓 [Hơn 84% du học sinh Việt đậu thị thực vào Australia](https://vnexpress.net/hon-84-du-hoc-sinh-viet-dau-thi-thuc-vao-australia-4716715.html) - 02:42 01/03/2024
 - 🦆 [Cách EIS xây dựng mô hình &#39;ngôi làng giáo dục&#39;](https://vnexpress.net/cach-eis-xay-dung-mo-hinh-ngoi-lang-giao-duc-4715688.html) - 01:00 01/03/2024
 - 🦩 [Vì sao nhiều trường công ở TP HCM muốn thi tuyển lớp 6?](https://vnexpress.net/vi-sao-nhieu-truong-cong-o-tp-hcm-muon-thi-tuyen-lop-6-4716505.html) - 23:15 29/02/2024
 - 🌮 [Tên gọi Bình Thuận có ý nghĩa gì?](https://vnexpress.net/ten-goi-binh-thuan-co-y-nghia-gi-4716850.html) - 13:10 29/02/2024
