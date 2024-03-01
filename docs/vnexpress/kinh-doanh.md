@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Ngành y tế đóng góp gì cho kinh tế Hàn Quốc](https://vnexpress.net/nganh-y-te-dong-gop-gi-cho-kinh-te-han-quoc-4717405.html) - 19:08 01/03/2024
+- ⛽️ [Ngành y tế đóng góp gì cho kinh tế Hàn Quốc?](https://vnexpress.net/nganh-y-te-dong-gop-gi-cho-kinh-te-han-quoc-4717405.html) - 19:08 01/03/2024
 - 🐲 [EVN nhận bàn giao nhà máy nhiệt điện BOT Phú Mỹ 3](https://vnexpress.net/evn-nhan-ban-giao-nha-may-nhiet-dien-bot-phu-my-3-4717394.html) - 14:45 01/03/2024
 - 🔥 [Ông Nguyễn Đức Tài: Sếp Thế Giới Di Động không quan tâm lương](https://vnexpress.net/ong-nguyen-duc-tai-sep-the-gioi-di-dong-khong-quan-tam-luong-4717363.html) - 12:48 01/03/2024
 - 🐵 [Muốn kinh doanh cá cược bóng đá quốc tế phải qua đấu thầu](https://vnexpress.net/muon-kinh-doanh-ca-cuoc-bong-da-quoc-te-phai-qua-dau-thau-4717375.html) - 12:31 01/03/2024
