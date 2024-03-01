@@ -57,5 +57,4 @@ sidebar_position: 9
 - 👍 [Ông Putin: Nga không định đưa vũ khí hạt nhân lên không gian](https://vnexpress.net/ong-putin-nga-khong-dinh-dua-vu-khi-hat-nhan-len-khong-gian-4717345.html) - 11:12 01/03/2024
 - 🔥 [Con dâu tương lai của người giàu nhất châu Á](https://vnexpress.net/con-dau-tuong-lai-cua-nguoi-giau-nhat-chau-a-4717205.html) - 11:09 01/03/2024
 - 💄 [Sợ chồng nói ra lỗi lầm của tôi cho bố mẹ và các con](https://vnexpress.net/so-chong-noi-ra-loi-lam-cua-toi-cho-bo-me-va-cac-con-4717138.html) - 11:00 01/03/2024
-- 🤡 [Rơi xe máy xuống sông vì chân tay lóng ngóng](https://vnexpress.net/roi-xe-may-xuong-song-vi-chan-tay-long-ngong-4716650.html) - 11:00 01/03/2024
-- ⛽️ [Các hạng mục thu hút đề cử tại Game Awards 2024](https://vnexpress.net/cac-hang-muc-thu-hut-de-cu-tai-game-awards-2024-4717162.html) - 11:00 01/03/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🤡 [Rơi xe máy xuống sông vì chân tay lóng ngóng](https://vnexpress.net/roi-xe-may-xuong-song-vi-chan-tay-long-ngong-4716650.html) - 11:00 01/03/2024<!-- vnexpress-tin-moi-nhat:END -->
