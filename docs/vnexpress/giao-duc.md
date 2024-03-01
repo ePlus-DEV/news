@@ -9,7 +9,7 @@ sidebar_position: 7
 - 🦩 [Xác minh vụ bảo mẫu tát, bịt miệng trẻ tự kỷ](https://vnexpress.net/xac-minh-vu-bao-mau-tat-bit-mieng-tre-tu-ky-4717106.html) - 06:23 01/03/2024
 - 🌮 [Đại học Thương mại tăng chỉ tiêu năm 2024](https://vnexpress.net/dai-hoc-thuong-mai-tang-chi-tieu-nam-2024-4717023.html) - 04:54 01/03/2024
 - 🔭 [Học viện Tài chính tuyển 4.500 sinh viên theo 5 phương thức](https://vnexpress.net/hoc-vien-tai-chinh-tuyen-4-500-sinh-vien-theo-5-phuong-thuc-4717011.html) - 04:32 01/03/2024
-- 💡 [Đại học Quốc tế dự kiến giảm hơn 200 chỉ tiêu](https://vnexpress.net/dai-hoc-quoc-te-du-kien-giam-hon-200-chi-tieu-4717006.html) - 03:50 01/03/2024
+- 💡 [Đại học Quốc tế công bố 7 phương thức xét tuyển](https://vnexpress.net/dai-hoc-quoc-te-cong-bo-7-phuong-thuc-xet-tuyen-4717006.html) - 03:50 01/03/2024
 - 🥰 [Hơn 84% du học sinh Việt đậu thị thực vào Australia](https://vnexpress.net/hon-84-du-hoc-sinh-viet-dau-thi-thuc-vao-australia-4716715.html) - 02:42 01/03/2024
 - 🐲 [Cách EIS xây dựng mô hình &#39;ngôi làng giáo dục&#39;](https://vnexpress.net/cach-eis-xay-dung-mo-hinh-ngoi-lang-giao-duc-4715688.html) - 01:00 01/03/2024
 - 🦒 [Vì sao nhiều trường công ở TP HCM muốn thi tuyển lớp 6?](https://vnexpress.net/vi-sao-nhieu-truong-cong-o-tp-hcm-muon-thi-tuyen-lop-6-4716505.html) - 23:15 29/02/2024
