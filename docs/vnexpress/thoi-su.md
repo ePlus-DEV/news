@@ -9,7 +9,7 @@ sidebar_position: 1
 - ⚗️ [Tai nạn liên hoàn trên cao tốc Vĩnh Hảo - Phan Thiết, một người chết](https://vnexpress.net/tai-nan-lien-hoan-tren-cao-toc-vinh-hao-phan-thiet-mot-nguoi-chet-4716932.html) - 00:53 01/03/2024
 - 🌊 [Doanh nghiệp giao thông &#39;khát&#39; lao động tay nghề cao](https://vnexpress.net/doanh-nghiep-giao-thong-khat-lao-dong-tay-nghe-cao-4716340.html) - 22:00 29/02/2024
 - 🎓 [Quân đội có lễ phục mới](https://vnexpress.net/quan-doi-co-le-phuc-moi-4716885.html) - 18:00 29/02/2024
-- 🔥 [Người dân khu vực hồ Thiền Quang đồng thuận xây 5 quảng trường](https://vnexpress.net/nguoi-dan-khu-vuc-ho-thien-quang-dong-thuan-xay-5-quang-truong-4716873.html) - 17:20 29/02/2024
+- 🔥 [Nhiều người đồng thuận xây 5 quảng trường ở khu vực hồ Thiền Quang](https://vnexpress.net/nhieu-nguoi-dong-thuan-xay-5-quang-truong-o-khu-vuc-ho-thien-quang-4716873.html) - 17:20 29/02/2024
 - 🦏 [Pouyuen cần tuyển mới 1.000 lao động](https://vnexpress.net/pouyuen-can-tuyen-moi-1-000-lao-dong-4716860.html) - 17:00 29/02/2024
 - 👺 [Thuần hóa rau dại thu tỷ đồng mỗi năm](https://vnexpress.net/thuan-hoa-rau-dai-thu-ty-dong-moi-nam-4716201.html) - 17:00 29/02/2024
 - 🧑‍🏫 [Chính sách nổi bật có hiệu lực từ tháng 3](https://vnexpress.net/chinh-sach-noi-bat-co-hieu-luc-tu-thang-3-4716043.html) - 17:00 29/02/2024
