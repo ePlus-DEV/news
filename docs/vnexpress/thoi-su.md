@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hà Nội yêu cầu rà soát hồ sơ chung cư mini nứt](https://vnexpress.net/ha-noi-yeu-cau-ra-soat-ho-so-chung-cu-mini-nut-4717402.html) - 18:06 01/03/2024
+- 🦒 [Hà Nội yêu cầu rà soát hồ sơ chung cư mini bị nứt](https://vnexpress.net/ha-noi-yeu-cau-ra-soat-ho-so-chung-cu-mini-bi-nut-4717402.html) - 18:06 01/03/2024
 - 🤓 [Dùng cát nhân tạo thay thế hoàn toàn cát tự nhiên &#39;không khả thi&#39;](https://vnexpress.net/dung-cat-nhan-tao-thay-the-hoan-toan-cat-tu-nhien-khong-kha-thi-4717391.html) - 17:29 01/03/2024
 - ⚗️ [Tổng kiểm kê tài sản công từ ngày 1/1/2025](https://vnexpress.net/tong-kiem-ke-tai-san-cong-tu-ngay-1-1-2025-4717393.html) - 16:09 01/03/2024
 - 🌊 [Động thổ dự án đường nối Ninh Thuận - Khánh Hòa - Lâm Đồng](https://vnexpress.net/dong-tho-du-an-duong-noi-ninh-thuan-khanh-hoa-lam-dong-4717374.html) - 13:04 01/03/2024
