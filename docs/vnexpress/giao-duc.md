@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Gần 200 sinh viên đại học danh tiếng đến Việt Nam thi lập trình](https://vnexpress.net/gan-200-sinh-vien-dai-hoc-danh-tieng-den-viet-nam-thi-lap-trinh-4717038.html) - 09:02 01/03/2024
-- 🦆 [Đại học Ngoại ngữ mở thêm ngành Sư phạm tiếng Đức](https://vnexpress.net/dai-hoc-ngoai-ngu-mo-them-nganh-su-pham-tieng-duc-4717073.html) - 08:10 01/03/2024
+- 🦆 [Đại học Ngoại ngữ tăng 200 chỉ tiêu](https://vnexpress.net/dai-hoc-ngoai-ngu-tang-200-chi-tieu-4717073.html) - 08:10 01/03/2024
 - 🦩 [Xác minh vụ bảo mẫu tát, bịt miệng trẻ tự kỷ](https://vnexpress.net/xac-minh-vu-bao-mau-tat-bit-mieng-tre-tu-ky-4717106.html) - 06:23 01/03/2024
 - 🌮 [Đại học Thương mại tăng chỉ tiêu năm 2024](https://vnexpress.net/dai-hoc-thuong-mai-tang-chi-tieu-nam-2024-4717023.html) - 04:54 01/03/2024
 - 🔭 [Học viện Tài chính tuyển 4.500 sinh viên theo 5 phương thức](https://vnexpress.net/hoc-vien-tai-chinh-tuyen-4-500-sinh-vien-theo-5-phuong-thuc-4717011.html) - 04:32 01/03/2024
