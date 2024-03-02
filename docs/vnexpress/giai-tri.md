@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [&#39;Búp bê Ba Lan&#39; sau hai năm đương nhiệm Miss World](https://vnexpress.net/bup-be-ba-lan-sau-hai-nam-duong-nhiem-miss-world-4715850.html) - 08:37 02/03/2024
-- 💫 [Cách kiểm soát tiền bạc với &#39;Tài chính cho mọi người&#39;](https://vnexpress.net/cach-kiem-soat-tien-bac-voi-tai-chinh-cho-moi-nguoi-4714527.html) - 07:50 02/03/2024
+- 💫 [&#39;Tài chính cho mọi người&#39; - cách kiểm soát tiền bạc](https://vnexpress.net/tai-chinh-cho-moi-nguoi-cach-kiem-soat-tien-bac-4714527.html) - 07:50 02/03/2024
 - 🌮 [Randolph - sao ngoại cỡ được kỳ vọng ở Oscar 2024](https://vnexpress.net/randolph-sao-ngoai-co-duoc-ky-vong-o-oscar-2024-4717027.html) - 07:00 02/03/2024
 - 🧠 [Sao Việt chạy đua cùng 2.000 trẻ tại Kun Marathon TP HCM](https://vnexpress.net/sao-viet-chay-dua-cung-2-000-tre-tai-kun-marathon-tp-hcm-4717472.html) - 05:30 02/03/2024
 - 👨‍🏫 [The Rock hối hận không sớm làm hòa với cha](https://vnexpress.net/the-rock-hoi-han-khong-som-lam-hoa-voi-cha-4717527.html) - 05:28 02/03/2024
