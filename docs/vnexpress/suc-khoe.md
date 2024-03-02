@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Đột biến gene khiến chàng trai không thể chịu được nắng nóng](https://vnexpress.net/dot-bien-gene-khien-chang-trai-khong-the-chiu-duoc-nang-nong-4716989.html) - 12:20 02/03/2024
+- 🔥 [Bệnh lạ khiến chàng trai không thể chịu được nắng nóng](https://vnexpress.net/benh-la-khien-chang-trai-khong-the-chiu-duoc-nang-nong-4716989.html) - 12:20 02/03/2024
 - 🥰 [Nối thành công ngón tay đứt lìa của người phụ nữ](https://vnexpress.net/noi-thanh-cong-ngon-tay-dut-lia-cua-nguoi-phu-nu-4717624.html) - 11:14 02/03/2024
 - 💡 [Tự cắt dương vật do hoang tưởng sau dùng chất kích thích](https://vnexpress.net/tu-cat-duong-vat-do-hoang-tuong-sau-dung-chat-kich-thich-4717082.html) - 09:01 02/03/2024
 - 🤗 [Tác hại khi ngủ mở quạt suốt đêm](https://vnexpress.net/tac-hai-khi-ngu-mo-quat-suot-dem-4717484.html) - 08:00 02/03/2024
