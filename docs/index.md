@@ -137,9 +137,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Tác giả trong SGK mới: Thượng úy công an nổi tiếng nhờ viết truyện, tiểu thuyết](https://thanhnien.vn/tac-gia-trong-sgk-moi-thuong-uy-cong-an-noi-tieng-nho-viet-truyen-tieu-thuyet-185240301181638387.htm) - 03:23 02/03/2024
-- 🥸 [Đội Thanh Hóa tố trọng tài Ngô Duy Lân, đưa ra đề nghị bất ngờ](https://thanhnien.vn/doi-thanh-hoa-to-trong-tai-ngo-duy-lan-dua-ra-de-nghi-bat-ngo-185240302101852277.htm) - 03:22 02/03/2024
-- 🌁 [Tai nạn trên đường dẫn cao tốc: Đầu xe khách bể nát sau cú va chạm với xe container](https://thanhnien.vn/tai-nan-tren-duong-dan-cao-toc-dau-xe-khach-be-nat-sau-cu-va-cham-voi-xe-container-185240302092436994.htm) - 03:22 02/03/2024
+- 🤠 [Tai nạn trên đường dẫn cao tốc TP.HCM - Long Thành - Dầu Giây: Tài xế xe khách tử vong](https://thanhnien.vn/tai-nan-tren-duong-dan-cao-toc-dau-xe-khach-be-nat-sau-cu-va-cham-voi-xe-container-185240302092436994.htm) - 03:29 02/03/2024
+- 🥸 [Tác giả trong SGK mới: Thượng úy công an nổi tiếng nhờ viết truyện, tiểu thuyết](https://thanhnien.vn/tac-gia-trong-sgk-moi-thuong-uy-cong-an-noi-tieng-nho-viet-truyen-tieu-thuyet-185240301181638387.htm) - 03:23 02/03/2024
+- 🌁 [Đội Thanh Hóa tố trọng tài Ngô Duy Lân, đưa ra đề nghị bất ngờ](https://thanhnien.vn/doi-thanh-hoa-to-trong-tai-ngo-duy-lan-dua-ra-de-nghi-bat-ngo-185240302101852277.htm) - 03:22 02/03/2024
 - 🤡 [Chung cư mini &#39;chống nạng&#39; ở Hà Nội xây sai phép như thế nào?](https://thanhnien.vn/chung-cu-mini-chong-nang-o-ha-noi-xay-sai-phep-nhu-the-nao-185240302095727399.htm) - 03:12 02/03/2024
 - 🎉 [Đương kim vô địch ĐH Huế không còn đường lùi ở &#39;chung kết bảng&#39;](https://thanhnien.vn/duong-kim-vo-dich-dh-hue-khong-con-duong-lui-o-chung-ket-bang-185240301194711428.htm) - 03:03 02/03/2024
 - 🎊 [Giá USD hôm nay 2.3.2024: Đô tự do tăng giá](https://thanhnien.vn/gia-usd-hom-nay-232024-do-tu-do-tang-gia-185240302085717991.htm) - 03:01 02/03/2024
