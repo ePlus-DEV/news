@@ -285,7 +285,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎬 [Lần đầu diễn kịch sử Việt, Hiếu Hiền nhớ mẹ - cố nghệ sĩ Kim Ngọc](https://nld.com.vn/lan-dau-dien-kich-su-viet-hieu-hien-nho-me-co-nghe-si-kim-ngoc-1962403020817166.htm) - 01:57 02/03/2024
 - 👀 [Cảnh sát khám xét trụ sở, Hiệp hội Y khoa Hàn Quốc phản ứng mạnh](https://nld.com.vn/canh-sat-kham-xet-tru-so-hiep-hoi-y-khoa-han-quoc-phan-ung-manh-196240302083219839.htm) - 01:48 02/03/2024
 - 👍 [Thời tiết khô, nóng bao trùm nhiều nơi](https://nld.com.vn/thoi-tiet-kho-nong-bao-trum-nhieu-noi-196240301211111168.htm) - 01:39 02/03/2024
-- 🦅 [Hàng không lên kế hoạch khai thác cao điểm Hè 2024](https://nld.com.vn/hang-khong-len-ke-hoach-khai-thac-cao-diem-he-2024-19624030121275914.htm) - 01:32 02/03/2024
+- 🦅 [Yêu cầu hãng hàng không chủ động phối hợp công ty du lịch xây dựng kế hoạch Hè 2024](https://nld.com.vn/hang-khong-len-ke-hoach-khai-thac-cao-diem-he-2024-19624030121275914.htm) - 01:32 02/03/2024
 - 🦏 [Vòng 3 chảy mủ sau tiêm filler](https://nld.com.vn/vong-3-chay-mu-sau-tiem-filler-19624030121230217.htm) - 01:31 02/03/2024
 - 🗽 [Địa phương phải chủ động hiến kế giải pháp gỡ vướng](https://nld.com.vn/dia-phuong-phai-chu-dong-hien-ke-giai-phap-go-vuong-196240301201004457.htm) - 01:31 02/03/2024
 - 🔭 [Công bố đề cử 10 hạng mục Giải Âm nhạc cống hiến](https://nld.com.vn/cong-bo-de-cu-10-hang-muc-giai-am-nhac-cong-hien-196240301200728644.htm) - 01:31 02/03/2024
