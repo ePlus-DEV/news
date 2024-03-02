@@ -27,7 +27,7 @@ sidebar_position: 5
 - 🌁 [Dàn elite đổ bộ VPBank VnExpress Marathon HCM City Midnight](https://vnexpress.net/dan-elite-do-bo-vpbank-vnexpress-marathon-hcm-city-midnight-4717333.html) - 05:14 02/03/2024
 - 💯 [Messi vượt Ronaldo trong 10 năm gần nhất](https://vnexpress.net/messi-vuot-ronaldo-trong-10-nam-gan-nhat-4717521.html) - 05:00 02/03/2024
 - 🌝 [2.000 trẻ em TP HCM căng sức tranh tài ở Kun Marathon](https://ngoisao.vnexpress.net/2-000-tre-em-tp-hcm-cang-suc-tranh-tai-o-kun-marathon-4717501.html) - 04:48 02/03/2024
-- 🤖 [Văn Tâm, Minh Tuân dẫn đầu giải chạy đêm TP HCM](https://vnexpress.net/van-tam-minh-tuan-dan-dau-giai-chay-dem-tp-hcm-4717701.html) - 04:30 02/03/2024
+- 🤖 [Hồng Lệ, Lê Minh Tuân so kè tại giải chạy đêm TP HCM](https://vnexpress.net/hong-le-le-minh-tuan-so-ke-tai-giai-chay-dem-tp-hcm-4717701.html) - 04:30 02/03/2024
 - 🕯 [Kỹ sư Red Bull giúp đối thủ làm lạnh xe trong lúc đua](https://vnexpress.net/ky-su-red-bull-giup-doi-thu-lam-lanh-xe-trong-luc-dua-4717482.html) - 04:05 02/03/2024
 - 🧰 [ĐKVĐ thế giới Phương Vinh bị loại sớm ở World Cup billiard](https://vnexpress.net/dkvd-the-gioi-phuong-vinh-bi-loai-som-o-world-cup-billiard-4717522.html) - 03:58 02/03/2024
 - 🥳 [Trường Giang chạy đua cùng 2.000 trẻ ở Thảo Cầm Viên](https://vnexpress.net/truong-giang-chay-dua-cung-2-000-tre-o-thao-cam-vien-4717473.html) - 03:08 02/03/2024
