@@ -393,7 +393,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [CẬP NHẬT: Họp báo Chính phủ thường kỳ tháng 2](https://baochinhphu.vn/cap-nhat-hop-bao-chinh-phu-thuong-ky-thang-2-102240302152318998.htm) - 15:58 02/03/2024
+- 💻 [CẬP NHẬT: Họp báo Chính phủ thường kỳ tháng 2](https://baochinhphu.vn/cap-nhat-hop-bao-chinh-phu-thuong-ky-thang-2-102240302152318998.htm) - 16:40 02/03/2024
 - 🌜 [Thủ tướng: Tăng tốc phát triển với động lực mới, khí thế mới, cảm hứng mới](https://baochinhphu.vn/thu-tuong-tang-toc-phat-trien-voi-dong-luc-moi-khi-the-moi-cam-hung-moi-102240302130625559.htm) - 13:17 02/03/2024
 - 🦆 [Thủ tướng chỉ thị đẩy mạnh sản xuất, kinh doanh, xuất khẩu lúa, gạo bền vững](https://baochinhphu.vn/thu-tuong-chi-thi-day-manh-san-xuat-kinh-doanh-xuat-khau-lua-gao-ben-vung-102240302125158452.htm) - 12:45 02/03/2024
 - 🌝 [Khánh Hoà công bố quy hoạch đô thị mới, tạo cực tăng trưởng phía nam](https://baochinhphu.vn/khanh-hoa-cong-bo-quy-hoach-do-thi-moi-tao-cuc-tang-truong-phia-nam-102240302104107852.htm) - 10:41 02/03/2024
