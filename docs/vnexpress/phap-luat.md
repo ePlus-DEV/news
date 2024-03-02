@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Hàng loạt lãnh đạo Tập đoàn Phúc Sơn bị cáo buộc sai phạm gì?](https://vnexpress.net/hang-loat-lanh-dao-tap-doan-phuc-son-bi-cao-buoc-sai-pham-gi-4717632.html) - 10:36 02/03/2024
+- 😎 [Lãnh đạo Tập đoàn Phúc Sơn bị điều tra gian lận tài chính hơn 640 tỷ đồng](https://vnexpress.net/hang-loat-lanh-dao-tap-doan-phuc-son-bi-cao-buoc-sai-pham-gi-4717632.html) - 10:36 02/03/2024
 - 🥰 [Công an xác minh vụ tạo hiện trường giả &#39;4 mẹ con nhảy cầu&#39;](https://vnexpress.net/cong-an-lap-ho-so-xu-ly-vu-tao-hien-truong-gia-4-me-con-tu-tu-4717606.html) - 08:41 02/03/2024
 - 🎓 [Vì sao Trương Huệ Vân - cháu bà Trương Mỹ Lan, được VKS đề nghị giảm nhẹ?](https://vnexpress.net/vi-sao-truong-hue-van-chau-ba-truong-my-lan-duoc-vks-de-nghi-giam-nhe-4716752.html) - 08:08 02/03/2024
 - 🤓 [Người đàn ông ăn trộm 12 con bò, lùa đi 10 km](https://vnexpress.net/nguoi-dan-ong-an-trom-12-con-bo-lua-di-10-km-4717562.html) - 07:10 02/03/2024
