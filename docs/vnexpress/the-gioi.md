@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Người đàn ông ăn hơn 34.000 chiếc bánh kẹp thịt](https://vnexpress.net/nguoi-dan-ong-an-hon-34-000-chiec-banh-kep-thit-4717623.html) - 10:42 02/03/2024
-- 🕴 [Người giàu nhất châu Á &#39;chi hơn 6 triệu USD&#39; mời Rihanna](https://vnexpress.net/nguoi-giau-nhat-chau-a-chi-hon-6-trieu-usd-moi-rihanna-4717603.html) - 10:08 02/03/2024
+- 🎭 [Người đàn ông giữ kỷ lục ăn hơn 34.000 chiếc hamburger](https://vnexpress.net/nguoi-dan-ong-giu-ky-luc-an-hon-34-000-chiec-hamburger-4717623.html) - 10:42 02/03/2024
+- 🕴 [Người giàu nhất châu Á &#39;chi hơn 6 triệu USD&#39; mời Rihanna biểu diễn](https://vnexpress.net/nguoi-giau-nhat-chau-a-chi-hon-6-trieu-usd-moi-rihanna-bieu-dien-4717603.html) - 10:08 02/03/2024
 - 🤭 [Châu Âu thiếu nguyên liệu sản xuất đạn pháo cho Ukraine](https://vnexpress.net/chau-au-thieu-nguyen-lieu-san-xuat-dan-phao-cho-ukraine-4717577.html) - 08:52 02/03/2024
 - 🧑‍💻 [Mỹ thông qua dự luật ngăn chính phủ đóng cửa](https://vnexpress.net/my-thong-qua-du-luat-ngan-chinh-phu-dong-cua-4717589.html) - 08:03 02/03/2024
 - 🦏 [Pháp cáo buộc Nga thổi phồng nạn rệp ở Paris](https://vnexpress.net/phap-cao-buoc-nga-thoi-phong-nan-rep-o-paris-4717551.html) - 07:43 02/03/2024
