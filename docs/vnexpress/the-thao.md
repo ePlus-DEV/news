@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Chelsea thoát thua nhờ hậu vệ](https://vnexpress.net/chelsea-thoat-thua-nho-hau-ve-4717722.html) - 17:08 02/03/2024
-- 🦩 [Son Heung-min giúp Tottenham thắng ngược](https://vnexpress.net/son-heung-min-giup-tottenham-thang-nguoc-4717716.html) - 17:00 02/03/2024
+- 🦩 [Son Heung-min ghi bàn đầu tiên kể từ Asian Cup](https://vnexpress.net/son-heung-min-ghi-ban-dau-tien-ke-tu-asian-cup-4717716.html) - 17:00 02/03/2024
 - 🧰 [Nunez giúp Liverpool thắng ở giây cuối](https://vnexpress.net/nunez-giup-liverpool-thang-o-giay-cuoi-4717715.html) - 17:00 02/03/2024
 - 🤗 [Thùy Linh ngược dòng vào chung kết Đức Mở rộng](https://vnexpress.net/thuy-linh-nguoc-dong-vao-chung-ket-duc-mo-rong-4717477.html) - 15:20 02/03/2024
 - 🥳 [HLV Vũ Tiến Thành: &#39;HAGL thắng vì may mắn&#39;](https://vnexpress.net/hlv-vu-tien-thanh-hagl-thang-vi-may-man-4717696.html) - 15:10 02/03/2024
