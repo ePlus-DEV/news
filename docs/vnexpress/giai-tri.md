@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Nghệ sĩ chạy đua cùng 2.000 trẻ tại Kun Marathon TP HCM](https://vnexpress.net/nghe-si-chay-dua-cung-2-000-tre-tai-kun-marathon-tp-hcm-4717472.html) - 05:30 02/03/2024
-- 💫 [Dwayne Johnson hối hận không sớm làm hòa với cha](https://vnexpress.net/dwayne-johnson-hoi-han-khong-som-lam-hoa-voi-cha-4717527.html) - 05:28 02/03/2024
+- 💫 [The Rock hối hận không sớm làm hòa với cha](https://vnexpress.net/the-rock-hoi-han-khong-som-lam-hoa-voi-cha-4717527.html) - 05:28 02/03/2024
 - 🌮 [Đạo diễn nói &#39;Công chúa Huawei&#39; bị lu mờ vì gia thế](https://vnexpress.net/dao-dien-noi-cong-chua-huawei-bi-lu-mo-vi-gia-the-4717485.html) - 04:49 02/03/2024
 - 🧠 [Fan Đông Nam Á chờ &#39;bùng nổ&#39; với Taylor Swift](https://vnexpress.net/fan-dong-nam-a-cho-bung-no-voi-taylor-swift-4716797.html) - 04:19 02/03/2024
 - 👨‍🏫 [Chồng con chưng diện đến ủng hộ show Victoria Beckham](https://vnexpress.net/chong-con-chung-dien-den-ung-ho-show-victoria-beckham-4717498.html) - 03:18 02/03/2024
