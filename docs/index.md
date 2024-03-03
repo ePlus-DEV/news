@@ -76,7 +76,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💫 [Trẻ vừa ăn vừa xem tivi, điện thoại tác hại thế nào](https://vnexpress.net/tre-vua-an-vua-xem-tivi-dien-thoai-tac-hai-the-nao-4716302.html) - 03:28 03/03/2024
 - 🤩 [Dàn sao khuấy động giải chạy đêm TP HCM](https://vnexpress.net/dan-sao-khuay-dong-giai-chay-dem-tp-hcm-4717740.html) - 03:17 03/03/2024
 - 🏊 [Đỉnh Everest bị chê &#39;đông đúc, bẩn thỉu&#39;](https://vnexpress.net/dinh-everest-bi-che-dong-duc-ban-thiu-4717776.html) - 03:15 03/03/2024
-- 💂 [Ăn trưa ở Vatican](https://vnexpress.net/an-trua-o-vatican-4717096.html) - 03:09 03/03/2024<!-- vnexpress:END -->
+- 💂 [Ăn trưa ở Vatican](https://vnexpress.net/an-trua-o-vatican-4717096.html) - 03:09 03/03/2024
+- 🚀 [Robot hình người lập kỷ lục tốc độ](https://vnexpress.net/robot-hinh-nguoi-lap-ky-luc-toc-do-4717435.html) - 03:00 03/03/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
