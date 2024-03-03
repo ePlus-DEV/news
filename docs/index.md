@@ -397,7 +397,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [TỔNG THUẬT: Thường trực Chính phủ gặp mặt các doanh nghiệp nhà nước tiêu biểu](https://baochinhphu.vn/tong-thuat-thuong-truc-chinh-phu-gap-mat-cac-doanh-nghiep-nha-nuoc-tieu-bieu-102240302225545737.htm) - 07:47 03/03/2024
+- 💻 [TỔNG THUẬT: Thường trực Chính phủ gặp mặt đầu xuân các doanh nghiệp nhà nước tiêu biểu trên toàn quốc](https://baochinhphu.vn/tong-thuat-thuong-truc-chinh-phu-gap-mat-cac-doanh-nghiep-nha-nuoc-tieu-bieu-102240302225545737.htm) - 07:47 03/03/2024
 - 🌜 [Tiền lương sẽ hưởng theo danh mục vị trí việc làm](https://baochinhphu.vn/tien-luong-se-huong-theo-danh-muc-vi-tri-viec-lam-102240302153236092.htm) - 07:02 03/03/2024
 - 🦆 [Thúc đẩy hợp tác du lịch giữa Việt Nam và Trung Quốc](https://baochinhphu.vn/thuc-day-hop-tac-du-lich-giua-viet-nam-va-trung-quoc-102240302201727671.htm) - 22:30 02/03/2024
 - 🌝 [Phú Yên phải trở thành vùng đất bình yên và phú quý](https://baochinhphu.vn/phu-yen-phai-tro-thanh-vung-dat-binh-yen-va-phu-quy-102240302222132856.htm) - 22:26 02/03/2024
