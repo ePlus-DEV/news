@@ -32,7 +32,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌏 [Đỉnh Everest bị chê &#39;đông đúc, bẩn thỉu&#39;](https://vnexpress.net/dinh-everest-bi-che-dong-duc-ban-thiu-4717776.html) - 03:15 03/03/2024
 - 🧐 [Ăn trưa ở Vatican](https://vnexpress.net/an-trua-o-vatican-4717096.html) - 03:09 03/03/2024
 - 💫 [Robot hình người lập kỷ lục tốc độ](https://vnexpress.net/robot-hinh-nguoi-lap-ky-luc-toc-do-4717435.html) - 03:00 03/03/2024
-- 😺 [Startup giới thiệu AI Phone không ứng dụng](https://vnexpress.net/startup-gioi-thieu-ai-phone-khong-ung-dung-4717671.html) - 03:00 03/03/2024
+- 😺 [Startup giới thiệu AI Phone không cần cài ứng dụng](https://vnexpress.net/startup-gioi-thieu-ai-phone-khong-can-cai-ung-dung-4717671.html) - 03:00 03/03/2024
 - 🕯 [Có nên cho trẻ ăn đồ nướng?](https://vnexpress.net/co-nen-cho-tre-an-do-nuong-4717679.html) - 03:00 03/03/2024
 - 💃 [5 đồ uống giữ ấm cơ thể, tăng miễn dịch](https://vnexpress.net/5-do-uong-giu-am-co-the-tang-mien-dich-4717595.html) - 03:00 03/03/2024
 - 💂 [Có cần tiêm phòng viêm màng não trước khi mang thai?](https://vnexpress.net/co-can-tiem-phong-viem-mang-nao-truoc-khi-mang-thai-4717281.html) - 03:00 03/03/2024
@@ -73,8 +73,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💪 [Trứng non có thụ thai được không?](https://vnexpress.net/trung-non-co-thu-thai-duoc-khong-4717611.html) - 00:00 03/03/2024
 - 🧑‍🏫 [5 bài tập tốt cho phụ nữ trung niên](https://vnexpress.net/5-bai-tap-tot-cho-phu-nu-trung-nien-4717195.html) - 00:00 03/03/2024
 - 🎓 [Bác sĩ Hàn Quốc chuẩn bị biểu tình quy mô lớn](https://vnexpress.net/bac-si-han-quoc-chuan-bi-bieu-tinh-quy-mo-lon-4717741.html) - 23:56 02/03/2024
-- 💫 [Messi lập cú đúp bằng đầu và ngực](https://vnexpress.net/messi-lap-cu-dup-bang-dau-va-nguc-4717742.html) - 23:52 02/03/2024
-- 🤩 [Lê Hữu Lộc, Doãn Thị Oanh vô địch 21km giải chạy đêm](https://vnexpress.net/le-huu-loc-doan-thi-oanh-vo-dich-21km-giai-chay-dem-4717737.html) - 23:37 02/03/2024<!-- vnexpress:END -->
+- 💫 [Messi lập cú đúp bằng đầu và ngực](https://vnexpress.net/messi-lap-cu-dup-bang-dau-va-nguc-4717742.html) - 23:52 02/03/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
