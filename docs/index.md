@@ -218,7 +218,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💼 [4 mẹo chạy bộ để giảm cân, đốt cháy calo](https://laodong.vn/dinh-duong-am-thuc/4-meo-chay-bo-de-giam-can-dot-chay-calo-1310663.ldo) - 14:30 03/03/2024
 - 🤖 [Video bàn thắng Sông Lam Nghệ An - Nam Định: Bàn thắng phút bù giờ](https://laodong.vn/video/video-ban-thang-song-lam-nghe-an-nam-dinh-ban-thang-phut-bu-gio-1310794.ldo) - 14:26 03/03/2024
 - 💪 [Thực hư vị thế đồng USD bị giáng một đòn mạnh](https://laodong.vn/the-gioi/thuc-hu-vi-the-dong-usd-bi-giang-mot-don-manh-1310691.ldo) - 14:13 03/03/2024
-- 👍 [Trực tiếp Man City 1-1 Man United: Foden gỡ hòa](https://laodong.vn/bong-da-quoc-te/truc-tiep-man-city-1-1-man-united-foden-go-hoa-1310676.ldo) - 14:13 03/03/2024
+- 👍 [Trực tiếp Man City 2-1 Man United: Foden lập cú đúp](https://laodong.vn/bong-da-quoc-te/truc-tiep-man-city-2-1-man-united-foden-lap-cu-dup-1310676.ldo) - 14:13 03/03/2024
 - 💂 [Hàng nghìn người đến xem giải vô địch các câu lạc bộ Muay quốc gia 2024 ở Vũng Tàu](https://laodong.vn/the-thao/hang-nghin-nguoi-den-xem-giai-vo-dich-cac-cau-lac-bo-muay-quoc-gia-2024-o-vung-tau-1310745.ldo) - 14:11 03/03/2024
 - 🧰 [Nhịp showbiz: Khả Ngân phản ứng khi được hỏi về Thanh Sơn](https://laodong.vn/giai-tri/nhip-showbiz-kha-ngan-phan-ung-khi-duoc-hoi-ve-thanh-son-1310790.ldo) - 14:10 03/03/2024
 - 🥷 [Phim “Cái giá của hạnh phúc”, Thái Hòa đóng cặp cùng siêu mẫu Xuân Lan](https://laodong.vn/giai-tri/phim-cai-gia-cua-hanh-phuc-thai-hoa-dong-cap-cung-sieu-mau-xuan-lan-1310771.ldo) - 14:08 03/03/2024
