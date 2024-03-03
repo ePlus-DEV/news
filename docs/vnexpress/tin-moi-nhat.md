@@ -52,5 +52,4 @@ sidebar_position: 9
 - 🎡 [Mai Phương trượt phần thi Top Model ở Miss World](https://vnexpress.net/mai-phuong-truot-phan-thi-top-model-o-miss-world-4717798.html) - 05:11 03/03/2024
 - 👍 [Tuyển thủ điền kinh Việt Nam vô địch giải chạy vì bị chó rượt](https://vnexpress.net/tuyen-thu-dien-kinh-viet-nam-vo-dich-giai-chay-vi-bi-cho-ruot-4717814.html) - 05:11 03/03/2024
 - 🐎 [Nhà phố có mặt tiền bọc trong &#39;lưới gạch&#39;](https://vnexpress.net/nha-pho-co-mat-tien-boc-trong-luoi-gach-4717396.html) - 05:05 03/03/2024
-- 🏊 [Trót rung động với người khác khi du học xa bạn trai](https://vnexpress.net/trot-rung-dong-voi-nguoi-khac-khi-du-hoc-xa-ban-trai-4717769.html) - 05:00 03/03/2024
-- 🦩 [CEO Nvidia nói AGI sẽ xuất hiện sau 5 năm nữa](https://vnexpress.net/ceo-nvidia-noi-agi-se-xuat-hien-sau-5-nam-nua-4717721.html) - 05:00 03/03/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🏊 [Trót rung động với người khác khi du học xa bạn trai](https://vnexpress.net/trot-rung-dong-voi-nguoi-khac-khi-du-hoc-xa-ban-trai-4717769.html) - 05:00 03/03/2024<!-- vnexpress-tin-moi-nhat:END -->
