@@ -390,10 +390,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Khởi đầu mới để Phú Yên vươn lên thành trung tâm kinh tế biển xanh](https://baochinhphu.vn/khoi-dau-moi-de-phu-yen-vuon-len-thanh-trung-tam-kinh-te-bien-xanh-102240303114927154.htm) - 11:14 03/03/2024
-- 🌜 [Thúc đẩy dòng lưu chuyển tri thức và công nghệ giữa Australia - Việt Nam](https://baochinhphu.vn/thuc-day-dong-luu-chuyen-tri-thuc-va-cong-nghe-giua-australia-viet-nam-10224030219193472.htm) - 10:48 03/03/2024
-- 🦆 [Sắp mở rộng 5 tuyến cao tốc phân kỳ 2 làn xe](https://baochinhphu.vn/sap-mo-rong-5-tuyen-cao-toc-phan-ky-2-lan-xe-102240302194410283.htm) - 09:11 03/03/2024
-- 🌝 [TỔNG THUẬT: Thường trực Chính phủ gặp mặt đầu xuân các doanh nghiệp nhà nước tiêu biểu trên toàn quốc](https://baochinhphu.vn/tong-thuat-thuong-truc-chinh-phu-gap-mat-cac-doanh-nghiep-nha-nuoc-tieu-bieu-102240302225545737.htm) - 07:47 03/03/2024
+- 💻 [TỔNG THUẬT: Thường trực Chính phủ gặp mặt đầu xuân các doanh nghiệp nhà nước tiêu biểu trên toàn quốc](https://baochinhphu.vn/tong-thuat-thuong-truc-chinh-phu-gap-mat-cac-doanh-nghiep-nha-nuoc-tieu-bieu-102240302225545737.htm) - 11:47 03/03/2024
+- 🌜 [Khởi đầu mới để Phú Yên vươn lên thành trung tâm kinh tế biển xanh](https://baochinhphu.vn/khoi-dau-moi-de-phu-yen-vuon-len-thanh-trung-tam-kinh-te-bien-xanh-102240303114927154.htm) - 11:14 03/03/2024
+- 🦆 [Thúc đẩy dòng lưu chuyển tri thức và công nghệ giữa Australia - Việt Nam](https://baochinhphu.vn/thuc-day-dong-luu-chuyen-tri-thuc-va-cong-nghe-giua-australia-viet-nam-10224030219193472.htm) - 10:48 03/03/2024
+- 🌝 [Sắp mở rộng 5 tuyến cao tốc phân kỳ 2 làn xe](https://baochinhphu.vn/sap-mo-rong-5-tuyen-cao-toc-phan-ky-2-lan-xe-102240302194410283.htm) - 09:11 03/03/2024
 - 🦣 [Tiền lương sẽ hưởng theo danh mục vị trí việc làm](https://baochinhphu.vn/tien-luong-se-huong-theo-danh-muc-vi-tri-viec-lam-102240302153236092.htm) - 07:02 03/03/2024
 - ⛽️ [Thúc đẩy hợp tác du lịch giữa Việt Nam và Trung Quốc](https://baochinhphu.vn/thuc-day-hop-tac-du-lich-giua-viet-nam-va-trung-quoc-102240302201727671.htm) - 22:30 02/03/2024
 - 🎓 [Phú Yên phải trở thành vùng đất bình yên và phú quý](https://baochinhphu.vn/phu-yen-phai-tro-thanh-vung-dat-binh-yen-va-phu-quy-102240302222132856.htm) - 22:26 02/03/2024
