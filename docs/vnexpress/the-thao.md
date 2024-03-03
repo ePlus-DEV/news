@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Tiến Linh mờ nhạt khi Bình Dương thua CLB TP HCM](https://vnexpress.net/tien-linh-mo-nhat-khi-binh-duong-thua-clb-tp-hcm-4717919.html) - 15:24 03/03/2024
 - 🦩 [HLV Kiatisuk xem Quang Hải, Tấn Tài như trợ lý](https://vnexpress.net/hlv-kiatisuk-xem-quang-hai-tan-tai-nhu-tro-ly-4717928.html) - 15:16 03/03/2024
-- 🧰 [Man City 0-1 Man Utd &lpar;H1&rpar;: Onana cứu thua liên tiếp](https://vnexpress.net/man-city-0-1-man-utd-h1-onana-cuu-thua-lien-tiep-4717912.html) - 15:00 03/03/2024
+- 🧰 [Man City 0-1 Man Utd &lpar;H1&rpar;: Haaland đệm cận thành lên trời](https://vnexpress.net/man-city-vs-man-utd-4717912.html) - 15:00 03/03/2024
 - 🤗 [Tuyệt phẩm của Quang Hải cứu Công an Hà Nội](https://vnexpress.net/tuyet-pham-cua-quang-hai-cuu-cong-an-ha-noi-4717924.html) - 14:44 03/03/2024
 - 🥳 [Thuỳ Linh thua chung kết giải Đức Mở rộng](https://vnexpress.net/thuy-linh-thua-chung-ket-giai-duc-mo-rong-4717918.html) - 14:38 03/03/2024
 - 🦣 [Nam Định lại thắng ở phút bù V-League](https://vnexpress.net/nam-dinh-lai-thang-o-phut-bu-v-league-4717915.html) - 14:17 03/03/2024
