@@ -32,7 +32,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌏 [Tiến Linh mờ nhạt khi Bình Dương thua CLB TP HCM](https://vnexpress.net/tien-linh-mo-nhat-khi-binh-duong-thua-clb-tp-hcm-4717919.html) - 15:24 03/03/2024
 - 🧐 [HLV Kiatisuk xem Quang Hải, Tấn Tài như trợ lý](https://vnexpress.net/hlv-kiatisuk-xem-quang-hai-tan-tai-nhu-tro-ly-4717928.html) - 15:16 03/03/2024
 - 💫 [Mars Anh Tú quay MV dưới trời tuyết âm độ ở Trung Quốc](https://vnexpress.net/mars-anh-tu-quay-mv-duoi-troi-tuyet-am-do-o-trung-quoc-4717866.html) - 15:12 03/03/2024
-- 😺 [Man City 0-1 Man Utd &lpar;H1&rpar;: Onana cứu thua liên tiếp](https://vnexpress.net/man-city-vs-man-utd-4717912.html) - 15:00 03/03/2024
+- 😺 [Man City 1-1 Man Utd &lpar;H2&rpar;: Foden ghi tuyệt phẩm](https://vnexpress.net/man-city-vs-man-utd-4717912.html) - 15:00 03/03/2024
 - 🕯 [Cựu du học sinh Anh được vinh danh về hành trình chiến đấu ung thư vú](https://vnexpress.net/cuu-du-hoc-sinh-anh-duoc-vinh-danh-ve-hanh-trinh-chien-dau-ung-thu-vu-4717822.html) - 14:54 03/03/2024
 - 💃 [Tuyệt phẩm của Quang Hải cứu Công an Hà Nội](https://vnexpress.net/tuyet-pham-cua-quang-hai-cuu-cong-an-ha-noi-4717924.html) - 14:44 03/03/2024
 - 💂 [Thuỳ Linh thua chung kết giải Đức Mở rộng](https://vnexpress.net/thuy-linh-thua-chung-ket-giai-duc-mo-rong-4717918.html) - 14:38 03/03/2024
