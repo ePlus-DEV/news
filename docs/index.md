@@ -578,7 +578,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎊 [Ngoại binh của CLB Bình Dương bị Lê Huỳnh Đức &#39;sấy&#39; mạnh sau trận đấu](https://tienphong.vn/ngoai-binh-cua-clb-binh-duong-bi-le-huynh-duc-say-manh-sau-tran-dau-post1617029.tpo) - 22:33 03/03/2024
 - 💼 [HLV Lê Huỳnh Đức lý giải phong độ kém ấn tượng của Tiến Linh](https://tienphong.vn/hlv-le-huynh-duc-ly-giai-phong-do-kem-an-tuong-cua-tien-linh-post1617012.tpo) - 22:05 03/03/2024
 - 👺 [Ngày sinh nhật hồng của người đẹp Ngọc Nữ](https://tienphong.vn/ngay-sinh-nhat-hong-cua-nguoi-dep-ngoc-nu-post1617000.tpo) - 21:51 03/03/2024
-- 💪 [Trực tiếp Man City 1-1 MU &lpar;H2&rpar;: Foden lập siêu phẩm gỡ hòa](https://tienphong.vn/truc-tiep-man-city-1-1-mu-h2-foden-lap-sieu-pham-go-hoa-post1616998.tpo) - 21:50 03/03/2024
+- 💪 [Foden rực sáng, Man City thắng ngược MU đầy cảm xúc](https://tienphong.vn/foden-ruc-sang-man-city-thang-nguoc-mu-day-cam-xuc-post1616998.tpo) - 21:50 03/03/2024
 - 💃 [Sôi nổi hoạt động văn nghệ kỷ niệm ngày Truyền thống Bộ đội Biên phòng](https://tienphong.vn/soi-noi-hoat-dong-van-nghe-ky-niem-ngay-truyen-thong-bo-doi-bien-phong-post1616836.tpo) - 21:49 03/03/2024
 - 🦍 [Showbiz 3/3: Diễm My 9X sau 3 tháng kết hôn](https://tienphong.vn/showbiz-33-diem-my-9x-sau-3-thang-ket-hon-post1616985.tpo) - 21:39 03/03/2024
 - 👹 [Bộ GD&amp;ĐT thông tin về thi tốt nghiệp THPT, tuyển sinh đại học 2024](https://tienphong.vn/bo-gddt-thong-tin-ve-thi-tot-nghiep-thpt-tuyen-sinh-dai-hoc-2024-post1616941.tpo) - 21:28 03/03/2024
