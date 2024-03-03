@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Đề xuất tăng lương cho người quản lý doanh nghiệp nhà nước](https://vnexpress.net/de-xuat-tang-luong-cho-nguoi-quan-ly-doanh-nghiep-nha-nuoc-4717832.html) - 05:46 03/03/2024
+- ⛽️ [Bộ trưởng Nguyễn Chí Dũng: Cần tăng lương cho quản lý doanh nghiệp nhà nước](https://vnexpress.net/bo-truong-nguyen-chi-dung-can-tang-luong-cho-quan-ly-doanh-nghiep-nha-nuoc-4717832.html) - 05:46 03/03/2024
 - 🐲 [HoSE chạy thử hệ thống công nghệ mới KRX](https://vnexpress.net/hose-chay-thu-he-thong-cong-nghe-moi-krx-4717785.html) - 05:15 03/03/2024
 - 🔥 [Bến xe miền Tây chia cổ tức đậm sau năm lãi lớn](https://vnexpress.net/ben-xe-mien-tay-chia-co-tuc-dam-sau-nam-lai-lon-4717760.html) - 02:09 03/03/2024
 - 🐵 [TP HCM sẽ rút ngắn 30% thời gian làm thủ tục đầu tư công](https://vnexpress.net/tp-hcm-se-rut-ngan-30-thoi-gian-lam-thu-tuc-dau-tu-cong-4717691.html) - 01:00 03/03/2024
