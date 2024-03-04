@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Người trẻ thích thử sống tự cung tự cấp](https://vnexpress.net/nguoi-tre-thich-thu-song-tu-cung-tu-cap-4717571.html) - 23:00 03/03/2024
+- 🚀 [Những người trẻ thử sống tự cung tự cấp](https://vnexpress.net/nhung-nguoi-tre-thu-song-tu-cung-tu-cap-4717571.html) - 23:00 03/03/2024
 - 🎓 [Hai lần cùng con vượt cửa tử của mẹ đơn thân](https://vnexpress.net/hai-lan-cung-con-vuot-cua-tu-cua-me-don-than-4717144.html) - 17:00 03/03/2024
 - 🚦 [Số phận người mẹ &#39;vừa ôm con vừa gánh cả thế giới&#39;](https://vnexpress.net/so-phan-nguoi-me-vua-om-con-vua-ganh-ca-the-gioi-4717032.html) - 12:00 03/03/2024
 - 🦣 [Canh riêu, đậu rán kiểu Hà Nội xưa](https://vnexpress.net/canh-rieu-dau-ran-kieu-ha-noi-xua-4717857.html) - 10:31 03/03/2024
