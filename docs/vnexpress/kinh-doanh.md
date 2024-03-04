@@ -6,11 +6,11 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Phố Wall lạc quan về giá vàng tuần này](https://vnexpress.net/pho-wall-lac-quan-ve-gia-vang-tuan-nay-4717907.html) - 17:00 03/03/2024
 - 🐲 [Nợ công của Mỹ tăng 1.000 tỷ USD sau mỗi 100 ngày](https://vnexpress.net/no-cong-cua-my-tang-1-000-ty-usd-sau-moi-100-ngay-4717860.html) - 17:00 03/03/2024
-- 🔥 [Uniqlo Việt Nam cam kết đóng góp phát triển xã hội](https://vnexpress.net/uniqlo-viet-nam-cam-ket-dong-gop-phat-trien-xa-hoi-4717903.html) - 13:00 03/03/2024
-- 🐵 [Chủ tịch EVN, Petrolimex hứa không để thiếu điện, xăng dầu](https://vnexpress.net/chu-tich-evn-petrolimex-hua-khong-de-thieu-dien-xang-dau-4717889.html) - 11:18 03/03/2024
-- 🦅 [Thủ tướng: Doanh nghiệp nhà nước phải liên kết với tư nhân tạo chuỗi giá trị](https://vnexpress.net/thu-tuong-doanh-nghiep-nha-nuoc-phai-lien-ket-voi-tu-nhan-tao-chuoi-gia-tri-4717883.html) - 10:25 03/03/2024
-- 😺 [Bộ trưởng Nguyễn Chí Dũng: Cần tăng lương cho quản lý doanh nghiệp nhà nước](https://vnexpress.net/bo-truong-nguyen-chi-dung-can-tang-luong-cho-quan-ly-doanh-nghiep-nha-nuoc-4717832.html) - 05:46 03/03/2024
-- 🤩 [HoSE chạy thử hệ thống công nghệ mới KRX](https://vnexpress.net/hose-chay-thu-he-thong-cong-nghe-moi-krx-4717785.html) - 05:15 03/03/2024
+- 🔥 [Chủ tịch EVN, Petrolimex hứa không để thiếu điện, xăng dầu](https://vnexpress.net/chu-tich-evn-petrolimex-hua-khong-de-thieu-dien-xang-dau-4717889.html) - 11:18 03/03/2024
+- 🐵 [Thủ tướng: Doanh nghiệp nhà nước phải liên kết với tư nhân tạo chuỗi giá trị](https://vnexpress.net/thu-tuong-doanh-nghiep-nha-nuoc-phai-lien-ket-voi-tu-nhan-tao-chuoi-gia-tri-4717883.html) - 10:25 03/03/2024
+- 🦅 [Bộ trưởng Nguyễn Chí Dũng: Cần tăng lương cho quản lý doanh nghiệp nhà nước](https://vnexpress.net/bo-truong-nguyen-chi-dung-can-tang-luong-cho-quan-ly-doanh-nghiep-nha-nuoc-4717832.html) - 05:46 03/03/2024
+- 😺 [HoSE chạy thử hệ thống công nghệ mới KRX](https://vnexpress.net/hose-chay-thu-he-thong-cong-nghe-moi-krx-4717785.html) - 05:15 03/03/2024
+- 🤩 [Uniqlo Việt Nam cam kết đóng góp phát triển xã hội](https://vnexpress.net/uniqlo-viet-nam-cam-ket-dong-gop-phat-trien-xa-hoi-4717903.html) - 05:00 03/03/2024
 - 🌮 [Bến xe miền Tây chia cổ tức đậm sau năm lãi lớn](https://vnexpress.net/ben-xe-mien-tay-chia-co-tuc-dam-sau-nam-lai-lon-4717760.html) - 02:09 03/03/2024
 - 🧰 [TP HCM sẽ rút ngắn 30% thời gian làm thủ tục đầu tư công](https://vnexpress.net/tp-hcm-se-rut-ngan-30-thoi-gian-lam-thu-tuc-dau-tu-cong-4717691.html) - 01:00 03/03/2024
 - 🤔 [Ngân hàng từng mua lại Signature Bank chật vật](https://vnexpress.net/ngan-hang-tung-mua-lai-signature-bank-chat-vat-4717672.html) - 17:34 02/03/2024
