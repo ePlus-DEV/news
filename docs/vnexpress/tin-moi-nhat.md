@@ -52,5 +52,4 @@ sidebar_position: 9
 - 🎡 [Điểm tin 21h: Thủ tướng đến Australia; Singapore hưởng lợi lớn từ concert Taylor Swift](https://vnexpress.net/diem-tin-21h-thu-tuong-den-australia-singapore-huong-loi-lon-tu-concert-taylor-swift-4718300.html) - 10:07 04/03/2024
 - 👍 [Bốn cách thay thế &#39;You should&#39; trong tiếng Anh](https://vnexpress.net/bon-cach-thay-the-you-should-trong-tieng-anh-4718295.html) - 10:00 04/03/2024
 - 🐎 [&#39;Kẻ xin - người không cho&#39; khi đi bộ qua đường](https://vnexpress.net/ke-xin-nguoi-khong-cho-khi-di-bo-qua-duong-4718286.html) - 10:00 04/03/2024
-- 🏊 [Mắc kẹt trong hôn nhân khi cưới chạy bầu](https://vnexpress.net/mac-ket-trong-hon-nhan-khi-cuoi-chay-bau-4718127.html) - 10:00 04/03/2024
-- 🦩 [Mong chân thành đổi lại chân tình](https://vnexpress.net/mong-chan-thanh-doi-lai-chan-tinh-4718056.html) - 10:00 04/03/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🏊 [Mắc kẹt trong hôn nhân khi cưới chạy bầu](https://vnexpress.net/mac-ket-trong-hon-nhan-khi-cuoi-chay-bau-4718127.html) - 10:00 04/03/2024<!-- vnexpress-tin-moi-nhat:END -->
