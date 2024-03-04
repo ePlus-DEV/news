@@ -526,7 +526,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😺 [Du lịch, học ngoại khóa mùa nóng, cần lưu ý những gì?](https://muctim.tuoitre.vn/du-lich-hoc-ngoai-khoa-mua-nong-can-luu-y-nhung-gi-1012403021309265.htm) - 13:23 03/03/2024
 - 😎 [Thoát mác nghèo khổ, Thái Hòa tái xuất với hình ảnh tài phiệt](https://muctim.tuoitre.vn/thoat-mac-ngheo-kho-thai-hoa-tai-xuat-voi-hinh-anh-tai-phiet-101240303154837183.htm) - 13:21 03/03/2024
 - 🐎 [Cô bạn Trường THCS Hà Huy Tập bán quần áo làm kế hoạch nhỏ](https://muctim.tuoitre.vn/co-ban-truong-thcs-ha-huy-tap-ban-quan-ao-lam-ke-hoach-nho-101240302225852979.htm) - 13:15 03/03/2024
-- 🎓 [Tip chụp ảnh đẹp với hoa bơ vàng Đà Lạt](https://muctim.tuoitre.vn/tip-chup-anh-dep-voi-hoa-bo-vang-da-lat-101240302181058787.htm) - 13:13 03/03/2024
+- 🎓 [Bí quyết chụp ảnh đẹp với hoa bơ vàng Đà Lạt](https://muctim.tuoitre.vn/tip-chup-anh-dep-voi-hoa-bo-vang-da-lat-101240302181058787.htm) - 13:13 03/03/2024
 - 🐎 [Ngày hội tư vấn tuyển sinh hướng nghiệp 2024 tại TP.HCM: điều cần lưu ý trước kỳ thi tốt nghiệp THPT?](https://muctim.tuoitre.vn/ngay-hoi-tu-van-tuyen-sinh-huong-nghiep-2024-tai-tphcm-dieu-can-luu-y-truoc-ky-thi-tot-nghiep-thpt-101240303143740434.htm) - 13:06 03/03/2024
 - 💃 [Nữ sinh Trường THCS Lạc Hồng gây sốt với nghiên cứu về flex](https://muctim.tuoitre.vn/nu-sinh-truong-thcs-lac-hong-gay-sot-voi-nghien-cuu-ve-flex-10124022709563821.htm) - 03:00 03/03/2024
 - 🪜 [Top 5 môn thể thao giúp teen khám phá bản thân](https://muctim.tuoitre.vn/top-5-mon-the-thao-giup-teen-kham-pha-ban-than-101240226223733153.htm) - 00:01 03/03/2024
