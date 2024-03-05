@@ -143,7 +143,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Người dùng hoang mang cảnh báo Facebook bị lỗi](https://thanhnien.vn/nguoi-dung-hoang-mang-canh-bao-facebook-bi-loi-185240305230036218.htm) - 16:11 05/03/2024
+- 🤠 [Người dùng hoang mang cảnh báo Facebook bị lỗi, Zalo gặp hiện tượng &#39;quá tải&#39;](https://thanhnien.vn/nguoi-dung-hoang-mang-canh-bao-facebook-bi-loi-185240305230036218.htm) - 16:11 05/03/2024
 - 🥸 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 6.3.2024](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-632024-18524030421470936.htm) - 16:10 05/03/2024
 - 🌁 [Du khách đến Thượng Hải nên chọn khách sạn nào đẹp và có vị trí lý tưởng?](https://thanhnien.vn/thoi-trang-tre/du-khach-den-thuong-hai-nen-chon-khach-san-nao-dep-va-co-vi-tri-ly-tuong-185240303201625997.htm) - 16:00 05/03/2024
 - 🤡 [Điểm xung đột: Xuồng tự sát Ukraine hạ tàu Nga; Triều Tiên cảnh báo chiến tranh hạt nhân](https://thanhnien.vn/diem-xung-dot-xuong-tu-sat-ukraine-ha-tau-nga-trieu-tien-canh-bao-chien-tranh-hat-nhan-185240305174940265.htm) - 15:52 05/03/2024
