@@ -14,7 +14,7 @@ sidebar_position: 1
 - 👺 [Đi bộ thể dục, hai người bị xe đâm tử vong](https://vnexpress.net/di-bo-the-duc-hai-nguoi-bi-xe-dam-tu-vong-4718641.html) - 07:25 05/03/2024
 - 🧑‍🏫 [Cháy bãi ôtô ở TP HCM](https://vnexpress.net/chay-bai-oto-o-tp-hcm-4718621.html) - 06:28 05/03/2024
 - 🚦 [Tài xế vi phạm nồng độ cồn khi chở 10 người trên cao tốc](https://vnexpress.net/tai-xe-vi-pham-nong-do-con-khi-cho-10-nguoi-tren-cao-toc-4718561.html) - 04:54 05/03/2024
-- 🎉 [Xe container đâm vào ôtô giường nằm, 5 người chết](https://vnexpress.net/oto-giuong-nam-va-cham-xe-container-5-nguoi-chet-4718387.html) - 23:43 04/03/2024
+- 🎉 [Xe container đâm vào ôtô giường nằm, 6 người chết](https://vnexpress.net/oto-giuong-nam-va-cham-xe-container-5-nguoi-chet-4718387.html) - 23:43 04/03/2024
 - 🦒 [Dự án đường nối TP HCM với cao tốc sau 9 năm khởi công](https://vnexpress.net/du-an-duong-noi-tp-hcm-voi-cao-toc-sau-9-nam-khoi-cong-4718330.html) - 23:00 04/03/2024
 - 🤗 [Đề nghị Samsung hỗ trợ đào tạo 50.000 kỹ sư bán dẫn](https://vnexpress.net/de-nghi-samsung-ho-tro-dao-tao-50-000-ky-su-ban-dan-4718366.html) - 17:26 04/03/2024
 - 💼 [Hơn 500 người sẽ tham gia đại lễ cầu quốc thái dân an](https://vnexpress.net/hon-500-nguoi-se-tham-gia-dai-le-cau-quoc-thai-dan-an-4718336.html) - 14:00 04/03/2024
