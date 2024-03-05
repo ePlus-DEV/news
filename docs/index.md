@@ -27,7 +27,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Sau hôn nhân thất bại, em tìm người đàn ông dễ mến, hòa đồng](https://vnexpress.net/sau-hon-nhan-that-bai-em-tim-nguoi-dan-ong-de-men-hoa-dong-4718452.html) - 16:00 05/03/2024
-- 🧰 [Xe chở gas cháy lan sang kho sơn, 3 người bị thương](https://vnexpress.net/xe-cho-gas-chay-lan-sang-kho-son-3-nguoi-bi-thuong-4718837.html) - 15:58 05/03/2024
+- 🧰 [Xe chở gas phát nổ, 3 người bị thương](https://vnexpress.net/xe-cho-gas-phat-no-3-nguoi-bi-thuong-4718837.html) - 15:58 05/03/2024
 - 🥰 [Tổng thống Pháp kêu gọi châu Âu &#39;không hèn nhát&#39;](https://vnexpress.net/tong-thong-phap-keu-goi-chau-au-khong-hen-nhat-4718834.html) - 15:56 05/03/2024
 - 🌏 [Nghiên cứu mở chi nhánh các đại học Australia tại Việt Nam](https://vnexpress.net/nghien-cuu-mo-chi-nhanh-cac-dai-hoc-australia-tai-viet-nam-4718831.html) - 15:48 05/03/2024
 - 🧐 [Facebook và Messenger gặp sự cố trên tất cả nền tảng](https://vnexpress.net/facebook-va-messenger-gap-su-co-tren-tat-ca-nen-tang-4718833.html) - 15:36 05/03/2024
