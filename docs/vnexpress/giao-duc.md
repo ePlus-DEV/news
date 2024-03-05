@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Du học sinh ở Australia chật vật vì giờ làm giảm, giá cả leo thang](https://vnexpress.net/du-hoc-sinh-o-australia-chat-vat-vi-gio-lam-giam-gia-ca-leo-thang-4718686.html) - 17:26 05/03/2024
-- 🦆 [Nghiên cứu mở chi nhánh các đại học Australia tại Việt Nam](https://vnexpress.net/nghien-cuu-mo-chi-nhanh-cac-dai-hoc-australia-tai-viet-nam-4718831.html) - 15:48 05/03/2024
+- 🦆 [Nghiên cứu mở phân hiệu các đại học Australia tại Việt Nam](https://vnexpress.net/nghien-cuu-mo-phan-hieu-cac-dai-hoc-australia-tai-viet-nam-4718831.html) - 15:48 05/03/2024
 - 🦩 [&#39;Vua Lợn&#39; là biệt danh của vị vua nào trong lịch sử Việt Nam?](https://vnexpress.net/vua-lon-la-biet-danh-cua-vi-vua-nao-trong-lich-su-viet-nam-4718774.html) - 13:37 05/03/2024
 - 🌮 [Nhà xuất bản Giáo dục: Giá sách giáo khoa sẽ giảm tới 24%](https://vnexpress.net/nha-xuat-ban-giao-duc-gia-sach-giao-khoa-se-giam-toi-24-4718773.html) - 12:35 05/03/2024
 - 🔭 [Samsung tuyển 40 sinh viên ưu tú để đào tạo ngành bán dẫn](https://vnexpress.net/samsung-tuyen-40-sinh-vien-uu-tu-de-dao-tao-nganh-ban-dan-4718586.html) - 11:08 05/03/2024
