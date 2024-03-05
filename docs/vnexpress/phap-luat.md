@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Bà Trương Mỹ Lan hầu tòa](https://vnexpress.net/ba-truong-my-lan-hau-toa-4718036.html) - 22:00 04/03/2024
+- 😎 [An ninh thắt chặt tại phiên xử bà Trương Mỹ Lan](https://vnexpress.net/an-ninh-that-chat-tai-phien-xu-ba-truong-my-lan-4718036.html) - 22:00 04/03/2024
 - 🥰 [Đòn trả thù mù quáng vì cuộc tình bất chính của vợ](https://vnexpress.net/don-tra-thu-mu-quang-vi-cuoc-tinh-bat-chinh-cua-vo-4718316.html) - 17:00 04/03/2024
 - 🎓 [Truy sát gia đình anh trai do mâu thuẫn đất đai](https://vnexpress.net/truy-sat-gia-dinh-anh-trai-do-mau-thuan-dat-dai-4718343.html) - 15:01 04/03/2024
 - 🤓 [Tài xế xe khách vượt ẩu, tông 2 học sinh tử vong](https://vnexpress.net/tai-xe-xe-khach-vuot-au-tong-2-hoc-sinh-tu-vong-4718342.html) - 14:49 04/03/2024
