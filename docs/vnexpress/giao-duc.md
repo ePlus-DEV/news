@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Giá sách giáo khoa sẽ giảm tới 24%](https://vnexpress.net/gia-sach-giao-khoa-se-giam-toi-24-4718773.html) - 12:35 05/03/2024
+- 🤓 [Nhà xuất bản Giáo dục: Giá sách giáo khoa sẽ giảm tới 24%](https://vnexpress.net/nha-xuat-ban-giao-duc-gia-sach-giao-khoa-se-giam-toi-24-4718773.html) - 12:35 05/03/2024
 - 🦆 [Samsung tuyển 40 sinh viên ưu tú để đào tạo ngành bán dẫn](https://vnexpress.net/samsung-tuyen-40-sinh-vien-uu-tu-de-dao-tao-nganh-ban-dan-4718586.html) - 11:08 05/03/2024
 - 🦩 [ĐH Duy Tân thương mại hóa sản phẩm được cấp bằng sáng chế](https://vnexpress.net/dh-duy-tan-thuong-mai-hoa-san-pham-duoc-cap-bang-sang-che-4718725.html) - 09:15 05/03/2024
 - 🌮 [Hà Nội có thể dừng tuyển lớp 6 chuyên Amsterdam](https://vnexpress.net/ha-noi-co-the-dung-tuyen-lop-6-chuyen-amsterdam-4718662.html) - 07:56 05/03/2024
