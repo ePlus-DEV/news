@@ -35,7 +35,7 @@ sidebar_position: 9
 - 🦆 [Sau hôn nhân thất bại, em tìm người đàn ông dễ mến, hòa đồng](https://vnexpress.net/sau-hon-nhan-that-bai-em-tim-nguoi-dan-ong-de-men-hoa-dong-4718452.html) - 16:00 05/03/2024
 - 🚦 [Xe chở gas bốc cháy lan sang nhà xưởng, 3 người bị thương](https://vnexpress.net/xe-cho-gas-boc-chay-lan-sang-nha-xuong-3-nguoi-bi-thuong-4718837.html) - 15:58 05/03/2024
 - 💫 [Tổng thống Pháp kêu gọi châu Âu &#39;không hèn nhát&#39;](https://vnexpress.net/tong-thong-phap-keu-goi-chau-au-khong-hen-nhat-4718834.html) - 15:56 05/03/2024
-- 🎉 [Nghiên cứu mở chi nhánh các đại học Australia tại Việt Nam](https://vnexpress.net/nghien-cuu-mo-chi-nhanh-cac-dai-hoc-australia-tai-viet-nam-4718831.html) - 15:48 05/03/2024
+- 🎉 [Nghiên cứu mở phân hiệu các đại học Australia tại Việt Nam](https://vnexpress.net/nghien-cuu-mo-phan-hieu-cac-dai-hoc-australia-tai-viet-nam-4718831.html) - 15:48 05/03/2024
 - 🌋 [Facebook và Messenger gặp sự cố trên tất cả nền tảng](https://vnexpress.net/facebook-va-messenger-gap-su-co-tren-tat-ca-nen-tang-4718833.html) - 15:36 05/03/2024
 - 🤖 [Tài xế ôtô tải cản đường xe cấp cứu bị phạt](https://vnexpress.net/tai-xe-oto-tai-can-duong-xe-cap-cuu-bi-phat-4718830.html) - 15:20 05/03/2024
 - 🦏 [Kế toán chỉnh sửa số liệu, biển thủ tiền của ông chủ Hàn Quốc](https://vnexpress.net/ke-toan-chinh-sua-so-lieu-bien-thu-tien-cua-ong-chu-han-quoc-4718818.html) - 15:06 05/03/2024
