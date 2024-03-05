@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Hà Nội dừng tuyển lớp 6 chuyên Amsterdam](https://vnexpress.net/ha-noi-dung-tuyen-lop-6-chuyen-amsterdam-4718662.html) - 07:56 05/03/2024
+- 🤓 [Hà Nội xem xét lại việc tuyển lớp 6 chuyên Amsterdam](https://vnexpress.net/ha-noi-xem-xet-lai-viec-tuyen-lop-6-chuyen-amsterdam-4718662.html) - 07:56 05/03/2024
 - 🦆 [Học sinh chuyên không được thi học sinh giỏi ở môn chuyên](https://vnexpress.net/hoc-sinh-chuyen-khong-duoc-thi-hoc-sinh-gioi-o-mon-chuyen-4718613.html) - 07:10 05/03/2024
 - 🦩 [&#39;Người thừa kế&#39;, &#39;di chúc&#39; là gì trong tiếng Anh?](https://vnexpress.net/nguoi-thua-ke-di-chuc-la-gi-trong-tieng-anh-4718577.html) - 04:32 05/03/2024
 - 🌮 [Hầu hết ca thi đánh giá năng lực của ĐH Quốc gia Hà Nội hết chỗ](https://vnexpress.net/hau-het-ca-thi-danh-gia-nang-luc-cua-dh-quoc-gia-ha-noi-het-cho-4718498.html) - 02:55 05/03/2024
