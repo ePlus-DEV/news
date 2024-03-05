@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Xe giường nằm biến dạng sau tai nạn với xe container](https://vnexpress.net/xe-giuong-nam-bien-dang-sau-tai-nan-voi-xe-container-4718658.html) - 08:39 05/03/2024
+- 🦒 [Ôtô giường nằm biến dạng sau tai nạn với xe container](https://vnexpress.net/oto-giuong-nam-bien-dang-sau-tai-nan-voi-xe-container-4718658.html) - 08:39 05/03/2024
 - 🤓 [Tài xế ôtô giường nằm: &#39;Xe container chao nghiêng lao về phía tôi&#39;](https://vnexpress.net/tai-xe-oto-giuong-nam-xe-container-chao-nghieng-lao-ve-phia-toi-4718588.html) - 08:16 05/03/2024
 - ⚗️ [Đi bộ thể dục, hai người bị xe đâm tử vong](https://vnexpress.net/di-bo-the-duc-hai-nguoi-bi-xe-dam-tu-vong-4718641.html) - 07:25 05/03/2024
 - 🌊 [Cháy bãi ôtô ở TP HCM](https://vnexpress.net/chay-bai-oto-o-tp-hcm-4718621.html) - 06:28 05/03/2024
