@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Đề xuất chính sách thu nhập đặc thù cho công chức Đà Nẵng](https://vnexpress.net/de-xuat-chinh-sach-thu-nhap-dac-thu-cho-cong-chuc-da-nang-4718591.html) - 10:09 05/03/2024
+- 🦒 [Đề xuất tăng thu nhập cho công chức Đà Nẵng](https://vnexpress.net/de-xuat-tang-thu-nhap-cho-cong-chuc-da-nang-4718591.html) - 10:09 05/03/2024
 - 🤓 [Thành ủy TP HCM có tân Trưởng ban Tổ chức](https://vnexpress.net/thanh-uy-tp-hcm-co-tan-truong-ban-to-chuc-4718744.html) - 09:59 05/03/2024
 - ⚗️ [Giải cứu nạn nhân khỏi ôtô mắc kẹt dưới gầm xe tải](https://vnexpress.net/giai-cuu-nan-nhan-khoi-oto-mac-ket-duoi-gam-xe-tai-4718699.html) - 09:25 05/03/2024
 - 🌊 [Ôtô giường nằm biến dạng sau tai nạn với xe container](https://vnexpress.net/oto-giuong-nam-bien-dang-sau-tai-nan-voi-xe-container-4718658.html) - 08:39 05/03/2024
