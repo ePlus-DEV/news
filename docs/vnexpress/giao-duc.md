@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Hơn 95.000 thí sinh đăng ký thi đánh giá năng lực ĐH Quốc gia Hà Nội](https://vnexpress.net/hon-95-000-thi-sinh-dang-ky-thi-danh-gia-nang-luc-dh-quoc-gia-ha-noi-4719057.html) - 07:08 06/03/2024
-- 🦆 [Phụ huynh hụt hẫng, lo dừng tuyển lớp 6 trường Ams](https://vnexpress.net/phu-huynh-hut-hang-lo-dung-tuyen-lop-6-truong-ams-4718930.html) - 06:00 06/03/2024
+- 🦆 [Phụ huynh hụt hẫng, lo trường Ams dừng tuyển lớp 6](https://vnexpress.net/phu-huynh-hut-hang-lo-truong-ams-dung-tuyen-lop-6-4718930.html) - 06:00 06/03/2024
 - 🦩 [Rút ngắn 3 năm đào tạo Kỹ thuật hàng không nhờ hợp tác doanh nghiệp](https://vnexpress.net/rut-ngan-3-nam-dao-tao-ky-thuat-hang-khong-nho-hop-tac-doanh-nghiep-4718695.html) - 22:48 05/03/2024
 - 🌮 [Du học sinh ở Australia chật vật vì giờ làm giảm, giá cả leo thang](https://vnexpress.net/du-hoc-sinh-o-australia-chat-vat-vi-gio-lam-giam-gia-ca-leo-thang-4718686.html) - 17:26 05/03/2024
 - 🔭 [Nghiên cứu mở phân hiệu các đại học Australia tại Việt Nam](https://vnexpress.net/nghien-cuu-mo-phan-hieu-cac-dai-hoc-australia-tai-viet-nam-4718831.html) - 15:48 05/03/2024
