@@ -9,10 +9,10 @@ sidebar_position: 5
 - 🌮 [Sắc vóc thủ môn &#39;đẹp nhất Trung Quốc&#39;](https://vnexpress.net/sac-voc-thu-mon-dep-nhat-trung-quoc-4718969.html) - 10:27 06/03/2024
 - 🧠 [Nghệ sĩ giao hưởng Pháp đến Việt Nam biểu diễn](https://vnexpress.net/nghe-si-giao-huong-phap-den-viet-nam-bieu-dien-4719142.html) - 10:20 06/03/2024
 - 👨‍🏫 [&#39;Kẻo tro bay mất&#39; - những phận đời qua ngòi bút Việt Linh](https://vnexpress.net/keo-tro-bay-mat-nhung-phan-doi-qua-ngoi-but-viet-linh-4719082.html) - 09:46 06/03/2024
-- ⚗️ [Taylor Swift kêu gọi fan tham gia bầu cử tổng thống](https://vnexpress.net/taylor-swift-keu-goi-fan-tham-gia-bau-cu-tong-thong-4718979.html) - 08:45 06/03/2024
+- ⚗️ [Taylor Swift kêu gọi fan bầu cử tổng thống](https://vnexpress.net/taylor-swift-keu-goi-fan-bau-cu-tong-thong-4718979.html) - 08:45 06/03/2024
 - 😎 [Chiếc túi làm từ 99% không khí](https://vnexpress.net/chiec-tui-lam-tu-99-khong-khi-4718698.html) - 08:13 06/03/2024
 - 🫣 [Hậu trường &#39;Thần điêu đại hiệp&#39; 1995 gây chú ý](https://vnexpress.net/hau-truong-than-dieu-dai-hiep-1995-gay-chu-y-4719103.html) - 07:38 06/03/2024
-- 🪄 [Các nghệ sĩ xúc động nhận danh hiệu NSND, NSƯT](https://vnexpress.net/cac-nghe-si-xuc-dong-nhan-danh-hieu-nsnd-nsut-4719010.html) - 05:40 06/03/2024
+- 🪄 [Nghệ sĩ xúc động nhận danh hiệu NSND, NSƯT](https://vnexpress.net/nghe-si-xuc-dong-nhan-danh-hieu-nsnd-nsut-4719010.html) - 05:40 06/03/2024
 - 🤓 [Lisa, Lưu Diệc Phi gây sốt bên dàn sao Hollywood](https://vnexpress.net/lisa-luu-diec-phi-gay-sot-ben-dan-sao-hollywood-4718932.html) - 03:04 06/03/2024
 - 🫶 [Những yêu cầu của Taylor Swift khi đi lưu diễn](https://vnexpress.net/nhung-yeu-cau-cua-taylor-swift-khi-di-luu-dien-4718470.html) - 02:28 06/03/2024
 - 🧑‍🏫 [Biệt thự gần 600 m2 của Lệ Quyên ở Thủ Đức](https://vnexpress.net/biet-thu-gan-600-m2-cua-le-quyen-o-thu-duc-4718601.html) - 17:00 05/03/2024
