@@ -37,8 +37,8 @@ sidebar_position: 3
 - 🫣 [Giá USD tự do tăng mạnh](https://vnexpress.net/gia-usd-tu-do-tang-manh-4718129.html) - 05:47 04/03/2024
 - 🌏 [OPEC+ siết cung dầu đến hết quý II](https://vnexpress.net/opec-siet-cung-dau-den-het-quy-ii-4718039.html) - 04:10 04/03/2024
 - ⚗️ [Từ cam kết Ngân hàng Xanh đến chiến dịch biến bãi rác thành sân chơi](https://vnexpress.net/tu-cam-ket-ngan-hang-xanh-den-chien-dich-bien-bai-rac-thanh-san-choi-4706371.html) - 03:04 04/03/2024
-- 🕯 [Phố Wall lạc quan về giá vàng tuần này](https://vnexpress.net/pho-wall-lac-quan-ve-gia-vang-tuan-nay-4717907.html) - 17:00 03/03/2024
-- 👍 [Nợ công của Mỹ tăng 1.000 tỷ USD sau mỗi 100 ngày](https://vnexpress.net/no-cong-cua-my-tang-1-000-ty-usd-sau-moi-100-ngay-4717860.html) - 17:00 03/03/2024
+- 🕯 [Nợ công của Mỹ tăng 1.000 tỷ USD sau mỗi 100 ngày](https://vnexpress.net/no-cong-cua-my-tang-1-000-ty-usd-sau-moi-100-ngay-4717860.html) - 17:00 03/03/2024
+- 👍 [Phố Wall lạc quan về giá vàng tuần này](https://vnexpress.net/pho-wall-lac-quan-ve-gia-vang-tuan-nay-4717907.html) - 17:00 03/03/2024
 - 🤠 [Chủ tịch EVN hứa không để thiếu điện](https://vnexpress.net/chu-tich-evn-hua-khong-de-thieu-dien-4717889.html) - 11:18 03/03/2024
 - 🌊 [Thủ tướng: Doanh nghiệp nhà nước phải liên kết với tư nhân tạo chuỗi giá trị](https://vnexpress.net/thu-tuong-doanh-nghiep-nha-nuoc-phai-lien-ket-voi-tu-nhan-tao-chuoi-gia-tri-4717883.html) - 10:25 03/03/2024
 - 🌈 [Bộ trưởng Nguyễn Chí Dũng: Cần tăng lương cho quản lý doanh nghiệp nhà nước](https://vnexpress.net/bo-truong-nguyen-chi-dung-can-tang-luong-cho-quan-ly-doanh-nghiep-nha-nuoc-4717832.html) - 05:46 03/03/2024
