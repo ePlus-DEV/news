@@ -605,7 +605,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🔭 [Thiếu niên 14 tuổi tử vong do điều khiển xe máy va chạm giao thông](https://tienphong.vn/thieu-nien-14-tuoi-tu-vong-do-dieu-khien-xe-may-va-cham-giao-thong-post1617903.tpo) - 17:58 06/03/2024
 - 🧰 [Bản tin Hình sự: Vì sao &#39;Tuấn phò mã&#39; bị bắt?](https://tienphong.vn/ban-tin-hinh-su-vi-sao-tuan-pho-ma-bi-bat-post1617899.tpo) - 17:56 06/03/2024
 - 💂 [Huy động hơn 400 cán bộ, chiến sỹ truy bắt nghi phạm giết người](https://tienphong.vn/huy-dong-hon-400-can-bo-chien-sy-truy-bat-nghi-pham-giet-nguoi-post1617846.tpo) - 17:55 06/03/2024
-- 🦏 [Bộ Y tế bổ nhiệm thêm 2 Phó giám đốc Bệnh viện Chợ Rẫy](https://tienphong.vn/bo-y-te-bo-nhiem-them-2-pho-giam-doc-benh-vien-cho-ray-post1617891.tpo) - 17:49 06/03/2024
+- 🦏 [Bộ Y tế bổ nhiệm 2 phó giám đốc Bệnh viện Chợ Rẫy](https://tienphong.vn/bo-y-te-bo-nhiem-2-pho-giam-doc-benh-vien-cho-ray-post1617891.tpo) - 17:49 06/03/2024
 - 🌋 [Thủ tướng đề xuất 3 đột phá, 3 tăng cường, 3 cùng trong quan hệ ASEAN-Australia](https://tienphong.vn/thu-tuong-de-xuat-3-dot-pha-3-tang-cuong-3-cung-trong-quan-he-asean-australia-post1617901.tpo) - 17:45 06/03/2024
 - 🧰 [Bác sĩ tính bỏ nghề về làm nông, Tổng thống Hàn Quốc tuyên bố cứng rắn](https://tienphong.vn/bac-si-tinh-bo-nghe-ve-lam-nong-tong-thong-han-quoc-tuyen-bo-cung-ran-post1617885.tpo) - 17:34 06/03/2024
 - 🦩 [Thủ tướng Phạm Minh Chính bắt đầu thăm chính thức Australia](https://tienphong.vn/thu-tuong-pham-minh-chinh-bat-dau-tham-chinh-thuc-australia-post1617897.tpo) - 17:31 06/03/2024
