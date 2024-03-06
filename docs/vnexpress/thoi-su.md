@@ -9,7 +9,7 @@ sidebar_position: 1
 - ⚗️ [Cầu dài nhất cao tốc Bắc Nam trước ngày hợp long](https://vnexpress.net/cau-dai-nhat-cao-toc-bac-nam-truoc-ngay-hop-long-4718596.html) - 22:00 05/03/2024
 - 🌊 [Bộ trưởng Giao thông Vận tải: &#39;Xây cao tốc phải có trạm dừng nghỉ&#39;](https://vnexpress.net/bo-truong-giao-thong-van-tai-xay-cao-toc-phai-co-tram-dung-nghi-4718836.html) - 17:00 05/03/2024
 - 🎓 [Nhiễm mặn ảnh hưởng hơn 100.000 hộ dân ở Bến Tre, Tiền Giang](https://vnexpress.net/nhiem-man-anh-huong-hon-100-000-ho-dan-o-ben-tre-tien-giang-4718814.html) - 17:00 05/03/2024
-- 🔥 [Xe chở gas bốc cháy lan sang nhà xưởng, 3 người bị thương](https://vnexpress.net/xe-cho-gas-boc-chay-lan-sang-nha-xuong-3-nguoi-bi-thuong-4718837.html) - 15:58 05/03/2024
+- 🔥 [Cháy xưởng sang chiết gas, 3 người bị bỏng](https://vnexpress.net/chay-xuong-sang-chiet-gas-3-nguoi-bi-bong-4718837.html) - 15:58 05/03/2024
 - 🦏 [Tài xế ôtô tải cản đường xe cấp cứu bị phạt](https://vnexpress.net/tai-xe-oto-tai-can-duong-xe-cap-cuu-bi-phat-4718830.html) - 15:20 05/03/2024
 - 👺 [Chuẩn bị chất vấn bộ trưởng Tài chính, Ngoại giao](https://vnexpress.net/chuan-bi-chat-van-bo-truong-tai-chinh-ngoai-giao-4718795.html) - 12:33 05/03/2024
 - 🧑‍🏫 [Không khí lạnh tràn về miền Bắc từ chiều 6/3](https://vnexpress.net/khong-khi-lanh-tran-ve-mien-bac-tu-chieu-6-3-4718751.html) - 10:36 05/03/2024
