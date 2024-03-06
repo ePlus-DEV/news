@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Giới nghệ sĩ xúc động nhận danh hiệu NSND, NSƯT](https://vnexpress.net/gioi-nghe-si-xuc-dong-nhan-danh-hieu-nsnd-nsut-4719010.html) - 05:40 06/03/2024
+- 🌏 [Các nghệ sĩ xúc động nhận danh hiệu NSND, NSƯT](https://vnexpress.net/cac-nghe-si-xuc-dong-nhan-danh-hieu-nsnd-nsut-4719010.html) - 05:40 06/03/2024
 - 💫 [Lisa, Lưu Diệc Phi gây sốt bên dàn sao Hollywood](https://vnexpress.net/lisa-luu-diec-phi-gay-sot-ben-dan-sao-hollywood-4718932.html) - 03:04 06/03/2024
 - 🌮 [Những yêu cầu của Taylor Swift khi đi lưu diễn](https://vnexpress.net/nhung-yeu-cau-cua-taylor-swift-khi-di-luu-dien-4718470.html) - 02:28 06/03/2024
 - 🧠 [Biệt thự gần 600 m2 của Lệ Quyên ở Thủ Đức](https://vnexpress.net/biet-thu-gan-600-m2-cua-le-quyen-o-thu-duc-4718601.html) - 17:00 05/03/2024
