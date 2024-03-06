@@ -29,10 +29,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [Nhiều người vẫn chưa thể đăng nhập ứng dụng Facebook](https://vnexpress.net/nhieu-nguoi-van-chua-the-dang-nhap-ung-dung-facebook-4719008.html) - 05:11 06/03/2024
 - 🧰 [Vật thể nhanh nhất trên Trái Đất](https://vnexpress.net/vat-the-nhanh-nhat-tren-trai-dat-4719054.html) - 05:08 06/03/2024
 - 🥰 [Hãng xe điện Mỹ cảnh báo sắp hết tiền](https://vnexpress.net/hang-xe-dien-my-canh-bao-sap-het-tien-4719027.html) - 05:06 06/03/2024
-- 🌏 [&#39;CEO làm thuê&#39; giàu hơn Tim Cook, Satya Nadella](https://vnexpress.net/ceo-lam-thue-giau-hon-tim-cook-satya-nadella-4718475.html) - 05:00 06/03/2024
+- 🌏 [Trẻ bổ sung nhiều canxi có dậy thì sớm?](https://vnexpress.net/tre-bo-sung-nhieu-canxi-co-day-thi-som-4719005.html) - 05:00 06/03/2024
 - 🧐 [Thierry Henry chỉ ra điểm yếu của Arsenal](https://vnexpress.net/thierry-henry-chi-ra-diem-yeu-cua-arsenal-4718891.html) - 05:00 06/03/2024
 - 💫 [Samsung nhầm video quay bằng iPhone là Galaxy S24 Ultra](https://vnexpress.net/samsung-nham-video-quay-bang-iphone-la-galaxy-s24-ultra-4718845.html) - 05:00 06/03/2024
-- 😺 [Trẻ bổ sung nhiều canxi có dậy thì sớm?](https://vnexpress.net/tre-bo-sung-nhieu-canxi-co-day-thi-som-4719005.html) - 05:00 06/03/2024
+- 😺 [&#39;CEO làm thuê&#39; giàu hơn Tim Cook, Satya Nadella](https://vnexpress.net/ceo-lam-thue-giau-hon-tim-cook-satya-nadella-4718475.html) - 05:00 06/03/2024
 - 🕯 [Hành trình ông Trump giành lại vị thế ở đảng Cộng hòa](https://vnexpress.net/hanh-trinh-ong-trump-gianh-lai-vi-the-o-dang-cong-hoa-4718040.html) - 04:58 06/03/2024
 - 💃 [Bạn có phải thuộc con giáp vĩnh cửa và bất tử?](https://vnexpress.net/ban-co-phai-thuoc-con-giap-vinh-cua-va-bat-tu-4718712.html) - 04:55 06/03/2024
 - 💂 [Đề xuất siết quảng cáo của người nổi tiếng trên mạng xã hội](https://vnexpress.net/de-xuat-siet-quang-cao-cua-nguoi-noi-tieng-tren-mang-xa-hoi-4719013.html) - 04:49 06/03/2024
@@ -47,13 +47,13 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - ⚗️ [Hơn 2.000 học sinh tham gia cuộc thi robotics tại Đại học FPT](https://vnexpress.net/hon-2-000-hoc-sinh-tham-gia-cuoc-thi-robotics-tai-dai-hoc-fpt-4718730.html) - 04:15 06/03/2024
 - 🫣 [Vương phi Kate lần đầu xuất hiện sau phẫu thuật](https://vnexpress.net/vuong-phi-kate-lan-dau-xuat-hien-sau-phau-thuat-4718935.html) - 04:09 06/03/2024
 - 👨‍🏫 [Quân y Việt Nam khám bệnh cho phụ nữ, trẻ em châu Phi](https://vnexpress.net/quan-y-viet-nam-kham-benh-cho-phu-nu-tre-em-chau-phi-4718974.html) - 04:03 06/03/2024
-- 🐻 [Chàng trai Thái Bình chung tình chờ em](https://vnexpress.net/chang-trai-thai-binh-chung-tinh-cho-em-4718920.html) - 04:00 06/03/2024
-- 😺 [Vợ &#39;khủng bố&#39; tôi từ trước ngày 8/3](https://vnexpress.net/vo-khung-bo-toi-tu-truoc-ngay-8-3-4718899.html) - 04:00 06/03/2024
-- 🤔 [Klopp: &#39;Nếu không phải Messi, bạn phải phòng ngự&#39;](https://vnexpress.net/klopp-neu-khong-phai-messi-ban-phai-phong-ngu-4718859.html) - 04:00 06/03/2024
+- 🐻 [Turkmenistan Airlines lần đầu mở chuyến bay thẳng đến Việt Nam](https://vnexpress.net/turkmenistan-airlines-lan-dau-mo-chuyen-bay-thang-den-viet-nam-4719006.html) - 04:00 06/03/2024
+- 😺 [Hơn 1.300 người tham gia chuỗi giải chạy của AIA Việt Nam](https://vnexpress.net/hon-1-300-nguoi-tham-gia-chuoi-giai-chay-cua-aia-viet-nam-4718991.html) - 04:00 06/03/2024
+- 🤔 [Tại sao phụ nữ dễ thoái hóa khớp hơn nam giới?](https://vnexpress.net/tai-sao-phu-nu-de-thoai-hoa-khop-hon-nam-gioi-4718973.html) - 04:00 06/03/2024
 - 🌮 [Người phụ nữ bị xe tải cuốn vào gầm](https://vnexpress.net/nguoi-phu-nu-bi-xe-tai-cuon-vao-gam-4718921.html) - 04:00 06/03/2024
-- 🦩 [Turkmenistan Airlines lần đầu mở chuyến bay thẳng đến Việt Nam](https://vnexpress.net/turkmenistan-airlines-lan-dau-mo-chuyen-bay-thang-den-viet-nam-4719006.html) - 04:00 06/03/2024
-- 📝 [Hơn 1.300 người tham gia chuỗi giải chạy của AIA Việt Nam](https://vnexpress.net/hon-1-300-nguoi-tham-gia-chuoi-giai-chay-cua-aia-viet-nam-4718991.html) - 04:00 06/03/2024
-- 🕴 [Tại sao phụ nữ dễ thoái hóa khớp hơn nam giới?](https://vnexpress.net/tai-sao-phu-nu-de-thoai-hoa-khop-hon-nam-gioi-4718973.html) - 04:00 06/03/2024
+- 🦩 [Chàng trai Thái Bình chung tình chờ em](https://vnexpress.net/chang-trai-thai-binh-chung-tinh-cho-em-4718920.html) - 04:00 06/03/2024
+- 📝 [Vợ &#39;khủng bố&#39; tôi từ trước ngày 8/3](https://vnexpress.net/vo-khung-bo-toi-tu-truoc-ngay-8-3-4718899.html) - 04:00 06/03/2024
+- 🕴 [Klopp: &#39;Nếu không phải Messi, bạn phải phòng ngự&#39;](https://vnexpress.net/klopp-neu-khong-phai-messi-ban-phai-phong-ngu-4718859.html) - 04:00 06/03/2024
 - 🐲 [CapitaLand đặt mục tiêu phát triển 27.000 căn hộ tại Việt Nam](https://vnexpress.net/capitaland-dat-muc-tieu-phat-trien-27-000-can-ho-tai-viet-nam-4718707.html) - 04:00 06/03/2024
 - 🌜 [Có nên đầu tư khi cổ phiếu ngân hàng đạt đỉnh?](https://vnexpress.net/co-nen-dau-tu-khi-co-phieu-ngan-hang-dat-dinh-4718550.html) - 04:00 06/03/2024
 - 💄 [Mỹ nói Ukraine không yêu cầu nước ngoài gửi quân đến](https://vnexpress.net/my-noi-ukraine-khong-yeu-cau-nuoc-ngoai-gui-quan-den-4718873.html) - 03:55 06/03/2024
