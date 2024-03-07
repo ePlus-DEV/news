@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Được tạm sử dụng rừng để thi công đường dây 500 kV mạch 3 ra Bắc](https://vnexpress.net/duoc-tam-su-dung-rung-de-thi-cong-duong-day-500-kv-mach-3-ra-bac-4719748.html) - 14:25 07/03/2024
+- ⛽️ [Được tạm sử dụng rừng để thi công đường dây 500 kV mạch 3 ra Bắc](https://vnexpress.net/tam-tac-dong-vao-rung-thi-cong-duong-day-500-kv-mach-3-4719748.html) - 14:25 07/03/2024
 - 🐲 [Việt Nam là nhà sản xuất đồ nội thất lớn thứ 6 thế giới](https://vnexpress.net/viet-nam-la-nha-san-xuat-do-noi-that-lon-thu-6-the-gioi-4719630.html) - 13:00 07/03/2024
 - 🔥 [Nghiên cứu hỗ trợ doanh nghiệp FDI khi áp thuế tối thiểu toàn cầu](https://vnexpress.net/quy-ho-tro-doanh-nghiep-khi-ap-thue-toi-thieu-toan-cau-4719729.html) - 11:07 07/03/2024
 - 🐵 [Nhiều người đổ đi mua vàng nhẫn trơn](https://vnexpress.net/nhieu-nguoi-do-di-mua-vang-nhan-tron-4719667.html) - 10:20 07/03/2024
