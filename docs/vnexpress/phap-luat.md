@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Trưởng ban quản trị chung cư bị bắt vì &#39;ăn chặn&#39; tiền lắp thang máy](https://vnexpress.net/truong-ban-quan-tri-chung-cu-bi-bat-vi-an-chan-tien-lap-thang-may-4719761.html) - 14:27 07/03/2024
-- 🥰 [Những điều cần biết về di chúc - thừa kế để tránh &#39;gia đình bất hòa&#39;](https://vnexpress.net/nhung-dieu-can-biet-ve-di-chuc-thua-ke-de-tranh-gia-dinh-bat-hoa-4719691.html) - 14:00 07/03/2024
+- 🥰 [Những điều cần biết về di chúc - thừa kế để tránh gia đình bất hòa](https://vnexpress.net/nhung-dieu-can-biet-ve-di-chuc-thua-ke-de-tranh-gia-dinh-bat-hoa-4719691.html) - 14:00 07/03/2024
 - 🎓 [Hàng loạt cựu lãnh đạo SCB khai &#39;nghỉ việc vì không làm theo chỉ đạo sai&#39;](https://vnexpress.net/hang-loat-cuu-lanh-dao-scb-khai-nghi-viec-vi-khong-lam-theo-chi-dao-sai-4719758.html) - 13:58 07/03/2024
 - 🤓 [Cựu phó chủ tịch huyện ở Lâm Đồng bị bắt](https://vnexpress.net/cuu-pho-chu-tich-huyen-o-lam-dong-bi-bat-4719766.html) - 13:17 07/03/2024
 - 🎊 [Kẻ chích điện tra tấn nữ tiếp viên karaoke bị bắt](https://vnexpress.net/ke-chich-dien-tra-tan-nu-tiep-vien-karaoke-bi-bat-4719760.html) - 13:13 07/03/2024
