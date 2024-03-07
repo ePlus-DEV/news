@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Paul Pogba - khi tài năng bị lãng phí](https://vnexpress.net/paul-pogba-khi-tai-nang-bi-lang-phi-4719565.html) - 06:13 07/03/2024
+- 🪜 [Paul Pogba - khi ngôi sao lạc lối](https://vnexpress.net/paul-pogba-khi-ngoi-sao-lac-loi-4719565.html) - 06:13 07/03/2024
 - 🦩 [Phương Trinh tiếc nuối vì hụt chức vô địch giải chạy đêm TP HCM](https://vnexpress.net/phuong-trinh-tiec-nuoi-vi-hut-chuc-vo-dich-giai-chay-dem-tp-hcm-4717831.html) - 05:36 07/03/2024
 - 🧰 [Guardiola: &#39;Man Utd, Barca dễ vô địch hơn Man City&#39;](https://vnexpress.net/guardiola-man-utd-barca-de-vo-dich-hon-man-city-4719504.html) - 04:48 07/03/2024
 - 🤗 [Điều kiện nào để cơ thủ Quyết Chiến lên số một thế giới?](https://vnexpress.net/dieu-kien-nao-de-co-thu-quyet-chien-len-so-mot-the-gioi-4719468.html) - 04:02 07/03/2024
