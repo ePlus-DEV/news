@@ -577,7 +577,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
 - 💼 [Bình Định tặng bằng khen Đại úy công an và 2 người dân cứu 6 học sinh đuối nước](https://tienphong.vn/binh-dinh-tang-bang-khen-dai-uy-cong-an-va-2-nguoi-dan-cuu-6-hoc-sinh-duoi-nuoc-post1618261.tpo) - 22:55 07/03/2024
-- 🎊 [Máy bay chở tỷ phú Bill Gates vừa rời Đà Nẵng](https://tienphong.vn/may-bay-cho-ty-phu-bill-gates-vua-roi-da-nang-post1618310.tpo) - 22:23 07/03/2024
+- 🎊 [Máy bay chở tỷ phú Bill Gates rời Đà Nẵng](https://tienphong.vn/may-bay-cho-ty-phu-bill-gates-roi-da-nang-post1618310.tpo) - 22:23 07/03/2024
 - 💼 [Chủ động hơn nữa trong xây dựng chiến lược truyền thông &#39;đi trước đón đầu&#39;](https://tienphong.vn/chu-dong-hon-nua-trong-xay-dung-chien-luoc-truyen-thong-di-truoc-don-dau-post1618267.tpo) - 22:15 07/03/2024
 - 👺 [Danh tính thuyền viên Việt Nam trên tàu trúng tên lửa](https://tienphong.vn/danh-tinh-thuyen-vien-viet-nam-tren-tau-trung-ten-lua-post1618268.tpo) - 21:59 07/03/2024
 - 💪 [Đường phố TPHCM rực rỡ sắc hoa dịp 8/3](https://tienphong.vn/duong-pho-tphcm-ruc-ro-sac-hoa-dip-83-post1618297.tpo) - 21:57 07/03/2024
