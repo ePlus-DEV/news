@@ -4,9 +4,9 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hai học sinh rơi từ xe khách xuống đường](https://vnexpress.net/hai-hoc-sinh-roi-tu-xe-khach-xuong-duong-4719467.html) - 03:21 07/03/2024
+- 🦒 [Hai học sinh rơi từ ôtô xuống đường](https://vnexpress.net/hai-hoc-sinh-roi-tu-oto-xuong-duong-4719467.html) - 03:21 07/03/2024
 - 🤓 [Trùng tu đồng hồ xem giờ bằng ánh mặt trời duy nhất Việt Nam](https://vnexpress.net/phuong-an-trung-tu-dong-ho-da-hon-100-tuoi-4719442.html) - 03:21 07/03/2024
-- ⚗️ [Sà lan va chạm tàu, hai người rơi xuống sông](https://vnexpress.net/sa-lan-va-cham-tau-hai-nguoi-roi-xuong-song-4719470.html) - 03:13 07/03/2024
+- ⚗️ [Sà lan va chạm tàu, thuyền viên trôi dạt hơn một km](https://vnexpress.net/sa-lan-va-cham-tau-thuyen-vien-troi-dat-hon-mot-km-4719470.html) - 03:13 07/03/2024
 - 🌊 [Dự án &#39;Vệ sinh học đường&#39; đến Yên Bái và Lai Châu](https://vnexpress.net/du-an-ve-sinh-hoc-duong-den-yen-bai-va-lai-chau-4719285.html) - 02:01 07/03/2024
 - 🎓 [&#39;Vành đai 4 TP HCM đi trên cao sẽ giải quyết vấn đề thiếu cát&#39;](https://vnexpress.net/vanh-dai-4-tp-hcm-di-tren-cao-se-giai-quyet-van-de-thieu-cat-4719131.html) - 23:00 06/03/2024
 - 🔥 [Trận tập kích sân bay Cát Bi 70 năm trước](https://vnexpress.net/tran-tap-kich-san-bay-cat-bi-70-nam-truoc-4719230.html) - 18:30 06/03/2024
