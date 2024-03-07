@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cựu tổng giám đốc SCB: &#39;Bà Trương Mỹ Lan chi phối toàn bộ dàn lãnh đạo&#39;](https://vnexpress.net/cuu-tong-giam-doc-scb-ba-truong-my-lan-chi-phoi-toan-bo-dan-lanh-dao-4719455.html) - 03:06 07/03/2024
+- 😎 [Cựu tổng giám đốc: &#39;SCB là công cụ của bà Trương Mỹ Lan&#39;](https://vnexpress.net/cuu-tong-giam-doc-scb-la-cong-cu-cua-ba-truong-my-lan-4719455.html) - 03:06 07/03/2024
 - 🥰 [Người đầu tiên bị Mỹ xử tội &#39;buôn lậu khí nhà kính qua biên giới&#39;](https://vnexpress.net/nguoi-dau-tien-bi-my-xu-toi-buon-lau-khi-nha-kinh-qua-bien-gioi-4719294.html) - 23:00 06/03/2024
 - 🎓 [Kẻ hiếp dâm sa lưới nhờ bé gái nhanh trí trốn chạy](https://vnexpress.net/ke-hiep-dam-sa-luoi-nho-be-gai-nhanh-tri-tron-chay-4719257.html) - 17:00 06/03/2024
 - 🤓 [Đánh tài xế taxi tử vong sau va chạm giao thông](https://vnexpress.net/danh-tai-xe-taxi-tu-vong-sau-va-cham-giao-thong-4719280.html) - 14:22 06/03/2024
