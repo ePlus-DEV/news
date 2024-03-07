@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [&#39;Vòng tay tình bạn&#39; - phụ kiện được săn đón nhờ cơn sốt Taylor Swift](https://vnexpress.net/vong-tay-tinh-ban-phu-kien-duoc-san-don-nho-con-sot-taylor-swift-4718594.html) - 03:18 07/03/2024
+- 🌏 [&#39;Vòng tay tình bạn&#39; được săn đón nhờ cơn sốt Taylor Swift](https://vnexpress.net/vong-tay-tinh-ban-duoc-san-don-nho-con-sot-taylor-swift-4718594.html) - 03:18 07/03/2024
 - 💫 [&#39;Trùm phim kiếm hiệp&#39; có con ở tuổi 73](https://vnexpress.net/trum-phim-kiem-hiep-co-con-o-tuoi-73-4719420.html) - 02:38 07/03/2024
 - 🌮 [Loạt phim chiếu rạp tháng 3](https://vnexpress.net/loat-phim-chieu-rap-thang-3-4719212.html) - 17:14 06/03/2024
 - 🧠 [Quỳnh Anh Shyn biến hóa phong cách ở Paris Fashion Week](https://vnexpress.net/quynh-anh-shyn-bien-hoa-phong-cach-o-paris-fashion-week-4719023.html) - 12:00 06/03/2024
