@@ -31,8 +31,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥰 [Dòng tiền trở lại cổ phiếu chứng khoán](https://vnexpress.net/dong-tien-tro-lai-co-phieu-chung-khoan-4719670.html) - 09:09 07/03/2024
 - 🌏 [Siết quản lý thuế với mua bán vàng, đá quý](https://vnexpress.net/mua-ban-vang-bac-da-quy-4719637.html) - 09:05 07/03/2024
 - 🧐 [Indonesia gọi 10 cầu thủ nhập tịch đấu Việt Nam](https://vnexpress.net/indonesia-goi-10-cau-thu-nhap-tich-dau-viet-nam-4719687.html) - 09:04 07/03/2024
-- 💫 [Oppo Reno11 F giá 9 triệu đồng](https://vnexpress.net/oppo-reno11-f-gia-9-trieu-dong-4719569.html) - 09:00 07/03/2024
-- 😺 [Trường THPT FPT Quy Nhơn giảm 20 triệu đồng học phí lớp 10](https://vnexpress.net/truong-thpt-fpt-quy-nhon-giam-20-trieu-dong-hoc-phi-lop-10-4719689.html) - 09:00 07/03/2024
+- 💫 [Trường THPT FPT Quy Nhơn giảm 20 triệu đồng học phí lớp 10](https://vnexpress.net/truong-thpt-fpt-quy-nhon-giam-20-trieu-dong-hoc-phi-lop-10-4719689.html) - 09:00 07/03/2024
+- 😺 [Oppo Reno11 F giá 9 triệu đồng](https://vnexpress.net/oppo-reno11-f-gia-9-trieu-dong-4719569.html) - 09:00 07/03/2024
 - 🕯 [Bạn có biết cách kiểm soát cholesterol?](https://vnexpress.net/ban-co-biet-cach-kiem-soat-cholesterol-4719546.html) - 09:00 07/03/2024
 - 💃 [10 thực phẩm phụ nữ nên ăn mỗi ngày](https://vnexpress.net/10-thuc-pham-phu-nu-nen-an-moi-ngay-4719492.html) - 09:00 07/03/2024
 - 💂 [MB dự kiến tăng trưởng lợi nhuận 10% trong năm 2024](https://vnexpress.net/mb-du-kien-tang-truong-loi-nhuan-10-trong-nam-2024-4719457.html) - 09:00 07/03/2024
@@ -49,8 +49,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 👨‍🏫 [Thủy thủ Việt thiệt mạng trên tàu hàng bị Houthi tập kích](https://vnexpress.net/thuy-thu-viet-thiet-mang-tren-tau-hang-bi-houthi-tap-kich-4719614.html) - 08:05 07/03/2024
 - 🐻 [Nữ sinh đâm bạn từ mâu thuẫn bình luận trên Facebook](https://vnexpress.net/nu-sinh-dam-ban-tu-mau-thuan-binh-luan-tren-facebook-4719621.html) - 08:02 07/03/2024
 - 😺 [Nhà chồng muốn tôi sinh con thứ ba ở tuổi 39](https://vnexpress.net/nha-chong-muon-toi-sinh-con-thu-ba-o-tuoi-39-4719600.html) - 08:00 07/03/2024
-- 🤔 [Mình cùng cố gắng và gặp nhau ở phiên bản đẹp nhất nhé](https://vnexpress.net/minh-cung-co-gang-va-gap-nhau-o-phien-ban-dep-nhat-nhe-4719373.html) - 08:00 07/03/2024
-- 🌮 [Nữ sinh 20 tuổi du học Mỹ sau khóa học trực tuyến FUNiX](https://vnexpress.net/nu-sinh-20-tuoi-du-hoc-my-sau-khoa-hoc-truc-tuyen-funix-4719510.html) - 08:00 07/03/2024
+- 🤔 [Nữ sinh 20 tuổi du học Mỹ sau khóa học trực tuyến FUNiX](https://vnexpress.net/nu-sinh-20-tuoi-du-hoc-my-sau-khoa-hoc-truc-tuyen-funix-4719510.html) - 08:00 07/03/2024
+- 🌮 [Mình cùng cố gắng và gặp nhau ở phiên bản đẹp nhất nhé](https://vnexpress.net/minh-cung-co-gang-va-gap-nhau-o-phien-ban-dep-nhat-nhe-4719373.html) - 08:00 07/03/2024
 - 🦩 [Nữ bưu cục trưởng vượt định kiến, gắn bó với ngành logistics](https://vnexpress.net/nu-buu-cuc-truong-vuot-dinh-kien-gan-bo-voi-nganh-logistics-4719229.html) - 08:00 07/03/2024
 - 📝 [Vợ tỷ phú giàu nhất châu Á trình diễn điệu múa chúc phúc con trai](https://vnexpress.net/vo-ty-phu-giau-nhat-chau-a-trinh-dien-dieu-mua-chuc-phuc-con-trai-4719399.html) - 07:56 07/03/2024
 - 🕴 [Bị máy sục khí vuông tôm cuốn tổn thương bộ phận sinh dục](https://vnexpress.net/bi-may-suc-khi-vuong-tom-cuon-ton-thuong-bo-phan-sinh-duc-4719594.html) - 07:50 07/03/2024
@@ -73,8 +73,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💪 [Thách thức bà Haley để lại với ông Trump](https://vnexpress.net/thach-thuc-ba-haley-de-lai-voi-ong-trump-4719353.html) - 07:14 07/03/2024
 - 🧑‍🏫 [Cô gái đỗ Harvard từ quyết tâm vực dậy bản thân](https://vnexpress.net/co-gai-do-harvard-tu-quyet-tam-vuc-day-ban-than-4719055.html) - 07:14 07/03/2024
 - 🎓 [Nadal không thi đấu BNP Paribas Open](https://vnexpress.net/nadal-khong-thi-dau-bnp-paribas-open-4719618.html) - 07:10 07/03/2024
-- 💫 [Bạn thấy tính năng thông minh của tủ lạnh, máy giặt có cần thiết?](https://vnexpress.net/ban-thay-tinh-nang-thong-minh-cua-tu-lanh-may-giat-co-can-thiet-4718363.html) - 07:00 07/03/2024
-- 🤩 [Khi nào nên chụp nhũ ảnh tầm soát ung thư vú?](https://vnexpress.net/khi-nao-nen-chup-nhu-anh-tam-soat-ung-thu-vu-4719570.html) - 07:00 07/03/2024<!-- vnexpress:END -->
+- 💫 [Khi nào nên chụp nhũ ảnh tầm soát ung thư vú?](https://vnexpress.net/khi-nao-nen-chup-nhu-anh-tam-soat-ung-thu-vu-4719570.html) - 07:00 07/03/2024
+- 🤩 [Bệnh nhân nước ngoài bay sang Việt Nam phẫu thuật biểu mô tuyến](https://vnexpress.net/benh-nhan-nuoc-ngoai-bay-sang-viet-nam-phau-thuat-bieu-mo-tuyen-4719126.html) - 07:00 07/03/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
