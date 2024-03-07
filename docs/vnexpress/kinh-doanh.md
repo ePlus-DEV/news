@@ -18,7 +18,7 @@ sidebar_position: 3
 - 🕴 [Bitcoin rớt giá mạnh sau khi vượt 69.000 USD](https://vnexpress.net/bitcoin-rot-gia-manh-sau-khi-vuot-69-000-usd-4718956.html) - 02:52 06/03/2024
 - 🦩 [Giá vàng miếng neo quanh 81 triệu đồng](https://vnexpress.net/gia-vang-mieng-len-81-trieu-4718934.html) - 02:29 06/03/2024
 - 👍 [Giá vàng thế giới lập đỉnh mới](https://vnexpress.net/gia-vang-the-gioi-ngay-6-3-lap-dinh-moi-4718875.html) - 00:44 06/03/2024
-- 🏊 [Các tỷ phú nghĩ gì về Bitcoin?](https://vnexpress.net/cac-ty-phu-nghi-gi-ve-bitcoin-4718756.html) - 17:37 05/03/2024
+- 🏊 [Các tỷ phú từng nói gì về Bitcoin?](https://vnexpress.net/cac-ty-phu-nghi-gi-ve-bitcoin-4718756.html) - 17:37 05/03/2024
 - 🤡 [TP HCM đặt mục tiêu mỗi ha rau mang về 850 triệu đồng mỗi năm](https://vnexpress.net/tp-hcm-dat-muc-tieu-moi-ha-rau-mang-ve-850-trieu-dong-moi-nam-4718787.html) - 14:33 05/03/2024
 - 👀 [Thái Bình sẽ lấn biển tạo không gian phát triển mới](https://vnexpress.net/thai-binh-se-lan-bien-tao-khong-gian-phat-trien-moi-4718815.html) - 14:29 05/03/2024
 - 😺 [Ngân hàng phải công khai lãi suất cho vay bình quân](https://vnexpress.net/ngan-hang-phai-cong-khai-lai-suat-cho-vay-binh-quan-4718798.html) - 12:20 05/03/2024
