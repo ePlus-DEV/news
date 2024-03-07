@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Chủ tịch Quốc hội: TikToker phân tích Luật Đất đai thu hút trăm nghìn người xem](https://vnexpress.net/chu-tich-quoc-hoi-tiktoker-phan-tich-luat-dat-dai-thu-hut-tram-nghin-nguoi-xem-4719551.html) - 05:40 07/03/2024
+- 🦒 [Chủ tịch Quốc hội: Dùng mạng xã hội để truyền thông Luật Đất đai](https://vnexpress.net/chu-tich-quoc-hoi-dung-mang-xa-hoi-de-truyen-thong-luat-dat-dai-4719551.html) - 05:40 07/03/2024
 - 🤓 [Chung cư nguy hiểm ở Thành Công có thể được cải tạo thành 24 tầng](https://vnexpress.net/chung-cu-nguy-hiem-o-thanh-cong-co-the-duoc-cai-tao-thanh-24-tang-4719360.html) - 05:03 07/03/2024
 - ⚗️ [Đầu tư cao tốc Tuyên Quang - Hà Giang để giảm tải quốc lộ 2](https://vnexpress.net/dau-tu-cao-toc-tuyen-quang-ha-giang-de-giam-tai-quoc-lo-2-4718980.html) - 04:32 07/03/2024
 - 🌊 [Hai học sinh rơi từ ôtô xuống đường](https://vnexpress.net/hai-hoc-sinh-roi-tu-oto-xuong-duong-4719467.html) - 03:21 07/03/2024
