@@ -6,10 +6,10 @@ sidebar_position: 10
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [Chịu đau 5 ngày không đi viện, bé trai hỏng một tinh hoàn](https://vnexpress.net/chiu-dau-5-ngay-khong-di-vien-be-trai-hong-mot-tinh-hoan-4719519.html) - 19:00 07/03/2024
 - 🥰 [Tửu lượng kém khiến mặt đỏ, tái nhợt sau uống rượu bia?](https://vnexpress.net/tuu-luong-kem-khien-mat-do-tai-nhot-sau-uong-ruou-bia-4719563.html) - 17:04 07/03/2024
-- 💡 [Ngại đến viện khám, nhiều người mắc sùi mào gà nặng](https://vnexpress.net/ngai-den-vien-kham-nhieu-nguoi-mac-sui-mao-ga-nang-4719739.html) - 12:00 07/03/2024
-- 🤗 [Làm gì khi trẻ mộng du?](https://vnexpress.net/lam-gi-khi-tre-mong-du-4719693.html) - 12:00 07/03/2024
-- 🪜 [Công nghệ thụ tinh ống nghiệm nào hiệu quả cao?](https://vnexpress.net/cong-nghe-thu-tinh-ong-nghiem-nao-hieu-qua-cao-4719720.html) - 11:00 07/03/2024
-- 🕯 [7 món ăn uống có thể gây đau nửa đầu](https://vnexpress.net/7-mon-an-uong-co-the-gay-dau-nua-dau-4719639.html) - 11:00 07/03/2024
+- 💡 [Làm gì khi trẻ mộng du?](https://vnexpress.net/lam-gi-khi-tre-mong-du-4719693.html) - 12:00 07/03/2024
+- 🤗 [Ngại đến viện khám, nhiều người mắc sùi mào gà nặng](https://vnexpress.net/ngai-den-vien-kham-nhieu-nguoi-mac-sui-mao-ga-nang-4719739.html) - 12:00 07/03/2024
+- 🪜 [7 món ăn uống có thể gây đau nửa đầu](https://vnexpress.net/7-mon-an-uong-co-the-gay-dau-nua-dau-4719639.html) - 11:00 07/03/2024
+- 🕯 [Công nghệ thụ tinh ống nghiệm nào hiệu quả cao?](https://vnexpress.net/cong-nghe-thu-tinh-ong-nghiem-nao-hieu-qua-cao-4719720.html) - 11:00 07/03/2024
 - 🤭 [Đau đầu &#39;sét đánh&#39; do vỡ túi phình mạch não](https://vnexpress.net/dau-dau-set-danh-do-vo-tui-phinh-mach-nao-4719679.html) - 10:30 07/03/2024
 - 👀 [Cách nào giảm axit uric?](https://vnexpress.net/cach-nao-giam-axit-uric-4719586.html) - 10:00 07/03/2024
 - 🌋 [Đề xuất BHYT trả tiền thuốc người bệnh phải mua ngoài viện](https://vnexpress.net/de-xuat-bhyt-tra-tien-thuoc-nguoi-benh-phai-mua-ngoai-vien-4719481.html) - 09:12 07/03/2024
@@ -25,8 +25,8 @@ sidebar_position: 10
 - 🦅 [Hàng trăm viên sỏi trong quả thận chàng trai](https://vnexpress.net/hang-tram-vien-soi-trong-qua-than-chang-trai-4719459.html) - 06:00 07/03/2024
 - 🦆 [Bệnh phổi tắc nghẽn mạn tính có thể chữa khỏi không?](https://vnexpress.net/benh-phoi-tac-nghen-man-tinh-co-the-chua-khoi-khong-4719460.html) - 05:00 07/03/2024
 - 🎊 [Phát hiện chất gây ung thư trong một số kem trị mụn](https://vnexpress.net/phat-hien-chat-gay-ung-thu-trong-mot-so-kem-tri-mun-4719503.html) - 04:38 07/03/2024
-- 🏊 [Nhồi máu cơ tim sau nhiều năm rối loạn mỡ máu](https://vnexpress.net/nhoi-mau-co-tim-sau-nhieu-nam-roi-loan-mo-mau-4719448.html) - 04:00 07/03/2024
-- 📝 [Vi khuẩn đa kháng thuốc khiến người đàn ông nhiễm trùng chân](https://vnexpress.net/vi-khuan-da-khang-thuoc-khien-nguoi-dan-ong-nhiem-trung-chan-4719422.html) - 04:00 07/03/2024
+- 🏊 [Vi khuẩn đa kháng thuốc khiến người đàn ông nhiễm trùng chân](https://vnexpress.net/vi-khuan-da-khang-thuoc-khien-nguoi-dan-ong-nhiem-trung-chan-4719422.html) - 04:00 07/03/2024
+- 📝 [Nhồi máu cơ tim sau nhiều năm rối loạn mỡ máu](https://vnexpress.net/nhoi-mau-co-tim-sau-nhieu-nam-roi-loan-mo-mau-4719448.html) - 04:00 07/03/2024
 - 💯 [Xe cứu thương cháy ở quận 10 &#39;chưa được cấp phép chuyển bệnh&#39;](https://vnexpress.net/xe-cuu-thuong-chay-o-quan-10-chua-duoc-cap-phep-chuyen-benh-4719440.html) - 03:47 07/03/2024
 - 🌊 [Túi mật xoắn 180 độ khiến cụ bà đau bụng dữ dội](https://vnexpress.net/tui-mat-xoan-180-do-khien-cu-ba-dau-bung-du-doi-4719411.html) - 03:00 07/03/2024
 - 🚀 [Ngã xe suýt thủng phổi khi tránh chó băng qua đường](https://vnexpress.net/nga-xe-suyt-thung-phoi-khi-tranh-cho-bang-qua-duong-4719415.html) - 02:58 07/03/2024
@@ -46,12 +46,12 @@ sidebar_position: 10
 - 🦒 [Ba người Kiên Giang mắc đậu mùa khỉ](https://vnexpress.net/ba-nguoi-kien-giang-mac-dau-mua-khi-4719201.html) - 10:38 06/03/2024
 - 👨‍🏫 [Phát hiện ung thư vú dù không triệu chứng](https://vnexpress.net/phat-hien-ung-thu-vu-du-khong-trieu-chung-4719066.html) - 10:00 06/03/2024
 - 🌜 [5 loại rau củ giúp giảm cholesterol xấu](https://vnexpress.net/5-loai-rau-cu-giup-giam-cholesterol-xau-4718954.html) - 10:00 06/03/2024
-- 🚀 [Làm gì khi trẻ sốt?](https://vnexpress.net/lam-gi-khi-tre-sot-4719052.html) - 09:00 06/03/2024
-- 💃 [Trắc nghiệm để biết cách phòng ngừa sỏi thận](https://vnexpress.net/trac-nghiem-de-biet-cach-phong-ngua-soi-than-4719035.html) - 09:00 06/03/2024
-- 💯 [Mùi nến thơm có thể gây bệnh](https://vnexpress.net/mui-nen-thom-co-the-gay-benh-4719117.html) - 08:00 06/03/2024
-- 🤔 [4 nhóm cơ đốt cháy nhiều calo tập luyện](https://vnexpress.net/4-nhom-co-dot-chay-nhieu-calo-tap-luyen-4719050.html) - 08:00 06/03/2024
-- 🎬 [Nguyên nhân chuyển phôi thất bại khi thụ tinh ống nghiệm](https://vnexpress.net/nguyen-nhan-chuyen-phoi-that-bai-khi-thu-tinh-ong-nghiem-4719092.html) - 07:00 06/03/2024
-- 🪜 [Phụ nữ nên bổ sung vitamin gì?](https://vnexpress.net/phu-nu-nen-bo-sung-vitamin-gi-4719029.html) - 07:00 06/03/2024
+- 🚀 [Trắc nghiệm để biết cách phòng ngừa sỏi thận](https://vnexpress.net/trac-nghiem-de-biet-cach-phong-ngua-soi-than-4719035.html) - 09:00 06/03/2024
+- 💃 [Làm gì khi trẻ sốt?](https://vnexpress.net/lam-gi-khi-tre-sot-4719052.html) - 09:00 06/03/2024
+- 💯 [4 nhóm cơ đốt cháy nhiều calo tập luyện](https://vnexpress.net/4-nhom-co-dot-chay-nhieu-calo-tap-luyen-4719050.html) - 08:00 06/03/2024
+- 🤔 [Mùi nến thơm có thể gây bệnh](https://vnexpress.net/mui-nen-thom-co-the-gay-benh-4719117.html) - 08:00 06/03/2024
+- 🎬 [Phụ nữ nên bổ sung vitamin gì?](https://vnexpress.net/phu-nu-nen-bo-sung-vitamin-gi-4719029.html) - 07:00 06/03/2024
+- 🪜 [Nguyên nhân chuyển phôi thất bại khi thụ tinh ống nghiệm](https://vnexpress.net/nguyen-nhan-chuyen-phoi-that-bai-khi-thu-tinh-ong-nghiem-4719092.html) - 07:00 06/03/2024
 - 🦣 [Bí quyết giúp các huyền thoại âm nhạc biểu diễn sung sức](https://vnexpress.net/bi-quyet-giup-cac-huyen-thoai-am-nhac-bieu-dien-sung-suc-4719088.html) - 06:36 06/03/2024
 - 🧐 [Ba phương pháp nhanh chóng trị nám da](https://vnexpress.net/ba-phuong-phap-nhanh-chong-tri-nam-da-4719059.html) - 06:00 06/03/2024
 - 🤡 [Triệu chứng bệnh tuyến giáp ở nam giới](https://vnexpress.net/trieu-chung-benh-tuyen-giap-o-nam-gioi-4718812.html) - 06:00 06/03/2024
