@@ -79,8 +79,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💂 [Mở trường chuyên cho học sinh cấp hai giữa những hoài nghi](https://vnexpress.net/mo-truong-chuyen-cho-hoc-sinh-cap-hai-giua-nhung-hoai-nghi-4719476.html) - 11:00 07/03/2024
 - 🚀 [Công nghệ thụ tinh ống nghiệm nào hiệu quả cao?](https://vnexpress.net/cong-nghe-thu-tinh-ong-nghiem-nao-hieu-qua-cao-4719720.html) - 11:00 07/03/2024
 - 🕴 [7 món ăn uống có thể gây đau nửa đầu](https://vnexpress.net/7-mon-an-uong-co-the-gay-dau-nua-dau-4719639.html) - 11:00 07/03/2024
-- 🦆 [OriginPure - máy lọc nước giữ khoáng cao cấp nhất của Toshiba](https://vnexpress.net/originpure-may-loc-nuoc-giu-khoang-cao-cap-nhat-cua-toshiba-4718972.html) - 11:00 07/03/2024
-- 💫 [Ông Phạm Nhật Vượng lọt top 50 nhân vật tiêu biểu ngành ôtô thế giới 2024](https://vnexpress.net/ong-pham-nhat-vuong-lot-top-50-nhan-vat-tieu-bieu-nganh-oto-the-gioi-2024-4719640.html) - 10:31 07/03/2024<!-- vnexpress:END -->
+- 🦆 [OriginPure - máy lọc nước giữ khoáng cao cấp nhất của Toshiba](https://vnexpress.net/originpure-may-loc-nuoc-giu-khoang-cao-cap-nhat-cua-toshiba-4718972.html) - 11:00 07/03/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
