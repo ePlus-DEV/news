@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Tỷ phú Bill Gates và bạn gái chơi tennis ở Đà Nẵng](https://vnexpress.net/ty-phu-bill-gates-va-ban-gai-choi-tennis-o-da-nang-4719592.html) - 07:26 07/03/2024
+- 💂 [Bill Gates và bạn gái chơi tennis ở Đà Nẵng](https://vnexpress.net/bill-gates-va-ban-gai-choi-tennis-o-da-nang-4719592.html) - 07:26 07/03/2024
 - 🪄 [Ngày càng nhiều phụ nữ thích du lịch một mình](https://vnexpress.net/ngay-cang-nhieu-phu-nu-thich-du-lich-mot-minh-4718305.html) - 04:33 07/03/2024
 - 🦅 [Cẩm nang du lịch Kon Tum](https://vnexpress.net/cam-nang-du-lich-kon-tum-4718005.html) - 00:09 07/03/2024
 - 🕴 [Tỷ phú Bill Gates thưởng trà trên đỉnh Bàn Cờ](https://vnexpress.net/ty-phu-bill-gates-thuong-tra-tren-dinh-ban-co-4719303.html) - 17:00 06/03/2024
