@@ -28,7 +28,7 @@ sidebar_position: 10
 - 🏊 [Xe cứu thương cháy ở quận 10 &#39;chưa được cấp phép chuyển bệnh&#39;](https://vnexpress.net/xe-cuu-thuong-chay-o-quan-10-chua-duoc-cap-phep-chuyen-benh-4719440.html) - 03:47 07/03/2024
 - 📝 [Túi mật xoắn 180 độ khiến cụ bà đau bụng dữ dội](https://vnexpress.net/tui-mat-xoan-180-do-khien-cu-ba-dau-bung-du-doi-4719411.html) - 03:00 07/03/2024
 - 💯 [Ngã xe suýt thủng phổi khi tránh chó băng qua đường](https://vnexpress.net/nga-xe-suyt-thung-phoi-khi-tranh-cho-bang-qua-duong-4719415.html) - 02:58 07/03/2024
-- 🌊 [Việt Nam sẽ có 2 hệ thống xạ trị ung thư hàng nghìn tỷ đồng](https://vnexpress.net/viet-nam-se-co-2-he-thong-xa-tri-ung-thu-hang-nghin-ty-dong-4719396.html) - 02:27 07/03/2024
+- 🌊 [Đề xuất xây dựng 2 hệ thống xạ trị ung thư hàng nghìn tỷ đồng](https://vnexpress.net/viet-nam-se-co-2-he-thong-xa-tri-ung-thu-hang-nghin-ty-dong-4719396.html) - 02:27 07/03/2024
 - 🚀 [7 quả giàu chất chống oxy hóa giúp trẻ phòng bệnh](https://vnexpress.net/7-qua-giau-chat-chong-oxy-hoa-giup-tre-phong-benh-4719331.html) - 02:00 07/03/2024
 - 🕴 [Hàn Quốc lập ủy ban phân bổ thêm chỉ tiêu tuyển sinh viên y](https://vnexpress.net/han-quoc-lap-uy-ban-phan-bo-them-chi-tieu-tuyen-sinh-vien-y-4719356.html) - 01:32 07/03/2024
 - 🗽 [10 đồ uống giảm nhanh mùi hơi thở](https://vnexpress.net/10-do-uong-giam-nhanh-mui-hoi-tho-4719293.html) - 01:00 07/03/2024
