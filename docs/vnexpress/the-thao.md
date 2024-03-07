@@ -12,7 +12,7 @@ sidebar_position: 5
 - 🦣 [Điều kiện nào để cơ thủ Quyết Chiến lên số một thế giới?](https://vnexpress.net/dieu-kien-nao-de-co-thu-quyet-chien-len-so-mot-the-gioi-4719468.html) - 04:02 07/03/2024
 - 🌜 [Alcaraz: &#39;Tôi không cảm thấy thất bại sau Wimbledon&#39;](https://vnexpress.net/alcaraz-toi-khong-cam-thay-that-bai-sau-wimbledon-4719479.html) - 03:22 07/03/2024
 - 🫶 [Trọng tài bị tố trợ giúp Real ở Champions League](https://vnexpress.net/trong-tai-bi-to-tro-giup-real-o-champions-league-4719414.html) - 03:20 07/03/2024
-- 🌜 [Saint-Denis - từ lính đặc nhiệm tới ngôi sao UFC](https://vnexpress.net/saint-denis-tu-linh-dac-nhiem-toi-ngoi-sao-ufc-4719350.html) - 03:10 07/03/2024
+- 🌜 [Saint-Denis - từ lính đặc nhiệm tới võ sĩ UFC](https://vnexpress.net/saint-denis-tu-linh-dac-nhiem-toi-vo-si-ufc-4719350.html) - 03:10 07/03/2024
 - 😺 [F1 lo drone 354 km/h bay vào khán giả](https://vnexpress.net/f1-lo-drone-354-km-h-bay-vao-khan-gia-4719397.html) - 03:04 07/03/2024
 - 👍 [Xabi Alonso khả năng cao chọn Bayern thay vì Liverpool](https://vnexpress.net/xabi-alonso-kha-nang-cao-chon-bayern-thay-vi-liverpool-4718806.html) - 03:03 07/03/2024
 - 🐵 [HLV Ancelotti chê Real đá kém](https://vnexpress.net/hlv-ancelotti-che-real-da-kem-4719436.html) - 02:53 07/03/2024
