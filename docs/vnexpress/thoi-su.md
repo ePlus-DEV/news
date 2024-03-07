@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Hai tai nạn liên hoàn, cao tốc Trung Lương kẹt 10 km](https://vnexpress.net/hai-tai-nan-lien-hoan-cao-toc-trung-luong-ket-10-km-4719752.html) - 11:42 07/03/2024
-- 🤓 [Đề nghị đưa thủy thủ Việt trên tàu hàng bị Houthi tập kích về nước](https://vnexpress.net/de-nghi-dua-thuy-thu-viet-tren-tau-hang-bi-houthi-tap-kich-ve-nuoc-4719742.html) - 11:41 07/03/2024
+- 🤓 [Đề nghị sứ quán đưa thủy thủ Việt trên tàu hàng bị Houthi tập kích về nước](https://vnexpress.net/de-nghi-su-quan-dua-thuy-thu-viet-tren-tau-hang-bi-houthi-tap-kich-ve-nuoc-4719742.html) - 11:41 07/03/2024
 - ⚗️ [Được cộng dồn thời gian công tác để xét tặng huy chương](https://vnexpress.net/duoc-cong-don-thoi-gian-cong-tac-de-xet-tang-huy-chuong-4719497.html) - 07:18 07/03/2024
 - 🌊 [Xe khách cháy trơ khung](https://vnexpress.net/xe-khach-chay-tro-khung-4719572.html) - 06:52 07/03/2024
 - 🎓 [Chủ tịch Quốc hội: Dùng mạng xã hội để truyền thông Luật Đất đai](https://vnexpress.net/chu-tich-quoc-hoi-dung-mang-xa-hoi-de-truyen-thong-luat-dat-dai-4719551.html) - 05:40 07/03/2024
