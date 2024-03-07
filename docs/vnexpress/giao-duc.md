@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Tăng gần 400 giải học sinh giỏi thành phố Hà Nội](https://vnexpress.net/tang-gan-400-giai-hoc-sinh-gioi-thanh-pho-ha-noi-4719674.html) - 09:17 07/03/2024
+- 🤓 [Tăng gần 400 giải thi học sinh giỏi thành phố Hà Nội](https://vnexpress.net/tang-gan-400-giai-thi-hoc-sinh-gioi-thanh-pho-ha-noi-4719674.html) - 09:17 07/03/2024
 - 🦆 [Cô gái đỗ Harvard từ quyết tâm vực dậy bản thân](https://vnexpress.net/co-gai-do-harvard-tu-quyet-tam-vuc-day-ban-than-4719055.html) - 07:14 07/03/2024
 - 🦩 [Việt Nam - Australia ký ghi nhớ hợp tác giáo dục](https://vnexpress.net/viet-nam-australia-ky-ghi-nho-hop-tac-giao-duc-4719575.html) - 05:54 07/03/2024
 - 🌮 [Học viện Ngân hàng mở ngành Marketing và Kiểm toán](https://vnexpress.net/hoc-vien-ngan-hang-mo-nganh-marketing-va-kiem-toan-4719542.html) - 05:29 07/03/2024
