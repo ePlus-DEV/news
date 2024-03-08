@@ -249,7 +249,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Công an phong tỏa nhà cựu Chủ tịch UBND tỉnh Quảng Ngãi Cao Khoa](https://nld.com.vn/cong-an-phong-toa-nha-cuu-chu-tich-ubnd-tinh-quang-ngai-cao-khoa-1962403080942182.htm) - 07:36 08/03/2024
+- 🐎 [NÓNG: Công an phong tỏa nhà cựu Chủ tịch UBND tỉnh Quảng Ngãi Cao Khoa](https://nld.com.vn/cong-an-phong-toa-nha-cuu-chu-tich-ubnd-tinh-quang-ngai-cao-khoa-1962403080942182.htm) - 07:36 08/03/2024
 - 😺 [Bệnh viện Quân y 175 phẫu thuật thay khớp háng miễn phí](https://nld.com.vn/benh-vien-quan-y-175-phau-thuat-thay-khop-hang-mien-phi-196240308134137093.htm) - 07:27 08/03/2024
 - 👍 [Hình ảnh xót xa tại các trụ sở, trường học tiền tỉ bị bỏ hoang ở Hà Tĩnh](https://nld.com.vn/hinh-anh-xot-xa-tai-cac-tru-so-truong-hoc-tien-ti-bi-bo-hoang-o-ha-tinh-19624030813490614.htm) - 07:16 08/03/2024
 - 🥷 [Thừa thiên - Huế: 4 lần thông báo thi tuyển Phó Giám đốc Sở Du lịch, chưa ai nộp hồ sơ](https://nld.com.vn/thua-thien-hue-4-lan-thong-bao-thi-tuyen-pho-giam-doc-so-du-lich-chua-ai-nop-ho-so-196240308135653698.htm) - 07:13 08/03/2024
@@ -275,13 +275,13 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌝 [Airbus xây thư viện và sân chơi sáng tạo tặng học sinh tiểu học](https://nld.com.vn/airbus-xay-thu-vien-va-san-choi-sang-tao-tang-hoc-sinh-tieu-hoc-196240308110257874.htm) - 04:49 08/03/2024
 - 💪 [Tình hình các thuyền viên Việt Nam trên tàu trúng tên lửa ở Biển Đỏ](https://nld.com.vn/podcast/tinh-hinh-cac-thuyen-vien-viet-nam-tren-tau-trung-ten-lua-o-bien-do-196240308113117992.htm) - 04:32 08/03/2024
 - 🦍 [Siêu mẫu Xuân Lan và câu chuyện về hạnh phúc](https://nld.com.vn/sieu-mau-xuan-lan-va-cau-chuyen-ve-hanh-phuc-196240308094656434.htm) - 04:31 08/03/2024
-- 🥷 [Nhận hối lộ 5,2 triệu USD, cựu trưởng đoàn thanh tra nói không chia cho ai](https://nld.com.vn/nhan-hoi-lo-52-trieu-usd-cuu-truong-doan-thanh-tra-noi-khong-chia-cho-ai-196240308112719148.htm) - 04:28 08/03/2024
+- 🥷 [Xét xử vụ Vạn Thịnh Phát: Nhận hối lộ 5,2 triệu USD, cựu trưởng đoàn thanh tra nói gì?](https://nld.com.vn/nhan-hoi-lo-52-trieu-usd-cuu-truong-doan-thanh-tra-noi-khong-chia-cho-ai-196240308112719148.htm) - 04:28 08/03/2024
 - 🫶 [Tuấn Anh sắp chia tay HAGL, gia nhập CLB Nam Định?](https://nld.com.vn/tuan-anh-sap-chia-tay-hagl-gia-nhap-clb-nam-dinh-196240308105602805.htm) - 04:24 08/03/2024
 - 🐻 [Bên trong tàu cao tốc lớn nhất Việt Nam](https://nld.com.vn/ben-trong-tau-cao-toc-lon-nhat-viet-nam-1962403081109392.htm) - 04:23 08/03/2024
 - 🐲 [Những nữ chiến sĩ công an làm mẹ đỡ đầu trẻ mồ côi](https://nld.com.vn/nhung-nu-chien-si-cong-an-lam-me-do-dau-tre-mo-coi-196240308103644421.htm) - 04:21 08/03/2024
 - 🧑‍💻 [Máy bay chở 249 người rơi bánh giữa không trung ở Mỹ](https://nld.com.vn/may-bay-cho-249-nguoi-roi-banh-giua-khong-trung-o-my-196240308095309319.htm) - 04:20 08/03/2024
 - 🎬 [Điểm danh những dự án căn hộ giá dưới 2 tỉ đồng &quot;sát vách&quot; TP HCM](https://nld.com.vn/diem-danh-nhung-du-an-can-ho-gia-duoi-2-ti-dong-sat-vach-tp-hcm-196240308102059315.htm) - 04:19 08/03/2024
-- 👀 [Cựu Trưởng ban kiểm soát SCB được bà Trương Mỹ Lan cho 20 tỉ đồng](https://nld.com.vn/cuu-truong-ban-kiem-soat-scb-duoc-ba-truong-my-lan-cho-20-ti-dong-196240308110305702.htm) - 04:18 08/03/2024
+- 👀 [Xét xử vụ Vạn Thịnh Phát: Cựu Trưởng ban kiểm soát SCB được cho 20 tỉ đồng](https://nld.com.vn/cuu-truong-ban-kiem-soat-scb-duoc-ba-truong-my-lan-cho-20-ti-dong-196240308110305702.htm) - 04:18 08/03/2024
 - 👍 [Hơn 1 tỉ cổ phiếu Nam A Bank chính thức chào sàn HOSE](https://nld.com.vn/hon-1-ti-co-phieu-nam-a-bank-chinh-thuc-chao-san-hose-196240308105002553.htm) - 04:16 08/03/2024
 - 🦅 [Thủ tướng thúc đẩy hợp tác với tổ chức khoa học công nghệ hàng đầu thế giới của Úc](https://nld.com.vn/thu-tuong-thuc-day-hop-tac-voi-to-chuc-khoa-hoc-cong-nghe-hang-dau-the-gioi-cua-uc-196240308104003681.htm) - 04:12 08/03/2024
 - 🦏 [Nghệ sĩ Hồng Nga bật khóc trước nghĩa cử của NSƯT Phương Hồng Thủy](https://nld.com.vn/nghe-si-hong-nga-bat-khoc-truoc-nghia-cu-cua-nsut-phuong-hong-thuy-19624030810371779.htm) - 03:55 08/03/2024
