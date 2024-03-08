@@ -10,7 +10,7 @@ sidebar_position: 9
 - 🏊 [Nhà mạng đầu tiên có tần số 5G](https://vnexpress.net/nha-mang-dau-tien-co-tan-so-5g-4720192.html) - 15:36 08/03/2024
 - 🎊 [Natalie Portman ly hôn](https://vnexpress.net/natalie-portman-ly-hon-4720200.html) - 15:33 08/03/2024
 - 🎃 [Tin nhắn cuối cùng của đại phó tử nạn trên tàu hàng ở Biển Đỏ](https://vnexpress.net/tin-nhan-cuoi-cung-cua-dai-pho-tu-nan-tren-tau-hang-o-bien-do-4720007.html) - 15:27 08/03/2024
-- 🧰 [Phạm Tuấn Hải đi viện sau khi bị đạp vào cẳng chân](https://vnexpress.net/pham-tuan-hai-di-vien-sau-khi-bi-dap-vao-cang-chan-4720199.html) - 15:19 08/03/2024
+- 🧰 [Phạm Tuấn Hải đi viện sau khi bị đạp vào cổ chân](https://vnexpress.net/pham-tuan-hai-di-vien-sau-khi-bi-dap-vao-co-chan-4720199.html) - 15:19 08/03/2024
 - 🔭 [Nam Định vuột chiến thắng ở phút bù V-League](https://vnexpress.net/nam-dinh-vuot-chien-thang-o-phut-bu-v-league-4720190.html) - 14:16 08/03/2024
 - 🫶 [Đỗ Hùng Dũng có thể kịp trở lại đấu Indonesia](https://vnexpress.net/do-hung-dung-co-the-kip-tro-lai-dau-indonesia-4720189.html) - 14:01 08/03/2024
 - 🪜 [Người phụ nữ độc lập, cầu tiến mong cùng anh xây đắp tương lai](https://vnexpress.net/nguoi-phu-nu-doc-lap-cau-tien-mong-cung-anh-xay-dap-tuong-lai-4720143.html) - 14:00 08/03/2024
