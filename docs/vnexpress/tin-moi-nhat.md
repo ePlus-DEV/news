@@ -30,7 +30,7 @@ sidebar_position: 9
 - 🌝 [ST Dentist chuẩn hóa quy trình trị liệu nha khoa](https://vnexpress.net/st-dentist-chuan-hoa-quy-trinh-tri-lieu-nha-khoa-4719626.html) - 05:00 08/03/2024
 - 😺 [Sai lầm khiến Ukraine trả giá sau thất bại ở Avdeevka](https://vnexpress.net/sai-lam-khien-ukraine-tra-gia-sau-that-bai-o-avdeevka-4719339.html) - 04:59 08/03/2024
 - 🐎 [Chip bóng như &#39;làm xiếc&#39; ở Arnold Palmer Invitational 2024](https://vnexpress.net/chip-bong-nhu-lam-xiec-o-arnold-palmer-invitational-2024-4720001.html) - 04:57 08/03/2024
-- 🎡 [Tác giả &#39;7 viên ngọc rồng&#39; qua đời ở tuổi 69](https://vnexpress.net/tac-gia-7-vien-ngoc-rong-qua-doi-o-tuoi-69-4719957.html) - 04:45 08/03/2024
+- 🎡 [Tác giả &#39;7 viên ngọc rồng&#39; qua đời](https://vnexpress.net/tac-gia-7-vien-ngoc-rong-qua-doi-4719957.html) - 04:45 08/03/2024
 - 👨‍🏫 [Ams2 áp đảo về số giải nhất môn Toán, Tiếng Anh của Hà Nội](https://vnexpress.net/ams2-ap-dao-ve-so-giai-nhat-mon-toan-tieng-anh-cua-ha-noi-4719954.html) - 04:45 08/03/2024
 - 🦆 [Tiger Woods thêm quyền lực trên PGA Tour](https://vnexpress.net/tiger-woods-them-quyen-luc-tren-pga-tour-4719992.html) - 04:43 08/03/2024
 - 🚦 [Cựu cục trưởng Đỗ Thị Nhàn: &#39;Nhiều lần liên hệ trả lại 5,2 triệu USD nhưng không được&#39;](https://vnexpress.net/cuu-cuc-truong-do-thi-nhan-nhieu-lan-lien-he-tra-lai-5-2-trieu-usd-nhung-khong-duoc-4719964.html) - 04:41 08/03/2024
