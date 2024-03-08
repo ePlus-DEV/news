@@ -4,8 +4,8 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [&#39;Ngừng tuyển sinh lớp 6 vào trường chuyên là đương nhiên&#39;](https://vnexpress.net/ngung-tuyen-sinh-lop-6-vao-truong-chuyen-la-duong-nhien-4719790.html) - 00:13 08/03/2024
-- 🦆 [Cựu sinh viên Ngoại thương giành học bổng đại học số 1 Hà Lan](https://vnexpress.net/cuu-sinh-vien-ngoai-thuong-gianh-hoc-bong-dai-hoc-so-1-ha-lan-4719384.html) - 23:17 07/03/2024
+- 🤓 [Bộ Giáo dục: Ngừng tuyển lớp 6 trường chuyên là đương nhiên](https://vnexpress.net/bo-giao-duc-ngung-tuyen-lop-6-truong-chuyen-la-duong-nhien-4719790.html) - 00:13 08/03/2024
+- 🦆 [Cựu sinh viên Ngoại thương giành học bổng đại học top 50 thế giới](https://vnexpress.net/cuu-sinh-vien-ngoai-thuong-gianh-hoc-bong-dai-hoc-top-50-the-gioi-4719384.html) - 23:17 07/03/2024
 - 🦩 [Australia, Canada siết visa khiến du học sinh e ngại](https://vnexpress.net/australia-canada-siet-visa-khien-du-hoc-sinh-e-ngai-4718682.html) - 17:00 07/03/2024
 - 🌮 [Có nên bỏ Khoa học máy tính để học Kinh tế?](https://vnexpress.net/co-nen-bo-khoa-hoc-may-tinh-de-hoc-kinh-te-4719291.html) - 16:59 07/03/2024
 - 🔭 [Vua nhà Nguyễn nào nổi tiếng với tài vẽ tranh?](https://vnexpress.net/vua-nha-nguyen-nao-noi-tieng-voi-tai-ve-tranh-4719677.html) - 13:22 07/03/2024
