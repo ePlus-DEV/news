@@ -9,7 +9,7 @@ sidebar_position: 2
 - 🤭 [Ông Medvedev: Nga không còn lằn ranh đỏ với Pháp](https://vnexpress.net/ong-medvedev-nga-khong-con-lan-ranh-do-voi-phap-4719884.html) - 02:45 08/03/2024
 - 🧑‍💻 [Tòa yêu cầu ông Trump bồi thường ngay cho cựu nhà báo bị phỉ báng](https://vnexpress.net/toa-yeu-cau-ong-trump-boi-thuong-ngay-cho-cuu-nha-bao-bi-phi-bang-4719849.html) - 02:20 08/03/2024
 - 🦏 [Czech nói Ukraine sắp nhận 800.000 quả đạn pháo](https://vnexpress.net/czech-noi-ukraine-sap-nhan-800-000-qua-dan-phao-4719848.html) - 01:46 08/03/2024
-- 🦒 [Ông Biden đọc Thông điệp Liên bang](https://vnexpress.net/ong-biden-doc-thong-diep-lien-bang-4719841.html) - 01:29 08/03/2024
+- 🦒 [Ông Biden: Nền kinh tế Mỹ khiến thế giới ghen tị](https://vnexpress.net/ong-biden-doc-thong-diep-lien-bang-4719841.html) - 01:29 08/03/2024
 - 🌈 [Thông điệp Liên bang - cơ hội vàng để ông Biden củng cố vị thế](https://vnexpress.net/thong-diep-lien-bang-co-hoi-vang-de-ong-biden-cung-co-vi-the-4719365.html) - 00:59 08/03/2024
 - 🧑‍🏫 [Anh sẽ cung cấp hơn 10.000 UAV cho Ukraine](https://vnexpress.net/anh-se-cung-cap-hon-10-000-uav-cho-ukraine-4719820.html) - 00:17 08/03/2024
 - 🐲 [Ông Kim Jong-un giám sát tập trận pháo binh](https://vnexpress.net/ong-kim-jong-un-giam-sat-tap-tran-phao-binh-4719819.html) - 00:02 08/03/2024
