@@ -584,7 +584,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦣 [16 đội thi xuất sắc nhất bước vào vòng chung kết cuộc thi &#39;Tiếng nói Xanh&#39;](https://tienphong.vn/16-doi-thi-xuat-sac-nhat-buoc-vao-vong-chung-ket-cuoc-thi-tieng-noi-xanh-post1618412.tpo) - 11:52 08/03/2024
 - 🤓 [Việt Nam sẽ quan trắc tự động thuỷ ngân trong không khí](https://tienphong.vn/viet-nam-se-quan-trac-tu-dong-thuy-ngan-trong-khong-khi-post1618423.tpo) - 11:52 08/03/2024
 - 🌁 [Phát sốt với set quà &#39;trà bánh trong hoa&#39; dịp 8/3](https://tienphong.vn/phat-sot-voi-set-qua-tra-banh-trong-hoa-dip-83-post1618370.tpo) - 11:49 08/03/2024
-- 🤩 [Chồng của bà Trương Mỹ Lan muốn khắc phục hậu quả](https://tienphong.vn/chong-cua-ba-truong-my-lan-muon-khac-phuc-hau-qua-post1618351.tpo) - 11:46 08/03/2024
+- 🤩 [Chồng của bà Trương Mỹ Lan mong muốn được khắc phục hậu quả](https://tienphong.vn/chong-cua-ba-truong-my-lan-mong-muon-duoc-khac-phuc-hau-qua-post1618351.tpo) - 11:46 08/03/2024
 - 🫶 [Cựu nữ cục trưởng thanh tra khai về khoản tiền 5,2 triệu USD nhận từ Trương Mỹ Lan](https://tienphong.vn/cuu-nu-cuc-truong-thanh-tra-khai-ve-khoan-tien-52-trieu-usd-nhan-tu-truong-my-lan-post1618426.tpo) - 11:45 08/03/2024
 - 🌁 [NAB chính thức chào sàn Hose với giá tham chiếu 15.900 đồng](https://tienphong.vn/nab-chinh-thuc-chao-san-hose-voi-gia-tham-chieu-15900-dong-post1618419.tpo) - 11:44 08/03/2024
 - 🤭 [Tiếp tục... hy vọng!](https://tienphong.vn/tiep-tuc-hy-vong-post1618316.tpo) - 11:40 08/03/2024
