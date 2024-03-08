@@ -145,7 +145,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
 - 🤠 [Thủ tướng: &#39;Tình cảm từ trái tim đến trái tim thì không gì ngăn cản được&#39;](https://thanhnien.vn/thu-tuong-tinh-cam-tu-trai-tim-den-trai-tim-thi-khong-gi-ngan-can-duoc-185240308113917515.htm) - 05:10 08/03/2024
-- 🥸 [Vì sao Chu Lập Cơ là chồng Trương Mỹ Lan thừa nhận vi phạm?](https://thanhnien.vn/vi-sao-chu-lap-co-la-chong-truong-my-lan-thua-nhan-vi-pham-185240308113824123.htm) - 05:07 08/03/2024
+- 🥸 [Vì sao Chu Lập Cơ - chồng Trương Mỹ Lan thừa nhận vi phạm?](https://thanhnien.vn/vi-sao-chu-lap-co-la-chong-truong-my-lan-thua-nhan-vi-pham-185240308113824123.htm) - 05:07 08/03/2024
 - 🌁 [Hàng ngàn &#39;bóng hồng&#39; cùng đồng diễn áo dài](https://thanhnien.vn/hang-ngan-bong-hong-cung-dong-dien-ao-dai-185240308112527522.htm) - 05:03 08/03/2024
 - 🤡 [&#39;Mưa tim&#39; cho du học sinh từng thuộc diện xóa đói giảm nghèo](https://thanhnien.vn/mua-tim-cho-du-hoc-sinh-tung-thuoc-dien-xoa-doi-giam-ngheo-185240307233012711.htm) - 05:02 08/03/2024
 - 🎉 [Hàng vạn khách Trung Quốc vào Việt Nam qua Cửa khẩu quốc tế Móng Cái](https://thanhnien.vn/hang-van-khach-trung-quoc-vao-viet-nam-qua-cua-khau-quoc-te-mong-cai-18524030810544603.htm) - 05:01 08/03/2024
