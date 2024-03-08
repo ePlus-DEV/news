@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Bí thư Vĩnh Phúc Hoàng Thị Thúy Lan bị bắt](https://vnexpress.net/bi-thu-vinh-phuc-hoang-thi-thuy-lan-bi-bat-4719643.html) - 11:00 08/03/2024
+- 😎 [Bí thư Tỉnh uỷ Vĩnh Phúc Hoàng Thị Thúy Lan bị bắt](https://vnexpress.net/bi-thu-vinh-phuc-hoang-thi-thuy-lan-bi-bat-4719643.html) - 11:00 08/03/2024
 - 🥰 [Chủ tịch Vĩnh Phúc Lê Duy Thành bị bắt](https://vnexpress.net/chu-tich-vinh-phuc-le-duy-thanh-bi-bat-4719632.html) - 11:00 08/03/2024
 - 🎓 [Tỷ phú Hong Kong Chu Lập Cơ: &#39;Giờ đã ý thức được sai phạm&#39;](https://vnexpress.net/ty-phu-hong-kong-chu-lap-co-gio-da-y-thuc-duoc-sai-pham-4720031.html) - 08:44 08/03/2024
 - 🤓 [Tên trộm vặt bị bắt lại khi vừa xong án tù](https://vnexpress.net/bi-bat-lai-ngay-khi-chap-hanh-xong-an-tu-4720030.html) - 08:13 08/03/2024
