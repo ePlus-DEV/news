@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [TAND tỉnh Kon Tum &#39;hủy, sửa nhiều bản án trái pháp luật&#39;](https://vnexpress.net/tand-tinh-kon-tum-huy-sua-nhieu-ban-an-trai-phap-luat-4720127.html) - 10:10 08/03/2024
 - 🤓 [Bạc Liêu có hai phó chủ tịch UBND tỉnh mới](https://vnexpress.net/bac-lieu-co-2-tan-pho-chu-tich-ubnd-tinh-4720125.html) - 10:05 08/03/2024
 - ⚗️ [Nguyên chủ tịch tỉnh Phú Yên Phạm Đình Cự bị đề nghị kỷ luật](https://vnexpress.net/nguyen-chu-tich-tinh-phu-yen-pham-dinh-cu-bi-de-nghi-ky-luat-4720120.html) - 09:54 08/03/2024
-- 🌊 [Bộ trưởng Đào Ngọc Dung &#39;vi phạm đến mức phải xem xét kỷ luật&#39;](https://vnexpress.net/bo-truong-dao-ngoc-dung-vi-pham-den-muc-phai-xem-xet-ky-luat-4720110.html) - 09:36 08/03/2024
+- 🌊 [Bộ trưởng Đào Ngọc Dung bị xem xét kỷ luật](https://vnexpress.net/bo-truong-dao-ngoc-dung-bi-xem-xet-ky-luat-4720110.html) - 09:36 08/03/2024
 - 🎓 [Xây dựng thêm 113 điểm quan trắc chất lượng không khí](https://vnexpress.net/xay-dung-them-113-diem-quan-trac-chat-luong-khong-khi-4719937.html) - 05:38 08/03/2024
 - 🔥 [Xe tải lật chắn ngang cao tốc Cam Lộ - La Sơn](https://vnexpress.net/xe-tai-lat-chan-ngang-cao-toc-cam-lo-la-son-4719962.html) - 05:06 08/03/2024
 - 🦏 [Gần 25 năm thấp thỏm với quy hoạch khu Mả Lạng](https://vnexpress.net/gan-25-nam-thap-thom-voi-quy-hoach-khu-ma-lang-4719789.html) - 03:06 08/03/2024
