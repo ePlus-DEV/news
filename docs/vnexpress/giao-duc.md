@@ -8,7 +8,7 @@ sidebar_position: 7
 - 🦆 [Công bố cấu trúc đề thi tốt nghiệp THPT năm 2025](https://vnexpress.net/cong-bo-cau-truc-de-thi-tot-nghiep-thpt-nam-2025-4720166.html) - 12:05 08/03/2024
 - 🦩 [Gọi tên người phụ nữ trong gia đình bằng tiếng Anh](https://vnexpress.net/goi-ten-nguoi-phu-nu-trong-gia-dinh-bang-tieng-anh-4720051.html) - 10:43 08/03/2024
 - 🌮 [Thêm 5 chứng chỉ được tính 10 điểm tiếng Anh thi tốt nghiệp](https://vnexpress.net/them-5-chung-chi-duoc-tinh-10-diem-tieng-anh-thi-tot-nghiep-4720137.html) - 10:26 08/03/2024
-- 🔭 [Trường Đại học Công nghệ tăng hơn 1.100 chỉ tiêu](https://vnexpress.net/truong-dai-hoc-cong-nghe-tang-hon-1-100-chi-tieu-4720055.html) - 10:17 08/03/2024
+- 🔭 [Trường Đại học Công nghệ tặng laptop cho tân sinh viên](https://vnexpress.net/truong-dai-hoc-cong-nghe-tang-laptop-cho-tan-sinh-vien-4720055.html) - 10:17 08/03/2024
 - 💡 [Thủ tướng đề nghị Australia tăng gấp đôi học bổng cho sinh viên Việt Nam](https://vnexpress.net/thu-tuong-de-nghi-australia-tang-gap-doi-hoc-bong-cho-sinh-vien-viet-nam-4720037.html) - 07:47 08/03/2024
 - 🥰 [Ams2 áp đảo về số giải nhất môn Toán, Tiếng Anh của Hà Nội](https://vnexpress.net/ams2-ap-dao-ve-so-giai-nhat-mon-toan-tieng-anh-cua-ha-noi-4719954.html) - 04:45 08/03/2024
 - 🐲 [Phụ huynh bất ngờ nhận quà 8/3 ở cổng trường](https://vnexpress.net/phu-huynh-bat-ngo-nhan-qua-8-3-o-cong-truong-4719924.html) - 04:32 08/03/2024
