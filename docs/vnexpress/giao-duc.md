@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Ams2 áp đảo về số giải nhất thi học sinh giỏi của Hà Nội](https://vnexpress.net/ams2-ap-dao-ve-so-giai-nhat-thi-hoc-sinh-gioi-cua-ha-noi-4719954.html) - 04:45 08/03/2024
+- 🤓 [Ams2 áp đảo về số giải nhất môn Toán, Tiếng Anh của Hà Nội](https://vnexpress.net/ams2-ap-dao-ve-so-giai-nhat-mon-toan-tieng-anh-cua-ha-noi-4719954.html) - 04:45 08/03/2024
 - 🦆 [Phụ huynh bất ngờ nhận quà 8/3 ở cổng trường](https://vnexpress.net/phu-huynh-bat-ngo-nhan-qua-8-3-o-cong-truong-4719924.html) - 04:32 08/03/2024
 - 🦩 [Tọa đàm về xu hướng hợp tác giáo dục đại học xuyên quốc gia](https://vnexpress.net/toa-dam-ve-xu-huong-hop-tac-giao-duc-dai-hoc-xuyen-quoc-gia-4718728.html) - 03:00 08/03/2024
 - 🌮 [Bộ Giáo dục: Ngừng tuyển lớp 6 trường chuyên là đương nhiên](https://vnexpress.net/bo-giao-duc-ngung-tuyen-lop-6-truong-chuyen-la-duong-nhien-4719790.html) - 00:13 08/03/2024
