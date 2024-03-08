@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Những bộ đầm nửa kín nửa hở ở lịch sử Oscar](https://vnexpress.net/nhung-bo-dam-nua-kin-nua-ho-o-lich-su-oscar-4719916.html) - 05:00 08/03/2024
-- 💫 [Tác giả &#39;7 viên ngọc rồng&#39; qua đời ở tuổi 69](https://vnexpress.net/tac-gia-7-vien-ngoc-rong-qua-doi-o-tuoi-69-4719957.html) - 04:45 08/03/2024
+- 💫 [Tác giả &#39;7 viên ngọc rồng&#39; qua đời](https://vnexpress.net/tac-gia-7-vien-ngoc-rong-qua-doi-4719957.html) - 04:45 08/03/2024
 - 🌮 [Thái Hòa đóng đại gia](https://vnexpress.net/thai-hoa-dong-dai-gia-4718267.html) - 03:53 08/03/2024
 - 🧠 [Dàn hoa hậu, á hậu diễn áo dài trên phố Nguyễn Huệ](https://vnexpress.net/dan-hoa-hau-a-hau-dien-ao-dai-tren-pho-nguyen-hue-4719851.html) - 03:38 08/03/2024
 - 👨‍🏫 [Cô dâu tiệc cưới cổ tích nhà tỷ phú Ấn Độ](https://vnexpress.net/co-dau-tiec-cuoi-co-tich-nha-ty-phu-an-do-4719881.html) - 02:56 08/03/2024
