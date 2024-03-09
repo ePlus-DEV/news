@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Ngoại trưởng Anh phản đối đưa quân đến Ukraine huấn luyện](https://vnexpress.net/ngoai-truong-anh-phan-doi-dua-quan-den-ukraine-huan-luyen-4720455.html) - 13:58 09/03/2024
-- 🕴 [Mỹ có thể đã chuẩn bị cho kịch bản chiến tranh hạt nhân ở Ukraine](https://vnexpress.net/my-co-the-da-chuan-bi-cho-kich-ban-chien-tranh-hat-nhan-o-ukraine-4720437.html) - 13:38 09/03/2024
+- 🕴 [Mỹ &#39;từng chuẩn bị cho kịch bản chiến tranh hạt nhân&#39; ở Ukraine](https://vnexpress.net/my-tung-chuan-bi-cho-kich-ban-chien-tranh-hat-nhan-o-ukraine-4720437.html) - 13:38 09/03/2024
 - 🤭 [Người Ukraine thấp thỏm với đà tiến của Nga](https://vnexpress.net/nguoi-ukraine-thap-thom-voi-da-tien-cua-nga-4718888.html) - 12:00 09/03/2024
 - 🧑‍💻 [Armenia cân nhắc xin gia nhập EU](https://vnexpress.net/armenia-can-nhac-xin-gia-nhap-eu-4720428.html) - 10:55 09/03/2024
 - 🦏 [Nga tuyên bố hạ 47 UAV Ukraine ở các tỉnh biên giới](https://vnexpress.net/nga-tuyen-bo-ha-47-uav-ukraine-o-cac-tinh-bien-gioi-4720409.html) - 09:44 09/03/2024
