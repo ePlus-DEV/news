@@ -31,7 +31,7 @@ sidebar_position: 9
 - 😺 [Tiến Linh đưa Bình Dương lên thứ hai V-League](https://vnexpress.net/tien-linh-dua-binh-duong-len-thu-hai-v-league-4720459.html) - 14:32 09/03/2024
 - 🐎 [Thủ môn tuyển Việt Nam nhập viện](https://vnexpress.net/thu-mon-tuyen-viet-nam-nhap-vien-4720467.html) - 14:30 09/03/2024
 - 🎡 [Man Utd thắng nhờ hai bàn phạt đền](https://vnexpress.net/man-utd-thang-nho-hai-ban-phat-den-4720456.html) - 14:26 09/03/2024
-- 👨‍🏫 [Cháy lớn trong khuôn viên trụ sở công an huyện ở Bình Thuận](https://vnexpress.net/chay-lon-trong-khuon-vien-tru-so-cong-an-huyen-o-binh-thuan-4720460.html) - 14:10 09/03/2024
+- 👨‍🏫 [Cháy 200 xe tang vật trong trụ sở công an huyện ở Bình Thuận](https://vnexpress.net/chay-200-xe-tang-vat-trong-tru-so-cong-an-huyen-o-binh-thuan-4720460.html) - 14:10 09/03/2024
 - 🦆 [Trung vệ Bùi Hoàng Việt Anh khâu 24 mũi](https://vnexpress.net/trung-ve-bui-hoang-viet-anh-khau-24-mui-4720458.html) - 14:00 09/03/2024
 - 🚦 [Đại học Y Hà Nội dự kiến mở 4 ngành mới, tăng xét tuyển chứng chỉ ngoại ngữ](https://vnexpress.net/dai-hoc-y-ha-noi-du-kien-mo-4-nganh-moi-tang-xet-tuyen-chung-chi-ngoai-ngu-4720445.html) - 14:00 09/03/2024
 - 💫 [Em thông minh, hiểu biết, thận trọng trong tình yêu](https://vnexpress.net/em-thong-minh-hieu-biet-than-trong-trong-tinh-yeu-4720245.html) - 14:00 09/03/2024
