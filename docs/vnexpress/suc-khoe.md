@@ -10,7 +10,7 @@ sidebar_position: 10
 - 🤗 [Ăn đường phèn &#39;mát&#39; hơn đường trắng?](https://vnexpress.net/an-duong-phen-mat-hon-duong-trang-4720396.html) - 17:04 09/03/2024
 - 🪜 [9 món ăn uống cải thiện thiếu máu não](https://vnexpress.net/9-mon-an-uong-cai-thien-thieu-mau-nao-4720384.html) - 17:00 09/03/2024
 - 🕯 [Có nên uống nước lá cây để tan sỏi thận?](https://vnexpress.net/co-nen-uong-nuoc-la-cay-de-tan-soi-than-4720404.html) - 12:00 09/03/2024
-- 🤭 [Hàm răng giả rơi vào thực quản cụ bà](https://vnexpress.net/ham-rang-gia-roi-vao-thuc-quan-cu-ba-4720444.html) - 11:00 09/03/2024
+- 🤭 [Hàm răng giả rơi vào thực quản người phụ nữ](https://vnexpress.net/ham-rang-gia-roi-vao-thuc-quan-nguoi-phu-nu-4720444.html) - 11:00 09/03/2024
 - 👀 [Quá trình thụ thai diễn ra thế nào](https://vnexpress.net/qua-trinh-thu-thai-dien-ra-the-nao-4720335.html) - 11:00 09/03/2024
 - 🌋 [Con vắt sống trong hốc mũi bé gái](https://vnexpress.net/con-vat-song-trong-hoc-mui-be-gai-4720392.html) - 09:50 09/03/2024
 - 🫶 [Mẹo giảm đau khớp khi ngủ](https://vnexpress.net/meo-giam-dau-khop-khi-ngu-4720375.html) - 09:00 09/03/2024
