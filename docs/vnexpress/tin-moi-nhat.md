@@ -33,7 +33,7 @@ sidebar_position: 9
 - 🎡 [Em thông minh, hiểu biết, thận trọng trong tình yêu](https://vnexpress.net/em-thong-minh-hieu-biet-than-trong-trong-tinh-yeu-4720245.html) - 14:00 09/03/2024
 - 👨‍🏫 [Không thích bố mẹ vợ thường xuyên đến nhà tôi](https://vnexpress.net/khong-thich-bo-me-vo-thuong-xuyen-den-nha-toi-4719213.html) - 14:00 09/03/2024
 - 🦆 [Ngoại trưởng Anh phản đối đưa quân đến Ukraine huấn luyện](https://vnexpress.net/ngoai-truong-anh-phan-doi-dua-quan-den-ukraine-huan-luyen-4720455.html) - 13:58 09/03/2024
-- 🚦 [Chung kết Miss World 2024: Công bố Top 4](https://vnexpress.net/chung-ket-miss-world-2024-cong-bo-top-4-4720417.html) - 13:42 09/03/2024
+- 🚦 [Người đẹp Cộng hòa Czech đăng quang Miss World lần thứ 71](https://vnexpress.net/nguoi-dep-cong-hoa-czech-dang-quang-miss-world-lan-thu-71-4720417.html) - 13:42 09/03/2024
 - 💫 [Tuấn Anh chia tay HAGL](https://vnexpress.net/tuan-anh-chia-tay-hagl-4720454.html) - 13:41 09/03/2024
 - 🎉 [Mỹ &#39;từng chuẩn bị cho kịch bản chiến tranh hạt nhân&#39; ở Ukraine](https://vnexpress.net/my-tung-chuan-bi-cho-kich-ban-chien-tranh-hat-nhan-o-ukraine-4720437.html) - 13:38 09/03/2024
 - 🌋 [Tỉnh nào rộng nhất Nam Bộ?](https://vnexpress.net/tinh-nao-rong-nhat-nam-bo-4720429.html) - 13:11 09/03/2024
