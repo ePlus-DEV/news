@@ -8,7 +8,7 @@ sidebar_position: 3
 - 🐲 [Trung Quốc thoát giảm phát](https://vnexpress.net/trung-quoc-thoat-giam-phat-4720333.html) - 04:45 09/03/2024
 - 🔥 [Việt Nam vượt Chile đứng thứ 2 về xuất rau quả sang Trung Quốc](https://vnexpress.net/viet-nam-vuot-chile-dung-thu-2-ve-xuat-rau-qua-sang-trung-quoc-4720252.html) - 03:13 09/03/2024
 - 🐵 [Doanh nhân Việt tại Australia hiến kế phát triển kinh tế](https://vnexpress.net/doanh-nhan-viet-tai-australia-hien-ke-phat-trien-kinh-te-4720278.html) - 03:00 09/03/2024
-- 🦅 [Giá vàng miếng vượt 82 triệu đồng](https://vnexpress.net/gia-vang-mieng-vuot-82-trieu-dong-4720304.html) - 02:52 09/03/2024
+- 🦅 [Giá vàng nhẫn cao kỷ lục hơn 71 triệu đồng](https://vnexpress.net/gia-vang-mieng-vuot-82-trieu-dong-4720304.html) - 02:52 09/03/2024
 - 😺 [Giá vàng thế giới nối dài chuỗi tăng kỷ lục](https://vnexpress.net/gia-vang-the-gioi-noi-dai-chuoi-tang-ky-luc-4720251.html) - 01:44 09/03/2024
 - 🤩 [Nước tương lâu đời Việt Nam xuất chính ngạch sang Mỹ](https://vnexpress.net/nuoc-tuong-lau-doi-viet-nam-xuat-chinh-ngach-sang-my-4720066.html) - 01:20 09/03/2024
 - 🌮 [Những nước dự trữ vàng nhiều nhất thế giới](https://vnexpress.net/nhung-nuoc-du-tru-vang-nhieu-nhat-the-gioi-4720147.html) - 00:39 09/03/2024
