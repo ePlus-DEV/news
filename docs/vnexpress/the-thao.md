@@ -6,14 +6,14 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Thể Công thắng đậm Công an Hà Nội](https://vnexpress.net/the-cong-thang-dam-cong-an-ha-noi-4720469.html) - 14:44 09/03/2024
 - 🦩 [Tiến Linh đưa Bình Dương lên thứ hai V-League](https://vnexpress.net/tien-linh-dua-binh-duong-len-thu-hai-v-league-4720459.html) - 14:32 09/03/2024
-- 🧰 [Thủ môn tuyển Việt Nam phải nhập viện cấp cứu](https://vnexpress.net/thu-mon-tuyen-viet-nam-phai-nhap-vien-cap-cuu-4720467.html) - 14:30 09/03/2024
+- 🧰 [Thủ môn tuyển Việt Nam nhập viện](https://vnexpress.net/thu-mon-tuyen-viet-nam-nhap-vien-4720467.html) - 14:30 09/03/2024
 - 🤗 [Man Utd thắng nhờ hai bàn phạt đền](https://vnexpress.net/man-utd-thang-nho-hai-ban-phat-den-4720456.html) - 14:26 09/03/2024
-- 🥳 [Trung vệ Bùi Hoàng Việt Anh nhập viện](https://vnexpress.net/trung-ve-bui-hoang-viet-anh-nhap-vien-4720458.html) - 14:00 09/03/2024
+- 🥳 [Trung vệ Bùi Hoàng Việt Anh khâu bốn mũi](https://vnexpress.net/trung-ve-bui-hoang-viet-anh-khau-bon-mui-4720458.html) - 14:00 09/03/2024
 - 🦣 [Tuấn Anh chia tay HAGL](https://vnexpress.net/tuan-anh-chia-tay-hagl-4720454.html) - 13:41 09/03/2024
 - 🌜 [HAGL thắng trận thứ hai liên tiếp ở V-League](https://vnexpress.net/hagl-thang-tran-thu-hai-lien-tiep-o-v-league-4720436.html) - 12:27 09/03/2024
 - 🫶 [Henry: &#39;Real khôn ngoan khi bán Varane, Casemiro&#39;](https://vnexpress.net/henry-real-khon-ngoan-khi-ban-varane-casemiro-4720407.html) - 09:27 09/03/2024
 - 🌜 [Việt Nam mất tiền đạo Tuấn Hải khi đấu Indonesia](https://vnexpress.net/viet-nam-mat-tien-dao-tuan-hai-khi-dau-indonesia-4720413.html) - 09:18 09/03/2024
-- 😺 [Tốc độ nhanh nhất của con người](https://vnexpress.net/toc-do-nhanh-nhat-cua-con-nguoi-4720391.html) - 07:48 09/03/2024
+- 😺 [Tốc độ nhanh nhất của con người là bao nhiêu?](https://vnexpress.net/toc-do-nhanh-nhat-cua-con-nguoi-la-bao-nhieu-4720391.html) - 07:48 09/03/2024
 - 👍 [Hà Nội FC chiêu mộ tiền đạo Đình Bắc](https://vnexpress.net/ha-noi-fc-chieu-mo-tien-dao-dinh-bac-4720362.html) - 06:37 09/03/2024
 - 🐵 [Đại chiến Liverpool - Man City thắp sáng sân cỏ Ngoại hạng Anh](https://vnexpress.net/dai-chien-liverpool-man-city-thap-sang-san-co-ngoai-hang-anh-4720355.html) - 06:29 09/03/2024
 - 💫 [Verstappen dọa rời Red Bull](https://vnexpress.net/verstappen-doa-roi-red-bull-4720332.html) - 04:34 09/03/2024
