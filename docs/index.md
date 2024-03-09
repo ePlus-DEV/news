@@ -610,7 +610,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💂 [Tá hoả phát hiện thi thể người đàn ông bị cháy đen, mất dương vật](https://tienphong.vn/ta-hoa-phat-hien-thi-the-nguoi-dan-ong-bi-chay-den-mat-duong-vat-post1618657.tpo) - 10:38 09/03/2024
 - 🦏 [Hà Nội FC quyết tâm giành Đình Bắc từ tay Quảng Nam](https://tienphong.vn/ha-noi-fc-quyet-tam-gianh-dinh-bac-tu-tay-quang-nam-post1618664.tpo) - 10:28 09/03/2024
 - 🌋 [Sở Giao dịch chứng khoán Việt Nam có tân chủ tịch](https://tienphong.vn/so-giao-dich-chung-khoan-viet-nam-co-tan-chu-tich-post1618655.tpo) - 10:01 09/03/2024
-- 🧰 [Vàng SJC phá vỡ mọi kỷ lục, vượt 82 triệu đồng/lượng](https://tienphong.vn/vang-sjc-pha-vo-moi-ky-luc-vuot-82-trieu-dongluong-post1618659.tpo) - 09:59 09/03/2024
+- 🧰 [Choáng váng vì giá vàng tăng &#39;điên loạn&#39;](https://tienphong.vn/choang-vang-vi-gia-vang-tang-dien-loan-post1618659.tpo) - 09:59 09/03/2024
 - 🦩 [Tìm kiếm đất nền bật tăng, giá chung cư cao cấp giảm nhẹ](https://tienphong.vn/tim-kiem-dat-nen-bat-tang-gia-chung-cu-cao-cap-giam-nhe-post1618662.tpo) - 09:57 09/03/2024
 - 📝 [Mảng xanh và khoảng trời trong ngôi nhà rộng 228m2](https://tienphong.vn/mang-xanh-va-khoang-troi-trong-ngoi-nha-rong-228m2-post1618648.tpo) - 09:55 09/03/2024
 - 🤓 [Ngân hàng nào đang cho vay mua nhà lãi suất thấp nhất thị trường?](https://tienphong.vn/ngan-hang-nao-dang-cho-vay-mua-nha-lai-suat-thap-nhat-thi-truong-post1618651.tpo) - 09:54 09/03/2024
