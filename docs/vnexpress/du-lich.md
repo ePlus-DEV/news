@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Vì sao công ty lữ hành Việt thờ ơ với tour Taylor Swift?](https://vnexpress.net/vi-sao-cong-ty-lu-hanh-viet-tho-o-voi-tour-taylor-swift-4719746.html) - 17:00 09/03/2024
+- 💂 [Lý do công ty lữ hành Việt thờ ơ với tour Taylor Swift](https://vnexpress.net/ly-do-cong-ty-lu-hanh-viet-tho-o-voi-tour-taylor-swift-4719746.html) - 17:00 09/03/2024
 - 🪄 [48 giờ ở Hòa Bình](https://vnexpress.net/48-gio-o-hoa-binh-4719555.html) - 08:00 09/03/2024
 - 🦅 [&#39;Cao nguyên trắng&#39; Bắc Hà vào mùa hoa mận](https://vnexpress.net/cao-nguyen-trang-bac-ha-vao-mua-hoa-man-4720207.html) - 07:33 09/03/2024
 - 🕴 [Ngôi đền cổ nhất xứ Thanh lưu giữ báu vật nghìn năm](https://vnexpress.net/ngoi-den-co-nhat-xu-thanh-luu-giu-bau-vat-nghin-nam-4718546.html) - 07:23 09/03/2024
