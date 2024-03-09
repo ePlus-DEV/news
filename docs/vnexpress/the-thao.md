@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [Tiến Linh đưa Bình Dương lên thứ hai V-League](https://vnexpress.net/tien-linh-dua-binh-duong-len-thu-hai-v-league-4720459.html) - 14:32 09/03/2024
 - 🧰 [Thủ môn tuyển Việt Nam nhập viện](https://vnexpress.net/thu-mon-tuyen-viet-nam-nhap-vien-4720467.html) - 14:30 09/03/2024
 - 🤗 [Man Utd thắng nhờ hai bàn phạt đền](https://vnexpress.net/man-utd-thang-nho-hai-ban-phat-den-4720456.html) - 14:26 09/03/2024
-- 🥳 [Trung vệ Bùi Hoàng Việt Anh khâu bốn mũi](https://vnexpress.net/trung-ve-bui-hoang-viet-anh-khau-bon-mui-4720458.html) - 14:00 09/03/2024
+- 🥳 [Trung vệ Bùi Hoàng Việt Anh khâu 24 mũi](https://vnexpress.net/trung-ve-bui-hoang-viet-anh-khau-24-mui-4720458.html) - 14:00 09/03/2024
 - 🦣 [Tuấn Anh chia tay HAGL](https://vnexpress.net/tuan-anh-chia-tay-hagl-4720454.html) - 13:41 09/03/2024
 - 🌜 [HAGL thắng trận thứ hai liên tiếp ở V-League](https://vnexpress.net/hagl-thang-tran-thu-hai-lien-tiep-o-v-league-4720436.html) - 12:27 09/03/2024
 - 🫶 [Henry: &#39;Real khôn ngoan khi bán Varane, Casemiro&#39;](https://vnexpress.net/henry-real-khon-ngoan-khi-ban-varane-casemiro-4720407.html) - 09:27 09/03/2024
