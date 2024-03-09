@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cháy lớn trong khuôn viên trụ sở Công an Tánh Linh](https://vnexpress.net/chay-lon-trong-khuon-vien-tru-so-cong-an-tanh-linh-4720460.html) - 14:10 09/03/2024
+- 🦒 [Cháy lớn trong khuôn viên trụ sở công an huyện ở Bình Thuận](https://vnexpress.net/chay-lon-trong-khuon-vien-tru-so-cong-an-huyen-o-binh-thuan-4720460.html) - 14:10 09/03/2024
 - 🤓 [Điều kiện để làm thứ trưởng](https://vnexpress.net/dieu-kien-de-lam-thu-truong-4720441.html) - 12:38 09/03/2024
 - ⚗️ [Ôtô chở 20 người lật trên cao tốc TP HCM - Trung Lương](https://vnexpress.net/oto-cho-20-nguoi-lat-tren-cao-toc-tp-hcm-trung-luong-4720381.html) - 07:00 09/03/2024
 - 🌊 [Hơn 100 tấn rác, lục bình phủ đầy kênh Nhiêu Lộc](https://vnexpress.net/hon-100-tan-rac-luc-binh-phu-day-kenh-nhieu-loc-4720330.html) - 04:03 09/03/2024
