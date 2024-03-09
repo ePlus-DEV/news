@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Chung kết Miss World 2024: 13 thí sinh được đặc cách vào Top 40](https://vnexpress.net/chung-ket-miss-world-2024-13-thi-sinh-duoc-dac-cach-vao-top-40-4720417.html) - 13:42 09/03/2024
+- 🌏 [Chung kết Miss World 2024: Công bố Top 40](https://vnexpress.net/chung-ket-miss-world-2024-cong-bo-top-40-4720417.html) - 13:42 09/03/2024
 - 💫 [Loạt tranh danh họa Việt thắng đấu giá hàng trăm nghìn euro](https://vnexpress.net/loat-tranh-danh-hoa-viet-thang-dau-gia-hang-tram-nghin-euro-4720405.html) - 13:04 09/03/2024
 - 🌮 [Thời trang đi xe máy của người Việt thành cảm hứng cho nhà mốt Pháp](https://vnexpress.net/thoi-trang-di-xe-may-cua-nguoi-viet-thanh-cam-hung-cho-nha-mot-phap-4720326.html) - 11:22 09/03/2024
 - 🧠 [10 ứng viên vương miện Miss World 2024](https://vnexpress.net/10-ung-vien-vuong-mien-miss-world-2024-4720102.html) - 09:00 09/03/2024
