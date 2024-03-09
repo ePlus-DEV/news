@@ -579,7 +579,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎓 [Tuổi trẻ TPHCM chung sức làm đẹp môi trường, đảm bảo an ninh, an toàn trên phố](https://tienphong.vn/tuoi-tre-tphcm-chung-suc-lam-dep-moi-truong-dam-bao-an-ninh-an-toan-tren-pho-post1618733.tpo) - 21:01 09/03/2024
 - 🦣 [Tiến Linh toả sáng giúp Bình Dương áp sát ngôi đầu](https://tienphong.vn/tien-linh-toa-sang-giup-binh-duong-ap-sat-ngoi-dau-post1618778.tpo) - 20:39 09/03/2024
 - 🤓 [Hàng chục tấn rác thải hôi thối, dồn ứ trên kênh Nhiêu Lộc - Thị Nghè](https://tienphong.vn/hang-chuc-tan-rac-thai-hoi-thoi-don-u-tren-kenh-nhieu-loc-thi-nghe-post1618718.tpo) - 20:36 09/03/2024
-- 🌁 [Chung kết Hoa hậu Thế giới 2024: Mai Phương vào top 40](https://tienphong.vn/chung-ket-hoa-hau-the-gioi-2024-mai-phuong-vao-top-40-post1618686.tpo) - 20:35 09/03/2024
+- 🌁 [Chung kết Hoa hậu Thế giới 2024: Công bố top 12, không có tên Mai Phương](https://tienphong.vn/chung-ket-hoa-hau-the-gioi-2024-cong-bo-top-12-khong-co-ten-mai-phuong-post1618686.tpo) - 20:35 09/03/2024
 - 🤩 [Sò điệp Nhật Bản tươi sống lần đầu tiên xuất hiện tại Việt Nam](https://tienphong.vn/so-diep-nhat-ban-tuoi-song-lan-dau-tien-xuat-hien-tai-viet-nam-post1618781.tpo) - 20:30 09/03/2024
 - 🫶 [Bộ Công Thương nêu đề xuất mới về điều hành giá điện](https://tienphong.vn/bo-cong-thuong-neu-de-xuat-moi-ve-dieu-hanh-gia-dien-post1618775.tpo) - 20:17 09/03/2024
 - 🌁 [HÌNH SỰ: 2 nữ sinh nghi bị người đàn ông lạ mặt dụ dỗ bỏ nhà đi](https://tienphong.vn/hinh-su-2-nu-sinh-nghi-bi-nguoi-dan-ong-la-mat-du-do-bo-nha-di-post1618679.tpo) - 20:13 09/03/2024
@@ -587,7 +587,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💪 [Tiếp tục phát hiện 4kg ma túy trôi dạt vào bờ biển Quảng Ngãi](https://tienphong.vn/tiep-tuc-phat-hien-4kg-ma-tuy-troi-dat-vao-bo-bien-quang-ngai-post1618766.tpo) - 20:06 09/03/2024
 - 🎡 [Thủ tướng Chính phủ Phạm Minh Chính tới Auckland, thăm chính thức New Zealand](https://tienphong.vn/thu-tuong-chinh-phu-pham-minh-chinh-toi-auckland-tham-chinh-thuc-new-zealand-post1618774.tpo) - 19:51 09/03/2024
 - 😎 [Con đường hoa giấy đẹp như phim ở TPHCM gây sốt mạng](https://tienphong.vn/con-duong-hoa-giay-dep-nhu-phim-o-tphcm-gay-sot-mang-post1618737.tpo) - 19:47 09/03/2024
-- 🦄 [Khó hiểu vì 16 dự án hơn 99.000 tỷ ở ĐBSCL chậm tiến độ](https://tienphong.vn/kho-hieu-vi-16-du-an-hon-99000-ty-o-dbscl-cham-tien-do-post1618747.tpo) - 19:12 09/03/2024
+- 🦄 [Khó hiểu vì 16 dự án hơn 99.000 tỷ đồng chậm tiến độ](https://tienphong.vn/kho-hieu-vi-16-du-an-hon-99000-ty-dong-cham-tien-do-post1618747.tpo) - 19:12 09/03/2024
 - 🚀 [MU đánh bại Everton bằng 2 pha phạt đền](https://tienphong.vn/mu-danh-bai-everton-bang-2-pha-phat-den-post1618765.tpo) - 19:06 09/03/2024
 - 🤓 [Run To Live 2024: VĐV phá kỷ lục cự ly 21 km sẽ nhận 200 triệu đồng](https://tienphong.vn/run-to-live-2024-vdv-pha-ky-luc-cu-ly-21-km-se-nhan-200-trieu-dong-post1618763.tpo) - 19:03 09/03/2024
 - 💄 [Bất ngờ danh tính chồng sắp cưới diễn viên Kim Oanh](https://tienphong.vn/bat-ngo-danh-tinh-chong-sap-cuoi-dien-vien-kim-oanh-post1618761.tpo) - 19:01 09/03/2024
