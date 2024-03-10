@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Võ Hoàng Yến mang thai nhờ thụ tinh ống nghiệm](https://vnexpress.net/vo-hoang-yen-mang-thai-nho-thu-tinh-ong-nghiem-4720524.html) - 02:59 10/03/2024
 - 💫 [Loạt tranh phóng tác họa phẩm thế giới](https://vnexpress.net/loat-tranh-phong-tac-hoa-pham-the-gioi-4720161.html) - 02:48 10/03/2024
-- 🌮 [Sách gợi ý &#39;nỗ lực ít để thành công hơn&#39;](https://vnexpress.net/sach-goi-y-no-luc-it-de-thanh-cong-hon-4719089.html) - 01:40 10/03/2024
+- 🌮 [Tác giả Nhật gợi ý &#39;nỗ lực ít để thành công hơn&#39;](https://vnexpress.net/tac-gia-nhat-goi-y-no-luc-it-de-thanh-cong-hon-4719089.html) - 01:40 10/03/2024
 - 🧠 [Sắc vóc tân Hoa hậu Thế giới](https://vnexpress.net/sac-voc-tan-hoa-hau-the-gioi-4720501.html) - 01:32 10/03/2024
 - 👨‍🏫 [&#39;American Fiction&#39; châm biếm thói đạo đức giả](https://vnexpress.net/giai-tri/phim/thu-vien-phim/american-fiction-688) - 17:00 09/03/2024
 - ⚗️ [Người đẹp Cộng hòa Czech đăng quang Miss World lần thứ 71](https://vnexpress.net/nguoi-dep-cong-hoa-czech-dang-quang-miss-world-lan-thu-71-4720417-tong-thuat.html) - 13:42 09/03/2024
