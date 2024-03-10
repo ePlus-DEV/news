@@ -4,15 +4,15 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Klopp - Guardiola: Cuộc đấu trí khó lường](https://vnexpress.net/klopp-guardiola-cuoc-dau-tri-kho-luong-4720502.html) - 05:00 10/03/2024
-- 🦩 [Guardiola: &#39;HLV phải là siêu nhân để đối phó áp lực&#39;](https://vnexpress.net/guardiola-hlv-phai-la-sieu-nhan-de-doi-pho-ap-luc-4720552.html) - 05:00 10/03/2024
+- 🪜 [Guardiola: &#39;Đôi khi tôi phải giả vờ là siêu nhân&#39;](https://vnexpress.net/guardiola-doi-khi-toi-phai-gia-vo-la-sieu-nhan-4720552.html) - 05:00 10/03/2024
+- 🦩 [Klopp - Guardiola: Cuộc đấu trí khó lường](https://vnexpress.net/klopp-guardiola-cuoc-dau-tri-kho-luong-4720502.html) - 05:00 10/03/2024
 - 🧰 [Chạy trong kỳ kinh nguyệt](https://vnexpress.net/chay-trong-ky-kinh-nguyet-4720560.html) - 03:56 10/03/2024
 - 🤗 [Fernandes phá kỷ lục ghi bàn phạt đền của Van Nistelrooy](https://vnexpress.net/fernandes-pha-ky-luc-ghi-ban-phat-den-cua-van-nistelrooy-4720556.html) - 03:39 10/03/2024
 - 🥳 [Tuchel tin Kane sẽ phá kỷ lục ghi bàn của Lewandowski](https://vnexpress.net/tuchel-tin-kane-se-pha-ky-luc-ghi-ban-cua-lewandowski-4720542.html) - 03:13 10/03/2024
 - 🦣 [HLV Kiatisuk lý giải việc CAHN thua đậm Thể Công](https://vnexpress.net/hlv-kiatisuk-ly-giai-viec-cahn-thua-dam-the-cong-4720532.html) - 02:44 10/03/2024
 - 🌜 [Arteta ước không phải xem trận Liverpool - Man City](https://vnexpress.net/arteta-uoc-khong-phai-xem-tran-liverpool-man-city-4720537.html) - 02:32 10/03/2024
 - 🫶 [Ten Hag: &#39;Không thể ngăn cản Rashford, Garnacho&#39;](https://vnexpress.net/ten-hag-khong-the-ngan-can-rashford-garnacho-4720506.html) - 01:03 10/03/2024
-- 🌜 [Foden đang xuất sắc thế nào tại Ngoại hạng Anh](https://vnexpress.net/foden-dang-xuat-sac-the-nao-tai-ngoai-hang-anh-4720418.html) - 01:00 10/03/2024
+- 🌜 [Foden có thực sự xuất sắc tại Ngoại hạng Anh?](https://vnexpress.net/foden-co-thuc-su-xuat-sac-tai-ngoai-hang-anh-4720418.html) - 01:00 10/03/2024
 - 😺 [Paul Merson: &#39;Liverpool chỉ thắng Man City nếu có Salah&#39;](https://vnexpress.net/paul-merson-liverpool-chi-thang-man-city-neu-co-salah-4720508.html) - 00:53 10/03/2024
 - 👍 [Arsenal chiếm đỉnh bảng Ngoại hạng Anh](https://vnexpress.net/arsenal-chiem-dinh-bang-ngoai-hang-anh-4720505.html) - 00:00 10/03/2024
 - 🐵 [Kane lập hat-trick giúp Bayern thắng 8-1](https://vnexpress.net/kane-lap-hat-trick-giup-bayern-thang-8-1-4720485.html) - 23:19 09/03/2024
