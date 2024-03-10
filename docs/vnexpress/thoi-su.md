@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Nghề làm bánh tráng ở Đà Nẵng thành di sản](https://vnexpress.net/nghe-lam-banh-trang-o-da-nang-thanh-di-san-4716413.html) - 22:00 09/03/2024
+- 🦒 [Nghề làm bánh tráng hơn 500 năm ở Đà Nẵng](https://vnexpress.net/nghe-lam-banh-trang-hon-500-nam-o-da-nang-4716413.html) - 22:00 09/03/2024
 - 🤓 [Thuyền viên trên tàu hàng bị tấn công ở Biển Đỏ về nước ngày 13/3](https://vnexpress.net/thuyen-vien-tren-tau-hang-bi-tan-cong-o-bien-do-ve-nuoc-ngay-13-3-4720461.html) - 18:00 09/03/2024
 - ⚗️ [Bình Dương xây hầm chui hơn 1.000 tỷ đồng trên quốc lộ 13](https://vnexpress.net/binh-duong-xay-ham-chui-hon-1-000-ty-dong-tren-quoc-lo-13-4720347.html) - 17:00 09/03/2024
 - 🌊 [Cháy 200 xe tang vật trong trụ sở công an huyện ở Bình Thuận](https://vnexpress.net/chay-200-xe-tang-vat-trong-tru-so-cong-an-huyen-o-binh-thuan-4720460.html) - 14:10 09/03/2024
