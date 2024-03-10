@@ -6,7 +6,7 @@ sidebar_position: 9
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Son giúp Tottenham đè bẹp Aston Villa](https://vnexpress.net/son-giup-tottenham-de-bep-aston-villa-4720675.html) - 15:51 10/03/2024
 - 🐎 [PSG lại hòa khi Mbappe bị hạn chế số phút ở Ligue 1](https://vnexpress.net/psg-lai-hoa-khi-mbappe-bi-han-che-so-phut-o-ligue-1-4720674.html) - 15:37 10/03/2024
-- 🦍 [Liverpool 0-1 Man City &lpar;H1&rpar;: Stones mở tỷ số](https://vnexpress.net/liverpool-vs-man-city-4720672.html) - 15:16 10/03/2024
+- 🦍 [Liverpool 0-1 Man City &lpar;hết H1&rpar;: Stones mở tỷ số](https://vnexpress.net/liverpool-vs-man-city-4720672.html) - 15:16 10/03/2024
 - 🏊 [Bí ẩn hiện tượng giết người khi mộng du](https://vnexpress.net/bi-an-hien-tuong-giet-nguoi-khi-mong-du-4720319.html) - 15:00 10/03/2024
 - 🎊 [Hai xe va chạm trên cao tốc Cam Lộ - La Sơn, hai người tử vong](https://vnexpress.net/hai-xe-va-cham-tren-cao-toc-cam-lo-la-son-hai-nguoi-tu-vong-4720671.html) - 14:59 10/03/2024
 - 🎃 [Ukraine tuyên bố &#39;không bao giờ giương cờ trắng&#39;](https://vnexpress.net/ukraine-tuyen-bo-khong-bao-gio-giuong-co-trang-4720661.html) - 14:46 10/03/2024
