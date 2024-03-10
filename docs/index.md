@@ -142,7 +142,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Tiền đạo U.20 nữ Việt Nam &quot;xé lưới&#39; lưới đội Trung Quốc ở giải U.20 châu Á](https://thanhnien.vn/tien-dao-u20-nu-viet-nam-xe-luoi-luoi-doi-trung-quoc-o-giai-u20-chau-a-185240310182912853.htm) - 11:35 10/03/2024
+- 🤠 [Tiền đạo U.20 nữ Việt Nam ‘xé lưới&#39; lưới đội Trung Quốc ở giải U.20 châu Á](https://thanhnien.vn/tien-dao-u20-nu-viet-nam-xe-luoi-luoi-doi-trung-quoc-o-giai-u20-chau-a-185240310182912853.htm) - 11:35 10/03/2024
 - 🥸 [[FLYCAM] Đất vàng 419 Lê Hồng Phong trong diện cưỡng chế vẫn tấp nập giao hàng](https://thanhnien.vn/flycam-dat-vang-419-le-hong-phong-trong-dien-cuong-che-van-tap-nap-giao-hang-185240310174423896.htm) - 11:29 10/03/2024
 - 🌁 [Mai HLV Troussier công bố danh sách đội tuyển Việt Nam, liệu có bất ngờ?](https://thanhnien.vn/mai-hlv-troussier-cong-bo-danh-sach-doi-tuyen-viet-nam-lieu-co-bat-ngo-185240310182057457.htm) - 11:24 10/03/2024
 - 🤡 [Bí thư thứ nhất T.Ư Đoàn gặp các cựu chuyên gia Belarus từng hỗ trợ Việt Nam](https://thanhnien.vn/bi-thu-thu-nhat-tu-doan-gap-cac-cuu-chuyen-gia-belarus-tung-ho-tro-viet-nam-185240310180314112.htm) - 11:23 10/03/2024
