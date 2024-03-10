@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Khí tài giúp Ukraine khắc chế chiến thuật thiết xa vận của Nga](https://vnexpress.net/khi-tai-giup-ukraine-khac-che-chien-thuat-thiet-xa-van-cua-nga-4718199.html) - 03:00 10/03/2024
-- 🕴 [Giáo hoàng kêu gọi Ukraine &#39;có dũng khí đàm phán&#39;](https://vnexpress.net/giao-hoang-keu-goi-ukraine-co-dung-khi-dam-phan-4720512.html) - 02:24 10/03/2024
+- 🕴 [Giáo hoàng kêu gọi Ukraine &#39;có dũng khí giương cờ trắng&#39; để đàm phán](https://vnexpress.net/giao-hoang-keu-goi-ukraine-co-dung-khi-giuong-co-trang-de-dam-phan-4720512.html) - 02:24 10/03/2024
 - 🤭 [Mỹ điều tra hình sự vụ máy bay Boeing bung thân giữa trời](https://vnexpress.net/my-dieu-tra-hinh-su-vu-may-bay-boeing-bung-than-giua-troi-4720507.html) - 00:51 10/03/2024
 - 🧑‍💻 [Bệ phóng nghi là Patriot nổ tung sau đòn tập kích của Nga](https://vnexpress.net/be-phong-nghi-la-patriot-no-tung-sau-don-tap-kich-cua-nga-4720499.html) - 23:42 09/03/2024
 - 🦏 [Tình thế &#39;nước đến chân mới nhảy&#39; của Ukraine khi Nga tấn công](https://vnexpress.net/tinh-the-nuoc-den-chan-moi-nhay-cua-ukraine-khi-nga-tan-cong-4719826.html) - 22:00 09/03/2024
