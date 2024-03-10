@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Cuộc đấu trí Klopp - Guardiola khó lường thế nào](https://vnexpress.net/cuoc-dau-tri-klopp-guardiola-kho-luong-the-nao-4720502.html) - 05:00 10/03/2024
+- 🪜 [Klopp - Guardiola: Cuộc đấu trí khó lường](https://vnexpress.net/klopp-guardiola-cuoc-dau-tri-kho-luong-4720502.html) - 05:00 10/03/2024
 - 🦩 [Guardiola: &#39;HLV phải là siêu nhân để đối phó áp lực&#39;](https://vnexpress.net/guardiola-hlv-phai-la-sieu-nhan-de-doi-pho-ap-luc-4720552.html) - 05:00 10/03/2024
 - 🧰 [Chạy trong kỳ kinh nguyệt](https://vnexpress.net/chay-trong-ky-kinh-nguyet-4720560.html) - 03:56 10/03/2024
 - 🤗 [Fernandes phá kỷ lục ghi bàn phạt đền của Van Nistelrooy](https://vnexpress.net/fernandes-pha-ky-luc-ghi-ban-phat-den-cua-van-nistelrooy-4720556.html) - 03:39 10/03/2024
