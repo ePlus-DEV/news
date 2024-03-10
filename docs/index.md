@@ -511,7 +511,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Khai mạc Ngày hội tự tin bước vào lớp 10](https://muctim.tuoitre.vn/khai-mac-ngay-hoi-tu-tin-buoc-vao-lop-10-1012403100746476.htm) - 00:47 10/03/2024
+- 🤔 [Khai mạc Ngày hội tự tin bước vào lớp 10 &lpar;cập nhật&rpar;](https://muctim.tuoitre.vn/khai-mac-ngay-hoi-tu-tin-buoc-vao-lop-10-1012403100746476.htm) - 00:47 10/03/2024
 - 🥷 [Chủ Nhật của 12 cung hoàng đạo &lpar;10-3&rpar;: Bọ Cạp bước qua thử thách](https://muctim.tuoitre.vn/chu-nhat-cua-12-cung-hoang-dao-10-3-bo-cap-buoc-qua-thu-thach-101240310054437709.htm) - 22:22 09/03/2024
 - 🤖 [Dữ phượng hành của Triệu Lệ Dĩnh cạnh tranh với loạt phim Hoa ngữ tháng 3](https://muctim.tuoitre.vn/du-phuong-hanh-cua-trieu-le-dinh-canh-tranh-voi-loat-phim-hoa-ngu-thang-3-101240309124155157.htm) - 13:22 09/03/2024
 - 🤓 [Những bộ phim làm nên tên tuổi của trai đẹp Harry Lu](https://muctim.tuoitre.vn/nhung-bo-phim-lam-nen-ten-tuoi-cua-trai-dep-harry-lu-101240309174434073.htm) - 13:16 09/03/2024
