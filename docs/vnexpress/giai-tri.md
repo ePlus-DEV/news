@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Trao giải Oscar 2024](https://vnexpress.net/trao-giai-oscar-2024-4720082.html) - 22:49 10/03/2024
+- 🌏 [Oscar 2024: Jimmy Kemmel khuấy động sân khấu](https://vnexpress.net/oscar-2024-jimmy-kemmel-khuay-dong-san-khau-4720082.html) - 22:49 10/03/2024
 - 💫 [Tài tử Huỳnh Thanh Trà: &#39;Tôi may mắn khi sống ở viện dưỡng lão&#39;](https://vnexpress.net/tai-tu-huynh-thanh-tra-toi-may-man-khi-song-o-vien-duong-lao-4717609.html) - 17:00 10/03/2024
 - 🌮 [Miss World 2024: &#39;Các cô gái trẻ hãy tự tin vào bản thân&#39;](https://vnexpress.net/miss-world-2024-cac-co-gai-tre-hay-tu-tin-vao-ban-than-4720610.html) - 14:10 10/03/2024
 - 🧠 [Mai Phương: &#39;Tôi không tiếc nuối gì tại Miss World&#39;](https://vnexpress.net/mai-phuong-toi-khong-tiec-nuoi-gi-tai-miss-world-4720603.html) - 11:34 10/03/2024
