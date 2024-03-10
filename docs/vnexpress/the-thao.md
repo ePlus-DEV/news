@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Son giúp Tottenham đè bẹp Aston Villa](https://vnexpress.net/son-giup-tottenham-de-bep-aston-villa-4720675.html) - 15:51 10/03/2024
 - 🦩 [PSG lại hòa khi Mbappe bị hạn chế số phút ở Ligue 1](https://vnexpress.net/psg-lai-hoa-khi-mbappe-bi-han-che-so-phut-o-ligue-1-4720674.html) - 15:37 10/03/2024
-- 🧰 [Liverpool 1-1 Man City &lpar;H2&rpar;: Mac Allister ghi bàn phạt đền](https://vnexpress.net/liverpool-vs-man-city-4720672.html) - 15:16 10/03/2024
+- 🧰 [Liverpool 1-1 Man City &lpar;H2&rpar;: Doku sút dội cột](https://vnexpress.net/liverpool-vs-man-city-4720672.html) - 15:16 10/03/2024
 - 🤗 [Việt Nam thủng 21 bàn qua ba trận ở giải U20 nữ châu Á](https://vnexpress.net/viet-nam-thung-21-ban-qua-ba-tran-o-giai-u20-nu-chau-a-4720635.html) - 11:36 10/03/2024
 - 🥳 [Padel: Môn thể thao độc lạ có mặt ở Việt Nam](https://vnexpress.net/padel-mon-the-thao-doc-la-co-mat-o-viet-nam-4720614.html) - 09:39 10/03/2024
 - 🦣 [Guardiola: &#39;Đôi khi tôi phải giả vờ là siêu nhân&#39;](https://vnexpress.net/guardiola-doi-khi-toi-phai-gia-vo-la-sieu-nhan-4720552.html) - 05:00 10/03/2024
