@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Xe khách tông ôtô tải trên cao tốc Cam Lộ - La Sơn, hai người chết](https://vnexpress.net/xe-khach-tong-oto-tai-tren-cao-toc-cam-lo-la-son-hai-nguoi-chet-4720671.html) - 14:59 10/03/2024
+- 🦒 [Hai xe va chạm trên cao tốc Cam Lộ - La Sơn, hai người tử vong](https://vnexpress.net/hai-xe-va-cham-tren-cao-toc-cam-lo-la-son-hai-nguoi-tu-vong-4720671.html) - 14:59 10/03/2024
 - 🤓 [Ghe chở 9 người bị tàu hàng đâm chìm](https://vnexpress.net/ghe-cho-9-nguoi-bi-tau-hang-dam-chim-4720655.html) - 14:25 10/03/2024
 - ⚗️ [Thủ tướng: &#39;Nghĩ được việc gì tốt cho mọi người thì cố gắng làm&#39;](https://vnexpress.net/thu-tuong-nghi-duoc-viec-gi-tot-cho-moi-nguoi-thi-co-gang-lam-4720625.html) - 10:45 10/03/2024
 - 🌊 [Miền Bắc nồm ẩm từ giữa tuần sau](https://vnexpress.net/mien-bac-nom-am-tu-giua-tuan-sau-4720587.html) - 09:40 10/03/2024
