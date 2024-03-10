@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Chàng trai 21 tuổi trúng tuyển thạc sĩ đại học Ivy League](https://vnexpress.net/chang-trai-21-tuoi-trung-tuyen-thac-si-dai-hoc-ivy-league-4720397.html) - 04:04 10/03/2024
+- 🤓 [Nam sinh năm ba trúng tuyển thạc sĩ đại học top 12 thế giới](https://vnexpress.net/nam-sinh-nam-ba-trung-tuyen-thac-si-dai-hoc-top-12-the-gioi-4720397.html) - 04:04 10/03/2024
 - 🦆 [Đại học ở New Zealand sẽ tăng học bổng cho sinh viên Việt Nam](https://vnexpress.net/dai-hoc-o-new-zealand-se-tang-hoc-bong-cho-sinh-vien-viet-nam-4720509.html) - 02:10 10/03/2024
 - 🦩 [Trường chuyên các nước tuyển học sinh thế nào](https://vnexpress.net/truong-chuyen-cac-nuoc-tuyen-hoc-sinh-the-nao-4720045.html) - 01:25 10/03/2024
 - 🌮 [Vì sao tách học sinh chuyên trong kỳ thi học sinh giỏi?](https://vnexpress.net/vi-sao-tach-hoc-sinh-chuyen-trong-ky-thi-hoc-sinh-gioi-4719646.html) - 14:37 09/03/2024
