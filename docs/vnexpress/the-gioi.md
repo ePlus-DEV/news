@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Cụm bệ phóng Patriot Ukraine nổ tung sau đòn tập kích của Nga](https://vnexpress.net/cum-be-phong-patriot-ukraine-no-tung-sau-don-tap-kich-cua-nga-4720499.html) - 23:42 09/03/2024
+- 🎭 [Bệ phóng nghi là Patriot nổ tung sau đòn tập kích của Nga](https://vnexpress.net/be-phong-nghi-la-patriot-no-tung-sau-don-tap-kich-cua-nga-4720499.html) - 23:42 09/03/2024
 - 🕴 [Tình thế &#39;nước đến chân mới nhảy&#39; của Ukraine khi Nga tấn công](https://vnexpress.net/tinh-the-nuoc-den-chan-moi-nhay-cua-ukraine-khi-nga-tan-cong-4719826.html) - 22:00 09/03/2024
 - 🤭 [Tâm trạng người Mỹ trước màn tái đấu Trump - Biden](https://vnexpress.net/tam-trang-nguoi-my-truoc-man-tai-dau-trump-biden-4719346.html) - 17:00 09/03/2024
 - 🧑‍💻 [Bộ Giao thông Indonesia điều tra sự cố phi công ngủ gục](https://vnexpress.net/bo-giao-thong-indonesia-dieu-tra-su-co-phi-cong-ngu-guc-4720471.html) - 15:48 09/03/2024
