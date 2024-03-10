@@ -208,7 +208,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- laodong:START -->
 - 🗽 [Ưu tiên các dự án tạo nguồn thu lớn cho ngân sách và sử dụng đất tiết kiệm](https://laodong.vn/kinh-doanh/uu-tien-cac-du-an-tao-nguon-thu-lon-cho-ngan-sach-va-su-dung-dat-tiet-kiem-1313564.ldo) - 15:58 10/03/2024
 - 📝 [Kim Soo Hyun đi xem concert ủng hộ bạn gái thân IU](https://laodong.vn/giai-tri/kim-soo-hyun-di-xem-concert-ung-ho-ban-gai-than-iu-1313625.ldo) - 15:25 10/03/2024
-- 🦏 [Trực tiếp Liverpool 0-1 Man City: Hết hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-liverpool-0-1-man-city-het-hiep-1-1313640.ldo) - 15:09 10/03/2024
+- 🦏 [Trực tiếp Liverpool 0-1 Man City: Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-liverpool-0-1-man-city-hiep-2-1313640.ldo) - 15:09 10/03/2024
 - 🦩 [Hơn 2.000 đoàn viên, người lao động Vĩnh Phúc hưởng ứng Ngày Quốc tế hạnh phúc](https://laodong.vn/cong-doan/hon-2000-doan-vien-nguoi-lao-dong-vinh-phuc-huong-ung-ngay-quoc-te-hanh-phuc-1313600.ldo) - 14:30 10/03/2024
 - 🦏 [Nhịp showbiz: Nam Em chia tay bạn trai sắp cưới, Hải Tú có động thái](https://laodong.vn/giai-tri/nhip-showbiz-nam-em-chia-tay-ban-trai-sap-cuoi-hai-tu-co-dong-thai-1313618.ldo) - 14:28 10/03/2024
 - 🧰 [Hải Phòng nghiêm cấm lợi dụng hoạt động trải nghiệm để du lịch, dâng hương](https://laodong.vn/xa-hoi/hai-phong-nghiem-cam-loi-dung-hoat-dong-trai-nghiem-de-du-lich-dang-huong-1313604.ldo) - 14:22 10/03/2024
