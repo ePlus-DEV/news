@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Nạn nhân văng xuống đường sau va chạm với xe tải trên cao tốc](https://vnexpress.net/nan-nhan-vang-xuong-duong-sau-va-cham-voi-xe-tai-tren-cao-toc-4720840.html) - 08:26 11/03/2024
-- 🤓 [Chuẩn bị thu hồi đất làm đường nối Nam Sài Gòn với trung tâm](https://vnexpress.net/chuan-bi-thu-hoi-dat-lam-duong-noi-nam-sai-gon-voi-trung-tam-4720979.html) - 08:25 11/03/2024
+- 🤓 [Chi 1.000 tỷ đồng thu hồi đất làm cầu nối Nam Sài Gòn với trung tâm](https://vnexpress.net/chi-1-000-ty-dong-thu-hoi-dat-lam-cau-noi-nam-sai-gon-voi-trung-tam-4720979.html) - 08:25 11/03/2024
 - ⚗️ [Thêm 4 thanh niên bị phạt 250 triệu đồng vì trốn nhập ngũ](https://vnexpress.net/them-4-thanh-nien-bi-phat-250-trieu-dong-vi-tron-nhap-ngu-4720946.html) - 07:57 11/03/2024
 - 🌊 [Ôtô khách tông chết hai người rồi bỏ chạy](https://vnexpress.net/oto-khach-tong-chet-hai-nguoi-roi-bo-chay-4720950.html) - 07:39 11/03/2024
 - 🎓 [Công viên trước UBND TP HCM mang diện mạo mới](https://vnexpress.net/cong-vien-truoc-ubnd-tp-hcm-mang-dien-mao-moi-4720844.html) - 03:50 11/03/2024
