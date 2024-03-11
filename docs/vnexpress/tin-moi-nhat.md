@@ -11,7 +11,7 @@ sidebar_position: 9
 - 🎊 [5 loại trái cây nên ăn mỗi ngày](https://vnexpress.net/5-loai-trai-cay-nen-an-moi-ngay-4720819.html) - 05:00 11/03/2024
 - 🎃 [Hôn nhau có lây nhiệt miệng?](https://vnexpress.net/hon-nhau-co-lay-nhiet-mieng-4720750.html) - 05:00 11/03/2024
 - 🧰 [Trung Quốc tìm cách gỡ khó cho đại gia bất động sản](https://vnexpress.net/trung-quoc-tim-cach-go-kho-cho-dai-gia-bat-dong-san-4720896.html) - 04:54 11/03/2024
-- 🔭 [Ông Nguyễn Cao Trí: &#39;Phạm tội vì muốn cắt đứt với Vạn Thịnh Phát&#39;](https://vnexpress.net/ong-nguyen-cao-tri-pham-toi-vi-muon-cat-dut-voi-van-thinh-phat-4720863.html) - 04:51 11/03/2024
+- 🔭 [Ông Nguyễn Cao Trí: &#39;Chỉ mong có lợi cho chị Lan, nhưng đã sai lầm&#39;](https://vnexpress.net/ong-nguyen-cao-tri-chi-mong-co-loi-cho-chi-lan-nhung-da-sai-lam-4720863.html) - 04:51 11/03/2024
 - 🫶 [Lối sống trường thọ ở &#39;vùng đất của người bất tử&#39;](https://vnexpress.net/loi-song-truong-tho-o-vung-dat-cua-nguoi-bat-tu-4718520.html) - 04:47 11/03/2024
 - 🪜 [Kẻ sát hại bạn gái vì không &#39;được yêu&#39; lĩnh án chung thân](https://vnexpress.net/ke-sat-hai-ban-gai-vi-khong-duoc-yeu-linh-an-chung-than-4720879.html) - 04:44 11/03/2024
 - 👨‍🏫 [Lee Young Ae được khen phong thái tuổi 53](https://vnexpress.net/lee-young-ae-duoc-khen-phong-thai-tuoi-53-4720874.html) - 04:35 11/03/2024
@@ -49,4 +49,5 @@ sidebar_position: 9
 - 🦆 [Pha ăn vạ lộ liễu khiến đối thủ bật cười](https://vnexpress.net/pha-an-va-lo-lieu-khien-doi-thu-bat-cuoi-4720773.html) - 02:48 11/03/2024
 - 🎊 [Xe bồn tông chết hai người đi xe máy](https://vnexpress.net/xe-bon-tong-chet-hai-nguoi-di-xe-may-4720752.html) - 02:42 11/03/2024
 - 👺 [Ý Nhi - nữ giáo viên truyền lửa chạy bộ cho học sinh xứ Huế](https://vnexpress.net/y-nhi-nu-giao-vien-truyen-lua-chay-bo-cho-hoc-sinh-xu-hue-4719856.html) - 02:37 11/03/2024
-- 🎡 [Livestream tìm lao động](https://vnexpress.net/livestream-tim-lao-dong-4718674.html) - 02:35 11/03/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🎡 [Livestream tìm lao động](https://vnexpress.net/livestream-tim-lao-dong-4718674.html) - 02:35 11/03/2024
+- 👍 [Khi bà hàng phở bán nhà chục tỷ ra vùng ven tậu bốn căn](https://vnexpress.net/khi-ba-hang-pho-ban-nha-chuc-ty-ra-vung-ven-tau-bon-can-4720410.html) - 02:30 11/03/2024<!-- vnexpress-tin-moi-nhat:END -->
