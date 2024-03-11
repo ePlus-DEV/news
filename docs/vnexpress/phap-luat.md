@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Ông Nguyễn Cao Trí: &#39;Chỉ mong có lợi cho chị Lan, nhưng đã sai lầm&#39;](https://vnexpress.net/ong-nguyen-cao-tri-chi-mong-co-loi-cho-chi-lan-nhung-da-sai-lam-4720863.html) - 04:51 11/03/2024
+- 😎 [Ông Nguyễn Cao Trí: &#39;Phạm tội vì muốn cắt đứt với Vạn Thịnh Phát&#39;](https://vnexpress.net/ong-nguyen-cao-tri-pham-toi-vi-muon-cat-dut-voi-van-thinh-phat-4720863.html) - 04:51 11/03/2024
 - 🥰 [Kẻ sát hại bạn gái vì không &#39;được yêu&#39; lĩnh án chung thân](https://vnexpress.net/ke-sat-hai-ban-gai-vi-khong-duoc-yeu-linh-an-chung-than-4720879.html) - 04:44 11/03/2024
 - 🎓 [Trương Mỹ Lan: &#39;Tôi đau xót khi bị nói thâu tóm SCB&#39;](https://vnexpress.net/truong-my-lan-toi-dau-xot-khi-bi-noi-thau-tom-scb-4720775.html) - 02:23 11/03/2024
 - 🤓 [Nghi phạm hai lần truy sát phụ nữ bị bắt](https://vnexpress.net/nghi-pham-hai-lan-truy-sat-phu-nu-bi-bat-4715644.html) - 01:06 11/03/2024
