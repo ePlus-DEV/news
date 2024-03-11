@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🌏 [Diễn viên gây sốc khi khỏa thân trên sân khấu Oscar](https://vnexpress.net/dien-vien-gay-soc-khi-khoa-than-tren-san-khau-oscar-4720730.html) - 01:43 11/03/2024
 - 💫 [Nicolas Cage cùng vợ Nhật đến Oscar](https://vnexpress.net/nicolas-cage-cung-vo-nhat-den-oscar-4720716.html) - 00:42 11/03/2024
 - 🌮 [Mỹ nhân Hollywood tỏa sáng trên thảm đỏ Oscar 2024](https://vnexpress.net/my-nhan-hollywood-toa-sang-tren-tham-do-oscar-2024-4720708.html) - 23:41 10/03/2024
-- 🧠 [Oscar 2024: &#39;Oppenheimer&#39; bốn giải](https://vnexpress.net/oscar-2024-4720082.html) - 22:49 10/03/2024
+- 🧠 [Oscar 2024: Christopher Nolan đoạt Đạo diễn xuất sắc](https://vnexpress.net/oscar-2024-4720082.html) - 22:49 10/03/2024
 - 👨‍🏫 [Tài tử Huỳnh Thanh Trà: &#39;Tôi may mắn khi sống ở viện dưỡng lão&#39;](https://vnexpress.net/tai-tu-huynh-thanh-tra-toi-may-man-khi-song-o-vien-duong-lao-4717609.html) - 17:00 10/03/2024
 - ⚗️ [Miss World 2024: &#39;Các cô gái trẻ hãy tự tin vào bản thân&#39;](https://vnexpress.net/miss-world-2024-cac-co-gai-tre-hay-tu-tin-vao-ban-than-4720610.html) - 14:10 10/03/2024
 - 😎 [Mai Phương: &#39;Tôi không tiếc nuối gì tại Miss World&#39;](https://vnexpress.net/mai-phuong-toi-khong-tiec-nuoi-gi-tai-miss-world-4720603.html) - 11:34 10/03/2024
