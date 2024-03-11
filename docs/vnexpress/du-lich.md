@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Hai cảng tàu du lịch ở Hạ Long tăng giá dịch vụ](https://vnexpress.net/hai-cang-tau-du-lich-o-ha-long-tang-gia-dich-vu-4720998.html) - 09:01 11/03/2024
+- 💂 [Hai cảng tàu du lịch ở Hạ Long tăng phí dịch vụ](https://vnexpress.net/hai-cang-tau-du-lich-o-ha-long-tang-phi-dich-vu-4720998.html) - 09:01 11/03/2024
 - 🪄 [11 món Việt vào danh sách &#39;đồ ăn đường phố ngon nhất Đông Nam Á&#39;](https://vnexpress.net/11-mon-viet-vao-danh-sach-do-an-duong-pho-ngon-nhat-dong-nam-a-4720891.html) - 07:28 11/03/2024
 - 🦅 [Cụm đa cổ thụ hiếm trong ngôi làng trăm tuổi ở Hà Giang](https://video.vnexpress.net/cum-da-co-thu-hiem-trong-ngoi-lang-tram-tuoi-o-ha-giang-4715823.html) - 04:34 11/03/2024
 - 🕴 [Khách Trung Quốc sẽ &#39;bùng nổ&#39; ở Đông Nam Á năm 2024](https://vnexpress.net/khach-trung-quoc-se-bung-no-o-dong-nam-a-nam-2024-4720754.html) - 04:18 11/03/2024
