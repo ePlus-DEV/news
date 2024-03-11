@@ -19,7 +19,7 @@ sidebar_position: 5
 - 🦄 [Phim đề cử Oscar bị tố cáo đạo kịch bản](https://vnexpress.net/phim-de-cu-oscar-bi-to-cao-dao-kich-ban-4720573.html) - 05:52 10/03/2024
 - 💫 [Thanh Điền: &#39;Tôi nghẹn ngào nhận danh hiệu NSND thay Thanh Kim Huệ&#39;](https://vnexpress.net/thanh-dien-toi-nghen-ngao-nhan-danh-hieu-nsnd-thay-thanh-kim-hue-4720498.html) - 04:42 10/03/2024
 - 🎊 [Võ Hoàng Yến mang thai nhờ thụ tinh ống nghiệm](https://vnexpress.net/vo-hoang-yen-mang-thai-nho-thu-tinh-ong-nghiem-4720524.html) - 02:59 10/03/2024
-- 👹 [Loạt tranh phóng tác họa phẩm thế giới](https://vnexpress.net/loat-tranh-phong-tac-hoa-pham-the-gioi-4720161.html) - 02:48 10/03/2024
+- 👹 [Loạt tranh đa chất liệu tại triển lãm &#39;Nhiệt&#39;](https://vnexpress.net/loat-tranh-da-chat-lieu-tai-trien-lam-nhiet-4720161.html) - 02:48 10/03/2024
 - 💻 [Tác giả Nhật gợi ý &#39;nỗ lực ít để thành công hơn&#39;](https://vnexpress.net/tac-gia-nhat-goi-y-no-luc-it-de-thanh-cong-hon-4719089.html) - 01:40 10/03/2024
 - 🤡 [Sắc vóc tân Hoa hậu Thế giới](https://vnexpress.net/sac-voc-tan-hoa-hau-the-gioi-4720501.html) - 01:32 10/03/2024
 - 🥰 [&#39;American Fiction&#39; châm biếm thói đạo đức giả](https://vnexpress.net/giai-tri/phim/thu-vien-phim/american-fiction-688) - 17:00 09/03/2024
