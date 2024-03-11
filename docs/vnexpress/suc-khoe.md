@@ -15,34 +15,34 @@ sidebar_position: 10
 - 🌋 [Giáo sư trường y Hàn Quốc tuyên bố &#39;nghỉ dạy tập thể&#39;](https://vnexpress.net/giao-su-truong-y-han-quoc-tuyen-bo-nghi-day-tap-the-4720974.html) - 07:54 11/03/2024
 - 🫶 [Trái tim chàng trai đập trong cơ thể người đàn ông 53 tuổi](https://vnexpress.net/trai-tim-chang-trai-dap-trong-co-the-nguoi-dan-ong-53-tuoi-4720943.html) - 07:37 11/03/2024
 - 🦆 [Ung thư &#39;cậu nhỏ&#39; do hẹp bao quy đầu](https://vnexpress.net/ung-thu-cau-nho-do-hep-bao-quy-dau-4720904.html) - 07:05 11/03/2024
-- 🚀 [5 loại đậu tốt cho tim nên ăn thường xuyên](https://vnexpress.net/5-loai-dau-tot-cho-tim-nen-an-thuong-xuyen-4720820.html) - 07:00 11/03/2024
-- 🌜 [Tuổi nào thường mắc ung thư?](https://vnexpress.net/tuoi-nao-thuong-mac-ung-thu-4720406.html) - 07:00 11/03/2024
+- 🚀 [Tuổi nào thường mắc ung thư?](https://vnexpress.net/tuoi-nao-thuong-mac-ung-thu-4720406.html) - 07:00 11/03/2024
+- 🌜 [5 loại đậu tốt cho tim nên ăn thường xuyên](https://vnexpress.net/5-loai-dau-tot-cho-tim-nen-an-thuong-xuyen-4720820.html) - 07:00 11/03/2024
 - 🧰 [Tại sao sỏi san hô nguy hiểm?](https://vnexpress.net/tai-sao-soi-san-ho-nguy-hiem-4720908.html) - 06:00 11/03/2024
 - 💫 [Cách nào giúp bạn trẻ đẹp hơn tuổi?](https://vnexpress.net/cach-nao-giup-ban-tre-dep-hon-tuoi-4720780.html) - 06:00 11/03/2024
-- 🌝 [5 loại trái cây nên ăn mỗi ngày](https://vnexpress.net/5-loai-trai-cay-nen-an-moi-ngay-4720819.html) - 05:00 11/03/2024
-- 🗽 [Hôn nhau có lây nhiệt miệng?](https://vnexpress.net/hon-nhau-co-lay-nhiet-mieng-4720750.html) - 05:00 11/03/2024
+- 🌝 [Hôn nhau có lây nhiệt miệng?](https://vnexpress.net/hon-nhau-co-lay-nhiet-mieng-4720750.html) - 05:00 11/03/2024
+- 🗽 [5 loại trái cây nên ăn mỗi ngày](https://vnexpress.net/5-loai-trai-cay-nen-an-moi-ngay-4720819.html) - 05:00 11/03/2024
 - 🕯 [Đau đầu gối cảnh báo bệnh gì?](https://vnexpress.net/dau-dau-goi-canh-bao-benh-gi-4720834.html) - 04:00 11/03/2024
 - 🦅 [Trẻ ăn gì để cao lớn?](https://vnexpress.net/tre-an-gi-de-cao-lon-4720723.html) - 04:00 11/03/2024
 - 🦆 [Bác sĩ tìm ra bệnh &#39;mồ hôi máu&#39; chỉ 2 người Việt mắc](https://vnexpress.net/bac-si-tim-ra-benh-mo-hoi-mau-chi-2-nguoi-viet-mac-4720654.html) - 03:07 11/03/2024
 - 🎊 [Bộ trưởng Y tế Hàn Quốc nói sẽ &#39;khoan hồng&#39; bác sĩ đình công](https://vnexpress.net/bo-truong-y-te-han-quoc-noi-se-khoan-hong-bac-si-dinh-cong-4720838.html) - 03:05 11/03/2024
-- 🏊 [Thai phụ nghén nhiều có ảnh hưởng đến con?](https://vnexpress.net/thai-phu-nghen-nhieu-co-anh-huong-den-con-4720784.html) - 03:00 11/03/2024
-- 📝 [Kiểm tra nguyên nhân gây hôi miệng](https://vnexpress.net/kiem-tra-nguyen-nhan-gay-hoi-mieng-4720673.html) - 03:00 11/03/2024
+- 🏊 [Kiểm tra nguyên nhân gây hôi miệng](https://vnexpress.net/kiem-tra-nguyen-nhan-gay-hoi-mieng-4720673.html) - 03:00 11/03/2024
+- 📝 [Thai phụ nghén nhiều có ảnh hưởng đến con?](https://vnexpress.net/thai-phu-nghen-nhieu-co-anh-huong-den-con-4720784.html) - 03:00 11/03/2024
 - 💯 [Cứu cô gái bị xe tải 1,5 tấn cán qua người](https://vnexpress.net/cuu-co-gai-bi-xe-tai-1-5-tan-can-qua-nguoi-4720758.html) - 02:19 11/03/2024
 - 🌊 [Mẹo giảm ăn muối phòng tránh bệnh thận](https://vnexpress.net/meo-giam-an-muoi-phong-tranh-benh-than-4719976.html) - 02:00 11/03/2024
 - 🚀 [Đột quỵ do quên uống thuốc huyết áp](https://vnexpress.net/dot-quy-do-quen-uong-thuoc-huyet-ap-4720663.html) - 01:39 11/03/2024
-- 🕴 [Đau bụng suốt hai năm do biến chứng viêm tụy cấp](https://vnexpress.net/dau-bung-suot-hai-nam-do-bien-chung-viem-tuy-cap-4720676.html) - 01:00 11/03/2024
-- 🗽 [Da mụn dùng sữa rửa mặt gì?](https://vnexpress.net/da-mun-dung-sua-rua-mat-gi-4720616.html) - 01:00 11/03/2024
-- 🎡 [Lợi ích của giấc ngủ sâu](https://vnexpress.net/loi-ich-cua-giac-ngu-sau-4720420.html) - 01:00 11/03/2024
+- 🕴 [Lợi ích của giấc ngủ sâu](https://vnexpress.net/loi-ich-cua-giac-ngu-sau-4720420.html) - 01:00 11/03/2024
+- 🗽 [Đau bụng suốt hai năm do biến chứng viêm tụy cấp](https://vnexpress.net/dau-bung-suot-hai-nam-do-bien-chung-viem-tuy-cap-4720676.html) - 01:00 11/03/2024
+- 🎡 [Da mụn dùng sữa rửa mặt gì?](https://vnexpress.net/da-mun-dung-sua-rua-mat-gi-4720616.html) - 01:00 11/03/2024
 - ⛽️ [Hàng nghìn trẻ em Mỹ cấp cứu vì dùng kẹo hỗ trợ giấc ngủ](https://vnexpress.net/hang-nghin-tre-em-my-cap-cuu-vi-dung-keo-ho-tro-giac-ngu-4720690.html) - 00:22 11/03/2024
-- 🦆 [Bệnh ho gà](https://vnexpress.net/benh-ho-ga-4720668.html) - 00:00 11/03/2024
-- 🤩 [Cồn nội sinh và cồn do bia rượu khác nhau thế nào](https://vnexpress.net/con-noi-sinh-va-con-do-bia-ruou-khac-nhau-the-nao-4720658.html) - 00:00 11/03/2024
+- 🦆 [Cồn nội sinh và cồn do bia rượu khác nhau thế nào](https://vnexpress.net/con-noi-sinh-va-con-do-bia-ruou-khac-nhau-the-nao-4720658.html) - 00:00 11/03/2024
+- 🤩 [Bệnh ho gà](https://vnexpress.net/benh-ho-ga-4720668.html) - 00:00 11/03/2024
 - 🦒 [&#39;Bác sĩ&#39; AI khám mắt trong 8 giây](https://vnexpress.net/bac-si-ai-kham-mat-trong-8-giay-4720518.html) - 22:00 10/03/2024
 - 💫 [Nam giới vệ sinh vùng kín hàng ngày thế nào](https://vnexpress.net/nam-gioi-ve-sinh-vung-kin-hang-ngay-the-nao-4720531.html) - 17:05 10/03/2024
 - 🐘 [Uống nước tăng lực sau vận động mạnh có gây tử vong?](https://vnexpress.net/uong-nuoc-tang-luc-sau-van-dong-manh-co-gay-tu-vong-4718922.html) - 09:18 10/03/2024
 - 🚀 [Bạn có biết cách giúp phổi khỏe, thở tốt?](https://vnexpress.net/ban-co-biet-cach-giup-phoi-khoe-tho-tot-4720528.html) - 06:00 10/03/2024
 - 🕯 [Bụi mịn &#39;thổi&#39; bùng nguy cơ đột quỵ](https://vnexpress.net/bui-min-thoi-bung-nguy-co-dot-quy-4720519.html) - 05:13 10/03/2024
-- 🦏 [Món ăn hỗ trợ giảm cân, tăng cường sinh lý](https://vnexpress.net/mon-an-ho-tro-giam-can-tang-cuong-sinh-ly-4720521.html) - 05:00 10/03/2024
-- 🦄 [Trẻ ăn gì bổ não?](https://vnexpress.net/tre-an-gi-bo-nao-4720517.html) - 05:00 10/03/2024
+- 🦏 [Trẻ ăn gì bổ não?](https://vnexpress.net/tre-an-gi-bo-nao-4720517.html) - 05:00 10/03/2024
+- 🦄 [Món ăn hỗ trợ giảm cân, tăng cường sinh lý](https://vnexpress.net/mon-an-ho-tro-giam-can-tang-cuong-sinh-ly-4720521.html) - 05:00 10/03/2024
 - 🦒 [Tăng đường huyết](https://vnexpress.net/tang-duong-huyet-4720398.html) - 04:00 10/03/2024
 - 👨‍🏫 [Uống bia 0 độ có thổi lên cồn?](https://vnexpress.net/uong-bia-0-do-co-thoi-len-con-4720478.html) - 03:10 10/03/2024
 - 🌜 [Trẻ nên bổ sung sắt như thế nào](https://vnexpress.net/tre-nen-bo-sung-sat-nhu-the-nao-4720474.html) - 03:00 10/03/2024
