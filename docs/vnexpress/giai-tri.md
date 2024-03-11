@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [&#39;Kungfu Panda 4&#39; soán ngôi &#39;Mai&#39; tuần đầu công chiếu](https://vnexpress.net/kungfu-panda-4-soan-ngoi-mai-tuan-dau-cong-chieu-4721078.html) - 12:00 11/03/2024
+- 🌏 [Hoạt hình &#39;Kungfu Panda 4&#39; lập kỷ lục phòng vé Việt](https://vnexpress.net/hoat-hinh-kungfu-panda-4-lap-ky-luc-phong-ve-viet-4721078.html) - 12:00 11/03/2024
 - 💫 [Hoa hậu Megan Young bị chỉ trích tại Miss World](https://vnexpress.net/hoa-hau-megan-young-bi-chi-trich-tai-miss-world-4720861.html) - 11:25 11/03/2024
 - 🌮 [Trang phục cắt xẻ của mỹ nhân ở tiệc hậu Oscar](https://vnexpress.net/trang-phuc-cat-xe-cua-my-nhan-o-tiec-hau-oscar-4721013.html) - 09:41 11/03/2024
 - 🧠 [Thiện Nhân &#39;The Voice Kids&#39; áp lực vì tăng cân](https://vnexpress.net/thien-nhan-the-voice-kids-ap-luc-vi-tang-can-4720687.html) - 08:48 11/03/2024
