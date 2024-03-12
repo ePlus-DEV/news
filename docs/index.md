@@ -591,7 +591,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤩 [Nhiều doanh nghiệp ngoại muốn mua điện sạch không qua EVN](https://tienphong.vn/nhieu-doanh-nghiep-ngoai-muon-mua-dien-sach-khong-qua-evn-post1619590.tpo) - 18:54 12/03/2024
 - 🫶 [Đắk Nông than khó làm dự án vì đụng đâu cũng vướng bô xít](https://tienphong.vn/dak-nong-than-kho-lam-du-an-vi-dung-dau-cung-vuong-bo-xit-post1619563.tpo) - 18:49 12/03/2024
 - 🌁 [Cao tốc Phan Thiết - Dầu Giây: Gần 100 vụ TNGT, 6 người tử vong sau hơn 10 tháng vận hành](https://tienphong.vn/cao-toc-phan-thiet-dau-giay-gan-100-vu-tngt-6-nguoi-tu-vong-sau-hon-10-thang-van-hanh-post1619572.tpo) - 18:44 12/03/2024
-- 🤭 [Trực tiếp Hà Nội FC 2-0 Hà Tĩnh &lpar;H2&rpar;: Chủ nhà rộng cửa đi tiếp](https://tienphong.vn/truc-tiep-ha-noi-fc-2-0-ha-tinh-h2-chu-nha-rong-cua-di-tiep-post1619539.tpo) - 18:44 12/03/2024
+- 🤭 [Trực tiếp Hà Nội FC 2-0 Hà Tĩnh &lpar;H2&rpar;: Đội khách bế tắc](https://tienphong.vn/truc-tiep-ha-noi-fc-2-0-ha-tinh-h2-doi-khach-be-tac-post1619539.tpo) - 18:44 12/03/2024
 - 💪 [Bùng phát dịch sốt vẹt ở 5 nước châu Âu, 5 người thiệt mạng](https://tienphong.vn/bung-phat-dich-sot-vet-o-5-nuoc-chau-au-5-nguoi-thiet-mang-post1619591.tpo) - 18:39 12/03/2024
 - 🎡 [Dần ‘sống lại’ vườn thơ Châu Hương Viên xứ Huế sau 1 năm trùng tu](https://tienphong.vn/dan-song-lai-vuon-tho-chau-huong-vien-xu-hue-sau-1-nam-trung-tu-post1619583.tpo) - 18:38 12/03/2024
 - 😎 [50 doanh nghiệp hàng đầu của Mỹ sắp tới Việt Nam](https://tienphong.vn/50-doanh-nghiep-hang-dau-cua-my-sap-toi-viet-nam-post1619579.tpo) - 18:36 12/03/2024
