@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [ĐH Sư phạm TP HCM mở thêm 2 đợt thi đánh giá năng lực](https://vnexpress.net/dh-su-pham-tp-hcm-mo-them-2-dot-thi-danh-gia-nang-luc-4721255.html) - 06:42 12/03/2024
-- 🦆 [Lần thứ ba Việt Nam tham gia cuộc thi AI học sinh toàn cầu](https://vnexpress.net/lan-thu-ba-viet-nam-tham-gia-cuoc-thi-ai-hoc-sinh-toan-cau-4721140.html) - 04:43 12/03/2024
+- 🦆 [Học sinh Việt Nam tham gia thi AI toàn cầu](https://vnexpress.net/hoc-sinh-viet-nam-tham-gia-thi-ai-toan-cau-4721140.html) - 04:43 12/03/2024
 - 🦩 [TP HCM dự kiến xây 4.500 phòng học trong hai năm](https://vnexpress.net/tp-hcm-du-kien-xay-4-500-phong-hoc-trong-hai-nam-4721135.html) - 03:30 12/03/2024
 - 🌮 [Bộ Giáo dục khuyến khích đại học dùng điểm thi tốt nghiệp để xét tuyển](https://vnexpress.net/bo-giao-duc-khuyen-khich-dai-hoc-dung-diem-thi-tot-nghiep-de-xet-tuyen-4720973.html) - 00:42 12/03/2024
 - 🔭 [Cậu học trò lớp 7 giành giải nhất kỳ thi học sinh giỏi lớp 9](https://vnexpress.net/cau-hoc-tro-lop-7-gianh-giai-nhat-ky-thi-hoc-sinh-gioi-lop-9-4721031.html) - 23:21 11/03/2024
