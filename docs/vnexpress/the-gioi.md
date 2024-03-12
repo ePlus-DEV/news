@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Nhà Trắng bác thông tin Mỹ muốn can thiệp bầu cử Nga](https://vnexpress.net/nha-trang-bac-thong-tin-my-muon-can-thiep-bau-cu-nga-4721556.html) - 15:03 12/03/2024
+- 🎭 [Nhà Trắng bác tin Mỹ muốn can thiệp bầu cử Nga](https://vnexpress.net/nha-trang-bac-tin-my-muon-can-thiep-bau-cu-nga-4721556.html) - 15:03 12/03/2024
 - 🕴 [Quy tắc cho phép phi công ngủ trong buồng lái](https://vnexpress.net/quy-tac-cho-phep-phi-cong-ngu-trong-buong-lai-4721181.html) - 13:00 12/03/2024
 - 🤭 [Dân quân thân Ukraine tuyên bố kiểm soát làng biên giới Nga](https://vnexpress.net/dan-quan-than-ukraine-tuyen-bo-kiem-soat-lang-bien-gioi-nga-4721536.html) - 12:53 12/03/2024
 - 🧑‍💻 [Những lần Giáo hoàng Francis gây tranh cãi về chiến sự Ukraine](https://vnexpress.net/nhung-lan-giao-hoang-francis-gay-tranh-cai-ve-chien-su-ukraine-4720902.html) - 12:00 12/03/2024
