@@ -10,7 +10,7 @@ sidebar_position: 9
 - 🏊 [Bệnh viện Mắt Sài Gòn Cần Thơ chữa khỏi 40.000 ca đục thủy tinh thể](https://vnexpress.net/benh-vien-mat-sai-gon-can-tho-chua-khoi-40-000-ca-duc-thuy-tinh-the-4721505.html) - 11:00 12/03/2024
 - 🎊 [Dấu hiệu thiếu máu ở người bệnh suy thận mạn](https://vnexpress.net/dau-hieu-thieu-mau-o-nguoi-benh-suy-than-man-4721398.html) - 11:00 12/03/2024
 - 🎃 [VGA Tour và Asian Development Tour sắp đồng mở màn](https://vnexpress.net/vga-tour-va-asian-development-tour-sap-dong-mo-man-4721520.html) - 10:57 12/03/2024
-- 🧰 [Nhiều người Hà Nội bệnh thủy đậu](https://vnexpress.net/nhieu-nguoi-ha-noi-benh-thuy-dau-4721506.html) - 10:55 12/03/2024
+- 🧰 [Nhiều người Hà Nội mắc bệnh thủy đậu](https://vnexpress.net/nhieu-nguoi-ha-noi-mac-benh-thuy-dau-4721506.html) - 10:55 12/03/2024
 - 🔭 [Tập đoàn Phần Lan muốn làm dự án điện khí kết hợp tái tạo đầu tiên tại Việt Nam](https://vnexpress.net/du-an-dien-linh-hoat-dau-tien-tai-viet-nam-4721504.html) - 10:48 12/03/2024
 - 🫶 [TP HCM sẽ đổi mô hình trường chuyên Trần Đại Nghĩa](https://vnexpress.net/tp-hcm-se-doi-mo-hinh-truong-chuyen-tran-dai-nghia-4721507.html) - 10:47 12/03/2024
 - 🪜 [Hà Nội dẫn đầu về Chỉ số đổi mới sáng tạo cấp địa phương 2023](https://vnexpress.net/ha-noi-dan-dau-ve-chi-so-doi-moi-sang-tao-cap-dia-phuong-2023-4721234.html) - 10:46 12/03/2024
