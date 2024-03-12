@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Chuyển cuộc gọi đòi nợ đến điện thoại Trưởng Phòng cảnh sát Hình sự](https://vnexpress.net/chuyen-cuoc-goi-vao-so-truong-phong-canh-sat-hinh-su-de-hu-doa-4721360.html) - 07:34 12/03/2024
 - 🥰 [Cán bộ ở Phú Yên bị bắt với cáo buộc lừa &#39;chạy án&#39;](https://vnexpress.net/can-bo-o-phu-yen-bi-bat-voi-cao-buoc-lua-chay-an-4721361.html) - 07:20 12/03/2024
 - 🎓 [Bà Trương Mỹ Lan đề nghị dùng 13 tài sản ngoài vụ án để khắc phục hậu quả](https://vnexpress.net/ba-truong-my-lan-de-nghi-dung-13-tai-san-ngoai-vu-an-de-khac-phuc-hau-qua-4721373.html) - 07:07 12/03/2024
-- 🤓 [Tài xế xe container đánh võng, đâm vào xe CSGT trên cao tốc](https://video.vnexpress.net/tai-xe-xe-container-danh-vong-dam-vao-xe-csgt-tren-cao-toc-4721370.html) - 06:59 12/03/2024
+- 🤓 [Tài xế xe container đánh võng, đâm ôtô CSGT trên cao tốc](https://video.vnexpress.net/tai-xe-xe-container-danh-vong-dam-oto-csgt-tren-cao-toc-4721370.html) - 06:59 12/03/2024
 - 🎊 [Bé trai bị cha dượng bạo hành](https://vnexpress.net/be-trai-bi-cha-duong-bao-hanh-4721330.html) - 04:59 12/03/2024
 - 🙉 [Nhiều shipper &#39;cuỗm&#39; tiền của bưu cục bị bắt](https://vnexpress.net/nhieu-shipper-cuom-tien-cua-buu-cuc-bi-bat-4721275.html) - 04:21 12/03/2024
 - 🤡 [Tạm giữ tài xế container chống đối, tông xe cảnh sát trên cao tốc](https://vnexpress.net/tam-giu-tai-xe-container-chong-doi-tong-xe-canh-sat-tren-cao-toc-4721285.html) - 03:51 12/03/2024
@@ -23,7 +23,7 @@ sidebar_position: 12
 - 🐲 [Bà Trương Mỹ Lan khai tài xế chở 108.000 tỷ đồng về tòa nhà Vạn Thịnh Phát](https://vnexpress.net/ba-truong-my-lan-khai-tai-xe-cho-108-000-ty-dong-ve-toa-nha-van-thinh-phat-4720933.html) - 08:04 11/03/2024
 - 🚀 [Ông Nguyễn Cao Trí: Phạm tội vì muốn &#39;cắt đứt liên quan đến Vạn Thịnh Phát&#39;](https://vnexpress.net/ong-nguyen-cao-tri-pham-toi-vi-muon-cat-dut-lien-quan-den-van-thinh-phat-4720863.html) - 04:51 11/03/2024
 - 🎊 [Kẻ sát hại bạn gái vì không &#39;được yêu&#39; lĩnh án chung thân](https://vnexpress.net/ke-sat-hai-ban-gai-vi-khong-duoc-yeu-linh-an-chung-than-4720879.html) - 04:44 11/03/2024
-- 🤗 [Bà Trương Mỹ Lan khóc, nói &#39;không thâu tóm&#39; SCB](https://vnexpress.net/ba-truong-my-lan-khoc-noi-khong-thau-tom-scb-4720775.html) - 02:23 11/03/2024
+- 🤗 [Bà Trương Mỹ Lan &#39;đổ tội&#39; cho lãnh đạo SCB](https://vnexpress.net/ba-truong-my-lan-do-toi-cho-lanh-dao-scb-4720775.html) - 02:23 11/03/2024
 - 🗽 [Nghi phạm hai lần truy sát phụ nữ bị bắt](https://vnexpress.net/nghi-pham-hai-lan-truy-sat-phu-nu-bi-bat-4715644.html) - 01:06 11/03/2024
 - 🕴 [Có phải nợ thuế kinh doanh sẽ không làm được sổ hồng?](https://vnexpress.net/co-phai-no-thue-kinh-doanh-se-khong-lam-duoc-so-hong-4720667.html) - 23:00 10/03/2024
 - 🌜 [Điệu nhảy thổi bùng cơn ghen của gã bạn trai cũ](https://vnexpress.net/dieu-nhay-thoi-bung-con-ghen-cua-ga-ban-trai-cu-4720669.html) - 17:00 10/03/2024
