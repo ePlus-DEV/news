@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Ông Nguyễn Trọng Nghĩa: &#39;Tạo điều kiện để nhà khoa học toàn tâm công hiến&#39;](https://vnexpress.net/ong-nguyen-trong-nghia-tao-dieu-kien-de-nha-khoa-hoc-toan-tam-cong-hien-4721119.html) - 13:27 11/03/2024
-- 🤓 [Xe container đi vào đường cấm, tông ôtô cảnh sát để bỏ chạy](https://vnexpress.net/xe-container-di-vao-duong-cam-tong-oto-canh-sat-de-bo-chay-4721113.html) - 12:55 11/03/2024
+- 🤓 [Xe container đi vào đường cấm, tông ôtô cảnh sát](https://vnexpress.net/xe-container-di-vao-duong-cam-tong-oto-canh-sat-4721113.html) - 12:55 11/03/2024
 - ⚗️ [Đề xuất nâng cấp cao tốc qua Ninh Bình lên 4 làn xe hoàn chỉnh](https://vnexpress.net/de-xuat-nang-cap-cao-toc-qua-ninh-binh-len-4-lan-xe-hoan-chinh-4721000.html) - 09:34 11/03/2024
 - 🌊 [Đầu tàu hỏa biến dạng sau khi tông xe tải](https://vnexpress.net/dau-tau-hoa-bien-dang-sau-khi-tong-xe-tai-4720966.html) - 08:50 11/03/2024
 - 🎓 [Nạn nhân văng xuống đường sau tai nạn trên cao tốc Cam Lộ - La Sơn](https://vnexpress.net/nan-nhan-vang-xuong-duong-sau-tai-nan-tren-cao-toc-cam-lo-la-son-4720840.html) - 08:26 11/03/2024
