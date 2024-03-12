@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Giá vàng miếng SJC lên 82,5 triệu đồng](https://vnexpress.net/gia-vang-mieng-sjc-len-82-5-trieu-dong-4721345.html) - 04:48 12/03/2024
+- ⛽️ [Giá vàng miếng SJC lên 82,5 triệu đồng](https://vnexpress.net/gia-vang-hom-nay-12-3-4721345.html) - 04:48 12/03/2024
 - 🐲 [Cách các nước đánh giá đổi mới sáng tạo cấp địa phương](https://vnexpress.net/cach-cac-nuoc-danh-gia-doi-moi-sang-tao-cap-dia-phuong-4720577.html) - 03:00 12/03/2024
 - 🔥 [Trump sẽ không cấm Bitcoin nếu tái đắc cử](https://vnexpress.net/trump-se-khong-cam-bitcoin-neu-tai-dac-cu-4721198.html) - 02:13 12/03/2024
 - 🐵 [Căng thẳng Biển Đỏ đe dọa kinh tế châu Á](https://vnexpress.net/cang-thang-bien-do-de-doa-kinh-te-chau-a-4721063.html) - 23:09 11/03/2024
