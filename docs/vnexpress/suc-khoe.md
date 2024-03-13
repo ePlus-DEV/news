@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Nhiều người nghi ngộ độc do ăn cơm gà](https://vnexpress.net/nhieu-nguoi-nghi-ngo-doc-do-an-com-ga-4721967.html) - 13:36 13/03/2024
+- 🔥 [60 người ngộ độc nghi do ăn cơm gà](https://vnexpress.net/60-nguoi-ngo-doc-nghi-do-an-com-ga-4721967.html) - 13:36 13/03/2024
 - 🥰 [Trẻ uống sữa giàu canxi sẽ có chiều cao vượt trội?](https://vnexpress.net/tre-uong-sua-giau-canxi-se-co-chieu-cao-vuot-troi-4721264.html) - 13:01 13/03/2024
 - 💡 [Cứu bé ba tuổi suy tim bằng vết mổ chỉ bằng đầu bút](https://vnexpress.net/cuu-be-ba-tuoi-suy-tim-bang-vet-mo-chi-bang-dau-but-4721964.html) - 12:59 13/03/2024
 - 🤗 [Quy tắc ABCDE nhận biết nốt ruồi ung thư](https://vnexpress.net/quy-tac-abcde-nhan-biet-not-ruoi-ung-thu-4721765.html) - 11:00 13/03/2024
