@@ -254,7 +254,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Những cổ phiếu đáng chú ý ngày 14-3](https://nld.com.vn/nhung-co-phieu-dang-chu-y-ngay-14-3-196240313205110725.htm) - 23:00 13/03/2024
-- 😺 [36 NĂM SỰ KIỆN GẠC MA &lpar;14.3.1988 - 14.3.2024&rpar;: Tiếp bước cha anh bảo vệ biển đảo Tổ quốc](https://nld.com.vn/36-nam-su-kien-gac-ma-1431988-1432024-tiep-buoc-cha-anh-bao-ve-bien-dao-to-quoc-196240313203339435.htm) - 22:38 13/03/2024
+- 😺 [36 NĂM SỰ KIỆN GẠC MA: Tiếp bước cha anh bảo vệ biển đảo Tổ quốc](https://nld.com.vn/36-nam-su-kien-gac-ma-1431988-1432024-tiep-buoc-cha-anh-bao-ve-bien-dao-to-quoc-196240313203339435.htm) - 22:38 13/03/2024
 - 👍 [Nỗ lực ngăn chặn nạn đói ở Dải Gaza](https://nld.com.vn/no-luc-ngan-chan-nan-doi-o-dai-gaza-196240313205618704.htm) - 22:36 13/03/2024
 - 🥷 [Tăng cường hợp tác văn hóa, du lịch Việt - Hàn](https://nld.com.vn/tang-cuong-hop-tac-van-hoa-du-lich-viet-han-196240313205820001.htm) - 22:10 13/03/2024
 - 🤔 [Bản tin sáng 14-3: Tổng Bí thư chủ trì phiên họp đầu tiên Tiểu ban Nhân sự Đại hội XIV của Đảng](https://nld.com.vn/ban-tin-sang-14-3-tong-bi-thu-chu-tri-phien-hop-dau-tien-tieu-ban-nhan-su-dai-hoi-xiv-cua-dang-196240313203140744.htm) - 22:00 13/03/2024
