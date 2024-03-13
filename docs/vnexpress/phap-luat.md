@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [90 người trốn trại cai nghiện bị đưa vào cơ sở giáo dục](https://vnexpress.net/90-nguoi-tron-trai-cai-nghien-bi-dua-vao-co-so-giao-duc-4721815.html) - 07:53 13/03/2024
-- 🥰 [Bà Trương Mỹ Lan khai lý do cho quyền CEO SCB hơn 100 tỷ đồng](https://vnexpress.net/ba-truong-my-lan-khai-ly-do-cho-quyen-ceo-scb-hon-100-ty-dong-4721796.html) - 07:31 13/03/2024
+- 🥰 [Bà Trương Mỹ Lan khai lý do cho Quyền CEO SCB hơn 100 tỷ đồng](https://vnexpress.net/ba-truong-my-lan-khai-ly-do-cho-quyen-ceo-scb-hon-100-ty-dong-4721796.html) - 07:31 13/03/2024
 - 🎓 [10 năm &#39;xoá dấu&#39; dòng tiền rút ruột SCB](https://vnexpress.net/10-nam-xoa-dau-dong-tien-rut-ruot-scb-4720689.html) - 23:00 12/03/2024
 - 🤓 [Tỷ phú Chu Lập Cơ khai &#39;không cố tình phạm tội&#39;](https://vnexpress.net/ty-phu-chu-lap-co-khai-khong-co-tinh-pham-toi-4721533.html) - 17:00 12/03/2024
 - 🎊 [Cuốn nhật ký vạch trần màn kịch &#39;cứu vợ&#39;](https://vnexpress.net/cuon-nhat-ky-vach-tran-man-kich-cuu-vo-4720682.html) - 17:00 12/03/2024
