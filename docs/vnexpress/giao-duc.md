@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Phân biệt cách phát âm &#39;called&#39; và &#39;cold&#39;](https://vnexpress.net/phan-biet-cach-phat-am-called-va-cold-4721334.html) - 11:13 13/03/2024
-- 🦆 [Nhiều tỉnh, thành bỏ xét tuyển lớp 10 bằng IELTS](https://vnexpress.net/nhieu-tinh-thanh-bo-xet-tuyen-lop-10-bang-ielts-4721861.html) - 09:43 13/03/2024
+- 🦆 [Các tỉnh bỏ xét tuyển lớp 10 bằng IELTS](https://vnexpress.net/cac-tinh-bo-xet-tuyen-lop-10-bang-ielts-4721861.html) - 09:43 13/03/2024
 - 🦩 [Học phí các trường Kinh tế từ 16 đến 70 triệu đồng](https://vnexpress.net/hoc-phi-cac-truong-kinh-te-tu-16-den-70-trieu-dong-4720806.html) - 06:26 13/03/2024
 - 🌮 [Lộ trình du học theo năng lực, điều kiện tài chính cá nhân](https://vnexpress.net/lo-trinh-du-hoc-theo-nang-luc-dieu-kien-tai-chinh-ca-nhan-4721754.html) - 05:00 13/03/2024
 - 🔭 [Ký túc xá 35 tỷ đồng có 7 sinh viên ở](https://vnexpress.net/ky-tuc-xa-35-ty-dong-co-7-sinh-vien-o-4720513.html) - 03:58 13/03/2024
