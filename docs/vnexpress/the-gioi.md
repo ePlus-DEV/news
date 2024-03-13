@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Thụy Điển không muốn NATO đặt căn cứ thường trực](https://vnexpress.net/thuy-dien-khong-muon-nato-dat-can-cu-thuong-truc-4721836.html) - 09:27 13/03/2024
-- 🕴 [Nga nói Ukraine tăng cường tập kích để &#39;can thiệp bầu cử&#39;](https://vnexpress.net/nga-noi-ukraine-tang-cuong-tap-kich-de-can-thiep-bau-cu-4721849.html) - 08:46 13/03/2024
+- 🕴 [Ông Putin cáo buộc Ukraine muốn can thiệp bầu cử](https://vnexpress.net/ong-putin-cao-buoc-ukraine-muon-can-thiep-bau-cu-4721849.html) - 08:46 13/03/2024
 - 🤭 [Khí gas nổ như bom, phá hủy tòa nhà Trung Quốc](https://vnexpress.net/khi-gas-no-nhu-bom-pha-huy-toa-nha-trung-quoc-4721841.html) - 08:38 13/03/2024
 - 🧑‍💻 [Ukraine liên tiếp tập kích UAV vào lãnh thổ Nga](https://vnexpress.net/ukraine-lien-tiep-tap-kich-uav-vao-lanh-tho-nga-4721840.html) - 08:30 13/03/2024
 - 🦏 [Trung Quốc sắp ra mắt oanh tạc cơ tàng hình đối trọng với B-21 Mỹ](https://vnexpress.net/trung-quoc-sap-ra-mat-oanh-tac-co-tang-hinh-doi-trong-voi-b-21-my-4721704.html) - 08:15 13/03/2024
