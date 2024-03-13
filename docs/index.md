@@ -396,7 +396,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- baochinhphu:START -->
 - 💻 [Đẩy nhanh tiến độ gia hạn, cấp mới số đăng ký nhiều loại thuốc](https://baochinhphu.vn/day-nhanh-tien-do-gia-han-cap-moi-so-dang-ky-nhieu-loai-thuoc-102240313171239597.htm) - 17:22 13/03/2024
 - 🌜 [Chặt chẽ, minh bạch trong quản lý chi phí khám chữa bệnh BHYT](https://baochinhphu.vn/chat-che-minh-bach-trong-quan-ly-chi-phi-kham-chua-benh-bhyt-102240313155806655.htm) - 16:49 13/03/2024
-- 🦆 [Chất vấn 2 Bộ trưởng tại phiên họp thứ 31 của Ủy ban Thường vụ Quốc hội sẽ](https://baochinhphu.vn/chat-van-2-bo-truong-tai-phien-hop-thu-31-cua-uy-ban-thuong-vu-quoc-hoi-se-102240313164825595.htm) - 16:48 13/03/2024
+- 🦆 [Chất vấn 2 Bộ trưởng tại phiên họp thứ 31 của Ủy ban Thường vụ Quốc hội](https://baochinhphu.vn/chat-van-2-bo-truong-tai-phien-hop-thu-31-cua-uy-ban-thuong-vu-quoc-hoi-se-102240313164825595.htm) - 16:48 13/03/2024
 - 🌝 [Vietlott với dấu ấn đổi mới ngành xổ số tại Việt Nam](https://baochinhphu.vn/vietlott-voi-dau-an-doi-moi-nganh-xo-so-tai-viet-nam-102240313151500119.htm) - 16:13 13/03/2024
 - 🦣 [Sớm tháo gỡ vướng mắc liên quan dự án bauxite ở Đắk Nông](https://baochinhphu.vn/som-thao-go-vuong-mac-lien-quan-du-an-bauxite-o-dak-nong-102240313134111436.htm) - 16:04 13/03/2024
 - ⛽️ [Diễn đàn &#39;Tiếng nói tuổi trẻ - Hành động của Đoàn&#39;: Sáng mãi con đường cách mạng của thanh niên](https://baochinhphu.vn/hon-10000-cau-hoi-toi-dien-dan-tieng-noi-tuoi-tre-hanh-dong-cua-doan-102240313140254335.htm) - 16:01 13/03/2024
