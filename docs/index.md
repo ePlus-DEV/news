@@ -146,7 +146,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- thanhnien:START -->
 - 🤠 [Phái đoàn quân đội Trung Quốc thăm 3 nước láng giềng của Ấn Độ](https://thanhnien.vn/phai-doan-quan-doi-trung-quoc-tham-3-nuoc-lang-gieng-cua-an-do-185240313211624712.htm) - 14:34 13/03/2024
 - 🥸 [Thủ tướng Phần Lan nói Nga đang chuẩn bị cho &#39;xung đột lâu dài&#39; với phương Tây](https://thanhnien.vn/thu-tuong-phan-lan-noi-nga-dang-chuan-bi-cho-xung-dot-lau-dai-voi-phuong-tay-185240313203721497.htm) - 14:33 13/03/2024
-- 🌁 [Pedro Henrique thi đấu cực hay, Thể Công Viettel tiếp tục gieo sầu cho CAHN](https://thanhnien.vn/pedro-henrique-thi-dau-cuc-hay-the-cong-viettel-tiep-tuc-gieo-sau-cho-cahn-185240313211443641.htm) - 14:20 13/03/2024
+- 🌁 [Pedro Henrique thi đấu cực hay, Thể Công Viettel tiếp tục gieo sầu cho đội CAHN](https://thanhnien.vn/pedro-henrique-thi-dau-cuc-hay-the-cong-viettel-tiep-tuc-gieo-sau-cho-cahn-185240313211443641.htm) - 14:20 13/03/2024
 - 🤡 [Mitsubishi Outlander mới chưa về Việt Nam đã có bản nâng cấp](https://thanhnien.vn/mitsubishi-outlander-moi-chua-ve-viet-nam-da-co-ban-nang-cap-185240313103427084.htm) - 14:14 13/03/2024
 - 🎉 [Dạy tiếng Anh miễn phí cho sinh viên khối ngành kỹ thuật](https://thanhnien.vn/day-tieng-anh-mien-phi-cho-sinh-vien-khoi-nganh-ky-thuat-185240313195331988.htm) - 14:05 13/03/2024
 - 🎊 [5 đặc sản Quảng Nam nhất định phải thử một lần trong đời](https://thanhnien.vn/thoi-trang-tre/5-dac-san-quang-nam-nhat-dinh-phai-thu-mot-lan-trong-doi-185240312164230166.htm) - 14:00 13/03/2024
