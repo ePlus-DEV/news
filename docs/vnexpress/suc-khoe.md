@@ -7,7 +7,7 @@ sidebar_position: 10
 - 🔥 [Mất thính giác do nhiễm liên cầu lợn](https://vnexpress.net/mat-thinh-giac-do-nhiem-lien-cau-lon-4721846.html) - 08:32 13/03/2024
 - 🥰 [Đột quỵ khi tắm đêm](https://vnexpress.net/dot-quy-khi-tam-dem-4721867.html) - 08:30 13/03/2024
 - 💡 [Ăn và kiêng gì phòng ung thư đại trực tràng?](https://vnexpress.net/an-va-kieng-gi-phong-ung-thu-dai-truc-trang-4721742.html) - 08:30 13/03/2024
-- 🤗 [Hàn Quốc kêu gọi các giáo sư y không từ chức](https://vnexpress.net/han-quoc-keu-goi-cac-giao-su-y-khong-tu-chuc-4721844.html) - 08:01 13/03/2024
+- 🤗 [Hàn Quốc kêu gọi các giáo sư y khoa không từ chức](https://vnexpress.net/han-quoc-keu-goi-cac-giao-su-y-khong-tu-chuc-4721844.html) - 08:01 13/03/2024
 - 🪜 [Nhiều người bị biến chứng về da sau mắc thủy đậu](https://vnexpress.net/nhieu-nguoi-bi-bien-chung-ve-da-sau-mac-thuy-dau-4721747.html) - 08:00 13/03/2024
 - 🕯 [Làm gì sau khi thắt ống dẫn tinh?](https://vnexpress.net/lam-gi-sau-khi-that-ong-dan-tinh-4721692.html) - 07:30 13/03/2024
 - 🤭 [Nguyên nhân gây trượt đốt sống](https://vnexpress.net/nguyen-nhan-gay-truot-dot-song-4721785.html) - 07:00 13/03/2024
