@@ -4,8 +4,8 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Casino Phú Quốc cho người Việt vào chơi lỗ hơn 3.700 tỷ đồng](https://vnexpress.net/casino-phu-quoc-cho-nguoi-viet-vao-choi-lo-hon-3-700-ty-dong-4721744.html) - 04:37 13/03/2024
-- 🐲 [Mỗi lượng vàng quay đầu giảm cả triệu đồng](https://vnexpress.net/moi-luong-vang-quay-dau-giam-ca-trieu-dong-4721674.html) - 03:11 13/03/2024
+- ⛽️ [Casino ở Phú Quốc lỗ hơn 3.700 tỷ đồng sau 4 năm](https://vnexpress.net/casino-o-phu-quoc-lo-hon-3-700-ty-dong-sau-4-nam-4721744.html) - 04:37 13/03/2024
+- 🐲 [Mỗi lượng vàng giảm mạnh hai triệu đồng](https://vnexpress.net/moi-luong-vang-quay-dau-giam-ca-trieu-dong-4721674.html) - 03:11 13/03/2024
 - 🔥 [Lý do chưa có doanh nghiệp được cá cược bóng đá, đua ngựa](https://vnexpress.net/ly-do-chua-co-doanh-nghiep-duoc-ca-cuoc-bong-da-dua-ngua-4721618.html) - 01:27 13/03/2024
 - 🐵 [Các &#39;ngôi sao&#39; đổi mới sáng tạo](https://vnexpress.net/cac-ngoi-sao-doi-moi-sang-tao-4721072.html) - 01:00 13/03/2024
 - 🦅 [Phó thủ tướng: Cần cơ chế để doanh nghiệp trong nước &#39;bắt tay&#39; với FDI](https://vnexpress.net/pho-thu-tuong-can-co-che-de-doanh-nghiep-trong-nuoc-bat-tay-voi-fdi-4721558.html) - 15:27 12/03/2024
