@@ -43,7 +43,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [Đi trong phố nên giữ khoảng cách an toàn thế nào?](https://vnexpress.net/di-trong-pho-nen-giu-khoang-cach-an-toan-the-nao-4722137.html) - 03:59 14/03/2024
 - 🪄 [Đường đến Google của cựu học sinh trường Ams](https://vnexpress.net/duong-den-google-cua-cuu-hoc-sinh-truong-ams-4721966.html) - 03:58 14/03/2024
 - 😎 [Metro Bến Thành - Suối Tiên không kịp khai thác thương mại vào tháng 7](https://vnexpress.net/metro-ben-thanh-suoi-tien-khong-kip-khai-thac-thuong-mai-vao-thang-7-4722162.html) - 03:54 14/03/2024
-- 🎊 [Du lịch 30/4 trong bán kính 100 km vì vé máy bay đắt](https://vnexpress.net/du-lich-30-4-trong-ban-kinh-100-km-vi-ve-may-bay-dat-4722146.html) - 03:46 14/03/2024
+- 🎊 [Du lịch 30/4-1/5 trong bán kính 100 km vì vé máy bay đắt](https://vnexpress.net/du-lich-30-4-1-5-trong-ban-kinh-100-km-vi-ve-may-bay-dat-4722146.html) - 03:46 14/03/2024
 - ⚗️ [Nga công bố video tập kích biên đội trực thăng Ukraine](https://vnexpress.net/nga-cong-bo-video-tap-kich-bien-doi-truc-thang-ukraine-4722062.html) - 03:44 14/03/2024
 - 🫣 [Phó ban Tuyên giáo Trung ương làm Phó bí thư tỉnh Bến Tre](https://vnexpress.net/pho-ban-tuyen-giao-trung-uong-lam-pho-bi-thu-tinh-ben-tre-4722116.html) - 03:38 14/03/2024
 - 👨‍🏫 [Học viện Hàng không Việt Nam tăng chỉ tiêu, mở ngành mới](https://vnexpress.net/hoc-vien-hang-khong-viet-nam-tang-chi-tieu-mo-nganh-moi-4721977.html) - 03:36 14/03/2024
