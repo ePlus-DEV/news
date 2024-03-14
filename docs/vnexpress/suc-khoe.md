@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Số người ngộ độc nghi do ăn cơm gà ở Nha Trang tiếp tục tăng](https://vnexpress.net/so-nguoi-ngo-doc-nghi-do-an-com-ga-o-nha-trang-tiep-tuc-tang-4722420.html) - 12:23 14/03/2024
+- 🔥 [Số người ngộ độc ở Nha Trang tiếp tục tăng](https://vnexpress.net/so-nguoi-ngo-doc-nghi-do-an-com-ga-o-nha-trang-tiep-tuc-tang-4722420.html) - 12:23 14/03/2024
 - 🥰 [Số ca tiêm vaccine dại do mèo cào tăng hơn 30%](https://vnexpress.net/so-ca-tiem-vaccine-dai-do-meo-cao-tang-hon-30-4722405.html) - 12:00 14/03/2024
 - 💡 [Triệu chứng nhiễm độc giáp](https://vnexpress.net/trieu-chung-nhiem-doc-giap-4720451.html) - 10:30 14/03/2024
 - 🤗 [Cholesterol tốt có trong thực phẩm nào?](https://vnexpress.net/cholesterol-tot-co-trong-thuc-pham-nao-4722294.html) - 10:00 14/03/2024
