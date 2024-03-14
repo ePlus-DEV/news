@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [Giá vàng miếng lên lại 81 triệu đồng](https://vnexpress.net/dien-bien-gia-vang-ngay-14-3-4722096.html) - 02:37 14/03/2024
 - 🐲 [Hãng xe điện Mỹ có thể nộp đơn xin phá sản](https://vnexpress.net/hang-xe-dien-my-co-the-nop-don-xin-pha-san-4722060.html) - 02:31 14/03/2024
 - 🔥 [Giá dầu thô lên cao nhất 4 tháng](https://vnexpress.net/gia-dau-tho-len-cao-nhat-4-thang-4722034.html) - 01:51 14/03/2024
-- 🐵 [Doanh nghiệp xuất nhập khẩu thêm nặng gánh khi tỷ giá tăng cao](https://vnexpress.net/doanh-nghiep-xuat-nhap-khau-them-nang-ganh-khi-ty-gia-tang-cao-4721973.html) - 00:57 14/03/2024
+- 🐵 [USD tăng giá, doanh nghiệp xuất nhập khẩu thêm nặng gánh](https://vnexpress.net/usd-tang-gia-doanh-nghiep-xuat-nhap-khau-them-nang-ganh-4721973.html) - 00:57 14/03/2024
 - 🦅 [Doanh nghiệp Nga kiếm bộn nhờ làm ăn với Trung Quốc](https://vnexpress.net/doanh-nghiep-nga-kiem-bon-nho-lam-an-voi-trung-quoc-4721859.html) - 00:15 14/03/2024
 - 😺 [Lượng người siêu giàu ở Việt Nam tăng nhanh thứ 5 châu Á](https://vnexpress.net/luong-nguoi-sieu-giau-o-viet-nam-tang-nhanh-thu-5-chau-a-4721991.html) - 23:37 13/03/2024
 - 🤩 [Đề xuất cơ chế đặc thù thí điểm điện gió ngoài khơi](https://vnexpress.net/de-xuat-co-che-dac-thu-thi-diem-dien-gio-ngoai-khoi-4721988.html) - 14:21 13/03/2024
