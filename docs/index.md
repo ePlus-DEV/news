@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Thủ khoa đạt điểm cao nhất lịch sử trường Kinh tế Quốc dân](https://vnexpress.net/thu-khoa-dat-diem-cao-nhat-lich-su-truong-kinh-te-quoc-dan-4722326.html) - 22:00 14/03/2024
+- 🚀 [Thủ khoa tốt nghiệp sớm, điểm cao nhất lịch sử ĐH Kinh tế Quốc dân](https://vnexpress.net/thu-khoa-tot-nghiep-som-diem-cao-nhat-lich-su-dh-kinh-te-quoc-dan-4722326.html) - 22:00 14/03/2024
 - 🧰 [Intel vẫn bán chip &#39;trị giá hàng trăm triệu USD&#39; cho Huawei](https://vnexpress.net/intel-van-ban-chip-tri-gia-hang-tram-trieu-usd-cho-huawei-4722266.html) - 22:00 14/03/2024
 - 🥰 [Loạt đòn tập kích UAV của Ukraine đe dọa huyết mạch kinh tế Nga](https://vnexpress.net/loat-don-tap-kich-uav-cua-ukraine-de-doa-huyet-mach-kinh-te-nga-4722258.html) - 22:00 14/03/2024
 - 🌏 [Gel năng lượng hữu ích thế nào trong chạy bộ](https://vnexpress.net/gel-nang-luong-huu-ich-the-nao-trong-chay-bo-4722311.html) - 22:00 14/03/2024
