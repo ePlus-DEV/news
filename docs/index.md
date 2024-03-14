@@ -392,7 +392,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
 - 💻 [Bộ Tư pháp tăng cường quản lý hoạt động báo chí, đẩy mạnh truyền thông các hoạt động của ngành](https://baochinhphu.vn/bo-tu-phap-tang-cuong-quan-ly-hoat-dong-bao-chi-day-manh-truyen-thong-cac-hoat-dong-cua-nganh-102240314183634165.htm) - 18:36 14/03/2024
-- 🌜 [Khuyến cáo công dân Việt Nam không nên đến những nơi đang xảy ra xung đột tại Haiti](https://baochinhphu.vn/khuyen-cao-cong-dan-viet-nam-khong-nen-den-nhung-noi-dang-xay-ra-xung-dot-tai-haiti-102240314172934577.htm) - 18:31 14/03/2024
+- 🌜 [Khuyến cáo công dân Việt Nam không nên đến những nơi đang xảy ra xung đột](https://baochinhphu.vn/khuyen-cao-cong-dan-viet-nam-khong-nen-den-nhung-noi-dang-xay-ra-xung-dot-tai-haiti-102240314172934577.htm) - 18:31 14/03/2024
 - 🦆 [Việt Nam đề nghị Trung Quốc tôn trọng Hiệp định Phân định vịnh Bắc Bộ](https://baochinhphu.vn/viet-nam-de-nghi-trung-quoc-ton-trong-hiep-dinh-phan-dinh-vinh-bac-bo-102240314174237554.htm) - 18:21 14/03/2024
 - 🌝 [Thủ tướng yêu cầu &#39;5 tăng&#39;, &#39;5 giảm&#39;, &#39;5 tăng tốc, bứt phá&#39; với ngành ngân hàng](https://baochinhphu.vn/thu-tuong-yeu-cau-5-tang-5-giam-5-tang-toc-but-pha-voi-nganh-ngan-hang-102240314114240243.htm) - 18:11 14/03/2024
 - 🦣 [Các ngân hàng ‘rục rịch’ thực hiện công khai lãi suất cho vay](https://baochinhphu.vn/cac-ngan-hang-ruc-rich-thuc-hien-cong-khai-lai-suat-cho-vay-102240314180125843.htm) - 18:01 14/03/2024
