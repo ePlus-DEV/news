@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Tín dụng vẫn tăng trưởng âm](https://vnexpress.net/tin-dung-van-tang-truong-am-4722179.html) - 04:40 14/03/2024
+- ⛽️ [Vốn ngân hàng vẫn khó bơm vào nền kinh tế](https://vnexpress.net/von-ngan-hang-van-kho-bom-vao-nen-kinh-te-4722179.html) - 04:40 14/03/2024
 - 🐲 [Giá vàng miếng tăng vọt](https://vnexpress.net/dien-bien-gia-vang-ngay-14-3-4722096.html) - 02:37 14/03/2024
 - 🔥 [Hãng xe điện Mỹ có thể nộp đơn xin phá sản](https://vnexpress.net/hang-xe-dien-my-co-the-nop-don-xin-pha-san-4722060.html) - 02:31 14/03/2024
 - 🐵 [Giá dầu thô lên cao nhất 4 tháng](https://vnexpress.net/gia-dau-tho-len-cao-nhat-4-thang-4722034.html) - 01:51 14/03/2024
