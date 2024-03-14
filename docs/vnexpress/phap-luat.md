@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Khách hàng kiện Apple &#39;keo kiệt&#39; chỉ cho 5 GB dung lượng iCloud](https://vnexpress.net/khach-hang-kien-apple-keo-kiet-chi-cho-5-gb-dung-luong-icloud-4722223.html) - 10:08 14/03/2024
+- 😎 [Khách hàng kiện Apple vì chỉ miễn phí 5 GB dung lượng iCloud](https://vnexpress.net/khach-hang-kien-apple-vi-chi-mien-phi-5-gb-dung-luong-icloud-4722223.html) - 10:08 14/03/2024
 - 🥰 [Lĩnh án vì mua bán tài khoản ngân hàng qua tiền ảo](https://vnexpress.net/do-tu-vi-mua-ban-tai-khoan-ngan-hang-qua-tien-ao-4722336.html) - 10:03 14/03/2024
 - 🎓 [SCB yêu cầu bà Trương Mỹ Lan khắc phục hơn 760.000 tỷ đồng](https://vnexpress.net/scb-yeu-cau-ba-truong-my-lan-khac-phuc-hon-760-000-ty-dong-4722364.html) - 09:55 14/03/2024
 - 🤓 [Tạm giữ tài xế xe khách tông chết hai người khi cố vượt](https://vnexpress.net/tam-giu-tai-xe-xe-khach-tong-chet-hai-nguoi-khi-co-vuot-4722339.html) - 09:55 14/03/2024
