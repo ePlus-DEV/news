@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Thủ khoa đạt điểm cao nhất lịch sử trường Kinh tế Quốc dân](https://vnexpress.net/thu-khoa-dat-diem-cao-nhat-lich-su-truong-kinh-te-quoc-dan-4722326.html) - 22:00 14/03/2024
+- 🤓 [Thủ khoa tốt nghiệp sớm, điểm cao nhất lịch sử ĐH Kinh tế Quốc dân](https://vnexpress.net/thu-khoa-tot-nghiep-som-diem-cao-nhat-lich-su-dh-kinh-te-quoc-dan-4722326.html) - 22:00 14/03/2024
 - 🦆 [Du học sinh trầy trật săn việc ở Australia](https://vnexpress.net/du-hoc-sinh-tray-trat-san-viec-o-australia-4721956.html) - 18:41 14/03/2024
 - 🦩 [Có nên học ngành Ngôn ngữ Trung?](https://vnexpress.net/co-nen-hoc-nganh-ngon-ngu-trung-4721985.html) - 16:59 14/03/2024
 - 🌮 [Những nguyên nhân khiến học sinh không thích Toán](https://vnexpress.net/nhung-nguyen-nhan-khien-hoc-sinh-khong-thich-toan-4722343.html) - 14:39 14/03/2024
