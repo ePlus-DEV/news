@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Những nguyên nhân khiến học sinh ngại môn Toán](https://vnexpress.net/nhung-nguyen-nhan-khien-hoc-sinh-ngai-mon-toan-4722343.html) - 14:39 14/03/2024
+- 🤓 [Những nguyên nhân khiến học sinh không thích Toán](https://vnexpress.net/nhung-nguyen-nhan-khien-hoc-sinh-khong-thich-toan-4722343.html) - 14:39 14/03/2024
 - 🦆 [Ai được xem là trạng nguyên giỏi Toán nhất sử Việt?](https://vnexpress.net/ai-duoc-xem-la-trang-nguyen-gioi-toan-nhat-su-viet-4722285.html) - 13:12 14/03/2024
 - 🦩 [Trả lời thế nào để đạt 9.0 Speaking IELTS](https://vnexpress.net/tra-loi-the-nao-de-dat-9-0-speaking-ielts-4722426.html) - 12:42 14/03/2024
 - 🌮 [Đường đến Google của cựu học sinh trường Ams](https://vnexpress.net/duong-den-google-cua-cuu-hoc-sinh-truong-ams-4721966.html) - 03:58 14/03/2024
