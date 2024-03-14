@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Vietnam Airlines thiệt hại 300 tỷ đồng với 1% biến động tỷ giá](https://vnexpress.net/vietnam-airlines-thiet-hai-300-ty-dong-voi-1-bien-dong-ty-gia-4722362.html) - 10:44 14/03/2024
+- ⛽️ [Tỷ giá biến động 1%, doanh nghiệp thiệt 300 tỷ đồng](https://vnexpress.net/ty-gia-bien-dong-1-doanh-nghiep-thiet-300-ty-dong-4722362.html) - 10:44 14/03/2024
 - 🐲 [&#39;Mục tiêu GDP năm nay tăng 6-6,5% là thách thức&#39;](https://vnexpress.net/muc-tieu-gdp-nam-nay-tang-6-6-5-la-thach-thuc-4722232.html) - 10:15 14/03/2024
 - 🔥 [Nợ thẻ tín dụng gần 9 triệu thành nợ xấu hơn 8,8 tỷ đồng](https://vnexpress.net/no-the-tin-dung-10-trieu-dong-thanh-khoan-no-xau-chuc-ty-dong-4722234.html) - 08:57 14/03/2024
 - 🐵 [Cổ phiếu ngân hàng gây áp lực cho thị trường](https://vnexpress.net/co-phieu-ngan-hang-gay-ap-luc-cho-thi-truong-4722321.html) - 08:55 14/03/2024
