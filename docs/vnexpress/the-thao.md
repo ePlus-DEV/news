@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Phân nhánh Champions League](https://vnexpress.net/phan-nhanh-champions-league-4722727.html) - 10:30 15/03/2024
+- 🪜 [Man City gặp Real Madrid ở tứ kết Champions League](https://vnexpress.net/man-city-gap-real-madrid-o-tu-ket-champions-league-4722727.html) - 10:30 15/03/2024
 - 🦩 [Nữ runner ung thư và những cuộc chạy bộ trong bệnh viện](https://vnexpress.net/nu-runner-ung-thu-va-nhung-cuoc-chay-bo-trong-benh-vien-4722629.html) - 09:26 15/03/2024
 - 🧰 [Chủ tịch LĐBĐ Indonesia: &#39;Việt Nam bối rối khi Indonesia mạnh lên&#39;](https://vnexpress.net/chu-tich-ldbd-indonesia-viet-nam-boi-roi-khi-indonesia-manh-len-4722788.html) - 09:13 15/03/2024
 - 🤗 [Alcaraz bị ong tấn công khi đấu Zverev](https://vnexpress.net/alcaraz-bi-ong-tan-cong-khi-dau-zverev-4722782.html) - 08:59 15/03/2024
