@@ -10,7 +10,7 @@ sidebar_position: 1
 - 🌊 [Cháy lớn ba cơ sở gia công ghế nệm](https://vnexpress.net/chay-lon-ba-co-so-gia-cong-ghe-nem-4722789.html) - 09:24 15/03/2024
 - 🎓 [Thủy thủ tàu bị tập kích: Sau tiếng nổ cực lớn, cabin tàu bốc cháy](https://vnexpress.net/thuy-thu-tau-bi-tap-kich-sau-tieng-no-cuc-lon-cabin-tau-boc-chay-4722674.html) - 08:30 15/03/2024
 - 🔥 [ĐBSCL thiệt hại hơn 70.000 tỷ đồng mỗi năm do xâm nhập mặn](https://vnexpress.net/dbscl-thiet-hai-hon-70-000-ty-dong-moi-nam-do-xam-nhap-man-4722653.html) - 08:14 15/03/2024
-- 🦏 [Ông Khuất Việt Hùng: Điều khiển xe máy điện cũng cần có bằng lái](https://vnexpress.net/ong-khuat-viet-hung-dieu-khien-xe-may-dien-cung-can-co-bang-lai-4722702.html) - 08:11 15/03/2024
+- 🦏 [Ông Khuất Việt Hùng: Điều khiển xe máy điện cũng cần bằng lái](https://vnexpress.net/ong-khuat-viet-hung-dieu-khien-xe-may-dien-cung-can-bang-lai-4722702.html) - 08:11 15/03/2024
 - 👺 [Đôi nam nữ tử vong sau tai nạn ở trung tâm TP HCM](https://vnexpress.net/doi-nam-nu-tu-vong-sau-tai-nan-o-trung-tam-tp-hcm-4722692.html) - 06:00 15/03/2024
 - 🧑‍🏫 [Khánh thành cầu bê-tông mới thay cầu treo mục nát](https://vnexpress.net/khanh-thanh-cau-be-tong-moi-thay-cau-treo-muc-nat-4722665.html) - 04:56 15/03/2024
 - 🚦 [Nhà đổ sập xuống sông Cầu](https://video.vnexpress.net/nha-do-sap-xuong-song-cau-4722647.html) - 04:50 15/03/2024
