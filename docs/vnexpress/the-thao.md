@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [HLV Troussier trộn 57 cầu thủ tập, chuẩn bị đấu Indonesia](https://vnexpress.net/hlv-troussier-tron-57-cau-thu-tap-chuan-bi-dau-indonesia-4722871.html) - 15:04 15/03/2024
+- 🪜 [HLV Troussier trộn 57 cầu thủ tập luyện, chuẩn bị đấu Indonesia](https://vnexpress.net/hlv-troussier-tron-57-cau-thu-tap-luyen-chuan-bi-dau-indonesia-4722871.html) - 15:04 15/03/2024
 - 🦩 [Muller: &#39;Havertz, tôi đợi cậu&#39;](https://vnexpress.net/muller-havertz-toi-doi-cau-4722870.html) - 14:56 15/03/2024
 - 🧰 [Liverpool khác nhánh Leverkusen ở Europa League](https://vnexpress.net/liverpool-khac-nhanh-leverkusen-o-europa-league-4722862.html) - 13:29 15/03/2024
 - 🤗 [Man City gặp Real Madrid ở tứ kết Champions League](https://vnexpress.net/man-city-gap-real-madrid-o-tu-ket-champions-league-4722727.html) - 10:30 15/03/2024
