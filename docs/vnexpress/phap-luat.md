@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Tài xế bán tải dương tính ma tuý đâm hàng loạt xe trên phố](https://video.vnexpress.net/tai-xe-ban-tai-duong-tinh-ma-tuy-dam-hang-loat-xe-tren-pho-4722855.html) - 14:32 15/03/2024
+- 😎 [Hơn 10 km truy đuổi tài xế bán tải đâm hàng loạt xe trên phố](https://video.vnexpress.net/hon-10-km-truy-duoi-tai-xe-ban-tai-dam-hang-loat-xe-tren-pho-4722855.html) - 14:32 15/03/2024
 - 🥰 [Giám đốc ở Quảng Ngãi bị cáo buộc thông thầu](https://vnexpress.net/giam-doc-o-quang-ngai-bi-cao-buoc-thong-thau-4722800.html) - 09:31 15/03/2024
 - 🎓 [Nghi phạm cuối cùng trong vụ cướp một tỷ đồng ra đầu thú](https://vnexpress.net/nghi-pham-cuoi-cung-trong-vu-cuop-mot-ty-dong-ra-dau-thu-4722715.html) - 08:12 15/03/2024
 - 🤓 [Cựu thiếu tướng Đỗ Hữu Ca sẽ ra tòa ngày 10/4](https://vnexpress.net/cuu-thieu-tuong-do-huu-ca-se-ra-toa-ngay-10-4-4722700.html) - 08:02 15/03/2024
