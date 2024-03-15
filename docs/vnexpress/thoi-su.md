@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Chạy trốn cảnh sát, xe bán tải tông nhiều người trên phố](https://vnexpress.net/chay-tron-canh-sat-xe-ban-tai-tong-nhieu-nguoi-tren-pho-4722805.html) - 10:45 15/03/2024
+- 🦒 [Chạy trốn cảnh sát, xe bán tải tông nhiều người ở Hà Nội](https://vnexpress.net/chay-tron-canh-sat-xe-ban-tai-tong-nhieu-nguoi-o-ha-noi-4722805.html) - 10:45 15/03/2024
 - 🤓 [Đá đè sập nhà dân sau nổ mìn](https://vnexpress.net/da-de-sap-nha-dan-sau-no-min-4722781.html) - 09:53 15/03/2024
 - ⚗️ [Cháy lớn ba cơ sở gia công ghế nệm](https://vnexpress.net/chay-lon-ba-co-so-gia-cong-ghe-nem-4722789.html) - 09:24 15/03/2024
 - 🌊 [Thủy thủ tàu bị tập kích: Sau tiếng nổ cực lớn, cabin tàu bốc cháy](https://vnexpress.net/thuy-thu-tau-bi-tap-kich-sau-tieng-no-cuc-lon-cabin-tau-boc-chay-4722674.html) - 08:30 15/03/2024
