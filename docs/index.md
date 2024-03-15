@@ -573,7 +573,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Thanh niên Kon Tum chạy bộ gây quỹ, xây nhà văn hoá](https://tienphong.vn/thanh-nien-kon-tum-chay-bo-gay-quy-xay-nha-van-hoa-post1620519.tpo) - 22:42 15/03/2024
+- 💼 [Thanh niên Kon Tum chạy bộ gây quỹ, xây nhà văn hóa](https://tienphong.vn/thanh-nien-kon-tum-chay-bo-gay-quy-xay-nha-van-hoa-post1620519.tpo) - 22:42 15/03/2024
 - 🎊 [Danh hài Xuân Hinh nói lý do chưa mở cửa bảo tàng đạo Mẫu](https://tienphong.vn/danh-hai-xuan-hinh-noi-ly-do-chua-mo-cua-bao-tang-dao-mau-post1620576.tpo) - 22:39 15/03/2024
 - 💼 [7 tuần thi đua cao điểm chào mừng 70 năm Chiến thắng Điện Biên Phủ](https://tienphong.vn/7-tuan-thi-dua-cao-diem-chao-mung-70-nam-chien-thang-dien-bien-phu-post1620541.tpo) - 22:32 15/03/2024
 - 👺 [Đơn vị đầu tiên của tỉnh Đắk Lắk hoàn thành Đại hội Hội LHTN Việt Nam cấp cơ sở](https://tienphong.vn/don-vi-dau-tien-cua-tinh-dak-lak-hoan-thanh-dai-hoi-hoi-lhtn-viet-nam-cap-co-so-post1620427.tpo) - 22:30 15/03/2024
