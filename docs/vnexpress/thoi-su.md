@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hiện trạng khu đất công 11.000 m2 ở TP HCM dùng sai mục đích](https://vnexpress.net/hien-trang-khu-dat-cong-11-000-m2-o-tp-hcm-dung-sai-muc-dich-4722418.html) - 03:12 15/03/2024
+- 🦒 [Hiện trạng khu đất công 11.000 m2 ở TP HCM bị dùng sai mục đích](https://vnexpress.net/hien-trang-khu-dat-cong-11-000-m2-o-tp-hcm-bi-dung-sai-muc-dich-4722418.html) - 03:12 15/03/2024
 - 🤓 [Quân đội tái hiện đoàn xe đạp thồ trong chiến dịch Điện Biên Phủ](https://video.vnexpress.net/quan-doi-tai-hien-doan-xe-dap-tho-trong-chien-dich-dien-bien-phu-4722536.html) - 02:48 15/03/2024
 - ⚗️ [Xe khách lật, hơn 10 người bị thương](https://vnexpress.net/xe-khach-lat-hon-10-nguoi-bi-thuong-4722508.html) - 01:53 15/03/2024
 - 🌊 [Cháy ba cơ sở tái chế nhựa ở Vĩnh Phúc](https://vnexpress.net/chay-ba-co-so-tai-che-nhua-o-vinh-phuc-4722483.html) - 00:57 15/03/2024
