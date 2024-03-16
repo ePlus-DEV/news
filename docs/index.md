@@ -146,10 +146,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Ấn Độ ấn định thời gian tổ chức cuộc bầu cử lớn nhất thế giới](https://thanhnien.vn/an-do-an-dinh-thoi-gian-to-chuc-cuoc-bau-cu-lon-nhat-the-gioi-185240316200243573.htm) - 14:35 16/03/2024
-- 🥸 [Ngô Kiến Huy &#39;cháy&#39; hết mình tại giải bóng đá Thanh Niên sinh viên Việt Nam](https://thanhnien.vn/ngo-kien-huy-chay-het-minh-tai-giai-bong-da-thanh-nien-sinh-vien-viet-nam-185240316210755501.htm) - 14:13 16/03/2024
-- 🌁 [Highlight Trường ĐH Tôn Đức Thắng 1-2 Trường ĐH TDTT Đà Nẵng | TNSV THACO Cup 2024](https://thanhnien.vn/highlight-truong-dh-ton-duc-thang-1-2-truong-dh-tdtt-da-nang-tnsv-thaco-cup-2024-185240316210007016.htm) - 14:01 16/03/2024
-- 🤡 [TNSV THACO Cup 2024 ngày 16.3: Tưng bừng lễ khai mạc VCK | Màn lội ngược dòng ấn tượng](https://thanhnien.vn/tnsv-thaco-cup-2024-ngay-163-tung-bung-le-khai-mac-vck-man-loi-nguoc-dong-an-tuong-185240316204552321.htm) - 14:00 16/03/2024
+- 🤠 [Điểm xung đột: Ông Putin nói Ukraine sẽ bị trừng phạt; lãnh đạo Đức-Pháp nói không tấn công Nga](https://thanhnien.vn/diem-xung-dot-ong-putin-noi-ukraine-se-bi-trung-phat-lanh-dao-duc-phap-noi-khong-tan-cong-nga-185240316212509023.htm) - 14:38 16/03/2024
+- 🥸 [Ấn Độ ấn định thời gian tổ chức cuộc bầu cử lớn nhất thế giới](https://thanhnien.vn/an-do-an-dinh-thoi-gian-to-chuc-cuoc-bau-cu-lon-nhat-the-gioi-185240316200243573.htm) - 14:35 16/03/2024
+- 🌁 [Ngô Kiến Huy &#39;cháy&#39; hết mình tại giải bóng đá Thanh Niên sinh viên Việt Nam](https://thanhnien.vn/ngo-kien-huy-chay-het-minh-tai-giai-bong-da-thanh-nien-sinh-vien-viet-nam-185240316210755501.htm) - 14:13 16/03/2024
+- 🤡 [Highlight Trường ĐH Tôn Đức Thắng 1-2 Trường ĐH TDTT Đà Nẵng | TNSV THACO Cup 2024](https://thanhnien.vn/highlight-truong-dh-ton-duc-thang-1-2-truong-dh-tdtt-da-nang-tnsv-thaco-cup-2024-185240316210007016.htm) - 14:01 16/03/2024
 - 🎉 [Quần yếm là món đồ có khả năng trẻ hóa ngoại hình &#39;vi diệu&#39; nhất](https://thanhnien.vn/thoi-trang-tre/quan-yem-la-mon-do-co-kha-nang-tre-hoa-ngoai-hinh-vi-dieu-nhat-185240315215535065.htm) - 14:00 16/03/2024
 - 🎊 [Hình ảnh xúc động sau trận khởi đầu VCK, lung linh nét đẹp lao động](https://thanhnien.vn/hinh-anh-xuc-dong-sau-tran-khoi-dau-vck-lung-linh-net-dep-lao-dong-185240316203247944.htm) - 13:58 16/03/2024
 - 🤠 [Lễ khai mạc VCK TNSV THACO Cup 2024: &#39;Đón chờ những trận cầu hấp dẫn&#39;](https://thanhnien.vn/le-khai-mac-vck-tnsv-thaco-cup-2024-don-cho-nhung-tran-cau-hap-dan-185240316204247747.htm) - 13:47 16/03/2024
