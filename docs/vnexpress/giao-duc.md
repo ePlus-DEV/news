@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nam sinh đạt điểm Toán tiểu học cao nhất thế giới](https://vnexpress.net/nam-sinh-dat-diem-toan-tieu-hoc-cao-nhat-the-gioi-4723050.html) - 08:49 16/03/2024
+- 🤓 [Nam sinh đạt điểm Toán tiểu học top 1% thế giới](https://vnexpress.net/nam-sinh-dat-diem-toan-tieu-hoc-top-1-the-gioi-4723050.html) - 08:49 16/03/2024
 - 🦆 [TP HCM mở rộng tuyển lớp 1, 6 theo nguyên tắc học gần nhà](https://vnexpress.net/tp-hcm-mo-rong-tuyen-lop-1-6-theo-nguyen-tac-hoc-gan-nha-4722953.html) - 03:22 16/03/2024
 - 🦩 [Đại học Kinh tế Quốc dân yêu cầu giảng viên không dạy online](https://vnexpress.net/dai-hoc-kinh-te-quoc-dan-yeu-cau-giang-vien-khong-day-online-4722941.html) - 03:02 16/03/2024
 - 🌮 [Dự kiến thi lớp 10 ở TP HCM ngày 6-7/6](https://vnexpress.net/du-kien-thi-lop-10-o-tp-hcm-ngay-6-7-6-4722915.html) - 01:19 16/03/2024
