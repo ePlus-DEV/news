@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Giáo sư y khoa Hàn Quốc sẽ nộp đơn từ chức hàng loạt từ ngày 25/3](https://vnexpress.net/giao-su-y-khoa-han-quoc-se-nop-don-tu-chuc-hang-loat-tu-ngay-25-3-4723105.html) - 10:37 16/03/2024
+- 🔥 [Giáo sư y khoa Hàn Quốc sẽ nộp đơn từ chức hàng loạt ngày 25/3](https://vnexpress.net/giao-su-y-khoa-han-quoc-se-nop-don-tu-chuc-hang-loat-ngay-25-3-4723105.html) - 10:37 16/03/2024
 - 🥰 [Mead Johnson bị buộc bồi thường 60 triệu USD do &#39;không cảnh báo nguy cơ viêm ruột&#39; từ sữa](https://vnexpress.net/mead-johnson-bi-buoc-boi-thuong-60-trieu-usd-do-khong-canh-bao-nguy-co-viem-ruot-tu-sua-4723075.html) - 10:07 16/03/2024
 - 💡 [Người phụ nữ 70 tuổi tử vong sau mổ căng da mặt](https://vnexpress.net/nguoi-phu-nu-70-tuoi-tu-vong-sau-mo-cang-da-mat-4723067.html) - 09:13 16/03/2024
 - 🤗 [5 điều nên làm để phòng bệnh tim](https://vnexpress.net/5-dieu-nen-lam-de-phong-benh-tim-4722975.html) - 09:00 16/03/2024
