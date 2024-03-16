@@ -4,10 +4,10 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [10 con đường thú vị nhất thế giới năm 2024](https://vnexpress.net/10-con-duong-thu-vi-nhat-the-gioi-nam-2024-4723008.html) - 12:09 16/03/2024
-- 🪄 [Bánh mì Việt Nam được vinh danh &#39;ngon nhất thế giới&#39;](https://vnexpress.net/banh-mi-viet-nam-duoc-vinh-danh-ngon-nhat-the-gioi-4723064.html) - 09:52 16/03/2024
-- 🦅 [48 giờ ở Ninh Thuận](https://vnexpress.net/48-gio-o-ninh-thuan-4722160.html) - 02:30 16/03/2024
-- 🕴 [TP HCM và Phú Quốc vào top điểm đến tốt nhất châu Á](https://vnexpress.net/tp-hcm-va-phu-quoc-vao-top-diem-den-tot-nhat-chau-a-4723048.html) - 23:09 15/03/2024
+- 💂 [5 cách du lịch 30/4 &#39;né&#39; giá vé máy bay](https://vnexpress.net/5-cach-du-lich-30-4-ne-gia-ve-may-bay-4722705.html) - 17:00 16/03/2024
+- 🪄 [10 con đường thú vị nhất thế giới năm 2024](https://vnexpress.net/10-con-duong-thu-vi-nhat-the-gioi-nam-2024-4723008.html) - 12:09 16/03/2024
+- 🦅 [Bánh mì Việt Nam được vinh danh &#39;ngon nhất thế giới&#39;](https://vnexpress.net/banh-mi-viet-nam-duoc-vinh-danh-ngon-nhat-the-gioi-4723064.html) - 09:52 16/03/2024
+- 🕴 [48 giờ ở Ninh Thuận](https://vnexpress.net/48-gio-o-ninh-thuan-4722160.html) - 02:30 16/03/2024
 - 👀 [Khách Việt đi gần, mua tour ngoại &#39;né&#39; bay nội địa dịp 30/4](https://vnexpress.net/khach-viet-di-gan-mua-tour-ngoai-ne-bay-noi-dia-dip-30-4-4722584.html) - 23:09 15/03/2024
 - 🎭 [10 khách sạn trong phố tốt nhất Việt Nam](https://vnexpress.net/10-khach-san-trong-pho-tot-nhat-viet-nam-4722761.html) - 17:09 15/03/2024
 - 🦒 [Festival vinh danh nghề phở tại làng Vân Cù](https://vnexpress.net/festival-vinh-danh-nghe-pho-tai-lang-van-cu-4722832.html) - 12:30 15/03/2024
