@@ -31,7 +31,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥰 [Nga tuyên bố đẩy lùi thêm nhóm tay súng xâm nhập biên giới](https://vnexpress.net/nga-tuyen-bo-day-lui-them-nhom-tay-sung-xam-nhap-bien-gioi-4723130.html) - 13:37 16/03/2024
 - 🌏 [Doanh nghiệp kiều bào muốn cùng phát triển ngành bán dẫn Việt](https://vnexpress.net/doanh-nghiep-kieu-bao-muon-cung-phat-trien-nganh-ban-dan-viet-4723127.html) - 13:35 16/03/2024
 - 🧐 [&#39;Quật mộ trùng ma&#39; - phim Hàn gây sốt về thảm kịch quỷ ám](https://vnexpress.net/giai-tri/phim/thu-vien-phim/exhuma-quat-mo-trung-ma-691) - 13:29 16/03/2024
-- 💫 [TikTok nguy cơ soán ngôi kênh truyền thống](https://vnexpress.net/tiktok-nguy-co-soan-ngoi-kenh-truyen-thong-4723074.html) - 13:21 16/03/2024
+- 💫 [TikTok lấn lướt kênh bán hàng truyền thống](https://vnexpress.net/tiktok-lan-luot-kenh-ban-hang-truyen-thong-4723074.html) - 13:21 16/03/2024
 - 😺 [Người Việt đầu tiên giành huy chương vàng Olympic Toán quốc tế là ai?](https://vnexpress.net/nguoi-viet-dau-tien-gianh-huy-chuong-vang-olympic-toan-quoc-te-la-ai-4723069.html) - 13:17 16/03/2024
 - 🕯 [Xe điện VinFast trong mắt người dùng](https://vnexpress.net/xe-dien-vinfast-trong-mat-nguoi-dung-4723108.html) - 13:00 16/03/2024
 - 💃 [Bắt gặp chồng ôm hôn em vợ](https://vnexpress.net/bat-gap-chong-om-hon-em-vo-4721099.html) - 13:00 16/03/2024
@@ -77,8 +77,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤩 [5 quy tắc nên thiết lập cho trẻ trước 6 tuổi](https://vnexpress.net/5-quy-tac-nen-thiet-lap-cho-tre-truoc-6-tuoi-4723054.html) - 08:29 16/03/2024
 - 🏊 [Người Nhật Bản được tăng lương mạnh nhất 33 năm](https://vnexpress.net/nguoi-nhat-ban-duoc-tang-luong-manh-nhat-33-nam-4723012.html) - 08:24 16/03/2024
 - 💂 [Mỹ điều tra sự cố máy bay Boeing bung tấm ốp gầm](https://vnexpress.net/my-dieu-tra-su-co-may-bay-boeing-bung-tam-op-gam-4723023.html) - 08:22 16/03/2024
-- 🚀 [Ông Biden dẫn trước ông Trump trong hai cuộc khảo sát mới](https://vnexpress.net/ong-biden-dan-truoc-ong-trump-trong-hai-cuoc-khao-sat-moi-4723043.html) - 08:04 16/03/2024
-- 🕴 [Anh nông dân đổi đời nhờ chú trâu bạch tạng](https://vnexpress.net/anh-nong-dan-doi-doi-nho-chu-trau-bach-tang-4722895.html) - 08:00 16/03/2024<!-- vnexpress:END -->
+- 🚀 [Ông Biden dẫn trước ông Trump trong hai cuộc khảo sát mới](https://vnexpress.net/ong-biden-dan-truoc-ong-trump-trong-hai-cuoc-khao-sat-moi-4723043.html) - 08:04 16/03/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
