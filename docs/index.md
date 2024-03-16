@@ -388,8 +388,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Kỷ niệm 140 năm khởi nghĩa Yên Thế: Phát huy truyền thống vẻ vang, xây dựng Bắc Giang hiện đại, giầu mạnh](https://baochinhphu.vn/ky-niem-140-nam-khoi-nghia-yen-the-phat-huy-truyen-thong-ve-vang-xay-dung-bac-giang-hien-dai-giau-manh-102240316115350729.htm) - 15:30 16/03/2024
-- 🌜 [Thủ tướng Phạm Minh Chính: Các chủ thể đặt mình vào địa vị của những người chưa có chỗ ở để hành động](https://baochinhphu.vn/thu-tuong-pham-minh-chinh-cac-chu-the-dat-minh-vao-dia-vi-cua-nhung-nguoi-chua-co-cho-o-de-hanh-dong-102240316140410184.htm) - 14:05 16/03/2024
+- 💻 [Thủ tướng Phạm Minh Chính: Các chủ thể đặt mình vào địa vị của những người chưa có chỗ ở để hành động](https://baochinhphu.vn/thu-tuong-pham-minh-chinh-cac-chu-the-dat-minh-vao-dia-vi-cua-nhung-nguoi-chua-co-cho-o-de-hanh-dong-102240316140410184.htm) - 15:50 16/03/2024
+- 🌜 [Kỷ niệm 140 năm khởi nghĩa Yên Thế: Phát huy truyền thống vẻ vang, xây dựng Bắc Giang hiện đại, giầu mạnh](https://baochinhphu.vn/ky-niem-140-nam-khoi-nghia-yen-the-phat-huy-truyen-thong-ve-vang-xay-dung-bac-giang-hien-dai-giau-manh-102240316115350729.htm) - 15:30 16/03/2024
 - 🦆 [Khai mạc Năm phục hồi đa dạng sinh học quốc gia tại Quảng Nam](https://baochinhphu.vn/khai-mac-nam-phuc-hoi-da-dang-sinh-hoc-quoc-gia-tai-quang-nam-10224031614202311.htm) - 13:22 16/03/2024
 - 🌝 [TỔNG THUẬT: Chính phủ họp với các địa phương về phát triển nhà ở xã hội](https://baochinhphu.vn/tong-thuat-chinh-phu-hop-voi-cac-dia-phuong-ve-phat-trien-nha-o-xa-hoi-10224031606210965.htm) - 13:06 16/03/2024
 - 🦣 [Sáu tiềm năng, lợi thế để Quảng Nam tiếp tục phát triển bứt phá](https://baochinhphu.vn/sau-tiem-nang-loi-the-de-quang-nam-tiep-tuc-phat-trien-but-pha-102240316131434718.htm) - 12:30 16/03/2024
