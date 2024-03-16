@@ -252,7 +252,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Việt Nam được dự AFC Champions League cho CLB nữ](https://nld.com.vn/viet-nam-duoc-du-afc-champions-league-cho-clb-nu-196240316213823123.htm) - 14:41 16/03/2024
-- 😺 [Ấm áp với buổi ra mắt Tuyển tập Huỳnh Dũng Nhân &quot;Cuộc đời và cây bút&quot;](https://nld.com.vn/am-ap-voi-buoi-ra-mat-tuyen-tap-huynh-dung-nhan-cuoc-doi-va-cay-but-196240316201443587.htm) - 14:34 16/03/2024
+- 😺 [Ấm áp với buổi ra mắt tuyển tập &quot;Huỳnh Dũng Nhân - Cuộc đời và cây bút&quot;](https://nld.com.vn/am-ap-voi-buoi-ra-mat-tuyen-tap-huynh-dung-nhan-cuoc-doi-va-cay-but-196240316201443587.htm) - 14:34 16/03/2024
 - 👍 [Bloomberg: Mỹ cạn vũ khí sau 2 năm viện trợ Ukraine](https://nld.com.vn/bloomberg-my-can-vu-khi-sau-2-nam-vien-tro-ukraine-196240316175304421.htm) - 14:25 16/03/2024
 - 🥷 [VCK Giải Thanh Niên sinh viên 2024 khởi tranh, chủ nhà đánh rơi 3 điểm](https://nld.com.vn/vck-giai-thanh-nien-sinh-vien-2024-khoi-tranh-chu-nha-danh-roi-3-diem-196240316200951368.htm) - 13:39 16/03/2024
 - 🤔 [Hàn Quốc: Sau bác sĩ, đến lượt các giáo sư y khoa từ chức](https://nld.com.vn/han-quoc-sau-bac-si-den-luot-cac-giao-su-y-khoa-tu-chuc-196240316201602022.htm) - 13:33 16/03/2024
