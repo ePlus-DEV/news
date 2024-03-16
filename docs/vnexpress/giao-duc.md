@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Dự kiến thi lớp 10 ở TP HCM ngày 6, 7/6](https://vnexpress.net/du-kien-thi-lop-10-o-tp-hcm-ngay-6-7-6-4722915.html) - 01:19 16/03/2024
+- 🤓 [Dự kiến thi lớp 10 ở TP HCM ngày 6-7/6](https://vnexpress.net/du-kien-thi-lop-10-o-tp-hcm-ngay-6-7-6-4722915.html) - 01:19 16/03/2024
 - 🦆 [Học viện Ngoại giao dành 70% chỉ tiêu xét học bạ và chứng chỉ quốc tế](https://vnexpress.net/hoc-vien-ngoai-giao-danh-70-chi-tieu-xet-hoc-ba-va-chung-chi-quoc-te-4722802.html) - 00:48 16/03/2024
 - 🦩 [Nam sinh giành cú đúp giải nhất thi học sinh giỏi của Hà Nội](https://vnexpress.net/nam-sinh-gianh-cu-dup-giai-nhat-thi-hoc-sinh-gioi-cua-ha-noi-4722456.html) - 00:04 16/03/2024
 - 🌮 [Hơn 7.600 học sinh Hà Nội tranh tài ở Hội khỏe Phù Đổng](https://vnexpress.net/hon-7-600-hoc-sinh-ha-noi-tranh-tai-o-hoi-khoe-phu-dong-4722739.html) - 16:05 15/03/2024
@@ -15,7 +15,7 @@ sidebar_position: 7
 - 🦒 [New South Wales dừng nhận học sinh một số tỉnh của Việt Nam](https://vnexpress.net/new-south-wales-dung-nhan-hoc-sinh-mot-so-tinh-cua-viet-nam-4721473.html) - 07:53 15/03/2024
 - 🦆 [Đại học Luật Hà Nội tuyển sinh chủ yếu bằng học bạ và điểm thi](https://vnexpress.net/dai-hoc-luat-ha-noi-tuyen-sinh-chu-yeu-bang-hoc-ba-va-diem-thi-4722587.html) - 06:32 15/03/2024
 - 🧰 [Các đại học tuyển sinh nhóm ngành Kinh tế, Công nghệ nhiều nhất](https://vnexpress.net/cac-dai-hoc-tuyen-sinh-nhom-nganh-kinh-te-cong-nghe-nhieu-nhat-4722598.html) - 06:11 15/03/2024
-- 🐘 [Dự kiến thi tốt nghiệp THPT ngày 21, 22/6](https://vnexpress.net/du-kien-thi-tot-nghiep-thpt-ngay-21-22-6-4722595.html) - 03:22 15/03/2024
+- 🐘 [Dự kiến thi tốt nghiệp THPT ngày 21-22/6](https://vnexpress.net/du-kien-thi-tot-nghiep-thpt-ngay-21-22-6-4722595.html) - 03:22 15/03/2024
 - 🤓 [10 địa phương có tỷ lệ học sinh vào đại học cao nhất](https://vnexpress.net/10-dia-phuong-co-ty-le-hoc-sinh-vao-dai-hoc-cao-nhat-4722539.html) - 02:40 15/03/2024
 - 🧰 [Cơ hội học chương trình cử nhân quốc tế tại Việt Nam](https://vnexpress.net/co-hoi-hoc-chuong-trinh-cu-nhan-quoc-te-tai-viet-nam-4722143.html) - 02:00 15/03/2024
 - 🧑‍💻 [Một lớp 8 có ba giải nhất thi học sinh giỏi lớp 9](https://vnexpress.net/mot-lop-8-co-ba-giai-nhat-thi-hoc-sinh-gioi-lop-9-4722462.html) - 00:30 15/03/2024
