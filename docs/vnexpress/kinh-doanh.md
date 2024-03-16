@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Doanh nghiệp kiều bào muốn cùng phát triển ngành bán dẫn Việt](https://vnexpress.net/doanh-nghiep-kieu-bao-muon-cung-phat-trien-nganh-ban-dan-viet-4723127.html) - 13:35 16/03/2024
-- 🐲 [TikTok nguy cơ soán ngôi kênh truyền thống](https://vnexpress.net/tiktok-nguy-co-soan-ngoi-kenh-truyen-thong-4723074.html) - 13:21 16/03/2024
+- 🐲 [TikTok lấn lướt kênh bán hàng truyền thống](https://vnexpress.net/tiktok-lan-luot-kenh-ban-hang-truyen-thong-4723074.html) - 13:21 16/03/2024
 - 🔥 [Xây dựng khu kinh tế thương mại xuyên biên giới Lao Bảo - Densavan](https://vnexpress.net/xay-dung-khu-kinh-te-thuong-mai-xuyen-bien-gioi-lao-bao-densavan-4722876.html) - 09:28 16/03/2024
 - 🐵 [Hơn 20.000 tỷ đồng đăng ký đầu tư vào Quảng Nam](https://vnexpress.net/hon-20-000-ty-dong-dang-ky-dau-tu-vao-quang-nam-4723011.html) - 09:24 16/03/2024
 - 🦅 [Người Nhật Bản được tăng lương mạnh nhất 33 năm](https://vnexpress.net/nguoi-nhat-ban-duoc-tang-luong-manh-nhat-33-nam-4723012.html) - 08:24 16/03/2024
