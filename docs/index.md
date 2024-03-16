@@ -394,9 +394,9 @@ Khát vọng làm giàu trên quê hương](https://nld.com.vn/khat-vong-lam-gia
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Bổ nhiệm Thành viên HĐTV Tập đoàn Dầu khí Việt Nam](https://baochinhphu.vn/bo-nhiem-thanh-vien-hdtv-tap-doan-dau-khi-viet-nam-102240316081013509.htm) - 09:06 16/03/2024
-- 🌜 [Chính sách ưu đãi, hỗ trợ phát triển cụm công nghiệp](https://baochinhphu.vn/chinh-sach-uu-dai-ho-tro-phat-trien-cum-cong-nghiep-102240315182841105.htm) - 08:47 16/03/2024
-- 🦆 [TỔNG THUẬT: Chính phủ họp với các địa phương về phát triển nhà ở xã hội](https://baochinhphu.vn/tong-thuat-chinh-phu-hop-voi-cac-dia-phuong-ve-phat-trien-nha-o-xa-hoi-10224031606210965.htm) - 08:17 16/03/2024
+- 💻 [TỔNG THUẬT: Chính phủ họp với các địa phương về phát triển nhà ở xã hội](https://baochinhphu.vn/tong-thuat-chinh-phu-hop-voi-cac-dia-phuong-ve-phat-trien-nha-o-xa-hoi-10224031606210965.htm) - 10:17 16/03/2024
+- 🌜 [Bổ nhiệm Thành viên HĐTV Tập đoàn Dầu khí Việt Nam](https://baochinhphu.vn/bo-nhiem-thanh-vien-hdtv-tap-doan-dau-khi-viet-nam-102240316081013509.htm) - 09:06 16/03/2024
+- 🦆 [Chính sách ưu đãi, hỗ trợ phát triển cụm công nghiệp](https://baochinhphu.vn/chinh-sach-uu-dai-ho-tro-phat-trien-cum-cong-nghiep-102240315182841105.htm) - 08:47 16/03/2024
 - 🌝 [Tổ chức giảng dạy hoạt động trải nghiệm tại nhà trường thế nào?](https://baochinhphu.vn/to-chuc-giang-day-hoat-dong-trai-nghiem-tai-nha-truong-the-nao-102240311120403381.htm) - 08:02 16/03/2024
 - 🦣 [Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ nổi bật tuần từ 11-15/3/2024](https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-noi-bat-tuan-tu-11-15-3-2024-102240315171726751.htm) - 07:32 16/03/2024
 - ⛽️ [Công ty mẹ có được dùng báo cáo tài chính hợp nhất để dự thầu?](https://baochinhphu.vn/cong-ty-me-co-duoc-dung-bao-cao-tai-chinh-hop-nhat-de-du-thau-102240307095555185.htm) - 07:02 16/03/2024
