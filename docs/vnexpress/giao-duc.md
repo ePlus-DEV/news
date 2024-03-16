@@ -9,7 +9,7 @@ sidebar_position: 7
 - 🦩 [TP HCM mở rộng tuyển lớp 1, 6 theo nguyên tắc học gần nhà](https://vnexpress.net/tp-hcm-mo-rong-tuyen-lop-1-6-theo-nguyen-tac-hoc-gan-nha-4722953.html) - 03:22 16/03/2024
 - 🌮 [Đại học Kinh tế Quốc dân yêu cầu giảng viên không dạy online](https://vnexpress.net/dai-hoc-kinh-te-quoc-dan-yeu-cau-giang-vien-khong-day-online-4722941.html) - 03:02 16/03/2024
 - 🔭 [Dự kiến thi lớp 10 ở TP HCM ngày 6-7/6](https://vnexpress.net/du-kien-thi-lop-10-o-tp-hcm-ngay-6-7-6-4722915.html) - 01:19 16/03/2024
-- 💡 [Học viện Ngoại giao dành 70% chỉ tiêu xét học bạ và chứng chỉ quốc tế](https://vnexpress.net/hoc-vien-ngoai-giao-danh-70-chi-tieu-xet-hoc-ba-va-chung-chi-quoc-te-4722802.html) - 00:48 16/03/2024
+- 💡 [Học viện Ngoại giao dành 70% chỉ tiêu xét kết hợp](https://vnexpress.net/hoc-vien-ngoai-giao-danh-70-chi-tieu-xet-ket-hop-4722802.html) - 00:48 16/03/2024
 - 🥰 [Nam sinh giành cú đúp giải nhất thi học sinh giỏi của Hà Nội](https://vnexpress.net/nam-sinh-gianh-cu-dup-giai-nhat-thi-hoc-sinh-gioi-cua-ha-noi-4722456.html) - 00:04 16/03/2024
 - 🐲 [Hơn 7.600 học sinh Hà Nội tranh tài ở Hội khỏe Phù Đổng](https://vnexpress.net/hon-7-600-hoc-sinh-ha-noi-tranh-tai-o-hoi-khoe-phu-dong-4722739.html) - 16:05 15/03/2024
 - 🦒 [Nút giao thông 4 tầng đầu tiên của Việt Nam ở đâu?](https://vnexpress.net/nut-giao-thong-4-tang-dau-tien-cua-viet-nam-o-dau-4722786.html) - 13:18 15/03/2024
