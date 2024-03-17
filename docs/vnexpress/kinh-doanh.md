@@ -34,7 +34,7 @@ sidebar_position: 3
 - 🌜 [Hãng bay Việt hoạt động tích cực tại thị trường Australia](https://vnexpress.net/hang-bay-viet-hoat-dong-tich-cuc-tai-thi-truong-australia-4722408.html) - 12:00 14/03/2024
 - 👍 [Tỷ giá biến động 1%, doanh nghiệp thiệt 300 tỷ đồng](https://vnexpress.net/ty-gia-bien-dong-1-doanh-nghiep-thiet-300-ty-dong-4722362.html) - 10:44 14/03/2024
 - 🤖 [&#39;Mục tiêu GDP năm nay tăng 6-6,5% là thách thức&#39;](https://vnexpress.net/muc-tieu-gdp-nam-nay-tang-6-6-5-la-thach-thuc-4722232.html) - 10:15 14/03/2024
-- 🫣 [Nợ thẻ tín dụng gần 9 triệu thành nợ xấu hơn 8,8 tỷ đồng](https://vnexpress.net/no-the-tin-dung-10-trieu-dong-thanh-khoan-no-xau-chuc-ty-dong-4722234.html) - 08:57 14/03/2024
+- 🫣 [Nợ thẻ tín dụng gần 9 triệu thành nợ xấu hơn 8,8 tỷ đồng](https://vnexpress.net/no-the-tin-dung-gan-9-trieu-thanh-no-xau-hon-8-8-ty-dong-4722234.html) - 08:57 14/03/2024
 - 🌏 [Cổ phiếu ngân hàng gây áp lực cho thị trường](https://vnexpress.net/co-phieu-ngan-hang-gay-ap-luc-cho-thi-truong-4722321.html) - 08:55 14/03/2024
 - ⚗️ [Giá xăng giảm, dầu tăng](https://vnexpress.net/gia-xang-moi-nhat-hom-nay-14-3-4722292.html) - 07:42 14/03/2024
 - 🕯 [Việt Nam thu 2,9 tỷ USD từ bán gỗ dăm, viên nén](https://vnexpress.net/viet-nam-thu-2-9-ty-usd-tu-ban-go-dam-vien-nen-4721984.html) - 06:33 14/03/2024
