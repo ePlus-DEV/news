@@ -16,7 +16,7 @@ sidebar_position: 3
 - 🤔 [Viện thẩm mỹ Diva tìm chủ nhân nhẫn kim cương hai tỷ đồng](https://vnexpress.net/vien-tham-my-diva-tim-chu-nhan-nhan-kim-cuong-hai-ty-dong-4722366.html) - 07:00 16/03/2024
 - 🧑‍💻 [Châu Âu &#39;nhiều năm nữa mới cấp phép&#39; cho máy bay Trung Quốc](https://vnexpress.net/chau-au-nhieu-nam-nua-moi-cap-phep-cho-may-bay-trung-quoc-4722957.html) - 04:29 16/03/2024
 - 🕴 [Công ty chứng khoán đua tăng vốn](https://vnexpress.net/cong-ty-chung-khoan-dua-tang-von-4721865.html) - 23:00 15/03/2024
-- 🦩 [Vay ngân hàng trên 100 triệu có thể phải cấp thông tin người liên quan](https://vnexpress.net/vay-ngan-hang-tren-100-trieu-co-the-phai-cap-thong-tin-nguoi-lien-quan-4722857.html) - 15:25 15/03/2024
+- 🦩 [Vay ngân hàng trên 100 triệu có thể phải khai thông tin người liên quan](https://vnexpress.net/vay-ngan-hang-tren-100-trieu-co-the-phai-khai-thong-tin-nguoi-lien-quan-4722857.html) - 15:25 15/03/2024
 - 👍 [Đề xuất hạn chế mua bán vàng miếng bằng tiền mặt](https://vnexpress.net/de-xuat-han-che-mua-ban-vang-mieng-bang-tien-mat-4722860.html) - 13:56 15/03/2024
 - 🏊 [Lợi nhuận ngành bia giảm sâu vì kiểm soát nồng độ cồn](https://vnexpress.net/loi-nhuan-nganh-bia-giam-sau-vi-kiem-soat-nong-do-con-4722853.html) - 13:27 15/03/2024
 - 🤡 [Ông Biden phản đối bán hãng thép biểu tượng của Mỹ cho công ty Nhật](https://vnexpress.net/ong-biden-phan-doi-ban-hang-thep-bieu-tuong-cua-my-cho-cong-ty-nhat-4722798.html) - 09:43 15/03/2024
