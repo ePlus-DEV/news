@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Những xu hướng du lịch sẽ bùng nổ ở châu Á năm 2024](https://vnexpress.net/nhung-xu-huong-du-lich-se-bung-no-o-chau-a-nam-2024-4723033.html) - 04:00 17/03/2024
+- 💂 [Những xu hướng du lịch bùng nổ ở châu Á](https://vnexpress.net/nhung-xu-huong-du-lich-bung-no-o-chau-a-4723033.html) - 04:00 17/03/2024
 - 🪄 [TP HCM và Phú Quốc vào top điểm đến tốt nhất châu Á](https://vnexpress.net/tp-hcm-va-phu-quoc-vao-top-diem-den-tot-nhat-chau-a-4723048.html) - 23:09 16/03/2024
 - 🦅 [5 cách du lịch 30/4 &#39;né&#39; giá vé máy bay](https://vnexpress.net/5-cach-du-lich-30-4-ne-gia-ve-may-bay-4722705.html) - 17:00 16/03/2024
 - 🕴 [10 con đường thú vị nhất thế giới năm 2024](https://vnexpress.net/10-con-duong-thu-vi-nhat-the-gioi-nam-2024-4723008.html) - 12:09 16/03/2024
