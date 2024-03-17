@@ -72,8 +72,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🕯 [Học Kỹ thuật phần mềm hay Trí tuệ nhân tạo?](https://vnexpress.net/hoc-ky-thuat-phan-mem-hay-tri-tue-nhan-tao-4723072.html) - 00:10 17/03/2024
 - 💪 [Mbappe: &#39;Không bao giờ đến Arsenal&#39;](https://vnexpress.net/mbappe-khong-bao-gio-den-arsenal-4723170.html) - 00:00 17/03/2024
 - 🧑‍🏫 [Bộ trưởng Y tế: &#39;Chuyển đổi số để giảm phiền nhiễu người bệnh&#39;](https://vnexpress.net/bo-truong-y-te-chuyen-doi-so-de-giam-phien-nhieu-nguoi-benh-4723128.html) - 00:00 17/03/2024
-- 🎓 [Uống rượu dễ mắc ung thư nào?](https://vnexpress.net/uong-ruou-de-mac-ung-thu-nao-4723015.html) - 00:00 17/03/2024
-- 💫 [Cú hích từ điểm 0 giúp nam sinh Bách khoa tốt nghiệp loại giỏi](https://vnexpress.net/cu-hich-tu-diem-0-giup-nam-sinh-bach-khoa-tot-nghiep-loai-gioi-4723016.html) - 23:59 16/03/2024<!-- vnexpress:END -->
+- 🎓 [Uống rượu dễ mắc ung thư nào?](https://vnexpress.net/uong-ruou-de-mac-ung-thu-nao-4723015.html) - 00:00 17/03/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
