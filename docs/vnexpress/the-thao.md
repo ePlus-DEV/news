@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Runner Việt Nam đạt thành tích 2 giờ 30 phút tại Seoul Marathon](https://vnexpress.net/runner-viet-nam-dat-thanh-tich-2-gio-30-phut-tai-seoul-marathon-4723332.html) - 14:58 17/03/2024
-- 🦩 [Man Utd 1-2 Liverpool &lpar;hết H1&rpar;: Salah ghi bàn](https://vnexpress.net/man-utd-vs-liverpool-4723367.html) - 14:58 17/03/2024
+- 🦩 [Man Utd 1-2 Liverpool &lpar;H2&rpar;: Salah ghi bàn](https://vnexpress.net/man-utd-vs-liverpool-4723367.html) - 14:58 17/03/2024
 - 🧰 [Hai bàn phút bù đưa Chelsea vào bán kết Cup FA](https://vnexpress.net/hai-ban-phut-bu-dua-chelsea-vao-ban-ket-cup-fa-4723369.html) - 14:58 17/03/2024
 - 🤗 [Bùi Hoàng Việt Anh: &#39;Việt Nam cần tránh lỗi lặt vặt trước Indonesia&#39;](https://vnexpress.net/bui-hoang-viet-anh-viet-nam-can-tranh-loi-lat-vat-truoc-indonesia-4723343.html) - 11:52 17/03/2024
 - 🥳 [Công Phượng chấn thương](https://vnexpress.net/cong-phuong-chan-thuong-4723341.html) - 11:20 17/03/2024
