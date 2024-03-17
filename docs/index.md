@@ -29,7 +29,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [Vỡ tinh hoàn do đá bóng](https://vnexpress.net/vo-tinh-hoan-do-da-bong-4723193.html) - 18:00 17/03/2024
 - 🧰 [700 triệu nên xây nhà cho thuê hay đầu tư chứng khoán?](https://vnexpress.net/700-trieu-nen-xay-nha-cho-thue-hay-dau-tu-chung-khoan-4723129.html) - 17:47 17/03/2024
 - 🥰 [Ngân hàng rao bán khách sạn ở Hội An giá khởi điểm 110 tỷ đồng](https://vnexpress.net/ngan-hang-rao-ban-khach-san-o-hoi-an-gia-khoi-diem-110-ty-dong-4723354.html) - 17:35 17/03/2024
-- 🌏 [Ông Putin dẫn đầu bầu cử tổng thống Nga](https://vnexpress.net/ong-putin-dan-dau-bau-cu-tong-thong-nga-4723334.html) - 17:32 17/03/2024
+- 🌏 [Ông Putin tái đắc cử Tổng thống Nga](https://vnexpress.net/ong-putin-tai-dac-cu-tong-thong-nga-4723334.html) - 17:32 17/03/2024
 - 🧐 [Giá vàng thế giới tuần này có thể tiếp tục giảm](https://vnexpress.net/gia-vang-the-gioi-tuan-nay-co-the-tiep-tuc-giam-4723319.html) - 17:30 17/03/2024
 - 💫 [Cửa vào Đông Nam Á của máy bay &#39;Made in China&#39;](https://vnexpress.net/cua-vao-dong-nam-a-cua-may-bay-made-in-china-4723158.html) - 17:10 17/03/2024
 - 😺 [Đà Nẵng muốn hút người nổi tiếng đến du lịch sau Bill Gates](https://vnexpress.net/da-nang-muon-hut-nguoi-noi-tieng-den-du-lich-sau-bill-gates-4722776.html) - 17:09 17/03/2024
@@ -51,7 +51,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😺 [Mỹ sơ tán công dân khỏi Haiti](https://vnexpress.net/my-so-tan-cong-dan-khoi-haiti-4723365.html) - 15:19 17/03/2024
 - 🤔 [Ôtô tông loạt xe máy, một người chết](https://vnexpress.net/oto-tong-loat-xe-may-mot-nguoi-chet-4723366.html) - 15:07 17/03/2024
 - 🌮 [Runner Việt Nam đạt thành tích 2 giờ 30 phút tại Seoul Marathon](https://vnexpress.net/runner-viet-nam-dat-thanh-tich-2-gio-30-phut-tai-seoul-marathon-4723332.html) - 14:58 17/03/2024
-- 🦩 [Man Utd 4-3 Liverpool &lpar;hiệp phụ&rpar;: Amad Diallo ghi bàn](https://vnexpress.net/man-utd-vs-liverpool-4723367.html) - 14:58 17/03/2024
+- 🦩 [Man Utd thắng ngược Liverpool trong hiệp phụ](https://vnexpress.net/man-utd-vs-liverpool-4723367-tong-thuat.html) - 14:58 17/03/2024
 - 📝 [Hai bàn phút bù đưa Chelsea vào bán kết Cup FA](https://vnexpress.net/hai-ban-phut-bu-dua-chelsea-vao-ban-ket-cup-fa-4723369.html) - 14:58 17/03/2024
 - 🕴 [Váy ngủ hot trở lại](https://vnexpress.net/vay-ngu-hot-tro-lai-4723347.html) - 14:30 17/03/2024
 - 🐲 [Xe khách đấu đầu xe bồn, 21 người chết](https://vnexpress.net/xe-khach-dau-dau-xe-bon-21-nguoi-chet-4723360.html) - 14:11 17/03/2024
