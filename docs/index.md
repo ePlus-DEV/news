@@ -30,7 +30,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧰 [Mỹ sơ tán công dân khỏi Haiti](https://vnexpress.net/my-so-tan-cong-dan-khoi-haiti-4723365.html) - 15:19 17/03/2024
 - 🥰 [Ôtô tông loạt xe máy, một người chết](https://vnexpress.net/oto-tong-loat-xe-may-mot-nguoi-chet-4723366.html) - 15:07 17/03/2024
 - 🌏 [Runner Việt Nam đạt thành tích 2 giờ 30 phút tại Seoul Marathon](https://vnexpress.net/runner-viet-nam-dat-thanh-tich-2-gio-30-phut-tai-seoul-marathon-4723332.html) - 14:58 17/03/2024
-- 🧐 [Man Utd 1-2 Liverpool &lpar;hết H1&rpar;: Salah ghi bàn](https://vnexpress.net/man-utd-vs-liverpool-4723367.html) - 14:58 17/03/2024
+- 🧐 [Man Utd 1-0 Liverpool &lpar;H1&rpar;: McTominay mở tỷ số](https://vnexpress.net/man-utd-vs-liverpool-4723367.html) - 14:58 17/03/2024
 - 💫 [Hai bàn phút bù đưa Chelsea vào bán kết Cup FA](https://vnexpress.net/hai-ban-phut-bu-dua-chelsea-vao-ban-ket-cup-fa-4723369.html) - 14:58 17/03/2024
 - 😺 [Váy ngủ hot trở lại](https://vnexpress.net/vay-ngu-hot-tro-lai-4723347.html) - 14:30 17/03/2024
 - 🕯 [Xe khách đấu đầu xe bồn, 21 người chết](https://vnexpress.net/xe-khach-dau-dau-xe-bon-21-nguoi-chet-4723360.html) - 14:11 17/03/2024
