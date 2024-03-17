@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Nga sắp hoàn tất bầu tổng thống](https://vnexpress.net/nga-sap-hoan-tat-bau-tong-thong-4723334.html) - 17:32 17/03/2024
+- 🎭 [Ông Putin tái đắc cử Tổng thống Nga](https://vnexpress.net/ong-putin-tai-dac-cu-tong-thong-nga-4723334.html) - 17:32 17/03/2024
 - 🕴 [Đường Bá Hổ - tài tử xui xẻo trong lịch sử Trung Quốc](https://vnexpress.net/duong-ba-ho-tai-tu-xui-xeo-trong-lich-su-trung-quoc-4721475.html) - 17:00 17/03/2024
 - 🤭 [Thủ tướng Israel chỉ trích lãnh đạo Thượng viện Mỹ](https://vnexpress.net/thu-tuong-israel-chi-trich-lanh-dao-thuong-vien-my-4723374.html) - 16:59 17/03/2024
 - 🧑‍💻 [Mỹ sơ tán công dân khỏi Haiti](https://vnexpress.net/my-so-tan-cong-dan-khoi-haiti-4723365.html) - 15:19 17/03/2024
