@@ -577,7 +577,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- hoahoctro:START -->
 - 💼 [Đà Lạt: Đốt cỏ trong vườn làm cháy lan hơn 1.000m2](https://tienphong.vn/da-lat-dot-co-trong-vuon-lam-chay-lan-hon-1000m2-post1621043.tpo) - 22:24 17/03/2024
 - 🎊 [Nhiều hoạt động ý nghĩa tại chương trình Tháng Ba biên giới - Biên cương Tổ quốc tôi](https://tienphong.vn/nhieu-hoat-dong-y-nghia-tai-chuong-trinh-thang-ba-bien-gioi-bien-cuong-to-quoc-toi-post1621035.tpo) - 22:01 17/03/2024
-- 💼 [Trực tiếp MU 0-0 Liverpool &lpar;H1&rpar;: Hojlund tái xuất](https://tienphong.vn/truc-tiep-mu-0-0-liverpool-h1-hojlund-tai-xuat-post1621046.tpo) - 21:53 17/03/2024
+- 💼 [Trực tiếp MU 1-0 Liverpool &lpar;H1&rpar;: McTominay mở tỷ số cho Quỷ đỏ](https://tienphong.vn/truc-tiep-mu-1-0-liverpool-h1-mctominay-mo-ty-so-cho-quy-do-post1621046.tpo) - 21:53 17/03/2024
 - 👺 [Công Phượng chấn thương, chưa chắc sang Indonesia cùng tuyển Việt Nam](https://tienphong.vn/cong-phuong-chan-thuong-chua-chac-sang-indonesia-cung-tuyen-viet-nam-post1621038.tpo) - 21:50 17/03/2024
 - 💪 [Hàng ngàn người xuống phố xem ‘con rồng lớn nhất Việt Nam’](https://tienphong.vn/hang-ngan-nguoi-xuong-pho-xem-con-rong-lon-nhat-viet-nam-post1621042.tpo) - 21:31 17/03/2024
 - 💃 [Dừng 70 dự án nhà ở thương mại chưa khả thi ở Thanh Hoá](https://tienphong.vn/dung-70-du-an-nha-o-thuong-mai-chua-kha-thi-o-thanh-hoa-post1620994.tpo) - 21:08 17/03/2024
@@ -607,7 +607,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎡 [Tuổi trẻ Đắk Lắk, Bình Dương hướng về biên giới](https://tienphong.vn/tuoi-tre-dak-lak-binh-duong-huong-ve-bien-gioi-post1620848.tpo) - 17:08 17/03/2024
 - 🔭 [Hơn 5.500 người hào hứng chạy cùng ‘ThuaThienHueJogging’ hưởng ứng Tháng Thanh niên](https://tienphong.vn/hon-5500-nguoi-hao-hung-chay-cung-thuathienhuejogging-huong-ung-thang-thanh-nien-post1621009.tpo) - 17:05 17/03/2024
 - 🧰 [Những thông tin mới về tuyển sinh đại học năm 2024](https://tienphong.vn/nhung-thong-tin-moi-ve-tuyen-sinh-dai-hoc-nam-2024-post1621010.tpo) - 17:04 17/03/2024
-- 💂 [Khánh thành, bàn giao khu vui chơi tặng thiếu nhi tại Bệnh viện đa khoa Hà Tĩnh](https://tienphong.vn/khanh-thanh-ban-giao-khu-vui-choi-tang-thieu-nhi-tai-benh-vien-da-khoa-ha-tinh-post1621000.tpo) - 16:53 17/03/2024
+- 💂 [Khánh thành khu vui chơi tặng thiếu nhi tại Bệnh viện đa khoa Hà Tĩnh](https://tienphong.vn/khanh-thanh-khu-vui-choi-tang-thieu-nhi-tai-benh-vien-da-khoa-ha-tinh-post1621000.tpo) - 16:53 17/03/2024
 - 🦏 [Các nàng hậu chung tay cải tạo kênh rạch ô nhiễm ở TPHCM](https://tienphong.vn/cac-nang-hau-chung-tay-cai-tao-kenh-rach-o-nhiem-o-tphcm-post1620936.tpo) - 16:50 17/03/2024
 - 🌋 [Đồn Biên phòng Cửa khẩu quốc tế Trà Lĩnh: Điểm tựa của người dân nơi biên cương Tổ quốc](https://tienphong.vn/don-bien-phong-cua-khau-quoc-te-tra-linh-diem-tua-cua-nguoi-dan-noi-bien-cuong-to-quoc-post1620999.tpo) - 16:43 17/03/2024
 - 🧰 [Tuổi trẻ Điện Biên chung tay xây dựng nông thôn mới](https://tienphong.vn/tuoi-tre-dien-bien-chung-tay-xay-dung-nong-thon-moi-post1620971.tpo) - 16:38 17/03/2024
