@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Bị kiện, Ban tổ chức Miss Grand International phản tố đòi hơn 2 tỷ đồng](https://vnexpress.net/bi-kien-ban-to-chuc-miss-grand-international-phan-to-doi-hon-2-ty-dong-4723244.html) - 04:34 17/03/2024
+- 😎 [Bị kiện, Ban tổ chức Miss Grand International phản tố đòi 2,6 tỷ đồng](https://vnexpress.net/bi-kien-ban-to-chuc-miss-grand-international-phan-to-doi-2-6-ty-dong-4723244.html) - 04:34 17/03/2024
 - 🥰 [Lời khai tài xế bán tải đâm nhiều người trên phố](https://video.vnexpress.net/loi-khai-tai-xe-ban-tai-dam-nhieu-nguoi-tren-pho-4723160.html) - 02:51 17/03/2024
 - 🎓 [Nhóm thiếu niên gí &#39;dao phóng lợn&#39;, liên tiếp cướp xe máy ở Hà Nội](https://vnexpress.net/nhom-thieu-nien-gi-dao-phong-lon-lien-tiep-cuop-xe-may-o-ha-noi-4723153.html) - 02:25 17/03/2024
 - 🤓 [Dùng thẻ tín dụng thế nào để không vướng lao lý khi quên trả tiền?](https://vnexpress.net/dung-the-tin-dung-the-nao-de-khong-vuong-lao-ly-khi-quen-tra-tien-4723124.html) - 22:00 16/03/2024
