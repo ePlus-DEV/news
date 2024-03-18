@@ -7,7 +7,7 @@ sidebar_position: 10
 - 🔥 [Số ca sốt xuất huyết ở Hà Nội tăng gấp 3 lần](https://vnexpress.net/so-ca-sot-xuat-huyet-o-ha-noi-tang-gap-3-lan-4723614.html) - 07:04 18/03/2024
 - 🥰 [Làm gì khi tập thể dục để phòng đột quỵ?](https://vnexpress.net/lam-gi-khi-tap-the-duc-de-phong-dot-quy-4723620.html) - 07:00 18/03/2024
 - 💡 [Ba lầm tưởng về thủ dâm](https://vnexpress.net/ba-lam-tuong-ve-thu-dam-4723452.html) - 06:38 18/03/2024
-- 🤗 [Béo phì làm tăng nguy cơ ung cơ ung thư thực quản](https://vnexpress.net/beo-phi-lam-tang-nguy-co-ung-co-ung-thu-thuc-quan-4723589.html) - 06:00 18/03/2024
+- 🤗 [Béo phì làm tăng nguy cơ ung thư thực quản](https://vnexpress.net/beo-phi-lam-tang-nguy-co-ung-thu-thuc-quan-4723589.html) - 06:00 18/03/2024
 - 🪜 [Ăn gì để cân bằng cholesterol?](https://vnexpress.net/an-gi-de-can-bang-cholesterol-4723524.html) - 05:30 18/03/2024
 - 🕯 [6 loại trái cây giảm mỡ bụng](https://vnexpress.net/6-loai-trai-cay-giam-mo-bung-4723533.html) - 05:00 18/03/2024
 - 🤭 [Đau vai có phải triệu chứng ung thư phổi?](https://vnexpress.net/dau-vai-co-phai-trieu-chung-ung-thu-phoi-4723510.html) - 04:30 18/03/2024
