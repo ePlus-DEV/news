@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Đề nghị kỷ luật bà Hoàng Thị Thúy Lan](https://vnexpress.net/de-nghi-ky-luat-ba-hoang-thi-thuy-lan-4723653.html) - 07:55 18/03/2024
+- 🦒 [Bà Hoàng Thị Thúy Lan bị đề nghị kỷ luật](https://vnexpress.net/ba-hoang-thi-thuy-lan-bi-de-nghi-ky-luat-4723653.html) - 07:55 18/03/2024
 - 🤓 [Ba nữ sinh bị nước cuốn](https://vnexpress.net/ba-nu-sinh-bi-nuoc-cuon-4723607.html) - 06:05 18/03/2024
 - ⚗️ [Ông Dương Văn An làm Bí thư Tỉnh ủy Vĩnh Phúc](https://vnexpress.net/ong-duong-van-an-lam-bi-thu-tinh-uy-vinh-phuc-4723475.html) - 03:09 18/03/2024
 - 🌊 [Hai vụ cháy nhà liên tiếp ở TP HCM](https://vnexpress.net/hai-vu-chay-nha-lien-tiep-o-tp-hcm-4723476.html) - 02:19 18/03/2024
