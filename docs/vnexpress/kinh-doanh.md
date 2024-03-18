@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Ông Phạm Nhật Vượng lập công ty phát triển trạm sạc](https://vnexpress.net/ong-pham-nhat-vuong-lap-cong-ty-phat-trien-tram-sac-4723570.html) - 04:27 18/03/2024
 - 🐲 [&#39;Vụ SCB có sai phạm của kiểm toán, thẩm định giá&#39;](https://vnexpress.net/vu-scb-co-sai-pham-cua-kiem-toan-tham-dinh-gia-4723497.html) - 04:14 18/03/2024
-- 🔥 [Chứng khoán lao dốc](https://vnexpress.net/chung-khoan-lao-doc-dau-phien-4723549.html) - 03:48 18/03/2024
+- 🔥 [Thanh khoản hơn tỷ USD trong phiên thị trường lao dốc](https://vnexpress.net/chung-khoan-lao-doc-dau-phien-4723549.html) - 03:48 18/03/2024
 - 🐵 [Bộ trưởng Tài chính: Cấm ngân hàng bán bảo hiểm kèm khoản vay](https://vnexpress.net/bo-truong-tai-chinh-cam-ngan-hang-ban-bao-hiem-kem-khoan-vay-4723439.html) - 03:47 18/03/2024
 - 🦅 [Meme coin vài ngày tuổi đạt vốn hóa 1 tỷ USD](https://vnexpress.net/meme-coin-vai-ngay-tuoi-dat-von-hoa-1-ty-usd-4723461.html) - 02:24 18/03/2024
 - 😺 [&#39;Các địa phương đừng chỉ nhìn mỗi thứ hạng đổi mới sáng tạo&#39;](https://vnexpress.net/cac-dia-phuong-dung-chi-nhin-moi-thu-hang-doi-moi-sang-tao-4723102.html) - 22:00 17/03/2024
