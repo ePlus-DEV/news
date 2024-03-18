@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Ông Dương Văn An làm Bí thư Tỉnh ủy Vĩnh Phúc](https://vnexpress.net/ong-duong-van-an-lam-bi-thu-tinh-uy-vinh-phuc-4723475.html) - 03:09 18/03/2024
-- 🤓 [Cháy nhà ở TP HCM, một người chết](https://vnexpress.net/chay-nha-o-tp-hcm-mot-nguoi-chet-4723476.html) - 02:19 18/03/2024
+- 🤓 [Liên tiếp 2 vụ cháy nhà ở TP HCM](https://vnexpress.net/lien-tiep-2-vu-chay-nha-o-tp-hcm-4723476.html) - 02:19 18/03/2024
 - ⚗️ [Lao động bất an khi KCN lâu đời nhất Việt Nam di dời](https://vnexpress.net/lao-dong-bat-an-khi-kcn-lau-doi-nhat-viet-nam-di-doi-4723372.html) - 22:00 17/03/2024
 - 🌊 [32 năm &#39;cắm&#39; đảo tiền tiêu canh biển Tây Nam](https://vnexpress.net/32-nam-cam-dao-tien-tieu-canh-bien-tay-nam-4723270.html) - 22:00 17/03/2024
 - 🎓 [Nóng lòng chờ đợi lương hưu](https://vnexpress.net/nong-long-cho-doi-luong-huu-4722374.html) - 22:00 17/03/2024
