@@ -26,7 +26,7 @@ sidebar_position: 9
 - 🎓 [Bố đơn thân có trách nhiệm và bản lĩnh tìm bạn đồng hành](https://vnexpress.net/bo-don-than-co-trach-nhiem-va-ban-linh-tim-ban-dong-hanh-4723478.html) - 04:00 18/03/2024
 - 🫣 [Mẹ của cô gái tôi đang theo đuổi mượn tiền, có nên đồng ý?](https://vnexpress.net/me-cua-co-gai-toi-dang-theo-duoi-muon-tien-co-nen-dong-y-4723431.html) - 04:00 18/03/2024
 - 🧑‍💻 [Chọn ngành nào để học về bán dẫn?](https://vnexpress.net/chon-nganh-nao-de-hoc-ve-ban-dan-4723293.html) - 04:00 18/03/2024
-- 🐲 [Australia - cứu tinh có thể giải cơn khát đạn HIMARS cho Mỹ](https://vnexpress.net/australia-cuu-tinh-co-the-giai-con-khat-dan-himars-cho-my-4722036.html) - 04:00 18/03/2024
+- 🐲 [Australia - cứu tinh cho cơn khát đạn HIMARS của Mỹ](https://vnexpress.net/australia-cuu-tinh-cho-con-khat-dan-himars-cua-my-4722036.html) - 04:00 18/03/2024
 - 🌝 [15 năm sống dưới gầm cầu để nghiên cứu xổ số](https://vnexpress.net/15-nam-song-duoi-gam-cau-de-nghien-cuu-xo-so-4723364.html) - 03:56 18/03/2024
 - 😺 [Chứng khoán lao dốc](https://vnexpress.net/chung-khoan-lao-doc-dau-phien-4723549.html) - 03:48 18/03/2024
 - 🐎 [Bộ trưởng Tài chính: Cấm ngân hàng bán bảo hiểm kèm khoản vay](https://vnexpress.net/bo-truong-tai-chinh-cam-ngan-hang-ban-bao-hiem-kem-khoan-vay-4723439.html) - 03:47 18/03/2024
