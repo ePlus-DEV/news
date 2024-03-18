@@ -256,7 +256,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🔥 [Cháy trong cư xá Vĩnh Hội, người dân ôm đồ tháo chạy](https://nld.com.vn/chay-trong-cu-xa-vinh-hoi-nguoi-dan-om-do-thao-chay-196240318115032541.htm) - 04:59 18/03/2024
 - 🧰 [Phim &quot;Quật mộ trùng ma&quot; doanh thu ấn tượng rạp Việt](https://nld.com.vn/phim-quat-mo-trung-ma-doanh-thu-an-tuong-rap-viet-196240318102109528.htm) - 04:52 18/03/2024
 - 🤗 [Esport: VCS 2024 tạm hoãn, tiến hành điều tra dấu hiệu tiêu cực](https://nld.com.vn/esport-vcs-2024-tam-hoan-tien-hanh-dieu-tra-dau-hieu-tieu-cuc-196240318111209167.htm) - 04:51 18/03/2024
-- 🦅 [&quot;Chiến binh World Cup&quot; Chiêm Hồng Thái lỡ &quot;cú đúp&quot;, TP HCM nhất toàn đoàn](https://nld.com.vn/chien-binh-world-cup-chiem-hong-thai-lo-cu-dup-tp-hcm-nhat-toan-doan-196240318111013798.htm) - 04:51 18/03/2024
+- 🦅 [&quot;Chiến binh World Cup&quot; Chiêm Hồng Thái lỡ &quot;cú đúp&quot;, TP HCM nhì toàn đoàn](https://nld.com.vn/chien-binh-world-cup-chiem-hong-thai-lo-cu-dup-tp-hcm-nhat-toan-doan-196240318111013798.htm) - 04:51 18/03/2024
 - 🤩 [Thuỷ điện xả nước, 2 nữ sinh tử vong, 1 nữ sinh mất tích](https://nld.com.vn/thuy-dien-xa-nuoc-2-nu-sinh-tu-vong-1-nu-sinh-mat-tich-196240318112718274.htm) - 04:39 18/03/2024
 - 🎭 [Hai hệ hành tinh có sự sống mới đang hình thành?](https://nld.com.vn/hai-he-hanh-tinh-co-su-song-moi-dang-hinh-thanh-196240318111941401.htm) - 04:37 18/03/2024
 - 💄 [Diễn biến mới vụ cháu trai tử vong tại tòa nhà bỏ hoang](https://nld.com.vn/dien-bien-moi-vu-chau-trai-tu-vong-tai-toa-nha-bo-hoang-196240318110224587.htm) - 04:25 18/03/2024
