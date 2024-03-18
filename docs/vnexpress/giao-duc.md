@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Trường Quốc tế Mỹ mở cửa lại từ ngày mai](https://vnexpress.net/truong-quoc-te-my-mo-cua-lai-tu-ngay-mai-4723819.html) - 15:34 18/03/2024
+- 🤓 [Trường Quốc tế Mỹ mở cửa lại](https://vnexpress.net/truong-quoc-te-my-mo-cua-lai-4723819.html) - 15:34 18/03/2024
 - 🦆 [TP HCM chốt phương án thi lớp 10 công lập](https://vnexpress.net/tp-hcm-chot-phuong-an-thi-lop-10-cong-lap-4723799.html) - 13:21 18/03/2024
 - 🦩 [Việt Nam có bao nhiêu nữ giáo sư Toán?](https://vnexpress.net/viet-nam-co-bao-nhieu-nu-giao-su-toan-4723770.html) - 13:12 18/03/2024
 - 🌮 [Học sinh lớp 4 đánh, thu tiền của bạn](https://vnexpress.net/hoc-sinh-lop-4-danh-thu-tien-cua-ban-4723693.html) - 12:32 18/03/2024
