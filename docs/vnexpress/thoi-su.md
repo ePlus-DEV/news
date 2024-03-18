@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Lao động bất an khi KCN lâu đời nhất Việt Nam di dời](https://vnexpress.net/lao-dong-bat-an-khi-kcn-lau-doi-nhat-viet-nam-di-doi-4723372.html) - 22:00 17/03/2024
 - 🤓 [32 năm &#39;cắm&#39; đảo tiền tiêu canh biển Tây Nam](https://vnexpress.net/32-nam-cam-dao-tien-tieu-canh-bien-tay-nam-4723270.html) - 22:00 17/03/2024
-- ⚗️ [Hai lần sốt ruột đợi lương hưu](https://vnexpress.net/hai-lan-sot-ruot-doi-luong-huu-4722374.html) - 22:00 17/03/2024
+- ⚗️ [Nóng lòng chờ đợi lương hưu](https://vnexpress.net/nong-long-cho-doi-luong-huu-4722374.html) - 22:00 17/03/2024
 - 🌊 [Hôm nay Bộ trưởng Ngoại giao Bùi Thanh Sơn trả lời chất vấn](https://vnexpress.net/hom-nay-bo-truong-ngoai-giao-bui-thanh-son-tra-loi-chat-van-4723314.html) - 17:00 17/03/2024
 - 🎓 [Ôtô tông loạt xe máy, một người chết](https://vnexpress.net/oto-tong-loat-xe-may-mot-nguoi-chet-4723366.html) - 15:07 17/03/2024
 - 🔥 [Cháy bãi cỏ ở TP HCM, bụi than lan xa 10 km](https://vnexpress.net/chay-bai-co-o-tp-hcm-bui-than-lan-xa-10-km-4723350.html) - 12:50 17/03/2024
