@@ -41,8 +41,8 @@ sidebar_position: 9
 - 🦏 [Nhà thờ chia đôi thành điểm du lịch](https://vnexpress.net/nha-tho-chia-doi-thanh-diem-du-lich-4723459.html) - 06:09 18/03/2024
 - 🦩 [Ba nữ sinh bị nước cuốn](https://vnexpress.net/ba-nu-sinh-bi-nuoc-cuon-4723607.html) - 06:05 18/03/2024
 - 👺 [Anh là bố đơn thân một con càng tốt](https://vnexpress.net/anh-la-bo-don-than-mot-con-cang-tot-4723518.html) - 06:00 18/03/2024
-- 🧑‍🏫 [Sợ sinh con có nhiều rủi ro khi đã 38 tuổi](https://vnexpress.net/so-sinh-con-co-nhieu-rui-ro-khi-da-38-tuoi-4723430.html) - 06:00 18/03/2024
-- 😎 [Tại sao xe chở chất lỏng thường có hình trụ?](https://vnexpress.net/tai-sao-xe-cho-chat-long-thuong-co-hinh-tru-4722169.html) - 06:00 18/03/2024
+- 🧑‍🏫 [Tại sao xe chở chất lỏng thường có hình trụ?](https://vnexpress.net/tai-sao-xe-cho-chat-long-thuong-co-hinh-tru-4722169.html) - 06:00 18/03/2024
+- 😎 [Sợ sinh con có nhiều rủi ro khi đã 38 tuổi](https://vnexpress.net/so-sinh-con-co-nhieu-rui-ro-khi-da-38-tuoi-4723430.html) - 06:00 18/03/2024
 - 🪄 [Béo phì làm tăng nguy cơ ung thư thực quản](https://vnexpress.net/beo-phi-lam-tang-nguy-co-ung-thu-thuc-quan-4723589.html) - 06:00 18/03/2024
 - 🏊 [Vingroup sẽ thoái vốn Vincom Retail](https://vnexpress.net/vingroup-se-ban-vincom-retail-4723605.html) - 05:51 18/03/2024
 - 💃 [Sân bay vũ trụ thương mại đầu tiên của Trung Quốc](https://vnexpress.net/san-bay-vu-tru-thuong-mai-dau-tien-cua-trung-quoc-4723418.html) - 05:37 18/03/2024
@@ -51,6 +51,4 @@ sidebar_position: 9
 - 👺 [MG Maxus 7 - MPV điện sắp ra mắt Đông Nam Á](https://vnexpress.net/mg-maxus-7-mpv-dien-sap-ra-mat-dong-nam-a-4723361.html) - 05:16 18/03/2024
 - 🎡 [Thắng lợi bầu cử có thể thúc đẩy ông Putin tăng nhiệt chiến sự Ukraine](https://vnexpress.net/thang-loi-bau-cu-co-the-thuc-day-ong-putin-tang-nhiet-chien-su-ukraine-4723445.html) - 05:02 18/03/2024
 - 👍 [Sinh viên Trung Quốc ngán du học Mỹ](https://vnexpress.net/sinh-vien-trung-quoc-ngan-du-hoc-my-4723502.html) - 05:01 18/03/2024
-- 🐎 [Hơn 645.000 người áp dụng chương trình Dinh dưỡng Bà mẹ và Trẻ em](https://vnexpress.net/hon-645-000-nguoi-ap-dung-chuong-trinh-dinh-duong-ba-me-va-tre-em-4723579.html) - 05:00 18/03/2024
-- 🏊 [Tại sao dùng máy giặt sấy không khô hẳn quần áo?](https://vnexpress.net/tai-sao-dung-may-giat-say-khong-kho-han-quan-ao-4723344.html) - 05:00 18/03/2024
-- 🦩 [Mắt Sài Gòn đồng loạt triển khai công nghệ xóa cận Smile Pro](https://vnexpress.net/mat-sai-gon-dong-loat-trien-khai-cong-nghe-xoa-can-smile-pro-4723556.html) - 05:00 18/03/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🐎 [Hơn 645.000 người áp dụng chương trình Dinh dưỡng Bà mẹ và Trẻ em](https://vnexpress.net/hon-645-000-nguoi-ap-dung-chuong-trinh-dinh-duong-ba-me-va-tre-em-4723579.html) - 05:00 18/03/2024<!-- vnexpress-tin-moi-nhat:END -->
