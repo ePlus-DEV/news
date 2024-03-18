@@ -251,7 +251,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- nld:START -->
 - 🐎 [Tổng Bí thư Nguyễn Phú Trọng chúc mừng Tổng thống Nga Vladimir Putin](https://nld.com.vn/tong-bi-thu-nguyen-phu-trong-chuc-mung-tong-thong-nga-vladimir-putin-19624031816274642.htm) - 09:27 18/03/2024
 - 😺 [Bắt nhóm đột nhập tiệm vàng trộm hơn 3,5kg vàng](https://nld.com.vn/bat-nhom-dot-nhap-tiem-vang-trom-hon-35kg-vang-196240318161303821.htm) - 09:23 18/03/2024
-- 👍 [Cổ phiếu bất động sản tăng mạnh trong ngày thanh khoản VN-Index kỷ lục](https://nld.com.vn/co-phieu-bat-dong-san-tang-manh-trong-ngay-thanh-khoan-vn-index-ky-luc-196240318161019135.htm) - 09:15 18/03/2024
+- 👍 [Điều gì khiến cổ phiếu bất động sản &quot;dậy sóng&quot; trong ngày giao dịch kỷ lục của thị trường?](https://nld.com.vn/co-phieu-bat-dong-san-tang-manh-trong-ngay-thanh-khoan-vn-index-ky-luc-196240318161019135.htm) - 09:15 18/03/2024
 - 🥷 [Bắt 2 người giơ thẻ, xưng Interpol để cưỡng đoạt tiền du khách nước ngoài](https://nld.com.vn/bat-2-nguoi-gio-the-xung-interpol-de-cuong-doat-tien-du-khach-nuoc-ngoai-196240318160612488.htm) - 09:13 18/03/2024
 - 🤔 [Diễn biến mới liên quan Công ty TNHH Phát triển Quốc tế Formosa](https://nld.com.vn/dien-bien-moi-lien-quan-cong-ty-tnhh-phat-trien-quoc-te-formosa-196240318155321275.htm) - 09:12 18/03/2024
 - 🌈 [Một công ty bị cấm đấu thầu 3 năm tại Thanh Hóa](https://nld.com.vn/mot-cong-ty-bi-cam-dau-thau-3-nam-tai-thanh-hoa-196240318154953148.htm) - 09:10 18/03/2024
