@@ -29,7 +29,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [Thiết kế nhà ống ba tầng có gara, sân vườn với 2 tỷ đồng](https://vnexpress.net/thiet-ke-nha-ong-ba-tang-co-gara-san-vuon-voi-2-ty-dong-4724245.html) - 17:08 19/03/2024
 - 🧰 [Cách tránh sốc nhiệt khi trẻ hoạt động trời nóng](https://vnexpress.net/cach-tranh-soc-nhiet-khi-tre-hoat-dong-troi-nong-4723322.html) - 17:04 19/03/2024
 - 🥰 [Tại sao tàu thuyền thường có mắt?](https://vnexpress.net/tai-sao-tau-thuyen-thuong-co-mat-4722297.html) - 17:01 19/03/2024
-- 🌏 [&#39;Ngáp tập thể&#39; và lễ tổng kết](https://vnexpress.net/ngap-tap-the-va-le-tong-ket-4724090.html) - 17:00 19/03/2024
+- 🌏 [&#39;Ngáp tập thể&#39; và họp tổng kết](https://vnexpress.net/ngap-tap-the-va-hop-tong-ket-4724090.html) - 17:00 19/03/2024
 - 🧐 [Đi vay tiền mới phát hiện nợ xấu 4,5 triệu đồng thẻ tín dụng](https://vnexpress.net/di-vay-tien-moi-phat-hien-no-xau-4-5-trieu-dong-the-tin-dung-4724034.html) - 17:00 19/03/2024
 - 💫 [Loạt trận tỉ thí dữ dội trong truyện Kim Dung](https://vnexpress.net/loat-tran-ti-thi-du-doi-trong-truyen-kim-dung-4724028.html) - 17:00 19/03/2024
 - 😺 [Anh hướng nội, hiền lành, có chí cầu tiến](https://vnexpress.net/anh-huong-noi-hien-lanh-co-chi-cau-tien-4723988.html) - 17:00 19/03/2024
