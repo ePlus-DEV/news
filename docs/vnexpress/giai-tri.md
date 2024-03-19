@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Dàn sao tuyển Pháp được khen mặc sành điệu khi hội quân](https://vnexpress.net/dan-sao-tuyen-phap-duoc-khen-mac-sanh-dieu-khi-hoi-quan-4723980.html) - 07:10 19/03/2024
+- 🌏 [Dàn sao tuyển Pháp mặc sành điệu khi hội quân](https://vnexpress.net/dan-sao-tuyen-phap-mac-sanh-dieu-khi-hoi-quan-4723980.html) - 07:10 19/03/2024
 - 💫 [Chuyên trang sắc đẹp quốc tế khen catwalk của H&#39;Hen Niê](https://vnexpress.net/chuyen-trang-sac-dep-quoc-te-khen-catwalk-cua-h-hen-nie-4723771.html) - 05:26 19/03/2024
 - 🌮 [Sao phim võ hiệp TVB qua đời](https://vnexpress.net/sao-phim-vo-hiep-tvb-qua-doi-4723968.html) - 03:57 19/03/2024
 - 🧠 [Triết lý sống kiên định của người Phần Lan](https://vnexpress.net/triet-ly-song-kien-dinh-cua-nguoi-phan-lan-4723419.html) - 03:47 19/03/2024
