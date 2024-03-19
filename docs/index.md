@@ -256,12 +256,12 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [NÂNG BƯỚC NGƯỜI LAO ĐỘNG: Nâng cao kiến thức, tay nghề sau xuất ngoại](https://nld.com.vn/nang-cao-kien-thuc-tay-nghe-sau-xuat-ngoai-196240319205816723.htm) - 23:21 19/03/2024
-- 😺 [Biển người chen nhau “dùng lá cây đi chợ” ở TP HCM](https://nld.com.vn/bien-nguoi-chen-nhau-dung-la-cay-di-cho-o-tp-hcm-196240320011657612.htm) - 23:08 19/03/2024
-- 👍 [Những cổ phiếu đáng chú ý ngày 20-3](https://nld.com.vn/nhung-co-phieu-dang-chu-y-ngay-20-3-196240319200310095.htm) - 23:00 19/03/2024
-- 🥷 [Lấy ý kiến về chiến lược phát triển giáo dục](https://nld.com.vn/lay-y-kien-ve-chien-luoc-phat-trien-giao-duc-196240319211630389.htm) - 22:20 19/03/2024
-- 🤔 [Bản tin sáng 20-3: Tình tiết tăng nặng khiến bà Trương Mỹ Lan bị đề nghị án tử hình](https://nld.com.vn/ban-tin-sang-20-3-tinh-tiet-tang-nang-khien-ba-truong-my-lan-bi-de-nghi-an-tu-hinh-196240319214302557.htm) - 22:00 19/03/2024
-- 🌈 [Hàng tỉ đồng chăm lo cho đoàn viên - lao động khó khăn](https://nld.com.vn/hang-ti-dong-cham-lo-cho-doan-vien-lao-dong-kho-khan-196240319200647196.htm) - 16:59 19/03/2024
+- 🐎 [Hàng tỉ đồng chăm lo cho đoàn viên - lao động khó khăn](https://nld.com.vn/hang-ti-dong-cham-lo-cho-doan-vien-lao-dong-kho-khan-196240319200647196.htm) - 23:25 19/03/2024
+- 😺 [NÂNG BƯỚC NGƯỜI LAO ĐỘNG: Nâng cao kiến thức, tay nghề sau xuất ngoại](https://nld.com.vn/nang-cao-kien-thuc-tay-nghe-sau-xuat-ngoai-196240319205816723.htm) - 23:21 19/03/2024
+- 👍 [Biển người chen nhau “dùng lá cây đi chợ” ở TP HCM](https://nld.com.vn/bien-nguoi-chen-nhau-dung-la-cay-di-cho-o-tp-hcm-196240320011657612.htm) - 23:08 19/03/2024
+- 🥷 [Những cổ phiếu đáng chú ý ngày 20-3](https://nld.com.vn/nhung-co-phieu-dang-chu-y-ngay-20-3-196240319200310095.htm) - 23:00 19/03/2024
+- 🤔 [Lấy ý kiến về chiến lược phát triển giáo dục](https://nld.com.vn/lay-y-kien-ve-chien-luoc-phat-trien-giao-duc-196240319211630389.htm) - 22:20 19/03/2024
+- 🌈 [Bản tin sáng 20-3: Tình tiết tăng nặng khiến bà Trương Mỹ Lan bị đề nghị án tử hình](https://nld.com.vn/ban-tin-sang-20-3-tinh-tiet-tang-nang-khien-ba-truong-my-lan-bi-de-nghi-an-tu-hinh-196240319214302557.htm) - 22:00 19/03/2024
 - 🔥 [Đạo diễn Thanh Quỳnh xúc động tại họp báo Gương mặt sân khấu, điện ảnh triển vọng 2024](https://phunu.nld.com.vn/dao-dien-thanh-quynh-xuc-dong-tai-hop-bao-guong-mat-san-khau-dien-anh-trien-vong-2024-196240319205807721.htm) - 15:52 19/03/2024
 - 🧰 [Doanh nhân Tôn Thất Khải ngồi giám khảo cuộc thi Gương mặt sân khấu điện ảnh 2024](https://phunu.nld.com.vn/doanh-nhan-ton-that-khai-ngoi-giam-khao-cuoc-thi-guong-mat-san-khau-dien-anh-2024-196240319210502921.htm) - 15:49 19/03/2024
 - 🤗 [Thành Lương trở thành trợ lý HLV tại CLB CAHN](https://nld.com.vn/thanh-luong-tro-thanh-tro-ly-hlv-tai-clb-cahn-19624031921110714.htm) - 14:40 19/03/2024
