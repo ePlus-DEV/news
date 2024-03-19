@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Đề xuất đầu tư gần 9.000 tỷ đồng để trồng lúa chất lượng cao ở miền Tây](https://vnexpress.net/de-xuat-dau-tu-gan-9-000-ty-dong-de-trong-lua-chat-luong-cao-o-mien-tay-4724149.html) - 09:28 19/03/2024
+- 🦒 [Đề xuất đầu tư gần 9.000 tỷ đồng trồng lúa chất lượng cao ở miền Tây](https://vnexpress.net/de-xuat-dau-tu-gan-9-000-ty-dong-trong-lua-chat-luong-cao-o-mien-tay-4724149.html) - 09:28 19/03/2024
 - 🤓 [UNESCO khảo sát quần thể di tích liên tỉnh](https://vnexpress.net/unesco-khao-sat-quan-the-di-tich-lien-tinh-4724026.html) - 07:31 19/03/2024
 - ⚗️ [Đề xuất bỏ vạch liền làn dừng khẩn cấp ở cao tốc hai làn xe](https://vnexpress.net/de-xuat-bo-vach-lien-lan-dung-khan-cap-o-cao-toc-hai-lan-xe-4723979.html) - 06:50 19/03/2024
 - 🌊 [Cháy bãi xe tại trụ sở công an ở Khánh Hòa](https://vnexpress.net/chay-bai-xe-tai-tru-so-cong-an-o-khanh-hoa-4724043.html) - 05:34 19/03/2024
