@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Hojlund hạnh phúc vì làm câm nín những chỉ trích](https://vnexpress.net/hojlund-hanh-phuc-vi-lam-cam-nin-nhung-chi-trich-4723886.html) - 01:25 19/03/2024
+- 🪜 [Hojlund: &#39;Thật tuyệt khi khiến những kẻ chỉ trích phải câm nín&#39;](https://vnexpress.net/hojlund-that-tuyet-khi-khien-nhung-ke-chi-trich-phai-cam-nin-4723886.html) - 01:25 19/03/2024
 - 🦩 [HLV Shin Tae-young bạt tai cầu thủ Indonesia](https://vnexpress.net/hlv-shin-tae-young-bat-tai-cau-thu-indonesia-4723839.html) - 00:39 19/03/2024
 - 🧰 [Ten Hag chưa nguôi trận thua Arsenal hồi đầu mùa](https://vnexpress.net/ten-hag-chua-nguoi-tran-thua-arsenal-hoi-dau-mua-4723846.html) - 23:14 18/03/2024
 - 🤗 [&#39;Chạy bộ là liều thuốc tiên trị chứng mất ngủ&#39;](https://vnexpress.net/chay-bo-la-lieu-thuoc-tien-tri-chung-mat-ngu-4723739.html) - 23:00 18/03/2024
