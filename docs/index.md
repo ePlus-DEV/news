@@ -513,7 +513,7 @@ tầm nhìn đến năm 2050](https://baochinhphu.vn/phe-duyet-quy-hoach-tinh-la
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Phiên chợ lá nghĩa tình tại quận 5](https://muctim.tuoitre.vn/phien-cho-la-nghia-tinh-tai-quan-5-101240319205555342.htm) - 14:47 19/03/2024
-- 🥷 [Tham dự Ngày hội Tự tin bước vào lớp 10, nhận luôn học bổng 100%](https://muctim.tuoitre.vn/tham-du-ngay-hoi-tu-tin-buoc-vao-lop-10-nhan-luon-hoc-bong-100-101240319180906972.htm) - 13:12 19/03/2024
+- 🥷 [Tham dự Ngày hội Tự tin bước vào lớp 10, nhận luôn học bổng 100% học phí](https://muctim.tuoitre.vn/tham-du-ngay-hoi-tu-tin-buoc-vao-lop-10-nhan-luon-hoc-bong-100-101240319180906972.htm) - 13:12 19/03/2024
 - 🤖 [Ngọt Band bất ngờ thông báo dừng biểu diễn](https://muctim.tuoitre.vn/ngot-band-bat-ngo-thong-bao-dung-bieu-dien-101240319170432362.htm) - 13:07 19/03/2024
 - 🤓 [Những câu thoại hay về tình yêu trong Reply 1988](https://muctim.tuoitre.vn/nhung-cau-thoai-hay-ve-tinh-yeu-trong-reply-1988-10124031916335939.htm) - 13:03 19/03/2024
 - 🎉 [Những bất ngờ thú vị về Dữ phượng hành của Triệu Lệ Dĩnh](https://muctim.tuoitre.vn/nhung-bat-ngo-thu-vi-ve-du-phuong-hanh-cua-trieu-le-dinh-101240319151045853.htm) - 10:06 19/03/2024
