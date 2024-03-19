@@ -8,7 +8,7 @@ sidebar_position: 3
 - 🐲 [Công ty mẹ Gojek lần đầu tiên có lãi](https://vnexpress.net/cong-ty-me-gojek-lan-dau-tien-co-lai-4724211.html) - 19:00 19/03/2024
 - 🔥 [Lưu ý gì khi mua ki-ốt chợ?](https://vnexpress.net/luu-y-gi-khi-mua-ki-ot-cho-4715354.html) - 17:00 19/03/2024
 - 🐵 [Bitcoin trượt về 8.900 USD trên một sàn giao dịch](https://vnexpress.net/bitcoin-truot-ve-8-900-usd-tren-mot-san-giao-dich-4724248.html) - 15:04 19/03/2024
-- 🦅 [Hàn Quốc tăng gấp đôi vốn ODA cho Việt Nam năm 2024](https://vnexpress.net/han-quoc-tang-gap-doi-von-oda-cho-viet-nam-nam-2024-4724236.html) - 14:33 19/03/2024
+- 🦅 [Hàn Quốc tăng 50% vốn ODA cho Việt Nam năm 2024](https://vnexpress.net/han-quoc-tang-50-von-oda-cho-viet-nam-nam-2024-4724236.html) - 14:33 19/03/2024
 - 😺 [EVN tăng mua nguồn giá cao để tránh thiếu điện mùa nóng](https://vnexpress.net/evn-tang-mua-nguon-gia-cao-de-tranh-thieu-dien-mua-nong-4724200.html) - 14:04 19/03/2024
 - 🤩 [Xuất khẩu tôm hùm tăng hơn 18 lần](https://vnexpress.net/xuat-khau-tom-hum-tang-hon-18-lan-4724199.html) - 13:09 19/03/2024
 - 🌮 [Vietjet mở đường bay Hà Nội - Sydney](https://vnexpress.net/vietjet-mo-duong-bay-ha-noi-sydney-4724231.html) - 13:00 19/03/2024
