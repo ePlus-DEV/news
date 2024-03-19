@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Con trai chủ tịch Tân Hoàng Minh: &#39;Không ngờ hậu quả lớn đến vậy&#39;](https://vnexpress.net/con-trai-chu-tich-tan-hoang-minh-khong-ngo-hau-qua-lon-den-vay-4724010.html) - 05:53 19/03/2024
-- 🥰 [Bị cáo ngất tại phiên phúc thẩm vụ án mẹ &#39;nữ sinh giao gà&#39;](https://vnexpress.net/bi-cao-ngat-tai-phien-phuc-tham-vu-an-me-nu-sinh-giao-ga-4723974.html) - 05:25 19/03/2024
+- 🥰 [Mẹ &#39;nữ sinh giao gà&#39; ngất tại tòa](https://vnexpress.net/bi-cao-ngat-tai-phien-phuc-tham-vu-an-me-nu-sinh-giao-ga-4723974.html) - 05:25 19/03/2024
 - 🎓 [Hàng nghìn bị hại đến tòa, đòi tiền mua trái phiếu Tân Hoàng Minh](https://vnexpress.net/hang-nghin-bi-hai-den-toa-doi-tien-mua-trai-phieu-tan-hoang-minh-4723902.html) - 03:11 19/03/2024
 - 🤓 [VKS đề nghị phạt bà Trương Mỹ Lan &#39;mức án nghiêm khắc nhất&#39;](https://vnexpress.net/vks-de-nghi-phat-ba-truong-my-lan-muc-an-nghiem-khac-nhat-4723552.html) - 01:00 19/03/2024
 - 🎊 [Tòa triệu tập 6.600 bị hại trong phiên xử vụ án Tân Hoàng Minh](https://vnexpress.net/cha-con-chu-tich-tan-hoang-minh-hom-nay-bi-xet-xu-4723813.html) - 22:00 18/03/2024
