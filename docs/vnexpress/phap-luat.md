@@ -4,9 +4,9 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Bị hại mong sớm được nhận lại tiền trong vụ án Tân Hoàng Minh](https://vnexpress.net/bi-hai-mong-som-duoc-nhan-lai-tien-trong-vu-an-tan-hoang-minh-4723902.html) - 03:11 19/03/2024
+- 😎 [Hàng nghìn bị hại đến tòa, đòi tiền mua trái phiếu Tân Hoàng Minh](https://vnexpress.net/hang-nghin-bi-hai-den-toa-doi-tien-mua-trai-phieu-tan-hoang-minh-4723902.html) - 03:11 19/03/2024
 - 🥰 [VKS đề nghị tuyên phạt bà Trương Mỹ Lan &#39;mức án nghiêm khắc nhất&#39;](https://vnexpress.net/vks-de-nghi-tuyen-phat-ba-truong-my-lan-muc-an-nghiem-khac-nhat-4723552.html) - 01:00 19/03/2024
-- 🎓 [Hàng nghìn bị hại đổ về phiên tòa vụ Tân Hoàng Minh](https://vnexpress.net/cha-con-chu-tich-tan-hoang-minh-hom-nay-bi-xet-xu-4723813.html) - 22:00 18/03/2024
+- 🎓 [Chủ tịch Tân Hoàng Minh ra tòa](https://vnexpress.net/cha-con-chu-tich-tan-hoang-minh-hom-nay-bi-xet-xu-4723813.html) - 22:00 18/03/2024
 - 🤓 [Nhảy từ ban công tầng 5 xuống bể bơi để trốn cảnh sát](https://vnexpress.net/nhay-tu-ban-cong-tang-5-xuong-be-boi-de-tron-canh-sat-4723744.html) - 15:44 18/03/2024
 - 🎊 [&#39;Cuộc chiến&#39; đòi tiền thưởng tấm vé số trúng độc đắc mua online](https://vnexpress.net/cuoc-chien-doi-tien-thuong-tam-ve-so-trung-doc-dac-mua-online-4723331.html) - 13:00 18/03/2024
 - 🙉 [Giả cảnh sát Interpol, cướp tiền du khách ở Hà Nội](https://vnexpress.net/gia-canh-sat-interpol-cuop-tien-du-khach-o-ha-noi-4723740.html) - 10:32 18/03/2024
