@@ -292,7 +292,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌮 [&quot;Say&quot; cà phê, nhớ ngày hội](https://nld.com.vn/say-ca-phe-nho-ngay-hoi-19624031813562446.htm) - 07:00 19/03/2024
 - 🎉 [Chủ thẻ tín dụng làm sao để biết có mắc nợ hay không?](https://nld.com.vn/chu-the-tin-dung-lam-sao-de-biet-co-mac-no-hay-khong-196240319133245334.htm) - 06:47 19/03/2024
 - 🤔 [Vedan Việt Nam được trao tặng chứng nhận “hàng Việt Nam chất lượng cao” năm 2024](https://thitruong.nld.com.vn/vedan-viet-nam-duoc-trao-tang-chung-nhan-hang-viet-nam-chat-luong-cao-nam-2024-19624031912014289.htm) - 06:32 19/03/2024
-- 🐘 [Cháy cửa hàng Bách hoá xanh ở quận 7](https://nld.com.vn/chay-cua-hang-bach-hoa-xanh-o-quan-7-196240319125129794.htm) - 05:58 19/03/2024
+- 🐘 [Cháy cửa hàng Bách Hoá Xanh ở quận 7](https://nld.com.vn/chay-cua-hang-bach-hoa-xanh-o-quan-7-196240319125129794.htm) - 05:58 19/03/2024
 - 🙉 [Messi bị loại khỏi đội hình Argentina đấu giao hữu](https://nld.com.vn/messi-bi-loai-khoi-doi-hinh-argentina-dau-giao-huu-196240319123702165.htm) - 05:57 19/03/2024
 - 🐵 [Đánh bắt hải sản, 2 vợ chồng mất tích trên biển](https://nld.com.vn/danh-bat-hai-san-2-vo-chong-mat-tich-tren-bien-196240319112808833.htm) - 05:48 19/03/2024
 - 🙉 [Thứ kỳ lạ xuất hiện trên &quot;bản sao Trái Đất&quot;: Gợi ý về sự sống?](https://nld.com.vn/thu-ky-la-xuat-hien-tren-ban-sao-trai-dat-goi-y-ve-su-song-19624031911080932.htm) - 05:37 19/03/2024
