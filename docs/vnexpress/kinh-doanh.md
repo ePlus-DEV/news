@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Nợ phí ngân hàng tiền triệu dù tài khoản không sử dụng](https://vnexpress.net/no-phi-ngan-hang-tien-trieu-dong-vi-tai-khoan-de-khong-4723597.html) - 00:00 19/03/2024
-- 🐲 [Vé máy bay đến Côn Đảo khan hiếm dù giá đắt](https://vnexpress.net/ve-may-bay-den-con-dao-khan-hiem-du-gia-dat-do-4723616.html) - 21:00 18/03/2024
+- 🐲 [Vé máy bay đến Côn Đảo đắt đỏ, khan hiếm](https://vnexpress.net/ve-may-bay-den-con-dao-khan-hiem-du-gia-dat-do-4723616.html) - 21:00 18/03/2024
 - 🔥 [Việt Nam hấp dẫn giới đầu tư toàn cầu](https://vnexpress.net/viet-nam-hap-dan-gioi-dau-tu-toan-cau-4723769.html) - 19:00 18/03/2024
 - 🐵 [Những lưu ý khi dùng thẻ tín dụng để tránh &#39;mất tiền oan&#39;](https://vnexpress.net/nhung-luu-y-khi-dung-the-tin-dung-de-tranh-mat-tien-oan-4723007.html) - 17:59 18/03/2024
 - 🦅 [Vincom Retail đổi CEO](https://vnexpress.net/vincom-retail-doi-ceo-4723826.html) - 17:00 18/03/2024
