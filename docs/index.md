@@ -217,8 +217,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 📝 [5 loại thực phẩm vừa tốt cho sức khoẻ, vừa hỗ trợ giảm cân](https://laodong.vn/lam-dep/5-loai-thuc-pham-vua-tot-cho-suc-khoe-vua-ho-tro-giam-can-1317106.ldo) - 16:30 19/03/2024
 - 🦏 [Mức hưởng lương hưu hàng tháng của thiếu tá quân đội](https://laodong.vn/ban-doc/muc-huong-luong-huu-hang-thang-cua-thieu-ta-quan-doi-1317160.ldo) - 16:00 19/03/2024
 - 🦩 [Những thói quen ăn uống khiến bạn tích tụ mỡ bụng](https://laodong.vn/suc-khoe/nhung-thoi-quen-an-uong-khien-ban-tich-tu-mo-bung-1316748.ldo) - 15:57 19/03/2024
-- 🦏 [Giảm cân nhanh chóng với 7 công thức sinh tố dễ làm](https://laodong.vn/dinh-duong-am-thuc/giam-can-nhanh-chong-voi-7-cong-thuc-sinh-to-de-lam-1316926.ldo) - 15:30 19/03/2024
-- 🧰 [Mẹo đơn giản đối phó thời tiết nồm ẩm](https://laodong.vn/chuyen-nha-minh/meo-don-gian-doi-pho-thoi-tiet-nom-am-1316631.ldo) - 15:30 19/03/2024
+- 🦏 [Mẹo đơn giản đối phó thời tiết nồm ẩm](https://laodong.vn/chuyen-nha-minh/meo-don-gian-doi-pho-thoi-tiet-nom-am-1316631.ldo) - 15:30 19/03/2024
+- 🧰 [Giảm cân nhanh chóng với 7 công thức sinh tố dễ làm](https://laodong.vn/dinh-duong-am-thuc/giam-can-nhanh-chong-voi-7-cong-thuc-sinh-to-de-lam-1316926.ldo) - 15:30 19/03/2024
 - 🌊 [5 mẹo giúp giảm cân cho người ít vận động](https://laodong.vn/lam-dep/5-meo-giup-giam-can-cho-nguoi-it-van-dong-1317120.ldo) - 14:52 19/03/2024
 - 🔥 [Thủ tướng đề nghị Hàn Quốc tăng cường tiếp nhận lao động chất lượng cao của VN](https://laodong.vn/thoi-su/thu-tuong-de-nghi-han-quoc-tang-cuong-tiep-nhan-lao-dong-chat-luong-cao-cua-vn-1317168.ldo) - 14:49 19/03/2024
 - 🦒 [Quận đầu tiên ở Hà Nội được cấp, đổi giấy phép lái xe](https://laodong.vn/xa-hoi/quan-dau-tien-o-ha-noi-duoc-cap-doi-giay-phep-lai-xe-1317176.ldo) - 14:41 19/03/2024
@@ -251,8 +251,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [Sở Nội vụ tỉnh Hòa Bình có tân Phó Giám đốc](https://laodong.vn/xa-hoi/so-noi-vu-tinh-hoa-binh-co-tan-pho-giam-doc-1317149.ldo) - 13:06 19/03/2024
 - 😺 [Xây dựng tỉnh Lạng Sơn thành cửa khẩu xanh tiêu biểu của Việt Nam](https://laodong.vn/thoi-su/xay-dung-tinh-lang-son-thanh-cua-khau-xanh-tieu-bieu-cua-viet-nam-1317146.ldo) - 13:02 19/03/2024
 - 🕴 [Thủ tục để ông bà sang tên sổ đỏ cho cháu mới nhất năm 2024](https://laodong.vn/video/thu-tuc-de-ong-ba-sang-ten-so-do-cho-chau-moi-nhat-nam-2024-1316547.ldo) - 13:00 19/03/2024
-- 🌋 [Điều kiện để xe ôtô nước ngoài tham gia giao thông tại Việt Nam](https://laodong.vn/tu-van-phap-luat/dieu-kien-de-xe-oto-nuoc-ngoai-tham-gia-giao-thong-tai-viet-nam-1316559.ldo) - 13:00 19/03/2024
-- 💄 [Tin 20h: Lý do bà Trương Mỹ Lan bị đề nghị mức án tử hình](https://laodong.vn/video-xa-hoi/tin-20h-ly-do-ba-truong-my-lan-bi-de-nghi-muc-an-tu-hinh-1317009.ldo) - 13:00 19/03/2024<!-- laodong:END -->
+- 🌋 [Tin 20h: Lý do bà Trương Mỹ Lan bị đề nghị mức án tử hình](https://laodong.vn/video-xa-hoi/tin-20h-ly-do-ba-truong-my-lan-bi-de-nghi-muc-an-tu-hinh-1317009.ldo) - 13:00 19/03/2024
+- 💄 [Nhà trong ngõ Hà Nội giảm giá vẫn rao bán hơn 200 triệu đồng/m2](https://laodong.vn/bat-dong-san/nha-trong-ngo-ha-noi-giam-gia-van-rao-ban-hon-200-trieu-dongm2-1317016.ldo) - 13:00 19/03/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
