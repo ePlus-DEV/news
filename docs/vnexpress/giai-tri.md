@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [&#39;Mỹ nhân đẹp nhất hành tinh 2023&#39; biến hóa với sắc đen](https://vnexpress.net/my-nhan-dep-nhat-hanh-tinh-2023-bien-hoa-voi-sac-den-4723831.html) - 03:16 19/03/2024
+- 🌏 [&#39;Mỹ nhân đẹp nhất hành tinh 2023&#39; biến hóa sắc đen](https://vnexpress.net/my-nhan-dep-nhat-hanh-tinh-2023-bien-hoa-sac-den-4723831.html) - 03:16 19/03/2024
 - 💫 [Jung Joon Young ra tù](https://vnexpress.net/jung-joon-young-ra-tu-4723900.html) - 02:11 19/03/2024
 - 🌮 [Quần ống rộng công sở được ưa chuộng đầu hè](https://vnexpress.net/quan-ong-rong-cong-so-duoc-ua-chuong-dau-he-4723699.html) - 00:30 19/03/2024
 - 🧠 [Cuộc sống diễn viên hài Bảo Chung ở tuổi 69](https://vnexpress.net/cuoc-song-dien-vien-hai-bao-chung-o-tuoi-69-4723449.html) - 20:00 18/03/2024
