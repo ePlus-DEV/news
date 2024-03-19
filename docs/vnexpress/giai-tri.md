@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Phong độ tài tử Lê Tuấn Anh ở tuổi 56](https://vnexpress.net/phong-do-tai-tu-le-tuan-anh-o-tuoi-56-4723981.html) - 11:00 19/03/2024
+- 🌏 [Ngoại hình tài tử Lê Tuấn Anh sau khi giảm hơn 40 kg](https://vnexpress.net/ngoai-hinh-tai-tu-le-tuan-anh-sau-khi-giam-hon-40-kg-4723981.html) - 11:00 19/03/2024
 - 💫 [Dàn sao tuyển Pháp mặc sành điệu khi hội quân](https://vnexpress.net/dan-sao-tuyen-phap-mac-sanh-dieu-khi-hoi-quan-4723980.html) - 07:10 19/03/2024
 - 🌮 [Chuyên trang sắc đẹp quốc tế khen catwalk của H&#39;Hen Niê](https://vnexpress.net/chuyen-trang-sac-dep-quoc-te-khen-catwalk-cua-h-hen-nie-4723771.html) - 05:26 19/03/2024
 - 🧠 [Sao phim võ hiệp TVB qua đời](https://vnexpress.net/sao-phim-vo-hiep-tvb-qua-doi-4723968.html) - 03:57 19/03/2024
