@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Nhật Bản sẽ loại bỏ dần chương trình thực tập sinh kỹ năng](https://vnexpress.net/nhat-ban-se-loai-bo-dan-chuong-trinh-thuc-tap-sinh-ky-nang-4724214.html) - 13:17 19/03/2024
+- 🦒 [Nhật Bản sẽ bỏ dần chương trình thực tập sinh kỹ năng](https://vnexpress.net/nhat-ban-se-bo-dan-chuong-trinh-thuc-tap-sinh-ky-nang-4724214.html) - 13:17 19/03/2024
 - 🤓 [Thành lập hai thành phố thuộc tỉnh Bình Dương và Tiền Giang](https://vnexpress.net/thanh-lap-hai-thanh-pho-thuoc-tinh-binh-duong-va-tien-giang-4724126.html) - 10:00 19/03/2024
 - ⚗️ [Đề xuất đầu tư gần 9.000 tỷ đồng trồng lúa chất lượng cao ở miền Tây](https://vnexpress.net/de-xuat-dau-tu-gan-9-000-ty-dong-trong-lua-chat-luong-cao-o-mien-tay-4724149.html) - 09:28 19/03/2024
 - 🌊 [UNESCO khảo sát quần thể di tích liên tỉnh](https://vnexpress.net/unesco-khao-sat-quan-the-di-tich-lien-tinh-4724026.html) - 07:31 19/03/2024
