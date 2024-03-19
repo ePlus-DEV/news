@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [VKS luận tội bà Trương Mỹ Lan và đồng phạm](https://vnexpress.net/vks-luan-toi-ba-truong-my-lan-va-dong-pham-4723552.html) - 01:00 19/03/2024
-- 🥰 [Hàng nghìn bị hại đổ về phiên tòa vụ Tân Hoàng Minh](https://vnexpress.net/hang-nghin-bi-hai-do-ve-phien-toa-vu-tan-hoang-minh-4723813.html) - 22:00 18/03/2024
+- 🥰 [Hàng nghìn bị hại đổ về phiên tòa vụ Tân Hoàng Minh](https://vnexpress.net/cha-con-chu-tich-tan-hoang-minh-hom-nay-bi-xet-xu-4723813.html) - 22:00 18/03/2024
 - 🎓 [Nhảy từ ban công tầng 5 xuống bể bơi để trốn cảnh sát](https://vnexpress.net/nhay-tu-ban-cong-tang-5-xuong-be-boi-de-tron-canh-sat-4723744.html) - 15:44 18/03/2024
 - 🤓 [&#39;Cuộc chiến&#39; đòi tiền thưởng tấm vé số trúng độc đắc mua online](https://vnexpress.net/cuoc-chien-doi-tien-thuong-tam-ve-so-trung-doc-dac-mua-online-4723331.html) - 13:00 18/03/2024
 - 🎊 [Giả cảnh sát Interpol, cướp tiền du khách ở Hà Nội](https://vnexpress.net/gia-canh-sat-interpol-cuop-tien-du-khach-o-ha-noi-4723740.html) - 10:32 18/03/2024
