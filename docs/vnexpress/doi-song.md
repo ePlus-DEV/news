@@ -22,7 +22,7 @@ sidebar_position: 6
 - 🧑‍🏫 [Mở dịch vụ nghiền nát ảnh cưới sau ly hôn](https://vnexpress.net/mo-dich-vu-nghien-nat-anh-cuoi-sau-ly-hon-4723178.html) - 07:11 17/03/2024
 - 🧰 [Được bồi thường cho 26 năm làm nội trợ](https://vnexpress.net/duoc-boi-thuong-cho-26-nam-lam-noi-tro-4723258.html) - 07:05 17/03/2024
 - 🪄 [Lối sống không cần thành tựu](https://vnexpress.net/loi-song-khong-can-thanh-tuu-4722315.html) - 02:29 17/03/2024
-- 🐲 [Chuyện tình của chàng trai Mỹ và á hậu điếc người Việt](https://vnexpress.net/chuyen-tinh-cua-chang-trai-my-va-a-hau-diec-nguoi-viet-4720883.html) - 23:00 16/03/2024
+- 🐲 [Chuyện tình của chàng trai Mỹ và á hậu người điếc](https://vnexpress.net/chuyen-tinh-cua-chang-trai-my-va-a-hau-nguoi-diec-4720883.html) - 23:00 16/03/2024
 - 💻 [Kết buồn của người chồng chăm vợ liệt trên xe tải](https://vnexpress.net/ket-buon-cua-nguoi-chong-cham-vo-liet-tren-xe-tai-4722993.html) - 12:00 16/03/2024
 - 🐘 [Vì sao dưa muối bị khú?](https://vnexpress.net/vi-sao-dua-muoi-bi-khu-4723049.html) - 10:00 16/03/2024
 - 🎬 [Hai điều đơn giản chứng tỏ người có EQ cao](https://vnexpress.net/hai-dieu-don-gian-chung-to-nguoi-co-eq-cao-4722630.html) - 09:00 16/03/2024
