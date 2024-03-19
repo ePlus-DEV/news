@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [UNESCO khảo sát quần thể di tích liên tỉnh](https://vnexpress.net/unesco-khao-sat-quan-the-di-tich-lien-tinh-4724026.html) - 07:31 19/03/2024
-- 🤓 [Đề xuất bỏ làn dừng khẩn cấp ở cao tốc hai làn xe](https://vnexpress.net/de-xuat-bo-lan-dung-khan-cap-o-cao-toc-hai-lan-xe-4723979.html) - 06:50 19/03/2024
+- 🤓 [Đề xuất bỏ vạch liền làn dừng khẩn cấp ở cao tốc hai làn xe](https://vnexpress.net/de-xuat-bo-vach-lien-lan-dung-khan-cap-o-cao-toc-hai-lan-xe-4723979.html) - 06:50 19/03/2024
 - ⚗️ [Cháy bãi xe tại trụ sở công an ở Khánh Hòa](https://vnexpress.net/chay-bai-xe-tai-tru-so-cong-an-o-khanh-hoa-4724043.html) - 05:34 19/03/2024
 - 🌊 [Hai vợ chồng mất tích khi đi đánh cá](https://vnexpress.net/hai-vo-chong-mat-tich-khi-di-danh-ca-4724003.html) - 04:40 19/03/2024
 - 🎓 [Cục CSGT: Phát hiện 132 bất hợp lý trong tổ chức giao thông cao tốc](https://vnexpress.net/cuc-csgt-phat-hien-132-bat-hop-ly-trong-to-chuc-giao-thong-cao-toc-4723875.html) - 03:27 19/03/2024
