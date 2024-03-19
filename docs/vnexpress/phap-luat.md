@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Chủ tịch Tân Hoàng Minh: &#39;Chưa từng nghĩ chiếm đoạt tiền&#39;](https://vnexpress.net/chu-tich-tan-hoang-minh-chua-tung-nghi-chiem-doat-tien-4724112.html) - 09:17 19/03/2024
+- 😎 [Chủ tịch Tân Hoàng Minh khai &#39;chưa từng nghĩ lừa tiền&#39; nhà đầu tư](https://vnexpress.net/chu-tich-tan-hoang-minh-chua-tung-nghi-chiem-doat-tien-4724112.html) - 09:17 19/03/2024
 - 🥰 [Ông Nguyễn Cao Trí bị đề nghị 10-11 năm tù vì chiếm đoạt 1.000 tỷ đồng](https://vnexpress.net/ong-nguyen-cao-tri-bi-de-nghi-10-11-nam-tu-vi-chiem-doat-1-000-ty-dong-4723779.html) - 08:48 19/03/2024
 - 🎓 [Bà Trương Mỹ Lan bị đề nghị mức án tử hình](https://vnexpress.net/ba-truong-my-lan-bi-de-nghi-muc-an-tu-hinh-4723782.html) - 07:26 19/03/2024
 - 🤓 [Nhân viên karaoke bị bán giá 20 triệu đồng](https://vnexpress.net/nhan-vien-karaoke-bi-ban-gia-20-trieu-dong-4724025.html) - 06:51 19/03/2024
