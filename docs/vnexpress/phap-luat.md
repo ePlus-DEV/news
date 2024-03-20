@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Cơ trưởng bị phạt tù vì say rượu lái máy bay](https://vnexpress.net/co-truong-bi-phat-tu-vi-say-ruou-lai-may-bay-4724486.html) - 08:33 20/03/2024
-- 🥰 [Luật sư: Cần xem lại tội danh, tiền thiệt hại cho bà Trương Mỹ Lan](https://vnexpress.net/luat-su-can-xem-lai-toi-danh-tien-thiet-hai-cho-ba-truong-my-lan-4724507.html) - 08:03 20/03/2024
+- 🥰 [Luật sư đề nghị xem lại tội danh, tiền thiệt hại cho bà Trương Mỹ Lan](https://vnexpress.net/luat-su-de-nghi-xem-lai-toi-danh-tien-thiet-hai-cho-ba-truong-my-lan-4724507.html) - 08:03 20/03/2024
 - 🎓 [Vợ chồng đại gia xăng dầu hầu tòa vì &#39;trốn thuế 15 tỷ đồng&#39;](https://vnexpress.net/vo-chong-dai-gia-xang-dau-hau-toa-vi-tron-thue-15-ty-dong-4724338.html) - 02:52 20/03/2024
 - 🤓 [Bức thư tình vạch tội cô vợ muốn &#39;đổi chồng&#39;](https://vnexpress.net/buc-thu-tinh-vach-toi-co-vo-muon-doi-chong-4723833.html) - 17:00 19/03/2024
 - 🎊 [Cha dượng bạo hành con trai 9 tuổi bị bắt](https://vnexpress.net/cha-duong-bao-hanh-con-trai-9-tuoi-bi-bat-4724227.html) - 13:02 19/03/2024
