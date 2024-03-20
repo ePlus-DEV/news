@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Đề xuất mở rộng cao tốc Đồng Đăng - Trà Lĩnh bốn làn xe](https://vnexpress.net/de-xuat-mo-rong-cao-toc-dong-dang-tra-linh-bon-lan-xe-4724366.html) - 03:30 20/03/2024
 - 🤓 [Công nghệ rửa tàu Nhổn - ga Hà Nội trong ba phút](https://vnexpress.net/cong-nghe-rua-tau-nhon-ga-ha-noi-trong-ba-phut-4724155.html) - 01:19 20/03/2024
-- ⚗️ [Mở rộng đường cửa ngõ TP HCM 9 năm chưa xong do vướng đền bù](https://vnexpress.net/mo-rong-duong-cua-ngo-tp-hcm-9-nam-chua-xong-do-vuong-den-bu-4724182.html) - 23:00 19/03/2024
+- ⚗️ [Đường cửa ngõ Sài Gòn mở rộng 9 năm chưa xong do vướng đền bù](https://vnexpress.net/duong-cua-ngo-sai-gon-mo-rong-9-nam-chua-xong-do-vuong-den-bu-4724182.html) - 23:00 19/03/2024
 - 🌊 [Công viên bỏ hoang giữa khu dân cư đông đúc ở Hà Nội](https://vnexpress.net/cong-vien-bo-hoang-giua-khu-dan-cu-dong-duc-o-ha-noi-4723975.html) - 21:00 19/03/2024
 - 🎓 [Hang khảo cổ nguy cơ thành phế tích](https://vnexpress.net/hang-khao-co-nguy-co-thanh-phe-tich-4723456.html) - 17:00 19/03/2024
 - 🔥 [Vì sao không dùng vật liệu thay thế cát tự nhiên?](https://vnexpress.net/vi-sao-khong-dung-vat-lieu-thay-the-cat-tu-nhien-4722671.html) - 17:00 19/03/2024
