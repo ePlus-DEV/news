@@ -7,7 +7,7 @@ sidebar_position: 7
 - 🤓 [Trường Đại học Thủ Dầu Một công bố phương án tuyển sinh](https://vnexpress.net/truong-dai-hoc-thu-dau-mot-cong-bo-phuong-an-tuyen-sinh-4724063.html) - 03:00 20/03/2024
 - 🦆 [10 năm lập nghiệp của chàng trai trường nghề ở New York](https://vnexpress.net/10-nam-lap-nghiep-cua-chang-trai-truong-nghe-o-new-york-4719296.html) - 01:10 20/03/2024
 - 🦩 [30 địa phương chốt môn thi lớp 10](https://vnexpress.net/30-dia-phuong-chot-mon-thi-lop-10-4724160.html) - 00:45 20/03/2024
-- 🌮 [Đại học đua mở ngành](https://vnexpress.net/dai-hoc-dua-mo-nganh-4723376.html) - 23:07 19/03/2024
+- 🌮 [Đại học ồ ạt mở ngành gây lo ngại](https://vnexpress.net/dai-hoc-o-at-mo-nganh-gay-lo-ngai-4723376.html) - 23:07 19/03/2024
 - 🔭 [Thủ khoa đánh giá tư duy đợt 3 đạt 96,43/100 điểm](https://vnexpress.net/thu-khoa-danh-gia-tu-duy-dot-3-dat-96-43-100-diem-4724228.html) - 13:41 19/03/2024
 - 💡 [Cầu nào từng được đặt theo tên Thủ tướng Pháp?](https://vnexpress.net/cau-nao-tung-duoc-dat-theo-ten-thu-tuong-phap-4724218.html) - 13:05 19/03/2024
 - 🥰 [Trường ở New Zealand muốn cấp 1.000 học bổng điều dưỡng cho người Việt](https://vnexpress.net/truong-o-new-zealand-muon-cap-1-000-hoc-bong-dieu-duong-cho-nguoi-viet-4723544.html) - 11:30 19/03/2024
