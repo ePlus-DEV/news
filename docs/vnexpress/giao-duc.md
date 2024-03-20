@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Học phí trường quốc tế ở TP HCM cao nhất 820 triệu đồng](https://vnexpress.net/hoc-phi-truong-quoc-te-o-tp-hcm-cao-nhat-820-trieu-dong-4724120.html) - 06:50 20/03/2024
+- 🤓 [Học phí trường quốc tế ở TP HCM khoảng 200-820 triệu đồng](https://vnexpress.net/hoc-phi-truong-quoc-te-o-tp-hcm-khoang-200-820-trieu-dong-4724120.html) - 06:50 20/03/2024
 - 🦆 [Trường Đại học Thủ Dầu Một công bố phương án tuyển sinh](https://vnexpress.net/truong-dai-hoc-thu-dau-mot-cong-bo-phuong-an-tuyen-sinh-4724063.html) - 03:00 20/03/2024
 - 🦩 [10 năm lập nghiệp của chàng trai trường nghề ở New York](https://vnexpress.net/10-nam-lap-nghiep-cua-chang-trai-truong-nghe-o-new-york-4719296.html) - 01:10 20/03/2024
 - 🌮 [30 địa phương chốt môn thi lớp 10](https://vnexpress.net/30-dia-phuong-chot-mon-thi-lop-10-4724160.html) - 00:45 20/03/2024
