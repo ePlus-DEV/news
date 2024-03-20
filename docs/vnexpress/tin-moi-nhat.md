@@ -5,7 +5,7 @@ sidebar_position: 9
 
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Phút cuối của những binh sĩ Ukraine tử thủ ở Avdeevka](https://vnexpress.net/phut-cuoi-cua-nhung-binh-si-ukraine-tu-thu-o-avdeevka-4724290.html) - 05:15 20/03/2024
-- 🐎 [HLV Shin Tae-yong: &#39;Indonesia chuẩn bị rất tốt để đấu Việt Nam&#39;](https://vnexpress.net/hlv-shin-tae-yong-indonesia-chuan-bi-rat-tot-de-dau-viet-nam-4724349.html) - 05:15 20/03/2024
+- 🐎 [HLV Shin Tae-yong họp báo trước trận Indonesia - Việt Nam](https://vnexpress.net/hlv-shin-tae-yong-hop-bao-truoc-tran-indonesia-viet-nam-4724349.html) - 05:15 20/03/2024
 - 🦍 [Trung Quốc phát triển động cơ tàu vũ trụ hạt nhân](https://vnexpress.net/trung-quoc-phat-trien-dong-co-tau-vu-tru-hat-nhan-4724286.html) - 05:12 20/03/2024
 - 🏊 [Công ty nắm nhiều Bitcoin nhất thế giới tiếp tục mua thêm](https://vnexpress.net/cong-ty-nam-nhieu-bitcoin-nhat-the-gioi-tiep-tuc-mua-them-4724443.html) - 05:10 20/03/2024
 - 🎊 [Lưu ý du lịch Phú Quý mùa cao điểm](https://vnexpress.net/luu-y-du-lich-phu-quy-mua-cao-diem-4722689.html) - 05:06 20/03/2024
