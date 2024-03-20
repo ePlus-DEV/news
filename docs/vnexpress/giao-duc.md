@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Học phí trường quốc tế ở TP HCM khoảng 200-820 triệu đồng](https://vnexpress.net/hoc-phi-truong-quoc-te-o-tp-hcm-khoang-200-820-trieu-dong-4724120.html) - 06:50 20/03/2024
+- 🤓 [Học phí trường quốc tế ở TP HCM lên đến 820 triệu đồng](https://vnexpress.net/hoc-phi-truong-quoc-te-o-tp-hcm-len-den-820-trieu-dong-4724120.html) - 06:50 20/03/2024
 - 🦆 [Trường Đại học Thủ Dầu Một công bố phương án tuyển sinh](https://vnexpress.net/truong-dai-hoc-thu-dau-mot-cong-bo-phuong-an-tuyen-sinh-4724063.html) - 03:00 20/03/2024
 - 🦩 [10 năm lập nghiệp của chàng trai trường nghề ở New York](https://vnexpress.net/10-nam-lap-nghiep-cua-chang-trai-truong-nghe-o-new-york-4719296.html) - 01:10 20/03/2024
 - 🌮 [30 địa phương chốt môn thi lớp 10](https://vnexpress.net/30-dia-phuong-chot-mon-thi-lop-10-4724160.html) - 00:45 20/03/2024
@@ -13,17 +13,17 @@ sidebar_position: 7
 - 🥰 [Cầu nào từng được đặt theo tên Thủ tướng Pháp?](https://vnexpress.net/cau-nao-tung-duoc-dat-theo-ten-thu-tuong-phap-4724218.html) - 13:05 19/03/2024
 - 🐲 [Trường ở New Zealand muốn cấp 1.000 học bổng điều dưỡng cho người Việt](https://vnexpress.net/truong-o-new-zealand-muon-cap-1-000-hoc-bong-dieu-duong-cho-nguoi-viet-4723544.html) - 11:30 19/03/2024
 - 🦒 [Nữ sinh lớp 9 bị bạn đánh hội đồng](https://vnexpress.net/nu-sinh-lop-9-bi-ban-danh-hoi-dong-4724044.html) - 07:20 19/03/2024
-- 🦆 [Phụ huynh trường Quốc tế Mỹ cầu cứu](https://vnexpress.net/phu-huynh-truong-quoc-te-my-cau-cuu-4723993.html) - 04:20 19/03/2024
+- 🦆 [Phụ huynh trường Quốc tế Mỹ Việt Nam cầu cứu](https://vnexpress.net/phu-huynh-truong-quoc-te-my-viet-nam-cau-cuu-4723993.html) - 04:20 19/03/2024
 - 🧰 [Học trường THPT trọng điểm có được cộng điểm thi tốt nghiệp, đại học?](https://vnexpress.net/hoc-truong-thpt-trong-diem-co-duoc-cong-diem-thi-tot-nghiep-dai-hoc-4723491.html) - 04:00 19/03/2024
 - 🐘 [Nở rộ trường THCS trọng điểm, chất lượng cao](https://vnexpress.net/no-ro-truong-thcs-trong-diem-chat-luong-cao-4721458.html) - 03:02 19/03/2024
 - 🤓 [Chủ trường Quốc tế Mỹ: &#39;Trường gặp khó khăn tài chính nghiêm trọng&#39;](https://vnexpress.net/chu-truong-quoc-te-my-truong-gap-kho-khan-tai-chinh-nghiem-trong-4723752.html) - 01:00 19/03/2024
 - 🧰 [&#39;Tiết học&#39; dài 36 giờ ở VinUni](https://vnexpress.net/tiet-hoc-dai-36-gio-o-vinuni-4723577.html) - 01:00 19/03/2024
-- 🧑‍💻 [Trường Quốc tế Mỹ thông báo mở cửa lại](https://vnexpress.net/truong-quoc-te-my-thong-bao-mo-cua-lai-4723819.html) - 15:34 18/03/2024
+- 🧑‍💻 [Trường Quốc tế Mỹ Việt Nam thông báo mở cửa lại](https://vnexpress.net/truong-quoc-te-my-viet-nam-thong-bao-mo-cua-lai-4723819.html) - 15:34 18/03/2024
 - 🫶 [TP HCM chốt phương án thi lớp 10 công lập](https://vnexpress.net/tp-hcm-chot-phuong-an-thi-lop-10-cong-lap-4723799.html) - 13:21 18/03/2024
 - 🪜 [Việt Nam có bao nhiêu nữ giáo sư Toán?](https://vnexpress.net/viet-nam-co-bao-nhieu-nu-giao-su-toan-4723770.html) - 13:12 18/03/2024
 - 🎊 [Học sinh lớp 4 đánh, thu tiền của bạn](https://vnexpress.net/hoc-sinh-lop-4-danh-thu-tien-cua-ban-4723693.html) - 12:32 18/03/2024
 - 🧐 [Đề xuất tách trường chuyên Trần Đại Nghĩa](https://vnexpress.net/de-xuat-tach-truong-chuyen-tran-dai-nghia-4723650.html) - 07:39 18/03/2024
-- 🌈 [Gần 1.400 học sinh trường Quốc tế Mỹ phải nghỉ học](https://vnexpress.net/gan-1-400-hoc-sinh-truong-quoc-te-my-phai-nghi-hoc-4723602.html) - 06:57 18/03/2024
+- 🌈 [Gần 1.400 học sinh trường Quốc tế Mỹ Việt Nam phải nghỉ học](https://vnexpress.net/gan-1-400-hoc-sinh-truong-quoc-te-my-viet-nam-phai-nghi-hoc-4723602.html) - 06:57 18/03/2024
 - 🥰 [Chọn ngành nào để học về bán dẫn?](https://vnexpress.net/chon-nganh-nao-de-hoc-ve-ban-dan-4723293.html) - 04:00 18/03/2024
 - 🎡 [Học phí tiểu học ở trường quốc tế cao nhất 760 triệu đồng](https://vnexpress.net/hoc-phi-tieu-hoc-o-truong-quoc-te-cao-nhat-760-trieu-dong-4721904.html) - 02:15 18/03/2024
 - 🎊 [Lợi thế khi tham gia trại hè IELTS](https://vnexpress.net/loi-the-khi-tham-gia-trai-he-ielts-4722759.html) - 01:00 18/03/2024
