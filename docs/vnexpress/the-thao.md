@@ -18,7 +18,7 @@ sidebar_position: 5
 - 🐵 [Đoàn Văn Hậu: &#39;Đừng quá đề cao dàn nhập tịch của Indonesia&#39;](https://vnexpress.net/doan-van-hau-dung-qua-de-cao-dan-nhap-tich-cua-indonesia-4724278.html) - 01:15 20/03/2024
 - 💫 [Dani Alves yêu cầu được tại ngoại](https://vnexpress.net/dani-alves-yeu-cau-duoc-tai-ngoai-4724271.html) - 23:21 19/03/2024
 - 🦆 [Bạn trai nhà vô địch Australia Mở rộng 2024 đột tử](https://vnexpress.net/ban-trai-nha-vo-dich-australia-mo-rong-2024-dot-tu-4724267.html) - 22:59 19/03/2024
-- 🙉 [Klopp bị tố thô lỗ khi rời cuộc phỏng vấn ở Ngoại hạng Anh](https://vnexpress.net/klopp-bi-to-tho-lo-khi-roi-cuoc-phong-van-o-ngoai-hang-anh-4724253.html) - 17:00 19/03/2024
+- 🙉 [Klopp bị tố thô lỗ khi rời cuộc phỏng vấn ở Cup FA](https://vnexpress.net/klopp-bi-to-tho-lo-khi-roi-cuoc-phong-van-o-cup-fa-4724253.html) - 17:00 19/03/2024
 - 📝 [Tay vợt Pháp đổ gục ở Miami Open 2024](https://vnexpress.net/tay-vot-phap-do-guc-o-miami-open-2024-4724250.html) - 17:00 19/03/2024
 - 💯 [Ông chủ Man Utd: &#39;Mua Mbappe là không khôn ngoan&#39;](https://vnexpress.net/ong-chu-man-utd-mua-mbappe-la-khong-khon-ngoan-4724225.html) - 12:55 19/03/2024
 - 🌈 [Chủ tịch LĐBĐ Thái Lan mơ thắng Hàn Quốc](https://vnexpress.net/chu-tich-ldbd-thai-lan-mo-thang-han-quoc-4724191.html) - 11:06 19/03/2024
