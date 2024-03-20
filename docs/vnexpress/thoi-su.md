@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Quốc hội họp bất thường xem xét công tác nhân sự](https://vnexpress.net/quoc-hoi-hop-bat-thuong-xem-xet-cong-tac-nhan-su-4723352.html) - 10:55 20/03/2024
+- 🦒 [Quốc hội họp bất thường](https://vnexpress.net/quoc-hoi-hop-bat-thuong-4723352.html) - 10:55 20/03/2024
 - 🤓 [Đề xuất bố trí 10.650 tỷ đồng xử lý 8 dự án BOT thua lỗ](https://vnexpress.net/de-xuat-bo-tri-10-650-ty-dong-xu-ly-8-du-an-bot-thua-lo-4724610.html) - 10:47 20/03/2024
 - ⚗️ [Nguyên Bí thư Vĩnh Phúc Hoàng Thị Thúy Lan bị khai trừ đảng](https://vnexpress.net/nguyen-bi-thu-vinh-phuc-hoang-thi-thuy-lan-bi-khai-tru-dang-4724376.html) - 10:00 20/03/2024
 - 🌊 [Chín cây sưa hơn 100 tuổi được công nhận cây di sản](https://vnexpress.net/chin-cay-sua-hon-100-tuoi-duoc-cong-nhan-cay-di-san-4724538.html) - 09:59 20/03/2024
