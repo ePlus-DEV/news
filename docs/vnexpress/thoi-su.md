@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Đề xuất không cố định mức đóng bảo hiểm thất nghiệp 1%](https://vnexpress.net/de-xuat-khong-co-dinh-muc-dong-bao-hiem-that-nghiep-1-4724433.html) - 04:50 20/03/2024
-- 🤓 [&#39;Đưa nước từ sông Hậu, Sài Gòn về vùng khô hạn miền Tây khó khả thi&#39;](https://vnexpress.net/dua-nuoc-tu-song-hau-sai-gon-ve-vung-kho-han-mien-tay-kho-kha-thi-4723767.html) - 04:35 20/03/2024
+- 🤓 [&#39;Đưa nước từ sông Sài Gòn về miền Tây khó khả thi&#39;](https://vnexpress.net/dua-nuoc-tu-song-hau-sai-gon-ve-vung-kho-han-mien-tay-kho-kha-thi-4723767.html) - 04:35 20/03/2024
 - ⚗️ [Kiến nghị mở rộng cao tốc Đồng Đăng - Trà Lĩnh bốn làn xe](https://vnexpress.net/kien-nghi-mo-rong-cao-toc-dong-dang-tra-linh-bon-lan-xe-4724366.html) - 03:30 20/03/2024
 - 🌊 [Công nghệ rửa tàu Nhổn - ga Hà Nội trong ba phút](https://vnexpress.net/cong-nghe-rua-tau-nhon-ga-ha-noi-trong-ba-phut-4724155.html) - 01:19 20/03/2024
 - 🎓 [Đường cửa ngõ Sài Gòn mở rộng 9 năm chưa xong do vướng đền bù](https://vnexpress.net/duong-cua-ngo-sai-gon-mo-rong-9-nam-chua-xong-do-vuong-den-bu-4724182.html) - 23:00 19/03/2024
