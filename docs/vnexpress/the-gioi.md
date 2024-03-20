@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Ông Trump đe dọa Đại sứ Australia](https://vnexpress.net/ong-trump-de-doa-dai-su-australia-4724295.html) - 03:00 20/03/2024
+- 🎭 [Ông Trump dọa trục xuất Đại sứ Australia nếu đắc cử](https://vnexpress.net/ong-trump-doa-truc-xuat-dai-su-australia-neu-dac-cu-4724295.html) - 03:00 20/03/2024
 - 🕴 [Cựu cố vấn của ông Trump ngồi tù](https://vnexpress.net/cuu-co-van-cua-ong-trump-ngoi-tu-4724302.html) - 02:20 20/03/2024
 - 🤭 [Triều Tiên thử nghiệm động cơ tên lửa siêu vượt âm](https://vnexpress.net/trieu-tien-thu-nghiem-dong-co-ten-lua-sieu-vuot-am-4724279.html) - 01:00 20/03/2024
 - 🧑‍💻 [Ông Trump nêu lý do dọa không bảo vệ đồng minh NATO](https://vnexpress.net/ong-trump-neu-ly-do-doa-khong-bao-ve-dong-minh-nato-4724273.html) - 00:41 20/03/2024
