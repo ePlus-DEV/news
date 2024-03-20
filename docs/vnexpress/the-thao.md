@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [HLV Shin Tae-yong: &#39;Indonesia chuẩn bị rất tốt để đấu Việt Nam&#39;](https://vnexpress.net/hlv-shin-tae-yong-indonesia-chuan-bi-rat-tot-de-dau-viet-nam-4724349.html) - 05:15 20/03/2024
+- 🪜 [HLV Shin: &#39;Indonesia sẽ cố ghi thật nhiều bàn trước Việt Nam&#39;](https://vnexpress.net/hlv-shin-indonesia-se-co-ghi-that-nhieu-ban-truoc-viet-nam-4724349.html) - 05:15 20/03/2024
 - 🦩 [HLV Troussier: &#39;Việt Nam đã tích lũy đủ kinh nghiệm và thực chiến&#39;](https://vnexpress.net/hlv-troussier-viet-nam-da-tich-luy-du-kinh-nghiem-va-thuc-chien-4724324.html) - 04:47 20/03/2024
 - 🧰 [San Marino và ước vọng đơn sơ của đội tuyển tệ nhất thế giới](https://vnexpress.net/san-marino-va-uoc-vong-don-so-cua-doi-tuyen-te-nhat-the-gioi-4724431.html) - 04:43 20/03/2024
 - 🤗 [Chọn quần áo phù hợp cho người mới chạy bộ](https://vnexpress.net/chon-quan-ao-phu-hop-cho-nguoi-moi-chay-bo-4724372.html) - 04:29 20/03/2024
