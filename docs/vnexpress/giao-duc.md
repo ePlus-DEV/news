@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Sở Giáo dục TP HCM: &#39;Trường Quốc tế Mỹ chưa hợp tác&#39;](https://vnexpress.net/so-giao-duc-tp-hcm-truong-quoc-te-my-chua-hop-tac-4725031.html) - 10:00 21/03/2024
+- 🤓 [Sở Giáo dục TP HCM: Chủ trường Quốc tế Mỹ cam kết duy trì hoạt động](https://vnexpress.net/so-giao-duc-tp-hcm-chu-truong-quoc-te-my-cam-ket-duy-tri-hoat-dong-4725031.html) - 10:00 21/03/2024
 - 🦆 [Tăng gần 1.000 chỉ tiêu vào 17 trường quân đội](https://vnexpress.net/tang-gan-1-000-chi-tieu-vao-17-truong-quan-doi-4725084.html) - 09:17 21/03/2024
 - 🦩 [Xác minh vụ hiệu trưởng đánh học sinh chảy máu đầu](https://vnexpress.net/xac-minh-vu-hieu-truong-danh-hoc-sinh-chay-mau-dau-4724898.html) - 06:07 21/03/2024
 - 🌮 [Tranh cãi vì yêu cầu học sinh học toán cao cấp](https://vnexpress.net/tranh-cai-vi-yeu-cau-hoc-sinh-hoc-toan-cao-cap-4724614.html) - 04:42 21/03/2024
