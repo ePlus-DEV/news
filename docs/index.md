@@ -40,7 +40,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤠 [Châu Âu chật vật tăng ngân sách quốc phòng theo yêu cầu của NATO](https://vnexpress.net/chau-au-chat-vat-tang-ngan-sach-quoc-phong-theo-yeu-cau-cua-nato-4724527.html) - 17:00 21/03/2024
 - 🌈 [Hoa hướng dương có luôn quay theo Mặt Trời?](https://vnexpress.net/hoa-huong-duong-co-luon-quay-theo-mat-troi-4724309.html) - 17:00 21/03/2024
 - 🎬 [Hải Phòng sẽ giảm 50 xã, phường](https://vnexpress.net/hai-phong-se-giam-50-xa-phuong-4722977.html) - 17:00 21/03/2024
-- 🚀 [HLV Shin: &#39;Indonesia không thắng Việt Nam nhờ may mắn&#39;](https://vnexpress.net/hlv-shin-indonesia-khong-thang-viet-nam-nho-may-man-4725169.html) - 16:17 21/03/2024
+- 🚀 [HLV Shin: &#39;Indonesia thắng Việt Nam không phải vì may mắn&#39;](https://vnexpress.net/hlv-shin-indonesia-thang-viet-nam-khong-phai-vi-may-man-4725169.html) - 16:17 21/03/2024
 - 🪄 [Nông dân Ba Lan bỏ phong tỏa một cửa khẩu với Ukraine](https://vnexpress.net/nong-dan-ba-lan-bo-phong-toa-mot-cua-khau-voi-ukraine-4725172.html) - 16:13 21/03/2024
 - 😎 [Hai phạm nhân nhận thêm án tù vì trốn khỏi trại giam](https://vnexpress.net/hai-pham-nhan-nhan-them-an-tu-vi-tron-khoi-trai-giam-4725158.html) - 15:54 21/03/2024
 - 🎊 [UBND tỉnh Quảng Ngãi có người điều hành mới](https://vnexpress.net/ubnd-tinh-quang-ngai-co-nguoi-dieu-hanh-moi-4725176.html) - 15:45 21/03/2024
