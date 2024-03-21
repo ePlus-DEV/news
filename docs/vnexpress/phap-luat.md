@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Người được bà Trương Mỹ Lan thưởng 1.500 tỷ đồng: &#39;Tôi đã khắc phục dư thiệt hại&#39;](https://vnexpress.net/nguoi-duoc-ba-truong-my-lan-thuong-1-500-ty-dong-toi-da-khac-phuc-du-thiet-hai-4725021.html) - 08:37 21/03/2024
 - 🥰 [Cựu nhân viên ngân hàng lừa đáo hạn khoản vay](https://vnexpress.net/cuu-nhan-vien-ngan-hang-lua-dao-han-khoan-vay-4724962.html) - 08:11 21/03/2024
 - 🎓 [Chủ tịch Tân Hoàng Minh bị đề nghị 9-10 năm tù](https://vnexpress.net/chu-tich-tan-hoang-minh-bi-de-nghi-9-10-nam-tu-4724500.html) - 07:37 21/03/2024
-- 🤓 [Luật sư: Trương Huệ Vân &#39;có thể đã khắc phục hoàn toàn hậu quả&#39;](https://vnexpress.net/luat-su-truong-hue-van-co-the-da-khac-phuc-hoan-toan-hau-qua-4724951.html) - 06:23 21/03/2024
+- 🤓 [Trương Huệ Vân có thể được xem xét &#39;đã khắc phục hoàn toàn hậu quả&#39;](https://vnexpress.net/truong-hue-van-co-the-duoc-xem-xet-da-khac-phuc-hoan-toan-hau-qua-4724951.html) - 06:23 21/03/2024
 - 🎊 [Bị hại: Đổ tiền mua trái phiếu Tân Hoàng Minh vì &#39;tin tập đoàn lớn&#39;](https://vnexpress.net/bi-hai-do-tien-mua-trai-phieu-tan-hoang-minh-vi-tin-tap-doan-lon-4724675.html) - 03:40 21/03/2024
 - 🙉 [Lời khai nhóm cướp cầm dao uy hiếp người đi đường ban đêm](https://video.vnexpress.net/loi-khai-nhom-cuop-cam-dao-uy-hiep-nguoi-di-duong-ban-dem-4724694.html) - 03:24 21/03/2024
 - 🤡 [Bẫy dùng thuốc mê của giám đốc mê sắc dục](https://vnexpress.net/bay-dung-thuoc-me-cua-giam-doc-me-sac-duc-4724632.html) - 17:00 20/03/2024
