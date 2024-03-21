@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [Eximbank nói &#39;không thu khoản nợ thẻ tín dụng 8,8 tỷ đồng&#39;](https://vnexpress.net/eximbank-noi-khong-thu-khoan-no-the-tin-dung-8-8-ty-dong-4725128.html) - 11:48 21/03/2024
 - 🐲 [Giá vàng về dưới 81 triệu đồng một lượng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-4725090.html) - 10:03 21/03/2024
 - 🔥 [​Moody&#39;s nâng hạng triển vọng của Techcombank](https://vnexpress.net/moody-s-nang-hang-trien-vong-cua-techcombank-4724965.html) - 10:00 21/03/2024
-- 🐵 [Sầu riêng Musang King trồng ở Việt Nam tăng giá gấp đôi](https://vnexpress.net/sau-rieng-musang-king-trong-o-viet-nam-tang-gia-gap-doi-4725059.html) - 09:31 21/03/2024
+- 🐵 [Hơn triệu đồng trái Musang King đầu mùa](https://vnexpress.net/hon-trieu-dong-trai-musang-king-dau-mua-4725059.html) - 09:31 21/03/2024
 - 🦅 [Xuất khẩu rau quả đạt gần 1,3 tỷ USD quý đầu năm](https://vnexpress.net/xuat-khau-rau-qua-dat-gan-1-3-ty-usd-quy-dau-nam-4724967.html) - 09:25 21/03/2024
 - 😺 [VN-Index tăng theo nhóm cổ phiếu vốn hóa lớn](https://vnexpress.net/vn-index-tang-theo-nhom-co-phieu-von-hoa-lon-4725055.html) - 08:51 21/03/2024
 - 🤩 [Các ngân hàng xử lý tài khoản, thẻ bỏ không thế nào](https://vnexpress.net/cac-ngan-hang-xu-ly-tai-khoan-the-bo-khong-the-nao-4724506.html) - 07:36 21/03/2024
