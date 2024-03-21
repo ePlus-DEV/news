@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Vấn nạn xả rác trên đường chạy](https://vnexpress.net/van-nan-xa-rac-tren-duong-chay-4725117.html) - 17:00 21/03/2024
-- 🦩 [HLV Shin: &#39;Indonesia thắng Việt Nam không phải vì may mắn&#39;](https://vnexpress.net/hlv-shin-indonesia-thang-viet-nam-khong-phai-vi-may-man-4725169.html) - 16:17 21/03/2024
+- 🦩 [HLV Shin: &#39;Đừng nói Indonesia thắng may mắn Việt Nam&#39;](https://vnexpress.net/hlv-shin-dung-noi-indonesia-thang-may-man-viet-nam-4725169.html) - 16:17 21/03/2024
 - 🧰 [HLV Troussier: &#39;Có nhiều điều lạc quan từ trận thua Indonesia&#39;](https://vnexpress.net/hlv-troussier-co-nhieu-dieu-lac-quan-tu-tran-thua-indonesia-4725159.html) - 15:28 21/03/2024
 - 🤗 [Trung Quốc bị Singapore cầm hoà dù dẫn hai bàn](https://vnexpress.net/trung-quoc-bi-singapore-cam-hoa-du-dan-hai-ban-4725163.html) - 14:36 21/03/2024
 - 🥳 [Son Heung-min thất vọng khi không thắng Thái Lan](https://vnexpress.net/son-heung-min-that-vong-khi-khong-thang-thai-lan-4725160.html) - 14:14 21/03/2024
