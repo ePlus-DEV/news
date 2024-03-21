@@ -58,5 +58,4 @@ sidebar_position: 9
 - 🔥 [Nỗ lực bám trụ của lính Ukraine bên bờ đông sông Dnieper](https://vnexpress.net/no-luc-bam-tru-cua-linh-ukraine-ben-bo-dong-song-dnieper-4725037.html) - 12:00 21/03/2024
 - 💄 [Tuyển Việt Nam lại ôm hận trước Indonesia](https://vnexpress.net/indonesia-vs-viet-nam-4725003-tong-thuat.html) - 12:00 21/03/2024
 - 🤡 [Đậu phụ rang muối](https://vnexpress.net/dau-phu-rang-muoi-4724975.html) - 12:00 21/03/2024
-- ⛽️ [Bị cho là sai khi bỏ người chồng cờ bạc nhưng hiền lành](https://vnexpress.net/bi-cho-la-sai-khi-bo-nguoi-chong-co-bac-nhung-hien-lanh-4724939.html) - 12:00 21/03/2024
-- 🚀 [Anh bình thường, giản đơn, tìm người chân thành](https://vnexpress.net/anh-binh-thuong-gian-don-tim-nguoi-chan-thanh-4724770.html) - 12:00 21/03/2024<!-- vnexpress-tin-moi-nhat:END -->
+- ⛽️ [Bị cho là sai khi bỏ người chồng cờ bạc nhưng hiền lành](https://vnexpress.net/bi-cho-la-sai-khi-bo-nguoi-chong-co-bac-nhung-hien-lanh-4724939.html) - 12:00 21/03/2024<!-- vnexpress-tin-moi-nhat:END -->
