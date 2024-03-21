@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Lần đầu trải nghiệm tour đêm Địa đạo Củ Chi](https://vnexpress.net/lan-dau-trai-nghiem-tour-dem-dia-dao-cu-chi-4724446.html) - 23:09 20/03/2024
+- 💂 [Lần đầu trải nghiệm tour đêm địa đạo Củ Chi](https://vnexpress.net/lan-dau-trai-nghiem-tour-dem-dia-dao-cu-chi-4724446.html) - 23:09 20/03/2024
 - 🪄 [Rome có thật sự lãng mạn như trên ảnh?](https://vnexpress.net/rome-co-that-su-lang-man-nhu-tren-anh-4724568.html) - 17:09 20/03/2024
 - 🦅 [Nhiều món truyền thống bị khách quốc tế chấm &#39;tệ nhất Việt Nam&#39;](https://vnexpress.net/nhieu-mon-truyen-thong-bi-khach-quoc-te-cham-te-nhat-viet-nam-4724517.html) - 13:30 20/03/2024
 - 🕴 [Du khách đến Việt Nam bằng đường hàng không tăng 1,6 lần](https://vnexpress.net/du-khach-den-viet-nam-bang-duong-hang-khong-tang-1-6-lan-4724642.html) - 12:00 20/03/2024
