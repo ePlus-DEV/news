@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Xác minh vụ hiệu trưởng đánh học sinh chảy máu đầu](https://vnexpress.net/xac-minh-vu-hieu-truong-danh-hoc-sinh-chay-mau-dau-4724898.html) - 06:07 21/03/2024
 - 🦆 [Tranh cãi vì yêu cầu học sinh học toán cao cấp](https://vnexpress.net/tranh-cai-vi-yeu-cau-hoc-sinh-hoc-toan-cao-cap-4724614.html) - 04:42 21/03/2024
-- 🦩 [Bốn học sinh một lớp đỗ học bổng chính phủ Singapore](https://vnexpress.net/bon-hoc-sinh-mot-lop-do-hoc-bong-chinh-phu-singapore-4724492.html) - 00:58 21/03/2024
+- 🦩 [Bốn học sinh một lớp trúng tuyển đại học hàng đầu châu Á](https://vnexpress.net/bon-hoc-sinh-mot-lop-trung-tuyen-dai-hoc-hang-dau-chau-a-4724492.html) - 00:58 21/03/2024
 - 🌮 [Nam sinh 17 tuổi giành suất đến Mỹ thi giao dịch chứng khoán](https://vnexpress.net/nam-sinh-17-tuoi-gianh-suat-den-my-thi-giao-dich-chung-khoan-4724419.html) - 22:12 20/03/2024
 - 🔭 [Theo ngành Quản trị nhân sự cần học thêm gì để không thất nghiệp?](https://vnexpress.net/theo-nganh-quan-tri-nhan-su-can-hoc-them-gi-de-khong-that-nghiep-4722455.html) - 16:59 20/03/2024
 - 💡 [Nghệ An bỏ xét tuyển lớp 10 bằng IELTS](https://vnexpress.net/nghe-an-bo-xet-tuyen-lop-10-bang-ielts-4724686.html) - 15:43 20/03/2024
