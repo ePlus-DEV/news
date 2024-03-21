@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Hàn Quốc - Thái Lan: Son Heung-min, Lee Kang-in đá chính](https://vnexpress.net/truc-tiep-han-quoc-vs-thai-lan-4725109.html) - 10:23 21/03/2024
+- 🪜 [Hàn Quốc - Thái Lan: Son Heung-min đá chính](https://vnexpress.net/truc-tiep-han-quoc-vs-thai-lan-4725109.html) - 10:23 21/03/2024
 - 🦩 [Danh thủ Indonesia đoán Việt Nam không dám chơi tấn công](https://vnexpress.net/danh-thu-indonesia-doan-viet-nam-khong-dam-choi-tan-cong-4724266.html) - 09:18 21/03/2024
 - 🧰 [Tương quan trước trận Indonesia - Việt Nam](https://vnexpress.net/tuong-quan-truoc-tran-indonesia-viet-nam-4724931.html) - 09:00 21/03/2024
 - 🤗 [Runner 54 tuổi phá sâu kỷ lục chạy HM chân trần trên tuyết](https://vnexpress.net/runner-54-tuoi-pha-sau-ky-luc-chay-hm-chan-tran-tren-tuyet-4725026.html) - 07:55 21/03/2024
