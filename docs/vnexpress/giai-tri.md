@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Bi kịch tuổi già của &#39;Chu Bá Thông&#39; Tần Hoàng](https://vnexpress.net/bi-kich-tuoi-gia-cua-chu-ba-thong-tan-hoang-4724808.html) - 03:46 21/03/2024
-- 💫 [Trần Anh Hùng: &#39;Tôi từng mất đi hơi thở khi rời Việt Nam&#39;](https://vnexpress.net/tran-anh-hung-toi-tung-mat-di-hoi-tho-khi-roi-viet-nam-4724416.html) - 02:27 21/03/2024
+- 💫 [Trần Anh Hùng: &#39;Tôi từng như mất đi hơi thở khi rời Việt Nam&#39;](https://vnexpress.net/tran-anh-hung-toi-tung-nhu-mat-di-hoi-tho-khi-roi-viet-nam-4724416.html) - 02:27 21/03/2024
 - 🌮 [Dàn diễn viên &#39;Kính vạn hoa&#39; sau 20 năm](https://vnexpress.net/dan-dien-vien-kinh-van-hoa-sau-20-nam-4720677.html) - 17:00 20/03/2024
 - 🧠 [Hoài Lâm tái xuất ở sự kiện](https://vnexpress.net/hoai-lam-tai-xuat-o-su-kien-4724670.html) - 12:08 20/03/2024
 - 👨‍🏫 [Từ Hy Viên phẫn nộ vì chồng cũ](https://vnexpress.net/tu-hy-vien-phan-no-vi-chong-cu-4724573.html) - 09:06 20/03/2024
