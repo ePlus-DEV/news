@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Trương Huệ Vân có thể được xem là &#39;đã khắc phục hậu quả&#39;](https://vnexpress.net/truong-hue-van-co-the-duoc-xem-la-da-khac-phuc-hau-qua-4724951.html) - 06:23 21/03/2024
+- 😎 [Luật sư: Trương Huệ Vân &#39;có thể đã khắc phục hoàn toàn hậu quả&#39;](https://vnexpress.net/luat-su-truong-hue-van-co-the-da-khac-phuc-hoan-toan-hau-qua-4724951.html) - 06:23 21/03/2024
 - 🥰 [Bị hại: Đổ tiền mua trái phiếu Tân Hoàng Minh vì &#39;tin tập đoàn lớn&#39;](https://vnexpress.net/bi-hai-do-tien-mua-trai-phieu-tan-hoang-minh-vi-tin-tap-doan-lon-4724675.html) - 03:40 21/03/2024
 - 🎓 [Lời khai nhóm cướp cầm dao uy hiếp người đi đường ban đêm](https://video.vnexpress.net/loi-khai-nhom-cuop-cam-dao-uy-hiep-nguoi-di-duong-ban-dem-4724694.html) - 03:24 21/03/2024
 - 🤓 [Bẫy dùng thuốc mê của giám đốc mê sắc dục](https://vnexpress.net/bay-dung-thuoc-me-cua-giam-doc-me-sac-duc-4724632.html) - 17:00 20/03/2024
