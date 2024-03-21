@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Nga lần đầu tập kích Kiev trong gần 2 tháng](https://vnexpress.net/nga-lan-dau-tap-kich-kiev-trong-gan-2-thang-4724888.html) - 04:36 21/03/2024
-- 🕴 [Phá sản - giải pháp cực chẳng đã của Trump trong khủng hoảng tiền phạt](https://vnexpress.net/pha-san-giai-phap-cuc-chang-da-cua-trump-trong-khung-hoang-tien-phat-4724744.html) - 04:34 21/03/2024
+- 🕴 [Xin phá sản - giải pháp cực chẳng đã của Trump trong khủng hoảng tiền phạt](https://vnexpress.net/xin-pha-san-giai-phap-cuc-chang-da-cua-trump-trong-khung-hoang-tien-phat-4724744.html) - 04:34 21/03/2024
 - 🤭 [Khách gốc Việt kể giây phút giày, tất bị hút khỏi máy bay giữa trời](https://vnexpress.net/khach-goc-viet-ke-giay-phut-giay-tat-bi-hut-khoi-may-bay-giua-troi-4724804.html) - 04:31 21/03/2024
 - 🧑‍💻 [Khoảnh khắc tên lửa Israel hạ chỉ huy nhóm vũ trang Palestine](https://vnexpress.net/khoanh-khac-ten-lua-israel-ha-chi-huy-nhom-vu-trang-palestine-4724860.html) - 04:02 21/03/2024
 - 🦏 [Kết cấu giống giáp lồng trên nóc tàu ngầm hạt nhân Nga](https://vnexpress.net/ket-cau-giong-giap-long-tren-noc-tau-ngam-hat-nhan-nga-4724785.html) - 03:35 21/03/2024
