@@ -5,10 +5,10 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Nhật Bản thắng tối thiểu Triều Tiên](https://vnexpress.net/nhat-ban-thang-toi-thieu-trieu-tien-4725142.html) - 13:02 21/03/2024
-- 🦩 [Indonesia 0-0 Việt Nam &lpar;H1&rpar;: Chủ nhà dùng đội U23+2](https://vnexpress.net/indonesia-vs-viet-nam-4725003.html) - 12:00 21/03/2024
+- 🦩 [Indonesia 0-0 Việt Nam &lpar;H1&rpar;: Đình Bắc sút chệch cột](https://vnexpress.net/indonesia-vs-viet-nam-4725003.html) - 12:00 21/03/2024
 - 🧰 [62 VĐV tranh tài ở giải đua &#39;công thức một trên biển&#39; Quy Nhơn](https://vnexpress.net/62-vdv-tranh-tai-o-giai-dua-cong-thuc-mot-tren-bien-quy-nhon-4725123.html) - 11:43 21/03/2024
 - 🤗 [Cảnh sát vũ trang bảo vệ trận Indonesia - Việt Nam](https://vnexpress.net/canh-sat-vu-trang-bao-ve-tran-indonesia-viet-nam-4725130.html) - 11:08 21/03/2024
-- 🥳 [Thái Lan hòa trên sân Hàn Quốc](https://vnexpress.net/truc-tiep-han-quoc-vs-thai-lan-4725109.html) - 10:23 21/03/2024
+- 🥳 [Thái Lan hòa trên sân Hàn Quốc](https://vnexpress.net/truc-tiep-han-quoc-vs-thai-lan-4725109-tong-thuat.html) - 10:23 21/03/2024
 - 🦣 [Danh thủ Indonesia đoán Việt Nam không dám chơi tấn công](https://vnexpress.net/danh-thu-indonesia-doan-viet-nam-khong-dam-choi-tan-cong-4724266.html) - 09:18 21/03/2024
 - 🌜 [Tương quan trước trận Indonesia - Việt Nam](https://vnexpress.net/tuong-quan-truoc-tran-indonesia-viet-nam-4724931.html) - 09:00 21/03/2024
 - 🫶 [Runner 54 tuổi phá sâu kỷ lục chạy HM chân trần trên tuyết](https://vnexpress.net/runner-54-tuoi-pha-sau-ky-luc-chay-hm-chan-tran-tren-tuyet-4725026.html) - 07:55 21/03/2024
