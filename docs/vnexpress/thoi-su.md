@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Xe chở khách nước ngoài tông ôtô tải, một người chết](https://vnexpress.net/xe-cho-khach-nuoc-ngoai-tong-oto-tai-mot-nguoi-chet-4724782.html) - 01:28 21/03/2024
+- 🦒 [Ôtô chở khách nước ngoài gặp nạn, một người chết](https://vnexpress.net/oto-cho-khach-nuoc-ngoai-gap-nan-mot-nguoi-chet-4724782.html) - 01:28 21/03/2024
 - 🤓 [Hình dáng đường 3.200 tỷ đồng nối cao tốc Pháp Vân - Vành đai 3](https://video.vnexpress.net/hinh-dang-duong-3-200-ty-dong-noi-cao-toc-phap-van-vanh-dai-3-4723775.html) - 01:11 21/03/2024
 - ⚗️ [ACV: Đẩy nhanh tiến độ trước mùa mưa gây bụi ở sân bay Long Thành](https://vnexpress.net/acv-day-nhanh-tien-do-truoc-mua-mua-gay-bui-o-san-bay-long-thanh-4724680.html) - 17:00 20/03/2024
 - 🌊 [Nuôi rắn hổ mang thu tiền tỷ](https://vnexpress.net/nuoi-ran-ho-mang-thu-tien-ty-4723604.html) - 17:00 20/03/2024
