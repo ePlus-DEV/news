@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Bẫy dùng thuốc mê của giám đốc mê sắc dục](https://vnexpress.net/bay-dung-thuoc-me-cua-giam-doc-me-sac-duc-4724632.html) - 17:00 20/03/2024
-- 🥰 [Giả chết vì tự tử để trốn truy nã](https://vnexpress.net/gia-chet-vi-tu-tu-de-tron-truy-na-4724463.html) - 17:00 20/03/2024
+- 🥰 [Giả chết để trốn truy nã](https://vnexpress.net/gia-chet-de-tron-truy-na-4724463.html) - 17:00 20/03/2024
 - 🎓 [Hai cựu cán bộ CDC Bình Phước liên quan Việt Á được miễn hình phạt](https://vnexpress.net/hai-cuu-can-bo-cdc-binh-phuoc-lien-quan-viet-a-duoc-mien-hinh-phat-4724643.html) - 15:11 20/03/2024
 - 🤓 [Hai anh em sát hại kẻ trộm xe](https://vnexpress.net/hai-anh-em-sat-hai-ke-trom-xe-4724651.html) - 14:52 20/03/2024
 - 🎊 [Hai bà cháu bị truy sát](https://vnexpress.net/hai-ba-chau-bi-truy-sat-4724668.html) - 13:29 20/03/2024
