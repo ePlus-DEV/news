@@ -253,7 +253,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Hiểm họa gia tăng từ rác thải điện tử](https://nld.com.vn/hiem-hoa-gia-tang-tu-rac-thai-dien-tu-196240321210039492.htm) - 23:27 21/03/2024
+- 🐎 [Đẩy mạnh thu hút khách tàu biển](https://nld.com.vn/day-manh-thu-hut-khach-tau-bien-19624032120014681.htm) - 23:37 21/03/2024
 - 😺 [Cảnh báo mới về dân số thế giới](https://nld.com.vn/canh-bao-moi-ve-dan-so-the-gioi-196240321212344859.htm) - 23:00 21/03/2024
 - 👍 [Giá vàng bao giờ hết hỗn loạn?](https://nld.com.vn/gia-vang-bien-dong-lon-rui-ro-nhieu-196240321222214288.htm) - 22:35 21/03/2024
 - 🥷 [Phát triển nông nghiệp thuận thiên](https://nld.com.vn/phat-trien-nong-nghiep-thuan-thien-196240321215035486.htm) - 22:25 21/03/2024
