@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Thứ trưởng NN&amp;amp;PTNN: Không dẫn nước từ sông Sài Gòn về Bến Tre chống hạn mặn](https://vnexpress.net/thu-truong-nn-ptnn-khong-dan-nuoc-tu-song-sai-gon-ve-ben-tre-chong-han-man-4725074.html) - 09:29 21/03/2024
+- 🦒 [Thứ trưởng NN&amp;amp;PTNT: Không dẫn nước từ sông Sài Gòn về Bến Tre chống hạn mặn](https://vnexpress.net/thu-truong-nn-ptnt-khong-dan-nuoc-tu-song-sai-gon-ve-ben-tre-chong-han-man-4725074.html) - 09:29 21/03/2024
 - 🤓 [Bà Võ Thị Ánh Xuân giữ quyền Chủ tịch nước](https://vnexpress.net/ba-vo-thi-anh-xuan-giu-quyen-chu-tich-nuoc-4724466.html) - 04:22 21/03/2024
 - ⚗️ [Bà Hoàng Thị Thúy Lan bị bãi nhiệm đại biểu Quốc hội](https://vnexpress.net/ba-hoang-thi-thuy-lan-bi-bai-nhiem-dai-bieu-quoc-hoi-4724678.html) - 04:21 21/03/2024
 - 🌊 [Quốc hội miễn nhiệm các chức vụ của ông Võ Văn Thưởng](https://vnexpress.net/quoc-hoi-mien-nhiem-cac-chuc-vu-cua-ong-vo-van-thuong-4724673.html) - 04:00 21/03/2024
