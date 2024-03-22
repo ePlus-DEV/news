@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Khách Việt thích đi du lịch &#39;chỉ để ngủ&#39;](https://vnexpress.net/khach-viet-thich-di-du-lich-chi-de-ngu-4725011.html) - 08:15 22/03/2024
+- 💂 [Gần 70% khách Việt thích đi du lịch &#39;chỉ để ngủ&#39;](https://vnexpress.net/gan-70-khach-viet-thich-di-du-lich-chi-de-ngu-4725011.html) - 08:15 22/03/2024
 - 🪄 [Quy định cấm chụp ảnh geisha gây tranh cãi ở Kyoto](https://vnexpress.net/quy-dinh-cam-chup-anh-geisha-gay-tranh-cai-o-kyoto-4725333.html) - 07:06 22/03/2024
 - 🦅 [Rừng hoa đỗ quyên khoe sắc trên đỉnh Pu Ta Leng](https://vnexpress.net/rung-hoa-do-quyen-khoe-sac-tren-dinh-pu-ta-leng-4724551.html) - 03:29 22/03/2024
 - 🕴 [Rác vẫn trôi &#39;thành hàng&#39; ở vịnh Hạ Long - đảo Cát Bà](https://vnexpress.net/rac-van-troi-thanh-hang-o-vinh-ha-long-dao-cat-ba-4724577.html) - 00:09 22/03/2024
