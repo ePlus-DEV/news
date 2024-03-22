@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Sinh viên chế thiết bị chống ngủ gật khi lái xe](https://vnexpress.net/sinh-vien-che-thiet-bi-chong-ngu-gat-khi-lai-xe-4724851.html) - 14:05 22/03/2024
+- 🤓 [Sinh viên làm thiết bị chống ngủ gật khi lái xe](https://vnexpress.net/sinh-vien-lam-thiet-bi-chong-ngu-gat-khi-lai-xe-4724851.html) - 14:05 22/03/2024
 - 🦆 [Vua nào được đặt tên cho 15 phường, xã của Việt Nam?](https://vnexpress.net/vua-nao-duoc-dat-ten-cho-15-phuong-xa-cua-viet-nam-4725588.html) - 13:36 22/03/2024
 - 🦩 [TP HCM chốt tách trường THPT chuyên Trần Đại Nghĩa](https://vnexpress.net/tp-hcm-chot-tach-truong-thpt-chuyen-tran-dai-nghia-4725607.html) - 13:05 22/03/2024
 - 🌮 [​Nữ sinh nhận thư mời nhập học từ 7 đại học Mỹ](https://vnexpress.net/nu-sinh-nhan-thu-moi-nhap-hoc-tu-7-dai-hoc-my-4725467.html) - 13:00 22/03/2024
