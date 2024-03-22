@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Cựu chủ tịch SCB: &#39;Chắc cha mẹ ở nhà khóc hết nước mắt&#39;](https://vnexpress.net/cuu-chu-tich-scb-chac-cha-me-o-nha-khoc-het-nuoc-mat-4725138.html) - 17:00 21/03/2024
-- 🥰 [Đường vào ngục tù của nữ tỷ phú đi lên từ thợ làm tóc](https://vnexpress.net/duong-vao-nguc-tu-cua-nu-ty-phu-di-len-tu-tho-lam-toc-4725134.html) - 17:00 21/03/2024
+- 🥰 [Đường vào ngục tù của nữ tỷ phú huy động vốn trái luật](https://vnexpress.net/duong-vao-nguc-tu-cua-nu-ty-phu-di-len-tu-tho-lam-toc-4725134.html) - 17:00 21/03/2024
 - 🎓 [Hai phạm nhân nhận thêm án tù vì trốn khỏi trại giam](https://vnexpress.net/hai-pham-nhan-nhan-them-an-tu-vi-tron-khoi-trai-giam-4725158.html) - 15:54 21/03/2024
 - 🤓 [Đại gia xăng dầu Vũng Tàu xin đóng tiền phạt thay nhân viên](https://vnexpress.net/dai-gia-xang-dau-vung-tau-xin-dong-tien-phat-thay-nhan-vien-4724998.html) - 15:33 21/03/2024
 - 🎊 [Giám đốc Quỹ Tín dụng Đại An bị bắt](https://vnexpress.net/giam-doc-quy-tin-dung-dai-an-bi-bat-4725165.html) - 15:03 21/03/2024
