@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Khách Tây xót xa khi vịnh Hạ Long, Cát Bà ngập rác](https://vnexpress.net/khach-tay-xot-xa-khi-vinh-ha-long-cat-ba-ngap-rac-4724577.html) - 00:09 22/03/2024
+- 💂 [Rác vẫn trôi &#39;thành hàng&#39; ở vịnh Hạ Long - đảo Cát Bà](https://vnexpress.net/rac-van-troi-thanh-hang-o-vinh-ha-long-dao-cat-ba-4724577.html) - 00:09 22/03/2024
 - 🪄 [Vượt 10 tầng núi ngắm băng tuyết trên đỉnh Phú Sĩ](https://vnexpress.net/vuot-10-tang-nui-ngam-bang-tuyet-tren-dinh-phu-si-4723116.html) - 17:12 21/03/2024
 - 🦅 [Singapore dẫn đầu lượng khách Trung Quốc tại Đông Nam Á](https://vnexpress.net/singapore-dan-dau-luong-khach-trung-quoc-tai-dong-nam-a-4724799.html) - 06:49 21/03/2024
 - 🕴 [Dừng tăng phí cảng tàu khách ra Hạ Long](https://vnexpress.net/dung-tang-phi-cang-tau-khach-ra-ha-long-4724813.html) - 04:05 21/03/2024
