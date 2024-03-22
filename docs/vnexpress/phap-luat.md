@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Nhóm cướp bằng &#39;dao phóng lợn&#39; bị khởi tố](https://vnexpress.net/nhom-cuop-bang-dao-phong-lon-bi-khoi-to-4725625.html) - 15:16 22/03/2024
+- 😎 [Sáu thiếu niên cướp bằng &#39;dao phóng lợn&#39; bị khởi tố](https://vnexpress.net/sau-thieu-nien-cuop-bang-dao-phong-lon-bi-khoi-to-4725625.html) - 15:16 22/03/2024
 - 🥰 [Ba người bị khởi tố vì sai phạm đấu thầu tại Bệnh viện Vũng Tàu](https://vnexpress.net/ba-nguoi-bi-khoi-to-vi-sai-pham-dau-thau-tai-benh-vien-vung-tau-4725624.html) - 14:56 22/03/2024
 - 🎓 [Chủ tịch huyện ở Đồng Nai trình báo bị lừa hơn 100 tỷ đồng](https://vnexpress.net/chu-tich-huyen-o-dong-nai-trinh-bao-bi-lua-hon-100-ty-dong-4725537.html) - 09:58 22/03/2024
 - 🤓 [Kẻ trộm khiến đại úy công an hy sinh lĩnh 19 năm tù](https://vnexpress.net/ke-trom-khien-dai-uy-cong-an-hy-sinh-linh-19-nam-tu-4725521.html) - 09:43 22/03/2024
