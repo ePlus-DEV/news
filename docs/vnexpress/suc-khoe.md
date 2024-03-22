@@ -5,7 +5,7 @@ sidebar_position: 10
 
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [4 tinh dầu hỗ trợ cải thiện bệnh suy giáp](https://vnexpress.net/4-tinh-dau-ho-tro-cai-thien-benh-suy-giap-4725373.html) - 08:00 22/03/2024
-- 🥰 [Mỹ lần đầu tiên ghép thận lợn cho người đang sống](https://vnexpress.net/my-lan-dau-tien-ghep-than-lon-cho-nguoi-dang-song-4725459.html) - 07:56 22/03/2024
+- 🥰 [Mỹ ghép thành công thận lợn cho người đang sống](https://vnexpress.net/my-ghep-thanh-cong-than-lon-cho-nguoi-dang-song-4725459.html) - 07:56 22/03/2024
 - 💡 [5 thói quen ăn uống khiến da khô](https://vnexpress.net/5-thoi-quen-an-uong-khien-da-kho-4725290.html) - 07:00 22/03/2024
 - 🤗 [Trẻ dậy thì có nên uống sữa đậu nành?](https://vnexpress.net/tre-day-thi-co-nen-uong-sua-dau-nanh-4725280.html) - 07:00 22/03/2024
 - 🪜 [Người đàn ông có 4 quả thận](https://vnexpress.net/nguoi-dan-ong-co-4-qua-than-4725404.html) - 06:53 22/03/2024
