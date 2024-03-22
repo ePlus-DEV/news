@@ -506,66 +506,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Gia tài phim ảnh ấn tượng của Kim Yoo Jung trước My Demon và Chicken Nuggets](https://muctim.tuoitre.vn/gia-tai-phim-anh-an-tuong-cua-kim-yoo-jung-truoc-my-demon-va-chicken-nuggets-101240321222645264.htm) - 03:20 22/03/2024
-- 🥷 [Dân mạng bắt trend vẽ tranh minh họa Chuyện bốn mùa](https://muctim.tuoitre.vn/dan-mang-bat-trend-ve-tranh-minh-hoa-chuyen-bon-mua-101240321231600798.htm) - 03:08 22/03/2024
-- 🤖 [Bộ Giáo dục và Đào tạo công bố đề thi tham khảo năm 2024](https://muctim.tuoitre.vn/bo-giao-duc-va-dao-tao-cong-bo-de-thi-tham-khao-nam-2024-101240322090343615.htm) - 02:05 22/03/2024
-- 🤓 [Hội chứng rối loạn tiền bạc, bạn biết chưa?](https://muctim.tuoitre.vn/hoi-chung-roi-loan-tien-bac-ban-biet-chua-101240316080426118.htm) - 01:52 22/03/2024
-- 🎉 [Ba Lan tranh vé dự Euro 2024 với Xứ Wales tại chung kết play-off](https://muctim.tuoitre.vn/ba-lan-tranh-ve-du-euro-2024-voi-xu-wales-tai-chung-ket-play-off-1012403220652066.htm) - 23:49 21/03/2024
-- 👨‍🏫 [Xếp hạng bảng F vòng loại World Cup 2026: Việt Nam dưới Iraq, Indonesia](https://muctim.tuoitre.vn/xep-hang-bang-f-vong-loai-world-cup-2026-viet-nam-duoi-iraq-indonesia-10124032206484511.htm) - 23:45 21/03/2024
-- 🚦 [Thời tiết hôm nay 22-3: Bắc Bộ hửng nắng, Nam Bộ khô hạn](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-22-3-bac-bo-hung-nang-nam-bo-kho-han-101240322064355839.htm) - 23:39 21/03/2024
-- 🤭 [Hạn chế lưu thông trên 3 tuyến đường tại Lễ hội Thanh niên](https://muctim.tuoitre.vn/han-che-luu-thong-tren-3-tuyen-duong-tai-le-hoi-thanh-nien-101240321194740886.htm) - 23:33 21/03/2024
-- 😺 [Gu thời trang sang chảnh của Kim Ji Won trong Queen of tears](https://muctim.tuoitre.vn/gu-thoi-trang-sang-chanh-cua-kim-ji-won-trong-queen-of-tears-101240321172137509.htm) - 23:24 21/03/2024
-- 😎 [Thứ Sáu của 12 cung hoàng đạo &lpar;22-3&rpar;: Kim Ngưu gặp may](https://muctim.tuoitre.vn/thu-sau-cua-12-cung-hoang-dao-22-3-kim-nguu-gap-may-101240322055335081.htm) - 22:36 21/03/2024
-- 🐎 [Phim mới của Triệu Lộ Tư, Châu Dã nhận phản ứng trái ngược](https://muctim.tuoitre.vn/phim-moi-cua-trieu-lo-tu-chau-da-nhan-phan-ung-trai-nguoc-101240321133259562.htm) - 13:00 21/03/2024
-- 🎓 [Gen Z đang làm gì trên mạng xã hội Threads?](https://muctim.tuoitre.vn/gen-z-dang-lam-gi-tren-mang-xa-hoi-threads-101240321143450481.htm) - 12:55 21/03/2024
-- 🐎 [Trang Pháp - Tôi làm gì cũng nghĩ đến cảm xúc của bố mẹ](https://muctim.tuoitre.vn/trang-phap-toi-lam-gi-cung-nghi-den-cam-xuc-cua-bo-me-101240320213645188.htm) - 12:42 21/03/2024
-- 💃 [Trào lưu flex điểm hài hước của các chiến thần gen Z](https://muctim.tuoitre.vn/trao-luu-flex-diem-hai-huoc-cua-cac-chien-than-gen-z-101240320142837091.htm) - 12:16 21/03/2024
-- 🪜 [Trở về tuổi thơ qua những sản phẩm thủ công của nhóm Heo Đất](https://muctim.tuoitre.vn/tro-ve-tuoi-tho-qua-nhung-san-pham-thu-cong-cua-nhom-heo-dat-10124031810425361.htm) - 12:08 21/03/2024
+- 🤔 [Gen Z Hà Hội thiết kế bộ Hàng Trống Tarot lấy cảm hứng từ tranh dân gian](https://muctim.tuoitre.vn/gen-z-ha-hoi-thiet-ke-bo-hang-trong-tarot-lay-cam-hung-tu-tranh-dan-gian-101240320185551127.htm) - 07:16 22/03/2024
+- 🥷 [Ngoài Dữ phượng hành, Triệu Lệ Dĩnh từng gây sốt với loạt phim này](https://muctim.tuoitre.vn/ngoai-du-phuong-hanh-trieu-le-dinh-tung-gay-sot-voi-loat-phim-nay-10124032212251997.htm) - 07:13 22/03/2024
+- 🤖 [Mỹ nam phim Exhuma Lee Do Hyun và bộ sưu tập vai diễn chất lượng](https://muctim.tuoitre.vn/my-nam-phim-exhuma-lee-do-hyun-va-bo-suu-tap-vai-dien-chat-luong-101240322092444035.htm) - 07:00 22/03/2024
+- 🤓 [Gia tài phim ảnh ấn tượng của Kim Yoo Jung trước My Demon và Chicken Nuggets](https://muctim.tuoitre.vn/gia-tai-phim-anh-an-tuong-cua-kim-yoo-jung-truoc-my-demon-va-chicken-nuggets-101240321222645264.htm) - 03:20 22/03/2024
+- 🎉 [Dân mạng bắt trend vẽ tranh minh họa Chuyện bốn mùa](https://muctim.tuoitre.vn/dan-mang-bat-trend-ve-tranh-minh-hoa-chuyen-bon-mua-101240321231600798.htm) - 03:08 22/03/2024
+- 👨‍🏫 [Bộ Giáo dục và Đào tạo công bố đề thi tham khảo năm 2024](https://muctim.tuoitre.vn/bo-giao-duc-va-dao-tao-cong-bo-de-thi-tham-khao-nam-2024-101240322090343615.htm) - 02:05 22/03/2024
+- 🚦 [Hội chứng rối loạn tiền bạc, bạn biết chưa?](https://muctim.tuoitre.vn/hoi-chung-roi-loan-tien-bac-ban-biet-chua-101240316080426118.htm) - 01:52 22/03/2024
+- 🤭 [Ba Lan tranh vé dự Euro 2024 với Xứ Wales tại chung kết play-off](https://muctim.tuoitre.vn/ba-lan-tranh-ve-du-euro-2024-voi-xu-wales-tai-chung-ket-play-off-1012403220652066.htm) - 23:49 21/03/2024
+- 😺 [Xếp hạng bảng F vòng loại World Cup 2026: Việt Nam dưới Iraq, Indonesia](https://muctim.tuoitre.vn/xep-hang-bang-f-vong-loai-world-cup-2026-viet-nam-duoi-iraq-indonesia-10124032206484511.htm) - 23:45 21/03/2024
+- 😎 [Thời tiết hôm nay 22-3: Bắc Bộ hửng nắng, Nam Bộ khô hạn](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-22-3-bac-bo-hung-nang-nam-bo-kho-han-101240322064355839.htm) - 23:39 21/03/2024
+- 🐎 [Hạn chế lưu thông trên 3 tuyến đường tại Lễ hội Thanh niên](https://muctim.tuoitre.vn/han-che-luu-thong-tren-3-tuyen-duong-tai-le-hoi-thanh-nien-101240321194740886.htm) - 23:33 21/03/2024
+- 🎓 [Gu thời trang sang chảnh của Kim Ji Won trong Queen of tears](https://muctim.tuoitre.vn/gu-thoi-trang-sang-chanh-cua-kim-ji-won-trong-queen-of-tears-101240321172137509.htm) - 23:24 21/03/2024
+- 🐎 [Thứ Sáu của 12 cung hoàng đạo &lpar;22-3&rpar;: Kim Ngưu gặp may](https://muctim.tuoitre.vn/thu-sau-cua-12-cung-hoang-dao-22-3-kim-nguu-gap-may-101240322055335081.htm) - 22:36 21/03/2024
+- 💃 [Phim mới của Triệu Lộ Tư, Châu Dã nhận phản ứng trái ngược](https://muctim.tuoitre.vn/phim-moi-cua-trieu-lo-tu-chau-da-nhan-phan-ung-trai-nguoc-101240321133259562.htm) - 13:00 21/03/2024
+- 🪜 [Gen Z đang làm gì trên mạng xã hội Threads?](https://muctim.tuoitre.vn/gen-z-dang-lam-gi-tren-mang-xa-hoi-threads-101240321143450481.htm) - 12:55 21/03/2024
+- 🎉 [Trang Pháp - Tôi làm gì cũng nghĩ đến cảm xúc của bố mẹ](https://muctim.tuoitre.vn/trang-phap-toi-lam-gi-cung-nghi-den-cam-xuc-cua-bo-me-101240320213645188.htm) - 12:42 21/03/2024
+- 🥳 [Trào lưu flex điểm hài hước của các chiến thần gen Z](https://muctim.tuoitre.vn/trao-luu-flex-diem-hai-huoc-cua-cac-chien-than-gen-z-101240320142837091.htm) - 12:16 21/03/2024
+- 🤓 [Trở về tuổi thơ qua những sản phẩm thủ công của nhóm Heo Đất](https://muctim.tuoitre.vn/tro-ve-tuoi-tho-qua-nhung-san-pham-thu-cong-cua-nhom-heo-dat-10124031810425361.htm) - 12:08 21/03/2024
 - 🎉 [Tìm về nét quê qua lễ hội ẩm thực tại Thảo Cầm Viên Sài Gòn](https://muctim.tuoitre.vn/tim-ve-net-que-qua-le-hoi-am-thuc-tai-thao-cam-vien-sai-gon-101240321154930856.htm) - 09:28 21/03/2024
 - 🥳 [Những lưu ý dành cho các liên đội tham gia Liên hoan Tiếng kèn đội ta](https://muctim.tuoitre.vn/nhung-luu-y-danh-cho-cac-lien-doi-tham-gia-lien-hoan-tieng-ken-doi-ta-101240319104553278.htm) - 08:58 21/03/2024
-- 🤓 [Cùng Làng tiên cá khám phá đại dương](https://muctim.tuoitre.vn/cung-lang-tien-ca-kham-pha-dai-duong-101240318094659619.htm) - 08:54 21/03/2024
-- 🎉 [Sao phim Reply 1988 Go Kyung Pyo xứng danh nam phụ quốc dân](https://muctim.tuoitre.vn/sao-phim-reply-1988-go-kyung-pyo-xung-danh-nam-phu-quoc-dan-101240321110119177.htm) - 08:52 21/03/2024
-- 🥳 [Tiêu Chiến, La Vân Hi, Lưu Thi Thi gây sốt với tạo hình cổ trang](https://muctim.tuoitre.vn/tieu-chien-la-van-hi-luu-thi-thi-gay-sot-voi-tao-hinh-co-trang-101240320212634213.htm) - 08:36 21/03/2024
-- 🎡 [Teen THPT Võ Văn Kiệt &lpar;Đắk Lắk&rpar; mở màn sân chơi Kỷ yếu 2K6](https://muctim.tuoitre.vn/teen-thpt-vo-van-kiet-dak-lak-mo-man-san-choi-ky-yeu-2k6-101240315095429419.htm) - 04:24 21/03/2024
-- 👨‍🏫 [Hướng đến kỷ niệm 70 năm Chiến thắng Điện Biên Phủ: tưng bừng &#39;vào trận&#39;](https://muctim.tuoitre.vn/huong-den-ky-niem-70-nam-chien-thang-dien-bien-phu-tung-bung-vao-tran-101240318155648537.htm) - 02:17 21/03/2024
-- 🧠 [Công bố 10 gương mặt trẻ Việt Nam tiêu biểu năm 2023](https://muctim.tuoitre.vn/cong-bo-10-guong-mat-tre-viet-nam-tieu-bieu-nam-2023-101240321091106824.htm) - 02:05 21/03/2024
-- 🥷 [Chúc mừng Đội ta được nhận giải thưởng Hồ Hảo Hớn!](https://muctim.tuoitre.vn/chuc-mung-doi-ta-duoc-nhan-giai-thuong-ho-hao-hon-101240320094009329.htm) - 01:55 21/03/2024
-- 🤔 [Truyện ngắn Mực Tím: Cậu là một bông hoa](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-cau-la-mot-bong-hoa-101240315175800619.htm) - 01:53 21/03/2024
-- 🐎 [Tình bạn diệu kỳ của Ngọc và Ngân](https://muctim.tuoitre.vn/tinh-ban-dieu-ky-cua-ngoc-va-ngan-101240318161421648.htm) - 23:35 20/03/2024
-- ⛽️ [TP.HCM dự kiến tăng nguyện vọng vào lớp 10 chuyên và tích hợp](https://muctim.tuoitre.vn/tphcm-du-kien-tang-nguyen-vong-vao-lop-10-chuyen-va-tich-hop-101240321063627991.htm) - 23:32 20/03/2024
-- 🤡 [Phản ứng nhanh như đội sơ cấp cứu Trường THPT Đào Sơn Tây](https://muctim.tuoitre.vn/phan-ung-nhanh-nhu-doi-so-cap-cuu-truong-thpt-dao-son-tay-101240315101813171.htm) - 23:29 20/03/2024
-- 🌁 [Lịch trực tiếp Indonesia gặp Việt Nam ở vòng loại World Cup 2026](https://muctim.tuoitre.vn/lich-truc-tiep-indonesia-gap-viet-nam-o-vong-loai-world-cup-2026-101240321062805607.htm) - 23:25 20/03/2024
-- 🎓 [U23 Việt Nam thắng sát nút U23 Tajikistan](https://muctim.tuoitre.vn/u23-viet-nam-thang-sat-nut-u23-tajikistan-101240321062434445.htm) - 23:20 20/03/2024
-- 🦍 [Thời tiết hôm nay 21-3: Nắng nóng ở Nam Bộ giảm nhiệt, xâm nhập mặn gay gắt](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-21-3-nang-nong-o-nam-bo-giam-nhiet-xam-nhap-man-gay-gat-10124032106195132.htm) - 23:16 20/03/2024
-- 🤠 [Thứ Năm của 12 cung hoàng đạo &lpar;21-3&rpar;: Điều Bọ Cạp cần](https://muctim.tuoitre.vn/thu-nam-cua-12-cung-hoang-dao-21-3-dieu-bo-cap-can-101240321061352161.htm) - 23:02 20/03/2024
-- 🎬 [Nhóm LIME lần đầu tái hợp trong MV của Suni Hạ Linh sau 5 năm tan rã](https://muctim.tuoitre.vn/nhom-lime-lan-dau-tai-hop-trong-mv-cua-suni-ha-linh-sau-5-nam-tan-ra-10124032022071281.htm) - 16:26 20/03/2024
-- 🌮 [Hoa hậu Thùy Tiên làm nhân tượng để kiếm tiền; Lyly ra mắt MV lấy cảm hứng từ phim Mai](https://muctim.tuoitre.vn/hoa-hau-thuy-tien-lam-nhan-tuong-de-kiem-tien-lyly-ra-mat-mv-lay-cam-hung-tu-phim-mai-101240320205333338.htm) - 16:23 20/03/2024
-- 👹 [Bí mật 12 cung hoàng đạo: Áp lực điểm 10](https://muctim.tuoitre.vn/bi-mat-12-cung-hoang-dao-ap-luc-diem-10-101240318140758958.htm) - 15:25 20/03/2024
-- 🤔 [Những bài hát gây &#39;thương nhớ&#39; của Ngọt Band](https://muctim.tuoitre.vn/nhung-bai-hat-gay-thuong-nho-cua-ngot-band-101240320210945016.htm) - 15:05 20/03/2024
-- 🏊 [Quận Đoàn 3 tổ chức Ngày hội Tự hào một dải non sông](https://muctim.tuoitre.vn/quan-doan-3-to-chuc-ngay-hoi-tu-hao-mot-dai-non-song-10124031509230414.htm) - 14:42 20/03/2024
-- 📝 [Ngày Quốc tế Hạnh phúc được tổ chức lần đầu tiên khi nào?](https://muctim.tuoitre.vn/ngay-quoc-te-hanh-phuc-duoc-to-chuc-lan-dau-tien-khi-nao-101240320140913875.htm) - 14:24 20/03/2024
-- 👺 [Bị chó cưng quào, phải chích ngừa 5 mũi phòng bệnh dại](https://muctim.tuoitre.vn/bi-cho-cung-quao-phai-chich-ngua-5-mui-phong-benh-dai-10124031915520412.htm) - 14:13 20/03/2024
-- 👹 [Lê Bống nỗ lực cải thiện hình ảnh, được khen khi đóng phim](https://muctim.tuoitre.vn/le-bong-no-luc-cai-thien-hinh-anh-duoc-khen-khi-dong-phim-101240320191726007.htm) - 14:08 20/03/2024
-- 🎊 [Harry Lu gia trưởng, Lê Hải lo cho em, bạn chọn tổng tài nào?](https://muctim.tuoitre.vn/harry-lu-gia-truong-le-hai-lo-cho-em-ban-chon-tong-tai-nao-101240320172252121.htm) - 14:07 20/03/2024
-- 👹 [Hai phim Dương Mịch đóng chính sắp lên sóng](https://muctim.tuoitre.vn/hai-phim-duong-mich-dong-chinh-sap-len-song-101240320135941822.htm) - 14:03 20/03/2024
-- 🎃 [Nhân Ngày Quốc tế Hạnh phúc, xem ngay 5 phim Hàn có kết thúc viên mãn này](https://muctim.tuoitre.vn/nhan-ngay-quoc-te-hanh-phuc-xem-ngay-5-phim-han-co-ket-thuc-vien-man-nay-101240320104915161.htm) - 08:28 20/03/2024
-- 🧑‍🏫 [Ngày Quốc tế Hạnh phúc: Điều gì khiến bạn hạnh phúc mỗi ngày?](https://muctim.tuoitre.vn/ngay-quoc-te-hanh-phuc-dieu-gi-khien-ban-hanh-phuc-moi-ngay-101240320110512613.htm) - 08:26 20/03/2024
-- 🎊 [Thiện Nhân: &#39;Tôi không ngại khi bị so sánh với Phương Mỹ Chi&#39;](https://muctim.tuoitre.vn/thien-nhan-toi-khong-ngai-khi-bi-so-sanh-voi-phuong-my-chi-101240318101803417.htm) - 08:26 20/03/2024
-- 📝 [Nam Bộ đang mùa nóng, làm sao tránh ngộ độc thực phẩm?](https://muctim.tuoitre.vn/nam-bo-dang-mua-nong-lam-sao-tranh-ngo-doc-thuc-pham-101240320062923417.htm) - 23:29 19/03/2024
-- 🥳 [Tin tức thể thao sáng 20-3: Sao trẻ Man United được gọi vào tuyển Anh](https://muctim.tuoitre.vn/tin-tuc-the-thao-sang-20-3-sao-tre-man-united-duoc-goi-vao-tuyen-anh-101240320062009616.htm) - 23:15 19/03/2024
-- 💻 [Thời tiết hôm nay 20-3: Vùng mưa to dịch vào Bắc Trung Bộ; Nha Trang đến Cà Mau nắng](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-20-3-vung-mua-to-dich-vao-bac-trung-bo-nha-trang-den-ca-mau-nang-101240320061510579.htm) - 23:11 19/03/2024
-- 😎 [Mỹ nam Lưu Học Nghĩa tỏa sáng nhờ Hoa gian lệnh](https://muctim.tuoitre.vn/my-nam-luu-hoc-nghia-toa-sang-nho-hoa-gian-lenh-101240319222754288.htm) - 23:07 19/03/2024
-- 🤭 [Săn vé xem miễn phí phim Đào, phở và piano tại Lễ hội Thanh niên](https://muctim.tuoitre.vn/san-ve-xem-mien-phi-phim-dao-pho-va-piano-tai-le-hoi-thanh-nien-101240319141912087.htm) - 22:58 19/03/2024
-- 🤩 [Thứ Tư của 12 cung hoàng đạo &lpar;20-3&rpar;: Ma Kết cần tự tin hơn](https://muctim.tuoitre.vn/thu-tu-cua-12-cung-hoang-dao-20-3-ma-ket-can-tu-tin-hon-101240320055711167.htm) - 22:49 19/03/2024
-- 🚀 [Phiên chợ lá nghĩa tình tại quận 5](https://muctim.tuoitre.vn/phien-cho-la-nghia-tinh-tai-quan-5-101240319205555342.htm) - 14:47 19/03/2024
-- 🕴 [Tham dự Ngày hội Tự tin bước vào lớp 10, nhận luôn học bổng 100% học phí](https://muctim.tuoitre.vn/tham-du-ngay-hoi-tu-tin-buoc-vao-lop-10-nhan-luon-hoc-bong-100-101240319180906972.htm) - 13:12 19/03/2024
-- ⛽️ [Ngọt Band bất ngờ thông báo dừng biểu diễn](https://muctim.tuoitre.vn/ngot-band-bat-ngo-thong-bao-dung-bieu-dien-101240319170432362.htm) - 13:07 19/03/2024
-- 🧐 [Những câu thoại hay về tình yêu trong Reply 1988](https://muctim.tuoitre.vn/nhung-cau-thoai-hay-ve-tinh-yeu-trong-reply-1988-10124031916335939.htm) - 13:03 19/03/2024
-- 🦆 [Những bất ngờ thú vị về Dữ phượng hành của Triệu Lệ Dĩnh](https://muctim.tuoitre.vn/nhung-bat-ngo-thu-vi-ve-du-phuong-hanh-cua-trieu-le-dinh-101240319151045853.htm) - 10:06 19/03/2024
-- 🤖 [Những ẩn số trong phim Queen Of Tears khiến khán giả tò mò](https://muctim.tuoitre.vn/nhung-an-so-trong-phim-queen-of-tears-khien-khan-gia-to-mo-101240319161905275.htm) - 10:04 19/03/2024
-- 💃 [Truyện ngắn Mực Tím: Cảm ơn cậu, vitamin của tớ](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-cam-on-cau-vitamin-cua-to-101240315183101947.htm) - 07:15 19/03/2024
-- 🚀 [Xem 2 trận Việt Nam đấu Indonesia trên kênh nào?](https://muctim.tuoitre.vn/xem-2-tran-viet-nam-dau-indonesia-tren-kenh-nao-101240319141120248.htm) - 07:06 19/03/2024
-- 🦍 [Quy định mới về tuyển thẳng vào lớp 10 ở TP.HCM](https://muctim.tuoitre.vn/quy-dinh-moi-ve-tuyen-thang-vao-lop-10-o-tphcm-101240319140655875.htm) - 07:02 19/03/2024<!-- muctim:END -->
+- 🎡 [Cùng Làng tiên cá khám phá đại dương](https://muctim.tuoitre.vn/cung-lang-tien-ca-kham-pha-dai-duong-101240318094659619.htm) - 08:54 21/03/2024
+- 👨‍🏫 [Sao phim Reply 1988 Go Kyung Pyo xứng danh nam phụ quốc dân](https://muctim.tuoitre.vn/sao-phim-reply-1988-go-kyung-pyo-xung-danh-nam-phu-quoc-dan-101240321110119177.htm) - 08:52 21/03/2024
+- 🧠 [Tiêu Chiến, La Vân Hi, Lưu Thi Thi gây sốt với tạo hình cổ trang](https://muctim.tuoitre.vn/tieu-chien-la-van-hi-luu-thi-thi-gay-sot-voi-tao-hinh-co-trang-101240320212634213.htm) - 08:36 21/03/2024
+- 🥷 [Teen THPT Võ Văn Kiệt &lpar;Đắk Lắk&rpar; mở màn sân chơi Kỷ yếu 2K6](https://muctim.tuoitre.vn/teen-thpt-vo-van-kiet-dak-lak-mo-man-san-choi-ky-yeu-2k6-101240315095429419.htm) - 04:24 21/03/2024
+- 🤔 [Hướng đến kỷ niệm 70 năm Chiến thắng Điện Biên Phủ: tưng bừng &#39;vào trận&#39;](https://muctim.tuoitre.vn/huong-den-ky-niem-70-nam-chien-thang-dien-bien-phu-tung-bung-vao-tran-101240318155648537.htm) - 02:17 21/03/2024
+- 🐎 [Công bố 10 gương mặt trẻ Việt Nam tiêu biểu năm 2023](https://muctim.tuoitre.vn/cong-bo-10-guong-mat-tre-viet-nam-tieu-bieu-nam-2023-101240321091106824.htm) - 02:05 21/03/2024
+- ⛽️ [Chúc mừng Đội ta được nhận giải thưởng Hồ Hảo Hớn!](https://muctim.tuoitre.vn/chuc-mung-doi-ta-duoc-nhan-giai-thuong-ho-hao-hon-101240320094009329.htm) - 01:55 21/03/2024
+- 🤡 [Truyện ngắn Mực Tím: Cậu là một bông hoa](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-cau-la-mot-bong-hoa-101240315175800619.htm) - 01:53 21/03/2024
+- 🌁 [Tình bạn diệu kỳ của Ngọc và Ngân](https://muctim.tuoitre.vn/tinh-ban-dieu-ky-cua-ngoc-va-ngan-101240318161421648.htm) - 23:35 20/03/2024
+- 🎓 [TP.HCM dự kiến tăng nguyện vọng vào lớp 10 chuyên và tích hợp](https://muctim.tuoitre.vn/tphcm-du-kien-tang-nguyen-vong-vao-lop-10-chuyen-va-tich-hop-101240321063627991.htm) - 23:32 20/03/2024
+- 🦍 [Phản ứng nhanh như đội sơ cấp cứu Trường THPT Đào Sơn Tây](https://muctim.tuoitre.vn/phan-ung-nhanh-nhu-doi-so-cap-cuu-truong-thpt-dao-son-tay-101240315101813171.htm) - 23:29 20/03/2024
+- 🤠 [Lịch trực tiếp Indonesia gặp Việt Nam ở vòng loại World Cup 2026](https://muctim.tuoitre.vn/lich-truc-tiep-indonesia-gap-viet-nam-o-vong-loai-world-cup-2026-101240321062805607.htm) - 23:25 20/03/2024
+- 🎬 [U23 Việt Nam thắng sát nút U23 Tajikistan](https://muctim.tuoitre.vn/u23-viet-nam-thang-sat-nut-u23-tajikistan-101240321062434445.htm) - 23:20 20/03/2024
+- 🌮 [Thời tiết hôm nay 21-3: Nắng nóng ở Nam Bộ giảm nhiệt, xâm nhập mặn gay gắt](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-21-3-nang-nong-o-nam-bo-giam-nhiet-xam-nhap-man-gay-gat-10124032106195132.htm) - 23:16 20/03/2024
+- 👹 [Thứ Năm của 12 cung hoàng đạo &lpar;21-3&rpar;: Điều Bọ Cạp cần](https://muctim.tuoitre.vn/thu-nam-cua-12-cung-hoang-dao-21-3-dieu-bo-cap-can-101240321061352161.htm) - 23:02 20/03/2024
+- 🤔 [Nhóm LIME lần đầu tái hợp trong MV của Suni Hạ Linh sau 5 năm tan rã](https://muctim.tuoitre.vn/nhom-lime-lan-dau-tai-hop-trong-mv-cua-suni-ha-linh-sau-5-nam-tan-ra-10124032022071281.htm) - 16:26 20/03/2024
+- 🏊 [Hoa hậu Thùy Tiên làm nhân tượng để kiếm tiền; Lyly ra mắt MV lấy cảm hứng từ phim Mai](https://muctim.tuoitre.vn/hoa-hau-thuy-tien-lam-nhan-tuong-de-kiem-tien-lyly-ra-mat-mv-lay-cam-hung-tu-phim-mai-101240320205333338.htm) - 16:23 20/03/2024
+- 📝 [Bí mật 12 cung hoàng đạo: Áp lực điểm 10](https://muctim.tuoitre.vn/bi-mat-12-cung-hoang-dao-ap-luc-diem-10-101240318140758958.htm) - 15:25 20/03/2024
+- 👺 [Những bài hát gây &#39;thương nhớ&#39; của Ngọt Band](https://muctim.tuoitre.vn/nhung-bai-hat-gay-thuong-nho-cua-ngot-band-101240320210945016.htm) - 15:05 20/03/2024
+- 👹 [Quận Đoàn 3 tổ chức Ngày hội Tự hào một dải non sông](https://muctim.tuoitre.vn/quan-doan-3-to-chuc-ngay-hoi-tu-hao-mot-dai-non-song-10124031509230414.htm) - 14:42 20/03/2024
+- 🎊 [Ngày Quốc tế Hạnh phúc được tổ chức lần đầu tiên khi nào?](https://muctim.tuoitre.vn/ngay-quoc-te-hanh-phuc-duoc-to-chuc-lan-dau-tien-khi-nao-101240320140913875.htm) - 14:24 20/03/2024
+- 👹 [Bị chó cưng quào, phải chích ngừa 5 mũi phòng bệnh dại](https://muctim.tuoitre.vn/bi-cho-cung-quao-phai-chich-ngua-5-mui-phong-benh-dai-10124031915520412.htm) - 14:13 20/03/2024
+- 🎃 [Lê Bống nỗ lực cải thiện hình ảnh, được khen khi đóng phim](https://muctim.tuoitre.vn/le-bong-no-luc-cai-thien-hinh-anh-duoc-khen-khi-dong-phim-101240320191726007.htm) - 14:08 20/03/2024
+- 🧑‍🏫 [Harry Lu gia trưởng, Lê Hải lo cho em, bạn chọn tổng tài nào?](https://muctim.tuoitre.vn/harry-lu-gia-truong-le-hai-lo-cho-em-ban-chon-tong-tai-nao-101240320172252121.htm) - 14:07 20/03/2024
+- 🎊 [Hai phim Dương Mịch đóng chính sắp lên sóng](https://muctim.tuoitre.vn/hai-phim-duong-mich-dong-chinh-sap-len-song-101240320135941822.htm) - 14:03 20/03/2024
+- 📝 [Nhân Ngày Quốc tế Hạnh phúc, xem ngay 5 phim Hàn có kết thúc viên mãn này](https://muctim.tuoitre.vn/nhan-ngay-quoc-te-hanh-phuc-xem-ngay-5-phim-han-co-ket-thuc-vien-man-nay-101240320104915161.htm) - 08:28 20/03/2024
+- 🥳 [Ngày Quốc tế Hạnh phúc: Điều gì khiến bạn hạnh phúc mỗi ngày?](https://muctim.tuoitre.vn/ngay-quoc-te-hanh-phuc-dieu-gi-khien-ban-hanh-phuc-moi-ngay-101240320110512613.htm) - 08:26 20/03/2024
+- 💻 [Thiện Nhân: &#39;Tôi không ngại khi bị so sánh với Phương Mỹ Chi&#39;](https://muctim.tuoitre.vn/thien-nhan-toi-khong-ngai-khi-bi-so-sanh-voi-phuong-my-chi-101240318101803417.htm) - 08:26 20/03/2024
+- 😎 [Nam Bộ đang mùa nóng, làm sao tránh ngộ độc thực phẩm?](https://muctim.tuoitre.vn/nam-bo-dang-mua-nong-lam-sao-tranh-ngo-doc-thuc-pham-101240320062923417.htm) - 23:29 19/03/2024
+- 🤭 [Tin tức thể thao sáng 20-3: Sao trẻ Man United được gọi vào tuyển Anh](https://muctim.tuoitre.vn/tin-tuc-the-thao-sang-20-3-sao-tre-man-united-duoc-goi-vao-tuyen-anh-101240320062009616.htm) - 23:15 19/03/2024
+- 🤩 [Thời tiết hôm nay 20-3: Vùng mưa to dịch vào Bắc Trung Bộ; Nha Trang đến Cà Mau nắng](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-20-3-vung-mua-to-dich-vao-bac-trung-bo-nha-trang-den-ca-mau-nang-101240320061510579.htm) - 23:11 19/03/2024
+- 🚀 [Mỹ nam Lưu Học Nghĩa tỏa sáng nhờ Hoa gian lệnh](https://muctim.tuoitre.vn/my-nam-luu-hoc-nghia-toa-sang-nho-hoa-gian-lenh-101240319222754288.htm) - 23:07 19/03/2024
+- 🕴 [Săn vé xem miễn phí phim Đào, phở và piano tại Lễ hội Thanh niên](https://muctim.tuoitre.vn/san-ve-xem-mien-phi-phim-dao-pho-va-piano-tai-le-hoi-thanh-nien-101240319141912087.htm) - 22:58 19/03/2024
+- ⛽️ [Thứ Tư của 12 cung hoàng đạo &lpar;20-3&rpar;: Ma Kết cần tự tin hơn](https://muctim.tuoitre.vn/thu-tu-cua-12-cung-hoang-dao-20-3-ma-ket-can-tu-tin-hon-101240320055711167.htm) - 22:49 19/03/2024
+- 🧐 [Phiên chợ lá nghĩa tình tại quận 5](https://muctim.tuoitre.vn/phien-cho-la-nghia-tinh-tai-quan-5-101240319205555342.htm) - 14:47 19/03/2024
+- 🦆 [Tham dự Ngày hội Tự tin bước vào lớp 10, nhận luôn học bổng 100% học phí](https://muctim.tuoitre.vn/tham-du-ngay-hoi-tu-tin-buoc-vao-lop-10-nhan-luon-hoc-bong-100-101240319180906972.htm) - 13:12 19/03/2024
+- 🤖 [Ngọt Band bất ngờ thông báo dừng biểu diễn](https://muctim.tuoitre.vn/ngot-band-bat-ngo-thong-bao-dung-bieu-dien-101240319170432362.htm) - 13:07 19/03/2024
+- 💃 [Những câu thoại hay về tình yêu trong Reply 1988](https://muctim.tuoitre.vn/nhung-cau-thoai-hay-ve-tinh-yeu-trong-reply-1988-10124031916335939.htm) - 13:03 19/03/2024
+- 🚀 [Những bất ngờ thú vị về Dữ phượng hành của Triệu Lệ Dĩnh](https://muctim.tuoitre.vn/nhung-bat-ngo-thu-vi-ve-du-phuong-hanh-cua-trieu-le-dinh-101240319151045853.htm) - 10:06 19/03/2024
+- 🦍 [Những ẩn số trong phim Queen Of Tears khiến khán giả tò mò](https://muctim.tuoitre.vn/nhung-an-so-trong-phim-queen-of-tears-khien-khan-gia-to-mo-101240319161905275.htm) - 10:04 19/03/2024<!-- muctim:END -->
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
