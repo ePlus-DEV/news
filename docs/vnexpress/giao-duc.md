@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Chốt lịch thi tốt nghiệp THPT 2024](https://vnexpress.net/chot-lich-thi-tot-nghiep-thpt-2024-4725058.html) - 09:09 22/03/2024
+- 🤓 [Công bố lịch thi tốt nghiệp THPT 2024](https://vnexpress.net/cong-bo-lich-thi-tot-nghiep-thpt-2024-4725058.html) - 09:09 22/03/2024
 - 🦆 [Hà Nội yêu cầu trường học không thu tiền giữ chỗ](https://vnexpress.net/ha-noi-yeu-cau-truong-hoc-khong-thu-tien-giu-cho-4725405.html) - 06:34 22/03/2024
 - 🦩 [Australia bắt đầu siết thị thực du học](https://vnexpress.net/australia-bat-dau-siet-thi-thuc-du-hoc-4725335.html) - 04:28 22/03/2024
 - 🌮 [Việt Nam trong top 5 tỷ lệ tăng trường quốc tế](https://vnexpress.net/viet-nam-trong-top-5-ty-le-tang-truong-quoc-te-4725240.html) - 03:02 22/03/2024
