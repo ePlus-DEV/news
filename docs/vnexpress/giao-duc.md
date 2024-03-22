@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Australia bắt đầu siết thị thực du học sinh](https://vnexpress.net/australia-bat-dau-siet-thi-thuc-du-hoc-sinh-4725335.html) - 04:28 22/03/2024
+- 🤓 [Australia bắt đầu siết thị thực du học](https://vnexpress.net/australia-bat-dau-siet-thi-thuc-du-hoc-4725335.html) - 04:28 22/03/2024
 - 🦆 [Việt Nam trong top 5 tỷ lệ tăng trường quốc tế](https://vnexpress.net/viet-nam-trong-top-5-ty-le-tang-truong-quoc-te-4725240.html) - 03:02 22/03/2024
 - 🦩 [Công bố đề tham khảo thi tốt nghiệp THPT 2024](https://vnexpress.net/cong-bo-de-tham-khao-thi-tot-nghiep-thpt-2024-4725249.html) - 01:33 22/03/2024
 - 🌮 [Nam sinh đỗ học bổng Đại học Quốc gia Singapore nhờ học thêm Toán](https://vnexpress.net/nam-sinh-do-hoc-bong-dai-hoc-quoc-gia-singapore-nho-hoc-them-toan-4723804.html) - 23:00 21/03/2024
