@@ -32,7 +32,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌏 [Mỗi cửa hàng Bách Hóa Xanh thu 1,8 tỷ đồng một tháng](https://vnexpress.net/moi-cua-hang-bach-hoa-xanh-thu-1-8-ty-dong-mot-thang-4725610.html) - 15:33 22/03/2024
 - 🧐 [Thanh Thủy thi Miss International 2024](https://vnexpress.net/thanh-thuy-thi-miss-international-2024-4725626.html) - 15:33 22/03/2024
 - 💫 [Dự thảo của Mỹ về Gaza bị phủ quyết ở Hội đồng Bảo an](https://vnexpress.net/du-thao-cua-my-ve-gaza-bi-phu-quyet-o-hoi-dong-bao-an-4725631.html) - 15:17 22/03/2024
-- 😺 [Sáu thiếu niên cướp bằng &#39;dao phóng lợn&#39; bị khởi tố](https://vnexpress.net/sau-thieu-nien-cuop-bang-dao-phong-lon-bi-khoi-to-4725625.html) - 15:16 22/03/2024
+- 😺 [Nhóm cướp bằng &#39;dao phóng lợn&#39; bị khởi tố](https://vnexpress.net/nhom-cuop-bang-dao-phong-lon-bi-khoi-to-4725625.html) - 15:16 22/03/2024
 - 🕯 [Ba người bị khởi tố vì sai phạm đấu thầu tại Bệnh viện Vũng Tàu](https://vnexpress.net/ba-nguoi-bi-khoi-to-vi-sai-pham-dau-thau-tai-benh-vien-vung-tau-4725624.html) - 14:56 22/03/2024
 - 💃 [Đa số người Nhật không muốn sống đến 100 tuổi](https://vnexpress.net/da-so-nguoi-nhat-khong-muon-song-den-100-tuoi-4725520.html) - 14:51 22/03/2024
 - 💂 [Nga lần đầu tuyên bố trong tình trạng chiến tranh với Ukraine](https://vnexpress.net/nga-lan-dau-tuyen-bo-trong-tinh-trang-chien-tranh-voi-ukraine-4725612.html) - 14:32 22/03/2024
