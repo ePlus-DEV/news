@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Công bố lịch thi tốt nghiệp THPT 2024](https://vnexpress.net/cong-bo-lich-thi-tot-nghiep-thpt-2024-4725058.html) - 09:09 22/03/2024
+- 🤓 [Chốt lịch thi tốt nghiệp THPT 2024](https://vnexpress.net/chot-lich-thi-tot-nghiep-thpt-2024-4725058.html) - 09:09 22/03/2024
 - 🦆 [Hà Nội yêu cầu trường học không thu tiền giữ chỗ](https://vnexpress.net/ha-noi-yeu-cau-truong-hoc-khong-thu-tien-giu-cho-4725405.html) - 06:34 22/03/2024
 - 🦩 [Australia bắt đầu siết thị thực du học](https://vnexpress.net/australia-bat-dau-siet-thi-thuc-du-hoc-4725335.html) - 04:28 22/03/2024
 - 🌮 [Việt Nam trong top 5 tỷ lệ tăng trường quốc tế](https://vnexpress.net/viet-nam-trong-top-5-ty-le-tang-truong-quoc-te-4725240.html) - 03:02 22/03/2024
@@ -16,7 +16,7 @@ sidebar_position: 7
 - 🦆 [4 từ vựng mô tả về người thú vị](https://vnexpress.net/4-tu-vung-mo-ta-ve-nguoi-thu-vi-4725145.html) - 12:21 21/03/2024
 - 🧰 [Sở Giáo dục TP HCM: &#39;Trường Quốc tế Mỹ chưa hợp tác&#39;](https://vnexpress.net/so-giao-duc-tp-hcm-truong-quoc-te-my-chua-hop-tac-4725031.html) - 10:00 21/03/2024
 - 🐘 [Tăng gần 1.000 chỉ tiêu vào 17 trường quân đội](https://vnexpress.net/tang-gan-1-000-chi-tieu-vao-17-truong-quan-doi-4725084.html) - 09:17 21/03/2024
-- 🤓 [Xác minh vụ hiệu trưởng đánh học sinh chảy máu đầu](https://vnexpress.net/xac-minh-vu-hieu-truong-danh-hoc-sinh-chay-mau-dau-4724898.html) - 06:07 21/03/2024
+- 🤓 [Hiệu trưởng làm học sinh chảy máu đầu](https://vnexpress.net/hieu-truong-lam-hoc-sinh-chay-mau-dau-4724898.html) - 06:07 21/03/2024
 - 🧰 [Tranh cãi vì yêu cầu học sinh học toán cao cấp](https://vnexpress.net/tranh-cai-vi-yeu-cau-hoc-sinh-hoc-toan-cao-cap-4724614.html) - 04:42 21/03/2024
 - 🧑‍💻 [Bốn học sinh một lớp trúng tuyển đại học hàng đầu châu Á](https://vnexpress.net/bon-hoc-sinh-mot-lop-trung-tuyen-dai-hoc-hang-dau-chau-a-4724492.html) - 00:58 21/03/2024
 - 🫶 [Nam sinh 17 tuổi giành suất đến Mỹ thi giao dịch chứng khoán](https://vnexpress.net/nam-sinh-17-tuoi-gianh-suat-den-my-thi-giao-dich-chung-khoan-4724419.html) - 22:12 20/03/2024
