@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hơn 34 triệu lao động chưa có thông tin](https://vnexpress.net/hon-34-trieu-lao-dong-chua-co-thong-tin-4725515.html) - 11:17 22/03/2024
+- 🦒 [Hơn 34 triệu lao động khó tiếp cận chính sách xã hội](https://vnexpress.net/hon-34-trieu-lao-dong-kho-tiep-can-chinh-sach-xa-hoi-4725515.html) - 11:17 22/03/2024
 - 🤓 [Nắng nóng năm nay sẽ gay gắt hơn](https://vnexpress.net/nang-nong-nam-nay-se-gay-gat-hon-4725446.html) - 10:38 22/03/2024
 - ⚗️ [Tông xe liên hoàn, cao tốc Trung Lương ùn tắc 5 km](https://vnexpress.net/tong-xe-lien-hoan-cao-toc-trung-luong-un-tac-5-km-4725574.html) - 10:29 22/03/2024
 - 🌊 [Cả nước có 10 trường hợp trên 50% phiếu tín nhiệm thấp](https://vnexpress.net/ca-nuoc-co-10-truong-hop-tren-50-phieu-tin-nhiem-thap-4725522.html) - 09:09 22/03/2024
