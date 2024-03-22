@@ -4,9 +4,9 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Việt Nam trong top 5 mở nhiều trường quốc tế nhất](https://vnexpress.net/viet-nam-trong-top-5-mo-nhieu-truong-quoc-te-nhat-4725240.html) - 03:02 22/03/2024
+- 🤓 [Việt Nam trong top 5 tỷ lệ tăng trường quốc tế](https://vnexpress.net/viet-nam-trong-top-5-ty-le-tang-truong-quoc-te-4725240.html) - 03:02 22/03/2024
 - 🦆 [Công bố đề tham khảo thi tốt nghiệp THPT 2024](https://vnexpress.net/cong-bo-de-tham-khao-thi-tot-nghiep-thpt-2024-4725249.html) - 01:33 22/03/2024
-- 🦩 [Nam sinh học thêm 4 môn Toán, đỗ học bổng trường top 8 thế giới](https://vnexpress.net/nam-sinh-hoc-them-4-mon-toan-do-hoc-bong-truong-top-8-the-gioi-4723804.html) - 23:00 21/03/2024
+- 🦩 [Nam sinh đỗ học bổng Đại học Quốc gia Singapore nhờ học thêm Toán](https://vnexpress.net/nam-sinh-do-hoc-bong-dai-hoc-quoc-gia-singapore-nho-hoc-them-toan-4723804.html) - 23:00 21/03/2024
 - 🌮 [Giáo sư Toán livestream dạy học cùng diễn viên hài](https://vnexpress.net/giao-su-toan-livestream-day-hoc-cung-dien-vien-hai-4725080.html) - 14:33 21/03/2024
 - 🔭 [Thác nước K50 ở tỉnh nào?](https://vnexpress.net/thac-nuoc-k50-o-tinh-nao-4725115.html) - 13:00 21/03/2024
 - 💡 [Chuyên gia chia sẻ về kinh tế số, phát triển du lịch bền vững](https://vnexpress.net/chuyen-gia-chia-se-ve-kinh-te-so-phat-trien-du-lich-ben-vung-4725143.html) - 13:00 21/03/2024
