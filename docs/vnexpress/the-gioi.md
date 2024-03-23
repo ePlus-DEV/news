@@ -19,7 +19,7 @@ sidebar_position: 2
 - 🥰 [Hiện trường vụ khủng bố nhà hát ngoại ô Moskva](https://vnexpress.net/hien-truong-vu-khung-bo-nha-hat-ngoai-o-moskva-4725673.html) - 01:22 23/03/2024
 - 🔥 [Cộng đồng quốc tế lên án vụ khủng bố ở Nga](https://vnexpress.net/cong-dong-quoc-te-len-an-vu-khung-bo-o-nga-4725661.html) - 01:13 23/03/2024
 - 🥳 [Vương phi Kate mắc ung thư](https://vnexpress.net/vuong-phi-kate-mac-ung-thu-4725651.html) - 23:46 22/03/2024
-- 💼 [IS tấn công khủng bố ở Nga, ít nhất 60 người chết](https://vnexpress.net/tan-cong-khung-bo-gan-moskva-it-nhat-60-nguoi-chet-4725650.html) - 23:03 22/03/2024
+- 💼 [Tấn công khủng bố ở Nga, ít nhất 60 người chết](https://vnexpress.net/tan-cong-khung-bo-gan-moskva-it-nhat-60-nguoi-chet-4725650.html) - 23:03 22/03/2024
 - 🤡 [Chiến dịch gây quỹ của Trump hụt hơi giữa rắc rối tiền phạt](https://vnexpress.net/chien-dich-gay-quy-cua-trump-hut-hoi-giua-rac-roi-tien-phat-4725221.html) - 17:00 22/03/2024
 - 🌁 [Nghị sĩ Cộng hòa yêu cầu phế truất Chủ tịch Hạ viện Mỹ](https://vnexpress.net/nghi-si-cong-hoa-yeu-cau-phe-truat-chu-tich-ha-vien-my-4725642.html) - 16:44 22/03/2024
 - 🤩 [Dự thảo của Mỹ về Gaza bị phủ quyết ở Hội đồng Bảo an](https://vnexpress.net/du-thao-cua-my-ve-gaza-bi-phu-quyet-o-hoi-dong-bao-an-4725631.html) - 15:17 22/03/2024
