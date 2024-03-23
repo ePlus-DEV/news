@@ -253,7 +253,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [4 người đàn ông dừng xe ôtô ở làn khẩn cấp trên cao tốc để đánh bạc](https://nld.com.vn/4-nguoi-dan-ong-dung-xe-oto-o-lan-khan-cap-tren-cao-toc-de-danh-bac-196240323193133626.htm) - 13:04 23/03/2024
+- 🐎 [4 người đàn ông dừng ôtô ở làn khẩn cấp trên cao tốc để... đánh bạc](https://nld.com.vn/4-nguoi-dan-ong-dung-xe-oto-o-lan-khan-cap-tren-cao-toc-de-danh-bac-196240323193133626.htm) - 13:04 23/03/2024
 - 😺 [Quốc Thiên được fan nữ tỏ tình vì quá yêu ngay trên sân khấu](https://nld.com.vn/quoc-thien-duoc-fan-nu-to-tinh-vi-qua-yeu-ngay-tren-san-khau-196240323182150679.htm) - 13:02 23/03/2024
 - 👍 [Lãnh đạo TP HCM và trận cầu ý nghĩa trên sân Thống Nhất](https://nld.com.vn/lanh-dao-tp-hcm-va-tran-cau-y-nghia-tren-san-thong-nhat-196240323184637916.htm) - 13:01 23/03/2024
 - 🥷 [Ông Bill Clinton suýt bị ám sát trên cương vị tổng thống Mỹ](https://nld.com.vn/ong-bill-clinton-suyt-bi-am-sat-tren-cuong-vi-tong-thong-my-196240323190754207.htm) - 12:23 23/03/2024
