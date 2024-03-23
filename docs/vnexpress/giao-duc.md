@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Sinh viên chế tạo thiết bị bay tìm người mất tích](https://vnexpress.net/sinh-vien-che-tao-thiet-bi-bay-tim-nguoi-mat-tich-4725815.html) - 23:00 23/03/2024
+- 🤓 [Sinh viên chế tạo thiết bị tìm người mất tích](https://vnexpress.net/sinh-vien-che-tao-thiet-bi-tim-nguoi-mat-tich-4725815.html) - 23:00 23/03/2024
 - 🦆 [Đề xuất học sinh, sinh viên làm thêm không quá 20 tiếng mỗi tuần](https://vnexpress.net/de-xuat-hoc-sinh-sinh-vien-lam-them-khong-qua-20-tieng-moi-tuan-4725893.html) - 17:00 23/03/2024
 - 🦩 [Viết tốt nên theo ngành Sư phạm Văn hay Báo chí?](https://vnexpress.net/viet-tot-nen-theo-nganh-su-pham-van-hay-bao-chi-4723774.html) - 16:59 23/03/2024
 - 🌮 [Sân bay duy nhất ở vùng Tây Bắc thuộc tỉnh nào?](https://vnexpress.net/san-bay-duy-nhat-o-vung-tay-bac-thuoc-tinh-nao-4725838.html) - 13:43 23/03/2024
