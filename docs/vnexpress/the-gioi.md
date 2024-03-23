@@ -7,7 +7,7 @@ sidebar_position: 2
 - 🎭 [Ông Putin: Nga sẽ trừng phạt tất cả người liên quan vụ khủng bố nhà hát](https://vnexpress.net/ong-putin-nga-se-trung-phat-tat-ca-nguoi-lien-quan-vu-khung-bo-nha-hat-4725873.html) - 14:04 23/03/2024
 - 🕴 [Nga tuyên bố kiểm soát thêm làng gần Bakhmut](https://vnexpress.net/nga-tuyen-bo-kiem-soat-them-lang-gan-bakhmut-4725867.html) - 13:47 23/03/2024
 - 🤭 [Nga công bố video thẩm vấn nghi phạm vụ khủng bố nhà hát](https://vnexpress.net/nga-cong-bo-video-tham-van-nghi-pham-vu-khung-bo-nha-hat-4725851.html) - 12:51 23/03/2024
-- 🧑‍💻 [Cảnh tang thương tại hiện trường vụ khủng bố nhà hát Nga](https://vnexpress.net/canh-tang-thuong-tai-hien-truong-vu-khung-bo-nha-hat-nga-4725852.html) - 12:34 23/03/2024
+- 🧑‍💻 [Bên trong nhà hát bị tấn công ở Nga](https://vnexpress.net/ben-trong-nha-hat-bi-tan-cong-o-nga-4725852.html) - 12:34 23/03/2024
 - 🦏 [Người chết trong vụ khủng bố nhà hát Nga tăng lên 143](https://vnexpress.net/nguoi-chet-trong-vu-khung-bo-nha-hat-nga-tang-len-143-4725845.html) - 11:51 23/03/2024
 - 🦒 [Vụ thảm sát nhà hát Nga diễn ra thế nào](https://vnexpress.net/vu-tham-sat-nha-hat-nga-dien-ra-the-nao-4725757.html) - 09:50 23/03/2024
 - 🌈 [Philippines tố hải cảnh Trung Quốc phun vòi rồng vào tàu tiếp vận](https://vnexpress.net/philippines-to-hai-canh-trung-quoc-phun-voi-rong-vao-tau-tiep-van-4725804.html) - 09:19 23/03/2024
