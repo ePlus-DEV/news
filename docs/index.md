@@ -201,10 +201,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Thủy điện Trung Quốc ngóng mưa](https://laodong.vn/the-gioi/thuy-dien-trung-quoc-ngong-mua-1318478.ldo) - 03:23 23/03/2024
-- 📝 [Tỷ giá ngoại tệ, tỷ giá USD/VND, tỷ giá USD chợ đen hôm nay 23.3](https://laodong.vn/tien-te-dau-tu/ty-gia-ngoai-te-ty-gia-usdvnd-ty-gia-usd-cho-den-hom-nay-233-1317050.ldo) - 03:18 23/03/2024
-- 🦏 [Argentina thắng dễ El Salvador trong ngày vắng Messi](https://laodong.vn/bong-da/argentina-thang-de-el-salvador-trong-ngay-vang-messi-1318492.ldo) - 03:04 23/03/2024
-- 🦩 [Kịp thời khống chế đám cháy lúc rạng sáng ở Bệnh viện Đông Đô, Hà Nội](https://laodong.vn/xa-hoi/kip-thoi-khong-che-dam-chay-luc-rang-sang-o-benh-vien-dong-do-ha-noi-1318501.ldo) - 03:02 23/03/2024
+- 🗽 [Á hậu Tường San gợi ý mốt thời trang công sở thanh lịch cho mùa xuân hè 2024](https://laodong.vn/thoi-trang/a-hau-tuong-san-goi-y-mot-thoi-trang-cong-so-thanh-lich-cho-mua-xuan-he-2024-1318437.ldo) - 03:35 23/03/2024
+- 📝 [Thủy điện Trung Quốc ngóng mưa](https://laodong.vn/the-gioi/thuy-dien-trung-quoc-ngong-mua-1318478.ldo) - 03:23 23/03/2024
+- 🦏 [Tỷ giá ngoại tệ, tỷ giá USD/VND, tỷ giá USD chợ đen hôm nay 23.3](https://laodong.vn/tien-te-dau-tu/ty-gia-ngoai-te-ty-gia-usdvnd-ty-gia-usd-cho-den-hom-nay-233-1317050.ldo) - 03:18 23/03/2024
+- 🦩 [Argentina thắng dễ El Salvador trong ngày vắng Messi](https://laodong.vn/bong-da/argentina-thang-de-el-salvador-trong-ngay-vang-messi-1318492.ldo) - 03:04 23/03/2024
 - 🦏 [Nhiều học sinh ưu tiên phương án xét tuyển học bạ năm 2024](https://laodong.vn/giao-duc/nhieu-hoc-sinh-uu-tien-phuong-an-xet-tuyen-hoc-ba-nam-2024-1318280.ldo) - 03:00 23/03/2024
 - 🧰 [Hàng vạn lao động không phải ly hương](https://laodong.vn/cong-doan/hang-van-lao-dong-khong-phai-ly-huong-1318379.ldo) - 03:00 23/03/2024
 - 🌊 [Tìm giải pháp để ngăn chặn phim lậu trên không gian mạng](https://laodong.vn/van-hoa-giai-tri/tim-giai-phap-de-ngan-chan-phim-lau-tren-khong-gian-mang-1318397.ldo) - 03:00 23/03/2024
