@@ -7,7 +7,7 @@ sidebar_position: 2
 - 🎭 [Vụ thảm sát nhà hát Nga diễn ra thế nào](https://vnexpress.net/vu-tham-sat-nha-hat-nga-dien-ra-the-nao-4725757.html) - 09:50 23/03/2024
 - 🕴 [Philippines tố hải cảnh Trung Quốc phun vòi rồng vào tàu tiếp vận](https://vnexpress.net/philippines-to-hai-canh-trung-quoc-phun-voi-rong-vao-tau-tiep-van-4725804.html) - 09:19 23/03/2024
 - 🤭 [Nhà hát bị khủng bố ở Nga có sức chứa hơn 6.000 người](https://vnexpress.net/nha-hat-bi-khung-bo-o-nga-co-suc-chua-hon-6-000-nguoi-4725694.html) - 08:07 23/03/2024
-- 🧑‍💻 [11 nghi phạm bị bắt trong vụ khủng bố khiến 93 người chết ở Nga](https://vnexpress.net/11-nghi-pham-bi-bat-trong-vu-khung-bo-khien-93-nguoi-chet-o-nga-4725813.html) - 08:07 23/03/2024
+- 🧑‍💻 [11 nghi phạm bị bắt trong vụ khủng bố khiến 115 người chết ở Nga](https://vnexpress.net/11-nghi-pham-bi-bat-trong-vu-khung-bo-khien-115-nguoi-chet-o-nga-4725813.html) - 08:07 23/03/2024
 - 🦏 [Khoảnh khắc nhóm khủng bố xả súng trong nhà hát Nga](https://vnexpress.net/khoanh-khac-nhom-khung-bo-xa-sung-trong-nha-hat-nga-4725800.html) - 07:41 23/03/2024
 - 🦒 [Các lãnh đạo thế giới chúc Vương phi Kate chóng bình phục](https://vnexpress.net/cac-lanh-dao-the-gioi-chuc-vuong-phi-kate-chong-binh-phuc-4725798.html) - 07:24 23/03/2024
 - 🌈 [Việt Nam chia buồn về vụ khủng bố tại Nga](https://vnexpress.net/viet-nam-chia-buon-ve-vu-khung-bo-tai-nga-4725784.html) - 06:43 23/03/2024
