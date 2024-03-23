@@ -143,7 +143,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Đã bắt giữ nhiều nghi phạm vụ khủng bố kinh hoàng ở Moscow](https://thanhnien.vn/da-bat-giu-nhieu-nghi-pham-vu-khung-bo-kinh-hoang-o-moscow-185240323152317606.htm) - 08:36 23/03/2024
+- 🤠 [Khủng bố kinh hoàng ở Moscow: Đã bắt giữ nhiều nghi phạm; ít nhất 93 người chết](https://thanhnien.vn/da-bat-giu-nhieu-nghi-pham-vu-khung-bo-kinh-hoang-o-moscow-185240323152317606.htm) - 08:36 23/03/2024
 - 🥸 [Nga, Ukraine nói gì sau tin Mỹ kêu gọi dừng tấn công cơ sở năng lượng Nga?](https://thanhnien.vn/nga-ukraine-noi-gi-sau-tin-my-keu-goi-dung-tan-cong-co-so-nang-luong-nga-185240323144640051.htm) - 08:29 23/03/2024
 - 🌁 [Nga  không kích hạ tầng năng lượng, cả triệu người Ukraine mất điện](https://thanhnien.vn/nga-khong-kich-ha-tang-nang-luong-ca-trieu-nguoi-ukraine-mat-dien-185240323125459101.htm) - 08:27 23/03/2024
 - 🤡 [Truyền thông Indonesia nhận định bất ngờ về trọng tài trận &#39;quyết đấu&#39; đội tuyển Việt Nam](https://thanhnien.vn/truyen-thong-indonesia-nhan-dinh-bat-ngo-ve-trong-tai-tran-quyet-dau-doi-tuyen-viet-nam-185240323151256372.htm) - 08:26 23/03/2024
@@ -153,7 +153,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💼 [Bình Dương: Hàng trăm người được khám, tư vấn phòng ngừa đột quỵ](https://thanhnien.vn/binh-duong-hang-tram-nguoi-duoc-kham-tu-van-phong-ngua-dot-quy-185240323142827618.htm) - 08:14 23/03/2024
 - 🐻 [Để tiết kiệm điện thành thói quen](https://thanhnien.vn/de-tiet-kiem-dien-thanh-thoi-quen-185240323144900262.htm) - 08:05 23/03/2024
 - 🤔 [Đặc sản Đồng Tháp có gì khiến du khách ăn một lần là ghiền?](https://thanhnien.vn/thoi-trang-tre/dac-san-dong-thap-co-gi-khien-du-khach-an-mot-lan-la-ghien-18524032017385861.htm) - 08:00 23/03/2024
-- 📝 [Tin thuyết âm mưu, Tiểu bang Mỹ xem xét cấm máy bay tạo vệt trắng trên trời](https://thanhnien.vn/tin-thuyet-am-muu-tieu-bang-my-xem-xet-cam-may-bay-tao-vet-trang-tren-troi-185240323145252703.htm) - 07:59 23/03/2024
+- 📝 [Tin thuyết âm mưu, tiểu bang Mỹ xem xét cấm máy bay tạo vệt trắng trên trời](https://thanhnien.vn/tin-thuyet-am-muu-tieu-bang-my-xem-xet-cam-may-bay-tao-vet-trang-tren-troi-185240323145252703.htm) - 07:59 23/03/2024
 - 🥰 [Bắt nghi phạm trộm 54 triệu trong tài khoản ngân hàng của người quen](https://thanhnien.vn/bat-nghi-pham-trom-54-trieu-trong-tai-khoan-ngan-hang-cua-nguoi-quen-185240323141739148.htm) - 07:59 23/03/2024
 - 🐲 [Đề minh họa văn thi tốt nghiệp THPT: Cần lưu ý gì để không bị mất điểm?](https://thanhnien.vn/de-minh-hoa-van-thi-tot-nghiep-thpt-can-luu-y-gi-de-khong-bi-mat-diem-185240323094807594.htm) - 07:44 23/03/2024
 - 🎃 [Rác thải điện tử toàn cầu đang tăng ‘chóng mặt’](https://thanhnien.vn/rac-thai-dien-tu-toan-cau-dang-tang-chong-mat-185240323084207615.htm) - 07:42 23/03/2024
