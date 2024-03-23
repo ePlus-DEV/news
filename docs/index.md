@@ -69,8 +69,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [10 dự án đạt giải nhất cuộc thi khoa học kỹ thuật quốc gia](https://vnexpress.net/10-du-an-dat-giai-nhat-cuoc-thi-khoa-hoc-ky-thuat-quoc-gia-4725641.html) - 00:14 23/03/2024
 - 🪜 [Lỗ hổng trong chip Apple cho phép tin tặc lấy khóa mã hóa](https://vnexpress.net/lo-hong-trong-chip-apple-cho-phep-tin-tac-lay-khoa-ma-hoa-4725644.html) - 00:11 23/03/2024
 - 🚦 [&#39;Siêu hoa&#39; trên sa mạc Mỹ](https://vnexpress.net/sieu-hoa-tren-sa-mac-my-4725549.html) - 00:09 23/03/2024
-- 🕯 [Sản phụ Hàn Quốc tố cáo bị sảy thai vì bác sĩ đình công](https://vnexpress.net/san-phu-han-quoc-to-cao-bi-say-thai-vi-bac-si-dinh-cong-4725706.html) - 00:00 23/03/2024
-- 💪 [Vương phi Kate mắc ung thư](https://vnexpress.net/vuong-phi-kate-mac-ung-thu-4725651.html) - 23:46 22/03/2024<!-- vnexpress:END -->
+- 🕯 [Sản phụ Hàn Quốc tố cáo bị sảy thai vì bác sĩ đình công](https://vnexpress.net/san-phu-han-quoc-to-cao-bi-say-thai-vi-bac-si-dinh-cong-4725706.html) - 00:00 23/03/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
