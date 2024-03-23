@@ -80,7 +80,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [Em ưa nhìn, lạc quan và yêu đời](https://vnexpress.net/em-ua-nhin-lac-quan-va-yeu-doi-4725620.html) - 08:00 23/03/2024
 - 🕴 [Chứng khoán DNSE sẽ họp Đại hội đồng cổ đông vào ngày 16/4](https://vnexpress.net/chung-khoan-dnse-se-hop-dai-hoi-dong-co-dong-vao-ngay-16-4-4725807.html) - 08:00 23/03/2024
 - 🦆 [Vì sao bệnh sởi có nguy cơ bùng phát mạnh?](https://vnexpress.net/vi-sao-benh-soi-co-nguy-co-bung-phat-manh-4725743.html) - 08:00 23/03/2024
-- 💫 [VTC công bố lộ trình giải esports &#39;Battle Teams 2&#39;](https://vnexpress.net/vtc-cong-bo-lo-trinh-giai-esports-battle-teams-2-4724531.html) - 08:00 23/03/2024<!-- vnexpress:END -->
+- 💫 [VTC công bố lộ trình giải esports &#39;Battle Teams 2&#39;](https://vnexpress.net/vtc-cong-bo-lo-trinh-giai-esports-battle-teams-2-4724531.html) - 08:00 23/03/2024
+- 🤓 [Chàng trai vượt cửa tử, làm đám cưới trên giường bệnh](https://vnexpress.net/chang-trai-vuot-cua-tu-lam-dam-cuoi-tren-giuong-benh-4725780.html) - 07:47 23/03/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
