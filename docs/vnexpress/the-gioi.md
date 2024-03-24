@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [IS công bố video tấn công nhà hát ở Nga](https://vnexpress.net/is-cong-bo-video-tan-cong-nha-hat-o-nga-4725984.html) - 04:17 24/03/2024
+- 🎭 [IS công bố video tấn công nhà hát Nga](https://vnexpress.net/is-cong-bo-video-tan-cong-nha-hat-nga-4725984.html) - 04:17 24/03/2024
 - 🕴 [Israel không kích thành trì Hezbollah](https://vnexpress.net/israel-khong-kich-thanh-tri-hezbollah-4725973.html) - 03:22 24/03/2024
 - 🤭 [Cơn sốt vòi xịt toilet tại Mỹ](https://vnexpress.net/con-sot-voi-xit-toilet-tai-my-4724351.html) - 02:11 24/03/2024
 - 🧑‍💻 [Tàu hàng trúng đòn tập kích từ Yemen](https://vnexpress.net/tau-hang-trung-don-tap-kich-tu-yemen-4725941.html) - 01:30 24/03/2024
