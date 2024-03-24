@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Từ năm 2025, nhà nước sẽ thu hồi đất trong trường hợp nào?](https://vnexpress.net/tu-nam-2025-nha-nuoc-se-thu-hoi-dat-trong-truong-hop-nao-4725819.html) - 22:00 23/03/2024
 - 🥰 [Đường dây cho một triệu người vay nặng lãi hơn 20.000 tỷ đồng](https://vnexpress.net/duong-day-cho-mot-trieu-nguoi-vay-nang-lai-hon-20-000-ty-dong-4725543.html) - 17:00 23/03/2024
 - 🎓 [Bị kết tội giết người sau 40 năm nhờ ADN trên bã kẹo cao su](https://vnexpress.net/bi-ket-toi-giet-nguoi-sau-40-nam-nho-adn-tren-ba-keo-cao-su-4725805.html) - 13:16 23/03/2024
-- 🤓 [Gây hỗn chiến vì nghi chồng ngoại tình](https://vnexpress.net/gay-hon-chien-vi-nghi-chong-ngoai-tinh-4725856.html) - 13:04 23/03/2024
+- 🤓 [Hỗn chiến vì nghi chồng ngoại tình](https://vnexpress.net/hon-chien-vi-nghi-chong-ngoai-tinh-4725856.html) - 13:04 23/03/2024
 - 🎊 [Giám đốc ban quản lý dự án ở An Giang bị bắt](https://vnexpress.net/giam-doc-ban-quan-ly-du-an-o-an-giang-bi-bat-4725848.html) - 11:38 23/03/2024
 - 🙉 [Sát hại người tình vì chuyện nhắn tin](https://vnexpress.net/sat-hai-nguoi-tinh-trong-luc-cung-dung-ma-tuy-4725820.html) - 09:26 23/03/2024
 - 🤡 [Dừng xe ở làn khẩn cấp cao tốc Hà Nội - Hải Phòng để đánh bạc](https://vnexpress.net/dung-xe-o-lan-khan-cap-cao-toc-ha-noi-hai-phong-de-danh-bac-4725792.html) - 06:48 23/03/2024
