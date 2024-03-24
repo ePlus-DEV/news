@@ -72,7 +72,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🕯 [Tài xế say rượu hất văng môtô cùng chiều](https://vnexpress.net/tai-xe-say-ruou-hat-vang-moto-cung-chieu-4723922.html) - 23:00 23/03/2024
 - 💪 [Bí quyết phòng bệnh cho trẻ khi du lịch](https://vnexpress.net/bi-quyet-phong-benh-cho-tre-khi-du-lich-4725779.html) - 23:00 23/03/2024
 - 🧑‍🏫 [Thở thế nào để chạy bộ không kiệt sức](https://vnexpress.net/tho-the-nao-de-chay-bo-khong-kiet-suc-4725709.html) - 23:00 23/03/2024
-- 🎓 [Pháp thua trắng Đức ngay trên sân nhà](https://vnexpress.net/phap-thua-trang-duc-ngay-tren-san-nha-4725909.html) - 22:59 23/03/2024<!-- vnexpress:END -->
+- 🎓 [Pháp thua trắng Đức ngay trên sân nhà](https://vnexpress.net/phap-thua-trang-duc-ngay-tren-san-nha-4725909.html) - 22:59 23/03/2024
+- 💫 [Từ năm 2025, nhà nước sẽ thu hồi đất trong trường hợp nào?](https://vnexpress.net/tu-nam-2025-nha-nuoc-se-thu-hoi-dat-trong-truong-hop-nao-4725819.html) - 22:00 23/03/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
