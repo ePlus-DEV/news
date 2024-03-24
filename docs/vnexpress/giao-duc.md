@@ -7,7 +7,7 @@ sidebar_position: 7
 - 🤓 [Học sinh đưa Chí Phèo - Thị Nở lên sân khấu](https://vnexpress.net/hoc-sinh-dua-chi-pheo-thi-no-len-san-khau-4725899.html) - 06:20 24/03/2024
 - 🦆 [Ba cách nói thay thế &#39;I&#39;m tired&#39;](https://vnexpress.net/ba-cach-noi-thay-the-i-m-tired-4725884.html) - 05:00 24/03/2024
 - 🦩 [Nhiều trường xét tuyển học bạ vào ngành Y khoa](https://vnexpress.net/nhieu-truong-xet-tuyen-hoc-ba-vao-nganh-y-khoa-4724978.html) - 01:00 24/03/2024
-- 🌮 [Sinh viên chế tạo thiết bị bay tìm người mất tích](https://vnexpress.net/sinh-vien-che-tao-thiet-bi-bay-tim-nguoi-mat-tich-4725815.html) - 23:00 23/03/2024
+- 🌮 [Sinh viên chế tạo thiết bị tìm người mất tích](https://vnexpress.net/sinh-vien-che-tao-thiet-bi-tim-nguoi-mat-tich-4725815.html) - 23:00 23/03/2024
 - 🔭 [Đề xuất học sinh, sinh viên làm thêm không quá 20 tiếng mỗi tuần](https://vnexpress.net/de-xuat-hoc-sinh-sinh-vien-lam-them-khong-qua-20-tieng-moi-tuan-4725893.html) - 17:00 23/03/2024
 - 💡 [Viết tốt nên theo ngành Sư phạm Văn hay Báo chí?](https://vnexpress.net/viet-tot-nen-theo-nganh-su-pham-van-hay-bao-chi-4723774.html) - 16:59 23/03/2024
 - 🥰 [Sân bay duy nhất ở vùng Tây Bắc thuộc tỉnh nào?](https://vnexpress.net/san-bay-duy-nhat-o-vung-tay-bac-thuoc-tinh-nao-4725838.html) - 13:43 23/03/2024
