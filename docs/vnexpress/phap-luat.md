@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Khách kiện Hermès vì túi xách Birkin quá khó mua](https://vnexpress.net/khach-kien-hermes-vi-tui-xach-birkin-qua-kho-mua-4726078.html) - 14:45 24/03/2024
-- 🥰 [Con gái cựu Bộ trưởng Tư pháp Hàn Quốc ra tòa vì gian lận thi cử](https://vnexpress.net/con-gai-cuu-bo-truong-han-quoc-gian-lan-ho-so-de-vao-dai-hoc-4726052.html) - 14:37 24/03/2024
+- 🥰 [Con gái cựu Bộ trưởng Tư pháp Hàn Quốc ra tòa vì gian lận thi đại học](https://vnexpress.net/con-gai-cuu-bo-truong-han-quoc-gian-lan-ho-so-de-vao-dai-hoc-4726052.html) - 14:37 24/03/2024
 - 🎓 [Kiện đòi tiền chồng đã thân mật tặng vợ cũ](https://vnexpress.net/kien-doi-lai-tien-chong-da-than-mat-tang-cho-vo-cu-4726055.html) - 14:34 24/03/2024
 - 🤓 [Trung Quốc phạt tử hình kẻ đầu độc tỷ phú](https://vnexpress.net/trung-quoc-phat-tu-hinh-ke-dau-doc-ty-phu-4726064.html) - 14:27 24/03/2024
 - 🎊 [Trộm tài sản hơn 2 tỷ đồng của bạn gái](https://vnexpress.net/trom-tai-san-hon-2-ty-dong-cua-ban-gai-4726004.html) - 07:18 24/03/2024
