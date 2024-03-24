@@ -49,4 +49,5 @@ sidebar_position: 9
 - 🦆 [Vợ chồng Việt - Pháp nên duyên từ Bảo tàng Điện Biên Phủ](https://vnexpress.net/vo-chong-viet-phap-nen-duyen-tu-bao-tang-dien-bien-phu-4721916.html) - 23:00 23/03/2024
 - 🎊 [Tài xế say rượu hất văng môtô cùng chiều](https://vnexpress.net/tai-xe-say-ruou-hat-vang-moto-cung-chieu-4723922.html) - 23:00 23/03/2024
 - 👺 [Bí quyết phòng bệnh cho trẻ khi du lịch](https://vnexpress.net/bi-quyet-phong-benh-cho-tre-khi-du-lich-4725779.html) - 23:00 23/03/2024
-- 🎡 [Thở thế nào để chạy bộ không kiệt sức](https://vnexpress.net/tho-the-nao-de-chay-bo-khong-kiet-suc-4725709.html) - 23:00 23/03/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🎡 [Thở thế nào để chạy bộ không kiệt sức](https://vnexpress.net/tho-the-nao-de-chay-bo-khong-kiet-suc-4725709.html) - 23:00 23/03/2024
+- 👍 [Pháp thua trắng Đức ngay trên sân nhà](https://vnexpress.net/phap-thua-trang-duc-ngay-tren-san-nha-4725909.html) - 22:59 23/03/2024<!-- vnexpress-tin-moi-nhat:END -->
