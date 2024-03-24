@@ -579,7 +579,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 👺 [Hiệp hội Du lịch Việt Nam đề nghị giảm thiểu rác thải nhựa](https://tienphong.vn/hiep-hoi-du-lich-viet-nam-de-nghi-giam-thieu-rac-thai-nhua-post1622990.tpo) - 17:59 24/03/2024
 - 💪 [Yêu cầu xử phạt hãng bay tăng giá vé trái quy định](https://tienphong.vn/yeu-cau-xu-phat-hang-bay-tang-gia-ve-trai-quy-dinh-post1622975.tpo) - 17:50 24/03/2024
 - 💃 [Bản tin Hình sự: Vợ đi nhậu về trễ bị chồng say chém tử vong](https://tienphong.vn/ban-tin-hinh-su-vo-di-nhau-ve-tre-bi-chong-say-chem-tu-vong-post1622988.tpo) - 17:45 24/03/2024
-- 🦍 [Xe tải bất ngờ cháy như đuốc trên đèo, quốc lộ 1A ách tắc nhiều giờ đồng hồ](https://tienphong.vn/xe-tai-bat-ngo-chay-nhu-duoc-tren-deo-quoc-lo-1a-ach-tac-nhieu-gio-dong-ho-post1622986.tpo) - 17:45 24/03/2024
+- 🦍 [Xe tải cháy như đuốc trên đèo, quốc lộ 1A ách tắc nhiều giờ đồng hồ](https://tienphong.vn/xe-tai-chay-nhu-duoc-tren-deo-quoc-lo-1a-ach-tac-nhieu-gio-dong-ho-post1622986.tpo) - 17:45 24/03/2024
 - 👹 [‘Đập hộp’ chiếc thuyền đua F1 có giá 18 tỷ đồng](https://tienphong.vn/dap-hop-chiec-thuyen-dua-f1-co-gia-18-ty-dong-post1622974.tpo) - 17:35 24/03/2024
 - 🌜 [Đề xuất tăng thời gian làm việc cặp cửa khẩu Quốc tế La Lay](https://tienphong.vn/de-xuat-tang-thoi-gian-lam-viec-cap-cua-khau-quoc-te-la-lay-post1622982.tpo) - 17:28 24/03/2024
 - 🎓 [Chiếm đoạt gần 8 tỷ đồng bằng chiêu lừa ‘duyệt’ thủ tục đi du học Mỹ](https://tienphong.vn/chiem-doat-gan-8-ty-dong-bang-chieu-lua-duyet-thu-tuc-di-du-hoc-my-post1622964.tpo) - 17:24 24/03/2024
