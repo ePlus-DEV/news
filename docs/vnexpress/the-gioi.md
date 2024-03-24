@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Người Việt đội mưa hiến máu cứu nạn nhân khủng bố nhà hát Nga](https://vnexpress.net/nguoi-viet-doi-mua-hien-mau-cuu-nan-nhan-khung-bo-nha-hat-nga-4725920.html) - 07:04 24/03/2024
+- 🎭 [Người Việt đội mưa hiến máu cứu nạn nhân vụ khủng bố nhà hát Nga](https://vnexpress.net/nguoi-viet-doi-mua-hien-mau-cuu-nan-nhan-vu-khung-bo-nha-hat-nga-4725920.html) - 07:04 24/03/2024
 - 🕴 [Nga tập kích Kiev, Lviv](https://vnexpress.net/nga-tap-kich-kiev-lviv-4725996.html) - 06:30 24/03/2024
 - 🤭 [IS công bố video tấn công nhà hát Nga](https://vnexpress.net/is-cong-bo-video-tan-cong-nha-hat-nga-4725984.html) - 04:17 24/03/2024
 - 🧑‍💻 [Israel không kích thành trì Hezbollah](https://vnexpress.net/israel-khong-kich-thanh-tri-hezbollah-4725973.html) - 03:22 24/03/2024
