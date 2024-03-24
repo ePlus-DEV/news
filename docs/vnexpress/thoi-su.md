@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Hơn 54.000 tỷ đồng đầu tư vào Tiền Giang](https://vnexpress.net/hon-54-000-ty-dong-dau-tu-vao-tien-giang-4726037.html) - 09:34 24/03/2024
-- 🤓 [Đồng bằng Bắc Bộ nồm ẩm, Tây Bắc nắng nóng](https://vnexpress.net/dong-bang-bac-bo-nom-am-tay-bac-nang-nong-4726016.html) - 08:09 24/03/2024
+- 🤓 [Đồng bằng Bắc Bộ nồm ẩm, Tây Bắc nắng 33 độ C](https://vnexpress.net/dong-bang-bac-bo-nom-am-tay-bac-nang-33-do-c-4726016.html) - 08:09 24/03/2024
 - ⚗️ [Hàng loạt dự án BOT sụt giảm doanh thu](https://vnexpress.net/hang-loat-du-an-bot-sut-giam-doanh-thu-4725979.html) - 07:44 24/03/2024
 - 🌊 [Vành đai 1 Hà Nội dự kiến thông xe quý I/2025](https://vnexpress.net/vanh-dai-1-ha-noi-du-kien-thong-xe-quy-i-2025-4725985.html) - 06:26 24/03/2024
 - 🎓 [Tàu hàng đâm vào đá ngầm ở biển Cù Lao Chàm](https://vnexpress.net/tau-hang-dam-vao-da-ngam-o-bien-cu-lao-cham-4725994.html) - 05:21 24/03/2024
