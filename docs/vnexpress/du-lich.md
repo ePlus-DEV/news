@@ -20,7 +20,7 @@ sidebar_position: 11
 - 💼 [Bình Thuận quy hoạch thêm 3 khu du lịch ven biển](https://vnexpress.net/binh-thuan-quy-hoach-them-3-khu-du-lich-ven-bien-4725442.html) - 10:18 22/03/2024
 - 🤡 [Gần 70% khách Việt thích đi du lịch &#39;chỉ để ngủ&#39;](https://vnexpress.net/gan-70-khach-viet-thich-di-du-lich-chi-de-ngu-4725011.html) - 08:15 22/03/2024
 - 🐵 [Quy định cấm chụp ảnh geisha gây tranh cãi ở Kyoto](https://vnexpress.net/quy-dinh-cam-chup-anh-geisha-gay-tranh-cai-o-kyoto-4725333.html) - 07:06 22/03/2024
-- 😺 [Kampong Gelam, khu phố giao thoa giữa di sản và nhịp sống hiện đại](https://vnexpress.net/kampong-gelam-khu-pho-giao-thoa-giua-di-san-va-nhip-song-hien-dai-4725253.html) - 04:00 22/03/2024
+- 😺 [Kampong Gelam, khu phố giao thoa giữa di sản và nhịp sống hiện đại](https://vnexpress.net/kampong-gelam-khu-pho-giao-thoa-giua-di-san-va-nhip-song-hien-dai-4725253.html) - 07:00 22/03/2024
 - 🌈 [Rừng hoa đỗ quyên khoe sắc trên đỉnh Pu Ta Leng](https://vnexpress.net/rung-hoa-do-quyen-khoe-sac-tren-dinh-pu-ta-leng-4724551.html) - 03:29 22/03/2024
 - ⚗️ [Rác vẫn trôi &#39;thành hàng&#39; ở vịnh Hạ Long - đảo Cát Bà](https://vnexpress.net/rac-van-troi-thanh-hang-o-vinh-ha-long-dao-cat-ba-4724577.html) - 00:09 22/03/2024
 - 👀 [Vượt 10 tầng núi ngắm băng tuyết trên đỉnh Phú Sĩ](https://vnexpress.net/vuot-10-tang-nui-ngam-bang-tuyet-tren-dinh-phu-si-4723116.html) - 17:12 21/03/2024
