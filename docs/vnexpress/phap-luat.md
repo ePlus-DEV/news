@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [&#39;Thắt chặt&#39; việc ghi âm, ghi hình tại phiên tòa](https://vnexpress.net/that-chat-viec-ghi-am-ghi-hinh-tai-phien-toa-4726286.html) - 06:10 25/03/2024
+- 😎 [Đề xuất &#39;thắt chặt&#39; việc ghi âm, ghi hình tại phiên tòa](https://vnexpress.net/de-xuat-that-chat-viec-ghi-am-ghi-hinh-tai-phien-toa-4726286.html) - 06:10 25/03/2024
 - 🥰 [Nguyễn Cao Trí: &#39;Bất ngờ với mức án bị VKS đề nghị&#39;](https://vnexpress.net/nguyen-cao-tri-bat-ngo-voi-muc-an-bi-vks-de-nghi-4726283.html) - 05:38 25/03/2024
 - 🎓 [Mẹ chịu chấn thương, vật lộn với kẻ bắt cóc để cứu con gái](https://vnexpress.net/me-vat-lon-voi-ke-bat-coc-de-cuu-con-gai-4726278.html) - 05:37 25/03/2024
 - 🤓 [Ủy ban Quốc phòng - An ninh muốn sớm luật hóa đấu giá biển xe máy](https://vnexpress.net/uy-ban-quoc-phong-an-ninh-can-thiet-dau-gia-bien-xe-may-4722578.html) - 02:17 25/03/2024
