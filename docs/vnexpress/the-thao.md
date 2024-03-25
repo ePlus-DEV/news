@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Đồng đội của Peter Sagan, Cavendish dự giải xe đạp xuyên Việt](https://vnexpress.net/dong-doi-cua-peter-sagan-cavendish-du-giai-xe-dap-xuyen-viet-4726492.html) - 11:41 25/03/2024
-- 🦩 [HLV Troussier chỉ đạo quyết liệt trước ngày đấu Indonesia](https://vnexpress.net/hlv-troussier-chi-dao-quyet-liet-truoc-ngay-dau-indonesia-4726443.html) - 11:30 25/03/2024
+- 🦩 [HLV Troussier gay gắt trước trận đấu Indonesia](https://vnexpress.net/hlv-troussier-gay-gat-truoc-tran-dau-indonesia-4726443.html) - 11:30 25/03/2024
 - 🧰 [Jasmin Paris: &#39;Tôi muốn truyền cảm hứng cho nữ giới&#39;](https://vnexpress.net/jasmin-paris-toi-muon-truyen-cam-hung-cho-nu-gioi-4726349.html) - 09:33 25/03/2024
 - 🤗 [Cơ thủ Bao Phương Vinh: &#39;Tôi mừng vì đập tan dư luận&#39;](https://vnexpress.net/co-thu-bao-phuong-vinh-toi-mung-vi-dap-tan-du-luan-4726417.html) - 09:14 25/03/2024
 - 🥳 [Golfer Mỹ khóc khi vô địch sau 9 năm trên PGA Tour](https://vnexpress.net/golfer-my-khoc-khi-vo-dich-sau-9-nam-tren-pga-tour-4726413.html) - 08:31 25/03/2024
