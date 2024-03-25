@@ -10,7 +10,7 @@ sidebar_position: 12
 - 🤓 [Ông Nguyễn Cao Trí: &#39;Bất ngờ với mức án bị VKS đề nghị&#39;](https://vnexpress.net/ong-nguyen-cao-tri-bat-ngo-voi-muc-an-bi-vks-de-nghi-4726283.html) - 05:38 25/03/2024
 - 🎊 [Mẹ chịu chấn thương, vật lộn với kẻ bắt cóc để cứu con gái](https://vnexpress.net/me-vat-lon-voi-ke-bat-coc-de-cuu-con-gai-4726278.html) - 05:37 25/03/2024
 - 🙉 [Ủy ban Quốc phòng - An ninh muốn sớm luật hóa đấu giá biển xe máy](https://vnexpress.net/uy-ban-quoc-phong-an-ninh-can-thiet-dau-gia-bien-xe-may-4722578.html) - 02:17 25/03/2024
-- 🤡 [Bà nội trợ thành sát nhân hàng loạt ở Hàn Quốc](https://vnexpress.net/ba-noi-tro-thanh-sat-nhan-hang-loat-o-han-quoc-4726092.html) - 02:03 25/03/2024
+- 🤡 [Bà nội trợ thành sát thủ hàng loạt ở Hàn Quốc](https://vnexpress.net/ba-noi-tro-thanh-sat-thu-hang-loat-o-han-quoc-4726092.html) - 02:03 25/03/2024
 - 🗽 [Ông Trần Phương Bình sắp bị xét xử trong vụ án thứ 4](https://vnexpress.net/ong-tran-phuong-binh-sap-bi-xet-xu-trong-vu-an-thu-4-4726075.html) - 17:00 24/03/2024
 - 🌋 [Khách kiện Hermès vì túi xách Birkin quá khó mua](https://vnexpress.net/khach-kien-hermes-vi-tui-xach-birkin-qua-kho-mua-4726078.html) - 14:45 24/03/2024
 - 🎬 [Con gái cựu Bộ trưởng Tư pháp Hàn Quốc ra tòa vì gian lận thi đại học](https://vnexpress.net/con-gai-cuu-bo-truong-han-quoc-gian-lan-ho-so-de-vao-dai-hoc-4726052.html) - 14:37 24/03/2024
