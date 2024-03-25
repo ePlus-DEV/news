@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Hơn 20 phút kinh hoàng trong nhà hát Nga bị tấn công khủng bố](https://vnexpress.net/hon-20-phut-kinh-hoang-trong-nha-hat-nga-bi-tan-cong-khung-bo-4726149.html) - 07:28 25/03/2024
-- 🕴 [Mỹ nói Ukraine không liên quan vụ khủng bố nhà hát Nga](https://vnexpress.net/my-noi-ukraine-khong-lien-quan-vu-khung-bo-nha-hat-nga-4726248.html) - 05:02 25/03/2024
-- 🤭 [Hơn một nửa học sinh Nhật thiếu ngủ](https://vnexpress.net/hon-mot-nua-hoc-sinh-nhat-thieu-ngu-4726173.html) - 04:45 25/03/2024
-- 🧑‍💻 [Nghị sĩ Cộng hòa cảnh báo nguy cơ IS tấn công mục tiêu Mỹ](https://vnexpress.net/nghi-si-cong-hoa-canh-bao-nguy-co-is-tan-cong-muc-tieu-my-4726219.html) - 04:37 25/03/2024
-- 🦏 [Nghi vấn cửa thoát hiểm bị khóa trong vụ khủng bố nhà hát Nga](https://vnexpress.net/nghi-van-cua-thoat-hiem-bi-khoa-trong-vu-khung-bo-nha-hat-nga-4726158.html) - 04:19 25/03/2024
-- 🦒 [Mỹ khắc phục xong mẫu pháo lỗi trên tiêm kích F-35A](https://vnexpress.net/my-khac-phuc-xong-mau-phao-loi-tren-tiem-kich-f-35a-4726181.html) - 03:43 25/03/2024
-- 🌈 [Phó thủ tướng Italy: Tổng thống Macron gây nguy hiểm cho châu Âu](https://vnexpress.net/pho-thu-tuong-italy-tong-thong-macron-gay-nguy-hiem-cho-chau-au-4726180.html) - 03:40 25/03/2024
-- 🧑‍🏫 [IS bị tố bắn chết 11 người săn nấm cục ở Syria](https://vnexpress.net/is-bi-to-ban-chet-11-nguoi-san-nam-cuc-o-syria-4726178.html) - 03:30 25/03/2024
-- 🐲 [Thiếu niên cứu hơn 100 người trong vụ khủng bố nhà hát Nga](https://vnexpress.net/thieu-nien-cuu-hon-100-nguoi-trong-vu-khung-bo-nha-hat-nga-4726148.html) - 03:06 25/03/2024
-- 🦒 [Ukraine hứng gần 330 tên lửa, UAV trong một tuần](https://vnexpress.net/ukraine-hung-gan-330-ten-lua-uav-trong-mot-tuan-4726186.html) - 02:46 25/03/2024
-- 🐻 [Nghị sĩ Nga đề nghị khôi phục án tử hình sau vụ khủng bố nhà hát](https://vnexpress.net/nghi-si-nga-de-nghi-khoi-phuc-an-tu-hinh-sau-vu-khung-bo-nha-hat-4726138.html) - 02:09 25/03/2024
-- 🚀 [Vua Charles thất vọng vì tốc độ phục hồi chậm sau ung thư](https://vnexpress.net/vua-charles-that-vong-vi-toc-do-phuc-hoi-cham-sau-ung-thu-4726117.html) - 00:35 25/03/2024
-- 🥰 [Pháp nâng cảnh báo khủng bố lên cao nhất](https://vnexpress.net/phap-nang-canh-bao-khung-bo-len-cao-nhat-4726116.html) - 00:21 25/03/2024
-- 🔥 [Ông Kim Jong-un kêu gọi sư đoàn thiết giáp Triều Tiên sẵn sàng chiến đấu](https://vnexpress.net/ong-kim-jong-un-keu-goi-su-doan-thiet-giap-trieu-tien-san-sang-chien-dau-4726113.html) - 23:47 24/03/2024
-- 🥳 [4 nghi phạm tấn công nhà hát Nga trình diện tòa án](https://vnexpress.net/4-nghi-pham-tan-cong-nha-hat-nga-trinh-dien-toa-an-4726109.html) - 23:32 24/03/2024
-- 💼 [Czech nỗ lực săn đạn pháo cho Ukraine](https://vnexpress.net/czech-no-luc-san-dan-phao-cho-ukraine-4723412.html) - 22:00 24/03/2024
-- 🤡 [Lý do tỷ lệ ủng hộ Trump ngày càng tăng](https://vnexpress.net/ly-do-ty-le-ung-ho-trump-ngay-cang-tang-4725208.html) - 17:00 24/03/2024
-- 🌁 [Nga điều tiêm kích chặn oanh tạc cơ Mỹ](https://vnexpress.net/nga-dieu-tiem-kich-chan-oanh-tac-co-my-4726090.html) - 16:21 24/03/2024
-- 🤩 [Philippines nói Trung Quốc phun vòi rồng làm ba binh sĩ bị thương](https://vnexpress.net/philippines-noi-trung-quoc-phun-voi-rong-lam-ba-binh-si-bi-thuong-4726082.html) - 15:23 24/03/2024
+- 🎭 [Khoảnh khắc tên lửa diệt hạm Nga tập kích trận địa NASAMS Ukraine](https://vnexpress.net/khoanh-khac-ten-lua-diet-ham-nga-tap-kich-tran-dia-nasams-ukraine-4726346.html) - 07:33 25/03/2024
+- 🕴 [Hơn 20 phút kinh hoàng trong nhà hát Nga bị tấn công khủng bố](https://vnexpress.net/hon-20-phut-kinh-hoang-trong-nha-hat-nga-bi-tan-cong-khung-bo-4726149.html) - 07:28 25/03/2024
+- 🤭 [Mỹ nói Ukraine không liên quan vụ khủng bố nhà hát Nga](https://vnexpress.net/my-noi-ukraine-khong-lien-quan-vu-khung-bo-nha-hat-nga-4726248.html) - 05:02 25/03/2024
+- 🧑‍💻 [Hơn một nửa học sinh Nhật thiếu ngủ](https://vnexpress.net/hon-mot-nua-hoc-sinh-nhat-thieu-ngu-4726173.html) - 04:45 25/03/2024
+- 🦏 [Nghị sĩ Cộng hòa cảnh báo nguy cơ IS tấn công mục tiêu Mỹ](https://vnexpress.net/nghi-si-cong-hoa-canh-bao-nguy-co-is-tan-cong-muc-tieu-my-4726219.html) - 04:37 25/03/2024
+- 🦒 [Nghi vấn cửa thoát hiểm bị khóa trong vụ khủng bố nhà hát Nga](https://vnexpress.net/nghi-van-cua-thoat-hiem-bi-khoa-trong-vu-khung-bo-nha-hat-nga-4726158.html) - 04:19 25/03/2024
+- 🌈 [Mỹ khắc phục xong mẫu pháo lỗi trên tiêm kích F-35A](https://vnexpress.net/my-khac-phuc-xong-mau-phao-loi-tren-tiem-kich-f-35a-4726181.html) - 03:43 25/03/2024
+- 🧑‍🏫 [Phó thủ tướng Italy: Tổng thống Macron gây nguy hiểm cho châu Âu](https://vnexpress.net/pho-thu-tuong-italy-tong-thong-macron-gay-nguy-hiem-cho-chau-au-4726180.html) - 03:40 25/03/2024
+- 🐲 [IS bị tố bắn chết 11 người săn nấm cục ở Syria](https://vnexpress.net/is-bi-to-ban-chet-11-nguoi-san-nam-cuc-o-syria-4726178.html) - 03:30 25/03/2024
+- 🦒 [Thiếu niên cứu hơn 100 người trong vụ khủng bố nhà hát Nga](https://vnexpress.net/thieu-nien-cuu-hon-100-nguoi-trong-vu-khung-bo-nha-hat-nga-4726148.html) - 03:06 25/03/2024
+- 🐻 [Ukraine hứng gần 330 tên lửa, UAV trong một tuần](https://vnexpress.net/ukraine-hung-gan-330-ten-lua-uav-trong-mot-tuan-4726186.html) - 02:46 25/03/2024
+- 🚀 [Nghị sĩ Nga đề nghị khôi phục án tử hình sau vụ khủng bố nhà hát](https://vnexpress.net/nghi-si-nga-de-nghi-khoi-phuc-an-tu-hinh-sau-vu-khung-bo-nha-hat-4726138.html) - 02:09 25/03/2024
+- 🥰 [Vua Charles thất vọng vì tốc độ phục hồi chậm sau ung thư](https://vnexpress.net/vua-charles-that-vong-vi-toc-do-phuc-hoi-cham-sau-ung-thu-4726117.html) - 00:35 25/03/2024
+- 🔥 [Pháp nâng cảnh báo khủng bố lên cao nhất](https://vnexpress.net/phap-nang-canh-bao-khung-bo-len-cao-nhat-4726116.html) - 00:21 25/03/2024
+- 🥳 [Ông Kim Jong-un kêu gọi sư đoàn thiết giáp Triều Tiên sẵn sàng chiến đấu](https://vnexpress.net/ong-kim-jong-un-keu-goi-su-doan-thiet-giap-trieu-tien-san-sang-chien-dau-4726113.html) - 23:47 24/03/2024
+- 💼 [4 nghi phạm tấn công nhà hát Nga trình diện tòa án](https://vnexpress.net/4-nghi-pham-tan-cong-nha-hat-nga-trinh-dien-toa-an-4726109.html) - 23:32 24/03/2024
+- 🤡 [Czech nỗ lực săn đạn pháo cho Ukraine](https://vnexpress.net/czech-no-luc-san-dan-phao-cho-ukraine-4723412.html) - 22:00 24/03/2024
+- 🌁 [Lý do tỷ lệ ủng hộ Trump ngày càng tăng](https://vnexpress.net/ly-do-ty-le-ung-ho-trump-ngay-cang-tang-4725208.html) - 17:00 24/03/2024
+- 🤩 [Nga điều tiêm kích chặn oanh tạc cơ Mỹ](https://vnexpress.net/nga-dieu-tiem-kich-chan-oanh-tac-co-my-4726090.html) - 16:21 24/03/2024
+- 🎉 [Philippines nói Trung Quốc phun vòi rồng làm ba binh sĩ bị thương](https://vnexpress.net/philippines-noi-trung-quoc-phun-voi-rong-lam-ba-binh-si-bi-thuong-4726082.html) - 15:23 24/03/2024
 - 🎉 [Nga quốc tang tưởng niệm nạn nhân vụ khủng bố nhà hát](https://vnexpress.net/nga-quoc-tang-tuong-niem-nan-nhan-vu-khung-bo-nha-hat-4726061.html) - 12:59 24/03/2024
-- 🎉 [Moldova nỗ lực lấy lòng người dân vùng tự trị thân Nga](https://vnexpress.net/moldova-no-luc-lay-long-nguoi-dan-vung-tu-tri-than-nga-4721884.html) - 12:35 24/03/2024
-- 🌁 [Ba Lan yêu cầu Nga giải thích vụ &#39;tên lửa xâm phạm không phận&#39;](https://vnexpress.net/ba-lan-yeu-cau-nga-giai-thich-vu-ten-lua-xam-pham-khong-phan-4726054.html) - 11:16 24/03/2024
-- 🌊 [Ukraine tuyên bố tấn công tàu đổ bộ của Nga](https://vnexpress.net/ukraine-tuyen-bo-tan-cong-tau-do-bo-cua-nga-4726050.html) - 10:05 24/03/2024
-- 🕴 [Mỹ nói Houthi phóng tên lửa trúng tàu dầu Trung Quốc](https://vnexpress.net/my-noi-houthi-phong-ten-lua-trung-tau-dau-trung-quoc-4726029.html) - 08:28 24/03/2024
-- 🎓 [Người Việt đội mưa hiến máu cứu nạn nhân vụ khủng bố nhà hát Nga](https://vnexpress.net/nguoi-viet-doi-mua-hien-mau-cuu-nan-nhan-vu-khung-bo-nha-hat-nga-4725920.html) - 07:04 24/03/2024
-- 🦩 [Nga tập kích Kiev, Lviv](https://vnexpress.net/nga-tap-kich-kiev-lviv-4725996.html) - 06:30 24/03/2024
-- 🌏 [IS công bố video tấn công nhà hát Nga](https://vnexpress.net/is-cong-bo-video-tan-cong-nha-hat-nga-4725984.html) - 04:17 24/03/2024
-- 🌋 [Israel không kích thành trì Hezbollah](https://vnexpress.net/israel-khong-kich-thanh-tri-hezbollah-4725973.html) - 03:22 24/03/2024
-- 🪜 [Cơn sốt vòi xịt toilet tại Mỹ](https://vnexpress.net/con-sot-voi-xit-toilet-tai-my-4724351.html) - 02:11 24/03/2024
-- 🕴 [Tàu hàng trúng đòn tập kích từ Yemen](https://vnexpress.net/tau-hang-trung-don-tap-kich-tu-yemen-4725941.html) - 01:30 24/03/2024
-- 🧑‍🏫 [Ông Zelensky: Nga muốn đổ lỗi cho Ukraine về vụ khủng bố nhà hát](https://vnexpress.net/ong-zelensky-nga-muon-do-loi-cho-ukraine-ve-vu-khung-bo-nha-hat-4725932.html) - 00:59 24/03/2024
-- 🌮 [Tự lực cánh sinh về vũ khí - lối thoát cho Ukraine giữa chiến sự](https://vnexpress.net/tu-luc-canh-sinh-ve-vu-khi-loi-thoat-cho-ukraine-giua-chien-su-4725063.html) - 22:00 23/03/2024
-- 🚦 [Nhân chứng kể khoảnh khắc &#39;người hùng&#39; đối đầu kẻ khủng bố nhà hát Nga](https://vnexpress.net/nhan-chung-ke-khoanh-khac-nguoi-hung-doi-dau-ke-khung-bo-nha-hat-nga-4725892.html) - 17:18 23/03/2024
-- 💫 [Phe Cộng hòa nguy cơ trả giá nếu phế truất Chủ tịch Hạ viện](https://vnexpress.net/phe-cong-hoa-nguy-co-tra-gia-neu-phe-truat-chu-tich-ha-vien-4725685.html) - 17:00 23/03/2024
-- 🤡 [Mỹ thông qua dự luật 1,2 nghìn tỷ USD ngăn chính phủ đóng cửa](https://vnexpress.net/my-thong-qua-du-luat-1-2-nghin-ty-usd-ngan-chinh-phu-dong-cua-4725877.html) - 15:33 23/03/2024
-- 🦣 [Ông Putin: Nga sẽ trừng phạt tất cả người liên quan vụ khủng bố nhà hát](https://vnexpress.net/ong-putin-nga-se-trung-phat-tat-ca-nguoi-lien-quan-vu-khung-bo-nha-hat-4725873.html) - 14:04 23/03/2024
-- 🎬 [Nga tuyên bố kiểm soát thêm làng gần Bakhmut](https://vnexpress.net/nga-tuyen-bo-kiem-soat-them-lang-gan-bakhmut-4725867.html) - 13:47 23/03/2024
-- 🎉 [Nga công bố video thẩm vấn nghi phạm vụ khủng bố nhà hát](https://vnexpress.net/nga-cong-bo-video-tham-van-nghi-pham-vu-khung-bo-nha-hat-4725851.html) - 12:51 23/03/2024
-- 🎡 [Bên trong nhà hát bị tấn công ở Nga](https://vnexpress.net/ben-trong-nha-hat-bi-tan-cong-o-nga-4725852.html) - 12:34 23/03/2024
-- 🌜 [Người chết trong vụ khủng bố nhà hát Nga tăng lên 133](https://vnexpress.net/nguoi-chet-trong-vu-khung-bo-nha-hat-nga-tang-len-133-4725845.html) - 11:51 23/03/2024
-- 🎡 [Vụ thảm sát nhà hát Nga diễn ra thế nào](https://vnexpress.net/vu-tham-sat-nha-hat-nga-dien-ra-the-nao-4725757.html) - 09:50 23/03/2024
-- 🤗 [Philippines tố hải cảnh Trung Quốc phun vòi rồng vào tàu tiếp vận](https://vnexpress.net/philippines-to-hai-canh-trung-quoc-phun-voi-rong-vao-tau-tiep-van-4725804.html) - 09:19 23/03/2024
-- 🦩 [Nhà hát bị khủng bố ở Nga có sức chứa hơn 6.000 người](https://vnexpress.net/nha-hat-bi-khung-bo-o-nga-co-suc-chua-hon-6-000-nguoi-4725694.html) - 08:07 23/03/2024
-- 🎓 [Nga bắt 11 nghi phạm trong vụ khủng bố nhà hát](https://vnexpress.net/nga-bat-11-nghi-pham-trong-vu-khung-bo-nha-hat-4725813.html) - 08:07 23/03/2024
-- 🌁 [Khoảnh khắc nhóm khủng bố xả súng trong nhà hát Nga](https://vnexpress.net/khoanh-khac-nhom-khung-bo-xa-sung-trong-nha-hat-nga-4725800.html) - 07:41 23/03/2024
-- 🤩 [Các lãnh đạo thế giới chúc Vương phi Kate chóng bình phục](https://vnexpress.net/cac-lanh-dao-the-gioi-chuc-vuong-phi-kate-chong-binh-phuc-4725798.html) - 07:24 23/03/2024
-- 👹 [Việt Nam chia buồn về vụ khủng bố tại Nga](https://vnexpress.net/viet-nam-chia-buon-ve-vu-khung-bo-tai-nga-4725784.html) - 06:43 23/03/2024
-- ⛽️ [Việt Nam lên tiếng về tranh cãi Trung Quốc - Philippines liên quan Biển Đông](https://vnexpress.net/viet-nam-len-tieng-ve-tranh-cai-trung-quoc-philippines-lien-quan-bien-dong-4725772.html) - 05:36 23/03/2024
-- 🚀 [IS - bóng ma ám ảnh nước Nga](https://vnexpress.net/is-bong-ma-am-anh-nuoc-nga-4725660.html) - 05:16 23/03/2024
-- 🎡 [Nga nêu lý do tập kích dồn dập Ukraine trong tuần qua](https://vnexpress.net/nga-neu-ly-do-tap-kich-don-dap-ukraine-trong-tuan-qua-4725737.html) - 04:55 23/03/2024
-- 🕯 [Ông Putin từng bác cảnh báo về nguy cơ tấn công khủng bố](https://vnexpress.net/ong-putin-tung-bac-canh-bao-ve-nguy-co-tan-cong-khung-bo-4725742.html) - 04:22 23/03/2024
-- 🐻 [Hoài nghi về năng lực an ninh Nga trong vụ khủng bố nhà hát](https://vnexpress.net/hoai-nghi-ve-nang-luc-an-ninh-nga-trong-vu-khung-bo-nha-hat-4725684.html) - 04:05 23/03/2024
-- 🚦 [Ông Medvedev: Cần trừng phạt người thân nhóm khủng bố](https://vnexpress.net/ong-medvedev-can-trung-phat-nguoi-than-nhom-khung-bo-4725701.html) - 03:06 23/03/2024
-- 👍 [Nạn nhân vụ xả súng ở nhà hát Nga &#39;giẫm lên nhau chạy trốn&#39;](https://vnexpress.net/nan-nhan-vu-xa-sung-o-nha-hat-nga-giam-len-nhau-chay-tron-4725676.html) - 02:24 23/03/2024
-- 🚀 [Hiện trường vụ khủng bố nhà hát ngoại ô Moskva](https://vnexpress.net/hien-truong-vu-khung-bo-nha-hat-ngoai-o-moskva-4725673.html) - 01:22 23/03/2024
-- 🌮 [Cộng đồng quốc tế lên án vụ khủng bố ở Nga](https://vnexpress.net/cong-dong-quoc-te-len-an-vu-khung-bo-o-nga-4725661.html) - 01:13 23/03/2024
-- 😎 [Vương phi Kate mắc ung thư](https://vnexpress.net/vuong-phi-kate-mac-ung-thu-4725651.html) - 23:46 22/03/2024
-- 🐲 [Tấn công khủng bố ở Nga, ít nhất 133 người chết](https://vnexpress.net/tan-cong-khung-bo-gan-moskva-it-nhat-60-nguoi-chet-4725650.html) - 23:03 22/03/2024
-- 💫 [Chiến dịch gây quỹ của Trump hụt hơi giữa rắc rối tiền phạt](https://vnexpress.net/chien-dich-gay-quy-cua-trump-hut-hoi-giua-rac-roi-tien-phat-4725221.html) - 17:00 22/03/2024
-- 👀 [Nghị sĩ Cộng hòa yêu cầu phế truất Chủ tịch Hạ viện Mỹ](https://vnexpress.net/nghi-si-cong-hoa-yeu-cau-phe-truat-chu-tich-ha-vien-my-4725642.html) - 16:44 22/03/2024<!-- vnexpress-the-gioi:END -->
+- 🌁 [Moldova nỗ lực lấy lòng người dân vùng tự trị thân Nga](https://vnexpress.net/moldova-no-luc-lay-long-nguoi-dan-vung-tu-tri-than-nga-4721884.html) - 12:35 24/03/2024
+- 🌊 [Ba Lan yêu cầu Nga giải thích vụ &#39;tên lửa xâm phạm không phận&#39;](https://vnexpress.net/ba-lan-yeu-cau-nga-giai-thich-vu-ten-lua-xam-pham-khong-phan-4726054.html) - 11:16 24/03/2024
+- 🕴 [Ukraine tuyên bố tấn công tàu đổ bộ của Nga](https://vnexpress.net/ukraine-tuyen-bo-tan-cong-tau-do-bo-cua-nga-4726050.html) - 10:05 24/03/2024
+- 🎓 [Mỹ nói Houthi phóng tên lửa trúng tàu dầu Trung Quốc](https://vnexpress.net/my-noi-houthi-phong-ten-lua-trung-tau-dau-trung-quoc-4726029.html) - 08:28 24/03/2024
+- 🦩 [Người Việt đội mưa hiến máu cứu nạn nhân vụ khủng bố nhà hát Nga](https://vnexpress.net/nguoi-viet-doi-mua-hien-mau-cuu-nan-nhan-vu-khung-bo-nha-hat-nga-4725920.html) - 07:04 24/03/2024
+- 🌏 [Nga tập kích Kiev, Lviv](https://vnexpress.net/nga-tap-kich-kiev-lviv-4725996.html) - 06:30 24/03/2024
+- 🌋 [IS công bố video tấn công nhà hát Nga](https://vnexpress.net/is-cong-bo-video-tan-cong-nha-hat-nga-4725984.html) - 04:17 24/03/2024
+- 🪜 [Israel không kích thành trì Hezbollah](https://vnexpress.net/israel-khong-kich-thanh-tri-hezbollah-4725973.html) - 03:22 24/03/2024
+- 🕴 [Cơn sốt vòi xịt toilet tại Mỹ](https://vnexpress.net/con-sot-voi-xit-toilet-tai-my-4724351.html) - 02:11 24/03/2024
+- 🧑‍🏫 [Tàu hàng trúng đòn tập kích từ Yemen](https://vnexpress.net/tau-hang-trung-don-tap-kich-tu-yemen-4725941.html) - 01:30 24/03/2024
+- 🌮 [Ông Zelensky: Nga muốn đổ lỗi cho Ukraine về vụ khủng bố nhà hát](https://vnexpress.net/ong-zelensky-nga-muon-do-loi-cho-ukraine-ve-vu-khung-bo-nha-hat-4725932.html) - 00:59 24/03/2024
+- 🚦 [Tự lực cánh sinh về vũ khí - lối thoát cho Ukraine giữa chiến sự](https://vnexpress.net/tu-luc-canh-sinh-ve-vu-khi-loi-thoat-cho-ukraine-giua-chien-su-4725063.html) - 22:00 23/03/2024
+- 💫 [Nhân chứng kể khoảnh khắc &#39;người hùng&#39; đối đầu kẻ khủng bố nhà hát Nga](https://vnexpress.net/nhan-chung-ke-khoanh-khac-nguoi-hung-doi-dau-ke-khung-bo-nha-hat-nga-4725892.html) - 17:18 23/03/2024
+- 🤡 [Phe Cộng hòa nguy cơ trả giá nếu phế truất Chủ tịch Hạ viện](https://vnexpress.net/phe-cong-hoa-nguy-co-tra-gia-neu-phe-truat-chu-tich-ha-vien-4725685.html) - 17:00 23/03/2024
+- 🦣 [Mỹ thông qua dự luật 1,2 nghìn tỷ USD ngăn chính phủ đóng cửa](https://vnexpress.net/my-thong-qua-du-luat-1-2-nghin-ty-usd-ngan-chinh-phu-dong-cua-4725877.html) - 15:33 23/03/2024
+- 🎬 [Ông Putin: Nga sẽ trừng phạt tất cả người liên quan vụ khủng bố nhà hát](https://vnexpress.net/ong-putin-nga-se-trung-phat-tat-ca-nguoi-lien-quan-vu-khung-bo-nha-hat-4725873.html) - 14:04 23/03/2024
+- 🎉 [Nga tuyên bố kiểm soát thêm làng gần Bakhmut](https://vnexpress.net/nga-tuyen-bo-kiem-soat-them-lang-gan-bakhmut-4725867.html) - 13:47 23/03/2024
+- 🎡 [Nga công bố video thẩm vấn nghi phạm vụ khủng bố nhà hát](https://vnexpress.net/nga-cong-bo-video-tham-van-nghi-pham-vu-khung-bo-nha-hat-4725851.html) - 12:51 23/03/2024
+- 🌜 [Bên trong nhà hát bị tấn công ở Nga](https://vnexpress.net/ben-trong-nha-hat-bi-tan-cong-o-nga-4725852.html) - 12:34 23/03/2024
+- 🎡 [Người chết trong vụ khủng bố nhà hát Nga tăng lên 133](https://vnexpress.net/nguoi-chet-trong-vu-khung-bo-nha-hat-nga-tang-len-133-4725845.html) - 11:51 23/03/2024
+- 🤗 [Vụ thảm sát nhà hát Nga diễn ra thế nào](https://vnexpress.net/vu-tham-sat-nha-hat-nga-dien-ra-the-nao-4725757.html) - 09:50 23/03/2024
+- 🦩 [Philippines tố hải cảnh Trung Quốc phun vòi rồng vào tàu tiếp vận](https://vnexpress.net/philippines-to-hai-canh-trung-quoc-phun-voi-rong-vao-tau-tiep-van-4725804.html) - 09:19 23/03/2024
+- 🎓 [Nhà hát bị khủng bố ở Nga có sức chứa hơn 6.000 người](https://vnexpress.net/nha-hat-bi-khung-bo-o-nga-co-suc-chua-hon-6-000-nguoi-4725694.html) - 08:07 23/03/2024
+- 🌁 [Nga bắt 11 nghi phạm trong vụ khủng bố nhà hát](https://vnexpress.net/nga-bat-11-nghi-pham-trong-vu-khung-bo-nha-hat-4725813.html) - 08:07 23/03/2024
+- 🤩 [Khoảnh khắc nhóm khủng bố xả súng trong nhà hát Nga](https://vnexpress.net/khoanh-khac-nhom-khung-bo-xa-sung-trong-nha-hat-nga-4725800.html) - 07:41 23/03/2024
+- 👹 [Các lãnh đạo thế giới chúc Vương phi Kate chóng bình phục](https://vnexpress.net/cac-lanh-dao-the-gioi-chuc-vuong-phi-kate-chong-binh-phuc-4725798.html) - 07:24 23/03/2024
+- ⛽️ [Việt Nam chia buồn về vụ khủng bố tại Nga](https://vnexpress.net/viet-nam-chia-buon-ve-vu-khung-bo-tai-nga-4725784.html) - 06:43 23/03/2024
+- 🚀 [Việt Nam lên tiếng về tranh cãi Trung Quốc - Philippines liên quan Biển Đông](https://vnexpress.net/viet-nam-len-tieng-ve-tranh-cai-trung-quoc-philippines-lien-quan-bien-dong-4725772.html) - 05:36 23/03/2024
+- 🎡 [IS - bóng ma ám ảnh nước Nga](https://vnexpress.net/is-bong-ma-am-anh-nuoc-nga-4725660.html) - 05:16 23/03/2024
+- 🕯 [Nga nêu lý do tập kích dồn dập Ukraine trong tuần qua](https://vnexpress.net/nga-neu-ly-do-tap-kich-don-dap-ukraine-trong-tuan-qua-4725737.html) - 04:55 23/03/2024
+- 🐻 [Ông Putin từng bác cảnh báo về nguy cơ tấn công khủng bố](https://vnexpress.net/ong-putin-tung-bac-canh-bao-ve-nguy-co-tan-cong-khung-bo-4725742.html) - 04:22 23/03/2024
+- 🚦 [Hoài nghi về năng lực an ninh Nga trong vụ khủng bố nhà hát](https://vnexpress.net/hoai-nghi-ve-nang-luc-an-ninh-nga-trong-vu-khung-bo-nha-hat-4725684.html) - 04:05 23/03/2024
+- 👍 [Ông Medvedev: Cần trừng phạt người thân nhóm khủng bố](https://vnexpress.net/ong-medvedev-can-trung-phat-nguoi-than-nhom-khung-bo-4725701.html) - 03:06 23/03/2024
+- 🚀 [Nạn nhân vụ xả súng ở nhà hát Nga &#39;giẫm lên nhau chạy trốn&#39;](https://vnexpress.net/nan-nhan-vu-xa-sung-o-nha-hat-nga-giam-len-nhau-chay-tron-4725676.html) - 02:24 23/03/2024
+- 🌮 [Hiện trường vụ khủng bố nhà hát ngoại ô Moskva](https://vnexpress.net/hien-truong-vu-khung-bo-nha-hat-ngoai-o-moskva-4725673.html) - 01:22 23/03/2024
+- 😎 [Cộng đồng quốc tế lên án vụ khủng bố ở Nga](https://vnexpress.net/cong-dong-quoc-te-len-an-vu-khung-bo-o-nga-4725661.html) - 01:13 23/03/2024
+- 🐲 [Vương phi Kate mắc ung thư](https://vnexpress.net/vuong-phi-kate-mac-ung-thu-4725651.html) - 23:46 22/03/2024
+- 💫 [Tấn công khủng bố ở Nga, ít nhất 133 người chết](https://vnexpress.net/tan-cong-khung-bo-gan-moskva-it-nhat-60-nguoi-chet-4725650.html) - 23:03 22/03/2024
+- 👀 [Chiến dịch gây quỹ của Trump hụt hơi giữa rắc rối tiền phạt](https://vnexpress.net/chien-dich-gay-quy-cua-trump-hut-hoi-giua-rac-roi-tien-phat-4725221.html) - 17:00 22/03/2024<!-- vnexpress-the-gioi:END -->
