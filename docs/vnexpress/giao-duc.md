@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Lo ngại xét tuyển đại học sớm gây mất công bằng](https://vnexpress.net/lo-ngai-xet-tuyen-dai-hoc-som-gay-mat-cong-bang-4725519.html) - 23:12 25/03/2024
+- 🤓 [Xét tuyển đại học sớm như &#39;con dao hai lưỡi&#39;](https://vnexpress.net/xet-tuyen-dai-hoc-som-nhu-con-dao-hai-luoi-4725519.html) - 23:12 25/03/2024
 - 🦆 [&#39;Vương quốc gạch gốm&#39; nằm ở tỉnh nào?](https://vnexpress.net/vuong-quoc-gach-gom-nam-o-tinh-nao-4726444.html) - 13:00 25/03/2024
 - 🦩 [Những từ tiếng Anh không phát âm chữ &#39;e&#39;](https://vnexpress.net/nhung-tu-tieng-anh-khong-phat-am-chu-e-4726370.html) - 08:27 25/03/2024
 - 🌮 [Đức nới hàng loạt quy định với du học sinh](https://vnexpress.net/duc-noi-hang-loat-quy-dinh-voi-du-hoc-sinh-4724601.html) - 07:09 25/03/2024
