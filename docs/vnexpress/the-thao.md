@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Man Utd có thể bị loại khỏi Champions League vì chủ mới](https://vnexpress.net/man-utd-co-the-bi-loai-khoi-champions-league-vi-chu-moi-4726321.html) - 07:07 25/03/2024
 - 🦩 [CLB Indonesia yêu cầu đội tuyển không ép cầu thủ đấu Việt Nam](https://vnexpress.net/clb-indonesia-yeu-cau-doi-tuyen-khong-ep-cau-thu-dau-viet-nam-4726317.html) - 05:54 25/03/2024
 - 🧰 [HLV Troussier: &#39;Việt Nam vẫn nắm quyền tự quyết trước trận Indonesia&#39;](https://vnexpress.net/hlv-troussier-viet-nam-van-nam-quyen-tu-quyet-truoc-tran-indonesia-4726179.html) - 04:26 25/03/2024
-- 🤗 [HLV Shin Tae-yong: &#39;Indonesia sẽ thắng tiếp Việt Nam&#39;](https://vnexpress.net/hlv-shin-tae-yong-indonesia-se-thang-tiep-viet-nam-4726191.html) - 03:51 25/03/2024
+- 🤗 [HLV Shin Tae-yong: &#39;Indonesia sẽ phá dớp 20 năm không thắng ở Mỹ Đình&#39;](https://vnexpress.net/hlv-shin-tae-yong-indonesia-se-pha-dop-20-nam-khong-thang-o-my-dinh-4726191.html) - 03:51 25/03/2024
 - 🥳 [DNF thì sao?](https://vnexpress.net/dnf-thi-sao-4726172.html) - 03:36 25/03/2024
 - 🦣 [Rune thua thảm ở Miami Open 2024](https://vnexpress.net/rune-thua-tham-o-miami-open-2024-4726220.html) - 03:14 25/03/2024
 - 🌜 [Djokovic hẹn Nadal ở Monte Carlo](https://vnexpress.net/djokovic-hen-nadal-o-monte-carlo-4726200.html) - 02:28 25/03/2024
