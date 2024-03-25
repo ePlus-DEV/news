@@ -30,7 +30,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧰 [Nhiều bệnh nhân ở miền Tây vẫn mòn mỏi chờ máu](https://vnexpress.net/nhieu-benh-nhan-o-mien-tay-van-mon-moi-cho-mau-4725457.html) - 13:24 25/03/2024
 - 🥰 [Indonesia thiếu ngôi sao ném biên ở buổi tập trên sân Mỹ Đình](https://vnexpress.net/indonesia-thieu-ngoi-sao-nem-bien-o-buoi-tap-tren-san-my-dinh-4726445.html) - 13:14 25/03/2024
 - 🌏 [7 học sinh tắm sông, hai em chết đuối](https://vnexpress.net/7-hoc-sinh-tam-song-hai-em-chet-duoi-4726501.html) - 13:12 25/03/2024
-- 🧐 [Điện thoại Huawei &#39;chiếm sóng&#39; trong ảnh selfie với Tim Cook](https://vnexpress.net/dien-thoai-huawei-chiem-song-trong-anh-selfie-voi-tim-cook-4726449.html) - 13:12 25/03/2024
+- 🧐 [Điện thoại Huawei gây chú ý khi người dùng selfie với Tim Cook](https://vnexpress.net/dien-thoai-huawei-gay-chu-y-trong-anh-selfie-voi-tim-cook-4726449.html) - 13:12 25/03/2024
 - 💫 [&#39;Vương quốc gạch gốm&#39; nằm ở tỉnh nào?](https://vnexpress.net/vuong-quoc-gach-gom-nam-o-tinh-nao-4726444.html) - 13:00 25/03/2024
 - 😺 [Loài chim vặt lông con mồi và giam vào &#39;nhà tù&#39; đá](https://vnexpress.net/loai-chim-vat-long-con-moi-va-giam-vao-nha-tu-da-4726436.html) - 13:00 25/03/2024
 - 🕯 [Bộ sưu tập túi tỷ đồng của Á hậu Phương Anh](https://vnexpress.net/bo-suu-tap-tui-ty-dong-cua-a-hau-phuong-anh-4726301.html) - 13:00 25/03/2024
