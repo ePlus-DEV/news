@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Động đất ở Mỹ Đức, nội thành rung lắc](https://vnexpress.net/dong-dat-o-my-duc-noi-thanh-rung-lac-4726168.html) - 01:45 25/03/2024
+- 🦒 [Động đất ở Mỹ Đức, nội thành Hà Nội rung lắc](https://vnexpress.net/dong-dat-o-my-duc-noi-thanh-ha-noi-rung-lac-4726168.html) - 01:45 25/03/2024
 - 🤓 [Cảnh sát luyện diễu binh mừng chiến thắng Điện Biên Phủ](https://video.vnexpress.net/canh-sat-luyen-dieu-binh-mung-chien-thang-dien-bien-phu-4726051.html) - 01:10 25/03/2024
 - ⚗️ [Loạt dự án ở TP HCM sẽ được đẩy nhanh nhờ cách làm mới](https://vnexpress.net/loat-du-an-o-tp-hcm-se-duoc-day-nhanh-nho-cach-lam-moi-4726071.html) - 23:00 24/03/2024
 - 🌊 [Nữ kỹ sư khởi nghiệp từ đông trùng hạ thảo](https://vnexpress.net/nu-ky-su-khoi-nghiep-tu-dong-trung-ha-thao-4725938.html) - 17:00 24/03/2024
