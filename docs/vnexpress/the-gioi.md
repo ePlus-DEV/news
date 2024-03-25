@@ -53,7 +53,7 @@ sidebar_position: 2
 - 👹 [Các lãnh đạo thế giới chúc Vương phi Kate chóng bình phục](https://vnexpress.net/cac-lanh-dao-the-gioi-chuc-vuong-phi-kate-chong-binh-phuc-4725798.html) - 07:24 23/03/2024
 - ⛽️ [Việt Nam chia buồn về vụ khủng bố tại Nga](https://vnexpress.net/viet-nam-chia-buon-ve-vu-khung-bo-tai-nga-4725784.html) - 06:43 23/03/2024
 - 🚀 [Việt Nam lên tiếng về tranh cãi Trung Quốc - Philippines liên quan Biển Đông](https://vnexpress.net/viet-nam-len-tieng-ve-tranh-cai-trung-quoc-philippines-lien-quan-bien-dong-4725772.html) - 05:36 23/03/2024
-- 🎡 [IS - bóng ma ám ảnh nước Nga](https://vnexpress.net/is-bong-ma-am-anh-nuoc-nga-4725660.html) - 05:16 23/03/2024
+- 🎡 [Lý do bóng ma IS trỗi dậy ám ảnh nước Nga](https://vnexpress.net/ly-do-bong-ma-is-troi-day-am-anh-nuoc-nga-4725660.html) - 05:16 23/03/2024
 - 🕯 [Nga nêu lý do tập kích dồn dập Ukraine trong tuần qua](https://vnexpress.net/nga-neu-ly-do-tap-kich-don-dap-ukraine-trong-tuan-qua-4725737.html) - 04:55 23/03/2024
 - 🐻 [Ông Putin từng bác cảnh báo về nguy cơ tấn công khủng bố](https://vnexpress.net/ong-putin-tung-bac-canh-bao-ve-nguy-co-tan-cong-khung-bo-4725742.html) - 04:22 23/03/2024
 - 🚦 [Hoài nghi về năng lực an ninh Nga trong vụ khủng bố nhà hát](https://vnexpress.net/hoai-nghi-ve-nang-luc-an-ninh-nga-trong-vu-khung-bo-nha-hat-4725684.html) - 04:05 23/03/2024
