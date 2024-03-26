@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Siêu lừa xin dùng 7,3 triệu cổ phiếu &#39;gán nợ&#39; 244 tỷ đồng cho VietABank](https://vnexpress.net/sieu-lua-xin-dung-7-3-trieu-co-phieu-gan-no-244-ty-dong-cho-vietabank-4726940.html) - 13:50 26/03/2024
+- 😎 [Siêu lừa xin dùng 7,3 triệu cổ phiếu &#39;gán nợ&#39; 249 tỷ đồng cho VietABank](https://vnexpress.net/sieu-lua-xin-dung-7-3-trieu-co-phieu-gan-no-244-ty-dong-cho-vietabank-4726940.html) - 13:50 26/03/2024
 - 🥰 [Đại gia cát miền Tây trốn thuế nhiều tỷ đồng](https://vnexpress.net/dai-gia-cat-mien-tay-tron-thue-nhieu-ty-dong-4726902.html) - 13:01 26/03/2024
 - 🎓 [Cựu phó chánh thanh tra ngân hàng bưng bít sai phạm SCB vì &#39;sắp về hưu, chểnh mảng&#39;](https://vnexpress.net/cuu-pho-chanh-thanh-tra-ngan-hang-bung-bit-sai-pham-scb-vi-sap-ve-huu-chenh-mang-4726924.html) - 11:54 26/03/2024
 - 🤓 [Tông xe vào cảnh sát cầm máy đo nồng độ cồn](https://vnexpress.net/tong-xe-vao-canh-sat-cam-may-do-nong-do-con-4726810.html) - 11:09 26/03/2024
