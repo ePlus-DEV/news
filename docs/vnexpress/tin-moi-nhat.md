@@ -51,6 +51,4 @@ sidebar_position: 9
 - 👺 [HLV Shin: &#39;Việt Nam không hề suy yếu&#39;](https://vnexpress.net/hlv-shin-viet-nam-khong-he-suy-yeu-4726876.html) - 13:58 26/03/2024
 - 🎡 [Iraq giành vé vào vòng loại thứ ba World Cup](https://vnexpress.net/iraq-gianh-ve-vao-vong-loai-thu-ba-world-cup-4726950.html) - 13:57 26/03/2024
 - 👍 [Siêu lừa xin dùng 7,3 triệu cổ phiếu &#39;gán nợ&#39; 249 tỷ đồng cho VietABank](https://vnexpress.net/sieu-lua-xin-dung-7-3-trieu-co-phieu-gan-no-244-ty-dong-cho-vietabank-4726940.html) - 13:50 26/03/2024
-- 🐎 [Nga cáo buộc phương Tây, Ukraine hỗ trợ nghi phạm xả súng ở Moskva](https://vnexpress.net/nga-cao-buoc-phuong-tay-ukraine-ho-tro-nghi-pham-xa-sung-o-moskva-4726967.html) - 13:40 26/03/2024
-- 🏊 [Cách &#39;Shark&#39; Thủy vận hành Egroup trước khi bị bắt](https://vnexpress.net/cach-shark-thuy-van-hanh-egroup-truoc-khi-bi-bat-4726932.html) - 13:40 26/03/2024
-- 🦩 [Gần 12.000 cơ sở mầm non giáo dục kiến thức an toàn giao thông](https://vnexpress.net/gan-12-000-co-so-mam-non-giao-duc-kien-thuc-an-toan-giao-thong-4726965.html) - 13:30 26/03/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🐎 [Nga cáo buộc phương Tây, Ukraine hỗ trợ nghi phạm xả súng ở Moskva](https://vnexpress.net/nga-cao-buoc-phuong-tay-ukraine-ho-tro-nghi-pham-xa-sung-o-moskva-4726967.html) - 13:40 26/03/2024<!-- vnexpress-tin-moi-nhat:END -->
