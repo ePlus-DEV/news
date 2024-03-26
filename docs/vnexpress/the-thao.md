@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [HLV Troussier họp báo sau trận Việt Nam - Indonesia](https://vnexpress.net/hlv-troussier-hop-bao-sau-tran-viet-nam-indonesia-4726879.html) - 14:29 26/03/2024
+- 🪜 [HLV Troussier: &#39;Tương lai của tôi nên được đề cập vào thời điểm khác&#39;](https://vnexpress.net/hlv-troussier-tuong-lai-cua-toi-nen-duoc-de-cap-vao-thoi-diem-khac-4726879.html) - 14:29 26/03/2024
 - 🦩 [Việt Nam mất mát thế nào dưới thời HLV Troussier](https://vnexpress.net/viet-nam-mat-mat-the-nao-duoi-thoi-hlv-troussier-4726900.html) - 14:27 26/03/2024
 - 🧰 [Cơ hội của Việt Nam ở vòng loại World Cup 2026 mỏng manh thế nào](https://vnexpress.net/co-hoi-cua-viet-nam-o-vong-loai-world-cup-2026-mong-manh-the-nao-4726973.html) - 14:22 26/03/2024
 - 🤗 [HLV Troussier bất lực khi Việt Nam thảm bại](https://vnexpress.net/hlv-troussier-bat-luc-khi-viet-nam-tham-bai-4726968.html) - 14:19 26/03/2024
@@ -15,7 +15,7 @@ sidebar_position: 5
 - 🌜 [Thái Lan thua đậm Hàn Quốc trên sân nhà](https://vnexpress.net/truc-tiep-thai-lan-vs-han-quoc-4726948.html) - 11:41 26/03/2024
 - 😺 [CĐV đổ về sân Mỹ Đình cổ vũ tuyển Việt Nam](https://video.vnexpress.net/cdv-do-ve-san-my-dinh-co-vu-tuyen-viet-nam-4726946.html) - 11:40 26/03/2024
 - 👍 [CĐV khuấy động trước trận Việt Nam - Indonesia](https://vnexpress.net/cdv-khuay-dong-truoc-tran-viet-nam-indonesia-4726937.html) - 10:56 26/03/2024
-- 🐵 [Việt Nam thua đậm Indonesia ở vòng loại World Cup 2026](https://vnexpress.net/viet-nam-thua-dam-indonesia-o-vong-loai-world-cup-2026-4726897-tong-thuat.html) - 10:29 26/03/2024
+- 🐵 [Việt Nam thua đậm Indonesia ở vòng loại World Cup 2026](https://vnexpress.net/viet-nam-vs-indonesia-4726897-tong-thuat.html) - 10:29 26/03/2024
 - 💫 [Khởi động giải chạy online &#39;An Giang - Dấu chân huyền bí&#39;](https://vnexpress.net/khoi-dong-giai-chay-online-an-giang-dau-chan-huyen-bi-4726867.html) - 09:00 26/03/2024
 - 🦆 [Quyết Chiến, Phương Vinh trở về với Cup Vô địch Thế giới](https://vnexpress.net/quyet-chien-phuong-vinh-tro-ve-voi-cup-vo-dich-the-gioi-4726866.html) - 08:52 26/03/2024
 - 🙉 [Làm thế nào chống lại vũ khí ném biên của Indonesia?](https://vnexpress.net/lam-the-nao-chong-lai-vu-khi-nem-bien-cua-indonesia-4726849.html) - 08:36 26/03/2024
