@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Miền Tây trong cơn &#39;khát&#39; mùa hạn mặn](https://vnexpress.net/mien-tay-trong-con-khat-mua-han-man-4726300.html) - 22:00 25/03/2024
 - 🤓 [Diễu hành xe hoa trước Lễ hội Quán Thế Âm](https://vnexpress.net/dieu-hanh-xe-hoa-truoc-le-hoi-quan-the-am-4726513.html) - 15:52 25/03/2024
 - ⚗️ [Thu phí sử dụng cao tốc Nhà nước đầu tư &#39;là phù hợp&#39;](https://vnexpress.net/thu-phi-su-dung-cao-toc-nha-nuoc-dau-tu-la-phu-hop-4726512.html) - 15:41 25/03/2024
-- 🌊 [7 học sinh tắm sông, hai em chết đuối](https://vnexpress.net/7-hoc-sinh-tam-song-hai-em-chet-duoi-4726501.html) - 13:12 25/03/2024
+- 🌊 [Hai nam sinh đuối nước khi tắm sông](https://vnexpress.net/hai-nam-sinh-duoi-nuoc-khi-tam-song-4726501.html) - 13:12 25/03/2024
 - 🎓 [Gần 9.300 tỷ đồng nâng cấp ba quốc lộ ở Đồng bằng sông Cửu Long](https://vnexpress.net/gan-9-300-ty-dong-nang-cap-ba-quoc-lo-o-dong-bang-song-cuu-long-4726152.html) - 10:33 25/03/2024
 - 🔥 [Nước biển đổi màu đỏ](https://vnexpress.net/nuoc-bien-doi-mau-do-4726457.html) - 09:57 25/03/2024
 - 🦏 [Ông Lê Hải Bình làm Tổng biên tập Tạp chí Cộng sản](https://vnexpress.net/ong-le-hai-binh-lam-tong-bien-tap-tap-chi-cong-san-4726517.html) - 09:00 25/03/2024
