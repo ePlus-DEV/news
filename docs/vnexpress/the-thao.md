@@ -5,10 +5,10 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Alcaraz vào vòng bốn Miami Open](https://vnexpress.net/alcaraz-vao-vong-bon-miami-open-4726840.html) - 11:45 26/03/2024
-- 🦩 [Thái Lan - Hàn Quốc](https://vnexpress.net/thai-lan-han-quoc-4726948.html) - 11:41 26/03/2024
+- 🦩 [Thái Lan - Hàn Quốc: Chanathip, Son Heung-min đá chính](https://vnexpress.net/thai-lan-han-quoc-chanathip-son-heung-min-da-chinh-4726948.html) - 11:41 26/03/2024
 - 🧰 [Cổ động viên tin tuyển Việt Nam giành chiến thắng](https://video.vnexpress.net/co-dong-vien-tin-tuyen-viet-nam-gianh-chien-thang-4726946.html) - 11:40 26/03/2024
-- 🤗 [CĐV kéo về Mỹ Đình cổ vũ tuyển Việt Nam](https://vnexpress.net/cdv-keo-ve-my-dinh-co-vu-tuyen-viet-nam-4726937.html) - 10:56 26/03/2024
-- 🥳 [Việt Nam - Indonesia: Cầu thủ họp đội trên sân](https://vnexpress.net/viet-nam-vs-indonesia-4726897.html) - 10:29 26/03/2024
+- 🤗 [CĐV khuấy động trước trận Việt Nam - Indonesia](https://vnexpress.net/cdv-khuay-dong-truoc-tran-viet-nam-indonesia-4726937.html) - 10:56 26/03/2024
+- 🥳 [Việt Nam 0-1 Indonesia &lpar;H1&rpar;: Tiến Linh suýt gỡ hòa](https://vnexpress.net/viet-nam-vs-indonesia-4726897.html) - 10:29 26/03/2024
 - 🦣 [Khởi động giải chạy online &#39;An Giang - Dấu chân huyền bí&#39;](https://vnexpress.net/khoi-dong-giai-chay-online-an-giang-dau-chan-huyen-bi-4726867.html) - 09:00 26/03/2024
 - 🌜 [Quyết Chiến, Phương Vinh trở về với Cup Vô địch Thế giới](https://vnexpress.net/quyet-chien-phuong-vinh-tro-ve-voi-cup-vo-dich-the-gioi-4726866.html) - 08:52 26/03/2024
 - 🫶 [Làm thế nào chống lại vũ khí ném biên của Indonesia?](https://vnexpress.net/lam-the-nao-chong-lai-vu-khi-nem-bien-cua-indonesia-4726849.html) - 08:36 26/03/2024
