@@ -12,7 +12,7 @@ sidebar_position: 9
 - 🎃 [CĐV kéo về Mỹ Đình cổ vũ tuyển Việt Nam](https://vnexpress.net/cdv-keo-ve-my-dinh-co-vu-tuyen-viet-nam-4726937.html) - 10:56 26/03/2024
 - 🧰 [Đồng minh ca ngợi ông Trump khắc chế cuộc chiến pháp lý](https://vnexpress.net/dong-minh-ca-ngoi-ong-trump-khac-che-cuoc-chien-phap-ly-4726855.html) - 10:50 26/03/2024
 - 🔭 [Nhiều chính sách hỗ trợ đối tác khởi nghiệp nhượng quyền bưu cục](https://vnexpress.net/nhieu-chinh-sach-ho-tro-doi-tac-khoi-nghiep-nhuong-quyen-buu-cuc-4726883.html) - 10:30 26/03/2024
-- 🫶 [Việt Nam - Indonesia: Tiến Linh, Hoàng Đức đá chính](https://vnexpress.net/viet-nam-vs-indonesia-4726897.html) - 10:29 26/03/2024
+- 🫶 [Việt Nam - Indonesia: Cầu thủ họp đội trên sân](https://vnexpress.net/viet-nam-vs-indonesia-4726897.html) - 10:29 26/03/2024
 - 🪜 [Sẽ chi trả an sinh xã hội trên ứng dụng VNeID](https://vnexpress.net/se-chi-tra-an-sinh-xa-hoi-tren-ung-dung-vneid-4726910.html) - 10:29 26/03/2024
 - 👨‍🏫 [Chánh án giải thích việc &#39;thắt chặt ghi âm, ghi hình&#39; tại phiên tòa](https://vnexpress.net/chanh-an-giai-thich-viec-that-chat-ghi-am-ghi-hinh-tai-phien-toa-4726893.html) - 10:12 26/03/2024
 - 🎊 [Điểm tin 17h: Shark Thủy bị bắt; Apax ngừng hoàn học phí cho phụ huynh](https://vnexpress.net/diem-tin-17h-shark-thuy-bi-bat-apax-ngung-hoan-hoc-phi-cho-phu-huynh-4726915.html) - 10:06 26/03/2024
