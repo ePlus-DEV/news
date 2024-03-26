@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Bitcoin lấy lại mốc 70.000 USD](https://vnexpress.net/bitcoin-lay-lai-moc-70-000-usd-4726612.html) - 02:36 26/03/2024
-- 🐲 [Các công ty chứng khoán bị yêu cầu báo cáo về bảo mật hệ thống](https://vnexpress.net/cac-cong-ty-chung-khoan-bi-yeu-cau-bao-cao-ve-bao-mat-he-thong-4726595.html) - 02:17 26/03/2024
+- 🐲 [Các công ty chứng khoán phải báo cáo về bảo mật hệ thống](https://vnexpress.net/cac-cong-ty-chung-khoan-phai-bao-cao-ve-bao-mat-he-thong-4726595.html) - 02:17 26/03/2024
 - 🔥 [Tài sản của Trump tăng gấp đôi trong một ngày](https://vnexpress.net/tai-san-cua-trump-tang-gap-doi-trong-mot-ngay-4726584.html) - 01:51 26/03/2024
 - 🐵 [Hành trình nửa thế kỷ phát triển của Nhựa Bình Minh](https://vnexpress.net/hanh-trinh-nua-the-ky-phat-trien-cua-nhua-binh-minh-4721460.html) - 01:00 26/03/2024
 - 🦅 [Vì sao yen vẫn mất giá dù Nhật Bản dừng lãi suất âm](https://vnexpress.net/vi-sao-yen-van-mat-gia-du-nhat-ban-dung-lai-suat-am-4726371.html) - 23:43 25/03/2024
