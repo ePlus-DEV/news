@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Quang Hải thất vọng trận thua Indonesia](https://video.vnexpress.net/quang-hai-that-vong-tran-thua-indonesia-4726995.html) - 17:06 26/03/2024
 - 🦩 [VFF chấm dứt hợp đồng với HLV Troussier](https://vnexpress.net/vff-cham-dut-hop-dong-voi-hlv-troussier-4725844.html) - 16:23 26/03/2024
 - 🧰 [CĐV mất niềm tin với HLV Troussier sau trận thua Indonesia](https://video.vnexpress.net/cdv-mat-niem-tin-voi-hlv-troussier-sau-tran-thua-indonesia-4726984.html) - 15:32 26/03/2024
-- 🤗 [Quang Hải rớm nước mắt khi ngồi ngoài trận Việt Nam thua Indonesia](https://vnexpress.net/quang-hai-rom-nuoc-mat-khi-ngoi-ngoai-tran-viet-nam-thua-indonesia-4726972.html) - 15:18 26/03/2024
+- 🤗 [Quang Hải rớm nước mắt khi ngồi ngoài trận Việt Nam - Indonesia](https://vnexpress.net/quang-hai-rom-nuoc-mat-khi-ngoi-ngoai-tran-viet-nam-indonesia-4726972.html) - 15:18 26/03/2024
 - 🥳 [HLV Troussier: &#39;Tương lai của tôi nên được đề cập vào thời điểm khác&#39;](https://vnexpress.net/hlv-troussier-tuong-lai-cua-toi-nen-duoc-de-cap-vao-thoi-diem-khac-4726879.html) - 14:29 26/03/2024
 - 🦣 [Việt Nam mất mát thế nào dưới thời HLV Troussier](https://vnexpress.net/viet-nam-mat-mat-the-nao-duoi-thoi-hlv-troussier-4726900.html) - 14:27 26/03/2024
 - 🌜 [Cơ hội của Việt Nam ở vòng loại World Cup 2026 mỏng manh thế nào](https://vnexpress.net/co-hoi-cua-viet-nam-o-vong-loai-world-cup-2026-mong-manh-the-nao-4726973.html) - 14:22 26/03/2024
