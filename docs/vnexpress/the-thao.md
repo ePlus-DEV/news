@@ -4,47 +4,47 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Kroos giúp Đức đánh bại Hà Lan](https://vnexpress.net/kroos-giup-duc-danh-bai-ha-lan-4727007.html) - 23:33 26/03/2024
-- 🦩 [Bellingham giúp Anh thoát thua Bỉ ở phút bù](https://vnexpress.net/bellingham-giup-anh-thoat-thua-bi-o-phut-bu-4727011.html) - 23:32 26/03/2024
-- 🧰 [Việt Nam tụt bậc FIFA sâu nhất sau tám năm](https://vnexpress.net/viet-nam-tut-bac-fifa-sau-nhat-sau-tam-nam-4727006.html) - 23:29 26/03/2024
-- 🤗 [Xác định 3 đội cuối dự Euro 2024](https://vnexpress.net/xac-dinh-3-doi-cuoi-du-euro-2024-4727009.html) - 23:19 26/03/2024
-- 🥳 [Bồ Đào Nha thua trong ngày Ronaldo tái xuất](https://vnexpress.net/bo-dao-nha-thua-trong-ngay-ronaldo-tai-xuat-4727004.html) - 23:04 26/03/2024
-- 🦣 [Rủi ro khi dự các giải chạy trail](https://vnexpress.net/rui-ro-khi-du-cac-giai-chay-trail-4726771.html) - 22:00 26/03/2024
-- 🌜 [VFF chấm dứt hợp đồng với HLV Troussier](https://vnexpress.net/vff-cham-dut-hop-dong-voi-hlv-troussier-4725844.html) - 16:23 26/03/2024
-- 🫶 [CĐV mất niềm tin với HLV Troussier sau trận thua Indonesia](https://video.vnexpress.net/cdv-mat-niem-tin-voi-hlv-troussier-sau-tran-thua-indonesia-4726984.html) - 15:32 26/03/2024
-- 🌜 [Quang Hải rớm nước mắt khi ngồi ngoài trận Việt Nam - Indonesia](https://vnexpress.net/quang-hai-rom-nuoc-mat-khi-ngoi-ngoai-tran-viet-nam-indonesia-4726972.html) - 15:18 26/03/2024
-- 😺 [HLV Troussier: &#39;Nếu Việt Nam ghi bàn, trận đấu sẽ theo chiều hướng khác&#39;](https://vnexpress.net/hlv-troussier-neu-viet-nam-ghi-ban-tran-dau-se-theo-chieu-huong-khac-4726879.html) - 14:29 26/03/2024
-- 👍 [Việt Nam mất mát thế nào dưới thời HLV Troussier](https://vnexpress.net/viet-nam-mat-mat-the-nao-duoi-thoi-hlv-troussier-4726900.html) - 14:27 26/03/2024
-- 🐵 [Cơ hội của Việt Nam ở vòng loại World Cup 2026 mỏng manh thế nào](https://vnexpress.net/co-hoi-cua-viet-nam-o-vong-loai-world-cup-2026-mong-manh-the-nao-4726973.html) - 14:22 26/03/2024
-- 💫 [HLV Troussier bất lực trước Indonesia](https://vnexpress.net/hlv-troussier-bat-luc-truoc-indonesia-4726968.html) - 14:19 26/03/2024
-- 🦆 [&#39;HLV Troussier nên dũng cảm từ chức&#39;](https://vnexpress.net/hlv-troussier-nen-dung-cam-tu-chuc-4726970.html) - 14:14 26/03/2024
-- 🙉 [HLV Shin: &#39;Việt Nam không hề suy yếu&#39;](https://vnexpress.net/hlv-shin-viet-nam-khong-he-suy-yeu-4726876.html) - 13:58 26/03/2024
-- 📝 [Iraq giành vé vào vòng loại thứ ba World Cup](https://vnexpress.net/iraq-gianh-ve-vao-vong-loai-thu-ba-world-cup-4726950.html) - 13:57 26/03/2024
-- 💯 [Alcaraz vào vòng bốn Miami Open](https://vnexpress.net/alcaraz-vao-vong-bon-miami-open-4726840.html) - 11:45 26/03/2024
-- 🌈 [Thái Lan thua đậm Hàn Quốc trên sân nhà](https://vnexpress.net/truc-tiep-thai-lan-vs-han-quoc-4726948-tong-thuat.html) - 11:41 26/03/2024
-- 🦩 [CĐV đổ về sân Mỹ Đình cổ vũ tuyển Việt Nam](https://video.vnexpress.net/cdv-do-ve-san-my-dinh-co-vu-tuyen-viet-nam-4726946.html) - 11:40 26/03/2024
-- 🐲 [CĐV khuấy động trước trận Việt Nam - Indonesia](https://vnexpress.net/cdv-khuay-dong-truoc-tran-viet-nam-indonesia-4726937.html) - 10:56 26/03/2024
-- 🌁 [Việt Nam thua đậm Indonesia ở vòng loại World Cup 2026](https://vnexpress.net/viet-nam-vs-indonesia-4726897-tong-thuat.html) - 10:29 26/03/2024
-- 💯 [Khởi động giải chạy online &#39;An Giang - Dấu chân huyền bí&#39;](https://vnexpress.net/khoi-dong-giai-chay-online-an-giang-dau-chan-huyen-bi-4726867.html) - 09:00 26/03/2024
-- 🌝 [Quyết Chiến, Phương Vinh trở về với Cup Vô địch Thế giới](https://vnexpress.net/quyet-chien-phuong-vinh-tro-ve-voi-cup-vo-dich-the-gioi-4726866.html) - 08:52 26/03/2024
-- 🤖 [Làm thế nào chống lại vũ khí ném biên của Indonesia?](https://vnexpress.net/lam-the-nao-chong-lai-vu-khi-nem-bien-cua-indonesia-4726849.html) - 08:36 26/03/2024
-- 🕯 [Ngọt Nguyễn mơ một lần vô địch VnExpress Marathon Huế](https://vnexpress.net/ngot-nguyen-mo-mot-lan-vo-dich-vnexpress-marathon-hue-4726000.html) - 07:40 26/03/2024
-- 🧰 [Trung Quốc có kỷ lục marathon thứ ba sau một năm](https://vnexpress.net/trung-quoc-co-ky-luc-marathon-thu-ba-sau-mot-nam-4726794.html) - 07:03 26/03/2024
-- 🥳 [Chiến tích vang dội PGA Tour ở Valspar Championship 2024](https://vnexpress.net/chien-tich-vang-doi-pga-tour-o-valspar-championship-2024-4726784.html) - 06:34 26/03/2024
-- 👍 [Kane tập lại ngay sau khi rời tuyển Anh](https://vnexpress.net/kane-tap-lai-ngay-sau-khi-roi-tuyen-anh-4726772.html) - 06:19 26/03/2024
-- 💪 [Carlsen thua kỳ thủ 10 tuổi](https://vnexpress.net/carlsen-thua-ky-thu-10-tuoi-4726765.html) - 06:00 26/03/2024
-- 👹 [Cựu trung vệ Mạnh Dũng: &#39;Muốn hạ Indonesia, phải cương nhu đúng lúc&#39;](https://vnexpress.net/cuu-trung-ve-manh-dung-muon-ha-indonesia-phai-cuong-nhu-dung-luc-4726602.html) - 05:23 26/03/2024
-- 🧰 [Việt Nam - Indonesia: Không còn đường lùi ở Mỹ Đình](https://vnexpress.net/viet-nam-indonesia-khong-con-duong-lui-o-my-dinh-4726726.html) - 05:00 26/03/2024
-- 🚀 [Mbappe lĩnh lương cao hơn gấp đôi Kane](https://vnexpress.net/mbappe-linh-luong-cao-hon-gap-doi-kane-4726585.html) - 04:09 26/03/2024
-- 🎃 [Báo Anh: &#39;Việt Nam có khả năng thắng cao gấp đôi Indonesia&#39;](https://vnexpress.net/bao-anh-viet-nam-co-kha-nang-thang-cao-gap-doi-indonesia-4726631.html) - 03:18 26/03/2024
-- 🧰 [Đồng đội lỡ lời xác nhận Mbappe gia nhập Real](https://vnexpress.net/dong-doi-lo-loi-xac-nhan-mbappe-gia-nhap-real-4726488.html) - 23:40 25/03/2024
-- 👀 [Báo Đức: &#39;Việt Nam xứng đáng vô địch billiard thế giới&#39;](https://vnexpress.net/bao-duc-viet-nam-xung-dang-vo-dich-billiard-the-gioi-4726411.html) - 23:34 25/03/2024
-- 🌜 [Dani Alves ra tù](https://vnexpress.net/dani-alves-ra-tu-4726554.html) - 23:14 25/03/2024
-- 🫶 [Lợi ích của chạy bộ với tình dục](https://vnexpress.net/loi-ich-cua-chay-bo-voi-tinh-duc-4726551.html) - 22:55 25/03/2024
-- 🦄 [Hoàng Nguyên Thanh mơ thi marathon ở Olympic](https://vnexpress.net/hoang-nguyen-thanh-mo-thi-marathon-o-olympic-4726224.html) - 22:00 25/03/2024
-- 🥳 [Cancelo: &#39;Guardiola dối trá, Man City vô ơn&#39;](https://vnexpress.net/cancelo-guardiola-doi-tra-man-city-vo-on-4726538.html) - 17:00 25/03/2024
-- 🐲 [Indonesia thiếu ngôi sao ném biên ở buổi tập trên sân Mỹ Đình](https://vnexpress.net/indonesia-thieu-ngoi-sao-nem-bien-o-buoi-tap-tren-san-my-dinh-4726445.html) - 13:14 25/03/2024
-- 🧑‍🏫 [Đồng đội của Peter Sagan, Cavendish dự giải xe đạp xuyên Việt](https://vnexpress.net/dong-doi-cua-peter-sagan-cavendish-du-giai-xe-dap-xuyen-viet-4726492.html) - 11:41 25/03/2024
+- 🪜 [Đỗ Hùng Dũng: &#39;HLV đến rồi đi, chỉ đội tuyển còn mãi&#39;](https://vnexpress.net/do-hung-dung-hlv-den-roi-di-chi-doi-tuyen-con-mai-4727005.html) - 23:45 26/03/2024
+- 🦩 [Kroos giúp Đức đánh bại Hà Lan](https://vnexpress.net/kroos-giup-duc-danh-bai-ha-lan-4727007.html) - 23:33 26/03/2024
+- 🧰 [Bellingham giúp Anh thoát thua Bỉ ở phút bù](https://vnexpress.net/bellingham-giup-anh-thoat-thua-bi-o-phut-bu-4727011.html) - 23:32 26/03/2024
+- 🤗 [Việt Nam tụt bậc FIFA sâu nhất sau tám năm](https://vnexpress.net/viet-nam-tut-bac-fifa-sau-nhat-sau-tam-nam-4727006.html) - 23:29 26/03/2024
+- 🥳 [Xác định 3 đội cuối dự Euro 2024](https://vnexpress.net/xac-dinh-3-doi-cuoi-du-euro-2024-4727009.html) - 23:19 26/03/2024
+- 🦣 [Bồ Đào Nha thua trong ngày Ronaldo tái xuất](https://vnexpress.net/bo-dao-nha-thua-trong-ngay-ronaldo-tai-xuat-4727004.html) - 23:04 26/03/2024
+- 🌜 [Rủi ro khi dự các giải chạy trail](https://vnexpress.net/rui-ro-khi-du-cac-giai-chay-trail-4726771.html) - 22:00 26/03/2024
+- 🫶 [VFF chấm dứt hợp đồng với HLV Troussier](https://vnexpress.net/vff-cham-dut-hop-dong-voi-hlv-troussier-4725844.html) - 16:23 26/03/2024
+- 🌜 [CĐV mất niềm tin với HLV Troussier sau trận thua Indonesia](https://video.vnexpress.net/cdv-mat-niem-tin-voi-hlv-troussier-sau-tran-thua-indonesia-4726984.html) - 15:32 26/03/2024
+- 😺 [Quang Hải rớm nước mắt khi ngồi ngoài trận Việt Nam - Indonesia](https://vnexpress.net/quang-hai-rom-nuoc-mat-khi-ngoi-ngoai-tran-viet-nam-indonesia-4726972.html) - 15:18 26/03/2024
+- 👍 [HLV Troussier: &#39;Nếu Việt Nam ghi bàn, trận đấu sẽ theo chiều hướng khác&#39;](https://vnexpress.net/hlv-troussier-neu-viet-nam-ghi-ban-tran-dau-se-theo-chieu-huong-khac-4726879.html) - 14:29 26/03/2024
+- 🐵 [Việt Nam mất mát thế nào dưới thời HLV Troussier](https://vnexpress.net/viet-nam-mat-mat-the-nao-duoi-thoi-hlv-troussier-4726900.html) - 14:27 26/03/2024
+- 💫 [Cơ hội của Việt Nam ở vòng loại World Cup 2026 mỏng manh thế nào](https://vnexpress.net/co-hoi-cua-viet-nam-o-vong-loai-world-cup-2026-mong-manh-the-nao-4726973.html) - 14:22 26/03/2024
+- 🦆 [HLV Troussier bất lực trước Indonesia](https://vnexpress.net/hlv-troussier-bat-luc-truoc-indonesia-4726968.html) - 14:19 26/03/2024
+- 🙉 [&#39;HLV Troussier nên dũng cảm từ chức&#39;](https://vnexpress.net/hlv-troussier-nen-dung-cam-tu-chuc-4726970.html) - 14:14 26/03/2024
+- 📝 [HLV Shin: &#39;Việt Nam không hề suy yếu&#39;](https://vnexpress.net/hlv-shin-viet-nam-khong-he-suy-yeu-4726876.html) - 13:58 26/03/2024
+- 💯 [Iraq giành vé vào vòng loại thứ ba World Cup](https://vnexpress.net/iraq-gianh-ve-vao-vong-loai-thu-ba-world-cup-4726950.html) - 13:57 26/03/2024
+- 🌈 [Alcaraz vào vòng bốn Miami Open](https://vnexpress.net/alcaraz-vao-vong-bon-miami-open-4726840.html) - 11:45 26/03/2024
+- 🦩 [Thái Lan thua đậm Hàn Quốc trên sân nhà](https://vnexpress.net/truc-tiep-thai-lan-vs-han-quoc-4726948-tong-thuat.html) - 11:41 26/03/2024
+- 🐲 [CĐV đổ về sân Mỹ Đình cổ vũ tuyển Việt Nam](https://video.vnexpress.net/cdv-do-ve-san-my-dinh-co-vu-tuyen-viet-nam-4726946.html) - 11:40 26/03/2024
+- 🌁 [CĐV khuấy động trước trận Việt Nam - Indonesia](https://vnexpress.net/cdv-khuay-dong-truoc-tran-viet-nam-indonesia-4726937.html) - 10:56 26/03/2024
+- 💯 [Việt Nam thua đậm Indonesia ở vòng loại World Cup 2026](https://vnexpress.net/viet-nam-vs-indonesia-4726897-tong-thuat.html) - 10:29 26/03/2024
+- 🌝 [Khởi động giải chạy online &#39;An Giang - Dấu chân huyền bí&#39;](https://vnexpress.net/khoi-dong-giai-chay-online-an-giang-dau-chan-huyen-bi-4726867.html) - 09:00 26/03/2024
+- 🤖 [Quyết Chiến, Phương Vinh trở về với Cup Vô địch Thế giới](https://vnexpress.net/quyet-chien-phuong-vinh-tro-ve-voi-cup-vo-dich-the-gioi-4726866.html) - 08:52 26/03/2024
+- 🕯 [Làm thế nào chống lại vũ khí ném biên của Indonesia?](https://vnexpress.net/lam-the-nao-chong-lai-vu-khi-nem-bien-cua-indonesia-4726849.html) - 08:36 26/03/2024
+- 🧰 [Ngọt Nguyễn mơ một lần vô địch VnExpress Marathon Huế](https://vnexpress.net/ngot-nguyen-mo-mot-lan-vo-dich-vnexpress-marathon-hue-4726000.html) - 07:40 26/03/2024
+- 🥳 [Trung Quốc có kỷ lục marathon thứ ba sau một năm](https://vnexpress.net/trung-quoc-co-ky-luc-marathon-thu-ba-sau-mot-nam-4726794.html) - 07:03 26/03/2024
+- 👍 [Chiến tích vang dội PGA Tour ở Valspar Championship 2024](https://vnexpress.net/chien-tich-vang-doi-pga-tour-o-valspar-championship-2024-4726784.html) - 06:34 26/03/2024
+- 💪 [Kane tập lại ngay sau khi rời tuyển Anh](https://vnexpress.net/kane-tap-lai-ngay-sau-khi-roi-tuyen-anh-4726772.html) - 06:19 26/03/2024
+- 👹 [Carlsen thua kỳ thủ 10 tuổi](https://vnexpress.net/carlsen-thua-ky-thu-10-tuoi-4726765.html) - 06:00 26/03/2024
+- 🧰 [Cựu trung vệ Mạnh Dũng: &#39;Muốn hạ Indonesia, phải cương nhu đúng lúc&#39;](https://vnexpress.net/cuu-trung-ve-manh-dung-muon-ha-indonesia-phai-cuong-nhu-dung-luc-4726602.html) - 05:23 26/03/2024
+- 🚀 [Việt Nam - Indonesia: Không còn đường lùi ở Mỹ Đình](https://vnexpress.net/viet-nam-indonesia-khong-con-duong-lui-o-my-dinh-4726726.html) - 05:00 26/03/2024
+- 🎃 [Mbappe lĩnh lương cao hơn gấp đôi Kane](https://vnexpress.net/mbappe-linh-luong-cao-hon-gap-doi-kane-4726585.html) - 04:09 26/03/2024
+- 🧰 [Báo Anh: &#39;Việt Nam có khả năng thắng cao gấp đôi Indonesia&#39;](https://vnexpress.net/bao-anh-viet-nam-co-kha-nang-thang-cao-gap-doi-indonesia-4726631.html) - 03:18 26/03/2024
+- 👀 [Đồng đội lỡ lời xác nhận Mbappe gia nhập Real](https://vnexpress.net/dong-doi-lo-loi-xac-nhan-mbappe-gia-nhap-real-4726488.html) - 23:40 25/03/2024
+- 🌜 [Báo Đức: &#39;Việt Nam xứng đáng vô địch billiard thế giới&#39;](https://vnexpress.net/bao-duc-viet-nam-xung-dang-vo-dich-billiard-the-gioi-4726411.html) - 23:34 25/03/2024
+- 🫶 [Dani Alves ra tù](https://vnexpress.net/dani-alves-ra-tu-4726554.html) - 23:14 25/03/2024
+- 🦄 [Lợi ích của chạy bộ với tình dục](https://vnexpress.net/loi-ich-cua-chay-bo-voi-tinh-duc-4726551.html) - 22:55 25/03/2024
+- 🥳 [Hoàng Nguyên Thanh mơ thi marathon ở Olympic](https://vnexpress.net/hoang-nguyen-thanh-mo-thi-marathon-o-olympic-4726224.html) - 22:00 25/03/2024
+- 🐲 [Cancelo: &#39;Guardiola dối trá, Man City vô ơn&#39;](https://vnexpress.net/cancelo-guardiola-doi-tra-man-city-vo-on-4726538.html) - 17:00 25/03/2024
+- 🧑‍🏫 [Indonesia thiếu ngôi sao ném biên ở buổi tập trên sân Mỹ Đình](https://vnexpress.net/indonesia-thieu-ngoi-sao-nem-bien-o-buoi-tap-tren-san-my-dinh-4726445.html) - 13:14 25/03/2024
 - 🤔 [HLV Troussier gay gắt trước trận đấu Indonesia](https://vnexpress.net/hlv-troussier-gay-gat-truoc-tran-dau-indonesia-4726443.html) - 11:30 25/03/2024
 - 😺 [Jasmin Paris: &#39;Tôi muốn truyền cảm hứng cho nữ giới&#39;](https://vnexpress.net/jasmin-paris-toi-muon-truyen-cam-hung-cho-nu-gioi-4726349.html) - 09:33 25/03/2024
 - 💪 [Cơ thủ Bao Phương Vinh: &#39;Tôi mừng vì đập tan dư luận&#39;](https://vnexpress.net/co-thu-bao-phuong-vinh-toi-mung-vi-dap-tan-du-luan-4726417.html) - 09:14 25/03/2024
