@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [&#39;Vua tôm&#39; Minh Phú tính mở rộng tại thị trường nội địa](https://vnexpress.net/vua-tom-minh-phu-tinh-mo-rong-tai-thi-truong-noi-dia-4726960.html) - 17:22 26/03/2024
+- ⛽️ [&#39;Vua tôm&#39; Minh Phú tính mở rộng thị phần trong nước](https://vnexpress.net/vua-tom-minh-phu-tinh-mo-rong-thi-phan-trong-nuoc-4726960.html) - 17:22 26/03/2024
 - 🐲 [Cách &#39;Shark&#39; Thủy vận hành Egroup trước khi bị bắt](https://vnexpress.net/cach-shark-thuy-van-hanh-egroup-truoc-khi-bi-bat-4726932.html) - 13:40 26/03/2024
 - 🔥 [Giá điện sẽ được điều chỉnh 3 tháng một lần](https://vnexpress.net/gia-dien-se-duoc-dieu-chinh-3-thang-mot-lan-4726957.html) - 13:13 26/03/2024
 - 🐵 [Siêu thị Mỹ lần đầu tăng giá chuối sau hơn 20 năm](https://vnexpress.net/sieu-thi-my-lan-dau-tang-gia-chuoi-sau-hon-20-nam-4726881.html) - 09:59 26/03/2024
