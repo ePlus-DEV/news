@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Người miền Tây trong cơn &#39;khát&#39; mùa hạn mặn](https://vnexpress.net/nguoi-mien-tay-trong-con-khat-mua-han-man-4726300.html) - 22:00 25/03/2024
+- 🦒 [Miền Tây trong cơn &#39;khát&#39; mùa hạn mặn](https://vnexpress.net/mien-tay-trong-con-khat-mua-han-man-4726300.html) - 22:00 25/03/2024
 - 🤓 [Diễu hành xe hoa trước Lễ hội Quán Thế Âm](https://vnexpress.net/dieu-hanh-xe-hoa-truoc-le-hoi-quan-the-am-4726513.html) - 15:52 25/03/2024
 - ⚗️ [Thu phí sử dụng cao tốc Nhà nước đầu tư &#39;là phù hợp&#39;](https://vnexpress.net/thu-phi-su-dung-cao-toc-nha-nuoc-dau-tu-la-phu-hop-4726512.html) - 15:41 25/03/2024
 - 🌊 [7 học sinh tắm sông, hai em chết đuối](https://vnexpress.net/7-hoc-sinh-tam-song-hai-em-chet-duoi-4726501.html) - 13:12 25/03/2024
