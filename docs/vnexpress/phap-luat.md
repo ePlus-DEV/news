@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Hậu &#39;Pháo&#39; lợi dụng thân thiết với người có chức vụ cao để lũng đoạn](https://vnexpress.net/hau-phao-loi-dung-than-thiet-voi-nguoi-co-chuc-vu-cao-de-lung-doan-4721474.html) - 03:42 26/03/2024
+- 😎 [Hậu &#39;Pháo&#39; lợi dụng thân thiết với người chức vụ cao để lũng đoạn](https://vnexpress.net/hau-phao-loi-dung-than-thiet-voi-nguoi-co-chuc-vu-cao-de-lung-doan-4721474.html) - 03:42 26/03/2024
 - 🥰 [&#39;Shark&#39; Thủy bị bắt](https://vnexpress.net/shark-thuy-bi-bat-4726636.html) - 03:05 26/03/2024
 - 🎓 [8 trường hợp nhà nước thu hồi đất do vi phạm từ năm 2025](https://vnexpress.net/8-truong-hop-nha-nuoc-thu-hoi-dat-do-vi-pham-tu-nam-2025-4726265.html) - 23:00 25/03/2024
 - 🤓 [Nhân viên Tập đoàn Vạn Thịnh Phát: &#39;Chỉ làm theo lệnh mà mức án ngang các sếp&#39;](https://vnexpress.net/nhan-vien-tap-doan-van-thinh-phat-chi-lam-theo-lenh-ma-muc-an-ngang-cac-sep-4726494.html) - 17:00 25/03/2024
