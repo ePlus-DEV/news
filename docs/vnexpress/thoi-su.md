@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Thu hẹp đồng hoa hướng dương ở công viên ven sông Sài Gòn](https://vnexpress.net/thu-hep-dong-hoa-huong-duong-o-cong-vien-ven-song-sai-gon-4726760.html) - 05:28 26/03/2024
 - 🤓 [Lo ngại khiếu kiện nếu Hà Nội được áp dụng cơ chế đặc thù để thu hồi đất](https://vnexpress.net/lo-ngai-khieu-kien-neu-ha-noi-duoc-ap-dung-co-che-dac-thu-de-thu-hoi-dat-4726674.html) - 04:53 26/03/2024
-- ⚗️ [Màu sơn mới dinh thự Hoàng A Tưởng gây tranh cãi](https://vnexpress.net/mau-son-moi-dinh-thu-hoang-a-tuong-gay-tranh-cai-4726709.html) - 04:47 26/03/2024
+- ⚗️ [Màu sơn di tích dinh thự Hoàng A Tưởng gây tranh cãi](https://vnexpress.net/mau-son-di-tich-dinh-thu-hoang-a-tuong-gay-tranh-cai-4726709.html) - 04:47 26/03/2024
 - 🌊 [Số máy bay thương mại của Việt Nam giảm mạnh](https://vnexpress.net/so-may-bay-thuong-mai-cua-viet-nam-giam-manh-4726580.html) - 03:42 26/03/2024
 - 🎓 [Kiến nghị thiết kế mẫu thẻ bảo hiểm y tế ghi hạn dùng](https://vnexpress.net/kien-nghi-thiet-ke-mau-the-bao-hiem-y-te-ghi-han-dung-4726588.html) - 01:51 26/03/2024
 - 🔥 [Miền Tây trong cơn &#39;khát&#39; mùa hạn mặn](https://vnexpress.net/mien-tay-trong-con-khat-mua-han-man-4726300.html) - 22:00 25/03/2024
