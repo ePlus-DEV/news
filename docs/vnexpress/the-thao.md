@@ -9,7 +9,7 @@ sidebar_position: 5
 - 🧰 [Cơ hội của Việt Nam ở vòng loại World Cup 2026 mỏng manh thế nào](https://vnexpress.net/co-hoi-cua-viet-nam-o-vong-loai-world-cup-2026-mong-manh-the-nao-4726973.html) - 14:22 26/03/2024
 - 🤗 [HLV Troussier bất lực khi Việt Nam thảm bại](https://vnexpress.net/hlv-troussier-bat-luc-khi-viet-nam-tham-bai-4726968.html) - 14:19 26/03/2024
 - 🥳 [&#39;HLV Troussier nên dũng cảm từ chức&#39;](https://vnexpress.net/hlv-troussier-nen-dung-cam-tu-chuc-4726970.html) - 14:14 26/03/2024
-- 🦣 [HLV Shin Tae-yong: &#39;Indonesia may mắn khi thắng Việt Nam&#39;](https://vnexpress.net/hlv-shin-tae-yong-indonesia-may-man-khi-thang-viet-nam-4726876.html) - 13:58 26/03/2024
+- 🦣 [HLV Shin: &#39;Việt Nam không yếu đi khi thua đậm Indonesia&#39;](https://vnexpress.net/hlv-shin-viet-nam-khong-yeu-di-khi-thua-dam-indonesia-4726876.html) - 13:58 26/03/2024
 - 🌜 [Iraq giành vé vào vòng loại thứ ba World Cup](https://vnexpress.net/iraq-gianh-ve-vao-vong-loai-thu-ba-world-cup-4726950.html) - 13:57 26/03/2024
 - 🫶 [Alcaraz vào vòng bốn Miami Open](https://vnexpress.net/alcaraz-vao-vong-bon-miami-open-4726840.html) - 11:45 26/03/2024
 - 🌜 [Thái Lan thua đậm Hàn Quốc trên sân nhà](https://vnexpress.net/truc-tiep-thai-lan-vs-han-quoc-4726948.html) - 11:41 26/03/2024
