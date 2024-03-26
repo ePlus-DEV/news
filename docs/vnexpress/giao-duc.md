@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Bên trong trường chuyên hơn 450 tỷ đồng ở Phú Thọ](https://vnexpress.net/ben-trong-truong-chuyen-hon-450-ty-dong-o-phu-tho-4726303.html) - 02:00 26/03/2024
+- 🤓 [Trường chuyên 450 tỷ hiện đại nhất vùng trung du phía Bắc](https://vnexpress.net/truong-chuyen-450-ty-hien-dai-nhat-vung-trung-du-phia-bac-4726303.html) - 02:00 26/03/2024
 - 🦆 [Hà Nội dự kiến giảm tới một nửa học phí công lập](https://vnexpress.net/ha-noi-du-kien-giam-toi-mot-nua-hoc-phi-cong-lap-4726521.html) - 23:53 25/03/2024
 - 🦩 [Xét tuyển đại học sớm như &#39;con dao hai lưỡi&#39;](https://vnexpress.net/xet-tuyen-dai-hoc-som-nhu-con-dao-hai-luoi-4725519.html) - 23:12 25/03/2024
 - 🌮 [&#39;Vương quốc gạch gốm&#39; nằm ở tỉnh nào?](https://vnexpress.net/vuong-quoc-gach-gom-nam-o-tinh-nao-4726444.html) - 13:00 25/03/2024
