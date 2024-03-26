@@ -9,7 +9,7 @@ sidebar_position: 7
 - 🦩 [Hai chương trình giúp du học sinh định cư Mỹ](https://vnexpress.net/hai-chuong-trinh-giup-du-hoc-sinh-dinh-cu-my-4725512.html) - 03:00 26/03/2024
 - 🌮 [Trường chuyên 450 tỷ hiện đại nhất vùng trung du phía Bắc](https://vnexpress.net/truong-chuyen-450-ty-hien-dai-nhat-vung-trung-du-phia-bac-4726303.html) - 02:00 26/03/2024
 - 🔭 [Hà Nội dự kiến giảm tới một nửa học phí công lập](https://vnexpress.net/ha-noi-du-kien-giam-toi-mot-nua-hoc-phi-cong-lap-4726521.html) - 23:53 25/03/2024
-- 💡 [Xét tuyển đại học sớm có thể gây mất công bằng](https://vnexpress.net/xet-tuyen-dai-hoc-som-co-the-gay-mat-cong-bang-4725519.html) - 23:12 25/03/2024
+- 💡 [Đại học xét tuyển sớm giữa những e ngại về &#39;công bằng&#39;](https://vnexpress.net/dai-hoc-xet-tuyen-som-giua-nhung-e-ngai-ve-cong-bang-4725519.html) - 23:12 25/03/2024
 - 🥰 [&#39;Vương quốc gạch gốm&#39; nằm ở tỉnh nào?](https://vnexpress.net/vuong-quoc-gach-gom-nam-o-tinh-nao-4726444.html) - 13:00 25/03/2024
 - 🐲 [Những từ tiếng Anh không phát âm chữ &#39;e&#39;](https://vnexpress.net/nhung-tu-tieng-anh-khong-phat-am-chu-e-4726370.html) - 08:27 25/03/2024
 - 🦒 [Đức nới hàng loạt quy định với du học sinh](https://vnexpress.net/duc-noi-hang-loat-quy-dinh-voi-du-hoc-sinh-4724601.html) - 07:09 25/03/2024
