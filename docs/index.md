@@ -250,7 +250,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [HLV Troussier: Giờ chưa phải lúc để bàn về tương lai của tôi](https://nld.com.vn/hlv-troussier-gio-chua-phai-luc-de-ban-ve-tuong-lai-cua-toi-1962403262217161.htm) - 15:17 26/03/2024
+- 🐎 [HLV Troussier: Giờ chưa phải lúc để bàn về tương lai của tôi!](https://nld.com.vn/hlv-troussier-gio-chua-phai-luc-de-ban-ve-tuong-lai-cua-toi-1962403262217161.htm) - 15:17 26/03/2024
 - 😺 [HLV Shin Tae-yong chỉ ra nguyên nhân Indonesia thắng đậm Việt Nam](https://nld.com.vn/hlv-shin-tae-yong-chi-ra-nguyen-nhan-indonesia-thang-dam-viet-nam-19624032621460254.htm) - 14:47 26/03/2024
 - 👍 [Tuyên bố mới nhất của Nga về vụ khủng bố](https://nld.com.vn/tuyen-bo-moi-nhat-cua-nga-ve-vu-khung-bo-196240326213138085.htm) - 14:47 26/03/2024
 - 🥷 [Tạo điều kiện cho kiều bào đầu tư bất động sản mạnh mẽ hơn](https://nld.com.vn/tao-dieu-kien-cho-kieu-bao-dau-tu-bat-dong-san-manh-me-hon-196240326213824412.htm) - 14:41 26/03/2024
