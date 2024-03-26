@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Thái Lan, Philippines muốn đầu tư điện hạt nhân](https://vnexpress.net/thai-lan-philippines-muon-dau-tu-dien-hat-nhan-4726942.html) - 21:15 26/03/2024
 - 🐲 [Xổ số TP HCM lãi 4,5 tỷ đồng mỗi ngày](https://vnexpress.net/xo-so-tp-hcm-lai-4-5-ty-dong-moi-ngay-4726956.html) - 19:00 26/03/2024
-- 🔥 [&#39;Vua tôm&#39; Minh Phú tính mở rộng thị phần trong nước](https://vnexpress.net/vua-tom-minh-phu-tinh-mo-rong-thi-phan-trong-nuoc-4726960.html) - 17:22 26/03/2024
+- 🔥 [&#39;Vua tôm&#39; Minh Phú tính mở rộng thị phần nội địa](https://vnexpress.net/vua-tom-minh-phu-tinh-mo-rong-thi-phan-noi-dia-4726960.html) - 17:22 26/03/2024
 - 🐵 [Cách &#39;Shark&#39; Thủy vận hành Egroup trước khi bị bắt](https://vnexpress.net/cach-shark-thuy-van-hanh-egroup-truoc-khi-bi-bat-4726932.html) - 13:40 26/03/2024
 - 🦅 [Giá điện sẽ được điều chỉnh 3 tháng một lần](https://vnexpress.net/gia-dien-se-duoc-dieu-chinh-3-thang-mot-lan-4726957.html) - 13:13 26/03/2024
 - 😺 [Siêu thị Mỹ lần đầu tăng giá chuối sau hơn 20 năm](https://vnexpress.net/sieu-thi-my-lan-dau-tang-gia-chuoi-sau-hon-20-nam-4726881.html) - 09:59 26/03/2024
