@@ -74,8 +74,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧑‍🏫 [Mang tiền giả đi mua vàng rồi cướp](https://vnexpress.net/mang-tien-gia-di-mua-vang-roi-cuop-4726733.html) - 05:38 26/03/2024
 - 🎓 [7 dưỡng chất giúp trẻ thông minh](https://vnexpress.net/7-duong-chat-giup-tre-thong-minh-4726694.html) - 05:30 26/03/2024
 - 💫 [Thu hẹp đồng hoa hướng dương ở công viên ven sông Sài Gòn](https://vnexpress.net/thu-hep-dong-hoa-huong-duong-o-cong-vien-ven-song-sai-gon-4726760.html) - 05:28 26/03/2024
-- 🤩 [Cựu trung vệ Mạnh Dũng: &#39;Muốn hạ Indonesia, phải cương nhu đúng lúc&#39;](https://vnexpress.net/cuu-trung-ve-manh-dung-muon-ha-indonesia-phai-cuong-nhu-dung-luc-4726602.html) - 05:23 26/03/2024
-- 🏊 [Người thợ săn ở đâu?](https://vnexpress.net/nguoi-tho-san-o-dau-4721243.html) - 05:15 26/03/2024<!-- vnexpress:END -->
+- 🤩 [Cựu trung vệ Mạnh Dũng: &#39;Muốn hạ Indonesia, phải cương nhu đúng lúc&#39;](https://vnexpress.net/cuu-trung-ve-manh-dung-muon-ha-indonesia-phai-cuong-nhu-dung-luc-4726602.html) - 05:23 26/03/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
