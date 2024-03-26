@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Tấm ván gỗ trong phim &#39;Titanic&#39; có giá hơn 700.000 USD](https://vnexpress.net/tam-van-go-trong-phim-titanic-co-gia-hon-700-000-usd-4726649.html) - 05:05 26/03/2024
+- 🌏 [Tấm ván gỗ trong phim &#39;Titanic&#39; giá hơn 700.000 USD](https://vnexpress.net/tam-van-go-trong-phim-titanic-gia-hon-700-000-usd-4726649.html) - 05:05 26/03/2024
 - 💫 [Nguyễn Hồng Nhung: &#39;Bạn trai xoa dịu tổn thương khi tôi ly hôn&#39;](https://vnexpress.net/nguyen-hong-nhung-ban-trai-xoa-diu-ton-thuong-khi-toi-ly-hon-4726334.html) - 05:00 26/03/2024
 - 🌮 [Bốn con của Lý Hải tham gia &#39;Lật mặt 7&#39;](https://vnexpress.net/bon-con-cua-ly-hai-tham-gia-lat-mat-7-4725086.html) - 04:09 26/03/2024
 - 🧠 [Cảnh phim &#39;Mỹ nữ 4.000 năm có một&#39; bị nhận xét giả tạo](https://vnexpress.net/canh-phim-my-nu-4-000-nam-co-mot-bi-nhan-xet-gia-tao-4726600.html) - 03:48 26/03/2024
