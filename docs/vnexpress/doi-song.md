@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Lao động trung niên làm gì trước nỗi lo bị đào thải?](https://vnexpress.net/lao-dong-trung-nien-lam-gi-truoc-noi-lo-bi-dao-thai-4725120.html) - 23:00 25/03/2024
+- 🚀 [Lao động trung niên trước nỗi lo bị đào thải](https://vnexpress.net/lao-dong-trung-nien-truoc-noi-lo-bi-dao-thai-4725120.html) - 23:00 25/03/2024
 - 🎓 [Bún riêu chả nướng Phùng Hưng](https://vnexpress.net/bun-rieu-cha-nuong-phung-hung-4726415.html) - 12:00 25/03/2024
 - 🚦 [Chuyên gia chỉ cách cải thiện sức bền cho trẻ nhỏ](https://vnexpress.net/chuyen-gia-chi-cach-cai-thien-suc-ben-cho-tre-nho-4726423.html) - 10:00 25/03/2024
 - 🦣 [6 loại thực phẩm ngon hơn khi nấu trong nước lạnh](https://vnexpress.net/6-loai-thuc-pham-ngon-hon-khi-nau-trong-nuoc-lanh-4725741.html) - 08:53 25/03/2024
