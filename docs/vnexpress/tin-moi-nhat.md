@@ -40,7 +40,7 @@ sidebar_position: 9
 - 🤖 [Muốn chấm dứt quan hệ sai trái với anh rể mà bị anh dọa dẫm](https://vnexpress.net/muon-cham-dut-quan-he-sai-trai-voi-anh-re-ma-bi-anh-doa-dam-4726890.html) - 14:00 26/03/2024
 - 🦏 [Em, Sài Gòn và anh](https://vnexpress.net/em-sai-gon-va-anh-4726806.html) - 14:00 26/03/2024
 - 🦩 [6 mẹo cạo râu](https://vnexpress.net/6-meo-cao-rau-4722868.html) - 14:00 26/03/2024
-- 👺 [HLV Shin: &#39;Việt Nam không yếu đi khi thua đậm Indonesia&#39;](https://vnexpress.net/hlv-shin-viet-nam-khong-yeu-di-khi-thua-dam-indonesia-4726876.html) - 13:58 26/03/2024
+- 👺 [HLV Shin: &#39;Việt Nam không hề suy yếu&#39;](https://vnexpress.net/hlv-shin-viet-nam-khong-he-suy-yeu-4726876.html) - 13:58 26/03/2024
 - 🧑‍🏫 [Iraq giành vé vào vòng loại thứ ba World Cup](https://vnexpress.net/iraq-gianh-ve-vao-vong-loai-thu-ba-world-cup-4726950.html) - 13:57 26/03/2024
 - 😎 [Siêu lừa xin dùng 7,3 triệu cổ phiếu &#39;gán nợ&#39; 249 tỷ đồng cho VietABank](https://vnexpress.net/sieu-lua-xin-dung-7-3-trieu-co-phieu-gan-no-244-ty-dong-cho-vietabank-4726940.html) - 13:50 26/03/2024
 - 🪄 [Nga cáo buộc phương Tây, Ukraine hỗ trợ nghi phạm xả súng ở Moskva](https://vnexpress.net/nga-cao-buoc-phuong-tay-ukraine-ho-tro-nghi-pham-xa-sung-o-moskva-4726967.html) - 13:40 26/03/2024
