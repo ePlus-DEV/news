@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Không lúc này thì lúc nào?](https://vnexpress.net/khong-luc-nay-thi-luc-nao-4726982.html) - 15:28 26/03/2024
+- 🚀 [Nên từ chức lúc này](https://vnexpress.net/nen-tu-chuc-luc-nay-4726982.html) - 15:28 26/03/2024
 - 🧰 [Tàu container chết máy trước khi đâm sập cầu ở Mỹ](https://vnexpress.net/tau-container-chet-may-truoc-khi-dam-sap-cau-o-my-4726985.html) - 15:24 26/03/2024
 - 🥰 [Quang Hải rớm nước mắt khi ngồi ngoài trận Việt Nam thua Indonesia](https://vnexpress.net/quang-hai-rom-nuoc-mat-khi-ngoi-ngoai-tran-viet-nam-thua-indonesia-4726972.html) - 15:18 26/03/2024
 - 🌏 [Đề xuất đường sắt tốc độ cao 350 km/h chuyên chở khách](https://vnexpress.net/de-xuat-duong-sat-toc-do-cao-350-km-h-chuyen-cho-khach-4726969.html) - 15:09 26/03/2024
@@ -75,8 +75,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎓 [Tông xe vào cảnh sát cầm máy đo nồng độ cồn](https://vnexpress.net/tong-xe-vao-canh-sat-cam-may-do-nong-do-con-4726810.html) - 11:09 26/03/2024
 - 💫 [Tổng thống Belarus kiểm tra đơn vị sát Litva](https://vnexpress.net/tong-thong-belarus-kiem-tra-don-vi-sat-litva-4726872.html) - 11:08 26/03/2024
 - 🤩 [Tôi bằng lòng dù con &#39;mù chữ&#39; khi vào lớp 1](https://vnexpress.net/toi-bang-long-du-con-mu-chu-khi-vao-lop-1-4726895.html) - 11:00 26/03/2024
-- 🏊 [Sinh lý nữ thay đổi thế nào theo thời gian](https://vnexpress.net/sinh-ly-nu-thay-doi-the-nao-theo-thoi-gian-4726712.html) - 11:00 26/03/2024
-- 💂 [CĐV khuấy động trước trận Việt Nam - Indonesia](https://vnexpress.net/cdv-khuay-dong-truoc-tran-viet-nam-indonesia-4726937.html) - 10:56 26/03/2024<!-- vnexpress:END -->
+- 🏊 [Sinh lý nữ thay đổi thế nào theo thời gian](https://vnexpress.net/sinh-ly-nu-thay-doi-the-nao-theo-thoi-gian-4726712.html) - 11:00 26/03/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
