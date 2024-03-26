@@ -204,9 +204,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Giá vàng và ngoại tệ 26.3: Vàng bất ngờ vượt 80 triệu, tỷ giá vẫn nóng](https://laodong.vn/video-kinh-te/gia-vang-va-ngoai-te-263-vang-bat-ngo-vuot-80-trieu-ty-gia-van-nong-1319471.ldo) - 02:33 26/03/2024
-- 📝 [Mông lung số phận đường ống dẫn dầu Thổ Nhĩ Kỳ - Iraq](https://laodong.vn/the-gioi/mong-lung-so-phan-duong-ong-dan-dau-tho-nhi-ky-iraq-1319451.ldo) - 02:30 26/03/2024
-- 🦏 [Kỷ niệm 25 năm thành lập: Manulife Việt Nam tung sản phẩm mới, cam kết hoàn phí](https://laodong.vn/kinh-doanh/ky-niem-25-nam-thanh-lap-manulife-viet-nam-tung-san-pham-moi-cam-ket-hoan-phi-1319459.ldo) - 02:30 26/03/2024
+- 🗽 [Tôn vinh nữ cán bộ công nhân viên chức ngành Giao thông Vận tải tiêu biểu](https://laodong.vn/cd-gtvt/ton-vinh-nu-can-bo-cong-nhan-vien-chuc-nganh-giao-thong-van-tai-tieu-bieu-1319477.ldo) - 02:48 26/03/2024
+- 📝 [Giá vàng và ngoại tệ 26.3: Vàng bất ngờ vượt 80 triệu, tỷ giá vẫn nóng](https://laodong.vn/video-kinh-te/gia-vang-va-ngoai-te-263-vang-bat-ngo-vuot-80-trieu-ty-gia-van-nong-1319471.ldo) - 02:33 26/03/2024
+- 🦏 [Mông lung số phận đường ống dẫn dầu Thổ Nhĩ Kỳ - Iraq](https://laodong.vn/the-gioi/mong-lung-so-phan-duong-ong-dan-dau-tho-nhi-ky-iraq-1319451.ldo) - 02:30 26/03/2024
 - 🦩 [Liên tiếp 2 vụ đâm chém trong đêm ở Bình Thuận](https://laodong.vn/ban-tin/lien-tiep-2-vu-dam-chem-trong-dem-o-binh-thuan-1319467.ldo) - 02:23 26/03/2024
 - 🦏 [Ra mắt thương hiệu cà phê Tacerla Coffee](https://laodong.vn/thong-tin-doanh-nghiep/ra-mat-thuong-hieu-ca-phe-tacerla-coffee-1319119.ldo) - 02:22 26/03/2024
 - 🧰 [Quốc gia EU tuyên bố không cần Ukraina để mua khí đốt Nga](https://laodong.vn/the-gioi/quoc-gia-eu-tuyen-bo-khong-can-ukraina-de-mua-khi-dot-nga-1319469.ldo) - 02:21 26/03/2024
