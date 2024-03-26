@@ -151,7 +151,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤠 [Ai thay HLV Troussier dẫn dắt đội tuyển Việt Nam và U.23?](https://thanhnien.vn/ai-thay-hlv-troussier-dan-dat-doi-tuyen-viet-nam-185240326233854414.htm) - 16:40 26/03/2024
 - 💼 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 27.3.2024](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-2732024-185240325233016086.htm) - 16:31 26/03/2024
 - 🐻 [HLV Troussier và VFF xin lỗi người hâm mộ](https://thanhnien.vn/hlv-troussier-va-vff-xin-loi-nguoi-ham-mo-185240326232515723.htm) - 16:25 26/03/2024
-- 🤔 [Quang Hải đang cảm thấy không ổn, HLV Troussier lên tiếng](https://thanhnien.vn/quang-hai-dang-cam-thay-khong-on-hlv-troussier-len-tieng-185240326230605657.htm) - 16:06 26/03/2024
+- 🤔 [Quang Hải đang cảm thấy không ổn, người đại diện lên tiếng: HLV Troussier thật khó hiểu](https://thanhnien.vn/quang-hai-dang-cam-thay-khong-on-hlv-troussier-len-tieng-185240326230605657.htm) - 16:06 26/03/2024
 - 📝 [5 trung tâm thương mại cực &#39;hot&#39; tại Hải Phòng](https://thanhnien.vn/thoi-trang-tre/5-trung-tam-thuong-mai-cuc-hot-tai-hai-phong-185240324155707032.htm) - 16:00 26/03/2024
 - 🥰 [Thua Indonesia, trợ lý Nguyễn Việt Thắng của HLV Troussier rút lui khỏi đội tuyển Việt Nam](https://thanhnien.vn/thua-indonesia-tro-ly-nguyen-viet-thang-cua-hlv-troussier-rut-lui-khoi-doi-tuyen-viet-nam-185240326223909279.htm) - 15:48 26/03/2024
 - 🐲 [Đài Loan tăng tốc đóng thêm hai chiến hạm &#39;sát thủ tàu sân bay&#39;](https://thanhnien.vn/dai-loan-tang-toc-dong-them-hai-chien-ham-sat-thu-tau-san-bay-185240326224542309.htm) - 15:46 26/03/2024
