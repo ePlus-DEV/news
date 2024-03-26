@@ -10,7 +10,7 @@ sidebar_position: 2
 - 🧑‍💻 [Mỹ mất 3 năm hồi sinh trinh sát cơ siêu hiếm](https://vnexpress.net/my-mat-3-nam-hoi-sinh-trinh-sat-co-sieu-hiem-4726786.html) - 08:18 26/03/2024
 - 🦏 [Trung Quốc - Philippines đấu khẩu sau vụ phun vòi rồng](https://vnexpress.net/trung-quoc-philippines-dau-khau-sau-vu-phun-voi-rong-4726495.html) - 07:59 26/03/2024
 - 🦒 [Đài Loan diễn tập kiểm tra năng lực phòng không toàn diện](https://vnexpress.net/dai-loan-dien-tap-kiem-tra-nang-luc-phong-khong-toan-dien-4726813.html) - 07:59 26/03/2024
-- 🌈 [Tình trạng &#39;tăng ca vô hình&#39; của nhân viên văn phòng Trung Quốc](https://vnexpress.net/tinh-trang-tang-ca-vo-hinh-cua-nhan-vien-van-phong-trung-quoc-4726610.html) - 07:47 26/03/2024
+- 🌈 [Người trẻ Trung Quốc mắc kẹt với giờ làm thêm liên miên](https://vnexpress.net/nguoi-tre-trung-quoc-mac-ket-voi-gio-lam-them-lien-mien-4726610.html) - 07:47 26/03/2024
 - 🧑‍🏫 [Tiêm kích F-22 đeo thùng dầu tàng hình dưới cánh](https://vnexpress.net/tiem-kich-f-22-deo-thung-dau-tang-hinh-duoi-canh-4726773.html) - 07:47 26/03/2024
 - 🐲 [Taliban sẽ ném đá đến chết phụ nữ ngoại tình](https://vnexpress.net/taliban-se-nem-da-den-chet-phu-nu-ngoai-tinh-4726579.html) - 05:00 26/03/2024
 - 🦒 [Mỹ coi trọng quan hệ Đối tác Chiến lược Toàn diện với Việt Nam](https://vnexpress.net/my-coi-trong-quan-he-doi-tac-chien-luoc-toan-dien-voi-viet-nam-4726616.html) - 04:46 26/03/2024
