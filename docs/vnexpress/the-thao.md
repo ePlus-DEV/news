@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [CNN Indonesia: &#39;Việt Nam đá như gà mắc tóc dưới thời Troussier&#39;](https://vnexpress.net/cnn-indonesia-viet-nam-da-nhu-ga-mac-toc-duoi-thoi-troussier-4727071.html) - 02:24 27/03/2024
-- 🦩 [90 phút buồn của CĐV trên sân Mỹ Đình](https://video.vnexpress.net/90-phut-buon-cua-cdv-tren-san-my-dinh-4727086.html) - 02:13 27/03/2024
+- 🦩 [Trận cầu cảm xúc trái ngược của CĐV trên sân Mỹ Đình](https://video.vnexpress.net/tran-cau-cam-xuc-trai-nguoc-cua-cdv-tren-san-my-dinh-4727086.html) - 02:13 27/03/2024
 - 🧰 [Giroud ghi bàn thứ 57 cho Pháp](https://vnexpress.net/giroud-ghi-ban-thu-57-cho-phap-4727042.html) - 01:02 27/03/2024
 - 🤗 [Nguyễn Văn Toàn: &#39;Xin CĐV nhẹ nhàng với cầu thủ Việt Nam&#39;](https://vnexpress.net/nguyen-van-toan-xin-cdv-nhe-nhang-voi-cau-thu-viet-nam-4726980.html) - 23:52 26/03/2024
 - 🥳 [Đỗ Hùng Dũng: &#39;HLV đến rồi đi, chỉ đội tuyển còn mãi&#39;](https://vnexpress.net/do-hung-dung-hlv-den-roi-di-chi-doi-tuyen-con-mai-4727005.html) - 23:45 26/03/2024
