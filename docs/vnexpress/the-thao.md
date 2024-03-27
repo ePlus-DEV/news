@@ -4,10 +4,10 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [HLV Indonesia không vui khi ông Troussier mất việc](https://vnexpress.net/hlv-indonesia-khong-vui-khi-ong-troussier-mat-viec-4727414.html) - 11:41 27/03/2024
+- 🪜 [HLV Indonesia không vui khi Troussier mất việc](https://vnexpress.net/hlv-indonesia-khong-vui-khi-troussier-mat-viec-4727414.html) - 11:41 27/03/2024
 - 🦩 [Djokovic chia tay HLV Ivanisevic](https://vnexpress.net/djokovic-chia-tay-hlv-ivanisevic-4727400.html) - 10:52 27/03/2024
 - 🧰 [Golfer bị ung thư muốn chạy London Marathon 2024](https://vnexpress.net/golfer-bi-ung-thu-muon-chay-london-marathon-2024-4727403.html) - 10:50 27/03/2024
-- 🤗 [VFF sẽ &#39;chọn HLV phù hợp văn hoá, cầu thị&#39;](https://vnexpress.net/vff-se-chon-hlv-phu-hop-van-hoa-cau-thi-4727389.html) - 10:48 27/03/2024
+- 🤗 [VFF sẽ &#39;chọn HLV giỏi, phù hợp văn hoá, cầu thị&#39;](https://vnexpress.net/vff-se-chon-hlv-gioi-phu-hop-van-hoa-cau-thi-4727389.html) - 10:48 27/03/2024
 - 🥳 [Quang Hải: &#39;Tôi thất vọng vì không được vào sân&#39;](https://vnexpress.net/quang-hai-toi-that-vong-vi-khong-duoc-vao-san-4727356.html) - 09:35 27/03/2024
 - 🦣 [Runner nghĩ gì trước một giải trail?](https://vnexpress.net/runner-nghi-gi-truoc-mot-giai-trail-4727062.html) - 09:18 27/03/2024
 - 🌜 [Bóng đá Việt Nam như thế nào dưới thời Troussier](https://vnexpress.net/bong-da-viet-nam-nhu-the-nao-duoi-thoi-troussier-4727337.html) - 08:36 27/03/2024
