@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Hàng trăm phụ huynh cho con nghỉ học](https://vnexpress.net/hang-tram-phu-huynh-cho-con-nghi-hoc-4727430.html) - 14:17 27/03/2024
+- 🤓 [Hàng trăm phụ huynh cho con nghỉ học để phản đối sáp nhập trường](https://vnexpress.net/hang-tram-phu-huynh-cho-con-nghi-hoc-de-phan-doi-sap-nhap-truong-4727430.html) - 14:17 27/03/2024
 - 🦆 [Thành phố nào lắp đèn giao thông muộn nhất Việt Nam?](https://vnexpress.net/thanh-pho-nao-lap-den-giao-thong-muon-nhat-viet-nam-4727376.html) - 13:23 27/03/2024
 - 🦩 [Trường chuyên Khoa học Tự nhiên tăng hơn 100 chỉ tiêu lớp 10](https://vnexpress.net/truong-chuyen-khoa-hoc-tu-nhien-tang-hon-100-chi-tieu-lop-10-4727426.html) - 12:55 27/03/2024
 - 🌮 [Trường chuyên Khoa học Xã hội và Nhân văn bỏ 3 bài thi vào lớp 10](https://vnexpress.net/truong-chuyen-khoa-hoc-xa-hoi-va-nhan-van-bo-3-bai-thi-vao-lop-10-4727394.html) - 10:51 27/03/2024
