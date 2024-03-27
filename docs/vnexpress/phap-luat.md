@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Nam sinh lớp 8 bị đánh ở sân đình khiến hôn mê](https://vnexpress.net/nam-sinh-lop-8-bi-danh-o-san-dinh-khien-hon-me-4726338.html) - 11:48 27/03/2024
+- 😎 [Nam sinh lớp 8 bị đánh khiến chấn thương sọ não](https://vnexpress.net/nam-sinh-lop-8-bi-danh-o-san-dinh-khien-hon-me-4726338.html) - 11:48 27/03/2024
 - 🥰 [Đâm em trai tử vong vì quậy phá](https://vnexpress.net/dam-em-trai-tu-vong-vi-quay-pha-4727310.html) - 10:41 27/03/2024
 - 🎓 [Hai nghi can trộm chó bị ôtô tông tử vong](https://vnexpress.net/hai-nghi-can-trom-cho-bi-oto-tong-tu-vong-4727391.html) - 10:37 27/03/2024
 - 🤓 [Cô gái &#39;sống ảo&#39; bị phạt tử hình vì buôn ma túy](https://vnexpress.net/co-gai-song-ao-bi-phat-tu-hinh-vi-buon-ma-tuy-4727363.html) - 10:07 27/03/2024
