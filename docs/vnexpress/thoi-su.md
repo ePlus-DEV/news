@@ -11,7 +11,7 @@ sidebar_position: 1
 - 🎓 [Đề xuất đường sắt tốc độ 350 km/h chuyên chở khách](https://vnexpress.net/de-xuat-duong-sat-toc-do-350-km-h-chuyen-cho-khach-4726969.html) - 15:09 26/03/2024
 - 🔥 [Vinh danh 10 gương mặt trẻ tiêu biểu toàn quân](https://vnexpress.net/vinh-danh-10-guong-mat-tre-tieu-bieu-toan-quan-4726917.html) - 11:09 26/03/2024
 - 🦏 [Sẽ chi trả an sinh xã hội trên ứng dụng VNeID](https://vnexpress.net/se-chi-tra-an-sinh-xa-hoi-tren-ung-dung-vneid-4726910.html) - 10:29 26/03/2024
-- 👺 [Ôtô bán tải ngửa trên cao tốc La Sơn - Túy Loan](https://vnexpress.net/oto-ban-tai-ngua-tren-cao-toc-la-son-tuy-loan-4726854.html) - 09:53 26/03/2024
+- 👺 [Ôtô bán tải lật ngửa trên cao tốc La Sơn - Túy Loan](https://vnexpress.net/oto-ban-tai-lat-ngua-tren-cao-toc-la-son-tuy-loan-4726854.html) - 09:53 26/03/2024
 - 🧑‍🏫 [Thanh niên lo lắng chuyển đổi số dẫn đến thất nghiệp hàng loạt](https://vnexpress.net/thanh-nien-lo-lang-chuyen-doi-so-dan-den-that-nghiep-hang-loat-4726825.html) - 09:38 26/03/2024
 - 🚦 [Hút 7.000 lít dầu trên tàu gặp nạn ở Cù Lao Chàm](https://vnexpress.net/hut-7-000-lit-dau-tren-tau-gap-nan-o-cu-lao-cham-4726838.html) - 09:11 26/03/2024
 - 🎉 [Đề xuất khen thưởng cá nhân tiến cử người tài](https://vnexpress.net/de-xuat-khen-thuong-ca-nhan-tien-cu-nguoi-tai-4726734.html) - 07:20 26/03/2024
