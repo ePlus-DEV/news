@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Ông Trump vấp chỉ trích vì rao bán Kinh Thánh](https://vnexpress.net/ong-trump-vap-chi-trich-vi-rao-ban-kinh-thanh-4727434.html) - 14:23 27/03/2024
+- 🎭 [Ông Trump vấp chỉ trích vì rao bán &#39;Kinh Thánh yêu nước&#39;](https://vnexpress.net/ong-trump-vap-chi-trich-vi-rao-ban-kinh-thanh-yeu-nuoc-4727434.html) - 14:23 27/03/2024
 - 🕴 [Ukraine tuyên bố bắt gián điệp Nga chuyên chỉ điểm mục tiêu không kích](https://vnexpress.net/ukraine-tuyen-bo-bat-gian-diep-nga-chuyen-chi-diem-muc-tieu-khong-kich-4727418.html) - 13:54 27/03/2024
 - 🤭 [Kyrgyzstan kêu gọi công dân hạn chế tới Nga](https://vnexpress.net/kyrgyzstan-keu-goi-cong-dan-han-che-toi-nga-4727425.html) - 12:56 27/03/2024
 - 🧑‍💻 [Việt Nam hoan nghênh nghị quyết về ngừng bắn ở Dải Gaza](https://vnexpress.net/viet-nam-hoan-nghenh-nghi-quyet-ve-ngung-ban-o-dai-gaza-4727427.html) - 12:40 27/03/2024
