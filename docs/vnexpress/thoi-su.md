@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [&#39;Chiến binh&#39; 4 tuổi vượt qua ung thư](https://vnexpress.net/chien-binh-4-tuoi-vuot-qua-ung-thu-4724332.html) - 22:02 26/03/2024
 - ⚗️ [Cầu vượt thép Mai Dịch trước ngày thông xe](https://vnexpress.net/cau-vuot-thep-mai-dich-truoc-ngay-thong-xe-4726789.html) - 17:00 26/03/2024
 - 🌊 [Khu phố &#39;bấn loạn&#39; vì hàng xóm nuôi gần 100 con chó](https://vnexpress.net/khu-pho-ban-loan-vi-hang-xom-nuoi-gan-100-con-cho-4726526.html) - 17:00 26/03/2024
-- 🎓 [Đề xuất đường sắt tốc độ cao 350 km/h chuyên chở khách](https://vnexpress.net/de-xuat-duong-sat-toc-do-cao-350-km-h-chuyen-cho-khach-4726969.html) - 15:09 26/03/2024
+- 🎓 [Đề xuất đường sắt tốc độ 350 km/h chuyên chở khách](https://vnexpress.net/de-xuat-duong-sat-toc-do-350-km-h-chuyen-cho-khach-4726969.html) - 15:09 26/03/2024
 - 🔥 [Vinh danh 10 gương mặt trẻ tiêu biểu toàn quân](https://vnexpress.net/vinh-danh-10-guong-mat-tre-tieu-bieu-toan-quan-4726917.html) - 11:09 26/03/2024
 - 🦏 [Sẽ chi trả an sinh xã hội trên ứng dụng VNeID](https://vnexpress.net/se-chi-tra-an-sinh-xa-hoi-tren-ung-dung-vneid-4726910.html) - 10:29 26/03/2024
 - 👺 [Ôtô bán tải ngửa trên cao tốc La Sơn - Túy Loan](https://vnexpress.net/oto-ban-tai-ngua-tren-cao-toc-la-son-tuy-loan-4726854.html) - 09:53 26/03/2024
