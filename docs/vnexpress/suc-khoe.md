@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Men gan cao có ăn nên ăn trứng?](https://vnexpress.net/men-gan-cao-co-an-nen-an-trung-4727245.html) - 10:00 27/03/2024
+- 🔥 [Men gan cao có nên ăn trứng?](https://vnexpress.net/men-gan-cao-co-nen-an-trung-4727245.html) - 10:00 27/03/2024
 - 🥰 [Bộ đôi phục hồi hư tổn sâu trong lõi tóc NH23](https://vnexpress.net/bo-doi-phuc-hoi-hu-ton-sau-trong-loi-toc-nh23-4727123.html) - 10:00 27/03/2024
 - 💡 [Con người có những loại trí nhớ nào?](https://vnexpress.net/con-nguoi-co-nhung-loai-tri-nho-nao-4727118.html) - 10:00 27/03/2024
 - 🤗 [Dấu hiệu thoái hóa khớp sớm](https://vnexpress.net/dau-hieu-thoai-hoa-khop-som-4726920.html) - 09:30 27/03/2024
