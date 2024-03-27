@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Thanh Hóa làm đường kết nối với cao tốc Mai Sơn - quốc lộ 45](https://vnexpress.net/thanh-hoa-lam-duong-ket-noi-voi-cao-toc-mai-son-quoc-lo-45-4727200.html) - 06:57 27/03/2024
-- 🤓 [Xe bồn chở oxy lỏng cháy trên đèo Khánh Lê](https://vnexpress.net/xe-bon-cho-oxy-long-chay-tren-deo-khanh-le-4727241.html) - 06:33 27/03/2024
+- 🤓 [Xe chở oxy lỏng cháy trên đèo Khánh Lê](https://vnexpress.net/xe-cho-oxy-long-chay-tren-deo-khanh-le-4727241.html) - 06:33 27/03/2024
 - ⚗️ [Đại biểu tiếp tục tranh luận về quy định &#39;nồng độ cồn bằng 0&#39;](https://vnexpress.net/dai-bieu-tiep-tuc-tranh-luan-ve-quy-dinh-nong-do-con-bang-0-4727135.html) - 06:09 27/03/2024
 - 🌊 [Chủ tịch TP HCM yêu cầu sở ngành làm việc cả cuối tuần](https://vnexpress.net/chu-tich-tp-hcm-yeu-cau-so-nganh-lam-viec-ca-cuoi-tuan-4727226.html) - 05:59 27/03/2024
 - 🎓 [Nước biển ở Hà Tĩnh đổi màu do thủy triều đỏ](https://vnexpress.net/nuoc-bien-o-ha-tinh-doi-mau-do-thuy-trieu-do-4726935.html) - 03:46 27/03/2024
