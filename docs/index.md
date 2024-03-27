@@ -510,7 +510,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Bùng nổ đêm nhạc Thanh âm tại trường THCS-THPT Hoa Lư](https://muctim.tuoitre.vn/bung-no-dem-nhac-thanh-am-tai-truong-thcs-thpt-hoa-lu-10124032710500577.htm) - 09:10 27/03/2024
+- 🤔 [Bùng nổ đêm nhạc Thanh âm tại Trường THCS-THPT Hoa Lư](https://muctim.tuoitre.vn/bung-no-dem-nhac-thanh-am-tai-truong-thcs-thpt-hoa-lu-10124032710500577.htm) - 09:10 27/03/2024
 - 🥷 [Nữ sinh Gia Lai giành huy chương vàng ở cả hai bộ môn võ thuật](https://muctim.tuoitre.vn/nu-sinh-gia-lai-gianh-huy-chuong-vang-o-ca-hai-bo-mon-vo-thuat-10124032510432787.htm) - 08:43 27/03/2024
 - 🤖 [Check-in những cung đường hoa giấy hot nhất làng đại học](https://muctim.tuoitre.vn/check-in-nhung-cung-duong-hoa-giay-hot-nhat-lang-dai-hoc-101240327002845713.htm) - 08:01 27/03/2024
 - 🤓 [Đáp án kèm lời giải gợi ý đề thi tham khảo tốt nghiệp THPT 2024 môn Toán](https://muctim.tuoitre.vn/dap-an-kem-loi-giai-goi-y-de-thi-tham-khao-tot-nghiep-thpt-2024-mon-toan-101240327110542333.htm) - 07:35 27/03/2024
