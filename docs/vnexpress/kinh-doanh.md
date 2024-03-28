@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [VIB tung giải pháp vay mua căn hộ chung cư lãi suất từ 5,9%](https://vnexpress.net/vib-tung-giai-phap-vay-mua-can-ho-chung-cu-lai-suat-tu-5-9-4727729.html) - 08:30 28/03/2024
+- ⛽️ [VIB tung giải pháp vay căn hộ chung cư lãi suất từ 5,9% một năm](https://vnexpress.net/vib-tung-giai-phap-vay-can-ho-chung-cu-lai-suat-tu-5-9-mot-nam-4727729.html) - 08:30 28/03/2024
 - 🐲 [Chủ tịch Tập đoàn Hoa Lâm rời ghế lãnh đạo VietBank](https://vnexpress.net/chu-tich-tap-doan-hoa-lam-roi-ghe-lanh-dao-vietbank-4727731.html) - 08:04 28/03/2024
 - 🔥 [Khách đến chợ truyền thống TP HCM giảm một nửa](https://vnexpress.net/khach-den-cho-truyen-thong-tp-hcm-giam-mot-nua-4727594.html) - 07:14 28/03/2024
 - 🐵 [Giá xăng tăng, dầu giảm](https://vnexpress.net/gia-xang-moi-nhat-hom-nay-28-3-4727694.html) - 07:12 28/03/2024
