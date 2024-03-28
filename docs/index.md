@@ -31,7 +31,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥰 [Chỉ một dự án chung cư được duyệt đầu tư tại TP HCM quý I](https://vnexpress.net/chi-mot-du-an-chung-cu-duoc-duyet-dau-tu-tai-tp-hcm-quy-i-4727849.html) - 17:00 28/03/2024
 - 🌏 [Đầu độc 20 phụ nữ bằng bẫy &#39;cưới không cần của hồi môn&#39;](https://vnexpress.net/dau-doc-20-phu-nu-bang-bay-cuoi-khong-can-cua-hoi-mon-4727840.html) - 17:00 28/03/2024
 - 🧐 [&#39;Đội tuyển Việt Nam cần cầu thủ nhập tịch&#39;](https://vnexpress.net/doi-tuyen-viet-nam-can-cau-thu-nhap-tich-4727824.html) - 17:00 28/03/2024
-- 💫 [Giàn khoan dầu nổi trên biển hoạt động thế nào?](https://vnexpress.net/gian-khoan-dau-noi-tren-bien-hoat-dong-the-nao-4727806.html) - 17:00 28/03/2024
+- 💫 [Giàn khoan dầu nổi trên biển hoạt động thế nào](https://vnexpress.net/gian-khoan-dau-noi-tren-bien-hoat-dong-the-nao-4727806.html) - 17:00 28/03/2024
 - 😺 [Anh có muốn nắm tay cô gái Nghệ Tĩnh?](https://vnexpress.net/anh-co-muon-nam-tay-co-gai-nghe-tinh-4727782.html) - 17:00 28/03/2024
 - 🕯 [48 giờ ở Mai Châu](https://vnexpress.net/48-gio-o-mai-chau-4727514.html) - 17:00 28/03/2024
 - 💃 [Để sống thật với nhu cầu chăn gối, tôi sẽ phải từ bỏ vợ](https://vnexpress.net/de-song-that-voi-nhu-cau-chan-goi-toi-se-phai-tu-bo-vo-4727503.html) - 17:00 28/03/2024
