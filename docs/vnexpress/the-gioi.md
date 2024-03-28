@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Latvia phản đối NATO đưa quân đến Ukraine](https://vnexpress.net/latvia-phan-doi-nato-dua-quan-den-ukraine-4727478.html) - 00:40 28/03/2024
 - 🕴 [Đêm định mệnh của nhóm công nhân trên cây cầu bị tông sập](https://vnexpress.net/dem-dinh-menh-cua-nhom-cong-nhan-tren-cay-cau-bi-tong-sap-4727332.html) - 00:28 28/03/2024
-- 🤭 [Ông Putin cảnh báo hủy diệt tiêm kích F-16 được cấp cho Ukraine](https://vnexpress.net/ong-putin-canh-bao-huy-diet-tiem-kich-f-16-duoc-cap-cho-ukraine-4727476.html) - 00:21 28/03/2024
+- 🤭 [Ông Putin: Nga sẽ hủy diệt tiêm kích F-16 được cấp cho Ukraine](https://vnexpress.net/ong-putin-nga-se-huy-diet-tiem-kich-f-16-duoc-cap-cho-ukraine-4727476.html) - 00:21 28/03/2024
 - 🧑‍💻 [Nga cảnh báo Armenia về quan hệ với phương Tây](https://vnexpress.net/nga-canh-bao-armenia-ve-quan-he-voi-phuong-tay-4727466.html) - 23:51 27/03/2024
 - 🦏 [Mỹ tìm thấy hai thi thể trong vụ tàu container đâm sập cầu](https://vnexpress.net/my-tim-thay-hai-thi-the-trong-vu-tau-container-dam-sap-cau-4727468.html) - 23:35 27/03/2024
 - 🦒 [Vụ sập cầu làm dấy lên lo ngại về hạ tầng Mỹ](https://vnexpress.net/vu-sap-cau-lam-day-len-lo-ngai-ve-ha-tang-my-4727278.html) - 22:00 27/03/2024
