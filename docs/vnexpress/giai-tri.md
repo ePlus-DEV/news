@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Cuộc sống của con trai út nhà Michael Jackson](https://vnexpress.net/cuoc-song-cua-con-trai-ut-nha-michael-jackson-4727591.html) - 13:30 28/03/2024
 - 💫 [Quan Hiểu Đồng gây sốt với váy &#39;nàng tiên hoa&#39;](https://vnexpress.net/quan-hieu-dong-gay-sot-voi-vay-nang-tien-hoa-4727777.html) - 12:00 28/03/2024
-- 🌮 [Phim &#39;Sáng đèn&#39; đối diện nguy cơ lỗ nặng](https://vnexpress.net/phim-sang-den-doi-dien-nguy-co-lo-nang-4727702.html) - 10:47 28/03/2024
+- 🌮 [Phim &#39;Sáng đèn&#39; nguy cơ lỗ nặng](https://vnexpress.net/phim-sang-den-nguy-co-lo-nang-4727702.html) - 10:47 28/03/2024
 - 🧠 [Trang phục tôn sắc vóc của nữ chính &#39;Queen of Tears&#39;](https://vnexpress.net/trang-phuc-ton-sac-voc-cua-nu-chinh-queen-of-tears-4726395.html) - 08:51 28/03/2024
 - 👨‍🏫 [Will Smith tái xuất](https://vnexpress.net/will-smith-tai-xuat-4727625.html) - 07:24 28/03/2024
 - ⚗️ [&#39;Từ bỏ&#39; - gợi ý về hạnh phúc](https://vnexpress.net/tu-bo-goi-y-ve-hanh-phuc-4727248.html) - 06:16 28/03/2024
