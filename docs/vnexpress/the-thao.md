@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [Thùy Linh thắng dễ trận ra quân giải Tây Ban Nha](https://vnexpress.net/thuy-linh-thang-de-tran-ra-quan-giai-tay-ban-nha-4727599.html) - 03:24 28/03/2024
 - 🧰 [Những dấu hiệu quá tải khi tập chạy](https://vnexpress.net/nhung-dau-hieu-qua-tai-khi-tap-chay-4726875.html) - 02:27 28/03/2024
 - 🤗 [Polking: &#39;Mọi HLV ở Đông Nam Á đều muốn dẫn Việt Nam&#39;](https://vnexpress.net/polking-moi-hlv-o-dong-nam-a-deu-muon-dan-viet-nam-4727415.html) - 01:51 28/03/2024
-- 🥳 [Runner không hoàn thành cự ly vẫn nhận huy chương và áo finisher](https://vnexpress.net/runner-khong-hoan-thanh-cu-ly-van-nhan-huy-chuong-va-ao-finisher-4727397.html) - 01:44 28/03/2024
+- 🥳 [Runner DNF vẫn nhận huy chương và áo finisher](https://vnexpress.net/runner-dnf-van-nhan-huy-chuong-va-ao-finisher-4727397.html) - 01:44 28/03/2024
 - 🦣 [HLV Park Hang-seo tránh câu hỏi trở lại tuyển Việt Nam](https://vnexpress.net/hlv-park-hang-seo-tranh-cau-hoi-tro-lai-tuyen-viet-nam-4727446.html) - 23:40 27/03/2024
 - 🌜 [Messi được đảm bảo suất dự Copa America 2024](https://vnexpress.net/messi-duoc-dam-bao-suat-du-copa-america-2024-4727475.html) - 23:31 27/03/2024
 - 🫶 [Messi: &#39;Tôi đã đạt được mọi ước mơ&#39;](https://vnexpress.net/messi-toi-da-dat-duoc-moi-uoc-mo-4727423.html) - 23:11 27/03/2024
