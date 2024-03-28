@@ -51,7 +51,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😺 [Hàng nghìn người dự lễ vía Bồ Tát Quán Thế Âm](https://vnexpress.net/hang-nghin-nguoi-du-le-via-bo-tat-quan-the-am-4727812.html) - 13:03 28/03/2024
 - 🤔 [Trung Quốc, Singapore tăng mua cua và ghẹ sống Việt](https://vnexpress.net/trung-quoc-singapore-tang-mua-cua-va-ghe-song-viet-4727794.html) - 13:00 28/03/2024
 - 🌮 [Vô tình yêu phải họ hàng xa](https://vnexpress.net/vo-tinh-yeu-phai-ho-hang-xa-4727813.html) - 13:00 28/03/2024
-- 🦩 [Thực hư hiện tượng ma quỷ quấy nhiễu](https://vnexpress.net/thuc-hu-hien-tuong-ma-quy-quay-nhieu-4727856.html) - 13:00 28/03/2024
+- 🦩 [Lý giải hiện tượng ma quái, đồ vậy tự di chuyển](https://vnexpress.net/ly-giai-hien-tuong-ma-quai-do-vay-tu-di-chuyen-4727856.html) - 13:00 28/03/2024
 - 📝 [​Gelex đặt mục tiêu lợi nhuận tăng hơn 37% so với năm ngoái](https://vnexpress.net/gelex-dat-muc-tieu-loi-nhuan-tang-hon-37-so-voi-nam-ngoai-4727837.html) - 13:00 28/03/2024
 - 🕴 [Hàng nghìn nhà đầu tư quan tâm nhượng quyền bưu cục BEST](https://vnexpress.net/hang-nghin-nha-dau-tu-quan-tam-nhuong-quyen-buu-cuc-best-4727800.html) - 13:00 28/03/2024
 - 🐲 [Thói quen ăn sáng làm chậm lão hóa da](https://vnexpress.net/thoi-quen-an-sang-lam-cham-lao-hoa-da-4727642.html) - 13:00 28/03/2024
