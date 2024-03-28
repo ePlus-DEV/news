@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Phụ huynh trường Quốc tế Mỹ xin chuyển con học online, đóng thêm tiền](https://vnexpress.net/phu-huynh-truong-quoc-te-my-xin-chuyen-con-hoc-online-dong-them-tien-4726310.html) - 05:01 28/03/2024
+- 🤓 [Phụ huynh trường Quốc tế Mỹ muốn đóng thêm tiền cho con học online](https://vnexpress.net/phu-huynh-truong-quoc-te-my-muon-dong-them-tien-cho-con-hoc-online-4726310.html) - 05:01 28/03/2024
 - 🦆 [Học sinh nên &#39;hiểu&#39; gì trước khi chọn trường đại học](https://vnexpress.net/hoc-sinh-nen-hieu-gi-truoc-khi-chon-truong-dai-hoc-4725504.html) - 04:00 28/03/2024
 - 🦩 [Dự kiến ​​​​dạy thực hành kỹ năng lái xe trong trường học](https://vnexpress.net/du-kien-day-thuc-hanh-ky-nang-lai-xe-trong-truong-hoc-4727455.html) - 03:23 28/03/2024
 - 🌮 [Nữ sinh giành học bổng 10 tỷ với bài luận về bức ảnh chụp ghế sofa](https://vnexpress.net/nu-sinh-gianh-hoc-bong-10-ty-voi-bai-luan-ve-buc-anh-chup-ghe-sofa-4724072.html) - 23:34 27/03/2024
