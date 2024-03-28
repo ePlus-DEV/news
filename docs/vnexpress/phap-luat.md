@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Hơn 6.600 bị hại mua trái phiếu Tân Hoàng Minh lấy lại tiền thế nào?](https://vnexpress.net/hon-6-600-bi-hai-mua-trai-phieu-tan-hoang-minh-lay-lai-tien-the-nao-4727552.html) - 06:02 28/03/2024
+- 😎 [Hơn 6.600 bị hại mua trái phiếu Tân Hoàng Minh lấy lại tiền thế nào](https://vnexpress.net/hon-6-600-bi-hai-mua-trai-phieu-tan-hoang-minh-lay-lai-tien-the-nao-4727552.html) - 06:02 28/03/2024
 - 🥰 [Kẻ mang ma túy nổ súng ở chốt 141](https://video.vnexpress.net/ke-mang-ma-tuy-no-sung-o-chot-141-4727417.html) - 05:23 28/03/2024
 - 🎓 [Giám đốc công ty vàng bị bắt với cáo buộc lừa 1.000 lượng của đối tác](https://vnexpress.net/giam-doc-cong-ty-vang-bi-bat-voi-cao-buoc-lua-1-000-luong-cua-doi-tac-4727672.html) - 05:20 28/03/2024
 - 🤓 [Ông trùm nhạc rap Diddy bị điều tra buôn bán tình dục](https://vnexpress.net/ong-trum-nhac-rap-diddy-bi-dieu-tra-buon-ban-tinh-duc-4727653.html) - 04:41 28/03/2024
