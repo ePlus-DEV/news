@@ -78,8 +78,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🏊 [Làng biên giới Ukraine thành &#39;hỏa ngục&#39; dưới mưa bom Nga](https://vnexpress.net/lang-bien-gioi-ukraine-thanh-hoa-nguc-duoi-mua-bom-nga-4727730.html) - 11:03 28/03/2024
 - 💂 [Game Awards 2024 thu hút 200.000 lượt vote trước ngày đóng cổng](https://vnexpress.net/game-awards-2024-thu-hut-200-000-luot-vote-truoc-ngay-dong-cong-4727748.html) - 11:00 28/03/2024
 - 🚀 [30 năm làm &#39;con ghẻ&#39; của mẹ](https://vnexpress.net/30-nam-lam-con-ghe-cua-me-4727805.html) - 11:00 28/03/2024
-- 🕴 [Nhật Bản liên tục cảnh báo khi giá yen xuống đáy 34 năm](https://vnexpress.net/nhat-ban-lien-tuc-canh-bao-khi-gia-yen-xuong-day-34-nam-4727751.html) - 11:00 28/03/2024
-- 🦆 [Mẹo luộc trứng nứt vỡ không bị lòi ra ngoài](https://vnexpress.net/meo-luoc-trung-nut-vo-khong-bi-loi-ra-ngoai-4727741.html) - 11:00 28/03/2024<!-- vnexpress:END -->
+- 🕴 [Nhật Bản liên tục cảnh báo khi giá yen xuống đáy 34 năm](https://vnexpress.net/nhat-ban-lien-tuc-canh-bao-khi-gia-yen-xuong-day-34-nam-4727751.html) - 11:00 28/03/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
