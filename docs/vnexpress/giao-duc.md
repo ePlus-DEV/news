@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Nam sinh chuyên Lam Sơn đạt điểm SAT top 1% thế giới](https://vnexpress.net/nam-sinh-chuyen-lam-son-dat-diem-sat-top-1-the-gioi-4727664.html) - 08:07 28/03/2024
 - 🦆 [Cơ hội nhận bằng cử nhân nhóm ngành kinh tế từ Đại học London](https://vnexpress.net/co-hoi-nhan-bang-cu-nhan-nhom-nganh-kinh-te-tu-dai-hoc-london-4727100.html) - 08:00 28/03/2024
-- 🦩 [Hà Nội thi ba môn vào lớp 10](https://vnexpress.net/ha-noi-thi-ba-mon-vao-lop-10-4720710.html) - 07:40 28/03/2024
+- 🦩 [Hà Nội công bố thi ba môn vào lớp 10](https://vnexpress.net/ha-noi-cong-bo-thi-ba-mon-vao-lop-10-4720710.html) - 07:40 28/03/2024
 - 🌮 [Phụ huynh trường Quốc tế Mỹ muốn đóng thêm tiền cho con học online](https://vnexpress.net/phu-huynh-truong-quoc-te-my-muon-dong-them-tien-cho-con-hoc-online-4726310.html) - 05:01 28/03/2024
 - 🔭 [Học sinh nên &#39;hiểu&#39; gì trước khi chọn trường đại học](https://vnexpress.net/hoc-sinh-nen-hieu-gi-truoc-khi-chon-truong-dai-hoc-4725504.html) - 04:00 28/03/2024
 - 💡 [Dự kiến ​​​​dạy thực hành kỹ năng lái xe trong trường học](https://vnexpress.net/du-kien-day-thuc-hanh-ky-nang-lai-xe-trong-truong-hoc-4727455.html) - 03:23 28/03/2024
