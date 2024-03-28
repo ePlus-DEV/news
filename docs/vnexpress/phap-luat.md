@@ -4,8 +4,8 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cựu bí thư Quảng Ngãi Lê Viết Chữ bị bắt](https://vnexpress.net/cuu-bi-thu-quang-ngai-le-viet-chu-bi-bat-4727411.html) - 23:11 27/03/2024
-- 🥰 [Phó bí thư thường trực Tỉnh ủy Vĩnh Phúc bị bắt](https://vnexpress.net/pho-bi-thu-thuong-truc-tinh-uy-vinh-phuc-bi-bat-4725553.html) - 23:00 27/03/2024
+- 😎 [Cựu bí thư Tỉnh ủy Quảng Ngãi Lê Viết Chữ bị bắt](https://vnexpress.net/cuu-bi-thu-tinh-uy-quang-ngai-le-viet-chu-bi-bat-4727411.html) - 23:11 27/03/2024
+- 🥰 [Phó bí thư thường trực Tỉnh ủy Vĩnh Phúc bị bắt](https://vnexpress.net/pho-bi-thu-thuong-truc-tinh-uy-vinh-phuc-pham-hoang-anh-bi-bat-4725553.html) - 23:00 27/03/2024
 - 🎓 [Người đẹp tóc vàng lộ tội ác vì ảnh chụp trước án mạng](https://vnexpress.net/nguoi-dep-toc-vang-lo-toi-ac-vi-anh-chup-truoc-an-mang-4727419.html) - 17:00 27/03/2024
 - 🤓 [Cựu giám đốc Vườn quốc gia Mũi Cà Mau bị kết tội tham ô](https://vnexpress.net/cuu-giam-doc-vuon-quoc-gia-mui-ca-mau-tham-o-lanh-an-4727433.html) - 14:40 27/03/2024
 - 🎊 [Đề nghị bác kháng cáo của 5 đại gia trong vụ siêu lừa 433 tỷ đồng](https://vnexpress.net/de-nghi-bac-khang-cao-cua-5-dai-gia-trong-vu-sieu-lua-433-ty-dong-4727412.html) - 13:34 27/03/2024
