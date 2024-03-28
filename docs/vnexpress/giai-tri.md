@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Đen Vâu, Double2T thắng lớn ở giải Cống Hiến](https://vnexpress.net/den-vau-double2t-thang-lon-o-giai-cong-hien-4727454.html) - 23:07 27/03/2024
-- 💫 [Mẹ nghệ sĩ Tự Long vượt bạo bệnh, vui sống tuổi 75](https://vnexpress.net/me-nghe-si-tu-long-vuot-bao-benh-vui-song-tuoi-75-4724484.html) - 17:00 27/03/2024
+- 💫 [Mẹ nghệ sĩ Tự Long vượt bạo bệnh](https://vnexpress.net/me-nghe-si-tu-long-vuot-bao-benh-4724484.html) - 17:00 27/03/2024
 - 🌮 [Nhan sắc một thời của nghệ sĩ Thu Hà](https://vnexpress.net/nhan-sac-mot-thoi-cua-nghe-si-thu-ha-4727142.html) - 13:00 27/03/2024
 - 🧠 [&#39;Nữ hoàng nước mắt&#39; Kim Ji Won dát hàng hiệu trong phim](https://vnexpress.net/nu-hoang-nuoc-mat-kim-ji-won-dat-hang-hieu-trong-phim-4727141.html) - 11:30 27/03/2024
 - 👨‍🏫 [&#39;Tiểu Long Nữ&#39; Trần Ngọc Liên sống tu hành](https://vnexpress.net/tieu-long-nu-tran-ngoc-lien-song-tu-hanh-4727237.html) - 09:48 27/03/2024
