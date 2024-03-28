@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Nữ doanh nhân kêu oan về cáo buộc gây thiệt hại 981 tỷ đồng](https://vnexpress.net/nu-doanh-nhan-keu-oan-ve-cao-buoc-gay-thiet-hai-981-ty-dong-4727858.html) - 11:48 28/03/2024
+- 😎 [Nữ doanh nhân kêu oan về cáo buộc gây thiệt hại hơn 980 tỷ đồng](https://vnexpress.net/nu-doanh-nhan-keu-oan-ve-cao-buoc-gay-thiet-hai-hon-980-ty-dong-4727858.html) - 11:48 28/03/2024
 - 🥰 [Hai người Trung Quốc đưa 20 lao động Việt sang Lào trái phép](https://vnexpress.net/hai-nguoi-trung-quoc-dua-20-lao-dong-viet-sang-lao-trai-phep-4727836.html) - 11:24 28/03/2024
 - 🎓 [Cha con &#39;đại gia rác&#39; hầu tòa về hành vi lừa UBND tỉnh Cà Mau](https://vnexpress.net/cha-con-dai-gia-o-ca-mau-bi-xet-xu-vu-lua-dao-chiem-doat-tai-san-4727701.html) - 09:21 28/03/2024
 - 🤓 [Giám đốc Ngân hàng MSB Thanh Xuân bị bắt](https://vnexpress.net/giam-doc-ngan-hang-msb-thanh-xuan-bi-bat-4727786.html) - 09:02 28/03/2024
