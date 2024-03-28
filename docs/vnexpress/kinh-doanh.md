@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Giá cacao vượt đỉnh](https://vnexpress.net/gia-cacao-vuot-dinh-4727447.html) - 02:20 28/03/2024
+- ⛽️ [Giá cacao lập đỉnh](https://vnexpress.net/gia-cacao-lap-dinh-4727447.html) - 02:20 28/03/2024
 - 🐲 [Rà soát vùng trồng để sớm xuất dừa, sầu riêng đông lạnh sang Trung Quốc](https://vnexpress.net/ra-soat-vung-trong-de-som-xuat-dua-sau-rieng-dong-lanh-sang-trung-quoc-4727481.html) - 01:01 28/03/2024
 - 🔥 [Nga chật vật thu tiền bán dầu](https://vnexpress.net/nga-chat-vat-thu-tien-ban-dau-4727348.html) - 17:04 27/03/2024
 - 🐵 [Chủ tịch Trung Quốc gặp CEO các công ty hàng đầu của Mỹ](https://vnexpress.net/chu-tich-trung-quoc-gap-ceo-cac-cong-ty-hang-dau-cua-my-4727445.html) - 15:33 27/03/2024
