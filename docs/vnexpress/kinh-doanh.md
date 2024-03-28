@@ -17,7 +17,7 @@ sidebar_position: 3
 - 🧑‍💻 [Lãi suất vay mua nhà xuống đáy](https://vnexpress.net/lai-suat-vay-mua-nha-xuong-day-4727551.html) - 05:36 28/03/2024
 - 🕴 [Việt Nam cần khoảng 9 tỷ USD đầu tư hạ tầng nước sạch](https://vnexpress.net/viet-nam-can-khoang-9-ty-usd-dau-tu-ha-tang-nuoc-sach-4727649.html) - 05:07 28/03/2024
 - 🦩 [Mỹ cảnh báo Trung Quốc &#39;xả&#39; xe điện, pin giá rẻ ra thế giới](https://vnexpress.net/my-canh-bao-trung-quoc-xa-xe-dien-pin-gia-re-ra-the-gioi-4727548.html) - 04:35 28/03/2024
-- 👍 [&#39;Trùm&#39; xe điện Trung Quốc dự kiến mở nhà máy ở Phú Thọ](https://vnexpress.net/trum-xe-dien-trung-quoc-du-kien-mo-nha-may-o-phu-tho-4727620.html) - 04:05 28/03/2024
+- 👍 [&#39;Sẵn sàng 100 ha đất ở Phú Thọ nếu BYD đầu tư nhà máy sản xuất xe điện&#39;](https://vnexpress.net/san-sang-100-ha-dat-o-phu-tho-neu-byd-dau-tu-nha-may-san-xuat-xe-dien-4727620.html) - 04:05 28/03/2024
 - 🏊 [Phân biệt trái phiếu doanh nghiệp và trái phiếu Chính phủ](https://vnexpress.net/phan-biet-trai-phieu-doanh-nghiep-va-trai-phieu-chinh-phu-4723661.html) - 04:00 28/03/2024
 - 🤡 [Giá cacao lập đỉnh](https://vnexpress.net/gia-cacao-lap-dinh-4727447.html) - 02:20 28/03/2024
 - 👀 [Rà soát vùng trồng để sớm xuất dừa, sầu riêng đông lạnh sang Trung Quốc](https://vnexpress.net/ra-soat-vung-trong-de-som-xuat-dua-sau-rieng-dong-lanh-sang-trung-quoc-4727481.html) - 01:01 28/03/2024
