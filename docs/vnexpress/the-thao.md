@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [HLV Park, Văn Hậu dự đám cưới Quang Hải](https://vnexpress.net/hlv-park-van-hau-du-dam-cuoi-quang-hai-4727681.html) - 10:25 28/03/2024
+- 🪜 [HLV Park Hang-seo dự đám cưới Quang Hải](https://vnexpress.net/hlv-park-hang-seo-du-dam-cuoi-quang-hai-4727681.html) - 10:25 28/03/2024
 - 🦩 [Alcaraz muốn đua danh hiệu cùng Sinner](https://vnexpress.net/alcaraz-muon-dua-danh-hieu-cung-sinner-4727745.html) - 08:30 28/03/2024
 - 🧰 [HLV Hoàng Anh Tuấn nắm U23 Việt Nam thay Troussier](https://vnexpress.net/hlv-hoang-anh-tuan-nam-u23-viet-nam-thay-troussier-4727703.html) - 07:42 28/03/2024
 - 🤗 [8 ứng viên tiềm năng thay HLV Troussier](https://vnexpress.net/8-ung-vien-tiem-nang-thay-hlv-troussier-4727700.html) - 07:16 28/03/2024
