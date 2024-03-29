@@ -72,8 +72,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🕯 [Viên thuốc nào không có độc?](https://vnexpress.net/vien-thuoc-nao-khong-co-doc-4723668.html) - 17:01 28/03/2024
 - 💪 [Doanh nghiệp Canada muốn đầu tư vào năng lượng, nông nghiệp ở Việt Nam](https://vnexpress.net/doanh-nghiep-canada-muon-dau-tu-vao-nang-luong-nong-nghiep-o-viet-nam-4727882.html) - 17:00 28/03/2024
 - 🧑‍🏫 [Chỉ một dự án chung cư được duyệt đầu tư tại TP HCM quý I](https://vnexpress.net/chi-mot-du-an-chung-cu-duoc-duyet-dau-tu-tai-tp-hcm-quy-i-4727849.html) - 17:00 28/03/2024
-- 🎓 [Đầu độc 20 phụ nữ bằng bẫy &#39;cưới không cần của hồi môn&#39;](https://vnexpress.net/dau-doc-20-phu-nu-bang-bay-cuoi-khong-can-cua-hoi-mon-4727840.html) - 17:00 28/03/2024
-- 💫 [&#39;Đội tuyển Việt Nam cần cầu thủ nhập tịch&#39;](https://vnexpress.net/doi-tuyen-viet-nam-can-cau-thu-nhap-tich-4727824.html) - 17:00 28/03/2024<!-- vnexpress:END -->
+- 🎓 [Đầu độc 20 phụ nữ bằng bẫy &#39;cưới không cần của hồi môn&#39;](https://vnexpress.net/dau-doc-20-phu-nu-bang-bay-cuoi-khong-can-cua-hoi-mon-4727840.html) - 17:00 28/03/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
