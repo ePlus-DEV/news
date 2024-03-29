@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Endrick - từ đứa trẻ đói ăn đến tương lai rạng ngời ở Real](https://vnexpress.net/endrick-tu-dua-tre-doi-an-den-tuong-lai-rang-ngoi-o-real-4728256.html) - 09:10 29/03/2024
+- 🪜 [Endrick - từ đứa trẻ đói ăn đến tương lai đợi chờ ở Real](https://vnexpress.net/endrick-tu-dua-tre-doi-an-den-tuong-lai-doi-cho-o-real-4728256.html) - 09:10 29/03/2024
 - 🦩 [Messi đứng đầu, Ronaldo xếp cuối trong Top 10 cầu thủ vĩ đại](https://vnexpress.net/messi-dung-dau-ronaldo-xep-cuoi-trong-top-10-cau-thu-vi-dai-4727855.html) - 08:45 29/03/2024
 - 🧰 [18 thuyền máy công thức một đua trên đầm Thị Nại](https://vnexpress.net/18-thuyen-may-cong-thuc-mot-dua-tren-dam-thi-nai-4728164.html) - 08:17 29/03/2024
 - 🤗 [Runner cần chuẩn bị gì trước Tiền Phong Marathon](https://vnexpress.net/runner-can-chuan-bi-gi-truoc-tien-phong-marathon-4728115.html) - 06:05 29/03/2024
