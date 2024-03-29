@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Bộ Công Thương đề xuất doanh nghiệp tự quyết giá xăng dầu](https://vnexpress.net/bo-cong-thuong-de-xuat-doanh-nghiep-tu-quyet-gia-xang-dau-4727912.html) - 18:00 28/03/2024
-- 🐲 [Doanh nghiệp Canada muốn đầu tư vào năng lượng, nông nghiệp ở Việt Nam](https://vnexpress.net/doanh-nghiep-canada-muon-dau-tu-vao-nang-luong-nong-nghiep-o-viet-nam-4727882.html) - 15:54 28/03/2024
+- 🐲 [Doanh nghiệp Canada muốn đầu tư vào năng lượng, nông nghiệp ở Việt Nam](https://vnexpress.net/doanh-nghiep-canada-muon-dau-tu-vao-nang-luong-nong-nghiep-o-viet-nam-4727882.html) - 17:00 28/03/2024
 - 🔥 [VNDirect đang chờ kết nối HoSE, HNX để nhà đầu tư có thể giao dịch](https://vnexpress.net/vndirect-dang-cho-ket-noi-hose-hnx-de-nha-dau-tu-co-the-giao-dich-4727899.html) - 15:33 28/03/2024
 - 🐵 [&#39;Nên bỏ độc quyền vàng miếng&#39;](https://vnexpress.net/nen-bo-doc-quyen-vang-mieng-4727892.html) - 14:50 28/03/2024
 - 🦅 [Ông Nguyễn Văn Tuấn: Gelex không ưu tiên thương vụ mua nhanh khi M&amp;amp;A](https://vnexpress.net/ong-nguyen-van-tuan-gelex-khong-uu-tien-thuong-vu-mua-nhanh-khi-m-a-4727889.html) - 13:59 28/03/2024
