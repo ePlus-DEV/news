@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Mưa đá phủ trắng mặt đất ở miền núi phía Bắc](https://vnexpress.net/mua-da-phu-trang-mat-dat-o-mien-nui-phia-bac-4728158.html) - 08:07 29/03/2024
 - 🤓 [Quyền Chủ tịch nước: &#39;Quốc tế đánh giá cao phục hồi kinh tế của Việt Nam&#39;](https://vnexpress.net/quyen-chu-tich-nuoc-quoc-te-danh-gia-cao-phuc-hoi-kinh-te-cua-viet-nam-4728189.html) - 08:00 29/03/2024
-- ⚗️ [Ông Nguyễn Hoài Anh làm Bí thư Tỉnh ủy Bình Thuận](https://vnexpress.net/ong-nguyen-hoai-anh-lam-bi-thu-tinh-uy-binh-thuan-4728210.html) - 07:57 29/03/2024
+- ⚗️ [Bình Thuận có tân Bí thư Tỉnh ủy](https://vnexpress.net/binh-thuan-co-tan-bi-thu-tinh-uy-4728210.html) - 07:57 29/03/2024
 - 🌊 [Hai ôtô trùng biển số xanh](https://vnexpress.net/hai-oto-trung-bien-so-xanh-4728141.html) - 05:44 29/03/2024
 - 🎓 [Gần 1.000 nhà tốc mái do giông lốc, mưa đá](https://vnexpress.net/gan-1-000-nha-toc-mai-do-giong-loc-mua-da-4727979.html) - 03:25 29/03/2024
 - 🔥 [Thủy điện Hòa Bình xây hầm dẫn nước lớn nhất Việt Nam](https://video.vnexpress.net/thuy-dien-hoa-binh-xay-ham-dan-nuoc-lon-nhat-viet-nam-4726487.html) - 01:08 29/03/2024
