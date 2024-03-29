@@ -18,7 +18,7 @@ sidebar_position: 12
 - 🌏 [Cha con &#39;đại gia rác&#39; hầu tòa về hành vi lừa UBND tỉnh Cà Mau](https://vnexpress.net/cha-con-dai-gia-o-ca-mau-bi-xet-xu-vu-lua-dao-chiem-doat-tai-san-4727701.html) - 09:21 28/03/2024
 - 🌊 [Giám đốc Ngân hàng MSB Thanh Xuân bị bắt](https://vnexpress.net/giam-doc-ngan-hang-msb-thanh-xuan-bi-bat-4727786.html) - 09:02 28/03/2024
 - 💂 [Nhà hàng ở Sài Gòn có trăm tiếp viên bán dâm cho khách nước ngoài](https://vnexpress.net/nha-hang-o-sai-gon-co-tram-tiep-vien-ban-dam-cho-khach-nuoc-ngoai-4727738.html) - 08:58 28/03/2024
-- 🎡 [Hai người bị bắt với cáo buộc xuyên tạc vụ án Hồ Duy Hải](https://vnexpress.net/hai-nguoi-bi-bat-voi-cao-buoc-xuyen-tac-vu-an-ho-duy-hai-4727684.html) - 07:09 28/03/2024
+- 🎡 [Hai người bị khởi tố cáo buộc xuyên tạc vụ án Hồ Duy Hải](https://vnexpress.net/hai-nguoi-bi-khoi-to-cao-buoc-xuyen-tac-vu-an-ho-duy-hai-4727684.html) - 07:09 28/03/2024
 - 🫶 [Hơn 6.600 bị hại mua trái phiếu Tân Hoàng Minh lấy lại tiền thế nào](https://vnexpress.net/hon-6-600-bi-hai-mua-trai-phieu-tan-hoang-minh-lay-lai-tien-the-nao-4727552.html) - 06:02 28/03/2024
 - 🐲 [Kẻ mang ma túy nổ súng ở chốt 141](https://video.vnexpress.net/ke-mang-ma-tuy-no-sung-o-chot-141-4727417.html) - 05:23 28/03/2024
 - 🚀 [Giám đốc công ty vàng bị bắt với cáo buộc lừa 1.000 lượng của đối tác](https://vnexpress.net/giam-doc-cong-ty-vang-bi-bat-voi-cao-buoc-lua-1-000-luong-cua-doi-tac-4727672.html) - 05:20 28/03/2024
