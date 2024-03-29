@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hầm dẫn nước lớn nhất Việt Nam của thủy điện Hòa Bình được xây thế nào?](https://video.vnexpress.net/ham-dan-nuoc-lon-nhat-viet-nam-cua-thuy-dien-hoa-binh-duoc-xay-the-nao-4726487.html) - 01:08 29/03/2024
+- 🦒 [Thủy điện Hòa Bình xây hầm dẫn nước lớn nhất Việt Nam](https://video.vnexpress.net/thuy-dien-hoa-binh-xay-ham-dan-nuoc-lon-nhat-viet-nam-4726487.html) - 01:08 29/03/2024
 - 🤓 [Hàng nghìn người dự lễ vía Bồ Tát Quán Thế Âm](https://vnexpress.net/hang-nghin-nguoi-du-le-via-bo-tat-quan-the-am-4727812.html) - 13:03 28/03/2024
 - ⚗️ [Công an vào cuộc vụ cây sao đen chết khô trên phố Lò Đúc](https://vnexpress.net/cong-an-vao-cuoc-vu-cay-sao-den-chet-kho-tren-pho-lo-duc-4727819.html) - 11:32 28/03/2024
 - 🌊 [Bé gái bị chó cắn trọng thương](https://vnexpress.net/be-gai-bi-cho-can-trong-thuong-4727825.html) - 11:11 28/03/2024
