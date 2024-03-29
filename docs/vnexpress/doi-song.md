@@ -6,7 +6,7 @@ sidebar_position: 6
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Jennifer Phạm làm đại sứ thương hiệu sữa Bubs Australia](https://vnexpress.net/jennifer-pham-lam-dai-su-thuong-hieu-sua-bubs-australia-4727757.html) - 02:00 29/03/2024
 - 🎓 [Người trẻ Mỹ &#39;phất lên&#39; từ nghề tay trái trên mạng](https://vnexpress.net/nguoi-tre-my-phat-len-tu-nghe-tay-trai-tren-mang-4727651.html) - 00:29 29/03/2024
-- 🚦 [Nỗi sợ gặp thiếu niên đi xe máy điện](https://vnexpress.net/noi-so-gap-thieu-nien-di-xe-may-dien-4726926.html) - 23:00 28/03/2024
+- 🚦 [Nỗi sợ gặp thiếu niên đi xe máy ẩu](https://vnexpress.net/noi-so-gap-thieu-nien-di-xe-may-au-4726926.html) - 23:00 28/03/2024
 - 🦣 [Cô gái sống trong ngôi nhà với 6 đồ nội thất](https://vnexpress.net/co-gai-song-trong-ngoi-nha-voi-6-do-noi-that-4727791.html) - 12:00 28/03/2024
 - 🎓 [Vệ sinh TV màn hình phẳng như thế nào](https://vnexpress.net/ve-sinh-tv-man-hinh-phang-nhu-the-nao-4727566.html) - 12:00 28/03/2024
 - 🎭 [Mẹo luộc trứng nứt vỡ không bị lòi ra ngoài](https://vnexpress.net/meo-luoc-trung-nut-vo-khong-bi-loi-ra-ngoai-4727741.html) - 11:00 28/03/2024
