@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Hai thanh niên bị phạt 125 triệu đồng vì trốn nhập ngũ](https://vnexpress.net/hai-thanh-nien-bi-phat-125-trieu-dong-vi-tron-nhap-ngu-4728515.html) - 06:53 30/03/2024
 - 🤓 [Hơn 60.000 tỷ đồng đầu tư vào Bà Rịa - Vũng Tàu](https://vnexpress.net/hon-60-000-ty-dong-dau-tu-vao-ba-ria-vung-tau-4728482.html) - 05:54 30/03/2024
-- ⚗️ [Hà Nội mở rộng đường 70 đoạn Hà Đông - Văn Điển](https://vnexpress.net/ha-noi-mo-rong-duong-70-doan-ha-dong-van-dien-4728424.html) - 04:58 30/03/2024
+- ⚗️ [Hà Nội mở rộng đường 70 nối quận Hà Đông với huyện Thanh Trì](https://vnexpress.net/ha-noi-mo-rong-duong-70-noi-quan-ha-dong-voi-huyen-thanh-tri-4728424.html) - 04:58 30/03/2024
 - 🌊 [Thị trường lao động dần bình thường như trước đại dịch](https://vnexpress.net/thi-truong-lao-dong-dan-binh-thuong-nhu-truoc-dai-dich-4728396.html) - 02:12 30/03/2024
 - 🎓 [Xe giường nằm biến dạng sau va chạm trên cao tốc Trung Lương](https://vnexpress.net/xe-giuong-nam-bien-dang-sau-va-cham-tren-cao-toc-trung-luong-4728411.html) - 02:03 30/03/2024
 - 🔥 [Loạt dự án kỳ vọng chống ùn tắc, giảm ngập ở Tân Sơn Nhất](https://vnexpress.net/loat-du-an-ky-vong-chong-un-tac-giam-ngap-o-tan-son-nhat-4728184.html) - 23:00 29/03/2024
