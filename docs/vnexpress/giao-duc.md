@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Kêu gọi phụ huynh đóng 125 tỷ để trường Quốc tế Mỹ hoạt động](https://vnexpress.net/keu-goi-phu-huynh-dong-125-ty-de-truong-quoc-te-my-hoat-dong-4728486.html) - 08:49 30/03/2024
+- 🤓 [Chủ trường Quốc tế Mỹ kêu gọi phụ huynh đóng 125 tỷ](https://vnexpress.net/chu-truong-quoc-te-my-keu-goi-phu-huynh-dong-125-ty-4728486.html) - 08:49 30/03/2024
 - 🦆 [Sinh viên bỏ ngang đại học dễ sa vào &#39;bẫy thu nhập 5-10 triệu đồng&#39;](https://vnexpress.net/sinh-vien-bo-ngang-dai-hoc-de-sa-vao-bay-thu-nhap-5-10-trieu-dong-4728473.html) - 06:18 30/03/2024
 - 🦩 [Học IT nhưng muốn rẽ sang Marketing](https://vnexpress.net/hoc-it-nhung-muon-re-sang-marketing-4726399.html) - 04:12 30/03/2024
 - 🌮 [Canada tăng tốc siết giấy phép việc làm với du học sinh](https://vnexpress.net/canada-tang-toc-siet-giay-phep-viec-lam-voi-du-hoc-sinh-4728414.html) - 04:10 30/03/2024
