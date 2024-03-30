@@ -27,7 +27,7 @@ sidebar_position: 9
 - 🫣 [Nhanh mắt tìm vịt con số 84 ở đâu?](https://vnexpress.net/nhanh-mat-tim-vit-con-so-84-o-dau-4723963.html) - 09:00 30/03/2024
 - 🧑‍💻 [Ăn thịt bò tái có bị lây bệnh dại không?](https://vnexpress.net/an-thit-bo-tai-co-bi-lay-benh-dai-khong-4728439.html) - 09:00 30/03/2024
 - 🐲 [Nga &#39;lắp đầu đạn kép&#39; cho tên lửa tập kích hạ tầng Ukraine](https://vnexpress.net/nga-lap-dau-dan-kep-cho-ten-lua-tap-kich-ha-tang-ukraine-4728524.html) - 08:55 30/03/2024
-- 🌝 [Chủ trường Quốc tế Mỹ kêu gọi phụ huynh đóng 125 tỷ](https://vnexpress.net/chu-truong-quoc-te-my-keu-goi-phu-huynh-dong-125-ty-4728486.html) - 08:49 30/03/2024
+- 🌝 [Chủ trường Quốc tế Mỹ kêu gọi phụ huynh đóng thêm 125 tỷ đồng](https://vnexpress.net/chu-truong-quoc-te-my-keu-goi-phu-huynh-dong-them-125-ty-dong-4728486.html) - 08:49 30/03/2024
 - 😺 [Tôi vâng lời cha mẹ như một con robot](https://vnexpress.net/toi-vang-loi-cha-me-nhu-mot-con-robot-4728526.html) - 08:35 30/03/2024
 - 🐎 [Ông Trump được yêu cầu &#39;ngừng công kích&#39; con gái thẩm phán](https://vnexpress.net/ong-trump-duoc-yeu-cau-ngung-cong-kich-con-gai-tham-phan-4728531.html) - 08:31 30/03/2024
 - 🎡 [Nhiều túi nghi ma tuý dạt vào bờ biển Gò Công](https://vnexpress.net/nhieu-tui-nghi-ma-tuy-dat-vao-bien-go-cong-4728511.html) - 08:03 30/03/2024
@@ -52,6 +52,4 @@ sidebar_position: 9
 - 🎡 [&#39;Sợ con bị sốc vì không biết chữ trước khi vào lớp 1&#39;](https://vnexpress.net/so-con-bi-soc-vi-khong-biet-chu-truoc-khi-vao-lop-1-4728463.html) - 06:53 30/03/2024
 - 👍 [Malaysia bắt người bị nghi là gián điệp Israel](https://vnexpress.net/malaysia-bat-nguoi-bi-nghi-la-gian-diep-israel-4728510.html) - 06:52 30/03/2024
 - 🐎 [Khoảnh khắc bom 1,5 tấn Nga tập kích cầu đường sắt Ukraine](https://vnexpress.net/khoanh-khac-bom-1-5-tan-nga-tap-kich-cau-duong-sat-ukraine-4728505.html) - 06:31 30/03/2024
-- 🏊 [OpenAI ra công cụ giả giọng nói, chỉ cần đoạn ghi âm 15 giây](https://vnexpress.net/openai-ra-cong-cu-gia-giong-noi-chi-can-doan-ghi-am-15-giay-4728490.html) - 06:22 30/03/2024
-- 🦩 [Sinh viên bỏ ngang đại học dễ sa vào &#39;bẫy thu nhập 5-10 triệu đồng&#39;](https://vnexpress.net/sinh-vien-bo-ngang-dai-hoc-de-sa-vao-bay-thu-nhap-5-10-trieu-dong-4728473.html) - 06:18 30/03/2024
-- 👍 [Người phụ nữ gốc Việt đầu tiên sắp bay vào vũ trụ](https://vnexpress.net/nguoi-phu-nu-goc-viet-dau-tien-sap-bay-vao-vu-tru-4728489.html) - 06:04 30/03/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🏊 [OpenAI ra công cụ giả giọng nói, chỉ cần đoạn ghi âm 15 giây](https://vnexpress.net/openai-ra-cong-cu-gia-giong-noi-chi-can-doan-ghi-am-15-giay-4728490.html) - 06:22 30/03/2024<!-- vnexpress-tin-moi-nhat:END -->
