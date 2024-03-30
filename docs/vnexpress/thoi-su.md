@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Linga vàng ròng - bảo vật &#39;độc nhất vô nhị&#39; dưới nền tháp cổ](https://vnexpress.net/linga-vang-rong-bao-vat-doc-nhat-vo-nhi-duoi-nen-thap-co-4728246.html) - 17:00 30/03/2024
+- 🦒 [Linga vàng ròng - bảo vật dưới nền tháp cổ](https://vnexpress.net/linga-vang-rong-bao-vat-duoi-nen-thap-co-4728246.html) - 17:00 30/03/2024
 - 🤓 [Khánh thành nhà máy nước lớn nhất Thừa Thiên Huế](https://vnexpress.net/khanh-thanh-nha-may-nuoc-lon-nhat-thua-thien-hue-4728571.html) - 12:34 30/03/2024
 - ⚗️ [Hàng trăm người diễn tập chữa cháy trên phố đi bộ Hồ Gươm](https://video.vnexpress.net/hang-tram-nguoi-dien-tap-chua-chay-tren-pho-di-bo-ho-guom-4728529.html) - 11:21 30/03/2024
 - 🌊 [Phà ra đảo Cát Bà ùn tắc dù có bến mới](https://vnexpress.net/pha-ra-dao-cat-ba-un-tac-du-co-ben-moi-4728552.html) - 10:17 30/03/2024
