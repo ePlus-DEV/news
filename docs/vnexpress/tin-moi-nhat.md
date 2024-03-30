@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Ronaldo lập hat-trick sau 7 tháng](https://vnexpress.net/ronaldo-lap-hat-trick-sau-7-thang-4728629.html) - 21:02 30/03/2024
+- 🎬 [Ronaldo lập hat-trick đầu tiên sau 7 tháng](https://vnexpress.net/ronaldo-lap-hat-trick-dau-tien-sau-7-thang-4728629.html) - 21:02 30/03/2024
 - 🐎 [Lao đao vì lạm phát, Yen Nhật mất giá](https://vnexpress.net/lao-dao-vi-lam-phat-yen-nhat-mat-gia-4728614.html) - 21:00 30/03/2024
 - 🦍 [Trắc nghiệm để biết cách cho con ăn uống lành mạnh](https://vnexpress.net/trac-nghiem-de-biet-cach-cho-con-an-uong-lanh-manh-4728483.html) - 21:00 30/03/2024
 - 🏊 [8 đồ uống giúp tiêu đờm, giảm ho](https://vnexpress.net/8-do-uong-giup-tieu-dom-giam-ho-4728444.html) - 21:00 30/03/2024
