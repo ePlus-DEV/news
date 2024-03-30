@@ -12,11 +12,11 @@ sidebar_position: 3
 - 😺 [Giá sầu riêng tăng cao kỷ lục](https://vnexpress.net/gia-sau-rieng-tang-cao-ky-luc-4728125.html) - 09:43 29/03/2024
 - 🤩 [Thứ trưởng Công Thương: &#39;Năm nay sẽ không thiếu điện&#39;](https://vnexpress.net/thu-truong-cong-thuong-nam-nay-se-khong-thieu-dien-4728245.html) - 09:21 29/03/2024
 - 🌮 [Chứng khoán ngắt mạch tăng](https://vnexpress.net/chung-khoan-ngat-mach-tang-4728242.html) - 09:15 29/03/2024
-- 🧰 [Liên danh Vinhomes và công ty liên kết của REE trúng thầu xây trụ sở các cơ quan Khánh Hòa](https://vnexpress.net/lien-danh-vinhomes-va-cong-ty-lien-ket-cua-ree-trung-thau-xay-tru-so-cac-co-quan-khanh-hoa-4728185.html) - 08:48 29/03/2024
+- 🧰 [Liên danh bất động sản trúng thầu xây trụ sở các cơ quan Khánh Hòa](https://vnexpress.net/lien-danh-bat-dong-san-trung-thau-xay-tru-so-cac-co-quan-khanh-hoa-4728185.html) - 08:48 29/03/2024
 - 🤔 [Tăng trưởng kinh tế TP HCM quý I cao nhất 5 năm](https://vnexpress.net/tang-truong-kinh-te-tp-hcm-quy-i-cao-nhat-5-nam-4728036.html) - 08:46 29/03/2024
 - 🧑‍💻 [Nghiên cứu phát hành trái phiếu Chính phủ hỗ trợ nhà ở xã hội](https://vnexpress.net/nghien-cuu-phat-hanh-trai-phieu-chinh-phu-ho-tro-nha-o-xa-hoi-4728162.html) - 06:40 29/03/2024
 - 🕴 [Tiêu thụ điện tại TP HCM dự báo cao kỷ lục](https://vnexpress.net/tieu-thu-dien-tai-tp-hcm-du-bao-cao-ky-luc-4727989.html) - 04:53 29/03/2024
-- 🦩 [Tân Hoàng Minh nói dần vượt khó khăn](https://vnexpress.net/tan-hoang-minh-noi-dan-vuot-kho-khan-4728063.html) - 04:07 29/03/2024
+- 🦩 [Tân Hoàng Minh nói &#39;dần vượt khó khăn&#39;](https://vnexpress.net/tan-hoang-minh-noi-dan-vuot-kho-khan-4728063.html) - 04:07 29/03/2024
 - 👍 [Giá vàng nhẫn tăng vọt](https://vnexpress.net/gia-vang-nhan-tang-vot-4728082.html) - 03:57 29/03/2024
 - 🏊 [Cáp treo Cát Bà lỗ gần 900 triệu đồng mỗi ngày](https://vnexpress.net/cap-treo-cat-ba-lo-gan-900-trieu-dong-moi-ngay-4728033.html) - 03:47 29/03/2024
 - 🤡 [VNDirect: Nhà đầu tư có thể giao dịch lại từ đầu tuần sau](https://vnexpress.net/vndirect-nha-dau-tu-co-the-giao-dich-lai-tu-dau-tuan-sau-4728034.html) - 03:10 29/03/2024
