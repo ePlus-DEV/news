@@ -14,7 +14,7 @@ sidebar_position: 2
 - 🧑‍🏫 [Ông Trump được yêu cầu &#39;ngừng công kích&#39; con gái thẩm phán](https://vnexpress.net/ong-trump-duoc-yeu-cau-ngung-cong-kich-con-gai-tham-phan-4728531.html) - 08:31 30/03/2024
 - 🐲 [Cảnh sát đột kích nhà riêng của Tổng thống Peru](https://vnexpress.net/canh-sat-dot-kich-nha-rieng-cua-tong-thong-peru-4728513.html) - 07:28 30/03/2024
 - 🦒 [Malaysia bắt người bị nghi là gián điệp Israel](https://vnexpress.net/malaysia-bat-nguoi-bi-nghi-la-gian-diep-israel-4728510.html) - 06:52 30/03/2024
-- 🐻 [Khoảnh khắc bom 1,5 tấn Nga tập kích cầu đường sắt Ukraine](https://vnexpress.net/khoanh-khac-bom-1-5-tan-nga-tap-kich-cau-duong-sat-ukraine-4728505.html) - 06:31 30/03/2024
+- 🐻 [Khoảnh khắc bom 1,5 tấn Nga đánh sập cầu đường sắt Ukraine](https://vnexpress.net/khoanh-khac-bom-1-5-tan-nga-danh-sap-cau-duong-sat-ukraine-4728505.html) - 06:31 30/03/2024
 - 🚀 [Người phụ nữ gốc Việt đầu tiên sắp bay vào vũ trụ](https://vnexpress.net/nguoi-phu-nu-goc-viet-dau-tien-sap-bay-vao-vu-tru-4728489.html) - 06:04 30/03/2024
 - 🥰 [Chiến dịch Biden, Trump khẩu chiến vì hình ảnh Tổng thống bị trói](https://vnexpress.net/chien-dich-biden-trump-khau-chien-vi-hinh-anh-tong-thong-bi-troi-4728454.html) - 04:54 30/03/2024
 - 🔥 [Con đường nghi phạm khủng bố từ Tajikistan vào Nga](https://vnexpress.net/con-duong-nghi-pham-khung-bo-tu-tajikistan-vao-nga-4728374.html) - 04:39 30/03/2024
