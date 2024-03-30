@@ -76,9 +76,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💫 [Xe giường nằm biến dạng sau va chạm trên cao tốc Trung Lương](https://vnexpress.net/xe-giuong-nam-bien-dang-sau-va-cham-tren-cao-toc-trung-luong-4728411.html) - 02:03 30/03/2024
 - 🤩 [Phạt loạt doanh nghiệp liên quan đến Vạn Thịnh Phát vì trái phiếu](https://vnexpress.net/phat-loat-doanh-nghiep-lien-quan-den-van-thinh-phat-vi-trai-phieu-4728412.html) - 02:01 30/03/2024
 - 🏊 [Trái Đất quay chậm hơn do băng vùng cực tan chảy](https://vnexpress.net/trai-dat-quay-cham-hon-do-bang-vung-cuc-tan-chay-4727482.html) - 02:00 30/03/2024
-- 💂 [Lợi ích của nước hầm xương với ruột](https://vnexpress.net/loi-ich-cua-nuoc-ham-xuong-voi-ruot-4728294.html) - 02:00 30/03/2024
-- 🚀 [Chuyên gia trả lời câu hỏi chọn bằng cấp hay việc làm](https://vnexpress.net/chuyen-gia-tra-loi-cau-hoi-chon-bang-cap-hay-viec-lam-4728253.html) - 02:00 30/03/2024
-- 🕴 [Honda Việt Nam triệu hồi 2 dòng phân khối lớn](https://vnexpress.net/honda-viet-nam-trieu-hoi-2-dong-phan-khoi-lon-4727719.html) - 02:00 30/03/2024<!-- vnexpress:END -->
+- 💂 [Lợi ích của nước hầm xương với ruột](https://vnexpress.net/loi-ich-cua-nuoc-ham-xuong-voi-ruot-4728294.html) - 02:00 30/03/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
