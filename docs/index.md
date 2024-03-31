@@ -252,7 +252,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Lễ hội &quot;Tôn vinh cà phê - trà Việt&quot; thành công tốt đẹp](https://nld.com.vn/le-hoi-ton-vinh-ca-phe-tra-viet-thanh-cong-tot-dep-196240331185002029.htm) - 13:50 31/03/2024
+- 🐎 [Lễ hội &quot;Tôn vinh cà phê - trà Việt&quot; lần 2 - 2024 thành công tốt đẹp](https://nld.com.vn/le-hoi-ton-vinh-ca-phe-tra-viet-thanh-cong-tot-dep-196240331185002029.htm) - 13:50 31/03/2024
 - 😺 [Bị CLB TP HCM ghi bàn, thủ thành Đặng Văn Lâm thất vọng](https://nld.com.vn/bi-clb-tp-hcm-ghi-ban-thu-thanh-dang-van-lam-that-vong-196240331203550915.htm) - 13:37 31/03/2024
 - 👍 [Đại diện TP HCM vô địch Giải Bóng đá Thanh Niên sinh viên toàn quốc](https://nld.com.vn/dai-dien-tp-hcm-vo-dich-giai-bong-da-thanh-nien-sinh-vien-toan-quoc-196240331200922819.htm) - 13:10 31/03/2024
 - 🥷 [Một cửa hàng Điện Máy Xanh ở Bình Dương bị trộm đột nhập](https://nld.com.vn/mot-cua-hang-dien-may-xanh-o-binh-duong-bi-trom-dot-nhap-19624033120012619.htm) - 13:09 31/03/2024
