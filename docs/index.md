@@ -573,7 +573,7 @@ nhiều nghi phạm khủng bố](https://nld.com.vn/nga-mo-rong-chien-dich-bat-
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Clip gần 20 người hợp sức cứu ô tô khỏi căn nhà bốc cháy ở TPHCM](https://tienphong.vn/clip-gan-20-nguoi-hop-suc-cuu-o-to-khoi-can-nha-boc-chay-o-tphcm-post1625032.tpo) - 21:27 31/03/2024
+- 💼 [Bùng nổ phút cuối, Nam Định đánh bại Hà Nội FC](https://tienphong.vn/bung-no-phut-cuoi-nam-dinh-danh-bai-ha-noi-fc-post1625047.tpo) - 21:37 31/03/2024
 - 🎊 [Tình hình sức khỏe nam sinh lớp 8 bị đánh chấn thương sọ não](https://tienphong.vn/tinh-hinh-suc-khoe-nam-sinh-lop-8-bi-danh-chan-thuong-so-nao-post1625040.tpo) - 21:13 31/03/2024
 - 💼 [Chính phủ đồng ý đệ trình UNESCO hồ sơ di sản Mo Mường và nghệ thuật chèo](https://tienphong.vn/chinh-phu-dong-y-de-trinh-unesco-ho-so-di-san-mo-muong-va-nghe-thuat-cheo-post1625041.tpo) - 21:11 31/03/2024
 - 👺 [Clip gần 20 người hợp sức kéo ô tô đỗ cạnh ngôi nhà cháy ngùn ngụt ở TPHCM](https://tienphong.vn/clip-gan-20-nguoi-hop-suc-keo-o-to-do-canh-ngoi-nha-chay-ngun-ngut-o-tphcm-post1625031.tpo) - 21:00 31/03/2024
