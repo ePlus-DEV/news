@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Chàng trai giành 3 học bổng chính phủ sau một năm đi làm](https://vnexpress.net/chang-trai-gianh-3-hoc-bong-chinh-phu-sau-mot-nam-di-lam-4728678.html) - 03:28 31/03/2024
-- 🦆 [Đắk Nông lần đầu có học sinh vào đội tuyển thi quốc tế](https://vnexpress.net/dak-nong-lan-dau-co-hoc-sinh-vao-doi-tuyen-thi-quoc-te-4728168.html) - 02:21 31/03/2024
+- 🦆 [Đăk Nông lần đầu có học sinh vào đội tuyển thi quốc tế](https://vnexpress.net/dak-nong-lan-dau-co-hoc-sinh-vao-doi-tuyen-thi-quoc-te-4728168.html) - 02:21 31/03/2024
 - 🦩 [Sinh viên lo sống chật vật nếu bị siết giờ làm thêm](https://vnexpress.net/sinh-vien-lo-song-chat-vat-neu-bi-siet-gio-lam-them-4726988.html) - 00:35 31/03/2024
 - 🌮 [Tỉnh nào có nhiều thành phố nhất cả nước?](https://vnexpress.net/tinh-nao-co-nhieu-thanh-pho-nhat-ca-nuoc-4728581.html) - 13:43 30/03/2024
 - 🔭 [&#39;Thị trường cần ứng viên có kỹ năng mềm và biết công nghệ&#39;](https://vnexpress.net/thi-truong-can-ung-vien-co-ky-nang-mem-va-biet-cong-nghe-4726182.html) - 13:00 30/03/2024
