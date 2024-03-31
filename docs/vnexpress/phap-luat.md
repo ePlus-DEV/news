@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Cựu chủ tịch Ủy ban MTTQ Việt Nam tỉnh Gia lai bị khởi tố](https://vnexpress.net/cuu-chu-tich-uy-ban-mttq-viet-nam-tinh-gia-lai-bi-khoi-to-4728795.html) - 09:49 31/03/2024
 - 🥰 [Nuốt túi ma túy khi gặp cảnh sát](https://vnexpress.net/nuot-tui-ma-tuy-khi-gap-canh-sat-4728692.html) - 03:15 31/03/2024
-- 🎓 [Ám hiệu của &#39;cát tặc&#39;](https://vnexpress.net/am-hieu-cua-cat-tac-4728561.html) - 02:18 31/03/2024
+- 🎓 [Ám hiệu né cảnh sát của &#39;cát tặc&#39;](https://vnexpress.net/am-hieu-ne-canh-sat-cua-cat-tac-4728561.html) - 02:18 31/03/2024
 - 🤓 [Nhiều cựu cán bộ bị bắt khi lộ việc cấp khống đất](https://vnexpress.net/nhieu-cuu-can-bo-bi-bat-khi-lo-viec-cap-khong-dat-4728645.html) - 01:05 31/03/2024
 - 🎊 [KOL vướng lao lý vì review chê đồ ăn trên mạng xã hội](https://vnexpress.net/kol-vuong-lao-ly-vi-review-che-do-an-tren-mang-xa-hoi-4728594.html) - 00:14 31/03/2024
 - 🙉 [Trường học kiện Snapchat, TikTok và Facebook vì &#39;gây nghiện&#39; trẻ em](https://vnexpress.net/truong-hoc-kien-snapchat-tiktok-va-facebook-vi-gay-nghien-tre-em-4728609.html) - 23:57 30/03/2024
