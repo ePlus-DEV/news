@@ -240,7 +240,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌊 [Nóng Sài Gòn: Các phường của Quận 11, TPHCM sẽ được sáp nhập với nhau](https://laodong.vn/video/nong-sai-gon-cac-phuong-cua-quan-11-tphcm-se-duoc-sap-nhap-voi-nhau-1321725.ldo) - 12:00 31/03/2024
 - 💻 [Những quy định mới về tuyển dụng, sử dụng và quản lý viên chức](https://laodong.vn/video/nhung-quy-dinh-moi-ve-tuyen-dung-su-dung-va-quan-ly-vien-chuc-1321633.ldo) - 11:57 31/03/2024
 - 👨‍🏫 [Thủ lĩnh đội Bình Định - Việt Nam buồn bã vì không mang về chiến thắng](https://laodong.vn/the-thao/thu-linh-doi-binh-dinh-viet-nam-buon-ba-vi-khong-mang-ve-chien-thang-1321688.ldo) - 11:41 31/03/2024
-- 🌈 [Trực tiếp Hà Nội FC 1-2 Nam Định: Đội khách ghi bàn phút bù giờ](https://laodong.vn/bong-da/truc-tiep-ha-noi-fc-1-2-nam-dinh-doi-khach-ghi-ban-phut-bu-gio-1321697.ldo) - 11:39 31/03/2024
+- 🌈 [Hà Nội FC thua cả 2 trận trước Nam Định](https://laodong.vn/bong-da/ha-noi-fc-thua-ca-2-tran-truoc-nam-dinh-1321697.ldo) - 11:39 31/03/2024
 - 🐲 [Gần 20 người hợp sức di dời chiếc ôtô bán tải ra khỏi đám cháy](https://laodong.vn/ban-tin/gan-20-nguoi-hop-suc-di-doi-chiec-oto-ban-tai-ra-khoi-dam-chay-1321712.ldo) - 11:37 31/03/2024
 - 🚀 [Cập nhật giá vàng hôm nay trong nước và thế giới 31.3](https://laodong.vn/infographic/cap-nhat-gia-vang-hom-nay-trong-nuoc-va-the-gioi-313-1321729.ldo) - 11:15 31/03/2024
 - 😺 [Hai nữ thẩm phán được bổ nhiệm làm Phó Chánh án tỉnh, Chánh án huyện](https://laodong.vn/thoi-su/hai-nu-tham-phan-duoc-bo-nhiem-lam-pho-chanh-an-tinh-chanh-an-huyen-1321692.ldo) - 11:02 31/03/2024
