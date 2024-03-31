@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Thủ môn Đặng Văn Lâm tái xuất](https://vnexpress.net/thu-mon-dang-van-lam-tai-xuat-4718564.html) - 14:17 31/03/2024
-- 🦩 [Man City - Arsenal](https://vnexpress.net/truc-tiep-man-city-arsenal-4728809.html) - 14:17 31/03/2024
+- 🦩 [Man City - Arsenal: Tuyệt đỉnh Ngoại hạng](https://vnexpress.net/truc-tiep-man-city-arsenal-4728809.html) - 14:17 31/03/2024
 - 🧰 [Hà Tĩnh níu chân Bình Dương](https://vnexpress.net/ha-tinh-niu-chan-binh-duong-4728791.html) - 14:12 31/03/2024
 - 🤗 [Bí quyết giúp Arsenal làm đối thủ sợ hãi](https://vnexpress.net/bi-quyet-giup-arsenal-lam-doi-thu-so-hai-4728773.html) - 11:49 31/03/2024
 - 🥳 [Golfer số một thế giới gạt ẩu ở Houston Open 2024](https://vnexpress.net/golfer-so-mot-the-gioi-gat-au-o-houston-open-2024-4728767.html) - 09:02 31/03/2024
