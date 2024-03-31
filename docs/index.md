@@ -510,7 +510,7 @@ nhiều nghi phạm khủng bố](https://nld.com.vn/nga-mo-rong-chien-dich-bat-
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Nữ sinh lớp 11 là hoa khôi Duyên dáng học đường TrườngTHPT Nguyễn Văn Cừ](https://muctim.tuoitre.vn/nu-sinh-lop-11-la-hoa-khoi-duyen-dang-hoc-duong-truongthpt-nguyen-van-cu-101240331200202503.htm) - 14:04 31/03/2024
+- 🤔 [Nữ sinh lớp 11 là hoa khôi Duyên dáng học đường Trường THPT Nguyễn Văn Cừ](https://muctim.tuoitre.vn/nu-sinh-lop-11-la-hoa-khoi-duyen-dang-hoc-duong-truongthpt-nguyen-van-cu-101240331200202503.htm) - 14:04 31/03/2024
 - 🥷 [Bao lâu thì nên giặt quần áo một lần?](https://muctim.tuoitre.vn/bao-lau-thi-nen-giat-quan-ao-mot-lan-101240319140701927.htm) - 13:00 31/03/2024
 - 🤖 [Con nuốc Huế sốt mạng xã hội, dân tình đổ xô mua về ăn thử](https://muctim.tuoitre.vn/con-nuoc-hue-sot-mang-xa-hoi-dan-tinh-do-xo-mua-ve-an-thu-10124033117094764.htm) - 12:39 31/03/2024
 - 🤓 [Tùng Maru thử sức nhiều vai trò; Avi Kim Anh kết hợp Cao Bá Hưng](https://muctim.tuoitre.vn/tung-maru-thu-suc-nhieu-vai-tro-avi-kim-anh-ket-hop-cao-ba-hung-10124033116174269.htm) - 12:35 31/03/2024
