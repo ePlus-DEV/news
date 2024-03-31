@@ -219,7 +219,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💼 [Tuyên truyền phòng cháy chữa cháy cho 100 công nhân nhà trọ ở Hải Phòng](https://laodong.vn/cong-doan/tuyen-truyen-phong-chay-chua-chay-cho-100-cong-nhan-nha-tro-o-hai-phong-1321763.ldo) - 14:59 31/03/2024
 - 🤖 [PC Đắk Nông kỷ niệm 20 năm thành lập](https://laodong.vn/kinh-doanh/pc-dak-nong-ky-niem-20-nam-thanh-lap-1321635.ldo) - 14:58 31/03/2024
 - 💪 [Giới siêu giàu săn tìm tài sản truyền đời tại Vinhomes Royal Island](https://laodong.vn/thong-tin-doanh-nghiep/gioi-sieu-giau-san-tim-tai-san-truyen-doi-tai-vinhomes-royal-island-1321446.ldo) - 14:53 31/03/2024
-- 👍 [Trực tiếp Man City 0-0 Arsenal: Hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-man-city-0-0-arsenal-hiep-1-1321761.ldo) - 14:52 31/03/2024
+- 👍 [Trực tiếp Man City 0-0 Arsenal: Hết hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-man-city-0-0-arsenal-het-hiep-1-1321761.ldo) - 14:52 31/03/2024
 - 💂 [Bình Định hòa TPHCM trên sân nhà, Bình Dương thất thủ trước Hà Tĩnh](https://laodong.vn/bong-da/binh-dinh-hoa-tphcm-tren-san-nha-binh-duong-that-thu-truoc-ha-tinh-1321748.ldo) - 14:24 31/03/2024
 - 🧰 [Nhận 2 thẻ đỏ, Thanh Hóa thua Công an Hà Nội trên sân nhà](https://laodong.vn/photo/nhan-2-the-do-thanh-hoa-thua-cong-an-ha-noi-tren-san-nha-1316436.ldo) - 14:23 31/03/2024
 - 🥷 [Thả 5 triệu con giống tái tạo nguồn lợi thủy sản tại Quảng Ninh](https://laodong.vn/xa-hoi/tha-5-trieu-con-giong-tai-tao-nguon-loi-thuy-san-tai-quang-ninh-1321746.ldo) - 13:53 31/03/2024
