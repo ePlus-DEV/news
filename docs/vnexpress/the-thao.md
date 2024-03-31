@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Guardiola - Arteta: Danh sư xuất cao đồ](https://vnexpress.net/guardiola-arteta-danh-su-xuat-cao-do-4728634.html) - 06:17 31/03/2024
-- 🦩 [Bao Phương Vinh vào bán kết billiard châu Á](https://vnexpress.net/bao-phuong-vinh-vao-ban-ket-billiard-chau-a-4728721.html) - 05:22 31/03/2024
+- 🦩 [Bao Phương Vinh thua sát nút ở bán kết billiard châu Á](https://vnexpress.net/bao-phuong-vinh-thua-sat-nut-o-ban-ket-billiard-chau-a-4728721.html) - 05:22 31/03/2024
 - 🧰 [Ten Hag: &#39;Man Utd không xứng đáng thắng&#39;](https://vnexpress.net/ten-hag-man-utd-khong-xung-dang-thang-4728689.html) - 03:50 31/03/2024
 - 🤗 [HLV Quảng Nam tố trọng tài &#39;có vấn đề&#39; khi thua Thể Công](https://vnexpress.net/hlv-quang-nam-to-trong-tai-co-van-de-khi-thua-the-cong-4728648.html) - 03:04 31/03/2024
 - 🥳 [Hoàng Nguyên Thanh lập kỷ lục marathon của giải VĐQG](https://vnexpress.net/hoang-nguyen-thanh-lap-ky-luc-marathon-cua-giai-vdqg-4728681.html) - 02:47 31/03/2024
