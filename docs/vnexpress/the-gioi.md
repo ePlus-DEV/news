@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Nga trong ba tháng tập kích Kiev 16 lần bằng tên lửa siêu vượt âm](https://vnexpress.net/nga-trong-ba-thang-tap-kich-kiev-16-lan-bang-ten-lua-sieu-vuot-am-4729273.html) - 14:19 01/04/2024
+- 🎭 [Nga tập kích Kiev bằng tên lửa siêu vượt âm 16 lần trong ba tháng](https://vnexpress.net/nga-tap-kich-kiev-bang-ten-lua-sieu-vuot-am-16-lan-trong-ba-thang-4729273.html) - 14:19 01/04/2024
 - 🕴 [Nga bắt thêm 4 nghi phạm liên quan vụ khủng bố nhà hát](https://vnexpress.net/nga-bat-them-4-nghi-pham-lien-quan-vu-khung-bo-nha-hat-4729268.html) - 13:13 01/04/2024
 - 🤭 [Siêu cần cẩu của CIA tham gia khắc phục vụ sập cầu Mỹ](https://vnexpress.net/sieu-can-cau-cua-cia-tham-gia-khac-phuc-vu-sap-cau-my-4728993.html) - 13:00 01/04/2024
 - 🧑‍💻 [Bệnh viện Gaza biến thành đống đổ nát sau hai tuần bị Israel bao vây](https://vnexpress.net/benh-vien-gaza-bien-thanh-dong-do-nat-sau-hai-tuan-bi-israel-bao-vay-4729258.html) - 12:11 01/04/2024
