@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Nghề sắp xếp tủ quần áo](https://vnexpress.net/nghe-sap-xep-tu-quan-ao-4728546.html) - 23:00 31/03/2024
+- 🚀 [Nghề dọn tủ quần áo](https://vnexpress.net/nghe-don-tu-quan-ao-4728546.html) - 23:00 31/03/2024
 - 🎓 [Ước mơ &#39;tết tóc cài nơ&#39; của cô bé ung thư](https://vnexpress.net/uoc-mo-tet-toc-cai-no-cua-co-be-ung-thu-4728333.html) - 17:00 31/03/2024
 - 🚦 [Vì sao người Trung Quốc ngại nuôi con?](https://vnexpress.net/vi-sao-nguoi-trung-quoc-ngai-nuoi-con-4728484.html) - 13:00 31/03/2024
 - 🦣 [Thịt kho trứng cút, cùi dừa kiểu Bắc](https://vnexpress.net/thit-kho-trung-cut-cui-dua-kieu-bac-4728702.html) - 11:00 31/03/2024
