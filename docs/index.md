@@ -270,7 +270,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎉 [Tuyên án vụ vợ chồng “đại gia” xăng dầu ở Vũng Tàu trốn thuế](https://nld.com.vn/tuyen-an-vu-vo-chong-dai-gia-xang-dau-vung-tau-tron-thue-196240401184401063.htm) - 11:57 01/04/2024
 - 😺 [Hai thành phố ở Long An và Sóc Trăng có lãnh đạo mới](https://nld.com.vn/hai-thanh-pho-o-long-an-va-soc-trang-co-lanh-dao-moi-196240401183526321.htm) - 11:49 01/04/2024
 - 🐻 [Đá lở trên đèo Prenn trong cơn mưa chiều 1-4](https://nld.com.vn/da-lo-tren-deo-prenn-trong-con-mua-chieu-1-4-o-da-lat-1962404011820179.htm) - 11:45 01/04/2024
-- 🤡 [Một cá nhân “lạ” ứng cử vào HĐQT Vincom Retail sau thông tin Vingroup thoái vốn](https://nld.com.vn/mot-ca-nhan-la-ung-cu-vao-hdqt-vincom-retail-sau-thong-tin-vingroup-thoai-von-196240401181107881.htm) - 11:43 01/04/2024
+- 🤡 [Một cá nhân ứng cử vào HĐQT Vincom Retail](https://nld.com.vn/mot-ca-nhan-la-ung-cu-vao-hdqt-vincom-retail-sau-thong-tin-vingroup-thoai-von-196240401181107881.htm) - 11:43 01/04/2024
 - 🚦 [Khủng bố ở Nga: Mỹ từ chối bình luận thông tin liên quan đến Iran](https://nld.com.vn/khung-bo-o-nga-my-tu-choi-binh-luan-thong-tin-lien-quan-den-iran-196240401181800899.htm) - 11:26 01/04/2024
 - 🪜 [Rà soát nguyên nhân 30 lô hàng sầu riêng xuất sang Trung Quốc bị cảnh báo](https://nld.com.vn/ra-soat-nguyen-nhan-30-lo-hang-sau-rieng-xuat-sang-trung-quoc-bi-canh-bao-196240401181233465.htm) - 11:17 01/04/2024
 - 💫 [Vì sao thịt ủ mát thu hút người tiêu dùng?](https://thitruong.nld.com.vn/vi-sao-thit-u-mat-thu-hut-nguoi-tieu-dung-19624040117470669.htm) - 11:16 01/04/2024
