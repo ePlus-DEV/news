@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Tổ 141 truy đuổi nhóm chạy xe tốc độ cao trên phố](https://video.vnexpress.net/to-141-truy-duoi-nhom-chay-xe-toc-do-cao-tren-pho-4726096.html) - 04:45 01/04/2024
-- 🥰 [VKS: &#39;Cách tính thiệt hại 670.000 tỷ đồng đã có lợi cho bà Trương Mỹ Lan&#39;](https://vnexpress.net/vks-cach-tinh-thiet-hai-670-000-ty-dong-da-co-loi-cho-ba-truong-my-lan-4729026.html) - 04:34 01/04/2024
+- 🥰 [VKS: &#39;Trương Mỹ Lan không cho SCB mượn tài sản, không bị thiệt hại&#39;](https://vnexpress.net/vks-truong-my-lan-khong-cho-scb-muon-tai-san-khong-bi-thiet-hai-4729026.html) - 04:34 01/04/2024
 - 🎓 [Vlogger nổi tiếng bạo hành các con trong căn nhà triệu đô](https://vnexpress.net/vlogger-noi-tieng-bao-hanh-cac-con-trong-can-nha-trieu-do-4728840.html) - 00:52 01/04/2024
 - 🤓 [Vợ có thể phản đối di chúc chồng để lại tài sản cho con riêng?](https://vnexpress.net/vo-co-the-phan-doi-di-chuc-chong-de-lai-tai-san-cho-con-rieng-4728258.html) - 17:01 31/03/2024
 - 🎊 [Cảnh sát cơ động đồng diễn võ thuật, khí công](https://video.vnexpress.net/canh-sat-co-dong-dong-dien-vo-thuat-khi-cong-4728803.html) - 17:00 31/03/2024
