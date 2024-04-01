@@ -4,13 +4,13 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cao tốc cuối cùng nối TP HCM – Nha Trang chờ khánh thành](https://vnexpress.net/cao-toc-cuoi-cung-noi-tp-hcm-nha-trang-cho-khanh-thanh-4728765.html) - 22:00 31/03/2024
-- 🤓 [Hàng loạt công viên chậm tiến độ, bỏ hoang](https://vnexpress.net/hang-loat-cong-vien-cham-tien-do-bo-hoang-4728748.html) - 22:00 31/03/2024
-- ⚗️ [Cảnh sát cơ động đồng diễn võ thuật, khí công](https://video.vnexpress.net/canh-sat-co-dong-dong-dien-vo-thuat-khi-cong-4728803.html) - 17:00 31/03/2024
+- 🦒 [Chính sách nổi bật có hiệu lực từ tháng 4](https://vnexpress.net/chinh-sach-noi-bat-co-hieu-luc-tu-thang-4-4728866.html) - 00:59 01/04/2024
+- 🤓 [Cao tốc cuối cùng nối TP HCM - Nha Trang chờ khánh thành](https://vnexpress.net/cao-toc-cuoi-cung-noi-tp-hcm-nha-trang-cho-khanh-thanh-4728765.html) - 22:00 31/03/2024
+- ⚗️ [Hàng loạt công viên chậm tiến độ, bỏ hoang](https://vnexpress.net/hang-loat-cong-vien-cham-tien-do-bo-hoang-4728748.html) - 22:00 31/03/2024
 - 🌊 [Nha Trang mở rộng thêm 1.300 ha](https://vnexpress.net/nha-trang-mo-rong-them-1-300-ha-4728820.html) - 17:00 31/03/2024
 - 🎓 [Hơn 275.000 trường hợp vi phạm nồng độ cồn trong 3 tháng](https://vnexpress.net/hon-275-000-truong-hop-vi-pham-nong-do-con-trong-3-thang-4728831.html) - 15:24 31/03/2024
 - 🔥 [Hai nam sinh lớp 11 tử vong khi tắm khe](https://vnexpress.net/hai-nam-sinh-lop-11-tu-vong-khi-tam-khe-4728826.html) - 14:19 31/03/2024
-- 🦏 [Gần 5 triệu con tôm sú giống được thả xuống biển](https://vnexpress.net/gan-5-trieu-con-tom-su-giong-duoc-tha-xuong-bien-4728788.html) - 13:34 31/03/2024
+- 🦏 [Gần 5 triệu tôm sú giống được thả xuống biển](https://vnexpress.net/gan-5-trieu-tom-su-giong-duoc-tha-xuong-bien-4728788.html) - 13:34 31/03/2024
 - 👺 [Miền Bắc bắt đầu nắng nóng](https://vnexpress.net/mien-bac-bat-dau-nang-nong-4728812.html) - 13:22 31/03/2024
 - 🧑‍🏫 [Nhiều địa phương thờ ơ với chó thả rông](https://vnexpress.net/nhieu-dia-phuong-tho-o-voi-cho-tha-rong-4728739.html) - 12:00 31/03/2024
 - 🚦 [Thủ tướng: &#39;Phát triển Phú Quốc thành trung tâm du lịch quốc tế&#39;](https://vnexpress.net/thu-tuong-phat-trien-phu-quoc-thanh-trung-tam-du-lich-quoc-te-4728779.html) - 10:47 31/03/2024
