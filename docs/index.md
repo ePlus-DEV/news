@@ -185,7 +185,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦄 [Xe máy dừng đèn đỏ bị ô tô bán tải tông văng cả chục mét](https://thanhnien.vn/xe-may-dung-den-do-bi-o-to-ban-tai-tong-vang-ca-chuc-met-185240401211042734.htm) - 16:40 01/04/2024
 - 🤔 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 2.4.2024](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-242024-185240331205730312.htm) - 16:39 01/04/2024
 - 🧰 [Israel tấn công vào thủ đô Syria, phá hủy tòa nhà cạnh Đại sứ quán Iran?](https://thanhnien.vn/israel-tan-cong-vao-thu-do-syria-pha-huy-toa-nha-canh-dai-su-quan-iran-185240401230720736.htm) - 16:24 01/04/2024
-- 🌁 [Lửa cháy đỏ rực dãy nhà kênh Tàu Hũ TP.HCM: Người dân hoảng hốt chạy thoát thân](https://thanhnien.vn/lua-chay-do-ruc-day-nha-kenh-tau-hu-tphcm-nguoi-dan-hoang-hot-chay-thoat-than-185240401225345565.htm) - 16:12 01/04/2024
+- 🌁 [Lửa cháy đỏ rực dãy nhà kênh Tàu Hủ TP.HCM: Người dân hoảng hốt chạy thoát thân](https://thanhnien.vn/lua-chay-do-ruc-day-nha-kenh-tau-hu-tphcm-nguoi-dan-hoang-hot-chay-thoat-than-185240401225345565.htm) - 16:12 01/04/2024
 - 🧐 [Ai &#39;đầu độc&#39; sông Bắc Hưng Hải? - Kỳ 1](https://thanhnien.vn/ai-dau-doc-song-bac-hung-hai-ky-1-185240401225546421.htm) - 15:57 01/04/2024
 - 🌏 [Quảng Ninh: Bắt nghi phạm hiếp dâm con riêng của vợ](https://thanhnien.vn/quang-ninh-bat-nghi-pham-hiep-dam-con-rieng-cua-vo-185240401214752262.htm) - 15:44 01/04/2024
 - 🎬 [Cháy kinh hoàng dãy nhà ven kênh Tàu Hủ ở TP.HCM](https://thanhnien.vn/chay-kinh-hoang-day-nha-ven-kenh-tau-hu-o-tphcm-185240401222834541.htm) - 15:42 01/04/2024
