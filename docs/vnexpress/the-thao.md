@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Sinner đoạt Miami Open](https://vnexpress.net/sinner-doat-miami-open-4728925.html) - 02:22 01/04/2024
-- 🦩 [Các giải chạy trong nước tháng 4/2024](https://vnexpress.net/cac-giai-chay-trong-nuoc-thang-4-2024-4728854.html) - 02:20 01/04/2024
+- 🦩 [Các giải chạy trong nước tháng 4](https://vnexpress.net/cac-giai-chay-trong-nuoc-thang-4-4728854.html) - 02:20 01/04/2024
 - 🧰 [Guardiola khen Arsenal phòng ngự chắc chắn](https://vnexpress.net/guardiola-khen-arsenal-phong-ngu-chac-chan-4728908.html) - 01:35 01/04/2024
 - 🤗 [Arteta: &#39;Không thắng thì phải hòa&#39;](https://vnexpress.net/arteta-khong-thang-thi-phai-hoa-4728896.html) - 01:25 01/04/2024
 - 🥳 [Roy Keane: &#39;Haaland đá như cầu thủ giải hạng Tư&#39;](https://vnexpress.net/roy-keane-haaland-da-nhu-cau-thu-giai-hang-tu-4728882.html) - 01:07 01/04/2024
