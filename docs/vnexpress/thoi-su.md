@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Bị phạt 900 triệu đồng vì khai thác trái phép gần 65 m3 cát](https://vnexpress.net/bi-phat-900-trieu-dong-vi-khai-thac-trai-phep-gan-65-m3-cat-4729302.html) - 01:41 02/04/2024
-- 🤓 [Hiện trạng loạt nhà cháy ven kênh ở TP HCM](https://vnexpress.net/hien-trang-loat-nha-chay-ven-kenh-o-tp-hcm-4729344.html) - 01:20 02/04/2024
+- 🤓 [Cảnh đổ nát sau vụ cháy loạt nhà ven kênh TP HCM](https://vnexpress.net/canh-do-nat-sau-vu-chay-loat-nha-ven-kenh-tp-hcm-4729344.html) - 01:20 02/04/2024
 - ⚗️ [Hai tỉnh không đồng tình cấm xe trên 30 tấn đi cao tốc Cam Lộ - La Sơn](https://vnexpress.net/hai-tinh-khong-dong-tinh-cam-xe-tren-30-tan-di-cao-toc-cam-lo-la-son-4729307.html) - 22:00 01/04/2024
 - 🌊 [Nha Trang 100 năm qua ảnh tư liệu](https://vnexpress.net/nha-trang-100-nam-qua-anh-tu-lieu-4729215.html) - 22:00 01/04/2024
 - 🎓 [Lao động xuất khẩu chuyển hướng đi châu Âu](https://vnexpress.net/lao-dong-xuat-khau-chuyen-huong-di-chau-au-4728878.html) - 22:00 01/04/2024
