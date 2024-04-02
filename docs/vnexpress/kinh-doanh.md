@@ -5,14 +5,14 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Nên đầu tư gì với số vốn nhỏ quanh 100 triệu?](https://vnexpress.net/nen-dau-tu-gi-voi-so-von-nho-quanh-100-trieu-4729364.html) - 04:14 02/04/2024
-- 🐲 [Các hãng &#39;đua&#39; tìm thuê tàu bay cho cao điểm hè](https://vnexpress.net/cac-hang-dua-tim-thue-tau-bay-cho-cao-diem-he-4729409.html) - 03:59 02/04/2024
+- 🐲 [Hàng không lo khó thuê tàu bay cho cao điểm hè](https://vnexpress.net/hang-khong-lo-kho-thue-tau-bay-cho-cao-diem-he-4729409.html) - 03:59 02/04/2024
 - 🔥 [Chính phủ trả nợ gần 454.000 tỷ đồng năm nay](https://vnexpress.net/chinh-phu-tra-no-gan-454-000-ty-dong-nam-nay-4729387.html) - 02:49 02/04/2024
 - 🐵 [Giá dầu thô lên cao nhất 5 tháng](https://vnexpress.net/gia-dau-tho-len-cao-nhat-5-thang-4729336.html) - 02:05 02/04/2024
 - 🦅 [TPBank lần đầu vào top 500 ngân hàng giá trị nhất thế giới](https://vnexpress.net/tpbank-lan-dau-vao-top-500-ngan-hang-gia-tri-nhat-the-gioi-4729275.html) - 02:00 02/04/2024
 - 😺 [Trump mất hơn 1 tỷ USD](https://vnexpress.net/trump-mat-hon-1-ty-usd-4729335.html) - 01:17 02/04/2024
 - 🤩 [Người trồng khoai lang điêu đứng vì mất mùa, giá rớt hơn 60%](https://vnexpress.net/nguoi-trong-khoai-lang-dieu-dung-vi-mat-mua-gia-rot-hon-60-4729119.html) - 00:04 02/04/2024
 - 🌮 [Lộc Trời giảm 94% lợi nhuận sau kiểm toán](https://vnexpress.net/loc-troi-giam-94-loi-nhuan-sau-kiem-toan-4729251.html) - 23:25 01/04/2024
-- 🧰 [Gần 60% khoản bảo hiểm AIA bán qua ngân hàng bị hủy sau năm đầu](https://vnexpress.net/gan-60-khoan-bao-hiem-aia-ban-qua-ngan-hang-bi-huy-sau-nam-dau-4729271.html) - 14:13 01/04/2024
+- 🧰 [57% khoản bảo hiểm AIA bán qua ngân hàng bị hủy sau năm đầu](https://vnexpress.net/57-khoan-bao-hiem-aia-ban-qua-ngan-hang-bi-huy-sau-nam-dau-4729271.html) - 14:13 01/04/2024
 - 🤔 [Tìm nguyên nhân khiến 30 lô sầu riêng xuất Trung Quốc nhiễm cadimi](https://vnexpress.net/tim-nguyen-nhan-khien-30-lo-sau-rieng-xuat-trung-quoc-nhiem-cadimi-4729270.html) - 13:25 01/04/2024
 - 🧑‍💻 [CEO Berjaya Việt Nam được đề cử vào Hội đồng quản trị Vincom Retail](https://vnexpress.net/ceo-berjaya-viet-nam-duoc-de-cu-vao-hoi-dong-quan-tri-vincom-retail-4729277.html) - 13:08 01/04/2024
 - 🕴 [Việt Nam có thể nhập tới 8.000 MW điện từ Lào đến 2030](https://vnexpress.net/viet-nam-co-the-nhap-toi-8-000-mw-dien-tu-lao-den-2030-4729234.html) - 10:36 01/04/2024
