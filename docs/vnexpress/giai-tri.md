@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Kim Soo Huyn - nam diễn viên đắt giá nhất màn ảnh Hàn](https://vnexpress.net/kim-soo-huyn-nam-dien-vien-dat-gia-nhat-man-anh-han-4727182.html) - 09:07 02/04/2024
+- 🌏 [Kim Soo Hyun - nam diễn viên đắt giá nhất màn ảnh Hàn](https://vnexpress.net/kim-soo-hyun-nam-dien-vien-dat-gia-nhat-man-anh-han-4727182.html) - 09:07 02/04/2024
 - 💫 [Lý An chê các rạp chiếu phim 3D](https://vnexpress.net/ly-an-che-cac-rap-chieu-phim-3d-4729408.html) - 08:22 02/04/2024
 - 🌮 [Sách về tín ngưỡng thờ cúng Hùng Vương](https://vnexpress.net/sach-ve-tin-nguong-tho-cung-hung-vuong-4729463.html) - 06:59 02/04/2024
 - 🧠 [Con gái Bình Minh gây chú ý với chiều cao 1,75 m](https://vnexpress.net/con-gai-binh-minh-gay-chu-y-voi-chieu-cao-1-75-m-4729018.html) - 05:02 02/04/2024
