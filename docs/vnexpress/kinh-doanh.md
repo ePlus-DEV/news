@@ -8,7 +8,7 @@ sidebar_position: 3
 - 🐲 [Hệ thống của PVOIL bị hacker tấn công](https://vnexpress.net/he-thong-cua-pvoil-bi-hacker-tan-cong-4729682.html) - 09:43 02/04/2024
 - 🔥 [Chứng khoán đảo chiều tăng những phút cuối phiên](https://vnexpress.net/chung-khoan-dao-chieu-tang-nhung-phut-cuoi-phien-4729652.html) - 09:03 02/04/2024
 - 🐵 [Tập đoàn Sovico báo lãi hơn 1.480 tỷ đồng](https://vnexpress.net/tap-doan-sovico-bao-lai-hon-1-480-ty-dong-4729609.html) - 09:00 02/04/2024
-- 🦅 [Cổ phiếu của Sacombank bị bán tháo](https://vnexpress.net/co-phieu-cua-sacombank-bi-ban-thao-4729566.html) - 06:43 02/04/2024
+- 🦅 [Bộ Công an bác tin Chủ tịch Sacombank bị cấm xuất cảnh](https://vnexpress.net/bo-cong-an-bac-tin-chu-tich-sacombank-bi-cam-xuat-canh-4729566.html) - 06:43 02/04/2024
 - 😺 [Việt Nam có thể thu thêm gần 1.300 tỷ đồng từ bán tín chỉ carbon](https://vnexpress.net/viet-nam-co-the-thu-them-gan-1-300-ty-dong-tu-ban-tin-chi-carbon-4729513.html) - 06:05 02/04/2024
 - 🤩 [150 hồ sơ ứng tuyển một vị trí marketing của Vinamilk](https://vnexpress.net/150-ho-so-ung-tuyen-mot-vi-tri-marketing-cua-vinamilk-4729540.html) - 06:00 02/04/2024
 - 🌮 [VIB thông qua kế hoạch chia cổ tức 29,5%](https://vnexpress.net/vib-thong-qua-ke-hoach-chia-co-tuc-29-5-4729368.html) - 06:00 02/04/2024
