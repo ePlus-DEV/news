@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Bà Nguyễn Thanh Phượng: Hội đồng quản trị Vietcap chưa từng lục đục](https://vnexpress.net/ba-nguyen-thanh-phuong-hoi-dong-quan-tri-vietcap-chua-tung-luc-duc-4729777.html) - 22:00 02/04/2024
-- 🐲 [Vingroup góp vốn vào GSM](https://vnexpress.net/vingroup-gop-von-vao-gsm-4729778.html) - 21:23 02/04/2024
+- 🐲 [Vingroup góp vốn vào hãng taxi điện](https://vnexpress.net/vingroup-gop-von-vao-hang-taxi-dien-4729778.html) - 21:23 02/04/2024
 - 🔥 [Kinh tế Nga tăng tốc](https://vnexpress.net/kinh-te-nga-tang-toc-4729688.html) - 17:06 02/04/2024
 - 🐵 [Bitcoin mất mốc 65.000 USD](https://vnexpress.net/bitcoin-mat-moc-65-000-usd-4729757.html) - 14:51 02/04/2024
 - 🦅 [Bộ Công Thương: Điều hành xăng dầu đang quá nhiều bước](https://vnexpress.net/bo-cong-thuong-dieu-hanh-xang-dau-dang-qua-nhieu-buoc-4729723.html) - 13:58 02/04/2024
