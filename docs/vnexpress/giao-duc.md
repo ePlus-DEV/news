@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Tỉnh nào được mệnh danh là &#39;quê lúa&#39;?](https://vnexpress.net/tinh-nao-duoc-menh-danh-la-que-lua-4729632.html) - 14:30 02/04/2024
+- 🤓 [Tỉnh nào được vinh danh là &#39;quê lúa&#39;?](https://vnexpress.net/tinh-nao-duoc-vinh-danh-la-que-lua-4729632.html) - 14:30 02/04/2024
 - 🦆 [Trường Quốc tế Mỹ mở cửa từ ngày mai](https://vnexpress.net/truong-quoc-te-my-mo-cua-tu-ngay-mai-4729746.html) - 13:52 02/04/2024
 - 🦩 [Trường chuyên Khoa học Xã hội và Nhân văn đổi lịch thi lớp 10](https://vnexpress.net/truong-chuyen-khoa-hoc-xa-hoi-va-nhan-van-doi-lich-thi-lop-10-4729645.html) - 12:43 02/04/2024
 - 🌮 [Hơn 50% số giáo viên trường Quốc tế Mỹ đồng ý quay lại](https://vnexpress.net/hon-50-so-giao-vien-truong-quoc-te-my-dong-y-quay-lai-4729704.html) - 12:07 02/04/2024
