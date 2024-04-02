@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Kiểm lâm tiếp nhận trăn đất nặng 85 kg](https://vnexpress.net/kiem-lam-tiep-nhan-tran-dat-nang-85-kg-4729604.html) - 08:23 02/04/2024
 - 🤓 [Bạc Liêu đứng đầu, Hải Phòng tụt hạng về thủ tục hành chính công](https://vnexpress.net/bac-lieu-dung-dau-hai-phong-tut-hang-ve-thu-tuc-hanh-chinh-cong-4729457.html) - 07:59 02/04/2024
-- ⚗️ [Ôtô đầu kéo tông chết người rồi bỏ chạy](https://vnexpress.net/oto-dau-keo-tong-chet-nguoi-roi-bo-chay-4729581.html) - 07:47 02/04/2024
+- ⚗️ [Ôtô đấu đầu, một người tử vong](https://vnexpress.net/oto-dau-keo-tong-chet-nguoi-roi-bo-chay-4729581.html) - 07:47 02/04/2024
 - 🌊 [Khởi công trụ sở làm việc các cơ quan tỉnh Khánh Hòa](https://vnexpress.net/khoi-cong-tru-so-lam-viec-cac-co-quan-tinh-khanh-hoa-4729580.html) - 07:10 02/04/2024
 - 🎓 [Đốn hạ 15 cây thông trên đèo Prenn để bảo đảm an toàn](https://vnexpress.net/don-ha-15-cay-thong-tren-deo-prenn-de-bao-dam-an-toan-4729553.html) - 06:38 02/04/2024
 - 🔥 [Gần 1.000 tỷ nâng cấp đường nối Phan Thiết với các khu du lịch](https://vnexpress.net/gan-1-000-ty-nang-cap-duong-noi-phan-thiet-voi-cac-khu-du-lich-4729280.html) - 03:39 02/04/2024
