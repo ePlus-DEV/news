@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Sacombank bác tin đồn về ông Dương Công Minh](https://vnexpress.net/sacombank-bac-tin-don-ve-ong-duong-cong-minh-4729566.html) - 06:43 02/04/2024
+- ⛽️ [Cổ phiếu của Sacombank bị bán tháo](https://vnexpress.net/co-phieu-cua-sacombank-bi-ban-thao-4729566.html) - 06:43 02/04/2024
 - 🐲 [Việt Nam có thể thu thêm gần 1.300 tỷ đồng từ bán tín chỉ carbon](https://vnexpress.net/viet-nam-co-the-thu-them-gan-1-300-ty-dong-tu-ban-tin-chi-carbon-4729513.html) - 06:05 02/04/2024
 - 🔥 [150 hồ sơ ứng tuyển một vị trí marketing của Vinamilk](https://vnexpress.net/150-ho-so-ung-tuyen-mot-vi-tri-marketing-cua-vinamilk-4729540.html) - 06:00 02/04/2024
 - 🐵 [VIB thông qua kế hoạch chia cổ tức 29,5%](https://vnexpress.net/vib-thong-qua-ke-hoach-chia-co-tuc-29-5-4729368.html) - 06:00 02/04/2024
