@@ -7,7 +7,7 @@ sidebar_position: 7
 - 🤓 [Hơn 50% số giáo viên trường Quốc tế Mỹ đồng ý quay lại](https://vnexpress.net/hon-50-so-giao-vien-truong-quoc-te-my-dong-y-quay-lai-4729704.html) - 12:07 02/04/2024
 - 🦆 [Thầy giáo 52 tuổi bị tố sàm sỡ nữ sinh lớp 5](https://vnexpress.net/thay-giao-bi-to-sam-so-nu-sinh-lop-5-4729693.html) - 11:33 02/04/2024
 - 🦩 [Hà Nội dừng tuyển sinh lớp 6 trường Ams](https://vnexpress.net/ha-noi-dung-tuyen-sinh-lop-6-truong-ams-4729702.html) - 10:26 02/04/2024
-- 🌮 [Trường Quốc tế Mỹ huy động khoảng 3.600 tỷ đồng của phụ huynh](https://vnexpress.net/truong-quoc-te-my-huy-dong-khoang-3-600-ty-dong-cua-phu-huynh-4729437.html) - 09:20 02/04/2024
+- 🌮 [Trường Quốc tế Mỹ huy động ít nhất 3.600 tỷ đồng của phụ huynh](https://vnexpress.net/truong-quoc-te-my-huy-dong-it-nhat-3-600-ty-dong-cua-phu-huynh-4729437.html) - 09:20 02/04/2024
 - 🔭 [Học phí trường quốc tế ở Hà Nội lên tới 916 triệu đồng](https://vnexpress.net/hoc-phi-truong-quoc-te-o-ha-noi-len-toi-916-trieu-dong-4728994.html) - 06:42 02/04/2024
 - 💡 [Trường đại học đầu tiên công bố điểm chuẩn học bạ](https://vnexpress.net/truong-dai-hoc-dau-tien-cong-bo-diem-chuan-hoc-ba-4729348.html) - 01:45 02/04/2024
 - 🥰 [Nam sinh chuyên Pháp đỗ Đại học Stanford](https://vnexpress.net/nam-sinh-chuyen-phap-do-dai-hoc-stanford-4729029.html) - 00:10 02/04/2024
