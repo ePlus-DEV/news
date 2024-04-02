@@ -16,7 +16,7 @@ sidebar_position: 1
 - 🚦 [Khởi công trụ sở làm việc các cơ quan tỉnh Khánh Hòa](https://vnexpress.net/khoi-cong-tru-so-lam-viec-cac-co-quan-tinh-khanh-hoa-4729580.html) - 07:10 02/04/2024
 - 🎉 [Đốn hạ loạt thông để tránh sạt lở ở đèo Prenn](https://vnexpress.net/don-ha-loat-thong-de-tranh-sat-lo-o-deo-prenn-4729553.html) - 06:38 02/04/2024
 - 🦒 [Gần 1.000 tỷ nâng cấp đường nối Phan Thiết với các khu du lịch](https://vnexpress.net/gan-1-000-ty-nang-cap-duong-noi-phan-thiet-voi-cac-khu-du-lich-4729280.html) - 03:39 02/04/2024
-- 🤗 [Xe máy đối đầu, hai thanh niên tử vong](https://vnexpress.net/xe-may-doi-dau-hai-thanh-nien-tu-vong-4729386.html) - 02:27 02/04/2024
+- 🤗 [Xe máy đấu đầu, hai thanh niên tử vong](https://vnexpress.net/xe-may-dau-dau-hai-thanh-nien-tu-vong-4729386.html) - 02:27 02/04/2024
 - 💼 [Bị phạt 900 triệu đồng vì khai thác trái phép gần 65 m3 cát](https://vnexpress.net/bi-phat-900-trieu-dong-vi-khai-thac-trai-phep-gan-65-m3-cat-4729302.html) - 01:41 02/04/2024
 - 🤩 [Cảnh đổ nát sau vụ cháy loạt nhà ven kênh TP HCM](https://vnexpress.net/canh-do-nat-sau-vu-chay-loat-nha-ven-kenh-tp-hcm-4729344.html) - 01:20 02/04/2024
 - 🤡 [Hai tỉnh không đồng tình cấm xe trên 30 tấn đi cao tốc Cam Lộ - La Sơn](https://vnexpress.net/hai-tinh-khong-dong-tinh-cam-xe-tren-30-tan-di-cao-toc-cam-lo-la-son-4729307.html) - 22:00 01/04/2024
