@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Miền Bắc xuất hiện nắng nóng sớm hơn một tháng](https://vnexpress.net/mien-bac-xuat-hien-nang-nong-som-hon-mot-thang-4729736.html) - 15:20 02/04/2024
-- 🤓 [500.000 kỹ sư Việt Nam sẵn sàng chuyển sang ngành bán dẫn](https://vnexpress.net/500-000-ky-su-viet-nam-san-sang-chuyen-sang-nganh-ban-dan-4729753.html) - 14:50 02/04/2024
+- 🤓 [Gần 500.000 kỹ sư Việt Nam sẵn sàng chuyển sang ngành bán dẫn](https://vnexpress.net/gan-500-000-ky-su-viet-nam-san-sang-chuyen-sang-nganh-ban-dan-4729753.html) - 14:50 02/04/2024
 - ⚗️ [Mất cả gia sản sau vụ cháy nhà ven kênh](https://vnexpress.net/mat-ca-gia-san-sau-vu-chay-nha-ven-kenh-4729734.html) - 13:45 02/04/2024
 - 🌊 [Kiểm lâm tiếp nhận trăn đất nặng 85 kg](https://vnexpress.net/kiem-lam-tiep-nhan-tran-dat-nang-85-kg-4729604.html) - 08:23 02/04/2024
 - 🎓 [Bạc Liêu đứng đầu, Hải Phòng tụt hạng về thủ tục hành chính công](https://vnexpress.net/bac-lieu-dung-dau-hai-phong-tut-hang-ve-thu-tuc-hanh-chinh-cong-4729457.html) - 07:59 02/04/2024
