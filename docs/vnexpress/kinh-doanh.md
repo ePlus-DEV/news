@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Bitcoin mất mốc 65.000 USD](https://vnexpress.net/bitcoin-mat-moc-65-000-usd-4729757.html) - 14:51 02/04/2024
-- 🐲 [Bộ Công Thương: Điều hành xăng dầu đang quá nhiều bước](https://vnexpress.net/doanh-nghiep-tu-tinh-gia-xang-dau-4729723.html) - 13:58 02/04/2024
+- 🐲 [Bộ Công Thương: Điều hành xăng dầu đang quá nhiều bước](https://vnexpress.net/bo-cong-thuong-dieu-hanh-xang-dau-dang-qua-nhieu-buoc-4729723.html) - 13:58 02/04/2024
 - 🔥 [Xuất khẩu sản phẩm công nghệ cao tăng mạnh](https://vnexpress.net/xuat-khau-san-pham-cong-nghe-cao-tang-manh-4729705.html) - 12:46 02/04/2024
 - 🐵 [Chủ rạp chiếu phim Galaxy Cinema giảm lỗ](https://vnexpress.net/chu-rap-chieu-phim-galaxy-cinema-giam-lo-4729629.html) - 10:03 02/04/2024
 - 🦅 [Hệ thống của PVOIL bị hacker tấn công](https://vnexpress.net/he-thong-cua-pvoil-bi-hacker-tan-cong-4729682.html) - 09:43 02/04/2024
