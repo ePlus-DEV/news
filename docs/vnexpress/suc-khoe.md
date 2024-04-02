@@ -9,7 +9,7 @@ sidebar_position: 10
 - 💡 [5 cách trị sẹo rỗ](https://vnexpress.net/5-cach-tri-seo-ro-4729563.html) - 07:00 02/04/2024
 - 🤗 [5 loại quả nhiều chất đạm trẻ nên ăn thường xuyên](https://vnexpress.net/5-loai-qua-nhieu-chat-dam-tre-nen-an-thuong-xuyen-4729388.html) - 07:00 02/04/2024
 - 🪜 [Loạt phẫu thuật giúp người phụ nữ U60 &#39;cải lão hoàn đồng&#39;](https://vnexpress.net/loat-phau-thuat-giup-nguoi-phu-nu-u60-cai-lao-hoan-dong-4729514.html) - 06:54 02/04/2024
-- 🕯 [Điểm chung của các ca nhập viện sau khi dùng men gạo đỏ Nhật Bản](https://vnexpress.net/diem-chung-cua-cac-ca-nhap-vien-sau-khi-dung-men-gao-do-nhat-ban-4729431.html) - 06:41 02/04/2024
+- 🕯 [Triệu chứng suy thận của người dùng men gạo đỏ Nhật Bản](https://vnexpress.net/trieu-chung-suy-than-cua-nguoi-dung-men-gao-do-nhat-ban-4729431.html) - 06:41 02/04/2024
 - 🤭 [Ăn cà chua giảm nguy cơ ung thư](https://vnexpress.net/an-ca-chua-giam-nguy-co-ung-thu-4729254.html) - 06:00 02/04/2024
 - 👀 [Có nên cho trẻ sơ sinh uống vitamin D?](https://vnexpress.net/co-nen-cho-tre-so-sinh-uong-vitamin-d-4729525.html) - 05:00 02/04/2024
 - 🌋 [Hội chứng di truyền &#39;đôi mắt buồn&#39; khiến 6 phụ nữ cùng dòng họ vô sinh](https://vnexpress.net/hoi-chung-di-truyen-doi-mat-buon-khien-6-phu-nu-cung-dong-ho-vo-sinh-4729467.html) - 05:00 02/04/2024
