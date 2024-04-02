@@ -9,7 +9,7 @@ sidebar_position: 10
 - 💡 [6 thói quen mỗi ngày giúp phụ nữ sống lâu](https://vnexpress.net/6-thoi-quen-moi-ngay-giup-phu-nu-song-lau-4729449.html) - 09:00 02/04/2024
 - 🤗 [Chiếc kim băng bung mở trong thực quản bé trai](https://vnexpress.net/chiec-kim-bang-bung-mo-trong-thuc-quan-be-trai-4729640.html) - 08:50 02/04/2024
 - 🪜 [Lưu ý khi dùng bao cao su](https://vnexpress.net/luu-y-khi-dung-bao-cao-su-4729223.html) - 08:46 02/04/2024
-- 🕯 [Việt Nam chưa cấp phép thực phẩm chức năng gây tử vong ở Nhật](https://vnexpress.net/viet-nam-chua-cap-phep-thuc-pham-chuc-nang-gay-tu-vong-o-nhat-4729637.html) - 08:44 02/04/2024
+- 🕯 [Việt Nam chưa cấp phép cho thực phẩm chức năng khiến 5 người tử vong ở Nhật](https://vnexpress.net/viet-nam-chua-cap-phep-cho-thuc-pham-chuc-nang-khien-5-nguoi-tu-vong-o-nhat-4729637.html) - 08:44 02/04/2024
 - 🤭 [Tại sao nên ăn rong biển thường xuyên?](https://vnexpress.net/tai-sao-nen-an-rong-bien-thuong-xuyen-4729452.html) - 08:00 02/04/2024
 - 👀 [Có thể điều trị suy thận bằng tế bào gốc không?](https://vnexpress.net/co-the-dieu-tri-suy-than-bang-te-bao-goc-khong-4729443.html) - 08:00 02/04/2024
 - 🌋 [5 cách trị sẹo rỗ](https://vnexpress.net/5-cach-tri-seo-ro-4729563.html) - 07:00 02/04/2024
