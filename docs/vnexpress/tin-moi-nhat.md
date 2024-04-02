@@ -36,7 +36,7 @@ sidebar_position: 9
 - 🚦 [Buồn khi vài đồng nghiệp không dự đám cưới](https://vnexpress.net/buon-khi-vai-dong-nghiep-khong-du-dam-cuoi-4729740.html) - 14:00 02/04/2024
 - 💫 [Em quyết đoán trong công việc, nhẹ nhàng khi ở nhà](https://vnexpress.net/em-quyet-doan-trong-cong-viec-nhe-nhang-khi-o-nha-4729585.html) - 14:00 02/04/2024
 - 🎉 [Bộ Công Thương: Điều hành xăng dầu đang quá nhiều bước](https://vnexpress.net/bo-cong-thuong-dieu-hanh-xang-dau-dang-qua-nhieu-buoc-4729723.html) - 13:58 02/04/2024
-- 🌋 [Trường Quốc tế Mỹ mở cửa từ ngày mai](https://vnexpress.net/truong-quoc-te-my-mo-cua-tu-ngay-mai-4729746.html) - 13:52 02/04/2024
+- 🌋 [Trường Quốc tế Mỹ mở cửa từ ngày 3/4](https://vnexpress.net/truong-quoc-te-my-mo-cua-tu-ngay-3-4-4729746.html) - 13:52 02/04/2024
 - 🤖 [Mất cả gia sản sau vụ cháy nhà ven kênh](https://vnexpress.net/mat-ca-gia-san-sau-vu-chay-nha-ven-kenh-4729734.html) - 13:45 02/04/2024
 - 🦏 [Giả nhân viên lãnh sự quán, lừa gần 10 tỷ đồng](https://vnexpress.net/gia-nhan-vien-lanh-su-quan-lua-gan-10-ty-dong-4729743.html) - 13:42 02/04/2024
 - 🦩 [Linh dương và lợn bướu tấn công sư tử](https://vnexpress.net/linh-duong-va-lon-buou-tan-cong-su-tu-4729334.html) - 13:35 02/04/2024
