@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Nhiều người bị bắt vì làm hàng trăm nghìn tài khoản ngân hàng](https://vnexpress.net/nhieu-nguoi-bi-bat-vi-lam-hang-tram-nghin-tai-khoan-ngan-hang-4730043.html) - 07:57 03/04/2024
+- 😎 [Đường dây bán hàng trăm nghìn tài khoản ngân hàng bị phát hiện](https://vnexpress.net/duong-day-ban-hang-tram-nghin-tai-khoan-ngan-hang-bi-phat-hien-4730043.html) - 07:57 03/04/2024
 - 🥰 [Ông Chu Lập Cơ, Trương Huệ Vân được VKS đề nghị giảm hình phạt](https://vnexpress.net/ong-chu-lap-co-truong-hue-van-duoc-vks-de-nghi-giam-hinh-phat-4730025.html) - 07:03 03/04/2024
 - 🎓 [Tranh luận gay gắt về &#39;lần đầu đề nghị án tử hình với nữ doanh nhân&#39;](https://vnexpress.net/tranh-luan-gay-gat-ve-lan-dau-de-nghi-an-tu-hinh-voi-nu-doanh-nhan-4730018.html) - 06:22 03/04/2024
 - 🤓 [Hơn 400 cảnh sát truy tìm phạm nhân trốn trại](https://vnexpress.net/hon-400-canh-sat-truy-tim-pham-nhan-tron-trai-o-thanh-hoa-4729926.html) - 05:28 03/04/2024
