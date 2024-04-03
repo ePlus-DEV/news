@@ -389,7 +389,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
 - 💻 [Quảng cáo trên phương tiện giao thông cần thực hiện thủ tục gì?](https://baochinhphu.vn/quang-cao-tren-phuong-tien-giao-thong-can-thuc-hien-thu-tuc-gi-102240403092831892.htm) - 11:02 03/04/2024
-- 🌜 [Quý I/2024: TKV đạt lợi nhuận hơn 1.000 tỷ đồng](https://baochinhphu.vn/quy-i-2024-tkv-dat-loi-nhuan-hon-1000-ty-dong-102240403094725278.htm) - 10:23 03/04/2024
+- 🌜 [Trung tướng Đặng Quân Thụy: Bài học xoay chuyển tình thế và niềm tin chiến thắng](https://baochinhphu.vn/trung-tuong-dang-quan-thuy-bai-hoc-xoay-chuyen-tinh-the-va-niem-tin-chien-thang-102240403105017944.htm) - 11:00 03/04/2024
 - 🦆 [Tài liệu dự thầu trong USB có coi là hợp lệ?](https://baochinhphu.vn/tai-lieu-du-thau-trong-usb-co-coi-la-hop-le-102240329143615322.htm) - 10:02 03/04/2024
 - 🌝 [Khánh Hòa hướng đến chuyển đổi xanh bền vững](https://baochinhphu.vn/khanh-hoa-huong-den-chuyen-doi-xanh-ben-vung-102240403095928535.htm) - 09:58 03/04/2024
 - 🦣 [Giá hàng hoá nguyên liệu liên tục lập đỉnh](https://baochinhphu.vn/gia-hang-hoa-nguyen-lieu-lien-tuc-lap-dinh-102240403091208062.htm) - 09:16 03/04/2024
