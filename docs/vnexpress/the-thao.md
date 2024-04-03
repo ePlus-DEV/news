@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Cơ thủ Hàn Quốc: &#39;Tôi vô địch nhờ thầy giáo Việt Nam&#39;](https://vnexpress.net/co-thu-han-quoc-toi-vo-dich-nho-thay-giao-viet-nam-4729869.html) - 09:26 03/04/2024
 - 🦩 [Joseph Schooling – nhà vô địch Olympic và bài học từ sự tự mãn](https://vnexpress.net/joseph-schooling-nha-vo-dich-olympic-va-bai-hoc-tu-su-tu-man-4730125.html) - 09:22 03/04/2024
 - 🧰 [Nét bình dân của golfer nữ số một thế giới](https://vnexpress.net/net-binh-dan-cua-golfer-nu-so-mot-the-gioi-4730142.html) - 09:16 03/04/2024
-- 🤗 [Hàng ngàn khán giả Điện Biên cổ vũ giải xe đạp xuyên Việt](https://vnexpress.net/hang-ngan-khan-gia-dien-bien-co-vu-giai-xe-dap-xuyen-viet-4730103.html) - 08:38 03/04/2024
+- 🤗 [Người dân Điện Biên cổ vũ giải xe đạp xuyên Việt](https://vnexpress.net/nguoi-dan-dien-bien-co-vu-giai-xe-dap-xuyen-viet-4730103.html) - 08:38 03/04/2024
 - 🥳 [Guardiola: &#39;Roy Keane cũng chỉ dẫn dắt CLB hạng Hai&#39;](https://vnexpress.net/guardiola-roy-keane-cung-chi-dan-dat-clb-hang-hai-4729360.html) - 08:12 03/04/2024
 - 🦣 [Haaland xem cây cảnh là bùa hộ mệnh ở Man City](https://vnexpress.net/haaland-xem-cay-canh-la-bua-ho-menh-o-man-city-4729703.html) - 07:36 03/04/2024
 - 🌜 [Mourinho mừng sinh nhật CĐV 100 tuổi của Chelsea](https://vnexpress.net/mourinho-mung-sinh-nhat-cdv-100-tuoi-cua-chelsea-4729959.html) - 07:26 03/04/2024
