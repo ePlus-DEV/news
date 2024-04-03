@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Tách trường cấp 2 công lập lớn nhất Hà Nội](https://vnexpress.net/tach-truong-cap-2-cong-lap-lon-nhat-ha-noi-4730077.html) - 08:51 03/04/2024
-- 🦆 [Nam sinh đỗ Đại học Yale với bài luận về bất bình đẳng giáo dục](https://vnexpress.net/nam-sinh-do-dai-hoc-yale-voi-bai-luan-ve-bat-binh-dang-giao-duc-4729432.html) - 07:10 03/04/2024
+- 🦆 [Nam sinh đỗ Đại học Yale với ước mong xóa bất bình đẳng giáo dục](https://vnexpress.net/nam-sinh-do-dai-hoc-yale-voi-uoc-mong-xoa-bat-binh-dang-giao-duc-4729432.html) - 07:10 03/04/2024
 - 🦩 [Trường Quốc tế Mỹ dạy học &#39;bình thường&#39;](https://vnexpress.net/truong-quoc-te-my-day-hoc-binh-thuong-4729803.html) - 04:23 03/04/2024
 - 🌮 [Học sinh Trường Song ngữ Quốc tế Horizon khám phá công nghệ AI](https://vnexpress.net/hoc-sinh-truong-song-ngu-quoc-te-horizon-kham-pha-cong-nghe-ai-4729821.html) - 02:00 03/04/2024
 - 🔭 [Chuyên gia Bộ Giáo dục: Không đủ căn cứ siết giờ làm thêm của sinh viên](https://vnexpress.net/chuyen-gia-bo-giao-duc-khong-du-can-cu-siet-gio-lam-them-cua-sinh-vien-4729649.html) - 00:53 03/04/2024
