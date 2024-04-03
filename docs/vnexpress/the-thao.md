@@ -9,7 +9,7 @@ sidebar_position: 5
 - 🧰 [Sinner được đồng nghiệp đánh giá mạnh nhất thế giới](https://vnexpress.net/sinner-duoc-dong-nghiep-danh-gia-manh-nhat-the-gioi-4729784.html) - 22:37 02/04/2024
 - 🤗 [Barca thuyết phục Xavi ở lại](https://vnexpress.net/barca-thuyet-phuc-xavi-o-lai-4729738.html) - 22:23 02/04/2024
 - 🥳 [Tottenham lỡ cơ hội vào top 4](https://vnexpress.net/tottenham-lo-co-hoi-vao-top-4-4729783.html) - 22:20 02/04/2024
-- 🦣 [Ronaldo lập hat-trick thứ hai liên tiếp](https://vnexpress.net/ronaldo-lap-hat-trick-thu-hai-lien-tiep-4729781.html) - 22:00 02/04/2024
+- 🦣 [Ronaldo lập hat-trick thứ hai liên tiếp cho Al Nassr](https://vnexpress.net/ronaldo-lap-hat-trick-thu-hai-lien-tiep-cho-al-nassr-4729781.html) - 22:00 02/04/2024
 - 🌜 [Guardiola: &#39;Tôi mắng cầu thủ vì muốn nổi tiếng&#39;](https://vnexpress.net/guardiola-toi-mang-cau-thu-vi-muon-noi-tieng-4729764.html) - 17:00 02/04/2024
 - 🫶 [Arteta: &#39;Arsenal cần gạt cái tôi để đua vô địch&#39;](https://vnexpress.net/arteta-arsenal-can-gat-cai-toi-de-dua-vo-dich-4729761.html) - 17:00 02/04/2024
 - 🌜 [Lực sĩ Trịnh Văn Vinh giành vé thứ sáu dự Olympic 2024](https://vnexpress.net/luc-si-trinh-van-vinh-gianh-ve-thu-sau-du-olympic-2024-4729716.html) - 11:00 02/04/2024
