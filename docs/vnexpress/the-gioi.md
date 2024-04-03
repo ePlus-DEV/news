@@ -8,7 +8,7 @@ sidebar_position: 2
 - 🕴 [Nhà cửa nghiêng ngả, núi sạt lở trong động đất ở Đài Loan](https://vnexpress.net/nha-cua-nghieng-nga-nui-sat-lo-trong-dong-dat-o-dai-loan-4729908.html) - 03:29 03/04/2024
 - 🤭 [Hạm đội Biển Đen Nga sẽ nhận thêm ba tàu tên lửa](https://vnexpress.net/ham-doi-bien-den-nga-se-nhan-them-ba-tau-ten-lua-4729831.html) - 02:56 03/04/2024
 - 🧑‍💻 [Triều Tiên tuyên bố thử vũ khí siêu vượt âm mới](https://vnexpress.net/trieu-tien-tuyen-bo-thu-vu-khi-sieu-vuot-am-moi-4729809.html) - 01:04 03/04/2024
-- 🦏 [Động đất 7,4 độ ở Đài Loan, 4 người chết](https://vnexpress.net/dong-dat-7-4-do-o-dai-loan-4-nguoi-chet-4729815.html) - 01:04 03/04/2024
+- 🦏 [Động đất 7,4 độ ở Đài Loan, 7 người chết](https://vnexpress.net/dong-dat-7-4-do-o-dai-loan-7-nguoi-chet-4729815.html) - 01:04 03/04/2024
 - 🦒 [Mỹ nói không liên quan vụ Israel tập kích tòa lãnh sự Iran](https://vnexpress.net/my-noi-khong-lien-quan-vu-israel-tap-kich-toa-lanh-su-iran-4729797.html) - 00:50 03/04/2024
 - 🌈 [Ông Biden điện đàm với ông Tập Cận Bình](https://vnexpress.net/ong-biden-dien-dam-voi-ong-tap-can-binh-4729791.html) - 00:23 03/04/2024
 - 🧑‍🏫 [Ukraine hạ độ tuổi động viên quân](https://vnexpress.net/ukraine-ha-do-tuoi-dong-vien-quan-4729793.html) - 00:02 03/04/2024
