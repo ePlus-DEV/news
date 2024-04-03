@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Học sinh Trường Song ngữ Quốc tế Horizon khám phá công nghệ AI](https://vnexpress.net/hoc-sinh-truong-song-ngu-quoc-te-horizon-kham-pha-cong-nghe-ai-4729821.html) - 02:00 03/04/2024
-- 🦆 [&#39;Không đủ căn cứ siết giờ làm thêm của sinh viên&#39;](https://vnexpress.net/khong-du-can-cu-siet-gio-lam-them-cua-sinh-vien-4729649.html) - 00:53 03/04/2024
+- 🦆 [Chuyên gia Bộ Giáo dục: Không đủ căn cứ siết giờ làm thêm của sinh viên](https://vnexpress.net/chuyen-gia-bo-giao-duc-khong-du-can-cu-siet-gio-lam-them-cua-sinh-vien-4729649.html) - 00:53 03/04/2024
 - 🦩 [Tỉnh nào được vinh danh là &#39;quê lúa&#39;?](https://vnexpress.net/tinh-nao-duoc-vinh-danh-la-que-lua-4729632.html) - 14:30 02/04/2024
 - 🌮 [Trường Quốc tế Mỹ mở cửa từ ngày 3/4](https://vnexpress.net/truong-quoc-te-my-mo-cua-tu-ngay-3-4-4729746.html) - 13:52 02/04/2024
 - 🔭 [Trường chuyên Khoa học Xã hội và Nhân văn đổi lịch thi lớp 10](https://vnexpress.net/truong-chuyen-khoa-hoc-xa-hoi-va-nhan-van-doi-lich-thi-lop-10-4729645.html) - 12:43 02/04/2024
