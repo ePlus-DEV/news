@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Sự cố hầm lò, 4 thợ mỏ tử vong](https://vnexpress.net/su-co-ham-lo-4-tho-mo-tu-vong-4729841.html) - 01:31 03/04/2024
+- 🦒 [Cháy khí metan, 4 thợ mỏ tử vong](https://vnexpress.net/chay-khi-metan-4-tho-mo-tu-vong-4729841.html) - 01:31 03/04/2024
 - 🤓 [Hiện trạng 3 dự án chống ngập, giảm ùn tắc ở Tân Sơn Nhất](https://vnexpress.net/hien-trang-3-du-an-chong-ngap-giam-un-tac-o-tan-son-nhat-4728781.html) - 23:00 02/04/2024
 - ⚗️ [Sóc Trăng đứng đầu cả nước về kiểm soát tham nhũng](https://vnexpress.net/soc-trang-dung-dau-ca-nuoc-ve-kiem-soat-tham-nhung-4729573.html) - 17:44 02/04/2024
 - 🌊 [Hà Nội chỉnh trang mặt tiền nhà dân phố Tràng Tiền](https://vnexpress.net/ha-noi-chinh-trang-mat-tien-nha-dan-pho-trang-tien-4729758.html) - 17:00 02/04/2024
