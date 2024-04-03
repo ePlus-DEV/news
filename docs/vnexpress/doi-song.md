@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Chàng trai mắc bệnh &#39;tưởng mình đẹp trai&#39;](https://vnexpress.net/chang-trai-mac-benh-tuong-minh-dep-trai-4729750.html) - 04:40 03/04/2024
+- 🚀 [Nam sinh mắc bệnh &#39;tưởng mình đẹp trai&#39;](https://vnexpress.net/nam-sinh-mac-benh-tuong-minh-dep-trai-4729750.html) - 04:40 03/04/2024
 - 🎓 [Chàng trai chuyển giới mang thai thay vợ](https://vnexpress.net/chang-trai-chuyen-gioi-mang-thai-thay-vo-4729775.html) - 23:30 02/04/2024
 - 🚦 [&#39;Bóc phốt&#39; công ty cũ](https://vnexpress.net/boc-phot-cong-ty-cu-4729639.html) - 23:00 02/04/2024
 - 🦣 [Người Nhật mệt mỏi vì học văn hóa công ty](https://vnexpress.net/nguoi-nhat-met-moi-vi-hoc-van-hoa-cong-ty-4729658.html) - 12:00 02/04/2024
