@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Luật sư: &#39;Đặng Anh Quân đã ăn năn&#39;](https://vnexpress.net/luat-su-dang-anh-quan-da-an-nan-4730614.html) - 09:55 04/04/2024
+- 😎 [Bà Phương Hằng được giảm án](https://vnexpress.net/ba-phuong-hang-duoc-giam-an-4730614.html) - 09:55 04/04/2024
 - 🥰 [Nói khoác quen lãnh đạo để lừa 17 tỷ đồng của doanh nghiệp](https://vnexpress.net/noi-khoac-quen-lanh-dao-de-lua-17-ty-dong-cua-doanh-nghiep-4730534.html) - 09:24 04/04/2024
 - 🎓 [Đưa xe gây tai nạn chết người đi sửa, xóa dấu vết](https://vnexpress.net/dua-xe-gay-tai-nan-chet-nguoi-di-sua-xoa-dau-vet-4730481.html) - 08:00 04/04/2024
 - 🤓 [Ông Chu Lập Cơ: &#39;Tôi có lỗi vì để vợ đơn độc&#39;](https://vnexpress.net/ong-chu-lap-co-toi-co-loi-vi-de-vo-don-doc-4730482.html) - 07:20 04/04/2024
