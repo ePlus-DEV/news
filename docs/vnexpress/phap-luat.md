@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Đưa xe gây tai nạn chết người đi sửa, xóa dấu vết](https://vnexpress.net/dua-xe-gay-tai-nan-chet-nguoi-di-sua-xoa-dau-vet-4730481.html) - 08:00 04/04/2024
 - 🥰 [Ông Chu Lập Cơ: &#39;Tôi có lỗi vì để vợ đơn độc&#39;](https://vnexpress.net/ong-chu-lap-co-toi-co-loi-vi-de-vo-don-doc-4730482.html) - 07:20 04/04/2024
 - 🎓 [Cựu CEO SCB: &#39;Đau xót vì cha mẹ cũng phải trả giá&#39;](https://vnexpress.net/cuu-ceo-scb-dau-xot-vi-cha-me-cung-phai-tra-gia-4730415.html) - 05:08 04/04/2024
-- 🤓 [&#39;Nhà báo cần được ghi âm, ghi hình phiên tòa từ khai mạc đến kết thúc&#39;](https://vnexpress.net/nha-bao-can-duoc-ghi-am-ghi-hinh-phien-toa-tu-khai-mac-den-ket-thuc-4729933.html) - 04:59 04/04/2024
+- 🤓 [&#39;Không nên hạn chế quyền ghi âm, ghi hình của phóng viên tại phiên tòa&#39;](https://vnexpress.net/nha-bao-can-duoc-ghi-am-ghi-hinh-phien-toa-tu-khai-mac-den-ket-thuc-4729933.html) - 04:59 04/04/2024
 - 🎊 [Quy định mới về cấp sổ đỏ với đất không đủ giấy tờ, từ năm 2025](https://vnexpress.net/quy-dinh-moi-ve-cap-so-do-voi-dat-khong-du-giay-to-tu-nam-2025-4729536.html) - 04:38 04/04/2024
 - 🙉 [Giám đốc ở Quảng Ngãi bị bắt với cáo buộc lừa &#39;chạy án&#39;](https://vnexpress.net/giam-doc-o-quang-ngai-bi-bat-voi-cao-buoc-lua-chay-an-4730283.html) - 01:15 04/04/2024
 - 🤡 [Bà Phương Hằng: &#39;Vô cùng ân hận vì không hiểu biết pháp luật&#39;](https://vnexpress.net/ba-phuong-hang-vo-cung-an-han-vi-khong-hieu-biet-phap-luat-4730237.html) - 00:00 04/04/2024
