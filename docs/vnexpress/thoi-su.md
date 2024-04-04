@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [22 biệt thự xây không phép ở Lâm Đồng](https://vnexpress.net/22-biet-thu-xay-khong-phep-o-lam-dong-4730326.html) - 02:39 04/04/2024
+- 🦒 [22 biệt thự xây không phép trên đồi ở Lâm Đồng](https://vnexpress.net/22-biet-thu-xay-khong-phep-tren-doi-o-lam-dong-4730326.html) - 02:39 04/04/2024
 - 🤓 [Hơn 1.200 hộ dân trắng đêm xếp hàng lấy nước](https://vnexpress.net/hon-1-200-ho-dan-trang-dem-xep-hang-lay-nuoc-4730329.html) - 02:31 04/04/2024
 - ⚗️ [Cao tốc hơn 300 km thiếu trạm dừng nghỉ](https://vnexpress.net/cao-toc-hon-300-km-thieu-tram-dung-nghi-4729893.html) - 22:00 03/04/2024
 - 🌊 [Nông dân đòi bồi thường 167 tỷ đồng sau sự cố cánh quạt điện gió rơi](https://vnexpress.net/nong-dan-doi-boi-thuong-167-ty-dong-sau-su-co-canh-quat-dien-gio-roi-4730210.html) - 17:00 03/04/2024
