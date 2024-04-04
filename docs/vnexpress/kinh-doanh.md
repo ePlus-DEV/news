@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Taylor Swift và đồng sáng lập Shein là tỷ phú mới nổi bật của năm](https://vnexpress.net/taylor-swift-va-dong-sang-lap-shein-la-ty-phu-moi-noi-bat-cua-nam-4730374.html) - 05:06 04/04/2024
+- ⛽️ [Taylor Swift và đồng sáng lập Shein là tỷ phú mới của năm](https://vnexpress.net/taylor-swift-va-dong-sang-lap-shein-la-ty-phu-moi-cua-nam-4730374.html) - 05:06 04/04/2024
 - 🐲 [Chủ đầu tư The Grand Manhattan lỗ hai năm liền](https://vnexpress.net/chu-dau-tu-the-grand-manhattan-lo-hai-nam-lien-4730429.html) - 05:06 04/04/2024
 - 🔥 [Áp lực sản xuất dư thừa ở Trung Quốc](https://vnexpress.net/ap-luc-san-xuat-du-thua-o-trung-quoc-4729641.html) - 03:17 04/04/2024
 - 🐵 [Vàng nhẫn lập kỷ lục hơn 72 triệu đồng](https://vnexpress.net/vang-nhan-pha-dinh-72-trieu-dong-4730364.html) - 03:09 04/04/2024
