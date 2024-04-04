@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Đỗ chương trình tiến sĩ sau thử thách học cùng nghiên cứu sinh](https://vnexpress.net/do-chuong-trinh-tien-si-sau-thu-thach-hoc-cung-nghien-cuu-sinh-4730032.html) - 08:43 04/04/2024
 - 🦆 [Bộ Giáo dục cấp phép thi lại một kỹ năng IELTS ở Việt Nam](https://vnexpress.net/bo-giao-duc-cap-phep-thi-lai-mot-ky-nang-ielts-o-viet-nam-4730475.html) - 06:18 04/04/2024
-- 🦩 [Dự báo thiếu hơn 55.000 giáo viên mầm non](https://vnexpress.net/du-bao-thieu-hon-55-000-giao-vien-mam-non-4730242.html) - 05:06 04/04/2024
+- 🦩 [Kiến nghị trình Quốc hội về phổ cập mầm non cho trẻ 3-5 tuổi](https://vnexpress.net/kien-nghi-trinh-quoc-hoi-ve-pho-cap-mam-non-cho-tre-3-5-tuoi-4730242.html) - 05:06 04/04/2024
 - 🌮 [Phổ thông Cao đẳng - FPT Polytechnic chú trọng nâng cao năng lực thực hành](https://vnexpress.net/pho-thong-cao-dang-fpt-polytechnic-chu-trong-nang-cao-nang-luc-thuc-hanh-4729379.html) - 01:30 04/04/2024
 - 🔭 [10 câu tiếng Anh thông dụng trong giao tiếp](https://vnexpress.net/10-cau-tieng-anh-thong-dung-trong-giao-tiep-4730188.html) - 00:24 04/04/2024
 - 💡 [Các quy định về nhà giáo còn tản mạn](https://vnexpress.net/cac-quy-dinh-ve-nha-giao-con-tan-man-4730033.html) - 15:08 03/04/2024
