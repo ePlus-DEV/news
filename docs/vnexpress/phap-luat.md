@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Giám đốc ở Quảng Ngãi bị bắt với cáo buộc lừa &#39;chạy án&#39;](https://vnexpress.net/giam-doc-o-quang-ngai-bi-bat-voi-cao-buoc-lua-chay-an-4730283.html) - 01:15 04/04/2024
-- 🥰 [Bà Phương Hằng bị áp giải đến phiên xử phúc thẩm của đồng phạm](https://vnexpress.net/ba-phuong-hang-bi-ap-giai-den-phien-xu-phuc-tham-cua-dong-pham-4730237.html) - 00:00 04/04/2024
+- 🥰 [Bà Phương Hằng sẽ trả lời tòa về hành vi của Đặng Anh Quân](https://vnexpress.net/ba-phuong-hang-se-tra-loi-toa-ve-hanh-vi-cua-dang-anh-quan-4730237.html) - 00:00 04/04/2024
 - 🎓 [&#39;Trùm&#39; đường dây cờ bạc online nghìn tỷ ra tòa](https://vnexpress.net/trum-duong-day-co-bac-online-nghin-ty-ra-toa-4730248.html) - 17:04 03/04/2024
 - 🤓 [Tổng giám đốc địa ốc Hưng Thịnh Phát lĩnh án chung thân](https://vnexpress.net/tong-giam-doc-dia-oc-hung-thinh-phat-linh-an-chung-than-4730223.html) - 17:00 03/04/2024
 - 🎊 [24 giờ truy bắt phạm nhân trốn trại cướp taxi](https://video.vnexpress.net/24-gio-truy-bat-pham-nhan-tron-trai-cuop-taxi-4730219.html) - 14:35 03/04/2024
