@@ -574,7 +574,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Nhóm nhạc Chị đẹp ra mắt, diva Mỹ Linh và Lệ Quyên vắng mặt](https://tienphong.vn/nhom-nhac-chi-dep-ra-mat-diva-my-linh-va-le-quyen-vang-mat-post1626276.tpo) - 22:54 04/04/2024
+- 💼 [Nhóm nhạc Chị đẹp ra mắt, diva Mỹ Linh và Lệ Quyên không tham gia](https://tienphong.vn/nhom-nhac-chi-dep-ra-mat-diva-my-linh-va-le-quyen-khong-tham-gia-post1626276.tpo) - 22:54 04/04/2024
 - 🎊 [Dàn sao trẻ toả sáng, CLB Hà Nội vùi dập chủ nhà TPHCM](https://tienphong.vn/dan-sao-tre-toa-sang-clb-ha-noi-vui-dap-chu-nha-tphcm-post1626274.tpo) - 22:11 04/04/2024
 - 💼 [Văn kiện Đảng Toàn tập &lpar;1924-2020&rpar; sẽ ra mắt vào dịp kỷ niệm 100 năm Ngày thành lập Đảng](https://tienphong.vn/van-kien-dang-toan-tap-1924-2020-se-ra-mat-vao-dip-ky-niem-100-nam-ngay-thanh-lap-dang-post1626238.tpo) - 21:30 04/04/2024
 - 👺 [Việt – Trung nhất trí thúc đẩy kết nối chiến lược về giao thông](https://tienphong.vn/viet-trung-nhat-tri-thuc-day-ket-noi-chien-luoc-ve-giao-thong-post1626271.tpo) - 21:22 04/04/2024
