@@ -4,11 +4,11 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cựu CEO SCB: &#39;Xin tha thứ để được trở về với phiên bản tốt hơn&#39;](https://vnexpress.net/cuu-ceo-scb-xin-tha-thu-de-duoc-tro-ve-voi-phien-ban-tot-hon-4730415.html) - 05:08 04/04/2024
+- 😎 [Cựu CEO SCB: &#39;Đau xót vì cha mẹ cũng phải trả giá&#39;](https://vnexpress.net/cuu-ceo-scb-dau-xot-vi-cha-me-cung-phai-tra-gia-4730415.html) - 05:08 04/04/2024
 - 🥰 [&#39;Nhà báo cần được ghi âm, ghi hình phiên tòa từ khai mạc đến kết thúc&#39;](https://vnexpress.net/nha-bao-can-duoc-ghi-am-ghi-hinh-phien-toa-tu-khai-mac-den-ket-thuc-4729933.html) - 04:59 04/04/2024
 - 🎓 [Quy định mới về cấp sổ đỏ với đất không đủ giấy tờ, từ năm 2025](https://vnexpress.net/quy-dinh-moi-ve-cap-so-do-voi-dat-khong-du-giay-to-tu-nam-2025-4729536.html) - 04:38 04/04/2024
 - 🤓 [Giám đốc ở Quảng Ngãi bị bắt với cáo buộc lừa &#39;chạy án&#39;](https://vnexpress.net/giam-doc-o-quang-ngai-bi-bat-voi-cao-buoc-lua-chay-an-4730283.html) - 01:15 04/04/2024
-- 🎊 [Bà Phương Hằng: &#39;Tôi có tội nhưng cũng có công&#39;](https://vnexpress.net/ba-phuong-hang-toi-co-toi-nhung-cung-co-cong-4730237.html) - 00:00 04/04/2024
+- 🎊 [Bà Phương Hằng: &#39;Vô cùng ân hận vì không hiểu biết pháp luật&#39;](https://vnexpress.net/ba-phuong-hang-vo-cung-an-han-vi-khong-hieu-biet-phap-luat-4730237.html) - 00:00 04/04/2024
 - 🙉 [Trùm đường dây cờ bạc online nghìn tỷ ra tòa](https://vnexpress.net/trum-duong-day-co-bac-online-nghin-ty-ra-toa-4730248.html) - 17:04 03/04/2024
 - 🤡 [Tổng giám đốc địa ốc Hưng Thịnh Phát lĩnh án chung thân](https://vnexpress.net/tong-giam-doc-dia-oc-hung-thinh-phat-linh-an-chung-than-4730223.html) - 17:00 03/04/2024
 - 🗽 [24 giờ truy bắt phạm nhân trốn trại cướp taxi](https://video.vnexpress.net/24-gio-truy-bat-pham-nhan-tron-trai-cuop-taxi-4730219.html) - 14:35 03/04/2024
