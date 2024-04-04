@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Phiến quân đồng loạt tấn công căn cứ Iran](https://vnexpress.net/phien-quan-dong-loat-tan-cong-can-cu-iran-4730402.html) - 07:10 04/04/2024
-- 🕴 [Hàng nghìn người Hàn đội mưa chia tay gấu trúc Fu Bao](https://vnexpress.net/hang-nghin-nguoi-han-doi-mua-chia-tay-gau-truc-fu-bao-4730452.html) - 06:51 04/04/2024
-- 🤭 [Tác giả Harry Potter thách thức cảnh sát Scotland](https://vnexpress.net/tac-gia-harry-potter-thach-thuc-canh-sat-scotland-4730416.html) - 05:05 04/04/2024
-- 🧑‍💻 [Tất cả người Nhật có thể chung họ Sato trong 500 năm tới](https://vnexpress.net/tat-ca-nguoi-nhat-co-the-chung-ho-sato-trong-500-nam-toi-4730341.html) - 04:39 04/04/2024
-- 🦏 [Tổ chức nhân đạo cáo buộc Israel tấn công &#39;có hệ thống&#39; đoàn xe cứu trợ](https://vnexpress.net/to-chuc-nhan-dao-cao-buoc-israel-tan-cong-co-he-thong-doan-xe-cuu-tro-4730315.html) - 04:30 04/04/2024
-- 🦒 [Lý do Triều Tiên muốn dùng nhiên liệu rắn cho mọi tên lửa](https://vnexpress.net/ly-do-trieu-tien-muon-dung-nhien-lieu-ran-cho-moi-ten-lua-4730297.html) - 04:15 04/04/2024
-- 🌈 [Tình báo Ukraine quyết đánh sập cầu Crimea](https://vnexpress.net/tinh-bao-ukraine-quyet-danh-sap-cau-crimea-4730396.html) - 03:51 04/04/2024
-- 🧑‍🏫 [Palestine muốn làm thành viên LHQ vào tháng sau](https://vnexpress.net/palestine-muon-lam-thanh-vien-lhq-vao-thang-sau-4730313.html) - 03:42 04/04/2024
-- 🐲 [Nguy cơ từ cách Trump thách thức lệnh thẩm phán](https://vnexpress.net/nguy-co-tu-cach-trump-thach-thuc-lenh-tham-phan-4729817.html) - 03:32 04/04/2024
-- 🦒 [Quốc gia châu Phi dọa gửi 20.000 con voi đến Đức](https://vnexpress.net/quoc-gia-chau-phi-doa-gui-20-000-con-voi-den-duc-4730317.html) - 03:01 04/04/2024
-- 🐻 [Ông Trump dẫn trước ông Biden ở 6 bang chiến trường](https://vnexpress.net/ong-trump-dan-truoc-ong-biden-o-6-bang-chien-truong-4730229.html) - 01:55 04/04/2024
-- 🚀 [Nga lập rào chắn bằng sà lan bảo vệ quân cảng Biển Đen](https://vnexpress.net/nga-lap-rao-chan-bang-sa-lan-bao-ve-quan-cang-bien-den-4730312.html) - 01:38 04/04/2024
-- 🥰 [Giây phút bể bơi &#39;dậy sóng&#39; trong động đất ở Đài Loan](https://vnexpress.net/giay-phut-be-boi-day-song-trong-dong-dat-o-dai-loan-4730271.html) - 00:58 04/04/2024
-- 🔥 [Drone Ukraine phá hủy robot chiến đấu Nga](https://vnexpress.net/drone-ukraine-pha-huy-robot-chien-dau-nga-4728616.html) - 00:51 04/04/2024
-- 🥳 [Bài học xương máu khiến Đài Loan siết quy định xây dựng chống động đất](https://vnexpress.net/bai-hoc-xuong-mau-khien-dai-loan-siet-quy-dinh-xay-dung-chong-dong-dat-4730035.html) - 00:23 04/04/2024
-- 💼 [Nga nói Pháp sẵn sàng đối thoại về tình hình Ukraine](https://vnexpress.net/nga-noi-phap-san-sang-doi-thoai-ve-tinh-hinh-ukraine-4730273.html) - 00:08 04/04/2024
-- 🤡 [Ông Zelensky nói Nga sắp động viên thêm 300.000 quân](https://vnexpress.net/ong-zelensky-noi-nga-sap-dong-vien-them-300-000-quan-4730267.html) - 23:42 03/04/2024
-- 🌁 [Loạt tiêm kích F-16 hiện đại nhất Đài Loan bị hỏng do động đất](https://vnexpress.net/loat-tiem-kich-f-16-hien-dai-nhat-dai-loan-bi-hong-do-dong-dat-4730265.html) - 23:24 03/04/2024
-- 🤩 [Khoảnh khắc Ukraine rải thảm đạn chùm vào đoàn thiết giáp Nga](https://vnexpress.net/khoanh-khac-ukraine-rai-tham-dan-chum-vao-doan-thiet-giap-nga-4730193.html) - 22:00 03/04/2024
-- 🎉 [Trận động đất khiến 9 người chết, 900 người bị thương ở Đài Loan](https://vnexpress.net/tran-dong-dat-khien-9-nguoi-chet-900-nguoi-bi-thuong-o-dai-loan-4730209.html) - 17:00 03/04/2024
-- 🎉 [Bộ trưởng Ngoại giao đề nghị Quảng Tây tạo điều kiện cho nông sản Việt](https://vnexpress.net/bo-truong-ngoai-giao-de-nghi-quang-tay-tao-dieu-kien-cho-nong-san-viet-4730250.html) - 16:05 03/04/2024
-- 🌁 [Máy bay hỏng, phái đoàn Ngoại trưởng Mỹ đi ôtô từ Paris đến Brussels](https://vnexpress.net/may-bay-hong-phai-doan-ngoai-truong-my-di-oto-tu-paris-den-brussels-4730249.html) - 15:34 03/04/2024
-- 🌊 [Nga cáo buộc tình báo Ukraine đứng sau vụ khủng bố nhà hát](https://vnexpress.net/nga-cao-buoc-tinh-bao-ukraine-dung-sau-vu-khung-bo-nha-hat-4730211.html) - 15:34 03/04/2024
-- 🕴 [Chiến hạm tối tân Đan Mạch &#39;gặp loạt sự cố vũ khí&#39; khi ứng phó Houthi](https://vnexpress.net/chien-ham-toi-tan-dan-mach-gap-loat-su-co-vu-khi-khi-ung-pho-houthi-4729854.html) - 14:51 03/04/2024
-- 🎓 [Người Việt ở Đài Loan kể phút thót tim trong động đất](https://vnexpress.net/nguoi-viet-o-dai-loan-ke-phut-thot-tim-trong-dong-dat-4730101.html) - 14:24 03/04/2024
-- 🦩 [Người phụ nữ thiệt mạng khi cứu mèo cưng trong động đất Đài Loan](https://vnexpress.net/nguoi-phu-nu-thiet-mang-khi-cuu-meo-cung-trong-dong-dat-dai-loan-4730214.html) - 14:06 03/04/2024
-- 🌏 [Phần Lan và Ukraine ký thỏa thuận an ninh 10 năm](https://vnexpress.net/phan-lan-va-ukraine-ky-thoa-thuan-an-ninh-10-nam-4730204.html) - 13:57 03/04/2024
-- 🌋 [Bộ trưởng Ngoại giao Tòa Thánh Vatican sắp thăm Việt Nam](https://vnexpress.net/bo-truong-ngoai-giao-toa-thanh-vatican-sap-tham-viet-nam-4730216.html) - 12:55 03/04/2024
-- 🪜 [Đòn đáp trả Iran có thể tung ra sau vụ khu sứ quán bị tập kích](https://vnexpress.net/don-dap-tra-iran-co-the-tung-ra-sau-vu-khu-su-quan-bi-tap-kich-4729807.html) - 12:32 03/04/2024
-- 🕴 [Tiêm kích F-35A Mỹ không còn sợ sét](https://vnexpress.net/tiem-kich-f-35a-my-khong-con-so-set-4729966.html) - 11:02 03/04/2024
-- 🧑‍🏫 [Nga thả hơn 3.000 bom dẫn đường xuống Ukraine trong một tháng](https://vnexpress.net/nga-tha-hon-3-000-bom-dan-duong-xuong-ukraine-trong-mot-thang-4730160.html) - 10:36 03/04/2024
-- 🌮 [Ông Lukashenko: Belarus đang chuẩn bị cho kịch bản nổ ra chiến tranh](https://vnexpress.net/ong-lukashenko-belarus-dang-chuan-bi-cho-kich-ban-no-ra-chien-tranh-4730010.html) - 10:30 03/04/2024
-- 🚦 [Việt Nam sẵn sàng bảo hộ công dân sau động đất ở Đài Loan](https://vnexpress.net/viet-nam-san-sang-bao-ho-cong-dan-sau-dong-dat-o-dai-loan-4730165.html) - 10:09 03/04/2024
-- 💫 [100 con chó Husky sổng chuồng gây hỗn loạn trung tâm mua sắm](https://vnexpress.net/100-con-cho-husky-song-chuong-gay-hon-loan-trung-tam-mua-sam-4730073.html) - 09:27 03/04/2024
-- 🤡 [Người dân kể lại khoảnh khắc sợ phát khóc vì động đất dữ dội ở Đài Loan](https://vnexpress.net/nguoi-dan-ke-lai-khoanh-khac-so-phat-khoc-vi-dong-dat-du-doi-o-dai-loan-4730071.html) - 08:57 03/04/2024
-- 🦣 [Nga nói hàng nghìn người nhập ngũ để trả thù vụ khủng bố Moskva](https://vnexpress.net/nga-noi-hang-nghin-nguoi-nhap-ngu-de-tra-thu-vu-khung-bo-moskva-4730050.html) - 08:15 03/04/2024
-- 🎬 [Ông Hun Sen trở thành chủ tịch thượng viện Campuchia](https://vnexpress.net/ong-hun-sen-tro-thanh-chu-tich-thuong-vien-campuchia-4730045.html) - 07:57 03/04/2024
-- 🎉 [Ukraine có thể đã tấn công nhà máy sản xuất UAV Geran của Nga](https://vnexpress.net/ukraine-co-the-da-tan-cong-nha-may-san-xuat-uav-geran-cua-nga-4729865.html) - 07:47 03/04/2024
+- 🎭 [Lệnh cấm vàng mã ở một số địa phương Trung Quốc gây tranh cãi](https://vnexpress.net/lenh-cam-vang-ma-o-mot-so-dia-phuong-trung-quoc-gay-tranh-cai-4729582.html) - 07:35 04/04/2024
+- 🕴 [Thiếu thiết giáp, lữ đoàn cơ giới Ukraine biến thành đơn vị bộ binh](https://vnexpress.net/thieu-thiet-giap-lu-doan-co-gioi-ukraine-bien-thanh-don-vi-bo-binh-4730264.html) - 07:26 04/04/2024
+- 🤭 [Phiến quân đồng loạt tấn công căn cứ Iran](https://vnexpress.net/phien-quan-dong-loat-tan-cong-can-cu-iran-4730402.html) - 07:10 04/04/2024
+- 🧑‍💻 [Hàng nghìn người Hàn đội mưa chia tay gấu trúc Fu Bao](https://vnexpress.net/hang-nghin-nguoi-han-doi-mua-chia-tay-gau-truc-fu-bao-4730452.html) - 06:51 04/04/2024
+- 🦏 [Tác giả Harry Potter thách thức cảnh sát Scotland](https://vnexpress.net/tac-gia-harry-potter-thach-thuc-canh-sat-scotland-4730416.html) - 05:05 04/04/2024
+- 🦒 [Tất cả người Nhật có thể chung họ Sato trong 500 năm tới](https://vnexpress.net/tat-ca-nguoi-nhat-co-the-chung-ho-sato-trong-500-nam-toi-4730341.html) - 04:39 04/04/2024
+- 🌈 [Tổ chức nhân đạo cáo buộc Israel tấn công &#39;có hệ thống&#39; đoàn xe cứu trợ](https://vnexpress.net/to-chuc-nhan-dao-cao-buoc-israel-tan-cong-co-he-thong-doan-xe-cuu-tro-4730315.html) - 04:30 04/04/2024
+- 🧑‍🏫 [Lý do Triều Tiên muốn dùng nhiên liệu rắn cho mọi tên lửa](https://vnexpress.net/ly-do-trieu-tien-muon-dung-nhien-lieu-ran-cho-moi-ten-lua-4730297.html) - 04:15 04/04/2024
+- 🐲 [Tình báo Ukraine quyết đánh sập cầu Crimea](https://vnexpress.net/tinh-bao-ukraine-quyet-danh-sap-cau-crimea-4730396.html) - 03:51 04/04/2024
+- 🦒 [Palestine muốn làm thành viên LHQ vào tháng sau](https://vnexpress.net/palestine-muon-lam-thanh-vien-lhq-vao-thang-sau-4730313.html) - 03:42 04/04/2024
+- 🐻 [Nguy cơ từ cách Trump thách thức lệnh thẩm phán](https://vnexpress.net/nguy-co-tu-cach-trump-thach-thuc-lenh-tham-phan-4729817.html) - 03:32 04/04/2024
+- 🚀 [Quốc gia châu Phi dọa gửi 20.000 con voi đến Đức](https://vnexpress.net/quoc-gia-chau-phi-doa-gui-20-000-con-voi-den-duc-4730317.html) - 03:01 04/04/2024
+- 🥰 [Ông Trump dẫn trước ông Biden ở 6 bang chiến trường](https://vnexpress.net/ong-trump-dan-truoc-ong-biden-o-6-bang-chien-truong-4730229.html) - 01:55 04/04/2024
+- 🔥 [Nga lập rào chắn bằng sà lan bảo vệ quân cảng Biển Đen](https://vnexpress.net/nga-lap-rao-chan-bang-sa-lan-bao-ve-quan-cang-bien-den-4730312.html) - 01:38 04/04/2024
+- 🥳 [Giây phút bể bơi &#39;dậy sóng&#39; trong động đất ở Đài Loan](https://vnexpress.net/giay-phut-be-boi-day-song-trong-dong-dat-o-dai-loan-4730271.html) - 00:58 04/04/2024
+- 💼 [Drone Ukraine phá hủy robot chiến đấu Nga](https://vnexpress.net/drone-ukraine-pha-huy-robot-chien-dau-nga-4728616.html) - 00:51 04/04/2024
+- 🤡 [Bài học xương máu khiến Đài Loan siết quy định xây dựng chống động đất](https://vnexpress.net/bai-hoc-xuong-mau-khien-dai-loan-siet-quy-dinh-xay-dung-chong-dong-dat-4730035.html) - 00:23 04/04/2024
+- 🌁 [Nga nói Pháp sẵn sàng đối thoại về tình hình Ukraine](https://vnexpress.net/nga-noi-phap-san-sang-doi-thoai-ve-tinh-hinh-ukraine-4730273.html) - 00:08 04/04/2024
+- 🤩 [Ông Zelensky nói Nga sắp động viên thêm 300.000 quân](https://vnexpress.net/ong-zelensky-noi-nga-sap-dong-vien-them-300-000-quan-4730267.html) - 23:42 03/04/2024
+- 🎉 [Loạt tiêm kích F-16 hiện đại nhất Đài Loan bị hỏng do động đất](https://vnexpress.net/loat-tiem-kich-f-16-hien-dai-nhat-dai-loan-bi-hong-do-dong-dat-4730265.html) - 23:24 03/04/2024
+- 🎉 [Khoảnh khắc Ukraine rải thảm đạn chùm vào đoàn thiết giáp Nga](https://vnexpress.net/khoanh-khac-ukraine-rai-tham-dan-chum-vao-doan-thiet-giap-nga-4730193.html) - 22:00 03/04/2024
+- 🌁 [Trận động đất khiến 9 người chết, 900 người bị thương ở Đài Loan](https://vnexpress.net/tran-dong-dat-khien-9-nguoi-chet-900-nguoi-bi-thuong-o-dai-loan-4730209.html) - 17:00 03/04/2024
+- 🌊 [Bộ trưởng Ngoại giao đề nghị Quảng Tây tạo điều kiện cho nông sản Việt](https://vnexpress.net/bo-truong-ngoai-giao-de-nghi-quang-tay-tao-dieu-kien-cho-nong-san-viet-4730250.html) - 16:05 03/04/2024
+- 🕴 [Máy bay hỏng, phái đoàn Ngoại trưởng Mỹ đi ôtô từ Paris đến Brussels](https://vnexpress.net/may-bay-hong-phai-doan-ngoai-truong-my-di-oto-tu-paris-den-brussels-4730249.html) - 15:34 03/04/2024
+- 🎓 [Nga cáo buộc tình báo Ukraine đứng sau vụ khủng bố nhà hát](https://vnexpress.net/nga-cao-buoc-tinh-bao-ukraine-dung-sau-vu-khung-bo-nha-hat-4730211.html) - 15:34 03/04/2024
+- 🦩 [Chiến hạm tối tân Đan Mạch &#39;gặp loạt sự cố vũ khí&#39; khi ứng phó Houthi](https://vnexpress.net/chien-ham-toi-tan-dan-mach-gap-loat-su-co-vu-khi-khi-ung-pho-houthi-4729854.html) - 14:51 03/04/2024
+- 🌏 [Người Việt ở Đài Loan kể phút thót tim trong động đất](https://vnexpress.net/nguoi-viet-o-dai-loan-ke-phut-thot-tim-trong-dong-dat-4730101.html) - 14:24 03/04/2024
+- 🌋 [Người phụ nữ thiệt mạng khi cứu mèo cưng trong động đất Đài Loan](https://vnexpress.net/nguoi-phu-nu-thiet-mang-khi-cuu-meo-cung-trong-dong-dat-dai-loan-4730214.html) - 14:06 03/04/2024
+- 🪜 [Phần Lan và Ukraine ký thỏa thuận an ninh 10 năm](https://vnexpress.net/phan-lan-va-ukraine-ky-thoa-thuan-an-ninh-10-nam-4730204.html) - 13:57 03/04/2024
+- 🕴 [Bộ trưởng Ngoại giao Tòa Thánh Vatican sắp thăm Việt Nam](https://vnexpress.net/bo-truong-ngoai-giao-toa-thanh-vatican-sap-tham-viet-nam-4730216.html) - 12:55 03/04/2024
+- 🧑‍🏫 [Đòn đáp trả Iran có thể tung ra sau vụ khu sứ quán bị tập kích](https://vnexpress.net/don-dap-tra-iran-co-the-tung-ra-sau-vu-khu-su-quan-bi-tap-kich-4729807.html) - 12:32 03/04/2024
+- 🌮 [Tiêm kích F-35A Mỹ không còn sợ sét](https://vnexpress.net/tiem-kich-f-35a-my-khong-con-so-set-4729966.html) - 11:02 03/04/2024
+- 🚦 [Nga thả hơn 3.000 bom dẫn đường xuống Ukraine trong một tháng](https://vnexpress.net/nga-tha-hon-3-000-bom-dan-duong-xuong-ukraine-trong-mot-thang-4730160.html) - 10:36 03/04/2024
+- 💫 [Ông Lukashenko: Belarus đang chuẩn bị cho kịch bản nổ ra chiến tranh](https://vnexpress.net/ong-lukashenko-belarus-dang-chuan-bi-cho-kich-ban-no-ra-chien-tranh-4730010.html) - 10:30 03/04/2024
+- 🤡 [Việt Nam sẵn sàng bảo hộ công dân sau động đất ở Đài Loan](https://vnexpress.net/viet-nam-san-sang-bao-ho-cong-dan-sau-dong-dat-o-dai-loan-4730165.html) - 10:09 03/04/2024
+- 🦣 [100 con chó Husky sổng chuồng gây hỗn loạn trung tâm mua sắm](https://vnexpress.net/100-con-cho-husky-song-chuong-gay-hon-loan-trung-tam-mua-sam-4730073.html) - 09:27 03/04/2024
+- 🎬 [Người dân kể lại khoảnh khắc sợ phát khóc vì động đất dữ dội ở Đài Loan](https://vnexpress.net/nguoi-dan-ke-lai-khoanh-khac-so-phat-khoc-vi-dong-dat-du-doi-o-dai-loan-4730071.html) - 08:57 03/04/2024
+- 🎉 [Nga nói hàng nghìn người nhập ngũ để trả thù vụ khủng bố Moskva](https://vnexpress.net/nga-noi-hang-nghin-nguoi-nhap-ngu-de-tra-thu-vu-khung-bo-moskva-4730050.html) - 08:15 03/04/2024
+- 🎡 [Ông Hun Sen trở thành chủ tịch thượng viện Campuchia](https://vnexpress.net/ong-hun-sen-tro-thanh-chu-tich-thuong-vien-campuchia-4730045.html) - 07:57 03/04/2024
+- 🌜 [Ukraine có thể đã tấn công nhà máy sản xuất UAV Geran của Nga](https://vnexpress.net/ukraine-co-the-da-tan-cong-nha-may-san-xuat-uav-geran-cua-nga-4729865.html) - 07:47 03/04/2024
 - 🎡 [Israel tập kích xe cứu trợ, một loạt nước nổi giận](https://vnexpress.net/israel-tap-kich-xe-cuu-tro-mot-loat-nuoc-noi-gian-4729895.html) - 07:29 03/04/2024
-- 🌜 [Nhóm nghị sĩ Mỹ đề nghị đặt tên Trump cho sân bay ở thủ đô](https://vnexpress.net/nhom-nghi-si-my-de-nghi-dat-ten-trump-cho-san-bay-o-thu-do-4729889.html) - 07:04 03/04/2024
-- 🎡 [Nga chặn lô thuốc nổ &#39;tuồn vào từ Ukraine&#39;](https://vnexpress.net/nga-chan-lo-thuoc-no-tuon-vao-tu-ukraine-4729868.html) - 04:24 03/04/2024
-- 🤗 [Nhà cửa nghiêng ngả, núi sạt lở trong động đất ở Đài Loan](https://vnexpress.net/nha-cua-nghieng-nga-nui-sat-lo-trong-dong-dat-o-dai-loan-4729908.html) - 03:29 03/04/2024
-- 🦩 [Hạm đội Biển Đen Nga sẽ nhận thêm ba tàu tên lửa](https://vnexpress.net/ham-doi-bien-den-nga-se-nhan-them-ba-tau-ten-lua-4729831.html) - 02:56 03/04/2024
-- 🎓 [Triều Tiên tuyên bố thử vũ khí siêu vượt âm mới](https://vnexpress.net/trieu-tien-tuyen-bo-thu-vu-khi-sieu-vuot-am-moi-4729809.html) - 01:04 03/04/2024
-- 🌁 [Động đất 7,4 độ ở Đài Loan, 9 người chết](https://vnexpress.net/dong-dat-7-4-do-o-dai-loan-9-nguoi-chet-4729815.html) - 01:04 03/04/2024
-- 🤩 [Mỹ nói không liên quan vụ Israel tập kích tòa lãnh sự Iran](https://vnexpress.net/my-noi-khong-lien-quan-vu-israel-tap-kich-toa-lanh-su-iran-4729797.html) - 00:50 03/04/2024
-- 👹 [Ông Biden điện đàm với ông Tập Cận Bình](https://vnexpress.net/ong-biden-dien-dam-voi-ong-tap-can-binh-4729791.html) - 00:23 03/04/2024
-- ⛽️ [Ukraine hạ độ tuổi động viên quân](https://vnexpress.net/ukraine-ha-do-tuoi-dong-vien-quan-4729793.html) - 00:02 03/04/2024
-- 🚀 [Hai tuần vây hãm biến bệnh viện lớn nhất Gaza thành đống đổ nát](https://vnexpress.net/hai-tuan-vay-ham-bien-benh-vien-lon-nhat-gaza-thanh-dong-do-nat-4729342.html) - 22:00 02/04/2024
-- 🎡 [Phòng tuyến Ukraine mong manh trước sức ép từ Nga](https://vnexpress.net/phong-tuyen-ukraine-mong-manh-truoc-suc-ep-tu-nga-4729456.html) - 18:00 02/04/2024
-- 🕯 [Cuộc chiến pháp lý từ lệnh tịch thu máy bay nước ngoài của Nga](https://vnexpress.net/cuoc-chien-phap-ly-tu-lenh-tich-thu-may-bay-nuoc-ngoai-cua-nga-4724796.html) - 17:00 02/04/2024
-- 🐻 [Nga bổ nhiệm loạt chỉ huy hải quân](https://vnexpress.net/nga-bo-nhiem-loat-chi-huy-hai-quan-4729763.html) - 16:04 02/04/2024
-- 🚦 [Cháy chung cư Thổ Nhĩ Kỳ, 29 người thiệt mạng](https://vnexpress.net/chay-chung-cu-tho-nhi-ky-29-nguoi-thiet-mang-4729754.html) - 14:23 02/04/2024
-- 👍 [Tầm ảnh hưởng của chuẩn tướng Iran bị hạ sát ở Syria](https://vnexpress.net/tam-anh-huong-cua-chuan-tuong-iran-bi-ha-sat-o-syria-4729555.html) - 13:26 02/04/2024
-- 🚀 [Cuộc bầu cử thị trưởng đe dọa vị thế Tổng thống Thổ Nhĩ Kỳ](https://vnexpress.net/cuoc-bau-cu-thi-truong-de-doa-vi-the-tong-thong-tho-nhi-ky-4729349.html) - 12:00 02/04/2024
-- 🌮 [Nga tuyên bố kiểm soát thêm hơn 400 km2 lãnh thổ](https://vnexpress.net/nga-tuyen-bo-kiem-soat-them-hon-400-km2-lanh-tho-4729719.html) - 11:42 02/04/2024
-- 😎 [Iran dọa trừng phạt Israel vì tập kích tòa lãnh sự](https://vnexpress.net/iran-doa-trung-phat-israel-vi-tap-kich-toa-lanh-su-4729710.html) - 11:05 02/04/2024
-- 🐲 [Moskva cáo buộc NATO hỗ trợ Ukraine tấn công Nga](https://vnexpress.net/moskva-cao-buoc-nato-ho-tro-ukraine-tan-cong-nga-4729608.html) - 09:28 02/04/2024
-- 💫 [Cậu út nhà Trump gây chú ý khi cùng mẹ dự sự kiện](https://vnexpress.net/cau-ut-nha-trump-gay-chu-y-khi-cung-me-du-su-kien-4729607.html) - 08:47 02/04/2024
-- 👀 [Tác chiến điện tử Nga gây nhiễu drone đồng đội](https://vnexpress.net/tac-chien-dien-tu-nga-gay-nhieu-drone-dong-doi-4719566.html) - 08:19 02/04/2024<!-- vnexpress-the-gioi:END -->
+- 🤗 [Nhóm nghị sĩ Mỹ đề nghị đặt tên Trump cho sân bay ở thủ đô](https://vnexpress.net/nhom-nghi-si-my-de-nghi-dat-ten-trump-cho-san-bay-o-thu-do-4729889.html) - 07:04 03/04/2024
+- 🦩 [Nga chặn lô thuốc nổ &#39;tuồn vào từ Ukraine&#39;](https://vnexpress.net/nga-chan-lo-thuoc-no-tuon-vao-tu-ukraine-4729868.html) - 04:24 03/04/2024
+- 🎓 [Nhà cửa nghiêng ngả, núi sạt lở trong động đất ở Đài Loan](https://vnexpress.net/nha-cua-nghieng-nga-nui-sat-lo-trong-dong-dat-o-dai-loan-4729908.html) - 03:29 03/04/2024
+- 🌁 [Hạm đội Biển Đen Nga sẽ nhận thêm ba tàu tên lửa](https://vnexpress.net/ham-doi-bien-den-nga-se-nhan-them-ba-tau-ten-lua-4729831.html) - 02:56 03/04/2024
+- 🤩 [Triều Tiên tuyên bố thử vũ khí siêu vượt âm mới](https://vnexpress.net/trieu-tien-tuyen-bo-thu-vu-khi-sieu-vuot-am-moi-4729809.html) - 01:04 03/04/2024
+- 👹 [Động đất 7,4 độ ở Đài Loan, 9 người chết](https://vnexpress.net/dong-dat-7-4-do-o-dai-loan-9-nguoi-chet-4729815.html) - 01:04 03/04/2024
+- ⛽️ [Mỹ nói không liên quan vụ Israel tập kích tòa lãnh sự Iran](https://vnexpress.net/my-noi-khong-lien-quan-vu-israel-tap-kich-toa-lanh-su-iran-4729797.html) - 00:50 03/04/2024
+- 🚀 [Ông Biden điện đàm với ông Tập Cận Bình](https://vnexpress.net/ong-biden-dien-dam-voi-ong-tap-can-binh-4729791.html) - 00:23 03/04/2024
+- 🎡 [Ukraine hạ độ tuổi động viên quân](https://vnexpress.net/ukraine-ha-do-tuoi-dong-vien-quan-4729793.html) - 00:02 03/04/2024
+- 🕯 [Hai tuần vây hãm biến bệnh viện lớn nhất Gaza thành đống đổ nát](https://vnexpress.net/hai-tuan-vay-ham-bien-benh-vien-lon-nhat-gaza-thanh-dong-do-nat-4729342.html) - 22:00 02/04/2024
+- 🐻 [Phòng tuyến Ukraine mong manh trước sức ép từ Nga](https://vnexpress.net/phong-tuyen-ukraine-mong-manh-truoc-suc-ep-tu-nga-4729456.html) - 18:00 02/04/2024
+- 🚦 [Cuộc chiến pháp lý từ lệnh tịch thu máy bay nước ngoài của Nga](https://vnexpress.net/cuoc-chien-phap-ly-tu-lenh-tich-thu-may-bay-nuoc-ngoai-cua-nga-4724796.html) - 17:00 02/04/2024
+- 👍 [Nga bổ nhiệm loạt chỉ huy hải quân](https://vnexpress.net/nga-bo-nhiem-loat-chi-huy-hai-quan-4729763.html) - 16:04 02/04/2024
+- 🚀 [Cháy chung cư Thổ Nhĩ Kỳ, 29 người thiệt mạng](https://vnexpress.net/chay-chung-cu-tho-nhi-ky-29-nguoi-thiet-mang-4729754.html) - 14:23 02/04/2024
+- 🌮 [Tầm ảnh hưởng của chuẩn tướng Iran bị hạ sát ở Syria](https://vnexpress.net/tam-anh-huong-cua-chuan-tuong-iran-bi-ha-sat-o-syria-4729555.html) - 13:26 02/04/2024
+- 😎 [Cuộc bầu cử thị trưởng đe dọa vị thế Tổng thống Thổ Nhĩ Kỳ](https://vnexpress.net/cuoc-bau-cu-thi-truong-de-doa-vi-the-tong-thong-tho-nhi-ky-4729349.html) - 12:00 02/04/2024
+- 🐲 [Nga tuyên bố kiểm soát thêm hơn 400 km2 lãnh thổ](https://vnexpress.net/nga-tuyen-bo-kiem-soat-them-hon-400-km2-lanh-tho-4729719.html) - 11:42 02/04/2024
+- 💫 [Iran dọa trừng phạt Israel vì tập kích tòa lãnh sự](https://vnexpress.net/iran-doa-trung-phat-israel-vi-tap-kich-toa-lanh-su-4729710.html) - 11:05 02/04/2024
+- 👀 [Moskva cáo buộc NATO hỗ trợ Ukraine tấn công Nga](https://vnexpress.net/moskva-cao-buoc-nato-ho-tro-ukraine-tan-cong-nga-4729608.html) - 09:28 02/04/2024<!-- vnexpress-the-gioi:END -->
