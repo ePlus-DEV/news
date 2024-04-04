@@ -4,13 +4,13 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Xe bồn bốc cháy trên quốc lộ 1](https://vnexpress.net/xe-bon-boc-chay-tren-quoc-lo-1-4730623.html) - 09:56 04/04/2024
-- 🤓 [&#39;Cần lấy ý kiến người dân về quy hoạch qua hội thảo hoặc phiếu khảo sát&#39;](https://vnexpress.net/can-lay-y-kien-nguoi-dan-ve-quy-hoach-qua-hoi-thao-hoac-phieu-khao-sat-4730523.html) - 09:48 04/04/2024
-- ⚗️ [Nữ chiến sĩ luyện diễu binh mừng chiến thắng Điện Biên Phủ](https://vnexpress.net/nu-chien-si-luyen-dieu-binh-mung-chien-thang-dien-bien-phu-4730500.html) - 09:23 04/04/2024
-- 🌊 [TS Trần Du Lịch: &#39;Công chức khó sống với lương 4 triệu đồng&#39;](https://vnexpress.net/ts-tran-du-lich-cong-chuc-kho-song-voi-luong-4-trieu-dong-4730586.html) - 09:20 04/04/2024
-- 🎓 [Đề xuất hoán đổi để nghỉ 5 ngày liên tiếp dịp 30/4](https://vnexpress.net/de-xuat-hoan-doi-de-nghi-5-ngay-lien-tiep-dip-30-4-4730544.html) - 08:34 04/04/2024
-- 🔥 [Kiến nghị trích tiền xử phạt vi phạm giao thông để xây bãi đỗ ôtô](https://vnexpress.net/kien-nghi-trich-tien-xu-phat-vi-pham-giao-thong-de-xay-bai-do-oto-4730488.html) - 08:33 04/04/2024
-- 🦏 [Hơn 4.000 người hợp luyện diễu binh 70 năm Chiến thắng Điện Biên Phủ](https://video.vnexpress.net/hon-4-000-nguoi-hop-luyen-dieu-binh-70-nam-chien-thang-dien-bien-phu-4730538.html) - 08:08 04/04/2024
+- 🦒 [Đặt tượng Lê Nin tại TP Vinh](https://vnexpress.net/dat-tuong-le-nin-tai-tp-vinh-4730627.html) - 10:39 04/04/2024
+- 🤓 [Xe bồn bốc cháy trên quốc lộ 1](https://vnexpress.net/xe-bon-boc-chay-tren-quoc-lo-1-4730623.html) - 09:56 04/04/2024
+- ⚗️ [&#39;Cần lấy ý kiến người dân về quy hoạch qua hội thảo hoặc phiếu khảo sát&#39;](https://vnexpress.net/can-lay-y-kien-nguoi-dan-ve-quy-hoach-qua-hoi-thao-hoac-phieu-khao-sat-4730523.html) - 09:48 04/04/2024
+- 🌊 [Nữ chiến sĩ diễn tập trước lễ kỷ niệm chiến thắng Điện Biên Phủ](https://vnexpress.net/nu-chien-si-dien-tap-truoc-le-ky-niem-chien-thang-dien-bien-phu-4730500.html) - 09:23 04/04/2024
+- 🎓 [TS Trần Du Lịch: &#39;Công chức khó sống với lương 4 triệu đồng&#39;](https://vnexpress.net/ts-tran-du-lich-cong-chuc-kho-song-voi-luong-4-trieu-dong-4730586.html) - 09:20 04/04/2024
+- 🔥 [Đề xuất hoán đổi để nghỉ 5 ngày liên tiếp dịp 30/4](https://vnexpress.net/de-xuat-hoan-doi-de-nghi-5-ngay-lien-tiep-dip-30-4-4730544.html) - 08:34 04/04/2024
+- 🦏 [Kiến nghị trích tiền xử phạt vi phạm giao thông để xây bãi đỗ ôtô](https://vnexpress.net/kien-nghi-trich-tien-xu-phat-vi-pham-giao-thong-de-xay-bai-do-oto-4730488.html) - 08:33 04/04/2024
 - 👺 [Xe tải nặng, ôtô khách vẫn vào cao tốc Cam Lộ - La Sơn](https://vnexpress.net/xe-tai-nang-oto-khach-van-vao-cao-toc-cam-lo-la-son-4730409.html) - 06:18 04/04/2024
 - 🧑‍🏫 [Đường nối quận Hà Đông với huyện Thanh Trì trước khi mở rộng](https://vnexpress.net/duong-noi-quan-ha-dong-voi-huyen-thanh-tri-truoc-khi-mo-rong-4729596.html) - 04:46 04/04/2024
 - 🚦 [Mâu thuẫn với hàng xóm vì nuôi gần 20 con chó ở chung cư](https://vnexpress.net/mau-thuan-voi-hang-xom-vi-nuoi-gan-20-con-cho-o-chung-cu-4730391.html) - 04:38 04/04/2024
