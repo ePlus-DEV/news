@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Mâu thuẫn với hàng xóm vì nuôi gần 20 con chó ở chung cư](https://vnexpress.net/mau-thuan-voi-hang-xom-vi-nuoi-gan-20-con-cho-o-chung-cu-4730391.html) - 04:38 04/04/2024
 - ⚗️ [22 biệt thự xây không phép trên đồi ở Lâm Đồng](https://vnexpress.net/22-biet-thu-xay-khong-phep-tren-doi-o-lam-dong-4730326.html) - 02:39 04/04/2024
 - 🌊 [Hơn 1.200 hộ dân trắng đêm xếp hàng lấy nước](https://vnexpress.net/hon-1-200-ho-dan-trang-dem-xep-hang-lay-nuoc-4730329.html) - 02:31 04/04/2024
-- 🎓 [Cao tốc hơn 300 km thiếu trạm dừng nghỉ](https://vnexpress.net/cao-toc-hon-300-km-thieu-tram-dung-nghi-4729893.html) - 22:00 03/04/2024
+- 🎓 [Xây 8 trạm dừng nghỉ trên cao tốc Bắc Nam](https://vnexpress.net/xay-8-tram-dung-nghi-tren-cao-toc-bac-nam-4729893.html) - 22:00 03/04/2024
 - 🔥 [Nông dân đòi bồi thường 167 tỷ đồng sau sự cố cánh quạt điện gió rơi](https://vnexpress.net/nong-dan-doi-boi-thuong-167-ty-dong-sau-su-co-canh-quat-dien-gio-roi-4730210.html) - 17:00 03/04/2024
 - 🦏 [Tài xế bị thu hồi giấy phép lái xe ôtô nếu cho người khác mượn](https://vnexpress.net/tai-xe-bi-thu-hoi-giay-phep-lai-xe-oto-neu-cho-nguoi-khac-muon-4730246.html) - 15:49 03/04/2024
 - 👺 [Thông hầm trên cao tốc nối Bình Định - Phú Yên](https://vnexpress.net/thong-ham-tren-cao-toc-noi-binh-dinh-phu-yen-4730239.html) - 14:19 03/04/2024
