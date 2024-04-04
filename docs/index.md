@@ -37,7 +37,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💃 [Cách giữ gìn sắc vóc của Việt Trinh ở tuổi 52](https://vnexpress.net/cach-giu-gin-sac-voc-cua-viet-trinh-o-tuoi-52-4729417.html) - 17:00 04/04/2024
 - 💂 [Khách quốc tế quan trọng với du lịch Việt như thế nào](https://vnexpress.net/khach-quoc-te-quan-trong-voi-du-lich-viet-nhu-the-nao-4727576.html) - 17:00 04/04/2024
 - 🎊 [Phần Lan đóng cửa biên giới vô thời hạn với Nga](https://vnexpress.net/phan-lan-dong-cua-bien-gioi-vo-thoi-han-voi-nga-4730698.html) - 16:51 04/04/2024
-- 🤠 [CSGT: nhiều xe nổ lốp trên cao tốc Cam Lộ - La Sơn vì mặt đường nóng 63 độ](https://vnexpress.net/csgt-nhieu-xe-no-lop-tren-cao-toc-cam-lo-la-son-vi-mat-duong-nong-63-do-4730666.html) - 16:44 04/04/2024
+- 🤠 [CSGT: nhiều xe nổ lốp trên cao tốc Cam Lộ - La Sơn vì mặt đường nóng 63 độ C](https://vnexpress.net/csgt-nhieu-xe-no-lop-tren-cao-toc-cam-lo-la-son-vi-mat-duong-nong-63-do-c-4730666.html) - 16:44 04/04/2024
 - 🌈 [5 &#39;Chị đẹp&#39; lập nhóm nhạc](https://vnexpress.net/5-chi-dep-lap-nhom-nhac-4730491.html) - 15:48 04/04/2024
 - 🎬 [Việt - Trung thúc đẩy quan hệ theo định hướng &#39;6 hơn&#39;](https://vnexpress.net/viet-trung-thuc-day-quan-he-theo-dinh-huong-6-hon-4730682.html) - 15:19 04/04/2024
 - 🚀 [CLB TP HCM tám năm không thắng Hà Nội FC](https://vnexpress.net/clb-tp-hcm-tam-nam-khong-thang-ha-noi-fc-4730694.html) - 15:03 04/04/2024
