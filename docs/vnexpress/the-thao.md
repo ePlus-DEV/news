@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [CLB TP HCM tám năm không thắng Hà Nội FC](https://vnexpress.net/clb-tp-hcm-tam-nam-khong-thang-ha-noi-fc-4730694.html) - 15:03 04/04/2024
 - 🦩 [HLV Vũ Tiến Thành: &#39;V-League đang giết cầu thủ&#39;](https://vnexpress.net/hlv-vu-tien-thanh-v-league-dang-giet-cau-thu-4730695.html) - 14:59 04/04/2024
-- 🧰 [Trung vệ SLNA &#39;biếu&#39; Công an Hà Nội bàn thắng](https://vnexpress.net/trung-ve-slna-bieu-cong-an-ha-noi-ban-thang-4730683.html) - 14:31 04/04/2024
+- 🧰 [Quang Hải lại lập công cho CAHN](https://vnexpress.net/quang-hai-lai-lap-cong-cho-cahn-4730683.html) - 14:31 04/04/2024
 - 🤗 [HLV Quảng Nam: &#39;Đình Bắc bị ảo tưởng giá trị&#39;](https://vnexpress.net/hlv-quang-nam-dinh-bac-bi-ao-tuong-gia-tri-4730680.html) - 13:32 04/04/2024
 - 🥳 [Đối thủ của U23 Việt Nam vắng ngôi sao đắt giá nhất](https://vnexpress.net/doi-thu-cua-u23-viet-nam-vang-ngoi-sao-dat-gia-nhat-4730642.html) - 11:57 04/04/2024
 - 🦣 [Liên đoàn điền kinh đo đường chạy VnExpress Marathon Huế](https://vnexpress.net/lien-doan-dien-kinh-do-duong-chay-vnexpress-marathon-hue-4730471.html) - 10:00 04/04/2024
