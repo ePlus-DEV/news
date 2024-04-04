@@ -9,7 +9,7 @@ sidebar_position: 7
 - 🦩 [Kiến nghị trình Quốc hội về phổ cập mầm non cho trẻ 3-5 tuổi](https://vnexpress.net/kien-nghi-trinh-quoc-hoi-ve-pho-cap-mam-non-cho-tre-3-5-tuoi-4730242.html) - 05:06 04/04/2024
 - 🌮 [Phổ thông Cao đẳng - FPT Polytechnic chú trọng nâng cao năng lực thực hành](https://vnexpress.net/pho-thong-cao-dang-fpt-polytechnic-chu-trong-nang-cao-nang-luc-thuc-hanh-4729379.html) - 01:30 04/04/2024
 - 🔭 [10 câu tiếng Anh thông dụng trong giao tiếp](https://vnexpress.net/10-cau-tieng-anh-thong-dung-trong-giao-tiep-4730188.html) - 00:24 04/04/2024
-- 💡 [Các quy định về nhà giáo còn tản mạn](https://vnexpress.net/cac-quy-dinh-ve-nha-giao-con-tan-man-4730033.html) - 15:08 03/04/2024
+- 💡 [Những lý do cần xây dựng Luật Nhà giáo](https://vnexpress.net/nhung-ly-do-can-xay-dung-luat-nha-giao-4730033.html) - 15:08 03/04/2024
 - 🥰 [Ba tỉnh nào nhỏ nhất Việt Nam?](https://vnexpress.net/ba-tinh-nao-nho-nhat-viet-nam-4730145.html) - 13:47 03/04/2024
 - 🐲 [Nam sinh lớp 9 tử vong trong chuyến trải nghiệm](https://vnexpress.net/nam-sinh-lop-9-tu-vong-trong-chuyen-trai-nghiem-4730197.html) - 13:07 03/04/2024
 - 🦒 [Tách trường cấp 2 công lập lớn nhất Hà Nội](https://vnexpress.net/tach-truong-cap-2-cong-lap-lon-nhat-ha-noi-4730077.html) - 08:51 03/04/2024
