@@ -174,7 +174,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌋 [Hai học sinh lớp 3 đuối nước khi tắm suối](https://thanhnien.vn/hai-hoc-sinh-lop-3-duoi-nuoc-khi-tam-suoi-185240405205355374.htm) - 14:11 05/04/2024
 - 😎 [Tổng Bí thư Nguyễn Phú Trọng chúc mừng năm mới Lào và Campuchia](https://thanhnien.vn/tong-bi-thu-nguyen-phu-trong-chuc-mung-nam-moi-lao-va-campuchia-185240405203708935.htm) - 14:05 05/04/2024
 - 🥰 [Ca sĩ TiTi tình tứ bên vợ sắp cưới Nhung Babie](https://thanhnien.vn/ca-si-titi-tinh-tu-ben-vo-sap-cuoi-nhung-babie-185240405195140714.htm) - 14:03 05/04/2024
-- 🧑‍🏫 [Điểm xung đột: Ông Biden &quot;khẻ tay&quot; Israel; NATO 75 tuổi mạnh hơn nhờ Ukraine?](https://thanhnien.vn/diem-xung-dot-ong-biden-khe-tay-israel-nato-75-tuoi-manh-hon-nho-ukraine-185240405191313594.htm) - 14:00 05/04/2024
+- 🧑‍🏫 [Điểm xung đột: Ông Biden &#39;khẻ tay&#39; Israel; NATO 75 tuổi mạnh hơn nhờ Ukraine?](https://thanhnien.vn/diem-xung-dot-ong-biden-khe-tay-israel-nato-75-tuoi-manh-hon-nho-ukraine-185240405191313594.htm) - 14:00 05/04/2024
 - 💄 [Khám phá thiên đường biển thành phố Cancún, Mexico](https://thanhnien.vn/thoi-trang-tre/kham-pha-thien-duong-bien-thanh-pho-cancun-mexico-185240403112731215.htm) - 14:00 05/04/2024
 - 💯 [Bộ Tư lệnh Vùng 2 Hải quân nhận đỡ đầu 20 cháu là con ngư dân](https://thanhnien.vn/bo-tu-lenh-vung-2-hai-quan-nhan-do-dau-20-chau-la-con-ngu-dan-185240405153107995.htm) - 13:32 05/04/2024
 - 🚀 [Hương cần ta hòa cùng tỏi Lý Sơn](https://thanhnien.vn/huong-can-ta-hoa-cung-toi-ly-son-185240404224330507.htm) - 13:32 05/04/2024
