@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Trùm đường dây đánh bạc online lĩnh 5 năm tù, 8 đàn em được trả tự do tại tòa](https://vnexpress.net/trum-duong-day-danh-bac-online-linh-5-nam-tu-8-dan-em-duoc-tra-tu-do-tai-toa-4730969.html) - 10:39 05/04/2024
+- 😎 [Trùm đường dây đánh bạc online nghìn tỷ lĩnh 5 năm tù](https://vnexpress.net/trum-duong-day-danh-bac-online-nghin-ty-linh-5-nam-tu-4730969.html) - 10:39 05/04/2024
 - 🥰 [Đường dây lô đề giao dịch 50 tỷ đồng](https://vnexpress.net/duong-day-lo-de-giao-dich-50-ty-dong-4730847.html) - 07:20 05/04/2024
 - 🎓 [Ba anh em khai tử 8 người thân &#39;để chiếm nhà&#39; ở Sài Gòn](https://vnexpress.net/ba-anh-em-khai-tu-8-nguoi-than-de-chiem-nha-o-sai-gon-4730895.html) - 06:06 05/04/2024
 - 🤓 [VKS đề nghị trả lại nhà, xe sang cho gia đình trùm đường dây đánh bạc online](https://vnexpress.net/vks-de-nghi-tra-lai-nha-xe-sang-cho-trum-duong-day-co-bac-online-nguyen-minh-thanh-4730811.html) - 04:18 05/04/2024
