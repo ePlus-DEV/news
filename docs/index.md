@@ -70,9 +70,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🪜 [Mô hình bốn mẫu iPhone 16 lộ diện](https://vnexpress.net/mo-hinh-bon-mau-iphone-16-lo-dien-4730708.html) - 22:51 04/04/2024
 - 🚦 [Liverpool thoát hiểm nhờ siêu phẩm sút xa](https://vnexpress.net/liverpool-thoat-hiem-nho-sieu-pham-sut-xa-4730715.html) - 22:44 04/04/2024
 - 🕯 [Dân vùng khô hạn trắng đêm chờ nước từ thiện](https://vnexpress.net/dan-vung-kho-han-trang-dem-cho-nuoc-tu-thien-4730348.html) - 22:30 04/04/2024
-- 💪 [Nhân viên y tế dễ mắc &#39;hội chứng burnout&#39; kiệt quệ thể chất, tinh thần](https://vnexpress.net/nhan-vien-y-te-de-mac-hoi-chung-burnout-kiet-que-the-chat-tinh-than-4730701.html) - 22:28 04/04/2024
-- 🧑‍🏫 [Nguy hiểm từ vết thương nhỏ sau chơi thể thao](https://vnexpress.net/nguy-hiem-tu-vet-thuong-nho-sau-choi-the-thao-4730557.html) - 22:04 04/04/2024
-- 🎓 [Bác sĩ chữa ung thư: &#39;Đừng bao giờ nói với bệnh nhân họ sẽ chết&#39;](https://vnexpress.net/bac-si-chua-ung-thu-dung-bao-gio-noi-voi-benh-nhan-ho-se-chet-4729160.html) - 22:03 04/04/2024<!-- vnexpress:END -->
+- 💪 [Nhân viên y tế dễ mắc &#39;hội chứng burnout&#39; kiệt quệ thể chất, tinh thần](https://vnexpress.net/nhan-vien-y-te-de-mac-hoi-chung-burnout-kiet-que-the-chat-tinh-than-4730701.html) - 22:28 04/04/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
