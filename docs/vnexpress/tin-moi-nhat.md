@@ -4,54 +4,51 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Ít sử dụng có nên mua VinFast Evo200?](https://vnexpress.net/it-su-dung-co-nen-mua-vinfast-evo200-4730597.html) - 00:12 05/04/2024
-- 🐎 [Hãng xe Trung Quốc Chery sắp xây nhà máy ở Việt Nam](https://vnexpress.net/hang-xe-trung-quoc-chery-sap-xay-nha-may-o-viet-nam-4730522.html) - 00:01 05/04/2024
-- 🦍 [Gãy 6 xương sườn sau tai nạn giao thông](https://vnexpress.net/gay-6-xuong-suon-sau-tai-nan-giao-thong-4730533.html) - 00:00 05/04/2024
-- 🏊 [HLV Troussier xin lỗi người hâm mộ Việt Nam](https://vnexpress.net/hlv-troussier-xin-loi-nguoi-ham-mo-viet-nam-4730706.html) - 23:52 04/04/2024
-- 🎊 [Nam sinh trúng tuyển đại học top đầu ở 4 nước](https://vnexpress.net/nam-sinh-trung-tuyen-dai-hoc-top-dau-o-4-nuoc-4729939.html) - 23:52 04/04/2024
-- 🎃 [Ukraine có thể khiến Nga tổn thất 15% công suất lọc dầu](https://vnexpress.net/ukraine-co-the-khien-nga-ton-that-15-cong-suat-loc-dau-4730719.html) - 23:49 04/04/2024
-- 🧰 [Thẩm phán bác kiến nghị hủy cáo buộc Trump giữ trái phép tài liệu mật](https://vnexpress.net/tham-phan-bac-kien-nghi-huy-cao-buoc-trump-giu-trai-phep-tai-lieu-mat-4730713.html) - 23:41 04/04/2024
-- 🔭 [Ten Hag đổ lỗi cho cầu thủ sau trận thua Chelsea](https://vnexpress.net/ten-hag-do-loi-cho-cau-thu-sau-tran-thua-chelsea-4730720.html) - 23:30 04/04/2024
-- 🫶 [Nhà phố 85 m2 ưu tiên không gian kết nối, phí xây 3 tỷ đồng](https://vnexpress.net/nha-pho-85-m2-uu-tien-khong-gian-ket-noi-phi-xay-3-ty-dong-4730672.html) - 23:20 04/04/2024
-- 🪜 [Hai chàng trai &#39;hành quân&#39; xuyên Việt](https://vnexpress.net/hai-chang-trai-hanh-quan-xuyen-viet-4730021.html) - 23:00 04/04/2024
-- 👨‍🏫 [Quán miến lươn bán hơn nửa thế kỷ ở Ninh Bình](https://vnexpress.net/quan-mien-luon-ban-hon-nua-the-ky-o-ninh-binh-4729194.html) - 23:00 04/04/2024
-- 🎊 [Điểm tin 6h: Thiếu cát đe dọa tiến độ Vành đai 3 TP HCM; Israel phá âm mưu sát hại Bộ trưởng An ninh](https://vnexpress.net/diem-tin-6h-thieu-cat-de-doa-tien-do-vanh-dai-3-tp-hcm-israel-pha-am-muu-sat-hai-bo-truong-an-ninh-4730718.html) - 23:00 04/04/2024
-- 🎊 [Mô hình bốn mẫu iPhone 16 lộ diện](https://vnexpress.net/mo-hinh-bon-mau-iphone-16-lo-dien-4730708.html) - 22:51 04/04/2024
-- 😺 [Liverpool thoát hiểm nhờ siêu phẩm sút xa](https://vnexpress.net/liverpool-thoat-hiem-nho-sieu-pham-sut-xa-4730715.html) - 22:44 04/04/2024
-- 🐘 [Dân vùng khô hạn trắng đêm chờ nước từ thiện](https://vnexpress.net/dan-vung-kho-han-trang-dem-cho-nuoc-tu-thien-4730348.html) - 22:30 04/04/2024
-- 🌁 [Nhân viên y tế dễ mắc ‘hội chứng burnout&#39; kiệt quệ thể chất, tinh thần](https://vnexpress.net/nhan-vien-y-te-de-mac-hoi-chung-burnout-kiet-que-the-chat-tinh-than-4730701.html) - 22:28 04/04/2024
-- 🐲 [Nguy hiểm từ vết thương nhỏ sau chơi thể thao](https://vnexpress.net/nguy-hiem-tu-vet-thuong-nho-sau-choi-the-thao-4730557.html) - 22:04 04/04/2024
-- 🤓 [Bác sĩ chữa ung thư: &#39;Đừng bao giờ nói với bệnh nhân họ sẽ chết&#39;](https://vnexpress.net/bac-si-chua-ung-thu-dung-bao-gio-noi-voi-benh-nhan-ho-se-chet-4729160.html) - 22:03 04/04/2024
-- 💪 [Thiếu cát đe dọa tiến độ Vành đai 3 TP HCM](https://vnexpress.net/thieu-cat-de-doa-tien-do-vanh-dai-3-tp-hcm-4730568.html) - 22:00 04/04/2024
-- 🎓 [Ukraine bên bờ vực sụp đổ phòng tuyến](https://vnexpress.net/ukraine-ben-bo-vuc-sup-do-phong-tuyen-4730292.html) - 22:00 04/04/2024
-- 🫣 [Smartphone dưới 4 triệu đồng có RAM 12 GB](https://vnexpress.net/smartphone-duoi-4-trieu-dong-co-ram-12-gb-4729186.html) - 22:00 04/04/2024
-- 🧑‍💻 [Chelsea thắng ngược Man Utd ở phút 100 và 101](https://vnexpress.net/chelsea-thang-nguoc-man-utd-o-phut-100-va-101-4730710.html) - 21:48 04/04/2024
-- 🐲 [Giá cả &#39;bỏ xa&#39; mức giảm trừ gia cảnh](https://vnexpress.net/gia-ca-bo-xa-muc-giam-tru-gia-canh-4730704.html) - 21:00 04/04/2024
-- 🌝 [Kipchoge vào danh sách rút gọn dự Olympic Paris 2024](https://vnexpress.net/kipchoge-vao-danh-sach-rut-gon-du-olympic-paris-2024-4730703.html) - 21:00 04/04/2024
-- 😺 [Cha già có sinh con khỏe mạnh?](https://vnexpress.net/cha-gia-co-sinh-con-khoe-manh-4730180.html) - 18:00 04/04/2024
-- 🐎 [Sụp mi mắt](https://vnexpress.net/sup-mi-mat-4729144.html) - 18:00 04/04/2024
-- 🎡 [Ngôi làng vắng bóng đàn ông vì cơn khát lính của Ukraine](https://vnexpress.net/ngoi-lang-vang-bong-dan-ong-vi-con-khat-linh-cua-ukraine-4723528.html) - 18:00 04/04/2024
-- 👨‍🏫 [15 tỷ phú trẻ nhất thế giới](https://vnexpress.net/15-ty-phu-tre-nhat-the-gioi-4730256.html) - 17:10 04/04/2024
-- 🦆 [Ba thực phẩm có thể kích hoạt gene trường thọ](https://vnexpress.net/ba-thuc-pham-co-the-kich-hoat-gene-truong-tho-4730422.html) - 17:04 04/04/2024
-- 🚦 [Tìm móc câu cho thuyền trưởng](https://vnexpress.net/tim-moc-cau-cho-thuyen-truong-4714493.html) - 17:02 04/04/2024
-- 💫 [CSGT: nhiều xe nổ lốp trên cao tốc Cam Lộ - La Sơn vì mặt đường nóng 63 độ C](https://vnexpress.net/csgt-nhieu-xe-no-lop-tren-cao-toc-cam-lo-la-son-vi-mat-duong-nong-63-do-c-4730666.html) - 17:00 04/04/2024
-- 🎉 [Tại sao Bắc bán cầu thấy nhiều nhật thực toàn phần hơn?](https://vnexpress.net/tai-sao-bac-ban-cau-thay-nhieu-nhat-thuc-toan-phan-hon-4730654.html) - 17:00 04/04/2024
-- 🌋 [Cha chung, con riêng, nhà Thủ Đức và khoản nợ 10 tỷ đồng](https://vnexpress.net/cha-chung-con-rieng-nha-thu-duc-va-khoan-no-10-ty-dong-4730543.html) - 17:00 04/04/2024
-- 🤖 [Bạn gái của người yêu cũ muốn gặp tôi bằng được](https://vnexpress.net/ban-gai-cua-nguoi-yeu-cu-muon-gap-toi-bang-duoc-4730287.html) - 17:00 04/04/2024
-- 🦏 [Thiếu sót khiến 6 công nhân thiệt mạng trong vụ sập cầu ở Mỹ](https://vnexpress.net/thieu-sot-khien-6-cong-nhan-thiet-mang-trong-vu-sap-cau-o-my-4730285.html) - 17:00 04/04/2024
-- 🦩 [Cho về chờ chết](https://vnexpress.net/cho-ve-cho-chet-4729766.html) - 17:00 04/04/2024
-- 👺 [Cách giữ gìn sắc vóc của Việt Trinh ở tuổi 52](https://vnexpress.net/cach-giu-gin-sac-voc-cua-viet-trinh-o-tuoi-52-4729417.html) - 17:00 04/04/2024
-- 🧑‍🏫 [Khách quốc tế quan trọng với du lịch Việt như thế nào](https://vnexpress.net/khach-quoc-te-quan-trong-voi-du-lich-viet-nhu-the-nao-4727576.html) - 17:00 04/04/2024
-- 😎 [Phần Lan đóng cửa biên giới vô thời hạn với Nga](https://vnexpress.net/phan-lan-dong-cua-bien-gioi-vo-thoi-han-voi-nga-4730698.html) - 16:51 04/04/2024
-- 🪄 [5 &#39;Chị đẹp&#39; lập nhóm nhạc](https://vnexpress.net/5-chi-dep-lap-nhom-nhac-4730491.html) - 15:48 04/04/2024
-- 🏊 [Việt - Trung thúc đẩy quan hệ theo định hướng &#39;6 hơn&#39;](https://vnexpress.net/viet-trung-thuc-day-quan-he-theo-dinh-huong-6-hon-4730682.html) - 15:19 04/04/2024
-- 💃 [CLB TP HCM tám năm không thắng Hà Nội FC](https://vnexpress.net/clb-tp-hcm-tam-nam-khong-thang-ha-noi-fc-4730694.html) - 15:03 04/04/2024
-- 🦆 [HLV Vũ Tiến Thành: &#39;V-League đang giết cầu thủ&#39;](https://vnexpress.net/hlv-vu-tien-thanh-v-league-dang-giet-cau-thu-4730695.html) - 14:59 04/04/2024
-- 🎊 [Tài tử &#39;Gia đình là số một&#39; leo đỉnh Fansipan](https://vnexpress.net/tai-tu-gia-dinh-la-so-mot-leo-dinh-fansipan-4730686.html) - 14:40 04/04/2024
-- 👺 [Quang Hải lại lập công cho CAHN](https://vnexpress.net/quang-hai-lai-lap-cong-cho-cahn-4730683.html) - 14:31 04/04/2024
-- 🎡 [Israel phá âm mưu sát hại Bộ trưởng An ninh](https://vnexpress.net/israel-pha-am-muu-sat-hai-bo-truong-an-ninh-4730674.html) - 14:22 04/04/2024
-- 👍 [Cách công binh &#39;khoét núi, mở hào&#39; vây lấn Điện Biên Phủ 70 năm trước](https://vnexpress.net/cach-cong-binh-khoet-nui-mo-hao-vay-lan-dien-bien-phu-70-nam-truoc-4730665.html) - 14:18 04/04/2024
-- 🐎 [Cựu cục trưởng thanh tra: &#39;Mất tất cả vì sai lầm và hèn nhát&#39;](https://vnexpress.net/cuu-cuc-truong-thanh-tra-mat-tat-ca-vi-sai-lam-va-hen-nhat-4730659.html) - 14:00 04/04/2024
-- 🏊 [Tôi muốn vợ chồng ly hôn nhưng vẫn sống cùng nhà](https://vnexpress.net/toi-muon-vo-chong-ly-hon-nhung-van-song-cung-nha-4730322.html) - 14:00 04/04/2024
-- 🦩 [Gửi em, người con gái hiền hậu, nhân ái](https://vnexpress.net/gui-em-nguoi-con-gai-hien-hau-nhan-ai-4730306.html) - 14:00 04/04/2024
-- 👍 [Con trai 15 tuổi quan hệ tình dục, mẹ xem là chuyện bình thường](https://vnexpress.net/con-trai-15-tuoi-quan-he-tinh-duc-me-xem-la-chuyen-binh-thuong-4730068.html) - 14:00 04/04/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🎬 [Tour Thái dịp Songkran đắt khách dù giá tăng](https://vnexpress.net/tour-thai-dip-songkran-dat-khach-du-gia-tang-4729773.html) - 01:26 05/04/2024
+- 🐎 [Palmer: &#39;Màn ngược dòng trước Man Utd thật điên rồ&#39;](https://vnexpress.net/palmer-man-nguoc-dong-truoc-man-utd-that-dien-ro-4730727.html) - 01:15 05/04/2024
+- 🦍 [Giá vàng thế giới nối dài chuỗi kỷ lục](https://vnexpress.net/gia-vang-the-gioi-noi-dai-chuoi-ky-luc-4730735.html) - 01:14 05/04/2024
+- 🏊 [Dấu hiệu nhận biết động thai](https://vnexpress.net/dau-hieu-nhan-biet-dong-thai-4730693.html) - 01:00 05/04/2024
+- 🎊 [6 món ăn uống giúp đào thải axit uric trong máu](https://vnexpress.net/6-mon-an-uong-giup-dao-thai-axit-uric-trong-mau-4730469.html) - 01:00 05/04/2024
+- 🎃 [Làm gì khi nhiễm HPV?](https://vnexpress.net/lam-gi-khi-nhiem-hpv-4730428.html) - 01:00 05/04/2024
+- 🧰 [Thu Thiem Zeit River ra mắt bộ sưu tập nhà phố](https://vnexpress.net/thu-thiem-zeit-river-ra-mat-bo-suu-tap-nha-pho-4730309.html) - 01:00 05/04/2024
+- 🔭 [Meditab phân phối bọc đầu mũi Supporix tại Việt Nam](https://vnexpress.net/meditab-phan-phoi-boc-dau-mui-supporix-tai-viet-nam-4725038.html) - 01:00 05/04/2024
+- 🫶 [Nadal bỏ Monte Carlo Masters](https://vnexpress.net/nadal-bo-monte-carlo-masters-4730722.html) - 00:54 05/04/2024
+- 🪜 [Tội ác che giấu 10 năm của thiếu niên khát tình dục](https://vnexpress.net/toi-ac-che-giau-10-nam-cua-thieu-nien-khat-tinh-duc-4730643.html) - 00:54 05/04/2024
+- 👨‍🏫 [Ronaldo bị nghi chế nhạo Man Utd sau trận thua Chelsea](https://vnexpress.net/ronaldo-bi-nghi-che-nhao-man-utd-sau-tran-thua-chelsea-4730721.html) - 00:47 05/04/2024
+- 🎊 [Nhặt trứng mỏi tay nhờ làm tổ gà trong trên núi](https://vnexpress.net/nhat-trung-moi-tay-nho-lam-to-ga-trong-tren-nui-4729956.html) - 00:46 05/04/2024
+- 🎊 [Kinh tế có tín hiệu phục hồi](https://vnexpress.net/kinh-te-co-tin-hieu-phuc-hoi-4730601.html) - 00:39 05/04/2024
+- 😺 [Ông Biden lần đầu nêu điều kiện hỗ trợ Israel](https://vnexpress.net/ong-biden-lan-dau-neu-dieu-kien-ho-tro-israel-4730726.html) - 00:36 05/04/2024
+- 🐘 [Thống đốc Nga bị đâm dao](https://vnexpress.net/thong-doc-nga-bi-dam-dao-4730723.html) - 00:34 05/04/2024
+- 🌁 [Ít sử dụng có nên mua VinFast Evo200?](https://vnexpress.net/it-su-dung-co-nen-mua-vinfast-evo200-4730597.html) - 00:12 05/04/2024
+- 🐲 [Hãng xe Trung Quốc Chery sắp xây nhà máy ở Việt Nam](https://vnexpress.net/hang-xe-trung-quoc-chery-sap-xay-nha-may-o-viet-nam-4730522.html) - 00:01 05/04/2024
+- 🤓 [Gãy 6 xương sườn sau tai nạn giao thông](https://vnexpress.net/gay-6-xuong-suon-sau-tai-nan-giao-thong-4730533.html) - 00:00 05/04/2024
+- 💪 [HLV Troussier xin lỗi người hâm mộ Việt Nam](https://vnexpress.net/hlv-troussier-xin-loi-nguoi-ham-mo-viet-nam-4730706.html) - 23:52 04/04/2024
+- 🎓 [Nam sinh trúng tuyển đại học top đầu ở 4 nước](https://vnexpress.net/nam-sinh-trung-tuyen-dai-hoc-top-dau-o-4-nuoc-4729939.html) - 23:52 04/04/2024
+- 🫣 [Ukraine có thể khiến Nga tổn thất 15% công suất lọc dầu](https://vnexpress.net/ukraine-co-the-khien-nga-ton-that-15-cong-suat-loc-dau-4730719.html) - 23:49 04/04/2024
+- 🧑‍💻 [Thẩm phán bác kiến nghị hủy cáo buộc Trump giữ trái phép tài liệu mật](https://vnexpress.net/tham-phan-bac-kien-nghi-huy-cao-buoc-trump-giu-trai-phep-tai-lieu-mat-4730713.html) - 23:41 04/04/2024
+- 🐲 [Ten Hag đổ lỗi cho cầu thủ sau trận thua Chelsea](https://vnexpress.net/ten-hag-do-loi-cho-cau-thu-sau-tran-thua-chelsea-4730720.html) - 23:30 04/04/2024
+- 🌝 [Nhà phố 85 m2 ưu tiên không gian kết nối, phí xây 3 tỷ đồng](https://vnexpress.net/nha-pho-85-m2-uu-tien-khong-gian-ket-noi-phi-xay-3-ty-dong-4730672.html) - 23:20 04/04/2024
+- 😺 [Hai chàng trai &#39;hành quân&#39; xuyên Việt](https://vnexpress.net/hai-chang-trai-hanh-quan-xuyen-viet-4730021.html) - 23:00 04/04/2024
+- 🐎 [Quán miến lươn bán hơn nửa thế kỷ ở Ninh Bình](https://vnexpress.net/quan-mien-luon-ban-hon-nua-the-ky-o-ninh-binh-4729194.html) - 23:00 04/04/2024
+- 🎡 [Điểm tin 6h: Thiếu cát đe dọa tiến độ Vành đai 3 TP HCM; Israel phá âm mưu sát hại Bộ trưởng An ninh](https://vnexpress.net/diem-tin-6h-thieu-cat-de-doa-tien-do-vanh-dai-3-tp-hcm-israel-pha-am-muu-sat-hai-bo-truong-an-ninh-4730718.html) - 23:00 04/04/2024
+- 👨‍🏫 [Mô hình bốn mẫu iPhone 16 lộ diện](https://vnexpress.net/mo-hinh-bon-mau-iphone-16-lo-dien-4730708.html) - 22:51 04/04/2024
+- 🦆 [Liverpool thoát hiểm nhờ siêu phẩm sút xa](https://vnexpress.net/liverpool-thoat-hiem-nho-sieu-pham-sut-xa-4730715.html) - 22:44 04/04/2024
+- 🚦 [Dân vùng khô hạn trắng đêm chờ nước từ thiện](https://vnexpress.net/dan-vung-kho-han-trang-dem-cho-nuoc-tu-thien-4730348.html) - 22:30 04/04/2024
+- 💫 [Nhân viên y tế dễ mắc &#39;hội chứng burnout&#39; kiệt quệ thể chất, tinh thần](https://vnexpress.net/nhan-vien-y-te-de-mac-hoi-chung-burnout-kiet-que-the-chat-tinh-than-4730701.html) - 22:28 04/04/2024
+- 🎉 [Nguy hiểm từ vết thương nhỏ sau chơi thể thao](https://vnexpress.net/nguy-hiem-tu-vet-thuong-nho-sau-choi-the-thao-4730557.html) - 22:04 04/04/2024
+- 🌋 [Bác sĩ chữa ung thư: &#39;Đừng bao giờ nói với bệnh nhân họ sẽ chết&#39;](https://vnexpress.net/bac-si-chua-ung-thu-dung-bao-gio-noi-voi-benh-nhan-ho-se-chet-4729160.html) - 22:03 04/04/2024
+- 🤖 [Thiếu cát đe dọa tiến độ Vành đai 3 TP HCM](https://vnexpress.net/thieu-cat-de-doa-tien-do-vanh-dai-3-tp-hcm-4730568.html) - 22:00 04/04/2024
+- 🦏 [Ukraine bên bờ vực sụp đổ phòng tuyến](https://vnexpress.net/ukraine-ben-bo-vuc-sup-do-phong-tuyen-4730292.html) - 22:00 04/04/2024
+- 🦩 [Smartphone dưới 4 triệu đồng có RAM 12 GB](https://vnexpress.net/smartphone-duoi-4-trieu-dong-co-ram-12-gb-4729186.html) - 22:00 04/04/2024
+- 👺 [Chelsea thắng ngược Man Utd ở phút 100 và 101](https://vnexpress.net/chelsea-thang-nguoc-man-utd-o-phut-100-va-101-4730710.html) - 21:48 04/04/2024
+- 🧑‍🏫 [Giá cả &#39;bỏ xa&#39; mức giảm trừ gia cảnh](https://vnexpress.net/gia-ca-bo-xa-muc-giam-tru-gia-canh-4730704.html) - 21:00 04/04/2024
+- 😎 [Kipchoge vào danh sách rút gọn dự Olympic Paris 2024](https://vnexpress.net/kipchoge-vao-danh-sach-rut-gon-du-olympic-paris-2024-4730703.html) - 21:00 04/04/2024
+- 🪄 [Cha già có sinh con khỏe mạnh?](https://vnexpress.net/cha-gia-co-sinh-con-khoe-manh-4730180.html) - 18:00 04/04/2024
+- 🏊 [Sụp mi mắt](https://vnexpress.net/sup-mi-mat-4729144.html) - 18:00 04/04/2024
+- 💃 [Ngôi làng vắng bóng đàn ông vì cơn khát lính của Ukraine](https://vnexpress.net/ngoi-lang-vang-bong-dan-ong-vi-con-khat-linh-cua-ukraine-4723528.html) - 18:00 04/04/2024
+- 🦆 [15 tỷ phú trẻ nhất thế giới](https://vnexpress.net/15-ty-phu-tre-nhat-the-gioi-4730256.html) - 17:10 04/04/2024
+- 🎊 [Ba thực phẩm có thể kích hoạt gene trường thọ](https://vnexpress.net/ba-thuc-pham-co-the-kich-hoat-gene-truong-tho-4730422.html) - 17:04 04/04/2024
+- 👺 [Tìm móc câu cho thuyền trưởng](https://vnexpress.net/tim-moc-cau-cho-thuyen-truong-4714493.html) - 17:02 04/04/2024
+- 🎡 [CSGT: nhiều xe nổ lốp trên cao tốc Cam Lộ - La Sơn vì mặt đường nóng 63 độ C](https://vnexpress.net/csgt-nhieu-xe-no-lop-tren-cao-toc-cam-lo-la-son-vi-mat-duong-nong-63-do-c-4730666.html) - 17:00 04/04/2024
+- 👍 [Tại sao Bắc bán cầu thấy nhiều nhật thực toàn phần hơn?](https://vnexpress.net/tai-sao-bac-ban-cau-thay-nhieu-nhat-thuc-toan-phan-hon-4730654.html) - 17:00 04/04/2024
+- 🐎 [Cha chung, con riêng, nhà Thủ Đức và khoản nợ 10 tỷ đồng](https://vnexpress.net/cha-chung-con-rieng-nha-thu-duc-va-khoan-no-10-ty-dong-4730543.html) - 17:00 04/04/2024<!-- vnexpress-tin-moi-nhat:END -->
