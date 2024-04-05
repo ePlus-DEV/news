@@ -10,7 +10,7 @@ sidebar_position: 12
 - 🤓 [Bà Phương Hằng được giảm án](https://vnexpress.net/ba-phuong-hang-duoc-giam-an-4730614.html) - 09:55 04/04/2024
 - 🎊 [Nói khoác quen lãnh đạo để lừa 17 tỷ đồng của doanh nghiệp](https://vnexpress.net/noi-khoac-quen-lanh-dao-de-lua-17-ty-dong-cua-doanh-nghiep-4730534.html) - 09:24 04/04/2024
 - 🙉 [Đưa xe gây tai nạn chết người đi sửa, xóa dấu vết](https://vnexpress.net/dua-xe-gay-tai-nan-chet-nguoi-di-sua-xoa-dau-vet-4730481.html) - 08:00 04/04/2024
-- 🤡 [Ông Chu Lập Cơ: &#39;Tôi có lỗi vì để vợ đơn độc&#39;](https://vnexpress.net/ong-chu-lap-co-toi-co-loi-vi-de-vo-don-doc-4730482.html) - 07:20 04/04/2024
+- 🤡 [Ông Chu Lập Cơ: &#39;Cho tôi cơ hội cứu vợ&#39;](https://vnexpress.net/ong-chu-lap-co-cho-toi-co-hoi-cuu-vo-4730482.html) - 07:20 04/04/2024
 - 🗽 [Cựu CEO SCB: &#39;Đau xót vì cha mẹ cũng phải trả giá&#39;](https://vnexpress.net/cuu-ceo-scb-dau-xot-vi-cha-me-cung-phai-tra-gia-4730415.html) - 05:08 04/04/2024
 - 🌋 [&#39;Không nên hạn chế quyền ghi âm, ghi hình của phóng viên tại phiên tòa&#39;](https://vnexpress.net/nha-bao-can-duoc-ghi-am-ghi-hinh-phien-toa-tu-khai-mac-den-ket-thuc-4729933.html) - 04:59 04/04/2024
 - 🎬 [Quy định mới về cấp sổ đỏ với đất không đủ giấy tờ, từ năm 2025](https://vnexpress.net/quy-dinh-moi-ve-cap-so-do-voi-dat-khong-du-giay-to-tu-nam-2025-4729536.html) - 04:38 04/04/2024
