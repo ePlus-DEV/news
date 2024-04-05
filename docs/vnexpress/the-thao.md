@@ -4,8 +4,8 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Arteta muốn Arsenal học thế hệ bất bại của Wenger](https://vnexpress.net/arteta-muon-arsenal-hoc-the-he-bat-bai-cua-wenger-4731085.html) - 21:00 05/04/2024
-- 🦩 [Guardiola thừa nhận Man City thất thế khi đua vô địch](https://vnexpress.net/guardiola-thua-nhan-man-city-that-the-khi-dua-vo-dich-4731087.html) - 21:00 05/04/2024
+- 🪜 [Guardiola thừa nhận Man City thất thế khi đua vô địch](https://vnexpress.net/guardiola-thua-nhan-man-city-that-the-khi-dua-vo-dich-4731087.html) - 21:00 05/04/2024
+- 🦩 [Arteta muốn Arsenal học thế hệ bất bại của Wenger](https://vnexpress.net/arteta-muon-arsenal-hoc-the-he-bat-bai-cua-wenger-4731085.html) - 21:00 05/04/2024
 - 🧰 [Ten Hag: &#39;Man Utd rơi những điểm số đắt giá&#39;](https://vnexpress.net/ten-hag-man-utd-roi-nhung-diem-so-dat-gia-4731091.html) - 17:00 05/04/2024
 - 🤗 [Đối thủ vui nếu Ronaldo đá chính tại Euro 2024](https://vnexpress.net/doi-thu-vui-neu-ronaldo-da-chinh-tai-euro-2024-4731070.html) - 14:15 05/04/2024
 - 🥳 [Tài năng 16 tuổi muốn mặc áo số 10 tại Barca](https://vnexpress.net/tai-nang-16-tuoi-muon-mac-ao-so-10-tai-barca-4731041.html) - 14:10 05/04/2024
