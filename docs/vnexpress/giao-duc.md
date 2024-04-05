@@ -15,7 +15,7 @@ sidebar_position: 7
 - 🦒 [Tỉnh nào có nhiều thành phố hơn huyện?](https://vnexpress.net/tinh-nao-co-nhieu-thanh-pho-hon-huyen-4730483.html) - 13:00 04/04/2024
 - 🦆 [Trường chuyên Sư phạm tăng chỉ tiêu, bỏ tuyển thẳng lớp 10](https://vnexpress.net/truong-chuyen-su-pham-tang-chi-tieu-bo-tuyen-thang-lop-10-4730657.html) - 12:28 04/04/2024
 - 🧰 [Ba đại học phải đóng hàng loạt ngành](https://vnexpress.net/ba-dai-hoc-phai-dong-hang-loat-nganh-4730512.html) - 11:53 04/04/2024
-- 🐘 [Đỗ chương trình tiến sĩ sau thử thách học cùng nghiên cứu sinh](https://vnexpress.net/do-chuong-trinh-tien-si-sau-thu-thach-hoc-cung-nghien-cuu-sinh-4730032.html) - 08:43 04/04/2024
+- 🐘 [Chàng trai đỗ học bổng tiến sĩ khi chưa tốt nghiệp đại học](https://vnexpress.net/chang-trai-do-hoc-bong-tien-si-khi-chua-tot-nghiep-dai-hoc-4730032.html) - 08:43 04/04/2024
 - 🤓 [Bộ Giáo dục cấp phép thi lại một kỹ năng IELTS ở Việt Nam](https://vnexpress.net/bo-giao-duc-cap-phep-thi-lai-mot-ky-nang-ielts-o-viet-nam-4730475.html) - 06:18 04/04/2024
 - 🧰 [Kiến nghị trình Quốc hội về phổ cập mầm non cho trẻ 3-5 tuổi](https://vnexpress.net/kien-nghi-trinh-quoc-hoi-ve-pho-cap-mam-non-cho-tre-3-5-tuoi-4730242.html) - 05:06 04/04/2024
 - 🧑‍💻 [Phổ thông Cao đẳng - FPT Polytechnic chú trọng nâng cao năng lực thực hành](https://vnexpress.net/pho-thong-cao-dang-fpt-polytechnic-chu-trong-nang-cao-nang-luc-thuc-hanh-4729379.html) - 01:30 04/04/2024
