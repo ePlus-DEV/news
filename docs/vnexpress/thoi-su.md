@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Công bố nhiều tài liệu về chiến dịch Điện Biên Phủ](https://vnexpress.net/cong-bo-nhieu-tai-lieu-ve-chien-dich-dien-bien-phu-4731038.html) - 11:05 05/04/2024
-- 🤓 [Sông Hàn bị đổ phế thải xây dựng](https://vnexpress.net/song-han-bi-do-phe-thai-xay-dung-4731013.html) - 10:53 05/04/2024
+- 🤓 [Sông Hàn bị đổ đất đá lấn chiếm](https://vnexpress.net/song-han-bi-do-dat-da-lan-chiem-4731013.html) - 10:53 05/04/2024
 - ⚗️ [Xe khách Thành Bưởi chạy lại tuyến TP HCM - Cần Thơ](https://vnexpress.net/xe-khach-thanh-buoi-chay-lai-tuyen-tp-hcm-can-tho-4731021.html) - 10:01 05/04/2024
 - 🌊 [Hải Phòng dôi dư 1.000 cán bộ sau sáp nhập](https://vnexpress.net/hai-phong-doi-du-1-000-can-bo-sau-sap-nhap-4730948.html) - 09:00 05/04/2024
 - 🎓 [Xưởng phế liệu bốc cháy ngùn ngụt](https://video.vnexpress.net/xuong-phe-lieu-boc-chay-ngun-ngut-4730909.html) - 07:08 05/04/2024
