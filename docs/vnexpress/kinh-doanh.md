@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [11 doanh nghiệp đầu mối xăng dầu chưa gửi báo cáo kiểm toán quỹ bình ổn](https://vnexpress.net/11-doanh-nghiep-dau-moi-xang-dau-chua-gui-bao-cao-kiem-toan-quy-binh-on-4731063.html) - 13:40 05/04/2024
-- 🐲 [Vốn ngân hàng bơm ra nền kinh tế đã tăng trở lại](https://vnexpress.net/tin-dung-thoat-tang-truong-am-4731059.html) - 13:32 05/04/2024
+- 🐲 [Vốn ngân hàng bơm ra nền kinh tế tăng trở lại](https://vnexpress.net/von-ngan-hang-bom-ra-nen-kinh-te-tang-tro-lai-4731059.html) - 13:32 05/04/2024
 - 🔥 [BEST Express: ‘Xuyên biên giới và thương mại điện tử định hình tương lai logistics’](https://vnexpress.net/best-express-xuyen-bien-gioi-va-thuong-mai-dien-tu-dinh-hinh-tuong-lai-logistics-4730922.html) - 13:00 05/04/2024
 - 🐵 [HSBC: Kinh tế sẽ phục hồi tốt nửa cuối năm](https://vnexpress.net/hsbc-kinh-te-se-phuc-hoi-tot-nua-cuoi-nam-4730928.html) - 10:00 05/04/2024
 - 🦅 [YeaH1 hợp tác Bộ Nông nghiệp, TikTok sản xuất &#39;Haha nông dân&#39;](https://vnexpress.net/yeah1-hop-tac-bo-nong-nghiep-tiktok-san-xuat-haha-nong-dan-4731017.html) - 10:00 05/04/2024
