@@ -11,7 +11,7 @@ sidebar_position: 2
 - 🦏 [Mỹ nói Ukraine sẽ có ngày trở thành thành viên NATO](https://vnexpress.net/my-noi-ukraine-se-co-ngay-tro-thanh-thanh-vien-nato-4730765.html) - 02:38 05/04/2024
 - 🦒 [Tên lửa gặp sự cố, Đan Mạch khóa tuyến hàng hải trọng yếu](https://vnexpress.net/ten-lua-gap-su-co-dan-mach-khoa-tuyen-hang-hai-trong-yeu-4730750.html) - 02:14 05/04/2024
 - 🌈 [Cụ ông già nhất thế giới qua đời ở tuổi 114](https://vnexpress.net/cu-ong-gia-nhat-the-gioi-qua-doi-o-tuoi-114-4730743.html) - 01:36 05/04/2024
-- 🧑‍🏫 [Ông Biden lần đầu nêu điều kiện hỗ trợ Israel](https://vnexpress.net/ong-biden-lan-dau-neu-dieu-kien-ho-tro-israel-4730726.html) - 00:36 05/04/2024
+- 🧑‍🏫 [Ông Biden: Israel tấn công đoàn cứu trợ là không thể chấp nhận](https://vnexpress.net/ong-biden-israel-tan-cong-doan-cuu-tro-la-khong-the-chap-nhan-4730726.html) - 00:36 05/04/2024
 - 🐲 [Thống đốc Nga bị đâm dao](https://vnexpress.net/thong-doc-nga-bi-dam-dao-4730723.html) - 00:34 05/04/2024
 - 🦒 [Ukraine có thể khiến Nga tổn thất 15% công suất lọc dầu](https://vnexpress.net/ukraine-co-the-khien-nga-ton-that-15-cong-suat-loc-dau-4730719.html) - 23:49 04/04/2024
 - 🐻 [Thẩm phán bác kiến nghị hủy cáo buộc Trump giữ trái phép tài liệu mật](https://vnexpress.net/tham-phan-bac-kien-nghi-huy-cao-buoc-trump-giu-trai-phep-tai-lieu-mat-4730713.html) - 23:41 04/04/2024
