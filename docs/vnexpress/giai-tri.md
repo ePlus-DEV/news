@@ -8,7 +8,7 @@ sidebar_position: 5
 - 💫 [LHP quốc tế TP HCM không có phim Việt tranh giải quan trọng](https://vnexpress.net/lhp-quoc-te-tp-hcm-khong-co-phim-viet-tranh-giai-quan-trong-4730440.html) - 07:12 05/04/2024
 - 🌮 [Á quân Vietnam Idol 2023 ra MV đầu tay](https://vnexpress.net/a-quan-vietnam-idol-2023-ra-mv-dau-tay-4729904.html) - 06:32 05/04/2024
 - 🧠 [Cao Thiên Trang tung ảnh cưới](https://vnexpress.net/cao-thien-trang-tung-anh-cuoi-4730855.html) - 04:47 05/04/2024
-- 👨‍🏫 [Angelina Jolie tiết lộ quá khứ bạo hành của Brad Pitt](https://vnexpress.net/angelina-jolie-tiet-lo-qua-khu-bao-hanh-cua-brad-pitt-4730779.html) - 04:29 05/04/2024
+- 👨‍🏫 [Angelina Jolie tiếp tục tố cáo Brad Pitt bạo hành](https://vnexpress.net/angelina-jolie-tiep-tuc-to-cao-brad-pitt-bao-hanh-4730779.html) - 04:29 05/04/2024
 - ⚗️ [Nhạc sĩ Phạm Minh Tuấn xúc động khi hát ở tuổi 82](https://vnexpress.net/nhac-si-pham-minh-tuan-xuc-dong-khi-hat-o-tuoi-82-4730549.html) - 04:25 05/04/2024
 - 😎 [Sắc vóc bạn gái diễn viên Anh Đức](https://vnexpress.net/sac-voc-ban-gai-dien-vien-anh-duc-4730663.html) - 03:47 05/04/2024
 - 🫣 [Hậu trường &#39;Lương Sơn Bá Chúc Anh Đài&#39;](https://vnexpress.net/hau-truong-luong-son-ba-chuc-anh-dai-4730537.html) - 02:49 05/04/2024
