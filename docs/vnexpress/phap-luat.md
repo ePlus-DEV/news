@@ -4,8 +4,8 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Ba anh em khai tử 8 người thân để chiếm nhà ở Sài Gòn](https://vnexpress.net/ba-anh-em-khai-tu-8-nguoi-than-de-chiem-nha-o-sai-gon-4730895.html) - 06:06 05/04/2024
-- 🥰 [VKS đề nghị trả lại nhà, xe sang cho trùm đường dây cờ bạc online](https://vnexpress.net/vks-de-nghi-tra-lai-nha-xe-sang-cho-trum-duong-day-co-bac-online-nguyen-minh-thanh-4730811.html) - 04:18 05/04/2024
+- 😎 [Ba anh em khai tử 8 người thân &#39;để chiếm nhà&#39; ở Sài Gòn](https://vnexpress.net/ba-anh-em-khai-tu-8-nguoi-than-de-chiem-nha-o-sai-gon-4730895.html) - 06:06 05/04/2024
+- 🥰 [VKS đề nghị trả lại nhà, xe sang cho gia đình trùm đường dây đánh bạc online](https://vnexpress.net/vks-de-nghi-tra-lai-nha-xe-sang-cho-trum-duong-day-co-bac-online-nguyen-minh-thanh-4730811.html) - 04:18 05/04/2024
 - 🎓 [Làm việc ở 31 công ty để lừa tiền lương](https://vnexpress.net/lam-viec-o-31-cong-ty-de-lua-tien-luong-4730835.html) - 04:10 05/04/2024
 - 🤓 [Tội ác che giấu 10 năm của thiếu niên khát tình dục](https://vnexpress.net/toi-ac-che-giau-10-nam-cua-thieu-nien-khat-tinh-duc-4730643.html) - 00:54 05/04/2024
 - 🎊 [Cựu cục trưởng thanh tra: &#39;Mất tất cả vì sai lầm và hèn nhát&#39;](https://vnexpress.net/cuu-cuc-truong-thanh-tra-mat-tat-ca-vi-sai-lam-va-hen-nhat-4730659.html) - 14:00 04/04/2024
