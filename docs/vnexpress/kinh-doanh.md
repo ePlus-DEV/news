@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Thuê bao Viettel trúng Jackpot phụ gần 68 tỷ đồng](https://vnexpress.net/thue-bao-viettel-trung-jackpot-phu-gan-68-ty-dong-4731305.html) - 12:53 06/04/2024
+- ⛽️ [Jackpot phụ gần 68 tỷ đồng có chủ](https://vnexpress.net/jackpot-phu-gan-68-ty-dong-co-chu-4731305.html) - 12:53 06/04/2024
 - 🐲 [Nhiều tôm hùm bông ở Khánh Hòa chết](https://vnexpress.net/nhieu-tom-hum-bong-o-khanh-hoa-chet-4731276.html) - 12:04 06/04/2024
 - 🔥 [Vingroup thoái vốn Vincom Retail cho ai?](https://vnexpress.net/vingroup-thoai-von-vincom-retail-cho-ai-4731290.html) - 11:31 06/04/2024
 - 🐵 [Mark Zuckerberg lần đầu giàu hơn Elon Musk kể từ 2020](https://vnexpress.net/mark-zuckerberg-lan-dau-giau-hon-elon-musk-ke-tu-2020-4731284.html) - 11:26 06/04/2024
