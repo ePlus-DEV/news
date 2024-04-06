@@ -9,8 +9,8 @@ sidebar_position: 11
 - 🦅 [Bánh đập hút khách ở Quảng Ngãi](https://video.vnexpress.net/banh-dap-hut-khach-o-quang-ngai-4731098.html) - 03:00 06/04/2024
 - 🕴 [Du lịch mong được &#39;tiếp sức&#39; một ngày nghỉ dịp 30/4](https://vnexpress.net/du-lich-mong-duoc-tiep-suc-mot-ngay-nghi-dip-30-4-4731065.html) - 02:04 06/04/2024
 - 👀 [Một ngày theo chân khách Việt ở &#39;Venice của Hong Kong&#39;](https://vnexpress.net/mot-ngay-theo-chan-khach-viet-o-venice-cua-hong-kong-4729745.html) - 00:00 06/04/2024
-- 🎭 [48 giờ ở Đà Nẵng](https://vnexpress.net/48-gio-o-da-nang-4730384.html) - 17:00 05/04/2024
-- 🦒 [Tour nội địa &#39;lép vế&#39; dịp hè vì vé máy bay](https://vnexpress.net/tour-noi-dia-lep-ve-dip-he-vi-ve-may-bay-4730652.html) - 17:00 05/04/2024
+- 🎭 [Tour nội địa &#39;lép vế&#39; dịp hè vì vé máy bay](https://vnexpress.net/tour-noi-dia-lep-ve-dip-he-vi-ve-may-bay-4730652.html) - 17:00 05/04/2024
+- 🦒 [48 giờ ở Đà Nẵng](https://vnexpress.net/48-gio-o-da-nang-4730384.html) - 17:00 05/04/2024
 - 👨‍🏫 [Thị trấn Ấn Độ nổi tiếng với nhiều xe cổ](https://vnexpress.net/thi-tran-an-do-noi-tieng-voi-nhieu-xe-co-4730501.html) - 07:50 05/04/2024
 - ⚗️ [Bên trong vườn Taroko - nơi 41 người mất tích sau động đất Đài Loan](https://vnexpress.net/ben-trong-vuon-taroko-noi-41-nguoi-mat-tich-sau-dong-dat-dai-loan-4730814.html) - 05:11 05/04/2024
 - 🥸 [Tour Thái dịp Songkran đắt khách dù giá tăng](https://vnexpress.net/tour-thai-dip-songkran-dat-khach-du-gia-tang-4729773.html) - 01:26 05/04/2024
