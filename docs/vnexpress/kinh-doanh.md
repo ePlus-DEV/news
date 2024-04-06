@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Vàng nhẫn lập kỷ lục hơn 73 triệu đồng](https://vnexpress.net/vang-nhan-lap-ky-luc-hon-73-trieu-dong-4731169.html) - 02:59 06/04/2024
+- ⛽️ [Vàng nhẫn lập kỷ lục hơn 73 triệu đồng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-6-4-4731169.html) - 02:59 06/04/2024
 - 🐲 [Giá vàng thế giới lên sát 2.330 USD](https://vnexpress.net/gia-vang-the-gioi-len-sat-2-330-usd-4731115.html) - 01:36 06/04/2024
 - 🔥 [Mỹ nỗ lực ngăn Trung Quốc &#39;xả&#39; hàng giá rẻ ra thế giới](https://vnexpress.net/my-no-luc-ngan-trung-quoc-xa-hang-gia-re-ra-the-gioi-4730920.html) - 23:16 05/04/2024
 - 🐵 [Sắp kiểm tra 6 casino, 10 công ty xổ số](https://vnexpress.net/sap-kiem-tra-6-casino-10-cong-ty-xo-so-4731093.html) - 23:05 05/04/2024
