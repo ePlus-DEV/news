@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nam sinh chuyên Nga đỗ Đại học Johns Hopkins](https://vnexpress.net/nam-sinh-chuyen-nga-do-dai-hoc-johns-hopkins-4731308.html) - 13:30 06/04/2024
+- 🤓 [Nam sinh đỗ đại học top 9 Mỹ với hồ sơ không điểm SAT](https://vnexpress.net/nam-sinh-do-dai-hoc-top-9-my-voi-ho-so-khong-diem-sat-4731308.html) - 13:30 06/04/2024
 - 🦆 [Ba tỉnh nào rộng nhất cả nước?](https://vnexpress.net/ba-tinh-nao-rong-nhat-ca-nuoc-4731220.html) - 13:00 06/04/2024
 - 🦩 [Cách biểu cảm trong giao tiếp bằng tiếng Anh](https://vnexpress.net/cach-bieu-cam-trong-giao-tiep-bang-tieng-anh-4729685.html) - 11:00 06/04/2024
 - 🌮 [Thêm diện xét danh hiệu Nhà giáo nhân dân, ưu tú](https://vnexpress.net/them-dien-xet-danh-hieu-nha-giao-nhan-dan-uu-tu-4731182.html) - 04:57 06/04/2024
