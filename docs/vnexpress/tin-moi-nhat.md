@@ -8,7 +8,7 @@ sidebar_position: 9
 - 🐎 [Dàn sao trong, ngoài nước hội tụ ở LHP quốc tế TP HCM](https://vnexpress.net/dan-sao-trong-ngoai-nuoc-hoi-tu-o-lhp-quoc-te-tp-hcm-4731289.html) - 12:01 06/04/2024
 - 🦍 [MV đầu tiên tạo hoàn toàn bằng AI Sora](https://vnexpress.net/mv-dau-tien-tao-hoan-toan-bang-ai-sora-4731161.html) - 12:00 06/04/2024
 - 🏊 [NASA tìm ra lỗi trục trặc trên tàu vũ trụ cách 24 tỷ km](https://vnexpress.net/nasa-tim-ra-loi-truc-trac-tren-tau-vu-tru-cach-24-ty-km-4731116.html) - 12:00 06/04/2024
-- 🎊 [Chị em đua nhau trèo cây chuối đoạt cờ ở Thanh Hóa](https://vnexpress.net/chi-em-dua-nhau-treo-cay-chuoi-doat-co-o-thanh-hoa-4730852.html) - 12:00 06/04/2024
+- 🎊 [Đua nhau trèo cây chuối thoa đầy dầu ăn](https://vnexpress.net/dua-nhau-treo-cay-chuoi-thoa-day-dau-an-4730852.html) - 12:00 06/04/2024
 - 🎃 [Đường về nhà của hàng nghìn binh sĩ Ukraine tử trận](https://vnexpress.net/duong-ve-nha-cua-hang-nghin-binh-si-ukraine-tu-tran-4729455.html) - 12:00 06/04/2024
 - 🧰 [Ca sĩ Quang Tú bị hoại tử chỏm xương đùi](https://vnexpress.net/ca-si-quang-tu-bi-hoai-tu-chom-xuong-dui-4731274.html) - 12:00 06/04/2024
 - 🔭 [Cựu Áo Vàng gặp nạn ở giải đua xe đạp xuyên Việt](https://vnexpress.net/cuu-ao-vang-gap-nan-o-giai-dua-xe-dap-xuyen-viet-4731302.html) - 11:48 06/04/2024
