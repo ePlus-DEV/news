@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Liverpool được dự đoán thắng đậm Man Utd](https://vnexpress.net/liverpool-duoc-du-doan-thang-dam-man-utd-4731199.html) - 04:01 06/04/2024
-- 🦩 [Tiền vệ Chelsea xô xát với Mason Mount](https://vnexpress.net/tien-ve-chelsea-xo-xat-voi-mason-mount-4731195.html) - 03:48 06/04/2024
+- 🦩 [Tiền vệ Chelsea chê Mason Mount hèn nhát](https://vnexpress.net/tien-ve-chelsea-che-mason-mount-hen-nhat-4731195.html) - 03:48 06/04/2024
 - 🧰 [Bốn cầu thủ Man Utd cùng cảnh báo trước bàn thua quyết định](https://vnexpress.net/bon-cau-thu-man-utd-cung-canh-bao-truoc-ban-thua-quyet-dinh-4731110.html) - 03:25 06/04/2024
 - 🤗 [Arsenal phòng ngự ấn tượng thế nào tại Ngoại hạng Anh](https://vnexpress.net/arsenal-phong-ngu-an-tuong-the-nao-tai-ngoai-hang-anh-4731159.html) - 03:06 06/04/2024
 - 🥳 [Mike Tyson: &#39;Nhiều người ghen tị vì tôi hút hàng tỷ lượt xem&#39;](https://vnexpress.net/mike-tyson-nhieu-nguoi-ghen-ti-vi-toi-hut-hang-ty-luot-xem-4731102.html) - 22:33 05/04/2024
