@@ -255,7 +255,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐎 [Hồng Ánh, Phương Anh Đào, Hứa Vỹ Văn… tụ hội thảm đỏ](https://nld.com.vn/hong-anh-phuong-anh-dao-hua-vy-van-tu-hoi-tham-do-196240406144051292.htm) - 12:09 06/04/2024
 - 😺 [Hai bé gái mất tích ở phố đi bộ Nguyễn Huệ, người mẹ khóc ròng](https://nld.com.vn/hai-be-gai-mat-tich-o-pho-di-bo-nguyen-hue-nguoi-me-khoc-rong-196240406094315785.htm) - 11:29 06/04/2024
 - 👍 [Gia đình bất ngờ khi hay tin con trai xin khai thác &quot;kho báu 3 tấn vàng&quot;](https://nld.com.vn/gia-dinh-bat-ngo-khi-hay-tin-con-trai-xin-khai-thac-kho-bau-3-tan-vang-196240406181304898.htm) - 11:20 06/04/2024
-- 🥷 [Đi tắm suối, nam sinh lớp 6 đuối nước tử vong](https://nld.com.vn/di-tam-suoi-nam-sinh-lop-6-duoi-nuoc-tu-vong-196240406172642003.htm) - 10:50 06/04/2024
+- 🥷 [Đi tắm suối, nữ sinh lớp 6 đuối nước tử vong](https://nld.com.vn/di-tam-suoi-nam-sinh-lop-6-duoi-nuoc-tu-vong-196240406172642003.htm) - 10:50 06/04/2024
 - 🤔 [Trường ĐH ở TP HCM cho sinh viên đăng ký học phần du học](https://nld.com.vn/truong-dh-o-tp-hcm-cho-sinh-vien-dang-ky-hoc-phan-du-hoc-196240406172512332.htm) - 10:33 06/04/2024
 - 🌈 [Cơ quan chức năng, luật sư nói gì về “kho báu 3 tấn vàng” dưới sông Cà Ty?](https://nld.com.vn/co-quan-chuc-nang-luat-su-noi-gi-ve-kho-bau-3-tan-vang-duoi-song-ca-ty-196240406171610145.htm) - 10:27 06/04/2024
 - 🔥 [VIDEO: Những xóm trọ nghèo vật vã dưới nắng nóng tại TP HCM](https://nld.com.vn/video-nhung-xom-tro-ngheo-vat-va-duoi-nang-nong-tai-tp-hcm-196240406164500439.htm) - 10:06 06/04/2024
