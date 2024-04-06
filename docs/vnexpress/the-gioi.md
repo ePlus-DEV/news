@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Loạt nghị sĩ Dân chủ kêu gọi ông Biden ngừng cấp vũ khí cho Israel](https://vnexpress.net/loat-nghi-si-dan-chu-keu-goi-ong-biden-ngung-cap-vu-khi-cho-israel-4731130.html) - 02:38 06/04/2024
 - 🕴 [Sai lầm khiến Israel không kích đoàn xe viện trợ ở Gaza](https://vnexpress.net/sai-lam-khien-israel-khong-kich-doan-xe-vien-tro-o-gaza-4730746.html) - 02:32 06/04/2024
-- 🤭 [Việt Nam tuyên bố tái ứng cử thành viên Hội đồng Nhân quyền LHQ](https://vnexpress.net/viet-nam-tuyen-bo-tai-ung-cu-thanh-vien-hoi-dong-nhan-quyen-lhq-4731150.html) - 02:29 06/04/2024
+- 🤭 [Việt Nam đề cao tôn trọng luật pháp quốc tế trong bảo vệ nhân quyền](https://vnexpress.net/viet-nam-de-cao-ton-trong-luat-phap-quoc-te-trong-bao-ve-nhan-quyen-4731150.html) - 02:29 06/04/2024
 - 🧑‍💻 [Mexico cho cựu phó tổng thống Ecuador tị nạn](https://vnexpress.net/mexico-cho-cuu-pho-tong-thong-ecuador-ti-nan-4731134.html) - 02:19 06/04/2024
 - 🦏 [Ukraine tố Nga tập kích kép Zaporizhzhia](https://vnexpress.net/ukraine-to-nga-tap-kich-kep-zaporizhzhia-4731112.html) - 02:00 06/04/2024
 - 🦒 [Ukraine không dám đưa xe tăng Abrams ra tiền tuyến](https://vnexpress.net/ukraine-khong-dam-dua-xe-tang-abrams-ra-tien-tuyen-4730984.html) - 00:58 06/04/2024
