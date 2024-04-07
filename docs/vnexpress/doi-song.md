@@ -5,7 +5,7 @@ sidebar_position: 6
 
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Khi bạn đời vẫn thương tình cũ](https://vnexpress.net/khi-ban-doi-van-thuong-tinh-cu-4730563.html) - 23:30 06/04/2024
-- 🎓 [Tiệm mì gõ 0 đồng trong đêm](https://vnexpress.net/tiem-mi-go-0-dong-trong-dem-4731158.html) - 23:00 06/04/2024
+- 🎓 [Tiệm mì gõ 0 đồng trong đêm ở Sài Gòn](https://vnexpress.net/tiem-mi-go-0-dong-trong-dem-o-sai-gon-4731158.html) - 23:00 06/04/2024
 - 🚦 [Mực trứng hấp lá lốt](https://vnexpress.net/muc-trung-hap-la-lot-4731249.html) - 10:34 06/04/2024
 - 🦣 [Đám cưới không theo kiểu truyền thống](https://vnexpress.net/dam-cuoi-khong-theo-kieu-truyen-thong-4731218.html) - 07:40 06/04/2024
 - 🎓 [Cuộc sống của cô gái có đôi chân dài nhất thế giới](https://vnexpress.net/cuoc-song-cua-co-gai-co-doi-chan-dai-nhat-the-gioi-4731166.html) - 07:22 06/04/2024
