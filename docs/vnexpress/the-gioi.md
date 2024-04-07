@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Mexico ra lệnh chăm sóc trọn đời 19 con mèo sống trong dinh tổng thống](https://vnexpress.net/mexico-ra-lenh-cham-soc-tron-doi-19-con-meo-song-trong-dinh-tong-thong-4731448.html) - 08:24 07/04/2024
+- 🎭 [Mexico ra lệnh chăm sóc trọn đời 19 con mèo trong dinh tổng thống](https://vnexpress.net/mexico-ra-lenh-cham-soc-tron-doi-19-con-meo-trong-dinh-tong-thong-4731448.html) - 08:24 07/04/2024
 - 🕴 [Một loạt khí tài Mỹ bị chậm tiến độ giao hàng](https://vnexpress.net/mot-loat-khi-tai-my-bi-cham-tien-do-giao-hang-4730458.html) - 06:55 07/04/2024
 - 🤭 [Thủ tướng Lý Cường: &#39;Bắc Kinh muốn Mỹ - Trung là đối tác, không phải đối thủ&#39;](https://vnexpress.net/thu-tuong-ly-cuong-bac-kinh-muon-my-trung-la-doi-tac-khong-phai-doi-thu-4731423.html) - 06:35 07/04/2024
 - 🧑‍💻 [Nghi vấn về tuyên bố &#39;phá hủy 6 tiêm kích Nga&#39; của Ukraine](https://vnexpress.net/nghi-van-ve-tuyen-bo-pha-huy-6-tiem-kich-nga-cua-ukraine-4731221.html) - 04:58 07/04/2024
