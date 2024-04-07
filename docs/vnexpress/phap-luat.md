@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Vì sao tiền gửi hơn 330 tỷ đồng của 8 khách hàng &#39;bốc hơi&#39; khỏi MSB?](https://vnexpress.net/vi-sao-tien-gui-hon-330-ty-dong-cua-8-khach-hang-boc-hoi-khoi-msb-4729856.html) - 05:32 07/04/2024
+- 😎 [Hơn 330 tỷ đồng của 8 khách hàng &#39;bốc hơi&#39; khỏi MSB như thế nào](https://vnexpress.net/vi-sao-tien-gui-hon-330-ty-dong-cua-8-khach-hang-boc-hoi-khoi-msb-4729856.html) - 05:32 07/04/2024
 - 🥰 [Nữ đại gia bị cáo buộc lừa 3,2 triệu USD của đối tác nước ngoài](https://vnexpress.net/nu-dai-gia-bi-cao-buoc-lua-3-2-trieu-usd-cua-doi-tac-nuoc-ngoai-4723152.html) - 23:00 06/04/2024
 - 🎓 [Cuộc trả thù tàn bạo của gã bán rong căm ghét cảnh sát](https://vnexpress.net/cuoc-tra-thu-tan-bao-cua-ga-ban-rong-cam-ghet-canh-sat-4730203.html) - 17:00 06/04/2024
 - 🤓 [Giả bị cướp để giấu tiền vợ](https://vnexpress.net/gia-bi-cuop-de-giau-tien-vo-4731288.html) - 11:21 06/04/2024
