@@ -172,7 +172,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😎 [Sao U.23 Việt Nam mơ đến Olympic, tiết lộ bất ngờ về ban cán sự đội](https://thanhnien.vn/sao-u23-viet-nam-mo-den-olympic-tiet-lo-bat-ngo-ve-ban-can-su-doi-185240407180125629.htm) - 11:05 07/04/2024
 - 🥰 [Iran cảnh báo mọi đại sứ quán Israel đều không an toàn](https://thanhnien.vn/iran-canh-bao-moi-dai-su-quan-israel-deu-khong-an-toan-185240407180232139.htm) - 11:03 07/04/2024
 - 🧑‍🏫 [Thành phố nào tại châu Âu được xem là hạnh phúc bậc nhất thế giới?](https://thanhnien.vn/thoi-trang-tre/thanh-pho-nao-tai-chau-au-duoc-xem-la-hanh-phuc-bac-nhat-the-gioi-185240405182517963.htm) - 11:00 07/04/2024
-- 💄 [Xe tải nổ lốp trên Tỉnh lộ 8, tông ô tô quay 180 độ](https://thanhnien.vn/xe-tai-no-lop-tren-tinh-lo-8-tong-o-to-quay-180-do-185240407175033821.htm) - 10:53 07/04/2024
+- 💄 [Xe tải nổ lốp trên tỉnh lộ 8, tông ô tô quay 180 độ](https://thanhnien.vn/xe-tai-no-lop-tren-tinh-lo-8-tong-o-to-quay-180-do-185240407175033821.htm) - 10:53 07/04/2024
 - 💯 [Mốc 3.000 USD/ounce không còn xa, có nên xuống tiền mua vàng?](https://thanhnien.vn/moc-3000-usd-ounce-khong-con-xa-co-nen-xuong-tien-mua-vang-185240407170705755.htm) - 10:48 07/04/2024
 - 🚀 [Bị thương vì thanh sắt rơi trúng đầu](https://thanhnien.vn/bi-thuong-vi-thanh-sat-roi-trung-dau-185240407164727169.htm) - 10:41 07/04/2024
 - 🦣 [2 bé gái được người phụ nữ dẫn vào cửa hàng mua đồ ăn rồi mất tích](https://thanhnien.vn/2-be-gai-duoc-nguoi-phu-nu-dan-vao-cua-hang-mua-do-an-roi-mat-tich-185240407163835863.htm) - 10:32 07/04/2024
