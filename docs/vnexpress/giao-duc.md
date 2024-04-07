@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nữ sinh tỉnh lẻ trúng tuyển đại học top 10 thế giới](https://vnexpress.net/nu-sinh-tinh-le-trung-tuyen-dai-hoc-top-10-the-gioi-4731340.html) - 23:00 07/04/2024
+- 🤓 [Nữ sinh đỗ đại học top 10 thế giới nhờ đam mê Triết học](https://vnexpress.net/nu-sinh-do-dai-hoc-top-10-the-gioi-nho-dam-me-triet-hoc-4731340.html) - 23:00 07/04/2024
 - 🦆 [Nam sinh giành học bổng 8,3 tỷ của trường Ivy League](https://vnexpress.net/nam-sinh-gianh-hoc-bong-8-3-ty-cua-truong-ivy-league-4730993.html) - 15:00 07/04/2024
 - 🦩 [Cô giáo bị đình chỉ dạy vì tát trẻ trong giờ ăn](https://vnexpress.net/co-giao-bi-dinh-chi-day-vi-tat-tre-trong-gio-an-4731498.html) - 13:47 07/04/2024
 - 🌮 [Người phụ nữ gốc Việt đầu tiên sắp bay vào vũ trụ là ai?](https://vnexpress.net/nguoi-phu-nu-goc-viet-dau-tien-sap-bay-vao-vu-tru-la-ai-4731465.html) - 13:00 07/04/2024
