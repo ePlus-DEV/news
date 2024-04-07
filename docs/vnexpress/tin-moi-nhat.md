@@ -7,7 +7,7 @@ sidebar_position: 9
 - 🎬 [Người Việt tại Trung Quốc đề xuất lập mạng lưới đổi mới sáng tạo](https://vnexpress.net/nguoi-viet-tai-trung-quoc-de-xuat-lap-mang-luoi-doi-moi-sang-tao-4731517.html) - 15:30 07/04/2024
 - 🐎 [Iran nói các đại sứ quán Israel &#39;không còn an toàn&#39;](https://vnexpress.net/iran-noi-cac-dai-su-quan-israel-khong-con-an-toan-4731522.html) - 15:06 07/04/2024
 - 🦍 [Nam sinh giành học bổng 8,3 tỷ của ngôi trường Ivy League](https://vnexpress.net/nam-sinh-gianh-hoc-bong-8-3-ty-cua-ngoi-truong-ivy-league-4730993.html) - 15:00 07/04/2024
-- 🏊 [Man Utd 2-1 Liverpool &lpar;H2&rpar;: Mainoo ghi siêu phẩm](https://vnexpress.net/man-utd-vs-liverpool-4731509.html) - 14:04 07/04/2024
+- 🏊 [Man Utd 1-1 Liverpool &lpar;H2&rpar;: Bruno Fernandes gỡ hòa](https://vnexpress.net/man-utd-vs-liverpool-4731509.html) - 14:04 07/04/2024
 - 🎊 [Israel rút quân khỏi thành trì của Hamas ở nam Gaza](https://vnexpress.net/israel-rut-quan-khoi-thanh-tri-cua-hamas-o-nam-gaza-4731504.html) - 14:00 07/04/2024
 - 🎃 [Lây bệnh lậu cho vợ sau quan hệ tình dục với trai lạ](https://vnexpress.net/lay-benh-lau-cho-vo-sau-quan-he-tinh-duc-voi-trai-la-4731475.html) - 14:00 07/04/2024
 - 🧰 [Vợ cũ từng hận khi bị tôi bỏ](https://vnexpress.net/vo-cu-tung-han-khi-bi-toi-bo-4731454.html) - 14:00 07/04/2024
