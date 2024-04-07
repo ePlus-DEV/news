@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Man Utd 0-0 Liverpool &lpar;H1&rpar;: Chủ nhà bị từ chối bàn](https://vnexpress.net/man-utd-vs-liverpool-4731509.html) - 14:04 07/04/2024
+- 🎬 [Man Utd 0-1 Liverpool &lpar;H1&rpar;: Diaz mở tỷ số](https://vnexpress.net/man-utd-vs-liverpool-4731509.html) - 14:04 07/04/2024
 - 🐎 [Israel rút quân khỏi thành trì của Hamas ở nam Gaza](https://vnexpress.net/israel-rut-quan-khoi-thanh-tri-cua-hamas-o-nam-gaza-4731504.html) - 14:00 07/04/2024
 - 🦍 [Lây bệnh lậu cho vợ sau quan hệ tình dục với trai lạ](https://vnexpress.net/lay-benh-lau-cho-vo-sau-quan-he-tinh-duc-voi-trai-la-4731475.html) - 14:00 07/04/2024
 - 🏊 [Vợ cũ từng hận khi bị tôi bỏ](https://vnexpress.net/vo-cu-tung-han-khi-bi-toi-bo-4731454.html) - 14:00 07/04/2024
