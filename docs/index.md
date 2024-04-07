@@ -215,7 +215,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦏 [Hiện trường bắt quả tang 10 đối tượng vào vườn dừa đá gà ăn thua bằng tiền](https://laodong.vn/ban-tin/hien-truong-bat-qua-tang-10-doi-tuong-vao-vuon-dua-da-ga-an-thua-bang-tien-1324652.ldo) - 14:04 07/04/2024
 - 🧰 [Ấm lòng những xe tải chở nước sạch cho người dân vùng hạn mặn Long An](https://laodong.vn/video/am-long-nhung-xe-tai-cho-nuoc-sach-cho-nguoi-dan-vung-han-man-long-an-1324647.ldo) - 14:03 07/04/2024
 - 🌊 [Nhịp showbiz: Hòa Minzy đáp trả khi được khen xinh hơn vợ Quang Hải](https://laodong.vn/giai-tri/nhip-showbiz-hoa-minzy-dap-tra-khi-duoc-khen-xinh-hon-vo-quang-hai-1324642.ldo) - 13:58 07/04/2024
-- 🔥 [Trực tiếp Man United 0-1 Liverpool: Hết hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-man-united-0-1-liverpool-het-hiep-1-1324658.ldo) - 13:58 07/04/2024
+- 🔥 [Trực tiếp Man United 0-1 Liverpool: Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-man-united-0-1-liverpool-hiep-2-1324658.ldo) - 13:58 07/04/2024
 - 🦒 [6 loại sinh tố giúp giảm cân nhanh chóng](https://laodong.vn/video-xa-hoi/6-loai-sinh-to-giup-giam-can-nhanh-chong-1323717.ldo) - 13:45 07/04/2024
 - 💼 [5 thực phẩm chứa tinh bột thay cơm trắng ăn vào buổi tối giúp giảm cân](https://laodong.vn/ban-tin/5-thuc-pham-chua-tinh-bot-thay-com-trang-an-vao-buoi-toi-giup-giam-can-1324408.ldo) - 13:30 07/04/2024
 - 🤖 [2 tiêu chuẩn về trình độ đào tạo, bồi dưỡng của viên chức y tế công cộng](https://laodong.vn/ban-doc/2-tieu-chuan-ve-trinh-do-dao-tao-boi-duong-cua-vien-chuc-y-te-cong-cong-1324533.ldo) - 13:30 07/04/2024
