@@ -584,7 +584,7 @@ Chính phủ ban hành](https://thuvienphapluat.vn/van-ban/The-thao-Y-te/Quyet-d
 - 🦍 [Dàn mỹ nhân nóng bỏng với bikini](https://tienphong.vn/dan-my-nhan-nong-bong-voi-bikini-post1626831.tpo) - 21:08 07/04/2024
 - 👹 [Cuộc xâm lăng của binh đoàn ký sinh trùng](https://tienphong.vn/cuoc-xam-lang-cua-binh-doan-ky-sinh-trung-post1626823.tpo) - 21:05 07/04/2024
 - 🌜 [Thành Long: &#39;Tim tôi như ngừng đập khi bạn bè nhắc đến tuổi 70&#39;](https://tienphong.vn/thanh-long-tim-toi-nhu-ngung-dap-khi-ban-be-nhac-den-tuoi-70-post1626880.tpo) - 21:02 07/04/2024
-- 🎓 [Trực tiếp MU vs Liverpool 0-1 &lpar;Hết H1&rpar;: Luiz Dias ghi bàn](https://tienphong.vn/truc-tiep-mu-vs-liverpool-0-1-het-h1-luiz-dias-ghi-ban-post1626938.tpo) - 20:48 07/04/2024
+- 🎓 [Trực tiếp MU vs Liverpool 1-1 &lpar;Hết H1&rpar;: MU cân bằng tỉ số](https://tienphong.vn/truc-tiep-mu-vs-liverpool-1-1-het-h1-mu-can-bang-ti-so-post1626938.tpo) - 20:48 07/04/2024
 - 🦣 [Cựu HLV Nam Định tuyên bố muốn dẫn dắt ĐT Hàn Quốc](https://tienphong.vn/cuu-hlv-nam-dinh-tuyen-bo-muon-dan-dat-dt-han-quoc-post1626901.tpo) - 20:41 07/04/2024
 - 🤓 [Tai nạn liên hoàn giữa 3 xe ô tô khách, 1 người tử vong](https://tienphong.vn/tai-nan-lien-hoan-giua-3-xe-o-to-khach-1-nguoi-tu-vong-post1626894.tpo) - 20:20 07/04/2024
 - 🌁 [3 người đàn ông lao ra biển cứu sống nhóm học sinh bị đuối nước](https://tienphong.vn/3-nguoi-dan-ong-lao-ra-bien-cuu-song-nhom-hoc-sinh-bi-duoi-nuoc-post1626915.tpo) - 20:02 07/04/2024
