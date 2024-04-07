@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Man Utd 2-1 Liverpool &lpar;H2&rpar;: Mainoo ghi siêu phẩm](https://vnexpress.net/man-utd-vs-liverpool-4731509.html) - 14:04 07/04/2024
+- 🪜 [Man Utd 2-2 Liverpool &lpar;H2&rpar;: Salah ghi bàn phạt đền](https://vnexpress.net/man-utd-vs-liverpool-4731509.html) - 14:04 07/04/2024
 - 🦩 [Red Bull thắng áp đảo tại Suzuka](https://vnexpress.net/red-bull-thang-ap-dao-tai-suzuka-4731507.html) - 13:49 07/04/2024
 - 🧰 [U23 Việt Nam thiệt quân trước ngày sang Qatar](https://vnexpress.net/u23-viet-nam-thiet-quan-truoc-ngay-sang-qatar-4731491.html) - 11:47 07/04/2024
 - 🤗 [Có nên chạy bộ mỗi ngày](https://vnexpress.net/co-nen-chay-bo-moi-ngay-4729724.html) - 09:20 07/04/2024
