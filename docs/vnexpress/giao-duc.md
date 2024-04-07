@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nam sinh giành học bổng 8,3 tỷ của ngôi trường Ivy League](https://vnexpress.net/nam-sinh-gianh-hoc-bong-8-3-ty-cua-ngoi-truong-ivy-league-4730993.html) - 15:00 07/04/2024
+- 🤓 [Nam sinh giành học bổng 8,3 tỷ của trường Ivy League](https://vnexpress.net/nam-sinh-gianh-hoc-bong-8-3-ty-cua-truong-ivy-league-4730993.html) - 15:00 07/04/2024
 - 🦆 [Cô giáo bị đình chỉ dạy vì tát trẻ trong giờ ăn](https://vnexpress.net/co-giao-bi-dinh-chi-day-vi-tat-tre-trong-gio-an-4731498.html) - 13:47 07/04/2024
 - 🦩 [Người phụ nữ gốc Việt đầu tiên sắp bay vào vũ trụ là ai?](https://vnexpress.net/nguoi-phu-nu-goc-viet-dau-tien-sap-bay-vao-vu-tru-la-ai-4731465.html) - 13:00 07/04/2024
 - 🌮 [Giáo viên nước ngoài &#39;hết hy vọng&#39; được Apax Leaders trả nợ lương](https://vnexpress.net/giao-vien-nuoc-ngoai-het-hy-vong-duoc-apax-leaders-tra-no-luong-4730821.html) - 12:00 07/04/2024
