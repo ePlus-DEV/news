@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Nam bảo vệ bế người phụ nữ bất tỉnh đi cấp cứu](https://vnexpress.net/nam-bao-ve-be-nguoi-phu-nu-bat-tinh-di-cap-cuu-4731918.html) - 13:33 08/04/2024
+- 🔥 [Việt Nam chỉ có 6 bệnh viện chẩn đoán người chết não](https://vnexpress.net/viet-nam-chi-co-6-benh-vien-chan-doan-nguoi-chet-nao-4731895.html) - 14:21 08/04/2024
 - 🥰 [Ăn gì vào buổi tối dễ mất ngủ?](https://vnexpress.net/an-gi-vao-buoi-toi-de-mat-ngu-4731677.html) - 12:00 08/04/2024
 - 💡 [Lý do nên chọn thực phẩm theo mùa](https://vnexpress.net/ly-do-nen-chon-thuc-pham-theo-mua-4731794.html) - 11:00 08/04/2024
 - 🤗 [40% ca lao trong cộng đồng chưa được phát hiện](https://vnexpress.net/40-ca-lao-trong-cong-dong-chua-duoc-phat-hien-4731869.html) - 10:40 08/04/2024
