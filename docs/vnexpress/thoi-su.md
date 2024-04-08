@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Chủ tịch, Phó chủ tịch tỉnh Quảng Nam bị miễn nhiệm](https://vnexpress.net/chu-tich-pho-chu-tich-tinh-quang-nam-bi-mien-nhiem-4731575.html) - 02:26 08/04/2024
 - 🤓 [Lấy ý kiến người dân về lát đá hoa cương hồ Thiền Quang](https://vnexpress.net/lay-y-kien-nguoi-dan-ve-lat-da-hoa-cuong-ho-thien-quang-4731515.html) - 22:00 07/04/2024
 - ⚗️ [Người dân kể khoảnh khắc nhà đổ sụt xuống sông Cầu](https://video.vnexpress.net/nguoi-dan-ke-khoanh-khac-nha-do-sut-xuong-song-cau-4731462.html) - 11:57 07/04/2024
-- 🌊 [Quân khu 9 điều tàu chở nước cho người dân vùng hạn](https://vnexpress.net/quan-khu-9-cap-mien-phi-cho-nguoi-dan-vung-han-4731470.html) - 10:40 07/04/2024
+- 🌊 [Quân đội điều tàu chở nước cho người dân vùng hạn](https://vnexpress.net/quan-khu-9-cap-mien-phi-cho-nguoi-dan-vung-han-4731470.html) - 10:40 07/04/2024
 - 🎓 [Hiện trường 5 ngôi nhà đổ nghiêng ở Bắc Ninh](https://vnexpress.net/hien-truong-5-ngoi-nha-do-nghieng-o-bac-ninh-4731469.html) - 10:24 07/04/2024
 - 🔥 [&#39;Miền Tây cần chủ động chung sống với hạn mặn&#39;](https://vnexpress.net/mien-tay-can-chu-dong-chung-song-voi-han-man-4731410.html) - 10:22 07/04/2024
 - 🦏 [Người mẹ trình báo hai con gái mất tích ở phố đi bộ Nguyễn Huệ](https://vnexpress.net/nguoi-me-trinh-bao-hai-con-gai-mat-tich-o-pho-di-bo-nguyen-hue-4731442.html) - 07:27 07/04/2024
