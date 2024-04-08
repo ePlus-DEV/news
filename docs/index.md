@@ -622,7 +622,7 @@ Chính phủ ban hành](https://thuvienphapluat.vn/van-ban/The-thao-Y-te/Quyet-d
 - 📝 [Bác sĩ 2 quốc gia phối hợp cứu bệnh nhân &#39;thập tử nhất sinh&#39;](https://tienphong.vn/bac-si-2-quoc-gia-phoi-hop-cuu-benh-nhan-thap-tu-nhat-sinh-post1627151.tpo) - 16:57 08/04/2024
 - 🪄 [Nhân vật gây sốc nhất bộ phim ngoại tình sắp ra rạp Việt](https://tienphong.vn/nhan-vat-gay-soc-nhat-bo-phim-ngoai-tinh-sap-ra-rap-viet-post1627144.tpo) - 16:53 08/04/2024
 - 🪜 [Chốt phương án hoán đổi để nghỉ lễ 30/4-1/5 trong ngày hôm nay](https://tienphong.vn/chot-phuong-an-hoan-doi-de-nghi-le-304-15-trong-ngay-hom-nay-post1627176.tpo) - 16:52 08/04/2024
-- 🤡 [Thực hư việc khách sạn &#39;triệu view&#39; ở Phú Quốc chỉ 200.000 đồng](https://tienphong.vn/thuc-hu-viec-khach-san-trieu-view-o-phu-quoc-chi-200000-dong-post1627105.tpo) - 16:51 08/04/2024
+- 🤡 [Bí kíp du lịch Phú Quốc giá tốt, ở khách sạn &#39;triệu view&#39;](https://tienphong.vn/bi-kip-du-lich-phu-quoc-gia-tot-o-khach-san-trieu-view-post1627105.tpo) - 16:51 08/04/2024
 - 🌮 [NCB và Miu Lê mang thông điệp &#39;Mơ là phải Mở&#39; đến cộng đồng yêu nhạc](https://tienphong.vn/ncb-va-miu-le-mang-thong-diep-mo-la-phai-mo-den-cong-dong-yeu-nhac-post1627174.tpo) - 16:51 08/04/2024
 - 🕯 [Bất ngờ thay đổi thời gian tổ chức Carnaval Hạ Long](https://tienphong.vn/bat-ngo-thay-doi-thoi-gian-to-chuc-carnaval-ha-long-post1627141.tpo) - 16:43 08/04/2024
 - 🌜 [Chiêm ngưỡng đô thị Huế với 7 di sản thế giới từ trên cao](https://tienphong.vn/chiem-nguong-do-thi-hue-voi-7-di-san-the-gioi-tu-tren-cao-post1627175.tpo) - 16:38 08/04/2024
