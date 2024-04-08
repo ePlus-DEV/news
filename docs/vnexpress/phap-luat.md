@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Lừa bán điện thoại chính hãng giá rẻ cho 7.000 người](https://vnexpress.net/lua-ban-dien-thoai-chinh-hang-gia-re-cho-7-000-nguoi-4731705.html) - 05:40 08/04/2024
 - 🥰 [Kẻ giết người và buôn ma túy rủ nhau trốn truy nã hơn 20 năm](https://vnexpress.net/ke-giet-nguoi-va-buon-ma-tuy-ru-nhau-tron-truy-na-hon-20-nam-4731519.html) - 05:02 08/04/2024
-- 🎓 [Tài xế đối mặt án chung thân vì tông chết bảo vệ khi bị khóa bánh ôtô](https://vnexpress.net/tai-xe-ra-toa-vi-tong-chet-bao-ve-khi-bi-khoa-banh-oto-4731632.html) - 03:42 08/04/2024
+- 🎓 [Tài xế tông chết bảo vệ chung cư: &#39;Tôi uống rượu nhưng không say&#39;](https://vnexpress.net/tai-xe-ra-toa-vi-tong-chet-bao-ve-khi-bi-khoa-banh-oto-4731632.html) - 03:42 08/04/2024
 - 🤓 [Tòa triệu tập Miss Grand Lê Hoàng Phương trong vụ công ty quản lý bị kiện](https://vnexpress.net/toa-trieu-tap-miss-grand-le-hoang-phuong-trong-vu-cong-ty-quan-ly-bi-kien-4731638.html) - 03:36 08/04/2024
 - 🎊 [Bi kịch của người phụ nữ chấp nhận chung chồng](https://vnexpress.net/bi-kich-cua-nguoi-phu-nu-chap-nhan-chung-chong-4731520.html) - 01:28 08/04/2024
 - 🙉 [Mẹ bị bắt vì để con 7 tuổi đi bộ 12 km đến trường](https://vnexpress.net/me-bi-bat-vi-de-con-7-tuoi-di-bo-12-km-den-truong-4731524.html) - 01:27 08/04/2024
