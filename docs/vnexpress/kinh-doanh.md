@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Tiêu thụ điện dự báo tăng kỷ lục](https://vnexpress.net/tieu-thu-dien-4731891.html) - 12:25 08/04/2024
-- 🐲 [PepsiCo Việt Nam xây nhà máy tại Long An lớn nhất châu Á - Thái Bình Dương](https://vnexpress.net/pepsico-viet-nam-xay-nha-may-tai-long-an-lon-nhat-chau-a-thai-binh-duong-4731663.html) - 09:34 08/04/2024
+- 🐲 [Suntory PepsiCo Việt Nam xây nhà máy tại Long An lớn nhất châu Á - Thái Bình Dương](https://vnexpress.net/suntory-pepsico-viet-nam-xay-nha-may-tai-long-an-lon-nhat-chau-a-thai-binh-duong-4731663.html) - 09:34 08/04/2024
 - 🔥 [Niềm tin doanh nghiệp châu Âu ở Việt Nam cao nhất hai năm](https://vnexpress.net/niem-tin-doanh-nghiep-chau-au-o-viet-nam-cao-nhat-hai-nam-4731725.html) - 09:34 08/04/2024
 - 🐵 [Chứng khoán giảm phiên thứ tư liên tiếp](https://vnexpress.net/chung-khoan-giam-phien-thu-tu-lien-tiep-4731831.html) - 08:49 08/04/2024
 - 🦅 [Hoa hậu Ngọc Hân thu nhập năm ngoái hơn tỷ đồng tại công ty địa ốc](https://vnexpress.net/hoa-hau-ngoc-han-thu-nhap-nam-ngoai-hon-ty-dong-tai-cong-ty-dia-oc-4731805.html) - 08:31 08/04/2024
