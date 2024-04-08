@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Lào đề nghị Việt Nam giúp ổn định nguồn cung xăng dầu](https://vnexpress.net/lao-de-nghi-viet-nam-giup-on-dinh-nguon-cung-xang-dau-4731917.html) - 15:00 08/04/2024
+- ⛽️ [Lào đề nghị Việt Nam giúp ổn định nguồn cung xăng dầu](https://vnexpress.net/xuat-khau-xang-dau-sang-lao-4731917.html) - 15:00 08/04/2024
 - 🐲 [Tập đoàn Nga muốn làm điện gió ngoài khơi Việt Nam](https://vnexpress.net/tap-doan-nga-muon-lam-dien-gio-ngoai-khoi-viet-nam-4731903.html) - 14:40 08/04/2024
 - 🔥 [Đề án một triệu ha lúa chất lượng cao cần vay World Bank 9.000 tỷ đồng](https://vnexpress.net/de-an-mot-trieu-ha-lua-chat-luong-cao-can-vay-world-bank-9-000-ty-dong-4731919.html) - 14:25 08/04/2024
 - 🐵 [Tiêu thụ điện dự báo tăng kỷ lục](https://vnexpress.net/tieu-thu-dien-4731891.html) - 12:25 08/04/2024
