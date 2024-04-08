@@ -11,7 +11,7 @@ sidebar_position: 9
 - 🎊 [40% ca lao trong cộng đồng chưa được phát hiện](https://vnexpress.net/40-ca-lao-trong-cong-dong-chua-duoc-phat-hien-4731869.html) - 10:40 08/04/2024
 - 🎃 [Gần 300 điểm sạt lở ở Kiên Giang](https://vnexpress.net/gan-300-diem-sat-lo-o-kien-giang-4731850.html) - 10:28 08/04/2024
 - 🧰 [Hai băng tần 5G có giá hơn 10 nghìn tỷ đồng](https://vnexpress.net/hai-bang-tan-5g-co-gia-hon-10-nghin-ty-dong-4731853.html) - 10:27 08/04/2024
-- 🔭 [Điểm tin 17h: Chứng minh nhân dân sắp hết giá trị sử dụng; Giải cứu hai bé gái bị bắt cóc trên phố đi bộ Nguyễn Huệ](https://vnexpress.net/diem-tin-17h-chung-minh-nhan-dan-sap-het-gia-tri-su-dung-giai-cuu-hai-be-gai-bi-bat-coc-tren-pho-di-bo-nguyen-hue-4731875.html) - 10:15 08/04/2024
+- 🔭 [Điểm tin 17h: Chứng minh nhân dân sắp hết giá trị sử dụng; Vàng nhẫn vượt 75 triệu đồng](https://vnexpress.net/diem-tin-17h-chung-minh-nhan-dan-sap-het-gia-tri-su-dung-vang-nhan-vuot-75-trieu-dong-4731875.html) - 10:15 08/04/2024
 - 🫶 [Khan Younis hoang tàn sau 4 tháng bị Israel vây hãm](https://vnexpress.net/khan-younis-hoang-tan-sau-4-thang-bi-israel-vay-ham-4731736.html) - 10:03 08/04/2024
 - 🪜 [Vì sao thu nhập thụ động tốt hơn &#39;nghề tay trái&#39;?](https://vnexpress.net/vi-sao-thu-nhap-thu-dong-tot-hon-nghe-tay-trai-4731832.html) - 10:01 08/04/2024
 - 👨‍🏫 [Giải cứu hai bé gái bị bắt cóc trên phố đi bộ Nguyễn Huệ](https://vnexpress.net/giai-cuu-hai-be-gai-bi-bat-coc-tren-pho-di-bo-nguyen-hue-4731867.html) - 10:00 08/04/2024
