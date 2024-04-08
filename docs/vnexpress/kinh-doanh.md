@@ -37,7 +37,7 @@ sidebar_position: 3
 - 🫣 [Novaland đặt mục tiêu doanh thu hơn tỷ USD](https://vnexpress.net/novaland-dat-muc-tieu-doanh-thu-hon-ty-usd-4730838.html) - 04:40 05/04/2024
 - 🌏 [HDBank đặt mục tiêu tăng trưởng lợi nhuận trên 21%](https://vnexpress.net/hdbank-dat-muc-tieu-tang-truong-loi-nhuan-tren-21-4730790.html) - 04:00 05/04/2024
 - ⚗️ [Samsung ước tính lợi nhuận tăng 10 lần nhờ mảng chip](https://vnexpress.net/samsung-uoc-tinh-loi-nhuan-tang-10-lan-nho-mang-chip-4730734.html) - 02:12 05/04/2024
-- 🕯 [Công ty đầu tư Sunworld Hạ Long lần đầu báo lỗ](https://vnexpress.net/cong-ty-dau-tu-sunworld-ha-long-lan-dau-bao-lo-4730687.html) - 02:00 05/04/2024
+- 🕯 [Chủ đầu tư cáp treo Hạ Long lần đầu báo lỗ](https://vnexpress.net/chu-dau-tu-cap-treo-ha-long-lan-dau-bao-lo-4730687.html) - 02:00 05/04/2024
 - 👍 [DNSE vào top 5 thị phần môi giới phái sinh trên HNX](https://vnexpress.net/dnse-vao-top-5-thi-phan-moi-gioi-phai-sinh-tren-hnx-4730684.html) - 02:00 05/04/2024
 - 🤠 [Giá vàng thế giới nối dài chuỗi kỷ lục](https://vnexpress.net/gia-vang-the-gioi-noi-dai-chuoi-ky-luc-4730735.html) - 01:14 05/04/2024
 - 🌊 [Kinh tế có tín hiệu phục hồi](https://vnexpress.net/kinh-te-co-tin-hieu-phuc-hoi-4730601.html) - 00:39 05/04/2024
