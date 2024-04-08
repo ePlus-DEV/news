@@ -392,8 +392,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Thẩm quyền quyết định chuyển mục đích sử dụng đất](https://baochinhphu.vn/tham-quyen-quyet-dinh-chuyen-muc-dich-su-dung-dat-102240401162922913.htm) - 08:02 08/04/2024
-- 🌜 [OCB giới thiệu Apple Pay đến chủ thẻ Mastercard](https://baochinhphu.vn/ocb-gioi-thieu-apple-pay-den-chu-the-mastercard-1022404071519432.htm) - 08:00 08/04/2024
+- 💻 [Chưa ký hợp đồng lao động có phải đóng BHXH bắt buộc?](https://baochinhphu.vn/chua-ky-hop-dong-lao-dong-co-phai-dong-bhxh-bat-buoc-102240323113729472.htm) - 09:02 08/04/2024
+- 🌜 [Thẩm quyền quyết định chuyển mục đích sử dụng đất](https://baochinhphu.vn/tham-quyen-quyet-dinh-chuyen-muc-dich-su-dung-dat-102240401162922913.htm) - 08:02 08/04/2024
 - 🦆 [Quy định về dịch công chứng nhãn sản phẩm nhập khẩu](https://baochinhphu.vn/quy-dinh-ve-dich-cong-chung-nhan-san-pham-nhap-khau-102240405130626262.htm) - 07:02 08/04/2024
 - 🌝 [Sửa Luật Thuế Giá trị gia tăng: Điều gì khiến doanh nghiệp chế xuất lo lắng](https://baochinhphu.vn/sua-luat-thue-gia-tri-gia-tang-dieu-gi-khien-doanh-nghiep-che-xuat-lo-lang-102240408072948182.htm) - 06:21 08/04/2024
 - 🦣 [Thủ tướng yêu cầu tăng cường bảo đảm an toàn thông tin mạng](https://baochinhphu.vn/thu-tuong-yeu-cau-tang-cuong-bao-dam-an-toan-thong-tin-mang-102240408013710543.htm) - 01:20 08/04/2024
