@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Gánh nợ vì chuộng chuyển khoản](https://vnexpress.net/ganh-no-vi-chuong-chuyen-khoan-4730697.html) - 23:00 08/04/2024
+- 🚀 [Mặt trái của thói quen không tiền mặt](https://vnexpress.net/mat-trai-cua-thoi-quen-khong-tien-mat-4730697.html) - 23:00 08/04/2024
 - 🎓 [Bí quyết rang nhộng tằm](https://vnexpress.net/bi-quyet-rang-nhong-tam-4731855.html) - 12:00 08/04/2024
 - 🚦 [Vì sao thu nhập thụ động tốt hơn &#39;nghề tay trái&#39;?](https://vnexpress.net/vi-sao-thu-nhap-thu-dong-tot-hon-nghe-tay-trai-4731832.html) - 10:01 08/04/2024
 - 🦣 [Đau đầu với nhân viên Gen Z](https://vnexpress.net/dau-dau-voi-nhan-vien-gen-z-4731674.html) - 06:46 08/04/2024
