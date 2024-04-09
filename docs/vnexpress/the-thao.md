@@ -63,4 +63,4 @@ sidebar_position: 5
 - 🤩 [Tiền vệ Chelsea chê Mason Mount hèn nhát](https://vnexpress.net/tien-ve-chelsea-che-mason-mount-hen-nhat-4731195.html) - 03:48 06/04/2024
 - 🏊 [Bốn cầu thủ Man Utd cùng cảnh báo trước bàn thua quyết định](https://vnexpress.net/bon-cau-thu-man-utd-cung-canh-bao-truoc-ban-thua-quyet-dinh-4731110.html) - 03:25 06/04/2024
 - 🐎 [Arsenal phòng ngự ấn tượng thế nào tại Ngoại hạng Anh](https://vnexpress.net/arsenal-phong-ngu-an-tuong-the-nao-tai-ngoai-hang-anh-4731159.html) - 03:06 06/04/2024
-- 💫 [Arteta muốn Arsenal học thế hệ bất bại của Wenger](https://vnexpress.net/arteta-muon-arsenal-hoc-the-he-bat-bai-cua-wenger-4731085.html) - 21:00 05/04/2024<!-- vnexpress-the-thao:END -->
+- 💫 [Guardiola thừa nhận Man City thất thế khi đua vô địch](https://vnexpress.net/guardiola-thua-nhan-man-city-that-the-khi-dua-vo-dich-4731087.html) - 21:00 05/04/2024<!-- vnexpress-the-thao:END -->
