@@ -10,7 +10,7 @@ sidebar_position: 3
 - 🐵 [Măng cụt xanh gọt vỏ 800.000 đồng một kg](https://vnexpress.net/mang-cut-xanh-got-vo-800-000-dong-mot-kg-4731609.html) - 05:14 09/04/2024
 - 🦅 [Vợ ông Johnathan Hạnh Nguyễn được đề cử vào HĐQT Sasco](https://vnexpress.net/vo-ong-johnathan-hanh-nguyen-duoc-de-cu-vao-hdqt-sasco-4732113.html) - 04:46 09/04/2024
 - 😺 [Doanh nghiệp Hàn ở Việt Nam lo ngại đối thủ Trung Quốc vượt lên](https://vnexpress.net/doanh-nghiep-han-o-viet-nam-lo-ngai-doi-thu-trung-quoc-vuot-len-4731731.html) - 03:49 09/04/2024
-- 🤩 [Giá vàng miếng SJC lập kỷ lục 83,5 triệu đồng](https://vnexpress.net/gia-vang-mieng-lap-ky-luc-83-5-trieu-dong-4732087.html) - 03:38 09/04/2024
+- 🤩 [Mỗi lượng vàng miếng tăng 2 triệu đồng](https://vnexpress.net/gia-vang-mieng-lap-ky-luc-tren-84-trieu-dong-4732087.html) - 03:38 09/04/2024
 - 🌮 [Lào đề nghị giá bán điện cho Việt Nam từ 6,95 cent một kWh](https://vnexpress.net/mua-dien-tu-lao-4732006.html) - 03:08 09/04/2024
 - 🧰 [Các hãng thực phẩm Mỹ lo giới bình dân thắt chặt chi tiêu](https://vnexpress.net/cac-hang-thuc-pham-my-lo-gioi-binh-dan-that-chat-chi-tieu-4731930.html) - 23:59 08/04/2024
 - 🤔 [EVN đề xuất thí điểm giá điện hai thành phần năm nay](https://vnexpress.net/thi-diem-gia-dien-hai-thanh-phan-4731946.html) - 23:58 08/04/2024
