@@ -30,7 +30,7 @@ sidebar_position: 3
 - 🎓 [Việt Nam muốn Lào hạ giá bán than](https://vnexpress.net/nhap-than-tu-lao-4731415.html) - 04:54 07/04/2024
 - 🗽 [Gần 2 triệu đồng một con cua huỳnh đế đỏ](https://vnexpress.net/gan-2-trieu-dong-mot-con-cua-huynh-de-do-4731360.html) - 03:11 07/04/2024
 - 🚀 [Quỹ bình ổn &#39;không giúp bình ổn giá xăng dầu&#39;](https://vnexpress.net/quy-binh-on-gia-xang-dau-4731282.html) - 00:00 07/04/2024
-- 🤗 [Lợi nhuận BIM Land giảm hơn một nửa](https://vnexpress.net/loi-nhuan-bim-land-giam-hon-mot-nua-4731271.html) - 17:05 06/04/2024
+- 🤗 [Lợi nhuận BIM Land giảm mạnh](https://vnexpress.net/loi-nhuan-bim-land-giam-manh-4731271.html) - 17:05 06/04/2024
 - 🌜 [Jackpot phụ gần 68 tỷ đồng có chủ](https://vnexpress.net/jackpot-phu-gan-68-ty-dong-co-chu-4731305.html) - 12:53 06/04/2024
 - 👍 [Nhiều tôm hùm bông ở Khánh Hòa chết](https://vnexpress.net/nhieu-tom-hum-bong-o-khanh-hoa-chet-4731276.html) - 12:04 06/04/2024
 - 🤖 [Vingroup thoái vốn Vincom Retail cho ai?](https://vnexpress.net/vingroup-thoai-von-vincom-retail-cho-ai-4731290.html) - 11:31 06/04/2024
