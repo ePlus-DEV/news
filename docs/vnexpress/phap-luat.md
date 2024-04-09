@@ -22,7 +22,7 @@ sidebar_position: 12
 - 🫶 [Kẻ giết người và buôn ma túy rủ nhau trốn truy nã hơn 20 năm](https://vnexpress.net/ke-giet-nguoi-va-buon-ma-tuy-ru-nhau-tron-truy-na-hon-20-nam-4731519.html) - 05:02 08/04/2024
 - 🐲 [Tài xế tông chết bảo vệ khi bị khóa bánh xe lĩnh án chung thân](https://vnexpress.net/tai-xe-ra-toa-vi-tong-chet-bao-ve-khi-bi-khoa-banh-oto-4731632.html) - 03:42 08/04/2024
 - 🚀 [Tòa triệu tập Miss Grand Lê Hoàng Phương trong vụ công ty quản lý bị kiện](https://vnexpress.net/toa-trieu-tap-miss-grand-le-hoang-phuong-trong-vu-cong-ty-quan-ly-bi-kien-4731638.html) - 03:36 08/04/2024
-- 🎊 [Bi kịch của người phụ nữ chấp nhận chung chồng](https://vnexpress.net/bi-kich-cua-nguoi-phu-nu-chap-nhan-chung-chong-4731520.html) - 01:28 08/04/2024
+- 🎊 [Cái chết của người phụ nữ chấp nhận chung chồng](https://vnexpress.net/cai-chet-cua-nguoi-phu-nu-chap-nhan-chung-chong-4731520.html) - 01:28 08/04/2024
 - 🤗 [Mẹ bị bắt vì để con 7 tuổi đi bộ 12 km đến trường](https://vnexpress.net/me-bi-bat-vi-de-con-7-tuoi-di-bo-12-km-den-truong-4731524.html) - 01:27 08/04/2024
 - 🗽 [Nữ công an bị điều tra tổ chức &#39;tiệc ma túy&#39;](https://vnexpress.net/nu-cong-an-bi-dieu-tra-to-chuc-tiec-ma-tuy-4731503.html) - 12:47 07/04/2024
 - 🕴 [Sát hại bạn trên bàn nhậu](https://vnexpress.net/sat-hai-ban-tren-ban-nhau-4731494.html) - 12:25 07/04/2024
