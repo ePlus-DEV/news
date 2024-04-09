@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Bảo vệ chung cư &#39;lấy quyền gì&#39; để khóa bánh, phạt ôtô đậu sai?](https://vnexpress.net/bao-ve-chung-cu-lay-quyen-gi-de-khoa-banh-phat-oto-dau-sai-4732088.html) - 04:24 09/04/2024
 - 🥰 [Cựu chủ tịch FLC Trịnh Văn Quyết bị truy tố](https://vnexpress.net/cuu-chu-tich-flc-trinh-van-quyet-bi-truy-to-4732106.html) - 03:45 09/04/2024
-- 🎓 [Chủ tịch Vimedimex dìm giá đất ở Đông Anh để bán cao gấp 4 lần](https://vnexpress.net/chu-tich-vimedimex-dim-gia-dat-dong-anh-de-ban-cao-gap-4-lan-4731888.html) - 01:26 09/04/2024
+- 🎓 [Chủ tịch Vimedimex kêu oan vụ dìm giá đất ở Đông Anh](https://vnexpress.net/chu-tich-vimedimex-dim-gia-dat-dong-anh-de-ban-cao-gap-4-lan-4731888.html) - 01:26 09/04/2024
 - 🤓 [Bi kịch gia đình khi không vượt qua được cám dỗ mua dâm](https://vnexpress.net/bi-kich-gia-dinh-khi-khong-vuot-qua-duoc-cam-do-mua-dam-4731900.html) - 17:00 08/04/2024
 - 🎊 [Đặt bảng quảng cáo &#39;nhái&#39; biển báo giao thông, có bị phạt?](https://vnexpress.net/dat-bang-quang-cao-nhai-bien-bao-giao-thong-co-bi-phat-4729000.html) - 17:00 08/04/2024
 - 🙉 [Nữ đại úy sử dụng ma túy bị tước danh hiệu Công an nhân dân](https://vnexpress.net/nu-dai-uy-su-dung-ma-tuy-bi-tuoc-danh-hieu-cong-an-nhan-dan-4731931.html) - 14:41 08/04/2024
