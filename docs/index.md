@@ -285,7 +285,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦅 [Bản hit mới của Hồ Ngọc Hà](https://nld.com.vn/ban-hit-moi-cua-ho-ngoc-ha-196240410090608539.htm) - 02:37 10/04/2024
 - 🦏 [Thánh địa Mỹ Sơn và những phát hiện khảo cổ lý thú](https://nld.com.vn/thanh-dia-my-son-va-nhung-phat-hien-khao-co-ly-thu-196240409213149106.htm) - 02:34 10/04/2024
 - 🗽 [Rút BHXH một lần, số tiền người lao động nhận được có ít hơn khoản tiền đã đóng?](https://nld.com.vn/rut-bhxh-mot-lan-so-tien-nguoi-lao-dong-nhan-duoc-co-it-hon-khoan-tien-da-dong-196240410092923038.htm) - 02:31 10/04/2024
-- 🔭 [Yêu cầu cấp thiết về công nghệ](https://nld.com.vn/yeu-cau-cap-thiet-ve-cong-nghe-196240409212703496.htm) - 02:29 10/04/2024
+- 🔭 [Tìm lời giải cho đô thị văn minh &lpar;*&rpar;: Yêu cầu cấp thiết về công nghệ](https://nld.com.vn/tim-loi-giai-cho-do-thi-van-minh-yeu-cau-cap-thiet-ve-cong-nghe-196240409212703496.htm) - 02:29 10/04/2024
 - 👍 [Phương Mỹ Chi, Ái Phương trổ tài hát nhạc phim!](https://nld.com.vn/phuong-my-chi-ai-phuong-tro-tai-hat-nhac-phim-196240410084802789.htm) - 02:19 10/04/2024
 - ⛽️ [Tiêu thụ điện tại TP HCM có thể lên đến 100 triệu KWh/ngày do nắng nóng](https://nld.com.vn/tieu-thu-dien-tai-tp-hcm-co-the-len-den-100-trieu-kwh-ngay-do-nang-nong-196240409205148528.htm) - 02:15 10/04/2024
 - 🥸 [Nga đào sâu cuộc khủng bố gần Moscow, Mỹ nói lời dứt khoát](https://nld.com.vn/nga-dao-sau-cuoc-khung-bo-gan-moscow-my-noi-loi-dut-khoat-196240410084812136.htm) - 02:14 10/04/2024
