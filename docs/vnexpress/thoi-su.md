@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [9 năm chưa mở rộng được 2 km đường kết nối bến xe Miền Đông mới](https://vnexpress.net/9-nam-chua-mo-rong-duoc-2-km-duong-ket-noi-ben-xe-mien-dong-moi-4732295.html) - 03:56 10/04/2024
-- 🤓 [Trồng hàng nghìn mầm sen Bách Diệp trên Hồ Tây](https://video.vnexpress.net/trong-hang-nghin-mam-sen-bach-diep-tren-ho-tay-4732372.html) - 02:44 10/04/2024
+- 🤓 [Sen Bách Diệp được trồng khôi phục trên Hồ Tây thế nào](https://video.vnexpress.net/sen-bach-diep-duoc-trong-khoi-phuc-tren-ho-tay-the-nao-4732372.html) - 02:44 10/04/2024
 - ⚗️ [Người Sài Gòn chống chọi nắng nóng hơn 40 độ C](https://vnexpress.net/nguoi-sai-gon-chong-choi-nang-nong-hon-40-do-c-4732354.html) - 00:00 10/04/2024
 - 🌊 [&#39;Ưu tiên khởi công đường sắt tốc độ cao sang Trung Quốc trước 2030&#39;](https://vnexpress.net/uu-tien-khoi-cong-duong-sat-toc-do-cao-sang-trung-quoc-truoc-2030-4732389.html) - 17:01 09/04/2024
 - 🎓 [Hồ nước ngọt lớn nhất Cà Mau hoàn thành vào tháng 5](https://vnexpress.net/ho-nuoc-ngot-lon-nhat-ca-mau-hoan-thanh-vao-thang-5-4732345.html) - 17:00 09/04/2024
