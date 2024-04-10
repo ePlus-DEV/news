@@ -6,8 +6,8 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Trọng tài vung tay trúng mặt Haaland](https://vnexpress.net/trong-tai-vung-tay-trung-mat-haaland-4732581.html) - 11:25 10/04/2024
 - 🦩 [Simeone: &#39;Dortmund là lá thăm khó nhất với Atletico&#39;](https://vnexpress.net/simeone-dortmund-la-la-tham-kho-nhat-voi-atletico-4732809.html) - 11:05 10/04/2024
-- 🧰 [Enrique ám chỉ Xavi không hợp với Barca](https://vnexpress.net/enrique-am-chi-xavi-khong-hop-voi-barca-4732766.html) - 11:00 10/04/2024
-- 🤗 [Mbappe cảnh báo Barca](https://vnexpress.net/mbappe-canh-bao-barca-4732725.html) - 11:00 10/04/2024
+- 🧰 [Mbappe cảnh báo Barca](https://vnexpress.net/mbappe-canh-bao-barca-4732725.html) - 11:00 10/04/2024
+- 🤗 [Enrique ám chỉ Xavi không hợp với Barca](https://vnexpress.net/enrique-am-chi-xavi-khong-hop-voi-barca-4732766.html) - 11:00 10/04/2024
 - 🥳 [Cầu thủ Việt Nam thuộc nhóm thấp bé nhất U23 châu Á 2024](https://vnexpress.net/cau-thu-viet-nam-thuoc-nhom-thap-be-nhat-u23-chau-a-2024-4732770.html) - 10:21 10/04/2024
 - 🦣 [An Giang mạo hiểm để thắng lớn ở giải đua xe đạp xuyên Việt](https://vnexpress.net/an-giang-mao-hiem-de-thang-lon-o-giai-dua-xe-dap-xuyen-viet-4732741.html) - 09:01 10/04/2024
 - 🌜 [&#39;Các bậc thầy golf&#39; sắp tái đấu](https://vnexpress.net/cac-bac-thay-golf-sap-tai-dau-4732647.html) - 08:13 10/04/2024
