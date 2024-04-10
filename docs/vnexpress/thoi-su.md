@@ -4,12 +4,12 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [&#39;Ưu tiên khởi công đường sắt tốc độ cao sang Trung Quốc trước 2030&#39;](https://vnexpress.net/uu-tien-khoi-cong-duong-sat-toc-do-cao-sang-trung-quoc-truoc-2030-4732389.html) - 17:01 09/04/2024
-- 🤓 [Hồ nước ngọt lớn nhất Cà Mau hoàn thành vào tháng 5](https://vnexpress.net/ho-nuoc-ngot-lon-nhat-ca-mau-hoan-thanh-vao-thang-5-4732345.html) - 17:00 09/04/2024
-- ⚗️ [Hàng trăm người đổ xô vào rừng tìm kỳ nam vì tin đồn](https://vnexpress.net/hang-tram-nguoi-do-xo-vao-rung-tim-ky-nam-vi-tin-don-4732364.html) - 11:23 09/04/2024
-- 🌊 [4 ngày lăn lộn tìm hai con gái bị bắt cóc trên phố Nguyễn Huệ](https://vnexpress.net/4-ngay-lan-lon-tim-hai-con-gai-bi-bat-coc-tren-pho-nguyen-hue-4732357.html) - 10:47 09/04/2024
-- 🎓 [Nhà đổ nghiêng thuộc hành lang bảo vệ đê sông Cầu](https://vnexpress.net/nha-do-nghieng-thuoc-hanh-lang-bao-ve-de-song-cau-4732150.html) - 10:21 09/04/2024
-- 🔥 [Người nuôi: &#39;Cá chết dày không còn kẽ hở mà nổi&#39;](https://video.vnexpress.net/nguoi-nuoi-ca-chet-day-khong-con-ke-ho-ma-noi-4732326.html) - 10:11 09/04/2024
+- 🦒 [Người Sài Gòn chống chọi nắng nóng hơn 40 độ C](https://vnexpress.net/nguoi-sai-gon-chong-choi-nang-nong-hon-40-do-c-4732354.html) - 00:00 10/04/2024
+- 🤓 [&#39;Ưu tiên khởi công đường sắt tốc độ cao sang Trung Quốc trước 2030&#39;](https://vnexpress.net/uu-tien-khoi-cong-duong-sat-toc-do-cao-sang-trung-quoc-truoc-2030-4732389.html) - 17:01 09/04/2024
+- ⚗️ [Hồ nước ngọt lớn nhất Cà Mau hoàn thành vào tháng 5](https://vnexpress.net/ho-nuoc-ngot-lon-nhat-ca-mau-hoan-thanh-vao-thang-5-4732345.html) - 17:00 09/04/2024
+- 🌊 [Hàng trăm người đổ xô vào rừng tìm kỳ nam vì tin đồn](https://vnexpress.net/hang-tram-nguoi-do-xo-vao-rung-tim-ky-nam-vi-tin-don-4732364.html) - 11:23 09/04/2024
+- 🎓 [4 ngày lăn lộn tìm hai con gái bị bắt cóc trên phố Nguyễn Huệ](https://vnexpress.net/4-ngay-lan-lon-tim-hai-con-gai-bi-bat-coc-tren-pho-nguyen-hue-4732357.html) - 10:47 09/04/2024
+- 🔥 [Nhà đổ nghiêng thuộc hành lang bảo vệ đê sông Cầu](https://vnexpress.net/nha-do-nghieng-thuoc-hanh-lang-bao-ve-de-song-cau-4732150.html) - 10:21 09/04/2024
 - 🦏 [Hàng không tiếp tục tăng chuyến dịp nghỉ lễ 30/4](https://vnexpress.net/hang-khong-tiep-tuc-tang-chuyen-dip-nghi-le-30-4-4732319.html) - 09:48 09/04/2024
 - 👺 [Cần Thơ quy định phóng viên họp báo phải hỏi &#39;phù hợp tôn chỉ, mục đích&#39;](https://vnexpress.net/can-tho-quy-dinh-phong-vien-hop-bao-phai-hoi-phu-hop-ton-chi-muc-dich-4732185.html) - 08:59 09/04/2024
 - 🧑‍🏫 [Trắng tay vì cá chết hàng loạt](https://vnexpress.net/trang-tay-vi-ca-chet-hang-loat-4732196.html) - 08:25 09/04/2024
