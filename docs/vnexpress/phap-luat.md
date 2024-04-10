@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Trộm thông tin thẻ tín dụng để mua hàng loạt iPhone 15](https://vnexpress.net/trom-thong-tin-the-tin-dung-de-mua-hang-loat-iphone-15-4732837.html) - 14:11 10/04/2024
+- 😎 [Dùng thông tin thẻ tín dụng của người khác mua hàng loạt iPhone 15](https://vnexpress.net/dung-thong-tin-the-tin-dung-cua-nguoi-khac-mua-hang-loat-iphone-15-4732837.html) - 14:11 10/04/2024
 - 🥰 [Hai bé gái bị bắt cóc để &#39;quay video khiêu dâm&#39;](https://vnexpress.net/hai-be-gai-bi-bat-coc-de-quay-video-khieu-dam-4732825.html) - 12:23 10/04/2024
 - 🎓 [Loạt cán bộ giúp Trịnh Văn Quyết &#39;lùa&#39; 30.000 người mua cổ phiếu giá khống](https://vnexpress.net/loat-can-bo-giup-trinh-van-quyet-lua-30-000-nguoi-mua-co-phieu-gia-khong-4732258.html) - 10:40 10/04/2024
 - 🤓 [Cựu thiếu tướng Đỗ Hữu Ca nói về 35 tỷ đồng &#39;đàn em&#39; đặt trong nhà](https://vnexpress.net/cuu-thieu-tuong-do-huu-ca-noi-ve-35-ty-dong-dan-em-dat-trong-nha-4732714.html) - 09:37 10/04/2024
