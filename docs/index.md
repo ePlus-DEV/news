@@ -259,7 +259,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 👍 [Tọa đàm &quot;Giải pháp phát huy hiệu quả quảng cáo ngoài trời&quot;](https://nld.com.vn/toa-dam-giai-phap-phat-huy-hieu-qua-quang-cao-ngoai-troi-196240410212145296.htm) - 23:00 10/04/2024
 - 🥷 [NÂNG BƯỚC NGƯỜI LAO ĐỘNG: Từ chuyến xuất ngoại đến chủ nhãn hàng trà nổi tiếng](https://nld.com.vn/tu-chuyen-xuat-ngoai-den-chu-nhan-hang-tra-noi-tieng-196240410191436457.htm) - 23:00 10/04/2024
 - 🤔 [Gỡ vướng quyền lợi người lao động](https://nld.com.vn/go-vuong-quyen-loi-nguoi-lao-dong-196240410214556011.htm) - 22:55 10/04/2024
-- 🌈 [Những lời khai mâu thuẫn](https://nld.com.vn/nhung-loi-khai-mau-thuan-196240410215610989.htm) - 22:30 10/04/2024
+- 🌈 [Xét xử cựu giám đốc Công an TP Hải Phòng Đỗ Hữu Ca: Những lời khai mâu thuẫn](https://nld.com.vn/nhung-loi-khai-mau-thuan-196240410215610989.htm) - 22:30 10/04/2024
 - 🔥 [Tạo đà phát triển cho quảng cáo ngoài trời](https://nld.com.vn/tao-da-phat-trien-cho-quang-cao-ngoai-troi-196240410211739668.htm) - 22:29 10/04/2024
 - 🧰 [Triển khai kỹ thuật mới điều trị đau dai dẳng](https://nld.com.vn/trien-khai-ky-thuat-moi-dieu-tri-dau-dai-dang-196240410205806308.htm) - 22:17 10/04/2024
 - 🤗 [MM Mega Market sẽ bán khoảng 150 tấn xoài giá sỉ](https://nld.com.vn/mm-mega-market-se-ban-khoang-150-tan-xoai-gia-si-196240410210355151.htm) - 22:15 10/04/2024
