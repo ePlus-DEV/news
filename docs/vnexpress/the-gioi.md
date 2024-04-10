@@ -13,7 +13,7 @@ sidebar_position: 2
 - 🌈 [Mỹ chuyển súng đạn &#39;thu của Iran&#39; cho Ukraine](https://vnexpress.net/my-chuyen-sung-dan-thu-cua-iran-cho-ukraine-4732379.html) - 15:41 09/04/2024
 - 🧑‍🏫 [Trung Quốc rút lính gìn giữ hòa bình khỏi CHDC Congo](https://vnexpress.net/trung-quoc-rut-linh-gin-giu-hoa-binh-khoi-chdc-congo-4732388.html) - 14:46 09/04/2024
 - 🐲 [Việt Nam đề nghị phát huy vai trò kết nối của Đại diện Thường trú Vatican](https://vnexpress.net/viet-nam-de-nghi-phat-huy-vai-tro-ket-noi-cua-dai-dien-thuong-tru-vatican-4732395.html) - 14:32 09/04/2024
-- 🦒 [Israel mua lều gần cho nửa triệu dân Gaza trước khi tiến đánh Rafah](https://vnexpress.net/israel-mua-leu-gan-cho-nua-trieu-dan-gaza-truoc-khi-tien-danh-rafah-4732384.html) - 13:21 09/04/2024
+- 🦒 [Israel mua lều cho gần nửa triệu dân Gaza trước khi tiến đánh Rafah](https://vnexpress.net/israel-mua-leu-cho-gan-nua-trieu-dan-gaza-truoc-khi-tien-danh-rafah-4732384.html) - 13:21 09/04/2024
 - 🐻 [Tổng thống Zelensky đối mặt tình thế ngày càng tồi tệ](https://vnexpress.net/tong-thong-zelensky-doi-mat-tinh-the-ngay-cang-toi-te-4731561.html) - 12:00 09/04/2024
 - 🚀 [Quan chức EU thất vọng vì phương Tây không chuyển Patriot cho Ukraine](https://vnexpress.net/quan-chuc-eu-that-vong-vi-phuong-tay-khong-chuyen-patriot-cho-ukraine-4732369.html) - 11:33 09/04/2024
 - 🥰 [Ukraine phát triển drone tự động tập kích mục tiêu](https://vnexpress.net/ukraine-phat-trien-drone-tu-dong-tap-kich-muc-tieu-4732156.html) - 10:27 09/04/2024
