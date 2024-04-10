@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Vì sao giá vàng thế giới liên tiếp lập kỷ lục?](https://vnexpress.net/vi-sao-gia-vang-the-gioi-lien-tiep-lap-ky-luc-4732632.html) - 06:34 10/04/2024
-- 🐲 [Vàng miếng SJC quay đầu giảm về 84 triệu đồng](https://vnexpress.net/gia-vang-mieng-bien-dong-ngay-10-4-4732509.html) - 02:38 10/04/2024
+- 🐲 [Giá vàng nhẫn lập kỷ lục 78 triệu đồng](https://vnexpress.net/gia-vang-mieng-bien-dong-ngay-10-4-4732509.html) - 02:38 10/04/2024
 - 🔥 [Hiệp hội Xi măng lo doanh nghiệp phá sản, bán mình](https://vnexpress.net/hiep-hoi-xi-mang-lo-doanh-nghiep-pha-san-ban-minh-4732408.html) - 02:00 10/04/2024
 - 🐵 [6 mẫu Hublot sắp ra mắt tại triển lãm Watches &amp;amp; Wonders 2024](https://vnexpress.net/6-mau-hublot-sap-ra-mat-tai-trien-lam-watches-wonders-2024-4732340.html) - 02:00 10/04/2024
 - 🦅 [Giá vàng thế giới tiếp tục lập đỉnh](https://vnexpress.net/gia-vang-the-gioi-tiep-tuc-lap-dinh-4732438.html) - 00:44 10/04/2024
