@@ -266,7 +266,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎉 [Viettel ra mắt trung tâm dữ liệu lớn nhất Việt Nam](https://nld.com.vn/viettel-ra-mat-trung-tam-du-lieu-lon-nhat-viet-nam-196240410164821151.htm) - 10:44 10/04/2024
 - 😺 [Hơn 20 tấn nội tạng động vật không rõ nguồn gốc tuồn vào TP HCM](https://nld.com.vn/hon-20-tan-noi-tang-dong-vat-khong-ro-nguon-goc-tuon-vao-tp-hcm-196240410171913527.htm) - 10:42 10/04/2024
 - 🐻 [Sức khoẻ ca nhiễm cúm gia cầm H9N2 ở Tiền Giang thế nào?](https://nld.com.vn/suc-khoe-ca-nhiem-cum-gia-cam-h9n2-o-tien-giang-the-nao-19624041015055762.htm) - 10:42 10/04/2024
-- 🤡 [CLIP: Đang cháy rừng ở Cà Mau](https://nld.com.vn/clip-dang-chay-rung-o-ca-mau-19624041017144151.htm) - 10:40 10/04/2024
+- 🤡 [CLIP: Cháy rừng ở Cà Mau, phó chủ tịch tỉnh đến hiện trường](https://nld.com.vn/clip-dang-chay-rung-o-ca-mau-19624041017144151.htm) - 10:40 10/04/2024
 - 🚦 [Công an TP HCM truy nã bị can Trần Xuân Kiêm](https://nld.com.vn/cong-an-tp-hcm-truy-na-bi-can-tran-xuan-kiem-19624041014580454.htm) - 10:27 10/04/2024
 - 🪜 [Nhiều vi phạm tại dự án khu dân cư của Công ty Đông Đô 1 tại Lâm Đồng](https://nld.com.vn/nhieu-vi-pham-tai-du-an-khu-dan-cu-cua-cong-ty-dong-do-1-tai-lam-dong-196240410132301857.htm) - 10:25 10/04/2024
 - 💫 [Cứu cụ ông 71 tuổi trong căn nhà cháy ở quận Gò Vấp](https://nld.com.vn/cuu-cu-ong-71-tuoi-trong-can-nha-chay-o-quan-go-vap-196240410163327999.htm) - 10:23 10/04/2024
