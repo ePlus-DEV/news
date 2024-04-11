@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Du khách chờ nghỉ 5 ngày để đặt vé tàu hỏa](https://vnexpress.net/du-khach-cho-nghi-5-ngay-de-dat-ve-tau-hoa-4733226.html) - 12:47 11/04/2024
+- 💂 [Du khách chờ được nghỉ 5 ngày để đặt vé tàu hỏa](https://vnexpress.net/du-khach-cho-duoc-nghi-5-ngay-de-dat-ve-tau-hoa-4733226.html) - 12:47 11/04/2024
 - 🪄 [Những quán cà phê màu hoài cổ ở Huế](https://vnexpress.net/nhung-quan-ca-phe-mau-hoai-co-o-hue-4728107.html) - 07:00 11/04/2024
 - 🦅 [Saigontourist Group, Vietnam Airlines quảng bá du lịch Việt Nam tại Trung Quốc](https://vnexpress.net/saigontourist-group-vietnam-airlines-quang-ba-du-lich-viet-nam-tai-trung-quoc-4732977.html) - 04:30 11/04/2024
 - 🕴 [Việt Nam quảng bá du lịch thông qua điện ảnh Hollywood](https://vnexpress.net/viet-nam-quang-ba-du-lich-thong-qua-dien-anh-hollywood-4732861.html) - 03:51 11/04/2024
