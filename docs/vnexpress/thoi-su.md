@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Kéo pháo vào - ra và việc chỉnh đốn sĩ khí Điện Biên 70 năm trước](https://vnexpress.net/keo-phao-vao-ra-va-viec-chinh-don-si-khi-dien-bien-70-nam-truoc-4733128.html) - 09:40 11/04/2024
-- 🤓 [Việt Nam - Trung Quốc thúc đẩy hợp tác thương mại quân sự](https://vnexpress.net/viet-nam-trung-quoc-thuc-day-hop-tac-thuong-mai-quan-su-4732973.html) - 08:31 11/04/2024
+- 🤓 [Việt Nam - Trung Quốc thúc đẩy hợp tác công nghiệp quốc phòng](https://vnexpress.net/viet-nam-trung-quoc-thuc-day-hop-tac-cong-nghiep-quoc-phong-4732973.html) - 08:31 11/04/2024
 - ⚗️ [Tàu tuần dương Hải quân Pháp đến Đà Nẵng](https://vnexpress.net/tau-tuan-duong-hai-quan-phap-den-da-nang-4733090.html) - 07:21 11/04/2024
 - 🌊 [Tuyến đường sắt Lào Cai - Hà Nội - Quảng Ninh sẽ chạy tàu 160-200 km/h](https://vnexpress.net/tuyen-duong-sat-lao-cai-ha-noi-quang-ninh-se-chay-tau-160-200-km-h-4733027.html) - 05:15 11/04/2024
 - 🎓 [Lội kênh, băng rừng dập đám cháy ở Cà Mau](https://vnexpress.net/loi-kenh-bang-rung-dap-dam-chay-o-ca-mau-4733010.html) - 05:10 11/04/2024
