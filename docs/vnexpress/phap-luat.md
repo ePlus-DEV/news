@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Hai người đổ thuốc trừ sâu xuống sông Đồng Nai để bắt tôm cá](https://vnexpress.net/hai-nguoi-do-thuoc-tru-sau-xuong-song-dong-nai-de-bat-tom-ca-4733041.html) - 08:26 11/04/2024
-- 🥰 [Bà Trương Mỹ Lan lĩnh án tử hình](https://vnexpress.net/ba-truong-my-lan-linh-an-tu-hinh-4733076.html) - 07:15 11/04/2024
+- 🥰 [Bà Trương Mỹ Lan bị tuyên án tử hình](https://vnexpress.net/ba-truong-my-lan-bi-tuyen-an-tu-hinh-4733076.html) - 07:15 11/04/2024
 - 🎓 [Biển số 30K-888.88 được đấu giá 20 tỷ đồng](https://vnexpress.net/bien-so-30k-888-88-duoc-dau-gia-20-ty-dong-4733086.html) - 07:13 11/04/2024
 - 🤓 [Phó ban Quản lý khu kinh tế Dung Quất bị bắt](https://vnexpress.net/pho-ban-quan-ly-khu-kinh-te-dung-quat-bi-bat-4733093.html) - 07:08 11/04/2024
 - 🎊 [Cựu quân nhân tông chết nữ sinh ở Ninh Thuận không được giảm án](https://vnexpress.net/cuu-quan-nhan-tong-chet-nu-sinh-o-ninh-thuan-khong-duoc-giam-an-4733077.html) - 06:43 11/04/2024
