@@ -29,7 +29,7 @@ sidebar_position: 9
 - 🐲 [Cựu phó tổng giám đốc LDG bị bắt](https://vnexpress.net/cuu-pho-tong-giam-doc-ldg-bi-bat-4733257.html) - 11:51 11/04/2024
 - 🌝 [Ukraine và Latvia ký thỏa thuận an ninh 10 năm](https://vnexpress.net/ukraine-va-latvia-ky-thoa-thuan-an-ninh-10-nam-4733250.html) - 11:43 11/04/2024
 - 😺 [Gia tăng ô nhiễm bụi mịn ở Hà Nội](https://vnexpress.net/gia-tang-o-nhiem-bui-min-o-ha-noi-4733114.html) - 11:43 11/04/2024
-- 🐎 [Chủ công Thanh Thúy sang Thỗ Nhĩ Kỳ thi đấu](https://vnexpress.net/chu-cong-thanh-thuy-sang-tho-nhi-ky-thi-dau-4733260.html) - 11:41 11/04/2024
+- 🐎 [Chủ công Thanh Thúy sang Thổ Nhĩ Kỳ thi đấu](https://vnexpress.net/chu-cong-thanh-thuy-sang-tho-nhi-ky-thi-dau-4733260.html) - 11:41 11/04/2024
 - 🎡 [VinFast tặng 1 năm thuê pin cho khách mua ôtô điện](https://vnexpress.net/vinfast-tang-1-nam-thue-pin-cho-khach-mua-oto-dien-4733252.html) - 11:40 11/04/2024
 - 👨‍🏫 [Thầy tổng phụ trách đội có hành vi &#39;thiếu chuẩn mực&#39; với nữ sinh](https://vnexpress.net/thay-tong-phu-trach-doi-co-hanh-vi-thieu-chuan-muc-voi-nu-sinh-4733249.html) - 11:31 11/04/2024
 - 🦆 [Bé gái mắc sốt xuất huyết vượt cửa tử](https://vnexpress.net/be-gai-mac-sot-xuat-huyet-vuot-cua-tu-4733168.html) - 11:20 11/04/2024
