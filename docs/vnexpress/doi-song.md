@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Xoay xở ở thủ đô](https://vnexpress.net/xoay-xo-o-thu-do-4730724.html) - 23:31 10/04/2024
+- 🚀 [Xoay xở ở thành phố đắt đỏ nhất Việt Nam](https://vnexpress.net/xoay-xo-o-thanh-pho-dat-do-nhat-viet-nam-4730724.html) - 23:31 10/04/2024
 - 🎓 [Trốn nóng dưới gầm cầu](https://vnexpress.net/tron-nong-duoi-gam-cau-4732836.html) - 23:00 10/04/2024
 - 🚦 [Ba năm Menard đồng hành vườn quốc gia Cúc Phương bảo vệ rừng](https://vnexpress.net/ba-nam-menard-dong-hanh-vuon-quoc-gia-cuc-phuong-bao-ve-rung-4732351.html) - 13:00 10/04/2024
 - 🦣 [Có nên vớt bọt váng khi luộc thịt, hầm xương?](https://vnexpress.net/co-nen-vot-bot-vang-khi-luoc-thit-ham-xuong-4732657.html) - 12:00 10/04/2024
