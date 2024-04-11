@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Dani Alves trả 164.000 USD cho nhà Neymar](https://vnexpress.net/dani-alves-tra-164-000-usd-cho-nha-neymar-4733264.html) - 12:36 11/04/2024
-- 🦩 [Chủ công Thanh Thúy sang Thỗ Nhĩ Kỳ thi đấu](https://vnexpress.net/chu-cong-thanh-thuy-sang-tho-nhi-ky-thi-dau-4733260.html) - 11:41 11/04/2024
+- 🦩 [Chủ công Thanh Thúy sang Thổ Nhĩ Kỳ thi đấu](https://vnexpress.net/chu-cong-thanh-thuy-sang-tho-nhi-ky-thi-dau-4733260.html) - 11:41 11/04/2024
 - 🧰 [U23 Việt Nam thư giãn trước thềm U23 châu Á](https://vnexpress.net/u23-viet-nam-thu-gian-truoc-them-u23-chau-a-4733220.html) - 10:01 11/04/2024
 - 🤗 [Tyson Fury lo bị knock-out ở trận thống nhất bốn đai quyền Anh](https://vnexpress.net/tyson-fury-lo-bi-knock-out-o-tran-thong-nhat-bon-dai-quyen-anh-4733187.html) - 09:55 11/04/2024
 - 🥳 [Màn &#39;tránh đạn&#39; hài hước ở Texas Open 2024](https://vnexpress.net/man-tranh-dan-hai-huoc-o-texas-open-2024-4733221.html) - 09:52 11/04/2024
