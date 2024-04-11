@@ -54,5 +54,4 @@ sidebar_position: 9
 - 🐎 [Doãn Hải My vượt áp lực mang thai](https://vnexpress.net/doan-hai-my-vuot-ap-luc-mang-thai-4732789.html) - 03:48 11/04/2024
 - 🏊 [Mbappe nhận điểm 4 sau trận thua Barca](https://vnexpress.net/mbappe-nhan-diem-4-sau-tran-thua-barca-4732875.html) - 03:45 11/04/2024
 - 🦩 [Mbappe bị chê &#39;tàng hình&#39; trước Barca](https://vnexpress.net/mbappe-bi-che-tang-hinh-truoc-barca-4732883.html) - 03:44 11/04/2024
-- 👍 [Người Thổ Nhĩ Kỳ &#39;có số bạn tình nhiều nhất thế giới&#39;](https://vnexpress.net/nguoi-tho-nhi-ky-co-so-ban-tinh-nhieu-nhat-the-gioi-4732932.html) - 03:44 11/04/2024
-- 🔥 [Ông Biden: Mỹ xem xét hủy truy tố nhà sáng lập WikiLeaks](https://vnexpress.net/ong-biden-my-xem-xet-huy-truy-to-nha-sang-lap-wikileaks-4732922.html) - 03:43 11/04/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 👍 [Người Thổ Nhĩ Kỳ &#39;có số bạn tình nhiều nhất thế giới&#39;](https://vnexpress.net/nguoi-tho-nhi-ky-co-so-ban-tinh-nhieu-nhat-the-gioi-4732932.html) - 03:44 11/04/2024<!-- vnexpress-tin-moi-nhat:END -->
