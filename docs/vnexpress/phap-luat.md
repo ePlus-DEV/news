@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Tòa: &#39;Hành vi của Trương Mỹ Lan là Tham ô tài sản&#39;](https://vnexpress.net/toa-hanh-vi-cua-truong-my-lan-la-tham-o-tai-san-4732260.html) - 03:32 11/04/2024
+- 😎 [Tòa: &#39;Xử lý Trương Mỹ Lan khung hình phạt nghiêm khắc nhất&#39;](https://vnexpress.net/toa-xu-ly-truong-my-lan-khung-hinh-phat-nghiem-khac-nhat-4732260.html) - 03:32 11/04/2024
 - 🥰 [Tài xế tông chết nữ sinh Ninh Thuận muốn bồi thường thêm](https://vnexpress.net/tai-xe-tong-chet-nu-sinh-ninh-thuan-muon-boi-thuong-them-4732940.html) - 02:39 11/04/2024
 - 🎓 [Cựu giám đốc Công an Hải Phòng Đỗ Hữu Ca nhận tội](https://vnexpress.net/cuu-giam-doc-cong-an-hai-phong-do-huu-ca-bi-de-nghi-hon-10-nam-tu-4732927.html) - 01:56 11/04/2024
 - 🤓 [Mấu chốt quyết định bản án đối với bà Trương Mỹ Lan](https://vnexpress.net/mau-chot-quyet-dinh-ban-an-doi-voi-ba-truong-my-lan-4732391.html) - 23:00 10/04/2024
