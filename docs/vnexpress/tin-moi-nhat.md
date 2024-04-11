@@ -19,7 +19,7 @@ sidebar_position: 9
 - 🎊 [Tỷ phú Trần Đình Long: 5-10 năm tới Hòa Phát chỉ tập trung vào thép](https://vnexpress.net/ty-phu-tran-dinh-long-5-10-nam-toi-hoa-phat-chi-tap-trung-vao-thep-4733066.html) - 05:24 11/04/2024
 - 😺 [Cục trưởng Điện ảnh: &#39;Phim Nhà nước không cất kho&#39;](https://vnexpress.net/cuc-truong-dien-anh-phim-nha-nuoc-khong-cat-kho-4732957.html) - 05:20 11/04/2024
 - 🐘 [Tuyến đường sắt Lào Cai - Hà Nội - Quảng Ninh sẽ chạy tàu 160-200 km/h](https://vnexpress.net/tuyen-duong-sat-lao-cai-ha-noi-quang-ninh-se-chay-tau-160-200-km-h-4733027.html) - 05:15 11/04/2024
-- 🌁 [Lội kênh, băng rừng dập đám cháy ở Cà Mau](https://vnexpress.net/loi-kenh-bang-rung-dap-dam-chay-o-ca-mau-4733010.html) - 05:10 11/04/2024
+- 🌁 [Lội kênh, băng rừng dập lửa ở Cà Mau](https://vnexpress.net/loi-kenh-bang-rung-dap-lua-o-ca-mau-4733010.html) - 05:10 11/04/2024
 - 🐲 [Ông Đỗ Hữu Ca: &#39;Vì lụy tình mà cuối đời phạm tội&#39;](https://vnexpress.net/cuu-thieu-tuong-do-huu-ca-vi-luy-tinh-ma-cuoi-doi-pham-toi-4733052.html) - 05:10 11/04/2024
 - 🤓 [Hai lãnh đạo trung tâm đăng kiểm ở Bình Thuận bị bắt](https://vnexpress.net/hai-lanh-dao-trung-tam-dang-kiem-o-binh-thuan-bi-bat-4733056.html) - 05:08 11/04/2024
 - 💪 [Những bê bối đẩy Tổng thống Hàn Quốc vào hiểm cảnh](https://vnexpress.net/nhung-be-boi-day-tong-thong-han-quoc-vao-hiem-canh-4732936.html) - 05:04 11/04/2024
