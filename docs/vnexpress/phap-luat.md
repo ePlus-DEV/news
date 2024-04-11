@@ -4,9 +4,9 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Tòa: &#39;Bà Trương Mỹ Lan thực chất là chủ SCB&#39;](https://vnexpress.net/toa-ba-truong-my-lan-thuc-chat-la-chu-scb-4732260.html) - 03:32 11/04/2024
+- 😎 [Tòa: &#39;Hành vi của Trương Mỹ Lan là Tham ô tài sản&#39;](https://vnexpress.net/toa-hanh-vi-cua-truong-my-lan-la-tham-o-tai-san-4732260.html) - 03:32 11/04/2024
 - 🥰 [Tài xế tông chết nữ sinh Ninh Thuận muốn bồi thường thêm](https://vnexpress.net/tai-xe-tong-chet-nu-sinh-ninh-thuan-muon-boi-thuong-them-4732940.html) - 02:39 11/04/2024
-- 🎓 [Cựu giám đốc Công an Hải Phòng Đỗ Hữu Ca bị đề nghị hơn 10 năm tù](https://vnexpress.net/cuu-giam-doc-cong-an-hai-phong-do-huu-ca-bi-de-nghi-hon-10-nam-tu-4732927.html) - 01:56 11/04/2024
+- 🎓 [Cựu giám đốc Công an Hải Phòng Đỗ Hữu Ca nhận tội](https://vnexpress.net/cuu-giam-doc-cong-an-hai-phong-do-huu-ca-bi-de-nghi-hon-10-nam-tu-4732927.html) - 01:56 11/04/2024
 - 🤓 [Mấu chốt quyết định bản án đối với bà Trương Mỹ Lan](https://vnexpress.net/mau-chot-quyet-dinh-ban-an-doi-voi-ba-truong-my-lan-4732391.html) - 23:00 10/04/2024
 - 🎊 [Vụ lừa đảo &#39;mỏ vàng nghìn tấn&#39; lớn nhất lịch sử](https://vnexpress.net/vu-lua-dao-mo-vang-nghin-tan-lon-nhat-lich-su-4732816.html) - 17:00 10/04/2024
 - 🙉 [Cựu công an kêu oan trong vụ án &#39;6 năm chưa xong&#39;](https://vnexpress.net/cuu-cong-an-keu-oan-trong-vu-an-xu-6-nam-chua-xong-4732845.html) - 16:42 10/04/2024
