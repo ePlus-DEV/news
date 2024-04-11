@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Tuyến đường sắt Lào Cai - Hà Nội - Quảng Ninh sẽ chạy tàu 160-200 km/h](https://vnexpress.net/tuyen-duong-sat-lao-cai-ha-noi-quang-ninh-se-chay-tau-160-200-km-h-4733027.html) - 05:15 11/04/2024
-- 🤓 [Lội kênh, băng rừng dập lửa ở Cà Mau](https://vnexpress.net/loi-kenh-bang-rung-dap-lua-o-ca-mau-4733010.html) - 05:10 11/04/2024
+- 🤓 [Lội kênh, băng rừng dập đám cháy ở Cà Mau](https://vnexpress.net/loi-kenh-bang-rung-dap-dam-chay-o-ca-mau-4733010.html) - 05:10 11/04/2024
 - ⚗️ [Trình đề xuất hoán đổi nghỉ lễ 5 ngày dịp 30/4](https://vnexpress.net/trinh-de-xuat-hoan-doi-nghi-le-5-ngay-dip-30-4-4732994.html) - 03:51 11/04/2024
 - 🌊 [Đường, nhà dân tan hoang do sạt lở ở Kiên Giang](https://vnexpress.net/duong-nha-dan-tan-hoang-do-sat-lo-o-kien-giang-4732843.html) - 03:10 11/04/2024
 - 🎓 [Chung cư mini nứt ở Thanh Xuân xây sai phép](https://vnexpress.net/chung-cu-mini-nut-o-thanh-xuan-xay-sai-phep-4732851.html) - 01:54 11/04/2024
