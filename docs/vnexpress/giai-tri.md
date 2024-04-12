@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Meghan Markle sản xuất show nấu ăn, chơi polo](https://vnexpress.net/meghan-markle-san-xuat-show-nau-an-choi-polo-4733391.html) - 04:24 12/04/2024
-- 💫 [Trizzie Phương Trinh: &#39;Tôi yêu quý vợ, con của Bằng Kiều&#39;](https://vnexpress.net/trizzie-phuong-trinh-toi-yeu-quy-vo-con-cua-bang-kieu-4732539.html) - 04:07 12/04/2024
+- 💫 [Trizzie Phương Trinh: &#39;Tôi yêu quý vợ con của Bằng Kiều&#39;](https://vnexpress.net/trizzie-phuong-trinh-toi-yeu-quy-vo-con-cua-bang-kieu-4732539.html) - 04:07 12/04/2024
 - 🌮 [Taylor Swift từ chối show diễn 9 triệu USD](https://vnexpress.net/taylor-swift-tu-choi-show-dien-9-trieu-usd-4733347.html) - 03:36 12/04/2024
 - 🧠 [Con gái Angelina Jolie diện mốt &#39;công nhân&#39;](https://vnexpress.net/con-gai-angelina-jolie-dien-mot-cong-nhan-4733374.html) - 03:04 12/04/2024
 - 👨‍🏫 [Bạn gái Jeff Bezos mặc đầm xuyên thấu dự tiệc ở Nhà Trắng](https://vnexpress.net/ban-gai-jeff-bezos-mac-dam-xuyen-thau-du-tiec-o-nha-trang-4733350.html) - 02:13 12/04/2024
