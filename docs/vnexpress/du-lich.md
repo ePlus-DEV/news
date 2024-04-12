@@ -31,7 +31,7 @@ sidebar_position: 11
 - 🌜 [Kỳ nghỉ &#39;ngắt kết nối&#39; với cuộc sống](https://vnexpress.net/ky-nghi-ngat-ket-noi-voi-cuoc-song-4732105.html) - 02:10 10/04/2024
 - 📝 [Tour tham quan nhà vệ sinh hút khách ở Tokyo](https://vnexpress.net/tour-tham-quan-nha-ve-sinh-hut-khach-o-tokyo-4732393.html) - 17:00 09/04/2024
 - 🧰 [Mở thêm nhiều tour đêm tại Địa đạo Củ Chi](https://vnexpress.net/mo-them-nhieu-tour-dem-tai-dia-dao-cu-chi-4732273.html) - 12:00 09/04/2024
-- 🎬 [Quá tải, Điện Biên huy động hơn 100 nhà dân làm khách sạn](https://vnexpress.net/qua-tai-dien-bien-huy-dong-hon-100-nha-dan-lam-khach-san-4732318.html) - 11:17 09/04/2024
+- 🎬 [Quá tải, Điện Biên huy động hơn 100 nhà dân làm nhà nghỉ](https://vnexpress.net/qua-tai-dien-bien-huy-dong-hon-100-nha-dan-lam-nha-nghi-4732318.html) - 11:17 09/04/2024
 - 🧐 [Iceland kỳ thú dưới ống kính lữ khách Việt](https://vnexpress.net/iceland-ky-thu-duoi-ong-kinh-lu-khach-viet-4729501.html) - 05:22 09/04/2024
 - 👨‍🏫 [Ba điểm đến hiện đại không nên bỏ qua ở Bắc Kinh](https://vnexpress.net/ba-diem-den-hien-dai-khong-nen-bo-qua-o-bac-kinh-4729862.html) - 05:11 09/04/2024
 - 🦣 [Tết Songkran Thái Lan không chỉ té nước](https://vnexpress.net/tet-songkran-thai-lan-khong-chi-te-nuoc-4731587.html) - 01:00 09/04/2024
