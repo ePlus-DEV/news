@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Cho vay gây thất thoát hơn 36 tỷ đồng, 7 cựu cán bộ ngân hàng đi tù](https://vnexpress.net/gay-that-thoat-hon-36-ty-dong-7-nguyen-can-bo-ngan-hang-lanh-an-4733669.html) - 15:10 12/04/2024
 - 🥰 [Thí điểm cấp phiếu lý lịch tư pháp qua VNeID từ 22/4](https://vnexpress.net/thi-diem-cap-phieu-ly-lich-tu-phap-tren-vneid-tu-22-4-4733626.html) - 15:00 12/04/2024
-- 🎓 [Nữ nghi phạm bắt cóc 2 trẻ trên phố đi bộ Nguyễn Huệ bị khởi tố thêm tội](https://vnexpress.net/nu-nghi-pham-bat-coc-2-tre-tren-pho-di-bo-nguyen-hue-bi-khoi-to-them-toi-4733685.html) - 12:24 12/04/2024
+- 🎓 [Nghi phạm bắt cóc 2 trẻ ở phố đi bộ Nguyễn Huệ bị khởi tố thêm tội](https://vnexpress.net/nu-nghi-pham-bat-coc-2-tre-tren-pho-di-bo-nguyen-hue-bi-khoi-to-them-toi-4733685.html) - 12:24 12/04/2024
 - 🤓 [Thiếu tá công an bị bắt quả tang nhận tiền &#39;chạy&#39; tại ngoại](https://vnexpress.net/thieu-ta-cong-an-bi-bat-qua-tang-nhan-tien-chay-tai-ngoai-4733651.html) - 10:57 12/04/2024
 - 🎊 [Tăng nhân sự để thu hồi tài sản vụ án Vạn Thịnh Phát](https://vnexpress.net/tang-nhan-su-de-thu-hoi-tai-san-vu-an-van-thinh-phat-4733595.html) - 10:08 12/04/2024
 - 🙉 [Cha dượng cưỡng bức con riêng của vợ](https://vnexpress.net/cha-duong-cuong-buc-con-rieng-cua-vo-4733621.html) - 09:36 12/04/2024
