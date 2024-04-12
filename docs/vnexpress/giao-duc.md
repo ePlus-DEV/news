@@ -7,7 +7,7 @@ sidebar_position: 7
 - 🤓 [Bước chuyển của cô gái đạt điểm thi Olympic Toán quốc tế cao nhất Việt Nam](https://vnexpress.net/buoc-chuyen-cua-co-gai-dat-diem-thi-olympic-toan-quoc-te-cao-nhat-viet-nam-4732890.html) - 23:24 11/04/2024
 - 🦆 [Huyện duy nhất nào trùng tên với tỉnh?](https://vnexpress.net/huyen-duy-nhat-nao-trung-ten-voi-tinh-4733265.html) - 13:00 11/04/2024
 - 🦩 [Hệ thống trường Tuệ Đức chú trọng giáo dục nhân cách](https://vnexpress.net/he-thong-truong-tue-duc-chu-trong-giao-duc-nhan-cach-4733202.html) - 12:00 11/04/2024
-- 🌮 [Thầy tổng phụ trách đội có hành vi &#39;thiếu chuẩn mực&#39; với nữ sinh](https://vnexpress.net/thay-tong-phu-trach-doi-co-hanh-vi-thieu-chuan-muc-voi-nu-sinh-4733249.html) - 11:31 11/04/2024
+- 🌮 [Thầy giáo túm áo, quát mắng nữ sinh](https://vnexpress.net/thay-giao-tum-ao-quat-mang-nu-sinh-4733249.html) - 11:31 11/04/2024
 - 🔭 [4 thành ngữ tiếng Anh liên quan tới động vật](https://vnexpress.net/4-thanh-ngu-tieng-anh-lien-quan-toi-dong-vat-4733251.html) - 11:10 11/04/2024
 - 💡 [Ba trường đại học thi năng khiếu vào tháng 7](https://vnexpress.net/ba-truong-dai-hoc-thi-nang-khieu-vao-thang-7-4732941.html) - 10:32 11/04/2024
 - 🥰 [Trường học đổi thời khóa biểu để tránh nắng nóng](https://vnexpress.net/truong-hoc-doi-thoi-khoa-bieu-de-tranh-nang-nong-4733181.html) - 09:38 11/04/2024
