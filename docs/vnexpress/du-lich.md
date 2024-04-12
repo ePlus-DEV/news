@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Tour ngoại áp đảo tour nội vì vé máy bay cao](https://vnexpress.net/tour-ngoai-ap-dao-tour-noi-vi-ve-may-bay-cao-4733285.html) - 05:06 12/04/2024
+- 💂 [Tour ngoại áp đảo tour nội vì giá vé máy bay](https://vnexpress.net/tour-ngoai-ap-dao-tour-noi-vi-gia-ve-may-bay-4733285.html) - 05:06 12/04/2024
 - 🪄 [Mở tàu đêm Đà Lạt - Trại Mát](https://vnexpress.net/mo-tau-dem-da-lat-trai-mat-4733423.html) - 04:54 12/04/2024
 - 🦅 [48 giờ ở Tam Đảo](https://vnexpress.net/48-gio-o-tam-dao-4732577.html) - 04:47 12/04/2024
 - 🕴 [Khách đến TP HCM chơi 3 ngày mới hết &#39;trò vui&#39;](https://vnexpress.net/khach-den-tp-hcm-choi-3-ngay-moi-het-tro-vui-4733273.html) - 02:56 12/04/2024
