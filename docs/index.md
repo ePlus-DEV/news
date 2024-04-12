@@ -228,8 +228,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥷 [Vụ bắt cóc 2 cháu bé ở TPHCM, tiếp tục khởi tố thêm tội danh với bị can](https://laodong.vn/phap-luat/vu-bat-coc-2-chau-be-o-tphcm-tiep-tuc-khoi-to-them-toi-danh-voi-bi-can-1326843.ldo) - 13:07 12/04/2024
 - 💫 [V &lpar;BTS&rpar; khoe vóc dáng vạm vỡ, tăng 10kg sau 4 tháng nhập ngũ](https://laodong.vn/giai-tri/v-bts-khoe-voc-dang-vam-vo-tang-10kg-sau-4-thang-nhap-ngu-1326808.ldo) - 13:01 12/04/2024
 - 🎭 [Đề nghị truy tố 7 đối tượng trong đường dây buôn lậu thuốc lá quy mô lớn](https://laodong.vn/phap-luat/de-nghi-truy-to-7-doi-tuong-trong-duong-day-buon-lau-thuoc-la-quy-mo-lon-1326826.ldo) - 13:01 12/04/2024
-- 😎 [Tin 20h: Bố mẹ của người xin tìm &quot;kho báu&quot; dưới sông ở Bình Thuận lên tiếng](https://laodong.vn/video-xa-hoi/tin-20h-bo-me-cua-nguoi-xin-tim-kho-bau-duoi-song-o-binh-thuan-len-tieng-1326779.ldo) - 13:00 12/04/2024
-- 💄 [NASA hé lộ hình ảnh tàu thăm dò sự sống ngoài vũ trụ mới](https://laodong.vn/ban-tin/nasa-he-lo-hinh-anh-tau-tham-do-su-song-ngoai-vu-tru-moi-1326766.ldo) - 13:00 12/04/2024
+- 😎 [NASA hé lộ hình ảnh tàu thăm dò sự sống ngoài vũ trụ mới](https://laodong.vn/ban-tin/nasa-he-lo-hinh-anh-tau-tham-do-su-song-ngoai-vu-tru-moi-1326766.ldo) - 13:00 12/04/2024
+- 💄 [Tin 20h: Bố mẹ của người xin tìm &quot;kho báu&quot; dưới sông ở Bình Thuận lên tiếng](https://laodong.vn/video-xa-hoi/tin-20h-bo-me-cua-nguoi-xin-tim-kho-bau-duoi-song-o-binh-thuan-len-tieng-1326779.ldo) - 13:00 12/04/2024
 - 🫣 [Tuyển dụng dưới 6 tháng, có được xét tặng danh hiệu “Chiến sĩ tiên tiến”?](https://laodong.vn/tu-van-phap-luat/tuyen-dung-duoi-6-thang-co-duoc-xet-tang-danh-hieu-chien-si-tien-tien-1325748.ldo) - 13:00 12/04/2024
 - 🧑‍🏫 [Sau Chi Pu, Suni Hạ Linh xuất hiện ấn tượng ở Chị đẹp đạp gió rẽ sóng 2024](https://laodong.vn/giai-tri/sau-chi-pu-suni-ha-linh-xuat-hien-an-tuong-o-chi-dep-dap-gio-re-song-2024-1326835.ldo) - 12:57 12/04/2024
 - 🦣 [U23 Việt Nam tập với dây chun dưới thời tiết nắng nóng tại Qatar](https://laodong.vn/bong-da/u23-viet-nam-tap-voi-day-chun-duoi-thoi-tiet-nang-nong-tai-qatar-1326830.ldo) - 12:55 12/04/2024
@@ -247,8 +247,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐲 [Tòa án hàng đầu châu Âu phán quyết thắng cho tỉ phú Nga](https://laodong.vn/the-gioi/toa-an-hang-dau-chau-au-phan-quyet-thang-cho-ti-phu-nga-1326757.ldo) - 12:11 12/04/2024
 - 🚀 [Dự báo thời tiết ngày mai 13.4 trên cả nước](https://laodong.vn/moi-truong/du-bao-thoi-tiet-ngay-mai-134-tren-ca-nuoc-1326648.ldo) - 12:00 12/04/2024
 - 😺 [Vẻ đẹp hùng vĩ của dãy Thiên Sơn &lpar;Trung Quốc&rpar; nhìn từ trên cao](https://laodong.vn/ban-tin/ve-dep-hung-vi-cua-day-thien-son-trung-quoc-nhin-tu-tren-cao-1326631.ldo) - 12:00 12/04/2024
-- 🕴 [2 bài tập đàn ông nên thực hiện hàng tuần để tăng cơ, giữ vóc dáng săn chắc](https://laodong.vn/suc-khoe/2-bai-tap-dan-ong-nen-thuc-hien-hang-tuan-de-tang-co-giu-voc-dang-san-chac-1326689.ldo) - 12:00 12/04/2024
-- 🌋 [Diễn viên Thùy Anh chia sẻ về cuốn sách yêu thích &quot;5 ngôn ngữ tình yêu&quot;](https://laodong.vn/ban-tin/dien-vien-thuy-anh-chia-se-ve-cuon-sach-yeu-thich-5-ngon-ngu-tinh-yeu-1326695.ldo) - 12:00 12/04/2024
+- 🕴 [Rosé &lpar;Blackpink&rpar; thay đổi hình ảnh, ngày càng sexy sau khi tách khỏi YG](https://laodong.vn/giai-tri/rose-blackpink-thay-doi-hinh-anh-ngay-cang-sexy-sau-khi-tach-khoi-yg-1326756.ldo) - 12:00 12/04/2024
+- 🌋 [2 bài tập đàn ông nên thực hiện hàng tuần để tăng cơ, giữ vóc dáng săn chắc](https://laodong.vn/suc-khoe/2-bai-tap-dan-ong-nen-thuc-hien-hang-tuan-de-tang-co-giu-voc-dang-san-chac-1326689.ldo) - 12:00 12/04/2024
 - 💄 [Nóng Sài Gòn: Những khu vực có nắng nóng, nhiệt độ cao nhất ở TPHCM](https://laodong.vn/video/nong-sai-gon-nhung-khu-vuc-co-nang-nong-nhiet-do-cao-nhat-o-tphcm-1326732.ldo) - 12:00 12/04/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
