@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Thiếu ngủ đe dọa xã hội Nhật Bản](https://vnexpress.net/thieu-ngu-de-doa-xa-hoi-nhat-ban-4733584.html) - 18:00 12/04/2024
+- 🎭 [Nhật Bản đối phó cuộc khủng hoảng thiếu ngủ](https://vnexpress.net/nhat-ban-doi-pho-cuoc-khung-hoang-thieu-ngu-4733584.html) - 18:00 12/04/2024
 - 🕴 [Cái giá phải trả để sở hữu nhà ở Mỹ](https://vnexpress.net/cai-gia-phai-tra-de-so-huu-nha-o-my-4733335.html) - 17:00 12/04/2024
 - 🤭 [Nhà Trắng theo dõi chặt chẽ nguy cơ Iran tập kích Israel](https://vnexpress.net/nha-trang-theo-doi-chat-che-nguy-co-iran-tap-kich-israel-4733711.html) - 15:33 12/04/2024
 - 🧑‍💻 [Bỉ điều tra nghi vấn Nga can thiệp Nghị viện châu Âu](https://vnexpress.net/bi-dieu-tra-nghi-van-nga-can-thiep-nghi-vien-chau-au-4733696.html) - 14:25 12/04/2024
