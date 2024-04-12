@@ -48,7 +48,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🫣 [Cô giáo gõ thước kẻ làm sưng mắt học trò](https://vnexpress.net/co-giao-go-thuoc-ke-lam-sung-mat-hoc-tro-4733652.html) - 12:47 12/04/2024
 - 👨‍🏫 [Khảo sát: Doanh nghiệp gặp khó gì trong vận hành?](https://vnexpress.net/khao-sat-doanh-nghiep-gap-kho-gi-trong-van-hanh-4676741.html) - 12:30 12/04/2024
 - 🐻 [U23 Việt Nam tập tăng sức mạnh với dây cao su](https://vnexpress.net/u23-viet-nam-tap-tang-suc-manh-voi-day-cao-su-4733675.html) - 12:27 12/04/2024
-- 😺 [Nữ nghi phạm bắt cóc 2 trẻ trên phố đi bộ Nguyễn Huệ bị khởi tố thêm tội](https://vnexpress.net/nu-nghi-pham-bat-coc-2-tre-tren-pho-di-bo-nguyen-hue-bi-khoi-to-them-toi-4733685.html) - 12:24 12/04/2024
+- 😺 [Nghi phạm bắt cóc 2 trẻ ở phố đi bộ Nguyễn Huệ bị khởi tố thêm tội](https://vnexpress.net/nu-nghi-pham-bat-coc-2-tre-tren-pho-di-bo-nguyen-hue-bi-khoi-to-them-toi-4733685.html) - 12:24 12/04/2024
 - 🤔 [Tìm bạn trai để bổ sung những ưu điểm và cải thiện khuyết điểm](https://vnexpress.net/tim-ban-trai-de-bo-sung-nhung-uu-diem-va-cai-thien-khuyet-diem-4733436.html) - 12:00 12/04/2024
 - 🌮 [Nhiệm vụ bí mật giúp phát hiện xác tàu Titanic](https://vnexpress.net/nhiem-vu-bi-mat-giup-phat-hien-xac-tau-titanic-4733309.html) - 12:00 12/04/2024
 - 🦩 [7 điểm du lịch tránh nóng gần Sài Gòn](https://vnexpress.net/7-diem-du-lich-tranh-nong-gan-sai-gon-4733211.html) - 12:00 12/04/2024
