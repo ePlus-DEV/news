@@ -4,9 +4,9 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Phụ huynh trường Quốc tế Mỹ lo giáo viên ngừng dạy](https://vnexpress.net/phu-huynh-truong-quoc-te-my-lo-giao-vien-ngung-day-4733619.html) - 10:05 12/04/2024
-- 🦆 [Hà Nội xây mới nhiều trường THCS đón học sinh lớp 6](https://vnexpress.net/ha-noi-xay-moi-nhieu-truong-thcs-don-hoc-sinh-lop-6-4733549.html) - 09:21 12/04/2024
-- 🦩 [VUS tặng 300 suất thi chứng chỉ Cambridge miễn phí](https://vnexpress.net/vus-tang-300-suat-thi-chung-chi-cambridge-mien-phi-4733496.html) - 08:15 12/04/2024
+- 🤓 [VUS tặng 300 suất thi chứng chỉ Cambridge miễn phí](https://vnexpress.net/vus-tang-300-suat-thi-chung-chi-cambridge-mien-phi-4733496.html) - 10:15 12/04/2024
+- 🦆 [Phụ huynh trường Quốc tế Mỹ lo giáo viên ngừng dạy](https://vnexpress.net/phu-huynh-truong-quoc-te-my-lo-giao-vien-ngung-day-4733619.html) - 10:05 12/04/2024
+- 🦩 [Hà Nội xây mới nhiều trường THCS đón học sinh lớp 6](https://vnexpress.net/ha-noi-xay-moi-nhieu-truong-thcs-don-hoc-sinh-lop-6-4733549.html) - 09:21 12/04/2024
 - 🌮 [7 đại học Việt Nam vào top thế giới theo nhóm ngành](https://vnexpress.net/7-dai-hoc-viet-nam-vao-top-the-gioi-theo-nhom-nganh-4733082.html) - 07:07 12/04/2024
 - 🔭 [Trường chuyên Ngoại ngữ thi tuyển lớp 6 ngày 8/6](https://vnexpress.net/truong-chuyen-ngoai-ngu-thi-tuyen-lop-6-ngay-8-6-4733388.html) - 06:33 12/04/2024
 - 💡 [Điểm chuẩn vào lớp 10 ở Hà Nội ba năm qua](https://vnexpress.net/diem-chuan-vao-lop-10-o-ha-noi-ba-nam-qua-4733105.html) - 03:26 12/04/2024
