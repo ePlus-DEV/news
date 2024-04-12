@@ -397,7 +397,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Nghỉ lễ 30/4 - 1/5: Thủ tướng chốt nghỉ 5 ngày](https://baochinhphu.vn/nghi-le-30-4-1-5-thu-tuong-chot-nghi-5-ngay-102240412180501967.htm) - 18:04 12/04/2024
+- 💻 [Nghỉ lễ 30/4 - 1/5: Thủ tướng đồng ý nghỉ 5 ngày](https://baochinhphu.vn/nghi-le-30-4-1-5-thu-tuong-chot-nghi-5-ngay-102240412180501967.htm) - 18:04 12/04/2024
 - 🌜 [Hải quan Việt Nam tích cực thực hiện các chương trình sáng kiến hợp tác hải quan khu vực](https://baochinhphu.vn/hai-quan-viet-nam-tich-cuc-thuc-hien-cac-chuong-trinh-sang-kien-hop-tac-hai-quan-khu-vuc-10224041217434611.htm) - 17:43 12/04/2024
 - 🦆 [Xử lý nghiêm vi phạm về sản xuất, kinh doanh chế phẩm diệt côn trùng, diệt khuẩn](https://baochinhphu.vn/xu-ly-nghiem-vi-pham-ve-san-xuat-kinh-doanh-che-pham-diet-con-trung-diet-khuan-102240412163003375.htm) - 17:18 12/04/2024
 - 🌝 [Đề nghị xây dựng Luật Năng lượng nguyên tử &lpar;sửa đổi&rpar;](https://baochinhphu.vn/de-nghi-xay-dung-luat-nang-luong-nguyen-tu-sua-doi-102240412162026113.htm) - 17:06 12/04/2024
