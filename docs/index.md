@@ -27,7 +27,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Cho vay gây thất thoát hơn 36 tỷ đồng, 7 cựu cán bộ ngân hàng đi tù](https://vnexpress.net/gay-that-thoat-hon-36-ty-dong-7-nguyen-can-bo-ngan-hang-lanh-an-4733669.html) - 15:10 12/04/2024
-- 🧰 [Thí điểm cấp phiếu lý lịch tư pháp trên VNeID từ 22/4](https://vnexpress.net/thi-diem-cap-phieu-ly-lich-tu-phap-tren-vneid-tu-22-4-4733626.html) - 15:00 12/04/2024
+- 🧰 [Thí điểm cấp phiếu lý lịch tư pháp qua VNeID từ 22/4](https://vnexpress.net/thi-diem-cap-phieu-ly-lich-tu-phap-tren-vneid-tu-22-4-4733626.html) - 15:00 12/04/2024
 - 🥰 [Vụ trưởng Đông Bắc Á giữ chức Thứ trưởng Ngoại giao](https://vnexpress.net/vu-truong-dong-bac-a-giu-chuc-thu-truong-ngoai-giao-4733701.html) - 14:39 12/04/2024
 - 🌏 [Bỉ điều tra nghi vấn Nga can thiệp Nghị viện châu Âu](https://vnexpress.net/bi-dieu-tra-nghi-van-nga-can-thiep-nghi-vien-chau-au-4733696.html) - 14:25 12/04/2024
 - 🧐 [Tên đèo nào có nghĩa là Trời và Đất?](https://vnexpress.net/ten-deo-nao-co-nghia-la-troi-va-dat-4733570.html) - 14:14 12/04/2024
