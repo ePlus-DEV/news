@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Bạn gái Jeff Bezos mặc đầm xuyên thấu dự tiệc ở Nhà Trắng](https://vnexpress.net/ban-gai-jeff-bezos-mac-dam-xuyen-thau-du-tiec-o-nha-trang-4733350.html) - 02:13 12/04/2024
 - 💫 [Ca sĩ Park Bo Ram qua đời ở tuổi 30](https://vnexpress.net/ca-si-park-bo-ram-qua-doi-o-tuoi-30-4733346.html) - 01:28 12/04/2024
-- 🌮 [Minh Tú: &#39;Bố dặn tôi biết nhường nhịn trong hôn nhân&#39;](https://vnexpress.net/minh-tu-bo-dan-toi-biet-nhuong-nhin-trong-hon-nhan-4732228.html) - 17:00 11/04/2024
+- 🌮 [Minh Tú: &#39;Ba dặn tôi biết nhường nhịn trong hôn nhân&#39;](https://vnexpress.net/minh-tu-ba-dan-toi-biet-nhuong-nhin-trong-hon-nhan-4732228.html) - 17:00 11/04/2024
 - 🧠 [Thời trang sân bay dát hàng hiệu của Lệ Quyên](https://vnexpress.net/thoi-trang-san-bay-dat-hang-hieu-cua-le-quyen-4732723.html) - 13:14 11/04/2024
 - 👨‍🏫 [Dung mạo hút triệu fan của Lâm Chí Dĩnh](https://vnexpress.net/dung-mao-hut-trieu-fan-cua-lam-chi-dinh-4733088.html) - 11:00 11/04/2024
 - ⚗️ [Đạo diễn &#39;Shoplifters&#39; nói về tình bạn với Trần Anh Hùng](https://vnexpress.net/dao-dien-shoplifters-noi-ve-tinh-ban-voi-tran-anh-hung-4732921.html) - 10:38 11/04/2024
