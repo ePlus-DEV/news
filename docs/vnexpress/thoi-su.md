@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Thủ tướng đồng ý hoán đổi nghỉ lễ 5 ngày](https://vnexpress.net/thu-tuong-dong-y-hoan-doi-nghi-le-5-ngay-4733654.html) - 11:10 12/04/2024
+- 🦒 [Thủ tướng chốt nghỉ 5 ngày dịp 30/4](https://vnexpress.net/thu-tuong-chot-nghi-5-ngay-dip-30-4-4733654.html) - 11:10 12/04/2024
 - 🤓 [Anh em sinh đôi bị sóng biển cuốn mất tích](https://vnexpress.net/anh-em-sinh-doi-bi-song-bien-cuon-mat-tich-4733614.html) - 09:39 12/04/2024
 - ⚗️ [Lo ngại vênh công nghệ, khó kết nối giữa các tuyến metro](https://vnexpress.net/lo-ngai-venh-cong-nghe-kho-ket-noi-giua-cac-tuyen-metro-4733286.html) - 09:04 12/04/2024
 - 🌊 [Sà lan chở container tông cầu Đồng Nai](https://vnexpress.net/sa-lan-cho-container-tong-cau-dong-nai-4733492.html) - 08:56 12/04/2024
