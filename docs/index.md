@@ -79,7 +79,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💂 [Bac A Bank được xếp hạng tín nhiệm A- với triển vọng ổn định](https://vnexpress.net/bac-a-bank-duoc-xep-hang-tin-nhiem-a-voi-trien-vong-on-dinh-4732518.html) - 10:00 12/04/2024
 - 🚀 [Dấu ấn nổi bật của Daikin qua 100 năm](https://vnexpress.net/dau-an-noi-bat-cua-daikin-qua-100-nam-4732035.html) - 10:00 12/04/2024
 - 🕴 [IMF lo ngại Mỹ duy trì lãi suất cao](https://vnexpress.net/imf-lo-ngai-my-duy-tri-lai-suat-cao-4733405.html) - 09:55 12/04/2024
-- 🦆 [&#39;Đò dọc&#39; - nỗi niềm người xa quê](https://vnexpress.net/do-doc-noi-niem-nguoi-xa-que-4731879.html) - 09:53 12/04/2024<!-- vnexpress:END -->
+- 🦆 [&#39;Đò dọc&#39; - nỗi niềm người xa quê](https://vnexpress.net/do-doc-noi-niem-nguoi-xa-que-4731879.html) - 09:53 12/04/2024
+- 💫 [Đức phát hiện nhóm thiếu niên âm mưu tấn công khủng bố](https://vnexpress.net/duc-phat-hien-nhom-thieu-nien-am-muu-tan-cong-khung-bo-4733594.html) - 09:51 12/04/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
