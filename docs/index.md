@@ -213,7 +213,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- laodong:START -->
 - 🗽 [4 trường hợp công an xã được tuần tra kiểm soát giao thông](https://laodong.vn/ban-doc/4-truong-hop-cong-an-xa-duoc-tuan-tra-kiem-soat-giao-thong-1327050.ldo) - 16:30 13/04/2024
 - 📝 [Man City trở lại ngôi đầu bảng sau trận đại thắng Luton](https://laodong.vn/bong-da-quoc-te/man-city-tro-lai-ngoi-dau-bang-sau-tran-dai-thang-luton-1327160.ldo) - 16:27 13/04/2024
-- 🦏 [Trực tiếp Bournemouth 0-0 Man United: Hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-bournemouth-0-0-man-united-hiep-1-1327155.ldo) - 15:42 13/04/2024
+- 🦏 [Trực tiếp Bournemouth 1-0 Man United: Solanke mở tỉ số](https://laodong.vn/bong-da-quoc-te/truc-tiep-bournemouth-1-0-man-united-solanke-mo-ti-so-1327155.ldo) - 15:42 13/04/2024
 - 🦩 [Jannik Sinner dừng chân ở bán kết Monte-Carlo 2024](https://laodong.vn/tennis/jannik-sinner-dung-chan-o-ban-ket-monte-carlo-2024-1327151.ldo) - 15:26 13/04/2024
 - 🦏 [Minh Tú diện lại áo dài cưới của mẹ trong hôn lễ](https://laodong.vn/gia-dinh-hon-nhan/minh-tu-dien-lai-ao-dai-cuoi-cua-me-trong-hon-le-1327144.ldo) - 15:26 13/04/2024
 - 🧰 [3 bộ trang phục cưới đặc biệt của siêu mẫu Minh Tú](https://laodong.vn/thoi-trang/3-bo-trang-phuc-cuoi-dac-biet-cua-sieu-mau-minh-tu-1327148.ldo) - 15:24 13/04/2024
