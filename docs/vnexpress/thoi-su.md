@@ -16,7 +16,7 @@ sidebar_position: 1
 - 🚦 [Châu bản triều Nguyễn bị xuống cấp](https://vnexpress.net/chau-ban-trieu-nguyen-bi-xuong-cap-4733407.html) - 08:23 12/04/2024
 - 🎉 [5 cầu cạn trên cao tốc Diễn Châu - Bãi Vọt trước ngày thông xe](https://vnexpress.net/5-cau-can-tren-cao-toc-dien-chau-bai-vot-truoc-ngay-thong-xe-4733043.html) - 08:17 12/04/2024
 - 🦒 [Đề xuất xây 3 tuyến tàu điện không ray ở Hà Nội](https://vnexpress.net/de-xuat-xay-3-tuyen-tau-dien-khong-ray-o-ha-noi-4733429.html) - 04:43 12/04/2024
-- 🤗 [Hải Phòng lần đầu bắn pháo hoa tầm cao tại Lễ hội Hoa phượng đỏ](https://vnexpress.net/hai-phong-lan-dau-ban-phao-hoa-tam-cao-tai-le-hoi-hoa-phuong-do-4733421.html) - 04:08 12/04/2024
+- 🤗 [Hải Phòng lần đầu bắn pháo hoa tầm cao tại lễ hội Hoa phượng đỏ](https://vnexpress.net/hai-phong-lan-dau-ban-phao-hoa-tam-cao-tai-le-hoi-hoa-phuong-do-4733421.html) - 04:08 12/04/2024
 - 💼 [70 ôtô điện chở khách tham quan nội đô TP HCM](https://vnexpress.net/70-oto-dien-cho-khach-tham-quan-noi-do-tp-hcm-4733416.html) - 04:00 12/04/2024
 - 🤩 [Người dân Mỹ Tho sống trong triều cường](https://vnexpress.net/nguoi-dan-my-tho-song-trong-trieu-cuong-4733268.html) - 22:00 11/04/2024
 - 🤡 [Nhà máy nước sạch lớn nhất Thừa Thiên Huế](https://vnexpress.net/nha-may-nuoc-sach-lon-nhat-thua-thien-hue-4733124.html) - 21:00 11/04/2024
