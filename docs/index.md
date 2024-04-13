@@ -311,56 +311,43 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Bắt nguyên Trưởng Công an TP Phú Quốc Lê Văn Mót](https://www.sggp.org.vn/bat-nguyen-truong-cong-an-tp-phu-quoc-le-van-mot-post735206.html) - 07:32 13/04/2024
-- 🌝 [Hấp dẫn các điểm du lịch dịp nghỉ lễ 30-4 và 1-5 tại miền đất võ Bình Định](https://www.sggp.org.vn/hap-dan-cac-diem-du-lich-dip-nghi-le-30-4-va-1-5-tai-mien-dat-vo-binh-dinh-post735197.html) - 07:22 13/04/2024
-- 💃 [Khai mạc Giải vô địch Bóng chuyền nam - nữ tỉnh Bình Dương năm 2024](https://www.sggp.org.vn/khai-mac-giai-vo-dich-bong-chuyen-nam-nu-tinh-binh-duong-nam-2024-post735205.html) - 07:13 13/04/2024
-- 🧑‍💻 [Danh sách đội tuyển futsal Việt Nam tranh vé dự Futsal World Cup 2024](https://www.sggp.org.vn/danh-sach-doi-tuyen-futsal-viet-nam-tranh-ve-du-futsal-world-cup-2024-post735201.html) - 07:13 13/04/2024
-- 🌊 [169 nền tảng, dịch vụ, giải pháp số đoạt Giải thưởng Sao Khuê 2024](https://www.sggp.org.vn/169-nen-tang-dich-vu-giai-phap-so-doat-giai-thuong-sao-khue-2024-post735200.html) - 07:11 13/04/2024
-- 🧑‍💻 [Hé lộ chỉ số đặc biệt mà Bellingham sắp vượt mặt Rooney](https://www.sggp.org.vn/he-lo-chi-so-dac-biet-ma-bellingham-sap-vuot-mat-rooney-post735199.html) - 06:51 13/04/2024
-- ⛽️ [Cúp Tốc độ Thống Nhất TPHCM 2024: Hào hứng đua tranh 100m nữ](https://www.sggp.org.vn/cup-toc-do-thong-nhat-tphcm-2024-hao-hung-dua-tranh-100m-nu-post735192.html) - 06:51 13/04/2024
-- 😎 [Martin Lass lần thứ 3 thắng chặng áp sát Áo xanh](https://www.sggp.org.vn/martin-lass-lan-thu-3-thang-chang-ap-sat-ao-xanh-post735196.html) - 06:50 13/04/2024
-- 🌜 [Podcast bản tin trưa 13-4: Việt Nam lọt top những địa điểm tốt nhất cho phụ nữ đi du lịch một mình](https://www.sggp.org.vn/podcast-ban-tin-trua-13-4-viet-nam-lot-top-nhung-dia-diem-tot-nhat-cho-phu-nu-di-du-lich-mot-minh-post735198.html) - 06:42 13/04/2024
-- 💻 [Hội LHPN Việt Nam tặng quà Trung tâm Nuôi dạy trẻ khuyết tật Võ Hồng Sơn](https://www.sggp.org.vn/hoi-lhpn-viet-nam-tang-qua-trung-tam-nuoi-day-tre-khuyet-tat-vo-hong-son-post735189.html) - 06:38 13/04/2024
-- 👍 [Bản tin trưa 13-4: Hầm Bãi Gió tiếp tục sạt lở, đường sắt Bắc Nam chưa thể thông tuyến; Nắng nóng lan ra diện rộng, đặc biệt gay gắt ở miền Trung](https://www.sggp.org.vn/ban-tin-trua-13-4-ham-bai-gio-tiep-tuc-sat-lo-duong-sat-bac-nam-chua-the-thong-tuyen-nang-nong-lan-ra-dien-rong-dac-biet-gay-gat-o-mien-trung-post735195.html) - 06:00 13/04/2024
-- 🦆 [Xavi khẳng định tính đúng đắn với tuyên bố chia tay](https://www.sggp.org.vn/xavi-khang-dinh-tinh-dung-dan-voi-tuyen-bo-chia-tay-post735194.html) - 05:50 13/04/2024
-- 🦩 [Greenwood trở lại Man United: khó nhưng không phải là không thể](https://www.sggp.org.vn/greenwood-tro-lai-man-united-kho-nhung-khong-phai-la-khong-the-post735193.html) - 05:49 13/04/2024
-- 🥰 [Thủ tướng: Nhiều cách làm sáng tạo để xóa nhà tạm, nhà dột nát cho hộ nghèo](https://www.sggp.org.vn/thu-tuong-nhieu-cach-lam-sang-tao-de-xoa-nha-tam-nha-dot-nat-cho-ho-ngheo-post735191.html) - 05:48 13/04/2024
-- 🎬 [Tai nạn cáp treo ở Thổ Nhĩ Kỳ: 1 người chết, 184 người mắc kẹt trên đường cáp](https://www.sggp.org.vn/tai-nan-cap-treo-o-tho-nhi-ky-1-nguoi-chet-184-nguoi-mac-ket-tren-duong-cap-post735190.html) - 05:18 13/04/2024
-- 🦩 [Lời kêu gọi chung tay “Xóa nhà tạm, nhà dột nát” năm 2025](https://www.sggp.org.vn/loi-keu-goi-chung-tay-xoa-nha-tam-nha-dot-nat-nam-2025-post735187.html) - 05:01 13/04/2024
-- 🌮 [“Của để dành” của điền kinh Việt Nam](https://www.sggp.org.vn/cua-de-danh-cua-dien-kinh-viet-nam-post735188.html) - 04:46 13/04/2024
-- 👍 [Pavel Sivakov không cản nổi Alexey Lutsenko đăng quang Giro d&#39;Abruzzo 2024](https://www.sggp.org.vn/pavel-sivakov-khong-can-noi-alexey-lutsenko-dang-quang-giro-dabruzzo-2024-post735185.html) - 04:46 13/04/2024
-- 🦒 [Trịnh Thu Vinh, Phạm Quang Huy xếp hạng 8 nội dung đồng đội 10m súng ngắn hơi tại giải vòng loại Olympic ở Brazil](https://www.sggp.org.vn/trinh-thu-vinh-pham-quang-huy-xep-hang-8-noi-dung-dong-doi-10m-sung-ngan-hoi-tai-giai-vong-loai-olympic-o-brazil-post735179.html) - 04:45 13/04/2024
-- 🤡 [Tổng thống Pháp muốn Mbappe dự Olympic Paris 2024](https://www.sggp.org.vn/tong-thong-phap-muon-mbappe-du-olympic-paris-2024-post735168.html) - 04:45 13/04/2024
-- 🐎 [Saigon Co.op phát động “Tháng hành động vì an toàn thực phẩm”](https://www.sggp.org.vn/saigon-coop-phat-dong-thang-hanh-dong-vi-an-toan-thuc-pham-post735184.html) - 04:23 13/04/2024
-- 🦆 [Thủ tướng Phạm Minh Chính phát động phong trào “Xóa nhà tạm, nhà dột nát” trên cả nước](https://www.sggp.org.vn/thu-tuong-pham-minh-chinh-phat-dong-phong-trao-xoa-nha-tam-nha-dot-nat-tren-ca-nuoc-post735159.html) - 04:23 13/04/2024
-- 🦅 [Bình Dương: Hơn 1.500 người ra quân làm công tác dân vận đợt 1-2024](https://www.sggp.org.vn/binh-duong-hon-1500-nguoi-ra-quan-lam-cong-tac-dan-van-dot-1-2024-post735162.html) - 04:17 13/04/2024
-- 🫣 [HIFF 2024: Sẵn sàng cho đêm bế mạc và trao giải](https://www.sggp.org.vn/hiff-2024-san-sang-cho-dem-be-mac-va-trao-giai-post735181.html) - 04:16 13/04/2024
-- 🎭 [Công ty Sanvinest Khánh Hòa hợp tác Tập đoàn Đồng Nhân Đường &lpar;Trung Quốc&rpar; xuất khẩu sản phẩm](https://www.sggp.org.vn/cong-ty-sanvinest-khanh-hoa-hop-tac-tap-doan-dong-nhan-duong-trung-quoc-xuat-khau-san-pham-post735166.html) - 04:15 13/04/2024
-- 🫶 [Dàn nghệ sĩ gạo cội “chào tạm biệt” công viên điện ảnh](https://www.sggp.org.vn/dan-nghe-si-gao-coi-chao-tam-biet-cong-vien-dien-anh-post735160.html) - 04:11 13/04/2024
-- 🎓 [Công an điều tra vụ vỡ hụi hàng trăm tỷ đồng ở Phú Quốc &lpar;Kiên Giang&rpar;](https://www.sggp.org.vn/cong-an-dieu-tra-vu-vo-hui-hang-tram-ty-dong-o-phu-quoc-kien-giang-post735178.html) - 04:10 13/04/2024
-- 🤡 [Nghị sĩ Mỹ nổi giận vì laptop Huawei sử dụng chip Intel](https://www.sggp.org.vn/nghi-si-my-noi-gian-vi-laptop-huawei-su-dung-chip-intel-post735171.html) - 04:06 13/04/2024
-- 🦅 [Hầm Bãi Gió tiếp tục sạt lở, đường sắt Bắc Nam chưa thể thông tuyến](https://www.sggp.org.vn/ham-bai-gio-tiep-tuc-sat-lo-duong-sat-bac-nam-chua-the-thong-tuyen-post735173.html) - 04:04 13/04/2024
-- 🧑‍🏫 [Sức bật mới từ kinh tế tuần hoàn](https://www.sggp.org.vn/suc-bat-moi-tu-kinh-te-tuan-hoan-post735148.html) - 03:54 13/04/2024
-- 🕴 [Lãnh đạo quận 7 được điều động vị trí công tác](https://www.sggp.org.vn/lanh-dao-quan-7-duoc-dieu-dong-vi-tri-cong-tac-post735174.html) - 03:43 13/04/2024
-- 🦆 [Kon Tum: Đã khắc phục sự cố vỡ đập thủy lợi Đắk Ngao 1](https://www.sggp.org.vn/kon-tum-da-khac-phuc-su-co-vo-dap-thuy-loi-dak-ngao-1-post735169.html) - 03:37 13/04/2024
-- 🎃 [Thi phòng cháy, chữa cháy, nâng cao kỹ năng ngừa cháy nổ mùa cao điểm nắng nóng](https://www.sggp.org.vn/thi-phong-chay-chua-chay-nang-cao-ky-nang-ngua-chay-no-mua-cao-diem-nang-nong-post735163.html) - 03:36 13/04/2024
-- 🌮 [Việt Nam lọt top những địa điểm tốt nhất cho phụ nữ đi du lịch một mình](https://www.sggp.org.vn/viet-nam-lot-top-nhung-dia-diem-tot-nhat-cho-phu-nu-di-du-lich-mot-minh-post735175.html) - 03:35 13/04/2024
-- 🥰 [Chủ tịch UBND TPHCM Phan Văn Mãi dự lễ công bố thành lập khu phố, ấp tại huyện Cần Giờ](https://www.sggp.org.vn/chu-tich-ubnd-tphcm-phan-van-mai-du-le-cong-bo-thanh-lap-khu-pho-ap-tai-huyen-can-gio-post735167.html) - 03:28 13/04/2024
-- 🕯 [Vàng SJC “hạ nhiệt” giảm gần 2 triệu đồng/lượng](https://www.sggp.org.vn/vang-sjc-ha-nhiet-giam-gan-2-trieu-dongluong-post735164.html) - 03:08 13/04/2024
-- 🙉 [Sài Gòn Giải Phóng ngày 13/4/2024](https://www.sggp.org.vn/sai-gon-giai-phong-ngay-1342024-post735153.html) - 02:48 13/04/2024
-- 💡 [Hơn 1.000 khán giả nghe Lý Hải hát trên phố đi bộ Nguyễn Huệ](https://www.sggp.org.vn/hon-1000-khan-gia-nghe-ly-hai-hat-tren-pho-di-bo-nguyen-hue-post735129.html) - 02:44 13/04/2024
-- 💫 [Chelsea chi hơn 75 triệu bảng phí môi giới](https://www.sggp.org.vn/chelsea-chi-hon-75-trieu-bang-phi-moi-gioi-post735161.html) - 02:30 13/04/2024
-- 🧑‍💻 [Quân đội Nga thế chân quân Pháp ở Niger](https://www.sggp.org.vn/quan-doi-nga-the-chan-quan-phap-o-niger-post735157.html) - 02:11 13/04/2024
-- 🎊 [Shinhan Life Việt Nam nhận giải thưởng Rồng Vàng 2024](https://www.sggp.org.vn/shinhan-life-viet-nam-nhan-giai-thuong-rong-vang-2024-post735118.html) - 01:53 13/04/2024
-- 🤖 [Arteta ngưỡng mộ đồng hương Emery](https://www.sggp.org.vn/arteta-nguong-mo-dong-huong-emery-post735158.html) - 01:53 13/04/2024
-- 💫 [Nắng nóng lan ra diện rộng, đặc biệt gay gắt ở miền Trung](https://www.sggp.org.vn/nang-nong-lan-ra-dien-rong-dac-biet-gay-gat-o-mien-trung-post735151.html) - 01:46 13/04/2024
-- 👨‍🏫 [Người dân ngó lơ cầu bộ hành](https://www.sggp.org.vn/nguoi-dan-ngo-lo-cau-bo-hanh-post735142.html) - 01:44 13/04/2024
-- 🧰 [Man.United đã “chốt” xong kế hoạch chuyển nhượng](https://www.sggp.org.vn/manunited-da-chot-xong-ke-hoach-chuyen-nhuong-post735156.html) - 00:58 13/04/2024
-- 🥰 [Nông nghiệp hữu cơ trên hành trình chinh phục thị trường: Thực phẩm Việt chinh phục thị trường toàn cầu](https://www.sggp.org.vn/nong-nghiep-huu-co-tren-hanh-trinh-chinh-phuc-thi-truong-thuc-pham-viet-chinh-phuc-thi-truong-toan-cau-post735147.html) - 00:50 13/04/2024
-- 💼 [Khởi nghiệp với chất liệu văn hóa Việt](https://www.sggp.org.vn/khoi-nghiep-voi-chat-lieu-van-hoa-viet-post735149.html) - 00:14 13/04/2024
-- 🤗 [Guardiola: “Thách thức của Man.City chính là từ bản thân”](https://www.sggp.org.vn/guardiola-thach-thuc-cua-mancity-chinh-la-tu-ban-than-post735155.html) - 00:08 13/04/2024
-- 🦩 [Mặt trái của tự chủ đại học - Bài 3: Khơi thông chính sách tự chủ](https://www.sggp.org.vn/mat-trai-cua-tu-chu-dai-hoc-bai-3-khoi-thong-chinh-sach-tu-chu-post735146.html) - 00:01 13/04/2024
-- 🫶 [Nhiệt độ cao bất thường, chưa thấy dấu hiệu mùa mưa ở Nam bộ](https://www.sggp.org.vn/nhiet-do-cao-bat-thuong-chua-thay-dau-hieu-mua-mua-o-nam-bo-post735132.html) - 23:39 12/04/2024<!-- sggp:END -->
+- 🪜 [Án tù chung thân cho gã đàn ông ghen tuông, ra tay sát hại vợ](https://vtcnews.vn/an-tu-chung-than-cho-ga-dan-ong-ghen-tuong-ra-tay-sat-hai-vo-ar864785.html) - 07:18 13/04/2024
+- 🌝 [Khởi tố, bắt giam nguyên Trưởng Công an TP Phú Quốc](https://vtcnews.vn/khoi-to-bat-giam-nguyen-truong-cong-an-tp-phu-quoc-ar864781.html) - 07:08 13/04/2024
+- 💃 [‘Lớp băng tưởng như bất khả xâm phạm ở Nam Cực đang tan chảy từ bên dưới’](https://vtcnews.vn/lop-bang-tuong-nhu-bat-kha-xam-pham-o-nam-cuc-dang-tan-chay-tu-ben-duoi-ar864776.html) - 07:00 13/04/2024
+- 🧑‍💻 [Máy bay chiến đấu F-16 tự bay bằng AI của không quân Mỹ](https://vtcnews.vn/may-bay-chien-dau-f-16-tu-bay-bang-ai-cua-khong-quan-my-ar864448.html) - 07:00 13/04/2024
+- 🌊 [Sau 15 năm, dự án hơn 300 triệu USD ở Đà Nẵng hoang tàn](https://vtcnews.vn/sau-15-nam-du-an-hon-300-trieu-usd-o-da-nang-hoang-tan-ar864763.html) - 06:46 13/04/2024
+- 🧑‍💻 [VFF có nhiều ứng viên đẳng cấp thay HLV Troussier](https://vtcnews.vn/vff-co-nhieu-ung-vien-dang-cap-thay-hlv-troussier-ar864770.html) - 06:38 13/04/2024
+- ⛽️ [Làng chài cổ đẹp nhất thế giới ở vịnh Hạ Long tạm dừng đón khách](https://vtcnews.vn/lang-chai-co-dep-nhat-the-gioi-o-vinh-ha-long-tam-dung-don-khach-ar864773.html) - 06:33 13/04/2024
+- 😎 [Có một Phượng Hoàng Cổ Trấn giữa lòng Đà Lạt](https://vtcnews.vn/co-mot-phuong-hoang-co-tran-giua-long-da-lat-ar864765.html) - 06:12 13/04/2024
+- 🌜 [Đàn cá heo hơn 100 con vào gần bờ &#39;nhảy múa&#39; trước mạn thuyền ngư dân Phú Yên](https://vtcnews.vn/dan-ca-heo-hon-100-con-vao-gan-bo-nhay-mua-truoc-man-thuyen-ngu-dan-phu-yen-ar864756.html) - 05:09 13/04/2024
+- 💻 [MobiFone đạt danh hiệu nhà cung cấp dịch vụ viễn thông tiêu biểu](https://vtcnews.vn/mobifone-dat-danh-hieu-nha-cung-cap-dich-vu-vien-thong-tieu-bieu-ar864761.html) - 05:05 13/04/2024
+- 👍 [Thủ tướng: &#39;Ai có gì góp nấy&#39; phấn đấu xóa nhà tạm, dột nát trong năm 2025](https://vtcnews.vn/thu-tuong-ai-co-gi-gop-nay-phan-dau-xoa-nha-tam-dot-nat-trong-nam-2025-ar864731.html) - 04:54 13/04/2024
+- 🦆 [Tài xế của Trịnh Văn Quyết không nộp tiền góp vốn vẫn đứng tên 230 tỷ đồng](https://vtcnews.vn/tai-xe-cua-trinh-van-quyet-khong-nop-tien-gop-von-van-dung-ten-230-ty-dong-ar864726.html) - 04:51 13/04/2024
+- 🦩 [Nắng nóng gay gắt khắp Đông Nam Á, chưa xác định được thời điểm hạ nhiệt](https://vtcnews.vn/nang-nong-gay-gat-khap-dong-nam-a-chua-xac-dinh-duoc-thoi-diem-ha-nhiet-ar864754.html) - 04:47 13/04/2024
+- 🥰 [8 năm hôn nhân của Thuý Diễm và Lương Thế Thành](https://vtcnews.vn/8-nam-hon-nhan-cua-thuy-diem-va-luong-the-thanh-ar864716.html) - 03:59 13/04/2024
+- 🎬 [Mâu thuẫn trên bàn nhậu, thanh niên ở Quảng Nam cầm dao chém bạn](https://vtcnews.vn/mau-thuan-tren-ban-nhau-thanh-nien-o-quang-nam-cam-dao-chem-ban-ar864727.html) - 03:51 13/04/2024
+- 🦩 [Đại sứ quán Việt Nam tại Israel ra khuyến cáo trong bối cảnh căng thẳng](https://vtcnews.vn/dai-su-quan-viet-nam-tai-israel-ra-khuyen-cao-trong-boi-canh-cang-thang-ar864707.html) - 03:04 13/04/2024
+- 🌮 [Hai thủ khoa trường luật chia sẻ bí quyết ôn thi tốt nghiệp THPT](https://vtcnews.vn/hai-thu-khoa-truong-luat-chia-se-bi-quyet-on-thi-tot-nghiep-thpt-ar859507.html) - 02:39 13/04/2024
+- 👍 [Ô tô khách tông xe máy, 2 thanh niên tử vong](https://vtcnews.vn/o-to-khach-tong-xe-may-2-thanh-nien-tu-vong-ar864713.html) - 02:23 13/04/2024
+- 🦒 [Kết hôn muộn, chật vật mãi mới có con](https://vtcnews.vn/ket-hon-muon-chat-vat-mai-moi-co-con-ar863357.html) - 02:18 13/04/2024
+- 🤡 [Anh em sinh đôi mất tích khi tắm biển Đà Nẵng: Tìm thấy một thi thể](https://vtcnews.vn/anh-em-sinh-doi-mat-tich-khi-tam-bien-da-nang-tim-thay-mot-thi-the-ar864706.html) - 01:53 13/04/2024
+- 🐎 [Chậm giải quyết thủ tục đất đai, 6 chủ tịch cấp huyện ở Quảng Ngãi bị phê bình](https://vtcnews.vn/cham-giai-quyet-thu-tuc-dat-dai-6-chu-tich-cap-huyen-o-quang-ngai-bi-phe-binh-ar864698.html) - 01:22 13/04/2024
+- 🦆 [Nhiều nước phát cảnh báo công dân không tới Iran, Israel](https://vtcnews.vn/nhieu-nuoc-phat-canh-bao-cong-dan-khong-toi-iran-israel-ar864697.html) - 01:15 13/04/2024
+- 🦅 [Tài xế xe con được bài học nhớ đời khi vượt ẩu, tạt đầu vào điểm mù xe tải](https://vtcnews.vn/tai-xe-xe-con-duoc-bai-hoc-nho-doi-khi-vuot-au-tat-dau-vao-diem-mu-xe-tai-ar864652.html) - 01:03 13/04/2024
+- 🫣 [Hà Lan cam kết hỗ trợ 6 tỷ USD cho Ukraine đến năm 2025](https://vtcnews.vn/ha-lan-cam-ket-ho-tro-6-ty-usd-cho-ukraine-den-nam-2025-ar864685.html) - 00:49 13/04/2024
+- 🎭 [Độc lạ Canada: Người đi bộ được khuyến khích cầm gạch khi sang đường](https://vtcnews.vn/doc-la-canada-nguoi-di-bo-duoc-khuyen-khich-cam-gach-khi-sang-duong-ar864670.html) - 00:45 13/04/2024
+- 🫶 [Nga phóng thành công tên lửa đạn đạo xuyên lục địa](https://vtcnews.vn/nga-phong-thanh-cong-ten-lua-dan-dao-xuyen-luc-dia-ar864693.html) - 00:39 13/04/2024
+- 🎓 [Ngoại trưởng Nga: Hội nghị về Ukraine ở Thụy Sĩ &#39;không có ý nghĩa&#39;](https://vtcnews.vn/ngoai-truong-nga-hoi-nghi-ve-ukraine-o-thuy-si-khong-co-y-nghia-ar864686.html) - 00:01 13/04/2024
+- 🤡 [Vừa gặp đã trả 1 tỷ đồng sính lễ, cưới xong vợ lập tức sống với người khác](https://vtcnews.vn/vua-gap-da-tra-1-ty-dong-sinh-le-cuoi-xong-vo-lap-tuc-song-voi-nguoi-khac-ar863425.html) - 00:00 13/04/2024
+- 🦅 [Tốt nghiệp ngành Công nghệ Hàng không vũ trụ sẽ làm việc ở đâu?](https://vtcnews.vn/tot-nghiep-nganh-cong-nghe-hang-khong-vu-tru-se-lam-viec-o-dau-ar863868.html) - 23:53 12/04/2024
+- 🧑‍🏫 [Dự báo thời tiết TP.HCM hôm nay 13/4: Ngày nắng nóng, nhiệt độ cao nhất 37 độ C](https://vtcnews.vn/du-bao-thoi-tiet-tp-hcm-hom-nay-13-4-ngay-nang-nong-nhiet-do-cao-nhat-37-do-c-ar864671.html) - 23:45 12/04/2024
+- 🕴 [Những thiết lập iPhone căn bản giúp người lớn tuổi dễ sử dụng](https://vtcnews.vn/nhung-thiet-lap-iphone-can-ban-giup-nguoi-lon-tuoi-de-su-dung-ar864163.html) - 23:44 12/04/2024
+- 🦆 [Sao Việt 13/4: Hồng Nhung trẻ đẹp ở tuổi 54, Việt Hương lộ diện già nua](https://vtcnews.vn/sao-viet-13-4-hong-nhung-tre-dep-o-tuoi-54-viet-huong-lo-dien-gia-nua-ar864667.html) - 23:39 12/04/2024
+- 🎃 [Giá vàng hôm nay 13/4: Đảo chiều giảm mạnh từ đỉnh cao kỷ lục](https://vtcnews.vn/gia-vang-hom-nay-13-4-dao-chieu-giam-manh-tu-dinh-cao-ky-luc-ar864689.html) - 23:34 12/04/2024
+- 🌮 [Trợ lý của cựu HLV Man Utd muốn dẫn dắt đội tuyển Việt Nam](https://vtcnews.vn/tro-ly-cua-cuu-hlv-man-utd-muon-dan-dat-doi-tuyen-viet-nam-ar864682.html) - 23:22 12/04/2024
+- 🥰 [Giá xăng dầu hôm nay 13/4: Tiếp tục tăng](https://vtcnews.vn/gia-xang-dau-hom-nay-13-4-tiep-tuc-tang-ar864688.html) - 23:17 12/04/2024
+- 🕯 [Sử dụng điện thoại khi đang lái xe ô tô bị phạt bao nhiêu tiền?](https://vtcnews.vn/su-dung-dien-thoai-khi-dang-lai-xe-o-to-bi-phat-bao-nhieu-tien-ar864057.html) - 23:12 12/04/2024
+- 🙉 [Nghi phạm giết người ở Nam Định bị bắt tại Đà Nẵng](https://vtcnews.vn/nghi-pham-giet-nguoi-o-nam-dinh-bi-bat-tai-da-nang-ar864659.html) - 15:52 12/04/2024<!-- sggp:END -->
 
 ## Báo VTC
 <!-- vtc:START -->
