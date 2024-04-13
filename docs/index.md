@@ -590,7 +590,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🫶 [Showbiz 13/4: Minh Tú mặc áo dài cưới chồng Tây](https://tienphong.vn/showbiz-134-minh-tu-mac-ao-dai-cuoi-chong-tay-post1628690.tpo) - 20:20 13/04/2024
 - 🌁 [Gần nửa showbiz Việt mặc đồ đen dự cưới, tặng vàng cho Minh Tú](https://tienphong.vn/gan-nua-showbiz-viet-mac-do-den-du-cuoi-tang-vang-cho-minh-tu-post1628641.tpo) - 20:14 13/04/2024
 - 🤭 [Gần 2.000 vận động viên nhí tranh tài giải chạy quanh Hồ Tây](https://tienphong.vn/gan-2000-van-dong-vien-nhi-tranh-tai-giai-chay-quanh-ho-tay-post1628692.tpo) - 20:14 13/04/2024
-- 💪 [Trực tiếp Man City vs Luton 1-0 &lpar;H2&rpar;: Hiệp 2 bắt đầu](https://tienphong.vn/truc-tiep-man-city-vs-luton-1-0-h2-hiep-2-bat-dau-post1628680.tpo) - 20:13 13/04/2024
+- 💪 [Trực tiếp Man City vs Luton 2-0 &lpar;H2&rpar;: Tuyệt phẩm của Kovacic](https://tienphong.vn/truc-tiep-man-city-vs-luton-2-0-h2-tuyet-pham-cua-kovacic-post1628680.tpo) - 20:13 13/04/2024
 - 🎡 [Bình Dương phát động ra quân xây dựng nếp sống văn hóa, văn minh](https://tienphong.vn/binh-duong-phat-dong-ra-quan-xay-dung-nep-song-van-hoa-van-minh-post1628588.tpo) - 19:56 13/04/2024
 - 😎 [Quan chức Lugansk nói Ukraine phóng tên lửa vào nhà máy](https://tienphong.vn/quan-chuc-lugansk-noi-ukraine-phong-ten-lua-vao-nha-may-post1628686.tpo) - 19:56 13/04/2024
 - 🦄 [Hội nghị quốc tế về ‘Quản lý đường thở WAAM’ lần đầu tổ chức tại Đông Nam Á](https://tienphong.vn/hoi-nghi-quoc-te-ve-quan-ly-duong-tho-waam-lan-dau-to-chuc-tai-dong-nam-a-post1628689.tpo) - 19:46 13/04/2024
