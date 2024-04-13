@@ -10,8 +10,8 @@ sidebar_position: 5
 - 🤗 [Arteta: &#39;Hai tuần tới định đoạt mùa giải của Arsenal&#39;](https://vnexpress.net/arteta-hai-tuan-toi-dinh-doat-mua-giai-cua-arsenal-4733737.html) - 23:27 12/04/2024
 - 🥳 [Nadal tích cực tập ở Barcelona](https://vnexpress.net/nadal-tich-cuc-tap-o-barcelona-4733739.html) - 23:20 12/04/2024
 - 🦣 [HLV cũ thừa nhận áp lực làm việc với Djokovic](https://vnexpress.net/hlv-cu-thua-nhan-ap-luc-lam-viec-voi-djokovic-4733738.html) - 22:57 12/04/2024
-- 🌜 [Guardiola: &#39;Mục tiêu của Haaland không phải là Quả Bóng Vàng&#39;](https://vnexpress.net/guardiola-muc-tieu-cua-haaland-khong-phai-la-qua-bong-vang-4733722.html) - 21:00 12/04/2024
-- 🫶 [Declan Rice là tân binh hay nhất Ngoại hạng Anh](https://vnexpress.net/declan-rice-la-tan-binh-hay-nhat-ngoai-hang-anh-4733710.html) - 21:00 12/04/2024
+- 🌜 [Declan Rice là tân binh hay nhất Ngoại hạng Anh](https://vnexpress.net/declan-rice-la-tan-binh-hay-nhat-ngoai-hang-anh-4733710.html) - 21:00 12/04/2024
+- 🫶 [Guardiola: &#39;Mục tiêu của Haaland không phải là Quả Bóng Vàng&#39;](https://vnexpress.net/guardiola-muc-tieu-cua-haaland-khong-phai-la-qua-bong-vang-4733722.html) - 21:00 12/04/2024
 - 🌜 [Klopp muốn Liverpool vùng lên sau trận thua Atalanta](https://vnexpress.net/klopp-muon-liverpool-vung-len-sau-tran-thua-atalanta-4733721.html) - 21:00 12/04/2024
 - 😺 [U23 Việt Nam tập tăng sức mạnh với dây cao su](https://vnexpress.net/u23-viet-nam-tap-tang-suc-manh-voi-day-cao-su-4733675.html) - 12:27 12/04/2024
 - 👍 [Dani Alves tuân thủ nghiêm quy định trình diện trước tòa](https://vnexpress.net/dani-alves-tuan-thu-nghiem-quy-dinh-trinh-dien-truoc-toa-4733655.html) - 11:38 12/04/2024
