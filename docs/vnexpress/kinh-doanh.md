@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [Ông Nguyễn Đức Tài nói &#39;Bách Hóa Xanh năm nay sẽ lãi&#39;](https://vnexpress.net/ong-nguyen-duc-tai-noi-bach-hoa-xanh-nam-nay-se-lai-4733907.html) - 10:01 13/04/2024
 - 🐲 [Tiền số lao dốc](https://vnexpress.net/tien-so-lao-doc-4733896.html) - 08:52 13/04/2024
 - 🔥 [Giá cổ phiếu công ty của Trump giảm 50%](https://vnexpress.net/gia-co-phieu-cong-ty-cua-trump-giam-50-4733850.html) - 04:38 13/04/2024
-- 🐵 [Mỗi lượng vàng giảm cả triệu đồng](https://vnexpress.net/moi-luong-vang-giam-ca-trieu-dong-4733799.html) - 02:20 13/04/2024
+- 🐵 [Giá vàng miếng lùi về 83 triệu đồng](https://vnexpress.net/gia-vang-mieng-lui-ve-83-trieu-dong-4733799.html) - 02:20 13/04/2024
 - 🦅 [Làm gì với một tỷ đồng ở tuổi 18?](https://vnexpress.net/lam-gi-voi-mot-ty-dong-o-tuoi-18-4733770.html) - 01:22 13/04/2024
 - 😺 [Giá vàng thế giới quay đầu giảm mạnh sau khi lập đỉnh](https://vnexpress.net/gia-vang-the-gioi-quay-dau-giam-manh-sau-khi-lap-dinh-4733763.html) - 01:09 13/04/2024
 - 🤩 [Chuối tươi Việt Nam phủ sóng 100% kệ hàng siêu thị AEON Hong Kong](https://vnexpress.net/chuoi-tuoi-viet-nam-phu-song-100-ke-hang-sieu-thi-aeon-hong-kong-4733691.html) - 13:46 12/04/2024
