@@ -53,5 +53,4 @@ sidebar_position: 9
 - 👍 [Nhà thiết kế Roberto Cavalli qua đời](https://vnexpress.net/nha-thiet-ke-roberto-cavalli-qua-doi-4733789.html) - 02:04 13/04/2024
 - 🐎 [Cô gái độc lập tìm bạn đời](https://vnexpress.net/co-gai-doc-lap-tim-ban-doi-4733748.html) - 02:00 13/04/2024
 - 🏊 [5 tai nghe Open Ear nổi bật mới bán](https://vnexpress.net/5-tai-nghe-open-ear-noi-bat-moi-ban-4733293.html) - 02:00 13/04/2024
-- 🦩 [5 thực phẩm ăn sáng tốt cho sức khỏe](https://vnexpress.net/5-thuc-pham-an-sang-tot-cho-suc-khoe-4733714.html) - 02:00 13/04/2024
-- 👍 [Giả danh công an lừa tình, tiền nhiều phụ nữ](https://vnexpress.net/gia-danh-cong-an-lua-tinh-tien-nhieu-phu-nu-4733776.html) - 01:50 13/04/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🦩 [5 thực phẩm ăn sáng tốt cho sức khỏe](https://vnexpress.net/5-thuc-pham-an-sang-tot-cho-suc-khoe-4733714.html) - 02:00 13/04/2024<!-- vnexpress-tin-moi-nhat:END -->
