@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Doanh nghiệp Nhật xây nhà máy 200 triệu USD tại Hòa Bình](https://vnexpress.net/doanh-nghiep-nhat-xay-nha-may-200-trieu-usd-tai-hoa-binh-4733979.html) - 15:13 13/04/2024
 - 🤓 [Bên trong hầm bị sạt lở khiến đường sắt Bắc Nam tê liệt](https://vnexpress.net/ben-trong-ham-bi-sat-lo-khien-duong-sat-bac-nam-te-liet-4733961.html) - 14:57 13/04/2024
-- ⚗️ [Ôtô tải tông xe khách, một người chết](https://vnexpress.net/oto-tai-tong-xe-khach-mot-nguoi-chet-4733960.html) - 13:36 13/04/2024
+- ⚗️ [Ôtô chở đoàn cán bộ, nhân viên Cục Quản lý thị trường TP HCM gặp nạn](https://vnexpress.net/oto-cho-doan-can-bo-nhan-vien-cuc-quan-ly-thi-truong-tp-hcm-gap-nan-4733960.html) - 13:36 13/04/2024
 - 🌊 [Thủ tướng kêu gọi xóa toàn bộ nhà dột nát đến năm 2025](https://vnexpress.net/thu-tuong-keu-goi-xoa-toan-bo-nha-dot-nat-den-nam-2025-4733938.html) - 11:38 13/04/2024
 - 🎓 [Cảnh sát biển điều tàu cấp nước cho dân đảo Hòn Chuối](https://vnexpress.net/canh-sat-bien-dieu-tau-cap-nuoc-cho-dan-dao-hon-chuoi-4733927.html) - 10:20 13/04/2024
 - 🔥 [Lãnh đạo Đồng Nai yêu cầu cách chức cán bộ đùn đẩy công việc](https://vnexpress.net/lanh-dao-dong-nai-yeu-cau-cach-chuc-can-bo-dun-day-cong-viec-4733877.html) - 08:16 13/04/2024
