@@ -7,7 +7,7 @@ sidebar_position: 2
 - 🎭 [Nhân chứng kể khoảnh khắc kẻ tấn công đâm dao trong trung tâm thương mại Australia](https://vnexpress.net/nhan-chung-ke-khoanh-khac-ke-tan-cong-dam-dao-trong-trung-tam-thuong-mai-australia-4733888.html) - 08:27 13/04/2024
 - 🕴 [Nghị sĩ Mỹ nói ông Trump &#39;không dám đến Ukraine&#39;](https://vnexpress.net/nghi-si-my-noi-ong-trump-khong-dam-den-ukraine-4733847.html) - 07:51 13/04/2024
 - 🤭 [&#39;Pháo phun lửa&#39; Nga công kích cứ điểm Ukraine](https://vnexpress.net/phao-phun-lua-nga-cong-kich-cu-diem-ukraine-4733839.html) - 07:37 13/04/2024
-- 🧑‍💻 [Đâm dao tại trung tâm thương mại ở Australia, 4 người chết](https://vnexpress.net/dam-dao-tai-trung-tam-thuong-mai-o-australia-4-nguoi-chet-4733885.html) - 07:27 13/04/2024
+- 🧑‍💻 [Đâm dao tại trung tâm thương mại ở Australia, 5 người chết](https://vnexpress.net/dam-dao-tai-trung-tam-thuong-mai-o-australia-5-nguoi-chet-4733885.html) - 07:27 13/04/2024
 - 🦏 [Mỹ siết an ninh trước ngày xử ông Trump vụ chi tiền bịt miệng](https://vnexpress.net/my-siet-an-ninh-truoc-ngay-xu-ong-trump-vu-chi-tien-bit-mieng-4733867.html) - 07:11 13/04/2024
 - 🦒 [Tòa Ecuador phán quyết vụ đột kích sứ quán Mexico &#39;bất hợp pháp&#39;](https://vnexpress.net/toa-ecuador-phan-quyet-vu-dot-kich-su-quan-mexico-bat-hop-phap-4733821.html) - 05:17 13/04/2024
 - 🌈 [Căng thẳng Israel - Iran phơi bày thế khó của Mỹ ở Trung Đông](https://vnexpress.net/cang-thang-israel-iran-phoi-bay-the-kho-cua-my-o-trung-dong-4733771.html) - 05:09 13/04/2024
