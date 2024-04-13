@@ -215,7 +215,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🗽 [VTV Bình Điền Long An vô địch giải bóng chuyền Cúp Hùng Vương 2024](https://laodong.vn/the-thao/vtv-binh-dien-long-an-vo-dich-giai-bong-chuyen-cup-hung-vuong-2024-1327165.ldo) - 17:03 13/04/2024
 - 📝 [4 trường hợp công an xã được tuần tra kiểm soát giao thông](https://laodong.vn/ban-doc/4-truong-hop-cong-an-xa-duoc-tuan-tra-kiem-soat-giao-thong-1327050.ldo) - 16:30 13/04/2024
 - 🦏 [Man City trở lại ngôi đầu bảng sau trận đại thắng Luton](https://laodong.vn/bong-da-quoc-te/man-city-tro-lai-ngoi-dau-bang-sau-tran-dai-thang-luton-1327160.ldo) - 16:27 13/04/2024
-- 🦩 [Trực tiếp Bournemouth 2-2 Man United: Bruno ghi bàn từ chấm 11m](https://laodong.vn/bong-da-quoc-te/truc-tiep-bournemouth-2-2-man-united-bruno-ghi-ban-tu-cham-11m-1327155.ldo) - 15:42 13/04/2024
+- 🦩 [Cú đúp của Bruno giúp Man United giữ lại 1 điểm trên sân Bournemouth](https://laodong.vn/bong-da-quoc-te/cu-dup-cua-bruno-giup-man-united-giu-lai-1-diem-tren-san-bournemouth-1327155.ldo) - 15:42 13/04/2024
 - 🦏 [Jannik Sinner dừng chân ở bán kết Monte-Carlo 2024](https://laodong.vn/tennis/jannik-sinner-dung-chan-o-ban-ket-monte-carlo-2024-1327151.ldo) - 15:26 13/04/2024
 - 🧰 [Minh Tú diện lại áo dài cưới của mẹ trong hôn lễ](https://laodong.vn/gia-dinh-hon-nhan/minh-tu-dien-lai-ao-dai-cuoi-cua-me-trong-hon-le-1327144.ldo) - 15:26 13/04/2024
 - 🌊 [3 bộ trang phục cưới đặc biệt của siêu mẫu Minh Tú](https://laodong.vn/thoi-trang/3-bo-trang-phuc-cuoi-dac-biet-cua-sieu-mau-minh-tu-1327148.ldo) - 15:24 13/04/2024
