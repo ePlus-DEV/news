@@ -508,7 +508,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Top 5 địa điểm ngắm hoàng hôn cực chill ở TP.HCM](https://muctim.tuoitre.vn/top-5-dia-diem-ngam-hoang-hon-cuc-chill-o-tphcm-101240413094741692.htm) - 07:00 13/04/2024
-- 🥷 [Hơn 1.000 đội viên TP.HCM tìm hiểu văn hóa dân tộc](https://muctim.tuoitre.vn/hon-1000-doi-vien-quan-phu-nhuan-tim-hieu-van-hoa-dan-toc-101240413125829055.htm) - 06:50 13/04/2024
+- 🥷 [Hơn 1.000 đội viên TP.HCM tìm hiểu văn hóa dân tộc](https://muctim.tuoitre.vn/hon-1000-doi-vien-tphcm-tim-hieu-van-hoa-dan-toc-101240413125829055.htm) - 06:50 13/04/2024
 - 🤖 [Khám phá những địa điểm đẹp mê mẩn trong phim Queen of tears](https://muctim.tuoitre.vn/kham-pha-nhung-dia-diem-dep-me-man-trong-phim-queen-of-tears-101240412221120825.htm) - 02:12 13/04/2024
 - 🤓 [5 đại diện TP.HCM dự Liên hoan Chiến sĩ nhỏ Điện Biên toàn quốc](https://muctim.tuoitre.vn/5-dai-dien-tphcm-du-lien-hoan-chien-si-nho-dien-bien-toan-quoc-101240409094545304.htm) - 00:00 13/04/2024
 - 🎉 [Đi học đợt nắng nóng cao điểm như thế này, làm sao cho khỏi nóng?](https://muctim.tuoitre.vn/di-hoc-dot-nang-nong-cao-diem-nhu-the-nay-lam-sao-cho-khoi-nong-101240409132137165.htm) - 23:30 12/04/2024
