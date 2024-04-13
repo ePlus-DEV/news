@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hầm tiếp tục sạt lở, tuyến đường sắt Bắc Nam bị gián đoạn](https://vnexpress.net/ham-tiep-tuc-sat-lo-tuyen-duong-sat-bac-nam-bi-gian-doan-4733822.html) - 03:31 13/04/2024
+- 🦒 [Hầm tiếp tục sạt lở, đường sắt Bắc Nam bị gián đoạn](https://vnexpress.net/ham-tiep-tuc-sat-lo-duong-sat-bac-nam-bi-gian-doan-4733822.html) - 03:31 13/04/2024
 - 🤓 [Tranh luận giữ, bỏ tên quê &#39;Bà chúa thơ Nôm&#39;](https://vnexpress.net/tranh-luan-giu-bo-ten-que-ba-chua-tho-nom-4733648.html) - 03:31 13/04/2024
 - ⚗️ [Đồng lúa miền Tây cháy khô trong cao điểm hạn mặn](https://vnexpress.net/dong-lua-mien-tay-chay-kho-trong-cao-diem-han-man-4733665.html) - 01:41 13/04/2024
 - 🌊 [Viện trưởng Khoa học Thủy lợi VN: Bờ sông Cầu sẽ tiếp tục sạt lở](https://vnexpress.net/vien-truong-khoa-hoc-thuy-loi-vn-bo-song-cau-se-tiep-tuc-sat-lo-4733375.html) - 22:00 12/04/2024
