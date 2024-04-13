@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Du khách hào hứng xem 200 drone xếp hình chùa Thầy](https://video.vnexpress.net/du-khach-hao-hung-xem-200-drone-xep-hinh-chua-thay-4733784.html) - 02:04 13/04/2024
+- 💂 [Du khách hào hứng xem 200 drone xếp hình thiền sư Đạo Hạnh](https://video.vnexpress.net/du-khach-hao-hung-xem-200-drone-xep-hinh-thien-su-dao-hanh-4733784.html) - 02:04 13/04/2024
 - 🪄 [Cục Du lịch làm &#39;nhạc trưởng&#39; đưa du lịch nội địa về giá hợp lý](https://vnexpress.net/cuc-du-lich-lam-nhac-truong-dua-du-lich-noi-dia-ve-gia-hop-ly-4731976.html) - 01:00 13/04/2024
 - 🦅 [&#39;Ngất ngây&#39; với hoa anh đào nở muộn ở Seoul](https://vnexpress.net/ngat-ngay-voi-hoa-anh-dao-no-muon-o-seoul-4732333.html) - 00:00 13/04/2024
 - 🕴 [Thăm &#39;đại bản doanh&#39; của các bộ lạc trên đảo lớn nhất châu Á](https://vnexpress.net/tham-dai-ban-doanh-cua-cac-bo-lac-tren-dao-lon-nhat-chau-a-4729626.html) - 17:00 12/04/2024
