@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Iran phóng hơn 100 UAV tập kích Israel](https://vnexpress.net/iran-phong-hon-100-uav-tap-kich-israel-4734014.html) - 22:29 13/04/2024
+- 🎭 [Iran phóng hơn 100 UAV, tên lửa tập kích Israel](https://vnexpress.net/iran-phong-hon-100-uav-ten-lua-tap-kich-israel-4734014.html) - 22:29 13/04/2024
 - 🕴 [Cuộc chiến giành lại bầu trời xanh của Bắc Kinh](https://vnexpress.net/cuoc-chien-gianh-lai-bau-troi-xanh-cua-bac-kinh-4733547.html) - 22:00 13/04/2024
 - 🤭 [Những thanh niên Ukraine bất an vì luật tuyển quân mới](https://vnexpress.net/nhung-thanh-nien-ukraine-bat-an-vi-luat-tuyen-quan-moi-4733324.html) - 17:00 13/04/2024
 - 🧑‍💻 [Phút đối mặt giữa nữ cảnh sát và kẻ đâm dao ở Australia](https://vnexpress.net/phut-doi-mat-giua-nu-canh-sat-va-ke-dam-dao-o-australia-4733985.html) - 15:32 13/04/2024
