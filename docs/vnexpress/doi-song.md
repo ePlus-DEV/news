@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Bố nhắn con gái 30 tuổi thất nghiệp và chưa chồng](https://vnexpress.net/bo-nhan-con-gai-30-tuoi-that-nghiep-va-chua-chong-4733919.html) - 14:00 13/04/2024
+- 🚀 [Lời nhắn của bố với con gái 30 tuổi chưa chồng](https://vnexpress.net/loi-nhan-cua-bo-voi-con-gai-30-tuoi-chua-chong-4733919.html) - 14:00 13/04/2024
 - 🎓 [Bò nướng lá lốt kiểu Nam Bộ](https://vnexpress.net/bo-nuong-la-lot-kieu-nam-bo-4733894.html) - 12:04 13/04/2024
 - 🚦 [Những câu ứng viên không nên hỏi nhà tuyển dụng](https://vnexpress.net/nhung-cau-ung-vien-khong-nen-hoi-nha-tuyen-dung-4733468.html) - 08:00 13/04/2024
 - 🦣 [Tại sao nên cắt đứt liên lạc với người cũ?](https://vnexpress.net/tai-sao-nen-cat-dut-lien-lac-voi-nguoi-cu-4733786.html) - 07:00 13/04/2024
