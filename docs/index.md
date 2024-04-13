@@ -211,7 +211,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp Bournemouth vs Man United, vòng 33 Ngoại hạng Anh](https://laodong.vn/bong-da-quoc-te/truc-tiep-bournemouth-vs-man-united-vong-33-ngoai-hang-anh-1327155.ldo) - 15:42 13/04/2024
+- 🗽 [Trực tiếp Bournemouth vs Man United: Antony chấn thương, Ten Hag gọi tiền đạo 18 tuổi](https://laodong.vn/bong-da-quoc-te/truc-tiep-bournemouth-vs-man-united-antony-chan-thuong-ten-hag-goi-tien-dao-18-tuoi-1327155.ldo) - 15:42 13/04/2024
 - 📝 [Jannik Sinner dừng chân ở bán kết Monte-Carlo 2024](https://laodong.vn/tennis/jannik-sinner-dung-chan-o-ban-ket-monte-carlo-2024-1327151.ldo) - 15:26 13/04/2024
 - 🦏 [Minh Tú diện lại áo dài cưới của mẹ trong hôn lễ](https://laodong.vn/gia-dinh-hon-nhan/minh-tu-dien-lai-ao-dai-cuoi-cua-me-trong-hon-le-1327144.ldo) - 15:26 13/04/2024
 - 🦩 [3 bộ trang phục cưới đặc biệt của siêu mẫu Minh Tú](https://laodong.vn/thoi-trang/3-bo-trang-phuc-cuoi-dac-biet-cua-sieu-mau-minh-tu-1327148.ldo) - 15:24 13/04/2024
