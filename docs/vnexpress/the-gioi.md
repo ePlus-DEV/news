@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Ông Trump trình diện tòa án tại New York](https://vnexpress.net/ong-trump-trinh-dien-toa-an-tai-new-york-4734695.html) - 14:04 15/04/2024
+- 🎭 [Ông Trump bắt đầu bị xét xử tại New York](https://vnexpress.net/ong-trump-bat-dau-bi-xet-xu-tai-new-york-4734695.html) - 14:04 15/04/2024
 - 🕴 [25 phút kẻ đâm dao tấn công trung tâm thương mại Australia](https://vnexpress.net/25-phut-ke-dam-dao-tan-cong-trung-tam-thuong-mai-australia-4734593.html) - 13:27 15/04/2024
 - 🤭 [Ukraine kêu gọi đồng minh &#39;can đảm&#39; viện trợ thêm hệ thống phòng không](https://vnexpress.net/ukraine-keu-goi-dong-minh-can-dam-vien-tro-them-he-thong-phong-khong-4734679.html) - 13:06 15/04/2024
 - 🧑‍💻 [Hezbollah tuyên bố tấn công lính Israel vượt biên vào Lebanon](https://vnexpress.net/hezbollah-tuyen-bo-tan-cong-linh-israel-vuot-bien-vao-lebanon-4734674.html) - 12:48 15/04/2024
