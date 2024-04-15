@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Tim Cook ngồi cà phê hai lần trong một ngày ở Hà Nội](https://vnexpress.net/tim-cook-ngoi-ca-phe-hai-lan-trong-mot-ngay-o-ha-noi-4734683.html) - 14:28 15/04/2024
+- 💂 [Tim Cook đi cà phê hai lần trong một ngày ở Hà Nội](https://vnexpress.net/tim-cook-di-ca-phe-hai-lan-trong-mot-ngay-o-ha-noi-4734683.html) - 14:28 15/04/2024
 - 🪄 [Cà phê trứng - thức uống Hà Nội nhiều người nổi tiếng thế giới &#39;ghiền&#39;](https://vnexpress.net/ca-phe-trung-thuc-uong-ha-noi-nhieu-nguoi-noi-tieng-the-gioi-ghien-4734505.html) - 11:04 15/04/2024
 - 🦅 [Cốc cà phê trứng Tim Cook thưởng thức cùng Mỹ Linh](https://vnexpress.net/coc-ca-phe-trung-tim-cook-thuong-thuc-cung-my-linh-4734587.html) - 09:19 15/04/2024
 - 🕴 [Hơn 100 người chết sau 3 ngày Songkran ở Thái Lan](https://vnexpress.net/hon-100-nguoi-chet-sau-3-ngay-songkran-o-thai-lan-4734423.html) - 08:38 15/04/2024
