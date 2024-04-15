@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Tim Cook &#39;đi cà phê&#39; hai lần trong một ngày ở Hà Nội](https://vnexpress.net/tim-cook-di-ca-phe-hai-lan-trong-mot-ngay-o-ha-noi-4734683.html) - 14:28 15/04/2024
+- 🚀 [Tim Cook đi cà phê hai lần trong một ngày ở Hà Nội](https://vnexpress.net/tim-cook-di-ca-phe-hai-lan-trong-mot-ngay-o-ha-noi-4734683.html) - 14:28 15/04/2024
 - 🧰 [Ông Trump trình diện tòa án tại New York](https://vnexpress.net/ong-trump-trinh-dien-toa-an-tai-new-york-4734695.html) - 14:04 15/04/2024
 - 🥰 [Vợ chồng bác sĩ ứng cứu 24 nạn nhân vụ đâm xe ở Kon Tum](https://vnexpress.net/vo-chong-bac-si-ung-cuu-24-nan-nhan-vu-dam-xe-o-kon-tum-4734603.html) - 14:02 15/04/2024
 - 🌏 [Anh trai chăm mẹ già đòi giữ hết số tiền tôi gửi về báo hiếu](https://vnexpress.net/anh-trai-cham-me-gia-doi-giu-het-so-tien-toi-gui-ve-bao-hieu-4734634.html) - 14:00 15/04/2024
