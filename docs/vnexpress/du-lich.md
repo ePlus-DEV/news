@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Vietjet tăng chuyến bay, giảm nhiệt giá vé máy bay dịp lễ](https://vnexpress.net/vietjet-tang-chuyen-bay-giam-nhiet-gia-ve-may-bay-dip-le-4734523.html) - 07:00 15/04/2024
+- 💂 [Vietjet tăng chuyến, giảm nhiệt giá vé dịp lễ](https://vnexpress.net/vietjet-tang-chuyen-giam-nhiet-gia-ve-dip-le-4734523.html) - 07:00 15/04/2024
 - 🪄 [Đài Loan mở lại vườn quốc gia sau động đất](https://vnexpress.net/dai-loan-mo-lai-vuon-quoc-gia-sau-dong-dat-4734355.html) - 04:29 15/04/2024
 - 🦅 [Những lưu ý du lịch Điện Biên dịp 70 năm Chiến thắng Điện Biên Phủ](https://vnexpress.net/nhung-luu-y-du-lich-dien-bien-dip-70-nam-chien-thang-dien-bien-phu-4723539.html) - 02:57 15/04/2024
 - 🕴 [Đến Hạ Long tham gia lễ hội Rồng và xem trình diễn drone dịp 30/4](https://vnexpress.net/den-ha-long-tham-gia-le-hoi-rong-va-xem-trinh-dien-drone-dip-30-4-4733905.html) - 01:00 15/04/2024
