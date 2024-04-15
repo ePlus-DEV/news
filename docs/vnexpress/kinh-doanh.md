@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Giá USD ngân hàng lập đỉnh gần 25.300 đồng](https://vnexpress.net/gia-usd-ngan-hang-lap-dinh-gan-25-300-dong-4734511.html) - 07:48 15/04/2024
 - 🐲 [Thủ tướng yêu cầu &#39;không để thiếu điện&#39;](https://vnexpress.net/thu-tuong-yeu-cau-xu-ly-nghiem-hai-du-an-dien-than-cham-tien-do-4734495.html) - 07:44 15/04/2024
-- 🔥 [Chứng khoán bị bán tháo ồ ạt](https://vnexpress.net/chung-khoan-bi-ban-thao-o-at-4734531.html) - 07:34 15/04/2024
+- 🔥 [VN-Index giảm gần 60 điểm](https://vnexpress.net/vn-index-giam-gan-60-diem-4734531.html) - 07:34 15/04/2024
 - 🐵 [Tim Cook kiếm và tiêu số tài sản tỷ USD như thế nào](https://vnexpress.net/tim-cook-kiem-va-tieu-so-tai-san-ty-usd-nhu-the-nao-4734474.html) - 07:16 15/04/2024
 - 🦅 [&#39;Nữ hoàng mía đường&#39; xin thôi làm Chủ tịch TTC Land](https://vnexpress.net/nu-hoang-mia-duong-xin-thoi-lam-chu-tich-ttc-land-4734435.html) - 06:00 15/04/2024
 - 😺 [Vàng áp đảo các kênh đầu tư](https://vnexpress.net/vang-ap-dao-cac-kenh-dau-tu-4734318.html) - 05:39 15/04/2024
