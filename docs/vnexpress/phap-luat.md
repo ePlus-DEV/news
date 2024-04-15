@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Công an sẽ thu thập dữ liệu mống mắt khi làm thẻ căn cước](https://vnexpress.net/cong-an-se-thu-thap-du-lieu-mong-mat-khi-lam-the-can-cuoc-4734352.html) - 08:21 15/04/2024
-- 🥰 [Cư dân bị bác đơn kiện Sở Tài nguyên và Môi trường TP HCM &#39;làm mất lối đi chung&#39;](https://vnexpress.net/cu-dan-bi-bac-don-kien-so-tai-nguyen-va-moi-truong-tp-hcm-lam-mat-loi-di-chung-4734502.html) - 08:00 15/04/2024
+- 🥰 [Cư dân bị bác đơn kiện Sở Tài nguyên và Môi trường TP HCM](https://vnexpress.net/cu-dan-bi-bac-don-kien-so-tai-nguyen-va-moi-truong-tp-hcm-4734502.html) - 08:00 15/04/2024
 - 🎓 [Cựu chủ tịch Phú Yên Phạm Đình Cự được hưởng án treo](https://vnexpress.net/cuu-chu-tich-phu-yen-pham-dinh-cu-duoc-huong-an-treo-4734501.html) - 07:44 15/04/2024
 - 🤓 [Người phụ nữ lĩnh 12 năm tù vì tham gia tổ chức khủng bố](https://vnexpress.net/nguoi-phu-nu-linh-12-nam-tu-vi-tham-gia-to-chuc-khung-bo-4734433.html) - 05:13 15/04/2024
 - 🎊 [Những ai phải làm quyết toán thuế thu nhập cá nhân năm 2023?](https://vnexpress.net/nhung-ai-phai-lam-quyet-toan-thue-thu-nhap-ca-nhan-nam-2023-4734335.html) - 03:38 15/04/2024
