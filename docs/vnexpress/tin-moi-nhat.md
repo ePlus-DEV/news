@@ -22,8 +22,8 @@ sidebar_position: 9
 - 🌁 [Ukraine kêu gọi đồng minh &#39;can đảm&#39; viện trợ thêm hệ thống phòng không](https://vnexpress.net/ukraine-keu-goi-dong-minh-can-dam-vien-tro-them-he-thong-phong-khong-4734679.html) - 13:06 15/04/2024
 - 🐲 [Đoàn cán bộ Cục Quản lý thị trường TP HCM gặp nạn vì tài xế &#39;vượt ẩu&#39;](https://vnexpress.net/doan-can-bo-cuc-quan-ly-thi-truong-tp-hcm-gap-nan-vi-tai-xe-vuot-au-4734687.html) - 13:00 15/04/2024
 - 🤓 [Việt Nam chốt 23 cầu thủ dự U23 châu Á 2024](https://vnexpress.net/viet-nam-chot-23-cau-thu-du-u23-chau-a-2024-4734688.html) - 13:00 15/04/2024
-- 💪 [Máy dò hạt ma 100 triệu USD dưới lòng đất](https://vnexpress.net/may-do-hat-ma-100-trieu-usd-duoi-long-dat-4734266.html) - 13:00 15/04/2024
-- 🎓 [Trường THCS nào lâu đời nhất Hà Nội?](https://vnexpress.net/truong-thcs-nao-lau-doi-nhat-ha-noi-4734630.html) - 13:00 15/04/2024
+- 💪 [Trường THCS nào lâu đời nhất Hà Nội?](https://vnexpress.net/truong-thcs-nao-lau-doi-nhat-ha-noi-4734630.html) - 13:00 15/04/2024
+- 🎓 [Máy dò hạt ma 100 triệu USD dưới lòng đất](https://vnexpress.net/may-do-hat-ma-100-trieu-usd-duoi-long-dat-4734266.html) - 13:00 15/04/2024
 - 🫣 [Di chuyển một que diêm để có kết quả đúng](https://vnexpress.net/di-chuyen-mot-que-diem-de-co-ket-qua-dung-4731822.html) - 13:00 15/04/2024
 - 🧑‍💻 [4 lầm tưởng về sức khỏe sinh lý nữ](https://vnexpress.net/4-lam-tuong-ve-suc-khoe-sinh-ly-nu-4734377.html) - 13:00 15/04/2024
 - 🐲 [Hezbollah tuyên bố tấn công lính Israel vượt biên vào Lebanon](https://vnexpress.net/hezbollah-tuyen-bo-tan-cong-linh-israel-vuot-bien-vao-lebanon-4734674.html) - 12:48 15/04/2024
