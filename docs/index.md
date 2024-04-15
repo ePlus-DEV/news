@@ -250,66 +250,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [25 ứng dụng cần xóa gấp khỏi điện thoại Android](https://nld.com.vn/25-ung-dung-can-xoa-gap-khoi-dien-thoai-android-19624041423524359.htm) - 07:16 15/04/2024
-- 😺 [Khen thưởng 5 người vây bắt kẻ cướp tại tiệm vàng](https://nld.com.vn/khen-thuong-5-nguoi-vay-bat-ke-cuop-tai-tiem-vang-196240415140034732.htm) - 07:14 15/04/2024
-- 👍 [Vụ sập hầm đường sắt ở Đèo Cả: Dừng nhận hàng Sài Gòn, Hà Nội](https://nld.com.vn/vu-sap-ham-duong-sat-o-deo-ca-dung-nhan-hang-sai-gon-ha-noi-196240415130332383.htm) - 07:13 15/04/2024
-- 🥷 [Bình Định có thêm một Phó Giám đốc Sở NN-PTNT](https://nld.com.vn/binh-dinh-co-them-mot-pho-giam-doc-so-nn-ptnt-196240415133705888.htm) - 07:10 15/04/2024
-- 🤔 [NÓNG: Sẵn sàng cho phiên đấu thầu vàng miếng sau hơn 10 năm](https://nld.com.vn/nhnn-san-sang-cho-phien-dau-thau-vang-mieng-dau-tien-sau-hon-10-nam-196240415135226429.htm) - 07:01 15/04/2024
-- 🌈 [Chiều 15-4, giá vàng SJC bất ngờ tăng mạnh 1,7 triệu đồng/lượng, chạm mốc kỷ lục mới](https://nld.com.vn/chieu-15-4-gia-vang-sjc-bat-ngo-tang-manh-17-trieu-dong-luong-cham-moc-ky-luc-moi-196240415135117882.htm) - 07:00 15/04/2024
-- 🔥 [Vì sao hầm đường sắt Bãi Gió bị sạt lở?](https://nld.com.vn/vi-sao-ham-duong-sat-bai-gio-bi-sat-lo-19624041513361547.htm) - 06:59 15/04/2024
-- 🧰 [Quốc Thiên được Tùng Dương gọi bằng &quot;Công tử hát tình ca&quot;](https://nld.com.vn/quoc-thien-duoc-tung-duong-goi-bang-cong-tu-hat-tinh-ca-196240415114441687.htm) - 06:58 15/04/2024
-- 🤗 [Chứng khoán lo ảnh hưởng bởi xung đột Trung Đông](https://nld.com.vn/chung-khoan-lo-anh-huong-boi-xung-dot-trung-dong-196240415134818205.htm) - 06:51 15/04/2024
-- 🦅 [Vòng tránh thai chui nhầm ổ bụng 2 người phụ nữ](https://nld.com.vn/vong-tranh-thai-chui-nham-o-bung-2-nguoi-phu-nu-196240415121019059.htm) - 06:50 15/04/2024
-- 🤩 [Igor Frolov chiếm Áo chấm đỏ Cúp Truyền hình TP HCM 2024](https://nld.com.vn/igor-frolov-chiem-ao-cham-do-cup-truyen-hinh-tp-hcm-2024-19624041513233983.htm) - 06:35 15/04/2024
-- 🎭 [TP Đà Nẵng có 3 đội vào vòng chung kết Mansion Sports Cup 2024](https://nld.com.vn/tp-da-nang-co-3-doi-vao-vong-chung-ket-mansion-sports-cup-2024-196240415125515625.htm) - 06:07 15/04/2024
-- 💄 [Những con số đằng sau chức vô địch lịch sử của Bayer Leverkusen](https://nld.com.vn/nhung-con-so-dang-sau-chuc-vo-dich-lich-su-cua-bayer-leverkusen-196240415124421643.htm) - 06:06 15/04/2024
-- 🎊 [Mưa đá, lốc xoáy khiến nhiều nhà dân bị hư hỏng](https://nld.com.vn/mua-da-loc-xoay-khien-nhieu-nha-dan-bi-hu-hong-196240415120029887.htm) - 05:54 15/04/2024
-- 🎡 [80 thí sinh đạt trên 1.000 điểm thi đánh giá năng lực](https://nld.com.vn/80-thi-sinh-dat-tren-1000-diem-thi-danh-gia-nang-luc-196240415113354258.htm) - 05:46 15/04/2024
-- 🎉 [Bài học cho Iran và lời nhắc nhở cho Israel](https://nld.com.vn/bai-hoc-cho-iran-va-loi-nhac-nho-cho-israel-196240415093123265.htm) - 05:45 15/04/2024
-- 😺 [STC hợp tác với nhiều đơn vị để kiến tạo sự nghiệp cho sinh viên](https://nld.com.vn/stc-hop-tac-voi-nhieu-don-vi-de-kien-tao-su-nghiep-cho-sinh-vien-19624041512143287.htm) - 05:28 15/04/2024
-- 🐻 [Người dân TP HCM sắp được giải nhiệt bằng &quot;mưa vàng&quot;?](https://nld.com.vn/nguoi-dan-tp-hcm-sap-duoc-giai-nhiet-bang-mua-vang-196240415103349196.htm) - 05:22 15/04/2024
-- 🤡 [Cựu Chủ tịch UBND tỉnh Phú Yên Phạm Đình Cự nhận án](https://nld.com.vn/cuu-chu-tich-ubnd-tinh-phu-yen-pham-dinh-cu-nhan-an-196240415120141816.htm) - 05:04 15/04/2024
-- 🚦 [Bị gia chủ phát hiện, tên trộm nhảy từ tầng 2 xuống đất bị gãy chân](https://nld.com.vn/bi-gia-chu-phat-hien-ten-trom-nhay-tu-tang-2-xuong-dat-bi-gay-chan-196240415114922273.htm) - 05:03 15/04/2024
-- 🪜 [Quảng Ngãi xin Trung ương hỗ trợ hơn 5 tỉ để giải thể doanh nghiệp nhà nước](https://nld.com.vn/quang-ngai-xin-trung-uong-ho-tro-hon-5-ti-de-giai-the-doanh-nghiep-nha-nuoc-196240415105124382.htm) - 05:01 15/04/2024
-- 💫 [Tháo gỡ khó khăn cho các doanh nghiệp Việt Nam đầu tư tại Cuba](https://nld.com.vn/thao-go-kho-khan-cho-cac-doanh-nghiep-viet-nam-dau-tu-tai-cuba-196240415115210298.htm) - 04:54 15/04/2024
-- 🔭 [Bắt người đàn ông “quan hệ” nhiều lần làm nữ sinh 15 tuổi có thai](https://nld.com.vn/bat-nguoi-dan-ong-quan-he-nhieu-lan-lam-nu-sinh-15-tuoi-co-thai-196240415112653705.htm) - 04:49 15/04/2024
-- 🌝 [Cận cảnh công trình liên quan vụ chủ tịch phường bị bắt vì nhận hối lộ 1 tỉ đồng](https://nld.com.vn/can-canh-cong-trinh-lien-quan-vu-chu-tich-phuong-bi-bat-vi-nhan-hoi-lo-1-ti-dong-196240415094409042.htm) - 04:34 15/04/2024
-- 💪 [TP HCM công bố quyết định sáp nhập, chuyển giao các tổ chức cơ sở đảng](https://nld.com.vn/tp-hcm-cong-bo-quyet-dinh-sap-nhap-chuyen-giao-cac-to-chuc-co-so-dang-196240415110824302.htm) - 04:27 15/04/2024
-- 🦍 [Tiết lộ cay đắng của chuẩn tướng Israel về vụ tấn công của Iran](https://nld.com.vn/podcast/tiet-lo-cay-dang-cua-chuan-tuong-israel-ve-vu-tan-cong-cua-iran-196240415111602618.htm) - 04:26 15/04/2024
-- 🥷 [Lâm Đồng: Đâm gục 2 người sau khi bị hỏi &quot;đi đâu đó đại ca&quot;](https://nld.com.vn/lam-dong-dam-guc-2-nguoi-sau-khi-bi-hoi-di-dau-do-dai-ca-19624041511113662.htm) - 04:21 15/04/2024
-- 🫶 [Phát hiện nam thanh niên tử vong dưới hố công trình dự án ngàn tỉ đồng](https://nld.com.vn/phat-hien-nam-thanh-nien-tu-vong-duoi-ho-cong-trinh-du-an-ngan-ti-dong-196240415105145082.htm) - 04:17 15/04/2024
-- 🐻 [Phó Thủ tướng Trần Hồng Hà tham dự Diễn đàn Horasis Trung Quốc](https://nld.com.vn/pho-thu-tuong-tran-hong-ha-tham-du-dien-dan-horasis-trung-quoc-196240415105204891.htm) - 04:07 15/04/2024
-- 🐲 [Sáng 15-4, chứng khoán Việt “rung lắc” nhưng không bị bán tháo](https://nld.com.vn/sang-15-4-chung-khoan-viet-khong-bi-ban-thao-196240415105041461.htm) - 04:07 15/04/2024
-- 🧑‍💻 [Tuyển thủ 20 tuổi nói gì về sự chuẩn bị của HLV Hoàng Anh Tuấn?](https://nld.com.vn/tuyen-thu-20-tuoi-noi-gi-ve-su-chuan-bi-cua-hlv-hoang-anh-tuan-1962404151052493.htm) - 04:02 15/04/2024
-- 🎬 [Người phụ nữ có 2 bàng quang](https://nld.com.vn/nguoi-phu-nu-co-2-bang-quang-19624041510405763.htm) - 03:57 15/04/2024
-- 👀 [Vụ Iran tấn công Israel: Thị trường rung lắc, giá vàng - dầu liên tục biến động](https://nld.com.vn/vu-iran-tan-cong-israel-thi-truong-rung-lac-gia-vang-dau-lien-tuc-bien-dong-196240415104902184.htm) - 03:56 15/04/2024
-- 👍 [Coca-Cola Việt Nam được vinh danh tại giải Rồng Vàng 2024](https://nld.com.vn/coca-cola-viet-nam-duoc-vinh-danh-tai-giai-rong-vang-2024-196240415104710767.htm) - 03:52 15/04/2024
-- 🦅 [Xác định liên hệ chết người giữa vi khuẩn miệng và ung thư](https://nld.com.vn/xac-dinh-lien-he-chet-nguoi-giua-vi-khuan-mieng-va-ung-thu-196240415102154361.htm) - 03:40 15/04/2024
-- 🦏 [Phát hiện thi thể trẻ sơ sinh ở Quảng Nam](https://nld.com.vn/phat-hien-thi-the-tre-so-sinh-o-quang-nam-196240415093848605.htm) - 03:40 15/04/2024
-- 🗽 [TP Thủ Đức: Bùng lên từ bãi rác, lửa tấn công thêm 2 nhà xưởng](https://nld.com.vn/tp-thu-duc-bung-len-tu-bai-rac-lua-tan-cong-them-2-nha-xuong-19624041509482268.htm) - 03:30 15/04/2024
-- 🔭 [CEO Apple Tim Cook đến Việt Nam bằng máy bay riêng](https://nld.com.vn/ceo-apple-tim-cook-den-viet-nam-bang-may-bay-rieng-196240415101551142.htm) - 03:23 15/04/2024
-- 👍 [Khởi tố 18 bị can trong vụ mang quan tài đòi nợ chủ hụi](https://nld.com.vn/khoi-to-18-bi-can-trong-vu-mang-quan-tai-doi-no-chu-hui-19624041510104406.htm) - 03:22 15/04/2024
-- ⛽️ [Vẻ đẹp rạng ngời của người đẹp U50 chuyên trị vai ác trên màn ảnh](https://nld.com.vn/ve-dep-rang-ngoi-cua-nguoi-dep-u50-chuyen-tri-vai-ac-tren-man-anh-196240415090332695.htm) - 03:19 15/04/2024
-- 🥸 [Ca sĩ Ngọc Sơn nói về em trai và kỷ niệm làm nghề không bao giờ quên](https://nld.com.vn/ca-si-ngoc-son-noi-ve-em-trai-va-ky-niem-lam-nghe-khong-bao-gio-quen-196240415091646238.htm) - 03:07 15/04/2024
-- 🌁 [Xua tan mệt mỏi với thức uống từ thảo dược](https://nld.com.vn/xua-tan-met-moi-voi-thuc-uong-tu-thao-duoc-19624041509520367.htm) - 03:00 15/04/2024
-- 🌮 [Tầm view độc bản, chất Mỹ “triệu đô” chỉ có tại căn hộ The Beverly](https://nld.com.vn/tam-view-doc-ban-chat-my-trieu-do-chi-co-tai-can-ho-the-beverly-196240415093908552.htm) - 02:59 15/04/2024
-- 🎉 [Giá vàng hôm nay 15-4: Vừa lao dốc, giá vàng SJC lại nhảy vọt](https://nld.com.vn/gia-vang-hom-nay-15-4-vua-lao-doc-gia-vang-sjc-lai-nhay-vot-196240415093312534.htm) - 02:59 15/04/2024
-- 🤔 [Tú Tri làm đêm nhạc phi lợi nhuận gửi tặng người hâm mộ](https://nld.com.vn/tu-tri-lam-dem-nhac-phi-loi-nhuan-gui-tang-nguoi-ham-mo-196240415090816472.htm) - 02:59 15/04/2024
-- 🐘 [40.000 năm trước, loài khác đã bố trí nhà như người hiện đại](https://nld.com.vn/40000-nam-truoc-loai-khac-da-bo-tri-nha-nhu-nguoi-hien-dai-19624041508532209.htm) - 02:58 15/04/2024
+- 🐎 [Những màn lầy lội trong đám cưới sao Việt](https://nld.com.vn/nhung-man-lay-loi-trong-dam-cuoi-sao-viet-196240415141829669.htm) - 07:35 15/04/2024
+- 😺 [Tim Cook cười tươi khi cùng cafe sáng với ca sĩ Mỹ Linh](https://nld.com.vn/tim-cook-cuoi-tuoi-khi-cung-cafe-sang-voi-ca-si-my-linh-196240415141512879.htm) - 07:33 15/04/2024
+- 👍 [25 ứng dụng cần xóa gấp khỏi điện thoại Android](https://nld.com.vn/25-ung-dung-can-xoa-gap-khoi-dien-thoai-android-19624041423524359.htm) - 07:16 15/04/2024
+- 🥷 [Khen thưởng 5 người vây bắt kẻ cướp tại tiệm vàng](https://nld.com.vn/khen-thuong-5-nguoi-vay-bat-ke-cuop-tai-tiem-vang-196240415140034732.htm) - 07:14 15/04/2024
+- 🤔 [Vụ sập hầm đường sắt ở Đèo Cả: Dừng nhận hàng Sài Gòn, Hà Nội](https://nld.com.vn/vu-sap-ham-duong-sat-o-deo-ca-dung-nhan-hang-sai-gon-ha-noi-196240415130332383.htm) - 07:13 15/04/2024
+- 🌈 [Bình Định có thêm một Phó Giám đốc Sở NN-PTNT](https://nld.com.vn/binh-dinh-co-them-mot-pho-giam-doc-so-nn-ptnt-196240415133705888.htm) - 07:10 15/04/2024
+- 🔥 [NÓNG: Sẵn sàng cho phiên đấu thầu vàng miếng sau hơn 10 năm](https://nld.com.vn/nhnn-san-sang-cho-phien-dau-thau-vang-mieng-dau-tien-sau-hon-10-nam-196240415135226429.htm) - 07:01 15/04/2024
+- 🧰 [Chiều 15-4, giá vàng SJC bất ngờ tăng mạnh 1,7 triệu đồng/lượng, chạm mốc kỷ lục mới](https://nld.com.vn/chieu-15-4-gia-vang-sjc-bat-ngo-tang-manh-17-trieu-dong-luong-cham-moc-ky-luc-moi-196240415135117882.htm) - 07:00 15/04/2024
+- 🤗 [Vì sao hầm đường sắt Bãi Gió bị sạt lở?](https://nld.com.vn/vi-sao-ham-duong-sat-bai-gio-bi-sat-lo-19624041513361547.htm) - 06:59 15/04/2024
+- 🦅 [Quốc Thiên được Tùng Dương gọi bằng &quot;Công tử hát tình ca&quot;](https://nld.com.vn/quoc-thien-duoc-tung-duong-goi-bang-cong-tu-hat-tinh-ca-196240415114441687.htm) - 06:58 15/04/2024
+- 🤩 [Chứng khoán lo ảnh hưởng bởi xung đột Trung Đông](https://nld.com.vn/chung-khoan-lo-anh-huong-boi-xung-dot-trung-dong-196240415134818205.htm) - 06:51 15/04/2024
+- 🎭 [Vòng tránh thai chui nhầm ổ bụng 2 người phụ nữ](https://nld.com.vn/vong-tranh-thai-chui-nham-o-bung-2-nguoi-phu-nu-196240415121019059.htm) - 06:50 15/04/2024
+- 💄 [Igor Frolov chiếm Áo chấm đỏ Cúp Truyền hình TP HCM 2024](https://nld.com.vn/igor-frolov-chiem-ao-cham-do-cup-truyen-hinh-tp-hcm-2024-19624041513233983.htm) - 06:35 15/04/2024
+- 🎊 [TP Đà Nẵng có 3 đội vào vòng chung kết Mansion Sports Cup 2024](https://nld.com.vn/tp-da-nang-co-3-doi-vao-vong-chung-ket-mansion-sports-cup-2024-196240415125515625.htm) - 06:07 15/04/2024
+- 🎡 [Những con số đằng sau chức vô địch lịch sử của Bayer Leverkusen](https://nld.com.vn/nhung-con-so-dang-sau-chuc-vo-dich-lich-su-cua-bayer-leverkusen-196240415124421643.htm) - 06:06 15/04/2024
+- 🎉 [Mưa đá, lốc xoáy khiến nhiều nhà dân bị hư hỏng](https://nld.com.vn/mua-da-loc-xoay-khien-nhieu-nha-dan-bi-hu-hong-196240415120029887.htm) - 05:54 15/04/2024
+- 😺 [80 thí sinh đạt trên 1.000 điểm thi đánh giá năng lực](https://nld.com.vn/80-thi-sinh-dat-tren-1000-diem-thi-danh-gia-nang-luc-196240415113354258.htm) - 05:46 15/04/2024
+- 🐻 [Bài học cho Iran và lời nhắc nhở cho Israel](https://nld.com.vn/bai-hoc-cho-iran-va-loi-nhac-nho-cho-israel-196240415093123265.htm) - 05:45 15/04/2024
+- 🤡 [STC hợp tác với nhiều đơn vị để kiến tạo sự nghiệp cho sinh viên](https://nld.com.vn/stc-hop-tac-voi-nhieu-don-vi-de-kien-tao-su-nghiep-cho-sinh-vien-19624041512143287.htm) - 05:28 15/04/2024
+- 🚦 [Người dân TP HCM sắp được giải nhiệt bằng &quot;mưa vàng&quot;?](https://nld.com.vn/nguoi-dan-tp-hcm-sap-duoc-giai-nhiet-bang-mua-vang-196240415103349196.htm) - 05:22 15/04/2024
+- 🪜 [Cựu Chủ tịch UBND tỉnh Phú Yên Phạm Đình Cự nhận án](https://nld.com.vn/cuu-chu-tich-ubnd-tinh-phu-yen-pham-dinh-cu-nhan-an-196240415120141816.htm) - 05:04 15/04/2024
+- 💫 [Bị gia chủ phát hiện, tên trộm nhảy từ tầng 2 xuống đất bị gãy chân](https://nld.com.vn/bi-gia-chu-phat-hien-ten-trom-nhay-tu-tang-2-xuong-dat-bi-gay-chan-196240415114922273.htm) - 05:03 15/04/2024
+- 🔭 [Quảng Ngãi xin Trung ương hỗ trợ hơn 5 tỉ để giải thể doanh nghiệp nhà nước](https://nld.com.vn/quang-ngai-xin-trung-uong-ho-tro-hon-5-ti-de-giai-the-doanh-nghiep-nha-nuoc-196240415105124382.htm) - 05:01 15/04/2024
+- 🌝 [Tháo gỡ khó khăn cho các doanh nghiệp Việt Nam đầu tư tại Cuba](https://nld.com.vn/thao-go-kho-khan-cho-cac-doanh-nghiep-viet-nam-dau-tu-tai-cuba-196240415115210298.htm) - 04:54 15/04/2024
+- 💪 [Bắt người đàn ông “quan hệ” nhiều lần làm nữ sinh 15 tuổi có thai](https://nld.com.vn/bat-nguoi-dan-ong-quan-he-nhieu-lan-lam-nu-sinh-15-tuoi-co-thai-196240415112653705.htm) - 04:49 15/04/2024
+- 🦍 [Cận cảnh công trình liên quan vụ chủ tịch phường bị bắt vì nhận hối lộ 1 tỉ đồng](https://nld.com.vn/can-canh-cong-trinh-lien-quan-vu-chu-tich-phuong-bi-bat-vi-nhan-hoi-lo-1-ti-dong-196240415094409042.htm) - 04:34 15/04/2024
+- 🥷 [TP HCM công bố quyết định sáp nhập, chuyển giao các tổ chức cơ sở đảng](https://nld.com.vn/tp-hcm-cong-bo-quyet-dinh-sap-nhap-chuyen-giao-cac-to-chuc-co-so-dang-196240415110824302.htm) - 04:27 15/04/2024
+- 🫶 [Tiết lộ cay đắng của chuẩn tướng Israel về vụ tấn công của Iran](https://nld.com.vn/podcast/tiet-lo-cay-dang-cua-chuan-tuong-israel-ve-vu-tan-cong-cua-iran-196240415111602618.htm) - 04:26 15/04/2024
+- 🐻 [Lâm Đồng: Đâm gục 2 người sau khi bị hỏi &quot;đi đâu đó đại ca&quot;](https://nld.com.vn/lam-dong-dam-guc-2-nguoi-sau-khi-bi-hoi-di-dau-do-dai-ca-19624041511113662.htm) - 04:21 15/04/2024
+- 🐲 [Phát hiện nam thanh niên tử vong dưới hố công trình dự án ngàn tỉ đồng](https://nld.com.vn/phat-hien-nam-thanh-nien-tu-vong-duoi-ho-cong-trinh-du-an-ngan-ti-dong-196240415105145082.htm) - 04:17 15/04/2024
+- 🧑‍💻 [Phó Thủ tướng Trần Hồng Hà tham dự Diễn đàn Horasis Trung Quốc](https://nld.com.vn/pho-thu-tuong-tran-hong-ha-tham-du-dien-dan-horasis-trung-quoc-196240415105204891.htm) - 04:07 15/04/2024
+- 🎬 [Sáng 15-4, chứng khoán Việt “rung lắc” nhưng không bị bán tháo](https://nld.com.vn/sang-15-4-chung-khoan-viet-khong-bi-ban-thao-196240415105041461.htm) - 04:07 15/04/2024
+- 👀 [Tuyển thủ 20 tuổi nói gì về sự chuẩn bị của HLV Hoàng Anh Tuấn?](https://nld.com.vn/tuyen-thu-20-tuoi-noi-gi-ve-su-chuan-bi-cua-hlv-hoang-anh-tuan-1962404151052493.htm) - 04:02 15/04/2024
+- 👍 [Người phụ nữ có 2 bàng quang](https://nld.com.vn/nguoi-phu-nu-co-2-bang-quang-19624041510405763.htm) - 03:57 15/04/2024
+- 🦅 [Vụ Iran tấn công Israel: Thị trường rung lắc, giá vàng - dầu liên tục biến động](https://nld.com.vn/vu-iran-tan-cong-israel-thi-truong-rung-lac-gia-vang-dau-lien-tuc-bien-dong-196240415104902184.htm) - 03:56 15/04/2024
+- 🦏 [Coca-Cola Việt Nam được vinh danh tại giải Rồng Vàng 2024](https://nld.com.vn/coca-cola-viet-nam-duoc-vinh-danh-tai-giai-rong-vang-2024-196240415104710767.htm) - 03:52 15/04/2024
+- 🗽 [Xác định liên hệ chết người giữa vi khuẩn miệng và ung thư](https://nld.com.vn/xac-dinh-lien-he-chet-nguoi-giua-vi-khuan-mieng-va-ung-thu-196240415102154361.htm) - 03:40 15/04/2024
+- 🔭 [Phát hiện thi thể trẻ sơ sinh ở Quảng Nam](https://nld.com.vn/phat-hien-thi-the-tre-so-sinh-o-quang-nam-196240415093848605.htm) - 03:40 15/04/2024
+- 👍 [TP Thủ Đức: Bùng lên từ bãi rác, lửa tấn công thêm 2 nhà xưởng](https://nld.com.vn/tp-thu-duc-bung-len-tu-bai-rac-lua-tan-cong-them-2-nha-xuong-19624041509482268.htm) - 03:30 15/04/2024
+- ⛽️ [CEO Apple Tim Cook đến Việt Nam bằng máy bay riêng](https://nld.com.vn/ceo-apple-tim-cook-den-viet-nam-bang-may-bay-rieng-196240415101551142.htm) - 03:23 15/04/2024
+- 🥸 [Khởi tố 18 bị can trong vụ mang quan tài đòi nợ chủ hụi](https://nld.com.vn/khoi-to-18-bi-can-trong-vu-mang-quan-tai-doi-no-chu-hui-19624041510104406.htm) - 03:22 15/04/2024
+- 🌁 [Vẻ đẹp rạng ngời của người đẹp U50 chuyên trị vai ác trên màn ảnh](https://nld.com.vn/ve-dep-rang-ngoi-cua-nguoi-dep-u50-chuyen-tri-vai-ac-tren-man-anh-196240415090332695.htm) - 03:19 15/04/2024
+- 🌮 [Ca sĩ Ngọc Sơn nói về em trai và kỷ niệm làm nghề không bao giờ quên](https://nld.com.vn/ca-si-ngoc-son-noi-ve-em-trai-va-ky-niem-lam-nghe-khong-bao-gio-quen-196240415091646238.htm) - 03:07 15/04/2024
+- 🎉 [Xua tan mệt mỏi với thức uống từ thảo dược](https://nld.com.vn/xua-tan-met-moi-voi-thuc-uong-tu-thao-duoc-19624041509520367.htm) - 03:00 15/04/2024
+- 🤔 [Tầm view độc bản, chất Mỹ “triệu đô” chỉ có tại căn hộ The Beverly](https://nld.com.vn/tam-view-doc-ban-chat-my-trieu-do-chi-co-tai-can-ho-the-beverly-196240415093908552.htm) - 02:59 15/04/2024
+- 🐘 [Giá vàng hôm nay 15-4: Vừa lao dốc, giá vàng SJC lại nhảy vọt](https://nld.com.vn/gia-vang-hom-nay-15-4-vua-lao-doc-gia-vang-sjc-lai-nhay-vot-196240415093312534.htm) - 02:59 15/04/2024
+- 🙉 [Tú Tri làm đêm nhạc phi lợi nhuận gửi tặng người hâm mộ](https://nld.com.vn/tu-tri-lam-dem-nhac-phi-loi-nhuan-gui-tang-nguoi-ham-mo-196240415090816472.htm) - 02:59 15/04/2024
+- 🐵 [40.000 năm trước, loài khác đã bố trí nhà như người hiện đại](https://nld.com.vn/40000-nam-truoc-loai-khac-da-bo-tri-nha-nhu-nguoi-hien-dai-19624041508532209.htm) - 02:58 15/04/2024
 - 🙉 [Sáng nay, 15-4, ĐHQG TP HCM công bố điểm thi đánh giá năng lực](https://nld.com.vn/sang-nay-15-4-dhqg-tp-hcm-cong-bo-diem-thi-danh-gia-nang-luc-19624041509190053.htm) - 02:46 15/04/2024
-- 🐵 [Iran làm điều bất ngờ trước khi tấn công, Mỹ lắc đầu phủ nhận](https://nld.com.vn/iran-lam-dieu-bat-ngo-truoc-khi-tan-cong-my-lac-dau-phu-nhan-196240415085152246.htm) - 02:37 15/04/2024
-- 🙉 [Iran tấn công Israel: Tiết lộ cay đắng của chuẩn tướng Israel](https://nld.com.vn/iran-tan-cong-israel-tiet-lo-cay-dang-cua-chuan-tuong-israel-19624041509163606.htm) - 02:36 15/04/2024
-- 💪 [16 khoản thu nhập được miễn thuế thu nhập cá nhân 2024](https://nld.com.vn/16-khoan-thu-nhap-duoc-mien-thue-thu-nhap-ca-nhan-2024-196240415075006159.htm) - 02:00 15/04/2024
-- ⛽️ [Thử cảm giác ăn tối, ngắm cảnh đêm Đà Lạt trên tuyến đường sắt trăm năm](https://nld.com.vn/thu-cam-giac-an-toi-ngam-canh-dem-da-lat-tren-tuyen-duong-sat-tram-nam-196240414222400847.htm) - 01:46 15/04/2024
-- 👺 [Xe dù, bến cóc vẫn lộng hành](https://nld.com.vn/xe-du-ben-coc-van-long-hanh-196240414212828253.htm) - 01:30 15/04/2024
-- 🧠 [Giá điện 2 thành phần: Tạo sự minh bạch, công bằng](https://nld.com.vn/gia-dien-2-thanh-phan-tao-su-minh-bach-cong-bang-19624041421461161.htm) - 01:15 15/04/2024
-- 🔭 [Vụ tấn công của Iran: Bước đi mới của quân đội Israel](https://nld.com.vn/vu-tan-cong-cua-iran-buoc-di-moi-cua-quan-doi-israel-196240415072610479.htm) - 01:08 15/04/2024
-- 🦣 [Háo hức chờ trải nghiệm các cung đường](https://nld.com.vn/hao-huc-cho-trai-nghiem-cac-cung-duong-196240414220955537.htm) - 01:08 15/04/2024
-- 🔥 [Loay hoay với xe dù, bến cóc](https://nld.com.vn/loay-hoay-voi-xe-du-ben-coc-196240414215656422.htm) - 01:00 15/04/2024
-- 🌝 [Nhà báo lão thành Thái Duy qua đời ở tuổi 98](https://nld.com.vn/nha-bao-lao-thanh-thai-duy-qua-doi-o-tuoi-98-196240415074530525.htm) - 00:59 15/04/2024
-- 👍 [Việt Anh, Minh Trang, Quốc Thảo hội ngộ sau nhiều năm với &quot;Trò chơi mất tích&quot;](https://nld.com.vn/viet-anh-minh-trang-quoc-thao-hoi-ngo-sau-nhieu-nam-voi-tro-choi-mat-tich-19624041506460727.htm) - 00:37 15/04/2024
-- 💂 [Một doanh nghiệp mời công nhân cũ trở lại với nhiều ưu đãi](https://nld.com.vn/mot-doanh-nghiep-moi-cong-nhan-cu-tro-lai-voi-nhieu-uu-dai-196240415072640503.htm) - 00:30 15/04/2024
-- 🤖 [Làn sóng Việt kiều về quê khởi nghiệp](https://nld.com.vn/lan-song-viet-kieu-ve-que-khoi-nghiep-196240414213016489.htm) - 00:29 15/04/2024<!-- nld:END -->
+- 💪 [Iran làm điều bất ngờ trước khi tấn công, Mỹ lắc đầu phủ nhận](https://nld.com.vn/iran-lam-dieu-bat-ngo-truoc-khi-tan-cong-my-lac-dau-phu-nhan-196240415085152246.htm) - 02:37 15/04/2024
+- ⛽️ [Iran tấn công Israel: Tiết lộ cay đắng của chuẩn tướng Israel](https://nld.com.vn/iran-tan-cong-israel-tiet-lo-cay-dang-cua-chuan-tuong-israel-19624041509163606.htm) - 02:36 15/04/2024
+- 👺 [16 khoản thu nhập được miễn thuế thu nhập cá nhân 2024](https://nld.com.vn/16-khoan-thu-nhap-duoc-mien-thue-thu-nhap-ca-nhan-2024-196240415075006159.htm) - 02:00 15/04/2024
+- 🧠 [Thử cảm giác ăn tối, ngắm cảnh đêm Đà Lạt trên tuyến đường sắt trăm năm](https://nld.com.vn/thu-cam-giac-an-toi-ngam-canh-dem-da-lat-tren-tuyen-duong-sat-tram-nam-196240414222400847.htm) - 01:46 15/04/2024
+- 🔭 [Xe dù, bến cóc vẫn lộng hành](https://nld.com.vn/xe-du-ben-coc-van-long-hanh-196240414212828253.htm) - 01:30 15/04/2024
+- 🦣 [Giá điện 2 thành phần: Tạo sự minh bạch, công bằng](https://nld.com.vn/gia-dien-2-thanh-phan-tao-su-minh-bach-cong-bang-19624041421461161.htm) - 01:15 15/04/2024
+- 🔥 [Vụ tấn công của Iran: Bước đi mới của quân đội Israel](https://nld.com.vn/vu-tan-cong-cua-iran-buoc-di-moi-cua-quan-doi-israel-196240415072610479.htm) - 01:08 15/04/2024
+- 🌝 [Háo hức chờ trải nghiệm các cung đường](https://nld.com.vn/hao-huc-cho-trai-nghiem-cac-cung-duong-196240414220955537.htm) - 01:08 15/04/2024
+- 👍 [Loay hoay với xe dù, bến cóc](https://nld.com.vn/loay-hoay-voi-xe-du-ben-coc-196240414215656422.htm) - 01:00 15/04/2024
+- 💂 [Nhà báo lão thành Thái Duy qua đời ở tuổi 98](https://nld.com.vn/nha-bao-lao-thanh-thai-duy-qua-doi-o-tuoi-98-196240415074530525.htm) - 00:59 15/04/2024
+- 🤖 [Việt Anh, Minh Trang, Quốc Thảo hội ngộ sau nhiều năm với &quot;Trò chơi mất tích&quot;](https://nld.com.vn/viet-anh-minh-trang-quoc-thao-hoi-ngo-sau-nhieu-nam-voi-tro-choi-mat-tich-19624041506460727.htm) - 00:37 15/04/2024<!-- nld:END -->
 
 ## Báo SGGP
 <!-- sggp:START -->
