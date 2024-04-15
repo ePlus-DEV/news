@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Hơn 2.700 tỷ đồng nạo vét sông Trường Giang](https://vnexpress.net/hon-2-700-ty-dong-nao-vet-song-truong-giang-4734525.html) - 08:17 15/04/2024
 - ⚗️ [Tháo dỡ xong khách sạn 12 tầng xây sai phép ở Phú Quốc](https://vnexpress.net/thao-do-xong-khach-san-12-tang-xay-sai-phep-o-phu-quoc-4734481.html) - 06:27 15/04/2024
 - 🌊 [Ba vụ cháy nhà xưởng liên tiếp ở TP HCM](https://vnexpress.net/ba-vu-chay-nha-xuong-lien-tiep-o-tp-hcm-4734484.html) - 05:59 15/04/2024
-- 🎓 [Đê sông Cầu bị lấn chiếm xây nhà thế nào](https://video.vnexpress.net/de-song-cau-bi-lan-chiem-xay-nha-the-nao-4733278.html) - 05:54 15/04/2024
+- 🎓 [Đê sông Cầu bị lấn chiếm xây nhà thế nào qua các năm](https://video.vnexpress.net/de-song-cau-bi-lan-chiem-xay-nha-the-nao-qua-cac-nam-4733278.html) - 05:54 15/04/2024
 - 🔥 [Khai thác cầu tạm giúp giảm ùn tắc cửa ngõ Tân Sơn Nhất](https://vnexpress.net/khai-thac-cau-tam-giup-giam-un-tac-cua-ngo-tan-son-nhat-4734480.html) - 05:50 15/04/2024
 - 🦏 [Thi thể nam thanh niên dưới hố công trình](https://vnexpress.net/thi-the-nam-thanh-nien-duoi-ho-cong-trinh-4734407.html) - 05:37 15/04/2024
 - 👺 [Phá dỡ nhà nghiêng lún trên hành lang bảo vệ đê sông Cầu](https://vnexpress.net/pha-do-nha-nghieng-lun-tren-hanh-lang-bao-ve-de-song-cau-4734369.html) - 04:43 15/04/2024
