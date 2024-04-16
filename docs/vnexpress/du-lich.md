@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Khám phá dòng Mekong trên du thuyền 140 tỷ đồng](https://vnexpress.net/kham-pha-dong-mekong-tren-du-thuyen-140-ty-dong-4734912.html) - 17:00 16/04/2024
+- 💂 [Khám phá dòng Mekong trên du thuyền 6 triệu USD](https://vnexpress.net/kham-pha-dong-mekong-tren-du-thuyen-6-trieu-usd-4734912.html) - 17:00 16/04/2024
 - 🪄 [Du lịch nội địa Trung Quốc phục hồi trong hoài nghi](https://vnexpress.net/du-lich-noi-dia-trung-quoc-phuc-hoi-trong-hoai-nghi-4734818.html) - 06:58 16/04/2024
 - 🦅 [Hàng nghìn du khách đổ về Cúc Phương đầu mùa bướm](https://vnexpress.net/hang-nghin-du-khach-do-ve-cuc-phuong-dau-mua-buom-4734904.html) - 06:45 16/04/2024
 - 🕴 [&#39;Vương quốc hang động&#39; ở Quảng Bình](https://vnexpress.net/vuong-quoc-hang-dong-o-quang-binh-4734379.html) - 00:00 16/04/2024
