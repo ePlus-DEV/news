@@ -72,8 +72,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🕯 [&#39;Mạng 4G vẫn là chủ đạo trong 5 năm tới&#39;](https://vnexpress.net/mang-4g-van-la-chu-dao-trong-5-nam-toi-4734725.html) - 02:00 16/04/2024
 - 💪 [Tên sát nhân hai lần nhận án tử hình](https://vnexpress.net/ten-sat-nhan-hai-lan-nhan-an-tu-hinh-4734842.html) - 02:00 16/04/2024
 - 🧑‍🏫 [MB Ageas Life vào top 50 doanh nghiệp FDI tiêu biểu](https://vnexpress.net/mb-ageas-life-vao-top-50-doanh-nghiep-fdi-tieu-bieu-4734796.html) - 02:00 16/04/2024
-- 🎓 [Vitadairy hợp tác với KPMG Việt Nam chuyển đổi số](https://vnexpress.net/vitadairy-hop-tac-voi-kpmg-viet-nam-chuyen-doi-so-4734718.html) - 02:00 16/04/2024
-- 💫 [Ăn đậu bắp giúp kiểm soát đường huyết](https://vnexpress.net/an-dau-bap-giup-kiem-soat-duong-huyet-4734646.html) - 02:00 16/04/2024<!-- vnexpress:END -->
+- 🎓 [Vitadairy hợp tác với KPMG Việt Nam chuyển đổi số](https://vnexpress.net/vitadairy-hop-tac-voi-kpmg-viet-nam-chuyen-doi-so-4734718.html) - 02:00 16/04/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
