@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Thủ tướng đề nghị Apple chọn Việt Nam làm cứ điểm sản xuất toàn cầu](https://vnexpress.net/thu-tuong-de-nghi-apple-chon-viet-nam-lam-cu-diem-san-xuat-toan-cau-4734897.html) - 06:55 16/04/2024
+- 🦒 [Thủ tướng đề nghị Tim Cook chọn Việt Nam làm cứ điểm sản xuất toàn cầu](https://vnexpress.net/thu-tuong-de-nghi-tim-cook-chon-viet-nam-lam-cu-diem-san-xuat-toan-cau-4734897.html) - 06:55 16/04/2024
 - 🤓 [Khoan 23 m núi gia cố hầm đường sắt nối Phú Yên và Khánh Hòa](https://vnexpress.net/khoan-23-m-nui-gia-co-ham-duong-sat-noi-phu-yen-va-khanh-hoa-4734729.html) - 05:23 16/04/2024
 - ⚗️ [Đề nghị Chính phủ tìm giải pháp ngăn chặn sạt lở đất](https://vnexpress.net/de-nghi-chinh-phu-tim-giai-phap-ngan-chan-sat-lo-dat-4734885.html) - 04:34 16/04/2024
 - 🌊 [Khánh thành tượng Lê Nin tại TP Vinh](https://vnexpress.net/khanh-thanh-tuong-le-nin-tai-tp-vinh-4734151.html) - 02:36 16/04/2024
