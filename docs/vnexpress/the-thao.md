@@ -62,4 +62,5 @@ sidebar_position: 5
 - 🌮 [Báo Anh: &#39;Cầu thủ Man Utd như không còn nghe lời Ten Hag&#39;](https://vnexpress.net/bao-anh-cau-thu-man-utd-nhu-khong-con-nghe-loi-ten-hag-4734042.html) - 02:21 14/04/2024
 - 🤩 [Garnacho thích hai bài viết chỉ trích Ten Hag](https://vnexpress.net/garnacho-thich-hai-bai-viet-chi-trich-ten-hag-4730002.html) - 00:58 14/04/2024
 - 🏊 [Cầu thủ Liverpool được huấn luyện bằng AI thế nào](https://vnexpress.net/cau-thu-liverpool-duoc-huan-luyen-bang-ai-the-nao-4733703.html) - 00:40 14/04/2024
-- 🐎 [Tranh cãi phạt đền ở trận Man Utd hòa Bournemouth](https://vnexpress.net/tranh-cai-phat-den-o-tran-man-utd-hoa-bournemouth-4734027.html) - 00:35 14/04/2024<!-- vnexpress-the-thao:END -->
+- 🐎 [Tranh cãi phạt đền ở trận Man Utd hòa Bournemouth](https://vnexpress.net/tranh-cai-phat-den-o-tran-man-utd-hoa-bournemouth-4734027.html) - 00:35 14/04/2024
+- 💫 [Ten Hag bỏ dở họp báo sau khi hòa Bournemouth](https://vnexpress.net/ten-hag-bo-do-hop-bao-sau-khi-hoa-bournemouth-4734022.html) - 00:10 14/04/2024<!-- vnexpress-the-thao:END -->
