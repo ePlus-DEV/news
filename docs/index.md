@@ -573,7 +573,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
 - 💼 [Khán giả bao vây Son Ye Jin ở sân bay](https://tienphong.vn/khan-gia-bao-vay-son-ye-jin-o-san-bay-post1629443.tpo) - 00:00 17/04/2024
-- 🎊 [Trực tiếp U23 Iraq 0-2 U23 Thái Lan &lpar;H2&rpar;: Iraq chỉ còn 10 người](https://tienphong.vn/truc-tiep-u23-iraq-0-2-u23-thai-lan-h2-iraq-chi-con-10-nguoi-post1629546.tpo) - 22:45 16/04/2024
+- 🎊 [U23 Thái Lan thắng sốc U23 Iraq, mở toang cửa vào tứ kết U23 châu Á 2024](https://tienphong.vn/u23-thai-lan-thang-soc-u23-iraq-mo-toang-cua-vao-tu-ket-u23-chau-a-2024-post1629546.tpo) - 22:45 16/04/2024
 - 💼 [Highlights U23 Nhật Bản vs U23 Trung Quốc: Thẻ đỏ vô duyên, chiến thắng nhọc nhằn](https://tienphong.vn/highlights-u23-nhat-ban-vs-u23-trung-quoc-the-do-vo-duyen-chien-thang-nhoc-nhan-post1629564.tpo) - 22:36 16/04/2024
 - 👺 [Bí thư Hà Nội kiểm tra tiến độ hệ thống xử lý nước thải Yên Xá](https://tienphong.vn/bi-thu-ha-noi-kiem-tra-tien-do-he-thong-xu-ly-nuoc-thai-yen-xa-post1629377.tpo) - 22:30 16/04/2024
 - 💪 [Quảng Nam tìm cách thu hút 7,6 triệu khách du lịch](https://tienphong.vn/quang-nam-tim-cach-thu-hut-76-trieu-khach-du-lich-post1629427.tpo) - 22:24 16/04/2024
