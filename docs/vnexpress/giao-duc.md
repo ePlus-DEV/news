@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Cựu kỹ sư cầu đường đoạt giải đặc biệt Olympic Toán học sinh viên](https://vnexpress.net/cuu-ky-su-cau-duong-doat-giai-dac-biet-olympic-toan-hoc-sinh-vien-4734566.html) - 23:00 15/04/2024
+- 🤓 [Sinh viên 38 tuổi đoạt giải đặc biệt Olympic Toán học toàn quốc](https://vnexpress.net/sinh-vien-38-tuoi-doat-giai-dac-biet-olympic-toan-hoc-toan-quoc-4734566.html) - 23:00 15/04/2024
 - 🦆 [Sinh viên được doanh nghiệp đào tạo, chấm điểm từ năm thứ nhất](https://vnexpress.net/sinh-vien-duoc-doanh-nghiep-dao-tao-cham-diem-tu-nam-thu-nhat-4734656.html) - 15:37 15/04/2024
 - 🦩 [Trường THCS nào lâu đời nhất Hà Nội?](https://vnexpress.net/truong-thcs-nao-lau-doi-nhat-ha-noi-4734630.html) - 13:00 15/04/2024
 - 🌮 [Chốt lịch tuyển sinh đại học 2024](https://vnexpress.net/chot-lich-tuyen-sinh-dai-hoc-2024-4728124.html) - 12:07 15/04/2024
