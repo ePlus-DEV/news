@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [&#39;Hạn chế ghi âm, ghi hình tại phiên tòa là tước quyền tác nghiệp của nhà báo&#39;](https://vnexpress.net/han-che-ghi-am-ghi-hinh-tai-phien-toa-la-tuoc-quyen-tac-nghiep-cua-nha-bao-4734470.html) - 23:00 15/04/2024
-- 🥰 [&#39;Phiên tòa thế kỷ&#39; xét xử ngôi sao bóng rổ Mỹ giết vợ cũ](https://vnexpress.net/phien-toa-the-ky-xet-xu-ngoi-sao-bong-ro-my-giet-vo-cu-4734670.html) - 17:00 15/04/2024
+- 🥰 [&#39;Phiên tòa thế kỷ&#39; xét xử ngôi sao bóng bầu dục Mỹ giết vợ cũ](https://vnexpress.net/phien-toa-the-ky-xet-xu-ngoi-sao-bong-bau-duc-my-giet-vo-cu-4734670.html) - 17:00 15/04/2024
 - 🎓 [Làm thế nào để biết có đang nợ thuế thu nhập cá nhân hay không?](https://vnexpress.net/lam-the-nao-de-biet-co-dang-no-thue-thu-nhap-ca-nhan-hay-khong-4734323.html) - 17:00 15/04/2024
 - 🤓 [Cựu giám đốc CDC Khánh Hòa bị phạt 3 năm 6 tháng tù](https://vnexpress.net/cuu-giam-doc-cdc-khanh-hoa-bi-phat-3-nam-6-thang-tu-4734675.html) - 13:10 15/04/2024
 - 🎊 [Đoàn cán bộ Cục Quản lý thị trường TP HCM gặp nạn vì tài xế &#39;vượt ẩu&#39;](https://vnexpress.net/doan-can-bo-cuc-quan-ly-thi-truong-tp-hcm-gap-nan-vi-tai-xe-vuot-au-4734687.html) - 13:00 15/04/2024
