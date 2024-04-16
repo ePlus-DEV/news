@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [Đơn hàng xuất khẩu thực phẩm tăng trở lại](https://vnexpress.net/don-hang-xuat-khau-thuc-pham-tang-tro-lai-4735081.html) - 14:16 16/04/2024
 - 🐲 [Dragon Capital: Cần đầu tư dài hạn khi thị trường nhiều biến động](https://vnexpress.net/dragon-capital-can-dau-tu-dai-han-khi-thi-truong-nhieu-bien-dong-4735015.html) - 13:30 16/04/2024
 - 🔥 [Dragon Capital: Đầu tư chứng khoán vẫn hấp dẫn](https://vnexpress.net/dragon-capital-dau-tu-chung-khoan-van-hap-dan-4735131.html) - 12:23 16/04/2024
-- 🐵 [Năng lượng tái tạo có thể bán điện trực tiếp không qua EVN](https://vnexpress.net/du-an-dien-gio-mat-troi-co-the-ban-dien-truc-tiep-cho-khach-hang-4735071.html) - 11:21 16/04/2024
+- 🐵 [Có thể mua điện tái tạo trực tiếp không qua EVN](https://vnexpress.net/du-an-dien-gio-mat-troi-co-the-ban-dien-truc-tiep-cho-khach-hang-4735071.html) - 11:21 16/04/2024
 - 🦅 [PNJ đặt mục tiêu tăng doanh thu 12% năm nay](https://vnexpress.net/pnj-dat-muc-tieu-tang-doanh-thu-12-nam-nay-4735022.html) - 10:20 16/04/2024
 - 😺 [Dragon Capital nêu kịch bản đầu tư trong bối cảnh kinh tế phục hồi](https://vnexpress.net/dragon-capital-neu-kich-ban-dau-tu-trong-boi-canh-kinh-te-phuc-hoi-4734950.html) - 08:30 16/04/2024
 - 🤩 [Chứng khoán cải thiện ở cuối phiên](https://vnexpress.net/chung-khoan-cai-thien-o-cuoi-phien-4735047.html) - 08:29 16/04/2024
