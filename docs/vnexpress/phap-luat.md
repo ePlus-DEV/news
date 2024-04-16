@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Bị cắt nước, cư dân kiện ban quản trị chung cư](https://vnexpress.net/bi-cat-nuoc-cu-dan-kien-ban-quan-tri-chung-cu-4735157.html) - 17:00 16/04/2024
 - 🥰 [Nỗi ân hận của người mẹ &#39;bắt hai con chết cùng&#39;](https://vnexpress.net/noi-an-han-cua-nguoi-me-bat-hai-con-chet-cung-4735149.html) - 17:00 16/04/2024
-- 🎓 [Người xách lậu 20 chiếc iPhone 15 lên máy bay bị phạt 4 năm tù](https://vnexpress.net/nguoi-xach-lau-20-chiec-iphone-15-len-may-bay-bi-phat-4-nam-tu-4735187.html) - 16:10 16/04/2024
+- 🎓 [Bị phạt 4 năm tù vì xách lậu 20 chiếc iPhone 15 lên máy bay](https://vnexpress.net/nguoi-xach-lau-20-chiec-iphone-15-len-may-bay-bi-phat-4-nam-tu-4735187.html) - 16:10 16/04/2024
 - 🤓 [Kiện bệnh viện vì bị cắt cụt hai chân khi mổ ruột thừa](https://vnexpress.net/kien-benh-vien-vi-bi-cat-cut-hai-chan-khi-mo-ruot-thua-4735144.html) - 15:33 16/04/2024
 - 🎊 [Nhóm côn đồ tấn công nhầm hai học sinh](https://vnexpress.net/nhom-con-do-tan-cong-nham-hai-hoc-sinh-4735175.html) - 15:17 16/04/2024
 - 🙉 [Giả luật sư để lừa &#39;chạy án&#39;](https://vnexpress.net/gia-luat-su-de-lua-chay-an-4735070.html) - 15:05 16/04/2024
