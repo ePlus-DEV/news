@@ -5,12 +5,12 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Phim chuyển thể truyện Nguyễn Nhật Ánh hé lộ chuyện tình tay ba](https://vnexpress.net/phim-chuyen-the-truyen-nguyen-nhat-anh-he-lo-chuyen-tinh-tay-ba-4734957.html) - 12:22 16/04/2024
-- 💫 [Suri Cruise - từ &quot;công chúa hàng hiệu&quot; đến cô gái giản dị](https://vnexpress.net/suri-cruise-tu-cong-chua-hang-hieu-den-co-gai-gian-di-4734938.html) - 12:00 16/04/2024
+- 💫 [Suri Cruise - từ &#39;công chúa hàng hiệu&#39; đến cô gái giản dị](https://vnexpress.net/suri-cruise-tu-cong-chua-hang-hieu-den-co-gai-gian-di-4734938.html) - 12:00 16/04/2024
 - 🌮 [Phong cách thanh lịch của Lee Bo Young](https://vnexpress.net/phong-cach-thanh-lich-cua-lee-bo-young-4726925.html) - 10:16 16/04/2024
 - 🧠 [Tác giả &#39;Những khoảnh khắc sống&#39;: Người trẻ hãy quan sát, nghĩ và viết](https://vnexpress.net/tac-gia-nhung-khoanh-khac-song-nguoi-tre-hay-quan-sat-nghi-va-viet-4734193.html) - 09:27 16/04/2024
 - 👨‍🏫 [Nghệ sĩ Tự Long thi &#39;Anh trai vượt ngàn chông gai&#39;](https://vnexpress.net/nghe-si-tu-long-thi-anh-trai-vuot-ngan-chong-gai-4734927.html) - 08:01 16/04/2024
 - ⚗️ [&#39;Giá như&#39; của Soobin Hoàng Sơn hút triệu view](https://vnexpress.net/gia-nhu-cua-soobin-hoang-son-hut-trieu-view-4733117.html) - 07:38 16/04/2024
-- 😎 [Midu - từ hot girl đến diễn viên đa tài](https://vnexpress.net/midu-tu-hot-girl-den-dien-vien-da-tai-4734959.html) - 07:16 16/04/2024
+- 😎 [Midu - hot girl thành diễn viên đa tài](https://vnexpress.net/midu-hot-girl-thanh-dien-vien-da-tai-4734959.html) - 07:16 16/04/2024
 - 🫣 [Angelababy tự nhận là &#39;mẹ dữ dằn&#39;](https://vnexpress.net/angelababy-tu-nhan-la-me-du-dan-4734932.html) - 06:44 16/04/2024
 - 🪄 [Tài tử 74 tuổi khóc ở phiên xét xử bạn gái](https://vnexpress.net/tai-tu-74-tuoi-khoc-o-phien-xet-xu-ban-gai-4734873.html) - 04:05 16/04/2024
 - 🤓 [Tuấn Hưng sẽ đền tiền vé cho khán giả](https://vnexpress.net/tuan-hung-se-den-tien-ve-cho-khan-gia-4734816.html) - 03:18 16/04/2024
