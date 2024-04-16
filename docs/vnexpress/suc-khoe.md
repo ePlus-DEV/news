@@ -5,7 +5,7 @@ sidebar_position: 10
 
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [5 vitamin ảnh hưởng đến giấc ngủ](https://vnexpress.net/5-vitamin-anh-huong-den-giac-ngu-4735076.html) - 10:00 16/04/2024
-- 🥰 [Cơ sở massage bị bắt quả tang &#39;tăng size dương vật&#39; bệnh nhân](https://vnexpress.net/co-so-massage-bi-bat-qua-tang-tang-size-duong-vat-benh-nhan-4735058.html) - 09:40 16/04/2024
+- 🥰 [Cơ sở massage bị bắt quả tang chữa bệnh nam khoa trái phép](https://vnexpress.net/co-so-massage-bi-bat-qua-tang-tang-size-duong-vat-benh-nhan-4735058.html) - 09:40 16/04/2024
 - 💡 [Tại sao bị lạc nội mạc tử cung khó có con?](https://vnexpress.net/tai-sao-bi-lac-noi-mac-tu-cung-kho-co-con-4735005.html) - 09:00 16/04/2024
 - 🤗 [6 quả mùa hè trẻ nên ăn thường xuyên](https://vnexpress.net/6-qua-mua-he-tre-nen-an-thuong-xuyen-4734884.html) - 09:00 16/04/2024
 - 🪜 [8 bệnh có thể xảy ra do căng thẳng](https://vnexpress.net/8-benh-co-the-xay-ra-do-cang-thang-4734949.html) - 08:00 16/04/2024
