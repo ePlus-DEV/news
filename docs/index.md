@@ -581,7 +581,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦍 [Đang cháy lớn xưởng may ở Bình Dương, kèm nhiều tiếng nổ lớn](https://tienphong.vn/dang-chay-lon-xuong-may-o-binh-duong-kem-nhieu-tieng-no-lon-post1629553.tpo) - 21:55 16/04/2024
 - 👹 [Tăng chuyến bay đi Điện Biên](https://tienphong.vn/tang-chuyen-bay-di-dien-bien-post1629295.tpo) - 21:46 16/04/2024
 - 🌜 [Tuyên án vụ đâm tàu cá vì tranh chấp ngư trường trên vùng biển Cà Mau](https://tienphong.vn/tuyen-an-vu-dam-tau-ca-vi-tranh-chap-ngu-truong-tren-vung-bien-ca-mau-post1629526.tpo) - 21:46 16/04/2024
-- 🎓 [Trực tiếp U23 Iraq 0-0 U23 Thái Lan &lpar;H1&rpar;: Chờ đợi bất ngờ](https://tienphong.vn/truc-tiep-u23-iraq-0-0-u23-thai-lan-h1-cho-doi-bat-ngo-post1629546.tpo) - 21:45 16/04/2024
+- 🎓 [Trực tiếp U23 Iraq 0-1 U23 Thái Lan &lpar;H2&rpar;: Thái Lan thay liền 2 người](https://tienphong.vn/truc-tiep-u23-iraq-0-1-u23-thai-lan-h2-thai-lan-thay-lien-2-nguoi-post1629546.tpo) - 21:45 16/04/2024
 - 🦣 [Huy động hơn 300 công nhân khắc phục sự cố sụt hầm Bãi Gió](https://tienphong.vn/huy-dong-hon-300-cong-nhan-khac-phuc-su-co-sut-ham-bai-gio-post1629454.tpo) - 21:24 16/04/2024
 - 🤓 [Lãnh đạo các chính đảng, các nước chúc mừng sinh nhật Tổng Bí thư Nguyễn Phú Trọng](https://tienphong.vn/lanh-dao-cac-chinh-dang-cac-nuoc-chuc-mung-sinh-nhat-tong-bi-thu-nguyen-phu-trong-post1629542.tpo) - 21:15 16/04/2024
 - 🌁 [Cuba muốn đón thêm nhiều doanh nghiệp Việt Nam](https://tienphong.vn/cuba-muon-don-them-nhieu-doanh-nghiep-viet-nam-post1629507.tpo) - 21:08 16/04/2024
