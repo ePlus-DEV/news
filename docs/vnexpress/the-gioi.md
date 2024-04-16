@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Người Hàn không nguôi nỗi đau sau 10 năm chìm phà Sewol](https://vnexpress.net/nguoi-han-khong-nguoi-noi-dau-sau-10-nam-chim-pha-sewol-4734983.html) - 08:28 16/04/2024
 - 🕴 [Drone Ukraine hiệp đồng đánh chặn tăng thiết giáp Nga](https://vnexpress.net/drone-ukraine-hiep-dong-danh-chan-tang-thiet-giap-nga-4734945.html) - 08:17 16/04/2024
-- 🤭 [Ông Thaksin nêu khả năng em gái hồi hương](https://vnexpress.net/ong-thaksin-neu-kha-nang-em-gai-hoi-huong-4734913.html) - 08:07 16/04/2024
+- 🤭 [Ông Thaksin nêu khả năng em gái Yingluck hồi hương](https://vnexpress.net/ong-thaksin-neu-kha-nang-em-gai-yingluck-hoi-huong-4734913.html) - 08:07 16/04/2024
 - 🧑‍💻 [Nghị sĩ Gruzia ẩu đả giữa quốc hội](https://vnexpress.net/nghi-si-gruzia-au-da-giua-quoc-hoi-4734972.html) - 08:04 16/04/2024
 - 🦏 [Máy bay lao xuống biển, phi công cùng chó cưng bơi vào bờ](https://vnexpress.net/may-bay-lao-xuong-bien-phi-cong-cung-cho-cung-boi-vao-bo-4734970.html) - 07:52 16/04/2024
 - 🦒 [Người ủng hộ Trump mệt mỏi vì phải theo quá nhiều phiên tòa](https://vnexpress.net/nguoi-ung-ho-trump-met-moi-vi-phai-theo-qua-nhieu-phien-toa-4734781.html) - 07:15 16/04/2024
