@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Tim Cook thăm ngôi trường dạy học bằng iPad](https://vnexpress.net/tim-cook-tham-ngoi-truong-day-hoc-bang-ipad-4734721.html) - 03:38 16/04/2024
+- 🤓 [Tim Cook cùng làm bài tập với học sinh Hà Nội](https://vnexpress.net/tim-cook-cung-lam-bai-tap-voi-hoc-sinh-ha-noi-4734721.html) - 03:38 16/04/2024
 - 🦆 [Điểm chuẩn lớp 10 chuyên của Hà Nội ba năm qua](https://vnexpress.net/diem-chuan-lop-10-chuyen-cua-ha-noi-ba-nam-qua-4734198.html) - 03:29 16/04/2024
 - 🦩 [Sinh viên 38 tuổi đoạt giải đặc biệt Olympic Toán học toàn quốc](https://vnexpress.net/sinh-vien-38-tuoi-doat-giai-dac-biet-olympic-toan-hoc-toan-quoc-4734566.html) - 23:00 15/04/2024
 - 🌮 [Sinh viên được doanh nghiệp đào tạo, chấm điểm từ năm thứ nhất](https://vnexpress.net/sinh-vien-duoc-doanh-nghiep-dao-tao-cham-diem-tu-nam-thu-nhat-4734656.html) - 15:37 15/04/2024
