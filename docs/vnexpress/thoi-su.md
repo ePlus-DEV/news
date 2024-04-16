@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Đề nghị Chính phủ xử lý tình trạng sạt lở đất](https://vnexpress.net/de-nghi-chinh-phu-xu-ly-tinh-trang-sat-lo-dat-4734885.html) - 04:34 16/04/2024
+- 🦒 [Đề nghị Chính phủ tìm giải pháp ngăn chặn sạt lở đất](https://vnexpress.net/de-nghi-chinh-phu-tim-giai-phap-ngan-chan-sat-lo-dat-4734885.html) - 04:34 16/04/2024
 - 🤓 [Khánh thành tượng Lê Nin tại TP Vinh](https://vnexpress.net/khanh-thanh-tuong-le-nin-tai-tp-vinh-4734151.html) - 02:36 16/04/2024
 - ⚗️ [Lật ôtô tải trên đèo Lò Xo, hai người chết](https://vnexpress.net/lat-oto-tai-tren-deo-lo-xo-hai-nguoi-chet-4734803.html) - 02:05 16/04/2024
 - 🌊 [Hà Nội thí điểm gửi xe không tiền mặt](https://vnexpress.net/ha-noi-thi-diem-gui-xe-khong-tien-mat-4734700.html) - 00:00 16/04/2024
