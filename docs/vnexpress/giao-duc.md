@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Hệ thống trường Tây Úc cấp học bổng đến 440 triệu đồng](https://vnexpress.net/he-thong-truong-tay-uc-cap-hoc-bong-den-440-trieu-dong-4735001.html) - 09:00 16/04/2024
-- 🦆 [Trường Quốc tế Mỹ: Kết thúc năm học sớm vì thiếu giáo viên, hết tiền](https://vnexpress.net/truong-quoc-te-my-ket-thuc-nam-hoc-som-vi-thieu-giao-vien-het-tien-4735033.html) - 08:56 16/04/2024
+- 🦆 [Trường Quốc tế Mỹ: Kết thúc năm học sớm vì hết tiền, thiếu giáo viên](https://vnexpress.net/truong-quoc-te-my-ket-thuc-nam-hoc-som-vi-het-tien-thieu-giao-vien-4735033.html) - 08:56 16/04/2024
 - 🦩 [Tim Cook cùng làm bài tập với học sinh Hà Nội](https://vnexpress.net/tim-cook-cung-lam-bai-tap-voi-hoc-sinh-ha-noi-4734721.html) - 03:38 16/04/2024
 - 🌮 [Điểm chuẩn lớp 10 chuyên của Hà Nội ba năm qua](https://vnexpress.net/diem-chuan-lop-10-chuyen-cua-ha-noi-ba-nam-qua-4734198.html) - 03:29 16/04/2024
 - 🔭 [Sinh viên 38 tuổi đoạt giải đặc biệt Olympic Toán học toàn quốc](https://vnexpress.net/sinh-vien-38-tuoi-doat-giai-dac-biet-olympic-toan-hoc-toan-quoc-4734566.html) - 23:00 15/04/2024
