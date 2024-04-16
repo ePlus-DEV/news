@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Vì sao ngành điện muốn áp giá hai thành phần?](https://vnexpress.net/ly-do-viet-nam-can-ap-gia-dien-hai-thanh-phan-4733572.html) - 22:00 16/04/2024
+- ⛽️ [Vì sao ngành điện muốn áp giá hai thành phần?](https://vnexpress.net/vi-sao-nganh-dien-muon-ap-gia-hai-thanh-phan-4733572.html) - 22:00 16/04/2024
 - 🐲 [Thế khó của Mỹ khi muốn cắt huyết mạch kinh tế của Iran](https://vnexpress.net/the-kho-cua-my-khi-muon-cat-huyet-mach-kinh-te-cua-iran-4735066.html) - 17:05 16/04/2024
 - 🔥 [Đơn hàng xuất khẩu thực phẩm tăng trở lại](https://vnexpress.net/don-hang-xuat-khau-thuc-pham-tang-tro-lai-4735081.html) - 14:16 16/04/2024
 - 🐵 [Dragon Capital: Cần đầu tư dài hạn khi thị trường nhiều biến động](https://vnexpress.net/dragon-capital-can-dau-tu-dai-han-khi-thi-truong-nhieu-bien-dong-4735015.html) - 13:30 16/04/2024
