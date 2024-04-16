@@ -17,7 +17,7 @@ sidebar_position: 9
 - 👨‍🏫 [Đề xuất chi 110 tỷ đồng cho chạy thử Metro số 1](https://vnexpress.net/de-xuat-chi-110-ty-dong-cho-chay-thu-metro-so-1-4735083.html) - 17:00 16/04/2024
 - 🎊 [Em tin nhân duyên cần đúng người, đúng thời điểm](https://vnexpress.net/em-tin-nhan-duyen-can-dung-nguoi-dung-thoi-diem-4734998.html) - 17:00 16/04/2024
 - 🎊 [Nhận tháng lương đầu tiên, tôi đã tích cóp vàng để mua nhà](https://vnexpress.net/nhan-thang-luong-dau-tien-toi-da-tich-cop-vang-de-mua-nha-4734918.html) - 17:00 16/04/2024
-- 😺 [Khám phá dòng Mekong trên du thuyền 140 tỷ đồng](https://vnexpress.net/kham-pha-dong-mekong-tren-du-thuyen-140-ty-dong-4734912.html) - 17:00 16/04/2024
+- 😺 [Khám phá dòng Mekong trên du thuyền 6 triệu USD](https://vnexpress.net/kham-pha-dong-mekong-tren-du-thuyen-6-trieu-usd-4734912.html) - 17:00 16/04/2024
 - 🐘 [Ukraine - Mỹ bất đồng về đòn tập kích cơ sở lọc dầu Nga](https://vnexpress.net/ukraine-my-bat-dong-ve-don-tap-kich-co-so-loc-dau-nga-4734752.html) - 17:00 16/04/2024
 - 🌁 [Lại nợ 180 triệu đồng sau hai năm bỏ cá độ](https://vnexpress.net/lai-no-180-trieu-dong-sau-hai-nam-bo-ca-do-4734113.html) - 17:00 16/04/2024
 - 🐲 [Runner Trung Quốc bị tố thuê pacer để vô địch](https://vnexpress.net/runner-trung-quoc-bi-to-thue-pacer-de-vo-dich-4735164.html) - 17:00 16/04/2024
