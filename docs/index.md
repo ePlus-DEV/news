@@ -147,7 +147,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Lịch thi đấu VCK futsal Asian Cup 2024: Đội tuyển Việt Nam tìm vé đến World Cup](https://thanhnien.vn/lich-thi-dau-vck-futsal-asian-cup-2024-doi-tuyen-viet-nam-tim-ve-den-world-cup-185240416105549903.htm) - 18:31 16/04/2024
+- 🤠 [Lịch thi đấu mới nhất hôm nay của đội tuyển Việt Nam: Phải đánh bại Myanmar](https://thanhnien.vn/lich-thi-dau-vck-futsal-asian-cup-2024-doi-tuyen-viet-nam-tim-ve-den-world-cup-185240416105549903.htm) - 18:31 16/04/2024
 - 🥸 [Sốc: Tung chiêu khó đỡ, U.23 Thái Lan quật ngã &#39;ông kẹ&#39; Iraq, Madam Pang sung sướng](https://thanhnien.vn/soc-tung-chieu-kho-do-u23-thai-lan-quat-nga-ong-ke-u23-iraq-madam-pang-sung-suong-185240417003345491.htm) - 17:42 16/04/2024
 - 🌁 [Ngày mới với tin tức sức khỏe: Nên uống tối đa bao nhiêu trái dừa mỗi ngày?](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-nen-uong-toi-da-bao-nhieu-trai-dua-moi-ngay-185240416174702163.htm) - 17:10 16/04/2024
 - 🤡 [3 loại vitamin tốt nhất cho não](https://thanhnien.vn/3-loai-vitamin-tot-nhat-cho-nao-185240416170350121.htm) - 17:08 16/04/2024
