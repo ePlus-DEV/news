@@ -30,8 +30,8 @@ sidebar_position: 5
 - 🤖 [Leverkusen thiếu nơi mừng chức vô địch](https://vnexpress.net/leverkusen-thieu-noi-mung-chuc-vo-dich-4734440.html) - 23:21 15/04/2024
 - 🕯 [Kenya đứt mạch thống trị tại Boston Marathon](https://vnexpress.net/kenya-dut-mach-thong-tri-tai-boston-marathon-4734739.html) - 23:19 15/04/2024
 - 🧰 [Indonesia nhận hai thẻ đỏ khi thua trận ra quân giải U23 châu Á](https://vnexpress.net/indonesia-nhan-hai-the-do-khi-thua-tran-ra-quan-giai-u23-chau-a-4734724.html) - 23:01 15/04/2024
-- 🥳 [Guardiola nêu khác biệt giữa Man City với Arsenal, Liverpool](https://vnexpress.net/guardiola-neu-khac-biet-giua-man-city-voi-arsenal-liverpool-4734705.html) - 21:00 15/04/2024
-- 👍 [Xavi muốn đôi công với PSG](https://vnexpress.net/xavi-muon-doi-cong-voi-psg-4734720.html) - 21:00 15/04/2024
+- 🥳 [Xavi muốn đôi công với PSG](https://vnexpress.net/xavi-muon-doi-cong-voi-psg-4734720.html) - 21:00 15/04/2024
+- 👍 [Guardiola nêu khác biệt giữa Man City với Arsenal, Liverpool](https://vnexpress.net/guardiola-neu-khac-biet-giua-man-city-voi-arsenal-liverpool-4734705.html) - 21:00 15/04/2024
 - 💪 [Việt Nam chốt 23 cầu thủ dự U23 châu Á 2024](https://vnexpress.net/viet-nam-chot-23-cau-thu-du-u23-chau-a-2024-4734688.html) - 13:00 15/04/2024
 - 👹 [VĐV Hà Lan lần thứ hai vô địch ở Rotterdam Marathon](https://vnexpress.net/vdv-ha-lan-lan-thu-hai-vo-dich-o-rotterdam-marathon-4734644.html) - 10:26 15/04/2024
 - 🧰 [FIFA và AFC đánh giá cao cầu thủ Indonesia ở U23 châu Á 2024](https://vnexpress.net/fifa-va-afc-danh-gia-cao-cau-thu-indonesia-o-u23-chau-a-2024-4734632.html) - 10:13 15/04/2024
