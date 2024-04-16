@@ -4,11 +4,11 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Chủ tịch Quốc hội: Bán thuốc trực tuyến phải kiểm soát rất chặt](https://vnexpress.net/chu-tich-quoc-hoi-ban-thuoc-truc-tuyen-phai-kiem-soat-rat-chat-4735041.html) - 09:29 16/04/2024
+- 🦒 [Xem xét cho phép kinh doanh thuốc trực tuyến](https://vnexpress.net/xem-xet-cho-phep-kinh-doanh-thuoc-truc-tuyen-4735041.html) - 09:29 16/04/2024
 - 🤓 [Giải cứu cây sao đen ở phố Lò Đúc](https://vnexpress.net/giai-cuu-cay-sao-den-o-pho-lo-duc-4735028.html) - 08:58 16/04/2024
 - ⚗️ [Cháy lớn bãi để ôtô](https://vnexpress.net/chay-lon-bai-de-oto-4734981.html) - 08:53 16/04/2024
 - 🌊 [Kiểm điểm 8 cán bộ &#39;cấp bò thiếu cân&#39; cho người nghèo](https://vnexpress.net/kiem-diem-8-can-bo-cap-bo-thieu-can-cho-nguoi-ngheo-4734935.html) - 08:00 16/04/2024
-- 🎓 [Tim Cook muốn đẩy mạnh hoạt động đầu tư tại Việt Nam](https://vnexpress.net/tim-cook-muon-day-manh-hoat-dong-dau-tu-tai-viet-nam-4734897.html) - 06:55 16/04/2024
+- 🎓 [Tim Cook muốn đẩy mạnh đầu tư tại Việt Nam](https://vnexpress.net/tim-cook-muon-day-manh-dau-tu-tai-viet-nam-4734897.html) - 06:55 16/04/2024
 - 🔥 [Khoan 23 m núi gia cố hầm đường sắt nối Phú Yên và Khánh Hòa](https://vnexpress.net/khoan-23-m-nui-gia-co-ham-duong-sat-noi-phu-yen-va-khanh-hoa-4734729.html) - 05:23 16/04/2024
 - 🦏 [Đề nghị Chính phủ tìm giải pháp ngăn chặn sạt lở đất](https://vnexpress.net/de-nghi-chinh-phu-tim-giai-phap-ngan-chan-sat-lo-dat-4734885.html) - 04:34 16/04/2024
 - 👺 [Khánh thành tượng Lê Nin tại TP Vinh](https://vnexpress.net/khanh-thanh-tuong-le-nin-tai-tp-vinh-4734151.html) - 02:36 16/04/2024
