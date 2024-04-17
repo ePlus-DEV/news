@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Thủ khoa trường Ams trúng tuyển 3 đại học Ivy League](https://vnexpress.net/thu-khoa-truong-ams-trung-tuyen-3-dai-hoc-ivy-league-4734613.html) - 22:55 17/04/2024
-- 🦆 [Mở rộng cho học sinh phổ thông học trước tín chỉ đại học](https://vnexpress.net/mo-rong-cho-hoc-sinh-pho-thong-hoc-truoc-tin-chi-dai-hoc-4735660.html) - 16:13 17/04/2024
+- 🦆 [Tăng số học sinh phổ thông học trước tín chỉ đại học](https://vnexpress.net/tang-so-hoc-sinh-pho-thong-hoc-truoc-tin-chi-dai-hoc-4735660.html) - 16:13 17/04/2024
 - 🦩 [Năm nào nóng nhất lịch sử nhân loại?](https://vnexpress.net/nam-nao-nong-nhat-lich-su-nhan-loai-4735641.html) - 13:40 17/04/2024
 - 🌮 [Sinh viên ấm ức vì lễ tốt nghiệp ở hội trường nhỏ](https://vnexpress.net/sinh-vien-am-uc-vi-le-tot-nghiep-o-hoi-truong-nho-4735289.html) - 12:54 17/04/2024
 - 🔭 [TP HCM giảm gần 6.000 chỉ tiêu vào lớp 10 công lập](https://vnexpress.net/tp-hcm-giam-gan-6-000-chi-tieu-vao-lop-10-cong-lap-4725004.html) - 10:40 17/04/2024
