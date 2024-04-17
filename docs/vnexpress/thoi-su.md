@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Xây 6 trạm dừng nghỉ tạm trên cao tốc nối TP HCM - Nha Trang](https://vnexpress.net/xay-6-tram-dung-nghi-tam-tren-cao-toc-noi-tp-hcm-nha-trang-4735524.html) - 09:42 17/04/2024
 - 🤓 [Sắp trình Quốc hội xem xét dự án cao tốc Gia Nghĩa - Chơn Thành](https://vnexpress.net/sap-trinh-quoc-hoi-xem-xet-du-an-cao-toc-gia-nghia-chon-thanh-4735511.html) - 09:41 17/04/2024
 - ⚗️ [Ý kiến trái chiều về đề xuất &#39;xây nhà trong khu bảo vệ di tích&#39;](https://vnexpress.net/y-kien-trai-chieu-ve-de-xuat-xay-nha-trong-khu-bao-ve-di-tich-4735276.html) - 09:22 17/04/2024
-- 🌊 [Xe chở 20 khách cháy ngùn ngụt trên cao tốc Trung Lương](https://vnexpress.net/xe-cho-20-khach-chay-ngun-ngut-tren-cao-toc-trung-luong-4735512.html) - 08:59 17/04/2024
+- 🌊 [Xe chở gần 20 khách cháy ngùn ngụt trên cao tốc Trung Lương](https://vnexpress.net/xe-cho-gan-20-khach-chay-ngun-ngut-tren-cao-toc-trung-luong-4735512.html) - 08:59 17/04/2024
 - 🎓 [Nhà máy dừng hoạt động vì khô hạn, 700 hộ thiếu nước](https://vnexpress.net/nha-may-dung-hoat-dong-vi-kho-han-700-ho-thieu-nuoc-4735449.html) - 07:49 17/04/2024
 - 🔥 [Bộ Tư pháp dẫn đầu về cải cách hành chính năm 2023](https://vnexpress.net/bo-tu-phap-dan-dau-ve-cai-cach-hanh-chinh-nam-2023-4735280.html) - 07:40 17/04/2024
 - 🦏 [Yêu cầu xem xét lại việc đổi tên quê Hồ Xuân Hương](https://vnexpress.net/yeu-cau-xem-xet-lai-viec-doi-ten-que-ho-xuan-huong-4735412.html) - 07:24 17/04/2024
