@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [&#39;Mất Facebook nguy hiểm hơn mất tài khoản ngân hàng&#39;](https://vnexpress.net/mat-facebook-nguy-hiem-hon-mat-tai-khoan-ngan-hang-4735638.html) - 13:42 17/04/2024
+- 🦒 [Cục An ninh mạng: Lao động nên cẩn trọng với app cho vay](https://vnexpress.net/cuc-an-ninh-mang-lao-dong-nen-can-trong-voi-app-cho-vay-4735638.html) - 13:42 17/04/2024
 - 🤓 [Long An công bố xâm nhập mặn khẩn cấp](https://vnexpress.net/long-an-cong-bo-xam-nhap-man-khan-cap-4735647.html) - 13:32 17/04/2024
 - ⚗️ [Nam sinh nhảy xuống hồ cứu người](https://vnexpress.net/nam-sinh-nhay-xuong-ho-cuu-nguoi-4735642.html) - 12:14 17/04/2024
 - 🌊 [Phá dỡ hàng loạt nhà đổ nghiêng, sạt lở sát sông Cầu](https://video.vnexpress.net/pha-do-hang-loat-nha-do-nghieng-sat-lo-sat-song-cau-4735464.html) - 11:18 17/04/2024
