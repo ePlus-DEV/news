@@ -19,7 +19,7 @@ sidebar_position: 5
 - 💫 [U23 Việt Nam và cơ hội phá dớp tại vòng loại Olympic](https://vnexpress.net/u23-viet-nam-va-co-hoi-pha-dop-tai-vong-loai-olympic-4735461.html) - 07:52 17/04/2024
 - 🦆 [Việt Nam - Kuwait: Khôi phục niềm tin](https://vnexpress.net/viet-nam-kuwait-khoi-phuc-niem-tin-4735436.html) - 07:26 17/04/2024
 - 🙉 [HLV U23 Iraq: &#39;Chúng tôi không thể bắt kịp Thái Lan&#39;](https://vnexpress.net/hlv-u23-iraq-chung-toi-khong-the-bat-kip-thai-lan-4735391.html) - 05:28 17/04/2024
-- 📝 [Dortmund tự tin mạnh hơn khi gặp PSG ở vòng bảng](https://vnexpress.net/dortmund-tu-tin-manh-hon-khi-gap-psg-o-vong-bang-4735404.html) - 05:27 17/04/2024
+- 📝 [Dortmund tự tin mạnh hơn khi tái ngộ PSG](https://vnexpress.net/dortmund-tu-tin-manh-hon-khi-tai-ngo-psg-4735404.html) - 05:27 17/04/2024
 - 💯 [Lãnh đạo Leverkusen: &#39;Sẽ có ngày Xabi Alonso dẫn dắt Real&#39;](https://vnexpress.net/lanh-dao-leverkusen-se-co-ngay-xabi-alonso-dan-dat-real-4735141.html) - 05:12 17/04/2024
 - 🌈 [Baggio từng từ chối Real, Barca vì tuyển Italy](https://vnexpress.net/baggio-tung-tu-choi-real-barca-vi-tuyen-italy-4735092.html) - 05:04 17/04/2024
 - 🦩 [Dembele bình thản khi bị CĐV Barca la ó](https://vnexpress.net/dembele-binh-than-khi-bi-cdv-barca-la-o-4735199.html) - 05:01 17/04/2024
