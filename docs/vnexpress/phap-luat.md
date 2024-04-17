@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Chủ tịch Vimedimex Nguyễn Thị Loan: &#39;Tôi bị vu khống, đổ tội&#39;](https://vnexpress.net/chu-tich-vimedimex-nguyen-thi-loan-toi-bi-vu-khong-do-toi-4735417.html) - 09:29 17/04/2024
+- 😎 [Chủ tịch Vimedimex Nguyễn Thị Loan: Tôi bị vu khống, đổ tội](https://vnexpress.net/chu-tich-vimedimex-nguyen-thi-loan-toi-bi-vu-khong-do-toi-4735417.html) - 09:29 17/04/2024
 - 🥰 [Sát hại cậu vì bị chửi](https://vnexpress.net/sat-hai-cau-vi-bi-chui-4735453.html) - 07:48 17/04/2024
 - 🎓 [Người dân sẽ dùng căn cước điện tử trong nhiều giao dịch](https://vnexpress.net/nguoi-dan-se-dung-can-cuoc-dien-tu-trong-nhieu-giao-dich-4735396.html) - 06:51 17/04/2024
 - 🤓 [Kiện chính phủ vì mất nhà do sụt lở](https://vnexpress.net/kien-chinh-phu-vi-mat-nha-do-sut-lo-4734650.html) - 04:45 17/04/2024
