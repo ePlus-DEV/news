@@ -52,7 +52,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤔 [Hàng nghìn người đội mưa xem pháo hoa ở Phú Thọ](https://vnexpress.net/hang-nghin-nguoi-doi-mua-xem-phao-hoa-o-phu-tho-4735678.html) - 16:13 17/04/2024
 - 🌮 [Mở rộng cho học sinh phổ thông học trước tín chỉ đại học](https://vnexpress.net/mo-rong-cho-hoc-sinh-pho-thong-hoc-truoc-tin-chi-dai-hoc-4735660.html) - 16:13 17/04/2024
 - 🦩 [Tôi cho con học hai ngoại ngữ một lúc ngay từ 7 tuổi](https://vnexpress.net/toi-cho-con-hoc-hai-ngoai-ngu-mot-luc-ngay-tu-7-tuoi-4735456.html) - 15:24 17/04/2024
-- 📝 [Malaysia thua bạc nhược ở U23 châu Á](https://vnexpress.net/malaysia-thua-bac-nhuoc-o-u23-chau-a-4735673.html) - 15:23 17/04/2024
+- 📝 [Malaysia thua bạc nhược ở trận ra quân U23 châu Á](https://vnexpress.net/malaysia-thua-bac-nhuoc-o-tran-ra-quan-u23-chau-a-4735673.html) - 15:23 17/04/2024
 - 🕴 [Hai nữ sinh tử vong khi chụp ảnh dưới đập](https://vnexpress.net/hai-nu-sinh-tu-vong-khi-chup-anh-duoi-dap-4735669.html) - 15:18 17/04/2024
 - 🐲 [Bài học nào cho Arsenal sau khi thua Aston Villa?](https://vnexpress.net/bai-hoc-nao-cho-arsenal-sau-khi-thua-aston-villa-4735367.html) - 15:00 17/04/2024
 - 🌜 [Việt Nam thắng đậm trận ra quân U23 châu Á](https://vnexpress.net/u23-viet-nam-vs-u23-kuwait-4735656-tong-thuat.html) - 14:40 17/04/2024
