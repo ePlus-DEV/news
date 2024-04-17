@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Thủ tướng Anh nói Israel đã chốt đáp trả Iran](https://vnexpress.net/thu-tuong-anh-noi-israel-da-chot-dap-tra-iran-4735615.html) - 11:53 17/04/2024
+- 🎭 [Anh nói Israel đã chốt phương án đáp trả Iran](https://vnexpress.net/anh-noi-israel-da-chot-phuong-an-dap-tra-iran-4735615.html) - 11:53 17/04/2024
 - 🕴 [Nga rút lính gìn giữ hòa bình khỏi Nagorno-Karabakh](https://vnexpress.net/nga-rut-linh-gin-giu-hoa-binh-khoi-nagorno-karabakh-4735618.html) - 11:49 17/04/2024
 - 🤭 [Đài truyền hình bị kiện vì nhầm tên nghi phạm đâm dao ở Australia](https://vnexpress.net/dai-truyen-hinh-bi-kien-vi-nham-ten-nghi-pham-dam-dao-o-australia-4735526.html) - 11:47 17/04/2024
 - 🧑‍💻 [Trận mưa lớn nhất 75 năm khiến Dubai ngập lụt](https://vnexpress.net/tran-mua-lon-nhat-75-nam-khien-dubai-ngap-lut-4735580.html) - 11:17 17/04/2024
