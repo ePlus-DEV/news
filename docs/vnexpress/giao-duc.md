@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Giám đốc Sở Giáo dục Hà Nội: Thu phí giữ chỗ là thiếu nhân văn](https://vnexpress.net/giam-doc-so-giao-duc-ha-noi-thu-phi-giu-cho-la-thieu-nhan-van-4735431.html) - 07:54 17/04/2024
+- 🤓 [Giám đốc Sở Giáo dục Hà Nội: Trường tư không nên thu phí giữ chỗ](https://vnexpress.net/giam-doc-so-giao-duc-ha-noi-truong-tu-khong-nen-thu-phi-giu-cho-4735431.html) - 07:54 17/04/2024
 - 🦆 [Trường chuyên ở Hà Nội đồng loạt tăng chỉ tiêu lớp 10](https://vnexpress.net/truong-chuyen-o-ha-noi-dong-loat-tang-chi-tieu-lop-10-4735341.html) - 05:10 17/04/2024
 - 🦩 [Hà Nội công bố chỉ tiêu lớp 10 công lập](https://vnexpress.net/ha-noi-cong-bo-chi-tieu-lop-10-cong-lap-4735318.html) - 03:08 17/04/2024
 - 🌮 [Nhiều đại học xét tuyển học bạ trong tháng 4](https://vnexpress.net/nhieu-dai-hoc-xet-tuyen-hoc-ba-trong-thang-4-4734963.html) - 23:33 16/04/2024
