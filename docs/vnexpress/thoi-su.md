@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Thủ tướng: Chiến thắng Điện Biên Phủ là dấu mốc chói lọi](https://vnexpress.net/thu-tuong-chien-thang-dien-bien-phu-la-dau-moc-choi-loi-4735402.html) - 06:42 17/04/2024
 - 🤓 [Hai phương án mở rộng cao tốc TP HCM - Long Thành](https://vnexpress.net/hai-phuong-an-mo-rong-cao-toc-tp-hcm-long-thanh-4735360.html) - 06:18 17/04/2024
-- ⚗️ [Nhà máy đối mặt khủng hoảng thiếu nhân lực Gen Z](https://vnexpress.net/nha-may-doi-mat-khung-hoang-thieu-nhan-luc-gen-z-4734279.html) - 23:00 16/04/2024
+- ⚗️ [Nhà máy đối mặt khủng hoảng thiếu nhân lực Gen Z](https://vnexpress.net/nha-may-kho-tuyen-nhan-su-gen-z-4734279.html) - 23:00 16/04/2024
 - 🌊 [Đề xuất chi 110 tỷ đồng cho chạy thử Metro số 1](https://vnexpress.net/de-xuat-chi-110-ty-dong-cho-chay-thu-metro-so-1-4735083.html) - 17:00 16/04/2024
 - 🎓 [Đề xuất dùng ngân sách hỗ trợ giữ đất trồng lúa](https://vnexpress.net/de-xuat-dung-ngan-sach-ho-tro-giu-dat-trong-lua-4735172.html) - 15:52 16/04/2024
 - 🔥 [Nữ chủ tàu không nộp tiền chuộc khi phương tiện bị bắt giữ vô cớ](https://vnexpress.net/nu-chu-tau-khong-nop-tien-chuoc-khi-phuong-tien-vo-co-bi-bat-giu-4734971.html) - 11:55 16/04/2024
