@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Bưu điện Liên Việt đổi tên thành Ngân hàng Lộc Phát](https://vnexpress.net/buu-dien-lien-viet-doi-ten-thanh-ngan-hang-loc-phat-4735657.html) - 13:45 17/04/2024
+- ⛽️ [Ngân hàng Bưu điện Liên Việt đổi tên thành Lộc Phát](https://vnexpress.net/ngan-hang-buu-dien-lien-viet-doi-ten-thanh-loc-phat-4735657.html) - 13:45 17/04/2024
 - 🐲 [Gần 2,9 tỷ USD kiều hối chảy về TP HCM](https://vnexpress.net/gan-2-9-ty-usd-kieu-hoi-chay-ve-tp-hcm-4735651.html) - 13:11 17/04/2024
 - 🔥 [FPT Retail tính bán cổ phần chuỗi nhà thuốc Long Châu](https://vnexpress.net/fpt-retail-tinh-ban-co-phan-chuoi-nha-thuoc-long-chau-4735646.html) - 13:00 17/04/2024
 - 🐵 [&#39;Cổ đông ngoại Kusto chưa từng chống lại Coteccons&#39;](https://vnexpress.net/co-dong-ngoai-kusto-chua-tung-chong-lai-coteccons-4735629.html) - 12:38 17/04/2024
