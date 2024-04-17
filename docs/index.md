@@ -287,7 +287,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - ⛽️ [Bé gái chào đời với dây rốn quấn cổ 5 vòng](https://nld.com.vn/be-gai-chao-doi-voi-day-ron-quan-co-5-vong-196240417134649684.htm) - 07:29 17/04/2024
 - 🥸 [Tân Bí thư Thành ủy Phú Quốc nói gì trên cương vị mới?](https://nld.com.vn/tan-bi-thu-thanh-uy-phu-quoc-noi-gi-tren-cuong-vi-moi-196240417114317629.htm) - 07:28 17/04/2024
 - 🌁 [Vốn khô cằn và nóng thiêu đốt, Dubai hỗn loạn vì mưa xối xả](https://nld.com.vn/von-kho-can-va-nong-thieu-dot-dubai-hon-loan-vi-mua-xoi-xa-196240417132907087.htm) - 07:27 17/04/2024
-- 🌮 [Tập đoàn Hoa Sen bị phạt 120 triệu đồng tại dự án Đại Tùng Lâm](https://nld.com.vn/tap-doan-hoa-sen-bi-phat-120-trieu-dong-tai-du-an-dai-tung-lam-196240417130849511.htm) - 07:22 17/04/2024
+- 🌮 [Công ty TNHH Tập đoàn Đầu tư Hoa Sen bị phạt 120 triệu đồng tại dự án Đại Tùng Lâm](https://nld.com.vn/cong-ty-tnhh-tap-doan-dau-tu-hoa-sen-bi-phat-120-trieu-dong-tai-du-an-dai-tung-lam-196240417130849511.htm) - 07:22 17/04/2024
 - 🎉 [Clip: Giải cứu sơn dương quý hiếm bị đánh bẫy ở Quảng Nam](https://nld.com.vn/clip-giai-cuu-son-duong-quy-hiem-bi-danh-bay-o-quang-nam-196240417140530248.htm) - 07:20 17/04/2024
 - 🤔 [Đà Nẵng: Cưỡng chế tháo dỡ khu du lịch trái phép ở rừng Hải Vân](https://nld.com.vn/da-nang-cuong-che-thao-do-khu-du-lich-trai-phep-o-rung-hai-van-19624041712425852.htm) - 07:02 17/04/2024
 - 🐘 [Kỷ luật Giám đốc Sở Y tế tỉnh Bà Rịa - Vũng Tàu](https://nld.com.vn/ky-luat-giam-doc-so-y-te-tinh-ba-ria-vung-tau-196240416213906184.htm) - 07:02 17/04/2024
