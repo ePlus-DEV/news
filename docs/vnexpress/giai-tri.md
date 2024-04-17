@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Giám đốc công ty sách Nhã Nam xin lỗi](https://vnexpress.net/giam-doc-cong-ty-sach-nha-nam-xin-loi-4735696.html) - 18:54 17/04/2024
+- 🌏 [Giám đốc Nhã Nam xin lỗi về thông tin &#39;quấy rối nhân viên nữ&#39;](https://vnexpress.net/giam-doc-nha-nam-xin-loi-ve-thong-tin-quay-roi-nhan-vien-nu-4735696.html) - 18:54 17/04/2024
 - 💫 [35 năm hôn nhân của vợ chồng nghệ sĩ Thái Bảo](https://vnexpress.net/35-nam-hon-nhan-cua-vo-chong-nghe-si-thai-bao-4733557.html) - 17:00 17/04/2024
 - 🌮 [Thái Hòa: &#39;Tôi thích đóng vai ác&#39;](https://vnexpress.net/thai-hoa-toi-thich-dong-vai-ac-4735643.html) - 13:44 17/04/2024
 - 🧠 [Dép lê hơn chục triệu đồng của sao Việt](https://vnexpress.net/dep-le-hon-chuc-trieu-dong-cua-sao-viet-4735361.html) - 12:00 17/04/2024
