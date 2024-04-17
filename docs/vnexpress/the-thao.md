@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Malaysia thua bạc nhược ở trận ra quân U23 châu Á](https://vnexpress.net/malaysia-thua-bac-nhuoc-o-tran-ra-quan-u23-chau-a-4735673.html) - 15:23 17/04/2024
 - 🦩 [Bài học nào cho Arsenal sau khi thua Aston Villa?](https://vnexpress.net/bai-hoc-nao-cho-arsenal-sau-khi-thua-aston-villa-4735367.html) - 15:00 17/04/2024
-- 🧰 [Việt Nam 2-1 Kuwait &lpar;H2&rpar;: Vĩ Hào ghi bàn](https://vnexpress.net/u23-viet-nam-vs-u23-kuwait-4735656.html) - 14:40 17/04/2024
+- 🧰 [Việt Nam thắng đậm trận ra quân U23 châu Á](https://vnexpress.net/u23-viet-nam-vs-u23-kuwait-4735656.html) - 14:40 17/04/2024
 - 🤗 [Guardiola: &#39;Nói tôi sợ Real là dối trá&#39;](https://vnexpress.net/guardiola-noi-toi-so-real-la-doi-tra-4735659.html) - 14:10 17/04/2024
 - 🥳 [Ancelotti không bận tâm trận thua Man City 0-4 mùa trước](https://vnexpress.net/ancelotti-khong-ban-tam-tran-thua-man-city-0-4-mua-truoc-4735581.html) - 09:49 17/04/2024
 - 🦣 [Djokovic đối mặt cơn khát danh hiệu dài kỷ lục](https://vnexpress.net/djokovic-doi-mat-con-khat-danh-hieu-dai-ky-luc-4735548.html) - 09:38 17/04/2024
