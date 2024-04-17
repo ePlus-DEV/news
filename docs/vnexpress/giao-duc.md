@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [TP HCM giảm gần 6.200 chỉ tiêu vào lớp 10 công lập](https://vnexpress.net/tp-hcm-giam-gan-6-200-chi-tieu-vao-lop-10-cong-lap-4725004.html) - 10:40 17/04/2024
+- 🤓 [TP HCM giảm gần 6.000 chỉ tiêu vào lớp 10 công lập](https://vnexpress.net/tp-hcm-giam-gan-6-000-chi-tieu-vao-lop-10-cong-lap-4725004.html) - 10:40 17/04/2024
 - 🦆 [Các trường tư Hà Nội tuyển gần 30.000 học sinh lớp 10](https://vnexpress.net/cac-truong-tu-ha-noi-tuyen-gan-30-000-hoc-sinh-lop-10-4735522.html) - 10:35 17/04/2024
 - 🦩 [Giám đốc Sở Giáo dục Hà Nội: Trường tư không nên thu phí giữ chỗ](https://vnexpress.net/giam-doc-so-giao-duc-ha-noi-truong-tu-khong-nen-thu-phi-giu-cho-4735431.html) - 07:54 17/04/2024
 - 🌮 [Trường chuyên ở Hà Nội đồng loạt tăng chỉ tiêu lớp 10](https://vnexpress.net/truong-chuyen-o-ha-noi-dong-loat-tang-chi-tieu-lop-10-4735341.html) - 05:10 17/04/2024
