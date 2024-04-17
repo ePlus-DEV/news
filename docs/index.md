@@ -255,7 +255,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐎 [Dubai mưa xối xả: UAE lên tiếng về công nghệ tạo mưa nhân tạo](https://nld.com.vn/dubai-mua-xoi-xa-uae-len-tieng-ve-cong-nghe-tao-mua-nhan-tao-196240417221229591.htm) - 15:42 17/04/2024
 - 😺 [Bạn trẻ được &quot;chữa lành cùng sách&quot;](https://nld.com.vn/ban-tre-duoc-chua-lanh-cung-sach-196240417213835516.htm) - 14:59 17/04/2024
 - 👍 [Vận động viên ngừng tim tại giải chạy Tay Ho Marathon không qua khỏi](https://nld.com.vn/van-dong-vien-ngung-tim-tai-giai-chay-tay-ho-marathon-khong-qua-khoi-196240417215417019.htm) - 14:57 17/04/2024
-- 🥷 [U23 Việt Nam 1-0 U23 Kuwait: Văn Tùng mở tỉ số](https://nld.com.vn/giai-u23-chau-a-u23-viet-nam-co-tran-ra-quan-196240417212316724.htm) - 14:46 17/04/2024
+- 🥷 [U23 Việt Nam 1-1 U23 Kuwait: Mỗi đội 1 thẻ đỏ](https://nld.com.vn/giai-u23-chau-a-u23-viet-nam-co-tran-ra-quan-196240417212316724.htm) - 14:46 17/04/2024
 - 🤔 [Hành động vì môi trường sống an toàn, văn minh](https://nld.com.vn/hanh-dong-vi-moi-truong-song-an-toan-van-minh-196240417203154574.htm) - 14:22 17/04/2024
 - 🌈 [Khởi tố 2 nữ cán bộ nhận hối lộ khi làm hồ sơ đất đai](https://nld.com.vn/khoi-to-2-nu-can-bo-nhan-hoi-lo-khi-lam-ho-so-dat-dai-19624041720241774.htm) - 13:49 17/04/2024
 - 🔥 [Doanh nghiệp bia đầu tiên báo lãi tăng mạnh trong quý đầu năm](https://nld.com.vn/doanh-nghiep-bia-dau-tien-bao-lai-tang-manh-trong-quy-dau-nam-196240417195759635.htm) - 13:33 17/04/2024
