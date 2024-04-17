@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Real biến Man City thành cựu vương Champions League](https://vnexpress.net/real-bien-man-city-thanh-cuu-vuong-champions-league-4735701.html) - 21:56 17/04/2024
-- 🦩 [HLV Hoàng Anh Tuấn: &#39;Tôi chỉ hài lòng về kết quả của U23 Việt Nam&#39;](https://vnexpress.net/hlv-hoang-anh-tuan-toi-chi-hai-long-ve-ket-qua-cua-u23-viet-nam-4735698.html) - 21:45 17/04/2024
+- 🦩 [HLV Hoàng Anh Tuấn không hài lòng về lối chơi của U23 Việt Nam](https://vnexpress.net/hlv-hoang-anh-tuan-khong-hai-long-ve-loi-choi-cua-u23-viet-nam-4735698.html) - 21:45 17/04/2024
 - 🧰 [Bayern loại Arsenal khỏi Champions League](https://vnexpress.net/bayern-loai-arsenal-khoi-champions-league-4735700.html) - 21:00 17/04/2024
 - 🤗 [Nadal thua ngay vòng hai Barcelona Mở rộng](https://vnexpress.net/nadal-thua-ngay-vong-hai-barcelona-mo-rong-4735699.html) - 20:29 17/04/2024
 - 🥳 [Malaysia thua bạc nhược ở U23 châu Á](https://vnexpress.net/malaysia-thua-bac-nhuoc-o-u23-chau-a-4735673.html) - 15:23 17/04/2024
