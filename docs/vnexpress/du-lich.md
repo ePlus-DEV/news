@@ -7,7 +7,7 @@ sidebar_position: 11
 - 💂 [500.000 khách sẽ đổ về Đền Hùng ngày giỗ Tổ, Việt Trì kín phòng](https://vnexpress.net/500-000-khach-se-do-ve-den-hung-ngay-gio-to-viet-tri-kin-phong-4735357.html) - 05:53 17/04/2024
 - 🪄 [Bốn cách tiết kiệm chi phí khi du lịch Phú Quốc dịp 30/4](https://vnexpress.net/bon-cach-tiet-kiem-chi-phi-khi-du-lich-phu-quoc-dip-30-4-4734857.html) - 04:00 17/04/2024
 - 🦅 [Xôi xoài - món ngon mùa hè ở Thái Lan](https://vnexpress.net/xoi-xoai-mon-ngon-mua-he-o-thai-lan-4735037.html) - 02:31 17/04/2024
-- 🕴 [Khách sạn trong nước vẫn chờ khách du lịch dịp 30/4](https://vnexpress.net/khach-san-trong-nuoc-van-cho-khach-du-lich-dip-30-4-4734990.html) - 02:26 17/04/2024
+- 🕴 [Khách sạn trong nước vẫn ngóng khách dịp 30/4](https://vnexpress.net/khach-san-trong-nuoc-van-ngong-khach-dip-30-4-4734990.html) - 02:26 17/04/2024
 - 👀 [Khám phá dòng Mekong trên du thuyền 6 triệu USD](https://vnexpress.net/kham-pha-dong-mekong-tren-du-thuyen-6-trieu-usd-4734912.html) - 17:00 16/04/2024
 - 🎭 [Du lịch nội địa Trung Quốc phục hồi trong hoài nghi](https://vnexpress.net/du-lich-noi-dia-trung-quoc-phuc-hoi-trong-hoai-nghi-4734818.html) - 06:58 16/04/2024
 - 🦒 [Hàng nghìn du khách đổ về Cúc Phương đầu mùa bướm](https://vnexpress.net/hang-nghin-du-khach-do-ve-cuc-phuong-dau-mua-buom-4734904.html) - 06:45 16/04/2024
