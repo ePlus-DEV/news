@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Bé gái 12 tuổi bị hiếp dâm, sắp sinh con](https://vnexpress.net/be-gai-12-tuoi-bi-hiep-dam-sap-sinh-con-4735584.html) - 11:36 17/04/2024
+- 😎 [Bé gái 12 tuổi bị hãm hại](https://vnexpress.net/be-gai-12-tuoi-bi-hiep-dam-sap-sinh-con-4735584.html) - 11:36 17/04/2024
 - 🥰 [Nữ đại gia bị phạt 18 năm tù](https://vnexpress.net/nu-dai-gia-bi-phat-18-nam-tu-4735414.html) - 11:00 17/04/2024
 - 🎓 [Chủ tịch Vimedimex Nguyễn Thị Loan: Tôi bị vu khống, đổ tội](https://vnexpress.net/chu-tich-vimedimex-nguyen-thi-loan-toi-bi-vu-khong-do-toi-4735417.html) - 09:29 17/04/2024
 - 🤓 [Sát hại cậu vì bị chửi](https://vnexpress.net/sat-hai-cau-vi-bi-chui-4735453.html) - 07:48 17/04/2024
