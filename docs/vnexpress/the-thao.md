@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Bayern loại Arsenal khỏi Champions League](https://vnexpress.net/bayern-loai-arsenal-khoi-champions-league-4735700.html) - 21:00 17/04/2024
 - 🦩 [Nadal thua ngay vòng hai Barcelona Mở rộng](https://vnexpress.net/nadal-thua-ngay-vong-hai-barcelona-mo-rong-4735699.html) - 20:29 17/04/2024
-- 🧰 [Malaysia thua bạc nhược ở trận ra quân U23 châu Á](https://vnexpress.net/malaysia-thua-bac-nhuoc-o-tran-ra-quan-u23-chau-a-4735673.html) - 15:23 17/04/2024
+- 🧰 [Malaysia thua bạc nhược ở U23 châu Á](https://vnexpress.net/malaysia-thua-bac-nhuoc-o-u23-chau-a-4735673.html) - 15:23 17/04/2024
 - 🤗 [Bài học nào cho Arsenal sau khi thua Aston Villa?](https://vnexpress.net/bai-hoc-nao-cho-arsenal-sau-khi-thua-aston-villa-4735367.html) - 15:00 17/04/2024
 - 🥳 [Việt Nam thắng đậm trận ra quân U23 châu Á](https://vnexpress.net/u23-viet-nam-vs-u23-kuwait-4735656-tong-thuat.html) - 14:40 17/04/2024
 - 🦣 [Guardiola: &#39;Nói tôi sợ Real là dối trá&#39;](https://vnexpress.net/guardiola-noi-toi-so-real-la-doi-tra-4735659.html) - 14:10 17/04/2024
