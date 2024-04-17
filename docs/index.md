@@ -585,7 +585,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💪 [UBND tỉnh Đồng Nai tặng bằng khen cho nhân viên gác chắn đường sắt dũng cảm cứu người](https://tienphong.vn/ubnd-tinh-dong-nai-tang-bang-khen-cho-nhan-vien-gac-chan-duong-sat-dung-cam-cuu-nguoi-post1629884.tpo) - 21:54 17/04/2024
 - 💃 [Thanh Hoá: Mưa đá kèm dông lốc gây thiệt hại lớn](https://tienphong.vn/thanh-hoa-mua-da-kem-dong-loc-gay-thiet-hai-lon-post1629885.tpo) - 21:53 17/04/2024
 - 🦍 [Cần Thơ khai mạc Lễ hội Bánh dân gian Nam Bộ](https://tienphong.vn/can-tho-khai-mac-le-hoi-banh-dan-gian-nam-bo-post1629880.tpo) - 21:31 17/04/2024
-- 👹 [Trực tiếp U23 Việt Nam 1-1 U23 Kuwait &lpar;H1&rpar;: Ngọc Thắng nhận thẻ đỏ](https://tienphong.vn/truc-tiep-u23-viet-nam-1-1-u23-kuwait-h1-ngoc-thang-nhan-the-do-post1629877.tpo) - 21:30 17/04/2024
+- 👹 [Trực tiếp U23 Việt Nam 3-1 U23 Kuwait &lpar;H2&rpar;: Vĩ Hào lập cú đúp](https://tienphong.vn/truc-tiep-u23-viet-nam-3-1-u23-kuwait-h2-vi-hao-lap-cu-dup-post1629877.tpo) - 21:30 17/04/2024
 - 🌜 [Dòng người đội mưa chờ xem pháo hoa nhân ngày Giỗ tổ Hùng Vương](https://tienphong.vn/dong-nguoi-doi-mua-cho-xem-phao-hoa-nhan-ngay-gio-to-hung-vuong-post1629882.tpo) - 21:29 17/04/2024
 - 🎓 [Cả nước đã quy hoạch 8.600ha đất để đầu tư nhà ở xã hội](https://tienphong.vn/ca-nuoc-da-quy-hoach-8600ha-dat-de-dau-tu-nha-o-xa-hoi-post1629778.tpo) - 21:20 17/04/2024
 - 🦣 [Cứu bạn bị ngã xuống đập nước, hai nữ sinh tử vong](https://tienphong.vn/cuu-ban-bi-nga-xuong-dap-nuoc-hai-nu-sinh-tu-vong-post1629866.tpo) - 21:14 17/04/2024
