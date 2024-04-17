@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Giám đốc Nhã Nam xin lỗi vì thân mật nhân viên nữ](https://vnexpress.net/giam-doc-nha-nam-xin-loi-vi-than-mat-nhan-vien-nu-4735696.html) - 18:54 17/04/2024
+- 🎬 [Giám đốc Nhã Nam xin lỗi về thông tin &#39;quấy rối nhân viên nữ&#39;](https://vnexpress.net/giam-doc-nha-nam-xin-loi-ve-thong-tin-quay-roi-nhan-vien-nu-4735696.html) - 18:54 17/04/2024
 - 🐎 [Bồi thẩm đoàn định đoạt số phận pháp lý của ông Trump](https://vnexpress.net/boi-tham-doan-dinh-doat-so-phan-phap-ly-cua-ong-trump-4735229.html) - 18:00 17/04/2024
 - 🦍 [Vụ án 3 thi thể dưới giếng vạch tội kẻ cầm đầu băng cướp](https://vnexpress.net/vu-an-3-thi-the-duoi-gieng-vach-toi-ke-cam-dau-bang-cuop-4735668.html) - 17:25 17/04/2024
 - 🏊 [EVN lo giá điện tăng nếu cam kết bao tiêu điện khí](https://vnexpress.net/evn-lo-ap-luc-tang-gia-dien-khi-cam-ket-huy-dong-dien-khi-4735621.html) - 17:15 17/04/2024
