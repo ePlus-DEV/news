@@ -7,7 +7,7 @@ sidebar_position: 7
 - 🤓 [Ba lỗi mất điểm trong bài thi IELTS Speaking I](https://vnexpress.net/ba-loi-mat-diem-trong-bai-thi-ielts-speaking-i-4735781.html) - 03:19 18/04/2024
 - 🦆 [Gần 90 trường tư ở Hà Nội xét tuyển học bạ vào lớp 10](https://vnexpress.net/gan-90-truong-tu-o-ha-noi-xet-tuyen-hoc-ba-vao-lop-10-4735752.html) - 02:55 18/04/2024
 - 🦩 [Thủ khoa trường Ams trúng tuyển 3 đại học Ivy League](https://vnexpress.net/thu-khoa-truong-ams-trung-tuyen-3-dai-hoc-ivy-league-4734613.html) - 22:55 17/04/2024
-- 🌮 [Tăng số học sinh phổ thông học trước tín chỉ đại học](https://vnexpress.net/tang-so-hoc-sinh-pho-thong-hoc-truoc-tin-chi-dai-hoc-4735660.html) - 16:13 17/04/2024
+- 🌮 [Mở rộng cho học sinh phổ thông học trước chương trình đại học](https://vnexpress.net/mo-rong-cho-hoc-sinh-pho-thong-hoc-truoc-chuong-trinh-dai-hoc-4735660.html) - 16:13 17/04/2024
 - 🔭 [Năm nào nóng nhất lịch sử nhân loại?](https://vnexpress.net/nam-nao-nong-nhat-lich-su-nhan-loai-4735641.html) - 13:40 17/04/2024
 - 💡 [Sinh viên ấm ức vì lễ tốt nghiệp ở hội trường nhỏ](https://vnexpress.net/sinh-vien-am-uc-vi-le-tot-nghiep-o-hoi-truong-nho-4735289.html) - 12:54 17/04/2024
 - 🥰 [20 đại học ở Hà Nội xét tuyển bằng điểm SAT](https://vnexpress.net/20-dai-hoc-o-ha-noi-xet-tuyen-bang-diem-sat-4735174.html) - 12:00 17/04/2024
