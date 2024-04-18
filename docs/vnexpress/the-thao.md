@@ -61,6 +61,6 @@ sidebar_position: 5
 - ⚗️ [Nadal thắng dễ trong ngày trở lại](https://vnexpress.net/nadal-thang-de-trong-ngay-tro-lai-4735194.html) - 21:25 16/04/2024
 - 🌮 [Dortmund vào bán kết Champions League](https://vnexpress.net/dortmund-vao-ban-ket-champions-league-4735195.html) - 21:01 16/04/2024
 - 🤩 [PSG thắng ngược Barca dù bị dẫn hai bàn](https://vnexpress.net/psg-thang-nguoc-barca-du-bi-dan-hai-ban-4735196.html) - 21:00 16/04/2024
-- 🏊 [Tuchel: &#39;Kinh nghiệm Champions League là lợi thế của Bayern&#39;](https://vnexpress.net/tuchel-kinh-nghiem-champions-league-la-loi-the-cua-bayern-4735183.html) - 21:00 16/04/2024
-- 🐎 [Kane không bao giờ quên việc bị Arsenal thải loại](https://vnexpress.net/kane-khong-bao-gio-quen-viec-bi-arsenal-thai-loai-4735186.html) - 21:00 16/04/2024
+- 🏊 [Kane không bao giờ quên việc bị Arsenal thải loại](https://vnexpress.net/kane-khong-bao-gio-quen-viec-bi-arsenal-thai-loai-4735186.html) - 21:00 16/04/2024
+- 🐎 [Tuchel: &#39;Kinh nghiệm Champions League là lợi thế của Bayern&#39;](https://vnexpress.net/tuchel-kinh-nghiem-champions-league-la-loi-the-cua-bayern-4735183.html) - 21:00 16/04/2024
 - 💫 [Runner Trung Quốc bị tố thuê pacer để vô địch](https://vnexpress.net/runner-trung-quoc-bi-to-thue-pacer-de-vo-dich-4735164.html) - 17:00 16/04/2024<!-- vnexpress-the-thao:END -->
