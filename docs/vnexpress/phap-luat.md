@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Hai người nước ngoài lừa bán 1 kg vàng giả](https://video.vnexpress.net/hai-nguoi-nuoc-ngoai-lua-ban-1-kg-vang-gia-4735886.html) - 17:00 18/04/2024
+- 😎 [Hai người nước ngoài lừa bán một kg vàng giả](https://video.vnexpress.net/hai-nguoi-nuoc-ngoai-lua-ban-mot-kg-vang-gia-4735886.html) - 17:00 18/04/2024
 - 🥰 [Nghi phạm cầm đầu vụ cướp tiệm vàng ở Bình Dương bị bắt](https://vnexpress.net/nghi-pham-cam-dau-vu-cuop-tiem-vang-o-binh-duong-bi-bat-4721302.html) - 14:11 18/04/2024
 - 🎓 [Cướp tiệm vàng ở Phan Thiết](https://vnexpress.net/cuop-tiem-vang-o-phan-thiet-4733935.html) - 13:41 18/04/2024
 - 🤓 [Hai người nước ngoài lừa bán 3 kg vàng giả](https://vnexpress.net/hai-nguoi-nuoc-ngoai-lua-ban-3-kg-vang-gia-4735859.html) - 10:35 18/04/2024
