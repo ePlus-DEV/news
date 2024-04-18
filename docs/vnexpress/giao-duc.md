@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Học phí lớp 10 trường tư ở TP HCM cao nhất 540 triệu đồng](https://vnexpress.net/hoc-phi-lop-10-truong-tu-o-tp-hcm-cao-nhat-540-trieu-dong-4735691.html) - 01:43 18/04/2024
+- 🤓 [Gần 90 trường tư ở Hà Nội xét tuyển học bạ vào lớp 10](https://vnexpress.net/gan-90-truong-tu-o-ha-noi-xet-tuyen-hoc-ba-vao-lop-10-4735752.html) - 02:55 18/04/2024
 - 🦆 [Thủ khoa trường Ams trúng tuyển 3 đại học Ivy League](https://vnexpress.net/thu-khoa-truong-ams-trung-tuyen-3-dai-hoc-ivy-league-4734613.html) - 22:55 17/04/2024
 - 🦩 [Tăng số học sinh phổ thông học trước tín chỉ đại học](https://vnexpress.net/tang-so-hoc-sinh-pho-thong-hoc-truoc-tin-chi-dai-hoc-4735660.html) - 16:13 17/04/2024
 - 🌮 [Năm nào nóng nhất lịch sử nhân loại?](https://vnexpress.net/nam-nao-nong-nhat-lich-su-nhan-loai-4735641.html) - 13:40 17/04/2024
