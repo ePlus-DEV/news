@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Giám đốc Nhã Nam bị đình chỉ](https://vnexpress.net/giam-doc-nha-nam-bi-dinh-chi-4735900.html) - 13:27 18/04/2024
+- 🌏 [Giám đốc Nhã Nam bị đình chỉ chức vụ](https://vnexpress.net/giam-doc-nha-nam-bi-dinh-chi-chuc-vu-4735900.html) - 13:27 18/04/2024
 - 💫 [Jennifer Phạm mặc phong cách nữ sinh trên đường phố Nhật](https://vnexpress.net/jennifer-pham-mac-phong-cach-nu-sinh-tren-duong-pho-nhat-4735840.html) - 11:31 18/04/2024
 - 🌮 [&#39;Thằng Cò&#39; Phùng Ngọc hội ngộ &#39;bác Ba Phi&#39; Mạc Can](https://vnexpress.net/thang-co-phung-ngoc-hoi-ngo-bac-ba-phi-mac-can-4735858.html) - 09:40 18/04/2024
 - 🧠 [Ngày Sách và Văn hóa đọc nhiều ưu đãi cho độc giả](https://vnexpress.net/ngay-sach-va-van-hoa-doc-nhieu-uu-dai-cho-doc-gia-4735776.html) - 05:59 18/04/2024
