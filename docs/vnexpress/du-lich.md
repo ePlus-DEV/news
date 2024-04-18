@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [&#39;Thiên đường hoa anh đào&#39; ở Fukushima](https://vnexpress.net/thien-duong-hoa-anh-dao-o-fukushima-4735407.html) - 03:00 18/04/2024
-- 🪄 [Nhân sự du lịch Việt không chuẩn, khách không quay lại &#39;quá 2 lần&#39;](https://vnexpress.net/nhan-su-du-lich-viet-khong-chuan-khach-khong-quay-lai-qua-2-lan-4733716.html) - 01:00 18/04/2024
+- 🪄 [Nhân sự du lịch Việt yếu - tác nhân khiến khách không quay lại](https://vnexpress.net/nhan-su-du-lich-viet-yeu-tac-nhan-khien-khach-khong-quay-lai-4733716.html) - 01:00 18/04/2024
 - 🦅 [Côn trùng, rau rừng bày bán khắp chợ Tây Bắc](https://vnexpress.net/con-trung-rau-rung-bay-ban-khap-cho-tay-bac-4735147.html) - 23:00 17/04/2024
 - 🕴 [Cẩm nang du lịch Bình Định](https://vnexpress.net/cam-nang-du-lich-binh-dinh-4729689.html) - 17:00 17/04/2024
 - 👀 [Tim Cook ở phòng 170 triệu đồng, ăn tối món Pháp tại Hà Nội](https://vnexpress.net/tim-cook-o-phong-170-trieu-dong-an-toi-mon-phap-tai-ha-noi-4735609.html) - 12:12 17/04/2024
