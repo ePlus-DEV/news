@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Ông Biden muốn tăng 3 lần thuế thép Trung Quốc](https://vnexpress.net/ong-biden-muon-tang-3-lan-thue-thep-trung-quoc-4735695.html) - 02:28 18/04/2024
+- ⛽️ [Ông Biden muốn tăng 3 lần thuế với thép Trung Quốc](https://vnexpress.net/ong-biden-muon-tang-3-lan-thue-voi-thep-trung-quoc-4735695.html) - 02:28 18/04/2024
 - 🐲 [Một cá nhân bị phạt gần 600 triệu đồng vì thao túng cổ phiếu](https://vnexpress.net/mot-ca-nhan-bi-phat-gan-600-trieu-dong-vi-thao-tung-co-phieu-4735697.html) - 02:00 18/04/2024
 - 🔥 [Đấu thầu có giúp vàng miếng rẻ hơn?](https://vnexpress.net/ky-vong-gia-vang-mieng-sjc-re-hon-nho-dau-thau-4735632.html) - 01:00 18/04/2024
 - 🐵 [Vì sao giá USD thế giới liên tục tăng cao?](https://vnexpress.net/vi-sao-gia-usd-the-gioi-lien-tuc-tang-cao-4735382.html) - 23:00 17/04/2024
