@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Bỏ trốn cùng tiền của hàng chục người muốn ra nước ngoài](https://vnexpress.net/bo-tron-cung-tien-cua-hang-chuc-nguoi-muon-ra-nuoc-ngoai-4735807.html) - 04:46 18/04/2024
 - 🥰 [Sát hại cô vì mâu thuẫn đất đai](https://vnexpress.net/sat-hai-co-vi-mau-thuan-dat-dai-4735792.html) - 04:02 18/04/2024
-- 🎓 [Khoảnh khắc tên cướp phá tủ cướp vàng trong 5 giây](https://video.vnexpress.net/khoanh-khac-ten-cuop-pha-tu-cuop-vang-trong-5-giay-4735775.html) - 04:01 18/04/2024
+- 🎓 [Khoảnh khắc tên cướp phá tủ lấy vàng trong 5 giây](https://video.vnexpress.net/khoanh-khac-ten-cuop-pha-tu-lay-vang-trong-5-giay-4735775.html) - 04:01 18/04/2024
 - 🤓 [Cha tử vong sau cuộc cãi vã với con trai](https://vnexpress.net/cha-tu-vong-sau-cuoc-cai-va-voi-con-trai-4735787.html) - 03:58 18/04/2024
 - 🎊 [Thuê côn đồ đòi nợ &#39;con nuôi&#39; gần 10 tỷ đồng tiền ảo](https://vnexpress.net/dung-vu-luc-doi-no-gan-10-ty-dong-tien-ao-4735676.html) - 00:29 18/04/2024
 - 🙉 [Nghi can đi ôtô, đập búa cướp tiệm vàng bị bắt](https://vnexpress.net/nghi-can-cuop-tiem-vang-o-ha-tinh-bi-bat-4735711.html) - 23:52 17/04/2024
