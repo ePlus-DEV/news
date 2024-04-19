@@ -7,7 +7,7 @@ sidebar_position: 11
 - 💂 [Đà Lạt được khách Việt chọn nhiều nhất dịp 30/4](https://vnexpress.net/da-lat-duoc-khach-viet-chon-nhieu-nhat-dip-30-4-4735915.html) - 01:27 19/04/2024
 - 🪄 [Khám phá phòng trưng bày kỷ lục Truyện Kiều ở Hội An](https://vnexpress.net/kham-pha-phong-trung-bay-ky-luc-truyen-kieu-o-hoi-an-4735784.html) - 17:00 18/04/2024
 - 🦅 [Các điểm du lịch cả nước vắng khách dịp giỗ Tổ](https://vnexpress.net/cac-diem-du-lich-ca-nuoc-vang-khach-dip-gio-to-4735904.html) - 14:41 18/04/2024
-- 🕴 [Thăm loạt di tích trăm tuổi ở quê &#39;Bà chúa thơ Nôm&#39;](https://vnexpress.net/tham-loat-di-tich-tram-tuoi-o-que-ba-chua-tho-nom-4734880.html) - 11:50 18/04/2024
+- 🕴 [Thăm loạt di tích trăm tuổi ở quê Hồ Xuân Hương](https://vnexpress.net/tham-loat-di-tich-tram-tuoi-o-que-ho-xuan-huong-4734880.html) - 11:50 18/04/2024
 - 👀 [Vietjet tăng chuyến bay đến Điện Biên](https://vnexpress.net/vietjet-tang-chuyen-bay-den-dien-bien-4735865.html) - 10:00 18/04/2024
 - 🎭 [Khách đổ về Cần Thơ thưởng thức hàng trăm loại bánh Nam Bộ](https://vnexpress.net/khach-do-ve-can-tho-thuong-thuc-hang-tram-loai-banh-nam-bo-4735729.html) - 08:30 18/04/2024
 - 🦒 [Đồng lau ngoại thành Sài Gòn hút bạn trẻ tới chụp ảnh](https://vnexpress.net/dong-lau-ngoai-thanh-sai-gon-hut-ban-tre-toi-chup-anh-4735719.html) - 07:56 18/04/2024
