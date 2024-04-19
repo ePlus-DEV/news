@@ -17,7 +17,7 @@ sidebar_position: 11
 - 🤠 [Nhân sự du lịch Việt yếu - tác nhân khiến khách không quay lại](https://vnexpress.net/nhan-su-du-lich-viet-yeu-tac-nhan-khien-khach-khong-quay-lai-4733716.html) - 01:00 18/04/2024
 - 🚀 [Côn trùng, rau rừng bày bán khắp chợ Tây Bắc](https://vnexpress.net/con-trung-rau-rung-bay-ban-khap-cho-tay-bac-4735147.html) - 23:00 17/04/2024
 - 💻 [Cẩm nang du lịch Bình Định](https://vnexpress.net/cam-nang-du-lich-binh-dinh-4729689.html) - 17:00 17/04/2024
-- 💼 [Tim Cook ở phòng 170 triệu đồng, ăn tối món Pháp tại Hà Nội](https://vnexpress.net/tim-cook-o-phong-170-trieu-dong-an-toi-mon-phap-tai-ha-noi-4735609.html) - 12:12 17/04/2024
+- 💼 [Tim Cook ở phòng 170 triệu đồng tại Hà Nội](https://vnexpress.net/tim-cook-o-phong-170-trieu-dong-tai-ha-noi-4735609.html) - 12:12 17/04/2024
 - 🤡 [Cẩm nang du lịch đền Hùng 2024](https://vnexpress.net/cam-nang-du-lich-den-hung-4595429.html) - 11:39 17/04/2024
 - 🐵 [500.000 khách sẽ đổ về Đền Hùng ngày giỗ Tổ, Việt Trì kín phòng](https://vnexpress.net/500-000-khach-se-do-ve-den-hung-ngay-gio-to-viet-tri-kin-phong-4735357.html) - 05:53 17/04/2024
 - 😺 [Bốn cách tiết kiệm chi phí khi du lịch Phú Quốc dịp 30/4](https://vnexpress.net/bon-cach-tiet-kiem-chi-phi-khi-du-lich-phu-quoc-dip-30-4-4734857.html) - 04:00 17/04/2024
