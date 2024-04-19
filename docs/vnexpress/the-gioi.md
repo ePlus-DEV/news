@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Israel có thể đã tập kích tên lửa đáp trả Iran](https://vnexpress.net/israel-co-the-da-tap-kich-ten-lua-dap-tra-iran-4736002.html) - 02:18 19/04/2024
+- 🎭 [Israel có thể đã tập kích đáp trả Iran](https://vnexpress.net/israel-co-the-da-tap-kich-dap-tra-iran-4736002.html) - 02:18 19/04/2024
 - 🕴 [Ảnh người phụ nữ Gaza ôm thi thể cháu đoạt giải Ảnh Báo chí Thế giới](https://vnexpress.net/anh-nguoi-phu-nu-gaza-om-thi-the-chau-doat-giai-anh-bao-chi-the-gioi-4735967.html) - 02:16 19/04/2024
 - 🤭 [Quy định chỉ dân thường mới được lấy công chúa thời nhà Minh](https://vnexpress.net/quy-dinh-chi-dan-thuong-moi-duoc-lay-cong-chua-thoi-nha-minh-4735444.html) - 02:00 19/04/2024
 - 🧑‍💻 [Cựu phó tổng thống Ecuador cầu cứu](https://vnexpress.net/cuu-pho-tong-thong-ecuador-cau-cuu-4735961.html) - 01:59 19/04/2024
