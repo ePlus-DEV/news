@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [48 giờ ở Cúc Phương](https://vnexpress.net/48-gio-o-cuc-phuong-4734813.html) - 06:03 19/04/2024
-- 🪄 [Hàng vạn du khách đổ về Cửa Lò đêm khai hội hè 2024](https://vnexpress.net/hang-van-du-khach-do-ve-cua-lo-dem-khai-hoi-he-2024-4735903.html) - 05:51 19/04/2024
+- 🪄 [Hàng chục nghìn du khách đổ về Cửa Lò đêm khai hội hè 2024](https://vnexpress.net/hang-chuc-nghin-du-khach-do-ve-cua-lo-dem-khai-hoi-he-2024-4735903.html) - 05:51 19/04/2024
 - 🦅 [Đà Lạt được khách Việt chọn nhiều nhất dịp 30/4](https://vnexpress.net/da-lat-duoc-khach-viet-chon-nhieu-nhat-dip-30-4-4735915.html) - 01:27 19/04/2024
 - 🕴 [Khám phá phòng trưng bày kỷ lục Truyện Kiều ở Hội An](https://vnexpress.net/kham-pha-phong-trung-bay-ky-luc-truyen-kieu-o-hoi-an-4735784.html) - 17:00 18/04/2024
 - 👀 [Các điểm du lịch cả nước vắng khách dịp giỗ Tổ](https://vnexpress.net/cac-diem-du-lich-ca-nuoc-vang-khach-dip-gio-to-4735904.html) - 14:41 18/04/2024
