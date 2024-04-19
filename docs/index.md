@@ -64,22 +64,22 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😺 [Những gia đình vượt trăm cây số đua Kun Marathon](https://vnexpress.net/nhung-gia-dinh-vuot-tram-cay-so-dua-kun-marathon-4736078.html) - 07:00 19/04/2024
 - 🔥 [Dương vật sưng đau sau quan hệ là bệnh gì?](https://vnexpress.net/duong-vat-sung-dau-sau-quan-he-la-benh-gi-4736034.html) - 07:00 19/04/2024
 - 🧰 [Trường Quốc tế Singapore Hải Phòng khai giảng trong tháng 8](https://vnexpress.net/truong-quoc-te-singapore-hai-phong-khai-giang-trong-thang-8-4735998.html) - 07:00 19/04/2024
-- 🦒 [WHO sơ tuyển vaccine tả mới](https://vnexpress.net/who-so-tuyen-vaccine-ta-moi-4735978.html) - 07:00 19/04/2024
-- ⛽️ [Nền tảng ngân hàng số Techcombank Business cho khách hàng doanh nghiệp](https://vnexpress.net/nen-tang-ngan-hang-so-techcombank-business-cho-khach-hang-doanh-nghiep-4735611.html) - 07:00 19/04/2024
-- 🚀 [Nền tảng tuyển dụng Job3s đạt giải Sao Khuê 2024](https://vnexpress.net/nen-tang-tuyen-dung-job3s-dat-giai-sao-khue-2024-4735441.html) - 07:00 19/04/2024
-- 🪜 [Oanh tạc cơ chiến thuật Nga rơi](https://vnexpress.net/oanh-tac-co-chien-thuat-nga-roi-4736149.html) - 06:54 19/04/2024
-- 🚦 [Hóa thạch có thể là loài rắn lớn nhất hành tinh](https://vnexpress.net/hoa-thach-co-the-la-loai-ran-lon-nhat-hanh-tinh-4735950.html) - 06:53 19/04/2024
-- 🕯 [Bà Rịa - Vũng Tàu chuyển đổi 43 ha rừng để làm đường ven biển](https://vnexpress.net/ba-ria-vung-tau-chuyen-doi-43-ha-rung-de-lam-duong-ven-bien-4736163.html) - 06:51 19/04/2024
-- 💪 [Thời trang tắm biển cho các chị em sợ nắng](https://vnexpress.net/thoi-trang-tam-bien-cho-cac-chi-em-so-nang-4736098.html) - 06:39 19/04/2024
-- 🧑‍🏫 [MB có thể nhận chuyển giao ngân hàng bắt buộc năm nay](https://vnexpress.net/mb-co-the-nhan-chuyen-giao-ngan-hang-bat-buoc-nam-nay-4736145.html) - 06:37 19/04/2024
-- 🎓 [Giảm hormone, sùi mào gà sau hít &#39;thần dược tình yêu&#39;](https://vnexpress.net/giam-hormone-sui-mao-ga-sau-hit-than-duoc-tinh-yeu-4735833.html) - 06:20 19/04/2024
-- 💫 [Ông Lê Tùng Vân bị khởi tố tội Loạn luân](https://vnexpress.net/ong-le-tung-van-bi-khoi-to-toi-loan-luan-4736150.html) - 06:13 19/04/2024
-- 🤩 [Công nghệ gieo mây có gây mưa lớn ở Dubai?](https://vnexpress.net/cong-nghe-gieo-may-co-gay-mua-lon-o-dubai-4735955.html) - 06:05 19/04/2024
-- 🏊 [48 giờ ở Cúc Phương](https://vnexpress.net/48-gio-o-cuc-phuong-4734813.html) - 06:03 19/04/2024
-- 💂 [Gửi chàng trai có thể chữa lành vết thương của em](https://vnexpress.net/gui-chang-trai-co-the-chua-lanh-vet-thuong-cua-em-4736024.html) - 06:00 19/04/2024
-- 🚀 [Bị chồng tra tấn tinh thần bằng sự im lặng](https://vnexpress.net/bi-chong-tra-tan-tinh-than-bang-su-im-lang-4723642.html) - 06:00 19/04/2024
-- 🕴 [10 món ăn bổ tim](https://vnexpress.net/10-mon-an-bo-tim-4736094.html) - 06:00 19/04/2024
-- 🦆 [Lo vô sinh bởi mắc bệnh buồng trứng ở tuổi thanh xuân](https://vnexpress.net/lo-vo-sinh-boi-mac-benh-buong-trung-o-tuoi-thanh-xuan-4735371.html) - 06:00 19/04/2024<!-- vnexpress:END -->
+- 🦒 [Nền tảng ngân hàng số Techcombank Business cho khách hàng doanh nghiệp](https://vnexpress.net/nen-tang-ngan-hang-so-techcombank-business-cho-khach-hang-doanh-nghiep-4735611.html) - 07:00 19/04/2024
+- ⛽️ [Nền tảng tuyển dụng Job3s đạt giải Sao Khuê 2024](https://vnexpress.net/nen-tang-tuyen-dung-job3s-dat-giai-sao-khue-2024-4735441.html) - 07:00 19/04/2024
+- 🚀 [Oanh tạc cơ chiến thuật Nga rơi](https://vnexpress.net/oanh-tac-co-chien-thuat-nga-roi-4736149.html) - 06:54 19/04/2024
+- 🪜 [Hóa thạch có thể là loài rắn lớn nhất hành tinh](https://vnexpress.net/hoa-thach-co-the-la-loai-ran-lon-nhat-hanh-tinh-4735950.html) - 06:53 19/04/2024
+- 🚦 [Bà Rịa - Vũng Tàu chuyển đổi 43 ha rừng để làm đường ven biển](https://vnexpress.net/ba-ria-vung-tau-chuyen-doi-43-ha-rung-de-lam-duong-ven-bien-4736163.html) - 06:51 19/04/2024
+- 🕯 [Thời trang tắm biển cho các chị em sợ nắng](https://vnexpress.net/thoi-trang-tam-bien-cho-cac-chi-em-so-nang-4736098.html) - 06:39 19/04/2024
+- 💪 [MB có thể nhận chuyển giao ngân hàng bắt buộc năm nay](https://vnexpress.net/mb-co-the-nhan-chuyen-giao-ngan-hang-bat-buoc-nam-nay-4736145.html) - 06:37 19/04/2024
+- 🧑‍🏫 [Giảm hormone, sùi mào gà sau hít &#39;thần dược tình yêu&#39;](https://vnexpress.net/giam-hormone-sui-mao-ga-sau-hit-than-duoc-tinh-yeu-4735833.html) - 06:20 19/04/2024
+- 🎓 [Ông Lê Tùng Vân bị khởi tố tội Loạn luân](https://vnexpress.net/ong-le-tung-van-bi-khoi-to-toi-loan-luan-4736150.html) - 06:13 19/04/2024
+- 💫 [Công nghệ gieo mây có gây mưa lớn ở Dubai?](https://vnexpress.net/cong-nghe-gieo-may-co-gay-mua-lon-o-dubai-4735955.html) - 06:05 19/04/2024
+- 🤩 [48 giờ ở Cúc Phương](https://vnexpress.net/48-gio-o-cuc-phuong-4734813.html) - 06:03 19/04/2024
+- 🏊 [Gửi chàng trai có thể chữa lành vết thương của em](https://vnexpress.net/gui-chang-trai-co-the-chua-lanh-vet-thuong-cua-em-4736024.html) - 06:00 19/04/2024
+- 💂 [Bị chồng tra tấn tinh thần bằng sự im lặng](https://vnexpress.net/bi-chong-tra-tan-tinh-than-bang-su-im-lang-4723642.html) - 06:00 19/04/2024
+- 🚀 [10 món ăn bổ tim](https://vnexpress.net/10-mon-an-bo-tim-4736094.html) - 06:00 19/04/2024
+- 🕴 [Lo vô sinh bởi mắc bệnh buồng trứng ở tuổi thanh xuân](https://vnexpress.net/lo-vo-sinh-boi-mac-benh-buong-trung-o-tuoi-thanh-xuan-4735371.html) - 06:00 19/04/2024
+- 🦆 [Hàng chục nghìn du khách đổ về Cửa Lò đêm khai hội hè 2024](https://vnexpress.net/hang-chuc-nghin-du-khach-do-ve-cua-lo-dem-khai-hoi-he-2024-4735903.html) - 05:51 19/04/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
