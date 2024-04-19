@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hơn 30 người hợp sức kéo ôtô trôi xuống giữa hồ](https://video.vnexpress.net/hon-30-nguoi-hop-suc-keo-oto-troi-xuong-giua-ho-4736169.html) - 06:46 19/04/2024
+- 🦒 [Bà Rịa - Vũng Tàu chuyển đổi 43 ha rừng để làm đường ven biển](https://vnexpress.net/ba-ria-vung-tau-chuyen-doi-43-ha-rung-de-lam-duong-ven-bien-4736163.html) - 06:51 19/04/2024
 - 🤓 [Khánh thành đài kiểm soát không lưu Điện Biên](https://vnexpress.net/khanh-thanh-dai-kiem-soat-khong-luu-dien-bien-4736122.html) - 05:13 19/04/2024
 - ⚗️ [Yêu cầu phóng viên gửi câu hỏi trước họp báo ba ngày là &#39;trái luật&#39;](https://vnexpress.net/yeu-cau-phong-vien-gui-cau-hoi-truoc-hop-bao-ba-ngay-la-trai-luat-4736070.html) - 04:36 19/04/2024
 - 🌊 [Cựu bí thư và chủ tịch tỉnh Lâm Đồng bị bãi nhiệm](https://vnexpress.net/cuu-bi-thu-va-chu-tich-tinh-lam-dong-bi-bai-nhiem-4736081.html) - 04:05 19/04/2024
