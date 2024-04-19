@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Người đàn ông bị bắt vì dọa đánh bom lãnh sự quán Iran tại Paris](https://vnexpress.net/nguoi-dan-ong-bi-bat-vi-doa-danh-bom-lanh-su-quan-iran-tai-paris-4736365.html) - 13:37 19/04/2024
+- 🎭 [Bắt nghi phạm dọa đánh bom lãnh sự quán Iran tại Paris](https://vnexpress.net/bat-nghi-pham-doa-danh-bom-lanh-su-quan-iran-tai-paris-4736365.html) - 13:37 19/04/2024
 - 🕴 [Loạt hãng hàng không đình chỉ chuyến bay đến Israel](https://vnexpress.net/loat-hang-hang-khong-dinh-chi-chuyen-bay-den-israel-4736359.html) - 12:49 19/04/2024
 - 🤭 [Gen Z đang kiếm tiền &#39;nhiều chưa từng thấy&#39;](https://vnexpress.net/gen-z-dang-kiem-tien-nhieu-chua-tung-thay-4735373.html) - 12:00 19/04/2024
 - 🧑‍💻 [Bộ trưởng Israel bị chỉ trích vì ám chỉ Tel Aviv tập kích Iran](https://vnexpress.net/bo-truong-israel-bi-chi-trich-vi-am-chi-tel-aviv-tap-kich-iran-4736274.html) - 11:36 19/04/2024
