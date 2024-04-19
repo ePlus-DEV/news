@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cảnh sát đột kích 6 căn hộ ở Sài Gòn bắt băng lừa đảo](https://vnexpress.net/canh-sat-dot-kich-6-can-ho-o-sai-gon-bat-bang-lua-dao-4736067.html) - 04:32 19/04/2024
+- 😎 [Cảnh sát đột kích 6 căn hộ ở Sài Gòn, bắt băng lừa đảo](https://vnexpress.net/canh-sat-dot-kich-6-can-ho-o-sai-gon-bat-bang-lua-dao-4736067.html) - 04:32 19/04/2024
 - 🥰 [Anh em sát thủ thoát tội 25 năm vì cảnh sát phán đoán sai lầm](https://vnexpress.net/anh-em-sat-thu-thoat-toi-25-nam-vi-canh-sat-phan-doan-sai-lam-4735930.html) - 02:35 19/04/2024
 - 🎓 [Vụ trộm 6.600 thỏi vàng &#39;như phim Netflix&#39; ở Canada](https://vnexpress.net/vu-trom-6-600-thoi-vang-nhu-phim-netflix-o-canada-4735893.html) - 01:15 19/04/2024
 - 🤓 [Nghi phạm cầm đầu vụ cướp tiệm vàng ở Bình Dương bị bắt](https://vnexpress.net/nghi-pham-cam-dau-vu-cuop-tiem-vang-o-binh-duong-bi-bat-4721302.html) - 14:11 18/04/2024
