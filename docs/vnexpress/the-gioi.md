@@ -14,7 +14,7 @@ sidebar_position: 2
 - 🧑‍🏫 [Những &#39;tòa nhà ma&#39; người Trung Quốc bỏ lại ở Sihanoukville](https://vnexpress.net/nhung-toa-nha-ma-nguoi-trung-quoc-bo-lai-o-sihanoukville-4735992.html) - 07:56 19/04/2024
 - 🐲 [Ukraine tuyên bố tập kích 4 bệ phóng S-400 Nga ở Crimea](https://vnexpress.net/ukraine-tuyen-bo-tap-kich-4-be-phong-s-400-nga-o-crimea-4736061.html) - 07:32 19/04/2024
 - 🦒 [Quan chức Iran đăng ảnh chế giễu &#39;Israel tập kích bằng flycam&#39;](https://vnexpress.net/quan-chuc-iran-dang-anh-che-gieu-israel-tap-kich-bang-flycam-4736146.html) - 07:25 19/04/2024
-- 🐻 [Oanh tạc cơ chiến thuật Nga rơi](https://vnexpress.net/oanh-tac-co-chien-thuat-nga-roi-4736149.html) - 06:54 19/04/2024
+- 🐻 [Oanh tạc cơ Nga rơi](https://vnexpress.net/oanh-tac-co-nga-roi-4736149.html) - 06:54 19/04/2024
 - 🚀 [Loạt thành phố Ukraine nơm nớp trước đà tiến của Nga](https://vnexpress.net/loat-thanh-pho-ukraine-nom-nop-truoc-da-tien-cua-nga-4735227.html) - 04:57 19/04/2024
 - 🥰 [Argentina đề nghị làm đối tác toàn cầu của NATO](https://vnexpress.net/argentina-de-nghi-lam-doi-tac-toan-cau-cua-nato-4736056.html) - 04:56 19/04/2024
 - 🔥 [Nghị sĩ bảo thủ muốn người ủng hộ dự luật viện trợ Ukraine phải ra tiền tuyến](https://vnexpress.net/nghi-si-bao-thu-muon-nguoi-ung-ho-du-luat-vien-tro-ukraine-phai-ra-tien-tuyen-4735963.html) - 04:54 19/04/2024
