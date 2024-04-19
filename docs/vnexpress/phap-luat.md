@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Tổng giám đốc tập đoàn Tâm Lộc Phát bị bắt](https://vnexpress.net/tong-giam-doc-tap-doan-tam-loc-phat-bi-bat-4736244.html) - 09:14 19/04/2024
-- 🥰 [Vì sao nhiều cán bộ Hà Nội &#39;thoát tội&#39; trong vụ dìm giá 16.000 m2 đất tại Đông Anh](https://vnexpress.net/vi-sao-nhieu-can-bo-ha-noi-thoat-toi-trong-vu-dim-gia-16-000-m2-dat-tai-dong-anh-4736071.html) - 08:58 19/04/2024
+- 🥰 [Vì sao nhiều cán bộ Hà Nội &#39;thoát tội&#39; trong vụ dìm giá 16.000 m2 đất tại Đông Anh?](https://vnexpress.net/vi-sao-nhieu-can-bo-ha-noi-thoat-toi-trong-vu-dim-gia-16-000-m2-dat-tai-dong-anh-4736071.html) - 08:58 19/04/2024
 - 🎓 [Hai nữ đại gia Sài Gòn bị chiếm đoạt hơn 1.200 tỷ đồng](https://vnexpress.net/hai-nu-dai-gia-sai-gon-bi-chiem-doat-hon-1-200-ty-dong-4736154.html) - 08:44 19/04/2024
 - 🤓 [Người bơi qua sông trốn khỏi trại giam bị phạt hơn 2 năm tù](https://vnexpress.net/nguoi-boi-qua-song-tron-khoi-trai-giam-bi-phat-hon-2-nam-tu-4736184.html) - 07:32 19/04/2024
 - 🎊 [Giám đốc công ty bất động sản ở Phú Quốc bị bắt](https://vnexpress.net/giam-doc-cong-ty-bat-dong-san-o-phu-quoc-bi-bat-4736167.html) - 07:16 19/04/2024
