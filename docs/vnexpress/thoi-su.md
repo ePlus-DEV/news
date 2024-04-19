@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Tàu chở 42 du khách va chạm phà trên sông Tiền](https://vnexpress.net/tau-cho-42-du-khach-va-cham-pha-tren-song-tien-4736384.html) - 15:30 19/04/2024
+- 🦒 [Tàu chở 42 khách nước ngoài va chạm phà trên sông Tiền](https://vnexpress.net/tau-cho-42-khach-nuoc-ngoai-va-cham-pha-tren-song-tien-4736384.html) - 15:30 19/04/2024
 - 🤓 [Ôtô lao xuống sông, tài xế tử vong](https://vnexpress.net/oto-lao-xuong-song-tai-xe-tu-vong-4736373.html) - 15:24 19/04/2024
 - ⚗️ [Thuận An &#39;cam kết thi công&#39; 2 gói thầu cải tạo kênh dài nhất TP HCM](https://vnexpress.net/thuan-an-cam-ket-thi-cong-2-goi-thau-cai-tao-kenh-dai-nhat-tp-hcm-4736361.html) - 12:50 19/04/2024
 - 🌊 [Chính quyền &#39;buông lỏng quản lý&#39; vụ 22 biệt thự không phép trên đồi](https://vnexpress.net/chinh-quyen-buong-long-quan-ly-vu-22-biet-thu-khong-phep-tren-doi-4736285.html) - 10:36 19/04/2024
