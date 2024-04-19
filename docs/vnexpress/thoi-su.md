@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Bộ trưởng Đào Ngọc Dung bị khiển trách](https://vnexpress.net/bo-truong-dao-ngoc-dung-bi-khien-trach-4724425.html) - 08:49 19/04/2024
 - 🤓 [Xe chở hơn 20 khách cháy trên cao tốc TP HCM - Long Thành](https://vnexpress.net/xe-cho-hon-20-khach-chay-tren-cao-toc-tp-hcm-long-thanh-4736213.html) - 07:58 19/04/2024
 - ⚗️ [Hơn chục nghìn tấn hàng ách tắc ở ga đường sắt do sạt hầm Bãi Gió](https://vnexpress.net/hon-chuc-nghin-tan-hang-ach-tac-o-ga-duong-sat-do-sat-ham-bai-gio-4736155.html) - 07:44 19/04/2024
-- 🌊 [Bà Rịa - Vũng Tàu chuyển đổi 43 ha rừng để làm đường ven biển](https://vnexpress.net/ba-ria-vung-tau-chuyen-doi-43-ha-rung-de-lam-duong-ven-bien-4736163.html) - 06:51 19/04/2024
+- 🌊 [Bà Rịa - Vũng Tàu chuyển đổi 43 ha rừng làm đường ven biển](https://vnexpress.net/ba-ria-vung-tau-chuyen-doi-43-ha-rung-lam-duong-ven-bien-4736163.html) - 06:51 19/04/2024
 - 🎓 [Khánh thành đài kiểm soát không lưu Điện Biên](https://vnexpress.net/khanh-thanh-dai-kiem-soat-khong-luu-dien-bien-4736122.html) - 05:13 19/04/2024
 - 🔥 [Yêu cầu phóng viên gửi câu hỏi trước họp báo ba ngày là &#39;trái luật&#39;](https://vnexpress.net/yeu-cau-phong-vien-gui-cau-hoi-truoc-hop-bao-ba-ngay-la-trai-luat-4736070.html) - 04:36 19/04/2024
 - 🦏 [Cựu bí thư và chủ tịch tỉnh Lâm Đồng bị bãi nhiệm](https://vnexpress.net/cuu-bi-thu-va-chu-tich-tinh-lam-dong-bi-bai-nhiem-4736081.html) - 04:05 19/04/2024
