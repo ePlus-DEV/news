@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Những ý tưởng phối sơ mi đầu hè](https://vnexpress.net/nhung-y-tuong-phoi-so-mi-dau-he-4735872.html) - 03:26 19/04/2024
+- 🌏 [10 ý tưởng phối sơ mi đầu hè](https://vnexpress.net/10-y-tuong-phoi-so-mi-dau-he-4735872.html) - 03:26 19/04/2024
 - 💫 [Thư Kỳ mặc đồ cưới kỷ niệm tám năm kết hôn](https://vnexpress.net/thu-ky-mac-do-cuoi-ky-niem-tam-nam-ket-hon-4735979.html) - 02:43 19/04/2024
 - 🌮 [Sắc vóc tuổi 29 của Jun Vũ](https://vnexpress.net/sac-voc-tuoi-29-cua-jun-vu-4735846.html) - 17:00 18/04/2024
 - 🧠 [Gia đình đưa Châu Hải My về nơi an nghỉ](https://vnexpress.net/gia-dinh-dua-chau-hai-my-ve-noi-an-nghi-4735880.html) - 14:58 18/04/2024
