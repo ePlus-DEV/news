@@ -69,8 +69,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [10 ý tưởng phối sơ mi đầu hè](https://vnexpress.net/10-y-tuong-phoi-so-mi-dau-he-4735872.html) - 03:26 19/04/2024
 - 🪜 [Xu hướng đào tạo, tuyển dụng nhân lực ngành Game Việt Nam](https://vnexpress.net/xu-huong-dao-tao-tuyen-dung-nhan-luc-nganh-game-viet-nam-4735988.html) - 03:20 19/04/2024
 - 🚦 [Quy định mới trạm dừng nghỉ phải có trụ sạc xe điện](https://vnexpress.net/quy-dinh-moi-tram-dung-nghi-phai-co-tru-sac-xe-dien-4735997.html) - 03:05 19/04/2024
-- 🕯 [CEO Apple Tim Cook hứa hẹn gì khi tới ba nước Đông Nam Á?](https://vnexpress.net/ceo-apple-tim-cook-hua-hen-gi-khi-toi-ba-nuoc-dong-nam-a-4735982.html) - 03:02 19/04/2024
-- 💪 [Nhóm thực phẩm làm tăng nguy cơ dậy thì sớm](https://vnexpress.net/nhom-thuc-pham-lam-tang-nguy-co-day-thi-som-4736007.html) - 03:00 19/04/2024<!-- vnexpress:END -->
+- 🕯 [CEO Apple Tim Cook hứa hẹn gì khi tới ba nước Đông Nam Á?](https://vnexpress.net/ceo-apple-tim-cook-hua-hen-gi-khi-toi-ba-nuoc-dong-nam-a-4735982.html) - 03:02 19/04/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
