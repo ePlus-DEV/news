@@ -80,7 +80,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [&#39;Ô nhiễm tiếng ồn nơi công cộng&#39;](https://vnexpress.net/o-nhiem-tieng-on-noi-cong-cong-4736112.html) - 12:00 19/04/2024
 - 🕴 [Anh rảnh không, mình yêu nhau cho bận nha](https://vnexpress.net/anh-ranh-khong-minh-yeu-nhau-cho-ban-nha-4736088.html) - 12:00 19/04/2024
 - 🦆 [Gen Z đang kiếm tiền &#39;nhiều chưa từng thấy&#39;](https://vnexpress.net/gen-z-dang-kiem-tien-nhieu-chua-tung-thay-4735373.html) - 12:00 19/04/2024
-- 💫 [Tranh cãi bỏ bài tập về nhà](https://vnexpress.net/tranh-cai-bo-bai-tap-ve-nha-4735910.html) - 12:00 19/04/2024<!-- vnexpress:END -->
+- 💫 [Tranh cãi bỏ bài tập về nhà](https://vnexpress.net/tranh-cai-bo-bai-tap-ve-nha-4735910.html) - 12:00 19/04/2024
+- 🤓 [Runner chờ lấy bib giải chạy Huế 2024](https://vnexpress.net/runner-cho-lay-bib-giai-chay-hue-2024-4736351.html) - 12:00 19/04/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
