@@ -447,7 +447,7 @@ khi bị lừa mua vé xem The Eras Tour](https://thanhnien.vn/hang-ngan-fan-tay
 
 ## Thư Viện Pháp Luật
 <!-- thuvienphapluat:START -->
-- 🕴 [Công văn 2421/UBCK-PTTT hoán đổi ngày nghỉ dịp lễ Chiến thắng 30/4 và ngày Quốc tế lao động 01/5 năm 2024 của Ủy ban Chứng khoán Nhà nước ban hành](https://thuvienphapluat.vn/cong-van/Lao-dong-Tien-luong/Cong-van-2421-UBCK-PTTT-2024-hoan-doi-ngay-nghi-dip-le-Chien-thang-va-ngay-Quoc-te-lao-dong-607026.aspx) - 00:00 17/04/2024
+- 🕴 [Công văn 2421/UBCK-PTTT hoán đổi ngày nghỉ dịp lễ Chiến thắng 30/4 và ngày Quốc tế lao động 01/5 năm 2024 do Ủy ban Chứng khoán Nhà nước ban hành](https://thuvienphapluat.vn/cong-van/Lao-dong-Tien-luong/Cong-van-2421-UBCK-PTTT-2024-hoan-doi-ngay-nghi-dip-le-Chien-thang-va-ngay-Quoc-te-lao-dong-607026.aspx) - 00:00 17/04/2024
 - 🎭 [Quyết định 315/QĐ-TTg năm 2024 phê duyệt Đề án Nâng cao năng lực đội ngũ hòa giải viên ở cơ sở giai đoạn 2024-2030 do Thủ tướng Chính phủ ban hành](https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Quyet-dinh-315-QD-TTg-2024-De-an-Nang-cao-nang-luc-doi-ngu-hoa-giai-vien-o-co-so-2024-2030-606924.aspx) - 00:00 17/04/2024
 - 💪 [Dự thảo Nghị định hướng dẫn Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án đầu tư có sử dụng đất](https://thuvienphapluat.vn/van-ban/Dau-tu/Nghi-dinh-lua-chon-nha-dau-tu-thuc-hien-du-an-dau-tu-co-su-dung-dat-606864.aspx) - 00:00 17/04/2024
 - 🚀 [Dự thảo Luật Tư pháp người chưa thành niên](https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Luat-Tu-phap-nguoi-chua-thanh-nien-606865.aspx) - 00:00 17/04/2024
