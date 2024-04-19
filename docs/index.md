@@ -251,7 +251,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😺 [Hàng nghìn người hăng say tập luyện với khí thế Điện Biên năm xưa](https://laodong.vn/photo/hang-nghin-nguoi-hang-say-tap-luyen-voi-khi-the-dien-bien-nam-xua-1329209.ldo) - 13:13 19/04/2024
 - 🕴 [Tin tức 24h: Lãi suất ngân hàng tiếp tục tăng mạnh](https://laodong.vn/video/tin-tuc-24h-lai-suat-ngan-hang-tiep-tuc-tang-manh-1329127.ldo) - 13:00 19/04/2024
 - 🌋 [Tin 20h: Thất thoát hơn 53 tỉ đồng quỹ di tích làng Đồng Kỵ](https://laodong.vn/video-xa-hoi/tin-20h-that-thoat-hon-53-ti-dong-quy-di-tich-lang-dong-ky-1329619.ldo) - 13:00 19/04/2024
-- 💄 [Phim Tích Hoa Chỉ chuyển mình, Trương Tịnh Nghi được kì vọng đóng với Tiêu Chiến](https://laodong.vn/giai-tri/phim-tich-hoa-chi-chuyen-minh-truong-tinh-nghi-duoc-ki-vong-dong-voi-tieu-chien-1329536.ldo) - 13:00 19/04/2024<!-- laodong:END -->
+- 💄 [2 quốc gia nào sẽ giành thêm suất dự Champions League?](https://laodong.vn/bong-da-quoc-te/2-quoc-gia-nao-se-gianh-them-suat-du-champions-league-1329540.ldo) - 13:00 19/04/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
