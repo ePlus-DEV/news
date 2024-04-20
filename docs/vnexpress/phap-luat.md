@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Âm mưu tàn độc cướp 120 thỏi vàng](https://vnexpress.net/am-muu-tan-doc-cuop-120-thoi-vang-4736402.html) - 22:00 19/04/2024
 - 🥰 [Đường dây làm giả thuốc chữa bệnh bị bắt](https://vnexpress.net/duong-day-lam-gia-thuoc-chua-benh-bi-bat-4736372.html) - 17:00 19/04/2024
-- 🎓 [Hộp thức ăn giúp cảnh sát lần ra manh mối băng cướp tiệm vàng](https://vnexpress.net/hop-thuc-an-giup-canh-sat-lan-ra-manh-moi-bang-cuop-tiem-vang-4736127.html) - 17:00 19/04/2024
+- 🎓 [Lời khai của shipper giúp lần ra manh mối băng cướp tiệm vàng](https://vnexpress.net/loi-khai-cua-shipper-giup-lan-ra-manh-moi-bang-cuop-tiem-vang-4736127.html) - 17:00 19/04/2024
 - 🤓 [Thiếu nữ bị sát hại, giấu xác trong vườn](https://vnexpress.net/thieu-nu-bi-sat-hai-giau-xac-trong-vuon-4736392.html) - 16:34 19/04/2024
 - 🎊 [Bà chủ quán cà phê bị sát hại](https://vnexpress.net/ba-chu-quan-ca-phe-bi-sat-hai-4736378.html) - 14:51 19/04/2024
 - 🙉 [Kẻ sát hại gia đình hàng xóm bị tuyên tử hình](https://vnexpress.net/ke-sat-hai-gia-dinh-hang-xom-bi-tuyen-tu-hinh-4736364.html) - 14:17 19/04/2024
