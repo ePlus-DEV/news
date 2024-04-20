@@ -14,7 +14,7 @@ sidebar_position: 1
 - 👺 [Hàng chục quốc gia tham dự triển lãm quốc phòng Việt Nam](https://vnexpress.net/hang-chuc-quoc-gia-tham-du-trien-lam-quoc-phong-viet-nam-4736547.html) - 06:38 20/04/2024
 - 🧑‍🏫 [Kỷ niệm 1.085 năm Ngô Quyền xưng vương ở Cổ Loa](https://vnexpress.net/ky-niem-1-085-nam-ngo-quyen-xung-vuong-o-co-loa-4736548.html) - 05:19 20/04/2024
 - 🚦 [Hơn 5.300 ngôi nhà hư hỏng do giông lốc](https://vnexpress.net/hon-5-300-ngoi-nha-hu-hong-do-giong-loc-4736536.html) - 04:28 20/04/2024
-- 🎉 [Cuộc sống trong những ngôi nhà trên sông Cầu](https://vnexpress.net/cuoc-song-trong-nhung-ngoi-nha-tren-song-cau-4736388.html) - 03:58 20/04/2024
+- 🎉 [Cuộc sống ở những ngôi nhà trên sông Cầu](https://vnexpress.net/cuoc-song-o-nhung-ngoi-nha-tren-song-cau-4736388.html) - 03:58 20/04/2024
 - 🦒 [Phan Thiết được mở rộng thêm 94 km2](https://vnexpress.net/phan-thiet-duoc-mo-rong-them-94-km2-4736367.html) - 03:33 20/04/2024
 - 🤗 [Tàu chở 42 khách nước ngoài va chạm phà trên sông Tiền](https://vnexpress.net/tau-cho-42-khach-nuoc-ngoai-va-cham-pha-tren-song-tien-4736384.html) - 15:30 19/04/2024
 - 💼 [Ôtô lao xuống sông, tài xế tử vong](https://vnexpress.net/oto-lao-xuong-song-tai-xe-tu-vong-4736373.html) - 15:24 19/04/2024
