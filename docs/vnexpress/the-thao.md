@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Tiểu thương chợ Đông Ba tiếp nước runner](https://vnexpress.net/tieu-thuong-cho-dong-ba-tiep-nuoc-runner-4736696.html) - 20:00 20/04/2024
+- 🪜 [Cự ly 21km xuất phát](https://vnexpress.net/cu-ly-21km-xuat-phat-4736696.html) - 20:00 20/04/2024
 - 🦩 [Uzbekistan chiếm đỉnh bảng của Việt Nam](https://vnexpress.net/uzbekistan-chiem-dinh-bang-cua-viet-nam-4736684.html) - 18:23 20/04/2024
 - 🧰 [HLV Hoàng Anh Tuấn: &#39;U23 Việt Nam thắng xứng đáng&#39;](https://vnexpress.net/hlv-hoang-anh-tuan-u23-viet-nam-thang-xung-dang-4736708.html) - 17:09 20/04/2024
 - 🤗 [Tiền vệ U23 Việt Nam nhắm đến nhất bảng D](https://vnexpress.net/tien-ve-u23-viet-nam-nham-den-nhat-bang-d-4736683.html) - 16:26 20/04/2024
