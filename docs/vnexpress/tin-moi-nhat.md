@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [8.000 VĐV tranh tài VnExpress Marathon Huế mùa 4](https://vnexpress.net/8-000-vdv-tranh-tai-vnexpress-marathon-hue-mua-4-4736696.html) - 19:41 20/04/2024
+- 🎬 [8.000 VĐV tranh tài VnExpress Marathon Huế mùa 4](https://vnexpress.net/8-000-vdv-tranh-tai-vnexpress-marathon-hue-mua-4-4736696.html) - 19:40 20/04/2024
 - 🐎 [Ngất xỉu](https://vnexpress.net/ngat-xiu-4736550.html) - 19:00 20/04/2024
 - 🦍 [Uzbekistan chiếm đỉnh bảng của Việt Nam](https://vnexpress.net/uzbekistan-chiem-dinh-bang-cua-viet-nam-4736684.html) - 18:23 20/04/2024
 - 🏊 [Cắt tóc thường xuyên có giúp tóc mọc nhanh hơn?](https://vnexpress.net/cat-toc-thuong-xuyen-co-giup-toc-moc-nhanh-hon-4736389.html) - 18:00 20/04/2024
