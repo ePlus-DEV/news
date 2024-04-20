@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Tiền vệ Hoàng Đức không xuất ngoại](https://vnexpress.net/tien-ve-hoang-duc-khong-xuat-ngoai-4736622.html) - 09:15 20/04/2024
 - 🦩 [&#39;Arsenal nguy cơ thành Tottenham của Pochettino&#39;](https://vnexpress.net/arsenal-nguy-co-thanh-tottenham-cua-pochettino-4736566.html) - 09:10 20/04/2024
-- 🧰 [Nguyễn Văn Lai: &#39;VnExpress Marathon khác biệt vì chất lượng chuyên môn&#39;](https://vnexpress.net/nguyen-van-lai-vnexpress-marathon-khac-biet-vi-chat-luong-chuyen-mon-4736315.html) - 09:00 20/04/2024
+- 🧰 [Nguyễn Văn Lai: &#39;VnExpress Marathon khác biệt nhờ chất lượng chuyên môn&#39;](https://vnexpress.net/nguyen-van-lai-vnexpress-marathon-khac-biet-nho-chat-luong-chuyen-mon-4736315.html) - 09:00 20/04/2024
 - 🤗 [Runner Kenya đặt mục tiêu vô địch VnExpress Marathon Huế](https://vnexpress.net/runner-kenya-dat-muc-tieu-vo-dich-vnexpress-marathon-hue-4736540.html) - 08:30 20/04/2024
 - 🥳 [Vua nước rút Lê Nguyệt Minh thắng chặng giải xe đạp xuyên Việt](https://vnexpress.net/vua-nuoc-rut-le-nguyet-minh-thang-chang-giai-xe-dap-xuyen-viet-4736597.html) - 08:24 20/04/2024
 - 🦣 [Đan Quyết: &#39;Chưa phá PR vì theo đuổi marathon lâu dài&#39;](https://vnexpress.net/dan-quyet-chua-pha-pr-vi-theo-duoi-marathon-lau-dai-4736514.html) - 06:00 20/04/2024
