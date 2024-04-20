@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Malaysia căng thẳng trước trận đấu Việt Nam](https://vnexpress.net/malaysia-cang-thang-truoc-tran-dau-viet-nam-4736521.html) - 03:57 20/04/2024
-- 🦩 [Man City - Chelsea: Quên đi nỗi đau](https://vnexpress.net/man-city-chelsea-quen-di-noi-dau-4736530.html) - 03:53 20/04/2024
-- 🧰 [Guardiola: &#39;Man City không có thời gian để buồn&#39;](https://vnexpress.net/guardiola-man-city-khong-co-thoi-gian-de-buon-4736528.html) - 03:50 20/04/2024
-- 🤗 [Arteta vẫn tiếc trận thua Bayern](https://vnexpress.net/arteta-van-tiec-tran-thua-bayern-4736524.html) - 03:32 20/04/2024
-- 🥳 [CLB Hà Lan xuống hạng vì liên quan Roman Abramovich](https://vnexpress.net/clb-ha-lan-xuong-hang-vi-lien-quan-roman-abramovich-4736447.html) - 03:14 20/04/2024
-- 🦣 [Nông Chang đạp xe xuyên Việt kết hợp chạy marathon](https://vnexpress.net/nong-chang-dap-xe-xuyen-viet-ket-hop-chay-marathon-4736350.html) - 03:00 20/04/2024
-- 🌜 [Assefa muốn phá sâu kỷ lục thế giới tại London Marathon 2024](https://vnexpress.net/assefa-muon-pha-sau-ky-luc-the-gioi-tai-london-marathon-2024-4736492.html) - 02:44 20/04/2024
-- 🫶 [Giáo viên Mỹ gốc Việt lần đầu thử thách 21km ở giải chạy VM Huế](https://vnexpress.net/giao-vien-my-goc-viet-lan-dau-thu-thach-21km-o-giai-chay-vm-hue-4736382.html) - 02:00 20/04/2024
-- 🌜 [Runner từng thay van tim rủ vợ chạy bộ khắp Việt Nam](https://vnexpress.net/runner-tung-thay-van-tim-ru-vo-chay-bo-khap-viet-nam-4736346.html) - 01:30 20/04/2024
-- 😺 [Runner sẵn sàng đua VnExpress Marathon](https://video.vnexpress.net/runner-san-sang-dua-vnexpress-marathon-4736330.html) - 01:27 20/04/2024
-- 👍 [Nữ runner 60 tuổi và nguồn cảm hứng từ người chồng quá cố](https://vnexpress.net/nu-runner-60-tuoi-va-nguon-cam-hung-tu-nguoi-chong-qua-co-4736352.html) - 00:31 20/04/2024
-- 🐵 [Haaland có phải là vấn đề của Man City?](https://vnexpress.net/haaland-co-phai-la-van-de-cua-man-city-4735725.html) - 00:26 20/04/2024
-- 💫 [Garnacho đã xin lỗi HLV Ten Hag](https://vnexpress.net/garnacho-da-xin-loi-hlv-ten-hag-4736424.html) - 00:01 20/04/2024
-- 🦆 [Nagelsmann gia hạn với tuyển Đức](https://vnexpress.net/nagelsmann-gia-han-voi-tuyen-duc-4736295.html) - 23:27 19/04/2024
-- 🙉 [HLV Malaysia mong tránh sai lầm sơ đẳng trước Việt Nam](https://vnexpress.net/hlv-malaysia-mong-tranh-sai-lam-so-dang-truoc-viet-nam-4736318.html) - 23:17 19/04/2024
-- 📝 [Kỷ lục gia marathon Trung Quốc bị tước huy chương vì vụ dàn xếp về đích](https://vnexpress.net/ky-luc-gia-marathon-trung-quoc-bi-tuoc-huy-chuong-vi-vu-dan-xep-ve-dich-4736408.html) - 22:00 19/04/2024
-- 💯 [HLV Hoàng Anh Tuấn giảm căng thẳng trước trận Malaysia](https://vnexpress.net/hlv-hoang-anh-tuan-giam-cang-thang-truoc-tran-malaysia-4736397.html) - 21:00 19/04/2024
-- 🌈 [U23 Thái Lan thảm bại trước Arab Saudi](https://vnexpress.net/u23-thai-lan-tham-bai-truoc-arab-saudi-4736400.html) - 20:00 19/04/2024
-- 🦩 [Bib giải Kun Marathon bị làm giả](https://vnexpress.net/bib-giai-kun-marathon-bi-lam-gia-4736306.html) - 17:00 19/04/2024
-- 🐲 [Trung Quốc hết cơ hội ở U23 châu Á 2024](https://vnexpress.net/trung-quoc-het-co-hoi-o-u23-chau-a-2024-4736381.html) - 15:24 19/04/2024
-- 🌁 [Cua-rơ Nga lần thứ bảy thắng chặng giải xe đạp xuyên Việt](https://vnexpress.net/cua-ro-nga-lan-thu-bay-thang-chang-giai-xe-dap-xuyen-viet-4736383.html) - 15:03 19/04/2024
-- 💯 [&#39;VnExpress Marathon dẫn dắt phong trào thể thao Huế&#39;](https://vnexpress.net/vnexpress-marathon-dan-dat-phong-trao-the-thao-hue-4736293.html) - 13:00 19/04/2024
-- 🌝 [Việt Nam hạ Trung Quốc ở giải futsal châu Á 2024](https://vnexpress.net/viet-nam-ha-trung-quoc-o-giai-futsal-chau-a-2024-4736226.html) - 09:16 19/04/2024
-- 🤖 [Trọng tài lại gây tranh cãi trong trận thắng của U23 Qatar](https://vnexpress.net/trong-tai-lai-gay-tranh-cai-trong-tran-thang-cua-u23-qatar-4736224.html) - 08:15 19/04/2024
-- 🕯 [Vụ trộm đồ xuyên thập kỷ ở chiến địa Masters](https://vnexpress.net/vu-trom-do-xuyen-thap-ky-o-chien-dia-masters-4736229.html) - 08:04 19/04/2024
-- 🧰 [Golfer nữ gốc Việt lỡ cơ hội bảo vệ ngôi vô địch major](https://vnexpress.net/golfer-nu-goc-viet-lo-co-hoi-bao-ve-ngoi-vo-dich-major-4736214.html) - 07:45 19/04/2024
-- 🥳 [Klopp sẽ dồn toàn lực cho Ngoại hạng Anh](https://vnexpress.net/klopp-se-don-toan-luc-cho-ngoai-hang-anh-4736208.html) - 07:28 19/04/2024
-- 👍 [Tiền đạo West Ham tố trọng tài thiên vị Leverkusen](https://vnexpress.net/tien-dao-west-ham-to-trong-tai-thien-vi-leverkusen-4731103.html) - 07:16 19/04/2024
-- 💪 [Alcaraz: &#39;Djokovic chưa bao giờ sa sút&#39;](https://vnexpress.net/alcaraz-djokovic-chua-bao-gio-sa-sut-4736026.html) - 04:38 19/04/2024
-- 👹 [Indonesia muốn tái hiện kỳ tích của Việt Nam ở Thường Châu](https://vnexpress.net/indonesia-muon-tai-hien-ky-tich-cua-viet-nam-o-thuong-chau-4736037.html) - 04:37 19/04/2024
+- 🪜 [Đan Quyết: &#39;Chưa phá PR vì theo đuổi marathon lâu dài&#39;](https://vnexpress.net/dan-quyet-chua-pha-pr-vi-theo-duoi-marathon-lau-dai-4736514.html) - 06:00 20/04/2024
+- 🦩 [HLV Ancelotti khóc khi Casemiro về Man Utd](https://vnexpress.net/hlv-ancelotti-khoc-khi-casemiro-ve-man-utd-4736537.html) - 05:49 20/04/2024
+- 🧰 [Việt Nam – Malaysia: Tiến gần vé tứ kết U23 châu Á](https://vnexpress.net/viet-nam-malaysia-tien-gan-ve-tu-ket-u23-chau-a-4736551.html) - 05:24 20/04/2024
+- 🤗 [Malaysia căng thẳng trước trận đấu Việt Nam](https://vnexpress.net/malaysia-cang-thang-truoc-tran-dau-viet-nam-4736521.html) - 03:57 20/04/2024
+- 🥳 [Man City - Chelsea: Quên đi nỗi đau](https://vnexpress.net/man-city-chelsea-quen-di-noi-dau-4736530.html) - 03:53 20/04/2024
+- 🦣 [Guardiola: &#39;Man City không có thời gian để buồn&#39;](https://vnexpress.net/guardiola-man-city-khong-co-thoi-gian-de-buon-4736528.html) - 03:50 20/04/2024
+- 🌜 [Arteta vẫn tiếc trận thua Bayern](https://vnexpress.net/arteta-van-tiec-tran-thua-bayern-4736524.html) - 03:32 20/04/2024
+- 🫶 [CLB Hà Lan xuống hạng vì liên quan Roman Abramovich](https://vnexpress.net/clb-ha-lan-xuong-hang-vi-lien-quan-roman-abramovich-4736447.html) - 03:14 20/04/2024
+- 🌜 [Nông Chang đạp xe xuyên Việt kết hợp chạy marathon](https://vnexpress.net/nong-chang-dap-xe-xuyen-viet-ket-hop-chay-marathon-4736350.html) - 03:00 20/04/2024
+- 😺 [Assefa muốn phá sâu kỷ lục thế giới tại London Marathon 2024](https://vnexpress.net/assefa-muon-pha-sau-ky-luc-the-gioi-tai-london-marathon-2024-4736492.html) - 02:44 20/04/2024
+- 👍 [Giáo viên Mỹ gốc Việt lần đầu thử thách 21km ở giải chạy VM Huế](https://vnexpress.net/giao-vien-my-goc-viet-lan-dau-thu-thach-21km-o-giai-chay-vm-hue-4736382.html) - 02:00 20/04/2024
+- 🐵 [Runner từng thay van tim rủ vợ chạy bộ khắp Việt Nam](https://vnexpress.net/runner-tung-thay-van-tim-ru-vo-chay-bo-khap-viet-nam-4736346.html) - 01:30 20/04/2024
+- 💫 [Runner sẵn sàng đua VnExpress Marathon](https://video.vnexpress.net/runner-san-sang-dua-vnexpress-marathon-4736330.html) - 01:27 20/04/2024
+- 🦆 [Nữ runner 60 tuổi và nguồn cảm hứng từ người chồng quá cố](https://vnexpress.net/nu-runner-60-tuoi-va-nguon-cam-hung-tu-nguoi-chong-qua-co-4736352.html) - 00:31 20/04/2024
+- 🙉 [Haaland có phải là vấn đề của Man City?](https://vnexpress.net/haaland-co-phai-la-van-de-cua-man-city-4735725.html) - 00:26 20/04/2024
+- 📝 [Garnacho đã xin lỗi HLV Ten Hag](https://vnexpress.net/garnacho-da-xin-loi-hlv-ten-hag-4736424.html) - 00:01 20/04/2024
+- 💯 [Nagelsmann gia hạn với tuyển Đức](https://vnexpress.net/nagelsmann-gia-han-voi-tuyen-duc-4736295.html) - 23:27 19/04/2024
+- 🌈 [HLV Malaysia mong tránh sai lầm sơ đẳng trước Việt Nam](https://vnexpress.net/hlv-malaysia-mong-tranh-sai-lam-so-dang-truoc-viet-nam-4736318.html) - 23:17 19/04/2024
+- 🦩 [Kỷ lục gia marathon Trung Quốc bị tước huy chương vì vụ dàn xếp về đích](https://vnexpress.net/ky-luc-gia-marathon-trung-quoc-bi-tuoc-huy-chuong-vi-vu-dan-xep-ve-dich-4736408.html) - 22:00 19/04/2024
+- 🐲 [HLV Hoàng Anh Tuấn giảm căng thẳng trước trận Malaysia](https://vnexpress.net/hlv-hoang-anh-tuan-giam-cang-thang-truoc-tran-malaysia-4736397.html) - 21:00 19/04/2024
+- 🌁 [U23 Thái Lan thảm bại trước Arab Saudi](https://vnexpress.net/u23-thai-lan-tham-bai-truoc-arab-saudi-4736400.html) - 20:00 19/04/2024
+- 💯 [Bib giải Kun Marathon bị làm giả](https://vnexpress.net/bib-giai-kun-marathon-bi-lam-gia-4736306.html) - 17:00 19/04/2024
+- 🌝 [Trung Quốc hết cơ hội ở U23 châu Á 2024](https://vnexpress.net/trung-quoc-het-co-hoi-o-u23-chau-a-2024-4736381.html) - 15:24 19/04/2024
+- 🤖 [Cua-rơ Nga lần thứ bảy thắng chặng giải xe đạp xuyên Việt](https://vnexpress.net/cua-ro-nga-lan-thu-bay-thang-chang-giai-xe-dap-xuyen-viet-4736383.html) - 15:03 19/04/2024
+- 🕯 [&#39;VnExpress Marathon dẫn dắt phong trào thể thao Huế&#39;](https://vnexpress.net/vnexpress-marathon-dan-dat-phong-trao-the-thao-hue-4736293.html) - 13:00 19/04/2024
+- 🧰 [Việt Nam hạ Trung Quốc ở giải futsal châu Á 2024](https://vnexpress.net/viet-nam-ha-trung-quoc-o-giai-futsal-chau-a-2024-4736226.html) - 09:16 19/04/2024
+- 🥳 [Trọng tài lại gây tranh cãi trong trận thắng của U23 Qatar](https://vnexpress.net/trong-tai-lai-gay-tranh-cai-trong-tran-thang-cua-u23-qatar-4736224.html) - 08:15 19/04/2024
+- 👍 [Vụ trộm đồ xuyên thập kỷ ở chiến địa Masters](https://vnexpress.net/vu-trom-do-xuyen-thap-ky-o-chien-dia-masters-4736229.html) - 08:04 19/04/2024
+- 💪 [Golfer nữ gốc Việt lỡ cơ hội bảo vệ ngôi vô địch major](https://vnexpress.net/golfer-nu-goc-viet-lo-co-hoi-bao-ve-ngoi-vo-dich-major-4736214.html) - 07:45 19/04/2024
+- 👹 [Klopp sẽ dồn toàn lực cho Ngoại hạng Anh](https://vnexpress.net/klopp-se-don-toan-luc-cho-ngoai-hang-anh-4736208.html) - 07:28 19/04/2024
+- 🧰 [Tiền đạo West Ham tố trọng tài thiên vị Leverkusen](https://vnexpress.net/tien-dao-west-ham-to-trong-tai-thien-vi-leverkusen-4731103.html) - 07:16 19/04/2024
+- 🚀 [Alcaraz: &#39;Djokovic chưa bao giờ sa sút&#39;](https://vnexpress.net/alcaraz-djokovic-chua-bao-gio-sa-sut-4736026.html) - 04:38 19/04/2024
+- 🎃 [Indonesia muốn tái hiện kỳ tích của Việt Nam ở Thường Châu](https://vnexpress.net/indonesia-muon-tai-hien-ky-tich-cua-viet-nam-o-thuong-chau-4736037.html) - 04:37 19/04/2024
 - 🧰 [HLV Shin Tae-yong sớm nghĩ đến đối thủ ở tứ kết U23 châu Á](https://vnexpress.net/hlv-shin-tae-yong-som-nghi-den-doi-thu-o-tu-ket-u23-chau-a-4736090.html) - 04:34 19/04/2024
-- 🚀 [4 ứng viên sáng giá của ngôi vô địch VnExpress Marathon Huế 2024](https://vnexpress.net/4-ung-vien-sang-gia-cua-ngoi-vo-dich-vnexpress-marathon-hue-2024-4735895.html) - 04:00 19/04/2024
-- 🎃 [VnExpress Marathon Huế sẵn sàng đón runner](https://vnexpress.net/vnexpress-marathon-hue-san-sang-don-runner-4735985.html) - 03:00 19/04/2024
-- 🧰 [Bóng đá Anh thất bại toàn tập ở châu Âu](https://vnexpress.net/bong-da-anh-that-bai-toan-tap-o-chau-au-4735994.html) - 02:57 19/04/2024
-- 👀 [Italy giành năm vé dự Champions League](https://vnexpress.net/italy-gianh-nam-ve-du-champions-league-4735951.html) - 02:54 19/04/2024
-- 🌜 [Nadal dành sức cho Roland Garros](https://vnexpress.net/nadal-danh-suc-cho-roland-garros-4736023.html) - 02:48 19/04/2024
-- 🫶 [Chuyên gia Anh đoán sai cả bốn đội vào bán kết Champions League](https://vnexpress.net/chuyen-gia-anh-doan-sai-ca-bon-doi-vao-ban-ket-champions-league-4735940.html) - 01:20 19/04/2024
-- 🦄 [Vì sao thủ môn Aston Villa không bị đuổi dù nhận hai thẻ vàng?](https://vnexpress.net/vi-sao-thu-mon-aston-villa-khong-bi-duoi-du-nhan-hai-the-vang-4735937.html) - 00:01 19/04/2024
-- 🥳 [Roma loại Milan ở tứ kết Europa League](https://vnexpress.net/roma-loai-milan-o-tu-ket-europa-league-4735941.html) - 00:00 19/04/2024
-- 🐲 [Leverkusen thoát thua phút 89, vào bán kết Europa League](https://vnexpress.net/leverkusen-thoat-thua-phut-89-vao-ban-ket-europa-league-4735933.html) - 23:03 18/04/2024
-- 🧑‍🏫 [Đồng đội U23 Việt Nam không trách Nguyễn Ngọc Thắng](https://vnexpress.net/dong-doi-u23-viet-nam-khong-trach-nguyen-ngoc-thang-4735919.html) - 22:57 18/04/2024
-- 🤔 [Liverpool bị loại ở tứ kết Europa League](https://vnexpress.net/liverpool-bi-loai-o-tu-ket-europa-league-4735932.html) - 21:59 18/04/2024
-- 😺 [Indonesia hạ Australia ở giải U23 châu Á](https://vnexpress.net/indonesia-ha-australia-o-giai-u23-chau-a-4735913.html) - 15:31 18/04/2024
-- 💪 [McIlroy bác bỏ nghi vấn sang LIV Golf League](https://vnexpress.net/mcilroy-bac-bo-nghi-van-sang-liv-golf-league-4735878.html) - 12:29 18/04/2024
-- 💼 [Đình Bắc sớm chia tay giải U23 châu Á](https://vnexpress.net/dinh-bac-som-chia-tay-giai-u23-chau-a-4735887.html) - 11:20 18/04/2024
-- 🕴 [Ten Hag bị châm chọc khi Sancho vào bán kết Champions League](https://vnexpress.net/ten-hag-bi-cham-choc-khi-sancho-vao-ban-ket-champions-league-4735631.html) - 10:29 18/04/2024
-- 🕯 [Người phụ nữ vẽ hố đấu PGA Tour trên khăn ăn](https://vnexpress.net/nguoi-phu-nu-ve-ho-dau-pga-tour-tren-khan-an-4735877.html) - 10:24 18/04/2024
-- 📝 [Tuchel được tôn vinh &#39;bậc thầy chiến thuật&#39; vì khóa chặt Saka](https://vnexpress.net/tuchel-duoc-ton-vinh-bac-thay-chien-thuat-vi-khoa-chat-saka-4735765.html) - 10:23 18/04/2024
-- 🧐 [Alonso: &#39;Đoạt Bundesliga không làm Leverkusen xao nhãng ở Europa League&#39;](https://vnexpress.net/alonso-doat-bundesliga-khong-lam-leverkusen-xao-nhang-o-europa-league-4735870.html) - 10:14 18/04/2024
-- 🙉 [Áo Vàng giải xe đạp xuyên Việt gặp nạn](https://vnexpress.net/ao-vang-giai-xe-dap-xuyen-viet-gap-nan-4735860.html) - 09:44 18/04/2024
-- 🏊 [Ronaldo thắng kiện Juventus hơn 10 triệu USD](https://vnexpress.net/ronaldo-thang-kien-juventus-hon-10-trieu-usd-4735824.html) - 09:14 18/04/2024
-- 🌊 [Gundogan ngầm chê ba cầu thủ Barca sau khi thua PSG](https://vnexpress.net/gundogan-ngam-che-ba-cau-thu-barca-sau-khi-thua-psg-4735766.html) - 07:00 18/04/2024
-- 👨‍🏫 [Góc khuất sau vụ kỷ lục gia marathon Trung Quốc được nhường về nhất](https://vnexpress.net/goc-khuat-sau-vu-ky-luc-gia-marathon-trung-quoc-duoc-nhuong-ve-nhat-4735167.html) - 04:02 18/04/2024
-- 🥷 [HLV Kuwait: &#39;Thua Việt Nam vì thiếu kinh nghiệm&#39;](https://vnexpress.net/hlv-kuwait-thua-viet-nam-vi-thieu-kinh-nghiem-4735774.html) - 03:52 18/04/2024
-- ⚗️ [Ông Đoàn Minh Xương: &#39;Cầu thủ U23 Việt Nam còn non nớt&#39;](https://vnexpress.net/ong-doan-minh-xuong-cau-thu-u23-viet-nam-con-non-not-4735771.html) - 03:32 18/04/2024
-- 🌮 [Hà Thị Hậu muốn vô địch giải trail khắc nghiệt nhất trên UTMB](https://vnexpress.net/ha-thi-hau-muon-vo-dich-giai-trail-khac-nghiet-nhat-tren-utmb-4735088.html) - 02:00 18/04/2024
-- 🤩 [Bellingham không đứng vững cuối trận thắng Man City](https://vnexpress.net/bellingham-khong-dung-vung-cuoi-tran-thang-man-city-4735754.html) - 01:59 18/04/2024
-- 🏊 [Guardiola từ chối bàn về chiến thuật phòng ngự của Real](https://vnexpress.net/guardiola-tu-choi-ban-ve-chien-thuat-phong-ngu-cua-real-4735714.html) - 00:46 18/04/2024
-- 🐎 [Những khoảnh khắc đẹp tại Boston Marathon 2024](https://vnexpress.net/nhung-khoanh-khac-dep-tai-boston-marathon-2024-4735400.html) - 00:36 18/04/2024
-- 💫 [Tuchel nhẹ nhõm khi vào bán kết Champions League](https://vnexpress.net/tuchel-nhe-nhom-khi-vao-ban-ket-champions-league-4735724.html) - 00:31 18/04/2024<!-- vnexpress-the-thao:END -->
+- 👀 [4 ứng viên sáng giá của ngôi vô địch VnExpress Marathon Huế 2024](https://vnexpress.net/4-ung-vien-sang-gia-cua-ngoi-vo-dich-vnexpress-marathon-hue-2024-4735895.html) - 04:00 19/04/2024
+- 🌜 [VnExpress Marathon Huế sẵn sàng đón runner](https://vnexpress.net/vnexpress-marathon-hue-san-sang-don-runner-4735985.html) - 03:00 19/04/2024
+- 🫶 [Bóng đá Anh thất bại toàn tập ở châu Âu](https://vnexpress.net/bong-da-anh-that-bai-toan-tap-o-chau-au-4735994.html) - 02:57 19/04/2024
+- 🦄 [Italy giành năm vé dự Champions League](https://vnexpress.net/italy-gianh-nam-ve-du-champions-league-4735951.html) - 02:54 19/04/2024
+- 🥳 [Nadal dành sức cho Roland Garros](https://vnexpress.net/nadal-danh-suc-cho-roland-garros-4736023.html) - 02:48 19/04/2024
+- 🐲 [Chuyên gia Anh đoán sai cả bốn đội vào bán kết Champions League](https://vnexpress.net/chuyen-gia-anh-doan-sai-ca-bon-doi-vao-ban-ket-champions-league-4735940.html) - 01:20 19/04/2024
+- 🧑‍🏫 [Vì sao thủ môn Aston Villa không bị đuổi dù nhận hai thẻ vàng?](https://vnexpress.net/vi-sao-thu-mon-aston-villa-khong-bi-duoi-du-nhan-hai-the-vang-4735937.html) - 00:01 19/04/2024
+- 🤔 [Roma loại Milan ở tứ kết Europa League](https://vnexpress.net/roma-loai-milan-o-tu-ket-europa-league-4735941.html) - 00:00 19/04/2024
+- 😺 [Leverkusen thoát thua phút 89, vào bán kết Europa League](https://vnexpress.net/leverkusen-thoat-thua-phut-89-vao-ban-ket-europa-league-4735933.html) - 23:03 18/04/2024
+- 💪 [Đồng đội U23 Việt Nam không trách Nguyễn Ngọc Thắng](https://vnexpress.net/dong-doi-u23-viet-nam-khong-trach-nguyen-ngoc-thang-4735919.html) - 22:57 18/04/2024
+- 💼 [Liverpool bị loại ở tứ kết Europa League](https://vnexpress.net/liverpool-bi-loai-o-tu-ket-europa-league-4735932.html) - 21:59 18/04/2024
+- 🕴 [Indonesia hạ Australia ở giải U23 châu Á](https://vnexpress.net/indonesia-ha-australia-o-giai-u23-chau-a-4735913.html) - 15:31 18/04/2024
+- 🕯 [McIlroy bác bỏ nghi vấn sang LIV Golf League](https://vnexpress.net/mcilroy-bac-bo-nghi-van-sang-liv-golf-league-4735878.html) - 12:29 18/04/2024
+- 📝 [Đình Bắc sớm chia tay giải U23 châu Á](https://vnexpress.net/dinh-bac-som-chia-tay-giai-u23-chau-a-4735887.html) - 11:20 18/04/2024
+- 🧐 [Ten Hag bị châm chọc khi Sancho vào bán kết Champions League](https://vnexpress.net/ten-hag-bi-cham-choc-khi-sancho-vao-ban-ket-champions-league-4735631.html) - 10:29 18/04/2024
+- 🙉 [Người phụ nữ vẽ hố đấu PGA Tour trên khăn ăn](https://vnexpress.net/nguoi-phu-nu-ve-ho-dau-pga-tour-tren-khan-an-4735877.html) - 10:24 18/04/2024
+- 🏊 [Tuchel được tôn vinh &#39;bậc thầy chiến thuật&#39; vì khóa chặt Saka](https://vnexpress.net/tuchel-duoc-ton-vinh-bac-thay-chien-thuat-vi-khoa-chat-saka-4735765.html) - 10:23 18/04/2024
+- 🌊 [Alonso: &#39;Đoạt Bundesliga không làm Leverkusen xao nhãng ở Europa League&#39;](https://vnexpress.net/alonso-doat-bundesliga-khong-lam-leverkusen-xao-nhang-o-europa-league-4735870.html) - 10:14 18/04/2024
+- 👨‍🏫 [Áo Vàng giải xe đạp xuyên Việt gặp nạn](https://vnexpress.net/ao-vang-giai-xe-dap-xuyen-viet-gap-nan-4735860.html) - 09:44 18/04/2024
+- 🥷 [Ronaldo thắng kiện Juventus hơn 10 triệu USD](https://vnexpress.net/ronaldo-thang-kien-juventus-hon-10-trieu-usd-4735824.html) - 09:14 18/04/2024
+- ⚗️ [Gundogan ngầm chê ba cầu thủ Barca sau khi thua PSG](https://vnexpress.net/gundogan-ngam-che-ba-cau-thu-barca-sau-khi-thua-psg-4735766.html) - 07:00 18/04/2024
+- 🌮 [Góc khuất sau vụ kỷ lục gia marathon Trung Quốc được nhường về nhất](https://vnexpress.net/goc-khuat-sau-vu-ky-luc-gia-marathon-trung-quoc-duoc-nhuong-ve-nhat-4735167.html) - 04:02 18/04/2024
+- 🤩 [HLV Kuwait: &#39;Thua Việt Nam vì thiếu kinh nghiệm&#39;](https://vnexpress.net/hlv-kuwait-thua-viet-nam-vi-thieu-kinh-nghiem-4735774.html) - 03:52 18/04/2024
+- 🏊 [Ông Đoàn Minh Xương: &#39;Cầu thủ U23 Việt Nam còn non nớt&#39;](https://vnexpress.net/ong-doan-minh-xuong-cau-thu-u23-viet-nam-con-non-not-4735771.html) - 03:32 18/04/2024
+- 🐎 [Hà Thị Hậu muốn vô địch giải trail khắc nghiệt nhất trên UTMB](https://vnexpress.net/ha-thi-hau-muon-vo-dich-giai-trail-khac-nghiet-nhat-tren-utmb-4735088.html) - 02:00 18/04/2024
+- 💫 [Bellingham không đứng vững cuối trận thắng Man City](https://vnexpress.net/bellingham-khong-dung-vung-cuoi-tran-thang-man-city-4735754.html) - 01:59 18/04/2024<!-- vnexpress-the-thao:END -->
