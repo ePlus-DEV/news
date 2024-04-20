@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Nhóm runner U70 Hàn Quốc đi nước ngoài mỗi tháng để chạy bộ](https://vnexpress.net/nhom-runner-u70-han-quoc-di-nuoc-ngoai-moi-thang-de-chay-bo-4736655.html) - 12:28 20/04/2024
-- 🦩 [Việt Nam - Malaysia: Văn Khang, Văn Trường đá chính](https://vnexpress.net/u23-viet-nam-vs-u23-malaysia-4736634.html) - 12:15 20/04/2024
+- 🦩 [Việt Nam 0-0 Malaysia &lpar;H1&rpar;: Minh Khoa suýt ghi bàn](https://vnexpress.net/u23-viet-nam-vs-u23-malaysia-4736634.html) - 12:15 20/04/2024
 - 🧰 [Tiền vệ Hoàng Đức không xuất ngoại](https://vnexpress.net/tien-ve-hoang-duc-khong-xuat-ngoai-4736622.html) - 09:15 20/04/2024
 - 🤗 [&#39;Arsenal nguy cơ thành Tottenham của Pochettino&#39;](https://vnexpress.net/arsenal-nguy-co-thanh-tottenham-cua-pochettino-4736566.html) - 09:10 20/04/2024
 - 🥳 [Nguyễn Văn Lai: &#39;Tôi muốn bảo vệ ngôi vương ở VnExpress Marathon Huế&#39;](https://vnexpress.net/nguyen-van-lai-toi-muon-bao-ve-ngoi-vuong-o-vnexpress-marathon-hue-4736315.html) - 09:00 20/04/2024
