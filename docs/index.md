@@ -259,11 +259,11 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥷 [Nữ luật sư 9X ham học hỏi](https://nld.com.vn/nu-luat-su-9x-ham-hoc-hoi-196240420211416008.htm) - 20:00 20/04/2024
 - 🤔 [Quạt tuần hoàn khác gì quạt thông thường?](https://nld.com.vn/quat-tuan-hoan-khac-gi-quat-thong-thuong-196240420210136367.htm) - 20:00 20/04/2024
 - 🌈 [Háo hức chờ giờ khai mạc](https://nld.com.vn/hao-huc-cho-gio-khai-mac-196240420213653619.htm) - 19:00 20/04/2024
-- 🔥 [Cảnh sát biển cung cấp nước ngọt cho người dân Bến Tre](https://nld.com.vn/canh-sat-bien-cung-cap-nuoc-ngot-cho-nguoi-dan-ben-tre-196240420194039432.htm) - 18:24 20/04/2024
-- 🧰 [Nước mắt hạnh phúc của các runner &quot;nhí&quot;](https://nld.com.vn/nuoc-mat-hanh-phuc-cua-cac-runner-nhi-19624042022004735.htm) - 17:36 20/04/2024
-- 🤗 [Trao 2 giải nhất cho 2 ca khúc viết về &quot;Hành trình mùa xuân lên rừng xuống biển&quot;](https://nld.com.vn/trao-2-giai-nhat-cho-2-ca-khuc-viet-ve-hanh-trinh-mua-xuan-len-rung-xuong-bien-196240420214710753.htm) - 15:32 20/04/2024
-- 🦅 [Hà Nội xuất hiện mưa đá, cây gãy đổ khắp nơi](https://nld.com.vn/ha-noi-xuat-hien-mua-da-cay-gay-do-khap-noi-196240420222254628.htm) - 15:30 20/04/2024
-- 🤩 [Thắng U23 Malaysia, U23 Việt Nam chắc vé vào tứ kết](https://nld.com.vn/thang-u23-malaysia-u23-viet-nam-chac-ve-vao-tu-ket-196240420211836005.htm) - 15:09 20/04/2024
+- 🔥 [U23 Uzbekistan và U23 Việt Nam sớm giành vé vào tứ kết](https://nld.com.vn/thang-u23-malaysia-u23-viet-nam-chac-ve-vao-tu-ket-196240420211836005.htm) - 18:59 20/04/2024
+- 🧰 [Cảnh sát biển cung cấp nước ngọt cho người dân Bến Tre](https://nld.com.vn/canh-sat-bien-cung-cap-nuoc-ngot-cho-nguoi-dan-ben-tre-196240420194039432.htm) - 18:24 20/04/2024
+- 🤗 [Nước mắt hạnh phúc của các runner &quot;nhí&quot;](https://nld.com.vn/nuoc-mat-hanh-phuc-cua-cac-runner-nhi-19624042022004735.htm) - 17:36 20/04/2024
+- 🦅 [Trao 2 giải nhất cho 2 ca khúc viết về &quot;Hành trình mùa xuân lên rừng xuống biển&quot;](https://nld.com.vn/trao-2-giai-nhat-cho-2-ca-khuc-viet-ve-hanh-trinh-mua-xuan-len-rung-xuong-bien-196240420214710753.htm) - 15:32 20/04/2024
+- 🤩 [Hà Nội xuất hiện mưa đá, cây gãy đổ khắp nơi](https://nld.com.vn/ha-noi-xuat-hien-mua-da-cay-gay-do-khap-noi-196240420222254628.htm) - 15:30 20/04/2024
 - 🎭 [Hoa hậu Nguyễn Trang làm vedette khi diễn BST áo dài](https://phunu.nld.com.vn/hoa-hau-nguyen-trang-lam-vedette-khi-dien-bst-ao-dai-196240420154741559.htm) - 15:09 20/04/2024
 - 💄 [Unimedia ra mắt thương hiệu quốc tế Cosmo+](https://phunu.nld.com.vn/unimedia-ra-mat-thuong-hieu-quoc-te-cosmo-196240420213452711.htm) - 15:07 20/04/2024
 - 🎊 [Fintech MoMo lan tỏa văn hóa đọc trên môi trường số](https://phunu.nld.com.vn/fintech-momo-lan-toa-van-hoa-doc-tren-moi-truong-so-196240420213741199.htm) - 15:05 20/04/2024
