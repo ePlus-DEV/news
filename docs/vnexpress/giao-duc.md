@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Tỉnh nào mưa ít nhất cả nước?](https://vnexpress.net/tinh-nao-mua-it-nhat-ca-nuoc-4736403.html) - 13:00 20/04/2024
+- 🤓 [Tỉnh nào ít mưa nhất cả nước?](https://vnexpress.net/tinh-nao-it-mua-nhat-ca-nuoc-4736403.html) - 13:00 20/04/2024
 - 🦆 [Nữ sinh lớp 6 bị đánh hội đồng đến chấn động não](https://vnexpress.net/nu-sinh-lop-6-bi-danh-hoi-dong-den-chan-dong-nao-4736591.html) - 09:34 20/04/2024
 - 🦩 [Phân biệt &#39;I have a boy&#39; và &#39;I had a boy&#39;](https://vnexpress.net/phan-biet-i-have-a-boy-va-i-had-a-boy-4736612.html) - 09:00 20/04/2024
 - 🌮 [Giáo viên Mỹ &#39;đua nhau&#39; bỏ việc](https://vnexpress.net/giao-vien-my-dua-nhau-bo-viec-4736585.html) - 08:28 20/04/2024
