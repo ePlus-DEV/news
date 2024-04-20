@@ -250,7 +250,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Hai cách tập thể dục &quot;lạ&quot; nhưng rất hiệu quả để khống chế tiểu đường](https://nld.com.vn/hai-cach-tap-the-duc-la-nhung-rat-hieu-qua-de-khong-che-tieu-duong-196240419112627852.htm) - 02:58 20/04/2024
-- 😺 [Nghi bị Israel tấn công, Iran nói đã bắn hạ “đồ chơi trẻ em”](https://nld.com.vn/nghi-bi-israel-tan-cong-iran-noi-da-ban-ha-do-choi-tre-em-196240420093113962.htm) - 02:54 20/04/2024
+- 😺 [Nghi bị Israel tấn công, Iran nói đã bắn hạ “đồ chơi trẻ con”](https://nld.com.vn/nghi-bi-israel-tan-cong-iran-noi-da-ban-ha-do-choi-tre-em-196240420093113962.htm) - 02:54 20/04/2024
 - 👍 [Hàng ngàn runner háo hức chờ tranh tài Giải half-marathon &quot;Tự hào Tổ quốc tôi&quot;](https://nld.com.vn/hang-ngan-runner-hao-huc-cho-tranh-tai-giai-half-marathon-tu-hao-to-quoc-toi-196240420093113992.htm) - 02:48 20/04/2024
 - 🥷 [Đừng im lặng khi bị quấy rối tại nơi làm việc](https://nld.com.vn/dung-im-lang-khi-bi-quay-roi-tai-noi-lam-viec-196240420083529611.htm) - 02:46 20/04/2024
 - 🤔 [Giá vàng SJC và vàng nhẫn lại biến động lạ](https://nld.com.vn/gia-vang-sjc-va-vang-nhan-lai-bien-dong-la-196240420092031414.htm) - 02:32 20/04/2024
