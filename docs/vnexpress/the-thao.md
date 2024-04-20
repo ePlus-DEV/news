@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [8.000 VĐV tranh tài VnExpress Marathon Huế mùa 4](https://vnexpress.net/8-000-vdv-tranh-tai-vnexpress-marathon-hue-mua-4-4736696.html) - 19:40 20/04/2024
+- 🪜 [Cự ly 42km xuất phát](https://vnexpress.net/cu-ly-42km-xuat-phat-4736696.html) - 19:40 20/04/2024
 - 🦩 [Uzbekistan chiếm đỉnh bảng của Việt Nam](https://vnexpress.net/uzbekistan-chiem-dinh-bang-cua-viet-nam-4736684.html) - 18:23 20/04/2024
 - 🧰 [HLV Hoàng Anh Tuấn: &#39;U23 Việt Nam thắng xứng đáng&#39;](https://vnexpress.net/hlv-hoang-anh-tuan-u23-viet-nam-thang-xung-dang-4736708.html) - 17:09 20/04/2024
 - 🤗 [Tiền vệ U23 Việt Nam nhắm đến nhất bảng D](https://vnexpress.net/tien-ve-u23-viet-nam-nham-den-nhat-bang-d-4736683.html) - 16:26 20/04/2024
