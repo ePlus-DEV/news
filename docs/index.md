@@ -209,7 +209,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦏 [U23 Việt Nam tạo 2 cột mốc đáng nhớ sau trận thắng U23 Malaysia](https://laodong.vn/bong-da/u23-viet-nam-tao-2-cot-moc-dang-nho-sau-tran-thang-u23-malaysia-1330014.ldo) - 16:09 20/04/2024
 - 🦩 [Hà Nội mưa to gió lớn diện rộng, có nơi bất ngờ xuất hiện mưa đá](https://laodong.vn/moi-truong/ha-noi-mua-to-gio-lon-dien-rong-co-noi-bat-ngo-xuat-hien-mua-da-1330013.ldo) - 16:07 20/04/2024
 - 🦏 [Không muốn đi chung xe với &quot;chồng&quot;, cô gái bị đâm nhiều nhát](https://laodong.vn/phap-luat/khong-muon-di-chung-xe-voi-chong-co-gai-bi-dam-nhieu-nhat-1329980.ldo) - 15:42 20/04/2024
-- 🧰 [Trực tiếp Man City 0-0 Chelsea: Hết hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-man-city-0-0-chelsea-het-hiep-1-1330012.ldo) - 15:31 20/04/2024
+- 🧰 [Trực tiếp Man City 0-0 Chelsea: Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-man-city-0-0-chelsea-hiep-2-1330012.ldo) - 15:31 20/04/2024
 - 🌊 [4 điều kiện để được xét thăng hạng chức danh nghề nghiệp giảng viên chính](https://laodong.vn/ban-doc/4-dieu-kien-de-duoc-xet-thang-hang-chuc-danh-nghe-nghiep-giang-vien-chinh-1329786.ldo) - 15:30 20/04/2024
 - 🔥 [Hà Nội có mưa lớn, cây đổ đè ôtô, cháy nhà trong tối cuối tuần](https://laodong.vn/xa-hoi/ha-noi-co-mua-lon-cay-do-de-oto-chay-nha-trong-toi-cuoi-tuan-1330007.ldo) - 15:23 20/04/2024
 - 🦒 [Nhịp showbiz: Kiều Anh bắt trend hài hước về Kim Ji Won &quot;Nữ hoàng nước mắt&quot;](https://laodong.vn/giai-tri/nhip-showbiz-kieu-anh-bat-trend-hai-huoc-ve-kim-ji-won-nu-hoang-nuoc-mat-1329982.ldo) - 15:18 20/04/2024
