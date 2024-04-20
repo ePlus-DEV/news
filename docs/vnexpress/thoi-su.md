@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Cao tốc Dầu Giây - Phan Thiết nguy cơ không có đơn vị vận hành](https://vnexpress.net/cao-toc-dau-giay-phan-thiet-nguy-co-khong-co-don-vi-van-hanh-4736570.html) - 07:03 20/04/2024
-- 🤓 [Tập đoàn từ hàng chục quốc gia tham dự triển lãm quốc phòng Việt Nam](https://vnexpress.net/tap-doan-tu-hang-chuc-quoc-gia-tham-du-trien-lam-quoc-phong-viet-nam-4736547.html) - 06:38 20/04/2024
+- 🤓 [Hàng chục quốc gia tham dự triển lãm quốc phòng Việt Nam](https://vnexpress.net/hang-chuc-quoc-gia-tham-du-trien-lam-quoc-phong-viet-nam-4736547.html) - 06:38 20/04/2024
 - ⚗️ [Kỷ niệm 1.085 năm Ngô Quyền xưng vương ở Cổ Loa](https://vnexpress.net/ky-niem-1-085-nam-ngo-quyen-xung-vuong-o-co-loa-4736548.html) - 05:19 20/04/2024
 - 🌊 [Hơn 5.300 ngôi nhà hư hỏng do giông lốc](https://vnexpress.net/hon-5-300-ngoi-nha-hu-hong-do-giong-loc-4736536.html) - 04:28 20/04/2024
 - 🎓 [Cuộc sống trong những ngôi nhà trên sông Cầu](https://vnexpress.net/cuoc-song-trong-nhung-ngoi-nha-tren-song-cau-4736388.html) - 03:58 20/04/2024
