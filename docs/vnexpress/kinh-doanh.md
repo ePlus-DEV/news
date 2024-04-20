@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Vì sao giá Bitcoin yên ắng sau đợt &#39;halving&#39;](https://vnexpress.net/vi-sao-gia-bitcoin-yen-ang-sau-dot-halving-4736510.html) - 03:14 20/04/2024
-- 🐲 [Lãnh đạo Techcombank: &#39;Tăng trưởng đột ngột sẽ trả giá&#39;](https://vnexpress.net/lanh-dao-techcombank-tang-truong-dot-ngot-se-tra-gia-4736374.html) - 02:00 20/04/2024
+- 🐲 [Lãnh đạo Techcombank: &#39;Tăng trưởng đột ngột sẽ trả giá&#39;](https://vnexpress.net/lanh-dao-techcombank-tang-truong-dot-ngot-se-tra-gia-4736374-tong-thuat.html) - 02:00 20/04/2024
 - 🔥 [TP HCM tạm giữ nhiều vàng, trang sức không rõ nguồn gốc](https://vnexpress.net/tp-hcm-tam-giu-nhieu-vang-trang-suc-khong-ro-nguon-goc-4736452.html) - 01:38 20/04/2024
 - 🐵 [Dâu tây Sơn La mất mùa, người trồng vẫn lãi cao](https://vnexpress.net/dau-tay-son-la-mat-mua-nguoi-trong-van-lai-cao-4736237.html) - 01:10 20/04/2024
 - 🦅 [Vượt Thái và Ấn Độ, Việt Nam thành nước xuất khẩu gạo lớn nhất vào Singapore](https://vnexpress.net/vuot-thai-va-an-do-viet-nam-thanh-nuoc-xuat-khau-gao-lon-nhat-vao-singapore-4736416.html) - 00:40 20/04/2024
