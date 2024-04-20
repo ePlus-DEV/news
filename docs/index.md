@@ -40,7 +40,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤠 [Nguồn cung dồi dào ghìm đà tăng của giá dầu](https://vnexpress.net/nguon-cung-doi-dao-ghim-da-tang-cua-gia-dau-4736512.html) - 12:33 20/04/2024
 - 🌈 [Nhóm runner U70 Hàn Quốc đi nước ngoài mỗi tháng để chạy bộ](https://vnexpress.net/nhom-runner-u70-han-quoc-di-nuoc-ngoai-moi-thang-de-chay-bo-4736655.html) - 12:28 20/04/2024
 - 🎬 [Ba thách thức lớn của hệ sinh thái đổi mới sáng tạo Việt Nam](https://vnexpress.net/ba-thach-thuc-lon-cua-he-sinh-thai-doi-moi-sang-tao-viet-nam-4736275.html) - 12:19 20/04/2024
-- 🚀 [Việt Nam 0-0 Malaysia &lpar;H1&rpar;: Minh Khoa suýt ghi bàn](https://vnexpress.net/u23-viet-nam-vs-u23-malaysia-4736634.html) - 12:15 20/04/2024
+- 🚀 [Việt Nam 1-0 Malaysia &lpar;hết H1&rpar;: Văn Khang ghi tuyệt phẩm](https://vnexpress.net/u23-viet-nam-vs-u23-malaysia-4736634.html) - 12:15 20/04/2024
 - 🪄 [Vệ tinh Nhật sẽ truyền điện mặt trời về Trái Đất](https://vnexpress.net/ve-tinh-nhat-se-truyen-dien-mat-troi-ve-trai-dat-4736428.html) - 12:02 20/04/2024
 - 😎 [Mark Zuckerberg tiết lộ tình bạn với Jensen Huang](https://vnexpress.net/mark-zuckerberg-tiet-lo-tinh-ban-voi-jensen-huang-4736627.html) - 12:00 20/04/2024
 - 🎊 [Trào lưu rời bỏ nước Mỹ](https://vnexpress.net/trao-luu-roi-bo-nuoc-my-4736606.html) - 12:00 20/04/2024
@@ -72,8 +72,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🕯 [Phân biệt &#39;I have a boy&#39; và &#39;I had a boy&#39;](https://vnexpress.net/phan-biet-i-have-a-boy-va-i-had-a-boy-4736612.html) - 09:00 20/04/2024
 - 💪 [Nguyễn Văn Lai: &#39;Tôi muốn bảo vệ ngôi vương ở VnExpress Marathon Huế&#39;](https://vnexpress.net/nguyen-van-lai-toi-muon-bao-ve-ngoi-vuong-o-vnexpress-marathon-hue-4736315.html) - 09:00 20/04/2024
 - 🧑‍🏫 [Con chim bồ câu thứ hai ở đâu?](https://vnexpress.net/con-chim-bo-cau-thu-hai-o-dau-4732976.html) - 09:00 20/04/2024
-- 🎓 [Vietjet tăng cường chuyến bay Phú Quốc đến Seoul, Đài Bắc](https://vnexpress.net/vietjet-tang-cuong-chuyen-bay-phu-quoc-den-seoul-dai-bac-4736602.html) - 09:00 20/04/2024
-- 💫 [Bí quyết chạy giữa trời oi nóng của runner VnExpress Marathon Huế](https://vnexpress.net/bi-quyet-chay-giua-troi-oi-nong-cua-runner-vnexpress-marathon-hue-4736577.html) - 09:00 20/04/2024<!-- vnexpress:END -->
+- 🎓 [Vietjet tăng cường chuyến bay Phú Quốc đến Seoul, Đài Bắc](https://vnexpress.net/vietjet-tang-cuong-chuyen-bay-phu-quoc-den-seoul-dai-bac-4736602.html) - 09:00 20/04/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
