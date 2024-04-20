@@ -11,7 +11,7 @@ sidebar_position: 7
 - 🔭 [Đại học Kinh tế TP HCM lấy điểm sàn đánh giá năng lực từ 500](https://vnexpress.net/dai-hoc-kinh-te-tp-hcm-lay-diem-san-danh-gia-nang-luc-tu-500-4736286.html) - 12:21 19/04/2024
 - 💡 [Tranh cãi bỏ bài tập về nhà](https://vnexpress.net/tranh-cai-bo-bai-tap-ve-nha-4735910.html) - 12:00 19/04/2024
 - 🥰 [Phụ huynh tát cô giáo vì con bị đánh](https://vnexpress.net/phu-huynh-tat-co-giao-vi-con-bi-danh-4736276.html) - 11:00 19/04/2024
-- 🐲 [Phụ huynh lo sốt vó vì con học trong nắng gắt Sài Gòn](https://vnexpress.net/phu-huynh-lo-sot-vo-vi-con-hoc-trong-nang-gat-sai-gon-4735945.html) - 08:20 19/04/2024
+- 🐲 [Phụ huynh lo lắng vì con đi học trong nắng nóng](https://vnexpress.net/phu-huynh-lo-lang-vi-con-di-hoc-trong-nang-nong-4735945.html) - 08:20 19/04/2024
 - 🦒 [Lý do nhiều trường nội thành Hà Nội giảm chỉ tiêu lớp 10](https://vnexpress.net/ly-do-nhieu-truong-noi-thanh-ha-noi-giam-chi-tieu-lop-10-4736109.html) - 07:00 19/04/2024
 - 🦆 [Cho con nghỉ học cả tuần để phản đối xóa điểm trường lẻ](https://vnexpress.net/cho-con-nghi-hoc-ca-tuan-de-phan-doi-xoa-diem-truong-le-4736042.html) - 05:03 19/04/2024
 - 🧰 [Xu hướng đào tạo, tuyển dụng nhân lực ngành Game Việt Nam](https://vnexpress.net/xu-huong-dao-tao-tuyen-dung-nhan-luc-nganh-game-viet-nam-4735988.html) - 03:20 19/04/2024
