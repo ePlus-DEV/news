@@ -9,7 +9,7 @@ sidebar_position: 5
 - 🧰 [Guardiola chỉ trích việc lên lịch bán kết Cup FA](https://vnexpress.net/guardiola-chi-trich-viec-len-lich-ban-ket-cup-fa-4736718.html) - 23:02 20/04/2024
 - 🤗 [Arsenal trở lại đỉnh bảng Ngoại hạng Anh](https://vnexpress.net/arsenal-tro-lai-dinh-bang-ngoai-hang-anh-4736717.html) - 22:35 20/04/2024
 - 🥳 [Man City loại Chelsea khỏi Cup FA](https://vnexpress.net/man-city-loai-chelsea-khoi-cup-fa-4736716.html) - 22:10 20/04/2024
-- 🦣 [Màn so kè kịch tính giữa Phạm Văn Lai và runner người Kenya](https://vnexpress.net/man-so-ke-kich-tinh-giua-pham-van-lai-va-runner-nguoi-kenya-4736696-tong-thuat.html) - 20:00 20/04/2024
+- 🦣 [Màn so kè kịch tính tranh &#39;ngôi vương&#39; tại  VnExpress Marathon Huế 2024](https://vnexpress.net/man-so-ke-kich-tinh-tranh-ngoi-vuong-tai-vnexpress-marathon-hue-2024-4736696-tong-thuat.html) - 20:00 20/04/2024
 - 🌜 [Uzbekistan chiếm đỉnh bảng của Việt Nam](https://vnexpress.net/uzbekistan-chiem-dinh-bang-cua-viet-nam-4736684.html) - 18:23 20/04/2024
 - 🫶 [HLV Hoàng Anh Tuấn: &#39;U23 Việt Nam thắng xứng đáng&#39;](https://vnexpress.net/hlv-hoang-anh-tuan-u23-viet-nam-thang-xung-dang-4736708.html) - 17:09 20/04/2024
 - 🌜 [Tiền vệ U23 Việt Nam nhắm đến nhất bảng D](https://vnexpress.net/tien-ve-u23-viet-nam-nham-den-nhat-bang-d-4736683.html) - 16:26 20/04/2024
