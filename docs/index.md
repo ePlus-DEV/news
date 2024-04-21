@@ -576,7 +576,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💼 [Đình chỉ giáo viên vụ nghi đánh học sinh chấn thương](https://tienphong.vn/dinh-chi-giao-vien-vu-nghi-danh-hoc-sinh-chan-thuong-post1630856.tpo) - 22:07 21/04/2024
 - 🎊 [Trực tiếp U23 Jordan vs U23 Indonesia &lpar;22h30 ngày 21/4&rpar;: Tử chiến vì tấm vé](https://tienphong.vn/truc-tiep-u23-jordan-vs-u23-indonesia-22h30-ngay-214-tu-chien-vi-tam-ve-post1630853.tpo) - 21:45 21/04/2024
 - 💼 [Midu thông báo cưới](https://tienphong.vn/midu-thong-bao-cuoi-post1630855.tpo) - 21:15 21/04/2024
-- 👺 [Trực tiếp Coventry vs MU 0-1 &lpar;H1&rpar;: Dalot cứu thua MU](https://tienphong.vn/truc-tiep-coventry-vs-mu-0-1-h1-dalot-cuu-thua-mu-post1630808.tpo) - 20:45 21/04/2024
+- 👺 [Trực tiếp Coventry vs MU 0-2 &lpar;Hết H1&rpar;: MU chạm tay vào chiến thắng](https://tienphong.vn/truc-tiep-coventry-vs-mu-0-2-het-h1-mu-cham-tay-vao-chien-thang-post1630808.tpo) - 20:45 21/04/2024
 - 💪 [Phiên chợ đêm bán mực vừa câu từ biển lên bờ](https://tienphong.vn/phien-cho-dem-ban-muc-vua-cau-tu-bien-len-bo-post1630818.tpo) - 20:14 21/04/2024
 - 💃 [Thông tuyến đường sắt Bắc - Nam sau gần 10 ngày sạt lở hầm Bãi Gió](https://tienphong.vn/thong-tuyen-duong-sat-bac-nam-sau-gan-10-ngay-sat-lo-ham-bai-gio-post1630819.tpo) - 19:22 21/04/2024
 - 🦍 [Quân đội Nga giành thêm một khu định cư ở Donetsk](https://tienphong.vn/quan-doi-nga-gianh-them-mot-khu-dinh-cu-o-donetsk-post1630817.tpo) - 19:15 21/04/2024
