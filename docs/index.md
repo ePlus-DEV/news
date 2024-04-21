@@ -213,7 +213,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦏 [Công đoàn Khu kinh tế Hải Phòng trao hơn 3.000 suất quà, trợ cấp Tháng Công nhân](https://laodong.vn/cong-doan/cong-doan-khu-kinh-te-hai-phong-trao-hon-3000-suat-qua-tro-cap-thang-cong-nhan-1330349.ldo) - 15:32 21/04/2024
 - 🦩 [Nỗi khổ của người làm văn phòng do bệnh trĩ](https://laodong.vn/y-te/noi-kho-cua-nguoi-lam-van-phong-do-benh-tri-1330301.ldo) - 15:30 21/04/2024
 - 🦏 [Tuyển futsal Việt Nam làm mọi cách để thắng Thái Lan nhưng bất thành](https://laodong.vn/bong-da/tuyen-futsal-viet-nam-lam-moi-cach-de-thang-thai-lan-nhung-bat-thanh-1330367.ldo) - 14:52 21/04/2024
-- 🧰 [Trực tiếp trận Coventry 3-3 Man United: Hiệp phụ](https://laodong.vn/bong-da-quoc-te/truc-tiep-tran-coventry-3-3-man-united-hiep-phu-1330368.ldo) - 14:34 21/04/2024
+- 🧰 [Trực tiếp trận Coventry 3-3 Man United: Hết hiệp phụ 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-tran-coventry-3-3-man-united-het-hiep-phu-1-1330368.ldo) - 14:34 21/04/2024
 - 🌊 [Hướng dẫn viên trong vụ tai nạn trên sông Tiền đã qua đời](https://laodong.vn/xa-hoi/huong-dan-vien-trong-vu-tai-nan-tren-song-tien-da-qua-doi-1330363.ldo) - 14:32 21/04/2024
 - 🔥 [Donny van de Beek giờ ra sao?](https://laodong.vn/bong-da-quoc-te/donny-van-de-beek-gio-ra-sao-1330357.ldo) - 14:30 21/04/2024
 - 🦒 [Dự báo thời tiết 10 ngày tới từ 21.4 đến 1.5 ở cả ba miền](https://laodong.vn/moi-truong/du-bao-thoi-tiet-10-ngay-toi-tu-214-den-15-o-ca-ba-mien-1330364.ldo) - 14:18 21/04/2024
