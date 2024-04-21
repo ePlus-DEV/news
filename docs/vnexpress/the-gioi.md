@@ -7,7 +7,7 @@ sidebar_position: 2
 - 🎭 [Nga nói gói viện trợ 95 tỷ USD của Mỹ khoét sâu khủng hoảng toàn cầu](https://vnexpress.net/nga-noi-goi-vien-tro-95-ty-usd-cua-my-khoet-sau-khung-hoang-toan-cau-4736759.html) - 02:53 21/04/2024
 - 🕴 [Hai trực thăng quân sự Nhật Bản rơi, 7 người mất tích](https://vnexpress.net/hai-truc-thang-quan-su-nhat-ban-roi-7-nguoi-mat-tich-4736721.html) - 00:23 21/04/2024
 - 🤭 [Hạ viện Mỹ thông qua dự luật viện trợ Ukraine](https://vnexpress.net/ha-vien-my-thong-qua-du-luat-vien-tro-ukraine-4736719.html) - 23:47 20/04/2024
-- 🧑‍💻 [Chiến lược &#39;ôm ghì&#39; của ông Biden giúp kiềm chế Israel](https://vnexpress.net/chien-luoc-om-ghi-cua-ong-biden-giup-kiem-che-israel-4736445.html) - 22:00 20/04/2024
+- 🧑‍💻 [Chiến lược &#39;vừa ôm vừa ghì&#39; giúp ông Biden kiềm chế Israel](https://vnexpress.net/chien-luoc-vua-om-vua-ghi-giup-ong-biden-kiem-che-israel-4736445.html) - 22:00 20/04/2024
 - 🦏 [Tổng thống Palestine muốn cân nhắc lại quan hệ với Mỹ](https://vnexpress.net/tong-thong-palestine-muon-can-nhac-lai-quan-he-voi-my-4736692.html) - 17:10 20/04/2024
 - 🦒 [Mạng lưới giúp Mỹ có thể chuyển vũ khí thần tốc cho Ukraine](https://vnexpress.net/mang-luoi-giup-my-co-the-chuyen-vu-khi-than-toc-cho-ukraine-4736450.html) - 17:00 20/04/2024
 - 🌈 [Sân bay Đan Mạch đóng cửa vì bị dọa đánh bom](https://vnexpress.net/san-bay-dan-mach-dong-cua-vi-bi-doa-danh-bom-4736680.html) - 15:27 20/04/2024
