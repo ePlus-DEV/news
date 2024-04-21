@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Một tuần Dubai tê liệt vì lũ lụt](https://vnexpress.net/mot-tuan-dubai-te-liet-vi-lu-lut-4736845.html) - 10:00 21/04/2024
-- 🕴 [Trung Quốc phát cảnh báo lũ lụt khẩn cấp ở Quảng Đông](https://vnexpress.net/trung-quoc-phat-canh-bao-lu-lut-khan-cap-o-quang-dong-4736824.html) - 07:05 21/04/2024
+- 🕴 [Mực nước sông ở miền nam Trung Quốc cao nhất 50 năm](https://vnexpress.net/muc-nuoc-song-o-mien-nam-trung-quoc-cao-nhat-50-nam-4736824.html) - 07:05 21/04/2024
 - 🤭 [Israel lo Mỹ đưa một đơn vị quân đội vào danh sách trừng phạt](https://vnexpress.net/israel-lo-my-dua-mot-don-vi-quan-doi-vao-danh-sach-trung-phat-4736787.html) - 04:13 21/04/2024
 - 🧑‍💻 [Nga nói gói viện trợ 95 tỷ USD của Mỹ khoét sâu khủng hoảng toàn cầu](https://vnexpress.net/nga-noi-goi-vien-tro-95-ty-usd-cua-my-khoet-sau-khung-hoang-toan-cau-4736759.html) - 02:53 21/04/2024
 - 🦏 [Hai trực thăng quân sự Nhật Bản rơi, 7 người mất tích](https://vnexpress.net/hai-truc-thang-quan-su-nhat-ban-roi-7-nguoi-mat-tich-4736721.html) - 00:23 21/04/2024
