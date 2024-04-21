@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Cựu cục phó Thuế TP HCM xin giảm nhẹ hình phạt](https://vnexpress.net/cuu-cuc-pho-thue-tp-hcm-xin-giam-nhe-hinh-phat-4736775.html) - 03:51 21/04/2024
-- 🥰 [Doanh nhân thành đạt chiếm đoạt 1.200 tỷ đồng của hai đại gia thế nào](https://vnexpress.net/doanh-nhan-thanh-dat-chiem-doat-1-200-ty-dong-cua-hai-dai-gia-the-nao-4736631.html) - 23:00 20/04/2024
+- 🥰 [&#39;Doanh nhân thành đạt&#39; chiếm đoạt 1.200 tỷ đồng của hai đại gia thế nào](https://vnexpress.net/doanh-nhan-thanh-dat-chiem-doat-1-200-ty-dong-cua-hai-dai-gia-the-nao-4736631.html) - 23:00 20/04/2024
 - 🎓 [Hai bị cáo kêu oan, vụ án 14 năm chưa có hồi kết](https://vnexpress.net/hai-bi-cao-keu-oan-vu-an-14-nam-chua-co-hoi-ket-4736656.html) - 17:00 20/04/2024
 - 🤓 [Lời khai của nghi phạm giấu xác cô gái 15 tuổi](https://vnexpress.net/loi-khai-cua-nghi-pham-giau-xac-co-gai-15-tuoi-4736542.html) - 08:05 20/04/2024
 - 🎊 [Thiếu nữ 16 tuổi bị người tình của mẹ sát hại](https://vnexpress.net/thieu-nu-16-tuoi-bi-nguoi-tinh-cua-me-sat-hai-4736556.html) - 05:59 20/04/2024
