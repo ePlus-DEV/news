@@ -262,7 +262,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🔥 [Giọng ca &quot;ngậm kẹo&quot; gây sốt mạng xã hội Phượng Vũ tái xuất](https://nld.com.vn/giong-ca-ngam-keo-gay-sot-mang-xa-hoi-phuong-vu-tai-xuat-196240421113200117.htm) - 05:53 21/04/2024
 - 🧰 [Clip: Chủ tiệm điện thoại tóm gọn tên cướp ma mãnh](https://nld.com.vn/clip-chu-tiem-dien-thoai-tom-gon-ten-cuop-ma-manh-196240421114551743.htm) - 05:52 21/04/2024
 - 🤗 [Đang hát thì bật khóc: chuyện gì xảy ra với Văn Mai Hương tại Nhật?](https://nld.com.vn/dang-hat-thi-bat-khoc-chuyen-gi-xay-ra-voi-van-mai-huong-tai-nhat-196240421113538706.htm) - 05:51 21/04/2024
-- 🦅 [Vì sao thí sinh Vietnam Idol Xuân Định K.Y bị buộc thôi học](https://nld.com.vn/vi-sao-thi-sinh-vietnam-idol-xuan-dinh-ky-bi-buoc-thoi-hoc-19624042111215448.htm) - 05:51 21/04/2024
+- 🦅 [Thí sinh Vietnam Idol từng rất khó khăn nay đã có sản phẩm](https://nld.com.vn/vi-sao-thi-sinh-vietnam-idol-xuan-dinh-ky-bi-buoc-thoi-hoc-19624042111215448.htm) - 05:51 21/04/2024
 - 🤩 [Hà Nhi &quot;liều&quot; làm tour xuyên Việt?](https://nld.com.vn/ha-nhi-lieu-lam-tour-xuyen-viet-196240421115051464.htm) - 05:13 21/04/2024
 - 🎭 [Giải half-marathon &quot;Tự hào Tổ quốc tôi&quot;: Chiến thắng của các runner chuyên nghiệp](https://nld.com.vn/giai-half-marathon-tu-hao-to-quoc-toi-chien-thang-cua-cac-runner-chuyen-nghiep-196240421114302305.htm) - 05:12 21/04/2024
 - 💄 [Trao giải cho các runner xuất sắc Giải half-marathon “Tự hào Tổ quốc tôi”](https://nld.com.vn/podcast/trao-giai-cho-cac-runner-xuat-sac-giai-half-marathon-tu-hao-to-quoc-toi-196240421115522077.htm) - 04:56 21/04/2024
