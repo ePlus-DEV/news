@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Man Utd vào chung kết Cup FA](https://vnexpress.net/man-utd-vao-chung-ket-cup-fa-4736922.html) - 17:25 21/04/2024
+- 🪜 [Man Utd hút chết trước đội hạng dưới ở bán kết Cup FA](https://vnexpress.net/man-utd-hut-chet-truoc-doi-hang-duoi-o-ban-ket-cup-fa-4736922.html) - 17:25 21/04/2024
 - 🦩 [Bekele thua đàn em tại London Marathon 2024](https://vnexpress.net/bekele-thua-dan-em-tai-london-marathon-2024-4736911.html) - 17:00 21/04/2024
 - 🧰 [Việt Nam vào tứ kết futsal châu Á 2024 dù thua Thái Lan](https://vnexpress.net/viet-nam-vao-tu-ket-futsal-chau-a-2024-du-thua-thai-lan-4736886.html) - 13:22 21/04/2024
 - 🤗 [ĐKVĐ Olympic phá sâu kỷ lục thế giới ở giải marathon toàn nữ](https://vnexpress.net/dkvd-olympic-pha-sau-ky-luc-the-gioi-o-giai-marathon-toan-nu-4736902.html) - 12:41 21/04/2024
