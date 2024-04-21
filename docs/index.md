@@ -577,9 +577,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- hoahoctro:START -->
 - 💼 [Quyền Chủ tịch nước Võ Thị Ánh Xuân thăm, tặng quà chiến sĩ Điện Biên](https://tienphong.vn/quyen-chu-tich-nuoc-vo-thi-anh-xuan-tham-tang-qua-chien-si-dien-bien-post1630814.tpo) - 23:42 21/04/2024
 - 🎊 [Đình chỉ giáo viên vụ nghi đánh học sinh chấn thương](https://tienphong.vn/dinh-chi-giao-vien-vu-nghi-danh-hoc-sinh-chan-thuong-post1630856.tpo) - 22:07 21/04/2024
-- 💼 [Trực tiếp U23 Jordan vs U23 Indonesia 1-3 &lpar;H2&rpar;: Jordan rút ngắn cách biệt](https://tienphong.vn/truc-tiep-u23-jordan-vs-u23-indonesia-1-3-h2-jordan-rut-ngan-cach-biet-post1630853.tpo) - 21:45 21/04/2024
+- 💼 [Đại thắng U23 Jordan 4-1, U23 Indonesia làm nên lịch sử ở VCK U23 châu Á](https://tienphong.vn/dai-thang-u23-jordan-4-1-u23-indonesia-lam-nen-lich-su-o-vck-u23-chau-a-post1630853.tpo) - 21:45 21/04/2024
 - 👺 [Midu thông báo cưới](https://tienphong.vn/midu-thong-bao-cuoi-post1630855.tpo) - 21:15 21/04/2024
-- 💪 [Trực tiếp Coventry vs MU 3-3 &lpar;Hiệp phụ 2&rpar;: Hai đội đá luân lưu](https://tienphong.vn/truc-tiep-coventry-vs-mu-3-3-hiep-phu-2-hai-doi-da-luan-luu-post1630808.tpo) - 20:45 21/04/2024
+- 💪 [Chật vật thắng Coventry, MU gặp Man City ở chung kết FA Cup](https://tienphong.vn/chat-vat-thang-coventry-mu-gap-man-city-o-chung-ket-fa-cup-post1630808.tpo) - 20:45 21/04/2024
 - 💃 [Phiên chợ đêm bán mực vừa câu từ biển lên bờ](https://tienphong.vn/phien-cho-dem-ban-muc-vua-cau-tu-bien-len-bo-post1630818.tpo) - 20:14 21/04/2024
 - 🦍 [Thông tuyến đường sắt Bắc - Nam sau gần 10 ngày sạt lở hầm Bãi Gió](https://tienphong.vn/thong-tuyen-duong-sat-bac-nam-sau-gan-10-ngay-sat-lo-ham-bai-gio-post1630819.tpo) - 19:22 21/04/2024
 - 👹 [Quân đội Nga giành thêm một khu định cư ở Donetsk](https://tienphong.vn/quan-doi-nga-gianh-them-mot-khu-dinh-cu-o-donetsk-post1630817.tpo) - 19:15 21/04/2024
