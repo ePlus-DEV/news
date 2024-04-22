@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Ba nghi can nước ngoài cướp cửa hàng điện thoại](https://vnexpress.net/ba-nghi-can-nuoc-ngoai-cuop-cua-hang-dien-thoai-4737157.html) - 06:21 22/04/2024
 - 🥰 [Cựu giám đốc Sở Giáo dục Gia Lai lĩnh án treo](https://vnexpress.net/cuu-giam-doc-so-giao-duc-gia-lai-linh-an-treo-4737136.html) - 05:06 22/04/2024
 - 🎓 [Lái ôtô tông bạn sau khi thua đánh bạc](https://vnexpress.net/lai-oto-tong-ban-sau-khi-thua-danh-bac-4737130.html) - 05:02 22/04/2024
-- 🤓 [Trợ lý Chủ tịch Quốc hội Phạm Thái Hà bị bắt](https://vnexpress.net/tro-ly-chu-tich-quoc-hoi-pham-thai-ha-bi-bat-4735613.html) - 04:15 22/04/2024
+- 🤓 [Phó chủ nhiệm, Trợ lý Chủ tịch Quốc hội bị bắt](https://vnexpress.net/tro-ly-chu-tich-quoc-hoi-pham-thai-ha-bi-bat-4735613.html) - 04:15 22/04/2024
 - 🎊 [Mẹ &#39;nữ sinh giao gà&#39;: Tôi không phải người vì tiền mà không cứu con](https://vnexpress.net/me-nu-sinh-giao-ga-ra-toa-trong-phien-phuc-tham-keu-oan-4736965.html) - 01:57 22/04/2024
 - 🙉 [Lòng tham của nữ phó thị trưởng đa tình](https://vnexpress.net/long-tham-cua-nu-pho-thi-truong-da-tinh-4736920.html) - 17:00 21/04/2024
 - 🤡 [Loạt đại án nghìn tỷ đồng khó thu hồi tài sản](https://vnexpress.net/loat-dai-an-nghin-ty-dong-kho-thu-hoi-tai-san-4736870.html) - 17:00 21/04/2024
