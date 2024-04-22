@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Học phí 10 trường đào tạo ngành Toán hàng đầu thế giới](https://vnexpress.net/hoc-phi-10-truong-dao-tao-nganh-toan-hang-dau-the-gioi-4736925.html) - 09:11 22/04/2024
+- 🤓 [Học phí 10 trường đào tạo ngành Toán tốt nhất thế giới](https://vnexpress.net/hoc-phi-10-truong-dao-tao-nganh-toan-tot-nhat-the-gioi-4736925.html) - 09:11 22/04/2024
 - 🦆 [Phụ huynh đối phó với &#39;kế hoạch nhỏ&#39;](https://vnexpress.net/phu-huynh-doi-pho-voi-ke-hoach-nho-4736377.html) - 07:00 22/04/2024
 - 🦩 [Hơn 160.000 học sinh tham gia VChampions](https://vnexpress.net/hon-160-000-hoc-sinh-tham-gia-vchampions-4737173.html) - 07:00 22/04/2024
 - 🌮 [Loạt từ tiếng Anh không phát âm chữ &#39;L&#39;](https://vnexpress.net/loat-tu-tieng-anh-khong-phat-am-chu-l-4736927.html) - 04:21 22/04/2024
