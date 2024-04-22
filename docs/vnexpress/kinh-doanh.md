@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Phố Wall bắt đầu lo vàng giảm giá](https://vnexpress.net/pho-wall-bat-dau-lo-vang-giam-gia-4736901.html) - 17:05 21/04/2024
+- ⛽️ [Giá vàng tuần này được dự báo tăng tiếp](https://vnexpress.net/gia-vang-tuan-nay-duoc-du-bao-tang-tiep-4736901.html) - 17:05 21/04/2024
 - 🐲 [Công ty bán vàng mã có doanh thu mùa Tết thấp kỷ lục](https://vnexpress.net/cong-ty-ban-vang-ma-co-doanh-thu-mua-tet-thap-ky-luc-4736855.html) - 17:00 21/04/2024
 - 🔥 [IMF: Ấn Độ sẽ vượt Nhật thành nền kinh tế lớn thứ 4 vào năm 2025](https://vnexpress.net/imf-an-do-se-vuot-nhat-thanh-nen-kinh-te-lon-thu-4-vao-nam-2025-4736868.html) - 11:08 21/04/2024
 - 🐵 [Chủ quản công viên Đầm Sen có lãi trở lại](https://vnexpress.net/chu-quan-cong-vien-dam-sen-co-lai-tro-lai-4736823.html) - 08:29 21/04/2024
