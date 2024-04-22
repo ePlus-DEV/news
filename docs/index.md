@@ -581,7 +581,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- hoahoctro:START -->
 - 💼 [U23 Trung Quốc đánh bại U23 UAE trong ngày chia tay giải đấu](https://tienphong.vn/u23-trung-quoc-danh-bai-u23-uae-trong-ngay-chia-tay-giai-dau-post1631187.tpo) - 22:44 22/04/2024
 - 🎊 [Highlights U23 Nhật Bản vs U23 Hàn Quốc: Trả giá vì lãng phí](https://tienphong.vn/highlights-u23-nhat-ban-vs-u23-han-quoc-tra-gia-vi-lang-phi-post1631183.tpo) - 22:24 22/04/2024
-- 💼 [Trực tiếp U23 Thái Lan 0-0 U23 Tajikistan &lpar;H2&rpar;: Poeiphimai bỏ lỡ cơ hội vàng](https://tienphong.vn/truc-tiep-u23-thai-lan-0-0-u23-tajikistan-h2-poeiphimai-bo-lo-co-hoi-vang-post1631176.tpo) - 22:14 22/04/2024
+- 💼 [Trực tiếp U23 Thái Lan 0-1 U23 Tajikistan &lpar;H2&rpar;: Dấu chấm hết cho người Thái!](https://tienphong.vn/truc-tiep-u23-thai-lan-0-1-u23-tajikistan-h2-dau-cham-het-cho-nguoi-thai-post1631176.tpo) - 22:14 22/04/2024
 - 👺 [Vụ đêm nhạc ở Hà Nội vỡ trận vì mưa dông: Ban tổ chức đổi ý](https://tienphong.vn/vu-dem-nhac-o-ha-noi-vo-tran-vi-mua-dong-ban-to-chuc-doi-y-post1631174.tpo) - 22:07 22/04/2024
 - 💪 [Nhà văn Đào Thắng - con rể nhà thơ Nguyễn Đình Thi - qua đời](https://tienphong.vn/nha-van-dao-thang-con-re-nha-tho-nguyen-dinh-thi-qua-doi-post1631168.tpo) - 22:05 22/04/2024
 - 💃 [Sắp đặt hệ thống camera AI trong ga sân bay Đà Nẵng](https://tienphong.vn/sap-dat-he-thong-camera-ai-trong-ga-san-bay-da-nang-post1631163.tpo) - 21:47 22/04/2024
