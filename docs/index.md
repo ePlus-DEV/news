@@ -27,7 +27,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Việt - Lào nhất trí tăng cường kết nối giao thông](https://vnexpress.net/viet-lao-nhat-tri-tang-cuong-ket-noi-giao-thong-4737417.html) - 15:43 22/04/2024
-- 🧰 [Cảnh sát Anh cáo buộc hai công dân làm gián điệp cho Trung Quốc](https://vnexpress.net/canh-sat-anh-cao-buoc-hai-cong-dan-lam-gian-diep-cho-trung-quoc-4737414.html) - 15:31 22/04/2024
+- 🧰 [Anh cáo buộc hai công dân làm gián điệp cho Trung Quốc](https://vnexpress.net/anh-cao-buoc-hai-cong-dan-lam-gian-diep-cho-trung-quoc-4737414.html) - 15:31 22/04/2024
 - 🥰 [Hàn Quốc làm phim về gấu trúc Fu Bao](https://vnexpress.net/han-quoc-lam-phim-ve-gau-truc-fu-bao-4737406.html) - 14:47 22/04/2024
 - 🌏 [Đặt mục tiêu gỡ &#39;thẻ vàng&#39; thủy sản trong năm 2024](https://vnexpress.net/dat-muc-tieu-go-the-vang-thuy-san-trong-nam-2024-4737407.html) - 14:08 22/04/2024
 - 🧐 [Lý do người lương 40 triệu xem ly cà phê 35 nghìn là xa xỉ](https://vnexpress.net/ly-do-nguoi-luong-40-trieu-xem-ly-ca-phe-35-nghin-la-xa-xi-4737314.html) - 14:00 22/04/2024
