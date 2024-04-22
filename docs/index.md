@@ -41,8 +41,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌈 [Hai nút giao trên cao tốc Bắc Nam tạm dừng hoạt động](https://vnexpress.net/hai-nut-giao-tren-cao-toc-bac-nam-tam-dung-hoat-dong-4737392.html) - 13:13 22/04/2024
 - 🎬 [Tỉnh nào nhỏ nhất Đông Nam Bộ?](https://vnexpress.net/tinh-nao-nho-nhat-dong-nam-bo-4737341.html) - 13:00 22/04/2024
 - 🚀 [Lo lắng khi chồng đề nghị về ở chung với bố mẹ chồng](https://vnexpress.net/lo-lang-khi-chong-de-nghi-ve-o-chung-voi-bo-me-chong-4737287.html) - 13:00 22/04/2024
-- 🪄 [Bức thư pháp 900 tuổi đạt giá 40 triệu USD](https://vnexpress.net/buc-thu-phap-900-tuoi-dat-gia-40-trieu-usd-4737228.html) - 13:00 22/04/2024
-- 😎 [Loài cây 100 năm ra hoa một lần](https://vnexpress.net/loai-cay-100-nam-ra-hoa-mot-lan-4736963.html) - 13:00 22/04/2024
+- 🪄 [Loài cây 100 năm ra hoa một lần](https://vnexpress.net/loai-cay-100-nam-ra-hoa-mot-lan-4736963.html) - 13:00 22/04/2024
+- 😎 [Bức thư pháp 900 tuổi đạt giá 40 triệu USD](https://vnexpress.net/buc-thu-phap-900-tuoi-dat-gia-40-trieu-usd-4737228.html) - 13:00 22/04/2024
 - 🎊 [VinFast cùng Chợ Tốt triển khai thu cũ – đổi mới ôtô điện](https://vnexpress.net/vinfast-cung-cho-tot-trien-khai-thu-cu-doi-moi-oto-dien-4737387.html) - 13:00 22/04/2024
 - ⚗️ [Galaxy S24 Ultra giảm đến 12 triệu tại Đức Huy Mobile](https://vnexpress.net/galaxy-s24-ultra-giam-den-12-trieu-tai-duc-huy-mobile-4737344.html) - 13:00 22/04/2024
 - 🫣 [House of Luck - quán cà phê phong cách mới ở Hải Phòng](https://vnexpress.net/house-of-luck-quan-ca-phe-phong-cach-moi-o-hai-phong-4737294.html) - 13:00 22/04/2024
