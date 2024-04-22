@@ -4,13 +4,13 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Đóng một phần nút giao cửa ngõ phía đông TP HCM nguy cơ kẹt xe tăng cao](https://vnexpress.net/dong-mot-phan-nut-giao-cua-ngo-phia-dong-tp-hcm-nguy-co-ket-xe-tang-cao-4736885.html) - 22:00 21/04/2024
+- 🦒 [Cửa ngõ phía đông TP HCM nguy cơ kẹt xe tăng cao](https://vnexpress.net/cua-ngo-phia-dong-tp-hcm-nguy-co-ket-xe-tang-cao-4736885.html) - 22:00 21/04/2024
 - 🤓 [Cao tốc Phan Thiết - Dầu Giây bị cắt điện vì &#39;nợ tiền&#39;](https://vnexpress.net/cao-toc-phan-thiet-dau-giay-bi-cat-dien-vi-no-tien-4736919.html) - 17:00 21/04/2024
 - ⚗️ [Nỗi lòng của cô gái luôn nhận phần thiệt về mình](https://vnexpress.net/noi-long-cua-co-gai-luon-nhan-phan-thiet-ve-minh-4736846.html) - 17:00 21/04/2024
 - 🌊 [Hướng dẫn viên vụ tai nạn trên sông Tiền không qua khỏi](https://vnexpress.net/huong-dan-vien-vu-tai-nan-tren-song-tien-khong-qua-khoi-4736906.html) - 13:48 21/04/2024
 - 🎓 [Tôm nuôi chết hàng loạt](https://vnexpress.net/tom-nuoi-chet-hang-loat-4736881.html) - 12:08 21/04/2024
 - 🔥 [Thông hầm Bãi Gió, nối lại đường sắt Bắc Nam](https://vnexpress.net/thong-ham-bai-gio-noi-lai-duong-sat-bac-nam-4736890.html) - 11:25 21/04/2024
-- 🦏 [Lễ hội cầu ngư Hà Tĩnh được công nhận là di sản văn hóa](https://vnexpress.net/le-hoi-cau-ngu-ha-tinh-duoc-cong-nhan-la-di-san-van-hoa-4736861.html) - 10:56 21/04/2024
+- 🦏 [Lễ hội cầu ngư Hà Tĩnh được công nhận di sản văn hóa](https://vnexpress.net/le-hoi-cau-ngu-ha-tinh-duoc-cong-nhan-di-san-van-hoa-4736861.html) - 10:56 21/04/2024
 - 👺 [Miền Bắc mưa giông trước khi đón nắng nóng diện rộng](https://vnexpress.net/mien-bac-mua-giong-truoc-khi-don-nang-nong-dien-rong-4736799.html) - 05:16 21/04/2024
 - 🧑‍🏫 [Khởi công cao tốc Hữu Nghị - Chi Lăng](https://vnexpress.net/khoi-cong-cao-toc-huu-nghi-chi-lang-4736760.html) - 04:10 21/04/2024
 - 🚦 [Xe tải va chạm ôtô khách, một người tử vong](https://vnexpress.net/xe-tai-va-cham-oto-khach-mot-nguoi-tu-vong-4736746.html) - 02:43 21/04/2024
