@@ -6,7 +6,7 @@ sidebar_position: 11
 <!-- vnexpress-du-lich:START -->
 - 💂 [Trải nghiệm làm sushi Nhật Bản ở Hà Nội](https://vnexpress.net/trai-nghiem-lam-sushi-nhat-ban-o-ha-noi-4736934.html) - 04:55 22/04/2024
 - 🪄 [5 điểm du lịch 30/4 không cần bay từ TP HCM](https://vnexpress.net/5-diem-du-lich-30-4-khong-can-bay-tu-tp-hcm-4736843.html) - 03:18 22/04/2024
-- 🦅 [Mùa hoa tím trên bán đảo Sơn Trà](https://vnexpress.net/mua-hoa-tim-tren-ban-dao-son-tra-4736938.html) - 02:41 22/04/2024
+- 🦅 [Hoa tím rực bán đảo Sơn Trà](https://vnexpress.net/hoa-tim-ruc-ban-dao-son-tra-4736938.html) - 02:41 22/04/2024
 - 🕴 [Kinh nghiệm hành hương viếng miếu Bà Chúa Xứ núi Sam](https://vnexpress.net/kinh-nghiem-hanh-huong-vieng-mieu-ba-chua-xu-nui-sam-4733141.html) - 02:00 22/04/2024
 - 👀 [Nghỉ dưỡng 5 sao giữa lòng TP HCM từ 3,5 triệu đồng](https://vnexpress.net/nghi-duong-5-sao-giua-long-tp-hcm-tu-3-5-trieu-dong-4732998.html) - 02:00 22/04/2024
 - 🎭 [Mì ăn bằng cọng hành thay đũa](https://vnexpress.net/mi-an-bang-cong-hanh-thay-dua-4734872.html) - 01:00 22/04/2024
