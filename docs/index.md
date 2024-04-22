@@ -145,7 +145,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Đánh bại Nhật Bản, U.23 Indonesia đấu Indonesia ở tứ kết, HLV Shin Tae-yong có vừa ý?](https://thanhnien.vn/danh-bai-nhat-ban-u23-indonesia-dau-indonesia-o-tu-ket-hlv-shin-tae-yong-co-vua-y-185240422220559455.htm) - 15:25 22/04/2024
+- 🤠 [Đánh bại Nhật Bản, U.23 Hàn Quốc đấu Indonesia ở tứ kết, HLV Shin Tae-yong có vừa ý?](https://thanhnien.vn/danh-bai-nhat-ban-u23-indonesia-dau-indonesia-o-tu-ket-hlv-shin-tae-yong-co-vua-y-185240422220559455.htm) - 15:25 22/04/2024
 - 🥸 [Vụt sáng sau Truy phong giả, U50 &#39;Thẩm Đồ Nam&#39; Vương Dương thành mẫu cưng nhà Hermès?](https://thanhnien.vn/thoi-trang-tre/vut-sang-sau-truy-phong-gia-u50-tham-do-nam-vuong-duong-thanh-mau-cung-nha-hermes-185240422040301947.htm) - 15:00 22/04/2024
 - 🌁 [Những món quà lưu niệm cực chất khi đến phố cổ Hội An](https://thanhnien.vn/thoi-trang-tre/nhung-mon-qua-luu-niem-cuc-chat-khi-den-pho-co-hoi-an-18524042117310579.htm) - 15:00 22/04/2024
 - 🤡 [Bắt đầu xét xử cựu Tổng thống Trump vụ chi tiền bịt miệng](https://thanhnien.vn/bat-dau-xet-xu-cuu-tong-thong-trump-vu-chi-tien-bit-mieng-185240422214300724.htm) - 14:46 22/04/2024
