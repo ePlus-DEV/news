@@ -6,7 +6,7 @@ sidebar_position: 6
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Sự thật về hai cậu bé đạp xe tìm mẹ](https://vnexpress.net/su-that-ve-hai-cau-be-dap-xe-tim-me-4737050.html) - 03:23 22/04/2024
 - 🎓 [Màu sắc cosplay trên đường chạy VnExpress Marathon Huế 2024](https://vnexpress.net/mau-sac-cosplay-tren-duong-chay-vnexpress-marathon-hue-2024-4736878.html) - 02:48 22/04/2024
-- 🚦 [Rời quê trở lại phố](https://vnexpress.net/roi-que-tro-lai-pho-4730796.html) - 23:00 21/04/2024
+- 🚦 [Lần thứ hai từ quê ra phố](https://vnexpress.net/lan-thu-hai-tu-que-ra-pho-4730796.html) - 23:00 21/04/2024
 - 🦣 [Nỗi lòng của cô gái luôn nhận phần thiệt về mình](https://vnexpress.net/noi-long-cua-co-gai-luon-nhan-phan-thiet-ve-minh-4736846.html) - 17:00 21/04/2024
 - 🎓 [Mâm cơm dân dã xưa Hà Nội ngày chớm hè](https://vnexpress.net/mam-com-dan-da-xua-ha-noi-ngay-chom-he-4736829.html) - 11:00 21/04/2024
 - 🎭 [Mặt trái của &#39;Hội chứng con vịt nổi&#39;](https://vnexpress.net/mat-trai-cua-hoi-chung-con-vit-noi-4736853.html) - 08:55 21/04/2024
