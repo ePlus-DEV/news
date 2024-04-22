@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Giây phút cứu 7 công nhân trong máy nghiền bất thành](https://vnexpress.net/giay-phut-cuu-7-cong-nhan-trong-may-nghien-bat-thanh-4737427.html) - 19:07 22/04/2024
+- 🦒 [Giây phút cứu 7 công nhân trong khoang máy nghiền bất thành](https://vnexpress.net/giay-phut-cuu-7-cong-nhan-trong-khoang-may-nghien-bat-thanh-4737427.html) - 19:07 22/04/2024
 - 🤓 [Hiện trường tai nạn máy nghiền khiến 7 công nhân tử vong](https://vnexpress.net/hien-truong-tai-nan-may-nghien-khien-7-cong-nhan-tu-vong-4737429.html) - 17:15 22/04/2024
 - ⚗️ [Hiện trạng tàu du lịch bị &#39;xé toang&#39; sau tai nạn trên sông Tiền](https://vnexpress.net/hien-trang-tau-du-lich-bi-xe-toang-sau-tai-nan-tren-song-tien-4737395.html) - 17:00 22/04/2024
 - 🌊 [Kiến nghị di dời khẩn cấp 32 hộ ở bán đảo Thanh Đa](https://vnexpress.net/kien-nghi-di-doi-khan-cap-32-ho-o-ban-dao-thanh-da-4737393.html) - 17:00 22/04/2024
