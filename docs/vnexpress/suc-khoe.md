@@ -28,7 +28,7 @@ sidebar_position: 10
 - 🏊 [Trẻ ho nhiều về đêm cảnh báo bệnh gì?](https://vnexpress.net/tre-ho-nhieu-ve-dem-canh-bao-benh-gi-4736663.html) - 01:00 21/04/2024
 - 📝 [Rước họa vì tưởng uống vitamin &#39;càng nhiều càng tốt&#39;](https://vnexpress.net/ruoc-hoa-vi-tuong-uong-vitamin-cang-nhieu-cang-tot-4735839.html) - 23:06 20/04/2024
 - 💯 [Lợi ích của chuối với người bệnh viêm khớp](https://vnexpress.net/loi-ich-cua-chuoi-voi-nguoi-benh-viem-khop-4736532.html) - 23:00 20/04/2024
-- 🌊 [Dị ứng với thú cưng](https://vnexpress.net/di-ung-voi-thu-cung-4735723.html) - 22:00 20/04/2024
+- 🌊 [Dị ứng với thú cưng](https://vnexpress.net/suc-khoe-cam-nang-cac-benh-di-ung-voi-thu-cung-4735723.html) - 22:00 20/04/2024
 - 🚀 [Bạn có hiểu sai nguyên nhân gây ung thư?](https://vnexpress.net/ban-co-hieu-sai-nguyen-nhan-gay-ung-thu-4736564.html) - 20:00 20/04/2024
 - 🕴 [Ngất xỉu](https://vnexpress.net/ngat-xiu-4736550.html) - 19:00 20/04/2024
 - 🗽 [Cắt tóc thường xuyên có giúp tóc mọc nhanh hơn?](https://vnexpress.net/cat-toc-thuong-xuyen-co-giup-toc-moc-nhanh-hon-4736389.html) - 18:00 20/04/2024
