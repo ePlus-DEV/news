@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Giây phút cứu 7 công nhân trong máy nghiền bất thành](https://vnexpress.net/giay-phut-cuu-7-cong-nhan-trong-may-nghien-bat-thanh-4737427.html) - 19:07 22/04/2024
+- 🎬 [Giây phút cứu 7 công nhân trong khoang máy nghiền bất thành](https://vnexpress.net/giay-phut-cuu-7-cong-nhan-trong-khoang-may-nghien-bat-thanh-4737427.html) - 19:07 22/04/2024
 - 🐎 [&#39;Điện mặt trời mái nhà tự dùng khó hấp dẫn nếu bán 0 đồng&#39;](https://vnexpress.net/dien-mat-troi-mai-nha-tu-dung-kho-hap-dan-neu-ban-0-dong-4737389.html) - 18:01 22/04/2024
 - 🦍 [Thủ khoa đầu vào thạc sĩ bị đánh trượt vì ngược đãi mèo](https://vnexpress.net/thu-khoa-dau-vao-thac-si-bi-danh-truot-vi-nguoc-dai-meo-4737435.html) - 17:50 22/04/2024
 - 🏊 [Hiện trường tai nạn máy nghiền khiến 7 công nhân tử vong](https://vnexpress.net/hien-truong-tai-nan-may-nghien-khien-7-cong-nhan-tu-vong-4737429.html) - 17:15 22/04/2024
