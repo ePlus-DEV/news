@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Loạt từ tiếng Anh không phát âm chữ &#39;L&#39;](https://vnexpress.net/loat-tu-tieng-anh-khong-phat-am-chu-l-4736927.html) - 04:21 22/04/2024
 - 🦆 [Trường THPT Hà Đông trao học bổng toàn phần du học Canada](https://vnexpress.net/truong-thpt-ha-dong-trao-hoc-bong-toan-phan-du-hoc-canada-4735588.html) - 03:00 22/04/2024
-- 🦩 [Trường mầm non công lập dự kiến tăng học phí, lên gần 8 triệu đồng](https://vnexpress.net/truong-mam-non-cong-lap-du-kien-tang-hoc-phi-len-gan-8-trieu-dong-4736935.html) - 00:31 22/04/2024
+- 🦩 [Trường mầm non công lập dự kiến học phí gần 8 triệu đồng](https://vnexpress.net/truong-mam-non-cong-lap-du-kien-hoc-phi-gan-8-trieu-dong-4736935.html) - 00:31 22/04/2024
 - 🌮 [Nữ sinh Hải Phòng dẫn đầu đợt tốt nghiệp sớm trường Ngoại thương](https://vnexpress.net/nu-sinh-hai-phong-dan-dau-dot-tot-nghiep-som-truong-ngoai-thuong-4736904.html) - 23:40 21/04/2024
 - 🔭 [Chi phí đại học Mỹ tiến sát 100.000 USD mỗi năm](https://vnexpress.net/chi-phi-dai-hoc-my-tien-sat-100-000-usd-moi-nam-4736930.html) - 17:50 21/04/2024
 - 💡 [Tỉnh nào được mệnh danh là xứ trầm hương?](https://vnexpress.net/tinh-nao-duoc-menh-danh-la-xu-tram-huong-4736833.html) - 13:00 21/04/2024
