@@ -264,7 +264,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 👍 [Nhiều nghệ sĩ nổi tiếng biểu diễn miễn phí ở Đà Lạt dịp lễ](https://nld.com.vn/nhieu-nghe-si-noi-tieng-bieu-dien-mien-phi-o-da-lat-dip-le-19624042320213269.htm) - 14:00 23/04/2024
 - 🥷 [TP HCM: Cấm điểm thu đổi ngoại tệ bán USD cho khách trái quy định](https://nld.com.vn/tp-hcm-cam-diem-thu-doi-ngoai-te-ban-usd-cho-khach-trai-quy-dinh-196240423203950753.htm) - 13:52 23/04/2024
 - 🤔 [Bắn pháo hoa, tung chiêu kích cầu du lịch](https://nld.com.vn/ban-phao-hoa-tung-chieu-kich-cau-du-lich-196240423192803466.htm) - 13:23 23/04/2024
-- 🌈 [Vụ tai nạn lao 7 người tử vong: Xem xét trách nhiệm hình sự nếu có](https://nld.com.vn/vu-tai-nan-lao-7-nguoi-tu-vong-xem-xet-trach-nhiem-hinh-su-neu-co-196240423200819822.htm) - 13:19 23/04/2024
+- 🌈 [Vụ tai nạn lao động 7 người tử vong: Xem xét trách nhiệm hình sự nếu có](https://nld.com.vn/vu-tai-nan-lao-7-nguoi-tu-vong-xem-xet-trach-nhiem-hinh-su-neu-co-196240423200819822.htm) - 13:19 23/04/2024
 - 🔥 [Mộc Châu được công nhận là Khu du lịch quốc gia](https://nld.com.vn/moc-chau-duoc-cong-nhan-la-khu-du-lich-quoc-gia-196240423194642526.htm) - 13:15 23/04/2024
 - 🧰 [Hà Nội bắn pháo hoa dịp kỷ niệm 70 năm Ngày Giải phóng Thủ đô](https://nld.com.vn/ha-noi-ban-phao-hoa-dip-ky-niem-70-nam-ngay-giai-phong-thu-do-196240423195221955.htm) - 13:13 23/04/2024
 - 🤗 [Tối 23-4, giá vàng nhẫn 24K diễn biến bất ngờ](https://nld.com.vn/toi-23-4-gia-vang-nhan-24k-dien-bien-bat-ngo-196240423195148712.htm) - 13:09 23/04/2024
