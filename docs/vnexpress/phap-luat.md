@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Phó chủ tịch Vĩnh Phúc Nguyễn Văn Khước bị bắt](https://vnexpress.net/pho-chu-tich-vinh-phuc-nguyen-van-khuoc-bi-bat-4737960.html) - 12:10 23/04/2024
+- 😎 [Phó chủ tịch tỉnh Vĩnh Phúc Nguyễn Văn Khước bị bắt](https://vnexpress.net/pho-chu-tich-vinh-phuc-nguyen-van-khuoc-bi-bat-4737960.html) - 12:10 23/04/2024
 - 🥰 [&#39;Hợp đồng&#39; đập phá ôtô giá 10 triệu đồng](https://vnexpress.net/hop-dong-dap-pha-oto-gia-10-trieu-dong-4737944.html) - 11:51 23/04/2024
 - 🎓 [Chủ quán karaoke bị bắt vì &#39;cầm đầu vụ chém hai anh em&#39;](https://vnexpress.net/chu-quan-karaoke-bi-bat-vi-cam-dau-vu-chem-hai-anh-em-4737931.html) - 11:21 23/04/2024
 - 🤓 [Thỏi vàng giả 5 triệu, rao bán 830 triệu đồng](https://vnexpress.net/thoi-vang-gia-5-trieu-rao-ban-830-trieu-dong-4737901.html) - 10:53 23/04/2024
