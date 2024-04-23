@@ -261,7 +261,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧰 [Rực rỡ “Đường cờ Tổ quốc” tại Cù Lao Rùa ở Bình Dương](https://nld.com.vn/ruc-ro-duong-co-to-quoc-tai-cu-lao-rua-o-binh-duong-196240423175624775.htm) - 11:32 23/04/2024
 - 🤗 [TP HCM: Khối thi đua 5 ký kết giao ước thi đua năm 2024](https://nld.com.vn/tp-hcm-khoi-thi-dua-5-ky-ket-giao-uoc-thi-dua-nam-2024-196240423181526934.htm) - 11:27 23/04/2024
 - 🦅 [Nguyên phi công Đoàn bay 919 kể về giây phút sinh tử giữa không trung](https://nld.com.vn/nguyen-phi-cong-doan-bay-919-ke-ve-giay-phut-sinh-tu-giua-khong-trung-196240423170923356.htm) - 11:07 23/04/2024
-- 🤩 [Bị cáo trần Quí Thanh trình bày mong muốn tại tòa](https://nld.com.vn/bi-cao-tran-qui-thanh-trinh-bay-mong-muon-tai-toa-196240423142245546.htm) - 11:04 23/04/2024
+- 🤩 [Bị cáo Trần Quí Thanh trình bày mong muốn tại tòa](https://nld.com.vn/bi-cao-tran-qui-thanh-trinh-bay-mong-muon-tai-toa-196240423142245546.htm) - 11:04 23/04/2024
 - 🎭 [Nỗi lo sợ từ 1 công trình còn dang dở ở Hà Tĩnh](https://nld.com.vn/noi-lo-so-tu-1-cong-trinh-con-dang-do-o-ha-tinh-196240423173347254.htm) - 10:59 23/04/2024
 - 💄 [Novaland lên kế hoạch &quot;thu hút&quot; hơn 11.700 tỉ đồng từ cổ đông](https://nld.com.vn/novaland-len-ke-hoach-thu-hut-hon-11700-ti-dong-tu-co-dong-196240423170812602.htm) - 10:46 23/04/2024
 - 🎊 [Cán bộ xã tham gia đường dây “dựng màn kịch” bán thỏi vàng giả nặng 1 kg](https://nld.com.vn/can-bo-xa-tham-gia-duong-day-dung-man-kich-ban-thoi-vang-gia-nang-1-kg-19624042316432511.htm) - 10:42 23/04/2024
