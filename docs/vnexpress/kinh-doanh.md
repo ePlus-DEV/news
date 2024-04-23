@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [Dubai hoãn nợ, sửa nhà miễn phí sau lụt](https://vnexpress.net/dubai-hoan-no-sua-nha-mien-phi-sau-lut-4737623.html) - 04:19 23/04/2024
 - 🐲 [Trump sắp có thêm hơn 1 tỷ USD](https://vnexpress.net/trump-sap-co-them-hon-1-ty-usd-4737581.html) - 04:15 23/04/2024
 - 🔥 [Công ty liên quan Vạn Thịnh Phát chậm trả gần 5.900 tỷ nợ trái phiếu](https://vnexpress.net/cong-ty-lien-quan-van-thinh-phat-cham-tra-gan-5-900-ty-no-trai-phieu-4737593.html) - 03:43 23/04/2024
-- 🐵 [Giá vàng miếng lùi về 82 triệu đồng](https://vnexpress.net/gia-vang-mieng-lui-ve-82-trieu-dong-4737580.html) - 03:15 23/04/2024
+- 🐵 [Giá vàng miếng quay đầu tăng](https://vnexpress.net/gia-vang-mieng-quay-dau-tang-4737580.html) - 03:15 23/04/2024
 - 🦅 [Giá vàng thế giới giảm sâu nhất hơn một năm](https://vnexpress.net/gia-vang-the-gioi-giam-sau-nhat-hon-mot-nam-4737451.html) - 23:59 22/04/2024
 - 😺 [&#39;Không ai muốn đầu tư để bán điện mặt trời mái nhà 0 đồng&#39;](https://vnexpress.net/dien-mat-troi-mai-nha-tu-dung-kho-hap-dan-neu-ban-0-dong-4737389.html) - 18:01 22/04/2024
 - 🤩 [Nỗi lo chồng chất với ngành thép Trung Quốc](https://vnexpress.net/noi-lo-chong-chat-voi-nganh-thep-trung-quoc-4737083.html) - 17:00 22/04/2024
