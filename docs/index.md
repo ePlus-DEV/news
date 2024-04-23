@@ -151,16 +151,16 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 24.4.2024](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-2442024-185240422141152197.htm) - 15:31 23/04/2024
-- 🥸 [Tàu liên vận quốc tế tại ga Cao Xá chạy chuyến đầu tiên vào ngày 2.5](https://thanhnien.vn/tau-lien-van-quoc-te-tai-ga-cao-xa-chay-chuyen-dau-tien-vao-ngay-25-185240423200415857.htm) - 15:12 23/04/2024
-- 🌁 [Khởi tố 2 nữ giám đốc mua bán trái phép hóa đơn cho chi cục đăng kiểm](https://thanhnien.vn/khoi-to-2-nu-giam-doc-mua-ban-trai-phep-hoa-don-cho-chi-cuc-dang-kiem-185240423214820267.htm) - 15:06 23/04/2024
-- 🤡 [Israel đẩy mạnh tấn công khắp Gaza, ra lệnh sơ tán gấp ở miền bắc](https://thanhnien.vn/israel-day-manh-tan-cong-khap-gaza-ra-lenh-so-tan-gap-o-mien-bac-185240423213145056.htm) - 15:06 23/04/2024
-- 🎉 [Đến Nhật Bản thì hãy mua những món quà ý nghĩa này dành tặng cho người thân](https://thanhnien.vn/thoi-trang-tre/den-nhat-ban-thi-hay-mua-nhung-mon-qua-y-nghia-nay-danh-tang-cho-nguoi-than-185240422215151728.htm) - 15:00 23/04/2024
-- 🎊 [Khi học sinh nước ngoài thi đọc... tiếng Việt](https://thanhnien.vn/khi-hoc-sinh-nuoc-ngoai-thi-doc-tieng-viet-185240423205857316.htm) - 14:56 23/04/2024
-- 🤠 [Tại sao chúng ta cần phác đồ cá nhân hóa khi điều trị vấn đề về da?](https://thanhnien.vn/tai-sao-chung-ta-can-phac-do-ca-nhan-hoa-khi-dieu-tri-van-de-ve-da-185240423210633355.htm) - 14:52 23/04/2024
-- 💼 [Vụ tai nạn lao động khiến 7 người chết ở Yên Bái: Bắt 1 nhân viên](https://thanhnien.vn/vu-tai-nan-lao-dong-khien-7-nguoi-chet-o-yen-bai-bat-1-nhan-vien-18524042321282452.htm) - 14:50 23/04/2024
-- 🐻 [Trường đại học, viện nghiên cứu có thể giúp gì cho sự phát triển đô thị?](https://thanhnien.vn/truong-dai-hoc-vien-nghien-cuu-co-the-giup-gi-cho-su-phat-trien-do-thi-185240423195115272.htm) - 14:26 23/04/2024
-- 🤔 [VCK châu Á 2024, U.23 Việt Nam 0-1 U.23 Uzbekistan: Odilov mở tỷ số](https://thanhnien.vn/vck-chau-a-2024-u23-viet-nam-0-0-u23-uzbekistan-cung-ne-ngoi-dau-bang-185240423172717009.htm) - 14:26 23/04/2024
+- 🤠 [VCK châu Á 2024, U.23 Việt Nam 0-3 U.23 Uzbekistan: Odilov lập cú đúp](https://thanhnien.vn/vck-chau-a-2024-u23-viet-nam-0-1-u23-uzbekistan-odilov-mo-ty-so-185240423231004771.htm) - 16:10 23/04/2024
+- 🥸 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 24.4.2024](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-2442024-185240422141152197.htm) - 15:31 23/04/2024
+- 🌁 [Tàu liên vận quốc tế tại ga Cao Xá chạy chuyến đầu tiên vào ngày 2.5](https://thanhnien.vn/tau-lien-van-quoc-te-tai-ga-cao-xa-chay-chuyen-dau-tien-vao-ngay-25-185240423200415857.htm) - 15:12 23/04/2024
+- 🤡 [Khởi tố 2 nữ giám đốc mua bán trái phép hóa đơn cho chi cục đăng kiểm](https://thanhnien.vn/khoi-to-2-nu-giam-doc-mua-ban-trai-phep-hoa-don-cho-chi-cuc-dang-kiem-185240423214820267.htm) - 15:06 23/04/2024
+- 🎉 [Israel đẩy mạnh tấn công khắp Gaza, ra lệnh sơ tán gấp ở miền bắc](https://thanhnien.vn/israel-day-manh-tan-cong-khap-gaza-ra-lenh-so-tan-gap-o-mien-bac-185240423213145056.htm) - 15:06 23/04/2024
+- 🎊 [Đến Nhật Bản thì hãy mua những món quà ý nghĩa này dành tặng cho người thân](https://thanhnien.vn/thoi-trang-tre/den-nhat-ban-thi-hay-mua-nhung-mon-qua-y-nghia-nay-danh-tang-cho-nguoi-than-185240422215151728.htm) - 15:00 23/04/2024
+- 🤠 [Khi học sinh nước ngoài thi đọc... tiếng Việt](https://thanhnien.vn/khi-hoc-sinh-nuoc-ngoai-thi-doc-tieng-viet-185240423205857316.htm) - 14:56 23/04/2024
+- 💼 [Tại sao chúng ta cần phác đồ cá nhân hóa khi điều trị vấn đề về da?](https://thanhnien.vn/tai-sao-chung-ta-can-phac-do-ca-nhan-hoa-khi-dieu-tri-van-de-ve-da-185240423210633355.htm) - 14:52 23/04/2024
+- 🐻 [Vụ tai nạn lao động khiến 7 người chết ở Yên Bái: Bắt 1 nhân viên](https://thanhnien.vn/vu-tai-nan-lao-dong-khien-7-nguoi-chet-o-yen-bai-bat-1-nhan-vien-18524042321282452.htm) - 14:50 23/04/2024
+- 🤔 [Trường đại học, viện nghiên cứu có thể giúp gì cho sự phát triển đô thị?](https://thanhnien.vn/truong-dai-hoc-vien-nghien-cuu-co-the-giup-gi-cho-su-phat-trien-do-thi-185240423195115272.htm) - 14:26 23/04/2024
 - 📝 [Đồng Tháp: Xét xử vụ nhận hối lộ tại Trung tâm đăng kiểm 66-02D](https://thanhnien.vn/dong-thap-xet-xu-vu-nhan-hoi-lo-tai-trung-tam-dang-kiem-66-02d-185240423200950407.htm) - 14:22 23/04/2024
 - 🥰 [Ra đời Liên đoàn Triathlon Việt Nam: Vươn ra biển lớn](https://thanhnien.vn/ra-doi-lien-doan-triathlon-viet-nam-vuon-ra-bien-lon-185240423211057266.htm) - 14:21 23/04/2024
 - 🐲 [Tuyển sinh ĐH: Chọn ngành ‘hot’ hay ngành ít thí sinh đăng ký?](https://thanhnien.vn/tuyen-sinh-dh-chon-nganh-hot-hay-nganh-it-thi-sinh-dang-ky-18524042318193817.htm) - 14:15 23/04/2024
