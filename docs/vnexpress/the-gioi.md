@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Được tha tội lái xe khi say rượu vì mắc hội chứng tự sinh cồn](https://vnexpress.net/duoc-tha-toi-lai-xe-khi-say-ruou-vi-mac-hoi-chung-tu-sinh-con-4737490.html) - 01:59 23/04/2024
+- 🎭 [Thoát truy tố vì mắc hội chứng tự sinh cồn](https://vnexpress.net/thoat-truy-to-vi-mac-hoi-chung-tu-sinh-con-4737490.html) - 01:59 23/04/2024
 - 🕴 [Tên lửa Nga bắn gãy tháp truyền hình cao nhất Kharkov](https://vnexpress.net/ten-lua-nga-ban-gay-thap-truyen-hinh-cao-nhat-kharkov-4737432.html) - 00:57 23/04/2024
 - 🤭 [Công tố viên nói ông Trump phạm luật, gian lận bầu cử năm 2016](https://vnexpress.net/cong-to-vien-noi-ong-trump-pham-luat-gian-lan-bau-cu-nam-2016-4737453.html) - 00:05 23/04/2024
 - 🧑‍💻 [Ông Biden cam kết nhanh chóng chuyển viện trợ quân sự cho Ukraine](https://vnexpress.net/ong-biden-cam-ket-nhanh-chong-chuyen-vien-tro-quan-su-cho-ukraine-4737456.html) - 00:04 23/04/2024
