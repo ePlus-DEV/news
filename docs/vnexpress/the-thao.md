@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Uzbekistan 3-0 Việt Nam &lpar;H2&rpar;: Thay người liên tiếp](https://vnexpress.net/truc-tiep-uzbekistan-vs-viet-nam-4737990.html) - 14:26 23/04/2024
+- 🪜 [Uzbekistan 3-0 Việt Nam &lpar;H2&rpar;: Hai đội giảm nhịp](https://vnexpress.net/truc-tiep-uzbekistan-vs-viet-nam-4737990.html) - 14:26 23/04/2024
 - 🦩 [HLV futsal Việt Nam cam kết thắng Uzbekistan](https://vnexpress.net/hlv-futsal-viet-nam-cam-ket-thang-uzbekistan-4737969.html) - 13:53 23/04/2024
 - 🧰 [Bellingham cân bằng thành tích của Zidane ở El Clasico](https://vnexpress.net/bellingham-can-bang-thanh-tich-cua-zidane-o-el-clasico-4737505.html) - 11:17 23/04/2024
 - 🤗 [Arteta: Chi nhiều tiền dễ thành công ở Ngoại hạng Anh](https://vnexpress.net/arteta-chi-nhieu-tien-de-thanh-cong-o-ngoai-hang-anh-4736871.html) - 11:03 23/04/2024
