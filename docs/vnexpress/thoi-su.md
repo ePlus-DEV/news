@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Hạn chế xe trên 3 quốc lộ dịp kỷ niệm chiến thắng Điện Biên Phủ](https://vnexpress.net/han-che-xe-tren-3-quoc-lo-dip-ky-niem-chien-thang-dien-bien-phu-4737959.html) - 12:08 23/04/2024
 - 🤓 [Xả 7 triệu m3 nước từ hồ Dầu Tiếng về Long An chống hạn mặn](https://vnexpress.net/xa-7-trieu-m3-nuoc-tu-ho-dau-tieng-ve-long-an-chong-han-man-4737952.html) - 11:46 23/04/2024
-- ⚗️ [&#39;Đề nghị Campuchia tạm dừng dự án kênh đào Funan Techo&#39;](https://vnexpress.net/de-nghi-campuchia-tam-dung-du-an-kenh-dao-funan-techo-4737799.html) - 11:30 23/04/2024
+- ⚗️ [Chuyên gia: Nhiều tác động từ dự án kênh Funan Techo cần được đánh giá đầy đủ](https://vnexpress.net/chuyen-gia-nhieu-tac-dong-tu-du-an-kenh-funan-techo-can-duoc-danh-gia-day-du-4737799.html) - 11:30 23/04/2024
 - 🌊 [Hà Nội bắn pháo hoa 6 điểm dịp 10/10](https://vnexpress.net/ha-noi-ban-phao-hoa-6-diem-dip-10-10-4737866.html) - 10:14 23/04/2024
 - 🎓 [TP HCM ra &#39;tối hậu thư&#39; với Công ty Thuận An](https://vnexpress.net/tp-hcm-ra-toi-hau-thu-voi-cong-ty-thuan-an-4737764.html) - 08:24 23/04/2024
 - 🔥 [Đề xuất khai thác cao tốc Cam Lâm - Vĩnh Hảo từ 26/4](https://vnexpress.net/de-xuat-khai-thac-cao-toc-cam-lam-vinh-hao-tu-26-4-4737703.html) - 08:00 23/04/2024
