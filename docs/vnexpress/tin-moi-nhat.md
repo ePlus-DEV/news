@@ -24,7 +24,7 @@ sidebar_position: 9
 - 🤓 [Sở Giáo dục TP HCM: Có thể linh động tuyển sinh trái tuyến](https://vnexpress.net/so-giao-duc-tp-hcm-co-the-linh-dong-tuyen-sinh-trai-tuyen-4737997.html) - 14:57 23/04/2024
 - 💪 [Cuộc sống bình lặng tuổi 38 của Amber Heard](https://vnexpress.net/cuoc-song-binh-lang-tuoi-38-cua-amber-heard-4737919.html) - 14:34 23/04/2024
 - 🎓 [Apple dự kiến ra iPad mới ngày 7/5](https://vnexpress.net/apple-du-kien-ra-ipad-moi-ngay-7-5-4737989.html) - 14:32 23/04/2024
-- 🫣 [Việt Nam gặp Iraq ở tứ kết U23 châu Á](https://vnexpress.net/truc-tiep-uzbekistan-vs-viet-nam-4737990.html) - 14:26 23/04/2024
+- 🫣 [Việt Nam gặp Iraq ở tứ kết U23 châu Á](https://vnexpress.net/ket-qua-uzbekistan-vs-viet-nam-4737990-tong-thuat.html) - 14:26 23/04/2024
 - 🧑‍💻 [Hezbollah tập kích sâu nhất vào Israel từ đầu chiến sự Gaza](https://vnexpress.net/hezbollah-tap-kich-sau-nhat-vao-israel-tu-dau-chien-su-gaza-4737981.html) - 14:08 23/04/2024
 - 🐲 [Tôi để con tránh xa tuyệt đối Văn mẫu](https://vnexpress.net/toi-de-con-tranh-xa-tuyet-doi-van-mau-4737812.html) - 14:00 23/04/2024
 - 🌝 [Tìm bạn đời chín chắn, sống tình cảm](https://vnexpress.net/tim-ban-doi-chin-chan-song-tinh-cam-4737769.html) - 14:00 23/04/2024
