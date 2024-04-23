@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Vincom Retail không đổi tên sau khi Vingroup thoái vốn](https://vnexpress.net/vincom-retail-khong-doi-ten-sau-khi-vingroup-thoai-von-4737667.html) - 06:18 23/04/2024
-- 🐲 [Đấu thầu vàng miếng ế khách](https://vnexpress.net/dau-thau-vang-mieng-e-khach-4737659.html) - 06:03 23/04/2024
+- 🐲 [Vàng đấu thầu ế khách](https://vnexpress.net/dau-thau-vang-mieng-e-khach-4737659.html) - 06:03 23/04/2024
 - 🔥 [Dubai hoãn nợ, sửa nhà miễn phí sau lụt](https://vnexpress.net/dubai-hoan-no-sua-nha-mien-phi-sau-lut-4737623.html) - 04:19 23/04/2024
 - 🐵 [Trump sắp có thêm hơn 1 tỷ USD](https://vnexpress.net/trump-sap-co-them-hon-1-ty-usd-4737581.html) - 04:15 23/04/2024
 - 🦅 [Công ty liên quan Vạn Thịnh Phát chậm trả gần 5.900 tỷ nợ trái phiếu](https://vnexpress.net/cong-ty-lien-quan-van-thinh-phat-cham-tra-gan-5-900-ty-no-trai-phieu-4737593.html) - 03:43 23/04/2024
