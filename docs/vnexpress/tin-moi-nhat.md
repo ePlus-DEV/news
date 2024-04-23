@@ -27,7 +27,7 @@ sidebar_position: 9
 - 🫣 [Djokovic ca ngợi Nadal khi nhận giải &#39;Oscar thể thao&#39;](https://vnexpress.net/djokovic-ca-ngoi-nadal-khi-nhan-giai-oscar-the-thao-4737514.html) - 02:33 23/04/2024
 - 🧑‍💻 [Quảng Nam có tân phó chủ tịch](https://vnexpress.net/quang-nam-co-tan-pho-chu-tich-4737501.html) - 02:32 23/04/2024
 - 🐲 [Hơn 300 runner DNF tại VnExpress Marathon Huế 2024](https://vnexpress.net/hon-300-runner-dnf-tai-vnexpress-marathon-hue-2024-4737146.html) - 02:31 23/04/2024
-- 🌝 [U45 không sợ thất nghiệp nhờ nhận &#39;thù lao rẻ mạt&#39; lúc sinh viên](https://vnexpress.net/u45-khong-so-that-nghiep-nho-nhan-thu-lao-re-mat-luc-sinh-vien-4737520.html) - 02:26 23/04/2024
+- 🌝 [Trung niên vững chắc nhờ  chấp nhận &#39;thù lao rẻ mạt&#39; lúc sinh viên](https://vnexpress.net/trung-nien-vung-chac-nho-chap-nhan-thu-lao-re-mat-luc-sinh-vien-4737520.html) - 02:26 23/04/2024
 - 😺 [Phép tính gây tranh cãi 8 - 3 + 3 = 2 hay 8?](https://vnexpress.net/phep-tinh-gay-tranh-cai-8-3-3-2-hay-8-4737093.html) - 02:25 23/04/2024
 - 🐎 [Chết đi sống lại mấy lần vì người chồng chơi tiền ảo](https://vnexpress.net/chet-di-song-lai-may-lan-vi-nguoi-chong-choi-tien-ao-4737493.html) - 02:19 23/04/2024
 - 🎡 [Phong cách Thanh Thủy sau hai năm đăng quang](https://vnexpress.net/phong-cach-thanh-thuy-sau-hai-nam-dang-quang-4729680.html) - 02:08 23/04/2024
