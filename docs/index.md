@@ -587,7 +587,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💃 [Tháng Thanh niên năm 2024 có nhiều khởi sắc](https://tienphong.vn/thang-thanh-nien-nam-2024-co-nhieu-khoi-sac-post1631402.tpo) - 20:04 23/04/2024
 - 🦍 [Sắp xếp khu phố, ấp tại TPHCM ảnh hưởng tuyển sinh đầu cấp thế nào?](https://tienphong.vn/sap-xep-khu-pho-ap-tai-tphcm-anh-huong-tuyen-sinh-dau-cap-the-nao-post1631335.tpo) - 20:04 23/04/2024
 - 👹 [Tai nạn trên đường đến trường, nữ giáo viên tử vong](https://tienphong.vn/tai-nan-tren-duong-den-truong-nu-giao-vien-tu-vong-post1631427.tpo) - 20:01 23/04/2024
-- 🌜 [Thêm một Phó chủ tịch UBND tỉnh Vĩnh Phúc bị bắt tạm giam về tội ‘Nhận hối lộ’](https://tienphong.vn/them-mot-pho-chu-tich-ubnd-tinh-vinh-phuc-bi-bat-tam-giam-ve-toi-nhan-hoi-lo-post1631450.tpo) - 20:01 23/04/2024
+- 🌜 [Thêm một Phó chủ tịch UBND tỉnh Vĩnh Phúc bị bắt về tội ‘Nhận hối lộ’](https://tienphong.vn/them-mot-pho-chu-tich-ubnd-tinh-vinh-phuc-bi-bat-ve-toi-nhan-hoi-lo-post1631450.tpo) - 20:01 23/04/2024
 - 🎓 [Huy động hơn 9.400 lượt xe buýt/ngày dịp lễ 30/4 - 1/5](https://tienphong.vn/huy-dong-hon-9400-luot-xe-buytngay-dip-le-304-15-post1631449.tpo) - 19:59 23/04/2024
 - 🦣 [Toyota Land Cruiser đời mới bị bán chênh giá hàng chục nghìn USD](https://tienphong.vn/toyota-land-cruiser-doi-moi-bi-ban-chenh-gia-hang-chuc-nghin-usd-post1631413.tpo) - 19:57 23/04/2024
 - 🤓 [Báo cáo tổng kết Kỳ họp bất thường lần thứ 6, Quốc hội khóa XV](https://tienphong.vn/bao-cao-tong-ket-ky-hop-bat-thuong-lan-thu-6-quoc-hoi-khoa-xv-post1631442.tpo) - 19:46 23/04/2024
