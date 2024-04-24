@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Mỗi lượng vàng miếng đắt thêm gần triệu đồng](https://vnexpress.net/moi-luong-vang-mieng-dat-them-gan-trieu-dong-4738149.html) - 03:19 24/04/2024
+- ⛽️ [Mỗi lượng vàng miếng đắt thêm hơn triệu đồng](https://vnexpress.net/moi-luong-vang-mieng-dat-them-gan-trieu-dong-4738149.html) - 03:19 24/04/2024
 - 🐲 [Lợi nhuận Tesla giảm hơn một nửa](https://vnexpress.net/loi-nhuan-tesla-giam-hon-mot-nua-4738105.html) - 03:04 24/04/2024
 - 🔥 [Doanh số xe điện toàn cầu có thể lập kỷ lục năm nay](https://vnexpress.net/doanh-so-xe-dien-toan-cau-co-the-lap-ky-luc-nam-nay-4738006.html) - 23:00 23/04/2024
 - 🐵 [Làm ngành nào dễ thành tỷ phú nhất trên thế giới](https://vnexpress.net/lam-nganh-nao-de-thanh-ty-phu-nhat-tren-the-gioi-4737892.html) - 20:00 23/04/2024
