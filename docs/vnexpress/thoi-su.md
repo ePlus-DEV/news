@@ -16,7 +16,7 @@ sidebar_position: 1
 - 🚦 [Gần 12.000 vé bị trả lại do sự cố sạt lở hầm Bãi Gió](https://vnexpress.net/gan-12-000-ve-bi-tra-lai-do-su-co-sat-lo-ham-bai-gio-4738271.html) - 07:22 24/04/2024
 - 🎉 [Trạm dừng trên cao tốc Vĩnh Hảo - Phan Thiết hoạt động](https://vnexpress.net/tram-dung-tren-cao-toc-vinh-hao-phan-thiet-hoat-dong-4738235.html) - 06:19 24/04/2024
 - 🦒 [Ôtô 5 chỗ bị tông biến dạng](https://vnexpress.net/oto-5-cho-bi-tong-bien-dang-4738225.html) - 05:11 24/04/2024
-- 🤗 [Sà lan chở đá chìm gần Lý Sơn, 3 người chết](https://vnexpress.net/sa-lan-cho-da-chim-gan-ly-son-3-nguoi-chet-4738214.html) - 04:40 24/04/2024
+- 🤗 [Sà lan chở đá lật gần Lý Sơn, 3 người chết](https://vnexpress.net/sa-lan-cho-da-lat-gan-ly-son-3-nguoi-chet-4738214.html) - 04:40 24/04/2024
 - 💼 [Nghệ An lại xuất hiện lốc xoáy, mưa đá](https://vnexpress.net/nghe-an-lai-xuat-hien-loc-xoay-mua-da-4738034.html) - 01:11 24/04/2024
 - 🤩 [Thủ phủ hành tím Quảng Ngãi](https://vnexpress.net/thu-phu-hanh-tim-quang-ngai-4737426.html) - 22:00 23/04/2024
 - 🤡 [Cửa ngõ sân bay Tân Sơn Nhất ùn tắc hơn 3 km sau tai nạn](https://vnexpress.net/cua-ngo-san-bay-tan-son-nhat-un-tac-hon-3-km-sau-tai-nan-4737968.html) - 13:03 23/04/2024
