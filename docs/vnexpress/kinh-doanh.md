@@ -10,7 +10,7 @@ sidebar_position: 3
 - 🐵 [Mỗi tháng công ty ông Jonathan Hạnh Nguyễn lãi hơn 15 tỷ đồng](https://vnexpress.net/moi-thang-cong-ty-ong-jonathan-hanh-nguyen-lai-hon-15-ty-dong-4737864.html) - 13:11 23/04/2024
 - 🦅 [Vinamilk có thêm nhà máy trung hòa carbon mới nhờ đẩy mạnh Net Zero 2050](https://vnexpress.net/vinamilk-co-them-nha-may-trung-hoa-carbon-moi-nho-day-manh-net-zero-2050-4737949.html) - 12:00 23/04/2024
 - 😺 [Chủ tịch Quốc hội: Bổ sung quy định cấm để tránh gian lận thuế VAT](https://vnexpress.net/chu-tich-quoc-hoi-bo-sung-quy-dinh-cam-de-tranh-gian-lan-thue-vat-4737774.html) - 11:47 23/04/2024
-- 🤩 [Sản lượng điện cao điểm nắng nóng tăng 2 tỷ kWh vì nhu cầu tăng vọt](https://vnexpress.net/tang-huy-dong-may-phat-nhap-khau-dien-cho-mua-nong-4737923.html) - 11:38 23/04/2024
+- 🤩 [Bộ Công Thương tăng huy động 2 tỷ kWh điện cho cao điểm nắng nóng](https://vnexpress.net/bo-cong-thuong-tang-huy-dong-2-ty-kwh-dien-cho-cao-diem-nang-nong-4737923.html) - 11:38 23/04/2024
 - 🌮 [Novaland huy động hơn 11.700 tỷ để trả lương nhân viên, thanh toán nợ](https://vnexpress.net/novaland-huy-dong-hon-11-700-ty-de-tra-luong-nhan-vien-thanh-toan-no-4737937.html) - 10:40 23/04/2024
 - 🧰 [Đề xuất đánh thuế VAT hàng giá trị nhỏ nhập qua Tiktok, Shopee](https://vnexpress.net/de-xuat-danh-thue-vat-hang-gia-tri-nho-nhap-qua-tiktok-shopee-4737915.html) - 10:35 23/04/2024
 - 🤔 [Các công ty con của Vietnam Airlines lãi hơn 1.400 tỷ đồng](https://vnexpress.net/cac-cong-ty-con-cua-vietnam-airlines-lai-hon-1-400-ty-dong-4737750.html) - 08:54 23/04/2024
