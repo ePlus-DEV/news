@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Tàu, xe khách nhiều chặng hết vé dịp lễ 30/4](https://vnexpress.net/tau-xe-khach-nhieu-chang-het-ve-dip-le-30-4-4738422.html) - 22:00 24/04/2024
+- 🦒 [Nhiều chặng tàu, xe khách hết vé dịp lễ 30/4](https://vnexpress.net/nhieu-chang-tau-xe-khach-het-ve-dip-le-30-4-4738422.html) - 22:00 24/04/2024
 - 🤓 [Đưa học trò đi tắm giữa giờ để tránh nóng](https://vnexpress.net/dua-hoc-tro-di-tam-giua-gio-de-tranh-nong-4738011.html) - 18:22 24/04/2024
 - ⚗️ [Bộ trưởng Nguyễn Mạnh Hùng: Lương cao sẽ thu hút nhân lực bán dẫn](https://vnexpress.net/bo-truong-nguyen-manh-hung-luong-cao-se-thu-hut-nhan-luc-ban-dan-4738447.html) - 16:50 24/04/2024
 - 🌊 [Bãi rác Nam Sơn &#39;sẽ thành công viên, điểm check-in&#39;](https://vnexpress.net/bai-rac-nam-son-se-thanh-cong-vien-diem-check-in-4738428.html) - 13:55 24/04/2024
