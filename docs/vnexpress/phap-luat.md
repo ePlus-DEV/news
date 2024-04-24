@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Băng nhóm cá độ bóng đá hơn 100 tỷ đồng bị bắt](https://vnexpress.net/bang-nhom-ca-do-bong-da-hon-100-ty-dong-bi-bat-4738418.html) - 12:23 24/04/2024
 - 🥰 [Mạo danh nữ tu sĩ lừa tiền từ thiện của hàng chục nghìn người](https://vnexpress.net/mao-danh-nu-tu-si-lua-tien-tu-thien-cua-hang-chuc-nghin-nguoi-4738419.html) - 12:19 24/04/2024
-- 🎓 [Ông Trần Quí Thanh: &#39;Hai con vì cha mà phải có ngày hôm nay&#39;](https://vnexpress.net/ong-tran-qui-thanh-hai-con-vi-cha-ma-phai-co-ngay-hom-nay-4738413.html) - 11:52 24/04/2024
+- 🎓 [Ông Trần Quí Thanh: &#39;Cảm ơn cơ quan tố tụng giúp tôi nhận ra sai lầm&#39;](https://vnexpress.net/ong-tran-qui-thanh-cam-on-co-quan-to-tung-giup-toi-nhan-ra-sai-lam-4738413.html) - 11:52 24/04/2024
 - 🤓 [Lĩnh án tù vì &#39;nghịch dại&#39; chiếu tia laser vào máy bay](https://vnexpress.net/linh-an-tu-vi-nghich-dai-chieu-tia-laser-vao-may-bay-4738365.html) - 10:29 24/04/2024
 - 🎊 [Trình báo mất nửa tỷ đồng vì tin &#39;sẽ thắng 100%&#39; chơi game online](https://vnexpress.net/trinh-bao-mat-nua-ty-dong-vi-tin-se-thang-100-choi-game-online-4738341.html) - 10:17 24/04/2024
 - 🙉 [Chủ lớp mẫu giáo Tí Bo đánh hai bé trai](https://vnexpress.net/chu-lop-mau-giao-ti-bo-danh-hai-be-trai-4738367.html) - 09:24 24/04/2024
