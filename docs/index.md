@@ -146,7 +146,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Hơn 6 giờ khống chế đám cháy tại bìa rừng Vườn quốc gia Phú Quốc](https://thanhnien.vn/hon-6-gio-khong-che-dam-chay-tai-bia-rung-vuon-quoc-gia-phu-quoc-185240424204314515.htm) - 14:09 24/04/2024
+- 🤠 [Khống chế đám cháy tại bìa rừng Vườn quốc gia Phú Quốc](https://thanhnien.vn/hon-6-gio-khong-che-dam-chay-tai-bia-rung-vuon-quoc-gia-phu-quoc-185240424204314515.htm) - 14:09 24/04/2024
 - 🥸 [CholimexFood báo cáo Đại hội đồng cổ đông 2024 và tầm nhìn chiến lược 20 năm](https://thanhnien.vn/cholimexfood-bao-cao-dai-hoi-dong-co-dong-2024-va-tam-nhin-chien-luoc-20-nam-185240424210502546.htm) - 14:07 24/04/2024
 - 🌁 [Dính 2 thẻ đỏ lại bị dẫn 2 bàn, đội tuyển Thái Lan vẫn thắng ngoạn mục Iraq](https://thanhnien.vn/dinh-2-the-do-lai-bi-dan-2-ban-doi-tuyen-thai-lan-van-thang-ngoan-muc-iraq-185240424210037315.htm) - 14:06 24/04/2024
 - 🤡 [Kiên Giang: Tuyên án 3 bác sĩ trong vụ làm giả gần 1.700 giấy khám sức khỏe](https://thanhnien.vn/kien-giang-tuyen-an-3-bac-si-trong-vu-lam-gia-gan-1700-giay-kham-suc-khoe-185240424184102591.htm) - 14:05 24/04/2024
