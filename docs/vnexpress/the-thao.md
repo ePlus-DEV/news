@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Thái Lan thắng ngược dù bị hai thẻ đỏ ở futsal châu Á](https://vnexpress.net/thai-lan-thang-nguoc-du-bi-hai-the-do-o-futsal-chau-a-4738448.html) - 13:40 24/04/2024
-- 🦩 [Việt Nam 1-1 Uzbekistan &lpar;H2&rpar;: Minh Quang sút dội cột](https://vnexpress.net/futsal-viet-nam-vs-uzbekistan-4738366.html) - 13:30 24/04/2024
+- 🦩 [Việt Nam thua ngược ở tứ kết futsal châu Á](https://vnexpress.net/futsal-viet-nam-vs-uzbekistan-4738366.html) - 13:30 24/04/2024
 - 🧰 [Faldo Series Asia 2024 chốt kết quả tại Việt Nam](https://vnexpress.net/faldo-series-asia-2024-chot-ket-qua-tai-viet-nam-4738424.html) - 11:40 24/04/2024
 - 🤗 [Công Phượng đá chính, Yokohama FC thắng ở J-League Levain Cup](https://vnexpress.net/cong-phuong-da-chinh-yokohama-fc-thang-o-j-league-levain-cup-4738362.html) - 09:01 24/04/2024
 - 🥳 [HLV Thạch Bảo Khanh kêu gọi U23 Việt Nam bỏ động tác thừa](https://vnexpress.net/hlv-thach-bao-khanh-keu-goi-u23-viet-nam-bo-dong-tac-thua-4738254.html) - 08:50 24/04/2024
