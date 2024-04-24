@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Trẻ mầm non bị cô giáo đánh, đè nhét thức ăn](https://vnexpress.net/tre-mam-non-bi-co-giao-danh-de-nhet-thuc-an-4738161.html) - 03:45 24/04/2024
+- 🤓 [Bé trai bị bảo mẫu đánh, đè nhét thức ăn](https://vnexpress.net/be-trai-bi-bao-mau-danh-de-nhet-thuc-an-4738161.html) - 03:45 24/04/2024
 - 🦆 [Cô gái đạt điểm top 1% kỳ thi luật sư ở Mỹ](https://vnexpress.net/co-gai-dat-diem-top-1-ky-thi-luat-su-o-my-4737772.html) - 23:08 23/04/2024
 - 🦩 [Thí sinh tập đăng ký thi tốt nghiệp THPT từ hôm nay](https://vnexpress.net/thi-sinh-tap-dang-ky-thi-tot-nghiep-thpt-tu-hom-nay-4738009.html) - 17:01 23/04/2024
 - 🌮 [Sở Giáo dục TP HCM: Có thể linh động tuyển sinh trái tuyến](https://vnexpress.net/so-giao-duc-tp-hcm-co-the-linh-dong-tuyen-sinh-trai-tuyen-4737997.html) - 14:57 23/04/2024
