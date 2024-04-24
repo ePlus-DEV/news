@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [10 trường Tài chính Kế toán hàng đầu thế giới](https://vnexpress.net/10-truong-tai-chinh-ke-toan-hang-dau-the-gioi-4737920.html) - 09:01 24/04/2024
+- 🤓 [10 trường Tài chính Kế toán tốt nhất thế giới](https://vnexpress.net/10-truong-tai-chinh-ke-toan-tot-nhat-the-gioi-4737920.html) - 09:01 24/04/2024
 - 🦆 [Sáu loại hình học bổng Đại học FPT năm 2024](https://vnexpress.net/sau-loai-hinh-hoc-bong-dai-hoc-fpt-nam-2024-4738315.html) - 09:00 24/04/2024
 - 🦩 [Gần 60 tỉnh, thành công bố lịch thi lớp 10](https://vnexpress.net/gan-60-tinh-thanh-cong-bo-lich-thi-lop-10-4737570.html) - 07:53 24/04/2024
 - 🌮 [Thủ khoa thi đánh giá năng lực ĐH Quốc gia Hà Nội đạt 129/150 điểm](https://vnexpress.net/thu-khoa-thi-danh-gia-nang-luc-dh-quoc-gia-ha-noi-dat-129-150-diem-4738233.html) - 05:20 24/04/2024
