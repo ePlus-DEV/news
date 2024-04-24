@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Sai lầm khiến Ukraine suýt vỡ phòng tuyến gần Avdeevka](https://vnexpress.net/sai-lam-khien-ukraine-suyt-vo-phong-tuyen-gan-avdeevka-4738197.html) - 07:59 24/04/2024
-- 🕴 [Israel bị cáo buộc chôn hàng trăm thi thể trong bệnh viện Gaza](https://vnexpress.net/israel-bi-cao-buoc-chon-hang-tram-thi-the-trong-benh-vien-gaza-4738275.html) - 07:59 24/04/2024
+- 🕴 [Phát hiện gần 340 thi thể dưới mộ tập thể trong bệnh viện Gaza](https://vnexpress.net/phat-hien-gan-340-thi-the-duoi-mo-tap-the-trong-benh-vien-gaza-4738275.html) - 07:59 24/04/2024
 - 🤭 [Triều Tiên nói Ukraine là &#39;nghĩa địa&#39; của khí tài phương Tây](https://vnexpress.net/trieu-tien-noi-ukraine-la-nghia-dia-cua-khi-tai-phuong-tay-4738193.html) - 07:15 24/04/2024
 - 🧑‍💻 [Công đoàn cảnh sát Pháp dọa cản trở lễ rước đuốc Olympic](https://vnexpress.net/cong-doan-canh-sat-phap-doa-can-tro-le-ruoc-duoc-olympic-4738162.html) - 07:13 24/04/2024
 - 🦏 [Những người Mỹ không còn mặn mà với sex](https://vnexpress.net/nhung-nguoi-my-khong-con-man-ma-voi-sex-4736981.html) - 07:02 24/04/2024
