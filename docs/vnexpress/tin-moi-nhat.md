@@ -12,10 +12,10 @@ sidebar_position: 9
 - 🎃 [90% người không thấy cô gái trong ảnh](https://vnexpress.net/90-nguoi-khong-thay-co-gai-trong-anh-4737279.html) - 14:00 24/04/2024
 - 🧰 [Bãi rác Nam Sơn &#39;sẽ thành công viên, điểm check-in&#39;](https://vnexpress.net/bai-rac-nam-son-se-thanh-cong-vien-diem-check-in-4738428.html) - 13:55 24/04/2024
 - 🔭 [Người dân thành phố trung ương nào có tuổi thọ trung bình cao nhất?](https://vnexpress.net/nguoi-dan-thanh-pho-trung-uong-nao-co-tuoi-tho-trung-binh-cao-nhat-4738412.html) - 13:41 24/04/2024
-- 🫶 [Thái Lan thắng ngược dù bị hai thẻ đỏ ở futsal châu Á](https://vnexpress.net/thai-lan-thang-nguoc-du-bi-hai-the-do-o-futsal-chau-a-4738448.html) - 13:40 24/04/2024
+- 🫶 [Futsal Thái Lan thắng ngược dù bị hai thẻ đỏ](https://vnexpress.net/futsal-thai-lan-thang-nguoc-du-bi-hai-the-do-4738448.html) - 13:40 24/04/2024
 - 🪜 [Nga chỉ trích NATO khiêu khích khi tập trận gần biên giới chung](https://vnexpress.net/nga-chi-trich-nato-khieu-khich-khi-tap-tran-gan-bien-gioi-chung-4738438.html) - 13:39 24/04/2024
 - 👨‍🏫 [Vợ Thủ tướng Tây Ban Nha bị điều tra cáo buộc tham nhũng](https://vnexpress.net/vo-thu-tuong-tay-ban-nha-bi-dieu-tra-cao-buoc-tham-nhung-4738437.html) - 13:36 24/04/2024
-- 🎊 [Việt Nam 1-0 Uzbekistan &lpar;H2&rpar;: Thịnh Phát mở tỷ số](https://vnexpress.net/futsal-viet-nam-vs-uzbekistan-4738366.html) - 13:30 24/04/2024
+- 🎊 [Việt Nam 1-0 Uzbekistan &lpar;H1&rpar;: Thịnh Phát mở tỷ số](https://vnexpress.net/futsal-viet-nam-vs-uzbekistan-4738366.html) - 13:30 24/04/2024
 - 🎊 [Gia đình Lý Hải hội ngộ dàn sao trên thảm đỏ &#39;Lật mặt 7&#39;](https://vnexpress.net/gia-dinh-ly-hai-hoi-ngo-dan-sao-tren-tham-do-lat-mat-7-4738434.html) - 13:23 24/04/2024
 - 😺 [Mẹ bé trai bị đánh ở lớp mẫu giáo Tí Bo: Tôi giận run người](https://vnexpress.net/me-be-trai-bi-danh-o-lop-mau-giao-ti-bo-toi-gian-run-nguoi-4738432.html) - 13:02 24/04/2024
 - 🐘 [Bên trong cơ sở nuôi hàng trăm nghìn cua hoàng đế](https://vnexpress.net/ben-trong-co-so-nuoi-hang-tram-nghin-cua-hoang-de-4738063.html) - 13:00 24/04/2024
@@ -37,7 +37,7 @@ sidebar_position: 9
 - 💫 [Top 10 thành phố được đặt vé máy bay cao dịp 30/4](https://vnexpress.net/top-10-thanh-pho-duoc-dat-ve-may-bay-cao-dip-30-4-4738227.html) - 12:00 24/04/2024
 - 🎉 [Máy in 3D lớn nhất thế giới](https://vnexpress.net/may-in-3d-lon-nhat-the-gioi-4738047.html) - 12:00 24/04/2024
 - 🌋 [Chó Husky dỗi chủ, trèo ra ban công đứng](https://vnexpress.net/cho-husky-doi-chu-treo-ra-ban-cong-dung-4737538.html) - 12:00 24/04/2024
-- 🤖 [Ông Trần Quí Thanh: &#39;Cảm ơn cơ quan tố tụng giúp tôi nhận ra sai lầm&#39;](https://vnexpress.net/ong-tran-qui-thanh-cam-on-co-quan-to-tung-giup-toi-nhan-ra-sai-lam-4738413.html) - 11:52 24/04/2024
+- 🤖 [Ông Trần Quí Thanh: &#39;Hai con vì cha mà phải có ngày hôm nay&#39;](https://vnexpress.net/ong-tran-qui-thanh-hai-con-vi-cha-ma-phai-co-ngay-hom-nay-4738413.html) - 11:52 24/04/2024
 - 🦏 [Nắng nóng thiêu đốt Philippines](https://vnexpress.net/nang-nong-thieu-dot-philippines-4738357.html) - 11:52 24/04/2024
 - 🦩 [Doanh thu dầu khí Nga dự kiến gấp đôi trong tháng 4](https://vnexpress.net/doanh-thu-dau-khi-nga-du-kien-gap-doi-trong-thang-4-4738414.html) - 11:48 24/04/2024
 - 👺 [Faldo Series Asia 2024 chốt kết quả tại Việt Nam](https://vnexpress.net/faldo-series-asia-2024-chot-ket-qua-tai-viet-nam-4738424.html) - 11:40 24/04/2024
