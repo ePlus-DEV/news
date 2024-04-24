@@ -9,7 +9,7 @@ sidebar_position: 3
 - 🔥 [Doanh số xe điện toàn cầu có thể lập kỷ lục năm nay](https://vnexpress.net/doanh-so-xe-dien-toan-cau-co-the-lap-ky-luc-nam-nay-4738006.html) - 23:00 23/04/2024
 - 🐵 [Làm ngành nào dễ thành tỷ phú nhất trên thế giới](https://vnexpress.net/lam-nganh-nao-de-thanh-ty-phu-nhat-tren-the-gioi-4737892.html) - 20:00 23/04/2024
 - 🦅 [Vì sao vàng miếng đấu thầu bị ế?](https://vnexpress.net/vi-sao-dau-thau-vang-mieng-e-khach-4737940.html) - 17:00 23/04/2024
-- 😺 [Mỗi tháng công ty ông Jonathan Hạnh Nguyễn lãi hơn 15 tỷ đồng](https://vnexpress.net/moi-thang-cong-ty-ong-jonathan-hanh-nguyen-lai-hon-15-ty-dong-4737864.html) - 13:11 23/04/2024
+- 😺 [Mỗi tháng công ty ông Johnathan Hạnh Nguyễn lãi hơn 15 tỷ đồng](https://vnexpress.net/moi-thang-cong-ty-ong-johnathan-hanh-nguyen-lai-hon-15-ty-dong-4737864.html) - 13:11 23/04/2024
 - 🤩 [Vinamilk có thêm nhà máy trung hòa carbon mới nhờ đẩy mạnh Net Zero 2050](https://vnexpress.net/vinamilk-co-them-nha-may-trung-hoa-carbon-moi-nho-day-manh-net-zero-2050-4737949.html) - 12:00 23/04/2024
 - 🌮 [Chủ tịch Quốc hội: Bổ sung quy định cấm để tránh gian lận thuế VAT](https://vnexpress.net/chu-tich-quoc-hoi-bo-sung-quy-dinh-cam-de-tranh-gian-lan-thue-vat-4737774.html) - 11:47 23/04/2024
 - 🧰 [Bộ Công Thương tăng huy động 2 tỷ kWh điện cho cao điểm nắng nóng](https://vnexpress.net/bo-cong-thuong-tang-huy-dong-2-ty-kwh-dien-cho-cao-diem-nang-nong-4737923.html) - 11:38 23/04/2024
