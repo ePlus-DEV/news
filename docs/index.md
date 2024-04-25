@@ -575,7 +575,7 @@ Hỗ trợ doanh nghiệp tỉnh Thừa Thiên Huế](https://baochinhphu.vn/tha
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Trực tiếp U23 Hàn Quốc 0-0 U23 Indonesia &lpar;H1&rpar;: Trận đấu bắt đầu!](https://tienphong.vn/truc-tiep-u23-han-quoc-0-0-u23-indonesia-h1-tran-dau-bat-dau-post1632170.tpo) - 23:30 25/04/2024
+- 💼 [Trực tiếp U23 Hàn Quốc 0-0 U23 Indonesia &lpar;H1&rpar;: VAR cứu thua cho Indonesia](https://tienphong.vn/truc-tiep-u23-han-quoc-0-0-u23-indonesia-h1-var-cuu-thua-cho-indonesia-post1632170.tpo) - 23:30 25/04/2024
 - 🎊 [Chưa tìm ra nguyên nhân gần 500 người ở Khánh Hòa ngộ độc thực phẩm](https://tienphong.vn/chua-tim-ra-nguyen-nhan-gan-500-nguoi-o-khanh-hoa-ngo-doc-thuc-pham-post1632103.tpo) - 22:23 25/04/2024
 - 💼 [Va chạm xe đầu kéo, nữ giáo viên tử vong trên đường về](https://tienphong.vn/va-cham-xe-dau-keo-nu-giao-vien-tu-vong-tren-duong-ve-post1632156.tpo) - 22:19 25/04/2024
 - 👺 [Eximbank mạnh mẽ chuyển đổi số tạo tiền đề cho hành trình phát triển mới](https://tienphong.vn/eximbank-manh-me-chuyen-doi-so-tao-tien-de-cho-hanh-trinh-phat-trien-moi-post1632164.tpo) - 22:16 25/04/2024
