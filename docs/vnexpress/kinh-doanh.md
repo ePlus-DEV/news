@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Ngành thuế nắm dữ liệu ngân hàng của hơn 120 triệu cá nhân](https://vnexpress.net/nganh-thue-nam-du-lieu-ngan-hang-cua-hon-120-trieu-ca-nhan-4738950.html) - 13:59 25/04/2024
+- ⛽️ [Ngành thuế nắm dữ liệu ngân hàng của hơn 120 triệu tài khoản cá nhân](https://vnexpress.net/nganh-thue-nam-du-lieu-ngan-hang-cua-hon-120-trieu-tai-khoan-ca-nhan-4738950.html) - 13:59 25/04/2024
 - 🐲 [Tiệm vàng ngừng bán vẫn có thể bị kiểm tra](https://vnexpress.net/tiem-vang-ngung-ban-van-co-the-bi-kiem-tra-4738956.html) - 13:39 25/04/2024
 - 🔥 [Nước về các hồ thủy điện lớn giảm](https://vnexpress.net/nuoc-ve-cac-ho-thuy-dien-lon-giam-4738876.html) - 12:54 25/04/2024
 - 🐵 [Ông Lê Viết Hải: Nhiều nhà thầu chấp nhận hoán đổi nợ thành cổ phiếu](https://vnexpress.net/ong-le-viet-hai-nhieu-nha-thau-chap-nhan-hoan-doi-no-thanh-co-phieu-4738934.html) - 12:05 25/04/2024
