@@ -7,60 +7,60 @@ sidebar_position: 12
 - 😎 [Thêm Phó chủ tịch thành phố Long Xuyên bị bắt](https://vnexpress.net/them-pho-chu-tich-thanh-pho-long-xuyen-bi-bat-4738712.html) - 05:26 25/04/2024
 - 🥰 [Ông Trần Quí Thanh bị phạt 8 năm tù](https://vnexpress.net/ong-tran-qui-thanh-bi-phat-8-nam-tu-4738620.html) - 04:17 25/04/2024
 - 🎓 [Cuộc đời &#39;sát thủ mặt lạnh&#39; khét tiếng xã hội đen Đài Loan](https://vnexpress.net/cuoc-doi-sat-thu-mat-lanh-khet-tieng-xa-hoi-den-dai-loan-4738469.html) - 03:22 25/04/2024
-- 🤓 [Chi chục triệu cho chó đi &#39;huấn luyện chuyên nghiệp&#39;](https://video.vnexpress.net/chi-chuc-trieu-cho-cho-di-huan-luyen-chuyen-nghiep-4737333.html) - 01:25 25/04/2024
-- 🎊 [Người đàn ông lang thang bị đánh tử vong ở vườn hoa](https://vnexpress.net/nguoi-dan-ong-lang-thang-bi-danh-tu-vong-o-vuon-hoa-4738459.html) - 15:38 24/04/2024
-- 🙉 [Băng nhóm cá độ bóng đá hơn 100 tỷ đồng bị bắt](https://vnexpress.net/bang-nhom-ca-do-bong-da-hon-100-ty-dong-bi-bat-4738418.html) - 12:23 24/04/2024
-- 🤡 [Mạo danh nữ tu sĩ lừa tiền từ thiện của hàng chục nghìn người](https://vnexpress.net/mao-danh-nu-tu-si-lua-tien-tu-thien-cua-hang-chuc-nghin-nguoi-4738419.html) - 12:19 24/04/2024
-- 🗽 [Ông Trần Quí Thanh &#39;xót xa vì hai con phải ra tòa&#39;](https://vnexpress.net/ong-tran-qui-thanh-xot-xa-vi-hai-con-phai-ra-toa-4738413.html) - 11:52 24/04/2024
-- 🌋 [Lĩnh án tù vì &#39;nghịch dại&#39; chiếu tia laser vào máy bay](https://vnexpress.net/linh-an-tu-vi-nghich-dai-chieu-tia-laser-vao-may-bay-4738365.html) - 10:29 24/04/2024
-- 🎬 [Trình báo mất nửa tỷ đồng vì tin &#39;sẽ thắng 100%&#39; chơi game online](https://vnexpress.net/trinh-bao-mat-nua-ty-dong-vi-tin-se-thang-100-choi-game-online-4738341.html) - 10:17 24/04/2024
-- 💯 [Hai công ty hoạt động &#39;tín dụng đen&#39; ở Sài Gòn bị triệt phá](https://vnexpress.net/hai-cong-ty-hoat-dong-tin-dung-den-o-sai-gon-bi-triet-pha-4738320.html) - 08:58 24/04/2024
-- 🌏 [Ông Trần Quí Thanh bị đề nghị 9-10 năm tù](https://vnexpress.net/ong-tran-qui-thanh-bi-de-nghi-9-10-nam-tu-4738249.html) - 07:39 24/04/2024
-- 🌊 [Nghỉ việc khi sắp sinh con, tôi sẽ được hưởng quyền lợi nào?](https://vnexpress.net/nghi-viec-khi-sap-sinh-con-toi-se-duoc-huong-quyen-loi-nao-4738078.html) - 03:50 24/04/2024
-- 💂 [Nữ quái trộm hàng loạt laptop trong ký túc xá đại học](https://video.vnexpress.net/nu-quai-trom-hang-loat-laptop-trong-ky-tuc-xa-dai-hoc-4737936.html) - 01:18 24/04/2024
-- 🎡 [Lòng đố kỵ của người họ hàng bất nhân](https://vnexpress.net/long-do-ky-cua-nguoi-ho-hang-bat-nhan-4738013.html) - 00:54 24/04/2024
-- 🫶 [Một người bị bắt sau vụ 7 công nhân tử vong trong máy nghiền xi măng](https://vnexpress.net/mot-nguoi-bi-bat-sau-vu-7-cong-nhan-tu-vong-trong-may-nghien-xi-mang-4737993.html) - 15:01 23/04/2024
-- 🐲 [Tòa: Bị hại của ông Trần Quí Thanh cũng có lỗi](https://vnexpress.net/toa-bi-hai-cua-ong-tran-qui-thanh-cung-co-loi-4737962.html) - 13:33 23/04/2024
-- 🚀 [Phó chủ tịch tỉnh Vĩnh Phúc Nguyễn Văn Khước bị bắt](https://vnexpress.net/pho-chu-tich-vinh-phuc-nguyen-van-khuoc-bi-bat-4737960.html) - 12:10 23/04/2024
-- 🎊 [&#39;Hợp đồng&#39; đập phá ôtô giá 10 triệu đồng](https://vnexpress.net/hop-dong-dap-pha-oto-gia-10-trieu-dong-4737944.html) - 11:51 23/04/2024
-- 🤗 [Chủ quán karaoke bị bắt vì &#39;cầm đầu vụ chém hai anh em&#39;](https://vnexpress.net/chu-quan-karaoke-bi-bat-vi-cam-dau-vu-chem-hai-anh-em-4737931.html) - 11:21 23/04/2024
-- 🗽 [Thỏi vàng giả 5 triệu, rao bán 830 triệu đồng](https://vnexpress.net/thoi-vang-gia-5-trieu-rao-ban-830-trieu-dong-4737901.html) - 10:53 23/04/2024
-- 🕴 [Môi giới bán dâm qua nhóm &#39;Phố đèn đỏ Hải Dương&#39;](https://vnexpress.net/moi-gioi-ban-dam-qua-nhom-pho-den-do-hai-duong-4737860.html) - 09:17 23/04/2024
-- 🌜 [Vô cớ truy sát người đi đường](https://vnexpress.net/vo-co-truy-sat-nguoi-di-duong-4737645.html) - 09:06 23/04/2024
-- 🧑‍🏫 [Ông Trần Quí Thanh: &#39;Tôi sai, chấp nhận mọi phán quyết của tòa&#39;](https://vnexpress.net/ong-tran-qui-thanh-toi-sai-chap-nhan-moi-phan-quyet-cua-toa-4737723.html) - 07:30 23/04/2024
-- 🦩 [Hai anh em bị 5 thanh niên chém gục](https://vnexpress.net/hai-anh-em-bi-5-thanh-nien-chem-guc-4737716.html) - 06:07 23/04/2024
-- 💼 [Cựu cục phó Thuế TP HCM xin được hưởng án treo](https://vnexpress.net/cuu-cuc-pho-thue-tp-hcm-xin-duoc-huong-an-treo-4737241.html) - 04:36 23/04/2024
-- 💫 [Khi nào người dân bị cơ quan nhà nước giữ lại thẻ căn cước?](https://vnexpress.net/khi-nao-nguoi-dan-bi-co-quan-nha-nuoc-giu-lai-the-can-cuoc-4737371.html) - 01:15 23/04/2024
-- 🦅 [Ông Trần Quí Thanh ra tòa](https://vnexpress.net/ong-tran-qui-thanh-ra-toa-4737236.html) - 23:00 22/04/2024
-- 🧑‍💻 [Án mạng sau bộ ảnh khỏa thân của người mẫu nhiều tham vọng](https://vnexpress.net/an-mang-sau-bo-anh-khoa-than-cua-nguoi-mau-nhieu-tham-vong-4737369.html) - 17:00 22/04/2024
-- 💻 [Tòa phúc thẩm: Mẹ &#39;nữ sinh giao gà&#39; không bị kết tội oan](https://vnexpress.net/toa-phuc-tham-me-nu-sinh-giao-ga-khong-bi-ket-toi-oan-4737359.html) - 12:48 22/04/2024
-- 🤠 [Tài công tàu du lịch tông phà trên sông Tiền bị bắt](https://vnexpress.net/tai-cong-tau-du-lich-tong-pha-tren-song-tien-bi-bat-4737380.html) - 11:21 22/04/2024
-- 🧑‍🏫 [Tên cướp cầm dùi cui điện uy hiếp nhân viên tiệm vàng](https://video.vnexpress.net/ten-cuop-cam-dui-cui-dien-uy-hiep-nhan-vien-tiem-vang-4737364.html) - 11:18 22/04/2024
-- 🌈 [Cầm dùi cui điện xông vào tiệm vàng](https://vnexpress.net/cam-dui-cui-dien-xong-vao-tiem-vang-4737329.html) - 10:44 22/04/2024
-- 🌮 [Mang vàng giả cầm cố cho chủ nợ](https://vnexpress.net/mang-vang-gia-cam-co-cho-chu-no-4737336.html) - 10:36 22/04/2024
-- 🐲 [Nhóm người trộm 9.000 m dây cáp điện](https://video.vnexpress.net/nhom-nguoi-trom-9-000-m-day-cap-dien-4737326.html) - 10:32 22/04/2024
-- 🧰 [Giám định 37 bút lục nghi bị &#39;làm giả&#39; trong vụ dìm giá đất ở Đông Anh](https://vnexpress.net/giam-dinh-37-but-luc-nghi-bi-lam-gia-trong-vu-dim-gia-dat-o-dong-anh-4737331.html) - 10:28 22/04/2024
-- 💄 [Ba tử tù sát hại nữ sinh giao gà nói &#39;sẽ khai sự thật&#39;](https://vnexpress.net/ke-sat-hai-nu-sinh-giao-ga-noi-se-khai-su-that-4737238.html) - 09:43 22/04/2024
-- ⛽️ [Ba nghi can nước ngoài cướp cửa hàng điện thoại](https://vnexpress.net/ba-nghi-can-nuoc-ngoai-cuop-cua-hang-dien-thoai-4737157.html) - 06:21 22/04/2024
+- 🤓 [Người đàn ông lang thang bị đánh tử vong ở vườn hoa](https://vnexpress.net/nguoi-dan-ong-lang-thang-bi-danh-tu-vong-o-vuon-hoa-4738459.html) - 15:38 24/04/2024
+- 🎊 [Băng nhóm cá độ bóng đá hơn 100 tỷ đồng bị bắt](https://vnexpress.net/bang-nhom-ca-do-bong-da-hon-100-ty-dong-bi-bat-4738418.html) - 12:23 24/04/2024
+- 🙉 [Mạo danh nữ tu sĩ lừa tiền từ thiện của hàng chục nghìn người](https://vnexpress.net/mao-danh-nu-tu-si-lua-tien-tu-thien-cua-hang-chuc-nghin-nguoi-4738419.html) - 12:19 24/04/2024
+- 🤡 [Ông Trần Quí Thanh &#39;xót xa vì hai con phải ra tòa&#39;](https://vnexpress.net/ong-tran-qui-thanh-xot-xa-vi-hai-con-phai-ra-toa-4738413.html) - 11:52 24/04/2024
+- 🗽 [Lĩnh án tù vì &#39;nghịch dại&#39; chiếu tia laser vào máy bay](https://vnexpress.net/linh-an-tu-vi-nghich-dai-chieu-tia-laser-vao-may-bay-4738365.html) - 10:29 24/04/2024
+- 🌋 [Trình báo mất nửa tỷ đồng vì tin &#39;sẽ thắng 100%&#39; chơi game online](https://vnexpress.net/trinh-bao-mat-nua-ty-dong-vi-tin-se-thang-100-choi-game-online-4738341.html) - 10:17 24/04/2024
+- 🎬 [Hai công ty hoạt động &#39;tín dụng đen&#39; ở Sài Gòn bị triệt phá](https://vnexpress.net/hai-cong-ty-hoat-dong-tin-dung-den-o-sai-gon-bi-triet-pha-4738320.html) - 08:58 24/04/2024
+- 💯 [Ông Trần Quí Thanh bị đề nghị 9-10 năm tù](https://vnexpress.net/ong-tran-qui-thanh-bi-de-nghi-9-10-nam-tu-4738249.html) - 07:39 24/04/2024
+- 🌏 [Nghỉ việc khi sắp sinh con, tôi sẽ được hưởng quyền lợi nào?](https://vnexpress.net/nghi-viec-khi-sap-sinh-con-toi-se-duoc-huong-quyen-loi-nao-4738078.html) - 03:50 24/04/2024
+- 🌊 [Nữ quái trộm hàng loạt laptop trong ký túc xá đại học](https://video.vnexpress.net/nu-quai-trom-hang-loat-laptop-trong-ky-tuc-xa-dai-hoc-4737936.html) - 01:18 24/04/2024
+- 💂 [Lòng đố kỵ của người họ hàng bất nhân](https://vnexpress.net/long-do-ky-cua-nguoi-ho-hang-bat-nhan-4738013.html) - 00:54 24/04/2024
+- 🎡 [Một người bị bắt sau vụ 7 công nhân tử vong trong máy nghiền xi măng](https://vnexpress.net/mot-nguoi-bi-bat-sau-vu-7-cong-nhan-tu-vong-trong-may-nghien-xi-mang-4737993.html) - 15:01 23/04/2024
+- 🫶 [Tòa: Bị hại của ông Trần Quí Thanh cũng có lỗi](https://vnexpress.net/toa-bi-hai-cua-ong-tran-qui-thanh-cung-co-loi-4737962.html) - 13:33 23/04/2024
+- 🐲 [Phó chủ tịch tỉnh Vĩnh Phúc Nguyễn Văn Khước bị bắt](https://vnexpress.net/pho-chu-tich-vinh-phuc-nguyen-van-khuoc-bi-bat-4737960.html) - 12:10 23/04/2024
+- 🚀 [&#39;Hợp đồng&#39; đập phá ôtô giá 10 triệu đồng](https://vnexpress.net/hop-dong-dap-pha-oto-gia-10-trieu-dong-4737944.html) - 11:51 23/04/2024
+- 🎊 [Chủ quán karaoke bị bắt vì &#39;cầm đầu vụ chém hai anh em&#39;](https://vnexpress.net/chu-quan-karaoke-bi-bat-vi-cam-dau-vu-chem-hai-anh-em-4737931.html) - 11:21 23/04/2024
+- 🤗 [Thỏi vàng giả 5 triệu, rao bán 830 triệu đồng](https://vnexpress.net/thoi-vang-gia-5-trieu-rao-ban-830-trieu-dong-4737901.html) - 10:53 23/04/2024
+- 🗽 [Môi giới bán dâm qua nhóm &#39;Phố đèn đỏ Hải Dương&#39;](https://vnexpress.net/moi-gioi-ban-dam-qua-nhom-pho-den-do-hai-duong-4737860.html) - 09:17 23/04/2024
+- 🕴 [Vô cớ truy sát người đi đường](https://vnexpress.net/vo-co-truy-sat-nguoi-di-duong-4737645.html) - 09:06 23/04/2024
+- 🌜 [Ông Trần Quí Thanh: &#39;Tôi sai, chấp nhận mọi phán quyết của tòa&#39;](https://vnexpress.net/ong-tran-qui-thanh-toi-sai-chap-nhan-moi-phan-quyet-cua-toa-4737723.html) - 07:30 23/04/2024
+- 🧑‍🏫 [Hai anh em bị 5 thanh niên chém gục](https://vnexpress.net/hai-anh-em-bi-5-thanh-nien-chem-guc-4737716.html) - 06:07 23/04/2024
+- 🦩 [Cựu cục phó Thuế TP HCM xin được hưởng án treo](https://vnexpress.net/cuu-cuc-pho-thue-tp-hcm-xin-duoc-huong-an-treo-4737241.html) - 04:36 23/04/2024
+- 💼 [Khi nào người dân bị cơ quan nhà nước giữ lại thẻ căn cước?](https://vnexpress.net/khi-nao-nguoi-dan-bi-co-quan-nha-nuoc-giu-lai-the-can-cuoc-4737371.html) - 01:15 23/04/2024
+- 💫 [Ông Trần Quí Thanh ra tòa](https://vnexpress.net/ong-tran-qui-thanh-ra-toa-4737236.html) - 23:00 22/04/2024
+- 🦅 [Án mạng sau bộ ảnh khỏa thân của người mẫu nhiều tham vọng](https://vnexpress.net/an-mang-sau-bo-anh-khoa-than-cua-nguoi-mau-nhieu-tham-vong-4737369.html) - 17:00 22/04/2024
+- 🧑‍💻 [Tòa phúc thẩm: Mẹ &#39;nữ sinh giao gà&#39; không bị kết tội oan](https://vnexpress.net/toa-phuc-tham-me-nu-sinh-giao-ga-khong-bi-ket-toi-oan-4737359.html) - 12:48 22/04/2024
+- 💻 [Tài công tàu du lịch tông phà trên sông Tiền bị bắt](https://vnexpress.net/tai-cong-tau-du-lich-tong-pha-tren-song-tien-bi-bat-4737380.html) - 11:21 22/04/2024
+- 🤠 [Tên cướp cầm dùi cui điện uy hiếp nhân viên tiệm vàng](https://video.vnexpress.net/ten-cuop-cam-dui-cui-dien-uy-hiep-nhan-vien-tiem-vang-4737364.html) - 11:18 22/04/2024
+- 🧑‍🏫 [Cầm dùi cui điện xông vào tiệm vàng](https://vnexpress.net/cam-dui-cui-dien-xong-vao-tiem-vang-4737329.html) - 10:44 22/04/2024
+- 🌈 [Mang vàng giả cầm cố cho chủ nợ](https://vnexpress.net/mang-vang-gia-cam-co-cho-chu-no-4737336.html) - 10:36 22/04/2024
+- 🌮 [Nhóm người trộm 9.000 m dây cáp điện](https://video.vnexpress.net/nhom-nguoi-trom-9-000-m-day-cap-dien-4737326.html) - 10:32 22/04/2024
+- 🐲 [Giám định 37 bút lục nghi bị &#39;làm giả&#39; trong vụ dìm giá đất ở Đông Anh](https://vnexpress.net/giam-dinh-37-but-luc-nghi-bi-lam-gia-trong-vu-dim-gia-dat-o-dong-anh-4737331.html) - 10:28 22/04/2024
+- 🧰 [Ba tử tù sát hại nữ sinh giao gà nói &#39;sẽ khai sự thật&#39;](https://vnexpress.net/ke-sat-hai-nu-sinh-giao-ga-noi-se-khai-su-that-4737238.html) - 09:43 22/04/2024
+- 💄 [Ba nghi can nước ngoài cướp cửa hàng điện thoại](https://vnexpress.net/ba-nghi-can-nuoc-ngoai-cuop-cua-hang-dien-thoai-4737157.html) - 06:21 22/04/2024
 - ⛽️ [Cựu giám đốc Sở Giáo dục Gia Lai lĩnh án treo](https://vnexpress.net/cuu-giam-doc-so-giao-duc-gia-lai-linh-an-treo-4737136.html) - 05:06 22/04/2024
-- 💂 [Lái ôtô tông bạn sau khi thua đánh bạc](https://vnexpress.net/lai-oto-tong-ban-sau-khi-thua-danh-bac-4737130.html) - 05:02 22/04/2024
-- 🤔 [Phó chủ nhiệm, Trợ lý Chủ tịch Quốc hội bị bắt](https://vnexpress.net/tro-ly-chu-tich-quoc-hoi-pham-thai-ha-bi-bat-4735613.html) - 04:15 22/04/2024
-- 🧐 [Mẹ &#39;nữ sinh giao gà&#39;: Tôi không phải người vì tiền mà không cứu con](https://vnexpress.net/me-nu-sinh-giao-ga-ra-toa-trong-phien-phuc-tham-keu-oan-4736965.html) - 01:57 22/04/2024
-- 🎃 [Lòng tham của nữ phó thị trưởng đa tình](https://vnexpress.net/long-tham-cua-nu-pho-thi-truong-da-tinh-4736920.html) - 17:00 21/04/2024
-- 🤓 [Loạt đại án nghìn tỷ đồng khó thu hồi tài sản](https://vnexpress.net/loat-dai-an-nghin-ty-dong-kho-thu-hoi-tai-san-4736870.html) - 17:00 21/04/2024
-- 💃 [Cách đề nghị cấp phiếu lý lịch tư pháp trên VNeID](https://vnexpress.net/cach-de-nghi-cap-phieu-ly-lich-tu-phap-tren-vneid-4736819.html) - 07:13 21/04/2024
-- 🐵 [Cựu cục phó Thuế TP HCM xin giảm nhẹ hình phạt](https://vnexpress.net/cuu-cuc-pho-thue-tp-hcm-xin-giam-nhe-hinh-phat-4736775.html) - 03:51 21/04/2024
-- 🤖 [&#39;Doanh nhân thành đạt&#39; chiếm đoạt 1.200 tỷ đồng của hai đại gia thế nào](https://vnexpress.net/doanh-nhan-thanh-dat-chiem-doat-1-200-ty-dong-cua-hai-dai-gia-the-nao-4736631.html) - 23:00 20/04/2024
-- ⚗️ [Hai bị cáo kêu oan, vụ án 14 năm chưa có hồi kết](https://vnexpress.net/hai-bi-cao-keu-oan-vu-an-14-nam-chua-co-hoi-ket-4736656.html) - 17:00 20/04/2024
-- 🌏 [Lời khai của nghi phạm giấu xác cô gái 15 tuổi](https://vnexpress.net/loi-khai-cua-nghi-pham-giau-xac-co-gai-15-tuoi-4736542.html) - 08:05 20/04/2024
-- 🦆 [Thiếu nữ 16 tuổi bị người tình của mẹ sát hại](https://vnexpress.net/thieu-nu-16-tuoi-bi-nguoi-tinh-cua-me-sat-hai-4736556.html) - 05:59 20/04/2024
-- 🐎 [Đâm chết hai người sau cuộc cãi vã với tình nhân](https://vnexpress.net/dam-chet-hai-nguoi-sau-cuoc-cai-va-voi-tinh-nhan-4736511.html) - 03:36 20/04/2024
-- 😎 [Âm mưu tàn độc cướp 120 thỏi vàng](https://vnexpress.net/am-muu-tan-doc-cuop-120-thoi-vang-4736402.html) - 22:00 19/04/2024
-- 💪 [Đường dây làm giả thuốc chữa bệnh bị bắt](https://vnexpress.net/duong-day-lam-gia-thuoc-chua-benh-bi-bat-4736372.html) - 17:00 19/04/2024
-- 🤡 [Manh mối phát hiện băng cướp tiệm vàng ở Bình Dương](https://vnexpress.net/manh-moi-phat-hien-bang-cuop-tiem-vang-o-binh-duong-4736127.html) - 17:00 19/04/2024
-- 🌁 [Thiếu nữ bị sát hại, giấu xác trong vườn](https://vnexpress.net/thieu-nu-bi-sat-hai-giau-xac-trong-vuon-4736392.html) - 16:34 19/04/2024
-- 🔥 [Bà chủ quán cà phê bị sát hại](https://vnexpress.net/ba-chu-quan-ca-phe-bi-sat-hai-4736378.html) - 14:51 19/04/2024
+- ⛽️ [Lái ôtô tông bạn sau khi thua đánh bạc](https://vnexpress.net/lai-oto-tong-ban-sau-khi-thua-danh-bac-4737130.html) - 05:02 22/04/2024
+- 💂 [Phó chủ nhiệm, Trợ lý Chủ tịch Quốc hội bị bắt](https://vnexpress.net/tro-ly-chu-tich-quoc-hoi-pham-thai-ha-bi-bat-4735613.html) - 04:15 22/04/2024
+- 🤔 [Mẹ &#39;nữ sinh giao gà&#39;: Tôi không phải người vì tiền mà không cứu con](https://vnexpress.net/me-nu-sinh-giao-ga-ra-toa-trong-phien-phuc-tham-keu-oan-4736965.html) - 01:57 22/04/2024
+- 🧐 [Lòng tham của nữ phó thị trưởng đa tình](https://vnexpress.net/long-tham-cua-nu-pho-thi-truong-da-tinh-4736920.html) - 17:00 21/04/2024
+- 🎃 [Loạt đại án nghìn tỷ đồng khó thu hồi tài sản](https://vnexpress.net/loat-dai-an-nghin-ty-dong-kho-thu-hoi-tai-san-4736870.html) - 17:00 21/04/2024
+- 🤓 [Cách đề nghị cấp phiếu lý lịch tư pháp trên VNeID](https://vnexpress.net/cach-de-nghi-cap-phieu-ly-lich-tu-phap-tren-vneid-4736819.html) - 07:13 21/04/2024
+- 💃 [Cựu cục phó Thuế TP HCM xin giảm nhẹ hình phạt](https://vnexpress.net/cuu-cuc-pho-thue-tp-hcm-xin-giam-nhe-hinh-phat-4736775.html) - 03:51 21/04/2024
+- 🐵 [&#39;Doanh nhân thành đạt&#39; chiếm đoạt 1.200 tỷ đồng của hai đại gia thế nào](https://vnexpress.net/doanh-nhan-thanh-dat-chiem-doat-1-200-ty-dong-cua-hai-dai-gia-the-nao-4736631.html) - 23:00 20/04/2024
+- 🤖 [Hai bị cáo kêu oan, vụ án 14 năm chưa có hồi kết](https://vnexpress.net/hai-bi-cao-keu-oan-vu-an-14-nam-chua-co-hoi-ket-4736656.html) - 17:00 20/04/2024
+- ⚗️ [Lời khai của nghi phạm giấu xác cô gái 15 tuổi](https://vnexpress.net/loi-khai-cua-nghi-pham-giau-xac-co-gai-15-tuoi-4736542.html) - 08:05 20/04/2024
+- 🌏 [Thiếu nữ 16 tuổi bị người tình của mẹ sát hại](https://vnexpress.net/thieu-nu-16-tuoi-bi-nguoi-tinh-cua-me-sat-hai-4736556.html) - 05:59 20/04/2024
+- 🦆 [Đâm chết hai người sau cuộc cãi vã với tình nhân](https://vnexpress.net/dam-chet-hai-nguoi-sau-cuoc-cai-va-voi-tinh-nhan-4736511.html) - 03:36 20/04/2024
+- 🐎 [Âm mưu tàn độc cướp 120 thỏi vàng](https://vnexpress.net/am-muu-tan-doc-cuop-120-thoi-vang-4736402.html) - 22:00 19/04/2024
+- 😎 [Đường dây làm giả thuốc chữa bệnh bị bắt](https://vnexpress.net/duong-day-lam-gia-thuoc-chua-benh-bi-bat-4736372.html) - 17:00 19/04/2024
+- 💪 [Manh mối phát hiện băng cướp tiệm vàng ở Bình Dương](https://vnexpress.net/manh-moi-phat-hien-bang-cuop-tiem-vang-o-binh-duong-4736127.html) - 17:00 19/04/2024
+- 🤡 [Thiếu nữ bị sát hại, giấu xác trong vườn](https://vnexpress.net/thieu-nu-bi-sat-hai-giau-xac-trong-vuon-4736392.html) - 16:34 19/04/2024
+- 🌁 [Bà chủ quán cà phê bị sát hại](https://vnexpress.net/ba-chu-quan-ca-phe-bi-sat-hai-4736378.html) - 14:51 19/04/2024
 - 🔥 [Kẻ sát hại gia đình hàng xóm bị tuyên tử hình](https://vnexpress.net/ke-sat-hai-gia-dinh-hang-xom-bi-tuyen-tu-hinh-4736364.html) - 14:17 19/04/2024
-- 👺 [Nghi can cướp tiệm vàng ở Phan Thiết bị bắt](https://vnexpress.net/nghi-can-cuop-tiem-vang-o-phan-thiet-bi-bat-4736353.html) - 12:05 19/04/2024
-- 🎊 [Tổng giám đốc tập đoàn Tâm Lộc Phát bị bắt](https://vnexpress.net/tong-giam-doc-tap-doan-tam-loc-phat-bi-bat-4736244.html) - 09:14 19/04/2024
-- 🎊 [Vì sao nhiều cán bộ Hà Nội &#39;thoát tội&#39; trong vụ dìm giá 16.000 m2 đất tại Đông Anh?](https://vnexpress.net/vi-sao-nhieu-can-bo-ha-noi-thoat-toi-trong-vu-dim-gia-16-000-m2-dat-tai-dong-anh-4736071.html) - 08:58 19/04/2024<!-- vnexpress-phap-luat:END -->
+- 🔥 [Nghi can cướp tiệm vàng ở Phan Thiết bị bắt](https://vnexpress.net/nghi-can-cuop-tiem-vang-o-phan-thiet-bi-bat-4736353.html) - 12:05 19/04/2024
+- 👺 [Tổng giám đốc tập đoàn Tâm Lộc Phát bị bắt](https://vnexpress.net/tong-giam-doc-tap-doan-tam-loc-phat-bi-bat-4736244.html) - 09:14 19/04/2024
+- 🎊 [Vì sao nhiều cán bộ Hà Nội &#39;thoát tội&#39; trong vụ dìm giá 16.000 m2 đất tại Đông Anh?](https://vnexpress.net/vi-sao-nhieu-can-bo-ha-noi-thoat-toi-trong-vu-dim-gia-16-000-m2-dat-tai-dong-anh-4736071.html) - 08:58 19/04/2024
+- 🎊 [Hai nữ đại gia Sài Gòn bị chiếm đoạt hơn 1.200 tỷ đồng](https://vnexpress.net/hai-nu-dai-gia-sai-gon-bi-chiem-doat-hon-1-200-ty-dong-4736154.html) - 08:44 19/04/2024<!-- vnexpress-phap-luat:END -->
