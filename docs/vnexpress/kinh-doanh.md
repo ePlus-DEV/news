@@ -15,7 +15,7 @@ sidebar_position: 3
 - 🧰 [Điểm đặc biệt trong chương trình khuyến mại mừng 70 năm Kymdan](https://vnexpress.net/diem-dac-biet-trong-chuong-trinh-khuyen-mai-mung-70-nam-kymdan-4738579.html) - 04:00 25/04/2024
 - 🤔 [Giá trị Meta có thể giảm gần 200 tỷ USD](https://vnexpress.net/gia-tri-meta-co-the-giam-gan-200-ty-usd-4738570.html) - 03:51 25/04/2024
 - 🧑‍💻 [Bizman Media đạt Top 10 thương hiệu mạnh ASEAN 2024](https://vnexpress.net/bizman-media-dat-top-10-thuong-hieu-manh-asean-2024-4738281.html) - 03:30 25/04/2024
-- 🕴 [Giá vàng miếng quay đầu giảm](https://vnexpress.net/gia-vang-mieng-bien-dong-4738587.html) - 02:44 25/04/2024
+- 🕴 [Giá vàng miếng đảo chiều tăng](https://vnexpress.net/gia-vang-mieng-bien-dong-4738587.html) - 02:44 25/04/2024
 - 🦩 [Shopee vững ngôi vương doanh thu, TikTok Shop gia tăng thị phần](https://vnexpress.net/shopee-vung-ngoi-vuong-doanh-thu-tiktok-shop-gia-tang-thi-phan-4738321.html) - 23:50 24/04/2024
 - 👍 [Bộ trưởng Công Thương: Mua 0 đồng điện mặt trời mái nhà để ngăn trục lợi](https://vnexpress.net/dien-mat-troi-mai-nha-tu-dung-ban-0-dong-de-ngan-truc-loi-4738446.html) - 14:16 24/04/2024
 - 🏊 [Nhiều xe chở hàng Việt Nam bị giữ tại Trung Quốc](https://vnexpress.net/nhieu-xe-cho-hang-viet-nam-bi-giu-tai-trung-quoc-4738425.html) - 12:44 24/04/2024
