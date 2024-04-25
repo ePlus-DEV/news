@@ -4,17 +4,17 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [7.000 trường ở Philippines chuyển học trực tuyến vì nắng nóng](https://vnexpress.net/7-000-truong-o-philippines-chuyen-hoc-truc-tuyen-vi-nang-nong-4738514.html) - 04:53 25/04/2024
-- 🦆 [&#39;Đào tạo nhân lực vi mạch bán dẫn tại Việt Nam, cơ bản là chưa đủ&#39;](https://vnexpress.net/dao-tao-nhan-luc-vi-mach-ban-dan-tai-viet-nam-co-ban-la-chua-du-4738530.html) - 01:00 25/04/2024
-- 🦩 [Học phí ngành Báo chí, Truyền thông tăng cao nhất hơn 6 triệu đồng](https://vnexpress.net/hoc-phi-nganh-bao-chi-truyen-thong-tang-cao-nhat-hon-6-trieu-dong-4735533.html) - 23:46 24/04/2024
-- 🌮 [Kỳ thủ cờ tướng 12 tuổi là &#39;gương mặt Thủ đô tiêu biểu&#39;](https://vnexpress.net/ky-thu-co-tuong-12-tuoi-la-guong-mat-thu-do-tieu-bieu-4738168.html) - 23:20 24/04/2024
-- 🔭 [Người dân thành phố trung ương nào có tuổi thọ trung bình cao nhất?](https://vnexpress.net/nguoi-dan-thanh-pho-trung-uong-nao-co-tuoi-tho-trung-binh-cao-nhat-4738412.html) - 13:41 24/04/2024
-- 💡 [Mẹ bé trai bị đánh ở lớp mẫu giáo Tí Bo: Tôi giận run người](https://vnexpress.net/me-be-trai-bi-danh-o-lop-mau-giao-ti-bo-toi-gian-run-nguoi-4738432.html) - 13:02 24/04/2024
-- 🥰 [Chủ lớp mẫu giáo Tí Bo đánh hai bé trai](https://vnexpress.net/chu-lop-mau-giao-ti-bo-danh-hai-be-trai-4738367.html) - 09:24 24/04/2024
-- 🐲 [10 trường Tài chính Kế toán tốt nhất thế giới](https://vnexpress.net/10-truong-tai-chinh-ke-toan-tot-nhat-the-gioi-4737920.html) - 09:01 24/04/2024
-- 🦒 [Sáu loại hình học bổng Đại học FPT năm 2024](https://vnexpress.net/sau-loai-hinh-hoc-bong-dai-hoc-fpt-nam-2024-4738315.html) - 09:00 24/04/2024
-- 🦆 [Gần 60 tỉnh, thành công bố lịch thi lớp 10](https://vnexpress.net/gan-60-tinh-thanh-cong-bo-lich-thi-lop-10-4737570.html) - 07:53 24/04/2024
-- 🧰 [​Hai nam sinh nhận học bổng 100% từ Trường Đại học FPT](https://vnexpress.net/hai-nam-sinh-nhan-hoc-bong-100-tu-truong-dai-hoc-fpt-4738368.html) - 06:30 24/04/2024
+- 🤓 [​Hai nam sinh nhận học bổng 100% từ Trường Đại học FPT](https://vnexpress.net/hai-nam-sinh-nhan-hoc-bong-100-tu-truong-dai-hoc-fpt-4738368.html) - 07:00 25/04/2024
+- 🦆 [7.000 trường ở Philippines chuyển học trực tuyến vì nắng nóng](https://vnexpress.net/7-000-truong-o-philippines-chuyen-hoc-truc-tuyen-vi-nang-nong-4738514.html) - 04:53 25/04/2024
+- 🦩 [&#39;Đào tạo nhân lực vi mạch bán dẫn tại Việt Nam, cơ bản là chưa đủ&#39;](https://vnexpress.net/dao-tao-nhan-luc-vi-mach-ban-dan-tai-viet-nam-co-ban-la-chua-du-4738530.html) - 01:00 25/04/2024
+- 🌮 [Học phí ngành Báo chí, Truyền thông tăng cao nhất hơn 6 triệu đồng](https://vnexpress.net/hoc-phi-nganh-bao-chi-truyen-thong-tang-cao-nhat-hon-6-trieu-dong-4735533.html) - 23:46 24/04/2024
+- 🔭 [Kỳ thủ cờ tướng 12 tuổi là &#39;gương mặt Thủ đô tiêu biểu&#39;](https://vnexpress.net/ky-thu-co-tuong-12-tuoi-la-guong-mat-thu-do-tieu-bieu-4738168.html) - 23:20 24/04/2024
+- 💡 [Người dân thành phố trung ương nào có tuổi thọ trung bình cao nhất?](https://vnexpress.net/nguoi-dan-thanh-pho-trung-uong-nao-co-tuoi-tho-trung-binh-cao-nhat-4738412.html) - 13:41 24/04/2024
+- 🥰 [Mẹ bé trai bị đánh ở lớp mẫu giáo Tí Bo: Tôi giận run người](https://vnexpress.net/me-be-trai-bi-danh-o-lop-mau-giao-ti-bo-toi-gian-run-nguoi-4738432.html) - 13:02 24/04/2024
+- 🐲 [Chủ lớp mẫu giáo Tí Bo đánh hai bé trai](https://vnexpress.net/chu-lop-mau-giao-ti-bo-danh-hai-be-trai-4738367.html) - 09:24 24/04/2024
+- 🦒 [10 trường Tài chính Kế toán tốt nhất thế giới](https://vnexpress.net/10-truong-tai-chinh-ke-toan-tot-nhat-the-gioi-4737920.html) - 09:01 24/04/2024
+- 🦆 [Sáu loại hình học bổng Đại học FPT năm 2024](https://vnexpress.net/sau-loai-hinh-hoc-bong-dai-hoc-fpt-nam-2024-4738315.html) - 09:00 24/04/2024
+- 🧰 [Gần 60 tỉnh, thành công bố lịch thi lớp 10](https://vnexpress.net/gan-60-tinh-thanh-cong-bo-lich-thi-lop-10-4737570.html) - 07:53 24/04/2024
 - 🐘 [Thủ khoa thi đánh giá năng lực ĐH Quốc gia Hà Nội đạt 129/150 điểm](https://vnexpress.net/thu-khoa-thi-danh-gia-nang-luc-dh-quoc-gia-ha-noi-dat-129-150-diem-4738233.html) - 05:20 24/04/2024
 - 🤓 [Thưởng 5 triệu đồng cho nam sinh học ngành Mầm non](https://vnexpress.net/thuong-5-trieu-dong-cho-nam-sinh-hoc-nganh-mam-non-4738099.html) - 04:57 24/04/2024
 - 🧰 [Trẻ mầm non bị cô giáo đánh, ngồi lên người](https://vnexpress.net/tre-mam-non-bi-co-giao-danh-ngoi-len-nguoi-4738161.html) - 03:45 24/04/2024
