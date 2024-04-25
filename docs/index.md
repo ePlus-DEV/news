@@ -256,7 +256,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐎 [&quot;Cây thoát nghèo&quot; của người dân huyện Nghi Lộc](https://nld.com.vn/cay-thoat-ngheo-cua-nguoi-dan-huyen-nghi-loc-196240425210212043.htm) - 21:07 25/04/2024
 - 😺 [Vụ thu hồi đất một đằng, bồi thường một nẻo: Phải bồi thường đúng chủ thể!](https://nld.com.vn/vu-thu-hoi-dat-mot-dang-boi-thuong-mot-neo-phai-boi-thuong-dung-chu-the-196240425205801975.htm) - 20:38 25/04/2024
 - 👍 [Món bánh nổi tiếng gần trăm năm ở Nhật Bản](https://nld.com.vn/mon-banh-noi-tieng-gan-tram-nam-o-nhat-ban-196240425213530709.htm) - 20:06 25/04/2024
-- 🥷 [Người thầy tận tụy](https://nld.com.vn/nguoi-thay-tan-tuy-196240425193153172.htm) - 19:36 25/04/2024
+- 🥷 [NÂNG BƯỚC NGƯỜI LAO ĐỘNG: Người thầy tận tụy](https://nld.com.vn/nguoi-thay-tan-tuy-196240425193153172.htm) - 19:36 25/04/2024
 - 🤔 [Báo động mới của WHO](https://nld.com.vn/bao-dong-moi-cua-who-196240425210748317.htm) - 19:09 25/04/2024
 - 🌈 [Cần Thơ: Nhiều hoạt động ý nghĩa trong Tháng Công nhân](https://nld.com.vn/can-tho-nhieu-hoat-dong-y-nghia-trong-thang-cong-nhan-196240425194811207.htm) - 18:36 25/04/2024
 - 🔥 [Triển lãm ảnh &quot;Tổ quốc bên bờ sóng&quot; lần 2](https://nld.com.vn/trien-lam-anh-to-quoc-ben-bo-song-lan-2-19624042522003905.htm) - 18:10 25/04/2024
