@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Hà Nội tổ chức loạt hoạt động vui chơi, thu hút khách dịp 30/4](https://vnexpress.net/ha-noi-to-chuc-loat-hoat-dong-vui-choi-thu-hut-khach-dip-30-4-4738788.html) - 14:13 25/04/2024
+- 💂 [Loạt hoạt động vui chơi tại Hà Nội dịp 30/4](https://vnexpress.net/loat-hoat-dong-vui-choi-tai-ha-noi-dip-30-4-4738788.html) - 14:13 25/04/2024
 - 🪄 [Tràng An hướng đến &#39;trái tim&#39; của đô thị di sản thiên niên kỷ](https://vnexpress.net/trang-an-huong-den-trai-tim-cua-do-thi-di-san-thien-nien-ky-4738122.html) - 13:00 25/04/2024
 - 🦅 [Nhiều điểm du lịch phía Bắc &#39;cháy&#39; phòng, giá tăng gấp đôi](https://vnexpress.net/nhieu-diem-du-lich-phia-bac-chay-phong-gia-tang-gap-doi-4737433.html) - 05:27 25/04/2024
 - 🕴 [Sắp khởi hành chuyến bay du lịch đầu tiên cho chó cưng](https://vnexpress.net/sap-khoi-hanh-chuyen-bay-du-lich-dau-tien-cho-cho-cung-4738441.html) - 03:51 25/04/2024
