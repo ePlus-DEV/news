@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [ĐH Khoa học Xã hội và Nhân văn TP HCM tăng học phí](https://vnexpress.net/dh-khoa-hoc-xa-hoi-va-nhan-van-tp-hcm-tang-hoc-phi-4738964.html) - 14:54 25/04/2024
-- 🦆 [Việt Nam từng đúc tiền bằng vàng giai đoạn nào?](https://vnexpress.net/viet-nam-tung-duc-tien-bang-vang-giai-doan-nao-4738948.html) - 13:35 25/04/2024
+- 🦆 [Việt Nam từng đúc tiền bằng vàng nguyên chất giai đoạn nào?](https://vnexpress.net/viet-nam-tung-duc-tien-bang-vang-nguyen-chat-giai-doan-nao-4738948.html) - 13:35 25/04/2024
 - 🦩 [&#39;Chuyện xảy ra ở nhóm trẻ Tí Bo là cá biệt&#39;](https://vnexpress.net/chuyen-xay-ra-o-nhom-tre-ti-bo-la-ca-biet-4738955.html) - 12:46 25/04/2024
 - 🌮 [&#39;Một mũi tên trúng hai đích&#39; trong tiếng Anh là gì?](https://vnexpress.net/mot-mui-ten-trung-hai-dich-trong-tieng-anh-la-gi-4738905.html) - 11:13 25/04/2024
 - 🔭 [Học phí lớp 6 trường tư ở Hà Nội lên tới 60 triệu đồng một tháng](https://vnexpress.net/hoc-phi-lop-6-truong-tu-o-ha-noi-len-toi-60-trieu-dong-mot-thang-4738566.html) - 09:16 25/04/2024
