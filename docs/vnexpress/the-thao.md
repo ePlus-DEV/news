@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Runner vừa chạy vừa thử rượu đạt sub4:42 tại London Marathon](https://vnexpress.net/runner-vua-chay-vua-thu-ruou-dat-sub4-42-tai-london-marathon-4738853.html) - 09:00 25/04/2024
-- 🦩 [HLV Hoàng Anh Tuấn: &#39;Việt Nam có cơ hội vượt qua Iraq&#39;](https://vnexpress.net/hlv-hoang-anh-tuan-viet-nam-co-co-hoi-vuot-qua-iraq-4738814.html) - 08:45 25/04/2024
+- 🦩 [HLV Hoàng Anh Tuấn tin Việt Nam có thể vượt qua Iraq](https://vnexpress.net/hlv-hoang-anh-tuan-tin-viet-nam-co-the-vuot-qua-iraq-4738814.html) - 08:45 25/04/2024
 - 🧰 [5 lý do khiến Xavi ở lại Barca](https://vnexpress.net/5-ly-do-khien-xavi-o-lai-barca-4738627.html) - 08:24 25/04/2024
 - 🤗 [Công Phượng được khen sau trận đầu đá chính cho Yokohama FC](https://vnexpress.net/cong-phuong-duoc-khen-sau-tran-dau-da-chinh-cho-yokohama-fc-4738777.html) - 07:55 25/04/2024
 - 🥳 [Cua-rơ Quân khu 7 thắng hai ngoại binh ở giải xe đạp xuyên Việt](https://vnexpress.net/cua-ro-quan-khu-7-thang-hai-ngoai-binh-o-giai-xe-dap-xuyen-viet-4738776.html) - 07:51 25/04/2024
