@@ -227,8 +227,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧰 [Người dân bức xúc mang cây chặn đường cao tốc Diễn Châu - Bãi Vọt](https://laodong.vn/xa-hoi/nguoi-dan-buc-xuc-mang-cay-chan-duong-cao-toc-dien-chau-bai-vot-1332766.ldo) - 13:37 26/04/2024
 - 🥷 [Kỷ luật khiển trách Chủ tịch tỉnh Bắc Ninh Nguyễn Hương Giang](https://laodong.vn/thoi-su/ky-luat-khien-trach-chu-tich-tinh-bac-ninh-nguyen-huong-giang-1332781.ldo) - 13:33 26/04/2024
 - 💫 [Vinh danh 95 công nhân, lao động tiêu biểu tỉnh Quảng Ninh](https://laodong.vn/cong-doan/vinh-danh-95-cong-nhan-lao-dong-tieu-bieu-tinh-quang-ninh-1332610.ldo) - 13:32 26/04/2024
-- 🎭 [Đại tá quân đội nghỉ hưu năm 2024 tính bình quân tiền lương thế nào?](https://laodong.vn/ban-doc/dai-ta-quan-doi-nghi-huu-nam-2024-tinh-binh-quan-tien-luong-the-nao-1332734.ldo) - 13:30 26/04/2024
-- 😎 [Tin tức 24h: Giá vàng nhẫn tăng sốc, người dân vội bán chốt lời](https://laodong.vn/video/tin-tuc-24h-gia-vang-nhan-tang-soc-nguoi-dan-voi-ban-chot-loi-1332762.ldo) - 13:30 26/04/2024
+- 🎭 [Tin tức 24h: Giá vàng nhẫn tăng sốc, người dân vội bán chốt lời](https://laodong.vn/video/tin-tuc-24h-gia-vang-nhan-tang-soc-nguoi-dan-voi-ban-chot-loi-1332762.ldo) - 13:30 26/04/2024
+- 😎 [Đại tá quân đội nghỉ hưu năm 2024 tính bình quân tiền lương thế nào?](https://laodong.vn/ban-doc/dai-ta-quan-doi-nghi-huu-nam-2024-tinh-binh-quan-tien-luong-the-nao-1332734.ldo) - 13:30 26/04/2024
 - 💄 [TPHCM thúc đẩy phát triển kinh tế số ở mảng du lịch, giáo dục, logistics](https://laodong.vn/cong-nghe/tphcm-thuc-day-phat-trien-kinh-te-so-o-mang-du-lich-giao-duc-logistics-1332729.ldo) - 13:20 26/04/2024
 - 🫣 [Một trưởng phòng ở Bắc Kạn bị bắt vì nhận hối lộ](https://laodong.vn/phap-luat/mot-truong-phong-o-bac-kan-bi-bat-vi-nhan-hoi-lo-1332745.ldo) - 13:16 26/04/2024
 - 🧑‍🏫 [HLV Giustozzi lý giải quyết định khiến tuyển futsal Việt Nam thua trận](https://laodong.vn/bong-da/hlv-giustozzi-ly-giai-quyet-dinh-khien-tuyen-futsal-viet-nam-thua-tran-1332707.ldo) - 13:13 26/04/2024
@@ -244,12 +244,12 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💻 [Chăm sóc sức khỏe sinh sản cho gần 200 lao động nữ Khu Kinh tế Nhơn Hội](https://laodong.vn/cong-doan/cham-soc-suc-khoe-sinh-san-cho-gan-200-lao-dong-nu-khu-kinh-te-nhon-hoi-1332649.ldo) - 12:49 26/04/2024
 - 👨‍🏫 [EVN khởi công 7 dự án nguồn điện trong giai đoạn 2021-2025](https://laodong.vn/thoi-su/evn-khoi-cong-7-du-an-nguon-dien-trong-giai-doan-2021-2025-1332646.ldo) - 12:47 26/04/2024
 - 🌈 [Không về quê, sinh viên tận dụng các ngày nghỉ lễ để đi làm thêm, ôn bài](https://laodong.vn/video/khong-ve-que-sinh-vien-tan-dung-cac-ngay-nghi-le-de-di-lam-them-on-bai-1332687.ldo) - 12:43 26/04/2024
-- 🐲 [Vụ 7 người tử vong tại Xi măng Yên Bái: Do nhân viên dùng cán chổi chọc vào rơle đóng điện](https://laodong.vn/xa-hoi/vu-7-nguoi-tu-vong-tai-xi-mang-yen-bai-do-nhan-vien-dung-can-choi-choc-vao-role-dong-dien-1332709.ldo) - 12:39 26/04/2024
-- 🚀 [Video bàn thắng tuyển futsal Việt Nam và Kyrgyzstan tại trận play-off tranh vé dự World Cup](https://laodong.vn/video/video-ban-thang-tuyen-futsal-viet-nam-va-kyrgyzstan-tai-tran-play-off-tranh-ve-du-world-cup-1332726.ldo) - 12:37 26/04/2024
-- 😺 [Bản tin dự báo thời tiết đêm nay và ngày mai 27.4](https://laodong.vn/video-xa-hoi/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-274-1332553.ldo) - 12:30 26/04/2024
-- 🕴 [Bị xử lý vì tội đưa hối lộ, hàng loạt bị cáo ở Đắk Nông kêu oan](https://laodong.vn/phap-luat/bi-xu-ly-vi-toi-dua-hoi-lo-hang-loat-bi-cao-o-dak-nong-keu-oan-1332488.ldo) - 12:30 26/04/2024
-- 🌋 [Từ trại giam, Trương Mỹ Lan kháng cáo toàn bộ bản án sơ thẩm](https://laodong.vn/phap-luat/tu-trai-giam-truong-my-lan-khang-cao-toan-bo-ban-an-so-tham-1332713.ldo) - 12:28 26/04/2024
-- 💄 [Vé máy bay tăng cao, Bamboo Airways tiến đến điểm hòa vốn nhờ mảng cốt lõi](https://laodong.vn/kinh-doanh/ve-may-bay-tang-cao-bamboo-airways-tien-den-diem-hoa-von-nho-mang-cot-loi-1324381.ldo) - 12:25 26/04/2024<!-- laodong:END -->
+- 🐲 [Video bàn thắng tuyển futsal Việt Nam và Kyrgyzstan tại trận play-off tranh vé dự World Cup](https://laodong.vn/video/video-ban-thang-tuyen-futsal-viet-nam-va-kyrgyzstan-tai-tran-play-off-tranh-ve-du-world-cup-1332726.ldo) - 12:37 26/04/2024
+- 🚀 [Bản tin dự báo thời tiết đêm nay và ngày mai 27.4](https://laodong.vn/video-xa-hoi/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-274-1332553.ldo) - 12:30 26/04/2024
+- 😺 [Bị xử lý vì tội đưa hối lộ, hàng loạt bị cáo ở Đắk Nông kêu oan](https://laodong.vn/phap-luat/bi-xu-ly-vi-toi-dua-hoi-lo-hang-loat-bi-cao-o-dak-nong-keu-oan-1332488.ldo) - 12:30 26/04/2024
+- 🕴 [Từ trại giam, Trương Mỹ Lan kháng cáo toàn bộ bản án sơ thẩm](https://laodong.vn/phap-luat/tu-trai-giam-truong-my-lan-khang-cao-toan-bo-ban-an-so-tham-1332713.ldo) - 12:28 26/04/2024
+- 🌋 [Vé máy bay tăng cao, Bamboo Airways tiến đến điểm hòa vốn nhờ mảng cốt lõi](https://laodong.vn/kinh-doanh/ve-may-bay-tang-cao-bamboo-airways-tien-den-diem-hoa-von-nho-mang-cot-loi-1324381.ldo) - 12:25 26/04/2024
+- 💄 [Lãnh đạo An Giang đặt mục tiêu đưa Tân Châu lên thành phố trước năm 2030](https://laodong.vn/thoi-su/lanh-dao-an-giang-dat-muc-tieu-dua-tan-chau-len-thanh-pho-truoc-nam-2030-1332708.ldo) - 12:24 26/04/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
