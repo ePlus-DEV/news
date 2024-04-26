@@ -575,12 +575,12 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Ô tô BMW gây náo loạn ở trung tâm TP HCM](https://tienphong.vn/o-to-bmw-gay-nao-loan-o-trung-tam-tp-hcm-post1632493.tpo) - 20:30 26/04/2024
+- 💼 [Ô tô BMW gây náo loạn ở trung tâm TPHCM](https://tienphong.vn/o-to-bmw-gay-nao-loan-o-trung-tam-tphcm-post1632493.tpo) - 20:30 26/04/2024
 - 🎊 [Bộ trưởng Shoigu nói Nga và các đồng minh nên tăng cường tập trận ở châu Á](https://tienphong.vn/bo-truong-shoigu-noi-nga-va-cac-dong-minh-nen-tang-cuong-tap-tran-o-chau-a-post1632475.tpo) - 20:27 26/04/2024
 - 💼 [TAND Tối cao bổ nhiệm Phó Chánh án TAND TP Hải Phòng, Hà Nam](https://tienphong.vn/tand-toi-cao-bo-nhiem-pho-chanh-an-tand-tp-hai-phong-ha-nam-post1632428.tpo) - 20:14 26/04/2024
 - 👺 [Tài xế ô tô đạp nhầm chân ga, húc đổ trụ bơm xăng cùng nhiều xe máy](https://tienphong.vn/tai-xe-o-to-dap-nham-chan-ga-huc-do-tru-bom-xang-cung-nhieu-xe-may-post1632492.tpo) - 20:11 26/04/2024
 - 💪 [Nghịch tử nhiều lần cầm dao dọa giết bố mẹ và người thân](https://tienphong.vn/nghich-tu-nhieu-lan-cam-dao-doa-giet-bo-me-va-nguoi-than-post1632407.tpo) - 20:11 26/04/2024
-- 💃 [Trực tiếp U23 Uzbekistan vs U23 Saudi Arabia, 21h00 ngày 26/4: So tài đỉnh cao](https://tienphong.vn/truc-tiep-u23-uzbekistan-vs-u23-saudi-arabia-21h00-ngay-264-so-tai-dinh-cao-post1632489.tpo) - 20:10 26/04/2024
+- 💃 [Trực tiếp U23 Uzbekistan vs U23 Saudi Arabia 0-0 &lpar;H1&rpar;: So tài đỉnh cao](https://tienphong.vn/truc-tiep-u23-uzbekistan-vs-u23-saudi-arabia-0-0-h1-so-tai-dinh-cao-post1632489.tpo) - 20:10 26/04/2024
 - 🦍 [Trao tặng 13.000 bản đồ Tổ quốc cho các trường học trên cả nước](https://tienphong.vn/trao-tang-13000-ban-do-to-quoc-cho-cac-truong-hoc-tren-ca-nuoc-post1632442.tpo) - 20:08 26/04/2024
 - 👹 [Thượng nguồn tăng khai thác, nước về Đồng bằng sông Cửu Long ngày càng giảm](https://tienphong.vn/thuong-nguon-tang-khai-thac-nuoc-ve-dong-bang-song-cuu-long-ngay-cang-giam-post1632470.tpo) - 20:04 26/04/2024
 - 🌜 [Người hâm mộ Đà Nẵng vây quanh Rivaldo và dàn huyền thoại bóng đá Brazil](https://tienphong.vn/nguoi-ham-mo-da-nang-vay-quanh-rivaldo-va-dan-huyen-thoai-bong-da-brazil-post1632424.tpo) - 20:01 26/04/2024
