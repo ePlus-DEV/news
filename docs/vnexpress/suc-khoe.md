@@ -6,10 +6,10 @@ sidebar_position: 10
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [Hút thuốc, uống rượu ở thanh thiếu niên tăng báo động](https://vnexpress.net/hut-thuoc-uong-ruou-o-thanh-thieu-nien-tang-bao-dong-4739186.html) - 04:14 26/04/2024
 - 🥰 [Phòng bệnh hô hấp khi đi du lịch mùa nóng](https://vnexpress.net/phong-benh-ho-hap-khi-di-du-lich-mua-nong-4739091.html) - 04:00 26/04/2024
-- 💡 [Mạo danh chữ ký giám đốc bệnh viện để kêu gọi từ thiện](https://vnexpress.net/mao-danh-chu-ky-giam-doc-benh-vien-de-keu-goi-tu-thien-4739060.html) - 03:39 26/04/2024
-- 🤗 [Trào ngược dạ dày gây biến chứng nào?](https://vnexpress.net/trao-nguoc-da-day-gay-bien-chung-nao-4739067.html) - 03:00 26/04/2024
-- 🪜 [Dấu hiệu nhận biết hội chứng Cushing](https://vnexpress.net/dau-hieu-nhan-biet-hoi-chung-cushing-4738977.html) - 03:00 26/04/2024
-- 🕯 [Giảm 32 kg - cô gái dáng &#39;quả lê&#39; có vòng eo con kiến](https://vnexpress.net/giam-32-kg-co-gai-dang-qua-le-co-vong-eo-con-kien-4738250.html) - 02:50 26/04/2024
+- 💡 [Giảm 32 kg - cô gái dáng &#39;quả lê&#39; có vòng eo con kiến](https://vnexpress.net/giam-32-kg-co-gai-dang-qua-le-co-vong-eo-con-kien-4738250.html) - 03:50 26/04/2024
+- 🤗 [Mạo danh chữ ký giám đốc bệnh viện để kêu gọi từ thiện](https://vnexpress.net/mao-danh-chu-ky-giam-doc-benh-vien-de-keu-goi-tu-thien-4739060.html) - 03:39 26/04/2024
+- 🪜 [Trào ngược dạ dày gây biến chứng nào?](https://vnexpress.net/trao-nguoc-da-day-gay-bien-chung-nao-4739067.html) - 03:00 26/04/2024
+- 🕯 [Dấu hiệu nhận biết hội chứng Cushing](https://vnexpress.net/dau-hieu-nhan-biet-hoi-chung-cushing-4738977.html) - 03:00 26/04/2024
 - 🤭 [Kỹ thuật mới mổ cấp cứu đột quỵ &#39;vô cảm thức tỉnh&#39;](https://vnexpress.net/ky-thuat-moi-mo-cap-cuu-dot-quy-vo-cam-thuc-tinh-4738974.html) - 02:00 26/04/2024
 - 👀 [Báo động đỏ cứu thai phụ 2 lần ngừng tim trên bàn mổ](https://vnexpress.net/bao-dong-do-cuu-thai-phu-2-lan-ngung-tim-tren-ban-mo-4739045.html) - 01:48 26/04/2024
 - 🌋 [Có nên cắt amidan không?](https://vnexpress.net/co-nen-cat-amidan-khong-4738975.html) - 01:00 26/04/2024
