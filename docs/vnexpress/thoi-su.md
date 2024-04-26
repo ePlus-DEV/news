@@ -5,9 +5,9 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Tăng buýt kết nối Tân Sơn Nhất dịp lễ 30/4](https://vnexpress.net/tang-buyt-ket-noi-tan-son-nhat-dip-le-30-4-4739251.html) - 05:34 26/04/2024
-- 🤓 [Cả nước nắng nóng dịp nghỉ lễ 30/4-1/5](https://vnexpress.net/ca-nuoc-nang-nong-dip-nghi-le-30-4-1-5-4739109.html) - 04:41 26/04/2024
+- 🤓 [Một số nơi nóng trên 40 độ C dịp nghỉ lễ 30/4](https://vnexpress.net/mot-so-noi-nong-tren-40-do-c-dip-nghi-le-30-4-4739109.html) - 04:41 26/04/2024
 - ⚗️ [Lãnh đạo Đảng, Nhà nước vào lăng viếng Chủ tịch Hồ Chí Minh](https://vnexpress.net/lanh-dao-dang-nha-nuoc-vao-lang-vieng-chu-tich-ho-chi-minh-4739158.html) - 03:52 26/04/2024
-- 🌊 [Trồng cây hoang dại thành đặc sản](https://vnexpress.net/trong-cay-hoang-dai-thanh-dac-san-4738623.html) - 02:46 26/04/2024
+- 🌊 [Trồng cây dại thành đặc sản](https://vnexpress.net/trong-cay-dai-thanh-dac-san-4738623.html) - 02:46 26/04/2024
 - 🎓 [Cao tốc cuối cùng nối TP HCM - Nha Trang thông xe](https://vnexpress.net/cao-toc-cuoi-cung-noi-tp-hcm-nha-trang-thong-xe-4738882.html) - 00:11 26/04/2024
 - 🔥 [Công nhân sẽ từ chối thu gom rác sinh hoạt chưa phân loại](https://vnexpress.net/cong-nhan-se-tu-choi-thu-gom-rac-sinh-hoat-chua-phan-loai-4738671.html) - 12:55 25/04/2024
 - 🦏 [Số nạn nhân vụ chìm tàu ở Quảng Ngãi có thể 9 người](https://vnexpress.net/so-nan-nhan-vu-chim-tau-o-quang-ngai-co-the-9-nguoi-4738908.html) - 11:45 25/04/2024
