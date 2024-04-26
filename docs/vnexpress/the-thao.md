@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Uzbekistan hạ bệ ĐKVĐ Arab Saudi](https://vnexpress.net/uzbekistan-ha-be-dkvd-arab-saudi-4739533.html) - 17:41 26/04/2024
 - 🦩 [Van Dijk ủng hộ HLV đồng hương dẫn dắt Liverpool](https://vnexpress.net/van-dijk-ung-ho-hlv-dong-huong-dan-dat-liverpool-4739486.html) - 17:00 26/04/2024
-- 🧰 [Iraq 1-0 Việt Nam &lpar;H2&rpar;: Thẻ đỏ dập tắt hy vọng](https://vnexpress.net/truc-tiep-iraq-vs-viet-nam-4739518.html) - 16:27 26/04/2024
+- 🧰 [Việt Nam thua Iraq, tan mộng Olympic](https://vnexpress.net/truc-tiep-iraq-vs-viet-nam-4739518.html) - 16:27 26/04/2024
 - 🤗 [HLV Diego: &#39;Futsal Việt Nam trả giá vì sai lầm&#39;](https://vnexpress.net/hlv-diego-futsal-viet-nam-tra-gia-vi-sai-lam-4739509.html) - 14:21 26/04/2024
 - 🥳 [LĐBĐ Hàn Quốc cúi đầu xin lỗi vì mất vé Olympic](https://vnexpress.net/ldbd-han-quoc-cui-dau-xin-loi-vi-mat-ve-olympic-4739490.html) - 13:52 26/04/2024
 - 🦣 [Golfer Việt nam vô địch chung kết lớn Faldo Series Asia 2024](https://vnexpress.net/golfer-viet-nam-vo-dich-chung-ket-lon-faldo-series-asia-2024-4739495.html) - 12:50 26/04/2024
