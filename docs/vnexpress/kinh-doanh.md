@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [Lợi nhuận taxi Vinasun giảm một nửa vì &#39;hỗ trợ tài xế&#39;](https://vnexpress.net/loi-nhuan-taxi-vinasun-giam-mot-nua-vi-ho-tro-tai-xe-4739457.html) - 14:54 26/04/2024
 - 🐲 [Thiso Mall đưa vào hoạt động tầng L2 và L3 dịp lễ](https://vnexpress.net/thiso-mall-dua-vao-hoat-dong-tang-l2-va-l3-dip-le-4739459.html) - 13:00 26/04/2024
 - 🔥 [Masan ra mắt cơm tự chín giá từ 100.000 đồng](https://vnexpress.net/masan-ra-mat-com-tu-chin-gia-tu-100-000-dong-4739475.html) - 12:00 26/04/2024
-- 🐵 [Lãnh đạo Sacombank nói về khoản nợ của Bamboo Airways và Trầm Bê](https://vnexpress.net/sacombank-noi-ve-khoan-no-3-500-ty-cua-bamboo-airways-4739282.html) - 08:50 26/04/2024
+- 🐵 [Lãnh đạo Sacombank nói về khoản nợ của Bamboo Airways và Trầm Bê](https://vnexpress.net/lanh-dao-sacombank-noi-ve-khoan-no-cua-bamboo-airways-va-tram-be-4739282.html) - 08:50 26/04/2024
 - 🦅 [Chứng khoán &#39;xanh vỏ, đỏ lòng&#39; trước nghỉ lễ](https://vnexpress.net/chung-khoan-xanh-vo-do-long-truoc-nghi-le-4739375.html) - 08:49 26/04/2024
 - 😺 [&#39;Ông lớn&#39; ngành dược lên kế hoạch lãi kỷ lục](https://vnexpress.net/ong-lon-nganh-duoc-len-ke-hoach-lai-ky-luc-4739294.html) - 08:10 26/04/2024
 - 🤩 [Mark Zuckerberg mất 18 tỷ USD một ngày](https://vnexpress.net/mark-zuckerberg-mat-18-ty-usd-mot-ngay-4739120.html) - 07:00 26/04/2024
