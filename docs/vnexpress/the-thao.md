@@ -9,7 +9,7 @@ sidebar_position: 5
 - 🧰 [Việt Nam thua Iraq, tan mộng Olympic](https://vnexpress.net/truc-tiep-iraq-vs-viet-nam-4739518.html) - 16:27 26/04/2024
 - 🤗 [HLV Diego: &#39;Futsal Việt Nam trả giá vì sai lầm&#39;](https://vnexpress.net/hlv-diego-futsal-viet-nam-tra-gia-vi-sai-lam-4739509.html) - 14:21 26/04/2024
 - 🥳 [LĐBĐ Hàn Quốc cúi đầu xin lỗi vì mất vé Olympic](https://vnexpress.net/ldbd-han-quoc-cui-dau-xin-loi-vi-mat-ve-olympic-4739490.html) - 13:52 26/04/2024
-- 🦣 [Golfer Việt nam vô địch chung kết lớn Faldo Series Asia 2024](https://vnexpress.net/golfer-viet-nam-vo-dich-chung-ket-lon-faldo-series-asia-2024-4739495.html) - 12:50 26/04/2024
+- 🦣 [Golfer Việt Nam vô địch chung kết lớn Faldo Series Asia 2024](https://vnexpress.net/golfer-viet-nam-vo-dich-chung-ket-lon-faldo-series-asia-2024-4739495.html) - 12:50 26/04/2024
 - 🌜 [Xavi: &#39;Tôi ở lại Barca để tiếp tục chiến thắng&#39;](https://vnexpress.net/xavi-toi-o-lai-barca-de-tiep-tuc-chien-thang-4739465.html) - 10:51 26/04/2024
 - 🫶 [Việt Nam - Iraq: Quyết chiến vì giấc mơ Olympic](https://vnexpress.net/viet-nam-iraq-quyet-chien-vi-giac-mo-olympic-4739399.html) - 10:28 26/04/2024
 - 🌜 [Việt Nam hết cửa dự futsal World Cup](https://vnexpress.net/futsal-viet-nam-vs-kyrgyzstan-4739372-tong-thuat.html) - 08:45 26/04/2024
