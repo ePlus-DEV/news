@@ -576,7 +576,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
 - 💼 [An Giang: Cháy lớn ở núi Cô Tô cùng nhiều tiếng nổ](https://tienphong.vn/an-giang-chay-lon-o-nui-co-to-cung-nhieu-tieng-no-post1632527.tpo) - 23:25 26/04/2024
-- 🎊 [Trực tiếp U23 Việt Nam 0-1 U23 Iraq &lpar;H2&rpar;: Việt Nam bị thẻ đỏ](https://tienphong.vn/truc-tiep-u23-viet-nam-0-1-u23-iraq-h2-viet-nam-bi-the-do-post1632528.tpo) - 23:03 26/04/2024
+- 🎊 [Dính penalty đáng tiếc, Việt Nam phải dừng bước ở tứ kết U23 châu Á](https://tienphong.vn/dinh-penalty-dang-tiec-viet-nam-phai-dung-buoc-o-tu-ket-u23-chau-a-post1632528.tpo) - 23:03 26/04/2024
 - 💼 [Thế hệ trẻ tiếp nối truyền thống, xây dựng đất nước phồn vinh, hạnh phúc](https://tienphong.vn/the-he-tre-tiep-noi-truyen-thong-xay-dung-dat-nuoc-phon-vinh-hanh-phuc-post1632502.tpo) - 22:49 26/04/2024
 - 👺 [Vinhomes ra mắt hàng loạt điểm vui chơi - giải trí – mua sắm mới trước thềm dịp lễ 30/4-1/5](https://tienphong.vn/vinhomes-ra-mat-hang-loat-diem-vui-choi-giai-tri-mua-sam-moi-truoc-them-dip-le-304-15-post1632513.tpo) - 21:36 26/04/2024
 - 💪 [VinFast VF 9 có gì để tự tin cạnh tranh với các xe xăng cùng tầm giá?](https://tienphong.vn/vinfast-vf-9-co-gi-de-tu-tin-canh-tranh-voi-cac-xe-xang-cung-tam-gia-post1632511.tpo) - 21:23 26/04/2024
