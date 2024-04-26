@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Mark Zuckerberg mất 18 tỷ USD một ngày](https://vnexpress.net/mark-zuckerberg-mat-18-ty-usd-mot-ngay-4739120.html) - 07:00 26/04/2024
-- 🐲 [Sếp Eximbank: &#39;Khoản nợ thẻ tín dụng 8,8 tỷ là bài học lớn, không để lặp lại&#39;](https://vnexpress.net/sep-eximbank-khoan-no-the-tin-dung-8-8-ty-la-bai-hoc-lon-khong-de-lap-lai-4739259.html) - 06:14 26/04/2024
+- 🐲 [Sếp Eximbank: &#39;Khoản nợ thẻ tín dụng 8,8 tỷ sẽ không để lặp lại&#39;](https://vnexpress.net/sep-eximbank-khoan-no-the-tin-dung-8-8-ty-se-khong-de-lap-lai-4739259.html) - 06:14 26/04/2024
 - 🔥 [Quảng Trị, T&amp;amp;T Group hợp tác với Tập đoàn SK Hàn Quốc](https://vnexpress.net/quang-tri-t-t-group-hop-tac-voi-tap-doan-sk-han-quoc-4739197.html) - 06:00 26/04/2024
 - 🐵 [Chủ tịch Petrolimex: Xe điện chưa phải rủi ro lớn cho thị trường xăng dầu](https://vnexpress.net/chu-tich-petrolimex-xe-dien-chua-phai-rui-ro-lon-cho-thi-truong-xang-dau-4739226.html) - 05:30 26/04/2024
 - 🦅 [Chủ tịch Sacombank: &#39;Tôi không liên quan vụ án bà Trương Mỹ Lan&#39;](https://vnexpress.net/chu-tich-sacombank-toi-khong-co-bat-gi-lien-quan-gi-toi-vu-an-ba-truong-my-lan-4739222.html) - 05:00 26/04/2024
