@@ -23,7 +23,7 @@ sidebar_position: 9
 - 🐲 [Cắm trại ngắm biển trên cù lao không người ở Phú Yên](https://vnexpress.net/cam-trai-ngam-bien-tren-cu-lao-khong-nguoi-o-phu-yen-4733270.html) - 17:00 26/04/2024
 - 🤓 [Kịch bản Trump trở lại khiến người Nhật thấp thỏm](https://vnexpress.net/kich-ban-trump-tro-lai-khien-nguoi-nhat-thap-thom-4731989.html) - 17:00 26/04/2024
 - 💪 [Van Dijk ủng hộ HLV đồng hương dẫn dắt Liverpool](https://vnexpress.net/van-dijk-ung-ho-hlv-dong-huong-dan-dat-liverpool-4739486.html) - 17:00 26/04/2024
-- 🎓 [Iraq 0-0 Việt Nam &lpar;hết H1&rpar;: Sức ép lớn ở cuối hiệp](https://vnexpress.net/truc-tiep-iraq-vs-viet-nam-4739518.html) - 16:27 26/04/2024
+- 🎓 [Iraq 0-0 Việt Nam &lpar;H1&rpar;: Bóng trúng xà ngang](https://vnexpress.net/truc-tiep-iraq-vs-viet-nam-4739518.html) - 16:27 26/04/2024
 - 🫣 [Cháy đỏ trời trên dãy Thất Sơn](https://vnexpress.net/chay-do-troi-tren-day-that-son-4739516.html) - 15:08 26/04/2024
 - 🧑‍💻 [Cháy rừng trên đỉnh Tây Côn Lĩnh](https://vnexpress.net/chay-rung-tren-dinh-tay-con-linh-4739512.html) - 15:00 26/04/2024
 - 🐲 [Tư lệnh Anh: Ukraine sẽ tăng tập kích sâu vào lãnh thổ Nga](https://vnexpress.net/tu-lenh-anh-ukraine-se-tang-tap-kich-sau-vao-lanh-tho-nga-4739332.html) - 15:00 26/04/2024
@@ -57,4 +57,5 @@ sidebar_position: 9
 - 👍 [Vietbank thông qua kế hoạch chia cổ tức 25%](https://vnexpress.net/vietbank-thong-qua-ke-hoach-chia-co-tuc-25-4739416.html) - 12:05 26/04/2024
 - 🔥 [Rong biển cơm cuộn nhiễm khuẩn khiến 74 người ở Khánh Hòa ngộ độc](https://vnexpress.net/rong-bien-com-cuon-nhiem-khuan-khien-74-nguoi-o-khanh-hoa-ngo-doc-4739482.html) - 12:03 26/04/2024
 - 💄 [Lý do &#39;xe tăng mai rùa&#39; Nga tung hoành trên chiến trường](https://vnexpress.net/ly-do-xe-tang-mai-rua-nga-tung-hoanh-tren-chien-truong-4739418.html) - 12:00 26/04/2024
-- 🤡 [Bí quyết làm món thịt vịt luộc](https://vnexpress.net/bi-quyet-lam-mon-thit-vit-luoc-4739252.html) - 12:00 26/04/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🤡 [Bí quyết làm món thịt vịt luộc](https://vnexpress.net/bi-quyet-lam-mon-thit-vit-luoc-4739252.html) - 12:00 26/04/2024
+- ⛽️ [Mỹ cấm dịch vụ băng thông rộng của Trung Quốc](https://vnexpress.net/my-cam-dich-vu-bang-thong-rong-cua-trung-quoc-4739162.html) - 12:00 26/04/2024<!-- vnexpress-tin-moi-nhat:END -->
