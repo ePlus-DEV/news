@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Phụ huynh chia sẻ về hành trình học tại RMIT của con](https://vnexpress.net/phu-huynh-chia-se-ve-hanh-trinh-hoc-tai-rmit-cua-con-4739450.html) - 10:30 26/04/2024
-- 🦆 [Thí sinh đăng ký thi đánh giá năng lực của ĐH Sư phạm Hà Nội tăng mạnh](https://vnexpress.net/thi-sinh-dang-ky-thi-danh-gia-nang-luc-cua-dh-su-pham-ha-noi-tang-manh-4739445.html) - 10:20 26/04/2024
+- 🦆 [Hơn 11.500 thí sinh đăng ký thi đánh giá năng lực ĐH Sư phạm Hà Nội](https://vnexpress.net/hon-11-500-thi-sinh-dang-ky-thi-danh-gia-nang-luc-dh-su-pham-ha-noi-4739445.html) - 10:20 26/04/2024
 - 🦩 [Các trường quân đội giảm sức hút, khó tuyển sinh](https://vnexpress.net/cac-truong-quan-doi-giam-suc-hut-kho-tuyen-sinh-4739381.html) - 09:56 26/04/2024
 - 🌮 [Bộ Công an công bố đề tham khảo kỳ thi đánh giá năng lực 2024](https://vnexpress.net/bo-cong-an-cong-bo-de-tham-khao-ky-thi-danh-gia-nang-luc-2024-4739363.html) - 08:36 26/04/2024
 - 🔭 [Lễ tốt nghiệp của các đại học trên thế giới như thế nào](https://vnexpress.net/le-tot-nghiep-cua-cac-dai-hoc-tren-the-gioi-nhu-the-nao-4737972.html) - 07:34 26/04/2024
