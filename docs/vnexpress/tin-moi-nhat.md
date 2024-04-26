@@ -24,7 +24,7 @@ sidebar_position: 9
 - 🤓 [Cắm trại ngắm biển trên cù lao không người ở Phú Yên](https://vnexpress.net/cam-trai-ngam-bien-tren-cu-lao-khong-nguoi-o-phu-yen-4733270.html) - 17:00 26/04/2024
 - 💪 [Kịch bản Trump trở lại khiến người Nhật thấp thỏm](https://vnexpress.net/kich-ban-trump-tro-lai-khien-nguoi-nhat-thap-thom-4731989.html) - 17:00 26/04/2024
 - 🎓 [Van Dijk ủng hộ HLV đồng hương dẫn dắt Liverpool](https://vnexpress.net/van-dijk-ung-ho-hlv-dong-huong-dan-dat-liverpool-4739486.html) - 17:00 26/04/2024
-- 🫣 [Iraq 1-0 Việt Nam &lpar;H2&rpar;: Thẻ đỏ dập tắt hy vọng](https://vnexpress.net/truc-tiep-iraq-vs-viet-nam-4739518.html) - 16:27 26/04/2024
+- 🫣 [Việt Nam thua Iraq, tan mộng Olympic](https://vnexpress.net/truc-tiep-iraq-vs-viet-nam-4739518.html) - 16:27 26/04/2024
 - 🧑‍💻 [Cháy đỏ trời trên dãy Thất Sơn](https://vnexpress.net/chay-do-troi-tren-day-that-son-4739516.html) - 15:08 26/04/2024
 - 🐲 [Cháy rừng trên đỉnh Tây Côn Lĩnh](https://vnexpress.net/chay-rung-tren-dinh-tay-con-linh-4739512.html) - 15:00 26/04/2024
 - 🌝 [Tư lệnh Anh: Ukraine sẽ tăng tập kích sâu vào lãnh thổ Nga](https://vnexpress.net/tu-lenh-anh-ukraine-se-tang-tap-kich-sau-vao-lanh-tho-nga-4739332.html) - 15:00 26/04/2024
@@ -49,7 +49,7 @@ sidebar_position: 9
 - 🦆 [PTE Helper vào Top 10 thương hiệu giáo dục dẫn đầu Việt Nam 2024](https://vnexpress.net/pte-helper-vao-top-10-thuong-hieu-giao-duc-dan-dau-viet-nam-2024-4739302.html) - 13:00 26/04/2024
 - 🎊 [Xe điện đã gần gũi hơn với người dùng Việt](https://vnexpress.net/xe-dien-da-gan-gui-hon-voi-nguoi-dung-viet-4739127.html) - 13:00 26/04/2024
 - 👺 [Sex có giúp &#39;chữa lành&#39;?](https://vnexpress.net/sex-co-giup-chua-lanh-4738864.html) - 13:00 26/04/2024
-- 🎡 [Golfer Việt nam vô địch chung kết lớn Faldo Series Asia 2024](https://vnexpress.net/golfer-viet-nam-vo-dich-chung-ket-lon-faldo-series-asia-2024-4739495.html) - 12:50 26/04/2024
+- 🎡 [Golfer Việt Nam vô địch chung kết lớn Faldo Series Asia 2024](https://vnexpress.net/golfer-viet-nam-vo-dich-chung-ket-lon-faldo-series-asia-2024-4739495.html) - 12:50 26/04/2024
 - 👍 [&#39;Hướng TP HCM trở thành 5 thành phố dẫn đầu về AI&#39;](https://vnexpress.net/huong-tp-hcm-tro-thanh-5-thanh-pho-dan-dau-ve-ai-4739452.html) - 12:37 26/04/2024
 - 🐎 [Nga thu xe phá mìn 4 triệu USD Mỹ chuyển cho Ukraine](https://vnexpress.net/nga-thu-xe-pha-min-4-trieu-usd-my-chuyen-cho-ukraine-4739472.html) - 12:33 26/04/2024
 - 🏊 [3 kiểu giày dép Tăng Thanh Hà ưu tiên](https://vnexpress.net/3-kieu-giay-dep-tang-thanh-ha-uu-tien-4739202.html) - 12:26 26/04/2024
