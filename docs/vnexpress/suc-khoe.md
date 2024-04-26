@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Bệnh sốt rét](https://vnexpress.net/benh-sot-ret-4738981.html) - 07:00 26/04/2024
+- 🔥 [Bệnh sốt rét](https://vnexpress.net/suc-khoe-cam-nang-cac-benh-sot-ret-4738981.html) - 07:00 26/04/2024
 - 🥰 [4 đại dịch có số ca tử vong lớn được giảm thiểu nhờ vaccine](https://vnexpress.net/4-dai-dich-co-so-ca-tu-vong-lon-duoc-giam-thieu-nho-vaccine-4739214.html) - 07:00 26/04/2024
 - 💡 [Yếu tố nào quyết định chiều cao của trẻ?](https://vnexpress.net/yeu-to-nao-quyet-dinh-chieu-cao-cua-tre-4739198.html) - 07:00 26/04/2024
 - 🤗 [Nhiều trẻ viêm phổi do nắng nóng kéo dài](https://vnexpress.net/nhieu-tre-viem-phoi-do-nang-nong-keo-dai-4739077.html) - 06:00 26/04/2024
