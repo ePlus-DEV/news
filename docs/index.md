@@ -151,7 +151,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥸 [Mẹo giúp ngăn đường huyết tăng vọt sau bữa ăn](https://thanhnien.vn/meo-giup-ngan-duong-huyet-tang-vot-sau-bua-an-185240426134214015.htm) - 17:08 26/04/2024
 - 🌁 [Nắng nóng gay gắt, cần lưu ý căn bệnh chết người](https://thanhnien.vn/nang-nong-gay-gat-can-luu-y-can-benh-chet-nguoi-185240426212335867.htm) - 17:07 26/04/2024
 - 🤡 [Dấu hiệu cảnh báo suy gan cấp tính cần đến bệnh viện](https://thanhnien.vn/dau-hieu-canh-bao-suy-gan-cap-tinh-can-den-benh-vien-185240425162109683.htm) - 17:06 26/04/2024
-- 🎉 [U.23 Việt Nam 0-0 U.23 Iraq, VCK châu Á 2024: Tìm vé đến Olympic Paris](https://thanhnien.vn/u23-viet-nam-u23-iraq-vck-chau-a-2024-tim-ve-den-olympic-paris-1852404262054162.htm) - 17:04 26/04/2024
+- 🎉 [U.23 Việt Nam 0-1 U.23 Iraq, VCK châu Á 2024: Ali Jasim ghi bàn từ chấm 11 m](https://thanhnien.vn/u23-viet-nam-u23-iraq-vck-chau-a-2024-tim-ve-den-olympic-paris-1852404262054162.htm) - 17:04 26/04/2024
 - 🎊 [Điểm xung đột: Sai lầm đắt giá của Ukraine; Houthi bắn tên lửa vào Israel](https://thanhnien.vn/diem-xung-dot-sai-lam-dat-gia-cua-ukraine-houthi-ban-ten-lua-vao-israel-185240426233600222.htm) - 16:36 26/04/2024
 - 🤠 [Cháy dữ dội trên núi Cô Tô ở An Giang kèm theo tiếng nổ lớn](https://thanhnien.vn/chay-du-doi-tren-nui-co-to-o-an-giang-kem-theo-tieng-no-lon-185240426224949783.htm) - 16:33 26/04/2024
 - 💼 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 27.4.2024](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-2742024-185240425153907351.htm) - 16:24 26/04/2024
