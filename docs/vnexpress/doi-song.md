@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [&#39;Lời nguyền tuổi 35&#39; của nhân viên công nghệ](https://vnexpress.net/loi-nguyen-tuoi-35-cua-nhan-vien-cong-nghe-4738589.html) - 03:18 26/04/2024
+- 🚀 [Vì sao ngày nay nhiều người không muốn làm sếp?](https://vnexpress.net/vi-sao-ngay-nay-nhieu-nguoi-khong-muon-lam-sep-4738644.html) - 03:49 26/04/2024
 - 🎓 [Người Sài Gòn giúp lao động nghèo tránh nắng nóng](https://vnexpress.net/nguoi-sai-gon-giup-lao-dong-ngheo-tranh-nang-nong-4738719.html) - 23:00 25/04/2024
 - 🚦 [Cộng đồng quyên góp giúp đỡ shipper bị cướp](https://vnexpress.net/cong-dong-quyen-gop-giup-do-shipper-bi-cuop-4738979.html) - 17:44 25/04/2024
 - 🦣 [Nhà kho, phòng họp thành lớp học của trẻ vùng cao](https://vnexpress.net/nha-kho-phong-hop-thanh-lop-hoc-cua-tre-vung-cao-4738958.html) - 17:11 25/04/2024
