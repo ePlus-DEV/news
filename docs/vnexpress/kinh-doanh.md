@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [Masan Consumer đặt mục tiêu doanh thu 10-20% từ nước ngoài](https://vnexpress.net/masan-consumer-dat-muc-tieu-doanh-thu-10-20-tu-nuoc-ngoai-4739050.html) - 03:00 26/04/2024
 - 🐲 [Hệ thống giao dịch chứng khoán mới KRX tiếp tục trễ hẹn](https://vnexpress.net/he-thong-giao-dich-chung-khoan-moi-krx-tiep-tuc-tre-hen-4739106.html) - 02:40 26/04/2024
 - 🔥 [Hong Kong xây nhà tạm, ký túc xá cho người chờ mua căn hộ](https://vnexpress.net/hong-kong-xay-nha-tam-ky-tuc-xa-cho-nguoi-cho-mua-can-ho-4738921.html) - 02:00 26/04/2024
-- 🐵 [HDBank đặt mục tiêu tăng trưởng lợi nhuận 22% trong năm 2024](https://vnexpress.net/hdbank-dat-muc-tieu-tang-truong-loi-nhuan-22-trong-nam-2024-4737638.html) - 02:00 26/04/2024
+- 🐵 [HDBank nâng mức chia cổ tức lên 30%](https://vnexpress.net/hdbank-nang-muc-chia-co-tuc-len-30-4737638.html) - 02:00 26/04/2024
 - 🦅 [Kinh tế Mỹ tăng trưởng chậm nhất 2 năm](https://vnexpress.net/kinh-te-my-tang-truong-cham-nhat-2-nam-4739040.html) - 01:01 26/04/2024
 - 😺 [Ngành thuế nắm dữ liệu ngân hàng của hơn 120 triệu tài khoản cá nhân](https://vnexpress.net/nganh-thue-nam-du-lieu-ngan-hang-cua-hon-120-trieu-ca-nhan-4738950.html) - 13:59 25/04/2024
 - 🤩 [Tiệm vàng ngừng bán vẫn có thể bị kiểm tra](https://vnexpress.net/tiem-vang-ngung-ban-van-co-the-bi-kiem-tra-4738956.html) - 13:39 25/04/2024
