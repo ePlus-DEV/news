@@ -46,7 +46,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎊 [Cắm trại ngắm biển trên cù lao không người ở Phú Yên](https://vnexpress.net/cam-trai-ngam-bien-tren-cu-lao-khong-nguoi-o-phu-yen-4733270.html) - 17:00 26/04/2024
 - ⚗️ [Kịch bản Trump trở lại khiến người Nhật thấp thỏm](https://vnexpress.net/kich-ban-trump-tro-lai-khien-nguoi-nhat-thap-thom-4731989.html) - 17:00 26/04/2024
 - 🫣 [Van Dijk ủng hộ HLV đồng hương dẫn dắt Liverpool](https://vnexpress.net/van-dijk-ung-ho-hlv-dong-huong-dan-dat-liverpool-4739486.html) - 17:00 26/04/2024
-- 👨‍🏫 [Việt Nam thua Iraq, tan mộng Olympic](https://vnexpress.net/truc-tiep-iraq-vs-viet-nam-4739518.html) - 16:27 26/04/2024
+- 👨‍🏫 [Iraq 1-0 Việt Nam &lpar;H2&rpar;: Thẻ đỏ dập tắt hy vọng](https://vnexpress.net/truc-tiep-iraq-vs-viet-nam-4739518.html) - 16:27 26/04/2024
 - 🐻 [Cháy đỏ trời trên dãy Thất Sơn](https://vnexpress.net/chay-do-troi-tren-day-that-son-4739516.html) - 15:08 26/04/2024
 - 😺 [Cháy rừng trên đỉnh Tây Côn Lĩnh](https://vnexpress.net/chay-rung-tren-dinh-tay-con-linh-4739512.html) - 15:00 26/04/2024
 - 🤔 [Tư lệnh Anh: Ukraine sẽ tăng tập kích sâu vào lãnh thổ Nga](https://vnexpress.net/tu-lenh-anh-ukraine-se-tang-tap-kich-sau-vao-lanh-tho-nga-4739332.html) - 15:00 26/04/2024
