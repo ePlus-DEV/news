@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Việt Nam - Iraq: Quyết chiến vì giấc mơ Olympic](https://vnexpress.net/viet-nam-iraq-quyet-chien-vi-giac-mo-olympic-4739399.html) - 10:28 26/04/2024
-- 🦩 [Việt Nam 1-2 Kyrgyzstan &lpar;H2&rpar;: Đội bắt đầu đá năm cầu](https://vnexpress.net/futsal-viet-nam-vs-kyrgyzstan-4739372.html) - 08:45 26/04/2024
+- 🦩 [Việt Nam hết cửa dự futsal World Cup](https://vnexpress.net/futsal-viet-nam-vs-kyrgyzstan-4739372.html) - 08:45 26/04/2024
 - 🧰 [Nhi Yến đoạt HC bạc trẻ châu Á, chờ vé Olympic](https://vnexpress.net/nhi-yen-doat-hc-bac-tre-chau-a-cho-ve-olympic-4739354.html) - 08:22 26/04/2024
 - 🤗 [Liverpool đang mời HLV vô địch Hà Lan về thay Klopp](https://vnexpress.net/liverpool-dang-moi-hlv-vo-dich-ha-lan-ve-thay-klopp-4739156.html) - 07:56 26/04/2024
 - 🥳 [Iraq liệu có mạnh hơn Việt Nam?](https://vnexpress.net/iraq-lieu-co-manh-hon-viet-nam-4739307.html) - 07:44 26/04/2024
