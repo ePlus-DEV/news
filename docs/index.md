@@ -210,7 +210,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Bí quyết quản lý tài chính thông minh - Tiết kiệm chi tiêu hiệu quả với thẻ tín dụng](https://laodong.vn/kinh-doanh/bi-quyet-quan-ly-tai-chinh-thong-minh-tiet-kiem-chi-tieu-hieu-qua-voi-the-tin-dung-1332681.ldo) - 15:15 27/04/2024
+- 🗽 [Đề nghị truy tố đối tượng lừa đảo qua đặt cọc phòng nghỉ tại Quảng Ninh](https://laodong.vn/phap-luat/de-nghi-truy-to-doi-tuong-lua-dao-qua-dat-coc-phong-nghi-tai-quang-ninh-1333243.ldo) - 15:31 27/04/2024
 - 📝 [Cảnh sát giao thông vào cuộc vụ đoàn rước dâu ở Hải Dương dừng ôtô chụp ảnh giữa đường](https://laodong.vn/phap-luat/canh-sat-giao-thong-vao-cuoc-vu-doan-ruoc-dau-o-hai-duong-dung-oto-chup-anh-giua-duong-1333238.ldo) - 15:09 27/04/2024
 - 🦏 [Tiêu chuẩn để làm vụ trưởng thuộc bộ theo quy định mới](https://laodong.vn/tu-van-phap-luat/tieu-chuan-de-lam-vu-truong-thuoc-bo-theo-quy-dinh-moi-1331886.ldo) - 15:00 27/04/2024
 - 🦩 [Nhiều con đường ở Bình Dương ùn tắc trong đêm đầu tiên nghỉ lễ](https://laodong.vn/xa-hoi/nhieu-con-duong-o-binh-duong-un-tac-trong-dem-dau-tien-nghi-le-1333226.ldo) - 14:58 27/04/2024
@@ -231,10 +231,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😎 [Chốt đầu tư 3.011 tỉ đồng mở rộng cao tốc La Sơn - Hòa Liên, hoàn thành năm 2025](https://laodong.vn/thoi-su/chot-dau-tu-3011-ti-dong-mo-rong-cao-toc-la-son-hoa-lien-hoan-thanh-nam-2025-1333205.ldo) - 13:14 27/04/2024
 - 💄 [Thủ môn của U23 Việt Nam dẫn đầu một thông số ở giải U23 châu Á 2024](https://laodong.vn/bong-da/thu-mon-cua-u23-viet-nam-dan-dau-mot-thong-so-o-giai-u23-chau-a-2024-1333192.ldo) - 13:11 27/04/2024
 - 🫣 [Lịch thi đấu chung kết futsal châu Á 2024: Tuyển futsal Thái Lan vs Iran](https://laodong.vn/lich-thi-dau/lich-thi-dau-chung-ket-futsal-chau-a-2024-tuyen-futsal-thai-lan-vs-iran-1333171.ldo) - 13:02 27/04/2024
-- 🧑‍🏫 [Khách quốc tế nói gì về phố ẩm thực Hồ Thị Kỷ?](https://laodong.vn/video/khach-quoc-te-noi-gi-ve-pho-am-thuc-ho-thi-ky-1333165.ldo) - 13:00 27/04/2024
+- 🧑‍🏫 [Kết hôn để trả thù người yêu cũ, không ngờ cái kết quá trái ngang &lpar;Phần 2&rpar;](https://laodong.vn/video-van-hoa-giai-tri/ket-hon-de-tra-thu-nguoi-yeu-cu-khong-ngo-cai-ket-qua-trai-ngang-phan-2-1331347.ldo) - 13:00 27/04/2024
 - 🦣 [Tin 20h: Điều tra vụ thi thể nữ chết khô tại một căn hộ chung cư ở Hà Nội](https://laodong.vn/video-xa-hoi/tin-20h-dieu-tra-vu-thi-the-nu-chet-kho-tai-mot-can-ho-chung-cu-o-ha-noi-1333089.ldo) - 13:00 27/04/2024
 - 💫 [2 loại nước ép uống vào buổi tối giúp giảm mỡ bụng trong vòng 2 tuần](https://laodong.vn/ban-tin/2-loai-nuoc-ep-uong-vao-buoi-toi-giup-giam-mo-bung-trong-vong-2-tuan-1333122.ldo) - 13:00 27/04/2024
-- ⛽️ [Kết hôn để trả thù người yêu cũ, không ngờ cái kết quá trái ngang &lpar;Phần 2&rpar;](https://laodong.vn/video-van-hoa-giai-tri/ket-hon-de-tra-thu-nguoi-yeu-cu-khong-ngo-cai-ket-qua-trai-ngang-phan-2-1331347.ldo) - 13:00 27/04/2024
+- ⛽️ [Khách quốc tế nói gì về phố ẩm thực Hồ Thị Kỷ?](https://laodong.vn/video/khach-quoc-te-noi-gi-ve-pho-am-thuc-ho-thi-ky-1333165.ldo) - 13:00 27/04/2024
 - 💫 [Thời tiết nắng nóng, người dân chen chân đi tắm biển ở Hạ Long](https://laodong.vn/xa-hoi/thoi-tiet-nang-nong-nguoi-dan-chen-chan-di-tam-bien-o-ha-long-1333182.ldo) - 12:59 27/04/2024
 - 🥸 [Bùng nổ tại lễ hội bóng đá Việt Nam - Brazil 2024 tại Đà Nẵng](https://laodong.vn/the-thao/bung-no-tai-le-hoi-bong-da-viet-nam-brazil-2024-tai-da-nang-1333164.ldo) - 12:55 27/04/2024
 - 🐻 [3 vị bắp rang bơ dễ làm, thơm ngon tại nhà](https://laodong.vn/chuyen-nha-minh/3-vi-bap-rang-bo-de-lam-thom-ngon-tai-nha-1333169.ldo) - 12:53 27/04/2024
