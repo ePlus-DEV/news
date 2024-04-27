@@ -146,19 +146,19 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Mất vé dự World Cup futsal 2024: Đâu là vấn đề của đội tuyển futsal Việt Nam?](https://thanhnien.vn/mat-ve-du-world-cup-futsal-2024-dau-la-van-de-cua-doi-tuyen-futsal-viet-nam-185240427190348993.htm) - 12:20 27/04/2024
+- 🤠 [Đề xuất đưa pickleball vào môn tự chọn giáo dục thể chất cho sinh viên](https://thanhnien.vn/de-xuat-dua-pickleball-vao-mon-tu-chon-giao-duc-the-chat-cho-sinh-vien-185240427174817657.htm) - 12:31 27/04/2024
 - 🥸 [Ô tô điện Honda e:NP2 giá hơn 550 triệu đồng, so kè VinFast VF 8](https://thanhnien.vn/o-to-dien-honda-enp2-gia-hon-550-trieu-dong-so-ke-vinfast-vf-8-185240426233245799.htm) - 12:19 27/04/2024
 - 🌁 [Wedding Fair &#39;Love You as Love Life&#39; - Xu hướng cưới nổi bật 2024](https://thanhnien.vn/wedding-fair-love-you-as-love-life-xu-huong-cuoi-noi-bat-2024-185240427190347652.htm) - 12:16 27/04/2024
 - 🤡 [Kia Sorento Hybrid giảm giá 120 triệu đồng, thấp hơn Honda CR-V Hybrid](https://thanhnien.vn/kia-sorento-hybrid-giam-gia-120-trieu-dong-thap-hon-honda-cr-v-hybrid-185240426225938516.htm) - 12:14 27/04/2024
 - 🎉 [EVN cần gần 480.000 tỉ đồng đầu tư](https://thanhnien.vn/evn-can-gan-480000-ti-dong-dau-tu-185240427185626622.htm) - 12:11 27/04/2024
-- 🎊 [Thêm gần 200 cây xanh phải di dời, đốn hạ làm dự án kết nối metro số1](https://thanhnien.vn/them-gan-200-cay-xanh-phai-di-doi-don-ha-lam-du-an-ket-noi-metro-so1-185240427183311461.htm) - 12:09 27/04/2024
+- 🎊 [Gần 200 cây xanh phải di dời, đốn hạ để kết nối metro số 1](https://thanhnien.vn/them-gan-200-cay-xanh-phai-di-doi-don-ha-lam-du-an-ket-noi-metro-so1-185240427183311461.htm) - 12:09 27/04/2024
 - 🤠 [Biển Sầm Sơn đông nghịt trong ngày đầu nghỉ lễ 30.4 - 1.5](https://thanhnien.vn/bien-sam-son-dong-nghit-trong-ngay-dau-nghi-le-304-15-185240427185440925.htm) - 12:04 27/04/2024
 - 💼 [Chương trình tư vấn sức khỏe](https://thanhnien.vn/chuong-trinh-tu-van-suc-khoe-185240427180036734.htm) - 12:00 27/04/2024
 - 🐻 [Hướng dẫn chi tiết điền thông tin đăng ký dự thi kỳ thi tốt nghiệp THPT 2024](https://thanhnien.vn/huong-dan-chi-tiet-dien-thong-tin-dang-ky-du-thi-ky-thi-tot-nghiep-thpt-2024-185240427164356769.htm) - 12:00 27/04/2024
 - 🤔 [Du lịch tâm linh tại Tràng An du khách tham khảo ngay địa danh sau](https://thanhnien.vn/thoi-trang-tre/du-lich-tam-linh-tai-trang-an-du-khach-tham-khao-ngay-dia-danh-sau-18524042508442917.htm) - 12:00 27/04/2024
 - 📝 [Cá trên sông Mã lại chết hàng loạt](https://thanhnien.vn/ca-tren-song-ma-lai-chet-hang-loat-185240427180143766.htm) - 11:57 27/04/2024
 - 🥰 [Quách Thành Danh: Vợ dọa ly dị nếu tôi không về Việt Nam sống](https://thanhnien.vn/quach-thanh-danh-vo-doa-ly-di-neu-toi-khong-ve-viet-nam-song-1852404271457081.htm) - 11:54 27/04/2024
-- 🐲 [Cảnh hiếm ở Thảo Cầm Viên ngày đầu nghỉ lễ: Khách thưa thớt, đến chỉ để... tránh nóng](https://thanhnien.vn/canh-hiem-o-thao-cam-vien-ngay-dau-nghi-le-khach-thua-thot-den-chi-de-tranh-nong-185240427180534316.htm) - 11:46 27/04/2024
+- 🐲 [Cảnh hiếm ở Thảo Cầm Viên ngày đầu nghỉ lễ: Lượng khách giảm, đến chỉ để... tránh nóng](https://thanhnien.vn/canh-hiem-o-thao-cam-vien-ngay-dau-nghi-le-khach-thua-thot-den-chi-de-tranh-nong-185240427180534316.htm) - 11:46 27/04/2024
 - 🎃 [Ngày đầu nghỉ lễ 30.4 - 1.5, Ngã ba Đồng Lộc đón 5.000 du khách](https://thanhnien.vn/ngay-dau-nghi-le-304-15-nga-ba-dong-loc-don-5000-du-khach-185240427182054323.htm) - 11:45 27/04/2024
 - 🎬 [Nắng nóng diện rộng trên cả nước bao giờ chấm dứt?](https://thanhnien.vn/nang-nong-dien-rong-tren-ca-nuoc-bao-gio-cham-dut-185240427182613932.htm) - 11:39 27/04/2024
 - 🌜 [Động đất 4 độ Richter ở Tuyên Quang](https://thanhnien.vn/dong-dat-4-do-richter-o-tuyen-quang-185240427181652277.htm) - 11:34 27/04/2024
