@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Liverpool lại trượt chân trong cuộc đua vô địch](https://vnexpress.net/liverpool-lai-truot-chan-trong-cuoc-dua-vo-dich-4739804.html) - 13:35 27/04/2024
+- 🪜 [Liverpool lại trượt chân trong cuộc đua Ngoại hạng Anh](https://vnexpress.net/liverpool-lai-truot-chan-trong-cuoc-dua-ngoai-hang-anh-4739804.html) - 13:35 27/04/2024
 - 🦩 [HLV Tottenham: &#39;Arsenal là hình mẫu cho mọi CLB&#39;](https://vnexpress.net/hlv-tottenham-arsenal-la-hinh-mau-cho-moi-clb-4739754.html) - 09:21 27/04/2024
 - 🧰 [Merson: &#39;Đội hình Chelsea được xây dựng từ Youtube&#39;](https://vnexpress.net/merson-doi-hinh-chelsea-duoc-xay-dung-tu-youtube-4739741.html) - 08:32 27/04/2024
 - 🤗 [Ten Hag cấm cửa ba tờ báo chê Man Utd](https://vnexpress.net/ten-hag-cam-cua-ba-to-bao-che-man-utd-4739738.html) - 08:26 27/04/2024
