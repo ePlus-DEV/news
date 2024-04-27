@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Messi tưởng nhớ thầy cũ đã mất](https://vnexpress.net/messi-tuong-nho-thay-cu-da-mat-4739609.html) - 04:24 27/04/2024
 - 🦩 [Đội trưởng Iraq: &#39;Việt Nam đã chơi ngoan cường&#39;](https://vnexpress.net/doi-truong-iraq-viet-nam-da-choi-ngoan-cuong-4739652.html) - 04:20 27/04/2024
 - 🧰 [Clichy: &#39;Tottenham quyết định cuộc đua vô địch Ngoại hạng Anh&#39;](https://vnexpress.net/clichy-tottenham-quyet-dinh-cuoc-dua-vo-dich-ngoai-hang-anh-4739470.html) - 04:19 27/04/2024
-- 🤗 [Tiền đạo Iraq tiếc vì chỉ ghi một vào lưới Việt Nam](https://vnexpress.net/tien-dao-iraq-tiec-vi-chi-ghi-mot-vao-luoi-viet-nam-4739657.html) - 04:12 27/04/2024
+- 🤗 [Tiền đạo Iraq: &#39;Lẽ ra phải ghi nhiều bàn hơn vào lưới Việt Nam&#39;](https://vnexpress.net/tien-dao-iraq-le-ra-phai-ghi-nhieu-ban-hon-vao-luoi-viet-nam-4739657.html) - 04:12 27/04/2024
 - 🥳 [Nhi Yến phá kỷ lục trẻ quốc gia](https://vnexpress.net/nhi-yen-pha-ky-luc-tre-quoc-gia-4739653.html) - 03:56 27/04/2024
 - 🦣 [HLV Hoàng Anh Tuấn tiếc khi Việt Nam thua vì phạt đền](https://vnexpress.net/hlv-hoang-anh-tuan-tiec-khi-viet-nam-thua-vi-phat-den-4739639.html) - 03:49 27/04/2024
 - 🌜 [Alcaraz thắng dễ trận ra quân Madrid Masters](https://vnexpress.net/alcaraz-thang-de-tran-ra-quan-madrid-masters-4739633.html) - 03:38 27/04/2024
