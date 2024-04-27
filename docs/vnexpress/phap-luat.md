@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Lập hơn 200 công ty rửa tiền cho tội phạm nước ngoài ở Sài Gòn](https://vnexpress.net/lap-hon-200-cong-ty-de-rua-tien-cho-toi-pham-nuoc-ngoai-o-sai-gon-4739651.html) - 04:33 27/04/2024
+- 😎 [Lập hơn 200 công ty rửa tiền cho tội phạm nước ngoài](https://vnexpress.net/lap-hon-200-cong-ty-de-rua-tien-cho-toi-pham-nuoc-ngoai-o-sai-gon-4739651.html) - 04:33 27/04/2024
 - 🥰 [Phát hiện &#39;xác chết khô&#39; trong căn hộ chung cư cao cấp](https://vnexpress.net/phat-hien-thi-the-trong-can-ho-chung-cu-cao-cap-4739647.html) - 04:01 27/04/2024
 - 🎓 [Ba nghi can nước ngoài cướp cửa hàng điện thoại bị bắt](https://vnexpress.net/ba-nghi-can-nuoc-ngoai-cuop-cua-hang-dien-thoai-bi-bat-4739627.html) - 03:46 27/04/2024
 - 🤓 [Bác sĩ giết nữ nhân viên y tế rồi phi tang xác](https://vnexpress.net/bac-si-giet-nu-nhan-vien-y-te-roi-phi-tang-xac-4739629.html) - 03:29 27/04/2024
