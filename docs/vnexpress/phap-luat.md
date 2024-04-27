@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Phát hiện thi thể trong căn hộ chung cư cao cấp](https://vnexpress.net/phat-hien-thi-the-trong-can-ho-chung-cu-cao-cap-4739647.html) - 04:01 27/04/2024
+- 😎 [Phát hiện &#39;xác chết khô&#39; trong căn hộ chung cư cao cấp](https://vnexpress.net/phat-hien-thi-the-trong-can-ho-chung-cu-cao-cap-4739647.html) - 04:01 27/04/2024
 - 🥰 [Ba nghi can nước ngoài cướp cửa hàng điện thoại bị bắt](https://vnexpress.net/ba-nghi-can-nuoc-ngoai-cuop-cua-hang-dien-thoai-bi-bat-4739627.html) - 03:46 27/04/2024
 - 🎓 [Bác sĩ giết nữ nhân viên y tế rồi phi tang xác](https://vnexpress.net/bac-si-giet-nu-nhan-vien-y-te-roi-phi-tang-xac-4739629.html) - 03:29 27/04/2024
 - 🤓 [Mua nhà, nhận sổ đỏ có cần báo chính quyền để cập nhật dữ liệu?](https://vnexpress.net/mua-nha-nhan-so-do-co-can-bao-chinh-quyen-de-cap-nhat-du-lieu-4738263.html) - 17:00 26/04/2024
