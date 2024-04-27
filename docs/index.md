@@ -580,7 +580,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💼 [Video cận cảnh rung chấn động đất tại Tuyên Quang](https://tienphong.vn/video-can-canh-rung-chan-dong-dat-tai-tuyen-quang-post1632701.tpo) - 20:55 27/04/2024
 - 👺 [Đoàn khách chưa check-in chỗ nghỉ vác cả hành lý đi tắm biển Đà Nẵng](https://tienphong.vn/doan-khach-chua-check-in-cho-nghi-vac-ca-hanh-ly-di-tam-bien-da-nang-post1632721.tpo) - 20:54 27/04/2024
 - 💪 [Xe chở hơn 40 công nhân lật nghiêng trên quốc lộ 1](https://tienphong.vn/xe-cho-hon-40-cong-nhan-lat-nghieng-tren-quoc-lo-1-post1632727.tpo) - 20:43 27/04/2024
-- 💃 [Trực tiếp MU vs Burnley 0-0 &lpar;H1&rpar;: Trận đấu bắt đầu](https://tienphong.vn/truc-tiep-mu-vs-burnley-0-0-h1-tran-dau-bat-dau-post1632726.tpo) - 20:38 27/04/2024
+- 💃 [Trực tiếp MU vs Burnley 0-0 &lpar;H1&rpar;: Onana cứu thua MU](https://tienphong.vn/truc-tiep-mu-vs-burnley-0-0-h1-onana-cuu-thua-mu-post1632726.tpo) - 20:38 27/04/2024
 - 🦍 [CSGT Hà Nội điều tiết giao thông dưới nắng nóng gay gắt như ‘chảo lửa’](https://tienphong.vn/csgt-ha-noi-dieu-tiet-giao-thong-duoi-nang-nong-gay-gat-nhu-chao-lua-post1632723.tpo) - 20:26 27/04/2024
 - 👹 [Nóng: Công bố đề minh họa thi đánh giá năng lực Bộ Công an năm 2024](https://tienphong.vn/nong-cong-bo-de-minh-hoa-thi-danh-gia-nang-luc-bo-cong-an-nam-2024-post1632709.tpo) - 20:12 27/04/2024
 - 🌜 [Nắng nóng gay gắt, người dân đổ xô ra sông Lam giải nhiệt](https://tienphong.vn/nang-nong-gay-gat-nguoi-dan-do-xo-ra-song-lam-giai-nhiet-post1632715.tpo) - 20:04 27/04/2024
