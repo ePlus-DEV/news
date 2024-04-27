@@ -28,7 +28,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- vnexpress:START -->
 - 🚀 [Đường vành đai 1.500 tỷ đồng ở Đà Nẵng trước ngày thông xe](https://vnexpress.net/duong-vanh-dai-1-500-ty-dong-o-da-nang-truoc-ngay-thong-xe-4739142.html) - 01:36 27/04/2024
 - 🧰 [MG Cyberster - xe điện mui trần bằng giá Porsche 718](https://vnexpress.net/mg-cyberster-xe-dien-mui-tran-bang-gia-porsche-718-4739052.html) - 01:31 27/04/2024
-- 🥰 [Ông Trump thách thức ông Biden tranh luận](https://vnexpress.net/ong-trump-thach-thuc-ong-biden-tranh-luan-4739573.html) - 01:23 27/04/2024
+- 🥰 [Ông Trump thách thức ông Biden tranh luận &#39;ở bất cứ đâu&#39;](https://vnexpress.net/ong-trump-thach-thuc-ong-biden-tranh-luan-o-bat-cu-dau-4739573.html) - 01:23 27/04/2024
 - 🌏 [Hơn 4,6 tỷ USD đổ vào các startup Việt Nam chục năm qua](https://vnexpress.net/hon-4-6-ty-usd-do-vao-cac-startup-viet-nam-chuc-nam-qua-4739189.html) - 01:19 27/04/2024
 - 🧐 [Trích &#39;Đò dọc&#39; &lpar;phần 2&rpar;: Kế sinh nhai](https://vnexpress.net/trich-do-doc-phan-2-ke-sinh-nhai-4739119.html) - 01:16 27/04/2024
 - 💫 [Houthi phóng tên lửa vào tàu dầu trên Biển Đỏ](https://vnexpress.net/houthi-phong-ten-lua-vao-tau-dau-tren-bien-do-4739559.html) - 01:11 27/04/2024
