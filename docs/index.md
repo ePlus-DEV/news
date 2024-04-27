@@ -151,7 +151,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥸 [Trung tâm mua sắm tại Chiba, Nhật Bản từ hàng outlet tới cao cấp](https://thanhnien.vn/thoi-trang-tre/trung-tam-mua-sam-tai-chiba-nhat-ban-tu-hang-outlet-toi-cao-cap-185240426180631129.htm) - 14:00 27/04/2024
 - 🌁 [Nổ lớn tại Campuchia, 20 binh sĩ thiệt mạng](https://thanhnien.vn/no-lon-tai-campuchia-20-binh-si-thiet-mang-185240427204835192.htm) - 13:54 27/04/2024
 - 🤡 [Biển Đà Nẵng sôi động vào mùa du lịch hè](https://thanhnien.vn/bien-da-nang-soi-dong-vao-mua-du-lich-he-185240427200028403.htm) - 13:44 27/04/2024
-- 🎉 [Tạm đóng cao tốc Cam Lâm - Vĩnh Hảo từ 7 giờ ngày 28-4](https://thanhnien.vn/tam-dong-cao-toc-cam-lam-vinh-hao-tu-7-gio-ngay-28-4-185240427191517219.htm) - 13:39 27/04/2024
+- 🎉 [Tạm đóng cao tốc Cam Lâm - Vĩnh Hảo từ 7 giờ ngày 28.4](https://thanhnien.vn/tam-dong-cao-toc-cam-lam-vinh-hao-tu-7-gio-ngay-28-4-185240427191517219.htm) - 13:39 27/04/2024
 - 🎊 [Nỗ lực dập lửa ở xưởng đồng dưới trời nắng &#39;cháy da&#39;](https://thanhnien.vn/no-luc-dap-lua-o-xuong-dong-duoi-troi-nang-chay-da-18524042720243782.htm) - 13:36 27/04/2024
 - 🤠 [Vụ shipper bị trộm xe máy cùng 81 gói hàng: Đã bắt giữ nhóm nghi phạm](https://thanhnien.vn/vu-shipper-bi-trom-xe-may-cung-81-goi-hang-da-bat-giu-nhom-nghi-pham-185240427134920148.htm) - 13:36 27/04/2024
 - 💼 [Phương Thanh bật khóc khi hát về những biến cố trong tình yêu](https://thanhnien.vn/phuong-thanh-bat-khoc-khi-hat-ve-nhung-bien-co-trong-tinh-yeu-185240427190439565.htm) - 13:29 27/04/2024
