@@ -78,8 +78,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🏊 [Ôtô chết máy, cầu Rạch Miễu ùn tắc hơn 5 km](https://vnexpress.net/oto-chet-may-cau-rach-mieu-un-tac-hon-5-km-4739969.html) - 05:29 28/04/2024
 - 💂 [3 lý do khiến điều hòa có mùi chua](https://vnexpress.net/3-ly-do-khien-dieu-hoa-co-mui-chua-4739919.html) - 05:17 28/04/2024
 - 🚀 [Nam Sơn - chàng trai Hải Dương là idol K-pop](https://vnexpress.net/nam-son-chang-trai-hai-duong-la-idol-k-pop-4739938.html) - 05:01 28/04/2024
-- 🕴 [Kho bạc Nhà nước gửi gần 100.000 tỷ đồng tại ba ngân hàng](https://vnexpress.net/kho-bac-nha-nuoc-gui-gan-100-000-ty-dong-tai-ba-ngan-hang-4739918.html) - 05:00 28/04/2024
-- 🦆 [Thú vui đọc sách](https://vnexpress.net/thu-vui-doc-sach-4739848.html) - 05:00 28/04/2024<!-- vnexpress:END -->
+- 🕴 [Kho bạc Nhà nước gửi gần 100.000 tỷ đồng tại ba ngân hàng](https://vnexpress.net/kho-bac-nha-nuoc-gui-gan-100-000-ty-dong-tai-ba-ngan-hang-4739918.html) - 05:00 28/04/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
