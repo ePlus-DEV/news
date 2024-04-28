@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Trường Đại học Ngoại ngữ mở rộng diện ưu tiên xét tuyển](https://vnexpress.net/truong-dai-hoc-ngoai-ngu-mo-rong-dien-uu-tien-xet-tuyen-4739538.html) - 02:20 28/04/2024
+- 🤓 [Trường Đại học Ngoại ngữ xét tuyển học bạ kết hợp phỏng vấn](https://vnexpress.net/truong-dai-hoc-ngoai-ngu-xet-tuyen-hoc-ba-ket-hop-phong-van-4739538.html) - 02:20 28/04/2024
 - 🦆 [Chiến thuật đọc hiểu giúp cô gái 31 tuổi đạt 9.0 IELTS](https://vnexpress.net/chien-thuat-doc-hieu-giup-co-gai-31-tuoi-dat-9-0-ielts-4739382.html) - 01:00 28/04/2024
 - 🦩 [Du học sinh Việt giữa làn sóng biểu tình ở đại học Mỹ](https://vnexpress.net/du-hoc-sinh-viet-giua-lan-song-bieu-tinh-o-dai-hoc-my-4739135.html) - 15:09 27/04/2024
 - 🌮 [10 học sinh Việt giành huy chương Olympic Hóa quốc tế Mendeleev](https://vnexpress.net/10-hoc-sinh-viet-gianh-huy-chuong-olympic-hoa-quoc-te-mendeleev-4739791.html) - 13:34 27/04/2024
