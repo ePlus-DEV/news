@@ -6,7 +6,7 @@ sidebar_position: 9
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Hàng nghìn fan Việt hòa giọng Kim Jae Joong](https://vnexpress.net/hang-nghin-fan-viet-hoa-giong-kim-jae-joong-4739248.html) - 03:21 28/04/2024
 - 🐎 [TikToker nổi tiếng Iraq bị bắn chết trước nhà](https://vnexpress.net/tiktoker-noi-tieng-iraq-bi-ban-chet-truoc-nha-4739902.html) - 03:14 28/04/2024
-- 🦍 [Israel nói thỏa thuận con tin có thể giúp ngăn chiến dịch Rafah](https://vnexpress.net/israel-noi-thoa-thuan-con-tin-co-the-giup-ngan-chien-dich-rafah-4739896.html) - 03:09 28/04/2024
+- 🦍 [Israel nói thỏa thuận con tin có thể giúp trì hoãn chiến dịch Rafah](https://vnexpress.net/israel-noi-thoa-thuan-con-tin-co-the-giup-tri-hoan-chien-dich-rafah-4739896.html) - 03:09 28/04/2024
 - 🏊 [Giảm nhiệt cho smartphone khi dùng ngoài trời nắng nóng](https://vnexpress.net/giam-nhiet-cho-smartphone-khi-dung-ngoai-troi-nang-nong-4739879.html) - 03:06 28/04/2024
 - 🎊 [TikTok, Facebook và các &#39;ông lớn&#39; nước ngoài nộp thuế gần 14.600 tỷ đồng](https://vnexpress.net/tiktok-facebook-va-cac-ong-lon-nuoc-ngoai-nop-thue-gan-14-600-ty-dong-4739905.html) - 03:05 28/04/2024
 - 🎃 [Cá chết la liệt trên sông Mã](https://vnexpress.net/ca-chet-la-liet-tren-song-ma-4739886.html) - 03:03 28/04/2024
