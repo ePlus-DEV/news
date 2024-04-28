@@ -252,7 +252,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- nld:START -->
 - 🐎 [Lãnh đạo Quảng Nam dự khai trương khu du lịch 800 tỉ đồng](https://nld.com.vn/lanh-dao-quang-nam-du-khai-truong-khu-du-lich-800-ti-dong-196240428115552319.htm) - 05:11 28/04/2024
 - 😺 [Cách nào được ngân hàng áp dụng để khách hàng tránh mất tiền oan?](https://nld.com.vn/cach-nao-duoc-ngan-hang-ap-dung-de-khach-hang-tranh-mat-tien-oan-196240428104848578.htm) - 05:09 28/04/2024
-- 👍 [Đường giao thông do Bộ NN-PTNN đầu tư bị... chặn ngang](https://nld.com.vn/duong-giao-thong-do-bo-nn-ptnn-dau-tu-bi-chan-ngang-19624042810034115.htm) - 04:40 28/04/2024
+- 👍 [Đường giao thông do Bộ NN-PTNT đầu tư bị... chặn ngang](https://nld.com.vn/duong-giao-thong-do-bo-nn-ptnn-dau-tu-bi-chan-ngang-19624042810034115.htm) - 04:40 28/04/2024
 - 🥷 [Biển Sầm Sơn &quot;ken đặc&quot; du khách tắm biển](https://nld.com.vn/bien-sam-son-ken-dac-du-khach-tam-bien-196240428110750045.htm) - 04:33 28/04/2024
 - 🤔 [Sẽ kiểm toán loạt dự án trọng điểm quốc gia trong năm 2024](https://nld.com.vn/se-kiem-toan-loat-du-an-trong-diem-quoc-gia-trong-nam-2024-19624042810120274.htm) - 04:31 28/04/2024
 - 🌈 [Báo Người Lao Động trao cờ, học bổng tại lễ công bố quy hoạch tỉnh Ninh Thuận](https://nld.com.vn/bao-nguoi-lao-dong-trao-co-hoc-bong-tai-le-cong-bo-quy-hoach-tinh-ninh-thuan-196240428104826081.htm) - 04:20 28/04/2024
