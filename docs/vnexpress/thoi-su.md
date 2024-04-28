@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Dừng tìm kiếm người mất tích trong vụ chìm tàu ở Quảng Ngãi](https://vnexpress.net/dung-tim-kiem-nguoi-mat-tich-trong-vu-chim-tau-o-quang-ngai-4740058.html) - 13:37 28/04/2024
-- 🤓 [Cháy cửa hàng điện thoại ở TP HCM](https://vnexpress.net/chay-cua-hang-dien-thoai-o-tp-hcm-4740057.html) - 13:24 28/04/2024
+- 🤓 [Hai vụ cháy lớn ở TP HCM và Bình Dương](https://vnexpress.net/hai-vu-chay-lon-o-tp-hcm-va-binh-duong-4740057.html) - 13:24 28/04/2024
 - ⚗️ [Miền Bắc và Trung nóng như rang](https://vnexpress.net/mien-bac-va-trung-nong-nhu-rang-4740040.html) - 11:44 28/04/2024
 - 🌊 [H&#39;Hen Niê hát cùng hàng trăm học sinh vùng cao](https://vnexpress.net/h-hen-nie-hat-cung-hang-tram-hoc-sinh-vung-cao-4739951.html) - 10:15 28/04/2024
 - 🎓 [Bộ đội Việt Nam tặng sách vở cho học sinh giỏi châu Phi](https://vnexpress.net/bo-doi-viet-nam-tang-sach-vo-cho-hoc-sinh-gioi-chau-phi-4739954.html) - 10:00 28/04/2024
