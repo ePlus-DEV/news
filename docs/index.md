@@ -255,7 +255,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐎 [Loạt sao Việt lên núi, xuống biển tránh nóng](https://nld.com.vn/loat-sao-viet-len-nui-xuong-bien-tranh-nong-196240428130357397.htm) - 06:36 28/04/2024
 - 😺 [Những &quot;hộ vệ thép&quot; trên đường đua Cúp truyền hình TP HCM 2024](https://nld.com.vn/nhung-ho-ve-thep-tren-duong-dua-cup-truyen-hinh-tp-hcm-2024-196240428124905092.htm) - 06:32 28/04/2024
 - 👍 [Gây dựng tiếng, chưa được miếng](https://nld.com.vn/gay-dung-tieng-chua-duoc-mieng-196240427202521583.htm) - 06:30 28/04/2024
-- 🥷 [Fan futsal Thái Lan xếp hàng từ 7 giờ sáng săn vé, Madam Pang hứa thưởng hơn 2 tỉ](https://nld.com.vn/fan-futsal-thai-lan-xep-hang-tu-7-gio-sang-san-ve-madam-pang-hua-thuong-hon-2-ti-196240428132140407.htm) - 06:29 28/04/2024
+- 🥷 [Fan futsal Thái Lan xếp hàng từ sáng chờ xem chung kết, Madam Pang hứa thưởng hơn 2 tỉ](https://nld.com.vn/fan-futsal-thai-lan-xep-hang-tu-7-gio-sang-san-ve-madam-pang-hua-thuong-hon-2-ti-196240428132140407.htm) - 06:29 28/04/2024
 - 🤔 [Món quà đặc biệt bác sĩ Việt Nam tặng học sinh Nam Sudan ngày 30-4](https://nld.com.vn/mon-qua-dac-biet-bac-si-viet-nam-tang-hoc-sinh-nam-sudan-ngay-30-4-196240428121008287.htm) - 05:37 28/04/2024
 - 🌈 [Ngư dân Hà Tĩnh “trúng” mẻ cá vàng dương, thu về hơn 300 triệu đồng](https://nld.com.vn/ngu-dan-ha-tinh-trung-me-ca-vang-duong-thu-ve-hon-300-trieu-dong-196240428122620778.htm) - 05:30 28/04/2024
 - 🔥 [Lãnh đạo Quảng Nam dự khai trương khu du lịch 800 tỉ đồng](https://nld.com.vn/lanh-dao-quang-nam-du-khai-truong-khu-du-lich-800-ti-dong-196240428115552319.htm) - 05:11 28/04/2024
