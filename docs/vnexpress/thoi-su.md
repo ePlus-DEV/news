@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [&#39;Chị gánh, anh thồ&#39; chi viện cho chiến trường Điện Biên Phủ](https://vnexpress.net/chi-ganh-anh-tho-chi-vien-cho-chien-truong-dien-bien-phu-4735433.html) - 07:00 28/04/2024
 - 🤓 [12.000 người hợp luyện diễu binh trên đường phố Điện Biên](https://vnexpress.net/12-000-nguoi-hop-luyen-dieu-binh-tren-duong-pho-dien-bien-4739962.html) - 06:47 28/04/2024
-- ⚗️ [Khánh thành hai cao tốc đi qua 5 tỉnh](https://vnexpress.net/khanh-thanh-hai-cao-toc-di-qua-5-tinh-4739925.html) - 06:30 28/04/2024
+- ⚗️ [Khai thác hai cao tốc đi qua 5 tỉnh](https://vnexpress.net/khai-thac-hai-cao-toc-di-qua-5-tinh-4739925.html) - 06:30 28/04/2024
 - 🌊 [Ôtô chết máy, cầu Rạch Miễu ùn tắc hơn 5 km](https://vnexpress.net/oto-chet-may-cau-rach-mieu-un-tac-hon-5-km-4739969.html) - 05:29 28/04/2024
 - 🎓 [Ngư dân trúng mẻ cá chim vàng 350 triệu đồng](https://vnexpress.net/ngu-dan-trung-me-ca-chim-vang-350-trieu-dong-4739955.html) - 04:59 28/04/2024
 - 🔥 [Nhà hát hiện đại nhất ở Ninh Bình hoàn thành](https://vnexpress.net/nha-hat-hien-dai-nhat-o-ninh-binh-hoan-thanh-4739636.html) - 04:00 28/04/2024
