@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Lợi nhận Habeco thấp nhất gần 4 năm](https://vnexpress.net/loi-nhan-habeco-thap-nhat-gan-4-nam-4739801.html) - 13:00 28/04/2024
+- ⛽️ [Lợi nhuận Habeco thấp nhất gần 4 năm](https://vnexpress.net/loi-nhuan-habeco-thap-nhat-gan-4-nam-4739801.html) - 13:00 28/04/2024
 - 🐲 [Bà Đặng Thị Hoàng Yến tiếp tục không nhận lương tại Tân Tạo](https://vnexpress.net/ba-dang-thi-hoang-yen-tiep-tuc-khong-nhan-luong-tai-tan-tao-4740035.html) - 10:16 28/04/2024
 - 🔥 [Các &#39;ông lớn&#39; xăng dầu ứng phó ra sao trước làn sóng xe điện](https://vnexpress.net/cac-ong-lon-xang-dau-ung-pho-ra-sao-truoc-lan-song-xe-dien-4739968.html) - 09:38 28/04/2024
 - 🐵 [Kho bạc Nhà nước gửi gần 100.000 tỷ đồng tại ba ngân hàng](https://vnexpress.net/kho-bac-nha-nuoc-gui-gan-100-000-ty-dong-tai-ba-ngan-hang-4739918.html) - 05:00 28/04/2024
