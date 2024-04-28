@@ -289,7 +289,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦅 [Ca sĩ Hồ Quỳnh Hương kể chuyện tình](https://nld.com.vn/ca-si-ho-quynh-huong-ke-chuyen-tinh-19624042808172331.htm) - 02:16 28/04/2024
 - 🦏 [Giá vàng hôm nay 28-4: Vàng SJC vẫn tăng giá sau các phiên đấu thầu](https://nld.com.vn/gia-vang-hom-nay-28-4-vang-sjc-van-tang-gia-sau-cac-phien-dau-thau-196240428085254002.htm) - 02:14 28/04/2024
 - 🗽 [Vinasun tự làm mới để tăng sức cạnh tranh](https://nld.com.vn/vinasun-tu-lam-moi-de-tang-suc-canh-tranh-196240427203815977.htm) - 02:00 28/04/2024
-- 🔭 [Nghi lễ dài ngày, người lao động làm gì?](https://nld.com.vn/nghi-le-dai-ngay-nguoi-lao-dong-lam-gi-196240428081631019.htm) - 01:58 28/04/2024
+- 🔭 [Nghỉ lễ dài ngày, người lao động làm gì?](https://nld.com.vn/nghi-le-dai-ngay-nguoi-lao-dong-lam-gi-196240428081631019.htm) - 01:58 28/04/2024
 - 👍 [Thời tiết đáng chú ý trong kỳ nghỉ lễ 30-4 và 1-5 của Nam Bộ](https://nld.com.vn/thoi-tiet-dang-chu-y-trong-ky-nghi-le-30-4-va-1-5-cua-nam-bo-19624042808262995.htm) - 01:46 28/04/2024
 - ⛽️ [VinFast hỗ trợ khách mua xe máy điện, ô tô điện](https://nld.com.vn/vinfast-ho-tro-khach-mua-xe-may-dien-o-to-dien-196240427203733281.htm) - 01:45 28/04/2024
 - 🥸 [Tiktoker ngồi xe lăn bị phạt 5 triệu đồng](https://nld.com.vn/tiktoker-ngoi-xe-lan-bi-phat-5-trieu-dong-19624042808172838.htm) - 01:33 28/04/2024
