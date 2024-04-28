@@ -234,7 +234,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦣 [Loạt dự án chung cư Hà Nội phá đỉnh, khó hãm đà tăng](https://laodong.vn/bat-dong-san/loat-du-an-chung-cu-ha-noi-pha-dinh-kho-ham-da-tang-1333147.ldo) - 13:00 28/04/2024
 - 💫 [Tin 20h: Kỷ luật, khai trừ Đảng hàng loạt cán bộ trong tuần qua](https://laodong.vn/video-xa-hoi/tin-20h-ky-luat-khai-tru-dang-hang-loat-can-bo-trong-tuan-qua-1333503.ldo) - 13:00 28/04/2024
 - ⛽️ [Một chiến sỹ CSGT ở Huế bị người vi phạm chạy xe máy tông thẳng vào người](https://laodong.vn/xa-hoi/mot-chien-sy-csgt-o-hue-bi-nguoi-vi-pham-chay-xe-may-tong-thang-vao-nguoi-1333559.ldo) - 12:59 28/04/2024
-- 💫 [Trực tiếp Tottenham 0-3 Arsenal: Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-tottenham-0-3-arsenal-hiep-2-1333566.ldo) - 12:58 28/04/2024
+- 💫 [Trực tiếp Tottenham 1-3 Arsenal: Đội chủ nhà rút ngắn tỉ số](https://laodong.vn/bong-da-quoc-te/truc-tiep-tottenham-1-3-arsenal-doi-chu-nha-rut-ngan-ti-so-1333566.ldo) - 12:58 28/04/2024
 - 🥸 [Tác hại với đồng USD nếu Mỹ tịch thu tài sản của Nga](https://laodong.vn/the-gioi/tac-hai-voi-dong-usd-neu-my-tich-thu-tai-san-cua-nga-1333255.ldo) - 12:55 28/04/2024
 - 🐻 [Điểm tên 3 ngân hàng có lãi suất tiết kiệm 6 tháng cao nhất](https://laodong.vn/tien-te-dau-tu/diem-ten-3-ngan-hang-co-lai-suat-tiet-kiem-6-thang-cao-nhat-1333547.ldo) - 12:53 28/04/2024
 - 🪄 [Bãi Sau  của TP Vũng Tàu bất ngờ đông nghịt chiều 28.4](https://laodong.vn/video/bai-sau-cua-tp-vung-tau-bat-ngo-dong-nghit-chieu-284-1333562.ldo) - 12:37 28/04/2024
