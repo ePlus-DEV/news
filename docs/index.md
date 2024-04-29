@@ -392,7 +392,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- baochinhphu:START -->
 - 💻 [Kinh tế số nông nghiệp gắn với nông thôn số, nông dân số](https://baochinhphu.vn/kinh-te-so-nong-nghiep-gan-voi-nong-thon-so-nong-dan-so-102240425155847324.htm) - 10:25 29/04/2024
 - 🌜 [Kiều bào đóng góp nguồn lực quan trọng để chung tay xây dựng và phát triển TPHCM](https://baochinhphu.vn/tphcm-nhieu-chinh-sach-de-thu-hut-kieu-bao-cung-xay-dung-que-huong-102240427082657812.htm) - 10:03 29/04/2024
-- 🦆 [Thủ tướng kiểm tra hiện trường, đốc thúc nhiều dự án cao tốc trọng điểm](https://baochinhphu.vn/thu-tuong-kiem-tra-hien-truong-doc-thuc-nhieu-du-an-cao-toc-trong-diem-102240429092800358.htm) - 09:59 29/04/2024
+- 🦆 [Thủ tướng kiểm tra hiện trường, đốc thúc nhiều dự án cao tốc trọng điểm vào ngày nghỉ lễ](https://baochinhphu.vn/thu-tuong-kiem-tra-hien-truong-doc-thuc-nhieu-du-an-cao-toc-trong-diem-102240429092800358.htm) - 09:59 29/04/2024
 - 🌝 [Chỉ số MXV-Index cán mốc cao nhất 9 tháng](https://baochinhphu.vn/chi-so-mxv-index-can-moc-cao-nhat-9-thang-102240429075224139.htm) - 09:36 29/04/2024
 - 🦣 [Rực rỡ cờ hoa chào mừng 49 năm Ngày Giải phóng miền Nam, thống nhất đất nước](https://baochinhphu.vn/ruc-ro-co-hoa-chao-mung-49-nam-ngay-giai-phong-mien-nam-thong-nhat-dat-nuoc-102240428161620057.htm) - 09:31 29/04/2024
 - ⛽️ [Giáo dục TPHCM: Dấu ấn trên hành trình hội nhập](https://baochinhphu.vn/giao-duc-tphcm-dau-an-tren-hanh-trinh-hoi-nhap-102240426100105072.htm) - 08:02 29/04/2024
