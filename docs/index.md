@@ -144,7 +144,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Hàng công &#39;nhảy múa&#39; khiến U.23 Iraq quay cuồng, Nhật Bản đấu Uzbekistan chung kết](https://thanhnien.vn/hang-cong-nhay-mua-khien-u23-iraq-quay-cuong-nhat-ban-dau-uzbekistan-chung-ket-185240430023059962.htm) - 19:35 29/04/2024
+- 🤠 [Hàng công &#39;nhảy múa&#39; khiến U.23 Iraq quay cuồng, Nhật Bản đấu Uzbekistan ở chung kết](https://thanhnien.vn/hang-cong-nhay-mua-khien-u23-iraq-quay-cuong-nhat-ban-dau-uzbekistan-chung-ket-185240430023059962.htm) - 19:35 29/04/2024
 - 🥸 [Ngày mới với tin tức sức khỏe: Phát hiện thêm lợi ích tuyệt vời của dưa hấu](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-phat-hien-them-loi-ich-khong-ngo-cua-dua-hau-185240429195239714.htm) - 17:10 29/04/2024
 - 🌁 [4 dấu hiệu báo động thận có vấn đề nhưng dễ bỏ qua](https://thanhnien.vn/4-dau-hieu-bao-dong-than-co-van-de-nhung-de-bo-qua-185240429134747504.htm) - 17:08 29/04/2024
 - 🤡 [Lê Đức Phát tiếp bước đàn anh Tiến Minh](https://thanhnien.vn/le-duc-phat-tiep-buoc-dan-anh-tien-minh-185240429225621166.htm) - 17:07 29/04/2024
