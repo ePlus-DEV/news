@@ -7,7 +7,7 @@ sidebar_position: 11
 - 💂 [Hà Nội tìm người bán ba quả dứa 500.000 đồng cho khách nước ngoài](https://vnexpress.net/ha-noi-tim-nguoi-ban-ba-qua-dua-500-000-dong-cho-khach-nuoc-ngoai-4740160.html) - 03:44 29/04/2024
 - 🪄 [Địa điểm thưởng lãm pháo hoa tối 30/4 ở TP HCM](https://vnexpress.net/dia-diem-thuong-lam-phao-hoa-toi-30-4-o-tp-hcm-4739746.html) - 03:00 29/04/2024
 - 🦅 [Đi du lịch &#39;vì một bức ảnh&#39;](https://vnexpress.net/di-du-lich-vi-mot-buc-anh-4730417.html) - 02:00 29/04/2024
-- 🕴 [Đầu bếp làm mới gỏi gà măng cụt với khoai môn sấy](https://vnexpress.net/dau-bep-lam-moi-goi-ga-mang-cut-voi-khoai-mon-say-4738324.html) - 00:00 29/04/2024
+- 🕴 [Gỏi gà măng cụt với khoai môn sấy](https://vnexpress.net/goi-ga-mang-cut-voi-khoai-mon-say-4738324.html) - 00:00 29/04/2024
 - 👀 [Du khách chen chân trốn nóng ở công viên nước lớn nhất Việt Nam](https://vnexpress.net/du-khach-chen-chan-tron-nong-o-cong-vien-nuoc-lon-nhat-viet-nam-4740013.html) - 17:00 28/04/2024
 - 🎭 [Nắng nóng, các điểm du lịch &#39;không đông như tưởng tượng&#39;](https://vnexpress.net/nang-nong-cac-diem-du-lich-khong-dong-nhu-tuong-tuong-4740050.html) - 13:59 28/04/2024
 - 🦒 [Hơn 300.000 người dự khai mạc lễ hội du lịch biển](https://vnexpress.net/hon-300-000-nguoi-du-khai-mac-le-hoi-du-lich-bien-4739994.html) - 07:40 28/04/2024
