@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Ông Ngô Chí Dũng: Tham gia cơ cấu &#39;ngân hàng 0 đồng&#39; vì mục tiêu tăng quy mô](https://vnexpress.net/ong-ngo-chi-dung-tham-gia-co-cau-ngan-hang-0-dong-vi-muc-tieu-tang-quy-mo-4740212.html) - 08:57 29/04/2024
+- ⛽️ [Ông Ngô Chí Dũng: VPBank cơ cấu &#39;ngân hàng 0 đồng&#39; nhằm tăng quy mô](https://vnexpress.net/ong-ngo-chi-dung-vpbank-co-cau-ngan-hang-0-dong-nham-tang-quy-mo-4740212.html) - 08:57 29/04/2024
 - 🐲 [Đồng yen xuống thấp nhất 34 năm](https://vnexpress.net/dong-yen-xuong-thap-nhat-34-nam-4740180.html) - 07:03 29/04/2024
 - 🔥 [Siêu thị chật kín khách dịp nghỉ lễ](https://vnexpress.net/sieu-thi-chat-kin-khach-dip-nghi-le-4740093.html) - 01:41 29/04/2024
 - 🐵 [Trung Nam kêu cứu về dự án điện mặt trời tại Ninh Thuận](https://vnexpress.net/trung-nam-keu-cuu-ve-du-an-dien-mat-troi-tai-ninh-thuan-4740092.html) - 01:11 29/04/2024
