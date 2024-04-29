@@ -29,7 +29,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [Mỹ kêu gọi Hamas chấp nhận đề xuất ngừng bắn của Israel](https://vnexpress.net/my-keu-goi-hamas-chap-nhan-de-xuat-ngung-ban-cua-israel-4740292.html) - 14:30 29/04/2024
 - 🧰 [Sao chuộng sneakers Samba của Adidas](https://vnexpress.net/sao-chuong-sneakers-samba-cua-adidas-4740273.html) - 14:30 29/04/2024
 - 🥰 [Tìm người đàn ông chân thành và thực tâm](https://vnexpress.net/tim-nguoi-dan-ong-chan-thanh-va-thuc-tam-4740223.html) - 14:00 29/04/2024
-- 🌏 [Indonesia 0-0 Uzbekistan &lpar;H1&rpar;: Khoshimov sút chệch cột](https://vnexpress.net/u23-indonesia-vs-u23-uzbekistan-4740296.html) - 13:31 29/04/2024
+- 🌏 [Indonesia 0-0 Uzbekistan &lpar;H2&rpar;: Boriyev sút dội xà](https://vnexpress.net/u23-indonesia-vs-u23-uzbekistan-4740296.html) - 13:31 29/04/2024
 - 🧐 [Nông dân Ba Lan ngừng phong tỏa cửa khẩu với Ukraine](https://vnexpress.net/nong-dan-ba-lan-ngung-phong-toa-cua-khau-voi-ukraine-4740290.html) - 13:30 29/04/2024
 - 💫 [Dàn sao quy tụ tại sự kiện ra mắt BST Paula&#39;s Ibiza của Loewe](https://vnexpress.net/dan-sao-quy-tu-tai-su-kien-ra-mat-bst-paula-s-ibiza-cua-loewe-4740241.html) - 13:30 29/04/2024
 - 😺 [Ernest Hemingway từng viết thư khuyên nhủ nhiều nhà văn](https://vnexpress.net/ernest-hemingway-tung-viet-thu-khuyen-nhu-nhieu-nha-van-4740203.html) - 13:21 29/04/2024
@@ -76,8 +76,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💫 [Triều Tiên chỉ trích Mỹ vì chuyển tên lửa tầm xa cho Ukraine](https://vnexpress.net/trieu-tien-chi-trich-my-vi-chuyen-ten-lua-tam-xa-cho-ukraine-4740239.html) - 08:21 29/04/2024
 - 🤩 [&#39;Gen Z khó làm giàu hơn các thế hệ trước&#39;](https://vnexpress.net/gen-z-kho-lam-giau-hon-cac-the-he-truoc-4740244.html) - 08:17 29/04/2024
 - 🏊 [Biết suy nghĩ sâu xa của con dâu khi đòi ra ở riêng](https://vnexpress.net/biet-suy-nghi-sau-xa-cua-con-dau-khi-doi-ra-o-rieng-4740227.html) - 08:15 29/04/2024
-- 💂 [Nhiều người bị khóa Apple ID](https://vnexpress.net/nhieu-nguoi-bi-khoa-apple-id-4740178.html) - 08:15 29/04/2024
-- 🚀 [Em sẽ rất yên tâm khi yêu anh](https://vnexpress.net/em-se-rat-yen-tam-khi-yeu-anh-4740157.html) - 08:00 29/04/2024<!-- vnexpress:END -->
+- 💂 [Nhiều người bị khóa Apple ID](https://vnexpress.net/nhieu-nguoi-bi-khoa-apple-id-4740178.html) - 08:15 29/04/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
