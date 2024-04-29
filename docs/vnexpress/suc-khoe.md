@@ -15,7 +15,7 @@ sidebar_position: 10
 - 🌋 [Cách nào nghỉ lễ không tăng cân?](https://vnexpress.net/cach-nao-nghi-le-khong-tang-can-4739368.html) - 03:25 29/04/2024
 - 🫶 [Cẩn trọng nhiễm khuẩn từ hải sản tái, sống](https://vnexpress.net/can-trong-nhiem-khuan-tu-hai-san-tai-song-4740115.html) - 03:01 29/04/2024
 - 🦆 [Người trẻ, khỏe mạnh có nên tiêm vaccine não mô cầu?](https://vnexpress.net/nguoi-tre-khoe-manh-co-nen-tiem-vaccine-nao-mo-cau-4739329.html) - 03:00 29/04/2024
-- 🚀 [Chăm sóc trẻ bệnh tay chân miệng](https://vnexpress.net/cham-soc-tre-benh-tay-chan-mieng-4737986.html) - 02:00 29/04/2024
+- 🚀 [Chăm sóc trẻ bệnh tay chân miệng](https://vnexpress.net/suc-khoe-cam-nang-cac-benh-tay-chan-mieng-4737986.html) - 02:00 29/04/2024
 - 🌜 [Loại quả giải nhiệt mùa hè](https://vnexpress.net/loai-qua-giai-nhiet-mua-he-4739928.html) - 00:00 29/04/2024
 - 🧰 [Cô gái mặt lõm &#39;lột xác&#39; sau 4 cuộc đại phẫu](https://vnexpress.net/co-gai-mat-lom-lot-xac-sau-4-cuoc-dai-phau-4739929.html) - 23:00 28/04/2024
 - 💫 [6 dưỡng chất phụ nữ cần bổ sung](https://vnexpress.net/6-duong-chat-phu-nu-can-bo-sung-4739973.html) - 22:00 28/04/2024
