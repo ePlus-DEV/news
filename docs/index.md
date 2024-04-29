@@ -27,7 +27,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Tìm người đàn ông chân thành và thực tâm](https://vnexpress.net/tim-nguoi-dan-ong-chan-thanh-va-thuc-tam-4740223.html) - 14:00 29/04/2024
-- 🧰 [Indonesia - Uzbekistan](https://vnexpress.net/u23-indonesia-vs-u23-uzbekistan-4740296.html) - 13:31 29/04/2024
+- 🧰 [Indonesia 0-0 Uzbekistan &lpar;H1&rpar;: Khoshimov sút chệch cột](https://vnexpress.net/u23-indonesia-vs-u23-uzbekistan-4740296.html) - 13:31 29/04/2024
 - 🥰 [Nông dân Ba Lan ngừng phong tỏa cửa khẩu với Ukraine](https://vnexpress.net/nong-dan-ba-lan-ngung-phong-toa-cua-khau-voi-ukraine-4740290.html) - 13:30 29/04/2024
 - 🌏 [Dàn sao quy tụ tại sự kiện ra mắt BST Paula&#39;s Ibiza của Loewe](https://vnexpress.net/dan-sao-quy-tu-tai-su-kien-ra-mat-bst-paula-s-ibiza-cua-loewe-4740241.html) - 13:30 29/04/2024
 - 🧐 [Ernest Hemingway từng viết thư khuyên nhủ nhiều nhà văn](https://vnexpress.net/ernest-hemingway-tung-viet-thu-khuyen-nhu-nhieu-nha-van-4740203.html) - 13:21 29/04/2024
@@ -40,9 +40,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤠 [Drone giúp tìm kiếm các phi hành gia Trung Quốc trở về](https://vnexpress.net/drone-giup-tim-kiem-cac-phi-hanh-gia-trung-quoc-tro-ve-4740132.html) - 12:29 29/04/2024
 - 🌈 [Nhiều ngôi trường ở Điện Biên &#39;thay áo mới&#39;](https://vnexpress.net/nhieu-ngoi-truong-o-dien-bien-thay-ao-moi-4740284.html) - 12:11 29/04/2024
 - 🎬 [Hồ Hạnh Nhi cùng ba con chơi dưới mưa](https://vnexpress.net/ho-hanh-nhi-cung-ba-con-choi-duoi-mua-4740276.html) - 12:00 29/04/2024
-- 🚀 [Cô giáo kiêm thợ cắt tóc, bắt chấy cho học trò](https://vnexpress.net/co-giao-kiem-tho-cat-toc-bat-chay-cho-hoc-tro-4738266.html) - 12:00 29/04/2024
-- 🪄 [Cách CIA hỗ trợ Ukraine trong xung đột](https://vnexpress.net/cach-cia-ho-tro-ukraine-trong-xung-dot-4715730.html) - 12:00 29/04/2024
-- 😎 [Đố bạn thấy con ngựa giữa đàn chó](https://vnexpress.net/do-ban-thay-con-ngua-giua-dan-cho-4738850.html) - 12:00 29/04/2024
+- 🚀 [Cách CIA hỗ trợ Ukraine trong xung đột](https://vnexpress.net/cach-cia-ho-tro-ukraine-trong-xung-dot-4715730.html) - 12:00 29/04/2024
+- 🪄 [Đố bạn thấy con ngựa giữa đàn chó](https://vnexpress.net/do-ban-thay-con-ngua-giua-dan-cho-4738850.html) - 12:00 29/04/2024
+- 😎 [Cô giáo kiêm thợ cắt tóc, bắt chấy cho học trò](https://vnexpress.net/co-giao-kiem-tho-cat-toc-bat-chay-cho-hoc-tro-4738266.html) - 12:00 29/04/2024
 - 🎊 [Kempinski Hotel chọn Ecovillage Saigon River là điểm đến đầu tiên tại Việt Nam](https://vnexpress.net/kempinski-hotel-chon-ecovillage-saigon-river-la-diem-den-dau-tien-tai-viet-nam-4740243.html) - 12:00 29/04/2024
 - ⚗️ [Hai học sinh đuối nước trên sông Hồng](https://vnexpress.net/hai-hoc-sinh-duoi-nuoc-tren-song-hong-4740282.html) - 11:50 29/04/2024
 - 🫣 [Miền Bắc sắp đón mưa giải nhiệt](https://vnexpress.net/mien-bac-sap-don-mua-giai-nhiet-4740277.html) - 11:40 29/04/2024
@@ -52,7 +52,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤔 [Elon Musk lại đến Trung Quốc](https://vnexpress.net/elon-musk-lai-den-trung-quoc-4740275.html) - 11:23 29/04/2024
 - 🌮 [Loạt nước Đông Nam Á phát cảnh báo sức khỏe vì nắng nóng](https://vnexpress.net/loat-nuoc-dong-nam-a-phat-canh-bao-suc-khoe-vi-nang-nong-4740271.html) - 11:04 29/04/2024
 - 🦩 [Duyên khởi khi khởi đủ nhân duyên](https://vnexpress.net/duyen-khoi-khi-khoi-du-nhan-duyen-4740224.html) - 11:00 29/04/2024
-- 📝 [Điểm tin 17h: Báo Hàn tiết lộ ứng viên dẫn dắt tuyển Việt Nam; Đồng yen xuống thấp nhất 34 năm](https://vnexpress.net/diem-tin-17h-bao-han-tiet-lo-ung-vien-dan-dat-tuyen-viet-nam-dong-yen-xuong-thap-nhat-34-nam-4740268.html) - 10:01 29/04/2024
+- 📝 [Điểm tin 21h: Miền Bắc sắp đón mưa giải nhiệt; Trung Quốc đe dọa trả đũa nếu Mỹ cấm cửa TikTok](https://vnexpress.net/diem-tin-21h-mien-bac-sap-don-mua-giai-nhiet-trung-quoc-de-doa-tra-dua-neu-my-cam-cua-tiktok-4740268.html) - 10:01 29/04/2024
 - 🕴 [Công an TP HCM trục xuất 9 người Malaysia trong đường dây lừa đảo](https://vnexpress.net/cong-an-tp-hcm-truc-xuat-9-nguoi-malaysia-trong-duong-day-lua-dao-4740261.html) - 10:01 29/04/2024
 - 🐲 [Cách làm miến xào hải sản](https://vnexpress.net/cach-lam-mien-xao-hai-san-4740179.html) - 10:00 29/04/2024
 - 🌜 [Những bộ đầm hoa đẹp nhất ở Met Gala](https://vnexpress.net/nhung-bo-dam-hoa-dep-nhat-o-met-gala-4740250.html) - 10:00 29/04/2024
@@ -77,8 +77,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤩 [Nhiều người bị khóa Apple ID](https://vnexpress.net/nhieu-nguoi-bi-khoa-apple-id-4740178.html) - 08:15 29/04/2024
 - 🏊 [Em sẽ rất yên tâm khi yêu anh](https://vnexpress.net/em-se-rat-yen-tam-khi-yeu-anh-4740157.html) - 08:00 29/04/2024
 - 💂 [4 thực phẩm tác dụng bổ thận tráng dương](https://vnexpress.net/4-thuc-pham-tac-dung-bo-than-trang-duong-4740146.html) - 08:00 29/04/2024
-- 🚀 [Loài cá nuốt con mồi nặng gấp 10 lần bản thân](https://vnexpress.net/loai-ca-nuot-con-moi-nang-gap-10-lan-ban-than-4738050.html) - 08:00 29/04/2024
-- 🕴 [Ai dễ bị gai cột sống?](https://vnexpress.net/ai-de-bi-gai-cot-song-4740165.html) - 08:00 29/04/2024<!-- vnexpress:END -->
+- 🚀 [Loài cá nuốt con mồi nặng gấp 10 lần bản thân](https://vnexpress.net/loai-ca-nuot-con-moi-nang-gap-10-lan-ban-than-4738050.html) - 08:00 29/04/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
