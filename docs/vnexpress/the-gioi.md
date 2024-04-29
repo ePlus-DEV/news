@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Nga nói quân đội Ukraine đang hoảng loạn](https://vnexpress.net/nga-noi-quan-doi-ukraine-dang-hoang-loan-4740225.html) - 07:39 29/04/2024
 - 🕴 [Mỹ có thể đã mua hơn 80 xác chiến đấu cơ để viện trợ Ukraine](https://vnexpress.net/my-co-the-da-mua-hon-80-xac-chien-dau-co-de-vien-tro-ukraine-4740214.html) - 07:02 29/04/2024
-- 🤭 [Nhà Trắng kêu gọi sinh viên phản đối Israel biểu tình ôn hòa](https://vnexpress.net/nha-trang-keu-goi-sinh-vien-phan-doi-israel-bieu-tinh-on-hoa-4740194.html) - 05:31 29/04/2024
+- 🤭 [Nhà Trắng kêu gọi sinh viên phản chiến biểu tình trong ôn hòa](https://vnexpress.net/nha-trang-keu-goi-sinh-vien-phan-chien-bieu-tinh-trong-on-hoa-4740194.html) - 05:31 29/04/2024
 - 🧑‍💻 [Học sinh Philippines chật vật giữa nắng nóng thiêu đốt](https://vnexpress.net/hoc-sinh-philippines-chat-vat-giua-nang-nong-thieu-dot-4740142.html) - 05:25 29/04/2024
 - 🦏 [Donald Trump dẫn trước ông Biden trong khảo sát mới](https://vnexpress.net/donald-trump-dan-truoc-ong-biden-trong-khao-sat-moi-4740159.html) - 04:17 29/04/2024
 - 🦒 [Chính trường Đức tranh cãi về phát triển vũ khí hạt nhân](https://vnexpress.net/chinh-truong-duc-tranh-cai-ve-phat-trien-vu-khi-hat-nhan-4716249.html) - 04:00 29/04/2024
