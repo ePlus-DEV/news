@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Indonesia 0-0 Uzbekistan &lpar;hết H1&rpar;: Boriyev sút dội xà](https://vnexpress.net/u23-indonesia-vs-u23-uzbekistan-4740296.html) - 13:31 29/04/2024
+- 🪜 [Indonesia 0-0 Uzbekistan &lpar;H2&rpar;: Boriyev sút dội xà](https://vnexpress.net/u23-indonesia-vs-u23-uzbekistan-4740296.html) - 13:31 29/04/2024
 - 🦩 [Trần Tuấn Kiệt thắng chặng áp chót giải xe đạp xuyên Việt](https://vnexpress.net/tran-tuan-kiet-thang-chang-ap-chot-giai-xe-dap-xuyen-viet-4740263.html) - 09:26 29/04/2024
 - 🧰 [Bí thư TP Huế hoàn thành 21km VnExpress Marathon](https://vnexpress.net/bi-thu-tp-hue-hoan-thanh-21km-vnexpress-marathon-4738660.html) - 06:41 29/04/2024
 - 🤗 [Indonesia - Uzbekistan: Chờ vé Olympic lịch sử](https://vnexpress.net/indonesia-uzbekistan-cho-ve-olympic-lich-su-4740210.html) - 05:45 29/04/2024
