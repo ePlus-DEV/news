@@ -14,7 +14,7 @@ sidebar_position: 7
 - 🐲 [Mức chứng minh tài chính khi du học ở gần 20 nước](https://vnexpress.net/muc-chung-minh-tai-chinh-khi-du-hoc-o-gan-20-nuoc-4739117.html) - 17:00 28/04/2024
 - 🦒 [Học Điện tử Viễn thông hay Trí tuệ Nhân tạo dễ xin việc hơn?](https://vnexpress.net/hoc-dien-tu-vien-thong-hay-tri-tue-nhan-tao-de-xin-viec-hon-4739987.html) - 16:59 28/04/2024
 - 🦆 [Tên gọi Nha Trang nghĩa là gì?](https://vnexpress.net/ten-goi-nha-trang-nghia-la-gi-4739981.html) - 13:00 28/04/2024
-- 🧰 [Nữ sinh mê game giành học bổng hơn 6 tỷ đồng](https://vnexpress.net/nu-sinh-me-game-gianh-hoc-bong-hon-6-ty-dong-4739727.html) - 12:00 28/04/2024
+- 🧰 [Nữ sinh mê game giành học bổng 6,6 tỷ đồng](https://vnexpress.net/nu-sinh-me-game-gianh-hoc-bong-6-6-ty-dong-4739727.html) - 12:00 28/04/2024
 - 🐘 [Những từ tiếng Anh quen thuộc bỏ phát âm chữ &#39;H&#39;](https://vnexpress.net/nhung-tu-tieng-anh-quen-thuoc-bo-phat-am-chu-h-4739777.html) - 09:06 28/04/2024
 - 🤓 [Chuộng doanh nghiệp lớn, người trẻ Hàn Quốc chật vật tìm việc](https://vnexpress.net/chuong-doanh-nghiep-lon-nguoi-tre-han-quoc-chat-vat-tim-viec-4739625.html) - 06:25 28/04/2024
 - 🧰 [Trường Đại học Ngoại ngữ xét tuyển học bạ kết hợp phỏng vấn](https://vnexpress.net/truong-dai-hoc-ngoai-ngu-xet-tuyen-hoc-ba-ket-hop-phong-van-4739538.html) - 02:20 28/04/2024
