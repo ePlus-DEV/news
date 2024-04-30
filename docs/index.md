@@ -259,7 +259,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧰 [CLIP: Công an TP HCM khống chế nhóm cướp 1,1 tỉ đồng tại biệt thự](https://nld.com.vn/clip-cong-an-tp-hcm-khong-che-nhom-cuop-11-ti-dong-tai-biet-thu-196240430164740954.htm) - 10:12 30/04/2024
 - 🤗 [Công an lên tiếng về thông tin &quot;Đà Lạt xảy ra biến lớn”](https://nld.com.vn/cong-an-len-tieng-ve-thong-tin-da-lat-xay-ra-bien-lon-196240430170316046.htm) - 10:07 30/04/2024
 - 🦅 [Nam Định trình làng phòng thay đồ như Ngoại hạng Anh](https://nld.com.vn/nam-dinh-trinh-lang-phong-thay-do-nhu-ngoai-hang-anh-196240430165413468.htm) - 10:02 30/04/2024
-- 🤩 [Hàng dài ô tô nhích từng chút trên cao tốc TP HCM - Long Thành - Dầu Giây](https://nld.com.vn/hang-dai-o-to-nhich-tung-chut-tren-cao-toc-tp-hcm-long-thanh-dau-giay-196240430165556444.htm) - 10:01 30/04/2024
+- 🤩 [Cấm xe vào cao tốc TP HCM - Long Thành - Dầu Giây hướng về TP HCM](https://nld.com.vn/hang-dai-o-to-nhich-tung-chut-tren-cao-toc-tp-hcm-long-thanh-dau-giay-196240430165556444.htm) - 10:01 30/04/2024
 - 🎭 [Tai nạn nghiêm trọng gần chợ đầu mối Thủ Đức](https://nld.com.vn/tai-nan-nghiem-trong-gan-cho-dau-moi-thu-duc-196240430160359903.htm) - 09:56 30/04/2024
 - 💄 [Truy tìm tài xế xe đầu kéo trong vụ tai nạn khiến 2 thiếu niên tử vong](https://nld.com.vn/truy-tim-tai-xe-xe-dau-keo-trong-vu-tai-nan-khien-2-thieu-nien-tu-vong-196240430163822304.htm) - 09:52 30/04/2024
 - 🎊 [Bình Định rực rỡ cờ đỏ sao vàng từ Báo Người Lao Động trao tặng](https://nld.com.vn/binh-dinh-ruc-ro-co-do-sao-vang-tu-bao-nguoi-lao-dong-trao-tang-196240430163154808.htm) - 09:50 30/04/2024
