@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Pháo hoa rực sáng bầu trời TP HCM đêm 30/4](https://vnexpress.net/phao-hoa-ruc-sang-bau-troi-tp-hcm-dem-30-4-4740595.html) - 15:07 30/04/2024
+- 🦒 [Pháo hoa rực sáng bầu trời TP HCM tối 30/4](https://vnexpress.net/phao-hoa-ruc-sang-bau-troi-tp-hcm-toi-30-4-4740595.html) - 15:07 30/04/2024
 - 🤓 [Công an Lâm Đồng bác thông tin &#39;Đà Lạt xảy ra bạo động&#39;](https://vnexpress.net/cong-an-lam-dong-bac-thong-tin-da-lat-xay-ra-bao-dong-4740583.html) - 13:58 30/04/2024
 - ⚗️ [Người dân đổ về trung tâm TP HCM xem pháo hoa](https://vnexpress.net/nguoi-dan-do-ve-trung-tam-tp-hcm-xem-phao-hoa-4740573.html) - 12:40 30/04/2024
 - 🌊 [Dòng người ùn ùn trở lại TP HCM chiều 30/4](https://vnexpress.net/dong-nguoi-un-un-tro-lai-tp-hcm-chieu-30-4-4740569.html) - 12:11 30/04/2024
