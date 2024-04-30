@@ -11,10 +11,10 @@ sidebar_position: 9
 - 🎊 [Các nước đang phát triển thành nơi &#39;thử nghiệm ransomware&#39;](https://vnexpress.net/cac-nuoc-dang-phat-trien-thanh-noi-thu-nghiem-ransomware-4738796.html) - 01:00 30/04/2024
 - 🎃 [Bố mệt mỏi vì con gái quá khéo tay](https://vnexpress.net/bo-met-moi-vi-con-gai-qua-kheo-tay-4739144.html) - 01:00 30/04/2024
 - 🧰 [Nhà phố Sài Gòn với nhiều khoảng vườn đan xen](https://vnexpress.net/nha-pho-sai-gon-voi-nhieu-khoang-vuon-dan-xen-4740201.html) - 00:54 30/04/2024
-- 🔭 [Runner chạy cả 44 kỳ London Marathon](https://vnexpress.net/runner-chay-ca-44-ky-london-marathon-4740365.html) - 00:53 30/04/2024
+- 🔭 [Runner Xứ Wales chạy cả 44 kỳ London Marathon](https://vnexpress.net/runner-xu-wales-chay-ca-44-ky-london-marathon-4740365.html) - 00:53 30/04/2024
 - 🫶 [Israel lo ICC có thể phát lệnh bắt ông Netanyahu &#39;trong tuần này&#39;](https://vnexpress.net/israel-lo-icc-co-the-phat-lenh-bat-ong-netanyahu-trong-tuan-nay-4740361.html) - 00:53 30/04/2024
 - 🪜 [Hai ôtô tông nhau, một người chết](https://vnexpress.net/hai-oto-tong-nhau-mot-nguoi-chet-4740366.html) - 00:51 30/04/2024
-- 👨‍🏫 [Nhà sản xuất show &#39;Chị đẹp&#39; lãi gấp ba lần](https://vnexpress.net/nha-san-xuat-show-chi-dep-lai-gap-ba-lan-4740248.html) - 00:42 30/04/2024
+- 👨‍🏫 [Nhà sản xuất show &quot;Chị đẹp&quot; lãi gấp ba lần](https://vnexpress.net/nha-san-xuat-show-chi-dep-lai-gap-ba-lan-4740248.html) - 00:42 30/04/2024
 - 🎊 [Houthi tập kích tàu hàng, chiến hạm Mỹ](https://vnexpress.net/houthi-tap-kich-tau-hang-chien-ham-my-4740354.html) - 00:30 30/04/2024
 - 🎊 [Bên trong đoàn tàu chất lượng cao Sài Gòn - Đà Nẵng](https://vnexpress.net/ben-trong-doan-tau-chat-luong-cao-sai-gon-da-nang-4740313.html) - 00:30 30/04/2024
 - 😺 [Lâu đài Pháp được rao bán 425 triệu USD](https://vnexpress.net/lau-dai-phap-duoc-rao-ban-425-trieu-usd-4740259.html) - 00:28 30/04/2024
