@@ -249,7 +249,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- nld:START -->
 - 🐎 [Công an triệu tập người đăng tin &quot;Đà Lạt xảy ra biến lớn&quot;](https://nld.com.vn/cong-an-trieu-tap-nguoi-dang-tin-da-lat-xay-ra-bien-lon-196240430221331177.htm) - 15:15 30/04/2024
 - 😺 [Trung tâm TP HCM kẹt xe, đầy rác sau chương trình bắn pháo hoa lễ 30-4](https://nld.com.vn/trung-tam-tp-hcm-ket-xe-day-rac-sau-chuong-trinh-ban-phao-hoa-le-30-4-196240430220554697.htm) - 15:09 30/04/2024
-- 👍 [Pháo hoa rực sáng trên bầu trời TP HCM mừng lễ 30-4](https://nld.com.vn/phao-hoa-ruc-sang-tren-bau-troi-tp-hcm-mung-le-30-4-196240430212320111.htm) - 14:29 30/04/2024
+- 👍 [Xem bắn pháo hoa, cảnh xe tăng húc đổ cổng Dinh Độc Lập trên bầu trời TP HCM](https://nld.com.vn/phao-hoa-ruc-sang-tren-bau-troi-tp-hcm-mung-le-30-4-196240430212320111.htm) - 14:29 30/04/2024
 - 🥷 [Nóng đỉnh điểm, 20.000 lượt du khách đổ xô đến Phong Nha](https://nld.com.vn/nong-dinh-diem-20000-luot-du-khach-do-xo-den-phong-nha-196240430191824217.htm) - 13:46 30/04/2024
 - 🤔 [TP HCM: Đường Lê Lợi - Đồng Khởi kẹt cứng trước giờ bắn pháo hoa](https://nld.com.vn/tp-hcm-duong-le-loi-dong-khoi-ket-cung-truoc-gio-ban-phao-hoa-196240430202154097.htm) - 13:33 30/04/2024
 - 🌈 [TP HCM: Bắt nhóm đối tượng cướp giật tại sự kiện đông người](https://nld.com.vn/tp-hcm-bat-nhom-doi-tuong-cuop-giat-tai-su-kien-dong-nguoi-196240430154022761.htm) - 12:37 30/04/2024
