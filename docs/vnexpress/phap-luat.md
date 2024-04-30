@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cảnh sát khống chế nhóm cướp 1,1 tỷ đồng của bà chủ biệt thự](https://vnexpress.net/canh-sat-khong-che-nhom-cuop-1-1-ty-dong-cua-ba-chu-biet-thu-4740517.html) - 08:18 30/04/2024
+- 😎 [Cảnh sát vây bắt nhóm cướp 1,1 tỷ đồng của bà chủ biệt thự](https://vnexpress.net/canh-sat-vay-bat-nhom-cuop-1-1-ty-dong-cua-ba-chu-biet-thu-4740517.html) - 08:18 30/04/2024
 - 🥰 [Đột nhập nhà lãnh đạo thị trấn trộm tài sản 600 triệu đồng](https://vnexpress.net/dot-nhap-nha-lanh-dao-thi-tran-trom-tai-san-600-trieu-dong-4740504.html) - 07:47 30/04/2024
 - 🎓 [Huyền thoại điện ảnh Pháp đối mặt cáo buộc dâm ô nhiều người](https://vnexpress.net/huyen-thoai-dien-anh-phap-gerard-depardieu-sap-hau-toa-vi-cao-buoc-cuong-hiep-4740446.html) - 06:36 30/04/2024
 - 🤓 [Hai thiếu niên cầm dao gây 3 vụ cướp trong 30 phút](https://vnexpress.net/hai-thieu-nien-cam-dao-gay-3-vu-cuop-trong-30-phut-4740490.html) - 06:24 30/04/2024
