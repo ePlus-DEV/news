@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Đinh Y Nhung: &#39;Tôi tiếc vì chưa trả hiếu được cho cha mẹ&#39;](https://vnexpress.net/dinh-y-nhung-toi-tiec-vi-chua-tra-hieu-duoc-cho-cha-me-4740020.html) - 17:00 29/04/2024
+- 🌏 [Đinh Y Nhung: &#39;Tôi tiếc vì chưa trả hiếu cho cha mẹ&#39;](https://vnexpress.net/dinh-y-nhung-toi-tiec-vi-chua-tra-hieu-cho-cha-me-4740020.html) - 17:00 29/04/2024
 - 💫 [Sao chuộng sneakers Samba của Adidas](https://vnexpress.net/sao-chuong-sneakers-samba-cua-adidas-4740273.html) - 14:30 29/04/2024
 - 🌮 [Ernest Hemingway từng viết thư khuyên nhủ nhiều nhà văn](https://vnexpress.net/ernest-hemingway-tung-viet-thu-khuyen-nhu-nhieu-nha-van-4740203.html) - 13:21 29/04/2024
 - 🧠 [Phim &#39;Địa đạo&#39; tung cảnh bom đạn ở Củ Chi](https://vnexpress.net/phim-dia-dao-tung-canh-bom-dan-o-cu-chi-4740288.html) - 13:03 29/04/2024
