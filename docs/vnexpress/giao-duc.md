@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [5 cách nói thay thế cho &#39;I don&#39;t like it&#39;](https://vnexpress.net/5-cach-noi-thay-the-cho-i-don-t-like-it-4740458.html) - 04:36 30/04/2024
+- 🤓 [5 cách nói tương tự &#39;I don&#39;t like it&#39;](https://vnexpress.net/5-cach-noi-tuong-tu-i-don-t-like-it-4740458.html) - 04:36 30/04/2024
 - 🦆 [90 đại học công bố điểm sàn đánh giá năng lực, tư duy](https://vnexpress.net/90-dai-hoc-cong-bo-diem-san-danh-gia-nang-luc-tu-duy-4739854.html) - 03:00 30/04/2024
 - 🦩 [Chị em sinh đôi 12 tuổi cùng đạt IELTS 8.0](https://vnexpress.net/chi-em-sinh-doi-12-tuoi-cung-dat-ielts-8-0-4740267.html) - 23:00 29/04/2024
 - 🌮 [Làm Cơ khí lương thấp, có nên thi lại trường Kinh tế?](https://vnexpress.net/lam-co-khi-luong-thap-co-nen-thi-lai-truong-kinh-te-4739997.html) - 16:59 29/04/2024
