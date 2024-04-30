@@ -573,7 +573,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- hoahoctro:START -->
 - 💼 [Không về quê, nhiều công nhân vui lễ trong khu trọ &#39;lò than&#39; ở TPHCM](https://tienphong.vn/khong-ve-que-nhieu-cong-nhan-vui-le-trong-khu-tro-lo-than-o-tphcm-post1633276.tpo) - 18:17 30/04/2024
 - 🎊 [ĐIỂM TIN 30/4: Tiêu thụ điện xô đổ mọi kỷ lục, người dân chú ý tiền điện cuối tháng](https://tienphong.vn/diem-tin-304-tieu-thu-dien-xo-do-moi-ky-luc-nguoi-dan-chu-y-tien-dien-cuoi-thang-post1633292.tpo) - 18:15 30/04/2024
-- 💼 [Tiêu thụ điện tăng cao vì nắng nóng](https://tienphong.vn/tieu-thu-dien-tang-cao-vi-nang-nong-post1633289.tpo) - 18:13 30/04/2024
+- 💼 [Tiêu thụ điện lập kỷ lục vì nắng nóng](https://tienphong.vn/tieu-thu-dien-lap-ky-luc-vi-nang-nong-post1633289.tpo) - 18:13 30/04/2024
 - 👺 [Lý do Indonesia khẩn cấp đóng cửa sân bay](https://tienphong.vn/ly-do-indonesia-khan-cap-dong-cua-san-bay-post1633296.tpo) - 18:05 30/04/2024
 - 💪 [Thanh niên vi phạm tốc độ, liều lĩnh lao xe máy vào CSGT](https://tienphong.vn/thanh-nien-vi-pham-toc-do-lieu-linh-lao-xe-may-vao-csgt-post1633285.tpo) - 18:02 30/04/2024
 - 💃 [Cứu hộ nhiều du khách tắm vùng nước xoáy nguy hiểm ở biển Sầm Sơn](https://tienphong.vn/cuu-ho-nhieu-du-khach-tam-vung-nuoc-xoay-nguy-hiem-o-bien-sam-son-post1633298.tpo) - 17:44 30/04/2024
