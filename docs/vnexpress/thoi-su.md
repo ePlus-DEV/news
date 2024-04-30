@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Xác cá voi 10 tấn trôi dạt trên biển Cô Tô](https://vnexpress.net/xac-ca-voi-10-tan-troi-dat-tren-bien-co-to-4740400.html) - 02:48 30/04/2024
-- 🤓 [Hai ôtô tông nhau, một người chết](https://vnexpress.net/hai-oto-tong-nhau-mot-nguoi-chet-4740366.html) - 00:51 30/04/2024
+- 🤓 [Hai ôtô chở gần 50 khách tông nhau, một người chết](https://vnexpress.net/hai-oto-tong-nhau-mot-nguoi-chet-4740366.html) - 00:51 30/04/2024
 - ⚗️ [Bên trong đoàn tàu chất lượng cao Sài Gòn - Đà Nẵng](https://vnexpress.net/ben-trong-doan-tau-chat-luong-cao-sai-gon-da-nang-4740313.html) - 00:30 30/04/2024
 - 🌊 [Người ghi lại buổi phát thanh lịch sử ở Sài Gòn trưa 30/4/1975](https://vnexpress.net/nguoi-ghi-lai-buoi-phat-thanh-lich-su-o-sai-gon-trua-30-4-1975-4738353.html) - 23:00 29/04/2024
 - 🎓 [Ký ức về người mẹ nuôi giấu 7 dũng sĩ Thanh Khê](https://vnexpress.net/ky-uc-ve-nguoi-me-nuoi-giau-7-dung-si-thanh-khe-4740278.html) - 21:00 29/04/2024
