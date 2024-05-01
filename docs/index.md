@@ -573,66 +573,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Điểm du lịch nào hút khách nhất miền Tây?](https://tienphong.vn/diem-du-lich-nao-hut-khach-nhat-mien-tay-post1633446.tpo) - 18:23 01/05/2024
-- 🎊 [Gần 140 người chết vì tai nạn giao thông trong 5 ngày nghỉ lễ](https://tienphong.vn/gan-140-nguoi-chet-vi-tai-nan-giao-thong-trong-5-ngay-nghi-le-post1633479.tpo) - 18:18 01/05/2024
-- 💼 [Ngày cuối nghỉ lễ: Sân bay Tân Sơn Nhất thoáng từ chiều đến tối](https://tienphong.vn/ngay-cuoi-nghi-le-san-bay-tan-son-nhat-thoang-tu-chieu-den-toi-post1633475.tpo) - 18:15 01/05/2024
-- 👺 [Hải Phòng &#39;hái ra tiền&#39; dịp nghỉ lễ](https://tienphong.vn/hai-phong-hai-ra-tien-dip-nghi-le-post1633478.tpo) - 18:14 01/05/2024
-- 💪 [Nghìn người &#39;nhảy sóng&#39; ở bãi biển mới nổi Thanh Hóa](https://tienphong.vn/nghin-nguoi-nhay-song-o-bai-bien-moi-noi-thanh-hoa-post1633421.tpo) - 18:11 01/05/2024
-- 💃 [Bản tin Hình sự: Giả mạo công an đến nhà &#39;bạn gái&#39; chụp ảnh, lừa tiền](https://tienphong.vn/ban-tin-hinh-su-gia-mao-cong-an-den-nha-ban-gai-chup-anh-lua-tien-post1633468.tpo) - 17:50 01/05/2024
-- 🦍 [Giới trẻ bỏ phố lên núi tắm suối giải nhiệt](https://tienphong.vn/gioi-tre-bo-pho-len-nui-tam-suoi-giai-nhiet-post1633314.tpo) - 17:45 01/05/2024
-- 👹 [Thêm ba người tung tin giả &#39;Đà Lạt có biến&#39; bị công an mời lên làm việc](https://tienphong.vn/them-ba-nguoi-tung-tin-gia-da-lat-co-bien-bi-cong-an-moi-len-lam-viec-post1633460.tpo) - 16:58 01/05/2024
-- 🌜 [Xung đột Nga - Ukraine ngày 1/5: Máy bay không người lái của tình báo Ukraine tấn công nhà máy lọc dầu Nga](https://tienphong.vn/xung-dot-nga-ukraine-ngay-15-may-bay-khong-nguoi-lai-cua-tinh-bao-ukraine-tan-cong-nha-may-loc-dau-nga-post1633330.tpo) - 16:51 01/05/2024
+- 💼 [Tuổi trẻ cả nước thu gom gần 35 tấn rác sau chiến dịch hưởng ứng Ngày Trái Đất](https://tienphong.vn/tuoi-tre-ca-nuoc-thu-gom-gan-35-tan-rac-sau-chien-dich-huong-ung-ngay-trai-dat-post1631417.tpo) - 19:52 01/05/2024
+- 🎊 [Tái diễn tình trạng nhà xe trả khách trên đường cao tốc ở Hà Nội](https://tienphong.vn/tai-dien-tinh-trang-nha-xe-tra-khach-tren-duong-cao-toc-o-ha-noi-post1633461.tpo) - 19:51 01/05/2024
+- 💼 [Điện Biên Phủ trong trái tim các &#39;chiến sĩ nhí&#39;](https://tienphong.vn/dien-bien-phu-trong-trai-tim-cac-chien-si-nhi-post1633470.tpo) - 19:50 01/05/2024
+- 👺 [Khán giả Thủ đô &#39;khuấy đảo&#39; giải đua xe đạp hướng về Điện Biên Phủ](https://tienphong.vn/khan-gia-thu-do-khuay-dao-giai-dua-xe-dap-huong-ve-dien-bien-phu-post1633488.tpo) - 19:49 01/05/2024
+- 💪 [Clip: Khoảnh khắc kinh hoàng nổ nồi hơi khiến 6 người tử vong](https://tienphong.vn/clip-khoanh-khac-kinh-hoang-no-noi-hoi-khien-6-nguoi-tu-vong-post1633471.tpo) - 19:48 01/05/2024
+- 💃 [Người Hà Nội thảnh thơi dạo phố, tận hưởng không khí mát mẻ ngày cuối kỳ nghỉ 30/4](https://tienphong.vn/nguoi-ha-noi-thanh-thoi-dao-pho-tan-huong-khong-khi-mat-me-ngay-cuoi-ky-nghi-304-post1633476.tpo) - 19:47 01/05/2024
+- 🦍 [Đường về Hà Nội ùn ứ, CSGT phải đóng cao tốc điều xe đi sang QL1](https://tienphong.vn/duong-ve-ha-noi-un-u-csgt-phai-dong-cao-toc-dieu-xe-di-sang-ql1-post1633487.tpo) - 19:41 01/05/2024
+- 👹 [Tìm thấy ngôi sao cổ, hé lộ manh mối về vũ trụ sơ khai](https://tienphong.vn/tim-thay-ngoi-sao-co-he-lo-manh-moi-ve-vu-tru-so-khai-post1632095.tpo) - 19:28 01/05/2024
+- 🌜 [ĐIỂM TIN 1/5: Ba người đăng tin sai sự thật &#39;Đà Lạt có biến&#39; khai gì?](https://tienphong.vn/diem-tin-15-ba-nguoi-dang-tin-sai-su-that-da-lat-co-bien-khai-gi-post1633486.tpo) - 19:24 01/05/2024
+- 🎓 [Siêu thị, rạp chiếu phim ở Đà Lạt được mở lại](https://tienphong.vn/sieu-thi-rap-chieu-phim-o-da-lat-duoc-mo-lai-post1633483.tpo) - 19:19 01/05/2024
+- 🦣 [Hốt hoảng phát hiện thi thể nam thanh niên dưới ruộng](https://tienphong.vn/hot-hoang-phat-hien-thi-the-nam-thanh-nien-duoi-ruong-post1633473.tpo) - 19:13 01/05/2024
+- 🤓 [Thủ tướng chỉ đạo làm rõ nguyên nhân, khắc phục hậu quả vụ nổ lò hơi ở Đồng Nai](https://tienphong.vn/thu-tuong-chi-dao-lam-ro-nguyen-nhan-khac-phuc-hau-qua-vu-no-lo-hoi-o-dong-nai-post1633484.tpo) - 19:07 01/05/2024
+- 🌁 [Dòng xe ùn ứ tại trạm dừng nghỉ cao tốc Long Thành-Dầu Giây](https://tienphong.vn/dong-xe-un-u-tai-tram-dung-nghi-cao-toc-long-thanh-dau-giay-post1633474.tpo) - 19:02 01/05/2024
+- 🤩 [Thí sinh Hoa hậu Hoàn vũ Philippines ngất xỉu khi diễn trang phục dân tộc](https://tienphong.vn/thi-sinh-hoa-hau-hoan-vu-philippines-ngat-xiu-khi-dien-trang-phuc-dan-toc-post1633043.tpo) - 19:00 01/05/2024
+- 🫶 [Bộ trưởng Quốc phòng Nga xem vũ khí chống máy bay không người lái mới](https://tienphong.vn/bo-truong-quoc-phong-nga-xem-vu-khi-chong-may-bay-khong-nguoi-lai-moi-post1633480.tpo) - 18:59 01/05/2024
+- 🌁 [Xem xét trách nhiệm vụ nổ lò hơi tại Đồng Nai khiến 11 người thương vong](https://tienphong.vn/xem-xet-trach-nhiem-vu-no-lo-hoi-tai-dong-nai-khien-11-nguoi-thuong-vong-post1633472.tpo) - 18:51 01/05/2024
+- 🤭 [Trần Tuấn Kiệt thắng chặng mở đầu Cuộc đua xe đạp về Điện Biên Phủ 2024](https://tienphong.vn/tran-tuan-kiet-thang-chang-mo-dau-cuoc-dua-xe-dap-ve-dien-bien-phu-2024-post1633482.tpo) - 18:45 01/05/2024
+- 💪 [Trực tiếp Thể Công Viettel vs PVF CAND 1-0 &lpar;H1&rpar;: Thể Công Viettel mở tỉ số](https://tienphong.vn/truc-tiep-the-cong-viettel-vs-pvf-cand-1-0-h1-the-cong-viettel-mo-ti-so-post1633469.tpo) - 18:44 01/05/2024
+- 🎡 [Điểm du lịch nào hút khách nhất miền Tây?](https://tienphong.vn/diem-du-lich-nao-hut-khach-nhat-mien-tay-post1633446.tpo) - 18:23 01/05/2024
+- 😎 [Gần 140 người chết vì tai nạn giao thông trong 5 ngày nghỉ lễ](https://tienphong.vn/gan-140-nguoi-chet-vi-tai-nan-giao-thong-trong-5-ngay-nghi-le-post1633479.tpo) - 18:18 01/05/2024
+- 🦄 [Ngày cuối nghỉ lễ: Sân bay Tân Sơn Nhất thoáng từ chiều đến tối](https://tienphong.vn/ngay-cuoi-nghi-le-san-bay-tan-son-nhat-thoang-tu-chieu-den-toi-post1633475.tpo) - 18:15 01/05/2024
+- 🚀 [Hải Phòng &#39;hái ra tiền&#39; dịp nghỉ lễ](https://tienphong.vn/hai-phong-hai-ra-tien-dip-nghi-le-post1633478.tpo) - 18:14 01/05/2024
+- 🤓 [Nghìn người &#39;nhảy sóng&#39; ở bãi biển mới nổi Thanh Hóa](https://tienphong.vn/nghin-nguoi-nhay-song-o-bai-bien-moi-noi-thanh-hoa-post1633421.tpo) - 18:11 01/05/2024
+- 💄 [Bản tin Hình sự: Giả mạo công an đến nhà &#39;bạn gái&#39; chụp ảnh, lừa tiền](https://tienphong.vn/ban-tin-hinh-su-gia-mao-cong-an-den-nha-ban-gai-chup-anh-lua-tien-post1633468.tpo) - 17:50 01/05/2024
+- 🌋 [Giới trẻ bỏ phố lên núi tắm suối giải nhiệt](https://tienphong.vn/gioi-tre-bo-pho-len-nui-tam-suoi-giai-nhiet-post1633314.tpo) - 17:45 01/05/2024
+- 🥷 [Thêm ba người tung tin giả &#39;Đà Lạt có biến&#39; bị công an mời lên làm việc](https://tienphong.vn/them-ba-nguoi-tung-tin-gia-da-lat-co-bien-bi-cong-an-moi-len-lam-viec-post1633460.tpo) - 16:58 01/05/2024
+- 🦏 [Xung đột Nga - Ukraine ngày 1/5: Máy bay không người lái của tình báo Ukraine tấn công nhà máy lọc dầu Nga](https://tienphong.vn/xung-dot-nga-ukraine-ngay-15-may-bay-khong-nguoi-lai-cua-tinh-bao-ukraine-tan-cong-nha-may-loc-dau-nga-post1633330.tpo) - 16:51 01/05/2024
 - 🎓 [Đồng Nai báo cáo Thủ tướng nguyên nhân ban đầu vụ nổ lò hơi làm 6 người chết](https://tienphong.vn/dong-nai-bao-cao-thu-tuong-nguyen-nhan-ban-dau-vu-no-lo-hoi-lam-6-nguoi-chet-post1633452.tpo) - 16:47 01/05/2024
-- 🦣 [Sau 3 ngày &#39;mất tích&#39;, nam sinh lớp 7 đã về nhà](https://tienphong.vn/sau-3-ngay-mat-tich-nam-sinh-lop-7-da-ve-nha-post1633462.tpo) - 16:42 01/05/2024
-- 🤓 [Tài xế xe khách vi phạm nồng độ cồn, chở quá 31 người trên cao tốc](https://tienphong.vn/tai-xe-xe-khach-vi-pham-nong-do-con-cho-qua-31-nguoi-tren-cao-toc-post1633463.tpo) - 16:41 01/05/2024
-- 🌁 [5 ngày 170.000 người ‘trốn nóng’ ở Đà Lạt](https://tienphong.vn/5-ngay-170000-nguoi-tron-nong-o-da-lat-post1633435.tpo) - 16:40 01/05/2024
-- 🤩 [Chính sách giáo dục có hiệu lực từ tháng 5](https://tienphong.vn/chinh-sach-giao-duc-co-hieu-luc-tu-thang-5-post1633458.tpo) - 16:40 01/05/2024
-- 🫶 [Gần 650.000 thí sinh đăng kí &#39;nháp&#39; thi tốt nghiệp THPT năm 2024](https://tienphong.vn/gan-650000-thi-sinh-dang-ki-nhap-thi-tot-nghiep-thpt-nam-2024-post1633449.tpo) - 16:38 01/05/2024
-- 🌁 [Báo Tiền Phong tổ chức cuộc thi về bảo vệ môi trường và chống biến đổi khí hậu &#39;Giấc mơ xanh&#39;](https://tienphong.vn/bao-tien-phong-to-chuc-cuoc-thi-ve-bao-ve-moi-truong-va-chong-bien-doi-khi-hau-giac-mo-xanh-post1633323.tpo) - 16:38 01/05/2024
-- 🤭 [Sau kỳ nghỉ 5 ngày, chứng khoán diễn biến ra sao?](https://tienphong.vn/sau-ky-nghi-5-ngay-chung-khoan-dien-bien-ra-sao-post1633447.tpo) - 16:36 01/05/2024
-- 💪 [Quấy rối nhìn từ vụ ồn ào ở Nhã Nam](https://tienphong.vn/quay-roi-nhin-tu-vu-on-ao-o-nha-nam-post1633261.tpo) - 16:30 01/05/2024
-- 🎡 [Duy Hưng, Tuấn Tú lấy nước mắt người xem](https://tienphong.vn/duy-hung-tuan-tu-lay-nuoc-mat-nguoi-xem-post1633346.tpo) - 16:20 01/05/2024
-- 😎 [Trung Quốc: Đường cao tốc bất ngờ sụt lún, 19 người thiệt mạng](https://tienphong.vn/trung-quoc-duong-cao-toc-bat-ngo-sut-lun-19-nguoi-thiet-mang-post1633454.tpo) - 16:17 01/05/2024
-- 🦄 [Người phụ nữ làm nghề Spa cầm đầu đường dây điều ‘chân dài’ ăn nhậu, bán dâm](https://tienphong.vn/nguoi-phu-nu-lam-nghe-spa-cam-dau-duong-day-dieu-chan-dai-an-nhau-ban-dam-post1633440.tpo) - 16:12 01/05/2024
-- 🚀 [Thái Bình yêu cầu làm rõ trách nhiệm cán bộ để nhà xưởng ‘nhảy dù’ xuống đất nông nghiệp](https://tienphong.vn/thai-binh-yeu-cau-lam-ro-trach-nhiem-can-bo-de-nha-xuong-nhay-du-xuong-dat-nong-nghiep-post1633388.tpo) - 16:06 01/05/2024
-- 🤓 [Nam Bộ, Tây Nguyên bao giờ vào mùa mưa?](https://tienphong.vn/nam-bo-tay-nguyen-bao-gio-vao-mua-mua-post1633444.tpo) - 16:05 01/05/2024
-- 💄 [4 người nghi liên quan vụ cháy rừng liên huyện ở Nghệ An](https://tienphong.vn/4-nguoi-nghi-lien-quan-vu-chay-rung-lien-huyen-o-nghe-an-post1633448.tpo) - 16:01 01/05/2024
-- 🌋 [Đốt nương trong thời tiết hanh khô, hai vợ chồng tử vong](https://tienphong.vn/dot-nuong-trong-thoi-tiet-hanh-kho-hai-vo-chong-tu-vong-post1633424.tpo) - 15:59 01/05/2024
-- 🥷 [Vụ nổ lò hơi 6 người chết: Nhiều nhà dân cách xa hàng trăm mét bị sập mái, nứt tường](https://tienphong.vn/vu-no-lo-hoi-6-nguoi-chet-nhieu-nha-dan-cach-xa-hang-tram-met-bi-sap-mai-nut-tuong-post1633451.tpo) - 15:58 01/05/2024
-- 🦏 [Người dân Quảng Nam đổ xô xuống sông đãi cát tìm vàng](https://tienphong.vn/nguoi-dan-quang-nam-do-xo-xuong-song-dai-cat-tim-vang-post1633445.tpo) - 15:45 01/05/2024
-- 🎓 [Phát hiện thi thể 3 bố con chết cháy trong khe núi ở Điện Biên](https://tienphong.vn/phat-hien-thi-the-3-bo-con-chet-chay-trong-khe-nui-o-dien-bien-post1633442.tpo) - 15:35 01/05/2024
-- 🐘 [Máy bay ném bom tàng hình B-2 Spirit của Mỹ xuất hiện ở Dải Gaza](https://tienphong.vn/may-bay-nem-bom-tang-hinh-b-2-spirit-cua-my-xuat-hien-o-dai-gaza-post1633425.tpo) - 15:34 01/05/2024
-- 🎡 [Ba hố &#39;tử thần&#39; xuất hiện ở Sơn La](https://tienphong.vn/ba-ho-tu-than-xuat-hien-o-son-la-post1633439.tpo) - 15:26 01/05/2024
-- 🔭 [Hà Nội tuyển 215 biên chế công chức năm 2024](https://tienphong.vn/ha-noi-tuyen-215-bien-che-cong-chuc-nam-2024-post1633403.tpo) - 15:23 01/05/2024
-- 🧰 [Các trường đại học đã công bố điểm sàn: Bao nhiêu điểm thì có cơ hội đỗ?](https://tienphong.vn/cac-truong-dai-hoc-da-cong-bo-diem-san-bao-nhieu-diem-thi-co-co-hoi-do-post1633347.tpo) - 15:22 01/05/2024
-- 💂 [Xét tuyển các trường Y dược: Xét học bạ, ưu tiên chứng chỉ ngoại ngữ IELTS, SAT](https://tienphong.vn/xet-tuyen-cac-truong-y-duoc-xet-hoc-ba-uu-tien-chung-chi-ngoai-ngu-ielts-sat-post1633415.tpo) - 15:16 01/05/2024
-- 🦏 [Cô giáo mầm non tổ chức lễ cưới trong trường, hàng trăm khách mời nhí phấn khích dự tiệc](https://tienphong.vn/co-giao-mam-non-to-chuc-le-cuoi-trong-truong-hang-tram-khach-moi-nhi-phan-khich-du-tiec-post1633209.tpo) - 15:04 01/05/2024
-- 🌋 [Khánh Hòa thu hơn 1.300 tỷ từ gần 1 triệu khách du lịch](https://tienphong.vn/khanh-hoa-thu-hon-1300-ty-tu-gan-1-trieu-khach-du-lich-post1633433.tpo) - 15:00 01/05/2024
-- 🧰 [Vua Charles xuất hiện giữa lúc sức khỏe yếu](https://tienphong.vn/vua-charles-xuat-hien-giua-luc-suc-khoe-yeu-post1633430.tpo) - 15:00 01/05/2024
-- 🦩 [Nút giao trên cao tốc Bắc - Nam đoạn qua Thanh Hóa hoạt động trở lại](https://tienphong.vn/nut-giao-tren-cao-toc-bac-nam-doan-qua-thanh-hoa-hoat-dong-tro-lai-post1633432.tpo) - 14:49 01/05/2024
-- 📝 [Đường sụt lún làm sập nhà dân, chủ tịch tỉnh Bạc Liêu chỉ đạo ‘nóng’](https://tienphong.vn/duong-sut-lun-lam-sap-nha-dan-chu-tich-tinh-bac-lieu-chi-dao-nong-post1633429.tpo) - 14:48 01/05/2024
-- 🤓 [&#39;Mướt mồ hôi’ trở lại TPHCM sau nghỉ lễ](https://tienphong.vn/muot-mo-hoi-tro-lai-tphcm-sau-nghi-le-post1633417.tpo) - 14:43 01/05/2024
-- 🎭 [Bé gái 2 tuổi đuối nước tử vong tại hồ bơi trong nhà](https://tienphong.vn/be-gai-2-tuoi-duoi-nuoc-tu-vong-tai-ho-boi-trong-nha-post1633423.tpo) - 14:35 01/05/2024
-- 🐘 [Ninh Dương Lan Ngọc rời showbiz](https://tienphong.vn/ninh-duong-lan-ngoc-roi-showbiz-post1633420.tpo) - 14:23 01/05/2024
-- 😺 [Nghệ An, Hà Tĩnh ‘hốt bạc’ từ du lịch](https://tienphong.vn/nghe-an-ha-tinh-hot-bac-tu-du-lich-post1633398.tpo) - 14:09 01/05/2024
-- 🌁 [Thu hồi hơn 10.000 tỷ đồng bị chiếm đoạt, thất thoát trong các vụ án tham nhũng, kinh tế](https://tienphong.vn/thu-hoi-hon-10000-ty-dong-bi-chiem-doat-that-thoat-trong-cac-vu-an-tham-nhung-kinh-te-post1633282.tpo) - 14:07 01/05/2024
-- 💄 [Chi tiết chính sách mới ưu đãi phát triển cụm công nghiệp có hiệu lực từ hôm nay](https://tienphong.vn/chi-tiet-chinh-sach-moi-uu-dai-phat-trien-cum-cong-nghiep-co-hieu-luc-tu-hom-nay-post1633386.tpo) - 14:03 01/05/2024
-- 🧰 [Đang nằm võng tại nhà bị đối tượng lạ mặt chém tử vong](https://tienphong.vn/dang-nam-vong-tai-nha-bi-doi-tuong-la-mat-chem-tu-vong-post1633409.tpo) - 13:58 01/05/2024
-- 🗽 [Giá vàng đồng loạt giảm mạnh](https://tienphong.vn/gia-vang-dong-loat-giam-manh-post1633418.tpo) - 13:44 01/05/2024
-- 📝 [Quốc khánh 2/9 năm nay được nghỉ 4 ngày](https://tienphong.vn/quoc-khanh-29-nam-nay-duoc-nghi-4-ngay-post1633404.tpo) - 13:42 01/05/2024
-- 🪄 [Danh tính 6 nạn nhân tử vong trong vụ nổ lò hơi ở Đồng Nai](https://tienphong.vn/danh-tinh-6-nan-nhan-tu-vong-trong-vu-no-lo-hoi-o-dong-nai-post1633419.tpo) - 13:40 01/05/2024
-- 🪜 [Vì sao bóng đá trẻ Uzbekistan phát triển rực rỡ đến vậy, và đây là câu trả lời](https://tienphong.vn/vi-sao-bong-da-tre-uzbekistan-phat-trien-ruc-ro-den-vay-va-day-la-cau-tra-loi-post1633416.tpo) - 13:33 01/05/2024
-- 🤡 [Chủ tịch tỉnh Đồng Nai chỉ đạo khẩn sau vụ nổ lò hơi làm 6 người tử vong](https://tienphong.vn/chu-tich-tinh-dong-nai-chi-dao-khan-sau-vu-no-lo-hoi-lam-6-nguoi-tu-vong-post1633414.tpo) - 13:23 01/05/2024
-- 🌮 [Đi thuyền trên sông nghe ca trù, ví giặm](https://tienphong.vn/di-thuyen-tren-song-nghe-ca-tru-vi-giam-post1633257.tpo) - 13:18 01/05/2024
-- 🕯 [Israel quyết tâm tấn công Rafah bất chấp triển vọng đàm phán với Hamas](https://tienphong.vn/israel-quyet-tam-tan-cong-rafah-bat-chap-trien-vong-dam-phan-voi-hamas-post1633413.tpo) - 13:07 01/05/2024
-- 🌜 [Công bố di chúc của Châu Tinh Trì](https://tienphong.vn/cong-bo-di-chuc-cua-chau-tinh-tri-post1633410.tpo) - 13:03 01/05/2024
-- 💼 [Lương Thu Trang lấn át Hồng Diễm](https://tienphong.vn/luong-thu-trang-lan-at-hong-diem-post1633368.tpo) - 12:55 01/05/2024
-- 🌏 [Người phụ nữ ‘ngáo đá’ cầm dao tấn công làm 2 người bị thương](https://tienphong.vn/nguoi-phu-nu-ngao-da-cam-dao-tan-cong-lam-2-nguoi-bi-thuong-post1633399.tpo) - 12:54 01/05/2024
-- 🤩 [Bệnh viện kích hoạt báo động đỏ cứu nạn nhân vụ nổ lò hơi khiến 11 người thương vong](https://tienphong.vn/benh-vien-kich-hoat-bao-dong-do-cuu-nan-nhan-vu-no-lo-hoi-khien-11-nguoi-thuong-vong-post1633412.tpo) - 12:44 01/05/2024
-- 💯 [Về nơi sinh cố Tổng Bí thư Trần Phú](https://tienphong.vn/ve-noi-sinh-co-tong-bi-thu-tran-phu-post1633373.tpo) - 12:32 01/05/2024
-- 🤔 [Vụ nổ lò hơi khiến 6 người tử vong: Công nhân kể lại giây phút kinh hoàng](https://tienphong.vn/vu-no-lo-hoi-khien-6-nguoi-tu-vong-cong-nhan-ke-lai-giay-phut-kinh-hoang-post1633408.tpo) - 12:31 01/05/2024
-- 🦏 [Cựu chiến binh kể trận đánh đồi A1 Điện Biên Phủ](https://tienphong.vn/cuu-chien-binh-ke-tran-danh-doi-a1-dien-bien-phu-post1633393.tpo) - 12:30 01/05/2024
-- 🤩 [Thợ điện giả danh công an hẹn hò, lừa tiền phụ nữ](https://tienphong.vn/tho-dien-gia-danh-cong-an-hen-ho-lua-tien-phu-nu-post1633375.tpo) - 12:30 01/05/2024<!-- hoahoctro:END -->
+- 🐘 [Sau 3 ngày &#39;mất tích&#39;, nam sinh lớp 7 đã về nhà](https://tienphong.vn/sau-3-ngay-mat-tich-nam-sinh-lop-7-da-ve-nha-post1633462.tpo) - 16:42 01/05/2024
+- 🎡 [Tài xế xe khách vi phạm nồng độ cồn, chở quá 31 người trên cao tốc](https://tienphong.vn/tai-xe-xe-khach-vi-pham-nong-do-con-cho-qua-31-nguoi-tren-cao-toc-post1633463.tpo) - 16:41 01/05/2024
+- 🔭 [5 ngày 170.000 người ‘trốn nóng’ ở Đà Lạt](https://tienphong.vn/5-ngay-170000-nguoi-tron-nong-o-da-lat-post1633435.tpo) - 16:40 01/05/2024
+- 🧰 [Chính sách giáo dục có hiệu lực từ tháng 5](https://tienphong.vn/chinh-sach-giao-duc-co-hieu-luc-tu-thang-5-post1633458.tpo) - 16:40 01/05/2024
+- 💂 [Gần 650.000 thí sinh đăng kí &#39;nháp&#39; thi tốt nghiệp THPT năm 2024](https://tienphong.vn/gan-650000-thi-sinh-dang-ki-nhap-thi-tot-nghiep-thpt-nam-2024-post1633449.tpo) - 16:38 01/05/2024
+- 🦏 [Báo Tiền Phong tổ chức cuộc thi về bảo vệ môi trường và chống biến đổi khí hậu &#39;Giấc mơ xanh&#39;](https://tienphong.vn/bao-tien-phong-to-chuc-cuoc-thi-ve-bao-ve-moi-truong-va-chong-bien-doi-khi-hau-giac-mo-xanh-post1633323.tpo) - 16:38 01/05/2024
+- 🌋 [Sau kỳ nghỉ 5 ngày, chứng khoán diễn biến ra sao?](https://tienphong.vn/sau-ky-nghi-5-ngay-chung-khoan-dien-bien-ra-sao-post1633447.tpo) - 16:36 01/05/2024
+- 🧰 [Quấy rối nhìn từ vụ ồn ào ở Nhã Nam](https://tienphong.vn/quay-roi-nhin-tu-vu-on-ao-o-nha-nam-post1633261.tpo) - 16:30 01/05/2024
+- 🦩 [Duy Hưng, Tuấn Tú lấy nước mắt người xem](https://tienphong.vn/duy-hung-tuan-tu-lay-nuoc-mat-nguoi-xem-post1633346.tpo) - 16:20 01/05/2024
+- 📝 [Trung Quốc: Đường cao tốc bất ngờ sụt lún, 19 người thiệt mạng](https://tienphong.vn/trung-quoc-duong-cao-toc-bat-ngo-sut-lun-19-nguoi-thiet-mang-post1633454.tpo) - 16:17 01/05/2024
+- 🤓 [Người phụ nữ làm nghề Spa cầm đầu đường dây điều ‘chân dài’ ăn nhậu, bán dâm](https://tienphong.vn/nguoi-phu-nu-lam-nghe-spa-cam-dau-duong-day-dieu-chan-dai-an-nhau-ban-dam-post1633440.tpo) - 16:12 01/05/2024
+- 🎭 [Thái Bình yêu cầu làm rõ trách nhiệm cán bộ để nhà xưởng ‘nhảy dù’ xuống đất nông nghiệp](https://tienphong.vn/thai-binh-yeu-cau-lam-ro-trach-nhiem-can-bo-de-nha-xuong-nhay-du-xuong-dat-nong-nghiep-post1633388.tpo) - 16:06 01/05/2024
+- 🐘 [Nam Bộ, Tây Nguyên bao giờ vào mùa mưa?](https://tienphong.vn/nam-bo-tay-nguyen-bao-gio-vao-mua-mua-post1633444.tpo) - 16:05 01/05/2024
+- 😺 [4 người nghi liên quan vụ cháy rừng liên huyện ở Nghệ An](https://tienphong.vn/4-nguoi-nghi-lien-quan-vu-chay-rung-lien-huyen-o-nghe-an-post1633448.tpo) - 16:01 01/05/2024
+- 🌁 [Đốt nương trong thời tiết hanh khô, hai vợ chồng tử vong](https://tienphong.vn/dot-nuong-trong-thoi-tiet-hanh-kho-hai-vo-chong-tu-vong-post1633424.tpo) - 15:59 01/05/2024
+- 💄 [Vụ nổ lò hơi 6 người chết: Nhiều nhà dân cách xa hàng trăm mét bị sập mái, nứt tường](https://tienphong.vn/vu-no-lo-hoi-6-nguoi-chet-nhieu-nha-dan-cach-xa-hang-tram-met-bi-sap-mai-nut-tuong-post1633451.tpo) - 15:58 01/05/2024
+- 🧰 [Người dân Quảng Nam đổ xô xuống sông đãi cát tìm vàng](https://tienphong.vn/nguoi-dan-quang-nam-do-xo-xuong-song-dai-cat-tim-vang-post1633445.tpo) - 15:45 01/05/2024
+- 🗽 [Phát hiện thi thể 3 bố con chết cháy trong khe núi ở Điện Biên](https://tienphong.vn/phat-hien-thi-the-3-bo-con-chet-chay-trong-khe-nui-o-dien-bien-post1633442.tpo) - 15:35 01/05/2024
+- 📝 [Máy bay ném bom tàng hình B-2 Spirit của Mỹ xuất hiện ở Dải Gaza](https://tienphong.vn/may-bay-nem-bom-tang-hinh-b-2-spirit-cua-my-xuat-hien-o-dai-gaza-post1633425.tpo) - 15:34 01/05/2024
+- 🪄 [Ba hố &#39;tử thần&#39; xuất hiện ở Sơn La](https://tienphong.vn/ba-ho-tu-than-xuat-hien-o-son-la-post1633439.tpo) - 15:26 01/05/2024
+- 🪜 [Hà Nội tuyển 215 biên chế công chức năm 2024](https://tienphong.vn/ha-noi-tuyen-215-bien-che-cong-chuc-nam-2024-post1633403.tpo) - 15:23 01/05/2024
+- 🤡 [Các trường đại học đã công bố điểm sàn: Bao nhiêu điểm thì có cơ hội đỗ?](https://tienphong.vn/cac-truong-dai-hoc-da-cong-bo-diem-san-bao-nhieu-diem-thi-co-co-hoi-do-post1633347.tpo) - 15:22 01/05/2024
+- 🌮 [Xét tuyển các trường Y dược: Xét học bạ, ưu tiên chứng chỉ ngoại ngữ IELTS, SAT](https://tienphong.vn/xet-tuyen-cac-truong-y-duoc-xet-hoc-ba-uu-tien-chung-chi-ngoai-ngu-ielts-sat-post1633415.tpo) - 15:16 01/05/2024
+- 🕯 [Cô giáo mầm non tổ chức lễ cưới trong trường, hàng trăm khách mời nhí phấn khích dự tiệc](https://tienphong.vn/co-giao-mam-non-to-chuc-le-cuoi-trong-truong-hang-tram-khach-moi-nhi-phan-khich-du-tiec-post1633209.tpo) - 15:04 01/05/2024
+- 🌜 [Khánh Hòa thu hơn 1.300 tỷ từ gần 1 triệu khách du lịch](https://tienphong.vn/khanh-hoa-thu-hon-1300-ty-tu-gan-1-trieu-khach-du-lich-post1633433.tpo) - 15:00 01/05/2024
+- 💼 [Vua Charles xuất hiện giữa lúc sức khỏe yếu](https://tienphong.vn/vua-charles-xuat-hien-giua-luc-suc-khoe-yeu-post1633430.tpo) - 15:00 01/05/2024
+- 🌏 [Nút giao trên cao tốc Bắc - Nam đoạn qua Thanh Hóa hoạt động trở lại](https://tienphong.vn/nut-giao-tren-cao-toc-bac-nam-doan-qua-thanh-hoa-hoat-dong-tro-lai-post1633432.tpo) - 14:49 01/05/2024
+- 🤩 [Đường sụt lún làm sập nhà dân, chủ tịch tỉnh Bạc Liêu chỉ đạo ‘nóng’](https://tienphong.vn/duong-sut-lun-lam-sap-nha-dan-chu-tich-tinh-bac-lieu-chi-dao-nong-post1633429.tpo) - 14:48 01/05/2024
+- 💯 [&#39;Mướt mồ hôi’ trở lại TPHCM sau nghỉ lễ](https://tienphong.vn/muot-mo-hoi-tro-lai-tphcm-sau-nghi-le-post1633417.tpo) - 14:43 01/05/2024
+- 🤔 [Bé gái 2 tuổi đuối nước tử vong tại hồ bơi trong nhà](https://tienphong.vn/be-gai-2-tuoi-duoi-nuoc-tu-vong-tai-ho-boi-trong-nha-post1633423.tpo) - 14:35 01/05/2024
+- 🦏 [Ninh Dương Lan Ngọc rời showbiz](https://tienphong.vn/ninh-duong-lan-ngoc-roi-showbiz-post1633420.tpo) - 14:23 01/05/2024
+- 🤩 [Nghệ An, Hà Tĩnh ‘hốt bạc’ từ du lịch](https://tienphong.vn/nghe-an-ha-tinh-hot-bac-tu-du-lich-post1633398.tpo) - 14:09 01/05/2024<!-- hoahoctro:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
