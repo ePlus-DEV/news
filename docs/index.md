@@ -148,7 +148,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
 - 🤠 [Tìm kiếm một người bị nước cuốn mất tích khi câu cá ở sông Pô Cô](https://thanhnien.vn/tim-kiem-mot-nguoi-bi-nuoc-cuon-mat-tich-khi-cau-ca-o-song-po-co-185240501121829062.htm) - 06:37 01/05/2024
-- 🥸 [Chiều nay các cô gái đá bóng tranh tài dưới cái nắng &quot;cháy da&quot;](https://thanhnien.vn/chieu-nay-cac-co-gai-da-bong-tranh-tai-duoi-cai-nang-chay-da-185240501133217621.htm) - 06:31 01/05/2024
+- 🥸 [Chiều nay các cô gái đá bóng tranh tài dưới cái nắng ‘cháy da’](https://thanhnien.vn/chieu-nay-cac-co-gai-da-bong-tranh-tai-duoi-cai-nang-chay-da-185240501133217621.htm) - 06:31 01/05/2024
 - 🌁 [U.23 Indonesia chưa kiện xong, lại ‘tái đấu’ trọng tài VAR người Thái trận tranh vé Olympic](https://thanhnien.vn/u23-indonesia-chua-kien-xong-lai-tai-dau-trong-tai-var-nguoi-thai-tran-tranh-ve-olympic-185240501125139804.htm) - 06:27 01/05/2024
 - 🤡 [Nông nghiệp công nghệ cao giúp kinh tế Xuyên Mộc &#39;cất cánh&#39;](https://thanhnien.vn/nong-nghiep-cong-nghe-cao-giup-kinh-te-xuyen-moc-cat-canh-185240425121347471.htm) - 06:25 01/05/2024
 - 🎉 [Vụ nổ lò hơi khiến 6 người thiệt mạng: Danh tính các nạn nhân xấu số](https://thanhnien.vn/vu-no-lo-hoi-khien-6-nguoi-thiet-mang-danh-tinh-cac-nan-nhan-xau-so-18524050112422441.htm) - 06:14 01/05/2024
