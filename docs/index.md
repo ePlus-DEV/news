@@ -398,7 +398,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦆 [Chặng đường mới phát triển TPHCM: Cần cách tiếp cận mạnh mẽ hơn](https://baochinhphu.vn/chang-duong-moi-phat-trien-tphcm-can-cach-tiep-can-manh-me-hon-102240430195704572.htm) - 09:33 01/05/2024
 - 🌝 [MXV-Index: Giá hàng hoá có xu hướng hạ nhiệt nhẹ](https://baochinhphu.vn/mxv-index-gia-hang-hoa-co-xu-huong-ha-nhiet-nhe-102240501094339447.htm) - 09:24 01/05/2024
 - 🦣 [Thể thao Việt Nam có thêm suất dự Olympic Paris 2024](https://baochinhphu.vn/the-thao-viet-nam-co-them-suat-du-olympic-paris-2024-102240501095347052.htm) - 09:19 01/05/2024
-- ⛽️ [Không khí lạnh đã ảnh hưởng đến phía đông Bắc Bộ](https://baochinhphu.vn/khong-khi-lanh-da-anh-huong-den-phia-dong-bac-bo-102240501093854105.htm) - 08:24 01/05/2024
+- ⛽️ [Không khí lạnh đã ảnh hưởng đến Đông Bắc Bộ](https://baochinhphu.vn/khong-khi-lanh-da-anh-huong-den-phia-dong-bac-bo-102240501093854105.htm) - 08:24 01/05/2024
 - 🎓 [Pháo hoa rực sáng bầu trời TPHCM chào mừng lễ 30/4](https://baochinhphu.vn/phao-hoa-ruc-sang-bau-troi-tphcm-chao-mung-le-30-4-102240430223828575.htm) - 08:15 01/05/2024
 - 💡 [Bảo đảm an toàn cho người lao động – ‘vốn quý’ của doanh nghiệp](https://baochinhphu.vn/bao-dam-an-toan-cho-nguoi-lao-dong-von-quy-cua-doanh-nghiep-102240426160719588.htm) - 08:09 01/05/2024
 - 🌊 [Nghỉ lễ 30/4 và 1/5: Công trường tăng ca làm việc để hoàn thành tiến độ](https://baochinhphu.vn/nghi-le-30-4-va-1-5-cong-truong-tang-ca-lam-viec-de-hoan-thanh-tien-do-102240425144812827.htm) - 08:06 01/05/2024
