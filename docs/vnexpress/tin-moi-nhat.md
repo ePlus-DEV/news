@@ -20,7 +20,7 @@ sidebar_position: 9
 - 😺 [Lò hơi ở công ty gỗ nổ sau một ngày được bảo dưỡng](https://vnexpress.net/lo-hoi-o-cong-ty-go-no-sau-mot-ngay-duoc-bao-duong-4740797.html) - 12:01 01/05/2024
 - 🐘 [Cờ bạc trực tuyến bủa vây lính Ukraine](https://vnexpress.net/co-bac-truc-tuyen-bua-vay-linh-ukraine-4740753.html) - 12:00 01/05/2024
 - 🌁 [Nhanh mắt nhặt sạn trong phim cổ trang](https://vnexpress.net/nhanh-mat-nhat-san-trong-phim-co-trang-4735597.html) - 12:00 01/05/2024
-- 🐲 [Apple chiêu mộ hàng chục kỹ sư AI của Google](https://vnexpress.net/apple-chieu-mo-hang-chuc-ky-su-ai-cua-google-4740609.html) - 12:00 01/05/2024
+- 🐲 [Apple chiêu mộ hàng chục kỹ sư AI của Goolge](https://vnexpress.net/apple-chieu-mo-hang-chuc-ky-su-ai-cua-goolge-4740609.html) - 12:00 01/05/2024
 - 🤓 [Khách sạn được cựu tuyển thủ bóng đá Brazil chọn khi đến Đà Nẵng](https://vnexpress.net/khach-san-duoc-cuu-tuyen-thu-bong-da-brazil-chon-khi-den-da-nang-4740795.html) - 12:00 01/05/2024
 - 💪 [Du lịch Bình Định thu hơn 300 tỷ đồng trong 5 ngày nghỉ lễ](https://vnexpress.net/du-lich-binh-dinh-thu-hon-300-ty-dong-trong-5-ngay-nghi-le-4740701.html) - 12:00 01/05/2024
 - 🎓 [UAV Ukraine tập kích nhà máy lọc dầu Nga](https://vnexpress.net/uav-ukraine-tap-kich-nha-may-loc-dau-nga-4740792.html) - 11:28 01/05/2024
