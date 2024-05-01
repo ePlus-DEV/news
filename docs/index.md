@@ -396,7 +396,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Nổ lò hơi tại Đồng Nai khiến nhiều người thương vong](https://baochinhphu.vn/no-lo-hoi-tai-dong-nai-khien-6-nguoi-tu-vong-nhieu-nguoi-bi-thuong-102240501103129885.htm) - 10:07 01/05/2024
+- 💻 [Nổ lò hơi tại Đồng Nai khiến nhiều người thương vong](https://baochinhphu.vn/no-lo-hoi-tai-dong-nai-khien-6-nguoi-tu-vong-nhieu-nguoi-bi-thuong-102240501103129885.htm) - 11:33 01/05/2024
 - 🌜 [Chính sách mới của Chính phủ có hiệu lực từ tháng 5/2024](https://baochinhphu.vn/chinh-sach-moi-cua-chinh-phu-co-hieu-luc-tu-thang-5-2024-102240501094956149.htm) - 09:54 01/05/2024
 - 🦆 [Một số văn bản chỉ đạo điều hành của Chính phủ, Thủ tướng Chính phủ trong tháng 4/2024](https://baochinhphu.vn/mot-so-van-ban-chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-trong-thang-4-2024-102240501094741674.htm) - 09:49 01/05/2024
 - 🌝 [Chặng đường mới phát triển TPHCM: Cần cách tiếp cận mạnh mẽ hơn](https://baochinhphu.vn/chang-duong-moi-phat-trien-tphcm-can-cach-tiep-can-manh-me-hon-102240430195704572.htm) - 09:33 01/05/2024
