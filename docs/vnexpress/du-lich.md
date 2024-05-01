@@ -23,7 +23,7 @@ sidebar_position: 11
 - 😺 [Roger Federer tới Hội An du lịch](https://vnexpress.net/roger-federer-toi-hoi-an-du-lich-4740260.html) - 09:37 29/04/2024
 - 🌈 [Biển Quy Nhơn hút hàng nghìn du khách](https://vnexpress.net/bien-quy-nhon-hut-hang-nghin-du-khach-4740079.html) - 07:10 29/04/2024
 - ⚗️ [Quy Nhơn điều tra tình trạng du khách bị thu tiền đậu ôtô](https://vnexpress.net/quy-nhon-dieu-tra-tinh-trang-du-khach-bi-thu-tien-dau-oto-4740190.html) - 07:06 29/04/2024
-- 👀 [Hà Nội tìm người bán ba quả dứa 500.000 đồng cho khách nước ngoài](https://vnexpress.net/ha-noi-tim-nguoi-ban-ba-qua-dua-500-000-dong-cho-khach-nuoc-ngoai-4740160.html) - 03:44 29/04/2024
+- 👀 [Hà Nội xác minh sự việc &#39;bán ba quả dứa 500.000 đồng&#39; cho khách nước ngoài](https://vnexpress.net/ha-noi-xac-minh-su-viec-ban-ba-qua-dua-500-000-dong-cho-khach-nuoc-ngoai-4740160.html) - 03:44 29/04/2024
 - 👍 [Địa điểm thưởng lãm pháo hoa tối 30/4 ở TP HCM](https://vnexpress.net/dia-diem-thuong-lam-phao-hoa-toi-30-4-o-tp-hcm-4739746.html) - 03:00 29/04/2024
 - 💄 [Đi du lịch &#39;vì một bức ảnh&#39;](https://vnexpress.net/di-du-lich-vi-mot-buc-anh-4730417.html) - 02:00 29/04/2024
 - 🥷 [Gỏi gà măng cụt với khoai môn sấy](https://vnexpress.net/goi-ga-mang-cut-voi-khoai-mon-say-4738324.html) - 00:00 29/04/2024
