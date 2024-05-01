@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Nga tập kích &#39;tổng hành dinh Bộ tư lệnh miền Nam Ukraine&#39;](https://vnexpress.net/nga-tap-kich-tong-hanh-dinh-bo-tu-lenh-mien-nam-ukraine-4740788.html) - 15:22 01/05/2024
-- 🕴 [Nghị sĩ Cộng hòa kêu gọi bỏ phiếu phế truất Chủ tịch Hạ viện Mỹ](https://vnexpress.net/nghi-si-cong-hoa-keu-goi-bo-phieu-phe-truat-chu-tich-ha-vien-my-4740807.html) - 14:23 01/05/2024
-- 🤭 [Ngoại trưởng Mỹ gặp ông Netanyahu, tiếp tục phản đối tấn công Rafah](https://vnexpress.net/ngoai-truong-my-gap-ong-netanyahu-tiep-tuc-phan-doi-tan-cong-rafah-4740805.html) - 13:33 01/05/2024
-- 🧑‍💻 [Tấn công bằng vật nhọn ở trường học Anh, ba người bị thương](https://vnexpress.net/tan-cong-bang-vat-nhon-o-truong-hoc-anh-ba-nguoi-bi-thuong-4740803.html) - 12:37 01/05/2024
-- 🦏 [Houthi đăng video UAV khóa mục tiêu, tập kích tàu hàng ở Biển Đỏ](https://vnexpress.net/houthi-dang-video-uav-khoa-muc-tieu-tap-kich-tau-hang-o-bien-do-4740798.html) - 12:21 01/05/2024
-- 🦒 [Cờ bạc trực tuyến bủa vây lính Ukraine](https://vnexpress.net/co-bac-truc-tuyen-bua-vay-linh-ukraine-4740753.html) - 12:00 01/05/2024
-- 🌈 [UAV Ukraine tập kích nhà máy lọc dầu Nga](https://vnexpress.net/uav-ukraine-tap-kich-nha-may-loc-dau-nga-4740792.html) - 11:28 01/05/2024
-- 🧑‍🏫 [Israel loại biên tên lửa Patriot của Mỹ do kém hiệu quả](https://vnexpress.net/israel-loai-bien-ten-lua-patriot-cua-my-do-kem-hieu-qua-4740770.html) - 10:19 01/05/2024
-- 🐲 [Colombia mất lượng lớn vũ khí, nghi bị tuồn ra chợ đen](https://vnexpress.net/colombia-mat-luong-lon-vu-khi-nghi-bi-tuon-ra-cho-den-4740760.html) - 09:36 01/05/2024
-- 🦒 [Nga trưng bày xe tăng Abrams, xe phá mìn 4 triệu USD tại Moskva](https://vnexpress.net/nga-trung-bay-xe-tang-abrams-xe-pha-min-4-trieu-usd-tai-moskva-4740734.html) - 09:01 01/05/2024
-- 🐻 [Gần 9 triệu ngôi nhà bị bỏ trống ở Nhật Bản](https://vnexpress.net/gan-9-trieu-ngoi-nha-bi-bo-trong-o-nhat-ban-4740741.html) - 08:47 01/05/2024
-- 🚀 [Cảnh sát New York dẹp biểu tình trong Đại học Columbia](https://vnexpress.net/canh-sat-new-york-dep-bieu-tinh-trong-dai-hoc-columbia-4740717.html) - 07:50 01/05/2024
-- 🥰 [Sạt lở trên cao tốc Trung Quốc, ít nhất 24 người chết](https://vnexpress.net/sat-lo-tren-cao-toc-trung-quoc-it-nhat-24-nguoi-chet-4740745.html) - 07:28 01/05/2024
-- 🔥 [Thượng viện Mỹ duyệt dự luật cấm nhập khẩu uranium Nga](https://vnexpress.net/thuong-vien-my-duyet-du-luat-cam-nhap-khau-uranium-nga-4740708.html) - 05:07 01/05/2024
-- 🥳 [Trung Quốc nói Hamas và Fatah sẽ hòa giải](https://vnexpress.net/trung-quoc-noi-hamas-va-fatah-se-hoa-giai-4740671.html) - 04:17 01/05/2024
-- 💼 [Cú đâm cảm tử của MiG-21 Liên Xô để chặn máy bay Iran năm 1973](https://vnexpress.net/cu-dam-cam-tu-cua-mig-21-lien-xo-de-chan-may-bay-iran-nam-1973-4725064.html) - 04:00 01/05/2024
-- 🤡 [Tàu sân bay Phúc Kiến lần đầu ra biển thử nghiệm](https://vnexpress.net/tau-san-bay-phuc-kien-lan-dau-ra-bien-thu-nghiem-4740692.html) - 03:15 01/05/2024
-- 🌁 [Bệnh nhân ung thư gốc Lào trúng xổ số 1,3 tỷ USD](https://vnexpress.net/benh-nhan-ung-thu-goc-lao-trung-xo-so-1-3-ty-usd-4740646.html) - 02:08 01/05/2024
-- 🤩 [Thủ tướng Netanyahu: Israel sẽ tấn công Rafah bất chấp thỏa thuận đình chiến](https://vnexpress.net/thu-tuong-netanyahu-israel-se-tan-cong-rafah-bat-chap-thoa-thuan-dinh-chien-4740639.html) - 00:56 01/05/2024
+- 🎭 [Cảnh sát Mỹ bắt 300 sinh viên biểu tình chống Israel](https://vnexpress.net/canh-sat-my-bat-300-sinh-vien-bieu-tinh-chong-israel-4740815.html) - 15:51 01/05/2024
+- 🕴 [Nga tập kích &#39;tổng hành dinh Bộ tư lệnh miền Nam Ukraine&#39;](https://vnexpress.net/nga-tap-kich-tong-hanh-dinh-bo-tu-lenh-mien-nam-ukraine-4740788.html) - 15:22 01/05/2024
+- 🤭 [Nghị sĩ Cộng hòa kêu gọi bỏ phiếu phế truất Chủ tịch Hạ viện Mỹ](https://vnexpress.net/nghi-si-cong-hoa-keu-goi-bo-phieu-phe-truat-chu-tich-ha-vien-my-4740807.html) - 14:23 01/05/2024
+- 🧑‍💻 [Ngoại trưởng Mỹ gặp ông Netanyahu, tiếp tục phản đối tấn công Rafah](https://vnexpress.net/ngoai-truong-my-gap-ong-netanyahu-tiep-tuc-phan-doi-tan-cong-rafah-4740805.html) - 13:33 01/05/2024
+- 🦏 [Tấn công bằng vật nhọn ở trường học Anh, ba người bị thương](https://vnexpress.net/tan-cong-bang-vat-nhon-o-truong-hoc-anh-ba-nguoi-bi-thuong-4740803.html) - 12:37 01/05/2024
+- 🦒 [Houthi đăng video UAV khóa mục tiêu, tập kích tàu hàng ở Biển Đỏ](https://vnexpress.net/houthi-dang-video-uav-khoa-muc-tieu-tap-kich-tau-hang-o-bien-do-4740798.html) - 12:21 01/05/2024
+- 🌈 [Cờ bạc trực tuyến bủa vây lính Ukraine](https://vnexpress.net/co-bac-truc-tuyen-bua-vay-linh-ukraine-4740753.html) - 12:00 01/05/2024
+- 🧑‍🏫 [UAV Ukraine tập kích nhà máy lọc dầu Nga](https://vnexpress.net/uav-ukraine-tap-kich-nha-may-loc-dau-nga-4740792.html) - 11:28 01/05/2024
+- 🐲 [Israel loại biên tên lửa Patriot của Mỹ do kém hiệu quả](https://vnexpress.net/israel-loai-bien-ten-lua-patriot-cua-my-do-kem-hieu-qua-4740770.html) - 10:19 01/05/2024
+- 🦒 [Colombia mất lượng lớn vũ khí, nghi bị tuồn ra chợ đen](https://vnexpress.net/colombia-mat-luong-lon-vu-khi-nghi-bi-tuon-ra-cho-den-4740760.html) - 09:36 01/05/2024
+- 🐻 [Nga trưng bày xe tăng Abrams, xe phá mìn 4 triệu USD tại Moskva](https://vnexpress.net/nga-trung-bay-xe-tang-abrams-xe-pha-min-4-trieu-usd-tai-moskva-4740734.html) - 09:01 01/05/2024
+- 🚀 [Gần 9 triệu ngôi nhà bị bỏ trống ở Nhật Bản](https://vnexpress.net/gan-9-trieu-ngoi-nha-bi-bo-trong-o-nhat-ban-4740741.html) - 08:47 01/05/2024
+- 🥰 [Cảnh sát New York dẹp biểu tình trong Đại học Columbia](https://vnexpress.net/canh-sat-new-york-dep-bieu-tinh-trong-dai-hoc-columbia-4740717.html) - 07:50 01/05/2024
+- 🔥 [Sạt lở trên cao tốc Trung Quốc, ít nhất 24 người chết](https://vnexpress.net/sat-lo-tren-cao-toc-trung-quoc-it-nhat-24-nguoi-chet-4740745.html) - 07:28 01/05/2024
+- 🥳 [Thượng viện Mỹ duyệt dự luật cấm nhập khẩu uranium Nga](https://vnexpress.net/thuong-vien-my-duyet-du-luat-cam-nhap-khau-uranium-nga-4740708.html) - 05:07 01/05/2024
+- 💼 [Trung Quốc nói Hamas và Fatah sẽ hòa giải](https://vnexpress.net/trung-quoc-noi-hamas-va-fatah-se-hoa-giai-4740671.html) - 04:17 01/05/2024
+- 🤡 [Cú đâm cảm tử của MiG-21 Liên Xô để chặn máy bay Iran năm 1973](https://vnexpress.net/cu-dam-cam-tu-cua-mig-21-lien-xo-de-chan-may-bay-iran-nam-1973-4725064.html) - 04:00 01/05/2024
+- 🌁 [Tàu sân bay Phúc Kiến lần đầu ra biển thử nghiệm](https://vnexpress.net/tau-san-bay-phuc-kien-lan-dau-ra-bien-thu-nghiem-4740692.html) - 03:15 01/05/2024
+- 🤩 [Bệnh nhân ung thư gốc Lào trúng xổ số 1,3 tỷ USD](https://vnexpress.net/benh-nhan-ung-thu-goc-lao-trung-xo-so-1-3-ty-usd-4740646.html) - 02:08 01/05/2024
+- 🎉 [Thủ tướng Netanyahu: Israel sẽ tấn công Rafah bất chấp thỏa thuận đình chiến](https://vnexpress.net/thu-tuong-netanyahu-israel-se-tan-cong-rafah-bat-chap-thoa-thuan-dinh-chien-4740639.html) - 00:56 01/05/2024
 - 🎉 [Đại học Mỹ dọa đuổi sinh viên biểu tình phản chiến quá khích](https://vnexpress.net/dai-hoc-my-doa-duoi-sinh-vien-bieu-tinh-phan-chien-qua-khich-4740628.html) - 00:20 01/05/2024
-- 🎉 [Tiêm kích F-16 Mỹ rơi](https://vnexpress.net/tiem-kich-f-16-my-roi-4740629.html) - 23:47 30/04/2024
-- 🌁 [Thành phố biên giới Nga nơm nớp với bóng ma chiến sự Ukraine](https://vnexpress.net/thanh-pho-bien-gioi-nga-nom-nop-voi-bong-ma-chien-su-ukraine-4738051.html) - 22:00 30/04/2024
-- 🌊 [Phe Dân chủ bảo vệ Chủ tịch Hạ viện Mỹ trước nguy cơ bị phế truất](https://vnexpress.net/phe-dan-chu-bao-ve-chu-tich-ha-vien-my-truoc-nguy-co-bi-phe-truat-4740606.html) - 17:20 30/04/2024
-- 🕴 [Vụ lính Mỹ bắn chết đặc vụ Italy thổi bùng căng thẳng năm 2005](https://vnexpress.net/vu-linh-my-ban-chet-dac-vu-italy-thoi-bung-cang-thang-nam-2005-4718637.html) - 17:00 30/04/2024
-- 🎓 [Ông Trump bị phạt 9.000 USD vì vi phạm lệnh cấm phát ngôn](https://vnexpress.net/ong-trump-bi-phat-9-000-usd-vi-vi-pham-lenh-cam-phat-ngon-4740591.html) - 16:08 30/04/2024
-- 🦩 [Vua Charles tái xuất sau thời gian điều trị ung thư](https://vnexpress.net/vua-charles-tai-xuat-sau-thoi-gian-dieu-tri-ung-thu-4740585.html) - 15:24 30/04/2024
-- 🌏 [Nga chỉ trích Mỹ đạo đức giả về ICC](https://vnexpress.net/nga-chi-trich-my-dao-duc-gia-ve-icc-4740576.html) - 14:51 30/04/2024
-- 🌋 [&#39;Lâu đài Harry Potter&#39; ở Ukraine bốc cháy sau đòn không kích của Nga](https://vnexpress.net/lau-dai-harry-potter-o-ukraine-boc-chay-sau-don-khong-kich-cua-nga-4740575.html) - 14:44 30/04/2024
-- 🪜 [Mỹ cáo buộc 5 đơn vị Israel từng vi phạm nhân quyền ở Bờ Tây](https://vnexpress.net/my-cao-buoc-5-don-vi-israel-tung-vi-pham-nhan-quyen-o-bo-tay-4740557.html) - 13:30 30/04/2024
-- 🕴 [Estonia tố cáo Nga gây nhiễu GPS, khiến máy bay phải quay đầu](https://vnexpress.net/estonia-to-cao-nga-gay-nhieu-gps-khien-may-bay-phai-quay-dau-4740564.html) - 12:59 30/04/2024
-- 🧑‍🏫 [Nga tuyên bố bắn hạ 6 tên lửa ATACMS Mỹ cung cấp cho Ukraine](https://vnexpress.net/nga-tuyen-bo-ban-ha-6-ten-lua-atacms-my-cung-cap-cho-ukraine-4740565.html) - 12:45 30/04/2024
-- 🌮 [Tương đồng giữa trận tái đấu Biden - Trump với cuộc bầu cử năm 1956](https://vnexpress.net/tuong-dong-giua-tran-tai-dau-biden-trump-voi-cuoc-bau-cu-nam-1956-4722930.html) - 12:00 30/04/2024
-- 🚦 [Người Ấn Độ bực bội về chuyến thăm Trung Quốc của Elon Musk](https://vnexpress.net/nguoi-an-do-buc-boi-ve-chuyen-tham-trung-quoc-cua-elon-musk-4740556.html) - 11:46 30/04/2024
-- 💫 [Iran hủy án tử hình với tỷ phú dầu mỏ](https://vnexpress.net/iran-huy-an-tu-hinh-voi-ty-phu-dau-mo-4740547.html) - 11:06 30/04/2024
-- 🤡 [Tấn công bằng kiếm ở London](https://vnexpress.net/tan-cong-bang-kiem-o-london-4740541.html) - 10:47 30/04/2024
-- 🦣 [Mỹ công bố ảnh cầu tàu 320 triệu USD đang xây ở Gaza](https://vnexpress.net/my-cong-bo-anh-cau-tau-320-trieu-usd-dang-xay-o-gaza-4740534.html) - 10:31 30/04/2024
-- 🎬 [Mỹ chỉ trích thông tin ICC chuẩn bị phát lệnh bắt Thủ tướng Israel](https://vnexpress.net/my-chi-trich-thong-tin-icc-chuan-bi-phat-lenh-bat-thu-tuong-israel-4740523.html) - 10:02 30/04/2024
-- 🎉 [Shipper Thái Lan khổ sở trong nắng nóng](https://vnexpress.net/shipper-thai-lan-kho-so-trong-nang-nong-4740520.html) - 09:41 30/04/2024
-- 🎡 [Núi lửa phun trào, Indonesia đóng sân bay quốc tế](https://vnexpress.net/nui-lua-phun-trao-indonesia-dong-san-bay-quoc-te-4740515.html) - 08:22 30/04/2024
-- 🌜 [Philippines tố hải cảnh Trung Quốc phun vòi rồng vào tàu tuần tra](https://vnexpress.net/philippines-to-hai-canh-trung-quoc-phun-voi-rong-vao-tau-tuan-tra-4740485.html) - 06:53 30/04/2024
-- 🎡 [Cụ ông 86 tuổi cưới tình đầu](https://vnexpress.net/cu-ong-86-tuoi-cuoi-tinh-dau-4740418.html) - 04:26 30/04/2024
-- 🤗 [Ông Trump gặp riêng thống đốc DeSantis](https://vnexpress.net/ong-trump-gap-rieng-thong-doc-desantis-4740437.html) - 04:08 30/04/2024
-- 🦩 [Đấu súng tại Mỹ, 4 cảnh sát thiệt mạng](https://vnexpress.net/dau-sung-tai-my-4-canh-sat-thiet-mang-4740394.html) - 02:50 30/04/2024
-- 🎓 [Thành viên Hoàng gia Anh đầu tiên thăm Ukraine trong chiến sự](https://vnexpress.net/thanh-vien-hoang-gia-anh-dau-tien-tham-ukraine-trong-chien-su-4740397.html) - 02:36 30/04/2024
-- 🌁 [Bí ẩn về thân thế của Từ Hi Thái hậu](https://vnexpress.net/bi-an-ve-than-the-cua-tu-hi-thai-hau-4739229.html) - 02:00 30/04/2024
-- 🤩 [Đại học Mỹ ra tối hậu thư với sinh viên biểu tình phản chiến](https://vnexpress.net/dai-hoc-my-ra-toi-hau-thu-voi-sinh-vien-bieu-tinh-phan-chien-4740351.html) - 01:11 30/04/2024
-- 👹 [Israel lo ICC có thể phát lệnh bắt ông Netanyahu &#39;trong tuần này&#39;](https://vnexpress.net/israel-lo-icc-co-the-phat-lenh-bat-ong-netanyahu-trong-tuan-nay-4740361.html) - 00:53 30/04/2024
-- ⛽️ [Houthi tập kích tàu hàng, chiến hạm Mỹ](https://vnexpress.net/houthi-tap-kich-tau-hang-chien-ham-my-4740354.html) - 00:30 30/04/2024
-- 🚀 [Ecuador kiện Mexico ra Tòa Công lý Quốc tế](https://vnexpress.net/ecuador-kien-mexico-ra-toa-cong-ly-quoc-te-4740349.html) - 23:27 29/04/2024
-- 🎡 [Cơn sốt vàng từng khiến Australia &#39;lột xác&#39;](https://vnexpress.net/con-sot-vang-tung-khien-australia-lot-xac-4718229.html) - 22:00 29/04/2024
-- 🕯 [Âm mưu ám sát hụt Tổng thống Bill Clinton của al-Qaeda](https://vnexpress.net/am-muu-am-sat-hut-tong-thong-bill-clinton-cua-al-qaeda-4727951.html) - 17:00 29/04/2024
-- 🐻 [Tổng thư ký NATO: Chưa quá muộn để giúp Ukraine chiến thắng](https://vnexpress.net/tong-thu-ky-nato-chua-qua-muon-de-giup-ukraine-chien-thang-4740316.html) - 15:43 29/04/2024
-- 🚦 [Mỹ kêu gọi Hamas chấp nhận đề xuất ngừng bắn của Israel](https://vnexpress.net/my-keu-goi-hamas-chap-nhan-de-xuat-ngung-ban-cua-israel-4740292.html) - 14:30 29/04/2024
-- 👍 [Nông dân Ba Lan ngừng phong tỏa cửa khẩu với Ukraine](https://vnexpress.net/nong-dan-ba-lan-ngung-phong-toa-cua-khau-voi-ukraine-4740290.html) - 13:30 29/04/2024
-- 🚀 [Cách CIA hỗ trợ Ukraine trong xung đột](https://vnexpress.net/cach-cia-ho-tro-ukraine-trong-xung-dot-4715730.html) - 12:00 29/04/2024
-- 🌮 [Trung Quốc đe dọa trả đũa nếu Mỹ cấm cửa TikTok](https://vnexpress.net/trung-quoc-de-doa-tra-dua-neu-my-cam-cua-tiktok-4740266.html) - 11:26 29/04/2024
-- 😎 [Loạt nước Đông Nam Á phát cảnh báo sức khỏe vì nắng nóng](https://vnexpress.net/loat-nuoc-dong-nam-a-phat-canh-bao-suc-khoe-vi-nang-nong-4740271.html) - 11:04 29/04/2024
-- 🐲 [Thủ tướng Tây Ban Nha tuyên bố không từ chức](https://vnexpress.net/thu-tuong-tay-ban-nha-tuyen-bo-khong-tu-chuc-4740262.html) - 09:55 29/04/2024
-- 💫 [Nhà Trắng nói Israel đồng ý tham vấn Mỹ trước khi tấn công Rafah](https://vnexpress.net/nha-trang-noi-israel-dong-y-tham-van-my-truoc-khi-tan-cong-rafah-4740246.html) - 08:25 29/04/2024
-- 👀 [Triều Tiên chỉ trích Mỹ vì chuyển tên lửa tầm xa cho Ukraine](https://vnexpress.net/trieu-tien-chi-trich-my-vi-chuyen-ten-lua-tam-xa-cho-ukraine-4740239.html) - 08:21 29/04/2024<!-- vnexpress-the-gioi:END -->
+- 🌁 [Tiêm kích F-16 Mỹ rơi](https://vnexpress.net/tiem-kich-f-16-my-roi-4740629.html) - 23:47 30/04/2024
+- 🌊 [Thành phố biên giới Nga nơm nớp với bóng ma chiến sự Ukraine](https://vnexpress.net/thanh-pho-bien-gioi-nga-nom-nop-voi-bong-ma-chien-su-ukraine-4738051.html) - 22:00 30/04/2024
+- 🕴 [Phe Dân chủ bảo vệ Chủ tịch Hạ viện Mỹ trước nguy cơ bị phế truất](https://vnexpress.net/phe-dan-chu-bao-ve-chu-tich-ha-vien-my-truoc-nguy-co-bi-phe-truat-4740606.html) - 17:20 30/04/2024
+- 🎓 [Vụ lính Mỹ bắn chết đặc vụ Italy thổi bùng căng thẳng năm 2005](https://vnexpress.net/vu-linh-my-ban-chet-dac-vu-italy-thoi-bung-cang-thang-nam-2005-4718637.html) - 17:00 30/04/2024
+- 🦩 [Ông Trump bị phạt 9.000 USD vì vi phạm lệnh cấm phát ngôn](https://vnexpress.net/ong-trump-bi-phat-9-000-usd-vi-vi-pham-lenh-cam-phat-ngon-4740591.html) - 16:08 30/04/2024
+- 🌏 [Vua Charles tái xuất sau thời gian điều trị ung thư](https://vnexpress.net/vua-charles-tai-xuat-sau-thoi-gian-dieu-tri-ung-thu-4740585.html) - 15:24 30/04/2024
+- 🌋 [Nga chỉ trích Mỹ đạo đức giả về ICC](https://vnexpress.net/nga-chi-trich-my-dao-duc-gia-ve-icc-4740576.html) - 14:51 30/04/2024
+- 🪜 [&#39;Lâu đài Harry Potter&#39; ở Ukraine bốc cháy sau đòn không kích của Nga](https://vnexpress.net/lau-dai-harry-potter-o-ukraine-boc-chay-sau-don-khong-kich-cua-nga-4740575.html) - 14:44 30/04/2024
+- 🕴 [Mỹ cáo buộc 5 đơn vị Israel từng vi phạm nhân quyền ở Bờ Tây](https://vnexpress.net/my-cao-buoc-5-don-vi-israel-tung-vi-pham-nhan-quyen-o-bo-tay-4740557.html) - 13:30 30/04/2024
+- 🧑‍🏫 [Estonia tố cáo Nga gây nhiễu GPS, khiến máy bay phải quay đầu](https://vnexpress.net/estonia-to-cao-nga-gay-nhieu-gps-khien-may-bay-phai-quay-dau-4740564.html) - 12:59 30/04/2024
+- 🌮 [Nga tuyên bố bắn hạ 6 tên lửa ATACMS Mỹ cung cấp cho Ukraine](https://vnexpress.net/nga-tuyen-bo-ban-ha-6-ten-lua-atacms-my-cung-cap-cho-ukraine-4740565.html) - 12:45 30/04/2024
+- 🚦 [Tương đồng giữa trận tái đấu Biden - Trump với cuộc bầu cử năm 1956](https://vnexpress.net/tuong-dong-giua-tran-tai-dau-biden-trump-voi-cuoc-bau-cu-nam-1956-4722930.html) - 12:00 30/04/2024
+- 💫 [Người Ấn Độ bực bội về chuyến thăm Trung Quốc của Elon Musk](https://vnexpress.net/nguoi-an-do-buc-boi-ve-chuyen-tham-trung-quoc-cua-elon-musk-4740556.html) - 11:46 30/04/2024
+- 🤡 [Iran hủy án tử hình với tỷ phú dầu mỏ](https://vnexpress.net/iran-huy-an-tu-hinh-voi-ty-phu-dau-mo-4740547.html) - 11:06 30/04/2024
+- 🦣 [Tấn công bằng kiếm ở London](https://vnexpress.net/tan-cong-bang-kiem-o-london-4740541.html) - 10:47 30/04/2024
+- 🎬 [Mỹ công bố ảnh cầu tàu 320 triệu USD đang xây ở Gaza](https://vnexpress.net/my-cong-bo-anh-cau-tau-320-trieu-usd-dang-xay-o-gaza-4740534.html) - 10:31 30/04/2024
+- 🎉 [Mỹ chỉ trích thông tin ICC chuẩn bị phát lệnh bắt Thủ tướng Israel](https://vnexpress.net/my-chi-trich-thong-tin-icc-chuan-bi-phat-lenh-bat-thu-tuong-israel-4740523.html) - 10:02 30/04/2024
+- 🎡 [Shipper Thái Lan khổ sở trong nắng nóng](https://vnexpress.net/shipper-thai-lan-kho-so-trong-nang-nong-4740520.html) - 09:41 30/04/2024
+- 🌜 [Núi lửa phun trào, Indonesia đóng sân bay quốc tế](https://vnexpress.net/nui-lua-phun-trao-indonesia-dong-san-bay-quoc-te-4740515.html) - 08:22 30/04/2024
+- 🎡 [Philippines tố hải cảnh Trung Quốc phun vòi rồng vào tàu tuần tra](https://vnexpress.net/philippines-to-hai-canh-trung-quoc-phun-voi-rong-vao-tau-tuan-tra-4740485.html) - 06:53 30/04/2024
+- 🤗 [Cụ ông 86 tuổi cưới tình đầu](https://vnexpress.net/cu-ong-86-tuoi-cuoi-tinh-dau-4740418.html) - 04:26 30/04/2024
+- 🦩 [Ông Trump gặp riêng thống đốc DeSantis](https://vnexpress.net/ong-trump-gap-rieng-thong-doc-desantis-4740437.html) - 04:08 30/04/2024
+- 🎓 [Đấu súng tại Mỹ, 4 cảnh sát thiệt mạng](https://vnexpress.net/dau-sung-tai-my-4-canh-sat-thiet-mang-4740394.html) - 02:50 30/04/2024
+- 🌁 [Thành viên Hoàng gia Anh đầu tiên thăm Ukraine trong chiến sự](https://vnexpress.net/thanh-vien-hoang-gia-anh-dau-tien-tham-ukraine-trong-chien-su-4740397.html) - 02:36 30/04/2024
+- 🤩 [Bí ẩn về thân thế của Từ Hi Thái hậu](https://vnexpress.net/bi-an-ve-than-the-cua-tu-hi-thai-hau-4739229.html) - 02:00 30/04/2024
+- 👹 [Đại học Mỹ ra tối hậu thư với sinh viên biểu tình phản chiến](https://vnexpress.net/dai-hoc-my-ra-toi-hau-thu-voi-sinh-vien-bieu-tinh-phan-chien-4740351.html) - 01:11 30/04/2024
+- ⛽️ [Israel lo ICC có thể phát lệnh bắt ông Netanyahu &#39;trong tuần này&#39;](https://vnexpress.net/israel-lo-icc-co-the-phat-lenh-bat-ong-netanyahu-trong-tuan-nay-4740361.html) - 00:53 30/04/2024
+- 🚀 [Houthi tập kích tàu hàng, chiến hạm Mỹ](https://vnexpress.net/houthi-tap-kich-tau-hang-chien-ham-my-4740354.html) - 00:30 30/04/2024
+- 🎡 [Ecuador kiện Mexico ra Tòa Công lý Quốc tế](https://vnexpress.net/ecuador-kien-mexico-ra-toa-cong-ly-quoc-te-4740349.html) - 23:27 29/04/2024
+- 🕯 [Cơn sốt vàng từng khiến Australia &#39;lột xác&#39;](https://vnexpress.net/con-sot-vang-tung-khien-australia-lot-xac-4718229.html) - 22:00 29/04/2024
+- 🐻 [Âm mưu ám sát hụt Tổng thống Bill Clinton của al-Qaeda](https://vnexpress.net/am-muu-am-sat-hut-tong-thong-bill-clinton-cua-al-qaeda-4727951.html) - 17:00 29/04/2024
+- 🚦 [Tổng thư ký NATO: Chưa quá muộn để giúp Ukraine chiến thắng](https://vnexpress.net/tong-thu-ky-nato-chua-qua-muon-de-giup-ukraine-chien-thang-4740316.html) - 15:43 29/04/2024
+- 👍 [Mỹ kêu gọi Hamas chấp nhận đề xuất ngừng bắn của Israel](https://vnexpress.net/my-keu-goi-hamas-chap-nhan-de-xuat-ngung-ban-cua-israel-4740292.html) - 14:30 29/04/2024
+- 🚀 [Nông dân Ba Lan ngừng phong tỏa cửa khẩu với Ukraine](https://vnexpress.net/nong-dan-ba-lan-ngung-phong-toa-cua-khau-voi-ukraine-4740290.html) - 13:30 29/04/2024
+- 🌮 [Cách CIA hỗ trợ Ukraine trong xung đột](https://vnexpress.net/cach-cia-ho-tro-ukraine-trong-xung-dot-4715730.html) - 12:00 29/04/2024
+- 😎 [Trung Quốc đe dọa trả đũa nếu Mỹ cấm cửa TikTok](https://vnexpress.net/trung-quoc-de-doa-tra-dua-neu-my-cam-cua-tiktok-4740266.html) - 11:26 29/04/2024
+- 🐲 [Loạt nước Đông Nam Á phát cảnh báo sức khỏe vì nắng nóng](https://vnexpress.net/loat-nuoc-dong-nam-a-phat-canh-bao-suc-khoe-vi-nang-nong-4740271.html) - 11:04 29/04/2024
+- 💫 [Thủ tướng Tây Ban Nha tuyên bố không từ chức](https://vnexpress.net/thu-tuong-tay-ban-nha-tuyen-bo-khong-tu-chuc-4740262.html) - 09:55 29/04/2024
+- 👀 [Nhà Trắng nói Israel đồng ý tham vấn Mỹ trước khi tấn công Rafah](https://vnexpress.net/nha-trang-noi-israel-dong-y-tham-van-my-truoc-khi-tan-cong-rafah-4740246.html) - 08:25 29/04/2024<!-- vnexpress-the-gioi:END -->
