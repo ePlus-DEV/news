@@ -14,7 +14,7 @@ sidebar_position: 10
 - 👀 [Bé 7 tháng nhiễm khuẩn tụ cầu](https://vnexpress.net/be-7-thang-nhiem-khuan-tu-cau-4740672.html) - 03:32 01/05/2024
 - 🌋 [Biến chứng nặng do ngại đi khám &#39;bệnh khó nói&#39;](https://vnexpress.net/bien-chung-nang-do-ngai-di-kham-benh-kho-noi-4740638.html) - 03:00 01/05/2024
 - 🫶 [Uống rượu bia thế nào để không hôi miệng](https://vnexpress.net/uong-ruou-bia-the-nao-de-khong-hoi-mieng-4740306.html) - 03:00 01/05/2024
-- 🦆 [Hội chứng ăn bậy ở trẻ em](https://vnexpress.net/hoi-chung-an-bay-o-tre-em-4740192.html) - 02:04 01/05/2024
+- 🦆 [Hội chứng ăn bậy ở trẻ em](https://vnexpress.net/suc-khoe-cam-nang-cac-benh-hoi-chung-an-bay-o-tre-em-4740192.html) - 02:04 01/05/2024
 - 🚀 [7 món ăn uống tốt cho người axit uric cao](https://vnexpress.net/7-mon-an-uong-tot-cho-nguoi-axit-uric-cao-4740584.html) - 02:00 01/05/2024
 - 🌜 [Mầm bệnh truyền nhiễm có thể lây từ chó sang người](https://vnexpress.net/mam-benh-truyen-nhiem-co-the-lay-tu-cho-sang-nguoi-4740453.html) - 02:00 01/05/2024
 - 🧰 [Đồ uống nào giúp giảm nhanh đường huyết?](https://vnexpress.net/do-uong-nao-giup-giam-nhanh-duong-huyet-4740329.html) - 02:00 01/05/2024
