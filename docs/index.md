@@ -26,57 +26,58 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Bẫy tâm lý khi lệ thuộc Google](https://vnexpress.net/bay-tam-ly-khi-le-thuoc-google-4741098.html) - 07:07 02/05/2024
-- 🧰 [Tại sao không thể luộc trứng trên đỉnh Everest?](https://vnexpress.net/tai-sao-khong-the-luoc-trung-tren-dinh-everest-4740862.html) - 07:06 02/05/2024
-- 🥰 [&#39;Trẻ nên bị cấm dùng mạng xã hội trước 18 tuổi&#39;](https://vnexpress.net/tre-nen-bi-cam-dung-mang-xa-hoi-truoc-18-tuoi-4740949.html) - 07:00 02/05/2024
-- 🌏 [Bắt cá bằng lồng bàn trên phố](https://vnexpress.net/bat-ca-bang-long-ban-tren-pho-4739856.html) - 07:00 02/05/2024
-- 🧐 [4 loại trái cây dễ làm tăng đường huyết](https://vnexpress.net/4-loai-trai-cay-de-lam-tang-duong-huyet-4741057.html) - 07:00 02/05/2024
-- 💫 [Gần 1.500 đề cử tham gia giải thưởng VinFuture 2024](https://vnexpress.net/gan-1-500-de-cu-tham-gia-giai-thuong-vinfuture-2024-4741047.html) - 07:00 02/05/2024
-- 😺 [Nguyên nhân sảy thai liên tiếp](https://vnexpress.net/nguyen-nhan-say-thai-lien-tiep-4741039.html) - 07:00 02/05/2024
-- 🕯 [Ăn gì ngăn da xỉn màu, sạm nám sau du lịch lễ?](https://vnexpress.net/an-gi-ngan-da-xin-mau-sam-nam-sau-du-lich-le-4741034.html) - 07:00 02/05/2024
-- 💃 [LPBank lên kế hoạch đồng hành cùng bóng đá Việt](https://vnexpress.net/lpbank-len-ke-hoach-dong-hanh-cung-bong-da-viet-4741019.html) - 07:00 02/05/2024
-- 💂 [Từ bao nhiêu tiền để sở hữu ôtô điện VinFast](https://vnexpress.net/tu-bao-nhieu-tien-de-so-huu-oto-dien-vinfast-4737278.html) - 07:00 02/05/2024
-- 🎊 [Cách Base gỡ khó cho quản trị ngành kiểm toán](https://vnexpress.net/cach-base-go-kho-cho-quan-tri-nganh-kiem-toan-4732576.html) - 07:00 02/05/2024
-- 🤠 [Đại học Sư phạm TP HCM xét tuyển sớm với học bạ loại giỏi](https://vnexpress.net/dai-hoc-su-pham-tp-hcm-xet-tuyen-som-voi-hoc-ba-loai-gioi-4741096.html) - 06:51 02/05/2024
-- 🌈 [Giá vàng nhẫn giảm gần nửa triệu sau nghỉ lễ](https://vnexpress.net/moi-luong-vang-nhan-giam-gan-nua-trieu-dong-4741108.html) - 06:47 02/05/2024
-- 🎬 [Triển lãm tranh thông điệp &#39;tích lũy khoảnh khắc&#39;](https://vnexpress.net/trien-lam-tranh-thong-diep-tich-luy-khoanh-khac-4735814.html) - 06:42 02/05/2024
-- 🚀 [Công viên Eco Central Park hút 25.000 người dịp nghỉ lễ](https://vnexpress.net/cong-vien-eco-central-park-hut-25-000-nguoi-dip-nghi-le-4740962.html) - 06:30 02/05/2024
-- 🪄 [&#39;Sáng suốt ở nhà máy lạnh thay vì đi chơi lễ nắng nóng&#39;](https://vnexpress.net/sang-suot-o-nha-may-lanh-thay-vi-di-choi-le-nang-nong-4741059.html) - 06:00 02/05/2024
-- 😎 [Người đàn ông Tuyên Quang 43 tuổi tìm em để trao nhẫn](https://vnexpress.net/nguoi-dan-ong-tuyen-quang-43-tuoi-tim-em-de-trao-nhan-4740961.html) - 06:00 02/05/2024
-- 🎊 [Không ai yêu dù ngoan, ưa nhìn, thu nhập cao mỗi năm](https://vnexpress.net/khong-ai-yeu-du-ngoan-ua-nhin-thu-nhap-cao-moi-nam-4740897.html) - 06:00 02/05/2024
-- ⚗️ [Tôm tươi biến thành &#39;tôm luộc&#39; vì trời nóng](https://vnexpress.net/tom-tuoi-bien-thanh-tom-luoc-vi-troi-nong-4740325.html) - 05:40 02/05/2024
-- 🫣 [Đọc từ &#39;chaos&#39; trong tiếng Anh thế nào](https://vnexpress.net/doc-tu-chaos-trong-tieng-anh-the-nao-4741063.html) - 05:27 02/05/2024
-- 👨‍🏫 [Bé 6 tháng tuổi ngộ độc do uống nhầm liều vitamin D của người lớn](https://vnexpress.net/be-6-thang-tuoi-ngo-doc-do-uong-nham-lieu-vitamin-d-cua-nguoi-lon-4741062.html) - 05:25 02/05/2024
-- 🐻 [Đề xuất cấm đấu giá biển số với người trúng mà không trả tiền](https://vnexpress.net/de-xuat-cam-dau-gia-bien-so-voi-nguoi-trung-ma-khong-tra-tien-4741037.html) - 05:20 02/05/2024
-- 😺 [Hongqi Guoya - sedan hạng sang Trung Quốc bán ra toàn cầu](https://vnexpress.net/hongqi-guoya-sedan-hang-sang-trung-quoc-ban-ra-toan-cau-4740796.html) - 05:18 02/05/2024
-- 🤔 [110 kỷ lục nhiệt độ trong tháng 4](https://vnexpress.net/110-ky-luc-nhiet-do-trong-thang-4-4741022.html) - 05:09 02/05/2024
-- 🌮 [Số người Đồng Nai nghi ngộ độc sau ăn bánh mì lên hơn 200](https://vnexpress.net/so-nguoi-dong-nai-nghi-ngo-doc-sau-an-banh-mi-len-hon-200-4741074.html) - 05:07 02/05/2024
-- 🦩 [Thách thức với ông Biden từ phong trào biểu tình phản chiến](https://vnexpress.net/thach-thuc-voi-ong-biden-tu-phong-trao-bieu-tinh-phan-chien-4740899.html) - 05:05 02/05/2024
-- 📝 [Những người trẻ mất kết nối](https://vnexpress.net/nhung-nguoi-tre-mat-ket-noi-4741024.html) - 05:02 02/05/2024
-- 🕴 [Các thành phố Mỹ có nguy cơ bị mối xâm chiếm](https://vnexpress.net/cac-thanh-pho-my-co-nguy-co-bi-moi-xam-chiem-4740859.html) - 05:00 02/05/2024
-- 🐲 [Làm gì khi mọc mụn nội tiết tố?](https://vnexpress.net/lam-gi-khi-moc-mun-noi-tiet-to-4741041.html) - 05:00 02/05/2024
-- 🌜 [Phân biệt triệu chứng ho gà và cảm lạnh](https://vnexpress.net/phan-biet-trieu-chung-ho-ga-va-cam-lanh-4741011.html) - 05:00 02/05/2024
-- 💄 [Thay hai khớp gối trong một tháng do thoái hóa nặng](https://vnexpress.net/thay-hai-khop-goi-trong-mot-thang-do-thoai-hoa-nang-4741007.html) - 05:00 02/05/2024
-- 🌁 [Thói quen nào giúp phái đẹp sống khỏe khi mãn kinh?](https://vnexpress.net/thoi-quen-nao-giup-phai-dep-song-khoe-khi-man-kinh-4741002.html) - 05:00 02/05/2024
-- 🎬 [Masan Consumer muốn xây dựng 6 thương hiệu tỷ USD](https://vnexpress.net/masan-consumer-muon-xay-dung-6-thuong-hieu-ty-usd-4740481.html) - 05:00 02/05/2024
-- 👨‍🏫 [Vietcombank tổ chức đại hội đồng cổ đông lần thứ 17](https://vnexpress.net/vietcombank-to-chuc-dai-hoi-dong-co-dong-lan-thu-17-4740032.html) - 05:00 02/05/2024
-- ⚗️ [Cách tuyển dụng và đào tạo đội ngũ nhân sự tại Delta Group](https://vnexpress.net/cach-tuyen-dung-va-dao-tao-doi-ngu-nhan-su-tai-delta-group-4738205.html) - 05:00 02/05/2024
-- 😺 [Chính trị gia thân Trung Quốc đắc cử Thủ tướng Solomon](https://vnexpress.net/chinh-tri-gia-than-trung-quoc-dac-cu-thu-tuong-solomon-4741056.html) - 04:53 02/05/2024
-- 🔥 [Chiến lược phát triển bền vững của Sacombank](https://vnexpress.net/chien-luoc-phat-trien-ben-vung-cua-sacombank-4739734.html) - 04:45 02/05/2024
-- 🧰 [Giá yen tăng vọt](https://vnexpress.net/gia-yen-tang-vot-4741040.html) - 04:38 02/05/2024
-- 🦒 [Grey D - từ mờ nhạt đến ca sĩ gen Z triệu view](https://vnexpress.net/grey-d-tu-mo-nhat-den-ca-si-gen-z-trieu-view-4740522.html) - 04:31 02/05/2024
-- ⛽️ [Dàn chiến lợi phẩm triệu USD được Nga trưng bày ở Moskva](https://vnexpress.net/dan-chien-loi-pham-trieu-usd-duoc-nga-trung-bay-o-moskva-4741020.html) - 04:25 02/05/2024
-- 🚀 [Tình yêu marathon của người Huế](https://vnexpress.net/tinh-yeu-marathon-cua-nguoi-hue-4738131.html) - 04:21 02/05/2024
-- 🪜 [Sử dụng điều hòa như thế nào để không tốn nhiều điện?](https://vnexpress.net/su-dung-dieu-hoa-nhu-the-nao-de-khong-ton-nhieu-dien-4741060.html) - 04:18 02/05/2024
-- 🚦 [Roger Federer vĩ đại thế nào](https://vnexpress.net/roger-federer-vi-dai-the-nao-4740990.html) - 04:17 02/05/2024
-- 🕯 [Mercedes G580 - SUV thuần điện sắp bán ở Việt Nam](https://vnexpress.net/mercedes-g580-suv-thuan-dien-sap-ban-o-viet-nam-4740942.html) - 04:07 02/05/2024
-- 💪 [Yêu quái nào bị Tôn Ngộ Không tiêu diệt đầu tiên?](https://vnexpress.net/yeu-quai-nao-bi-ton-ngo-khong-tieu-diet-dau-tien-4739318.html) - 04:05 02/05/2024
-- 🧑‍🏫 [&#39;Không chịu nổi cái nóng ở TP HCM&#39;](https://vnexpress.net/khong-chiu-noi-cai-nong-o-tp-hcm-4740972.html) - 04:00 02/05/2024
-- 🎓 [Anh xác định sẽ bao bọc, yêu thương em suốt đời](https://vnexpress.net/anh-xac-dinh-se-bao-boc-yeu-thuong-em-suot-doi-4740958.html) - 04:00 02/05/2024
-- 💫 [Em đến với tôi vì yêu hay tình dục?](https://vnexpress.net/em-den-voi-toi-vi-yeu-hay-tinh-duc-4740865.html) - 04:00 02/05/2024
-- 🤩 [6 cách thanh lọc cơ thể](https://vnexpress.net/6-cach-thanh-loc-co-the-4740951.html) - 04:00 02/05/2024
-- 🏊 [U xơ tử cung gây biến chứng băng kinh](https://vnexpress.net/u-xo-tu-cung-gay-bien-chung-bang-kinh-4740935.html) - 04:00 02/05/2024
-- 💂 [Đài thiên văn cao nhất thế giới mở cửa](https://vnexpress.net/dai-thien-van-cao-nhat-the-gioi-mo-cua-4740900.html) - 03:58 02/05/2024<!-- vnexpress:END -->
+- 🚀 [Tuyển Việt Nam bổ nhiệm tân HLV trong tháng 5](https://vnexpress.net/tuyen-viet-nam-bo-nhiem-tan-hlv-trong-thang-5-4741109.html) - 07:10 02/05/2024
+- 🧰 [Bẫy tâm lý khi lệ thuộc Google](https://vnexpress.net/bay-tam-ly-khi-le-thuoc-google-4741098.html) - 07:07 02/05/2024
+- 🥰 [Tại sao không thể luộc trứng trên đỉnh Everest?](https://vnexpress.net/tai-sao-khong-the-luoc-trung-tren-dinh-everest-4740862.html) - 07:06 02/05/2024
+- 🌏 [&#39;Trẻ nên bị cấm dùng mạng xã hội trước 18 tuổi&#39;](https://vnexpress.net/tre-nen-bi-cam-dung-mang-xa-hoi-truoc-18-tuoi-4740949.html) - 07:00 02/05/2024
+- 🧐 [Bắt cá bằng lồng bàn trên phố](https://vnexpress.net/bat-ca-bang-long-ban-tren-pho-4739856.html) - 07:00 02/05/2024
+- 💫 [4 loại trái cây dễ làm tăng đường huyết](https://vnexpress.net/4-loai-trai-cay-de-lam-tang-duong-huyet-4741057.html) - 07:00 02/05/2024
+- 😺 [Gần 1.500 đề cử tham gia giải thưởng VinFuture 2024](https://vnexpress.net/gan-1-500-de-cu-tham-gia-giai-thuong-vinfuture-2024-4741047.html) - 07:00 02/05/2024
+- 🕯 [Nguyên nhân sảy thai liên tiếp](https://vnexpress.net/nguyen-nhan-say-thai-lien-tiep-4741039.html) - 07:00 02/05/2024
+- 💃 [Ăn gì ngăn da xỉn màu, sạm nám sau du lịch lễ?](https://vnexpress.net/an-gi-ngan-da-xin-mau-sam-nam-sau-du-lich-le-4741034.html) - 07:00 02/05/2024
+- 💂 [LPBank lên kế hoạch đồng hành cùng bóng đá Việt](https://vnexpress.net/lpbank-len-ke-hoach-dong-hanh-cung-bong-da-viet-4741019.html) - 07:00 02/05/2024
+- 🎊 [Từ bao nhiêu tiền để sở hữu ôtô điện VinFast](https://vnexpress.net/tu-bao-nhieu-tien-de-so-huu-oto-dien-vinfast-4737278.html) - 07:00 02/05/2024
+- 🤠 [Cách Base gỡ khó cho quản trị ngành kiểm toán](https://vnexpress.net/cach-base-go-kho-cho-quan-tri-nganh-kiem-toan-4732576.html) - 07:00 02/05/2024
+- 🌈 [Đại học Sư phạm TP HCM xét tuyển sớm với học bạ loại giỏi](https://vnexpress.net/dai-hoc-su-pham-tp-hcm-xet-tuyen-som-voi-hoc-ba-loai-gioi-4741096.html) - 06:51 02/05/2024
+- 🎬 [Giá vàng nhẫn giảm gần nửa triệu sau nghỉ lễ](https://vnexpress.net/moi-luong-vang-nhan-giam-gan-nua-trieu-dong-4741108.html) - 06:47 02/05/2024
+- 🚀 [Triển lãm tranh thông điệp &#39;tích lũy khoảnh khắc&#39;](https://vnexpress.net/trien-lam-tranh-thong-diep-tich-luy-khoanh-khac-4735814.html) - 06:42 02/05/2024
+- 🪄 [Công viên Eco Central Park hút 25.000 người dịp nghỉ lễ](https://vnexpress.net/cong-vien-eco-central-park-hut-25-000-nguoi-dip-nghi-le-4740962.html) - 06:30 02/05/2024
+- 😎 [&#39;Sáng suốt ở nhà máy lạnh thay vì đi chơi lễ nắng nóng&#39;](https://vnexpress.net/sang-suot-o-nha-may-lanh-thay-vi-di-choi-le-nang-nong-4741059.html) - 06:00 02/05/2024
+- 🎊 [Người đàn ông Tuyên Quang 43 tuổi tìm em để trao nhẫn](https://vnexpress.net/nguoi-dan-ong-tuyen-quang-43-tuoi-tim-em-de-trao-nhan-4740961.html) - 06:00 02/05/2024
+- ⚗️ [Không ai yêu dù ngoan, ưa nhìn, thu nhập cao](https://vnexpress.net/khong-ai-yeu-du-ngoan-ua-nhin-thu-nhap-cao-4740897.html) - 06:00 02/05/2024
+- 🫣 [Tôm tươi biến thành &#39;tôm luộc&#39; vì trời nóng](https://vnexpress.net/tom-tuoi-bien-thanh-tom-luoc-vi-troi-nong-4740325.html) - 05:40 02/05/2024
+- 👨‍🏫 [Đọc từ &#39;chaos&#39; trong tiếng Anh thế nào](https://vnexpress.net/doc-tu-chaos-trong-tieng-anh-the-nao-4741063.html) - 05:27 02/05/2024
+- 🐻 [Bé 6 tháng tuổi ngộ độc do uống nhầm liều vitamin D của người lớn](https://vnexpress.net/be-6-thang-tuoi-ngo-doc-do-uong-nham-lieu-vitamin-d-cua-nguoi-lon-4741062.html) - 05:25 02/05/2024
+- 😺 [Đề xuất cấm đấu giá biển số với người trúng mà không trả tiền](https://vnexpress.net/de-xuat-cam-dau-gia-bien-so-voi-nguoi-trung-ma-khong-tra-tien-4741037.html) - 05:20 02/05/2024
+- 🤔 [Hongqi Guoya - sedan hạng sang Trung Quốc bán ra toàn cầu](https://vnexpress.net/hongqi-guoya-sedan-hang-sang-trung-quoc-ban-ra-toan-cau-4740796.html) - 05:18 02/05/2024
+- 🌮 [110 kỷ lục nhiệt độ trong tháng 4](https://vnexpress.net/110-ky-luc-nhiet-do-trong-thang-4-4741022.html) - 05:09 02/05/2024
+- 🦩 [Số người Đồng Nai nghi ngộ độc sau ăn bánh mì lên hơn 200](https://vnexpress.net/so-nguoi-dong-nai-nghi-ngo-doc-sau-an-banh-mi-len-hon-200-4741074.html) - 05:07 02/05/2024
+- 📝 [Thách thức với ông Biden từ phong trào biểu tình phản chiến](https://vnexpress.net/thach-thuc-voi-ong-biden-tu-phong-trao-bieu-tinh-phan-chien-4740899.html) - 05:05 02/05/2024
+- 🕴 [Những người trẻ mất kết nối](https://vnexpress.net/nhung-nguoi-tre-mat-ket-noi-4741024.html) - 05:02 02/05/2024
+- 🐲 [Các thành phố Mỹ có nguy cơ bị mối xâm chiếm](https://vnexpress.net/cac-thanh-pho-my-co-nguy-co-bi-moi-xam-chiem-4740859.html) - 05:00 02/05/2024
+- 🌜 [Làm gì khi mọc mụn nội tiết tố?](https://vnexpress.net/lam-gi-khi-moc-mun-noi-tiet-to-4741041.html) - 05:00 02/05/2024
+- 💄 [Phân biệt triệu chứng ho gà và cảm lạnh](https://vnexpress.net/phan-biet-trieu-chung-ho-ga-va-cam-lanh-4741011.html) - 05:00 02/05/2024
+- 🌁 [Thay hai khớp gối trong một tháng do thoái hóa nặng](https://vnexpress.net/thay-hai-khop-goi-trong-mot-thang-do-thoai-hoa-nang-4741007.html) - 05:00 02/05/2024
+- 🎬 [Thói quen nào giúp phái đẹp sống khỏe khi mãn kinh?](https://vnexpress.net/thoi-quen-nao-giup-phai-dep-song-khoe-khi-man-kinh-4741002.html) - 05:00 02/05/2024
+- 👨‍🏫 [Masan Consumer muốn xây dựng 6 thương hiệu tỷ USD](https://vnexpress.net/masan-consumer-muon-xay-dung-6-thuong-hieu-ty-usd-4740481.html) - 05:00 02/05/2024
+- ⚗️ [Vietcombank tổ chức đại hội đồng cổ đông lần thứ 17](https://vnexpress.net/vietcombank-to-chuc-dai-hoi-dong-co-dong-lan-thu-17-4740032.html) - 05:00 02/05/2024
+- 😺 [Cách tuyển dụng và đào tạo đội ngũ nhân sự tại Delta Group](https://vnexpress.net/cach-tuyen-dung-va-dao-tao-doi-ngu-nhan-su-tai-delta-group-4738205.html) - 05:00 02/05/2024
+- 🔥 [Chính trị gia thân Trung Quốc đắc cử Thủ tướng Solomon](https://vnexpress.net/chinh-tri-gia-than-trung-quoc-dac-cu-thu-tuong-solomon-4741056.html) - 04:53 02/05/2024
+- 🧰 [Chiến lược phát triển bền vững của Sacombank](https://vnexpress.net/chien-luoc-phat-trien-ben-vung-cua-sacombank-4739734.html) - 04:45 02/05/2024
+- 🦒 [Giá yen tăng vọt](https://vnexpress.net/gia-yen-tang-vot-4741040.html) - 04:38 02/05/2024
+- ⛽️ [Grey D - từ mờ nhạt đến ca sĩ gen Z triệu view](https://vnexpress.net/grey-d-tu-mo-nhat-den-ca-si-gen-z-trieu-view-4740522.html) - 04:31 02/05/2024
+- 🚀 [Dàn chiến lợi phẩm triệu USD được Nga trưng bày ở Moskva](https://vnexpress.net/dan-chien-loi-pham-trieu-usd-duoc-nga-trung-bay-o-moskva-4741020.html) - 04:25 02/05/2024
+- 🪜 [Tình yêu marathon của người Huế](https://vnexpress.net/tinh-yeu-marathon-cua-nguoi-hue-4738131.html) - 04:21 02/05/2024
+- 🚦 [Sử dụng điều hòa như thế nào để không tốn nhiều điện?](https://vnexpress.net/su-dung-dieu-hoa-nhu-the-nao-de-khong-ton-nhieu-dien-4741060.html) - 04:18 02/05/2024
+- 🕯 [Roger Federer vĩ đại thế nào](https://vnexpress.net/roger-federer-vi-dai-the-nao-4740990.html) - 04:17 02/05/2024
+- 💪 [Mercedes G580 - SUV thuần điện sắp bán ở Việt Nam](https://vnexpress.net/mercedes-g580-suv-thuan-dien-sap-ban-o-viet-nam-4740942.html) - 04:07 02/05/2024
+- 🧑‍🏫 [Yêu quái nào bị Tôn Ngộ Không tiêu diệt đầu tiên?](https://vnexpress.net/yeu-quai-nao-bi-ton-ngo-khong-tieu-diet-dau-tien-4739318.html) - 04:05 02/05/2024
+- 🎓 [&#39;Không chịu nổi cái nóng ở TP HCM&#39;](https://vnexpress.net/khong-chiu-noi-cai-nong-o-tp-hcm-4740972.html) - 04:00 02/05/2024
+- 💫 [Anh xác định sẽ bao bọc, yêu thương em suốt đời](https://vnexpress.net/anh-xac-dinh-se-bao-boc-yeu-thuong-em-suot-doi-4740958.html) - 04:00 02/05/2024
+- 🤩 [Em đến với tôi vì yêu hay tình dục?](https://vnexpress.net/em-den-voi-toi-vi-yeu-hay-tinh-duc-4740865.html) - 04:00 02/05/2024
+- 🏊 [6 cách thanh lọc cơ thể](https://vnexpress.net/6-cach-thanh-loc-co-the-4740951.html) - 04:00 02/05/2024
+- 💂 [U xơ tử cung gây biến chứng băng kinh](https://vnexpress.net/u-xo-tu-cung-gay-bien-chung-bang-kinh-4740935.html) - 04:00 02/05/2024
+- 🚀 [Đài thiên văn cao nhất thế giới mở cửa](https://vnexpress.net/dai-thien-van-cao-nhat-the-gioi-mo-cua-4740900.html) - 03:58 02/05/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
