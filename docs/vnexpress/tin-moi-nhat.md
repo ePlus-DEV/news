@@ -24,7 +24,7 @@ sidebar_position: 9
 - 🤓 [Kẻ mới ra tù hãm hại cụ bà 75 tuổi](https://vnexpress.net/ke-moi-ra-tu-ham-hai-cu-ba-75-tuoi-4741330.html) - 15:39 02/05/2024
 - 💪 [Cựu HLV tạm quyền của Man Utd từ chối Bayern](https://vnexpress.net/cuu-hlv-tam-quyen-cua-man-utd-tu-choi-bayern-4741308.html) - 15:20 02/05/2024
 - 🎓 [Cảnh sát Mỹ bắn hạ học sinh mang vũ khí đến trường](https://vnexpress.net/canh-sat-my-ban-ha-hoc-sinh-mang-vu-khi-den-truong-4741313.html) - 15:14 02/05/2024
-- 🫣 [Indonesia hụt thêm suất bóng đá nam Olympic](https://vnexpress.net/indonesia-vs-iraq-4741328.html) - 15:00 02/05/2024
+- 🫣 [Indonesia hụt thêm suất bóng đá nam Olympic](https://vnexpress.net/indonesia-vs-iraq-4741328-tong-thuat.html) - 15:00 02/05/2024
 - 🧑‍💻 [15 học sinh TP HCM cấp cứu nghi do ngộ độc thực phẩm](https://vnexpress.net/15-hoc-sinh-tp-hcm-cap-cuu-nghi-do-ngo-doc-thuc-pham-4741319.html) - 14:43 02/05/2024
 - 🐲 [Trường Quốc tế TP HCM thu hồi sách có nội dung &#39;nhạy cảm&#39;](https://vnexpress.net/truong-quoc-te-tp-hcm-thu-hoi-sach-co-noi-dung-nhay-cam-4741325.html) - 14:41 02/05/2024
 - 🌝 [Nga bác cáo buộc sử dụng vũ khí hóa học ở Ukraine](https://vnexpress.net/nga-bac-cao-buoc-su-dung-vu-khi-hoa-hoc-o-ukraine-4741322.html) - 14:31 02/05/2024
