@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Gia đình bốn đời làm nghề khóc thuê](https://vnexpress.net/gia-dinh-bon-doi-lam-nghe-khoc-thue-4739844.html) - 23:29 01/05/2024
+- 🚀 [Gia đình bốn đời làm nghề ca khóc](https://vnexpress.net/gia-dinh-bon-doi-lam-nghe-ca-khoc-4739844.html) - 23:29 01/05/2024
 - 🎓 [Giải mã &#39;Hội chứng con gái đầu lòng&#39;](https://vnexpress.net/giai-ma-hoi-chung-con-gai-dau-long-4740749.html) - 23:00 01/05/2024
 - 🚦 [Cách để thoát khỏi nỗi ám ảnh công việc](https://vnexpress.net/cach-de-thoat-khoi-noi-am-anh-cong-viec-4740097.html) - 12:30 01/05/2024
 - 🦣 [Mâm cơm hè Hà Nội nấu theo lối cũ](https://vnexpress.net/mam-com-he-ha-noi-nau-theo-loi-cu-4740509.html) - 10:29 01/05/2024
