@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Ông Trần Thanh Mẫn điều hành Quốc hội](https://vnexpress.net/ong-tran-thanh-man-dieu-hanh-quoc-hoi-4741272.html) - 10:48 02/05/2024
 - ⚗️ [Bí thư Bắc Giang bị bãi nhiệm đại biểu Quốc hội](https://vnexpress.net/bi-thu-bac-giang-bi-bai-nhiem-dai-bieu-quoc-hoi-4741078.html) - 10:31 02/05/2024
 - 🌊 [Ông Vương Đình Huệ rời ghế Chủ tịch Quốc hội](https://vnexpress.net/ong-vuong-dinh-hue-roi-ghe-chu-tich-quoc-hoi-4740779.html) - 10:31 02/05/2024
-- 🎓 [Đường ven biển dang dở](https://vnexpress.net/duong-ven-bien-dang-do-4741101.html) - 09:46 02/05/2024
+- 🎓 [Đường ven biển hơn 3.700 tỷ đồng dang dở](https://vnexpress.net/duong-ven-bien-hon-3-700-ty-dong-dang-do-4741101.html) - 09:46 02/05/2024
 - 🔥 [110 kỷ lục nhiệt độ trong tháng 4](https://vnexpress.net/110-ky-luc-nhiet-do-trong-thang-4-4741022.html) - 05:09 02/05/2024
 - 🦏 [TP HCM thu hồi dự án nhà thi đấu Phan Đình Phùng](https://vnexpress.net/tp-hcm-thu-hoi-du-an-nha-thi-dau-phan-dinh-phung-4740981.html) - 02:57 02/05/2024
 - 👺 [TP HCM có mưa](https://vnexpress.net/tp-hcm-co-mua-4740928.html) - 02:21 02/05/2024
