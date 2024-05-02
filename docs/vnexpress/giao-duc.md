@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Từ học phụ đạo đến học bổng toàn phần tiến sĩ Mỹ](https://vnexpress.net/tu-hoc-phu-dao-den-hoc-bong-toan-phan-tien-si-my-4740236.html) - 23:00 01/05/2024
+- 🤓 [Từ lớp phụ đạo Hóa đến học bổng toàn phần tiến sĩ Mỹ](https://vnexpress.net/tu-lop-phu-dao-hoa-den-hoc-bong-toan-phan-tien-si-my-4740236.html) - 23:00 01/05/2024
 - 🦆 [Thí sinh đăng ký thi tốt nghiệp THPT từ hôm nay](https://vnexpress.net/thi-sinh-dang-ky-thi-tot-nghiep-thpt-tu-hom-nay-4740744.html) - 17:00 01/05/2024
 - 🦩 [Học kém môn Toán có nên theo ngành Quản trị nhân lực?](https://vnexpress.net/hoc-kem-mon-toan-co-nen-theo-nganh-quan-tri-nhan-luc-4736404.html) - 16:59 01/05/2024
 - 🌮 [Đại học Việt Nam tụt sâu trên bảng xếp hạng châu Á](https://vnexpress.net/dai-hoc-viet-nam-tut-sau-tren-bang-xep-hang-chau-a-4740752.html) - 12:34 01/05/2024
