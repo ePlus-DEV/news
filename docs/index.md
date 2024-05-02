@@ -219,7 +219,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦏 [Làm rõ vụ người bán nước dùng dao đe dọa lực lượng trật tự đô thị ở Bình Định](https://laodong.vn/xa-hoi/lam-ro-vu-nguoi-ban-nuoc-dung-dao-de-doa-luc-luong-trat-tu-do-thi-o-binh-dinh-1335077.ldo) - 15:29 02/05/2024
 - 🧰 [Tranh thủ chạy xe ôm để kiếm thêm 2-3 triệu đồng/tháng lo cho gia đình](https://laodong.vn/ban-doc/tranh-thu-chay-xe-om-de-kiem-them-2-3-trieu-dongthang-lo-cho-gia-dinh-1335074.ldo) - 15:17 02/05/2024
 - 🌊 [Binh chủng Tăng Thiết giáp mít tinh hưởng ứng Tháng hành động về An toàn, vệ sinh lao động và Tháng Công nhân](https://laodong.vn/cong-doan/binh-chung-tang-thiet-giap-mit-tinh-huong-ung-thang-hanh-dong-ve-an-toan-ve-sinh-lao-dong-va-thang-cong-nhan-1335053.ldo) - 15:16 02/05/2024
-- 🔥 [Trực tiếp U23 Iraq 1-1 U23 Indonesia: Hiệp 2](https://laodong.vn/bong-da/truc-tiep-u23-iraq-1-1-u23-indonesia-hiep-2-1335068.ldo) - 15:15 02/05/2024
+- 🔥 [Trực tiếp U23 Iraq 1-1 U23 Indonesia: Hiệp phụ](https://laodong.vn/bong-da/truc-tiep-u23-iraq-1-1-u23-indonesia-hiep-phu-1335068.ldo) - 15:15 02/05/2024
 - 🦒 [Bắt nghi phạm hiếp dâm cụ bà 75 tuổi](https://laodong.vn/phap-luat/bat-nghi-pham-hiep-dam-cu-ba-75-tuoi-1335082.ldo) - 14:58 02/05/2024
 - 💼 [Man United có nên bán Marcus Rashford?](https://laodong.vn/bong-da-quoc-te/man-united-co-nen-ban-marcus-rashford-1335067.ldo) - 14:39 02/05/2024
 - 🤖 [Cụ ông 71 tuổi đi bộ trên cao tốc Nội Bài - Lào Cai bị ôtô tông tử vong](https://laodong.vn/xa-hoi/cu-ong-71-tuoi-di-bo-tren-cao-toc-noi-bai-lao-cai-bi-oto-tong-tu-vong-1335079.ldo) - 14:38 02/05/2024
