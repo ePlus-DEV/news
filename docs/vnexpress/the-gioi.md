@@ -4,9 +4,9 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Phương Tây bất đồng về xử lý hơn 300 tỷ USD đóng băng của Nga](https://vnexpress.net/phuong-tay-bat-dong-ve-xu-ly-hon-300-ty-usd-dong-bang-cua-nga-4740877.html) - 22:00 02/05/2024
-- 🕴 [Lý do phe Dân chủ sẵn sàng &#39;giải cứu&#39; Chủ tịch Hạ viện Mỹ](https://vnexpress.net/ly-do-phe-dan-chu-san-sang-giai-cuu-chu-tich-ha-vien-my-4740912.html) - 17:00 02/05/2024
-- 🤭 [Thổ Nhĩ Kỳ có thể dừng giao thương với Israel](https://vnexpress.net/tho-nhi-ky-co-the-dung-giao-thuong-voi-israel-4741339.html) - 16:13 02/05/2024
+- 🎭 [Thổ Nhĩ Kỳ dừng giao thương với Israel](https://vnexpress.net/tho-nhi-ky-dung-giao-thuong-voi-israel-4741339.html) - 23:16 02/05/2024
+- 🕴 [Phương Tây bất đồng về xử lý hơn 300 tỷ USD đóng băng của Nga](https://vnexpress.net/phuong-tay-bat-dong-ve-xu-ly-hon-300-ty-usd-dong-bang-cua-nga-4740877.html) - 22:00 02/05/2024
+- 🤭 [Lý do phe Dân chủ sẵn sàng &#39;giải cứu&#39; Chủ tịch Hạ viện Mỹ](https://vnexpress.net/ly-do-phe-dan-chu-san-sang-giai-cuu-chu-tich-ha-vien-my-4740912.html) - 17:00 02/05/2024
 - 🧑‍💻 [Cảnh sát Mỹ bắn hạ học sinh mang vũ khí đến trường](https://vnexpress.net/canh-sat-my-ban-ha-hoc-sinh-mang-vu-khi-den-truong-4741313.html) - 15:14 02/05/2024
 - 🦏 [Nga bác cáo buộc sử dụng vũ khí hóa học ở Ukraine](https://vnexpress.net/nga-bac-cao-buoc-su-dung-vu-khi-hoa-hoc-o-ukraine-4741322.html) - 14:31 02/05/2024
 - 🦒 [Ukraine nói Nga sản xuất tên lửa Zircon &#39;nhanh bất thường&#39;](https://vnexpress.net/ukraine-noi-nga-san-xuat-ten-lua-zircon-nhanh-bat-thuong-4741216.html) - 14:00 02/05/2024
