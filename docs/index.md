@@ -394,7 +394,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Thủ tướng chỉ thị triển khai điều hành chính sách tiền tệ năm 2024, thúc đẩy tăng trưởng, ổn định kinh tế vĩ mô](https://baochinhphu.vn/thu-tuong-chi-thi-trien-khai-dieu-hanh-chinh-sach-tien-te-nam-2024-thuc-day-tang-truong-on-dinh-kinh-te-vi-mo-102240502230832943.htm) - 22:58 02/05/2024
+- 💻 [Thủ tướng chỉ thị triển khai điều hành chính sách tiền tệ năm 2024, tháo gỡ khó khăn cho sản xuất, kinh doanh, thúc đẩy tăng trưởng](https://baochinhphu.vn/thu-tuong-chi-thi-trien-khai-dieu-hanh-chinh-sach-tien-te-nam-2024-thuc-day-tang-truong-on-dinh-kinh-te-vi-mo-102240502230832943.htm) - 22:58 02/05/2024
 - 🌜 [Tăng cường công tác quản lý tín chỉ các-bon nhằm thực hiện Đóng góp do quốc gia tự quyết định](https://baochinhphu.vn/tang-cuong-cong-tac-quan-ly-tin-chi-cac-bon-nham-thuc-hien-dong-gop-do-quoc-gia-tu-quyet-dinh-102240502223251925.htm) - 22:18 02/05/2024
 - 🦆 [Kiện toàn Ban Chỉ đạo Nhà nước các dự án quan trọng quốc gia, trọng điểm ngành Giao thông vận tải](https://baochinhphu.vn/kien-toan-ban-chi-dao-nha-nuoc-cac-du-an-quan-trong-quoc-gia-trong-diem-nganh-giao-thong-van-tai-102240502203621704.htm) - 21:51 02/05/2024
 - 🌝 [Khẩn trương điều tra vụ nghi ngộ độc thực phẩm khiến 300 người nhập viện](https://baochinhphu.vn/khan-truong-dieu-tra-vu-nghi-ngo-doc-thuc-pham-khien-300-nguoi-nhap-vien-102240502210446542.htm) - 21:05 02/05/2024
