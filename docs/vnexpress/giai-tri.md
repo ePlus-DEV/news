@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Lisa hẹn hò con trai người giàu nhất thế giới](https://vnexpress.net/lisa-hen-ho-con-trai-nguoi-giau-nhat-the-gioi-4740952.html) - 03:14 02/05/2024
+- 🌏 [Lisa ngầm xác nhận hẹn hò con trai người giàu nhất thế giới](https://vnexpress.net/lisa-ngam-xac-nhan-hen-ho-con-trai-nguoi-giau-nhat-the-gioi-4740952.html) - 03:14 02/05/2024
 - 💫 [Nhạc sĩ Vũ Xuân Hùng qua đời](https://vnexpress.net/nhac-si-vu-xuan-hung-qua-doi-4740931.html) - 02:00 02/05/2024
 - 🌮 [Trương Minh Cường: &#39;Tôi trắng tay sau khi sang Mỹ lập nghiệp&#39;](https://vnexpress.net/truong-minh-cuong-toi-trang-tay-sau-khi-sang-my-lap-nghiep-4739592.html) - 17:00 01/05/2024
 - 🧠 [Loạt phim Hollywood ra rạp Việt tháng 5](https://vnexpress.net/loat-phim-hollywood-ra-rap-viet-thang-5-4740715.html) - 13:00 01/05/2024
