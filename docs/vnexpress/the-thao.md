@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Tình yêu marathon của người Huế](https://vnexpress.net/tinh-yeu-marathon-cua-nguoi-hue-4738131.html) - 04:21 02/05/2024
 - 🦩 [Roger Federer vĩ đại thế nào](https://vnexpress.net/roger-federer-vi-dai-the-nao-4740990.html) - 04:17 02/05/2024
-- 🧰 [HLV Dortmund không bất ngờ với phong độ cao của Sancho](https://vnexpress.net/hlv-dortmund-khong-bat-ngo-voi-phong-do-cao-cua-sancho-4741015.html) - 03:12 02/05/2024
+- 🧰 [HLV Dortmund không ngạc nhiên khi Sancho chói sáng](https://vnexpress.net/hlv-dortmund-khong-ngac-nhien-khi-sancho-choi-sang-4741015.html) - 03:12 02/05/2024
 - 🤗 [Enrique: &#39;PSG không còn gì để mất&#39;](https://vnexpress.net/enrique-psg-khong-con-gi-de-mat-4740932.html) - 02:40 02/05/2024
 - 🥳 [Bốn đội bóng phía Bắc tranh Cup Quốc gia 2024](https://vnexpress.net/bon-doi-bong-phia-bac-tranh-cup-quoc-gia-2024-4740955.html) - 02:29 02/05/2024
 - 🦣 [Bundesliga giành năm vé dự Champions League mùa tới](https://vnexpress.net/bundesliga-gianh-nam-ve-du-champions-league-mua-toi-4740860.html) - 01:48 02/05/2024
