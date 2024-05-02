@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Cựu HLV tạm quyền của Man Utd từ chối Bayern](https://vnexpress.net/cuu-hlv-tam-quyen-cua-man-utd-tu-choi-bayern-4741308.html) - 15:20 02/05/2024
-- 🦩 [Indonesia 1-1 Iraq &lpar;H2&rpar;: Không thể giữ lợi thế](https://vnexpress.net/indonesia-vs-iraq-4741328.html) - 15:00 02/05/2024
+- 🦩 [Indonesia 1-1 Iraq &lpar;H2&rpar;: Đội Đông Nam Á hãm thành](https://vnexpress.net/indonesia-vs-iraq-4741328.html) - 15:00 02/05/2024
 - 🧰 [Việt Nam lần đầu tổ chức giải Teqball quốc tế](https://vnexpress.net/viet-nam-lan-dau-to-chuc-giai-teqball-quoc-te-4740922.html) - 13:15 02/05/2024
 - 🤗 [McIlroy trổ tài hát rock](https://vnexpress.net/mcilroy-tro-tai-hat-rock-4741260.html) - 09:57 02/05/2024
 - 🥳 [Bellingham được khen có ảnh hưởng hơn Zidane, Ronaldo Nazario](https://vnexpress.net/bellingham-duoc-khen-co-anh-huong-hon-zidane-ronaldo-nazario-4741195.html) - 08:18 02/05/2024
