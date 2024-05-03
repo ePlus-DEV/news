@@ -16,7 +16,7 @@ sidebar_position: 1
 - 🚦 [Đưa vào sử dụng 31 cầu Hy vọng ở miền Tây](https://vnexpress.net/dua-vao-su-dung-31-cau-hy-vong-o-mien-tay-4741572.html) - 07:11 03/05/2024
 - 🎉 [Chìm thuyền câu mực, hai ngư dân mất tích](https://vnexpress.net/chim-thuyen-cau-muc-hai-ngu-dan-mat-tich-4741551.html) - 07:02 03/05/2024
 - 🦒 [Nghệ thuật bố trí trận địa trong chiến dịch Điện Biên Phủ](https://vnexpress.net/nghe-thuat-bo-tri-tran-dia-trong-chien-dich-dien-bien-phu-4737778.html) - 21:00 02/05/2024
-- 🤗 [Lo ngại thiếu nước, Hà Nội tăng khai thác nước ngầm](https://vnexpress.net/lo-ngai-thieu-nuoc-ha-noi-tang-khai-thac-nuoc-ngam-4741332.html) - 17:24 02/05/2024
+- 🤗 [Lo ngại thiếu nước sinh hoạt, Hà Nội tăng khai thác nước ngầm](https://vnexpress.net/lo-ngai-thieu-nuoc-sinh-hoat-ha-noi-tang-khai-thac-nuoc-ngam-4741332.html) - 17:24 02/05/2024
 - 💼 [Mức phí dự kiến ở cao tốc Cam Lâm tới Vĩnh Hảo 130.000-497.000 đồng](https://vnexpress.net/muc-phi-du-kien-o-cao-toc-cam-lam-toi-vinh-hao-130-000-497-000-dong-4741331.html) - 17:00 02/05/2024
 - 🤩 [Thương lái thu mua xác ve sầu tiền triệu một kg](https://vnexpress.net/thuong-lai-thu-mua-xac-ve-sau-tien-trieu-mot-kg-4738501.html) - 17:00 02/05/2024
 - 🤡 [200 tấn cá chết ở hồ thuỷ lợi tại Đồng Nai đã được dọn](https://vnexpress.net/200-tan-ca-chet-o-ho-thuy-loi-tai-dong-nai-da-duoc-don-4741312.html) - 13:00 02/05/2024
