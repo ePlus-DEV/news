@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Nhật Bản 1-0 Uzbekistan &lpar;H2&rpar;: Siêu dự bị lên tiếng](https://vnexpress.net/nhat-ban-vs-uzbekistan-4741776.html) - 15:09 03/05/2024
+- 🪜 [Nhật Bản vô địch U23 châu Á](https://vnexpress.net/nhat-ban-vs-uzbekistan-4741776-tong-thuat.html) - 15:09 03/05/2024
 - 🦩 [Foden giành giải Cầu thủ hay nhất Ngoại hạng Anh](https://vnexpress.net/foden-gianh-giai-cau-thu-hay-nhat-ngoai-hang-anh-4741743.html) - 12:38 03/05/2024
 - 🧰 [Souness: &#39;Chưa từng thấy cầu thủ nào ích kỷ như Salah&#39;](https://vnexpress.net/souness-chua-tung-thay-cau-thu-nao-ich-ky-nhu-salah-4741585.html) - 11:00 03/05/2024
 - 🤗 [Pochettino thừa nhận nguy cơ bị Chelsea sa thải](https://vnexpress.net/pochettino-thua-nhan-nguy-co-bi-chelsea-sa-thai-4741683.html) - 10:00 03/05/2024
