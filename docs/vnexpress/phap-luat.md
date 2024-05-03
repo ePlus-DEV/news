@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Dừng ôtô bên đường, người phụ nữ bị cướp khống chế](https://vnexpress.net/dung-oto-ben-duong-nguoi-phu-nu-bi-cuop-khong-che-4741342.html) - 00:48 03/05/2024
+- 😎 [Tấn công người phụ nữ dừng ôtô bên đường](https://vnexpress.net/tan-cong-nguoi-phu-nu-dung-oto-ben-duong-4741342.html) - 00:48 03/05/2024
 - 🥰 [Nha sĩ bị kiện vì chọc vào não bệnh nhân khi cấy răng implant](https://vnexpress.net/nha-si-bi-kien-vi-choc-vao-nao-benh-nhan-khi-cay-rang-implant-4741292.html) - 23:00 02/05/2024
 - 🎓 [Bị &#39;moi tiền&#39; ở phòng khám tư, báo công an được không?](https://vnexpress.net/bi-moi-tien-o-phong-kham-tu-bao-cong-an-duoc-khong-4741271.html) - 22:00 02/05/2024
 - 🤓 [&#39;Quan tham&#39; háo sắc chiếm vợ của 11 cấp dưới](https://vnexpress.net/quan-tham-hao-sac-chiem-vo-cua-11-cap-duoi-4741278.html) - 17:00 02/05/2024
