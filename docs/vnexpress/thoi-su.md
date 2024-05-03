@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [In mã QR trên giấy chứng nhận quyền sử dụng đất](https://vnexpress.net/in-ma-qr-tren-giay-chung-nhan-quyen-su-dung-dat-4741781.html) - 15:57 03/05/2024
+- 🦒 [Đề xuất in mã QR trên giấy chứng nhận quyền sử dụng đất](https://vnexpress.net/de-xuat-in-ma-qr-tren-giay-chung-nhan-quyen-su-dung-dat-4741781.html) - 15:57 03/05/2024
 - 🤓 [Chủ tịch TP HCM: &#39;Gói thầu của Thuận An phải được báo cáo tiến độ hàng ngày&#39;](https://vnexpress.net/chu-tich-tp-hcm-goi-thau-cua-thuan-an-phai-duoc-bao-cao-tien-do-hang-ngay-4741747.html) - 12:06 03/05/2024
 - ⚗️ [Đề xuất chi hơn 122.000 tỷ đồng phát triển văn hóa](https://vnexpress.net/de-xuat-chi-hon-122-000-ty-dong-phat-trien-van-hoa-4741569.html) - 09:47 03/05/2024
 - 🌊 [TP HCM và Đồng Nai mưa lớn](https://vnexpress.net/tp-hcm-va-dong-nai-mua-lon-4741694.html) - 09:28 03/05/2024
