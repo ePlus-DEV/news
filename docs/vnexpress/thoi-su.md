@@ -5,9 +5,9 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Đề xuất chi hơn 122.000 tỷ đồng phát triển văn hóa](https://vnexpress.net/de-xuat-chi-hon-122-000-ty-dong-phat-trien-van-hoa-4741569.html) - 09:47 03/05/2024
-- 🤓 [TP HCM và Đồng Nai có mưa lớn](https://vnexpress.net/tp-hcm-va-dong-nai-co-mua-lon-4741694.html) - 09:28 03/05/2024
+- 🤓 [TP HCM và Đồng Nai mưa lớn](https://vnexpress.net/tp-hcm-va-dong-nai-mua-lon-4741694.html) - 09:28 03/05/2024
 - ⚗️ [Người dân đổ ra biển nhặt sò huyết dạt bờ](https://vnexpress.net/nguoi-dan-do-ra-bien-nhat-so-huyet-dat-bo-4741664.html) - 09:19 03/05/2024
-- 🌊 [Chỉ thực hiện dịch vụ công trực tuyến trên VNeID](https://vnexpress.net/chi-thuc-hien-dich-vu-cong-truc-tuyen-tren-vneid-4741599.html) - 09:15 03/05/2024
+- 🌊 [Chỉ thực hiện dịch vụ công trực tuyến trên VNeID từ 1/7](https://vnexpress.net/chi-thuc-hien-dich-vu-cong-truc-tuyen-tren-vneid-tu-1-7-4741599.html) - 09:15 03/05/2024
 - 🎓 [Rà soát việc giá vé máy bay tăng cao](https://vnexpress.net/ra-soat-viec-gia-ve-may-bay-tang-cao-4741627.html) - 08:55 03/05/2024
 - 🔥 [Đề xuất mở rộng ngay cao tốc TP HCM - Long Thành lên 10 làn xe](https://vnexpress.net/de-xuat-mo-rong-ngay-cao-toc-tp-hcm-long-thanh-len-10-lan-xe-4741577.html) - 08:29 03/05/2024
 - 🦏 [Nhân viên thu phí xa lộ Hà Nội bị xe container tông tử vong](https://vnexpress.net/nhan-vien-thu-phi-xa-lo-ha-noi-bi-xe-container-tong-tu-vong-4741626.html) - 08:13 03/05/2024
