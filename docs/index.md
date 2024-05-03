@@ -37,12 +37,12 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💃 [Công nghệ tên lửa hạt nhân giúp bay thần tốc đến sao Hỏa](https://vnexpress.net/cong-nghe-ten-lua-hat-nhan-giup-bay-than-toc-den-sao-hoa-4741377.html) - 17:00 03/05/2024
 - 💂 [Quách Ngọc Tuyên: &#39;Vợ hy sinh tuổi xuân sinh hai con cho tôi&#39;](https://vnexpress.net/quach-ngoc-tuyen-vo-hy-sinh-tuoi-xuan-sinh-hai-con-cho-toi-4741361.html) - 17:00 03/05/2024
 - 🎊 [48 giờ ở Vũng Tàu](https://vnexpress.net/48-gio-o-vung-tau-4740996.html) - 17:00 03/05/2024
-- 🤠 [&#39;Sức mạnh nội sinh đã đánh bại thực dân Pháp&#39;](https://vnexpress.net/suc-manh-noi-sinh-da-danh-bai-thuc-dan-phap-4730385.html) - 17:00 03/05/2024
+- 🤠 [Vì sao &#39;đội quân ấu thơ&#39; đánh bại Pháp ở Điện Biên Phủ?](https://vnexpress.net/vi-sao-doi-quan-au-tho-danh-bai-phap-o-dien-bien-phu-4730385.html) - 17:00 03/05/2024
 - 🌈 [ICC kêu gọi &#39;ngừng đe dọa&#39; sau loạt chỉ trích từ Mỹ, Israel](https://vnexpress.net/icc-keu-goi-ngung-de-doa-sau-loat-chi-trich-tu-my-israel-4741792.html) - 16:51 03/05/2024
 - 🎬 [Ông Phạm Hồng Hải làm Quyền tổng giám đốc OCB](https://vnexpress.net/ong-pham-hong-hai-lam-tong-giam-doc-ocb-4741786.html) - 15:59 03/05/2024
 - 🚀 [Đề xuất in mã QR trên giấy chứng nhận quyền sử dụng đất](https://vnexpress.net/de-xuat-in-ma-qr-tren-giay-chung-nhan-quyen-su-dung-dat-4741781.html) - 15:57 03/05/2024
 - 🪄 [Nga cảnh báo &#39;trả đũa tàn khốc&#39; nếu Ukraine tấn công cầu Crimea](https://vnexpress.net/nga-canh-bao-tra-dua-tan-khoc-neu-ukraine-tan-cong-cau-crimea-4741777.html) - 15:27 03/05/2024
-- 😎 [Nhật Bản 0-0 Uzbekistan &lpar;H2&rpar;: Bóng trúng xà ngang](https://vnexpress.net/nhat-ban-vs-uzbekistan-4741776.html) - 15:09 03/05/2024
+- 😎 [Nhật Bản vô địch U23 châu Á](https://vnexpress.net/nhat-ban-vs-uzbekistan-4741776.html) - 15:09 03/05/2024
 - 🎊 [14 tiến sĩ trúng tuyển ĐH Quốc gia TP HCM diện &#39;xuất sắc&#39;](https://vnexpress.net/14-tien-si-trung-tuyen-dh-quoc-gia-tp-hcm-dien-xuat-sac-4741771.html) - 15:05 03/05/2024
 - ⚗️ [Giao dịch nhà đất ở TP HCM tăng lên](https://vnexpress.net/giao-dich-nha-dat-o-tp-hcm-tang-len-4741757.html) - 14:54 03/05/2024
 - 🫣 [Phân biệt sâm Ngọc Linh và sâm Lai Châu](https://vnexpress.net/phan-biet-sam-ngoc-linh-va-sam-lai-chau-4741764.html) - 14:20 03/05/2024
