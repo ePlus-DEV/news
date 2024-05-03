@@ -62,5 +62,4 @@ sidebar_position: 6
 - 🚦 [Huấn luyện chuyên nghiệp cho chó cưng](https://vnexpress.net/huan-luyen-chuyen-nghiep-cho-cho-cung-4737333.html) - 01:25 25/04/2024
 - 🐘 [Chàng trai chi gần 500 triệu đồng nuôi mọt ẩm](https://vnexpress.net/chang-trai-chi-gan-500-trieu-dong-nuoi-mot-am-4738356.html) - 23:00 24/04/2024
 - 🔥 [Đưa học trò đi tắm giữa giờ để tránh nóng](https://vnexpress.net/dua-hoc-tro-di-tam-giua-gio-de-tranh-nong-4738011.html) - 18:22 24/04/2024
-- 🎃 [Sức tàn phá của việc bị đối xử im lặng](https://vnexpress.net/suc-tan-pha-cua-viec-bi-doi-xu-im-lang-4736730.html) - 12:31 24/04/2024
-- 🥳 [Món ăn từ hành tây tăng cường sinh lực nam](https://vnexpress.net/mon-an-tu-hanh-tay-tang-cuong-sinh-luc-nam-4738395.html) - 10:38 24/04/2024<!-- vnexpress-doi-song:END -->
+- 🎃 [Sức tàn phá của việc bị đối xử im lặng](https://vnexpress.net/suc-tan-pha-cua-viec-bi-doi-xu-im-lang-4736730.html) - 12:31 24/04/2024<!-- vnexpress-doi-song:END -->
