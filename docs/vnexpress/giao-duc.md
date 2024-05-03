@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Học sinh TP HCM bắt đầu đăng ký nguyện vọng lớp 10 công lập](https://vnexpress.net/hoc-sinh-tp-hcm-bat-dau-dang-ky-nguyen-vong-lop-10-cong-lap-4741296.html) - 23:48 02/05/2024
 - 🦆 [Nam sinh Đà Nẵng giành giải nhất quốc gia Viết thư UPU](https://vnexpress.net/nam-sinh-da-nang-gianh-giai-nhat-quoc-gia-viet-thu-upu-4741329.html) - 23:11 02/05/2024
-- 🦩 [Trường Quốc tế TP HCM thu hồi sách có nội dung &#39;nhạy cảm&#39;](https://vnexpress.net/truong-quoc-te-tp-hcm-thu-hoi-sach-co-noi-dung-nhay-cam-4741325.html) - 14:41 02/05/2024
+- 🦩 [Trường Quốc tế phát sách nhạy cảm cho học sinh](https://vnexpress.net/truong-quoc-te-phat-sach-nhay-cam-cho-hoc-sinh-4741325.html) - 14:41 02/05/2024
 - 🌮 [Tỉnh nào có cây cầu gỗ dài nhất Việt Nam?](https://vnexpress.net/tinh-nao-co-cay-cau-go-dai-nhat-viet-nam-4741255.html) - 13:00 02/05/2024
 - 🔭 [Hà Nội công bố đề minh họa thi lớp 10](https://vnexpress.net/ha-noi-cong-bo-de-minh-hoa-thi-lop-10-4741126.html) - 07:39 02/05/2024
 - 💡 [Đại học Sư phạm TP HCM xét tuyển sớm với học bạ loại giỏi](https://vnexpress.net/dai-hoc-su-pham-tp-hcm-xet-tuyen-som-voi-hoc-ba-loai-gioi-4741096.html) - 06:51 02/05/2024
