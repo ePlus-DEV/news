@@ -575,7 +575,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💼 [Bộ trưởng Y tế nói về trụ cột của hệ thống y tế](https://tienphong.vn/bo-truong-y-te-noi-ve-tru-cot-cua-he-thong-y-te-post1634134.tpo) - 22:11 03/05/2024
 - 🎊 [Bộ Tài chính điều động, bổ nhiệm 12 lãnh đạo Cục, Vụ](https://tienphong.vn/bo-tai-chinh-dieu-dong-bo-nhiem-12-lanh-dao-cuc-vu-post1634149.tpo) - 22:08 03/05/2024
 - 💼 [Showbiz 3/5: Ảnh Thùy Tiên hội ngộ Lôi con gây sốt](https://tienphong.vn/showbiz-35-anh-thuy-tien-hoi-ngo-loi-con-gay-sot-post1634121.tpo) - 21:55 03/05/2024
-- 👺 [U23 Nhật Bản vs U23 Uzbekistan 0-0 &lpar;H1&rpar;: Chinh phục kỷ lục](https://tienphong.vn/u23-nhat-ban-vs-u23-uzbekistan-0-0-h1-chinh-phuc-ky-luc-post1634106.tpo) - 21:30 03/05/2024
+- 👺 [U23 Nhật Bản vs U23 Uzbekistan 0-0 &lpar;hết H1&rpar;: Xà ngang cứu thua cho Nhật Bản](https://tienphong.vn/u23-nhat-ban-vs-u23-uzbekistan-0-0-het-h1-xa-ngang-cuu-thua-cho-nhat-ban-post1634106.tpo) - 21:30 03/05/2024
 - 💪 [Ủy Ban Dân tộc thanh tra chương trình mục tiêu quốc gia tại Đắk Lắk](https://tienphong.vn/uy-ban-dan-toc-thanh-tra-chuong-trinh-muc-tieu-quoc-gia-tai-dak-lak-post1634062.tpo) - 21:11 03/05/2024
 - 💃 [Vụ cầu vượt xây xong quây rào: Đề nghị bàn giao cả tháng nhưng Hà Nội chưa phản hồi](https://tienphong.vn/vu-cau-vuot-xay-xong-quay-rao-de-nghi-ban-giao-ca-thang-nhung-ha-noi-chua-phan-hoi-post1634064.tpo) - 21:09 03/05/2024
 - 🦍 [Người dân đổ xô đưa phương tiện đi kiểm định sau dịp nghỉ lễ](https://tienphong.vn/nguoi-dan-do-xo-dua-phuong-tien-di-kiem-dinh-sau-dip-nghi-le-post1634030.tpo) - 21:00 03/05/2024
