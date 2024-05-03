@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Biến thủy tinh thành tranh nghệ thuật](https://vnexpress.net/bien-thuy-tinh-thanh-tranh-nghe-thuat-4741741.html) - 23:00 03/05/2024
 - 🤓 [Phà ngang sông Hậu ngưng hoạt động, dân phải đi vòng 15 km](https://vnexpress.net/pha-ngang-song-hau-ngung-hoat-dong-dan-phai-di-vong-15-km-4741634.html) - 22:00 03/05/2024
-- ⚗️ [Tôm hùm ở Khánh Hòa chết do nhiễm khuẩn](https://vnexpress.net/tom-hum-o-khanh-hoa-chet-do-nhiem-khuan-4741760.html) - 17:00 03/05/2024
+- ⚗️ [Tôm hùm ở Khánh Hòa chết hàng loạt do nhiễm khuẩn](https://vnexpress.net/tom-hum-o-khanh-hoa-chet-hang-loat-do-nhiem-khuan-4741760.html) - 17:00 03/05/2024
 - 🌊 [Vì sao &#39;đội quân ấu thơ&#39; đánh bại Pháp ở Điện Biên Phủ?](https://vnexpress.net/vi-sao-doi-quan-au-tho-danh-bai-phap-o-dien-bien-phu-4730385.html) - 17:00 03/05/2024
 - 🎓 [Đề xuất in mã QR trên giấy chứng nhận quyền sử dụng đất](https://vnexpress.net/de-xuat-in-ma-qr-tren-giay-chung-nhan-quyen-su-dung-dat-4741781.html) - 15:57 03/05/2024
 - 🔥 [Chủ tịch TP HCM: &#39;Gói thầu của Thuận An phải được báo cáo tiến độ hàng ngày&#39;](https://vnexpress.net/chu-tich-tp-hcm-goi-thau-cua-thuan-an-phai-duoc-bao-cao-tien-do-hang-ngay-4741747.html) - 12:06 03/05/2024
