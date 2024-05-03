@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Số người nghi ngộ độc sau ăn bánh mì ở Đồng Nai lên 447](https://vnexpress.net/so-nguoi-nghi-ngo-doc-sau-an-banh-mi-o-dong-nai-len-447-4741406.html) - 02:25 03/05/2024
+- 🔥 [Số người nghi ngộ độc sau ăn bánh mì ở Đồng Nai lên 469](https://vnexpress.net/so-nguoi-nghi-ngo-doc-sau-an-banh-mi-o-dong-nai-len-447-4741406.html) - 02:25 03/05/2024
 - 🥰 [AstraZeneca thừa nhận vaccine Covid-19 của hãng gây đông máu](https://vnexpress.net/astrazeneca-thua-nhan-vaccine-covid-19-cua-hang-gay-dong-mau-4741439.html) - 02:18 03/05/2024
 - 💡 [Có con sau 14 năm chữa vô sinh, 8 lần IVF thất bại](https://vnexpress.net/co-con-sau-14-nam-chua-vo-sinh-8-lan-ivf-that-bai-4741401.html) - 02:00 03/05/2024
 - 🤗 [10 món nam giới tuổi 40 nên ăn thường xuyên](https://vnexpress.net/10-mon-nam-gioi-tuoi-40-nen-an-thuong-xuyen-4741201.html) - 02:00 03/05/2024
