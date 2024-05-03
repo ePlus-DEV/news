@@ -14,7 +14,7 @@ sidebar_position: 2
 - 🧑‍🏫 [Tổng thống Mỹ chỉ trích Nhật &#39;bài ngoại&#39;](https://vnexpress.net/tong-thong-my-chi-trich-nhat-bai-ngoai-4741397.html) - 04:07 03/05/2024
 - 🐲 [5 người chết ở Mexico vì uống &#39;nước thần cầu sức mạnh&#39;](https://vnexpress.net/5-nguoi-chet-o-mexico-vi-uong-nuoc-than-cau-suc-manh-4741412.html) - 04:01 03/05/2024
 - 🦒 [Trúng UAV, tổ hợp phòng không Nga nổ tung](https://vnexpress.net/trung-uav-to-hop-phong-khong-nga-no-tung-4741387.html) - 03:28 03/05/2024
-- 🐻 [Người thứ hai qua đời sau khi tố giác Boeing](https://vnexpress.net/nguoi-thu-hai-qua-doi-sau-khi-to-giac-boeing-4741417.html) - 03:19 03/05/2024
+- 🐻 [Người tố giác Boeing qua đời](https://vnexpress.net/nguoi-to-giac-boeing-qua-doi-4741417.html) - 03:19 03/05/2024
 - 🚀 [Nga tuyên bố tập kích tổ hợp IRIS-T Đức viện trợ Ukraine](https://vnexpress.net/nga-tuyen-bo-tap-kich-to-hop-iris-t-duc-vien-tro-ukraine-4741394.html) - 02:57 03/05/2024
 - 🥰 [Ukraine lo ảnh vệ tinh thương mại làm lộ bí mật cho Nga](https://vnexpress.net/ukraine-lo-anh-ve-tinh-thuong-mai-lam-lo-bi-mat-cho-nga-4741402.html) - 02:39 03/05/2024
 - 🔥 [Cảnh hoang tàn tại đô thị chiến lược Chasov Yar của Ukraine](https://vnexpress.net/canh-hoang-tan-tai-do-thi-chien-luoc-chasov-yar-cua-ukraine-4741237.html) - 01:48 03/05/2024
