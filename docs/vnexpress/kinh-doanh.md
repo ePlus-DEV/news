@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [Đường Quảng Ngãi có hơn 7.300 tỷ đồng tiền mặt, USD](https://vnexpress.net/duong-quang-ngai-co-hon-7-300-ty-dong-tien-mat-usd-4741337.html) - 22:00 02/05/2024
 - 🐲 [Chủ đầu tư trung tâm thương mại Cantavil lãi lớn](https://vnexpress.net/chu-dau-tu-trung-tam-thuong-mai-cantavil-lai-lon-4741318.html) - 17:00 02/05/2024
 - 🔥 [Cổ phiếu hãng xe điện Trung Quốc tăng vọt](https://vnexpress.net/co-phieu-hang-xe-dien-trung-quoc-tang-vot-4741145.html) - 12:00 02/05/2024
-- 🐵 [Ngày mai tiếp tục đấu thầu vàng](https://vnexpress.net/ngay-mai-tiep-tuc-dau-thau-vang-4741242.html) - 09:31 02/05/2024
+- 🐵 [Tiếp tục đấu thầu vàng](https://vnexpress.net/tiep-tuc-dau-thau-vang-4741242.html) - 09:31 02/05/2024
 - 🦅 [Vietnam Airlines báo lãi hợp nhất kỷ lục](https://vnexpress.net/vietnam-airlines-bao-lai-hop-nhat-ky-luc-4740917.html) - 09:16 02/05/2024
 - 😺 [Hơn 9.600 tỷ đồng vốn đầu tư công chảy vào kinh tế TP HCM](https://vnexpress.net/hon-9-600-ty-dong-von-dau-tu-cong-chay-vao-kinh-te-tp-hcm-4741085.html) - 09:13 02/05/2024
 - 🤩 [Thanh khoản chứng khoán giảm sau nghỉ lễ](https://vnexpress.net/thanh-khoan-chung-khoan-giam-sau-nghi-le-4741193.html) - 08:30 02/05/2024
