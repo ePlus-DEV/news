@@ -22,7 +22,7 @@ sidebar_position: 9
 - 🌁 [Hơn 92% trạm y tế xã có bác sĩ](https://vnexpress.net/hon-92-tram-y-te-xa-co-bac-si-4741699.html) - 17:03 03/05/2024
 - 🐲 [Con vật bạn chọn tiết lộ tỷ lệ khởi nghiệp thành công?](https://vnexpress.net/con-vat-ban-chon-tiet-lo-ty-le-khoi-nghiep-thanh-cong-4738179.html) - 17:02 03/05/2024
 - 🤓 [Sắp xử phúc thẩm cựu bộ trưởng y tế Nguyễn Thanh Long](https://vnexpress.net/sap-xu-phuc-tham-cuu-bo-truong-y-te-nguyen-thanh-long-4741779.html) - 17:00 03/05/2024
-- 💪 [Tôm hùm ở Khánh Hòa chết do nhiễm khuẩn](https://vnexpress.net/tom-hum-o-khanh-hoa-chet-do-nhiem-khuan-4741760.html) - 17:00 03/05/2024
+- 💪 [Tôm hùm ở Khánh Hòa chết hàng loạt do nhiễm khuẩn](https://vnexpress.net/tom-hum-o-khanh-hoa-chet-hang-loat-do-nhiem-khuan-4741760.html) - 17:00 03/05/2024
 - 🎓 [&#39;8X như tôi thèm khát cơ hội làm giàu của Gen Z&#39;](https://vnexpress.net/8x-nhu-toi-them-khat-co-hoi-lam-giau-cua-gen-z-4741697.html) - 17:00 03/05/2024
 - 🫣 [Ai chấp nhận yêu khi tôi không còn trong trắng?](https://vnexpress.net/ai-chap-nhan-yeu-khi-toi-khong-con-trong-trang-4741690.html) - 17:00 03/05/2024
 - 🧑‍💻 [Nữ giảng viên tìm bạn đồng hành hiền lành](https://vnexpress.net/nu-giang-vien-tim-ban-dong-hanh-hien-lanh-4741618.html) - 17:00 03/05/2024
