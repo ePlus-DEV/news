@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Bộ trưởng Quân đội Pháp dự lễ kỷ niệm 70 năm chiến thắng Điện Biên Phủ](https://vnexpress.net/bo-truong-quan-doi-phap-du-le-ky-niem-70-nam-chien-thang-dien-bien-phu-4741889.html) - 03:25 04/05/2024
+- 🦒 [Bộ trưởng Quốc phòng Pháp dự lễ kỷ niệm 70 năm chiến thắng Điện Biên Phủ](https://vnexpress.net/bo-truong-quoc-phong-phap-du-le-ky-niem-70-nam-chien-thang-dien-bien-phu-4741889.html) - 03:25 04/05/2024
 - 🤓 [Siêu thị 0 đồng cho người dân vùng cao](https://vnexpress.net/sieu-thi-0-dong-cho-nguoi-dan-vung-cao-4741782.html) - 01:40 04/05/2024
 - ⚗️ [Biến thủy tinh thành tranh nghệ thuật](https://vnexpress.net/bien-thuy-tinh-thanh-tranh-nghe-thuat-4741741.html) - 23:00 03/05/2024
 - 🌊 [Phà ngang sông Hậu ngưng hoạt động, dân phải đi vòng 15 km](https://vnexpress.net/pha-ngang-song-hau-ngung-hoat-dong-dan-phai-di-vong-15-km-4741634.html) - 22:00 03/05/2024
