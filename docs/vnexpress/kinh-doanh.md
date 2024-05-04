@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [&#39;Nhiều tập đoàn công nghệ lớn muốn đầu tư ngành bán dẫn tại Việt Nam&#39;](https://vnexpress.net/tap-doan-cong-nghe-lon-muon-dau-tu-vao-nganh-ban-dan-tai-viet-nam-4741958.html) - 04:51 04/05/2024
+- ⛽️ [&#39;Nhiều tập đoàn công nghệ lớn muốn đầu tư ngành bán dẫn tại Việt Nam&#39;](https://vnexpress.net/nhieu-tap-doan-cong-nghe-lon-muon-dau-tu-nganh-ban-dan-tai-viet-nam-4741958.html) - 04:51 04/05/2024
 - 🐲 [Tuần &#39;nhào lộn&#39; của đồng yen](https://vnexpress.net/tuan-nhao-lon-cua-dong-yen-4741651.html) - 03:20 04/05/2024
 - 🔥 [Thanh long tăng giá gấp rưỡi](https://vnexpress.net/thanh-long-tang-gia-gap-ruoi-4741083.html) - 02:40 04/05/2024
 - 🐵 [Đơn hàng xuất khẩu đã có lại nhưng chủ yếu ngắn hạn](https://vnexpress.net/don-hang-xuat-khau-da-co-lai-nhung-chu-yeu-ngan-han-4741746.html) - 02:18 04/05/2024
