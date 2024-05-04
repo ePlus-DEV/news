@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [&#39;Chúa đảo Tuần Châu&#39; liên quan thế nào đến bà Trương Mỹ Lan](https://vnexpress.net/chua-dao-tuan-chau-lien-quan-the-nao-den-ba-truong-my-lan-4741985.html) - 07:09 04/05/2024
-- 🥰 [Bộ Công an yêu cầu Quảng Ngãi cung cấp hồ sơ các dự án trồng cây đô thị](https://vnexpress.net/bo-cong-an-yeu-cau-quang-ngai-cung-cap-ho-so-cac-du-an-trong-cay-do-thi-4741987.html) - 06:16 04/05/2024
+- 🥰 [Bộ Công an yêu cầu nhiều địa phương cung cấp hồ sơ các dự án trồng cây đô thị](https://vnexpress.net/bo-cong-an-yeu-cau-quang-ngai-cung-cap-ho-so-cac-du-an-trong-cay-do-thi-4741987.html) - 06:16 04/05/2024
 - 🎓 [Tạm hoãn xuất cảnh 7 người nước ngoài để điều tra vụ nổ lò hơi](https://vnexpress.net/tam-hoan-xuat-canh-7-nguoi-nuoc-ngoai-de-dieu-tra-vu-no-lo-hoi-4741977.html) - 06:07 04/05/2024
 - 🤓 [Vào trường tấn công hiệu phó vì ghen](https://vnexpress.net/vao-truong-tan-cong-hieu-pho-vi-ghen-4741955.html) - 04:51 04/05/2024
 - 🎊 [Vụ chuyển 164 kg vàng qua đường ngoại giao hé lộ &#39;thế giới ngầm&#39; buôn lậu](https://vnexpress.net/vu-chuyen-164-kg-vang-qua-duong-ngoai-giao-he-lo-the-gioi-ngam-buon-lau-4741632.html) - 01:59 04/05/2024
