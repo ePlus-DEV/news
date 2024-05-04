@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cuộc &#39;hội ngộ&#39; của những người lính ở hai thế giới](https://vnexpress.net/cuoc-hoi-ngo-cua-nhung-nguoi-linh-o-hai-the-gioi-4742082.html) - 14:26 04/05/2024
+- 🦒 [Chiến sĩ Điện Biên viếng đồng đội ở đồi A1](https://vnexpress.net/chien-si-dien-bien-vieng-dong-doi-o-doi-a1-4742082.html) - 14:26 04/05/2024
 - 🤓 [Cấm nhiều tuyến đường dịp kỷ niệm 70 năm chiến thắng Điện Biên Phủ](https://vnexpress.net/cam-nhieu-tuyen-duong-dip-ky-niem-70-nam-chien-thang-dien-bien-phu-4742084.html) - 12:51 04/05/2024
 - ⚗️ [Lương tối thiểu của công chức &#39;không dưới 5 triệu đồng&#39;](https://vnexpress.net/luong-toi-thieu-cua-cong-chuc-khong-duoi-5-trieu-dong-4742047.html) - 12:32 04/05/2024
 - 🌊 [Hà Nội hủy kết quả 3 mỏ cát đấu giá xuyên đêm](https://vnexpress.net/ha-noi-huy-ket-qua-3-mo-cat-dau-gia-xuyen-dem-4742071.html) - 12:12 04/05/2024
