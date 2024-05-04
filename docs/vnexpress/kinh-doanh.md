@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Bộ trưởng Công Thương: &#39;Dứt khoát không có buôn bán điện mặt trời mái nhà tự dùng&#39;](https://vnexpress.net/dut-khoat-khong-co-buon-ban-dien-mat-troi-mai-nha-tu-dung-4742111.html) - 15:45 04/05/2024
+- ⛽️ [Bộ trưởng Công Thương: &#39;Dứt khoát không cho bán điện mặt trời mái nhà tự dùng&#39;](https://vnexpress.net/dut-khoat-khong-co-buon-ban-dien-mat-troi-mai-nha-tu-dung-4742111.html) - 15:45 04/05/2024
 - 🐲 [Công ty của Warren Buffett lãi kỷ lục](https://vnexpress.net/cong-ty-cua-warren-buffett-lai-ky-luc-4742105.html) - 14:58 04/05/2024
 - 🔥 [Bộ Tài chính: Giá vé máy bay tăng cao không phải do thuế, phí](https://vnexpress.net/bo-tai-chinh-gia-ve-may-bay-tang-cao-khong-phai-do-thue-phi-4742098.html) - 14:40 04/05/2024
 - 🐵 [&#39;Nhà đầu tư ngoại đến Việt Nam nhưng rót tiền vào nước khác là bình thường&#39;](https://vnexpress.net/nha-dau-tu-ngoai-den-viet-nam-nhung-rot-tien-vao-nuoc-khac-la-binh-thuong-4742080.html) - 12:16 04/05/2024
