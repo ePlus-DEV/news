@@ -146,7 +146,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Tiến Linh chào ông Kim bằng bàn thắng đưa CLB Bình Dương lên nhì bảng](https://thanhnien.vn/tien-linh-chao-ong-kim-bang-ban-thang-dua-clb-binh-duong-len-nhi-bang-185240504200347652.htm) - 13:11 04/05/2024
+- 🤠 [Tiến Linh chào HLV Kim Sang-sik bằng bàn thắng đưa CLB Bình Dương lên nhì bảng](https://thanhnien.vn/tien-linh-chao-ong-kim-bang-ban-thang-dua-clb-binh-duong-len-nhi-bang-185240504200347652.htm) - 13:11 04/05/2024
 - 🥸 [Bí thư Hà Nội: &#39;Đẩy mạnh phân cấp để phát huy tinh thần dám nghĩ, dám làm&#39;](https://thanhnien.vn/bi-thu-ha-noi-day-manh-phan-cap-de-phat-huy-tinh-than-dam-nghi-dam-lam-185240504194935331.htm) - 13:06 04/05/2024
 - 🌁 [Cà Mau: Lập biên bản vụ bán vàng không rõ nguồn gốc](https://thanhnien.vn/ca-mau-lap-bien-ban-vu-ban-vang-khong-ro-nguon-goc-185240504194111813.htm) - 13:04 04/05/2024
 - 🤡 [NSND Vương Hà kể ký ức về NSND Bạch Tuyết khi diễn Thái hậu Dương Vân Nga](https://thanhnien.vn/nsnd-vuong-ha-ke-ky-uc-ve-nsnd-bach-tuyet-khi-dien-thai-hau-duong-van-nga-185240504184947182.htm) - 13:04 04/05/2024
