@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Bích Phương, Hieuthuhai, Double2T hát ở Vietnam GameVerse 2024](https://vnexpress.net/bich-phuong-hieuthuhai-double2t-hat-o-vietnam-gameverse-2024-4741542.html) - 05:09 04/05/2024
+- 🌏 [Bích Phương, Hieuthuhai, Double2T hát ở Vietnam GameVerse 2024](https://vnexpress.net/bich-phuong-hieuthuhai-double2t-hat-o-vietnam-gameverse-2024-4741542.html) - 05:00 04/05/2024
 - 💫 [Dương Tử Quỳnh nhận huân chương từ tổng thống Mỹ](https://vnexpress.net/duong-tu-quynh-nhan-huan-chuong-tu-tong-thong-my-4741954.html) - 04:47 04/05/2024
 - 🌮 [Pianist Bích Trà trình diễn &#39;Mừng chiến thắng Tây Bắc&#39;](https://vnexpress.net/pianist-bich-tra-trinh-dien-mung-chien-thang-tay-bac-4741878.html) - 04:34 04/05/2024
 - 🧠 [Victoria và các con chúc sinh nhật Beckham](https://vnexpress.net/victoria-va-cac-con-chuc-sinh-nhat-beckham-4741917.html) - 04:29 04/05/2024
