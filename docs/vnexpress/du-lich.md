@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Cây phượng nở đỏ rực trên đồi A1 Điện Biên Phủ](https://vnexpress.net/cay-phuong-no-do-ruc-tren-doi-a1-dien-bien-phu-4741865.html) - 10:56 04/05/2024
+- 💂 [Cây phượng đỏ trên đồi A1 Điện Biên Phủ thu hút khách chụp hình](https://vnexpress.net/cay-phuong-do-tren-doi-a1-dien-bien-phu-thu-hut-khach-chup-hinh-4741865.html) - 10:56 04/05/2024
 - 🪄 [Cặp bảo vật long sàng ở đền vua Đinh Tiên Hoàng](https://vnexpress.net/cap-bao-vat-long-sang-o-den-vua-dinh-tien-hoang-4740571.html) - 06:15 04/05/2024
 - 🦅 [Nhà giàu Trung Quốc chi tiền đi du lịch như thế nào](https://vnexpress.net/nha-giau-trung-quoc-chi-tien-di-du-lich-nhu-the-nao-4735375.html) - 00:00 04/05/2024
 - 🕴 [48 giờ ở Vũng Tàu](https://vnexpress.net/48-gio-o-vung-tau-4740996.html) - 17:00 03/05/2024
