@@ -213,7 +213,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- laodong:START -->
 - 🗽 [Lợi ích của lá bạc hà giúp giảm sẹo mụn](https://laodong.vn/suc-khoe/loi-ich-cua-la-bac-ha-giup-giam-seo-mun-1335697.ldo) - 16:00 04/05/2024
 - 📝 [Video bàn thắng CLB Hải Phòng - TPHCM: Bàn thắng trên chấm 11m](https://laodong.vn/ban-tin/video-ban-thang-clb-hai-phong-tphcm-ban-thang-tren-cham-11m-1335893.ldo) - 15:53 04/05/2024
-- 🦏 [Trực tiếp Man City vs Wolves: Haaland, De Bruyne đá chính](https://laodong.vn/bong-da-quoc-te/truc-tiep-man-city-vs-wolves-haaland-de-bruyne-da-chinh-1335894.ldo) - 15:41 04/05/2024
+- 🦏 [Trực tiếp Man City 0-0 Wolves: Hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-man-city-0-0-wolves-hiep-1-1335894.ldo) - 15:41 04/05/2024
 - 🦩 [Xem lại 2 tình huống sai lầm của Filip Nguyễn trận CAHN - Nam Định](https://laodong.vn/video/xem-lai-2-tinh-huong-sai-lam-cua-filip-nguyen-tran-cahn-nam-dinh-1335871.ldo) - 15:37 04/05/2024
 - 🦏 [Xác lập kỷ lục trong phẫu thuật điều trị bệnh về mắt](https://laodong.vn/y-te/xac-lap-ky-luc-trong-phau-thuat-dieu-tri-benh-ve-mat-1335878.ldo) - 15:16 04/05/2024
 - 🧰 [Xét xử 11 bị cáo ở Thái Bình về các tội nhận hối lộ và che giấu tội phạm](https://laodong.vn/phap-luat/xet-xu-11-bi-cao-o-thai-binh-ve-cac-toi-nhan-hoi-lo-va-che-giau-toi-pham-1335885.ldo) - 15:14 04/05/2024
