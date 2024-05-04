@@ -147,7 +147,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
 - 🤠 [MSI 2024: Lội ngược dòng trước LLL, GAM sẽ tái đấu Fnatic](https://thanhnien.vn/msi-2024-loi-nguoc-dong-truoc-lll-gam-se-tai-dau-fnatic-185240504203744529.htm) - 13:46 04/05/2024
-- 🥸 [Bộ trưởng Công thương xin lỗi vì mâu thuẫn trong dự thảo điện mặt trời mái nhà](https://thanhnien.vn/bo-truong-cong-thuong-xin-loi-vi-mau-thuan-trong-du-thao-dien-mat-troi-mai-nha-185240504203421031.htm) - 13:46 04/05/2024
+- 🥸 [&#39;Điện mặt trời mái nhà tự sản tự tiêu thì không có mua bán&#39;](https://thanhnien.vn/bo-truong-cong-thuong-xin-loi-vi-mau-thuan-trong-du-thao-dien-mat-troi-mai-nha-185240504203421031.htm) - 13:46 04/05/2024
 - 🌁 [Hải Dương điều động, bổ nhiệm hàng loạt lãnh đạo sở, ngành, địa phương](https://thanhnien.vn/hai-duong-dieu-dong-bo-nhiem-hang-loat-lanh-dao-so-nganh-dia-phuong-185240504184948633.htm) - 13:42 04/05/2024
 - 🤡 [HLV Daiki ‘cáu’ vì đội Hà Nội bị SLNA gỡ hòa, còn bực thêm lý do này nữa](https://thanhnien.vn/hlv-daiki-cau-vi-doi-ha-noi-bi-slna-go-hoa-con-buc-them-ly-do-nay-nua-185240504153310044.htm) - 13:42 04/05/2024
 - 🎉 [Arsenal đánh bại Bournemouth, chờ Man City sẩy chân trong cuộc đua song mã](https://thanhnien.vn/arsenal-danh-bai-bournemouth-cho-man-city-say-chan-trong-cuoc-dua-song-ma-18524050420294744.htm) - 13:34 04/05/2024
