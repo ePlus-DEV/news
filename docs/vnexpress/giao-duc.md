@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [10 từ tiếng Anh thông dụng có âm k/c/g câm](https://vnexpress.net/10-tu-tieng-anh-thong-dung-co-am-k-c-g-cam-4742007.html) - 07:27 04/05/2024
-- 🦆 [4 quy định lạ trong xét tuyển ngành Y năm 2024](https://vnexpress.net/4-quy-dinh-la-trong-xet-tuyen-nganh-y-nam-2024-4741936.html) - 06:07 04/05/2024
+- 🦆 [Những quy định đặc biệt trong xét tuyển ngành Y năm 2024](https://vnexpress.net/nhung-quy-dinh-dac-biet-trong-xet-tuyen-nganh-y-nam-2024-4741936.html) - 06:07 04/05/2024
 - 🦩 [&#39;Giới trẻ cần khác biệt để không thành người tầm thường&#39;](https://vnexpress.net/gioi-tre-can-khac-biet-de-khong-thanh-nguoi-tam-thuong-4737543.html) - 03:00 04/05/2024
 - 🌮 [11 cặp song sinh cùng tốt nghiệp trung học](https://vnexpress.net/11-cap-song-sinh-cung-tot-nghiep-trung-hoc-4741514.html) - 02:02 04/05/2024
 - 🔭 [Nữ sinh đỗ đại học top 8 thế giới nhờ biết móc len](https://vnexpress.net/nu-sinh-do-dai-hoc-top-8-the-gioi-nho-biet-moc-len-4741207.html) - 23:00 03/05/2024
