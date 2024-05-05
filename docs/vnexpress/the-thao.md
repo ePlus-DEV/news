@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Chelsea tiếp tục thăng hoa](https://vnexpress.net/chelsea-tiep-tuc-thang-hoa-4742337.html) - 15:04 05/05/2024
+- 🪜 [Chelsea vượt mặt Man Utd](https://vnexpress.net/chelsea-vuot-mat-man-utd-4742337.html) - 15:04 05/05/2024
 - 🦩 [Nguyễn Thị Oanh giành cú đúp HC vàng tại Hong Kong](https://vnexpress.net/nguyen-thi-oanh-gianh-cu-dup-hc-vang-tai-hong-kong-4742321.html) - 14:57 05/05/2024
 - 🧰 [HAGL thắng Thể Công trước tân HLV tuyển Việt Nam](https://vnexpress.net/hagl-thang-the-cong-truoc-tan-hlv-tuyen-viet-nam-4742327.html) - 14:51 05/05/2024
 - 🤗 [Huỳnh Như ghi bàn, níu hy vọng trụ hạng cho Lank FC](https://vnexpress.net/huynh-nhu-ghi-ban-niu-hy-vong-tru-hang-cho-lank-fc-4742302.html) - 13:35 05/05/2024
