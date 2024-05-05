@@ -144,7 +144,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- thanhnien:START -->
 - 🤠 [Tài tử Hàn Lee Jung Jae được &#39;ưu ái&#39; khi đóng &#39;Chiến tranh giữa các vì sao&#39;](https://thanhnien.vn/tai-tu-han-lee-jung-jae-duoc-uu-ai-khi-dong-chien-tranh-giua-cac-vi-sao-185240505113823399.htm) - 06:18 05/05/2024
 - 🥸 [TP.HCM điều chỉnh thông tin cư trú hơn 11 triệu người dân](https://thanhnien.vn/tphcm-dieu-chinh-thong-tin-cu-tru-hon-11-trieu-nguoi-dan-18524050511595207.htm) - 06:14 05/05/2024
-- 🌁 [Người TP.HCM vẫn chờ cơn mưa đủ lớn để giải nhiệt chuỗi ngày nắng nóng kỉ lục](https://thanhnien.vn/nguoi-tphcm-van-cho-con-mua-du-lon-de-giai-nhiet-chuoi-ngay-nang-nong-ki-luc-185240505123243071.htm) - 06:06 05/05/2024
+- 🌁 [Người TP.HCM vẫn chờ cơn mưa đủ lớn để giải nhiệt chuỗi ngày nắng nóng kỷ lục](https://thanhnien.vn/nguoi-tphcm-van-cho-con-mua-du-lon-de-giai-nhiet-chuoi-ngay-nang-nong-ki-luc-185240505123243071.htm) - 06:06 05/05/2024
 - 🤡 [Thủ tướng biểu dương thành tích của lực lượng CSGT dịp 30.4 - 1.5](https://thanhnien.vn/thu-tuong-bieu-duong-thanh-tich-cua-luc-luong-csgt-dip-304-15-185240505114105512.htm) - 06:01 05/05/2024
 - 🎉 [Đại pháo rền vang trong buổi tổng duyệt kỷ niệm 70 năm chiến thắng Điện Biên Phủ](https://thanhnien.vn/dai-phao-ren-vang-trong-buoi-tong-duyet-ky-niem-70-nam-chien-thang-dien-bien-phu-185240505111723381.htm) - 05:58 05/05/2024
 - 🎊 [Thị trưởng London Sadiq Khan lại làm nên lịch sử](https://thanhnien.vn/thi-truong-london-sadiq-khan-lai-lam-nen-lich-su-185240505102929282.htm) - 05:58 05/05/2024
