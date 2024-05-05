@@ -4,62 +4,62 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Chế Linh thu đĩa than ở tuổi 82](https://vnexpress.net/che-linh-thu-dia-than-o-tuoi-82-4742262.html) - 10:21 05/05/2024
-- 💫 [Tài tử &#39;Queen of Tears&#39; trưởng thành từ khốn khó](https://vnexpress.net/tai-tu-queen-of-tears-truong-thanh-tu-khon-kho-4742184.html) - 09:44 05/05/2024
-- 🌮 [Đàm Vĩnh Hưng thăng hoa với show bolero cuối](https://vnexpress.net/dam-vinh-hung-thang-hoa-voi-show-bolero-cuoi-4742153.html) - 06:03 05/05/2024
-- 🧠 [&#39;Ca vương&#39; Trung Quốc tổ chức concert lúc 3h sáng](https://vnexpress.net/ca-vuong-trung-quoc-to-chuc-concert-luc-3h-sang-4742179.html) - 05:24 05/05/2024
-- 👨‍🏫 [Vẻ đẹp tuổi 18 của người mẫu Nga Kristina Pimenova](https://vnexpress.net/ve-dep-tuoi-18-cua-nguoi-mau-nga-kristina-pimenova-4742199.html) - 05:11 05/05/2024
-- ⚗️ [Cuộc sống Johnny Depp sau ly hôn](https://vnexpress.net/cuoc-song-johnny-depp-sau-ly-hon-4742055.html) - 03:40 05/05/2024
-- 😎 [Hậu trường cảnh hành động phim Tạ Đình Phong](https://vnexpress.net/hau-truong-canh-hanh-dong-phim-ta-dinh-phong-4742160.html) - 02:18 05/05/2024
-- 🫣 [Dàn sao xem liveshow bolero của Đàm Vĩnh Hưng](https://vnexpress.net/dan-sao-xem-liveshow-bolero-cua-dam-vinh-hung-4742141.html) - 01:15 05/05/2024
-- 🪄 [Đàm Vĩnh Hưng nhận bằng kỷ lục](https://vnexpress.net/dam-vinh-hung-nhan-bang-ky-luc-4741695.html) - 17:56 04/05/2024
-- 🤓 [Chiến thắng Điện Biên Phủ qua ống kính phóng viên chiến trường](https://vnexpress.net/chien-thang-dien-bien-phu-qua-ong-kinh-phong-vien-chien-truong-4741915.html) - 17:00 04/05/2024
-- 🫶 [Những gương mặt gây chú ý ở Mr World Vietnam](https://vnexpress.net/nhung-guong-mat-gay-chu-y-o-mr-world-vietnam-4741879.html) - 13:00 04/05/2024
-- 🧑‍🏫 [10 ý tưởng phối đồ với mốt đan móc](https://vnexpress.net/10-y-tuong-phoi-do-voi-mot-dan-moc-4741707.html) - 12:00 04/05/2024
-- 🦄 [&#39;Bộ quần áo mới của hoàng đế&#39; - kịch châm biếm thói phù phiếm](https://vnexpress.net/bo-quan-ao-moi-cua-hoang-de-kich-cham-biem-thoi-phu-phiem-4741998.html) - 11:24 04/05/2024
-- 💫 [Nghệ sĩ Trung Quốc tử vong khi diễn xiếc trên không](https://vnexpress.net/nghe-si-trung-quoc-tu-vong-khi-dien-xiec-tren-khong-4742046.html) - 09:52 04/05/2024
-- 🎊 [Dung nhan &#39;Nữ hoàng nước mắt&#39; Choi Ji Woo](https://vnexpress.net/dung-nhan-nu-hoang-nuoc-mat-choi-ji-woo-4741327.html) - 08:41 04/05/2024
-- 👹 [Bộ sưu tập giày hiệu của Chi Pu](https://vnexpress.net/bo-suu-tap-giay-hieu-cua-chi-pu-4741931.html) - 07:22 04/05/2024
-- 💻 [Tái bản sách &#39;Điện Biên Phủ&#39; của Đại tướng Võ Nguyên Giáp](https://vnexpress.net/tai-ban-sach-dien-bien-phu-cua-dai-tuong-vo-nguyen-giap-4741749.html) - 07:00 04/05/2024
-- 🤡 [Lisa công khai sánh đôi con trai tỷ phú](https://vnexpress.net/lisa-cong-khai-sanh-doi-con-trai-ty-phu-4741961.html) - 05:46 04/05/2024
-- 🥰 [Chiếu miễn phí &#39;Đào, phở và piano&#39;](https://vnexpress.net/chieu-mien-phi-dao-pho-va-piano-4741950.html) - 05:40 04/05/2024
-- 🚀 [Bích Phương, Hieuthuhai, Double2T hát ở Vietnam GameVerse 2024](https://vnexpress.net/bich-phuong-hieuthuhai-double2t-hat-o-vietnam-gameverse-2024-4741542.html) - 05:00 04/05/2024
-- 📝 [Dương Tử Quỳnh nhận huân chương từ tổng thống Mỹ](https://vnexpress.net/duong-tu-quynh-nhan-huan-chuong-tu-tong-thong-my-4741954.html) - 04:47 04/05/2024
-- 🐲 [Pianist Bích Trà trình diễn &#39;Mừng chiến thắng Tây Bắc&#39;](https://vnexpress.net/pianist-bich-tra-trinh-dien-mung-chien-thang-tay-bac-4741878.html) - 04:34 04/05/2024
-- 🎃 [Victoria và các con chúc sinh nhật Beckham](https://vnexpress.net/victoria-va-cac-con-chuc-sinh-nhat-beckham-4741917.html) - 04:29 04/05/2024
-- 🤠 [Cuộc sống bận rộn của The Rock](https://vnexpress.net/cuoc-song-ban-ron-cua-the-rock-4741684.html) - 02:43 04/05/2024
-- 🎭 [Trần Mạnh Tuấn tập nhạc cùng Đàm Vĩnh Hưng](https://vnexpress.net/tran-manh-tuan-tap-nhac-cung-dam-vinh-hung-4741755.html) - 01:19 04/05/2024
-- 🧰 [Thời trang bình dân của Công chúa Charlotte](https://vnexpress.net/thoi-trang-binh-dan-cua-cong-chua-charlotte-4741461.html) - 00:00 04/05/2024
-- 🦍 [Quách Ngọc Tuyên: &#39;Vợ hy sinh tuổi xuân sinh hai con cho tôi&#39;](https://vnexpress.net/quach-ngoc-tuyen-vo-hy-sinh-tuoi-xuan-sinh-hai-con-cho-toi-4741361.html) - 17:00 03/05/2024
-- 🌝 [&#39;Sách của Ocean Vuong không phải truyện khiêu dâm&#39;](https://vnexpress.net/sach-cua-ocean-vuong-khong-phai-truyen-khieu-dam-4741605.html) - 14:12 03/05/2024
-- 🧑‍💻 [Á quân Giọng hát Việt nhí &#39;lột xác&#39; sau 9 năm](https://vnexpress.net/a-quan-giong-hat-viet-nhi-lot-xac-sau-9-nam-4741484.html) - 12:00 03/05/2024
-- 🥸 [Trang phục biển sexy của Hồ Ngọc Hà](https://vnexpress.net/trang-phuc-bien-sexy-cua-ho-ngoc-ha-4741236.html) - 09:00 03/05/2024
-- 🔥 [Đấu giá bìa gốc &#39;Harry Potter và Hòn đá phù thủy&#39;](https://vnexpress.net/dau-gia-bia-goc-harry-potter-va-hon-da-phu-thuy-4741538.html) - 07:39 03/05/2024
-- 🐎 [Bác sĩ thi Manhunt International](https://vnexpress.net/bac-si-thi-manhunt-international-4741302.html) - 07:25 03/05/2024
-- 😎 [Tài tử &#39;Vì sao đưa anh tới&#39; khoe cơ bắp ở Nha Trang](https://vnexpress.net/tai-tu-vi-sao-dua-anh-toi-khoe-co-bap-o-nha-trang-4741436.html) - 05:52 03/05/2024
-- 🦄 [Vườn cây trĩu quả của Mỹ Tâm](https://vnexpress.net/vuon-cay-triu-qua-cua-my-tam-4741420.html) - 04:22 03/05/2024
-- 🌜 [Quách Tấn An ly hôn](https://vnexpress.net/quach-tan-an-ly-hon-4741373.html) - 02:27 03/05/2024
-- 🚦 [Brad Pitt và bạn gái đi biển](https://vnexpress.net/brad-pitt-va-ban-gai-di-bien-4741413.html) - 02:22 03/05/2024
-- 🧐 [Ăn mày, tù nhân cuối thời Thanh qua ảnh](https://vnexpress.net/an-may-tu-nhan-cuoi-thoi-thanh-qua-anh-4740002.html) - 17:00 02/05/2024
-- 🐵 [Guốc gỗ thành mốt hot](https://vnexpress.net/guoc-go-thanh-mot-hot-4740983.html) - 13:33 02/05/2024
-- ⚗️ [Alec Baldwin thừa nhận từng lạm dụng chất gây nghiện](https://vnexpress.net/alec-baldwin-thua-nhan-tung-lam-dung-chat-gay-nghien-4741080.html) - 12:43 02/05/2024
-- 👺 [Lôi Con - cậu bé châu Phi hát nhạc thiếu nhi Việt Nam](https://vnexpress.net/loi-con-cau-be-chau-phi-hat-nhac-thieu-nhi-viet-nam-4741009.html) - 12:00 02/05/2024
-- 🌊 [Britney Spears hoàn tất ly hôn](https://vnexpress.net/britney-spears-hoan-tat-ly-hon-4741253.html) - 10:03 02/05/2024
-- 🪜 [&#39;Hùm xám đường số 4&#39; - hồi ức kháng chiến](https://vnexpress.net/hum-xam-duong-so-4-hoi-uc-khang-chien-4732591.html) - 08:27 02/05/2024
-- 🕴 [&#39;Lật mặt 7&#39; vượt 200 tỷ đồng](https://vnexpress.net/lat-mat-7-vuot-200-ty-dong-4741064.html) - 07:39 02/05/2024
-- 💃 [Triển lãm tranh thông điệp &#39;tích lũy khoảnh khắc&#39;](https://vnexpress.net/trien-lam-tranh-thong-diep-tich-luy-khoanh-khac-4735814.html) - 06:42 02/05/2024
-- 🦄 [Grey D - từ mờ nhạt đến ca sĩ gen Z triệu view](https://vnexpress.net/grey-d-tu-mo-nhat-den-ca-si-gen-z-trieu-view-4740522.html) - 04:31 02/05/2024
-- ⛽️ [Lisa ngầm xác nhận hẹn hò con trai người giàu nhất thế giới](https://vnexpress.net/lisa-ngam-xac-nhan-hen-ho-con-trai-nguoi-giau-nhat-the-gioi-4740952.html) - 03:14 02/05/2024
-- 😎 [Nhạc sĩ Vũ Xuân Hùng qua đời](https://vnexpress.net/nhac-si-vu-xuan-hung-qua-doi-4740931.html) - 02:00 02/05/2024
-- 🌊 [Trương Minh Cường: &#39;Tôi trắng tay sau khi sang Mỹ lập nghiệp&#39;](https://vnexpress.net/truong-minh-cuong-toi-trang-tay-sau-khi-sang-my-lap-nghiep-4739592.html) - 17:00 01/05/2024
-- 🐲 [Loạt phim Hollywood ra rạp Việt tháng 5](https://vnexpress.net/loat-phim-hollywood-ra-rap-viet-thang-5-4740715.html) - 13:00 01/05/2024
-- 💂 [Những tác phẩm được mong chờ tại LHP Cannes 2024](https://vnexpress.net/nhung-tac-pham-duoc-mong-cho-tai-lhp-cannes-2024-4740659.html) - 10:51 01/05/2024
-- 🙉 [Nghệ sĩ Minh Châu: &#39;Tôi thích làm việc với đạo diễn trẻ&#39;](https://vnexpress.net/nghe-si-minh-chau-toi-thich-lam-viec-voi-dao-dien-tre-4740131.html) - 10:15 01/05/2024
+- 🌏 [Đường phố, con người Hong Kong 150 năm trước](https://vnexpress.net/duong-pho-con-nguoi-hong-kong-150-nam-truoc-4742227.html) - 12:00 05/05/2024
+- 💫 [Concert Madonna hút 1,6 triệu khán giả](https://vnexpress.net/concert-madonna-hut-1-6-trieu-khan-gia-4742275.html) - 11:43 05/05/2024
+- 🌮 [Chế Linh thu đĩa than ở tuổi 82](https://vnexpress.net/che-linh-thu-dia-than-o-tuoi-82-4742262.html) - 10:21 05/05/2024
+- 🧠 [Tài tử &#39;Queen of Tears&#39; trưởng thành từ khốn khó](https://vnexpress.net/tai-tu-queen-of-tears-truong-thanh-tu-khon-kho-4742184.html) - 09:44 05/05/2024
+- 👨‍🏫 [Đàm Vĩnh Hưng thăng hoa với show bolero cuối](https://vnexpress.net/dam-vinh-hung-thang-hoa-voi-show-bolero-cuoi-4742153.html) - 06:03 05/05/2024
+- ⚗️ [&#39;Ca vương&#39; Trung Quốc tổ chức concert lúc 3h sáng](https://vnexpress.net/ca-vuong-trung-quoc-to-chuc-concert-luc-3h-sang-4742179.html) - 05:24 05/05/2024
+- 😎 [Vẻ đẹp tuổi 18 của người mẫu Nga Kristina Pimenova](https://vnexpress.net/ve-dep-tuoi-18-cua-nguoi-mau-nga-kristina-pimenova-4742199.html) - 05:11 05/05/2024
+- 🫣 [Cuộc sống Johnny Depp sau ly hôn](https://vnexpress.net/cuoc-song-johnny-depp-sau-ly-hon-4742055.html) - 03:40 05/05/2024
+- 🪄 [Hậu trường cảnh hành động phim Tạ Đình Phong](https://vnexpress.net/hau-truong-canh-hanh-dong-phim-ta-dinh-phong-4742160.html) - 02:18 05/05/2024
+- 🤓 [Dàn sao xem liveshow bolero của Đàm Vĩnh Hưng](https://vnexpress.net/dan-sao-xem-liveshow-bolero-cua-dam-vinh-hung-4742141.html) - 01:15 05/05/2024
+- 🫶 [Đàm Vĩnh Hưng nhận bằng kỷ lục](https://vnexpress.net/dam-vinh-hung-nhan-bang-ky-luc-4741695.html) - 17:56 04/05/2024
+- 🧑‍🏫 [Chiến thắng Điện Biên Phủ qua ống kính phóng viên chiến trường](https://vnexpress.net/chien-thang-dien-bien-phu-qua-ong-kinh-phong-vien-chien-truong-4741915.html) - 17:00 04/05/2024
+- 🦄 [Những gương mặt gây chú ý ở Mr World Vietnam](https://vnexpress.net/nhung-guong-mat-gay-chu-y-o-mr-world-vietnam-4741879.html) - 13:00 04/05/2024
+- 💫 [10 ý tưởng phối đồ với mốt đan móc](https://vnexpress.net/10-y-tuong-phoi-do-voi-mot-dan-moc-4741707.html) - 12:00 04/05/2024
+- 🎊 [&#39;Bộ quần áo mới của hoàng đế&#39; - kịch châm biếm thói phù phiếm](https://vnexpress.net/bo-quan-ao-moi-cua-hoang-de-kich-cham-biem-thoi-phu-phiem-4741998.html) - 11:24 04/05/2024
+- 👹 [Nghệ sĩ Trung Quốc tử vong khi diễn xiếc trên không](https://vnexpress.net/nghe-si-trung-quoc-tu-vong-khi-dien-xiec-tren-khong-4742046.html) - 09:52 04/05/2024
+- 💻 [Dung nhan &#39;Nữ hoàng nước mắt&#39; Choi Ji Woo](https://vnexpress.net/dung-nhan-nu-hoang-nuoc-mat-choi-ji-woo-4741327.html) - 08:41 04/05/2024
+- 🤡 [Bộ sưu tập giày hiệu của Chi Pu](https://vnexpress.net/bo-suu-tap-giay-hieu-cua-chi-pu-4741931.html) - 07:22 04/05/2024
+- 🥰 [Tái bản sách &#39;Điện Biên Phủ&#39; của Đại tướng Võ Nguyên Giáp](https://vnexpress.net/tai-ban-sach-dien-bien-phu-cua-dai-tuong-vo-nguyen-giap-4741749.html) - 07:00 04/05/2024
+- 🚀 [Lisa công khai sánh đôi con trai tỷ phú](https://vnexpress.net/lisa-cong-khai-sanh-doi-con-trai-ty-phu-4741961.html) - 05:46 04/05/2024
+- 📝 [Chiếu miễn phí &#39;Đào, phở và piano&#39;](https://vnexpress.net/chieu-mien-phi-dao-pho-va-piano-4741950.html) - 05:40 04/05/2024
+- 🐲 [Bích Phương, Hieuthuhai, Double2T hát ở Vietnam GameVerse 2024](https://vnexpress.net/bich-phuong-hieuthuhai-double2t-hat-o-vietnam-gameverse-2024-4741542.html) - 05:00 04/05/2024
+- 🎃 [Dương Tử Quỳnh nhận huân chương từ tổng thống Mỹ](https://vnexpress.net/duong-tu-quynh-nhan-huan-chuong-tu-tong-thong-my-4741954.html) - 04:47 04/05/2024
+- 🤠 [Pianist Bích Trà trình diễn &#39;Mừng chiến thắng Tây Bắc&#39;](https://vnexpress.net/pianist-bich-tra-trinh-dien-mung-chien-thang-tay-bac-4741878.html) - 04:34 04/05/2024
+- 🎭 [Victoria và các con chúc sinh nhật Beckham](https://vnexpress.net/victoria-va-cac-con-chuc-sinh-nhat-beckham-4741917.html) - 04:29 04/05/2024
+- 🧰 [Cuộc sống bận rộn của The Rock](https://vnexpress.net/cuoc-song-ban-ron-cua-the-rock-4741684.html) - 02:43 04/05/2024
+- 🦍 [Trần Mạnh Tuấn tập nhạc cùng Đàm Vĩnh Hưng](https://vnexpress.net/tran-manh-tuan-tap-nhac-cung-dam-vinh-hung-4741755.html) - 01:19 04/05/2024
+- 🌝 [Thời trang bình dân của Công chúa Charlotte](https://vnexpress.net/thoi-trang-binh-dan-cua-cong-chua-charlotte-4741461.html) - 00:00 04/05/2024
+- 🧑‍💻 [Quách Ngọc Tuyên: &#39;Vợ hy sinh tuổi xuân sinh hai con cho tôi&#39;](https://vnexpress.net/quach-ngoc-tuyen-vo-hy-sinh-tuoi-xuan-sinh-hai-con-cho-toi-4741361.html) - 17:00 03/05/2024
+- 🥸 [&#39;Sách của Ocean Vuong không phải truyện khiêu dâm&#39;](https://vnexpress.net/sach-cua-ocean-vuong-khong-phai-truyen-khieu-dam-4741605.html) - 14:12 03/05/2024
+- 🔥 [Á quân Giọng hát Việt nhí &#39;lột xác&#39; sau 9 năm](https://vnexpress.net/a-quan-giong-hat-viet-nhi-lot-xac-sau-9-nam-4741484.html) - 12:00 03/05/2024
+- 🐎 [Trang phục biển sexy của Hồ Ngọc Hà](https://vnexpress.net/trang-phuc-bien-sexy-cua-ho-ngoc-ha-4741236.html) - 09:00 03/05/2024
+- 😎 [Đấu giá bìa gốc &#39;Harry Potter và Hòn đá phù thủy&#39;](https://vnexpress.net/dau-gia-bia-goc-harry-potter-va-hon-da-phu-thuy-4741538.html) - 07:39 03/05/2024
+- 🦄 [Bác sĩ thi Manhunt International](https://vnexpress.net/bac-si-thi-manhunt-international-4741302.html) - 07:25 03/05/2024
+- 🌜 [Tài tử &#39;Vì sao đưa anh tới&#39; khoe cơ bắp ở Nha Trang](https://vnexpress.net/tai-tu-vi-sao-dua-anh-toi-khoe-co-bap-o-nha-trang-4741436.html) - 05:52 03/05/2024
+- 🚦 [Vườn cây trĩu quả của Mỹ Tâm](https://vnexpress.net/vuon-cay-triu-qua-cua-my-tam-4741420.html) - 04:22 03/05/2024
+- 🧐 [Quách Tấn An ly hôn](https://vnexpress.net/quach-tan-an-ly-hon-4741373.html) - 02:27 03/05/2024
+- 🐵 [Brad Pitt và bạn gái đi biển](https://vnexpress.net/brad-pitt-va-ban-gai-di-bien-4741413.html) - 02:22 03/05/2024
+- ⚗️ [Ăn mày, tù nhân cuối thời Thanh qua ảnh](https://vnexpress.net/an-may-tu-nhan-cuoi-thoi-thanh-qua-anh-4740002.html) - 17:00 02/05/2024
+- 👺 [Guốc gỗ thành mốt hot](https://vnexpress.net/guoc-go-thanh-mot-hot-4740983.html) - 13:33 02/05/2024
+- 🌊 [Alec Baldwin thừa nhận từng lạm dụng chất gây nghiện](https://vnexpress.net/alec-baldwin-thua-nhan-tung-lam-dung-chat-gay-nghien-4741080.html) - 12:43 02/05/2024
+- 🪜 [Lôi Con - cậu bé châu Phi hát nhạc thiếu nhi Việt Nam](https://vnexpress.net/loi-con-cau-be-chau-phi-hat-nhac-thieu-nhi-viet-nam-4741009.html) - 12:00 02/05/2024
+- 🕴 [Britney Spears hoàn tất ly hôn](https://vnexpress.net/britney-spears-hoan-tat-ly-hon-4741253.html) - 10:03 02/05/2024
+- 💃 [&#39;Hùm xám đường số 4&#39; - hồi ức kháng chiến](https://vnexpress.net/hum-xam-duong-so-4-hoi-uc-khang-chien-4732591.html) - 08:27 02/05/2024
+- 🦄 [&#39;Lật mặt 7&#39; vượt 200 tỷ đồng](https://vnexpress.net/lat-mat-7-vuot-200-ty-dong-4741064.html) - 07:39 02/05/2024
+- ⛽️ [Triển lãm tranh thông điệp &#39;tích lũy khoảnh khắc&#39;](https://vnexpress.net/trien-lam-tranh-thong-diep-tich-luy-khoanh-khac-4735814.html) - 06:42 02/05/2024
+- 😎 [Grey D - từ mờ nhạt đến ca sĩ gen Z triệu view](https://vnexpress.net/grey-d-tu-mo-nhat-den-ca-si-gen-z-trieu-view-4740522.html) - 04:31 02/05/2024
+- 🌊 [Lisa ngầm xác nhận hẹn hò con trai người giàu nhất thế giới](https://vnexpress.net/lisa-ngam-xac-nhan-hen-ho-con-trai-nguoi-giau-nhat-the-gioi-4740952.html) - 03:14 02/05/2024
+- 🐲 [Nhạc sĩ Vũ Xuân Hùng qua đời](https://vnexpress.net/nhac-si-vu-xuan-hung-qua-doi-4740931.html) - 02:00 02/05/2024
+- 💂 [Trương Minh Cường: &#39;Tôi trắng tay sau khi sang Mỹ lập nghiệp&#39;](https://vnexpress.net/truong-minh-cuong-toi-trang-tay-sau-khi-sang-my-lap-nghiep-4739592.html) - 17:00 01/05/2024
+- 🙉 [Loạt phim Hollywood ra rạp Việt tháng 5](https://vnexpress.net/loat-phim-hollywood-ra-rap-viet-thang-5-4740715.html) - 13:00 01/05/2024
+- 💪 [Những tác phẩm được mong chờ tại LHP Cannes 2024](https://vnexpress.net/nhung-tac-pham-duoc-mong-cho-tai-lhp-cannes-2024-4740659.html) - 10:51 01/05/2024
+- 👍 [Nghệ sĩ Minh Châu: &#39;Tôi thích làm việc với đạo diễn trẻ&#39;](https://vnexpress.net/nghe-si-minh-chau-toi-thich-lam-viec-voi-dao-dien-tre-4740131.html) - 10:15 01/05/2024
 - 💪 [Làng quê, tín ngưỡng dân gian Bắc bộ qua tranh sơn dầu](https://vnexpress.net/lang-que-tin-nguong-dan-gian-bac-bo-qua-tranh-son-dau-4740729.html) - 08:49 01/05/2024
-- 👍 [Dàn sao Hàn &#39;biến sân bay thành sàn catwalk&#39;](https://vnexpress.net/dan-sao-han-bien-san-bay-thanh-san-catwalk-4730517.html) - 08:00 01/05/2024
-- 💪 [Sao &#39;Friends&#39; hối hận vì không làm mẹ tốt hơn](https://vnexpress.net/sao-friends-hoi-han-vi-khong-lam-me-tot-hon-4740669.html) - 07:23 01/05/2024
-- 💄 [Nét dịu dàng của phụ nữ Việt trong tranh Trần Hữu Dũng](https://vnexpress.net/net-diu-dang-cua-phu-nu-viet-trong-tranh-tran-huu-dung-4737201.html) - 07:09 01/05/2024
-- 🦩 [Cuộc sống Bella Hadid khi rút lui khỏi làng mẫu](https://vnexpress.net/cuoc-song-bella-hadid-khi-rut-lui-khoi-lang-mau-4740698.html) - 06:06 01/05/2024
+- 💄 [Dàn sao Hàn &#39;biến sân bay thành sàn catwalk&#39;](https://vnexpress.net/dan-sao-han-bien-san-bay-thanh-san-catwalk-4730517.html) - 08:00 01/05/2024
+- 🦩 [Sao &#39;Friends&#39; hối hận vì không làm mẹ tốt hơn](https://vnexpress.net/sao-friends-hoi-han-vi-khong-lam-me-tot-hon-4740669.html) - 07:23 01/05/2024
 - 🥸 [Taylor Swift thống trị các bảng xếp hạng âm nhạc](https://vnexpress.net/taylor-swift-thong-tri-cac-bang-xep-hang-am-nhac-4740685.html) - 04:22 01/05/2024
 - 🧰 [Tăng Hoa Thiên nhớ Lam Khiết Anh](https://vnexpress.net/tang-hoa-thien-nho-lam-khiet-anh-4740673.html) - 03:24 01/05/2024
 - 💼 [Gu mặc sơ mi tối giản của Đàm Thu Trang](https://vnexpress.net/gu-mac-so-mi-toi-gian-cua-dam-thu-trang-4740538.html) - 01:37 01/05/2024
