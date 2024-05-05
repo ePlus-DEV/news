@@ -4,63 +4,63 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cựu binh Pháp thăm Điện Biên Phủ](https://vnexpress.net/cuu-binh-phap-tham-dien-bien-phu-4742296.html) - 15:19 05/05/2024
-- 🤓 [Tai nạn liên hoàn, cao tốc Hà Nội - Lào Cai tê liệt](https://vnexpress.net/tai-nan-lien-hoan-cao-toc-ha-noi-lao-cai-te-liet-4742297.html) - 12:58 05/05/2024
-- ⚗️ [Thông xe cầu vượt thép nút Mai Dịch](https://vnexpress.net/thong-xe-cau-vuot-thep-nut-mai-dich-4742019.html) - 11:19 05/05/2024
-- 🌊 [Mưa và giông lốc ở Long An, TP HCM làm tốc mái, cây đổ](https://vnexpress.net/mua-va-giong-loc-o-long-an-tp-hcm-lam-toc-mai-cay-do-4742272.html) - 10:32 05/05/2024
-- 🎓 [Miền Bắc và Trung tuần tới mát mẻ](https://vnexpress.net/mien-bac-va-trung-tuan-toi-mat-me-4742259.html) - 09:58 05/05/2024
-- 🔥 [Xưởng mút xốp ở Hưng Yên cháy lớn](https://vnexpress.net/xuong-mut-xop-o-hung-yen-chay-lon-4742266.html) - 09:33 05/05/2024
-- 🦏 [Việt Nam - Pháp tăng cường hợp tác quốc phòng](https://vnexpress.net/viet-nam-phap-tang-cuong-hop-tac-quoc-phong-4742258.html) - 08:51 05/05/2024
-- 👺 [&#39;Có thể phát hành trái phiếu để làm Vành đai 4 TP HCM&#39;](https://vnexpress.net/co-the-phat-hanh-trai-phieu-de-lam-vanh-dai-4-tp-hcm-4742242.html) - 07:51 05/05/2024
-- 🧑‍🏫 [Tổng duyệt diễu binh, diễu hành 70 năm chiến thắng Điện Biên Phủ](https://vnexpress.net/tong-duyet-dieu-binh-dieu-hanh-70-nam-chien-thang-dien-bien-phu-4742230.html) - 06:03 05/05/2024
-- 🚦 [Cấm xe 50 ngày để sửa cầu trên quốc lộ 1 ở Quảng Ngãi](https://vnexpress.net/cam-xe-50-ngay-de-sua-cau-tren-quoc-lo-1-o-quang-ngai-4742172.html) - 03:41 05/05/2024
-- 🎉 [Trực thăng bay biểu diễn trên bầu trời Điện Biên](https://vnexpress.net/truc-thang-bay-bieu-dien-tren-bau-troi-dien-bien-4742000.html) - 02:27 05/05/2024
-- 🦒 [Hỗ trợ hơn 200 bệnh nhi có thêm cơ hội sống](https://vnexpress.net/ho-tro-hon-200-benh-nhi-co-them-co-hoi-song-4742115.html) - 01:59 05/05/2024
-- 🤗 [Những người &#39;canh lửa&#39; ở rừng U Minh Hạ](https://vnexpress.net/nguoi-giu-rung-u-minh-ha-4733499.html) - 00:46 05/05/2024
-- 💼 [Chiến địa Điện Biên Phủ sau 70 năm](https://vnexpress.net/chien-dia-dien-bien-phu-sau-70-nam-4736615.html) - 17:00 04/05/2024
-- 🤩 [Lập tổ công tác đốc thúc tiến độ đường sắt đô thị Hà Nội, TP HCM](https://vnexpress.net/lap-to-cong-tac-doc-thuc-tien-do-duong-sat-do-thi-ha-noi-tp-hcm-4742102.html) - 15:30 04/05/2024
-- 🤡 [Chiến sĩ Điện Biên viếng đồng đội ở Nghĩa trang A1](https://vnexpress.net/chien-si-dien-bien-vieng-dong-doi-o-nghia-trang-a1-4742082.html) - 14:26 04/05/2024
-- 💯 [Cấm nhiều tuyến đường dịp kỷ niệm 70 năm chiến thắng Điện Biên Phủ](https://vnexpress.net/cam-nhieu-tuyen-duong-dip-ky-niem-70-nam-chien-thang-dien-bien-phu-4742084.html) - 12:51 04/05/2024
-- 👺 [Lương tối thiểu của công chức &#39;không dưới 5 triệu đồng&#39;](https://vnexpress.net/luong-toi-thieu-cua-cong-chuc-khong-duoi-5-trieu-dong-4742047.html) - 12:32 04/05/2024
-- 🌮 [Hà Nội hủy kết quả 3 mỏ cát đấu giá xuyên đêm](https://vnexpress.net/ha-noi-huy-ket-qua-3-mo-cat-dau-gia-xuyen-dem-4742071.html) - 12:12 04/05/2024
-- 🥸 [Bà Trương Thị Mai: Sẽ thêm nguồn lực hỗ trợ đồng bào dân tộc thiểu số](https://vnexpress.net/ba-truong-thi-mai-se-them-nguon-luc-ho-tro-dong-bao-dan-toc-thieu-so-4742074.html) - 11:40 04/05/2024
-- 🐻 [Đông Nam Bộ sẽ có 850 km cao tốc vào năm 2030](https://vnexpress.net/dong-nam-bo-se-co-850-km-cao-toc-vao-nam-2030-4742067.html) - 11:03 04/05/2024
-- 👀 [Lò hơi nổ khiến 6 người chết chưa có giấy phép hoạt động](https://vnexpress.net/lo-hoi-no-khien-6-nguoi-chet-chua-co-giay-phep-hoat-dong-4742038.html) - 09:57 04/05/2024
-- 🤔 [Đề xuất Phó chủ tịch huyện được thuê chung cư công vụ 80 m2](https://vnexpress.net/de-xuat-pho-chu-tich-huyen-duoc-thue-chung-cu-cong-vu-80-m2-4741772.html) - 09:38 04/05/2024
-- 🕯 [Sạt lở bờ bao bùn thải ở bãi rác lớn nhất Hà Nội](https://vnexpress.net/sat-lo-bo-bao-bun-thai-o-bai-rac-lon-nhat-ha-noi-4741992.html) - 07:40 04/05/2024
-- 😺 [Thí điểm người đứng đầu giới thiệu nhân sự bổ nhiệm cấp phó](https://vnexpress.net/thi-diem-nguoi-dung-dau-gioi-thieu-nhan-su-bo-nhiem-cap-pho-4741976.html) - 06:24 04/05/2024
-- 🦆 [Cháy cửa hàng hoa, bé trai tử vong](https://vnexpress.net/chay-cua-hang-hoa-be-trai-tu-vong-4741948.html) - 06:04 04/05/2024
-- 🧰 [Di dời, đốn gần 100 cây xanh mở rộng đường vào Tân Sơn Nhất](https://vnexpress.net/di-doi-don-gan-100-cay-xanh-mo-rong-duong-vao-tan-son-nhat-4741979.html) - 05:52 04/05/2024
-- 🦍 [Nơi đấu trí với De Castries trong chiến dịch Điện Biên Phủ](https://vnexpress.net/noi-dau-tri-voi-de-castries-trong-chien-dich-dien-bien-phu-4736329.html) - 05:02 04/05/2024
-- 🧰 [Bộ trưởng Quốc phòng Pháp dự lễ kỷ niệm 70 năm chiến thắng Điện Biên Phủ](https://vnexpress.net/bo-truong-quoc-phong-phap-du-le-ky-niem-70-nam-chien-thang-dien-bien-phu-4741889.html) - 03:25 04/05/2024
-- 💃 [Siêu thị 0 đồng cho người dân vùng cao](https://vnexpress.net/sieu-thi-0-dong-cho-nguoi-dan-vung-cao-4741782.html) - 01:40 04/05/2024
-- 🧰 [Biến thủy tinh thành tranh nghệ thuật](https://vnexpress.net/bien-thuy-tinh-thanh-tranh-nghe-thuat-4741741.html) - 23:00 03/05/2024
-- 🚀 [Phà ngang sông Hậu ngưng hoạt động, dân phải đi vòng 15 km](https://vnexpress.net/pha-ngang-song-hau-ngung-hoat-dong-dan-phai-di-vong-15-km-4741634.html) - 22:00 03/05/2024
-- 🎊 [Tôm hùm ở Khánh Hòa chết hàng loạt do nhiễm khuẩn](https://vnexpress.net/tom-hum-o-khanh-hoa-chet-hang-loat-do-nhiem-khuan-4741760.html) - 17:00 03/05/2024
-- 🤭 [Vì sao &#39;đội quân chân đất&#39; đánh bại Pháp ở Điện Biên Phủ?](https://vnexpress.net/vi-sao-doi-quan-chan-dat-danh-bai-phap-o-dien-bien-phu-4730385.html) - 17:00 03/05/2024
-- 🤗 [Đề xuất in mã QR trên giấy chứng nhận quyền sử dụng đất](https://vnexpress.net/de-xuat-in-ma-qr-tren-giay-chung-nhan-quyen-su-dung-dat-4741781.html) - 15:57 03/05/2024
-- 🌈 [Chủ tịch TP HCM: &#39;Gói thầu của Thuận An phải được báo cáo tiến độ hàng ngày&#39;](https://vnexpress.net/chu-tich-tp-hcm-goi-thau-cua-thuan-an-phai-duoc-bao-cao-tien-do-hang-ngay-4741747.html) - 12:06 03/05/2024
-- 🦣 [Đề xuất chi hơn 122.000 tỷ đồng phát triển văn hóa](https://vnexpress.net/de-xuat-chi-hon-122-000-ty-dong-phat-trien-van-hoa-4741569.html) - 09:47 03/05/2024
-- 🎡 [TP HCM và Đồng Nai mưa lớn](https://vnexpress.net/tp-hcm-va-dong-nai-mua-lon-4741694.html) - 09:28 03/05/2024
-- 🦏 [Người dân đổ ra biển nhặt sò huyết dạt bờ](https://vnexpress.net/nguoi-dan-do-ra-bien-nhat-so-huyet-dat-bo-4741664.html) - 09:19 03/05/2024
-- 🎊 [Chỉ thực hiện dịch vụ công trực tuyến trên VNeID từ 1/7](https://vnexpress.net/chi-thuc-hien-dich-vu-cong-truc-tuyen-tren-vneid-tu-1-7-4741599.html) - 09:15 03/05/2024
-- 🫶 [Rà soát việc giá vé máy bay tăng cao](https://vnexpress.net/ra-soat-viec-gia-ve-may-bay-tang-cao-4741627.html) - 08:55 03/05/2024
-- 🤔 [Đề xuất mở rộng ngay cao tốc TP HCM - Long Thành lên 10 làn xe](https://vnexpress.net/de-xuat-mo-rong-ngay-cao-toc-tp-hcm-long-thanh-len-10-lan-xe-4741577.html) - 08:29 03/05/2024
-- 🤠 [Nhân viên thu phí xa lộ Hà Nội bị xe container tông tử vong](https://vnexpress.net/nhan-vien-thu-phi-xa-lo-ha-noi-bi-xe-container-tong-tu-vong-4741626.html) - 08:13 03/05/2024
-- 🌜 [Đưa vào sử dụng 31 cầu Hy vọng ở miền Tây](https://vnexpress.net/dua-vao-su-dung-31-cau-hy-vong-o-mien-tay-4741572.html) - 07:11 03/05/2024
-- 🕯 [Chìm thuyền câu mực, hai ngư dân mất tích](https://vnexpress.net/chim-thuyen-cau-muc-hai-ngu-dan-mat-tich-4741551.html) - 07:02 03/05/2024
-- 🤔 [Nghệ thuật bố trí trận địa trong chiến dịch Điện Biên Phủ](https://vnexpress.net/nghe-thuat-bo-tri-tran-dia-trong-chien-dich-dien-bien-phu-4737778.html) - 21:00 02/05/2024
-- 🏊 [Lo ngại thiếu nước sinh hoạt, Hà Nội tăng khai thác nước ngầm](https://vnexpress.net/lo-ngai-thieu-nuoc-sinh-hoat-ha-noi-tang-khai-thac-nuoc-ngam-4741332.html) - 17:24 02/05/2024
-- 🌮 [Mức phí dự kiến ở cao tốc Cam Lâm tới Vĩnh Hảo 130.000-497.000 đồng](https://vnexpress.net/muc-phi-du-kien-o-cao-toc-cam-lam-toi-vinh-hao-130-000-497-000-dong-4741331.html) - 17:00 02/05/2024
-- 🫣 [Thương lái thu mua xác ve sầu tiền triệu một kg](https://vnexpress.net/thuong-lai-thu-mua-xac-ve-sau-tien-trieu-mot-kg-4738501.html) - 17:00 02/05/2024
-- ⚗️ [200 tấn cá chết ở hồ thuỷ lợi tại Đồng Nai đã được dọn](https://vnexpress.net/200-tan-ca-chet-o-ho-thuy-loi-tai-dong-nai-da-duoc-don-4741312.html) - 13:00 02/05/2024
-- 🌜 [Ông Trần Thanh Mẫn điều hành Quốc hội](https://vnexpress.net/ong-tran-thanh-man-dieu-hanh-quoc-hoi-4741272.html) - 10:48 02/05/2024
-- 🌁 [Bí thư Bắc Giang bị bãi nhiệm đại biểu Quốc hội](https://vnexpress.net/bi-thu-bac-giang-bi-bai-nhiem-dai-bieu-quoc-hoi-4741078.html) - 10:31 02/05/2024
-- 🐲 [Ông Vương Đình Huệ rời ghế Chủ tịch Quốc hội](https://vnexpress.net/ong-vuong-dinh-hue-roi-ghe-chu-tich-quoc-hoi-4740779.html) - 10:31 02/05/2024
-- ⛽️ [Đường ven biển hơn 3.700 tỷ đồng dang dở](https://vnexpress.net/duong-ven-bien-hon-3-700-ty-dong-dang-do-4741101.html) - 09:46 02/05/2024
-- 🗽 [110 kỷ lục nhiệt độ trong tháng 4](https://vnexpress.net/110-ky-luc-nhiet-do-trong-thang-4-4741022.html) - 05:09 02/05/2024
-- 🔥 [TP HCM thu hồi dự án nhà thi đấu Phan Đình Phùng](https://vnexpress.net/tp-hcm-thu-hoi-du-an-nha-thi-dau-phan-dinh-phung-4740981.html) - 02:57 02/05/2024
-- 💯 [TP HCM có mưa](https://vnexpress.net/tp-hcm-co-mua-4740928.html) - 02:21 02/05/2024
-- 🦆 [Cổng nhà đổ đè chết bé trai](https://vnexpress.net/cong-nha-do-de-chet-be-trai-4740939.html) - 02:21 02/05/2024
-- 🫣 [&#39;Vòng vây lửa&#39; trên chiến hào Điện Biên Phủ](https://vnexpress.net/vong-vay-lua-tren-chien-hao-dien-bien-phu-4738667.html) - 22:00 01/05/2024
-- 🤡 [Mưa đá to bằng quả trứng đổ xuống Nghệ An](https://vnexpress.net/mua-da-to-bang-qua-trung-do-xuong-nghe-an-4740814.html) - 16:06 01/05/2024<!-- vnexpress-thoi-su:END -->
+- 🦒 [Cuộc sống chiến sĩ Điện Biên 70 năm sau giải phóng](https://vnexpress.net/cuoc-song-chien-si-dien-bien-70-nam-sau-giai-phong-4738707.html) - 17:00 05/05/2024
+- 🤓 [Cựu binh Pháp thăm Điện Biên Phủ](https://vnexpress.net/cuu-binh-phap-tham-dien-bien-phu-4742296.html) - 15:19 05/05/2024
+- ⚗️ [Tai nạn liên hoàn, cao tốc Hà Nội - Lào Cai tê liệt](https://vnexpress.net/tai-nan-lien-hoan-cao-toc-ha-noi-lao-cai-te-liet-4742297.html) - 12:58 05/05/2024
+- 🌊 [Thông xe cầu vượt thép nút Mai Dịch](https://vnexpress.net/thong-xe-cau-vuot-thep-nut-mai-dich-4742019.html) - 11:19 05/05/2024
+- 🎓 [Mưa và giông lốc ở Long An, TP HCM làm tốc mái, cây đổ](https://vnexpress.net/mua-va-giong-loc-o-long-an-tp-hcm-lam-toc-mai-cay-do-4742272.html) - 10:32 05/05/2024
+- 🔥 [Miền Bắc và Trung tuần tới mát mẻ](https://vnexpress.net/mien-bac-va-trung-tuan-toi-mat-me-4742259.html) - 09:58 05/05/2024
+- 🦏 [Xưởng mút xốp ở Hưng Yên cháy lớn](https://vnexpress.net/xuong-mut-xop-o-hung-yen-chay-lon-4742266.html) - 09:33 05/05/2024
+- 👺 [Việt Nam - Pháp tăng cường hợp tác quốc phòng](https://vnexpress.net/viet-nam-phap-tang-cuong-hop-tac-quoc-phong-4742258.html) - 08:51 05/05/2024
+- 🧑‍🏫 [&#39;Có thể phát hành trái phiếu để làm Vành đai 4 TP HCM&#39;](https://vnexpress.net/co-the-phat-hanh-trai-phieu-de-lam-vanh-dai-4-tp-hcm-4742242.html) - 07:51 05/05/2024
+- 🚦 [Tổng duyệt diễu binh, diễu hành 70 năm chiến thắng Điện Biên Phủ](https://vnexpress.net/tong-duyet-dieu-binh-dieu-hanh-70-nam-chien-thang-dien-bien-phu-4742230.html) - 06:03 05/05/2024
+- 🎉 [Cấm xe 50 ngày để sửa cầu trên quốc lộ 1 ở Quảng Ngãi](https://vnexpress.net/cam-xe-50-ngay-de-sua-cau-tren-quoc-lo-1-o-quang-ngai-4742172.html) - 03:41 05/05/2024
+- 🦒 [Trực thăng bay biểu diễn trên bầu trời Điện Biên](https://vnexpress.net/truc-thang-bay-bieu-dien-tren-bau-troi-dien-bien-4742000.html) - 02:27 05/05/2024
+- 🤗 [Hỗ trợ hơn 200 bệnh nhi có thêm cơ hội sống](https://vnexpress.net/ho-tro-hon-200-benh-nhi-co-them-co-hoi-song-4742115.html) - 01:59 05/05/2024
+- 💼 [Những người &#39;canh lửa&#39; ở rừng U Minh Hạ](https://vnexpress.net/nguoi-giu-rung-u-minh-ha-4733499.html) - 00:46 05/05/2024
+- 🤩 [Chiến địa Điện Biên Phủ sau 70 năm](https://vnexpress.net/chien-dia-dien-bien-phu-sau-70-nam-4736615.html) - 17:00 04/05/2024
+- 🤡 [Lập tổ công tác đốc thúc tiến độ đường sắt đô thị Hà Nội, TP HCM](https://vnexpress.net/lap-to-cong-tac-doc-thuc-tien-do-duong-sat-do-thi-ha-noi-tp-hcm-4742102.html) - 15:30 04/05/2024
+- 💯 [Chiến sĩ Điện Biên viếng đồng đội ở Nghĩa trang A1](https://vnexpress.net/chien-si-dien-bien-vieng-dong-doi-o-nghia-trang-a1-4742082.html) - 14:26 04/05/2024
+- 👺 [Cấm nhiều tuyến đường dịp kỷ niệm 70 năm chiến thắng Điện Biên Phủ](https://vnexpress.net/cam-nhieu-tuyen-duong-dip-ky-niem-70-nam-chien-thang-dien-bien-phu-4742084.html) - 12:51 04/05/2024
+- 🌮 [Lương tối thiểu của công chức &#39;không dưới 5 triệu đồng&#39;](https://vnexpress.net/luong-toi-thieu-cua-cong-chuc-khong-duoi-5-trieu-dong-4742047.html) - 12:32 04/05/2024
+- 🥸 [Hà Nội hủy kết quả 3 mỏ cát đấu giá xuyên đêm](https://vnexpress.net/ha-noi-huy-ket-qua-3-mo-cat-dau-gia-xuyen-dem-4742071.html) - 12:12 04/05/2024
+- 🐻 [Bà Trương Thị Mai: Sẽ thêm nguồn lực hỗ trợ đồng bào dân tộc thiểu số](https://vnexpress.net/ba-truong-thi-mai-se-them-nguon-luc-ho-tro-dong-bao-dan-toc-thieu-so-4742074.html) - 11:40 04/05/2024
+- 👀 [Đông Nam Bộ sẽ có 850 km cao tốc vào năm 2030](https://vnexpress.net/dong-nam-bo-se-co-850-km-cao-toc-vao-nam-2030-4742067.html) - 11:03 04/05/2024
+- 🤔 [Lò hơi nổ khiến 6 người chết chưa có giấy phép hoạt động](https://vnexpress.net/lo-hoi-no-khien-6-nguoi-chet-chua-co-giay-phep-hoat-dong-4742038.html) - 09:57 04/05/2024
+- 🕯 [Đề xuất Phó chủ tịch huyện được thuê chung cư công vụ 80 m2](https://vnexpress.net/de-xuat-pho-chu-tich-huyen-duoc-thue-chung-cu-cong-vu-80-m2-4741772.html) - 09:38 04/05/2024
+- 😺 [Sạt lở bờ bao bùn thải ở bãi rác lớn nhất Hà Nội](https://vnexpress.net/sat-lo-bo-bao-bun-thai-o-bai-rac-lon-nhat-ha-noi-4741992.html) - 07:40 04/05/2024
+- 🦆 [Thí điểm người đứng đầu giới thiệu nhân sự bổ nhiệm cấp phó](https://vnexpress.net/thi-diem-nguoi-dung-dau-gioi-thieu-nhan-su-bo-nhiem-cap-pho-4741976.html) - 06:24 04/05/2024
+- 🧰 [Cháy cửa hàng hoa, bé trai tử vong](https://vnexpress.net/chay-cua-hang-hoa-be-trai-tu-vong-4741948.html) - 06:04 04/05/2024
+- 🦍 [Di dời, đốn gần 100 cây xanh mở rộng đường vào Tân Sơn Nhất](https://vnexpress.net/di-doi-don-gan-100-cay-xanh-mo-rong-duong-vao-tan-son-nhat-4741979.html) - 05:52 04/05/2024
+- 🧰 [Nơi đấu trí với De Castries trong chiến dịch Điện Biên Phủ](https://vnexpress.net/noi-dau-tri-voi-de-castries-trong-chien-dich-dien-bien-phu-4736329.html) - 05:02 04/05/2024
+- 💃 [Bộ trưởng Quốc phòng Pháp dự lễ kỷ niệm 70 năm chiến thắng Điện Biên Phủ](https://vnexpress.net/bo-truong-quoc-phong-phap-du-le-ky-niem-70-nam-chien-thang-dien-bien-phu-4741889.html) - 03:25 04/05/2024
+- 🧰 [Siêu thị 0 đồng cho người dân vùng cao](https://vnexpress.net/sieu-thi-0-dong-cho-nguoi-dan-vung-cao-4741782.html) - 01:40 04/05/2024
+- 🚀 [Biến thủy tinh thành tranh nghệ thuật](https://vnexpress.net/bien-thuy-tinh-thanh-tranh-nghe-thuat-4741741.html) - 23:00 03/05/2024
+- 🎊 [Phà ngang sông Hậu ngưng hoạt động, dân phải đi vòng 15 km](https://vnexpress.net/pha-ngang-song-hau-ngung-hoat-dong-dan-phai-di-vong-15-km-4741634.html) - 22:00 03/05/2024
+- 🤭 [Tôm hùm ở Khánh Hòa chết hàng loạt do nhiễm khuẩn](https://vnexpress.net/tom-hum-o-khanh-hoa-chet-hang-loat-do-nhiem-khuan-4741760.html) - 17:00 03/05/2024
+- 🤗 [Vì sao &#39;đội quân chân đất&#39; đánh bại Pháp ở Điện Biên Phủ?](https://vnexpress.net/vi-sao-doi-quan-chan-dat-danh-bai-phap-o-dien-bien-phu-4730385.html) - 17:00 03/05/2024
+- 🌈 [Đề xuất in mã QR trên giấy chứng nhận quyền sử dụng đất](https://vnexpress.net/de-xuat-in-ma-qr-tren-giay-chung-nhan-quyen-su-dung-dat-4741781.html) - 15:57 03/05/2024
+- 🦣 [Chủ tịch TP HCM: &#39;Gói thầu của Thuận An phải được báo cáo tiến độ hàng ngày&#39;](https://vnexpress.net/chu-tich-tp-hcm-goi-thau-cua-thuan-an-phai-duoc-bao-cao-tien-do-hang-ngay-4741747.html) - 12:06 03/05/2024
+- 🎡 [Đề xuất chi hơn 122.000 tỷ đồng phát triển văn hóa](https://vnexpress.net/de-xuat-chi-hon-122-000-ty-dong-phat-trien-van-hoa-4741569.html) - 09:47 03/05/2024
+- 🦏 [TP HCM và Đồng Nai mưa lớn](https://vnexpress.net/tp-hcm-va-dong-nai-mua-lon-4741694.html) - 09:28 03/05/2024
+- 🎊 [Người dân đổ ra biển nhặt sò huyết dạt bờ](https://vnexpress.net/nguoi-dan-do-ra-bien-nhat-so-huyet-dat-bo-4741664.html) - 09:19 03/05/2024
+- 🫶 [Chỉ thực hiện dịch vụ công trực tuyến trên VNeID từ 1/7](https://vnexpress.net/chi-thuc-hien-dich-vu-cong-truc-tuyen-tren-vneid-tu-1-7-4741599.html) - 09:15 03/05/2024
+- 🤔 [Rà soát việc giá vé máy bay tăng cao](https://vnexpress.net/ra-soat-viec-gia-ve-may-bay-tang-cao-4741627.html) - 08:55 03/05/2024
+- 🤠 [Đề xuất mở rộng ngay cao tốc TP HCM - Long Thành lên 10 làn xe](https://vnexpress.net/de-xuat-mo-rong-ngay-cao-toc-tp-hcm-long-thanh-len-10-lan-xe-4741577.html) - 08:29 03/05/2024
+- 🌜 [Nhân viên thu phí xa lộ Hà Nội bị xe container tông tử vong](https://vnexpress.net/nhan-vien-thu-phi-xa-lo-ha-noi-bi-xe-container-tong-tu-vong-4741626.html) - 08:13 03/05/2024
+- 🕯 [Đưa vào sử dụng 31 cầu Hy vọng ở miền Tây](https://vnexpress.net/dua-vao-su-dung-31-cau-hy-vong-o-mien-tay-4741572.html) - 07:11 03/05/2024
+- 🤔 [Chìm thuyền câu mực, hai ngư dân mất tích](https://vnexpress.net/chim-thuyen-cau-muc-hai-ngu-dan-mat-tich-4741551.html) - 07:02 03/05/2024
+- 🏊 [Nghệ thuật bố trí trận địa trong chiến dịch Điện Biên Phủ](https://vnexpress.net/nghe-thuat-bo-tri-tran-dia-trong-chien-dich-dien-bien-phu-4737778.html) - 21:00 02/05/2024
+- 🌮 [Lo ngại thiếu nước sinh hoạt, Hà Nội tăng khai thác nước ngầm](https://vnexpress.net/lo-ngai-thieu-nuoc-sinh-hoat-ha-noi-tang-khai-thac-nuoc-ngam-4741332.html) - 17:24 02/05/2024
+- 🫣 [Mức phí dự kiến ở cao tốc Cam Lâm tới Vĩnh Hảo 130.000-497.000 đồng](https://vnexpress.net/muc-phi-du-kien-o-cao-toc-cam-lam-toi-vinh-hao-130-000-497-000-dong-4741331.html) - 17:00 02/05/2024
+- ⚗️ [Thương lái thu mua xác ve sầu tiền triệu một kg](https://vnexpress.net/thuong-lai-thu-mua-xac-ve-sau-tien-trieu-mot-kg-4738501.html) - 17:00 02/05/2024
+- 🌜 [200 tấn cá chết ở hồ thuỷ lợi tại Đồng Nai đã được dọn](https://vnexpress.net/200-tan-ca-chet-o-ho-thuy-loi-tai-dong-nai-da-duoc-don-4741312.html) - 13:00 02/05/2024
+- 🌁 [Ông Trần Thanh Mẫn điều hành Quốc hội](https://vnexpress.net/ong-tran-thanh-man-dieu-hanh-quoc-hoi-4741272.html) - 10:48 02/05/2024
+- 🐲 [Bí thư Bắc Giang bị bãi nhiệm đại biểu Quốc hội](https://vnexpress.net/bi-thu-bac-giang-bi-bai-nhiem-dai-bieu-quoc-hoi-4741078.html) - 10:31 02/05/2024
+- ⛽️ [Ông Vương Đình Huệ rời ghế Chủ tịch Quốc hội](https://vnexpress.net/ong-vuong-dinh-hue-roi-ghe-chu-tich-quoc-hoi-4740779.html) - 10:31 02/05/2024
+- 🗽 [Đường ven biển hơn 3.700 tỷ đồng dang dở](https://vnexpress.net/duong-ven-bien-hon-3-700-ty-dong-dang-do-4741101.html) - 09:46 02/05/2024
+- 🔥 [110 kỷ lục nhiệt độ trong tháng 4](https://vnexpress.net/110-ky-luc-nhiet-do-trong-thang-4-4741022.html) - 05:09 02/05/2024
+- 💯 [TP HCM thu hồi dự án nhà thi đấu Phan Đình Phùng](https://vnexpress.net/tp-hcm-thu-hoi-du-an-nha-thi-dau-phan-dinh-phung-4740981.html) - 02:57 02/05/2024
+- 🦆 [TP HCM có mưa](https://vnexpress.net/tp-hcm-co-mua-4740928.html) - 02:21 02/05/2024
+- 🫣 [Cổng nhà đổ đè chết bé trai](https://vnexpress.net/cong-nha-do-de-chet-be-trai-4740939.html) - 02:21 02/05/2024
+- 🤡 [&#39;Vòng vây lửa&#39; trên chiến hào Điện Biên Phủ](https://vnexpress.net/vong-vay-lua-tren-chien-hao-dien-bien-phu-4738667.html) - 22:00 01/05/2024<!-- vnexpress-thoi-su:END -->
