@@ -5,7 +5,7 @@ sidebar_position: 9
 
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Cựu binh Pháp thăm Điện Biên Phủ](https://vnexpress.net/cuu-binh-phap-tham-dien-bien-phu-4742296.html) - 15:19 05/05/2024
-- 🐎 [Chelsea tiếp tục thăng hoa](https://vnexpress.net/chelsea-tiep-tuc-thang-hoa-4742337.html) - 15:04 05/05/2024
+- 🐎 [Chelsea vượt mặt Man Utd](https://vnexpress.net/chelsea-vuot-mat-man-utd-4742337.html) - 15:04 05/05/2024
 - 🦍 [Nguyễn Thị Oanh giành cú đúp HC vàng tại Hong Kong](https://vnexpress.net/nguyen-thi-oanh-gianh-cu-dup-hc-vang-tai-hong-kong-4742321.html) - 14:57 05/05/2024
 - 🏊 [HAGL thắng Thể Công trước tân HLV tuyển Việt Nam](https://vnexpress.net/hagl-thang-the-cong-truoc-tan-hlv-tuyen-viet-nam-4742327.html) - 14:51 05/05/2024
 - 🎊 [Đâm xe vào cổng Nhà Trắng, tài xế thiệt mạng](https://vnexpress.net/dam-xe-vao-cong-nha-trang-tai-xe-thiet-mang-4742295.html) - 14:43 05/05/2024
