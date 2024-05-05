@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Trung Quốc tổ chức thi đại học với sinh viên quốc tế](https://vnexpress.net/trung-quoc-to-chuc-thi-dai-hoc-voi-sinh-vien-quoc-te-4741988.html) - 04:00 05/05/2024
+- 🤓 [Nhiều đại học Trung Quốc bất ngờ yêu cầu du học sinh thi đầu vào](https://vnexpress.net/nhieu-dai-hoc-trung-quoc-bat-ngo-yeu-cau-du-hoc-sinh-thi-dau-vao-4741988.html) - 04:00 05/05/2024
 - 🦆 [​&#39;Nên khuyến khích trẻ mắc lỗi để học tư duy sáng tạo&#39;](https://vnexpress.net/nen-khuyen-khich-tre-mac-loi-de-hoc-tu-duy-sang-tao-4737544.html) - 02:00 05/05/2024
 - 🦩 [Thủ khoa chuyên Lý đỗ hai đại học top đầu Singapore](https://vnexpress.net/thu-khoa-chuyen-ly-do-hai-dai-hoc-top-dau-singapore-4741652.html) - 23:00 04/05/2024
 - 🌮 [Anh giảm sức hút với du học sinh](https://vnexpress.net/anh-giam-suc-hut-voi-du-hoc-sinh-4742116.html) - 17:00 04/05/2024
