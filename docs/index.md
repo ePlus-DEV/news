@@ -257,7 +257,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥷 [Lộ diện dàn trợ lý của HLV Kim Sang-sik](https://nld.com.vn/lo-dien-dan-tro-ly-cua-hlv-kim-sang-sik-196240505182052367.htm) - 11:24 05/05/2024
 - 🤔 [Hàng trăm người tìm kiếm bé trai 8 tuổi ở Đồng Nai nhưng chưa có kết quả](https://nld.com.vn/hang-tram-nguoi-tim-kiem-be-trai-8-tuoi-o-dong-nai-nhung-chua-co-ket-qua-196240505175343382.htm) - 11:20 05/05/2024
 - 🌈 [Đoàn viên, lao động Duy Xuyên tươi cười hiến máu cứu người](https://nld.com.vn/doan-vien-lao-dong-duy-xuyen-tuoi-cuoi-hien-mau-cuu-nguoi-196240505154755748.htm) - 11:01 05/05/2024
-- 🔥 [VIDEO: Khách Tây làm gốm Bát Tràng tại TP HCM](https://phunu.nld.com.vn/video-khach-tay-lam-gom-bat-trang-tai-tp-hcm-196240505170134786.htm) - 11:00 05/05/2024
+- 🔥 [VIDEO: Khách Tây làm gốm Bát Tràng tại TP HCM](https://nld.com.vn/video-khach-tay-lam-gom-bat-trang-tai-tp-hcm-196240505170134786.htm) - 11:00 05/05/2024
 - 🧰 [Thủ tướng Phạm Minh Chính: Tây Ninh hội tụ thiên thời, địa lợi, nhân hòa!](https://nld.com.vn/thu-tuong-pham-minh-chinh-tay-ninh-hoi-tu-thien-thoi-dia-loi-nhan-hoa-196240504083954491.htm) - 10:56 05/05/2024
 - 🤗 [Doanh nghiệp than khó, lãnh đạo tỉnh Lâm Đồng chỉ đạo gì?](https://nld.com.vn/doanh-nghiep-than-kho-lanh-dao-tinh-lam-dong-chi-dao-gi-196240505165723517.htm) - 10:53 05/05/2024
 - 🦅 [Người đẹp đi thi hoa hậu bằng xe cứu thương, nằm trong quan tài](https://nld.com.vn/nguoi-dep-di-thi-hoa-hau-bang-xe-cuu-thuong-nam-trong-quan-tai-196240505155341156.htm) - 09:29 05/05/2024
