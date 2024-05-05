@@ -14,7 +14,7 @@ sidebar_position: 10
 - 👀 [Tại sao nam giới đã có con vẫn vô sinh?](https://vnexpress.net/tai-sao-nam-gioi-da-co-con-van-vo-sinh-4742113.html) - 01:00 05/05/2024
 - 🌋 [Biến chứng nguy hiểm của viêm ruột mạn tính](https://vnexpress.net/bien-chung-nguy-hiem-cua-viem-ruot-man-tinh-4742053.html) - 01:00 05/05/2024
 - 🫶 [5 trái cây có màu vàng người tiểu đường nên hạn chế](https://vnexpress.net/5-trai-cay-co-mau-vang-nguoi-tieu-duong-nen-han-che-4742040.html) - 00:23 05/05/2024
-- 🦆 [Giải mã tác dụng phụ gây đông máu của vaccine Covid-19 AstraZeneca](https://vnexpress.net/giai-ma-tac-dung-phu-gay-dong-mau-cua-vaccine-covid-19-astrazeneca-4742085.html) - 00:00 05/05/2024
+- 🦆 [Hội chứng gây đông máu giảm tiểu cầu](https://vnexpress.net/hoi-chung-gay-dong-mau-giam-tieu-cau-4742085.html) - 00:00 05/05/2024
 - 🚀 [Chìa khóa trường thọ của người dân Vùng Xanh](https://vnexpress.net/chia-khoa-truong-tho-cua-nguoi-dan-vung-xanh-4741939.html) - 23:00 04/05/2024
 - 🌜 [3 bí quyết chăm sóc sức khỏe đường ruột từ chuyên gia Oxford](https://vnexpress.net/3-bi-quyet-cham-soc-suc-khoe-duong-ruot-tu-chuyen-gia-oxford-4741756.html) - 22:02 04/05/2024
 - 🧰 [Trẻ bị sốt có nên nằm điều hòa?](https://vnexpress.net/tre-bi-sot-co-nen-nam-dieu-hoa-4741876.html) - 17:03 04/05/2024
