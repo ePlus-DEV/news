@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Tổng thống Macron: Châu Âu &#39;cần&#39; Trung Quốc](https://vnexpress.net/tong-thong-macron-chau-au-can-trung-quoc-4742300.html) - 13:23 05/05/2024
-- 🕴 [Việt Nam đề nghị Campuchia đánh giá đầy đủ tác động của dự án kênh Funam Techo](https://vnexpress.net/viet-nam-de-nghi-campuchia-danh-gia-day-du-tac-dong-cua-du-an-kenh-funam-techo-4742303.html) - 13:19 05/05/2024
+- 🕴 [Việt Nam đề nghị Campuchia đánh giá đầy đủ tác động của dự án kênh Funan Techo](https://vnexpress.net/viet-nam-de-nghi-campuchia-danh-gia-day-du-tac-dong-cua-du-an-kenh-funan-techo-4742303.html) - 13:19 05/05/2024
 - 🤭 [Tổng lãnh sự Afghanistan bị nghi buôn lậu 25 kg vàng](https://vnexpress.net/tong-lanh-su-afghanistan-bi-nghi-buon-lau-25-kg-vang-4742285.html) - 12:03 05/05/2024
 - 🧑‍💻 [Người Israel bất bình vì làn sóng biểu tình phản chiến ở Mỹ](https://vnexpress.net/nguoi-israel-bat-binh-vi-lan-song-bieu-tinh-phan-chien-o-my-4742001.html) - 12:00 05/05/2024
 - 🦏 [Hạ tầng năng lượng Ukraine thiệt hại hơn một tỷ USD vì Nga tập kích](https://vnexpress.net/ha-tang-nang-luong-ukraine-thiet-hai-hon-mot-ty-usd-vi-nga-tap-kich-4742292.html) - 11:57 05/05/2024
