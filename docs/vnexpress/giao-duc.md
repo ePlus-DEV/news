@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nam sinh đỗ học bổng hai đại học danh tiếng Singapore](https://vnexpress.net/nam-sinh-do-hoc-bong-hai-dai-hoc-danh-tieng-singapore-4741652.html) - 23:00 04/05/2024
+- 🤓 [Thủ khoa chuyên Lý đỗ học bổng chính phủ Singapore](https://vnexpress.net/thu-khoa-chuyen-ly-do-hoc-bong-chinh-phu-singapore-4741652.html) - 23:00 04/05/2024
 - 🦆 [Nhu cầu xin thị thực du học Anh giảm](https://vnexpress.net/nhu-cau-xin-thi-thuc-du-hoc-anh-giam-4742116.html) - 17:00 04/05/2024
 - 🦩 [Con trai học tốt khối C và tiếng Anh nên thi ngành gì?](https://vnexpress.net/con-trai-hoc-tot-khoi-c-va-tieng-anh-nen-thi-nganh-gi-4740721.html) - 16:59 04/05/2024
 - 🌮 [Nhà thơ nào từng làm Phó Thủ tướng?](https://vnexpress.net/nha-tho-nao-tung-lam-pho-thu-tuong-4742042.html) - 13:00 04/05/2024
