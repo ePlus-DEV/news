@@ -210,7 +210,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Xem trực tiếp Lễ kỷ niệm, diễu binh, diễu hành 70 năm Chiến thắng Điện Biên Phủ trên kênh nào?](https://laodong.vn/van-hoa-giai-tri/xem-truc-tiep-le-ky-niem-dieu-binh-dieu-hanh-70-nam-chien-thang-dien-bien-phu-tren-kenh-nao-1336729.ldo) - 16:51 06/05/2024
+- 🗽 [Xem trực tiếp diễu binh, diễu hành, Lễ kỷ niệm 70 năm Chiến thắng Điện Biên Phủ trên kênh nào?](https://laodong.vn/van-hoa-giai-tri/xem-truc-tiep-dieu-binh-dieu-hanh-le-ky-niem-70-nam-chien-thang-dien-bien-phu-tren-kenh-nao-1336729.ldo) - 16:51 06/05/2024
 - 📝 [Thủ tướng Phạm Minh Chính dâng hương các Anh hùng liệt sĩ tại Điện Biên Phủ](https://laodong.vn/thoi-su/thu-tuong-pham-minh-chinh-dang-huong-cac-anh-hung-liet-si-tai-dien-bien-phu-1336721.ldo) - 16:12 06/05/2024
 - 🦏 [Danh tính các nạn nhân vụ sạt lở lán công trình đường dây 500KV mạch 3 tại Hà Tĩnh](https://laodong.vn/xa-hoi/danh-tinh-cac-nan-nhan-vu-sat-lo-lan-cong-trinh-duong-day-500kv-mach-3-tai-ha-tinh-1336728.ldo) - 16:03 06/05/2024
 - 🦩 [Nghiên cứu, phát triển mô hình nhà trẻ cho con em công nhân lao động](https://laodong.vn/cong-doan/nghien-cuu-phat-trien-mo-hinh-nha-tre-cho-con-em-cong-nhan-lao-dong-1336720.ldo) - 15:39 06/05/2024
