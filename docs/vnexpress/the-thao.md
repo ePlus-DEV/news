@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Tân HLV tuyển Việt Nam Kim Sang-sik ra mắt](https://vnexpress.net/tan-hlv-tuyen-viet-nam-kim-sang-sik-ra-mat-4742573.html) - 07:01 06/05/2024
+- 🪜 [HLV Kim Sang-sik nóng lòng bắt đầu công việc ở Việt Nam](https://vnexpress.net/tan-hlv-tuyen-viet-nam-kim-sang-sik-ra-mat-4742573.html) - 07:01 06/05/2024
 - 🦩 [Giải bán marathon trao đồng giải nhất](https://vnexpress.net/giai-ban-marathon-trao-dong-giai-nhat-4742560.html) - 06:53 06/05/2024
 - 🧰 [Cơ thủ Mỹ: &#39;Quốc Hoàng xứng đáng vô địch&#39;](https://vnexpress.net/co-thu-my-quoc-hoang-xung-dang-vo-dich-4742475.html) - 06:52 06/05/2024
 - 🤗 [Norris đánh bại Verstappen trên đường đua Miami](https://vnexpress.net/norris-danh-bai-verstappen-tren-duong-dua-miami-4742539.html) - 04:20 06/05/2024
