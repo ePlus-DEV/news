@@ -10,7 +10,7 @@ sidebar_position: 5
 - 🤗 [Tuyển thủ Malaysia bị tạt axit](https://vnexpress.net/tuyen-thu-malaysia-bi-tat-axit-4742314.html) - 01:21 06/05/2024
 - 🥳 [Cơ thủ Quyết Chiến thắng ngược khó tin](https://vnexpress.net/co-thu-quyet-chien-thang-nguoc-kho-tin-4742376.html) - 00:56 06/05/2024
 - 🦣 [Roy Keane: &#39;Haaland như đứa trẻ hư hỏng&#39;](https://vnexpress.net/roy-keane-haaland-nhu-dua-tre-hu-hong-4742372.html) - 00:54 06/05/2024
-- 🌜 [Cơ thủ Quốc Hoàng vô địch Scottish Open](https://vnexpress.net/co-thu-quoc-hoang-vo-dich-scottish-open-4742366.html) - 00:25 06/05/2024
+- 🌜 [Cơ thủ Quốc Hoàng giành chiến thắng lịch sử cho Việt Nam](https://vnexpress.net/co-thu-quoc-hoang-gianh-chien-thang-lich-su-cho-viet-nam-4742366.html) - 00:25 06/05/2024
 - 🫶 [HLV Đức Thắng mỉa mai HAGL đá triệt hạ](https://vnexpress.net/hlv-duc-thang-mia-mai-hagl-da-triet-ha-4742396.html) - 00:18 06/05/2024
 - 🌜 [De Rossi tự tin thắng ngược Leverkusen ở Europa League](https://vnexpress.net/de-rossi-tu-tin-thang-nguoc-leverkusen-o-europa-league-4742360.html) - 23:17 05/05/2024
 - 😺 [Leverkusen san bằng kỷ lục tồn tại hơn nửa thế kỷ](https://vnexpress.net/leverkusen-san-bang-ky-luc-ton-tai-hon-nua-the-ky-4742352.html) - 22:45 05/05/2024
