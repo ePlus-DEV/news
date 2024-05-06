@@ -142,15 +142,15 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Hội thảo &#39;Công nghệ Nano silicon hóa lỏng trong liền thương và ngăn ngừa sẹo&#39;](https://thanhnien.vn/hoi-thao-cong-nghe-nano-silicon-hoa-long-trong-lien-thuong-va-ngan-ngua-seo-18524050618055088.htm) - 11:07 06/05/2024
-- 🥸 [Thỏa sức vui chơi cùng gia đình tại những công viên giải trí của Bỉ](https://thanhnien.vn/thoi-trang-tre/thoa-suc-vui-choi-cung-gia-dinh-tai-nhung-cong-vien-giai-tri-cua-bi-185240505145302043.htm) - 11:00 06/05/2024
-- 🌁 [Tháp Tài chính 108 tầng kỳ vọng sáng tạo biểu tượng mới của Đông Nam Á](https://thanhnien.vn/thap-tai-chinh-108-tang-ky-vong-sang-tao-bieu-tuong-moi-cua-dong-nam-a-185240506175113897.htm) - 10:54 06/05/2024
-- 🤡 [Có nên mua linh kiện PC đã qua sử dụng?](https://thanhnien.vn/co-nen-mua-linh-kien-pc-da-qua-su-dung-185240425062602611.htm) - 10:52 06/05/2024
-- 🎉 [21 tỉnh thành phía Nam đồng loạt tiết kiệm điện](https://thanhnien.vn/21-tinh-thanh-phia-nam-dong-loat-tiet-kiem-dien-185240506174506398.htm) - 10:49 06/05/2024
-- 🎊 [Người dân hát vang, mang trà bánh mời các chiến sĩ tập diễu binh ở Điện Biên Phủ](https://thanhnien.vn/nguoi-dan-hat-vang-mang-tra-banh-moi-cac-chien-si-tap-dieu-binh-o-dien-bien-phu-185240506171810952.htm) - 10:48 06/05/2024
-- 🤠 [Dân mạng kêu gọi tẩy chay McDonald&#39;s Vietnam vì lấy chuyện Mèo Béo để PR](https://thanhnien.vn/dan-mang-keu-goi-tay-chay-mcdonalds-vietnam-vi-lay-cai-chet-cua-meo-beo-de-pr-185240506174129443.htm) - 10:47 06/05/2024
-- 💼 [Phú Yên rà soát các dự án liên quan Tập đoàn Thuận An và Công ty Công Minh](https://thanhnien.vn/phu-yen-ra-soat-cac-du-an-lien-quan-tap-doan-thuan-an-va-cong-ty-cong-minh-18524050617090184.htm) - 10:46 06/05/2024
-- 🐻 [Đề xuất phạt 500 triệu đồng nếu để lộ dữ liệu cá nhân từ 1 triệu người](https://thanhnien.vn/de-xuat-phat-500-trieu-dong-neu-de-lo-du-lieu-ca-nhan-tu-1-trieu-nguoi-185240506172631162.htm) - 10:42 06/05/2024
+- 🤠 [Lỡ deal trên sàn - Trượt deal Mai Hân mỹ phẩm suốt tháng](https://thanhnien.vn/lo-deal-tren-san-truot-deal-mai-han-my-pham-suot-thang-185240506181450055.htm) - 11:17 06/05/2024
+- 🥸 [Hội thảo &#39;Công nghệ Nano silicon hóa lỏng trong liền thương và ngăn ngừa sẹo&#39;](https://thanhnien.vn/hoi-thao-cong-nghe-nano-silicon-hoa-long-trong-lien-thuong-va-ngan-ngua-seo-18524050618055088.htm) - 11:07 06/05/2024
+- 🌁 [Thỏa sức vui chơi cùng gia đình tại những công viên giải trí của Bỉ](https://thanhnien.vn/thoi-trang-tre/thoa-suc-vui-choi-cung-gia-dinh-tai-nhung-cong-vien-giai-tri-cua-bi-185240505145302043.htm) - 11:00 06/05/2024
+- 🤡 [Tháp Tài chính 108 tầng kỳ vọng sáng tạo biểu tượng mới của Đông Nam Á](https://thanhnien.vn/thap-tai-chinh-108-tang-ky-vong-sang-tao-bieu-tuong-moi-cua-dong-nam-a-185240506175113897.htm) - 10:54 06/05/2024
+- 🎉 [Có nên mua linh kiện PC đã qua sử dụng?](https://thanhnien.vn/co-nen-mua-linh-kien-pc-da-qua-su-dung-185240425062602611.htm) - 10:52 06/05/2024
+- 🎊 [21 tỉnh thành phía Nam đồng loạt tiết kiệm điện](https://thanhnien.vn/21-tinh-thanh-phia-nam-dong-loat-tiet-kiem-dien-185240506174506398.htm) - 10:49 06/05/2024
+- 🤠 [Người dân hát vang, mang trà bánh mời các chiến sĩ tập diễu binh ở Điện Biên Phủ](https://thanhnien.vn/nguoi-dan-hat-vang-mang-tra-banh-moi-cac-chien-si-tap-dieu-binh-o-dien-bien-phu-185240506171810952.htm) - 10:48 06/05/2024
+- 💼 [Dân mạng kêu gọi tẩy chay McDonald&#39;s Vietnam vì lấy chuyện Mèo Béo để PR](https://thanhnien.vn/dan-mang-keu-goi-tay-chay-mcdonalds-vietnam-vi-lay-cai-chet-cua-meo-beo-de-pr-185240506174129443.htm) - 10:47 06/05/2024
+- 🐻 [Phú Yên rà soát các dự án liên quan Tập đoàn Thuận An và Công ty Công Minh](https://thanhnien.vn/phu-yen-ra-soat-cac-du-an-lien-quan-tap-doan-thuan-an-va-cong-ty-cong-minh-18524050617090184.htm) - 10:46 06/05/2024
 - 🤔 [Bộ trưởng Phan Văn Giang, Bộ trưởng Tô Lâm dâng hương tưởng niệm các anh hùng liệt sĩ](https://thanhnien.vn/bo-truong-phan-van-giang-bo-truong-to-lam-dang-huong-tuong-niem-cac-anh-hung-liet-si-18524050617081864.htm) - 10:39 06/05/2024
 - 📝 [Xoay xở thế nào với thu nhập từ 6 - 8 triệu đồng/tháng ở thành phố lớn?](https://thanhnien.vn/xoay-xo-the-nao-voi-thu-nhap-tu-6-8-trieu-dong-thang-o-thanh-pho-lon-185240506171837249.htm) - 10:37 06/05/2024
 - 🥰 [&#39;Thiên thần nhỏ của tôi&#39; có gì mới khi tái diễn?](https://thanhnien.vn/thien-than-nho-cua-toi-co-gi-moi-khi-tai-dien-185240506155431094.htm) - 10:30 06/05/2024
