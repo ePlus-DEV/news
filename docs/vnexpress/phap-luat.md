@@ -13,7 +13,7 @@ sidebar_position: 12
 - 🤡 [Cảnh sát truy tìm con gái ông Lê Tùng Vân](https://vnexpress.net/canh-sat-truy-tim-con-gai-ong-le-tung-van-4742263.html) - 09:15 05/05/2024
 - 🗽 [Cách sử dụng app chạy bộ để không bị tội phạm rình rập](https://vnexpress.net/cach-su-dung-app-chay-bo-de-khong-bi-toi-pham-rinh-rap-4742237.html) - 08:32 05/05/2024
 - 🌋 [Giả công an đi &#39;nắm địa bàn&#39; để đột nhập](https://vnexpress.net/gia-cong-an-di-nam-dia-ban-de-dot-nhap-4742229.html) - 06:26 05/05/2024
-- 🎬 [Lời khai của kẻ bị 1.000 cảnh sát vây bắt trong rừng keo](https://vnexpress.net/loi-khai-cua-ke-bi-1-000-canh-sat-vay-bat-trong-rung-keo-4742198.html) - 05:06 05/05/2024
+- 🎬 [Tội ác của kẻ từng bị 1.000 cảnh sát vây bắt trong rừng keo](https://vnexpress.net/toi-ac-cua-ke-tung-bi-1-000-canh-sat-vay-bat-trong-rung-keo-4742198.html) - 05:06 05/05/2024
 - 💯 [Dọa đăng báo để vòi tiền bảo kê khai thác đá trái phép](https://vnexpress.net/doa-dang-bao-de-voi-tien-bao-ke-khai-thac-da-trai-phep-4742189.html) - 04:07 05/05/2024
 - 🌏 [Mỗi người đều mặc định có một mã số thuế, dù không đi làm?](https://vnexpress.net/moi-nguoi-deu-mac-dinh-co-mot-ma-so-thue-du-khong-di-lam-4742203.html) - 03:59 05/05/2024
 - 🌊 [Tranh cãi việc mua bán 43 tấn thuốc nổ thi công thuỷ điện](https://vnexpress.net/tranh-cai-viec-mua-ban-43-tan-thuoc-no-thi-cong-thuy-dien-4742041.html) - 03:48 05/05/2024
