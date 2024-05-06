@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Tranh luận chuyện trồng cây mít dọc đường phố](https://vnexpress.net/tranh-luan-chuyen-trong-cay-mit-doc-duong-pho-4742283.html) - 23:30 05/05/2024
+- 🚀 [Tranh luận chuyện trồng cây mít trên đường phố](https://vnexpress.net/tranh-luan-chuyen-trong-cay-mit-tren-duong-pho-4742283.html) - 23:30 05/05/2024
 - 🎓 [Người Trung Quốc &#39;ngán&#39; kỳ nghỉ dài](https://vnexpress.net/nguoi-trung-quoc-ngan-ky-nghi-dai-4742350.html) - 23:00 05/05/2024
 - 🚦 [Những ngày khủng hoảng của người mẹ có con mắc bệnh hiểm](https://vnexpress.net/nhung-ngay-khung-hoang-cua-nguoi-me-co-con-mac-benh-hiem-4741317.html) - 17:00 05/05/2024
 - 🦣 [6 cách trở nên quyến rũ](https://vnexpress.net/6-cach-tro-nen-quyen-ru-4741920.html) - 12:58 05/05/2024
