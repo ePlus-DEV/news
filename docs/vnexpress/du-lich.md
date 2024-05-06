@@ -4,63 +4,63 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Thế giới đồ ăn vặt đường phố ở Seoul](https://vnexpress.net/the-gioi-do-an-vat-duong-pho-o-seoul-4739767.html) - 03:00 06/05/2024
-- 🪄 [Đằng sau lễ du lịch chen chúc của người Việt](https://vnexpress.net/dang-sau-le-du-lich-chen-chuc-cua-nguoi-viet-4740945.html) - 00:00 06/05/2024
-- 🦅 [Quán cà phê Hải Phòng với kỷ lục &#39;vũ trụ siêu anh hùng&#39;](https://vnexpress.net/quan-ca-phe-hai-phong-voi-ky-luc-vu-tru-sieu-anh-hung-4742035.html) - 17:00 05/05/2024
-- 🕴 [Vì sao Thanh Hóa đứng đầu du lịch cả nước dịp lễ 30/4?](https://vnexpress.net/vi-sao-thanh-hoa-dung-dau-du-lich-ca-nuoc-dip-le-30-4-4741972.html) - 04:44 05/05/2024
-- 👀 [Vườn quốc gia Cúc Phương mở tour đêm](https://vnexpress.net/vuon-quoc-gia-cuc-phuong-mo-tour-dem-4742155.html) - 03:54 05/05/2024
-- 🎭 [Hầm chỉ huy của tướng De Castries ở Điện Biên Phủ được mệnh danh là gì?](https://vnexpress.net/ham-chi-huy-cua-tuong-de-castries-o-dien-bien-phu-duoc-menh-danh-la-gi-4742024.html) - 23:00 04/05/2024
-- 🦒 [Cây phượng đỏ trên đồi A1 Điện Biên Phủ thu hút khách chụp hình](https://vnexpress.net/cay-phuong-do-tren-doi-a1-dien-bien-phu-thu-hut-khach-chup-hinh-4741865.html) - 10:56 04/05/2024
-- 👨‍🏫 [Cặp bảo vật long sàng ở đền vua Đinh Tiên Hoàng](https://vnexpress.net/cap-bao-vat-long-sang-o-den-vua-dinh-tien-hoang-4740571.html) - 06:15 04/05/2024
-- ⚗️ [Nhà giàu Trung Quốc chi tiền đi du lịch như thế nào](https://vnexpress.net/nha-giau-trung-quoc-chi-tien-di-du-lich-nhu-the-nao-4735375.html) - 00:00 04/05/2024
-- 🥸 [48 giờ ở Vũng Tàu](https://vnexpress.net/48-gio-o-vung-tau-4740996.html) - 17:00 03/05/2024
-- 🤠 [TP HCM bắn pháo hoa khai mạc Lễ hội sông nước](https://vnexpress.net/tp-hcm-ban-phao-hoa-khai-mac-le-hoi-song-nuoc-4741671.html) - 11:46 03/05/2024
-- 🚀 [Khách Trung Quốc đi nước ngoài sắp quay lại thời đỉnh cao](https://vnexpress.net/khach-trung-quoc-di-nuoc-ngoai-sap-quay-lai-thoi-dinh-cao-4741457.html) - 09:09 03/05/2024
-- 💻 [Thái Lan thúc đẩy du lịch tránh nóng](https://vnexpress.net/thai-lan-thuc-day-du-lich-tranh-nong-4741552.html) - 08:23 03/05/2024
-- 💼 [Sau kỳ nghỉ 30/4, du lịch đường bộ tiếp tục lên ngôi](https://vnexpress.net/sau-ky-nghi-30-4-du-lich-duong-bo-tiep-tuc-len-ngoi-4741159.html) - 06:02 03/05/2024
-- 🤡 [Khách quốc tế &#39;du lịch như vua&#39; ở Nhật vì đồng yen giảm](https://vnexpress.net/khach-quoc-te-du-lich-nhu-vua-o-nhat-vi-dong-yen-giam-4741142.html) - 00:21 03/05/2024
-- 🐵 [Kem mô phỏng địa điểm nổi tiếng Hà Nội hút khách](https://vnexpress.net/kem-mo-phong-dia-diem-noi-tieng-ha-noi-hut-khach-4740009.html) - 17:00 02/05/2024
-- 😺 [Fan mua combo du lịch xem concert Hà Anh Tuấn ở Singapore](https://vnexpress.net/fan-mua-combo-du-lich-xem-concert-ha-anh-tuan-o-singapore-4741251.html) - 10:00 02/05/2024
-- 🌈 [Top 7 tỉnh thành có doanh thu du lịch nghìn tỷ dịp 30/4](https://vnexpress.net/top-7-tinh-thanh-co-doanh-thu-du-lich-nghin-ty-dip-30-4-4741149.html) - 09:29 02/05/2024
-- ⚗️ [Kè chắn sóng cuối sông Trà Khúc đông khách tham quan](https://video.vnexpress.net/ke-chan-song-cuoi-song-tra-khuc-dong-khach-tham-quan-4740787.html) - 04:39 02/05/2024
-- 👀 [Vui chơi giá rẻ ở Milan](https://vnexpress.net/vui-choi-gia-re-o-milan-4737709.html) - 03:06 02/05/2024
-- 👍 [Bên trong &#39;nghĩa địa&#39; máy bay lớn bậc nhất thế giới](https://vnexpress.net/ben-trong-nghia-dia-may-bay-lon-bac-nhat-the-gioi-4738192.html) - 02:53 02/05/2024
-- 💄 [Gà hầm sâm - món ăn nóng hổi được yêu thích ngày hè](https://vnexpress.net/ga-ham-sam-mon-an-nong-hoi-duoc-yeu-thich-ngay-he-4740298.html) - 17:00 01/05/2024
-- 🥷 [Du lịch biển thắng lớn 5 ngày nghỉ lễ](https://vnexpress.net/du-lich-bien-thang-lon-5-ngay-nghi-le-4740735.html) - 12:35 01/05/2024
-- 📝 [Khách sạn được cựu tuyển thủ bóng đá Brazil chọn khi đến Đà Nẵng](https://vnexpress.net/khach-san-duoc-cuu-tuyen-thu-bong-da-brazil-chon-khi-den-da-nang-4740795.html) - 12:00 01/05/2024
-- 🌜 [Du lịch Bình Định thu hơn 300 tỷ đồng trong 5 ngày nghỉ lễ](https://vnexpress.net/du-lich-binh-dinh-thu-hon-300-ty-dong-trong-5-ngay-nghi-le-4740701.html) - 12:00 01/05/2024
-- 📝 [Khách nước ngoài than TP HCM nóng &#39;muốn tan chảy&#39;](https://vnexpress.net/khach-nuoc-ngoai-than-tp-hcm-nong-muon-tan-chay-4740707.html) - 07:32 01/05/2024
-- 🧰 [Nhiều điểm du lịch châu Âu tìm cách &#39;tiễn khách&#39;](https://vnexpress.net/nhieu-diem-du-lich-chau-au-tim-cach-tien-khach-4740307.html) - 04:00 01/05/2024
-- 🎬 [Khách bức xúc vì khách sạn nuôi chó trong bếp](https://vnexpress.net/khach-buc-xuc-vi-khach-san-nuoi-cho-trong-bep-4740457.html) - 01:00 01/05/2024
-- 🧐 [Sủi dìn - món ăn đường phố gốc Hoa trong food tour Hải Phòng](https://vnexpress.net/sui-din-mon-an-duong-pho-goc-hoa-trong-food-tour-hai-phong-4739466.html) - 00:00 01/05/2024
-- 👨‍🏫 [Đông khách, Đà Lạt tắc đường tới đêm](https://vnexpress.net/dong-khach-da-lat-tac-duong-toi-dem-4740586.html) - 17:10 30/04/2024
-- 🦣 [5 bãi biển đông khách dịp lễ 30/4](https://vnexpress.net/5-bai-bien-dong-khach-dip-le-30-4-4740577.html) - 17:00 30/04/2024
-- 🌋 [Điểm tham quan, vui chơi đông nghịt người](https://video.vnexpress.net/diem-tham-quan-vui-choi-dong-nghit-nguoi-4740451.html) - 12:13 30/04/2024
-- 🦄 [Khách Việt tặng tranh cho Roger Federer](https://vnexpress.net/khach-viet-tang-tranh-cho-roger-federer-4740543.html) - 10:25 30/04/2024
-- 💡 [Xếp hàng gần một tiếng chờ tham quan Dinh Độc Lập](https://vnexpress.net/xep-hang-gan-mot-tieng-cho-tham-quan-dinh-doc-lap-4740498.html) - 10:07 30/04/2024
-- 🌏 [Những chuyến bay rợp cờ đỏ sao vàng dịp lễ](https://vnexpress.net/nhung-chuyen-bay-rop-co-do-sao-vang-dip-le-4740487.html) - 07:00 30/04/2024
-- 💂 [Bãi tắm ở Cô Tô, Đồ Sơn ngập rác](https://vnexpress.net/bai-tam-o-co-to-do-son-ngap-rac-4740464.html) - 06:48 30/04/2024
-- 🤩 [Vỉa hè biển Thiên Cầm bị chiếm dụng làm bãi giữ xe](https://vnexpress.net/via-he-bien-thien-cam-bi-chiem-dung-lam-bai-giu-xe-4740449.html) - 06:34 30/04/2024
-- 💪 [Khách Tây thích thú với khách sạn treo cờ Tổ quốc ở Hội An](https://vnexpress.net/khach-tay-thich-thu-voi-khach-san-treo-co-to-quoc-o-hoi-an-4740402.html) - 03:57 30/04/2024
-- 💻 [Khách Việt &#39;săn&#39; hoa mơ ở ngôi làng Ấn Độ](https://vnexpress.net/khach-viet-san-hoa-mo-o-ngoi-lang-an-do-4739851.html) - 03:00 30/04/2024
-- 🧑‍💻 [Lò bánh mì than củi bán 3.500 ổ mỗi ngày ở Huế](https://vnexpress.net/lo-banh-mi-than-cui-ban-3-500-o-moi-ngay-o-hue-4735419.html) - 00:00 30/04/2024
-- 🎭 [Phan Thiết nườm nượp khách tắm biển](https://vnexpress.net/phan-thiet-nuom-nuop-khach-tam-bien-4740295.html) - 17:00 29/04/2024
-- 🧐 [Khách Trung Quốc tới Việt Nam tăng mạnh](https://vnexpress.net/khach-trung-quoc-toi-viet-nam-tang-manh-4740145.html) - 09:49 29/04/2024
-- 💡 [Roger Federer tới Hội An du lịch](https://vnexpress.net/roger-federer-toi-hoi-an-du-lich-4740260.html) - 09:37 29/04/2024
-- 🌊 [Biển Quy Nhơn hút hàng nghìn du khách](https://vnexpress.net/bien-quy-nhon-hut-hang-nghin-du-khach-4740079.html) - 07:10 29/04/2024
-- 🎃 [Quy Nhơn điều tra tình trạng du khách bị thu tiền đậu ôtô](https://vnexpress.net/quy-nhon-dieu-tra-tinh-trang-du-khach-bi-thu-tien-dau-oto-4740190.html) - 07:06 29/04/2024
-- 🧠 [Hà Nội xác minh sự việc &#39;bán ba quả dứa 500.000 đồng&#39; cho khách nước ngoài](https://vnexpress.net/ha-noi-xac-minh-su-viec-ban-ba-qua-dua-500-000-dong-cho-khach-nuoc-ngoai-4740160.html) - 03:44 29/04/2024
-- 💄 [Địa điểm thưởng lãm pháo hoa tối 30/4 ở TP HCM](https://vnexpress.net/dia-diem-thuong-lam-phao-hoa-toi-30-4-o-tp-hcm-4739746.html) - 03:00 29/04/2024
-- 🎬 [Đi du lịch &#39;vì một bức ảnh&#39;](https://vnexpress.net/di-du-lich-vi-mot-buc-anh-4730417.html) - 02:00 29/04/2024
-- 🐻 [Gỏi gà măng cụt với khoai môn sấy](https://vnexpress.net/goi-ga-mang-cut-voi-khoai-mon-say-4738324.html) - 00:00 29/04/2024
-- 🌝 [Du khách chen chân trốn nóng ở công viên nước lớn nhất Việt Nam](https://vnexpress.net/du-khach-chen-chan-tron-nong-o-cong-vien-nuoc-lon-nhat-viet-nam-4740013.html) - 17:00 28/04/2024
-- 🤩 [Nắng nóng, các điểm du lịch &#39;không đông như tưởng tượng&#39;](https://vnexpress.net/nang-nong-cac-diem-du-lich-khong-dong-nhu-tuong-tuong-4740050.html) - 13:59 28/04/2024
-- 🎬 [Hơn 300.000 người dự khai mạc lễ hội du lịch biển](https://vnexpress.net/hon-300-000-nguoi-du-khai-mac-le-hoi-du-lich-bien-4739994.html) - 07:40 28/04/2024
-- 🦩 [Nhiều gia đình huỷ đi cắm trại vì nắng nóng](https://vnexpress.net/nhieu-gia-dinh-huy-di-cam-trai-vi-nang-nong-4739894.html) - 06:09 28/04/2024
-- 🦍 [Bên trong resort vào top &#39;tốt nhất thế giới&#39; ở Lăng Cô](https://vnexpress.net/ben-trong-resort-vao-top-tot-nhat-the-gioi-o-lang-co-4738938.html) - 05:00 28/04/2024
-- 👀 [Trekking 10 km rừng nguyên sinh trên đảo Cát Bà](https://vnexpress.net/trekking-10-km-rung-nguyen-sinh-tren-dao-cat-ba-4739674.html) - 00:00 28/04/2024
-- 🧰 [48 giờ ở Sóc Sơn](https://vnexpress.net/48-gio-o-soc-son-4738568.html) - 23:00 27/04/2024
-- 🕯 [Sầm Sơn đông nghịt du khách ngày đầu nghỉ lễ](https://vnexpress.net/sam-son-dong-nghit-du-khach-ngay-dau-nghi-le-4739807.html) - 17:00 27/04/2024
-- 👍 [Tour Hàn, Trung, Nhật nhộn nhịp khởi hành ngày đầu kỳ nghỉ lễ 30/4](https://vnexpress.net/tour-han-trung-nhat-nhon-nhip-khoi-hanh-ngay-dau-ky-nghi-le-30-4-4739677.html) - 12:00 27/04/2024
-- 😎 [Khách Việt xếp hàng 4 tiếng ở cửa khẩu để du lịch Trung Quốc](https://vnexpress.net/khach-viet-xep-hang-4-tieng-o-cua-khau-de-du-lich-trung-quoc-4739650.html) - 05:45 27/04/2024
-- 🐘 [Những thứ bị cấm và không nên mang khi du lịch Hàn Quốc](https://vnexpress.net/nhung-thu-bi-cam-va-khong-nen-mang-khi-du-lich-han-quoc-4739637.html) - 04:37 27/04/2024<!-- vnexpress-du-lich:END -->
+- 💂 [Sân bay không để thất lạc hành lý suốt 30 năm](https://vnexpress.net/san-bay-khong-de-that-lac-hanh-ly-suot-30-nam-4742215.html) - 04:31 06/05/2024
+- 🪄 [Thế giới đồ ăn vặt đường phố ở Seoul](https://vnexpress.net/the-gioi-do-an-vat-duong-pho-o-seoul-4739767.html) - 03:00 06/05/2024
+- 🦅 [Đằng sau lễ du lịch chen chúc của người Việt](https://vnexpress.net/dang-sau-le-du-lich-chen-chuc-cua-nguoi-viet-4740945.html) - 00:00 06/05/2024
+- 🕴 [Quán cà phê Hải Phòng với kỷ lục &#39;vũ trụ siêu anh hùng&#39;](https://vnexpress.net/quan-ca-phe-hai-phong-voi-ky-luc-vu-tru-sieu-anh-hung-4742035.html) - 17:00 05/05/2024
+- 👀 [Vì sao Thanh Hóa đứng đầu du lịch cả nước dịp lễ 30/4?](https://vnexpress.net/vi-sao-thanh-hoa-dung-dau-du-lich-ca-nuoc-dip-le-30-4-4741972.html) - 04:44 05/05/2024
+- 🎭 [Vườn quốc gia Cúc Phương mở tour đêm](https://vnexpress.net/vuon-quoc-gia-cuc-phuong-mo-tour-dem-4742155.html) - 03:54 05/05/2024
+- 🦒 [Hầm chỉ huy của tướng De Castries ở Điện Biên Phủ được mệnh danh là gì?](https://vnexpress.net/ham-chi-huy-cua-tuong-de-castries-o-dien-bien-phu-duoc-menh-danh-la-gi-4742024.html) - 23:00 04/05/2024
+- 👨‍🏫 [Cây phượng đỏ trên đồi A1 Điện Biên Phủ thu hút khách chụp hình](https://vnexpress.net/cay-phuong-do-tren-doi-a1-dien-bien-phu-thu-hut-khach-chup-hinh-4741865.html) - 10:56 04/05/2024
+- ⚗️ [Cặp bảo vật long sàng ở đền vua Đinh Tiên Hoàng](https://vnexpress.net/cap-bao-vat-long-sang-o-den-vua-dinh-tien-hoang-4740571.html) - 06:15 04/05/2024
+- 🥸 [Nhà giàu Trung Quốc chi tiền đi du lịch như thế nào](https://vnexpress.net/nha-giau-trung-quoc-chi-tien-di-du-lich-nhu-the-nao-4735375.html) - 00:00 04/05/2024
+- 🤠 [48 giờ ở Vũng Tàu](https://vnexpress.net/48-gio-o-vung-tau-4740996.html) - 17:00 03/05/2024
+- 🚀 [TP HCM bắn pháo hoa khai mạc Lễ hội sông nước](https://vnexpress.net/tp-hcm-ban-phao-hoa-khai-mac-le-hoi-song-nuoc-4741671.html) - 11:46 03/05/2024
+- 💻 [Khách Trung Quốc đi nước ngoài sắp quay lại thời đỉnh cao](https://vnexpress.net/khach-trung-quoc-di-nuoc-ngoai-sap-quay-lai-thoi-dinh-cao-4741457.html) - 09:09 03/05/2024
+- 💼 [Thái Lan thúc đẩy du lịch tránh nóng](https://vnexpress.net/thai-lan-thuc-day-du-lich-tranh-nong-4741552.html) - 08:23 03/05/2024
+- 🤡 [Sau kỳ nghỉ 30/4, du lịch đường bộ tiếp tục lên ngôi](https://vnexpress.net/sau-ky-nghi-30-4-du-lich-duong-bo-tiep-tuc-len-ngoi-4741159.html) - 06:02 03/05/2024
+- 🐵 [Khách quốc tế &#39;du lịch như vua&#39; ở Nhật vì đồng yen giảm](https://vnexpress.net/khach-quoc-te-du-lich-nhu-vua-o-nhat-vi-dong-yen-giam-4741142.html) - 00:21 03/05/2024
+- 😺 [Kem mô phỏng địa điểm nổi tiếng Hà Nội hút khách](https://vnexpress.net/kem-mo-phong-dia-diem-noi-tieng-ha-noi-hut-khach-4740009.html) - 17:00 02/05/2024
+- 🌈 [Fan mua combo du lịch xem concert Hà Anh Tuấn ở Singapore](https://vnexpress.net/fan-mua-combo-du-lich-xem-concert-ha-anh-tuan-o-singapore-4741251.html) - 10:00 02/05/2024
+- ⚗️ [Top 7 tỉnh thành có doanh thu du lịch nghìn tỷ dịp 30/4](https://vnexpress.net/top-7-tinh-thanh-co-doanh-thu-du-lich-nghin-ty-dip-30-4-4741149.html) - 09:29 02/05/2024
+- 👀 [Kè chắn sóng cuối sông Trà Khúc đông khách tham quan](https://video.vnexpress.net/ke-chan-song-cuoi-song-tra-khuc-dong-khach-tham-quan-4740787.html) - 04:39 02/05/2024
+- 👍 [Vui chơi giá rẻ ở Milan](https://vnexpress.net/vui-choi-gia-re-o-milan-4737709.html) - 03:06 02/05/2024
+- 💄 [Bên trong &#39;nghĩa địa&#39; máy bay lớn bậc nhất thế giới](https://vnexpress.net/ben-trong-nghia-dia-may-bay-lon-bac-nhat-the-gioi-4738192.html) - 02:53 02/05/2024
+- 🥷 [Gà hầm sâm - món ăn nóng hổi được yêu thích ngày hè](https://vnexpress.net/ga-ham-sam-mon-an-nong-hoi-duoc-yeu-thich-ngay-he-4740298.html) - 17:00 01/05/2024
+- 📝 [Du lịch biển thắng lớn 5 ngày nghỉ lễ](https://vnexpress.net/du-lich-bien-thang-lon-5-ngay-nghi-le-4740735.html) - 12:35 01/05/2024
+- 🌜 [Khách sạn được cựu tuyển thủ bóng đá Brazil chọn khi đến Đà Nẵng](https://vnexpress.net/khach-san-duoc-cuu-tuyen-thu-bong-da-brazil-chon-khi-den-da-nang-4740795.html) - 12:00 01/05/2024
+- 📝 [Du lịch Bình Định thu hơn 300 tỷ đồng trong 5 ngày nghỉ lễ](https://vnexpress.net/du-lich-binh-dinh-thu-hon-300-ty-dong-trong-5-ngay-nghi-le-4740701.html) - 12:00 01/05/2024
+- 🧰 [Khách nước ngoài than TP HCM nóng &#39;muốn tan chảy&#39;](https://vnexpress.net/khach-nuoc-ngoai-than-tp-hcm-nong-muon-tan-chay-4740707.html) - 07:32 01/05/2024
+- 🎬 [Nhiều điểm du lịch châu Âu tìm cách &#39;tiễn khách&#39;](https://vnexpress.net/nhieu-diem-du-lich-chau-au-tim-cach-tien-khach-4740307.html) - 04:00 01/05/2024
+- 🧐 [Khách bức xúc vì khách sạn nuôi chó trong bếp](https://vnexpress.net/khach-buc-xuc-vi-khach-san-nuoi-cho-trong-bep-4740457.html) - 01:00 01/05/2024
+- 👨‍🏫 [Sủi dìn - món ăn đường phố gốc Hoa trong food tour Hải Phòng](https://vnexpress.net/sui-din-mon-an-duong-pho-goc-hoa-trong-food-tour-hai-phong-4739466.html) - 00:00 01/05/2024
+- 🦣 [Đông khách, Đà Lạt tắc đường tới đêm](https://vnexpress.net/dong-khach-da-lat-tac-duong-toi-dem-4740586.html) - 17:10 30/04/2024
+- 🌋 [5 bãi biển đông khách dịp lễ 30/4](https://vnexpress.net/5-bai-bien-dong-khach-dip-le-30-4-4740577.html) - 17:00 30/04/2024
+- 🦄 [Điểm tham quan, vui chơi đông nghịt người](https://video.vnexpress.net/diem-tham-quan-vui-choi-dong-nghit-nguoi-4740451.html) - 12:13 30/04/2024
+- 💡 [Khách Việt tặng tranh cho Roger Federer](https://vnexpress.net/khach-viet-tang-tranh-cho-roger-federer-4740543.html) - 10:25 30/04/2024
+- 🌏 [Xếp hàng gần một tiếng chờ tham quan Dinh Độc Lập](https://vnexpress.net/xep-hang-gan-mot-tieng-cho-tham-quan-dinh-doc-lap-4740498.html) - 10:07 30/04/2024
+- 💂 [Những chuyến bay rợp cờ đỏ sao vàng dịp lễ](https://vnexpress.net/nhung-chuyen-bay-rop-co-do-sao-vang-dip-le-4740487.html) - 07:00 30/04/2024
+- 🤩 [Bãi tắm ở Cô Tô, Đồ Sơn ngập rác](https://vnexpress.net/bai-tam-o-co-to-do-son-ngap-rac-4740464.html) - 06:48 30/04/2024
+- 💪 [Vỉa hè biển Thiên Cầm bị chiếm dụng làm bãi giữ xe](https://vnexpress.net/via-he-bien-thien-cam-bi-chiem-dung-lam-bai-giu-xe-4740449.html) - 06:34 30/04/2024
+- 💻 [Khách Tây thích thú với khách sạn treo cờ Tổ quốc ở Hội An](https://vnexpress.net/khach-tay-thich-thu-voi-khach-san-treo-co-to-quoc-o-hoi-an-4740402.html) - 03:57 30/04/2024
+- 🧑‍💻 [Khách Việt &#39;săn&#39; hoa mơ ở ngôi làng Ấn Độ](https://vnexpress.net/khach-viet-san-hoa-mo-o-ngoi-lang-an-do-4739851.html) - 03:00 30/04/2024
+- 🎭 [Lò bánh mì than củi bán 3.500 ổ mỗi ngày ở Huế](https://vnexpress.net/lo-banh-mi-than-cui-ban-3-500-o-moi-ngay-o-hue-4735419.html) - 00:00 30/04/2024
+- 🧐 [Phan Thiết nườm nượp khách tắm biển](https://vnexpress.net/phan-thiet-nuom-nuop-khach-tam-bien-4740295.html) - 17:00 29/04/2024
+- 💡 [Khách Trung Quốc tới Việt Nam tăng mạnh](https://vnexpress.net/khach-trung-quoc-toi-viet-nam-tang-manh-4740145.html) - 09:49 29/04/2024
+- 🌊 [Roger Federer tới Hội An du lịch](https://vnexpress.net/roger-federer-toi-hoi-an-du-lich-4740260.html) - 09:37 29/04/2024
+- 🎃 [Biển Quy Nhơn hút hàng nghìn du khách](https://vnexpress.net/bien-quy-nhon-hut-hang-nghin-du-khach-4740079.html) - 07:10 29/04/2024
+- 🧠 [Quy Nhơn điều tra tình trạng du khách bị thu tiền đậu ôtô](https://vnexpress.net/quy-nhon-dieu-tra-tinh-trang-du-khach-bi-thu-tien-dau-oto-4740190.html) - 07:06 29/04/2024
+- 💄 [Hà Nội xác minh sự việc &#39;bán ba quả dứa 500.000 đồng&#39; cho khách nước ngoài](https://vnexpress.net/ha-noi-xac-minh-su-viec-ban-ba-qua-dua-500-000-dong-cho-khach-nuoc-ngoai-4740160.html) - 03:44 29/04/2024
+- 🎬 [Địa điểm thưởng lãm pháo hoa tối 30/4 ở TP HCM](https://vnexpress.net/dia-diem-thuong-lam-phao-hoa-toi-30-4-o-tp-hcm-4739746.html) - 03:00 29/04/2024
+- 🐻 [Đi du lịch &#39;vì một bức ảnh&#39;](https://vnexpress.net/di-du-lich-vi-mot-buc-anh-4730417.html) - 02:00 29/04/2024
+- 🌝 [Gỏi gà măng cụt với khoai môn sấy](https://vnexpress.net/goi-ga-mang-cut-voi-khoai-mon-say-4738324.html) - 00:00 29/04/2024
+- 🤩 [Du khách chen chân trốn nóng ở công viên nước lớn nhất Việt Nam](https://vnexpress.net/du-khach-chen-chan-tron-nong-o-cong-vien-nuoc-lon-nhat-viet-nam-4740013.html) - 17:00 28/04/2024
+- 🎬 [Nắng nóng, các điểm du lịch &#39;không đông như tưởng tượng&#39;](https://vnexpress.net/nang-nong-cac-diem-du-lich-khong-dong-nhu-tuong-tuong-4740050.html) - 13:59 28/04/2024
+- 🦩 [Hơn 300.000 người dự khai mạc lễ hội du lịch biển](https://vnexpress.net/hon-300-000-nguoi-du-khai-mac-le-hoi-du-lich-bien-4739994.html) - 07:40 28/04/2024
+- 🦍 [Nhiều gia đình huỷ đi cắm trại vì nắng nóng](https://vnexpress.net/nhieu-gia-dinh-huy-di-cam-trai-vi-nang-nong-4739894.html) - 06:09 28/04/2024
+- 👀 [Bên trong resort vào top &#39;tốt nhất thế giới&#39; ở Lăng Cô](https://vnexpress.net/ben-trong-resort-vao-top-tot-nhat-the-gioi-o-lang-co-4738938.html) - 05:00 28/04/2024
+- 🧰 [Trekking 10 km rừng nguyên sinh trên đảo Cát Bà](https://vnexpress.net/trekking-10-km-rung-nguyen-sinh-tren-dao-cat-ba-4739674.html) - 00:00 28/04/2024
+- 🕯 [48 giờ ở Sóc Sơn](https://vnexpress.net/48-gio-o-soc-son-4738568.html) - 23:00 27/04/2024
+- 👍 [Sầm Sơn đông nghịt du khách ngày đầu nghỉ lễ](https://vnexpress.net/sam-son-dong-nghit-du-khach-ngay-dau-nghi-le-4739807.html) - 17:00 27/04/2024
+- 😎 [Tour Hàn, Trung, Nhật nhộn nhịp khởi hành ngày đầu kỳ nghỉ lễ 30/4](https://vnexpress.net/tour-han-trung-nhat-nhon-nhip-khoi-hanh-ngay-dau-ky-nghi-le-30-4-4739677.html) - 12:00 27/04/2024
+- 🐘 [Khách Việt xếp hàng 4 tiếng ở cửa khẩu để du lịch Trung Quốc](https://vnexpress.net/khach-viet-xep-hang-4-tieng-o-cua-khau-de-du-lich-trung-quoc-4739650.html) - 05:45 27/04/2024<!-- vnexpress-du-lich:END -->
