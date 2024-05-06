@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Học sinh Việt bối rối vì đại học Trung Quốc đổi cách xét tuyển](https://vnexpress.net/hoc-sinh-viet-boi-roi-vi-dai-hoc-trung-quoc-doi-cach-xet-tuyen-4742238.html) - 07:11 06/05/2024
+- 🤓 [Học sinh Việt cuống cuồng ôn thi vào đại học Trung Quốc](https://vnexpress.net/hoc-sinh-viet-cuong-cuong-on-thi-vao-dai-hoc-trung-quoc-4742238.html) - 07:11 06/05/2024
 - 🦆 [Người Việt đoạt giải thưởng Toán học Dénes König](https://vnexpress.net/nguoi-viet-doat-giai-thuong-toan-hoc-denes-k-nig-4742548.html) - 04:47 06/05/2024
 - 🦩 [FPT Software đào tạo lập trình miễn phí cho học sinh](https://vnexpress.net/fpt-software-dao-tao-lap-trinh-mien-phi-cho-hoc-sinh-4742535.html) - 04:00 06/05/2024
 - 🌮 [6 đại học dự kiến điểm sàn thi tốt nghiệp THPT 2024](https://vnexpress.net/6-dai-hoc-du-kien-diem-san-thi-tot-nghiep-thpt-2024-4742315.html) - 23:13 05/05/2024
