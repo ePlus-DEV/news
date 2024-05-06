@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [VCCI: Doanh nghiệp ra nước ngoài mở công ty vì bị áp thuế VAT 10%](https://vnexpress.net/doanh-nghiep-ra-nuoc-ngoai-mo-cong-ty-vi-bi-ap-thue-vat-10-4742552.html) - 05:43 06/05/2024
 - 🐲 [Phân bón Cà Mau rộng cửa xuất khẩu sang Australia](https://vnexpress.net/phan-bon-ca-mau-rong-cua-xuat-khau-sang-australia-4742544.html) - 04:30 06/05/2024
-- 🔥 [Vàng miếng quay đầu giảm](https://vnexpress.net/vang-mieng-quay-dau-giam-4742469.html) - 03:24 06/05/2024
+- 🔥 [Vàng miếng đảo chiều tăng vọt](https://vnexpress.net/vang-mieng-pha-ky-luc-tren-86-trieu-dong-mot-luong-4742469.html) - 03:24 06/05/2024
 - 🐵 [Tín dụng ngân hàng quý I &#39;chảy&#39; vào đâu?](https://vnexpress.net/tin-dung-ngan-hang-quy-i-chay-vao-dau-4742353.html) - 00:20 06/05/2024
 - 🦅 [Làm gì giữa lúc thị trường chứng khoán biến động?](https://vnexpress.net/lam-gi-giua-luc-thi-truong-chung-khoan-bien-dong-4742078.html) - 23:49 05/05/2024
 - 😺 [Cách để thành công và hạnh phúc như Warren Buffett](https://vnexpress.net/cach-de-thanh-cong-va-hanh-phuc-nhu-warren-buffett-4742170.html) - 23:35 05/05/2024
