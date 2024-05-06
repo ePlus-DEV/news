@@ -149,7 +149,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- thanhnien:START -->
 - 🤠 [Bào chế được vắc xin ngừa các chủng virus Corona tương lai](https://thanhnien.vn/bao-che-duoc-vac-xin-ngua-cac-chung-virus-corona-tuong-lai-185240506203833007.htm) - 13:43 06/05/2024
 - 🥸 [Trộm cắp tài sản nhưng chỉ lấy được 5 triệu, được coi là tình tiết giảm nhẹ?](https://thanhnien.vn/trom-cap-tai-san-nhung-chi-lay-duoc-5-trieu-duoc-coi-la-tinh-tiet-giam-nhe-185240506201607575.htm) - 13:36 06/05/2024
-- 🌁 [Học sinh bị ngộ độc bánh mì Cô Băng ở Đồng Nai sẽ được thi bù](https://thanhnien.vn/hoc-sinh-bi-ngo-doc-banh-mi-co-bang-o-dong-nai-se-duoc-thi-bu-185240506193743835.htm) - 13:31 06/05/2024
+- 🌁 [Học sinh bị ngộ độc bánh mì Băng ở Đồng Nai sẽ được thi bù](https://thanhnien.vn/hoc-sinh-bi-ngo-doc-banh-mi-co-bang-o-dong-nai-se-duoc-thi-bu-185240506193743835.htm) - 13:31 06/05/2024
 - 🤡 [Úc tố tiêm kích Trung Quốc thả pháo sáng &#39;thiếu an toàn&#39;](https://thanhnien.vn/uc-to-tiem-kich-trung-quoc-tha-phao-sang-thieu-an-toan-185240506194441257.htm) - 13:28 06/05/2024
 - 🎉 [Sét đánh chết người ở Long An: Thực hư quan niệm &#39;sét không đánh 2 lần một chỗ&#39;](https://thanhnien.vn/set-danh-chet-nguoi-o-long-an-thuc-hu-quan-niem-set-khong-danh-2-lan-mot-cho-185240504155337414.htm) - 13:28 06/05/2024
 - 🎊 [Thủ tướng dâng hương tưởng niệm các anh hùng liệt sĩ tại Nghĩa trang liệt sĩ A1](https://thanhnien.vn/thu-tuong-dang-huong-tuong-niem-cac-anh-hung-liet-si-tai-nghia-trang-liet-si-a1-18524050619591571.htm) - 13:25 06/05/2024
