@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Người dân đội mưa xem diễu binh kỷ niệm 70 năm chiến thắng Điện Biên](https://vnexpress.net/nguoi-dan-doi-mua-xem-dieu-binh-ky-niem-70-nam-chien-thang-dien-bien-4742913.html) - 02:39 07/05/2024
-- 🤓 [Các quân binh chủng đang diễu binh diễu hành](https://vnexpress.net/truc-tiep-dieu-binh-dieu-hanh-ky-niem-70-nam-chien-thang-dien-bien-phu-4742623.html) - 00:00 07/05/2024
+- 🤓 [Lễ diễu binh diễu hành mừng chiến thắng Điện Biên Phủ](https://vnexpress.net/truc-tiep-dieu-binh-dieu-hanh-ky-niem-70-nam-chien-thang-dien-bien-phu-4742623.html) - 00:00 07/05/2024
 - ⚗️ [Công nhân kể giây phút thoát khỏi hố bùn sau lở núi](https://vnexpress.net/cong-nhan-ke-giay-phut-thoat-khoi-ho-bun-sau-lo-nui-4742801.html) - 18:10 06/05/2024
 - 🌊 [Pháo hoa rực sáng bên cầu Mường Thanh](https://vnexpress.net/phao-hoa-ruc-sang-ben-cau-muong-thanh-4742800.html) - 17:24 06/05/2024
 - 🎓 [Yêu cầu đẩy nhanh tiến độ cao tốc Biên Hoà - Vũng Tàu trước mùa mưa](https://vnexpress.net/yeu-cau-day-nhanh-tien-do-cao-toc-bien-hoa-vung-tau-truoc-mua-mua-4742764.html) - 17:00 06/05/2024
