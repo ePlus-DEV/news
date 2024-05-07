@@ -312,7 +312,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Hà Tĩnh vắng trụ cột trong trận gặp Bình Định](https://www.sggp.org.vn/ha-tinh-vang-tru-cot-trong-tran-gap-binh-dinh-post738840.html) - 16:04 07/05/2024
+- 🪜 [Hà Tĩnh vắng 5 trụ cột trong trận gặp Bình Định](https://www.sggp.org.vn/ha-tinh-vang-5-tru-cot-trong-tran-gap-binh-dinh-post738840.html) - 16:04 07/05/2024
 - 🌝 [Tái xuất với MV “Hành trang chuyện buồn”, Đạt G quay lại ballad](https://www.sggp.org.vn/tai-xuat-voi-mv-hanh-trang-chuyen-buon-dat-g-quay-lai-ballad-post738836.html) - 13:59 07/05/2024
 - 💃 [Nam Định - B.Bình Dương: Hấp dẫn trận &#39;chung kết xuôi&#39; &lpar;18 giờ, ngày 8-5&rpar;](https://www.sggp.org.vn/nam-dinh-bbinh-duong-hap-dan-tran-chung-ket-xuoi-18-gio-ngay-8-5-post738837.html) - 13:58 07/05/2024
 - 🧑‍💻 [Bảng xếp hạng giải bóng đá nữ VĐQG - Cúp Thái Sơn Bắc 2024 &lpar;vòng 2&rpar;](https://www.sggp.org.vn/bang-xep-hang-giai-bong-da-nu-vdqg-cup-thai-son-bac-2024-vong-2-post738838.html) - 13:53 07/05/2024
