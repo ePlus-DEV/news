@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Cô gái vượt tự ti, thành sinh viên tiêu biểu ở Bách khoa Hà Nội](https://vnexpress.net/co-gai-vuot-tu-ti-thanh-sinh-vien-tieu-bieu-o-bach-khoa-ha-noi-4743103.html) - 22:46 07/05/2024
+- 🤓 [Cô gái miền biển vượt tự ti, thành sinh viên tiêu biểu Bách khoa](https://vnexpress.net/co-gai-mien-bien-vuot-tu-ti-thanh-sinh-vien-tieu-bieu-bach-khoa-4743103.html) - 22:46 07/05/2024
 - 🦆 [Đâu là tỉnh cuối cùng ở Nam Bộ có thành phố trực thuộc?](https://vnexpress.net/dau-la-tinh-cuoi-cung-o-nam-bo-co-thanh-pho-truc-thuoc-4743247.html) - 13:07 07/05/2024
 - 🦩 [Thủ khoa học sinh giỏi quốc gia đỗ đại học hàng đầu Pháp](https://vnexpress.net/thu-khoa-hoc-sinh-gioi-quoc-gia-do-dai-hoc-hang-dau-phap-4742235.html) - 12:00 07/05/2024
 - 🌮 [UEH đào tạo ngành Công nghệ nghệ thuật](https://vnexpress.net/ueh-dao-tao-nganh-cong-nghe-nghe-thuat-4741583.html) - 12:00 07/05/2024
