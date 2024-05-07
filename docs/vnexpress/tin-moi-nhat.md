@@ -4,9 +4,9 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Tại sao bố mẹ cao nhưng con thấp?](https://vnexpress.net/tai-sao-bo-me-cao-nhung-con-thap-4742948.html) - 05:00 07/05/2024
-- 🐎 [Tiêm kích Trung Quốc bị tố thả mồi bẫy vào trực thăng Australia](https://vnexpress.net/tiem-kich-trung-quoc-bi-to-tha-moi-bay-vao-truc-thang-australia-4742912.html) - 04:59 07/05/2024
-- 🦍 [Enrique: &#39;Ngay cả Mbappe cũng phải phòng ngự&#39;](https://vnexpress.net/enrique-ngay-ca-mbappe-cung-phai-phong-ngu-4742989.html) - 04:54 07/05/2024
+- 🎬 [Cá sấu trèo rào ra ngoài chơi](https://vnexpress.net/ca-sau-treo-rao-ra-ngoai-choi-4742580.html) - 04:50 07/05/2024
+- 🐎 [Hàng nghìn con cá nhảy lên &#39;chào đón&#39; du khách](https://vnexpress.net/hang-nghin-con-ca-nhay-len-chao-don-du-khach-4742562.html) - 04:49 07/05/2024
+- 🦍 [Trả giá vì đu người trên dây phơi đồ](https://vnexpress.net/tra-gia-vi-du-nguoi-tren-day-phoi-do-4742565.html) - 04:49 07/05/2024
 - 🏊 [Diễu binh 70 năm chiến thắng Điện Biên Phủ](https://vnexpress.net/dieu-binh-70-nam-chien-thang-dien-bien-phu-4742980.html) - 04:48 07/05/2024
 - 🎊 [Ukraine kêu gọi phương Tây không công nhận ông Putin là Tổng thống Nga](https://vnexpress.net/ukraine-keu-goi-phuong-tay-khong-cong-nhan-ong-putin-la-tong-thong-nga-4742969.html) - 04:46 07/05/2024
 - 🎃 [Cục Xuất bản yêu cầu thẩm định lại sách Ocean Vuong](https://vnexpress.net/cuc-xuat-ban-yeu-cau-tham-dinh-lai-sach-ocean-vuong-4743021.html) - 04:46 07/05/2024
