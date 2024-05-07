@@ -9,7 +9,7 @@ sidebar_position: 12
 - 🎓 [Vụ kiện lao động độc hại khiến doanh nghiệp mất 70 tỷ USD bồi thường](https://vnexpress.net/vu-kien-lao-dong-doc-hai-khien-doanh-nghiep-mat-70-ty-usd-boi-thuong-4742576.html) - 22:00 06/05/2024
 - 🤓 [Dùng mã độc chiếm 25.000 tài khoản Facebook giá trị cao](https://vnexpress.net/dung-ma-doc-chiem-25-000-tai-khoan-facebook-gia-tri-cao-4742784.html) - 17:00 06/05/2024
 - 🎊 [Thuyền trưởng nhảy xuống biển thoát thân, bỏ lại 34 khách chết cháy](https://vnexpress.net/thuyen-truong-nhay-xuong-bien-thoat-than-bo-lai-34-khach-chet-chay-4742781.html) - 15:03 06/05/2024
-- 🙉 [Cảnh sát điều tra 8 tấn dồi trường, trứng gà non không rõ nguồn gốc](https://vnexpress.net/canh-sat-dieu-tra-8-tan-doi-truong-trung-ga-non-khong-ro-nguon-goc-4742774.html) - 14:18 06/05/2024
+- 🙉 [8 tấn dồi trường, trứng gà non không rõ nguồn gốc bị phát hiện](https://vnexpress.net/8-tan-doi-truong-trung-ga-non-khong-ro-nguon-goc-bi-phat-hien-4742774.html) - 14:18 06/05/2024
 - 🤡 [Sếp văn phòng đăng ký đất đai nhận &#39;lót tay&#39; để xây nhà tình thương](https://vnexpress.net/sep-van-phong-dang-ky-dat-dai-nhan-lot-tay-de-xay-nha-tinh-thuong-4742749.html) - 13:09 06/05/2024
 - 🗽 [Phó giám đốc trung tâm đăng kiểm lớn nhất Đồng Nai bị bắt](https://vnexpress.net/pho-giam-doc-trung-tam-dang-kiem-lon-nhat-dong-nai-bi-bat-4742751.html) - 12:24 06/05/2024
 - 🌋 [Quốc Cường Gia Lai không đồng ý trả hơn 2.800 tỷ đồng cho bà Trương Mỹ Lan](https://vnexpress.net/quoc-cuong-gia-lai-khong-dong-y-tra-hon-2-800-ty-dong-cho-ba-truong-my-lan-4742688.html) - 09:50 06/05/2024
