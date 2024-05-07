@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Án mạng từ lời hứa hẹn bao tiền rượu trong cuộc nhậu](https://vnexpress.net/an-mang-tu-loi-hua-hen-bao-tien-ruou-trong-cuoc-nhau-4743259.html) - 13:41 07/05/2024
-- 🥰 [Làm giả gần một tỷ đồng mệnh giá 500.000 đồng ở Đà Nẵng](https://vnexpress.net/lam-gia-hang-ty-dong-menh-gia-500-000-dong-o-da-nang-4743263.html) - 13:34 07/05/2024
+- 🥰 [Làm giả gần một tỷ đồng mệnh giá 500.000 đồng](https://vnexpress.net/lam-gia-hang-ty-dong-menh-gia-500-000-dong-o-da-nang-4743263.html) - 13:34 07/05/2024
 - 🎓 [Sát hại bạn nhậu ở công viên](https://vnexpress.net/sat-hai-ban-nhau-o-cong-vien-4743260.html) - 13:19 07/05/2024
 - 🤓 [Chiếm ôtô từ việc trùng họ tên](https://vnexpress.net/chiem-oto-mercedes-c250-tu-viec-trung-ho-ten-4743223.html) - 11:15 07/05/2024
 - 🎊 [Bị phạt vì vu khống công an trên Facebook](https://vnexpress.net/bi-phat-vi-vu-khong-cong-an-tren-facebook-4743244.html) - 11:14 07/05/2024
