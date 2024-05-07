@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Khoảnh khắc ông Putin tuyên thệ nhậm chức nhiệm kỳ 5](https://vnexpress.net/khoanh-khac-ong-putin-tuyen-the-nham-chuc-nhiem-ky-5-4743237.html) - 10:44 07/05/2024
+- 🎭 [Lời tuyên thệ 33 từ của ông Putin khi nhậm chức nhiệm kỳ 5](https://vnexpress.net/loi-tuyen-the-33-tu-cua-ong-putin-khi-nham-chuc-nhiem-ky-5-4743237.html) - 10:44 07/05/2024
 - 🕴 [Nga bắn 30 phát đại bác mừng ông Putin nhậm chức nhiệm kỳ 5](https://vnexpress.net/ong-putin-tuyen-the-nham-chuc-tong-thong-nga-nhiem-ky-5-4743070-tong-thuat.html) - 08:31 07/05/2024
 - 🤭 [Nga sẽ coi tiêm kích F-16 Ukraine là mối đe dọa hạt nhân](https://vnexpress.net/nga-se-coi-tiem-kich-f-16-ukraine-la-moi-de-doa-hat-nhan-4742899.html) - 08:00 07/05/2024
 - 🧑‍💻 [Ông Macron: Pháp không gây chiến với Nga](https://vnexpress.net/ong-macron-phap-khong-gay-chien-voi-nga-4742983.html) - 08:00 07/05/2024
