@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Ông Putin tuyên thệ nhậm chức Tổng thống Nga](https://vnexpress.net/ong-putin-tuyen-the-nham-chuc-tong-thong-nga-4743070.html) - 08:31 07/05/2024
+- 🎭 [Ông Putin tuyên thệ &#39;trung thành với nhân dân&#39; khi nhậm chức Tổng thống Nga](https://vnexpress.net/ong-putin-tuyen-the-nham-chuc-tong-thong-nga-nhiem-ky-5-4743070.html) - 08:31 07/05/2024
 - 🕴 [Nga sẽ coi tiêm kích F-16 Ukraine là mối đe dọa hạt nhân](https://vnexpress.net/nga-se-coi-tiem-kich-f-16-ukraine-la-moi-de-doa-hat-nhan-4742899.html) - 08:00 07/05/2024
 - 🤭 [Ông Macron: Pháp không gây chiến với Nga](https://vnexpress.net/ong-macron-phap-khong-gay-chien-voi-nga-4742983.html) - 08:00 07/05/2024
 - 🧑‍💻 [Đâm dao tại bệnh viện Trung Quốc](https://vnexpress.net/dam-dao-tai-benh-vien-trung-quoc-4743065.html) - 07:49 07/05/2024
