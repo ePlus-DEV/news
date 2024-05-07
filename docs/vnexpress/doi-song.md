@@ -5,7 +5,7 @@ sidebar_position: 6
 
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Góc khuất nghề thẩm mỹ cho người đã khuất](https://vnexpress.net/goc-khuat-nghe-tham-my-cho-nguoi-da-khuat-4741544.html) - 04:31 07/05/2024
-- 🎓 [Nỗi niềm vợ chồng già chỉ có một con](https://vnexpress.net/noi-niem-vo-chong-gia-chi-co-mot-con-4741214.html) - 23:29 06/05/2024
+- 🎓 [Nỗi cô đơn của vợ chồng già chỉ có một con](https://vnexpress.net/noi-co-don-cua-vo-chong-gia-chi-co-mot-con-4741214.html) - 23:29 06/05/2024
 - 🚦 [Đông nghịt người đi xem phim về Điện Biên Phủ](https://vnexpress.net/dong-nghit-nguoi-di-xem-phim-ve-dien-bien-phu-4742556.html) - 23:00 06/05/2024
 - 🦣 [Gan cháy tỏi](https://vnexpress.net/gan-chay-toi-4742705.html) - 12:00 06/05/2024
 - 🎓 [Những người trẻ sợ giao tiếp xã hội](https://vnexpress.net/nhung-nguoi-tre-so-giao-tiep-xa-hoi-4742528.html) - 06:56 06/05/2024
