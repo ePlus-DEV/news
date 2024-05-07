@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [4 sai lầm khiến thí sinh trượt đại học](https://vnexpress.net/4-sai-lam-khien-thi-sinh-truot-dai-hoc-4742434.html) - 00:17 07/05/2024
 - 🦆 [Trường nào mạnh về ngành Kỹ thuật ôtô?](https://vnexpress.net/truong-nao-manh-ve-nganh-ky-thuat-oto-4742129.html) - 16:59 06/05/2024
-- 🦩 [Trường Quốc tế Mỹ chưa đóng 1,35 tỷ cho học sinh thi tốt nghiệp](https://vnexpress.net/truong-quoc-te-my-chua-dong-1-35-ty-cho-hoc-sinh-thi-tot-nghiep-4742768.html) - 14:01 06/05/2024
+- 🦩 [Tạm ứng cho trường Quốc tế Mỹ 1,35 tỷ để đóng phí thi Tú tài](https://vnexpress.net/tam-ung-cho-truong-quoc-te-my-1-35-ty-de-dong-phi-thi-tu-tai-4742768.html) - 14:01 06/05/2024
 - 🌮 [Mật danh của chiến dịch Điện Biên Phủ là gì?](https://vnexpress.net/mat-danh-cua-chien-dich-dien-bien-phu-la-gi-4742734.html) - 13:00 06/05/2024
 - 🔭 [Giải đấu &#39;Da Nang Code League 2024&#39; mở rộng đối tượng và quy mô](https://vnexpress.net/giai-dau-da-nang-code-league-2024-mo-rong-doi-tuong-va-quy-mo-4742702.html) - 13:00 06/05/2024
 - 💡 [Học phí ĐH Khoa học Tự nhiên TP HCM cao nhất gần 60 triệu đồng](https://vnexpress.net/hoc-phi-dh-khoa-hoc-tu-nhien-tp-hcm-cao-nhat-gan-60-trieu-dong-4742748.html) - 12:45 06/05/2024
