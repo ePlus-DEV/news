@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Truyền thông quốc tế viết về 70 năm chiến thắng Điện Biên Phủ](https://vnexpress.net/truyen-thong-quoc-te-viet-ve-70-nam-chien-thang-dien-bien-phu-4743268.html) - 14:58 07/05/2024
-- 🕴 [Các nghi thức trong lễ nhậm chức của ông Putin](https://vnexpress.net/cac-nghi-thuc-trong-le-nham-chuc-cua-ong-putin-4743222.html) - 13:54 07/05/2024
+- 🕴 [Các nghi thức trong lễ nhậm chức của Tổng thống Putin](https://vnexpress.net/cac-nghi-thuc-trong-le-nham-chuc-cua-tong-thong-putin-4743222.html) - 13:54 07/05/2024
 - 🤭 [Hai đại tá Ukraine bị cáo buộc âm mưu ám sát ông Zelensky](https://vnexpress.net/hai-dai-ta-ukraine-bi-cao-buoc-am-muu-am-sat-ong-zelensky-4743262.html) - 12:50 07/05/2024
 - 🧑‍💻 [Hamas tuyên bố hạ xe tăng hiện đại nhất Israel gần Rafah](https://vnexpress.net/hamas-tuyen-bo-ha-xe-tang-hien-dai-nhat-israel-gan-rafah-4743252.html) - 11:51 07/05/2024
 - 🦏 [Lời tuyên thệ 33 từ của ông Putin khi nhậm chức nhiệm kỳ 5](https://vnexpress.net/loi-tuyen-the-33-tu-cua-ong-putin-khi-nham-chuc-nhiem-ky-5-4743237.html) - 10:44 07/05/2024
