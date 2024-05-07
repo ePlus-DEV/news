@@ -4,12 +4,12 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Vé máy bay đang &#39;gánh&#39; các loại phí nào?](https://vnexpress.net/ve-may-bay-dang-ganh-cac-loai-phi-nao-4743210.html) - 10:41 07/05/2024
-- 🤓 [Đường phố Biên Hòa ngập nặng sau mưa lớn](https://vnexpress.net/duong-pho-bien-hoa-ngap-nang-sau-mua-lon-4743204.html) - 10:24 07/05/2024
+- 🦒 [Tìm người bỏ quên 3 miếng nghi là vàng khi quyên góp đồ cũ](https://vnexpress.net/tim-nguoi-bo-quen-3-mieng-nghi-la-vang-khi-quyen-gop-do-cu-4743257.html) - 12:26 07/05/2024
+- 🤓 [Đường phố Đồng Nai, TP HCM ngập sau mưa lớn](https://vnexpress.net/duong-pho-dong-nai-tp-hcm-ngap-sau-mua-lon-4743204.html) - 10:24 07/05/2024
 - ⚗️ [Chủ ôtô miễn đăng kiểm lần đầu phải nộp phí lập hồ sơ](https://vnexpress.net/chu-oto-mien-dang-kiem-lan-dau-phai-nop-phi-lap-ho-so-4743124.html) - 09:47 07/05/2024
 - 🌊 [Trụ đèn chiếu sáng đổ trúng người đi xe máy](https://vnexpress.net/tru-den-chieu-sang-do-trung-nguoi-di-xe-may-4743053.html) - 06:30 07/05/2024
 - 🎓 [Hiện trường vụ lở núi vùi lấp 7 công nhân](https://vnexpress.net/hien-truong-vu-lo-nui-vui-lap-7-cong-nhan-4743020.html) - 06:18 07/05/2024
-- 🔥 [Khoảnh khắc ấn tượng trong lễ diễu binh tại Điện Biên Phủ](https://vnexpress.net/khoanh-khac-an-tuong-trong-le-dieu-binh-tai-dien-bien-phu-4742980.html) - 04:48 07/05/2024
+- 🔥 [Những hình ảnh ấn tượng trong lễ diễu binh tại Điện Biên Phủ](https://vnexpress.net/nhung-hinh-anh-an-tuong-trong-le-dieu-binh-tai-dien-bien-phu-4742980.html) - 04:48 07/05/2024
 - 🦏 [Người dân đội mưa xem diễu binh kỷ niệm 70 năm chiến thắng Điện Biên](https://vnexpress.net/nguoi-dan-doi-mua-xem-dieu-binh-ky-niem-70-nam-chien-thang-dien-bien-4742913.html) - 02:39 07/05/2024
 - 👺 [Lễ diễu binh diễu hành mừng chiến thắng Điện Biên Phủ](https://vnexpress.net/truc-tiep-dieu-binh-dieu-hanh-ky-niem-70-nam-chien-thang-dien-bien-phu-4742623-tong-thuat.html) - 00:00 07/05/2024
 - 🧑‍🏫 [Công nhân kể giây phút thoát khỏi hố bùn sau lở núi](https://vnexpress.net/cong-nhan-ke-giay-phut-thoat-khoi-ho-bun-sau-lo-nui-4742801.html) - 18:10 06/05/2024
