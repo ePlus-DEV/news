@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Nhiều nước ghi nhận nỗ lực của Việt Nam trong bảo đảm quyền con người](https://vnexpress.net/nhieu-nuoc-ghi-nhan-no-luc-cua-viet-nam-trong-bao-dam-quyen-con-nguoi-4743272.html) - 15:34 07/05/2024
+- 🎭 [&#39;Nhiều nước ghi nhận nỗ lực của Việt Nam trong bảo đảm quyền con người&#39;](https://vnexpress.net/nhieu-nuoc-ghi-nhan-no-luc-cua-viet-nam-trong-bao-dam-quyen-con-nguoi-4743272.html) - 15:34 07/05/2024
 - 🕴 [Truyền thông quốc tế viết về 70 năm chiến thắng Điện Biên Phủ](https://vnexpress.net/truyen-thong-quoc-te-viet-ve-70-nam-chien-thang-dien-bien-phu-4743268.html) - 14:58 07/05/2024
 - 🤭 [Các nghi thức trong lễ nhậm chức của Tổng thống Putin](https://vnexpress.net/cac-nghi-thuc-trong-le-nham-chuc-cua-tong-thong-putin-4743222.html) - 13:54 07/05/2024
 - 🧑‍💻 [Hai đại tá Ukraine bị cáo buộc âm mưu ám sát ông Zelensky](https://vnexpress.net/hai-dai-ta-ukraine-bi-cao-buoc-am-muu-am-sat-ong-zelensky-4743262.html) - 12:50 07/05/2024
