@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Bị từ chối thanh toán bằng chuyển khoản](https://vnexpress.net/bi-tu-choi-thanh-toan-bang-chuyen-khoan-4742780.html) - 23:30 07/05/2024
+- 🚀 [Tranh cãi chuyện &#39;quán không nhận chuyển khoản&#39;](https://vnexpress.net/tranh-cai-chuyen-quan-khong-nhan-chuyen-khoan-4742780.html) - 23:30 07/05/2024
 - 🎓 [Nỗi khổ chủ quán cà phê gặp khách ngồi &#39;cắm rễ&#39;](https://vnexpress.net/noi-kho-chu-quan-ca-phe-gap-khach-ngoi-cam-re-4739666.html) - 23:00 07/05/2024
 - 🚦 [Canh riêu trai Bắc Bộ](https://vnexpress.net/canh-rieu-trai-bac-bo-4743099.html) - 10:32 07/05/2024
 - 🦣 [Người Anh sợ nghe điện thoại](https://vnexpress.net/nguoi-anh-so-nghe-dien-thoai-4743051.html) - 08:19 07/05/2024
