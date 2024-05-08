@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Đường sắt thiệt hại hơn 50 tỷ đồng do sạt lở hầm Bãi Gió](https://vnexpress.net/duong-sat-thiet-hai-hon-50-ty-dong-do-sat-lo-ham-bai-gio-4743567.html) - 08:26 08/05/2024
-- 🤓 [Cửu đỉnh được công nhận di sản tư liệu thế giới](https://vnexpress.net/cuu-dinh-duoc-cong-nhan-di-san-tu-lieu-the-gioi-4743548.html) - 07:40 08/05/2024
+- 🤓 [Bản đúc nổi trên Cửu đỉnh được công nhận di sản tư liệu thế giới](https://vnexpress.net/ban-duc-noi-tren-cuu-dinh-duoc-cong-nhan-di-san-tu-lieu-the-gioi-4743548.html) - 07:40 08/05/2024
 - ⚗️ [Cần hơn 174.000 tỷ đồng xây nút giao, đường nối cao tốc](https://vnexpress.net/can-hon-174-000-ty-dong-xay-nut-giao-duong-noi-cao-toc-4743406.html) - 07:04 08/05/2024
 - 🌊 [Lễ rước mục đồng ở Đà Nẵng](https://vnexpress.net/le-ruoc-muc-dong-o-da-nang-4743325.html) - 04:38 08/05/2024
 - 🎓 [40 xe điện du lịch ở Hội An bị thiêu rụi](https://vnexpress.net/40-xe-dien-du-lich-o-hoi-an-bi-thieu-rui-4743344.html) - 01:35 08/05/2024
