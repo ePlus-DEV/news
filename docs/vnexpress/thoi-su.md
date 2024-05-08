@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [40 xe điện ở Hội An bị thiêu rụi](https://vnexpress.net/40-xe-dien-o-hoi-an-bi-thieu-rui-4743344.html) - 01:35 08/05/2024
+- 🦒 [40 xe điện du lịch ở Hội An bị thiêu rụi](https://vnexpress.net/40-xe-dien-du-lich-o-hoi-an-bi-thieu-rui-4743344.html) - 01:35 08/05/2024
 - 🤓 [Nước ngầm ở Tây Nguyên &#39;suy giảm không ngừng&#39;](https://vnexpress.net/nuoc-ngam-o-tay-nguyen-suy-giam-khong-ngung-4743032.html) - 23:00 07/05/2024
 - ⚗️ [Đường Láng sẽ được mở rộng gấp đôi](https://vnexpress.net/duong-lang-se-duoc-mo-rong-gap-doi-4743267.html) - 22:00 07/05/2024
 - 🌊 [Trưng bày 500 cổ vật quý hiếm ở Hải Phòng](https://vnexpress.net/trung-bay-500-co-vat-quy-hiem-o-hai-phong-4742991.html) - 22:00 07/05/2024
