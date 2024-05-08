@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Nhà đầu tư ngoại lo chậm chân mua bán điện trực tiếp](https://vnexpress.net/nha-dau-tu-ngoai-lo-cham-chan-tham-gia-mua-ban-dien-truc-tiep-4743468.html) - 04:49 08/05/2024
+- ⛽️ [Nhà đầu tư ngoại lo chậm chân mua bán điện trực tiếp](https://vnexpress.net/nha-dau-tu-ngoai-lo-cham-chan-mua-ban-dien-truc-tiep-4743468.html) - 04:49 08/05/2024
 - 🐲 [CUB Vietnam cấp hạn mức vay tiêu dùng trực tuyến đến 40 triệu](https://vnexpress.net/cub-vietnam-cap-han-muc-vay-tieu-dung-truc-tuyen-den-40-trieu-4736284.html) - 04:00 08/05/2024
 - 🔥 [Tài chính số - điểm tựa nội lực của ngân hàng Cathay United Bank](https://vnexpress.net/tai-chinh-so-diem-tua-noi-luc-cua-ngan-hang-cathay-united-bank-4731640.html) - 03:00 08/05/2024
 - 🐵 [FPT Long Châu cam kết bình ổn giá thuốc dài hạn](https://vnexpress.net/fpt-long-chau-cam-ket-binh-on-gia-thuoc-dai-han-4743224.html) - 01:00 08/05/2024
