@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Real thắng ngược Bayern, gặp Dortmund ở chung kết Champions League](https://vnexpress.net/real-thang-nguoc-bayern-gap-dortmund-o-chung-ket-champions-league-4743763.html) - 21:11 08/05/2024
+- 🪜 [Thắng ngược Bayern, Real gặp Dortmund ở chung kết Champions League](https://vnexpress.net/thang-nguoc-bayern-real-gap-dortmund-o-chung-ket-champions-league-4743763.html) - 21:11 08/05/2024
 - 🦩 [Nam Định đào sâu cách biệt ở V-League](https://vnexpress.net/nam-dinh-dao-sau-cach-biet-o-v-league-4743744.html) - 15:01 08/05/2024
 - 🧰 [Vũ Văn Thanh bị thẻ đỏ, CAHN thua trận thứ hai liên tiếp](https://vnexpress.net/vu-van-thanh-bi-the-do-cahn-thua-tran-thu-hai-lien-tiep-4743741.html) - 14:30 08/05/2024
 - 🤗 [HLV Hà Tĩnh lần đầu lên tiếng vụ 5 cầu thủ bị bắt vì ma tuý](https://vnexpress.net/hlv-ha-tinh-lan-dau-len-tieng-vu-5-cau-thu-bi-bat-vi-ma-tuy-4743733.html) - 14:13 08/05/2024
