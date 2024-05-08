@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Ảnh AI &#39;như thật&#39; của Katy Perry ở Met Gala](https://vnexpress.net/anh-ai-nhu-that-cua-katy-perry-o-met-gala-4743570.html) - 13:00 08/05/2024
-- 💫 [Khối tài sản của Lưu Diệc Phi](https://vnexpress.net/khoi-tai-san-cua-luu-diec-phi-4743573.html) - 12:00 08/05/2024
-- 🌮 [Hồ Ngọc Hà trở thành &#39;bạn thân thương hiệu Bvlgari&#39;](https://vnexpress.net/ho-ngoc-ha-tro-thanh-ban-than-thuong-hieu-bvlgari-4743658.html) - 11:00 08/05/2024
-- 🧠 [Chương Tử Di đưa con về nơi quay &#39;Ngọa hổ tàng long&#39;](https://vnexpress.net/chuong-tu-di-dua-con-ve-noi-quay-ngoa-ho-tang-long-4743623.html) - 09:31 08/05/2024
-- 👨‍🏫 [Các tác phẩm thắng giải Pulitzer 2024](https://vnexpress.net/cac-tac-pham-thang-giai-pulitzer-2024-4743370.html) - 08:51 08/05/2024
-- ⚗️ [Bộ váy siết eo gây tranh cãi của Kim Kardashian](https://vnexpress.net/bo-vay-siet-eo-gay-tranh-cai-cua-kim-kardashian-4743372.html) - 08:05 08/05/2024
-- 😎 [Nam sinh 19 tuổi gây sốt &#39;vì đẹp trai&#39;](https://vnexpress.net/nam-sinh-19-tuoi-gay-sot-vi-dep-trai-4743421.html) - 07:11 08/05/2024
-- 🫣 [Nhiều tác giả châu Âu đến Việt Nam giao lưu](https://vnexpress.net/nhieu-tac-gia-chau-au-den-viet-nam-giao-luu-4743214.html) - 05:26 08/05/2024
-- 🪄 [Cuộc đời Nam Phương hoàng hậu lần đầu lên màn ảnh rộng](https://vnexpress.net/cuoc-doi-nam-phuong-hoang-hau-lan-dau-len-man-anh-rong-4743424.html) - 04:45 08/05/2024
-- 🤓 [Người đẹp được bế ở Met Gala vì mặc váy đắp từ cát](https://vnexpress.net/nguoi-dep-duoc-be-o-met-gala-vi-mac-vay-dap-tu-cat-4743443.html) - 04:19 08/05/2024
-- 🫶 [Thiều Bảo Trang ra MV dịp 10 năm ca hát](https://vnexpress.net/thieu-bao-trang-ra-mv-dip-10-nam-ca-hat-4742480.html) - 03:57 08/05/2024
-- 🧑‍🏫 [Những bộ váy &#39;hở bạo&#39; ở tiệc hậu Met Gala](https://vnexpress.net/nhung-bo-vay-ho-bao-o-tiec-hau-met-gala-4743390.html) - 02:58 08/05/2024
-- 🦄 [&#39;Đệ nhất mỹ nhân&#39; Kim Hee Sun biến hóa phong cách](https://vnexpress.net/de-nhat-my-nhan-kim-hee-sun-bien-hoa-phong-cach-4741700.html) - 00:45 08/05/2024
-- 💫 [Trích &#39;Hùm xám đường số 4&#39; &lpar;phần cuối&rpar;: Treo cờ đỏ sao vàng trên Kỳ Đài Huế](https://vnexpress.net/trich-hum-xam-duong-so-4-phan-cuoi-treo-co-do-sao-vang-tren-ky-dai-hue-4743062.html) - 23:00 07/05/2024
-- 🎊 [Lương Bích Hữu áp lực vì tăng cân](https://vnexpress.net/luong-bich-huu-ap-luc-vi-tang-can-4743008.html) - 22:00 07/05/2024
-- 👹 [Tín Nguyễn - TikToker ghi dấu ấn với vai điện ảnh đầu tay](https://vnexpress.net/tin-nguyen-tiktoker-ghi-dau-an-voi-vai-dien-anh-dau-tay-4741127.html) - 17:00 07/05/2024
-- 💻 [&#39;Quật mộ trùng ma&#39; thắng lớn ở Baeksang](https://vnexpress.net/quat-mo-trung-ma-thang-lon-o-baeksang-4743283.html) - 15:04 07/05/2024
-- 🤡 [10 bộ đầm đẹp nhất Met Gala 2024](https://vnexpress.net/10-bo-dam-dep-nhat-met-gala-2024-4743161.html) - 13:11 07/05/2024
-- 🥰 [Những bộ cánh độc đáo ở Met Gala](https://vnexpress.net/nhung-bo-canh-doc-dao-o-met-gala-4743013.html) - 12:00 07/05/2024
-- 🚀 [Chris Pine nói đổi đời nhờ vai trong &#39;Nhật ký công chúa&#39;](https://vnexpress.net/chris-pine-noi-doi-doi-nho-vai-trong-nhat-ky-cong-chua-4742892.html) - 11:30 07/05/2024
-- 📝 [Trưng bày bản sao tranh panorama về Điện Biên Phủ ở Hà Nội](https://vnexpress.net/trung-bay-ban-sao-tranh-panorama-ve-dien-bien-phu-o-ha-noi-4743072.html) - 10:34 07/05/2024
-- 🐲 [Nhân viên LHP Cannes đình công trước lễ khai mạc](https://vnexpress.net/nhan-vien-lhp-cannes-dinh-cong-truoc-le-khai-mac-4742804.html) - 10:30 07/05/2024
-- 🎃 [Kim Soo Hyun, Song Joong Ki dự thảm đỏ Baeksang](https://vnexpress.net/kim-soo-hyun-song-joong-ki-du-tham-do-baeksang-4743100.html) - 09:18 07/05/2024
-- 🤠 [Ngọc Diễm tạo dáng với áo dài thêu thủ công](https://vnexpress.net/ngoc-diem-tao-dang-voi-ao-dai-theu-thu-cong-4742624.html) - 08:20 07/05/2024
-- 🎭 [Sáu ấn phẩm kỷ niệm chiến thắng Điện Biên Phủ](https://vnexpress.net/sau-an-pham-ky-niem-chien-thang-dien-bien-phu-4743047.html) - 08:10 07/05/2024
-- 🧰 [Củng Lợi và chồng dự quốc yến Pháp](https://vnexpress.net/cung-loi-va-chong-du-quoc-yen-phap-4743064.html) - 07:38 07/05/2024
-- 🦍 [Sao gốc Á mặc xuyên thấu, cắt xẻ ở Met Gala](https://vnexpress.net/sao-goc-a-mac-xuyen-thau-cat-xe-o-met-gala-4742933.html) - 05:12 07/05/2024
-- 🌝 [Dàn diễn viên &#39;Hoa ban đỏ&#39; sau 30 năm](https://vnexpress.net/dan-dien-vien-hoa-ban-do-sau-30-nam-4742601.html) - 05:08 07/05/2024
-- 🧑‍💻 [Cục Xuất bản yêu cầu thẩm định lại sách Ocean Vuong](https://vnexpress.net/cuc-xuat-ban-yeu-cau-tham-dinh-lai-sach-ocean-vuong-4743021.html) - 04:46 07/05/2024
-- 🥸 [Trích &#39;Hùm xám đường số 4&#39; &lpar;phần hai&rpar;: Chiến dịch biên giới](https://vnexpress.net/trich-hum-xam-duong-so-4-phan-hai-chien-dich-bien-gioi-4742543.html) - 04:37 07/05/2024
-- 🔥 [Lần đầu tổ chức liên hoan sân khấu cho trẻ em](https://vnexpress.net/lan-dau-to-chuc-lien-hoan-san-khau-cho-tre-em-4742898.html) - 04:05 07/05/2024
-- 🐎 [H&#39;Hen Niê hóa cô gái H&#39;Mông](https://vnexpress.net/h-hen-nie-hoa-co-gai-h-mong-4740530.html) - 03:41 07/05/2024
-- 😎 [Jeff Bezos và người tình sánh đôi ở Met Gala](https://vnexpress.net/jeff-bezos-va-nguoi-tinh-sanh-doi-o-met-gala-4742884.html) - 01:57 07/05/2024
-- 🦄 [Sao chưng diện ở Met Gala](https://vnexpress.net/sao-chung-dien-o-met-gala-4742832.html) - 00:17 07/05/2024
-- 🌜 [Cuộc cạnh tranh tài nguyên trên thế giới](https://vnexpress.net/cuoc-canh-tranh-tai-nguyen-tren-the-gioi-4736283.html) - 23:56 06/05/2024
-- 🚦 [Trung Quân Idol: &#39;Tôi liều khi mời Mỹ Linh hát cùng&#39;](https://vnexpress.net/trung-quan-idol-toi-lieu-khi-moi-my-linh-hat-cung-4742758.html) - 17:09 06/05/2024
-- 🧐 [Minh Khuê biết ơn vai diễn trong &#39;Cô gái xấu xí&#39;](https://vnexpress.net/minh-khue-biet-on-vai-dien-trong-co-gai-xau-xi-4739155.html) - 17:00 06/05/2024
-- 🐵 [Loạt đầm đen giúp Adele tỏa sáng](https://vnexpress.net/loat-dam-den-giup-adele-toa-sang-4742516.html) - 13:00 06/05/2024
-- ⚗️ [Jeon Ji Hyun là đại sứ thương hiệu Ecovacs Robotics](https://vnexpress.net/jeon-ji-hyun-la-dai-su-thuong-hieu-ecovacs-robotics-4742687.html) - 12:00 06/05/2024
-- 👺 [Hoa hậu Colombia thi marathon với chân giả](https://vnexpress.net/hoa-hau-colombia-thi-marathon-voi-chan-gia-4742662.html) - 11:00 06/05/2024
-- 🌊 [Ahn Jung Hwan - từ người hùng World Cup đến ngôi sao giải trí](https://vnexpress.net/ahn-jung-hwan-tu-nguoi-hung-world-cup-den-ngoi-sao-giai-tri-4742021.html) - 06:00 06/05/2024
-- 🪜 [Dung nhan Lưu Diệc Phi gây sốt](https://vnexpress.net/dung-nhan-luu-diec-phi-gay-sot-4742503.html) - 04:44 06/05/2024
-- 🕴 [Trích &#39;Hùm xám đường số 4&#39; &lpar;phần một&rpar;: Từ Bố Củng - Lũng Vải đến Bản Nằm](https://vnexpress.net/trich-hum-xam-duong-so-4-phan-mot-tu-bo-cung-lung-vai-den-ban-nam-4741789.html) - 03:43 06/05/2024
-- 💃 [Sao &#39;Titanic&#39; qua đời](https://vnexpress.net/sao-titanic-qua-doi-4742419.html) - 02:51 06/05/2024
-- 🦄 [Lý Hải: &#39;Tôi không ham danh hiệu đạo diễn nghìn tỷ&#39;](https://vnexpress.net/ly-hai-toi-khong-ham-danh-hieu-dao-dien-nghin-ty-4740691.html) - 17:00 05/05/2024
-- ⛽️ [&#39;Trùm phim kiếm hiệp&#39; trang trí biệt thự đón sinh nhật vợ](https://vnexpress.net/trum-phim-kiem-hiep-trang-tri-biet-thu-don-sinh-nhat-vo-4742310.html) - 14:30 05/05/2024
-- 😎 [Bạn trai khen Shakira &#39;xinh đẹp, chăm chỉ&#39;](https://vnexpress.net/ban-trai-khen-shakira-xinh-dep-cham-chi-4742298.html) - 14:11 05/05/2024
-- 🌊 [Thanh Thức: &#39;Tôi tận hưởng cuộc sống độc thân&#39;](https://vnexpress.net/thanh-thuc-toi-tan-huong-cuoc-song-doc-than-4741003.html) - 12:49 05/05/2024
-- 🐲 [Đường phố, con người Hong Kong 150 năm trước](https://vnexpress.net/duong-pho-con-nguoi-hong-kong-150-nam-truoc-4742227.html) - 12:00 05/05/2024
-- 💂 [Concert Madonna hút 1,6 triệu khán giả](https://vnexpress.net/concert-madonna-hut-1-6-trieu-khan-gia-4742275.html) - 11:43 05/05/2024
-- 🙉 [Chế Linh thu đĩa than ở tuổi 82](https://vnexpress.net/che-linh-thu-dia-than-o-tuoi-82-4742262.html) - 10:21 05/05/2024
-- 💪 [Tài tử &#39;Queen of Tears&#39; trưởng thành từ khốn khó](https://vnexpress.net/tai-tu-queen-of-tears-truong-thanh-tu-khon-kho-4742184.html) - 09:44 05/05/2024
-- 👍 [Đàm Vĩnh Hưng thăng hoa với show bolero cuối](https://vnexpress.net/dam-vinh-hung-thang-hoa-voi-show-bolero-cuoi-4742153.html) - 06:03 05/05/2024
-- 💪 [&#39;Ca vương&#39; Trung Quốc tổ chức concert lúc 3h sáng](https://vnexpress.net/ca-vuong-trung-quoc-to-chuc-concert-luc-3h-sang-4742179.html) - 05:24 05/05/2024
-- 💄 [Vẻ đẹp tuổi 18 của người mẫu Nga Kristina Pimenova](https://vnexpress.net/ve-dep-tuoi-18-cua-nguoi-mau-nga-kristina-pimenova-4742199.html) - 05:11 05/05/2024
-- 🦩 [Cuộc sống Johnny Depp sau ly hôn](https://vnexpress.net/cuoc-song-johnny-depp-sau-ly-hon-4742055.html) - 03:40 05/05/2024
-- 🥸 [Hậu trường cảnh hành động phim Tạ Đình Phong](https://vnexpress.net/hau-truong-canh-hanh-dong-phim-ta-dinh-phong-4742160.html) - 02:18 05/05/2024
-- 🧰 [Dàn sao xem liveshow bolero của Đàm Vĩnh Hưng](https://vnexpress.net/dan-sao-xem-liveshow-bolero-cua-dam-vinh-hung-4742141.html) - 01:15 05/05/2024
-- 💼 [Đàm Vĩnh Hưng nhận bằng kỷ lục](https://vnexpress.net/dam-vinh-hung-nhan-bang-ky-luc-4741695.html) - 17:56 04/05/2024
+- 🌏 [&#39;Arthur the King&#39; - nghị lực của chú chó hoang](https://vnexpress.net/giai-tri/phim/thu-vien-phim/arthur-the-king-702) - 14:00 08/05/2024
+- 💫 [Ảnh AI &#39;như thật&#39; của Katy Perry ở Met Gala](https://vnexpress.net/anh-ai-nhu-that-cua-katy-perry-o-met-gala-4743570.html) - 13:00 08/05/2024
+- 🌮 [Khối tài sản của Lưu Diệc Phi](https://vnexpress.net/khoi-tai-san-cua-luu-diec-phi-4743573.html) - 12:00 08/05/2024
+- 🧠 [Hồ Ngọc Hà trở thành &#39;bạn thân thương hiệu Bvlgari&#39;](https://vnexpress.net/ho-ngoc-ha-tro-thanh-ban-than-thuong-hieu-bvlgari-4743658.html) - 11:00 08/05/2024
+- 👨‍🏫 [Chương Tử Di đưa con về nơi quay &#39;Ngọa hổ tàng long&#39;](https://vnexpress.net/chuong-tu-di-dua-con-ve-noi-quay-ngoa-ho-tang-long-4743623.html) - 09:31 08/05/2024
+- ⚗️ [Các tác phẩm thắng giải Pulitzer 2024](https://vnexpress.net/cac-tac-pham-thang-giai-pulitzer-2024-4743370.html) - 08:51 08/05/2024
+- 😎 [Bộ váy siết eo gây tranh cãi của Kim Kardashian](https://vnexpress.net/bo-vay-siet-eo-gay-tranh-cai-cua-kim-kardashian-4743372.html) - 08:05 08/05/2024
+- 🫣 [Nam sinh 19 tuổi gây sốt &#39;vì đẹp trai&#39;](https://vnexpress.net/nam-sinh-19-tuoi-gay-sot-vi-dep-trai-4743421.html) - 07:11 08/05/2024
+- 🪄 [Nhiều tác giả châu Âu đến Việt Nam giao lưu](https://vnexpress.net/nhieu-tac-gia-chau-au-den-viet-nam-giao-luu-4743214.html) - 05:26 08/05/2024
+- 🤓 [Cuộc đời Nam Phương hoàng hậu lần đầu lên màn ảnh rộng](https://vnexpress.net/cuoc-doi-nam-phuong-hoang-hau-lan-dau-len-man-anh-rong-4743424.html) - 04:45 08/05/2024
+- 🫶 [Người đẹp được bế ở Met Gala vì mặc váy đắp từ cát](https://vnexpress.net/nguoi-dep-duoc-be-o-met-gala-vi-mac-vay-dap-tu-cat-4743443.html) - 04:19 08/05/2024
+- 🧑‍🏫 [Thiều Bảo Trang ra MV dịp 10 năm ca hát](https://vnexpress.net/thieu-bao-trang-ra-mv-dip-10-nam-ca-hat-4742480.html) - 03:57 08/05/2024
+- 🦄 [Những bộ váy &#39;hở bạo&#39; ở tiệc hậu Met Gala](https://vnexpress.net/nhung-bo-vay-ho-bao-o-tiec-hau-met-gala-4743390.html) - 02:58 08/05/2024
+- 💫 [&#39;Đệ nhất mỹ nhân&#39; Kim Hee Sun biến hóa phong cách](https://vnexpress.net/de-nhat-my-nhan-kim-hee-sun-bien-hoa-phong-cach-4741700.html) - 00:45 08/05/2024
+- 🎊 [Trích &#39;Hùm xám đường số 4&#39; &lpar;phần cuối&rpar;: Treo cờ đỏ sao vàng trên Kỳ Đài Huế](https://vnexpress.net/trich-hum-xam-duong-so-4-phan-cuoi-treo-co-do-sao-vang-tren-ky-dai-hue-4743062.html) - 23:00 07/05/2024
+- 👹 [Lương Bích Hữu áp lực vì tăng cân](https://vnexpress.net/luong-bich-huu-ap-luc-vi-tang-can-4743008.html) - 22:00 07/05/2024
+- 💻 [Tín Nguyễn - TikToker ghi dấu ấn với vai điện ảnh đầu tay](https://vnexpress.net/tin-nguyen-tiktoker-ghi-dau-an-voi-vai-dien-anh-dau-tay-4741127.html) - 17:00 07/05/2024
+- 🤡 [&#39;Quật mộ trùng ma&#39; thắng lớn ở Baeksang](https://vnexpress.net/quat-mo-trung-ma-thang-lon-o-baeksang-4743283.html) - 15:04 07/05/2024
+- 🥰 [10 bộ đầm đẹp nhất Met Gala 2024](https://vnexpress.net/10-bo-dam-dep-nhat-met-gala-2024-4743161.html) - 13:11 07/05/2024
+- 🚀 [Những bộ cánh độc đáo ở Met Gala](https://vnexpress.net/nhung-bo-canh-doc-dao-o-met-gala-4743013.html) - 12:00 07/05/2024
+- 📝 [Chris Pine nói đổi đời nhờ vai trong &#39;Nhật ký công chúa&#39;](https://vnexpress.net/chris-pine-noi-doi-doi-nho-vai-trong-nhat-ky-cong-chua-4742892.html) - 11:30 07/05/2024
+- 🐲 [Trưng bày bản sao tranh panorama về Điện Biên Phủ ở Hà Nội](https://vnexpress.net/trung-bay-ban-sao-tranh-panorama-ve-dien-bien-phu-o-ha-noi-4743072.html) - 10:34 07/05/2024
+- 🎃 [Nhân viên LHP Cannes đình công trước lễ khai mạc](https://vnexpress.net/nhan-vien-lhp-cannes-dinh-cong-truoc-le-khai-mac-4742804.html) - 10:30 07/05/2024
+- 🤠 [Kim Soo Hyun, Song Joong Ki dự thảm đỏ Baeksang](https://vnexpress.net/kim-soo-hyun-song-joong-ki-du-tham-do-baeksang-4743100.html) - 09:18 07/05/2024
+- 🎭 [Ngọc Diễm tạo dáng với áo dài thêu thủ công](https://vnexpress.net/ngoc-diem-tao-dang-voi-ao-dai-theu-thu-cong-4742624.html) - 08:20 07/05/2024
+- 🧰 [Sáu ấn phẩm kỷ niệm chiến thắng Điện Biên Phủ](https://vnexpress.net/sau-an-pham-ky-niem-chien-thang-dien-bien-phu-4743047.html) - 08:10 07/05/2024
+- 🦍 [Củng Lợi và chồng dự quốc yến Pháp](https://vnexpress.net/cung-loi-va-chong-du-quoc-yen-phap-4743064.html) - 07:38 07/05/2024
+- 🌝 [Sao gốc Á mặc xuyên thấu, cắt xẻ ở Met Gala](https://vnexpress.net/sao-goc-a-mac-xuyen-thau-cat-xe-o-met-gala-4742933.html) - 05:12 07/05/2024
+- 🧑‍💻 [Dàn diễn viên &#39;Hoa ban đỏ&#39; sau 30 năm](https://vnexpress.net/dan-dien-vien-hoa-ban-do-sau-30-nam-4742601.html) - 05:08 07/05/2024
+- 🥸 [Cục Xuất bản yêu cầu thẩm định lại sách Ocean Vuong](https://vnexpress.net/cuc-xuat-ban-yeu-cau-tham-dinh-lai-sach-ocean-vuong-4743021.html) - 04:46 07/05/2024
+- 🔥 [Trích &#39;Hùm xám đường số 4&#39; &lpar;phần hai&rpar;: Chiến dịch biên giới](https://vnexpress.net/trich-hum-xam-duong-so-4-phan-hai-chien-dich-bien-gioi-4742543.html) - 04:37 07/05/2024
+- 🐎 [Lần đầu tổ chức liên hoan sân khấu cho trẻ em](https://vnexpress.net/lan-dau-to-chuc-lien-hoan-san-khau-cho-tre-em-4742898.html) - 04:05 07/05/2024
+- 😎 [H&#39;Hen Niê hóa cô gái H&#39;Mông](https://vnexpress.net/h-hen-nie-hoa-co-gai-h-mong-4740530.html) - 03:41 07/05/2024
+- 🦄 [Jeff Bezos và người tình sánh đôi ở Met Gala](https://vnexpress.net/jeff-bezos-va-nguoi-tinh-sanh-doi-o-met-gala-4742884.html) - 01:57 07/05/2024
+- 🌜 [Sao chưng diện ở Met Gala](https://vnexpress.net/sao-chung-dien-o-met-gala-4742832.html) - 00:17 07/05/2024
+- 🚦 [Cuộc cạnh tranh tài nguyên trên thế giới](https://vnexpress.net/cuoc-canh-tranh-tai-nguyen-tren-the-gioi-4736283.html) - 23:56 06/05/2024
+- 🧐 [Trung Quân Idol: &#39;Tôi liều khi mời Mỹ Linh hát cùng&#39;](https://vnexpress.net/trung-quan-idol-toi-lieu-khi-moi-my-linh-hat-cung-4742758.html) - 17:09 06/05/2024
+- 🐵 [Minh Khuê biết ơn vai diễn trong &#39;Cô gái xấu xí&#39;](https://vnexpress.net/minh-khue-biet-on-vai-dien-trong-co-gai-xau-xi-4739155.html) - 17:00 06/05/2024
+- ⚗️ [Loạt đầm đen giúp Adele tỏa sáng](https://vnexpress.net/loat-dam-den-giup-adele-toa-sang-4742516.html) - 13:00 06/05/2024
+- 👺 [Jeon Ji Hyun là đại sứ thương hiệu Ecovacs Robotics](https://vnexpress.net/jeon-ji-hyun-la-dai-su-thuong-hieu-ecovacs-robotics-4742687.html) - 12:00 06/05/2024
+- 🌊 [Hoa hậu Colombia thi marathon với chân giả](https://vnexpress.net/hoa-hau-colombia-thi-marathon-voi-chan-gia-4742662.html) - 11:00 06/05/2024
+- 🪜 [Ahn Jung Hwan - từ người hùng World Cup đến ngôi sao giải trí](https://vnexpress.net/ahn-jung-hwan-tu-nguoi-hung-world-cup-den-ngoi-sao-giai-tri-4742021.html) - 06:00 06/05/2024
+- 🕴 [Dung nhan Lưu Diệc Phi gây sốt](https://vnexpress.net/dung-nhan-luu-diec-phi-gay-sot-4742503.html) - 04:44 06/05/2024
+- 💃 [Trích &#39;Hùm xám đường số 4&#39; &lpar;phần một&rpar;: Từ Bố Củng - Lũng Vải đến Bản Nằm](https://vnexpress.net/trich-hum-xam-duong-so-4-phan-mot-tu-bo-cung-lung-vai-den-ban-nam-4741789.html) - 03:43 06/05/2024
+- 🦄 [Sao &#39;Titanic&#39; qua đời](https://vnexpress.net/sao-titanic-qua-doi-4742419.html) - 02:51 06/05/2024
+- ⛽️ [Lý Hải: &#39;Tôi không ham danh hiệu đạo diễn nghìn tỷ&#39;](https://vnexpress.net/ly-hai-toi-khong-ham-danh-hieu-dao-dien-nghin-ty-4740691.html) - 17:00 05/05/2024
+- 😎 [&#39;Trùm phim kiếm hiệp&#39; trang trí biệt thự đón sinh nhật vợ](https://vnexpress.net/trum-phim-kiem-hiep-trang-tri-biet-thu-don-sinh-nhat-vo-4742310.html) - 14:30 05/05/2024
+- 🌊 [Bạn trai khen Shakira &#39;xinh đẹp, chăm chỉ&#39;](https://vnexpress.net/ban-trai-khen-shakira-xinh-dep-cham-chi-4742298.html) - 14:11 05/05/2024
+- 🐲 [Thanh Thức: &#39;Tôi tận hưởng cuộc sống độc thân&#39;](https://vnexpress.net/thanh-thuc-toi-tan-huong-cuoc-song-doc-than-4741003.html) - 12:49 05/05/2024
+- 💂 [Đường phố, con người Hong Kong 150 năm trước](https://vnexpress.net/duong-pho-con-nguoi-hong-kong-150-nam-truoc-4742227.html) - 12:00 05/05/2024
+- 🙉 [Concert Madonna hút 1,6 triệu khán giả](https://vnexpress.net/concert-madonna-hut-1-6-trieu-khan-gia-4742275.html) - 11:43 05/05/2024
+- 💪 [Chế Linh thu đĩa than ở tuổi 82](https://vnexpress.net/che-linh-thu-dia-than-o-tuoi-82-4742262.html) - 10:21 05/05/2024
+- 👍 [Tài tử &#39;Queen of Tears&#39; trưởng thành từ khốn khó](https://vnexpress.net/tai-tu-queen-of-tears-truong-thanh-tu-khon-kho-4742184.html) - 09:44 05/05/2024
+- 💪 [Đàm Vĩnh Hưng thăng hoa với show bolero cuối](https://vnexpress.net/dam-vinh-hung-thang-hoa-voi-show-bolero-cuoi-4742153.html) - 06:03 05/05/2024
+- 💄 [&#39;Ca vương&#39; Trung Quốc tổ chức concert lúc 3h sáng](https://vnexpress.net/ca-vuong-trung-quoc-to-chuc-concert-luc-3h-sang-4742179.html) - 05:24 05/05/2024
+- 🦩 [Vẻ đẹp tuổi 18 của người mẫu Nga Kristina Pimenova](https://vnexpress.net/ve-dep-tuoi-18-cua-nguoi-mau-nga-kristina-pimenova-4742199.html) - 05:11 05/05/2024
+- 🥸 [Cuộc sống Johnny Depp sau ly hôn](https://vnexpress.net/cuoc-song-johnny-depp-sau-ly-hon-4742055.html) - 03:40 05/05/2024
+- 🧰 [Hậu trường cảnh hành động phim Tạ Đình Phong](https://vnexpress.net/hau-truong-canh-hanh-dong-phim-ta-dinh-phong-4742160.html) - 02:18 05/05/2024
+- 💼 [Dàn sao xem liveshow bolero của Đàm Vĩnh Hưng](https://vnexpress.net/dan-sao-xem-liveshow-bolero-cua-dam-vinh-hung-4742141.html) - 01:15 05/05/2024
 - 🧑‍💻 [Chiến thắng Điện Biên Phủ qua ống kính phóng viên chiến trường](https://vnexpress.net/chien-thang-dien-bien-phu-qua-ong-kinh-phong-vien-chien-truong-4741915.html) - 17:00 04/05/2024<!-- vnexpress-giai-tri:END -->
