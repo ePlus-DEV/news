@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Anh cảnh sát tặng còi chỉ huy diễu binh cho bé gái](https://vnexpress.net/anh-canh-sat-tang-coi-chi-huy-dieu-binh-cho-be-gai-4743426.html) - 03:48 08/05/2024
+- 🚀 [Anh cảnh sát gây &#39;bão mạng&#39; vì tặng còi cho bé gái](https://vnexpress.net/anh-canh-sat-gay-bao-mang-vi-tang-coi-cho-be-gai-4743426.html) - 03:48 08/05/2024
 - 🎓 [Tranh cãi chuyện &#39;quán không nhận chuyển khoản&#39;](https://vnexpress.net/tranh-cai-chuyen-quan-khong-nhan-chuyen-khoan-4742780.html) - 23:30 07/05/2024
 - 🚦 [Nỗi khổ chủ quán cà phê gặp khách ngồi &#39;cắm rễ&#39;](https://vnexpress.net/noi-kho-chu-quan-ca-phe-gap-khach-ngoi-cam-re-4739666.html) - 23:00 07/05/2024
 - 🦣 [Canh riêu trai Bắc Bộ](https://vnexpress.net/canh-rieu-trai-bac-bo-4743099.html) - 10:32 07/05/2024
