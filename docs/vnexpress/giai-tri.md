@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [&#39;Đệ nhất mỹ nhân&#39; Kim Hee Sun biến hóa phong cách](https://vnexpress.net/de-nhat-my-nhan-kim-hee-sun-bien-hoa-phong-cach-4741700.html) - 00:45 08/05/2024
 - 💫 [Trích &#39;Hùm xám đường số 4&#39; &lpar;phần cuối&rpar;: Treo cờ đỏ sao vàng trên Kỳ Đài Huế](https://vnexpress.net/trich-hum-xam-duong-so-4-phan-cuoi-treo-co-do-sao-vang-tren-ky-dai-hue-4743062.html) - 23:00 07/05/2024
-- 🌮 [Lương Bích Hữu áp lực vì tăng cân ở tuổi 40](https://vnexpress.net/luong-bich-huu-ap-luc-vi-tang-can-o-tuoi-40-4743008.html) - 22:00 07/05/2024
+- 🌮 [Lương Bích Hữu áp lực vì tăng cân](https://vnexpress.net/luong-bich-huu-ap-luc-vi-tang-can-4743008.html) - 22:00 07/05/2024
 - 🧠 [Tín Nguyễn - TikToker ghi dấu ấn với vai điện ảnh đầu tay](https://vnexpress.net/tin-nguyen-tiktoker-ghi-dau-an-voi-vai-dien-anh-dau-tay-4741127.html) - 17:00 07/05/2024
 - 👨‍🏫 [&#39;Quật mộ trùng ma&#39; thắng lớn ở Baeksang](https://vnexpress.net/quat-mo-trung-ma-thang-lon-o-baeksang-4743283.html) - 15:04 07/05/2024
 - ⚗️ [10 bộ đầm đẹp nhất Met Gala 2024](https://vnexpress.net/10-bo-dam-dep-nhat-met-gala-2024-4743161.html) - 13:11 07/05/2024
