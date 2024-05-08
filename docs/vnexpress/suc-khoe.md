@@ -7,7 +7,7 @@ sidebar_position: 10
 - 🔥 [Nhận &#39;án tử&#39; ung thư ở tuổi 30](https://vnexpress.net/nhan-an-tu-ung-thu-o-tuoi-30-4741477.html) - 23:03 08/05/2024
 - 🥰 [Bé gái nuốt hai đồng xu](https://vnexpress.net/be-gai-nuot-hai-dong-xu-4743207.html) - 23:00 08/05/2024
 - 💡 [Lá gan của người mẹ cứu mạng con trai ung thư](https://vnexpress.net/la-gan-cua-nguoi-me-cuu-mang-con-trai-ung-thu-4742873.html) - 22:00 08/05/2024
-- 🤗 [Loại vaccine ngăn ngừa được nhiều chủng virus corona](https://vnexpress.net/loai-vaccine-ngan-ngua-duoc-nhieu-chung-virus-corona-4743694.html) - 20:00 08/05/2024
+- 🤗 [Tiềm năng ngừa được nhiều chủng virus corona từ vaccine thử nghiệm](https://vnexpress.net/tiem-nang-ngua-duoc-nhieu-chung-virus-corona-tu-vaccine-thu-nghiem-4743694.html) - 20:00 08/05/2024
 - 🪜 [Suýt chết do dị ứng thuốc](https://vnexpress.net/suyt-chet-do-di-ung-thuoc-4743522.html) - 17:03 08/05/2024
 - 🕯 [Bệnh lý dịch kính võng mạc - nguyên nhân thứ hai gây mù lòa](https://vnexpress.net/benh-ly-dich-kinh-vong-mac-nguyen-nhan-thu-hai-gay-mu-loa-4743732.html) - 14:42 08/05/2024
 - 🤭 [Có cần tiêm vaccine phòng bệnh tiêu hóa dù không ăn hàng?](https://vnexpress.net/co-can-tiem-vaccine-phong-benh-tieu-hoa-du-khong-an-hang-4743546.html) - 13:00 08/05/2024
