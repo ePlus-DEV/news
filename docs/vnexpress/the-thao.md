@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Nam Định đào sâu cách biệt ở V-League](https://vnexpress.net/nam-dinh-dao-sau-cach-biet-o-v-league-4743744.html) - 15:01 08/05/2024
 - 🦩 [Vũ Văn Thanh bị thẻ đỏ, CAHN thua trận thứ hai liên tiếp](https://vnexpress.net/vu-van-thanh-bi-the-do-cahn-thua-tran-thu-hai-lien-tiep-4743741.html) - 14:30 08/05/2024
 - 🧰 [HLV Hà Tĩnh lần đầu lên tiếng vụ 5 cầu thủ bị bắt vì ma tuý](https://vnexpress.net/hlv-ha-tinh-lan-dau-len-tieng-vu-5-cau-thu-bi-bat-vi-ma-tuy-4743733.html) - 14:13 08/05/2024
-- 🤗 [Bellingham - Musiala: Từ bạn thơ ấu đến kình địch Champions League](https://vnexpress.net/bellingham-musiala-tu-ban-tho-au-den-kinh-dich-champions-league-4743630.html) - 11:00 08/05/2024
+- 🤗 [Bellingham - Musiala: Từ bạn thơ ấu đến địch thủ Champions League](https://vnexpress.net/bellingham-musiala-tu-ban-tho-au-den-dich-thu-champions-league-4743630.html) - 11:00 08/05/2024
 - 🥳 [Ancelotti không muốn xây dựng bản sắc cụ thể cho Real](https://vnexpress.net/ancelotti-khong-muon-xay-dung-ban-sac-cu-the-cho-real-4743699.html) - 11:00 08/05/2024
 - 🦣 [Tuchel: &#39;Bayern cần khát khao như những đứa trẻ&#39;](https://vnexpress.net/tuchel-bayern-can-khat-khao-nhu-nhung-dua-tre-4743639.html) - 11:00 08/05/2024
 - 🌜 [VFF đình chỉ vô thời hạn 5 cầu thủ Hà Tĩnh](https://vnexpress.net/vff-dinh-chi-vo-thoi-han-5-cau-thu-ha-tinh-4743695.html) - 10:34 08/05/2024
