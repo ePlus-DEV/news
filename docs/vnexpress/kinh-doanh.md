@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [SJC đặt mục tiêu lãi cao nhất 6 năm](https://vnexpress.net/sjc-dat-muc-tieu-lai-cao-nhat-6-nam-4743700.html) - 11:25 08/05/2024
 - 🐲 [Intel, Qualcomm bị thu hồi giấy phép bán chip cho Huawei](https://vnexpress.net/intel-qualcomm-bi-thu-hoi-giay-phep-ban-chip-cho-huawei-4743656.html) - 10:30 08/05/2024
 - 🔥 [Gói hỗ trợ lãi suất giải ngân 3% sau gần hai năm](https://vnexpress.net/goi-ho-tro-lai-suat-giai-ngan-duoc-3-sau-gan-hai-nam-4743662.html) - 10:15 08/05/2024
-- 🐵 [Mỹ xem xét công nhận Việt Nam là nền kinh tế thị trường](https://vnexpress.net/my-can-nhac-nang-viet-nam-len-kinh-te-thi-truong-4743657.html) - 10:04 08/05/2024
+- 🐵 [Mỹ điều trần về khả năng Việt Nam là nền kinh tế thị trường](https://vnexpress.net/my-dieu-tran-ve-kha-nang-viet-nam-la-nen-kinh-te-thi-truong-4743657.html) - 10:04 08/05/2024
 - 🦅 [Cổ phiếu Novaland giảm sàn](https://vnexpress.net/co-phieu-novaland-giam-san-4743628.html) - 08:55 08/05/2024
 - 😺 [Thanh toán không tiền mặt gấp 23 lần GDP](https://vnexpress.net/thanh-toan-khong-tien-mat-gap-23-lan-gdp-4743545.html) - 08:33 08/05/2024
 - 🤩 [FLC tiếp tục bị cưỡng chế thuế vì nợ hơn 90 tỷ đồng](https://vnexpress.net/flc-nhan-20-quyet-dinh-cuong-che-thue-trong-mot-ngay-4743556.html) - 08:07 08/05/2024
