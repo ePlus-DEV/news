@@ -39,12 +39,12 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎊 [Rolls-Royce Cullinan phiên bản mới ra mắt](https://vnexpress.net/rolls-royce-cullinan-phien-ban-moi-ra-mat-4743395.html) - 22:00 08/05/2024
 - 🤠 [Thắng ngược Bayern, Real gặp Dortmund ở chung kết Champions League](https://vnexpress.net/thang-nguoc-bayern-real-gap-dortmund-o-chung-ket-champions-league-4743763.html) - 21:11 08/05/2024
 - 🌈 [Thành phố Trung Quốc nhiều trạm sạc hơn trạm xăng](https://vnexpress.net/thanh-pho-trung-quoc-nhieu-tram-sac-hon-tram-xang-4743348.html) - 21:00 08/05/2024
-- 🎬 [Tiềm năng ngừa được nhiều chủng virus corona từ vaccine thử nghiệm](https://vnexpress.net/tiem-nang-ngua-duoc-nhieu-chung-virus-corona-tu-vaccine-thu-nghiem-4743694.html) - 20:00 08/05/2024
+- 🎬 [Loại vaccine ngăn ngừa được nhiều chủng virus corona](https://vnexpress.net/loai-vaccine-ngan-ngua-duoc-nhieu-chung-virus-corona-4743694.html) - 20:00 08/05/2024
 - 🚀 [Tổ hợp tên lửa Anh viện trợ Ukraine nổ tung do trúng UAV Lancet](https://vnexpress.net/to-hop-ten-lua-anh-vien-tro-ukraine-no-tung-do-trung-uav-lancet-4743511.html) - 18:00 08/05/2024
 - 🪄 [Doanh thu máy lạnh, quạt điện tăng vọt](https://vnexpress.net/doanh-thu-may-lanh-quat-dien-tang-vot-4743519.html) - 17:49 08/05/2024
 - 😎 [Chiêu chiếm đoạt sim, lấy tiền](https://vnexpress.net/chieu-chiem-doat-sim-lay-tien-4743735.html) - 17:16 08/05/2024
 - 🎊 [Suýt chết do dị ứng thuốc](https://vnexpress.net/suyt-chet-do-di-ung-thuoc-4743522.html) - 17:03 08/05/2024
-- ⚗️ [Ngón tay tiết lộ người trong mơ của bạn?](https://vnexpress.net/ngon-tay-tiet-lo-nguoi-trong-mo-cua-ban-4742729.html) - 17:03 08/05/2024
+- ⚗️ [Ngón tay tiết lộ ý chung nhân trong mơ của bạn?](https://vnexpress.net/ngon-tay-tiet-lo-y-chung-nhan-trong-mo-cua-ban-4742729.html) - 17:03 08/05/2024
 - 🫣 [Xuyên đêm ăn &#39;xiên bẩn&#39;](https://vnexpress.net/xuyen-dem-an-xien-ban-4743740.html) - 17:02 08/05/2024
 - 👨‍🏫 [Bố trí nội thất phòng bếp cho căn hộ 32 m2](https://vnexpress.net/bo-tri-noi-that-phong-bep-cho-can-ho-32-m2-4743580.html) - 17:01 08/05/2024
 - 🐻 [Ăn chín uống sôi](https://vnexpress.net/an-chin-uong-soi-4743758.html) - 17:00 08/05/2024
