@@ -14,7 +14,7 @@ sidebar_position: 5
 - 🫶 [HLV Dortmund mong Hummels ghi bàn ở chung kết Champions League](https://vnexpress.net/hlv-dortmund-mong-hummels-ghi-ban-o-chung-ket-champions-league-4743518.html) - 04:57 08/05/2024
 - 🌜 [Enrique: &#39;Bóng đá đã tàn nhẫn với PSG&#39;](https://vnexpress.net/enrique-bong-da-da-tan-nhan-voi-psg-4743371.html) - 03:17 08/05/2024
 - 😺 [Marco Reus: &#39;Không ai nghĩ Dortmund vào chung kết&#39;](https://vnexpress.net/marco-reus-khong-ai-nghi-dortmund-vao-chung-ket-4743417.html) - 02:55 08/05/2024
-- 👍 [4 cầu thủ Hà Tĩnh bị điều tra liên quan ma túy](https://vnexpress.net/4-cau-thu-ha-tinh-bi-dieu-tra-lien-quan-ma-tuy-4742517.html) - 02:23 08/05/2024
+- 👍 [5 cầu thủ Hà Tĩnh bị điều tra liên quan ma túy](https://vnexpress.net/4-cau-thu-ha-tinh-bi-dieu-tra-lien-quan-ma-tuy-4742517.html) - 02:23 08/05/2024
 - 🐵 [Toni Nadal: &#39;Djokovic sẵn sàng trả giá cho vinh quang&#39;](https://vnexpress.net/toni-nadal-djokovic-san-sang-tra-gia-cho-vinh-quang-4743380.html) - 02:12 08/05/2024
 - 💫 [Kipchoge đau lòng vì bị nghi liên quan đến cái chết của Kiptum](https://vnexpress.net/kipchoge-dau-long-vi-bi-nghi-lien-quan-den-cai-chet-cua-kiptum-4743379.html) - 02:09 08/05/2024
 - 🦆 [Mbappe: &#39;Dortmund chơi hiệu quả hơn PSG&#39;](https://vnexpress.net/mbappe-dortmund-choi-hieu-qua-hon-psg-4743333.html) - 01:24 08/05/2024
