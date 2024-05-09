@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Tỷ phú muối ở Bạc Liêu](https://vnexpress.net/ty-phu-muoi-xu-cong-tu-bac-lieu-4739278.html) - 22:00 08/05/2024
+- 🦒 [Tỷ phú muối ở Bạc Liêu](https://vnexpress.net/ty-phu-muoi-o-bac-lieu-4739278.html) - 22:00 08/05/2024
 - 🤓 [Cho thuê vỉa hè ở 11 tuyến đường trung tâm TP HCM](https://vnexpress.net/cho-thue-via-he-o-11-tuyen-duong-trung-tam-tp-hcm-4743726.html) - 17:00 08/05/2024
 - ⚗️ [Đề xuất dùng hợp đồng mua nhà ở hình thành trong tương lai để đăng ký thường trú](https://vnexpress.net/de-xuat-dung-hop-dong-mua-nha-o-hinh-thanh-trong-tuong-lai-de-dang-ky-thuong-tru-4743467.html) - 14:30 08/05/2024
 - 🌊 [Cháy hơn 60 ha rừng keo và mía ở Khánh Hòa](https://vnexpress.net/chay-hon-60-ha-rung-keo-va-mia-o-khanh-hoa-4743727.html) - 13:24 08/05/2024
