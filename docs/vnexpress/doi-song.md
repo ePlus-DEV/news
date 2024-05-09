@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Pharmacity thu xịt hen cũ, trợ giá mua mới](https://vnexpress.net/pharmacity-thu-xit-hen-cu-tro-gia-mua-moi-4744165.html) - 12:00 09/05/2024
+- 🚀 [Pharmacity thu lọ xịt hen cũ, trợ giá mua mới](https://vnexpress.net/pharmacity-thu-lo-xit-hen-cu-tro-gia-mua-moi-4744165.html) - 12:00 09/05/2024
 - 🎓 [Ốc om chuối đậu kiểu Hà Nội cũ](https://vnexpress.net/oc-om-chuoi-dau-kieu-ha-noi-cu-4743946.html) - 10:30 09/05/2024
 - 🚦 [Đổ xô đến đồn cảnh sát chụp ảnh giống tội phạm](https://vnexpress.net/do-xo-den-don-canh-sat-chup-anh-giong-toi-pham-4743973.html) - 07:13 09/05/2024
 - 🦣 [Dấu hiệu một người còn nhớ tình cũ](https://vnexpress.net/dau-hieu-mot-nguoi-con-nho-tinh-cu-4743474.html) - 06:30 09/05/2024
