@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Bộ Giáo dục: 56.200 chứng chỉ IELTS sai quy định được dùng bình thường](https://vnexpress.net/bo-giao-duc-56-200-chung-chi-ielts-sai-quy-dinh-duoc-dung-binh-thuong-4743972.html) - 09:41 09/05/2024
+- 🤓 [Bộ Giáo dục: 56.200 chứng chỉ IELTS &#39;trái phép&#39; được dùng bình thường](https://vnexpress.net/bo-giao-duc-56-200-chung-chi-ielts-trai-phep-duoc-dung-binh-thuong-4743972.html) - 09:41 09/05/2024
 - 🦆 [Học phí ĐH Bách khoa TP HCM cao nhất 80 triệu đồng](https://vnexpress.net/hoc-phi-dh-bach-khoa-tp-hcm-cao-nhat-80-trieu-dong-4744074.html) - 09:05 09/05/2024
 - 🦩 [Thầy giáo Mỹ học thạc sĩ Toán ở Việt Nam](https://vnexpress.net/thay-giao-my-hoc-thac-si-toan-o-viet-nam-4743862.html) - 08:04 09/05/2024
 - 🌮 [Sốc vì chứng chỉ IELTS bị kết luận &#39;trái phép&#39;](https://vnexpress.net/soc-vi-chung-chi-ielts-bi-ket-luan-trai-phep-4743932.html) - 04:37 09/05/2024
