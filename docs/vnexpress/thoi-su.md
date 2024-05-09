@@ -17,7 +17,7 @@ sidebar_position: 1
 - 🎉 [Lễ rước mục đồng ở Đà Nẵng](https://vnexpress.net/le-ruoc-muc-dong-o-da-nang-4743325.html) - 04:38 08/05/2024
 - 🦒 [40 xe điện du lịch ở Hội An bị thiêu rụi](https://vnexpress.net/40-xe-dien-du-lich-o-hoi-an-bi-thieu-rui-4743344.html) - 01:35 08/05/2024
 - 🤗 [Nước ngầm ở Tây Nguyên &#39;suy giảm không ngừng&#39;](https://vnexpress.net/nuoc-ngam-o-tay-nguyen-suy-giam-khong-ngung-4743032.html) - 23:00 07/05/2024
-- 💼 [Đường Láng sẽ được mở rộng gấp đôi](https://vnexpress.net/duong-lang-se-duoc-mo-rong-gap-doi-4743267.html) - 22:00 07/05/2024
+- 💼 [Đường Láng dự kiến được mở rộng gấp đôi](https://vnexpress.net/duong-lang-du-kien-duoc-mo-rong-gap-doi-4743267.html) - 22:00 07/05/2024
 - 🤩 [Trưng bày 500 cổ vật quý hiếm ở Hải Phòng](https://vnexpress.net/trung-bay-500-co-vat-quy-hiem-o-hai-phong-4742991.html) - 22:00 07/05/2024
 - 🤡 [TP HCM sẽ làm tuyến đường &#39;mẫu&#39; về không gian đô thị ở khu trung tâm](https://vnexpress.net/tp-hcm-se-lam-tuyen-duong-mau-ve-khong-gian-do-thi-o-khu-trung-tam-4743242.html) - 17:00 07/05/2024
 - 💯 [&#39;Dự thảo quy định tách thửa gây khó cho người dân TP HCM&#39;](https://vnexpress.net/du-thao-quy-dinh-tach-thua-gay-kho-cho-nguoi-dan-tp-hcm-4743125.html) - 17:00 07/05/2024
