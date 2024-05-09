@@ -12,7 +12,7 @@ sidebar_position: 12
 - 🙉 [Lẻn vào trường hiếp dâm bé gái 7 tuổi](https://vnexpress.net/len-vao-truong-hiep-dam-be-gai-7-tuoi-4743742.html) - 17:00 08/05/2024
 - 🤡 [Tẩm xăng đốt vợ trong lúc to tiếng](https://vnexpress.net/tam-xang-dot-vo-trong-luc-to-tieng-4743691.html) - 10:49 08/05/2024
 - 🗽 [Nguyên giám đốc CDC Thừa Thiên Huế được miễn hình phạt tù](https://vnexpress.net/nguyen-giam-doc-cdc-thua-thien-hue-duoc-mien-hinh-phat-tu-4743664.html) - 10:28 08/05/2024
-- 🌋 [Lấy danh diễn viên &#39;Cảnh sát hình sự&#39; để lừa xin việc, chạy án](https://vnexpress.net/lay-danh-dien-vien-canh-sat-hinh-su-de-lua-xin-viec-chay-an-4743611.html) - 09:43 08/05/2024
+- 🌋 [Diễn viên giả danh vụ phó để lừa xin việc, chạy án](https://vnexpress.net/lay-danh-dien-vien-canh-sat-hinh-su-de-lua-xin-viec-chay-an-4743611.html) - 09:43 08/05/2024
 - 🎬 [Bị phạt 8 năm tù vì chống phá Nhà nước](https://vnexpress.net/bi-phat-8-nam-tu-vi-chong-pha-nha-nuoc-4743551.html) - 07:12 08/05/2024
 - 💯 [Cựu trưởng Phòng tàu sông Cục Đăng kiểm Việt Nam bị truy nã](https://vnexpress.net/cuu-truong-phong-tau-song-cuc-dang-kiem-viet-nam-bi-truy-na-4743472.html) - 04:59 08/05/2024
 - 🌏 [Cựu giám đốc trung tâm pháp y bị phạt hơn 4 năm tù](https://vnexpress.net/cuu-giam-doc-trung-tam-phap-y-bi-phat-hon-4-nam-tu-4743392.html) - 03:59 08/05/2024
