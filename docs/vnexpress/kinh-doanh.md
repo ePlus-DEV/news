@@ -9,7 +9,7 @@ sidebar_position: 3
 - 🔥 [Măng cụt Thái rẻ bằng nửa hàng Việt](https://vnexpress.net/mang-cut-thai-re-bang-nua-hang-viet-4743509.html) - 05:29 09/05/2024
 - 🐵 [Người Mỹ ngày càng khó mua nhà](https://vnexpress.net/nguoi-my-ngay-cang-kho-mua-nha-4743854.html) - 05:06 09/05/2024
 - 🦅 [Quảng Ninh lần thứ 7 đứng đầu năng lực cạnh tranh cấp tỉnh](https://vnexpress.net/quang-ninh-lap-ky-luc-bay-nam-dung-dau-xep-hang-nang-luc-canh-tranh-cap-tinh-4743912.html) - 03:52 09/05/2024
-- 😺 [Giá vàng miếng SJC tăng vọt, vượt 89 triệu đồng](https://vnexpress.net/gia-vang-mieng-sjc-vuot-88-trieu-dong-4743861.html) - 02:29 09/05/2024
+- 😺 [Giá vàng miếng SJC tiến sát 90 triệu đồng](https://vnexpress.net/gia-vang-mieng-sjc-vuot-88-trieu-dong-4743861.html) - 02:29 09/05/2024
 - 🤩 [Giá vé máy bay tăng do đâu?](https://vnexpress.net/gia-ve-may-bay-tang-do-dau-4742896.html) - 02:15 09/05/2024
 - 🌮 [FE Credit ưu đãi khách vay mua xe máy](https://vnexpress.net/fe-credit-uu-dai-khach-vay-mua-xe-may-4743428.html) - 01:00 09/05/2024
 - 🧰 [Doanh thu máy lạnh, quạt điện tăng vọt](https://vnexpress.net/doanh-thu-may-lanh-quat-dien-tang-vot-4743519.html) - 17:49 08/05/2024
