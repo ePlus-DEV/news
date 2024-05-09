@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [&#39;Qua miền Tây Bắc&#39; - khúc hoan ca ngày chiến thắng](https://vnexpress.net/qua-mien-tay-bac-khuc-hoan-ca-ngay-chien-thang-4743601.html) - 03:33 09/05/2024
+- 🌏 [&#39;Qua miền Tây Bắc&#39; - hoan ca ngày chiến thắng](https://vnexpress.net/qua-mien-tay-bac-hoan-ca-ngay-chien-thang-4743601.html) - 03:33 09/05/2024
 - 💫 [Cậu bé châu Phi khám phá cảnh đẹp, ẩm thực Việt](https://vnexpress.net/cau-be-chau-phi-kham-pha-canh-dep-am-thuc-viet-4743477.html) - 02:44 09/05/2024
 - 🌮 [Việc dán nhãn sách ở Việt Nam thực hiện thế nào](https://vnexpress.net/viec-dan-nhan-sach-o-viet-nam-thuc-hien-the-nao-4742587.html) - 00:58 09/05/2024
 - 🧠 [Cuộc sống về hưu của &#39;ông trùm&#39; Trần Đức](https://vnexpress.net/cuoc-song-ve-huu-cua-ong-trum-tran-duc-4743678.html) - 17:00 08/05/2024
