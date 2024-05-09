@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hơn 20 hộ ở trung tâm TP HCM đóng phí sử dụng vỉa hè](https://vnexpress.net/hon-20-ho-o-trung-tam-tp-hcm-dong-phi-su-dung-via-he-4744118.html) - 09:54 09/05/2024
+- 🦒 [Gần 30 hộ ở trung tâm TP HCM đăng ký sử dụng vỉa hè](https://vnexpress.net/gan-30-ho-o-trung-tam-tp-hcm-dang-ky-su-dung-via-he-4744118.html) - 09:54 09/05/2024
 - 🤓 [Robot sẽ đào hầm đường sắt Nhổn - ga Hà Nội trong quý II](https://vnexpress.net/robot-se-dao-ham-duong-sat-nhon-ga-ha-noi-trong-quy-ii-4744087.html) - 09:45 09/05/2024
 - ⚗️ [Đề xuất đầu tư cao tốc Phủ Lý - Nam Định](https://vnexpress.net/de-xuat-dau-tu-cao-toc-phu-ly-nam-dinh-4743967.html) - 08:51 09/05/2024
 - 🌊 [Doanh nghiệp chậm được hỗ trợ dự án BOT giao thông](https://vnexpress.net/doanh-nghiep-cham-duoc-ho-tro-du-an-bot-giao-thong-4743903.html) - 07:35 09/05/2024
