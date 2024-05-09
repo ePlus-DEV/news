@@ -10,7 +10,7 @@ sidebar_position: 7
 - 🌮 [Đại học Sư phạm Hà Nội có hiệu trưởng mới](https://vnexpress.net/dai-hoc-su-pham-ha-noi-co-hieu-truong-moi-4743710.html) - 12:00 08/05/2024
 - 🔭 [Hơn 41.500 thí sinh đăng ký thi đánh giá năng lực đợt 2](https://vnexpress.net/hon-41-500-thi-sinh-dang-ky-thi-danh-gia-nang-luc-dot-2-4743642.html) - 11:44 08/05/2024
 - 💡 [Hơn 56.000 chứng chỉ IELTS ở Việt Nam bị cấp sai quy định](https://vnexpress.net/hon-56-000-chung-chi-ielts-o-viet-nam-bi-cap-sai-quy-dinh-4743660.html) - 09:44 08/05/2024
-- 🥰 [Chương trình Fulbright tuyển 5 trợ giảng tiếng Việt cho đại học Mỹ](https://vnexpress.net/chuong-trinh-fulbright-tuyen-5-tro-giang-tieng-viet-cho-dai-hoc-my-4743554.html) - 09:30 08/05/2024
+- 🥰 [Tuyển giáo viên sang Mỹ dạy tiếng Việt](https://vnexpress.net/tuyen-giao-vien-sang-my-day-tieng-viet-4743554.html) - 09:30 08/05/2024
 - 🐲 [Dự kiến 23.000 học sinh Hà Nội không thi lớp 10](https://vnexpress.net/du-kien-23-000-hoc-sinh-ha-noi-khong-thi-lop-10-4743555.html) - 07:56 08/05/2024
 - 🦒 [Những đại học xét tuyển học bạ từ tháng 5](https://vnexpress.net/nhung-dai-hoc-xet-tuyen-hoc-ba-tu-thang-5-4743460.html) - 06:43 08/05/2024
 - 🦆 [Học sinh Việt giành 6 giải ở cuộc thi Robotics lớn nhất thế giới](https://vnexpress.net/hoc-sinh-viet-gianh-6-giai-o-cuoc-thi-robotics-lon-nhat-the-gioi-4743284.html) - 03:56 08/05/2024
