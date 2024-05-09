@@ -12,7 +12,7 @@ sidebar_position: 5
 - 🦣 [Indonesia – Guinea: Cơ hội cuối cùng đến Olympic 2024](https://vnexpress.net/indonesia-guinea-co-hoi-cuoi-cung-den-olympic-2024-4744000.html) - 06:14 09/05/2024
 - 🌜 [HLV Văn Sỹ Sơn: &#39;V-League cần kiểm tra doping cầu thủ&#39;](https://vnexpress.net/hlv-van-sy-son-v-league-can-kiem-tra-doping-cau-thu-4743957.html) - 04:43 09/05/2024
 - 🫶 [Chờ đại chiến Djokovic - Nadal ở Rome Masters](https://vnexpress.net/cho-dai-chien-djokovic-nadal-o-rome-masters-4743923.html) - 03:53 09/05/2024
-- 🌜 [Bị lừa hơn nửa tỷ khi đăng ký giải chạy cho trẻ em](https://vnexpress.net/bi-lua-hon-nua-ty-khi-dang-ky-giai-chay-cho-tre-em-4743600.html) - 03:30 09/05/2024
+- 🌜 [Bị lừa hơn nửa tỷ đồng khi đăng ký giải chạy cho trẻ em](https://vnexpress.net/bi-lua-hon-nua-ty-dong-khi-dang-ky-giai-chay-cho-tre-em-4743600.html) - 03:30 09/05/2024
 - 😺 [Cựu trọng tài FIFA chỉ ra sai lầm trong trận Real - Bayern](https://vnexpress.net/cuu-trong-tai-fifa-chi-ra-sai-lam-trong-tran-real-bayern-4743793.html) - 02:02 09/05/2024
 - 👍 [Tuchel bị chỉ trích vì sớm thay Harry Kane](https://vnexpress.net/tuchel-bi-chi-trich-vi-som-thay-harry-kane-4743824.html) - 01:39 09/05/2024
 - 🐵 [Ancelotti: &#39;Cầu thủ Real đã dừng lại khi trọng tài thổi việt vị Bayern&#39;](https://vnexpress.net/ancelotti-cau-thu-real-da-dung-lai-khi-trong-tai-thoi-viet-vi-bayern-4743768.html) - 01:21 09/05/2024
