@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [HAGL bất bại tám trận liên tiếp tại V-League](https://vnexpress.net/hagl-bat-bai-tam-tran-lien-tiep-tai-v-league-4744172.html) - 12:44 09/05/2024
-- 🦩 [Play-off Olympic: Indonesia - Guinea](https://vnexpress.net/truc-tiep-indonesia-vs-guinea-4744174.html) - 12:21 09/05/2024
+- 🦩 [Play-off Olympic: Indonesia 0-0 Guinea &lpar;H1&rpar;](https://vnexpress.net/truc-tiep-indonesia-vs-guinea-4744174.html) - 12:21 09/05/2024
 - 🧰 [De Rossi muốn Roma tái hiện màn ngược dòng trước Barca](https://vnexpress.net/de-rossi-muon-roma-tai-hien-man-nguoc-dong-truoc-barca-4744166.html) - 11:45 09/05/2024
 - 🤗 [Alonso tự hào với thành tích của Bundesliga tại Cup châu Âu](https://vnexpress.net/alonso-tu-hao-voi-thanh-tich-cua-bundesliga-tai-cup-chau-au-4744159.html) - 11:31 09/05/2024
 - 🥳 [Tuchel: &#39;100 năm nữa Neuer mới mắc lỗi như trước Real&#39;](https://vnexpress.net/tuchel-100-nam-nua-neuer-moi-mac-loi-nhu-truoc-real-4744110.html) - 11:12 09/05/2024
