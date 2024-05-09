@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [HLV Hoàng Anh Tuấn chia tay VFF](https://vnexpress.net/hlv-hoang-anh-tuan-chia-tay-vff-4743278.html) - 14:36 09/05/2024
 - 🧰 [Cơ thủ Quốc Hoàng vào vòng loại trực tiếp UK Open](https://vnexpress.net/co-thu-quoc-hoang-vao-vong-loai-truc-tiep-uk-open-4744178.html) - 13:19 09/05/2024
 - 🤗 [HAGL bất bại tám trận liên tiếp tại V-League](https://vnexpress.net/hagl-bat-bai-tam-tran-lien-tiep-tai-v-league-4744172.html) - 12:44 09/05/2024
-- 🥳 [Indonesia thua Guinea, hết hy vọng dự Olympic](https://vnexpress.net/truc-tiep-indonesia-vs-guinea-4744174.html) - 12:21 09/05/2024
+- 🥳 [Indonesia hết cửa dự Olympic 2024](https://vnexpress.net/truc-tiep-indonesia-vs-guinea-4744174-tong-thuat.html) - 12:21 09/05/2024
 - 🦣 [De Rossi muốn Roma tái hiện màn ngược dòng trước Barca](https://vnexpress.net/de-rossi-muon-roma-tai-hien-man-nguoc-dong-truoc-barca-4744166.html) - 11:45 09/05/2024
 - 🌜 [Alonso tự hào với thành tích của Bundesliga tại Cup châu Âu](https://vnexpress.net/alonso-tu-hao-voi-thanh-tich-cua-bundesliga-tai-cup-chau-au-4744159.html) - 11:31 09/05/2024
 - 🫶 [Tuchel: &#39;100 năm nữa Neuer mới mắc lỗi như trước Real&#39;](https://vnexpress.net/tuchel-100-nam-nua-neuer-moi-mac-loi-nhu-truoc-real-4744110.html) - 11:12 09/05/2024
