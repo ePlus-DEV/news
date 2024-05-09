@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Vì sao khách Việt đổ xô đi Nhật?](https://vnexpress.net/vi-sao-khach-viet-do-xo-di-nhat-4743571.html) - 05:01 09/05/2024
-- 🪄 [Bên trong khách sạn dát vàng mọi đồ dùng ở Dubai](https://vnexpress.net/ben-trong-khach-san-dat-vang-moi-do-dung-o-dubai-4743812.html) - 04:40 09/05/2024
+- 🪄 [Khách sạn dát vàng mọi đồ dùng ở Dubai](https://vnexpress.net/khach-san-dat-vang-moi-do-dung-o-dubai-4743812.html) - 04:40 09/05/2024
 - 🦅 [Bị &#39;chặt chém&#39; - điều khách đến Hàn Quốc phàn nàn nhiều nhất](https://vnexpress.net/bi-chat-chem-dieu-khach-den-han-quoc-phan-nan-nhieu-nhat-4743880.html) - 03:17 09/05/2024
 - 🕴 [6 thiên đường ít người biết ở Croatia](https://vnexpress.net/6-thien-duong-it-nguoi-biet-o-croatia-4743386.html) - 02:49 09/05/2024
 - 👀 [Mẹo cho người hướng nội &#39;đánh lẻ&#39; khi du lịch đông người](https://vnexpress.net/meo-cho-nguoi-huong-noi-danh-le-khi-du-lich-dong-nguoi-4740137.html) - 00:00 09/05/2024
