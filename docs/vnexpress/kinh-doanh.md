@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Giá vàng miếng SJC tăng vọt, vượt 88 triệu đồng](https://vnexpress.net/gia-vang-mieng-sjc-vuot-88-trieu-dong-4743861.html) - 02:29 09/05/2024
+- ⛽️ [Giá vàng miếng SJC tăng vọt lên 88,5 triệu đồng](https://vnexpress.net/gia-vang-mieng-sjc-vuot-88-trieu-dong-4743861.html) - 02:29 09/05/2024
 - 🐲 [Giá vé máy bay tăng do đâu?](https://vnexpress.net/gia-ve-may-bay-tang-do-dau-4742896.html) - 02:15 09/05/2024
 - 🔥 [FE Credit ưu đãi khách vay mua xe máy](https://vnexpress.net/fe-credit-uu-dai-khach-vay-mua-xe-may-4743428.html) - 01:00 09/05/2024
 - 🐵 [Doanh thu máy lạnh, quạt điện tăng vọt](https://vnexpress.net/doanh-thu-may-lanh-quat-dien-tang-vot-4743519.html) - 17:49 08/05/2024
