@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Samsung tính rót thêm 1 tỷ USD mỗi năm vào Việt Nam](https://vnexpress.net/samsung-se-dau-tu-them-1-ty-usd-moi-nam-tai-viet-nam-4744177.html) - 13:38 09/05/2024
-- 🐲 [Gạo xuất sang UAE tăng gấp đôi](https://vnexpress.net/gao-xuat-sang-uae-tang-gap-doi-4744108.html) - 13:18 09/05/2024
+- 🐲 [Xuất khẩu gạo sang UAE tăng gấp đôi](https://vnexpress.net/xuat-khau-gao-sang-uae-tang-gap-doi-4744108.html) - 13:18 09/05/2024
 - 🔥 [Việt Nam hoan nghênh Mỹ sớm công nhận quy chế kinh tế thị trường](https://vnexpress.net/viet-nam-hoan-nghenh-my-som-cong-nhan-quy-che-kinh-te-thi-truong-4744152.html) - 12:09 09/05/2024
 - 🐵 [Đổ xô đi mua vàng khi giá lập đỉnh](https://vnexpress.net/soi-dong-mua-ban-vang-4744140.html) - 11:31 09/05/2024
 - 🦅 [Việt Nam mục tiêu có 10 tỷ phú, 5 doanh nhân quyền lực nhất châu Á](https://vnexpress.net/viet-nam-muc-tieu-co-10-ty-phu-5-doanh-nhan-quyen-luc-nhat-chau-a-4744106.html) - 09:47 09/05/2024
