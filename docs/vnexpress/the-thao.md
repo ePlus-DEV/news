@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Trung vệ Nguyễn Ngọc Thắng và nguy cơ mất nghiệp vì ma tuý](https://vnexpress.net/trung-ve-nguyen-ngoc-thang-va-nguy-co-mat-nghiep-vi-ma-tuy-4743521.html) - 07:31 09/05/2024
 - 🦩 [Thủ thành Neuer không nói nên lời sau sai lầm trước Real](https://vnexpress.net/thu-thanh-neuer-khong-noi-nen-loi-sau-sai-lam-truoc-real-4743839.html) - 07:19 09/05/2024
-- 🧰 [Từ nạn nhân bạo lực học đường tới kỷ lục gia chạy 1000 chặng marathon](https://vnexpress.net/tu-nan-nhan-bao-luc-hoc-duong-toi-ky-luc-gia-chay-1000-chang-marathon-4743970.html) - 07:00 09/05/2024
+- 🧰 [Nạn nhân bạo lực học đường thành kỷ lục gia chạy 1000 chặng marathon](https://vnexpress.net/nan-nhan-bao-luc-hoc-duong-thanh-ky-luc-gia-chay-1000-chang-marathon-4743970.html) - 07:00 09/05/2024
 - 🤗 [Indonesia – Guinea: Cơ hội cuối cùng đến Olympic 2024](https://vnexpress.net/indonesia-guinea-co-hoi-cuoi-cung-den-olympic-2024-4744000.html) - 06:14 09/05/2024
 - 🥳 [HLV Văn Sỹ Sơn: &#39;V-League cần kiểm tra doping cầu thủ&#39;](https://vnexpress.net/hlv-van-sy-son-v-league-can-kiem-tra-doping-cau-thu-4743957.html) - 04:43 09/05/2024
 - 🦣 [Chờ đại chiến Djokovic - Nadal ở Rome Masters](https://vnexpress.net/cho-dai-chien-djokovic-nadal-o-rome-masters-4743923.html) - 03:53 09/05/2024
