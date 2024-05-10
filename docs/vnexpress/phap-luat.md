@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Tài xế có hơi men tông chết người đi bộ cùng chiều](https://vnexpress.net/tai-xe-co-hoi-men-tong-chet-nguoi-di-bo-cung-chieu-4744447.html) - 07:06 10/05/2024
+- 😎 [Tài xế có hơi men tông chết người đi bộ](https://vnexpress.net/tai-xe-co-hoi-men-tong-chet-nguoi-di-bo-cung-chieu-4744447.html) - 07:06 10/05/2024
 - 🥰 [Thêm một ôtô chất đầy ma túy bị bắt tại Hà Tĩnh](https://vnexpress.net/them-mot-oto-chat-day-ma-tuy-bi-bat-tai-ha-tinh-4744448.html) - 06:45 10/05/2024
 - 🎓 [Ngọc Thúy đề nghị tòa &#39;giải quyết dứt điểm&#39; vụ tranh chấp tài sản với chồng cũ](https://vnexpress.net/ngoc-thuy-de-nghi-toa-giai-quyet-dut-diem-vu-tranh-chap-tai-san-voi-chong-cu-4744374.html) - 04:23 10/05/2024
 - 🤓 [Giám đốc người Trung Quốc bị bắt sau vụ nổ 6 công nhân chết](https://vnexpress.net/giam-doc-nguoi-trung-quoc-bi-bat-sau-vu-no-6-cong-nhan-chet-4744396.html) - 04:00 10/05/2024
