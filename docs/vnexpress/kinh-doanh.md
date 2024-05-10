@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Vàng miếng SJC sát 91 triệu đồng](https://vnexpress.net/gia-vang-mieng-sjc-vuot-90-trieu-dong-4744292.html) - 02:15 10/05/2024
+- ⛽️ [Vàng miếng SJC vượt 91 triệu đồng](https://vnexpress.net/gia-vang-mieng-sjc-vuot-90-trieu-dong-4744292.html) - 02:15 10/05/2024
 - 🐲 [Giá vàng thế giới tăng vọt](https://vnexpress.net/gia-vang-the-gioi-tang-vot-4744225.html) - 00:39 10/05/2024
 - 🔥 [Kinh tế Ukraine có thể thay đổi hẳn vì chiến sự](https://vnexpress.net/kinh-te-ukraine-co-the-thay-doi-han-vi-chien-su-4744025.html) - 21:00 09/05/2024
 - 🐵 [Nhà máy điện khí LNG tỷ USD nguy cơ thiệt hại 13 tỷ đồng mỗi ngày](https://vnexpress.net/nha-may-dien-khi-lng-nguy-co-thiet-hai-13-ty-dong-moi-ngay-4744206.html) - 17:22 09/05/2024
