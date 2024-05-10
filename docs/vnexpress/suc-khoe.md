@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Nữ bác sĩ bị tấm kính rơi vào người &#39;khó phục hồi&#39;](https://vnexpress.net/nu-bac-si-bi-tam-kinh-roi-vao-nguoi-kho-phuc-hoi-4744664.html) - 15:09 10/05/2024
+- 🔥 [Nữ bác sĩ đa chấn thương do tấm kính quán cà phê đổ vào người](https://vnexpress.net/nu-bac-si-da-chan-thuong-do-tam-kinh-quan-ca-phe-do-vao-nguoi-4744664.html) - 15:09 10/05/2024
 - 🥰 [Mảnh xương mắc kẹt trong phổi suốt 25 năm](https://vnexpress.net/manh-xuong-mac-ket-trong-phoi-suot-25-nam-4744471.html) - 13:17 10/05/2024
 - 💡 [Rộ cơ sở làm đẹp vùng kín không phép](https://vnexpress.net/ro-co-so-lam-dep-vung-kin-khong-phep-4744441.html) - 12:00 10/05/2024
 - 🤗 [Nối động mạch não cho người phụ nữ](https://vnexpress.net/noi-dong-mach-nao-cho-nguoi-phu-nu-4744454.html) - 12:00 10/05/2024
