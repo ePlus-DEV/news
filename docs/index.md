@@ -75,8 +75,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎓 [Giấc ngủ du lịch giá hàng nghìn USD](https://vnexpress.net/giac-ngu-du-lich-gia-hang-nghin-usd-4744423.html) - 07:10 10/05/2024
 - 💫 [Tài xế có hơi men tông chết người đi bộ](https://vnexpress.net/tai-xe-co-hoi-men-tong-chet-nguoi-di-bo-cung-chieu-4744447.html) - 07:06 10/05/2024
 - 🤩 [Nhiều trường biến động mạnh tỷ lệ chọi lớp 10](https://vnexpress.net/nhieu-truong-bien-dong-manh-ty-le-choi-lop-10-4744442.html) - 07:05 10/05/2024
-- 🏊 [Angelina Jolie bị tố cáo khuyên các con &#39;không gặp Brad Pitt&#39;](https://vnexpress.net/angelina-jolie-bi-to-cao-khuyen-cac-con-khong-gap-brad-pitt-4744346.html) - 07:02 10/05/2024
-- 💂 [&#39;Khách xin wifi để chuyển khoản là đòi hỏi chính đáng&#39;](https://vnexpress.net/khach-xin-wifi-de-chuyen-khoan-la-doi-hoi-chinh-dang-4744393.html) - 07:00 10/05/2024<!-- vnexpress:END -->
+- 🏊 [Angelina Jolie bị tố cáo khuyên các con &#39;không gặp Brad Pitt&#39;](https://vnexpress.net/angelina-jolie-bi-to-cao-khuyen-cac-con-khong-gap-brad-pitt-4744346.html) - 07:02 10/05/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
