@@ -4,63 +4,63 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Mỹ muốn áp thuế nhập khẩu xe điện Trung Quốc](https://vnexpress.net/my-muon-ap-thue-nhap-khau-xe-dien-trung-quoc-4744352.html) - 05:08 10/05/2024
-- 🐲 [Vàng miếng SJC lên 92 triệu đồng](https://vnexpress.net/vang-mieng-sjc-len-92-trieu-dong-4744292.html) - 02:15 10/05/2024
-- 🔥 [Giá vàng thế giới tăng vọt](https://vnexpress.net/gia-vang-the-gioi-tang-vot-4744225.html) - 00:39 10/05/2024
-- 🐵 [Kinh tế Ukraine có thể thay đổi hẳn vì chiến sự](https://vnexpress.net/kinh-te-ukraine-co-the-thay-doi-han-vi-chien-su-4744025.html) - 21:00 09/05/2024
-- 🦅 [Nhà máy điện khí LNG tỷ USD nguy cơ thiệt hại 13 tỷ đồng mỗi ngày](https://vnexpress.net/nha-may-dien-khi-lng-nguy-co-thiet-hai-13-ty-dong-moi-ngay-4744206.html) - 17:22 09/05/2024
-- 😺 [HSBC: Việt Nam cần hơn 12 tỷ USD đầu tư hạ tầng ôtô điện](https://vnexpress.net/hsbc-viet-nam-can-hon-12-ty-usd-dau-tu-ha-tang-oto-dien-4744063.html) - 17:00 09/05/2024
-- 🤩 [Samsung tính rót thêm 1 tỷ USD mỗi năm vào Việt Nam](https://vnexpress.net/samsung-se-dau-tu-them-1-ty-usd-moi-nam-tai-viet-nam-4744177.html) - 13:38 09/05/2024
-- 🌮 [Xuất khẩu gạo sang UAE tăng gấp đôi](https://vnexpress.net/xuat-khau-gao-sang-uae-tang-gap-doi-4744108.html) - 13:18 09/05/2024
-- 🧰 [Việt Nam hoan nghênh Mỹ sớm công nhận quy chế kinh tế thị trường](https://vnexpress.net/viet-nam-hoan-nghenh-my-som-cong-nhan-quy-che-kinh-te-thi-truong-4744152.html) - 12:09 09/05/2024
-- 🤔 [Đổ xô đi mua vàng khi giá lập đỉnh](https://vnexpress.net/do-xo-di-mua-vang-khi-gia-lap-dinh-4744140.html) - 11:31 09/05/2024
-- 🧑‍💻 [Việt Nam mục tiêu có 10 tỷ phú, 5 doanh nhân quyền lực nhất châu Á](https://vnexpress.net/viet-nam-muc-tieu-co-10-ty-phu-5-doanh-nhan-quyen-luc-nhat-chau-a-4744106.html) - 09:47 09/05/2024
-- 🕴 [Chứng khoán đứt mạch tăng](https://vnexpress.net/chung-khoan-dut-mach-tang-4744082.html) - 08:42 09/05/2024
-- 🦩 [Giá xăng giảm hơn 1.000 đồng](https://vnexpress.net/gia-xang-moi-nhat-hom-nay-9-5-4744037.html) - 07:33 09/05/2024
-- 👍 [Thường trực Chính phủ: Cân nhắc &#39;mua có điều kiện&#39; điện mặt trời dư thừa](https://vnexpress.net/dien-mat-troi-mai-nha-du-thua-nen-khuyen-khich-ban-co-dieu-kien-4744002.html) - 06:35 09/05/2024
-- 🏊 [Măng cụt Thái rẻ bằng nửa hàng Việt](https://vnexpress.net/mang-cut-thai-re-bang-nua-hang-viet-4743509.html) - 05:29 09/05/2024
-- 🤡 [Người Mỹ ngày càng khó mua nhà](https://vnexpress.net/nguoi-my-ngay-cang-kho-mua-nha-4743854.html) - 05:06 09/05/2024
-- 👀 [Quảng Ninh lần thứ 7 đứng đầu năng lực cạnh tranh cấp tỉnh](https://vnexpress.net/quang-ninh-lap-ky-luc-bay-nam-dung-dau-xep-hang-nang-luc-canh-tranh-cap-tinh-4743912.html) - 03:52 09/05/2024
-- 😺 [Giá vàng miếng SJC tiến sát 90 triệu đồng](https://vnexpress.net/gia-vang-mieng-sjc-tien-sat-90-trieu-dong-4743861.html) - 02:29 09/05/2024
-- 🦣 [Giá vé máy bay tăng do đâu?](https://vnexpress.net/gia-ve-may-bay-tang-do-dau-4742896.html) - 02:15 09/05/2024
-- 😺 [FE Credit ưu đãi khách vay mua xe máy](https://vnexpress.net/fe-credit-uu-dai-khach-vay-mua-xe-may-4743428.html) - 01:00 09/05/2024
-- 💼 [Doanh thu máy lạnh, quạt điện tăng vọt](https://vnexpress.net/doanh-thu-may-lanh-quat-dien-tang-vot-4743519.html) - 17:49 08/05/2024
-- 🤗 [Gen Z ngập trong nợ nần](https://vnexpress.net/gen-z-ngap-trong-no-nan-4743400.html) - 17:00 08/05/2024
-- 👀 [SJC đặt mục tiêu lãi cao nhất 6 năm](https://vnexpress.net/sjc-dat-muc-tieu-lai-cao-nhat-6-nam-4743700.html) - 11:25 08/05/2024
-- 🎓 [Intel, Qualcomm bị thu hồi giấy phép bán chip cho Huawei](https://vnexpress.net/intel-qualcomm-bi-thu-hoi-giay-phep-ban-chip-cho-huawei-4743656.html) - 10:30 08/05/2024
-- 🗽 [Gói hỗ trợ lãi suất giải ngân 3% sau gần hai năm](https://vnexpress.net/goi-ho-tro-lai-suat-giai-ngan-duoc-3-sau-gan-hai-nam-4743662.html) - 10:15 08/05/2024
-- 🚀 [Mỹ điều trần về khả năng Việt Nam là nền kinh tế thị trường](https://vnexpress.net/my-dieu-tran-ve-kha-nang-viet-nam-la-nen-kinh-te-thi-truong-4743657.html) - 10:04 08/05/2024
-- 🤗 [Cổ phiếu Novaland giảm sàn](https://vnexpress.net/co-phieu-novaland-giam-san-4743628.html) - 08:55 08/05/2024
-- 🌜 [Thanh toán không tiền mặt gấp 23 lần GDP](https://vnexpress.net/thanh-toan-khong-tien-mat-gap-23-lan-gdp-4743545.html) - 08:33 08/05/2024
-- 👍 [FLC tiếp tục bị cưỡng chế thuế vì nợ hơn 90 tỷ đồng](https://vnexpress.net/flc-nhan-20-quyet-dinh-cuong-che-thue-trong-mot-ngay-4743556.html) - 08:07 08/05/2024
-- 🤖 [Đấu thầu thành công 3.400 lượng vàng miếng](https://vnexpress.net/3-400-luong-vang-mieng-tung-ra-thi-truong-sau-phien-dau-thau-sang-nay-4743542.html) - 07:56 08/05/2024
-- 🫣 [TP HCM siết hóa đơn mua bán vàng](https://vnexpress.net/tp-hcm-siet-hoa-don-mua-ban-vang-4743540.html) - 07:26 08/05/2024
-- 🌏 [Lộc Trời nợ tiền mua lúa của nông dân](https://vnexpress.net/loc-troi-no-tien-mua-lua-cua-nong-dan-4743534.html) - 07:15 08/05/2024
-- ⚗️ [Nhà đầu tư ngoại lo chậm chân mua bán điện trực tiếp](https://vnexpress.net/nha-dau-tu-ngoai-lo-cham-chan-mua-ban-dien-truc-tiep-4743468.html) - 04:49 08/05/2024
-- 🕯 [CUB Vietnam cấp hạn mức vay tiêu dùng trực tuyến đến 40 triệu](https://vnexpress.net/cub-vietnam-cap-han-muc-vay-tieu-dung-truc-tuyen-den-40-trieu-4736284.html) - 04:00 08/05/2024
-- 👍 [Tài chính số - điểm tựa nội lực của ngân hàng Cathay United Bank](https://vnexpress.net/tai-chinh-so-diem-tua-noi-luc-cua-ngan-hang-cathay-united-bank-4731640.html) - 03:00 08/05/2024
-- 🤠 [FPT Long Châu cam kết bình ổn giá thuốc dài hạn](https://vnexpress.net/fpt-long-chau-cam-ket-binh-on-gia-thuoc-dai-han-4743224.html) - 01:00 08/05/2024
-- 🌊 [Người Mỹ tiêu hết tiền tiết kiệm trong đại dịch](https://vnexpress.net/nguoi-my-tieu-het-tien-tiet-kiem-trong-dai-dich-4743293.html) - 21:18 07/05/2024
-- 🌈 [Nữ tỷ phú lừa đảo có thể ra tù sớm](https://vnexpress.net/nu-ty-phu-lua-dao-co-the-ra-tu-som-4743266.html) - 17:00 07/05/2024
-- 🥳 [ACV vay 1,8 tỷ USD để đầu tư sân bay Long Thành](https://vnexpress.net/acv-vay-1-8-ty-usd-de-dau-tu-san-bay-long-thanh-4743249.html) - 12:24 07/05/2024
-- 🐻 [Chính phủ Mỹ trả 2 triệu USD tiền lãi mỗi phút](https://vnexpress.net/chinh-phu-my-tra-2-trieu-usd-tien-lai-moi-phut-4743177.html) - 10:11 07/05/2024
-- 💫 [Ngân hàng Nhà nước tiếp tục đấu thầu vàng](https://vnexpress.net/ngan-hang-nha-nuoc-tiep-tuc-dau-thau-vang-4743215.html) - 09:58 07/05/2024
-- 🤩 [Elon Musk khuyên Warren Buffett mua cổ phiếu Tesla](https://vnexpress.net/elon-musk-khuyen-warren-buffett-mua-co-phieu-tesla-4743079.html) - 09:30 07/05/2024
-- 💻 [Hãng pin hơn 60 tuổi lãi kỷ lục](https://vnexpress.net/hang-pin-hon-60-tuoi-lai-ky-luc-4743089.html) - 08:59 07/05/2024
-- ⚗️ [Chứng khoán tăng 5 phiên liên tiếp](https://vnexpress.net/chung-khoan-tang-5-phien-lien-tiep-4743150.html) - 08:51 07/05/2024
-- 🌈 [Dự án đường dây 500 kV mạch 3 gặp khó về cung ứng cột thép](https://vnexpress.net/nhap-thiet-bi-cho-duong-day-500-kv-mach-3-4743101.html) - 08:39 07/05/2024
-- 🌝 [Cục Hàng không tìm người mua vé máy bay tăng giá bất thường](https://vnexpress.net/cuc-hang-khong-tim-nguoi-mua-ve-may-bay-tang-gia-bat-thuong-4743058.html) - 07:23 07/05/2024
-- 🥸 [Chứng khoán LPBank thành cổ đông lớn của Công ty bầu Đức](https://vnexpress.net/chung-khoan-lpbank-thanh-co-dong-lon-cua-cong-ty-bau-duc-4743030.html) - 06:53 07/05/2024
-- 🦆 [Tân Tạo, Thuduc House bị dừng làm thủ tục hải quan vì nợ thuế](https://vnexpress.net/loat-doanh-nghiep-bat-dong-san-bi-cuong-che-thue-4743056.html) - 06:41 07/05/2024
-- 🌋 [Có nên bán hết tài sản chuyển đến TP HCM lập nghiệp?](https://vnexpress.net/co-nen-ban-het-tai-san-chuyen-den-tp-hcm-lap-nghiep-4742911.html) - 04:15 07/05/2024
-- 🦍 [Củ sen Đồng Tháp lần đầu xuất sang Nhật](https://vnexpress.net/cu-sen-dong-thap-lan-dau-xuat-sang-nhat-4742922.html) - 03:59 07/05/2024
-- 🤔 [Nhu cầu xăng chậm lại vì xe điện](https://vnexpress.net/nhu-cau-xang-cham-lai-vi-xe-dien-4742765.html) - 03:29 07/05/2024
-- 🧰 [Giá vàng miếng SJC chạm 87,5 triệu đồng](https://vnexpress.net/moi-luong-vang-mieng-sjc-vuot-87-trieu-dong-4742932.html) - 02:55 07/05/2024
-- 🌝 [Các ngân hàng quốc tế kiếm hơn 3,5 tỷ USD ở Nga năm ngoái](https://vnexpress.net/cac-ngan-hang-quoc-te-kiem-hon-3-5-ty-usd-o-nga-nam-ngoai-4742777.html) - 23:55 06/05/2024
-- 👍 [Lãi suất tiết kiệm đồng loạt tăng](https://vnexpress.net/lai-suat-tiet-kiem-dong-loat-tang-4742799.html) - 23:49 06/05/2024
-- 🗽 [Con gái ông Bùi Thành Nhơn muốn bán hơn 9 triệu cổ phiếu NVL](https://vnexpress.net/con-gai-ong-bui-thanh-nhon-muon-ban-hon-9-trieu-co-phieu-nvl-4742782.html) - 14:58 06/05/2024
-- 🐎 [VCCI đề xuất mọi khách hàng được mua điện tái tạo không qua EVN](https://vnexpress.net/vcci-de-xuat-moi-khach-hang-duoc-mua-dien-tai-tao-khong-qua-evn-4742741.html) - 11:26 06/05/2024
-- 🪄 [Cục Hàng không: &#39;Giá vé tăng cao nhưng vẫn trong khung quy định&#39;](https://vnexpress.net/cuc-hang-khong-gia-ve-tang-cao-nhung-van-trong-khung-quy-dinh-4742718.html) - 11:05 06/05/2024
-- 🎊 [Bộ Công Thương: Chưa đề xuất thí điểm thuốc lá điện tử](https://vnexpress.net/bo-cong-thuong-chua-de-xuat-thi-diem-luu-hanh-thuoc-la-dien-tu-4742727.html) - 11:02 06/05/2024
-- 🗽 [Đồng euro có thể suy yếu khi Mỹ, châu Âu &#39;lệch pha&#39; giảm lãi](https://vnexpress.net/dong-euro-co-the-suy-yeu-khi-my-chau-au-lech-pha-giam-lai-4742478.html) - 09:24 06/05/2024
-- 🦩 [Cổ phiếu hàng không &#39;cất cánh&#39;](https://vnexpress.net/co-phieu-hang-khong-cat-canh-4742661.html) - 08:52 06/05/2024<!-- vnexpress-kinh-doanh:END -->
+- ⛽️ [Bầu Đức: &#39;Tôi ám ảnh với lỗ lũy kế&#39;](https://vnexpress.net/bau-duc-toi-am-anh-voi-lo-luy-ke-4744432.html) - 05:42 10/05/2024
+- 🐲 [Mỹ muốn áp thuế nhập khẩu xe điện Trung Quốc](https://vnexpress.net/my-muon-ap-thue-nhap-khau-xe-dien-trung-quoc-4744352.html) - 05:08 10/05/2024
+- 🔥 [Vàng miếng SJC lên 92 triệu đồng](https://vnexpress.net/vang-mieng-sjc-len-92-trieu-dong-4744292.html) - 02:15 10/05/2024
+- 🐵 [Giá vàng thế giới tăng vọt](https://vnexpress.net/gia-vang-the-gioi-tang-vot-4744225.html) - 00:39 10/05/2024
+- 🦅 [Kinh tế Ukraine có thể thay đổi hẳn vì chiến sự](https://vnexpress.net/kinh-te-ukraine-co-the-thay-doi-han-vi-chien-su-4744025.html) - 21:00 09/05/2024
+- 😺 [Nhà máy điện khí LNG tỷ USD nguy cơ thiệt hại 13 tỷ đồng mỗi ngày](https://vnexpress.net/nha-may-dien-khi-lng-nguy-co-thiet-hai-13-ty-dong-moi-ngay-4744206.html) - 17:22 09/05/2024
+- 🤩 [HSBC: Việt Nam cần hơn 12 tỷ USD đầu tư hạ tầng ôtô điện](https://vnexpress.net/hsbc-viet-nam-can-hon-12-ty-usd-dau-tu-ha-tang-oto-dien-4744063.html) - 17:00 09/05/2024
+- 🌮 [Samsung tính rót thêm 1 tỷ USD mỗi năm vào Việt Nam](https://vnexpress.net/samsung-se-dau-tu-them-1-ty-usd-moi-nam-tai-viet-nam-4744177.html) - 13:38 09/05/2024
+- 🧰 [Xuất khẩu gạo sang UAE tăng gấp đôi](https://vnexpress.net/xuat-khau-gao-sang-uae-tang-gap-doi-4744108.html) - 13:18 09/05/2024
+- 🤔 [Việt Nam hoan nghênh Mỹ sớm công nhận quy chế kinh tế thị trường](https://vnexpress.net/viet-nam-hoan-nghenh-my-som-cong-nhan-quy-che-kinh-te-thi-truong-4744152.html) - 12:09 09/05/2024
+- 🧑‍💻 [Đổ xô đi mua vàng khi giá lập đỉnh](https://vnexpress.net/do-xo-di-mua-vang-khi-gia-lap-dinh-4744140.html) - 11:31 09/05/2024
+- 🕴 [Việt Nam mục tiêu có 10 tỷ phú, 5 doanh nhân quyền lực nhất châu Á](https://vnexpress.net/viet-nam-muc-tieu-co-10-ty-phu-5-doanh-nhan-quyen-luc-nhat-chau-a-4744106.html) - 09:47 09/05/2024
+- 🦩 [Chứng khoán đứt mạch tăng](https://vnexpress.net/chung-khoan-dut-mach-tang-4744082.html) - 08:42 09/05/2024
+- 👍 [Giá xăng giảm hơn 1.000 đồng](https://vnexpress.net/gia-xang-moi-nhat-hom-nay-9-5-4744037.html) - 07:33 09/05/2024
+- 🏊 [Thường trực Chính phủ: Cân nhắc &#39;mua có điều kiện&#39; điện mặt trời dư thừa](https://vnexpress.net/dien-mat-troi-mai-nha-du-thua-nen-khuyen-khich-ban-co-dieu-kien-4744002.html) - 06:35 09/05/2024
+- 🤡 [Măng cụt Thái rẻ bằng nửa hàng Việt](https://vnexpress.net/mang-cut-thai-re-bang-nua-hang-viet-4743509.html) - 05:29 09/05/2024
+- 👀 [Người Mỹ ngày càng khó mua nhà](https://vnexpress.net/nguoi-my-ngay-cang-kho-mua-nha-4743854.html) - 05:06 09/05/2024
+- 😺 [Quảng Ninh lần thứ 7 đứng đầu năng lực cạnh tranh cấp tỉnh](https://vnexpress.net/quang-ninh-lap-ky-luc-bay-nam-dung-dau-xep-hang-nang-luc-canh-tranh-cap-tinh-4743912.html) - 03:52 09/05/2024
+- 🦣 [Giá vàng miếng SJC tiến sát 90 triệu đồng](https://vnexpress.net/gia-vang-mieng-sjc-tien-sat-90-trieu-dong-4743861.html) - 02:29 09/05/2024
+- 😺 [Giá vé máy bay tăng do đâu?](https://vnexpress.net/gia-ve-may-bay-tang-do-dau-4742896.html) - 02:15 09/05/2024
+- 💼 [FE Credit ưu đãi khách vay mua xe máy](https://vnexpress.net/fe-credit-uu-dai-khach-vay-mua-xe-may-4743428.html) - 01:00 09/05/2024
+- 🤗 [Doanh thu máy lạnh, quạt điện tăng vọt](https://vnexpress.net/doanh-thu-may-lanh-quat-dien-tang-vot-4743519.html) - 17:49 08/05/2024
+- 👀 [Gen Z ngập trong nợ nần](https://vnexpress.net/gen-z-ngap-trong-no-nan-4743400.html) - 17:00 08/05/2024
+- 🎓 [SJC đặt mục tiêu lãi cao nhất 6 năm](https://vnexpress.net/sjc-dat-muc-tieu-lai-cao-nhat-6-nam-4743700.html) - 11:25 08/05/2024
+- 🗽 [Intel, Qualcomm bị thu hồi giấy phép bán chip cho Huawei](https://vnexpress.net/intel-qualcomm-bi-thu-hoi-giay-phep-ban-chip-cho-huawei-4743656.html) - 10:30 08/05/2024
+- 🚀 [Gói hỗ trợ lãi suất giải ngân 3% sau gần hai năm](https://vnexpress.net/goi-ho-tro-lai-suat-giai-ngan-duoc-3-sau-gan-hai-nam-4743662.html) - 10:15 08/05/2024
+- 🤗 [Mỹ điều trần về khả năng Việt Nam là nền kinh tế thị trường](https://vnexpress.net/my-dieu-tran-ve-kha-nang-viet-nam-la-nen-kinh-te-thi-truong-4743657.html) - 10:04 08/05/2024
+- 🌜 [Cổ phiếu Novaland giảm sàn](https://vnexpress.net/co-phieu-novaland-giam-san-4743628.html) - 08:55 08/05/2024
+- 👍 [Thanh toán không tiền mặt gấp 23 lần GDP](https://vnexpress.net/thanh-toan-khong-tien-mat-gap-23-lan-gdp-4743545.html) - 08:33 08/05/2024
+- 🤖 [FLC tiếp tục bị cưỡng chế thuế vì nợ hơn 90 tỷ đồng](https://vnexpress.net/flc-nhan-20-quyet-dinh-cuong-che-thue-trong-mot-ngay-4743556.html) - 08:07 08/05/2024
+- 🫣 [Đấu thầu thành công 3.400 lượng vàng miếng](https://vnexpress.net/3-400-luong-vang-mieng-tung-ra-thi-truong-sau-phien-dau-thau-sang-nay-4743542.html) - 07:56 08/05/2024
+- 🌏 [TP HCM siết hóa đơn mua bán vàng](https://vnexpress.net/tp-hcm-siet-hoa-don-mua-ban-vang-4743540.html) - 07:26 08/05/2024
+- ⚗️ [Lộc Trời nợ tiền mua lúa của nông dân](https://vnexpress.net/loc-troi-no-tien-mua-lua-cua-nong-dan-4743534.html) - 07:15 08/05/2024
+- 🕯 [Nhà đầu tư ngoại lo chậm chân mua bán điện trực tiếp](https://vnexpress.net/nha-dau-tu-ngoai-lo-cham-chan-mua-ban-dien-truc-tiep-4743468.html) - 04:49 08/05/2024
+- 👍 [CUB Vietnam cấp hạn mức vay tiêu dùng trực tuyến đến 40 triệu](https://vnexpress.net/cub-vietnam-cap-han-muc-vay-tieu-dung-truc-tuyen-den-40-trieu-4736284.html) - 04:00 08/05/2024
+- 🤠 [Tài chính số - điểm tựa nội lực của ngân hàng Cathay United Bank](https://vnexpress.net/tai-chinh-so-diem-tua-noi-luc-cua-ngan-hang-cathay-united-bank-4731640.html) - 03:00 08/05/2024
+- 🌊 [FPT Long Châu cam kết bình ổn giá thuốc dài hạn](https://vnexpress.net/fpt-long-chau-cam-ket-binh-on-gia-thuoc-dai-han-4743224.html) - 01:00 08/05/2024
+- 🌈 [Người Mỹ tiêu hết tiền tiết kiệm trong đại dịch](https://vnexpress.net/nguoi-my-tieu-het-tien-tiet-kiem-trong-dai-dich-4743293.html) - 21:18 07/05/2024
+- 🥳 [Nữ tỷ phú lừa đảo có thể ra tù sớm](https://vnexpress.net/nu-ty-phu-lua-dao-co-the-ra-tu-som-4743266.html) - 17:00 07/05/2024
+- 🐻 [ACV vay 1,8 tỷ USD để đầu tư sân bay Long Thành](https://vnexpress.net/acv-vay-1-8-ty-usd-de-dau-tu-san-bay-long-thanh-4743249.html) - 12:24 07/05/2024
+- 💫 [Chính phủ Mỹ trả 2 triệu USD tiền lãi mỗi phút](https://vnexpress.net/chinh-phu-my-tra-2-trieu-usd-tien-lai-moi-phut-4743177.html) - 10:11 07/05/2024
+- 🤩 [Ngân hàng Nhà nước tiếp tục đấu thầu vàng](https://vnexpress.net/ngan-hang-nha-nuoc-tiep-tuc-dau-thau-vang-4743215.html) - 09:58 07/05/2024
+- 💻 [Elon Musk khuyên Warren Buffett mua cổ phiếu Tesla](https://vnexpress.net/elon-musk-khuyen-warren-buffett-mua-co-phieu-tesla-4743079.html) - 09:30 07/05/2024
+- ⚗️ [Hãng pin hơn 60 tuổi lãi kỷ lục](https://vnexpress.net/hang-pin-hon-60-tuoi-lai-ky-luc-4743089.html) - 08:59 07/05/2024
+- 🌈 [Chứng khoán tăng 5 phiên liên tiếp](https://vnexpress.net/chung-khoan-tang-5-phien-lien-tiep-4743150.html) - 08:51 07/05/2024
+- 🌝 [Dự án đường dây 500 kV mạch 3 gặp khó về cung ứng cột thép](https://vnexpress.net/nhap-thiet-bi-cho-duong-day-500-kv-mach-3-4743101.html) - 08:39 07/05/2024
+- 🥸 [Cục Hàng không tìm người mua vé máy bay tăng giá bất thường](https://vnexpress.net/cuc-hang-khong-tim-nguoi-mua-ve-may-bay-tang-gia-bat-thuong-4743058.html) - 07:23 07/05/2024
+- 🦆 [Chứng khoán LPBank thành cổ đông lớn của Công ty bầu Đức](https://vnexpress.net/chung-khoan-lpbank-thanh-co-dong-lon-cua-cong-ty-bau-duc-4743030.html) - 06:53 07/05/2024
+- 🌋 [Tân Tạo, Thuduc House bị dừng làm thủ tục hải quan vì nợ thuế](https://vnexpress.net/loat-doanh-nghiep-bat-dong-san-bi-cuong-che-thue-4743056.html) - 06:41 07/05/2024
+- 🦍 [Có nên bán hết tài sản chuyển đến TP HCM lập nghiệp?](https://vnexpress.net/co-nen-ban-het-tai-san-chuyen-den-tp-hcm-lap-nghiep-4742911.html) - 04:15 07/05/2024
+- 🤔 [Củ sen Đồng Tháp lần đầu xuất sang Nhật](https://vnexpress.net/cu-sen-dong-thap-lan-dau-xuat-sang-nhat-4742922.html) - 03:59 07/05/2024
+- 🧰 [Nhu cầu xăng chậm lại vì xe điện](https://vnexpress.net/nhu-cau-xang-cham-lai-vi-xe-dien-4742765.html) - 03:29 07/05/2024
+- 🌝 [Giá vàng miếng SJC chạm 87,5 triệu đồng](https://vnexpress.net/moi-luong-vang-mieng-sjc-vuot-87-trieu-dong-4742932.html) - 02:55 07/05/2024
+- 👍 [Các ngân hàng quốc tế kiếm hơn 3,5 tỷ USD ở Nga năm ngoái](https://vnexpress.net/cac-ngan-hang-quoc-te-kiem-hon-3-5-ty-usd-o-nga-nam-ngoai-4742777.html) - 23:55 06/05/2024
+- 🗽 [Lãi suất tiết kiệm đồng loạt tăng](https://vnexpress.net/lai-suat-tiet-kiem-dong-loat-tang-4742799.html) - 23:49 06/05/2024
+- 🐎 [Con gái ông Bùi Thành Nhơn muốn bán hơn 9 triệu cổ phiếu NVL](https://vnexpress.net/con-gai-ong-bui-thanh-nhon-muon-ban-hon-9-trieu-co-phieu-nvl-4742782.html) - 14:58 06/05/2024
+- 🪄 [VCCI đề xuất mọi khách hàng được mua điện tái tạo không qua EVN](https://vnexpress.net/vcci-de-xuat-moi-khach-hang-duoc-mua-dien-tai-tao-khong-qua-evn-4742741.html) - 11:26 06/05/2024
+- 🎊 [Cục Hàng không: &#39;Giá vé tăng cao nhưng vẫn trong khung quy định&#39;](https://vnexpress.net/cuc-hang-khong-gia-ve-tang-cao-nhung-van-trong-khung-quy-dinh-4742718.html) - 11:05 06/05/2024
+- 🗽 [Bộ Công Thương: Chưa đề xuất thí điểm thuốc lá điện tử](https://vnexpress.net/bo-cong-thuong-chua-de-xuat-thi-diem-luu-hanh-thuoc-la-dien-tu-4742727.html) - 11:02 06/05/2024
+- 🦩 [Đồng euro có thể suy yếu khi Mỹ, châu Âu &#39;lệch pha&#39; giảm lãi](https://vnexpress.net/dong-euro-co-the-suy-yeu-khi-my-chau-au-lech-pha-giam-lai-4742478.html) - 09:24 06/05/2024<!-- vnexpress-kinh-doanh:END -->
