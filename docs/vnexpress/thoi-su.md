@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Ùn tắc hai km quanh nút giao cửa ngõ phía đông TP HCM](https://vnexpress.net/un-tac-hai-km-quanh-nut-giao-cua-ngo-phia-dong-tp-hcm-4744647.html) - 12:21 10/05/2024
 - 🤓 [Doanh nghiệp mất người vì công nhân &#39;né bảo hiểm&#39;](https://vnexpress.net/doanh-nghiep-mat-nguoi-vi-cong-nhan-ne-bao-hiem-4744554.html) - 09:04 10/05/2024
-- ⚗️ [Thiếu tiền tu sửa đường sau thiên tai](https://vnexpress.net/thieu-tien-tu-sua-duong-sau-thien-tai-4744246.html) - 08:34 10/05/2024
+- ⚗️ [Kinh phí khắc phục thiên tai ngày càng lớn](https://vnexpress.net/kinh-phi-khac-phuc-thien-tai-ngay-cang-lon-4744246.html) - 08:34 10/05/2024
 - 🌊 [Hà Nội sẽ tặng mỗi gia đình một lá cờ Tổ quốc](https://vnexpress.net/ha-noi-se-tang-moi-gia-dinh-mot-la-co-to-quoc-4744470.html) - 08:32 10/05/2024
 - 🎓 [Trưởng phòng công an tỉnh lái ôtô gây chết người khi có nồng độ cồn](https://vnexpress.net/truong-phong-cong-an-tinh-lai-oto-gay-chet-nguoi-khi-co-nong-do-con-4744489.html) - 07:36 10/05/2024
 - 🔥 [Nhà máy bị mất hàng trả lại tiền lương cho công nhân](https://vnexpress.net/nha-may-bi-mat-hang-tra-lai-tien-luong-cho-cong-nhan-4744422.html) - 04:39 10/05/2024
