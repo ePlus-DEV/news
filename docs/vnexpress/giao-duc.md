@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Hà Nội công bố thí sinh đăng ký lớp 10 công lập](https://vnexpress.net/ha-noi-cong-bo-thi-sinh-dang-ky-lop-10-cong-lap-4744395.html) - 03:53 10/05/2024
+- 🤓 [Tỷ lệ chọi lớp 10 công lập ở Hà Nội cao nhất 1/3,1](https://vnexpress.net/ty-le-choi-lop-10-cong-lap-o-ha-noi-cao-nhat-1-3-1-4744395.html) - 03:53 10/05/2024
 - 🦆 [Học sinh nước ngoài ngày càng khó vào trường công Nhật Bản](https://vnexpress.net/hoc-sinh-nuoc-ngoai-ngay-cang-kho-vao-truong-cong-nhat-ban-4743003.html) - 03:23 10/05/2024
 - 🦩 [Chiến thuật đưa nam sinh vào top 3 thi đánh giá tư duy Bách khoa](https://vnexpress.net/chien-thuat-dua-nam-sinh-vao-top-3-thi-danh-gia-tu-duy-bach-khoa-4744224.html) - 00:10 10/05/2024
 - 🌮 [Thành phố trực thuộc trung ương nào trẻ nhất?](https://vnexpress.net/thanh-pho-truc-thuoc-trung-uong-nao-tre-nhat-4744167.html) - 13:10 09/05/2024
