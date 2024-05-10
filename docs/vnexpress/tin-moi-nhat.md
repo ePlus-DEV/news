@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Nữ bác sĩ bị tấm kính rơi vào người &#39;khó phục hồi&#39;](https://vnexpress.net/nu-bac-si-bi-tam-kinh-roi-vao-nguoi-kho-phuc-hoi-4744664.html) - 15:09 10/05/2024
+- 🎬 [Nữ bác sĩ đa chấn thương do tấm kính quán cà phê đổ vào người](https://vnexpress.net/nu-bac-si-da-chan-thuong-do-tam-kinh-quan-ca-phe-do-vao-nguoi-4744664.html) - 15:09 10/05/2024
 - 🐎 [Tập đoàn Hàn Quốc muốn xây trung tâm dữ liệu lớn tại TP HCM](https://vnexpress.net/tap-doan-han-quoc-xay-trung-tam-du-lieu-lon-tai-tp-hcm-4744657.html) - 14:59 10/05/2024
 - 🦍 [Thêm 90.400 chứng chỉ IELTS, Aptis bị kết luận &#39;trái phép&#39;](https://vnexpress.net/them-90-400-chung-chi-ielts-aptis-bi-ket-luan-trai-phep-4744665.html) - 14:23 10/05/2024
 - 🏊 [Tấn công 5 phụ nữ trên đường bằng tuýp sắt](https://vnexpress.net/tan-cong-5-phu-nu-tren-duong-bang-tuyp-sat-4744656.html) - 14:02 10/05/2024
