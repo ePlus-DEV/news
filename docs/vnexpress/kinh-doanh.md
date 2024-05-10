@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [Chính phủ yêu cầu kiểm soát chặt giao dịch vàng](https://vnexpress.net/chinh-phu-yeu-cau-kiem-soat-chat-giao-dich-vang-4744451.html) - 05:51 10/05/2024
 - 🐲 [Bầu Đức: &#39;Tôi ám ảnh với lỗ lũy kế&#39;](https://vnexpress.net/bau-duc-toi-am-anh-voi-lo-luy-ke-4744432.html) - 05:42 10/05/2024
 - 🔥 [Mỹ muốn áp thuế nhập khẩu xe điện Trung Quốc](https://vnexpress.net/my-muon-ap-thue-nhap-khau-xe-dien-trung-quoc-4744352.html) - 05:08 10/05/2024
-- 🐵 [Vàng miếng SJC lên 92 triệu đồng](https://vnexpress.net/vang-mieng-sjc-len-92-trieu-dong-4744292.html) - 02:15 10/05/2024
+- 🐵 [Vàng miếng SJC vượt 92 triệu đồng](https://vnexpress.net/gia-vang-mieng-sjc-vuot-90-trieu-dong-4744292.html) - 02:15 10/05/2024
 - 🦅 [Giá vàng thế giới tăng vọt](https://vnexpress.net/gia-vang-the-gioi-tang-vot-4744225.html) - 00:39 10/05/2024
 - 😺 [Kinh tế Ukraine có thể thay đổi hẳn vì chiến sự](https://vnexpress.net/kinh-te-ukraine-co-the-thay-doi-han-vi-chien-su-4744025.html) - 21:00 09/05/2024
 - 🤩 [Nhà máy điện khí LNG tỷ USD nguy cơ thiệt hại 13 tỷ đồng mỗi ngày](https://vnexpress.net/nha-may-dien-khi-lng-nguy-co-thiet-hai-13-ty-dong-moi-ngay-4744206.html) - 17:22 09/05/2024
