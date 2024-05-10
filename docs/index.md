@@ -251,7 +251,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐎 [Một sự kiện lần đầu tổ chức tại Hồ Nước Ngọt ở Sóc Trăng](https://nld.com.vn/mot-su-kien-lan-dau-to-chuc-tai-ho-nuoc-ngot-o-soc-trang-196240510200557016.htm) - 13:26 10/05/2024
 - 😺 [Lễ hội hoa phượng đỏ - Hải Phòng 2024: Bừng sáng miền di sản](https://nld.com.vn/le-hoi-hoa-phuong-do-hai-phong-2024-bung-sang-mien-di-san-196240510195103519.htm) - 13:24 10/05/2024
 - 👍 [Thủ đoạn phát tán &quot;đơn tố cáo&quot; trên Facebook để quảng cáo web đánh bạc](https://nld.com.vn/thu-doan-phat-tan-don-to-cao-tren-facebook-de-quang-cao-web-danh-bac-1962405101938104.htm) - 13:00 10/05/2024
-- 🥷 [Cole Palmer giải &quot;cơn khát&quot; kéo dài 6 năm của Chelsea](https://nld.com.vn/cole-palmer-giai-con-khat-keo-dai-6-nam-cua-chelsea-196240510194533799.htm) - 12:57 10/05/2024
+- 🥷 [Cole Palmer &quot;giải hạn&quot; cho Chelsea, HLV Pochettino không lo mất ghế](https://nld.com.vn/cole-palmer-giai-con-khat-keo-dai-6-nam-cua-chelsea-196240510194533799.htm) - 12:57 10/05/2024
 - 🤔 [Cháy xưởng mút xốp ở quận 12 - TP HCM](https://nld.com.vn/chay-xuong-mut-xop-o-quan-12-tp-hcm-196240510192036632.htm) - 12:55 10/05/2024
 - 🌈 [Bí ẩn phía sau tin nhắn qua Facebook nhờ chuyển 90 triệu đồng](https://nld.com.vn/bi-an-phia-sau-tin-nhan-qua-facebook-nho-chuyen-90-trieu-dong-196240510185156698.htm) - 12:15 10/05/2024
 - 🔥 [Đồng Nai: Bắt đối tượng xâm hại trẻ em rồi trốn truy nã 12 năm](https://nld.com.vn/dong-nai-bat-doi-tuong-xam-hai-tre-em-roi-tron-truy-na-12-nam-196240510184818756.htm) - 12:12 10/05/2024
