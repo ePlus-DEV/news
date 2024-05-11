@@ -310,7 +310,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Kon Tum: Gần 100 hộ dân làng Kon Bỉ thiếu nước sinh hoạt](https://www.sggp.org.vn/kon-tum-gan-100-ho-dan-lang-kon-bi-thieu-nuoc-sinh-hoat-post739333.html) - 03:39 11/05/2024
+- 🪜 [Kon Tum: Người dân làng Kon Bỉ thiếu nước sinh hoạt](https://www.sggp.org.vn/kon-tum-nguoi-dan-lang-kon-bi-thieu-nuoc-sinh-hoat-post739333.html) - 03:39 11/05/2024
 - 🌝 [Giải SUNRISE SPRINT Việt Nam thay đổi đường bơi do sóng to](https://www.sggp.org.vn/giai-sunrise-sprint-viet-nam-thay-doi-duong-boi-do-song-to-post739343.html) - 03:33 11/05/2024
 - 💃 [Xác định người đánh nữ du khách thủng màng nhĩ khi đi du lịch tại Ninh Thuận](https://www.sggp.org.vn/xac-dinh-nguoi-danh-nu-du-khach-thung-mang-nhi-khi-di-du-lich-tai-ninh-thuan-post739335.html) - 03:30 11/05/2024
 - 🧑‍💻 [Đoạn kết cần thiết cho Mbappe và PSG](https://www.sggp.org.vn/doan-ket-can-thiet-cho-mbappe-va-psg-post739338.html) - 03:27 11/05/2024
