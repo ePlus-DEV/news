@@ -32,7 +32,7 @@ sidebar_position: 9
 - 🐎 [6 năm phát triển của cộng đồng âm nhạc &#39;Đài Phát Thanh&#39;](https://vnexpress.net/6-nam-phat-trien-cua-cong-dong-am-nhac-dai-phat-thanh-4744880.html) - 07:00 11/05/2024
 - 🎡 [5 món ăn bổ sung sắt cho sản phụ](https://vnexpress.net/5-mon-an-bo-sung-sat-cho-san-phu-4744805.html) - 07:00 11/05/2024
 - 👨‍🏫 [Cocolux và La Roche-Posay tổ chức workshop bảo vệ da toàn diện](https://vnexpress.net/cocolux-va-la-roche-posay-to-chuc-workshop-bao-ve-da-toan-dien-4744551.html) - 07:00 11/05/2024
-- 🦆 [Chung kết GameHub 2024](https://vnexpress.net/vietnam-gameverse-2024-chung-ket-gamehub-4744520.html) - 07:00 11/05/2024
+- 🦆 [Top 6 dự án GameHub 2024 sẽ được hỗ trợ ứng dụng thực tế](https://vnexpress.net/vietnam-gameverse-2024-chung-ket-gamehub-4744520.html) - 07:00 11/05/2024
 - 🚦 [Mua ôtô cũ hay VinFast VF 3 mới tầm giá 300 triệu đồng?](https://vnexpress.net/mua-oto-cu-hay-vinfast-vf-3-moi-tam-gia-300-trieu-dong-4737882.html) - 07:00 11/05/2024
 - 💫 [Hàng nghìn người sập bẫy lừa của app sex &#39;Lauxanh&#39;](https://vnexpress.net/hang-nghin-nguoi-sap-bay-lua-cua-app-sex-lauxanh-4744823.html) - 06:59 11/05/2024
 - 🎉 [Lây nấm từ thú cưng, bé trai rụng tóc từng mảng](https://vnexpress.net/lay-nam-tu-thu-cung-be-trai-rung-toc-tung-mang-4743409.html) - 06:57 11/05/2024
