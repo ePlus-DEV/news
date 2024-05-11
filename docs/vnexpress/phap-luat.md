@@ -12,7 +12,7 @@ sidebar_position: 12
 - 🙉 [Bắt giữ, đánh hai thiếu niên để đòi 300.000 đồng](https://vnexpress.net/bat-giu-danh-hai-thieu-nien-de-doi-300-000-dong-4744638.html) - 11:33 10/05/2024
 - 🤡 [Mẹ rủ con gái buôn ma túy](https://vnexpress.net/me-ru-con-gai-buon-ma-tuy-4744615.html) - 11:32 10/05/2024
 - 🗽 [Vợ chồng tổ chức cho 18 người trốn sang Hàn Quốc](https://vnexpress.net/vo-chong-to-chuc-cho-18-nguoi-tron-sang-han-quoc-4744632.html) - 11:26 10/05/2024
-- 🌋 [Lẻn vào cơ quan cũ trộm tiền lễ trên ban thờ](https://video.vnexpress.net/len-vao-co-quan-cu-trom-tien-le-tren-ban-tho-4744452.html) - 09:44 10/05/2024
+- 🌋 [Trộm tiền lễ trên ban thờ ở bệnh viện](https://video.vnexpress.net/trom-tien-le-tren-ban-tho-o-benh-vien-4744452.html) - 09:44 10/05/2024
 - 🎬 [Bị tuyên tù chung thân vì giả gái xinh lừa 12 tỷ đồng của đại gia](https://vnexpress.net/bi-tuyen-tu-chung-than-vi-gia-gai-xinh-lua-12-ty-dong-cua-dai-gia-4744544.html) - 08:43 10/05/2024
 - 💯 [Tài xế có hơi men tông chết người đi bộ](https://vnexpress.net/tai-xe-co-hoi-men-tong-chet-nguoi-di-bo-cung-chieu-4744447.html) - 07:06 10/05/2024
 - 🌏 [Thêm một ôtô chất đầy ma túy bị bắt tại Hà Tĩnh](https://vnexpress.net/them-mot-oto-chat-day-ma-tuy-bi-bat-tai-ha-tinh-4744448.html) - 06:45 10/05/2024
