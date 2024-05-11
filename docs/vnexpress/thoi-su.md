@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Bên trong ga ngầm metro Bến Thành đã hoàn thiện](https://vnexpress.net/ben-trong-ga-ngam-metro-ben-thanh-da-hoan-thien-4744461.html) - 23:00 10/05/2024
 - 🤓 [Đề xuất chở trẻ dưới 10 tuổi trên ôtô phải có thiết bị an toàn](https://vnexpress.net/de-xuat-cho-tre-duoi-10-tuoi-tren-oto-phai-co-thiet-bi-an-toan-4744342.html) - 22:00 10/05/2024
-- ⚗️ [Nữ du khách bị người cho thuê môtô nước đánh &#39;rách màng tai&#39;](https://vnexpress.net/nu-du-khach-bi-nguoi-cho-thue-moto-nuoc-danh-rach-mang-tai-4744691.html) - 18:35 10/05/2024
+- ⚗️ [Nữ du khách bị người lái môtô nước đánh &#39;rách màng tai&#39;](https://vnexpress.net/nu-du-khach-bi-nguoi-lai-moto-nuoc-danh-rach-mang-tai-4744691.html) - 18:35 10/05/2024
 - 🌊 [Phát triển khu công nghệ cao Hòa Lạc thành quận lõi công nghệ](https://vnexpress.net/phat-trien-khu-cong-nghe-cao-hoa-lac-thanh-quan-loi-cong-nghe-4744670.html) - 18:00 10/05/2024
 - 🎓 [Cấm xe tải nặng qua cầu Rạch Miễu giờ cao điểm](https://vnexpress.net/cam-xe-tai-nang-qua-cau-rach-mieu-gio-cao-diem-4744583.html) - 17:00 10/05/2024
 - 🔥 [Ùn tắc hai km quanh nút giao cửa ngõ phía đông TP HCM](https://vnexpress.net/un-tac-hai-km-quanh-nut-giao-cua-ngo-phia-dong-tp-hcm-4744647.html) - 12:21 10/05/2024
