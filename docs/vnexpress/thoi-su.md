@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Nông dân Đồng Tháp trúng đậm mùa vụ lúa Hè Thu](https://vnexpress.net/nong-dan-dong-thap-trung-dam-mua-vu-lua-he-thu-4744751.html) - 09:59 11/05/2024
+- 🦒 [Nông dân Đồng Tháp trúng đậm vụ lúa Hè Thu](https://vnexpress.net/nong-dan-dong-thap-trung-dam-vu-lua-he-thu-4744751.html) - 09:59 11/05/2024
 - 🤓 [&#39;Dự thảo Luật việc làm siết nhóm lao động hưởng trợ cấp thất nghiệp&#39;](https://vnexpress.net/du-thao-luat-viec-lam-siet-nhom-lao-dong-huong-tro-cap-that-nghiep-4744871.html) - 06:30 11/05/2024
 - ⚗️ [Nút giao lớn nhất TP HCM thông thoáng ngày đầu phân luồng](https://vnexpress.net/nut-giao-lon-nhat-tp-hcm-thong-thoang-ngay-dau-phan-luong-4744808.html) - 04:20 11/05/2024
 - 🌊 [Xác cá voi hơn 3 tấn dạt vào bờ biển Nghệ An](https://vnexpress.net/xac-ca-voi-hon-3-tan-dat-vao-bo-bien-nghe-an-4744786.html) - 03:30 11/05/2024
