@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Đại học Dược Hà Nội tăng học phí](https://vnexpress.net/dai-hoc-duoc-ha-noi-tang-hoc-phi-4744749.html) - 07:00 11/05/2024
-- 🦆 [Xác minh trường ép học sinh kém bỏ thi lớp 10](https://vnexpress.net/xac-minh-truong-ep-hoc-sinh-kem-bo-thi-lop-10-4744879.html) - 06:44 11/05/2024
+- 🦆 [Xác minh trường &#39;ép học sinh kém bỏ thi lớp 10&#39;](https://vnexpress.net/xac-minh-truong-ep-hoc-sinh-kem-bo-thi-lop-10-4744879.html) - 06:44 11/05/2024
 - 🦩 [Gần 6% sinh viên tốt nghiệp xuất sắc Bách khoa Hà Nội](https://vnexpress.net/gan-6-sinh-vien-tot-nghiep-xuat-sac-bach-khoa-ha-noi-4744800.html) - 04:02 11/05/2024
 - 🌮 [11.500 thí sinh cạnh tranh vào trường Sư phạm](https://vnexpress.net/11-500-thi-sinh-canh-tranh-vao-truong-su-pham-4744739.html) - 02:33 11/05/2024
 - 🔭 [Nam sinh tốt nghiệp sớm với điểm cao nhất Bách khoa Hà Nội](https://vnexpress.net/nam-sinh-tot-nghiep-som-voi-diem-cao-nhat-bach-khoa-ha-noi-4744540.html) - 23:37 10/05/2024
