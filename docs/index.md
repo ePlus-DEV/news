@@ -74,7 +74,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧑‍🏫 [Trung Quốc tìm cách hồi sinh ngành bất động sản](https://vnexpress.net/trung-quoc-tim-cach-hoi-sinh-nganh-bat-dong-san-4744889.html) - 08:21 11/05/2024
 - 🎓 [Chơi game, quay số trúng thưởng tại 50 gian hàng Vietnam GameVerse 2024](https://vnexpress.net/choi-game-quay-so-trung-thuong-tai-50-gian-hang-vietnam-gameverse-2024-4744814.html) - 08:20 11/05/2024
 - 💫 [Runner giải &#39;An Giang - Dấu chân huyền bí&#39; trải nghiệm du lịch núi Sam](https://vnexpress.net/runner-giai-an-giang-dau-chan-huyen-bi-trai-nghiem-du-lich-nui-sam-4744891.html) - 08:00 11/05/2024
-- 🤩 [Chung cư cũ Tokyo hút nhà đầu tư ngoại vì yen giảm](https://vnexpress.net/chung-cu-cu-tokyo-hut-nha-dau-tu-ngoai-vi-yen-giam-4744856.html) - 08:00 11/05/2024<!-- vnexpress:END -->
+- 🤩 [Chung cư cũ Tokyo hút nhà đầu tư ngoại vì yen giảm](https://vnexpress.net/chung-cu-cu-tokyo-hut-nha-dau-tu-ngoai-vi-yen-giam-4744856.html) - 08:00 11/05/2024
+- 🏊 [Chỉ cần có thêm anh, mọi thứ đối với em thật trọn vẹn](https://vnexpress.net/chi-can-co-them-anh-moi-thu-doi-voi-em-that-tron-ven-4744763.html) - 08:00 11/05/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
