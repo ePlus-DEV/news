@@ -146,7 +146,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Thua đau Thanh Hóa, HLV Lê Huỳnh Đưc và đội Bình Dương tắt dần tham vọng vô địch](https://thanhnien.vn/thua-dau-thanh-hoa-hlv-le-huynh-duc-va-doi-binh-duong-tat-dan-tham-vong-vo-dich-185240512201712847.htm) - 13:24 12/05/2024
+- 🤠 [Thua đau Thanh Hóa, HLV Lê Huỳnh Đức và đội Bình Dương tắt dần tham vọng vô địch](https://thanhnien.vn/thua-dau-thanh-hoa-hlv-le-huynh-duc-va-doi-binh-duong-tat-dan-tham-vong-vo-dich-185240512201712847.htm) - 13:24 12/05/2024
 - 🥸 [Thủ tướng đặt ra &#39;1 trọng tâm, 2 tăng cường, 3 đẩy mạnh&#39; cho Cần Thơ](https://thanhnien.vn/thu-tuong-dat-ra-1-trong-tam-2-tang-cuong-3-day-manh-cho-can-tho-185240512194042334.htm) - 13:12 12/05/2024
 - 🌁 [Tới Luxembourg thả bộ trên cây cầu Adolphe, khu phố cổ và quảng trường cổ kính](https://thanhnien.vn/thoi-trang-tre/toi-luxembourg-tha-bo-tren-cay-cau-adolphe-khu-pho-co-va-quang-truong-co-kinh-185240510165132665.htm) - 13:00 12/05/2024
 - 🤡 [Xem nhanh 20h ngày 12.5: The Coffee House xử lý sự việc vỡ kính ra sao? | Cuộc đời mới từ quả thận hiến tặng](https://thanhnien.vn/xem-nhanh-20h-ngay-125-the-coffee-house-xu-ly-su-viec-vo-kinh-ra-sao-cuoc-doi-moi-tu-qua-than-hien-tang-185240512172325964.htm) - 12:58 12/05/2024
