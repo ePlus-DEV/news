@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Man Utd - Arsenal: Bruno Fernandes vắng mặt](https://vnexpress.net/man-utd-vs-arsenal-4745190.html) - 14:57 12/05/2024
+- 🪜 [Man Utd 0-0 Arsenal &lpar;H1&rpar;: Bruno Fernandes vắng mặt](https://vnexpress.net/man-utd-vs-arsenal-4745190.html) - 14:57 12/05/2024
 - 🦩 [Quang Hải giúp CAHN cắt mạch thua](https://vnexpress.net/quang-hai-giup-cahn-cat-mach-thua-4745188.html) - 14:36 12/05/2024
 - 🧰 [Cầu thủ Thanh Hóa thoát thẻ phạt sau cú vào bóng nguy hiểm](https://vnexpress.net/cau-thu-thanh-hoa-thoat-the-phat-sau-cu-vao-bong-nguy-hiem-4745183.html) - 14:12 12/05/2024
 - 🤗 [Neville: &#39;Cần cho Ten Hag một mùa giải ít chấn thương ở Man Utd&#39;](https://vnexpress.net/neville-can-cho-ten-hag-mot-mua-giai-it-chan-thuong-o-man-utd-4744999.html) - 12:00 12/05/2024
