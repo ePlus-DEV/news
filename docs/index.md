@@ -216,7 +216,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦏 [Ôtô cháy trơ khung trên Vành đai 3 ở Hà Nội](https://laodong.vn/xa-hoi/oto-chay-tro-khung-tren-vanh-dai-3-o-ha-noi-1339169.ldo) - 15:47 12/05/2024
 - 🦩 [Video bóng đá Hải Phòng vs Quảng Nam, vòng 18 V.League](https://laodong.vn/the-thao/video-bong-da-hai-phong-vs-quang-nam-vong-18-vleague-1339150.ldo) - 15:27 12/05/2024
 - 🦏 [Người mất năng lực hành vi dân sự có được cấp thẻ căn cước không?](https://laodong.vn/tu-van-phap-luat/nguoi-mat-nang-luc-hanh-vi-dan-su-co-duoc-cap-the-can-cuoc-khong-1338326.ldo) - 15:00 12/05/2024
-- 🧰 [Trực tiếp Man United 0-1 Arsenal: Trossard mở tỉ số](https://laodong.vn/bong-da-quoc-te/truc-tiep-man-united-0-1-arsenal-trossard-mo-ti-so-1339152.ldo) - 14:51 12/05/2024
+- 🧰 [Trực tiếp Man United 0-1 Arsenal: Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-man-united-0-1-arsenal-hiep-2-1339152.ldo) - 14:51 12/05/2024
 - 🌊 [Thủ tướng: Trong tháng 5 phải giải quyết mặt bằng, vật liệu cát cho cao tốc](https://laodong.vn/thoi-su/thu-tuong-trong-thang-5-phai-giai-quyet-mat-bang-vat-lieu-cat-cho-cao-toc-1339146.ldo) - 14:25 12/05/2024
 - 🔥 [Xem lại bàn thắng Thanh Hóa vs Bình Dương, vòng 18 V.League](https://laodong.vn/video/xem-lai-ban-thang-thanh-hoa-vs-binh-duong-vong-18-vleague-1339144.ldo) - 14:25 12/05/2024
 - 🦒 [Cách tính điểm phương thức kết hợp nhiều tiêu chí Trường ĐH Bách Khoa TPHCM 2024](https://laodong.vn/giao-duc/cach-tinh-diem-phuong-thuc-ket-hop-nhieu-tieu-chi-truong-dh-bach-khoa-tphcm-2024-1339138.ldo) - 14:25 12/05/2024
