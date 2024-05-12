@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Vietjet khai trương đường bay thẳng Hà Nội - Hiroshima](https://vnexpress.net/vietjet-khai-truong-duong-bay-thang-ha-noi-hiroshima-4745121.html) - 09:00 12/05/2024
 - 🐲 [Ngân hàng Nhà nước xác minh tài sản, thu nhập 58 cán bộ](https://vnexpress.net/ngan-hang-nha-nuoc-xac-minh-tai-san-thu-nhap-58-can-bo-4745118.html) - 08:57 12/05/2024
-- 🔥 [Chính phủ khoanh, xóa nợ trên 38.700 tỷ đồng tiền thuế](https://vnexpress.net/khoanh-no-gan-30-000-ty-dong-cho-hang-tram-nghin-nguoi-nop-thue-4745098.html) - 08:03 12/05/2024
+- 🔥 [Chính phủ khoanh, xóa nợ thuế trên 38.700 tỷ đồng](https://vnexpress.net/khoanh-no-gan-30-000-ty-dong-cho-hang-tram-nghin-nguoi-nop-thue-4745098.html) - 08:03 12/05/2024
 - 🐵 [Hòa Phát sắp tăng vốn lên gần 64.000 tỷ đồng](https://vnexpress.net/hoa-phat-sap-tang-von-len-gan-64-000-ty-dong-4745039.html) - 03:28 12/05/2024
 - 🦅 [Nghịch lý càng đấu thầu giá vàng càng tăng](https://vnexpress.net/nghich-ly-gia-vang-tang-sau-dau-thau-4744902.html) - 17:40 11/05/2024
 - 😺 [SK khởi công nhà máy sản xuất nhựa sinh học nửa tỷ USD](https://vnexpress.net/sk-khoi-cong-nha-may-san-xuat-nhua-sinh-hoc-nua-ty-usd-4744905.html) - 09:00 11/05/2024
