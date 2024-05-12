@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Rà soát học sinh không có nhu cầu thi lớp 10](https://vnexpress.net/ra-soat-hoc-sinh-khong-co-nhu-cau-thi-lop-10-4745049.html) - 05:04 12/05/2024
+- 🤓 [Rà soát học sinh không đăng ký thi lớp 10](https://vnexpress.net/ra-soat-hoc-sinh-khong-dang-ky-thi-lop-10-4745049.html) - 05:04 12/05/2024
 - 🦆 [Trường chuyên Ngoại ngữ tăng học phí gấp 4](https://vnexpress.net/truong-chuyen-ngoai-ngu-tang-hoc-phi-gap-4-4744939.html) - 03:30 12/05/2024
 - 🦩 [UEH đẩy mạnh đào tạo các ngành kỹ thuật, công nghệ ứng dụng](https://vnexpress.net/ueh-day-manh-dao-tao-cac-nganh-ky-thuat-cong-nghe-ung-dung-4743132.html) - 02:00 12/05/2024
 - 🌮 [Đường du học Mỹ của chàng trai nghèo ở Tiền Giang](https://vnexpress.net/duong-du-hoc-my-cua-chang-trai-ngheo-o-tien-giang-4743836.html) - 23:33 11/05/2024
