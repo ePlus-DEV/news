@@ -6,7 +6,7 @@ sidebar_position: 9
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Hơn 50 cosplayer diễu hành tại Vietnam GameVerse 2024](https://vnexpress.net/hon-50-cosplayer-dieu-hanh-tai-vietnam-gameverse-2024-4745151.html) - 15:07 12/05/2024
 - 🐎 [Anh không ủng hộ lệnh cấm xuất khẩu vũ khí sang Israel](https://vnexpress.net/anh-khong-ung-ho-lenh-cam-xuat-khau-vu-khi-sang-israel-4745185.html) - 15:02 12/05/2024
-- 🦍 [Man Utd - Arsenal: Bruno Fernandes vắng mặt](https://vnexpress.net/man-utd-vs-arsenal-4745190.html) - 14:57 12/05/2024
+- 🦍 [Man Utd 0-0 Arsenal &lpar;H1&rpar;: Bruno Fernandes vắng mặt](https://vnexpress.net/man-utd-vs-arsenal-4745190.html) - 14:57 12/05/2024
 - 🏊 [Dự án cao tốc Châu Đốc - Cần Thơ - Sóc Trăng thiếu cát](https://vnexpress.net/du-an-cao-toc-chau-doc-can-tho-soc-trang-thieu-cat-4745186.html) - 14:57 12/05/2024
 - 🎊 [Được bồi thường một triệu USD vì bị đuổi học oan](https://vnexpress.net/duoc-boi-thuong-mot-trieu-usd-vi-bi-duoi-hoc-oan-4745172.html) - 14:48 12/05/2024
 - 🎃 [Người đàn ông tử vong sau tiếng nổ lớn](https://vnexpress.net/nguoi-dan-ong-tu-vong-sau-tieng-no-lon-4745177.html) - 14:41 12/05/2024
