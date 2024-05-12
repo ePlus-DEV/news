@@ -29,7 +29,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [Hamas chỉ trích phát biểu của ông Biden về con tin ở Gaza](https://vnexpress.net/hamas-chi-trich-phat-bieu-cua-ong-biden-ve-con-tin-o-gaza-4745199.html) - 15:50 12/05/2024
 - 🧰 [Hơn 50 cosplayer diễu hành tại Vietnam GameVerse 2024](https://vnexpress.net/hon-50-cosplayer-dieu-hanh-tai-vietnam-gameverse-2024-4745151.html) - 15:07 12/05/2024
 - 🥰 [Anh không ủng hộ lệnh cấm xuất khẩu vũ khí sang Israel](https://vnexpress.net/anh-khong-ung-ho-lenh-cam-xuat-khau-vu-khi-sang-israel-4745185.html) - 15:02 12/05/2024
-- 🌏 [Man Utd 0-1 Arsenal &lpar;hết H1&rpar;: Trossard mở tỷ số](https://vnexpress.net/man-utd-vs-arsenal-4745190.html) - 14:57 12/05/2024
+- 🌏 [Man Utd 0-1 Arsenal &lpar;H2&rpar;: Trossard mở tỷ số](https://vnexpress.net/man-utd-vs-arsenal-4745190.html) - 14:57 12/05/2024
 - 🧐 [Dự án cao tốc Châu Đốc - Cần Thơ - Sóc Trăng thiếu cát](https://vnexpress.net/du-an-cao-toc-chau-doc-can-tho-soc-trang-thieu-cat-4745186.html) - 14:57 12/05/2024
 - 💫 [Được bồi thường một triệu USD vì bị đuổi học oan](https://vnexpress.net/duoc-boi-thuong-mot-trieu-usd-vi-bi-duoi-hoc-oan-4745172.html) - 14:48 12/05/2024
 - 😺 [Người đàn ông tử vong sau tiếng nổ lớn](https://vnexpress.net/nguoi-dan-ong-tu-vong-sau-tieng-no-lon-4745177.html) - 14:41 12/05/2024
@@ -79,8 +79,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💂 [Cú phát khó tin ở Wells Fargo Championship 2024](https://vnexpress.net/cu-phat-kho-tin-o-wells-fargo-championship-2024-4745139.html) - 09:20 12/05/2024
 - 🚀 [Phát Đạt bán sỉ hai dự án nhà ở, shophouse cho đối tác mới](https://vnexpress.net/phat-dat-ban-si-hai-du-an-nha-o-shophouse-cho-doi-tac-moi-4745133.html) - 09:19 12/05/2024
 - 🕴 [Nghị sĩ Đức đề xuất NATO bắn hạ tên lửa, UAV Nga trên bầu trời Ukraine](https://vnexpress.net/nghi-si-duc-de-xuat-nato-ban-ha-ten-lua-uav-nga-tren-bau-troi-ukraine-4745115.html) - 09:15 12/05/2024
-- 🦆 [&#39;Giải Tạ Quang Bửu 2024 nhận được nhiều hồ sơ đề cử chất lượng cao&#39;](https://vnexpress.net/giai-ta-quang-buu-2024-nhan-duoc-nhieu-ho-so-de-cu-chat-luong-cao-4744264.html) - 09:04 12/05/2024
-- 💫 [Những màn trình diễn ấn tượng tại chung kết Cosplay Contest 2024](https://vnexpress.net/nhung-man-trinh-dien-an-tuong-tai-chung-ket-cosplay-contest-2024-4745105.html) - 09:01 12/05/2024<!-- vnexpress:END -->
+- 🦆 [&#39;Giải Tạ Quang Bửu 2024 nhận được nhiều hồ sơ đề cử chất lượng cao&#39;](https://vnexpress.net/giai-ta-quang-buu-2024-nhan-duoc-nhieu-ho-so-de-cu-chat-luong-cao-4744264.html) - 09:04 12/05/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
