@@ -8,7 +8,7 @@ sidebar_position: 10
 - 🥰 [Suýt chết khi tự tiêm mật gấu chữa đau xương khớp](https://vnexpress.net/suyt-chet-khi-tu-tiem-mat-gau-chua-dau-xuong-khop-4745057.html) - 06:25 12/05/2024
 - 💡 [Trẻ nên ăn quả nào hàng ngày?](https://vnexpress.net/tre-nen-an-qua-nao-hang-ngay-4744829.html) - 06:00 12/05/2024
 - 🤗 [Kiểm tra để biết bạn có dấu hiệu ung thư thận không](https://vnexpress.net/kiem-tra-de-biet-ban-co-dau-hieu-ung-thu-than-khong-4744827.html) - 06:00 12/05/2024
-- 🪜 [Viêm đường tiết niệu ở nam giới](https://vnexpress.net/viem-duong-tiet-nieu-o-nam-gioi-4744468.html) - 05:00 12/05/2024
+- 🪜 [Viêm đường tiết niệu ở nam giới](https://vnexpress.net/suc-khoe-cam-nang-cac-benh-viem-duong-tiet-nieu-o-nam-gioi-4744468.html) - 05:00 12/05/2024
 - 🕯 [Ba loại cà phê người tiểu đường có thể uống](https://vnexpress.net/ba-loai-ca-phe-nguoi-tieu-duong-co-the-uong-4744851.html) - 04:00 12/05/2024
 - 🤭 [Uống gì khi đau đầu, chóng mặt?](https://vnexpress.net/uong-gi-khi-dau-dau-chong-mat-4744748.html) - 04:00 12/05/2024
 - 👀 [Cách ăn uống hợp lý cho người bệnh tiểu đường type 1](https://vnexpress.net/cach-an-uong-hop-ly-cho-nguoi-benh-tieu-duong-type-1-4741106.html) - 03:00 12/05/2024
