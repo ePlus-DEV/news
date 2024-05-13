@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Du khách Pháp phản ánh phải &#39;trả 500.000 đồng cho 200 m&#39;](https://vnexpress.net/du-khach-phap-phan-anh-phai-tra-500-000-dong-cho-200-m-4745430.html) - 07:53 13/05/2024
+- 💂 [Xác minh phản ánh du khách Pháp &#39;trả 500.000 đồng cho 200 m đi taxi&#39;](https://vnexpress.net/xac-minh-phan-anh-du-khach-phap-tra-500-000-dong-cho-200-m-di-taxi-4745430.html) - 07:53 13/05/2024
 - 🪄 [Chuyến bay đến Israel du lịch giữa chiến sự](https://vnexpress.net/chuyen-bay-den-israel-du-lich-giua-chien-su-4745149.html) - 05:48 13/05/2024
 - 🦅 [Nhà hàng gây tranh cãi vì bán trứng bạch tuộc sống](https://vnexpress.net/nha-hang-gay-tranh-cai-vi-ban-trung-bach-tuoc-song-4745238.html) - 02:41 13/05/2024
 - 🕴 [Du lịch hè vẫn &#39;né&#39; đường bay](https://vnexpress.net/du-lich-he-van-ne-duong-bay-4744157.html) - 00:00 13/05/2024
