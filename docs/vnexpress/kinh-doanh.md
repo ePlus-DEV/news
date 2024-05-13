@@ -4,8 +4,8 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Chính phủ đồng ý cho nhập điện gió từ Lào](https://vnexpress.net/chinh-phu-dong-y-cho-nhap-dien-gio-truong-son-tu-lao-4745552.html) - 09:43 13/05/2024
-- 🐲 [Ngân hàng Nhà nước lần thứ 6 đấu thầu vàng miếng](https://vnexpress.net/ngan-hang-nha-nuoc-lan-thu-6-goi-thau-vang-mieng-4745542.html) - 09:35 13/05/2024
+- ⛽️ [Chính phủ đồng ý cho nhập thêm điện gió từ Lào](https://vnexpress.net/chinh-phu-dong-y-cho-nhap-dien-gio-truong-son-tu-lao-4745552.html) - 09:43 13/05/2024
+- 🐲 [Ngân hàng Nhà nước nới điều kiện đấu thầu vàng miếng](https://vnexpress.net/ngan-hang-nha-nuoc-noi-dieu-kien-dau-thau-vang-mieng-4745542.html) - 09:35 13/05/2024
 - 🔥 [Ông Nguyễn Đức Tài: Số nhân viên bị giảm chủ yếu do tự xin nghỉ](https://vnexpress.net/ong-nguyen-duc-tai-so-nhan-vien-bi-giam-chu-yeu-do-tu-xin-nghi-4745473.html) - 08:03 13/05/2024
 - 🐵 [&#39;Việt Nam là nền kinh tế thành công của thế kỷ 21&#39;](https://vnexpress.net/viet-nam-la-nen-kinh-te-thanh-cong-cua-the-ky-21-4745370.html) - 07:30 13/05/2024
 - 🦅 [Thứ trưởng giải thích việc vé máy bay Việt Nam đắt hơn Thái Lan](https://vnexpress.net/thu-truong-giai-thich-viec-ve-may-bay-viet-nam-dat-hon-thai-lan-4745396.html) - 06:29 13/05/2024
