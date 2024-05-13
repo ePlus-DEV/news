@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Ông Nguyễn Đức Tài: Nhân viên giảm mạnh chủ yếu do tự xin nghỉ](https://vnexpress.net/ong-nguyen-duc-tai-nhan-vien-giam-manh-chu-yeu-do-tu-xin-nghi-4745473.html) - 08:03 13/05/2024
+- ⛽️ [Ông Nguyễn Đức Tài: Số nhân viên bị giảm chủ yếu do tự xin nghỉ](https://vnexpress.net/ong-nguyen-duc-tai-so-nhan-vien-bi-giam-chu-yeu-do-tu-xin-nghi-4745473.html) - 08:03 13/05/2024
 - 🐲 [&#39;Việt Nam là nền kinh tế thành công của thế kỷ 21&#39;](https://vnexpress.net/viet-nam-la-nen-kinh-te-thanh-cong-cua-the-ky-21-4745370.html) - 07:30 13/05/2024
 - 🔥 [Thứ trưởng giải thích việc vé máy bay Việt Nam đắt hơn Thái Lan](https://vnexpress.net/thu-truong-giai-thich-viec-ve-may-bay-viet-nam-dat-hon-thai-lan-4745396.html) - 06:29 13/05/2024
 - 🐵 [Anh thoát suy thoái](https://vnexpress.net/anh-thoat-suy-thoai-4745431.html) - 06:26 13/05/2024
