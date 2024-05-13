@@ -9,7 +9,7 @@ sidebar_position: 5
 - 🌮 [&#39;Aliss bên đám lửa&#39; - chủ nghĩa tối giản Fosse](https://vnexpress.net/aliss-ben-dam-lua-chu-nghia-toi-gian-fosse-4743675.html) - 06:29 13/05/2024
 - 🧠 [&#39;Lật mặt 7&#39; áp đảo bom tấn &#39;Hành tinh khỉ&#39;](https://vnexpress.net/lat-mat-7-ap-dao-bom-tan-hanh-tinh-khi-4745399.html) - 05:15 13/05/2024
 - 👨‍🏫 [Loạt váy áo Taylor Swift đầu tư cho show ở Paris](https://vnexpress.net/loat-vay-ao-taylor-swift-dau-tu-cho-show-o-paris-4745362.html) - 04:38 13/05/2024
-- ⚗️ [Thu Phương hội ngộ Đàm Vĩnh Hưng, Khánh Thi](https://vnexpress.net/thu-phuong-hoi-ngo-dam-vinh-hung-khanh-thi-4744624.html) - 03:00 13/05/2024
+- ⚗️ [Thu Phương dự sự kiện cùng Đàm Vĩnh Hưng, Khánh Thi](https://vnexpress.net/thu-phuong-du-su-kien-cung-dam-vinh-hung-khanh-thi-4744624.html) - 03:00 13/05/2024
 - 😎 [Nhan sắc sao chuyển giới &#39;đẹp nhất Thái Lan&#39;](https://vnexpress.net/nhan-sac-sao-chuyen-gioi-dep-nhat-thai-lan-4744480.html) - 02:23 13/05/2024
 - 🫣 [Quang Sự: &#39;Tôi không sợ bị chê&#39;](https://vnexpress.net/quang-su-toi-khong-so-bi-che-4743704.html) - 17:00 12/05/2024
 - 🪄 [Miền Tây yên bình qua tranh màu nước](https://vnexpress.net/mien-tay-yen-binh-qua-tranh-mau-nuoc-4744653.html) - 13:30 12/05/2024
