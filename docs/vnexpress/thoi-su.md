@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Ôtô khách, xe container tông liên hoàn, nhiều người gặp nạn](https://vnexpress.net/oto-khach-xe-container-tong-lien-hoan-nhieu-nguoi-gap-nan-4745433.html) - 06:01 13/05/2024
+- 🦒 [Ôtô khách, xe container tông liên hoàn, một người chết](https://vnexpress.net/oto-khach-xe-container-tong-lien-hoan-mot-nguoi-chet-4745433.html) - 06:01 13/05/2024
 - 🤓 [Giá vé tàu cao tốc TP HCM - Côn Đảo cao nhất 1,1 triệu đồng](https://vnexpress.net/gia-ve-tau-cao-toc-tp-hcm-con-dao-cao-nhat-1-1-trieu-dong-4745414.html) - 05:04 13/05/2024
 - ⚗️ [Hàng trăm trụ sở huyện, xã bỏ không sau sắp xếp](https://vnexpress.net/hang-tram-tru-so-huyen-xa-bo-khong-sau-sap-xep-4745295.html) - 03:36 13/05/2024
 - 🌊 [Mở thầu xây 8 trạm dừng nghỉ trên cao tốc Bắc Nam](https://vnexpress.net/mo-thau-xay-8-tram-dung-nghi-tren-cao-toc-bac-nam-4745261.html) - 03:05 13/05/2024
