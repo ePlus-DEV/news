@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Chú ý những gì khi đầu tư vào cổ phiếu chưa IPO?](https://vnexpress.net/chu-y-nhung-gi-khi-dau-tu-vao-co-phieu-chua-ipo-4740144.html) - 02:47 13/05/2024
 - 🐲 [Ủy ban Kinh tế đề nghị thanh tra toàn diện nhà ở xã hội](https://vnexpress.net/uy-ban-kinh-te-de-nghi-thanh-tra-toan-dien-nha-o-xa-hoi-4745281.html) - 02:37 13/05/2024
-- 🔥 [Giá vàng miếng lao dốc hơn 3 triệu đồng](https://vnexpress.net/gia-vang-mieng-sjc-lao-doc-4745289.html) - 02:02 13/05/2024
+- 🔥 [Giá vàng miếng nhảy múa](https://vnexpress.net/gia-vang-mieng-sjc-lao-doc-4745289.html) - 02:02 13/05/2024
 - 🐵 [Thương hiệu thảo dược 35 tuổi ở Australia tới Việt Nam](https://vnexpress.net/thuong-hieu-thao-duoc-35-tuoi-o-australia-toi-viet-nam-4743429.html) - 01:00 13/05/2024
 - 🦅 [Mang Yang - vùng đất mới cho đàn bò sữa](https://vnexpress.net/mang-yang-vung-dat-moi-cho-dan-bo-sua-4742737.html) - 01:00 13/05/2024
 - 😺 [Winmart và Bách Hóa Xanh sẽ cạnh tranh nhau ra sao](https://vnexpress.net/winmart-va-bach-hoa-xanh-se-canh-tranh-nhau-ra-sao-4744024.html) - 23:06 12/05/2024
