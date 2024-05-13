@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Bắt cóc phó giám đốc công ty, đòi 10 tỷ đồng tiền chuộc](https://vnexpress.net/bat-coc-pho-giam-doc-cong-ty-doi-10-ty-dong-tien-chuoc-4745457.html) - 07:48 13/05/2024
+- 😎 [Bắt cóc doanh nhân, đòi 10 tỷ đồng tiền chuộc](https://vnexpress.net/bat-coc-doanh-nhan-doi-10-ty-dong-tien-chuoc-4745457.html) - 07:48 13/05/2024
 - 🥰 [Cục phó C03 làm Giám đốc Công an Lạng Sơn](https://vnexpress.net/cuc-pho-c03-lam-giam-doc-cong-an-lang-son-4745440.html) - 07:33 13/05/2024
 - 🎓 [Cô gái bị đâm hàng chục nhát giữa đường](https://vnexpress.net/co-gai-bi-dam-hang-chuc-nhat-giua-duong-4745437.html) - 06:17 13/05/2024
 - 🤓 [Giả trung úy quân đội lừa hàng loạt người](https://vnexpress.net/gia-trung-uy-quan-doi-lua-hang-loat-nguoi-4745404.html) - 05:19 13/05/2024
