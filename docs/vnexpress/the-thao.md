@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Cầu thủ Thể Công bị đuổi vì thúc chỏ](https://vnexpress.net/cau-thu-the-cong-bi-duoi-vi-thuc-cho-4745633.html) - 14:59 13/05/2024
-- 🦩 [Hà Nội FC bị cưa điểm dù dẫn trước 2 bàn](https://vnexpress.net/ha-noi-fc-bi-cua-diem-du-dan-truoc-2-ban-4745363.html) - 13:51 13/05/2024
+- 🦩 [Hà Nội FC bị cưa điểm dù dẫn hai bàn ở V-League](https://vnexpress.net/ha-noi-fc-bi-cua-diem-du-dan-hai-ban-o-v-league-4745363.html) - 13:51 13/05/2024
 - 🧰 [Bùi Tiến Dũng giúp HAGL cầm hòa Nam Định](https://vnexpress.net/bui-tien-dung-giup-hagl-cam-hoa-nam-dinh-4745617.html) - 13:17 13/05/2024
 - 🤗 [Nadal không chấp nhận chơi kém ở Roland Garros](https://vnexpress.net/nadal-khong-chap-nhan-choi-kem-o-roland-garros-4745606.html) - 11:46 13/05/2024
 - 🥳 [Sân Old Trafford dột, ngập nước](https://vnexpress.net/san-old-trafford-dot-ngap-nuoc-4745602.html) - 11:39 13/05/2024
