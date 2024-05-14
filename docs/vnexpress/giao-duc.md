@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [16.000 học sinh TP HCM không thi vào lớp 10](https://vnexpress.net/16-000-hoc-sinh-tp-hcm-khong-thi-vao-lop-10-4745403.html) - 05:32 14/05/2024
+- 🤓 [Tỷ lệ chọi lớp 10 ở TP HCM cao nhất 1/3,54](https://vnexpress.net/ty-le-choi-lop-10-o-tp-hcm-cao-nhat-1-3-54-4745403.html) - 05:32 14/05/2024
 - 🦆 [Căng thẳng đua vào lớp 10 trường top đầu](https://vnexpress.net/cang-thang-dua-vao-lop-10-truong-top-dau-4744599.html) - 00:01 14/05/2024
 - 🦩 [Áp lực nhà vệ sinh của các trường nội trú vùng cao](https://vnexpress.net/ap-luc-nha-ve-sinh-cua-cac-truong-noi-tru-vung-cao-4745605.html) - 00:00 14/05/2024
 - 🌮 [Hiệu trưởng Đại học Cornell từ chức](https://vnexpress.net/hieu-truong-dai-hoc-cornell-tu-chuc-4745601.html) - 23:09 13/05/2024
