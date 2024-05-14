@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Đề xuất làm đảo vườn giữa sông Sài Gòn](https://vnexpress.net/de-xuat-lam-dao-vuon-giua-song-sai-gon-4745861.html) - 05:46 14/05/2024
 - 🤓 [&#39;Chỗ nào cũng có bể chữa cháy nhưng lúc cần không dùng được&#39;](https://vnexpress.net/cho-nao-cung-co-be-chua-chay-nhung-luc-can-khong-dung-duoc-4745799.html) - 04:59 14/05/2024
-- ⚗️ [Kiến nghị xây cầu cạn 6 km giảm ùn tắc quốc lộ qua Biên Hòa](https://vnexpress.net/kien-nghi-xay-cau-can-6-km-giam-un-tac-quoc-lo-qua-bien-hoa-4745831.html) - 04:55 14/05/2024
+- ⚗️ [Kiến nghị xây 6 km cầu cạn giảm ùn tắc quốc lộ nối Biên Hòa - Vũng Tàu](https://vnexpress.net/kien-nghi-xay-6-km-cau-can-giam-un-tac-quoc-lo-noi-bien-hoa-vung-tau-4745831.html) - 04:55 14/05/2024
 - 🌊 [Dự kiến giảm 13 huyện và 624 xã sau năm 2025](https://vnexpress.net/du-kien-giam-13-huyen-va-624-xa-sau-nam-2025-4745738.html) - 03:16 14/05/2024
 - 🎓 [Thủ tướng yêu cầu tăng cường kiểm soát thuốc lá điện tử](https://vnexpress.net/thu-tuong-yeu-cau-tang-cuong-kiem-soat-thuoc-la-dien-tu-4745658.html) - 00:56 14/05/2024
 - 🔥 [Áp lực nhà vệ sinh của các trường nội trú vùng cao](https://vnexpress.net/ap-luc-nha-ve-sinh-cua-cac-truong-noi-tru-vung-cao-4745605.html) - 00:00 14/05/2024
