@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Vàng miếng lùi về dưới 90 triệu đồng](https://vnexpress.net/gia-vang-tiep-tuc-giam-4745769.html) - 02:53 14/05/2024
+- ⛽️ [Vàng miếng lùi về dưới 90 triệu đồng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-14-5-4745769.html) - 02:53 14/05/2024
 - 🐲 [Giá vàng thế giới quay đầu giảm](https://vnexpress.net/gia-vang-the-gioi-quay-dau-giam-4745666.html) - 00:57 14/05/2024
 - 🔥 [Sầu riêng Ri6 giảm mạnh xuống 50.000 đồng một kg](https://vnexpress.net/sau-rieng-ri6-giam-manh-xuong-50-000-dong-mot-kg-4745545.html) - 00:04 14/05/2024
 - 🐵 [Vàng thường mất giá thế nào sau khi lập đỉnh mới](https://vnexpress.net/kich-ban-lao-doc-sau-khi-lap-dinh-co-lap-lai-voi-vang-4745330.html) - 17:06 13/05/2024
