@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Các du khách nghi ngộ độc thực phẩm ở Phan Thiết đã xuất viện](https://vnexpress.net/cac-du-khach-nghi-ngo-doc-thuc-pham-o-phan-thiet-da-xuat-vien-4746016.html) - 10:52 14/05/2024
+- 🔥 [Các du khách nghi ngộ độc hải sản ở Phan Thiết đã xuất viện](https://vnexpress.net/cac-du-khach-nghi-ngo-doc-thuc-pham-o-phan-thiet-da-xuat-vien-4746016.html) - 10:52 14/05/2024
 - 🥰 [Bé 6 tuổi ngộ độc bánh mì Đồng Nai &#39;vẫn còn nặng&#39;](https://vnexpress.net/be-6-tuoi-ngo-doc-banh-mi-dong-nai-van-con-nang-4746017.html) - 10:45 14/05/2024
 - 💡 [Ba lời khuyên ăn uống để cân bằng huyết áp](https://vnexpress.net/ba-loi-khuyen-an-uong-de-can-bang-huyet-ap-4745923.html) - 10:27 14/05/2024
 - 🤗 [Thói quen nào làm hại răng trẻ?](https://vnexpress.net/thoi-quen-nao-lam-hai-rang-tre-4745638.html) - 10:00 14/05/2024
