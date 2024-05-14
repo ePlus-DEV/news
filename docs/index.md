@@ -75,7 +75,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎓 [Cô bạn đến chơi nhưng chỉ thích đùa giỡn với chồng tôi](https://vnexpress.net/co-ban-den-choi-nhung-chi-thich-dua-gion-voi-chong-toi-4745899.html) - 10:00 14/05/2024
 - 💫 [Mong anh yêu đời, yêu người và đương nhiên yêu em](https://vnexpress.net/mong-anh-yeu-doi-yeu-nguoi-va-duong-nhien-yeu-em-4745739.html) - 10:00 14/05/2024
 - 🤩 [20 bức ảnh khó tin nếu không có bằng chứng](https://vnexpress.net/20-buc-anh-kho-tin-neu-khong-co-bang-chung-4745774.html) - 10:00 14/05/2024
-- 🏊 [Điểm tin 17h: Hơn 8.000 lượng vàng miếng tung ra thị trường; Đề xuất làm đảo vườn giữa sông Sài Gòn](https://vnexpress.net/diem-tin-17h-hon-8-000-luong-vang-mieng-tung-ra-thi-truong-de-xuat-lam-dao-vuon-giua-song-sai-gon-4746022.html) - 10:00 14/05/2024<!-- vnexpress:END -->
+- 🏊 [Điểm tin 21h: Bộ trưởng Đào Ngọc Dung bị khiển trách; Thanh tra thị trường vàng trong tuần này](https://vnexpress.net/diem-tin-21h-bo-truong-dao-ngoc-dung-bi-khien-trach-thanh-tra-thi-truong-vang-trong-tuan-nay-4746022.html) - 10:00 14/05/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
