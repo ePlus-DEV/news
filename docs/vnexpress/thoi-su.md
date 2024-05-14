@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Thủ tướng yêu cầu tăng cường ngăn chặn thuốc lá điện tử](https://vnexpress.net/thu-tuong-yeu-cau-tang-cuong-ngan-chan-thuoc-la-dien-tu-4745658.html) - 00:56 14/05/2024
+- 🦒 [Thủ tướng yêu cầu tăng cường kiểm soát thuốc lá điện tử](https://vnexpress.net/thu-tuong-yeu-cau-tang-cuong-kiem-soat-thuoc-la-dien-tu-4745658.html) - 00:56 14/05/2024
 - 🤓 [Áp lực nhà vệ sinh của các trường nội trú vùng cao](https://vnexpress.net/ap-luc-nha-ve-sinh-cua-cac-truong-noi-tru-vung-cao-4745605.html) - 00:00 14/05/2024
 - ⚗️ [Đồi Vọng Cảnh sau chỉnh trang](https://vnexpress.net/doi-vong-canh-sau-chinh-trang-4745286.html) - 17:00 13/05/2024
 - 🌊 [Vòi rồng tốc mái hàng chục ngôi nhà ở Quảng Ninh](https://vnexpress.net/voi-rong-toc-mai-hang-chuc-ngoi-nha-o-quang-ninh-4745621.html) - 14:10 13/05/2024
