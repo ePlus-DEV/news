@@ -328,7 +328,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦩 [Kết Facebook nhé em](https://www.sggp.org.vn/ket-facebook-nhe-em-post739722.html) - 02:56 14/05/2024
 - 🌮 [Trường Đại học Quốc tế Hồng Bàng thông báo bảo vệ luận án tiến sĩ](https://www.sggp.org.vn/truong-dai-hoc-quoc-te-hong-bang-thong-bao-bao-ve-luan-an-tien-si-post739734.html) - 02:56 14/05/2024
 - 👍 [Tìm giải pháp hoàn thiện công tác quản lý đất đai trên địa bàn TPHCM](https://www.sggp.org.vn/tim-giai-phap-hoan-thien-cong-tac-quan-ly-dat-dai-tren-dia-ban-tphcm-post739728.html) - 02:55 14/05/2024
-- 🦒 [Bổ sung quy định về phương tiện giao thông để phòng tránh nguy cơ cháy nổ](https://www.sggp.org.vn/bo-sung-quy-dinh-ve-phuong-tien-giao-thong-de-phong-tranh-nguy-co-chay-no-post739735.html) - 02:55 14/05/2024
+- 🦒 [Đâu là điểm mới đối với phòng cháy cho nhà ở?](https://www.sggp.org.vn/dau-la-diem-moi-doi-voi-phong-chay-cho-nha-o-post739735.html) - 02:55 14/05/2024
 - 🤡 [Sài Gòn Giải Phóng ngày 14/5/2024](https://www.sggp.org.vn/sai-gon-giai-phong-ngay-1452024-post739719.html) - 02:54 14/05/2024
 - 🐎 [Mở các trại sáng tác lý luận phê bình và kịch bản văn học năm 2024](https://www.sggp.org.vn/mo-cac-trai-sang-tac-ly-luan-phe-binh-va-kich-ban-van-hoc-nam-2024-post739716.html) - 02:54 14/05/2024
 - 🦆 [3 vở kịch của sân khấu Hoàng Thái Thanh được dựng thành phim](https://www.sggp.org.vn/3-vo-kich-cua-san-khau-hoang-thai-thanh-duoc-dung-thanh-phim-post739717.html) - 02:54 14/05/2024
