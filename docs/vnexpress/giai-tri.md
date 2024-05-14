@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Hậu trường cảnh thuyền gặp bão biển trong &#39;Lật mặt 7&#39;](https://vnexpress.net/hau-truong-canh-thuyen-gap-bao-bien-trong-lat-mat-7-4745978.html) - 09:53 14/05/2024
+- 🌏 [Lý Hải thuê 100 chiếc tàu quay cảnh bão biển](https://vnexpress.net/ly-hai-thue-100-chiec-tau-quay-canh-bao-bien-4745978.html) - 09:53 14/05/2024
 - 💫 [Hồ Biểu Chánh - văn tài đầu thế kỷ 20](https://vnexpress.net/ho-bieu-chanh-van-tai-dau-the-ky-20-4745123.html) - 09:06 14/05/2024
 - 🌮 [Sắc vóc tuổi 18 của con gái Mỹ Lệ](https://vnexpress.net/sac-voc-tuoi-18-cua-con-gai-my-le-4745778.html) - 08:16 14/05/2024
 - 🧠 [Con gái út của Angelina Jolie ủng hộ mẹ](https://vnexpress.net/con-gai-ut-cua-angelina-jolie-ung-ho-me-4745773.html) - 05:53 14/05/2024
