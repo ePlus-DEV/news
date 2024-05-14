@@ -249,7 +249,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Năm cầu thủ CLB Hà Tĩnh bị khởi tố vì sử dụng ma túy](https://nld.com.vn/nam-cau-thu-clb-ha-tinh-bi-khoi-to-vi-su-dung-ma-tuy-196240514210755169.htm) - 14:15 14/05/2024
+- 🐎 [Khởi tố 5 cầu thủ CLB Hồng Lĩnh Hà Tĩnh tổ chức sử dụng ma túy](https://nld.com.vn/nam-cau-thu-clb-ha-tinh-bi-khoi-to-vi-su-dung-ma-tuy-196240514210755169.htm) - 14:15 14/05/2024
 - 😺 [Đồng Nai: Công ty tặng 400 nhẫn vàng tri ân người lao động](https://nld.com.vn/dong-nai-cong-ty-tang-400-nhan-vang-tri-an-nguoi-lao-dong-196240514200741448.htm) - 13:58 14/05/2024
 - 👍 [Phát Hoàng Gia - Chìa khóa thành công trong chiến dịch marketing](https://diaoc.nld.com.vn/phat-hoang-gia-chia-khoa-thanh-cong-trong-chien-dich-marketing-196240514175230942.htm) - 13:48 14/05/2024
 - 🥷 [Sở Y tế TP HCM kiểm tra sau phản ánh về bồi dưỡng bằng hiện vật cho nhân viên y tế](https://nld.com.vn/so-y-te-tp-hcm-kiem-tra-sau-phan-anh-ve-boi-duong-bang-hien-vat-cho-nhan-vien-y-te-196240514202940082.htm) - 13:31 14/05/2024
