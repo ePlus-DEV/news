@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [CLB Công an Hà Nội – &#39;Lò xay&#39; HLV mới ở V-League](https://vnexpress.net/clb-cong-an-ha-noi-lo-xay-hlv-moi-o-v-league-4745979.html) - 09:12 14/05/2024
+- 🪜 [CLB Công an Hà Nội năm lần thay HLV từ khi lên V-League](https://vnexpress.net/clb-cong-an-ha-noi-nam-lan-thay-hlv-tu-khi-len-v-league-4745979.html) - 09:12 14/05/2024
 - 🦩 [Võ sĩ qua đời ngay sau trận quyền Anh chuyên nghiệp đầu tiên](https://vnexpress.net/vo-si-qua-doi-ngay-sau-tran-quyen-anh-chuyen-nghiep-dau-tien-4745927.html) - 08:46 14/05/2024
 - 🧰 [LAAN Ultra Trail khởi động mùa giải 2024](https://vnexpress.net/laan-ultra-trail-khoi-dong-mua-giai-2024-4745910.html) - 08:00 14/05/2024
 - 🤗 [Vì sao Man Utd nên trao thêm cơ hội cho Ten Hag?](https://vnexpress.net/vi-sao-man-utd-nen-trao-them-co-hoi-cho-ten-hag-4745875.html) - 06:30 14/05/2024
