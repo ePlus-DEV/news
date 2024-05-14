@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Tay súng phục kích xe cảnh sát, giải thoát cho tù nhân](https://vnexpress.net/tay-sung-phuc-kich-xe-canh-sat-giai-thoat-cho-tu-nhan-4746101.html) - 16:35 14/05/2024
+- 🎭 [Tay súng phục kích xe cảnh sát, giải thoát tù nhân](https://vnexpress.net/tay-sung-phuc-kich-xe-canh-sat-giai-thoat-tu-nhan-4746101.html) - 16:35 14/05/2024
 - 🕴 [Chủ tịch Hạ viện Mỹ đến tòa cổ vũ ông Trump](https://vnexpress.net/chu-tich-ha-vien-my-den-toa-co-vu-ong-trump-4746089.html) - 15:41 14/05/2024
 - 🤭 [Bất chấp biểu tình, quốc hội Gruzia thông qua dự luật gây tranh cãi](https://vnexpress.net/bat-chap-bieu-tinh-quoc-hoi-gruzia-thong-qua-du-luat-gay-tranh-cai-4746065.html) - 13:58 14/05/2024
 - 🧑‍💻 [Mỹ tăng thuế với 18 tỷ USD hàng hóa Trung Quốc](https://vnexpress.net/my-tang-thue-voi-18-ty-usd-hang-hoa-trung-quoc-4746049.html) - 12:15 14/05/2024
