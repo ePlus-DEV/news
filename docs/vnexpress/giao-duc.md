@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Hàng loạt trường tăng mạnh tỷ lệ chọi lớp 10](https://vnexpress.net/hang-loat-truong-tang-manh-ty-le-choi-lop-10-4745860.html) - 08:47 14/05/2024
+- 🤓 [Hàng loạt trường tăng tỷ lệ chọi lớp 10](https://vnexpress.net/hang-loat-truong-tang-ty-le-choi-lop-10-4745860.html) - 08:47 14/05/2024
 - 🦆 [Tỷ lệ chọi lớp 10 chuyên ở TP HCM tăng](https://vnexpress.net/ty-le-choi-lop-10-chuyen-o-tp-hcm-tang-4745885.html) - 07:14 14/05/2024
 - 🦩 [Tỷ lệ chọi lớp 10 ở TP HCM cao nhất 1/3,54](https://vnexpress.net/ty-le-choi-lop-10-o-tp-hcm-cao-nhat-1-3-54-4745403.html) - 05:32 14/05/2024
 - 🌮 [Căng thẳng đua vào lớp 10 trường top đầu](https://vnexpress.net/cang-thang-dua-vao-lop-10-truong-top-dau-4744599.html) - 00:01 14/05/2024
