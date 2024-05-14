@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Hoa khôi đại học ở Sài Gòn bị khởi tố vì &#39;đánh ghen&#39; giúp bạn](https://vnexpress.net/hoa-khoi-dai-hoc-o-sai-gon-bi-khoi-to-vi-danh-ghen-giup-ban-4745853.html) - 05:26 14/05/2024
+- 😎 [Hoa khôi đại học ở Sài Gòn bị khởi tố vì đánh ghen giúp bạn](https://vnexpress.net/hoa-khoi-dai-hoc-o-sai-gon-bi-khoi-to-vi-danh-ghen-giup-ban-4745853.html) - 05:26 14/05/2024
 - 🥰 [Giấu hàng trăm kg ma túy dưới sàn ôtô](https://video.vnexpress.net/giau-hang-tram-kg-ma-tuy-duoi-san-oto-4745557.html) - 03:37 14/05/2024
 - 🎓 [Tại sao ăn phở, uống cà phê cũng phải trả thuế VAT?](https://vnexpress.net/tai-sao-an-pho-uong-ca-phe-cung-phai-tra-thue-vat-4745178.html) - 22:00 13/05/2024
 - 🤓 [Vụ án nữ sinh cầu cứu cô giáo vì bị cha dượng xâm hại](https://vnexpress.net/vu-an-nu-sinh-cau-cuu-co-giao-vi-bi-cha-duong-xam-hai-4745610.html) - 17:00 13/05/2024
