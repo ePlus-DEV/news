@@ -4,63 +4,63 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Giấu hàng trăm kg ma túy dưới sàn ôtô](https://video.vnexpress.net/giau-hang-tram-kg-ma-tuy-duoi-san-oto-4745557.html) - 03:37 14/05/2024
-- 🥰 [Tại sao ăn phở, uống cà phê cũng phải trả thuế VAT?](https://vnexpress.net/tai-sao-an-pho-uong-ca-phe-cung-phai-tra-thue-vat-4745178.html) - 22:00 13/05/2024
-- 🎓 [Vụ án nữ sinh cầu cứu cô giáo vì bị cha dượng xâm hại](https://vnexpress.net/vu-an-nu-sinh-cau-cuu-co-giao-vi-bi-cha-duong-xam-hai-4745610.html) - 17:00 13/05/2024
-- 🤓 [Thủ đoạn tham nhũng của quan chức &#39;thăng tiến như tên lửa&#39;](https://vnexpress.net/thu-doan-tham-nhung-cua-quan-chuc-thang-tien-nhu-ten-lua-4745603.html) - 17:00 13/05/2024
-- 🎊 [Ông lão truy sát 3 người](https://vnexpress.net/ong-lao-truy-sat-3-nguoi-4745642.html) - 16:24 13/05/2024
-- 🙉 [Đường dây lô đề một ngày giao dịch 2 tỷ đồng](https://vnexpress.net/duong-day-lo-de-mot-ngay-giao-dich-2-ty-dong-4745587.html) - 10:27 13/05/2024
-- 🤡 [Sai phạm của Phó giám đốc Thành Bưởi trong vụ tai nạn 5 người chết](https://vnexpress.net/sai-pham-cua-pho-giam-doc-thanh-buoi-trong-vu-tai-nan-5-nguoi-chet-4745512.html) - 09:02 13/05/2024
-- 🗽 [Bắt cóc doanh nhân, đòi 10 tỷ đồng tiền chuộc](https://vnexpress.net/bat-coc-doanh-nhan-doi-10-ty-dong-tien-chuoc-4745457.html) - 07:48 13/05/2024
-- 🌋 [Cục phó C03 làm Giám đốc Công an Lạng Sơn](https://vnexpress.net/cuc-pho-c03-lam-giam-doc-cong-an-lang-son-4745440.html) - 07:33 13/05/2024
-- 🎬 [Cô gái bị đâm hàng chục nhát giữa đường](https://vnexpress.net/co-gai-bi-dam-hang-chuc-nhat-giua-duong-4745437.html) - 06:17 13/05/2024
-- 💯 [Giả trung úy quân đội lừa hàng loạt người](https://vnexpress.net/gia-trung-uy-quan-doi-lua-hang-loat-nguoi-4745404.html) - 05:19 13/05/2024
-- 🌏 [Thêm 11 người bị bắt vì liên quan bà chủ doanh nghiệp &#39;cát tặc&#39;](https://vnexpress.net/them-11-nguoi-bi-bat-vi-lien-quan-ba-chu-doanh-nghiep-cat-tac-4745351.html) - 04:58 13/05/2024
-- 🌊 [Hai người trong gia đình ở Sài Gòn chết bất thường](https://vnexpress.net/hai-nguoi-trong-gia-dinh-o-sai-gon-chet-bat-thuong-4745398.html) - 04:38 13/05/2024
-- 💂 [Gây án mạng vì &#39;bạn gái bị xúc phạm&#39;](https://vnexpress.net/gay-an-mang-vi-ban-gai-bi-xuc-pham-4745313.html) - 03:02 13/05/2024
-- 🎡 [Con trai tự sát vì bị lừa tình, cha mẹ kiện đòi bồi thường](https://vnexpress.net/con-trai-tu-sat-vi-bi-lua-tinh-cha-me-kien-doi-boi-thuong-4745191.html) - 17:00 12/05/2024
-- 🫶 [Người hành hạ cụ bà tại cơ sở từ thiện sắp bị xét xử](https://vnexpress.net/nguoi-hanh-ha-cu-ba-tai-co-so-tu-thien-sap-bi-xet-xu-4744932.html) - 17:00 12/05/2024
-- 🐲 [Được bồi thường một triệu USD vì bị đuổi học oan](https://vnexpress.net/duoc-boi-thuong-mot-trieu-usd-vi-bi-duoi-hoc-oan-4745172.html) - 14:48 12/05/2024
-- 🚀 [Nghi phạm nước ngoài trộm hơn 1,5 tỷ đồng](https://vnexpress.net/nghi-pham-nuoc-ngoai-trom-hon-1-5-ty-dong-4745110.html) - 07:51 12/05/2024
-- 🎊 [Không cấp đất cho hộ gia đình từ năm 2025](https://vnexpress.net/khong-cap-dat-cho-ho-gia-dinh-tu-nam-2025-4744491.html) - 07:07 12/05/2024
-- 🤗 [Vờ lái thử ôtô rồi cướp xe](https://vnexpress.net/vo-lai-thu-oto-roi-cuop-xe-4745081.html) - 07:01 12/05/2024
-- 🗽 [Nhân viên ngân hàng bị bắt vì xâm nhập tài khoản khách hàng](https://vnexpress.net/nhan-vien-ngan-hang-bi-bat-vi-xam-nhap-tai-khoan-khach-hang-4745075.html) - 06:08 12/05/2024
-- 🕴 [Tranh cãi việc đòi tiền bảo hiểm thương tật khi lao vào lửa cứu vợ con](https://vnexpress.net/tranh-cai-viec-doi-tien-bao-hiem-thuong-tat-khi-lao-vao-lua-cuu-vo-con-4744203.html) - 02:00 12/05/2024
-- 🌜 [Vụ kiện khiến chủ nhà ở Mỹ phải chịu trách nhiệm an ninh cho khách](https://vnexpress.net/vu-kien-khien-chu-nha-o-my-phai-chiu-trach-nhiem-an-ninh-cho-khach-4744495.html) - 00:10 12/05/2024
-- 🧑‍🏫 [Kính rơi khiến thực khách bị thương, quán ăn hay toà nhà bồi thường?](https://vnexpress.net/kinh-roi-khien-thuc-khach-bi-thuong-quan-an-hay-toa-nha-boi-thuong-4744930.html) - 18:00 11/05/2024
-- 🦩 [&#39;Quan tham&#39; có hơn 100 nhân tình, giấu ba tấn tiền trong biệt thự](https://vnexpress.net/quan-tham-co-hon-100-nhan-tinh-giau-ba-tan-tien-trong-biet-thu-4743760.html) - 17:00 11/05/2024
-- 💼 [Hàng nghìn người sập bẫy lừa của app sex &#39;Lauxanh&#39;](https://vnexpress.net/hang-nghin-nguoi-sap-bay-lua-cua-app-sex-lauxanh-4744823.html) - 06:59 11/05/2024
-- 💫 [&#39;Thầy bói&#39; lừa 268 tỷ đồng](https://vnexpress.net/thay-boi-lua-268-ty-dong-hang-chuc-nguoi-4744862.html) - 06:45 11/05/2024
-- 🦅 [Toan tính tội lỗi của trưởng phòng điều tra nhiều lần ngoại tình](https://vnexpress.net/toan-tinh-sau-nhung-cuoc-tinh-cua-truong-phong-dieu-tra-ham-sac-duc-4744695.html) - 01:07 11/05/2024
-- 🧑‍💻 [Sở hữu, mua bán vàng thế nào mới đúng pháp luật?](https://vnexpress.net/ban-co-biet-quy-dinh-phap-luat-ve-so-huu-mua-ban-vang-4744597.html) - 23:00 10/05/2024
-- 💻 [Nhóm chuyển trái phép hơn 1.400 tỷ đồng phạm tội ra khỏi Việt Nam lĩnh án](https://vnexpress.net/nhom-chuyen-trai-phep-hon-1-400-ty-dong-pham-toi-ra-khoi-viet-nam-linh-an-4744646.html) - 17:00 10/05/2024
-- 🤠 [Tấn công 5 phụ nữ trên đường bằng tuýp sắt](https://vnexpress.net/tan-cong-5-phu-nu-tren-duong-bang-tuyp-sat-4744656.html) - 14:02 10/05/2024
-- 🧑‍🏫 [Sai phạm của giám đốc người Trung Quốc trong vụ nổ lò hơi 6 người chết](https://vnexpress.net/sai-pham-cua-giam-doc-nguoi-trung-quoc-trong-vu-no-lo-hoi-6-nguoi-chet-4744650.html) - 13:08 10/05/2024
-- 🌈 [Bắt giữ, đánh hai thiếu niên để đòi 300.000 đồng](https://vnexpress.net/bat-giu-danh-hai-thieu-nien-de-doi-300-000-dong-4744638.html) - 11:33 10/05/2024
-- 🌮 [Mẹ rủ con gái buôn ma túy](https://vnexpress.net/me-ru-con-gai-buon-ma-tuy-4744615.html) - 11:32 10/05/2024
-- 🐲 [Vợ chồng tổ chức cho 18 người trốn sang Hàn Quốc](https://vnexpress.net/vo-chong-to-chuc-cho-18-nguoi-tron-sang-han-quoc-4744632.html) - 11:26 10/05/2024
-- 🧰 [Trộm tiền lễ trên ban thờ ở bệnh viện](https://video.vnexpress.net/trom-tien-le-tren-ban-tho-o-benh-vien-4744452.html) - 09:44 10/05/2024
-- 💄 [Bị tuyên tù chung thân vì giả gái xinh lừa 12 tỷ đồng của đại gia](https://vnexpress.net/bi-tuyen-tu-chung-than-vi-gia-gai-xinh-lua-12-ty-dong-cua-dai-gia-4744544.html) - 08:43 10/05/2024
+- 😎 [Hoa khôi đại học ở Sài Gòn bị khởi tố vì &#39;đánh ghen&#39; giúp bạn](https://vnexpress.net/hoa-khoi-dai-hoc-o-sai-gon-bi-khoi-to-vi-danh-ghen-giup-ban-4745853.html) - 05:26 14/05/2024
+- 🥰 [Giấu hàng trăm kg ma túy dưới sàn ôtô](https://video.vnexpress.net/giau-hang-tram-kg-ma-tuy-duoi-san-oto-4745557.html) - 03:37 14/05/2024
+- 🎓 [Tại sao ăn phở, uống cà phê cũng phải trả thuế VAT?](https://vnexpress.net/tai-sao-an-pho-uong-ca-phe-cung-phai-tra-thue-vat-4745178.html) - 22:00 13/05/2024
+- 🤓 [Vụ án nữ sinh cầu cứu cô giáo vì bị cha dượng xâm hại](https://vnexpress.net/vu-an-nu-sinh-cau-cuu-co-giao-vi-bi-cha-duong-xam-hai-4745610.html) - 17:00 13/05/2024
+- 🎊 [Thủ đoạn tham nhũng của quan chức &#39;thăng tiến như tên lửa&#39;](https://vnexpress.net/thu-doan-tham-nhung-cua-quan-chuc-thang-tien-nhu-ten-lua-4745603.html) - 17:00 13/05/2024
+- 🙉 [Ông lão truy sát 3 người](https://vnexpress.net/ong-lao-truy-sat-3-nguoi-4745642.html) - 16:24 13/05/2024
+- 🤡 [Đường dây lô đề một ngày giao dịch 2 tỷ đồng](https://vnexpress.net/duong-day-lo-de-mot-ngay-giao-dich-2-ty-dong-4745587.html) - 10:27 13/05/2024
+- 🗽 [Sai phạm của Phó giám đốc Thành Bưởi trong vụ tai nạn 5 người chết](https://vnexpress.net/sai-pham-cua-pho-giam-doc-thanh-buoi-trong-vu-tai-nan-5-nguoi-chet-4745512.html) - 09:02 13/05/2024
+- 🌋 [Bắt cóc doanh nhân, đòi 10 tỷ đồng tiền chuộc](https://vnexpress.net/bat-coc-doanh-nhan-doi-10-ty-dong-tien-chuoc-4745457.html) - 07:48 13/05/2024
+- 🎬 [Cục phó C03 làm Giám đốc Công an Lạng Sơn](https://vnexpress.net/cuc-pho-c03-lam-giam-doc-cong-an-lang-son-4745440.html) - 07:33 13/05/2024
+- 💯 [Cô gái bị đâm hàng chục nhát giữa đường](https://vnexpress.net/co-gai-bi-dam-hang-chuc-nhat-giua-duong-4745437.html) - 06:17 13/05/2024
+- 🌏 [Giả trung úy quân đội lừa hàng loạt người](https://vnexpress.net/gia-trung-uy-quan-doi-lua-hang-loat-nguoi-4745404.html) - 05:19 13/05/2024
+- 🌊 [Thêm 11 người bị bắt vì liên quan bà chủ doanh nghiệp &#39;cát tặc&#39;](https://vnexpress.net/them-11-nguoi-bi-bat-vi-lien-quan-ba-chu-doanh-nghiep-cat-tac-4745351.html) - 04:58 13/05/2024
+- 💂 [Hai người trong gia đình ở Sài Gòn chết bất thường](https://vnexpress.net/hai-nguoi-trong-gia-dinh-o-sai-gon-chet-bat-thuong-4745398.html) - 04:38 13/05/2024
+- 🎡 [Gây án mạng vì &#39;bạn gái bị xúc phạm&#39;](https://vnexpress.net/gay-an-mang-vi-ban-gai-bi-xuc-pham-4745313.html) - 03:02 13/05/2024
+- 🫶 [Con trai tự sát vì bị lừa tình, cha mẹ kiện đòi bồi thường](https://vnexpress.net/con-trai-tu-sat-vi-bi-lua-tinh-cha-me-kien-doi-boi-thuong-4745191.html) - 17:00 12/05/2024
+- 🐲 [Người hành hạ cụ bà tại cơ sở từ thiện sắp bị xét xử](https://vnexpress.net/nguoi-hanh-ha-cu-ba-tai-co-so-tu-thien-sap-bi-xet-xu-4744932.html) - 17:00 12/05/2024
+- 🚀 [Được bồi thường một triệu USD vì bị đuổi học oan](https://vnexpress.net/duoc-boi-thuong-mot-trieu-usd-vi-bi-duoi-hoc-oan-4745172.html) - 14:48 12/05/2024
+- 🎊 [Nghi phạm nước ngoài trộm hơn 1,5 tỷ đồng](https://vnexpress.net/nghi-pham-nuoc-ngoai-trom-hon-1-5-ty-dong-4745110.html) - 07:51 12/05/2024
+- 🤗 [Không cấp đất cho hộ gia đình từ năm 2025](https://vnexpress.net/khong-cap-dat-cho-ho-gia-dinh-tu-nam-2025-4744491.html) - 07:07 12/05/2024
+- 🗽 [Vờ lái thử ôtô rồi cướp xe](https://vnexpress.net/vo-lai-thu-oto-roi-cuop-xe-4745081.html) - 07:01 12/05/2024
+- 🕴 [Nhân viên ngân hàng bị bắt vì xâm nhập tài khoản khách hàng](https://vnexpress.net/nhan-vien-ngan-hang-bi-bat-vi-xam-nhap-tai-khoan-khach-hang-4745075.html) - 06:08 12/05/2024
+- 🌜 [Tranh cãi việc đòi tiền bảo hiểm thương tật khi lao vào lửa cứu vợ con](https://vnexpress.net/tranh-cai-viec-doi-tien-bao-hiem-thuong-tat-khi-lao-vao-lua-cuu-vo-con-4744203.html) - 02:00 12/05/2024
+- 🧑‍🏫 [Vụ kiện khiến chủ nhà ở Mỹ phải chịu trách nhiệm an ninh cho khách](https://vnexpress.net/vu-kien-khien-chu-nha-o-my-phai-chiu-trach-nhiem-an-ninh-cho-khach-4744495.html) - 00:10 12/05/2024
+- 🦩 [Kính rơi khiến thực khách bị thương, quán ăn hay toà nhà bồi thường?](https://vnexpress.net/kinh-roi-khien-thuc-khach-bi-thuong-quan-an-hay-toa-nha-boi-thuong-4744930.html) - 18:00 11/05/2024
+- 💼 [&#39;Quan tham&#39; có hơn 100 nhân tình, giấu ba tấn tiền trong biệt thự](https://vnexpress.net/quan-tham-co-hon-100-nhan-tinh-giau-ba-tan-tien-trong-biet-thu-4743760.html) - 17:00 11/05/2024
+- 💫 [Hàng nghìn người sập bẫy lừa của app sex &#39;Lauxanh&#39;](https://vnexpress.net/hang-nghin-nguoi-sap-bay-lua-cua-app-sex-lauxanh-4744823.html) - 06:59 11/05/2024
+- 🦅 [&#39;Thầy bói&#39; lừa 268 tỷ đồng](https://vnexpress.net/thay-boi-lua-268-ty-dong-hang-chuc-nguoi-4744862.html) - 06:45 11/05/2024
+- 🧑‍💻 [Toan tính tội lỗi của trưởng phòng điều tra nhiều lần ngoại tình](https://vnexpress.net/toan-tinh-sau-nhung-cuoc-tinh-cua-truong-phong-dieu-tra-ham-sac-duc-4744695.html) - 01:07 11/05/2024
+- 💻 [Sở hữu, mua bán vàng thế nào mới đúng pháp luật?](https://vnexpress.net/ban-co-biet-quy-dinh-phap-luat-ve-so-huu-mua-ban-vang-4744597.html) - 23:00 10/05/2024
+- 🤠 [Nhóm chuyển trái phép hơn 1.400 tỷ đồng phạm tội ra khỏi Việt Nam lĩnh án](https://vnexpress.net/nhom-chuyen-trai-phep-hon-1-400-ty-dong-pham-toi-ra-khoi-viet-nam-linh-an-4744646.html) - 17:00 10/05/2024
+- 🧑‍🏫 [Tấn công 5 phụ nữ trên đường bằng tuýp sắt](https://vnexpress.net/tan-cong-5-phu-nu-tren-duong-bang-tuyp-sat-4744656.html) - 14:02 10/05/2024
+- 🌈 [Sai phạm của giám đốc người Trung Quốc trong vụ nổ lò hơi 6 người chết](https://vnexpress.net/sai-pham-cua-giam-doc-nguoi-trung-quoc-trong-vu-no-lo-hoi-6-nguoi-chet-4744650.html) - 13:08 10/05/2024
+- 🌮 [Bắt giữ, đánh hai thiếu niên để đòi 300.000 đồng](https://vnexpress.net/bat-giu-danh-hai-thieu-nien-de-doi-300-000-dong-4744638.html) - 11:33 10/05/2024
+- 🐲 [Mẹ rủ con gái buôn ma túy](https://vnexpress.net/me-ru-con-gai-buon-ma-tuy-4744615.html) - 11:32 10/05/2024
+- 🧰 [Vợ chồng tổ chức cho 18 người trốn sang Hàn Quốc](https://vnexpress.net/vo-chong-to-chuc-cho-18-nguoi-tron-sang-han-quoc-4744632.html) - 11:26 10/05/2024
+- 💄 [Trộm tiền lễ trên ban thờ ở bệnh viện](https://video.vnexpress.net/trom-tien-le-tren-ban-tho-o-benh-vien-4744452.html) - 09:44 10/05/2024
+- ⛽️ [Bị tuyên tù chung thân vì giả gái xinh lừa 12 tỷ đồng của đại gia](https://vnexpress.net/bi-tuyen-tu-chung-than-vi-gia-gai-xinh-lua-12-ty-dong-cua-dai-gia-4744544.html) - 08:43 10/05/2024
 - ⛽️ [Tài xế có hơi men tông chết người đi bộ](https://vnexpress.net/tai-xe-co-hoi-men-tong-chet-nguoi-di-bo-cung-chieu-4744447.html) - 07:06 10/05/2024
-- ⛽️ [Thêm một ôtô chất đầy ma túy bị bắt tại Hà Tĩnh](https://vnexpress.net/them-mot-oto-chat-day-ma-tuy-bi-bat-tai-ha-tinh-4744448.html) - 06:45 10/05/2024
-- 💂 [Ngọc Thúy đề nghị tòa &#39;giải quyết dứt điểm&#39; vụ tranh chấp tài sản với chồng cũ](https://vnexpress.net/ngoc-thuy-de-nghi-toa-giai-quyet-dut-diem-vu-tranh-chap-tai-san-voi-chong-cu-4744374.html) - 04:23 10/05/2024
-- 🤔 [Giám đốc người Trung Quốc bị bắt sau vụ nổ 6 công nhân chết](https://vnexpress.net/giam-doc-nguoi-trung-quoc-bi-bat-sau-vu-no-6-cong-nhan-chet-4744396.html) - 04:00 10/05/2024
-- 🧐 [Chồng đâm chết người từ cuộc cãi vã của vợ](https://vnexpress.net/chong-dam-chet-nguoi-tu-cuoc-cai-va-cua-vo-4744328.html) - 03:52 10/05/2024
-- 🎃 [Nhóm chuyển trái phép hơn 1.400 tỷ đồng bị lộ từ đường dây tín dụng đen](https://vnexpress.net/nhom-chuyen-trai-phep-hon-1-400-ty-dong-bi-lo-tu-duong-day-tin-dung-den-4744184.html) - 03:43 10/05/2024
-- 🤓 [Thủ đoạn giấu tội của bí thư quận uỷ thủ tiêu nhân tình](https://vnexpress.net/thu-doan-giau-toi-cua-bi-thu-quan-uy-thu-tieu-nhan-tinh-4744192.html) - 17:00 09/05/2024
-- 💃 [Nỗi lòng người mẹ &#39;chạy án&#39; cho con](https://vnexpress.net/noi-long-nguoi-me-chay-an-cho-con-4744007.html) - 17:00 09/05/2024
-- 🐵 [Truy sát hàng xóm từ việc con vịt bị què](https://vnexpress.net/truy-sat-hang-xom-tu-viec-con-vit-bi-que-4744112.html) - 09:54 09/05/2024
-- 🤖 [23 người bị khởi tố trong đại án buôn lậu 200 triệu lít xăng](https://vnexpress.net/23-nguoi-bi-khoi-to-trong-dai-an-buon-lau-200-trieu-lit-xang-4744085.html) - 08:59 09/05/2024
-- ⚗️ [&#39;Tú Ông&#39; điều hành đường dây 300 gái bán dâm](https://vnexpress.net/tu-ong-dieu-hanh-duong-day-300-gai-ban-dam-4743997.html) - 08:49 09/05/2024
-- 🌏 [Kẻ sát hại vợ và 3 con bằng khí CO bị tuyên tử hình](https://vnexpress.net/ke-sat-hai-vo-va-3-con-bang-khi-co-bi-tuyen-tu-hinh-4744076.html) - 08:46 09/05/2024
-- 🦆 [VKSND Tối cao nêu nhiều vi phạm tố tụng trong điều tra, thi hành án](https://vnexpress.net/vksnd-toi-cao-neu-nhieu-vi-pham-to-tung-trong-dieu-tra-giam-giu-4743964.html) - 08:16 09/05/2024
-- 🐎 [Đi tù vì nghịch dại](https://vnexpress.net/di-tu-vi-nghich-dai-4743986.html) - 05:52 09/05/2024
-- 😎 [Nhiều cán bộ ở Phú Quốc giao nộp tiền đã nhận hối lộ](https://vnexpress.net/nhieu-can-bo-o-phu-quoc-giao-nop-tien-da-nhan-hoi-lo-4743819.html) - 02:58 09/05/2024
-- 💪 [Vụ trưởng Pháp chế Bộ Lao động Thương binh và Xã hội bị bắt](https://vnexpress.net/vu-truong-phap-che-bo-lao-dong-thuong-binh-va-xa-hoi-bi-bat-4743888.html) - 02:53 09/05/2024
-- 🤡 [Đâm phó chánh án vì không đồng tình mức phạt tù](https://vnexpress.net/khoi-to-nguoi-dam-pho-chanh-an-vi-khong-dong-tinh-muc-phat-tu-4743818.html) - 02:43 09/05/2024
-- 🌁 [Số phận biệt thự của Marilyn Monroe sau vụ kiện của tỷ phú](https://vnexpress.net/so-phan-biet-thu-cua-marilyn-monroe-sau-vu-kien-cua-ty-phu-4743751.html) - 00:45 09/05/2024
+- 💂 [Thêm một ôtô chất đầy ma túy bị bắt tại Hà Tĩnh](https://vnexpress.net/them-mot-oto-chat-day-ma-tuy-bi-bat-tai-ha-tinh-4744448.html) - 06:45 10/05/2024
+- 🤔 [Ngọc Thúy đề nghị tòa &#39;giải quyết dứt điểm&#39; vụ tranh chấp tài sản với chồng cũ](https://vnexpress.net/ngoc-thuy-de-nghi-toa-giai-quyet-dut-diem-vu-tranh-chap-tai-san-voi-chong-cu-4744374.html) - 04:23 10/05/2024
+- 🧐 [Giám đốc người Trung Quốc bị bắt sau vụ nổ 6 công nhân chết](https://vnexpress.net/giam-doc-nguoi-trung-quoc-bi-bat-sau-vu-no-6-cong-nhan-chet-4744396.html) - 04:00 10/05/2024
+- 🎃 [Chồng đâm chết người từ cuộc cãi vã của vợ](https://vnexpress.net/chong-dam-chet-nguoi-tu-cuoc-cai-va-cua-vo-4744328.html) - 03:52 10/05/2024
+- 🤓 [Nhóm chuyển trái phép hơn 1.400 tỷ đồng bị lộ từ đường dây tín dụng đen](https://vnexpress.net/nhom-chuyen-trai-phep-hon-1-400-ty-dong-bi-lo-tu-duong-day-tin-dung-den-4744184.html) - 03:43 10/05/2024
+- 💃 [Thủ đoạn giấu tội của bí thư quận uỷ thủ tiêu nhân tình](https://vnexpress.net/thu-doan-giau-toi-cua-bi-thu-quan-uy-thu-tieu-nhan-tinh-4744192.html) - 17:00 09/05/2024
+- 🐵 [Nỗi lòng người mẹ &#39;chạy án&#39; cho con](https://vnexpress.net/noi-long-nguoi-me-chay-an-cho-con-4744007.html) - 17:00 09/05/2024
+- 🤖 [Truy sát hàng xóm từ việc con vịt bị què](https://vnexpress.net/truy-sat-hang-xom-tu-viec-con-vit-bi-que-4744112.html) - 09:54 09/05/2024
+- ⚗️ [23 người bị khởi tố trong đại án buôn lậu 200 triệu lít xăng](https://vnexpress.net/23-nguoi-bi-khoi-to-trong-dai-an-buon-lau-200-trieu-lit-xang-4744085.html) - 08:59 09/05/2024
+- 🌏 [&#39;Tú Ông&#39; điều hành đường dây 300 gái bán dâm](https://vnexpress.net/tu-ong-dieu-hanh-duong-day-300-gai-ban-dam-4743997.html) - 08:49 09/05/2024
+- 🦆 [Kẻ sát hại vợ và 3 con bằng khí CO bị tuyên tử hình](https://vnexpress.net/ke-sat-hai-vo-va-3-con-bang-khi-co-bi-tuyen-tu-hinh-4744076.html) - 08:46 09/05/2024
+- 🐎 [VKSND Tối cao nêu nhiều vi phạm tố tụng trong điều tra, thi hành án](https://vnexpress.net/vksnd-toi-cao-neu-nhieu-vi-pham-to-tung-trong-dieu-tra-giam-giu-4743964.html) - 08:16 09/05/2024
+- 😎 [Đi tù vì nghịch dại](https://vnexpress.net/di-tu-vi-nghich-dai-4743986.html) - 05:52 09/05/2024
+- 💪 [Nhiều cán bộ ở Phú Quốc giao nộp tiền đã nhận hối lộ](https://vnexpress.net/nhieu-can-bo-o-phu-quoc-giao-nop-tien-da-nhan-hoi-lo-4743819.html) - 02:58 09/05/2024
+- 🤡 [Vụ trưởng Pháp chế Bộ Lao động Thương binh và Xã hội bị bắt](https://vnexpress.net/vu-truong-phap-che-bo-lao-dong-thuong-binh-va-xa-hoi-bi-bat-4743888.html) - 02:53 09/05/2024
+- 🌁 [Đâm phó chánh án vì không đồng tình mức phạt tù](https://vnexpress.net/khoi-to-nguoi-dam-pho-chanh-an-vi-khong-dong-tinh-muc-phat-tu-4743818.html) - 02:43 09/05/2024
+- 🔥 [Số phận biệt thự của Marilyn Monroe sau vụ kiện của tỷ phú](https://vnexpress.net/so-phan-biet-thu-cua-marilyn-monroe-sau-vu-kien-cua-ty-phu-4743751.html) - 00:45 09/05/2024
 - 🔥 [Tòa đề nghị điều tra cựu trưởng trạm CSGT Suối Tre](https://vnexpress.net/toa-de-nghi-dieu-tra-cuu-truong-tram-csgt-suoi-tre-4743745.html) - 17:00 08/05/2024
-- 🔥 [Lẻn vào trường hiếp dâm bé gái 7 tuổi](https://vnexpress.net/len-vao-truong-hiep-dam-be-gai-7-tuoi-4743742.html) - 17:00 08/05/2024
-- 👺 [Tẩm xăng đốt vợ trong lúc to tiếng](https://vnexpress.net/tam-xang-dot-vo-trong-luc-to-tieng-4743691.html) - 10:49 08/05/2024
-- 🎊 [Nguyên giám đốc CDC Thừa Thiên Huế được miễn hình phạt tù](https://vnexpress.net/nguyen-giam-doc-cdc-thua-thien-hue-duoc-mien-hinh-phat-tu-4743664.html) - 10:28 08/05/2024
-- 🎊 [Diễn viên giả danh vụ phó để lừa xin việc, chạy án](https://vnexpress.net/lay-danh-dien-vien-canh-sat-hinh-su-de-lua-xin-viec-chay-an-4743611.html) - 09:43 08/05/2024<!-- vnexpress-phap-luat:END -->
+- 👺 [Lẻn vào trường hiếp dâm bé gái 7 tuổi](https://vnexpress.net/len-vao-truong-hiep-dam-be-gai-7-tuoi-4743742.html) - 17:00 08/05/2024
+- 🎊 [Tẩm xăng đốt vợ trong lúc to tiếng](https://vnexpress.net/tam-xang-dot-vo-trong-luc-to-tieng-4743691.html) - 10:49 08/05/2024
+- 🎊 [Nguyên giám đốc CDC Thừa Thiên Huế được miễn hình phạt tù](https://vnexpress.net/nguyen-giam-doc-cdc-thua-thien-hue-duoc-mien-hinh-phat-tu-4743664.html) - 10:28 08/05/2024<!-- vnexpress-phap-luat:END -->
