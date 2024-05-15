@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [35 tuổi vẫn đi &#39;rải CV&#39; là người thất bại?](https://vnexpress.net/35-tuoi-van-di-rai-cv-la-nguoi-that-bai-4744163.html) - 23:30 14/05/2024
+- 🚀 [35 tuổi vẫn đi xin việc là thất bại?](https://vnexpress.net/35-tuoi-van-di-xin-viec-la-that-bai-4744163.html) - 23:30 14/05/2024
 - 🎓 [Lòng mề gà xào giá đỗ](https://vnexpress.net/long-me-ga-xao-gia-do-4745934.html) - 12:00 14/05/2024
 - 🚦 [Giới trẻ săn bữa ăn của người nghèo](https://vnexpress.net/gioi-tre-san-bua-an-cua-nguoi-ngheo-4745862.html) - 09:07 14/05/2024
 - 🦣 [Sự bừa bộn ảnh hưởng đến tâm trạng thế nào?](https://vnexpress.net/su-bua-bon-anh-huong-den-tam-trang-the-nao-4745218.html) - 06:42 14/05/2024
