@@ -44,7 +44,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🪄 [Hyundai i10 mới sắp bán tại Việt Nam](https://vnexpress.net/hyundai-i10-moi-sap-ban-tai-viet-nam-4745816.html) - 01:26 15/05/2024
 - 😎 [&#39;Khoa học và công nghệ đóng góp quan trọng trong quá trình phát triển&#39;](https://vnexpress.net/khoa-hoc-va-cong-nghe-dong-gop-quan-trong-trong-qua-trinh-phat-trien-4746105.html) - 01:26 15/05/2024
 - 🎊 [Carragher: &#39;Pha bỏ lỡ của Son sẽ ám ảnh Arsenal&#39;](https://vnexpress.net/carragher-pha-bo-lo-cua-son-se-am-anh-arsenal-4746170.html) - 01:24 15/05/2024
-- ⚗️ [Công ty Mỹ giành giải nhất phương án kiến trúc tháp 108 tầng ở Hà Nội](https://vnexpress.net/cong-ty-my-gianh-giai-nhat-phuong-an-kien-truc-thap-108-tang-o-ha-noi-4746122.html) - 01:12 15/05/2024
+- ⚗️ [Công ty Mỹ giành giải nhất phương án kiến trúc tháp 108 ở Hà Nội](https://vnexpress.net/cong-ty-my-gianh-giai-nhat-phuong-an-kien-truc-thap-108-o-ha-noi-4746122.html) - 01:12 15/05/2024
 - 🫣 [Thời bĩ cực của tân vô địch major lão tướng trên PGA Tour](https://vnexpress.net/thoi-bi-cuc-cua-tan-vo-dich-major-lao-tuong-tren-pga-tour-4746145.html) - 01:03 15/05/2024
 - 👨‍🏫 [Truyện Kiều là tên gọi do ai đặt?](https://vnexpress.net/truyen-kieu-la-ten-goi-do-ai-dat-4743927.html) - 01:00 15/05/2024
 - 🐻 [Viêm xoang có tái phát sau phẫu thuật?](https://vnexpress.net/viem-xoang-co-tai-phat-sau-phau-thuat-4746088.html) - 01:00 15/05/2024
