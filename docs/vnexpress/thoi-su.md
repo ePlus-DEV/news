@@ -12,7 +12,7 @@ sidebar_position: 1
 - 🔥 [Lao động thi tiếng Hàn đông gấp ba lần chỉ tiêu](https://vnexpress.net/lao-dong-thi-tieng-han-dong-gap-ba-lan-chi-tieu-4746422.html) - 09:17 15/05/2024
 - 🦏 [Xây kè biển 300 tỷ đồng bảo vệ bờ đảo Phú Quý](https://vnexpress.net/xay-ke-bien-300-ty-dong-bao-ve-bo-dao-phu-quy-4746342.html) - 07:28 15/05/2024
 - 👺 [Niệc mỏ vằn quý hiếm bay vào nhà dân ở TP HCM](https://vnexpress.net/niec-mo-van-quy-hiem-bay-vao-nha-dan-o-tp-hcm-4746354.html) - 06:41 15/05/2024
-- 🧑‍🏫 [Bị phạt vì drift ôtô ở trung tâm Sài Gòn](https://vnexpress.net/bi-phat-vi-drift-oto-o-trung-tam-sai-gon-4746346.html) - 06:15 15/05/2024
+- 🧑‍🏫 [Bị phạt vì drift ôtô ở trung tâm TP HCM](https://vnexpress.net/bi-phat-vi-drift-oto-o-trung-tam-tp-hcm-4746346.html) - 06:15 15/05/2024
 - 🚦 [Dùng vệ tinh giám sát nguồn gây ô nhiễm sông Bắc Hưng Hải](https://vnexpress.net/dung-ve-tinh-giam-sat-nguon-gay-o-nhiem-song-bac-hung-hai-4746214.html) - 04:47 15/05/2024
 - 🎉 [Đề xuất lùi thời gian hoàn thành cầu Đại Ngãi đến năm 2027](https://vnexpress.net/de-xuat-lui-thoi-gian-hoan-thanh-cau-dai-ngai-den-nam-2027-4746191.html) - 03:30 15/05/2024
 - 🦒 [Công ty Mỹ giành giải nhất phương án kiến trúc tháp 108 tầng ở Hà Nội](https://vnexpress.net/cong-ty-my-gianh-giai-nhat-phuong-an-kien-truc-thap-108-tang-o-ha-noi-4746122.html) - 01:12 15/05/2024
