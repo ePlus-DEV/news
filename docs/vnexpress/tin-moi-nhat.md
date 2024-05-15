@@ -13,7 +13,7 @@ sidebar_position: 9
 - 🧰 [Vóc dáng &#39;gái một con&#39; Dương Mỹ Linh](https://vnexpress.net/voc-dang-gai-mot-con-duong-my-linh-4746190.html) - 14:00 15/05/2024
 - 🔭 [Phụ huynh tố trường không cho con thi lớp 10](https://vnexpress.net/phu-huynh-to-truong-khong-cho-con-thi-lop-10-4746519.html) - 13:43 15/05/2024
 - 🫶 [Bộ Y tế lần đầu cấp phép vaccine sốt xuất huyết](https://vnexpress.net/bo-y-te-lan-dau-cap-phep-vaccine-sot-xuat-huyet-4746543.html) - 13:30 15/05/2024
-- 🪜 [Thủ tướng Slovakia nguy kịch sau khi bị bắn](https://vnexpress.net/thu-tuong-slovakia-nguy-kich-sau-khi-bi-ban-4746538.html) - 13:25 15/05/2024
+- 🪜 [Thủ tướng Slovakia bị bắn](https://vnexpress.net/thu-tuong-slovakia-bi-ban-4746538.html) - 13:25 15/05/2024
 - 👨‍🏫 [&#39;Không lý do gì giá điện Việt Nam lại rẻ hơn thế giới&#39;](https://vnexpress.net/khong-ly-do-gi-gia-dien-viet-nam-lai-re-hon-the-gioi-4746530.html) - 13:16 15/05/2024
 - 🎊 [Giáo viên tư vấn kiểu &#39;bàn lùi&#39; trước kỳ thi vào lớp 10](https://vnexpress.net/giao-vien-tu-van-kieu-ban-lui-truoc-ky-thi-vao-lop-10-4746399.html) - 13:00 15/05/2024
 - 🎊 [Honda ưu đãi trả góp 0% cho dòng xe SH](https://vnexpress.net/honda-uu-dai-tra-gop-0-cho-dong-xe-sh-4746334.html) - 13:00 15/05/2024
