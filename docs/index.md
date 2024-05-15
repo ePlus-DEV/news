@@ -247,7 +247,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Đồng Nai: Gần 100 công nhân nôn ói, đau bụng sau khi ăn bánh đa, mì quảng](https://nld.com.vn/dong-nai-gan-100-cong-nhan-non-oi-dau-bung-sau-khi-an-banh-da-mi-quang-19624051521152278.htm) - 14:26 15/05/2024
+- 🐎 [Đồng Nai: Gần 100 công nhân nhập viện sau khi ăn bánh đa, mì quảng](https://nld.com.vn/dong-nai-gan-100-cong-nhan-non-oi-dau-bung-sau-khi-an-banh-da-mi-quang-19624051521152278.htm) - 14:26 15/05/2024
 - 😺 [Ra mắt Không gian Văn hóa Hồ Chí Minh tại khu nhà trọ công nhân](https://nld.com.vn/ra-mat-khong-gian-van-hoa-ho-chi-minh-tai-khu-nha-tro-cong-nhan-196240515210600203.htm) - 14:24 15/05/2024
 - 👍 [Thủ tướng Slovakia  Robert Fico bị bắn, được đưa vào bệnh viện](https://nld.com.vn/thu-tuong-slovakia-bi-ban-196240515210428723.htm) - 14:05 15/05/2024
 - 🥷 [Giao tranh ác liệt ở Kharkov, Ukraine bắt &quot;điệp viên Nga&quot;](https://nld.com.vn/giao-tranh-ac-liet-o-kharkov-ukraine-bat-diep-vien-nga-196240515203529866.htm) - 13:51 15/05/2024
