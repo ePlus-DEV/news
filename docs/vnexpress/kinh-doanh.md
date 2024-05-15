@@ -4,63 +4,63 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Thu trăm triệu nhờ &#39;trend&#39; bán kẹp tóc hoa sứ](https://vnexpress.net/thu-tram-trieu-nho-trend-ban-kep-toc-hoa-su-4746013.html) - 22:00 14/05/2024
-- 🐲 [Trung Quốc không còn là &#39;mỏ vàng&#39; với phương Tây](https://vnexpress.net/trung-quoc-khong-con-la-mo-vang-voi-phuong-tay-4745818.html) - 20:00 14/05/2024
-- 🔥 [Giới đầu tư &#39;bắt đáy&#39; cho vay bất động sản thương mại](https://vnexpress.net/gioi-dau-tu-bat-day-cho-vay-bat-dong-san-thuong-mai-4746036.html) - 17:00 14/05/2024
-- 🐵 [Chàng trai Việt bán &#39;bánh mì di động&#39; tại Nhật](https://vnexpress.net/chang-trai-viet-ban-banh-mi-di-dong-tai-nhat-4745476.html) - 17:00 14/05/2024
-- 🦅 [Mỹ áp thuế hơn 100% lên xe điện Trung Quốc](https://vnexpress.net/my-ap-thue-hon-100-len-xe-dien-trung-quoc-4746045.html) - 12:49 14/05/2024
-- 😺 [Bộ Tài chính yêu cầu siết nhập lậu vàng](https://vnexpress.net/bo-tai-chinh-yeu-cau-siet-nhap-lau-vang-4746037.html) - 11:47 14/05/2024
-- 🤩 [Thanh tra thị trường vàng trong tuần này](https://vnexpress.net/thanh-tra-thi-truong-vang-trong-tuan-nay-4746019.html) - 10:07 14/05/2024
-- 🌮 [Khu thương mại tự do sẽ giúp Đà Nẵng hút đầu tư](https://vnexpress.net/khu-thuong-mai-tu-do-se-giup-da-nang-hut-dau-tu-4745945.html) - 09:51 14/05/2024
-- 🧰 [Chủ tịch EVN: Có thể mua bán điện trực tiếp không giới hạn](https://vnexpress.net/chu-tich-evn-co-the-cho-mua-ban-dien-truc-tiep-khong-gioi-han-4745986.html) - 09:40 14/05/2024
-- 🤔 [Chứng khoán tăng trở lại](https://vnexpress.net/chung-khoan-hom-nay-14-5-chung-khoan-tang-tro-lai-4745967.html) - 08:41 14/05/2024
-- 🧑‍💻 [Thủ tướng: Khuyến khích các dự án lớn của doanh nghiệp Trung Quốc](https://vnexpress.net/thu-tuong-khuyen-khich-cac-du-an-lon-cua-doanh-nghiep-trung-quoc-4745922.html) - 08:11 14/05/2024
-- 🕴 [Doanh nghiệp phân phối vẫn muốn mua chéo xăng dầu của nhau](https://vnexpress.net/doanh-nghiep-phan-phoi-ban-le-xang-dau-than-kinh-doanh-bi-dat-4745864.html) - 07:47 14/05/2024
-- 🦩 [Hơn 8.000 lượng vàng miếng tung ra thị trường](https://vnexpress.net/them-8-000-luong-vang-mieng-tung-ra-thi-truong-4745863.html) - 05:58 14/05/2024
-- 👍 [Công ty vận hành đường sắt Cát Linh - Hà Đông lãi đậm](https://vnexpress.net/cong-ty-van-hanh-duong-sat-cat-linh-ha-dong-lai-dam-4745851.html) - 05:03 14/05/2024
-- 🏊 [Vàng miếng lùi về dưới 90 triệu đồng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-14-5-4745769.html) - 02:53 14/05/2024
-- 🤡 [Giá vàng thế giới quay đầu giảm](https://vnexpress.net/gia-vang-the-gioi-quay-dau-giam-4745666.html) - 00:57 14/05/2024
-- 👀 [Sầu riêng Ri6 giảm mạnh xuống 50.000 đồng một kg](https://vnexpress.net/sau-rieng-ri6-giam-manh-xuong-50-000-dong-mot-kg-4745545.html) - 00:04 14/05/2024
-- 😺 [Vàng thường mất giá thế nào sau khi lập đỉnh mới](https://vnexpress.net/kich-ban-lao-doc-sau-khi-lap-dinh-co-lap-lai-voi-vang-4745330.html) - 17:06 13/05/2024
-- 🦣 [USD mạnh áp lực lên các nền kinh tế mới nổi](https://vnexpress.net/usd-manh-ap-luc-len-cac-nen-kinh-te-moi-noi-4745472.html) - 17:00 13/05/2024
-- 😺 [Chính phủ đồng ý mua điện từ dự án Trường Sơn tại Lào](https://vnexpress.net/chinh-phu-dong-y-cho-nhap-dien-gio-truong-son-tu-lao-4745552.html) - 09:43 13/05/2024
-- 💼 [Ngân hàng Nhà nước nới điều kiện đấu thầu vàng miếng](https://vnexpress.net/ngan-hang-nha-nuoc-noi-dieu-kien-dau-thau-vang-mieng-4745542.html) - 09:35 13/05/2024
-- 🤗 [Ông Nguyễn Đức Tài: Số nhân viên bị giảm chủ yếu do tự xin nghỉ](https://vnexpress.net/ong-nguyen-duc-tai-so-nhan-vien-bi-giam-chu-yeu-do-tu-xin-nghi-4745473.html) - 08:03 13/05/2024
-- 👀 [&#39;Việt Nam là nền kinh tế thành công của thế kỷ 21&#39;](https://vnexpress.net/viet-nam-la-nen-kinh-te-thanh-cong-cua-the-ky-21-4745370.html) - 07:30 13/05/2024
-- 🎓 [Thứ trưởng giải thích việc vé máy bay Việt Nam đắt hơn Thái Lan](https://vnexpress.net/thu-truong-giai-thich-viec-ve-may-bay-viet-nam-dat-hon-thai-lan-4745396.html) - 06:29 13/05/2024
-- 🗽 [Anh thoát suy thoái](https://vnexpress.net/anh-thoat-suy-thoai-4745431.html) - 06:26 13/05/2024
-- 🚀 [USD mạnh đe dọa lợi nhuận doanh nghiệp Mỹ](https://vnexpress.net/usd-manh-de-doa-loi-nhuan-doanh-nghiep-my-4745300.html) - 05:34 13/05/2024
-- 🤗 [Phó thống đốc: Sẽ tăng phiên đấu thầu vàng miếng, sửa Nghị định 24](https://vnexpress.net/pho-chu-tich-quoc-hoi-khong-le-cu-de-gia-vang-nhay-mua-nhu-the-4745319.html) - 04:12 13/05/2024
-- 🌜 [Chú ý những gì khi đầu tư vào cổ phiếu chưa IPO?](https://vnexpress.net/chu-y-nhung-gi-khi-dau-tu-vao-co-phieu-chua-ipo-4740144.html) - 02:47 13/05/2024
-- 👍 [Ủy ban Kinh tế đề nghị thanh tra toàn diện nhà ở xã hội](https://vnexpress.net/uy-ban-kinh-te-de-nghi-thanh-tra-toan-dien-nha-o-xa-hoi-4745281.html) - 02:37 13/05/2024
-- 🤖 [Giá vàng miếng nhảy múa](https://vnexpress.net/gia-vang-mieng-sjc-lao-doc-4745289.html) - 02:02 13/05/2024
-- 🫣 [Thảo dược Herbs of Gold của Australia gia nhập thị trường Việt](https://vnexpress.net/thao-duoc-herbs-of-gold-cua-australia-gia-nhap-thi-truong-viet-4743429.html) - 01:00 13/05/2024
-- 🌏 [Mang Yang - vùng đất mới cho đàn bò sữa](https://vnexpress.net/mang-yang-vung-dat-moi-cho-dan-bo-sua-4742737.html) - 01:00 13/05/2024
-- ⚗️ [Winmart và Bách Hóa Xanh sẽ cạnh tranh nhau ra sao](https://vnexpress.net/winmart-va-bach-hoa-xanh-se-canh-tranh-nhau-ra-sao-4744024.html) - 23:06 12/05/2024
-- 🕯 [Vé máy bay giá 0 đồng tái xuất](https://vnexpress.net/ve-may-bay-gia-0-dong-tai-xuat-4745169.html) - 21:00 12/05/2024
-- 👍 [JLL: Việt Nam có thể thu hút Google, Amazon mở trung tâm dữ liệu](https://vnexpress.net/jll-viet-nam-co-the-thu-hut-google-amazon-mo-trung-tam-du-lieu-4745113.html) - 19:00 12/05/2024
-- 🤠 [&#39;Không nước nào cấm mua bán vàng bằng tiền mặt&#39;](https://vnexpress.net/khong-nuoc-nao-cam-mua-ban-vang-bang-tien-mat-4744643.html) - 17:00 12/05/2024
-- 🌊 [Ngân hàng Nhà nước: Tiếp tục đấu thầu lượng vàng phù hợp để tăng cung](https://vnexpress.net/ngan-hang-nha-nuoc-se-cung-ung-vang-mieng-voi-khoi-luong-phu-hop-nhu-cau-thi-truong-4745166.html) - 11:52 12/05/2024
-- 🌈 [Vinhomes huy động 8.000 tỷ đồng trái phiếu trong hơn 1 tháng](https://vnexpress.net/vinhomes-huy-dong-8-000-ty-dong-trai-phieu-trong-hon-1-thang-4745145.html) - 09:58 12/05/2024
-- 🥳 [Vietjet khai trương đường bay thẳng Hà Nội - Hiroshima](https://vnexpress.net/vietjet-khai-truong-duong-bay-thang-ha-noi-hiroshima-4745121.html) - 09:00 12/05/2024
-- 🐻 [Ngân hàng Nhà nước xác minh tài sản, thu nhập 58 cán bộ](https://vnexpress.net/ngan-hang-nha-nuoc-xac-minh-tai-san-thu-nhap-58-can-bo-4745118.html) - 08:57 12/05/2024
-- 💫 [Chính phủ khoanh, xóa nợ thuế trên 38.700 tỷ đồng](https://vnexpress.net/khoanh-no-gan-30-000-ty-dong-cho-hang-tram-nghin-nguoi-nop-thue-4745098.html) - 08:03 12/05/2024
-- 🤩 [Hòa Phát sắp tăng vốn lên gần 64.000 tỷ đồng](https://vnexpress.net/hoa-phat-sap-tang-von-len-gan-64-000-ty-dong-4745039.html) - 03:28 12/05/2024
-- 💻 [Nghịch lý càng đấu thầu giá vàng càng tăng](https://vnexpress.net/nghich-ly-gia-vang-tang-sau-dau-thau-4744902.html) - 17:40 11/05/2024
-- ⚗️ [SK khởi công nhà máy sản xuất nhựa sinh học nửa tỷ USD](https://vnexpress.net/sk-khoi-cong-nha-may-san-xuat-nhua-sinh-hoc-nua-ty-usd-4744905.html) - 09:00 11/05/2024
-- 🌈 [Cục Hàng không: Các hãng bán vé máy bay đúng giá quy định](https://vnexpress.net/cuc-hang-khong-cac-hang-ban-ve-may-bay-dung-gia-quy-dinh-4744882.html) - 07:43 11/05/2024
-- 🌝 [Mỹ vượt Trung Quốc thành đối tác thương mại lớn nhất của Đức](https://vnexpress.net/my-vuot-trung-quoc-thanh-doi-tac-thuong-mai-lon-nhat-cua-duc-4744833.html) - 07:00 11/05/2024
-- 🥸 [Giá vàng miếng SJC mất hơn 1 triệu đồng mỗi lượng](https://vnexpress.net/gia-vang-mieng-sjc-mat-hon-1-trieu-dong-moi-luong-4744873.html) - 06:28 11/05/2024
-- 🦆 [Phó thủ tướng yêu cầu kiểm tra ngay thị trường vàng](https://vnexpress.net/pho-thu-tuong-yeu-cau-kiem-tra-ngay-thi-truong-vang-4744848.html) - 05:35 11/05/2024
-- 🌋 [Trồng gừng xuất khẩu châu Âu](https://vnexpress.net/trong-gung-xuat-khau-chau-au-4744322.html) - 05:00 11/05/2024
-- 🦍 [Giá vàng thế giới tiếp tục tăng](https://vnexpress.net/gia-vang-the-gioi-hom-nay-4744754.html) - 02:07 11/05/2024
-- 🤔 [Có nên mua vàng lúc này?](https://vnexpress.net/co-nen-mua-vang-vao-luc-nay-khong-4744687.html) - 00:39 11/05/2024
-- 🧰 [Lý do Hà Nội, TP HCM vẫn tụt hạng năng lực cạnh tranh cấp tỉnh](https://vnexpress.net/ly-do-ha-noi-tp-hcm-van-tut-hang-nang-luc-canh-tranh-cap-tinh-4744130.html) - 17:00 10/05/2024
-- 🌝 [Tập đoàn Hàn Quốc muốn xây trung tâm dữ liệu lớn tại TP HCM](https://vnexpress.net/tap-doan-han-quoc-xay-trung-tam-du-lieu-lon-tai-tp-hcm-4744657.html) - 14:59 10/05/2024
-- 👍 [Trung Quốc tăng mua vàng dự trữ 18 tháng liên tiếp](https://vnexpress.net/trung-quoc-tang-mua-vang-du-tru-18-thang-lien-tiep-4744504.html) - 09:22 10/05/2024
-- 🗽 [Vàng miếng &#39;cháy hàng&#39; khi giá tăng thẳng đứng](https://vnexpress.net/khan-vang-mieng-tren-dien-rong-4744498.html) - 08:16 10/05/2024
-- 🐎 [Lạm phát cộng dồn thời ông Biden lên gần 20%](https://vnexpress.net/lam-phat-cong-don-thoi-ong-biden-len-gan-20-4744453.html) - 07:36 10/05/2024
-- 🪄 [Chính phủ yêu cầu kiểm soát chặt giao dịch vàng](https://vnexpress.net/chinh-phu-yeu-cau-kiem-soat-chat-giao-dich-vang-4744451.html) - 05:51 10/05/2024
-- 🎊 [Bầu Đức: &#39;Tôi ám ảnh với lỗ lũy kế&#39;](https://vnexpress.net/bau-duc-toi-am-anh-voi-lo-luy-ke-4744432.html) - 05:42 10/05/2024
-- 🗽 [Vàng miếng SJC vượt 92 triệu đồng](https://vnexpress.net/gia-vang-mieng-sjc-vuot-90-trieu-dong-4744292.html) - 02:15 10/05/2024
-- 🦩 [Giá vàng thế giới tăng vọt](https://vnexpress.net/gia-vang-the-gioi-tang-vot-4744225.html) - 00:39 10/05/2024<!-- vnexpress-kinh-doanh:END -->
+- ⛽️ [Trung Quốc dọa đáp trả lệnh tăng thuế 18 tỷ USD hàng hóa của Mỹ](https://vnexpress.net/trung-quoc-doa-dap-tra-lenh-tang-thue-18-ty-usd-hang-hoa-cua-my-4746103.html) - 00:56 15/05/2024
+- 🐲 [Thu trăm triệu nhờ &#39;trend&#39; bán kẹp tóc hoa sứ](https://vnexpress.net/thu-tram-trieu-nho-trend-ban-kep-toc-hoa-su-4746013.html) - 22:00 14/05/2024
+- 🔥 [Trung Quốc không còn là &#39;mỏ vàng&#39; với phương Tây](https://vnexpress.net/trung-quoc-khong-con-la-mo-vang-voi-phuong-tay-4745818.html) - 20:00 14/05/2024
+- 🐵 [Giới đầu tư &#39;bắt đáy&#39; cho vay bất động sản thương mại](https://vnexpress.net/gioi-dau-tu-bat-day-cho-vay-bat-dong-san-thuong-mai-4746036.html) - 17:00 14/05/2024
+- 🦅 [Chàng trai Việt bán &#39;bánh mì di động&#39; tại Nhật](https://vnexpress.net/chang-trai-viet-ban-banh-mi-di-dong-tai-nhat-4745476.html) - 17:00 14/05/2024
+- 😺 [Mỹ áp thuế hơn 100% lên xe điện Trung Quốc](https://vnexpress.net/my-ap-thue-hon-100-len-xe-dien-trung-quoc-4746045.html) - 12:49 14/05/2024
+- 🤩 [Bộ Tài chính yêu cầu siết nhập lậu vàng](https://vnexpress.net/bo-tai-chinh-yeu-cau-siet-nhap-lau-vang-4746037.html) - 11:47 14/05/2024
+- 🌮 [Thanh tra thị trường vàng trong tuần này](https://vnexpress.net/thanh-tra-thi-truong-vang-trong-tuan-nay-4746019.html) - 10:07 14/05/2024
+- 🧰 [Khu thương mại tự do sẽ giúp Đà Nẵng hút đầu tư](https://vnexpress.net/khu-thuong-mai-tu-do-se-giup-da-nang-hut-dau-tu-4745945.html) - 09:51 14/05/2024
+- 🤔 [Chủ tịch EVN: Có thể mua bán điện trực tiếp không giới hạn](https://vnexpress.net/chu-tich-evn-co-the-cho-mua-ban-dien-truc-tiep-khong-gioi-han-4745986.html) - 09:40 14/05/2024
+- 🧑‍💻 [Chứng khoán tăng trở lại](https://vnexpress.net/chung-khoan-hom-nay-14-5-chung-khoan-tang-tro-lai-4745967.html) - 08:41 14/05/2024
+- 🕴 [Thủ tướng: Khuyến khích các dự án lớn của doanh nghiệp Trung Quốc](https://vnexpress.net/thu-tuong-khuyen-khich-cac-du-an-lon-cua-doanh-nghiep-trung-quoc-4745922.html) - 08:11 14/05/2024
+- 🦩 [Doanh nghiệp phân phối vẫn muốn mua chéo xăng dầu của nhau](https://vnexpress.net/doanh-nghiep-phan-phoi-ban-le-xang-dau-than-kinh-doanh-bi-dat-4745864.html) - 07:47 14/05/2024
+- 👍 [Hơn 8.000 lượng vàng miếng tung ra thị trường](https://vnexpress.net/them-8-000-luong-vang-mieng-tung-ra-thi-truong-4745863.html) - 05:58 14/05/2024
+- 🏊 [Công ty vận hành đường sắt Cát Linh - Hà Đông lãi đậm](https://vnexpress.net/cong-ty-van-hanh-duong-sat-cat-linh-ha-dong-lai-dam-4745851.html) - 05:03 14/05/2024
+- 🤡 [Vàng miếng lùi về dưới 90 triệu đồng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-14-5-4745769.html) - 02:53 14/05/2024
+- 👀 [Giá vàng thế giới quay đầu giảm](https://vnexpress.net/gia-vang-the-gioi-quay-dau-giam-4745666.html) - 00:57 14/05/2024
+- 😺 [Sầu riêng Ri6 giảm mạnh xuống 50.000 đồng một kg](https://vnexpress.net/sau-rieng-ri6-giam-manh-xuong-50-000-dong-mot-kg-4745545.html) - 00:04 14/05/2024
+- 🦣 [Vàng thường mất giá thế nào sau khi lập đỉnh mới](https://vnexpress.net/kich-ban-lao-doc-sau-khi-lap-dinh-co-lap-lai-voi-vang-4745330.html) - 17:06 13/05/2024
+- 😺 [USD mạnh áp lực lên các nền kinh tế mới nổi](https://vnexpress.net/usd-manh-ap-luc-len-cac-nen-kinh-te-moi-noi-4745472.html) - 17:00 13/05/2024
+- 💼 [Chính phủ đồng ý mua điện từ dự án Trường Sơn tại Lào](https://vnexpress.net/chinh-phu-dong-y-cho-nhap-dien-gio-truong-son-tu-lao-4745552.html) - 09:43 13/05/2024
+- 🤗 [Ngân hàng Nhà nước nới điều kiện đấu thầu vàng miếng](https://vnexpress.net/ngan-hang-nha-nuoc-noi-dieu-kien-dau-thau-vang-mieng-4745542.html) - 09:35 13/05/2024
+- 👀 [Ông Nguyễn Đức Tài: Số nhân viên bị giảm chủ yếu do tự xin nghỉ](https://vnexpress.net/ong-nguyen-duc-tai-so-nhan-vien-bi-giam-chu-yeu-do-tu-xin-nghi-4745473.html) - 08:03 13/05/2024
+- 🎓 [&#39;Việt Nam là nền kinh tế thành công của thế kỷ 21&#39;](https://vnexpress.net/viet-nam-la-nen-kinh-te-thanh-cong-cua-the-ky-21-4745370.html) - 07:30 13/05/2024
+- 🗽 [Thứ trưởng giải thích việc vé máy bay Việt Nam đắt hơn Thái Lan](https://vnexpress.net/thu-truong-giai-thich-viec-ve-may-bay-viet-nam-dat-hon-thai-lan-4745396.html) - 06:29 13/05/2024
+- 🚀 [Anh thoát suy thoái](https://vnexpress.net/anh-thoat-suy-thoai-4745431.html) - 06:26 13/05/2024
+- 🤗 [USD mạnh đe dọa lợi nhuận doanh nghiệp Mỹ](https://vnexpress.net/usd-manh-de-doa-loi-nhuan-doanh-nghiep-my-4745300.html) - 05:34 13/05/2024
+- 🌜 [Phó thống đốc: Sẽ tăng phiên đấu thầu vàng miếng, sửa Nghị định 24](https://vnexpress.net/pho-chu-tich-quoc-hoi-khong-le-cu-de-gia-vang-nhay-mua-nhu-the-4745319.html) - 04:12 13/05/2024
+- 👍 [Chú ý những gì khi đầu tư vào cổ phiếu chưa IPO?](https://vnexpress.net/chu-y-nhung-gi-khi-dau-tu-vao-co-phieu-chua-ipo-4740144.html) - 02:47 13/05/2024
+- 🤖 [Ủy ban Kinh tế đề nghị thanh tra toàn diện nhà ở xã hội](https://vnexpress.net/uy-ban-kinh-te-de-nghi-thanh-tra-toan-dien-nha-o-xa-hoi-4745281.html) - 02:37 13/05/2024
+- 🫣 [Giá vàng miếng nhảy múa](https://vnexpress.net/gia-vang-mieng-sjc-lao-doc-4745289.html) - 02:02 13/05/2024
+- 🌏 [Thảo dược Herbs of Gold của Australia gia nhập thị trường Việt](https://vnexpress.net/thao-duoc-herbs-of-gold-cua-australia-gia-nhap-thi-truong-viet-4743429.html) - 01:00 13/05/2024
+- ⚗️ [Mang Yang - vùng đất mới cho đàn bò sữa](https://vnexpress.net/mang-yang-vung-dat-moi-cho-dan-bo-sua-4742737.html) - 01:00 13/05/2024
+- 🕯 [Winmart và Bách Hóa Xanh sẽ cạnh tranh nhau ra sao](https://vnexpress.net/winmart-va-bach-hoa-xanh-se-canh-tranh-nhau-ra-sao-4744024.html) - 23:06 12/05/2024
+- 👍 [Vé máy bay giá 0 đồng tái xuất](https://vnexpress.net/ve-may-bay-gia-0-dong-tai-xuat-4745169.html) - 21:00 12/05/2024
+- 🤠 [JLL: Việt Nam có thể thu hút Google, Amazon mở trung tâm dữ liệu](https://vnexpress.net/jll-viet-nam-co-the-thu-hut-google-amazon-mo-trung-tam-du-lieu-4745113.html) - 19:00 12/05/2024
+- 🌊 [&#39;Không nước nào cấm mua bán vàng bằng tiền mặt&#39;](https://vnexpress.net/khong-nuoc-nao-cam-mua-ban-vang-bang-tien-mat-4744643.html) - 17:00 12/05/2024
+- 🌈 [Ngân hàng Nhà nước: Tiếp tục đấu thầu lượng vàng phù hợp để tăng cung](https://vnexpress.net/ngan-hang-nha-nuoc-se-cung-ung-vang-mieng-voi-khoi-luong-phu-hop-nhu-cau-thi-truong-4745166.html) - 11:52 12/05/2024
+- 🥳 [Vinhomes huy động 8.000 tỷ đồng trái phiếu trong hơn 1 tháng](https://vnexpress.net/vinhomes-huy-dong-8-000-ty-dong-trai-phieu-trong-hon-1-thang-4745145.html) - 09:58 12/05/2024
+- 🐻 [Vietjet khai trương đường bay thẳng Hà Nội - Hiroshima](https://vnexpress.net/vietjet-khai-truong-duong-bay-thang-ha-noi-hiroshima-4745121.html) - 09:00 12/05/2024
+- 💫 [Ngân hàng Nhà nước xác minh tài sản, thu nhập 58 cán bộ](https://vnexpress.net/ngan-hang-nha-nuoc-xac-minh-tai-san-thu-nhap-58-can-bo-4745118.html) - 08:57 12/05/2024
+- 🤩 [Chính phủ khoanh, xóa nợ thuế trên 38.700 tỷ đồng](https://vnexpress.net/khoanh-no-gan-30-000-ty-dong-cho-hang-tram-nghin-nguoi-nop-thue-4745098.html) - 08:03 12/05/2024
+- 💻 [Hòa Phát sắp tăng vốn lên gần 64.000 tỷ đồng](https://vnexpress.net/hoa-phat-sap-tang-von-len-gan-64-000-ty-dong-4745039.html) - 03:28 12/05/2024
+- ⚗️ [Nghịch lý càng đấu thầu giá vàng càng tăng](https://vnexpress.net/nghich-ly-gia-vang-tang-sau-dau-thau-4744902.html) - 17:40 11/05/2024
+- 🌈 [SK khởi công nhà máy sản xuất nhựa sinh học nửa tỷ USD](https://vnexpress.net/sk-khoi-cong-nha-may-san-xuat-nhua-sinh-hoc-nua-ty-usd-4744905.html) - 09:00 11/05/2024
+- 🌝 [Cục Hàng không: Các hãng bán vé máy bay đúng giá quy định](https://vnexpress.net/cuc-hang-khong-cac-hang-ban-ve-may-bay-dung-gia-quy-dinh-4744882.html) - 07:43 11/05/2024
+- 🥸 [Mỹ vượt Trung Quốc thành đối tác thương mại lớn nhất của Đức](https://vnexpress.net/my-vuot-trung-quoc-thanh-doi-tac-thuong-mai-lon-nhat-cua-duc-4744833.html) - 07:00 11/05/2024
+- 🦆 [Giá vàng miếng SJC mất hơn 1 triệu đồng mỗi lượng](https://vnexpress.net/gia-vang-mieng-sjc-mat-hon-1-trieu-dong-moi-luong-4744873.html) - 06:28 11/05/2024
+- 🌋 [Phó thủ tướng yêu cầu kiểm tra ngay thị trường vàng](https://vnexpress.net/pho-thu-tuong-yeu-cau-kiem-tra-ngay-thi-truong-vang-4744848.html) - 05:35 11/05/2024
+- 🦍 [Trồng gừng xuất khẩu châu Âu](https://vnexpress.net/trong-gung-xuat-khau-chau-au-4744322.html) - 05:00 11/05/2024
+- 🤔 [Giá vàng thế giới tiếp tục tăng](https://vnexpress.net/gia-vang-the-gioi-hom-nay-4744754.html) - 02:07 11/05/2024
+- 🧰 [Có nên mua vàng lúc này?](https://vnexpress.net/co-nen-mua-vang-vao-luc-nay-khong-4744687.html) - 00:39 11/05/2024
+- 🌝 [Lý do Hà Nội, TP HCM vẫn tụt hạng năng lực cạnh tranh cấp tỉnh](https://vnexpress.net/ly-do-ha-noi-tp-hcm-van-tut-hang-nang-luc-canh-tranh-cap-tinh-4744130.html) - 17:00 10/05/2024
+- 👍 [Tập đoàn Hàn Quốc muốn xây trung tâm dữ liệu lớn tại TP HCM](https://vnexpress.net/tap-doan-han-quoc-xay-trung-tam-du-lieu-lon-tai-tp-hcm-4744657.html) - 14:59 10/05/2024
+- 🗽 [Trung Quốc tăng mua vàng dự trữ 18 tháng liên tiếp](https://vnexpress.net/trung-quoc-tang-mua-vang-du-tru-18-thang-lien-tiep-4744504.html) - 09:22 10/05/2024
+- 🐎 [Vàng miếng &#39;cháy hàng&#39; khi giá tăng thẳng đứng](https://vnexpress.net/khan-vang-mieng-tren-dien-rong-4744498.html) - 08:16 10/05/2024
+- 🪄 [Lạm phát cộng dồn thời ông Biden lên gần 20%](https://vnexpress.net/lam-phat-cong-don-thoi-ong-biden-len-gan-20-4744453.html) - 07:36 10/05/2024
+- 🎊 [Chính phủ yêu cầu kiểm soát chặt giao dịch vàng](https://vnexpress.net/chinh-phu-yeu-cau-kiem-soat-chat-giao-dich-vang-4744451.html) - 05:51 10/05/2024
+- 🗽 [Bầu Đức: &#39;Tôi ám ảnh với lỗ lũy kế&#39;](https://vnexpress.net/bau-duc-toi-am-anh-voi-lo-luy-ke-4744432.html) - 05:42 10/05/2024
+- 🦩 [Vàng miếng SJC vượt 92 triệu đồng](https://vnexpress.net/gia-vang-mieng-sjc-vuot-90-trieu-dong-4744292.html) - 02:15 10/05/2024<!-- vnexpress-kinh-doanh:END -->
