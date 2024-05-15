@@ -17,7 +17,7 @@ sidebar_position: 12
 - 💯 [Giấu hàng trăm kg ma túy dưới sàn ôtô](https://video.vnexpress.net/giau-hang-tram-kg-ma-tuy-duoi-san-oto-4745557.html) - 03:37 14/05/2024
 - 🌏 [Tại sao ăn phở, uống cà phê cũng phải trả thuế VAT?](https://vnexpress.net/tai-sao-an-pho-uong-ca-phe-cung-phai-tra-thue-vat-4745178.html) - 22:00 13/05/2024
 - 🌊 [Vụ án nữ sinh cầu cứu cô giáo vì bị cha dượng xâm hại](https://vnexpress.net/vu-an-nu-sinh-cau-cuu-co-giao-vi-bi-cha-duong-xam-hai-4745610.html) - 17:00 13/05/2024
-- 💂 [Thủ đoạn tham nhũng của quan chức &#39;thăng tiến như tên lửa&#39;](https://vnexpress.net/thu-doan-tham-nhung-cua-quan-chuc-thang-tien-nhu-ten-lua-4745603.html) - 17:00 13/05/2024
+- 💂 [Chiêu tham nhũng của quan chức &#39;thăng tiến như tên lửa&#39;](https://vnexpress.net/thu-doan-tham-nhung-cua-quan-chuc-thang-tien-nhu-ten-lua-4745603.html) - 17:00 13/05/2024
 - 🎡 [Ông lão truy sát 3 người](https://vnexpress.net/ong-lao-truy-sat-3-nguoi-4745642.html) - 16:24 13/05/2024
 - 🫶 [Đường dây lô đề một ngày giao dịch 2 tỷ đồng](https://vnexpress.net/duong-day-lo-de-mot-ngay-giao-dich-2-ty-dong-4745587.html) - 10:27 13/05/2024
 - 🐲 [Sai phạm của Phó giám đốc Thành Bưởi trong vụ tai nạn 5 người chết](https://vnexpress.net/sai-pham-cua-pho-giam-doc-thanh-buoi-trong-vu-tai-nan-5-nguoi-chet-4745512.html) - 09:02 13/05/2024
