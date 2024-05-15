@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Trump - Biden đồng ý tranh luận trực tiếp vào tháng 6](https://vnexpress.net/trump-biden-dong-y-tranh-luan-truc-tiep-vao-thang-6-4746566.html) - 15:53 15/05/2024
+- 🎭 [Trump - Biden đồng ý tranh luận trực tiếp lần đầu vào tháng 6](https://vnexpress.net/trump-biden-dong-y-tranh-luan-truc-tiep-lan-dau-vao-thang-6-4746566.html) - 15:53 15/05/2024
 - 🕴 [Thủ tướng Slovakia nguy kịch sau khi bị bắn](https://vnexpress.net/thu-tuong-slovakia-nguy-kich-sau-khi-bi-ban-4746538.html) - 13:25 15/05/2024
 - 🤭 [Tân Thủ tướng Singapore tuyên thệ nhậm chức](https://vnexpress.net/tan-thu-tuong-singapore-tuyen-the-nham-chuc-4746527.html) - 12:53 15/05/2024
 - 🧑‍💻 [Chiến sự Gaza trong mắt người Israel](https://vnexpress.net/chien-su-gaza-trong-mat-nguoi-israel-4745676.html) - 12:00 15/05/2024
