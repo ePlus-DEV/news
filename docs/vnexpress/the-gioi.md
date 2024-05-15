@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Kỳ vọng của Tổng thống Putin từ chuyến thăm Trung Quốc](https://vnexpress.net/ky-vong-cua-tong-thong-putin-tu-chuyen-tham-trung-quoc-4746141.html) - 22:00 15/05/2024
 - 🕴 [Con đường luật sư thân tín quay lưng với Trump](https://vnexpress.net/con-duong-luat-su-than-tin-quay-lung-voi-trump-4745691.html) - 17:00 15/05/2024
-- 🤭 [Kẻ ám sát Thủ tướng Slovakia có thể là cựu cận vệ](https://vnexpress.net/ke-am-sat-thu-tuong-slovakia-co-the-la-cuu-can-ve-4746569.html) - 16:38 15/05/2024
+- 🤭 [Kẻ ám sát Thủ tướng Slovakia có thể là cựu nhân viên an ninh](https://vnexpress.net/ke-am-sat-thu-tuong-slovakia-co-the-la-cuu-nhan-vien-an-ninh-4746569.html) - 16:38 15/05/2024
 - 🧑‍💻 [Trump - Biden đồng ý tranh luận trực tiếp lần đầu vào tháng 6](https://vnexpress.net/trump-biden-dong-y-tranh-luan-truc-tiep-lan-dau-vao-thang-6-4746566.html) - 15:53 15/05/2024
 - 🦏 [Thủ tướng Slovakia nguy kịch sau khi bị bắn](https://vnexpress.net/thu-tuong-slovakia-nguy-kich-sau-khi-bi-ban-4746538.html) - 13:25 15/05/2024
 - 🦒 [Tân Thủ tướng Singapore tuyên thệ nhậm chức](https://vnexpress.net/tan-thu-tuong-singapore-tuyen-the-nham-chuc-4746527.html) - 12:53 15/05/2024
