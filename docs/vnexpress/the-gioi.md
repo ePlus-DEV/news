@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Thủ tướng Slovakia bị bắn](https://vnexpress.net/thu-tuong-slovakia-bi-ban-4746538.html) - 13:25 15/05/2024
+- 🎭 [Thủ tướng Slovakia nguy kịch sau khi bị bắn](https://vnexpress.net/thu-tuong-slovakia-nguy-kich-sau-khi-bi-ban-4746538.html) - 13:25 15/05/2024
 - 🕴 [Tân Thủ tướng Singapore tuyên thệ nhậm chức](https://vnexpress.net/tan-thu-tuong-singapore-tuyen-the-nham-chuc-4746527.html) - 12:53 15/05/2024
 - 🤭 [Chiến sự Gaza trong mắt người Israel](https://vnexpress.net/chien-su-gaza-trong-mat-nguoi-israel-4745676.html) - 12:00 15/05/2024
 - 🧑‍💻 [Ukraine bắt 6 người bị cáo buộc chỉ điểm cho Nga không kích](https://vnexpress.net/ukraine-bat-6-nguoi-bi-cao-buoc-chi-diem-cho-nga-khong-kich-4746510.html) - 11:22 15/05/2024
