@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [&#39;Sư Thích Minh Tuệ&#39; không phải tu sĩ](https://vnexpress.net/su-thich-minh-tue-khong-phai-tu-si-4747048.html) - 14:34 16/05/2024
+- 🦒 [&#39;Sư Thích Minh Tuệ không phải tu sĩ&#39;](https://vnexpress.net/su-thich-minh-tue-khong-phai-tu-si-4747048.html) - 14:34 16/05/2024
 - 🤓 [Kênh Nước Đen được dọn sạch rác](https://vnexpress.net/kenh-nuoc-den-duoc-don-sach-rac-4747004.html) - 11:11 16/05/2024
 - ⚗️ [Báo Nông thôn Ngày nay tròn 40 tuổi](https://vnexpress.net/bao-nong-thon-ngay-nay-tron-40-tuoi-4746993.html) - 10:44 16/05/2024
 - 🌊 [Trung ương giới thiệu nhân sự để bầu Chủ tịch nước, Chủ tịch Quốc hội](https://vnexpress.net/trung-uong-gioi-thieu-nhan-su-de-bau-chu-tich-nuoc-chu-tich-quoc-hoi-4746984.html) - 10:43 16/05/2024
