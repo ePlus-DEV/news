@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Trung Quốc khoe robot chó vũ trang trong diễn tập tại Cambodia](https://vnexpress.net/trung-quoc-khoe-robot-cho-vu-trang-trong-dien-tap-tai-cambodia-4746887.html) - 08:22 16/05/2024
+- 🎭 [Trung Quốc khoe robot chó vũ trang trong diễn tập tại Campuchia](https://vnexpress.net/trung-quoc-khoe-robot-cho-vu-trang-trong-dien-tap-tai-campuchia-4746887.html) - 08:22 16/05/2024
 - 🕴 [Tầm ảnh hưởng của Thủ tướng Slovakia trước khi bị ám sát hụt](https://vnexpress.net/tam-anh-huong-cua-thu-tuong-slovakia-truoc-khi-bi-am-sat-hut-4746577.html) - 08:04 16/05/2024
 - 🤭 [Bộ trưởng Israel phản đối Tel Aviv quản lý Gaza hậu xung đột](https://vnexpress.net/bo-truong-israel-phan-doi-tel-aviv-quan-ly-gaza-hau-xung-dot-4746800.html) - 07:35 16/05/2024
 - 🧑‍💻 [Đoàn tàu Philippines bỏ dở kế hoạch đến Scarborough](https://vnexpress.net/doan-tau-philippines-bo-do-ke-hoach-den-scarborough-4746673.html) - 07:20 16/05/2024
