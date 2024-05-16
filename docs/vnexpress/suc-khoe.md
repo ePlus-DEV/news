@@ -5,7 +5,7 @@ sidebar_position: 10
 
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [Trẻ ăn gì mỗi ngày để nhanh cao lớn?](https://vnexpress.net/tre-an-gi-moi-ngay-de-nhanh-cao-lon-4746722.html) - 09:00 16/05/2024
-- 🥰 [Bé trai mất chân trái do xe cán](https://vnexpress.net/be-trai-mat-chan-trai-do-xe-can-4745933.html) - 08:45 16/05/2024
+- 🥰 [Bé trai mất chân trái sau tai nạn giao thông](https://vnexpress.net/be-trai-mat-chan-trai-sau-tai-nan-giao-thong-4745933.html) - 08:45 16/05/2024
 - 💡 [Máy CT 1975 lát cắt giúp đánh giá nhanh đột quỵ trong 5 phút](https://vnexpress.net/may-ct-1975-lat-cat-giup-danh-gia-nhanh-dot-quy-trong-5-phut-4746884.html) - 08:00 16/05/2024
 - 🤗 [Nên cho trẻ ăn dặm kiểu Nhật hay truyền thống?](https://vnexpress.net/nen-cho-tre-an-dam-kieu-nhat-hay-truyen-thong-4746813.html) - 08:00 16/05/2024
 - 🪜 [5 bài tập giúp cân bằng huyết áp cho người ít vận động](https://vnexpress.net/5-bai-tap-giup-can-bang-huyet-ap-cho-nguoi-it-van-dong-4746770.html) - 08:00 16/05/2024
