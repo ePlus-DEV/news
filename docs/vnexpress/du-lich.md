@@ -6,7 +6,7 @@ sidebar_position: 11
 <!-- vnexpress-du-lich:START -->
 - 💂 [Báo Hàn ấn tượng với phố Quy Nhơn giữa lòng Seoul](https://vnexpress.net/bao-han-an-tuong-voi-pho-quy-nhon-giua-long-seoul-4746504.html) - 03:21 16/05/2024
 - 🪄 [Ba Na Hills đưa loạt show diễn quốc tế đến Đà Nẵng](https://vnexpress.net/ba-na-hills-dua-loat-show-dien-quoc-te-den-da-nang-4746384.html) - 02:30 16/05/2024
-- 🦅 [Kinh nghiệm để TP HCM &#39;hốt bạc&#39; từ du lịch mua sắm](https://vnexpress.net/kinh-nghiem-de-tp-hcm-hot-bac-tu-du-lich-mua-sam-4743455.html) - 00:00 16/05/2024
+- 🦅 [Hiến kế TP HCM &#39;hốt bạc&#39; từ du lịch mua sắm](https://vnexpress.net/hien-ke-tp-hcm-hot-bac-tu-du-lich-mua-sam-4743455.html) - 00:00 16/05/2024
 - 🕴 [5 khách sạn dành cho gia đình tốt nhất Việt Nam](https://vnexpress.net/5-khach-san-danh-cho-gia-dinh-tot-nhat-viet-nam-4746322.html) - 12:00 15/05/2024
 - 👀 [Suối trekking Cửa Tử bị vùi lấp nhiều đoạn vì mưa lớn](https://vnexpress.net/suoi-trekking-cua-tu-bi-vui-lap-nhieu-doan-vi-mua-lon-4746271.html) - 08:50 15/05/2024
 - 🎭 [Seoul phát hành thẻ giao thông trọn gói cho du khách](https://vnexpress.net/seoul-phat-hanh-the-giao-thong-tron-goi-cho-du-khach-4746206.html) - 04:46 15/05/2024
