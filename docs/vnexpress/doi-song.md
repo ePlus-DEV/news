@@ -6,7 +6,7 @@ sidebar_position: 6
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Nhiều gia đình Trung Quốc hết tiền nuôi con du học](https://vnexpress.net/nhieu-gia-dinh-trung-quoc-het-tien-nuoi-con-du-hoc-4746573.html) - 04:36 16/05/2024
 - 🎓 [5 quy tắc quan trọng khi cho trẻ đi bơi](https://vnexpress.net/5-quy-tac-quan-trong-khi-cho-tre-di-boi-4746642.html) - 01:54 16/05/2024
-- 🚦 [Nghề gõ sầu riêng](https://vnexpress.net/nghe-go-sau-rieng-4744608.html) - 23:30 15/05/2024
+- 🚦 [Nghề gõ sầu riêng kiếm gần 100 triệu đồng mỗi tháng](https://vnexpress.net/nghe-go-sau-rieng-kiem-gan-100-trieu-dong-moi-thang-4744608.html) - 23:30 15/05/2024
 - 🦣 [Những người đổi nghề muộn](https://vnexpress.net/nhung-nguoi-doi-nghe-muon-4746490.html) - 23:00 15/05/2024
 - 🎓 [Người phụ nữ 10 năm đỡ đẻ miễn phí cho dân bản](https://vnexpress.net/nguoi-phu-nu-10-nam-do-de-mien-phi-cho-dan-ban-4745156.html) - 17:00 15/05/2024
 - 🎭 [Công dụng ít người biết của dầu xả tóc](https://vnexpress.net/cong-dung-it-nguoi-biet-cua-dau-xa-toc-4746465.html) - 12:00 15/05/2024
