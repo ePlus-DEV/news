@@ -14,7 +14,7 @@ sidebar_position: 5
 - 🫣 [Mỹ nhân Hàn tận hưởng ngày hè ở Việt Nam](https://vnexpress.net/my-nhan-han-tan-huong-ngay-he-o-viet-nam-4746512.html) - 17:00 15/05/2024
 - 🪄 [Lily Collins diện váy áo của Đỗ Mạnh Cường](https://vnexpress.net/lily-collins-dien-vay-ao-cua-do-manh-cuong-4746559.html) - 15:12 15/05/2024
 - 🤓 [Vóc dáng &#39;gái một con&#39; Dương Mỹ Linh](https://vnexpress.net/voc-dang-gai-mot-con-duong-my-linh-4746190.html) - 14:00 15/05/2024
-- 🫶 [Cannes ngày đầu: &#39;Thiên thần nội y&#39; dự thảm đỏ bên dàn sao](https://vnexpress.net/cannes-ngay-dau-thien-than-noi-y-du-tham-do-ben-dan-sao-4746472.html) - 12:00 15/05/2024
+- 🫶 [Cannes ngày đầu: &#39;Thiên thần nội y&#39; dự thảm đỏ bên dàn sao](https://vnexpress.net/cannes-ngay-dau-thien-than-noi-y-du-tham-do-ben-dan-sao-vnepre-4746472.html) - 12:00 15/05/2024
 - 🧑‍🏫 [Dàn sao tham gia concert miễn phí cho sinh viên](https://vnexpress.net/dan-sao-tham-gia-concert-mien-phi-cho-sinh-vien-4746123.html) - 11:38 15/05/2024
 - 🦄 [Chuyện đời nhà văn chuyển giới người Pháp](https://vnexpress.net/chuyen-doi-nha-van-chuyen-gioi-nguoi-phap-4746207.html) - 10:15 15/05/2024
 - 💫 [Ngọc Châu, Xuân Hạnh diễn áo dài ở Australia](https://vnexpress.net/ngoc-chau-xuan-hanh-dien-ao-dai-o-australia-4746313.html) - 08:00 15/05/2024
