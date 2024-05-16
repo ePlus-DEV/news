@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Thử thách phát âm 10 từ tiếng Anh thông dụng](https://vnexpress.net/thu-thach-phat-am-10-tu-tieng-anh-thong-dung-4745807.html) - 02:00 16/05/2024
-- 🦆 [Ngôi trường lấy cảm hứng từ phim Harry Potter](https://vnexpress.net/ngoi-truong-lay-cam-hung-tu-phim-harry-potter-4744390.html) - 23:52 15/05/2024
+- 🦆 [Trường ở Hà Nội lấy cảm hứng từ phim Harry Potter](https://vnexpress.net/truong-o-ha-noi-lay-cam-hung-tu-phim-harry-potter-4744390.html) - 23:52 15/05/2024
 - 🦩 [Phụ huynh tố trường không cho con thi lớp 10](https://vnexpress.net/phu-huynh-to-truong-khong-cho-con-thi-lop-10-4746519.html) - 13:43 15/05/2024
 - 🌮 [Apollo English nhận hai kỷ lục cho lễ vinh danh Cambridge](https://vnexpress.net/apollo-english-nhan-hai-ky-luc-cho-le-vinh-danh-cambridge-4745530.html) - 13:00 15/05/2024
 - 🔭 [Hà Nội rộng thứ mấy ở Đồng bằng sông Hồng?](https://vnexpress.net/ha-noi-rong-thu-may-o-dong-bang-song-hong-4746470.html) - 12:59 15/05/2024
