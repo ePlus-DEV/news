@@ -51,6 +51,4 @@ sidebar_position: 9
 - 👺 [Phát hiện ung thư tuyến giáp từ khối u cứng vùng cổ](https://vnexpress.net/phat-hien-ung-thu-tuyen-giap-tu-khoi-u-cung-vung-co-4746560.html) - 01:00 16/05/2024
 - 🎡 [Cách nào tiết kiệm điện mùa hè?](https://vnexpress.net/cach-nao-tiet-kiem-dien-mua-he-4746539.html) - 01:00 16/05/2024
 - 👍 [Gần 200 doanh nghiệp xuất nhập khẩu dự sự kiện VietinBank](https://vnexpress.net/gan-200-doanh-nghiep-xuat-nhap-khau-du-su-kien-vietinbank-4746479.html) - 01:00 16/05/2024
-- 🐎 [4 lợi ích của cà phê với tuổi thọ](https://vnexpress.net/4-loi-ich-cua-ca-phe-voi-tuoi-tho-4746433.html) - 01:00 16/05/2024
-- 🏊 [Nang ở gan có nguy hiểm không?](https://vnexpress.net/nang-o-gan-co-nguy-hiem-khong-4746292.html) - 01:00 16/05/2024
-- 🦩 [Tera Star - xe tải nhẹ 1 tấn mới của Daehan Motors](https://vnexpress.net/tera-star-xe-tai-nhe-1-tan-moi-cua-daehan-motors-4745892.html) - 01:00 16/05/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🐎 [4 lợi ích của cà phê với tuổi thọ](https://vnexpress.net/4-loi-ich-cua-ca-phe-voi-tuoi-tho-4746433.html) - 01:00 16/05/2024<!-- vnexpress-tin-moi-nhat:END -->
