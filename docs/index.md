@@ -264,7 +264,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤗 [HLV Trần Tiến Đại nói gì về thông tin ông Polking sẽ dẫn dắt CLB CAHN?](https://nld.com.vn/hlv-tran-tien-dai-noi-gi-ve-thong-tin-ong-polking-se-dan-dat-clb-cahn-19624051720343741.htm) - 13:50 17/05/2024
 - 🦅 [Tổng thống Putin nói rõ ý định của Nga ở Kharkiv](https://nld.com.vn/tong-thong-putin-noi-ro-y-dinh-cua-nga-o-kharkiv-196240517202505796.htm) - 13:37 17/05/2024
 - 🤩 [Dùng dao phay sát hại đồng nghiệp](https://nld.com.vn/dung-dao-phay-sat-hai-dong-nghiep-196240517195519196.htm) - 13:23 17/05/2024
-- 🎭 [Người cha kể về thời thơ ấu của &quot;sư Thích Minh Tuệ&quot;](https://nld.com.vn/nguoi-cha-ke-ve-thoi-tho-au-cua-su-thich-minh-tue-196240517194824311.htm) - 13:02 17/05/2024
+- 🎭 [Người cha kể về thuở nhỏ của &quot;sư Thích Minh Tuệ&quot;](https://nld.com.vn/nguoi-cha-ke-ve-thoi-tho-au-cua-su-thich-minh-tue-196240517194824311.htm) - 13:02 17/05/2024
 - 💄 [TP Thủ Đức còn dôi dư 19 lãnh đạo cấp phó](https://nld.com.vn/tp-thu-duc-con-doi-du-19-lanh-dao-cap-pho-196240517193435714.htm) - 12:58 17/05/2024
 - 🎊 [TP HCM tiếp nhận 2 cuốn sách đặc biệt về Bác Hồ](https://nld.com.vn/tp-hcm-tiep-nhan-2-cuon-sach-dac-biet-ve-bac-ho-196240517190709815.htm) - 12:38 17/05/2024
 - 🎡 [Hội nghị về công nghệ và sở hữu trí tuệ tại Trường ĐH Cửu Long](https://nld.com.vn/hoi-nghi-ve-cong-nghe-va-so-huu-tri-tue-tai-truong-dh-cuu-long-196240517190403645.htm) - 12:32 17/05/2024
