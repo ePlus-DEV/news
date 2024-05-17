@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Trường THCS-THPT Trần Đại Nghĩa tuyển 350 học sinh lớp 6](https://vnexpress.net/truong-thcs-thpt-tran-dai-nghia-tuyen-350-hoc-sinh-lop-6-4747229.html) - 04:07 17/05/2024
-- 🦆 [Thủ tướng yêu cầu sớm có phương án cho học sinh trượt tốt nghiệp 2024](https://vnexpress.net/thu-tuong-yeu-cau-som-co-phuong-an-cho-hoc-sinh-truot-tot-nghiep-2024-4747185.html) - 03:38 17/05/2024
+- 🦆 [Thủ tướng yêu cầu sớm có phương án với học sinh trượt tốt nghiệp 2024](https://vnexpress.net/thu-tuong-yeu-cau-som-co-phuong-an-voi-hoc-sinh-truot-tot-nghiep-2024-4747185.html) - 03:38 17/05/2024
 - 🦩 [Cô giáo cho 6 học sinh đánh bạn trước lớp bị đình chỉ dạy](https://vnexpress.net/co-giao-cho-6-hoc-sinh-danh-ban-truoc-lop-bi-dinh-chi-day-4747167.html) - 03:05 17/05/2024
 - 🌮 [Hàng trăm điều dưỡng nhận tài trợ 100% chi phí sang Đức](https://vnexpress.net/hang-tram-dieu-duong-nhan-tai-tro-100-chi-phi-sang-duc-4746302.html) - 01:00 17/05/2024
 - 🔭 [Học ngành Điện tử viễn thông ra trường làm gì, lương bao nhiêu?](https://vnexpress.net/hoc-nganh-dien-tu-vien-thong-ra-truong-lam-gi-luong-bao-nhieu-4745448.html) - 00:51 17/05/2024
