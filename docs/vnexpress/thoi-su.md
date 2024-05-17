@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cháy nhà, nhiều người trèo lên mái chờ giải cứu](https://vnexpress.net/chay-nha-nhieu-nguoi-treo-len-mai-cho-giai-cuu-4747517.html) - 16:38 17/05/2024
+- 🦒 [Cháy nhà 4 tầng, nhiều người trèo lên mái nhà chờ giải cứu](https://vnexpress.net/chay-nha-4-tang-nhieu-nguoi-treo-len-mai-nha-cho-giai-cuu-4747517.html) - 16:38 17/05/2024
 - 🤓 [Hà Nội yêu cầu khắc phục tình trạng ứ nước trên cầu Vĩnh Tuy 2](https://vnexpress.net/ha-noi-yeu-cau-khac-phuc-tinh-trang-u-nuoc-tren-cau-vinh-tuy-2-4747496.html) - 16:12 17/05/2024
 - ⚗️ [Khu du lịch sinh thái vi phạm hành lang bảo vệ cầu đường sắt](https://vnexpress.net/khu-du-lich-sinh-thai-vi-pham-hanh-lang-bao-ve-cau-duong-sat-4747390.html) - 15:52 17/05/2024
 - 🌊 [Đường Trường Sơn - &#39;bát quái trận xuyên rừng&#39; đánh Mỹ](https://vnexpress.net/duong-truong-son-bat-quai-tran-xuyen-rung-danh-my-4747467.html) - 15:11 17/05/2024
