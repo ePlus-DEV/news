@@ -253,7 +253,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [&quot;Sư Thích Minh Tuệ&quot; nói gì về văn bản của Hội đồng Trị sự Giáo hội Phật giáo Việt Nam ?](https://nld.com.vn/su-thich-minh-tue-noi-gi-ve-van-ban-cua-hoi-dong-tri-su-giao-hoi-phat-giao-viet-nam-19624051722184127.htm) - 15:24 17/05/2024
+- 🐎 [&quot;Sư Thích Minh Tuệ&quot; nói gì về văn bản của Hội đồng Trị sự Giáo hội Phật giáo?](https://nld.com.vn/su-thich-minh-tue-noi-gi-ve-van-ban-cua-hoi-dong-tri-su-giao-hoi-phat-giao-viet-nam-19624051722184127.htm) - 15:24 17/05/2024
 - 😺 [Tuấn Hải, Văn Quyết lập công, Hà Nội FC thắng gọn LPBank HAGL](https://nld.com.vn/tuan-hai-van-quyet-lap-cong-ha-noi-fc-thang-gon-lpbank-hagl-196240517221112331.htm) - 15:11 17/05/2024
 - 👍 [“Ho Chi Minh City Night Run Eximbank 2024” chính thức khai mạc](https://thitruong.nld.com.vn/ho-chi-minh-city-night-run-eximbank-2024-chinh-thuc-khai-mac-196240517220045856.htm) - 15:10 17/05/2024
 - 🥷 [HLV Kim Sang-sik dự khán, Filip Nguyễn liên tục mắc lỗi](https://nld.com.vn/hlv-kim-sang-sik-du-khan-filip-nguyen-lien-tuc-mac-loi-196240517214904632.htm) - 14:50 17/05/2024
