@@ -5,7 +5,7 @@ sidebar_position: 6
 
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Hoa bằng lăng thành món ăn gây &#39;sốt&#39; mạng](https://vnexpress.net/hoa-bang-lang-thanh-mon-an-gay-sot-mang-4746894.html) - 03:26 17/05/2024
-- 🎓 [Người yêu bỗng dưng &#39;bốc hơi&#39;](https://vnexpress.net/nguoi-yeu-bong-dung-boc-hoi-4746547.html) - 23:30 16/05/2024
+- 🎓 [&#39;Bị ghost&#39; khi yêu](https://vnexpress.net/bi-ghost-khi-yeu-4746547.html) - 23:30 16/05/2024
 - 🚦 [7 con rể luân phiên vào viện chăm bố vợ ốm](https://vnexpress.net/7-con-re-luan-phien-vao-vien-cham-bo-vo-om-4747045.html) - 23:00 16/05/2024
 - 🦣 [7 thói quen tiết kiệm của nữ triệu phú 39 tuổi](https://vnexpress.net/7-thoi-quen-tiet-kiem-cua-nu-trieu-phu-39-tuoi-4746969.html) - 12:00 16/05/2024
 - 🎓 [Lòng thuôn hành răm kiểu Hà Nội cũ](https://vnexpress.net/long-thuon-hanh-ram-kieu-ha-noi-cu-4746397.html) - 11:00 16/05/2024
