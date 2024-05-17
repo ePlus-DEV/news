@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [VEPR: Không cần nhập vàng ồ ạt để giảm chênh lệch giá](https://vnexpress.net/vepr-khong-can-nhap-vang-o-at-de-giam-chenh-lech-gia-4747303.html) - 06:45 17/05/2024
+- ⛽️ [VEPR: Không cần nhập vàng ồ ạt để giảm chênh lệch giá](https://vnexpress.net/vepr-khong-can-nhap-vang-o-at-de-tri-chenh-lech-gia-4747303.html) - 06:45 17/05/2024
 - 🐲 [EVNHCMC tiếp tục vận động khách hàng sử dụng điện tiết kiệm](https://vnexpress.net/evnhcmc-tiep-tuc-van-dong-khach-hang-su-dung-dien-tiet-kiem-4746979.html) - 03:00 17/05/2024
 - 🔥 [Giá vé máy bay cao điểm hè hạ nhiệt](https://vnexpress.net/ve-may-bay-ha-nhiet-4746928.html) - 21:00 16/05/2024
 - 🐵 [Hơn 300 dự án đầu tư công chưa tiêu được đồng nào](https://vnexpress.net/hon-300-du-an-o-50-dia-phuong-co-ty-le-giai-ngan-von-cong-0-4747076.html) - 17:09 16/05/2024
