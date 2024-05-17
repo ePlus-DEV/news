@@ -10,7 +10,7 @@ sidebar_position: 5
 - 🧠 [Phim của đạo diễn &#39;Bố già&#39; gây chú ý ở Cannes](https://vnexpress.net/phim-cua-dao-dien-bo-gia-gay-chu-y-o-cannes-4747138.html) - 03:22 17/05/2024
 - 👨‍🏫 [Mỹ nhân Hoa ngữ gợi cảm trên thảm đỏ Cannes](https://vnexpress.net/my-nhan-hoa-ngu-goi-cam-tren-tham-do-cannes-4747151.html) - 02:54 17/05/2024
 - ⚗️ [LHP Cannes 2024 nỗ lực tôn vinh nữ nghệ sĩ](https://vnexpress.net/lhp-cannes-2024-no-luc-ton-vinh-nu-nghe-si-4746366.html) - 02:39 17/05/2024
-- 😎 [&#39;Hoa hậu đẹp nhất thế giới&#39; diện váy bướm trên thảm đỏ Cannes](https://vnexpress.net/hoa-hau-dep-nhat-the-gioi-dien-vay-buom-tren-tham-do-cannes-4747092.html) - 02:28 17/05/2024
+- 😎 [&#39;Hoa hậu đẹp nhất thế giới&#39; diện váy dài quét sàn ở Cannes](https://vnexpress.net/hoa-hau-dep-nhat-the-gioi-dien-vay-dai-quet-san-o-cannes-4747092.html) - 02:28 17/05/2024
 - 🫣 [Hà Kiều Anh đón tuổi 48](https://vnexpress.net/ha-kieu-anh-don-tuoi-48-4746754.html) - 01:41 17/05/2024
 - 🪄 [Hoa hậu Thanh Thủy: &#39;Tôi phấn đấu mua nhà báo hiếu bố mẹ&#39;](https://vnexpress.net/hoa-hau-thanh-thuy-toi-phan-dau-mua-nha-bao-hieu-bo-me-4745872.html) - 17:00 16/05/2024
 - 🤓 [8 người đẹp tái hiện phong cách giai nhân xưa](https://vnexpress.net/8-nguoi-dep-tai-hien-phong-cach-giai-nhan-xua-4746773.html) - 13:00 16/05/2024
