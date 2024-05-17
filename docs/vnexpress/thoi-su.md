@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [4 dự án nghìn tỷ &#39;giải cứu&#39; kẹt xe khu đông TP HCM](https://vnexpress.net/4-du-an-nghin-ty-giai-cuu-ket-xe-khu-dong-tp-hcm-4746862.html) - 23:00 16/05/2024
 - ⚗️ [Bộ Tài nguyên và Môi trường lý giải vì sao đề xuất thay mẫu sổ đỏ](https://vnexpress.net/bo-tai-nguyen-va-moi-truong-ly-giai-vi-sao-de-xuat-thay-mau-so-do-4747039.html) - 21:00 16/05/2024
 - 🌊 [Công viên phần mềm Đà Nẵng chờ ngày hoạt động](https://vnexpress.net/cong-vien-phan-mem-da-nang-cho-ngay-hoat-dong-4746707.html) - 17:00 16/05/2024
-- 🎓 [&#39;Sư Thích Minh Tuệ không phải tu sĩ&#39;](https://vnexpress.net/su-thich-minh-tue-khong-phai-tu-si-4747048.html) - 14:34 16/05/2024
+- 🎓 [Ông Thích Minh Tuệ &#39;không phải tu sĩ Phật giáo&#39;](https://vnexpress.net/ong-thich-minh-tue-khong-phai-tu-si-phat-giao-4747048.html) - 14:34 16/05/2024
 - 🔥 [Kênh Nước Đen được dọn sạch rác](https://vnexpress.net/kenh-nuoc-den-duoc-don-sach-rac-4747004.html) - 11:11 16/05/2024
 - 🦏 [Báo Nông thôn Ngày nay tròn 40 tuổi](https://vnexpress.net/bao-nong-thon-ngay-nay-tron-40-tuoi-4746993.html) - 10:44 16/05/2024
 - 👺 [Trung ương giới thiệu nhân sự để bầu Chủ tịch nước, Chủ tịch Quốc hội](https://vnexpress.net/trung-uong-gioi-thieu-nhan-su-de-bau-chu-tich-nuoc-chu-tich-quoc-hoi-4746984.html) - 10:43 16/05/2024
