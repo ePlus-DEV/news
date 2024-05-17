@@ -5,8 +5,8 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Giá vé máy bay cao điểm hè hạ nhiệt](https://vnexpress.net/ve-may-bay-ha-nhiet-4746928.html) - 21:00 16/05/2024
-- 🐲 [Hơn 300 dự án ở 48 địa phương chưa giải ngân vốn đầu tư công](https://vnexpress.net/hon-300-du-an-o-48-dia-phuong-chua-giai-ngan-von-dau-tu-cong-4747076.html) - 17:09 16/05/2024
-- 🔥 [Rút giấy phép cửa hàng vàng không kết nối với thuế trước 15/6](https://vnexpress.net/rut-giay-phep-cua-hang-vang-khong-ket-noi-voi-thue-truoc-15-6-4747068.html) - 15:27 16/05/2024
+- 🐲 [Hơn 300 dự án đầu tư công chưa tiêu được đồng nào](https://vnexpress.net/hon-300-du-an-o-50-dia-phuong-co-ty-le-giai-ngan-von-cong-0-4747076.html) - 17:09 16/05/2024
+- 🔥 [Rút giấy phép cửa hàng vàng không có hóa đơn điện tử](https://vnexpress.net/rut-giay-phep-cua-hang-vang-khong-ket-noi-voi-thue-truoc-15-6-4747068.html) - 15:27 16/05/2024
 - 🐵 [Pandora xây nhà máy ở Việt Nam](https://vnexpress.net/pandora-xay-nha-may-lon-nhat-the-gioi-o-viet-nam-4747036.html) - 13:47 16/05/2024
 - 🦅 [Doanh nghiệp khó tiếp cận nguồn vốn xanh](https://vnexpress.net/doanh-nghiep-kho-tiep-can-nguon-von-xanh-4746960.html) - 13:26 16/05/2024
 - 😺 [TP HCM chi 650 tỷ đồng làm điện mặt trời ở trụ sở công](https://vnexpress.net/tp-hcm-lap-dien-mat-troi-mai-nha-o-tru-so-cong-4747035.html) - 12:55 16/05/2024
