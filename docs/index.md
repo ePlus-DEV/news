@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [4 người dàn xe sang giữa đường chụp ảnh cưới bị khởi tố vụ](https://vnexpress.net/4-nguoi-dan-xe-sang-giua-duong-chup-anh-cuoi-bi-khoi-to-vu-4747781.html) - 16:10 18/05/2024
+- 🚀 [4 người dàn xe sang giữa đường chụp ảnh cưới bị khởi tố](https://vnexpress.net/4-nguoi-dan-xe-sang-giua-duong-chup-anh-cuoi-bi-khoi-to-4747781.html) - 16:10 18/05/2024
 - 🧰 [Leverkusen bất bại trọn mùa giải Bundesliga](https://vnexpress.net/leverkusen-bat-bai-tron-mua-giai-bundesliga-4747779.html) - 16:03 18/05/2024
 - 🥰 [Bệnh viện K bố trí công việc cho nữ bác sĩ bị tấm kính đổ vào người](https://vnexpress.net/benh-vien-k-bo-tri-cong-viec-cho-nu-bac-si-bi-tam-kinh-do-vao-nguoi-4747786.html) - 15:56 18/05/2024
 - 🌏 [Philippines thay chỉ huy &#39;bị ghi âm thỏa hiệp&#39; về Biển Đông](https://vnexpress.net/philippines-thay-chi-huy-bi-ghi-am-thoa-hiep-ve-bien-dong-4747784.html) - 15:47 18/05/2024
