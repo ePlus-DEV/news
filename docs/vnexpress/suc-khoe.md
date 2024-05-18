@@ -5,7 +5,7 @@ sidebar_position: 10
 
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [Trẻ hẹp bao quy đầu bị biến chứng do nắng nóng](https://vnexpress.net/tre-hep-bao-quy-dau-bi-bien-chung-do-nang-nong-4747672.html) - 09:00 18/05/2024
-- 🥰 [Suy buồng trứng sau 10 năm ăn kiêng](https://vnexpress.net/suy-buong-trung-sau-10-nam-an-kieng-4747628.html) - 08:19 18/05/2024
+- 🥰 [Suy chức năng buồng trứng sau 10 năm ăn kiêng](https://vnexpress.net/suy-chuc-nang-buong-trung-sau-10-nam-an-kieng-4747628.html) - 08:19 18/05/2024
 - 💡 [Ứng dụng trí tuệ nhân tạo chẩn đoán loãng xương](https://vnexpress.net/ung-dung-tri-tue-nhan-tao-chan-doan-loang-xuong-4747702.html) - 08:00 18/05/2024
 - 🤗 [Ăn gì khiến cholesterol tăng theo thời gian?](https://vnexpress.net/an-gi-khien-cholesterol-tang-theo-thoi-gian-4747663.html) - 08:00 18/05/2024
 - 🪜 [5 dấu hiệu cảnh báo đột quỵ tim](https://vnexpress.net/5-dau-hieu-canh-bao-dot-quy-tim-4747670.html) - 07:00 18/05/2024
