@@ -252,7 +252,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥷 [Nhiếp ảnh gia Thái Nhàn với dự án “BONJOUR PARIS”](https://phunu.nld.com.vn/nhiep-anh-gia-thai-nhan-voi-du-an-bonjour-paris-196240517161545155.htm) - 02:55 18/05/2024
 - 🤔 [Bình Định công bố chuỗi sự kiện đặc sắc trong mùa cao điểm du lịch](https://nld.com.vn/binh-dinh-cong-bo-chuoi-su-kien-dac-sac-trong-mua-cao-diem-du-lich-196240518075841798.htm) - 02:46 18/05/2024
 - 🌈 [Giá vàng trong nước theo đà đi lên của thế giới](https://nld.com.vn/gia-vang-trong-nuoc-theo-da-di-len-cua-the-gioi-196240518092512594.htm) - 02:42 18/05/2024
-- 🔥 [Toàn cảnh vụ dự án “ma” khiến nhiều cán bộ dính chàm ở Phú Quốc](https://nld.com.vn/toan-canh-vu-du-an-ma-khien-nhieu-can-bo-dinh-cham-o-phu-quoc-196240517184903991.htm) - 02:24 18/05/2024
+- 🔥 [Toàn cảnh vụ dự án “ma” khiến nhiều cán bộ &quot;dính chàm&quot; ở Phú Quốc](https://nld.com.vn/toan-canh-vu-du-an-ma-khien-nhieu-can-bo-dinh-cham-o-phu-quoc-196240517184903991.htm) - 02:24 18/05/2024
 - 🧰 [Nhan sắc của em gái Hoa hậu Jennifer Phạm](https://nld.com.vn/nhan-sac-cua-em-gai-hoa-hau-jennifer-pham-196240518074350221.htm) - 02:11 18/05/2024
 - 🤗 [Tối nay, cấm xe nhiều tuyến đường khu trung tâm TP HCM](https://nld.com.vn/toi-nay-cam-xe-nhieu-tuyen-duong-khu-trung-tam-tp-hcm-196240518083603933.htm) - 02:08 18/05/2024
 - 🦅 [Ukraine đang chuẩn bị cho “trận chiến khốc liệt”](https://nld.com.vn/ukraine-dang-chuan-bi-cho-tran-chien-khoc-liet-19624051808364418.htm) - 02:00 18/05/2024
