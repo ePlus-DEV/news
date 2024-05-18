@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [4 người dàn xe sang giữa đường chụp ảnh cưới bị khởi tố vụ](https://vnexpress.net/4-nguoi-dan-xe-sang-giua-duong-chup-anh-cuoi-bi-khoi-to-vu-4747781.html) - 16:10 18/05/2024
+- 😎 [4 người dàn xe sang giữa đường chụp ảnh cưới bị khởi tố](https://vnexpress.net/4-nguoi-dan-xe-sang-giua-duong-chup-anh-cuoi-bi-khoi-to-4747781.html) - 16:10 18/05/2024
 - 🥰 [Chủ dự án bất động sản ở Cần Thơ bị bắt](https://vnexpress.net/chu-du-an-bat-dong-san-o-can-tho-bi-bat-4747711.html) - 08:52 18/05/2024
 - 🎓 [Đâm chết người khi nghe vợ kể bị dọa đánh](https://vnexpress.net/dam-chet-nguoi-khi-nghe-vo-ke-bi-doa-danh-4747593.html) - 05:25 18/05/2024
 - 🤓 [Cán bộ y tế bị bắt sau khi 3 học viên cai nghiện tử vong](https://vnexpress.net/can-bo-y-te-bi-bat-sau-khi-3-hoc-vien-cai-nghien-tu-vong-4747661.html) - 04:44 18/05/2024
