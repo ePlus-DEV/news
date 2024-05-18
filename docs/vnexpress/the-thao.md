@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Zverev bứt phá trước Roland Garros](https://vnexpress.net/zverev-but-pha-truoc-roland-garros-4747598.html) - 03:23 18/05/2024
 - 🦩 [Usyk nhẹ hơn Tyson Fury gần 20 kg](https://vnexpress.net/usyk-nhe-hon-tyson-fury-gan-20-kg-4747591.html) - 03:09 18/05/2024
 - 🧰 [Mike Tyson tức giận khi bị gọi là &#39;mánh lới quảng cáo&#39;](https://vnexpress.net/mike-tyson-tuc-gian-khi-bi-goi-la-manh-loi-quang-cao-4747580.html) - 02:07 18/05/2024
-- 🤗 [HLV Vũ Tiến Thành chỉ trích đối thủ và trọng tài khi HAGL thua](https://vnexpress.net/hlv-vu-tien-thanh-chi-trich-doi-thu-va-trong-tai-khi-hagl-thua-4747555.html) - 01:04 18/05/2024
+- 🤗 [HLV Vũ Tiến Thành chỉ trích trọng tài và cầu thủ Hà Nội FC](https://vnexpress.net/hlv-vu-tien-thanh-chi-trich-trong-tai-va-cau-thu-ha-noi-fc-4747555.html) - 01:04 18/05/2024
 - 🥳 [HLV Slot xác nhận dẫn Liverpool thay Klopp](https://vnexpress.net/hlv-slot-xac-nhan-dan-liverpool-thay-klopp-4747526.html) - 00:53 18/05/2024
 - 🦣 [Ronaldo bỏ lỡ khó tin ở Saudi Pro League](https://vnexpress.net/ronaldo-bo-lo-kho-tin-o-saudi-pro-league-4747532.html) - 00:41 18/05/2024
 - 🌜 [Arteta: &#39;West Ham có thể giúp Arsenal hoàn thành giấc mơ&#39;](https://vnexpress.net/arteta-west-ham-co-the-giup-arsenal-hoan-thanh-giac-mo-4747512.html) - 21:00 17/05/2024
