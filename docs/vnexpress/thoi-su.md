@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hai học sinh lớp 9 mất tích khi tắm biển](https://vnexpress.net/hai-hoc-sinh-lop-9-mat-tich-khi-tam-bien-4747774.html) - 15:05 18/05/2024
+- 🦒 [Ba học sinh mất tích khi tắm biển](https://vnexpress.net/ba-hoc-sinh-mat-tich-khi-tam-bien-4747774.html) - 15:05 18/05/2024
 - 🤓 [Khu du lịch nghỉ dưỡng bỏ hoang trên đảo Cát Bà](https://vnexpress.net/khu-du-lich-nghi-duong-bo-hoang-tren-dao-cat-ba-4746544.html) - 12:03 18/05/2024
 - ⚗️ [Hai người chết sau tai nạn liên hoàn](https://vnexpress.net/hai-nguoi-chet-sau-tai-nan-lien-hoan-4747737.html) - 10:42 18/05/2024
 - 🌊 [Đại tướng Tô Lâm, ông Trần Thanh Mẫn được giới thiệu để bầu Chủ tịch nước, Chủ tịch Quốc hội](https://vnexpress.net/dai-tuong-to-lam-ong-tran-thanh-man-duoc-gioi-thieu-de-bau-chu-tich-nuoc-chu-tich-quoc-hoi-4745478.html) - 09:56 18/05/2024
