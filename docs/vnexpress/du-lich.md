@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Xác lập kỷ lục tại Lễ hội bánh mì Việt Nam](https://vnexpress.net/xac-lap-ky-luc-tai-le-hoi-banh-mi-viet-nam-4747519.html) - 01:50 18/05/2024
+- 💂 [Lần đầu trao kỷ lục cho bánh mì Việt Nam](https://vnexpress.net/lan-dau-trao-ky-luc-cho-banh-mi-viet-nam-4747519.html) - 01:50 18/05/2024
 - 🪄 [Hàng nghìn người tham gia đêm Lễ hội Bánh mì TP HCM](https://vnexpress.net/hang-nghin-nguoi-tham-gia-dem-le-hoi-banh-mi-tp-hcm-4747508.html) - 01:14 18/05/2024
 - 🦅 [48 giờ ở làng du lịch Việt Nam tốt nhất thế giới](https://vnexpress.net/48-gio-o-lang-du-lich-viet-nam-tot-nhat-the-gioi-4743889.html) - 17:09 17/05/2024
 - 🕴 [Phố ẩm thực sen hút khách ở Đồng Tháp](https://vnexpress.net/pho-am-thuc-sen-hut-khach-o-dong-thap-4747071.html) - 12:00 17/05/2024
