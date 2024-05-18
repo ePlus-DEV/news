@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Cô gái mù học song bằng ở đại học](https://vnexpress.net/co-gai-mu-hoc-song-bang-o-dai-hoc-4746457.html) - 23:00 17/05/2024
+- 🤓 [Cô gái mù học song bằng đại học](https://vnexpress.net/co-gai-mu-hoc-song-bang-dai-hoc-4746457.html) - 23:00 17/05/2024
 - 🦆 [Trạng Bùng là ai?](https://vnexpress.net/trang-bung-la-ai-4747422.html) - 13:27 17/05/2024
 - 🦩 [Đề xuất cấp chứng chỉ hành nghề để phân biệt &#39;giáo viên tự xưng&#39;](https://vnexpress.net/de-xuat-cap-chung-chi-hanh-nghe-de-phan-biet-giao-vien-tu-xung-4747384.html) - 10:27 17/05/2024
 - 🌮 [Học sinh được chọn giảng viên khi học trước tín chỉ đại học](https://vnexpress.net/hoc-sinh-duoc-chon-giang-vien-khi-hoc-truoc-tin-chi-dai-hoc-4747308.html) - 09:31 17/05/2024
