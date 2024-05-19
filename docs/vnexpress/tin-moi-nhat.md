@@ -23,7 +23,7 @@ sidebar_position: 9
 - 🐲 [Châu Nhuận Phát đón tuổi 69](https://vnexpress.net/chau-nhuan-phat-don-tuoi-69-4747915.html) - 08:50 19/05/2024
 - 🤓 [Singapore đối mặt với làn sóng Covid-19 mới](https://vnexpress.net/singapore-doi-mat-voi-lan-song-covid-19-moi-4747934.html) - 08:35 19/05/2024
 - 💪 [Sai lầm &#39;đốt ví&#39; khi đi siêu thị](https://vnexpress.net/sai-lam-dot-vi-khi-di-sieu-thi-4747355.html) - 08:30 19/05/2024
-- 🎓 [Thanh niên lao xe vào cảnh sát bị buộc tội Giết người](https://vnexpress.net/thanh-nien-lao-xe-vao-canh-sat-bi-buoc-toi-giet-nguoi-4747920.html) - 08:19 19/05/2024
+- 🎓 [Thanh niên lao xe vào cảnh sát ở TP HCM bị buộc tội Giết người](https://vnexpress.net/thanh-nien-lao-xe-vao-canh-sat-o-tp-hcm-bi-buoc-toi-giet-nguoi-4747920.html) - 08:19 19/05/2024
 - 🫣 [Thành phố Việt Nam nào tổ chức Lễ hội Pháo hoa quốc tế?](https://vnexpress.net/thanh-pho-viet-nam-nao-to-chuc-le-hoi-phao-hoa-quoc-te-4747783.html) - 08:13 19/05/2024
 - 🧑‍💻 [TP HCM chi 350 tỷ đồng xoá các &#39;điểm đen&#39; giao thông](https://vnexpress.net/tp-hcm-chi-350-ty-dong-xoa-cac-diem-den-giao-thong-4747928.html) - 08:04 19/05/2024
 - 🐲 [Mong gặp được bạn gái đồng điệu, biết lắng nghe và hiểu nhau](https://vnexpress.net/mong-gap-duoc-ban-gai-dong-dieu-biet-lang-nghe-va-hieu-nhau-4747826.html) - 08:00 19/05/2024
