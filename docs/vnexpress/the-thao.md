@@ -4,8 +4,8 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Arsenal - Everton](https://vnexpress.net/arsenal-everton-4748000.html) - 14:00 19/05/2024
-- 🦩 [Man City - West Ham: De Bruyne, Doku đá chính](https://vnexpress.net/man-city-west-ham-de-bruyne-doku-da-chinh-4747983.html) - 14:00 19/05/2024
+- 🪜 [Arsenal - Everton: Saka không được đăng ký](https://vnexpress.net/arsenal-everton-saka-khong-duoc-dang-ky-4748000.html) - 14:00 19/05/2024
+- 🦩 [Man City - West Ham: Doku đá chính, Bowen vắng mặt](https://vnexpress.net/man-city-west-ham-doku-da-chinh-bowen-vang-mat-4747983.html) - 14:00 19/05/2024
 - 🧰 [Kỳ thủ Gia Phúc giành chuẩn Đại kiện tướng thứ hai](https://vnexpress.net/ky-thu-gia-phuc-gianh-chuan-dai-kien-tuong-thu-hai-4747909.html) - 12:54 19/05/2024
 - 🤗 [Ngày phán quyết ở Ngoại hạng Anh 2023-2024](https://vnexpress.net/ngay-phan-quyet-o-ngoai-hang-anh-2023-2024-4747906.html) - 06:45 19/05/2024
 - 🥳 [Thủ môn Hải Phòng bị mất trí nhớ tạm thời](https://vnexpress.net/thu-mon-hai-phong-bi-mat-tri-nho-tam-thoi-4747882.html) - 05:29 19/05/2024
