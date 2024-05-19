@@ -252,7 +252,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐎 [Cô gái trẻ bị sét đánh tử vong khi đang đi xe máy](https://nld.com.vn/co-gai-tre-bi-set-danh-tu-vong-khi-dang-di-xe-may-196240519205116737.htm) - 14:33 19/05/2024
 - 😺 [Thắp sáng ước mơ cho gia đình hiếm muộn](https://phunu.nld.com.vn/thap-sang-uoc-mo-cho-gia-dinh-hiem-muon-196240519204304826.htm) - 14:29 19/05/2024
 - 👍 [Trực thăng chở tổng thống Iran gặp sự cố, cứu hộ đang tìm](https://nld.com.vn/truc-thang-cho-tong-thong-iran-gap-su-co-cuu-ho-dang-tim-196240519212059476.htm) - 14:25 19/05/2024
-- 🥷 [Trực tiếp vòng cuối Ngoại hạng Anh: Arsenal bám đuổi Man City đến cùng](https://nld.com.vn/truc-tiep-vong-cuoi-ngoai-hang-anh-arsenal-bam-duoi-man-city-den-cung-196240519210959854.htm) - 14:11 19/05/2024
+- 🥷 [Trực tiếp vòng cuối Ngoại hạng Anh: Phil Foden mở tỉ số](https://nld.com.vn/truc-tiep-vong-cuoi-ngoai-hang-anh-arsenal-bam-duoi-man-city-den-cung-196240519210959854.htm) - 14:11 19/05/2024
 - 🤔 [Lâm Đồng: 4 cháu bé tử vong dưới hồ nước](https://nld.com.vn/lam-dong-4-chau-be-tu-vong-duoi-ho-nuoc-196240519203708422.htm) - 14:05 19/05/2024
 - 🌈 [TP HCM: Kẹt xe nghiêm trọng trong đêm thả hoa đăng mừng Đại lễ Phật đản](https://nld.com.vn/tp-hcm-ket-xe-nghiem-trong-trong-dem-tha-hoa-dang-mung-dai-le-phat-dan-196240519205521849.htm) - 14:02 19/05/2024
 - 🔥 [Hãng Yadea xin lỗi về việc bản đồ không thể hiện Hoàng Sa, Trường Sa](https://nld.com.vn/hang-yadea-xin-loi-ve-viec-ban-do-khong-the-hien-hoang-sa-truong-sa-196240519202258184.htm) - 13:45 19/05/2024
