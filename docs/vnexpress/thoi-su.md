@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Bốn cháu bé tử vong ở hồ nước](https://vnexpress.net/bon-chau-be-tu-vong-o-ho-nuoc-4747999.html) - 13:55 19/05/2024
+- 🦒 [Bốn cháu bé tử vong dưới hồ](https://vnexpress.net/bon-chau-be-tu-vong-duoi-ho-4747999.html) - 13:55 19/05/2024
 - 🤓 [14 người tập yoga giữa đường để chụp ảnh với hoa bằng lăng bị phạt](https://vnexpress.net/14-nguoi-tap-yoga-giua-duong-de-chup-anh-voi-hoa-bang-lang-bi-phat-4747987.html) - 13:50 19/05/2024
 - ⚗️ [Gần 5.000 tỷ đồng mở rộng nhà ga quốc tế T2 Nội Bài](https://vnexpress.net/gan-5-000-ty-dong-mo-rong-nha-ga-quoc-te-t2-noi-bai-4747952.html) - 10:55 19/05/2024
 - 🌊 [Huế sẵn sàng đón Phật đản](https://vnexpress.net/hue-san-sang-don-phat-dan-4747714.html) - 10:30 19/05/2024
