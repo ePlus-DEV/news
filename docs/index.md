@@ -50,7 +50,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐻 [Drag queen gốc Việt gây chú ý tại show truyền hình Mỹ](https://vnexpress.net/drag-queen-goc-viet-gay-chu-y-tai-show-truyen-hinh-my-4747875.html) - 14:57 19/05/2024
 - 😺 [Hai phụ nữ bị sét đánh tử vong](https://vnexpress.net/hai-phu-nu-bi-set-danh-tu-vong-4748003.html) - 14:17 19/05/2024
 - 🤔 [Bình Dương cần 20.000 ha đất để phát triển đô thị dọc vành đai, cao tốc](https://vnexpress.net/binh-duong-can-20-000-ha-dat-de-phat-trien-do-thi-doc-vanh-dai-cao-toc-4747980.html) - 14:07 19/05/2024
-- 🌮 [Arsenal về nhì Ngoại hạng Anh dù thắng vòng cuối](https://vnexpress.net/arsenal-vs-everton-4748000.html) - 14:00 19/05/2024
+- 🌮 [Arsenal về nhì Ngoại hạng Anh dù thắng vòng cuối](https://vnexpress.net/arsenal-vs-everton-4748000-tong-thuat.html) - 14:00 19/05/2024
 - 🦩 [Man City vô địch Ngoại hạng Anh lần thứ tư liên tiếp](https://vnexpress.net/man-city-vs-west-ham-4747983-tong-thuat.html) - 14:00 19/05/2024
 - 📝 [Cô giáo có phù hợp với anh?](https://vnexpress.net/co-giao-co-phu-hop-voi-anh-4747829.html) - 14:00 19/05/2024
 - 🕴 [Loài khủng long nào nhanh nhất hành tinh?](https://vnexpress.net/loai-khung-long-nao-nhanh-nhat-hanh-tinh-4747556.html) - 14:00 19/05/2024
