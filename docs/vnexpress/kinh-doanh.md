@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [SCIC dự kiến bán vốn tại FPT và loạt doanh nghiệp](https://vnexpress.net/scic-sap-ban-von-loat-doanh-nghiep-4747937.html) - 09:01 19/05/2024
 - 🐲 [Quảng Ninh sẽ livestream bán vải chín sớm](https://vnexpress.net/quang-ninh-se-livestream-ban-vai-chin-som-4747804.html) - 00:09 19/05/2024
-- 🔥 [Thủ tướng yêu cầu hoàn thành thanh tra thị trường vàng trong tháng 5](https://vnexpress.net/thu-tuong-yeu-cau-thanh-tra-xong-thi-truong-vang-trong-thang-5-4747817.html) - 00:06 19/05/2024
+- 🔥 [Thủ tướng yêu cầu hoàn thành thanh tra thị trường vàng trong tháng 5](https://vnexpress.net/thu-tuong-yeu-cau-hoan-thanh-thanh-tra-thi-truong-vang-trong-thang-5-4747817.html) - 00:06 19/05/2024
 - 🐵 [Tỷ trọng dùng ruble trong giao dịch Nga - châu Âu lên kỷ lục](https://vnexpress.net/ty-trong-dung-ruble-trong-giao-dich-nga-chau-au-len-ky-luc-4747799.html) - 00:00 19/05/2024
 - 🦅 [Nga tịch thu hàng trăm triệu USD của Deutsche Bank, UniCredit](https://vnexpress.net/nga-tich-thu-hang-tram-trieu-usd-cua-deutsche-bank-unicredit-4747802.html) - 23:33 18/05/2024
 - 😺 [Giá cổ phiếu công ty điều hành chuỗi lẩu Haidilao tăng vọt tại Mỹ](https://vnexpress.net/gia-co-phieu-cong-ty-dieu-hanh-chuoi-lau-haidilao-tang-vot-tai-my-4747589.html) - 07:28 18/05/2024
