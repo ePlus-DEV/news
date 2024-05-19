@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Người ai sẽ được nhận trợ cấp thôi việc?](https://vnexpress.net/nguoi-ai-se-duoc-nhan-tro-cap-thoi-viec-4745060.html) - 17:00 19/05/2024
+- 😎 [Điều kiện nào sẽ được nhận trợ cấp thôi việc?](https://vnexpress.net/dieu-kien-nao-se-duoc-nhan-tro-cap-thoi-viec-4745060.html) - 17:00 19/05/2024
 - 🥰 [Hải Idol dàn 4 xe sang giữa đường để &#39;đánh bóng tên tuổi&#39;](https://vnexpress.net/hai-idol-dan-4-xe-sang-giua-duong-de-danh-bong-ten-tuoi-4747993.html) - 14:59 19/05/2024
 - 🎓 [Bị đe dọa đòi tiền sau khi trốn khỏi công ty lừa đảo ở Campuchia](https://vnexpress.net/bi-de-doa-doi-tien-sau-khi-tron-khoi-cong-ty-lua-dao-o-campuchia-4747979.html) - 13:00 19/05/2024
 - 🤓 [Thanh niên lao xe vào cảnh sát bị buộc tội Giết người](https://vnexpress.net/thanh-nien-lao-xe-vao-canh-sat-bi-buoc-toi-giet-nguoi-4747920.html) - 08:19 19/05/2024
