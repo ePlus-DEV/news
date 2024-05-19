@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Chồng trả góp nhà từ khi chưa ly hôn, vợ hai có quyền gì với tài sản này?](https://vnexpress.net/chong-tra-gop-nha-tu-khi-chua-ly-hon-vo-hai-co-quyen-gi-voi-tai-san-nay-4747298.html) - 17:57 18/05/2024
 - 🥰 [Hơn 1.400 tỷ đồng được chuyển trái phép ra nước ngoài bằng cách nào?](https://vnexpress.net/hon-1-400-ty-dong-duoc-chuyen-trai-phep-ra-nuoc-ngoai-bang-cach-nao-4744875.html) - 17:43 18/05/2024
 - 🎓 [6 trường hợp sổ đỏ sẽ bị thu hồi từ năm 2025](https://vnexpress.net/6-truong-hop-so-do-se-bi-thu-hoi-tu-nam-2025-4747201.html) - 17:21 18/05/2024
-- 🤓 [Ba sát nhân trẻ tuổi bị phát giác dựa trên lịch sử tìm kiếm Google](https://vnexpress.net/ba-sat-nhan-tre-tuoi-bi-phat-giac-dua-tren-lich-su-tim-kiem-google-4747787.html) - 17:20 18/05/2024
+- 🤓 [Ba sát nhân trẻ bị phát giác dựa trên lịch sử tìm kiếm Google](https://vnexpress.net/ba-sat-nhan-tre-bi-phat-giac-dua-tren-lich-su-tim-kiem-google-4747787.html) - 17:20 18/05/2024
 - 🎊 [Chuỗi tội ác của &#39;sát thủ đào hoa Casanova&#39;](https://vnexpress.net/chuoi-toi-ac-cua-sat-thu-dao-hoa-casanova-4747474.html) - 17:16 18/05/2024
 - 🙉 [Giả cảnh sát hình sự &#39;vòi&#39; tiền người vi phạm giao thông](https://vnexpress.net/gia-canh-sat-hinh-su-voi-tien-nguoi-vi-pham-giao-thong-4747773.html) - 17:00 18/05/2024
 - 🤡 [4 người dàn xe sang giữa đường chụp ảnh cưới bị khởi tố](https://vnexpress.net/4-nguoi-dan-xe-sang-giua-duong-chup-anh-cuoi-bi-khoi-to-4747781.html) - 16:10 18/05/2024
