@@ -22,7 +22,7 @@ sidebar_position: 2
 - 💼 [Bộ trưởng Nông nghiệp Trung Quốc bị điều tra tham nhũng](https://vnexpress.net/bo-truong-nong-nghiep-trung-quoc-bi-dieu-tra-tham-nhung-4747721.html) - 09:57 18/05/2024
 - 🤡 [Nga tịch thu tài sản của ngân hàng Đức](https://vnexpress.net/nga-tich-thu-tai-san-cua-ngan-hang-duc-4747712.html) - 09:23 18/05/2024
 - 🌁 [Gần 10.000 người sơ tán khỏi Kharkov trước đà tiến công của Nga](https://vnexpress.net/gan-10-000-nguoi-so-tan-khoi-kharkov-truoc-da-tien-cong-cua-nga-4747710.html) - 09:20 18/05/2024
-- 🤩 [Tàu dầu treo cờ Panama bị tấn công ở Biển Đỏ](https://vnexpress.net/tau-dau-treo-co-panama-bi-tan-cong-o-bien-do-4747705.html) - 08:12 18/05/2024
+- 🤩 [Tàu chở dầu Nga đến Trung Quốc &#39;bị Houthi tấn công&#39;](https://vnexpress.net/tau-cho-dau-nga-den-trung-quoc-bi-houthi-tan-cong-4747705.html) - 08:12 18/05/2024
 - 🎉 [Lính trẻ Ukraine vui mừng vì luật huy động quân mới có hiệu lực](https://vnexpress.net/linh-tre-ukraine-vui-mung-vi-luat-huy-dong-quan-moi-co-hieu-luc-4747701.html) - 08:05 18/05/2024
 - 🎉 [Nghị sĩ Mỹ bị truy tố tham nhũng: &#39;Tất cả là do vợ&#39;](https://vnexpress.net/nghi-si-my-bi-truy-to-tham-nhung-tat-ca-la-do-vo-4747607.html) - 05:44 18/05/2024
 - 🌁 [Mỹ nói quan hệ Nga - Trung &#39;chưa đạt tiến triển lớn&#39;](https://vnexpress.net/my-noi-quan-he-nga-trung-chua-dat-tien-trien-lon-4747565.html) - 05:19 18/05/2024
