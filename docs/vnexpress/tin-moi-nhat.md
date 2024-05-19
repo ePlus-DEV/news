@@ -10,8 +10,8 @@ sidebar_position: 9
 - 🏊 [Drag queen gốc Việt gây chú ý tại show truyền hình Mỹ](https://vnexpress.net/drag-queen-goc-viet-gay-chu-y-tai-show-truyen-hinh-my-4747875.html) - 14:57 19/05/2024
 - 🎊 [Hai phụ nữ bị sét đánh tử vong](https://vnexpress.net/hai-phu-nu-bi-set-danh-tu-vong-4748003.html) - 14:17 19/05/2024
 - 🎃 [Bình Dương cần 20.000 ha đất để phát triển đô thị dọc vành đai, cao tốc](https://vnexpress.net/binh-duong-can-20-000-ha-dat-de-phat-trien-do-thi-doc-vanh-dai-cao-toc-4747980.html) - 14:07 19/05/2024
-- 🧰 [Arsenal 0-0 Everton &lpar;H1&rpar;: Pickford cứu thua](https://vnexpress.net/arsenal-vs-everton-4748000.html) - 14:00 19/05/2024
-- 🔭 [Man City 2-0 West Ham &lpar;H1&rpar;: Foden lập cú đúp](https://vnexpress.net/man-city-vs-west-ham-4747983.html) - 14:00 19/05/2024
+- 🧰 [Arsenal 0-0 Everton &lpar;H1&rpar;: Tomiyasu bỏ lỡ](https://vnexpress.net/arsenal-0-0-everton-h1-tomiyasu-bo-lo-4748000.html) - 14:00 19/05/2024
+- 🔭 [Man City 1-0 West Ham &lpar;H1&rpar;: Foden mở tỷ số](https://vnexpress.net/man-city-vs-west-ham-4747983.html) - 14:00 19/05/2024
 - 🫶 [Cô giáo có phù hợp với anh?](https://vnexpress.net/co-giao-co-phu-hop-voi-anh-4747829.html) - 14:00 19/05/2024
 - 🪜 [Loài khủng long nào nhanh nhất hành tinh?](https://vnexpress.net/loai-khung-long-nao-nhanh-nhat-hanh-tinh-4747556.html) - 14:00 19/05/2024
 - 👨‍🏫 [Trực thăng chở Tổng thống Iran hạ cánh khẩn](https://vnexpress.net/truc-thang-cho-tong-thong-iran-ha-canh-khan-4747991.html) - 13:56 19/05/2024
