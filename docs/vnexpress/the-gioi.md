@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Mỹ đạt thỏa thuận rút quân khỏi Niger](https://vnexpress.net/my-dat-thoa-thuan-rut-quan-khoi-niger-4747994.html) - 15:00 19/05/2024
-- 🕴 [Trực thăng chở Tổng thống Iran hạ cánh khẩn](https://vnexpress.net/truc-thang-cho-tong-thong-iran-ha-canh-khan-4747991.html) - 13:56 19/05/2024
+- 🕴 [Trực thăng chở Tổng thống Iran gặp sự cố](https://vnexpress.net/truc-thang-cho-tong-thong-iran-gap-su-co-4747991.html) - 13:56 19/05/2024
 - 🤭 [Ông Trump muốn ông Biden xét nghiệm chất cấm trước tranh luận](https://vnexpress.net/ong-trump-muon-ong-biden-xet-nghiem-chat-cam-truoc-tranh-luan-4747981.html) - 13:14 19/05/2024
 - 🧑‍💻 [Iran, Mỹ đàm phán &#39;tránh leo thang căng thẳng&#39;](https://vnexpress.net/iran-my-dam-phan-tranh-leo-thang-cang-thang-4747974.html) - 12:36 19/05/2024
 - 🦏 [Nguy cơ xung đột Gaza kéo dài không hồi kết](https://vnexpress.net/nguy-co-xung-dot-gaza-keo-dai-khong-hoi-ket-4746372.html) - 12:00 19/05/2024
