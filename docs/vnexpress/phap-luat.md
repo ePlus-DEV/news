@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Thanh niên lao xe vào cảnh sát ở TP HCM bị buộc tội Giết người](https://vnexpress.net/thanh-nien-lao-xe-vao-canh-sat-o-tp-hcm-bi-buoc-toi-giet-nguoi-4747920.html) - 08:19 19/05/2024
+- 😎 [Thanh niên lao xe vào cảnh sát bị buộc tội Giết người](https://vnexpress.net/thanh-nien-lao-xe-vao-canh-sat-bi-buoc-toi-giet-nguoi-4747920.html) - 08:19 19/05/2024
 - 🥰 [Chồng trả góp nhà từ khi chưa ly hôn, vợ hai có quyền gì với tài sản này?](https://vnexpress.net/chong-tra-gop-nha-tu-khi-chua-ly-hon-vo-hai-co-quyen-gi-voi-tai-san-nay-4747298.html) - 17:57 18/05/2024
 - 🎓 [Hơn 1.400 tỷ đồng được chuyển trái phép ra nước ngoài bằng cách nào?](https://vnexpress.net/hon-1-400-ty-dong-duoc-chuyen-trai-phep-ra-nuoc-ngoai-bang-cach-nao-4744875.html) - 17:43 18/05/2024
 - 🤓 [6 trường hợp sổ đỏ sẽ bị thu hồi từ năm 2025](https://vnexpress.net/6-truong-hop-so-do-se-bi-thu-hoi-tu-nam-2025-4747201.html) - 17:21 18/05/2024
