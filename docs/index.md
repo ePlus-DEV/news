@@ -234,7 +234,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - ⛽️ [Đang đi xe máy trên đường, cô gái trẻ bị sét đánh tử vong](https://laodong.vn/xa-hoi/dang-di-xe-may-tren-duong-co-gai-tre-bi-set-danh-tu-vong-1342086.ldo) - 12:31 19/05/2024
 - 💫 [Bản tin dự báo thời tiết đêm nay và ngày mai 20.5](https://laodong.vn/video-xa-hoi/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-205-1341773.ldo) - 12:30 19/05/2024
 - 🥸 [Đề xuất gia hạn Thông tư 02 về cơ cấu nợ thêm 6 tháng](https://laodong.vn/kinh-doanh/de-xuat-gia-han-thong-tu-02-ve-co-cau-no-them-6-thang-1342045.ldo) - 12:28 19/05/2024
-- 🐻 [Trực tiếp LPB Ninh Bình 1-2 PFU Blue Cats, chung kết bóng chuyền Cúp VTV9 Bình Điền 2024: Set 4](https://laodong.vn/the-thao/truc-tiep-lpb-ninh-binh-1-2-pfu-blue-cats-chung-ket-bong-chuyen-cup-vtv9-binh-dien-2024-set-4-1342081.ldo) - 12:28 19/05/2024
+- 🐻 [PFU Blue Cats vô địch giải bóng chuyền Cúp VTV9 - Bình Điền 2024](https://laodong.vn/the-thao/pfu-blue-cats-vo-dich-giai-bong-chuyen-cup-vtv9-binh-dien-2024-1342081.ldo) - 12:28 19/05/2024
 - 🪄 [Kết hợp những bài tập HIIT này giúp bạn giảm cân bền vững](https://laodong.vn/suc-khoe/ket-hop-nhung-bai-tap-hiit-nay-giup-ban-giam-can-ben-vung-1340961.ldo) - 12:08 19/05/2024
 - 🧑‍🏫 [Thế giới 24h: Diễn biến mùa bão 2024 có thêm dự báo nhận định](https://laodong.vn/podcast-tin-tuc/the-gioi-24h-dien-bien-mua-bao-2024-co-them-du-bao-nhan-dinh-1342018.ldo) - 12:01 19/05/2024
 - 🌊 [Theo chân những &quot;cửu vạn vali&quot; ở cửa khẩu Lào Cai](https://laodong.vn/xa-hoi/theo-chan-nhung-cuu-van-vali-o-cua-khau-lao-cai-1319127.ldo) - 12:00 19/05/2024
