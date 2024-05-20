@@ -7,7 +7,7 @@ sidebar_position: 2
 - 🎭 [Triều Tiên tăng cường răn đe hạt nhân sau vụ thử của Mỹ](https://vnexpress.net/trieu-tien-tang-cuong-ran-de-hat-nhan-sau-vu-thu-cua-my-4748038.html) - 00:25 20/05/2024
 - 🕴 [Hình ảnh Tổng thống Iran trên trực thăng trước khi mất tích](https://vnexpress.net/hinh-anh-tong-thong-iran-tren-truc-thang-truoc-khi-mat-tich-4748036.html) - 00:13 20/05/2024
 - 🤭 [Người Iran cầu nguyện và lo lắng khi Tổng thống Raisi mất tích](https://vnexpress.net/nguoi-iran-cau-nguyen-va-lo-lang-khi-tong-thong-raisi-mat-tich-4748028.html) - 23:31 19/05/2024
-- 🧑‍💻 [Loạt quốc gia hỗ trợ Iran tìm Tổng thống Raisi](https://vnexpress.net/loat-quoc-gia-ho-tro-iran-tim-tong-thong-raisi-4748027.html) - 23:18 19/05/2024
+- 🧑‍💻 [Loạt nước hỗ trợ tìm kiếm trực thăng chở Tổng thống Iran](https://vnexpress.net/loat-nuoc-ho-tro-tim-kiem-truc-thang-cho-tong-thong-iran-4748027.html) - 23:18 19/05/2024
 - 🦏 [Chiến trường Nga - Ukraine thời gian tới diễn biến ra sao?](https://vnexpress.net/chien-truong-nga-ukraine-thoi-gian-toi-dien-bien-ra-sao-4742384.html) - 22:00 19/05/2024
 - 🦒 [Những biến số có thể xoay chiều cuộc đua vào Nhà Trắng](https://vnexpress.net/nhung-bien-so-co-the-xoay-chieu-cuoc-dua-vao-nha-trang-4744046.html) - 17:00 19/05/2024
 - 🌈 [Nghi phạm bắn Thủ tướng Slovakia có thể không phải &#39;sói đơn độc&#39;](https://vnexpress.net/nghi-pham-ban-thu-tuong-slovakia-co-the-khong-phai-soi-don-doc-4748019.html) - 16:42 19/05/2024
