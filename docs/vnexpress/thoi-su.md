@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Chính phủ dành được 680.000 tỷ đồng để cải cách tiền lương](https://vnexpress.net/chinh-phu-danh-duoc-680-000-ty-dong-de-cai-cach-tien-luong-4748192.html) - 04:11 20/05/2024
+- 🦒 [Cả nước dành được 680.000 tỷ đồng để cải cách tiền lương](https://vnexpress.net/ca-nuoc-danh-duoc-680-000-ty-dong-de-cai-cach-tien-luong-4748192.html) - 04:11 20/05/2024
 - 🤓 [Hơn 3.000 tội phạm tham nhũng bị điều tra trong năm 2023](https://vnexpress.net/hon-3-000-toi-pham-tham-nhung-bi-dieu-tra-trong-nam-2023-4748102.html) - 03:50 20/05/2024
 - ⚗️ [Đường TP HCM ùn tắc hơn 4 km vào sáng đầu tuần sau mưa lớn](https://vnexpress.net/duong-tp-hcm-un-tac-hon-4-km-vao-sang-dau-tuan-sau-mua-lon-4748107.html) - 02:05 20/05/2024
 - 🌊 [Hà Nội dự kiến chi 190 tỷ đồng cải tạo trụ sở UBND thành phố](https://vnexpress.net/ha-noi-du-kien-chi-190-ty-dong-cai-tao-tru-so-ubnd-thanh-pho-4747917.html) - 23:00 19/05/2024
