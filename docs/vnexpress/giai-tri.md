@@ -13,7 +13,7 @@ sidebar_position: 5
 - 😎 [Châu Nhuận Phát đón tuổi 69](https://vnexpress.net/chau-nhuan-phat-don-tuoi-69-4747915.html) - 08:50 19/05/2024
 - 🫣 [Diễn viên Đức Tiến qua đời ở tuổi 44](https://vnexpress.net/dien-vien-duc-tien-qua-doi-o-tuoi-44-4747919.html) - 07:27 19/05/2024
 - 🪄 [Chủ tịch Hồ Chí Minh qua tranh của họa sĩ Việt kiều](https://vnexpress.net/chu-tich-ho-chi-minh-qua-tranh-cua-hoa-si-viet-kieu-4747415.html) - 06:57 19/05/2024
-- 🤓 [Cannes ngày năm: &#39;Hoa hậu đẹp nhất 2022&#39; mặc đầm Lê Thanh Hòa](https://vnexpress.net/cannes-ngay-nam-hoa-hau-dep-nhat-2022-mac-dam-le-thanh-hoa-4747876.html) - 04:59 19/05/2024
+- 🤓 [Cannes ngày năm: &#39;Hoa hậu đẹp nhất 2022&#39; mặc đầm Lê Thanh Hòa](https://vnexpress.net/cannes-ngay-nam-hoa-hau-dep-nhat-2022-mac-dam-le-thanh-hoa-vnepre-4747876.html) - 04:59 19/05/2024
 - 🫶 [Triệu Lộ Tư rước đuốc Olympic](https://vnexpress.net/trieu-lo-tu-ruoc-duoc-olympic-4747871.html) - 04:17 19/05/2024
 - 🧑‍🏫 [Phim của Selena Gomez được vỗ tay chín phút](https://vnexpress.net/phim-cua-selena-gomez-duoc-vo-tay-chin-phut-4747819.html) - 03:47 19/05/2024
 - 🦄 [Đàm Vĩnh Hưng gọi Mỹ Tâm là &#39;diva&#39;](https://vnexpress.net/dam-vinh-hung-goi-my-tam-la-diva-4747845.html) - 03:02 19/05/2024
@@ -47,7 +47,7 @@ sidebar_position: 5
 - 🌊 [8 người đẹp tái hiện phong cách giai nhân xưa](https://vnexpress.net/8-nguoi-dep-tai-hien-phong-cach-giai-nhan-xua-4746773.html) - 13:00 16/05/2024
 - 🪜 [Nhóm nhạc H.A.T sau 20 năm](https://vnexpress.net/nhom-nhac-h-a-t-sau-20-nam-4746670.html) - 12:31 16/05/2024
 - 🕴 [NXB dừng cộng tác họa sĩ phát ngôn phản cảm về &#39;Nữ hoàng Ai Cập&#39;](https://vnexpress.net/nxb-dung-cong-tac-hoa-si-phat-ngon-phan-cam-ve-nu-hoang-ai-cap-4746945.html) - 11:13 16/05/2024
-- 💃 [Cannes ngày hai: Váy của nhà thiết kế Việt lên thảm đỏ](https://vnexpress.net/cannes-ngay-hai-vay-cua-nha-thiet-ke-viet-len-tham-do-vnepre-4746999.html) - 10:51 16/05/2024
+- 💃 [Cannes ngày hai: Váy của nhà thiết kế Việt lên thảm đỏ](https://vnexpress.net/cannes-ngay-hai-vay-cua-nha-thiet-ke-viet-len-tham-do-4746999.html) - 10:51 16/05/2024
 - 🦄 [Tuấn Hưng và vợ diễn chuyện tình cổ trang](https://vnexpress.net/tuan-hung-va-vo-dien-chuyen-tinh-co-trang-4746514.html) - 09:10 16/05/2024
 - ⛽️ [Bộ sách lịch sử kinh điển cho thiếu niên](https://vnexpress.net/bo-sach-lich-su-kinh-dien-cho-thieu-nien-4746857.html) - 08:38 16/05/2024
 - 😎 [Ariana Grande đóng phim cùng Dương Tử Quỳnh](https://vnexpress.net/ariana-grande-dong-phim-cung-duong-tu-quynh-4746702.html) - 08:25 16/05/2024
