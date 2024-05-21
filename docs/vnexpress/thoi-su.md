@@ -16,7 +16,7 @@ sidebar_position: 1
 - 🚦 [Lũ cát ập xuống khu du lịch ở Mũi Né, vùi lấp ôtô](https://vnexpress.net/lu-cat-ap-xuong-khu-du-lich-o-mui-ne-vui-lap-oto-4748536.html) - 01:01 21/05/2024
 - 🎉 [Tiểu sử tân Chủ tịch Quốc hội Trần Thanh Mẫn](https://vnexpress.net/tieu-su-tan-chu-tich-quoc-hoi-tran-thanh-man-4748537.html) - 01:00 21/05/2024
 - 🦒 [Hơn 1.000 hộ dân sống tạm bợ ven rạch dọc Metro số 1](https://vnexpress.net/hon-1-000-ho-dan-song-tam-bo-ven-rach-doc-metro-so-1-4747948.html) - 23:00 20/05/2024
-- 🤗 [Hà Nội thí điểm chia rác thành bốn loại](https://vnexpress.net/ha-noi-thi-diem-chia-rac-thanh-bon-loai-4748252.html) - 21:00 20/05/2024
+- 🤗 [Hà Nội thí điểm phân loại rác thành bốn nhóm](https://vnexpress.net/ha-noi-thi-diem-chia-rac-thanh-bon-loai-4748252.html) - 21:00 20/05/2024
 - 💼 [Hôm nay Quốc hội bắt đầu quy trình bầu Chủ tịch nước](https://vnexpress.net/hom-nay-quoc-hoi-bat-dau-quy-trinh-bau-chu-tich-nuoc-4748464.html) - 17:00 20/05/2024
 - 🤩 [Hàng loạt cầu ở Quảng Nam không có đường dẫn](https://vnexpress.net/hang-loat-cau-o-quang-nam-khong-co-duong-dan-4747942.html) - 17:00 20/05/2024
 - 🤡 [Quốc lộ nối TP HCM - Bình Dương ngập sâu, ùn tắc kéo dài](https://vnexpress.net/quoc-lo-noi-tp-hcm-binh-duong-ngap-sau-un-tac-keo-dai-4748472.html) - 15:38 20/05/2024
