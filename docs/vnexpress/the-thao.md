@@ -10,7 +10,7 @@ sidebar_position: 5
 - 🤗 [Ronaldo lập kỷ lục sáu lần dự Euro](https://vnexpress.net/ronaldo-lap-ky-luc-sau-lan-du-euro-4748963.html) - 14:33 21/05/2024
 - 🥳 [Mất bàn thắng, HLV Huỳnh Đức tố trọng tài ác cảm với Bình Dương](https://vnexpress.net/mat-ban-thang-hlv-huynh-duc-to-trong-tai-ac-cam-voi-binh-duong-4748958.html) - 14:18 21/05/2024
 - 🦣 [Việt Nam giành HC vàng châu Á chạy tiếp sức 4x400m nữ](https://vnexpress.net/viet-nam-gianh-hc-vang-chau-a-chay-tiep-suc-4x400m-nu-4748947.html) - 13:43 21/05/2024
-- 🌜 [HAGL thắng ngược Hà Tĩnh khi hơn người](https://vnexpress.net/hagl-thang-nguoc-ha-tinh-khi-hon-nguoi-4748943.html) - 13:11 21/05/2024
+- 🌜 [Chơi hơn người, HAGL thắng ngược ở V-League](https://vnexpress.net/choi-hon-nguoi-hagl-thang-nguoc-o-v-league-4748943.html) - 13:11 21/05/2024
 - 🫶 [HLV Shin Tae-yong bật cười khi biết cùng bảng Việt Nam](https://vnexpress.net/hlv-shin-tae-yong-bat-cuoi-khi-biet-cung-bang-viet-nam-4748937.html) - 12:09 21/05/2024
 - 🌜 [HLV Slot: &#39;Không thể bỏ qua cơ hội sang Liverpool&#39;](https://vnexpress.net/hlv-slot-khong-the-bo-qua-co-hoi-sang-liverpool-4748914.html) - 12:05 21/05/2024
 - 😺 [HLV Thái Lan lo lắng vì tân HLV Việt Nam](https://vnexpress.net/hlv-thai-lan-lo-lang-vi-tan-hlv-viet-nam-4748912.html) - 10:57 21/05/2024
