@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Chelsea thôi hợp đồng với HLV Pochettino](https://vnexpress.net/chelsea-thoi-hop-dong-voi-hlv-pochettino-4748996.html) - 18:43 21/05/2024
+- 🚀 [Chelsea bất ngờ thôi hợp đồng với HLV Pochettino](https://vnexpress.net/chelsea-bat-ngo-thoi-hop-dong-voi-hlv-pochettino-4748996.html) - 18:43 21/05/2024
 - 🧰 [Y tế tư nhân chiếm 30% hệ thống chăm sóc sức khỏe trong 20 năm nữa](https://vnexpress.net/y-te-tu-nhan-chiem-30-he-thong-cham-soc-suc-khoe-trong-20-nam-nua-4748953.html) - 18:08 21/05/2024
 - 🥰 [Nga hồi sinh mẫu tàu ngầm &#39;thống trị đáy biển&#39;](https://vnexpress.net/nga-hoi-sinh-mau-tau-ngam-thong-tri-day-bien-4744813.html) - 18:00 21/05/2024
 - 🌏 [Cảnh hỗn loạn trong máy bay Singapore gặp nhiễu động](https://vnexpress.net/canh-hon-loan-trong-may-bay-singapore-gap-nhieu-dong-4748990.html) - 17:25 21/05/2024
