@@ -4,21 +4,21 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Quốc hội sẽ phê chuẩn miễn nhiệm chức Bộ trưởng Công an với đại tướng Tô Lâm](https://vnexpress.net/quoc-hoi-se-mien-nhiem-bo-truong-cong-an-to-lam-4748640.html) - 07:10 21/05/2024
-- 🤓 [Đề xuất luật hóa thu phí ôtô vào nội đô](https://vnexpress.net/de-xuat-luat-hoa-thu-phi-oto-vao-noi-do-4748744.html) - 06:10 21/05/2024
-- ⚗️ [Máy bay móp đầu, nứt kính có thể do gặp mưa đá](https://vnexpress.net/may-bay-mop-dau-nut-kinh-co-the-do-gap-mua-da-4748715.html) - 06:03 21/05/2024
-- 🌊 [Hầm đường sắt ở Phú Yên sạt lở](https://vnexpress.net/ham-duong-sat-o-phu-yen-sat-lo-4748751.html) - 06:01 21/05/2024
-- 🎓 [Hai người bị sét đánh tử vong](https://vnexpress.net/hai-nguoi-bi-set-danh-tu-vong-4748724.html) - 04:54 21/05/2024
-- 🔥 [&#39;Nên đổi tên cao tốc 2 làn xe thành đường tốc độ cao&#39;](https://vnexpress.net/nen-doi-ten-cao-toc-2-lan-xe-thanh-duong-toc-do-cao-4748669.html) - 04:45 21/05/2024
-- 🦏 [Hiện trường lũ cát ập xuống khu du lịch Mũi Né](https://vnexpress.net/hien-truong-lu-cat-ap-xuong-khu-du-lich-mui-ne-4748709.html) - 04:20 21/05/2024
-- 👺 [Khai thác cát, địa chất yếu làm lún nứt hơn 40 ngôi nhà ở Hà Nội](https://vnexpress.net/khai-thac-cat-dia-chat-yeu-lam-lun-nut-hon-40-ngoi-nha-o-ha-noi-4748576.html) - 03:11 21/05/2024
-- 🧑‍🏫 [Lũ cát ập xuống khu du lịch ở Mũi Né, vùi lấp ôtô](https://vnexpress.net/lu-cat-ap-xuong-khu-du-lich-o-mui-ne-vui-lap-oto-4748536.html) - 01:01 21/05/2024
-- 🚦 [Tiểu sử tân Chủ tịch Quốc hội Trần Thanh Mẫn](https://vnexpress.net/tieu-su-tan-chu-tich-quoc-hoi-tran-thanh-man-4748537.html) - 01:00 21/05/2024
-- 🎉 [Hơn 1.000 hộ dân sống tạm bợ ven rạch dọc Metro số 1](https://vnexpress.net/hon-1-000-ho-dan-song-tam-bo-ven-rach-doc-metro-so-1-4747948.html) - 23:00 20/05/2024
-- 🦒 [Hà Nội thí điểm chia rác thành bốn loại](https://vnexpress.net/ha-noi-thi-diem-chia-rac-thanh-bon-loai-4748252.html) - 21:00 20/05/2024
-- 🤗 [Hôm nay Quốc hội bắt đầu quy trình bầu Chủ tịch nước](https://vnexpress.net/hom-nay-quoc-hoi-bat-dau-quy-trinh-bau-chu-tich-nuoc-4748464.html) - 17:00 20/05/2024
-- 💼 [Hàng loạt cầu ở Quảng Nam không có đường dẫn](https://vnexpress.net/hang-loat-cau-o-quang-nam-khong-co-duong-dan-4747942.html) - 17:00 20/05/2024
-- 🤩 [Hủy phong tỏa tài sản của vợ Vũ &#39;Nhôm&#39; và công ty liên quan](https://vnexpress.net/huy-phong-toa-tai-san-cua-vo-vu-nhom-va-cong-ty-lien-quan-4748486.html) - 16:28 20/05/2024
+- 🦒 [Kiến nghị trẻ 15 tuổi được điều khiển xe máy dưới 50 phân khối](https://vnexpress.net/kien-nghi-tre-15-tuoi-duoc-dieu-khien-xe-may-duoi-50-phan-khoi-4748606.html) - 08:47 21/05/2024
+- 🤓 [Quốc hội sẽ phê chuẩn miễn nhiệm chức Bộ trưởng Công an với đại tướng Tô Lâm](https://vnexpress.net/quoc-hoi-se-mien-nhiem-bo-truong-cong-an-to-lam-4748640.html) - 07:10 21/05/2024
+- ⚗️ [Đề xuất luật hóa thu phí ôtô vào nội đô](https://vnexpress.net/de-xuat-luat-hoa-thu-phi-oto-vao-noi-do-4748744.html) - 06:10 21/05/2024
+- 🌊 [Máy bay móp đầu, nứt kính có thể do mưa đá](https://vnexpress.net/may-bay-mop-dau-nut-kinh-co-the-do-mua-da-4748715.html) - 06:03 21/05/2024
+- 🎓 [Hầm đường sắt ở Phú Yên sạt lở](https://vnexpress.net/ham-duong-sat-o-phu-yen-sat-lo-4748751.html) - 06:01 21/05/2024
+- 🔥 [Hai người bị sét đánh tử vong](https://vnexpress.net/hai-nguoi-bi-set-danh-tu-vong-4748724.html) - 04:54 21/05/2024
+- 🦏 [&#39;Nên đổi tên cao tốc 2 làn xe thành đường tốc độ cao&#39;](https://vnexpress.net/nen-doi-ten-cao-toc-2-lan-xe-thanh-duong-toc-do-cao-4748669.html) - 04:45 21/05/2024
+- 👺 [Hiện trường lũ cát ập xuống khu du lịch Mũi Né](https://vnexpress.net/hien-truong-lu-cat-ap-xuong-khu-du-lich-mui-ne-4748709.html) - 04:20 21/05/2024
+- 🧑‍🏫 [Khai thác cát, địa chất yếu làm lún nứt hơn 40 ngôi nhà ở Hà Nội](https://vnexpress.net/khai-thac-cat-dia-chat-yeu-lam-lun-nut-hon-40-ngoi-nha-o-ha-noi-4748576.html) - 03:11 21/05/2024
+- 🚦 [Lũ cát ập xuống khu du lịch ở Mũi Né, vùi lấp ôtô](https://vnexpress.net/lu-cat-ap-xuong-khu-du-lich-o-mui-ne-vui-lap-oto-4748536.html) - 01:01 21/05/2024
+- 🎉 [Tiểu sử tân Chủ tịch Quốc hội Trần Thanh Mẫn](https://vnexpress.net/tieu-su-tan-chu-tich-quoc-hoi-tran-thanh-man-4748537.html) - 01:00 21/05/2024
+- 🦒 [Hơn 1.000 hộ dân sống tạm bợ ven rạch dọc Metro số 1](https://vnexpress.net/hon-1-000-ho-dan-song-tam-bo-ven-rach-doc-metro-so-1-4747948.html) - 23:00 20/05/2024
+- 🤗 [Hà Nội thí điểm chia rác thành bốn loại](https://vnexpress.net/ha-noi-thi-diem-chia-rac-thanh-bon-loai-4748252.html) - 21:00 20/05/2024
+- 💼 [Hôm nay Quốc hội bắt đầu quy trình bầu Chủ tịch nước](https://vnexpress.net/hom-nay-quoc-hoi-bat-dau-quy-trinh-bau-chu-tich-nuoc-4748464.html) - 17:00 20/05/2024
+- 🤩 [Hàng loạt cầu ở Quảng Nam không có đường dẫn](https://vnexpress.net/hang-loat-cau-o-quang-nam-khong-co-duong-dan-4747942.html) - 17:00 20/05/2024
 - 🤡 [Quốc lộ nối TP HCM - Bình Dương ngập sâu, ùn tắc kéo dài](https://vnexpress.net/quoc-lo-noi-tp-hcm-binh-duong-ngap-sau-un-tac-keo-dai-4748472.html) - 15:38 20/05/2024
 - 💯 [Thông hầm xuyên núi trên cao tốc Vũng Áng - Bùng](https://vnexpress.net/thong-ham-xuyen-nui-tren-cao-toc-vung-ang-bung-4748457.html) - 14:11 20/05/2024
 - 👺 [Máy bay bị móp đầu, phải quay trở lại](https://vnexpress.net/may-bay-bi-mop-dau-phai-quay-tro-lai-4748458.html) - 14:07 20/05/2024
