@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Chelsea thôi hợp đồng với HLV Pochettino](https://vnexpress.net/chelsea-thoi-hop-dong-voi-hlv-pochettino-4748996.html) - 18:43 21/05/2024
+- 🪜 [Chelsea bất ngờ thôi hợp đồng với HLV Pochettino](https://vnexpress.net/chelsea-bat-ngo-thoi-hop-dong-voi-hlv-pochettino-4748996.html) - 18:43 21/05/2024
 - 🦩 [Toni Kroos giải nghệ sau Euro 2024](https://vnexpress.net/toni-kroos-giai-nghe-sau-euro-2024-4748967.html) - 17:00 21/05/2024
 - 🧰 [Văn Quyết giúp Hà Nội FC thắng Thanh Hóa](https://vnexpress.net/van-quyet-giup-ha-noi-fc-thang-thanh-hoa-4748970.html) - 15:13 21/05/2024
 - 🤗 [Hàng thủ báo hại Công an Hà Nội](https://vnexpress.net/hang-thu-bao-hai-cong-an-ha-noi-4748962.html) - 15:12 21/05/2024
