@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Chia bảng AFF Cup 2024](https://vnexpress.net/boc-tham-chia-bang-aff-cup-2024-4748773.html) - 07:00 21/05/2024
+- 🪜 [Việt Nam cùng bảng Indonesia ở AFF Cup 2024](https://vnexpress.net/boc-tham-chia-bang-aff-cup-2024-4748773.html) - 07:00 21/05/2024
 - 🦩 [Mỹ nhân điền kinh Trung Quốc 2 lần liên tiếp vô địch 100m rào](https://vnexpress.net/my-nhan-dien-kinh-trung-quoc-2-lan-lien-tiep-vo-dich-100m-rao-4748635.html) - 03:55 21/05/2024
 - 🧰 [Zverev cảnh giác với Djokovic và Nadal](https://vnexpress.net/zverev-canh-giac-voi-djokovic-va-nadal-4748636.html) - 03:53 21/05/2024
 - 🤗 [10 trận quyết định chức vô địch Ngoại hạng Anh mùa này](https://vnexpress.net/10-tran-quyet-dinh-chuc-vo-dich-ngoai-hang-anh-mua-nay-4748685.html) - 03:51 21/05/2024
