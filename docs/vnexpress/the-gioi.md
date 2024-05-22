@@ -13,7 +13,7 @@ sidebar_position: 2
 - 🌈 [Lính Israel đứng nhìn dân vứt gạo cứu trợ Gaza ra đường](https://vnexpress.net/linh-israel-dung-nhin-dan-vut-gao-cuu-tro-gaza-ra-duong-4749056.html) - 03:43 22/05/2024
 - 🧑‍🏫 [Mỹ có thể cung cấp công nghệ hạt nhân cho Arab Saudi](https://vnexpress.net/my-co-the-cung-cap-cong-nghe-hat-nhan-cho-arab-saudi-4749015.html) - 03:27 22/05/2024
 - 🐲 [Máy bay Singapore có thể đã gặp loại nhiễu động nguy hiểm nhất](https://vnexpress.net/may-bay-singapore-co-the-da-gap-loai-nhieu-dong-nguy-hiem-nhat-4749022.html) - 02:11 22/05/2024
-- 🦒 [Du khách Anh đang trong &#39;kỳ nghỉ mơ ước&#39; khi thiệt mạng trên máy bay Singapore](https://vnexpress.net/du-khach-anh-dang-trong-ky-nghi-mo-uoc-khi-thiet-mang-tren-may-bay-singapore-4749026.html) - 02:03 22/05/2024
+- 🦒 [Giám đốc nhóm kịch Anh thiệt mạng trên máy bay Singapore](https://vnexpress.net/giam-doc-nhom-kich-anh-thiet-mang-tren-may-bay-singapore-4749026.html) - 02:03 22/05/2024
 - 🐻 [Giây phút tên lửa Houthi bắn vỡ tan UAV 30 triệu USD Mỹ](https://vnexpress.net/giay-phut-ten-lua-houthi-ban-vo-tan-uav-30-trieu-usd-my-4749025.html) - 01:35 22/05/2024
 - 🚀 [Cơ quan LHQ ngừng phát lương thực ở Gaza](https://vnexpress.net/co-quan-lhq-ngung-phat-luong-thuc-o-gaza-4749007.html) - 01:01 22/05/2024
 - 🥰 [Ngoại trưởng Mỹ: &#39;Công tố viên ICC cản trở thỏa thuận đình chiến Gaza&#39;](https://vnexpress.net/ngoai-truong-my-cong-to-vien-icc-can-tro-thoa-thuan-dinh-chien-gaza-4749010.html) - 00:38 22/05/2024
