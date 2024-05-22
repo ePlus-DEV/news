@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nữ sinh trường chuyên học giỏi, lọt top 6 giải Cờ tướng trẻ thế giới](https://vnexpress.net/nu-sinh-truong-chuyen-hoc-gioi-lot-top-6-giai-co-tuong-tre-the-gioi-4749126.html) - 07:26 22/05/2024
+- 🤓 [Nữ sinh trường chuyên lọt top 6 giải Cờ tướng trẻ thế giới](https://vnexpress.net/nu-sinh-truong-chuyen-lot-top-6-giai-co-tuong-tre-the-gioi-4749126.html) - 07:26 22/05/2024
 - 🦆 [Thi lớp 6 trường Trần Đại Nghĩa vào ngày 4/7](https://vnexpress.net/thi-lop-6-truong-tran-dai-nghia-vao-ngay-4-7-4749076.html) - 02:50 22/05/2024
 - 🦩 [Đường du học ngành Vũ trụ của chàng trai Kiên Giang](https://vnexpress.net/duong-du-hoc-nganh-vu-tru-cua-chang-trai-kien-giang-4748297.html) - 22:55 21/05/2024
 - 🌮 [Nữ sinh lớp 7 bị bạn đánh tới tấp, lột quần áo](https://vnexpress.net/nu-sinh-lop-7-bi-ban-danh-toi-tap-lot-quan-ao-4748955.html) - 15:03 21/05/2024
@@ -35,7 +35,7 @@ sidebar_position: 7
 - 🌋 [Sai lầm khi phát âm &#39;chase&#39; và &#39;purchase&#39;](https://vnexpress.net/sai-lam-khi-phat-am-chase-va-purchase-4745785.html) - 07:39 18/05/2024
 - 🪜 [Nam sinh nghỉ học gần 2 năm được hỗ trợ rút học bạ](https://vnexpress.net/nam-sinh-nghi-hoc-gan-2-nam-duoc-ho-tro-rut-hoc-ba-4746736.html) - 05:26 18/05/2024
 - 🕴 [Bộ Giáo dục: Lương mới của giáo viên chắc chắn cao hơn cũ](https://vnexpress.net/bo-giao-duc-luong-moi-cua-giao-vien-chac-chan-cao-hon-cu-4747542.html) - 04:06 18/05/2024
-- 🎃 [Học sinh Việt lần đầu giành giải nhì thi Khoa học kỹ thuật quốc tế](https://vnexpress.net/hoc-sinh-viet-lan-dau-gianh-giai-nhi-thi-khoa-hoc-ky-thuat-quoc-te-4747561.html) - 01:36 18/05/2024
+- 🎃 [Học sinh Việt giành giải nhì thi Khoa học kỹ thuật quốc tế](https://vnexpress.net/hoc-sinh-viet-gianh-giai-nhi-thi-khoa-hoc-ky-thuat-quoc-te-4747561.html) - 01:36 18/05/2024
 - 🦏 [Cô gái mù học song bằng đại học](https://vnexpress.net/co-gai-mu-hoc-song-bang-dai-hoc-4746457.html) - 23:00 17/05/2024
 - 🧑‍🏫 [Trạng Bùng là ai?](https://vnexpress.net/trang-bung-la-ai-4747422.html) - 13:27 17/05/2024
 - 💡 [Đề xuất cấp chứng chỉ hành nghề để phân biệt &#39;giáo viên tự xưng&#39;](https://vnexpress.net/de-xuat-cap-chung-chi-hanh-nghe-de-phan-biet-giao-vien-tu-xung-4747384.html) - 10:27 17/05/2024
