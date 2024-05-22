@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Vòi rồng đánh bay tàu, ghe ở biển Khánh Hòa](https://vnexpress.net/voi-rong-danh-bay-tau-ghe-o-bien-khanh-hoa-4749425.html) - 17:09 22/05/2024
-- 🤓 [Tranh luận về đề xuất cấm vượt đèn vàng](https://vnexpress.net/tranh-luan-ve-de-xuat-cam-vuot-den-vang-4749409.html) - 17:00 22/05/2024
+- 🤓 [Kiến nghị xem xét lại quy định cấm vượt đèn vàng](https://vnexpress.net/kien-nghi-xem-xet-lai-quy-dinh-cam-vuot-den-vang-4749409.html) - 17:00 22/05/2024
 - ⚗️ [Đề xuất miễn bảo hiểm thất nghiệp cho người đóng trên 12 năm chưa nhận trợ cấp](https://vnexpress.net/de-xuat-mien-bao-hiem-that-nghiep-cho-nguoi-dong-tren-12-nam-chua-nhan-tro-cap-4749365.html) - 17:00 22/05/2024
 - 🌊 [Hồ sơ bệnh án của Ủy viên Bộ Chính trị là tối mật](https://vnexpress.net/ho-so-benh-an-cua-uy-vien-bo-chinh-tri-la-toi-mat-4749400.html) - 14:15 22/05/2024
 - 🎓 [Cháy lớn công ty băng keo ở Bình Dương](https://vnexpress.net/chay-lon-cong-ty-bang-keo-o-binh-duong-4749396.html) - 13:56 22/05/2024
