@@ -10,7 +10,7 @@ sidebar_position: 9
 - 🏊 [DNA của con người giống chuối tới 60% và những sự thật thú vị của đồ ăn &lpar;phần 2&rpar;](https://vnexpress.net/dna-cua-con-nguoi-giong-chuoi-toi-60-va-nhung-su-that-thu-vi-cua-do-an-phan-2-4749100.html) - 17:02 22/05/2024
 - 🎊 [Vụ án bàn chân trôi dạt trên sông hàng trăm cây số](https://vnexpress.net/vu-an-ban-chan-troi-dat-tren-song-hang-tram-cay-so-4749370.html) - 17:00 22/05/2024
 - 🎃 [Nắm đấm của phụ huynh](https://vnexpress.net/nam-dam-cua-phu-huynh-4749419.html) - 17:00 22/05/2024
-- 🧰 [Tranh luận về đề xuất cấm vượt đèn vàng](https://vnexpress.net/tranh-luan-ve-de-xuat-cam-vuot-den-vang-4749409.html) - 17:00 22/05/2024
+- 🧰 [Kiến nghị xem xét lại quy định cấm vượt đèn vàng](https://vnexpress.net/kien-nghi-xem-xet-lai-quy-dinh-cam-vuot-den-vang-4749409.html) - 17:00 22/05/2024
 - 🔭 [Mệt mỏi khi luôn phải đề phòng vợ](https://vnexpress.net/met-moi-khi-luon-phai-de-phong-vo-4749397.html) - 17:00 22/05/2024
 - 🫶 [Cựu giám đốc CDC Đồng Tháp được hưởng án treo](https://vnexpress.net/cuu-giam-doc-cdc-dong-thap-duoc-huong-an-treo-4749389.html) - 17:00 22/05/2024
 - 🪜 [Đề xuất miễn bảo hiểm thất nghiệp cho người đóng trên 12 năm chưa nhận trợ cấp](https://vnexpress.net/de-xuat-mien-bao-hiem-that-nghiep-cho-nguoi-dong-tren-12-nam-chua-nhan-tro-cap-4749365.html) - 17:00 22/05/2024
