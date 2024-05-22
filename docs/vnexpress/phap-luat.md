@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Giám đốc khu di tích Đền Hùng bị tạm giam](https://vnexpress.net/giam-doc-khu-di-tich-den-hung-bi-tam-giam-4749390.html) - 13:01 22/05/2024
+- 😎 [Giám đốc khu di tích Đền Hùng bị điều tra làm trái quy chế tài chính](https://vnexpress.net/giam-doc-khu-di-tich-den-hung-bi-dieu-tra-lam-trai-quy-che-tai-chinh-4749390.html) - 13:01 22/05/2024
 - 🥰 [Người đòi hơn 140 sim &#39;số đẹp&#39; thua kiện](https://vnexpress.net/nguoi-doi-hon-140-sim-so-dep-thua-kien-4749377.html) - 12:15 22/05/2024
 - 🎓 [Chồng bị bắt vì đánh vợ bằng vỏ chuối](https://vnexpress.net/chong-bi-bat-vi-danh-vo-bang-vo-chuoi-4749372.html) - 12:01 22/05/2024
 - 🤓 [Chiêu &#39;thuê thương binh&#39; đứng tên đất để được miễn giảm thuế phí](https://vnexpress.net/chieu-thue-thuong-binh-dung-ten-dat-de-duoc-mien-giam-thue-phi-4749268.html) - 11:50 22/05/2024
