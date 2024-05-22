@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [EVN phủ nhận đề nghị doanh nghiệp FDI giảm mức sử dụng điện](https://vnexpress.net/evn-phu-nhan-de-nghi-doanh-nghiep-fdi-giam-su-dung-dien-4749338.html) - 10:21 22/05/2024
+- ⛽️ [EVN phủ nhận đề nghị doanh nghiệp FDI giảm 30% mức dùng điện](https://vnexpress.net/evn-phu-nhan-de-nghi-doanh-nghiep-fdi-giam-su-dung-dien-4749338.html) - 10:21 22/05/2024
 - 🐲 [TH khởi công dự án 5.200 tỷ đồng tại Nga](https://vnexpress.net/th-khoi-cong-du-an-5-200-ty-dong-tai-nga-4749072.html) - 10:00 22/05/2024
 - 🔥 [Lần đầu tiên có quy định về tiền điện tử](https://vnexpress.net/chinh-thuc-co-quy-dinh-ve-tien-dien-tu-4749331.html) - 09:57 22/05/2024
 - 🐵 [Bluechip kéo thị trường giảm điểm](https://vnexpress.net/nhom-co-phieu-bluechip-khien-thi-truong-giam-diem-4749323.html) - 09:25 22/05/2024
