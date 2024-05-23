@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Tour du lịch Nga dự kiến nối lại từ tháng 9](https://vnexpress.net/tour-du-lich-nga-du-kien-noi-lai-tu-thang-9-4748980.html) - 00:09 23/05/2024
-- 🪄 [Lễ hội bánh mì đông khách, sức mua giảm](https://vnexpress.net/le-hoi-banh-mi-dong-khach-suc-mua-giam-4749286.html) - 17:09 22/05/2024
+- 🪄 [Lễ hội bánh mì đông khách, nhưng sức mua giảm](https://vnexpress.net/le-hoi-banh-mi-dong-khach-nhung-suc-mua-giam-4749286.html) - 17:09 22/05/2024
 - 🦅 [TP HCM phát miễn phí vé đại nhạc kịch Lễ hội sông nước](https://vnexpress.net/tp-hcm-phat-mien-phi-ve-dai-nhac-kich-le-hoi-song-nuoc-4749376.html) - 13:26 22/05/2024
 - 🕴 [Nhiều tour du lịch TP HCM giảm giá dịp Lễ hội sông nước](https://vnexpress.net/nhieu-tour-du-lich-tp-hcm-giam-gia-dip-le-hoi-song-nuoc-4749208.html) - 10:33 22/05/2024
 - 👀 [Bình Định bắn pháo hoa tầm cao mở màn mùa du lịch hè](https://vnexpress.net/binh-dinh-ban-phao-hoa-tam-cao-mo-man-mua-du-lich-he-4748942.html) - 08:35 22/05/2024
