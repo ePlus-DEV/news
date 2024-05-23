@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [&#39;Chưa có dấu hiệu đảo chiều chính sách tiền tệ&#39;](https://vnexpress.net/chua-co-dau-hieu-dao-chieu-chinh-sach-tien-te-4749828.html) - 12:27 23/05/2024
+- ⛽️ [&#39;Lãi suất tiết kiệm có thể tăng 0,5-1% vào nửa cuối năm&#39;](https://vnexpress.net/lai-suat-huy-dong-co-the-tang-them-0-5-1-nua-cuoi-nam-4749828.html) - 12:27 23/05/2024
 - 🐲 [Trung Quốc có thể tăng gần gấp đôi thuế nhập khẩu ôtô](https://vnexpress.net/trung-quoc-co-the-tang-gan-gap-doi-thue-nhap-khau-oto-4749699.html) - 12:00 23/05/2024
 - 🔥 [TikTok định sa thải hàng trăm nhân viên](https://vnexpress.net/tiktok-dinh-sa-thai-hang-tram-nhan-vien-4749718.html) - 10:30 23/05/2024
 - 🐵 [Chủ tịch Trung Nam Group bị hoãn xuất cảnh do nợ thuế](https://vnexpress.net/chu-tich-trung-nam-group-bi-hoan-xuat-canh-do-no-thue-4749777.html) - 09:32 23/05/2024
