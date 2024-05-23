@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Việt Nam không đồng tình với bình luận chưa đúng mực liên quan ông Hun Sen](https://vnexpress.net/viet-nam-khong-dong-tinh-voi-binh-luan-chua-dung-muc-lien-quan-ong-hun-sen-4749845.html) - 13:11 23/05/2024
+- 🎭 [Việt Nam không đồng tình với những bình luận kích động nhắm vào ông Hun Sen](https://vnexpress.net/viet-nam-khong-dong-tinh-voi-nhung-binh-luan-kich-dong-nham-vao-ong-hun-sen-4749845.html) - 13:11 23/05/2024
 - 🕴 [Nga tái chiếm thêm làng chiến lược gần Bakhmut](https://vnexpress.net/nga-tai-chiem-them-lang-chien-luoc-gan-bakhmut-4749818.html) - 12:09 23/05/2024
 - 🤭 [Cuộc chiến sau tiền tuyến của Nga - Ukraine](https://vnexpress.net/cuoc-chien-sau-tien-tuyen-cua-nga-ukraine-4748818.html) - 12:00 23/05/2024
 - 🧑‍💻 [Na Uy siết kiểm soát du khách Nga, Moskva dọa đáp trả](https://vnexpress.net/na-uy-siet-kiem-soat-du-khach-nga-moskva-doa-dap-tra-4749820.html) - 11:21 23/05/2024
