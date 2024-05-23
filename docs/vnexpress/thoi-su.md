@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cháy nhà trọ 5 tầng, 9 người chết](https://vnexpress.net/chay-nha-tro-5-tang-9-nguoi-chet-4749899.html) - 21:19 23/05/2024
+- 🦒 [Cháy nhà trọ 5 tầng ở Trung Kính Hà Nội, 9 người chết](https://vnexpress.net/chay-nha-tro-5-tang-9-nguoi-chet-4749899.html) - 21:19 23/05/2024
 - 🤓 [Cao tốc Cam Lâm – Vĩnh Hảo thu phí từ ngày 28/5](https://vnexpress.net/cao-toc-cam-lam-vinh-hao-thu-phi-tu-ngay-28-5-4749822.html) - 17:00 23/05/2024
 - ⚗️ [Hậu Giang xây cầu 1.600 tỷ đồng kết nối Cần Thơ, Kiên Giang](https://vnexpress.net/hau-giang-xay-cau-1-600-ty-dong-ket-noi-can-tho-kien-giang-4749686.html) - 17:00 23/05/2024
 - 🌊 [Quốc hội chốt bốn nhóm vấn đề chất vấn](https://vnexpress.net/quoc-hoi-chot-bon-nhom-van-de-chat-van-4749843.html) - 12:59 23/05/2024
