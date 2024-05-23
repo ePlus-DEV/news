@@ -273,7 +273,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🔭 [AIA Việt Nam hợp tác chiến lược với UEH: “Nâng bước thành công&quot; cho thế hệ tương lai](https://nld.com.vn/aia-viet-nam-hop-tac-chien-luoc-voi-ueh-nang-buoc-thanh-cong-cho-the-he-tuong-lai-196240523142846334.htm) - 08:50 23/05/2024
 - 🌝 [Bà Rịa- Vũng Tàu kiểm tra hàng chục cơ sở kinh doanh vàng](https://nld.com.vn/ba-ria-vung-tau-kiem-tra-hang-chuc-co-so-kinh-doanh-vang-196240523152147184.htm) - 08:45 23/05/2024
 - 💪 [Nga bắt giữ Trung tướng Vadim Shamarin](https://nld.com.vn/nga-bat-giu-trung-tuong-vadim-shamarin-196240523153616098.htm) - 08:43 23/05/2024
-- 🦍 [Công bố Quyết định thanh tra hoạt động kinh doanh vàng](https://nld.com.vn/cong-bo-quyet-dinh-thanh-tra-hoat-dong-kinh-doanh-vang-196240523153352087.htm) - 08:37 23/05/2024
+- 🦍 [Chính thức thanh tra hoạt động kinh doanh vàng](https://nld.com.vn/cong-bo-quyet-dinh-thanh-tra-hoat-dong-kinh-doanh-vang-196240523153352087.htm) - 08:37 23/05/2024
 - 🥷 [Bắt giam thợ hàn trong vụ cháy 11 tàu cá ở TP Phan Thiết](https://nld.com.vn/bat-giam-tho-han-trong-vu-chay-11-tau-ca-o-tp-phan-thiet-196240523151930183.htm) - 08:35 23/05/2024
 - 🫶 [CLIP: Xót xa vườn sầu riêng chi chít trái bị đầu độc](https://nld.com.vn/clip-xot-xa-vuon-sau-rieng-chi-chit-trai-bi-dau-doc-196240523144449677.htm) - 08:33 23/05/2024
 - 🐻 [Cơ quan An ninh điều tra Bộ Công an truy tìm ông Đặng Tất Thắng](https://nld.com.vn/co-quan-an-ninh-dieu-tra-bo-cong-an-truy-tim-ong-dang-tat-thang-196240523152403994.htm) - 08:27 23/05/2024
