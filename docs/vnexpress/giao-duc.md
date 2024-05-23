@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [139 học sinh được miễn thi tốt nghiệp và tuyển thẳng đại học 2024](https://vnexpress.net/139-hoc-sinh-duoc-mien-thi-tot-nghiep-va-tuyen-thang-dai-hoc-2024-4749413.html) - 23:16 22/05/2024
-- 🦆 [Nước mắt trong ngày chia tay tuổi học trò](https://video.vnexpress.net/nuoc-mat-trong-ngay-chia-tay-tuoi-hoc-tro-4749394.html) - 15:40 22/05/2024
+- 🦆 [Nước mắt ngày chia tay tuổi học trò](https://video.vnexpress.net/nuoc-mat-ngay-chia-tay-tuoi-hoc-tro-4749394.html) - 15:40 22/05/2024
 - 🦩 [Trường học thưởng vàng cho học sinh xuất sắc](https://vnexpress.net/truong-hoc-thuong-vang-cho-hoc-sinh-xuat-sac-4749406.html) - 15:08 22/05/2024
 - 🌮 [Tỉnh nào có nhiều tiến sĩ nhất lịch sử khoa bảng Việt Nam?](https://vnexpress.net/tinh-nao-co-nhieu-tien-si-nhat-lich-su-khoa-bang-viet-nam-4749356.html) - 13:00 22/05/2024
 - 🔭 [20 từ vựng IELTS về &#39;climate change&#39;](https://vnexpress.net/20-tu-vung-ielts-ve-climate-change-4742918.html) - 10:03 22/05/2024
