@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Vụ án bàn chân trôi dạt trên sông hàng trăm cây số](https://vnexpress.net/vu-an-ban-chan-troi-dat-tren-song-hang-tram-cay-so-4749370.html) - 17:00 22/05/2024
 - 🥰 [Cựu giám đốc CDC Đồng Tháp được hưởng án treo](https://vnexpress.net/cuu-giam-doc-cdc-dong-thap-duoc-huong-an-treo-4749389.html) - 17:00 22/05/2024
 - 🎓 [Nữ giám đốc bị cáo buộc chiếm đoạt hơn 30 tỷ đồng](https://vnexpress.net/nu-giam-doc-bi-cao-buoc-chiem-doat-hon-30-ty-dong-4749260.html) - 17:00 22/05/2024
-- 🤓 [Cổ đông được can thiệp mức nào với dòng tiền doanh nghiệp?](https://vnexpress.net/co-dong-duoc-can-thiep-muc-nao-voi-dong-tien-doanh-nghiep-4748154.html) - 17:00 22/05/2024
+- 🤓 [Cổ đông được can thiệp mức nào với báo cáo tài chính doanh nghiệp?](https://vnexpress.net/co-dong-duoc-can-thiep-muc-nao-voi-bao-cao-tai-chinh-doanh-nghiep-4748154.html) - 17:00 22/05/2024
 - 🎊 [Giám đốc khu di tích Đền Hùng bị điều tra làm trái quy chế tài chính](https://vnexpress.net/giam-doc-khu-di-tich-den-hung-bi-dieu-tra-lam-trai-quy-che-tai-chinh-4749390.html) - 13:01 22/05/2024
 - 🙉 [Người đòi hơn 140 sim &#39;số đẹp&#39; thua kiện](https://vnexpress.net/nguoi-doi-hon-140-sim-so-dep-thua-kien-4749377.html) - 12:15 22/05/2024
 - 🤡 [Chồng bị bắt vì đánh vợ bằng vỏ chuối](https://vnexpress.net/chong-bi-bat-vi-danh-vo-bang-vo-chuoi-4749372.html) - 12:01 22/05/2024
