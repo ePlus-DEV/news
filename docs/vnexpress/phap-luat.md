@@ -10,7 +10,7 @@ sidebar_position: 12
 - 🤓 [Thợ hàn gây cháy 11 tàu cá bị bắt](https://vnexpress.net/tho-han-gay-chay-11-tau-ca-bi-bat-4749727.html) - 09:19 23/05/2024
 - 🎊 [Tạt axit khiến một người tử vong, nhiều người nhập viện](https://vnexpress.net/tat-axit-khien-mot-nguoi-tu-vong-nhieu-nguoi-nhap-vien-4749741.html) - 08:47 23/05/2024
 - 🙉 [Bị truy nã quốc tế vì lừa 600 triệu đồng &#39;chạy&#39; biên chế công an](https://vnexpress.net/bi-truy-na-quoc-te-vi-lua-600-trieu-dong-chay-bien-che-cong-an-4749666.html) - 07:53 23/05/2024
-- 🤡 [Nữ DJ và người tình liên tiếp đột nhập nhà dân ở Sài Gòn](https://vnexpress.net/nu-dj-va-nguoi-tinh-lien-tiep-dot-nhap-nha-dan-o-sai-gon-4749643.html) - 07:20 23/05/2024
+- 🤡 [Nữ DJ và người tình liên tiếp đột nhập nhà dân](https://vnexpress.net/nu-dj-va-nguoi-tinh-lien-tiep-dot-nhap-nha-dan-4749643.html) - 07:20 23/05/2024
 - 🗽 [Lời khai của nghi phạm sát hại cô gái phi tang xác trong valy](https://vnexpress.net/loi-khai-cua-nghi-pham-sat-hai-co-gai-phi-tang-xac-trong-valy-4749654.html) - 06:50 23/05/2024
 - 🌋 [Quản lý nhà hàng đặt ký hiệu cho tiếp viên bán dâm](https://vnexpress.net/quan-ly-nha-hang-dat-ky-hieu-cho-tiep-vien-ban-dam-4749641.html) - 06:31 23/05/2024
 - 🎬 [Cựu bí thư Tỉnh ủy Lào Cai bị đề nghị 5-6 năm tù](https://vnexpress.net/cuu-bi-thu-tinh-uy-lao-cai-bi-de-nghi-5-6-nam-tu-4749570.html) - 05:20 23/05/2024
