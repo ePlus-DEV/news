@@ -7,7 +7,7 @@ sidebar_position: 9
 - 🎬 [Nguyên Cục trưởng Điện lực và Năng lượng tái tạo bị bắt](https://vnexpress.net/nguyen-cuc-truong-dien-luc-va-nang-luong-tai-tao-phuong-hoang-kim-bi-bat-4749858.html) - 13:41 23/05/2024
 - 🐎 [&#39;Ác mộng&#39; con nghỉ hè](https://vnexpress.net/ac-mong-con-nghi-he-4749805.html) - 13:30 23/05/2024
 - 🦍 [1.963 tỷ đồng vay mượn, mua vật tư y tế chống Covid-19 chưa được hoàn trả](https://vnexpress.net/1-963-ty-dong-vay-muon-mua-vat-tu-y-te-chong-covid-19-chua-duoc-hoan-tra-4749851.html) - 13:23 23/05/2024
-- 🏊 [Việt Nam không đồng tình với bình luận chưa đúng mực liên quan ông Hun Sen](https://vnexpress.net/viet-nam-khong-dong-tinh-voi-binh-luan-chua-dung-muc-lien-quan-ong-hun-sen-4749845.html) - 13:11 23/05/2024
+- 🏊 [Việt Nam không đồng tình với những bình luận kích động nhắm vào ông Hun Sen](https://vnexpress.net/viet-nam-khong-dong-tinh-voi-nhung-binh-luan-kich-dong-nham-vao-ong-hun-sen-4749845.html) - 13:11 23/05/2024
 - 🎊 [Sắc vóc tân Hoa hậu Hoàn vũ Philippines](https://vnexpress.net/sac-voc-tan-hoa-hau-hoan-vu-philippines-4749695.html) - 13:04 23/05/2024
 - 🎃 [Thủ đô nào có tên ngắn nhất ở Đông Nam Á?](https://vnexpress.net/thu-do-nao-co-ten-ngan-nhat-o-dong-nam-a-4749783.html) - 13:00 23/05/2024
 - 🧰 [Nai lưng trả nợ cờ bạc cho chồng vẫn bị quở trách](https://vnexpress.net/nai-lung-tra-no-co-bac-cho-chong-van-bi-quo-trach-4748582.html) - 13:00 23/05/2024
