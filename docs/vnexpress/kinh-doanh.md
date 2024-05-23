@@ -31,7 +31,7 @@ sidebar_position: 3
 - 🗽 [Hoa tăng giá gấp đôi trong ngày lễ Phật Đản](https://vnexpress.net/hoa-tang-gia-gap-doi-trong-ngay-le-phat-dan-4749153.html) - 05:03 22/05/2024
 - 🚀 [Quan chức Fed kêu gọi kiên nhẫn chờ giảm lãi](https://vnexpress.net/quan-chuc-fed-keu-goi-kien-nhan-cho-giam-lai-4749128.html) - 04:57 22/05/2024
 - 🤗 [Con trai Bầu Hiển mua 25% cổ phiếu SHB đăng ký](https://vnexpress.net/con-trai-bau-hien-mua-25-co-phieu-shb-dang-ky-4749175.html) - 04:47 22/05/2024
-- 🌜 [Lợi nhuận chủ đầu tư Sun World Phú Quốc giảm mạnh](https://vnexpress.net/loi-nhuan-chu-dau-tu-sun-world-phu-quoc-giam-manh-4749093.html) - 03:35 22/05/2024
+- 🌜 [Lợi nhuận chủ đầu tư Sun World Phú Quốc giảm](https://vnexpress.net/loi-nhuan-chu-dau-tu-sun-world-phu-quoc-giam-4749093.html) - 03:35 22/05/2024
 - 👍 [Tỷ phú Ấn Độ: &#39;FPT đóng góp đáng kể cho tăng trưởng của Việt Nam&#39;](https://vnexpress.net/ty-phu-an-do-fpt-dong-gop-dang-ke-cho-tang-truong-cua-viet-nam-4749070.html) - 03:00 22/05/2024
 - 🤖 [Nợ khó đòi ám ảnh doanh nghiệp](https://vnexpress.net/no-kho-doi-am-anh-doanh-nghiep-4748459.html) - 23:00 21/05/2024
 - 🫣 [Mỹ muốn châu Âu hợp tác chống hàng dư thừa từ Trung Quốc](https://vnexpress.net/my-muon-chau-au-hop-tac-chong-hang-du-thua-tu-trung-quoc-4748949.html) - 21:00 21/05/2024
