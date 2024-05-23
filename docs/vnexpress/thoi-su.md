@@ -11,7 +11,7 @@ sidebar_position: 1
 - 🎓 [Đề xuất miễn bảo hiểm thất nghiệp cho người đóng trên 12 năm chưa nhận trợ cấp](https://vnexpress.net/de-xuat-mien-bao-hiem-that-nghiep-cho-nguoi-dong-tren-12-nam-chua-nhan-tro-cap-4749365.html) - 17:00 22/05/2024
 - 🔥 [Hồ sơ bệnh án của Ủy viên Bộ Chính trị là tối mật](https://vnexpress.net/ho-so-benh-an-cua-uy-vien-bo-chinh-tri-la-toi-mat-4749400.html) - 14:15 22/05/2024
 - 🦏 [Cháy lớn công ty băng keo ở Bình Dương](https://vnexpress.net/chay-lon-cong-ty-bang-keo-o-binh-duong-4749396.html) - 13:56 22/05/2024
-- 👺 [Thi công dự án bất động sản gây lũ cát ở Mũi Né](https://vnexpress.net/thi-cong-du-an-bat-dong-san-gay-lu-cat-o-mui-ne-4749359.html) - 13:45 22/05/2024
+- 👺 [Quá trình thi công dự án bất động sản gây lũ cát ở Mũi Né](https://vnexpress.net/qua-trinh-thi-cong-du-an-bat-dong-san-gay-lu-cat-o-mui-ne-4749359.html) - 13:45 22/05/2024
 - 🧑‍🏫 [Khoan đèo thăm dò địa chất để gia cố hầm đường sắt ở Phú Yên](https://vnexpress.net/khoan-deo-tham-do-dia-chat-de-gia-co-ham-duong-sat-o-phu-yen-4749380.html) - 12:21 22/05/2024
 - 🚦 [Đề xuất thống nhất mức phí cấp biển số xe trên toàn quốc](https://vnexpress.net/de-xuat-thong-nhat-muc-phi-cap-bien-so-xe-tren-toan-quoc-4749320.html) - 11:19 22/05/2024
 - 🎉 [Đề nghị thiết kế phương án xử lý &#39;nồng độ cồn nội sinh&#39;](https://vnexpress.net/de-nghi-thiet-ke-phuong-an-xu-ly-nong-do-con-noi-sinh-4749341.html) - 10:53 22/05/2024
