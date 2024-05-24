@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Trường đại học cảnh báo sinh viên học hộ, thi hộ](https://vnexpress.net/truong-dai-hoc-canh-bao-sinh-vien-hoc-ho-thi-ho-4750010.html) - 04:13 24/05/2024
+- 🤓 [Trường đại học phát hiện gần 20 sinh viên nhờ học hộ, thi hộ](https://vnexpress.net/truong-dai-hoc-phat-hien-gan-20-sinh-vien-nho-hoc-ho-thi-ho-4750010.html) - 04:13 24/05/2024
 - 🦆 [HCMUTE tuyển sinh hệ đại học từ xa](https://vnexpress.net/hcmute-tuyen-sinh-he-dai-hoc-tu-xa-4749791.html) - 04:00 24/05/2024
 - 🦩 [Trại hè trăm triệu đồng hấp dẫn phụ huynh](https://vnexpress.net/trai-he-tram-trieu-dong-hap-dan-phu-huynh-4745527.html) - 02:38 24/05/2024
 - 🌮 [Hà Nội có 23 trường chất lượng cao](https://vnexpress.net/ha-noi-co-23-truong-chat-luong-cao-4749867.html) - 00:39 24/05/2024
