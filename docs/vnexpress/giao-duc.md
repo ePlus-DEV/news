@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nữ sinh Việt giành giải luận văn xuất sắc của Harvard](https://vnexpress.net/nu-sinh-viet-gianh-giai-luan-van-xuat-sac-cua-harvard-4750044.html) - 13:55 24/05/2024
+- 🤓 [Nữ sinh Việt giành giải luận văn xuất sắc của Đại học Harvard](https://vnexpress.net/nu-sinh-viet-gianh-giai-luan-van-xuat-sac-cua-dai-hoc-harvard-4750044.html) - 13:55 24/05/2024
 - 🦆 [Nhà máy dệt in trên tờ tiền 2.000 đồng ở tỉnh nào?](https://vnexpress.net/nha-may-det-in-tren-to-tien-2-000-dong-o-tinh-nao-4750234.html) - 13:00 24/05/2024
 - 🦩 [Hiệu trưởng đề nghị sinh viên nghĩ về bố mẹ trong lễ tốt nghiệp](https://vnexpress.net/hieu-truong-de-nghi-sinh-vien-nghi-ve-bo-me-trong-le-tot-nghiep-4750089.html) - 11:14 24/05/2024
 - 🌮 [Học sinh chuyên Ngữ &#39;hóa&#39; kỹ sư, bảo vệ trong ngày học cuối](https://vnexpress.net/hoc-sinh-chuyen-ngu-hoa-ky-su-bao-ve-trong-ngay-hoc-cuoi-4750077.html) - 07:36 24/05/2024
