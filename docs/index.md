@@ -250,7 +250,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Tổ liên gia PCCC ở Bình Dương dập tắt vụ cháy có 7 người ở căn nhà 3 tầng](https://nld.com.vn/to-lien-gia-pccc-o-binh-duong-dap-tat-vu-chay-co-7-nguoi-o-can-nha-3-tang-196240524211237271.htm) - 14:21 24/05/2024
-- 😺 [Cựu chủ tịch Tập đoàn Cao su Lê Quang Thung bị bắt](https://nld.com.vn/cuu-chu-tich-tap-doan-cao-su-le-quang-thung-bi-bat-19624052421015486.htm) - 14:06 24/05/2024
+- 😺 [Cựu tổng giám đốc Tập đoàn Cao su Lê Quang Thung bị bắt](https://nld.com.vn/cuu-chu-tich-tap-doan-cao-su-le-quang-thung-bi-bat-19624052421015486.htm) - 14:06 24/05/2024
 - 👍 [Máy điều hòa phát nổ khiến nhóm công nhân bị thương](https://nld.com.vn/may-dieu-hoa-phat-no-khien-nhom-cong-nhan-bi-thuong-196240524203934508.htm) - 14:00 24/05/2024
 - 🥷 [Chủ tịch Triều Tiên, Cuba… chúc mừng Chủ tịch nước Tô Lâm](https://nld.com.vn/chu-tich-trieu-tien-cuba-chuc-mung-chu-tich-nuoc-to-lam-196240524204905721.htm) - 13:56 24/05/2024
 - 🤔 [Chủ tịch nước Tô Lâm lý giải việc cần thiết phải quy định dao là vũ khí sát thương](https://nld.com.vn/chu-tich-nuoc-to-lam-ly-giai-viec-can-thiet-phai-quy-dinh-dao-la-vu-khi-sat-thuong-196240524185249227.htm) - 13:53 24/05/2024
