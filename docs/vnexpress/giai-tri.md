@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Mộc bản chùa Dâu - tư liệu quý về lịch sử Phật giáo Việt Nam](https://vnexpress.net/moc-ban-chua-dau-tu-lieu-quy-ve-lich-su-phat-giao-viet-nam-4748200.html) - 04:21 24/05/2024
-- 💫 [Fan nói sốc khi xem phim về Celine Dion](https://vnexpress.net/fan-noi-soc-khi-xem-phim-ve-celine-dion-4750024.html) - 04:11 24/05/2024
-- 🌮 [Cher e ấp bên người tình kém 40 tuổi](https://vnexpress.net/cher-e-ap-ben-nguoi-tinh-kem-40-tuoi-4749993.html) - 03:47 24/05/2024
-- 🧠 [Hai tranh của họa sĩ Thang Trần Phềnh đạt gần một triệu euro](https://vnexpress.net/hai-tranh-cua-hoa-si-thang-tran-phenh-dat-gan-mot-trieu-euro-4749975.html) - 03:29 24/05/2024
-- 👨‍🏫 [Biệt thự 600 m2 của Phan Thị Mơ](https://vnexpress.net/biet-thu-600-m2-cua-phan-thi-mo-4749750.html) - 03:21 24/05/2024
-- ⚗️ [Từ Hy Viên trách mẹ chồng cũ](https://vnexpress.net/tu-hy-vien-trach-me-chong-cu-4749992.html) - 03:00 24/05/2024
-- 😎 [Diễn viên Sam lấy lại vóc dáng sau sinh đôi](https://vnexpress.net/dien-vien-sam-lay-lai-voc-dang-sau-sinh-doi-4749566.html) - 00:54 24/05/2024
-- 🫣 [Đàn đá Khánh Sơn - bảo vật hơn 2.000 năm](https://vnexpress.net/dan-da-khanh-son-bao-vat-hon-2-000-nam-4746749.html) - 17:00 23/05/2024
-- 🪄 [&#39;TP HCM thiếu hạ tầng để nghệ sĩ quốc tế biểu diễn&#39;](https://vnexpress.net/tp-hcm-thieu-ha-tang-de-nghe-si-quoc-te-bieu-dien-4749485.html) - 14:36 23/05/2024
-- 🤓 [Chi Pu ra MV tiếng Trung đầu tay](https://vnexpress.net/chi-pu-ra-mv-tieng-trung-dau-tay-4749806.html) - 14:09 23/05/2024
-- 🫶 [Sắc vóc tân Hoa hậu Hoàn vũ Philippines](https://vnexpress.net/sac-voc-tan-hoa-hau-hoan-vu-philippines-4749695.html) - 13:04 23/05/2024
-- 🧑‍🏫 [Cannes ngày chín: Người đẹp bạch biến tôn đường cong với váy nịt ngực](https://vnexpress.net/cannes-ngay-chin-nguoi-dep-bach-bien-ton-duong-cong-voi-vay-nit-nguc-4749814.html) - 11:30 23/05/2024
-- 🦄 [Hợp đồng bảo mật - tranh cãi mới trong vụ kiện của Jolie-Pitt](https://vnexpress.net/hop-dong-bao-mat-tranh-cai-moi-trong-vu-kien-cua-jolie-pitt-4749510.html) - 10:24 23/05/2024
-- 💫 [Trắc nghiệm về tác phẩm văn học kinh điển](https://vnexpress.net/trac-nghiem-ve-tac-pham-van-hoc-kinh-dien-4749694.html) - 09:09 23/05/2024
-- 🎊 [Tài tử 71 tuổi xin lỗi vì ngoại tình](https://vnexpress.net/tai-tu-71-tuoi-xin-loi-vi-ngoai-tinh-4749725.html) - 09:08 23/05/2024
-- 👹 [&#39;Ngọc nữ&#39; Nhật Bản tin chồng không ngoại tình](https://vnexpress.net/ngoc-nu-nhat-ban-tin-chong-khong-ngoai-tinh-4749648.html) - 07:11 23/05/2024
-- 💻 [Nghệ sĩ Mạnh Dung tham gia show kể lịch sử TP HCM](https://vnexpress.net/nghe-si-manh-dung-tham-gia-show-ke-lich-su-tp-hcm-4749555.html) - 06:55 23/05/2024
-- 🤡 [Phim con gái Trần Anh Hùng đóng được khen](https://vnexpress.net/phim-con-gai-tran-anh-hung-dong-duoc-khen-4749496.html) - 04:27 23/05/2024
-- 🥰 [Dianka, Bùi Tiến Dũng kỷ niệm hai năm cưới](https://vnexpress.net/dianka-bui-tien-dung-ky-niem-hai-nam-cuoi-4749529.html) - 03:35 23/05/2024
-- 🚀 [Đặng Thái Sơn và học trò về nước làm concert](https://vnexpress.net/dang-thai-son-va-hoc-tro-ve-nuoc-lam-concert-4749422.html) - 03:23 23/05/2024
-- 📝 [Tranh Vương phi Kate Middleton gây xôn xao](https://vnexpress.net/tranh-vuong-phi-kate-middleton-gay-xon-xao-4749500.html) - 03:04 23/05/2024
-- 🐲 [Con gái Đào Anh Khánh triển lãm tranh trừu tượng](https://vnexpress.net/con-gai-dao-anh-khanh-trien-lam-tranh-truu-tuong-4748865.html) - 02:55 23/05/2024
-- 🎃 [Con gái Trần Anh Hùng khoe sắc trên thảm đỏ Cannes](https://vnexpress.net/con-gai-tran-anh-hung-khoe-sac-tren-tham-do-cannes-4749443.html) - 00:57 23/05/2024
-- 🤠 [Kha Ly: &#39;Tôi chờ đợi tám năm mới có con&#39;](https://vnexpress.net/kha-ly-toi-cho-doi-tam-nam-moi-co-con-4749299.html) - 17:00 22/05/2024
-- 🎭 [Á hậu Hàn Quốc nói về &#39;cô đơn trong hôn nhân&#39;](https://vnexpress.net/a-hau-han-quoc-noi-ve-co-don-trong-hon-nhan-4747715.html) - 15:23 22/05/2024
-- 🧰 [Nhan sắc &#39;Thiên thần nội y&#39; Thái Lan gây sốt](https://vnexpress.net/nhan-sac-thien-than-noi-y-thai-lan-gay-sot-4747949.html) - 13:30 22/05/2024
-- 🦍 [Cannes ngày tám: Hoa hậu Pia Wurtzbach diện váy lưới khoe nội y](https://vnexpress.net/cannes-ngay-tam-hoa-hau-pia-wurtzbach-dien-vay-luoi-khoe-noi-y-4749354.html) - 12:00 22/05/2024
-- 🌝 [Trang phục trong &#39;Sex and the City&#39; bản mới gây chú ý](https://vnexpress.net/trang-phuc-trong-sex-and-the-city-ban-moi-gay-chu-y-4749150.html) - 09:32 22/05/2024
-- 🧑‍💻 [Đạo diễn &#39;Ma làng&#39; qua đời](https://vnexpress.net/dao-dien-ma-lang-qua-doi-4749266.html) - 07:53 22/05/2024
-- 🥸 [Thanh Hằng và dàn mỹ nhân trình diễn đầm chất liệu tái chế](https://vnexpress.net/thanh-hang-va-dan-my-nhan-trinh-dien-dam-chat-lieu-tai-che-4749176.html) - 07:33 22/05/2024
-- 🔥 [Sách của tác giả Việt phát hành ở Trung Quốc](https://vnexpress.net/sach-cua-tac-gia-viet-phat-hanh-o-trung-quoc-4748723.html) - 07:12 22/05/2024
-- 🐎 [Meryl Streep - &#39;báu vật điện ảnh&#39;](https://vnexpress.net/meryl-streep-bau-vat-dien-anh-4746337.html) - 06:30 22/05/2024
-- 😎 [Nhã Phương mặc đơn sắc tôn dáng sau sinh](https://vnexpress.net/nha-phuong-mac-don-sac-ton-dang-sau-sinh-4748664.html) - 04:38 22/05/2024
-- 🦄 [Phim Gary Oldman được vỗ tay gần 10 phút tại Cannes](https://vnexpress.net/phim-gary-oldman-duoc-vo-tay-gan-10-phut-tai-cannes-4749036.html) - 04:07 22/05/2024
-- 🌜 [Lưu Diệc Phi diện váy &#39;sương đọng trên hoa&#39;](https://vnexpress.net/luu-diec-phi-dien-vay-suong-dong-tren-hoa-4749050.html) - 02:42 22/05/2024
-- 🚦 [Thú chơi xe phân khối lớn của Phan Hiển](https://vnexpress.net/thu-choi-xe-phan-khoi-lon-cua-phan-hien-4748749.html) - 17:00 21/05/2024
-- 🧐 [&#39;Lật mặt 7&#39; vào top ba phim Việt ăn khách nhất](https://vnexpress.net/lat-mat-7-vao-top-ba-phim-viet-an-khach-nhat-4748679.html) - 16:18 21/05/2024
-- 🐵 [Cựu danh thủ Hồng Sơn thi hát](https://vnexpress.net/cuu-danh-thu-hong-son-thi-hat-4748961.html) - 14:44 21/05/2024
-- ⚗️ [Váy sequin &#39;càn quét&#39; thảm đỏ Cannes](https://vnexpress.net/vay-sequin-can-quet-tham-do-cannes-4748230.html) - 13:32 21/05/2024
-- 👺 [Cannes ngày bảy: Dàn mỹ nhân khuynh đảo với đầm xuyên thấu](https://vnexpress.net/cannes-ngay-bay-dan-my-nhan-khuynh-dao-voi-dam-xuyen-thau-4748883.html) - 12:30 21/05/2024
-- 🌊 [Phim về Donald Trump gây tranh cãi ở Cannes](https://vnexpress.net/phim-ve-donald-trump-gay-tranh-cai-o-cannes-4748764.html) - 11:30 21/05/2024
-- 🪜 [Dàn mỹ nhân khoe sắc với trang sức Swarovski](https://vnexpress.net/dan-my-nhan-khoe-sac-voi-trang-suc-swarovski-4748413.html) - 11:00 21/05/2024
-- 🕴 [Đồng nghiệp, bạn bè tưởng niệm Đức Tiến](https://vnexpress.net/dong-nghiep-ban-be-tuong-niem-duc-tien-4748844.html) - 10:03 21/05/2024
-- 💃 [Hiếu nghĩa trong tiểu thuyết Hồ Biểu Chánh](https://vnexpress.net/hieu-nghia-trong-tieu-thuyet-ho-bieu-chanh-4746991.html) - 09:36 21/05/2024
-- 🦄 [Phương Oanh, Shark Bình mở tiệc đón con song sinh](https://vnexpress.net/phuong-oanh-shark-binh-mo-tiec-don-con-song-sinh-4748835.html) - 08:59 21/05/2024
-- ⛽️ [&#39;Đại hiệp&#39; Khương Đại Vệ kỷ niệm 50 năm kết hôn](https://vnexpress.net/dai-hiep-khuong-dai-ve-ky-niem-50-nam-ket-hon-4748769.html) - 07:52 21/05/2024
-- 😎 [Nhóm nhạc &#39;Chị đẹp&#39; ra MV](https://vnexpress.net/nhom-nhac-chi-dep-ra-mv-4748470.html) - 07:11 21/05/2024
-- 🌊 [Đồng nghiệp tưởng nhớ Đức Tiến ở Cannes](https://vnexpress.net/dong-nghiep-tuong-nho-duc-tien-o-cannes-4748720.html) - 04:58 21/05/2024
-- 🐲 [Loạt tranh chục triệu USD của Claude Monet](https://vnexpress.net/loat-tranh-chuc-trieu-usd-cua-claude-monet-4748407.html) - 04:27 21/05/2024
-- 💂 [Bella Hadid diện mốt không nội y ở Cannes](https://vnexpress.net/bella-hadid-dien-mot-khong-noi-y-o-cannes-4748615.html) - 03:13 21/05/2024
-- 🙉 [Jason Momoa hẹn hò](https://vnexpress.net/jason-momoa-hen-ho-4748585.html) - 03:03 21/05/2024
-- 💪 [Lưu Diệc Phi theo mốt áo nịt ngực](https://vnexpress.net/luu-diec-phi-theo-mot-ao-nit-nguc-4748609.html) - 02:47 21/05/2024
-- 👍 [Tuấn Hưng: &#39;Tôi bớt ngang tàng nhờ vợ con&#39;](https://vnexpress.net/tuan-hung-toi-bot-ngang-tang-nho-vo-con-4747790.html) - 17:00 20/05/2024
-- 💪 [Mẹ Đức Tiến: &#39;Mong sang Mỹ nhìn mặt con lần cuối&#39;](https://vnexpress.net/me-duc-tien-mong-sang-my-nhin-mat-con-lan-cuoi-4748366.html) - 12:03 20/05/2024
-- 💄 [Cannes ngày sáu: Tình cũ Leonardo DiCaprio diện đầm cắt xẻ](https://vnexpress.net/cannes-ngay-sau-tinh-cu-leonardo-dicaprio-dien-dam-cat-xe-4748418.html) - 11:30 20/05/2024
-- 🦩 [Những ngày cuối đời của diễn viên Đức Tiến](https://vnexpress.net/nhung-ngay-cuoi-doi-cua-dien-vien-duc-tien-4748121.html) - 09:54 20/05/2024
-- 🥸 [Chồng cũ Chương Tử Di có bạn gái](https://vnexpress.net/chong-cu-chuong-tu-di-co-ban-gai-4748361.html) - 09:45 20/05/2024
-- 🧰 [Bia mộ huyền thoại nhạc Hong Kong bị đập phá](https://vnexpress.net/bia-mo-huyen-thoai-nhac-hong-kong-bi-dap-pha-4748079.html) - 03:16 20/05/2024
-- 💼 [Vợ diễn viên Đức Tiến: &#39;Kiếp sau em sẽ tìm anh&#39;](https://vnexpress.net/vo-dien-vien-duc-tien-kiep-sau-em-se-tim-anh-4748045.html) - 02:20 20/05/2024
-- 🧑‍💻 [Lý Nhã Kỳ thử kiểu tóc ngắn](https://vnexpress.net/ly-nha-ky-thu-kieu-toc-ngan-4747840.html) - 02:09 20/05/2024<!-- vnexpress-giai-tri:END -->
+- 🌏 [Sao Đài Loan nhận án tù vì sàm sỡ nhân viên nữ](https://vnexpress.net/sao-dai-loan-nhan-an-tu-vi-sam-so-nhan-vien-nu-4750034.html) - 04:28 24/05/2024
+- 💫 [Mộc bản chùa Dâu - tư liệu quý về lịch sử Phật giáo Việt Nam](https://vnexpress.net/moc-ban-chua-dau-tu-lieu-quy-ve-lich-su-phat-giao-viet-nam-4748200.html) - 04:21 24/05/2024
+- 🌮 [Fan nói sốc khi xem phim về Celine Dion](https://vnexpress.net/fan-noi-soc-khi-xem-phim-ve-celine-dion-4750024.html) - 04:11 24/05/2024
+- 🧠 [Cher e ấp bên người tình kém 40 tuổi](https://vnexpress.net/cher-e-ap-ben-nguoi-tinh-kem-40-tuoi-4749993.html) - 03:47 24/05/2024
+- 👨‍🏫 [Hai tranh của họa sĩ Thang Trần Phềnh đạt gần một triệu euro](https://vnexpress.net/hai-tranh-cua-hoa-si-thang-tran-phenh-dat-gan-mot-trieu-euro-4749975.html) - 03:29 24/05/2024
+- ⚗️ [Biệt thự 600 m2 của Phan Thị Mơ](https://vnexpress.net/biet-thu-600-m2-cua-phan-thi-mo-4749750.html) - 03:21 24/05/2024
+- 😎 [Từ Hy Viên trách mẹ chồng cũ](https://vnexpress.net/tu-hy-vien-trach-me-chong-cu-4749992.html) - 03:00 24/05/2024
+- 🫣 [Diễn viên Sam lấy lại vóc dáng sau sinh đôi](https://vnexpress.net/dien-vien-sam-lay-lai-voc-dang-sau-sinh-doi-4749566.html) - 00:54 24/05/2024
+- 🪄 [Đàn đá Khánh Sơn - bảo vật hơn 2.000 năm](https://vnexpress.net/dan-da-khanh-son-bao-vat-hon-2-000-nam-4746749.html) - 17:00 23/05/2024
+- 🤓 [&#39;TP HCM thiếu hạ tầng để nghệ sĩ quốc tế biểu diễn&#39;](https://vnexpress.net/tp-hcm-thieu-ha-tang-de-nghe-si-quoc-te-bieu-dien-4749485.html) - 14:36 23/05/2024
+- 🫶 [Chi Pu ra MV tiếng Trung đầu tay](https://vnexpress.net/chi-pu-ra-mv-tieng-trung-dau-tay-4749806.html) - 14:09 23/05/2024
+- 🧑‍🏫 [Sắc vóc tân Hoa hậu Hoàn vũ Philippines](https://vnexpress.net/sac-voc-tan-hoa-hau-hoan-vu-philippines-4749695.html) - 13:04 23/05/2024
+- 🦄 [Cannes ngày chín: Người đẹp bạch biến tôn đường cong với váy nịt ngực](https://vnexpress.net/cannes-ngay-chin-nguoi-dep-bach-bien-ton-duong-cong-voi-vay-nit-nguc-4749814.html) - 11:30 23/05/2024
+- 💫 [Hợp đồng bảo mật - tranh cãi mới trong vụ kiện của Jolie-Pitt](https://vnexpress.net/hop-dong-bao-mat-tranh-cai-moi-trong-vu-kien-cua-jolie-pitt-4749510.html) - 10:24 23/05/2024
+- 🎊 [Trắc nghiệm về tác phẩm văn học kinh điển](https://vnexpress.net/trac-nghiem-ve-tac-pham-van-hoc-kinh-dien-4749694.html) - 09:09 23/05/2024
+- 👹 [Tài tử 71 tuổi xin lỗi vì ngoại tình](https://vnexpress.net/tai-tu-71-tuoi-xin-loi-vi-ngoai-tinh-4749725.html) - 09:08 23/05/2024
+- 💻 [&#39;Ngọc nữ&#39; Nhật Bản tin chồng không ngoại tình](https://vnexpress.net/ngoc-nu-nhat-ban-tin-chong-khong-ngoai-tinh-4749648.html) - 07:11 23/05/2024
+- 🤡 [Nghệ sĩ Mạnh Dung tham gia show kể lịch sử TP HCM](https://vnexpress.net/nghe-si-manh-dung-tham-gia-show-ke-lich-su-tp-hcm-4749555.html) - 06:55 23/05/2024
+- 🥰 [Phim con gái Trần Anh Hùng đóng được khen](https://vnexpress.net/phim-con-gai-tran-anh-hung-dong-duoc-khen-4749496.html) - 04:27 23/05/2024
+- 🚀 [Dianka, Bùi Tiến Dũng kỷ niệm hai năm cưới](https://vnexpress.net/dianka-bui-tien-dung-ky-niem-hai-nam-cuoi-4749529.html) - 03:35 23/05/2024
+- 📝 [Đặng Thái Sơn và học trò về nước làm concert](https://vnexpress.net/dang-thai-son-va-hoc-tro-ve-nuoc-lam-concert-4749422.html) - 03:23 23/05/2024
+- 🐲 [Tranh Vương phi Kate Middleton gây xôn xao](https://vnexpress.net/tranh-vuong-phi-kate-middleton-gay-xon-xao-4749500.html) - 03:04 23/05/2024
+- 🎃 [Con gái Đào Anh Khánh triển lãm tranh trừu tượng](https://vnexpress.net/con-gai-dao-anh-khanh-trien-lam-tranh-truu-tuong-4748865.html) - 02:55 23/05/2024
+- 🤠 [Con gái Trần Anh Hùng khoe sắc trên thảm đỏ Cannes](https://vnexpress.net/con-gai-tran-anh-hung-khoe-sac-tren-tham-do-cannes-4749443.html) - 00:57 23/05/2024
+- 🎭 [Kha Ly: &#39;Tôi chờ đợi tám năm mới có con&#39;](https://vnexpress.net/kha-ly-toi-cho-doi-tam-nam-moi-co-con-4749299.html) - 17:00 22/05/2024
+- 🧰 [Á hậu Hàn Quốc nói về &#39;cô đơn trong hôn nhân&#39;](https://vnexpress.net/a-hau-han-quoc-noi-ve-co-don-trong-hon-nhan-4747715.html) - 15:23 22/05/2024
+- 🦍 [Nhan sắc &#39;Thiên thần nội y&#39; Thái Lan gây sốt](https://vnexpress.net/nhan-sac-thien-than-noi-y-thai-lan-gay-sot-4747949.html) - 13:30 22/05/2024
+- 🌝 [Cannes ngày tám: Hoa hậu Pia Wurtzbach diện váy lưới khoe nội y](https://vnexpress.net/cannes-ngay-tam-hoa-hau-pia-wurtzbach-dien-vay-luoi-khoe-noi-y-4749354.html) - 12:00 22/05/2024
+- 🧑‍💻 [Trang phục trong &#39;Sex and the City&#39; bản mới gây chú ý](https://vnexpress.net/trang-phuc-trong-sex-and-the-city-ban-moi-gay-chu-y-4749150.html) - 09:32 22/05/2024
+- 🥸 [Đạo diễn &#39;Ma làng&#39; qua đời](https://vnexpress.net/dao-dien-ma-lang-qua-doi-4749266.html) - 07:53 22/05/2024
+- 🔥 [Thanh Hằng và dàn mỹ nhân trình diễn đầm chất liệu tái chế](https://vnexpress.net/thanh-hang-va-dan-my-nhan-trinh-dien-dam-chat-lieu-tai-che-4749176.html) - 07:33 22/05/2024
+- 🐎 [Sách của tác giả Việt phát hành ở Trung Quốc](https://vnexpress.net/sach-cua-tac-gia-viet-phat-hanh-o-trung-quoc-4748723.html) - 07:12 22/05/2024
+- 😎 [Meryl Streep - &#39;báu vật điện ảnh&#39;](https://vnexpress.net/meryl-streep-bau-vat-dien-anh-4746337.html) - 06:30 22/05/2024
+- 🦄 [Nhã Phương mặc đơn sắc tôn dáng sau sinh](https://vnexpress.net/nha-phuong-mac-don-sac-ton-dang-sau-sinh-4748664.html) - 04:38 22/05/2024
+- 🌜 [Phim Gary Oldman được vỗ tay gần 10 phút tại Cannes](https://vnexpress.net/phim-gary-oldman-duoc-vo-tay-gan-10-phut-tai-cannes-4749036.html) - 04:07 22/05/2024
+- 🚦 [Lưu Diệc Phi diện váy &#39;sương đọng trên hoa&#39;](https://vnexpress.net/luu-diec-phi-dien-vay-suong-dong-tren-hoa-4749050.html) - 02:42 22/05/2024
+- 🧐 [Thú chơi xe phân khối lớn của Phan Hiển](https://vnexpress.net/thu-choi-xe-phan-khoi-lon-cua-phan-hien-4748749.html) - 17:00 21/05/2024
+- 🐵 [&#39;Lật mặt 7&#39; vào top ba phim Việt ăn khách nhất](https://vnexpress.net/lat-mat-7-vao-top-ba-phim-viet-an-khach-nhat-4748679.html) - 16:18 21/05/2024
+- ⚗️ [Cựu danh thủ Hồng Sơn thi hát](https://vnexpress.net/cuu-danh-thu-hong-son-thi-hat-4748961.html) - 14:44 21/05/2024
+- 👺 [Váy sequin &#39;càn quét&#39; thảm đỏ Cannes](https://vnexpress.net/vay-sequin-can-quet-tham-do-cannes-4748230.html) - 13:32 21/05/2024
+- 🌊 [Cannes ngày bảy: Dàn mỹ nhân khuynh đảo với đầm xuyên thấu](https://vnexpress.net/cannes-ngay-bay-dan-my-nhan-khuynh-dao-voi-dam-xuyen-thau-4748883.html) - 12:30 21/05/2024
+- 🪜 [Phim về Donald Trump gây tranh cãi ở Cannes](https://vnexpress.net/phim-ve-donald-trump-gay-tranh-cai-o-cannes-4748764.html) - 11:30 21/05/2024
+- 🕴 [Dàn mỹ nhân khoe sắc với trang sức Swarovski](https://vnexpress.net/dan-my-nhan-khoe-sac-voi-trang-suc-swarovski-4748413.html) - 11:00 21/05/2024
+- 💃 [Đồng nghiệp, bạn bè tưởng niệm Đức Tiến](https://vnexpress.net/dong-nghiep-ban-be-tuong-niem-duc-tien-4748844.html) - 10:03 21/05/2024
+- 🦄 [Hiếu nghĩa trong tiểu thuyết Hồ Biểu Chánh](https://vnexpress.net/hieu-nghia-trong-tieu-thuyet-ho-bieu-chanh-4746991.html) - 09:36 21/05/2024
+- ⛽️ [Phương Oanh, Shark Bình mở tiệc đón con song sinh](https://vnexpress.net/phuong-oanh-shark-binh-mo-tiec-don-con-song-sinh-4748835.html) - 08:59 21/05/2024
+- 😎 [&#39;Đại hiệp&#39; Khương Đại Vệ kỷ niệm 50 năm kết hôn](https://vnexpress.net/dai-hiep-khuong-dai-ve-ky-niem-50-nam-ket-hon-4748769.html) - 07:52 21/05/2024
+- 🌊 [Nhóm nhạc &#39;Chị đẹp&#39; ra MV](https://vnexpress.net/nhom-nhac-chi-dep-ra-mv-4748470.html) - 07:11 21/05/2024
+- 🐲 [Đồng nghiệp tưởng nhớ Đức Tiến ở Cannes](https://vnexpress.net/dong-nghiep-tuong-nho-duc-tien-o-cannes-4748720.html) - 04:58 21/05/2024
+- 💂 [Loạt tranh chục triệu USD của Claude Monet](https://vnexpress.net/loat-tranh-chuc-trieu-usd-cua-claude-monet-4748407.html) - 04:27 21/05/2024
+- 🙉 [Bella Hadid diện mốt không nội y ở Cannes](https://vnexpress.net/bella-hadid-dien-mot-khong-noi-y-o-cannes-4748615.html) - 03:13 21/05/2024
+- 💪 [Jason Momoa hẹn hò](https://vnexpress.net/jason-momoa-hen-ho-4748585.html) - 03:03 21/05/2024
+- 👍 [Lưu Diệc Phi theo mốt áo nịt ngực](https://vnexpress.net/luu-diec-phi-theo-mot-ao-nit-nguc-4748609.html) - 02:47 21/05/2024
+- 💪 [Tuấn Hưng: &#39;Tôi bớt ngang tàng nhờ vợ con&#39;](https://vnexpress.net/tuan-hung-toi-bot-ngang-tang-nho-vo-con-4747790.html) - 17:00 20/05/2024
+- 💄 [Mẹ Đức Tiến: &#39;Mong sang Mỹ nhìn mặt con lần cuối&#39;](https://vnexpress.net/me-duc-tien-mong-sang-my-nhin-mat-con-lan-cuoi-4748366.html) - 12:03 20/05/2024
+- 🦩 [Cannes ngày sáu: Tình cũ Leonardo DiCaprio diện đầm cắt xẻ](https://vnexpress.net/cannes-ngay-sau-tinh-cu-leonardo-dicaprio-dien-dam-cat-xe-4748418.html) - 11:30 20/05/2024
+- 🥸 [Những ngày cuối đời của diễn viên Đức Tiến](https://vnexpress.net/nhung-ngay-cuoi-doi-cua-dien-vien-duc-tien-4748121.html) - 09:54 20/05/2024
+- 🧰 [Chồng cũ Chương Tử Di có bạn gái](https://vnexpress.net/chong-cu-chuong-tu-di-co-ban-gai-4748361.html) - 09:45 20/05/2024
+- 💼 [Bia mộ huyền thoại nhạc Hong Kong bị đập phá](https://vnexpress.net/bia-mo-huyen-thoai-nhac-hong-kong-bi-dap-pha-4748079.html) - 03:16 20/05/2024
+- 🧑‍💻 [Vợ diễn viên Đức Tiến: &#39;Kiếp sau em sẽ tìm anh&#39;](https://vnexpress.net/vo-dien-vien-duc-tien-kiep-sau-em-se-tim-anh-4748045.html) - 02:20 20/05/2024<!-- vnexpress-giai-tri:END -->
