@@ -42,7 +42,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎬 [Tài sản 4,5 tỷ đồng có nên bỏ phố về quê?](https://vnexpress.net/tai-san-4-5-ty-dong-co-nen-bo-pho-ve-que-4749679.html) - 19:30 24/05/2024
 - 🚀 [Tài sản của CEO Nvidia tăng 30 lần sau 5 năm](https://vnexpress.net/tai-san-cua-ceo-nvidia-tang-30-lan-sau-5-nam-4750328.html) - 19:29 24/05/2024
 - 🪄 [Dự án nghỉ dưỡng bỏ hoang trên &#39;đất vàng&#39; ven biển](https://vnexpress.net/du-an-nghi-duong-bo-hoang-tren-dat-vang-ven-bien-4750137.html) - 17:51 24/05/2024
-- 😎 [Ông Putin: Zelensky đã mất tư cách tổng thống Ukraine](https://vnexpress.net/ong-putin-zelensky-da-mat-tu-cach-tong-thong-ukraine-4750343.html) - 17:50 24/05/2024
+- 😎 [Ông Putin: ông Zelensky đã mất tư cách tổng thống Ukraine](https://vnexpress.net/ong-putin-ong-zelensky-da-mat-tu-cach-tong-thong-ukraine-4750343.html) - 17:50 24/05/2024
 - 🎊 [Thăm lâu đài 900 tuổi, nơi ở của Napoléon](https://vnexpress.net/tham-lau-dai-900-tuoi-noi-o-cua-napoleon-4749319.html) - 17:15 24/05/2024
 - ⚗️ [Cách phát hiện con bạn có bị trầm cảm hay không](https://vnexpress.net/cach-phat-hien-con-ban-co-bi-tram-cam-hay-khong-4750100.html) - 17:02 24/05/2024
 - 🫣 [Khí độc trong đám cháy nguy hiểm như thế nào](https://vnexpress.net/khi-doc-trong-dam-chay-nguy-hiem-nhu-the-nao-4749974.html) - 17:02 24/05/2024
