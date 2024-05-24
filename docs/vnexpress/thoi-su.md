@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Sập cầu tạm, một công nhân bị nước cuốn](https://vnexpress.net/sap-cau-tam-mot-cong-nhan-bi-nuoc-cuon-4750065.html) - 05:01 24/05/2024
 - ⚗️ [Thủ tướng chia buồn cùng gia đình nạn nhân vụ cháy 14 người chết](https://vnexpress.net/thu-tuong-chia-buon-cung-gia-dinh-nan-nhan-vu-chay-14-nguoi-chet-4750047.html) - 04:04 24/05/2024
 - 🌊 [Hiện trường vụ cháy nhà trọ Trung Kính, 14 người chết](https://vnexpress.net/hien-truong-vu-chay-nha-tro-trung-kinh-14-nguoi-chet-4749916.html) - 00:33 24/05/2024
-- 🎓 [Cháy nhà ở Trung Kính Hà Nội, 14 người chết](https://vnexpress.net/chay-nha-tro-5-tang-9-nguoi-chet-4749899.html) - 21:19 23/05/2024
+- 🎓 [Cháy nhà ở Trung Kính Hà Nội, 14 người chết](https://vnexpress.net/chay-nha-tro-5-tang-9-nguoi-chet-4749899-tong-thuat.html) - 21:19 23/05/2024
 - 🔥 [Cao tốc Cam Lâm – Vĩnh Hảo thu phí từ ngày 28/5](https://vnexpress.net/cao-toc-cam-lam-vinh-hao-thu-phi-tu-ngay-28-5-4749822.html) - 17:00 23/05/2024
 - 🦏 [Hậu Giang xây cầu 1.600 tỷ đồng kết nối Cần Thơ, Kiên Giang](https://vnexpress.net/hau-giang-xay-cau-1-600-ty-dong-ket-noi-can-tho-kien-giang-4749686.html) - 17:00 23/05/2024
 - 👺 [Quốc hội chốt bốn nhóm vấn đề chất vấn](https://vnexpress.net/quoc-hoi-chot-bon-nhom-van-de-chat-van-4749843.html) - 12:59 23/05/2024
