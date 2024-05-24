@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Những tay súng nước ngoài vỡ mộng khi tham chiến ở Ukraine](https://vnexpress.net/nhung-tay-sung-nuoc-ngoai-vo-mong-khi-tham-chien-o-ukraine-4750035.html) - 22:00 24/05/2024
-- 🕴 [Ông Putin: Zelensky đã mất tư cách tổng thống Ukraine](https://vnexpress.net/ong-putin-zelensky-da-mat-tu-cach-tong-thong-ukraine-4750343.html) - 17:50 24/05/2024
+- 🕴 [Ông Putin: ông Zelensky đã mất tư cách tổng thống Ukraine](https://vnexpress.net/ong-putin-ong-zelensky-da-mat-tu-cach-tong-thong-ukraine-4750343.html) - 17:50 24/05/2024
 - 🤭 [Công tố viên trưởng &#39;không biết sợ&#39; của ICC](https://vnexpress.net/cong-to-vien-truong-khong-biet-so-cua-icc-4749236.html) - 17:00 24/05/2024
 - 🧑‍💻 [Ông Zelensky thăm Kharkov lần thứ hai trong hơn một tuần](https://vnexpress.net/ong-zelensky-tham-kharkov-lan-thu-hai-trong-hon-mot-tuan-4750310.html) - 15:44 24/05/2024
 - 🦏 [Tòa Công lý Quốc tế yêu cầu Israel ngừng tấn công Rafah](https://vnexpress.net/toa-cong-ly-quoc-te-yeu-cau-israel-ngung-tan-cong-rafah-4750326.html) - 13:54 24/05/2024
