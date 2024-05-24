@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Hỗn chiến tại quán bi-a](https://vnexpress.net/hon-chien-tai-quan-bi-a-4750052.html) - 08:18 24/05/2024
-- 🥰 [Sát hại tình nhân vì ghen tuông](https://vnexpress.net/sat-hai-tinh-nhan-vi-ghen-tuong-4750150.html) - 08:15 24/05/2024
+- 🥰 [Sát hại tình nhân vì ghen](https://vnexpress.net/sat-hai-tinh-nhan-vi-ghen-4750150.html) - 08:15 24/05/2024
 - 🎓 [&#39;Doanh nhân thành đạt&#39; phủ nhận lừa 1.200 tỷ đồng của hai đại gia](https://vnexpress.net/doanh-nhan-thanh-dat-phu-nhan-lua-1-200-ty-dong-cua-hai-dai-gia-4750125.html) - 07:39 24/05/2024
 - 🤓 [Bị tố giác tội phạm nhưng đang đi công tác, có bị coi là bỏ trốn?](https://vnexpress.net/bi-to-giac-toi-pham-nhung-dang-di-cong-tac-co-bi-coi-la-bo-tron-4750079.html) - 07:23 24/05/2024
 - 🎊 [Dùng mã độc chiếm đoạt hàng nghìn tài khoản Facebook](https://vnexpress.net/dung-ma-doc-chiem-doat-hang-nghin-tai-khoan-facebook-4750106.html) - 06:52 24/05/2024
