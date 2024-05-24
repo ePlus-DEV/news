@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Vũng Tàu dừng Festival biển đảo](https://vnexpress.net/vung-tau-dung-festival-bien-dao-4750306.html) - 13:24 24/05/2024
+- 💂 [Bà Rịa - Vũng Tàu dừng Festival biển đảo](https://vnexpress.net/ba-ria-vung-tau-dung-festival-bien-dao-4750306.html) - 13:24 24/05/2024
 - 🪄 [Người Việt hào hứng đi du lịch nước ngoài hơn người Thái](https://vnexpress.net/nguoi-viet-hao-hung-di-du-lich-nuoc-ngoai-hon-nguoi-thai-4749644.html) - 07:32 24/05/2024
 - 🦅 [Đi tàu hỏa thăm cảng biển 150 năm ở Hải Phòng](https://vnexpress.net/di-tau-hoa-tham-cang-bien-150-nam-o-hai-phong-4750048.html) - 07:13 24/05/2024
 - 🕴 [Tranh &#39;Mục đồng thổi sáo&#39; khổng lồ trên đồng lúa Tam Cốc](https://vnexpress.net/tranh-muc-dong-thoi-sao-khong-lo-tren-dong-lua-tam-coc-4749983.html) - 06:18 24/05/2024
