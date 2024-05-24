@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cựu tổng giám đốc Tập đoàn Công nghiệp Cao su Việt Nam bị khởi tố](https://vnexpress.net/cuu-tong-giam-doc-tap-doan-cong-nghiep-cao-su-viet-nam-bi-khoi-to-4750324.html) - 13:14 24/05/2024
+- 😎 [Cựu tổng giám đốc Tập đoàn Công nghiệp Cao su Việt Nam bị bắt](https://vnexpress.net/cuu-tong-giam-doc-tap-doan-cong-nghiep-cao-su-viet-nam-bi-bat-4750324.html) - 13:14 24/05/2024
 - 🥰 [Chủ tịch thị xã Cửa Lò bị bắt](https://vnexpress.net/chu-tich-thi-xa-cua-lo-bi-bat-4750265.html) - 10:46 24/05/2024
 - 🎓 [&#39;Vẽ&#39; dự án, lừa tiền người mua đất ở Phú Quốc](https://vnexpress.net/ve-du-an-lua-tien-nguoi-mua-dat-o-phu-quoc-4750237.html) - 10:32 24/05/2024
 - 🤓 [Nữ kế toán chiếm đoạt 68 tỷ đồng bảo hiểm xã hội](https://vnexpress.net/nu-ke-toan-chiem-doat-68-ty-dong-bao-hiem-xa-hoi-4750236.html) - 09:54 24/05/2024
