@@ -575,7 +575,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- hoahoctro:START -->
 - 💼 [Khen thưởng 4 cá nhân đập tường cứu người trong vụ cháy ở phố Trung Kính](https://tienphong.vn/khen-thuong-4-ca-nhan-dap-tuong-cuu-nguoi-trong-vu-chay-o-pho-trung-kinh-post1640434.tpo) - 21:01 25/05/2024
 - 🎊 [Thủ tướng Hungary nói NATO đang chuẩn bị cho kịch bản xung đột với Nga](https://tienphong.vn/thu-tuong-hungary-noi-nato-dang-chuan-bi-cho-kich-ban-xung-dot-voi-nga-post1640431.tpo) - 20:51 25/05/2024
-- 💼 [Trực tiếp Man City vs MU 0-1 &lpar;H1&rpar;: Garnacho mở tỷ số](https://tienphong.vn/truc-tiep-man-city-vs-mu-0-1-h1-garnacho-mo-ty-so-post1640429.tpo) - 20:44 25/05/2024
+- 💼 [Trực tiếp Man City vs MU 0-0 &lpar;H1&rpar;: Casemiro vắng mặt](https://tienphong.vn/truc-tiep-man-city-vs-mu-0-0-h1-casemiro-vang-mat-post1640429.tpo) - 20:44 25/05/2024
 - 👺 [Showbiz 25/5: Ninh Dương Lan Ngọc vừa đi du học đã về nước](https://tienphong.vn/showbiz-255-ninh-duong-lan-ngoc-vua-di-du-hoc-da-ve-nuoc-post1640413.tpo) - 20:43 25/05/2024
 - 💪 [Thủ tướng Chính phủ: Trong 2 năm đã giảm thuế VAT gần 200.000 tỷ đồng](https://tienphong.vn/thu-tuong-chinh-phu-trong-2-nam-da-giam-thue-vat-gan-200000-ty-dong-post1640415.tpo) - 20:27 25/05/2024
 - 💃 [Người vi phạm nồng độ cồn nói &#39;thà bỏ vợ chứ không bỏ rượu&#39;](https://tienphong.vn/nguoi-vi-pham-nong-do-con-noi-tha-bo-vo-chu-khong-bo-ruou-post1640426.tpo) - 20:15 25/05/2024
