@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Cặp 8 năm yêu nhau tử vong trong đám cháy ở Trung Kính](https://vnexpress.net/cap-8-nam-yeu-nhau-tu-vong-trong-dam-chay-o-trung-kinh-4750500.html) - 09:40 25/05/2024
+- 🚀 [Đôi tình nhân sắp cưới tử vong trong đám cháy ở Trung Kính](https://vnexpress.net/doi-tinh-nhan-sap-cuoi-tu-vong-trong-dam-chay-o-trung-kinh-4750500.html) - 09:40 25/05/2024
 - 🎓 [Ổn định cuộc sống nhờ làm tài xế công nghệ](https://vnexpress.net/on-dinh-cuoc-song-nho-lam-tai-xe-cong-nghe-4750466.html) - 08:00 25/05/2024
 - 🚦 [Tại sao nên đeo kính râm dù trời mát mẻ?](https://vnexpress.net/tai-sao-nen-deo-kinh-ram-du-troi-mat-me-4750390.html) - 06:35 25/05/2024
 - 🦣 [Khách thuê trọ thấp thỏm sống trong ngõ sâu](https://vnexpress.net/khach-thue-tro-thap-thom-song-trong-ngo-sau-4750180.html) - 04:55 25/05/2024
