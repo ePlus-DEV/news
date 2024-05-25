@@ -5,8 +5,8 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [HAGL bị đẩy trở lại cuộc đua trụ hạng ở V-League](https://vnexpress.net/hagl-bi-day-tro-lai-cuoc-dua-tru-hang-o-v-league-4750590.html) - 15:07 25/05/2024
-- 🦩 [Cơ thủ Việt Nam đứng thứ 250 thế giới vào bán kết World Cup](https://vnexpress.net/co-thu-viet-nam-dung-thu-250-the-gioi-vao-ban-ket-world-cup-4750586.html) - 14:55 25/05/2024
-- 🧰 [Man City 1-2 Man Utd &lpar;H2&rpar;: Doku rút ngắn tỷ số](https://vnexpress.net/man-city-vs-man-utd-4750563.html) - 13:30 25/05/2024
+- 🦩 [Cơ thủ Trần Đức Minh gây bất ngờ ở World Cup carom 3 băng](https://vnexpress.net/co-thu-tran-duc-minh-gay-bat-ngo-o-world-cup-carom-3-bang-4750586.html) - 14:55 25/05/2024
+- 🧰 [Man Utd hạ Man City ở chung kết Cup FA](https://vnexpress.net/man-city-vs-man-utd-4750563-tong-thuat.html) - 13:30 25/05/2024
 - 🤗 [Hà Nội FC lần đầu lên nhì bảng V-League 2023-2024](https://vnexpress.net/ha-noi-fc-lan-dau-len-nhi-bang-v-league-2023-2024-4750539.html) - 12:14 25/05/2024
 - 🥳 [Tuyển thủ Malaysia bị tạt axit được xuất viện](https://vnexpress.net/tuyen-thu-malaysia-bi-tat-axit-duoc-xuat-vien-4750555.html) - 11:48 25/05/2024
 - 🦣 [Bruno Fernandes - từ giấc mơ đến hiện thực khó khăn](https://vnexpress.net/bruno-fernandes-tu-giac-mo-den-hien-thuc-kho-khan-4750486.html) - 11:19 25/05/2024
@@ -15,9 +15,9 @@ sidebar_position: 5
 - 🌜 [Djokovic không vào nổi chung kết ATP 250](https://vnexpress.net/djokovic-khong-vao-noi-chung-ket-atp-250-4750349.html) - 03:29 25/05/2024
 - 😺 [Euro 2024 đối mặt nguy cơ mất VAR](https://vnexpress.net/euro-2024-doi-mat-nguy-co-mat-var-4750286.html) - 23:00 24/05/2024
 - 👍 [Guardiola muốn viết tiếp lịch sử với Man City](https://vnexpress.net/guardiola-muon-viet-tiep-lich-su-voi-man-city-4750340.html) - 22:00 24/05/2024
-- 🐵 [Rio Ferdinand: &#39;Man Utd không có cửa thắng Man City&#39;](https://vnexpress.net/rio-ferdinand-man-utd-khong-co-cua-thang-man-city-4750336.html) - 21:00 24/05/2024
-- 💫 [Hojlund tưởng bị &#39;nguyền rủa&#39; vì khởi đầu chật vật tại Man Utd](https://vnexpress.net/hojlund-tuong-bi-nguyen-rua-vi-khoi-dau-chat-vat-tai-man-utd-4750330.html) - 21:00 24/05/2024
-- 🦆 [Runner làm thế nào để có giấc ngủ ngon](https://vnexpress.net/runner-lam-the-nao-de-co-giac-ngu-ngon-4750314.html) - 21:00 24/05/2024
+- 🐵 [Runner làm thế nào để có giấc ngủ ngon](https://vnexpress.net/runner-lam-the-nao-de-co-giac-ngu-ngon-4750314.html) - 21:00 24/05/2024
+- 💫 [Rio Ferdinand: &#39;Man Utd không có cửa thắng Man City&#39;](https://vnexpress.net/rio-ferdinand-man-utd-khong-co-cua-thang-man-city-4750336.html) - 21:00 24/05/2024
+- 🦆 [Hojlund tưởng bị &#39;nguyền rủa&#39; vì khởi đầu chật vật tại Man Utd](https://vnexpress.net/hojlund-tuong-bi-nguyen-rua-vi-khoi-dau-chat-vat-tai-man-utd-4750330.html) - 21:00 24/05/2024
 - 🙉 [Ba cơ thủ Việt Nam vào vòng 1/8 World Cup](https://vnexpress.net/ba-co-thu-viet-nam-vao-vong-1-8-world-cup-4750333.html) - 17:00 24/05/2024
 - 📝 [Báo Anh: &#39;Man Utd đã quyết định sa thải Ten Hag&#39;](https://vnexpress.net/bao-anh-man-utd-da-quyet-dinh-sa-thai-ten-hag-4750329.html) - 14:59 24/05/2024
 - 💯 [Đà Nẵng trở lại V-League](https://vnexpress.net/da-nang-tro-lai-v-league-4750308.html) - 12:58 24/05/2024
