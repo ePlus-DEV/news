@@ -8,7 +8,7 @@ sidebar_position: 7
 - 🦆 [Anh dự kiến tăng mức chứng minh tài chính với du học sinh](https://vnexpress.net/anh-du-kien-tang-muc-chung-minh-tai-chinh-voi-du-hoc-sinh-4750037.html) - 23:40 24/05/2024
 - 🦩 [Nữ sinh Việt giành giải luận văn xuất sắc của Đại học Harvard](https://vnexpress.net/nu-sinh-viet-gianh-giai-luan-van-xuat-sac-cua-dai-hoc-harvard-4750044.html) - 13:55 24/05/2024
 - 🌮 [Nhà máy dệt in trên tờ tiền 2.000 đồng ở tỉnh nào?](https://vnexpress.net/nha-may-det-in-tren-to-tien-2-000-dong-o-tinh-nao-4750234.html) - 13:00 24/05/2024
-- 🔭 [Hiệu trưởng đề nghị sinh viên nghĩ về bố mẹ trong lễ tốt nghiệp](https://vnexpress.net/hieu-truong-de-nghi-sinh-vien-nghi-ve-bo-me-trong-le-tot-nghiep-4750089.html) - 11:14 24/05/2024
+- 🔭 [Hiệu trưởng nhắc sinh viên nghĩ về bố mẹ trong lễ tốt nghiệp](https://vnexpress.net/hieu-truong-nhac-sinh-vien-nghi-ve-bo-me-trong-le-tot-nghiep-4750089.html) - 11:14 24/05/2024
 - 💡 [Học sinh chuyên Ngữ &#39;hóa&#39; kỹ sư, bảo vệ trong ngày học cuối](https://vnexpress.net/hoc-sinh-chuyen-ngu-hoa-ky-su-bao-ve-trong-ngay-hoc-cuoi-4750077.html) - 07:36 24/05/2024
 - 🥰 [Yếu tố cần có để hướng nghiệp cho con trong thời đại AI](https://vnexpress.net/yeu-to-can-co-de-huong-nghiep-cho-con-trong-thoi-dai-ai-4749688.html) - 06:00 24/05/2024
 - 🐲 [Trường đại học phát hiện gần 20 sinh viên nhờ học hộ, thi hộ](https://vnexpress.net/truong-dai-hoc-phat-hien-gan-20-sinh-vien-nho-hoc-ho-thi-ho-4750010.html) - 04:13 24/05/2024
