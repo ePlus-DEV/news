@@ -4,11 +4,11 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Thủ tướng Hungary: Nga không thể &#39;nuốt trọn&#39; phương Tây](https://vnexpress.net/thu-tuong-hungary-nga-khong-the-nuot-tron-phuong-tay-4750574.html) - 14:15 25/05/2024
+- 🎬 [Thủ tướng Hungary: Nga không thể nuốt trọn phương Tây](https://vnexpress.net/thu-tuong-hungary-nga-khong-the-nuot-tron-phuong-tay-4750574.html) - 14:15 25/05/2024
 - 🐎 [Tìm chàng trai bao dung, quảng đại](https://vnexpress.net/tim-chang-trai-bao-dung-quang-dai-4750439.html) - 14:00 25/05/2024
 - 🦍 [&#39;Dự án cao tốc Gia Nghĩa - Chơn Thành sẽ là tuyến đường đẹp&#39;](https://vnexpress.net/du-an-cao-toc-gia-nghia-chon-thanh-se-la-tuyen-duong-dep-4750566.html) - 13:57 25/05/2024
 - 🏊 [Con tàu đầu tiên của Việt Nam đi vòng quanh thế giới tên là gì?](https://vnexpress.net/con-tau-dau-tien-cua-viet-nam-di-vong-quanh-the-gioi-ten-la-gi-4750560.html) - 13:43 25/05/2024
-- 🎊 [Man City 0-2 Man Utd &lpar;H1&rpar;: Sai lầm tai hại](https://vnexpress.net/man-city-vs-man-utd-4750563.html) - 13:30 25/05/2024
+- 🎊 [Man City 0-0 Man Utd &lpar;H1&rpar;: Garnacho dứt điểm](https://vnexpress.net/man-city-vs-man-utd-4750563.html) - 13:30 25/05/2024
 - 🎃 [Đà Lạt muốn mở phố đi bộ bên hồ Xuân Hương](https://vnexpress.net/da-lat-muon-mo-pho-di-bo-ben-ho-xuan-huong-4750573.html) - 13:18 25/05/2024
 - 🧰 [Gu mặc tôn khí chất của Lee Young Ae](https://vnexpress.net/gu-mac-ton-khi-chat-cua-lee-young-ae-4750304.html) - 13:00 25/05/2024
 - 🔭 [Vinamilk hợp tác VNVC, bệnh viện Tâm Anh chăm sóc sức khỏe cộng đồng](https://vnexpress.net/vinamilk-hop-tac-vnvc-benh-vien-tam-anh-cham-soc-suc-khoe-cong-dong-4750567.html) - 13:00 25/05/2024
