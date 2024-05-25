@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [HAGL bị đẩy trở lại cuộc đua trụ hạng ở V-League](https://vnexpress.net/hagl-bi-day-tro-lai-cuoc-dua-tru-hang-o-v-league-4750590.html) - 15:07 25/05/2024
 - 🦩 [Cơ thủ Việt Nam đứng thứ 250 thế giới vào bán kết World Cup](https://vnexpress.net/co-thu-viet-nam-dung-thu-250-the-gioi-vao-ban-ket-world-cup-4750586.html) - 14:55 25/05/2024
-- 🧰 [Man City 0-2 Man Utd &lpar;H2&rpar;: Haaland sút dội xà](https://vnexpress.net/man-city-vs-man-utd-4750563.html) - 13:30 25/05/2024
+- 🧰 [Man City 1-2 Man Utd &lpar;H2&rpar;: Doku rút ngắn tỷ số](https://vnexpress.net/man-city-vs-man-utd-4750563.html) - 13:30 25/05/2024
 - 🤗 [Hà Nội FC lần đầu lên nhì bảng V-League 2023-2024](https://vnexpress.net/ha-noi-fc-lan-dau-len-nhi-bang-v-league-2023-2024-4750539.html) - 12:14 25/05/2024
 - 🥳 [Tuyển thủ Malaysia bị tạt axit được xuất viện](https://vnexpress.net/tuyen-thu-malaysia-bi-tat-axit-duoc-xuat-vien-4750555.html) - 11:48 25/05/2024
 - 🦣 [Bruno Fernandes - từ giấc mơ đến hiện thực khó khăn](https://vnexpress.net/bruno-fernandes-tu-giac-mo-den-hien-thuc-kho-khan-4750486.html) - 11:19 25/05/2024
