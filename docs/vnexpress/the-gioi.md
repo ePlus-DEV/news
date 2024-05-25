@@ -11,7 +11,7 @@ sidebar_position: 2
 - 🦏 [Người ủng hộ bà Haley chia rẽ vì tuyên bố bầu cho ông Trump](https://vnexpress.net/nguoi-ung-ho-ba-haley-chia-re-vi-tuyen-bo-bau-cho-ong-trump-4750591.html) - 16:33 25/05/2024
 - 🦒 [Cháy trung tâm giải trí, 24 người thiệt mạng](https://vnexpress.net/chay-trung-tam-giai-tri-24-nguoi-thiet-mang-4750604.html) - 16:14 25/05/2024
 - 🌈 [Anh nói Nga rút quân từ nước ngoài về tham gia chiến dịch Kharkov](https://vnexpress.net/anh-noi-nga-rut-quan-tu-nuoc-ngoai-ve-tham-gia-chien-dich-kharkov-4750585.html) - 14:47 25/05/2024
-- 🧑‍🏫 [Thủ tướng Hungary: Nga không thể &#39;nuốt trọn&#39; phương Tây](https://vnexpress.net/thu-tuong-hungary-nga-khong-the-nuot-tron-phuong-tay-4750574.html) - 14:15 25/05/2024
+- 🧑‍🏫 [Thủ tướng Hungary: Nga không thể &#39;nuốt chửng&#39; phương Tây](https://vnexpress.net/thu-tuong-hungary-nga-khong-the-nuot-chung-phuong-tay-4750574.html) - 14:15 25/05/2024
 - 🐲 [&#39;Đội tàu tự do&#39; đưa đồ cứu trợ tới Gaza](https://vnexpress.net/doi-tau-tu-do-dua-do-cuu-tro-toi-gaza-4750510.html) - 12:56 25/05/2024
 - 🦒 [Nga tuyên bố kiểm soát thêm làng gần Avdeevka](https://vnexpress.net/nga-tuyen-bo-kiem-soat-them-lang-gan-avdeevka-4750551.html) - 11:55 25/05/2024
 - 🐻 [Bộ trưởng Quốc phòng Mỹ tiếp tục làm thủ thuật vì vấn đề bàng quang](https://vnexpress.net/bo-truong-quoc-phong-my-tiep-tuc-lam-thu-thuat-vi-van-de-bang-quang-4750537.html) - 11:43 25/05/2024
