@@ -142,7 +142,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Đánh bại cả Trần Quyết Chiến, tay cơ Việt Nam lại gây sốc tại World Cup billiard 3 băng](https://thanhnien.vn/danh-bai-ca-tran-quyet-chien-tay-co-viet-nam-lai-gay-soc-tai-world-cup-billiard-3-bang-185240525230441802.htm) - 16:23 25/05/2024
+- 🤠 [Đánh bại cả Trần Quyết Chiến, tay cơ Việt Nam lại gây sốc tại World Cup billiards 3 băng](https://thanhnien.vn/danh-bai-ca-tran-quyet-chien-tay-co-viet-nam-lai-gay-soc-tai-world-cup-billiard-3-bang-185240525230441802.htm) - 16:23 25/05/2024
 - 🥸 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 26.5.2024](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-2652024-185240524194355505.htm) - 16:11 25/05/2024
 - 🌁 [Khiến Man City nếm trái đắng, M.U vô địch Cúp FA, cứu vớt mùa giải thất vọng](https://thanhnien.vn/khien-man-city-nem-trai-dang-mu-vo-dich-cup-fa-cuu-vot-mua-giai-that-vong-185240525230636222.htm) - 16:03 25/05/2024
 - 🤡 [Ngày hội Thanh niên công nhân: &#39;Chương trình vô cùng đáng nhớ và giàu ý nghĩa&#39;](https://thanhnien.vn/ngay-hoi-thanh-nien-cong-nhan-chuong-trinh-vo-cung-dang-nho-va-giau-y-nghia-185240525222207926.htm) - 15:44 25/05/2024
