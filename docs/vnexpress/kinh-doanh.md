@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [Thống đốc: Gói hỗ trợ lãi suất 2% &#39;không dành cho mọi doanh nghiệp khó khăn&#39;](https://vnexpress.net/thong-doc-goi-ho-tro-lai-suat-2-khong-danh-cho-moi-doanh-nghiep-kho-khan-4750515.html) - 09:47 25/05/2024
 - 🐲 [Các hãng bán lẻ Mỹ đua hạ giá sản phẩm](https://vnexpress.net/cac-hang-ban-le-my-dua-ha-gia-san-pham-4750421.html) - 09:31 25/05/2024
 - 🔥 [Ông Biden khó hạ nhiệt được giá xăng Mỹ](https://vnexpress.net/ong-biden-kho-ha-nhiet-duoc-gia-xang-my-4750282.html) - 06:03 25/05/2024
-- 🐵 [&#39;Trùm&#39; giáo dục tư nhân muốn bán Đại học Hoa Sen và Hồng Bàng](https://vnexpress.net/trum-giao-duc-tu-nhan-muon-ban-dai-hoc-hoa-sen-va-hong-bang-4750442.html) - 05:38 25/05/2024
+- 🐵 [Nguyễn Hoàng Group muốn bán Đại học Hoa Sen và Hồng Bàng](https://vnexpress.net/nguyen-hoang-group-muon-ban-dai-hoc-hoa-sen-va-hong-bang-4750442.html) - 05:38 25/05/2024
 - 🦅 [Đại biểu đề nghị cân nhắc việc gia hạn gói hỗ trợ phục hồi kinh tế](https://vnexpress.net/dai-bieu-de-nghi-can-nhac-viec-gia-han-goi-ho-tro-phuc-hoi-kinh-te-4750413.html) - 04:31 25/05/2024
 - 😺 [Ngân hàng Nhà nước: Không nâng biên độ tỷ giá](https://vnexpress.net/ngan-hang-nha-nuoc-bac-tin-don-nang-bien-do-ty-gia-4750387.html) - 01:56 25/05/2024
 - 🤩 [Nông dân Trung Quốc kiếm bộn nhờ điện mặt trời mái nhà](https://vnexpress.net/nong-dan-trung-quoc-kiem-bon-nho-dien-mat-troi-mai-nha-4750154.html) - 19:40 24/05/2024
