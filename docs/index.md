@@ -446,8 +446,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Thư Viện Pháp Luật
 <!-- thuvienphapluat:START -->
-- 🕴 [Công văn 2202/TCT-CS năm 2024 về giải đáp chính sách tiền sử dụng đất do Tổng cục Thuế ban hành](https://thuvienphapluat.vn/cong-van/Bat-dong-san/Cong-van-2202-TCT-CS-2024-giai-dap-chinh-sach-tien-su-dung-dat-611019.aspx) - 00:00 24/05/2024
-- 🎭 [Công văn 2201/TCT-CS năm 2024 về tiền thuê đất của Công ty VTC do Tổng cục Thuế ban hành](https://thuvienphapluat.vn/cong-van/Bat-dong-san/Cong-van-2201-TCT-CS-2024-quy-dinh-tien-thue-dat-cua-Cong-ty-VTC-611020.aspx) - 00:00 24/05/2024
+- 🕴 [Công văn 2201/TCT-CS năm 2024 về tiền thuê đất của Công ty VTC do Tổng cục Thuế ban hành](https://thuvienphapluat.vn/cong-van/Bat-dong-san/Cong-van-2201-TCT-CS-2024-quy-dinh-tien-thue-dat-cua-Cong-ty-VTC-611020.aspx) - 00:00 24/05/2024
+- 🎭 [Công văn 2202/TCT-CS năm 2024 về giải đáp chính sách tiền sử dụng đất do Tổng cục Thuế ban hành](https://thuvienphapluat.vn/cong-van/Bat-dong-san/Cong-van-2202-TCT-CS-2024-giai-dap-chinh-sach-tien-su-dung-dat-611019.aspx) - 00:00 24/05/2024
 - 💪 [Thông báo 486/TB-TCT điều chỉnh Kế hoạch tuyển dụng công chức Tổng cục Thuế năm 2024](https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Thong-bao-486-TB-TCT-2024-dieu-chinh-Ke-hoach-tuyen-dung-cong-chuc-Tong-cuc-Thue-611069.aspx) - 00:00 24/05/2024
 - 🚀 [Quyết định 742/QĐ-UBND phê duyệt Kế hoạch sử đụng đất năm 2024 huyện Vũ Thư, tỉnh Thái Bình](https://thuvienphapluat.vn/van-ban/Bat-dong-san/Quyet-dinh-742-QD-UBND-2024-phe-duyet-Ke-hoach-su-dung-dat-huyen-Vu-Thu-Thai-Binh-610900.aspx) - 00:00 23/05/2024
 - 🤗 [Quyết định 478/QĐ-UBND năm 2024 sắp xếp, kiện toàn cơ cấu tổ chức bộ máy Ban Dân tộc tỉnh Bắc Giang](https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-478-QD-UBND-2024-sap-xep-kien-toan-co-cau-to-chuc-bo-may-Ban-Dan-toc-Bac-Giang-610864.aspx) - 00:00 23/05/2024
