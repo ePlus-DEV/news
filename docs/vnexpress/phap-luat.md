@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Vợ đại gia được trả lại 80 tỷ đồng trong vụ siêu lừa &#39;bắt tay&#39; cán bộ ngân hàng](https://vnexpress.net/vo-dai-gia-duoc-tra-lai-80-ty-dong-trong-vu-sieu-lua-bat-tay-can-bo-ngan-hang-4750414.html) - 06:58 25/05/2024
+- 😎 [Vợ đại gia được trả lại 70 tỷ đồng trong vụ siêu lừa &#39;bắt tay&#39; cán bộ ngân hàng](https://vnexpress.net/vo-dai-gia-duoc-tra-lai-70-ty-dong-trong-vu-sieu-lua-bat-tay-can-bo-ngan-hang-4750414.html) - 06:58 25/05/2024
 - 🥰 [Trình Quốc hội hai phương án về ghi âm, ghi hình tại phiên tòa](https://vnexpress.net/trinh-quoc-hoi-hai-phuong-an-ve-ghi-am-ghi-hinh-tai-phien-toa-4750470.html) - 06:34 25/05/2024
 - 🎓 [Trình báo mất nửa tỷ đồng khi bị dẫn dụ &#39;bấm like, thả tim&#39;](https://vnexpress.net/trinh-bao-mat-nua-ty-dong-khi-bi-dan-du-bam-like-tha-tim-4749633.html) - 01:00 25/05/2024
 - 🤓 [Chiêu lừa tiền tỷ 3 người tình của cô giáo dỏm](https://vnexpress.net/chieu-lua-tien-ty-3-nguoi-tinh-cua-co-giao-dom-4750338.html) - 22:00 24/05/2024
