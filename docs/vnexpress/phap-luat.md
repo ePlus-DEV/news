@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Công an Hà Nội khởi tố vụ án cháy nhà trọ ở Trung Kính](https://vnexpress.net/cong-an-ha-noi-khoi-to-vu-an-chay-nha-tro-o-trung-kinh-4750242.html) - 12:09 25/05/2024
+- 😎 [Khởi tố vụ án cháy nhà khiến 14 người chết ở Trung Kính](https://vnexpress.net/khoi-to-vu-an-chay-nha-lam-14-nguoi-chet-o-pho-trung-kinh-4750242.html) - 12:09 25/05/2024
 - 🥰 [Tên cướp nhốt hai phụ nữ trong cửa hàng bị bắt](https://vnexpress.net/ten-cuop-nhot-hai-phu-nu-trong-cua-hang-bi-bat-4750553.html) - 12:08 25/05/2024
 - 🎓 [Vợ đại gia được trả lại 70 tỷ đồng trong vụ siêu lừa &#39;bắt tay&#39; cán bộ ngân hàng](https://vnexpress.net/vo-dai-gia-duoc-tra-lai-70-ty-dong-trong-vu-sieu-lua-bat-tay-can-bo-ngan-hang-4750414.html) - 06:58 25/05/2024
 - 🤓 [Trình Quốc hội hai phương án về ghi âm, ghi hình tại phiên tòa](https://vnexpress.net/trinh-quoc-hoi-hai-phuong-an-ve-ghi-am-ghi-hinh-tai-phien-toa-4750470.html) - 06:34 25/05/2024
