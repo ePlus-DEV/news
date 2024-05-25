@@ -9,7 +9,7 @@ sidebar_position: 12
 - 🎓 [Bộ Quốc phòng điều tra sai phạm đất ở sân bay Nha Trang](https://vnexpress.net/bo-quoc-phong-dieu-tra-sai-pham-dat-o-san-bay-nha-trang-4750138.html) - 17:00 24/05/2024
 - 🤓 [Bà Nguyễn Thị Thanh Nhàn bị truy tố trong vụ án tại TP HCM](https://vnexpress.net/ba-nguyen-thi-thanh-nhan-bi-truy-to-trong-vu-an-tai-tp-hcm-4750341.html) - 16:38 24/05/2024
 - 🎊 [Cựu tổng giám đốc Tập đoàn Công nghiệp Cao su Việt Nam bị bắt](https://vnexpress.net/cuu-tong-giam-doc-tap-doan-cong-nghiep-cao-su-viet-nam-bi-bat-4750324.html) - 13:14 24/05/2024
-- 🙉 [Chủ tịch thị xã Cửa Lò bị bắt](https://vnexpress.net/chu-tich-thi-xa-cua-lo-bi-bat-4750265.html) - 10:46 24/05/2024
+- 🙉 [Chủ tịch thị xã Cửa Lò cùng 3 cán bộ bị bắt](https://vnexpress.net/chu-tich-thi-xa-cua-lo-bi-bat-4750265.html) - 10:46 24/05/2024
 - 🤡 [&#39;Vẽ&#39; dự án, lừa tiền người mua đất ở Phú Quốc](https://vnexpress.net/ve-du-an-lua-tien-nguoi-mua-dat-o-phu-quoc-4750237.html) - 10:32 24/05/2024
 - 🗽 [Nữ kế toán chiếm đoạt 68 tỷ đồng bảo hiểm xã hội](https://vnexpress.net/nu-ke-toan-chiem-doat-68-ty-dong-bao-hiem-xa-hoi-4750236.html) - 09:54 24/05/2024
 - 🌋 [Hỗn chiến tại quán bi-a](https://vnexpress.net/hon-chien-tai-quan-bi-a-4750052.html) - 08:18 24/05/2024
