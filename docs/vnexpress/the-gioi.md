@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Hamas phóng loạt rocket vào thủ đô Israel](https://vnexpress.net/hamas-phong-loat-rocket-vao-thu-do-israel-4750775.html) - 12:15 26/05/2024
 - 🕴 [Cháy viện nhi Ấn Độ, 6 trẻ sơ sinh thiệt mạng](https://vnexpress.net/chay-vien-nhi-an-do-6-tre-so-sinh-thiet-mang-4750773.html) - 12:02 26/05/2024
-- 🤭 [Thách thức với đề xuất của Mỹ tận dụng tài sản Nga để hỗ trợ Ukraine](https://vnexpress.net/thach-thuc-voi-de-xuat-cua-my-tan-dung-tai-san-nga-de-ho-tro-ukraine-4750368.html) - 12:00 26/05/2024
+- 🤭 [Thách thức với cơ chế tận dụng tài sản Nga để hỗ trợ Ukraine](https://vnexpress.net/thach-thuc-voi-co-che-tan-dung-tai-san-nga-de-ho-tro-ukraine-4750368.html) - 12:00 26/05/2024
 - 🧑‍💻 [Trung - Hàn thúc đẩy đàm phán tự do thương mại](https://vnexpress.net/trung-han-thuc-day-dam-phan-tu-do-thuong-mai-4750769.html) - 11:50 26/05/2024
 - 🦏 [Ông Zelensky mời lãnh đạo Mỹ, Trung dự hội nghị hòa bình Ukraine](https://vnexpress.net/ong-zelensky-moi-lanh-dao-my-trung-du-hoi-nghi-hoa-binh-ukraine-4750765.html) - 11:06 26/05/2024
 - 🦒 [Lở đất Papua New Guinea có thể đã khiến hơn 670 người chết](https://vnexpress.net/lo-dat-papua-new-guinea-co-the-da-khien-hon-670-nguoi-chet-4750734.html) - 08:28 26/05/2024
