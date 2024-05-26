@@ -76,8 +76,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💫 [Tuần tới miền Bắc và Nam mưa giông](https://vnexpress.net/tuan-toi-mien-bac-va-nam-mua-giong-4750719.html) - 07:18 26/05/2024
 - 🤩 [&#39;Đừng biến mặc áo dài thành cơn ác mộng với bao đời nữ sinh&#39;](https://vnexpress.net/dung-bien-mac-ao-dai-thanh-con-ac-mong-voi-bao-doi-nu-sinh-4750717.html) - 07:15 26/05/2024
 - 🏊 [Ukraine để lọt tên lửa Kinzhal trong đòn tập kích của Nga](https://vnexpress.net/ukraine-de-lot-ten-lua-kinzhal-trong-don-tap-kich-cua-nga-4750715.html) - 06:54 26/05/2024
-- 💂 [Nhiều lao động đến đúng giờ &#39;điểm danh rồi đi ăn sáng, uống trà&#39;](https://vnexpress.net/nhieu-lao-dong-den-dung-gio-diem-danh-roi-di-an-sang-uong-tra-4750713.html) - 06:37 26/05/2024
-- 🚀 [Công ty bán phụ tùng cho Honda tính chia cổ tức 200%](https://vnexpress.net/co-khi-pho-yen-tinh-chia-co-tuc-gap-5-lan-gia-co-phieu-4750711.html) - 06:34 26/05/2024<!-- vnexpress:END -->
+- 💂 [Nhiều lao động đến đúng giờ &#39;điểm danh rồi đi ăn sáng, uống trà&#39;](https://vnexpress.net/nhieu-lao-dong-den-dung-gio-diem-danh-roi-di-an-sang-uong-tra-4750713.html) - 06:37 26/05/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
