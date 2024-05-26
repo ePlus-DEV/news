@@ -225,7 +225,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥷 [Tin 20h: Thay đổi hình thức nhận lương hưu hàng tháng bằng những cách nào?](https://laodong.vn/video/tin-20h-thay-doi-hinh-thuc-nhan-luong-huu-hang-thang-bang-nhung-cach-nao-1345050.ldo) - 13:00 26/05/2024
 - 💫 [Người mất hành vi dân sự làm thẻ căn cước thế nào?](https://laodong.vn/tu-van-phap-luat/nguoi-mat-hanh-vi-dan-su-lam-the-can-cuoc-the-nao-1343865.ldo) - 13:00 26/05/2024
 - 🎭 [Giờ thứ 9: Mất vợ - Phần 2](https://laodong.vn/gio-thu-9/gio-thu-9-mat-vo-phan-2-1344996.ldo) - 13:00 26/05/2024
-- 😎 [Trực tiếp Leeds 0-1 Southampton: Hết hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-leeds-0-1-southampton-het-hiep-1-1345017.ldo) - 13:00 26/05/2024
+- 😎 [Trực tiếp Leeds 0-1 Southampton: Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-leeds-0-1-southampton-hiep-2-1345017.ldo) - 13:00 26/05/2024
 - 💄 [Tủ sách Công đoàn nâng cao đời sống văn hóa người lao động](https://laodong.vn/cong-doan/tu-sach-cong-doan-nang-cao-doi-song-van-hoa-nguoi-lao-dong-1345044.ldo) - 13:00 26/05/2024
 - 🫣 [Giải bóng đá nữ vô địch quốc gia 2024: Thái Nguyên trở lại top 3](https://laodong.vn/bong-da/giai-bong-da-nu-vo-dich-quoc-gia-2024-thai-nguyen-tro-lai-top-3-1345069.ldo) - 12:48 26/05/2024
 - 🧑‍🏫 [Bóng chuyền Việt Nam 26.5: Thanh Thúy và những cầu thủ bị chấn thương](https://laodong.vn/the-thao/bong-chuyen-viet-nam-265-thanh-thuy-va-nhung-cau-thu-bi-chan-thuong-1345065.ldo) - 12:47 26/05/2024
