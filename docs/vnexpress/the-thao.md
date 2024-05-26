@@ -10,7 +10,7 @@ sidebar_position: 5
 - 🤗 [CAHN thua liền ba trận sau thời Kiatisuk](https://vnexpress.net/cahn-thua-lien-ba-tran-sau-thoi-kiatisuk-4750796.html) - 15:10 26/05/2024
 - 🥳 [Cơ thủ Trần Đức Minh lần đầu vô địch World Cup](https://vnexpress.net/co-thu-tran-duc-minh-lan-dau-vo-dich-world-cup-4750788.html) - 14:13 26/05/2024
 - 🦣 [Tiền đạo Nam Định phá kỷ lục ghi bàn của Lê Huỳnh Đức](https://vnexpress.net/tien-dao-nam-dinh-pha-ky-luc-ghi-ban-cua-le-huynh-duc-4750795.html) - 13:58 26/05/2024
-- 🌜 [Rafael ghi năm bàn, Nam Định thắng ngược ở V-League](https://vnexpress.net/rafael-ghi-nam-ban-nam-dinh-thang-nguoc-o-v-league-4750790.html) - 13:48 26/05/2024
+- 🌜 [Rafaelson ghi năm bàn, Nam Định thắng ngược ở V-League](https://vnexpress.net/rafaelson-ghi-nam-ban-nam-dinh-thang-nguoc-o-v-league-4750790.html) - 13:48 26/05/2024
 - 🫶 [Bóng chuyền nữ Việt Nam toàn thắng vòng bảng ở giải châu Á](https://vnexpress.net/bong-chuyen-nu-viet-nam-toan-thang-vong-bang-o-giai-chau-a-4750750.html) - 09:42 26/05/2024
 - 🌜 [Chủ Man Utd im lặng khi được hỏi về Ten Hag](https://vnexpress.net/chu-man-utd-im-lang-khi-duoc-hoi-ve-ten-hag-4750706.html) - 09:26 26/05/2024
 - 😺 [Garnacho, Mainoo san bằng thành tích của Ronaldo](https://vnexpress.net/garnacho-mainoo-san-bang-thanh-tich-cua-ronaldo-4750656.html) - 09:23 26/05/2024
