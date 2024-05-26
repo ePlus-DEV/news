@@ -77,7 +77,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤩 [L&#39;Arcade - dự án có lượng sản phẩm ít nhất đô thị Phú Mỹ Hưng](https://vnexpress.net/l-arcade-du-an-co-luong-san-pham-it-nhat-do-thi-phu-my-hung-4750660.html) - 02:30 26/05/2024
 - 🏊 [Phương Thanh, Siu Black làm mới &#39;Cô đơn trên sofa&#39;](https://vnexpress.net/phuong-thanh-siu-black-lam-moi-co-don-tren-sofa-4750654.html) - 02:23 26/05/2024
 - 💂 [Các thực phẩm nên ăn trước và sau tập luyện](https://vnexpress.net/cac-thuc-pham-nen-an-truoc-va-sau-tap-luyen-4750427.html) - 02:20 26/05/2024
-- 🚀 [Những người khoe giàu bị biến mất](https://vnexpress.net/nhung-nguoi-khoe-giau-bi-bien-mat-4750384.html) - 02:02 26/05/2024<!-- vnexpress:END -->
+- 🚀 [Những người khoe giàu bị biến mất](https://vnexpress.net/nhung-nguoi-khoe-giau-bi-bien-mat-4750384.html) - 02:02 26/05/2024
+- 🕴 [Hãng siêu xe có thể lắp riêng trạm xăng tại nhà khách hàng](https://vnexpress.net/hang-sieu-xe-co-the-lap-rieng-tram-xang-tai-nha-khach-hang-4750426.html) - 02:01 26/05/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
