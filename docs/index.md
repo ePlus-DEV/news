@@ -143,7 +143,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Ngân hàng đấu giá 340 m2 đất Hà Nội với giá 952 triệu đồng](https://thanhnien.vn/ngan-hang-dau-gia-340-m2-dat-ha-noi-voi-gia-952-trieu-dong-185240526175409782.htm) - 11:06 26/05/2024
+- 🤠 [Ngân hàng đấu giá 340m2 đất Hà Nội với giá 952 triệu đồng](https://thanhnien.vn/ngan-hang-dau-gia-340-m2-dat-ha-noi-voi-gia-952-trieu-dong-185240526175409782.htm) - 11:06 26/05/2024
 - 🥸 [Hái nấm lạ về nấu canh, 7 người ở Lào Cai bị ngộ độc](https://thanhnien.vn/hai-nam-la-ve-nau-canh-7-nguoi-o-lao-cai-bi-ngo-doc-18524052617272346.htm) - 11:03 26/05/2024
 - 🌁 [Hải Phòng: Phà Đồng Bài đi ra đảo Cát Bà gặp sự cố bị ngập nước](https://thanhnien.vn/hai-phong-pha-dong-bai-di-ra-dao-cat-ba-gap-su-co-bi-ngap-nuoc-185240526165511273.htm) - 11:01 26/05/2024
 - 🤡 [Mỹ nhân &#39;Trân Châu Cảng&#39; bị bắt nạt trên mạng xã hội vì quá đẹp](https://thanhnien.vn/thoi-trang-tre/my-nhan-tran-chau-cang-bi-bat-nat-tren-mang-xa-hoi-vi-qua-dep-185240525102718765.htm) - 11:00 26/05/2024
