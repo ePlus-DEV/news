@@ -394,7 +394,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [TỔNG THUẬT: Thủ tướng Phạm Minh Chính dự Diễn đàn nâng cao năng suất lao động quốc gia năm 2024](https://baochinhphu.vn/tong-thuat-thu-tuong-pham-minh-chinh-du-dien-dan-nang-cao-nang-suat-lao-dong-quoc-gia-nam-2024-102240526074819591.htm) - 09:28 26/05/2024
+- 💻 [TỔNG THUẬT: Thủ tướng Phạm Minh Chính dự Diễn đàn nâng cao năng suất lao động quốc gia năm 2024](https://baochinhphu.vn/tong-thuat-thu-tuong-pham-minh-chinh-du-dien-dan-nang-cao-nang-suat-lao-dong-quoc-gia-nam-2024-102240526074819591.htm) - 10:15 26/05/2024
 - 🌜 [Cà phê xuất khẩu vào châu Âu: Phải chứng minh không trồng trên đất rừng](https://baochinhphu.vn/ca-phe-xuat-khau-vao-chau-au-phai-chung-minh-khong-trong-tren-dat-rung-102240524160954603.htm) - 09:23 26/05/2024
 - 🦆 [Lãnh đạo Bắc Giang gặp gỡ, lắng nghe tâm tư nguyện vọng của công nhân lao động](https://baochinhphu.vn/lanh-dao-bac-giang-gap-go-lang-nghe-tam-tu-nguyen-vong-cua-cong-nhan-lao-dong-102240525191751828.htm) - 08:37 26/05/2024
 - 🌝 [Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ ngày 25/5/2024](https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-25-5-2024-102240526081911999.htm) - 08:35 26/05/2024
