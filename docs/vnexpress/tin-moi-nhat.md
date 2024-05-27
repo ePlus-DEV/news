@@ -54,5 +54,4 @@ sidebar_position: 9
 - 🐎 [Biophilic - xu hướng thiết kế mang thiên nhiên vào căn hộ](https://vnexpress.net/biophilic-xu-huong-thiet-ke-mang-thien-nhien-vao-can-ho-4742325.html) - 04:00 27/05/2024
 - 🏊 [Xe điện Hyundai Ioniq 5 N đánh bại Lamborghini, Porsche khi đua tăng tốc](https://vnexpress.net/xe-dien-hyundai-ioniq-5-n-danh-bai-lamborghini-porsche-khi-dua-tang-toc-4750888.html) - 03:59 27/05/2024
 - 🦩 [Sư tử trèo vào nhà dân bắt chó 75 kg](https://vnexpress.net/su-tu-treo-vao-nha-dan-bat-cho-75-kg-4750864.html) - 03:56 27/05/2024
-- 👍 [Bị phạt án chung thân vì chiếm đoạt 1.200 tỷ đồng của hai đại gia](https://vnexpress.net/bi-phat-an-chung-than-vi-chiem-doat-1-200-ty-dong-cua-hai-dai-gia-4750965.html) - 03:54 27/05/2024
-- 🔥 [Runner Kenya phá kỷ lục thế giới 10.000m nữ](https://vnexpress.net/runner-kenya-pha-ky-luc-the-gioi-10-000m-nu-4750986.html) - 03:54 27/05/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 👍 [Bị phạt án chung thân vì chiếm đoạt 1.200 tỷ đồng của hai đại gia](https://vnexpress.net/bi-phat-an-chung-than-vi-chiem-doat-1-200-ty-dong-cua-hai-dai-gia-4750965.html) - 03:54 27/05/2024<!-- vnexpress-tin-moi-nhat:END -->
