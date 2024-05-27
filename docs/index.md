@@ -204,46 +204,46 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Cầu ở Kiên Giang đang thi công bỗng nhiên bị sụt lún nghiêm trọng](https://laodong.vn/xa-hoi/cau-o-kien-giang-dang-thi-cong-bong-nhien-bi-sut-lun-nghiem-trong-1345270.ldo) - 05:27 27/05/2024
-- 📝 [Thần tượng SM giàu nhất nhì showbiz Hàn Quốc đóng phim mới](https://laodong.vn/giai-tri/than-tuong-sm-giau-nhat-nhi-showbiz-han-quoc-dong-phim-moi-1345245.ldo) - 05:24 27/05/2024
-- 🦏 [Nghỉ hưu có hơn 20 tỉ đồng đủ sống bao nhiêu năm không phải lo về tiền?](https://laodong.vn/gia-dinh-hon-nhan/nghi-huu-co-hon-20-ti-dong-du-song-bao-nhieu-nam-khong-phai-lo-ve-tien-1345252.ldo) - 05:22 27/05/2024
-- 🦩 [Nguyên nhân tiểu thương bỏ chợ, tập trung ra đường họp chợ cóc](https://laodong.vn/ban-doc/nguyen-nhan-tieu-thuong-bo-cho-tap-trung-ra-duong-hop-cho-coc-1345201.ldo) - 05:19 27/05/2024
-- 🦏 [Nhận định tuyển bóng chuyền nữ Việt Nam - Australia tại bán kết AVC Challenge Cup](https://laodong.vn/the-thao/nhan-dinh-tuyen-bong-chuyen-nu-viet-nam-australia-tai-ban-ket-avc-challenge-cup-1345207.ldo) - 05:15 27/05/2024
-- 🧰 [Nông dân Sóc Trăng thu tiền triệu từ loại rau cho hoa quanh năm](https://laodong.vn/photo/nong-dan-soc-trang-thu-tien-trieu-tu-loai-rau-cho-hoa-quanh-nam-1345175.ldo) - 05:15 27/05/2024
-- 🌊 [Hiện trường tan hoang sau vụ cháy tại Công ty Khánh Phú ở Ninh Bình](https://laodong.vn/photo/hien-truong-tan-hoang-sau-vu-chay-tai-cong-ty-khanh-phu-o-ninh-binh-1345234.ldo) - 05:13 27/05/2024
-- 🔥 [Ngọc Liên tiếc nuối vì bỏ lỡ sự nghiệp, kém nổi hơn Mỹ Tâm, Đàm Vĩnh Hưng](https://laodong.vn/van-hoa-giai-tri/ngoc-lien-tiec-nuoi-vi-bo-lo-su-nghiep-kem-noi-hon-my-tam-dam-vinh-hung-1345259.ldo) - 05:09 27/05/2024
-- 🦒 [Sinh viên hút thuốc lá, vừa hại sức khoẻ vừa hao tốn tiền bạc](https://laodong.vn/ban-doc/sinh-vien-hut-thuoc-la-vua-hai-suc-khoe-vua-hao-ton-tien-bac-1345237.ldo) - 05:07 27/05/2024
-- 💼 [Xảy ra động đất 3,4 độ richter tại Ninh Bình](https://laodong.vn/xa-hoi/xay-ra-dong-dat-34-do-richter-tai-ninh-binh-1345267.ldo) - 05:05 27/05/2024
-- 🤖 [Bà Rịa - Vũng Tàu bứt phá dẫn đầu cả nước về thu hút vốn FDI](https://laodong.vn/kinh-doanh/ba-ria-vung-tau-but-pha-dan-dau-ca-nuoc-ve-thu-hut-von-fdi-1345249.ldo) - 05:04 27/05/2024
-- 💪 [Nước súc miệng Smart A hô biến thành sản phẩm hỗ trợ điều trị ung thư](https://laodong.vn/video/nuoc-suc-mieng-smart-a-ho-bien-thanh-san-pham-ho-tro-dieu-tri-ung-thu-1345195.ldo) - 05:00 27/05/2024
-- 👍 [CADIVI: Nợ phải trả tăng mạnh, gấp đôi vốn chủ sở hữu](https://laodong.vn/kinh-doanh/cadivi-no-phai-tra-tang-manh-gap-doi-von-chu-so-huu-1336252.ldo) - 04:57 27/05/2024
-- 💂 [Vì sao ông Polking chưa dẫn dắt Công an Hà Nội ở trận đấu với Thể Công Viettel?](https://laodong.vn/bong-da/vi-sao-ong-polking-chua-dan-dat-cong-an-ha-noi-o-tran-dau-voi-the-cong-viettel-1345243.ldo) - 04:53 27/05/2024
-- 🧰 [Ôtô mất lái tông trúng 2 người bán hàng bên đường](https://laodong.vn/xa-hoi/oto-mat-lai-tong-trung-2-nguoi-ban-hang-ben-duong-1345263.ldo) - 04:51 27/05/2024
-- 🥷 [Xóa nợ bảo hiểm xã hội là đề xuất nhân văn, hợp lý, vì người lao động](https://laodong.vn/su-kien-binh-luan/xoa-no-bao-hiem-xa-hoi-la-de-xuat-nhan-van-hop-ly-vi-nguoi-lao-dong-1345066.ldo) - 04:47 27/05/2024
-- 💫 [Người đàn ông lao xuống sông cứu bé gái bị đuối nước](https://laodong.vn/nguoi-viet-tu-te/nguoi-dan-ong-lao-xuong-song-cuu-be-gai-bi-duoi-nuoc-1345257.ldo) - 04:46 27/05/2024
-- 🎭 [Nam Định tặng bằng khen 2 cá nhân cứu người vụ cháy tại Trung Kính](https://laodong.vn/xa-hoi/nam-dinh-tang-bang-khen-2-ca-nhan-cuu-nguoi-vu-chay-tai-trung-kinh-1345225.ldo) - 04:42 27/05/2024
-- 😎 [4 món ăn tốt nhất trong quá trình giảm cân](https://laodong.vn/suc-khoe/4-mon-an-tot-nhat-trong-qua-trinh-giam-can-1344759.ldo) - 04:37 27/05/2024
-- 💄 [Sinh viên chuộng ứng dụng AI nên hay không?](https://laodong.vn/video-xa-hoi/sinh-vien-chuong-ung-dung-ai-nen-hay-khong-1345250.ldo) - 04:35 27/05/2024
-- 🫣 [Trao tặng tiểu thuyết lịch sử về công nhân mỏ cho tỉnh Quảng Ninh](https://laodong.vn/video-van-hoa-giai-tri/trao-tang-tieu-thuyet-lich-su-ve-cong-nhan-mo-cho-tinh-quang-ninh-1345247.ldo) - 04:34 27/05/2024
-- 🧑‍🏫 [Mẫu bài tập chạy bộ tốt nhất để giảm cân](https://laodong.vn/dinh-duong-am-thuc/mau-bai-tap-chay-bo-tot-nhat-de-giam-can-1345240.ldo) - 04:30 27/05/2024
-- 🦣 [Lo bệnh vì mùi hóa chất từ công ty sơn](https://laodong.vn/xa-hoi/lo-benh-vi-mui-hoa-chat-tu-cong-ty-son-1345135.ldo) - 04:30 27/05/2024
-- 💫 [Ông chủ có 2 nhà riêng sẵn sàng cưới mẹ đơn thân sau khi hẹn hò](https://laodong.vn/gia-dinh-hon-nhan/ong-chu-co-2-nha-rieng-san-sang-cuoi-me-don-than-sau-khi-hen-ho-1345239.ldo) - 04:25 27/05/2024
-- ⛽️ [Bánh bèo bì - từ gánh hàng rong đến đặc sản 100 năm nức tiếng Bình Dương](https://laodong.vn/van-hoa-giai-tri/banh-beo-bi-tu-ganh-hang-rong-den-dac-san-100-nam-nuc-tieng-binh-duong-1345246.ldo) - 04:17 27/05/2024
-- 💫 [MV mới của NewJeans bị giới hạn độ tuổi, HYBE thực sự bỏ bê nhóm?](https://laodong.vn/giai-tri/mv-moi-cua-newjeans-bi-gioi-han-do-tuoi-hybe-thuc-su-bo-be-nhom-1345220.ldo) - 04:14 27/05/2024
-- 🥸 [Người có nồng độ axit uric cao có được uống rượu không?](https://laodong.vn/ban-tin/nguoi-co-nong-do-axit-uric-cao-co-duoc-uong-ruou-khong-1345229.ldo) - 04:12 27/05/2024
-- 🐻 [Bí quyết giúp tăng quá trình trao đổi chất khi giảm cân](https://laodong.vn/suc-khoe/bi-quyet-giup-tang-qua-trinh-trao-doi-chat-khi-giam-can-1344750.ldo) - 04:09 27/05/2024
-- 🪄 [Tặng quà cho công nhân lao động tỉnh Tuyên Quang](https://laodong.vn/cong-doan/tang-qua-cho-cong-nhan-lao-dong-tinh-tuyen-quang-1345213.ldo) - 04:08 27/05/2024
-- 🧑‍🏫 [Chuyển nhà tái định cư sang nhà ở xã hội để tránh lãng phí](https://laodong.vn/bat-dong-san/chuyen-nha-tai-dinh-cu-sang-nha-o-xa-hoi-de-tranh-lang-phi-1345059.ldo) - 04:00 27/05/2024
-- 🌊 [Cách chăm sóc cây trầu bà lá xẻ xanh tốt quanh năm](https://laodong.vn/chuyen-nha-minh/cach-cham-soc-cay-trau-ba-la-xe-xanh-tot-quanh-nam-1345223.ldo) - 03:58 27/05/2024
-- 💻 [Hàng loạt người dân ở &quot;rốn ngập&quot; TPHCM nâng nền nhà cao hơn đường cả mét](https://laodong.vn/video/hang-loat-nguoi-dan-o-ron-ngap-tphcm-nang-nen-nha-cao-hon-duong-ca-met-1344986.ldo) - 03:57 27/05/2024
-- 👨‍🏫 [Nga và đồng minh căn chỉnh giá khí đốt](https://laodong.vn/the-gioi/nga-va-dong-minh-can-chinh-gia-khi-dot-1345196.ldo) - 03:57 27/05/2024
-- 🌈 [Cựu Chủ tịch Tập đoàn Việt Hưng Phát bị tuyên án chung thân](https://laodong.vn/phap-luat/cuu-chu-tich-tap-doan-viet-hung-phat-bi-tuyen-an-chung-than-1345214.ldo) - 03:55 27/05/2024
-- 🐲 [Lãi suất MBBank: Gửi tiết kiệm 400 triệu đồng nhận bao nhiêu tiền lãi?](https://laodong.vn/tien-te-dau-tu/lai-suat-mbbank-gui-tiet-kiem-400-trieu-dong-nhan-bao-nhieu-tien-lai-1344973.ldo) - 03:54 27/05/2024
-- 🚀 [7 tuyến đường với tổng vốn 1.100 tỉ thúc đẩy phát triển vùng hồ Hòa Bình](https://laodong.vn/giao-thong/7-tuyen-duong-voi-tong-von-1100-ti-thuc-day-phat-trien-vung-ho-hoa-binh-1345093.ldo) - 03:50 27/05/2024
-- 😺 [Mùa hoa nở rộ trên thành phố bên sông Lô](https://laodong.vn/ban-tin/mua-hoa-no-ro-tren-thanh-pho-ben-song-lo-1345182.ldo) - 03:48 27/05/2024
-- 🕴 [Người axit uric cao có nên ăn lá lốt không?](https://laodong.vn/suc-khoe/nguoi-axit-uric-cao-co-nen-an-la-lot-khong-1345218.ldo) - 03:46 27/05/2024
-- 🌋 [Cách phối quần sọc caro dành cho thời trang hè](https://laodong.vn/thoi-trang/cach-phoi-quan-soc-caro-danh-cho-thoi-trang-he-1345212.ldo) - 03:42 27/05/2024
-- 💄 [Xavi cảnh báo người kế nhiệm tại Barcelona](https://laodong.vn/bong-da-quoc-te/xavi-canh-bao-nguoi-ke-nhiem-tai-barcelona-1345211.ldo) - 03:38 27/05/2024<!-- laodong:END -->
+- 🗽 [Đại diện Thiên An khẳng định thông tin Jack chu cấp 300 triệu đồng là sai sự thật](https://laodong.vn/van-hoa-giai-tri/dai-dien-thien-an-khang-dinh-thong-tin-jack-chu-cap-300-trieu-dong-la-sai-su-that-1345271.ldo) - 05:43 27/05/2024
+- 📝 [Cầu ở Kiên Giang đang thi công bỗng nhiên bị sụt lún nghiêm trọng](https://laodong.vn/xa-hoi/cau-o-kien-giang-dang-thi-cong-bong-nhien-bi-sut-lun-nghiem-trong-1345270.ldo) - 05:27 27/05/2024
+- 🦏 [Thần tượng SM giàu nhất nhì showbiz Hàn Quốc đóng phim mới](https://laodong.vn/giai-tri/than-tuong-sm-giau-nhat-nhi-showbiz-han-quoc-dong-phim-moi-1345245.ldo) - 05:24 27/05/2024
+- 🦩 [Nghỉ hưu có hơn 20 tỉ đồng đủ sống bao nhiêu năm không phải lo về tiền?](https://laodong.vn/gia-dinh-hon-nhan/nghi-huu-co-hon-20-ti-dong-du-song-bao-nhieu-nam-khong-phai-lo-ve-tien-1345252.ldo) - 05:22 27/05/2024
+- 🦏 [Nguyên nhân tiểu thương bỏ chợ, tập trung ra đường họp chợ cóc](https://laodong.vn/ban-doc/nguyen-nhan-tieu-thuong-bo-cho-tap-trung-ra-duong-hop-cho-coc-1345201.ldo) - 05:19 27/05/2024
+- 🧰 [Nhận định tuyển bóng chuyền nữ Việt Nam - Australia tại bán kết AVC Challenge Cup](https://laodong.vn/the-thao/nhan-dinh-tuyen-bong-chuyen-nu-viet-nam-australia-tai-ban-ket-avc-challenge-cup-1345207.ldo) - 05:15 27/05/2024
+- 🌊 [Nông dân Sóc Trăng thu tiền triệu từ loại rau cho hoa quanh năm](https://laodong.vn/photo/nong-dan-soc-trang-thu-tien-trieu-tu-loai-rau-cho-hoa-quanh-nam-1345175.ldo) - 05:15 27/05/2024
+- 🔥 [Hiện trường tan hoang sau vụ cháy tại Công ty Khánh Phú ở Ninh Bình](https://laodong.vn/photo/hien-truong-tan-hoang-sau-vu-chay-tai-cong-ty-khanh-phu-o-ninh-binh-1345234.ldo) - 05:13 27/05/2024
+- 🦒 [Ngọc Liên tiếc nuối vì bỏ lỡ sự nghiệp, kém nổi hơn Mỹ Tâm, Đàm Vĩnh Hưng](https://laodong.vn/van-hoa-giai-tri/ngoc-lien-tiec-nuoi-vi-bo-lo-su-nghiep-kem-noi-hon-my-tam-dam-vinh-hung-1345259.ldo) - 05:09 27/05/2024
+- 💼 [Sinh viên hút thuốc lá, vừa hại sức khoẻ vừa hao tốn tiền bạc](https://laodong.vn/ban-doc/sinh-vien-hut-thuoc-la-vua-hai-suc-khoe-vua-hao-ton-tien-bac-1345237.ldo) - 05:07 27/05/2024
+- 🤖 [Xảy ra động đất 3,4 độ richter tại Ninh Bình](https://laodong.vn/xa-hoi/xay-ra-dong-dat-34-do-richter-tai-ninh-binh-1345267.ldo) - 05:05 27/05/2024
+- 💪 [Bà Rịa - Vũng Tàu bứt phá dẫn đầu cả nước về thu hút vốn FDI](https://laodong.vn/kinh-doanh/ba-ria-vung-tau-but-pha-dan-dau-ca-nuoc-ve-thu-hut-von-fdi-1345249.ldo) - 05:04 27/05/2024
+- 👍 [Nước súc miệng Smart A hô biến thành sản phẩm hỗ trợ điều trị ung thư](https://laodong.vn/video/nuoc-suc-mieng-smart-a-ho-bien-thanh-san-pham-ho-tro-dieu-tri-ung-thu-1345195.ldo) - 05:00 27/05/2024
+- 💂 [CADIVI: Nợ phải trả tăng mạnh, gấp đôi vốn chủ sở hữu](https://laodong.vn/kinh-doanh/cadivi-no-phai-tra-tang-manh-gap-doi-von-chu-so-huu-1336252.ldo) - 04:57 27/05/2024
+- 🧰 [Vì sao ông Polking chưa dẫn dắt Công an Hà Nội ở trận đấu với Thể Công Viettel?](https://laodong.vn/bong-da/vi-sao-ong-polking-chua-dan-dat-cong-an-ha-noi-o-tran-dau-voi-the-cong-viettel-1345243.ldo) - 04:53 27/05/2024
+- 🥷 [Ôtô mất lái tông trúng 2 người bán hàng bên đường](https://laodong.vn/xa-hoi/oto-mat-lai-tong-trung-2-nguoi-ban-hang-ben-duong-1345263.ldo) - 04:51 27/05/2024
+- 💫 [Xóa nợ bảo hiểm xã hội là đề xuất nhân văn, hợp lý, vì người lao động](https://laodong.vn/su-kien-binh-luan/xoa-no-bao-hiem-xa-hoi-la-de-xuat-nhan-van-hop-ly-vi-nguoi-lao-dong-1345066.ldo) - 04:47 27/05/2024
+- 🎭 [Người đàn ông lao xuống sông cứu bé gái bị đuối nước](https://laodong.vn/nguoi-viet-tu-te/nguoi-dan-ong-lao-xuong-song-cuu-be-gai-bi-duoi-nuoc-1345257.ldo) - 04:46 27/05/2024
+- 😎 [Nam Định tặng bằng khen 2 cá nhân cứu người vụ cháy tại Trung Kính](https://laodong.vn/xa-hoi/nam-dinh-tang-bang-khen-2-ca-nhan-cuu-nguoi-vu-chay-tai-trung-kinh-1345225.ldo) - 04:42 27/05/2024
+- 💄 [4 món ăn tốt nhất trong quá trình giảm cân](https://laodong.vn/suc-khoe/4-mon-an-tot-nhat-trong-qua-trinh-giam-can-1344759.ldo) - 04:37 27/05/2024
+- 🫣 [Sinh viên chuộng ứng dụng AI nên hay không?](https://laodong.vn/video-xa-hoi/sinh-vien-chuong-ung-dung-ai-nen-hay-khong-1345250.ldo) - 04:35 27/05/2024
+- 🧑‍🏫 [Trao tặng tiểu thuyết lịch sử về công nhân mỏ cho tỉnh Quảng Ninh](https://laodong.vn/video-van-hoa-giai-tri/trao-tang-tieu-thuyet-lich-su-ve-cong-nhan-mo-cho-tinh-quang-ninh-1345247.ldo) - 04:34 27/05/2024
+- 🦣 [Mẫu bài tập chạy bộ tốt nhất để giảm cân](https://laodong.vn/dinh-duong-am-thuc/mau-bai-tap-chay-bo-tot-nhat-de-giam-can-1345240.ldo) - 04:30 27/05/2024
+- 💫 [Lo bệnh vì mùi hóa chất từ công ty sơn](https://laodong.vn/xa-hoi/lo-benh-vi-mui-hoa-chat-tu-cong-ty-son-1345135.ldo) - 04:30 27/05/2024
+- ⛽️ [Ông chủ có 2 nhà riêng sẵn sàng cưới mẹ đơn thân sau khi hẹn hò](https://laodong.vn/gia-dinh-hon-nhan/ong-chu-co-2-nha-rieng-san-sang-cuoi-me-don-than-sau-khi-hen-ho-1345239.ldo) - 04:25 27/05/2024
+- 💫 [Bánh bèo bì - từ gánh hàng rong đến đặc sản 100 năm nức tiếng Bình Dương](https://laodong.vn/van-hoa-giai-tri/banh-beo-bi-tu-ganh-hang-rong-den-dac-san-100-nam-nuc-tieng-binh-duong-1345246.ldo) - 04:17 27/05/2024
+- 🥸 [MV mới của NewJeans bị giới hạn độ tuổi, HYBE thực sự bỏ bê nhóm?](https://laodong.vn/giai-tri/mv-moi-cua-newjeans-bi-gioi-han-do-tuoi-hybe-thuc-su-bo-be-nhom-1345220.ldo) - 04:14 27/05/2024
+- 🐻 [Người có nồng độ axit uric cao có được uống rượu không?](https://laodong.vn/ban-tin/nguoi-co-nong-do-axit-uric-cao-co-duoc-uong-ruou-khong-1345229.ldo) - 04:12 27/05/2024
+- 🪄 [Bí quyết giúp tăng quá trình trao đổi chất khi giảm cân](https://laodong.vn/suc-khoe/bi-quyet-giup-tang-qua-trinh-trao-doi-chat-khi-giam-can-1344750.ldo) - 04:09 27/05/2024
+- 🧑‍🏫 [Tặng quà cho công nhân lao động tỉnh Tuyên Quang](https://laodong.vn/cong-doan/tang-qua-cho-cong-nhan-lao-dong-tinh-tuyen-quang-1345213.ldo) - 04:08 27/05/2024
+- 🌊 [Chuyển nhà tái định cư sang nhà ở xã hội để tránh lãng phí](https://laodong.vn/bat-dong-san/chuyen-nha-tai-dinh-cu-sang-nha-o-xa-hoi-de-tranh-lang-phi-1345059.ldo) - 04:00 27/05/2024
+- 💻 [Cách chăm sóc cây trầu bà lá xẻ xanh tốt quanh năm](https://laodong.vn/chuyen-nha-minh/cach-cham-soc-cay-trau-ba-la-xe-xanh-tot-quanh-nam-1345223.ldo) - 03:58 27/05/2024
+- 👨‍🏫 [Hàng loạt người dân ở &quot;rốn ngập&quot; TPHCM nâng nền nhà cao hơn đường cả mét](https://laodong.vn/video/hang-loat-nguoi-dan-o-ron-ngap-tphcm-nang-nen-nha-cao-hon-duong-ca-met-1344986.ldo) - 03:57 27/05/2024
+- 🌈 [Nga và đồng minh căn chỉnh giá khí đốt](https://laodong.vn/the-gioi/nga-va-dong-minh-can-chinh-gia-khi-dot-1345196.ldo) - 03:57 27/05/2024
+- 🐲 [Cựu Chủ tịch Tập đoàn Việt Hưng Phát bị tuyên án chung thân](https://laodong.vn/phap-luat/cuu-chu-tich-tap-doan-viet-hung-phat-bi-tuyen-an-chung-than-1345214.ldo) - 03:55 27/05/2024
+- 🚀 [Lãi suất MBBank: Gửi tiết kiệm 400 triệu đồng nhận bao nhiêu tiền lãi?](https://laodong.vn/tien-te-dau-tu/lai-suat-mbbank-gui-tiet-kiem-400-trieu-dong-nhan-bao-nhieu-tien-lai-1344973.ldo) - 03:54 27/05/2024
+- 😺 [7 tuyến đường với tổng vốn 1.100 tỉ thúc đẩy phát triển vùng hồ Hòa Bình](https://laodong.vn/giao-thong/7-tuyen-duong-voi-tong-von-1100-ti-thuc-day-phat-trien-vung-ho-hoa-binh-1345093.ldo) - 03:50 27/05/2024
+- 🕴 [Mùa hoa nở rộ trên thành phố bên sông Lô](https://laodong.vn/ban-tin/mua-hoa-no-ro-tren-thanh-pho-ben-song-lo-1345182.ldo) - 03:48 27/05/2024
+- 🌋 [Người axit uric cao có nên ăn lá lốt không?](https://laodong.vn/suc-khoe/nguoi-axit-uric-cao-co-nen-an-la-lot-khong-1345218.ldo) - 03:46 27/05/2024
+- 💄 [Cách phối quần sọc caro dành cho thời trang hè](https://laodong.vn/thoi-trang/cach-phoi-quan-soc-caro-danh-cho-thoi-trang-he-1345212.ldo) - 03:42 27/05/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
