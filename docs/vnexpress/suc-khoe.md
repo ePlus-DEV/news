@@ -5,8 +5,8 @@ sidebar_position: 10
 
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [Bác sĩ chữa trầm cảm: &#39;Đàn ông không dễ chấp nhận bệnh&#39;](https://vnexpress.net/bac-si-chua-tram-cam-dan-ong-khong-de-chap-nhan-benh-4748564.html) - 22:03 27/05/2024
-- 🥰 [Viêm mào tinh hoàn](https://vnexpress.net/viem-mao-tinh-hoan-4750801.html) - 18:00 27/05/2024
-- 💡 [Rối loạn nhịp tim](https://vnexpress.net/roi-loan-nhip-tim-4748897.html) - 17:03 27/05/2024
+- 🥰 [Viêm mào tinh hoàn](https://vnexpress.net/suc-khoe-cam-nang-cac-benh-viem-mao-tinh-hoan-4750801.html) - 18:00 27/05/2024
+- 💡 [Rối loạn nhịp tim](https://vnexpress.net/suc-khoe-cam-nang-cac-benh-roi-loan-nhip-tim-4748897.html) - 17:03 27/05/2024
 - 🤗 [Bệnh sởi trở lại TP HCM sau hơn một năm vắng bóng](https://vnexpress.net/benh-soi-tro-lai-tp-hcm-sau-hon-mot-nam-vang-bong-4751219.html) - 13:15 27/05/2024
 - 🪜 [Phân biệt bệnh gout và giả gout](https://vnexpress.net/phan-biet-benh-gout-va-gia-gout-4751115.html) - 11:02 27/05/2024
 - 🕯 [Những siêu thực phẩm trẻ nên ăn để phát triển tốt](https://vnexpress.net/nhung-sieu-thuc-pham-tre-nen-an-de-phat-trien-tot-4751072.html) - 11:00 27/05/2024
