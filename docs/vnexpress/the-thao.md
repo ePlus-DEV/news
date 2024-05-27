@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Cơ thủ Quyết Chiến cách đỉnh bảng thế giới chỉ một điểm](https://vnexpress.net/co-thu-quyet-chien-cach-dinh-bang-the-gioi-chi-mot-diem-4751141.html) - 09:35 27/05/2024
-- 🦩 [Công bố nguyên nhân golfer Mỹ chết khi đang đấu PGA Tour](https://vnexpress.net/cong-bo-nguyen-nhan-golfer-my-chet-khi-dang-dau-pga-tour-4751145.html) - 09:13 27/05/2024
+- 🦩 [Công bố nguyên nhân golfer Mỹ chết khi đang thi đấu ở PGA Tour](https://vnexpress.net/cong-bo-nguyen-nhan-golfer-my-chet-khi-dang-thi-dau-o-pga-tour-4751145.html) - 09:13 27/05/2024
 - 🧰 [Hai runner Việt Nam hoàn thành giải trail khó bậc nhất thế giới](https://vnexpress.net/hai-runner-viet-nam-hoan-thanh-giai-trail-kho-bac-nhat-the-gioi-4751016.html) - 08:29 27/05/2024
 - 🤗 [Hiện vật đặc biệt ở Charles Schwab Challenge](https://vnexpress.net/hien-vat-dac-biet-o-charles-schwab-challenge-4751114.html) - 08:21 27/05/2024
 - 🥳 [Liên đoàn Điền kinh đo đường chạy VM Quy Nhơn 2024](https://vnexpress.net/lien-doan-dien-kinh-do-duong-chay-vm-quy-nhon-2024-4751028.html) - 08:17 27/05/2024
