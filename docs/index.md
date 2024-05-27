@@ -27,7 +27,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Lý do học sinh chuyên Ngoại ngữ dễ du học](https://vnexpress.net/ly-do-hoc-sinh-chuyen-ngoai-ngu-de-du-hoc-4751098.html) - 15:56 27/05/2024
-- 🧰 [Trung tá CSGT bị xe máy tông tử vong](https://vnexpress.net/trung-ta-csgt-bi-xe-may-tong-tu-vong-4751245.html) - 15:54 27/05/2024
+- 🧰 [Nam cảnh sát giao thông bị xe máy tông tử vong](https://vnexpress.net/nam-canh-sat-giao-thong-bi-xe-may-tong-tu-vong-4751245.html) - 15:54 27/05/2024
 - 🥰 [World Bank đề xuất cho Việt Nam vay 11 tỷ USD trong 5 năm](https://vnexpress.net/thu-tuong-de-nghi-world-bank-danh-11-ty-usd-cho-mot-so-du-an-lon-4751237.html) - 15:53 27/05/2024
 - 🌏 [Nga sẽ đưa Taliban ra khỏi danh sách tổ chức khủng bố](https://vnexpress.net/nga-se-dua-taliban-ra-khoi-danh-sach-to-chuc-khung-bo-4751227.html) - 15:10 27/05/2024
 - 🧐 [Có nên lấy chồng lần hai khi nhiều bất đồng, tài chính kém?](https://vnexpress.net/co-nen-lay-chong-lan-hai-khi-nhieu-bat-dong-tai-chinh-kem-4751128.html) - 15:00 27/05/2024
