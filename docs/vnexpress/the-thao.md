@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Báo Hàn Quốc: &#39;Cơ thủ Đức Minh tạo cú sốc lớn trong lịch sử World Cup&#39;](https://vnexpress.net/bao-han-quoc-co-thu-duc-minh-tao-cu-soc-lon-trong-lich-su-world-cup-4750984.html) - 04:56 27/05/2024
-- 🦩 [Cách mỹ nhân điền kinh Trung Quốc vượt qua nỗi sợ hãi](https://vnexpress.net/cach-my-nhan-dien-kinh-trung-quoc-vuot-qua-noi-so-hai-4750527.html) - 04:41 27/05/2024
+- 🦩 [Mỹ nhân điền kinh Trung Quốc: &#39;Càng bị chỉ trích, tôi càng mạnh mẽ&#39;](https://vnexpress.net/my-nhan-dien-kinh-trung-quoc-cang-bi-chi-trich-toi-cang-manh-me-4750527.html) - 04:41 27/05/2024
 - 🧰 [Federer hoài nghi tình trạng của Nadal](https://vnexpress.net/federer-hoai-nghi-tinh-trang-cua-nadal-4750994.html) - 04:30 27/05/2024
 - 🤗 [Djokovic được dự đoán loại sớm ở Roland Garros](https://vnexpress.net/djokovic-duoc-du-doan-loai-som-o-roland-garros-4750975.html) - 04:30 27/05/2024
 - 🥳 [Runner Kenya phá kỷ lục thế giới 10.000m nữ](https://vnexpress.net/runner-kenya-pha-ky-luc-the-gioi-10-000m-nu-4750986.html) - 03:54 27/05/2024
