@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Đêm kinh hoàng trong trại tị nạn Rafah trúng đòn không kích Israel](https://vnexpress.net/dem-kinh-hoang-trong-trai-ti-nan-rafah-trung-don-khong-kich-israel-4751407.html) - 13:00 28/05/2024
-- 🕴 [Ukraine cảnh báo Mỹ không thể vắng mặt ở thượng đỉnh hòa bình](https://vnexpress.net/ukraine-canh-bao-my-khong-the-vang-mat-o-thuong-dinh-hoa-binh-4751623.html) - 12:49 28/05/2024
+- 🕴 [Ông Zelensky: Tổng thống Biden không thể vắng mặt ở hội nghị hòa bình](https://vnexpress.net/ong-zelensky-tong-thong-biden-khong-the-vang-mat-o-hoi-nghi-hoa-binh-4751623.html) - 12:49 28/05/2024
 - 🤭 [Cựu quan chức quản lý tài sản Trung Quốc bị tử hình vì nhận hối lộ](https://vnexpress.net/cuu-quan-chuc-quan-ly-tai-san-trung-quoc-bi-tu-hinh-vi-nhan-hoi-lo-4751615.html) - 12:26 28/05/2024
 - 🧑‍💻 [Ý nghĩa với Palestine khi được công nhận là nhà nước](https://vnexpress.net/y-nghia-voi-palestine-khi-duoc-cong-nhan-la-nha-nuoc-4751473.html) - 12:00 28/05/2024
 - 🦏 [Thụy Điển công bố gói viện trợ năng lượng cho Ukraine](https://vnexpress.net/thuy-dien-cong-bo-goi-vien-tro-nang-luong-cho-ukraine-4751612.html) - 11:08 28/05/2024
