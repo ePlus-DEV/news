@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Đề xuất người lao động đóng bù khoản BHXH bị &#39;trốn&#39; để hưởng chế độ](https://vnexpress.net/de-xuat-nguoi-lao-dong-dong-bu-khoan-bhxh-bi-tron-de-huong-che-do-4751222.html) - 23:00 27/05/2024
 - 🤓 [Giải cứu thú rừng mắc bẫy trong Vườn quốc gia](https://vnexpress.net/giai-cuu-thu-rung-mac-bay-trong-vuon-quoc-gia-4746195.html) - 23:00 27/05/2024
-- ⚗️ [Dự án lấn biển Vũng Tàu xây thủy cung được thi công tiếp](https://vnexpress.net/du-an-lan-bien-vung-tau-xay-thuy-cung-duoc-thi-cong-tiep-4751216.html) - 17:00 27/05/2024
+- ⚗️ [Dự án thủy cung lấn biển Vũng Tàu xây lại sau 4 năm dừng](https://vnexpress.net/du-an-thuy-cung-lan-bien-vung-tau-xay-lai-sau-4-nam-dung-4751216.html) - 17:00 27/05/2024
 - 🌊 [Trung tá CSGT bị xe máy tông tử vong](https://vnexpress.net/trung-ta-csgt-bi-xe-may-tong-tu-vong-4751245.html) - 15:54 27/05/2024
 - 🎓 [&#39;Quy định hưởng bảo hiểm xã hội một lần là vấn đề nhạy cảm&#39;](https://vnexpress.net/quy-dinh-huong-bao-hiem-xa-hoi-mot-lan-la-van-de-nhay-cam-4751189.html) - 13:46 27/05/2024
 - 🔥 [Cây đổ, đường ngập sau mưa giông lớn ở TP HCM](https://vnexpress.net/cay-do-duong-ngap-sau-mua-giong-lon-o-tp-hcm-4751215.html) - 12:27 27/05/2024
