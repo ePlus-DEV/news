@@ -39,7 +39,7 @@ sidebar_position: 9
 - 🌋 [Biết ơn chồng và con luôn bên em](https://vnexpress.net/biet-on-chong-va-con-luon-ben-em-4751377.html) - 12:00 28/05/2024
 - 🤖 [VnCA - kỹ thuật chẩn đoán suy giảm nhận thức](https://vnexpress.net/vnca-ky-thuat-chan-doan-suy-giam-nhan-thuc-4751589.html) - 12:00 28/05/2024
 - 🦏 [Chính sách đồng hành người nhập cư Canada từ CVT](https://vnexpress.net/chinh-sach-dong-hanh-nguoi-nhap-cu-canada-tu-cvt-4751435.html) - 12:00 28/05/2024
-- 🦩 [Tôi nên làm gì nếu khi gái nhiễm HPV?](https://vnexpress.net/toi-nen-lam-gi-neu-khi-gai-nhiem-hpv-4751315.html) - 12:00 28/05/2024
+- 🦩 [Tôi nên làm gì nếu khi bạn gái nhiễm HPV?](https://vnexpress.net/toi-nen-lam-gi-neu-khi-ban-gai-nhiem-hpv-4751315.html) - 12:00 28/05/2024
 - 👺 [Hai anh em tử vong dưới giếng](https://vnexpress.net/hai-anh-em-tu-vong-duoi-gieng-4751605.html) - 11:42 28/05/2024
 - 🧑‍🏫 [Nam sinh 14 tuổi hiến tạng cứu sống ba bệnh nhân](https://vnexpress.net/nam-sinh-14-tuoi-hien-tang-cuu-song-ba-benh-nhan-4751536.html) - 11:17 28/05/2024
 - 😎 [Thụy Điển công bố gói viện trợ năng lượng cho Ukraine](https://vnexpress.net/thuy-dien-cong-bo-goi-vien-tro-nang-luong-cho-ukraine-4751612.html) - 11:08 28/05/2024
