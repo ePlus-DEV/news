@@ -248,7 +248,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Nam thanh niên tử vong bất thường ở Quảng Bình](https://nld.com.vn/nam-thanh-nien-tu-vong-bat-thuong-o-quang-binh-196240528182700489.htm) - 11:38 28/05/2024
+- 🐎 [Phát hiện 2 thi thể ở Quảng Bình, Đắk Lắk](https://nld.com.vn/nam-thanh-nien-tu-vong-bat-thuong-o-quang-binh-196240528182700489.htm) - 11:38 28/05/2024
 - 😺 [Hai anh em tử vong dưới giếng](https://nld.com.vn/hai-anh-em-tu-vong-duoi-gieng-196240528180125366.htm) - 11:36 28/05/2024
 - 👍 [Lũ cát đỏ ở Bình Thuận: Chủ đầu tư dùng đất đắp để nắn dòng chảy là không đảm bảo](https://nld.com.vn/lu-cat-do-o-binh-thuan-chu-dau-tu-dung-dat-dap-de-nan-dong-chay-la-khong-dam-bao-196240528175704442.htm) - 11:31 28/05/2024
 - 🥷 [EU đã tài trợ Việt Nam bao nhiêu để chuyển đổi năng lượng?](https://nld.com.vn/eu-da-tai-tro-viet-nam-bao-nhieu-de-chuyen-doi-nang-luong-196240528180532176.htm) - 11:20 28/05/2024
