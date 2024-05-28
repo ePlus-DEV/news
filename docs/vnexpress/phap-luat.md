@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Doanh nhân 2 lần bị bắt oan được xin lỗi công khai](https://vnexpress.net/doanh-nhan-2-lan-bi-bat-oan-duoc-xin-loi-cong-khai-4751379.html) - 03:46 28/05/2024
+- 😎 [Doanh nhân 2 lần bị bắt oan được VKS An Giang, Long An xin lỗi](https://vnexpress.net/doanh-nhan-2-lan-bi-bat-oan-duoc-vks-an-giang-long-an-xin-loi-4751379.html) - 03:46 28/05/2024
 - 🥰 [Hai phương án về tên gọi tòa án cấp tỉnh, huyện](https://vnexpress.net/hai-phuong-an-ve-ten-goi-toa-an-cap-tinh-huyen-4751231.html) - 17:00 27/05/2024
 - 🎓 [Âm mưu báo thù của người đàn bà bất chấp thủ đoạn](https://vnexpress.net/am-muu-bao-thu-cua-nguoi-dan-ba-bat-chap-thu-doan-4751200.html) - 17:00 27/05/2024
 - 🤓 [Nhận hai tỷ đồng &#39;chạy án&#39; tử hình](https://vnexpress.net/nhan-hai-ty-dong-chay-an-tu-hinh-4751146.html) - 09:17 27/05/2024
