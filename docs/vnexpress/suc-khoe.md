@@ -9,7 +9,7 @@ sidebar_position: 10
 - 💡 [Quảng cáo sản phẩm tế bào gốc &#39;làm chậm lão hóa&#39; trái phép](https://vnexpress.net/quang-cao-san-pham-te-bao-goc-lam-cham-lao-hoa-trai-phep-4751628.html) - 12:29 28/05/2024
 - 🤗 [Bỏng 75% do châm xăng đốt rẫy khi đang hút thuốc](https://vnexpress.net/bong-75-do-cham-xang-dot-ray-khi-dang-hut-thuoc-4751626.html) - 12:28 28/05/2024
 - 🪜 [VnCA - kỹ thuật chẩn đoán suy giảm nhận thức](https://vnexpress.net/vnca-ky-thuat-chan-doan-suy-giam-nhan-thuc-4751589.html) - 12:00 28/05/2024
-- 🕯 [Tôi nên làm gì nếu khi gái nhiễm HPV?](https://vnexpress.net/toi-nen-lam-gi-neu-khi-gai-nhiem-hpv-4751315.html) - 12:00 28/05/2024
+- 🕯 [Tôi nên làm gì nếu khi bạn gái nhiễm HPV?](https://vnexpress.net/toi-nen-lam-gi-neu-khi-ban-gai-nhiem-hpv-4751315.html) - 12:00 28/05/2024
 - 🤭 [Nam sinh 14 tuổi hiến tạng cứu sống ba bệnh nhân](https://vnexpress.net/nam-sinh-14-tuoi-hien-tang-cuu-song-ba-benh-nhan-4751536.html) - 11:17 28/05/2024
 - 👀 [Mất giọng do polyp dây thanh quản](https://vnexpress.net/mat-giong-do-polyp-day-thanh-quan-4751454.html) - 11:00 28/05/2024
 - 🌋 [6 bệnh tuyến giáp thường gặp ở phụ nữ](https://vnexpress.net/6-benh-tuyen-giap-thuong-gap-o-phu-nu-4751384.html) - 09:00 28/05/2024
