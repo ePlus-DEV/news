@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Lao động đóng bù khoản nợ BHXH của doanh nghiệp là &#39;vô lý&#39;](https://vnexpress.net/lao-dong-dong-bu-khoan-no-bhxh-cua-doanh-nghiep-la-vo-ly-4751442.html) - 17:00 28/05/2024
+- 🦒 [Nếu lao động phải đóng bù khoản nợ BHXH của doanh nghiệp là &#39;vô lý&#39;](https://vnexpress.net/neu-lao-dong-phai-dong-bu-khoan-no-bhxh-cua-doanh-nghiep-la-vo-ly-4751442.html) - 17:00 28/05/2024
 - 🤓 [Hơn 100 hồ sơ đền bù cao tốc ở Đồng Nai có dấu hiệu &#39;chỉnh sửa&#39;](https://vnexpress.net/hon-100-ho-so-den-bu-cao-toc-o-dong-nai-co-dau-hieu-chinh-sua-4751490.html) - 13:00 28/05/2024
 - ⚗️ [Quận trung tâm TP HCM dự kiến thu 750 triệu đồng phí sử dụng vỉa hè](https://vnexpress.net/quan-trung-tam-tp-hcm-du-kien-thu-750-trieu-dong-phi-su-dung-via-he-4751622.html) - 12:08 28/05/2024
 - 🌊 [Hai anh em tử vong dưới giếng](https://vnexpress.net/hai-anh-em-tu-vong-duoi-gieng-4751605.html) - 11:42 28/05/2024
