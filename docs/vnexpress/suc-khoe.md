@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Bé 3 tuổi mắc chủng cúm A của năm 2009 suy hô hấp nặng](https://vnexpress.net/be-3-tuoi-mac-chung-cum-a-cua-nam-2009-suy-ho-hap-nang-4751448.html) - 06:14 28/05/2024
+- 🔥 [Bé 3 tuổi suy hô hấp nặng vì chủng cúm A của năm 2009](https://vnexpress.net/be-3-tuoi-suy-ho-hap-nang-vi-chung-cum-a-cua-nam-2009-4751448.html) - 06:14 28/05/2024
 - 🥰 [Bệnh gì gây khó nuốt?](https://vnexpress.net/benh-gi-gay-kho-nuot-4751422.html) - 06:00 28/05/2024
 - 💡 [Khám sức khỏe phát hiện u thận ác tính nhỏ bằng hạt đỗ](https://vnexpress.net/kham-suc-khoe-phat-hien-u-than-ac-tinh-nho-bang-hat-do-4751385.html) - 06:00 28/05/2024
 - 🤗 [Mảng trắng ở miệng có phải dấu hiệu ung thư miệng?](https://vnexpress.net/mang-trang-o-mieng-co-phai-dau-hieu-ung-thu-mieng-4751360.html) - 05:00 28/05/2024
