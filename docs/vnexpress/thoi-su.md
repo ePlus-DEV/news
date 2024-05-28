@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cấm ôtô tải, xe khách qua quốc lộ 53 vì sà lan tông dầm cầu](https://vnexpress.net/cam-oto-tai-xe-khach-qua-quoc-lo-53-vi-sa-lan-tong-dam-cau-4751559.html) - 09:33 28/05/2024
+- 🦒 [Sà lan chở đá đâm lệch nhịp cầu Mang Thít ở Vĩnh Long](https://vnexpress.net/sa-lan-cho-da-dam-lech-nhip-cau-mang-thit-o-vinh-long-4751559.html) - 09:33 28/05/2024
 - 🤓 [Tòa nhà sân golf đồi Cù Đà Lạt &#39;xây trên đất rừng phòng hộ&#39;](https://vnexpress.net/toa-nha-san-golf-doi-cu-da-lat-xay-tren-dat-rung-phong-ho-4751552.html) - 08:59 28/05/2024
 - ⚗️ [Cháy quán cơm, thiếu nữ 15 tuổi tử vong](https://vnexpress.net/chay-quan-com-thieu-nu-15-tuoi-tu-vong-4751498.html) - 08:40 28/05/2024
 - 🌊 [Hà Nội tính chỉ tiêu căn hộ chung cư thương mại 45-70 m2 hai người ở](https://vnexpress.net/ha-noi-tinh-chi-tieu-can-ho-chung-cu-thuong-mai-45-70-m2-hai-nguoi-o-4751438.html) - 07:21 28/05/2024
