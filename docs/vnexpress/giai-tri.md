@@ -62,5 +62,4 @@ sidebar_position: 5
 - 🦩 [Cannes ngày 12: Dàn sao Hollywood chưng diện ở bế mạc](https://vnexpress.net/cannes-ngay-12-dan-sao-hollywood-chung-dien-o-be-mac-4750651.html) - 01:39 26/05/2024
 - 🥸 [Phim 18+ về vũ công thoát y đoạt giải Cành Cọ Vàng 2024](https://vnexpress.net/phim-18-ve-vu-cong-thoat-y-doat-giai-canh-co-vang-2024-4750618.html) - 19:57 25/05/2024
 - 🧰 [Vợ Đức Tiến: &#39;Con gái chưa biết đã mất bố&#39;](https://vnexpress.net/vo-duc-tien-con-gai-chua-biet-da-mat-bo-4750523.html) - 17:00 25/05/2024
-- 💼 [Gu mặc tôn khí chất của Lee Young Ae](https://vnexpress.net/gu-mac-ton-khi-chat-cua-lee-young-ae-4750304.html) - 13:00 25/05/2024
-- 🧑‍💻 [Cannes ngày 11: Sao theo mốt gợi cảm với váy xẻ ngực, xuyên thấu](https://vnexpress.net/cannes-ngay-11-sao-theo-mot-goi-cam-voi-vay-xe-nguc-xuyen-thau-4750481.html) - 11:17 25/05/2024<!-- vnexpress-giai-tri:END -->
+- 💼 [Gu mặc tôn khí chất của Lee Young Ae](https://vnexpress.net/gu-mac-ton-khi-chat-cua-lee-young-ae-4750304.html) - 13:00 25/05/2024<!-- vnexpress-giai-tri:END -->
