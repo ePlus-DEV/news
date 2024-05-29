@@ -209,7 +209,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Chủ tịch tỉnh Thái Bình chỉ đạo khẩn trương khởi tố vụ trẻ mầm non tử vong](https://laodong.vn/xa-hoi/chu-tich-tinh-thai-binh-chi-dao-khan-truong-khoi-to-vu-tre-mam-non-tu-vong-1346419.ldo) - 15:16 29/05/2024
+- 🗽 [Chủ tịch tỉnh Thái Bình chỉ đạo khẩn trương khởi tố vụ trẻ tử vong vì bị bỏ quên trên xe](https://laodong.vn/xa-hoi/chu-tich-tinh-thai-binh-chi-dao-khan-truong-khoi-to-vu-tre-tu-vong-vi-bi-bo-quen-tren-xe-1346419.ldo) - 15:16 29/05/2024
 - 📝 [2 Mái ấm Công đoàn được bàn giao cho công nhân tại Hậu Giang](https://laodong.vn/ldld-hau-giang/2-mai-am-cong-doan-duoc-ban-giao-cho-cong-nhan-tai-hau-giang-1346412.ldo) - 15:03 29/05/2024
 - 🦏 [Giết người nghi mâu thuẫn tình cảm rồi đầu thú](https://laodong.vn/phap-luat/giet-nguoi-nghi-mau-thuan-tinh-cam-roi-dau-thu-1346396.ldo) - 15:02 29/05/2024
 - 🦩 [Khoảnh khắc tuyển bóng chuyền nữ Việt Nam vô địch AVC Challenge Cup 2024](https://laodong.vn/video/khoanh-khac-tuyen-bong-chuyen-nu-viet-nam-vo-dich-avc-challenge-cup-2024-1346402.ldo) - 14:56 29/05/2024
