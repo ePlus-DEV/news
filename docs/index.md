@@ -254,10 +254,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Nhiều bất cập trong lịch thi đấu V-League 2023-2024](https://nld.com.vn/nhieu-bat-cap-trong-lich-thi-dau-v-league-2023-2024-196240529213514585.htm) - 18:00 29/05/2024
-- 😺 [Thông tin đáng chú ý trên báo in Người Lao Động ngày 30-5](https://nld.com.vn/thong-tin-dang-chu-y-tren-bao-in-nguoi-lao-dong-ngay-30-5-196240529215537302.htm) - 17:09 29/05/2024
-- 👍 [Cựu cục phó thuộc Văn phòng Quốc hội lừa doanh nhân người Lào 1,8 triệu USD](https://nld.com.vn/cuu-cuc-pho-thuoc-van-phong-quoc-hoi-lua-doanh-nhan-nguoi-lao-18-trieu-usd-196240529231650624.htm) - 16:50 29/05/2024
-- 🥷 [Điểm nóng xung đột ngày 30-5: Mỹ có liên quan vụ Ukraine tấn công radar hạt nhân Nga?](https://nld.com.vn/diem-nong-xung-dot-ngay-30-5-my-co-lien-quan-vu-ukraine-tan-cong-radar-hat-nhan-nga-196240529214338387.htm) - 16:40 29/05/2024
+- 🐎 [Một bệnh nhi nguy kịch vì nhiễm amip ăn não](https://nld.com.vn/mot-benh-nhi-nguy-kich-vi-nhiem-amip-an-nao-196240529211325655.htm) - 18:30 29/05/2024
+- 😺 [Nhiều bất cập trong lịch thi đấu V-League 2023-2024](https://nld.com.vn/nhieu-bat-cap-trong-lich-thi-dau-v-league-2023-2024-196240529213514585.htm) - 18:00 29/05/2024
+- 👍 [Thông tin đáng chú ý trên báo in Người Lao Động ngày 30-5](https://nld.com.vn/thong-tin-dang-chu-y-tren-bao-in-nguoi-lao-dong-ngay-30-5-196240529215537302.htm) - 17:09 29/05/2024
+- 🥷 [Cựu cục phó thuộc Văn phòng Quốc hội lừa doanh nhân người Lào 1,8 triệu USD](https://nld.com.vn/cuu-cuc-pho-thuoc-van-phong-quoc-hoi-lua-doanh-nhan-nguoi-lao-18-trieu-usd-196240529231650624.htm) - 16:50 29/05/2024
 - 🤔 [Thao túng giá cổ phiếu, 4 người bị phạt đến 6 tỉ đồng](https://nld.com.vn/thao-tung-gia-co-phieu-4-nguoi-bi-phat-den-6-ti-dong-19624052922274773.htm) - 15:35 29/05/2024
 - 🌈 [Bầu Đức nhận thù lao bao nhiêu tại  Công ty CP Hoàng Anh Gia Lai?](https://nld.com.vn/bau-duc-nhan-thu-lao-bao-nhieu-tai-cong-ty-cp-hoang-anh-gia-lai-196240529215636422.htm) - 15:06 29/05/2024
 - 🔥 [Một trẻ mầm non nghi bị bỏ quên trên xe đưa đón, tử vong](https://nld.com.vn/mot-tre-mam-non-duoc-phat-hien-tu-vong-tren-xe-dua-don-196240529214507292.htm) - 14:56 29/05/2024
