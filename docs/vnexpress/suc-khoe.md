@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Đôi đồng tính nam bất ngờ phát hiện mắc HIV](https://vnexpress.net/doi-dong-tinh-nam-bat-ngo-phat-hien-mac-hiv-4751993.html) - 13:23 29/05/2024
+- 🔥 [Tưởng bệnh cảm, đôi đồng tính nam phát hiện mắc HIV](https://vnexpress.net/doi-dong-tinh-nam-bat-ngo-phat-hien-mac-hiv-4751993.html) - 13:23 29/05/2024
 - 🥰 [Rắn lục đuôi đỏ ẩn trong bãi cỏ cắn bé gái 4 tuổi](https://vnexpress.net/ran-luc-duoi-do-an-trong-bai-co-can-be-gai-4-tuoi-4752017.html) - 12:35 29/05/2024
 - 💡 [Nguyên nhân gây són tiểu ở phụ nữ lớn tuổi](https://vnexpress.net/nguyen-nhan-gay-son-tieu-o-phu-nu-lon-tuoi-4751947.html) - 12:00 29/05/2024
 - 🤗 [Bếp ăn tập thể 71 công nhân ngộ độc &#39;không đảm bảo vệ sinh&#39;](https://vnexpress.net/bep-an-tap-the-71-cong-nhan-ngo-doc-khong-dam-bao-ve-sinh-4752015.html) - 11:03 29/05/2024
