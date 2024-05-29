@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Cựu Hoa hậu tranh major US Women&#39;s Open 2024](https://vnexpress.net/cuu-hoa-hau-tranh-major-us-women-s-open-2024-4752028.html) - 09:44 29/05/2024
+- 🪜 [Cựu hoa hậu tranh major US Women&#39;s Open 2024](https://vnexpress.net/cuu-hoa-hau-tranh-major-us-women-s-open-2024-4752028.html) - 09:44 29/05/2024
 - 🦩 [Casemiro bất mãn với Ten Hag vì phải dự bị](https://vnexpress.net/casemiro-bat-man-voi-ten-hag-vi-phai-du-bi-4751979.html) - 09:27 29/05/2024
 - 🧰 [Ông bố &#39;mau nước mắt&#39; của tân vô địch PGA Championship](https://vnexpress.net/ong-bo-mau-nuoc-mat-cua-tan-vo-dich-pga-championship-4752009.html) - 09:21 29/05/2024
 - 🤗 [Cơ thủ Trần Đức Minh không bảo vệ World Cup](https://vnexpress.net/co-thu-tran-duc-minh-khong-bao-ve-world-cup-4751957.html) - 09:06 29/05/2024
