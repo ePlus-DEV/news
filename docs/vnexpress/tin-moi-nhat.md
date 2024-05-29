@@ -4,14 +4,14 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Bayern bổ nhiệm HLV Vincent Kompany](https://vnexpress.net/bayern-bo-nhiem-hlv-vincent-kompany-4750630.html) - 15:35 29/05/2024
+- 🎬 [Bayern công bố HLV Vincent Kompany](https://vnexpress.net/bayern-cong-bo-hlv-vincent-kompany-4750630.html) - 15:35 29/05/2024
 - 🐎 [Israel nói chiến dịch Gaza sẽ kéo dài tới cuối năm](https://vnexpress.net/israel-noi-chien-dich-gaza-se-keo-dai-toi-cuoi-nam-4752108.html) - 15:30 29/05/2024
 - 🦍 [Bạn gái có thai nhưng chưa muốn cưới](https://vnexpress.net/ban-gai-co-thai-nhung-chua-muon-cuoi-4752072.html) - 15:00 29/05/2024
 - 🏊 [Những lỗi sai phổ biến trong bài &#39;tìm x&#39; của đề thi Toán lớp 10](https://vnexpress.net/nhung-loi-sai-pho-bien-trong-bai-tim-x-cua-de-thi-toan-lop-10-4748014.html) - 15:00 29/05/2024
 - 🎊 [Nhà văn Lý Lan đoạt giải Hiệp sĩ Dế Mèn](https://vnexpress.net/nha-van-ly-lan-doat-giai-hiep-si-de-men-4752101.html) - 14:49 29/05/2024
 - 🎃 [Ngoại trưởng Nga: NATO không giải tán là &#39;sai lầm&#39;](https://vnexpress.net/ngoai-truong-nga-nato-khong-giai-tan-la-sai-lam-4752090.html) - 14:38 29/05/2024
 - 🧰 [VietinBank tài trợ 2 tỷ đồng hỗ trợ bệnh nhi ung thư](https://vnexpress.net/vietinbank-tai-tro-2-ty-dong-ho-tro-benh-nhi-ung-thu-4752094.html) - 14:32 29/05/2024
-- 🔭 [Bé trai 5 tuổi tử vong sau 11 tiếng bị bỏ quên trên xe đưa đón](https://vnexpress.net/be-trai-5-tuoi-tu-vong-do-bi-bo-quen-tren-xe-dua-don-4752100.html) - 14:31 29/05/2024
+- 🔭 [Bé trai 5 tuổi tử vong sau 11 tiếng bị bỏ quên trên xe đưa đón học sinh](https://vnexpress.net/be-trai-5-tuoi-tu-vong-do-bi-bo-quen-tren-xe-dua-don-4752100.html) - 14:31 29/05/2024
 - 🫶 [Trung Quốc sắp gửi cặp gấu trúc mới sang Mỹ](https://vnexpress.net/trung-quoc-sap-gui-cap-gau-truc-moi-sang-my-4752087.html) - 14:27 29/05/2024
 - 🪜 [Sát hại người đàn ông ở cửa phòng trọ vì ghen](https://vnexpress.net/sat-hai-nguoi-dan-ong-o-cua-phong-tro-vi-ghen-4752088.html) - 14:22 29/05/2024
 - 👨‍🏫 [TP HCM đặt hàng nghiên cứu khung bệnh án điện tử dùng chung](https://vnexpress.net/tp-hcm-dat-hang-nghien-cuu-khung-benh-an-dien-tu-dung-chung-4752063.html) - 14:14 29/05/2024
@@ -24,7 +24,7 @@ sidebar_position: 9
 - 🤓 [Vụ trưởng Tiểu học: Khen thưởng vì học sinh, không phải cho người lớn](https://vnexpress.net/vu-truong-tieu-hoc-khen-thuong-vi-hoc-sinh-khong-phai-cho-nguoi-lon-4751946.html) - 13:46 29/05/2024
 - 💪 [Vietjet nhận giải hãng bay siêu tiết kiệm tốt nhất thế giới](https://vnexpress.net/vietjet-nhan-giai-hang-bay-sieu-tiet-kiem-tot-nhat-the-gioi-4752085.html) - 13:45 29/05/2024
 - 🎓 [Băng nhóm livestream thiếu nữ khiêu dâm bị bắt](https://vnexpress.net/bang-nhom-livestream-thieu-nu-khieu-dam-bi-bat-4752036.html) - 13:27 29/05/2024
-- 🫣 [Tưởng bệnh cảm, đôi đồng tính nam phát hiện mắc HIV](https://vnexpress.net/doi-dong-tinh-nam-bat-ngo-phat-hien-mac-hiv-4751993.html) - 13:23 29/05/2024
+- 🫣 [Tưởng bệnh cảm, đôi đồng tính nam bất ngờ phát hiện mắc HIV](https://vnexpress.net/doi-dong-tinh-nam-bat-ngo-phat-hien-mac-hiv-4751993.html) - 13:23 29/05/2024
 - 🧑‍💻 [Nga thừa nhận UAV Ukraine có thể tập kích sâu 2.500 km](https://vnexpress.net/nga-thua-nhan-uav-ukraine-co-the-tap-kich-sau-2-500-km-4752068.html) - 13:12 29/05/2024
 - 🐲 [Barca công bố HLV Hansi Flick](https://vnexpress.net/barca-cong-bo-hlv-hansi-flick-4752082.html) - 13:08 29/05/2024
 - 🌝 [Tỉnh nào có hang động núi lửa lớn nhất Đông Nam Á?](https://vnexpress.net/tinh-nao-co-hang-dong-nui-lua-lon-nhat-dong-nam-a-4752065.html) - 13:00 29/05/2024
