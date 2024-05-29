@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Gia đình, đồng nghiệp tiễn biệt diễn viên Đức Tiến](https://vnexpress.net/gia-dinh-dong-nghiep-tien-biet-dien-vien-duc-tien-4751869.html) - 21:26 29/05/2024
+- 🌏 [Gia đình, đồng nghiệp tiễn biệt Đức Tiến](https://vnexpress.net/gia-dinh-dong-nghiep-tien-biet-duc-tien-4751869.html) - 21:26 29/05/2024
 - 💫 [Thu Hà: &#39;Tôi sống giản đơn&#39;](https://vnexpress.net/thu-ha-toi-song-gian-don-4751755.html) - 17:00 29/05/2024
 - 🌮 [Nhà văn Lý Lan đoạt giải Hiệp sĩ Dế Mèn](https://vnexpress.net/nha-van-ly-lan-doat-giai-hiep-si-de-men-4752101.html) - 14:49 29/05/2024
 - 🧠 [Cách siêu mẫu Cindy Crawford giữ sắc vóc](https://vnexpress.net/cach-sieu-mau-cindy-crawford-giu-sac-voc-4751188.html) - 14:00 29/05/2024
