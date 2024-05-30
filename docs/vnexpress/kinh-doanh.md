@@ -4,8 +4,8 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Trung Quốc hạn chế xuất khẩu thiết bị hàng không, vũ trụ](https://vnexpress.net/trung-quoc-han-che-xuat-khau-thiet-bi-hang-khong-vu-tru-4752485.html) - 11:35 30/05/2024
-- 🐲 [Vingroup và Mitsubishi ký ghi nhớ hợp tác chiến lược toàn diện](https://vnexpress.net/vingroup-va-mitsubishi-ky-ghi-nho-hop-tac-chien-luoc-toan-dien-4752488.html) - 10:00 30/05/2024
+- ⛽️ [Vingroup hợp tác với Mitsubishi trong 5 lĩnh vực](https://vnexpress.net/vingroup-hop-tac-voi-mitsubishi-trong-5-linh-vuc-4752488.html) - 14:00 30/05/2024
+- 🐲 [Trung Quốc hạn chế xuất khẩu thiết bị hàng không, vũ trụ](https://vnexpress.net/trung-quoc-han-che-xuat-khau-thiet-bi-hang-khong-vu-tru-4752485.html) - 11:35 30/05/2024
 - 🔥 [Bốn cá nhân bị phạt 6 tỷ đồng vì thao túng cổ phiếu](https://vnexpress.net/bon-ca-nhan-bi-phat-6-ty-dong-vi-thao-tung-co-phieu-4752416.html) - 09:30 30/05/2024
 - 🐵 [Sun Life ưu tiên bảo vệ tài chính cho khách hàng](https://vnexpress.net/sun-life-uu-tien-bao-ve-tai-chinh-cho-khach-hang-4752441.html) - 09:00 30/05/2024
 - 🦅 [VN-Index phục hồi vào cuối phiên](https://vnexpress.net/chung-khoan-hom-nay-30-5-vn-index-duoc-keo-diem-vao-cuoi-phien-4752417.html) - 08:41 30/05/2024
