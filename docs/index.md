@@ -151,7 +151,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [HLV Hà Tĩnh ‘đội CAHN đã đánh mất rất nhiều thứ”, HLV Polking ‘thật thất vọng’](https://thanhnien.vn/hlv-ha-tinh-doi-cahn-da-danh-mat-rat-nhieu-thu-hlv-polking-that-that-vong-185240530210937903.htm) - 14:38 30/05/2024
+- 🤠 [HLV Hà Tĩnh ‘đội CAHN đã đánh mất rất nhiều thứ’, HLV Polking ‘thật thất vọng’](https://thanhnien.vn/hlv-ha-tinh-doi-cahn-da-danh-mat-rat-nhieu-thu-hlv-polking-that-that-vong-185240530210937903.htm) - 14:38 30/05/2024
 - 🥸 [Hà Nội lo khó tìm nhà đầu tư dự án &#39;xương sống&#39; cho Vành đai 4](https://thanhnien.vn/ha-noi-lo-kho-tim-nha-dau-tu-du-an-xuong-song-cho-vanh-dai-4-185240530191317825.htm) - 14:37 30/05/2024
 - 🌁 [Công an kể lại thời điểm cứu người trong vụ cháy nhà trọ ở Hà Nội](https://thanhnien.vn/cong-an-ke-lai-thoi-diem-cuu-nguoi-trong-vu-chay-nha-tro-o-ha-noi-185240530174504117.htm) - 14:32 30/05/2024
 - 🤡 [Nữ đại úy xinh đẹp tiết lộ hôn nhân với đồng nghiệp của bố](https://thanhnien.vn/nu-dai-uy-xinh-dep-tiet-lo-hon-nhan-voi-dong-nghiep-cua-bo-185240530211328709.htm) - 14:30 30/05/2024
