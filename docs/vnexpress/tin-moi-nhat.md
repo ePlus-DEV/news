@@ -57,5 +57,4 @@ sidebar_position: 9
 - 👍 [Cách bảo quản tôm tươi bằng đường trắng](https://vnexpress.net/cach-bao-quan-tom-tuoi-bang-duong-trang-4752033.html) - 09:05 30/05/2024
 - 🔥 [Kỹ thuật tiếp đất của Hoàng Nguyên Thanh](https://vnexpress.net/ky-thuat-tiep-dat-cua-hoang-nguyen-thanh-4752337.html) - 09:03 30/05/2024
 - 💄 [Nga ủng hộ Trung Quốc mở hội nghị hòa bình Ukraine](https://vnexpress.net/nga-ung-ho-trung-quoc-mo-hoi-nghi-hoa-binh-ukraine-4752287.html) - 09:01 30/05/2024
-- 🤡 [Trải nghiệm cáp treo 3 dây dài nhất thế giới từ 250.000 đồng](https://vnexpress.net/trai-nghiem-cap-treo-3-day-dai-nhat-the-gioi-tu-250-000-dong-4752382.html) - 09:00 30/05/2024
-- ⛽️ [Sun Life ưu tiên bảo vệ tài chính cho khách hàng](https://vnexpress.net/sun-life-uu-tien-bao-ve-tai-chinh-cho-khach-hang-4752441.html) - 09:00 30/05/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🤡 [Trải nghiệm cáp treo 3 dây dài nhất thế giới từ 250.000 đồng](https://vnexpress.net/trai-nghiem-cap-treo-3-day-dai-nhat-the-gioi-tu-250-000-dong-4752382.html) - 09:00 30/05/2024<!-- vnexpress-tin-moi-nhat:END -->
