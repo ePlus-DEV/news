@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cựu cục phó Văn phòng Quốc hội bị cáo buộc lừa 41 tỷ đồng thế nào?](https://vnexpress.net/cuu-cuc-pho-van-phong-quoc-hoi-bi-cao-buoc-lua-41-ty-dong-the-nao-4752107.html) - 17:00 29/05/2024
+- 😎 [Cựu cục phó Văn phòng Quốc hội bị cáo buộc lừa 41 tỷ đồng thế nào](https://vnexpress.net/cuu-cuc-pho-van-phong-quoc-hoi-bi-cao-buoc-lua-41-ty-dong-the-nao-4752107.html) - 17:00 29/05/2024
 - 🥰 [Người nước ngoài cầm đầu sòng bạc trong khách sạn 5 sao](https://vnexpress.net/nguoi-nuoc-ngoai-cam-dau-song-bac-trong-khach-san-5-sao-4752091.html) - 17:00 29/05/2024
 - 🎓 [Khởi tố vụ án bé trai 5 tuổi tử vong vì bị bỏ quên trên xe](https://vnexpress.net/khoi-to-vu-an-tre-mam-non-tu-vong-vi-bi-bo-quen-tren-xe-4752119.html) - 16:26 29/05/2024
 - 🤓 [Sát hại người đàn ông ở cửa phòng trọ vì ghen](https://vnexpress.net/sat-hai-nguoi-dan-ong-o-cua-phong-tro-vi-ghen-4752088.html) - 14:22 29/05/2024
