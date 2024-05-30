@@ -322,7 +322,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- sggp:START -->
 - 🪜 [Ngược dòng thắng Hải Phòng, TC Viettel vào top 5](https://www.sggp.org.vn/nguoc-dong-thang-hai-phong-tc-viettel-vao-top-5-post742309.html) - 16:43 30/05/2024
 - 🌝 [Đà Nẵng dạy tư duy xanh cho thế hệ trẻ](https://www.sggp.org.vn/da-nang-day-tu-duy-xanh-cho-the-he-tre-post742294.html) - 15:25 30/05/2024
-- 💃 [Vui Tết Thiếu nhi sớm của em nhỏ tại Bệnh viện Đà Nẵng](https://www.sggp.org.vn/vui-tet-thieu-nhi-som-cua-em-nho-tai-benh-vien-da-nang-post742300.html) - 15:19 30/05/2024
+- 💃 [Vui tết thiếu nhi sớm của em nhỏ tại Bệnh viện Đà Nẵng](https://www.sggp.org.vn/vui-tet-thieu-nhi-som-cua-em-nho-tai-benh-vien-da-nang-post742300.html) - 15:19 30/05/2024
 - 🧑‍💻 [LPB HA.GL có nguy cơ xuống vị trí áp chót](https://www.sggp.org.vn/lpb-hagl-co-nguy-co-xuong-vi-tri-ap-chot-post742305.html) - 14:53 30/05/2024
 - 🌊 [V-League 2023-2024: Tân HLV Polking nhìn CAHN thua trận thứ 4 liên tiếp](https://www.sggp.org.vn/v-league-2023-2024-tan-hlv-polking-nhin-cahn-thua-tran-thu-4-lien-tiep-post742299.html) - 14:39 30/05/2024
 - 🧑‍💻 [Xây dựng các thiết chế văn hóa cơ sở gắn với không gian văn hóa Hồ Chí Minh](https://www.sggp.org.vn/xay-dung-cac-thiet-che-van-hoa-co-so-gan-voi-khong-gian-van-hoa-ho-chi-minh-post742292.html) - 14:23 30/05/2024
