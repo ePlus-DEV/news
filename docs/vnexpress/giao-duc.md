@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Học sinh VAS đoạt hơn 2.000 giải thưởng và 145 suất học bổng](https://vnexpress.net/hoc-sinh-vas-doat-hon-2-000-giai-thuong-va-145-suat-hoc-bong-4752363.html) - 07:30 30/05/2024
-- 🦆 [Yêu cầu xây dựng quy trình đưa đón trẻ sau vụ bé 5 tuổi tử vong trên ôtô](https://vnexpress.net/yeu-cau-xay-dung-quy-trinh-dua-don-tre-sau-vu-be-5-tuoi-tu-vong-tren-oto-4752336.html) - 05:47 30/05/2024
+- 🦆 [Thái Bình yêu cầu quy trình đưa đón trẻ sau vụ bé 5 tuổi tử vong](https://vnexpress.net/thai-binh-yeu-cau-quy-trinh-dua-don-tre-sau-vu-be-5-tuoi-tu-vong-4752336.html) - 05:47 30/05/2024
 - 🦩 [Chuyên gia NUS: Sinh viên cần thích nghi với chuyển đổi xanh](https://vnexpress.net/chuyen-gia-nus-sinh-vien-can-thich-nghi-voi-chuyen-doi-xanh-4751989.html) - 03:00 30/05/2024
 - 🌮 [Trường Trần Cao Vân TP HCM đạt kiểm định chất lượng cấp độ 1](https://vnexpress.net/truong-tran-cao-van-tp-hcm-dat-kiem-dinh-chat-luong-cap-do-1-4752023.html) - 02:00 30/05/2024
 - 🔭 [Trường Y công lập đầu tiên tuyển sinh bằng điểm Văn](https://vnexpress.net/truong-y-cong-lap-dau-tien-tuyen-sinh-bang-diem-van-4752115.html) - 00:28 30/05/2024
