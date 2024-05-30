@@ -82,8 +82,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦆 [&#39;I used to do&#39; và &#39;I&#39;m used to doing&#39; khác gì nhau?](https://vnexpress.net/i-used-to-do-va-i-m-used-to-doing-khac-gi-nhau-4752479.html) - 10:00 30/05/2024
 - 💫 [Điểm tin 21h: Nga nói NATO xúi giục Ukraine kéo dài chiến sự; Campuchia nếu thời điểm khởi công kênh Funan Techo](https://vnexpress.net/diem-tin-21h-nga-noi-nato-xui-giuc-ukraine-keo-dai-chien-su-campuchia-neu-thoi-diem-khoi-cong-kenh-funan-techo-4752492.html) - 10:00 30/05/2024
 - 🤓 [Co.opmart, Co.opxtra giảm giá hơn 1.000 sản phẩm đón Tết thiếu nhi](https://vnexpress.net/co-opmart-co-opxtra-giam-gia-hon-1-000-san-pham-don-tet-thieu-nhi-4752480.html) - 10:00 30/05/2024
-- 🤡 [Lý do phụ huynh chọn nền tảng giáo dục mobiEdu](https://vnexpress.net/ly-do-phu-huynh-chon-nen-tang-giao-duc-mobiedu-4752456.html) - 10:00 30/05/2024
-- 🧐 [Điều gì khiến cholesterol tăng cao?](https://vnexpress.net/dieu-gi-khien-cholesterol-tang-cao-4752412.html) - 10:00 30/05/2024<!-- vnexpress:END -->
+- 🤡 [Lý do phụ huynh chọn nền tảng giáo dục mobiEdu](https://vnexpress.net/ly-do-phu-huynh-chon-nen-tang-giao-duc-mobiedu-4752456.html) - 10:00 30/05/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
