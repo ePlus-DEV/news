@@ -18,7 +18,7 @@ sidebar_position: 3
 - 🕴 [Giá vàng miếng SJC quay đầu tăng nửa triệu đồng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-30-5-4752228.html) - 02:35 30/05/2024
 - 🦩 [Bỗng dưng nợ thuế](https://vnexpress.net/bong-dung-phat-hien-no-thue-4752047.html) - 02:19 30/05/2024
 - 👍 [Bốn dấu mốc ngành đồng hồ tại triển lãm Watches &amp;amp; Wonders](https://vnexpress.net/bon-dau-moc-nganh-dong-ho-tai-trien-lam-watches-wonders-4748254.html) - 01:00 30/05/2024
-- 🏊 [Mận hậu giá rẻ đổ bộ Sài Gòn](https://vnexpress.net/man-hau-gia-re-do-bo-sai-gon-4752452.html) - 22:00 29/05/2024
+- 🏊 [Thế kẹt của doanh nghiệp Nhật giữa căng thẳng Mỹ - Trung](https://vnexpress.net/the-ket-cua-doanh-nghiep-nhat-giua-cang-thang-my-trung-4752410.html) - 23:00 29/05/2024
 - 🤡 [Nhân dân tệ xuống đáy 6 tháng so với USD](https://vnexpress.net/nhan-dan-te-xuong-day-6-thang-so-voi-usd-4752051.html) - 13:56 29/05/2024
 - 👀 [Nga muốn tăng thuế nhà giàu](https://vnexpress.net/nga-muon-tang-thue-nha-giau-4751986.html) - 13:47 29/05/2024
 - 😺 [Sử dụng trợ lý AI để đào tạo nhân sự](https://vnexpress.net/su-dung-tro-ly-ai-de-dao-tao-nhan-su-4752057.html) - 13:00 29/05/2024
