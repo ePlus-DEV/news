@@ -311,7 +311,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Vụ cháu bé 5 tuổi bị bỏ quên trên xe ô tô ở Thái Bình: Tạm giữ hình sự cô giáo](https://www.sggp.org.vn/vu-chau-be-5-tuoi-bi-bo-quen-tren-xe-o-to-o-thai-binh-tam-giu-hinh-su-co-giao-post742223.html) - 05:14 30/05/2024
+- 🪜 [Bắt cô giáo trong vụ cháu bé 5 tuổi bị bỏ quên trên xe đưa đón ở Thái Bình](https://www.sggp.org.vn/bat-co-giao-trong-vu-chau-be-5-tuoi-bi-bo-quen-tren-xe-dua-don-o-thai-binh-post742223.html) - 05:14 30/05/2024
 - 🌝 [Trích xuất tin nhắn để làm rõ vụ án nữ 9x lừa đảo hơn 53 tỷ đồng](https://www.sggp.org.vn/trich-xuat-tin-nhan-de-lam-ro-vu-an-nu-9x-lua-dao-hon-53-ty-dong-post742213.html) - 04:55 30/05/2024
 - 💃 [Thể chế, thủ tục hành chính phức tạp đang bó buộc năng động, sáng tạo của địa phương](https://www.sggp.org.vn/the-che-thu-tuc-hanh-chinh-phuc-tap-dang-bo-buoc-nang-dong-sang-tao-cua-dia-phuong-post742210.html) - 04:49 30/05/2024
 - 🧑‍💻 [Tổ trọng tài người Syria điều hành trận Việt Nam – Philippines](https://www.sggp.org.vn/to-trong-tai-nguoi-syria-dieu-hanh-tran-viet-nam-philippines-post742225.html) - 04:46 30/05/2024
