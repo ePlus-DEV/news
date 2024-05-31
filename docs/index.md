@@ -322,7 +322,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎬 [Cựu Chủ tịch Liên minh hợp tác xã tỉnh Hòa Bình bị khởi tố](https://www.sggp.org.vn/cuu-chu-tich-lien-minh-hop-tac-xa-tinh-hoa-binh-bi-khoi-to-post742351.html) - 01:52 31/05/2024
 - 🦩 [An toàn trong mùa mưa](https://www.sggp.org.vn/an-toan-trong-mua-mua-post742249.html) - 01:43 31/05/2024
 - 🌮 [Góp ý cho dự thảo Luật Hóa chất &lpar;sửa đổi&rpar;](https://www.sggp.org.vn/gop-y-cho-du-thao-luat-hoa-chat-sua-doi-post742347.html) - 01:43 31/05/2024
-- 👍 [Cựu Tổng thống Donald Trump bị kết tội hình sự](https://www.sggp.org.vn/cuu-tong-thong-donald-trump-bi-ket-toi-hinh-su-post742348.html) - 01:38 31/05/2024
+- 👍 [Cựu Tổng thống Donald Trump bị kết tội hình sự, tuyên án vào tháng 7](https://www.sggp.org.vn/cuu-tong-thong-donald-trump-bi-ket-toi-hinh-su-tuyen-an-vao-thang-7-post742348.html) - 01:38 31/05/2024
 - 🦒 [Cavani chia tay tuyển Uruguay ngay trước Copa America 2024](https://www.sggp.org.vn/cavani-chia-tay-tuyen-uruguay-ngay-truoc-copa-america-2024-post742346.html) - 01:20 31/05/2024
 - 🤡 [“Thước đo” của phát triển lao động thành phố](https://www.sggp.org.vn/thuoc-do-cua-phat-trien-lao-dong-thanh-pho-post742327.html) - 01:18 31/05/2024
 - 🐎 [Hyundai Accent hoàn toàn mới ra mắt thị trường Việt Nam](https://www.sggp.org.vn/hyundai-accent-hoan-toan-moi-ra-mat-thi-truong-viet-nam-post742272.html) - 01:10 31/05/2024
