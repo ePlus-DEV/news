@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Bị phạt vì đốt vàng mã ở cầu thang khu tập thể](https://vnexpress.net/bi-phat-vi-dot-vang-ma-o-cau-thang-khu-tap-the-4752963.html) - 15:26 31/05/2024
-- 🤓 [Xe tải rơi xuống cầu sau tai nạn trên cao tốc La Sơn - Túy Loan](https://vnexpress.net/xe-tai-roi-xuong-cau-sau-tai-nan-tren-cao-toc-la-son-tuy-loan-4752959.html) - 15:13 31/05/2024
+- 🤓 [Xe tải rơi xuống gầm cầu sau tai nạn ở cao tốc La Sơn - Túy Loan](https://vnexpress.net/xe-tai-roi-xuong-cau-sau-tai-nan-tren-cao-toc-la-son-tuy-loan-4752959.html) - 15:13 31/05/2024
 - ⚗️ [Đại biểu đề xuất &#39;tỉnh giàu hỗ trợ tỉnh nghèo&#39;](https://vnexpress.net/dai-bieu-de-xuat-tinh-giau-ho-tro-tinh-ngheo-4752923.html) - 15:06 31/05/2024
 - 🌊 [Không đập bỏ tượng rồng khổng lồ ở hồ Thủy Tiên](https://vnexpress.net/khong-dap-bo-tuong-rong-khong-lo-o-ho-thuy-tien-4752928.html) - 13:40 31/05/2024
 - 🎓 [Đường phố Đồng Nai, TP HCM ngập nặng sau mưa lớn](https://vnexpress.net/duong-pho-dong-nai-tp-hcm-ngap-nang-sau-mua-lon-4752892.html) - 10:59 31/05/2024
