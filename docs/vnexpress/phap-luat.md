@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Nhà tài phiệt trả gần 1 tỷ USD trong vụ ly hôn đắt nhất Hàn Quốc](https://vnexpress.net/nha-tai-phiet-tra-gan-1-ty-usd-trong-vu-ly-hon-dat-nhat-han-quoc-4752693.html) - 03:25 31/05/2024
 - 🥰 [Kẻ hiếp dâm bé 12 tuổi được trắng án vì &#39;phong tục tập quán&#39;](https://vnexpress.net/ke-hiep-dam-be-12-tuoi-duoc-trang-an-vi-phong-tuc-tap-quan-4752509.html) - 17:00 30/05/2024
 - 🎓 [Lừa cúng giải vong](https://vnexpress.net/lua-cung-giai-vong-4752568.html) - 15:51 30/05/2024
-- 🤓 [Phạt chung thân người giả con cựu thứ trưởng, lừa bán găng tay y tế](https://vnexpress.net/phat-chung-than-nguoi-gia-con-cuu-thu-truong-lua-ban-gang-tay-y-te-4752550.html) - 15:19 30/05/2024
+- 🤓 [Người xưng con thứ trưởng bị phạt án chung thân](https://vnexpress.net/phat-chung-than-nguoi-gia-con-cuu-thu-truong-lua-ban-gang-tay-y-te-4752550.html) - 15:19 30/05/2024
 - 🎊 [Cuồng ghen sau 10 năm xa cách người yêu cũ](https://vnexpress.net/cuong-ghen-sau-10-nam-xa-cach-nguoi-yeu-cu-4752552.html) - 14:54 30/05/2024
 - 🙉 [Người bán hàng rong bị tuyên 18 năm tù vì chém tổ tuần tra](https://vnexpress.net/nguoi-ban-hang-rong-bi-tuyen-18-nam-tu-vi-chem-to-tuan-tra-4752544.html) - 14:15 30/05/2024
 - 🤡 [Hàng loạt cựu lãnh đạo Đà Nẵng bị trích lục hồ sơ](https://vnexpress.net/hang-loat-cuu-lanh-dao-da-nang-bi-trich-luc-ho-so-4752534.html) - 13:47 30/05/2024
