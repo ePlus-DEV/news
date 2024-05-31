@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Thông hầm đường sắt Chí Thạnh sau 10 ngày sửa chữa](https://vnexpress.net/thong-ham-duong-sat-chi-thanh-sau-10-ngay-sua-chua-4752781.html) - 05:53 31/05/2024
+- 🦒 [Thông hầm đường sắt ở Phú Yên sau 10 ngày sạt lở, ùn tắc](https://vnexpress.net/thong-ham-duong-sat-o-phu-yen-sau-10-ngay-sat-lo-un-tac-4752781.html) - 05:53 31/05/2024
 - 🤓 [Đà Nẵng có thể là địa phương đầu tiên được lập khu thương mại tự do](https://vnexpress.net/da-nang-co-the-la-dia-phuong-dau-tien-duoc-lap-khu-thuong-mai-tu-do-4752754.html) - 05:04 31/05/2024
 - ⚗️ [4 ôtô tông liên hoàn trên quốc lộ 1](https://vnexpress.net/4-oto-tong-lien-hoan-tren-quoc-lo-1-4752706.html) - 03:48 31/05/2024
 - 🌊 [San hô ở biển Côn Đảo chết hàng loạt](https://vnexpress.net/san-ho-o-bien-con-dao-chet-hang-loat-4752630.html) - 02:44 31/05/2024
