@@ -62,5 +62,4 @@ sidebar_position: 5
 - 🦩 [Đặng Thái Sơn: &#39;Mỗi lần lên sân khấu đều như lần cuối&#39;](https://vnexpress.net/dang-thai-son-moi-lan-len-san-khau-deu-nhu-lan-cuoi-4750058.html) - 04:41 27/05/2024
 - 🥸 [Jeon Ji Hyun được khen &#39;nhan sắc không tuổi&#39;](https://vnexpress.net/jeon-ji-hyun-duoc-khen-nhan-sac-khong-tuoi-4750596.html) - 03:40 27/05/2024
 - 🧰 [Con gái út của Brad Pitt bỏ họ bố](https://vnexpress.net/con-gai-ut-cua-brad-pitt-bo-ho-bo-4750890.html) - 02:19 27/05/2024
-- 💼 [Trấn Thành, Ngọc Trinh cùng dàn sao dự show thời trang](https://vnexpress.net/tran-thanh-ngoc-trinh-cung-dan-sao-du-show-thoi-trang-4750840.html) - 01:36 27/05/2024
-- 🧑‍💻 [Dàn diễn viên &#39;Đất phương Nam&#39; sau gần 30 năm](https://vnexpress.net/dan-dien-vien-dat-phuong-nam-sau-gan-30-nam-4747951.html) - 17:00 26/05/2024<!-- vnexpress-giai-tri:END -->
+- 💼 [Trấn Thành, Ngọc Trinh cùng dàn sao dự show thời trang](https://vnexpress.net/tran-thanh-ngoc-trinh-cung-dan-sao-du-show-thoi-trang-4750840.html) - 01:36 27/05/2024<!-- vnexpress-giai-tri:END -->
