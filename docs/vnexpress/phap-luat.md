@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Người &#39;thu phế&#39; xe qua cửa khẩu Lào Cai bị tạm giữ](https://vnexpress.net/nguoi-thu-phe-xe-qua-cua-khau-lao-cai-bi-tam-giu-4752894.html) - 10:04 31/05/2024
+- 😎 [Người ép tài xế đưa tiền khi qua cửa khẩu Lào Cai bị tạm giữ](https://vnexpress.net/nguoi-thu-phe-xe-qua-cua-khau-lao-cai-bi-tam-giu-4752894.html) - 10:04 31/05/2024
 - 🥰 [Hãng hàng không bị kiện vì không nhận khách &#39;nặng mùi&#39;](https://vnexpress.net/american-airlines-bi-kien-vi-khong-nhan-hanh-khach-nang-mui-4752873.html) - 09:53 31/05/2024
 - 🎓 [Nghịch súng làm bạn nhậu tử vong](https://vnexpress.net/nghich-sung-lam-ban-nhau-tu-vong-4752871.html) - 09:33 31/05/2024
 - 🤓 [Mẹ kiện Snapchat vì con 13 tuổi sập bẫy tống tiền tình dục](https://vnexpress.net/me-kien-snapchat-vi-con-13-tuoi-sap-bay-tong-tien-tinh-duc-4752878.html) - 09:32 31/05/2024
