@@ -4,23 +4,23 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Mận hậu giá rẻ đổ bộ Sài Gòn](https://vnexpress.net/man-hau-gia-re-do-bo-sai-gon-4752452.html) - 22:00 30/05/2024
-- 🐲 [Những nữ tỷ phú tự thân giàu nhất nước Mỹ](https://vnexpress.net/nhung-nu-ty-phu-tu-than-giau-nhat-nuoc-my-4752294.html) - 17:00 30/05/2024
-- 🔥 [Vingroup hợp tác với Mitsubishi trong 5 lĩnh vực](https://vnexpress.net/vingroup-hop-tac-voi-mitsubishi-trong-5-linh-vuc-4752488.html) - 14:00 30/05/2024
-- 🐵 [Trung Quốc hạn chế xuất khẩu thiết bị hàng không, vũ trụ](https://vnexpress.net/trung-quoc-han-che-xuat-khau-thiet-bi-hang-khong-vu-tru-4752485.html) - 11:35 30/05/2024
-- 🦅 [Bốn cá nhân bị phạt 6 tỷ đồng vì thao túng cổ phiếu](https://vnexpress.net/bon-ca-nhan-bi-phat-6-ty-dong-vi-thao-tung-co-phieu-4752416.html) - 09:30 30/05/2024
-- 😺 [Sun Life ưu tiên bảo vệ tài chính cho khách hàng](https://vnexpress.net/sun-life-uu-tien-bao-ve-tai-chinh-cho-khach-hang-4752441.html) - 09:00 30/05/2024
-- 🤩 [VN-Index phục hồi vào cuối phiên](https://vnexpress.net/chung-khoan-hom-nay-30-5-vn-index-duoc-keo-diem-vao-cuoi-phien-4752417.html) - 08:41 30/05/2024
-- 🌮 [Giá xăng, dầu diesel giảm](https://vnexpress.net/gia-xang-moi-nhat-hom-nay-30-5-4752396.html) - 07:42 30/05/2024
-- 🧰 [BIDV, Agribank nói sẽ bán vàng &#39;không vì lợi nhuận&#39;](https://vnexpress.net/bidv-noi-se-ban-vang-khong-vi-loi-nhuan-4752332.html) - 05:20 30/05/2024
-- 🤔 [Lợi nhuận Heineken Việt Nam giảm mạnh](https://vnexpress.net/loi-nhuan-heineken-viet-nam-giam-manh-4752304.html) - 04:55 30/05/2024
-- 🧑‍💻 [Chicilon Media mở rộng hợp tác với công ty nghiên cứu TNS](https://vnexpress.net/chicilon-media-mo-rong-hop-tac-voi-cong-ty-nghien-cuu-tns-4752059.html) - 04:00 30/05/2024
-- 🕴 [Forbes: Elon Musk lại giàu nhất thế giới](https://vnexpress.net/forbes-elon-musk-lai-giau-nhat-the-gioi-4752217.html) - 03:43 30/05/2024
-- 🦩 [Lương bầu Đức năm nay tăng gấp đôi](https://vnexpress.net/luong-bau-duc-nam-nay-tang-gap-doi-4752235.html) - 03:18 30/05/2024
-- 👍 [Giá vàng miếng SJC quay đầu tăng nửa triệu đồng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-30-5-4752228.html) - 02:35 30/05/2024
-- 🏊 [Bỗng dưng nợ thuế](https://vnexpress.net/bong-dung-phat-hien-no-thue-4752047.html) - 02:19 30/05/2024
-- 🤡 [Bốn dấu mốc ngành đồng hồ tại triển lãm Watches &amp;amp; Wonders](https://vnexpress.net/bon-dau-moc-nganh-dong-ho-tai-trien-lam-watches-wonders-4748254.html) - 01:00 30/05/2024
-- 👀 [Thế kẹt của doanh nghiệp Nhật giữa căng thẳng Mỹ - Trung](https://vnexpress.net/the-ket-cua-doanh-nghiep-nhat-giua-cang-thang-my-trung-4752410.html) - 23:00 29/05/2024
+- ⛽️ [Thế khó của doanh nghiệp Nhật giữa căng thẳng Mỹ - Trung](https://vnexpress.net/the-kho-cua-doanh-nghiep-nhat-giua-cang-thang-my-trung-4752410.html) - 23:00 30/05/2024
+- 🐲 [Mận hậu giá rẻ đổ bộ Sài Gòn](https://vnexpress.net/man-hau-gia-re-do-bo-sai-gon-4752452.html) - 22:00 30/05/2024
+- 🔥 [Những nữ tỷ phú tự thân giàu nhất nước Mỹ](https://vnexpress.net/nhung-nu-ty-phu-tu-than-giau-nhat-nuoc-my-4752294.html) - 17:00 30/05/2024
+- 🐵 [Vingroup hợp tác với Mitsubishi trong 5 lĩnh vực](https://vnexpress.net/vingroup-hop-tac-voi-mitsubishi-trong-5-linh-vuc-4752488.html) - 14:00 30/05/2024
+- 🦅 [Trung Quốc hạn chế xuất khẩu thiết bị hàng không, vũ trụ](https://vnexpress.net/trung-quoc-han-che-xuat-khau-thiet-bi-hang-khong-vu-tru-4752485.html) - 11:35 30/05/2024
+- 😺 [Bốn cá nhân bị phạt 6 tỷ đồng vì thao túng cổ phiếu](https://vnexpress.net/bon-ca-nhan-bi-phat-6-ty-dong-vi-thao-tung-co-phieu-4752416.html) - 09:30 30/05/2024
+- 🤩 [Sun Life ưu tiên bảo vệ tài chính cho khách hàng](https://vnexpress.net/sun-life-uu-tien-bao-ve-tai-chinh-cho-khach-hang-4752441.html) - 09:00 30/05/2024
+- 🌮 [VN-Index phục hồi vào cuối phiên](https://vnexpress.net/chung-khoan-hom-nay-30-5-vn-index-duoc-keo-diem-vao-cuoi-phien-4752417.html) - 08:41 30/05/2024
+- 🧰 [Giá xăng, dầu diesel giảm](https://vnexpress.net/gia-xang-moi-nhat-hom-nay-30-5-4752396.html) - 07:42 30/05/2024
+- 🤔 [BIDV, Agribank nói sẽ bán vàng &#39;không vì lợi nhuận&#39;](https://vnexpress.net/bidv-noi-se-ban-vang-khong-vi-loi-nhuan-4752332.html) - 05:20 30/05/2024
+- 🧑‍💻 [Lợi nhuận Heineken Việt Nam giảm mạnh](https://vnexpress.net/loi-nhuan-heineken-viet-nam-giam-manh-4752304.html) - 04:55 30/05/2024
+- 🕴 [Chicilon Media mở rộng hợp tác với công ty nghiên cứu TNS](https://vnexpress.net/chicilon-media-mo-rong-hop-tac-voi-cong-ty-nghien-cuu-tns-4752059.html) - 04:00 30/05/2024
+- 🦩 [Forbes: Elon Musk lại giàu nhất thế giới](https://vnexpress.net/forbes-elon-musk-lai-giau-nhat-the-gioi-4752217.html) - 03:43 30/05/2024
+- 👍 [Lương bầu Đức năm nay tăng gấp đôi](https://vnexpress.net/luong-bau-duc-nam-nay-tang-gap-doi-4752235.html) - 03:18 30/05/2024
+- 🏊 [Giá vàng miếng SJC quay đầu tăng nửa triệu đồng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-30-5-4752228.html) - 02:35 30/05/2024
+- 🤡 [Bỗng dưng nợ thuế](https://vnexpress.net/bong-dung-phat-hien-no-thue-4752047.html) - 02:19 30/05/2024
+- 👀 [Bốn dấu mốc ngành đồng hồ tại triển lãm Watches &amp;amp; Wonders](https://vnexpress.net/bon-dau-moc-nganh-dong-ho-tai-trien-lam-watches-wonders-4748254.html) - 01:00 30/05/2024
 - 😺 [Nhân dân tệ xuống đáy 6 tháng so với USD](https://vnexpress.net/nhan-dan-te-xuong-day-6-thang-so-voi-usd-4752051.html) - 13:56 29/05/2024
 - 🦣 [Nga muốn tăng thuế nhà giàu](https://vnexpress.net/nga-muon-tang-thue-nha-giau-4751986.html) - 13:47 29/05/2024
 - 😺 [Sử dụng trợ lý AI để đào tạo nhân sự](https://vnexpress.net/su-dung-tro-ly-ai-de-dao-tao-nhan-su-4752057.html) - 13:00 29/05/2024
