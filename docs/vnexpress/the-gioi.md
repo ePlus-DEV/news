@@ -19,7 +19,7 @@ sidebar_position: 2
 - 🥰 [Tổng thống Nigeria hứng chỉ trích vì thay đổi quốc ca](https://vnexpress.net/tong-thong-nigeria-hung-chi-trich-vi-thay-doi-quoc-ca-4752620.html) - 02:22 31/05/2024
 - 🔥 [Ông Kim Jong-un giám sát diễn tập mô phỏng tấn công phủ đầu Hàn Quốc](https://vnexpress.net/ong-kim-jong-un-giam-sat-dien-tap-mo-phong-tan-cong-phu-dau-han-quoc-4752601.html) - 00:56 31/05/2024
 - 🥳 [Ông Biden &#39;cho phép Ukraine dùng vũ khí Mỹ tập kích lãnh thổ Nga&#39;](https://vnexpress.net/ong-biden-cho-phep-ukraine-dung-vu-khi-my-tap-kich-lanh-tho-nga-4752589.html) - 00:14 31/05/2024
-- 💼 [Thủ tướng Slovakia được chuyển đến bệnh viện thủ đô](https://vnexpress.net/thu-tuong-slovakia-duoc-chuyen-den-benh-vien-thu-do-4752591.html) - 23:51 30/05/2024
+- 💼 [Thủ tướng Slovakia được chuyển về thủ đô](https://vnexpress.net/thu-tuong-slovakia-duoc-chuyen-ve-thu-do-4752591.html) - 23:51 30/05/2024
 - 🤡 [Bồi thẩm đoàn kết luận ông Trump &#39;có tội&#39;](https://vnexpress.net/boi-tham-doan-ket-luan-ong-trump-co-toi-4752581.html) - 22:23 30/05/2024
 - 🌁 [Cuộc sống &#39;tệ hơn địa ngục&#39; của lính Ukraine ở tiền tuyến](https://vnexpress.net/cuoc-song-te-hon-dia-nguc-cua-linh-ukraine-o-tien-tuyen-4752143.html) - 22:00 30/05/2024
 - 🤩 [Giáp xe tăng Abrams Ukraine &#39;không bảo vệ được tổ lái&#39;](https://vnexpress.net/giap-xe-tang-abrams-ukraine-khong-bao-ve-duoc-to-lai-4752136.html) - 17:00 30/05/2024
