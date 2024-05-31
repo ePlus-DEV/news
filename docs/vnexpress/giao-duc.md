@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Tân sinh viên Hoa Sen được đi trải nghiệm nước ngoài trước khi nhập học](https://vnexpress.net/tan-sinh-vien-hoa-sen-duoc-di-trai-nghiem-nuoc-ngoai-truoc-khi-nhap-hoc-4752736.html) - 05:00 31/05/2024
 - 🦆 [&#39;Đại học cần dạy sinh viên khả năng làm công việc chưa từng có&#39;](https://vnexpress.net/dai-hoc-can-day-sinh-vien-kha-nang-lam-cong-viec-chua-tung-co-4752502.html) - 05:00 31/05/2024
-- 🦩 [Hơn 60% thí sinh chọn bài thi Khoa học xã hội](https://vnexpress.net/hon-60-thi-sinh-chon-bai-thi-khoa-hoc-xa-hoi-4752737.html) - 04:37 31/05/2024
+- 🦩 [Thí sinh chọn bài thi Khoa học xã hội gần gấp đôi Tự nhiên](https://vnexpress.net/thi-sinh-chon-bai-thi-khoa-hoc-xa-hoi-gan-gap-doi-tu-nhien-4752737.html) - 04:37 31/05/2024
 - 🌮 [7 học sinh Việt giành huy chương Olympic Tin học châu Á](https://vnexpress.net/7-hoc-sinh-viet-gianh-huy-chuong-olympic-tin-hoc-chau-a-4752695.html) - 04:04 31/05/2024
 - 🔭 [Vì sao TP HCM &#39;ế&#39; vị trí giáo viên Tiếng Anh, Tin học?](https://vnexpress.net/vi-sao-tp-hcm-e-vi-tri-giao-vien-tieng-anh-tin-hoc-4752494.html) - 03:15 31/05/2024
 - 💡 [Chàng trai Việt tốt nghiệp xuất sắc ở đại học số 1 thế giới](https://vnexpress.net/chang-trai-viet-tot-nghiep-xuat-sac-o-dai-hoc-so-1-the-gioi-4752551.html) - 23:55 30/05/2024
