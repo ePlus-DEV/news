@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Khởi tố vụ án chung cư xây trái phép, lừa bán cho người dân](https://vnexpress.net/khoi-to-vu-an-chung-cu-xay-trai-phep-lua-ban-cho-nguoi-dan-4752914.html) - 12:11 31/05/2024
+- 😎 [Chủ tịch xã bị bắt vì &#39;cát tặc&#39; lộng hành](https://vnexpress.net/chu-tich-xa-bi-bat-vi-cat-tac-long-hanh-4752917.html) - 12:56 31/05/2024
 - 🥰 [Tạt sơn đỏ vào nhà, ép người phụ nữ trả nợ thay chồng cũ](https://vnexpress.net/tat-son-do-vao-nha-ep-nguoi-phu-nu-tra-no-thay-chong-cu-4752926.html) - 11:55 31/05/2024
 - 🎓 [Người ép tài xế đưa tiền khi qua cửa khẩu Lào Cai bị tạm giữ](https://vnexpress.net/nguoi-thu-phe-xe-qua-cua-khau-lao-cai-bi-tam-giu-4752894.html) - 10:04 31/05/2024
 - 🤓 [Hãng hàng không bị kiện vì không nhận khách &#39;nặng mùi&#39;](https://vnexpress.net/american-airlines-bi-kien-vi-khong-nhan-hanh-khach-nang-mui-4752873.html) - 09:53 31/05/2024
