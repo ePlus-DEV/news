@@ -251,7 +251,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐎 [Địa ốc Hoàng Quân huy động 1.000 tỉ đồng để làm gì?](https://nld.com.vn/dia-oc-hoang-quan-huy-dong-1000-ti-dong-de-lam-gi-196240601163826972.htm) - 10:13 01/06/2024
 - 😺 [Bộ Công an: Đang làm rõ sai phạm trong đấu thầu của Tập đoàn Thuận An](https://nld.com.vn/bo-cong-an-dang-lam-ro-sai-pham-trong-dau-thau-cua-tap-doan-thuan-an-196240601163332767.htm) - 10:05 01/06/2024
 - 👍 [Nhiều trẻ 6-7 tuổi chỉ cao 1m](https://nld.com.vn/nhieu-tre-6-7-tuoi-chi-cao-1m-196240601162345036.htm) - 10:00 01/06/2024
-- 🥷 [Công an TP HCM kết luận vụ cướp ngân hàng tại Hóc Môn](https://nld.com.vn/cong-an-tp-hcm-ket-luan-vu-cuop-ngan-hang-tai-hoc-mon-196240601164059465.htm) - 09:53 01/06/2024
+- 🥷 [Công an TP HCM kết luận vụ dùng súng cướp ngân hàng tại Hóc Môn](https://nld.com.vn/cong-an-tp-hcm-ket-luan-vu-cuop-ngan-hang-tai-hoc-mon-196240601164059465.htm) - 09:53 01/06/2024
 - 🤔 [Mỹ - Trung lời qua tiếng lại tại Đối thoại Shangri-La](https://nld.com.vn/my-trung-loi-qua-tieng-lai-tai-doi-thoai-shangri-la-196240601163153836.htm) - 09:48 01/06/2024
 - 🌈 [Vụ án Hậu &quot;pháo&quot;: Tạm thu giữ gần 2 triệu USD, trên 500 lượng vàng và trên 1.000 sổ đỏ](https://nld.com.vn/vu-an-hau-phao-tam-thu-giu-gan-2-trieu-usd-tren-500-luong-vang-va-tren-1000-so-do-196240601153321658.htm) - 09:44 01/06/2024
 - 🔥 [Học sinh tranh tài điều khiển thiết bị bay không người lái](https://nld.com.vn/hoc-sinh-tranh-tai-dieu-khien-thiet-bi-bay-khong-nguoi-lai-1962406011545006.htm) - 09:42 01/06/2024
