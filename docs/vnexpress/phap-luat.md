@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Thu giữ nhiều tiền mặt, vàng, sổ đỏ trong vụ Phúc Sơn](https://vnexpress.net/thu-giu-nhieu-tien-mat-vang-so-do-trong-vu-phuc-son-4753211.html) - 09:18 01/06/2024
+- 😎 [Thu giữ nhiều tiền, vàng, sổ đỏ trong vụ Phúc Sơn](https://vnexpress.net/thu-giu-nhieu-tien-vang-so-do-trong-vu-phuc-son-4753211.html) - 09:18 01/06/2024
 - 🥰 [Chân người ở gần hồ Tuyền Lâm Đà Lạt](https://vnexpress.net/chan-nguoi-o-gan-ho-tuyen-lam-da-lat-4753099.html) - 04:43 01/06/2024
 - 🎓 [Khởi tố vụ án bán căn hộ chung cư xây trái phép cho người dân](https://vnexpress.net/khoi-to-vu-an-chung-cu-xay-trai-phep-lua-ban-cho-nguoi-dan-4752914.html) - 17:00 31/05/2024
 - 🤓 [Lỗi giao thông nào bị giữ bằng lái dù đã nộp phạt tại chỗ?](https://vnexpress.net/loi-giao-thong-nao-bi-giu-giay-phep-lai-xe-du-da-nop-phat-tai-cho-4752018.html) - 17:00 31/05/2024
