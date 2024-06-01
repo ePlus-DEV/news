@@ -30,7 +30,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧰 [Chuyện tình của cô gái Do Thái và người vợ lính Đức Quốc xã](https://vnexpress.net/chuyen-tinh-cua-co-gai-do-thai-va-nguoi-vo-linh-duc-quoc-xa-4750238.html) - 18:00 01/06/2024
 - 🥰 [Mua hai căn nhà, có công ty riêng sau khi dọn về Hóc Môn sống](https://vnexpress.net/mua-hai-can-nha-co-cong-ty-rieng-sau-khi-don-ve-hoc-mon-song-4753166.html) - 17:17 01/06/2024
 - 🌏 [Bạn có tư chất lãnh đạo nếu muốn trở thành một con sư tử](https://vnexpress.net/ban-co-tu-chat-lanh-dao-neu-muon-tro-thanh-mot-con-su-tu-4752660.html) - 17:01 01/06/2024
-- 🧐 [Dortmund 0-0 Real &lpar;H2&rpar;: Chờ Ancelotti ứng biến](https://vnexpress.net/dortmund-vs-real-madrid-4753283.html) - 17:00 01/06/2024
+- 🧐 [Dortmund 0-0 Real &lpar;hết H1&rpar;: CLB Đức phung phí cơ hội](https://vnexpress.net/dortmund-vs-real-madrid-4753283.html) - 17:00 01/06/2024
 - 💫 [Tôi có tiền, tri thức và địa vị xã hội vẫn bị người thân bạo hành](https://vnexpress.net/toi-co-tien-tri-thuc-va-dia-vi-xa-hoi-van-bi-nguoi-than-bao-hanh-4753164.html) - 17:00 01/06/2024
 - 😺 [Xe đưa đón học sinh đang được quy định thế nào](https://vnexpress.net/xe-dua-don-hoc-sinh-dang-duoc-quy-dinh-the-nao-4753157.html) - 17:00 01/06/2024
 - 🕯 [Bí kíp giúp khởi đầu ngày mới tràn năng lượng](https://vnexpress.net/bi-kip-giup-khoi-dau-ngay-moi-tran-nang-luong-4753054.html) - 17:00 01/06/2024
