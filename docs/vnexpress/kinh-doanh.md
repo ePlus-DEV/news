@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Hai ngày giá vàng miếng giảm gần 6 triệu đồng](https://vnexpress.net/hai-ngay-gia-vang-mieng-giam-gan-6-trieu-dong-4753055.html) - 02:23 01/06/2024
+- ⛽️ [Hai ngày giá vàng miếng giảm gần 7 triệu đồng](https://vnexpress.net/hai-ngay-gia-vang-mieng-giam-gan-7-trieu-dong-4753055.html) - 02:23 01/06/2024
 - 🐲 [150 kỹ sư điện lực TP HCM tiếp sức thi công Đường dây 500kV](https://vnexpress.net/150-ky-su-dien-luc-tp-hcm-tiep-suc-thi-cong-duong-day-500kv-4752801.html) - 02:15 01/06/2024
 - 🔥 [Đèo Cả đặt mục tiêu đầu tư 400 km đường cao tốc](https://vnexpress.net/deo-ca-dat-muc-tieu-dau-tu-400-km-duong-cao-toc-4752916.html) - 00:48 01/06/2024
 - 🐵 [Các nhà máy điều thiếu nguyên liệu vì đối tác châu Phi lật kèo](https://vnexpress.net/cac-nha-may-dieu-thieu-nguyen-lieu-vi-doi-tac-chau-phi-lat-keo-4752958.html) - 17:00 31/05/2024
