@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Dortmund - Real: 270 CĐV Tây Ban Nha bị lừa](https://vnexpress.net/dortmund-vs-real-madrid-4753283.html) - 17:00 01/06/2024
+- 🪜 [Dortmund - Real: CĐV hai đội cùng hát &#39;Hey Jude&#39;](https://vnexpress.net/dortmund-vs-real-madrid-4753283.html) - 17:00 01/06/2024
 - 🦩 [Buổi tập đầu của tuyển Việt Nam dưới thời HLV Kim Sang-sik](https://vnexpress.net/buoi-tap-dau-cua-tuyen-viet-nam-duoi-thoi-hlv-kim-sang-sik-4753257.html) - 12:53 01/06/2024
 - 🧰 [Đỗ Hùng Dũng: &#39;Chúng tôi kỳ vọng vào HLV Kim Sang-sik&#39;](https://vnexpress.net/do-hung-dung-chung-toi-ky-vong-vao-hlv-kim-sang-sik-4753249.html) - 12:22 01/06/2024
 - 🤗 [Neymar hô tên Messi trong trận thắng Ronaldo](https://vnexpress.net/neymar-ho-ten-messi-trong-tran-thang-ronaldo-4753234.html) - 12:02 01/06/2024
