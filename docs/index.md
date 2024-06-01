@@ -209,7 +209,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp Dortmund 0-2 Real Madrid: Vinicius nhân đôi cách biệt](https://laodong.vn/bong-da-quoc-te/truc-tiep-dortmund-0-2-real-madrid-vinicius-nhan-doi-cach-biet-1347660.ldo) - 17:30 01/06/2024
+- 🗽 [Real Madrid thắng Dortmund 2-0, lần thứ 15 lên đỉnh châu Âu](https://laodong.vn/bong-da-quoc-te/real-madrid-thang-dortmund-2-0-lan-thu-15-len-dinh-chau-au-1347660.ldo) - 17:30 01/06/2024
 - 📝 [Hà Nội thắng Thái Sơn Bắc tại vòng 4 giải Futsal HDBank Vô địch quốc gia 2024](https://laodong.vn/bong-da/ha-noi-thang-thai-son-bac-tai-vong-4-giai-futsal-hdbank-vo-dich-quoc-gia-2024-1347651.ldo) - 15:07 01/06/2024
 - 🦏 [Sách giáo khoa năm học mới giảm giá trung bình 10-15%](https://laodong.vn/giao-duc/sach-giao-khoa-nam-hoc-moi-giam-gia-trung-binh-10-15-1347647.ldo) - 15:05 01/06/2024
 - 🦩 [Adam Lambert trở lại đường đua âm nhạc](https://laodong.vn/giai-tri/adam-lambert-tro-lai-duong-dua-am-nhac-1347638.ldo) - 15:00 01/06/2024
