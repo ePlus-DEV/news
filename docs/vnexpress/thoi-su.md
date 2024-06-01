@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hiệu quả sử dụng nước ở Việt Nam chỉ bằng 1/8 trung bình thế giới](https://vnexpress.net/hieu-qua-su-dung-nuoc-o-viet-nam-chi-bang-1-8-trung-binh-the-gioi-4752952.html) - 00:00 01/06/2024
+- 🦒 [Việt Nam đang lãng phí nước](https://vnexpress.net/viet-nam-dang-lang-phi-nuoc-4752952.html) - 00:00 01/06/2024
 - 🤓 [Hàng nghìn nhà trọ ở Hà Nội không đảm bảo lối thoát nạn](https://vnexpress.net/hang-nghin-nha-tro-o-ha-noi-khong-dam-bao-loi-thoat-nan-4752961.html) - 17:19 31/05/2024
 - ⚗️ [TP HCM tổng kiểm tra phòng cháy ở nhà trọ](https://vnexpress.net/tp-hcm-tong-kiem-tra-phong-chay-o-nha-tro-4752953.html) - 17:00 31/05/2024
 - 🌊 [Chính sách nổi bật có hiệu lực từ tháng 6](https://vnexpress.net/chinh-sach-noi-bat-co-hieu-luc-tu-thang-6-4752471.html) - 17:00 31/05/2024
