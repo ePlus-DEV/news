@@ -147,7 +147,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Real Madrid chơi cực hay, đánh bại Dortmund, xứng đáng giành chức vô địch Champions League](https://thanhnien.vn/real-madrid-choi-cuc-hay-danh-bai-dortmund-xung-dang-gianh-chuc-vo-dich-champions-league-185240602040219808.htm) - 21:01 01/06/2024
+- 🤠 [Real Madrid bản lĩnh tuyệt vời, đánh bại Dortmund, lần thứ 15 giành chức vô địch Champions League](https://thanhnien.vn/real-madrid-choi-cuc-hay-danh-bai-dortmund-xung-dang-gianh-chuc-vo-dich-champions-league-185240602040219808.htm) - 21:01 01/06/2024
 - 🥸 [Ngày mới với tin tức sức khỏe: Tuổi nào cần kiểm tra huyết áp thường xuyên?](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-tuoi-nao-can-kiem-tra-huyet-ap-thuong-xuyen-185240527094510474.htm) - 17:11 01/06/2024
 - 🌁 [Ăn gì trước mỗi bữa ăn để ngăn mức đường huyết tăng vọt?](https://thanhnien.vn/an-gi-truoc-moi-bua-an-de-ngan-muc-duong-huyet-tang-vot-18524053117090429.htm) - 17:08 01/06/2024
 - 🤡 [5 dấu hiệu ở chân cảnh báo cơ thể bị thiếu chất](https://thanhnien.vn/5-dau-hieu-o-chan-canh-bao-co-the-bi-thieu-chat-185240527180614315.htm) - 17:07 01/06/2024
