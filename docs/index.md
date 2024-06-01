@@ -221,8 +221,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💪 [Cầu thủ tuyển Việt Nam nỗ lực thích nghi chiến thuật mới của HLV Kim Sang-sik](https://laodong.vn/video/cau-thu-tuyen-viet-nam-no-luc-thich-nghi-chien-thuat-moi-cua-hlv-kim-sang-sik-1347632.ldo) - 14:03 01/06/2024
 - 👍 [Lý do cơ thể bị tích nước khiến bạn không thể giảm cân](https://laodong.vn/suc-khoe/ly-do-co-the-bi-tich-nuoc-khien-ban-khong-the-giam-can-1347306.ldo) - 14:00 01/06/2024
 - 💂 [10 quốc gia dự Lễ khai mạc Đại hội thể thao học sinh Đông Nam Á lần thứ 13](https://laodong.vn/the-thao/10-quoc-gia-du-le-khai-mac-dai-hoi-the-thao-hoc-sinh-dong-nam-a-lan-thu-13-1347630.ldo) - 13:52 01/06/2024
-- 🧰 [Tin tức 24h: Đề xuất phương án phù hợp nhất về bảng lương mới từ ngày 1.7](https://laodong.vn/video/tin-tuc-24h-de-xuat-phuong-an-phu-hop-nhat-ve-bang-luong-moi-tu-ngay-17-1347615.ldo) - 13:30 01/06/2024
-- 🥷 [Đáp án môn Toán thi vào lớp 10 tỉnh Sơn La 2024](https://laodong.vn/giao-duc/dap-an-mon-toan-thi-vao-lop-10-tinh-son-la-2024-1347618.ldo) - 13:30 01/06/2024
+- 🧰 [Đáp án môn Toán thi vào lớp 10 tỉnh Sơn La 2024](https://laodong.vn/giao-duc/dap-an-mon-toan-thi-vao-lop-10-tinh-son-la-2024-1347618.ldo) - 13:30 01/06/2024
+- 🥷 [Tin tức 24h: Đề xuất phương án phù hợp nhất về bảng lương mới từ ngày 1.7](https://laodong.vn/video/tin-tuc-24h-de-xuat-phuong-an-phu-hop-nhat-ve-bang-luong-moi-tu-ngay-17-1347615.ldo) - 13:30 01/06/2024
 - 💫 [Nhiều tập thể, cá nhân của Than Vàng Danh được tặng bằng khen](https://laodong.vn/xa-hoi/nhieu-tap-the-ca-nhan-cua-than-vang-danh-duoc-tang-bang-khen-1347523.ldo) - 13:17 01/06/2024
 - 🎭 [Cập nhật giá vàng chốt phiên 1.6: Giảm 4 triệu, sắp mất ngưỡng 83 triệu đồng](https://laodong.vn/tien-te-dau-tu/cap-nhat-gia-vang-chot-phien-16-giam-4-trieu-sap-mat-nguong-83-trieu-dong-1347550.ldo) - 13:15 01/06/2024
 - 😎 [Hồ yêu Tiểu Hồng Nương của Dương Mịch gặp khó khi đối đầu phim Lưu Diệc Phi](https://laodong.vn/giai-tri/ho-yeu-tieu-hong-nuong-cua-duong-mich-gap-kho-khi-doi-dau-phim-luu-diec-phi-1347616.ldo) - 13:12 01/06/2024
@@ -245,7 +245,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [Bóng chuyền Việt Nam 1.6: Trần Thị Thanh Thúy khoe ảnh hồi nhỏ](https://laodong.vn/the-thao/bong-chuyen-viet-nam-16-tran-thi-thanh-thuy-khoe-anh-hoi-nho-1347609.ldo) - 12:24 01/06/2024
 - 😺 [VFF gặp mặt huấn luyện viên Kim Sang-sik và tuyển Việt Nam](https://laodong.vn/bong-da/vff-gap-mat-huan-luyen-vien-kim-sang-sik-va-tuyen-viet-nam-1347574.ldo) - 12:01 01/06/2024
 - 🕴 [Tiếp sức 4x400m nữ điền kinh Việt Nam lần thứ hai tìm cơ hội dự Olympic 2024](https://laodong.vn/the-thao/tiep-suc-4x400m-nu-dien-kinh-viet-nam-lan-thu-hai-tim-co-hoi-du-olympic-2024-1347608.ldo) - 12:00 01/06/2024
-- 🌋 [Nỗi ám ảnh khiến Thu Quỳnh “My Sói” không dám nhận thêm vai “gái ngành”](https://laodong.vn/van-hoa-giai-tri/noi-am-anh-khien-thu-quynh-my-soi-khong-dam-nhan-them-vai-gai-nganh-1347513.ldo) - 12:00 01/06/2024
+- 🌋 [Nóng Sài Gòn: Khoảnh khắc bắt nghi phạm tẩu thoát khỏi trụ sở công an](https://laodong.vn/video-xa-hoi/nong-sai-gon-khoanh-khac-bat-nghi-pham-tau-thoat-khoi-tru-so-cong-an-1347525.ldo) - 12:00 01/06/2024
 - 💄 [Người phụ nữ Trung Quốc mạo danh chị gái đã mất đi làm rồi nhận lương hưu hơn 1,4 tỉ đồng](https://laodong.vn/gia-dinh-hon-nhan/nguoi-phu-nu-trung-quoc-mao-danh-chi-gai-da-mat-di-lam-roi-nhan-luong-huu-hon-14-ti-dong-1347522.ldo) - 12:00 01/06/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
