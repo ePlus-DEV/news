@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Học sinh than chương trình nặng, không có thời gian vui chơi](https://vnexpress.net/hoc-sinh-than-chuong-trinh-nang-khong-co-thoi-gian-vui-choi-4753135.html) - 06:59 01/06/2024
+- 🤓 [Học sinh than quá tải, không có thời gian vui chơi](https://vnexpress.net/hoc-sinh-than-qua-tai-khong-co-thoi-gian-vui-choi-4753135.html) - 06:59 01/06/2024
 - 🦆 [Hơn 3.300 học sinh cạnh tranh vào lớp 10 chuyên Ngoại ngữ](https://vnexpress.net/hon-3-300-hoc-sinh-canh-tranh-vao-lop-10-chuyen-ngoai-ngu-4753003.html) - 01:13 01/06/2024
 - 🦩 [Đại học Quốc gia Hà Nội tuyển 18.000 sinh viên](https://vnexpress.net/dai-hoc-quoc-gia-ha-noi-tuyen-18-000-sinh-vien-4752965.html) - 23:18 31/05/2024
 - 🌮 [Thi lớp 10 trường chuyên ở Hà Nội từ hôm nay](https://vnexpress.net/thi-lop-10-truong-chuyen-o-ha-noi-tu-hom-nay-4752870.html) - 17:03 31/05/2024
