@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Không phải khai báo nếu dùng dao trên 20 cm để lao động sản xuất](https://vnexpress.net/khong-phai-khai-bao-neu-dung-dao-tren-20-cm-de-lao-dong-san-xuat-4753456.html) - 13:00 02/06/2024
 - 🤓 [Đề xuất đầu tư &#39;siêu cảng&#39; Cái Mép Hạ đón tàu biển lớn nhất thế giới](https://vnexpress.net/de-xuat-dau-tu-sieu-cang-cai-mep-ha-don-tau-bien-lon-nhat-the-gioi-4753385.html) - 06:10 02/06/2024
 - ⚗️ [Miền Bắc mưa giông từ giữa tuần tới](https://vnexpress.net/mien-bac-mua-giong-tu-giua-tuan-toi-4753373.html) - 06:00 02/06/2024
-- 🌊 [Đề xuất viên chức ngành nghệ thuật là công việc nặng nhọc, nguy hiểm](https://vnexpress.net/de-xuat-vien-chuc-nganh-nghe-thuat-la-cong-viec-nang-nhoc-nguy-hiem-4753278.html) - 03:07 02/06/2024
+- 🌊 [Đề xuất viên chức lĩnh vực xiếc, múa ballet được về hưu sớm](https://vnexpress.net/de-xuat-vien-chuc-linh-vuc-xiec-mua-ballet-duoc-ve-huu-som-4753278.html) - 03:07 02/06/2024
 - 🎓 [Cứu người đàn ông kẹt giữa hai bức tường](https://vnexpress.net/cuu-nguoi-dan-ong-ket-giua-hai-buc-tuong-4753320.html) - 02:34 02/06/2024
 - 🔥 [Lửa thiêu rụi kho hàng đồ nhựa](https://vnexpress.net/lua-thieu-rui-kho-hang-do-nhua-4753317.html) - 01:50 02/06/2024
 - 🦏 [Diện mạo quảng trường chợ Bến Thành trong tương lai](https://vnexpress.net/dien-mao-quang-truong-cho-ben-thanh-trong-tuong-lai-4753235.html) - 00:00 02/06/2024
