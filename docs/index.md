@@ -248,7 +248,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Ngân hàng công bố địa điểm bán vàng miếng từ ngày mai 3-6](https://nld.com.vn/ngan-hang-cong-bo-dia-diem-ban-vang-mieng-tu-ngay-mai-3-6-196240602183140726.htm) - 11:34 02/06/2024
+- 🐎 [Các ngân hàng và SJC chính thức công bố địa điểm bán vàng miếng](https://nld.com.vn/ngan-hang-cong-bo-dia-diem-ban-vang-mieng-tu-ngay-mai-3-6-196240602183140726.htm) - 11:34 02/06/2024
 - 😺 [Mỹ nhân khởi kiện Cannes vì bị &quot;tương tác&quot; thô bạo](https://nld.com.vn/my-nhan-khoi-kien-cannes-vi-bi-tuong-tac-tho-bao-196240602133834226.htm) - 11:34 02/06/2024
 - 👍 [Sự thật về quán cà phê &quot;hẹn hò&quot; giữa trung tâm TP HCM](https://nld.com.vn/su-that-ve-quan-ca-phe-hen-ho-giua-trung-tam-tp-hcm-196240602181156647.htm) - 11:29 02/06/2024
 - 🥷 [Báo Người Lao Động trao cờ Tổ quốc và học bổng tại quận 11](https://nld.com.vn/bao-nguoi-lao-dong-trao-co-to-quoc-va-hoc-bong-tai-quan-11-196240602172626593.htm) - 10:49 02/06/2024
