@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Không nhiều khách trải nghiệm Lễ hội sông nước ngày đầu](https://vnexpress.net/khong-nhieu-khach-trai-nghiem-le-hoi-song-nuoc-ngay-dau-4753346.html) - 03:38 02/06/2024
+- 💂 [Lễ hội sông nước ngày đầu vắng khách](https://vnexpress.net/le-hoi-song-nuoc-ngay-dau-vang-khach-4753346.html) - 03:38 02/06/2024
 - 🪄 [10 món thịt nướng ngon nhất thế giới](https://vnexpress.net/10-mon-thit-nuong-ngon-nhat-the-gioi-4752895.html) - 03:00 02/06/2024
 - 🦅 [Pù Luông vào mùa lúa chín](https://vnexpress.net/pu-luong-vao-mua-lua-chin-4752306.html) - 02:00 02/06/2024
 - 🕴 [Biển Chết có phải là biển?](https://vnexpress.net/bien-chet-co-phai-la-bien-4753212.html) - 00:06 02/06/2024
