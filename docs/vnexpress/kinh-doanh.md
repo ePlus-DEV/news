@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Kiểm toán Nhà nước chuyển 19 vụ sang cơ quan điều tra](https://vnexpress.net/kiem-toan-nha-nuoc-chuyen-19-vu-sang-co-quan-dieu-tra-4753448.html) - 15:03 02/06/2024
 - 🐲 [Bán hàng online có thể phải xác thực danh tính](https://vnexpress.net/ban-hang-online-co-the-phai-xac-thuc-danh-tinh-4753460.html) - 13:55 02/06/2024
-- 🔥 [Ngày mai người dân 12 tỉnh, thành có thể mua vàng bình ổn giá](https://vnexpress.net/mua-vang-binh-on-gia-o-dau-4753464.html) - 13:08 02/06/2024
+- 🔥 [Hôm nay người dân 12 tỉnh, thành có thể mua vàng bình ổn giá](https://vnexpress.net/mua-vang-binh-on-gia-o-dau-4753464.html) - 13:08 02/06/2024
 - 🐵 [Tiền gửi dân cư tăng trở lại](https://vnexpress.net/tien-gui-dan-cu-tang-tro-lai-4753421.html) - 11:25 02/06/2024
 - 🦅 [Vietcombank cấp tín dụng 1 tỷ USD dự án sân bay Long Thành](https://vnexpress.net/vietcombank-cap-tin-dung-1-ty-usd-du-an-san-bay-long-thanh-4753437.html) - 10:00 02/06/2024
 - 😺 [Cụ bà 102 tuổi vẫn làm việc ở công ty riêng](https://vnexpress.net/cu-ba-102-tuoi-van-lam-viec-o-cong-ty-rieng-4753330.html) - 07:10 02/06/2024
