@@ -35,15 +35,15 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😺 [Có nên nghỉ việc chỗ ân nhân để ra làm công ty riêng?](https://vnexpress.net/co-nen-nghi-viec-cho-an-nhan-de-ra-lam-cong-ty-rieng-4753371.html) - 08:26 02/06/2024
 - 🕯 [Mong gặp chàng trai đủ chân thành và thấu hiểu](https://vnexpress.net/mong-gap-chang-trai-du-chan-thanh-va-thau-hieu-4753375.html) - 08:00 02/06/2024
 - 💃 [Công dụng bất ngờ của vỏ trứng](https://vnexpress.net/cong-dung-bat-ngo-cua-vo-trung-4753372.html) - 08:00 02/06/2024
-- 💂 [Tại sao ham muốn tình dục cao?](https://vnexpress.net/tai-sao-ham-muon-tinh-duc-cao-4753337.html) - 08:00 02/06/2024
-- 🎊 [Samsung Galaxy Ring lộ thông tin chi tiết](https://vnexpress.net/samsung-galaxy-ring-lo-thong-tin-chi-tiet-4753286.html) - 08:00 02/06/2024
-- 🤠 [Viettel - từ &#39;lính mới&#39; đến ông lớn ngành viễn thông](https://vnexpress.net/viettel-tu-linh-moi-den-ong-lon-nganh-vien-thong-4753222.html) - 08:00 02/06/2024
-- 🌈 [4 bước để thành thạo tiếng Anh qua phim](https://vnexpress.net/4-buoc-de-thanh-thao-tieng-anh-qua-phim-4742979.html) - 08:00 02/06/2024
+- 💂 [Samsung Galaxy Ring lộ thông tin chi tiết](https://vnexpress.net/samsung-galaxy-ring-lo-thong-tin-chi-tiet-4753286.html) - 08:00 02/06/2024
+- 🎊 [4 bước để thành thạo tiếng Anh qua phim](https://vnexpress.net/4-buoc-de-thanh-thao-tieng-anh-qua-phim-4742979.html) - 08:00 02/06/2024
+- 🤠 [Tại sao ham muốn tình dục cao?](https://vnexpress.net/tai-sao-ham-muon-tinh-duc-cao-4753337.html) - 08:00 02/06/2024
+- 🌈 [Viettel - từ &#39;lính mới&#39; đến ông lớn ngành viễn thông](https://vnexpress.net/viettel-tu-linh-moi-den-ong-lon-nganh-vien-thong-4753222.html) - 08:00 02/06/2024
 - 🎬 [Đại gia Gỗ An Cường muốn làm khu đô thị hơn 9.000 tỷ đồng ở Long An](https://vnexpress.net/dai-gia-go-an-cuong-muon-lam-khu-do-thi-hon-9-000-ty-dong-o-long-an-4753379.html) - 07:59 02/06/2024
 - 🚀 [&#39;Cấm nói chuyện công việc khi họp lớp&#39;](https://vnexpress.net/cam-noi-chuyen-cong-viec-khi-hop-lop-4753386.html) - 07:27 02/06/2024
 - 🪄 [Cụ bà 102 tuổi vẫn làm việc ở công ty riêng](https://vnexpress.net/cu-ba-102-tuoi-van-lam-viec-o-cong-ty-rieng-4753330.html) - 07:10 02/06/2024
-- 😎 [Tăng động giảm chú ý](https://vnexpress.net/tang-dong-giam-chu-y-4753368.html) - 07:00 02/06/2024
-- 🎊 [Tốn tiền để duy trì tình bạn](https://vnexpress.net/ton-tien-de-duy-tri-tinh-ban-4753085.html) - 07:00 02/06/2024
+- 😎 [Tốn tiền để duy trì tình bạn](https://vnexpress.net/ton-tien-de-duy-tri-tinh-ban-4753085.html) - 07:00 02/06/2024
+- 🎊 [Tăng động giảm chú ý](https://vnexpress.net/tang-dong-giam-chu-y-4753368.html) - 07:00 02/06/2024
 - ⚗️ [Nữ sinh TP HCM tông ngã tên cướp](https://vnexpress.net/nu-sinh-tp-hcm-tong-nga-ten-cuop-4753396.html) - 06:42 02/06/2024
 - 🫣 [100.000 người đổ về đảo đô thị Vũ Yên ngày ra mắt tiện ích mới](https://vnexpress.net/100-000-nguoi-do-ve-dao-do-thi-vu-yen-ngay-ra-mat-tien-ich-moi-4753397.html) - 06:35 02/06/2024
 - 👨‍🏫 [Kroos: &#39;Real may mắn hòa 0-0 sau hiệp một&#39;](https://vnexpress.net/kroos-real-may-man-hoa-0-0-sau-hiep-mot-4753398.html) - 06:26 02/06/2024
@@ -52,9 +52,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤔 [Ăn hàu có chữa xuất tinh sớm?](https://vnexpress.net/an-hau-co-chua-xuat-tinh-som-4753232.html) - 06:09 02/06/2024
 - 🌮 [Đuổi hình bắt chữ: Đây là tỉnh nào ở miền Bắc Việt Nam?](https://vnexpress.net/duoi-hinh-bat-chu-day-la-tinh-nao-o-mien-bac-viet-nam-4752432.html) - 06:06 02/06/2024
 - 🦩 [Miền Bắc mưa giông từ giữa tuần tới](https://vnexpress.net/mien-bac-mua-giong-tu-giua-tuan-toi-4753373.html) - 06:00 02/06/2024
-- 📝 [Huawei vượt Samsung về điện thoại màn hình gập](https://vnexpress.net/huawei-vuot-samsung-ve-dien-thoai-man-hinh-gap-4753360.html) - 06:00 02/06/2024
-- 🕴 [Bụi phổi](https://vnexpress.net/bui-phoi-4753342.html) - 06:00 02/06/2024
-- 🐲 [Máy bay siêu thanh NASA sẵn sàng bay lần đầu](https://vnexpress.net/may-bay-sieu-thanh-nasa-san-sang-bay-lan-dau-4752993.html) - 06:00 02/06/2024
+- 📝 [Máy bay siêu thanh NASA sẵn sàng bay lần đầu](https://vnexpress.net/may-bay-sieu-thanh-nasa-san-sang-bay-lan-dau-4752993.html) - 06:00 02/06/2024
+- 🕴 [Huawei vượt Samsung về điện thoại màn hình gập](https://vnexpress.net/huawei-vuot-samsung-ve-dien-thoai-man-hinh-gap-4753360.html) - 06:00 02/06/2024
+- 🐲 [Bụi phổi](https://vnexpress.net/bui-phoi-4753342.html) - 06:00 02/06/2024
 - 🌜 [Hai thí sinh lớp 10 được giám thị chép bài hộ](https://vnexpress.net/hai-thi-sinh-lop-10-duoc-giam-thi-chep-bai-ho-4753391.html) - 05:55 02/06/2024
 - 💄 [Nhan sắc &#39;hot girl số một Thái Lan&#39;](https://vnexpress.net/nhan-sac-hot-girl-so-mot-thai-lan-4753367.html) - 05:38 02/06/2024
 - 🌁 [Những thiếu nữ cạo trọc đầu](https://vnexpress.net/nhung-thieu-nu-cao-troc-dau-4753281.html) - 05:32 02/06/2024
@@ -75,8 +75,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎓 [Lợi ích khi ăn các loại hạt](https://vnexpress.net/loi-ich-khi-an-cac-loai-hat-4753308.html) - 04:00 02/06/2024
 - 💫 [Cách nào giảm bốc hỏa ở tuổi trung niên?](https://vnexpress.net/cach-nao-giam-boc-hoa-o-tuoi-trung-nien-4753306.html) - 04:00 02/06/2024
 - 🤩 [Tesla triệu hồi hơn 120.000 xe vì lỗi dây an toàn](https://vnexpress.net/tesla-trieu-hoi-hon-120-000-xe-vi-loi-day-an-toan-4753304.html) - 03:59 02/06/2024
-- 🏊 [Messi, Suarez ghi bàn trong màn rượt đuổi tỷ số của Inter Miami](https://vnexpress.net/messi-suarez-ghi-ban-trong-man-ruot-duoi-ty-so-cua-inter-miami-4753359.html) - 03:53 02/06/2024
-- 💂 [Ngôi nhà như một &#39;thành trì&#39; giữa phố](https://vnexpress.net/ngoi-nha-nhu-mot-thanh-tri-giua-pho-4753311.html) - 03:53 02/06/2024<!-- vnexpress:END -->
+- 🏊 [Messi, Suarez ghi bàn trong màn rượt đuổi tỷ số của Inter Miami](https://vnexpress.net/messi-suarez-ghi-ban-trong-man-ruot-duoi-ty-so-cua-inter-miami-4753359.html) - 03:53 02/06/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
