@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Khu ẩm thực sông nước ở TP HCM đông nghịt khách](https://vnexpress.net/khu-am-thuc-song-nuoc-o-tp-hcm-dong-nghit-khach-4753485.html) - 16:13 02/06/2024
+- 💂 [Khu ẩm thực sông nước Sài Gòn đông nghịt khách](https://vnexpress.net/khu-am-thuc-song-nuoc-sai-gon-dong-nghit-khach-4753485.html) - 16:13 02/06/2024
 - 🪄 [Gen Z &#39;chơi lớn&#39; cho chuyến du lịch hè](https://vnexpress.net/gen-z-choi-lon-cho-chuyen-du-lich-he-4753194.html) - 12:00 02/06/2024
 - 🦅 [&#39;Chợ nổi miền Tây&#39; ở Sài Gòn vắng khách](https://vnexpress.net/cho-noi-mien-tay-o-sai-gon-vang-khach-4753346.html) - 03:38 02/06/2024
 - 🕴 [10 món thịt nướng ngon nhất thế giới](https://vnexpress.net/10-mon-thit-nuong-ngon-nhat-the-gioi-4752895.html) - 03:00 02/06/2024
