@@ -73,8 +73,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💪 [Biển Chết có phải là biển?](https://vnexpress.net/bien-chet-co-phai-la-bien-4753212.html) - 00:06 02/06/2024
 - 🧑‍🏫 [Diện mạo quảng trường chợ Bến Thành trong tương lai](https://vnexpress.net/dien-mao-quang-truong-cho-ben-thanh-trong-tuong-lai-4753235.html) - 00:00 02/06/2024
 - 🎓 [7 thay đổi giúp nhà khoa học Anh có sức khỏe dẻo dai ở tuổi 67](https://vnexpress.net/7-thay-doi-giup-nha-khoa-hoc-anh-co-suc-khoe-deo-dai-o-tuoi-67-4753228.html) - 00:00 02/06/2024
-- 💫 [Khách hàng bí ẩn chiếm 19% doanh thu của Nvidia](https://vnexpress.net/khach-hang-bi-an-chiem-19-doanh-thu-cua-nvidia-4753165.html) - 00:00 02/06/2024
-- 🤩 [Trùng amip &#39;ăn não&#39;](https://vnexpress.net/trung-amip-an-nao-4753202.html) - 00:00 02/06/2024<!-- vnexpress:END -->
+- 💫 [Khách hàng bí ẩn chiếm 19% doanh thu của Nvidia](https://vnexpress.net/khach-hang-bi-an-chiem-19-doanh-thu-cua-nvidia-4753165.html) - 00:00 02/06/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
