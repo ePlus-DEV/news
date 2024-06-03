@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Tăng từ 1 lên 9 điểm Toán chuyên sau phúc khảo](https://vnexpress.net/tang-tu-1-len-9-diem-toan-chuyen-sau-phuc-khao-4753920.html) - 23:23 03/06/2024
+- 🤓 [Nam sinh tăng từ 1 lên 9 điểm Toán chuyên sau phúc khảo](https://vnexpress.net/nam-sinh-tang-tu-1-len-9-diem-toan-chuyen-sau-phuc-khao-4753920.html) - 23:23 03/06/2024
 - 🦆 [Bé gái 5 tuổi bầm tím lưng vì bị bạn đấm 20 cái](https://vnexpress.net/be-gai-5-tuoi-bam-tim-lung-vi-bi-ban-dam-20-cai-4753919.html) - 15:35 03/06/2024
 - 🦩 [Tỉnh, thành nào là quê hương của nhà Mạc?](https://vnexpress.net/tinh-thanh-nao-la-que-huong-cua-nha-mac-4753871.html) - 13:47 03/06/2024
 - 🌮 [Thành lập trường Sức khỏe thuộc Đại học Quốc gia TP HCM](https://vnexpress.net/thanh-lap-truong-suc-khoe-thuoc-dai-hoc-quoc-gia-tp-hcm-4753895.html) - 13:00 03/06/2024
