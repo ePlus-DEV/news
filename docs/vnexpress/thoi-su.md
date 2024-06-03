@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Chưa sáp nhập quê Hồ Xuân Hương](https://vnexpress.net/chua-sap-nhap-que-ho-xuan-huong-4753757.html) - 08:04 03/06/2024
 - 🤓 [&#39;Không nên gọi dao dùng trong lao động là vũ khí thô sơ&#39;](https://vnexpress.net/khong-nen-goi-dao-dung-trong-lao-dong-la-vu-khi-tho-so-4753662.html) - 06:40 03/06/2024
-- ⚗️ [Đại biểu Huỳnh Thị Phúc: Đề xuất cấm người dân đốt pháo hoa](https://vnexpress.net/dai-bieu-huynh-thi-phuc-de-xuat-cam-nguoi-dan-dot-phao-hoa-4753680.html) - 06:25 03/06/2024
+- ⚗️ [Đại biểu Huỳnh Thị Phúc: Nên cấm người dân đốt pháo hoa](https://vnexpress.net/dai-bieu-huynh-thi-phuc-nen-cam-nguoi-dan-dot-phao-hoa-4753680.html) - 06:25 03/06/2024
 - 🌊 [Ông Thích Minh Tuệ &#39;dừng đi bộ khất thực&#39;](https://vnexpress.net/ong-thich-minh-tue-dung-di-bo-khat-thuc-4753717.html) - 05:51 03/06/2024
 - 🎓 [Nhà thầu đòi gần 4.000 tỷ đồng chi phí phát sinh ở dự án Metro số 1](https://vnexpress.net/nha-thau-doi-gan-4-000-ty-dong-chi-phi-phat-sinh-o-du-an-metro-so-1-4753698.html) - 05:18 03/06/2024
 - 🔥 [Thượng tướng Trịnh Văn Quyết làm Chủ nhiệm Tổng cục Chính trị](https://vnexpress.net/thuong-tuong-trinh-van-quyet-lam-chu-nhiem-tong-cuc-chinh-tri-4753544.html) - 04:52 03/06/2024
