@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Hiệu trưởng trường dân tộc bán trú bị điều tra chiếm đoạt hơn 370 triệu đồng](https://vnexpress.net/hieu-truong-truong-dan-toc-ban-tru-bi-dieu-tra-chiem-doat-hon-370-trieu-dong-4753723.html) - 07:16 03/06/2024
 - 🥰 [Lừa &#39;chạy&#39; tại ngoại](https://vnexpress.net/lua-chay-tai-ngoai-4753688.html) - 05:40 03/06/2024
 - 🎓 [Nỗi đau của người chị xin tha tội chết cho em](https://vnexpress.net/noi-dau-cua-nguoi-chi-xin-tha-toi-chet-cho-em-4753542.html) - 05:07 03/06/2024
-- 🤓 [Người nước ngoài chặn ôtô đập phá ở Nha Trang](https://vnexpress.net/nguoi-nuoc-ngoai-chan-oto-dap-pha-o-nha-trang-4753635.html) - 03:40 03/06/2024
+- 🤓 [Người nước ngoài chặn, đập phá ôtô ở Nha Trang](https://vnexpress.net/nguoi-nuoc-ngoai-chan-oto-dap-pha-o-nha-trang-4753635.html) - 03:40 03/06/2024
 - 🎊 [&#39;Chiến thắng&#39; ly hôn của người vợ bị bạo hành](https://vnexpress.net/cuoc-chien-ly-hon-cua-nguoi-vo-bi-bao-hanh-16-lan-trong-2-nam-4753487.html) - 01:03 03/06/2024
 - 🙉 [Trả thù cảnh sát suốt một tháng vì bị phạt đi ẩu](https://vnexpress.net/tra-thu-canh-sat-suot-mot-thang-vi-bi-phat-di-au-4753444.html) - 00:56 03/06/2024
 - 🤡 [Thi thể mất chân ở gần hồ Tuyền Lâm Đà Lạt có thể là cô gái](https://vnexpress.net/thi-the-mat-chan-o-gan-ho-tuyen-lam-da-lat-co-the-la-co-gai-4753490.html) - 15:49 02/06/2024
