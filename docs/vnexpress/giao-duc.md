@@ -5,9 +5,9 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [1 &#39;chọi&#39; 3 để vào lớp 6 trường hot của TP Thủ Đức](https://vnexpress.net/1-choi-3-de-vao-lop-6-truong-hot-cua-tp-thu-duc-4753709.html) - 06:54 03/06/2024
-- 🦆 [Giải đề thi Toán chuyên lớp 10 ở Vĩnh Phúc](https://vnexpress.net/giai-de-thi-toan-chuyen-lop-10-o-vinh-phuc-4753718.html) - 06:38 03/06/2024
+- 🦆 [Gợi ý giải đề thi Toán chuyên lớp 10 ở Vĩnh Phúc](https://vnexpress.net/goi-y-giai-de-thi-toan-chuyen-lop-10-o-vinh-phuc-4753718.html) - 06:38 03/06/2024
 - 🦩 [Đề thi lớp 10 trường chuyên Khoa học Tự nhiên](https://vnexpress.net/de-thi-lop-10-truong-chuyen-khoa-hoc-tu-nhien-4753554.html) - 03:41 03/06/2024
-- 🌮 [Hướng dẫn giải đề thi Toán vòng 2 chuyên Khoa học Tự nhiên](https://vnexpress.net/huong-dan-giai-de-thi-toan-vong-2-chuyen-khoa-hoc-tu-nhien-4753551.html) - 03:37 03/06/2024
+- 🌮 [Lời giải đề thi Toán vòng 2 chuyên Khoa học Tự nhiên](https://vnexpress.net/loi-giai-de-thi-toan-vong-2-chuyen-khoa-hoc-tu-nhien-4753551.html) - 03:37 03/06/2024
 - 🔭 [Cặp đôi Y Hà Nội cùng nhận bằng tiến sĩ Harvard](https://vnexpress.net/cap-doi-y-ha-noi-cung-nhan-bang-tien-si-harvard-4753416.html) - 23:05 02/06/2024
 - 💡 [Đề Văn chuyên Khoa học Xã hội và Nhân văn được khen](https://vnexpress.net/de-van-chuyen-khoa-hoc-xa-hoi-va-nhan-van-duoc-khen-4753334.html) - 15:20 02/06/2024
 - 🥰 [Ngôi chùa nào ở Đông Nam Á dát hơn 4.500 viên kim cương?](https://vnexpress.net/ngoi-chua-nao-o-dong-nam-a-dat-hon-4-500-vien-kim-cuong-4753445.html) - 13:26 02/06/2024
