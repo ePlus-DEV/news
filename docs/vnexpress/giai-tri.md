@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Hơn 20 năm nỗ lực diễn xuất của Chris Hemsworth](https://vnexpress.net/hon-20-nam-no-luc-dien-xuat-cua-chris-hemsworth-4753354.html) - 17:00 03/06/2024
+- 🌏 [Hơn 20 năm nỗ lực của Chris Hemsworth](https://vnexpress.net/hon-20-nam-no-luc-cua-chris-hemsworth-4753354.html) - 17:00 03/06/2024
 - 💫 [Dàn mỹ nhân mặc cut-out trên thảm đỏ Miss Grand Vietnam](https://vnexpress.net/dan-my-nhan-mac-cut-out-tren-tham-do-miss-grand-vietnam-4753905.html) - 16:05 03/06/2024
 - 🌮 [Váy áo giúp &#39;Nữ thần Iran&#39; tỏa sáng](https://vnexpress.net/vay-ao-giup-nu-than-iran-toa-sang-4752531.html) - 13:00 03/06/2024
 - 🧠 [Phương Thanh mời Hồ Quỳnh Hương song ca](https://vnexpress.net/phuong-thanh-moi-ho-quynh-huong-song-ca-4753599.html) - 11:30 03/06/2024
