@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Sản xuất Trung Quốc tăng mạnh nhất 2 năm](https://vnexpress.net/san-xuat-trung-quoc-tang-manh-nhat-2-nam-4753595.html) - 06:00 03/06/2024
 - 🐲 [Giá vàng bình ổn sẽ không quá 80 triệu đồng một lượng](https://vnexpress.net/ngan-hang-nha-nuoc-ban-vang-binh-on-gan-79-trieu-mot-luong-4753675.html) - 04:43 03/06/2024
-- 🔥 [Mỗi lượng vàng miếng giảm tiếp 2 triệu đồng](https://vnexpress.net/gia-vang-mieng-sjc-tiep-tuc-di-xuong-4753598.html) - 03:13 03/06/2024
+- 🔥 [Các nhà vàng đồng loạt hạ giá về dưới 80 triệu đồng](https://vnexpress.net/gia-vang-mieng-sjc-tiep-tuc-di-xuong-4753598.html) - 03:13 03/06/2024
 - 🐵 [OPEC+ tiếp tục siết cung dầu đến hết năm 2025](https://vnexpress.net/opec-tiep-tuc-siet-cung-dau-den-het-nam-2025-4753494.html) - 00:01 03/06/2024
 - 🦅 [Thu nhập thấp nên mua loại bảo hiểm nhân thọ nào?](https://vnexpress.net/thu-nhap-thap-nen-mua-loai-bao-hiem-nhan-tho-nao-4753425.html) - 00:00 03/06/2024
 - 😺 [Kiểm toán Nhà nước chuyển 19 vụ sang cơ quan điều tra](https://vnexpress.net/kiem-toan-nha-nuoc-chuyen-19-vu-sang-co-quan-dieu-tra-4753448.html) - 15:03 02/06/2024
