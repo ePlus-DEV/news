@@ -14,7 +14,7 @@ sidebar_position: 1
 - 👺 [Xem xét dừng trùng tu tháp Chăm ở Quảng Nam](https://vnexpress.net/xem-xet-dung-trung-tu-thap-cham-o-quang-nam-4753631.html) - 04:50 03/06/2024
 - 🧑‍🏫 [Sân bay Vinh dự kiến được sửa chữa](https://vnexpress.net/san-bay-vinh-du-kien-duoc-sua-chua-4753571.html) - 03:40 03/06/2024
 - 🚦 [Cảnh hoang tàn ở khu nhà cổ 100 tuổi tại Khánh Hòa](https://vnexpress.net/canh-hoang-tan-o-khu-nha-co-100-tuoi-tai-khanh-hoa-4752077.html) - 03:29 03/06/2024
-- 🎉 [Thượng tướng Nguyễn Duy Ngọc làm Chánh văn phòng Trung ương Đảng](https://vnexpress.net/thuong-tuong-nguyen-duy-ngoc-lam-chanh-van-phong-trung-uong-dang-4751916.html) - 03:21 03/06/2024
+- 🎉 [Thượng tướng Nguyễn Duy Ngọc giữ chức Chánh văn phòng Trung ương Đảng](https://vnexpress.net/thuong-tuong-nguyen-duy-ngoc-giu-chuc-chanh-van-phong-trung-uong-dang-4751916.html) - 03:21 03/06/2024
 - 🦒 [Đại biểu lo địa phương không đủ tiền cho chương trình phát triển văn hóa](https://vnexpress.net/dai-bieu-lo-dia-phuong-khong-du-tien-cho-chuong-trinh-phat-trien-van-hoa-4753556.html) - 03:08 03/06/2024
 - 🤗 [Xe container kéo gãy trụ điện, bé gái bị thương](https://vnexpress.net/xe-container-keo-gay-tru-dien-be-gai-bi-thuong-4753594.html) - 02:56 03/06/2024
 - 💼 [Nỗi đau người mẹ trẻ có con ung thư](https://vnexpress.net/noi-dau-nguoi-me-tre-co-con-ung-thu-4752773.html) - 00:40 03/06/2024
