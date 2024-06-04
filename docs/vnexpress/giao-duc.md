@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Thí sinh lớp 10 không được dùng VNeID thay căn cước công dân](https://vnexpress.net/thi-sinh-lop-10-khong-duoc-dung-vneid-thay-can-cuoc-cong-dan-4754321.html) - 12:40 04/06/2024
+- 🤓 [TP HCM giải quyết linh hoạt với thí sinh quên căn cước công dân](https://vnexpress.net/tp-hcm-giai-quyet-linh-hoat-voi-thi-sinh-quen-can-cuoc-cong-dan-4754321.html) - 12:40 04/06/2024
 - 🦆 [Trường đại học chỉ tuyển nam sinh cao trên 1m65](https://vnexpress.net/truong-dai-hoc-chi-tuyen-nam-sinh-cao-tren-1m65-4754050.html) - 12:13 04/06/2024
 - 🦩 [6 thí sinh đặc biệt trong kỳ thi lớp 10 tại TP HCM](https://vnexpress.net/6-thi-sinh-dac-biet-trong-ky-thi-lop-10-tai-tp-hcm-4754260.html) - 11:23 04/06/2024
 - 🌮 [Lời giải môn Vật lý vào lớp 10 chuyên Khoa học Tự nhiên](https://vnexpress.net/loi-giai-mon-vat-ly-vao-lop-10-chuyen-khoa-hoc-tu-nhien-4754198.html) - 09:21 04/06/2024
