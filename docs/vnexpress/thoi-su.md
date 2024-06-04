@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Vờ bán dâm, dụ khách cởi đồ để trộm tiền](https://vnexpress.net/lua-khach-mua-dam-coi-do-de-trom-tien-4754312.html) - 11:32 04/06/2024
+- 🦒 [Vì sao Hà Nội có nhiều ngõ nhỏ?](https://vnexpress.net/vi-sao-ha-noi-co-nhieu-ngo-nho-4753694.html) - 12:34 04/06/2024
 - 🤓 [Ôtô chạy lùi trên cao tốc TP HCM - Dầu Giây](https://vnexpress.net/oto-chay-lui-tren-cao-toc-tp-hcm-dau-giay-4754278.html) - 10:44 04/06/2024
 - ⚗️ [Ngư dân Quảng Ngãi cứu ông lão người Mỹ đi thuyền buồm trôi dạt trên biển](https://vnexpress.net/ngu-dan-quang-ngai-cuu-ong-lao-nguoi-my-di-thuyen-buom-troi-dat-tren-bien-4754247.html) - 09:15 04/06/2024
 - 🌊 [Ba bé gái mất tích khi tắm sông Sài Gòn](https://vnexpress.net/ba-be-gai-mat-tich-khi-tam-song-sai-gon-4754241.html) - 09:09 04/06/2024
@@ -48,7 +48,7 @@ sidebar_position: 1
 - 🤔 [Người dân trung tâm Sài Gòn hiến hàng nghìn m2 đất mở hẻm](https://vnexpress.net/nguoi-dan-trung-tam-sai-gon-hien-hang-nghin-m2-dat-mo-hem-4753184.html) - 07:54 01/06/2024
 - 🤠 [Biển báo trên cao tốc Đà Nẵng - Quảng Ngãi hư hỏng](https://vnexpress.net/bien-bao-tren-cao-toc-da-nang-quang-ngai-hu-hong-4753134.html) - 07:16 01/06/2024
 - 🌜 [Truy xuất xe chở bé trai 5 tuổi bị bỏ quên](https://vnexpress.net/truy-xuat-xe-cho-be-trai-5-tuoi-bi-bo-quen-4753128.html) - 06:55 01/06/2024
-- 🕯 [Hàng chục nghìn hộ dân ở TP HCM bị cắt nước](https://vnexpress.net/hang-chuc-nghin-ho-dan-o-tp-hcm-bi-cat-nuoc-4753125.html) - 05:00 01/06/2024
+- 🕯 [Một số khu vực tại TPHCM bị cắt nước cuối tuần](https://vnexpress.net/mot-so-khu-vuc-tai-tphcm-bi-cat-nuoc-cuoi-tuan-4753125.html) - 05:00 01/06/2024
 - 🤔 [Việt Nam đang lãng phí nước](https://vnexpress.net/viet-nam-dang-lang-phi-nuoc-4752952.html) - 00:00 01/06/2024
 - 🏊 [Hàng nghìn nhà trọ ở Hà Nội không đảm bảo lối thoát nạn](https://vnexpress.net/hang-nghin-nha-tro-o-ha-noi-khong-dam-bao-loi-thoat-nan-4752961.html) - 17:19 31/05/2024
 - 🌮 [TP HCM tổng kiểm tra phòng cháy ở nhà trọ](https://vnexpress.net/tp-hcm-tong-kiem-tra-phong-chay-o-nha-tro-4752953.html) - 17:00 31/05/2024
