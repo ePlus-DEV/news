@@ -13,7 +13,7 @@ sidebar_position: 3
 - 🤩 [Một cây xăng tự ý điều chỉnh giá bán](https://vnexpress.net/mot-cay-xang-tu-y-dieu-chinh-gia-ban-4754202.html) - 08:45 04/06/2024
 - 🌮 [Chứng khoán &#39;xanh vỏ đỏ lòng&#39;](https://vnexpress.net/chung-khoan-hom-nay-4-6-xanh-vo-do-long-4754233.html) - 08:38 04/06/2024
 - 🧰 [Cách Viettel xây dựng hệ thống tính cước thời gian thực](https://vnexpress.net/cach-viettel-xay-dung-he-thong-tinh-cuoc-thoi-gian-thuc-4754224.html) - 08:30 04/06/2024
-- 🤔 [Bộ trưởng Công Thương: Chưa đơn vị nào được cấp phép kinh doanh thuốc lá điện tử](https://vnexpress.net/bo-truong-cong-thuong-tra-loi-chat-van-chieu-4-6-4754153.html) - 07:31 04/06/2024
+- 🤔 [Bộ trưởng Công Thương: Các sàn thương mại điện tử phải có chính sách bảo vệ người mua](https://vnexpress.net/bo-truong-cong-thuong-tra-loi-chat-van-chieu-4-6-4754153.html) - 07:31 04/06/2024
 - 🧑‍💻 [Siêu thị lắp máy gom vỏ lon](https://vnexpress.net/sieu-thi-lap-may-gom-vo-lon-4753852.html) - 06:43 04/06/2024
 - 🕴 [Xếp hàng từ 7h sáng không lấy được &#39;số&#39; mua vàng](https://vnexpress.net/xep-hang-tu-7h-sang-khong-lay-duoc-so-mua-vang-4754120.html) - 04:44 04/06/2024
 - 🦩 [Giá vàng miếng SJC lùi về 79 triệu đồng](https://vnexpress.net/vang-mieng-lui-ve-79-trieu-dong-4754096.html) - 04:28 04/06/2024
