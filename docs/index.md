@@ -272,7 +272,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤡 [Hàn Quốc ra quyết định “nóng” ở biên giới liên Triều](https://nld.com.vn/han-quoc-ra-quyet-dinh-nong-o-bien-gioi-lien-trieu-196240604161319556.htm) - 10:00 04/06/2024
 - 🚦 [Khu giải trí Sun Valley Farm tiếp tục hoạt động dù bị yêu cầu dừng](https://nld.com.vn/khu-giai-tri-sun-valley-farm-tiep-tuc-hoat-dong-du-bi-yeu-cau-dung-19624060416453474.htm) - 09:58 04/06/2024
 - 🪜 [CLIP: Ớn lạnh tài xế lùi xe trên cao tốc TP HCM - Long Thành - Dầu Giây](https://nld.com.vn/clip-on-lanh-tai-xe-lui-xe-tren-cao-toc-tp-hcm-long-thanh-dau-giay-196240604163602221.htm) - 09:57 04/06/2024
-- 💫 [Chiều 4-6, người dân TP HCM vẫn chen chân mua vàng miếng SJC](https://nld.com.vn/chieu-4-6-nguoi-dan-tp-hcm-van-chen-chan-mua-vang-mieng-sjc-196240604154908844.htm) - 09:26 04/06/2024
+- 💫 [Người dân TP HCM vẫn chen chân mua vàng miếng SJC](https://nld.com.vn/chieu-4-6-nguoi-dan-tp-hcm-van-chen-chan-mua-vang-mieng-sjc-196240604154908844.htm) - 09:26 04/06/2024
 - 🔭 [Bộ trưởng Công Thương trả lời về livestream bán hàng trăm tỉ, thật hay ảo?](https://nld.com.vn/bo-truong-cong-thuong-tra-loi-ve-livestream-ban-hang-tram-ti-that-hay-ao-196240604160610817.htm) - 09:18 04/06/2024
 - 🌝 [Thượng tướng Nguyễn Duy Ngọc bàn giao công tác tại Bộ Công an](https://nld.com.vn/thuong-tuong-nguyen-duy-ngoc-ban-giao-cong-tac-tai-bo-cong-an-196240604160558678.htm) - 09:17 04/06/2024
 - 💪 [NATO vạch sẵn mạng lưới chuyển quân khổng lồ](https://nld.com.vn/nato-vach-san-mang-luoi-chuyen-quan-khong-lo-19624060416101093.htm) - 09:16 04/06/2024
