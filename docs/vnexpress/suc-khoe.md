@@ -6,17 +6,17 @@ sidebar_position: 10
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [Ngư dân đứt rời cánh tay trên biển được trực thăng đưa về đất liền](https://vnexpress.net/ngu-dan-dut-roi-canh-tay-tren-bien-duoc-truc-thang-dua-ve-dat-lien-4754294.html) - 12:15 04/06/2024
 - 🥰 [Phát hiện dịch vụ xe cấp cứu &#39;chui&#39;](https://vnexpress.net/phat-hien-dich-vu-xe-cap-cuu-chui-4754286.html) - 11:53 04/06/2024
-- 💡 [Tuyến vú phụ ở nách có tiến triển thành ung thư?](https://vnexpress.net/tuyen-vu-phu-o-nach-co-tien-trien-thanh-ung-thu-4754176.html) - 11:00 04/06/2024
-- 🤗 [Thói quen nào nên tránh khi thụ tinh ống nghiệm?](https://vnexpress.net/thoi-quen-nao-nen-tranh-khi-thu-tinh-ong-nghiem-4754245.html) - 11:00 04/06/2024
-- 🪜 [Chế độ ăn kiêng nào giảm cholesterol?](https://vnexpress.net/che-do-an-kieng-nao-giam-cholesterol-4754087.html) - 10:00 04/06/2024
-- 🕯 [Người bệnh hô hấp cần làm gì khi đi máy bay?](https://vnexpress.net/nguoi-benh-ho-hap-can-lam-gi-khi-di-may-bay-4754093.html) - 10:00 04/06/2024
-- 🤭 [5 loại trà uống thường xuyên có lợi cho sức khỏe](https://vnexpress.net/5-loai-tra-uong-thuong-xuyen-co-loi-cho-suc-khoe-4754119.html) - 09:00 04/06/2024
-- 👀 [Cách chăm sóc vết thương tránh sẹo](https://vnexpress.net/cach-cham-soc-vet-thuong-tranh-seo-4754131.html) - 09:00 04/06/2024
-- 🌋 [Dấu hiệu nào trên móng tay cảnh báo ung thư phổi?](https://vnexpress.net/dau-hieu-nao-tren-mong-tay-canh-bao-ung-thu-phoi-4754058.html) - 08:00 04/06/2024
-- 🫶 [5 thức uống hỗ trợ hạ men gan](https://vnexpress.net/5-thuc-uong-ho-tro-ha-men-gan-4754062.html) - 08:00 04/06/2024
+- 💡 [Thói quen nào nên tránh khi thụ tinh ống nghiệm?](https://vnexpress.net/thoi-quen-nao-nen-tranh-khi-thu-tinh-ong-nghiem-4754245.html) - 11:00 04/06/2024
+- 🤗 [Tuyến vú phụ ở nách có tiến triển thành ung thư?](https://vnexpress.net/tuyen-vu-phu-o-nach-co-tien-trien-thanh-ung-thu-4754176.html) - 11:00 04/06/2024
+- 🪜 [Người bệnh hô hấp cần làm gì khi đi máy bay?](https://vnexpress.net/nguoi-benh-ho-hap-can-lam-gi-khi-di-may-bay-4754093.html) - 10:00 04/06/2024
+- 🕯 [Chế độ ăn kiêng nào giảm cholesterol?](https://vnexpress.net/che-do-an-kieng-nao-giam-cholesterol-4754087.html) - 10:00 04/06/2024
+- 🤭 [Cách chăm sóc vết thương tránh sẹo](https://vnexpress.net/cach-cham-soc-vet-thuong-tranh-seo-4754131.html) - 09:00 04/06/2024
+- 👀 [5 loại trà uống thường xuyên có lợi cho sức khỏe](https://vnexpress.net/5-loai-tra-uong-thuong-xuyen-co-loi-cho-suc-khoe-4754119.html) - 09:00 04/06/2024
+- 🌋 [5 thức uống hỗ trợ hạ men gan](https://vnexpress.net/5-thuc-uong-ho-tro-ha-men-gan-4754062.html) - 08:00 04/06/2024
+- 🫶 [Dấu hiệu nào trên móng tay cảnh báo ung thư phổi?](https://vnexpress.net/dau-hieu-nao-tren-mong-tay-canh-bao-ung-thu-phoi-4754058.html) - 08:00 04/06/2024
 - 🦆 [Đột quỵ sau giác hơi](https://vnexpress.net/dot-quy-sau-giac-hoi-4754156.html) - 07:34 04/06/2024
-- 🚀 [Hạ đường huyết do hội chứng Dumping](https://vnexpress.net/ha-duong-huyet-do-hoi-chung-dumping-4754055.html) - 07:00 04/06/2024
-- 🌜 [Mẹo ăn uống giúp giảm mỡ bụng tuổi trung niên](https://vnexpress.net/meo-an-uong-giup-giam-mo-bung-tuoi-trung-nien-4754065.html) - 07:00 04/06/2024
+- 🚀 [Mẹo ăn uống giúp giảm mỡ bụng tuổi trung niên](https://vnexpress.net/meo-an-uong-giup-giam-mo-bung-tuoi-trung-nien-4754065.html) - 07:00 04/06/2024
+- 🌜 [Hạ đường huyết do hội chứng Dumping](https://vnexpress.net/ha-duong-huyet-do-hoi-chung-dumping-4754055.html) - 07:00 04/06/2024
 - 🧰 [Sở hữu eo &#39;con kiến&#39; sau 3 tháng thay đổi cách ăn uống](https://vnexpress.net/so-huu-eo-con-kien-sau-3-thang-thay-doi-cach-an-uong-4754130.html) - 06:42 04/06/2024
 - 💫 [10 phút hồi sinh em bé ngưng tim trong bụng mẹ](https://vnexpress.net/10-phut-hoi-sinh-em-be-ngung-tim-trong-bung-me-4754136.html) - 06:06 04/06/2024
 - 🌝 [Mất nhiều máu do ung thư đại tràng giai đoạn cuối](https://vnexpress.net/mat-nhieu-mau-do-ung-thu-dai-trang-giai-doan-cuoi-4754051.html) - 06:00 04/06/2024
@@ -30,12 +30,12 @@ sidebar_position: 10
 - 💯 [Tiềm năng đột phá từ loại thuốc chữa ung thư ruột](https://vnexpress.net/tiem-nang-dot-pha-tu-loai-thuoc-chua-ung-thu-ruot-4754052.html) - 02:59 04/06/2024
 - 🌊 [Xẹp đốt sống chữa được không?](https://vnexpress.net/xep-dot-song-chua-duoc-khong-4754034.html) - 02:52 04/06/2024
 - 🚀 [Bác sĩ vừa mổ bắt con vừa phẫu thuật tim cứu mẹ](https://vnexpress.net/bac-si-vua-mo-bat-con-vua-phau-thuat-tim-cuu-me-4753971.html) - 02:14 04/06/2024
-- 🕴 [4 thức uống tốt cho trẻ ngày hè](https://vnexpress.net/4-thuc-uong-tot-cho-tre-ngay-he-4753781.html) - 02:00 04/06/2024
-- 🗽 [Hẹp niệu đạo, bí tiểu hơn 40 năm](https://vnexpress.net/hep-nieu-dao-bi-tieu-hon-40-nam-4753854.html) - 02:00 04/06/2024
+- 🕴 [Hẹp niệu đạo, bí tiểu hơn 40 năm](https://vnexpress.net/hep-nieu-dao-bi-tieu-hon-40-nam-4753854.html) - 02:00 04/06/2024
+- 🗽 [4 thức uống tốt cho trẻ ngày hè](https://vnexpress.net/4-thuc-uong-tot-cho-tre-ngay-he-4753781.html) - 02:00 04/06/2024
 - 🎡 [Bio-meracine - giải pháp mới giúp giảm triệu chứng rối loạn tiêu hóa](https://vnexpress.net/bio-meracine-giai-phap-moi-giup-giam-trieu-chung-roi-loan-tieu-hoa-4752356.html) - 02:00 04/06/2024
 - ⛽️ [Ăn vải nhiều có hại gan?](https://vnexpress.net/an-vai-nhieu-co-hai-gan-4753384.html) - 01:59 04/06/2024
-- 🦆 [Tưởng ù tai hóa phì đại cuốn mũi](https://vnexpress.net/tuong-u-tai-hoa-phi-dai-cuon-mui-4753783.html) - 01:00 04/06/2024
-- 🤩 [Nhận biết dấu hiệu gan nhiễm mỡ](https://vnexpress.net/nhan-biet-dau-hieu-gan-nhiem-mo-4753841.html) - 01:00 04/06/2024
+- 🦆 [Nhận biết dấu hiệu gan nhiễm mỡ](https://vnexpress.net/nhan-biet-dau-hieu-gan-nhiem-mo-4753841.html) - 01:00 04/06/2024
+- 🤩 [Tưởng ù tai hóa phì đại cuốn mũi](https://vnexpress.net/tuong-u-tai-hoa-phi-dai-cuon-mui-4753783.html) - 01:00 04/06/2024
 - 🦒 [Sưng đỏ cổ sau 8 lần tiêm tan mỡ nọng cằm](https://vnexpress.net/sung-do-co-sau-8-lan-tiem-tan-mo-nong-cam-4753893.html) - 00:07 04/06/2024
 - 💫 [Suýt mù do biến chứng tiểu đường](https://vnexpress.net/suyt-mu-do-bien-chung-tieu-duong-4753196.html) - 00:00 04/06/2024
 - 🐘 [Dấu hiệu sớm phát hiện trẻ gù vẹo cột sống](https://vnexpress.net/dau-hieu-som-phat-hien-tre-gu-veo-cot-song-4753855.html) - 23:00 03/06/2024
@@ -53,8 +53,8 @@ sidebar_position: 10
 - 🎬 [Trẻ nên ăn bao nhiêu thịt đỏ mỗi ngày?](https://vnexpress.net/tre-nen-an-bao-nhieu-thit-do-moi-ngay-4753742.html) - 09:30 03/06/2024
 - 🪜 [Cổ trẻ nổi hạch có nguy hiểm?](https://vnexpress.net/co-tre-noi-hach-co-nguy-hiem-4753732.html) - 09:00 03/06/2024
 - 🦣 [Tiềm năng từ thuốc điều trị ung thư phổi mới](https://vnexpress.net/tiem-nang-tu-thuoc-dieu-tri-ung-thu-phoi-moi-4753799.html) - 08:51 03/06/2024
-- 🧐 [Tại sao đau thắt lưng khi chạy bộ?](https://vnexpress.net/tai-sao-dau-that-lung-khi-chay-bo-4753611.html) - 08:30 03/06/2024
-- 🤡 [Hút thuốc lá điếu nhỏ có ít độc hại?](https://vnexpress.net/hut-thuoc-la-dieu-nho-co-it-doc-hai-4753735.html) - 08:30 03/06/2024
+- 🧐 [Hút thuốc lá điếu nhỏ có ít độc hại?](https://vnexpress.net/hut-thuoc-la-dieu-nho-co-it-doc-hai-4753735.html) - 08:30 03/06/2024
+- 🤡 [Tại sao đau thắt lưng khi chạy bộ?](https://vnexpress.net/tai-sao-dau-that-lung-khi-chay-bo-4753611.html) - 08:30 03/06/2024
 - 👍 [Rận mu xâu thành chuỗi trên mi mắt bé trai](https://vnexpress.net/ran-mu-xau-thanh-chuoi-tren-mi-mat-be-trai-4753756.html) - 07:57 03/06/2024
 - 💡 [Dầu chiên rán nhiều lần có gây ung thư?](https://vnexpress.net/dau-chien-ran-nhieu-lan-co-gay-ung-thu-4753650.html) - 07:02 03/06/2024
 - 💯 [Vaccine ung thư của Anh hoạt động thế nào](https://vnexpress.net/vaccine-ung-thu-cua-anh-hoat-dong-the-nao-4753648.html) - 06:50 03/06/2024
