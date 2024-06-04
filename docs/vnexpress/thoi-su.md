@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [300 cảnh sát chữa cháy rừng trên núi Chóp Vung ở Bình Định](https://vnexpress.net/300-canh-sat-chua-chay-rung-tren-nui-chop-vung-o-binh-dinh-4754110.html) - 04:35 04/06/2024
 - 🤓 [Cần Thơ tồn đọng hàng nghìn giấy phép lái xe vì thiếu mực in](https://vnexpress.net/can-tho-ton-dong-hang-nghin-giay-phep-lai-xe-vi-thieu-muc-in-4753924.html) - 02:28 04/06/2024
-- ⚗️ [Bộ trưởng Đặng Quốc Khánh: Chuyển cơ quan điều tra các sai phạm về khoáng sản](https://vnexpress.net/bo-truong-tai-nguyen-va-moi-truong-dang-quoc-khanh-tra-loi-chat-van-4753965.html) - 01:00 04/06/2024
+- ⚗️ [Bộ trưởng Đặng Quốc Khánh: Tăng cường đấu giá khai thác khoáng sản](https://vnexpress.net/bo-truong-tai-nguyen-va-moi-truong-dang-quoc-khanh-tra-loi-chat-van-4753965.html) - 01:00 04/06/2024
 - 🌊 [Bộ trưởng Đặng Quốc Khánh lần đầu trả lời chất vấn](https://vnexpress.net/bo-truong-dang-quoc-khanh-lan-dau-tra-loi-chat-van-4753913.html) - 17:00 03/06/2024
 - 🎓 [Nạt nộ bệnh nhân, y sĩ bị điều chuyển công tác](https://vnexpress.net/nat-no-benh-nhan-y-si-bi-dieu-chuyen-cong-tac-4753917.html) - 15:41 03/06/2024
 - 🔥 [Sập sân khấu, 6 học sinh bị thương](https://vnexpress.net/sap-san-khau-6-hoc-sinh-bi-thuong-4753891.html) - 13:23 03/06/2024
