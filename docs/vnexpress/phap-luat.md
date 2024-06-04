@@ -8,7 +8,7 @@ sidebar_position: 12
 - 🥰 [Gửi &#39;video nóng&#39; dụ dỗ nữ sinh lớp 8](https://vnexpress.net/gui-video-nong-de-du-do-nu-sinh-lop-8-4754040.html) - 06:10 04/06/2024
 - 🎓 [Công an: &#39;Thí sinh được dùng ứng dụng VNeID thay thẻ căn cước công dân&#39;](https://vnexpress.net/cong-an-thi-sinh-duoc-dung-ung-dung-vneid-thay-the-can-cuoc-cong-dan-4754137.html) - 05:48 04/06/2024
 - 🤓 [Cố tình &#39;đánh giá 1 sao&#39; để tống tiền](https://vnexpress.net/bi-bat-vi-co-tinh-danh-gia-1-sao-de-tong-tien-4754127.html) - 05:07 04/06/2024
-- 🎊 [Bị phạt vì chở 4 cô gái trong cốp xe](https://vnexpress.net/bi-phat-vi-cho-4-co-gai-trong-cop-xe-4754113.html) - 04:55 04/06/2024
+- 🎊 [Chở 4 cô gái trong cốp xe](https://vnexpress.net/bi-phat-vi-cho-4-co-gai-trong-cop-xe-4754113.html) - 04:55 04/06/2024
 - 🙉 [Cảnh sát đột kích quán bar lúc rạng sáng](https://video.vnexpress.net/canh-sat-dot-kich-quan-bar-luc-rang-sang-4753931.html) - 01:50 04/06/2024
 - 🤡 [Âm mưu thủ tiêu &#39;bồ nhí 10 năm&#39; của quan chức ngoại tình](https://vnexpress.net/am-muu-thu-tieu-bo-nhi-10-nam-cua-quan-chuc-ngoai-tinh-4753923.html) - 01:02 04/06/2024
 - 🗽 [Sòng bạc viện cớ &#39;máy nghiêng&#39; từ chối trả thưởng 2,5 triệu USD](https://vnexpress.net/song-bac-vien-co-may-nghieng-tu-choi-tra-thuong-2-5-trieu-usd-4753876.html) - 17:00 03/06/2024
