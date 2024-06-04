@@ -152,7 +152,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤠 [Chiến sự Ukraine ngày 832: Nga âm thầm dấn tới ở Donbass, cảnh báo rắn quân Pháp](https://thanhnien.vn/chien-su-ukraine-ngay-832-nga-am-tham-dan-toi-o-donbass-canh-bao-ran-quan-phap-185240604223227535.htm) - 21:29 04/06/2024
 - 🥸 [Xác thực thông tin cá nhân người bán hàng online](https://thanhnien.vn/xac-thuc-thong-tin-ca-nhan-nguoi-ban-hang-online-185240605001507933.htm) - 21:14 04/06/2024
 - 🌁 [Tiền lương, phúc lợi và công việc bền vững](https://thanhnien.vn/tien-luong-phuc-loi-va-cong-viec-ben-vung-185240604235539936.htm) - 21:10 04/06/2024
-- 🤡 [Bác sĩ 24/7: Móc ráy tai thường xuyên có sao?](https://thanhnien.vn/bac-si-24-7-moc-ray-tai-thuong-xuyen-co-sao-185240604215804565.htm) - 21:09 04/06/2024
+- 🤡 [Bác sĩ 24/7: Móc ráy tai thường xuyên có sao không?](https://thanhnien.vn/bac-si-24-7-moc-ray-tai-thuong-xuyen-co-sao-185240604215804565.htm) - 21:09 04/06/2024
 - 🎉 [Tin tức đặc biệt trên báo in Thanh Niên 5.6.2024](https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-562024-185240605000926631.htm) - 21:06 04/06/2024
 - 🎊 [U.19 Việt Nam vẫn còn nhiều việc phải làm](https://thanhnien.vn/u19-viet-nam-van-con-nhieu-viec-phai-lam-185240604212836268.htm) - 20:27 04/06/2024
 - 🤠 [EURO và những điều thú vị: Nên hiểu thế nào về cú bất ngờ mang tên Đan Mạch?](https://thanhnien.vn/euro-va-nhung-dieu-thu-vi-nen-hieu-the-nao-ve-cu-bat-ngo-mang-ten-dan-mach-185240604200549861.htm) - 20:03 04/06/2024
