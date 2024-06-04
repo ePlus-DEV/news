@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Ôtô chạy lùi trên cao tốc TP HCM - Dầu Giây](https://vnexpress.net/oto-chay-lui-tren-cao-toc-tp-hcm-dau-giay-4754278.html) - 10:44 04/06/2024
 - ⚗️ [Ngư dân Quảng Ngãi cứu ông lão người Mỹ đi thuyền buồm trôi dạt trên biển](https://vnexpress.net/ngu-dan-quang-ngai-cuu-ong-lao-nguoi-my-di-thuyen-buom-troi-dat-tren-bien-4754247.html) - 09:15 04/06/2024
 - 🌊 [Ba bé gái mất tích khi tắm sông Sài Gòn](https://vnexpress.net/ba-be-gai-mat-tich-khi-tam-song-sai-gon-4754241.html) - 09:09 04/06/2024
-- 🎓 [Phó thủ tướng: Cần biến rác thành tài nguyên](https://vnexpress.net/pho-thu-tuong-can-bien-rac-thanh-tai-nguyen-4754149-tong-thuat.html) - 07:00 04/06/2024
+- 🎓 [Phó thủ tướng: Phải biến rác thành tài nguyên](https://vnexpress.net/pho-thu-tuong-phai-bien-rac-thanh-tai-nguyen-4754149-tong-thuat.html) - 07:00 04/06/2024
 - 🔥 [&#39;Cần có tuyên ngôn về khan hiếm nước ở Việt Nam&#39;](https://vnexpress.net/can-co-tuyen-ngon-ve-khan-hiem-nuoc-o-viet-nam-4754143.html) - 06:10 04/06/2024
 - 🦏 [300 cảnh sát chữa cháy rừng trên núi Chóp Vung ở Bình Định](https://vnexpress.net/300-canh-sat-chua-chay-rung-tren-nui-chop-vung-o-binh-dinh-4754110.html) - 04:35 04/06/2024
 - 👺 [Cần Thơ tồn đọng hàng nghìn giấy phép lái xe vì thiếu mực in](https://vnexpress.net/can-tho-ton-dong-hang-nghin-giay-phep-lai-xe-vi-thieu-muc-in-4753924.html) - 02:28 04/06/2024
