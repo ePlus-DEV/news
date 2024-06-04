@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [700 học sinh được tuyển thẳng lớp 10 ở Hà Nội](https://vnexpress.net/700-hoc-sinh-duoc-tuyen-thang-lop-10-o-ha-noi-4753921.html) - 00:39 04/06/2024
 - 🦆 [Thí sinh làm bài thi lớp 10 với bình oxy](https://vnexpress.net/thi-sinh-lam-bai-thi-lop-10-voi-binh-oxy-4753961.html) - 00:29 04/06/2024
-- 🦩 [Tăng từ 1 lên 9 điểm Toán chuyên sau phúc khảo](https://vnexpress.net/tang-tu-1-len-9-diem-toan-chuyen-sau-phuc-khao-4753920.html) - 23:23 03/06/2024
+- 🦩 [Bài thi toán chuyên Lam Sơn tăng điểm từ 1 lên 9 sau phúc khảo](https://vnexpress.net/bai-thi-toan-chuyen-lam-son-tang-diem-tu-1-len-9-sau-phuc-khao-4753920.html) - 23:23 03/06/2024
 - 🌮 [Bé gái 5 tuổi bầm tím lưng vì bị bạn đấm 20 cái](https://vnexpress.net/be-gai-5-tuoi-bam-tim-lung-vi-bi-ban-dam-20-cai-4753919.html) - 15:35 03/06/2024
 - 🔭 [Tỉnh, thành nào là quê hương của nhà Mạc?](https://vnexpress.net/tinh-thanh-nao-la-que-huong-cua-nha-mac-4753871.html) - 13:47 03/06/2024
 - 💡 [Thành lập trường Sức khỏe thuộc Đại học Quốc gia TP HCM](https://vnexpress.net/thanh-lap-truong-suc-khoe-thuoc-dai-hoc-quoc-gia-tp-hcm-4753895.html) - 13:00 03/06/2024
