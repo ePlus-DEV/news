@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Bộ trưởng Đặng Quốc Khánh tiếp tục trả lời chất vấn](https://vnexpress.net/bo-truong-dang-quoc-khanh-tiep-tuc-tra-loi-chat-van-4754149.html) - 07:00 04/06/2024
+- 🦒 [Phó thủ tướng: Đất hiếm của Việt Nam chiếm 18% thế giới](https://vnexpress.net/pho-thu-tuong-dat-hiem-cua-viet-nam-chiem-18-the-gioi-4754149.html) - 07:00 04/06/2024
 - 🤓 [&#39;Cần có tuyên ngôn về khan hiếm nước ở Việt Nam&#39;](https://vnexpress.net/can-co-tuyen-ngon-ve-khan-hiem-nuoc-o-viet-nam-4754143.html) - 06:10 04/06/2024
 - ⚗️ [300 cảnh sát chữa cháy rừng trên núi Chóp Vung ở Bình Định](https://vnexpress.net/300-canh-sat-chua-chay-rung-tren-nui-chop-vung-o-binh-dinh-4754110.html) - 04:35 04/06/2024
 - 🌊 [Cần Thơ tồn đọng hàng nghìn giấy phép lái xe vì thiếu mực in](https://vnexpress.net/can-tho-ton-dong-hang-nghin-giay-phep-lai-xe-vi-thieu-muc-in-4753924.html) - 02:28 04/06/2024
