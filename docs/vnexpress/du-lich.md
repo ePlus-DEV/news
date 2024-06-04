@@ -25,7 +25,7 @@ sidebar_position: 11
 - ⚗️ [Roger Federer đăng ảnh về chuyến du lịch Đà Nẵng, Hội An](https://vnexpress.net/roger-federer-dang-anh-ve-chuyen-du-lich-da-nang-hoi-an-4753127.html) - 07:28 01/06/2024
 - 👀 [Khách đi cáp treo đến Cát Bà tăng đột biến](https://vnexpress.net/khach-di-cap-treo-den-cat-ba-tang-dot-bien-4753063.html) - 04:11 01/06/2024
 - 👍 [8 bãi biển vắng cho chuyến du lịch hè](https://vnexpress.net/8-bai-bien-vang-cho-chuyen-du-lich-he-4748557.html) - 00:00 01/06/2024
-- 💄 [Sài Gòn qua &#39;Những chuyến tàu huyền thoại&#39;](https://vnexpress.net/sai-gon-qua-nhung-chuyen-tau-huyen-thoai-4752364.html) - 17:55 31/05/2024
+- 💄 [Sài Gòn qua &#39;Chuyến tàu huyền thoại&#39;](https://vnexpress.net/sai-gon-qua-chuyen-tau-huyen-thoai-4752364.html) - 17:55 31/05/2024
 - 🥷 [Đà Nẵng vẫn trống nhiều phòng dịp lễ hội pháo hoa](https://vnexpress.net/da-nang-van-trong-nhieu-phong-dip-le-hoi-phao-hoa-4752302.html) - 12:34 31/05/2024
 - 📝 [Mùa sen nở rộ ở Trà Lý](https://vnexpress.net/mua-sen-no-ro-o-tra-ly-4752218.html) - 12:00 31/05/2024
 - 🌜 [Vietjet giảm 50% giá vé Business, SkyBoss](https://vnexpress.net/vietjet-giam-50-gia-ve-business-skyboss-4752803.html) - 10:00 31/05/2024
