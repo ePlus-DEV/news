@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🌏 [Midu tung ảnh cưới](https://vnexpress.net/midu-tung-anh-cuoi-4753721.html) - 12:41 05/06/2024
 - 💫 [Doãn Hải My thích ứng cuộc sống làm mẹ](https://vnexpress.net/doan-hai-my-thich-ung-cuoc-song-lam-me-4754540.html) - 12:27 05/06/2024
 - 🌮 [Bạn trai đón Ý Nhi về nước](https://vnexpress.net/ban-trai-don-y-nhi-ve-nuoc-4754814.html) - 12:05 05/06/2024
-- 🧠 [Đề xuất phim Nhà nước đặt hàng được bán vé](https://vnexpress.net/de-xuat-phim-nha-nuoc-dat-hang-duoc-ban-ve-4754799.html) - 12:04 05/06/2024
+- 🧠 [Đề xuất sửa cơ chế để phim Nhà nước ra rạp](https://vnexpress.net/de-xuat-sua-co-che-de-phim-nha-nuoc-ra-rap-4754799.html) - 12:04 05/06/2024
 - 👨‍🏫 [Sao dự tiệc trước đám cưới nhà tỷ phú giàu nhất châu Á](https://vnexpress.net/sao-du-tiec-truoc-dam-cuoi-nha-ty-phu-giau-nhat-chau-a-4754750.html) - 11:09 05/06/2024
 - ⚗️ [Dàn mẫu dự tiệc của nhà thiết kế Hương Phạm](https://vnexpress.net/dan-mau-du-tiec-cua-nha-thiet-ke-huong-pham-4754790.html) - 10:30 05/06/2024
 - 😎 [Thư tay thể hiện nỗi bế tắc của Franz Kafka](https://vnexpress.net/thu-tay-the-hien-noi-be-tac-cua-franz-kafka-4754513.html) - 09:08 05/06/2024
