@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [TP HCM bổ nhiệm loạt lãnh đạo sở, ngành](https://vnexpress.net/tp-hcm-bo-nhiem-loat-lanh-dao-so-nganh-4754693.html) - 08:23 05/06/2024
 - 🤓 [Dập tắt đám cháy ở chung cư mini 9 tầng](https://vnexpress.net/dap-tat-dam-chay-o-chung-cu-mini-9-tang-4754621.html) - 07:15 05/06/2024
-- ⚗️ [Bộ trưởng Nguyễn Văn Hùng: Tiêu cực trong thể thao là nhức nhối của ngành](https://vnexpress.net/bo-truong-nguyen-van-hung-tieu-cuc-trong-the-thao-la-nhuc-nhoi-cua-nganh-4754598.html) - 07:00 05/06/2024
+- ⚗️ [Bộ trưởng Nguyễn Văn Hùng: Chưa phát hiện tham ô, tham nhũng quỹ phát triển du lịch](https://vnexpress.net/bo-truong-nguyen-van-hung-chua-phat-hien-tham-o-tham-nhung-quy-phat-trien-du-lich-4754598.html) - 07:00 05/06/2024
 - 🌊 [21 ngày trên thuyền buồm gặp sự cố của ông lão người Mỹ](https://vnexpress.net/21-ngay-tren-thuyen-buom-gap-su-co-cua-ong-lao-nguoi-my-4754455.html) - 06:20 05/06/2024
 - 🎓 [Hơn 7.000 tia sét dội xuống Hà Nội](https://vnexpress.net/hon-7-000-tia-set-doi-xuong-ha-noi-4754617.html) - 06:13 05/06/2024
 - 🔥 [Bỏ lương hưu tối thiểu dễ khiến hàng triệu người già nghèo đi](https://vnexpress.net/bo-luong-huu-toi-thieu-de-khien-hang-trieu-nguoi-gia-ngheo-di-4754307.html) - 05:17 05/06/2024
