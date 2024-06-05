@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Bỏ lương hưu tối thiểu dễ khiến hàng triệu người già nghèo đi](https://vnexpress.net/bo-luong-huu-toi-thieu-de-khien-hang-trieu-nguoi-gia-ngheo-di-4754307.html) - 05:17 05/06/2024
-- 🤓 [Đà Nẵng phải &#39;mày mò tìm đường đi&#39; khi lập khu thương mại tự do](https://vnexpress.net/da-nang-phai-may-mo-tim-duong-di-khi-lap-khu-thuong-mai-tu-do-4754358.html) - 04:17 05/06/2024
+- 🤓 [Đà Nẵng muốn phát triển chip bán dẫn, AI ở khu thương mại tự do](https://vnexpress.net/da-nang-muon-phat-trien-chip-ban-dan-ai-o-khu-thuong-mai-tu-do-4754358.html) - 04:17 05/06/2024
 - ⚗️ [Hà Nội mưa lớn, ngập nhiều tuyến phố](https://vnexpress.net/ha-noi-mua-lon-ngap-nhieu-tuyen-pho-4754549.html) - 03:57 05/06/2024
 - 🌊 [Hai mẹ con bị lũ cuốn](https://vnexpress.net/hai-me-con-bi-lu-cuon-4754483.html) - 02:53 05/06/2024
 - 🎓 [Trăm năm đổi thay của quảng trường chợ Bến Thành](https://vnexpress.net/tram-nam-doi-thay-cua-quang-truong-cho-ben-thanh-4754365.html) - 23:00 04/06/2024
