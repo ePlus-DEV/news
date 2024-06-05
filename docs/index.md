@@ -252,7 +252,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Hình ảnh thí sinh hồi hộp làm thủ tục dự thi lớp 10 tại TP HCM](https://nld.com.vn/hinh-anh-thi-sinh-hoi-hop-lam-thu-tuc-du-thi-lop-10-tai-tp-hcm-19624060511224445.htm) - 04:35 05/06/2024
-- 😺 [Tổng Kiểm toán Ngô Văn Tuấn: Kiên quyết loại bỏ những “con sâu làm rầu nồi canh”](https://nld.com.vn/tong-kiem-toan-ngo-van-tuan-kien-quyet-loai-bo-nhung-con-sau-lam-rau-noi-canh-196240605110421549.htm) - 04:30 05/06/2024
+- 😺 [Tổng Kiểm toán Ngô Văn Tuấn: Loại bỏ những “con sâu làm rầu nồi canh”](https://nld.com.vn/tong-kiem-toan-ngo-van-tuan-kien-quyet-loai-bo-nhung-con-sau-lam-rau-noi-canh-196240605110421549.htm) - 04:30 05/06/2024
 - 👍 [Diễn biến mới vụ &quot;Đâm người trọng thương sau hơn 2 tháng vẫn nhởn nhơ&quot;](https://nld.com.vn/dien-bien-moi-vu-dam-nguoi-trong-thuong-sau-hon-2-thang-van-nhon-nho-196240605110405051.htm) - 04:30 05/06/2024
 - 🥷 [Công an và luật sư chỉ cách nhận diện lừa đảo qua mạng](https://nld.com.vn/podcast/cong-an-va-luat-su-chi-cach-nhan-dien-lua-dao-qua-mang-196240605112203864.htm) - 04:24 05/06/2024
 - 🤔 [Bé gái bất ngờ bị chó hàng xóm cắn rách 20 cm vùng đầu, gáy](https://nld.com.vn/be-gai-bat-ngo-bi-cho-hang-xom-can-rach-20-cm-vung-dau-gay-196240605091443127.htm) - 04:22 05/06/2024
@@ -295,7 +295,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌁 [Lợi ích tuyệt vời của chất fucoidan từ tảo nâu Okinawa đối với sức khỏe](https://thitruong.nld.com.vn/loiichtuyetvoicua-chat-fucoidan-tutaonauokinawa-doivoisuckhoe-196240605090436598.htm) - 02:16 05/06/2024
 - 🌮 [Vincom khởi động Lễ hội mùa Hè với Tuần lễ siêu trải nghiệm độc đáo, sáng tạo](https://nld.com.vn/vincom-khoi-dong-le-hoi-mua-he-voi-tuan-le-sieu-trai-nghiem-doc-dao-sang-tao-196240604180826022.htm) - 02:16 05/06/2024
 - 🎉 [Philippines - thuốc thử xứng tầm cho HLV Kim Sang-sik](https://nld.com.vn/philippines-thuoc-thu-xung-tam-cho-hlv-kim-sang-sik-196240604212333535.htm) - 02:15 05/06/2024
-- 🤔 [9g sáng nay, Báo Người Lao Động tổ chức talkshow &quot;Nhận diện lừa đảo qua mạng&quot;](https://nld.com.vn/9g-sang-nay-bao-nguoi-lao-dong-to-chuc-talkshow-nhan-dien-lua-dao-qua-mang-196240605090528894.htm) - 02:11 05/06/2024
+- 🤔 [Làm thế nào để nhận diện lừa đảo qua mạng?](https://nld.com.vn/9g-sang-nay-bao-nguoi-lao-dong-to-chuc-talkshow-nhan-dien-lua-dao-qua-mang-196240605090528894.htm) - 02:11 05/06/2024
 - 🐘 [Đã có hướng giải quyết quyền lợi cho đối tượng bị thu sai BHXH?](https://nld.com.vn/da-co-huong-giai-quyet-quyen-loi-cho-doi-tuong-bi-thu-sai-bhxh-196240605085322322.htm) - 01:55 05/06/2024
 - 🙉 [25 năm kiên định mục tiêu lấy thành công của người học làm &quot;thước đo&quot; chất lượng](https://nld.com.vn/25-nam-kien-dinh-muc-tieu-lay-thanh-cong-cua-nguoi-hoc-lam-thuoc-do-chat-luong-196240604213042942.htm) - 01:45 05/06/2024
 - 🐵 [Thúy Ngân, NSƯT Kim Tuyến quyến rũ buổi ra mắt phim](https://nld.com.vn/thuy-ngan-nsut-kim-tuyen-quyen-ru-buoi-ra-mat-phim-196240605080047501.htm) - 01:40 05/06/2024
