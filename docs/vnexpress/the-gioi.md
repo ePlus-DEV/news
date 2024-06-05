@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Israel bị cáo buộc sử dụng đạn pháo photpho trắng ở Lebanon](https://vnexpress.net/israel-bi-cao-buoc-su-dung-dan-phao-photpho-trang-o-lebanon-4754839.html) - 14:30 05/06/2024
+- 🎭 [Israel bị tố bắn đạn photpho trắng vào nhà dân ở Lebanon](https://vnexpress.net/israel-bi-to-ban-dan-photpho-trang-vao-nha-dan-o-lebanon-4754839.html) - 14:30 05/06/2024
 - 🕴 [Rapper nổi tiếng Thụy Điển chết trong trận chiến băng đảng](https://vnexpress.net/rapper-noi-tieng-thuy-dien-chet-trong-tran-chien-bang-dang-4754825.html) - 12:54 05/06/2024
 - 🤭 [Nga cáo buộc Mỹ dùng lệnh trừng phạt để &#39;tống tiền&#39; Trung Quốc](https://vnexpress.net/nga-cao-buoc-my-dung-lenh-trung-phat-de-tong-tien-trung-quoc-4754829.html) - 12:50 05/06/2024
 - 🧑‍💻 [Israel tuyên bố chuẩn bị &#39;chiến dịch khốc liệt&#39; với Hezbollah](https://vnexpress.net/israel-tuyen-bo-chuan-bi-chien-dich-khoc-liet-voi-hezbollah-4754809.html) - 12:03 05/06/2024
