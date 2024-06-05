@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Dập tắt đám cháy ở chung cư mini 9 tầng](https://vnexpress.net/dap-tat-dam-chay-o-chung-cu-mini-9-tang-4754621.html) - 07:15 05/06/2024
-- 🤓 [Bộ trưởng Văn hóa Thể thao và Du lịch trả lời chất vấn](https://vnexpress.net/bo-truong-van-hoa-the-thao-va-du-lich-tra-loi-chat-van-4754598.html) - 07:00 05/06/2024
+- 🤓 [Bộ trưởng Nguyễn Văn Hùng: Cần phát triển du lịch gắn với nghệ thuật đỉnh cao](https://vnexpress.net/bo-truong-nguyen-van-hung-can-phat-trien-du-lich-gan-voi-nghe-thuat-dinh-cao-4754598.html) - 07:00 05/06/2024
 - ⚗️ [21 ngày trên thuyền buồm gặp sự cố của ông lão người Mỹ](https://vnexpress.net/21-ngay-tren-thuyen-buom-gap-su-co-cua-ong-lao-nguoi-my-4754455.html) - 06:20 05/06/2024
 - 🌊 [Hơn 7.000 tia sét dội xuống Hà Nội](https://vnexpress.net/hon-7-000-tia-set-doi-xuong-ha-noi-4754617.html) - 06:13 05/06/2024
 - 🎓 [Bỏ lương hưu tối thiểu dễ khiến hàng triệu người già nghèo đi](https://vnexpress.net/bo-luong-huu-toi-thieu-de-khien-hang-trieu-nguoi-gia-ngheo-di-4754307.html) - 05:17 05/06/2024
