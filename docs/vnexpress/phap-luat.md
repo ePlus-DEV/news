@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Hỗn chiến ở cây xăng](https://vnexpress.net/hon-chien-o-cay-xang-4754778.html) - 10:31 05/06/2024
-- 🥰 [Người phụ nữ tử vong sau khi nâng mũi ở cơ sở thẩm mỹ](https://vnexpress.net/nguoi-phu-nu-tu-vong-sau-khi-nang-mui-o-co-so-tham-my-4754748.html) - 09:43 05/06/2024
+- 🥰 [Người phụ nữ tử vong khi nâng mũi ở cơ sở thẩm mỹ](https://vnexpress.net/nguoi-phu-nu-tu-vong-khi-nang-mui-o-co-so-tham-my-4754748.html) - 09:43 05/06/2024
 - 🎓 [Phó giám đốc sở Tài nguyên và Môi trường Bắc Kạn bị bắt](https://vnexpress.net/pho-giam-doc-so-tai-nguyen-va-moi-truong-bac-kan-bi-bat-4754757.html) - 09:40 05/06/2024
 - 🤓 [14 giang hồ cầm đầu hỗn chiến ở Phú Quốc bị kháng nghị tăng án](https://vnexpress.net/14-giang-ho-cam-dau-hon-chien-o-phu-quoc-bi-khang-nghi-tang-an-4754609.html) - 07:05 05/06/2024
 - 🎊 [Tài xế xe công nghệ hẹn hò nữ khách hàng, tống tiền 500 triệu đồng](https://vnexpress.net/tai-xe-xe-cong-nghe-hen-ho-nu-khach-hang-tong-tien-500-trieu-dong-4754585.html) - 05:24 05/06/2024
