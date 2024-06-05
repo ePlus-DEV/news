@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [9 dấu hiệu nhận biết người trẻ giàu có ở Trung Quốc](https://vnexpress.net/9-dau-hieu-nhan-biet-nguoi-tre-giau-co-o-trung-quoc-4754603.html) - 08:19 05/06/2024
+- 🚀 [7 dấu hiệu nhận biết người trẻ giàu có ở Trung Quốc](https://vnexpress.net/7-dau-hieu-nhan-biet-nguoi-tre-giau-co-o-trung-quoc-4754603.html) - 08:19 05/06/2024
 - 🎓 [Nhiều cha mẹ Mỹ kiệt sức vì nuôi con nhỏ](https://vnexpress.net/nhieu-cha-me-my-kiet-suc-vi-nuoi-con-nho-4754577.html) - 07:52 05/06/2024
 - 🚦 [Chính sách &#39;nghỉ phép 10 ngày nếu không vui&#39; gây tranh cãi](https://vnexpress.net/chinh-sach-nghi-phep-10-ngay-neu-khong-vui-gay-tranh-cai-4754539.html) - 04:35 05/06/2024
 - 🦣 [Cắm buồng chuối để &#39;chữa lành&#39;](https://vnexpress.net/cam-buong-chuoi-de-chua-lanh-4754351.html) - 03:05 05/06/2024
