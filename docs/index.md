@@ -251,7 +251,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- nld:START -->
 - 🐎 [Lan tỏa cái đẹp để dẹp cái xấu trên mạng xã hội](https://nld.com.vn/lan-toa-cai-dep-de-dep-cai-xau-tren-mang-xa-hoi-196240605170033349.htm) - 10:33 05/06/2024
 - 😺 [115 vận động viên của 52 quốc gia tham dự giải Teqball thế giới 2024 ở Quy Nhơn](https://nld.com.vn/115-van-dong-vien-cua-52-quoc-gia-tham-du-giai-teqball-the-gioi-2024-o-quy-nhon-196240605160148415.htm) - 10:33 05/06/2024
-- 👍 [Phó Giám đốc Sở Tài Nguyên và Môi trường Bắc Kạn bị bắt](https://nld.com.vn/pho-giam-doc-so-tai-nguyen-va-moi-truong-bac-kan-bi-bat-196240605171125316.htm) - 10:24 05/06/2024
+- 👍 [Phó Giám đốc Sở Tài nguyên và Môi trường Bắc Kạn bị bắt](https://nld.com.vn/pho-giam-doc-so-tai-nguyen-va-moi-truong-bac-kan-bi-bat-196240605171125316.htm) - 10:24 05/06/2024
 - 🥷 [Gojek tổ chức giải bóng đá gắn kết cộng đồng tài xế](https://thitruong.nld.com.vn/gojek-to-chuc-giai-bong-da-gan-ket-cong-dong-tai-xe-196240605164627781.htm) - 10:13 05/06/2024
 - 🤔 [Bình Dương: 6 người trên xe tải lao xuống cây xăng gây hỗn chiến kinh hoàng](https://nld.com.vn/binh-duong-6-nguoi-tren-xe-tai-lao-xuong-cay-xang-gay-hon-chien-kinh-hoang-196240605164956486.htm) - 10:03 05/06/2024
 - 🌈 [Ra mắt 2 công trình ý nghĩa trên xã đảo Thạnh An](https://nld.com.vn/ra-mat-2-cong-trinh-y-nghia-tren-xa-dao-thanh-an-196240605163011947.htm) - 09:59 05/06/2024
