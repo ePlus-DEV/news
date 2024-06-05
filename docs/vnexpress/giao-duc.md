@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Trường đại học nói lý do chỉ tuyển nam sinh cao trên 1m65](https://vnexpress.net/truong-dai-hoc-noi-ly-do-chi-tuyen-nam-sinh-cao-tren-1m65-4754698.html) - 10:38 05/06/2024
+- 🤓 [Trường đại học nói lý do chỉ tuyển nam sinh cao trên 1,65 m](https://vnexpress.net/truong-dai-hoc-noi-ly-do-chi-tuyen-nam-sinh-cao-tren-1-65-m-4754698.html) - 10:38 05/06/2024
 - 🦆 [Trưởng công an xã đến nhà khuyên thí sinh đi thi lớp 10](https://vnexpress.net/truong-cong-an-xa-den-nha-khuyen-thi-sinh-di-thi-lop-10-4754706.html) - 09:49 05/06/2024
 - 🦩 [Học sinh đưa Trần Lập, Khánh Vy vào bài thi Văn lớp 10 chuyên](https://vnexpress.net/hoc-sinh-dua-tran-lap-khanh-vy-vao-bai-thi-van-lop-10-chuyen-4754616.html) - 08:04 05/06/2024
 - 🌮 [Nữ sinh phải thi một mình một phòng](https://vnexpress.net/nu-sinh-phai-thi-mot-minh-mot-phong-4753941.html) - 06:10 05/06/2024
