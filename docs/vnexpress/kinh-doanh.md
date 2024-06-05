@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Thaco sẽ tổ chức 2.500 khóa học cho nhân sự toàn hệ thống](https://vnexpress.net/thaco-se-to-chuc-2-500-khoa-hoc-cho-nhan-su-toan-he-thong-4753992.html) - 02:00 05/06/2024
-- 🐲 [Ông Ngô Văn Tuấn: Báo cáo của kiểm toán đẩy nhanh điều tra tham nhũng](https://vnexpress.net/chat-van-tong-kiem-toan-nha-nuoc-ngo-van-tuan-sang-5-6-4754417.html) - 01:59 05/06/2024
+- 🐲 [Tổng kiểm toán Nhà nước: Phúc Sơn, Thuận An không thuộc đối tượng bị kiểm toán](https://vnexpress.net/chat-van-tong-kiem-toan-nha-nuoc-ngo-van-tuan-sang-5-6-4754417.html) - 01:59 05/06/2024
 - 🔥 [Giá vàng thế giới quay đầu giảm mạnh](https://vnexpress.net/gia-vang-the-gioi-quay-dau-giam-manh-4754411.html) - 01:16 05/06/2024
 - 🐵 [Bộ trưởng Công Thương: Ủng hộ Bộ Y tế &#39;cấm thuốc lá điện tử&#39;](https://vnexpress.net/chat-van-bo-truong-cong-thuong-sang-5-6-4754408-tong-thuat.html) - 01:01 05/06/2024
 - 🦅 [Sản xuất chịu áp lực vì chi phí đầu vào tăng](https://vnexpress.net/san-xuat-chiu-ap-luc-vi-chi-phi-dau-vao-tang-4753847.html) - 22:29 04/06/2024
