@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Bà Trương Mỹ Lan bị cáo buộc chuyển 4,5 tỷ USD ra nước ngoài](https://vnexpress.net/ba-truong-my-lan-bi-cao-buoc-chuyen-4-5-ty-usd-ra-nuoc-ngoai-4754965.html) - 05:25 06/06/2024
+- 😎 [Bà Trương Mỹ Lan bị cáo buộc vận chuyển trái phép 4,5 tỷ USD qua biên giới](https://vnexpress.net/ba-truong-my-lan-bi-cao-buoc-van-chuyen-trai-phep-4-5-ty-usd-qua-bien-gioi-4754965.html) - 05:25 06/06/2024
 - 🥰 [Chiêu nguỵ tạo đồ cổ, lừa bán kiếm hàng tỷ đồng](https://video.vnexpress.net/chieu-nguy-tao-do-co-lua-ban-kiem-hang-ty-dong-4754856.html) - 03:50 06/06/2024
 - 🎓 [6 cầu thủ bóng đá Bà Rịa - Vũng Tàu bị bắt](https://vnexpress.net/6-cau-thu-bong-da-ba-ria-vung-tau-bi-bat-4755019.html) - 03:47 06/06/2024
 - 🤓 [Tên trộm ngủ quên ở nhà giàu vì &#39;điều hòa quá mát&#39;](https://vnexpress.net/ten-trom-ngu-quen-o-nha-giau-vi-dieu-hoa-qua-mat-4754866.html) - 02:35 06/06/2024
