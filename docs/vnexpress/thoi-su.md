@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Ôtô chở công nhân tông loạt xe máy, một người chết](https://vnexpress.net/oto-cho-cong-nhan-tong-loat-xe-may-mot-nguoi-chet-4755287.html) - 11:24 06/06/2024
+- 🦒 [Ôtô chở công nhân tông loạt xe máy chờ đèn đỏ](https://vnexpress.net/oto-cho-cong-nhan-tong-loat-xe-may-cho-den-do-4755287.html) - 11:24 06/06/2024
 - 🤓 [Cán bộ cố tình đùn đẩy, né tránh trách nhiệm sẽ bị tạm đình chỉ công tác](https://vnexpress.net/can-bo-co-tinh-dun-day-ne-tranh-trach-nhiem-se-bi-tam-dinh-chi-cong-tac-4755138.html) - 10:42 06/06/2024
 - ⚗️ [Đề xuất đầu tư hơn 19.000 tỷ đồng xây cao tốc TP HCM - Mộc Bài](https://vnexpress.net/de-xuat-dau-tu-hon-19-000-ty-dong-xay-cao-toc-tp-hcm-moc-bai-4755213.html) - 10:12 06/06/2024
 - 🌊 [Cá voi dài 10 m về biển Quy Nhơn](https://vnexpress.net/ca-voi-dai-10-m-ve-bien-quy-nhon-4755240.html) - 10:09 06/06/2024
