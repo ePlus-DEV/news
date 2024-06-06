@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Bộ Giáo dục tuýt còi trường đại học chỉ tuyển nam sinh cao 1,65 m](https://vnexpress.net/truong-quan-tri-va-kinh-doanh-chi-tuyen-nam-sinh-cao-1-65-tro-len-bo-chi-dao-gi-4755290.html) - 11:31 06/06/2024
+- 🤓 [Bộ Giáo dục tuýt còi trường đại học chỉ tuyển nam sinh cao trên 1,65 m](https://vnexpress.net/truong-quan-tri-va-kinh-doanh-chi-tuyen-nam-sinh-cao-1-65-tro-len-bo-chi-dao-gi-4755290.html) - 11:31 06/06/2024
 - 🦆 [Đáp án môn Tiếng Anh thi lớp 10 ở TP HCM](https://vnexpress.net/dap-an-tieng-anh-thi-lop-10-tp-hcm-nam-2024-4754915.html) - 10:32 06/06/2024
 - 🦩 [Nữ sinh bị đình chỉ thi lớp 10 vì giấu điện thoại trong váy](https://vnexpress.net/nu-sinh-bi-dinh-chi-thi-lop-10-vi-giau-dien-thoai-trong-vay-4755246.html) - 10:03 06/06/2024
 - 🌮 [Hai thí sinh thi lớp 10 phải truyền insulin liên tục](https://vnexpress.net/hai-thi-sinh-thi-lop-10-phai-truyen-insulin-lien-tuc-4755194.html) - 09:55 06/06/2024
