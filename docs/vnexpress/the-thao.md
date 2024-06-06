@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [HLV Philippines: &#39;Hoà Việt Nam sẽ hợp lý hơn&#39;](https://vnexpress.net/hlv-philippines-hoa-viet-nam-se-hop-ly-hon-4755346.html) - 15:44 06/06/2024
 - 🧰 [Thái Lan mất quyền tự quyết khi hoà Trung Quốc](https://vnexpress.net/thai-lan-mat-quyen-tu-quyet-khi-hoa-trung-quoc-4755310.html) - 14:26 06/06/2024
 - 🤗 [Ngoại hạng Anh tiếp tục sử dụng VAR ở mùa tới](https://vnexpress.net/ngoai-hang-anh-tiep-tuc-su-dung-var-o-mua-toi-4755333.html) - 14:24 06/06/2024
-- 🥳 [HLV Kim Sang-sik: &#39;Việt Nam thắng Philippines nhờ tiền đạo xuất sắc&#39;](https://vnexpress.net/hlv-kim-sang-sik-viet-nam-thang-philippines-nho-tien-dao-xuat-sac-4755327.html) - 14:00 06/06/2024
+- 🥳 [HLV Kim Sang-sik: &#39;Việt Nam thắng Philippines nhờ nhiệt huyết&#39;](https://vnexpress.net/hlv-kim-sang-sik-viet-nam-thang-philippines-nho-nhiet-huyet-4755327.html) - 14:00 06/06/2024
 - 🦣 [Indonesia thua Iraq, tiếp thêm hy vọng cho Việt Nam](https://vnexpress.net/indonesia-thua-iraq-tiep-them-hy-vong-cho-viet-nam-4755201.html) - 11:14 06/06/2024
 - 🌜 [Cầu thủ Khánh Hoà đình công đòi lương](https://vnexpress.net/cau-thu-khanh-hoa-dinh-cong-doi-luong-4755285.html) - 10:59 06/06/2024
 - 🫶 [Việt Nam thắng ngược phút 95 ở vòng loại World Cup](https://vnexpress.net/viet-nam-vs-philippines-4755156-tong-thuat.html) - 10:47 06/06/2024
