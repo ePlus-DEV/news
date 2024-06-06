@@ -254,7 +254,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥷 [Từ vụ cháy ở Hà Nội, UBND TP HCM ra chỉ đạo khẩn](https://nld.com.vn/tu-vu-chay-o-ha-noi-ubnd-tp-hcm-ra-chi-dao-khan-19624060611370434.htm) - 04:54 06/06/2024
 - 🤔 [Vì sao 6 cầu thủ CLB bóng đá Bà Rịa - Vũng Tàu bị bắt?](https://nld.com.vn/podcast/vi-sao-6-cau-thu-clb-bong-da-ba-ria-vung-tau-bi-bat-1962406061130284.htm) - 04:52 06/06/2024
 - 🌈 [Ô tô mất lái tông gãy trụ điện, 2 vợ chồng thương vong ở Bình Phước](https://nld.com.vn/o-to-mat-lai-tong-gay-tru-dien-2-vo-chong-thuong-vong-o-binh-phuoc-19624060611085623.htm) - 04:43 06/06/2024
-- 🔥 [Lý do một Ban quản lý dự án ở Bà Rịa - Vũng Tàu bị cưỡng chế thuế](https://nld.com.vn/ly-do-mot-ban-quan-ly-du-an-o-ba-ria-vung-tau-bi-cuong-che-thue-196240606110208748.htm) - 04:42 06/06/2024
+- 🔥 [Ban quản lý dự án ở Bà Rịa - Vũng Tàu lên tiếng về việc bị cưỡng chế thuế](https://nld.com.vn/ly-do-mot-ban-quan-ly-du-an-o-ba-ria-vung-tau-bi-cuong-che-thue-196240606110208748.htm) - 04:42 06/06/2024
 - 🧰 [Chờ ngày phim thời niên thiếu của Bác Hồ ra rạp!](https://nld.com.vn/cho-ngay-phim-thoi-nien-thieu-cua-bac-ho-ra-rap-196240606111726769.htm) - 04:30 06/06/2024
 - 🤗 [Bổ nhiệm Tổng Biên tập Báo Nông thôn Ngày nay - Điện tử Dân Việt](https://nld.com.vn/bo-nhiem-tong-bien-tap-bao-nong-thon-ngay-nay-dien-tu-dan-viet-196240606111335768.htm) - 04:25 06/06/2024
 - 🦅 [Khai mạc giải Teqball Thế giới 2024 - Teqball World Series](https://nld.com.vn/khai-mac-giai-teqball-the-gioi-2024-teqball-world-series-196240606111330393.htm) - 04:24 06/06/2024
