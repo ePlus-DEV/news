@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Indonesia thua Iraq, tiếp thêm hy vọng cho Việt Nam](https://vnexpress.net/indonesia-thua-iraq-tiep-them-hy-vong-cho-viet-nam-4755201.html) - 11:14 06/06/2024
 - 🦩 [Cầu thủ Khánh Hoà đình công đòi lương](https://vnexpress.net/cau-thu-khanh-hoa-dinh-cong-doi-luong-4755285.html) - 10:59 06/06/2024
-- 🧰 [Việt Nam - Philippines: Tiến Linh, Văn Khang đá chính](https://vnexpress.net/viet-nam-vs-philippines-4755156.html) - 10:47 06/06/2024
+- 🧰 [Việt Nam 1-1 Philippines &lpar;H2&rpar;: Tiến Linh gỡ hòa](https://vnexpress.net/viet-nam-vs-philippines-4755156.html) - 10:47 06/06/2024
 - 🤗 [Khai mạc giải Teqball quốc tế ở Quy Nhơn](https://vnexpress.net/khai-mac-giai-teqball-quoc-te-o-quy-nhon-4755091.html) - 10:33 06/06/2024
 - 🥳 [Djokovic phẫu thuật](https://vnexpress.net/djokovic-phau-thuat-4755267.html) - 10:18 06/06/2024
 - 🦣 [Việt Nam chốt 23 cầu thủ đấu Philippines](https://vnexpress.net/viet-nam-chot-23-cau-thu-dau-philippines-4755171.html) - 08:56 06/06/2024
