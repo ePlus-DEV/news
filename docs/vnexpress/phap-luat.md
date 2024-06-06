@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Chiêu nguỵ tạo đồ cổ, lừa bán kiếm hàng tỷ đồng](https://video.vnexpress.net/chieu-nguy-tao-do-co-lua-ban-kiem-hang-ty-dong-4754856.html) - 03:50 06/06/2024
-- 🥰 [6 cầu thủ bóng đá Bà Rịa – Vũng Tàu bị bắt](https://vnexpress.net/6-cau-thu-bong-da-ba-ria-vung-tau-bi-bat-4755019.html) - 03:47 06/06/2024
+- 🥰 [6 cầu thủ bóng đá Bà Rịa - Vũng Tàu bị bắt](https://vnexpress.net/6-cau-thu-bong-da-ba-ria-vung-tau-bi-bat-4755019.html) - 03:47 06/06/2024
 - 🎓 [Tên trộm ngủ quên ở nhà giàu vì &#39;điều hòa quá mát&#39;](https://vnexpress.net/ten-trom-ngu-quen-o-nha-giau-vi-dieu-hoa-qua-mat-4754866.html) - 02:35 06/06/2024
 - 🤓 [Cắt trộm cáp viễn thông dưới đường](https://video.vnexpress.net/cat-trom-cap-vien-thong-duoi-duong-4754374.html) - 01:36 06/06/2024
 - 🎊 [Mối họa từ cuộc tình ngoài luồng với trai trẻ](https://vnexpress.net/vu-an-trung-quoc-moi-hoa-tu-cuoc-tinh-ngoai-luong-voi-trai-tre-4754796.html) - 17:00 05/06/2024
