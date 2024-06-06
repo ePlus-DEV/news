@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Tài tử &#39;Tân Bến Thượng Hải&#39; kỷ niệm 10 năm kết hôn](https://vnexpress.net/tai-tu-tan-ben-thuong-hai-ky-niem-10-nam-ket-hon-4755097.html) - 07:20 06/06/2024
+- 🌏 [Tài tử &#39;Tân Bến Thượng Hải&#39; kỷ niệm 10 năm cưới](https://vnexpress.net/tai-tu-tan-ben-thuong-hai-ky-niem-10-nam-cuoi-4755097.html) - 07:20 06/06/2024
 - 💫 [30 ca sĩ hòa giọng trong MV show &#39;Anh trai say hi&#39;](https://vnexpress.net/30-ca-si-hoa-giong-trong-mv-show-anh-trai-say-hi-4754940.html) - 04:38 06/06/2024
 - 🌮 [Loạt phim &#39;Alien&#39; tái xuất sau 7 năm](https://vnexpress.net/loat-phim-alien-tai-xuat-sau-7-nam-4754958.html) - 04:31 06/06/2024
 - 🧠 [Đan túi từ cây lục bình](https://vnexpress.net/dan-tui-tu-cay-luc-binh-4753830.html) - 04:01 06/06/2024
