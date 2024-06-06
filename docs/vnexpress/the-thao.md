@@ -6,10 +6,10 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Thái Lan mất quyền tự quyết khi hoà Trung Quốc](https://vnexpress.net/thai-lan-mat-quyen-tu-quyet-khi-hoa-trung-quoc-4755310.html) - 14:26 06/06/2024
 - 🦩 [Ngoại hạng Anh tiếp tục sử dụng VAR ở mùa tới](https://vnexpress.net/ngoai-hang-anh-tiep-tuc-su-dung-var-o-mua-toi-4755333.html) - 14:24 06/06/2024
-- 🧰 [HLV Kim Sang-sik họp báo sau trận thắng ngược Philippines](https://vnexpress.net/hlv-kim-sang-sik-hop-bao-sau-tran-thang-nguoc-philippines-4755327.html) - 14:00 06/06/2024
+- 🧰 [HLV Kim Sang-sik: &#39;Việt Nam thắng Philippines nhờ tiền đạo xuất sắc&#39;](https://vnexpress.net/hlv-kim-sang-sik-viet-nam-thang-philippines-nho-tien-dao-xuat-sac-4755327.html) - 14:00 06/06/2024
 - 🤗 [Indonesia thua Iraq, tiếp thêm hy vọng cho Việt Nam](https://vnexpress.net/indonesia-thua-iraq-tiep-them-hy-vong-cho-viet-nam-4755201.html) - 11:14 06/06/2024
 - 🥳 [Cầu thủ Khánh Hoà đình công đòi lương](https://vnexpress.net/cau-thu-khanh-hoa-dinh-cong-doi-luong-4755285.html) - 10:59 06/06/2024
-- 🦣 [Việt Nam thắng ngược phút 95 ở vòng loại World Cup](https://vnexpress.net/viet-nam-vs-philippines-4755156.html) - 10:47 06/06/2024
+- 🦣 [Việt Nam thắng ngược phút 95 ở vòng loại World Cup](https://vnexpress.net/viet-nam-vs-philippines-4755156-tong-thuat.html) - 10:47 06/06/2024
 - 🌜 [Khai mạc giải Teqball quốc tế ở Quy Nhơn](https://vnexpress.net/khai-mac-giai-teqball-quoc-te-o-quy-nhon-4755091.html) - 10:33 06/06/2024
 - 🫶 [Djokovic phẫu thuật](https://vnexpress.net/djokovic-phau-thuat-4755267.html) - 10:18 06/06/2024
 - 🌜 [Việt Nam chốt 23 cầu thủ đấu Philippines](https://vnexpress.net/viet-nam-chot-23-cau-thu-dau-philippines-4755171.html) - 08:56 06/06/2024
