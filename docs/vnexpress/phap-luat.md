@@ -8,7 +8,7 @@ sidebar_position: 12
 - 🥰 [Lừa bán &#39;bùa giữ vợ&#39; cho hàng nghìn người](https://vnexpress.net/lua-ban-bua-giu-vo-cho-hang-nghin-nguoi-4755278.html) - 11:37 06/06/2024
 - 🎓 [Cựu chủ tịch Chứng khoán Trí Việt bị truy tố trong vụ án thứ hai](https://vnexpress.net/cuu-chu-tich-chung-khoan-tri-viet-bi-truy-to-trong-vu-an-thu-hai-4755228.html) - 11:34 06/06/2024
 - 🤓 [Ép hàng chục người tham gia lừa đảo qua mạng](https://vnexpress.net/ep-hang-chuc-nguoi-tham-gia-lua-dao-qua-mang-4755236.html) - 10:05 06/06/2024
-- 🎊 [Bé hai tuổi ngã cắm đầu vào xô nước ở nhà cô giáo](https://vnexpress.net/chau-be-nga-vao-xo-nuoc-con-dao-4755202.html) - 10:00 06/06/2024
+- 🎊 [Bé hai tuổi ngã vào xô nước ở nhà cô giáo](https://vnexpress.net/chau-be-nga-vao-xo-nuoc-con-dao-4755202.html) - 10:00 06/06/2024
 - 🙉 [Ma túy ngụy trang qua đường chuyển phát hàng không thế nào](https://video.vnexpress.net/ma-tuy-nguy-trang-qua-duong-chuyen-phat-hang-khong-the-nao-4755038.html) - 09:26 06/06/2024
 - 🤡 [Gần 36.000 người bị bà Trương Mỹ Lan chiếm đoạt 31.000 tỷ đồng thế nào](https://vnexpress.net/gan-36-000-nguoi-bi-ba-truong-my-lan-chiem-doat-31-000-ty-dong-the-nao-4755093.html) - 09:04 06/06/2024
 - 🗽 [Đề xuất giám sát điện tử với người chưa thành niên phạm tội](https://vnexpress.net/de-xuat-giam-sat-dien-tu-voi-nguoi-chua-thanh-nien-pham-toi-4755132.html) - 08:11 06/06/2024
