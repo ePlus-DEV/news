@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cuộc đối đầu với sếp của nữ nhân viên bị cưỡng hiếp](https://vnexpress.net/cuoc-doi-dau-voi-sep-cua-nu-nhan-vien-bi-cuong-hiep-4755263.html) - 11:42 06/06/2024
+- 😎 [Ca sĩ Chu Bin bị tạm giữ vì liên quan ma túy](https://vnexpress.net/ca-si-chu-bin-bi-tam-giu-vi-lien-quan-ma-tuy-4755275.html) - 12:23 06/06/2024
 - 🥰 [Lừa bán &#39;bùa giữ vợ&#39; cho hàng nghìn người](https://vnexpress.net/lua-ban-bua-giu-vo-cho-hang-nghin-nguoi-4755278.html) - 11:37 06/06/2024
 - 🎓 [Cựu chủ tịch Chứng khoán Trí Việt bị truy tố trong vụ án thứ hai](https://vnexpress.net/cuu-chu-tich-chung-khoan-tri-viet-bi-truy-to-trong-vu-an-thu-hai-4755228.html) - 11:34 06/06/2024
 - 🤓 [Ép hàng chục người tham gia lừa đảo qua mạng](https://vnexpress.net/ep-hang-chuc-nguoi-tham-gia-lua-dao-qua-mang-4755236.html) - 10:05 06/06/2024
