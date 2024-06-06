@@ -11,7 +11,7 @@ sidebar_position: 3
 - 🦅 [Công ty nông nghiệp của ông Trần Bá Dương bắt đầu có lãi](https://vnexpress.net/cong-ty-nong-nghiep-cua-ong-tran-ba-duong-bat-dau-co-lai-4754837.html) - 17:04 05/06/2024
 - 😺 [Lương thực tế của người Nhật giảm 25 tháng liên tiếp](https://vnexpress.net/luong-thuc-te-cua-nguoi-nhat-giam-25-thang-lien-tiep-4754723.html) - 12:00 05/06/2024
 - 🤩 [Thanh long Việt đổ sang Mỹ, Anh, Đức](https://vnexpress.net/thanh-long-viet-do-sang-my-anh-duc-4754691.html) - 11:32 05/06/2024
-- 🌮 [Quỹ cổ phiếu mở lần đầu chia cổ tức tiền mặt](https://vnexpress.net/quy-co-phieu-mo-lan-dau-chia-co-tuc-tien-mat-4754813.html) - 11:20 05/06/2024
+- 🌮 [Quỹ mở cổ phiếu lần đầu chia cổ tức tiền mặt](https://vnexpress.net/quy-mo-co-phieu-lan-dau-chia-co-tuc-tien-mat-4754813.html) - 11:20 05/06/2024
 - 🧰 [LPBank hợp tác Bộ Công an triển khai dịch vụ số trên VNeID](https://vnexpress.net/lpbank-hop-tac-bo-cong-an-trien-khai-dich-vu-so-tren-vneid-4754551.html) - 10:00 05/06/2024
 - 🤔 [Krungsri đồng hành SHBFinance ra mắt thẻ tín dụng](https://vnexpress.net/krungsri-dong-hanh-shbfinance-ra-mat-the-tin-dung-4754702.html) - 09:00 05/06/2024
 - 🧑‍💻 [Chuỗi bán nệm lớn nhất cả nước sạch nợ trái phiếu](https://vnexpress.net/chuoi-ban-nem-lon-nhat-ca-nuoc-sach-no-trai-phieu-4754524.html) - 07:03 05/06/2024
