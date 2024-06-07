@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Ông Zelensky lợi bất cập hại khi chỉ trích Trung Quốc tại Shangri-La](https://vnexpress.net/ong-zelensky-loi-bat-cap-hai-khi-chi-trich-trung-quoc-tai-shangri-la-4755415.html) - 22:00 07/06/2024
+- 🎭 [Lợi bất cập hại khi ông Zelensky chỉ trích Trung Quốc tại Shangri-La](https://vnexpress.net/loi-bat-cap-hai-khi-ong-zelensky-chi-trich-trung-quoc-tai-shangri-la-4755415.html) - 22:00 07/06/2024
 - 🕴 [Ông Putin: Nga không cần vũ khí hạt nhân để chiến thắng ở Ukraine](https://vnexpress.net/ong-putin-nga-khong-can-vu-khi-hat-nhan-de-chien-thang-o-ukraine-4755803.html) - 17:04 07/06/2024
 - 🤭 [Người con cả bạc mệnh của Tổng thống Biden](https://vnexpress.net/nguoi-con-ca-bac-menh-cua-tong-thong-biden-4754917.html) - 17:00 07/06/2024
 - 🧑‍💻 [Nga áp sát làng chiến lược dọc phòng tuyến Ukraine tại Donetsk](https://vnexpress.net/nga-ap-sat-lang-chien-luoc-doc-phong-tuyen-ukraine-tai-donetsk-4755781.html) - 15:01 07/06/2024
