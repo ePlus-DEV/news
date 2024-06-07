@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cách bà Trương Mỹ Lan &#39;rửa&#39; 445.747 tỷ đồng từ tham ô và lừa đảo](https://vnexpress.net/cach-ba-truong-my-lan-rua-445-747-ty-dong-tu-tham-o-va-lua-dao-4755311.html) - 01:00 07/06/2024
+- 😎 [Cách bà Trương Mỹ Lan &#39;rửa&#39; 445.747 tỷ đồng](https://vnexpress.net/cach-ba-truong-my-lan-rua-445-747-ty-dong-4755311.html) - 01:00 07/06/2024
 - 🥰 [Công an phường có quyền gì với người vi phạm giao thông?](https://vnexpress.net/cong-an-phuong-co-quyen-gi-voi-nguoi-vi-pham-giao-thong-4755283.html) - 23:00 06/06/2024
 - 🎓 [Cuộc đối đầu với sếp của nữ nhân viên bị cưỡng hiếp](https://vnexpress.net/cuoc-doi-dau-voi-sep-cua-nu-nhan-vien-bi-cuong-hiep-4755263.html) - 17:01 06/06/2024
 - 🤓 [Ca sĩ Chu Bin bị tạm giữ vì liên quan ma túy](https://vnexpress.net/ca-si-chu-bin-bi-tam-giu-vi-lien-quan-ma-tuy-4755275.html) - 12:23 06/06/2024
