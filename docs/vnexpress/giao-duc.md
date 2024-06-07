@@ -13,7 +13,7 @@ sidebar_position: 7
 - 🥰 [&#39;Người hùng&#39; trong vụ cháy ở Trung Kính vào đề Văn thi lớp 10](https://vnexpress.net/nguoi-hung-trong-vu-chay-o-trung-kinh-vao-de-van-thi-lop-10-4755615.html) - 09:14 07/06/2024
 - 🐲 [Đề thi lớp 10 các tỉnh, thành phố năm 2024](https://vnexpress.net/de-thi-lop-10-cac-tinh-thanh-pho-nam-2024-4754622.html) - 08:33 07/06/2024
 - 🦒 [Bỏ yêu cầu nam sinh cao 1,65m vì bị Bộ Giáo dục &#39;tuýt còi&#39;](https://vnexpress.net/bo-yeu-cau-nam-sinh-cao-1-65m-vi-bi-bo-giao-duc-tuyt-coi-4755574.html) - 07:53 07/06/2024
-- 🦆 [Đặc cách vào lớp 10 cho nữ sinh làm bài thi trên giường bệnh](https://vnexpress.net/dac-cach-vao-lop-10-cho-nu-sinh-lam-bai-thi-tren-giuong-benh-4755619.html) - 07:03 07/06/2024
+- 🦆 [Nữ sinh làm bài thi trên giường bệnh được đặc cách vào lớp 10](https://vnexpress.net/nu-sinh-lam-bai-thi-tren-giuong-benh-duoc-dac-cach-vao-lop-10-4755619.html) - 07:03 07/06/2024
 - 🧰 [Hai thí sinh đặc biệt được mang điện thoại vào phòng thi](https://vnexpress.net/hai-thi-sinh-dac-biet-duoc-mang-dien-thoai-vao-phong-thi-4755558.html) - 05:59 07/06/2024
 - 🐘 [Thí sinh bật khóc, giáo viên bất ngờ với đề thi Toán lớp 10](https://vnexpress.net/thi-sinh-bat-khoc-giao-vien-bat-ngo-voi-de-thi-toan-lop-10-4755562.html) - 04:40 07/06/2024
 - 🤓 [Lời giải đề thi môn Toán chuyên lớp 10 ở Hà Tĩnh](https://vnexpress.net/loi-giai-de-thi-mon-toan-chuyen-lop-10-o-ha-tinh-4755357.html) - 04:05 07/06/2024
