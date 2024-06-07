@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Cô gái bắt cóc trẻ quay video khiêu dâm &#39;theo chỉ đạo của người tình&#39;](https://vnexpress.net/co-gai-bat-coc-tre-quay-video-khieu-dam-theo-chi-dao-cua-nguoi-tinh-4755720.html) - 15:32 07/06/2024
-- 🥰 [Nhà báo Huy Đức và luật sư Trần Đình Triển bị bắt](https://vnexpress.net/nha-bao-huy-duc-va-luat-su-tran-dinh-trien-bi-bat-4753293.html) - 15:00 07/06/2024
+- 🥰 [Ông Trương Huy San và Trần Đình Triển bị bắt](https://vnexpress.net/ong-truong-huy-san-va-luat-su-tran-dinh-trien-bi-bat-4753293.html) - 15:00 07/06/2024
 - 🎓 [Băng cướp khiến một phụ nữ tử vong khi truy đuổi](https://vnexpress.net/bang-cuop-khien-mot-phu-nu-tu-vong-khi-truy-duoi-4755761.html) - 13:23 07/06/2024
 - 🤓 [Bốn án chung thân cho nhóm bắn chết người giữa tiệc sinh nhật](https://vnexpress.net/bon-an-chung-than-cho-nhom-ban-chet-nguoi-giua-tiec-sinh-nhat-4755655.html) - 11:03 07/06/2024
 - 🎊 [Nhân viên mạo danh ông chủ, lấy trộm kiện hàng 90 chiếc iPhone](https://vnexpress.net/nhan-vien-mao-danh-ong-chu-lay-trom-kien-hang-90-chiec-iphone-4755572.html) - 07:58 07/06/2024
