@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Cách làm đúng câu khó trong đề Tiếng Anh thi lớp 10 ở Hà Nội](https://vnexpress.net/cach-lam-dung-cau-kho-trong-de-tieng-anh-thi-lop-10-o-ha-noi-4751737.html) - 14:12 07/06/2024
+- 🤓 [Cách làm đúng 4 dạng bài trong đề thi Tiếng Anh lớp 10 ở Hà Nội](https://vnexpress.net/cach-lam-dung-4-dang-bai-trong-de-thi-tieng-anh-lop-10-o-ha-noi-4751737.html) - 14:12 07/06/2024
 - 🦆 [Những lỗi bị trừ điểm, đình chỉ thi lớp 10 ở Hà Nội](https://vnexpress.net/nhung-loi-bi-tru-diem-dinh-chi-thi-lop-10-o-ha-noi-4754984.html) - 13:00 07/06/2024
 - 🦩 [Đề thi chuyên Anh lớp 10 ở TP HCM](https://vnexpress.net/de-thi-chuyen-anh-lop-10-tp-hcm-nam-2024-4755755.html) - 11:06 07/06/2024
 - 🌮 [Đề và lời giải môn Toán lớp 10 chuyên Trần Phú, Hải Phòng](https://vnexpress.net/de-va-loi-giai-mon-toan-lop-10-chuyen-tran-phu-hai-phong-4755690.html) - 10:39 07/06/2024
