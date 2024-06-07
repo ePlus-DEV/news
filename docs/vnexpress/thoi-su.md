@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Tăng giám sát phương tiện đưa đón học sinh](https://vnexpress.net/tang-giam-sat-phuong-tien-dua-don-hoc-sinh-4755743.html) - 11:28 07/06/2024
+- 🦒 [Giám sát phương tiện đưa đón học sinh](https://vnexpress.net/giam-sat-phuong-tien-dua-don-hoc-sinh-4755743.html) - 11:28 07/06/2024
 - 🤓 [&#39;Đà Nẵng sẽ phát triển hơn nữa nếu có chính sách đột phá&#39;](https://vnexpress.net/da-nang-se-phat-trien-hon-nua-neu-co-chinh-sach-dot-pha-4755610.html) - 11:27 07/06/2024
 - ⚗️ [Bà Nguyễn Thị Thanh Lịch điều hành UBND tỉnh Gia Lai](https://vnexpress.net/ba-nguyen-thi-thanh-lich-dieu-hanh-ubnd-tinh-gia-lai-4755666.html) - 08:35 07/06/2024
 - 🌊 [Tiểu sử tân Bộ trưởng Công an Lương Tam Quang](https://vnexpress.net/tieu-su-tan-bo-truong-cong-an-luong-tam-quang-4755520.html) - 07:14 07/06/2024
