@@ -9,7 +9,7 @@ sidebar_position: 7
 - 🦩 [Cách làm đúng 4 dạng bài trong đề thi Tiếng Anh lớp 10 ở Hà Nội](https://vnexpress.net/cach-lam-dung-4-dang-bai-trong-de-thi-tieng-anh-lop-10-o-ha-noi-4751737.html) - 14:12 07/06/2024
 - 🌮 [Những lỗi bị trừ điểm, đình chỉ thi lớp 10 ở Hà Nội](https://vnexpress.net/nhung-loi-bi-tru-diem-dinh-chi-thi-lop-10-o-ha-noi-4754984.html) - 13:00 07/06/2024
 - 🔭 [Đề thi chuyên Anh lớp 10 ở TP HCM](https://vnexpress.net/de-thi-chuyen-anh-lop-10-tp-hcm-nam-2024-4755755.html) - 11:06 07/06/2024
-- 💡 [Đề và lời giải môn Toán lớp 10 chuyên Trần Phú, Hải Phòng](https://vnexpress.net/de-va-loi-giai-mon-toan-lop-10-chuyen-tran-phu-hai-phong-4755690.html) - 10:39 07/06/2024
+- 💡 [Đề và lời giải môn Toán chuyên thi lớp 10 ở Hải Phòng](https://vnexpress.net/de-va-loi-giai-mon-toan-chuyen-thi-lop-10-o-hai-phong-4755690.html) - 10:39 07/06/2024
 - 🥰 [Đề thi các môn chuyên lớp 10 của TP HCM năm 2024](https://vnexpress.net/de-thi-cac-mon-chuyen-lop-10-cua-tp-hcm-nam-2024-4755449.html) - 10:16 07/06/2024
 - 🐲 [Lời giải đề thi Toán chuyên lớp 10 ở TP HCM](https://vnexpress.net/dap-an-de-thi-toan-chuyen-lop-10-tp-hcm-nam-2024-4755603.html) - 09:54 07/06/2024
 - 🦒 [Đề Toán chuyên thi vào lớp 10 ở TP HCM](https://vnexpress.net/de-toan-chuyen-thi-lop-10-tp-hcm-nam-2024-4755430.html) - 09:31 07/06/2024
