@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Đáp án đề thi Toán lớp 10 TP HCM](https://vnexpress.net/dap-an-de-thi-toan-lop-10-tp-hcm-nam-2024-4755352.html) - 03:21 07/06/2024
+- 🚀 [Đáp án đề thi môn Toán vào lớp 10 TP HCM](https://vnexpress.net/dap-an-de-thi-mon-toan-vao-lop-10-tp-hcm-4755352.html) - 03:21 07/06/2024
 - 🧰 [Đề Toán thi lớp 10 ở TP HCM](https://vnexpress.net/de-toan-thi-lop-10-tp-hcm-nam-2024-4755348.html) - 03:12 07/06/2024
 - 🥰 [5 người mắc kẹt ở mỏm đá giữa sông Đồng Nai](https://vnexpress.net/5-nguoi-mac-ket-o-mom-da-giua-song-dong-nai-4755512.html) - 03:08 07/06/2024
 - 🌏 [Tài năng trẻ của Man Utd làm mẫu ảnh](https://vnexpress.net/tai-nang-tre-cua-man-utd-lam-mau-anh-4755371.html) - 03:05 07/06/2024
