@@ -33,7 +33,7 @@ sidebar_position: 7
 - 💂 [Dự đoán đề Văn thi lớp 10 TP HCM nhiều điểm 7, 8](https://vnexpress.net/du-doan-de-van-thi-lop-10-tp-hcm-nhieu-diem-7-8-4755029.html) - 05:27 06/06/2024
 - 🕴 [263 thí sinh TP HCM bỏ thi lớp 10 công lập](https://vnexpress.net/263-thi-sinh-tp-hcm-bo-thi-lop-10-cong-lap-4755070.html) - 04:58 06/06/2024
 - 🌋 [Gợi ý đáp án môn Văn thi lớp 10 ở TP HCM](https://vnexpress.net/goi-y-dap-an-mon-van-thi-lop-10-o-tp-hcm-4754795.html) - 03:57 06/06/2024
-- 🪜 [Đề Văn thi lớp 10 ở TP HCM](https://vnexpress.net/de-van-thi-lop-10-o-tp-hcm-4754783.html) - 03:00 06/06/2024
+- 🪜 [Đề Văn thi lớp 10 ở TP HCM năm 2024](https://vnexpress.net/de-van-thi-lop-10-o-tp-hcm-nam-2024-4754783.html) - 03:00 06/06/2024
 - 🕴 [Hai thủ khoa thi đánh giá năng lực đạt 129/150 điểm](https://vnexpress.net/hai-thu-khoa-thi-danh-gia-nang-luc-dat-129-150-diem-4754983.html) - 02:58 06/06/2024
 - 🎃 [Thí sinh TP HCM phấn khởi ngày đầu thi lớp 10](https://vnexpress.net/thi-sinh-tp-hcm-phan-khoi-ngay-dau-thi-lop-10-4754941.html) - 02:12 06/06/2024
 - 🦏 [Nhiều đại học chốt hạn xét tuyển học bạ trong tháng 6](https://vnexpress.net/nhieu-dai-hoc-chot-han-xet-tuyen-hoc-ba-trong-thang-6-4753580.html) - 00:29 06/06/2024
