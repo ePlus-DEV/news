@@ -217,7 +217,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦏 [EVNSPC kêu gọi đoàn viên, CNLĐ tham gia công trình đường dây 500kV mạch 3](https://laodong.vn/xa-hoi/evnspc-keu-goi-doan-vien-cnld-tham-gia-cong-trinh-duong-day-500kv-mach-3-1350329.ldo) - 15:44 07/06/2024
 - 🦩 [Ông Trương Huy San và luật sư Trần Đình Triển bị bắt tạm giam](https://laodong.vn/phap-luat/ong-truong-huy-san-va-luat-su-tran-dinh-trien-bi-bat-tam-giam-1350326.ldo) - 15:30 07/06/2024
 - 🦏 [Phó Thủ tướng: Tính toán giá điện 2 thành phần trong mua bán điện trực tiếp](https://laodong.vn/thoi-su/pho-thu-tuong-tinh-toan-gia-dien-2-thanh-phan-trong-mua-ban-dien-truc-tiep-1350314.ldo) - 15:16 07/06/2024
-- 🧰 [Trực tiếp tuyển bóng chuyền nam Việt Nam 1-1 Bahrain: Set 3](https://laodong.vn/the-thao/truc-tiep-tuyen-bong-chuyen-nam-viet-nam-1-1-bahrain-set-3-1350310.ldo) - 15:02 07/06/2024
+- 🧰 [Trực tiếp tuyển bóng chuyền nam Việt Nam 2-1 Bahrain: Set 4](https://laodong.vn/the-thao/truc-tiep-tuyen-bong-chuyen-nam-viet-nam-2-1-bahrain-set-4-1350310.ldo) - 15:02 07/06/2024
 - 🌊 [Đà Nẵng chính thức khai trương Phố đi bộ Bạch Đằng](https://laodong.vn/xa-hoi/da-nang-chinh-thuc-khai-truong-pho-di-bo-bach-dang-1350312.ldo) - 14:53 07/06/2024
 - 🔥 [Khai mạc Tuần lễ Festival Nghệ thuật Quốc tế Huế 2024](https://laodong.vn/van-hoa-giai-tri/khai-mac-tuan-le-festival-nghe-thuat-quoc-te-hue-2024-1350236.ldo) - 14:42 07/06/2024
 - 🦒 [Bắt quả tang đối tượng tàng trữ ma túy và mang theo vật giống súng](https://laodong.vn/phap-luat/bat-qua-tang-doi-tuong-tang-tru-ma-tuy-va-mang-theo-vat-giong-sung-1350302.ldo) - 14:31 07/06/2024
