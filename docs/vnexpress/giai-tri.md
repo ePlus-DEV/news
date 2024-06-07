@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Cảnh Will Smith liên tục bị tát gây chú ý](https://vnexpress.net/canh-will-smith-lien-tuc-bi-tat-gay-chu-y-4755597.html) - 08:27 07/06/2024
+- 🌏 [Cảnh Will Smith bị tát gây chú ý](https://vnexpress.net/canh-will-smith-bi-tat-gay-chu-y-4755597.html) - 08:27 07/06/2024
 - 💫 [Tôn Lệ, Đặng Siêu kỷ niệm 14 năm cưới](https://vnexpress.net/ton-le-dang-sieu-ky-niem-14-nam-cuoi-4755635.html) - 08:04 07/06/2024
 - 🌮 [Cuộc sống của Angelina Jolie sau ly hôn](https://vnexpress.net/cuoc-song-cua-angelina-jolie-sau-ly-hon-4755599.html) - 07:23 07/06/2024
 - 🧠 [Con trai 12 tuổi, cao gần 1,8 m của Trương Quỳnh Anh](https://vnexpress.net/con-trai-12-tuoi-cao-gan-1-8-m-cua-truong-quynh-anh-4755508.html) - 05:53 07/06/2024
