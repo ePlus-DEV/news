@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Doanh nhân 2 lần bị bắt oan: &#39;Bán hết gia tài làm lộ phí đòi danh dự&#39;](https://vnexpress.net/doanh-nhan-2-lan-bi-bat-oan-ban-het-gia-tai-lam-lo-phi-doi-danh-du-4754671.html) - 23:00 07/06/2024
 - 🥰 [Mưu tính ẩn sau món quà sinh nhật của kẻ chán vợ](https://vnexpress.net/muu-tinh-an-sau-mon-qua-sinh-nhat-cua-ke-chan-vo-4755766.html) - 17:00 07/06/2024
 - 🎓 [Cô gái bắt cóc trẻ quay video khiêu dâm &#39;theo chỉ đạo của người tình&#39;](https://vnexpress.net/co-gai-bat-coc-tre-quay-video-khieu-dam-theo-chi-dao-cua-nguoi-tinh-4755720.html) - 15:32 07/06/2024
-- 🤓 [Ông Trương Huy San và Trần Đình Triển bị bắt](https://vnexpress.net/ong-truong-huy-san-va-luat-su-tran-dinh-trien-bi-bat-4753293.html) - 15:00 07/06/2024
+- 🤓 [Ông Osin Huy Đức và luật sư Trần Đình Triển bị bắt](https://vnexpress.net/ong-truong-huy-san-va-luat-su-tran-dinh-trien-bi-bat-4753293.html) - 15:00 07/06/2024
 - 🎊 [Băng cướp khiến một phụ nữ tử vong khi truy đuổi](https://vnexpress.net/bang-cuop-khien-mot-phu-nu-tu-vong-khi-truy-duoi-4755761.html) - 13:23 07/06/2024
 - 🙉 [Bốn án chung thân cho nhóm bắn chết người giữa tiệc sinh nhật](https://vnexpress.net/bon-an-chung-than-cho-nhom-ban-chet-nguoi-giua-tiec-sinh-nhat-4755655.html) - 11:03 07/06/2024
 - 🤡 [Nhân viên mạo danh ông chủ, lấy trộm kiện hàng 90 chiếc iPhone](https://vnexpress.net/nhan-vien-mao-danh-ong-chu-lay-trom-kien-hang-90-chiec-iphone-4755572.html) - 07:58 07/06/2024
