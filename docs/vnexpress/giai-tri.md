@@ -12,7 +12,7 @@ sidebar_position: 5
 - ⚗️ [&#39;Móng vuốt&#39; - kỹ xảo đầu tư, kịch bản sạn](https://vnexpress.net/giai-tri/phim/thu-vien-phim/mong-vuot-708) - 03:07 08/06/2024
 - 😎 [Vở ballet đương đại cảm hứng từ giấy dó](https://vnexpress.net/vo-ballet-duong-dai-cam-hung-tu-giay-do-4754653.html) - 02:58 08/06/2024
 - 🫣 [Thập tự chinh thứ nhất - cuộc chiến rung chuyển châu Âu](https://vnexpress.net/thap-tu-chinh-thu-nhat-cuoc-chien-rung-chuyen-chau-au-4754864.html) - 01:38 08/06/2024
-- 🪄 [Phong cách hội quân của Ronaldo và dàn sao](https://vnexpress.net/phong-cach-hoi-quan-cua-ronaldo-va-dan-sao-4755801.html) - 00:18 08/06/2024
+- 🪄 [Thời trang khi hội quân của Ronaldo và dàn sao](https://vnexpress.net/thoi-trang-khi-hoi-quan-cua-ronaldo-va-dan-sao-4755801.html) - 00:18 08/06/2024
 - 🤓 [Đăng Khôi: &#39;Vợ động viên tôi trở lại ca hát&#39;](https://vnexpress.net/dang-khoi-vo-dong-vien-toi-tro-lai-ca-hat-4754458.html) - 17:00 07/06/2024
 - 🫶 [Bạn trai tái hiện màn cầu hôn Midu](https://vnexpress.net/ban-trai-tai-hien-man-cau-hon-midu-4754834.html) - 13:44 07/06/2024
 - 🧑‍🏫 [&#39;Cõng anh mà chạy&#39; - tình yêu xoay chuyển vận mệnh](https://vnexpress.net/giai-tri/phim/thu-vien-phim/cong-anh-ma-chay-707) - 13:30 07/06/2024
