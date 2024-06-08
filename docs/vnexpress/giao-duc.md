@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Đại học Y Hà Nội lần đầu xét tuyển khối C và D](https://vnexpress.net/dai-hoc-y-ha-noi-lan-dau-xet-tuyen-khoi-c-va-d-4755963.html) - 07:06 08/06/2024
-- 🦆 [Đề thi Tiếng Anh lớp 10 bị phản ứng](https://vnexpress.net/de-thi-tieng-anh-lop-10-bi-phan-ung-4755266.html) - 06:59 08/06/2024
+- 🦆 [Đề thi Tiếng Anh lớp 10 ở Tiền Giang bị phản ứng](https://vnexpress.net/de-thi-tieng-anh-lop-10-o-tien-giang-bi-phan-ung-4755266.html) - 06:59 08/06/2024
 - 🦩 [Giáo viên dự đoán điểm thi Văn ở Hà Nội phổ biến 6,5-7,5](https://vnexpress.net/giao-vien-du-doan-diem-thi-van-o-ha-noi-pho-bien-6-5-7-5-4755917.html) - 05:16 08/06/2024
 - 🌮 [Hai học sinh bị đình chỉ thi vì mang điện thoại](https://vnexpress.net/hai-hoc-sinh-bi-dinh-chi-thi-vi-mang-dien-thoai-4755952.html) - 04:52 08/06/2024
 - 🔭 [Gợi ý giải đề Văn thi lớp 10 ở Hà Nội năm 2024](https://vnexpress.net/dap-an-de-thi-mon-van-lop-10-ha-noi-nam-2024-4755800.html) - 03:24 08/06/2024
