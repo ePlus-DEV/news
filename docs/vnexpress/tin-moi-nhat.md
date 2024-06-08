@@ -5,7 +5,7 @@ sidebar_position: 9
 
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Rủi ro trong kế hoạch đưa binh sĩ tới Ukraine của ông Macron](https://vnexpress.net/rui-ro-trong-ke-hoach-dua-binh-si-toi-ukraine-cua-ong-macron-4755856.html) - 22:00 08/06/2024
-- 🐎 [5 công bố được dự đoán tại WWDC 2024](https://vnexpress.net/5-cong-bo-duoc-du-doan-tai-wwdc-2024-4755375.html) - 22:00 08/06/2024
+- 🐎 [5 công bố được chờ đợi tại WWDC 2024](https://vnexpress.net/5-cong-bo-duoc-cho-doi-tai-wwdc-2024-4755375.html) - 22:00 08/06/2024
 - 🦍 [5 loại hạt giúp giảm cân hiệu quả](https://vnexpress.net/5-loai-hat-giup-giam-can-hieu-qua-4754647.html) - 22:00 08/06/2024
 - 🏊 [Loạt ôtô thể thao đua tốc độ, 8 xe đâm dồn toa](https://vnexpress.net/loat-oto-the-thao-dua-toc-do-8-xe-dam-don-toa-4755871.html) - 21:00 08/06/2024
 - 🎊 [Sức hút của xu hướng mua sắm giải trí](https://vnexpress.net/suc-hut-cua-xu-huong-mua-sam-giai-tri-4756084.html) - 21:00 08/06/2024
