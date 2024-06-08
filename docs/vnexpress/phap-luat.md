@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Đề xuất tách vụ án để xét xử riêng với người chưa thành niên](https://vnexpress.net/de-xuat-tach-vu-an-de-xet-xu-rieng-voi-nguoi-chua-thanh-nien-4756000.html) - 08:28 08/06/2024
 - 🥰 [Cô gái bị tàu đâm do cảnh sát nhốt trong xe đậu giữa đường ray](https://vnexpress.net/co-gai-bi-tau-dam-do-canh-sat-nhot-trong-xe-dau-giua-duong-ray-4755903.html) - 05:45 08/06/2024
-- 🎓 [Chánh án: Sai lầm khi nghĩ &#39;phạt tù thật nhiều&#39; thì tội phạm sẽ giảm](https://vnexpress.net/chanh-an-sai-lam-khi-nghi-phat-tu-that-nhieu-thi-toi-pham-se-giam-4755902.html) - 05:00 08/06/2024
+- 🎓 [Chánh án: Sai lầm khi nghĩ &#39;phạt tù thật nhiều&#39; thì tội phạm chưa thành niên sẽ giảm](https://vnexpress.net/chanh-an-sai-lam-khi-nghi-phat-tu-that-nhieu-thi-toi-pham-se-giam-4755902.html) - 05:00 08/06/2024
 - 🤓 [Bố bị bắt vì bạo hành con gái 7 tuổi](https://vnexpress.net/bo-bi-bat-vi-bao-hanh-con-gai-7-tuoi-4755895.html) - 03:05 08/06/2024
 - 🎊 [Doanh nhân 2 lần bị bắt oan: &#39;Bán hết gia tài làm lộ phí đòi danh dự&#39;](https://vnexpress.net/doanh-nhan-2-lan-bi-bat-oan-ban-het-gia-tai-lam-lo-phi-doi-danh-du-4754671.html) - 23:00 07/06/2024
 - 🙉 [Mưu tính ẩn sau món quà sinh nhật của kẻ chán vợ](https://vnexpress.net/muu-tinh-an-sau-mon-qua-sinh-nhat-cua-ke-chan-vo-4755766.html) - 17:00 07/06/2024
