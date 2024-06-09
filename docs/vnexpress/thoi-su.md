@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [26 ha đất làm Depot Metro Bến Thành - Tân Kiên bị bỏ hoang](https://vnexpress.net/26-ha-dat-lam-depot-metro-ben-thanh-tan-kien-bi-bo-hoang-4756021.html) - 23:00 08/06/2024
 - 🤓 [Nghệ sĩ nhiều nước khuấy động đường phố Huế](https://vnexpress.net/nghe-si-nhieu-nuoc-khuay-dong-duong-pho-hue-4756060.html) - 17:09 08/06/2024
-- ⚗️ [Thế khó khi xây cầu &#39;trợ thủ&#39; cho Bến Thủy](https://vnexpress.net/the-kho-khi-xay-cau-tro-thu-cho-ben-thuy-4755296.html) - 17:00 08/06/2024
+- ⚗️ [Thế khó khi xây cầu giảm tải cho Bến Thủy](https://vnexpress.net/the-kho-khi-xay-cau-giam-tai-cho-ben-thuy-4755296.html) - 17:00 08/06/2024
 - 🌊 [Khai hội pháo hoa trên sông Hàn](https://vnexpress.net/khai-hoi-phao-hoa-tren-song-han-4756085.html) - 16:59 08/06/2024
 - 🎓 [Sét đánh cháy tiệm làm đẹp ở Thái Nguyên](https://vnexpress.net/set-danh-chay-tiem-lam-dep-o-thai-nguyen-4756078.html) - 15:57 08/06/2024
 - 🔥 [Giông lốc làm 70 căn nhà ở An Giang bị tốc mái](https://vnexpress.net/giong-loc-lam-70-can-nha-o-an-giang-bi-toc-mai-4756061.html) - 13:54 08/06/2024
