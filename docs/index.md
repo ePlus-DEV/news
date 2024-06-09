@@ -288,7 +288,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 👀 [Trung Quốc ban lệnh phi lý trên biển Đông](https://nld.com.vn/trung-quoc-ban-lenh-phi-ly-tren-bien-dong-196240608191024098.htm) - 01:48 09/06/2024
 - 👍 [Cha mẹ làm gì khi con yêu sớm?](https://nld.com.vn/cha-me-lam-gi-khi-con-yeu-som-196240608194618155.htm) - 01:34 09/06/2024
 - 🦅 [Đề xuất &quot;khai tử&quot; Sổ BHXH giấy từ 1-1-2026](https://nld.com.vn/de-xuat-khai-tu-so-bhxh-giay-tu-1-1-2026-196240609070813952.htm) - 01:30 09/06/2024
-- 🦏 [Thị trường ô tô Việt Nam: Quy mô nhỏ, sức mua thấp](https://nld.com.vn/thi-truong-o-to-viet-nam-quy-mo-nho-suc-mua-thap-196240608175736372.htm) - 01:02 09/06/2024
+- 🦏 [Thị trường ô tô Việt Nam: Sức mua không cao](https://nld.com.vn/thi-truong-o-to-viet-nam-quy-mo-nho-suc-mua-thap-196240608175736372.htm) - 01:02 09/06/2024
 - 🗽 [Điểm nóng xung đột ngày 9-6: Nổ liên tiếp ở Crimea, Ukraine đánh lớn?](https://nld.com.vn/diem-nong-xung-dot-ngay-9-6-no-lien-tiep-o-crimea-ukraine-danh-lon-196240609075153832.htm) - 00:59 09/06/2024
 - 🔭 [Hài hòa nguyên tắc đóng - hưởng](https://nld.com.vn/hai-hoa-nguyen-tac-dong-huong-196240608211315314.htm) - 00:55 09/06/2024
 - 👍 [Tiến bộ y học: Phục hồi thính lực](https://nld.com.vn/tien-bo-y-hoc-phuc-hoi-thinh-luc-196240608210652905.htm) - 00:47 09/06/2024
