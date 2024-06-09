@@ -208,7 +208,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- laodong:START -->
 - 🗽 [Mãn nhãn màn trình diễn ánh sáng drone lớn nhất ở TPHCM](https://laodong.vn/video/man-nhan-man-trinh-dien-anh-sang-drone-lon-nhat-o-tphcm-1350954.ldo) - 16:05 09/06/2024
 - 📝 [Công an Hà Giang xuyên đêm lập chốt chặn người xuống sông Nho Quế](https://laodong.vn/xa-hoi/cong-an-ha-giang-xuyen-dem-lap-chot-chan-nguoi-xuong-song-nho-que-1350955.ldo) - 15:55 09/06/2024
-- 🦏 [Trực tiếp bóng chuyền nam Qatar - Pakistan: Set 1](https://laodong.vn/the-thao/truc-tiep-bong-chuyen-nam-qatar-pakistan-set-1-1350947.ldo) - 15:00 09/06/2024
+- 🦏 [Trực tiếp bóng chuyền nam Qatar 1-0 Pakistan: Set 2](https://laodong.vn/the-thao/truc-tiep-bong-chuyen-nam-qatar-1-0-pakistan-set-2-1350947.ldo) - 15:00 09/06/2024
 - 🦩 [Nghĩa vụ của doanh nghiệp thuê lại lao động](https://laodong.vn/tu-van-phap-luat/nghia-vu-cua-doanh-nghiep-thue-lai-lao-dong-1350139.ldo) - 15:00 09/06/2024
 - 🦏 [Chủ tịch nước Tô Lâm về thăm nơi Quân đội Nhân dân Việt Nam ra đời](https://laodong.vn/thoi-su/chu-tich-nuoc-to-lam-ve-tham-noi-quan-doi-nhan-dan-viet-nam-ra-doi-1350943.ldo) - 14:28 09/06/2024
 - 🧰 [&quot;Học tập suốt đời&quot; - gợi mở cách học tập và kiến tạo tương lai](https://laodong.vn/sach-hay/hoc-tap-suot-doi-goi-mo-cach-hoc-tap-va-kien-tao-tuong-lai-1350775.ldo) - 14:00 09/06/2024
