@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Brighton chuẩn bị bổ nhiệm HLV 31 tuổi](https://vnexpress.net/brighton-chuan-bi-bo-nhiem-hlv-31-tuoi-4756231.html) - 10:26 09/06/2024
-- 🦩 [Lực lượng an ninh bảo vệ tuyển Việt Nam tại Iraq](https://video.vnexpress.net/luc-luong-an-ninh-bao-ve-tuyen-viet-nam-tai-iraq-4756187.html) - 08:05 09/06/2024
+- 🦩 [Tuyển Việt Nam luyện tập trước trận gặp Iraq](https://video.vnexpress.net/tuyen-viet-nam-luyen-tap-truoc-tran-gap-iraq-4756187.html) - 08:05 09/06/2024
 - 🧰 [Những ngôi sao vắng mặt tại Euro 2024](https://vnexpress.net/nhung-ngoi-sao-vang-mat-tai-euro-2024-4756179.html) - 05:33 09/06/2024
 - 🤗 [5 dấu hiệu runner cần thay giày chạy bộ](https://vnexpress.net/5-dau-hieu-runner-can-thay-giay-chay-bo-4756119.html) - 04:38 09/06/2024
 - 🥳 [Tuyển Philippines gặp sự cố ở Indonesia](https://vnexpress.net/tuyen-philippines-gap-su-co-o-indonesia-4756162.html) - 04:24 09/06/2024
