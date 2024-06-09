@@ -254,7 +254,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Ôtô con gặp nạn trên cao tốc, tài xế tử vong, người phụ nữ đi cùng bị thương](https://nld.com.vn/oto-con-gap-nan-tren-cao-toc-tai-xe-tu-vong-nguoi-phu-nu-di-cung-bi-thuong-196240609122346585.htm) - 05:45 09/06/2024
+- 🐎 [Ôtô con gặp nạn trên cao tốc, tài xế văng khỏi xe tử vong](https://nld.com.vn/oto-con-gap-nan-tren-cao-toc-tai-xe-tu-vong-nguoi-phu-nu-di-cung-bi-thuong-196240609122346585.htm) - 05:45 09/06/2024
 - 😺 [Lại thả bóng bay rác, Triều Tiên chọc giận quân đội Hàn Quốc?](https://nld.com.vn/lai-tha-bong-bay-rac-trieu-tien-choc-gian-quan-doi-han-quoc-196240609114700528.htm) - 05:05 09/06/2024
 - 👍 [Bước lùi giữa hai miền Triều Tiên](https://nld.com.vn/buoc-lui-giua-hai-mien-trieu-tien-196240608202525974.htm) - 05:01 09/06/2024
 - 🥷 [Đề thi phân hóa, 476 thí sinh vắng thi môn toán](https://nld.com.vn/de-thi-phan-hoa-476-thi-sinh-vang-thi-mon-toan-19624060911560084.htm) - 04:59 09/06/2024
