@@ -211,7 +211,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦩 [&quot;Học tập suốt đời&quot; - gợi mở cách học tập và kiến tạo tương lai](https://laodong.vn/sach-hay/hoc-tap-suot-doi-goi-mo-cach-hoc-tap-va-kien-tao-tuong-lai-1350775.ldo) - 14:00 09/06/2024
 - 🦏 [5 lời khuyên đi bộ chuyên nghiệp để giảm cân](https://laodong.vn/dinh-duong-am-thuc/5-loi-khuyen-di-bo-chuyen-nghiep-de-giam-can-1350781.ldo) - 14:00 09/06/2024
 - 🧰 [Thêm 1 Công đoàn cơ sở được thành lập tại quận Đống Đa](https://laodong.vn/ldld-tphn/them-1-cong-doan-co-so-duoc-thanh-lap-tai-quan-dong-da-1350948.ldo) - 13:39 09/06/2024
-- 🌊 [Trực tiếp bóng chuyền Kazakhstan 1-2 Hàn Quốc: Set 4](https://laodong.vn/the-thao/truc-tiep-bong-chuyen-kazakhstan-1-2-han-quoc-set-4-1350925.ldo) - 13:29 09/06/2024
+- 🌊 [Tuyển bóng chuyền nam Hàn Quốc giành hạng 3 AVC Challenge Cup 2024](https://laodong.vn/the-thao/tuyen-bong-chuyen-nam-han-quoc-gianh-hang-3-avc-challenge-cup-2024-1350925.ldo) - 13:29 09/06/2024
 - 🔥 [Giờ thứ 9: Chuyện không thể ngờ - Phần 2](https://laodong.vn/gio-thu-9/gio-thu-9-chuyen-khong-the-ngo-phan-2-1350900.ldo) - 13:00 09/06/2024
 - 🦒 [Tin 20h: Kiểm tra vụ bất thường giá nhà ở xã hội của Tập đoàn Dabaco](https://laodong.vn/video/tin-20h-kiem-tra-vu-bat-thuong-gia-nha-o-xa-hoi-cua-tap-doan-dabaco-1350857.ldo) - 13:00 09/06/2024
 - 💼 [Phát hiện vi sinh vật có khả năng chữa bệnh trong các nhà tắm La Mã cổ](https://laodong.vn/cong-nghe/phat-hien-vi-sinh-vat-co-kha-nang-chua-benh-trong-cac-nha-tam-la-ma-co-1350872.ldo) - 13:00 09/06/2024
