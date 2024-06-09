@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Đề Văn chuyên lớp 10 trích dẫn sai](https://vnexpress.net/de-van-chuyen-lop-10-trich-dan-sai-4756237.html) - 15:51 09/06/2024
+- 🤓 [Đề Văn lớp 10 nhầm &#39;lúa vàng, gạo trắng&#39; thành &#39;lúa gạo, vàng trắng&#39;](https://vnexpress.net/de-van-lop-10-nham-lua-vang-gao-trang-thanh-lua-gao-vang-trang-4756237.html) - 15:51 09/06/2024
 - 🦆 [Học sinh Bắc Giang giành huy chương vàng Olympic Vật lý châu Á](https://vnexpress.net/hoc-sinh-bac-giang-gianh-huy-chuong-vang-olympic-vat-ly-chau-a-4756227.html) - 10:02 09/06/2024
 - 🦩 [Đề thi Toán &#39;dễ thở&#39;, có thể nhiều điểm 7-8](https://vnexpress.net/de-thi-toan-de-tho-co-the-nhieu-diem-7-8-4756160.html) - 05:30 09/06/2024
 - 🌮 [Hà Nội đề nghị công an điều tra tin &#39;lộ đề Văn&#39; thi lớp 10](https://vnexpress.net/ha-noi-de-nghi-cong-an-dieu-tra-tin-lo-de-van-thi-lop-10-4756168.html) - 04:41 09/06/2024
