@@ -7,7 +7,7 @@ sidebar_position: 7
 - 🤓 [Lời giải đề thi Toán lớp 10 ở Hà Nội năm 2024](https://vnexpress.net/dap-an-de-thi-toan-lop-10-cua-ha-noi-nam-2024-4756068.html) - 03:23 09/06/2024
 - 🦆 [Đề Toán thi lớp 10 ở Hà Nội năm 2024](https://vnexpress.net/de-thi-toan-lop-10-o-ha-noi-nam-2024-4756067.html) - 03:05 09/06/2024
 - 🦩 [Trường gây tranh cãi vì đề nghị phụ huynh ký cam kết học bơi](https://vnexpress.net/truong-gay-tranh-cai-vi-de-nghi-phu-huynh-ky-cam-ket-hoc-boi-4755983.html) - 02:26 09/06/2024
-- 🌮 [Thủ khoa lớp 10 chuyên Lam Sơn mê những con số từ bé](https://vnexpress.net/thu-khoa-lop-10-chuyen-lam-son-me-nhung-con-so-tu-be-4756048.html) - 23:25 08/06/2024
+- 🌮 [Thủ khoa lớp 10 chuyên Lam Sơn mê Toán từ bé](https://vnexpress.net/thu-khoa-lop-10-chuyen-lam-son-me-toan-tu-be-4756048.html) - 23:25 08/06/2024
 - 🔭 [Kỷ lục hơn 13 triệu thí sinh Trung Quốc thi đại học](https://vnexpress.net/ky-luc-hon-13-trieu-thi-sinh-trung-quoc-thi-dai-hoc-4755769.html) - 16:38 08/06/2024
 - 💡 [Điểm chuẩn lớp 10 của TP HCM có thể giảm 0,5-2](https://vnexpress.net/diem-chuan-lop-10-cua-tp-hcm-co-the-giam-0-5-2-4756015.html) - 12:58 08/06/2024
 - 🥰 [Đáp án đề thi Toán chuyên lớp 10 ở Nghệ An](https://vnexpress.net/dap-an-de-thi-toan-chuyen-lop-10-o-nghe-an-4756052.html) - 12:09 08/06/2024
