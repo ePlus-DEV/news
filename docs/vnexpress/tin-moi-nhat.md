@@ -53,4 +53,5 @@ sidebar_position: 9
 - 👍 [Solist xứ Wales đến Việt Nam biểu diễn](https://vnexpress.net/solist-xu-wales-den-viet-nam-bieu-dien-4755710.html) - 03:19 09/06/2024
 - 🐎 [Đề Toán thi lớp 10 ở Hà Nội năm 2024](https://vnexpress.net/de-thi-toan-lop-10-o-ha-noi-nam-2024-4756067.html) - 03:05 09/06/2024
 - 🏊 [Bên trong khu trưng bày hơn 100 tượng sáp nghệ sĩ Việt](https://vnexpress.net/ben-trong-khu-trung-bay-hon-100-tuong-sap-nghe-si-viet-4756032.html) - 03:03 09/06/2024
-- 🦩 [Bạn gái khóc khi tôi nhắc về kỷ niệm với vợ cũ](https://vnexpress.net/ban-gai-khoc-khi-toi-nhac-ve-ky-niem-voi-vo-cu-4756132.html) - 03:00 09/06/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🦩 [Bạn gái khóc khi tôi nhắc về kỷ niệm với vợ cũ](https://vnexpress.net/ban-gai-khoc-khi-toi-nhac-ve-ky-niem-voi-vo-cu-4756132.html) - 03:00 09/06/2024
+- 👍 [&#39;Nút thắt cổ chai&#39; đe dọa Google, Meta](https://vnexpress.net/nut-that-co-chai-de-doa-google-meta-4756122.html) - 03:00 09/06/2024<!-- vnexpress-tin-moi-nhat:END -->
