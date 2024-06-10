@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Tục &#39;thí hòm&#39; dịp Tết Đoan Ngọ của người Hoa](https://vnexpress.net/tuc-thi-hom-dip-tet-doan-ngo-cua-nguoi-hoa-4756499.html) - 08:41 10/06/2024
+- 🚀 [Tục &#39;thí hòm&#39; của người Hoa ở Sài Gòn](https://vnexpress.net/tuc-thi-hom-cua-nguoi-hoa-o-sai-gon-4756499.html) - 08:41 10/06/2024
 - 🎓 [Món vịt trong Tết Đoan Ngọ của người Hà Nội](https://vnexpress.net/mon-vit-trong-tet-doan-ngo-cua-nguoi-ha-noi-4756201.html) - 06:46 10/06/2024
 - 🚦 [5 &#39;cái bẫy&#39; khiến bạn quay lại nghèo khó](https://vnexpress.net/5-cai-bay-khien-ban-quay-lai-ngheo-kho-4756100.html) - 04:43 10/06/2024
 - 🦣 [Thức ăn thú cưng bán chạy hơn sữa trẻ em ở Hàn Quốc](https://vnexpress.net/thuc-an-thu-cung-ban-chay-hon-sua-tre-em-o-han-quoc-4756242.html) - 03:32 10/06/2024
