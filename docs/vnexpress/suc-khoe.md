@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Sợ nội soi khiến nhiều người bỏ lỡ cơ hội phát hiện bệnh](https://vnexpress.net/so-noi-soi-khien-nhieu-nguoi-bo-lo-co-hoi-phat-hien-benh-4753779.html) - 23:00 09/06/2024
+- 🔥 [Sợ nội soi, nhiều người lỡ cơ hội phát hiện bệnh](https://vnexpress.net/so-noi-soi-nhieu-nguoi-lo-co-hoi-phat-hien-benh-4753779.html) - 23:00 09/06/2024
 - 🥰 [Làm gì để tăng chất lượng tinh trùng không cần dùng thuốc?](https://vnexpress.net/lam-gi-de-tang-chat-luong-tinh-trung-khong-can-dung-thuoc-4753440.html) - 19:00 09/06/2024
 - 💡 [10 mẹo đơn giản giúp chặn cơn thèm ăn](https://vnexpress.net/10-meo-don-gian-giup-chan-con-them-an-4754652.html) - 17:04 09/06/2024
 - 🤗 [Đông Nam Bộ sẽ có mạng lưới phòng chống ung thư 3 cấp độ](https://vnexpress.net/dong-nam-bo-se-co-mang-luoi-phong-chong-ung-thu-3-cap-do-4756200.html) - 11:48 09/06/2024
