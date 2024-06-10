@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Xe giường nằm văng hai bánh khi đang chạy trên cao tốc](https://vnexpress.net/xe-giuong-nam-vang-hai-banh-khi-dang-chay-tren-cao-toc-4756505.html) - 07:05 10/06/2024
+- 🦒 [Xe giường nằm văng hai bánh trên cao tốc](https://vnexpress.net/xe-giuong-nam-vang-hai-banh-tren-cao-toc-4756505.html) - 07:05 10/06/2024
 - 🤓 [Thủ tướng: Các cấp phải sẵn sàng thực hiện thủ tục hành chính trên VNeID](https://vnexpress.net/thu-tuong-cac-cap-phai-san-sang-thuc-hien-thu-tuc-hanh-chinh-tren-vneid-4756493.html) - 07:01 10/06/2024
 - ⚗️ [Ông Ngô Xuân Thắng làm Chủ tịch HĐND TP Đà Nẵng](https://vnexpress.net/ong-ngo-xuan-thang-lam-chu-tich-hdnd-tp-da-nang-4756434.html) - 04:21 10/06/2024
 - 🌊 [Hà Giang mưa lớn, 3 người chết](https://vnexpress.net/ha-giang-mua-lon-3-nguoi-chet-4756300.html) - 01:04 10/06/2024
