@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Vải thiều tăng giá gấp 3 trong ngày Tết Đoan Ngọ](https://vnexpress.net/vai-thieu-tang-gia-gap-3-trong-ngay-tet-doan-ngo-4756360.html) - 03:35 10/06/2024
+- ⛽️ [Vải thiều tăng giá gấp ba trong ngày Tết Đoan Ngọ](https://vnexpress.net/vai-thieu-tang-gia-gap-ba-trong-ngay-tet-doan-ngo-4756360.html) - 03:35 10/06/2024
 - 🐲 [Nhiều chuỗi bán lẻ thế giới tìm hiểu sản phẩm Vinamilk](https://vnexpress.net/nhieu-chuoi-ban-le-the-gioi-tim-hieu-san-pham-vinamilk-4756297.html) - 03:00 10/06/2024
 - 🔥 [Đề xuất đánh thuế giao dịch vàng](https://vnexpress.net/de-xuat-danh-thue-giao-dich-vang-4756344.html) - 02:14 10/06/2024
 - 🐵 [700.000 đồng một kg chà là đỏ Thái Lan](https://vnexpress.net/700-000-dong-mot-kg-cha-la-do-thai-lan-4755987.html) - 22:00 09/06/2024
