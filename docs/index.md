@@ -225,8 +225,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧰 [Cập nhật lãi suất Agribank, BIDV, Vietcombank, VietinBank ngày 10.6.2024](https://laodong.vn/ban-tin/cap-nhat-lai-suat-agribank-bidv-vietcombank-vietinbank-ngay-1062024-1351136.ldo) - 13:17 10/06/2024
 - 🥷 [Bóng chuyền Việt Nam ngày 10.6: Bóng chuyền Việt Nam không dự giải châu Á](https://laodong.vn/the-thao/bong-chuyen-viet-nam-ngay-106-bong-chuyen-viet-nam-khong-du-giai-chau-a-1351378.ldo) - 13:12 10/06/2024
 - 💫 [Tin 20h: Nhiều nơi ở Cao Bằng nguy cơ bị cô lập, mưa lớn vẫn tiếp diễn](https://laodong.vn/video-xa-hoi/tin-20h-nhieu-noi-o-cao-bang-nguy-co-bi-co-lap-mua-lon-van-tiep-dien-1351376.ldo) - 13:00 10/06/2024
-- 🎭 [Kevin De Bruyne xứng đáng được tự định đoạt tương lai](https://laodong.vn/bong-da-quoc-te/kevin-de-bruyne-xung-dang-duoc-tu-dinh-doat-tuong-lai-1351283.ldo) - 13:00 10/06/2024
-- 😎 [Hồ sơ đề nghị thực hiện kỹ thuật thụ tinh trong ống nghiệm gồm những gì?](https://laodong.vn/tu-van-phap-luat/ho-so-de-nghi-thuc-hien-ky-thuat-thu-tinh-trong-ong-nghiem-gom-nhung-gi-1350143.ldo) - 13:00 10/06/2024
+- 🎭 [Hồ sơ đề nghị thực hiện kỹ thuật thụ tinh trong ống nghiệm gồm những gì?](https://laodong.vn/tu-van-phap-luat/ho-so-de-nghi-thuc-hien-ky-thuat-thu-tinh-trong-ong-nghiem-gom-nhung-gi-1350143.ldo) - 13:00 10/06/2024
+- 😎 [Kevin De Bruyne xứng đáng được tự định đoạt tương lai](https://laodong.vn/bong-da-quoc-te/kevin-de-bruyne-xung-dang-duoc-tu-dinh-doat-tuong-lai-1351283.ldo) - 13:00 10/06/2024
 - 💄 [Xử lý nghiêm vi phạm trật tự xây dựng, tránh hợp thức hoá sai phạm](https://laodong.vn/bat-dong-san/xu-ly-nghiem-vi-pham-trat-tu-xay-dung-tranh-hop-thuc-hoa-sai-pham-1351291.ldo) - 13:00 10/06/2024
 - 🫣 [Dấu hiệu nhận biết máy bay không quân Công an nhân dân Việt Nam](https://laodong.vn/vu-khi/dau-hieu-nhan-biet-may-bay-khong-quan-cong-an-nhan-dan-viet-nam-1351297.ldo) - 13:00 10/06/2024
 - 🧑‍🏫 [Quốc gia ở EU tuyên bố sẽ tiếp tục nhập nhiều khí đốt Nga](https://laodong.vn/the-gioi/quoc-gia-o-eu-tuyen-bo-se-tiep-tuc-nhap-nhieu-khi-dot-nga-1351312.ldo) - 13:00 10/06/2024
@@ -245,9 +245,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐲 [Cập nhật giá vàng chốt phiên 10.6: Vàng nhẫn tiếp tục giảm giá](https://laodong.vn/tien-te-dau-tu/cap-nhat-gia-vang-chot-phien-106-vang-nhan-tiep-tuc-giam-gia-1351365.ldo) - 12:11 10/06/2024
 - 🚀 [Tái bản cuốn sách về vị tướng quân đội tài ba Nguyễn Chí Thanh](https://laodong.vn/van-hoa-giai-tri/tai-ban-cuon-sach-ve-vi-tuong-quan-doi-tai-ba-nguyen-chi-thanh-1351351.ldo) - 12:10 10/06/2024
 - 😺 [Hấp dẫn những bữa ăn ca của công nhân lao động tại Cần Thơ](https://laodong.vn/video/hap-dan-nhung-bua-an-ca-cua-cong-nhan-lao-dong-tai-can-tho-1351359.ldo) - 12:03 10/06/2024
-- 🕴 [Thế giới 24h: Một thành viên BRICS ưu tiên mối quan hệ với Nga](https://laodong.vn/podcast-tin-tuc/the-gioi-24h-mot-thanh-vien-brics-uu-tien-moi-quan-he-voi-nga-1351286.ldo) - 12:00 10/06/2024
-- 🌋 [Belift Lab nhắc đến Blackpink, BTS để phủ nhận ILLIT đạo nhái NewJeans](https://laodong.vn/giai-tri/belift-lab-nhac-den-blackpink-bts-de-phu-nhan-illit-dao-nhai-newjeans-1351319.ldo) - 12:00 10/06/2024
-- 💄 [Xác nhận lại thời hạn sử dụng đất trồng cây lâu năm cần thủ tục thế nào?](https://laodong.vn/bat-dong-san/xac-nhan-lai-thoi-han-su-dung-dat-trong-cay-lau-nam-can-thu-tuc-the-nao-1351339.ldo) - 12:00 10/06/2024<!-- laodong:END -->
+- 🕴 [4 chế độ ăn kiêng cho bệnh nhân tiểu đường](https://laodong.vn/dinh-duong-am-thuc/4-che-do-an-kieng-cho-benh-nhan-tieu-duong-1350834.ldo) - 12:00 10/06/2024
+- 🌋 [4 chất nên hạn chế sử dụng để sống thọ hơn](https://laodong.vn/video/4-chat-nen-han-che-su-dung-de-song-tho-hon-1351142.ldo) - 12:00 10/06/2024
+- 💄 [Bộ đôi của Man United là niềm hi vọng với tuyển Đan Mạch tại EURO 2024](https://laodong.vn/bong-da-quoc-te/bo-doi-cua-man-united-la-niem-hi-vong-voi-tuyen-dan-mach-tai-euro-2024-1351208.ldo) - 12:00 10/06/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
