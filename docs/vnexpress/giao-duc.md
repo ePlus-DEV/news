@@ -4,63 +4,63 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Điểm chuẩn lớp 10 Phổ thông Năng khiếu tăng, cao nhất 33,75](https://vnexpress.net/diem-chuan-lop-10-pho-thong-nang-khieu-nam-2024-4755810.html) - 05:40 10/06/2024
-- 🦆 [Thủ khoa đánh giá năng lực ĐH Quốc gia TP HCM đạt 1.116 điểm](https://vnexpress.net/pho-diem-thi-danh-gia-nang-luc-nam-2024-dai-hoc-quoc-gia-tp-hcm-4756262.html) - 04:57 10/06/2024
-- 🦩 [Đề thi các môn chuyên lớp 10 ở Hà Nội năm 2024](https://vnexpress.net/de-thi-cac-mon-chuyen-lop-10-o-ha-noi-nam-2024-4756414.html) - 04:05 10/06/2024
-- 🌮 [Đáp án đề thi Toán vào lớp 10 chuyên Tin ở Hà Nội năm 2024](https://vnexpress.net/dap-an-de-thi-toan-vao-lop-10-chuyen-tin-o-ha-noi-nam-2024-4756402.html) - 03:42 10/06/2024
-- 🔭 [Lời giải đề thi Toán chuyên lớp 10 ở Hà Nội năm 2024](https://vnexpress.net/loi-giai-de-thi-toan-chuyen-lop-10-o-ha-noi-nam-2024-4756398.html) - 03:42 10/06/2024
-- 💡 [Lịch công bố điểm thi lớp 10 của hơn 20 tỉnh, thành](https://vnexpress.net/lich-cong-bo-diem-thi-diem-chuan-lop-10-cac-tinh-thanh-pho-4754850.html) - 02:54 10/06/2024
-- 🥰 [Phương pháp học không sách giáo khoa tại trường Quốc tế Saigon Pearl](https://vnexpress.net/phuong-phap-hoc-khong-sach-giao-khoa-tai-truong-quoc-te-saigon-pearl-4755723.html) - 02:00 10/06/2024
-- 🐲 [Điểm chuẩn lớp 10 ở Hà Nội có thể giảm 0,5-1](https://vnexpress.net/diem-chuan-lop-10-o-ha-noi-co-the-giam-0-5-1-4756234.html) - 22:00 09/06/2024
-- 🦒 [Đề Văn lớp 10 nhầm &#39;lúa vàng, gạo trắng&#39; thành &#39;lúa gạo, vàng trắng&#39;](https://vnexpress.net/de-van-lop-10-nham-lua-vang-gao-trang-thanh-lua-gao-vang-trang-4756237.html) - 15:51 09/06/2024
-- 🦆 [Học sinh Bắc Giang giành huy chương vàng Olympic Vật lý châu Á](https://vnexpress.net/hoc-sinh-bac-giang-gianh-huy-chuong-vang-olympic-vat-ly-chau-a-4756227.html) - 10:02 09/06/2024
-- 🧰 [Đề thi Toán &#39;dễ thở&#39;, có thể nhiều điểm 7-8](https://vnexpress.net/de-thi-toan-de-tho-co-the-nhieu-diem-7-8-4756160.html) - 05:30 09/06/2024
-- 🐘 [Hà Nội đề nghị công an điều tra tin &#39;lộ đề Văn&#39; thi lớp 10](https://vnexpress.net/ha-noi-de-nghi-cong-an-dieu-tra-tin-lo-de-van-thi-lop-10-4756168.html) - 04:41 09/06/2024
-- 🤓 [Lời giải đề thi Toán lớp 10 ở Hà Nội năm 2024](https://vnexpress.net/dap-an-de-thi-toan-lop-10-cua-ha-noi-nam-2024-4756068.html) - 03:23 09/06/2024
-- 🧰 [Đề Toán thi lớp 10 ở Hà Nội năm 2024](https://vnexpress.net/de-thi-toan-lop-10-o-ha-noi-nam-2024-4756067.html) - 03:05 09/06/2024
-- 🧑‍💻 [Trường gây tranh cãi vì đề nghị phụ huynh ký cam kết khi con học bơi](https://vnexpress.net/truong-gay-tranh-cai-vi-de-nghi-phu-huynh-ky-cam-ket-khi-con-hoc-boi-4755983.html) - 02:26 09/06/2024
-- 🫶 [Thủ khoa lớp 10 chuyên Lam Sơn mê Toán từ bé](https://vnexpress.net/thu-khoa-lop-10-chuyen-lam-son-me-toan-tu-be-4756048.html) - 23:25 08/06/2024
-- 🪜 [Kỷ lục hơn 13 triệu thí sinh Trung Quốc thi đại học](https://vnexpress.net/ky-luc-hon-13-trieu-thi-sinh-trung-quoc-thi-dai-hoc-4755769.html) - 16:38 08/06/2024
-- 🎊 [Điểm chuẩn lớp 10 của TP HCM có thể giảm 0,5-2](https://vnexpress.net/diem-chuan-lop-10-cua-tp-hcm-co-the-giam-0-5-2-4756015.html) - 12:58 08/06/2024
-- 🧐 [Đáp án đề thi Toán chuyên lớp 10 ở Nghệ An](https://vnexpress.net/dap-an-de-thi-toan-chuyen-lop-10-o-nghe-an-4756052.html) - 12:09 08/06/2024
-- 🌈 [Đề tiếng Anh lớp 10 &#39;khó hơn năm ngoái, ít điểm 9, 10&#39;](https://vnexpress.net/de-tieng-anh-lop-10-kho-hon-nam-ngoai-it-diem-9-10-4756027.html) - 10:47 08/06/2024
-- 🥰 [Đáp án đề thi tiếng Anh lớp 10 ở Hà Nội năm 2024](https://vnexpress.net/dap-an-de-thi-tieng-anh-lop-10-o-ha-noi-nam-2024-4755889.html) - 08:28 08/06/2024
-- 🎡 [Đề thi Tiếng Anh lớp 10 ở Hà Nội năm 2024](https://vnexpress.net/de-thi-tieng-anh-lop-10-o-ha-noi-nam-2024-4755886.html) - 08:04 08/06/2024
-- 🎊 [Lời giải môn Vật lý thi lớp 10 chuyên ở TP HCM](https://vnexpress.net/loi-giai-mon-vat-ly-thi-lop-10-chuyen-o-tp-hcm-4755993.html) - 07:46 08/06/2024
-- 🌏 [Đại học Y Hà Nội lần đầu xét tuyển khối C và D](https://vnexpress.net/dai-hoc-y-ha-noi-lan-dau-xet-tuyen-khoi-c-va-d-4755963.html) - 07:06 08/06/2024
-- 🥸 [Đề thi Tiếng Anh lớp 10 ở Tiền Giang bị phản ứng](https://vnexpress.net/de-thi-tieng-anh-lop-10-o-tien-giang-bi-phan-ung-4755266.html) - 06:59 08/06/2024
-- 🕴 [Giáo viên dự đoán điểm thi Văn ở Hà Nội phổ biến 6,5-7,5](https://vnexpress.net/giao-vien-du-doan-diem-thi-van-o-ha-noi-pho-bien-6-5-7-5-4755917.html) - 05:16 08/06/2024
-- 💂 [Hai học sinh bị đình chỉ thi vì mang điện thoại](https://vnexpress.net/hai-hoc-sinh-bi-dinh-chi-thi-vi-mang-dien-thoai-4755952.html) - 04:52 08/06/2024
-- 🕴 [Gợi ý giải đề Văn thi lớp 10 ở Hà Nội năm 2024](https://vnexpress.net/dap-an-de-thi-mon-van-lop-10-ha-noi-nam-2024-4755800.html) - 03:24 08/06/2024
-- 🌋 [&#39;Đồng chí&#39; vào đề Văn thi lớp 10 của Hà Nội năm 2024](https://vnexpress.net/de-thi-van-lop-10-ha-noi-nam-2024-4755797.html) - 03:01 08/06/2024
-- 🪜 [&#39;1 chọi 18&#39; để giành suất vào lớp 6 chuyên Ngữ](https://vnexpress.net/1-choi-18-de-gianh-suat-vao-lop-6-chuyen-ngu-4755568.html) - 02:33 08/06/2024
-- 🕴 [Nữ sinh dẫn đầu 6 đợt thi đánh giá năng lực](https://vnexpress.net/nu-sinh-dan-dau-6-dot-thi-danh-gia-nang-luc-4755245.html) - 01:05 08/06/2024
-- 🎃 [Hơn 105.000 học sinh Hà Nội thi lớp 10, đông nhất cả nước](https://vnexpress.net/hon-105-000-hoc-sinh-ha-noi-thi-lop-10-dong-nhat-ca-nuoc-4755725.html) - 23:23 07/06/2024
-- 🦏 [Nhà xuất bản Giáo dục cần đề cao &#39;tinh thần giáo dục&#39;](https://vnexpress.net/nha-xuat-ban-giao-duc-can-de-cao-tinh-than-giao-duc-4755672.html) - 16:16 07/06/2024
-- 🧑‍🏫 [Thành lập trường Y Dược, Đại học Đà Nẵng](https://vnexpress.net/thanh-lap-truong-y-duoc-dai-hoc-da-nang-4755358.html) - 15:33 07/06/2024
-- 💡 [Cách làm đúng 4 dạng bài trong đề thi Tiếng Anh lớp 10 ở Hà Nội](https://vnexpress.net/cach-lam-dung-4-dang-bai-trong-de-thi-tieng-anh-lop-10-o-ha-noi-4751737.html) - 14:12 07/06/2024
-- 🐎 [Những lỗi bị trừ điểm, đình chỉ thi lớp 10 ở Hà Nội](https://vnexpress.net/nhung-loi-bi-tru-diem-dinh-chi-thi-lop-10-o-ha-noi-4754984.html) - 13:00 07/06/2024
-- 🧰 [Đề thi chuyên Anh lớp 10 ở TP HCM](https://vnexpress.net/de-thi-chuyen-anh-lop-10-tp-hcm-nam-2024-4755755.html) - 11:06 07/06/2024
-- 🙉 [Đề và lời giải môn Toán chuyên thi lớp 10 ở Hải Phòng](https://vnexpress.net/de-va-loi-giai-mon-toan-chuyen-thi-lop-10-o-hai-phong-4755690.html) - 10:39 07/06/2024
-- ⚗️ [Đề thi các môn chuyên lớp 10 của TP HCM năm 2024](https://vnexpress.net/de-thi-cac-mon-chuyen-lop-10-cua-tp-hcm-nam-2024-4755449.html) - 10:16 07/06/2024
-- 🌝 [Lời giải đề thi Toán chuyên lớp 10 ở TP HCM](https://vnexpress.net/dap-an-de-thi-toan-chuyen-lop-10-tp-hcm-nam-2024-4755603.html) - 09:54 07/06/2024
-- ⛽️ [Đề Toán chuyên thi vào lớp 10 ở TP HCM](https://vnexpress.net/de-toan-chuyen-thi-lop-10-tp-hcm-nam-2024-4755430.html) - 09:31 07/06/2024
-- 🌜 [Sở Giáo dục TP HCM: Đề Toán phân loại được thí sinh](https://vnexpress.net/so-giao-duc-tp-hcm-de-toan-phan-loai-duoc-thi-sinh-4755627.html) - 09:24 07/06/2024
-- ⚗️ [&#39;Người hùng&#39; trong vụ cháy ở Trung Kính vào đề Văn thi lớp 10](https://vnexpress.net/nguoi-hung-trong-vu-chay-o-trung-kinh-vao-de-van-thi-lop-10-4755615.html) - 09:14 07/06/2024
-- 🧰 [Đề thi lớp 10 các tỉnh, thành phố năm 2024](https://vnexpress.net/de-thi-lop-10-cac-tinh-thanh-pho-nam-2024-4754622.html) - 08:33 07/06/2024
-- 🤗 [Bỏ yêu cầu nam sinh cao 1,65m vì bị Bộ Giáo dục &#39;tuýt còi&#39;](https://vnexpress.net/bo-yeu-cau-nam-sinh-cao-1-65m-vi-bi-bo-giao-duc-tuyt-coi-4755574.html) - 07:53 07/06/2024
-- 🔥 [Nữ sinh làm bài thi trên giường bệnh được đặc cách vào lớp 10](https://vnexpress.net/nu-sinh-lam-bai-thi-tren-giuong-benh-duoc-dac-cach-vao-lop-10-4755619.html) - 07:03 07/06/2024
-- 💪 [Hai thí sinh đặc biệt được mang điện thoại vào phòng thi](https://vnexpress.net/hai-thi-sinh-dac-biet-duoc-mang-dien-thoai-vao-phong-thi-4755558.html) - 05:59 07/06/2024
-- 💂 [Thí sinh bật khóc, giáo viên bất ngờ với đề thi Toán lớp 10](https://vnexpress.net/thi-sinh-bat-khoc-giao-vien-bat-ngo-voi-de-thi-toan-lop-10-4755562.html) - 04:40 07/06/2024
-- 🌮 [Lời giải đề thi môn Toán chuyên lớp 10 ở Hà Tĩnh](https://vnexpress.net/loi-giai-de-thi-mon-toan-chuyen-lop-10-o-ha-tinh-4755357.html) - 04:05 07/06/2024
-- 🪄 [Đáp án đề thi Toán lớp 10 TP HCM năm 2024](https://vnexpress.net/dap-an-de-thi-toan-lop-10-tp-hcm-nam-2024-4755352.html) - 03:21 07/06/2024
-- 🎡 [Đề Toán thi lớp 10 ở TP HCM năm 2024](https://vnexpress.net/de-toan-thi-lop-10-tp-hcm-nam-2024-4755348.html) - 03:12 07/06/2024
-- 🌈 [Nữ sinh đỗ học bổng Australia với điểm gần tuyệt đối](https://vnexpress.net/nu-sinh-do-hoc-bong-australia-voi-diem-gan-tuyet-doi-4754182.html) - 01:04 07/06/2024
-- 🎊 [Sợ cho con học nghề](https://vnexpress.net/so-cho-con-hoc-nghe-4753170.html) - 17:00 06/06/2024
-- ⚗️ [Những vật dụng bị cấm mang vào phòng thi lớp 10 ở Hà Nội](https://vnexpress.net/nhung-vat-dung-bi-cam-mang-vao-phong-thi-lop-10-o-ha-noi-4753790.html) - 14:57 06/06/2024
-- 🌁 [Nam sinh phải bỏ thi lớp 10 vì tai nạn trên đường](https://vnexpress.net/nam-sinh-phai-bo-thi-lop-10-vi-tai-nan-tren-duong-4755179.html) - 13:46 06/06/2024
-- 🦏 [Bộ Giáo dục tuýt còi trường đại học chỉ tuyển nam sinh cao trên 1,65 m](https://vnexpress.net/truong-quan-tri-va-kinh-doanh-chi-tuyen-nam-sinh-cao-1-65-tro-len-bo-chi-dao-gi-4755290.html) - 11:31 06/06/2024
-- 👍 [Đáp án môn Tiếng Anh thi lớp 10 ở TP HCM năm 2024](https://vnexpress.net/dap-an-tieng-anh-thi-lop-10-tp-hcm-nam-2024-4754915.html) - 10:32 06/06/2024
-- 🌈 [Nữ sinh bị đình chỉ thi lớp 10 vì giấu điện thoại trong váy](https://vnexpress.net/nu-sinh-bi-dinh-chi-thi-lop-10-vi-giau-dien-thoai-trong-vay-4755246.html) - 10:03 06/06/2024
-- 🕴 [10 thí sinh đặc biệt trong kỳ thi lớp 10 ở Hà Nội](https://vnexpress.net/10-thi-sinh-dac-biet-trong-ky-thi-lop-10-o-ha-noi-4755194.html) - 09:55 06/06/2024
-- 🧰 [Đề Tiếng Anh thi lớp 10 ở TP HCM năm 2024](https://vnexpress.net/de-thi-tieng-anh-lop-10-tp-hcm-nam-2024-4754914.html) - 09:31 06/06/2024<!-- vnexpress-giao-duc:END -->
+- 🤓 [Phụ huynh xếp hàng xuyên đêm đăng ký lớp 1](https://vnexpress.net/phu-huynh-xep-hang-xuyen-dem-dang-ky-lop-1-4756386.html) - 07:00 10/06/2024
+- 🦆 [Điểm chuẩn lớp 10 Phổ thông Năng khiếu tăng, cao nhất 33,75](https://vnexpress.net/diem-chuan-lop-10-pho-thong-nang-khieu-nam-2024-4755810.html) - 05:40 10/06/2024
+- 🦩 [Thủ khoa đánh giá năng lực ĐH Quốc gia TP HCM đạt 1.116 điểm](https://vnexpress.net/pho-diem-thi-danh-gia-nang-luc-nam-2024-dai-hoc-quoc-gia-tp-hcm-4756262.html) - 04:57 10/06/2024
+- 🌮 [Đề thi các môn chuyên lớp 10 ở Hà Nội năm 2024](https://vnexpress.net/de-thi-cac-mon-chuyen-lop-10-o-ha-noi-nam-2024-4756414.html) - 04:05 10/06/2024
+- 🔭 [Đáp án đề thi Toán vào lớp 10 chuyên Tin ở Hà Nội năm 2024](https://vnexpress.net/dap-an-de-thi-toan-vao-lop-10-chuyen-tin-o-ha-noi-nam-2024-4756402.html) - 03:42 10/06/2024
+- 💡 [Lời giải đề thi Toán chuyên lớp 10 ở Hà Nội năm 2024](https://vnexpress.net/loi-giai-de-thi-toan-chuyen-lop-10-o-ha-noi-nam-2024-4756398.html) - 03:42 10/06/2024
+- 🥰 [Lịch công bố điểm thi lớp 10 của hơn 20 tỉnh, thành](https://vnexpress.net/lich-cong-bo-diem-thi-diem-chuan-lop-10-cac-tinh-thanh-pho-4754850.html) - 02:54 10/06/2024
+- 🐲 [Phương pháp học không sách giáo khoa tại trường Quốc tế Saigon Pearl](https://vnexpress.net/phuong-phap-hoc-khong-sach-giao-khoa-tai-truong-quoc-te-saigon-pearl-4755723.html) - 02:00 10/06/2024
+- 🦒 [Điểm chuẩn lớp 10 ở Hà Nội có thể giảm 0,5-1](https://vnexpress.net/diem-chuan-lop-10-o-ha-noi-co-the-giam-0-5-1-4756234.html) - 22:00 09/06/2024
+- 🦆 [Đề Văn lớp 10 nhầm &#39;lúa vàng, gạo trắng&#39; thành &#39;lúa gạo, vàng trắng&#39;](https://vnexpress.net/de-van-lop-10-nham-lua-vang-gao-trang-thanh-lua-gao-vang-trang-4756237.html) - 15:51 09/06/2024
+- 🧰 [Học sinh Bắc Giang giành huy chương vàng Olympic Vật lý châu Á](https://vnexpress.net/hoc-sinh-bac-giang-gianh-huy-chuong-vang-olympic-vat-ly-chau-a-4756227.html) - 10:02 09/06/2024
+- 🐘 [Đề thi Toán &#39;dễ thở&#39;, có thể nhiều điểm 7-8](https://vnexpress.net/de-thi-toan-de-tho-co-the-nhieu-diem-7-8-4756160.html) - 05:30 09/06/2024
+- 🤓 [Hà Nội đề nghị công an điều tra tin &#39;lộ đề Văn&#39; thi lớp 10](https://vnexpress.net/ha-noi-de-nghi-cong-an-dieu-tra-tin-lo-de-van-thi-lop-10-4756168.html) - 04:41 09/06/2024
+- 🧰 [Lời giải đề thi Toán lớp 10 ở Hà Nội năm 2024](https://vnexpress.net/dap-an-de-thi-toan-lop-10-cua-ha-noi-nam-2024-4756068.html) - 03:23 09/06/2024
+- 🧑‍💻 [Đề Toán thi lớp 10 ở Hà Nội năm 2024](https://vnexpress.net/de-thi-toan-lop-10-o-ha-noi-nam-2024-4756067.html) - 03:05 09/06/2024
+- 🫶 [Trường gây tranh cãi vì đề nghị phụ huynh ký cam kết khi con học bơi](https://vnexpress.net/truong-gay-tranh-cai-vi-de-nghi-phu-huynh-ky-cam-ket-khi-con-hoc-boi-4755983.html) - 02:26 09/06/2024
+- 🪜 [Thủ khoa lớp 10 chuyên Lam Sơn mê Toán từ bé](https://vnexpress.net/thu-khoa-lop-10-chuyen-lam-son-me-toan-tu-be-4756048.html) - 23:25 08/06/2024
+- 🎊 [Kỷ lục hơn 13 triệu thí sinh Trung Quốc thi đại học](https://vnexpress.net/ky-luc-hon-13-trieu-thi-sinh-trung-quoc-thi-dai-hoc-4755769.html) - 16:38 08/06/2024
+- 🧐 [Điểm chuẩn lớp 10 của TP HCM có thể giảm 0,5-2](https://vnexpress.net/diem-chuan-lop-10-cua-tp-hcm-co-the-giam-0-5-2-4756015.html) - 12:58 08/06/2024
+- 🌈 [Đáp án đề thi Toán chuyên lớp 10 ở Nghệ An](https://vnexpress.net/dap-an-de-thi-toan-chuyen-lop-10-o-nghe-an-4756052.html) - 12:09 08/06/2024
+- 🥰 [Đề tiếng Anh lớp 10 &#39;khó hơn năm ngoái, ít điểm 9, 10&#39;](https://vnexpress.net/de-tieng-anh-lop-10-kho-hon-nam-ngoai-it-diem-9-10-4756027.html) - 10:47 08/06/2024
+- 🎡 [Đáp án đề thi tiếng Anh lớp 10 ở Hà Nội năm 2024](https://vnexpress.net/dap-an-de-thi-tieng-anh-lop-10-o-ha-noi-nam-2024-4755889.html) - 08:28 08/06/2024
+- 🎊 [Đề thi Tiếng Anh lớp 10 ở Hà Nội năm 2024](https://vnexpress.net/de-thi-tieng-anh-lop-10-o-ha-noi-nam-2024-4755886.html) - 08:04 08/06/2024
+- 🌏 [Lời giải môn Vật lý thi lớp 10 chuyên ở TP HCM](https://vnexpress.net/loi-giai-mon-vat-ly-thi-lop-10-chuyen-o-tp-hcm-4755993.html) - 07:46 08/06/2024
+- 🥸 [Đại học Y Hà Nội lần đầu xét tuyển khối C và D](https://vnexpress.net/dai-hoc-y-ha-noi-lan-dau-xet-tuyen-khoi-c-va-d-4755963.html) - 07:06 08/06/2024
+- 🕴 [Đề thi Tiếng Anh lớp 10 ở Tiền Giang bị phản ứng](https://vnexpress.net/de-thi-tieng-anh-lop-10-o-tien-giang-bi-phan-ung-4755266.html) - 06:59 08/06/2024
+- 💂 [Giáo viên dự đoán điểm thi Văn ở Hà Nội phổ biến 6,5-7,5](https://vnexpress.net/giao-vien-du-doan-diem-thi-van-o-ha-noi-pho-bien-6-5-7-5-4755917.html) - 05:16 08/06/2024
+- 🕴 [Hai học sinh bị đình chỉ thi vì mang điện thoại](https://vnexpress.net/hai-hoc-sinh-bi-dinh-chi-thi-vi-mang-dien-thoai-4755952.html) - 04:52 08/06/2024
+- 🌋 [Gợi ý giải đề Văn thi lớp 10 ở Hà Nội năm 2024](https://vnexpress.net/dap-an-de-thi-mon-van-lop-10-ha-noi-nam-2024-4755800.html) - 03:24 08/06/2024
+- 🪜 [&#39;Đồng chí&#39; vào đề Văn thi lớp 10 của Hà Nội năm 2024](https://vnexpress.net/de-thi-van-lop-10-ha-noi-nam-2024-4755797.html) - 03:01 08/06/2024
+- 🕴 [&#39;1 chọi 18&#39; để giành suất vào lớp 6 chuyên Ngữ](https://vnexpress.net/1-choi-18-de-gianh-suat-vao-lop-6-chuyen-ngu-4755568.html) - 02:33 08/06/2024
+- 🎃 [Nữ sinh dẫn đầu 6 đợt thi đánh giá năng lực](https://vnexpress.net/nu-sinh-dan-dau-6-dot-thi-danh-gia-nang-luc-4755245.html) - 01:05 08/06/2024
+- 🦏 [Hơn 105.000 học sinh Hà Nội thi lớp 10, đông nhất cả nước](https://vnexpress.net/hon-105-000-hoc-sinh-ha-noi-thi-lop-10-dong-nhat-ca-nuoc-4755725.html) - 23:23 07/06/2024
+- 🧑‍🏫 [Nhà xuất bản Giáo dục cần đề cao &#39;tinh thần giáo dục&#39;](https://vnexpress.net/nha-xuat-ban-giao-duc-can-de-cao-tinh-than-giao-duc-4755672.html) - 16:16 07/06/2024
+- 💡 [Thành lập trường Y Dược, Đại học Đà Nẵng](https://vnexpress.net/thanh-lap-truong-y-duoc-dai-hoc-da-nang-4755358.html) - 15:33 07/06/2024
+- 🐎 [Cách làm đúng 4 dạng bài trong đề thi Tiếng Anh lớp 10 ở Hà Nội](https://vnexpress.net/cach-lam-dung-4-dang-bai-trong-de-thi-tieng-anh-lop-10-o-ha-noi-4751737.html) - 14:12 07/06/2024
+- 🧰 [Những lỗi bị trừ điểm, đình chỉ thi lớp 10 ở Hà Nội](https://vnexpress.net/nhung-loi-bi-tru-diem-dinh-chi-thi-lop-10-o-ha-noi-4754984.html) - 13:00 07/06/2024
+- 🙉 [Đề thi chuyên Anh lớp 10 ở TP HCM](https://vnexpress.net/de-thi-chuyen-anh-lop-10-tp-hcm-nam-2024-4755755.html) - 11:06 07/06/2024
+- ⚗️ [Đề và lời giải môn Toán chuyên thi lớp 10 ở Hải Phòng](https://vnexpress.net/de-va-loi-giai-mon-toan-chuyen-thi-lop-10-o-hai-phong-4755690.html) - 10:39 07/06/2024
+- 🌝 [Đề thi các môn chuyên lớp 10 của TP HCM năm 2024](https://vnexpress.net/de-thi-cac-mon-chuyen-lop-10-cua-tp-hcm-nam-2024-4755449.html) - 10:16 07/06/2024
+- ⛽️ [Lời giải đề thi Toán chuyên lớp 10 ở TP HCM](https://vnexpress.net/dap-an-de-thi-toan-chuyen-lop-10-tp-hcm-nam-2024-4755603.html) - 09:54 07/06/2024
+- 🌜 [Đề Toán chuyên thi vào lớp 10 ở TP HCM](https://vnexpress.net/de-toan-chuyen-thi-lop-10-tp-hcm-nam-2024-4755430.html) - 09:31 07/06/2024
+- ⚗️ [Sở Giáo dục TP HCM: Đề Toán phân loại được thí sinh](https://vnexpress.net/so-giao-duc-tp-hcm-de-toan-phan-loai-duoc-thi-sinh-4755627.html) - 09:24 07/06/2024
+- 🧰 [&#39;Người hùng&#39; trong vụ cháy ở Trung Kính vào đề Văn thi lớp 10](https://vnexpress.net/nguoi-hung-trong-vu-chay-o-trung-kinh-vao-de-van-thi-lop-10-4755615.html) - 09:14 07/06/2024
+- 🤗 [Đề thi lớp 10 các tỉnh, thành phố năm 2024](https://vnexpress.net/de-thi-lop-10-cac-tinh-thanh-pho-nam-2024-4754622.html) - 08:33 07/06/2024
+- 🔥 [Bỏ yêu cầu nam sinh cao 1,65m vì bị Bộ Giáo dục &#39;tuýt còi&#39;](https://vnexpress.net/bo-yeu-cau-nam-sinh-cao-1-65m-vi-bi-bo-giao-duc-tuyt-coi-4755574.html) - 07:53 07/06/2024
+- 💪 [Nữ sinh làm bài thi trên giường bệnh được đặc cách vào lớp 10](https://vnexpress.net/nu-sinh-lam-bai-thi-tren-giuong-benh-duoc-dac-cach-vao-lop-10-4755619.html) - 07:03 07/06/2024
+- 💂 [Hai thí sinh đặc biệt được mang điện thoại vào phòng thi](https://vnexpress.net/hai-thi-sinh-dac-biet-duoc-mang-dien-thoai-vao-phong-thi-4755558.html) - 05:59 07/06/2024
+- 🌮 [Thí sinh bật khóc, giáo viên bất ngờ với đề thi Toán lớp 10](https://vnexpress.net/thi-sinh-bat-khoc-giao-vien-bat-ngo-voi-de-thi-toan-lop-10-4755562.html) - 04:40 07/06/2024
+- 🪄 [Lời giải đề thi môn Toán chuyên lớp 10 ở Hà Tĩnh](https://vnexpress.net/loi-giai-de-thi-mon-toan-chuyen-lop-10-o-ha-tinh-4755357.html) - 04:05 07/06/2024
+- 🎡 [Đáp án đề thi Toán lớp 10 TP HCM năm 2024](https://vnexpress.net/dap-an-de-thi-toan-lop-10-tp-hcm-nam-2024-4755352.html) - 03:21 07/06/2024
+- 🌈 [Đề Toán thi lớp 10 ở TP HCM năm 2024](https://vnexpress.net/de-toan-thi-lop-10-tp-hcm-nam-2024-4755348.html) - 03:12 07/06/2024
+- 🎊 [Nữ sinh đỗ học bổng Australia với điểm gần tuyệt đối](https://vnexpress.net/nu-sinh-do-hoc-bong-australia-voi-diem-gan-tuyet-doi-4754182.html) - 01:04 07/06/2024
+- ⚗️ [Sợ cho con học nghề](https://vnexpress.net/so-cho-con-hoc-nghe-4753170.html) - 17:00 06/06/2024
+- 🌁 [Những vật dụng bị cấm mang vào phòng thi lớp 10 ở Hà Nội](https://vnexpress.net/nhung-vat-dung-bi-cam-mang-vao-phong-thi-lop-10-o-ha-noi-4753790.html) - 14:57 06/06/2024
+- 🦏 [Nam sinh phải bỏ thi lớp 10 vì tai nạn trên đường](https://vnexpress.net/nam-sinh-phai-bo-thi-lop-10-vi-tai-nan-tren-duong-4755179.html) - 13:46 06/06/2024
+- 👍 [Bộ Giáo dục tuýt còi trường đại học chỉ tuyển nam sinh cao trên 1,65 m](https://vnexpress.net/truong-quan-tri-va-kinh-doanh-chi-tuyen-nam-sinh-cao-1-65-tro-len-bo-chi-dao-gi-4755290.html) - 11:31 06/06/2024
+- 🌈 [Đáp án môn Tiếng Anh thi lớp 10 ở TP HCM năm 2024](https://vnexpress.net/dap-an-tieng-anh-thi-lop-10-tp-hcm-nam-2024-4754915.html) - 10:32 06/06/2024
+- 🕴 [Nữ sinh bị đình chỉ thi lớp 10 vì giấu điện thoại trong váy](https://vnexpress.net/nu-sinh-bi-dinh-chi-thi-lop-10-vi-giau-dien-thoai-trong-vay-4755246.html) - 10:03 06/06/2024
+- 🧰 [10 thí sinh đặc biệt trong kỳ thi lớp 10 ở Hà Nội](https://vnexpress.net/10-thi-sinh-dac-biet-trong-ky-thi-lop-10-o-ha-noi-4755194.html) - 09:55 06/06/2024<!-- vnexpress-giao-duc:END -->
