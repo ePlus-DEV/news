@@ -39,7 +39,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎊 [Nghi phạm đâm dao 4 giảng viên Mỹ ở Trung Quốc bị bắt](https://vnexpress.net/nghi-pham-dam-dao-4-giang-vien-my-o-trung-quoc-bi-bat-4757150.html) - 13:32 11/06/2024
 - 🤠 [Nhân viên ngân hàng thành sao TikTok triệu view](https://vnexpress.net/nhan-vien-ngan-hang-thanh-sao-tiktok-trieu-view-4757056.html) - 13:30 11/06/2024
 - 🌈 [Liên Hợp Quốc &#39;sửng sốt&#39; về thương vong trong cuộc giải cứu con tin Israel](https://vnexpress.net/lien-hop-quoc-sung-sot-ve-thuong-vong-trong-cuoc-giai-cuu-con-tin-israel-4757146.html) - 13:03 11/06/2024
-- 🎬 [Trung Quốc thua Hàn Quốc, mở cơ hội đi tiếp cho Thái Lan](https://vnexpress.net/trung-quoc-thua-han-quoc-mo-co-hoi-di-tiep-cho-thai-lan-4757021.html) - 13:03 11/06/2024
+- 🎬 [Trung Quốc thua Hàn Quốc, vẫn vào vòng loại ba World Cup](https://vnexpress.net/trung-quoc-thua-han-quoc-van-vao-vong-loai-ba-world-cup-4757021.html) - 13:03 11/06/2024
 - 🚀 [Hai tháng nỗ lực cứu người ngừng tim khi đang chờ mổ](https://vnexpress.net/hai-thang-no-luc-cuu-nguoi-ngung-tim-khi-dang-cho-mo-4757088.html) - 13:00 11/06/2024
 - 🪄 [Chim cánh cụt con suýt bị bắt cóc khi bố đi vắng](https://vnexpress.net/chim-canh-cut-con-suyt-bi-bat-coc-khi-bo-di-vang-4756787.html) - 13:00 11/06/2024
 - 😎 [Những phụ huynh muốn con chơi nhiều, bớt học](https://vnexpress.net/nhung-phu-huynh-muon-con-choi-nhieu-bot-hoc-4756080.html) - 13:00 11/06/2024
