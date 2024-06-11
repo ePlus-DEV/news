@@ -12,7 +12,7 @@ sidebar_position: 5
 - 🦣 [Nguyễn Văn Toàn: &#39;Thắng Iraq không phải là bất khả thi&#39;](https://vnexpress.net/nguyen-van-toan-thang-iraq-khong-phai-la-bat-kha-thi-4756989.html) - 09:31 11/06/2024
 - 🌜 [Kỳ vọng lột xác của tuyển Đức tại Euro 2024](https://vnexpress.net/ky-vong-lot-xac-cua-tuyen-duc-tai-euro-2024-4757044.html) - 08:25 11/06/2024
 - 🫶 [Ra mắt series chạy bộ Hành trình Việt Nam](https://vnexpress.net/ra-mat-series-chay-bo-hanh-trinh-viet-nam-4756427.html) - 07:35 11/06/2024
-- 🌜 [Iraq - Việt Nam: &#39;Còn nước còn tát&#39; ở vòng loại World Cup](https://vnexpress.net/iraq-viet-nam-con-nuoc-con-tat-o-vong-loai-world-cup-4756756.html) - 07:30 11/06/2024
+- 🌜 [Iraq - Việt Nam: Tìm thắng lợi an ủi ở vòng loại World Cup](https://vnexpress.net/iraq-viet-nam-tim-thang-loi-an-ui-o-vong-loai-world-cup-4756756.html) - 07:30 11/06/2024
 - 😺 [Chủ tịch UEFA chỉ ra 4 ứng viên vô địch Euro 2024](https://vnexpress.net/chu-tich-uefa-chi-ra-4-ung-vien-vo-dich-euro-2024-4757000.html) - 07:08 11/06/2024
 - 👍 [Cầu thủ lỡ hẹn Copa America vì... bố vắng nhà](https://vnexpress.net/cau-thu-lo-hen-copa-america-vi-bo-vang-nha-4756951.html) - 06:34 11/06/2024
 - 🐵 [Những kỷ lục có thể bị phá ở Euro 2024](https://vnexpress.net/nhung-ky-luc-co-the-bi-pha-o-euro-2024-4756941.html) - 04:54 11/06/2024
