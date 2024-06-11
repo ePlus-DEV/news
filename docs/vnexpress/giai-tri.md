@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Lưu Diệc Phi khiến hoa hồng vàng bán chạy](https://vnexpress.net/luu-diec-phi-khien-hoa-hong-vang-ban-chay-4756770.html) - 03:01 11/06/2024
-- 💫 [Cristiano Ronaldo diện đồ xa xỉ ton-sur-ton](https://vnexpress.net/cristiano-ronaldo-dien-do-xa-xi-ton-sur-ton-4756676.html) - 02:19 11/06/2024
-- 🌮 [Khuôn in tín phiếu - bảo vật thời chiến](https://vnexpress.net/khuon-in-tin-phieu-bao-vat-thoi-chien-4755990.html) - 17:00 10/06/2024
-- 🧠 [Sáu lãnh đạo thế giới qua góc nhìn của Henry Kissinger](https://vnexpress.net/sau-lanh-dao-the-gioi-qua-goc-nhin-cua-henry-kissinger-4749501.html) - 15:44 10/06/2024
-- 👨‍🏫 [Thời trang nghỉ dưỡng của sao ngoại](https://vnexpress.net/thoi-trang-nghi-duong-cua-sao-ngoai-4756570.html) - 14:00 10/06/2024
-- ⚗️ [Mỹ nhân Hong Kong ước mong mặc váy cưới](https://vnexpress.net/my-nhan-hong-kong-uoc-mong-mac-vay-cuoi-4756586.html) - 12:00 10/06/2024
-- 😎 [Con trai diễn viên Quốc Tuấn tốt nghiệp trung cấp nhạc viện](https://vnexpress.net/con-trai-dien-vien-quoc-tuan-tot-nghiep-trung-cap-nhac-vien-4756578.html) - 11:22 10/06/2024
-- 🫣 [Sao nữ &#39;Running Man&#39; dự LHP châu Á Đà Nẵng](https://vnexpress.net/sao-nu-running-man-du-lhp-chau-a-da-nang-4756612.html) - 10:20 10/06/2024
-- 🪄 [Angelina Jolie &#39;dùng các con chống lại Brad Pitt&#39;](https://vnexpress.net/angelina-jolie-dung-cac-con-chong-lai-brad-pitt-4756528.html) - 09:42 10/06/2024
-- 🤓 [&#39;Móng vuốt&#39; chỉ thu hơn 2 tỷ đồng mở màn](https://vnexpress.net/mong-vuot-chi-thu-hon-2-ty-dong-mo-man-4756539.html) - 09:02 10/06/2024
-- 🫶 [Lưu Diệc Phi gây chú ý với cảnh &#39;nóng&#39;](https://vnexpress.net/luu-diec-phi-gay-chu-y-voi-canh-nong-4756479.html) - 07:29 10/06/2024
-- 🧑‍🏫 [Tùng Dương làm mới &#39;Chiếc khăn piêu&#39;](https://vnexpress.net/tung-duong-lam-moi-chiec-khan-pieu-4756311.html) - 05:04 10/06/2024
-- 🦄 [Gu mặc của hot girl Thái đóng MV Sơn Tùng M-TP](https://vnexpress.net/gu-mac-cua-hot-girl-thai-dong-mv-son-tung-m-tp-4756417.html) - 04:39 10/06/2024
-- 💫 [Con gái Beckham giới thiệu dòng nước hoa của mẹ](https://vnexpress.net/con-gai-beckham-gioi-thieu-dong-nuoc-hoa-cua-me-4756351.html) - 03:31 10/06/2024
-- 🎊 [&#39;Bad Boys 4&#39; - khi thợ săn thành con mồi](https://vnexpress.net/giai-tri/phim/thu-vien-phim/bad-boys-4-710) - 17:00 09/06/2024
-- 👹 [MV của Sơn Tùng M-TP được xem nhiều nhất thế giới 24 giờ qua](https://vnexpress.net/mv-cua-son-tung-m-tp-duoc-xem-nhieu-nhat-the-gioi-24-gio-qua-4756243.html) - 13:34 09/06/2024
-- 💻 [Váy gắn quần lót gây sốc của nhà mốt Mỹ](https://vnexpress.net/vay-gan-quan-lot-gay-soc-cua-nha-mot-my-4756217.html) - 12:20 09/06/2024
-- 🤡 [&#39;Đập chắn Thái Bình Dương&#39; - vỡ mộng ở miền đất hứa](https://vnexpress.net/dap-chan-thai-binh-duong-vo-mong-o-mien-dat-hua-4751179.html) - 11:41 09/06/2024
-- 🥰 [Lưu Diệc Phi đóng nữ sinh](https://vnexpress.net/luu-diec-phi-dong-nu-sinh-4756213.html) - 11:22 09/06/2024
-- 🚀 [Họa sĩ Australia mê vẽ siêu sao bóng đá](https://vnexpress.net/hoa-si-australia-me-ve-sieu-sao-bong-da-4755783.html) - 10:00 09/06/2024
-- 📝 [Hôn nhân 5 năm của Chris Pratt và con gái Arnold Schwarzenegger](https://vnexpress.net/hon-nhan-5-nam-cua-chris-pratt-va-con-gai-arnold-schwarzenegger-4756138.html) - 08:44 09/06/2024
-- 🐲 [Vera Wang thường xuyên mặc bra top ở tuổi ngoài 70](https://vnexpress.net/vera-wang-thuong-xuyen-mac-bra-top-o-tuoi-ngoai-70-4756181.html) - 06:52 09/06/2024
-- 🎃 [Hoàng Dũng hòa giọng hàng trăm khán giả](https://vnexpress.net/hoang-dung-hoa-giong-hang-tram-khan-gia-4756175.html) - 05:54 09/06/2024
-- 🤠 [&#39;Gia tài của ngoại&#39; - tình bà cháu lay động cảm xúc](https://vnexpress.net/giai-tri/phim/thu-vien-phim/gia-tai-cua-ngoai-709) - 05:38 09/06/2024
-- 🎭 [Bộ đầm của Đệ nhất phu nhân Mỹ gây chú ý](https://vnexpress.net/bo-dam-cua-de-nhat-phu-nhan-my-gay-chu-y-4756142.html) - 04:25 09/06/2024
-- 🧰 [Solist xứ Wales đến Việt Nam biểu diễn](https://vnexpress.net/solist-xu-wales-den-viet-nam-bieu-dien-4755710.html) - 03:19 09/06/2024
-- 🦍 [Bên trong khu trưng bày hơn 100 tượng sáp nghệ sĩ Việt](https://vnexpress.net/ben-trong-khu-trung-bay-hon-100-tuong-sap-nghe-si-viet-4756032.html) - 03:03 09/06/2024
-- 🌝 [Phim mới của Will Smith mở màn khả quan](https://vnexpress.net/phim-moi-cua-will-smith-mo-man-kha-quan-4756120.html) - 02:48 09/06/2024
-- 🧑‍💻 [Hồ Văn Cường lần đầu song ca Đàm Vĩnh Hưng](https://vnexpress.net/ho-van-cuong-lan-dau-song-ca-dam-vinh-hung-4756095.html) - 02:12 09/06/2024
-- 🥸 [Gu mặc năng động của dàn cầu thủ Tây Ban Nha](https://vnexpress.net/gu-mac-nang-dong-cua-dan-cau-thu-tay-ban-nha-4756001.html) - 01:22 09/06/2024
-- 🔥 [Midu: &#39;Bên chồng, tôi bình yên&#39;](https://vnexpress.net/midu-ben-chong-toi-binh-yen-4755151.html) - 17:00 08/06/2024
-- 🐎 [Tom Cruise kỷ niệm 10 năm đóng &#39;Edge of Tomorrow&#39;](https://vnexpress.net/tom-cruise-ky-niem-10-nam-dong-edge-of-tomorrow-4755730.html) - 13:33 08/06/2024
-- 😎 [Gu mặc khỏe khoắn của Kylian Mbappe](https://vnexpress.net/gu-mac-khoe-khoan-cua-kylian-mbappe-4755274.html) - 12:29 08/06/2024
-- 🦄 [&#39;Sao Mai&#39; Hoàng Tùng hát về tình mẹ](https://vnexpress.net/sao-mai-hoang-tung-hat-ve-tinh-me-4755893.html) - 12:00 08/06/2024
-- 🌜 [Dung mạo của mỹ nam &#39;Cõng anh mà chạy&#39;](https://vnexpress.net/dung-mao-cua-my-nam-cong-anh-ma-chay-4753462.html) - 11:00 08/06/2024
-- 🚦 [Hồ Việt Trung hát về nỗi lòng cha đơn thân](https://vnexpress.net/ho-viet-trung-hat-ve-noi-long-cha-don-than-4755957.html) - 08:18 08/06/2024
-- 🧐 [Suni Hạ Linh và đồng đội khuấy động show &#39;Đạp gió&#39;](https://vnexpress.net/suni-ha-linh-va-dong-doi-khuay-dong-show-dap-gio-4755971.html) - 07:24 08/06/2024
-- 🐵 [Phong cách Uyên Linh ngày ấy, bây giờ](https://vnexpress.net/phong-cach-uyen-linh-ngay-ay-bay-gio-4755751.html) - 07:00 08/06/2024
-- ⚗️ [Con gái Tom Cruise vào đại học danh tiếng](https://vnexpress.net/con-gai-tom-cruise-vao-dai-hoc-danh-tieng-4755962.html) - 06:13 08/06/2024
-- 👺 [Mỹ nhân &#39;Đường Bá Hổ điểm Thu Hương&#39; lận đận hôn nhân](https://vnexpress.net/my-nhan-duong-ba-ho-diem-thu-huong-lan-dan-hon-nhan-4755899.html) - 04:15 08/06/2024
-- 🌊 [&#39;Báo đen&#39; Naomi Campbell có con nhờ mang thai hộ](https://vnexpress.net/bao-den-naomi-campbell-co-con-nho-mang-thai-ho-4755897.html) - 03:35 08/06/2024
-- 🪜 [&#39;Móng vuốt&#39; - kỹ xảo đầu tư, kịch bản sạn](https://vnexpress.net/giai-tri/phim/thu-vien-phim/mong-vuot-708) - 03:07 08/06/2024
-- 🕴 [Vở ballet đương đại cảm hứng từ giấy dó](https://vnexpress.net/vo-ballet-duong-dai-cam-hung-tu-giay-do-4754653.html) - 02:58 08/06/2024
-- 💃 [Thập tự chinh thứ nhất - cuộc chiến rung chuyển châu Âu](https://vnexpress.net/thap-tu-chinh-thu-nhat-cuoc-chien-rung-chuyen-chau-au-4754864.html) - 01:38 08/06/2024
-- 🦄 [Thời trang hội quân của Ronaldo và dàn sao](https://vnexpress.net/thoi-trang-hoi-quan-cua-ronaldo-va-dan-sao-4755801.html) - 00:18 08/06/2024
-- ⛽️ [Đăng Khôi: &#39;Vợ động viên tôi trở lại ca hát&#39;](https://vnexpress.net/dang-khoi-vo-dong-vien-toi-tro-lai-ca-hat-4754458.html) - 17:00 07/06/2024
-- 😎 [Bạn trai tái hiện màn cầu hôn Midu](https://vnexpress.net/ban-trai-tai-hien-man-cau-hon-midu-4754834.html) - 13:44 07/06/2024
-- 🌊 [&#39;Cõng anh mà chạy&#39; - tình yêu xoay chuyển vận mệnh](https://vnexpress.net/giai-tri/phim/thu-vien-phim/cong-anh-ma-chay-707) - 13:30 07/06/2024
-- 🐲 [10 thiết kế nổi bật của Chanel trong 5 năm qua](https://vnexpress.net/10-thiet-ke-noi-bat-cua-chanel-trong-5-nam-qua-4755697.html) - 12:30 07/06/2024
-- 💂 [&#39;Sao Hong Kong được khao khát nhất&#39; tái xuất](https://vnexpress.net/sao-hong-kong-duoc-khao-khat-nhat-tai-xuat-4755680.html) - 10:48 07/06/2024
-- 🙉 [Uyên Linh làm concert kỷ niệm 15 năm ca hát](https://vnexpress.net/uyen-linh-lam-concert-ky-niem-15-nam-ca-hat-4755529.html) - 10:45 07/06/2024
+- 🌏 [Jennie lần đầu catwalk](https://vnexpress.net/jennie-lan-dau-catwalk-4756835.html) - 04:25 11/06/2024
+- 💫 [4 mẫu váy cưới tôn dáng của Midu](https://vnexpress.net/4-mau-vay-cuoi-ton-dang-cua-midu-4756649.html) - 04:24 11/06/2024
+- 🌮 [Lưu Diệc Phi khiến hoa hồng vàng bán chạy](https://vnexpress.net/luu-diec-phi-khien-hoa-hong-vang-ban-chay-4756770.html) - 03:01 11/06/2024
+- 🧠 [Cristiano Ronaldo diện đồ xa xỉ ton-sur-ton](https://vnexpress.net/cristiano-ronaldo-dien-do-xa-xi-ton-sur-ton-4756676.html) - 02:19 11/06/2024
+- 👨‍🏫 [Khuôn in tín phiếu - bảo vật thời chiến](https://vnexpress.net/khuon-in-tin-phieu-bao-vat-thoi-chien-4755990.html) - 17:00 10/06/2024
+- ⚗️ [Sáu lãnh đạo thế giới qua góc nhìn của Henry Kissinger](https://vnexpress.net/sau-lanh-dao-the-gioi-qua-goc-nhin-cua-henry-kissinger-4749501.html) - 15:44 10/06/2024
+- 😎 [Thời trang nghỉ dưỡng của sao ngoại](https://vnexpress.net/thoi-trang-nghi-duong-cua-sao-ngoai-4756570.html) - 14:00 10/06/2024
+- 🫣 [Mỹ nhân Hong Kong ước mong mặc váy cưới](https://vnexpress.net/my-nhan-hong-kong-uoc-mong-mac-vay-cuoi-4756586.html) - 12:00 10/06/2024
+- 🪄 [Con trai diễn viên Quốc Tuấn tốt nghiệp trung cấp nhạc viện](https://vnexpress.net/con-trai-dien-vien-quoc-tuan-tot-nghiep-trung-cap-nhac-vien-4756578.html) - 11:22 10/06/2024
+- 🤓 [Sao nữ &#39;Running Man&#39; dự LHP châu Á Đà Nẵng](https://vnexpress.net/sao-nu-running-man-du-lhp-chau-a-da-nang-4756612.html) - 10:20 10/06/2024
+- 🫶 [Angelina Jolie &#39;dùng các con chống lại Brad Pitt&#39;](https://vnexpress.net/angelina-jolie-dung-cac-con-chong-lai-brad-pitt-4756528.html) - 09:42 10/06/2024
+- 🧑‍🏫 [&#39;Móng vuốt&#39; chỉ thu hơn 2 tỷ đồng mở màn](https://vnexpress.net/mong-vuot-chi-thu-hon-2-ty-dong-mo-man-4756539.html) - 09:02 10/06/2024
+- 🦄 [Lưu Diệc Phi gây chú ý với cảnh &#39;nóng&#39;](https://vnexpress.net/luu-diec-phi-gay-chu-y-voi-canh-nong-4756479.html) - 07:29 10/06/2024
+- 💫 [Tùng Dương làm mới &#39;Chiếc khăn piêu&#39;](https://vnexpress.net/tung-duong-lam-moi-chiec-khan-pieu-4756311.html) - 05:04 10/06/2024
+- 🎊 [Gu mặc của hot girl Thái đóng MV Sơn Tùng M-TP](https://vnexpress.net/gu-mac-cua-hot-girl-thai-dong-mv-son-tung-m-tp-4756417.html) - 04:39 10/06/2024
+- 👹 [Con gái Beckham giới thiệu dòng nước hoa của mẹ](https://vnexpress.net/con-gai-beckham-gioi-thieu-dong-nuoc-hoa-cua-me-4756351.html) - 03:31 10/06/2024
+- 💻 [&#39;Bad Boys 4&#39; - khi thợ săn thành con mồi](https://vnexpress.net/giai-tri/phim/thu-vien-phim/bad-boys-4-710) - 17:00 09/06/2024
+- 🤡 [MV của Sơn Tùng M-TP được xem nhiều nhất thế giới 24 giờ qua](https://vnexpress.net/mv-cua-son-tung-m-tp-duoc-xem-nhieu-nhat-the-gioi-24-gio-qua-4756243.html) - 13:34 09/06/2024
+- 🥰 [Váy gắn quần lót gây sốc của nhà mốt Mỹ](https://vnexpress.net/vay-gan-quan-lot-gay-soc-cua-nha-mot-my-4756217.html) - 12:20 09/06/2024
+- 🚀 [&#39;Đập chắn Thái Bình Dương&#39; - vỡ mộng ở miền đất hứa](https://vnexpress.net/dap-chan-thai-binh-duong-vo-mong-o-mien-dat-hua-4751179.html) - 11:41 09/06/2024
+- 📝 [Lưu Diệc Phi đóng nữ sinh](https://vnexpress.net/luu-diec-phi-dong-nu-sinh-4756213.html) - 11:22 09/06/2024
+- 🐲 [Họa sĩ Australia mê vẽ siêu sao bóng đá](https://vnexpress.net/hoa-si-australia-me-ve-sieu-sao-bong-da-4755783.html) - 10:00 09/06/2024
+- 🎃 [Hôn nhân 5 năm của Chris Pratt và con gái Arnold Schwarzenegger](https://vnexpress.net/hon-nhan-5-nam-cua-chris-pratt-va-con-gai-arnold-schwarzenegger-4756138.html) - 08:44 09/06/2024
+- 🤠 [Vera Wang thường xuyên mặc bra top ở tuổi ngoài 70](https://vnexpress.net/vera-wang-thuong-xuyen-mac-bra-top-o-tuoi-ngoai-70-4756181.html) - 06:52 09/06/2024
+- 🎭 [Hoàng Dũng hòa giọng hàng trăm khán giả](https://vnexpress.net/hoang-dung-hoa-giong-hang-tram-khan-gia-4756175.html) - 05:54 09/06/2024
+- 🧰 [&#39;Gia tài của ngoại&#39; - tình bà cháu lay động cảm xúc](https://vnexpress.net/giai-tri/phim/thu-vien-phim/gia-tai-cua-ngoai-709) - 05:38 09/06/2024
+- 🦍 [Bộ đầm của Đệ nhất phu nhân Mỹ gây chú ý](https://vnexpress.net/bo-dam-cua-de-nhat-phu-nhan-my-gay-chu-y-4756142.html) - 04:25 09/06/2024
+- 🌝 [Solist xứ Wales đến Việt Nam biểu diễn](https://vnexpress.net/solist-xu-wales-den-viet-nam-bieu-dien-4755710.html) - 03:19 09/06/2024
+- 🧑‍💻 [Bên trong khu trưng bày hơn 100 tượng sáp nghệ sĩ Việt](https://vnexpress.net/ben-trong-khu-trung-bay-hon-100-tuong-sap-nghe-si-viet-4756032.html) - 03:03 09/06/2024
+- 🥸 [Phim mới của Will Smith mở màn khả quan](https://vnexpress.net/phim-moi-cua-will-smith-mo-man-kha-quan-4756120.html) - 02:48 09/06/2024
+- 🔥 [Hồ Văn Cường lần đầu song ca Đàm Vĩnh Hưng](https://vnexpress.net/ho-van-cuong-lan-dau-song-ca-dam-vinh-hung-4756095.html) - 02:12 09/06/2024
+- 🐎 [Gu mặc năng động của dàn cầu thủ Tây Ban Nha](https://vnexpress.net/gu-mac-nang-dong-cua-dan-cau-thu-tay-ban-nha-4756001.html) - 01:22 09/06/2024
+- 😎 [Midu: &#39;Bên chồng, tôi bình yên&#39;](https://vnexpress.net/midu-ben-chong-toi-binh-yen-4755151.html) - 17:00 08/06/2024
+- 🦄 [Tom Cruise kỷ niệm 10 năm đóng &#39;Edge of Tomorrow&#39;](https://vnexpress.net/tom-cruise-ky-niem-10-nam-dong-edge-of-tomorrow-4755730.html) - 13:33 08/06/2024
+- 🌜 [Gu mặc khỏe khoắn của Kylian Mbappe](https://vnexpress.net/gu-mac-khoe-khoan-cua-kylian-mbappe-4755274.html) - 12:29 08/06/2024
+- 🚦 [&#39;Sao Mai&#39; Hoàng Tùng hát về tình mẹ](https://vnexpress.net/sao-mai-hoang-tung-hat-ve-tinh-me-4755893.html) - 12:00 08/06/2024
+- 🧐 [Dung mạo của mỹ nam &#39;Cõng anh mà chạy&#39;](https://vnexpress.net/dung-mao-cua-my-nam-cong-anh-ma-chay-4753462.html) - 11:00 08/06/2024
+- 🐵 [Hồ Việt Trung hát về nỗi lòng cha đơn thân](https://vnexpress.net/ho-viet-trung-hat-ve-noi-long-cha-don-than-4755957.html) - 08:18 08/06/2024
+- ⚗️ [Suni Hạ Linh và đồng đội khuấy động show &#39;Đạp gió&#39;](https://vnexpress.net/suni-ha-linh-va-dong-doi-khuay-dong-show-dap-gio-4755971.html) - 07:24 08/06/2024
+- 👺 [Phong cách Uyên Linh ngày ấy, bây giờ](https://vnexpress.net/phong-cach-uyen-linh-ngay-ay-bay-gio-4755751.html) - 07:00 08/06/2024
+- 🌊 [Con gái Tom Cruise vào đại học danh tiếng](https://vnexpress.net/con-gai-tom-cruise-vao-dai-hoc-danh-tieng-4755962.html) - 06:13 08/06/2024
+- 🪜 [Mỹ nhân &#39;Đường Bá Hổ điểm Thu Hương&#39; lận đận hôn nhân](https://vnexpress.net/my-nhan-duong-ba-ho-diem-thu-huong-lan-dan-hon-nhan-4755899.html) - 04:15 08/06/2024
+- 🕴 [&#39;Báo đen&#39; Naomi Campbell có con nhờ mang thai hộ](https://vnexpress.net/bao-den-naomi-campbell-co-con-nho-mang-thai-ho-4755897.html) - 03:35 08/06/2024
+- 💃 [&#39;Móng vuốt&#39; - kỹ xảo đầu tư, kịch bản sạn](https://vnexpress.net/giai-tri/phim/thu-vien-phim/mong-vuot-708) - 03:07 08/06/2024
+- 🦄 [Vở ballet đương đại cảm hứng từ giấy dó](https://vnexpress.net/vo-ballet-duong-dai-cam-hung-tu-giay-do-4754653.html) - 02:58 08/06/2024
+- ⛽️ [Thập tự chinh thứ nhất - cuộc chiến rung chuyển châu Âu](https://vnexpress.net/thap-tu-chinh-thu-nhat-cuoc-chien-rung-chuyen-chau-au-4754864.html) - 01:38 08/06/2024
+- 😎 [Thời trang hội quân của Ronaldo và dàn sao](https://vnexpress.net/thoi-trang-hoi-quan-cua-ronaldo-va-dan-sao-4755801.html) - 00:18 08/06/2024
+- 🌊 [Đăng Khôi: &#39;Vợ động viên tôi trở lại ca hát&#39;](https://vnexpress.net/dang-khoi-vo-dong-vien-toi-tro-lai-ca-hat-4754458.html) - 17:00 07/06/2024
+- 🐲 [Bạn trai tái hiện màn cầu hôn Midu](https://vnexpress.net/ban-trai-tai-hien-man-cau-hon-midu-4754834.html) - 13:44 07/06/2024
+- 💂 [&#39;Cõng anh mà chạy&#39; - tình yêu xoay chuyển vận mệnh](https://vnexpress.net/giai-tri/phim/thu-vien-phim/cong-anh-ma-chay-707) - 13:30 07/06/2024
+- 🙉 [10 thiết kế nổi bật của Chanel trong 5 năm qua](https://vnexpress.net/10-thiet-ke-noi-bat-cua-chanel-trong-5-nam-qua-4755697.html) - 12:30 07/06/2024
+- 💪 [&#39;Sao Hong Kong được khao khát nhất&#39; tái xuất](https://vnexpress.net/sao-hong-kong-duoc-khao-khat-nhat-tai-xuat-4755680.html) - 10:48 07/06/2024
+- 👍 [Uyên Linh làm concert kỷ niệm 15 năm ca hát](https://vnexpress.net/uyen-linh-lam-concert-ky-niem-15-nam-ca-hat-4755529.html) - 10:45 07/06/2024
 - 💪 [Cảnh Will Smith bị tát gây chú ý](https://vnexpress.net/canh-will-smith-bi-tat-gay-chu-y-4755597.html) - 08:27 07/06/2024
-- 👍 [Tôn Lệ, Đặng Siêu kỷ niệm 14 năm cưới](https://vnexpress.net/ton-le-dang-sieu-ky-niem-14-nam-cuoi-4755635.html) - 08:04 07/06/2024
-- 💪 [Cuộc sống của Angelina Jolie sau ly hôn](https://vnexpress.net/cuoc-song-cua-angelina-jolie-sau-ly-hon-4755599.html) - 07:23 07/06/2024
-- 💄 [Con trai 12 tuổi, cao gần 1,8 m của Trương Quỳnh Anh](https://vnexpress.net/con-trai-12-tuoi-cao-gan-1-8-m-cua-truong-quynh-anh-4755508.html) - 05:53 07/06/2024
-- 🦩 [Quá khứ bị bạo hành của sao &#39;Ở nhà một mình&#39;](https://vnexpress.net/qua-khu-bi-bao-hanh-cua-sao-o-nha-mot-minh-4755484.html) - 04:27 07/06/2024
-- 🥸 [Netflix bị kiện 170 triệu USD vì series &#39;Baby Reindeer&#39;](https://vnexpress.net/netflix-bi-kien-170-trieu-usd-vi-series-baby-reindeer-4755423.html) - 03:33 07/06/2024
+- 💄 [Cuộc sống của Angelina Jolie sau ly hôn](https://vnexpress.net/cuoc-song-cua-angelina-jolie-sau-ly-hon-4755599.html) - 07:23 07/06/2024
+- 🦩 [Con trai 12 tuổi, cao gần 1,8 m của Trương Quỳnh Anh](https://vnexpress.net/con-trai-12-tuoi-cao-gan-1-8-m-cua-truong-quynh-anh-4755508.html) - 05:53 07/06/2024
+- 🥸 [Quá khứ bị bạo hành của sao &#39;Ở nhà một mình&#39;](https://vnexpress.net/qua-khu-bi-bao-hanh-cua-sao-o-nha-mot-minh-4755484.html) - 04:27 07/06/2024
 - 🧰 [Lưu Diệc Phi gây sốt với nụ hôn màn ảnh](https://vnexpress.net/luu-diec-phi-gay-sot-voi-nu-hon-man-anh-4755439.html) - 02:18 07/06/2024
 - 💼 [Minh Tú hội ngộ bố mẹ chồng ở Đức](https://vnexpress.net/minh-tu-hoi-ngo-bo-me-chong-o-duc-4754462.html) - 02:03 07/06/2024
 - 🧑‍💻 [Lãng Khê: &#39;Không ai quan tâm tôi là con gái Trần Anh Hùng&#39;](https://vnexpress.net/lang-khe-khong-ai-quan-tam-toi-la-con-gai-tran-anh-hung-4754223.html) - 17:00 06/06/2024<!-- vnexpress-giai-tri:END -->
