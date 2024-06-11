@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Vườn quốc gia Tràm Chim cháy do &#39;có người xâm nhập trái phép&#39;](https://vnexpress.net/vuon-quoc-gia-tram-chim-chay-do-co-nguoi-xam-nhap-trai-phep-4757157.html) - 13:54 11/06/2024
-- 🤓 [Xe bồn tông trúng ba ông cháu](https://vnexpress.net/xe-bon-tong-trung-ba-ong-chau-4757154.html) - 13:51 11/06/2024
+- 🤓 [Xe bơm bêtông đâm trúng ba ông cháu](https://vnexpress.net/xe-bom-betong-dam-trung-ba-ong-chau-4757154.html) - 13:51 11/06/2024
 - ⚗️ [Chủ tịch Hà Nội lý giải việc cắt điện nước công trình vi phạm](https://vnexpress.net/chu-tich-ha-noi-ly-giai-viec-cat-dien-nuoc-cong-trinh-vi-pham-4757081.html) - 10:15 11/06/2024
 - 🌊 [TP HCM tính kết nối sân bay Long Thành bằng tàu thủy cao tốc](https://vnexpress.net/tp-hcm-tinh-ket-noi-san-bay-long-thanh-bang-tau-thuy-cao-toc-4757048.html) - 09:00 11/06/2024
 - 🎓 [Đám cháy rừng Tràm Chim tấn công khu dân cư](https://vnexpress.net/dam-chay-rung-tram-chim-tan-cong-khu-dan-cu-4756995.html) - 07:44 11/06/2024
