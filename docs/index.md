@@ -203,7 +203,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Lao Động
 <!-- laodong:START -->
 - 🗽 [Man United theo đuổi tiền vệ 60 triệu bảng](https://laodong.vn/bong-da-quoc-te/man-united-theo-duoi-tien-ve-60-trieu-bang-1351868.ldo) - 17:01 11/06/2024
-- 📝 [Trực tiếp tuyển Việt Nam vs Iraq: Nguyễn Filip bắt chính thay Văn Lâm](https://laodong.vn/bong-da/truc-tiep-tuyen-viet-nam-vs-iraq-nguyen-filip-bat-chinh-thay-van-lam-1351871.ldo) - 16:30 11/06/2024
+- 📝 [Trực tiếp tuyển Việt Nam 0-1 Iraq: Kadhim đá hỏng quả 11m](https://laodong.vn/bong-da/truc-tiep-tuyen-viet-nam-0-1-iraq-kadhim-da-hong-qua-11m-1351871.ldo) - 16:30 11/06/2024
 - 🦏 [Madam Pang bật khóc, cầu thủ Thái Lan gục ngã khi bị loại cay đắng](https://laodong.vn/photo/madam-pang-bat-khoc-cau-thu-thai-lan-guc-nga-khi-bi-loai-cay-dang-1351883.ldo) - 16:20 11/06/2024
 - 🦩 [Bảng xếp hạng vòng loại thứ 2 World Cup 2026: Iraq và Indonesia đi tiếp ở bảng F](https://laodong.vn/bong-da-quoc-te/bang-xep-hang-vong-loai-thu-2-world-cup-2026-iraq-va-indonesia-di-tiep-o-bang-f-1351874.ldo) - 15:23 11/06/2024
 - 🦏 [Sự khác nhau giữa tập thể dục 2 tiếng và đi bộ 10.000 bước trong giảm cân](https://laodong.vn/suc-khoe/su-khac-nhau-giua-tap-the-duc-2-tieng-va-di-bo-10000-buoc-trong-giam-can-1351379.ldo) - 15:00 11/06/2024
