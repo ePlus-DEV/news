@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Đám cháy ở rừng Tràm Chim tấn công khu dân cư](https://vnexpress.net/dam-chay-o-rung-tram-chim-tan-cong-khu-dan-cu-4756995.html) - 07:44 11/06/2024
+- 🦒 [Đám cháy rừng Tràm Chim tấn công khu dân cư](https://vnexpress.net/dam-chay-rung-tram-chim-tan-cong-khu-dan-cu-4756995.html) - 07:44 11/06/2024
 - 🤓 [Liên thông đăng ký khai sinh, thường trú, thẻ bảo hiểm y tế từ 1/7](https://vnexpress.net/lien-thong-dang-ky-khai-sinh-thuong-tru-the-bao-hiem-y-te-tu-1-7-4756871.html) - 07:19 11/06/2024
 - ⚗️ [Vườn quốc gia Tràm Chim cháy ngùn ngụt](https://vnexpress.net/vuon-quoc-gia-tram-chim-chay-ngun-ngut-4756968.html) - 06:05 11/06/2024
 - 🌊 [Container lật khi đổ đèo, tài xế tử vong](https://vnexpress.net/container-lat-khi-do-deo-tai-xe-tu-vong-4756832.html) - 05:29 11/06/2024
