@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Việt Nam thua Iraq ở trận cuối vòng loại World Cup 2026](https://vnexpress.net/viet-nam-thua-iraq-o-tran-cuoi-vong-loai-world-cup-2026-4757206.html) - 20:10 11/06/2024
+- 🎬 [Việt Nam thua Iraq năm trận liên tiếp](https://vnexpress.net/viet-nam-thua-iraq-nam-tran-lien-tiep-4757206.html) - 20:10 11/06/2024
 - 🐎 [Áp lực chồng chất với nội các chiến tranh của ông Netanyahu](https://vnexpress.net/ap-luc-chong-chat-voi-noi-cac-chien-tranh-cua-ong-netanyahu-4756307.html) - 20:00 11/06/2024
 - 🦍 [Thị trấn ở nơi tận cùng thế giới](https://vnexpress.net/thi-tran-o-noi-tan-cung-the-gioi-4756858.html) - 17:15 11/06/2024
 - 🏊 [Đội thầy cô thông tắc nhà vệ sinh](https://vnexpress.net/doi-thay-co-thong-tac-nha-ve-sinh-4757197.html) - 17:03 11/06/2024
