@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Tuyển Iraq dùng nhiều tân binh đấu Việt Nam](https://vnexpress.net/tuyen-iraq-dung-nhieu-tan-binh-dau-viet-nam-4756817.html) - 03:00 11/06/2024
 - 🦩 [Khán giả đi tù tám tháng vì xúc phạm Vinicius](https://vnexpress.net/khan-gia-di-tu-tam-thang-vi-xuc-pham-vinicius-4756744.html) - 01:43 11/06/2024
 - 🧰 [Hai tuyển thủ Đức suýt đánh nhau trước Euro 2024](https://vnexpress.net/hai-tuyen-thu-duc-suyt-danh-nhau-truoc-euro-2024-4756772.html) - 01:30 11/06/2024
-- 🤗 [CNBC: &#39;Indonesia gặp Philippines như thiên đường với mặt đất&#39;](https://vnexpress.net/cnbc-indonesia-gap-philippines-nhu-thien-duong-voi-mat-dat-4756713.html) - 00:48 11/06/2024
+- 🤗 [Indonesia và Philippines được ví như thiên đường với mặt đất](https://vnexpress.net/indonesia-va-philippines-duoc-vi-nhu-thien-duong-voi-mat-dat-4756713.html) - 00:48 11/06/2024
 - 🥳 [Sơ cứu chấn thương chạy bộ với phương pháp R.I.C.E](https://vnexpress.net/so-cuu-chan-thuong-chay-bo-voi-phuong-phap-r-i-c-e-4755351.html) - 00:40 11/06/2024
 - 🦣 [Tuyển Anh gọi thủ môn 38 tuổi của Man Utd](https://vnexpress.net/tuyen-anh-goi-thu-mon-38-tuoi-cua-man-utd-4756735.html) - 23:22 10/06/2024
 - 🌜 [HLV Hà Lan trách Barca khi De Jong nghỉ Euro 2024](https://vnexpress.net/hlv-ha-lan-trach-barca-khi-de-jong-nghi-euro-2024-4756730.html) - 23:05 10/06/2024
