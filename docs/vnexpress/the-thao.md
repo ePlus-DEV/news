@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Thái Lan dừng bước ở vòng loại hai World Cup](https://vnexpress.net/thai-lan-dung-buoc-o-vong-loai-hai-world-cup-4757023.html) - 14:57 11/06/2024
-- 🦩 [Trung Quốc thua Hàn Quốc, mở cơ hội đi tiếp cho Thái Lan](https://vnexpress.net/trung-quoc-thua-han-quoc-mo-co-hoi-di-tiep-cho-thai-lan-4757021.html) - 13:03 11/06/2024
+- 🦩 [Trung Quốc thua Hàn Quốc, vẫn vào vòng loại ba World Cup](https://vnexpress.net/trung-quoc-thua-han-quoc-van-vao-vong-loai-ba-world-cup-4757021.html) - 13:03 11/06/2024
 - 🧰 [Indonesia lần đầu vào vòng loại thứ ba của World Cup](https://vnexpress.net/indonesia-vs-philippines-4757138-tong-thuat.html) - 12:00 11/06/2024
 - 🤗 [Cua-rơ Nguyễn Thị Thật giành HC bạc châu Á](https://vnexpress.net/cua-ro-nguyen-thi-that-gianh-hc-bac-chau-a-4757123.html) - 10:52 11/06/2024
 - 🥳 [Bồ Đào Nha được khuyên để Ronaldo dự bị tại Euro 2024](https://vnexpress.net/bo-dao-nha-duoc-khuyen-de-ronaldo-du-bi-tai-euro-2024-4757113.html) - 10:28 11/06/2024
