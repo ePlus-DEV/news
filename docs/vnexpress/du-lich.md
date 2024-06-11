@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Một tuần nữ du khách Việt trải nghiệm vùng đất Palestine](https://vnexpress.net/mot-tuan-nu-du-khach-viet-trai-nghiem-vung-dat-palestine-4754777.html) - 03:15 11/06/2024
+- 💂 [Một tuần khách Việt khám phá vùng đất Palestine giữa chiến sự](https://vnexpress.net/mot-tuan-khach-viet-kham-pha-vung-dat-palestine-giua-chien-su-4754777.html) - 03:15 11/06/2024
 - 🪄 [Những loại thẻ đi lại và tham quan tiết kiệm ở Rome](https://vnexpress.net/nhung-loai-the-di-lai-va-tham-quan-tiet-kiem-o-rome-4754766.html) - 00:00 11/06/2024
 - 🦅 [Núi cao hơn 6 m ở Nhật Bản hút khách du lịch](https://vnexpress.net/nui-cao-hon-6-m-o-nhat-ban-hut-khach-du-lich-4756416.html) - 17:15 10/06/2024
 - 🕴 [Lễ vía Bà Đen lập kỷ lục có số đèn đăng nhiều nhất Việt Nam](https://vnexpress.net/le-via-ba-den-lap-ky-luc-co-so-den-dang-nhieu-nhat-viet-nam-4756516.html) - 11:00 10/06/2024
