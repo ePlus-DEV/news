@@ -254,7 +254,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥷 [Khánh Hòa: Dùng ngân sách &quot;cứu&quot; dự án bị Ngân hàng Thế giới rút vốn](https://nld.com.vn/khanh-hoa-dung-ngan-sach-cuu-du-an-bi-ngan-hang-the-gioi-rut-von-196240611182253331.htm) - 12:11 11/06/2024
 - 🤔 [TP HCM: Chỉ đạo mới nhất liên quan đề án huyện lên quận](https://nld.com.vn/tp-hcm-chi-dao-moi-nhat-lien-quan-de-an-huyen-len-quan-196240611185303549.htm) - 12:07 11/06/2024
 - 🌈 [Nữ cán bộ chi cục thuế trốn thuế hơn 6,4 tỉ đồng](https://nld.com.vn/nu-can-bo-chi-cuc-thue-tron-thue-hon-64-ti-dong-196240611183130351.htm) - 12:00 11/06/2024
-- 🔥 [Huy động 200 người dập lửa vụ cháy Vườn Quốc gia Tràm Chim](https://nld.com.vn/huy-dong-200-nguoi-dap-lua-vu-chay-vuon-quoc-gia-tram-chim-196240611185731535.htm) - 11:58 11/06/2024
+- 🔥 [Vụ cháy Vườn Quốc gia Tràm Chim: Có người xâm nhập trái phép](https://nld.com.vn/huy-dong-200-nguoi-dap-lua-vu-chay-vuon-quoc-gia-tram-chim-196240611185731535.htm) - 11:58 11/06/2024
 - 🧰 [Nghiên cứu mở tuyến tàu cao tốc từ TP HCM đến sân bay Long Thành](https://nld.com.vn/nghien-cuu-mo-tuyen-tau-cao-toc-tu-tp-hcm-den-san-bay-long-thanh-196240611183415933.htm) - 11:52 11/06/2024
 - 🤗 [Đã tìm thấy 1 trong 2 nữ sinh “mất tích” bí ẩn ở An Giang](https://nld.com.vn/da-tim-thay-1-trong-2-nu-sinh-mat-tich-bi-an-o-an-giang-196240611182826305.htm) - 11:31 11/06/2024
 - 🦅 [Cựu cán bộ cảnh sát &quot;bảo kê&quot; đánh bạc lãnh án tù](https://nld.com.vn/cuu-can-bo-canh-sat-bao-ke-danh-bac-lanh-an-tu-196240611180116485.htm) - 11:19 11/06/2024
@@ -291,7 +291,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥸 [Trèo lên mái nhà lấy diều, bé trai bị điện giật](https://nld.com.vn/treo-len-mai-nha-lay-dieu-be-trai-bi-dien-giat-196240611140348786.htm) - 08:20 11/06/2024
 - 🌁 [Làm rõ trách nhiệm sở ngành vụ vi phạm xây dựng trong Đồi Cù](https://nld.com.vn/lam-ro-trach-nhiem-so-nganh-vu-vi-pham-xay-dung-trong-doi-cu-19624061115100643.htm) - 08:17 11/06/2024
 - 🌮 [Hơn 3.000 vị trí tuyển dụng được chào mời tại ngày hội tuyển dụng tích hợp](https://nld.com.vn/hon-3000-vi-tri-tuyen-dung-duoc-chao-moi-tai-ngay-hoi-tuyen-dung-tich-hop-196240611110910265.htm) - 08:15 11/06/2024
-- 🎉 [NÓNG: Công bố đáp án, thang điểm chấm thi lớp 10 tại TP HCM](https://nld.com.vn/nong-cong-bo-dap-an-thang-diem-cham-thi-lop-10-tai-tp-hcm-196240611150052042.htm) - 08:11 11/06/2024
+- 🎉 [Công bố đáp án, thang điểm chấm thi lớp 10 tại TP HCM](https://nld.com.vn/nong-cong-bo-dap-an-thang-diem-cham-thi-lop-10-tai-tp-hcm-196240611150052042.htm) - 08:11 11/06/2024
 - 🤔 [CLIP: Chen nhau xếp hàng giữa trưa để chờ mua vàng miếng SJC ở TP HCM](https://nld.com.vn/clip-chen-nhau-xep-hang-giua-trua-de-cho-mua-vang-mieng-sjc-o-tp-hcm-196240611143259125.htm) - 07:56 11/06/2024
 - 🐘 [Lý do 2 cán bộ công an phường ở Phú Quốc bị kiểm điểm trách nhiệm](https://nld.com.vn/ly-do-2-can-bo-cong-an-phuong-o-phu-quoc-bi-kiem-diem-trach-nhiem-196240611125408259.htm) - 07:54 11/06/2024
 - 🙉 [Chủ tịch nước Tô Lâm tiếp Đại sứ Trung Quốc](https://nld.com.vn/chu-tich-nuoc-to-lam-da-tiep-dai-su-trung-quoc-196240611143827971.htm) - 07:50 11/06/2024
