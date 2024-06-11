@@ -12,7 +12,7 @@ sidebar_position: 9
 - 🎃 [Mắc HPV có gây ra sùi mào gà?](https://vnexpress.net/mac-hpv-co-gay-ra-sui-mao-ga-4757101.html) - 13:00 11/06/2024
 - 🧰 [Vì sao sức hấp dẫn tình dục mất dần theo thời gian?](https://vnexpress.net/vi-sao-suc-hap-dan-tinh-duc-mat-dan-theo-thoi-gian-4757043.html) - 12:30 11/06/2024
 - 🔭 [Cuộc tấn công mạng đầu tiên trên thế giới](https://vnexpress.net/cuoc-tan-cong-mang-dau-tien-tren-the-gioi-4756743.html) - 12:07 11/06/2024
-- 🫶 [Indonesia 1-0 Philippines &lpar;H1&rpar;: Haye mở tỷ số](https://vnexpress.net/indonesia-vs-philippines-4757138.html) - 12:00 11/06/2024
+- 🫶 [Indonesia 1-0 Philippines &lpar;hết H1&rpar;: Haye mở tỷ số](https://vnexpress.net/indonesia-vs-philippines-4757138.html) - 12:00 11/06/2024
 - 🪜 [Lưu Gia Linh: &#39;Đi đâu với Lương Triều Vỹ cũng lãng mạn&#39;](https://vnexpress.net/luu-gia-linh-di-dau-voi-luong-trieu-vy-cung-lang-man-4757062.html) - 12:00 11/06/2024
 - 👨‍🏫 [Em mạnh mẽ, trầm tính, không chấp nhận mối quan hệ tạm bợ](https://vnexpress.net/em-manh-me-tram-tinh-khong-chap-nhan-moi-quan-he-tam-bo-4756914.html) - 12:00 11/06/2024
 - 🎊 [Ván cược của Tổng thống Macron với phe cực hữu Pháp](https://vnexpress.net/van-cuoc-cua-tong-thong-macron-voi-phe-cuc-huu-phap-4756754.html) - 12:00 11/06/2024
@@ -48,5 +48,4 @@ sidebar_position: 9
 - 💃 [Đâm chết người do bị ngăn cản mời bia](https://vnexpress.net/dam-chet-nguoi-do-bi-ngan-can-moi-bia-4757057.html) - 09:26 11/06/2024
 - 🦆 [Hạ thân nhiệt cứu sống người phụ nữ bị sét đánh](https://vnexpress.net/ha-than-nhiet-cuu-song-nguoi-phu-nu-bi-set-danh-4756970.html) - 09:17 11/06/2024
 - 🎊 [Giải Sách Quốc gia mời bạn đọc bình chọn tác phẩm](https://vnexpress.net/giai-sach-quoc-gia-moi-ban-doc-binh-chon-tac-pham-4757059.html) - 09:13 11/06/2024
-- 👺 [UAV Lancet tập kích pháo tự hành &#39;mạnh nhất thế giới&#39; của Ukraine](https://vnexpress.net/uav-lancet-tap-kich-phao-tu-hanh-manh-nhat-the-gioi-cua-ukraine-4756992.html) - 09:13 11/06/2024
-- 🎡 [Đồng Nai lại tìm nhà đầu tư khu đô thị hơn 72.000 tỷ đồng](https://vnexpress.net/dong-nai-lai-tim-nha-dau-tu-khu-do-thi-hon-72-000-ty-dong-4757022.html) - 09:07 11/06/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 👺 [UAV Lancet tập kích pháo tự hành &#39;mạnh nhất thế giới&#39; của Ukraine](https://vnexpress.net/uav-lancet-tap-kich-phao-tu-hanh-manh-nhat-the-gioi-cua-ukraine-4756992.html) - 09:13 11/06/2024<!-- vnexpress-tin-moi-nhat:END -->
