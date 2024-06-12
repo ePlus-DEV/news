@@ -58,4 +58,5 @@ sidebar_position: 9
 - 🔥 [Tiêm HPV có ảnh hưởng kinh nguyệt?](https://vnexpress.net/tiem-hpv-co-anh-huong-kinh-nguyet-4757553.html) - 13:00 12/06/2024
 - 💄 [Cổng sắt đổ vào đầu bé gái gây chấn thương sọ não](https://vnexpress.net/cong-sat-do-vao-dau-be-gai-gay-chan-thuong-so-nao-4757602.html) - 12:38 12/06/2024
 - 🤡 [Châu Huệ Mẫn gây chú ý với vẻ thanh lịch](https://vnexpress.net/chau-hue-man-gay-chu-y-voi-ve-thanh-lich-4757556.html) - 12:30 12/06/2024
-- ⛽️ [Hai thập kỷ ghi dấu ấn của ông Andy Ho](https://vnexpress.net/hai-thap-ky-ghi-dau-an-cua-ong-andy-ho-4757509.html) - 12:30 12/06/2024<!-- vnexpress-tin-moi-nhat:END -->
+- ⛽️ [Hai thập kỷ ghi dấu ấn của ông Andy Ho](https://vnexpress.net/hai-thap-ky-ghi-dau-an-cua-ong-andy-ho-4757509.html) - 12:30 12/06/2024
+- 🚀 [Ông Macron cáo buộc phe cực hữu muốn Pháp rời NATO](https://vnexpress.net/ong-macron-cao-buoc-phe-cuc-huu-muon-phap-roi-nato-4757595.html) - 12:13 12/06/2024<!-- vnexpress-tin-moi-nhat:END -->
