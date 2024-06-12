@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Điểm chuẩn lớp 10 chuyên Khoa học Xã hội và Nhân văn cao nhất 8,5](https://vnexpress.net/diem-chuan-lop-10-chuyen-khoa-hoc-xa-hoi-va-nhan-van-cao-nhat-8-5-4757613.html) - 13:08 12/06/2024
+- 🤓 [Điểm chuẩn lớp 10 chuyên Khoa học Xã hội và Nhân văn cao nhất 8](https://vnexpress.net/diem-chuan-lop-10-chuyen-khoa-hoc-xa-hoi-va-nhan-van-cao-nhat-8-4757613.html) - 13:08 12/06/2024
 - 🦆 [Vị vua đầu tiên xưng đế quê ở tỉnh nào?](https://vnexpress.net/vi-vua-dau-tien-xung-de-que-o-tinh-nao-4757550.html) - 13:00 12/06/2024
 - 🦩 [Từ &#39;fail&#39; phát âm chuẩn như thế nào](https://vnexpress.net/tu-fail-phat-am-chuan-nhu-the-nao-4757605.html) - 12:00 12/06/2024
 - 🌮 [Chàng trai vàng Olympic Toán quốc tế về nước làm giảng viên](https://vnexpress.net/chang-trai-vang-olympic-toan-quoc-te-ve-nuoc-lam-giang-vien-4757520.html) - 09:49 12/06/2024
