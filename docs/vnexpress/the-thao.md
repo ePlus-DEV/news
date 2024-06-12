@@ -10,7 +10,7 @@ sidebar_position: 5
 - 🤗 [Ngày cuối đăng ký VnExpress Marathon Quy Nhơn 2024](https://vnexpress.net/ngay-cuoi-dang-ky-vnexpress-marathon-quy-nhon-2024-4757018.html) - 02:13 12/06/2024
 - 🥳 [Nữ runner 52 tuổi chạy 1000 km xuyên 3 nước Đông Nam Á](https://vnexpress.net/nu-runner-52-tuoi-chay-1000-km-xuyen-3-nuoc-dong-nam-a-4757268.html) - 01:27 12/06/2024
 - 🦣 [Man Utd giữ Ten Hag](https://vnexpress.net/man-utd-giu-ten-hag-4757230.html) - 01:14 12/06/2024
-- 🌜 [Việt Nam khó chung bảng Thái Lan ở vòng loại cuối Asian Cup 2027](https://vnexpress.net/viet-nam-kho-chung-bang-thai-lan-o-vong-loai-cuoi-asian-cup-2027-4757242.html) - 00:59 12/06/2024
+- 🌜 [Việt Nam, Thái Lan phải đá vòng loại Asian Cup 2027](https://vnexpress.net/viet-nam-thai-lan-phai-da-vong-loai-asian-cup-2027-4757242.html) - 00:59 12/06/2024
 - 🫶 [Scheffler tiếp đoạt cup sau vụ bị bắt nhầm](https://vnexpress.net/scheffler-tiep-doat-cup-sau-vu-bi-bat-nham-4757244.html) - 00:45 12/06/2024
 - 🌜 [Xác định 18 đội vào vòng loại ba World Cup 2026 khu vực châu Á](https://vnexpress.net/xac-dinh-18-doi-vao-vong-loai-ba-world-cup-2026-khu-vuc-chau-a-4757219.html) - 23:28 11/06/2024
 - 😺 [Alcaraz được &#39;khích tướng&#39; bằng 24 Grand Slam của Djokovic](https://vnexpress.net/alcaraz-duoc-khich-tuong-bang-24-grand-slam-cua-djokovic-4757133.html) - 22:58 11/06/2024
