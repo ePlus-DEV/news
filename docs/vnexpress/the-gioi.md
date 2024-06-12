@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Ukraine tuyên bố bắn thêm ba tổ hợp phòng không Nga ở Crimea](https://vnexpress.net/ukraine-tuyen-bo-ban-them-ba-to-hop-phong-khong-nga-o-crimea-4757621.html) - 14:58 12/06/2024
+- 🎭 [Ukraine tuyên bố tập kích thêm ba tổ hợp phòng không Nga ở Crimea](https://vnexpress.net/ukraine-tuyen-bo-tap-kich-them-ba-to-hop-phong-khong-nga-o-crimea-4757621.html) - 14:58 12/06/2024
 - 🕴 [Nga rút hết lính gìn giữ hòa bình khỏi Nagorno-Karabakh](https://vnexpress.net/nga-rut-het-linh-gin-giu-hoa-binh-khoi-nagorno-karabakh-4757619.html) - 14:45 12/06/2024
 - 🤭 [Đan Mạch thu hồi mỳ Hàn Quốc vì quá cay](https://vnexpress.net/dan-mach-thu-hoi-my-han-quoc-vi-qua-cay-4757610.html) - 13:27 12/06/2024
 - 🧑‍💻 [Nghị sĩ Ukraine đề xuất &#39;nộp tiền tránh nghĩa vụ quân sự&#39;](https://vnexpress.net/nghi-si-ukraine-de-xuat-nop-tien-tranh-nghia-vu-quan-su-4757608.html) - 13:17 12/06/2024
