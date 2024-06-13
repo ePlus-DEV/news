@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [3 hiểu lầm khi dùng điều hòa cho trẻ](https://vnexpress.net/3-hieu-lam-khi-dung-dieu-hoa-cho-tre-4758015.html) - 12:00 13/06/2024
+- 🚀 [Ba hiểu lầm khi dùng điều hòa cho trẻ](https://vnexpress.net/ba-hieu-lam-khi-dung-dieu-hoa-cho-tre-4758015.html) - 12:00 13/06/2024
 - 🎓 [Canh riêu hến Bắc Bộ](https://vnexpress.net/canh-rieu-hen-bac-bo-4757908.html) - 10:29 13/06/2024
 - 🚦 [Grab đặt loạt ghế đá và trạm check-in nón lá tại Đà Nẵng](https://vnexpress.net/grab-dat-loat-ghe-da-va-tram-check-in-non-la-tai-da-nang-4757866.html) - 09:00 13/06/2024
 - 🦣 [Cách bảo quản khoai tây vài tháng không hỏng](https://vnexpress.net/cach-bao-quan-khoai-tay-vai-thang-khong-hong-4757223.html) - 08:56 13/06/2024
