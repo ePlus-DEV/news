@@ -5,7 +5,7 @@ sidebar_position: 9
 
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Anh sống nội tâm, sẵn sàng chia sẻ và lắng nghe](https://vnexpress.net/anh-song-noi-tam-san-sang-chia-se-va-lang-nghe-4757743.html) - 10:00 13/06/2024
-- 🐎 [Điểm tin 17h: Hàng không bay đêm để giảm giá vé nhưng ế khách; Tìm khách hàng mua đất dự án của Tập đoàn Phúc Sơn](https://vnexpress.net/diem-tin-17h-hang-khong-bay-dem-de-giam-gia-ve-nhung-e-khach-tim-khach-hang-mua-dat-du-an-cua-tap-doan-phuc-son-4758011.html) - 10:00 13/06/2024
+- 🐎 [Điểm tin 17h: Hàng không bay đêm để giảm giá vé nhưng ế khách; Rượu, bia có thể chịu thuế tiêu thụ đặc biệt tới 100%](https://vnexpress.net/diem-tin-17h-hang-khong-bay-dem-de-giam-gia-ve-nhung-e-khach-ruou-bia-co-the-chiu-thue-tieu-thu-dac-biet-toi-100-4758011.html) - 10:00 13/06/2024
 - 🦍 [Đau tim](https://vnexpress.net/dau-tim-4757899.html) - 10:00 13/06/2024
 - 🏊 [The Maestro - căn hộ nghỉ dưỡng trung tâm Quy Nhơn](https://vnexpress.net/the-maestro-can-ho-nghi-duong-trung-tam-quy-nhon-4757796.html) - 10:00 13/06/2024
 - 🎊 [TV360 phát sóng trực tiếp miễn phí Euro 2024](https://vnexpress.net/tv360-phat-song-truc-tiep-mien-phi-euro-2024-4757548.html) - 10:00 13/06/2024
@@ -52,6 +52,4 @@ sidebar_position: 9
 - 🎡 [Vì sao runner thích giày màu sặc sỡ?](https://vnexpress.net/vi-sao-runner-thich-giay-mau-sac-so-4757444.html) - 07:31 13/06/2024
 - 👍 [Ung thư thận di căn xương sau 10 tháng không điều trị](https://vnexpress.net/ung-thu-than-di-can-xuong-sau-10-thang-khong-dieu-tri-4757882.html) - 07:30 13/06/2024
 - 🐎 [LPBank ký khoản vay hợp vốn 80 triệu USD từ ADB](https://vnexpress.net/lpbank-ky-khoan-vay-hop-von-80-trieu-usd-tu-adb-4757755.html) - 07:30 13/06/2024
-- 🏊 [Hàng không bay đêm để giảm giá vé nhưng ế khách](https://vnexpress.net/hang-khong-bay-dem-de-giam-gia-ve-nhung-e-khach-4757803.html) - 07:29 13/06/2024
-- 🦩 [Bia Đức - món đồ uống không nên bỏ qua khi đến Euro 2024](https://vnexpress.net/bia-duc-mon-do-uong-khong-nen-bo-qua-khi-den-euro-2024-4757283.html) - 07:29 13/06/2024
-- 👍 [Tuyển Bỉ và chút vàng son sót lại ở Euro 2024](https://vnexpress.net/tuyen-bi-va-chut-vang-son-sot-lai-o-euro-2024-4757889.html) - 07:21 13/06/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🏊 [Hàng không bay đêm để giảm giá vé nhưng ế khách](https://vnexpress.net/hang-khong-bay-dem-de-giam-gia-ve-nhung-e-khach-4757803.html) - 07:29 13/06/2024<!-- vnexpress-tin-moi-nhat:END -->
