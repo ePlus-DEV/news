@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Nhiệm vụ của bốn Phó thủ tướng](https://vnexpress.net/nhiem-vu-cua-bon-pho-thu-tuong-4758026.html) - 11:51 13/06/2024
-- 🤓 [Dự kiến quản lý &#39;dao có tính sát thương cao&#39; theo 3 chế độ](https://vnexpress.net/du-kien-quan-ly-dao-co-tinh-sat-thuong-cao-theo-3-che-do-4757955.html) - 09:25 13/06/2024
+- 🤓 [Do có tính sát thương cao sẽ được quản lý theo ba cấp độ](https://vnexpress.net/do-co-tinh-sat-thuong-cao-se-duoc-quan-ly-theo-ba-cap-do-4757955.html) - 09:25 13/06/2024
 - ⚗️ [Dự kiến đầu tư 7.000 tỷ đồng mở rộng cao tốc Cam Lộ - La Sơn](https://vnexpress.net/du-kien-dau-tu-7-000-ty-dong-mo-rong-cao-toc-cam-lo-la-son-4757929.html) - 09:20 13/06/2024
 - 🌊 [Trùng tu thành cổ hơn 230 tuổi ở Khánh Hòa](https://vnexpress.net/trung-tu-thanh-co-hon-230-tuoi-o-khanh-hoa-4757868.html) - 07:17 13/06/2024
 - 🎓 [&#39;Chỉ có metro mới giải quyết được ùn tắc giao thông ở TP HCM&#39;](https://vnexpress.net/chi-co-metro-moi-giai-quyet-duoc-un-tac-giao-thong-o-tp-hcm-4757861.html) - 06:05 13/06/2024
