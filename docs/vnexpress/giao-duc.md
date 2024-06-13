@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Lợi ích thi chứng chỉ Cambridge sớm](https://vnexpress.net/loi-ich-thi-chung-chi-cambridge-som-4757117.html) - 01:00 13/06/2024
-- 🦆 [Nam sinh dẫn đầu kỳ thi hơn 105.000 thí sinh](https://vnexpress.net/nam-sinh-dan-dau-ky-thi-hon-105-000-thi-sinh-4757574.html) - 00:38 13/06/2024
+- 🦆 [Nam sinh dẫn đầu kỳ thi 105.000 thí sinh](https://vnexpress.net/nam-sinh-dan-dau-ky-thi-105-000-thi-sinh-4757574.html) - 00:38 13/06/2024
 - 🦩 [Trên 8 điểm mỗi môn mới đỗ lớp 6 trường &#39;hot&#39; nhất Hà Nội](https://vnexpress.net/tren-8-diem-moi-mon-moi-do-lop-6-truong-hot-nhat-ha-noi-4757617.html) - 14:16 12/06/2024
 - 🌮 [Điểm chuẩn lớp 10 chuyên Khoa học Xã hội và Nhân văn cao nhất 8](https://vnexpress.net/diem-chuan-lop-10-chuyen-khoa-hoc-xa-hoi-va-nhan-van-cao-nhat-8-4757613.html) - 13:08 12/06/2024
 - 🔭 [Vị vua đầu tiên xưng đế quê ở tỉnh nào?](https://vnexpress.net/vi-vua-dau-tien-xung-de-que-o-tinh-nao-4757550.html) - 13:00 12/06/2024
