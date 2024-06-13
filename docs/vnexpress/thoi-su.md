@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Những người lính truyền cảm hứng](https://vnexpress.net/nhung-nguoi-linh-truyen-cam-hung-4757640.html) - 01:32 13/06/2024
+- 🦒 [Những người lính truyền cảm hứng yêu nước](https://vnexpress.net/nhung-nguoi-linh-truyen-cam-hung-yeu-nuoc-4757640.html) - 01:32 13/06/2024
 - 🤓 [Lúa trồng cạnh dự án cao tốc miền Tây chết bất thường](https://vnexpress.net/lua-trong-canh-du-an-cao-toc-mien-tay-chet-bat-thuong-4757533.html) - 23:00 12/06/2024
 - ⚗️ [Khánh Hòa cho lặn biển tại 4 khu vực trong vịnh Nha Trang](https://vnexpress.net/khanh-hoa-cho-lan-bien-tai-4-khu-vuc-trong-vinh-nha-trang-4757576.html) - 17:00 12/06/2024
 - 🌊 [Lo ngại tăng chi phí nếu áp dụng quy chuẩn xe đưa đón học sinh](https://vnexpress.net/lo-ngai-tang-chi-phi-neu-ap-dung-quy-chuan-xe-dua-don-hoc-sinh-4757332.html) - 17:00 12/06/2024
