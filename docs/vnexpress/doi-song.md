@@ -8,7 +8,7 @@ sidebar_position: 6
 - 🎓 [Canh riêu hến Bắc Bộ](https://vnexpress.net/canh-rieu-hen-bac-bo-4757908.html) - 10:29 13/06/2024
 - 🚦 [Grab đặt loạt ghế đá và trạm check-in nón lá tại Đà Nẵng](https://vnexpress.net/grab-dat-loat-ghe-da-va-tram-check-in-non-la-tai-da-nang-4757866.html) - 09:00 13/06/2024
 - 🦣 [Cách bảo quản khoai tây vài tháng không hỏng](https://vnexpress.net/cach-bao-quan-khoai-tay-vai-thang-khong-hong-4757223.html) - 08:56 13/06/2024
-- 🎓 [Chồng bỗng dưng chuyển giới thành nữ sau 8 năm hôn nhân](https://vnexpress.net/chong-bong-dung-chuyen-gioi-thanh-nu-sau-8-nam-hon-nhan-4757588.html) - 04:01 13/06/2024
+- 🎓 [Chồng chuyển giới thành nữ sau 8 năm hôn nhân](https://vnexpress.net/chong-chuyen-gioi-thanh-nu-sau-8-nam-hon-nhan-4757588.html) - 04:01 13/06/2024
 - 🎭 [Trúng thưởng BWM khi ăn tiệc tại nhà](https://vnexpress.net/trung-thuong-bwm-khi-an-tiec-tai-nha-4757357.html) - 03:00 13/06/2024
 - 🦅 [Tranh luận tiêu chí &#39;thu nhập cao&#39; khi chọn chồng](https://vnexpress.net/tranh-luan-tieu-chi-thu-nhap-cao-khi-chon-chong-4756798.html) - 23:00 12/06/2024
 - 🎃 [Cộng đồng giúp gia đình 3 người tìm việc trong đêm mưa](https://vnexpress.net/cong-dong-giup-gia-dinh-3-nguoi-tim-viec-trong-dem-mua-4757571.html) - 17:27 12/06/2024
