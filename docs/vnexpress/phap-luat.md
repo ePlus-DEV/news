@@ -8,7 +8,7 @@ sidebar_position: 12
 - 🥰 [Phó chủ tịch huyện ở Nghệ An bị điều tra lợi dụng chức vụ](https://vnexpress.net/pho-chu-tich-huyen-o-nghe-an-bi-dieu-tra-loi-dung-chuc-vu-4757774.html) - 03:55 13/06/2024
 - 🎓 [Doanh nhân bị bắt vì &#39;chi phối cán bộ&#39;](https://vnexpress.net/doanh-nhan-bi-bat-vi-chi-phoi-can-bo-4757769.html) - 03:47 13/06/2024
 - 🤓 [Nữ phạm nhân trốn trại giam bị bắt](https://vnexpress.net/nu-pham-nhan-vuot-nguc-bi-bat-4757719.html) - 02:44 13/06/2024
-- 🎊 [Cựu giám đốc Bệnh viện Thủ Đức ra tòa trong vụ mua kit test Việt Á](https://vnexpress.net/cuu-giam-doc-benh-vien-thu-duc-ra-toa-trong-vu-mua-kit-test-viet-a-4757657.html) - 02:28 13/06/2024
+- 🎊 [Cựu giám đốc Bệnh viện Thủ Đức: &#39;Sai vì lượng bệnh nhân Covid rất lớn&#39;](https://vnexpress.net/cuu-giam-doc-benh-vien-thu-duc-sai-vi-luong-benh-nhan-covid-rat-lon-4757657.html) - 02:28 13/06/2024
 - 🙉 [Hai người nước ngoài bị truy nã vì vận chuyển trái phép hơn 50.000 tỷ đồng](https://vnexpress.net/hai-nguoi-nuoc-ngoai-bi-truy-na-vi-van-chuyen-trai-phep-hon-50-000-ty-dong-4757591.html) - 17:00 12/06/2024
 - 🤡 [Quan tham sống nghèo khổ để nguỵ trang](https://vnexpress.net/qquan-tham-song-ngheo-kho-de-nguy-trang-4757546.html) - 17:00 12/06/2024
 - 🗽 [Nữ phạm nhân vượt ngục](https://vnexpress.net/nu-pham-nhan-vuot-nguc-4757628.html) - 16:32 12/06/2024
