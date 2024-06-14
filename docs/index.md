@@ -214,7 +214,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Lao Động
 <!-- laodong:START -->
 - 🗽 [Bộ GTVT khẳng định lúa chết không liên quan đến cát biển làm cao tốc](https://laodong.vn/xa-hoi/bo-gtvt-khang-dinh-lua-chet-khong-lien-quan-den-cat-bien-lam-cao-toc-1353154.ldo) - 16:22 14/06/2024
-- 📝 [Trực tiếp tuyển Đức 2-0 Scotland: Musiala nhân đôi cách biệt](https://laodong.vn/bong-da-quoc-te/truc-tiep-tuyen-duc-2-0-scotland-musiala-nhan-doi-cach-biet-1352988.ldo) - 16:10 14/06/2024
+- 📝 [Trực tiếp tuyển Đức 3-0 Scotland: Havertz ghi bàn từ chấm 11m](https://laodong.vn/bong-da-quoc-te/truc-tiep-tuyen-duc-3-0-scotland-havertz-ghi-ban-tu-cham-11m-1352988.ldo) - 16:10 14/06/2024
 - 🦏 [Hiện trường vụ sập mái điện mặt trời xuống chợ ở Bình Dương do mưa lớn](https://laodong.vn/ban-tin/hien-truong-vu-sap-mai-dien-mat-troi-xuong-cho-o-binh-duong-do-mua-lon-1353142.ldo) - 15:36 14/06/2024
 - 🦩 [Liên tiếp xảy ra 2 vụ đuối nước ở Nam Định khiến 1 học sinh tử vong](https://laodong.vn/xa-hoi/lien-tiep-xay-ra-2-vu-duoi-nuoc-o-nam-dinh-khien-1-hoc-sinh-tu-vong-1353137.ldo) - 15:35 14/06/2024
 - 🦏 [Xử lý 2 website thương mại điện tử bán hàng không thông báo theo quy định ở Hải Dương](https://laodong.vn/kinh-doanh/xu-ly-2-website-thuong-mai-dien-tu-ban-hang-khong-thong-bao-theo-quy-dinh-o-hai-duong-1353146.ldo) - 15:26 14/06/2024
