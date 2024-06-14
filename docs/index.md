@@ -311,7 +311,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- sggp:START -->
 - 🪜 [Nguy cơ cuộc chiến thương mại EU - Trung Quốc](https://www.sggp.org.vn/nguy-co-cuoc-chien-thuong-mai-eu-trung-quoc-post744564.html) - 04:57 14/06/2024
 - 🌝 [Sao Thái gốc Việt hứa hẹn khuấy động Anh trai “say hi”](https://www.sggp.org.vn/sao-thai-goc-viet-hua-hen-khuay-dong-anh-trai-say-hi-post744559.html) - 04:48 14/06/2024
-- 💃 [Sẽ phát động phong trào thi đua hoàn thành mục tiêu 3.000km cao tốc trước 31-12-2025](https://www.sggp.org.vn/se-phat-dong-phong-trao-thi-dua-hoan-thanh-muc-tieu-3000km-cao-toc-truoc-31-12-2025-post744556.html) - 04:38 14/06/2024
+- 💃 [Sẽ phát động thi đua hoàn thành mục tiêu 3.000km cao tốc trước 31-12-2025](https://www.sggp.org.vn/se-phat-dong-thi-dua-hoan-thanh-muc-tieu-3000km-cao-toc-truoc-31-12-2025-post744556.html) - 04:38 14/06/2024
 - 🧑‍💻 [Kiên Giang: Phát động thi đua “Xóa nhà tạm, nhà dột nát”](https://www.sggp.org.vn/kien-giang-phat-dong-thi-dua-xoa-nha-tam-nha-dot-nat-post744560.html) - 04:31 14/06/2024
 - 🌊 [Vàng thế giới quay đầu lao dốc trong ngày 14-6](https://www.sggp.org.vn/vang-the-gioi-quay-dau-lao-doc-trong-ngay-14-6-post744555.html) - 04:27 14/06/2024
 - 🧑‍💻 [Giải hạng Nhất 2023-2024: Hấp dẫn tranh vé dự trận play-off](https://www.sggp.org.vn/giai-hang-nhat-2023-2024-hap-dan-tranh-ve-du-tran-play-off-post744546.html) - 04:26 14/06/2024
