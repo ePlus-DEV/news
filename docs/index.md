@@ -152,7 +152,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- thanhnien:START -->
 - 🤠 [Billiards 3 băng: Trần Quyết Chiến tạo cột mốc lịch sử, lên số 1 thế giới](https://thanhnien.vn/billiards-3-bang-tran-quyet-chien-tao-cot-moc-lich-su-len-so-1-the-gioi-185240615013935722.htm) - 18:40 14/06/2024
 - 🥸 [Lịch thi đấu và trực tiếp vòng 23 V-League hôm nay: Chạy trốn khỏi vị trí nóng](https://thanhnien.vn/lich-thi-dau-va-truc-tiep-vong-23-v-league-hom-nay-chay-tron-khoi-vi-tri-nong-185240615003810653.htm) - 18:06 14/06/2024
-- 🌁 [EURO 2024, Đức 1-0 Scotland: Tấn công áp đảo, Florian Wirtz ghi bàn mở tỷ số cho chủ nhà](https://thanhnien.vn/euro-2024-duc-0-0-scotland-chu-nha-ra-quan-thang-loi-185240614164822662.htm) - 18:00 14/06/2024
+- 🌁 [EURO 2024, Đức 2-0 Scotland: Chủ nhà thăng hoa, Florian Wirtz ghi bàn mở tỷ số và Musiala lập công](https://thanhnien.vn/euro-2024-duc-0-0-scotland-chu-nha-ra-quan-thang-loi-185240614164822662.htm) - 18:00 14/06/2024
 - 🤡 [EURO 2024: Vi rút cúm tấn công đội tuyển Pháp](https://thanhnien.vn/euro-2024-vi-rut-cum-tan-cong-doi-tuyen-phap-185240614234259578.htm) - 17:40 14/06/2024
 - 🎉 [Ngày mới với tin tức sức khỏe: Chuyên gia chỉ cách bảo quản bơ dùng được lâu](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-chuyen-gia-chi-cach-bao-quan-bo-dung-duoc-lau-18524061423023062.htm) - 17:10 14/06/2024
 - 🎊 [Tác hại không ngờ của thói quen không rửa chân](https://thanhnien.vn/tac-hai-khong-ngo-cua-thoi-quen-khong-rua-chan-185240614104302955.htm) - 17:07 14/06/2024
