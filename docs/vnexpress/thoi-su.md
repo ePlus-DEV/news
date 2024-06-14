@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Mưa đá ở Sài Gòn](https://vnexpress.net/mua-da-o-sai-gon-4758388.html) - 08:36 14/06/2024
+- 🦒 [Mưa đá ở trung tâm Sài Gòn](https://vnexpress.net/mua-da-o-trung-tam-sai-gon-4758388.html) - 08:36 14/06/2024
 - 🤓 [&#39;Nỗ lực hoàn thành 3.000 km cao tốc trong năm 2025&#39;](https://vnexpress.net/no-luc-hoan-thanh-3-000-km-cao-toc-trong-nam-2025-4758352.html) - 08:30 14/06/2024
 - ⚗️ [Thủy điện xả nước bất ngờ, nhiều du khách bị cuốn trôi](https://vnexpress.net/thuy-dien-xa-nuoc-bat-ngo-nhieu-du-khach-bi-cuon-troi-4758294.html) - 07:10 14/06/2024
 - 🌊 [Vây bắt trâu hung hãn húc người](https://vnexpress.net/vay-bat-trau-hung-han-huc-nguoi-4758310.html) - 06:52 14/06/2024
