@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Phấn đấu đón 25-28 triệu lượt khách quốc tế vào năm 2030](https://vnexpress.net/phan-dau-don-25-28-trieu-luot-khach-quoc-te-vao-nam-2030-4758442.html) - 10:47 14/06/2024
+- 💂 [Đón 25-28 triệu lượt khách quốc tế vào năm 2025](https://vnexpress.net/don-25-28-trieu-luot-khach-quoc-te-vao-nam-2025-4758442.html) - 10:47 14/06/2024
 - 🪄 [Hai show mới tại Da Nang Downtown quy tụ nhiều nghệ sĩ quốc tế](https://vnexpress.net/hai-show-moi-tai-da-nang-downtown-quy-tu-nhieu-nghe-si-quoc-te-4757967.html) - 10:00 14/06/2024
 - 🦅 [Điểm du lịch nổi tiếng Trung Quốc &#39;bấm giờ&#39; trong nhà vệ sinh](https://vnexpress.net/diem-du-lich-noi-tieng-trung-quoc-bam-gio-trong-nha-ve-sinh-4758126.html) - 07:29 14/06/2024
 - 🕴 [Tín đồ du lịch hào hứng chọn bay hạng thương gia Vietjet](https://vnexpress.net/tin-do-du-lich-hao-hung-chon-bay-hang-thuong-gia-vietjet-4758293.html) - 05:30 14/06/2024
