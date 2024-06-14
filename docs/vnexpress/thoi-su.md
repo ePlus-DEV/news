@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Người phụ nữ bị nước cuốn xuống cống mất tích](https://vnexpress.net/nguoi-phu-nu-bi-nuoc-cuon-xuong-cong-mat-tich-4758489.html) - 14:15 14/06/2024
-- 🤓 [Bộ trưởng GTVT bác tin &#39;lúa chết do dùng cát biển làm cao tốc&#39;](https://vnexpress.net/bo-truong-gtvt-bac-tin-lua-chet-do-dung-cat-bien-lam-cao-toc-4758474.html) - 13:20 14/06/2024
+- 🤓 [Bộ trưởng Nguyễn Văn Thắng bác tin &#39;lúa chết do dùng cát biển làm cao tốc&#39;](https://vnexpress.net/bo-truong-nguyen-van-thang-bac-tin-lua-chet-do-dung-cat-bien-lam-cao-toc-4758474.html) - 13:20 14/06/2024
 - ⚗️ [Tài xế bị điện phóng tử vong](https://vnexpress.net/tai-xe-bi-dien-phong-tu-vong-4758391.html) - 10:59 14/06/2024
 - 🌊 [Đón 25-28 triệu lượt khách quốc tế vào năm 2025](https://vnexpress.net/don-25-28-trieu-luot-khach-quoc-te-vao-nam-2025-4758442.html) - 10:47 14/06/2024
 - 🎓 [Vợ hai liệt sĩ hy sinh trong vụ khủng bố ở Đăk Lăk được tuyển dụng](https://vnexpress.net/vo-hai-liet-si-hy-sinh-trong-vu-khung-bo-o-dak-lak-duoc-tuyen-dung-4758429.html) - 09:59 14/06/2024
