@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Dỡ biệt thự nhường đất cho cao tốc](https://vnexpress.net/do-biet-thu-nhuong-dat-cho-cao-toc-4757896.html) - 22:30 13/06/2024
 - ⚗️ [Nguyên mẫu trong bài thơ &#39;Núi đôi&#39; được đề xuất đặt tên đường](https://vnexpress.net/nguyen-mau-trong-bai-tho-nui-doi-duoc-de-xuat-dat-ten-duong-4758071.html) - 17:00 13/06/2024
 - 🌊 [&#39;Không chấm dứt được tình trạng rút BHXH với phương án cho nhận 50%&#39;](https://vnexpress.net/khong-cham-dut-duoc-tinh-trang-rut-bhxh-voi-phuong-an-cho-nhan-50-4758035.html) - 17:00 13/06/2024
-- 🎓 [Ông Lương Cường: &#39;Kỷ luật phải nghiêm minh, trên tinh thần nhân văn&#39;](https://vnexpress.net/ong-luong-cuong-ky-luat-phai-nghiem-minh-tren-tinh-than-nhan-van-4758062.html) - 15:25 13/06/2024
+- 🎓 [Ông Lương Cường: Kỷ luật phải trên tinh thần &#39;trị bệnh cứu người&#39;](https://vnexpress.net/ong-luong-cuong-ky-luat-phai-tren-tinh-than-tri-benh-cuu-nguoi-4758062.html) - 15:25 13/06/2024
 - 🔥 [14 tỉnh thành miền Bắc nắng nóng trên 37 độ C](https://vnexpress.net/14-tinh-thanh-mien-bac-nang-nong-tren-37-do-c-4758050.html) - 14:34 13/06/2024
 - 🦏 [Nhiệm vụ của bốn Phó thủ tướng](https://vnexpress.net/nhiem-vu-cua-bon-pho-thu-tuong-4758026.html) - 11:51 13/06/2024
 - 👺 [Dao có tính sát thương cao sẽ được quản lý theo ba cấp độ](https://vnexpress.net/dao-co-tinh-sat-thuong-cao-se-duoc-quan-ly-theo-ba-cap-do-4757955.html) - 09:25 13/06/2024
