@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Tài xế bị điện phóng tử vong](https://vnexpress.net/tai-xe-bi-dien-phong-tu-vong-4758391.html) - 10:59 14/06/2024
-- 🤓 [Phấn đấu đón 25-28 triệu lượt khách quốc tế vào năm 2030](https://vnexpress.net/phan-dau-don-25-28-trieu-luot-khach-quoc-te-vao-nam-2030-4758442.html) - 10:47 14/06/2024
+- 🤓 [Đón 25-28 triệu lượt khách quốc tế vào năm 2025](https://vnexpress.net/don-25-28-trieu-luot-khach-quoc-te-vao-nam-2025-4758442.html) - 10:47 14/06/2024
 - ⚗️ [Vợ hai liệt sĩ hy sinh trong vụ khủng bố ở Đăk Lăk được tuyển dụng](https://vnexpress.net/vo-hai-liet-si-hy-sinh-trong-vu-khung-bo-o-dak-lak-duoc-tuyen-dung-4758429.html) - 09:59 14/06/2024
 - 🌊 [Cây đổ, đường ngập ở trung tâm TP HCM](https://vnexpress.net/cay-do-duong-ngap-o-trung-tam-tp-hcm-4758426.html) - 09:49 14/06/2024
 - 🎓 [Số lao động rút bảo hiểm xã hội một lần tăng](https://vnexpress.net/so-lao-dong-rut-bao-hiem-xa-hoi-mot-lan-tang-4758362.html) - 09:20 14/06/2024
