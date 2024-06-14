@@ -5,7 +5,7 @@ sidebar_position: 6
 
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Lý do giới trẻ chọn xe công nghệ vào giờ cao điểm](https://vnexpress.net/ly-do-gioi-tre-chon-xe-cong-nghe-vao-gio-cao-diem-4757988.html) - 01:00 14/06/2024
-- 🎓 [Tranh cãi đại học có phải đường duy nhất để vào đời](https://vnexpress.net/tranh-cai-dai-hoc-co-phai-duong-duy-nhat-de-vao-doi-4758000.html) - 23:30 13/06/2024
+- 🎓 [Tranh cãi &#39;có nhất thiết phải vào đại học&#39;](https://vnexpress.net/tranh-cai-co-nhat-thiet-phai-vao-dai-hoc-4758000.html) - 23:30 13/06/2024
 - 🚦 [Người Hà Nội rủ nhau đi cà phê ruộng](https://vnexpress.net/nguoi-ha-noi-ru-nhau-di-ca-phe-ruong-4758017.html) - 23:00 13/06/2024
 - 🦣 [Buổi hẹn hò của giới siêu giàu Trung Quốc](https://vnexpress.net/buoi-hen-ho-cua-gioi-sieu-giau-trung-quoc-4757654.html) - 23:00 13/06/2024
 - 🎓 [Ba hiểu lầm khi dùng điều hòa cho trẻ](https://vnexpress.net/ba-hieu-lam-khi-dung-dieu-hoa-cho-tre-4758015.html) - 12:00 13/06/2024
