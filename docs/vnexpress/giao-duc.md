@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Thanh Hóa từng có tên gọi nào khác?](https://vnexpress.net/thanh-hoa-tung-co-ten-goi-nao-khac-4757148.html) - 13:56 14/06/2024
 - 🦆 [Australia tiếp tục siết thị thực du học](https://vnexpress.net/australia-tiep-tuc-siet-thi-thuc-du-hoc-4757794.html) - 13:39 14/06/2024
-- 🦩 [Hành trình đến huy chương vàng Vật lý châu Á của nam sinh Bắc Giang](https://vnexpress.net/hanh-trinh-den-huy-chuong-vang-vat-ly-chau-a-cua-nam-sinh-bac-giang-4758208.html) - 12:00 14/06/2024
+- 🦩 [Đường đến huy chương vàng Vật lý châu Á của nam sinh Bắc Giang](https://vnexpress.net/duong-den-huy-chuong-vang-vat-ly-chau-a-cua-nam-sinh-bac-giang-4758208.html) - 12:00 14/06/2024
 - 🌮 [Đại học Ngoại thương công bố điểm chuẩn xét tuyển sớm](https://vnexpress.net/diem-chuan-hoc-ba-chung-chi-dai-hoc-ngoai-thuong-2024-4758445.html) - 10:56 14/06/2024
 - 🔭 [Điểm chuẩn lớp 10 chuyên Ngoại ngữ cao nhất 25,12](https://vnexpress.net/diem-chuan-lop-10-chuyen-ngoai-ngu-nam-2024-4758341.html) - 09:46 14/06/2024
 - 💡 [Quy trình chấm bài thi Toán, Văn lớp 10 của Hà Nội](https://vnexpress.net/quy-trinh-cham-bai-thi-toan-van-lop-10-cua-ha-noi-4757064.html) - 08:16 14/06/2024
