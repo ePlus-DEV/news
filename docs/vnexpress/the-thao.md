@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [10 ngôi sao thi đấu kỳ Euro cuối cùng](https://vnexpress.net/10-ngoi-sao-thi-dau-ky-euro-cuoi-cung-4758089.html) - 07:42 14/06/2024
 - 🧰 [Đức hạn chế nồng độ cồn đối với CĐV Anh](https://vnexpress.net/duc-han-che-nong-do-con-doi-voi-cdv-anh-4758020.html) - 07:42 14/06/2024
 - 🤗 [10 nhà vô địch các mùa VnExpress Marathon Quy Nhơn](https://vnexpress.net/10-nha-vo-dich-cac-mua-vnexpress-marathon-quy-nhon-4757913.html) - 04:30 14/06/2024
-- 🥳 [Euro ngày 14/6: Pháp mất loạt cầu thủ vì bị ốm](https://vnexpress.net/euro-ngay-14-6-4758256.html) - 04:30 14/06/2024
+- 🥳 [Euro ngày 14/6: Giải châu Âu được coi khó hơn World Cup](https://vnexpress.net/euro-ngay-14-6-4758256.html) - 04:30 14/06/2024
 - 🦣 [Những thị phi trong chạy bộ](https://vnexpress.net/nhung-thi-phi-trong-chay-bo-4758263.html) - 04:15 14/06/2024
 - 🌜 [VnExpress ra mắt chuyên trang Euro 2024 trên đa nền tảng](https://vnexpress.net/vnexpress-ra-mat-chuyen-trang-euro-2024-tren-da-nen-tang-4758107.html) - 02:30 14/06/2024
 - 🫶 [Những thống kê duyên nợ ở Euro 2024](https://vnexpress.net/nhung-thong-ke-duyen-no-o-euro-2024-4758087.html) - 02:26 14/06/2024
