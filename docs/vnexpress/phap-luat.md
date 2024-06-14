@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Tình bạn 12 năm sinh tử của sĩ quan cảnh sát và chú chó nghiệp vụ](https://vnexpress.net/tinh-ban-12-nam-sinh-tu-cua-si-quan-canh-sat-va-chu-cho-nghiep-vu-4757442.html) - 17:00 13/06/2024
 - 🥰 [Kẻ lừa người nhiễm HIV đi Australia điều trị bị phạt án chung thân](https://vnexpress.net/ke-lua-nguoi-nhiem-hiv-di-australia-dieu-tri-bi-phat-an-chung-than-4758036.html) - 17:00 13/06/2024
 - 🎓 [Thi thể phụ nữ nước ngoài trong căn hộ](https://vnexpress.net/thi-the-phu-nu-nuoc-ngoai-trong-can-ho-4758070.html) - 15:42 13/06/2024
-- 🤓 [Thầy bói bị phạt 11 năm tù vì lừa làm lễ cúng giải hạn](https://vnexpress.net/thay-boi-bi-phat-11-nam-tu-vi-du-lam-le-cung-giai-vong-giai-han-4757966.html) - 09:59 13/06/2024
+- 🤓 [Cô đồng giăng bẫy lừa cúng giải vong, giải hạn](https://vnexpress.net/thay-boi-bi-phat-11-nam-tu-vi-du-lam-le-cung-giai-vong-giai-han-4757966.html) - 09:59 13/06/2024
 - 🎊 [Hoa hậu Lê Hoàng Phương &#39;có lỗi&#39; trong vai trò đại sứ thương hiệu](https://vnexpress.net/hoa-hau-le-hoang-phuong-co-loi-trong-vai-tro-dai-su-thuong-hieu-4757948.html) - 09:10 13/06/2024
 - 🙉 [Nổ súng vào tiệm spa để dằn mặt](https://vnexpress.net/no-sung-vao-tiem-spa-de-dan-mat-4757891.html) - 07:19 13/06/2024
 - 🤡 [Bộ Quốc phòng tìm khách hàng mua đất dự án của Tập đoàn Phúc Sơn](https://vnexpress.net/bo-quoc-phong-tim-khach-hang-mua-dat-du-an-cua-tap-doan-phuc-son-4757756.html) - 04:31 13/06/2024
