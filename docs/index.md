@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Tây Ban Nha thắng trận đầu bảng &#39;tử thần&#39;](https://vnexpress.net/tay-ban-nha-thang-tran-dau-bang-tu-than-4758776.html) - 18:33 15/06/2024
+- 🚀 [Tây Ban Nha thắng trận đầu bảng &#39;tử thần&#39; Euro](https://vnexpress.net/tay-ban-nha-thang-tran-dau-bang-tu-than-euro-4758776.html) - 18:33 15/06/2024
 - 🧰 [Vốn 400 triệu đồng, có nên vay ngân hàng 1,1 tỷ xây nhà?](https://vnexpress.net/von-400-trieu-dong-co-nen-vay-ngan-hang-1-1-ty-xay-nha-4758606.html) - 18:11 15/06/2024
 - 🥰 [Xem xét thí điểm thuê CEO ngoại cho doanh nghiệp nhà nước](https://vnexpress.net/xem-xet-thi-diem-thue-ceo-ngoai-cho-doanh-nghiep-nha-nuoc-4758773.html) - 18:08 15/06/2024
 - 🌏 [Căn hộ 50 năm tuổi không dùng cửa ngăn phòng](https://vnexpress.net/can-ho-50-nam-tuoi-khong-dung-cua-ngan-phong-4758748.html) - 18:03 15/06/2024
