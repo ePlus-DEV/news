@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Bình Nhưỡng bị nghi xây đường, dựng tường ở biên giới liên Triều](https://vnexpress.net/binh-nhuong-bi-nghi-xay-duong-dung-tuong-o-bien-gioi-lien-trieu-4758727.html) - 12:42 15/06/2024
+- 🎭 [Triều Tiên bị nghi xây đường, dựng tường ở biên giới với Hàn Quốc](https://vnexpress.net/trieu-tien-bi-nghi-xay-duong-dung-tuong-o-bien-gioi-voi-han-quoc-4758727.html) - 12:42 15/06/2024
 - 🕴 [Honduras công bố kế hoạch xây &#39;siêu nhà tù&#39;](https://vnexpress.net/honduras-cong-bo-ke-hoach-xay-sieu-nha-tu-4758699.html) - 12:00 15/06/2024
 - 🤭 [Ông Macron có thể sai lầm trong ván cược với phe cực hữu](https://vnexpress.net/ong-macron-co-the-sai-lam-trong-van-cuoc-voi-phe-cuc-huu-4758549.html) - 12:00 15/06/2024
 - 🧑‍💻 [Thụy Điển tố cường kích Nga xâm phạm không phận](https://vnexpress.net/thuy-dien-to-cuong-kich-nga-xam-pham-khong-phan-4758707.html) - 11:05 15/06/2024
