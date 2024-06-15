@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Bốn nguyên Chủ tịch tỉnh bị cảnh cáo](https://vnexpress.net/bon-nguyen-chu-tich-tinh-bi-canh-cao-4758649.html) - 05:32 15/06/2024
 - 🤓 [Đề nghị kỷ luật Phó ban Nội chính Trung ương Nguyễn Văn Yên](https://vnexpress.net/de-nghi-ky-luat-pho-ban-noi-chinh-trung-uong-nguyen-van-yen-4758642.html) - 04:57 15/06/2024
-- ⚗️ [Hàng loạt nguyên lãnh đạo Bộ Tài chính bị kỷ luật](https://vnexpress.net/hang-loat-nguyen-lanh-dao-bo-tai-chinh-bi-ky-luat-4758641.html) - 04:54 15/06/2024
+- ⚗️ [Hàng loạt nguyên lãnh đạo Bộ Tài chính bị kỷ luật, đề nghị kỷ luật](https://vnexpress.net/hang-loat-nguyen-lanh-dao-bo-tai-chinh-bi-ky-luat-de-nghi-ky-luat-4758641.html) - 04:54 15/06/2024
 - 🌊 [Nhiều hồ thủy điện xả đón lũ](https://vnexpress.net/nhieu-ho-thuy-dien-xa-don-lu-4758580.html) - 04:11 15/06/2024
 - 🎓 [Người dân dỡ nhà, giao đất mở rộng đường cửa ngõ TP HCM](https://vnexpress.net/nguoi-dan-do-nha-giao-dat-mo-rong-duong-cua-ngo-tp-hcm-4758021.html) - 01:15 15/06/2024
 - 🔥 [TP HCM chỉnh trang quảng trường trước chợ Bến Thành từ tháng 10](https://vnexpress.net/tp-hcm-chinh-trang-quang-truong-truoc-cho-ben-thanh-tu-thang-10-4758459.html) - 17:00 14/06/2024
