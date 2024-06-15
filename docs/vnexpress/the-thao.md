@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Tây Ban Nha thắng trận đầu bảng &#39;tử thần&#39;](https://vnexpress.net/tay-ban-nha-thang-tran-dau-bang-tu-than-4758776.html) - 18:33 15/06/2024
+- 🪜 [Tây Ban Nha thắng trận đầu bảng &#39;tử thần&#39; Euro](https://vnexpress.net/tay-ban-nha-thang-tran-dau-bang-tu-than-euro-4758776.html) - 18:33 15/06/2024
 - 🦩 [Cơ thủ Bao Phương Vinh thất bại ở chung kết World Cup](https://vnexpress.net/co-thu-bao-phuong-vinh-that-bai-o-chung-ket-world-cup-4758764.html) - 17:00 15/06/2024
 - 🧰 [Hungary thảm bại trong ngày Szoboszlai đi vào lịch sử Euro](https://vnexpress.net/hungary-tham-bai-trong-ngay-szoboszlai-di-vao-lich-su-euro-4758767.html) - 15:56 15/06/2024
 - 🤗 [Rafealson cứu Nam Định thoát thua TP HCM](https://vnexpress.net/rafealson-cuu-nam-dinh-thoat-thua-tp-hcm-4758754.html) - 15:17 15/06/2024
