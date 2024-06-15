@@ -214,7 +214,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🗽 [Đội tuyển Đức lập 7 kỉ lục ngay trận ra quân EURO 2024](https://laodong.vn/bong-da-quoc-te/doi-tuyen-duc-lap-7-ki-luc-ngay-tran-ra-quan-euro-2024-1353514.ldo) - 16:06 15/06/2024
 - 📝 [Video bóng đá TPHCM - Nam Định: 1-1 &lpar;Vòng 23 V.League&rpar;](https://laodong.vn/ban-tin/video-bong-da-tphcm-nam-dinh-1-1-vong-23-vleague-1353513.ldo) - 16:05 15/06/2024
 - 🦏 [Video bóng đá Hồng Lĩnh Hà Tĩnh - Thể Công Viettel: 1-1 &lpar;Vòng 23 V.League&rpar;](https://laodong.vn/ban-tin/video-bong-da-hong-linh-ha-tinh-the-cong-viettel-1-1-vong-23-vleague-1353508.ldo) - 15:53 15/06/2024
-- 🦩 [Trực tiếp Tây Ban Nha 3-0 Croatia: Dani Carvajal ghi bàn thứ ba](https://laodong.vn/bong-da-quoc-te/truc-tiep-tay-ban-nha-3-0-croatia-dani-carvajal-ghi-ban-thu-ba-1353504.ldo) - 15:36 15/06/2024
+- 🦩 [Trực tiếp Tây Ban Nha 3-0 Croatia: Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-tay-ban-nha-3-0-croatia-hiep-2-1353504.ldo) - 15:36 15/06/2024
 - 🦏 [Mưa đá lần đầu xuất hiện tại Cần Thơ khiến người dân bất ngờ](https://laodong.vn/ban-tin/mua-da-lan-dau-xuat-hien-tai-can-tho-khien-nguoi-dan-bat-ngo-1353505.ldo) - 15:32 15/06/2024
 - 🧰 [Điểm chuẩn xét tuyển sớm vào Học viện Ngân hàng năm 2024](https://laodong.vn/giao-duc/diem-chuan-xet-tuyen-som-vao-hoc-vien-ngan-hang-nam-2024-1353502.ldo) - 15:07 15/06/2024
 - 🌊 [Cần Thơ lần đầu tiên xuất hiện mưa đá, dông lốc, nhiều căn nhà bị tốc mái](https://laodong.vn/xa-hoi/can-tho-lan-dau-tien-xuat-hien-mua-da-dong-loc-nhieu-can-nha-bi-toc-mai-1353495.ldo) - 15:03 15/06/2024
