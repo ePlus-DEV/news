@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [TP HCM chỉnh trang quảng trường trước chợ Bến Thành từ tháng 10](https://vnexpress.net/tp-hcm-chinh-trang-quang-truong-truoc-cho-ben-thanh-tu-thang-10-4758459.html) - 17:00 14/06/2024
 - ⚗️ [Giá cát mua từ Campuchia đắt hơn trong nước 57%](https://vnexpress.net/gia-cat-mua-tu-campuchia-dat-hon-trong-nuoc-57-4758421.html) - 17:00 14/06/2024
 - 🌊 [Đường đê Âu Cơ trước ngày khánh thành](https://vnexpress.net/duong-de-au-co-truoc-ngay-khanh-thanh-4758311.html) - 17:00 14/06/2024
-- 🎓 [Người phụ nữ bị nước cuốn xuống cống mất tích](https://vnexpress.net/nguoi-phu-nu-bi-nuoc-cuon-xuong-cong-mat-tich-4758489.html) - 14:15 14/06/2024
+- 🎓 [Người phụ nữ bị nước cuốn trôi xuống cống tử vong](https://vnexpress.net/nguoi-phu-nu-bi-nuoc-cuon-troi-xuong-cong-tu-vong-4758489.html) - 14:15 14/06/2024
 - 🔥 [Bộ trưởng Nguyễn Văn Thắng bác tin &#39;lúa chết do dùng cát biển làm cao tốc&#39;](https://vnexpress.net/bo-truong-nguyen-van-thang-bac-tin-lua-chet-do-dung-cat-bien-lam-cao-toc-4758474.html) - 13:20 14/06/2024
 - 🦏 [Tài xế bị điện phóng tử vong](https://vnexpress.net/tai-xe-bi-dien-phong-tu-vong-4758391.html) - 10:59 14/06/2024
 - 👺 [Đón 25-28 triệu lượt khách quốc tế vào năm 2025](https://vnexpress.net/don-25-28-trieu-luot-khach-quoc-te-vao-nam-2025-4758442.html) - 10:47 14/06/2024
