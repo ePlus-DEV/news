@@ -213,7 +213,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp Italy 2-1 Albania: Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-italy-2-1-albania-hiep-2-1353518.ldo) - 18:00 15/06/2024
+- 🗽 [Tuyển Italy ngược dòng trước Albania ở trận đấu có bàn thắng ngay giây thứ 23](https://laodong.vn/bong-da-quoc-te/tuyen-italy-nguoc-dong-truoc-albania-o-tran-dau-co-ban-thang-ngay-giay-thu-23-1353518.ldo) - 18:00 15/06/2024
 - 📝 [Đội tuyển Đức lập 7 kỉ lục ngay trận ra quân EURO 2024](https://laodong.vn/bong-da-quoc-te/doi-tuyen-duc-lap-7-ki-luc-ngay-tran-ra-quan-euro-2024-1353514.ldo) - 16:06 15/06/2024
 - 🦏 [Video bóng đá TPHCM - Nam Định: 1-1 &lpar;Vòng 23 V.League&rpar;](https://laodong.vn/ban-tin/video-bong-da-tphcm-nam-dinh-1-1-vong-23-vleague-1353513.ldo) - 16:05 15/06/2024
 - 🦩 [Video bóng đá Hồng Lĩnh Hà Tĩnh - Thể Công Viettel: 1-1 &lpar;Vòng 23 V.League&rpar;](https://laodong.vn/ban-tin/video-bong-da-hong-linh-ha-tinh-the-cong-viettel-1-1-vong-23-vleague-1353508.ldo) - 15:53 15/06/2024
