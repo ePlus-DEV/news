@@ -254,7 +254,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Đã Nẵng: Hai “Tuyệt tác thiên nhiên” đến từ đội pháo hoa Mỹ và Ý](https://nld.com.vn/da-nang-hai-tuyet-tac-thien-nhien-den-tu-doi-phao-hoa-my-va-y-196240615220716205.htm) - 15:24 15/06/2024
+- 🐎 [Đà 
+Nẵng: Hai “Tuyệt tác thiên nhiên” đến từ đội pháo hoa Mỹ và Ý](https://nld.com.vn/da-nang-hai-tuyet-tac-thien-nhien-den-tu-doi-phao-hoa-my-va-y-196240615220716205.htm) - 15:24 15/06/2024
 - 😺 [Euro 2024: Ngược dòng bất thành, Hungary thua Thụy Sĩ đầy tiếc nuối](https://nld.com.vn/euro-2024-nguoc-dong-bat-thanh-hungary-thua-thuy-si-day-tiec-nuoi-196240615222243618.htm) - 15:23 15/06/2024
 - 👍 [Dòng người nườm nượp đổ về Lái Thiêu “săn” đặc sản](https://nld.com.vn/dong-nguoi-nuom-nuop-do-ve-lai-thieu-san-dac-san-196240615220700004.htm) - 15:19 15/06/2024
 - 🥷 [TP HCM giữ lại 1 điểm trước đội đầu bảng Nam Định](https://nld.com.vn/tp-hcm-giu-lai-1-diem-truoc-doi-dau-bang-nam-dinh-196240615213933251.htm) - 15:00 15/06/2024
