@@ -254,7 +254,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Bình Định công bố điểm chuẩn vào lớp 10 các trường THPT công lập](https://nld.com.vn/binh-dinh-cong-bo-diem-chuan-vao-lop-10-cac-truong-thpt-cong-lap-196240616152545011.htm) - 08:36 16/06/2024
-- 😺 [Nhiều người dĩnh bẫy lừa đảo trực tuyến](https://nld.com.vn/nhieu-nguoi-dinh-bay-lua-dao-truc-tuyen-196240616151154181.htm) - 08:32 16/06/2024
+- 😺 [Nhiều người dính bẫy lừa đảo trực tuyến](https://nld.com.vn/nhieu-nguoi-dinh-bay-lua-dao-truc-tuyen-196240616151154181.htm) - 08:32 16/06/2024
 - 👍 [Chứng khoán tuần tới &lpar;từ 17 đến 21-6&rpar;: Bán tháo hay mua gom cổ phiếu?](https://nld.com.vn/chung-khoan-tuan-toi-tu-17-den-21-6-ban-thao-hay-mua-gom-co-phieu-196240616135917697.htm) - 08:31 16/06/2024
 - 🥷 [Nắng nóng đặc biệt gay gắt trải dài trên cả nước](https://nld.com.vn/nang-nong-dac-biet-gay-gat-trai-dai-tren-ca-nuoc-196240616151502914.htm) - 08:26 16/06/2024
 - 🤔 [Tổng Bí thư Nguyễn PhúTrọng, Chủ tịch nước Tô Lâm trao đổi thư mừng với Tổng thống Putin](https://nld.com.vn/tong-bi-thu-nguyen-phutrong-chu-tich-nuoc-to-lam-trao-doi-thu-mung-voi-tong-thong-putin-196240616150207959.htm) - 08:10 16/06/2024
