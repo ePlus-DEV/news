@@ -222,7 +222,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💪 [Thủ tướng: Chuyển đổi số là công cụ quan trọng để hỗ trợ thực thi công lý](https://laodong.vn/thoi-su/thu-tuong-chuyen-doi-so-la-cong-cu-quan-trong-de-ho-tro-thuc-thi-cong-ly-1353788.ldo) - 13:30 16/06/2024
 - 👍 [Xử lý tình trạng ăn xin, người lang thang trên địa bàn TPHCM](https://laodong.vn/video/xu-ly-tinh-trang-an-xin-nguoi-lang-thang-tren-dia-ban-tphcm-1353678.ldo) - 13:15 16/06/2024
 - 💂 [Hà Nội FC tặng kem cho cổ động viên nhân dịp kỷ niệm 18 năm thành lập đội bóng](https://laodong.vn/ban-tin/ha-noi-fc-tang-kem-cho-co-dong-vien-nhan-dip-ky-niem-18-nam-thanh-lap-doi-bong-1353834.ldo) - 13:05 16/06/2024
-- 🧰 [Cháy nhà cao tầng ở Hà Nội trong cơn mưa lớn](https://laodong.vn/xa-hoi/chay-nha-cao-tang-o-ha-noi-trong-con-mua-lon-1353838.ldo) - 13:04 16/06/2024
+- 🧰 [Cháy nhà cao tầng ở Hà Nội, nhiều nạn nhân được đưa đến bệnh viện](https://laodong.vn/xa-hoi/chay-nha-cao-tang-o-ha-noi-nhieu-nan-nhan-duoc-dua-den-benh-vien-1353838.ldo) - 13:04 16/06/2024
 - 🥷 [Đâm xe máy xuống mương nước, nam thanh niên ở Nam Định tử vong](https://laodong.vn/xa-hoi/dam-xe-may-xuong-muong-nuoc-nam-thanh-nien-o-nam-dinh-tu-vong-1353827.ldo) - 13:02 16/06/2024
 - 💫 [Tin 20h: Kỳ vọng chính sách cải cách tiền lương thực thi đúng lộ trình](https://laodong.vn/video-xa-hoi/tin-20h-ky-vong-chinh-sach-cai-cach-tien-luong-thuc-thi-dung-lo-trinh-1353816.ldo) - 13:00 16/06/2024
 - 🎭 [Chuyển giao Công đoàn cơ sở](https://laodong.vn/ldld-tphn/chuyen-giao-cong-doan-co-so-1353698.ldo) - 13:00 16/06/2024
