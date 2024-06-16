@@ -230,7 +230,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💄 [Kiểm tra tiệm tạp hóa, phát hiện nhiều loại ma túy](https://laodong.vn/phap-luat/kiem-tra-tiem-tap-hoa-phat-hien-nhieu-loai-ma-tuy-1353829.ldo) - 12:48 16/06/2024
 - 🫣 [Bản tin dự báo thời tiết đêm nay và ngày mai 17.6](https://laodong.vn/video-xa-hoi/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-176-1353784.ldo) - 12:30 16/06/2024
 - 🧑‍🏫 [Thịt lợn trên bàn ăn của người Đức](https://laodong.vn/lao-dong-cuoi-tuan/thit-lon-tren-ban-an-cua-nguoi-duc-1352935.ldo) - 12:30 16/06/2024
-- 🦣 [Trực tiếp Ba Lan 1-2 Hà Lan: Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-ba-lan-1-2-ha-lan-hiep-2-1353826.ldo) - 12:26 16/06/2024
+- 🦣 [Tuyển Hà Lan thắng ngược Ba Lan trận ra quân EURO 2024](https://laodong.vn/bong-da-quoc-te/tuyen-ha-lan-thang-nguoc-ba-lan-tran-ra-quan-euro-2024-1353826.ldo) - 12:26 16/06/2024
 - 💫 [Tra cứu điểm thi, điểm chuẩn vào lớp 10 tỉnh Bình Dương](https://laodong.vn/giao-duc/tra-cuu-diem-thi-diem-chuan-vao-lop-10-tinh-binh-duong-1353828.ldo) - 12:21 16/06/2024
 - ⛽️ [Lí do đi bộ đường dài giúp giảm mỡ và giảm cân nhanh chóng](https://laodong.vn/suc-khoe/li-do-di-bo-duong-dai-giup-giam-mo-va-giam-can-nhanh-chong-1353804.ldo) - 12:09 16/06/2024
 - 💫 [Sau 2 năm vắng bóng, viêm não Nhật Bản tái xuất, nguy hiểm ra sao?](https://laodong.vn/y-te/sau-2-nam-vang-bong-viem-nao-nhat-ban-tai-xuat-nguy-hiem-ra-sao-1353824.ldo) - 12:08 16/06/2024
