@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Euro ngày 16/6: Khán giả đòi làm bài tập giúp Yamal](https://vnexpress.net/euro-ngay-16-6-4758828.html) - 04:00 16/06/2024
+- 🪜 [Euro ngày 16/6: Tuyển Italy hát quốc ca &#39;sởn gai ốc&#39;](https://vnexpress.net/euro-ngay-16-6-4758828.html) - 04:00 16/06/2024
 - 🦩 [Messi: &#39;Không có gì dễ dàng với Argentina&#39;](https://vnexpress.net/messi-khong-co-gi-de-dang-voi-argentina-4758854.html) - 03:43 16/06/2024
 - 🧰 [Koeman: &#39;Hà Lan là ứng viên vô địch Euro 2024&#39;](https://vnexpress.net/koeman-ha-lan-la-ung-vien-vo-dich-euro-2024-4757063.html) - 03:12 16/06/2024
 - 🤗 [Kane khát khao vô địch Euro 2024 sau khi trắng tay ở Bayern](https://vnexpress.net/kane-khat-khao-vo-dich-euro-2024-sau-khi-trang-tay-o-bayern-4758839.html) - 03:08 16/06/2024
