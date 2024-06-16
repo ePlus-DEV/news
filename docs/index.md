@@ -255,67 +255,67 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [NGHỆ SĨ ƯU TÚ - đạo diễn Hồ Ngọc Xum: Phim càng đơn giản, càng khó làm!](https://nld.com.vn/nghe-si-uu-tu-dao-dien-ho-ngoc-xum-phim-cang-don-gian-cang-kho-lam-19624061521101221.htm) - 01:10 16/06/2024
-- 😺 [Điểm nóng xung đột ngày 16-6: Ukraine hé lộ mục đích chính tại hội nghị Thụy Sĩ](https://nld.com.vn/diem-nong-xung-dot-ngay-16-6-ukraine-he-lo-muc-dich-chinh-tai-hoi-nghi-thuy-si-196240616075121357.htm) - 01:03 16/06/2024
-- 👍 [Động lực từ lương mới](https://nld.com.vn/dong-luc-tu-luong-moi-196240615200201625.htm) - 01:00 16/06/2024
-- 🥷 [Sôi động những dự án cao tốc lớn năm 2024](https://diaoc.nld.com.vn/soi-dong-nhung-du-an-cao-toc-lon-nam-2024-196240605095322463.htm) - 00:52 16/06/2024
-- 🤔 [Tại sao bạn thường lặp lại sai lầm?](https://phunu.nld.com.vn/tai-sao-ban-thuong-lap-lai-sai-lam-196240606105133604.htm) - 00:50 16/06/2024
-- 🌈 [Clip Euro 2024: Xem cách đội Ý vùng dậy sau bàn thua nhanh kỷ lục](https://nld.com.vn/clip-euro-2024-xem-cach-doi-y-vung-day-sau-ban-thua-nhanh-ky-luc-196240616071538222.htm) - 00:43 16/06/2024
-- 🔥 [Lên mạng lan tỏa điều hay](https://nld.com.vn/len-mang-lan-toa-dieu-hay-196240615201312007.htm) - 00:30 16/06/2024
-- 🧰 [Clip Euro 2024: Hungary thua đậm Thụy Sĩ, sao Liverpool lập kỷ lục](https://nld.com.vn/clip-euro-2024-hungary-thua-dam-thuy-si-sao-liverpool-lap-ky-luc-196240616070107513.htm) - 00:17 16/06/2024
-- 🤗 [Họ không để phí những ngày hè](https://nld.com.vn/ho-khong-de-phi-nhung-ngay-he-196240615210048434.htm) - 00:10 16/06/2024
-- 🦅 [Kỳ vọng vào cải cách tiền lương](https://nld.com.vn/ky-vong-vao-cai-cach-tien-luong-196240615200116748.htm) - 00:00 16/06/2024
-- 🤩 [Trung Quốc - EU tranh cãi thương mại](https://nld.com.vn/trung-quoc-eu-tranh-cai-thuong-mai-19624061520582518.htm) - 23:50 15/06/2024
-- 🎭 [Clip Euro 2024: Xem lại 3 bàn thắng Tây Ban Nha hạ gục Croatia](https://nld.com.vn/clip-euro-2024-xem-lai-3-ban-thang-tay-ban-nha-ha-guc-croatia-196240616064445267.htm) - 23:44 15/06/2024
-- 💄 [Nhiều giải pháp gỡ khó cho ngành vật liệu xây dựng](https://nld.com.vn/nhieu-giai-phap-go-kho-cho-nganh-vat-lieu-xay-dung-196240615211259507.htm) - 23:41 15/06/2024
-- 🎊 [Euro 2024: Ý ngược dòng thắng Albania sau bàn thua nhanh nhất lịch sử](https://nld.com.vn/euro-2024-y-nguoc-dong-thang-albania-sau-ban-thua-nhanh-nhat-lich-su-196240616063237631.htm) - 23:33 15/06/2024
-- 🎡 [Nhớ một thời xây đảo](https://nld.com.vn/nho-mot-thoi-xay-dao-196240615181900781.htm) - 23:30 15/06/2024
-- 🎉 [Chuyên gia ĐOÀN MINH XƯƠNG: Cảm ơn đội Đức!](https://nld.com.vn/chuyen-gia-doan-minh-xuong-cam-on-doi-duc-196240615211456608.htm) - 23:22 15/06/2024
-- 😺 [Kiến tạo môi trường làm việc hạnh phúc](https://nld.com.vn/kien-tao-moi-truong-lam-viec-hanh-phuc-196240615180354965.htm) - 23:10 15/06/2024
-- 🐻 [Thèm lắm hơi ấm và tiếng thỏ thẻ...](https://nld.com.vn/them-lam-hoi-am-va-tieng-tho-the-196240615200258963.htm) - 23:00 15/06/2024
-- 🤡 [Vietsovpetro hạ thủy thành công khối chân đế giàn CPP-Kình Ngư Trắng](https://nld.com.vn/vietsovpetro-ha-thuy-thanh-cong-khoi-chan-de-gian-cpp-kinh-ngu-trang-196240615182041982.htm) - 22:30 15/06/2024
-- 🚦 [Bản tin sáng 16-6: Vì sao ông Đinh Tiến Dũng bị đề nghị xem xét kỷ luật?](https://nld.com.vn/ban-tin-sang-16-6-vi-sao-ong-dinh-tien-dung-bi-de-nghi-xem-xet-ky-luat-196240615221148114.htm) - 22:09 15/06/2024
-- 🪜 [&quot;Săn&quot; tài khoản ngân hàng trùng tên để lừa đảo](https://nld.com.vn/san-tai-khoan-ngan-hang-trung-ten-de-lua-dao-196240615201457199.htm) - 22:00 15/06/2024
-- 💫 [Kỳ vĩ &quot;làng ngầm&quot; dưới lòng đất](https://nld.com.vn/ky-vi-lang-ngam-duoi-long-dat-196240611150321968.htm) - 22:00 15/06/2024
-- 🔭 [Xanh lại bản nghèo Tà Cóm](https://nld.com.vn/xanh-lai-ban-ngheo-ta-com-196240615183656951.htm) - 21:30 15/06/2024
-- 🌝 [Sống lâu hơn nhờ ăn các loài cá nhỏ](https://nld.com.vn/song-lau-hon-nho-an-cac-loai-ca-nho-196240615204840797.htm) - 21:09 15/06/2024
-- 💪 [Cảnh báo nguy hiểm &quot;sinh con thuận tự nhiên&quot;](https://nld.com.vn/canh-bao-nguy-hiem-sinh-con-thuan-tu-nhien-196240615204716454.htm) - 20:30 15/06/2024
-- 🦍 [Những &quot;hiệp sĩ&quot; cứu hộ trong đêm](https://nld.com.vn/nhung-hiep-si-cuu-ho-trong-dem-196240615193940581.htm) - 20:00 15/06/2024
-- 🥷 [Hãng xe nào có nhiều mẫu tiêu thụ chậm trong tháng 5-2024?](https://nld.com.vn/hang-xe-nao-co-nhieu-mau-tieu-thu-cham-trong-thang-5-2024-196240615205518794.htm) - 19:31 15/06/2024
-- 🫶 [Độc, lạ thế giới &quot;card bo góc&quot;](https://nld.com.vn/doc-la-the-gioi-card-bo-goc-196240615210513654.htm) - 19:00 15/06/2024
-- 🐻 [Croatia sụp đổ giữa hiệp 1, Tây Ban Nha thắng đậm 3 bàn](https://nld.com.vn/croatia-sup-do-giua-hiep-1-tay-ban-nha-thang-dam-3-ban-196240616013206867.htm) - 18:50 15/06/2024
-- 🐲 [Hết mình với violin](https://nld.com.vn/het-minh-voi-violin-196240615210302599.htm) - 18:30 15/06/2024
-- 🧑‍💻 [Chiếc ba-lô lạ ở fanzone Berlin](https://nld.com.vn/chiec-ba-lo-la-o-fanzone-berlin-19624061521252667.htm) - 17:30 15/06/2024
-- 🎬 [Thông tin đáng chú ý trên báo in Người Lao Động ngày 16-6](https://nld.com.vn/thong-tin-dang-chu-y-tren-bao-in-nguoi-lao-dong-ngay-16-6-196240615222918418.htm) - 17:06 15/06/2024
-- 👀 [CLIP: HLV Vũ Hồng Việt nói gì khi Nam Định lỡ cơ hội thắng trên sân Thống Nhất](https://nld.com.vn/clip-hlv-vu-hong-viet-noi-gi-khi-nam-dinh-lo-co-hoi-thang-tren-san-thong-nhat-196240615224101096.htm) - 15:52 15/06/2024
-- 👍 [Đà 
+- 🐎 [Bắt giữ vợ chồng vận chuyển 30kg ma tuý đá từ Lào về Việt Nam](https://nld.com.vn/bat-giu-vo-chong-van-chuyen-30kg-ma-tuy-da-tu-lao-ve-viet-nam-196240616085255225.htm) - 02:14 16/06/2024
+- 😺 [Cháy nhà trên phố lúc rạng sáng, 3 người tử vong](https://nld.com.vn/chay-nha-tren-pho-luc-rang-sang-3-nguoi-tu-vong-196240616090028306.htm) - 02:12 16/06/2024
+- 👍 [Hai năm nữa, người Trái Đất &quot;chạm đến&quot; hành tinh thứ 9?](https://nld.com.vn/hai-nam-nua-nguoi-trai-dat-cham-den-hanh-tinh-thu-9-196240616082515745.htm) - 02:12 16/06/2024
+- 🥷 [Giá vàng hôm nay 16-6: Biến động mạnh, khó đoán](https://nld.com.vn/gia-vang-hom-nay-16-6-bien-dong-manh-kho-doan-196240616085917102.htm) - 02:10 16/06/2024
+- 🤔 [Làm việc dưới trời nắng nóng, 2 người bị mất nước, suy thận cấp](https://nld.com.vn/lam-viec-duoi-troi-nang-nong-2-nguoi-bi-mat-nuoc-suy-than-cap-196240615213753166.htm) - 02:10 16/06/2024
+- 🌈 [Khói ấm](https://nld.com.vn/khoi-am-196240615182612375.htm) - 02:00 16/06/2024
+- 🔥 [Thời tiết Nam Bộ hôm nay và 5 ngày tới diễn biến ra sao?](https://nld.com.vn/thoi-tiet-nam-bo-hom-nay-va-5-ngay-toi-dien-bien-ra-sao-196240616020521696.htm) - 01:59 16/06/2024
+- 🧰 [Ai có lương thấp nhất sau cải cách tiền lương?](https://nld.com.vn/ai-co-luong-thap-nhat-sau-cai-cach-tien-luong-196240616083539076.htm) - 01:48 16/06/2024
+- 🤗 [Bị truy nã, người phụ nữ thay tên đổi họ lẩn trốn 27 năm](https://nld.com.vn/bi-truy-na-nguoi-phu-nu-thay-ten-doi-ho-lan-tron-27-nam-196240616083606203.htm) - 01:46 16/06/2024
+- 🦅 [Quân đội Israel trải qua &quot;ngày chết chóc nhất&quot; ở Gaza](https://nld.com.vn/quan-doi-israel-trai-qua-ngay-chet-choc-nhat-o-gaza-196240616075200618.htm) - 01:42 16/06/2024
+- 🤩 [Điện máy, công nghệ &quot;sống được&quot; nhờ bán hàng online](https://nld.com.vn/dien-may-cong-nghe-song-duoc-nho-ban-hang-online-196240615205344374.htm) - 01:40 16/06/2024
+- 🎭 [Trần Quyết Chiến chính thức xếp số 1 thế giới, Bao Phương Vinh về nhì World Cup Ankara](https://nld.com.vn/tran-quyet-chien-chinh-thuc-xep-so-1-the-gioi-bao-phuong-vinh-ve-nhi-world-cup-ankara-196240616082728761.htm) - 01:30 16/06/2024
+- 💄 [&quot;Lốc da cam&quot; sẽ cuốn bay &quot;Đại bàng trắng&quot;](https://nld.com.vn/loc-da-cam-se-cuon-bay-dai-bang-trang-196240615211240202.htm) - 01:24 16/06/2024
+- 🎊 [Thu hẹp khoảng cách thế hệ](https://nld.com.vn/thu-hep-khoang-cach-the-he-196240615201022547.htm) - 01:20 16/06/2024
+- 🎡 [NGHỆ SĨ ƯU TÚ - đạo diễn Hồ Ngọc Xum: Phim càng đơn giản, càng khó làm!](https://nld.com.vn/nghe-si-uu-tu-dao-dien-ho-ngoc-xum-phim-cang-don-gian-cang-kho-lam-19624061521101221.htm) - 01:10 16/06/2024
+- 🎉 [Điểm nóng xung đột ngày 16-6: Ukraine hé lộ mục đích chính tại hội nghị Thụy Sĩ](https://nld.com.vn/diem-nong-xung-dot-ngay-16-6-ukraine-he-lo-muc-dich-chinh-tai-hoi-nghi-thuy-si-196240616075121357.htm) - 01:03 16/06/2024
+- 😺 [Động lực từ lương mới](https://nld.com.vn/dong-luc-tu-luong-moi-196240615200201625.htm) - 01:00 16/06/2024
+- 🐻 [Sôi động những dự án cao tốc lớn năm 2024](https://diaoc.nld.com.vn/soi-dong-nhung-du-an-cao-toc-lon-nam-2024-196240605095322463.htm) - 00:52 16/06/2024
+- 🤡 [Tại sao bạn thường lặp lại sai lầm?](https://phunu.nld.com.vn/tai-sao-ban-thuong-lap-lai-sai-lam-196240606105133604.htm) - 00:50 16/06/2024
+- 🚦 [Clip Euro 2024: Xem cách đội Ý vùng dậy sau bàn thua nhanh kỷ lục](https://nld.com.vn/clip-euro-2024-xem-cach-doi-y-vung-day-sau-ban-thua-nhanh-ky-luc-196240616071538222.htm) - 00:43 16/06/2024
+- 🪜 [Lên mạng lan tỏa điều hay](https://nld.com.vn/len-mang-lan-toa-dieu-hay-196240615201312007.htm) - 00:30 16/06/2024
+- 💫 [Clip Euro 2024: Hungary thua đậm Thụy Sĩ, sao Liverpool lập kỷ lục](https://nld.com.vn/clip-euro-2024-hungary-thua-dam-thuy-si-sao-liverpool-lap-ky-luc-196240616070107513.htm) - 00:17 16/06/2024
+- 🔭 [Họ không để phí những ngày hè](https://nld.com.vn/ho-khong-de-phi-nhung-ngay-he-196240615210048434.htm) - 00:10 16/06/2024
+- 🌝 [Kỳ vọng vào cải cách tiền lương](https://nld.com.vn/ky-vong-vao-cai-cach-tien-luong-196240615200116748.htm) - 00:00 16/06/2024
+- 💪 [Trung Quốc - EU tranh cãi thương mại](https://nld.com.vn/trung-quoc-eu-tranh-cai-thuong-mai-19624061520582518.htm) - 23:50 15/06/2024
+- 🦍 [Clip Euro 2024: Xem lại 3 bàn thắng Tây Ban Nha hạ gục Croatia](https://nld.com.vn/clip-euro-2024-xem-lai-3-ban-thang-tay-ban-nha-ha-guc-croatia-196240616064445267.htm) - 23:44 15/06/2024
+- 🥷 [Nhiều giải pháp gỡ khó cho ngành vật liệu xây dựng](https://nld.com.vn/nhieu-giai-phap-go-kho-cho-nganh-vat-lieu-xay-dung-196240615211259507.htm) - 23:41 15/06/2024
+- 🫶 [Euro 2024: Ý ngược dòng thắng Albania sau bàn thua nhanh nhất lịch sử](https://nld.com.vn/euro-2024-y-nguoc-dong-thang-albania-sau-ban-thua-nhanh-nhat-lich-su-196240616063237631.htm) - 23:33 15/06/2024
+- 🐻 [Nhớ một thời xây đảo](https://nld.com.vn/nho-mot-thoi-xay-dao-196240615181900781.htm) - 23:30 15/06/2024
+- 🐲 [Chuyên gia ĐOÀN MINH XƯƠNG: Cảm ơn đội Đức!](https://nld.com.vn/chuyen-gia-doan-minh-xuong-cam-on-doi-duc-196240615211456608.htm) - 23:22 15/06/2024
+- 🧑‍💻 [Kiến tạo môi trường làm việc hạnh phúc](https://nld.com.vn/kien-tao-moi-truong-lam-viec-hanh-phuc-196240615180354965.htm) - 23:10 15/06/2024
+- 🎬 [Thèm lắm hơi ấm và tiếng thỏ thẻ...](https://nld.com.vn/them-lam-hoi-am-va-tieng-tho-the-196240615200258963.htm) - 23:00 15/06/2024
+- 👀 [Vietsovpetro hạ thủy thành công khối chân đế giàn CPP-Kình Ngư Trắng](https://nld.com.vn/vietsovpetro-ha-thuy-thanh-cong-khoi-chan-de-gian-cpp-kinh-ngu-trang-196240615182041982.htm) - 22:30 15/06/2024
+- 👍 [Bản tin sáng 16-6: Vì sao ông Đinh Tiến Dũng bị đề nghị xem xét kỷ luật?](https://nld.com.vn/ban-tin-sang-16-6-vi-sao-ong-dinh-tien-dung-bi-de-nghi-xem-xet-ky-luat-196240615221148114.htm) - 22:09 15/06/2024
+- 🦅 [&quot;Săn&quot; tài khoản ngân hàng trùng tên để lừa đảo](https://nld.com.vn/san-tai-khoan-ngan-hang-trung-ten-de-lua-dao-196240615201457199.htm) - 22:00 15/06/2024
+- 🦏 [Kỳ vĩ &quot;làng ngầm&quot; dưới lòng đất](https://nld.com.vn/ky-vi-lang-ngam-duoi-long-dat-196240611150321968.htm) - 22:00 15/06/2024
+- 🗽 [Xanh lại bản nghèo Tà Cóm](https://nld.com.vn/xanh-lai-ban-ngheo-ta-com-196240615183656951.htm) - 21:30 15/06/2024
+- 🔭 [Sống lâu hơn nhờ ăn các loài cá nhỏ](https://nld.com.vn/song-lau-hon-nho-an-cac-loai-ca-nho-196240615204840797.htm) - 21:09 15/06/2024
+- 👍 [Cảnh báo nguy hiểm &quot;sinh con thuận tự nhiên&quot;](https://nld.com.vn/canh-bao-nguy-hiem-sinh-con-thuan-tu-nhien-196240615204716454.htm) - 20:30 15/06/2024
+- ⛽️ [Những &quot;hiệp sĩ&quot; cứu hộ trong đêm](https://nld.com.vn/nhung-hiep-si-cuu-ho-trong-dem-196240615193940581.htm) - 20:00 15/06/2024
+- 🥸 [Hãng xe nào có nhiều mẫu tiêu thụ chậm trong tháng 5-2024?](https://nld.com.vn/hang-xe-nao-co-nhieu-mau-tieu-thu-cham-trong-thang-5-2024-196240615205518794.htm) - 19:31 15/06/2024
+- 🌁 [Độc, lạ thế giới &quot;card bo góc&quot;](https://nld.com.vn/doc-la-the-gioi-card-bo-goc-196240615210513654.htm) - 19:00 15/06/2024
+- 🌮 [Croatia sụp đổ giữa hiệp 1, Tây Ban Nha thắng đậm 3 bàn](https://nld.com.vn/croatia-sup-do-giua-hiep-1-tay-ban-nha-thang-dam-3-ban-196240616013206867.htm) - 18:50 15/06/2024
+- 🎉 [Hết mình với violin](https://nld.com.vn/het-minh-voi-violin-196240615210302599.htm) - 18:30 15/06/2024
+- 🤔 [Chiếc ba-lô lạ ở fanzone Berlin](https://nld.com.vn/chiec-ba-lo-la-o-fanzone-berlin-19624061521252667.htm) - 17:30 15/06/2024
+- 🐘 [Thông tin đáng chú ý trên báo in Người Lao Động ngày 16-6](https://nld.com.vn/thong-tin-dang-chu-y-tren-bao-in-nguoi-lao-dong-ngay-16-6-196240615222918418.htm) - 17:06 15/06/2024
+- 🙉 [CLIP: HLV Vũ Hồng Việt nói gì khi Nam Định lỡ cơ hội thắng trên sân Thống Nhất](https://nld.com.vn/clip-hlv-vu-hong-viet-noi-gi-khi-nam-dinh-lo-co-hoi-thang-tren-san-thong-nhat-196240615224101096.htm) - 15:52 15/06/2024
+- 🐵 [Đà 
 Nẵng: Hai “Tuyệt tác thiên nhiên” đến từ đội pháo hoa Mỹ và Ý](https://nld.com.vn/da-nang-hai-tuyet-tac-thien-nhien-den-tu-doi-phao-hoa-my-va-y-196240615220716205.htm) - 15:24 15/06/2024
-- 🦅 [Euro 2024: Ngược dòng bất thành, Hungary thua Thụy Sĩ đầy tiếc nuối](https://nld.com.vn/euro-2024-nguoc-dong-bat-thanh-hungary-thua-thuy-si-day-tiec-nuoi-196240615222243618.htm) - 15:23 15/06/2024
-- 🦏 [Dòng người nườm nượp đổ về Lái Thiêu “săn” đặc sản](https://nld.com.vn/dong-nguoi-nuom-nuop-do-ve-lai-thieu-san-dac-san-196240615220700004.htm) - 15:19 15/06/2024
-- 🗽 [TP HCM giữ lại 1 điểm trước đội đầu bảng Nam Định](https://nld.com.vn/tp-hcm-giu-lai-1-diem-truoc-doi-dau-bang-nam-dinh-196240615213933251.htm) - 15:00 15/06/2024
-- 🔭 [CLIP: Cần Thơ lần đầu xuất hiện mưa đá, nhiều người kinh ngạc](https://nld.com.vn/clip-can-tho-lan-dau-xuat-hien-mua-da-nhieu-nguoi-kinh-ngac-196240615214114985.htm) - 14:57 15/06/2024
-- 👍 [Tổng thống Ukraine đến Thụy Sĩ, bước vào thử thách lớn](https://nld.com.vn/tong-thong-ukraine-den-thuy-si-buoc-vao-thu-thach-lon-196240615203116192.htm) - 14:14 15/06/2024
-- ⛽️ [Tàu chiến Mỹ-Nga cùng hiện diện, Cuba chỉ trích &quot;khách không mời&quot;](https://nld.com.vn/tau-chien-my-nga-cung-hien-dien-cuba-chi-trich-khach-khong-moi-196240615202734709.htm) - 13:35 15/06/2024
-- 🥸 [Kỷ luật cảnh cáo 4 nguyên chủ tịch tỉnh Ninh Thuận, Bình Dương, Long An và Bà Rịa-Vũng Tàu](https://nld.com.vn/ky-luat-canh-cao-4-nguyen-chu-tich-tinh-ninh-thuan-binh-duong-long-an-va-ba-ria-vung-tau-196240615202124524.htm) - 13:30 15/06/2024
-- 🌁 [Tưng bừng đại hội bóng đá EURO 2024  và COPA AMERICA 2024 trên K+](https://phunu.nld.com.vn/tung-bung-dai-hoi-bong-da-euro-2024-va-copa-america-2024-tren-k-196240615192928939.htm) - 12:55 15/06/2024
-- 🌮 [Lan tỏa kỹ năng tài chính cộng đồng qua truyện tranh](https://phunu.nld.com.vn/lan-toa-ky-nang-tai-chinh-cong-dong-qua-truyen-tranh-196240615192707347.htm) - 12:54 15/06/2024
-- 🎉 [Cuộc thi Ra khơi 2024: Dự án Tranh sinh học đoạt giải nhất](https://nld.com.vn/cuoc-thi-ra-khoi-2024-du-an-tranh-sinh-hoc-doat-giai-nhat-196240615181619094.htm) - 11:54 15/06/2024
-- 🤔 [COVID-19 thuộc 10 bệnh truyền nhiễm bắt buộc tiêm vắc-xin](https://nld.com.vn/covid-19-thuoc-10-benh-truyen-nhiem-bat-buoc-tiem-vac-xin-196240615183952109.htm) - 11:42 15/06/2024
-- 🐘 [Hương Tràm &quot;bật mí&quot; về quyết định đi Mỹ](https://nld.com.vn/huong-tram-bat-mi-ve-quyet-dinh-di-my-19624061516254102.htm) - 11:41 15/06/2024
-- 🙉 [Viettel xử lý sự cố đứt cáp thế nào?](https://nld.com.vn/viettel-xu-ly-su-co-dut-cap-the-nao-196240615182450844.htm) - 11:38 15/06/2024
-- 🐵 [Tỉ phú Mark Zuckerberg bất ngờ có khách quý ghé thăm](https://nld.com.vn/ti-phu-mark-zuckerberg-bat-ngo-co-khach-quy-ghe-tham-196240615174528639.htm) - 11:13 15/06/2024
-- 🙉 [Đại hội Liên đoàn bắn súng TP HCM: Đổi mới để phát triển](https://nld.com.vn/dai-hoi-lien-doan-ban-sung-tp-hcm-doi-moi-de-phat-trien-19624061516254834.htm) - 11:11 15/06/2024
-- 💪 [Bỏ đề xuất cấm tuyệt đối vượt đèn vàng](https://nld.com.vn/bo-de-xuat-cam-tuyet-doi-vuot-den-vang-196240615171955046.htm) - 10:41 15/06/2024
-- ⛽️ [Minh tinh Châu Dã bị &quot;ném đá&quot; vì thái độ vênh váo](https://nld.com.vn/minh-tinh-chau-da-bi-nem-da-vi-thai-do-venh-vao-196240615164940767.htm) - 09:56 15/06/2024
-- 👺 [Ông Lưu Trung Thái tiếp tục làm Chủ tịch HĐQT Ngân hàng Quân đội](https://nld.com.vn/ong-luu-trung-thai-tiep-tuc-lam-chu-tich-hdqt-ngan-hang-quan-doi-196240615160715639.htm) - 09:27 15/06/2024
-- 🧠 [Va chạm kinh hoàng giữa xe tải và xe đầu kéo trên Quốc lộ 1](https://nld.com.vn/va-cham-kinh-hoang-giua-xe-tai-va-xe-dau-keo-tren-quoc-lo-1-196240615160138347.htm) - 09:24 15/06/2024
-- 🔭 [3.000 vị trí việc làm cho sinh viên, người lao động](https://nld.com.vn/3000-vi-tri-viec-lam-cho-sinh-vien-nguoi-lao-dong-196240615155204889.htm) - 09:02 15/06/2024
-- 🦣 [Kết quả xổ số hôm nay &lpar;15-6&rpar;: TP HCM, Long An, Bình Phước, Hậu Giang, Đà Nẵng...](https://nld.com.vn/ket-qua-xo-so-hom-nay-15-6-tp-hcm-long-an-binh-phuoc-hau-giang-da-nang-196240615153642058.htm) - 08:43 15/06/2024
-- 🔥 [Cận cảnh những lô cốt giữa đường gom đại lộ Thăng Long](https://nld.com.vn/can-canh-nhung-lo-cot-giua-duong-gom-dai-lo-thang-long-196240615150539223.htm) - 08:40 15/06/2024
-- 🌝 [Đã Nẵng: Cướp giật xong đi đầu thú vì ăn năn](https://nld.com.vn/da-nang-cuop-giat-xong-di-dau-thu-vi-an-nan-196240615145745288.htm) - 08:17 15/06/2024
-- 👍 [Lý do người trẻ cố rút BHXH một lần, không chờ đến tuổi hưu](https://nld.com.vn/ly-do-nguoi-tre-co-rut-bhxh-mot-lan-khong-cho-den-tuoi-huu-19624061514595879.htm) - 08:15 15/06/2024
-- 💂 [Kịch tính vòng chung kết đua xe mô hình tự chế](https://nld.com.vn/kich-tinh-vong-chung-ket-dua-xe-mo-hinh-tu-che-196240615143347141.htm) - 08:15 15/06/2024
-- 🤖 [Euro 2024: &quot;Món cocktail&quot; ngon tuyệt của đội tuyển Đức](https://nld.com.vn/euro-2024-mon-cocktail-ngon-tuyet-cua-doi-tuyen-duc-196240615151247459.htm) - 08:14 15/06/2024<!-- nld:END -->
+- 🙉 [Euro 2024: Ngược dòng bất thành, Hungary thua Thụy Sĩ đầy tiếc nuối](https://nld.com.vn/euro-2024-nguoc-dong-bat-thanh-hungary-thua-thuy-si-day-tiec-nuoi-196240615222243618.htm) - 15:23 15/06/2024
+- 💪 [Dòng người nườm nượp đổ về Lái Thiêu “săn” đặc sản](https://nld.com.vn/dong-nguoi-nuom-nuop-do-ve-lai-thieu-san-dac-san-196240615220700004.htm) - 15:19 15/06/2024
+- ⛽️ [TP HCM giữ lại 1 điểm trước đội đầu bảng Nam Định](https://nld.com.vn/tp-hcm-giu-lai-1-diem-truoc-doi-dau-bang-nam-dinh-196240615213933251.htm) - 15:00 15/06/2024
+- 👺 [CLIP: Cần Thơ lần đầu xuất hiện mưa đá, nhiều người kinh ngạc](https://nld.com.vn/clip-can-tho-lan-dau-xuat-hien-mua-da-nhieu-nguoi-kinh-ngac-196240615214114985.htm) - 14:57 15/06/2024
+- 🧠 [Tổng thống Ukraine đến Thụy Sĩ, bước vào thử thách lớn](https://nld.com.vn/tong-thong-ukraine-den-thuy-si-buoc-vao-thu-thach-lon-196240615203116192.htm) - 14:14 15/06/2024
+- 🔭 [Tàu chiến Mỹ-Nga cùng hiện diện, Cuba chỉ trích &quot;khách không mời&quot;](https://nld.com.vn/tau-chien-my-nga-cung-hien-dien-cuba-chi-trich-khach-khong-moi-196240615202734709.htm) - 13:35 15/06/2024
+- 🦣 [Kỷ luật cảnh cáo 4 nguyên chủ tịch tỉnh Ninh Thuận, Bình Dương, Long An và Bà Rịa-Vũng Tàu](https://nld.com.vn/ky-luat-canh-cao-4-nguyen-chu-tich-tinh-ninh-thuan-binh-duong-long-an-va-ba-ria-vung-tau-196240615202124524.htm) - 13:30 15/06/2024
+- 🔥 [Tưng bừng đại hội bóng đá EURO 2024  và COPA AMERICA 2024 trên K+](https://phunu.nld.com.vn/tung-bung-dai-hoi-bong-da-euro-2024-va-copa-america-2024-tren-k-196240615192928939.htm) - 12:55 15/06/2024
+- 🌝 [Lan tỏa kỹ năng tài chính cộng đồng qua truyện tranh](https://phunu.nld.com.vn/lan-toa-ky-nang-tai-chinh-cong-dong-qua-truyen-tranh-196240615192707347.htm) - 12:54 15/06/2024
+- 👍 [Cuộc thi Ra khơi 2024: Dự án Tranh sinh học đoạt giải nhất](https://nld.com.vn/cuoc-thi-ra-khoi-2024-du-an-tranh-sinh-hoc-doat-giai-nhat-196240615181619094.htm) - 11:54 15/06/2024
+- 💂 [COVID-19 thuộc 10 bệnh truyền nhiễm bắt buộc tiêm vắc-xin](https://nld.com.vn/covid-19-thuoc-10-benh-truyen-nhiem-bat-buoc-tiem-vac-xin-196240615183952109.htm) - 11:42 15/06/2024
+- 🤖 [Hương Tràm &quot;bật mí&quot; về quyết định đi Mỹ](https://nld.com.vn/huong-tram-bat-mi-ve-quyet-dinh-di-my-19624061516254102.htm) - 11:41 15/06/2024<!-- nld:END -->
 
 ## Báo SGGP
 <!-- sggp:START -->
