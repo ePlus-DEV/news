@@ -210,7 +210,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- laodong:START -->
 - 🗽 [Cây xanh ở Hà Nội bật gốc, đè bẹp 7 xe ô tô con trong mưa lớn](https://laodong.vn/xa-hoi/cay-xanh-o-ha-noi-bat-goc-de-bep-7-xe-o-to-con-trong-mua-lon-1353870.ldo) - 15:49 16/06/2024
 - 📝 [Đội hình đội tuyển Serbia dự EURO 2024: Hàng công đáng gờm](https://laodong.vn/infographic/doi-hinh-doi-tuyen-serbia-du-euro-2024-hang-cong-dang-gom-1353488.ldo) - 15:43 16/06/2024
-- 🦏 [Trực tiếp Slovenia vs Đan Mạch: Eriksen đá chính](https://laodong.vn/bong-da-quoc-te/truc-tiep-slovenia-vs-dan-mach-eriksen-da-chinh-1353872.ldo) - 15:41 16/06/2024
+- 🦏 [Trực tiếp Slovenia 0-0 Đan Mạch: Hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-slovenia-0-0-dan-mach-hiep-1-1353872.ldo) - 15:41 16/06/2024
 - 🦩 [Huấn luyện viên Pokling thất vọng sau trận thua của Công an Hà Nội](https://laodong.vn/bong-da/huan-luyen-vien-pokling-that-vong-sau-tran-thua-cua-cong-an-ha-noi-1353866.ldo) - 15:40 16/06/2024
 - 🦏 [Cảnh sát hút nước ao chữa cháy bãi phế liệu rộng hàng trăm mét ở Hải Phòng](https://laodong.vn/xa-hoi/canh-sat-hut-nuoc-ao-chua-chay-bai-phe-lieu-rong-hang-tram-met-o-hai-phong-1353865.ldo) - 15:19 16/06/2024
 - 🧰 [Thường trực Ban Bí thư: Người có uy tín thực sự là cầu nối giữa Đảng và dân](https://laodong.vn/thoi-su/thuong-truc-ban-bi-thu-nguoi-co-uy-tin-thuc-su-la-cau-noi-giua-dang-va-dan-1353840.ldo) - 14:48 16/06/2024
@@ -226,7 +226,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥷 [Thủ tướng: Chuyển đổi số là công cụ quan trọng để hỗ trợ thực thi công lý](https://laodong.vn/thoi-su/thu-tuong-chuyen-doi-so-la-cong-cu-quan-trong-de-ho-tro-thuc-thi-cong-ly-1353788.ldo) - 13:30 16/06/2024
 - 💫 [Xử lý tình trạng ăn xin, người lang thang trên địa bàn TPHCM](https://laodong.vn/video/xu-ly-tinh-trang-an-xin-nguoi-lang-thang-tren-dia-ban-tphcm-1353678.ldo) - 13:15 16/06/2024
 - 🎭 [Hà Nội FC tặng kem cho cổ động viên nhân dịp kỷ niệm 18 năm thành lập đội bóng](https://laodong.vn/ban-tin/ha-noi-fc-tang-kem-cho-co-dong-vien-nhan-dip-ky-niem-18-nam-thanh-lap-doi-bong-1353834.ldo) - 13:05 16/06/2024
-- 😎 [Cháy nhà cao tầng ở Hà Nội, nhiều nạn nhân được đưa đến bệnh viện](https://laodong.vn/xa-hoi/chay-nha-cao-tang-o-ha-noi-nhieu-nan-nhan-duoc-dua-den-benh-vien-1353838.ldo) - 13:04 16/06/2024
+- 😎 [4 người tử vong trong vụ cháy nhà 6 tầng ở Hà Nội](https://laodong.vn/xa-hoi/4-nguoi-tu-vong-trong-vu-chay-nha-6-tang-o-ha-noi-1353838.ldo) - 13:04 16/06/2024
 - 💄 [Đâm xe máy xuống mương nước, nam thanh niên ở Nam Định tử vong](https://laodong.vn/xa-hoi/dam-xe-may-xuong-muong-nuoc-nam-thanh-nien-o-nam-dinh-tu-vong-1353827.ldo) - 13:02 16/06/2024
 - 🫣 [Chuyển giao Công đoàn cơ sở](https://laodong.vn/ldld-tphn/chuyen-giao-cong-doan-co-so-1353698.ldo) - 13:00 16/06/2024
 - 🧑‍🏫 [Tin 20h: Kỳ vọng chính sách cải cách tiền lương thực thi đúng lộ trình](https://laodong.vn/video-xa-hoi/tin-20h-ky-vong-chinh-sach-cai-cach-tien-luong-thuc-thi-dung-lo-trinh-1353816.ldo) - 13:00 16/06/2024
