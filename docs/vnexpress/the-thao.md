@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [Euro 2024 khởi đầu hấp dẫn nhất lịch sử](https://vnexpress.net/euro-2024-khoi-dau-hap-dan-nhat-lich-su-4758916.html) - 07:53 16/06/2024
 - 🧰 [DeChambeau rộng cửa vô địch US Open 2024](https://vnexpress.net/dechambeau-rong-cua-vo-dich-us-open-2024-4758920.html) - 07:50 16/06/2024
 - 🤗 [Yamal - thần đồng trong kỷ nguyên mới của Tây Ban Nha](https://vnexpress.net/yamal-than-dong-trong-ky-nguyen-moi-cua-tay-ban-nha-4758910.html) - 07:27 16/06/2024
-- 🥳 [Euro ngày 16/6: Ronaldo &#39;dạy dỗ&#39; Chiesa thế nào?](https://vnexpress.net/euro-ngay-16-6-4758828.html) - 04:00 16/06/2024
+- 🥳 [Euro ngày 16/6: Người mẫu Croatia miệt thị nữ MC Đức](https://vnexpress.net/euro-ngay-16-6-4758828.html) - 04:00 16/06/2024
 - 🦣 [Messi: &#39;Không có gì dễ dàng với Argentina&#39;](https://vnexpress.net/messi-khong-co-gi-de-dang-voi-argentina-4758854.html) - 03:43 16/06/2024
 - 🌜 [Koeman: &#39;Hà Lan là ứng viên vô địch Euro 2024&#39;](https://vnexpress.net/koeman-ha-lan-la-ung-vien-vo-dich-euro-2024-4757063.html) - 03:12 16/06/2024
 - 🫶 [Kane khát khao vô địch Euro 2024 sau khi trắng tay ở Bayern](https://vnexpress.net/kane-khat-khao-vo-dich-euro-2024-sau-khi-trang-tay-o-bayern-4758839.html) - 03:08 16/06/2024
