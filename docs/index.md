@@ -253,7 +253,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- nld:START -->
 - 🐎 [Đã tìm thấy nữ sinh “mất tích bí ẩn” khi đi thi vào lớp 10](https://nld.com.vn/da-tim-thay-nu-sinh-mat-tich-bi-an-khi-di-thi-vao-lop-10-196240616204432258.htm) - 13:52 16/06/2024
 - 😺 [Hồng Kông &lpar;Trung Quốc&rpar; tài trợ 8 dự án phim, du lịch Việt có bắt kịp cơ hội?](https://phunu.nld.com.vn/hong-kong-trung-quoc-tai-tro-8-du-an-phim-du-lich-viet-co-bat-kip-co-hoi-19624061620321964.htm) - 13:35 16/06/2024
-- 👍 [Cháy lớn căn nhà cao tầng trên phố](https://nld.com.vn/chay-lon-can-nha-cao-tang-tren-pho-196240616200131318.htm) - 13:14 16/06/2024
+- 👍 [Cháy lớn nhà cao tầng, nhiều người nghi mắc kẹt](https://nld.com.vn/chay-lon-can-nha-cao-tang-tren-pho-196240616200131318.htm) - 13:14 16/06/2024
 - 🥷 [Chơi hơn người, LPBank HAGL vẫn &quot;trắng tay&quot; trên sân Pleiku](https://nld.com.vn/choi-hon-nguoi-hoang-anh-gia-lai-van-trang-tay-tren-san-pleiku-196240616192938797.htm) - 12:47 16/06/2024
 - 🤔 [Chủ tịch Cuba lên thăm tàu chiến Nga](https://nld.com.vn/chu-tich-cuba-len-tham-tau-chien-nga-196240616191329387.htm) - 12:19 16/06/2024
 - 🌈 [Công an Bình Định phá đường dây ma túy lớn nhất từ trước đến nay](https://nld.com.vn/cong-an-binh-dinh-pha-duong-day-ma-tuy-lon-nhat-tu-truoc-den-nay-196240616181052617.htm) - 11:21 16/06/2024
