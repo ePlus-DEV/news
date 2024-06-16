@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Kinh tế Đức có thể hưởng lợi hơn 1 tỷ USD nhờ Euro 2024](https://vnexpress.net/kinh-te-duc-co-the-huong-loi-hon-1-ty-usd-nho-euro-2024-4758919.html) - 08:06 16/06/2024
-- 🐲 [VNPT thu 10,2 tỷ đồng mỗi ngày nhờ gửi ngân hàng 2,4 tỷ USD](https://vnexpress.net/vnpt-thu-10-2-ty-dong-moi-ngay-nho-gui-ngan-hang-2-4-ty-usd-4758887.html) - 07:10 16/06/2024
+- 🐲 [Doanh nghiệp thu 10,2 tỷ đồng mỗi ngày nhờ gửi ngân hàng 2,4 tỷ USD](https://vnexpress.net/doanh-nghiep-thu-10-2-ty-dong-moi-ngay-nho-gui-ngan-hang-2-4-ty-usd-4758887.html) - 07:10 16/06/2024
 - 🔥 [Giá vải thiều cuối vụ tăng vọt](https://vnexpress.net/gia-vai-thieu-cuoi-vu-tang-vot-4758835.html) - 04:51 16/06/2024
 - 🐵 [250.000 đồng một kg ếch òn Ninh Thuận](https://vnexpress.net/250-000-dong-mot-kg-ech-on-ninh-thuan-4758816.html) - 02:50 16/06/2024
 - 🦅 [Xem xét thí điểm thuê CEO ngoại cho doanh nghiệp nhà nước](https://vnexpress.net/xem-xet-thi-diem-thue-ceo-ngoai-cho-doanh-nghiep-nha-nuoc-4758773.html) - 18:08 15/06/2024
