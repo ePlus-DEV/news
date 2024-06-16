@@ -209,7 +209,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- laodong:START -->
 - 🗽 [Cây xanh ở Hà Nội bật gốc, đè bẹp 7 xe ô tô con trong mưa lớn](https://laodong.vn/xa-hoi/cay-xanh-o-ha-noi-bat-goc-de-bep-7-xe-o-to-con-trong-mua-lon-1353870.ldo) - 15:49 16/06/2024
 - 📝 [Đội hình đội tuyển Serbia dự EURO 2024: Hàng công đáng gờm](https://laodong.vn/infographic/doi-hinh-doi-tuyen-serbia-du-euro-2024-hang-cong-dang-gom-1353488.ldo) - 15:43 16/06/2024
-- 🦏 [Trực tiếp Slovenia 0-1 Đan Mạch: Eriksen mở tỉ số](https://laodong.vn/bong-da-quoc-te/truc-tiep-slovenia-0-1-dan-mach-eriksen-mo-ti-so-1353872.ldo) - 15:41 16/06/2024
+- 🦏 [Trực tiếp Slovenia 0-1 Đan Mạch: Hết hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-slovenia-0-1-dan-mach-het-hiep-1-1353872.ldo) - 15:41 16/06/2024
 - 🦩 [Huấn luyện viên Pokling thất vọng sau trận thua của Công an Hà Nội](https://laodong.vn/bong-da/huan-luyen-vien-pokling-that-vong-sau-tran-thua-cua-cong-an-ha-noi-1353866.ldo) - 15:40 16/06/2024
 - 🦏 [Cảnh sát hút nước ao chữa cháy bãi phế liệu rộng hàng trăm mét ở Hải Phòng](https://laodong.vn/xa-hoi/canh-sat-hut-nuoc-ao-chua-chay-bai-phe-lieu-rong-hang-tram-met-o-hai-phong-1353865.ldo) - 15:19 16/06/2024
 - 🧰 [Thường trực Ban Bí thư: Người có uy tín thực sự là cầu nối giữa Đảng và dân](https://laodong.vn/thoi-su/thuong-truc-ban-bi-thu-nguoi-co-uy-tin-thuc-su-la-cau-noi-giua-dang-va-dan-1353840.ldo) - 14:48 16/06/2024
