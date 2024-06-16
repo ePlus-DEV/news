@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Eriksen ghi bàn tại Euro sau hơn ba năm bị trụy tim](https://vnexpress.net/eriksen-ghi-ban-tai-euro-sau-hon-ba-nam-bi-truy-tim-4759008.html) - 18:08 16/06/2024
+- 🪜 [Đan Mạch rơi chiến thắng dù Eriksen ghi bàn](https://vnexpress.net/dan-mach-roi-chien-thang-du-eriksen-ghi-ban-4759008.html) - 18:08 16/06/2024
 - 🦩 [Ngôi sao mới của Đức có chín anh chị em](https://vnexpress.net/ngoi-sao-moi-cua-duc-co-chin-anh-chi-em-4758917.html) - 17:00 16/06/2024
 - 🧰 [Cựu tiền đạo Man Utd cứu Hà Lan](https://vnexpress.net/cuu-tien-dao-man-utd-cuu-ha-lan-4758994.html) - 15:06 16/06/2024
 - 🤗 [HLV Polking thua trận thứ hai cùng Công an Hà Nội](https://vnexpress.net/hlv-polking-thua-tran-thu-hai-cung-cong-an-ha-noi-4758988.html) - 14:46 16/06/2024
