@@ -22,7 +22,7 @@ sidebar_position: 9
 - 🌁 [Có nên bỏ hai năm đại học để thi lại?](https://vnexpress.net/co-nen-bo-hai-nam-dai-hoc-de-thi-lai-4753481.html) - 16:59 16/06/2024
 - 🐲 [Nga kiểm soát thêm làng ở Zaporizhzhia](https://vnexpress.net/nga-kiem-soat-them-lang-o-zaporizhzhia-4759000.html) - 16:16 16/06/2024
 - 🤓 [Người phụ nữ nhận bằng thạc sĩ Luật hình sự ở tuổi 66](https://vnexpress.net/nguoi-phu-nu-nhan-bang-thac-si-luat-hinh-su-o-tuoi-66-4758987.html) - 15:50 16/06/2024
-- 💪 [Cựu tiền đạo Man Utd cứu Hà Lan](https://vnexpress.net/cuu-tien-dao-man-utd-cuu-ha-lan-4758994.html) - 15:06 16/06/2024
+- 💪 [Cựu tiền đạo Man Utd giải cứu Hà Lan](https://vnexpress.net/cuu-tien-dao-man-utd-giai-cuu-ha-lan-4758994.html) - 15:06 16/06/2024
 - 🎓 [Chạy đi chờ chi](https://vnexpress.net/chay-di-cho-chi-4758923.html) - 14:47 16/06/2024
 - 🫣 [HLV Polking thua trận thứ hai cùng Công an Hà Nội](https://vnexpress.net/hlv-polking-thua-tran-thu-hai-cung-cong-an-ha-noi-4758988.html) - 14:46 16/06/2024
 - 🧑‍💻 [80 nước kêu gọi đối thoại để chấm dứt chiến sự Nga - Ukraine](https://vnexpress.net/80-nuoc-keu-goi-doi-thoai-de-cham-dut-chien-su-nga-ukraine-4758983.html) - 14:06 16/06/2024
