@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Xây dựng quy định về công chứng điện tử](https://vnexpress.net/xay-dung-quy-dinh-ve-cong-chung-dien-tu-4758976.html) - 17:00 16/06/2024
 - 🤓 [Nhiều ôtô bị cây đổ đè trúng trong mưa giông](https://vnexpress.net/nhieu-oto-bi-cay-do-de-trung-trong-mua-giong-4758966.html) - 13:52 16/06/2024
-- ⚗️ [Cháy nhà ở Định Công Hạ Hà Nội, 4 người chết](https://vnexpress.net/chay-nha-6-tang-o-ha-noi-4758967.html) - 13:10 16/06/2024
+- ⚗️ [Cháy nhà ở Định Công Hạ Hà Nội, 4 người chết](https://vnexpress.net/chay-nha-6-tang-o-ha-noi-4758967-tong-thuat.html) - 13:10 16/06/2024
 - 🌊 [Lễ trưởng thành của học trò mồ côi sau Covid-19](https://vnexpress.net/le-truong-thanh-cua-hoc-tro-mo-coi-sau-covid-19-4758960.html) - 12:22 16/06/2024
 - 🎓 [Tuần tới Bắc Bộ nắng nóng vùng đồng bằng, mưa giông miền núi](https://vnexpress.net/tuan-toi-bac-bo-nang-nong-vung-dong-bang-mua-giong-mien-nui-4758927.html) - 11:00 16/06/2024
 - 🔥 [Quy trình kỷ luật đảng viên thuộc thẩm quyền Trung ương Đảng, Bộ Chính trị, Ban Bí thư](https://vnexpress.net/quy-trinh-ky-luat-dang-vien-thuoc-tham-quyen-trung-uong-dang-bo-chinh-tri-ban-bi-thu-4758860.html) - 05:46 16/06/2024
