@@ -12,7 +12,7 @@ sidebar_position: 5
 - 🦣 [Ronaldo được đồng đội khiêng trên vai](https://vnexpress.net/ronaldo-duoc-dong-doi-khieng-tren-vai-4759230.html) - 07:04 17/06/2024
 - 🌜 [Tuyển Anh hứng chỉ trích sau trận ra quân Euro 2024](https://vnexpress.net/tuyen-anh-hung-chi-trich-sau-tran-ra-quan-euro-2024-4759233.html) - 06:02 17/06/2024
 - 🫶 [Trọng tài ngoại bắt V-League 2023-2024](https://vnexpress.net/trong-tai-ngoai-bat-v-league-2023-2024-4759231.html) - 05:52 17/06/2024
-- 🌜 [Euro ngày 17/6: Carragher dùng Haaland để châm chọc Kane](https://vnexpress.net/euro-ngay-17-6-4759199.html) - 04:46 17/06/2024
+- 🌜 [Euro ngày 17/6: Hậu vệ Áo tự tin chặn đứng Mbappe](https://vnexpress.net/euro-ngay-17-6-4759199.html) - 04:46 17/06/2024
 - 😺 [HAGL không lo phải đá play-off V-League](https://vnexpress.net/hagl-khong-lo-phai-da-play-off-v-league-4759200.html) - 04:28 17/06/2024
 - 👍 [5 đội hết cửa vô địch V-League 2023-2024](https://vnexpress.net/5-doi-het-cua-vo-dich-v-league-2023-2024-4759038.html) - 03:34 17/06/2024
 - 🐵 [Ronaldinho đính chính vụ chỉ trích tuyển Brazil](https://vnexpress.net/ronaldinho-dinh-chinh-vu-chi-trich-tuyen-brazil-4759084.html) - 02:08 17/06/2024
