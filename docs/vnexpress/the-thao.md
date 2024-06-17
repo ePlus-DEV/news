@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Pháp khởi đầu thuận lợi ở Euro](https://vnexpress.net/phap-khoi-dau-thuan-loi-o-euro-4759466.html) - 21:12 17/06/2024
+- 🪜 [Pháp thắng nhờ bàn phản lưới ở Euro 2024](https://vnexpress.net/phap-thang-nho-ban-phan-luoi-o-euro-2024-4759466.html) - 21:12 17/06/2024
 - 🦩 [Gomes: &#39;Vô địch Euro ở tuổi 39 sẽ là tuyên bố thực sự của Ronaldo&#39;](https://vnexpress.net/gomes-vo-dich-euro-o-tuoi-39-se-la-tuyen-bo-thuc-su-cua-ronaldo-4759420.html) - 19:30 17/06/2024
 - 🧰 [Bỉ thua sốc trận ra quân Euro 2024](https://vnexpress.net/bi-thua-soc-tran-ra-quan-euro-2024-4759462.html) - 18:08 17/06/2024
 - 🤗 [Romania đại thắng trận ra quân Euro 2024](https://vnexpress.net/romania-dai-thang-tran-ra-quan-euro-2024-4759438.html) - 14:52 17/06/2024
