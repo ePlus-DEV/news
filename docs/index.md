@@ -209,7 +209,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp Bỉ 0-1 Slovakia: Không có bàn thắng cho Lukaku](https://laodong.vn/bong-da-quoc-te/truc-tiep-bi-0-1-slovakia-khong-co-ban-thang-cho-lukaku-1354298.ldo) - 15:16 17/06/2024
+- 🗽 [Trực tiếp Bỉ 0-1 Slovakia: Bàn thắng lại không được công nhận](https://laodong.vn/bong-da-quoc-te/truc-tiep-bi-0-1-slovakia-ban-thang-lai-khong-duoc-cong-nhan-1354298.ldo) - 15:16 17/06/2024
 - 📝 [Thể thao Việt Nam có tấm vé thứ 12 dự Olympic 2024 ở môn bắn cung](https://laodong.vn/the-thao/the-thao-viet-nam-co-tam-ve-thu-12-du-olympic-2024-o-mon-ban-cung-1354295.ldo) - 15:04 17/06/2024
 - 🦏 [Công thức nước ép vào mùa hè giúp bạn giảm mỡ bụng](https://laodong.vn/suc-khoe/cong-thuc-nuoc-ep-vao-mua-he-giup-ban-giam-mo-bung-1353957.ldo) - 15:00 17/06/2024
 - 🦩 [Dự đoán tỉ số trận Áo - Pháp: Chiến thắng cho Les Bleus](https://laodong.vn/bong-da-quoc-te/du-doan-ti-so-tran-ao-phap-chien-thang-cho-les-bleus-1354168.ldo) - 14:46 17/06/2024
