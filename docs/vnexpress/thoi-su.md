@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Lao động phổ thông chiếm 44% nhu cầu tuyển dụng cả nước](https://vnexpress.net/lao-dong-pho-thong-chiem-44-nhu-cau-tuyen-dung-ca-nuoc-4759147.html) - 09:11 17/06/2024
 - 🤓 [&#39;Cần xem xét mở rộng thẩm quyền công chứng về giao dịch bất động sản&#39;](https://vnexpress.net/can-xem-xet-mo-rong-tham-quyen-cong-chung-ve-giao-dich-bat-dong-san-4759238.html) - 07:44 17/06/2024
-- ⚗️ [Thủ tướng kỷ luật 4 cựu Phó chủ tịch tỉnh Bắc Ninh](https://vnexpress.net/thu-tuong-ky-luat-4-cuu-pho-chu-tich-tinh-bac-ninh-4759247.html) - 07:26 17/06/2024
+- ⚗️ [Thủ tướng kỷ luật 4 cựu phó chủ tịch tỉnh Bắc Ninh](https://vnexpress.net/thu-tuong-ky-luat-4-cuu-pho-chu-tich-tinh-bac-ninh-4759247.html) - 07:26 17/06/2024
 - 🌊 [Vụ cháy ở phố Định Công Hạ diễn ra như thế nào](https://vnexpress.net/vu-chay-o-pho-dinh-cong-ha-dien-ra-nhu-the-nao-4759206.html) - 07:03 17/06/2024
 - 🎓 [&#39;2 năm để xây dựng cao tốc Gia Nghĩa - Chơn Thành là quá dài&#39;](https://vnexpress.net/2-nam-de-xay-dung-cao-toc-gia-nghia-chon-thanh-la-qua-dai-4759170.html) - 04:31 17/06/2024
 - 🔥 [Nhiều cầu, hầm trên quốc lộ 1 được mở rộng](https://vnexpress.net/nhieu-cau-ham-tren-quoc-lo-1-duoc-mo-rong-4759079.html) - 03:31 17/06/2024
@@ -17,7 +17,7 @@ sidebar_position: 1
 - 🎉 [Nhiều ôtô bị cây đổ đè trúng trong mưa giông](https://vnexpress.net/nhieu-oto-bi-cay-do-de-trung-trong-mua-giong-4758966.html) - 13:52 16/06/2024
 - 🦒 [Cháy nhà ở Định Công Hạ Hà Nội, 4 người chết](https://vnexpress.net/chay-nha-6-tang-o-ha-noi-4758967-tong-thuat.html) - 13:10 16/06/2024
 - 🤗 [Lễ trưởng thành của học trò mồ côi sau Covid-19](https://vnexpress.net/le-truong-thanh-cua-hoc-tro-mo-coi-sau-covid-19-4758960.html) - 12:22 16/06/2024
-- 💼 [Tuần tới Bắc Bộ nắng nóng vùng đồng bằng, mưa giông miền núi](https://vnexpress.net/tuan-toi-bac-bo-nang-nong-vung-dong-bang-mua-giong-mien-nui-4758927.html) - 11:00 16/06/2024
+- 💼 [Tuần tới đồng bằng Bắc Bộ nắng nóng, miền núi mưa giông](https://vnexpress.net/tuan-toi-dong-bang-bac-bo-nang-nong-mien-nui-mua-giong-4758927.html) - 11:00 16/06/2024
 - 🤩 [Quy trình kỷ luật đảng viên thuộc thẩm quyền Trung ương Đảng, Bộ Chính trị, Ban Bí thư](https://vnexpress.net/quy-trinh-ky-luat-dang-vien-thuoc-tham-quyen-trung-uong-dang-bo-chinh-tri-ban-bi-thu-4758860.html) - 05:46 16/06/2024
 - 🤡 [Ba người chết trong ngôi nhà cháy](https://vnexpress.net/ba-nguoi-chet-trong-ngoi-nha-chay-4758821.html) - 03:09 16/06/2024
 - 💯 [Khánh thành đường nối An Giang - Cần Thơ](https://vnexpress.net/khanh-thanh-duong-noi-an-giang-can-tho-4758806.html) - 03:00 16/06/2024
