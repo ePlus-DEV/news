@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Giành ngôi thủ khoa thi lớp 10 với hai điểm tuyệt đối](https://vnexpress.net/gianh-ngoi-thu-khoa-thi-lop-10-voi-hai-diem-tuyet-doi-4759056.html) - 03:38 17/06/2024
+- 🤓 [Giành ngôi thủ khoa với hai điểm 10](https://vnexpress.net/gianh-ngoi-thu-khoa-voi-hai-diem-10-4759056.html) - 03:38 17/06/2024
 - 🦆 [Xếp hàng 16 tiếng chờ mua hồ sơ lớp 1 ở Sài Gòn](https://vnexpress.net/xep-hang-16-tieng-cho-mua-ho-so-lop-1-o-sai-gon-4759058.html) - 02:38 17/06/2024
 - 🦩 [Nữ sinh đỗ thủ khoa Phổ thông Năng khiếu nhờ &#39;tinh thần thoải mái&#39;](https://vnexpress.net/nu-sinh-do-thu-khoa-pho-thong-nang-khieu-nho-tinh-than-thoai-mai-4758837.html) - 22:04 16/06/2024
 - 🌮 [Có nên bỏ hai năm đại học để thi lại?](https://vnexpress.net/co-nen-bo-hai-nam-dai-hoc-de-thi-lai-4753481.html) - 16:59 16/06/2024
