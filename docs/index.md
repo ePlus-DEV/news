@@ -29,7 +29,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [Gomes: &#39;Vô địch Euro ở tuổi 39 sẽ là tuyên bố thực sự của Ronaldo&#39;](https://vnexpress.net/gomes-vo-dich-euro-o-tuoi-39-se-la-tuyen-bo-thuc-su-cua-ronaldo-4759420.html) - 19:30 17/06/2024
 - 🧰 [Highlight trận Bỉ 0-1 Slovakia: Ứng viên sa bẫy](https://vnexpress.net/highlight-tran-bi-0-1-slovakia-ung-vien-sa-bay-4759465.html) - 19:21 17/06/2024
 - 🥰 [Ăn dứa có cải thiện viêm nhiễm?](https://vnexpress.net/an-dua-co-cai-thien-viem-nhiem-4758171.html) - 19:00 17/06/2024
-- 🌏 [Bỉ thua sốc trận ra quân Euro 2024](https://vnexpress.net/bi-thua-soc-tran-ra-quan-euro-2024-4759462.html) - 18:08 17/06/2024
+- 🌏 [Lukaku, Doku khiến Bỉ thua trận ra quân tại Euro](https://vnexpress.net/lukaku-doku-khien-bi-thua-tran-ra-quan-tai-euro-4759462.html) - 18:08 17/06/2024
 - 🧐 [Bí quyết giúp ca sĩ Kelly Clarkson giảm hơn 27 kg](https://vnexpress.net/bi-quyet-giup-ca-si-kelly-clarkson-giam-hon-27-kg-4758977.html) - 17:04 17/06/2024
 - 💫 [Đức tịch thu lượng cocaine trị giá 2,8 tỷ USD](https://vnexpress.net/duc-tich-thu-luong-cocaine-tri-gia-2-8-ty-usd-4759453.html) - 17:02 17/06/2024
 - 😺 [Bạn có thể chịu đựng được khi phải yêu xa không?](https://vnexpress.net/ban-co-the-chiu-dung-duoc-khi-phai-yeu-xa-khong-4757096.html) - 17:01 17/06/2024
