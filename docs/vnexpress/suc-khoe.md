@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Làm gì khi bị vỡ mũi như Mbappe?](https://vnexpress.net/lam-gi-khi-bi-vo-mui-nhu-mbappe-4759802.html) - 13:06 18/06/2024
+- 🔥 [Vỡ mũi - nguy cơ khi chơi thể thao](https://vnexpress.net/vo-mui-nguy-co-khi-choi-the-thao-4759802.html) - 13:06 18/06/2024
 - 🥰 [Rụng tóc do mắc bệnh giang mai mà không biết](https://vnexpress.net/rung-toc-do-mac-benh-giang-mai-ma-khong-biet-4759809.html) - 12:51 18/06/2024
 - 💡 [Bạch cầu giảm mạnh do tác dụng phụ của thuốc chữa cường giáp](https://vnexpress.net/bach-cau-giam-manh-do-tac-dung-phu-cua-thuoc-chua-cuong-giap-4759724.html) - 12:00 18/06/2024
 - 🤗 [Phôi thể khảm là gì?](https://vnexpress.net/phoi-the-kham-la-gi-4759794.html) - 11:00 18/06/2024
