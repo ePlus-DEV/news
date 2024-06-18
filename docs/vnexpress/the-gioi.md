@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Nga - Triều Tiên sẽ ký hiệp định &#39;Đối tác Chiến lược Toàn diện&#39;](https://vnexpress.net/nga-trieu-tien-se-ky-hiep-dinh-doi-tac-chien-luoc-toan-dien-4759862.html) - 13:33 18/06/2024
+- 🎭 [Nga - Triều Tiên sẽ ký hiệp định Đối tác Chiến lược Toàn diện](https://vnexpress.net/nga-trieu-tien-se-ky-hiep-dinh-doi-tac-chien-luoc-toan-dien-4759862.html) - 13:33 18/06/2024
 - 🕴 [Người Trung Quốc hưởng ứng luật quản lý livestream](https://vnexpress.net/nguoi-trung-quoc-huong-ung-luat-quan-ly-livestream-4759565.html) - 13:00 18/06/2024
 - 🤭 [Mỹ kêu gọi khẩn cấp ngăn xung đột biên giới Israel - Lebanon](https://vnexpress.net/my-keu-goi-khan-cap-ngan-xung-dot-bien-gioi-israel-lebanon-4759861.html) - 12:35 18/06/2024
 - 🧑‍💻 [Ông Tập chỉ thị &#39;dốc sức chống lũ&#39; ở miền nam Trung Quốc](https://vnexpress.net/ong-tap-chi-thi-doc-suc-chong-lu-o-mien-nam-trung-quoc-4759845.html) - 12:14 18/06/2024
