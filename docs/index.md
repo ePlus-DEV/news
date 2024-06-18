@@ -212,7 +212,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp Bồ Đào Nha 0-0 Cộng hòa Czech: Hết hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-bo-dao-nha-0-0-cong-hoa-czech-het-hiep-1-1354727.ldo) - 18:00 18/06/2024
+- 🗽 [Trực tiếp Bồ Đào Nha 0-0 Cộng hòa Czech: Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-bo-dao-nha-0-0-cong-hoa-czech-hiep-2-1354727.ldo) - 18:00 18/06/2024
 - 📝 [Cổ động viên ẩu đả, mái sân bị dột trước trận Thổ Nhĩ Kỳ - Georgia](https://laodong.vn/bong-da-quoc-te/co-dong-vien-au-da-mai-san-bi-dot-truoc-tran-tho-nhi-ky-georgia-1354746.ldo) - 15:59 18/06/2024
 - 🦏 [Chủ tịch nước Tô Lâm tiếp Đại sứ Thụy Điển đến chào từ biệt](https://laodong.vn/thoi-su/chu-tich-nuoc-to-lam-tiep-dai-su-thuy-dien-den-chao-tu-biet-1354721.ldo) - 15:11 18/06/2024
 - 🦩 [9h ngày mai công bố điểm thi lớp 10 của hơn 98.000 thí sinh ở TPHCM](https://laodong.vn/giao-duc/9h-ngay-mai-cong-bo-diem-thi-lop-10-cua-hon-98000-thi-sinh-o-tphcm-1354634.ldo) - 15:07 18/06/2024
