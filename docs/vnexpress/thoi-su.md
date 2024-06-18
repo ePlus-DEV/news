@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Xe nhà ở lưu động dự kiến có quy chuẩn thiết kế riêng](https://vnexpress.net/xe-nha-o-luu-dong-du-kien-co-quy-chuan-thiet-ke-rieng-4759615.html) - 05:35 18/06/2024
+- 🦒 [Xe nhà ở lưu động sẽ có quy chuẩn thiết kế riêng](https://vnexpress.net/xe-nha-o-luu-dong-se-co-quy-chuan-thiet-ke-rieng-4759615.html) - 05:35 18/06/2024
 - 🤓 [Mở rộng 8 km đại lộ Võ Văn Kiệt](https://vnexpress.net/mo-rong-8-km-dai-lo-vo-van-kiet-4759660.html) - 05:35 18/06/2024
 - ⚗️ [Quỹ công đoàn kết dư hơn 43.200 tỷ đồng](https://vnexpress.net/quy-cong-doan-ket-du-hon-43-200-ty-dong-4759625.html) - 04:50 18/06/2024
 - 🌊 [&#39;Cân nhắc việc quy định cứng tỷ lệ 75% quỹ cho công đoàn cơ sở&#39;](https://vnexpress.net/can-nhac-viec-quy-dinh-cung-ty-le-75-quy-cho-cong-doan-co-so-4759572.html) - 04:07 18/06/2024
