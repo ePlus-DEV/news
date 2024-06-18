@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Xét xử trực tuyến đại án Đăng kiểm trong 3 tháng](https://vnexpress.net/xet-xu-truc-tuyen-dai-an-dang-kiem-trong-3-thang-4759610.html) - 03:30 18/06/2024
+- 😎 [Xét xử đại án Đăng kiểm trong 3 tháng](https://vnexpress.net/xet-xu-dai-an-dang-kiem-trong-3-thang-4759610.html) - 03:30 18/06/2024
 - 🥰 [23 người bị bắt vì liên quan ma túy tại bar Phương Lâm](https://vnexpress.net/23-nguoi-bi-bat-vi-lien-quan-ma-tuy-tai-bar-phuong-lam-4759545.html) - 02:48 18/06/2024
 - 🎓 [Từ sát thủ biến thái IQ cao thành &#39;tù nhân kiểu mẫu&#39;](https://vnexpress.net/tu-sat-thu-bien-thai-iq-cao-thanh-tu-nhan-kieu-mau-4759457.html) - 01:19 18/06/2024
 - 🤓 [Vụ án thủ môn xuất sắc sát hại bạn gái người mẫu](https://vnexpress.net/vu-an-thu-mon-xuat-sac-sat-hai-ban-gai-nguoi-mau-4759244.html) - 17:00 17/06/2024
