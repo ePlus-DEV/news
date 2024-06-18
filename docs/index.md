@@ -27,7 +27,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Tổng thống Putin bắt đầu chuyến thăm Triều Tiên](https://vnexpress.net/tong-thong-putin-bat-dau-chuyen-tham-trieu-tien-4759911.html) - 19:09 18/06/2024
-- 🧰 [Sao trẻ Real lập siêu phẩm giúp Thổ Nhĩ Kỳ thắng tại Euro](https://vnexpress.net/sao-tre-real-lap-sieu-pham-giup-tho-nhi-ky-thang-tai-euro-4759917.html) - 18:44 18/06/2024
+- 🧰 [Thổ Nhĩ Kỳ thắng trận hay bậc nhất từ đầu Euro](https://vnexpress.net/tho-nhi-ky-thang-tran-hay-bac-nhat-tu-dau-euro-4759917.html) - 18:44 18/06/2024
 - 🥰 [Bệnh nhân Hàn Quốc gián đoạn điều trị vì bác sĩ đình công](https://vnexpress.net/benh-nhan-han-quoc-gian-doan-dieu-tri-vi-bac-si-dinh-cong-4759851.html) - 18:00 18/06/2024
 - 🌏 [Những điều du khách tò mò về nước Đức dịp Euro](https://vnexpress.net/nhung-dieu-du-khach-to-mo-ve-nuoc-duc-dip-euro-4759646.html) - 17:24 18/06/2024
 - 🧐 [Có nên xông hơi mặt mỗi ngày?](https://vnexpress.net/co-nen-xong-hoi-mat-moi-ngay-4759873.html) - 17:02 18/06/2024
