@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Gần 44% bài thi môn Toán lớp 10 ở TP HCM dưới điểm 5](https://vnexpress.net/gan-44-bai-thi-mon-toan-lop-10-o-tp-hcm-duoi-diem-5-4759901.html) - 16:49 18/06/2024
+- 🤓 [Khoảng 50% bài thi Toán lớp 10 ở TP HCM dưới điểm 5](https://vnexpress.net/khoang-50-bai-thi-toan-lop-10-o-tp-hcm-duoi-diem-5-4759901.html) - 16:49 18/06/2024
 - 🦆 [TP HCM công bố điểm thi lớp 10 vào sáng mai](https://vnexpress.net/tp-hcm-cong-bo-diem-thi-lop-10-vao-sang-mai-4759741.html) - 15:08 18/06/2024
 - 🦩 [Tỉnh nào là quê hương của nhà Lý?](https://vnexpress.net/tinh-nao-la-que-huong-cua-nha-ly-4759850.html) - 13:00 18/06/2024
 - 🌮 [Điểm chuẩn lớp 10 ở Đà Nẵng cao nhất 58,38](https://vnexpress.net/diem-chuan-lop-10-da-nang-2024-4759865.html) - 12:50 18/06/2024
