@@ -213,7 +213,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦩 [Lợi ích của rau arugula đối với sức khỏe](https://laodong.vn/suc-khoe/loi-ich-cua-rau-arugula-doi-voi-suc-khoe-1354623.ldo) - 15:00 18/06/2024
 - 🦏 [Công đoàn ngành Xây dựng Hà Nội khen thưởng thực hiện tài chính Công đoàn](https://laodong.vn/ldld-tphn/cong-doan-nganh-xay-dung-ha-noi-khen-thuong-thuc-hien-tai-chinh-cong-doan-1354697.ldo) - 15:00 18/06/2024
 - 🧰 [Dự báo thời tiết 10 ngày tới từ 18.6 đến 28.6 ở cả ba miền](https://laodong.vn/moi-truong/du-bao-thoi-tiet-10-ngay-toi-tu-186-den-286-o-ca-ba-mien-1354596.ldo) - 14:58 18/06/2024
-- 🌊 [Trực tiếp Thổ Nhĩ Kỳ 0-0 Georgia: Bóng dội cột dọc Georgia](https://laodong.vn/bong-da-quoc-te/truc-tiep-tho-nhi-ky-0-0-georgia-bong-doi-cot-doc-georgia-1354731.ldo) - 14:58 18/06/2024
+- 🌊 [Trực tiếp Thổ Nhĩ Kỳ 1-1 Georgia: Mikautadze gỡ hòa](https://laodong.vn/bong-da-quoc-te/truc-tiep-tho-nhi-ky-1-1-georgia-mikautadze-go-hoa-1354731.ldo) - 14:58 18/06/2024
 - 🔥 [Hà Nội thông báo kế hoạch phân luồng giao thông trong 2 ngày tới](https://laodong.vn/xa-hoi/ha-noi-thong-bao-ke-hoach-phan-luong-giao-thong-trong-2-ngay-toi-1354729.ldo) - 14:56 18/06/2024
 - 🦒 [TPHCM mở đợt cao điểm kiểm tra an toàn thực phẩm](https://laodong.vn/xa-hoi/tphcm-mo-dot-cao-diem-kiem-tra-an-toan-thuc-pham-1354722.ldo) - 14:13 18/06/2024
 - 💼 [Không để quảng cáo sai lệch về thuốc, không để người dân tiền mất tật mang](https://laodong.vn/thoi-su/khong-de-quang-cao-sai-lech-ve-thuoc-khong-de-nguoi-dan-tien-mat-tat-mang-1354703.ldo) - 14:13 18/06/2024
