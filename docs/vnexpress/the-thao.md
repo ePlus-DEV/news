@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Sao trẻ Real lập siêu phẩm giúp Thổ Nhĩ Kỳ thắng tại Euro](https://vnexpress.net/sao-tre-real-lap-sieu-pham-giup-tho-nhi-ky-thang-tai-euro-4759917.html) - 18:44 18/06/2024
+- 🪜 [Thổ Nhĩ Kỳ thắng trận hay bậc nhất từ đầu Euro](https://vnexpress.net/tho-nhi-ky-thang-tran-hay-bac-nhat-tu-dau-euro-4759917.html) - 18:44 18/06/2024
 - 🦩 [Runner Mỹ &#39;chạy đua&#39; cùng biến đổi khí hậu](https://vnexpress.net/runner-my-chay-dua-cung-bien-doi-khi-hau-4759849.html) - 17:00 18/06/2024
 - 🧰 [Ronaldo bị chê là &#39;điểm yếu của Bồ Đào Nha&#39;](https://vnexpress.net/ronaldo-bi-che-la-diem-yeu-cua-bo-dao-nha-4759866.html) - 12:53 18/06/2024
 - 🤗 [Loạt kỷ lục &#39;khủng&#39; chờ Ronaldo hôm nay](https://vnexpress.net/loat-ky-luc-khung-cho-ronaldo-hom-nay-4759733.html) - 12:00 18/06/2024
