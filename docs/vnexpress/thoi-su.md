@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Ôtô 7 chỗ cháy trên đèo Khánh Lê](https://vnexpress.net/oto-7-cho-chay-tren-deo-khanh-le-4759813.html) - 09:48 18/06/2024
 - 🤓 [Chính phủ muốn lập Quỹ Bảo tồn di sản văn hóa](https://vnexpress.net/chinh-phu-muon-lap-quy-bao-ton-di-san-van-hoa-4759729.html) - 09:20 18/06/2024
 - ⚗️ [Tài xế lái ôtô đang bốc cháy tránh xa khu dân cư](https://vnexpress.net/tai-xe-lai-oto-dang-boc-chay-tranh-xa-khu-dan-cu-4759761.html) - 08:40 18/06/2024
-- 🌊 [Đề xuất siết quảng cáo vì ám ảnh &#39;nhà tôi ba đời bán thuốc&#39;](https://vnexpress.net/de-xuat-siet-quang-cao-vi-am-anh-nha-toi-ba-doi-ban-thuoc-4759708.html) - 08:27 18/06/2024
+- 🌊 [&#39;Nhiều thuốc bán trên sàn thương mại điện tử gây chảy máu, dị ứng&#39;](https://vnexpress.net/nhieu-thuoc-ban-tren-san-thuong-mai-dien-tu-gay-chay-mau-di-ung-4759708.html) - 08:27 18/06/2024
 - 🎓 [Đề xuất ôtô 45 chỗ được đi trên nút giao lớn nhất Nha Trang](https://vnexpress.net/de-xuat-oto-45-cho-duoc-di-tren-nut-giao-lon-nhat-nha-trang-4759742.html) - 08:24 18/06/2024
 - 🔥 [Xe nhà ở lưu động sẽ có quy chuẩn thiết kế riêng](https://vnexpress.net/xe-nha-o-luu-dong-se-co-quy-chuan-thiet-ke-rieng-4759615.html) - 05:35 18/06/2024
 - 🦏 [Mở rộng 8 km đại lộ Võ Văn Kiệt](https://vnexpress.net/mo-rong-8-km-dai-lo-vo-van-kiet-4759660.html) - 05:35 18/06/2024
