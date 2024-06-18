@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Nhật tháo dỡ chung cư 10 tầng vì chắn tầm nhìn núi Phú Sĩ](https://vnexpress.net/nhat-thao-do-chung-cu-10-tang-vi-chan-tam-nhin-nui-phu-si-4759534.html) - 04:45 18/06/2024
+- 💂 [10 thành phố có mức sống đắt và rẻ nhất thế giới 2024](https://vnexpress.net/10-thanh-pho-co-muc-song-dat-va-re-nhat-the-gioi-2024-4759575.html) - 05:20 18/06/2024
 - 🪄 [Hai du khách bị &#39;bỏ rơi&#39; trên đảo Ti Tốp](https://vnexpress.net/hai-du-khach-bi-bo-roi-tren-dao-ti-top-4759609.html) - 04:24 18/06/2024
 - 🦅 [Ngọn núi tỷ người biết nhưng chưa ai từng lên đỉnh](https://vnexpress.net/ngon-nui-ty-nguoi-biet-nhung-chua-ai-tung-len-dinh-4759127.html) - 02:24 18/06/2024
 - 🕴 [Hoàng hôn trên đảo Hòn Chùa](https://vnexpress.net/hoang-hon-tren-dao-hon-chua-4758943.html) - 17:00 17/06/2024
