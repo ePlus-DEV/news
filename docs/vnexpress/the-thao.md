@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Công an Hà Nội gia hạn hợp đồng với Quang Hải](https://vnexpress.net/cong-an-ha-noi-gia-han-hop-dong-voi-quang-hai-4760347.html) - 15:34 19/06/2024
-- 🦩 [Đức giành vé đầu tiên vào vòng 1/8 Euro 2024](https://vnexpress.net/duc-gianh-ve-dau-tien-vao-vong-1-8-euro-2024-4760342.html) - 15:26 19/06/2024
+- 🦩 [Đức giành vé đầu tiên vào vòng 1/8 Euro 2024](https://vnexpress.net/duc-gianh-ve-dau-tien-vao-vong-1-8-euro-2024-4760342-tong-thuat.html) - 15:26 19/06/2024
 - 🧰 [Patrik Lê Giang khát khao khoác áo tuyển Việt Nam](https://vnexpress.net/patrik-le-giang-khat-khao-khoac-ao-tuyen-viet-nam-4760344.html) - 15:16 19/06/2024
 - 🤗 [SLNA thua trận &#39;chung kết ngược&#39; V-League](https://vnexpress.net/slna-thua-tran-chung-ket-nguoc-v-league-4760323.html) - 13:21 19/06/2024
 - 🥳 [Croatia rơi chiến thắng phút cuối ở Euro 2024](https://vnexpress.net/croatia-vs-albania-4760316-tong-thuat.html) - 12:10 19/06/2024
