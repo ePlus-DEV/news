@@ -208,7 +208,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp bóng đá Đức 1-0 Hungary: Musiala mở tỉ số](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-duc-1-0-hungary-musiala-mo-ti-so-1355205.ldo) - 16:15 19/06/2024
+- 🗽 [Trực tiếp bóng đá Đức 1-0 Hungary: Hết hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-duc-1-0-hungary-het-hiep-1-1355205.ldo) - 16:15 19/06/2024
 - 📝 [PGS.TS Trần Cao Vinh được bổ nhiệm giữ chức Phó Giám đốc Đại học Quốc gia TPHCM](https://laodong.vn/chinh-sach-giao-duc/pgsts-tran-cao-vinh-duoc-bo-nhiem-giu-chuc-pho-giam-doc-dai-hoc-quoc-gia-tphcm-1355196.ldo) - 15:41 19/06/2024
 - 🦏 [Video bóng đá Thanh Hóa - Khánh Hòa: 1-1 &lpar;Vòng 24 V.League&rpar;](https://laodong.vn/ban-tin/video-bong-da-thanh-hoa-khanh-hoa-1-1-vong-24-vleague-1355191.ldo) - 15:38 19/06/2024
 - 🦩 [Hai tân Phó Chủ tịch UBND TPHCM chính thức nhận nhiệm vụ](https://laodong.vn/thoi-su/hai-tan-pho-chu-tich-ubnd-tphcm-chinh-thuc-nhan-nhiem-vu-1355194.ldo) - 15:37 19/06/2024
