@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Ronaldo ăn mừng trước mặt thủ môn CH Czech](https://vnexpress.net/ronaldo-an-mung-truoc-mat-thu-mon-ch-czech-4760135.html) - 05:40 19/06/2024
-- 🦩 [Euro ngày 19/6: Ong &#39;đột nhập&#39; sân đấu của tuyển Đức](https://vnexpress.net/euro-ngay-19-6-ong-dot-nhap-san-dau-cua-tuyen-duc-4760101.html) - 04:30 19/06/2024
+- 🦩 [Euro ngày 19/6: Schweinsteiger chỉ trích trọng tài thiên vị Bồ Đào Nha](https://vnexpress.net/euro-ngay-19-6-schweinsteiger-chi-trich-trong-tai-thien-vi-bo-dao-nha-4760101.html) - 04:30 19/06/2024
 - 🧰 [Thủ môn Czech tự hào vì khiến Ronaldo tịt ngòi](https://vnexpress.net/thu-mon-czech-tu-hao-vi-khien-ronaldo-tit-ngoi-4759899.html) - 02:59 19/06/2024
 - 🤗 [Ronaldo, Pepe cùng lập kỷ lục Euro](https://vnexpress.net/ronaldo-pepe-cung-lap-ky-luc-euro-4759950.html) - 01:01 19/06/2024
 - 🥳 [Người hùng Bồ Đào Nha đi vào lịch sử Euro](https://vnexpress.net/nguoi-hung-bo-dao-nha-di-vao-lich-su-euro-4759948.html) - 00:46 19/06/2024
