@@ -9,7 +9,7 @@ sidebar_position: 9
 - 🦍 [Ông Putin lái limousine chở ông Kim Jong-un đi dạo](https://vnexpress.net/ong-putin-lai-limousine-cho-ong-kim-jong-un-di-dao-4760318.html) - 12:52 19/06/2024
 - 🏊 [Nổ kho đạn ở Chad, ít nhất 9 người chết](https://vnexpress.net/no-kho-dan-o-chad-it-nhat-9-nguoi-chet-4760312.html) - 12:15 19/06/2024
 - 🎊 [Siêu tàu dài nhất thế giới thành đống sắt vụn](https://vnexpress.net/sieu-tau-dai-nhat-the-gioi-thanh-dong-sat-vun-4759940.html) - 12:11 19/06/2024
-- 🎃 [Croatia 0-0 Albania &lpar;H1&rpar;: Khán đài chật kín](https://vnexpress.net/croatia-vs-albania-4760316.html) - 12:10 19/06/2024
+- 🎃 [Croatia 0-1 Albania &lpar;H1&rpar;: Bất ngờ ở Hamburg](https://vnexpress.net/croatia-vs-albania-4760316.html) - 12:10 19/06/2024
 - 🧰 [Hàn Quốc tung loạt &#39;chiêu&#39; hút khách quốc tế](https://vnexpress.net/han-quoc-tung-loat-chieu-hut-khach-quoc-te-4760293.html) - 12:00 19/06/2024
 - 🔭 [Càng thương má, tôi càng ghét người ba gia trưởng, bạo lực](https://vnexpress.net/cang-thuong-ma-toi-cang-ghet-nguoi-ba-gia-truong-bao-luc-4760252.html) - 12:00 19/06/2024
 - 🫶 [Trả giá đắt vì &#39;thoải mái để ôtô dưới sân chung cư, không mất tiền&#39;](https://vnexpress.net/tra-gia-dat-vi-thoai-mai-de-oto-duoi-san-chung-cu-khong-mat-tien-4760244.html) - 12:00 19/06/2024
@@ -25,9 +25,9 @@ sidebar_position: 9
 - 💪 [Tốc độ sản xuất vũ khí mới của Mỹ &#39;chậm đến mức báo động&#39;](https://vnexpress.net/toc-do-san-xuat-vu-khi-moi-cua-my-cham-den-muc-bao-dong-4760116.html) - 11:36 19/06/2024
 - 🎓 [Sắp sửa gói tín dụng 120.000 tỷ cho nhà ở xã hội](https://vnexpress.net/sap-sua-goi-tin-dung-120-000-ty-cho-nha-o-xa-hoi-4760265.html) - 11:28 19/06/2024
 - 🫣 [&#39;Thời gian vàng&#39; cho golfer PGA Tour tránh bị loại đáng tiếc](https://vnexpress.net/thoi-gian-vang-cho-golfer-pga-tour-tranh-bi-loai-dang-tiec-4760309.html) - 11:03 19/06/2024
-- 🧑‍💻 [Bí quyết trẻ hóa của Anne Hathaway](https://vnexpress.net/bi-quyet-tre-hoa-cua-anne-hathaway-4760250.html) - 11:00 19/06/2024
-- 🐲 [Cách làm món thịt ba chỉ kho dứa](https://vnexpress.net/cach-lam-mon-thit-ba-chi-kho-dua-4760218.html) - 11:00 19/06/2024
-- 🌝 [Scotland - Thụy Sỹ: Tiếp đà thăng hoa](https://vnexpress.net/scotland-thuy-sy-tiep-da-thang-hoa-4760262.html) - 11:00 19/06/2024
+- 🧑‍💻 [Scotland - Thụy Sỹ: Tiếp đà thăng hoa](https://vnexpress.net/scotland-thuy-sy-tiep-da-thang-hoa-4760262.html) - 11:00 19/06/2024
+- 🐲 [Bí quyết trẻ hóa của Anne Hathaway](https://vnexpress.net/bi-quyet-tre-hoa-cua-anne-hathaway-4760250.html) - 11:00 19/06/2024
+- 🌝 [Cách làm món thịt ba chỉ kho dứa](https://vnexpress.net/cach-lam-mon-thit-ba-chi-kho-dua-4760218.html) - 11:00 19/06/2024
 - 😺 [Everon triển khai hệ thống quản trị dữ liệu DragonCDP](https://vnexpress.net/everon-trien-khai-he-thong-quan-tri-du-lieu-dragoncdp-4760303.html) - 11:00 19/06/2024
 - 🐎 [6 đồ uống giàu chất chống oxy hóa](https://vnexpress.net/6-do-uong-giau-chat-chong-oxy-hoa-4760194.html) - 11:00 19/06/2024
 - 🎡 [Quán quân GCDC nhận học bổng 200 triệu đồng từ Swinburne Việt Nam](https://vnexpress.net/quan-quan-gcdc-nhan-hoc-bong-200-trieu-dong-tu-swinburne-viet-nam-4759990.html) - 11:00 19/06/2024
