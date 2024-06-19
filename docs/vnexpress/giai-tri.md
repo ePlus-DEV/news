@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Hồ Văn Cường: &#39;Tôi nặng gánh gia đình&#39;](https://vnexpress.net/ho-van-cuong-toi-nang-ganh-gia-dinh-4759591.html) - 05:04 19/06/2024
-- 💫 [&#39;Mỹ nhân búp bê&#39; Krystyna Pyszková đến Việt Nam](https://vnexpress.net/my-nhan-bup-be-krystyna-pyszkova-den-viet-nam-4760122.html) - 05:01 19/06/2024
+- 💫 [&#39;Búp bê&#39; Krystyna Pyszková đến Việt Nam](https://vnexpress.net/bup-be-krystyna-pyszkova-den-viet-nam-4760122.html) - 05:01 19/06/2024
 - 🌮 [Phim về &#39;mối thù&#39; của Taylor Swift sắp ra mắt](https://vnexpress.net/phim-ve-moi-thu-cua-taylor-swift-sap-ra-mat-4759985.html) - 04:39 19/06/2024
 - 🧠 [Con gái Trần Anh Hùng ăn vận phóng khoáng](https://vnexpress.net/con-gai-tran-anh-hung-an-van-phong-khoang-4760040.html) - 04:25 19/06/2024
 - 👨‍🏫 [Tỷ phú Jeff Bezos và bạn gái nghỉ dưỡng ở Hy Lạp](https://vnexpress.net/ty-phu-jeff-bezos-va-ban-gai-nghi-duong-o-hy-lap-4760014.html) - 03:37 19/06/2024
