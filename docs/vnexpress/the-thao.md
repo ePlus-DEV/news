@@ -11,7 +11,7 @@ sidebar_position: 5
 - 🥳 [Xuất hiện kỷ lục giao bóng ở ATP](https://vnexpress.net/xuat-hien-ky-luc-giao-bong-o-atp-4760169.html) - 07:18 19/06/2024
 - 🦣 [Thần đồng Thổ Nhĩ Kỳ phá một kỷ lục của Ronaldo](https://vnexpress.net/than-dong-tho-nhi-ky-pha-mot-ky-luc-cua-ronaldo-4760041.html) - 07:00 19/06/2024
 - 🌜 [Ronaldo ăn mừng trước mặt thủ môn CH Czech](https://vnexpress.net/ronaldo-an-mung-truoc-mat-thu-mon-ch-czech-4760135.html) - 05:40 19/06/2024
-- 🫶 [Euro ngày 19/6: Schweinsteiger chỉ trích trọng tài thiên vị Bồ Đào Nha](https://vnexpress.net/euro-ngay-19-6-schweinsteiger-chi-trich-trong-tai-thien-vi-bo-dao-nha-4760101.html) - 04:30 19/06/2024
+- 🫶 [Euro ngày 19/6: Báo Đức dự đoán Nagelsmann không đổi đội hình](https://vnexpress.net/euro-ngay-19-6-bao-duc-du-doan-nagelsmann-khong-doi-doi-hinh-4760101.html) - 04:30 19/06/2024
 - 🌜 [Thủ môn Czech tự hào vì khiến Ronaldo tịt ngòi](https://vnexpress.net/thu-mon-czech-tu-hao-vi-khien-ronaldo-tit-ngoi-4759899.html) - 02:59 19/06/2024
 - 😺 [Ronaldo, Pepe cùng lập kỷ lục Euro](https://vnexpress.net/ronaldo-pepe-cung-lap-ky-luc-euro-4759950.html) - 01:01 19/06/2024
 - 👍 [Người hùng Bồ Đào Nha đi vào lịch sử Euro](https://vnexpress.net/nguoi-hung-bo-dao-nha-di-vao-lich-su-euro-4759948.html) - 00:46 19/06/2024
