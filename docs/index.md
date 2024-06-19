@@ -316,7 +316,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo SGGP
 <!-- sggp:START -->
 - 🪜 [Quảng Ninh thông tin chính thức về khóa tu ở chùa Ba Vàng có cô gái bị “vong nhập”](https://www.sggp.org.vn/quang-ninh-thong-tin-chinh-thuc-ve-khoa-tu-o-chua-ba-vang-co-co-gai-bi-vong-nhap-post745332.html) - 10:40 19/06/2024
-- 🌝 [Liên tiếp xảy ra sự cố y khoa nghiêm trọng, Sở Y tế yêu cầu Bệnh viện thẩm mỹ Sao Hàn tạm ngưng hoạt động phẫu thuật](https://www.sggp.org.vn/lien-tiep-xay-ra-su-co-y-khoa-nghiem-trong-so-y-te-yeu-cau-benh-vien-tham-my-sao-han-tam-ngung-hoat-dong-phau-thuat-post745343.html) - 10:39 19/06/2024
+- 🌝 [Tạm ngưng hoạt động phẫu thuật ở Bệnh viện thẩm mỹ Sao Hàn](https://www.sggp.org.vn/tam-ngung-hoat-dong-phau-thuat-o-benh-vien-tham-my-sao-han-post745343.html) - 10:39 19/06/2024
 - 💃 [Lâm Đồng: Đề xuất đưa dự án Đại Ninh ra khỏi danh sách công trình trọng điểm](https://www.sggp.org.vn/lam-dong-de-xuat-dua-du-an-dai-ninh-ra-khoi-danh-sach-cong-trinh-trong-diem-post745333.html) - 10:32 19/06/2024
 - 🧑‍💻 [Thứ trưởng Bộ Công thương: Đừng nghĩ giá điện chỉ có tăng, mà sẽ có cả giảm](https://www.sggp.org.vn/thu-truong-bo-cong-thuong-dung-nghi-gia-dien-chi-co-tang-ma-se-co-ca-giam-post745342.html) - 10:31 19/06/2024
 - 🌊 [Sắc màu Euro: “Bợm nhậu” Anh ngủ quên trên sân - CĐV Đức bị gãy tay vì Niclas Füllkrug](https://www.sggp.org.vn/sac-mau-euro-bom-nhau-anh-ngu-quen-tren-san-cdv-duc-bi-gay-tay-vi-niclas-fullkrug-post745340.html) - 10:28 19/06/2024
