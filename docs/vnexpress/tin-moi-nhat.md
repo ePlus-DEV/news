@@ -28,7 +28,7 @@ sidebar_position: 9
 - 🧑‍💻 [Ngành Logistics lấy điểm chuẩn học bạ cao nhất Đại học Xây dựng Hà Nội](https://vnexpress.net/diem-chuan-hoc-ba-dai-hoc-xay-dung-ha-noi-2024-4760313.html) - 15:35 19/06/2024
 - 🐲 [Công an Hà Nội gia hạn hợp đồng với Quang Hải](https://vnexpress.net/cong-an-ha-noi-gia-han-hop-dong-voi-quang-hai-4760347.html) - 15:34 19/06/2024
 - 🌝 [Ông Cao Khoa, Lê Viết Chữ bị xóa tư cách Chủ tịch tỉnh Quảng Ngãi](https://vnexpress.net/ong-cao-khoa-le-viet-chu-bi-xoa-tu-cach-chu-tich-tinh-quang-ngai-4760343.html) - 15:29 19/06/2024
-- 😺 [Đức giành vé đầu tiên vào vòng 1/8 Euro 2024](https://vnexpress.net/duc-gianh-ve-dau-tien-vao-vong-1-8-euro-2024-4760342.html) - 15:26 19/06/2024
+- 😺 [Đức giành vé đầu tiên vào vòng 1/8 Euro 2024](https://vnexpress.net/duc-gianh-ve-dau-tien-vao-vong-1-8-euro-2024-4760342-tong-thuat.html) - 15:26 19/06/2024
 - 🐎 [Patrik Lê Giang khát khao khoác áo tuyển Việt Nam](https://vnexpress.net/patrik-le-giang-khat-khao-khoac-ao-tuyen-viet-nam-4760344.html) - 15:16 19/06/2024
 - 🎡 [Hezbollah tiếp tục nã đạn vào Israel bất chấp cảnh báo](https://vnexpress.net/hezbollah-tiep-tuc-na-dan-vao-israel-bat-chap-canh-bao-4760331.html) - 14:59 19/06/2024
 - 👨‍🏫 [Gu mặc tôn chân dài 1,23 m của Bảo Ngọc](https://vnexpress.net/gu-mac-ton-chan-dai-1-23-m-cua-bao-ngoc-4760069.html) - 14:30 19/06/2024
