@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [SLNA thua trận &#39;chung kết ngược&#39; V-League](https://vnexpress.net/slna-thua-tran-chung-ket-nguoc-v-league-4760323.html) - 13:21 19/06/2024
-- 🦩 [Croatia 0-1 Albania &lpar;H2&rpar;: CĐV hấp dẫn nhất hôn gió trên khán đài](https://vnexpress.net/croatia-vs-albania-4760316.html) - 12:10 19/06/2024
+- 🦩 [Croatia 2-1 Albania &lpar;H2&rpar;: Hai bàn trong hai phút](https://vnexpress.net/croatia-vs-albania-4760316.html) - 12:10 19/06/2024
 - 🧰 [&#39;Thời gian vàng&#39; cho golfer PGA Tour tránh bị loại đáng tiếc](https://vnexpress.net/thoi-gian-vang-cho-golfer-pga-tour-tranh-bi-loai-dang-tiec-4760309.html) - 11:03 19/06/2024
 - 🤗 [Scotland - Thụy Sỹ: Tiếp đà thăng hoa](https://vnexpress.net/scotland-thuy-sy-tiep-da-thang-hoa-4760262.html) - 11:00 19/06/2024
 - 🥳 [Nỗi đau của McIlroy ở US Open 2024](https://vnexpress.net/noi-dau-cua-mcilroy-o-us-open-2024-4760298.html) - 10:27 19/06/2024
