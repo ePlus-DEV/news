@@ -145,13 +145,13 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 20.6.2024](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-2062024-185240618222059709.htm) - 15:30 19/06/2024
-- 🥸 [Hãi hùng đám cháy xưởng mút xốp hơn 1.000 mét vuông ở TP.HCM](https://thanhnien.vn/hai-hung-dam-chay-xuong-mut-xop-hon-1000-met-vuong-o-tphcm-185240619211146838.htm) - 15:14 19/06/2024
-- 🌁 [Một trung tâm đăng kiểm bị tạm đình chỉ hoạt động 3 tháng](https://thanhnien.vn/mot-trung-tam-dang-kiem-bi-tam-dinh-chi-hoat-dong-3-thang-185240619205558888.htm) - 15:10 19/06/2024
-- 🤡 [Thủ tướng phê duyệt đề án nâng cao hiệu quả thực thi kiểm dịch động, thực vật](https://thanhnien.vn/thu-tuong-phe-duyet-de-an-nang-cao-hieu-qua-thuc-thi-kiem-dich-dong-thuc-vat-185240619215041863.htm) - 15:09 19/06/2024
-- 🎉 [HLV Popov lần đầu chỉ trích mạnh đội Thanh Hóa, HLV Khánh Hòa nói điều rất bất ngờ](https://thanhnien.vn/hlv-popov-lan-dau-chi-trich-manh-doi-thanh-hoa-hlv-khanh-hoa-noi-dieu-rat-bat-ngo-185240619214810204.htm) - 15:02 19/06/2024
-- 🎊 [EURO 2024, đội tuyển Đức 0-0 Hungary: ‘Cỗ xe tăng’ đoạt vé vào vòng knock-out sớm?](https://thanhnien.vn/euro-2024-doi-tuyen-duc-0-0-hungary-co-xe-tang-doat-ve-vao-vong-knock-out-som-185240619170024481.htm) - 15:00 19/06/2024
-- 🤠 [Nội bộ quân đội Israel đổ lỗi về cách xử lý tài liệu tình báo](https://thanhnien.vn/noi-bo-quan-doi-israel-do-loi-ve-cach-xu-ly-tai-lieu-tinh-bao-185240619210844315.htm) - 14:59 19/06/2024
+- 🤠 [Trung tâm thương mại sầm uất tại Ả Rập Xê Út](https://thanhnien.vn/thoi-trang-tre/trung-tam-thuong-mai-sam-uat-tai-a-rap-xe-ut-185240617111247076.htm) - 16:00 19/06/2024
+- 🥸 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 20.6.2024](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-2062024-185240618222059709.htm) - 15:30 19/06/2024
+- 🌁 [Hãi hùng đám cháy xưởng mút xốp hơn 1.000 mét vuông ở TP.HCM](https://thanhnien.vn/hai-hung-dam-chay-xuong-mut-xop-hon-1000-met-vuong-o-tphcm-185240619211146838.htm) - 15:14 19/06/2024
+- 🤡 [Một trung tâm đăng kiểm bị tạm đình chỉ hoạt động 3 tháng](https://thanhnien.vn/mot-trung-tam-dang-kiem-bi-tam-dinh-chi-hoat-dong-3-thang-185240619205558888.htm) - 15:10 19/06/2024
+- 🎉 [Thủ tướng phê duyệt đề án nâng cao hiệu quả thực thi kiểm dịch động, thực vật](https://thanhnien.vn/thu-tuong-phe-duyet-de-an-nang-cao-hieu-qua-thuc-thi-kiem-dich-dong-thuc-vat-185240619215041863.htm) - 15:09 19/06/2024
+- 🎊 [HLV Popov lần đầu chỉ trích mạnh đội Thanh Hóa, HLV Khánh Hòa nói điều rất bất ngờ](https://thanhnien.vn/hlv-popov-lan-dau-chi-trich-manh-doi-thanh-hoa-hlv-khanh-hoa-noi-dieu-rat-bat-ngo-185240619214810204.htm) - 15:02 19/06/2024
+- 🤠 [EURO 2024, đội tuyển Đức 0-0 Hungary: Havertz bỏ lỡ cơ hội đáng tiếc](https://thanhnien.vn/euro-2024-doi-tuyen-duc-0-0-hungary-co-xe-tang-doat-ve-vao-vong-knock-out-som-185240619170024481.htm) - 15:00 19/06/2024
 - 💼 [Nóng: Quang Hải cam kết gắn bó trọn đời với CLB CAHN, hợp đồng giá trị đến khi giải nghệ](https://thanhnien.vn/nong-quang-hai-cam-ket-gan-bo-tron-doi-voi-clb-cahn-hop-dong-gia-tri-den-khi-giai-nghe-185240619213735789.htm) - 14:46 19/06/2024
 - 🐻 [Công an điều tra vụ cháy cơ sở bột nhang khiến 2 người tử vong](https://thanhnien.vn/cong-an-dieu-tra-vu-chay-co-so-bot-nhang-khien-2-nguoi-tu-vong-185240619204917703.htm) - 14:02 19/06/2024
 - 🤔 [Địa điểm du lịch ấn tượng tại Amman, thủ đô của Jordan](https://thanhnien.vn/thoi-trang-tre/dia-diem-du-lich-an-tuong-tai-amman-thu-do-cua-jordan-185240617105824109.htm) - 14:00 19/06/2024
