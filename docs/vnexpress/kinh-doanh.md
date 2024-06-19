@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Nvidia vượt Apple, Microsoft, thành công ty giá trị nhất thế giới](https://vnexpress.net/nvidia-vuot-apple-microsoft-thanh-cong-ty-gia-tri-nhat-the-gioi-4759928.html) - 22:37 18/06/2024
-- 🐲 [Vì sao hàng không Việt kém hấp dẫn nhà đầu tư ngoại?](https://vnexpress.net/vi-sao-hang-khong-viet-kem-hap-dan-nha-dau-tu-ngoai-4759706.html) - 16:11 18/06/2024
+- 🐲 [Vì sao hàng không Việt kém hấp dẫn nhà đầu tư ngoại?](https://vnexpress.net/vi-sao-hang-khong-viet-kem-hap-dan-nha-dau-tu-ngoai-4759706.html) - 17:00 18/06/2024
 - 🔥 [Đề xuất chi tối đa 50 triệu đồng mua một tin phòng chống tham nhũng](https://vnexpress.net/de-xuat-chi-toi-da-50-trieu-dong-mua-mot-tin-phong-chong-tham-nhung-4759875.html) - 14:55 18/06/2024
 - 🐵 [&#39;Cấm xuất cảnh nhắm vào đại diện doanh nghiệp chây ỳ nợ thuế&#39;](https://vnexpress.net/quy-trinh-cam-xuat-canh-khi-no-thue-rat-chat-che-4759808.html) - 10:52 18/06/2024
 - 🦅 [Cơ quan thuế tiếp tục đề xuất không mua bán vàng bằng tiền mặt](https://vnexpress.net/co-quan-thue-tiep-tuc-de-xuat-khong-mua-ban-vang-bang-tien-mat-4759740.html) - 09:11 18/06/2024
