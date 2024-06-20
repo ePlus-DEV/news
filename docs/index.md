@@ -312,56 +312,56 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Một trẻ nhỏ bị sinh rớt tại nhà, nguy kịch vì suy hô hấp](https://www.sggp.org.vn/mot-tre-nho-bi-sinh-rot-tai-nha-nguy-kich-vi-suy-ho-hap-post745460.html) - 05:28 20/06/2024
-- 🌝 [Những vị trợ lý mang đến hoài niệm tại Euro 2024](https://www.sggp.org.vn/nhung-vi-tro-ly-mang-den-hoai-niem-tai-euro-2024-post745472.html) - 05:28 20/06/2024
-- 💃 [Cà Mau: Thành lập khu bảo tồn biển 27.000ha](https://www.sggp.org.vn/ca-mau-thanh-lap-khu-bao-ton-bien-27000ha-post745466.html) - 05:21 20/06/2024
-- 🧑‍💻 [Đội tuyển U16 Việt Nam lên đường tham dự giải vô địch U16 Đông Nam Á 2024](https://www.sggp.org.vn/doi-tuyen-u16-viet-nam-len-duong-tham-du-giai-vo-dich-u16-dong-nam-a-2024-post745470.html) - 05:14 20/06/2024
-- 🌊 [Đổ xăng đốt nhà nhân tình vì mâu thuẫn tình cảm](https://www.sggp.org.vn/do-xang-dot-nha-nhan-tinh-vi-mau-thuan-tinh-cam-post745445.html) - 05:13 20/06/2024
-- 🧑‍💻 [Giá vàng nhẫn đồng loạt tăng, tiến sát giá vàng miếng](https://www.sggp.org.vn/gia-vang-nhan-dong-loat-tang-tien-sat-gia-vang-mieng-post745463.html) - 05:07 20/06/2024
-- ⛽️ [HLV của Italy và Tây Ban Nha “tung hứng” trước trận](https://www.sggp.org.vn/hlv-cua-italy-va-tay-ban-nha-tung-hung-truoc-tran-post745469.html) - 04:56 20/06/2024
-- 😎 [Mạo danh Phó Trưởng Ban nội chính Trung ương lừa đảo chiếm đoạt hơn 30 tỷ đồng](https://www.sggp.org.vn/mao-danh-pho-truong-ban-noi-chinh-trung-uong-lua-dao-chiem-doat-hon-30-ty-dong-post745462.html) - 04:54 20/06/2024
-- 🌜 [Copa America 2024: Tuyển Jamaica &#39;vật lộn&#39; với chấn thương](https://www.sggp.org.vn/copa-america-2024-tuyen-jamaica-vat-lon-voi-chan-thuong-post745464.html) - 04:38 20/06/2024
-- 💻 [Điều tra người đàn ông tử vong trên xe ô tô](https://www.sggp.org.vn/dieu-tra-nguoi-dan-ong-tu-vong-tren-xe-o-to-post745459.html) - 04:32 20/06/2024
-- 👍 [Tổng thống Putin được trao tặng Huân chương Kim Nhật Thành](https://www.sggp.org.vn/tong-thong-putin-duoc-trao-tang-huan-chuong-kim-nhat-thanh-post745456.html) - 04:29 20/06/2024
-- 🦆 [Sài Gòn Giải Phóng ngày 20/6/2024](https://www.sggp.org.vn/sai-gon-giai-phong-ngay-2062024-post745431.html) - 04:26 20/06/2024
+- 🪜 [Apple cấp quyền mở bán trên TikTok Shop, F.Studio by FPT “tung” ưu đãi đến 1,9 triệu đồng](https://www.sggp.org.vn/apple-cap-quyen-mo-ban-tren-tiktok-shop-fstudio-by-fpt-tung-uu-dai-den-19-trieu-dong-post745457.html) - 05:37 20/06/2024
+- 🌝 [Huawei đồng hành cùng các doanh nghiệp khai phóng tiềm năng tăng trưởng mới](https://www.sggp.org.vn/huawei-dong-hanh-cung-cac-doanh-nghiep-khai-phong-tiem-nang-tang-truong-moi-post745467.html) - 05:33 20/06/2024
+- 💃 [Báo SGGP tiếp tục khẳng định vị trí cơ quan báo chí chính trị chủ lực](https://www.sggp.org.vn/bao-sggp-tiep-tuc-khang-dinh-vi-tri-co-quan-bao-chi-chinh-tri-chu-luc-post745455.html) - 05:33 20/06/2024
+- 🧑‍💻 [Một trẻ nhỏ bị sinh rớt tại nhà, nguy kịch vì suy hô hấp](https://www.sggp.org.vn/mot-tre-nho-bi-sinh-rot-tai-nha-nguy-kich-vi-suy-ho-hap-post745460.html) - 05:28 20/06/2024
+- 🌊 [Những vị trợ lý mang đến hoài niệm tại Euro 2024](https://www.sggp.org.vn/nhung-vi-tro-ly-mang-den-hoai-niem-tai-euro-2024-post745472.html) - 05:28 20/06/2024
+- 🧑‍💻 [Cà Mau: Thành lập khu bảo tồn biển 27.000ha](https://www.sggp.org.vn/ca-mau-thanh-lap-khu-bao-ton-bien-27000ha-post745466.html) - 05:21 20/06/2024
+- ⛽️ [Đội tuyển U16 Việt Nam lên đường tham dự giải vô địch U16 Đông Nam Á 2024](https://www.sggp.org.vn/doi-tuyen-u16-viet-nam-len-duong-tham-du-giai-vo-dich-u16-dong-nam-a-2024-post745470.html) - 05:14 20/06/2024
+- 😎 [Đổ xăng đốt nhà nhân tình vì mâu thuẫn tình cảm](https://www.sggp.org.vn/do-xang-dot-nha-nhan-tinh-vi-mau-thuan-tinh-cam-post745445.html) - 05:13 20/06/2024
+- 🌜 [Giá vàng nhẫn đồng loạt tăng, tiến sát giá vàng miếng](https://www.sggp.org.vn/gia-vang-nhan-dong-loat-tang-tien-sat-gia-vang-mieng-post745463.html) - 05:07 20/06/2024
+- 💻 [HLV của Italy và Tây Ban Nha “tung hứng” trước trận](https://www.sggp.org.vn/hlv-cua-italy-va-tay-ban-nha-tung-hung-truoc-tran-post745469.html) - 04:56 20/06/2024
+- 👍 [Mạo danh Phó Trưởng Ban nội chính Trung ương lừa đảo chiếm đoạt hơn 30 tỷ đồng](https://www.sggp.org.vn/mao-danh-pho-truong-ban-noi-chinh-trung-uong-lua-dao-chiem-doat-hon-30-ty-dong-post745462.html) - 04:54 20/06/2024
+- 🦆 [Copa America 2024: Tuyển Jamaica &#39;vật lộn&#39; với chấn thương](https://www.sggp.org.vn/copa-america-2024-tuyen-jamaica-vat-lon-voi-chan-thuong-post745464.html) - 04:38 20/06/2024
+- 🦩 [Điều tra người đàn ông tử vong trên xe ô tô](https://www.sggp.org.vn/dieu-tra-nguoi-dan-ong-tu-vong-tren-xe-o-to-post745459.html) - 04:32 20/06/2024
+- 🥰 [Tổng thống Putin được trao tặng Huân chương Kim Nhật Thành](https://www.sggp.org.vn/tong-thong-putin-duoc-trao-tang-huan-chuong-kim-nhat-thanh-post745456.html) - 04:29 20/06/2024
+- 🎬 [Sài Gòn Giải Phóng ngày 20/6/2024](https://www.sggp.org.vn/sai-gon-giai-phong-ngay-2062024-post745431.html) - 04:26 20/06/2024
 - 🦩 [Quang Hải sẽ gắn bó với CAHN đến khi giải nghệ](https://www.sggp.org.vn/quang-hai-se-gan-bo-voi-cahn-den-khi-giai-nghe-post745461.html) - 04:26 20/06/2024
-- 🥰 [Thăm hỏi, động viên đội xung kích EVNHCMC](https://www.sggp.org.vn/tham-hoi-dong-vien-doi-xung-kich-evnhcmc-post745418.html) - 04:26 20/06/2024
-- 🎬 [Nhiệm vụ và giải pháp tiết kiệm điện đối với doanh nghiệp sản xuất](https://www.sggp.org.vn/nhiem-vu-va-giai-phap-tiet-kiem-dien-doi-voi-doanh-nghiep-san-xuat-post745419.html) - 04:26 20/06/2024
-- 🦩 [Ngành bán lẻ chuyển mình theo xu hướng xanh](https://www.sggp.org.vn/nganh-ban-le-chuyen-minh-theo-xu-huong-xanh-post745420.html) - 04:26 20/06/2024
-- 🌮 [Sắp xét xử cựu Giám đốc Trung tâm Công nghệ sinh học TPHCM Dương Hoa Xô](https://www.sggp.org.vn/sap-xet-xu-cuu-giam-doc-trung-tam-cong-nghe-sinh-hoc-tphcm-duong-hoa-xo-post745452.html) - 04:25 20/06/2024
-- 👍 [Nhiều giải pháp thúc đẩy thanh toán không tiền mặt](https://www.sggp.org.vn/nhieu-giai-phap-thuc-day-thanh-toan-khong-tien-mat-post745421.html) - 04:25 20/06/2024
-- 🦒 [Dịch vụ lưu trú đẳng cấp từ hệ sinh thái Saigon Co.op](https://www.sggp.org.vn/dich-vu-luu-tru-dang-cap-tu-he-sinh-thai-saigon-coop-post745423.html) - 04:25 20/06/2024
-- 🤡 [50% người tiêu dùng Việt bị ảnh hưởng từ KOL và KOC](https://www.sggp.org.vn/50-nguoi-tieu-dung-viet-bi-anh-huong-tu-kol-va-koc-post745422.html) - 04:25 20/06/2024
-- 🐎 [Kiểm soát chặt việc tăng giá hàng hóa](https://www.sggp.org.vn/kiem-soat-chat-viec-tang-gia-hang-hoa-post745426.html) - 04:25 20/06/2024
-- 🦆 [Chi tiêu cho ăn uống, du lịch tăng cao](https://www.sggp.org.vn/chi-tieu-cho-an-uong-du-lich-tang-cao-post745425.html) - 04:25 20/06/2024
-- 🦅 [TPHCM mở rộng quy mô khuyến mãi hàng hiệu](https://www.sggp.org.vn/tphcm-mo-rong-quy-mo-khuyen-mai-hang-hieu-post745424.html) - 04:25 20/06/2024
-- 🫣 [Hà Tĩnh có tân Giám đốc Công an tỉnh](https://www.sggp.org.vn/ha-tinh-co-tan-giam-doc-cong-an-tinh-post745444.html) - 04:20 20/06/2024
-- 🎭 [Ứng phó áp thấp nhiệt đới sắp xuất hiện trên Biển Đông](https://www.sggp.org.vn/ung-pho-ap-thap-nhiet-doi-sap-xuat-hien-tren-bien-dong-post745446.html) - 04:15 20/06/2024
-- 🫶 [Lacazette từ chối &#39;núi tiền&#39; từ Ả Rập Xê Út và lòng trung thành trong bóng đá hiện đại](https://www.sggp.org.vn/lacazette-tu-choi-nui-tien-tu-a-rap-xe-ut-va-long-trung-thanh-trong-bong-da-hien-dai-post745450.html) - 04:11 20/06/2024
-- 🎓 [Nguyên nhân 2 người tử vong trong vụ cháy cơ sở bột nhang](https://www.sggp.org.vn/nguyen-nhan-2-nguoi-tu-vong-trong-vu-chay-co-so-bot-nhang-post745440.html) - 03:45 20/06/2024
-- 🤡 [Tượng cổ quý hiếm của Việt Nam được hồi hương từ nước Anh](https://www.sggp.org.vn/tuong-co-quy-hiem-cua-viet-nam-duoc-hoi-huong-tu-nuoc-anh-post745442.html) - 03:29 20/06/2024
-- 🦅 [Hàn Quốc điều tra vụ rò rỉ dữ liệu cá nhân của nhân viên công vụ](https://www.sggp.org.vn/han-quoc-dieu-tra-vu-ro-ri-du-lieu-ca-nhan-cua-nhan-vien-cong-vu-post745441.html) - 03:27 20/06/2024
-- 🧑‍🏫 [Ngày 2-7 sẽ có thông báo chính thức suất Olympic 2024 của tuyển thủ Nhi Yến](https://www.sggp.org.vn/ngay-2-7-se-co-thong-bao-chinh-thuc-suat-olympic-2024-cua-tuyen-thu-nhi-yen-post745439.html) - 03:09 20/06/2024
-- 🕴 [Bóng chuyền Binh chủng Thông tin liên lạc chúc mừng Ngày báo chí Cách mạng Việt Nam](https://www.sggp.org.vn/bong-chuyen-binh-chung-thong-tin-lien-lac-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-post745437.html) - 03:08 20/06/2024
-- 🦆 [Việt Nam dự 27 môn với hơn 300 VĐV ở Đại hội thể thao trong nhà và võ thuật châu Á 2024](https://www.sggp.org.vn/viet-nam-du-27-mon-voi-hon-300-vdv-o-dai-hoi-the-thao-trong-nha-va-vo-thuat-chau-a-2024-post745436.html) - 03:08 20/06/2024
-- 🎃 [Ban Chỉ đạo cấp quốc gia kỳ thi tốt nghiệp THPT 2024 yêu cầu xây dựng kịch bản và các phương án dự phòng cho từng khâu](https://www.sggp.org.vn/ban-chi-dao-cap-quoc-gia-ky-thi-tot-nghiep-thpt-2024-yeu-cau-xay-dung-kich-ban-va-cac-phuong-an-du-phong-cho-tung-khau-post745435.html) - 02:44 20/06/2024
-- 🌮 [Phân công nhiệm vụ Chủ tịch và các Phó Chủ tịch UBND TPHCM](https://www.sggp.org.vn/phan-cong-nhiem-vu-chu-tich-va-cac-pho-chu-tich-ubnd-tphcm-post745434.html) - 02:30 20/06/2024
-- 🥰 [Mbappe: “Không có rủi ro thì không có chiến thắng”](https://www.sggp.org.vn/mbappe-khong-co-rui-ro-thi-khong-co-chien-thang-post745438.html) - 02:26 20/06/2024
-- 🕯 [Chính phủ ban hành chương trình hành động về tiếp tục phát huy truyền thống, sức mạnh đại đoàn kết toàn dân tộc](https://www.sggp.org.vn/chinh-phu-ban-hanh-chuong-trinh-hanh-dong-ve-tiep-tuc-phat-huy-truyen-thong-suc-manh-dai-doan-ket-toan-dan-toc-post745430.html) - 02:26 20/06/2024
-- 🙉 [Thực hiện lộ trình cơ chế giá thị trường có sự quản lý của Nhà nước đối với viện phí, học phí](https://www.sggp.org.vn/thuc-hien-lo-trinh-co-che-gia-thi-truong-co-su-quan-ly-cua-nha-nuoc-doi-voi-vien-phi-hoc-phi-post745432.html) - 02:25 20/06/2024
-- 💡 [Bán thuốc qua mạng: Nhiều hệ lụy](https://www.sggp.org.vn/ban-thuoc-qua-mang-nhieu-he-luy-post745389.html) - 02:24 20/06/2024
-- 💫 [Dự án, quy hoạch &quot;treo&quot;: Rà soát xử lý để đảm bảo quyền lợi người dân](https://www.sggp.org.vn/du-an-quy-hoach-treo-ra-soat-xu-ly-de-dam-bao-quyen-loi-nguoi-dan-post745399.html) - 02:24 20/06/2024
-- 🧑‍💻 [Hồng Công thúc đẩy công nghệ xanh](https://www.sggp.org.vn/hong-cong-thuc-day-cong-nghe-xanh-post745408.html) - 02:17 20/06/2024
-- 🎊 [Scaloni: “Argentina hãy tận hưởng Messi, Di Maria khi còn có thể”](https://www.sggp.org.vn/scaloni-argentina-hay-tan-huong-messi-di-maria-khi-con-co-the-post745433.html) - 01:48 20/06/2024
-- 🤖 [Nông nghiệp Ấn Độ chịu nhiều sức ép do thiếu mưa](https://www.sggp.org.vn/nong-nghiep-an-do-chiu-nhieu-suc-ep-do-thieu-mua-post745411.html) - 01:32 20/06/2024
-- 💫 [Chặn lừa đảo mời gọi đầu tư qua mạng xã hội](https://www.sggp.org.vn/chan-lua-dao-moi-goi-dau-tu-qua-mang-xa-hoi-post745409.html) - 01:32 20/06/2024
-- 👨‍🏫 [Bánh mì chức năng giúp ngăn ngừa bệnh hen suyễn](https://www.sggp.org.vn/banh-mi-chuc-nang-giup-ngan-ngua-benh-hen-suyen-post745410.html) - 01:32 20/06/2024
-- 🧰 [Canada xếp Vệ binh Cách mạng Hồi giáo Iran vào danh sách khủng bố](https://www.sggp.org.vn/canada-xep-ve-binh-cach-mang-hoi-giao-iran-vao-danh-sach-khung-bo-post745428.html) - 01:17 20/06/2024
-- 🥰 [Southgate sớm phải lo đối phó “vấn nạn” truyền thông Anh](https://www.sggp.org.vn/southgate-som-phai-lo-doi-pho-van-nan-truyen-thong-anh-post745429.html) - 01:11 20/06/2024
-- 💼 [Hướng công nghệ blockchain vào các ứng dụng hành chính công](https://www.sggp.org.vn/huong-cong-nghe-blockchain-vao-cac-ung-dung-hanh-chinh-cong-post745398.html) - 01:04 20/06/2024
-- 🤗 [Tạo thêm động lực để phát triển quan hệ hợp tác Nga - Việt](https://www.sggp.org.vn/tao-them-dong-luc-de-phat-trien-quan-he-hop-tac-nga-viet-post745384.html) - 01:03 20/06/2024
-- 🦩 [Bảo trì định kỳ trên tuyến đường bộ cao tốc TPHCM – Trung Lương](https://www.sggp.org.vn/bao-tri-dinh-ky-tren-tuyen-duong-bo-cao-toc-tphcm-trung-luong-post745004.html) - 01:00 20/06/2024
-- 🫶 [UBND quận 12 thông báo &lpar;lần 2&rpar;](https://www.sggp.org.vn/ubnd-quan-12-thong-bao-lan-2-post745297.html) - 01:00 20/06/2024<!-- sggp:END -->
+- 🌮 [Thăm hỏi, động viên đội xung kích EVNHCMC](https://www.sggp.org.vn/tham-hoi-dong-vien-doi-xung-kich-evnhcmc-post745418.html) - 04:26 20/06/2024
+- 👍 [Nhiệm vụ và giải pháp tiết kiệm điện đối với doanh nghiệp sản xuất](https://www.sggp.org.vn/nhiem-vu-va-giai-phap-tiet-kiem-dien-doi-voi-doanh-nghiep-san-xuat-post745419.html) - 04:26 20/06/2024
+- 🦒 [Ngành bán lẻ chuyển mình theo xu hướng xanh](https://www.sggp.org.vn/nganh-ban-le-chuyen-minh-theo-xu-huong-xanh-post745420.html) - 04:26 20/06/2024
+- 🤡 [Sắp xét xử cựu Giám đốc Trung tâm Công nghệ sinh học TPHCM Dương Hoa Xô](https://www.sggp.org.vn/sap-xet-xu-cuu-giam-doc-trung-tam-cong-nghe-sinh-hoc-tphcm-duong-hoa-xo-post745452.html) - 04:25 20/06/2024
+- 🐎 [Nhiều giải pháp thúc đẩy thanh toán không tiền mặt](https://www.sggp.org.vn/nhieu-giai-phap-thuc-day-thanh-toan-khong-tien-mat-post745421.html) - 04:25 20/06/2024
+- 🦆 [Dịch vụ lưu trú đẳng cấp từ hệ sinh thái Saigon Co.op](https://www.sggp.org.vn/dich-vu-luu-tru-dang-cap-tu-he-sinh-thai-saigon-coop-post745423.html) - 04:25 20/06/2024
+- 🦅 [50% người tiêu dùng Việt bị ảnh hưởng từ KOL và KOC](https://www.sggp.org.vn/50-nguoi-tieu-dung-viet-bi-anh-huong-tu-kol-va-koc-post745422.html) - 04:25 20/06/2024
+- 🫣 [Kiểm soát chặt việc tăng giá hàng hóa](https://www.sggp.org.vn/kiem-soat-chat-viec-tang-gia-hang-hoa-post745426.html) - 04:25 20/06/2024
+- 🎭 [Chi tiêu cho ăn uống, du lịch tăng cao](https://www.sggp.org.vn/chi-tieu-cho-an-uong-du-lich-tang-cao-post745425.html) - 04:25 20/06/2024
+- 🫶 [TPHCM mở rộng quy mô khuyến mãi hàng hiệu](https://www.sggp.org.vn/tphcm-mo-rong-quy-mo-khuyen-mai-hang-hieu-post745424.html) - 04:25 20/06/2024
+- 🎓 [Hà Tĩnh có tân Giám đốc Công an tỉnh](https://www.sggp.org.vn/ha-tinh-co-tan-giam-doc-cong-an-tinh-post745444.html) - 04:20 20/06/2024
+- 🤡 [Ứng phó áp thấp nhiệt đới sắp xuất hiện trên Biển Đông](https://www.sggp.org.vn/ung-pho-ap-thap-nhiet-doi-sap-xuat-hien-tren-bien-dong-post745446.html) - 04:15 20/06/2024
+- 🦅 [Lacazette từ chối &#39;núi tiền&#39; từ Ả Rập Xê Út và lòng trung thành trong bóng đá hiện đại](https://www.sggp.org.vn/lacazette-tu-choi-nui-tien-tu-a-rap-xe-ut-va-long-trung-thanh-trong-bong-da-hien-dai-post745450.html) - 04:11 20/06/2024
+- 🧑‍🏫 [Nguyên nhân 2 người tử vong trong vụ cháy cơ sở bột nhang](https://www.sggp.org.vn/nguyen-nhan-2-nguoi-tu-vong-trong-vu-chay-co-so-bot-nhang-post745440.html) - 03:45 20/06/2024
+- 🕴 [Tượng cổ quý hiếm của Việt Nam được hồi hương từ nước Anh](https://www.sggp.org.vn/tuong-co-quy-hiem-cua-viet-nam-duoc-hoi-huong-tu-nuoc-anh-post745442.html) - 03:29 20/06/2024
+- 🦆 [Hàn Quốc điều tra vụ rò rỉ dữ liệu cá nhân của nhân viên công vụ](https://www.sggp.org.vn/han-quoc-dieu-tra-vu-ro-ri-du-lieu-ca-nhan-cua-nhan-vien-cong-vu-post745441.html) - 03:27 20/06/2024
+- 🎃 [Ngày 2-7 sẽ có thông báo chính thức suất Olympic 2024 của tuyển thủ Nhi Yến](https://www.sggp.org.vn/ngay-2-7-se-co-thong-bao-chinh-thuc-suat-olympic-2024-cua-tuyen-thu-nhi-yen-post745439.html) - 03:09 20/06/2024
+- 🌮 [Bóng chuyền Binh chủng Thông tin liên lạc chúc mừng Ngày báo chí Cách mạng Việt Nam](https://www.sggp.org.vn/bong-chuyen-binh-chung-thong-tin-lien-lac-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-post745437.html) - 03:08 20/06/2024
+- 🥰 [Việt Nam dự 27 môn với hơn 300 VĐV ở Đại hội thể thao trong nhà và võ thuật châu Á 2024](https://www.sggp.org.vn/viet-nam-du-27-mon-voi-hon-300-vdv-o-dai-hoi-the-thao-trong-nha-va-vo-thuat-chau-a-2024-post745436.html) - 03:08 20/06/2024
+- 🕯 [Ban Chỉ đạo cấp quốc gia kỳ thi tốt nghiệp THPT 2024 yêu cầu xây dựng kịch bản và các phương án dự phòng cho từng khâu](https://www.sggp.org.vn/ban-chi-dao-cap-quoc-gia-ky-thi-tot-nghiep-thpt-2024-yeu-cau-xay-dung-kich-ban-va-cac-phuong-an-du-phong-cho-tung-khau-post745435.html) - 02:44 20/06/2024
+- 🙉 [Phân công nhiệm vụ Chủ tịch và các Phó Chủ tịch UBND TPHCM](https://www.sggp.org.vn/phan-cong-nhiem-vu-chu-tich-va-cac-pho-chu-tich-ubnd-tphcm-post745434.html) - 02:30 20/06/2024
+- 💡 [Mbappe: “Không có rủi ro thì không có chiến thắng”](https://www.sggp.org.vn/mbappe-khong-co-rui-ro-thi-khong-co-chien-thang-post745438.html) - 02:26 20/06/2024
+- 💫 [Chính phủ ban hành chương trình hành động về tiếp tục phát huy truyền thống, sức mạnh đại đoàn kết toàn dân tộc](https://www.sggp.org.vn/chinh-phu-ban-hanh-chuong-trinh-hanh-dong-ve-tiep-tuc-phat-huy-truyen-thong-suc-manh-dai-doan-ket-toan-dan-toc-post745430.html) - 02:26 20/06/2024
+- 🧑‍💻 [Thực hiện lộ trình cơ chế giá thị trường có sự quản lý của Nhà nước đối với viện phí, học phí](https://www.sggp.org.vn/thuc-hien-lo-trinh-co-che-gia-thi-truong-co-su-quan-ly-cua-nha-nuoc-doi-voi-vien-phi-hoc-phi-post745432.html) - 02:25 20/06/2024
+- 🎊 [Bán thuốc qua mạng: Nhiều hệ lụy](https://www.sggp.org.vn/ban-thuoc-qua-mang-nhieu-he-luy-post745389.html) - 02:24 20/06/2024
+- 🤖 [Dự án, quy hoạch &quot;treo&quot;: Rà soát xử lý để đảm bảo quyền lợi người dân](https://www.sggp.org.vn/du-an-quy-hoach-treo-ra-soat-xu-ly-de-dam-bao-quyen-loi-nguoi-dan-post745399.html) - 02:24 20/06/2024
+- 💫 [Hồng Công thúc đẩy công nghệ xanh](https://www.sggp.org.vn/hong-cong-thuc-day-cong-nghe-xanh-post745408.html) - 02:17 20/06/2024
+- 👨‍🏫 [Scaloni: “Argentina hãy tận hưởng Messi, Di Maria khi còn có thể”](https://www.sggp.org.vn/scaloni-argentina-hay-tan-huong-messi-di-maria-khi-con-co-the-post745433.html) - 01:48 20/06/2024
+- 🧰 [Nông nghiệp Ấn Độ chịu nhiều sức ép do thiếu mưa](https://www.sggp.org.vn/nong-nghiep-an-do-chiu-nhieu-suc-ep-do-thieu-mua-post745411.html) - 01:32 20/06/2024
+- 🥰 [Chặn lừa đảo mời gọi đầu tư qua mạng xã hội](https://www.sggp.org.vn/chan-lua-dao-moi-goi-dau-tu-qua-mang-xa-hoi-post745409.html) - 01:32 20/06/2024
+- 💼 [Bánh mì chức năng giúp ngăn ngừa bệnh hen suyễn](https://www.sggp.org.vn/banh-mi-chuc-nang-giup-ngan-ngua-benh-hen-suyen-post745410.html) - 01:32 20/06/2024
+- 🤗 [Canada xếp Vệ binh Cách mạng Hồi giáo Iran vào danh sách khủng bố](https://www.sggp.org.vn/canada-xep-ve-binh-cach-mang-hoi-giao-iran-vao-danh-sach-khung-bo-post745428.html) - 01:17 20/06/2024
+- 🦩 [Southgate sớm phải lo đối phó “vấn nạn” truyền thông Anh](https://www.sggp.org.vn/southgate-som-phai-lo-doi-pho-van-nan-truyen-thong-anh-post745429.html) - 01:11 20/06/2024
+- 🫶 [Hướng công nghệ blockchain vào các ứng dụng hành chính công](https://www.sggp.org.vn/huong-cong-nghe-blockchain-vao-cac-ung-dung-hanh-chinh-cong-post745398.html) - 01:04 20/06/2024<!-- sggp:END -->
 
 ## Báo VTC
 <!-- vtc:START -->
