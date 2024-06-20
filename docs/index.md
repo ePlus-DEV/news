@@ -31,7 +31,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥰 [Việt Nam lên tiếng về Báo cáo Ranh giới ngoài thềm lục địa của Philippines](https://vnexpress.net/viet-nam-len-tieng-ve-bao-cao-ranh-gioi-ngoai-them-luc-dia-cua-philippines-4760805.html) - 15:31 20/06/2024
 - 🌏 [Pacific Airlines có thể bay trở lại từ 26/6](https://vnexpress.net/pacific-airlines-co-the-bay-tro-lai-tu-26-6-4759268.html) - 15:28 20/06/2024
 - 🧐 [Thái Lan xin gia nhập BRICS](https://vnexpress.net/thai-lan-xin-gia-nhap-brics-4760790.html) - 15:27 20/06/2024
-- 💫 [Anh 1-1 Đan Mạch &lpar;hết H1&rpar;: Cú sút từ 28 m thành bàn](https://vnexpress.net/anh-vs-dan-mach-4760784.html) - 15:10 20/06/2024
+- 💫 [Anh 1-1 Đan Mạch &lpar;H1&rpar;: Hjulmand gỡ hòa bằng siêu phẩm](https://vnexpress.net/anh-vs-dan-mach-4760784.html) - 15:10 20/06/2024
 - 😺 [HAGL thoát vị trí đá play-off](https://vnexpress.net/hagl-thoat-vi-tri-da-play-off-4759915.html) - 15:04 20/06/2024
 - 🕯 [Việt Nam và Nga sẽ tăng hợp tác dầu khí](https://vnexpress.net/viet-nam-nga-se-tang-hop-tac-trong-linh-vuc-dau-khi-4760793.html) - 14:32 20/06/2024
 - 💃 [Cùng nhau trên mọi chặng đường](https://vnexpress.net/cung-nhau-tren-moi-chang-duong-4760803.html) - 14:28 20/06/2024
