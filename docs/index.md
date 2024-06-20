@@ -143,8 +143,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [&#39;Quả bom hẹn giờ ở Trung Đông](https://thanhnien.vn/qua-bom-hen-gio-o-trung-dong-185240619224709147.htm) - 15:43 20/06/2024
-- 🥸 [VCK EURO 2024, Đan Mạch 0-0 Anh: &#39;Tam sư&#39; chứng tỏ đẳng cấp](https://thanhnien.vn/vck-euro-2024-dan-mach-anh-tam-su-chung-to-dang-cap-185240620202735794.htm) - 15:42 20/06/2024
+- 🤠 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 21.6.2024](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-2162024-185240619145751944.htm) - 16:27 20/06/2024
+- 🥸 [VCK EURO 2024, Đan Mạch 1-1 Anh: Morten Hjulmand &#39;nã đại bác&#39;](https://thanhnien.vn/vck-euro-2024-dan-mach-anh-tam-su-chung-to-dang-cap-185240620202735794.htm) - 15:42 20/06/2024
 - 🌁 [Sao &#39;Nữ hoàng nước mắt&#39; Kim Soo Hyun được khán giả Hàn yêu thích](https://thanhnien.vn/sao-nu-hoang-nuoc-mat-kim-soo-hyun-duoc-khan-gia-han-yeu-thich-185240620154820071.htm) - 15:33 20/06/2024
 - 🤡 [Toàn văn Tuyên bố chung Việt Nam - Liên bang Nga](https://thanhnien.vn/toan-van-tuyen-bo-chung-viet-nam-lien-bang-nga-185240620205809329.htm) - 15:23 20/06/2024
 - 🎉 [CLB CAHN thắng hủy diệt, HLV Polking thở phào còn HLV Hải Phòng không quá buồn](https://thanhnien.vn/clb-cahn-thang-huy-diet-hlv-polking-tho-phao-con-hlv-hai-phong-khong-qua-buon-185240620220147168.htm) - 15:08 20/06/2024
