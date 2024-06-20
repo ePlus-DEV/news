@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Anh 1-1 Đan Mạch &lpar;H2&rpar;: &#39;Trận đấu vẫn còn thêm bàn&#39;](https://vnexpress.net/anh-vs-dan-mach-4760784.html) - 15:10 20/06/2024
+- 🪜 [Anh rơi chiến thắng trước Đan Mạch ở Euro 2024](https://vnexpress.net/anh-vs-dan-mach-4760784-tong-thuat.html) - 15:10 20/06/2024
 - 🦩 [HAGL thoát vị trí đá play-off](https://vnexpress.net/hagl-thoat-vi-tri-da-play-off-4759915.html) - 15:04 20/06/2024
 - 🧰 [Công an Hà Nội thắng trận đầu thời Polking](https://vnexpress.net/cong-an-ha-noi-thang-tran-dau-thoi-polking-4760787.html) - 14:25 20/06/2024
 - 🤗 [Nam Định chạm một tay vào chức vô địch V-League](https://vnexpress.net/nam-dinh-cham-mot-tay-vao-chuc-vo-dich-v-league-4760797.html) - 14:24 20/06/2024
