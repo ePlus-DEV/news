@@ -208,7 +208,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- laodong:START -->
 - 🗽 [Cháy lớn tại 1 công ty trong khu công nghiệp Phúc Khánh Thái Bình](https://laodong.vn/ban-tin/chay-lon-tai-1-cong-ty-trong-khu-cong-nghiep-phuc-khanh-thai-binh-1355644.ldo) - 16:32 20/06/2024
 - 📝 [Tặng 100 suất quà Nestles cho công nhân khu công nghiệp ở Hải Phòng](https://laodong.vn/tam-long-vang/tang-100-suat-qua-nestles-cho-cong-nhan-khu-cong-nghiep-o-hai-phong-1355468.ldo) - 15:28 20/06/2024
-- 🦏 [Trực tiếp bóng đá Đan Mạch 1-1 Anh: Hjulmand gỡ hòa](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-dan-mach-1-1-anh-hjulmand-go-hoa-1355631.ldo) - 15:12 20/06/2024
+- 🦏 [Trực tiếp bóng đá Đan Mạch 1-1 Anh: Hết hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-dan-mach-1-1-anh-het-hiep-1-1355631.ldo) - 15:12 20/06/2024
 - 🦩 [Quảng Ninh phát hiện nhiều điểm kinh doanh thuốc lá điện tử trái phép](https://laodong.vn/phap-luat/quang-ninh-phat-hien-nhieu-diem-kinh-doanh-thuoc-la-dien-tu-trai-phep-1355622.ldo) - 15:09 20/06/2024
 - 🦏 [Giảm cân dễ như chơi game với phương pháp Gamification](https://laodong.vn/suc-khoe/giam-can-de-nhu-choi-game-voi-phuong-phap-gamification-1355262.ldo) - 15:00 20/06/2024
 - 🧰 [Bóng chuyền Việt Nam ngày 20.6: Đội tuyển nữ xuất hiện trong video đặc biệt](https://laodong.vn/the-thao/bong-chuyen-viet-nam-ngay-206-doi-tuyen-nu-xuat-hien-trong-video-dac-biet-1355592.ldo) - 14:52 20/06/2024
