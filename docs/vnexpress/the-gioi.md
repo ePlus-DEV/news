@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Hơn 900 người tử vong khi hành hương đến Mecca giữa nắng nóng](https://vnexpress.net/hon-900-nguoi-tu-vong-khi-hanh-huong-den-mecca-giua-nang-nong-4760484.html) - 04:33 20/06/2024
-- 🕴 [Chủ tịch nước sắp chủ trì lễ đón Tổng thống Putin](https://vnexpress.net/chu-tich-nuoc-sap-chu-tri-le-don-tong-thong-putin-4760496.html) - 04:23 20/06/2024
+- 🕴 [Chủ tịch nước chủ trì lễ đón Tổng thống Putin](https://vnexpress.net/chu-tich-nuoc-sap-chu-tri-le-don-tong-thong-putin-4760496.html) - 04:23 20/06/2024
 - 🤭 [Philippines yêu cầu Trung Quốc trả súng sau vụ đối đầu trên Biển Đông](https://vnexpress.net/philippines-yeu-cau-trung-quoc-tra-sung-sau-vu-doi-dau-tren-bien-dong-4760424.html) - 03:53 20/06/2024
 - 🧑‍💻 [Mỹ duyệt bán hơn 1.000 drone tự sát cho Đài Loan](https://vnexpress.net/my-duyet-ban-hon-1-000-drone-tu-sat-cho-dai-loan-4760500.html) - 03:51 20/06/2024
 - 🦏 [Ứng viên dùng AI để tranh cử nghị sĩ ở Anh](https://vnexpress.net/ung-vien-dung-ai-de-tranh-cu-nghi-si-o-anh-4760406.html) - 03:20 20/06/2024
