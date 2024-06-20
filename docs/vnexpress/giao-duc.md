@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Nền tảng giúp cựu sinh viên FPT thích nghi với môi trường quốc tế](https://vnexpress.net/nen-tang-giup-cuu-sinh-vien-fpt-thich-nghi-voi-moi-truong-quoc-te-4759179.html) - 01:00 20/06/2024
 - 🦆 [Điểm chuẩn lớp 10 chuyên Sư phạm cao nhất gần 28/40](https://vnexpress.net/diem-chuan-lop-10-chuyen-su-pham-cao-nhat-gan-28-40-4755162.html) - 23:56 19/06/2024
-- 🦩 [Điểm chuẩn lớp 10 trường top đầu có thể giảm 0,5-1](https://vnexpress.net/diem-chuan-lop-10-truong-top-dau-co-the-giam-0-5-1-4760030.html) - 22:33 19/06/2024
+- 🦩 [Điểm chuẩn lớp 10 ở TP HCM có thể giảm tới 2 điểm](https://vnexpress.net/diem-chuan-lop-10-o-tp-hcm-co-the-giam-toi-2-diem-4760030.html) - 22:33 19/06/2024
 - 🌮 [Ngành Logistics lấy điểm chuẩn học bạ cao nhất Đại học Xây dựng Hà Nội](https://vnexpress.net/diem-chuan-hoc-ba-dai-hoc-xay-dung-ha-noi-2024-4760313.html) - 15:35 19/06/2024
 - 🔭 [Cách phát âm đuôi &#39;ese&#39; trong tiếng Anh](https://vnexpress.net/cach-phat-am-duoi-ese-trong-tieng-anh-4760281.html) - 10:11 19/06/2024
 - 💡 [Thủ khoa lớp 10 TP HCM giải đề Tiếng Anh trong 5 phút](https://vnexpress.net/thu-khoa-lop-10-tp-hcm-giai-de-tieng-anh-trong-5-phut-4760148.html) - 06:50 19/06/2024
