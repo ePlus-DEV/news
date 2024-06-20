@@ -208,7 +208,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp bóng đá Tây Ban Nha vs Italy tại bảng B EURO 2024](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-tay-ban-nha-vs-italy-tai-bang-b-euro-2024-1355639.ldo) - 18:00 20/06/2024
+- 🗽 [Trực tiếp bóng đá Tây Ban Nha vs Italy tại bảng B EURO 2024: Yamal tiếp tục đá chính](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-tay-ban-nha-vs-italy-tai-bang-b-euro-2024-yamal-tiep-tuc-da-chinh-1355639.ldo) - 18:00 20/06/2024
 - 📝 [Cháy lớn tại 1 công ty trong khu công nghiệp Phúc Khánh Thái Bình](https://laodong.vn/ban-tin/chay-lon-tai-1-cong-ty-trong-khu-cong-nghiep-phuc-khanh-thai-binh-1355644.ldo) - 16:32 20/06/2024
 - 🦏 [Tặng 100 suất quà Nestles cho công nhân khu công nghiệp ở Hải Phòng](https://laodong.vn/tam-long-vang/tang-100-suat-qua-nestles-cho-cong-nhan-khu-cong-nghiep-o-hai-phong-1355468.ldo) - 15:28 20/06/2024
 - 🦩 [Tuyển Anh may mắn thoát thua trước Đan Mạch](https://laodong.vn/bong-da-quoc-te/tuyen-anh-may-man-thoat-thua-truoc-dan-mach-1355631.ldo) - 15:12 20/06/2024
