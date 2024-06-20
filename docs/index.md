@@ -249,7 +249,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Chủ tịch nước Tô Lâm chủ trì tiệc chiêu đãi Tổng thống Vladimir Putin](https://nld.com.vn/chu-tich-nuoc-to-lam-chu-tri-tiec-chieu-dai-tong-thong-vladimir-putin-196240620220920162.htm) - 15:24 20/06/2024
+- 🐎 [Tổng thống Putin dẫn lời Chủ tịch Hồ Chí Minh tại chiêu đãi](https://nld.com.vn/chu-tich-nuoc-to-lam-chu-tri-tiec-chieu-dai-tong-thong-vladimir-putin-196240620220920162.htm) - 15:24 20/06/2024
 - 😺 [Euro 2024: Serbia trở lại từ cửa tử, chia điểm với Slovenia phút chót](https://nld.com.vn/euro-2024-serbia-tro-lai-tu-cua-tu-chia-diem-voi-slovenia-phut-chot-196240620214548769.htm) - 15:16 20/06/2024
 - 👍 [Việt Nam lên tiếng việc Philippines đệ trình báo cáo về Biển Đông](https://nld.com.vn/viet-nam-len-tieng-viec-philippines-de-trinh-bao-cao-ve-bien-dong-196240620214608817.htm) - 14:47 20/06/2024
 - 🥷 [Toàn văn Tuyên bố chung giữa Việt Nam và Liên bang Nga](https://nld.com.vn/toan-van-tuyen-bo-chung-giua-viet-nam-va-lien-bang-nga-196240620213505788.htm) - 14:44 20/06/2024
