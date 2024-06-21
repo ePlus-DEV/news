@@ -78,9 +78,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🏊 [Em tự tạo ra duyên số](https://vnexpress.net/em-tu-tao-ra-duyen-so-4760930.html) - 08:00 21/06/2024
 - 💂 [Elon Musk nêu lý do không muốn kéo dài tuổi thọ](https://vnexpress.net/elon-musk-neu-ly-do-khong-muon-keo-dai-tuoi-tho-4760800.html) - 08:00 21/06/2024
 - 🚀 [Muốn chuyển về gần nhà nhưng sợ công việc mới bị AI thay thế](https://vnexpress.net/muon-chuyen-ve-gan-nha-nhung-so-cong-viec-moi-bi-ai-thay-the-4760981.html) - 08:00 21/06/2024
-- 🕴 [EVNSPC đề xuất tăng đầu tư lưới điện tại Bình Phước](https://vnexpress.net/evnspc-de-xuat-tang-dau-tu-luoi-dien-tai-binh-phuoc-4761046.html) - 08:00 21/06/2024
-- 🦆 [Cần làm gì khi điều hòa không lạnh?](https://vnexpress.net/can-lam-gi-khi-dieu-hoa-khong-lanh-4760910.html) - 08:00 21/06/2024
-- 💫 [Tiềm năng tăng giá nhà phố thương mại tại khu Đông TP HCM](https://vnexpress.net/tiem-nang-tang-gia-nha-pho-thuong-mai-tai-khu-dong-tp-hcm-4760677.html) - 08:00 21/06/2024<!-- vnexpress:END -->
+- 🕴 [EVNSPC đề xuất tăng đầu tư lưới điện tại Bình Phước](https://vnexpress.net/evnspc-de-xuat-tang-dau-tu-luoi-dien-tai-binh-phuoc-4761046.html) - 08:00 21/06/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
