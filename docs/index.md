@@ -209,7 +209,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp bóng đá Hà Lan vs Pháp:  Kylian Mbappe  dự bị](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-ha-lan-vs-phap-kylian-mbappe-du-bi-1356055.ldo) - 18:00 21/06/2024
+- 🗽 [Trực tiếp bóng đá Hà Lan 0-0 Pháp: Hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-ha-lan-0-0-phap-hiep-1-1356055.ldo) - 18:00 21/06/2024
 - 📝 [Video bàn thắng tuyển Ukraine - Slovakia &lpar;2-1&rpar;: Lội ngược dòng thành công](https://laodong.vn/bong-da-quoc-te/video-ban-thang-tuyen-ukraine-slovakia-2-1-loi-nguoc-dong-thanh-cong-1356056.ldo) - 18:00 21/06/2024
 - 🦏 [Báo Lao Động có 2 tác phẩm đoạt giải Báo chí Quốc gia lần thứ XVIII](https://laodong.vn/video-xa-hoi/bao-lao-dong-co-2-tac-pham-doat-giai-bao-chi-quoc-gia-lan-thu-xviii-1356016.ldo) - 17:55 21/06/2024
 - 🦩 [Link xem trực tiếp bóng đá Peru vs Chile tại Copa America 2024](https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-peru-vs-chile-tai-copa-america-2024-1356042.ldo) - 15:47 21/06/2024
