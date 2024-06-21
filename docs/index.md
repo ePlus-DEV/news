@@ -210,7 +210,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Lao Động
 <!-- laodong:START -->
 - 🗽 [Link xem trực tiếp bóng đá Peru vs Chile tại Copa America 2024](https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-peru-vs-chile-tai-copa-america-2024-1356042.ldo) - 15:47 21/06/2024
-- 📝 [Trực tiếp bóng đá Ba Lan 1-1 Áo: Hết hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-ba-lan-1-1-ao-het-hiep-1-1356047.ldo) - 15:35 21/06/2024
+- 📝 [Trực tiếp bóng đá Ba Lan 1-1 Áo: Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-ba-lan-1-1-ao-hiep-2-1356047.ldo) - 15:35 21/06/2024
 - 🦏 [Báo Lao Động đoạt giải B và C Giải Báo chí quốc gia lần thứ XVIII năm 2023](https://laodong.vn/thoi-su/bao-lao-dong-doat-giai-b-va-c-giai-bao-chi-quoc-gia-lan-thu-xviii-nam-2023-1355306.ldo) - 15:29 21/06/2024
 - 🦩 [Cơ sở kinh doanh giải khát ở TP Hà Tĩnh bốc cháy dữ dội](https://laodong.vn/xa-hoi/co-so-kinh-doanh-giai-khat-o-tp-ha-tinh-boc-chay-du-doi-1356036.ldo) - 15:07 21/06/2024
 - 🦏 [Tuyển Bồ Đào Nha cần Bruno, Leao chơi ích kỷ hơn](https://laodong.vn/bong-da-quoc-te/tuyen-bo-dao-nha-can-bruno-leao-choi-ich-ky-hon-1356006.ldo) - 14:44 21/06/2024
