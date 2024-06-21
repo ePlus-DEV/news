@@ -155,7 +155,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤠 [Tìm ra 3 bí mật giúp bạn sống thọ hơn](https://thanhnien.vn/tim-ra-3-bi-mat-giup-ban-song-tho-hon-185240621170019419.htm) - 17:05 21/06/2024
 - 💼 [Báo Thanh Niên đoạt 3 giải báo chí quốc gia](https://thanhnien.vn/bao-thanh-nien-doat-3-giai-bao-chi-quoc-gia-185240621220424185.htm) - 16:25 21/06/2024
 - 🐻 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 22.6.2024](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-2262024-185240620213223485.htm) - 16:03 21/06/2024
-- 🤔 [VCK EURO 2024, Ba Lan 1-2 Áo: Baumgartner nâng tỷ số](https://thanhnien.vn/vck-euro-2024-ba-lan-ao-lewandowski-tai-xuat-185240621164932133.htm) - 15:58 21/06/2024
+- 🤔 [VCK EURO 2024, Ba Lan 1-3 Áo: Arnautovic đào sâu cách biệt](https://thanhnien.vn/vck-euro-2024-ba-lan-ao-lewandowski-tai-xuat-185240621164932133.htm) - 15:58 21/06/2024
 - 📝 [Khi nhà báo điều tra làm họa sĩ](https://thanhnien.vn/khi-nha-bao-dieu-tra-lam-hoa-si-185240621224140405.htm) - 15:49 21/06/2024
 - 🥰 [Hàng chục người chết do mưa lớn bất thường gây lũ lụt, lở đất ở Trung Quốc](https://thanhnien.vn/hang-chuc-nguoi-chet-do-mua-lon-bat-thuong-gay-lu-lut-lo-dat-o-trung-quoc-185240621212536843.htm) - 15:30 21/06/2024
 - 🐲 [&#39;Xây dựng đội ngũ người làm báo kiên định lý tưởng, giá trị cao đẹp của nghề&#39;](https://thanhnien.vn/xay-dung-doi-ngu-nguoi-lam-bao-kien-dinh-ly-tuong-gia-tri-cao-dep-cua-nghe-185240621213412272.htm) - 15:12 21/06/2024
