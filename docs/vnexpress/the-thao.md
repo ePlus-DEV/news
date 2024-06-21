@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Tiger Balm đồng hành cùng VM Quy Nhơn mùa thứ 5](https://vnexpress.net/tiger-balm-dong-hanh-cung-vm-quy-nhon-mua-thu-5-4761112.html) - 13:00 21/06/2024
-- 🦩 [Slovakia 1-1 Ukraine &lpar;H2&rpar;: Shaparenko gỡ hòa](https://vnexpress.net/slovakia-vs-ukraine-4761171.html) - 12:30 21/06/2024
+- 🦩 [Ukraine thắng ngược Slovakia](https://vnexpress.net/slovakia-vs-ukraine-4761171-tong-thuat.html) - 12:30 21/06/2024
 - 🧰 [Pháp - Hà Lan: Phân định ngôi đầu](https://vnexpress.net/phap-ha-lan-phan-dinh-ngoi-dau-4761123.html) - 10:18 21/06/2024
 - 🤗 [Nhiều khách sạn Quy Nhơn ưu đãi trên 50% dịp VnExpress Marathon](https://vnexpress.net/nhieu-khach-san-quy-nhon-uu-dai-tren-50-dip-vnexpress-marathon-4761106.html) - 09:18 21/06/2024
 - 🥳 [Ba Lan - Áo: Giành giật vé vớt](https://vnexpress.net/ba-lan-ao-gianh-giat-ve-vot-4761097.html) - 09:16 21/06/2024
