@@ -12,7 +12,7 @@ sidebar_position: 9
 - 🎃 [Vì sao Israel không thể tiêu diệt Hamas?](https://vnexpress.net/vi-sao-israel-khong-the-tieu-diet-hamas-4761189.html) - 21:00 21/06/2024
 - 🧰 [Viêm phổi do nhiễm nấm](https://vnexpress.net/viem-phoi-do-nhiem-nam-4761139.html) - 21:00 21/06/2024
 - 🔭 [Cách tập luyện giúp cải thiện chất lượng tinh trùng](https://vnexpress.net/cach-tap-luyen-giup-cai-thien-chat-luong-tinh-trung-4759867.html) - 19:00 21/06/2024
-- 🫶 [Ba Lan bị loại đầu tiên ở Euro 2024 sau khi thua Áo](https://vnexpress.net/ba-lan-bi-loai-dau-tien-o-euro-2024-sau-khi-thua-ao-4761198.html) - 18:42 21/06/2024
+- 🫶 [Ba Lan bị loại đầu tiên ở Euro 2024](https://vnexpress.net/ba-lan-bi-loai-dau-tien-o-euro-2024-4761198.html) - 18:42 21/06/2024
 - 🪜 [Chữa lành ở Nam Ban](https://vnexpress.net/chua-lanh-o-nam-ban-4760112.html) - 17:06 21/06/2024
 - 👨‍🏫 [Bệnh trĩ ở trẻ sơ sinh](https://vnexpress.net/benh-tri-o-tre-so-sinh-4760325.html) - 17:03 21/06/2024
 - 🎊 [4 cung hoàng đạo nữ thanh lịch và hiện đại nhất](https://vnexpress.net/4-cung-hoang-dao-nu-thanh-lich-va-hien-dai-nhat-4760292.html) - 17:01 21/06/2024
