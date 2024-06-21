@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [Kane: &#39;Tuyển Anh không biết pressing&#39;](https://vnexpress.net/kane-tuyen-anh-khong-biet-pressing-4760872.html) - 00:47 21/06/2024
 - 🧰 [HLV Italy thừa nhận thua kém Tây Ban Nha](https://vnexpress.net/hlv-italy-thua-nhan-thua-kem-tay-ban-nha-4760846.html) - 23:32 20/06/2024
 - 🤗 [Mbappe có thể kịp đấu Hà Lan](https://vnexpress.net/mbappe-co-the-kip-dau-ha-lan-4760839.html) - 23:16 20/06/2024
-- 🥳 [Messi giúp Argentina thắng trận khai mạc Copa America](https://vnexpress.net/truc-tiep-argentina-vs-canada-4760844.html) - 23:10 20/06/2024
+- 🥳 [Messi giúp Argentina thắng trận khai mạc Copa America](https://vnexpress.net/ket0qua-argentina-vs-canada-4760844.html) - 23:10 20/06/2024
 - 🦣 [Chủ mới muốn Man Utd thành công như Real Madrid](https://vnexpress.net/chu-moi-muon-man-utd-thanh-cong-nhu-real-madrid-4760780.html) - 22:52 20/06/2024
 - 🌜 [Tây Ban Nha hạ Italy để vào vòng 1/8 Euro 2024](https://vnexpress.net/tay-ban-nha-ha-italy-de-vao-vong-1-8-euro-2024-4760832.html) - 22:01 20/06/2024
 - 🫶 [Anh rơi chiến thắng trước Đan Mạch ở Euro 2024](https://vnexpress.net/anh-vs-dan-mach-4760784-tong-thuat.html) - 15:10 20/06/2024
