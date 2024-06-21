@@ -29,7 +29,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [Đồ uống nào khiến hơi thở nặng mùi?](https://vnexpress.net/do-uong-nao-khien-hoi-tho-nang-mui-4761124.html) - 15:11 21/06/2024
 - 🧰 [9 trường công bố điểm chuẩn đánh giá năng lực, tư duy](https://vnexpress.net/9-truong-cong-bo-diem-chuan-danh-gia-nang-luc-tu-duy-4759134.html) - 14:59 21/06/2024
 - 🥰 [Trung Quốc cấm cửa vĩnh viễn du khách thiếu tôn trọng gấu trúc](https://vnexpress.net/trung-quoc-cam-cua-vinh-vien-du-khach-thieu-ton-trong-gau-truc-4761133.html) - 14:56 21/06/2024
-- 🌏 [Hai máy bay nằm trong vùng &#39;cảnh báo xung đột&#39;](https://vnexpress.net/hai-may-bay-nam-trong-vung-canh-bao-xung-dot-4761177.html) - 14:52 21/06/2024
+- 🌏 [Hai máy bay đối diện nguy cơ va chạm](https://vnexpress.net/hai-may-bay-doi-dien-nguy-co-va-cham-4761177.html) - 14:52 21/06/2024
 - 🧐 [Anh Đức sắp cưới bạn gái kém 12 tuổi](https://vnexpress.net/anh-duc-sap-cuoi-ban-gai-kem-12-tuoi-4761180.html) - 14:26 21/06/2024
 - 💫 [Thủ khoa lớp 6 chuyên Ngoại ngữ đạt 35,25 điểm](https://vnexpress.net/diem-chuan-lop-6-chuyen-ngoai-ngu-nam-2024-4761175.html) - 14:24 21/06/2024
 - 😺 [Triều Tiên bị nghi xây tường ở biên giới với Hàn Quốc](https://vnexpress.net/trieu-tien-bi-nghi-xay-tuong-o-bien-gioi-voi-han-quoc-4760876.html) - 14:23 21/06/2024
@@ -66,8 +66,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧰 [Ông Đinh Tiến Dũng thôi làm Ủy viên Bộ Chính trị](https://vnexpress.net/ong-dinh-tien-dung-thoi-lam-uy-vien-bo-chinh-tri-4761155.html) - 11:07 21/06/2024
 - 🦒 [Doanh số bán nhà Trung Quốc dự báo giảm tiếp](https://vnexpress.net/doanh-so-ban-nha-trung-quoc-du-bao-giam-tiep-4760964.html) - 11:02 21/06/2024
 - ⛽️ [Phong cách của quý bà quyền lực nhất làng mốt toàn cầu](https://vnexpress.net/phong-cach-cua-quy-ba-quyen-luc-nhat-lang-mot-toan-cau-4761089.html) - 11:00 21/06/2024
-- 🚀 [Sợ chồng tôi ngừng biếu tiền, mẹ chồng không muốn anh lấy vợ](https://vnexpress.net/so-chong-toi-ngung-bieu-tien-me-chong-khong-muon-anh-lay-vo-4761068.html) - 11:00 21/06/2024
-- 🪜 [Tốt hết mình với nhà vợ, họ đối xử lại &#39;hết hồn&#39; với tôi](https://vnexpress.net/tot-het-minh-voi-nha-vo-ho-doi-xu-lai-het-hon-voi-toi-4760914.html) - 11:00 21/06/2024
+- 🚀 [Tốt hết mình với nhà vợ, họ đối xử lại &#39;hết hồn&#39; với tôi](https://vnexpress.net/tot-het-minh-voi-nha-vo-ho-doi-xu-lai-het-hon-voi-toi-4760914.html) - 11:00 21/06/2024
+- 🪜 [Sợ chồng tôi ngừng biếu tiền, mẹ chồng không muốn anh lấy vợ](https://vnexpress.net/so-chong-toi-ngung-bieu-tien-me-chong-khong-muon-anh-lay-vo-4761068.html) - 11:00 21/06/2024
 - 🚦 [MobiFone ưu đãi hè cho hội viên](https://vnexpress.net/mobifone-uu-dai-he-cho-hoi-vien-4760743.html) - 11:00 21/06/2024
 - 🕯 [Cách Key Power Sports tạo nên áo thi đấu VM Quy Nhơn 2024](https://vnexpress.net/cach-key-power-sports-tao-nen-ao-thi-dau-vm-quy-nhon-2024-4760720.html) - 11:00 21/06/2024
 - 💪 [S P Jain Global hai năm đạt 100% tỷ lệ sinh viên có việc làm](https://vnexpress.net/s-p-jain-global-hai-nam-dat-100-ty-le-sinh-vien-co-viec-lam-4759897.html) - 11:00 21/06/2024
