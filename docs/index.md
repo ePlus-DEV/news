@@ -147,7 +147,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
 - 🤠 [Thắng đội Slovakia, cầu thủ Ukraine khóc nức nở, không còn ‘mời’ HLV ra ngoài để họp riêng](https://thanhnien.vn/thang-doi-slovakia-cau-thu-ukraine-khoc-nuc-no-khong-con-moi-hlv-ra-ngoai-de-hop-rieng-185240622010347409.htm) - 18:37 21/06/2024
-- 🥸 [Suất 13 dự Olympic của Việt Nam: Võ sĩ judo Hoàng Thị Tình đã xuất sắc cỡ nào?](https://thanhnien.vn/suat-13-du-olympic-cua-viet-nam-vo-si-judo-hoang-thi-tinh-da-xuat-sac-co-nao-185240622005928969.htm) - 18:18 21/06/2024
+- 🥸 [Suất 13 dự Olympic của Việt Nam: Võ sĩ judo Hoàng Thị Tình xuất sắc cỡ nào?](https://thanhnien.vn/suat-13-du-olympic-cua-viet-nam-vo-si-judo-hoang-thi-tinh-da-xuat-sac-co-nao-185240622005928969.htm) - 18:18 21/06/2024
 - 🌁 [Chuyện gì đang xảy ra ở đội tuyển Ý: Chưa phải là thảm họa, nhưng...](https://thanhnien.vn/chuyen-gi-dang-xay-ra-o-doi-tuyen-y-chua-phai-la-tham-hoa-nhung-185240621204837863.htm) - 17:17 21/06/2024
 - 🤡 [Chiến thắng quả cảm của đội tuyển Ukraine](https://thanhnien.vn/chien-thang-qua-cam-cua-doi-tuyen-ukraine-185240621223916653.htm) - 17:13 21/06/2024
 - 🎉 [Copa America 2024: Messi liên tiếp lập kỷ lục](https://thanhnien.vn/copa-america-2024-messi-lien-tiep-lap-ky-luc-185240621205020445.htm) - 17:11 21/06/2024
