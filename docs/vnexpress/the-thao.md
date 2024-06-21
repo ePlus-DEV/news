@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Mbappe ngồi ngoài, Pháp hòa may mắn Hà Lan](https://vnexpress.net/mbappe-ngoi-ngoai-phap-hoa-may-man-ha-lan-4761202.html) - 22:32 21/06/2024
-- 🦩 [Ba Lan bị loại đầu tiên ở Euro 2024 sau khi thua Áo](https://vnexpress.net/ba-lan-bi-loai-dau-tien-o-euro-2024-sau-khi-thua-ao-4761198.html) - 18:42 21/06/2024
+- 🦩 [Ba Lan bị loại đầu tiên ở Euro 2024](https://vnexpress.net/ba-lan-bi-loai-dau-tien-o-euro-2024-4761198.html) - 18:42 21/06/2024
 - 🧰 [Tiger Balm đồng hành cùng VM Quy Nhơn mùa thứ 5](https://vnexpress.net/tiger-balm-dong-hanh-cung-vm-quy-nhon-mua-thu-5-4761112.html) - 13:00 21/06/2024
 - 🤗 [Ukraine thắng ngược Slovakia](https://vnexpress.net/slovakia-vs-ukraine-4761171-tong-thuat.html) - 12:30 21/06/2024
 - 🥳 [Pháp - Hà Lan: Phân định ngôi đầu](https://vnexpress.net/phap-ha-lan-phan-dinh-ngoi-dau-4761123.html) - 10:18 21/06/2024
