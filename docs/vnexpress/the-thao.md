@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Lukaku kiến tạo trong trận thắng của Bỉ](https://vnexpress.net/lukaku-kien-tao-trong-tran-thang-cua-bi-4761489.html) - 22:14 22/06/2024
-- 🦩 [Runner Kenya bỏ xa các đối thủ trên đường đua VM Quy Nhơn 2024](https://vnexpress.net/runner-kenya-bo-xa-cac-doi-thu-tren-duong-dua-vm-quy-nhon-2024-4761486.html) - 20:27 22/06/2024
+- 🦩 [Runner Kenya bỏ xa các đối thủ trên đường đua VM Quy Nhơn 2024](https://vnexpress.net/runner-kenya-bo-xa-cac-doi-thu-tren-duong-dua-vm-quy-nhon-2024-4761486.html) - 20:30 22/06/2024
 - 🧰 [Ronaldo ghi dấu ấn, Bồ Đào Nha vào vòng 1/8 Euro 20204](https://vnexpress.net/truc-tiep-tran-tho-nhi-ky-vs-bo-dao-nha-o-euro-2024-4761472-tong-thuat.html) - 15:40 22/06/2024
 - 🤗 [Nhan Phúc Vinh, Khả Ngân sẵn sàng cho VnExpress Marathon Quy Nhơn](https://vnexpress.net/nhan-phuc-vinh-kha-ngan-san-sang-cho-vnexpress-marathon-quy-nhon-4761453.html) - 13:32 22/06/2024
 - 🥳 [Georgia suýt gây sốc cho CH Czech](https://vnexpress.net/georgia-vs-ch-czech-4761449-tong-thuat.html) - 12:42 22/06/2024
