@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Phạt nhà hàng ở Hạ Long không niêm yết giá, đuổi khách](https://vnexpress.net/phat-nha-hang-o-ha-long-khong-niem-yet-gia-duoi-khach-4761310.html) - 04:54 22/06/2024
-- 🪄 [Du lịch hè đường bay giảm mạnh](https://vnexpress.net/du-lich-he-duong-bay-giam-manh-4760718.html) - 03:34 22/06/2024
+- 🪄 [Du lịch hè bị ảnh hưởng lớn vì giá vé máy bay cao](https://vnexpress.net/du-lich-he-bi-anh-huong-lon-vi-gia-ve-may-bay-cao-4760718.html) - 03:34 22/06/2024
 - 🦅 [5 quán ăn mới được Michelin giới thiệu ở Hà Nội](https://vnexpress.net/5-quan-an-moi-duoc-michelin-gioi-thieu-o-ha-noi-4760926.html) - 03:22 22/06/2024
 - 🕴 [Chữa lành ở Nam Ban](https://vnexpress.net/chua-lanh-o-nam-ban-4760112.html) - 17:06 21/06/2024
 - 👀 [Trung Quốc cấm cửa vĩnh viễn du khách thiếu tôn trọng gấu trúc](https://vnexpress.net/trung-quoc-cam-cua-vinh-vien-du-khach-thieu-ton-trong-gau-truc-4761133.html) - 14:56 21/06/2024
