@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Thổ Nhĩ Kỳ 0-3 Bồ Đào Nha &lpar;H2&rpar;: Ronaldo kiến tạo](https://vnexpress.net/truc-tiep-tran-tho-nhi-ky-vs-bo-dao-nha-o-euro-2024-4761472.html) - 15:40 22/06/2024
+- 🪜 [Thổ Nhĩ Kỳ 0-3 Bồ Đào Nha &lpar;H2&rpar;: Ronaldo lập kỷ lục kiến tạo](https://vnexpress.net/truc-tiep-tran-tho-nhi-ky-vs-bo-dao-nha-o-euro-2024-4761472.html) - 15:40 22/06/2024
 - 🦩 [Nhan Phúc Vinh, Khả Ngân sẵn sàng cho VnExpress Marathon Quy Nhơn](https://vnexpress.net/nhan-phuc-vinh-kha-ngan-san-sang-cho-vnexpress-marathon-quy-nhon-4761453.html) - 13:32 22/06/2024
 - 🧰 [Georgia suýt gây sốc cho CH Czech](https://vnexpress.net/georgia-vs-ch-czech-4761449-tong-thuat.html) - 12:42 22/06/2024
 - 🤗 [Thanh Phúc: &#39;Tôi hạnh phúc khi làm runner phong trào&#39;](https://vnexpress.net/thanh-phuc-toi-hanh-phuc-khi-lam-runner-phong-trao-4761350.html) - 11:56 22/06/2024
