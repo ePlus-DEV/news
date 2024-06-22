@@ -4,63 +4,63 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [BVIS TP HCM chúc mừng thành tích niên khóa 2024 tại lễ tốt nghiệp](https://vnexpress.net/bvis-tp-hcm-chuc-mung-thanh-tich-nien-khoa-2024-tai-le-tot-nghiep-4761094.html) - 01:00 22/06/2024
-- 🦆 [Cả lớp trúng tuyển sớm Đại học Ngoại thương, Kinh tế TP HCM](https://vnexpress.net/ca-lop-trung-tuyen-som-dai-hoc-ngoai-thuong-kinh-te-tp-hcm-4761128.html) - 00:46 22/06/2024
-- 🦩 [9 trường công bố điểm chuẩn đánh giá năng lực, tư duy](https://vnexpress.net/9-truong-cong-bo-diem-chuan-danh-gia-nang-luc-tu-duy-4759134.html) - 14:59 21/06/2024
-- 🌮 [Thủ khoa lớp 6 chuyên Ngoại ngữ đạt 35,25 điểm](https://vnexpress.net/diem-chuan-lop-6-chuyen-ngoai-ngu-nam-2024-4761175.html) - 14:24 21/06/2024
-- 🔭 [Bà Huyện Thanh Quan tên thật là gì?](https://vnexpress.net/ba-huyen-thanh-quan-ten-that-la-gi-4761086.html) - 13:49 21/06/2024
-- 💡 [7.5 IELTS đỗ ngành hot nhất Đại học Luật TP HCM](https://vnexpress.net/7-5-ielts-do-nganh-hot-nhat-dai-hoc-luat-tp-hcm-4761163.html) - 13:02 21/06/2024
-- 🥰 [Ngành nào liên quan đến Hóa mỹ phẩm?](https://vnexpress.net/nganh-nao-lien-quan-den-hoa-my-pham-4759378.html) - 09:27 21/06/2024
-- 🐲 [Nữ sinh đỗ Đại học Thanh Hoa sau 1 năm &#39;gap year&#39;](https://vnexpress.net/nu-sinh-do-dai-hoc-thanh-hoa-sau-1-nam-gap-year-4760009.html) - 08:07 21/06/2024
-- 🦒 [Kỹ năng nói tiếng Anh theo cụm](https://vnexpress.net/ky-nang-noi-tieng-anh-theo-cum-4760285.html) - 02:42 21/06/2024
-- 🦆 [&#39;Cú đúp&#39; của thủ khoa lớp 10 chuyên Thái Nguyên](https://vnexpress.net/cu-dup-cua-thu-khoa-lop-10-chuyen-thai-nguyen-4759587.html) - 00:19 21/06/2024
-- 🧰 [Nghiên cứu mở trường phổ thông dạy bằng tiếng Nga ở Hà Nội](https://vnexpress.net/nghien-cuu-mo-truong-pho-thong-day-bang-tieng-nga-o-ha-noi-4760786.html) - 14:11 20/06/2024
-- 🐘 [Điểm chuẩn học bạ ĐH Kinh tế TP HCM cao nhất 85/100](https://vnexpress.net/diem-chuan-hoc-ba-dai-hoc-kinh-te-tp-hcm-2024-4760576.html) - 08:38 20/06/2024
-- 🤓 [Cảnh báo gian lận thi cử bằng AI, thiết bị tinh vi](https://vnexpress.net/canh-bao-gian-lan-thi-cu-bang-ai-thiet-bi-tinh-vi-4760509.html) - 08:05 20/06/2024
-- 🧰 [&#39;eSports cạnh tranh nhưng thu nhập tốt&#39;](https://vnexpress.net/esports-canh-tranh-nhung-thu-nhap-tot-4760628.html) - 08:00 20/06/2024
-- 🧑‍💻 [&#39;Atlantic muốn đưa phần mềm học ngoại ngữ ra thế giới&#39;](https://vnexpress.net/atlantic-muon-dua-phan-mem-hoc-ngoai-ngu-ra-the-gioi-4755927.html) - 07:00 20/06/2024
-- 🫶 [Thủ khoa chuyên của TP HCM ôn thi Toán từ lớp 6](https://vnexpress.net/thu-khoa-chuyen-cua-tp-hcm-on-thi-toan-tu-lop-6-4760277.html) - 05:52 20/06/2024
-- 🪜 [Thủ khoa chuyên Sư phạm đạt 37/40 điểm](https://vnexpress.net/thu-khoa-chuyen-su-pham-dat-37-40-diem-4760558.html) - 05:06 20/06/2024
-- 🎊 [&#39;Chơi game&#39; có phải nghề tương lai?](https://vnexpress.net/choi-game-co-phai-nghe-tuong-lai-4760128.html) - 04:30 20/06/2024
-- 🧐 [Gần 67.000 thí sinh được tính điểm 10 Ngoại ngữ thi tốt nghiệp](https://vnexpress.net/gan-67-000-thi-sinh-duoc-tinh-diem-10-ngoai-ngu-thi-tot-nghiep-4760437.html) - 03:08 20/06/2024
-- 🌈 [Phổ điểm 6 đợt thi đánh giá tư duy của Đại học Bách khoa Hà Nội](https://vnexpress.net/pho-diem-6-dot-thi-danh-gia-tu-duy-nam-2024-cua-dai-hoc-bach-khoa-ha-noi-4760417.html) - 02:43 20/06/2024
-- 🥰 [Nền tảng giúp cựu sinh viên FPT thích nghi với môi trường quốc tế](https://vnexpress.net/nen-tang-giup-cuu-sinh-vien-fpt-thich-nghi-voi-moi-truong-quoc-te-4759179.html) - 01:00 20/06/2024
-- 🎡 [Điểm chuẩn lớp 10 chuyên Sư phạm cao nhất gần 28/40](https://vnexpress.net/diem-chuan-lop-10-chuyen-su-pham-cao-nhat-gan-28-40-4755162.html) - 23:56 19/06/2024
-- 🎊 [Điểm chuẩn lớp 10 ở TP HCM có thể giảm tới 2 điểm](https://vnexpress.net/diem-chuan-lop-10-o-tp-hcm-co-the-giam-toi-2-diem-4760030.html) - 22:33 19/06/2024
-- 🌏 [Ngành Logistics lấy điểm chuẩn học bạ cao nhất Đại học Xây dựng Hà Nội](https://vnexpress.net/diem-chuan-hoc-ba-dai-hoc-xay-dung-ha-noi-2024-4760313.html) - 15:35 19/06/2024
-- 🥸 [Cách phát âm đuôi &#39;ese&#39; trong tiếng Anh](https://vnexpress.net/cach-phat-am-duoi-ese-trong-tieng-anh-4760281.html) - 10:11 19/06/2024
-- 🕴 [Thủ khoa lớp 10 TP HCM giải đề Tiếng Anh trong 5 phút](https://vnexpress.net/thu-khoa-lop-10-tp-hcm-giai-de-tieng-anh-trong-5-phut-4760148.html) - 06:50 19/06/2024
-- 💂 [Điểm chuẩn học bạ Đại học Công nghiệp Hà Nội cao nhất 28,97](https://vnexpress.net/diem-chuan-hoc-ba-dai-hoc-cong-nghiep-ha-noi-nam-2024-4760089.html) - 04:51 19/06/2024
-- 🕴 [Thủ khoa lớp 10 của TP HCM đạt 28,75 điểm](https://vnexpress.net/thu-khoa-lop-10-cua-tp-hcm-dat-28-75-diem-4759998.html) - 02:21 19/06/2024
-- 🌋 [Tra cứu điểm thi lớp 10 ở TP HCM](https://vnexpress.net/tra-cuu-diem-thi-lop-10-tp-hcm-nam-2024-4759909.html) - 23:19 18/06/2024
-- 🪜 [56% bài thi Toán lớp 10 ở TP HCM dưới điểm 5](https://vnexpress.net/56-bai-thi-toan-lop-10-o-tp-hcm-duoi-diem-5-4759901.html) - 16:49 18/06/2024
-- 🕴 [TP HCM công bố điểm thi lớp 10 vào sáng 19/6](https://vnexpress.net/tp-hcm-cong-bo-diem-thi-lop-10-vao-sang-19-6-4759741.html) - 15:08 18/06/2024
-- 🎃 [Tỉnh nào là quê hương của nhà Lý?](https://vnexpress.net/tinh-nao-la-que-huong-cua-nha-ly-4759850.html) - 13:00 18/06/2024
-- 🦏 [Điểm chuẩn lớp 10 ở Đà Nẵng cao nhất 58,38](https://vnexpress.net/diem-chuan-lop-10-da-nang-2024-4759865.html) - 12:50 18/06/2024
-- 🧑‍🏫 [Lý do học tiếng Anh nhiều năm nhưng không giao tiếp trôi chảy](https://vnexpress.net/ly-do-hoc-tieng-anh-nhieu-nam-nhung-khong-giao-tiep-troi-chay-4758938.html) - 09:25 18/06/2024
-- 💡 [Học phí, tiền lương ngành Kỹ thuật xét nghiệm Y học](https://vnexpress.net/hoc-phi-tien-luong-nganh-ky-thuat-xet-nghiem-y-hoc-4757723.html) - 02:51 18/06/2024
-- 🐎 [Cách cựu sinh viên FPT nắm cơ hội &#39;đúp&#39; ra nước ngoài](https://vnexpress.net/cach-cuu-sinh-vien-fpt-nam-co-hoi-dup-ra-nuoc-ngoai-4758847.html) - 01:00 18/06/2024
-- 🧰 [Nam sinh duy nhất đạt điểm 10 chuyên Lý trường Tự nhiên](https://vnexpress.net/nam-sinh-duy-nhat-dat-diem-10-chuyen-ly-truong-tu-nhien-4758933.html) - 00:02 18/06/2024
-- 🙉 [&#39;Bà chúa thơ Nôm&#39; tên thật là gì?](https://vnexpress.net/ba-chua-tho-nom-ten-that-la-gi-4759372.html) - 13:46 17/06/2024
-- ⚗️ [Cách thể hiện sự cảm thông trong tiếng Anh](https://vnexpress.net/cach-the-hien-su-cam-thong-trong-tieng-anh-4759415.html) - 12:47 17/06/2024
-- 🌝 [Trường nghề hụt tiền hỗ trợ vì &#39;không ở vùng cao&#39;](https://vnexpress.net/truong-nghe-hut-tien-ho-tro-vi-khong-o-vung-cao-4759277.html) - 10:53 17/06/2024
-- ⛽️ [Trường Đại học FPT tuyển 1.000 chỉ tiêu Thiết kế Vi mạch bán dẫn](https://vnexpress.net/truong-dai-hoc-fpt-tuyen-1-000-chi-tieu-thiet-ke-vi-mach-ban-dan-4759217.html) - 08:45 17/06/2024
-- 🌜 [&#39;Điểm thi Văn lớp 10 ở TP HCM chủ yếu 5-7,5&#39;](https://vnexpress.net/diem-thi-van-lop-10-o-tp-hcm-chu-yeu-5-7-5-4758985.html) - 08:00 17/06/2024
-- ⚗️ [Giành ngôi thủ khoa với hai điểm 10](https://vnexpress.net/gianh-ngoi-thu-khoa-voi-hai-diem-10-4759056.html) - 03:38 17/06/2024
-- 🧰 [Xếp hàng 16 tiếng chờ mua hồ sơ lớp 1 ở Sài Gòn](https://vnexpress.net/xep-hang-16-tieng-cho-mua-ho-so-lop-1-o-sai-gon-4759058.html) - 02:38 17/06/2024
-- 🤗 [Nữ sinh đỗ thủ khoa Phổ thông Năng khiếu nhờ &#39;tinh thần thoải mái&#39;](https://vnexpress.net/nu-sinh-do-thu-khoa-pho-thong-nang-khieu-nho-tinh-than-thoai-mai-4758837.html) - 22:04 16/06/2024
-- 🔥 [Có nên bỏ hai năm đại học để thi lại?](https://vnexpress.net/co-nen-bo-hai-nam-dai-hoc-de-thi-lai-4753481.html) - 16:59 16/06/2024
-- 💪 [Người phụ nữ nhận bằng thạc sĩ Luật hình sự ở tuổi 66](https://vnexpress.net/nguoi-phu-nu-nhan-bang-thac-si-luat-hinh-su-o-tuoi-66-4758987.html) - 15:50 16/06/2024
-- 💂 [Tên tỉnh nào được đặt cho một ngôi làng ở Cuba?](https://vnexpress.net/ten-tinh-nao-duoc-dat-cho-mot-ngoi-lang-o-cuba-4758894.html) - 12:34 16/06/2024
-- 🌮 [Đại học Quốc gia TP HCM muốn tự phong giáo sư](https://vnexpress.net/dai-hoc-quoc-gia-tp-hcm-muon-tu-phong-giao-su-4758509.html) - 06:28 16/06/2024
-- 🪄 [Số người Việt học online tăng 4 lần](https://vnexpress.net/so-nguoi-viet-hoc-online-tang-4-lan-4758765.html) - 05:48 16/06/2024
-- 🎡 [&#39;Trường THPT Hà Đông thực hiện chiến lược đổi mới toàn diện&#39;](https://vnexpress.net/truong-thpt-ha-dong-thuc-hien-chien-luoc-doi-moi-toan-dien-4758802.html) - 01:00 16/06/2024
-- 🌈 [Dùng &#39;Would&#39; và &#39;Could&#39; trong câu hỏi thế nào](https://vnexpress.net/dung-would-va-could-trong-cau-hoi-the-nao-4758810.html) - 00:58 16/06/2024
-- 🎊 [Nữ sinh năm thứ ba bảo vệ xuất sắc khóa luận về game](https://vnexpress.net/nu-sinh-nam-thu-ba-bao-ve-xuat-sac-khoa-luan-ve-game-4757390.html) - 00:39 16/06/2024
-- ⚗️ [Điểm chuẩn học bạ Học viện Ngân hàng lên tới 29,9](https://vnexpress.net/diem-chuan-hoc-ba-hoc-vien-ngan-hang-nam-2024-4758742.html) - 13:49 15/06/2024
-- 🌁 [Vị vua nào tự kể chuyện đời mình trên bia đá?](https://vnexpress.net/vi-vua-nao-tu-ke-chuyen-doi-minh-tren-bia-da-4758706.html) - 13:34 15/06/2024
-- 🦏 [Điểm chuẩn học bạ Đại học Thương mại cao nhất 29,25](https://vnexpress.net/diem-chuan-hoc-ba-dai-hoc-thuong-mai-cao-nhat-29-25-4758731.html) - 11:53 15/06/2024
-- 👍 [Công bố đề thi lớp 6 ở TP Thủ Đức](https://vnexpress.net/cong-bo-de-thi-lop-6-o-tp-thu-duc-4758722.html) - 11:03 15/06/2024
-- 🌈 [Giám thị bị tố chụp ảnh bài thi lớp 10 của thí sinh](https://vnexpress.net/giam-thi-bi-to-chup-anh-bai-thi-lop-10-cua-thi-sinh-4758628.html) - 10:30 15/06/2024
-- 🕴 [Đại học đầu tiên đào tạo kỹ sư GenAI](https://vnexpress.net/dai-hoc-dau-tien-dao-tao-ky-su-genai-4758625.html) - 09:46 15/06/2024
-- 🧰 [Hơn 7.000 học sinh vào đợt thi công lập cuối cùng ở Hà Nội](https://vnexpress.net/hon-7-000-hoc-sinh-vao-dot-thi-cong-lap-cuoi-cung-o-ha-noi-4758493.html) - 05:20 15/06/2024<!-- vnexpress-giao-duc:END -->
+- 🤓 [Phân biệt cách dùng &#39;all&#39; và &#39;all of&#39;](https://vnexpress.net/phan-biet-cach-dung-all-va-all-of-4761251.html) - 01:37 22/06/2024
+- 🦆 [BVIS TP HCM chúc mừng thành tích niên khóa 2024 tại lễ tốt nghiệp](https://vnexpress.net/bvis-tp-hcm-chuc-mung-thanh-tich-nien-khoa-2024-tai-le-tot-nghiep-4761094.html) - 01:00 22/06/2024
+- 🦩 [Cả lớp trúng tuyển sớm Đại học Ngoại thương, Kinh tế TP HCM](https://vnexpress.net/ca-lop-trung-tuyen-som-dai-hoc-ngoai-thuong-kinh-te-tp-hcm-4761128.html) - 00:46 22/06/2024
+- 🌮 [9 trường công bố điểm chuẩn đánh giá năng lực, tư duy](https://vnexpress.net/9-truong-cong-bo-diem-chuan-danh-gia-nang-luc-tu-duy-4759134.html) - 14:59 21/06/2024
+- 🔭 [Thủ khoa lớp 6 chuyên Ngoại ngữ đạt 35,25 điểm](https://vnexpress.net/diem-chuan-lop-6-chuyen-ngoai-ngu-nam-2024-4761175.html) - 14:24 21/06/2024
+- 💡 [Bà Huyện Thanh Quan tên thật là gì?](https://vnexpress.net/ba-huyen-thanh-quan-ten-that-la-gi-4761086.html) - 13:49 21/06/2024
+- 🥰 [7.5 IELTS đỗ ngành hot nhất Đại học Luật TP HCM](https://vnexpress.net/7-5-ielts-do-nganh-hot-nhat-dai-hoc-luat-tp-hcm-4761163.html) - 13:02 21/06/2024
+- 🐲 [Ngành nào liên quan đến Hóa mỹ phẩm?](https://vnexpress.net/nganh-nao-lien-quan-den-hoa-my-pham-4759378.html) - 09:27 21/06/2024
+- 🦒 [Nữ sinh đỗ Đại học Thanh Hoa sau 1 năm &#39;gap year&#39;](https://vnexpress.net/nu-sinh-do-dai-hoc-thanh-hoa-sau-1-nam-gap-year-4760009.html) - 08:07 21/06/2024
+- 🦆 [Kỹ năng nói tiếng Anh theo cụm](https://vnexpress.net/ky-nang-noi-tieng-anh-theo-cum-4760285.html) - 02:42 21/06/2024
+- 🧰 [&#39;Cú đúp&#39; của thủ khoa lớp 10 chuyên Thái Nguyên](https://vnexpress.net/cu-dup-cua-thu-khoa-lop-10-chuyen-thai-nguyen-4759587.html) - 00:19 21/06/2024
+- 🐘 [Nghiên cứu mở trường phổ thông dạy bằng tiếng Nga ở Hà Nội](https://vnexpress.net/nghien-cuu-mo-truong-pho-thong-day-bang-tieng-nga-o-ha-noi-4760786.html) - 14:11 20/06/2024
+- 🤓 [Điểm chuẩn học bạ ĐH Kinh tế TP HCM cao nhất 85/100](https://vnexpress.net/diem-chuan-hoc-ba-dai-hoc-kinh-te-tp-hcm-2024-4760576.html) - 08:38 20/06/2024
+- 🧰 [Cảnh báo gian lận thi cử bằng AI, thiết bị tinh vi](https://vnexpress.net/canh-bao-gian-lan-thi-cu-bang-ai-thiet-bi-tinh-vi-4760509.html) - 08:05 20/06/2024
+- 🧑‍💻 [&#39;eSports cạnh tranh nhưng thu nhập tốt&#39;](https://vnexpress.net/esports-canh-tranh-nhung-thu-nhap-tot-4760628.html) - 08:00 20/06/2024
+- 🫶 [&#39;Atlantic muốn đưa phần mềm học ngoại ngữ ra thế giới&#39;](https://vnexpress.net/atlantic-muon-dua-phan-mem-hoc-ngoai-ngu-ra-the-gioi-4755927.html) - 07:00 20/06/2024
+- 🪜 [Thủ khoa chuyên của TP HCM ôn thi Toán từ lớp 6](https://vnexpress.net/thu-khoa-chuyen-cua-tp-hcm-on-thi-toan-tu-lop-6-4760277.html) - 05:52 20/06/2024
+- 🎊 [Thủ khoa chuyên Sư phạm đạt 37/40 điểm](https://vnexpress.net/thu-khoa-chuyen-su-pham-dat-37-40-diem-4760558.html) - 05:06 20/06/2024
+- 🧐 [&#39;Chơi game&#39; có phải nghề tương lai?](https://vnexpress.net/choi-game-co-phai-nghe-tuong-lai-4760128.html) - 04:30 20/06/2024
+- 🌈 [Gần 67.000 thí sinh được tính điểm 10 Ngoại ngữ thi tốt nghiệp](https://vnexpress.net/gan-67-000-thi-sinh-duoc-tinh-diem-10-ngoai-ngu-thi-tot-nghiep-4760437.html) - 03:08 20/06/2024
+- 🥰 [Phổ điểm 6 đợt thi đánh giá tư duy của Đại học Bách khoa Hà Nội](https://vnexpress.net/pho-diem-6-dot-thi-danh-gia-tu-duy-nam-2024-cua-dai-hoc-bach-khoa-ha-noi-4760417.html) - 02:43 20/06/2024
+- 🎡 [Nền tảng giúp cựu sinh viên FPT thích nghi với môi trường quốc tế](https://vnexpress.net/nen-tang-giup-cuu-sinh-vien-fpt-thich-nghi-voi-moi-truong-quoc-te-4759179.html) - 01:00 20/06/2024
+- 🎊 [Điểm chuẩn lớp 10 chuyên Sư phạm cao nhất gần 28/40](https://vnexpress.net/diem-chuan-lop-10-chuyen-su-pham-cao-nhat-gan-28-40-4755162.html) - 23:56 19/06/2024
+- 🌏 [Điểm chuẩn lớp 10 ở TP HCM có thể giảm tới 2 điểm](https://vnexpress.net/diem-chuan-lop-10-o-tp-hcm-co-the-giam-toi-2-diem-4760030.html) - 22:33 19/06/2024
+- 🥸 [Ngành Logistics lấy điểm chuẩn học bạ cao nhất Đại học Xây dựng Hà Nội](https://vnexpress.net/diem-chuan-hoc-ba-dai-hoc-xay-dung-ha-noi-2024-4760313.html) - 15:35 19/06/2024
+- 🕴 [Cách phát âm đuôi &#39;ese&#39; trong tiếng Anh](https://vnexpress.net/cach-phat-am-duoi-ese-trong-tieng-anh-4760281.html) - 10:11 19/06/2024
+- 💂 [Thủ khoa lớp 10 TP HCM giải đề Tiếng Anh trong 5 phút](https://vnexpress.net/thu-khoa-lop-10-tp-hcm-giai-de-tieng-anh-trong-5-phut-4760148.html) - 06:50 19/06/2024
+- 🕴 [Điểm chuẩn học bạ Đại học Công nghiệp Hà Nội cao nhất 28,97](https://vnexpress.net/diem-chuan-hoc-ba-dai-hoc-cong-nghiep-ha-noi-nam-2024-4760089.html) - 04:51 19/06/2024
+- 🌋 [Thủ khoa lớp 10 của TP HCM đạt 28,75 điểm](https://vnexpress.net/thu-khoa-lop-10-cua-tp-hcm-dat-28-75-diem-4759998.html) - 02:21 19/06/2024
+- 🪜 [Tra cứu điểm thi lớp 10 ở TP HCM](https://vnexpress.net/tra-cuu-diem-thi-lop-10-tp-hcm-nam-2024-4759909.html) - 23:19 18/06/2024
+- 🕴 [56% bài thi Toán lớp 10 ở TP HCM dưới điểm 5](https://vnexpress.net/56-bai-thi-toan-lop-10-o-tp-hcm-duoi-diem-5-4759901.html) - 16:49 18/06/2024
+- 🎃 [TP HCM công bố điểm thi lớp 10 vào sáng 19/6](https://vnexpress.net/tp-hcm-cong-bo-diem-thi-lop-10-vao-sang-19-6-4759741.html) - 15:08 18/06/2024
+- 🦏 [Tỉnh nào là quê hương của nhà Lý?](https://vnexpress.net/tinh-nao-la-que-huong-cua-nha-ly-4759850.html) - 13:00 18/06/2024
+- 🧑‍🏫 [Điểm chuẩn lớp 10 ở Đà Nẵng cao nhất 58,38](https://vnexpress.net/diem-chuan-lop-10-da-nang-2024-4759865.html) - 12:50 18/06/2024
+- 💡 [Lý do học tiếng Anh nhiều năm nhưng không giao tiếp trôi chảy](https://vnexpress.net/ly-do-hoc-tieng-anh-nhieu-nam-nhung-khong-giao-tiep-troi-chay-4758938.html) - 09:25 18/06/2024
+- 🐎 [Học phí, tiền lương ngành Kỹ thuật xét nghiệm Y học](https://vnexpress.net/hoc-phi-tien-luong-nganh-ky-thuat-xet-nghiem-y-hoc-4757723.html) - 02:51 18/06/2024
+- 🧰 [Cách cựu sinh viên FPT nắm cơ hội &#39;đúp&#39; ra nước ngoài](https://vnexpress.net/cach-cuu-sinh-vien-fpt-nam-co-hoi-dup-ra-nuoc-ngoai-4758847.html) - 01:00 18/06/2024
+- 🙉 [Nam sinh duy nhất đạt điểm 10 chuyên Lý trường Tự nhiên](https://vnexpress.net/nam-sinh-duy-nhat-dat-diem-10-chuyen-ly-truong-tu-nhien-4758933.html) - 00:02 18/06/2024
+- ⚗️ [&#39;Bà chúa thơ Nôm&#39; tên thật là gì?](https://vnexpress.net/ba-chua-tho-nom-ten-that-la-gi-4759372.html) - 13:46 17/06/2024
+- 🌝 [Cách thể hiện sự cảm thông trong tiếng Anh](https://vnexpress.net/cach-the-hien-su-cam-thong-trong-tieng-anh-4759415.html) - 12:47 17/06/2024
+- ⛽️ [Trường nghề hụt tiền hỗ trợ vì &#39;không ở vùng cao&#39;](https://vnexpress.net/truong-nghe-hut-tien-ho-tro-vi-khong-o-vung-cao-4759277.html) - 10:53 17/06/2024
+- 🌜 [Trường Đại học FPT tuyển 1.000 chỉ tiêu Thiết kế Vi mạch bán dẫn](https://vnexpress.net/truong-dai-hoc-fpt-tuyen-1-000-chi-tieu-thiet-ke-vi-mach-ban-dan-4759217.html) - 08:45 17/06/2024
+- ⚗️ [&#39;Điểm thi Văn lớp 10 ở TP HCM chủ yếu 5-7,5&#39;](https://vnexpress.net/diem-thi-van-lop-10-o-tp-hcm-chu-yeu-5-7-5-4758985.html) - 08:00 17/06/2024
+- 🧰 [Giành ngôi thủ khoa với hai điểm 10](https://vnexpress.net/gianh-ngoi-thu-khoa-voi-hai-diem-10-4759056.html) - 03:38 17/06/2024
+- 🤗 [Xếp hàng 16 tiếng chờ mua hồ sơ lớp 1 ở Sài Gòn](https://vnexpress.net/xep-hang-16-tieng-cho-mua-ho-so-lop-1-o-sai-gon-4759058.html) - 02:38 17/06/2024
+- 🔥 [Nữ sinh đỗ thủ khoa Phổ thông Năng khiếu nhờ &#39;tinh thần thoải mái&#39;](https://vnexpress.net/nu-sinh-do-thu-khoa-pho-thong-nang-khieu-nho-tinh-than-thoai-mai-4758837.html) - 22:04 16/06/2024
+- 💪 [Có nên bỏ hai năm đại học để thi lại?](https://vnexpress.net/co-nen-bo-hai-nam-dai-hoc-de-thi-lai-4753481.html) - 16:59 16/06/2024
+- 💂 [Người phụ nữ nhận bằng thạc sĩ Luật hình sự ở tuổi 66](https://vnexpress.net/nguoi-phu-nu-nhan-bang-thac-si-luat-hinh-su-o-tuoi-66-4758987.html) - 15:50 16/06/2024
+- 🌮 [Tên tỉnh nào được đặt cho một ngôi làng ở Cuba?](https://vnexpress.net/ten-tinh-nao-duoc-dat-cho-mot-ngoi-lang-o-cuba-4758894.html) - 12:34 16/06/2024
+- 🪄 [Đại học Quốc gia TP HCM muốn tự phong giáo sư](https://vnexpress.net/dai-hoc-quoc-gia-tp-hcm-muon-tu-phong-giao-su-4758509.html) - 06:28 16/06/2024
+- 🎡 [Số người Việt học online tăng 4 lần](https://vnexpress.net/so-nguoi-viet-hoc-online-tang-4-lan-4758765.html) - 05:48 16/06/2024
+- 🌈 [&#39;Trường THPT Hà Đông thực hiện chiến lược đổi mới toàn diện&#39;](https://vnexpress.net/truong-thpt-ha-dong-thuc-hien-chien-luoc-doi-moi-toan-dien-4758802.html) - 01:00 16/06/2024
+- 🎊 [Dùng &#39;Would&#39; và &#39;Could&#39; trong câu hỏi thế nào](https://vnexpress.net/dung-would-va-could-trong-cau-hoi-the-nao-4758810.html) - 00:58 16/06/2024
+- ⚗️ [Nữ sinh năm thứ ba bảo vệ xuất sắc khóa luận về game](https://vnexpress.net/nu-sinh-nam-thu-ba-bao-ve-xuat-sac-khoa-luan-ve-game-4757390.html) - 00:39 16/06/2024
+- 🌁 [Điểm chuẩn học bạ Học viện Ngân hàng lên tới 29,9](https://vnexpress.net/diem-chuan-hoc-ba-hoc-vien-ngan-hang-nam-2024-4758742.html) - 13:49 15/06/2024
+- 🦏 [Vị vua nào tự kể chuyện đời mình trên bia đá?](https://vnexpress.net/vi-vua-nao-tu-ke-chuyen-doi-minh-tren-bia-da-4758706.html) - 13:34 15/06/2024
+- 👍 [Điểm chuẩn học bạ Đại học Thương mại cao nhất 29,25](https://vnexpress.net/diem-chuan-hoc-ba-dai-hoc-thuong-mai-cao-nhat-29-25-4758731.html) - 11:53 15/06/2024
+- 🌈 [Công bố đề thi lớp 6 ở TP Thủ Đức](https://vnexpress.net/cong-bo-de-thi-lop-6-o-tp-thu-duc-4758722.html) - 11:03 15/06/2024
+- 🕴 [Giám thị bị tố chụp ảnh bài thi lớp 10 của thí sinh](https://vnexpress.net/giam-thi-bi-to-chup-anh-bai-thi-lop-10-cua-thi-sinh-4758628.html) - 10:30 15/06/2024
+- 🧰 [Đại học đầu tiên đào tạo kỹ sư GenAI](https://vnexpress.net/dai-hoc-dau-tien-dao-tao-ky-su-genai-4758625.html) - 09:46 15/06/2024<!-- vnexpress-giao-duc:END -->
