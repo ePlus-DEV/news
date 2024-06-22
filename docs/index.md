@@ -230,7 +230,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🫣 [Bóng chuyền Việt Nam 22.6: Thanh Thúy thả dáng cùng Bích Tuyền ở bờ biển](https://laodong.vn/the-thao/bong-chuyen-viet-nam-226-thanh-thuy-tha-dang-cung-bich-tuyen-o-bo-bien-1356237.ldo) - 12:54 22/06/2024
 - 🧑‍🏫 [Khu nhà trọ an toàn nhờ tổ tự quản công nhân](https://laodong.vn/video/khu-nha-tro-an-toan-nho-to-tu-quan-cong-nhan-1356338.ldo) - 12:36 22/06/2024
 - 🦣 [Bản tin dự báo thời tiết đêm nay và ngày mai 23.6](https://laodong.vn/video-xa-hoi/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-236-1355895.ldo) - 12:30 22/06/2024
-- 💫 [Trực tiếp bóng đá Georgia 1-1 Cộng hòa Czech: Schick gỡ hòa](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-georgia-1-1-cong-hoa-czech-schick-go-hoa-1356353.ldo) - 12:28 22/06/2024
+- 💫 [Trực tiếp bóng đá Georgia 1-1 Cộng hòa Czech: Kvaratskhelia rời sân](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-georgia-1-1-cong-hoa-czech-kvaratskhelia-roi-san-1356353.ldo) - 12:28 22/06/2024
 - ⛽️ [Đề xuất chế độ làm việc mới của giáo viên phổ thông, dự bị đại học](https://laodong.vn/giao-duc/de-xuat-che-do-lam-viec-moi-cua-giao-vien-pho-thong-du-bi-dai-hoc-1356357.ldo) - 12:22 22/06/2024
 - 💫 [Trọng tài Trần Ngọc Nhớ bị treo còi đến hết mùa giải V.League 2023-2024](https://laodong.vn/bong-da/trong-tai-tran-ngoc-nho-bi-treo-coi-den-het-mua-giai-vleague-2023-2024-1356348.ldo) - 12:20 22/06/2024
 - 🥸 [Hàng trăm người đồng diễn “Yoga trong sương” tại Sa Pa](https://laodong.vn/the-thao/hang-tram-nguoi-dong-dien-yoga-trong-suong-tai-sa-pa-1356340.ldo) - 12:11 22/06/2024
