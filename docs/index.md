@@ -211,7 +211,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp Bồ Đào Nha 3-0 Thổ Nhĩ Kỳ: Ronaldo kiến tạo cho Bruno](https://laodong.vn/bong-da-quoc-te/truc-tiep-bo-dao-nha-3-0-tho-nhi-ky-ronaldo-kien-tao-cho-bruno-1356361.ldo) - 15:35 22/06/2024
+- 🗽 [Trực tiếp Bồ Đào Nha 3-0 Thổ Nhĩ Kỳ: Guler vào sân](https://laodong.vn/bong-da-quoc-te/truc-tiep-bo-dao-nha-3-0-tho-nhi-ky-guler-vao-san-1356361.ldo) - 15:35 22/06/2024
 - 📝 [“Mặc vũ vân gian&quot; kết thúc có hậu nhưng vẫn gây tranh cãi](https://laodong.vn/giai-tri/mac-vu-van-gian-ket-thuc-co-hau-nhung-van-gay-tranh-cai-1356379.ldo) - 15:07 22/06/2024
 - 🦏 [Đức gây bất ngờ với kỹ thuật trình diễn mới tại Lễ hội pháo hoa Đà Nẵng](https://laodong.vn/van-hoa-giai-tri/duc-gay-bat-ngo-voi-ky-thuat-trinh-dien-moi-tai-le-hoi-phao-hoa-da-nang-1356359.ldo) - 15:05 22/06/2024
 - 🦩 [Anh chị từ chối nghĩa vụ cấp dưỡng cho em, có bị phạt tù?](https://laodong.vn/tu-van-phap-luat/anh-chi-tu-choi-nghia-vu-cap-duong-cho-em-co-bi-phat-tu-1355858.ldo) - 15:00 22/06/2024
