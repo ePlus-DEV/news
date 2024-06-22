@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Georgia - CH Czech](https://vnexpress.net/georgia-ch-czech-4761449.html) - 12:42 22/06/2024
+- 🪜 [Georgia 0-0 CH Czech &lpar;H1&rpar;: Liên tục bắn phá](https://vnexpress.net/georgia-vs-ch-czech-4761449.html) - 12:42 22/06/2024
 - 🦩 [Thanh Phúc: &#39;Tôi hạnh phúc khi làm runner phong trào&#39;](https://vnexpress.net/thanh-phuc-toi-hanh-phuc-khi-lam-runner-phong-trao-4761350.html) - 11:56 22/06/2024
 - 🧰 [Việt kiều U50 chinh phục 7 giải VnExpress Marathon năm 2023](https://vnexpress.net/viet-kieu-u50-chinh-phuc-7-giai-vnexpress-marathon-nam-2023-4761405.html) - 11:45 22/06/2024
 - 🤗 [Runner quốc tế du lịch Quy Nhơn kết hợp chạy marathon](https://vnexpress.net/runner-quoc-te-du-lich-quy-nhon-ket-hop-chay-marathon-4761373.html) - 11:24 22/06/2024
