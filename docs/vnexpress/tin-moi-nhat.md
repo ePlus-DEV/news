@@ -15,7 +15,7 @@ sidebar_position: 9
 - 🫶 [Mối quan hệ mập mờ với tình cũ](https://vnexpress.net/moi-quan-he-map-mo-voi-tinh-cu-4761419.html) - 13:00 22/06/2024
 - 🪜 [Nhiều quỹ mở cổ phiếu VinaCapital tăng lợi nhuận](https://vnexpress.net/nhieu-quy-mo-co-phieu-vinacapital-tang-loi-nhuan-4759906.html) - 13:00 22/06/2024
 - 👨‍🏫 [Thẻ căn cước công dân thay đổi thế nào từ ngày 1/7](https://vnexpress.net/the-can-cuoc-thay-doi-the-nao-tu-ngay-1-7-4761440.html) - 12:53 22/06/2024
-- 🎊 [Georgia 1-0 CH Czech &lpar;H2&rpar;: Bàn phạt đền](https://vnexpress.net/georgia-vs-ch-czech-4761449.html) - 12:42 22/06/2024
+- 🎊 [Georgia 1-0 CH Czech &lpar;hết H1&rpar;: Bàn phạt đền](https://vnexpress.net/georgia-vs-ch-czech-4761449.html) - 12:42 22/06/2024
 - 🎊 [Con vật nào lập tức xuất hiện khi chúng ta choáng váng?](https://vnexpress.net/con-vat-nao-lap-tuc-xuat-hien-khi-chung-ta-choang-vang-4759727.html) - 12:40 22/06/2024
 - 😺 [Mốt áo thi đấu thể thao gây sốt mùa Euro](https://vnexpress.net/mot-ao-thi-dau-the-thao-gay-sot-mua-euro-4761322.html) - 12:30 22/06/2024
 - 🐘 [Tôi không bao giờ cho con học bài sau 22h](https://vnexpress.net/toi-khong-bao-gio-cho-con-hoc-bai-sau-22h-4761394.html) - 12:08 22/06/2024
