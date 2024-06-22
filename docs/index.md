@@ -27,7 +27,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Lý do khách Việt đi Hàn Quốc nhiều nhất Đông Nam Á](https://vnexpress.net/ly-do-khach-viet-di-han-quoc-nhieu-nhat-dong-nam-a-4761479.html) - 21:00 22/06/2024
-- 🧰 [VnExpress Marathon Quy Nhơn 2024 khởi tranh](https://vnexpress.net/vnexpress-marathon-quy-nhon-2024-khoi-tranh-4761486.html) - 20:27 22/06/2024
+- 🧰 [Runner Kenya bỏ xa các đối thủ trên đường đua VM Quy Nhơn 2024](https://vnexpress.net/runner-kenya-bo-xa-cac-doi-thu-tren-duong-dua-vm-quy-nhon-2024-4761486.html) - 20:27 22/06/2024
 - 🥰 [Bị lừa phẫu thuật chuyển đổi giới tính](https://vnexpress.net/bi-lua-phau-thuat-chuyen-doi-gioi-tinh-4761422.html) - 19:00 22/06/2024
 - 🌏 [Highlight trận Thổ Nhĩ Kỳ 0-3 Bồ Đào Nha: Ronaldo thi đấu đồng đội](https://vnexpress.net/highlight-tran-tho-nhi-ky-0-3-bo-dao-nha-ronaldo-thi-dau-dong-doi-4761481.html) - 18:07 22/06/2024
 - 🧐 [Tài xế taxi cứu gia đình 4 người rơi xuống vực ở Tam Đảo](https://vnexpress.net/tai-xe-taxi-cuu-gia-dinh-4-nguoi-roi-xuong-vuc-o-tam-dao-4761478.html) - 17:44 22/06/2024
