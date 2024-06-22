@@ -39,7 +39,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎊 [Nga cáo buộc UAV Mỹ &#39;áp sát nguy hiểm&#39; tiêm kích Su-35](https://vnexpress.net/nga-cao-buoc-uav-my-ap-sat-nguy-hiem-tiem-kich-su-35-4761443.html) - 16:27 22/06/2024
 - 🤠 [Tài xế xe tải bị hành hung trên cao tốc](https://vnexpress.net/tai-xe-xe-tai-bi-hanh-hung-tren-cao-toc-4761454.html) - 16:12 22/06/2024
 - 🌈 [10 năm cống hiến cho công ty đổi lại quyết định sa thải](https://vnexpress.net/10-nam-cong-hien-cho-cong-ty-doi-lai-quyet-dinh-sa-thai-4761411.html) - 16:07 22/06/2024
-- 🎬 [Thổ Nhĩ Kỳ 0-3 Bồ Đào Nha &lpar;H2&rpar;: Ronaldo kiến tạo](https://vnexpress.net/truc-tiep-tran-tho-nhi-ky-vs-bo-dao-nha-o-euro-2024-4761472.html) - 15:40 22/06/2024
+- 🎬 [Thổ Nhĩ Kỳ 0-3 Bồ Đào Nha &lpar;H2&rpar;: Ronaldo lập kỷ lục kiến tạo](https://vnexpress.net/truc-tiep-tran-tho-nhi-ky-vs-bo-dao-nha-o-euro-2024-4761472.html) - 15:40 22/06/2024
 - 🚀 [Highlight trận Georgia 1-1 CH Czech: Suýt có bất ngờ](https://vnexpress.net/highlight-tran-georgia-1-1-ch-czech-suyt-co-bat-ngo-4761469.html) - 15:24 22/06/2024
 - 🪄 [Bàn thắng trận Georgia 1-1 CH Czech](https://vnexpress.net/ban-thang-tran-georgia-1-1-ch-czech-4761468.html) - 15:16 22/06/2024
 - 😎 [&#39;WEF và doanh nghiệp quốc tế coi trọng vai trò của Việt Nam&#39;](https://vnexpress.net/wef-va-doanh-nghiep-quoc-te-coi-trong-vai-tro-cua-viet-nam-4761458.html) - 15:12 22/06/2024
