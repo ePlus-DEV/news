@@ -71,7 +71,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚦 [Thổ Nhĩ Kỳ - Bồ Đào Nha: Chờ Ronaldo phá dớp](https://vnexpress.net/tho-nhi-ky-bo-dao-nha-cho-ronaldo-pha-dop-4761418.html) - 10:02 22/06/2024
 - 🕯 [Những thực phẩm không nên hâm nóng](https://vnexpress.net/nhung-thuc-pham-khong-nen-ham-nong-4761395.html) - 10:00 22/06/2024
 - 💪 [Khỉ hú hồn khi thanh niên bắt chước tiếng mình](https://vnexpress.net/khi-hu-hon-khi-thanh-nien-bat-chuoc-tieng-minh-4759550.html) - 10:00 22/06/2024
-- 🧑‍🏫 [Điểm tin 21h: Liên Khương trở thành cảng hàng không quốc tế; Nhẫn trơn sát giá vàng miếng](https://vnexpress.net/diem-tin-21h-lien-khuong-tro-thanh-cang-hang-khong-quoc-te-nhan-tron-sat-gia-vang-mieng-4761421.html) - 10:00 22/06/2024
+- 🧑‍🏫 [Điểm tin 17h: Các chế độ tăng theo lương cơ sở; EU đồng ý khởi động đối thoại kết nạp Ukraine](https://vnexpress.net/diem-tin-17h-cac-che-do-tang-theo-luong-co-so-eu-dong-y-khoi-dong-doi-thoai-ket-nap-ukraine-4761421.html) - 10:00 22/06/2024
 - 🎓 [Cháy tum nhà 10 tầng ở Bắc Ninh](https://vnexpress.net/chay-tum-nha-10-tang-o-bac-ninh-4761410.html) - 09:47 22/06/2024
 - 💫 [Xét nét con dâu về ngoại mà không xin phép](https://vnexpress.net/xet-net-con-dau-ve-ngoai-ma-khong-xin-phep-4761402.html) - 09:36 22/06/2024
 - 🤩 [Học Sư phạm Văn hay sang châu Âu học nghề?](https://vnexpress.net/hoc-su-pham-van-hay-sang-chau-au-hoc-nghe-4761183.html) - 09:30 22/06/2024
