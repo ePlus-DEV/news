@@ -62,5 +62,4 @@ sidebar_position: 11
 - 🧰 [48 giờ ở Nghệ An](https://vnexpress.net/48-gio-o-nghe-an-4757717.html) - 02:50 14/06/2024
 - 🕯 [Du lịch ngủ lên ngôi](https://vnexpress.net/du-lich-ngu-len-ngoi-4757305.html) - 01:00 14/06/2024
 - 👍 [Một vòng đạp xe trên đảo biệt lập ở TP HCM](https://vnexpress.net/mot-vong-dap-xe-tren-dao-biet-lap-o-tp-hcm-4756480.html) - 00:00 14/06/2024
-- 😎 [Hang Táu khác lạ mùa ngập nước](https://vnexpress.net/hang-tau-khac-la-mua-ngap-nuoc-4757563.html) - 07:52 13/06/2024
-- 🐘 [Nhà tù nhỏ nhất thế giới dùng để giam khách du lịch](https://vnexpress.net/nha-tu-nho-nhat-the-gioi-dung-de-giam-khach-du-lich-4757011.html) - 04:37 13/06/2024<!-- vnexpress-du-lich:END -->
+- 😎 [Hang Táu khác lạ mùa ngập nước](https://vnexpress.net/hang-tau-khac-la-mua-ngap-nuoc-4757563.html) - 07:52 13/06/2024<!-- vnexpress-du-lich:END -->
