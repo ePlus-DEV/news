@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Euro ngày 23/6: Đồng đội của Ronaldo bị nhân viên sân đốn hạ](https://vnexpress.net/euro-ngay-23-6-4761578.html) - 04:28 23/06/2024
+- 🪜 [Euro ngày 23/6: UEFA ấn tượng với pha đi bóng của Ronaldo](https://vnexpress.net/euro-ngay-23-6-4761578.html) - 04:28 23/06/2024
 - 🦩 [Trận đấu gián đoạn 4 lần vì CĐV vào sân tiếp cận Ronaldo](https://vnexpress.net/tran-dau-gian-doan-4-lan-vi-cdv-vao-san-tiep-can-ronaldo-4761564.html) - 03:20 23/06/2024
 - 🧰 [Nagelsmann lo cầu thủ chấn thương vì mặt sân tệ](https://vnexpress.net/nagelsmann-lo-cau-thu-chan-thuong-vi-mat-san-te-4761515.html) - 01:01 23/06/2024
 - 🤗 [Bruno ca ngợi tinh thần đồng đội của Ronaldo](https://vnexpress.net/bruno-ca-ngoi-tinh-than-dong-doi-cua-ronaldo-4761509.html) - 00:31 23/06/2024
