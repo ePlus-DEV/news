@@ -29,7 +29,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [Để tiết kiệm, tôi và bạn trai đi ăn chỉ trong 100 nghìn đồng](https://vnexpress.net/de-tiet-kiem-toi-va-ban-trai-di-an-chi-trong-100-nghin-dong-4761648.html) - 14:00 23/06/2024
 - 🧰 [Tìm cô gái đơn giản, nhẹ nhàng](https://vnexpress.net/tim-co-gai-don-gian-nhe-nhang-4761533.html) - 14:00 23/06/2024
 - 🥰 [Nỗi oan &#39;kén cá chọn canh&#39; của phụ nữ trên 40 tuổi](https://vnexpress.net/noi-oan-ken-ca-chon-canh-cua-phu-nu-tren-40-tuoi-4761617.html) - 13:31 23/06/2024
-- 🌏 [Hơn 50 người Ấn Độ chết vì uống rượu pha cồn công nghiệp](https://vnexpress.net/hon-50-nguoi-an-do-chet-vi-uong-ruou-pha-con-cong-nghiep-4761686.html) - 13:30 23/06/2024
+- 🌏 [Hơn 50 người Ấn Độ chết vì ngộ độc rượu](https://vnexpress.net/hon-50-nguoi-an-do-chet-vi-ngo-doc-ruou-4761686.html) - 13:30 23/06/2024
 - 🧐 [Hai tỉnh nào cùng có ba thị xã?](https://vnexpress.net/hai-tinh-nao-cung-co-ba-thi-xa-4761662.html) - 13:00 23/06/2024
 - 💫 [Vì sao cần tiêm hai mũi vaccine sởi?](https://vnexpress.net/vi-sao-can-tiem-hai-mui-vaccine-soi-4761517.html) - 13:00 23/06/2024
 - 😺 [Những đạo cụ tạo nên màn ảo thuật khó tin](https://vnexpress.net/nhung-dao-cu-tao-nen-man-ao-thuat-kho-tin-4760472.html) - 12:59 23/06/2024
