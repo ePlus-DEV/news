@@ -283,7 +283,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎬 [Hai phương án lấy ý kiến Quốc hội về quy định nồng độ cồn khi lái xe](https://nld.com.vn/hai-phuong-an-lay-y-kien-quoc-hoi-ve-quy-dinh-nong-do-con-khi-lai-xe-196240623110718904.htm) - 05:28 23/06/2024
 - 👀 [Đông khách yêu thơ, đồng nghiệp chúc mừng &quot;Tình yêu mạnh như nước&quot; của nhà thơ Hà Phương](https://nld.com.vn/dong-khach-yeu-tho-dong-nghiep-chuc-mung-tinh-yeu-manh-nhu-nuoc-cua-nha-tho-ha-phuong-196240623112442216.htm) - 05:27 23/06/2024
 - 👍 [Thủ tướng chỉ đạo bảo đảm an toàn tuyệt đối cho kỳ thi tốt nghiệp THPT](https://nld.com.vn/thu-tuong-chi-dao-bao-dam-an-toan-tuyet-doi-cho-ky-thi-tot-nghiep-thpt-196240623121357846.htm) - 05:25 23/06/2024
-- 🦅 [Công an TP HCM khởi tố Chủ tịch Công ty Tập đoàn Asanzo](https://nld.com.vn/cong-an-tp-hcm-khoi-to-chu-tich-cong-ty-tap-doan-asanzo-196240623120507712.htm) - 05:18 23/06/2024
+- 🦅 [Công an TP HCM khởi tố cựu Chủ tịch Asanzo Phạm Văn Tam](https://nld.com.vn/cong-an-tp-hcm-khoi-to-chu-tich-cong-ty-tap-doan-asanzo-196240623120507712.htm) - 05:18 23/06/2024
 - 🦏 [Chọn người để tiếp nối](https://nld.com.vn/chon-nguoi-de-tiep-noi-196240622200024763.htm) - 05:08 23/06/2024
 - 🗽 [BCG Energy sẽ lên sàn UPCoM với mã cổ phiếu BGE](https://nld.com.vn/bcg-energy-se-len-san-upcom-voi-ma-co-phieu-bge-196240623104341014.htm) - 05:00 23/06/2024
 - 🔭 [Diễn đàn Kinh tế Việt Nam - Thụy Sỹ 2024: Thúc đẩy quan hệ hợp tác hai bên](https://nld.com.vn/dien-dan-kinh-te-viet-nam-thuy-sy-2024-thuc-day-quan-he-hop-tac-hai-ben-196240623103851328.htm) - 05:00 23/06/2024
