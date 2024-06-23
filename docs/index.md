@@ -246,7 +246,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌈 [Cập nhật lãi suất Agribank, BIDV, Vietcombank, VietinBank ngày 23.6.2024](https://laodong.vn/ban-tin/cap-nhat-lai-suat-agribank-bidv-vietcombank-vietinbank-ngay-2362024-1356670.ldo) - 13:41 23/06/2024
 - 🐲 [SHB Đà Nẵng không làm khán giả thất vọng tại giải hạng Nhất Quốc gia](https://laodong.vn/ban-tin/shb-da-nang-khong-lam-khan-gia-that-vong-tai-giai-hang-nhat-quoc-gia-1356700.ldo) - 13:40 23/06/2024
 - 🚀 [Bài tập pilates kết hợp với vòng giúp bạn giảm mỡ bụng nhanh chóng](https://laodong.vn/suc-khoe/bai-tap-pilates-ket-hop-voi-vong-giup-ban-giam-mo-bung-nhanh-chong-1356390.ldo) - 13:15 23/06/2024
-- 😺 [Giá nhà chung cư cũ hay mới đều tăng](https://laodong.vn/bat-dong-san/gia-nha-chung-cu-cu-hay-moi-deu-tang-1356573.ldo) - 13:00 23/06/2024
+- 😺 [Lợi ích khi dạy con dùng Internet đúng cách](https://laodong.vn/nuoi-con/loi-ich-khi-day-con-dung-internet-dung-cach-1356570.ldo) - 13:00 23/06/2024
 - 🕴 [Bộ Công an nói về việc thu thập, sử dụng sinh trắc học mống mắt của công dân](https://laodong.vn/cong-nghe/bo-cong-an-noi-ve-viec-thu-thap-su-dung-sinh-trac-hoc-mong-mat-cua-cong-dan-1356579.ldo) - 13:00 23/06/2024
 - 🌋 [Phí đăng kiểm ôtô mới nhất](https://laodong.vn/xe/phi-dang-kiem-oto-moi-nhat-1356475.ldo) - 13:00 23/06/2024
 - 💄 [Tin 20h: Dự báo sắp có 1-2 cơn bão và áp thấp nhiệt đới trên Biển Đông](https://laodong.vn/video-xa-hoi/tin-20h-du-bao-sap-co-1-2-con-bao-va-ap-thap-nhiet-doi-tren-bien-dong-1356655.ldo) - 13:00 23/06/2024<!-- laodong:END -->
