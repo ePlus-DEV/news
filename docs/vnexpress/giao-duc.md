@@ -7,7 +7,7 @@ sidebar_position: 7
 - 🤓 [5 cách chúc ngủ ngon thay thế &#39;Good night&#39;](https://vnexpress.net/5-cach-chuc-ngu-ngon-thay-the-good-night-4761658.html) - 10:07 23/06/2024
 - 🦆 [Điểm chuẩn, học phí ngành Quản trị kinh doanh](https://vnexpress.net/hoc-phi-nganh-quan-tri-kinh-doanh-cua-cac-truong-dai-hoc-nam-2024-4759352.html) - 06:48 23/06/2024
 - 🦩 [Gần 10 điểm học bạ mới đỗ ngành Sư phạm Toán](https://vnexpress.net/gan-10-diem-hoc-ba-moi-do-nganh-su-pham-toan-4761480.html) - 01:05 23/06/2024
-- 🌮 [Nữ sinh chuyên ngữ chinh phục đại học số 1 châu Á](https://vnexpress.net/nu-sinh-chuyen-ngu-chinh-phuc-dai-hoc-so-1-chau-a-4760527.html) - 23:35 22/06/2024
+- 🌮 [Nữ sinh chuyên ngữ chinh phục đại học số 1 Trung Quốc](https://vnexpress.net/nu-sinh-chuyen-ngu-chinh-phuc-dai-hoc-so-1-trung-quoc-4760527.html) - 23:35 22/06/2024
 - 🔭 [Trường Y công lập đầu tiên công bố điểm chuẩn học bạ](https://vnexpress.net/diem-chuan-hoc-ba-truong-y-duoc-dai-hoc-da-nang-nam-2024-4761464.html) - 14:53 22/06/2024
 - 💡 [Hồ nước ngọt sâu nhất thế giới nằm ở đâu?](https://vnexpress.net/ho-nuoc-ngot-sau-nhat-the-gioi-nam-o-dau-4760327.html) - 13:00 22/06/2024
 - 🥰 [Học Sư phạm Văn hay sang châu Âu học nghề?](https://vnexpress.net/hoc-su-pham-van-hay-sang-chau-au-hoc-nghe-4761183.html) - 09:30 22/06/2024
