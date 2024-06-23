@@ -209,7 +209,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp lượt trận cuối bảng A EURO 2024: Đức 0-0 Thụy Sĩ, Scotland 0-0 Hungary](https://laodong.vn/bong-da-quoc-te/truc-tiep-luot-tran-cuoi-bang-a-euro-2024-duc-0-0-thuy-si-scotland-0-0-hungary-1356728.ldo) - 18:00 23/06/2024
+- 🗽 [Trực tiếp lượt trận cuối bảng A EURO 2024: Đức 0-1 Thụy Sĩ, Scotland 0-0 Hungary](https://laodong.vn/bong-da-quoc-te/truc-tiep-luot-tran-cuoi-bang-a-euro-2024-duc-0-1-thuy-si-scotland-0-0-hungary-1356728.ldo) - 18:00 23/06/2024
 - 📝 [Link xem trực tiếp bóng đá Uruguay vs Panama tại Copa America 2024](https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-uruguay-vs-panama-tai-copa-america-2024-1356734.ldo) - 17:30 23/06/2024
 - 🦏 [Link xem trực tiếp bóng đá Mỹ vs Bolivia tại Copa America 2024](https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-my-vs-bolivia-tai-copa-america-2024-1356731.ldo) - 16:00 23/06/2024
 - 🦩 [Bóng chuyền Việt Nam ngày 23.6: Cựu tuyển thủ Kim Huệ khoe sở thích cá nhân](https://laodong.vn/the-thao/bong-chuyen-viet-nam-ngay-236-cuu-tuyen-thu-kim-hue-khoe-so-thich-ca-nhan-1356706.ldo) - 15:31 23/06/2024
