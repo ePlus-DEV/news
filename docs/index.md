@@ -254,7 +254,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [15 cặp vợ chồng hiếm muộn được làm IVF miễn phí](https://nld.com.vn/15-cap-vo-chong-hiem-muon-duoc-lam-ivf-mien-phi-196240623160417923.htm) - 12:50 23/06/2024
-- 😺 [Phó Tủ tướng Trần Lưu Quang: Rà soát để tháo gỡ vướng mắc quy hoạch bauxite ở Tây Nguyên](https://nld.com.vn/pho-tu-tuong-tran-luu-quang-ra-soat-de-thao-go-vuong-mac-quy-hoach-bauxite-o-tay-nguyen-19624062319324885.htm) - 12:49 23/06/2024
+- 😺 [Phó Thủ tướng Trần Lưu Quang: Rà soát để tháo gỡ vướng mắc quy hoạch bauxite ở Tây Nguyên](https://nld.com.vn/pho-tu-tuong-tran-luu-quang-ra-soat-de-thao-go-vuong-mac-quy-hoach-bauxite-o-tay-nguyen-19624062319324885.htm) - 12:49 23/06/2024
 - 👍 [Vietnam Airlines có thuê máy bay Embraer E190 để bay Côn Đảo?](https://nld.com.vn/vietnam-airlines-co-thue-may-bay-embraer-e190-de-bay-con-dao-196240623170745964.htm) - 10:31 23/06/2024
 - 🥷 [VIDEO: Nhóm người trên xe khách chặn xe tải, đánh tài xế trên cao tốc](https://nld.com.vn/video-nhom-nguoi-tren-xe-khach-chan-xe-tai-danh-tai-xe-tren-cao-toc-19624062316220015.htm) - 10:31 23/06/2024
 - 🤔 [Sinh viên vượt khó, tốt nghiệp cao đẳng loại xuất sắc](https://nld.com.vn/sinh-vien-vuot-kho-tot-nghiep-cao-dang-loai-xuat-sac-196240623170121201.htm) - 10:19 23/06/2024
