@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cháy ở chùa Thuyền Lâm](https://vnexpress.net/chay-o-chua-thuyen-lam-4761705.html) - 16:59 23/06/2024
+- 🦒 [Cháy chánh điện chùa Thuyền Lâm](https://vnexpress.net/chay-chanh-dien-chua-thuyen-lam-4761705.html) - 16:59 23/06/2024
 - 🤓 [Nhiều nhà xưởng ở làng giấy Phong Khê bốc cháy](https://vnexpress.net/nhieu-nha-xuong-o-lang-giay-phong-khe-boc-chay-4761708.html) - 16:24 23/06/2024
 - ⚗️ [Sạt lở đất cao tốc, một người tử vong](https://vnexpress.net/sat-lo-dat-cao-toc-mot-nguoi-tu-vong-4761688.html) - 14:52 23/06/2024
 - 🌊 [Hải quân cứu kéo tàu cá ngư dân gặp nạn](https://vnexpress.net/hai-quan-cuu-keo-tau-ca-ngu-dan-gap-nan-4761681.html) - 12:41 23/06/2024
