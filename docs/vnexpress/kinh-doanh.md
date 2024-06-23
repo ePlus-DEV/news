@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Các ngân hàng và SJC muốn loại bỏ đầu cơ vàng miếng](https://vnexpress.net/cac-ngan-hang-va-sjc-muon-loai-bo-dau-co-vang-mieng-4761621.html) - 08:31 23/06/2024
 - 🐲 [130.000 đồng một kg nhãn xuồng tím](https://vnexpress.net/130-000-dong-mot-kg-nhan-xuong-tim-4761182.html) - 00:19 23/06/2024
-- 🔥 [Nhà xuất bản Giáo dục lãi gần tỷ đồng mỗi ngày](https://vnexpress.net/nha-xuat-ban-giao-duc-lai-gan-ty-dong-moi-ngay-4761488.html) - 23:32 22/06/2024
+- 🔥 [Nhà xuất bản Giáo dục giảm nhẹ lãi trong năm 2023](https://vnexpress.net/nha-xuat-ban-giao-duc-giam-nhe-lai-trong-nam-2023-4761488.html) - 23:32 22/06/2024
 - 🐵 [SK Group muốn thu về 720 triệu USD từ bán cổ phần tại Việt Nam](https://vnexpress.net/sk-group-muon-thu-ve-720-trieu-usd-tu-ban-co-phan-tai-viet-nam-4761387.html) - 10:11 22/06/2024
 - 🦅 [Nhẫn trơn sát giá vàng miếng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-22-6-4761408.html) - 10:09 22/06/2024
 - 😺 [Nvidia mất hơn 200 tỷ USD vốn hóa trong 2 phiên](https://vnexpress.net/nvidia-mat-hon-200-ty-usd-von-hoa-trong-2-phien-4761294.html) - 06:33 22/06/2024
