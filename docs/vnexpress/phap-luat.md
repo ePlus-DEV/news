@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Tội ác pha chế rượu trái phép khiến 34 người chết ở Ấn Độ](https://vnexpress.net/34-nguoi-chet-sau-khi-uong-ruou-pha-che-trai-phep-o-an-do-4761593.html) - 05:11 23/06/2024
-- 🥰 [Chủ tịch Tập đoàn Asanzo Phạm Văn Tam bị khởi tố](https://vnexpress.net/chu-tich-tap-doan-asanzo-pham-van-tam-bi-khoi-to-4761594.html) - 05:10 23/06/2024
+- 🥰 [Chủ tịch Asanzo Phạm Văn Tam bị khởi tố](https://vnexpress.net/chu-tich-asanzo-pham-van-tam-bi-khoi-to-4761594.html) - 05:10 23/06/2024
 - 🎓 [Được bồi thường 13 triệu USD vì vấp ngã trên vỉa hè trơn trượt](https://vnexpress.net/duoc-boi-thuong-13-trieu-usd-vi-vap-nga-tren-via-he-tron-truot-4761579.html) - 05:02 23/06/2024
 - 🤓 [Nhóm buôn 6 tấn vàng lậu, vận chuyển bằng xe ba gác sắp bị xét xử](https://vnexpress.net/nhom-buon-6-tan-vang-lau-van-chuyen-bang-xe-ba-gac-sap-bi-xet-xu-4761554.html) - 04:01 23/06/2024
 - 🎊 [8 anh em đằng đẵng tranh chấp 9.600 m2 đất cha mẹ để lại](https://vnexpress.net/8-anh-em-dang-dang-tranh-chap-9-600-m2-dat-cha-me-de-lai-4761414.html) - 01:31 23/06/2024
