@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Hơn 50 người Ấn Độ chết vì uống rượu pha cồn công nghiệp](https://vnexpress.net/hon-50-nguoi-an-do-chet-vi-uong-ruou-pha-con-cong-nghiep-4761686.html) - 13:30 23/06/2024
+- 🎭 [Hơn 50 người Ấn Độ chết vì ngộ độc rượu](https://vnexpress.net/hon-50-nguoi-an-do-chet-vi-ngo-doc-ruou-4761686.html) - 13:30 23/06/2024
 - 🕴 [Tương lai ba vụ truy tố ông Trump sau phán quyết &#39;có tội&#39; ở New York](https://vnexpress.net/tuong-lai-ba-vu-truy-to-ong-trump-sau-phan-quyet-co-toi-o-new-york-4753510.html) - 12:00 23/06/2024
 - 🤭 [Nga tập kích cơ sở huấn luyện phi công của Ukraine](https://vnexpress.net/nga-tap-kich-co-so-huan-luyen-phi-cong-cua-ukraine-4761673.html) - 11:10 23/06/2024
 - 🧑‍💻 [Lính Israel trói người Palestine trên nắp capo xe quân sự](https://vnexpress.net/linh-israel-troi-nguoi-palestine-tren-nap-capo-xe-quan-su-4761638.html) - 11:05 23/06/2024
