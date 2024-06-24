@@ -152,7 +152,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- thanhnien:START -->
 - 🤠 [Chiến sự Ukraine ngày 852: Nhà kho Odessa cháy lớn, EU &#39;lách luật&#39; để hỗ trợ Kyiv?](https://thanhnien.vn/chien-su-ukraine-ngay-852-nha-kho-odessa-chay-lon-eu-lach-luat-de-ho-tro-kyiv-185240624222948988.htm) - 21:25 24/06/2024
 - 🥸 [Bỗng dưng bị ngân hàng siết nhà: Ngân hàng không thể vô can](https://thanhnien.vn/bong-dung-bi-ngan-hang-siet-nha-ngan-hang-khong-the-vo-can-185240624210628743.htm) - 21:23 24/06/2024
-- 🌁 [Đội tuyển Ý &#39;chết đi sống lại&#39; ở giây cuối, Croatia đối mặt nguy cơ về nước](https://thanhnien.vn/doi-tuyen-y-chet-di-song-lai-o-giay-cuoi-croatia-va-modric-cay-dang-ve-nuoc-18524062503213722.htm) - 21:15 24/06/2024
+- 🌁 [Đội tuyển Ý &#39;chết đi sống lại&#39; ở giây cuối, Croatia đối mặt nguy cơ sớm về nước](https://thanhnien.vn/doi-tuyen-y-chet-di-song-lai-o-giay-cuoi-croatia-va-modric-cay-dang-ve-nuoc-18524062503213722.htm) - 21:15 24/06/2024
 - 🤡 [Để tro xỉ từ phế thải thành tài nguyên](https://thanhnien.vn/de-tro-xi-tu-phe-thai-thanh-tai-nguyen-185240624231912041.htm) - 21:14 24/06/2024
 - 🎉 [Tin tức đặc biệt trên báo in Thanh Niên 25.6.2024](https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2562024-185240624233907954.htm) - 21:11 24/06/2024
 - 🎊 [Đau họng rất phổ biến, nhưng đau thế nào thì có thể là ung thư?](https://thanhnien.vn/dau-hong-rat-pho-bien-nhung-dau-the-nao-thi-co-the-la-ung-thu-185240624191125107.htm) - 21:07 24/06/2024
