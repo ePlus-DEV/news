@@ -6,7 +6,7 @@ sidebar_position: 6
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Nỗi niềm mẹ đơn thân có con ung thư](https://vnexpress.net/noi-niem-me-don-than-co-con-ung-thu-4761625.html) - 00:30 24/06/2024
 - 🎓 [Những ông chồng bị quản thúc mùa Euro](https://vnexpress.net/nhung-ong-chong-bi-quan-thuc-mua-euro-4760788.html) - 23:30 23/06/2024
-- 🚦 [Đường trở thành thủ khoa của cậu bé không cha mẹ](https://vnexpress.net/duong-tro-thanh-thu-khoa-cua-cau-be-khong-cha-me-4760768.html) - 17:00 23/06/2024
+- 🚦 [Đường trở thành thủ khoa của cậu bé &#39;có cha mẹ cũng như không&#39;](https://vnexpress.net/duong-tro-thanh-thu-khoa-cua-cau-be-co-cha-me-cung-nhu-khong-4760768.html) - 17:00 23/06/2024
 - 🦣 [Canh cá nấu dọc mùng kiểu Bắc](https://vnexpress.net/canh-ca-nau-doc-mung-kieu-bac-4761629.html) - 10:00 23/06/2024
 - 🎓 [Điều không nên làm khi bạn bè ly hôn](https://vnexpress.net/dieu-khong-nen-lam-khi-ban-be-ly-hon-4761635.html) - 08:09 23/06/2024
 - 🎭 [Có nên cho con trai nhỏ vào nhà vệ sinh nữ cùng mẹ?](https://vnexpress.net/co-nen-cho-con-trai-nho-vao-nha-ve-sinh-nu-cung-me-4760749.html) - 02:26 23/06/2024
