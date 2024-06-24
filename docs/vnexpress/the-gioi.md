@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Số người chết trong mùa hành hương Mecca vượt 1.300](https://vnexpress.net/so-nguoi-chet-trong-mua-hanh-huong-mecca-vuot-1-300-4761749.html) - 03:25 24/06/2024
 - 🕴 [Tướng Mỹ cảnh báo nguy cơ xung đột lớn nếu Israel tấn công Lebanon](https://vnexpress.net/tuong-my-canh-bao-nguy-co-xung-dot-lon-neu-israel-tan-cong-lebanon-4761733.html) - 00:55 24/06/2024
-- 🤭 [Thủ tướng lên đường tới Trung Quốc dự hội nghị WEF](https://vnexpress.net/thu-tuong-len-duong-toi-trung-quoc-du-hoi-nghi-wef-4761689.html) - 00:20 24/06/2024
+- 🤭 [Thủ tướng tới Trung Quốc dự hội nghị WEF](https://vnexpress.net/thu-tuong-toi-trung-quoc-du-hoi-nghi-wef-4761689.html) - 00:20 24/06/2024
 - 🧑‍💻 [Houthi tấn công tàu hàng trên Biển Đỏ, Ấn Độ Dương](https://vnexpress.net/houthi-tan-cong-tau-hang-tren-bien-do-an-do-duong-4761718.html) - 23:57 23/06/2024
 - 🦏 [Thủ tướng Netanyahu: Giao tranh khốc liệt ở Rafah sắp kết thúc](https://vnexpress.net/thu-tuong-netanyahu-giao-tranh-khoc-liet-o-rafah-sap-ket-thuc-4761723.html) - 23:35 23/06/2024
 - 🦒 [Tấn công khủng bố ở Nga, ít nhất 15 cảnh sát thiệt mạng](https://vnexpress.net/xa-sung-tai-mien-nam-nuoc-nga-9-nguoi-thiet-mang-4761715.html) - 22:29 23/06/2024
