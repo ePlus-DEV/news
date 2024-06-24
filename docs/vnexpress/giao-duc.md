@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Hơn 1 điểm mỗi môn đỗ lớp 10 công lập](https://vnexpress.net/hon-1-diem-moi-mon-do-lop-10-cong-lap-4761911.html) - 07:02 24/06/2024
-- 🦆 [Điểm chuẩn lớp 10 chuyên ở TP HCM cao nhất 37,25](https://vnexpress.net/diem-chuan-lop-10-cac-truong-chuyen-cua-tp-hcm-nam-2024-4761651.html) - 04:48 24/06/2024
+- 🦆 [Điểm chuẩn lớp 10 chuyên ở TP HCM cao nhất 37,5](https://vnexpress.net/diem-chuan-lop-10-cac-truong-chuyen-cua-tp-hcm-nam-2024-4761651.html) - 04:48 24/06/2024
 - 🦩 [Lưu ý với bài thi trắc nghiệm tốt nghiệp THPT](https://vnexpress.net/luu-y-lam-bai-thi-trac-nghiem-tot-nghiep-thpt-nam-2024-4761802.html) - 04:13 24/06/2024
 - 🌮 [Thủ khoa chuyên Anh trường Sư phạm học thêm từ lớp 1](https://vnexpress.net/thu-khoa-chuyen-anh-truong-su-pham-hoc-them-tu-lop-1-4761118.html) - 00:04 24/06/2024
 - 🔭 [Học Điện tử viễn thông có cần giỏi sẵn môn tự nhiên?](https://vnexpress.net/hoc-dien-tu-vien-thong-co-can-gioi-san-mon-tu-nhien-4761667.html) - 16:59 23/06/2024
