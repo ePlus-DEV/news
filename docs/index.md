@@ -213,7 +213,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp bóng đá Croatia 1-0 Italy: 8 phút bù giờ](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-croatia-1-0-italy-8-phut-bu-gio-1357192.ldo) - 18:00 24/06/2024
+- 🗽 [Tuyển Croatia rơi chiến thắng phút bù giờ, nguy cơ chia tay EURO 2024](https://laodong.vn/bong-da-quoc-te/tuyen-croatia-roi-chien-thang-phut-bu-gio-nguy-co-chia-tay-euro-2024-1357192.ldo) - 18:00 24/06/2024
 - 📝 [Link xem trực tiếp bóng đá Colombia vs Paraguay tại Copa America 2024](https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-colombia-vs-paraguay-tai-copa-america-2024-1357186.ldo) - 17:30 24/06/2024
 - 🦏 [Cháy cửa hàng điện lạnh ở Nam Định, 4 người trong gia đình thoát nạn trong đêm](https://laodong.vn/xa-hoi/chay-cua-hang-dien-lanh-o-nam-dinh-4-nguoi-trong-gia-dinh-thoat-nan-trong-dem-1357201.ldo) - 16:26 24/06/2024
 - 🦩 [“Trường tương tư 2” xác nhận lên sóng 8.7, diễn xuất của Dương Tử gây sốt](https://laodong.vn/giai-tri/truong-tuong-tu-2-xac-nhan-len-song-87-dien-xuat-cua-duong-tu-gay-sot-1357194.ldo) - 15:58 24/06/2024
