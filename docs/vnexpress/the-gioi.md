@@ -8,7 +8,7 @@ sidebar_position: 2
 - 🕴 [Thủ tướng lên đường tới Trung Quốc dự hội nghị WEF](https://vnexpress.net/thu-tuong-len-duong-toi-trung-quoc-du-hoi-nghi-wef-4761689.html) - 00:20 24/06/2024
 - 🤭 [Houthi tấn công tàu hàng trên Biển Đỏ, Ấn Độ Dương](https://vnexpress.net/houthi-tan-cong-tau-hang-tren-bien-do-an-do-duong-4761718.html) - 23:57 23/06/2024
 - 🧑‍💻 [Thủ tướng Netanyahu: Giao tranh khốc liệt ở Rafah sắp kết thúc](https://vnexpress.net/thu-tuong-netanyahu-giao-tranh-khoc-liet-o-rafah-sap-ket-thuc-4761723.html) - 23:35 23/06/2024
-- 🦏 [Tấn công khủng bố ở Nga, ít nhất 15 cảnh sát thiệt mạng](https://vnexpress.net/tan-cong-khung-bo-o-nga-it-nhat-15-canh-sat-thiet-mang-4761715.html) - 22:29 23/06/2024
+- 🦏 [Tấn công khủng bố ở Nga, ít nhất 15 cảnh sát thiệt mạng](https://vnexpress.net/xa-sung-tai-mien-nam-nuoc-nga-9-nguoi-thiet-mang-4761715.html) - 22:29 23/06/2024
 - 🦒 [Bất đồng về vũ khí khoét sâu rạn nứt Mỹ - Israel](https://vnexpress.net/bat-dong-ve-vu-khi-khoet-sau-ran-nut-my-israel-4761260.html) - 17:00 23/06/2024
 - 🌈 [Nga cáo buộc Ukraine phóng tên lửa chứa đạn chùm vào Crimea](https://vnexpress.net/nga-cao-buoc-ukraine-phong-ten-lua-chua-dan-chum-vao-crimea-4761702.html) - 15:50 23/06/2024
 - 🧑‍🏫 [Hơn 50 người Ấn Độ chết vì ngộ độc rượu](https://vnexpress.net/hon-50-nguoi-an-do-chet-vi-ngo-doc-ruou-4761686.html) - 13:30 23/06/2024
