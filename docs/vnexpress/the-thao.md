@@ -4,8 +4,8 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Tây Ban Nha 1-0 Albania &lpar;H1&rpar;: Torres mở tỷ số](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-albania-o-euro-2024-4762173.html) - 18:34 24/06/2024
-- 🦩 [Croatia 0-0 Italy &lpar;H1&rpar;: Donnarumma cứu thua](https://vnexpress.net/truc-tiep-tran-croatia-vs-italy-o-euro-2024-4762172.html) - 18:32 24/06/2024
+- 🪜 [Tây Ban Nha 1-0 Albania &lpar;H1&rpar;: Thế trận một chiều](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-albania-o-euro-2024-4762173.html) - 18:34 24/06/2024
+- 🦩 [Croatia 0-0 Italy &lpar;H1&rpar;: Livakovic cứu thua](https://vnexpress.net/truc-tiep-tran-croatia-vs-italy-o-euro-2024-4762172.html) - 18:32 24/06/2024
 - 🧰 [Golfer nữ số một thế giới liên tiếp sa sút phong độ](https://vnexpress.net/golfer-nu-so-mot-the-gioi-lien-tiep-sa-sut-phong-do-4762163.html) - 18:00 24/06/2024
 - 🤗 [Giải PGA Tour bị gây rối hồi kết](https://vnexpress.net/giai-pga-tour-bi-gay-roi-hoi-ket-4762161.html) - 18:00 24/06/2024
 - 🥳 [Brazil - Costa Rica: Ứng viên vô địch phô diễn sức mạnh](https://vnexpress.net/brazil-costa-rica-ung-vien-vo-dich-pho-dien-suc-manh-4762093.html) - 12:00 24/06/2024
