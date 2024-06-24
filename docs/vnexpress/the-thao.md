@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Lineker: &#39;Tuyển Anh thời nào cũng bị chỉ trích&#39;](https://vnexpress.net/lineker-tuyen-anh-thoi-nao-cung-bi-chi-trich-4762165.html) - 21:26 24/06/2024
 - 🦩 [Tây Ban Nha toàn thắng vòng bảng Euro 2024](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-albania-o-euro-2024-4762173.html) - 18:34 24/06/2024
-- 🧰 [Bàn phút cuối giúp Italy loại Croatia](https://vnexpress.net/truc-tiep-tran-croatia-vs-italy-o-euro-2024-4762172-tong-thuat.html) - 18:32 24/06/2024
+- 🧰 [Italy đẩy Croatia đến cửa tử](https://vnexpress.net/truc-tiep-tran-croatia-vs-italy-o-euro-2024-4762172-tong-thuat.html) - 18:32 24/06/2024
 - 🤗 [Golfer nữ số một thế giới liên tiếp sa sút phong độ](https://vnexpress.net/golfer-nu-so-mot-the-gioi-lien-tiep-sa-sut-phong-do-4762163.html) - 18:00 24/06/2024
 - 🥳 [Giải PGA Tour bị gây rối hồi kết](https://vnexpress.net/giai-pga-tour-bi-gay-roi-hoi-ket-4762161.html) - 18:00 24/06/2024
 - 🦣 [Brazil - Costa Rica: Ứng viên vô địch phô diễn sức mạnh](https://vnexpress.net/brazil-costa-rica-ung-vien-vo-dich-pho-dien-suc-manh-4762093.html) - 12:00 24/06/2024
