@@ -11,7 +11,7 @@ sidebar_position: 9
 - 🎊 [Nhà khoa học tìm giải pháp kiểm soát bệnh truyền nhiễm](https://vnexpress.net/nha-khoa-hoc-tim-giai-phap-kiem-soat-benh-truyen-nhiem-4761960.html) - 08:17 24/06/2024
 - 🎃 [Tính toán rút gọn quy trình để kịp chi lương hưu mới đầu tháng 7](https://vnexpress.net/tinh-toan-rut-gon-quy-trinh-de-kip-chi-luong-huu-moi-dau-thang-7-4761981.html) - 08:15 24/06/2024
 - 🧰 [Shipper Đông Nam Bộ giữ hiệu suất giao hơn trăm đơn ngày mưa](https://vnexpress.net/shipper-dong-nam-bo-giu-hieu-suat-giao-hon-tram-don-ngay-mua-4761947.html) - 08:07 24/06/2024
-- 🔭 [&#39;Ngân hàng cần xác thực tài khoản lừa đảo thay vì bắt nhận diện khuôn mặt&#39;](https://vnexpress.net/ngan-hang-can-xac-thuc-tai-khoan-lua-dao-thay-vi-bat-nhan-dien-khuon-mat-4762000.html) - 08:06 24/06/2024
+- 🔭 [&#39;Ngân hàng xác thực tài khoản lừa đảo thay vì bắt khách hàng nhận diện khuôn mặt&#39;](https://vnexpress.net/ngan-hang-xac-thuc-tai-khoan-lua-dao-thay-vi-bat-khach-hang-nhan-dien-khuon-mat-4762000.html) - 08:06 24/06/2024
 - 🫶 [5 loại trà giúp giảm mỡ máu](https://vnexpress.net/5-loai-tra-giup-giam-mo-mau-4761912.html) - 08:03 24/06/2024
 - 🪜 [Bernardo Silva chạy nhiều nhất hai trận đầu Euro 2024](https://vnexpress.net/bernardo-silva-chay-nhieu-nhat-hai-tran-dau-euro-2024-4761926.html) - 08:02 24/06/2024
 - 👨‍🏫 [Vợ đâm chết chồng, con trai nhận tội thay](https://vnexpress.net/vo-dam-chet-chong-con-trai-nhan-toi-thay-4761961.html) - 08:00 24/06/2024
