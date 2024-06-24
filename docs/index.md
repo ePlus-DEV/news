@@ -147,7 +147,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Gặp doanh nghiệp Trung Quốc, Thủ tướng Phạm Minh Chính nói rõ tầm nhìn phát triển đường sắt](https://thanhnien.vn/gap-doanh-nghiep-trung-quoc-thu-tuong-pham-minh-chinh-noi-ro-tam-nhin-phat-trien-duong-sat-185240624165557973.htm) - 13:08 24/06/2024
+- 🤠 [Ngay bây giờ, người Việt hãy nhìn lên trời để quan sát &#39;tam giác mùa hè’ nổi tiếng](https://thanhnien.vn/ngay-bay-gio-nguoi-viet-hay-nhin-len-troi-de-quan-sat-tam-giac-mua-he-noi-tieng-185240624111931478.htm) - 13:20 24/06/2024
 - 🥸 [Hàn Quốc nói phát hiện ký sinh trùng trong bóng bay chở rác từ Triều Tiên](https://thanhnien.vn/han-quoc-noi-phat-hien-ky-sinh-trung-trong-bong-bay-cho-rac-tu-trieu-tien-185240624193355404.htm) - 13:07 24/06/2024
 - 🌁 [Đồng Nai: Điều động 4.100 cán bộ, giáo viên coi thi tốt nghiệp THPT](https://thanhnien.vn/dong-nai-dieu-dong-4100-can-bo-giao-vien-coi-thi-tot-nghiep-thpt-185240624190036127.htm) - 13:01 24/06/2024
 - 🤡 [Xem nhanh 20h ngày 24.6: Nguyên nhân vụ cháy thảm khốc ở Đà Lạt | Cô hiến gan cứu cháu ruột](https://thanhnien.vn/xem-nhanh-20h-ngay-246-nguyen-nhan-vu-chay-tham-khoc-o-da-lat-co-hien-gan-cuu-chau-ruot-185240624180036327.htm) - 13:00 24/06/2024
@@ -158,7 +158,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐻 [Trận chiến sống còn với Croatia: Đội tuyển Ý, thay đổi hay là chết!](https://thanhnien.vn/tran-chien-song-con-voi-croatia-doi-tuyen-y-thay-doi-hay-la-chet-185240623225837697.htm) - 12:40 24/06/2024
 - 🤔 [Tại sao muốn kinh tế phát triển thì thuế suất phải tăng?](https://thanhnien.vn/tai-sao-muon-kinh-te-phat-trien-thi-thue-suat-phai-tang-185240624181330703.htm) - 12:31 24/06/2024
 - 📝 [Vấn đề và Giải pháp: Khả năng áp thuế chống bán phá giá xe điện](https://thanhnien.vn/van-de-va-giai-phap-kha-nang-ap-thue-chong-ban-pha-gia-xe-dien-185240623123935592.htm) - 12:30 24/06/2024
-- 🥰 [Nga &#39;&#39;có thể điều chỉnh&#39; khi thách thức, đe dọa gia tăng](https://thanhnien.vn/nga-co-the-dieu-chinh-khi-thach-thuc-de-doa-gia-tang-185240624152706424.htm) - 12:14 24/06/2024
+- 🥰 [Nga &#39;có thể điều chỉnh&#39; học thuyết hạt nhân khi thách thức, đe dọa gia tăng](https://thanhnien.vn/nga-co-the-dieu-chinh-khi-thach-thuc-de-doa-gia-tang-185240624152706424.htm) - 12:14 24/06/2024
 - 🐲 [Xài &#39;chiêu&#39; mang thai để trốn thi hành án tù và bán ma túy](https://thanhnien.vn/xai-chieu-mang-thai-de-tron-thi-hanh-an-tu-va-ban-ma-tuy-185240624162937186.htm) - 12:13 24/06/2024
 - 🎃 [Trả lại ví vô chủ có 2.000 euro, người vô gia cư được trao thưởng](https://thanhnien.vn/tra-lai-vi-vo-chu-co-2000-euro-nguoi-vo-gia-cu-duoc-trao-thuong-185240624151404654.htm) - 12:09 24/06/2024
 - 🎬 [An Giang: Đề nghị truy tố cặp đôi tàng trữ súng, ma túy](https://thanhnien.vn/an-giang-de-nghi-truy-to-cap-doi-tang-tru-sung-ma-tuy-185240624165211579.htm) - 12:08 24/06/2024
