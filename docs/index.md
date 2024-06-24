@@ -27,8 +27,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Biệt thự 342 m2 nổi bật với đá thô tự nhiên nguyên khối](https://vnexpress.net/biet-thu-342-m2-noi-bat-voi-da-tho-tu-nhien-nguyen-khoi-4762035.html) - 19:00 24/06/2024
-- 🧰 [Tây Ban Nha 0-0 Albania &lpar;H1&rpar;](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-albania-o-euro-2024-4762173.html) - 18:34 24/06/2024
-- 🥰 [Croatia 0-0 Italy &lpar;H1&rpar;: Donnarumma cứu thua](https://vnexpress.net/truc-tiep-tran-croatia-vs-italy-o-euro-2024-4762172.html) - 18:32 24/06/2024
+- 🧰 [Tây Ban Nha 1-0 Albania &lpar;H2&rpar;: Cố gắng vẫy vùng](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-albania-o-euro-2024-4762173.html) - 18:34 24/06/2024
+- 🥰 [Croatia 0-0 Italy &lpar;H2&rpar;: Hai đội điều chỉnh nhân sự](https://vnexpress.net/truc-tiep-tran-croatia-vs-italy-o-euro-2024-4762172.html) - 18:32 24/06/2024
 - 🌏 [2.000 trẻ em Việt bệnh đái tháo đường type 1](https://vnexpress.net/2-000-tre-em-viet-benh-dai-thao-duong-type-1-4762116.html) - 18:00 24/06/2024
 - 🧐 [Israel có thể phải đối đầu liên minh nhóm vũ trang ở Lebanon](https://vnexpress.net/israel-co-the-phai-doi-dau-lien-minh-nhom-vu-trang-o-lebanon-4761788.html) - 18:00 24/06/2024
 - 💫 [Golfer nữ số một thế giới liên tiếp sa sút phong độ](https://vnexpress.net/golfer-nu-so-mot-the-gioi-lien-tiep-sa-sut-phong-do-4762163.html) - 18:00 24/06/2024
