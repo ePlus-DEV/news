@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Ý Nhi diễn thời trang cùng nam vương quốc tế](https://vnexpress.net/y-nhi-dien-thoi-trang-cung-nam-vuong-quoc-te-4761799.html) - 03:31 24/06/2024
+- 🌏 [Ý Nhi diễn thời trang cùng nam vương thế giới](https://vnexpress.net/y-nhi-dien-thoi-trang-cung-nam-vuong-the-gioi-4761799.html) - 03:31 24/06/2024
 - 💫 [Phạm Băng Băng diện cổ trang bên dàn mỹ nhân Hollywood](https://vnexpress.net/pham-bang-bang-dien-co-trang-ben-dan-my-nhan-hollywood-4761795.html) - 02:58 24/06/2024
 - 🌮 [Hoa hậu Thế giới 2019 diện áo dài hát &#39;Hello Vietnam&#39;](https://vnexpress.net/hoa-hau-the-gioi-2019-dien-ao-dai-hat-hello-vietnam-4761746.html) - 01:47 24/06/2024
 - 🧠 [Thúy Hiền: &#39;Tôi không còn muốn gắn kết với ai&#39;](https://vnexpress.net/thuy-hien-toi-khong-con-muon-gan-ket-voi-ai-4761496.html) - 17:00 23/06/2024
