@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Israel bị tố hạ sát quan chức y tế cấp cao ở Gaza](https://vnexpress.net/israel-bi-to-ha-sat-quan-chuc-y-te-cap-cao-o-gaza-4762106.html) - 13:54 24/06/2024
-- 🕴 [Trung Quốc sẽ tăng mở cửa cho trái cây chất lượng cao Việt Nam](https://vnexpress.net/trung-quoc-se-tang-mo-cua-cho-trai-cay-chat-luong-cao-viet-nam-4762115.html) - 13:52 24/06/2024
+- 🕴 [Trung Quốc sẽ tăng mở cửa với trái cây chất lượng cao Việt Nam](https://vnexpress.net/trung-quoc-se-tang-mo-cua-voi-trai-cay-chat-luong-cao-viet-nam-4762115.html) - 13:52 24/06/2024
 - 🤭 [Ukraine nói không cần đặc cách để gia nhập EU](https://vnexpress.net/ukraine-noi-khong-can-dac-cach-de-gia-nhap-eu-4762099.html) - 12:42 24/06/2024
 - 🧑‍💻 [Nhà kho ở Odessa cháy ngùn ngụt vì đòn tập kích của Nga](https://vnexpress.net/nha-kho-o-odessa-chay-ngun-ngut-vi-don-tap-kich-cua-nga-4762083.html) - 12:03 24/06/2024
 - 🦏 [Con đường tử thần của những người hành hương chui tới thánh địa Mecca](https://vnexpress.net/con-duong-tu-than-cua-nhung-nguoi-hanh-huong-chui-toi-thanh-dia-mecca-4761750.html) - 12:00 24/06/2024
