@@ -4,8 +4,8 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Pháp 0-0 Ba Lan &lpar;hết H1&rpar;: Mbappe liên tiếp hỏng ăn](https://vnexpress.net/truc-tiep-tran-phap-ba-lan-o-euro-2024-4762604.html) - 15:34 25/06/2024
-- 🦩 [Hà Lan 1-1 Áo &lpar;H2&rpar;: Gakpo gỡ hòa](https://vnexpress.net/truc-tiep-tran-ha-lan-vs-ao-tai-euro-2024-4762580.html) - 15:00 25/06/2024
+- 🪜 [Pháp 1-0 Ba Lan &lpar;H2&rpar;: Mbappe ghi bàn từ 11m](https://vnexpress.net/truc-tiep-tran-phap-ba-lan-o-euro-2024-4762604.html) - 15:34 25/06/2024
+- 🦩 [Hà Lan 1-2 Áo &lpar;H2&rpar;: Thêm một bất ngờ](https://vnexpress.net/truc-tiep-tran-ha-lan-vs-ao-tai-euro-2024-4762580.html) - 15:00 25/06/2024
 - 🧰 [Văn Toàn hạnh phúc trong lần đầu nâng cup V-League](https://vnexpress.net/van-toan-hanh-phuc-trong-lan-dau-nang-cup-v-league-4762560.html) - 14:30 25/06/2024
 - 🤗 [Argentina - Chile: Vượt qua nỗi ám ảnh](https://vnexpress.net/argentina-chile-vuot-qua-noi-am-anh-4762561.html) - 13:00 25/06/2024
 - 🥳 [Đan Mạch - Serbia: Trận chiến sống còn](https://vnexpress.net/dan-mach-serbia-tran-chien-song-con-4762555.html) - 12:00 25/06/2024
