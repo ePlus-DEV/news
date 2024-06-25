@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Nhiều đại gia công nghệ thế giới muốn đầu tư vào Việt Nam](https://vnexpress.net/nhieu-dai-gia-cong-nghe-the-gioi-muon-dau-tu-vao-viet-nam-4762562.html) - 12:07 25/06/2024
 - 🐲 [Vietnam Airlines có thể được lùi hạn trả 4.000 tỷ đồng vay tái cấp vốn](https://vnexpress.net/vietnam-airlines-co-the-duoc-lui-han-tra-4-000-ty-dong-vay-tai-cap-von-4762545.html) - 11:53 25/06/2024
-- 🔥 [Việt Nam dự kiến làm đường sắt cao tốc Bắc Nam vào 2026-2027](https://vnexpress.net/viet-nam-du-kien-lam-duong-sat-cao-toc-bac-nam-vao-2026-2027-4762559.html) - 11:41 25/06/2024
+- 🔥 [Việt Nam dự kiến làm đường sắt tốc độ cao Bắc Nam vào 2026-2027](https://vnexpress.net/viet-nam-du-kien-lam-duong-sat-toc-do-cao-bac-nam-vao-2026-2027-4762559.html) - 11:41 25/06/2024
 - 🐵 [Novagroup tiếp tục bán hàng triệu cổ phiếu NVL](https://vnexpress.net/novagroup-tiep-tuc-ban-hang-trieu-co-phieu-nvl-4762534.html) - 10:03 25/06/2024
 - 🦅 [Trung Quốc phủ nhận xả hàng giá rẻ ra thế giới](https://vnexpress.net/trung-quoc-phu-nhan-xa-hang-gia-re-ra-the-gioi-4762445.html) - 09:54 25/06/2024
 - 😺 [Pacific Airlines bay trở lại](https://vnexpress.net/pacific-airlines-bay-tro-lai-4762479.html) - 09:12 25/06/2024
