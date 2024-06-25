@@ -26,8 +26,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Đan Mạch - Serbia](https://vnexpress.net/truc-tiep-tran-dan-mach-vs-serbia-tai-euro-2024-4762620.html) - 18:30 25/06/2024
-- 🧰 [Anh - Slovenia: Foden vẫn đá chính](https://vnexpress.net/truc-tiep-anh-slovenia-euro-2024-4762628.html) - 18:19 25/06/2024
+- 🚀 [Đan Mạch 0-0 Serbia &lpar;H1&rpar;: Eriksen thử tài Rajkovic](https://vnexpress.net/truc-tiep-tran-dan-mach-vs-serbia-tai-euro-2024-4762620.html) - 18:30 25/06/2024
+- 🧰 [Anh 0-0 Slovenia &lpar;H1&rpar;: Hủy bàn thắng](https://vnexpress.net/truc-tiep-anh-slovenia-euro-2024-4762628.html) - 18:19 25/06/2024
 - 🥰 [Tiểu nhiều có phải do thận yếu?](https://vnexpress.net/tieu-nhieu-co-phai-do-than-yeu-4761923.html) - 18:00 25/06/2024
 - 🌏 [Mẫu xe tăng Thụy Sĩ &#39;cứ bật sưởi là cướp cò&#39;](https://vnexpress.net/mau-xe-tang-thuy-si-cu-bat-suoi-la-cuop-co-4759749.html) - 18:00 25/06/2024
 - 🧐 [Kazu Miura gia nhập CLB mới ở tuổi 57](https://vnexpress.net/kazu-miura-gia-nhap-clb-moi-o-tuoi-57-4762621.html) - 18:00 25/06/2024
