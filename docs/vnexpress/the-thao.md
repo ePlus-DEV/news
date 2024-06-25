@@ -8,8 +8,8 @@ sidebar_position: 5
 - 🦩 [Hành trình vô địch VM Quy Nhơn của Edwin Kiptoo](https://vnexpress.net/hanh-trinh-vo-dich-vm-quy-nhon-cua-edwin-kiptoo-4762368.html) - 07:00 25/06/2024
 - 🧰 [Euro lại nghiệt ngã với Modric](https://vnexpress.net/euro-lai-nghiet-nga-voi-modric-4762349.html) - 07:00 25/06/2024
 - 🤗 [Xác định 8 đội vào vòng 1/8 Euro 2024](https://vnexpress.net/xac-dinh-8-doi-vao-vong-1-8-euro-2024-4762399.html) - 06:22 25/06/2024
-- 🥳 [Bản tin Euro: Anh, Pháp, Hà Lan chưa đá đã vào vòng 1/8](https://vnexpress.net/ban-tin-euro-anh-phap-ha-lan-chua-da-da-vao-vong-1-8-4762339.html) - 05:00 25/06/2024
-- 🦣 [Euro ngày 25/6: Người Đức thổi kèn tiễn Scotland về nước](https://vnexpress.net/truc-tiep-euro-2024-ngay-25-6-4762351.html) - 04:30 25/06/2024
+- 🥳 [Bản tin Euro: Chờ Mbappe &#39;thông nòng&#39;](https://vnexpress.net/ban-tin-euro-cho-mbappe-thong-nong-4762339.html) - 05:00 25/06/2024
+- 🦣 [Euro ngày 25/6: CĐV Albania xin điểm Tây Ban Nha](https://vnexpress.net/truc-tiep-euro-2024-ngay-25-6-4762351.html) - 04:30 25/06/2024
 - 🌜 [Chạy cùng chó cưng](https://vnexpress.net/chay-cung-cho-cung-4762367.html) - 04:26 25/06/2024
 - 🫶 [Chiến thuật giúp Verstappen thắng Norris tại Catalunya](https://vnexpress.net/chien-thuat-giup-verstappen-thang-norris-tai-catalunya-4762286.html) - 03:27 25/06/2024
 - 🌜 [Cách VnExpress Marathon Quy Nhơn khóa 100% đường đua](https://vnexpress.net/cach-vnexpress-marathon-quy-nhon-khoa-100-duong-dua-4762152.html) - 03:00 25/06/2024
