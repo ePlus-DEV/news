@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Pháp 0-0 Ba Lan &lpar;H1&rpar;: Mbappe đá chính](https://vnexpress.net/truc-tiep-tran-phap-ba-lan-o-euro-2024-4762604.html) - 15:34 25/06/2024
+- 🪜 [Pháp 0-0 Ba Lan &lpar;H1&rpar;: Cơ hội liên tiếp](https://vnexpress.net/truc-tiep-tran-phap-ba-lan-o-euro-2024-4762604.html) - 15:34 25/06/2024
 - 🦩 [Hà Lan 0-1 Áo &lpar;H1&rpar;: Malen phản lưới](https://vnexpress.net/truc-tiep-tran-ha-lan-vs-ao-tai-euro-2024-4762580.html) - 15:00 25/06/2024
 - 🧰 [Văn Toàn hạnh phúc trong lần đầu nâng cup V-League](https://vnexpress.net/van-toan-hanh-phuc-trong-lan-dau-nang-cup-v-league-4762560.html) - 14:30 25/06/2024
 - 🤗 [Argentina - Chile: Vượt qua nỗi ám ảnh](https://vnexpress.net/argentina-chile-vuot-qua-noi-am-anh-4762561.html) - 13:00 25/06/2024
