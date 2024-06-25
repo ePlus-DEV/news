@@ -211,7 +211,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Lao Động
 <!-- laodong:START -->
 - 🗽 [Vinh danh doanh nghiệp tiêu biểu, động lực chăm lo cho đời sống NLĐ](https://laodong.vn/video/vinh-danh-doanh-nghiep-tieu-bieu-dong-luc-cham-lo-cho-doi-song-nld-1357646.ldo) - 15:49 25/06/2024
-- 📝 [Trực tiếp bóng đá Hà Lan vs Áo, lượt trận 3 bảng D EURO 2024](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-ha-lan-vs-ao-luot-tran-3-bang-d-euro-2024-1357638.ldo) - 15:39 25/06/2024
+- 📝 [Trực tiếp bóng đá Hà Lan 0-1 Áo: Malen phản lưới nhà](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-ha-lan-0-1-ao-malen-phan-luoi-nha-1357638.ldo) - 15:39 25/06/2024
 - 🦏 [Phong trào thi đua chăm lo cho người lao động sẽ lan tỏa mạnh mẽ trong doanh nghiệp](https://laodong.vn/cong-doan/phong-trao-thi-dua-cham-lo-cho-nguoi-lao-dong-se-lan-toa-manh-me-trong-doanh-nghiep-1357645.ldo) - 15:18 25/06/2024
 - 🦩 [Chăm lo người lao động trở thành mệnh lệnh từ trái tim của nhiều chủ doanh nghiệp](https://laodong.vn/cong-doan/cham-lo-nguoi-lao-dong-tro-thanh-menh-lenh-tu-trai-tim-cua-nhieu-chu-doanh-nghiep-1357635.ldo) - 15:12 25/06/2024
 - 🦏 [TPHCM học kinh nghiệm của Trung Quốc để làm hơn 500km Metro](https://laodong.vn/xa-hoi/tphcm-hoc-kinh-nghiem-cua-trung-quoc-de-lam-hon-500km-metro-1357636.ldo) - 15:06 25/06/2024
