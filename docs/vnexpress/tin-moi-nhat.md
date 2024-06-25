@@ -7,7 +7,7 @@ sidebar_position: 9
 - 🎬 [Gần 360 ha cao su &#39;vắng chủ&#39;](https://vnexpress.net/gan-360-ha-cao-su-vang-chu-4762557.html) - 21:00 25/06/2024
 - 🐎 [Giải pháp nào cho việc tuyển công nhân ngày càng khó?](https://vnexpress.net/giai-phap-nao-cho-viec-tuyen-cong-nhan-ngay-cang-kho-4761696.html) - 21:00 25/06/2024
 - 🦍 [Máy tự động bắt bệnh ôtô siêu nhanh](https://vnexpress.net/may-tu-dong-bat-benh-oto-sieu-nhanh-4762344.html) - 20:00 25/06/2024
-- 🏊 [Đan Mạch vào vòng 1/8 Euro dù hòa Serbia](https://vnexpress.net/truc-tiep-tran-dan-mach-vs-serbia-tai-euro-2024-4762620.html) - 18:30 25/06/2024
+- 🏊 [Đan Mạch 0-0 Serbia &lpar;H2&rpar;: Bàn thắng bị từ chối](https://vnexpress.net/truc-tiep-tran-dan-mach-vs-serbia-tai-euro-2024-4762620.html) - 18:30 25/06/2024
 - 🎊 [Tuyển Anh dắt tay Slovenia đi tiếp](https://vnexpress.net/truc-tiep-anh-slovenia-euro-2024-4762628.html) - 18:19 25/06/2024
 - 🎃 [Tiểu nhiều có phải do thận yếu?](https://vnexpress.net/tieu-nhieu-co-phai-do-than-yeu-4761923.html) - 18:00 25/06/2024
 - 🧰 [Mẫu xe tăng Thụy Sĩ &#39;cứ bật sưởi là cướp cò&#39;](https://vnexpress.net/mau-xe-tang-thuy-si-cu-bat-suoi-la-cuop-co-4759749.html) - 18:00 25/06/2024
