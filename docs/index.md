@@ -144,16 +144,16 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Khởi công khu công nghiệp VSIP Hà Tĩnh, hứa hẹn tạo ra 30.000 việc làm](https://thanhnien.vn/khoi-cong-khu-cong-nghiep-vsip-ha-tinh-hua-hen-tao-ra-30000-viec-lam-185240625054233394.htm) - 06:15 25/06/2024
-- 🥸 [Phó giám đốc trung tâm y tế &#39;nhúng chàm&#39; đường dây cá độ bóng đá](https://thanhnien.vn/pho-giam-doc-trung-tam-y-te-nhung-cham-duong-day-ca-do-bong-da-18524062512330138.htm) - 06:13 25/06/2024
-- 🌁 [Kaito Kid tiếp tục đoán đề kỳ thi tốt nghiệp THPT 2024?](https://thanhnien.vn/kaito-kid-tiep-tuc-doan-de-ky-thi-tot-nghiep-thpt-2024-185240625111514619.htm) - 06:11 25/06/2024
-- 🤡 [Tranh giành địa bàn thu mua ốc điếu, 6 đối tượng bị bắt](https://thanhnien.vn/tranh-gianh-dia-ban-thu-mua-oc-dieu-6-doi-tuong-bi-bat-185240625103652297.htm) - 06:02 25/06/2024
-- 🎉 [Thế giới đã nghiên cứu khoa học về thuốc lá làm nóng như thế nào?](https://thanhnien.vn/the-gioi-da-nghien-cuu-khoa-hoc-ve-thuoc-la-lam-nong-nhu-the-nao-185240625095212179.htm) - 06:00 25/06/2024
-- 🎊 [Màu hồng đất - vẻ sang trọng, thời thượng của nữ tín đồ công sở](https://thanhnien.vn/thoi-trang-tre/mau-hong-dat-ve-sang-trong-thoi-thuong-cua-nu-tin-do-cong-so-185240625024137274.htm) - 06:00 25/06/2024
-- 🤠 [Đau xót thiếu niên 16 tuổi đuối nước, tử vong dưới hồ tưới tiêu của gia đình](https://thanhnien.vn/dau-xot-thieu-nien-16-tuoi-duoi-nuoc-tu-vong-duoi-ho-tuoi-tieu-cua-gia-dinh-185240625121531216.htm) - 05:52 25/06/2024
-- 💼 [Hy hữu: Người cha kể khoảnh khắc cứu 2 con thoát chết trong gang tấc](https://thanhnien.vn/hy-huu-nguoi-cha-ke-khoanh-khac-cuu-2-con-thoat-chet-trong-gang-tac-185240625083641378.htm) - 05:52 25/06/2024
-- 🐻 [Lâm Đồng: Bắt khẩn cấp nghi phạm đâm chết người ở Đạ Huoai](https://thanhnien.vn/lam-dong-bat-khan-cap-nghi-pham-dam-chet-nguoi-o-da-huoai-185240625114512546.htm) - 05:46 25/06/2024
-- 🤔 [Mr Crazy &amp; Lady Sexy gây sốt tại AVIFW  2024 với BST AURORA](https://thanhnien.vn/mr-crazy-lady-sexy-gay-sot-tai-avifw-2024-voi-bst-aurora-185240625105646803.htm) - 05:46 25/06/2024
+- 🤠 [Quán ăn ở TP.HCM được Michelin vinh danh: Những bí mật lần đầu tiết lộ sau 1 năm](https://thanhnien.vn/quan-an-o-tphcm-duoc-michelin-vinh-danh-nhung-bi-mat-lan-dau-tiet-lo-sau-1-nam-18524062509323906.htm) - 06:24 25/06/2024
+- 🥸 [Khởi công khu công nghiệp VSIP Hà Tĩnh, hứa hẹn tạo ra 30.000 việc làm](https://thanhnien.vn/khoi-cong-khu-cong-nghiep-vsip-ha-tinh-hua-hen-tao-ra-30000-viec-lam-185240625054233394.htm) - 06:15 25/06/2024
+- 🌁 [Phó giám đốc trung tâm y tế &#39;nhúng chàm&#39; đường dây cá độ bóng đá](https://thanhnien.vn/pho-giam-doc-trung-tam-y-te-nhung-cham-duong-day-ca-do-bong-da-18524062512330138.htm) - 06:13 25/06/2024
+- 🤡 [Kaito Kid tiếp tục đoán đề kỳ thi tốt nghiệp THPT 2024?](https://thanhnien.vn/kaito-kid-tiep-tuc-doan-de-ky-thi-tot-nghiep-thpt-2024-185240625111514619.htm) - 06:11 25/06/2024
+- 🎉 [Tranh giành địa bàn thu mua ốc điếu, 6 đối tượng bị bắt](https://thanhnien.vn/tranh-gianh-dia-ban-thu-mua-oc-dieu-6-doi-tuong-bi-bat-185240625103652297.htm) - 06:02 25/06/2024
+- 🎊 [Thế giới đã nghiên cứu khoa học về thuốc lá làm nóng như thế nào?](https://thanhnien.vn/the-gioi-da-nghien-cuu-khoa-hoc-ve-thuoc-la-lam-nong-nhu-the-nao-185240625095212179.htm) - 06:00 25/06/2024
+- 🤠 [Màu hồng đất - vẻ sang trọng, thời thượng của nữ tín đồ công sở](https://thanhnien.vn/thoi-trang-tre/mau-hong-dat-ve-sang-trong-thoi-thuong-cua-nu-tin-do-cong-so-185240625024137274.htm) - 06:00 25/06/2024
+- 💼 [Đau xót thiếu niên 16 tuổi đuối nước, tử vong dưới hồ tưới tiêu của gia đình](https://thanhnien.vn/dau-xot-thieu-nien-16-tuoi-duoi-nuoc-tu-vong-duoi-ho-tuoi-tieu-cua-gia-dinh-185240625121531216.htm) - 05:52 25/06/2024
+- 🐻 [Hy hữu: Người cha kể khoảnh khắc cứu 2 con thoát chết trong gang tấc](https://thanhnien.vn/hy-huu-nguoi-cha-ke-khoanh-khac-cuu-2-con-thoat-chet-trong-gang-tac-185240625083641378.htm) - 05:52 25/06/2024
+- 🤔 [Lâm Đồng: Bắt khẩn cấp nghi phạm đâm chết người ở Đạ Huoai](https://thanhnien.vn/lam-dong-bat-khan-cap-nghi-pham-dam-chet-nguoi-o-da-huoai-185240625114512546.htm) - 05:46 25/06/2024
 - 📝 [Kiến nghị đầu tư 2.400 tỉ đồng xây đường lên vùng sâm Ngọc Linh](https://thanhnien.vn/kien-nghi-dau-tu-2400-ti-dong-xay-duong-len-vung-sam-ngoc-linh-185240625111733794.htm) - 05:45 25/06/2024
 - 🥰 [Bắt 3 người trong một gia đình bán ma túy ở khu Mả Lạng](https://thanhnien.vn/bat-3-nguoi-trong-mot-gia-dinh-ban-ma-tuy-o-khu-ma-lang-18524062512120921.htm) - 05:41 25/06/2024
 - 🐲 [Kiến trúc sư chỉ cách thiết kế nhà ống thành phố để dễ thoát hiểm khi cháy](https://thanhnien.vn/kien-truc-su-chi-cach-thiet-ke-nha-ong-thanh-pho-de-de-thoat-hiem-khi-chay-185240625110730449.htm) - 05:39 25/06/2024
