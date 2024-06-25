@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Lịch thi tốt nghiệp và xét tuyển đại học cần nhớ](https://vnexpress.net/lich-thi-tot-nghiep-va-xet-tuyen-dai-hoc-can-nho-4748639.html) - 23:59 24/06/2024
+- 🤓 [Lịch thi tốt nghiệp và xét tuyển đại học 2024 cần nhớ](https://vnexpress.net/lich-thi-tot-nghiep-va-xet-tuyen-dai-hoc-2024-can-nho-4748639.html) - 23:59 24/06/2024
 - 🦆 [Học sinh lớp 7 đuối nước tại bể bơi của trường](https://vnexpress.net/hoc-sinh-lop-7-duoi-nuoc-tai-be-boi-cua-truong-4762157.html) - 23:41 24/06/2024
 - 🦩 [Vua nào có 4 con trai đều làm vua?](https://vnexpress.net/vua-nao-co-4-con-trai-deu-lam-vua-4762114.html) - 13:51 24/06/2024
 - 🌮 [Điểm chuẩn học bạ Đại học Bách khoa Đà Nẵng cao nhất gần 29](https://vnexpress.net/diem-chuan-hoc-ba-dai-hoc-bach-khoa-da-nang-cao-nhat-gan-29-4762064.html) - 12:11 24/06/2024
