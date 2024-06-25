@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Kẻ bắt cóc con gái của bạn thân bị xét xử](https://vnexpress.net/ke-bat-coc-con-gai-cua-ban-than-bi-xet-xu-4762160.html) - 23:00 24/06/2024
+- 😎 [Nhiều người liên quan vụ &#39;bắt cóc con của bạn thân&#39; không đến tòa](https://vnexpress.net/nhieu-nguoi-lien-quan-vu-bat-coc-con-cua-ban-than-khong-den-toa-4762160.html) - 23:00 24/06/2024
 - 🥰 [12 giờ thoát chết thần kỳ của người vợ bị chôn sống](https://vnexpress.net/12-gio-dau-tranh-sinh-tu-cua-nguoi-vo-bi-chong-chon-song-4762092.html) - 17:00 24/06/2024
 - 🎓 [5 nhà thầu cao tốc Đà Nẵng - Quảng Ngãi kháng cáo việc phải bồi thường](https://vnexpress.net/5-nha-thau-cao-toc-da-nang-quang-ngai-khang-cao-viec-phai-boi-thuong-4761975.html) - 17:00 24/06/2024
 - 🤓 [Nữ thư ký nhận là &#39;người tình bí mật&#39;, đòi chia thừa kế của triệu phú](https://vnexpress.net/nu-thu-ky-nhan-la-nguoi-tinh-bi-mat-doi-chia-thua-ke-cua-trieu-phu-4762129.html) - 16:07 24/06/2024
