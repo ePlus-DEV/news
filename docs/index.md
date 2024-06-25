@@ -214,7 +214,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- laodong:START -->
 - 🗽 [Link xem trực tiếp bóng đá Chile vs Argentina tại Copa America 2024](https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-chile-vs-argentina-tai-copa-america-2024-1357669.ldo) - 16:26 25/06/2024
 - 📝 [Vinh danh doanh nghiệp tiêu biểu, động lực chăm lo cho đời sống NLĐ](https://laodong.vn/video/vinh-danh-doanh-nghiep-tieu-bieu-dong-luc-cham-lo-cho-doi-song-nld-1357646.ldo) - 15:49 25/06/2024
-- 🦏 [Trực tiếp bóng đá Hà Lan 2-3 Áo: Sabitzer ghi bàn thứ ba cho tuyển Áo](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-ha-lan-2-3-ao-sabitzer-ghi-ban-thu-ba-cho-tuyen-ao-1357638.ldo) - 15:39 25/06/2024
+- 🦏 [Trực tiếp bóng đá Hà Lan 2-3 Áo: 6 phút bù giờ](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-ha-lan-2-3-ao-6-phut-bu-gio-1357638.ldo) - 15:39 25/06/2024
 - 🦩 [Phong trào thi đua chăm lo cho người lao động sẽ lan tỏa mạnh mẽ trong doanh nghiệp](https://laodong.vn/cong-doan/phong-trao-thi-dua-cham-lo-cho-nguoi-lao-dong-se-lan-toa-manh-me-trong-doanh-nghiep-1357645.ldo) - 15:18 25/06/2024
 - 🦏 [Chăm lo người lao động trở thành mệnh lệnh từ trái tim của nhiều chủ doanh nghiệp](https://laodong.vn/cong-doan/cham-lo-nguoi-lao-dong-tro-thanh-menh-lenh-tu-trai-tim-cua-nhieu-chu-doanh-nghiep-1357635.ldo) - 15:12 25/06/2024
 - 🧰 [TPHCM học kinh nghiệm của Trung Quốc để làm hơn 500km Metro](https://laodong.vn/xa-hoi/tphcm-hoc-kinh-nghiem-cua-trung-quoc-de-lam-hon-500km-metro-1357636.ldo) - 15:06 25/06/2024
