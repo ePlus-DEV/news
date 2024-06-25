@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Đan Mạch - Serbia](https://vnexpress.net/truc-tiep-tran-dan-mach-vs-serbia-tai-euro-2024-4762620.html) - 18:30 25/06/2024
+- 🪜 [Đan Mạch - Serbia: Vlahovic dự bị](https://vnexpress.net/truc-tiep-tran-dan-mach-vs-serbia-tai-euro-2024-4762620.html) - 18:30 25/06/2024
 - 🦩 [Anh - Slovenia: Foden vẫn đá chính](https://vnexpress.net/truc-tiep-anh-slovenia-euro-2024-4762628.html) - 18:19 25/06/2024
 - 🧰 [Kazu Miura gia nhập CLB mới ở tuổi 57](https://vnexpress.net/kazu-miura-gia-nhap-clb-moi-o-tuoi-57-4762621.html) - 18:00 25/06/2024
 - 🤗 [Top 5 đôi giày chạy siêu đệm](https://vnexpress.net/top-5-doi-giay-chay-sieu-dem-4762605.html) - 18:00 25/06/2024
