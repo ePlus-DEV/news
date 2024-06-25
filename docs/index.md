@@ -214,7 +214,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp bóng đá Anh 0-0 Slovenia: Kobbie Mainoo vào sân](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-anh-0-0-slovenia-kobbie-mainoo-vao-san-1357658.ldo) - 18:00 25/06/2024
+- 🗽 [Trực tiếp bóng đá Anh 0-0 Slovenia: 2 đội mới có 4 lần dứt điểm trong hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-anh-0-0-slovenia-2-doi-moi-co-4-lan-dut-diem-trong-hiep-2-1357658.ldo) - 18:00 25/06/2024
 - 📝 [Link xem trực tiếp bóng đá Chile vs Argentina tại Copa America 2024](https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-chile-vs-argentina-tai-copa-america-2024-1357669.ldo) - 16:26 25/06/2024
 - 🦏 [Vinh danh doanh nghiệp tiêu biểu, động lực chăm lo cho đời sống NLĐ](https://laodong.vn/video/vinh-danh-doanh-nghiep-tieu-bieu-dong-luc-cham-lo-cho-doi-song-nld-1357646.ldo) - 15:49 25/06/2024
 - 🦩 [Tuyển Hà Lan thua sốc trước Áo, rơi xuống thứ 3 bảng D EURO 2024](https://laodong.vn/bong-da-quoc-te/tuyen-ha-lan-thua-soc-truoc-ao-roi-xuong-thu-3-bang-d-euro-2024-1357638.ldo) - 15:39 25/06/2024
