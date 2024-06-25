@@ -15,7 +15,7 @@ sidebar_position: 1
 - 🧑‍🏫 [Hai hài cốt liệt sĩ trong rừng keo tràm](https://vnexpress.net/hai-hai-cot-liet-si-trong-rung-keo-tram-4762090.html) - 13:42 24/06/2024
 - 🚦 [Hai anh em đuối nước khi cứu nhau](https://vnexpress.net/hai-anh-em-duoi-nuoc-khi-cuu-nhau-4762094.html) - 11:48 24/06/2024
 - 🎉 [Hà Nội dự kiến lắp trụ nước chữa cháy ở hàng nghìn ngõ nhỏ](https://vnexpress.net/ha-noi-du-kien-lap-tru-nuoc-chua-chay-o-hang-nghin-ngo-nho-4761922.html) - 10:56 24/06/2024
-- 🦒 [Đứt cáp vận thang ở Hà Nội, 3 người tử vong](https://vnexpress.net/dut-cap-van-thang-o-ha-noi-3-nguoi-tu-vong-4762052.html) - 10:03 24/06/2024
+- 🦒 [Đứt cáp thang tời ở Hà Nội, 3 người tử vong](https://vnexpress.net/dut-cap-thang-toi-o-ha-noi-3-nguoi-tu-vong-4762052.html) - 10:03 24/06/2024
 - 🤗 [Xe đầu kéo lao xuống sông Bồ](https://vnexpress.net/xe-dau-keo-lao-xuong-song-bo-4762012.html) - 09:11 24/06/2024
 - 💼 [Tính toán rút gọn quy trình để kịp chi lương hưu mới đầu tháng 7](https://vnexpress.net/tinh-toan-rut-gon-quy-trinh-de-kip-chi-luong-huu-moi-dau-thang-7-4761981.html) - 08:15 24/06/2024
 - 🤩 [Di dời hàng trăm hộ dân khỏi chung cư nguy cơ đổ sập](https://vnexpress.net/di-doi-hang-tram-ho-dan-khoi-chung-cu-nguy-co-do-sap-4761905.html) - 07:14 24/06/2024
