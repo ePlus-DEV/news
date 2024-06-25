@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Cưỡng bức bé gái 15 tuổi ở cánh đồng](https://vnexpress.net/cuong-buc-be-gai-15-tuoi-o-canh-dong-4762300.html) - 04:34 25/06/2024
-- 🥰 [Doanh nhân 2 lần bị bắt oan được bồi thường 2,7 tỷ đồng](https://vnexpress.net/doanh-nhan-2-lan-bi-bat-oan-duoc-boi-thuong-2-7-ty-dong-4762175.html) - 04:32 25/06/2024
+- 🥰 [Doanh nhân 2 lần bị bắt oan được bồi thường gần 3 tỷ đồng](https://vnexpress.net/doanh-nhan-2-lan-bi-bat-oan-duoc-boi-thuong-gan-3-ty-dong-4762175.html) - 04:32 25/06/2024
 - 🎓 [Cô gái tử vong trong phòng trọ](https://vnexpress.net/co-gai-tu-vong-trong-phong-tro-4762296.html) - 04:31 25/06/2024
 - 🤓 [Vu cáo bị bạn trai cưỡng hiếp để dễ chia tay](https://vnexpress.net/vu-cao-ban-trai-cuong-hiep-vi-doi-chia-tay-bat-thanh-4762326.html) - 04:28 25/06/2024
 - 🎊 [Công an điều tra vụ người mẫu ảnh Châu Bùi bị quay lén khi thay đồ](https://vnexpress.net/cong-an-dieu-tra-vu-nguoi-mau-anh-chau-bui-bi-quay-len-khi-thay-do-4762299.html) - 03:29 25/06/2024
