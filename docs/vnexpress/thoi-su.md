@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Nam sinh bị phóng điện tử vong](https://vnexpress.net/nam-sinh-bi-phong-dien-tu-vong-4762558.html) - 11:50 25/06/2024
+- 🦒 [Nam sinh bị điện phóng tử vong](https://vnexpress.net/nam-sinh-bi-dien-phong-tu-vong-4762558.html) - 11:50 25/06/2024
 - 🤓 [Ông Đinh Tiến Dũng thôi làm đại biểu Quốc hội](https://vnexpress.net/ong-dinh-tien-dung-thoi-lam-dai-bieu-quoc-hoi-4762247.html) - 09:46 25/06/2024
 - ⚗️ [Cầu Phú Mỹ &#39;tê liệt&#39; hơn 3 giờ sau tai nạn liên hoàn](https://vnexpress.net/cau-phu-my-te-liet-hon-3-gio-sau-tai-nan-lien-hoan-4762517.html) - 09:43 25/06/2024
 - 🌊 [Bí thư Thái Nguyên được bầu làm Ủy viên Ủy ban Thường vụ Quốc hội](https://vnexpress.net/bi-thu-thai-nguyen-duoc-bau-lam-uy-vien-uy-ban-thuong-vu-quoc-hoi-4762236.html) - 09:18 25/06/2024
