@@ -264,7 +264,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌈 [Euro 2024: Thắng ở phút bù giờ, Thổ Nhĩ Kỳ vào vòng 1/8](https://nld.com.vn/euro-2024-thang-o-phut-bu-gio-tho-nhi-ky-vao-vong-1-8-196240627050829299.htm) - 21:35 26/06/2024
 - 🔥 [Rất nguy hiểm nếu cho phép bán thuốc online](https://nld.com.vn/rat-nguy-hiem-neu-cho-phep-ban-thuoc-online-196240626205743084.htm) - 21:32 26/06/2024
 - 🧰 [Thêm động lực thu hút đầu tư vào Vân Phong](https://nld.com.vn/them-dong-luc-thu-hut-dau-tu-vao-van-phong-196240626210016139.htm) - 21:31 26/06/2024
-- 🤗 [Bồ Đào Nha thua thảm, &quot;tí hon&quot; Georgia lần đầu vào vòng knock-out Euro](https://nld.com.vn/bo-dao-nha-thua-tham-ti-hon-georgia-lan-dau-vao-vong-knock-out-euro-196240627041206976.htm) - 21:12 26/06/2024
+- 🤗 [Euro 2024: Georgia thắng sốc Bồ Đào Nha, Anh và Hà Lan hưởng lợi](https://nld.com.vn/bo-dao-nha-thua-tham-ti-hon-georgia-lan-dau-vao-vong-knock-out-euro-196240627041206976.htm) - 21:12 26/06/2024
 - 🦅 [KỲ THI TỐT NGHIỆP THPT 2024: Bảo đảm kỳ thi thuận lợi, an toàn](https://nld.com.vn/ky-thi-tot-nghiep-thpt-2024-bao-dam-ky-thi-thuan-loi-an-toan-1962406262205447.htm) - 21:08 26/06/2024
 - 🤩 [Nợ thuế quá 90 ngày sẽ bị hoãn xuất cảnh](https://nld.com.vn/no-thue-qua-90-ngay-se-bi-hoan-xuat-canh-196240626201530031.htm) - 20:00 26/06/2024
 - 🎭 [Tối ưu công tác xác minh tài sản](https://nld.com.vn/toi-uu-cong-tac-xac-minh-tai-san-196240626220217879.htm) - 19:07 26/06/2024
