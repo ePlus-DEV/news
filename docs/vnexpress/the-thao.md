@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Ukraine - Bỉ](https://vnexpress.net/truc-tiep-tran-ukraine-vs-bi-tai-euro-2024-4763116.html) - 15:29 26/06/2024
+- 🪜 [Ukraine 0-0 Bỉ &lpar;H1&rpar;: Lukaku bỏ lỡ](https://vnexpress.net/truc-tiep-tran-ukraine-vs-bi-tai-euro-2024-4763116.html) - 15:29 26/06/2024
 - 🦩 [CH Czech - Thổ Nhĩ Kỳ: Cạnh tranh tấm vé cuối cùng](https://vnexpress.net/ch-czech-tho-nhi-ky-canh-tranh-tam-ve-cuoi-cung-4763056.html) - 12:00 26/06/2024
 - 🧰 [Gruzia - Bồ Đào Nha: Chờ Ronaldo thông nòng](https://vnexpress.net/gruzia-bo-dao-nha-cho-ronaldo-thong-nong-4763050.html) - 12:00 26/06/2024
 - 🤗 [Lukaku sợ mừng bàn thắng vì VAR](https://vnexpress.net/lukaku-so-mung-ban-thang-vi-var-4763060.html) - 10:36 26/06/2024
