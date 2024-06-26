@@ -28,7 +28,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- vnexpress:START -->
 - 🚀 [Đa số người Mỹ muốn theo dõi cuộc tranh luận Biden - Trump](https://vnexpress.net/da-so-nguoi-my-muon-theo-doi-cuoc-tranh-luan-biden-trump-4763090.html) - 15:53 26/06/2024
 - 🧰 [IMF: Tăng trưởng Việt Nam năm nay dự kiến gần 6%](https://vnexpress.net/imf-tang-truong-kinh-te-viet-nam-nam-nay-du-kien-gan-6-4763049.html) - 15:39 26/06/2024
-- 🥰 [Ukraine 0-0 Bỉ &lpar;H1&rpar;: Mudryk không được đăng ký](https://vnexpress.net/truc-tiep-tran-ukraine-vs-bi-tai-euro-2024-4763116.html) - 15:29 26/06/2024
+- 🥰 [Ukraine 0-0 Bỉ &lpar;H1&rpar;: Lukaku bỏ lỡ](https://vnexpress.net/truc-tiep-tran-ukraine-vs-bi-tai-euro-2024-4763116.html) - 15:29 26/06/2024
 - 🌏 [Gạc y tế hóa u sau 14 năm bị bỏ quên trong thận](https://vnexpress.net/gac-y-te-hoa-u-sau-14-nam-bi-bo-quen-trong-than-4763100.html) - 15:18 26/06/2024
 - 🧐 [Tiền vệ 23 tuổi mặc sành điệu nhất tuyển Bỉ](https://vnexpress.net/tien-ve-23-tuoi-mac-sanh-dieu-nhat-tuyen-bi-4761203.html) - 14:38 26/06/2024
 - 💫 [Cách tính điểm xét tốt nghiệp THPT 2024](https://vnexpress.net/cach-tinh-diem-xet-cong-nhan-tot-nghiep-thpt-2024-4763099.html) - 14:32 26/06/2024
