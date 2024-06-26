@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [&#39;Mùa xuân vắng lặng - Mùa thu chết chóc&#39; - ám ảnh chiến tranh](https://vnexpress.net/mua-xuan-vang-lang-mua-thu-chet-choc-am-anh-chien-tranh-4760695.html) - 22:00 26/06/2024
-- 💫 [Việt Trinh: &#39;Con trai phản ứng khi tôi thường ôm ấp&#39;](https://vnexpress.net/viet-trinh-con-trai-phan-ung-khi-toi-thuong-om-ap-4762884.html) - 17:00 26/06/2024
+- 💫 [Việt Trinh: &#39;Con trai không muốn tôi ôm ấp&#39;](https://vnexpress.net/viet-trinh-con-trai-khong-muon-toi-om-ap-4762884.html) - 17:00 26/06/2024
 - 🌮 [Tiền vệ 23 tuổi mặc sành điệu nhất tuyển Bỉ](https://vnexpress.net/tien-ve-23-tuoi-mac-sanh-dieu-nhat-tuyen-bi-4761203.html) - 14:38 26/06/2024
 - 🧠 [Show thời trang xa xỉ ở Paris nhận &#39;mưa&#39; lời khen](https://vnexpress.net/show-thoi-trang-xa-xi-o-paris-nhan-mua-loi-khen-4762833.html) - 14:00 26/06/2024
 - 👨‍🏫 [Trang phục xuống phố của &#39;ngọc nữ&#39; Nhật Bản](https://vnexpress.net/trang-phuc-xuong-pho-cua-ngoc-nu-nhat-ban-4762999.html) - 12:00 26/06/2024
