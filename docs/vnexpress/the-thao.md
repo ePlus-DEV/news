@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Slovakia và Romania dắt tay nhau vào vòng 1/8 Euro](https://vnexpress.net/slovakia-va-romania-dat-tay-nhau-vao-vong-1-8-euro-4763134.html) - 18:35 26/06/2024
-- 🦩 [Gruzia 1-0 Bồ Đào Nha &lpar;H2&rpar;: Ronaldo &#39;nguy cơ nhận thẻ đỏ&#39;](https://vnexpress.net/truc-tiep-tran-gruzia-vs-bo-dao-nha-tai-vong-bang-euro-2024-4763132.html) - 18:00 26/06/2024
+- 🦩 [Gruzia 2-0 Bồ Đào Nha &lpar;H2&rpar;: Mikautadze ghi bàn](https://vnexpress.net/truc-tiep-tran-gruzia-vs-bo-dao-nha-tai-vong-bang-euro-2024-4763132.html) - 18:00 26/06/2024
 - 🧰 [Capello: &#39;Italy đá chậm vì Serie A&#39;](https://vnexpress.net/capello-italy-da-cham-vi-serie-a-4763124.html) - 17:00 26/06/2024
 - 🤗 [Messi phải nén đau đá với Chile](https://vnexpress.net/messi-phai-nen-dau-da-voi-chile-4763122.html) - 17:00 26/06/2024
 - 🥳 [Foden rời tuyển Anh để lo việc gia đình](https://vnexpress.net/foden-roi-tuyen-anh-de-lo-viec-gia-dinh-4763119.html) - 17:00 26/06/2024
