@@ -150,8 +150,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Thi tốt nghiệp THPT 2024: Đề thi, bài thi được bảo quản ra sao ?](https://thanhnien.vn/thi-tot-nghiep-thpt-2024-de-thi-bai-thi-duoc-bao-quan-ra-sao-185240626230211733.htm) - 22:40 26/06/2024
-- 🥸 [Ăn mừng đội tuyển Ý ‘vượt ải khó’, HLV Spalletti tổ chức làm lành với phóng viên](https://thanhnien.vn/an-mung-doi-tuyen-y-vuot-ai-kho-hlv-spalletti-to-chuc-lam-lanh-voi-phong-vien-185240627051456939.htm) - 22:38 26/06/2024
+- 🤠 [Dữ liệu mống mắt, ADN và giọng nói được thu thập như thế nào?](https://thanhnien.vn/du-lieu-mong-mat-adn-va-giong-noi-duoc-thu-thap-nhu-the-nao-185240626170203861.htm) - 22:42 26/06/2024
+- 🥸 [Thi tốt nghiệp THPT 2024: Đề thi, bài thi được bảo quản ra sao ?](https://thanhnien.vn/thi-tot-nghiep-thpt-2024-de-thi-bai-thi-duoc-bao-quan-ra-sao-185240626230211733.htm) - 22:40 26/06/2024
 - 🌁 [Tính toán mới của Mỹ tại Ukraine](https://thanhnien.vn/tinh-toan-moi-cua-my-tai-ukraine-1852406262255203.htm) - 22:27 26/06/2024
 - 🤡 [Bộ trưởng Quốc phòng Nga-Mỹ điện đàm giữa hầm hập căng thẳng](https://thanhnien.vn/bo-truong-quoc-phong-nga-my-dien-dam-giua-ham-hap-cang-thang-185240626114729823.htm) - 22:21 26/06/2024
 - 🎉 [Kaito Kid &#39;đoán đề&#39;, thí sinh trắng đêm giải mã: &#39;Việt Bắc&#39;, &#39;Đất nước&#39; được &#39;gọi tên&#39;?](https://thanhnien.vn/kaito-kid-doan-de-thi-sinh-trang-dem-giai-ma-viet-bac-dat-nuoc-duoc-goi-ten-185240626195309266.htm) - 22:16 26/06/2024
