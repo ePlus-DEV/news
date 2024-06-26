@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Ông Erdogan cáo buộc phương Tây ủng hộ Israel mở rộng xung đột](https://vnexpress.net/ong-erdogan-cao-buoc-phuong-tay-ung-ho-israel-mo-rong-xung-dot-4763073.html) - 12:20 26/06/2024
+- 🎭 [Ông Erdogan cáo buộc phương Tây ủng hộ Israel tấn công Lebanon](https://vnexpress.net/ong-erdogan-cao-buoc-phuong-tay-ung-ho-israel-tan-cong-lebanon-4763073.html) - 12:20 26/06/2024
 - 🕴 [Sự ủng hộ của Australia dành cho ông chủ WikiLeaks](https://vnexpress.net/su-ung-ho-cua-australia-danh-cho-ong-chu-wikileaks-4762684.html) - 12:03 26/06/2024
 - 🤭 [Nga chỉ trích lệnh bắt của ICC với hai lãnh đạo quân sự](https://vnexpress.net/nga-chi-trich-lenh-bat-cua-icc-voi-hai-lanh-dao-quan-su-4763062.html) - 11:26 26/06/2024
 - 🧑‍💻 [Cảnh sát Mỹ dùng camera công theo dõi vợ ngoại tình với đồng nghiệp](https://vnexpress.net/canh-sat-my-dung-camera-cong-theo-doi-vo-ngoai-tinh-voi-dong-nghiep-4762967.html) - 11:04 26/06/2024
