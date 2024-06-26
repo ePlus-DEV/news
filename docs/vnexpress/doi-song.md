@@ -5,7 +5,7 @@ sidebar_position: 6
 
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Gen Z chấp nhận lười biếng](https://vnexpress.net/gen-z-chap-nhan-luoi-bieng-4762878.html) - 06:32 26/06/2024
-- 🎓 [Cô gái cao 2m26 lên mạng tìm chồng](https://vnexpress.net/co-gai-cao-2m26-len-mang-tim-chong-4762446.html) - 01:30 26/06/2024
+- 🎓 [Cô gái cao 2,26 m lên mạng tìm chồng](https://vnexpress.net/co-gai-cao-2-26-m-len-mang-tim-chong-4762446.html) - 01:30 26/06/2024
 - 🚦 [Người nước ngoài ngạc nhiên với cách xem Euro ở Việt Nam](https://vnexpress.net/nguoi-nuoc-ngoai-ngac-nhien-voi-cach-xem-euro-o-viet-nam-4762422.html) - 23:00 25/06/2024
 - 🦣 [Tiêu dùng tiết kiệm lên ngôi với người trẻ](https://vnexpress.net/tieu-dung-tiet-kiem-len-ngoi-voi-nguoi-tre-4760251.html) - 12:00 25/06/2024
 - 🎓 [Đổi vị với trứng rán bắp cải](https://vnexpress.net/doi-vi-voi-trung-ran-bap-cai-4762448.html) - 11:00 25/06/2024
