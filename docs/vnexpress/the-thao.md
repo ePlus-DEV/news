@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Xác định 11 đội vào vòng 1/8 Euro 2024](https://vnexpress.net/xac-dinh-11-doi-vao-vong-1-8-euro-2024-4762841.html) - 04:42 26/06/2024
-- 🦩 [Euro ngày 26/6: Chờ Ronaldo ghi bàn đầu tiên](https://vnexpress.net/euro-2024-ngay-26-6-4762843.html) - 04:38 26/06/2024
+- 🦩 [Euro ngày 26/6: Mbappe bị chấm điểm dưới trung bình](https://vnexpress.net/euro-2024-ngay-26-6-4762843.html) - 04:38 26/06/2024
 - 🧰 [Djokovic tuyên bố tranh vô địch Wimbledon](https://vnexpress.net/djokovic-tuyen-bo-tranh-vo-dich-wimbledon-4762778.html) - 04:02 26/06/2024
 - 🤗 [Tuyển Đức bị chê nhiều điểm yếu, dễ tổn thương](https://vnexpress.net/tuyen-duc-bi-che-nhieu-diem-yeu-de-ton-thuong-4762809.html) - 04:01 26/06/2024
 - 🥳 [Bản tin Euro: Xuất hiện nhánh đấu Tử thần](https://vnexpress.net/ban-tin-euro-xuat-hien-nhanh-dau-tu-than-4762768.html) - 03:00 26/06/2024
