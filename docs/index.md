@@ -212,7 +212,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp bóng đá Georgia 1-0 Bồ Đào Nha: Hết hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-georgia-1-0-bo-dao-nha-het-hiep-1-1358139.ldo) - 18:00 26/06/2024
+- 🗽 [Trực tiếp bóng đá Georgia 2-0 Bồ Đào Nha: Mikautadze ghi bàn từ chấm 11m](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-georgia-2-0-bo-dao-nha-mikautadze-ghi-ban-tu-cham-11m-1358139.ldo) - 18:00 26/06/2024
 - 📝 [Chiều sâu đội hình làm nên vị thế ứng viên vô địch cho Tây Ban Nha](https://laodong.vn/bong-da-quoc-te/chieu-sau-doi-hinh-lam-nen-vi-the-ung-vien-vo-dich-cho-tay-ban-nha-1357260.ldo) - 16:00 26/06/2024
 - 🦏 [Bố của tiền đạo Son Heung-min bị tố bạo hành học viên trẻ tại Học viện bóng đá](https://laodong.vn/bong-da-quoc-te/bo-cua-tien-dao-son-heung-min-bi-to-bao-hanh-hoc-vien-tre-tai-hoc-vien-bong-da-1358077.ldo) - 15:50 26/06/2024
 - 🦩 [Hỗ trợ sửa chữa, xây mới 5 Mái ấm Công đoàn cho đoàn viên khó khăn về nhà ở](https://laodong.vn/ldld-soc-trang/ho-tro-sua-chua-xay-moi-5-mai-am-cong-doan-cho-doan-vien-kho-khan-ve-nha-o-1358119.ldo) - 15:39 26/06/2024
