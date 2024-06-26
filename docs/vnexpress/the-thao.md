@@ -16,7 +16,7 @@ sidebar_position: 5
 - 😺 [Runner tử vong vì ngã khỏi máy chạy bộ](https://vnexpress.net/runner-tu-vong-vi-nga-khoi-may-chay-bo-4762892.html) - 06:52 26/06/2024
 - 👍 [Đan Mạch xếp trên Slovenia nhờ thẻ vàng bị lãng quên](https://vnexpress.net/dan-mach-xep-tren-slovenia-nho-the-vang-bi-lang-quen-4762887.html) - 06:33 26/06/2024
 - 🐵 [Xác định 11 đội vào vòng 1/8 Euro 2024](https://vnexpress.net/xac-dinh-11-doi-vao-vong-1-8-euro-2024-4762841.html) - 04:42 26/06/2024
-- 💫 [Euro ngày 26/6: Bellingham bị chấm điểm 3](https://vnexpress.net/euro-2024-ngay-26-6-4762843.html) - 04:38 26/06/2024
+- 💫 [Euro ngày 26/6: Foden chuyền về thủ môn nhiều hơn cho Kane](https://vnexpress.net/euro-2024-ngay-26-6-4762843.html) - 04:38 26/06/2024
 - 🦆 [Djokovic tuyên bố tranh vô địch Wimbledon](https://vnexpress.net/djokovic-tuyen-bo-tranh-vo-dich-wimbledon-4762778.html) - 04:02 26/06/2024
 - 🙉 [Tuyển Đức bị chê dễ tổn thương](https://vnexpress.net/tuyen-duc-bi-che-de-ton-thuong-4762809.html) - 04:01 26/06/2024
 - 📝 [Bản tin Euro: Xuất hiện nhánh đấu Tử thần](https://vnexpress.net/ban-tin-euro-xuat-hien-nhanh-dau-tu-than-4762768.html) - 03:00 26/06/2024
