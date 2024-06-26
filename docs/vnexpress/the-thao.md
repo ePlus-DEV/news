@@ -9,7 +9,7 @@ sidebar_position: 5
 - 🧰 [Các cựu cầu thủ đồng loạt công kích tuyển Anh](https://vnexpress.net/cac-cuu-cau-thu-dong-loat-cong-kich-tuyen-anh-4762706.html) - 02:13 26/06/2024
 - 🤗 [Van Dijk bị chê thiếu khát khao khi Hà Lan thua Áo](https://vnexpress.net/van-dijk-bi-che-thieu-khat-khao-khi-ha-lan-thua-ao-4762691.html) - 01:37 26/06/2024
 - 🥳 [VnExpress Marathon Danang Midnight đóng đăng ký 42km hôm nay](https://vnexpress.net/vnexpress-marathon-danang-midnight-dong-dang-ky-42km-hom-nay-4762489.html) - 01:00 26/06/2024
-- 🦣 [Argentina vào tứ kết Copa America sớm một lượt](https://vnexpress.net/truc-tiep-tran-argentina-vs-chile-tai-copa-america-2024-4762663.html) - 00:56 26/06/2024
+- 🦣 [Argentina vào tứ kết Copa America sớm một lượt](https://vnexpress.net/truc-tiep-tran-argentina-vs-chile-tai-copa-america-2024-4762663-tong-thuat.html) - 00:56 26/06/2024
 - 🌜 [CĐV Anh ném đồ vật, mạt sát HLV Southgate](https://vnexpress.net/cdv-anh-nem-do-vat-mat-sat-hlv-southgate-4762642.html) - 00:01 26/06/2024
 - 🫶 [Điều kiện nào để HAGL không phải đá play-off trụ hạng V-League?](https://vnexpress.net/dieu-kien-nao-de-hagl-khong-phai-da-play-off-tru-hang-v-league-4762626.html) - 22:48 25/06/2024
 - 🌜 [Ronaldo đá chính lượt cuối vòng bảng Euro 2024](https://vnexpress.net/ronaldo-da-chinh-luot-cuoi-vong-bang-euro-2024-4762640.html) - 22:46 25/06/2024
