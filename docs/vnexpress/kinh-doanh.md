@@ -9,7 +9,7 @@ sidebar_position: 3
 - 🔥 [DNSE tăng cường bảo mật với hệ thống MDR của eSentire](https://vnexpress.net/dnse-tang-cuong-bao-mat-voi-he-thong-mdr-cua-esentire-4762914.html) - 07:45 26/06/2024
 - 🐵 [Giới bán khống kiếm 5 tỷ USD nhờ Nvidia](https://vnexpress.net/gioi-ban-khong-kiem-5-ty-usd-nho-nvidia-4762782.html) - 05:28 26/06/2024
 - 🦅 [Thủ tướng: Việt Nam không thiếu điện](https://vnexpress.net/thu-tuong-viet-nam-khong-thieu-dien-4762860.html) - 04:59 26/06/2024
-- 😺 [Mỗi cửa hàng Bách Hóa Xanh thu 2 tỷ đồng một ngày](https://vnexpress.net/moi-cua-hang-bach-hoa-xanh-thu-2-ty-dong-mot-ngay-4762759.html) - 04:06 26/06/2024
+- 😺 [Mỗi cửa hàng Bách Hóa Xanh thu 2 tỷ đồng một tháng](https://vnexpress.net/moi-cua-hang-bach-hoa-xanh-thu-2-ty-dong-mot-thang-4762759.html) - 04:06 26/06/2024
 - 🤩 [16 nhà kinh tế học cảnh báo hậu quả nếu Trump tái đắc cử](https://vnexpress.net/16-nha-kinh-te-hoc-canh-bao-hau-qua-neu-trump-tai-dac-cu-4762657.html) - 02:59 26/06/2024
 - 🌮 [Điện mặt trời mái nhà dư thừa có thể bù trừ cho EVN](https://vnexpress.net/dien-mat-troi-mai-nha-du-thua-co-the-bu-tru-cho-evn-4762625.html) - 00:08 26/06/2024
 - 🧰 [Singapore đắt đỏ nhất thế giới với người giàu](https://vnexpress.net/singapore-dat-do-nhat-the-gioi-voi-nguoi-giau-4762589.html) - 23:00 25/06/2024
