@@ -6,7 +6,7 @@ sidebar_position: 9
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Bên trong hầm xuyên núi hơn 1.000 tỷ đồng qua Hà Tĩnh](https://vnexpress.net/ben-trong-ham-xuyen-nui-hon-1-000-ty-dong-qua-ha-tinh-4762934.html) - 19:00 26/06/2024
 - 🐎 [Slovakia và Romania dắt tay nhau vào vòng 1/8 Euro](https://vnexpress.net/slovakia-va-romania-dat-tay-nhau-vao-vong-1-8-euro-4763134.html) - 18:35 26/06/2024
-- 🦍 [Gruzia 1-0 Bồ Đào Nha &lpar;H1&rpar;: Kvaratskhelia mở tỷ số](https://vnexpress.net/truc-tiep-tran-gruzia-vs-bo-dao-nha-tai-vong-bang-euro-2024-4763132.html) - 18:00 26/06/2024
+- 🦍 [Gruzia 1-0 Bồ Đào Nha &lpar;H1&rpar;: Ronaldo sút phạt 130 km/h](https://vnexpress.net/truc-tiep-tran-gruzia-vs-bo-dao-nha-tai-vong-bang-euro-2024-4763132.html) - 18:00 26/06/2024
 - 🏊 [Mắc bệnh lậu sau tình một đêm](https://vnexpress.net/mac-benh-lau-sau-tinh-mot-dem-4763065.html) - 18:00 26/06/2024
 - 🎊 [Tủ gạo miễn phí ở bệnh viện Sài Gòn](https://vnexpress.net/tu-gao-mien-phi-o-benh-vien-sai-gon-4763093.html) - 17:34 26/06/2024
 - 🎃 [6 &#39;liều thuốc&#39; xả stress được người dân các nước ưa chuộng](https://vnexpress.net/6-lieu-thuoc-xa-stress-duoc-nguoi-dan-cac-nuoc-ua-chuong-4762932.html) - 17:02 26/06/2024
