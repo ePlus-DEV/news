@@ -287,7 +287,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🔭 [Bồi dưỡng kiến thức về xây dựng Đảng cho nhà báo](https://nld.com.vn/boi-duong-kien-thuc-ve-xay-dung-dang-cho-nha-bao-196240626092738365.htm) - 03:43 26/06/2024
 - 👍 [Cháy biệt thự lúc rạng sáng, 2 vợ chồng chủ nhà tử vong](https://nld.com.vn/chay-biet-thu-luc-rang-sang-2-vo-chong-chu-nha-tu-vong-196240626102230381.htm) - 03:32 26/06/2024
 - ⛽️ [Hành trình pháp lý 12 năm của người sáng lập WikiLeaks đến hồi kết](https://nld.com.vn/hanh-trinh-phap-ly-12-nam-cua-nguoi-sang-lap-wikileaks-den-hoi-ket-196240626094607335.htm) - 03:29 26/06/2024
-- 🥸 [Kiến trúc hạng sang mở cơ hội vàng cho khách thuê Vincom Center Đồng Khởi](https://thitruong.nld.com.vn/kien-truc-hang-sang-mo-co-hoi-vang-cho-khach-thue-vincom-center-dong-khoi-196240626095228043.htm) - 03:28 26/06/2024
+- 🥸 [Kiến trúc hạng sang mở cơ hội vàng cho khách thuê Vincom Center Đồng Khởi](https://nld.com.vn/kien-truc-hang-sang-mo-co-hoi-vang-cho-khach-thue-vincom-center-dong-khoi-196240626095228043.htm) - 03:28 26/06/2024
 - 🌁 [Copa America: Martinez toả sáng, Messi và đồng đội giành vé đầu tiên vào tứ kết](https://nld.com.vn/copa-america-martinez-toa-sang-messi-va-dong-doi-gianh-ve-dau-tien-vao-tu-ket-196240626101831205.htm) - 03:25 26/06/2024
 - 🌮 [Bộ Công an xác minh đối tượng đăng thông tin &quot;lộ đề thi tốt nghiệp THPT&quot;](https://nld.com.vn/bo-cong-an-xac-minh-doi-tuong-dang-thong-tin-lo-de-thi-tot-nghiep-thpt-196240626101639013.htm) - 03:23 26/06/2024
 - 🎉 [Con gái cố ca sĩ Phi Nhung tiết lộ cuộc sống hiện tại](https://nld.com.vn/con-gai-co-ca-si-phi-nhung-tiet-lo-cuoc-song-hien-tai-196240626084539054.htm) - 03:22 26/06/2024
@@ -296,7 +296,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🙉 [Đà Nẵng: Phát hiện xe khách chạy quá tốc độ 551 lần/tháng](https://nld.com.vn/da-nang-phat-hien-xe-khach-chay-qua-toc-do-551-lan-thang-19624062609345319.htm) - 03:12 26/06/2024
 - 🐵 [Nghệ An được có tối đa 5 phó chủ tịch tỉnh](https://nld.com.vn/nghe-an-duoc-co-toi-da-5-pho-chu-tich-tinh-196240626094509105.htm) - 03:02 26/06/2024
 - 🙉 [Những vướng mắc cần tháo gỡ khi thực hiện cải cách tiền lương](https://nld.com.vn/nhung-vuong-mac-can-thao-go-khi-thuc-hien-cai-cach-tien-luong-196240626093020594.htm) - 03:00 26/06/2024
-- 💪 [Davipharm trong thị trường nhân sự và nền kinh tế nhiều biến động](https://thitruong.nld.com.vn/davipharm-trong-thi-truong-nhan-su-va-nen-kinh-te-nhieu-bien-dong-196240626090034501.htm) - 03:00 26/06/2024
+- 💪 [Davipharm trong thị trường nhân sự và nền kinh tế nhiều biến động](https://nld.com.vn/davipharm-trong-thi-truong-nhan-su-va-nen-kinh-te-nhieu-bien-dong-196240626090034501.htm) - 03:00 26/06/2024
 - ⛽️ [Phó chủ nhiệm Tổng cục chính trị làm Bí thư Tỉnh ủy Bắc Giang](https://nld.com.vn/pho-chu-nhiem-tong-cuc-chinh-tri-lam-bi-thu-tinh-uy-bac-giang-196240626092744573.htm) - 02:57 26/06/2024
 - 👺 [Tăng cường phối hợp thực hiện tốt công tác kiều bào](https://nld.com.vn/tang-cuong-phoi-hop-thuc-hien-tot-cong-tac-kieu-bao-196240626092230808.htm) - 02:52 26/06/2024
 - 🧠 [Loạt dự án cầu vượt, hầm chui giúp Bình Dương giải quyết ùn tắc](https://nld.com.vn/loat-du-an-cau-vuot-ham-chui-giup-binh-duong-giai-quyet-un-tac-196240626093315805.htm) - 02:47 26/06/2024
@@ -306,7 +306,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌝 [Những khoản tiền lương, trợ cấp nào sẽ tăng theo lương tối thiểu vùng?](https://nld.com.vn/nhung-khoan-tien-luong-tro-cap-nao-se-tang-theo-luong-toi-thieu-vung-196240626091652817.htm) - 02:16 26/06/2024
 - 👍 [&quot;Tự hào cờ Tổ quốc&quot; – Chương trình đong đầy ý nghĩa](https://nld.com.vn/tu-hao-co-to-quoc-chuong-trinh-dong-day-y-nghia-196240619084947229.htm) - 02:13 26/06/2024
 - 💂 [Trường ĐH Nam Cần Thơ trở thành nơi đào tạo nghề y được công nhận trên thế giới](https://nld.com.vn/truong-dh-nam-can-tho-tro-thanh-noi-dao-tao-nghe-y-duoc-cong-nhan-tren-the-gioi-196240626084834295.htm) - 02:12 26/06/2024
-- 🤖 [Lazada là đối tác chính của UEFA EURO 2024™ tại Đông Nam Á](https://phunu.nld.com.vn/lazada-la-doi-tac-chinh-cua-uefa-euro-2024-tai-dong-nam-a-196240625113715811.htm) - 02:08 26/06/2024<!-- nld:END -->
+- 🤖 [Lazada là đối tác chính của UEFA EURO 2024™ tại Đông Nam Á](https://nld.com.vn/lazada-la-doi-tac-chinh-cua-uefa-euro-2024-tai-dong-nam-a-196240625113715811.htm) - 02:08 26/06/2024<!-- nld:END -->
 
 ## Báo SGGP
 <!-- sggp:START -->
