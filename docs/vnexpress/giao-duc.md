@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Một triệu thí sinh bước vào kỳ thi tốt nghiệp THPT 2024](https://vnexpress.net/mot-trieu-thi-sinh-buoc-vao-ky-thi-tot-nghiep-thpt-2024-4762647.html) - 06:46 26/06/2024
+- 🤓 [Hơn một triệu thí sinh bước vào kỳ thi tốt nghiệp THPT 2024](https://vnexpress.net/hon-mot-trieu-thi-sinh-buoc-vao-ky-thi-tot-nghiep-thpt-2024-4762647.html) - 06:46 26/06/2024
 - 🦆 [Trường ĐH Hoa Sen trao học bổng cho toàn sinh viên Ngôn ngữ Trung](https://vnexpress.net/truong-dh-hoa-sen-trao-hoc-bong-cho-toan-sinh-vien-ngon-ngu-trung-4762417.html) - 04:00 26/06/2024
 - 🦩 [Đại học Việt - Đức lấy điểm chuẩn cao nhất 8/10](https://vnexpress.net/diem-chuan-hoc-ba-dai-hoc-viet-duc-2024-4762566.html) - 03:25 26/06/2024
 - 🌮 [Điểm chuẩn đánh giá năng lực ĐH Sư phạm Hà Nội cao nhất 26,3](https://vnexpress.net/diem-chuan-danh-gia-nang-luc-dh-su-pham-ha-noi-cao-nhat-26-3-4762751.html) - 03:01 26/06/2024
