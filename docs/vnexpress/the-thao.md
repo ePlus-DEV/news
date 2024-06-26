@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Capello: &#39;Italy đá chậm vì Serie A&#39;](https://vnexpress.net/capello-italy-da-cham-vi-serie-a-4763124.html) - 17:00 26/06/2024
 - 🦩 [Messi phải nén đau đá với Chile](https://vnexpress.net/messi-phai-nen-dau-da-voi-chile-4763122.html) - 17:00 26/06/2024
 - 🧰 [Foden rời tuyển Anh để lo việc gia đình](https://vnexpress.net/foden-roi-tuyen-anh-de-lo-viec-gia-dinh-4763119.html) - 17:00 26/06/2024
-- 🤗 [Ukraine 0-0 Bỉ &lpar;H2&rpar;: Đôi công hấp dẫn](https://vnexpress.net/truc-tiep-tran-ukraine-vs-bi-tai-euro-2024-4763116.html) - 15:29 26/06/2024
+- 🤗 [Ukraine 0-0 Bỉ &lpar;H2&rpar;: Lukaku dứt điểm](https://vnexpress.net/truc-tiep-tran-ukraine-vs-bi-tai-euro-2024-4763116.html) - 15:29 26/06/2024
 - 🥳 [CH Czech - Thổ Nhĩ Kỳ: Cạnh tranh tấm vé cuối cùng](https://vnexpress.net/ch-czech-tho-nhi-ky-canh-tranh-tam-ve-cuoi-cung-4763056.html) - 12:00 26/06/2024
 - 🦣 [Gruzia - Bồ Đào Nha: Chờ Ronaldo thông nòng](https://vnexpress.net/gruzia-bo-dao-nha-cho-ronaldo-thong-nong-4763050.html) - 12:00 26/06/2024
 - 🌜 [Lukaku sợ mừng bàn thắng vì VAR](https://vnexpress.net/lukaku-so-mung-ban-thang-vi-var-4763060.html) - 10:36 26/06/2024
