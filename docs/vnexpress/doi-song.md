@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Hai người nhảy xuống suối cứu bé gái bị lũ cuốn](https://vnexpress.net/hai-nguoi-nhay-xuong-suoi-cuu-be-gai-bi-lu-cuon-4763560.html) - 17:00 27/06/2024
+- 🚀 [Hai người lao xuống suối cứu bé gái bị lũ cuốn](https://vnexpress.net/hai-nguoi-lao-xuong-suoi-cuu-be-gai-bi-lu-cuon-4763560.html) - 17:00 27/06/2024
 - 🎓 [Gia đình 6 thế hệ, 185 thành viên chung sống](https://vnexpress.net/gia-dinh-6-the-he-185-thanh-vien-chung-song-4763342.html) - 06:03 27/06/2024
 - 🚦 [Lợi ích của việc để trẻ buồn chán](https://vnexpress.net/loi-ich-cua-viec-de-tre-buon-chan-4763053.html) - 03:53 27/06/2024
 - 🦣 [Vợ chồng già chăm sóc nhau bằng vaccine](https://vnexpress.net/vo-chong-gia-cham-soc-nhau-bang-vaccine-4763197.html) - 03:00 27/06/2024
