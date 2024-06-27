@@ -204,46 +204,46 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Chủ nhà hàng trên hồ Ô Thum ở An Giang thừa nhận xây dựng không phép](https://laodong.vn/ban-doc/chu-nha-hang-tren-ho-o-thum-o-an-giang-thua-nhan-xay-dung-khong-phep-1358217.ldo) - 11:33 27/06/2024
-- 📝 [Arsenal và bài toán nan giải về &quot;người gác đền&quot;](https://laodong.vn/bong-da-quoc-te/arsenal-va-bai-toan-nan-giai-ve-nguoi-gac-den-1358501.ldo) - 11:31 27/06/2024
+- 🗽 [Giám đốc Công an chỉ đạo xử lý vụ bé 11 tuổi bị mẹ ruột và người tình bạo hành](https://laodong.vn/phap-luat/giam-doc-cong-an-chi-dao-xu-ly-vu-be-11-tuoi-bi-me-ruot-va-nguoi-tinh-bao-hanh-1358543.ldo) - 11:46 27/06/2024
+- 📝 [5 công đoàn cấp trên cơ sở ở Bà Rịa - Vũng Tàu ký quy chế phối hợp hoạt động](https://laodong.vn/ldld-ba-ria-vung-tau/5-cong-doan-cap-tren-co-so-o-ba-ria-vung-tau-ky-quy-che-phoi-hop-hoat-dong-1358521.ldo) - 11:38 27/06/2024
+- 🦏 [Chủ nhà hàng trên hồ Ô Thum ở An Giang thừa nhận xây dựng không phép](https://laodong.vn/ban-doc/chu-nha-hang-tren-ho-o-thum-o-an-giang-thua-nhan-xay-dung-khong-phep-1358217.ldo) - 11:33 27/06/2024
+- 🦩 [Arsenal và bài toán nan giải về &quot;người gác đền&quot;](https://laodong.vn/bong-da-quoc-te/arsenal-va-bai-toan-nan-giai-ve-nguoi-gac-den-1358501.ldo) - 11:31 27/06/2024
 - 🦏 [Đáp án môn Toán mã đề 122 kỳ thi tốt nghiệp THPT năm 2024](https://laodong.vn/giao-duc/dap-an-mon-toan-ma-de-122-ky-thi-tot-nghiep-thpt-nam-2024-1358137.ldo) - 11:28 27/06/2024
-- 🦩 [Đáp án môn Toán mã đề 118 kỳ thi tốt nghiệp THPT năm 2024](https://laodong.vn/giao-duc/dap-an-mon-toan-ma-de-118-ky-thi-tot-nghiep-thpt-nam-2024-1358130.ldo) - 11:25 27/06/2024
-- 🦏 [Đoàn Tiểu ban Văn kiện Đại hội XIV làm việc với Ban cán sự đảng Bộ Tài nguyên và Môi trường](https://laodong.vn/thoi-su/doan-tieu-ban-van-kien-dai-hoi-xiv-lam-viec-voi-ban-can-su-dang-bo-tai-nguyen-va-moi-truong-1358484.ldo) - 11:24 27/06/2024
-- 🧰 [Đáp án môn Toán mã đề 124 kỳ thi tốt nghiệp THPT năm 2024](https://laodong.vn/giao-duc/dap-an-mon-toan-ma-de-124-ky-thi-tot-nghiep-thpt-nam-2024-1358140.ldo) - 11:22 27/06/2024
-- 🌊 [Ngày đầu thi tốt nghiệp THPT 2024 tại Hà Nội diễn ra an toàn và nghiêm túc](https://laodong.vn/giao-duc/ngay-dau-thi-tot-nghiep-thpt-2024-tai-ha-noi-dien-ra-an-toan-va-nghiem-tuc-1358428.ldo) - 11:20 27/06/2024
-- 🔥 [Công đoàn vận động kinh phí để xây mới và sửa chữa 81 nhà tình nghĩa](https://laodong.vn/ldld-quang-tri/cong-doan-van-dong-kinh-phi-de-xay-moi-va-sua-chua-81-nha-tinh-nghia-1358526.ldo) - 11:20 27/06/2024
-- 🦒 [Đề thi, đáp án môn Toán kỳ thi tốt nghiệp THPT mã đề 106](https://laodong.vn/giao-duc/de-thi-dap-an-mon-toan-ky-thi-tot-nghiep-thpt-ma-de-106-1358532.ldo) - 11:17 27/06/2024
-- 💼 [Đáp án môn Toán mã đề 120 kỳ thi tốt nghiệp THPT năm 2024](https://laodong.vn/giao-duc/dap-an-mon-toan-ma-de-120-ky-thi-tot-nghiep-thpt-nam-2024-1358132.ldo) - 11:16 27/06/2024
-- 🤖 [Đáp án môn Toán mã đề 116 kỳ thi tốt nghiệp THPT năm 2024](https://laodong.vn/giao-duc/dap-an-mon-toan-ma-de-116-ky-thi-tot-nghiep-thpt-nam-2024-1358229.ldo) - 11:14 27/06/2024
-- 💪 [Phát động thi đua phát triển đoàn viên, thành lập công đoàn cơ sở ở Thái Bình](https://laodong.vn/cong-doan/phat-dong-thi-dua-phat-trien-doan-vien-thanh-lap-cong-doan-co-so-o-thai-binh-1358412.ldo) - 11:13 27/06/2024
-- 👍 [Dự báo thời gian nắng nóng gay gắt diện rộng bao trùm Bắc Bộ và Trung Bộ](https://laodong.vn/video-xa-hoi/du-bao-thoi-gian-nang-nong-gay-gat-dien-rong-bao-trum-bac-bo-va-trung-bo-1358400.ldo) - 11:10 27/06/2024
-- 💂 [Đề thi, đáp án môn Toán tốt nghiệp THPT mã đề 102](https://laodong.vn/giao-duc/de-thi-dap-an-mon-toan-tot-nghiep-thpt-ma-de-102-1358519.ldo) - 11:04 27/06/2024
-- 🧰 [Đáp án môn Toán mã đề 115 kỳ thi tốt nghiệp THPT năm 2024](https://laodong.vn/giao-duc/dap-an-mon-toan-ma-de-115-ky-thi-tot-nghiep-thpt-nam-2024-1358227.ldo) - 11:01 27/06/2024
-- 🥷 [“Sứ mệnh cao cả - Hồi ức mười năm” của Nguyên Thứ trưởng Bộ Công an Viễn Chi](https://laodong.vn/sach-hay/su-menh-cao-ca-hoi-uc-muoi-nam-cua-nguyen-thu-truong-bo-cong-an-vien-chi-1358422.ldo) - 11:00 27/06/2024
-- 💫 [5 mẹo ăn kiêng để giảm cân và tăng cơ](https://laodong.vn/ban-tin/5-meo-an-kieng-de-giam-can-va-tang-co-1357356.ldo) - 11:00 27/06/2024
-- 🎭 [Đề thi, đáp án môn Toán tốt nghiệp THPT mã đề 107](https://laodong.vn/giao-duc/de-thi-dap-an-mon-toan-tot-nghiep-thpt-ma-de-107-1358503.ldo) - 10:57 27/06/2024
-- 😎 [Những công trình phòng chống lũ tại vùng cao Quảng Ninh](https://laodong.vn/xa-hoi/nhung-cong-trinh-phong-chong-lu-tai-vung-cao-quang-ninh-1358514.ldo) - 10:56 27/06/2024
-- 💄 [Đáp án môn Toán kỳ thi tốt nghiệp THPT năm 2024, mã đề 110](https://laodong.vn/giao-duc/dap-an-mon-toan-ky-thi-tot-nghiep-thpt-nam-2024-ma-de-110-1358218.ldo) - 10:55 27/06/2024
-- 🫣 [Dự báo thời tiết ngày mai 28.6 trên cả nước](https://laodong.vn/moi-truong/du-bao-thoi-tiet-ngay-mai-286-tren-ca-nuoc-1358464.ldo) - 10:54 27/06/2024
-- 🧑‍🏫 [Phát hiện cơ sở kinh doanh trữ hơn 7,3 tấn hàng không rõ nguồn gốc](https://laodong.vn/xa-hoi/phat-hien-co-so-kinh-doanh-tru-hon-73-tan-hang-khong-ro-nguon-goc-1358506.ldo) - 10:54 27/06/2024
-- 🦣 [Lào Cai chia 2 đối tượng trật tự thôn hưởng hỗ trợ hàng tháng](https://laodong.vn/ban-doc/lao-cai-chia-2-doi-tuong-trat-tu-thon-huong-ho-tro-hang-thang-1358363.ldo) - 10:51 27/06/2024
+- 🧰 [Đáp án môn Toán mã đề 118 kỳ thi tốt nghiệp THPT năm 2024](https://laodong.vn/giao-duc/dap-an-mon-toan-ma-de-118-ky-thi-tot-nghiep-thpt-nam-2024-1358130.ldo) - 11:25 27/06/2024
+- 🌊 [Đoàn Tiểu ban Văn kiện Đại hội XIV làm việc với Ban cán sự đảng Bộ Tài nguyên và Môi trường](https://laodong.vn/thoi-su/doan-tieu-ban-van-kien-dai-hoi-xiv-lam-viec-voi-ban-can-su-dang-bo-tai-nguyen-va-moi-truong-1358484.ldo) - 11:24 27/06/2024
+- 🔥 [Đáp án môn Toán mã đề 124 kỳ thi tốt nghiệp THPT năm 2024](https://laodong.vn/giao-duc/dap-an-mon-toan-ma-de-124-ky-thi-tot-nghiep-thpt-nam-2024-1358140.ldo) - 11:22 27/06/2024
+- 🦒 [Ngày đầu thi tốt nghiệp THPT 2024 tại Hà Nội diễn ra an toàn và nghiêm túc](https://laodong.vn/giao-duc/ngay-dau-thi-tot-nghiep-thpt-2024-tai-ha-noi-dien-ra-an-toan-va-nghiem-tuc-1358428.ldo) - 11:20 27/06/2024
+- 💼 [Công đoàn vận động kinh phí để xây mới và sửa chữa 81 nhà tình nghĩa](https://laodong.vn/ldld-quang-tri/cong-doan-van-dong-kinh-phi-de-xay-moi-va-sua-chua-81-nha-tinh-nghia-1358526.ldo) - 11:20 27/06/2024
+- 🤖 [Đề thi, đáp án môn Toán kỳ thi tốt nghiệp THPT mã đề 106](https://laodong.vn/giao-duc/de-thi-dap-an-mon-toan-ky-thi-tot-nghiep-thpt-ma-de-106-1358532.ldo) - 11:17 27/06/2024
+- 💪 [Đáp án môn Toán mã đề 120 kỳ thi tốt nghiệp THPT năm 2024](https://laodong.vn/giao-duc/dap-an-mon-toan-ma-de-120-ky-thi-tot-nghiep-thpt-nam-2024-1358132.ldo) - 11:16 27/06/2024
+- 👍 [Đáp án môn Toán mã đề 116 kỳ thi tốt nghiệp THPT năm 2024](https://laodong.vn/giao-duc/dap-an-mon-toan-ma-de-116-ky-thi-tot-nghiep-thpt-nam-2024-1358229.ldo) - 11:14 27/06/2024
+- 💂 [Phát động thi đua phát triển đoàn viên, thành lập công đoàn cơ sở ở Thái Bình](https://laodong.vn/cong-doan/phat-dong-thi-dua-phat-trien-doan-vien-thanh-lap-cong-doan-co-so-o-thai-binh-1358412.ldo) - 11:13 27/06/2024
+- 🧰 [Dự báo thời gian nắng nóng gay gắt diện rộng bao trùm Bắc Bộ và Trung Bộ](https://laodong.vn/video-xa-hoi/du-bao-thoi-gian-nang-nong-gay-gat-dien-rong-bao-trum-bac-bo-va-trung-bo-1358400.ldo) - 11:10 27/06/2024
+- 🥷 [Đề thi, đáp án môn Toán tốt nghiệp THPT mã đề 102](https://laodong.vn/giao-duc/de-thi-dap-an-mon-toan-tot-nghiep-thpt-ma-de-102-1358519.ldo) - 11:04 27/06/2024
+- 💫 [Đáp án môn Toán mã đề 115 kỳ thi tốt nghiệp THPT năm 2024](https://laodong.vn/giao-duc/dap-an-mon-toan-ma-de-115-ky-thi-tot-nghiep-thpt-nam-2024-1358227.ldo) - 11:01 27/06/2024
+- 🎭 [5 mẹo ăn kiêng để giảm cân và tăng cơ](https://laodong.vn/ban-tin/5-meo-an-kieng-de-giam-can-va-tang-co-1357356.ldo) - 11:00 27/06/2024
+- 😎 [“Sứ mệnh cao cả - Hồi ức mười năm” của Nguyên Thứ trưởng Bộ Công an Viễn Chi](https://laodong.vn/sach-hay/su-menh-cao-ca-hoi-uc-muoi-nam-cua-nguyen-thu-truong-bo-cong-an-vien-chi-1358422.ldo) - 11:00 27/06/2024
+- 💄 [Đề thi, đáp án môn Toán tốt nghiệp THPT mã đề 107](https://laodong.vn/giao-duc/de-thi-dap-an-mon-toan-tot-nghiep-thpt-ma-de-107-1358503.ldo) - 10:57 27/06/2024
+- 🫣 [Những công trình phòng chống lũ tại vùng cao Quảng Ninh](https://laodong.vn/xa-hoi/nhung-cong-trinh-phong-chong-lu-tai-vung-cao-quang-ninh-1358514.ldo) - 10:56 27/06/2024
+- 🧑‍🏫 [Đáp án môn Toán kỳ thi tốt nghiệp THPT năm 2024, mã đề 110](https://laodong.vn/giao-duc/dap-an-mon-toan-ky-thi-tot-nghiep-thpt-nam-2024-ma-de-110-1358218.ldo) - 10:55 27/06/2024
+- 🦣 [Dự báo thời tiết ngày mai 28.6 trên cả nước](https://laodong.vn/moi-truong/du-bao-thoi-tiet-ngay-mai-286-tren-ca-nuoc-1358464.ldo) - 10:54 27/06/2024
+- 💫 [Phát hiện cơ sở kinh doanh trữ hơn 7,3 tấn hàng không rõ nguồn gốc](https://laodong.vn/xa-hoi/phat-hien-co-so-kinh-doanh-tru-hon-73-tan-hang-khong-ro-nguon-goc-1358506.ldo) - 10:54 27/06/2024
+- ⛽️ [Lào Cai chia 2 đối tượng trật tự thôn hưởng hỗ trợ hàng tháng](https://laodong.vn/ban-doc/lao-cai-chia-2-doi-tuong-trat-tu-thon-huong-ho-tro-hang-thang-1358363.ldo) - 10:51 27/06/2024
 - 💫 [Đề thi, đáp án môn Toán mã đề 101 kỳ thi tốt nghiệp THPT năm 2024](https://laodong.vn/giao-duc/de-thi-dap-an-mon-toan-ma-de-101-ky-thi-tot-nghiep-thpt-nam-2024-1358507.ldo) - 10:51 27/06/2024
-- ⛽️ [Thanh tra chỉ rõ trách nhiệm của Bộ Giáo dục và Đào tạo trong vụ khiếu kiện đất đai tại Thái Nguyên](https://laodong.vn/thoi-su/thanh-tra-chi-ro-trach-nhiem-cua-bo-giao-duc-va-dao-tao-trong-vu-khieu-kien-dat-dai-tai-thai-nguyen-1358376.ldo) - 10:46 27/06/2024
-- 💫 [Lý do xe buýt điện ngày càng thu hút khách hàng sử dụng](https://laodong.vn/video/ly-do-xe-buyt-dien-ngay-cang-thu-hut-khach-hang-su-dung-1357892.ldo) - 10:40 27/06/2024
-- 🥸 [Đáp án môn Toán kỳ thi tốt nghiệp THPT năm 2024, mã đề 111](https://laodong.vn/giao-duc/dap-an-mon-toan-ky-thi-tot-nghiep-thpt-nam-2024-ma-de-111-1358220.ldo) - 10:38 27/06/2024
-- 🐻 [Đề thi môn Toán tốt nghiệp THPT 2024 nhiều câu khó lạ, phân hoá cao](https://laodong.vn/video-xa-hoi/de-thi-mon-toan-tot-nghiep-thpt-2024-nhieu-cau-kho-la-phan-hoa-cao-1358485.ldo) - 10:36 27/06/2024
-- 🪄 [Xét xử nhóm đối tượng sử dụng ma túy làm một người tử vong tại Quảng Ninh](https://laodong.vn/phap-luat/xet-xu-nhom-doi-tuong-su-dung-ma-tuy-lam-mot-nguoi-tu-vong-tai-quang-ninh-1358489.ldo) - 10:35 27/06/2024
-- 🧑‍🏫 [Công đoàn Các khu công nghiệp Cần Thơ phát triển mới hơn 3.000 đoàn viên](https://laodong.vn/ldld-can-tho/cong-doan-cac-khu-cong-nghiep-can-tho-phat-trien-moi-hon-3000-doan-vien-1358478.ldo) - 10:28 27/06/2024
-- 🌊 [Gợi ý đáp án đề thi môn Toán tốt nghiệp THPT 2024](https://laodong.vn/video/goi-y-dap-an-de-thi-mon-toan-tot-nghiep-thpt-2024-1358447.ldo) - 10:27 27/06/2024
-- 💻 [Đội hình tiêu biểu vòng bảng EURO 2024](https://laodong.vn/bong-da-quoc-te/doi-hinh-tieu-bieu-vong-bang-euro-2024-1358415.ldo) - 10:25 27/06/2024
-- 👨‍🏫 [Nếu phẫu thuật thẩm mỹ, thay đổi nhận dạng thì phải làm sao để chuyển tiền?](https://laodong.vn/kinh-doanh/neu-phau-thuat-tham-my-thay-doi-nhan-dang-thi-phai-lam-sao-de-chuyen-tien-1358477.ldo) - 10:25 27/06/2024
-- 🌈 [Đáp án môn Toán mã đề 117 kỳ thi tốt nghiệp THPT năm 2024](https://laodong.vn/giao-duc/dap-an-mon-toan-ma-de-117-ky-thi-tot-nghiep-thpt-nam-2024-1358126.ldo) - 10:24 27/06/2024
-- 🐲 [Cập nhật lãi suất Agribank, BIDV, Vietcombank, VietinBank ngày 27.6.2024](https://laodong.vn/ban-tin/cap-nhat-lai-suat-agribank-bidv-vietcombank-vietinbank-ngay-2762024-1358487.ldo) - 10:24 27/06/2024
-- 🚀 [Bí thư Sóc Trăng yêu cầu “chỉ bàn làm, không bàn lùi”](https://laodong.vn/xa-hoi/bi-thu-soc-trang-yeu-cau-chi-ban-lam-khong-ban-lui-1358430.ldo) - 10:24 27/06/2024
-- 😺 [Hà Nội ban hành 8 nội dung chấm điểm cải cách hành chính](https://laodong.vn/xa-hoi/ha-noi-ban-hanh-8-noi-dung-cham-diem-cai-cach-hanh-chinh-1358493.ldo) - 10:23 27/06/2024
-- 🕴 [Hà Nội triệt để cắt giảm chi thường xuyên cho hội họp, tiếp khách](https://laodong.vn/xa-hoi/ha-noi-triet-de-cat-giam-chi-thuong-xuyen-cho-hoi-hop-tiep-khach-1358452.ldo) - 10:23 27/06/2024
-- 🌋 [Đáp án môn Toán mã đề 123 kỳ thi tốt nghiệp THPT năm 2024](https://laodong.vn/giao-duc/dap-an-mon-toan-ma-de-123-ky-thi-tot-nghiep-thpt-nam-2024-1358138.ldo) - 10:21 27/06/2024
-- 💄 [Hơn 40.000 hộ dân được bộ đội Kiên Giang hỗ trợ khắc phục sau thiên tai](https://laodong.vn/xa-hoi/hon-40000-ho-dan-duoc-bo-doi-kien-giang-ho-tro-khac-phuc-sau-thien-tai-1358491.ldo) - 10:20 27/06/2024<!-- laodong:END -->
+- 🥸 [Thanh tra chỉ rõ trách nhiệm của Bộ Giáo dục và Đào tạo trong vụ khiếu kiện đất đai tại Thái Nguyên](https://laodong.vn/thoi-su/thanh-tra-chi-ro-trach-nhiem-cua-bo-giao-duc-va-dao-tao-trong-vu-khieu-kien-dat-dai-tai-thai-nguyen-1358376.ldo) - 10:46 27/06/2024
+- 🐻 [Lý do xe buýt điện ngày càng thu hút khách hàng sử dụng](https://laodong.vn/video/ly-do-xe-buyt-dien-ngay-cang-thu-hut-khach-hang-su-dung-1357892.ldo) - 10:40 27/06/2024
+- 🪄 [Đáp án môn Toán kỳ thi tốt nghiệp THPT năm 2024, mã đề 111](https://laodong.vn/giao-duc/dap-an-mon-toan-ky-thi-tot-nghiep-thpt-nam-2024-ma-de-111-1358220.ldo) - 10:38 27/06/2024
+- 🧑‍🏫 [Đề thi môn Toán tốt nghiệp THPT 2024 nhiều câu khó lạ, phân hoá cao](https://laodong.vn/video-xa-hoi/de-thi-mon-toan-tot-nghiep-thpt-2024-nhieu-cau-kho-la-phan-hoa-cao-1358485.ldo) - 10:36 27/06/2024
+- 🌊 [Xét xử nhóm đối tượng sử dụng ma túy làm một người tử vong tại Quảng Ninh](https://laodong.vn/phap-luat/xet-xu-nhom-doi-tuong-su-dung-ma-tuy-lam-mot-nguoi-tu-vong-tai-quang-ninh-1358489.ldo) - 10:35 27/06/2024
+- 💻 [Công đoàn Các khu công nghiệp Cần Thơ phát triển mới hơn 3.000 đoàn viên](https://laodong.vn/ldld-can-tho/cong-doan-cac-khu-cong-nghiep-can-tho-phat-trien-moi-hon-3000-doan-vien-1358478.ldo) - 10:28 27/06/2024
+- 👨‍🏫 [Gợi ý đáp án đề thi môn Toán tốt nghiệp THPT 2024](https://laodong.vn/video/goi-y-dap-an-de-thi-mon-toan-tot-nghiep-thpt-2024-1358447.ldo) - 10:27 27/06/2024
+- 🌈 [Đội hình tiêu biểu vòng bảng EURO 2024](https://laodong.vn/bong-da-quoc-te/doi-hinh-tieu-bieu-vong-bang-euro-2024-1358415.ldo) - 10:25 27/06/2024
+- 🐲 [Nếu phẫu thuật thẩm mỹ, thay đổi nhận dạng thì phải làm sao để chuyển tiền?](https://laodong.vn/kinh-doanh/neu-phau-thuat-tham-my-thay-doi-nhan-dang-thi-phai-lam-sao-de-chuyen-tien-1358477.ldo) - 10:25 27/06/2024
+- 🚀 [Đáp án môn Toán mã đề 117 kỳ thi tốt nghiệp THPT năm 2024](https://laodong.vn/giao-duc/dap-an-mon-toan-ma-de-117-ky-thi-tot-nghiep-thpt-nam-2024-1358126.ldo) - 10:24 27/06/2024
+- 😺 [Cập nhật lãi suất Agribank, BIDV, Vietcombank, VietinBank ngày 27.6.2024](https://laodong.vn/ban-tin/cap-nhat-lai-suat-agribank-bidv-vietcombank-vietinbank-ngay-2762024-1358487.ldo) - 10:24 27/06/2024
+- 🕴 [Bí thư Sóc Trăng yêu cầu “chỉ bàn làm, không bàn lùi”](https://laodong.vn/xa-hoi/bi-thu-soc-trang-yeu-cau-chi-ban-lam-khong-ban-lui-1358430.ldo) - 10:24 27/06/2024
+- 🌋 [Hà Nội ban hành 8 nội dung chấm điểm cải cách hành chính](https://laodong.vn/xa-hoi/ha-noi-ban-hanh-8-noi-dung-cham-diem-cai-cach-hanh-chinh-1358493.ldo) - 10:23 27/06/2024
+- 💄 [Hà Nội triệt để cắt giảm chi thường xuyên cho hội họp, tiếp khách](https://laodong.vn/xa-hoi/ha-noi-triet-de-cat-giam-chi-thuong-xuyen-cho-hoi-hop-tiep-khach-1358452.ldo) - 10:23 27/06/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
