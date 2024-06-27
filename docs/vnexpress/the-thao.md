@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [HLV Bỉ đổ lỗi cho giao thông sau trận hòa Ukraine](https://vnexpress.net/hlv-bi-do-loi-cho-giao-thong-sau-tran-hoa-ukraine-4762900.html) - 05:26 27/06/2024
 - 🦩 [Bản tin Euro: Chờ vòng tứ kết trong mơ](https://vnexpress.net/ban-tin-euro-cho-vong-tu-ket-trong-mo-4763331.html) - 04:30 27/06/2024
-- 🧰 [Euro ngày 27/6: Fan đề nghị đổi bạn gái để được chụp ảnh với Ronaldo](https://vnexpress.net/ban-tin-euro-ngay-27-6-4763304.html) - 04:30 27/06/2024
+- 🧰 [Euro ngày 27/6: Trọng tài bị chê &#39;ngáo thẻ&#39;](https://vnexpress.net/ban-tin-euro-ngay-27-6-4763304.html) - 04:30 27/06/2024
 - 🤗 [Neto: &#39;Ngoài Đức, không đội nào chơi tốt như Bồ Đào Nha&#39;](https://vnexpress.net/neto-ngoai-duc-khong-doi-nao-choi-tot-nhu-bo-dao-nha-4763171.html) - 04:27 27/06/2024
 - 🥳 [Trọng tài hứng chỉ trích vì từ chối phạt đền cho Ronaldo](https://vnexpress.net/trong-tai-hung-chi-trich-vi-tu-choi-phat-den-cho-ronaldo-4763147.html) - 01:23 27/06/2024
 - 🦣 [Người hùng Gruzia hạnh phúc vì có áo đấu Ronaldo](https://vnexpress.net/nguoi-hung-gruzia-hanh-phuc-vi-co-ao-dau-ronaldo-4763173.html) - 01:03 27/06/2024
