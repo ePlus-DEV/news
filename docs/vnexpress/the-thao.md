@@ -9,7 +9,7 @@ sidebar_position: 5
 - 🧰 [CĐV Gruzia đổ ra đường mừng chiến thắng Bồ Đào Nha](https://vnexpress.net/cdv-gruzia-do-ra-duong-mung-chien-thang-bo-dao-nha-4762630.html) - 06:36 27/06/2024
 - 🤗 [HLV Bỉ đổ lỗi cho giao thông sau trận hòa Ukraine](https://vnexpress.net/hlv-bi-do-loi-cho-giao-thong-sau-tran-hoa-ukraine-4762900.html) - 05:26 27/06/2024
 - 🥳 [Bản tin Euro: Chờ vòng tứ kết trong mơ](https://vnexpress.net/ban-tin-euro-cho-vong-tu-ket-trong-mo-4763331.html) - 04:30 27/06/2024
-- 🦣 [Euro ngày 27/6: Mourinho cầu được ước thấy](https://vnexpress.net/ban-tin-euro-ngay-27-6-4763304.html) - 04:30 27/06/2024
+- 🦣 [Euro ngày 27/6: Ronaldo suýt bị CĐV song phi trúng người](https://vnexpress.net/ban-tin-euro-ngay-27-6-4763304.html) - 04:30 27/06/2024
 - 🌜 [Neto: &#39;Ngoài Đức, không đội nào chơi tốt như Bồ Đào Nha&#39;](https://vnexpress.net/neto-ngoai-duc-khong-doi-nao-choi-tot-nhu-bo-dao-nha-4763171.html) - 04:27 27/06/2024
 - 🫶 [Trụ cột Bồ Đào Nha bênh vực tội đồ ở trận thua Gruzia](https://vnexpress.net/tru-cot-bo-dao-nha-benh-vuc-toi-do-o-tran-thua-gruzia-4763328.html) - 04:23 27/06/2024
 - 🌜 [Trọng tài hứng chỉ trích vì từ chối phạt đền cho Ronaldo](https://vnexpress.net/trong-tai-hung-chi-trich-vi-tu-choi-phat-den-cho-ronaldo-4763147.html) - 01:23 27/06/2024
