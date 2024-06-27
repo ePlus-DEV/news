@@ -4,10 +4,10 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Trọng tài hứng chỉ trích vì từ chối cho Ronaldo hưởng phạt đền](https://vnexpress.net/trong-tai-hung-chi-trich-vi-tu-choi-cho-ronaldo-huong-phat-den-4763147.html) - 01:23 27/06/2024
+- 🪜 [Trọng tài hứng chỉ trích vì từ chối phạt đền cho Ronaldo](https://vnexpress.net/trong-tai-hung-chi-trich-vi-tu-choi-phat-den-cho-ronaldo-4763147.html) - 01:23 27/06/2024
 - 🦩 [Người hùng Gruzia hạnh phúc vì có áo đấu Ronaldo](https://vnexpress.net/nguoi-hung-gruzia-hanh-phuc-vi-co-ao-dau-ronaldo-4763173.html) - 01:03 27/06/2024
 - 🧰 [Ronaldo lần đầu tịt ngòi ở vòng bảng giải lớn](https://vnexpress.net/ronaldo-lan-dau-tit-ngoi-o-vong-bang-giai-lon-4763153.html) - 01:03 27/06/2024
-- 🤗 [Ronaldo vùng vằng vì vẫn tịt ngòi tại Euro 2024](https://vnexpress.net/ronaldo-vung-vang-vi-van-tit-ngoi-tai-euro-2024-4763155.html) - 23:40 26/06/2024
+- 🤗 [Ronaldo vùng vằng vì vẫn chưa ghi bàn tại Euro 2024](https://vnexpress.net/ronaldo-vung-vang-vi-van-chua-ghi-ban-tai-euro-2024-4763155.html) - 23:40 26/06/2024
 - 🥳 [Chốt 8 trận đấu vòng 1/8 Euro 2024](https://vnexpress.net/chot-8-tran-dau-vong-1-8-euro-2024-4763139.html) - 22:20 26/06/2024
 - 🦣 [Thổ Nhĩ Kỳ loại CH Czech trong cơn mưa thẻ](https://vnexpress.net/tho-nhi-ky-loai-ch-czech-trong-con-mua-the-4763138.html) - 21:34 26/06/2024
 - 🌜 [Slovakia và Romania dắt tay nhau vào vòng 1/8 Euro](https://vnexpress.net/slovakia-va-romania-dat-tay-nhau-vao-vong-1-8-euro-4763134.html) - 18:35 26/06/2024
