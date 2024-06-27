@@ -55,5 +55,4 @@ sidebar_position: 9
 - 🏊 [Chuyên gia Hàn Quốc chỉ cách để sâm Việt phát huy lợi thế](https://vnexpress.net/chuyen-gia-han-quoc-chi-cach-de-sam-viet-phat-huy-loi-the-4763433.html) - 11:41 27/06/2024
 - 🦩 [7 nhà hàng Việt Nam nhận sao Michelin](https://vnexpress.net/7-nha-hang-viet-nam-nhan-sao-michelin-4763430.html) - 11:17 27/06/2024
 - 👍 [Thủ tướng Phạm Minh Chính sắp thăm Hàn Quốc](https://vnexpress.net/thu-tuong-pham-minh-chinh-sap-tham-han-quoc-4763491.html) - 11:17 27/06/2024
-- 🔥 [Israel nói không muốn có chiến tranh ở Lebanon](https://vnexpress.net/israel-noi-khong-muon-co-chien-tranh-o-lebanon-4763387.html) - 11:12 27/06/2024
-- 💄 [Kinh tế Mỹ ra sao dưới thời Trump và Biden?](https://vnexpress.net/kinh-te-my-ra-sao-duoi-thoi-trump-va-biden-4763167.html) - 11:07 27/06/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🔥 [Israel nói không muốn có chiến tranh ở Lebanon](https://vnexpress.net/israel-noi-khong-muon-co-chien-tranh-o-lebanon-4763387.html) - 11:12 27/06/2024<!-- vnexpress-tin-moi-nhat:END -->
