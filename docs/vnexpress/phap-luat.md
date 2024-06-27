@@ -22,7 +22,7 @@ sidebar_position: 12
 - 🫶 [VKS bác kháng cáo không bồi thường của 5 nhà thầu cao tốc Đà Nẵng - Quảng Ngãi](https://vnexpress.net/vks-bac-de-nghi-khong-boi-thuong-cua-5-nha-thau-cao-toc-da-nang-quang-ngai-4762754.html) - 04:45 26/06/2024
 - 🐲 [Cựu giám đốc Công an Hải Phòng: Không hiểu vì sao bị tố nhận 35 tỷ đồng](https://vnexpress.net/cuu-giam-doc-cong-an-hai-phong-khong-hieu-vi-sao-bi-to-nhan-35-ty-dong-4762748.html) - 04:20 26/06/2024
 - 🚀 [Đoàn xe &#39;đánh võng&#39;, đâm người đi đường chấn thương sọ não](https://vnexpress.net/doan-xe-danh-vong-dam-nguoi-di-duong-chan-thuong-so-nao-4762771.html) - 03:43 26/06/2024
-- 🎊 [Dừng điều tra vụ bé trai người Nhật chết đuối ở resort 5 sao](https://vnexpress.net/dung-dieu-tra-vu-be-trai-nguoi-nhat-chet-duoi-o-resort-5-sao-4762687.html) - 02:26 26/06/2024
+- 🎊 [Tạm đình chỉ điều tra vụ bé trai người Nhật chết đuối ở resort 5 sao](https://vnexpress.net/tam-dinh-chi-dieu-tra-vu-be-trai-nguoi-nhat-chet-duoi-o-resort-5-sao-4762687.html) - 02:26 26/06/2024
 - 🤗 [Cha đòi 3 con gái trả nhà đã cho vì &#39;sợ bị xua đuổi&#39;](https://vnexpress.net/cha-doi-3-con-gai-tra-nha-da-cho-vi-so-bi-xua-duoi-4762601.html) - 17:00 25/06/2024
 - 🗽 [Cái chết bí ẩn của á hậu trong tiệc giao thừa với 11 người đàn ông](https://vnexpress.net/cai-chet-bi-an-cua-a-hau-trong-tiec-giao-thua-voi-11-nguoi-dan-ong-4762549.html) - 17:00 25/06/2024
 - 🕴 [Thiếu gia 20 tuổi tố cáo bị chuốc thuốc mê, ép chuyển giới](https://vnexpress.net/thieu-gia-20-tuoi-to-cao-bi-chuoc-thuoc-me-de-chuyen-gioi-4762606.html) - 16:00 25/06/2024
