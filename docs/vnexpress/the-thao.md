@@ -14,7 +14,7 @@ sidebar_position: 5
 - 🫶 [Những cái nhất vòng bảng Euro 2024](https://vnexpress.net/nhung-cai-nhat-vong-bang-euro-2024-4763748.html) - 05:05 28/06/2024
 - 🌜 [Djokovic đấu Sinner trước Wimbledon](https://vnexpress.net/djokovic-dau-sinner-truoc-wimbledon-4763776.html) - 04:57 28/06/2024
 - 😺 [Bản tin Euro: Các cầu thủ Real ghi nhiều bàn nhất Euro 2024](https://vnexpress.net/ban-tin-euro-cac-cau-thu-real-ghi-nhieu-ban-nhat-euro-2024-4763677.html) - 04:36 28/06/2024
-- 👍 [Euro ngày 28/6: Tuyển Đức khổ vì muỗi](https://vnexpress.net/tin-tuc-euro-ngay-28-6-4763737.html) - 04:30 28/06/2024
+- 👍 [Euro ngày 28/6: Anh giấu thông tin về việc tập đá luân lưu trước vòng 1/8](https://vnexpress.net/tin-tuc-euro-ngay-28-6-4763737.html) - 04:30 28/06/2024
 - 🐵 [Mỹ thua sốc ở Copa America 2024](https://vnexpress.net/my-thua-soc-o-copa-america-2024-4763769.html) - 04:16 28/06/2024
 - 💫 [Sự bạc nhược của tuyển Bỉ](https://vnexpress.net/su-bac-nhuoc-cua-tuyen-bi-4763679.html) - 02:47 28/06/2024
 - 🦆 [Giày Goya đồng hành cùng các giải marathon Việt](https://vnexpress.net/giay-goya-dong-hanh-cung-cac-giai-marathon-viet-4762702.html) - 02:00 28/06/2024
