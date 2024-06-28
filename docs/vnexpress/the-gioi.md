@@ -9,7 +9,7 @@ sidebar_position: 2
 - 🤭 [Hezbollah tập kích căn cứ Israel](https://vnexpress.net/hezbollah-tap-kich-can-cu-israel-4763585.html) - 03:45 28/06/2024
 - 🧑‍💻 [Người Israel biểu tình trước nhà Thủ tướng Netanyahu](https://vnexpress.net/nguoi-israel-bieu-tinh-truoc-nha-thu-tuong-netanyahu-4763598.html) - 03:15 28/06/2024
 - 🦏 [Nga xác nhận dùng tên lửa siêu vượt âm tập kích sân bay Ukraine](https://vnexpress.net/nga-xac-nhan-dung-ten-lua-sieu-vuot-am-tap-kich-san-bay-ukraine-4763630.html) - 02:15 28/06/2024
-- 🦒 [Ông Trump và ông Biden tranh luận trực tiếp](https://vnexpress.net/ong-trump-va-ong-biden-tranh-luan-truc-tiep-4763602.html) - 00:56 28/06/2024
+- 🦒 [Ông Trump và ông Biden tranh luận trực tiếp](https://vnexpress.net/ong-trump-va-ong-biden-tranh-luan-truc-tiep-4763602-tong-thuat.html) - 00:56 28/06/2024
 - 🌈 [Chính phủ Bolivia đã nhận tin tình báo về âm mưu đảo chính](https://vnexpress.net/chinh-phu-bolivia-da-nhan-tin-tinh-bao-ve-am-muu-dao-chinh-4763578.html) - 00:19 28/06/2024
 - 🧑‍🏫 [Cách ông Trump chuẩn bị cho lần tranh luận với ông Biden](https://vnexpress.net/cach-ong-trump-chuan-bi-cho-lan-tranh-luan-voi-ong-biden-4763175.html) - 17:00 27/06/2024
 - 🐲 [Ukraine ký thỏa thuận an ninh với EU](https://vnexpress.net/ukraine-ky-thoa-thuan-an-ninh-voi-eu-4763535.html) - 15:33 27/06/2024
