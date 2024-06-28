@@ -251,13 +251,13 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Thông tin mới vụ xây nhà máy, phá luôn kênh thủy lợi](https://nld.com.vn/thong-tin-moi-vu-xay-nha-may-pha-luon-kenh-thuy-loi-196240628115545355.htm) - 07:37 28/06/2024
-- 😺 [Vụ &quot;hô biến&quot; xưởng sản xuất thủ công mĩ nghệ: Xử phạt 165 triệu đồng](https://nld.com.vn/vu-ho-bien-xuong-san-xuat-thu-cong-mi-nghe-xu-phat-165-trieu-dong-196240628135951057.htm) - 07:32 28/06/2024
-- 👍 [Người đàn ông ở Quảng Nam vay mượn 1,6 tỉ đồng &quot;nướng&quot; vào cờ bạc](https://nld.com.vn/nguoi-dan-ong-o-quang-nam-vay-muon-16-ti-dong-nuong-vao-co-bac-196240628133823662.htm) - 07:15 28/06/2024
-- 🥷 [Đi tàu Boeing Starliner lên vũ trụ, phi hành gia Mỹ... chưa biết ngày về](https://nld.com.vn/di-tau-boeing-starliner-len-vu-tru-phi-hanh-gia-my-chua-biet-ngay-ve-1962406280657203.htm) - 07:07 28/06/2024
-- 🤔 [Hình ảnh đối tượng đưa người sang Campuchia bán cho các công ty lừa đảo trực tuyến](https://nld.com.vn/hinh-anh-doi-tuong-dua-nguoi-sang-campuchia-ban-cho-cac-cong-ty-lua-dao-truc-tuyen-19624062813513282.htm) - 07:04 28/06/2024
-- 🌈 [150 máy bay, hơn 40 tàu rầm rộ tập trận hải quân lớn nhất thế giới](https://nld.com.vn/150-may-bay-hon-40-tau-ram-ro-tap-tran-hai-quan-lon-nhat-the-gioi-196240628132537224.htm) - 06:47 28/06/2024
-- 🔥 [Một mã đề thi toán THPT Quốc gia tại Đắk Lắk bị lỗi nghiêm trọng?](https://nld.com.vn/mot-ma-de-thi-toan-thpt-quoc-gia-tai-dak-lak-bi-loi-nghiem-trong-196240628125317491.htm) - 06:45 28/06/2024
+- 🐎 [Bán biệt thự, penhouse 200-300 tỉ đồng có phải lập doanh nghiệp bất động sản?](https://nld.com.vn/ban-biet-thu-penhouse-200-300-ti-dong-co-phai-lap-doanh-nghiep-bat-dong-san-196240628135919005.htm) - 07:44 28/06/2024
+- 😺 [Thông tin mới vụ xây nhà máy, phá luôn kênh thủy lợi](https://nld.com.vn/thong-tin-moi-vu-xay-nha-may-pha-luon-kenh-thuy-loi-196240628115545355.htm) - 07:37 28/06/2024
+- 👍 [Vụ &quot;hô biến&quot; xưởng sản xuất thủ công mĩ nghệ: Xử phạt 165 triệu đồng](https://nld.com.vn/vu-ho-bien-xuong-san-xuat-thu-cong-mi-nghe-xu-phat-165-trieu-dong-196240628135951057.htm) - 07:32 28/06/2024
+- 🥷 [Người đàn ông ở Quảng Nam vay mượn 1,6 tỉ đồng &quot;nướng&quot; vào cờ bạc](https://nld.com.vn/nguoi-dan-ong-o-quang-nam-vay-muon-16-ti-dong-nuong-vao-co-bac-196240628133823662.htm) - 07:15 28/06/2024
+- 🤔 [Đi tàu Boeing Starliner lên vũ trụ, phi hành gia Mỹ... chưa biết ngày về](https://nld.com.vn/di-tau-boeing-starliner-len-vu-tru-phi-hanh-gia-my-chua-biet-ngay-ve-1962406280657203.htm) - 07:07 28/06/2024
+- 🌈 [Hình ảnh đối tượng đưa người sang Campuchia bán cho các công ty lừa đảo trực tuyến](https://nld.com.vn/hinh-anh-doi-tuong-dua-nguoi-sang-campuchia-ban-cho-cac-cong-ty-lua-dao-truc-tuyen-19624062813513282.htm) - 07:04 28/06/2024
+- 🔥 [150 máy bay, hơn 40 tàu rầm rộ tập trận hải quân lớn nhất thế giới](https://nld.com.vn/150-may-bay-hon-40-tau-ram-ro-tap-tran-hai-quan-lon-nhat-the-gioi-196240628132537224.htm) - 06:47 28/06/2024
 - 🧰 [Nhân sự mới Công an TP HCM](https://nld.com.vn/nhan-su-moi-cong-an-tp-hcm-196240628125455145.htm) - 06:02 28/06/2024
 - 🤗 [Vinhomes Golden Avenue - Lựa chọn hoàn hảo để con trẻ có một tương lai tươi sáng](https://nld.com.vn/vinhomes-golden-avenue-lua-chon-hoan-hao-de-con-tre-co-mot-tuong-lai-tuoi-sang-196240628125416095.htm) - 05:58 28/06/2024
 - 🦅 [NÓNG: Người đại diện pháp luật 116 công ty đã bị Công an TP HCM tạm giam](https://nld.com.vn/nguoi-dai-dien-phap-luat-116-cong-ty-da-bi-cong-an-tp-hcm-tam-giam-196240628122810943.htm) - 05:58 28/06/2024
