@@ -9,7 +9,7 @@ sidebar_position: 6
 - 🚦 [Kiếm bộn tiền từ bán &#39;chuối xanh chữa lành&#39;](https://vnexpress.net/kiem-bon-tien-tu-ban-chuoi-xanh-chua-lanh-4763782.html) - 08:51 28/06/2024
 - 🦣 [Hơn 1.000 người tham gia giải chạy việt dã của AIA](https://vnexpress.net/hon-1-000-nguoi-tham-gia-giai-chay-viet-da-cua-aia-4763671.html) - 07:00 28/06/2024
 - 🎓 [Người trẻ quan tâm giá cả khi đặt xe công nghệ giờ cao điểm](https://vnexpress.net/nguoi-tre-quan-tam-gia-ca-khi-dat-xe-cong-nghe-gio-cao-diem-4763791.html) - 06:00 28/06/2024
-- 🎭 [Những cặp vợ chồng cả đời &#39;diễn&#39; vai hạnh phúc](https://vnexpress.net/nhung-cap-vo-chong-ca-doi-dien-vai-hanh-phuc-4763463.html) - 02:30 28/06/2024
+- 🎭 [Những vợ chồng cả đời &#39;diễn&#39; vai hạnh phúc](https://vnexpress.net/nhung-vo-chong-ca-doi-dien-vai-hanh-phuc-4763463.html) - 02:30 28/06/2024
 - 🦅 [Gia đình Hà Nội có hơn 300 thành viên](https://vnexpress.net/gia-dinh-ha-noi-co-hon-300-thanh-vien-4763267.html) - 23:00 27/06/2024
 - 🎃 [Hai người lao xuống suối cứu bé gái bị lũ cuốn](https://vnexpress.net/hai-nguoi-lao-xuong-suoi-cuu-be-gai-bi-lu-cuon-4763560.html) - 17:00 27/06/2024
 - 💪 [Gia đình 6 thế hệ, 185 thành viên chung sống](https://vnexpress.net/gia-dinh-6-the-he-185-thanh-vien-chung-song-4763342.html) - 06:03 27/06/2024
