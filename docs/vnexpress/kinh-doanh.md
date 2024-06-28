@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [Vị thế cảng Chu Lai trong hoạt động logistics tại miền Trung](https://vnexpress.net/vi-the-cang-chu-lai-trong-hoat-dong-logistics-tai-mien-trung-4763935.html) - 12:00 28/06/2024
 - 🐲 [Dạy livestream để kích hoạt tinh thần startup cho sinh viên](https://vnexpress.net/day-livestream-de-kich-hoat-tinh-than-startup-cho-sinh-vien-4763878.html) - 11:04 28/06/2024
 - 🔥 [Loạt hoạt động đồng hành và tôn vinh thợ máy của Shell](https://vnexpress.net/loat-hoat-dong-dong-hanh-va-ton-vinh-tho-may-cua-shell-4763078.html) - 11:00 28/06/2024
-- 🐵 [Bộ Tài chính lần thứ 5 giảm phí cho người dân, doanh nghiệp](https://vnexpress.net/tiep-tuc-giam-36-khoan-phi-cho-nguoi-dan-doanh-nghiep-4763912.html) - 10:00 28/06/2024
+- 🐵 [Bộ Tài chính lần thứ 5 giảm phí cho người dân, doanh nghiệp](https://vnexpress.net/bo-tai-chinh-lan-thu-5-giam-phi-cho-nguoi-dan-doanh-nghiep-4763912.html) - 10:00 28/06/2024
 - 🦅 [Chứng khoán giảm mạnh cuối tuần](https://vnexpress.net/chung-khoan-hom-nay-28-6-chung-khoan-lai-giam-manh-cuoi-tuan-4763871.html) - 08:42 28/06/2024
 - 😺 [Tổng giám đốc IMF: &#39;Fed nên giữ nguyên lãi suất đến cuối năm&#39;](https://vnexpress.net/tong-giam-doc-imf-fed-nen-giu-nguyen-lai-suat-den-cuoi-nam-4763699.html) - 06:24 28/06/2024
 - 🤩 [Chuyên gia Mỹ: Việt Nam có cơ hội lớn phát triển ngành bán dẫn](https://vnexpress.net/chuyen-gia-my-viet-nam-co-co-hoi-lon-phat-trien-nganh-ban-dan-4763778.html) - 05:49 28/06/2024
