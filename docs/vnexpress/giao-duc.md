@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Một mã đề thi Toán tốt nghiệp bị in lỗi](https://vnexpress.net/mot-ma-de-thi-toan-tot-nghiep-bi-in-loi-4763956.html) - 11:02 28/06/2024
+- 🤓 [Đề thi Toán tốt nghiệp in mờ, sai lệch ký hiệu](https://vnexpress.net/de-thi-toan-tot-nghiep-in-mo-sai-lech-ky-hieu-4763956.html) - 11:02 28/06/2024
 - 🦆 [Thí sinh ngồi xe lăn, chống nạng đến trường thi](https://vnexpress.net/thi-sinh-ngoi-xe-lan-chong-nang-den-truong-thi-4763410.html) - 10:36 28/06/2024
 - 🦩 [26 thí sinh bị đình chỉ vì mang tài liệu và điện thoại vào phòng thi](https://vnexpress.net/26-thi-sinh-bi-dinh-chi-vi-mang-tai-lieu-va-dien-thoai-vao-phong-thi-4763873.html) - 10:29 28/06/2024
 - 🌮 [Đáp án 24 mã đề thi Tiếng Anh tốt nghiệp THPT 2024](https://vnexpress.net/dap-an-24-ma-de-thi-tieng-anh-tot-nghiep-thpt-2024-4762825.html) - 08:57 28/06/2024
