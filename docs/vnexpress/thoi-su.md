@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Bộ trưởng Nội vụ: &#39;Tăng 30% lương cơ sở là phương án tối ưu&#39;](https://vnexpress.net/bo-truong-noi-vu-tang-30-luong-co-so-la-phuong-an-toi-uu-4763551.html) - 22:00 27/06/2024
 - 🤓 [Hôm nay Quốc hội thông qua Luật Cảnh vệ sửa đổi](https://vnexpress.net/hom-nay-quoc-hoi-thong-qua-luat-canh-ve-sua-doi-4763548.html) - 17:00 27/06/2024
 - ⚗️ [Hai người chết sau tiếng nổ](https://vnexpress.net/hai-nguoi-chet-sau-tieng-no-4763566.html) - 16:57 27/06/2024
-- 🌊 [Ôtô tông loạt xe máy ở TP Vũng Tàu, 2 người chết](https://vnexpress.net/oto-tong-loat-xe-may-o-tp-vung-tau-2-nguoi-chet-4763546.html) - 14:56 27/06/2024
+- 🌊 [Ôtô tông loạt xe máy ở TP Vũng Tàu, 2 mẹ con tử vong](https://vnexpress.net/oto-tong-loat-xe-may-o-tp-vung-tau-2-me-con-tu-vong-4763546.html) - 14:56 27/06/2024
 - 🎓 [Đề xuất bổ sung dụng cụ cắt sắt cầm tay cho cảnh sát chữa cháy](https://vnexpress.net/de-xuat-bo-sung-dung-cu-cat-sat-cam-tay-cho-canh-sat-chua-chay-4763453.html) - 11:05 27/06/2024
 - 🔥 [Lao động nam đóng 15 năm bảo hiểm có thể hưởng lương hưu 40%](https://vnexpress.net/lao-dong-nam-dong-15-nam-bao-hiem-co-the-huong-luong-huu-40-4763286.html) - 10:35 27/06/2024
 - 🦏 [Xe biển xanh biến dạng khi đâm vào hộ lan](https://vnexpress.net/xe-bien-xanh-bien-dang-khi-dam-vao-ho-lan-4763462.html) - 09:31 27/06/2024
