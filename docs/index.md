@@ -241,7 +241,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😺 [Giá chung cư Hà Nội vẫn ở mức khủng, dự báo thời điểm giá tiếp đà tăng](https://laodong.vn/bat-dong-san/gia-chung-cu-ha-noi-van-o-muc-khung-du-bao-thoi-diem-gia-tiep-da-tang-1359483.ldo) - 12:00 29/06/2024
 - 🕴 [Kỳ vọng không còn những vụ học sinh bị bỏ quên trên xe](https://laodong.vn/ban-doc/ky-vong-khong-con-nhung-vu-hoc-sinh-bi-bo-quen-tren-xe-1359344.ldo) - 12:00 29/06/2024
 - 🌋 [Bệnh suy giảm nhận thức: Người trẻ cũng mắc nhưng ít được quan tâm](https://laodong.vn/y-te/benh-suy-giam-nhan-thuc-nguoi-tre-cung-mac-nhung-it-duoc-quan-tam-1359414.ldo) - 12:00 29/06/2024
-- 💄 [Quán bún bò Huế duy nhất ở TPHCM được Michelin khen ngon, giá rẻ](https://laodong.vn/van-hoa-giai-tri/quan-bun-bo-hue-duy-nhat-o-tphcm-duoc-michelin-khen-ngon-gia-re-1359383.ldo) - 12:00 29/06/2024<!-- laodong:END -->
+- 💄 [Nóng Sài Gòn: Đẩy nhanh tiến độ dự án hầm chui Nguyễn Văn Linh](https://laodong.vn/video-xa-hoi/nong-sai-gon-day-nhanh-tien-do-du-an-ham-chui-nguyen-van-linh-1359407.ldo) - 12:00 29/06/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
