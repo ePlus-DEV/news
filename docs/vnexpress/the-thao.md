@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Cầu thủ Italy &#39;đáng bị loại hết khỏi đội tuyển&#39;](https://vnexpress.net/cau-thu-italy-dang-bi-loai-het-khoi-doi-tuyen-4764312.html) - 22:05 29/06/2024
-- 🦩 [VAR giúp Đức hạ Đan Mạch ở vòng 1/8 Euro](https://vnexpress.net/ket-qua-duc-vs-dan-mach-4764305-tong-thuat.html) - 18:25 29/06/2024
-- 🧰 [Thụy Sĩ biến Italy thành cựu vương Euro](https://vnexpress.net/truc-tiep-tran-thuy-si-vs-italy-o-euro-2024-4764290-tong-thuat.html) - 15:00 29/06/2024
-- 🤗 [Argentina - Peru: Giữ sức chờ tứ kết](https://vnexpress.net/argentina-peru-giu-suc-cho-tu-ket-4764289.html) - 14:58 29/06/2024
-- 🥳 [Vì sao thẻ phạt tăng đột biến ở Euro 2024?](https://vnexpress.net/vi-sao-the-phat-tang-dot-bien-o-euro-2024-4764268.html) - 12:48 29/06/2024
-- 🦣 [PVF CAND giành vé đá play-off tranh suất dự V-League](https://vnexpress.net/pvf-cand-gianh-ve-da-play-off-tranh-suat-du-v-league-4764267.html) - 12:35 29/06/2024
-- 🌜 [Hà Hậu vô địch giải chạy địa hình Singapore](https://vnexpress.net/ha-hau-vo-dich-giai-chay-dia-hinh-singapore-4764224.html) - 12:26 29/06/2024
-- 🫶 [Đan Mạch tính chuyện hạ Đức bằng loạt luân lưu](https://vnexpress.net/dan-mach-tinh-chuyen-ha-duc-bang-loat-luan-luu-4764170.html) - 12:00 29/06/2024
-- 🌜 [Đức - Đan Mạch: Giải mã ngựa ô](https://vnexpress.net/duc-dan-mach-giai-ma-ngua-o-4764229.html) - 12:00 29/06/2024
-- 😺 [Italy - Thụy Sĩ: Khả năng phải đá luân lưu](https://vnexpress.net/italy-thuy-si-kha-nang-phai-da-luan-luu-4764208.html) - 10:00 29/06/2024
-- 👍 [Trùng hợp ngẫu nhiên về trọng tài ở các trận chung kết Euro](https://vnexpress.net/trung-hop-ngau-nhien-ve-trong-tai-o-cac-tran-chung-ket-euro-4764216.html) - 09:46 29/06/2024
-- 🐵 [Đan Mạch muốn tái hiện &#39;cổ tích Euro 1992&#39; khi gặp Đức](https://vnexpress.net/dan-mach-muon-tai-hien-co-tich-euro-1992-khi-gap-duc-4764203.html) - 08:42 29/06/2024
-- 💫 [CĐV Anh: &#39;Tôi mơ vô địch Euro 2024, nhưng tỉnh dậy với cơn ác mộng&#39;](https://vnexpress.net/cdv-anh-toi-mo-vo-dich-euro-2024-nhung-tinh-day-voi-con-ac-mong-4764201.html) - 08:26 29/06/2024
-- 🦆 [Pepe: &#39;Ronaldo sống để ghi bàn&#39;](https://vnexpress.net/pepe-ronaldo-song-de-ghi-ban-4764186.html) - 07:55 29/06/2024
-- 🙉 [Huyền thoại Zenga: &#39;Khung thành Italy nhỏ hơn với Donnarumma&#39;](https://vnexpress.net/huyen-thoai-zenga-khung-thanh-italy-nho-hon-voi-donnarumma-4764181.html) - 07:34 29/06/2024
-- 📝 [Spalletti: &#39;Italy sẽ không tính toán kể từ vòng 1/8&#39;](https://vnexpress.net/spalletti-italy-se-khong-tinh-toan-ke-tu-vong-1-8-4764145.html) - 07:10 29/06/2024
-- 💯 [Euro 2024 vào giai đoạn knock-out](https://vnexpress.net/euro-2024-vao-giai-doan-knock-out-4764127.html) - 06:57 29/06/2024
-- 🌈 [HLV Nagelsmann muốn kết liễu sớm Đan Mạch](https://vnexpress.net/hlv-nagelsmann-muon-ket-lieu-som-dan-mach-4764157.html) - 06:18 29/06/2024
-- 🦩 [Euro ngày 29/6: Cầu thủ Đức trồng cây để cầu may mắn](https://vnexpress.net/euro-ngay-29-6-4764125.html) - 04:30 29/06/2024
-- 🐲 [Vinicius chói sáng trong chiến thắng đậm của Brazil](https://vnexpress.net/vinicius-choi-sang-trong-chien-thang-dam-cua-brazil-4764079.html) - 03:44 29/06/2024
-- 🌁 [Bản tin Euro: Siêu máy tính đoán Anh và Tây Ban Nha vào chung kết](https://vnexpress.net/ban-tin-euro-sieu-may-tinh-doan-anh-va-tay-ban-nha-vao-chung-ket-4764099.html) - 03:23 29/06/2024
-- 💯 [L&#39;Équipe: &#39;Deschamps làm chia rẽ nội bộ tuyển Pháp&#39;](https://vnexpress.net/l-equipe-deschamps-lam-chia-re-noi-bo-tuyen-phap-4764078.html) - 02:20 29/06/2024
-- 🌝 [Hàng trăm gia đình trải nghiệm ngày hội Libera Fun Fest](https://vnexpress.net/hang-tram-gia-dinh-trai-nghiem-ngay-hoi-libera-fun-fest-4763758.html) - 01:00 29/06/2024
-- 🤖 [Các ông lớn được dự đoán toàn thắng vòng 1/8 Euro 2024](https://vnexpress.net/cac-ong-lon-duoc-du-doan-toan-thang-vong-1-8-euro-2024-4764037.html) - 00:57 29/06/2024
-- 🕯 [Tài năng Thổ Nhĩ Kỳ tăng fan nhiều hơn Ronaldo và Mbappe](https://vnexpress.net/tai-nang-tho-nhi-ky-tang-fan-nhieu-hon-ronaldo-va-mbappe-4764019.html) - 23:43 28/06/2024
-- 🧰 [Điều gì khiến vòng bảng Euro 2024 hay bậc nhất lịch sử?](https://vnexpress.net/dieu-gi-khien-vong-bang-euro-2024-hay-bac-nhat-lich-su-4764017.html) - 23:30 28/06/2024
-- 🥳 [Ronaldo - nguồn cảm hứng cho sự trỗi dậy của bóng đá Gruzia](https://vnexpress.net/ronaldo-nguon-cam-hung-cho-su-troi-day-cua-bong-da-gruzia-4763920.html) - 23:10 28/06/2024
-- 👍 [LeBron James và con trai cùng chơi NBA](https://vnexpress.net/lebron-james-va-con-trai-cung-choi-nba-4764014.html) - 23:08 28/06/2024
-- 💪 [Wimbledon tạo mốc tiền thưởng kỷ lục](https://vnexpress.net/wimbledon-tao-moc-tien-thuong-ky-luc-4764010.html) - 23:01 28/06/2024
-- 👹 [Vòng bảng Euro 2024 đáng quên của Ronaldo](https://vnexpress.net/vong-bang-euro-2024-dang-quen-cua-ronaldo-4763754.html) - 17:00 28/06/2024
-- 🧰 [5 nỗi thất vọng ở vòng bảng Euro 2024](https://vnexpress.net/5-noi-that-vong-o-vong-bang-euro-2024-4763572.html) - 17:00 28/06/2024
-- 🚀 [Djokovic, Alcaraz không gặp nhau trước chung kết Wimbledon](https://vnexpress.net/djokovic-alcaraz-khong-gap-nhau-truoc-chung-ket-wimbledon-4764003.html) - 16:45 28/06/2024
-- 🎃 [Runner xếp hàng nhận Bib sớm giải chạy Libera Fun Fest](https://vnexpress.net/runner-xep-hang-nhan-bib-som-giai-chay-libera-fun-fest-4763721.html) - 10:30 28/06/2024
-- 🧰 [Brazil - Paraguay: Chờ màn trình diễn bùng nổ](https://vnexpress.net/brazil-paraguay-cho-man-trinh-dien-bung-no-4763907.html) - 09:04 28/06/2024
-- 👀 [Croatia và hồi kết của một kỷ nguyên vàng](https://vnexpress.net/croatia-va-hoi-ket-cua-mot-ky-nguyen-vang-4763764.html) - 08:32 28/06/2024
-- 🌜 [Motive tài trợ trang phục giải chạy Libera Fun Fest Nha Trang](https://vnexpress.net/motive-tai-tro-trang-phuc-giai-chay-libera-fun-fest-nha-trang-4764113.html) - 08:00 28/06/2024
-- 🫶 [Yamal tốt nghiệp trung học trước khi đá vòng 1/8 Euro 2024](https://vnexpress.net/yamal-tot-nghiep-trung-hoc-truoc-khi-da-vong-1-8-euro-2024-4763847.html) - 07:27 28/06/2024
-- 🦄 [Uruguay đại thắng ở Copa America 2024](https://vnexpress.net/uruguay-dai-thang-o-copa-america-2024-4763794.html) - 06:04 28/06/2024
-- 🥳 [Tiền vệ Thụy Sĩ: &#39;Italy không bao giờ chết&#39;](https://vnexpress.net/tien-ve-thuy-si-italy-khong-bao-gio-chet-4763698.html) - 06:00 28/06/2024
-- 🐲 [Đội hình hay nhất vòng bảng Euro 2024](https://vnexpress.net/doi-hinh-hay-nhat-vong-bang-euro-2024-4763792.html) - 05:28 28/06/2024
-- 🧑‍🏫 [Những cái nhất vòng bảng Euro 2024](https://vnexpress.net/nhung-cai-nhat-vong-bang-euro-2024-4763748.html) - 05:05 28/06/2024
-- 🤔 [Djokovic đấu Sinner trước Wimbledon](https://vnexpress.net/djokovic-dau-sinner-truoc-wimbledon-4763776.html) - 04:57 28/06/2024
-- 😺 [Bản tin Euro: Các cầu thủ Real ghi nhiều bàn nhất Euro 2024](https://vnexpress.net/ban-tin-euro-cac-cau-thu-real-ghi-nhieu-ban-nhat-euro-2024-4763677.html) - 04:36 28/06/2024
-- 💪 [Euro ngày 28/6: Anh giấu thông tin tập luân lưu trước vòng 1/8](https://vnexpress.net/tin-tuc-euro-ngay-28-6-4763737.html) - 04:30 28/06/2024
-- 💼 [Mỹ thua sốc ở Copa America 2024](https://vnexpress.net/my-thua-soc-o-copa-america-2024-4763769.html) - 04:16 28/06/2024
-- 🕴 [Sự bạc nhược của tuyển Bỉ](https://vnexpress.net/su-bac-nhuoc-cua-tuyen-bi-4763679.html) - 02:47 28/06/2024
-- 🕯 [Giày Goya đồng hành cùng các giải marathon Việt](https://vnexpress.net/giay-goya-dong-hanh-cung-cac-giai-marathon-viet-4762702.html) - 02:00 28/06/2024
-- 📝 [Libera Fun Fest sẵn sàng đón 4.500 runner](https://vnexpress.net/libera-fun-fest-san-sang-don-4-500-runner-4762924.html) - 00:53 28/06/2024
-- 🧐 [Materazzi: &#39;Italy rộng cửa vào chung kết Euro 2024&#39;](https://vnexpress.net/materazzi-italy-rong-cua-vao-chung-ket-euro-2024-4763601.html) - 00:50 28/06/2024
-- 🙉 [Nỗi niềm của CĐV Ukraine](https://vnexpress.net/noi-niem-cua-cdv-ukraine-4763584.html) - 00:00 28/06/2024
-- 🏊 [Những điểm nhấn ở vòng bảng Euro 2024](https://vnexpress.net/nhung-diem-nhan-o-vong-bang-euro-2024-4763377.html) - 23:14 27/06/2024
-- 🌊 [5 gương mặt tỏa sáng ở vòng bảng Euro 2024](https://vnexpress.net/5-guong-mat-toa-sang-o-vong-bang-euro-2024-4763559.html) - 23:07 27/06/2024
-- 👨‍🏫 [Gruzia được thưởng hơn 10 triệu USD nhờ đánh bại Bồ Đào Nha](https://vnexpress.net/gruzia-duoc-thuong-hon-10-trieu-usd-nho-danh-bai-bo-dao-nha-4763580.html) - 22:59 27/06/2024
-- 🥷 [Những kỷ lục bị xô đổ sau vòng bảng Euro 2024](https://vnexpress.net/nhung-ky-luc-bi-xo-do-sau-vong-bang-euro-2024-4763528.html) - 22:57 27/06/2024
-- ⚗️ [Ronaldo bị quấy rối nhiều nhất ở Euro 2024](https://vnexpress.net/ronaldo-bi-quay-roi-nhieu-nhat-o-euro-2024-4763574.html) - 22:43 27/06/2024
-- 🌮 [Southgate: &#39;Tôi là vấn đề của tuyển Anh&#39;](https://vnexpress.net/southgate-toi-la-van-de-cua-tuyen-anh-4763471.html) - 12:00 27/06/2024
-- 🤩 [Báo Anh, Hà Lan cảm ơn Gruzia đã thắng Bồ Đào Nha](https://vnexpress.net/bao-anh-ha-lan-cam-on-gruzia-da-thang-bo-dao-nha-4763403.html) - 12:00 27/06/2024
-- 🏊 [Cua-rơ trẻ Đồng Tháp qua đời vì tai nạn giao thông](https://vnexpress.net/cua-ro-tre-dong-thap-qua-doi-vi-tai-nan-giao-thong-4763504.html) - 11:02 27/06/2024
-- 🐎 [Indonesia đụng Nhật Bản, Australia ở vòng loại ba World Cup 2026](https://vnexpress.net/indonesia-dung-nhat-ban-australia-o-vong-loai-ba-world-cup-2026-4763496.html) - 10:30 27/06/2024
-- 💫 [Trận Thổ Nhĩ Kỳ - CH Czech bị gọi là &#39;bẩn thỉu&#39; nhất Euro](https://vnexpress.net/tran-tho-nhi-ky-ch-czech-bi-goi-la-ban-thiu-nhat-euro-4763365.html) - 07:29 27/06/2024<!-- vnexpress-the-thao:END -->
+- 🪜 [HLV Thụy Sĩ biết sẽ thắng khi thấy đội hình xuất phát của Italy](https://vnexpress.net/hlv-thuy-si-biet-se-thang-khi-thay-doi-hinh-xuat-phat-cua-italy-4764314.html) - 22:34 29/06/2024
+- 🦩 [Cầu thủ Italy &#39;đáng bị loại hết khỏi đội tuyển&#39;](https://vnexpress.net/cau-thu-italy-dang-bi-loai-het-khoi-doi-tuyen-4764312.html) - 22:05 29/06/2024
+- 🧰 [VAR giúp Đức hạ Đan Mạch ở vòng 1/8 Euro](https://vnexpress.net/ket-qua-duc-vs-dan-mach-4764305-tong-thuat.html) - 18:25 29/06/2024
+- 🤗 [Thụy Sĩ biến Italy thành cựu vương Euro](https://vnexpress.net/truc-tiep-tran-thuy-si-vs-italy-o-euro-2024-4764290-tong-thuat.html) - 15:00 29/06/2024
+- 🥳 [Argentina - Peru: Giữ sức chờ tứ kết](https://vnexpress.net/argentina-peru-giu-suc-cho-tu-ket-4764289.html) - 14:58 29/06/2024
+- 🦣 [Vì sao thẻ phạt tăng đột biến ở Euro 2024?](https://vnexpress.net/vi-sao-the-phat-tang-dot-bien-o-euro-2024-4764268.html) - 12:48 29/06/2024
+- 🌜 [PVF CAND giành vé đá play-off tranh suất dự V-League](https://vnexpress.net/pvf-cand-gianh-ve-da-play-off-tranh-suat-du-v-league-4764267.html) - 12:35 29/06/2024
+- 🫶 [Hà Hậu vô địch giải chạy địa hình Singapore](https://vnexpress.net/ha-hau-vo-dich-giai-chay-dia-hinh-singapore-4764224.html) - 12:26 29/06/2024
+- 🌜 [Đan Mạch tính chuyện hạ Đức bằng loạt luân lưu](https://vnexpress.net/dan-mach-tinh-chuyen-ha-duc-bang-loat-luan-luu-4764170.html) - 12:00 29/06/2024
+- 😺 [Đức - Đan Mạch: Giải mã ngựa ô](https://vnexpress.net/duc-dan-mach-giai-ma-ngua-o-4764229.html) - 12:00 29/06/2024
+- 👍 [Italy - Thụy Sĩ: Khả năng phải đá luân lưu](https://vnexpress.net/italy-thuy-si-kha-nang-phai-da-luan-luu-4764208.html) - 10:00 29/06/2024
+- 🐵 [Trùng hợp ngẫu nhiên về trọng tài ở các trận chung kết Euro](https://vnexpress.net/trung-hop-ngau-nhien-ve-trong-tai-o-cac-tran-chung-ket-euro-4764216.html) - 09:46 29/06/2024
+- 💫 [Đan Mạch muốn tái hiện &#39;cổ tích Euro 1992&#39; khi gặp Đức](https://vnexpress.net/dan-mach-muon-tai-hien-co-tich-euro-1992-khi-gap-duc-4764203.html) - 08:42 29/06/2024
+- 🦆 [CĐV Anh: &#39;Tôi mơ vô địch Euro 2024, nhưng tỉnh dậy với cơn ác mộng&#39;](https://vnexpress.net/cdv-anh-toi-mo-vo-dich-euro-2024-nhung-tinh-day-voi-con-ac-mong-4764201.html) - 08:26 29/06/2024
+- 🙉 [Pepe: &#39;Ronaldo sống để ghi bàn&#39;](https://vnexpress.net/pepe-ronaldo-song-de-ghi-ban-4764186.html) - 07:55 29/06/2024
+- 📝 [Huyền thoại Zenga: &#39;Khung thành Italy nhỏ hơn với Donnarumma&#39;](https://vnexpress.net/huyen-thoai-zenga-khung-thanh-italy-nho-hon-voi-donnarumma-4764181.html) - 07:34 29/06/2024
+- 💯 [Spalletti: &#39;Italy sẽ không tính toán kể từ vòng 1/8&#39;](https://vnexpress.net/spalletti-italy-se-khong-tinh-toan-ke-tu-vong-1-8-4764145.html) - 07:10 29/06/2024
+- 🌈 [Euro 2024 vào giai đoạn knock-out](https://vnexpress.net/euro-2024-vao-giai-doan-knock-out-4764127.html) - 06:57 29/06/2024
+- 🦩 [HLV Nagelsmann muốn kết liễu sớm Đan Mạch](https://vnexpress.net/hlv-nagelsmann-muon-ket-lieu-som-dan-mach-4764157.html) - 06:18 29/06/2024
+- 🐲 [Euro ngày 29/6: Cầu thủ Đức trồng cây để cầu may mắn](https://vnexpress.net/euro-ngay-29-6-4764125.html) - 04:30 29/06/2024
+- 🌁 [Vinicius chói sáng trong chiến thắng đậm của Brazil](https://vnexpress.net/vinicius-choi-sang-trong-chien-thang-dam-cua-brazil-4764079.html) - 03:44 29/06/2024
+- 💯 [Bản tin Euro: Siêu máy tính đoán Anh và Tây Ban Nha vào chung kết](https://vnexpress.net/ban-tin-euro-sieu-may-tinh-doan-anh-va-tay-ban-nha-vao-chung-ket-4764099.html) - 03:23 29/06/2024
+- 🌝 [L&#39;Équipe: &#39;Deschamps làm chia rẽ nội bộ tuyển Pháp&#39;](https://vnexpress.net/l-equipe-deschamps-lam-chia-re-noi-bo-tuyen-phap-4764078.html) - 02:20 29/06/2024
+- 🤖 [Hàng trăm gia đình trải nghiệm ngày hội Libera Fun Fest](https://vnexpress.net/hang-tram-gia-dinh-trai-nghiem-ngay-hoi-libera-fun-fest-4763758.html) - 01:00 29/06/2024
+- 🕯 [Các ông lớn được dự đoán toàn thắng vòng 1/8 Euro 2024](https://vnexpress.net/cac-ong-lon-duoc-du-doan-toan-thang-vong-1-8-euro-2024-4764037.html) - 00:57 29/06/2024
+- 🧰 [Tài năng Thổ Nhĩ Kỳ tăng fan nhiều hơn Ronaldo và Mbappe](https://vnexpress.net/tai-nang-tho-nhi-ky-tang-fan-nhieu-hon-ronaldo-va-mbappe-4764019.html) - 23:43 28/06/2024
+- 🥳 [Điều gì khiến vòng bảng Euro 2024 hay bậc nhất lịch sử?](https://vnexpress.net/dieu-gi-khien-vong-bang-euro-2024-hay-bac-nhat-lich-su-4764017.html) - 23:30 28/06/2024
+- 👍 [Ronaldo - nguồn cảm hứng cho sự trỗi dậy của bóng đá Gruzia](https://vnexpress.net/ronaldo-nguon-cam-hung-cho-su-troi-day-cua-bong-da-gruzia-4763920.html) - 23:10 28/06/2024
+- 💪 [LeBron James và con trai cùng chơi NBA](https://vnexpress.net/lebron-james-va-con-trai-cung-choi-nba-4764014.html) - 23:08 28/06/2024
+- 👹 [Wimbledon tạo mốc tiền thưởng kỷ lục](https://vnexpress.net/wimbledon-tao-moc-tien-thuong-ky-luc-4764010.html) - 23:01 28/06/2024
+- 🧰 [Vòng bảng Euro 2024 đáng quên của Ronaldo](https://vnexpress.net/vong-bang-euro-2024-dang-quen-cua-ronaldo-4763754.html) - 17:00 28/06/2024
+- 🚀 [5 nỗi thất vọng ở vòng bảng Euro 2024](https://vnexpress.net/5-noi-that-vong-o-vong-bang-euro-2024-4763572.html) - 17:00 28/06/2024
+- 🎃 [Djokovic, Alcaraz không gặp nhau trước chung kết Wimbledon](https://vnexpress.net/djokovic-alcaraz-khong-gap-nhau-truoc-chung-ket-wimbledon-4764003.html) - 16:45 28/06/2024
+- 🧰 [Runner xếp hàng nhận Bib sớm giải chạy Libera Fun Fest](https://vnexpress.net/runner-xep-hang-nhan-bib-som-giai-chay-libera-fun-fest-4763721.html) - 10:30 28/06/2024
+- 👀 [Brazil - Paraguay: Chờ màn trình diễn bùng nổ](https://vnexpress.net/brazil-paraguay-cho-man-trinh-dien-bung-no-4763907.html) - 09:04 28/06/2024
+- 🌜 [Croatia và hồi kết của một kỷ nguyên vàng](https://vnexpress.net/croatia-va-hoi-ket-cua-mot-ky-nguyen-vang-4763764.html) - 08:32 28/06/2024
+- 🫶 [Motive tài trợ trang phục giải chạy Libera Fun Fest Nha Trang](https://vnexpress.net/motive-tai-tro-trang-phuc-giai-chay-libera-fun-fest-nha-trang-4764113.html) - 08:00 28/06/2024
+- 🦄 [Yamal tốt nghiệp trung học trước khi đá vòng 1/8 Euro 2024](https://vnexpress.net/yamal-tot-nghiep-trung-hoc-truoc-khi-da-vong-1-8-euro-2024-4763847.html) - 07:27 28/06/2024
+- 🥳 [Uruguay đại thắng ở Copa America 2024](https://vnexpress.net/uruguay-dai-thang-o-copa-america-2024-4763794.html) - 06:04 28/06/2024
+- 🐲 [Tiền vệ Thụy Sĩ: &#39;Italy không bao giờ chết&#39;](https://vnexpress.net/tien-ve-thuy-si-italy-khong-bao-gio-chet-4763698.html) - 06:00 28/06/2024
+- 🧑‍🏫 [Đội hình hay nhất vòng bảng Euro 2024](https://vnexpress.net/doi-hinh-hay-nhat-vong-bang-euro-2024-4763792.html) - 05:28 28/06/2024
+- 🤔 [Những cái nhất vòng bảng Euro 2024](https://vnexpress.net/nhung-cai-nhat-vong-bang-euro-2024-4763748.html) - 05:05 28/06/2024
+- 😺 [Djokovic đấu Sinner trước Wimbledon](https://vnexpress.net/djokovic-dau-sinner-truoc-wimbledon-4763776.html) - 04:57 28/06/2024
+- 💪 [Bản tin Euro: Các cầu thủ Real ghi nhiều bàn nhất Euro 2024](https://vnexpress.net/ban-tin-euro-cac-cau-thu-real-ghi-nhieu-ban-nhat-euro-2024-4763677.html) - 04:36 28/06/2024
+- 💼 [Euro ngày 28/6: Anh giấu thông tin tập luân lưu trước vòng 1/8](https://vnexpress.net/tin-tuc-euro-ngay-28-6-4763737.html) - 04:30 28/06/2024
+- 🕴 [Mỹ thua sốc ở Copa America 2024](https://vnexpress.net/my-thua-soc-o-copa-america-2024-4763769.html) - 04:16 28/06/2024
+- 🕯 [Sự bạc nhược của tuyển Bỉ](https://vnexpress.net/su-bac-nhuoc-cua-tuyen-bi-4763679.html) - 02:47 28/06/2024
+- 📝 [Giày Goya đồng hành cùng các giải marathon Việt](https://vnexpress.net/giay-goya-dong-hanh-cung-cac-giai-marathon-viet-4762702.html) - 02:00 28/06/2024
+- 🧐 [Libera Fun Fest sẵn sàng đón 4.500 runner](https://vnexpress.net/libera-fun-fest-san-sang-don-4-500-runner-4762924.html) - 00:53 28/06/2024
+- 🙉 [Materazzi: &#39;Italy rộng cửa vào chung kết Euro 2024&#39;](https://vnexpress.net/materazzi-italy-rong-cua-vao-chung-ket-euro-2024-4763601.html) - 00:50 28/06/2024
+- 🏊 [Nỗi niềm của CĐV Ukraine](https://vnexpress.net/noi-niem-cua-cdv-ukraine-4763584.html) - 00:00 28/06/2024
+- 🌊 [Những điểm nhấn ở vòng bảng Euro 2024](https://vnexpress.net/nhung-diem-nhan-o-vong-bang-euro-2024-4763377.html) - 23:14 27/06/2024
+- 👨‍🏫 [5 gương mặt tỏa sáng ở vòng bảng Euro 2024](https://vnexpress.net/5-guong-mat-toa-sang-o-vong-bang-euro-2024-4763559.html) - 23:07 27/06/2024
+- 🥷 [Gruzia được thưởng hơn 10 triệu USD nhờ đánh bại Bồ Đào Nha](https://vnexpress.net/gruzia-duoc-thuong-hon-10-trieu-usd-nho-danh-bai-bo-dao-nha-4763580.html) - 22:59 27/06/2024
+- ⚗️ [Những kỷ lục bị xô đổ sau vòng bảng Euro 2024](https://vnexpress.net/nhung-ky-luc-bi-xo-do-sau-vong-bang-euro-2024-4763528.html) - 22:57 27/06/2024
+- 🌮 [Ronaldo bị quấy rối nhiều nhất ở Euro 2024](https://vnexpress.net/ronaldo-bi-quay-roi-nhieu-nhat-o-euro-2024-4763574.html) - 22:43 27/06/2024
+- 🤩 [Southgate: &#39;Tôi là vấn đề của tuyển Anh&#39;](https://vnexpress.net/southgate-toi-la-van-de-cua-tuyen-anh-4763471.html) - 12:00 27/06/2024
+- 🏊 [Báo Anh, Hà Lan cảm ơn Gruzia đã thắng Bồ Đào Nha](https://vnexpress.net/bao-anh-ha-lan-cam-on-gruzia-da-thang-bo-dao-nha-4763403.html) - 12:00 27/06/2024
+- 🐎 [Cua-rơ trẻ Đồng Tháp qua đời vì tai nạn giao thông](https://vnexpress.net/cua-ro-tre-dong-thap-qua-doi-vi-tai-nan-giao-thong-4763504.html) - 11:02 27/06/2024
+- 💫 [Indonesia đụng Nhật Bản, Australia ở vòng loại ba World Cup 2026](https://vnexpress.net/indonesia-dung-nhat-ban-australia-o-vong-loai-ba-world-cup-2026-4763496.html) - 10:30 27/06/2024<!-- vnexpress-the-thao:END -->
