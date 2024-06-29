@@ -28,7 +28,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- vnexpress:START -->
 - 🚀 [Loạt ôtô mới ra mắt khách Việt trong tháng 6](https://vnexpress.net/loat-oto-moi-ra-mat-khach-viet-trong-thang-6-4764223.html) - 21:00 29/06/2024
 - 🧰 [Vì sao nhiều người trẻ ám ảnh cảm giác &#39;mình bất tài&#39;?](https://vnexpress.net/vi-sao-nhieu-nguoi-tre-am-anh-cam-giac-minh-bat-tai-4764298.html) - 21:00 29/06/2024
-- 🥰 [VAR giúp Đức hạ Đan Mạch ở vòng 1/8 Euro](https://vnexpress.net/ket-qua-duc-vs-dan-mach-4764305.html) - 18:25 29/06/2024
+- 🥰 [Đức 2-0 Đan Mạch &lpar;H2&rpar;: Musiala nhân đôi cách biệt](https://vnexpress.net/truc-tiep-duc-vs-dan-mach-4764305.html) - 18:25 29/06/2024
 - 🌏 [Các bàn thắng trận Italy - Thụy Sĩ](https://vnexpress.net/cac-ban-thang-tran-italy-thuy-si-4764301.html) - 18:24 29/06/2024
 - 🧐 [Highlight trận Italy 0-2 Thụy Sĩ: Mất ngôi](https://vnexpress.net/highlight-tran-italy-0-2-thuy-si-mat-ngoi-4764303.html) - 18:23 29/06/2024
 - 💫 [Mỹ nỗ lực ngăn chiến tranh Israel - Hezbollah](https://vnexpress.net/my-no-luc-ngan-chien-tranh-israel-hezbollah-4763623.html) - 17:11 29/06/2024
