@@ -13,7 +13,7 @@ sidebar_position: 1
 - 🦏 [Lao động bị nợ bảo hiểm xã hội sẽ được hưởng hưu trí, tử tuất](https://vnexpress.net/lao-dong-bi-no-bao-hiem-xa-hoi-se-duoc-huong-huu-tri-tu-tuat-4764087.html) - 03:40 29/06/2024
 - 👺 [Quốc hội chốt tăng lương cơ sở lên 2,34 triệu đồng từ 1/7](https://vnexpress.net/quoc-hoi-chot-tang-luong-co-so-len-2-34-trieu-dong-tu-1-7-4764081.html) - 03:26 29/06/2024
 - 🧑‍🏫 [Người sở hữu vũ khí trưng bày phải khai báo](https://vnexpress.net/nguoi-so-huu-vu-khi-trung-bay-phai-khai-bao-4764052.html) - 02:21 29/06/2024
-- 🚦 [Người bắt đầu tham gia bảo hiểm xã hội sau 1/7/2025 bị hạn chế rút một lần](https://vnexpress.net/nguoi-bat-dau-tham-gia-bao-hiem-xa-hoi-sau-1-7-2025-bi-han-che-rut-mot-lan-4764036.html) - 01:53 29/06/2024
+- 🚦 [Người bắt đầu tham gia bảo hiểm xã hội sau 1/7/2025 không được rút một lần](https://vnexpress.net/nguoi-bat-dau-tham-gia-bao-hiem-xa-hoi-sau-1-7-2025-khong-duoc-rut-mot-lan-4764036.html) - 01:53 29/06/2024
 - 🎉 [Cuộc sống nơi người dân phải &#39;chia ca ngủ&#39; ở trung tâm TP HCM](https://vnexpress.net/cuoc-song-noi-nguoi-dan-phai-chia-ca-ngu-o-trung-tam-tp-hcm-4764013.html) - 01:14 29/06/2024
 - 🦒 [Nghề làm than đước hơn 100 năm ở xứ Đất Mũi](https://vnexpress.net/nghe-lam-than-duoc-hon-100-nam-o-xu-dat-mui-4763844.html) - 01:00 29/06/2024
 - 🤗 [Hôm nay Quốc hội thông qua Luật bảo hiểm xã hội sửa đổi](https://vnexpress.net/hom-nay-quoc-hoi-thong-qua-luat-bao-hiem-xa-hoi-sua-doi-4763984.html) - 21:00 28/06/2024
