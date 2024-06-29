@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Euro ngày 29/6: Eriksen bị đau dạ dày](https://vnexpress.net/euro-ngay-29-6-4764125.html) - 04:30 29/06/2024
+- 🪜 [Euro ngày 29/6: Rangnick cho Áo tập luân lưu theo phương pháp đặc biệt](https://vnexpress.net/euro-ngay-29-6-4764125.html) - 04:30 29/06/2024
 - 🦩 [Vinicius chói sáng trong chiến thắng đậm của Brazil](https://vnexpress.net/vinicius-choi-sang-trong-chien-thang-dam-cua-brazil-4764079.html) - 03:44 29/06/2024
 - 🧰 [Bản tin Euro: Siêu máy tính đoán Anh và Tây Ban Nha vào chung kết](https://vnexpress.net/ban-tin-euro-sieu-may-tinh-doan-anh-va-tay-ban-nha-vao-chung-ket-4764099.html) - 03:23 29/06/2024
 - 🤗 [L&#39;Équipe: &#39;Deschamps làm chia rẽ nội bộ tuyển Pháp&#39;](https://vnexpress.net/l-equipe-deschamps-lam-chia-re-noi-bo-tuyen-phap-4764078.html) - 02:20 29/06/2024
