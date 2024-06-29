@@ -214,7 +214,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- laodong:START -->
 - 🗽 [Link xem trực tiếp bóng đá Canada vs Chile tại Copa America 2024](https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-canada-vs-chile-tai-copa-america-2024-1359553.ldo) - 18:30 29/06/2024
 - 📝 [Link xem trực tiếp bóng đá Argentina vs Peru tại Copa America 2024](https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-argentina-vs-peru-tai-copa-america-2024-1359550.ldo) - 18:00 29/06/2024
-- 🦏 [Trực tiếp bóng đá Đức 2-0 Đan Mạch: Musiala nhân đôi cách biệt](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-duc-2-0-dan-mach-musiala-nhan-doi-cach-biet-1359566.ldo) - 18:00 29/06/2024
+- 🦏 [Schmeichel không thể ngăn đội tuyển Đức vào tứ kết EURO 2024](https://laodong.vn/bong-da-quoc-te/schmeichel-khong-the-ngan-doi-tuyen-duc-vao-tu-ket-euro-2024-1359566.ldo) - 18:00 29/06/2024
 - 🦩 [Giảm cân với chế độ ăn kiêng kiểu Nhật Bản](https://laodong.vn/suc-khoe/giam-can-voi-che-do-an-kieng-kieu-nhat-ban-1359540.ldo) - 16:00 29/06/2024
 - 🦏 [“Nàng” voi Bubi dự đoán tuyển Đức thắng Đan Mạch](https://laodong.vn/the-thao/nang-voi-bubi-du-doan-tuyen-duc-thang-dan-mach-1359558.ldo) - 15:37 29/06/2024
 - 🧰 [Khánh thành đường dây và trạm biến áp 110kV 125 tỉ đồng ở Hải Phòng](https://laodong.vn/kinh-doanh/khanh-thanh-duong-day-va-tram-bien-ap-110kv-125-ti-dong-o-hai-phong-1359557.ldo) - 15:30 29/06/2024
