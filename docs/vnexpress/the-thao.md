@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Đức 2-0 Đan Mạch &lpar;H2&rpar;: Musiala nhân đôi cách biệt](https://vnexpress.net/truc-tiep-duc-vs-dan-mach-4764305.html) - 18:25 29/06/2024
+- 🪜 [VAR giúp Đức hạ Đan Mạch ở vòng 1/8 Euro](https://vnexpress.net/ket-qua-duc-vs-dan-mach-4764305.html) - 18:25 29/06/2024
 - 🦩 [Thụy Sĩ biến Italy thành cựu vương Euro](https://vnexpress.net/truc-tiep-tran-thuy-si-vs-italy-o-euro-2024-4764290-tong-thuat.html) - 15:00 29/06/2024
 - 🧰 [Argentina - Peru: Giữ sức chờ tứ kết](https://vnexpress.net/argentina-peru-giu-suc-cho-tu-ket-4764289.html) - 14:58 29/06/2024
 - 🤗 [Vì sao thẻ phạt tăng đột biến ở Euro 2024?](https://vnexpress.net/vi-sao-the-phat-tang-dot-bien-o-euro-2024-4764268.html) - 12:48 29/06/2024
