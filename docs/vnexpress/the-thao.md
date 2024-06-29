@@ -13,7 +13,7 @@ sidebar_position: 5
 - 🌜 [Spalletti: &#39;Italy sẽ không tính toán kể từ vòng 1/8&#39;](https://vnexpress.net/spalletti-italy-se-khong-tinh-toan-ke-tu-vong-1-8-4764145.html) - 07:10 29/06/2024
 - 🫶 [Euro 2024 vào giai đoạn knock-out](https://vnexpress.net/euro-2024-vao-giai-doan-knock-out-4764127.html) - 06:57 29/06/2024
 - 🌜 [HLV Nagelsmann muốn kết liễu sớm Đan Mạch](https://vnexpress.net/hlv-nagelsmann-muon-ket-lieu-som-dan-mach-4764157.html) - 06:18 29/06/2024
-- 😺 [Euro ngày 29/6: 10.000 CĐV đến sân cổ vũ cho Đan Mạch](https://vnexpress.net/euro-ngay-29-6-4764125.html) - 04:30 29/06/2024
+- 😺 [Euro ngày 29/6: Capello mách cách hạ Thụy Sĩ cho Italy](https://vnexpress.net/euro-ngay-29-6-4764125.html) - 04:30 29/06/2024
 - 👍 [Vinicius chói sáng trong chiến thắng đậm của Brazil](https://vnexpress.net/vinicius-choi-sang-trong-chien-thang-dam-cua-brazil-4764079.html) - 03:44 29/06/2024
 - 🐵 [Bản tin Euro: Siêu máy tính đoán Anh và Tây Ban Nha vào chung kết](https://vnexpress.net/ban-tin-euro-sieu-may-tinh-doan-anh-va-tay-ban-nha-vao-chung-ket-4764099.html) - 03:23 29/06/2024
 - 💫 [L&#39;Équipe: &#39;Deschamps làm chia rẽ nội bộ tuyển Pháp&#39;](https://vnexpress.net/l-equipe-deschamps-lam-chia-re-noi-bo-tuyen-phap-4764078.html) - 02:20 29/06/2024
