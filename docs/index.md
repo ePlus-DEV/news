@@ -342,10 +342,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🫣 [Ép mình theo những lá số](https://www.sggp.org.vn/ep-minh-theo-nhung-la-so-post746874.html) - 11:03 29/06/2024
 - 🎭 [Cựu sao Tottenham bị ngưng tim, có nguy cơ giải nghệ](https://www.sggp.org.vn/cuu-sao-tottenham-bi-ngung-tim-co-nguy-co-giai-nghe-post746960.html) - 11:02 29/06/2024
 - 🫶 [Truyền dịch trái phép trong quán cà phê, người phụ nữ bị phạt 80 triệu đồng](https://www.sggp.org.vn/truyen-dich-trai-phep-trong-quan-ca-phe-nguoi-phu-nu-bi-phat-80-trieu-dong-post746962.html) - 10:24 29/06/2024
-- 🎓 [Khởi tố nhóm thanh niên “bay lắc” trong chung cư sang trọng](https://www.sggp.org.vn/khoi-to-nhom-thanh-nien-bay-lac-trong-chung-cu-sang-trong-post746969.html) - 10:20 29/06/2024
+- 🎓 [Khởi tố nhóm thanh niên “bay lắc” trong chung cư hạng sang](https://www.sggp.org.vn/khoi-to-nhom-thanh-nien-bay-lac-trong-chung-cu-hang-sang-post746969.html) - 10:20 29/06/2024
 - 🤡 [Bình Dương: Một tài xế tử vong sau vụ tai nạn giao thông liên hoàn](https://www.sggp.org.vn/binh-duong-mot-tai-xe-tu-vong-sau-vu-tai-nan-giao-thong-lien-hoan-post746964.html) - 10:17 29/06/2024
 - 🦅 [“Cùng ngư dân thắp sáng đèn trên biển” đến với tỉnh Quảng Ngãi](https://www.sggp.org.vn/cung-ngu-dan-thap-sang-den-tren-bien-den-voi-tinh-quang-ngai-post746966.html) - 10:13 29/06/2024
-- 🧑‍🏫 [Bắt 2 băng nhóm cướp giật, tiêu thụ xe gian xuyên quốc gia](https://www.sggp.org.vn/bat-2-bang-nhom-cuop-giat-tieu-thu-xe-gian-xuyen-quoc-gia-post746968.html) - 10:05 29/06/2024
+- 🧑‍🏫 [Bắt giữ 2 băng nhóm cướp giật, tiêu thụ xe gian xuyên quốc gia](https://www.sggp.org.vn/bat-giu-2-bang-nhom-cuop-giat-tieu-thu-xe-gian-xuyen-quoc-gia-post746968.html) - 10:05 29/06/2024
 - 🕴 [Cháy lớn tại cửa hàng kinh doanh đồ gia dụng ở Hà Tĩnh](https://www.sggp.org.vn/chay-lon-tai-cua-hang-kinh-doanh-do-gia-dung-o-ha-tinh-post746959.html) - 09:53 29/06/2024
 - 🦆 [Ngày Quốc tế Yoga với chủ đề &quot;Yoga vì bản thân và xã hội&quot;](https://www.sggp.org.vn/ngay-quoc-te-yoga-voi-chu-de-yoga-vi-ban-than-va-xa-hoi-post746955.html) - 09:48 29/06/2024
 - 🎃 [Không gian để các gia đình gắn kết, yêu thương](https://www.sggp.org.vn/khong-gian-de-cac-gia-dinh-gan-ket-yeu-thuong-post746958.html) - 09:44 29/06/2024
