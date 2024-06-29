@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Thụy Sĩ 2-0 Italy &lpar;H2&rpar;: Scamacca sút dội cột](https://vnexpress.net/truc-tiep-tran-thuy-si-vs-italy-o-euro-2024-4764290.html) - 15:00 29/06/2024
+- 🪜 [Thụy Sĩ biến Italy thành cựu vương Euro](https://vnexpress.net/truc-tiep-tran-thuy-si-vs-italy-o-euro-2024-4764290.html) - 15:00 29/06/2024
 - 🦩 [Argentina - Peru: Giữ sức chờ tứ kết](https://vnexpress.net/argentina-peru-giu-suc-cho-tu-ket-4764289.html) - 14:58 29/06/2024
 - 🧰 [Vì sao thẻ phạt tăng đột biến ở Euro 2024?](https://vnexpress.net/vi-sao-the-phat-tang-dot-bien-o-euro-2024-4764268.html) - 12:48 29/06/2024
 - 🤗 [PVF CAND giành vé đá play-off tranh suất dự V-League](https://vnexpress.net/pvf-cand-gianh-ve-da-play-off-tranh-suat-du-v-league-4764267.html) - 12:35 29/06/2024
