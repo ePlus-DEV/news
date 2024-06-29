@@ -246,7 +246,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Phát hiện vợ tại khách sạn, cầm dao chém bố mẹ vợ thương vong](https://nld.com.vn/phat-hien-vo-tai-khach-san-cam-dao-chem-bo-me-vo-thuong-vong-196240629202002723.htm) - 13:31 29/06/2024
+- 🐎 [Phát hiện vợ tại khách sạn, cầm dao chém bố mẹ &quot;tình địch&quot; thương vong](https://nld.com.vn/phat-hien-vo-tai-khach-san-cam-dao-chem-bo-me-vo-thuong-vong-196240629202002723.htm) - 13:31 29/06/2024
 - 😺 [Báo Người Lao Động trao cờ Tổ quốc và suất hỗ trợ kinh phí học tập tại quận Bình Tân](https://nld.com.vn/bao-nguoi-lao-dong-trao-co-to-quoc-va-suat-ho-tro-kinh-phi-hoc-tap-tai-quan-binh-tan-196240629194013203.htm) - 13:10 29/06/2024
 - 👍 [Nam thanh niên nhảy múa phản cảm dưới vòi tắm ở Hạ Long](https://nld.com.vn/nam-thanh-nien-nhay-mua-phan-cam-duoi-voi-tam-o-ha-long-196240629191657929.htm) - 12:20 29/06/2024
 - 🥷 [Mạng xã hội “rần rần” clip CSGT dùng đèn và còi ưu tiên mở đường đưa thai phụ đi sinh](https://nld.com.vn/thuc-hu-clip-csgt-mo-den-va-coi-uu-tien-dan-duong-o-to-toi-benh-vien-tu-du-196240629181503655.htm) - 11:21 29/06/2024
