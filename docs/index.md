@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Lễ hội đánh cá hơn 300 năm](https://vnexpress.net/le-hoi-danh-ca-hon-300-nam-4764103.html) - 14:07 29/06/2024
+- 🚀 [Chồng Midu muốn bù đắp tổn thương của vợ](https://vnexpress.net/chong-midu-muon-bu-dap-ton-thuong-cua-vo-4764173.html) - 14:31 29/06/2024
 - 🧰 [Trồng xương rồng khổng lồ để bảo vệ đất](https://vnexpress.net/trong-xuong-rong-khong-lo-de-bao-ve-dat-4764141.html) - 14:02 29/06/2024
 - 🥰 [Tình xưa mở đường kết hôn dù tôi U40 không nhà, không xe](https://vnexpress.net/tinh-xua-mo-duong-ket-hon-du-toi-u40-khong-nha-khong-xe-4764230.html) - 14:00 29/06/2024
 - 🌏 [Em không mất niềm tin dù từng đổ vỡ hôn nhân](https://vnexpress.net/em-khong-mat-niem-tin-du-tung-do-vo-hon-nhan-4763993.html) - 14:00 29/06/2024
