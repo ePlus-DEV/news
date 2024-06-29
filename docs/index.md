@@ -245,7 +245,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Nam thanh niên nhảy múa phản cảm dưới vòi tắm ở Hạ Long](https://nld.com.vn/nam-thanh-nien-nhay-mua-phan-cam-duoi-voi-tam-o-ha-long-196240629191657929.htm) - 12:20 29/06/2024
-- 😺 [Mạng xã hội “rần rần” clip CSGT dùng đèn và còi ưu tiên mở đường đưa thai phụ đi sanh](https://nld.com.vn/thuc-hu-clip-csgt-mo-den-va-coi-uu-tien-dan-duong-o-to-toi-benh-vien-tu-du-196240629181503655.htm) - 11:21 29/06/2024
+- 😺 [Mạng xã hội “rần rần” clip CSGT dùng đèn và còi ưu tiên mở đường đưa thai phụ đi sinh](https://nld.com.vn/thuc-hu-clip-csgt-mo-den-va-coi-uu-tien-dan-duong-o-to-toi-benh-vien-tu-du-196240629181503655.htm) - 11:21 29/06/2024
 - 👍 [Thủ tướng Phạm Minh Chính sẽ có hơn 30 hoạt động tại Hàn Quốc](https://nld.com.vn/thu-tuong-pham-minh-chinh-se-co-hon-30-hoat-dong-tai-han-quoc-196240629173758078.htm) - 11:12 29/06/2024
 - 🥷 [Phim &quot;Những mảnh ghép cảm xúc&quot; 2 hút khán giả Việt](https://nld.com.vn/phim-nhung-manh-ghep-cam-xuc-2-hut-khan-gia-viet-19624062916405976.htm) - 11:11 29/06/2024
 - 🤔 [Chỉ huy trưởng ban chỉ huy quân sự xã tổ chức &quot;tiệc&quot; ma túy: Bất ngờ thông tin từ UBND huyện](https://nld.com.vn/chi-huy-truong-ban-chi-huy-quan-su-xa-to-chuc-tiec-ma-tuy-bat-ngo-thong-tin-tu-ubnd-huyen-196240629172819856.htm) - 11:10 29/06/2024
