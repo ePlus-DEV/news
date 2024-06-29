@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Đức 0-0 Đan Mạch &lpar;H1&rpar;: Trận đấu tạm dừng vì sấm chớp](https://vnexpress.net/truc-tiep-duc-vs-dan-mach-4764305.html) - 18:25 29/06/2024
+- 🎬 [Đức 0-0 Đan Mạch &lpar;hết H1&rpar;: Trận đấu gián đoạn](https://vnexpress.net/truc-tiep-duc-vs-dan-mach-4764305.html) - 18:25 29/06/2024
 - 🐎 [Các bàn thắng trận Italy - Thụy Sĩ](https://vnexpress.net/cac-ban-thang-tran-italy-thuy-si-4764301.html) - 18:24 29/06/2024
 - 🦍 [Highlight trận Italy 0-2 Thụy Sĩ: Mất ngôi](https://vnexpress.net/highlight-tran-italy-0-2-thuy-si-mat-ngoi-4764303.html) - 18:23 29/06/2024
 - 🏊 [Mỹ nỗ lực ngăn chiến tranh Israel - Hezbollah](https://vnexpress.net/my-no-luc-ngan-chien-tranh-israel-hezbollah-4763623.html) - 17:11 29/06/2024
