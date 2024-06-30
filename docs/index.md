@@ -27,7 +27,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Có nên bán nhà phố 18 tỷ để mua chung cư và đất nền?](https://vnexpress.net/co-nen-ban-nha-pho-18-ty-de-mua-chung-cu-va-dat-nen-4764516.html) - 19:00 30/06/2024
-- 🧰 [Tây Ban Nha 1-1 Gruzia &lpar;H1&rpar;: Rodri ghi tuyệt phẩm](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-gruzia-o-euro-2024-4764519.html) - 18:18 30/06/2024
+- 🧰 [Tây Ban Nha 1-1 Gruzia &lpar;hết H1&rpar;: Tuyệt phẩm của Rodri](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-gruzia-o-euro-2024-4764519.html) - 18:18 30/06/2024
 - 🥰 [Ôtô Trung Quốc có thể chiếm 33% thị phần toàn cầu trong 2030](https://vnexpress.net/oto-trung-quoc-co-the-chiem-33-thi-phan-toan-cau-trong-2030-4764511.html) - 18:13 30/06/2024
 - 🌏 [Căn hộ 100 m2 với trần cong tối giản, phí cải tạo 500 triệu đồng](https://vnexpress.net/can-ho-100-m2-voi-tran-cong-toi-gian-phi-cai-tao-500-trieu-dong-4764509.html) - 18:07 30/06/2024
 - 🧐 [4 lợi ích khi nam giới không mặc quần lót](https://vnexpress.net/4-loi-ich-khi-nam-gioi-khong-mac-quan-lot-4764029.html) - 18:00 30/06/2024
