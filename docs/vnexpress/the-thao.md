@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [HLV Đan Mạch công kích VAR sau khi thua Đức](https://vnexpress.net/hlv-dan-mach-cong-kich-var-sau-khi-thua-duc-4764328.html) - 01:32 30/06/2024
 - 🦩 [Djokovic nhờ Ibrahimovic giúp hồi phục](https://vnexpress.net/djokovic-nho-ibrahimovic-giup-hoi-phuc-4764318.html) - 23:58 29/06/2024
-- 🧰 [Lautaro giúp Argentina thắng dễ Peru dù không có Messi](https://vnexpress.net/argentina-vs-peru-copa-america-4764324.html) - 23:34 29/06/2024
+- 🧰 [Lautaro giúp Argentina thắng dễ Peru dù vắng Messi](https://vnexpress.net/argentina-vs-peru-copa-america-4764324-tong-thuat.html) - 23:34 29/06/2024
 - 🤗 [Thủ môn Donnarumma xin lỗi CĐV Italy](https://vnexpress.net/thu-mon-donnarumma-xin-loi-cdv-italy-4764322.html) - 23:10 29/06/2024
 - 🥳 [HLV Spalletti: &#39;Cầu thủ Italy không khỏe như Thụy Sĩ&#39;](https://vnexpress.net/hlv-spalletti-cau-thu-italy-khong-khoe-nhu-thuy-si-4764308.html) - 22:50 29/06/2024
 - 🦣 [HLV Thụy Sĩ biết sẽ thắng khi thấy đội hình xuất phát của Italy](https://vnexpress.net/hlv-thuy-si-biet-se-thang-khi-thay-doi-hinh-xuat-phat-cua-italy-4764314.html) - 22:34 29/06/2024
