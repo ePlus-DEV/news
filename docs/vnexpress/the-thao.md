@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Anh - Slovakia: CĐV la ó Southgate](https://vnexpress.net/truc-tiep-tran-anh-vs-slovakia-euro-2024-4764505.html) - 15:30 30/06/2024
+- 🪜 [Anh 0-1 Slovakia &lpar;H1&rpar;: Bất ngờ xảy ra](https://vnexpress.net/truc-tiep-tran-anh-vs-slovakia-euro-2024-4764505.html) - 15:30 30/06/2024
 - 🦩 [VnExpress Marathon Hạ Long tung ưu đãi đặc biệt](https://vnexpress.net/vnexpress-marathon-ha-long-tung-uu-dai-dac-biet-4763877.html) - 13:55 30/06/2024
 - 🧰 [Hà Tĩnh phải đá play-off trụ hạng V-League](https://vnexpress.net/ha-tinh-phai-da-play-off-tru-hang-v-league-4764456.html) - 12:44 30/06/2024
 - 🤗 [Gruzia – &#39;Ngựa ô&#39; thú vị nhất Euro 2024](https://vnexpress.net/gruzia-ngua-o-thu-vi-nhat-euro-2024-4764015.html) - 12:02 30/06/2024
@@ -20,7 +20,7 @@ sidebar_position: 5
 - 🦆 [Tai nạn ám ảnh do sét đánh khiến Đan Mạch xin hoãn trận Đức](https://vnexpress.net/tai-nan-am-anh-do-set-danh-khien-dan-mach-xin-hoan-tran-duc-4764407.html) - 06:43 30/06/2024
 - 🙉 [Euro ngày 30/6: Kane kêu gọi tuyển Anh đồng lòng với HLV Southgate](https://vnexpress.net/euro-ngay-30-6-4764413.html) - 05:34 30/06/2024
 - 📝 [Canada loại Chile khỏi Copa America](https://vnexpress.net/canada-loai-chile-khoi-copa-america-4764346.html) - 04:01 30/06/2024
-- 💯 [Bản tin Euro: Người bịt mặt cầm súng ở trận Đức - Đan Mạch](https://vnexpress.net/ban-tin-euro-nguoi-bit-mat-cam-sung-o-tran-duc-dan-mach-4764389.html) - 03:48 30/06/2024
+- 💯 [Bản tin Euro: Chuyên gia chỉ trích trọng tài về bàn thua của Đan Mạch](https://vnexpress.net/ban-tin-euro-chuyen-gia-chi-trich-trong-tai-ve-ban-thua-cua-dan-mach-4764389.html) - 03:48 30/06/2024
 - 🌈 [HLV Đan Mạch công kích VAR sau khi thua Đức](https://vnexpress.net/hlv-dan-mach-cong-kich-var-sau-khi-thua-duc-4764328.html) - 01:32 30/06/2024
 - 🦩 [Djokovic nhờ Ibrahimovic giúp hồi phục](https://vnexpress.net/djokovic-nho-ibrahimovic-giup-hoi-phuc-4764318.html) - 23:58 29/06/2024
 - 🐲 [Lautaro giúp Argentina thắng dễ Peru dù vắng Messi](https://vnexpress.net/argentina-vs-peru-copa-america-4764324-tong-thuat.html) - 23:34 29/06/2024
