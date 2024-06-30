@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Anh 0-1 Slovakia &lpar;H2&rpar;: Rice sút dội cột](https://vnexpress.net/truc-tiep-tran-anh-vs-slovakia-euro-2024-4764505.html) - 15:30 30/06/2024
+- 🪜 [Anh 2-1 Slovakia &lpar;hiệp phụ&rpar;: Harry Kane ghi bàn](https://vnexpress.net/truc-tiep-tran-anh-vs-slovakia-euro-2024-4764505.html) - 15:30 30/06/2024
 - 🦩 [VnExpress Marathon Hạ Long tung ưu đãi đặc biệt](https://vnexpress.net/vnexpress-marathon-ha-long-tung-uu-dai-dac-biet-4763877.html) - 13:55 30/06/2024
 - 🧰 [Hà Tĩnh phải đá play-off trụ hạng V-League](https://vnexpress.net/ha-tinh-phai-da-play-off-tru-hang-v-league-4764456.html) - 12:44 30/06/2024
 - 🤗 [Gruzia – &#39;Ngựa ô&#39; thú vị nhất Euro 2024](https://vnexpress.net/gruzia-ngua-o-thu-vi-nhat-euro-2024-4764015.html) - 12:02 30/06/2024
