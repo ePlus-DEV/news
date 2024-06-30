@@ -215,7 +215,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- laodong:START -->
 - 🗽 [Link xem trực tiếp bóng đá Mexico vs Ecuador tại Copa America 2024](https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-mexico-vs-ecuador-tai-copa-america-2024-1359876.ldo) - 20:30 30/06/2024
 - 📝 [Link xem trực tiếp bóng đá Jamaica vs Venezuela tại Copa America 2024](https://laodong.vn/bong-da/link-xem-truc-tiep-bong-da-jamaica-vs-venezuela-tai-copa-america-2024-1359878.ldo) - 20:00 30/06/2024
-- 🦏 [Trực tiếp bóng đá Tây Ban Nha 4-1 Georgia: Dani Olmo ghi bàn](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-tay-ban-nha-4-1-georgia-dani-olmo-ghi-ban-1359740.ldo) - 18:00 30/06/2024
+- 🦏 [Tuyển Tây Ban Nha giải mã thành công hiện tượng Georgia tại EURO 2024](https://laodong.vn/bong-da-quoc-te/tuyen-tay-ban-nha-giai-ma-thanh-cong-hien-tuong-georgia-tai-euro-2024-1359740.ldo) - 18:00 30/06/2024
 - 🦩 [2 anh em ruột tử vong trong hố nước công trường tại Phú Thọ](https://laodong.vn/xa-hoi/2-anh-em-ruot-tu-vong-trong-ho-nuoc-cong-truong-tai-phu-tho-1359896.ldo) - 15:33 30/06/2024
 - 🦏 [MG ra mắt đại lý ở Đồng Nai, dần chiếm lĩnh thị trường Đông Nam Bộ](https://laodong.vn/xe/mg-ra-mat-dai-ly-o-dong-nai-dan-chiem-linh-thi-truong-dong-nam-bo-1359904.ldo) - 15:20 30/06/2024
 - 🧰 [Jin BTS tiết lộ kế hoạch sau quân ngũ, gây bất ngờ khi không muốn đóng phim](https://laodong.vn/van-hoa-giai-tri/jin-bts-tiet-lo-ke-hoach-sau-quan-ngu-gay-bat-ngo-khi-khong-muon-dong-phim-1359900.ldo) - 15:07 30/06/2024
