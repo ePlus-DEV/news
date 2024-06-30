@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [HLV Gruzia: &#39;Chúng tôi đã vô địch Euro rồi&#39;](https://vnexpress.net/hlv-gruzia-chung-toi-da-vo-dich-euro-roi-4764311.html) - 07:47 30/06/2024
 - 🦩 [Vì sao tuyển Anh hóa &#39;hổ giấy&#39; tại Euro 2024?](https://vnexpress.net/vi-sao-tuyen-anh-hoa-ho-giay-tai-euro-2024-4764330.html) - 07:27 30/06/2024
 - 🧰 [Tai nạn ám ảnh do sét đánh khiến Đan Mạch xin hoãn trận Đức](https://vnexpress.net/tai-nan-am-anh-do-set-danh-khien-dan-mach-xin-hoan-tran-duc-4764407.html) - 06:43 30/06/2024
-- 🤗 [Euro ngày 30/6: Công nghệ bị chê biến bóng đá thành trò hề](https://vnexpress.net/euro-ngay-30-6-4764413.html) - 05:34 30/06/2024
+- 🤗 [Euro ngày 30/6: Ronaldo chỉ đàn em cách làm xiếc với bóng](https://vnexpress.net/euro-ngay-30-6-4764413.html) - 05:34 30/06/2024
 - 🥳 [Canada loại Chile khỏi Copa America](https://vnexpress.net/canada-loai-chile-khoi-copa-america-4764346.html) - 04:01 30/06/2024
 - 🦣 [Bản tin Euro: Người bịt mặt cầm súng ở trận Đức - Đan Mạch](https://vnexpress.net/ban-tin-euro-nguoi-bit-mat-cam-sung-o-tran-duc-dan-mach-4764389.html) - 03:48 30/06/2024
 - 🌜 [HLV Đan Mạch công kích VAR sau khi thua Đức](https://vnexpress.net/hlv-dan-mach-cong-kich-var-sau-khi-thua-duc-4764328.html) - 01:32 30/06/2024
