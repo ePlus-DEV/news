@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Tây Ban Nha 4-1 Gruzia &lpar;H2&rpar;: Dani Olmo ghi bàn](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-gruzia-o-euro-2024-4764519.html) - 18:18 30/06/2024
+- 🪜 [Tây Ban Nha đè bẹp Gruzia ở vòng 1/8 Euro 2024](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-gruzia-o-euro-2024-4764519.html) - 18:18 30/06/2024
 - 🦩 [Anh thắng ngược Slovakia nhờ siêu phẩm của Bellingham](https://vnexpress.net/truc-tiep-tran-anh-vs-slovakia-euro-2024-4764505-tong-thuat.html) - 15:30 30/06/2024
 - 🧰 [VnExpress Marathon Hạ Long tung ưu đãi đặc biệt](https://vnexpress.net/vnexpress-marathon-ha-long-tung-uu-dai-dac-biet-4763877.html) - 13:55 30/06/2024
 - 🤗 [Hà Tĩnh phải đá play-off trụ hạng V-League](https://vnexpress.net/ha-tinh-phai-da-play-off-tru-hang-v-league-4764456.html) - 12:44 30/06/2024
