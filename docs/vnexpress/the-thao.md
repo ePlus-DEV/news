@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Euro ngày 30/6: Dớp buồn của nhà vô địch](https://vnexpress.net/euro-ngay-30-6-4764413.html) - 05:34 30/06/2024
+- 🪜 [Euro ngày 30/6: Người Anh lo đội nhà thua Thụy Sĩ ở tứ kết](https://vnexpress.net/euro-ngay-30-6-4764413.html) - 05:34 30/06/2024
 - 🦩 [Canada loại Chile khỏi Copa America](https://vnexpress.net/canada-loai-chile-khoi-copa-america-4764346.html) - 04:01 30/06/2024
 - 🧰 [Bản tin Euro: Người bịt mặt cầm súng ở trận Đức - Đan Mạch](https://vnexpress.net/ban-tin-euro-nguoi-bit-mat-cam-sung-o-tran-duc-dan-mach-4764389.html) - 03:48 30/06/2024
 - 🤗 [HLV Đan Mạch công kích VAR sau khi thua Đức](https://vnexpress.net/hlv-dan-mach-cong-kich-var-sau-khi-thua-duc-4764328.html) - 01:32 30/06/2024
