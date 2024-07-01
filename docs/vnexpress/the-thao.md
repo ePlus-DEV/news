@@ -9,7 +9,7 @@ sidebar_position: 5
 - 🧰 [Hà Nội FC gia hạn với Phạm Tuấn Hải bằng điều khoản đặc biệt](https://vnexpress.net/ha-noi-fc-gia-han-voi-pham-tuan-hai-bang-dieu-khoan-dac-biet-4764740.html) - 05:25 01/07/2024
 - 🤗 [Verstappen - Norris va chạm, giúp Russell về nhất Grand Prix Áo](https://vnexpress.net/verstappen-norris-va-cham-giup-russell-ve-nhat-grand-prix-ao-4764614.html) - 04:40 01/07/2024
 - 🥳 [Bản tin Euro: Pháp, Bỉ và Bồ Đào Nha tranh vé tứ kết Euro 2024](https://vnexpress.net/ban-tin-euro-phap-bi-va-bo-dao-nha-tranh-ve-tu-ket-euro-2024-4764699.html) - 04:30 01/07/2024
-- 🦣 [Euro ngày 1/7: Huyền thoại Pháp xem thường tuyển Bỉ](https://vnexpress.net/cap-nhat-tin-tuc-euro-ngay-1-7-4764669.html) - 04:30 01/07/2024
+- 🦣 [Euro ngày 1/7: Mbappe sẵn sàng tặng áo kẻ dọa đốn chân](https://vnexpress.net/cap-nhat-tin-tuc-euro-ngay-1-7-4764669.html) - 04:30 01/07/2024
 - 🌜 [Hai sao trẻ Tây Ban Nha chơi oẳn tù tì tranh uống nước](https://vnexpress.net/hai-sao-tre-tay-ban-nha-choi-oan-tu-ti-tranh-uong-nuoc-4764608.html) - 04:24 01/07/2024
 - 🫶 [Neville: &#39;Anh tệ cả 4 trận, nhưng vẫn vào tứ kết Euro&#39;](https://vnexpress.net/neville-anh-te-ca-4-tran-nhung-van-vao-tu-ket-euro-4764675.html) - 03:57 01/07/2024
 - 🌜 [Tuyển thủ Anh lăng mạ HLV Slovakia](https://vnexpress.net/tuyen-thu-anh-lang-ma-hlv-slovakia-4764630.html) - 03:25 01/07/2024
