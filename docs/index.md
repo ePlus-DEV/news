@@ -210,7 +210,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp bóng đá Bồ Đào Nha 0-0 Slovenia: Đá luân lưu](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-bo-dao-nha-0-0-slovenia-da-luan-luu-1360392.ldo) - 18:15 01/07/2024
+- 🗽 [Người hùng Diogo Costa phá 3 quả 11m đưa Bồ Đào Nha vào tứ kết EURO 2024](https://laodong.vn/bong-da-quoc-te/nguoi-hung-diogo-costa-pha-3-qua-11m-dua-bo-dao-nha-vao-tu-ket-euro-2024-1360392.ldo) - 18:15 01/07/2024
 - 📝 [Link xem trực tiếp bóng đá Panama vs Bolivia tại Copa America 2024](https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-panama-vs-bolivia-tai-copa-america-2024-1360318.ldo) - 18:00 01/07/2024
 - 🦏 [Link xem trực tiếp bóng đá Mỹ vs Uruguay tại Copa America 2024](https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-my-vs-uruguay-tai-copa-america-2024-1360332.ldo) - 17:30 01/07/2024
 - 🦩 [U16 Việt Nam gặp U16 Indonesia tranh hạng 3 giải U16 Đông Nam Á 2024](https://laodong.vn/bong-da/u16-viet-nam-gap-u16-indonesia-tranh-hang-3-giai-u16-dong-nam-a-2024-1360427.ldo) - 16:03 01/07/2024
