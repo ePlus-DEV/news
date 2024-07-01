@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Trường ở Hà Nội giảm hơn 16 điểm chuẩn lớp 10](https://vnexpress.net/truong-o-ha-noi-giam-hon-16-diem-chuan-lop-10-4764952.html) - 13:55 01/07/2024
-- 🦆 [Nhiều trường ở Hà Nội lấy điểm chuẩn 3-4 điểm một môn](https://vnexpress.net/nhieu-truong-o-ha-noi-lay-diem-chuan-3-4-diem-mot-mon-4764923.html) - 12:57 01/07/2024
+- 🦆 [3-4 điểm mỗi môn đỗ lớp 10 nhiều trường công ở Hà Nội](https://vnexpress.net/3-4-diem-moi-mon-do-lop-10-nhieu-truong-cong-o-ha-noi-4764923.html) - 12:57 01/07/2024
 - 🦩 [10 trường lấy điểm chuẩn lớp 10 cao nhất Hà Nội](https://vnexpress.net/10-truong-lay-diem-chuan-lop-10-cao-nhat-ha-noi-4764936.html) - 12:17 01/07/2024
 - 🌮 [ĐH Khoa học Tự nhiên TP HCM lấy điểm chuẩn tuyệt đối](https://vnexpress.net/diem-chuan-hoc-ba-dai-hoc-khoa-hoc-tu-nhien-tp-hcm-2024-4764914.html) - 11:49 01/07/2024
 - 🔭 [Hướng dẫn nhập học lớp 10 công lập ở Hà Nội](https://vnexpress.net/huong-dan-nhap-hoc-lop-10-cong-lap-o-ha-noi-4764518.html) - 11:37 01/07/2024
