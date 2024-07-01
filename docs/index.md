@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Bồ Đào Nha - Slovenia: Ronaldo đá chính](https://vnexpress.net/truc-tiep-bo-dao-nha-vs-slovenia-4764987.html) - 18:10 01/07/2024
+- 🚀 [Bồ Đào Nha 0-0 Slovenia &lpar;H1&rpar;: Ronaldo bỏ lỡ](https://vnexpress.net/truc-tiep-bo-dao-nha-vs-slovenia-4764987.html) - 18:10 01/07/2024
 - 🧰 [Khu phố Nhật Bản chống chọi nạn chết cô độc](https://vnexpress.net/khu-pho-nhat-ban-chong-choi-nan-chet-co-doc-4764766.html) - 18:00 01/07/2024
 - 🥰 [Điều nên và không nên làm sau &#39;cuộc yêu&#39; tốt cho sức khỏe](https://vnexpress.net/dieu-nen-va-khong-nen-lam-sau-cuoc-yeu-tot-cho-suc-khoe-4764345.html) - 18:00 01/07/2024
 - 🌏 [Sai sót thi tốt nghiệp](https://vnexpress.net/sai-sot-thi-tot-nghiep-4764978.html) - 17:07 01/07/2024
