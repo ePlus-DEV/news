@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Pháp - Bỉ: Mbappe, Lukaku đá chính](https://vnexpress.net/truc-tiep-tran-phap-vs-bi-o-euro-2024-4764970.html) - 15:00 01/07/2024
+- 🪜 [Pháp - Bỉ: Pogba khuấy động khán giả](https://vnexpress.net/truc-tiep-tran-phap-vs-bi-o-euro-2024-4764970.html) - 15:00 01/07/2024
 - 🦩 [Tay vợt 17 tuổi qua đời vì ngưng tim ở giải trẻ châu Á](https://vnexpress.net/tay-vot-17-tuoi-qua-doi-vi-ngung-tim-o-giai-tre-chau-a-4764957.html) - 13:28 01/07/2024
 - 🧰 [Bồ Đào Nha - Slovenia: Chờ Ronaldo thông nòng](https://vnexpress.net/bo-dao-nha-slovenia-cho-ronaldo-thong-nong-4764932.html) - 12:00 01/07/2024
 - 🤗 [Ronaldo được khen toàn diện hơn từ khi sang Arab Saudi](https://vnexpress.net/ronaldo-duoc-khen-toan-dien-hon-tu-khi-sang-arab-saudi-4764897.html) - 11:27 01/07/2024
