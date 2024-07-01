@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Bồ Đào Nha - Slovenia: Ronaldo đá chính](https://vnexpress.net/truc-tiep-bo-dao-nha-vs-slovenia-4764987.html) - 18:10 01/07/2024
+- 🪜 [Bồ Đào Nha 0-0 Slovenia &lpar;H1&rpar;: Ronaldo đá chính](https://vnexpress.net/truc-tiep-bo-dao-nha-vs-slovenia-4764987.html) - 18:10 01/07/2024
 - 🦩 [Pháp loại Bỉ, vào tứ kết Euro 2024](https://vnexpress.net/truc-tiep-tran-phap-vs-bi-o-euro-2024-4764970-tong-thuat.html) - 15:00 01/07/2024
 - 🧰 [Tay vợt 17 tuổi qua đời vì ngưng tim ở giải trẻ châu Á](https://vnexpress.net/tay-vot-17-tuoi-qua-doi-vi-ngung-tim-o-giai-tre-chau-a-4764957.html) - 13:28 01/07/2024
 - 🤗 [Bồ Đào Nha - Slovenia: Chờ Ronaldo thông nòng](https://vnexpress.net/bo-dao-nha-slovenia-cho-ronaldo-thong-nong-4764932.html) - 12:00 01/07/2024
