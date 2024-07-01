@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Tranh cãi chọn trường chuyên, lớp chọn cho con](https://vnexpress.net/tranh-cai-chon-truong-chuyen-lop-chon-cho-con-4758232.html) - 04:29 01/07/2024
+- 🚀 [Có nên đua cho con vào trường chuyên, lớp chọn?](https://vnexpress.net/co-nen-dua-cho-con-vao-truong-chuyen-lop-chon-4758232.html) - 04:29 01/07/2024
 - 🎓 [Vì sao lao động Việt mang tiếng năng suất thấp?](https://vnexpress.net/vi-sao-lao-dong-viet-mang-tieng-nang-suat-thap-4761167.html) - 23:00 30/06/2024
 - 🚦 [Cuộc chiến &#39;giữ ánh sáng&#39; cho con của vợ chồng người Dao](https://vnexpress.net/cuoc-chien-giu-anh-sang-cho-con-cua-vo-chong-nguoi-dao-4764449.html) - 17:10 30/06/2024
 - 🦣 [Những loại rau củ hiếm khi có thuốc trừ sâu](https://vnexpress.net/nhung-loai-rau-cu-hiem-khi-co-thuoc-tru-sau-4764166.html) - 12:00 30/06/2024
