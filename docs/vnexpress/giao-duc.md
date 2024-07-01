@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Hà Nội công bố điểm chuẩn lớp 10 chuyên](https://vnexpress.net/diem-chuan-lop-10-cac-truong-chuyen-ha-noi-2024-4764517.html) - 04:36 01/07/2024
+- 🤓 [Chuyên Toán &#39;thống trị&#39; điểm chuẩn vào lớp 10 ở Hà Nội](https://vnexpress.net/diem-chuan-lop-10-cac-truong-chuyen-ha-noi-2024-4764517.html) - 04:36 01/07/2024
 - 🦆 [Điểm chuẩn học bạ ĐH Sư phạm Kỹ thuật TP HCM cao nhất 29](https://vnexpress.net/diem-chuan-hoc-ba-dai-hoc-su-pham-ky-thuat-tp-hcm-nam-2024-4764504.html) - 04:16 01/07/2024
 - 🦩 [Hà Nội duyệt điểm chuẩn lớp 10 hôm nay](https://vnexpress.net/ha-noi-cong-bo-diem-chuan-lop-10-nam-2024-vao-hom-nay-4764493.html) - 00:10 01/07/2024
 - 🌮 [Hà Nội bắt đầu tuyển sinh lớp 1, lớp 6](https://vnexpress.net/cach-dang-ky-tuyen-sinh-truc-tuyen-lop-1-lop-6-o-ha-noi-4764496.html) - 22:00 30/06/2024
