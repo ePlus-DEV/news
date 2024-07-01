@@ -12,7 +12,7 @@ sidebar_position: 2
 - 🦒 [Belarus nêu trường hợp dùng vũ khí hạt nhân](https://vnexpress.net/belarus-neu-truong-hop-dung-vu-khi-hat-nhan-4764581.html) - 02:54 01/07/2024
 - 🌈 [Tiêm kích Nga áp sát, buộc F-16 Đan Mạch đổi hướng](https://vnexpress.net/tiem-kich-nga-ap-sat-buoc-f-16-dan-mach-doi-huong-4764446.html) - 02:35 01/07/2024
 - 🧑‍🏫 [Bé 8 tuổi tử vong vì bị mẹ để một mình trong xe](https://vnexpress.net/be-8-tuoi-tu-vong-vi-bi-me-de-mot-minh-trong-xe-4764561.html) - 02:11 01/07/2024
-- 🐲 [Phe cực hữu Pháp chiến thắng vòng một bầu cử quốc hội](https://vnexpress.net/phe-cuc-huu-phap-chien-thang-vong-mot-bau-cu-quoc-hoi-4764532.html) - 00:30 01/07/2024
+- 🐲 [Phe cực hữu Pháp được dự báo dẫn trước trong bầu cử quốc hội](https://vnexpress.net/phe-cuc-huu-phap-duoc-du-bao-dan-truoc-trong-bau-cu-quoc-hoi-4764532.html) - 00:30 01/07/2024
 - 🦒 [Đảng Dân chủ bác khả năng chọn ứng viên thay thế ông Biden](https://vnexpress.net/dang-dan-chu-bac-kha-nang-chon-ung-vien-thay-the-ong-biden-4764530.html) - 00:07 01/07/2024
 - 🐻 [Rủi ro từ nhóm người tin chắc ông Trump sẽ thắng cử](https://vnexpress.net/rui-ro-tu-nhom-nguoi-tin-chac-ong-trump-se-thang-cu-4763159.html) - 22:00 30/06/2024
 - 🚀 [Người bịt mặt nêu lý do trèo lên mái SVĐ trong trận Đức - Đan Mạch](https://vnexpress.net/nguoi-bit-mat-neu-ly-do-treo-len-mai-svd-trong-tran-duc-dan-mach-4764501.html) - 15:25 30/06/2024
