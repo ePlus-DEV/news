@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Hải Phòng chi 40 tỷ đồng mỗi năm cho đề án sân khấu](https://vnexpress.net/hai-phong-chi-40-ty-dong-moi-nam-cho-de-an-san-khau-4764400.html) - 07:11 01/07/2024
+- 🌏 [Hải Phòng vực dậy ngành sân khấu](https://vnexpress.net/hai-phong-vuc-day-nganh-san-khau-4764400.html) - 07:11 01/07/2024
 - 💫 [Triển lãm về thám tử Conan đầu tiên ở Việt Nam](https://vnexpress.net/trien-lam-ve-tham-tu-conan-dau-tien-o-viet-nam-4764489.html) - 05:05 01/07/2024
 - 🌮 [Miss Universe 2005 diễn đầm cưới đính kết pha lê, ngọc trai](https://vnexpress.net/miss-universe-2005-dien-dam-cuoi-dinh-ket-pha-le-ngoc-trai-4764598.html) - 05:00 01/07/2024
 - 🧠 [Nhóm SOOBIN gây chú ý ở &#39;Anh trai vượt ngàn chông gai&#39;](https://vnexpress.net/nhom-soobin-gay-chu-y-o-anh-trai-vuot-ngan-chong-gai-4764605.html) - 04:54 01/07/2024
