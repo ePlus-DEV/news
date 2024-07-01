@@ -9,7 +9,7 @@ sidebar_position: 1
 - ⚗️ [Thủ tướng: Dư địa hợp tác lao động Việt - Hàn còn lớn](https://vnexpress.net/thu-tuong-du-dia-hop-tac-lao-dong-viet-han-con-lon-4764939.html) - 12:25 01/07/2024
 - 🌊 [Hà Nội mổ xẻ nguyên nhân cháy nhiều](https://vnexpress.net/ha-noi-mo-xe-nguyen-nhan-chay-nhieu-4764790.html) - 11:32 01/07/2024
 - 🎓 [Số người chết do tai nạn giao thông giảm](https://vnexpress.net/so-nguoi-chet-do-tai-nan-giao-thong-giam-4764849.html) - 10:42 01/07/2024
-- 🔥 [Ôtô chở 45 khách du lịch lao xuống vực](https://vnexpress.net/oto-cho-45-khach-du-lich-lao-xuong-vuc-4764889.html) - 09:33 01/07/2024
+- 🔥 [Ôtô chở gần 50 khách du lịch lao xuống vực](https://vnexpress.net/oto-cho-gan-50-khach-du-lich-lao-xuong-vuc-4764889.html) - 09:33 01/07/2024
 - 🦏 [Công đoàn mong kiểm soát giá cả khi tăng lương](https://vnexpress.net/cong-doan-mong-kiem-soat-gia-ca-khi-tang-luong-4764862.html) - 09:22 01/07/2024
 - 👺 [10 trường hợp được tăng lương cơ sở](https://vnexpress.net/10-truong-hop-duoc-tang-luong-co-so-4764753.html) - 08:13 01/07/2024
 - 🧑‍🏫 [Nửa thế kỷ chật vật trong những căn nhà 5-6 m2 giữa TP HCM](https://vnexpress.net/nua-the-ky-chat-vat-trong-nhung-can-nha-5-6-m2-giua-tp-hcm-4764730.html) - 07:15 01/07/2024
