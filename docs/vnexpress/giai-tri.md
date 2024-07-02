@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [&#39;Trư Bát Giới cõng vợ&#39; - khúc nhạc tinh nghịch](https://vnexpress.net/tru-bat-gioi-cong-vo-khuc-nhac-tinh-nghich-4764633.html) - 17:00 01/07/2024
 - 💫 [Màn đu dây của nghệ sĩ Việt thắng lớn ở cuộc thi quốc tế](https://vnexpress.net/man-du-day-cua-nghe-si-viet-thang-lon-o-cuoc-thi-quoc-te-4764958.html) - 15:15 01/07/2024
-- 🌮 [Nguyên Cục trưởng Điện ảnh: &#39;Tổ chức LHP ở Đà Nẵng rất vất vả&#39;](https://vnexpress.net/nguyen-cuc-truong-dien-anh-to-chuc-lhp-o-da-nang-rat-vat-va-4764882.html) - 14:27 01/07/2024
+- 🌮 [LHP châu Á Đà Nẵng vinh danh nghệ sĩ Đặng Nhật Minh](https://vnexpress.net/lhp-chau-a-da-nang-vinh-danh-nghe-si-dang-nhat-minh-4764882.html) - 14:27 01/07/2024
 - 🧠 [Phong cách hè sexy của vợ sắp cưới Jeff Bezos](https://vnexpress.net/phong-cach-he-sexy-cua-vo-sap-cuoi-jeff-bezos-4764658.html) - 12:30 01/07/2024
 - 👨‍🏫 [Dàn mỹ nhân &#39;Anh hùng xạ điêu&#39; 2024](https://vnexpress.net/dan-my-nhan-anh-hung-xa-dieu-2024-4764422.html) - 10:59 01/07/2024
 - ⚗️ [Robot nhảy cùng nghệ sĩ xiếc](https://vnexpress.net/robot-nhay-cung-nghe-si-xiec-4764647.html) - 09:24 01/07/2024
