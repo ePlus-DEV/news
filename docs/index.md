@@ -77,8 +77,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤩 [Trận tập kích &#39;xóa sổ loạt chiến đấu cơ Su-27&#39; tại căn cứ Ukraine](https://vnexpress.net/tran-tap-kich-xoa-so-loat-chien-dau-co-su-27-tai-can-cu-ukraine-4765231.html) - 09:51 02/07/2024
 - 🏊 [Thủ tướng Hungary lần đầu thăm Ukraine kể từ đầu chiến sự](https://vnexpress.net/thu-tuong-hungary-lan-dau-tham-ukraine-ke-tu-dau-chien-su-4765264.html) - 09:50 02/07/2024
 - 💂 [Tôi bỏ việc tư nhân lương cao về làm nhà nước lương thấp](https://vnexpress.net/toi-bo-viec-tu-nhan-luong-cao-ve-lam-nha-nuoc-luong-thap-4765243.html) - 09:42 02/07/2024
-- 🚀 [Rangnick mơ cùng Áo vô địch Euro 2024](https://vnexpress.net/rangnick-mo-cung-ao-vo-dich-euro-2024-4765325.html) - 09:36 02/07/2024
-- 🕴 [Tập đoàn Trump sắp xây chung cư hạng sang ở Arab Saudi](https://vnexpress.net/tap-doan-trump-sap-xay-chung-cu-hang-sang-o-arab-saudi-4765310.html) - 09:32 02/07/2024<!-- vnexpress:END -->
+- 🚀 [Rangnick mơ cùng Áo vô địch Euro 2024](https://vnexpress.net/rangnick-mo-cung-ao-vo-dich-euro-2024-4765325.html) - 09:36 02/07/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
