@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Hà Nội đặt tên 22 đường, phố mới](https://vnexpress.net/ha-noi-dat-ten-22-duong-pho-moi-4765210.html) - 07:15 02/07/2024
-- 🤓 [Hà Nội bắn pháo hoa 30 điểm mừng ngày giải phóng Thủ đô](https://vnexpress.net/ha-noi-ban-phao-hoa-30-diem-mung-ngay-giai-phong-thu-do-4765140.html) - 05:19 02/07/2024
+- 🤓 [Bắn pháo hoa 30 điểm mừng ngày giải phóng Thủ đô](https://vnexpress.net/ban-phao-hoa-30-diem-mung-ngay-giai-phong-thu-do-4765140.html) - 05:19 02/07/2024
 - ⚗️ [Hai cháu bé được tìm thấy sau ba ngày mất tích](https://vnexpress.net/hai-chau-be-duoc-tim-thay-sau-ba-ngay-mat-tich-4765183.html) - 05:06 02/07/2024
 - 🌊 [Hà Nội kỷ luật hai cán bộ liên quan vụ cháy chung cư mini](https://vnexpress.net/ha-noi-ky-luat-hai-can-bo-lien-quan-vu-chay-chung-cu-mini-4765130.html) - 04:35 02/07/2024
 - 🎓 [3.900 tỷ đồng xây cầu vượt biển vịnh Rạch Giá](https://vnexpress.net/3-900-ty-dong-xay-cau-vuot-bien-vinh-rach-gia-4765086.html) - 04:18 02/07/2024
