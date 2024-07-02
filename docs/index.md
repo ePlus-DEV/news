@@ -280,9 +280,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💫 [18 tác động của việc tăng lương cơ sở đối với người lao động](https://nld.com.vn/18-tac-dong-cua-viec-tang-luong-co-so-doi-voi-nguoi-lao-dong-196240702090331744.htm) - 02:16 02/07/2024
 - 🔭 [Diễn biến thời tiết ngày 2-7 ở TP HCM và Nam Bộ](https://nld.com.vn/dien-bien-thoi-tiet-ngay-2-7-o-tp-hcm-va-nam-bo-196240702070905935.htm) - 02:16 02/07/2024
 - 🌝 [Giá vàng nhẫn chưa dừng đà tăng, vàng miếng SJC &quot;bất động&quot;](https://nld.com.vn/gia-vang-nhan-chua-dung-da-tang-vang-mieng-sjc-bat-dong-196240702085309084.htm) - 02:11 02/07/2024
-- 💪 [TP HCM: Đình chỉ hoạt động Trường Quốc tế Mỹ AISVN](https://nld.com.vn/tp-hcm-dinh-chi-hoat-dong-truong-quoc-te-my-196240702082028091.htm) - 01:56 02/07/2024
-- 🦍 [Euro 2024: HLV Deschamps tiết lộ thời điểm Mbappe được bỏ &quot;mặt nạ&quot;](https://nld.com.vn/euro-2024-hlv-deschamps-tiet-lo-thoi-diem-mbappe-duoc-bo-mat-na-196240702084924125.htm) - 01:50 02/07/2024
-- 🥷 [Nghệ sĩ cải lương tuồng cổ Thảo Nguyên qua đời](https://nld.com.vn/nghe-si-cai-luong-tuong-co-thao-nguyen-qua-doi-196240702074019947.htm) - 01:49 02/07/2024
+- 💪 [Nghệ sĩ cải lương tuồng cổ Thảo Nguyên qua đời](https://nld.com.vn/nghe-si-cai-luong-tuong-co-thao-nguyen-qua-doi-196240702074019947.htm) - 02:01 02/07/2024
+- 🦍 [TP HCM: Đình chỉ hoạt động Trường Quốc tế Mỹ AISVN](https://nld.com.vn/tp-hcm-dinh-chi-hoat-dong-truong-quoc-te-my-196240702082028091.htm) - 01:56 02/07/2024
+- 🥷 [Euro 2024: HLV Deschamps tiết lộ thời điểm Mbappe được bỏ &quot;mặt nạ&quot;](https://nld.com.vn/euro-2024-hlv-deschamps-tiet-lo-thoi-diem-mbappe-duoc-bo-mat-na-196240702084924125.htm) - 01:50 02/07/2024
 - 🫶 [Cho vay tiêu dùng đã &quot;thoát đáy&quot;?](https://nld.com.vn/cho-vay-tieu-dung-da-thoat-day-196240701165243473.htm) - 01:44 02/07/2024
 - 🐻 [Triều Tiên thử tên lửa đạn đạo có thể mang đầu đạn siêu lớn](https://nld.com.vn/trieu-tien-thu-ten-lua-dan-dao-co-the-mang-dau-dan-sieu-lon-196240702081230303.htm) - 01:41 02/07/2024
 - 🐲 [Đổi mới nội dung, hình thức tổ chức](https://nld.com.vn/doi-moi-noi-dung-hinh-thuc-to-chuc-196240701201907548.htm) - 01:40 02/07/2024
