@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Áo - Thổ Nhĩ Kì: &#39;Sẽ có bàn trong 15 phút đầu&#39;](https://vnexpress.net/truc-tiep-tran-ao-vs-tho-nhi-ki-o-euro-2024-4765432.html) - 18:00 02/07/2024
+- 🎬 [Áo 0-1 Thổ Nhĩ Kì &lpar;H1&rpar;: Demiral lập kỷ lục vòng knock-out](https://vnexpress.net/truc-tiep-tran-ao-vs-tho-nhi-ki-o-euro-2024-4765432.html) - 18:00 02/07/2024
 - 🐎 [Trầm cảm sau đột quỵ](https://vnexpress.net/tram-cam-sau-dot-quy-4764908.html) - 18:00 02/07/2024
 - 🦍 [Lẻn vào ôtô người khác, lái ngược chiều trên đường](https://vnexpress.net/len-vao-oto-nguoi-khac-lai-nguoc-chieu-tren-duong-4765426.html) - 17:12 02/07/2024
 - 🏊 [Nhà thơ Hoàng Cát qua đời](https://vnexpress.net/nha-tho-hoang-cat-qua-doi-4765427.html) - 17:08 02/07/2024
