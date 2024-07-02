@@ -5,7 +5,7 @@ sidebar_position: 6
 
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Ảnh hưởng sức khỏe khi chế độ ăn thừa muối](https://vnexpress.net/anh-huong-suc-khoe-khi-che-do-an-thua-muoi-4760989.html) - 01:00 02/07/2024
-- 🎓 [Bi hài cập nhật sinh trắc học tài khoản ngân hàng](https://vnexpress.net/bi-hai-cap-nhat-sinh-trac-hoc-tai-khoan-ngan-hang-4764919.html) - 00:01 02/07/2024
+- 🎓 [Loay hoay cập nhật sinh trắc học tài khoản ngân hàng](https://vnexpress.net/loay-hoay-cap-nhat-sinh-trac-hoc-tai-khoan-ngan-hang-4764919.html) - 00:01 02/07/2024
 - 🚦 [Đám cưới tập thể cho công nhân nghèo](https://vnexpress.net/dam-cuoi-tap-the-cho-cong-nhan-ngheo-4764983.html) - 23:00 01/07/2024
 - 🦣 [Cô giáo trả lại 100 triệu đồng cho người chuyển khoản nhầm](https://vnexpress.net/co-giao-tra-lai-100-trieu-dong-cho-nguoi-chuyen-khoan-nham-4764921.html) - 12:34 01/07/2024
 - 🎓 [Thiếu niên vượt định kiến con nhà giàu](https://vnexpress.net/thieu-nien-vuot-dinh-kien-con-nha-giau-4764892.html) - 12:31 01/07/2024
