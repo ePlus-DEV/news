@@ -29,7 +29,7 @@ sidebar_position: 9
 - 🐲 [Vì sao Áo là bất ngờ lớn ở Euro 2024?](https://vnexpress.net/vi-sao-ao-la-bat-ngo-lon-o-euro-2024-4765384.html) - 12:26 02/07/2024
 - 🌝 [Đưa người sang Australia trái phép dưới vỏ bọc nhà tu hành](https://vnexpress.net/dua-nguoi-sang-australia-trai-phep-duoi-vo-boc-nha-tu-hanh-4765368.html) - 12:15 02/07/2024
 - 😺 [Hàn Quốc sẽ hỗ trợ Việt Nam mở rộng Bệnh viện Trung ương Huế](https://vnexpress.net/han-quoc-se-ho-tro-viet-nam-mo-rong-benh-vien-trung-uong-hue-4765370.html) - 12:14 02/07/2024
-- 🐎 [Giẫm đạp tại Ấn Độ, ít nhất 116 người thiệt mạng](https://vnexpress.net/giam-dap-tai-an-do-it-nhat-116-nguoi-thiet-mang-4765378.html) - 12:04 02/07/2024
+- 🐎 [Giẫm đạp tại Ấn Độ, ít nhất 107 người thiệt mạng](https://vnexpress.net/giam-dap-tai-an-do-it-nhat-107-nguoi-thiet-mang-4765378.html) - 12:04 02/07/2024
 - 🎡 [Điểm chuẩn đánh giá năng lực ĐH Khoa học Tự nhiên TP HCM cao kỷ lục](https://vnexpress.net/diem-chuan-danh-gia-nang-luc-dh-khoa-hoc-tu-nhien-tp-hcm-cao-ky-luc-4765376.html) - 12:02 02/07/2024
 - 👨‍🏫 [Chàng trai IT hướng nội tìm bạn gái có lối sống tích cực](https://vnexpress.net/chang-trai-it-huong-noi-tim-ban-gai-co-loi-song-tich-cuc-4765320.html) - 12:00 02/07/2024
 - 🦆 [Loạt smartphone mạnh nhất, vượt hai triệu điểm hiệu năng](https://vnexpress.net/loat-smartphone-manh-nhat-vuot-hai-trieu-diem-hieu-nang-4765247.html) - 12:00 02/07/2024
