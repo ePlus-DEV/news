@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Du lịch Việt 6 tháng đầu năm &#39;phục hồi mạnh mẽ&#39; thế nào?](https://vnexpress.net/du-lich-viet-6-thang-dau-nam-phuc-hoi-manh-me-the-nao-4765094.html) - 05:12 02/07/2024
+- 💂 [Du lịch Việt 6 tháng đầu năm &#39;phục hồi mạnh mẽ&#39; thế nào](https://vnexpress.net/du-lich-viet-6-thang-dau-nam-phuc-hoi-manh-me-the-nao-4765094.html) - 05:12 02/07/2024
 - 🪄 [5 nhà hàng mới vào &#39;Michelin tuyển chọn&#39; ở Hà Nội](https://vnexpress.net/5-nha-hang-moi-vao-michelin-tuyen-chon-o-ha-noi-4763549.html) - 04:57 02/07/2024
 - 🦅 [Đi du lịch tưởng nhớ vợ, du khách tìm được tình yêu thứ hai](https://vnexpress.net/di-du-lich-tuong-nho-vo-du-khach-tim-duoc-tinh-yeu-thu-hai-4764971.html) - 04:40 02/07/2024
 - 🕴 [Khám phá vực Phun ở Phú Yên](https://vnexpress.net/kham-pha-vuc-phun-o-phu-yen-4764464.html) - 02:49 02/07/2024
