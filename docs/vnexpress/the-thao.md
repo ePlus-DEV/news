@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Neville: &#39;Anh sẽ thua Thụy Sĩ nếu không thay đổi&#39;](https://vnexpress.net/neville-anh-se-thua-thuy-si-neu-khong-thay-doi-4765383.html) - 17:00 02/07/2024
-- 🦩 [Romania 0-1 Hà Lan &lpar;H2&rpar;: Phung phí cơ hội](https://vnexpress.net/truc-tiep-tran-romania-vs-ha-lan-vong-1-8-euro-4765413.html) - 15:30 02/07/2024
+- 🦩 [Romania 0-2 Hà Lan &lpar;H2&rpar;: Malen nhân đôi cách biệt](https://vnexpress.net/truc-tiep-tran-romania-vs-ha-lan-vong-1-8-euro-4765413.html) - 15:30 02/07/2024
 - 🧰 [7 cầu thủ động viên khi Ronaldo khóc](https://vnexpress.net/7-cau-thu-dong-vien-khi-ronaldo-khoc-4765333.html) - 12:31 02/07/2024
 - 🤗 [Áo - Thổ Nhĩ Kỳ: Hướng đến lịch sử](https://vnexpress.net/ao-tho-nhi-ky-huong-den-lich-su-4765373.html) - 12:30 02/07/2024
 - 🥳 [Brazil - Colombia: Đại chiến phân định ngôi đầu](https://vnexpress.net/brazil-colombia-dai-chien-phan-dinh-ngoi-dau-4765386.html) - 12:29 02/07/2024
