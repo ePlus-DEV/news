@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Áo - Thổ Nhĩ Kì: Trận đấu dự kiến hấp dẫn](https://vnexpress.net/truc-tiep-tran-ao-vs-tho-nhi-ki-o-euro-2024-4765432.html) - 18:00 02/07/2024
+- 🪜 [Áo - Thổ Nhĩ Kì: &#39;Sẽ có bàn trong 15 phút đầu&#39;](https://vnexpress.net/truc-tiep-tran-ao-vs-tho-nhi-ki-o-euro-2024-4765432.html) - 18:00 02/07/2024
 - 🦩 [Neville: &#39;Anh sẽ thua Thụy Sĩ nếu không thay đổi&#39;](https://vnexpress.net/neville-anh-se-thua-thuy-si-neu-khong-thay-doi-4765383.html) - 17:00 02/07/2024
 - 🧰 [Hà Lan đè bẹp Romania](https://vnexpress.net/truc-tiep-tran-romania-vs-ha-lan-vong-1-8-euro-4765413-tong-thuat.html) - 15:30 02/07/2024
 - 🤗 [7 cầu thủ động viên khi Ronaldo khóc](https://vnexpress.net/7-cau-thu-dong-vien-khi-ronaldo-khoc-4765333.html) - 12:31 02/07/2024
