@@ -212,7 +212,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🗽 [Ôtô bốc cháy trên cao tốc Hà Nội - Hải Phòng: Cách hơn 100m vẫn nóng rát](https://laodong.vn/xa-hoi/oto-boc-chay-tren-cao-toc-ha-noi-hai-phong-cach-hon-100m-van-nong-rat-1360910.ldo) - 16:26 02/07/2024
 - 📝 [Hai xe ô tô bốc cháy ngùn ngụt trên cao tốc Hà Nội - Hải Phòng](https://laodong.vn/xa-hoi/hai-xe-o-to-boc-chay-ngun-ngut-tren-cao-toc-ha-noi-hai-phong-1360911.ldo) - 16:07 02/07/2024
 - 🦏 [Hàn Quốc tài trợ 188 triệu USD cho dự án đường cao tốc Mỹ An - Cao Lãnh](https://laodong.vn/kinh-doanh/han-quoc-tai-tro-188-trieu-usd-cho-du-an-duong-cao-toc-my-an-cao-lanh-1360895.ldo) - 15:24 02/07/2024
-- 🦩 [Trực tiếp bóng đá Hà Lan 1-0 Romania: Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-ha-lan-1-0-romania-hiep-2-1360901.ldo) - 15:21 02/07/2024
+- 🦩 [Trực tiếp bóng đá Hà Lan 2-0 Romania: Malen nhân đôi cách biệt](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-ha-lan-2-0-romania-malen-nhan-doi-cach-biet-1360901.ldo) - 15:21 02/07/2024
 - 🦏 [Hàn Quốc đánh giá cao môi trường đầu tư kinh doanh của Việt Nam](https://laodong.vn/kinh-doanh/han-quoc-danh-gia-cao-moi-truong-dau-tu-kinh-doanh-cua-viet-nam-1360890.ldo) - 15:11 02/07/2024
 - 🧰 [Dàn sao đổ bộ thảm đỏ khai mạc Liên hoan phim châu Á Đà Nẵng 2024](https://laodong.vn/photo/dan-sao-do-bo-tham-do-khai-mac-lien-hoan-phim-chau-a-da-nang-2024-1360877.ldo) - 15:01 02/07/2024
 - 🌊 [Thì thầm bằng lăng](https://laodong.vn/lao-dong-cuoi-tuan/thi-tham-bang-lang-1360902.ldo) - 15:00 02/07/2024
