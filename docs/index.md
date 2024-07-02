@@ -310,7 +310,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🔥 [Xác thực sinh trắc học để chuyển tiền vẫn &quot;nóng&quot;](https://nld.com.vn/xac-thuc-sinh-trac-hoc-de-chuyen-tien-van-nong-196240702151536716.htm) - 08:33 02/07/2024
 - 🌝 [Cô gái nâng ngực gặp biến chứng được hồi sinh sau 18 ngày nguy kịch](https://nld.com.vn/co-gai-nang-nguc-gap-bien-chung-duoc-hoi-sinh-sau-18-ngay-nguy-kich-196240702141710366.htm) - 08:29 02/07/2024
 - 👍 [TP HCM: Công an vạch trần thủ đoạn nhóm người lượm ve chai quận ở Tân Phú](https://nld.com.vn/tp-hcm-cong-an-vach-tran-thu-doan-nhom-nguoi-luom-ve-chai-quan-o-tan-phu-196240702150241355.htm) - 08:28 02/07/2024
-- 💂 [14 giờ ngày mai &lpar;3-7&rpar; TP HCM công bố điểm chuẩn lớp 10, đón xem tại nld.com.vn](https://nld.com.vn/sang-mai-3-7-tp-hcm-cong-bo-diem-chuan-lop-10-don-xem-tai-nldcomvn-19624070215131423.htm) - 08:26 02/07/2024
+- 💂 [14 giờ ngày 3-7 TP HCM công bố điểm chuẩn lớp 10, đón xem tại nld.com.vn](https://nld.com.vn/sang-mai-3-7-tp-hcm-cong-bo-diem-chuan-lop-10-don-xem-tai-nldcomvn-19624070215131423.htm) - 08:26 02/07/2024
 - 🤖 [&quot;Tự hào cờ Tổ quốc&quot;: Hành trình 5 năm trao gửi lòng yêu nước](https://nld.com.vn/tu-hao-co-to-quoc-hanh-trinh-5-nam-trao-gui-long-yeu-nuoc-196240702145902251.htm) - 08:17 02/07/2024<!-- nld:END -->
 
 ## Báo SGGP
