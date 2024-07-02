@@ -4,8 +4,8 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Nỗi thấp thỏm của CĐV Bồ Đào Nha](https://vnexpress.net/noi-thap-thom-cua-cdv-bo-dao-nha-4765131.html) - 05:03 02/07/2024
-- 🦩 [HLV Slovenia lấy Ronaldo đá hỏng 11m để bào chữa cho thất bại](https://vnexpress.net/hlv-slovenia-lay-ronaldo-da-hong-11m-de-bao-chua-cho-that-bai-4765196.html) - 05:00 02/07/2024
+- 🪜 [Ronaldo chắp tay xin lỗi dù sút luân lưu thành công](https://vnexpress.net/ronaldo-chap-tay-xin-loi-du-sut-luan-luu-thanh-cong-4765005.html) - 05:20 02/07/2024
+- 🦩 [Nỗi thấp thỏm của CĐV Bồ Đào Nha](https://vnexpress.net/noi-thap-thom-cua-cdv-bo-dao-nha-4765131.html) - 05:03 02/07/2024
 - 🧰 [Chủ nhà Mỹ bị loại ở Copa America](https://vnexpress.net/chu-nha-my-bi-loai-o-copa-america-4765165.html) - 04:53 02/07/2024
 - 🤗 [Alcaraz và Sinner cùng thắng vòng một Wimbledon](https://vnexpress.net/alcaraz-va-sinner-cung-thang-vong-mot-wimbledon-4765135.html) - 03:57 02/07/2024
 - 🥳 [Bản tin Euro: CĐV Pháp vẫy chào tạm biệt Ronaldo](https://vnexpress.net/ban-tin-euro-cdv-phap-vay-chao-tam-biet-ronaldo-4765069.html) - 03:13 02/07/2024
