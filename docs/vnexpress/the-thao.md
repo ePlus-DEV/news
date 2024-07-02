@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Deschamps: &#39;Mbappe đang quen dần với mặt nạ&#39;](https://vnexpress.net/deschamps-mbappe-dang-quen-dan-voi-mat-na-4765070.html) - 20:41 02/07/2024
 - 🦩 [Báo Thụy Sĩ: &#39;Chẳng có gì phải sợ Anh&#39;](https://vnexpress.net/bao-thuy-si-chang-co-gi-phai-so-anh-4764684.html) - 20:35 02/07/2024
-- 🧰 [Áo 1-2 Thổ Nhĩ Kì &lpar;H2&rpar;: Gregoritsch rút ngắn tỷ số](https://vnexpress.net/truc-tiep-tran-ao-vs-tho-nhi-ki-o-euro-2024-4765432.html) - 18:00 02/07/2024
+- 🧰 [Thổ Nhĩ Kì loại Áo nhờ cú đúp của trung vệ](https://vnexpress.net/truc-tiep-tran-ao-vs-tho-nhi-ki-o-euro-2024-4765432-tong-thuat.html) - 18:00 02/07/2024
 - 🤗 [Neville: &#39;Anh sẽ thua Thụy Sĩ nếu không thay đổi&#39;](https://vnexpress.net/neville-anh-se-thua-thuy-si-neu-khong-thay-doi-4765383.html) - 17:00 02/07/2024
 - 🥳 [Hà Lan đè bẹp Romania](https://vnexpress.net/truc-tiep-tran-romania-vs-ha-lan-vong-1-8-euro-4765413-tong-thuat.html) - 15:30 02/07/2024
 - 🦣 [7 cầu thủ động viên khi Ronaldo khóc](https://vnexpress.net/7-cau-thu-dong-vien-khi-ronaldo-khoc-4765333.html) - 12:31 02/07/2024
