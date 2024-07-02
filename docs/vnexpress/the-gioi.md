@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Ba thẩm phán tối cao Mỹ nêu lo ngại về phán quyết quyền miễn tố](https://vnexpress.net/ba-tham-phan-toi-cao-my-neu-lo-ngai-ve-phan-quyet-quyen-mien-to-4765287.html) - 15:43 02/07/2024
-- 🕴 [Giẫm đạp tại Ấn Độ, ít nhất 107 người thiệt mạng](https://vnexpress.net/giam-dap-tai-an-do-it-nhat-107-nguoi-thiet-mang-4765378.html) - 12:04 02/07/2024
+- 🕴 [Giẫm đạp tại Ấn Độ, ít nhất 116 người thiệt mạng](https://vnexpress.net/giam-dap-tai-an-do-it-nhat-116-nguoi-thiet-mang-4765378.html) - 12:04 02/07/2024
 - 🤭 [Lý do nhóm ông Biden vẫn tự tin sau cú vấp tranh luận tổng thống](https://vnexpress.net/ly-do-nhom-ong-biden-van-tu-tin-sau-cu-vap-tranh-luan-tong-thong-4765077.html) - 12:00 02/07/2024
 - 🧑‍💻 [Hàn Quốc cam kết mở rộng quy mô viện trợ không hoàn lại cho Việt Nam](https://vnexpress.net/han-quoc-cam-ket-mo-rong-quy-mo-vien-tro-khong-hoan-lai-cho-viet-nam-4765366.html) - 11:45 02/07/2024
 - 🦏 [Trận tập kích &#39;xóa sổ loạt chiến đấu cơ Su-27&#39; tại căn cứ Ukraine](https://vnexpress.net/tran-tap-kich-xoa-so-loat-chien-dau-co-su-27-tai-can-cu-ukraine-4765231.html) - 09:51 02/07/2024
