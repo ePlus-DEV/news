@@ -27,14 +27,14 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [HLV Thụy Sĩ thích được xem là cửa dưới so với Anh](https://vnexpress.net/hlv-thuy-si-thich-duoc-xem-la-cua-duoi-so-voi-anh-4765647.html) - 23:28 03/07/2024
-- 🧰 [Tiền đạo Tây Ban Nha muốn khiến Kroos giải nghệ sớm](https://vnexpress.net/tien-dao-tay-ban-nha-muon-khien-kroos-giai-nghe-som-4765906.html) - 23:24 03/07/2024
+- 🧰 [Tiền đạo Tây Ban Nha doạ &#39;khiến Kroos giải nghệ sớm&#39;](https://vnexpress.net/tien-dao-tay-ban-nha-doa-khien-kroos-giai-nghe-som-4765906.html) - 23:24 03/07/2024
 - 🥰 [Lời khai của vợ chồng nhốt, đánh cô gái dã man](https://vnexpress.net/loi-khai-cua-vo-chong-nhot-danh-co-gai-da-man-4765903.html) - 23:22 03/07/2024
 - 🌏 [Ăn rau xào, luộc hay hấp tốt hơn?](https://vnexpress.net/an-rau-xao-luoc-hay-hap-tot-hon-4765346.html) - 23:02 03/07/2024
 - 🧐 [Điểm tin 6h: Metro Nhổn-ga Hà Nội đoạn trên cao hoàn thành; Cháy lớn công ty gỗ ở Bình Dương](https://vnexpress.net/diem-tin-6h-metro-nhon-ga-ha-noi-doan-tren-cao-hoan-thanh-chay-lon-cong-ty-go-o-binh-duong-4765904.html) - 23:00 03/07/2024
 - 💫 [Diễn viên &#39;Nhật ký Vàng Anh&#39; đời đầu sau gần hai thập niên](https://vnexpress.net/dien-vien-nhat-ky-vang-anh-doi-dau-sau-gan-hai-thap-nien-4765128.html) - 23:00 03/07/2024
 - 😺 [Người trẻ chăm thú cưng &#39;như ông hoàng&#39;](https://vnexpress.net/nguoi-tre-cham-thu-cung-nhu-ong-hoang-4763087.html) - 23:00 03/07/2024
 - 🕯 [Tài xế mải gây gổ khiến ôtô đâm vào xe khác](https://vnexpress.net/tai-xe-mai-gay-go-khien-oto-dam-vao-xe-khac-4765728.html) - 23:00 03/07/2024
-- 💃 [Mbappe luôn tịt ngòi khi gặp Ronaldo tại các giải chính](https://vnexpress.net/mbappe-luon-tit-ngoi-khi-gap-ronaldo-tai-cac-giai-chinh-4765866.html) - 22:25 03/07/2024
+- 💃 [Mbappe luôn tịt ngòi ở các giải chính gặp Ronaldo](https://vnexpress.net/mbappe-luon-tit-ngoi-o-cac-giai-chinh-gap-ronaldo-4765866.html) - 22:25 03/07/2024
 - 💂 [Những người &#39;giữ lửa&#39; tranh cử cho ông Biden](https://vnexpress.net/nhung-nguoi-giu-lua-tranh-cu-cho-ong-biden-4765464.html) - 22:00 03/07/2024
 - 🎊 [7 smartphone nổi bật bán trong tháng 7](https://vnexpress.net/7-smartphone-noi-bat-ban-trong-thang-7-4765435.html) - 22:00 03/07/2024
 - 🤠 [Hơn 6 tỷ đồng hỗ trợ điều trị cho gần 200 bệnh nhi](https://vnexpress.net/hon-6-ty-dong-ho-tro-dieu-tri-cho-gan-200-benh-nhi-4765854.html) - 22:00 03/07/2024
@@ -76,13 +76,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💫 [Đi ăn với nhau, anh sẽ không để em cùng chia tiền](https://vnexpress.net/di-an-voi-nhau-anh-se-khong-de-em-cung-chia-tien-4765607.html) - 14:00 03/07/2024
 - 🤩 [Đắn đo &#39;mua áo sơmi 700 nghìn, mặc 5 năm&#39;](https://vnexpress.net/dan-do-mua-ao-somi-700-nghin-mac-5-nam-4765335.html) - 14:00 03/07/2024
 - 🏊 [Khốn cùng trong cảnh loạn lạc ở Gaza](https://vnexpress.net/khon-cung-trong-canh-loan-lac-o-gaza-4765358.html) - 13:46 03/07/2024
-- 💂 [Đường dây cá độ giải Euro, Copa America bị triệt phá](https://vnexpress.net/duong-day-ca-do-giai-euro-copa-america-bi-triet-pha-4765859.html) - 13:23 03/07/2024
-- 🚀 [Những món không nên ăn hay uống cùng sầu riêng](https://vnexpress.net/nhung-mon-khong-nen-an-hay-uong-cung-sau-rieng-4764816.html) - 13:10 03/07/2024
-- 🕴 [Người mẫu Huỳnh Thanh Tuyền tái xuất](https://vnexpress.net/nguoi-mau-huynh-thanh-tuyen-tai-xuat-4765827.html) - 13:10 03/07/2024
-- 🦆 [HLV Trần Minh Chiến: &#39;Việt Nam đã tặng chiến thắng cho Indonesia&#39;](https://vnexpress.net/hlv-tran-minh-chien-viet-nam-da-tang-chien-thang-cho-indonesia-4765857.html) - 13:08 03/07/2024
-- 💫 [Đời tiêu dao của &#39;Đệ nhất mỹ nhân phim Châu Tinh Trì&#39;](https://vnexpress.net/doi-tieu-dao-cua-de-nhat-my-nhan-phim-chau-tinh-tri-4765758.html) - 13:00 03/07/2024
-- 🤓 [Ngỗng mẹ liều mạng cứu con non khỏi vuốt đại bàng](https://vnexpress.net/ngong-me-lieu-mang-cuu-con-non-khoi-vuot-dai-bang-4765460.html) - 13:00 03/07/2024
-- 🤡 [Hồ Ngọc Hà kỷ niệm 20 năm ca hát](https://vnexpress.net/ho-ngoc-ha-ky-niem-20-nam-ca-hat-4765800.html) - 13:00 03/07/2024<!-- vnexpress:END -->
+- 💂 [Đường dây cá độ giải Euro, Copa America bị triệt phá](https://vnexpress.net/duong-day-ca-do-giai-euro-copa-america-bi-triet-pha-4765859.html) - 13:23 03/07/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
