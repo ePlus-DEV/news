@@ -13,7 +13,7 @@ sidebar_position: 5
 - 🌜 [Tình thế trớ trêu của đội golf Hà Lan tại Olympic 2024](https://vnexpress.net/tinh-the-tro-treu-cua-doi-golf-ha-lan-tai-olympic-2024-4765702.html) - 07:35 03/07/2024
 - 🫶 [Sự cứu rỗi cho kỷ nguyên Southgate ở tuyển Anh](https://vnexpress.net/su-cuu-roi-cho-ky-nguyen-southgate-o-tuyen-anh-4765661.html) - 07:19 03/07/2024
 - 🌜 [Nhịp tim của Ronaldo trong loạt luân lưu thắng Slovenia](https://vnexpress.net/nhip-tim-cua-ronaldo-trong-loat-luan-luu-thang-slovenia-4765482.html) - 05:00 03/07/2024
-- 😺 [Euro ngày 3/7: Ronaldo dẫn đầu chỉ số bàn thắng dưới kỳ vọng](https://vnexpress.net/euro-ngay-3-7-ronaldo-dan-dau-chi-so-ban-thang-duoi-ky-vong-4765599.html) - 04:36 03/07/2024
+- 😺 [Euro ngày 3/7: Ronaldo bị ví như &#39;đứa trẻ thích chơi bóng một mình&#39;](https://vnexpress.net/euro-ngay-3-7-ronaldo-bi-vi-nhu-dua-tre-thich-choi-bong-mot-minh-4765599.html) - 04:36 03/07/2024
 - 👍 [Rublev bảy lần tự đập vợt vào người](https://vnexpress.net/rublev-bay-lan-tu-dap-vot-vao-nguoi-4765571.html) - 03:41 03/07/2024
 - 🐵 [Brazil rơi điểm, phải gặp Uruguay ở tứ kết Copa](https://vnexpress.net/brazil-roi-diem-phai-gap-uruguay-o-tu-ket-copa-4765546.html) - 03:30 03/07/2024
 - 💫 [Bản tin Euro: Gakpo dẫn đầu danh sách Vua phá lưới](https://vnexpress.net/ban-tin-euro-gakpo-dan-dau-danh-sach-vua-pha-luoi-4765511.html) - 02:56 03/07/2024
