@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Người dân đồng loạt giao mặt bằng mở rộng đường kết nối TP HCM - Long An](https://vnexpress.net/nguoi-dan-dong-loat-giao-mat-bang-mo-rong-duong-ket-noi-tp-hcm-long-an-4765401.html) - 23:00 02/07/2024
+- 🦒 [Người dân đồng loạt giao mặt bằng mở rộng đường kết nối TP HCM với miền Tây](https://vnexpress.net/nguoi-dan-dong-loat-giao-mat-bang-mo-rong-duong-ket-noi-tp-hcm-voi-mien-tay-4765401.html) - 23:00 02/07/2024
 - 🤓 [Hàng loạt resort ở vịnh Lăng Cô bỏ hoang](https://vnexpress.net/hang-loat-resort-o-vinh-lang-co-bo-hoang-4764977.html) - 17:00 02/07/2024
 - ⚗️ [Người phụ nữ ở Hà Nội bị sét đánh tử vong](https://vnexpress.net/nguoi-phu-nu-o-ha-noi-bi-set-danh-tu-vong-4765388.html) - 15:41 02/07/2024
 - 🌊 [Xe bồn chở xăng bốc cháy trên cao tốc](https://vnexpress.net/xe-bon-cho-xang-boc-chay-tren-cao-toc-4765408.html) - 14:58 02/07/2024
