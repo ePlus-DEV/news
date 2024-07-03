@@ -246,7 +246,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Trường ĐH Công nghệ, Trường ĐH Kinh tế - Tài chính TP HCM công bố điểm chuẩn đánh giá năng lực](https://nld.com.vn/truong-dh-cong-nghe-truong-dh-kinh-te-tai-chinh-tp-hcm-cong-bo-diem-chuan-danh-gia-nang-luc-196240703151229944.htm) - 08:33 03/07/2024
+- 🐎 [Trường ĐH Sài Gòn, ĐH Công nghệ, ĐH Kinh tế - Tài chính TP HCM công bố điểm chuẩn đánh giá năng lực](https://nld.com.vn/truong-dh-cong-nghe-truong-dh-kinh-te-tai-chinh-tp-hcm-cong-bo-diem-chuan-danh-gia-nang-luc-196240703151229944.htm) - 08:33 03/07/2024
 - 😺 [Sinh viên “đã mắt” với phòng thực hành công nghệ mới](https://nld.com.vn/sinh-vien-da-mat-voi-phong-thuc-hanh-cong-nghe-moi-196240703142821418.htm) - 08:27 03/07/2024
 - 👍 [Kết quả xổ số hôm nay, 3-7: Đồng Nai, Cần Thơ, Sóc Trăng, Đà Nẵng, Khánh Hòa...](https://nld.com.vn/ket-qua-xo-so-hom-nay-3-7-dong-nai-can-tho-soc-trang-da-nang-khanh-hoa-196240703150411225.htm) - 08:26 03/07/2024
 - 🥷 [Công bố điểm chuẩn lớp 10: Học sinh trượt cả 3 nguyện vọng mới được tuyển bổ sung](https://nld.com.vn/cong-bo-diem-chuan-lop-10-hoc-sinh-truot-ca-3-nguyen-vong-moi-duoc-tuyen-bo-sung-196240703151046197.htm) - 08:22 03/07/2024
@@ -279,7 +279,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧑‍💻 [Chủ tịch Quốc hội Trần Thanh Mẫn chỉ đạo những vấn đề quan trọng tại tỉnh Bình Phước](https://nld.com.vn/chu-tich-quoc-hoi-tran-thanh-man-chi-dao-nhung-van-de-quan-trong-tai-tinh-binh-phuoc-196240703121823399.htm) - 05:48 03/07/2024
 - 🎬 [TP HCM: Nghiên cứu các hình thức trả lương phù hợp](https://nld.com.vn/tp-hcm-nghien-cuu-cac-hinh-thuc-tra-luong-phu-hop-196240703122724938.htm) - 05:47 03/07/2024
 - 👀 [Tăng lương cơ sở lên 2,34 triệu đồng, tác động lạm phát thế nào?](https://nld.com.vn/tang-luong-co-so-len-234-trieu-dong-tac-dong-lam-phat-the-nao-196240703123052489.htm) - 05:46 03/07/2024
-- 👍 [Xe bồn chở xăng và ze tải bốc cháy dữ dội sau va chạm: 1 tài xế tử vong](https://nld.com.vn/xe-bon-cho-xang-bat-ngo-va-cham-xe-tai-tren-cao-toc-phat-no-roi-boc-chay-du-doi-196240703082727816.htm) - 05:34 03/07/2024
+- 👍 [Xe bồn chở xăng và xe tải bốc cháy dữ dội sau va chạm: 1 tài xế tử vong](https://nld.com.vn/xe-bon-cho-xang-bat-ngo-va-cham-xe-tai-tren-cao-toc-phat-no-roi-boc-chay-du-doi-196240703082727816.htm) - 05:34 03/07/2024
 - 🦅 [Gần 1 tỉ đồng cho ý tưởng xuất sắc quy hoạch chuyển đổi KCN Biên Hòa 1](https://nld.com.vn/gan-1-ti-dong-cho-y-tuong-xuat-sac-quy-hoach-chuyen-doi-kcn-bien-hoa-1-19624070311363696.htm) - 05:15 03/07/2024
 - 🦏 [Thủ tướng: Vietnam Airlines cần phát huy hơn nữa vai trò cầu nối Việt Nam - Hàn Quốc](https://nld.com.vn/thu-tuong-vietnam-airlines-can-phat-huy-hon-nua-vai-tro-cau-noi-viet-nam-han-quoc-196240703120005689.htm) - 05:05 03/07/2024
 - 🗽 [Công an TP HCM truy nã Lê Văn Có và Nguyễn Hoài Hận](https://nld.com.vn/cong-an-tp-hcm-truy-na-le-van-co-va-nguyen-hoai-han-196240703115236327.htm) - 05:01 03/07/2024
