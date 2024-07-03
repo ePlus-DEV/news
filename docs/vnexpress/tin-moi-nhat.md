@@ -44,6 +44,4 @@ sidebar_position: 9
 - 🧑‍🏫 [TP HCM công bố điểm chuẩn lớp 10 hôm nay](https://vnexpress.net/tp-hcm-cong-bo-diem-chuan-lop-10-hom-nay-4765389.html) - 23:21 02/07/2024
 - 😎 [Toà phúc thẩm: Khách hàng &#39;có lỗi&#39; trong vụ mất 14,6 tỷ đồng ở tài khoản](https://vnexpress.net/toa-phuc-tham-khach-hang-co-loi-trong-vu-mat-14-6-ty-dong-o-tai-khoan-4765379.html) - 23:18 02/07/2024
 - 🪄 [Người chơi tiền ảo Pi kêu gọi xóa app](https://vnexpress.net/nguoi-choi-tien-ao-pi-keu-goi-xoa-app-4764139.html) - 23:03 02/07/2024
-- 🏊 [Người dân đồng loạt giao mặt bằng mở rộng đường kết nối TP HCM với miền Tây](https://vnexpress.net/nguoi-dan-dong-loat-giao-mat-bang-mo-rong-duong-ket-noi-tp-hcm-voi-mien-tay-4765401.html) - 23:00 02/07/2024
-- 💃 [Những đứa trẻ thành con nuôi vì chính sách một con](https://vnexpress.net/nhung-dua-tre-thanh-con-nuoi-vi-chinh-sach-mot-con-4765336.html) - 23:00 02/07/2024
-- 🦆 [Vợ thần tốc hồi sức tim phổi cứu chồng chỉ còn 1% sự sống](https://vnexpress.net/vo-than-toc-hoi-suc-tim-phoi-cuu-chong-chi-con-1-su-song-4765304.html) - 23:00 02/07/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🏊 [Người dân đồng loạt giao mặt bằng mở rộng đường kết nối TP HCM với miền Tây](https://vnexpress.net/nguoi-dan-dong-loat-giao-mat-bang-mo-rong-duong-ket-noi-tp-hcm-voi-mien-tay-4765401.html) - 23:00 02/07/2024<!-- vnexpress-tin-moi-nhat:END -->
