@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [LG sẽ tăng gấp đôi công suất nhà máy ở Hải Phòng](https://vnexpress.net/lg-se-tang-gap-doi-cong-suat-nha-may-o-hai-phong-4765631.html) - 05:15 03/07/2024
 - 🐲 [Elon Musk có thêm 15 tỷ USD một ngày](https://vnexpress.net/elon-musk-co-them-15-ty-usd-mot-ngay-4765537.html) - 04:29 03/07/2024
 - 🔥 [Kantar: Vinamilk là hãng sữa được mua nhiều nhất Việt Nam](https://vnexpress.net/kantar-vinamilk-la-hang-sua-duoc-mua-nhieu-nhat-viet-nam-4765554.html) - 04:00 03/07/2024
-- 🐵 [Tiền có nhưng khó xài - gót chân Achilles của kinh tế TP HCM](https://vnexpress.net/tien-co-nhung-kho-xai-got-chan-achilles-cua-kinh-te-tp-hcm-4765179.html) - 03:49 03/07/2024
+- 🐵 [Tiền có nhưng khó xài - nút thắt của kinh tế TP HCM](https://vnexpress.net/tien-co-nhung-kho-xai-nut-that-cua-kinh-te-tp-hcm-4765179.html) - 03:49 03/07/2024
 - 🦅 [Daikin: Từ nhà máy linh kiện đến thương hiệu điều hòa tỷ USD](https://vnexpress.net/daikin-tu-nha-may-linh-kien-den-thuong-hieu-dieu-hoa-ty-usd-4749155.html) - 03:00 03/07/2024
 - 😺 [Đầu tư vào đâu lãi nhất nửa đầu năm?](https://vnexpress.net/kenh-dau-tu-nao-tot-nhat-nua-dau-nam-2024-4765416.html) - 02:47 03/07/2024
 - 🤩 [Ngược với thế giới, Gen Z Trung Quốc đua tiết kiệm](https://vnexpress.net/nguoc-voi-the-gioi-gen-z-trung-quoc-dua-tiet-kiem-4765113.html) - 17:00 02/07/2024
