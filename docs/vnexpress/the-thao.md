@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Nhịp tim của Ronaldo trong loạt luân lưu thắng Slovenia](https://vnexpress.net/nhip-tim-cua-ronaldo-trong-loat-luan-luu-thang-slovenia-4765482.html) - 05:00 03/07/2024
-- 🦩 [Euro ngày 3/7: Griezmann nổi đóa khi bị hỏi về sức ghi bàn của Pháp](https://vnexpress.net/euro-ngay-3-7-griezmann-noi-doa-khi-bi-hoi-ve-suc-ghi-ban-cua-phap-4765599.html) - 04:36 03/07/2024
+- 🦩 [Euro ngày 3/7: Griezmann nổi đóa khi bị hỏi về sức ghi bàn của Pháp](https://vnexpress.net/cap-nhat-tin-tuc-euro-2024-4765599.html) - 04:36 03/07/2024
 - 🧰 [Rublev bảy lần tự đập vợt vào người](https://vnexpress.net/rublev-bay-lan-tu-dap-vot-vao-nguoi-4765571.html) - 03:41 03/07/2024
 - 🤗 [Brazil rơi điểm, phải gặp Uruguay ở tứ kết Copa](https://vnexpress.net/brazil-roi-diem-phai-gap-uruguay-o-tu-ket-copa-4765546.html) - 03:30 03/07/2024
 - 🥳 [Bản tin Euro: Gakpo dẫn đầu danh sách Vua phá lưới](https://vnexpress.net/ban-tin-euro-gakpo-dan-dau-danh-sach-vua-pha-luoi-4765511.html) - 02:56 03/07/2024
