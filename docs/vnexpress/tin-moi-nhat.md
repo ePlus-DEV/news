@@ -55,5 +55,4 @@ sidebar_position: 9
 - 🏊 [Điểm tin 21h: Cựu phó chủ tịch tỉnh Bình Thuận bị bắt; Bitcoin rơi về giá thấp nhất hai tháng](https://vnexpress.net/diem-tin-21h-cuu-pho-chu-tich-tinh-binh-thuan-bi-bat-bitcoin-roi-ve-gia-thap-nhat-hai-thang-4766228.html) - 10:04 04/07/2024
 - 🦩 [Tìm người đàn ông trên 50 tuổi](https://vnexpress.net/tim-nguoi-dan-ong-tren-50-tuoi-4766025.html) - 10:00 04/07/2024
 - 👍 [Chế thuốc diệt gián từ bột giặt](https://vnexpress.net/che-thuoc-diet-gian-tu-bot-giat-4765996.html) - 10:00 04/07/2024
-- 🔥 [Chiến dịch cổ vũ người trẻ luôn tiến về phía trước của Red Bull](https://vnexpress.net/chien-dich-co-vu-nguoi-tre-luon-tien-ve-phia-truoc-cua-red-bull-4765741.html) - 10:00 04/07/2024
-- 💄 [An ninh Đức bị tố hành hung CĐV tại Euro](https://vnexpress.net/an-ninh-duc-bi-to-hanh-hung-cdv-tai-euro-4766095.html) - 09:54 04/07/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🔥 [Chiến dịch cổ vũ người trẻ luôn tiến về phía trước của Red Bull](https://vnexpress.net/chien-dich-co-vu-nguoi-tre-luon-tien-ve-phia-truoc-cua-red-bull-4765741.html) - 10:00 04/07/2024<!-- vnexpress-tin-moi-nhat:END -->
