@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Gu mặc nổi loạn của con gái Madonna](https://vnexpress.net/gu-mac-noi-loan-cua-con-gai-madonna-4766175.html) - 12:00 04/07/2024
+- 🌏 [Phong cách nổi loạn của con gái Madonna](https://vnexpress.net/phong-cach-noi-loan-cua-con-gai-madonna-4766175.html) - 12:00 04/07/2024
 - 💫 [Cặp sao &#39;Yêu nhầm bạn thân&#39; chia tay](https://vnexpress.net/cap-sao-yeu-nham-ban-than-chia-tay-4766179.html) - 09:32 04/07/2024
 - 🌮 [Gu mặc đơn sắc của Mai Phương Thúy](https://vnexpress.net/gu-mac-don-sac-cua-mai-phuong-thuy-4765668.html) - 06:19 04/07/2024
 - 🧠 [&#39;Mực tàu giấy bản&#39; - đời sống học trò trước 1945](https://vnexpress.net/muc-tau-giay-ban-doi-song-hoc-tro-truoc-1945-4765762.html) - 05:29 04/07/2024
