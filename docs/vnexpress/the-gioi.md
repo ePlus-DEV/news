@@ -7,7 +7,7 @@ sidebar_position: 2
 - 🎭 [Sinh con trên thuyền giữa dòng nước lũ](https://vnexpress.net/sinh-con-tren-thuyen-giua-dong-nuoc-lu-4766300.html) - 16:02 04/07/2024
 - 🕴 [Anh bắt đầu bầu cử sớm](https://vnexpress.net/anh-bat-dau-bau-cu-som-4766288.html) - 15:49 04/07/2024
 - 🤭 [Giáo sĩ nhiều tranh cãi trong thảm kịch giẫm đạp ở Ấn Độ](https://vnexpress.net/giao-si-nhieu-tranh-cai-trong-tham-kich-giam-dap-o-an-do-4765718.html) - 14:00 04/07/2024
-- 🧑‍💻 [Donald Trump nói Tổng thống Biden là &#39;ông già tệ hại&#39;](https://vnexpress.net/donald-trump-noi-tong-thong-biden-la-ong-gia-te-hai-4766254.html) - 13:53 04/07/2024
+- 🧑‍💻 [Ông Trump và ông Biden chỉ trích lẫn nhau](https://vnexpress.net/ong-trump-va-ong-biden-chi-trich-lan-nhau-4766254.html) - 13:53 04/07/2024
 - 🦏 [Phát ngôn viên chính phủ Pháp bị tấn công khi vận động bầu cử](https://vnexpress.net/phat-ngon-vien-chinh-phu-phap-bi-tan-cong-khi-van-dong-bau-cu-4766225.html) - 13:02 04/07/2024
 - 🦒 [Đức triệu đại sứ Thổ Nhĩ Kỳ sau màn ăn mừng của cầu thủ ở Euro](https://vnexpress.net/duc-trieu-dai-su-tho-nhi-ky-sau-man-an-mung-cua-cau-thu-o-euro-4766251.html) - 12:22 04/07/2024
 - 🌈 [Ông Biden nỗ lực cứu vãn chiến dịch tranh cử](https://vnexpress.net/ong-biden-no-luc-cuu-van-chien-dich-tranh-cu-4765911.html) - 12:00 04/07/2024
