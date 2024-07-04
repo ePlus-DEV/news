@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Người trẻ chăm thú cưng &#39;như ông hoàng&#39;](https://vnexpress.net/nguoi-tre-cham-thu-cung-nhu-ong-hoang-4763087.html) - 23:00 03/07/2024
+- 🚀 [Chăm thú cưng &#39;như ông hoàng&#39;](https://vnexpress.net/cham-thu-cung-nhu-ong-hoang-4763087.html) - 23:00 03/07/2024
 - 🎓 [Hơn 6 tỷ đồng hỗ trợ điều trị cho gần 200 bệnh nhi](https://vnexpress.net/hon-6-ty-dong-ho-tro-dieu-tri-cho-gan-200-benh-nhi-4765854.html) - 22:00 03/07/2024
 - 🚦 [Miến trộn kiểu Hàn Quốc](https://vnexpress.net/mien-tron-kieu-han-quoc-4765764.html) - 10:41 03/07/2024
 - 🦣 [Ba cái bẫy khiến các gia đình khó thoát nghèo](https://vnexpress.net/ba-cai-bay-khien-cac-gia-dinh-kho-thoat-ngheo-4765635.html) - 08:16 03/07/2024
