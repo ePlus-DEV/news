@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Hà Nội FC lập kỷ lục ở Cup Quốc gia](https://vnexpress.net/ha-noi-fc-lap-ky-luc-o-cup-quoc-gia-4766275.html) - 13:39 04/07/2024
-- 🦩 [Thanh Hoá loại Nam Định khỏi Cup Quốc gia](https://vnexpress.net/thanh-hoa-loai-nam-dinh-khoi-cup-quoc-gia-4766279.html) - 13:28 04/07/2024
+- 🦩 [Nam Định vỡ mộng ở Cup Quốc gia](https://vnexpress.net/nam-dinh-vo-mong-o-cup-quoc-gia-4766279.html) - 13:28 04/07/2024
 - 🧰 [4.500 runner ấn tượng với đường chạy Libera Fun Fest](https://vnexpress.net/4-500-runner-an-tuong-voi-duong-chay-libera-fun-fest-4764106.html) - 13:00 04/07/2024
 - 🤗 [Man Utd gia hạn hợp đồng với Ten Hag](https://vnexpress.net/man-utd-gia-han-hop-dong-voi-ten-hag-4766260.html) - 12:27 04/07/2024
 - 🥳 [Argentina - Ecuador: Chờ Messi thông nòng](https://vnexpress.net/argentina-ecuador-cho-messi-thong-nong-4766240.html) - 12:00 04/07/2024
