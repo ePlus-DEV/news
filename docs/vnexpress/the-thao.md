@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Ronaldo thay đổi thế nào khi sút luân lưu ở Euro 2024](https://vnexpress.net/ronaldo-thay-doi-the-nao-khi-sut-luan-luu-o-euro-2024-4765988.html) - 06:05 04/07/2024
 - 🦩 [Raducanu thăng hoa ở Wimbledon](https://vnexpress.net/raducanu-thang-hoa-o-wimbledon-4766076.html) - 05:10 04/07/2024
 - 🧰 [Del Bosque: &#39;Tây Ban Nha nhỉnh hơn Đức nhiều mặt&#39;](https://vnexpress.net/del-bosque-tay-ban-nha-nhinh-hon-duc-nhieu-mat-4766054.html) - 04:45 04/07/2024
-- 🤗 [Euro ngày 4/7: UEFA kiếm bộn tiền từ Euro 2024](https://vnexpress.net/euro-ngay-4-7-uefa-kiem-bon-tien-tu-euro-2024-4766032.html) - 04:30 04/07/2024
+- 🤗 [Euro ngày 4/7: Foden trách đồng đội ở tuyển Anh](https://vnexpress.net/ban-tin-cap-nhat-euro-2024-4766032.html) - 04:30 04/07/2024
 - 🥳 [Đại chiến ở bán kết Cup Quốc gia Việt Nam](https://vnexpress.net/dai-chien-o-ban-ket-cup-quoc-gia-viet-nam-4765998.html) - 04:25 04/07/2024
 - 🦣 [Bản tin Euro: 5 tuyển thủ Anh nguy cơ bị cấm thi đấu](https://vnexpress.net/ban-tin-euro-5-tuyen-thu-anh-nguy-co-bi-cam-thi-dau-4765971.html) - 04:18 04/07/2024
 - 🌜 [Rudiger: &#39;Đức không được đá cầm chừng trước Tây Ban Nha&#39;](https://vnexpress.net/rudiger-duc-khong-duoc-da-cam-chung-truoc-tay-ban-nha-4766009.html) - 03:49 04/07/2024
