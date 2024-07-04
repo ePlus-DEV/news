@@ -23,9 +23,9 @@ sidebar_position: 5
 - 💯 [HLV Thụy Sĩ thích được xem là cửa dưới so với Anh](https://vnexpress.net/hlv-thuy-si-thich-duoc-xem-la-cua-duoi-so-voi-anh-4765647.html) - 23:28 03/07/2024
 - 🌈 [Tiền đạo Tây Ban Nha dọa &#39;khiến Kroos giải nghệ sớm&#39;](https://vnexpress.net/tien-dao-tay-ban-nha-doa-khien-kroos-giai-nghe-som-4765906.html) - 23:24 03/07/2024
 - 🦩 [Mbappe luôn tịt ngòi ở các giải chính gặp Ronaldo](https://vnexpress.net/mbappe-luon-tit-ngoi-o-cac-giai-chinh-gap-ronaldo-4765866.html) - 22:25 03/07/2024
-- 🐲 [Danh thủ Đức chê Tây Ban Nha non nớt](https://vnexpress.net/danh-thu-duc-che-tay-ban-nha-non-not-4765890.html) - 17:00 03/07/2024
+- 🐲 [8 kỷ lục bị phá ở vòng 1/8 Euro 2024](https://vnexpress.net/8-ky-luc-bi-pha-o-vong-1-8-euro-2024-4765863.html) - 17:00 03/07/2024
 - 🌁 [9 cầu thủ tỏa sáng ở vòng 1/8 Euro 2024](https://vnexpress.net/9-cau-thu-toa-sang-o-vong-1-8-euro-2024-4765883.html) - 17:00 03/07/2024
-- 💯 [8 kỷ lục bị phá ở vòng 1/8 Euro 2024](https://vnexpress.net/8-ky-luc-bi-pha-o-vong-1-8-euro-2024-4765863.html) - 17:00 03/07/2024
+- 💯 [Danh thủ Đức chê Tây Ban Nha non nớt](https://vnexpress.net/danh-thu-duc-che-tay-ban-nha-non-not-4765890.html) - 17:00 03/07/2024
 - 🌝 [HLV Trần Minh Chiến: &#39;Việt Nam đã tặng chiến thắng cho Indonesia&#39;](https://vnexpress.net/hlv-tran-minh-chien-viet-nam-da-tang-chien-thang-cho-indonesia-4765857.html) - 13:08 03/07/2024
 - 🤖 [Sự cuồng nhiệt của CĐV Hà Lan Euro 2024](https://vnexpress.net/su-cuong-nhiet-cua-cdv-ha-lan-euro-2024-4765829.html) - 10:46 03/07/2024
 - 🕯 [Việt Nam thua Indonesia 0-5 ở giải U16 Đông Nam Á](https://vnexpress.net/viet-nam-thua-indonesia-0-5-o-giai-u16-dong-nam-a-4765805.html) - 10:15 03/07/2024
