@@ -32,7 +32,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌏 [Kỷ niệm 35 năm thành lập nhà giàn DK1](https://vnexpress.net/nha-gian-dk1-4766708.html) - 17:00 05/07/2024
 - 🧐 [Trung Quốc sản xuất hàng loạt thủy phi cơ lớn nhất thế giới](https://vnexpress.net/trung-quoc-san-xuat-hang-loat-thuy-phi-co-lon-nhat-the-gioi-4766687.html) - 17:00 05/07/2024
 - 💫 [Hoàn thành chỉnh trang bờ sông qua rừng ngập mặn Phan Thiết](https://vnexpress.net/hoan-thanh-chinh-trang-bo-song-qua-rung-ngap-man-phan-thiet-4766673.html) - 17:00 05/07/2024
-- 😺 [Bồ Đào Nha 0-0 Pháp &lpar;H1&rpar;: Mbappe, Ronaldo đá chính](https://vnexpress.net/truc-tiep-tran-bo-dao-nha-vs-phap-tu-ket-euro-2024-4766671.html) - 17:00 05/07/2024
+- 😺 [Bồ Đào Nha - Pháp: Mbappe, Ronaldo đá chính](https://vnexpress.net/truc-tiep-tran-bo-dao-nha-vs-phap-tu-ket-euro-2024-4766671.html) - 17:00 05/07/2024
 - 🕯 [Vợ âm thầm rút sạch tiền trong lợn tiết kiệm](https://vnexpress.net/vo-am-tham-rut-sach-tien-trong-lon-tiet-kiem-4766669.html) - 17:00 05/07/2024
 - 💃 [Bất an trong &#39;nhà 2 tỷ của mình, nhưng đất của người khác&#39;](https://vnexpress.net/bat-an-trong-nha-2-ty-cua-minh-nhung-dat-cua-nguoi-khac-4766635.html) - 17:00 05/07/2024
 - 💂 [Từ 1/7, xây dựng thang lương, bảng lương thế nào cho đúng luật?](https://vnexpress.net/tu-1-7-xay-dung-thang-luong-bang-luong-the-nao-cho-dung-luat-4766552.html) - 17:00 05/07/2024
