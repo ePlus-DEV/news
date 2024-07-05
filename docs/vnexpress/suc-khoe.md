@@ -5,7 +5,7 @@ sidebar_position: 10
 
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [Sốt xuất huyết nguy cơ bùng phát vào mùa mưa](https://vnexpress.net/sot-xuat-huyet-nguy-co-bung-phat-vao-mua-mua-4766456.html) - 12:00 05/07/2024
-- 🥰 [Nửa tháng cứu chữa nam thanh niên bị cô ruột đầu độc bằng xyanua](https://vnexpress.net/nua-thang-cuu-chua-nam-thanh-nien-bi-co-ruot-dau-doc-bang-xyanua-4766636.html) - 11:06 05/07/2024
+- 🥰 [Nửa tháng cứu chữa nam thanh niên bị đầu độc bằng xyanua](https://vnexpress.net/nua-thang-cuu-chua-nam-thanh-nien-bi-co-ruot-dau-doc-bang-xyanua-4766636.html) - 11:06 05/07/2024
 - 💡 [Hai cách giúp thai kỳ khỏe mạnh](https://vnexpress.net/hai-cach-giup-thai-ky-khoe-manh-4766623.html) - 11:00 05/07/2024
 - 🤗 [Cách cải thiện chất lượng tinh binh](https://vnexpress.net/cach-cai-thien-chat-luong-tinh-binh-4766528.html) - 11:00 05/07/2024
 - 🪜 [Tăng huyết áp &#39;áo choàng trắng&#39; là gì?](https://vnexpress.net/tang-huyet-ap-ao-choang-trang-la-gi-4766521.html) - 10:00 05/07/2024
