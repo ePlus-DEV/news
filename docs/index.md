@@ -257,7 +257,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Euro 2024: Thua nghiệt ngã ở hiệp phụ, Đức nhìn Tây Ban Nha vào bán kết](https://nld.com.vn/euro-2024-thua-nghiet-nga-o-hiep-phu-duc-nhin-tay-ban-nha-vao-ban-ket-1962407052358384.htm) - 18:51 05/07/2024
+- 🐎 [Euro 2024: Thua ở hiệp phụ, Đức nghẹn ngào nhìn Tây Ban Nha vào bán kết](https://nld.com.vn/euro-2024-thua-nghiet-nga-o-hiep-phu-duc-nhin-tay-ban-nha-vao-ban-ket-1962407052358384.htm) - 18:51 05/07/2024
 - 😺 [Phát sóng phim &quot;Miền quên lãng&quot; trên HTV7](https://nld.com.vn/phat-song-phim-mien-quen-lang-tren-htv7-196240705201948822.htm) - 18:33 05/07/2024
 - 👍 [VIDEO: Triển lãm Conan hoành tráng tại TP HCM thu hút hơn 5.000 người chỉ sau 1 tuần](https://nld.com.vn/video-trien-lam-conan-hoanh-trang-tai-tp-hcm-thu-hut-hon-5000-nguoi-chi-sau-1-tuan-196240705131044976.htm) - 17:36 05/07/2024
 - 🥷 [Thông tin đáng chú ý trên báo in Người Lao Động ngày 6-7](https://nld.com.vn/thong-tin-dang-chu-y-tren-bao-in-nguoi-lao-dong-ngay-6-7-196240705221409754.htm) - 17:01 05/07/2024
