@@ -151,7 +151,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Ngày mới với tin tức sức khỏe: Ăn thịt đỏ lượng bao nhiêu để phòng ung thư?](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-an-thit-do-luong-bao-nhieu-de-phong-ung-thu-185240705230926006.htm) - 17:10 05/07/2024
+- 🤠 [Ngày mới với tin tức sức khỏe: Ăn thịt đỏ lượng bao nhiêu để ngừa ung thư?](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-an-thit-do-luong-bao-nhieu-de-phong-ung-thu-185240705230926006.htm) - 17:10 05/07/2024
 - 🥸 [Quả khế có nhiều lợi ích, nhưng ai cần hạn chế ăn?](https://thanhnien.vn/qua-khe-co-nhieu-loi-ich-cho-suc-khoe-nhung-nhung-ai-can-han-che-an-185240705105347498.htm) - 17:08 05/07/2024
 - 🌁 [Tạo ra robot siêu nhỏ tìm diệt khối u ung thư trúng đích 100%](https://thanhnien.vn/tao-ra-robot-sieu-nho-tim-diet-khoi-u-ung-thu-trung-dich-100-185240705144248086.htm) - 17:07 05/07/2024
 - 🤡 [Đại học Harvard tìm ra cách ăn cực tốt cho tuổi thọ](https://thanhnien.vn/dai-hoc-harvard-tim-ra-cach-an-cuc-tot-cho-tuoi-tho-185240705143333497.htm) - 17:06 05/07/2024
