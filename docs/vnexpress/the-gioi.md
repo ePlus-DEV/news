@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Loạt trận tập kích của Nga hé lộ nguy cơ F-16 Ukraine đối mặt](https://vnexpress.net/loat-tran-tap-kich-cua-nga-he-lo-nguy-co-f-16-ukraine-doi-mat-4766441.html) - 09:10 05/07/2024
+- 🎭 [Rủi ro tiêm kích F-16 đối mặt khi đến Ukraine](https://vnexpress.net/rui-ro-tiem-kich-f-16-doi-mat-khi-den-ukraine-4766441.html) - 09:10 05/07/2024
 - 🕴 [Chính phủ Nhật phải bồi thường nạn nhân &#39;luật triệt sản&#39;](https://vnexpress.net/chinh-phu-nhat-phai-boi-thuong-nan-nhan-luat-triet-san-4766527.html) - 08:36 05/07/2024
 - 🤭 [10 cây cầu sập liên tiếp ở bang Ấn Độ](https://vnexpress.net/10-cay-cau-sap-lien-tiep-o-bang-an-do-4766429.html) - 08:28 05/07/2024
 - 🧑‍💻 [Hezbollah nã hơn 200 rocket vào lãnh thổ Israel](https://vnexpress.net/hezbollah-na-hon-200-rocket-vao-lanh-tho-israel-4766485.html) - 07:49 05/07/2024
