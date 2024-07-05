@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Bản tin Euro: Ronaldo bị Liên đoàn Bóng đá châu Âu điều tra](https://vnexpress.net/ban-tin-euro-ronaldo-bi-lien-doan-bong-da-chau-au-dieu-tra-4766388.html) - 02:43 05/07/2024
 - 🦩 [Nagelsmann: &#39;Tây Ban Nha dễ tổn thương khi dâng cao tấn công&#39;](https://vnexpress.net/nagelsmann-tay-ban-nha-de-ton-thuong-khi-dang-cao-tan-cong-4766353.html) - 01:49 05/07/2024
-- 🧰 [Argentina 1-0 Ecuador &lpar;H2&rpar;: Valencia sút hỏng phạt đền](https://vnexpress.net/truc-tiep-tran-argentina-vs-ecuador-tu-ket-copa-america-4766333.html) - 00:32 05/07/2024
+- 🧰 [Argentina vào bán kết Copa America dù Messi đá hỏng luân lưu](https://vnexpress.net/truc-tiep-tran-argentina-vs-ecuador-tu-ket-copa-america-4766333.html) - 00:32 05/07/2024
 - 🤗 [Yamal: &#39;Đức cứ chờ xem Tây Ban Nha có non nớt không&#39;](https://vnexpress.net/yamal-duc-cu-cho-xem-tay-ban-nha-co-non-not-khong-4766316.html) - 23:21 04/07/2024
 - 🥳 [Đối thủ lớn của Djokovic rút lui ở match-point](https://vnexpress.net/doi-thu-lon-cua-djokovic-rut-lui-o-match-point-4766320.html) - 23:11 04/07/2024
 - 🦣 [Sharapova xuất hiện ở Wimbledon](https://vnexpress.net/sharapova-xuat-hien-o-wimbledon-4766321.html) - 23:09 04/07/2024
