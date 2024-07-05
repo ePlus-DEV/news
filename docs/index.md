@@ -251,7 +251,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Đề xuất phí tham quan, du lịch vịnh Hạ Long 600.000 đồng/người trong 12 tiếng](https://nld.com.vn/de-xuat-phi-tham-quan-du-lich-vinh-ha-long-600000-dong-nguoi-trong-12-tieng-196240705191759125.htm) - 13:10 05/07/2024
+- 🐎 [Đề xuất phí tham quan, du lịch vịnh Hạ Long 600.000 đồng/người trong 12 giờ](https://nld.com.vn/de-xuat-phi-tham-quan-du-lich-vinh-ha-long-600000-dong-nguoi-trong-12-tieng-196240705191759125.htm) - 13:10 05/07/2024
 - 😺 [TP HCM: Bất ngờ với tình hình vi phạm trật tự xây dựng trong 6 tháng đầu năm 2024](https://nld.com.vn/tp-hcm-bat-ngo-voi-tinh-hinh-vi-pham-trat-tu-xay-dung-trong-6-thang-dau-nam-2024-196240705192329886.htm) - 13:08 05/07/2024
 - 👍 [Bắt nam nhân viên văn phòng đăng ký đất đai tại Quảng Nam](https://nld.com.vn/bat-nam-nhan-vien-van-phong-dang-ky-dat-dai-tai-quang-nam-196240705193038506.htm) - 13:00 05/07/2024
 - 🥷 [Công ty tài chính triển khai ưu đãi vay tiền mặt “lãi suất nhẹ”](https://thitruong.nld.com.vn/cong-ty-tai-chinh-trien-khai-uu-dai-vay-tien-mat-lai-suat-nhe-196240705180443114.htm) - 13:00 05/07/2024
