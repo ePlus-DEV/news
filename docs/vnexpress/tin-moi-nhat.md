@@ -16,8 +16,8 @@ sidebar_position: 9
 - 🪜 [HLV Nagelsmann: &#39;Nếu Đức thi đấu bạc nhược thì thua cũng không tiếc&#39;](https://vnexpress.net/hlv-nagelsmann-neu-duc-thi-dau-bac-nhuoc-thi-thua-cung-khong-tiec-4766740.html) - 22:30 05/07/2024
 - 👨‍🏫 [Highlight trận Pháp 0-0 &lpar;pen 5-3&rpar; Bồ Đào Nha: Kết thúc buồn của Ronaldo](https://vnexpress.net/highlight-tran-phap-0-0-pen-5-3-bo-dao-nha-ket-thuc-buon-cua-ronaldo-4766742.html) - 22:06 05/07/2024
 - 🎊 [Lý do Thủ tướng Sunak thất bại](https://vnexpress.net/ly-do-thu-tuong-sunak-that-bai-4766338.html) - 22:00 05/07/2024
-- 🎊 [Tìm mọi cách &#39;mua&#39; chiều cao cho con](https://vnexpress.net/tim-moi-cach-mua-chieu-cao-cho-con-4762664.html) - 22:00 05/07/2024
-- 😺 [Học sinh đi xe đạp điện tạt đầu ôtô](https://vnexpress.net/hoc-sinh-di-xe-dap-dien-tat-dau-oto-4766496.html) - 22:00 05/07/2024
+- 🎊 [Học sinh đi xe đạp điện tạt đầu ôtô](https://vnexpress.net/hoc-sinh-di-xe-dap-dien-tat-dau-oto-4766496.html) - 22:00 05/07/2024
+- 😺 [Tìm mọi cách &#39;mua&#39; chiều cao cho con](https://vnexpress.net/tim-moi-cach-mua-chieu-cao-cho-con-4762664.html) - 22:00 05/07/2024
 - 🐘 [&#39;Muối Bạc Liêu giá 900 đồng một kg, Singapore chế biến bán 1,8 triệu đồng cho 100 gram&#39;](https://vnexpress.net/muoi-bac-lieu-gia-900-dong-mot-kg-singapore-che-bien-ban-1-8-trieu-dong-cho-100-gram-4766691.html) - 21:52 05/07/2024
 - 🌁 [Nghề mai mối cho người giàu](https://vnexpress.net/nghe-mai-moi-cho-nguoi-giau-4765886.html) - 21:00 05/07/2024
 - 🐲 [Highlight trận Đức 1-2 Tây Ban Nha: Chủ nhà thua đau](https://vnexpress.net/highlight-tran-duc-1-2-tay-ban-nha-chu-nha-thua-dau-4766744.html) - 20:10 05/07/2024
