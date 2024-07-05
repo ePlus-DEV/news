@@ -4,11 +4,11 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Một người bị bắt trong vụ bắn chết cô gái ở Hà Nội](https://vnexpress.net/mot-nguoi-bi-bat-trong-vu-ban-chet-co-gai-o-ha-noi-4766508.html) - 05:12 05/07/2024
-- 🥰 [Nhân viên cấp cứu bị kiện vì bỏ người &#39;vẫn còn thở&#39; vào túi đựng xác](https://vnexpress.net/nhan-vien-cap-cuu-bi-kien-vi-bo-nguoi-van-con-tho-vao-tui-dung-xac-4766309.html) - 05:07 05/07/2024
+- 😎 [Nhân viên cấp cứu bị kiện vì bỏ người &#39;vẫn còn thở&#39; vào túi đựng xác](https://vnexpress.net/nhan-vien-cap-cuu-bi-kien-vi-bo-nguoi-van-con-tho-vao-tui-dung-xac-4766309.html) - 05:13 05/07/2024
+- 🥰 [Một người bị bắt trong vụ bắn chết cô gái ở Hà Nội](https://vnexpress.net/mot-nguoi-bi-bat-trong-vu-ban-chet-co-gai-o-ha-noi-4766508.html) - 05:12 05/07/2024
 - 🎓 [Kẻ sát hại người tình hơn 11 tuổi lĩnh án tử hình](https://vnexpress.net/ke-sat-hai-nguoi-tinh-hon-11-tuoi-linh-an-tu-hinh-4766474.html) - 04:58 05/07/2024
 - 🤓 [Cho vay nặng lãi 365%/năm, ném mắm tôm dằn mặt con nợ](https://vnexpress.net/cho-vay-nang-lai-365-nam-nem-mam-tom-dan-mat-con-no-4766410.html) - 04:34 05/07/2024
-- 🎊 [Nam thanh niên nghi bị đầu độc bằng xyanua](https://vnexpress.net/nam-thanh-nien-nghi-bi-dau-doc-bang-xyanua-4766449.html) - 03:58 05/07/2024
+- 🎊 [Nam thanh niên bị cô ruột đầu độc bằng xyanua](https://vnexpress.net/nam-thanh-nien-bi-co-ruot-dau-doc-bang-xyanua-4766449.html) - 03:58 05/07/2024
 - 🙉 [Nguyên chủ tịch Tổng công ty Địa ốc Sài Gòn bị phạt 5 năm 6 tháng tù](https://vnexpress.net/nguyen-chu-tich-tong-cong-ty-dia-oc-sai-gon-bi-phat-5-nam-6-thang-tu-4766446.html) - 03:46 05/07/2024
 - 🤡 [Trùm sòng bạc Ma Cao bị tuyên 162 tội danh, y án 18 năm tù](https://vnexpress.net/trum-song-bac-ma-cao-nhan-an-18-nam-tu-4766375.html) - 02:47 05/07/2024
 - 🗽 [Hai tên trộm đoán trúng mật khẩu thẻ ATM của nạn nhân](https://vnexpress.net/hai-ten-trom-doan-trung-mat-khau-the-atm-cua-nan-nhan-4766385.html) - 02:42 05/07/2024
