@@ -214,9 +214,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp bóng đá Bồ Đào Nha vs Pháp tại tứ kết EURO 2024](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-bo-dao-nha-vs-phap-tai-tu-ket-euro-2024-1362361.ldo) - 18:00 05/07/2024
+- 🗽 [Trực tiếp bóng đá Bồ Đào Nha 0-0 Pháp: Hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-bo-dao-nha-0-0-phap-hiep-1-1362361.ldo) - 18:00 05/07/2024
 - 📝 [MLee bất ngờ thi hoa hậu được Lệ Quyên, Ninh Dương Lan Ngọc ủng hộ](https://laodong.vn/giai-tri/mlee-bat-ngo-thi-hoa-hau-duoc-le-quyen-ninh-duong-lan-ngoc-ung-ho-1362322.ldo) - 15:24 05/07/2024
-- 🦏 [Tuyển Tây Ban Nha vào bán kết EURO 2024 sau 120 phút kịch chiến với chủ nhà Đức](https://laodong.vn/bong-da-quoc-te/tuyen-tay-ban-nha-vao-ban-ket-euro-2024-sau-120-phut-kich-chien-voi-chu-nha-duc-1362187.ldo) - 14:54 05/07/2024
+- 🦏 [Tuyển Tây Ban Nha vào bán kết EURO 2024 với trận thắng Đức sau 120 phút](https://laodong.vn/bong-da-quoc-te/tuyen-tay-ban-nha-vao-ban-ket-euro-2024-voi-tran-thang-duc-sau-120-phut-1362187.ldo) - 14:54 05/07/2024
 - 🦩 [Công an Hải Phòng bắt giữ đối tượng trốn truy nã 34 năm](https://laodong.vn/phap-luat/cong-an-hai-phong-bat-giu-doi-tuong-tron-truy-na-34-nam-1362334.ldo) - 14:42 05/07/2024
 - 🦏 [Vụ cô gái bị bắn tử vong ở Long Biên, 1 đối tượng ra đầu thú](https://laodong.vn/phap-luat/vu-co-gai-bi-ban-tu-vong-o-long-bien-1-doi-tuong-ra-dau-thu-1362325.ldo) - 14:25 05/07/2024
 - 🧰 [Bắt đối tượng tàng trữ, vận chuyển hàng chục nghìn bao thuốc lá nhập lậu](https://laodong.vn/phap-luat/bat-doi-tuong-tang-tru-van-chuyen-hang-chuc-nghin-bao-thuoc-la-nhap-lau-1362326.ldo) - 14:17 05/07/2024
