@@ -7,7 +7,7 @@ sidebar_position: 2
 - 🎭 [Thủ tướng Anh thừa nhận thất cử](https://vnexpress.net/thu-tuong-anh-thua-nhan-that-cu-4766471.html) - 04:44 05/07/2024
 - 🕴 [Pháp triển khai 30.000 cảnh sát cho bầu cử vòng hai](https://vnexpress.net/phap-trien-khai-30-000-canh-sat-cho-bau-cu-vong-hai-4766344.html) - 03:51 05/07/2024
 - 🤭 [Nỗi lo của Thủ tướng Israel với nguy cơ bị quân đội quay lưng](https://vnexpress.net/noi-lo-cua-thu-tuong-israel-voi-nguy-co-bi-quan-doi-quay-lung-4765935.html) - 03:49 05/07/2024
-- 🧑‍💻 [Ukraine tuyên bố Patriot chặn 100% tên lửa Kinzhal ở Kiev](https://vnexpress.net/ukraine-tuyen-bo-patriot-chan-100-ten-lua-kinzhal-o-kiev-4766347.html) - 03:09 05/07/2024
+- 🧑‍💻 [Ukraine tuyên bố chặn toàn bộ tên lửa siêu vượt âm Kinzhal ở Kiev](https://vnexpress.net/ukraine-tuyen-bo-chan-toan-bo-ten-lua-sieu-vuot-am-kinzhal-o-kiev-4766347.html) - 03:09 05/07/2024
 - 🦏 [Ông Zelensky phàn nàn vũ khí phương Tây đến Ukraine chậm](https://vnexpress.net/ong-zelensky-phan-nan-vu-khi-phuong-tay-den-ukraine-cham-4766349.html) - 02:59 05/07/2024
 - 🦒 [Mbappe tiếp tục kêu gọi chống phe cực hữu](https://vnexpress.net/mbappe-tiep-tuc-keu-goi-chong-phe-cuc-huu-4766343.html) - 02:47 05/07/2024
 - 🌈 [Đảng của Thủ tướng Anh được dự báo thua đậm](https://vnexpress.net/dang-cua-thu-tuong-anh-duoc-du-bao-thua-dam-4766324.html) - 00:35 05/07/2024
