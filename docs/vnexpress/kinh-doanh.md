@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Quảng Trị sắp khởi công sân bay hơn 5.800 tỷ đồng](https://vnexpress.net/quang-tri-sap-khoi-cong-san-bay-hon-5-800-ty-dong-4766243.html) - 01:00 05/07/2024
-- 🐲 [Đường sắt báo doanh thu kỷ lục nửa đầu năm](https://vnexpress.net/duong-sat-bao-doanh-thu-ky-luc-nua-dau-nam-4766301.html) - 22:00 04/07/2024
+- 🐲 [Tổng công ty Đường sắt báo doanh thu kỷ lục nửa đầu năm](https://vnexpress.net/tong-cong-ty-duong-sat-bao-doanh-thu-ky-luc-nua-dau-nam-4766301.html) - 22:00 04/07/2024
 - 🔥 [Măng cụt mất mùa, rớt giá](https://vnexpress.net/mang-cut-mat-mua-rot-gia-4766188.html) - 17:00 04/07/2024
 - 🐵 [Bitcoin rơi về giá thấp nhất hai tháng](https://vnexpress.net/bitcoin-roi-ve-gia-thap-nhat-hai-thang-4766272.html) - 12:56 04/07/2024
 - 🦅 [Nga muốn hợp tác du lịch, thời trang với doanh nghiệp Việt](https://vnexpress.net/nga-muon-hop-tac-du-lich-thoi-trang-voi-doanh-nghiep-viet-4766128.html) - 12:04 04/07/2024
