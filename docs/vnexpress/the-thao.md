@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [Ngày Mbappe đại chiến Ronaldo](https://vnexpress.net/ngay-mbappe-dai-chien-ronaldo-4766512.html) - 05:57 05/07/2024
 - 🧰 [Djokovic chấp nhận mọi rủi ro để chơi Wimbledon](https://vnexpress.net/djokovic-chap-nhan-moi-rui-ro-de-choi-wimbledon-4766476.html) - 04:41 05/07/2024
 - 🤗 [HLV Bồ Đào Nha bị chê không biết cách giúp Ronaldo ghi bàn](https://vnexpress.net/hlv-bo-dao-nha-bi-che-khong-biet-cach-giup-ronaldo-ghi-ban-4766350.html) - 04:30 05/07/2024
-- 🥳 [Euro ngày 5/7: Mbappe ít chạy chỗ vì không còn Pogba](https://vnexpress.net/tao-tsuchiya-4766409.html) - 04:30 05/07/2024
+- 🥳 [Euro ngày 5/7: Mbappe tri ân người giúp gặp mặt Ronaldo](https://vnexpress.net/tao-tsuchiya-4766409.html) - 04:30 05/07/2024
 - 🦣 [Messi bị chấm điểm trung bình](https://vnexpress.net/messi-bi-cham-diem-trung-binh-4766457.html) - 04:11 05/07/2024
 - 🌜 [Djokovic tạm biệt Murray](https://vnexpress.net/djokovic-tam-biet-murray-4766455.html) - 03:46 05/07/2024
 - 🫶 [2.000 em nhỏ sẽ tham dự Kun Marathon Đà Nẵng](https://vnexpress.net/2-000-em-nho-se-tham-du-kun-marathon-da-nang-4765969.html) - 03:30 05/07/2024
