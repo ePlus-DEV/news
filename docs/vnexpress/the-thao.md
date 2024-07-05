@@ -4,8 +4,8 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Bồ Đào Nha - Pháp](https://vnexpress.net/bo-dao-nha-phap-4766671.html) - 17:00 05/07/2024
-- 🦩 [Tây Ban Nha 1-0 Đức &lpar;H2&rpar;: Unai Simon bay người cứu thua](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-duc-o-tu-ket-euro-2024-4766667.html) - 14:00 05/07/2024
+- 🪜 [Bồ Đào Nha - Pháp: Mbappe, Ronaldo đá chính](https://vnexpress.net/bo-dao-nha-phap-mbappe-ronaldo-da-chinh-4766671.html) - 17:00 05/07/2024
+- 🦩 [Bàn phút 119 giúp Tây Ban Nha loại Đức ở tứ kết Euro 2024](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-duc-o-tu-ket-euro-2024-4766667.html) - 14:00 05/07/2024
 - 🧰 [Chuyên gia tâm lý: &#39;Ronaldo khóc không phải vì yếu đuối&#39;](https://vnexpress.net/chuyen-gia-tam-ly-ronaldo-khoc-khong-phai-vi-yeu-duoi-4766701.html) - 13:02 05/07/2024
 - 🤗 [Khoảnh khắc cảm xúc của các gia đình trên đường đua Libera Fun Fest](https://vnexpress.net/khoanh-khac-cam-xuc-cua-cac-gia-dinh-tren-duong-dua-libera-fun-fest-4766696.html) - 13:00 05/07/2024
 - 🥳 [Deschamps chưa nguôi ngoai trận thua Bồ Đào Nha ở Euro 2016](https://vnexpress.net/deschamps-chua-nguoi-ngoai-tran-thua-bo-dao-nha-o-euro-2016-4766698.html) - 12:45 05/07/2024
@@ -31,8 +31,8 @@ sidebar_position: 5
 - 🕯 [Yamal: &#39;Đức cứ chờ xem Tây Ban Nha có non nớt không&#39;](https://vnexpress.net/yamal-duc-cu-cho-xem-tay-ban-nha-co-non-not-khong-4766316.html) - 23:21 04/07/2024
 - 🧰 [Đối thủ lớn của Djokovic rút lui ở match-point](https://vnexpress.net/doi-thu-lon-cua-djokovic-rut-lui-o-match-point-4766320.html) - 23:11 04/07/2024
 - 🥳 [Sharapova xuất hiện ở Wimbledon](https://vnexpress.net/sharapova-xuat-hien-o-wimbledon-4766321.html) - 23:09 04/07/2024
-- 👍 [Fullkrug được ví như &#39;sát thủ từ ghế dự bị&#39; của Đức](https://vnexpress.net/fullkrug-duoc-vi-nhu-sat-thu-tu-ghe-du-bi-cua-duc-4766273.html) - 17:00 04/07/2024
-- 💪 [Rothen: &#39;Pháp phải dè chừng Ronaldo ở tứ kết Euro 2024&#39;](https://vnexpress.net/rothen-phap-phai-de-chung-ronaldo-o-tu-ket-euro-2024-4766269.html) - 17:00 04/07/2024
+- 👍 [Rothen: &#39;Pháp phải dè chừng Ronaldo ở tứ kết Euro 2024&#39;](https://vnexpress.net/rothen-phap-phai-de-chung-ronaldo-o-tu-ket-euro-2024-4766269.html) - 17:00 04/07/2024
+- 💪 [Fullkrug được ví như &#39;sát thủ từ ghế dự bị&#39; của Đức](https://vnexpress.net/fullkrug-duoc-vi-nhu-sat-thu-tu-ghe-du-bi-cua-duc-4766273.html) - 17:00 04/07/2024
 - 👹 [Huyền thoại Đức hiến kế đánh bại Tây Ban Nha](https://vnexpress.net/huyen-thoai-duc-hien-ke-danh-bai-tay-ban-nha-4766185.html) - 17:00 04/07/2024
 - 🧰 [Hà Nội FC lập kỷ lục ở Cup Quốc gia](https://vnexpress.net/ha-noi-fc-lap-ky-luc-o-cup-quoc-gia-4766275.html) - 13:39 04/07/2024
 - 🚀 [Nam Định vỡ mộng ở Cup Quốc gia](https://vnexpress.net/nam-dinh-vo-mong-o-cup-quoc-gia-4766279.html) - 13:28 04/07/2024
