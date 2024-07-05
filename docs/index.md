@@ -31,7 +31,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥰 [Lý do &#39;đại bàng&#39; công nghệ tới Việt Nam rồi chọn đầu tư nơi khác](https://vnexpress.net/ly-do-dai-bang-cong-nghe-toi-viet-nam-roi-chon-dau-tu-noi-khac-4766684.html) - 14:37 05/07/2024
 - 🌏 [MLee thi Miss Universe Vietnam](https://vnexpress.net/mlee-thi-miss-universe-vietnam-4766707.html) - 14:37 05/07/2024
 - 🧐 [Môtô nước phát nổ hất tung người điều khiển](https://vnexpress.net/moto-nuoc-phat-no-hat-tung-nguoi-dieu-khien-4766648.html) - 14:32 05/07/2024
-- 💫 [Tây Ban Nha - Đức: UEFA kỳ vọng bốn sao trẻ](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-duc-o-tu-ket-euro-2024-4766667.html) - 14:00 05/07/2024
+- 💫 [Tây Ban Nha - Đức: Lamine Yamal &#39;sẽ ghi hai bàn&#39;](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-duc-o-tu-ket-euro-2024-4766667.html) - 14:00 05/07/2024
 - 😺 [Bữa sáng bằng salad dưa chuột sữa chua Hy Lạp](https://vnexpress.net/bua-sang-bang-salad-dua-chuot-sua-chua-hy-lap-4766629.html) - 14:00 05/07/2024
 - 🕯 [&#39;Tôi giữ chồng bằng được chứ không &#39;thả&#39; anh ra ngoài đi làm&#39;](https://vnexpress.net/toi-giu-chong-bang-duoc-chu-khong-tha-anh-ra-ngoai-di-lam-4766565.html) - 14:00 05/07/2024
 - 💃 [Lý do bánh Việt làm từ nếp ít nổi tiếng hơn mochi của Nhật](https://vnexpress.net/ly-do-banh-viet-lam-tu-nep-it-noi-tieng-hon-mochi-cua-nhat-4766557.html) - 14:00 05/07/2024
