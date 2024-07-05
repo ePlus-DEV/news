@@ -4,11 +4,11 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Chuyên gia tâm lý học: &#39;Ronaldo khóc không phải vì yếu đuối&#39;](https://vnexpress.net/chuyen-gia-tam-ly-hoc-ronaldo-khoc-khong-phai-vi-yeu-duoi-4766701.html) - 13:02 05/07/2024
-- 🦩 [Khoảnh khắc cảm xúc của các gia đình trên đường đua Libera Fun Fest](https://vnexpress.net/khoanh-khac-cam-xuc-cua-cac-gia-dinh-tren-duong-dua-libera-fun-fest-4766696.html) - 13:00 05/07/2024
-- 🧰 [Deschamps chưa nguôi lần thua Bồ Đào Nha ở chung kết Euro 2016](https://vnexpress.net/deschamps-chua-nguoi-lan-thua-bo-dao-nha-o-chung-ket-euro-2016-4766698.html) - 12:45 05/07/2024
-- 🤗 [Bồ Đào Nha - Pháp: Cuộc chiến thế hệ giữa Ronaldo và Mbappe](https://vnexpress.net/bo-dao-nha-phap-cuoc-chien-the-he-giua-ronaldo-va-mbappe-4766618.html) - 12:00 05/07/2024
-- 🥳 [Đội hình cầu thủ cao điểm nhất vòng 1/8 Euro](https://vnexpress.net/doi-hinh-cau-thu-cao-diem-nhat-vong-1-8-euro-4766608.html) - 10:48 05/07/2024
+- 🪜 [Tây Ban Nha - Đức: Báo Bild dự đoán tỷ số 5-6](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-duc-o-tu-ket-euro-2024-4766667.html) - 14:00 05/07/2024
+- 🦩 [Chuyên gia tâm lý: &#39;Ronaldo khóc không phải vì yếu đuối&#39;](https://vnexpress.net/chuyen-gia-tam-ly-ronaldo-khoc-khong-phai-vi-yeu-duoi-4766701.html) - 13:02 05/07/2024
+- 🧰 [Khoảnh khắc cảm xúc của các gia đình trên đường đua Libera Fun Fest](https://vnexpress.net/khoanh-khac-cam-xuc-cua-cac-gia-dinh-tren-duong-dua-libera-fun-fest-4766696.html) - 13:00 05/07/2024
+- 🤗 [Deschamps chưa nguôi ngoai trận thua Bồ Đào Nha ở Euro 2016](https://vnexpress.net/deschamps-chua-nguoi-ngoai-tran-thua-bo-dao-nha-o-euro-2016-4766698.html) - 12:45 05/07/2024
+- 🥳 [Bồ Đào Nha - Pháp: Cuộc chiến thế hệ giữa Ronaldo và Mbappe](https://vnexpress.net/bo-dao-nha-phap-cuoc-chien-the-he-giua-ronaldo-va-mbappe-4766618.html) - 12:00 05/07/2024
 - 🦣 [Công bố kết quả Ảnh đẹp Runner hè 2024 tháng đầu tiên](https://vnexpress.net/cong-bo-ket-qua-anh-dep-runner-he-2024-thang-dau-tien-4766663.html) - 10:40 05/07/2024
 - 🌜 [Khi Tây Ban Nha rũ bỏ tiki-taka](https://vnexpress.net/khi-tay-ban-nha-ru-bo-tiki-taka-4766526.html) - 10:30 05/07/2024
 - 🫶 [Tây Ban Nha, Pháp được dự đoán thắng ở tứ kết Euro 2024](https://vnexpress.net/tay-ban-nha-phap-duoc-du-doan-thang-o-tu-ket-euro-2024-4766665.html) - 10:23 05/07/2024
