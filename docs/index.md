@@ -275,7 +275,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💫 [&quot;Địa chấn&quot; trong bầu cử, Anh sắp có thủ tướng mới?](https://nld.com.vn/dia-chan-trong-bau-cu-anh-sap-co-thu-tuong-moi-196240705072434933.htm) - 00:52 05/07/2024
 - 🔭 [Đào sâu nét bản địa để hút khán giả](https://nld.com.vn/dao-sau-net-ban-dia-de-hut-khan-gia-196240704201141553.htm) - 00:51 05/07/2024
 - 🌝 [CHUYỆN HÀ THÀNH: Cho thuê vỉa hè, lòng đường](https://nld.com.vn/chuyen-ha-thanh-cho-thue-via-he-long-duong-196240704204219643.htm) - 00:48 05/07/2024
-- 💪 [Sáng nay, tư vấn trực tuyến: Lưu ý khi đăng ký xét tuyển đại học](https://nld.com.vn/sang-nay-tu-van-truc-tuyen-luu-y-khi-dang-ky-xet-tuyen-dai-hoc-196240704094903888.htm) - 00:47 05/07/2024
+- 💪 [Tư vấn trực tuyến: Lưu ý khi đăng ký xét tuyển đại học](https://nld.com.vn/sang-nay-tu-van-truc-tuyen-luu-y-khi-dang-ky-xet-tuyen-dai-hoc-196240704094903888.htm) - 00:47 05/07/2024
 - 🦍 [Euro 2024: Ăn mừng kiểu &quot;sói xám&quot;, sao Thổ Nhĩ Kỳ bị treo giò 2 trận](https://nld.com.vn/euro-2024-an-mung-kieu-soi-xam-sao-tho-nhi-ky-bi-treo-gio-2-tran-196240705073536278.htm) - 00:42 05/07/2024
 - 🥷 [2.000 mặt hàng nhãn riêng Co.opmart giảm “kịch sàn”](https://nld.com.vn/2000-mat-hang-nhan-rieng-coopmart-giam-kich-san-196240704170104905.htm) - 00:20 05/07/2024
 - 🫶 [Iran tìm chọn tân tổng thống](https://nld.com.vn/iran-tim-chon-tan-tong-thong-19624070422054484.htm) - 00:19 05/07/2024
