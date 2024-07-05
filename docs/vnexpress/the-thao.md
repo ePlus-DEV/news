@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Thủ môn Đặng Văn Lâm sắp kết hôn](https://vnexpress.net/thu-mon-dang-van-lam-sap-ket-hon-4766688.html) - 19:18 05/07/2024
-- 🦩 [Bồ Đào Nha 0-0 Pháp &lpar;H2&rpar;: Mbappe bị đau mũi](https://vnexpress.net/truc-tiep-tran-bo-dao-nha-vs-phap-tu-ket-euro-2024-4766671.html) - 17:00 05/07/2024
+- 🦩 [Bồ Đào Nha 0-0 Pháp &lpar;H2&rpar;: Liên tiếp bỏ lỡ](https://vnexpress.net/truc-tiep-tran-bo-dao-nha-vs-phap-tu-ket-euro-2024-4766671.html) - 17:00 05/07/2024
 - 🧰 [Tây Ban Nha loại Đức ở tứ kết Euro nhờ bàn phút 119](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-duc-o-tu-ket-euro-2024-4766667-tong-thuat.html) - 14:00 05/07/2024
 - 🤗 [Chuyên gia tâm lý: &#39;Ronaldo khóc không phải vì yếu đuối&#39;](https://vnexpress.net/chuyen-gia-tam-ly-ronaldo-khoc-khong-phai-vi-yeu-duoi-4766701.html) - 13:02 05/07/2024
 - 🥳 [Khoảnh khắc cảm xúc của các gia đình trên đường đua Libera Fun Fest](https://vnexpress.net/khoanh-khac-cam-xuc-cua-cac-gia-dinh-tren-duong-dua-libera-fun-fest-4766696.html) - 13:00 05/07/2024
