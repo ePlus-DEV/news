@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Nam thanh niên nghi bị đầu độc bằng xyanua](https://vnexpress.net/nam-thanh-nien-nghi-bi-dau-doc-bang-xyanua-4766449.html) - 03:58 05/07/2024
+- 😎 [Nam thanh niên nghi bị đầu độc bằng Xyanua](https://vnexpress.net/nam-thanh-nien-nghi-bi-dau-doc-bang-xyanua-4766449.html) - 03:58 05/07/2024
 - 🥰 [Nguyên chủ tịch Tổng công ty Địa ốc Sài Gòn bị phạt 5 năm 6 tháng tù](https://vnexpress.net/nguyen-chu-tich-tong-cong-ty-dia-oc-sai-gon-bi-phat-5-nam-6-thang-tu-4766446.html) - 03:46 05/07/2024
 - 🎓 [Trùm sòng bạc Ma Cao bị tuyên 162 tội danh, y án 18 năm tù](https://vnexpress.net/trum-song-bac-ma-cao-nhan-an-18-nam-tu-4766375.html) - 02:47 05/07/2024
 - 🤓 [Hai tên trộm đoán trúng mật khẩu thẻ ATM của nạn nhân](https://vnexpress.net/hai-ten-trom-doan-trung-mat-khau-the-atm-cua-nan-nhan-4766385.html) - 02:42 05/07/2024
