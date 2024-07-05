@@ -32,7 +32,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌏 [Kỷ niệm 35 năm thành lập nhà giàn DK1](https://vnexpress.net/nha-gian-dk1-4766708.html) - 17:00 05/07/2024
 - 🧐 [Trung Quốc sản xuất hàng loạt thủy phi cơ lớn nhất thế giới](https://vnexpress.net/trung-quoc-san-xuat-hang-loat-thuy-phi-co-lon-nhat-the-gioi-4766687.html) - 17:00 05/07/2024
 - 💫 [Hoàn thành chỉnh trang bờ sông qua rừng ngập mặn Phan Thiết](https://vnexpress.net/hoan-thanh-chinh-trang-bo-song-qua-rung-ngap-man-phan-thiet-4766673.html) - 17:00 05/07/2024
-- 😺 [Bồ Đào Nha - Pháp: Mbappe, Ronaldo đá chính](https://vnexpress.net/truc-tiep-tran-bo-dao-nha-vs-phap-tu-ket-euro-2024-4766671.html) - 17:00 05/07/2024
+- 😺 [Bồ Đào Nha 0-0 Pháp &lpar;H1&rpar;: Nhập cuộc chậm rãi](https://vnexpress.net/truc-tiep-tran-bo-dao-nha-vs-phap-tu-ket-euro-2024-4766671.html) - 17:00 05/07/2024
 - 🕯 [Vợ âm thầm rút sạch tiền trong lợn tiết kiệm](https://vnexpress.net/vo-am-tham-rut-sach-tien-trong-lon-tiet-kiem-4766669.html) - 17:00 05/07/2024
 - 💃 [Bất an trong &#39;nhà 2 tỷ của mình, nhưng đất của người khác&#39;](https://vnexpress.net/bat-an-trong-nha-2-ty-cua-minh-nhung-dat-cua-nguoi-khac-4766635.html) - 17:00 05/07/2024
 - 💂 [Từ 1/7, xây dựng thang lương, bảng lương thế nào cho đúng luật?](https://vnexpress.net/tu-1-7-xay-dung-thang-luong-bang-luong-the-nao-cho-dung-luat-4766552.html) - 17:00 05/07/2024
@@ -49,7 +49,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 👨‍🏫 [Lý do &#39;đại bàng&#39; công nghệ tới Việt Nam rồi chọn đầu tư nơi khác](https://vnexpress.net/ly-do-dai-bang-cong-nghe-toi-viet-nam-roi-chon-dau-tu-noi-khac-4766684.html) - 14:37 05/07/2024
 - 🐻 [MLee thi Miss Universe Vietnam](https://vnexpress.net/mlee-thi-miss-universe-vietnam-4766707.html) - 14:37 05/07/2024
 - 😺 [Môtô nước phát nổ hất tung người điều khiển](https://vnexpress.net/moto-nuoc-phat-no-hat-tung-nguoi-dieu-khien-4766648.html) - 14:32 05/07/2024
-- 🤔 [Bàn phút 119 giúp Tây Ban Nha loại Đức ở tứ kết Euro 2024](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-duc-o-tu-ket-euro-2024-4766667.html) - 14:00 05/07/2024
+- 🤔 [Tây Ban Nha loại Đức ở tứ kết Euro nhờ bàn phút 119](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-duc-o-tu-ket-euro-2024-4766667-tong-thuat.html) - 14:00 05/07/2024
 - 🌮 [Bữa sáng bằng salad dưa chuột sữa chua Hy Lạp](https://vnexpress.net/bua-sang-bang-salad-dua-chuot-sua-chua-hy-lap-4766629.html) - 14:00 05/07/2024
 - 🦩 [&#39;Tôi giữ chồng bằng được chứ không &#39;thả&#39; anh ra ngoài đi làm&#39;](https://vnexpress.net/toi-giu-chong-bang-duoc-chu-khong-tha-anh-ra-ngoai-di-lam-4766565.html) - 14:00 05/07/2024
 - 📝 [Lý do bánh Việt làm từ nếp ít nổi tiếng hơn mochi của Nhật](https://vnexpress.net/ly-do-banh-viet-lam-tu-nep-it-noi-tieng-hon-mochi-cua-nhat-4766557.html) - 14:00 05/07/2024
