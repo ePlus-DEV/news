@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Tây Ban Nha - Đức: Báo Bild dự đoán tỷ số 5-6](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-duc-o-tu-ket-euro-2024-4766667.html) - 14:00 05/07/2024
+- 🪜 [Tây Ban Nha - Đức: Yamal, Musiala đá chính](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-duc-o-tu-ket-euro-2024-4766667.html) - 14:00 05/07/2024
 - 🦩 [Chuyên gia tâm lý: &#39;Ronaldo khóc không phải vì yếu đuối&#39;](https://vnexpress.net/chuyen-gia-tam-ly-ronaldo-khoc-khong-phai-vi-yeu-duoi-4766701.html) - 13:02 05/07/2024
 - 🧰 [Khoảnh khắc cảm xúc của các gia đình trên đường đua Libera Fun Fest](https://vnexpress.net/khoanh-khac-cam-xuc-cua-cac-gia-dinh-tren-duong-dua-libera-fun-fest-4766696.html) - 13:00 05/07/2024
 - 🤗 [Deschamps chưa nguôi ngoai trận thua Bồ Đào Nha ở Euro 2016](https://vnexpress.net/deschamps-chua-nguoi-ngoai-tran-thua-bo-dao-nha-o-euro-2016-4766698.html) - 12:45 05/07/2024
@@ -12,7 +12,7 @@ sidebar_position: 5
 - 🦣 [Công bố kết quả Ảnh đẹp Runner hè 2024 tháng đầu tiên](https://vnexpress.net/cong-bo-ket-qua-anh-dep-runner-he-2024-thang-dau-tien-4766663.html) - 10:40 05/07/2024
 - 🌜 [Khi Tây Ban Nha rũ bỏ tiki-taka](https://vnexpress.net/khi-tay-ban-nha-ru-bo-tiki-taka-4766526.html) - 10:30 05/07/2024
 - 🫶 [Tây Ban Nha, Pháp được dự đoán thắng ở tứ kết Euro 2024](https://vnexpress.net/tay-ban-nha-phap-duoc-du-doan-thang-o-tu-ket-euro-2024-4766665.html) - 10:23 05/07/2024
-- 🌜 [Đức - Tây Ban Nha: &#39;Chung kết sớm&#39; của Euro 2024](https://vnexpress.net/duc-tay-ban-nha-chung-ket-som-cua-euro-2024-4766604.html) - 09:00 05/07/2024
+- 🌜 [Đức - Tây Ban Nha: Chung kết sớm của Euro 2024](https://vnexpress.net/duc-tay-ban-nha-chung-ket-som-cua-euro-2024-4766604.html) - 09:00 05/07/2024
 - 😺 [Nghịch lý Real khi Tây Ban Nha bay cao ở Euro 2024](https://vnexpress.net/nghich-ly-real-khi-tay-ban-nha-bay-cao-o-euro-2024-4766530.html) - 08:20 05/07/2024
 - 👍 [Mbappe: &#39;Hy vọng Ronaldo không cười sau tứ kết Euro 2024&#39;](https://vnexpress.net/mbappe-hy-vong-ronaldo-khong-cuoi-sau-tu-ket-euro-2024-4766571.html) - 08:17 05/07/2024
 - 🐵 [Messi tri ân thủ thành Martinez](https://vnexpress.net/messi-tri-an-thu-thanh-martinez-4766519.html) - 08:05 05/07/2024
