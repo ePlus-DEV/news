@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Ba người đi ôtô truy đuổi, bắn cô gái ở Hà Nội tử vong](https://vnexpress.net/ba-nguoi-di-oto-truy-duoi-ban-co-gai-o-ha-noi-tu-vong-4766664.html) - 10:51 05/07/2024
+- 😎 [Ba người truy đuổi, bắn chết cô gái ở Hà Nội](https://vnexpress.net/ba-nguoi-di-oto-truy-duoi-ban-co-gai-o-ha-noi-tu-vong-4766664.html) - 10:51 05/07/2024
 - 🥰 [Tổng giám đốc bị truy tố vì lừa 20 tỷ đồng của bạn Việt kiều](https://vnexpress.net/tong-giam-doc-bi-truy-to-vi-lua-20-ty-dong-cua-ban-viet-kieu-4766553.html) - 10:10 05/07/2024
 - 🎓 [Kẻ sát hại người yêu &#39;nhí&#39; bị phạt 15 năm tù](https://vnexpress.net/ke-sat-hai-nguoi-yeu-nhi-bi-phat-15-nam-tu-4766518.html) - 06:08 05/07/2024
 - 🤓 [Nhân viên cấp cứu bị kiện vì bỏ người &#39;vẫn còn thở&#39; vào túi đựng xác](https://vnexpress.net/nhan-vien-cap-cuu-bi-kien-vi-bo-nguoi-van-con-tho-vao-tui-dung-xac-4766309.html) - 05:13 05/07/2024
