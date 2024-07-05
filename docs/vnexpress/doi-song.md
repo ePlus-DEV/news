@@ -7,7 +7,7 @@ sidebar_position: 6
 - 🚀 [Kiệt sức vì luôn phải sẵn sàng nhận việc](https://vnexpress.net/kiet-suc-vi-luon-phai-san-sang-nhan-viec-4766089.html) - 23:30 04/07/2024
 - 🎓 [5 điều đơn giản tạo nên hôn nhân bền vững](https://vnexpress.net/5-dieu-don-gian-tao-nen-hon-nhan-ben-vung-4766311.html) - 23:00 04/07/2024
 - 🚦 [Quỹ Hy vọng xây phòng học, nhà vệ sinh cho học sinh vùng cao](https://vnexpress.net/quy-hy-vong-xay-phong-hoc-nha-ve-sinh-cho-hoc-sinh-vung-cao-4765855.html) - 19:00 04/07/2024
-- 🦣 [Nộm đu đủ bò khô](https://vnexpress.net/nom-du-du-bo-kho-4766069.html) - 12:27 04/07/2024
+- 🦣 [Nộm đu đủ bò khô](https://vnexpress.net/doi-song-cooking-nom-du-du-bo-kho-4766069.html) - 12:27 04/07/2024
 - 🎓 [Chế thuốc diệt gián từ bột giặt](https://vnexpress.net/che-thuoc-diet-gian-tu-bot-giat-4765996.html) - 10:00 04/07/2024
 - 🎭 [Thị trấn Thụy Điển bán đất giá bằng cốc cà phê](https://vnexpress.net/thi-tran-thuy-dien-ban-dat-gia-bang-coc-ca-phe-4766074.html) - 09:08 04/07/2024
 - 🦅 [Thế hệ thất nghiệp mới tại Mỹ](https://vnexpress.net/the-he-that-nghiep-moi-tai-my-4766034.html) - 04:37 04/07/2024
@@ -16,12 +16,12 @@ sidebar_position: 6
 - 🐻 [Hàn Quốc bùng nổ tiêu dùng một người](https://vnexpress.net/han-quoc-bung-no-tieu-dung-mot-nguoi-4765888.html) - 01:31 04/07/2024
 - 🧠 [Chăm thú cưng &#39;như ông hoàng&#39;](https://vnexpress.net/cham-thu-cung-nhu-ong-hoang-4763087.html) - 23:00 03/07/2024
 - 🐘 [Hơn 6 tỷ đồng hỗ trợ điều trị cho gần 200 bệnh nhi](https://vnexpress.net/hon-6-ty-dong-ho-tro-dieu-tri-cho-gan-200-benh-nhi-4765854.html) - 22:00 03/07/2024
-- 👹 [Miến trộn kiểu Hàn Quốc](https://vnexpress.net/mien-tron-kieu-han-quoc-4765764.html) - 10:41 03/07/2024
+- 👹 [Miến trộn kiểu Hàn Quốc](https://vnexpress.net/doi-song-cooking-mien-tron-kieu-han-quoc-4765764.html) - 10:41 03/07/2024
 - 💂 [Ba cái bẫy khiến các gia đình khó thoát nghèo](https://vnexpress.net/ba-cai-bay-khien-cac-gia-dinh-kho-thoat-ngheo-4765635.html) - 08:16 03/07/2024
 - 🦍 [Người giàu Mỹ cũng chật vật vì bão giá](https://vnexpress.net/nguoi-giau-my-cung-chat-vat-vi-bao-gia-4765580.html) - 04:48 03/07/2024
 - 🧑‍🏫 [Người đàn ông bỏ Pháp về rừng Tây Bắc với mẹ đơn thân Việt](https://vnexpress.net/nguoi-dan-ong-bo-phap-ve-rung-tay-bac-voi-me-don-than-viet-4763752.html) - 23:30 02/07/2024
 - 🧰 [Những đứa trẻ thành con nuôi vì chính sách một con](https://vnexpress.net/nhung-dua-tre-thanh-con-nuoi-vi-chinh-sach-mot-con-4765336.html) - 23:00 02/07/2024
-- 🪄 [Chè đỗ đãi Hà Nội nấu theo lối xưa](https://vnexpress.net/che-do-dai-ha-noi-nau-theo-loi-xua-4765240.html) - 10:30 02/07/2024
+- 🪄 [Chè đỗ đãi Hà Nội nấu theo lối xưa](https://vnexpress.net/doi-song-cooking-che-do-dai-ha-noi-nau-theo-loi-xua-4765240.html) - 10:30 02/07/2024
 - 🐲 [Mẹo giặt chiếu trúc không dùng nước](https://vnexpress.net/meo-giat-chieu-truc-khong-dung-nuoc-4764234.html) - 09:00 02/07/2024
 - 💻 [Giàu có giúp tăng tuổi khỏe mạnh thêm 9 năm](https://vnexpress.net/giau-co-giup-tang-tuoi-khoe-manh-them-9-nam-4765273.html) - 08:21 02/07/2024
 - 🐘 [Kết hôn 5 năm mới phát hiện thân phận thật của chồng](https://vnexpress.net/ket-hon-5-nam-moi-phat-hien-than-phan-that-cua-chong-4764463.html) - 04:33 02/07/2024
@@ -31,14 +31,14 @@ sidebar_position: 6
 - 🫣 [Đám cưới tập thể cho công nhân nghèo](https://vnexpress.net/dam-cuoi-tap-the-cho-cong-nhan-ngheo-4764983.html) - 23:00 01/07/2024
 - ⚗️ [Cô giáo trả lại 100 triệu đồng cho người chuyển khoản nhầm](https://vnexpress.net/co-giao-tra-lai-100-trieu-dong-cho-nguoi-chuyen-khoan-nham-4764921.html) - 12:34 01/07/2024
 - 🌊 [Thiếu niên vượt định kiến con nhà giàu](https://vnexpress.net/thieu-nien-vuot-dinh-kien-con-nha-giau-4764892.html) - 12:31 01/07/2024
-- 💃 [Đậu phụ sốt mắm tỏi](https://vnexpress.net/dau-phu-sot-mam-toi-4764701.html) - 10:36 01/07/2024
+- 💃 [Đậu phụ sốt mắm tỏi](https://vnexpress.net/doi-song-cooking-dau-phu-sot-mam-toi-4764701.html) - 10:36 01/07/2024
 - 🦆 [Bốn bộ phận của nồi cơm điện cần làm sạch thường xuyên](https://vnexpress.net/bon-bo-phan-cua-noi-com-dien-can-lam-sach-thuong-xuyen-4764533.html) - 09:04 01/07/2024
 - 🎓 [Có nên đua cho con vào trường chuyên, lớp chọn?](https://vnexpress.net/co-nen-dua-cho-con-vao-truong-chuyen-lop-chon-4758232.html) - 04:29 01/07/2024
 - 💪 [Vì sao lao động Việt mang tiếng năng suất thấp?](https://vnexpress.net/vi-sao-lao-dong-viet-mang-tieng-nang-suat-thap-4761167.html) - 23:00 30/06/2024
 - 🤔 [Cuộc chiến &#39;giữ ánh sáng&#39; cho con của vợ chồng người Dao](https://vnexpress.net/cuoc-chien-giu-anh-sang-cho-con-cua-vo-chong-nguoi-dao-4764449.html) - 17:10 30/06/2024
 - 🧰 [Những loại rau củ hiếm khi có thuốc trừ sâu](https://vnexpress.net/nhung-loai-rau-cu-hiem-khi-co-thuoc-tru-sau-4764166.html) - 12:00 30/06/2024
 - 😎 [P/S ra mắt hộp game khiến cả nhà thích đánh răng](https://vnexpress.net/p-s-ra-mat-hop-game-khien-ca-nha-thich-danh-rang-4764432.html) - 11:00 30/06/2024
-- 🌮 [Gỏi cà pháo thịt bò đổi vị ngày hè](https://vnexpress.net/goi-ca-phao-thit-bo-doi-vi-ngay-he-4764370.html) - 10:00 30/06/2024
+- 🌮 [Gỏi cà pháo thịt bò đổi vị ngày hè](https://vnexpress.net/doi-song-cooking-goi-ca-phao-thit-bo-doi-vi-ngay-he-4764370.html) - 10:00 30/06/2024
 - 🧠 [Kết hậu của người phụ nữ tìm lại tình đầu sau 50 năm](https://vnexpress.net/ket-hau-cua-nguoi-phu-nu-tim-lai-tinh-dau-sau-50-nam-4764199.html) - 08:13 30/06/2024
 - 🎡 [5 dấu hiệu nên nghỉ việc lập tức](https://vnexpress.net/5-dau-hieu-nen-nghi-viec-lap-tuc-4764356.html) - 08:04 30/06/2024
 - 🎡 [Hàng nghìn người trải nghiệm ngôi nhà &#39;thương gia&#39; của Toshiba](https://vnexpress.net/hang-nghin-nguoi-trai-nghiem-ngoi-nha-thuong-gia-cua-toshiba-4764152.html) - 07:00 30/06/2024
@@ -46,7 +46,7 @@ sidebar_position: 6
 - 🐻 [Cô gái Mỹ học làm dâu Hà Nội](https://vnexpress.net/co-gai-my-hoc-lam-dau-ha-noi-4762169.html) - 23:00 29/06/2024
 - 💂 [9 thách thức hôn nhân nào cũng có thể đối mặt](https://vnexpress.net/9-thach-thuc-hon-nhan-nao-cung-co-the-doi-mat-4764212.html) - 12:01 29/06/2024
 - 🥸 [Cách người trẻ &#39;siết từng đồng&#39; khi chi tiêu](https://vnexpress.net/cach-nguoi-tre-siet-tung-dong-khi-chi-tieu-4764236.html) - 12:00 29/06/2024
-- 🌋 [Trứng hấp mềm núng nính như thạch](https://vnexpress.net/trung-hap-mem-nung-ninh-nhu-thach-4764102.html) - 11:35 29/06/2024
+- 🌋 [Trứng hấp mềm núng nính như thạch](https://vnexpress.net/doi-song-cooking-trung-hap-mem-nung-ninh-nhu-thach-4764102.html) - 11:35 29/06/2024
 - 🦩 [Nỗi khổ con một](https://vnexpress.net/noi-kho-con-mot-4764021.html) - 06:21 29/06/2024
 - 😺 [Uống nước đun sôi hay đóng chai tốt hơn?](https://vnexpress.net/uong-nuoc-dun-soi-hay-dong-chai-tot-hon-4763999.html) - 06:03 29/06/2024
 - 🐻 [Thu hoạch gần 600 quả dưa hấu trên sân thượng](https://vnexpress.net/thu-hoach-gan-600-qua-dua-hau-tren-san-thuong-4763415.html) - 03:00 29/06/2024
