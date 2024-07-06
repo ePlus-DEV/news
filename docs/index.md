@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Anh - Thụy Sĩ: Southgate dùng sơ đồ ba trung vệ](https://vnexpress.net/truc-tiep-anh-vs-thuy-si-4766965.html) - 15:13 06/07/2024
+- 🚀 [Anh 0-0 Thụy Sĩ &lpar;H1&rpar;: Southgate dùng sơ đồ ba trung vệ](https://vnexpress.net/truc-tiep-anh-vs-thuy-si-4766965.html) - 15:13 06/07/2024
 - 🧰 [Thủ tướng Hungary thông báo cho NATO trước chuyến thăm Nga](https://vnexpress.net/thu-tuong-hungary-thong-bao-cho-nato-truoc-chuyen-tham-nga-4766964.html) - 14:40 06/07/2024
 - 🥰 [Trấn Thành, Hari Won tay trong tay dự thảm đỏ](https://vnexpress.net/tran-thanh-hari-won-tay-trong-tay-du-tham-do-4766969.html) - 14:35 06/07/2024
 - 🌏 [Brazil - Uruguay: Điệu samba lạc nhịp](https://vnexpress.net/brazil-uruguay-dieu-samba-lac-nhip-4766970.html) - 14:25 06/07/2024
