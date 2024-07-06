@@ -218,7 +218,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 📝 [Đăng Khôi gây xúc động trở lại sau 10 năm cùng mẹ ruột - mẹ vợ vượt qua bệnh ung thư](https://laodong.vn/van-hoa-giai-tri/dang-khoi-gay-xuc-dong-tro-lai-sau-10-nam-cung-me-ruot-me-vo-vuot-qua-benh-ung-thu-1362684.ldo) - 15:23 06/07/2024
 - 🦏 [Phim &quot;Mai&quot; thắng lớn tại Liên hoan phim châu Á Đà Nẵng lần thứ II](https://laodong.vn/van-hoa-giai-tri/phim-mai-thang-lon-tai-lien-hoan-phim-chau-a-da-nang-lan-thu-ii-1362667.ldo) - 15:21 06/07/2024
 - 🦩 [Trưởng phòng cấp huyện ở Phú Thọ tử nạn trên cao tốc Nội Bài - Lào Cai](https://laodong.vn/xa-hoi/truong-phong-cap-huyen-o-phu-tho-tu-nan-tren-cao-toc-noi-bai-lao-cai-1362679.ldo) - 15:18 06/07/2024
-- 🦏 [Trực tiếp Anh 0-0 Thụy Sĩ: Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-anh-0-0-thuy-si-hiep-2-1362686.ldo) - 15:11 06/07/2024
+- 🦏 [Trực tiếp Anh 1-1 Thụy Sĩ: Saka gỡ hòa](https://laodong.vn/bong-da-quoc-te/truc-tiep-anh-1-1-thuy-si-saka-go-hoa-1362686.ldo) - 15:11 06/07/2024
 - 🧰 [Hợp đồng thử việc bao gồm những nội dung gì?](https://laodong.vn/tu-van-phap-luat/hop-dong-thu-viec-bao-gom-nhung-noi-dung-gi-1359039.ldo) - 15:00 06/07/2024
 - 🌊 [Vòng 10 giải futsal VĐQG 2024: Sahako tiếp tục bám đuổi ngôi đầu](https://laodong.vn/the-thao/vong-10-giai-futsal-vdqg-2024-sahako-tiep-tuc-bam-duoi-ngoi-dau-1362675.ldo) - 14:40 06/07/2024
 - 🔥 [Son Ye Jin được ca ngợi là ngôi sao hàng đầu vì hành động dành cho fan](https://laodong.vn/giai-tri/son-ye-jin-duoc-ca-ngoi-la-ngoi-sao-hang-dau-vi-hanh-dong-danh-cho-fan-1362674.ldo) - 14:29 06/07/2024
