@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Euro ngày 6/7: Muller ám chỉ chia tay tuyển Đức](https://vnexpress.net/euro-ngay-6-7-muller-am-chi-chia-tay-tuyen-duc-4766776.html) - 05:41 06/07/2024
+- 🪜 [Euro ngày 6/7: Carvajal được khen là thiên tài vì lĩnh thẻ đỏ](https://vnexpress.net/euro-ngay-6-7-carvajal-duoc-khen-la-thien-tai-vi-linh-the-do-4766776.html) - 05:41 06/07/2024
 - 🦩 [Ronaldo kìm nén cảm xúc khi chia tay kỳ Euro cuối cùng](https://vnexpress.net/ronaldo-kim-nen-cam-xuc-khi-chia-tay-ky-euro-cuoi-cung-4766856.html) - 05:16 06/07/2024
 - 🧰 [Argentina gặp lại đối thủ vòng bảng ở bán kết Copa America](https://vnexpress.net/argentina-gap-lai-doi-thu-vong-bang-o-ban-ket-copa-america-4766841.html) - 05:05 06/07/2024
 - 🤗 [5 lần Emiliano Martinez giải cứu Argentina](https://vnexpress.net/5-lan-emiliano-martinez-giai-cuu-argentina-4766650.html) - 05:00 06/07/2024
