@@ -252,7 +252,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Bình Dương: Tiếng nổ lớn ở công ty gỗ, nhiều công nhân bỏng nặng](https://nld.com.vn/binh-duong-tieng-no-lon-o-cong-ty-go-nhieu-cong-nhan-bong-nang-196240706175501101.htm) - 11:20 06/07/2024
+- 🐎 [Bình Dương: Nổ lớn ở công ty gỗ, nhiều công nhân bỏng nặng](https://nld.com.vn/binh-duong-tieng-no-lon-o-cong-ty-go-nhieu-cong-nhan-bong-nang-196240706175501101.htm) - 11:20 06/07/2024
 - 😺 [Mở rộng điều tra chuyên án, bắt 2 đối tượng, thu 27 bánh heroin](https://nld.com.vn/mo-rong-dieu-tra-chuyen-an-bat-2-doi-tuong-thu-27-banh-heroin-196240706173846731.htm) - 10:49 06/07/2024
 - 👍 [Cán bộ, công chức có được lĩnh mức lương mới ngay tháng 7-2024 không?](https://nld.com.vn/can-bo-cong-chuc-co-duoc-linh-muc-luong-moi-ngay-thang-7-2024-khong-196240706172227189.htm) - 10:48 06/07/2024
 - 🥷 [Đến năm 2030, Quảng Trị đạt trình độ phát triển thuộc nhóm tỉnh khá](https://nld.com.vn/den-nam-2030-quang-tri-dat-trinh-do-phat-trien-thuoc-nhom-tinh-kha-196240706170847232.htm) - 10:48 06/07/2024
