@@ -72,7 +72,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🕯 [8 thực phẩm ăn cùng giá đỗ giúp tăng cường sinh lý nam](https://vnexpress.net/8-thuc-pham-an-cung-gia-do-giup-tang-cuong-sinh-ly-nam-4766847.html) - 06:00 06/07/2024
 - 💪 [Vì sao nhiều người có thói quen đắp chăn khi ngủ?](https://vnexpress.net/vi-sao-nhieu-nguoi-co-thoi-quen-dap-chan-khi-ngu-4766649.html) - 05:48 06/07/2024
 - 🧑‍🏫 [&#39;Việt Nam cần thời gian để thành thiên đường làm phim như Thái&#39;](https://vnexpress.net/viet-nam-can-thoi-gian-de-thanh-thien-duong-lam-phim-nhu-thai-4766381.html) - 05:42 06/07/2024
-- 🎓 [Euro ngày 6/7: Cú sút luân lưu của Ronaldo gây tranh cãi](https://vnexpress.net/euro-ngay-6-7-cu-sut-luan-luu-cua-ronaldo-gay-tranh-cai-4766776.html) - 05:41 06/07/2024
+- 🎓 [Euro ngày 6/7: HLV Đức muốn dùng AI xác định phạt đền](https://vnexpress.net/euro-ngay-6-7-hlv-duc-muon-dung-ai-xac-dinh-phat-den-4766776.html) - 05:41 06/07/2024
 - 💫 [Từ 1/8, muốn tách thửa đất cần điều kiện gì?](https://vnexpress.net/tu-1-8-muon-tach-thua-dat-can-dieu-kien-gi-4766858.html) - 05:31 06/07/2024
 - 🤩 [Ronaldo kìm nén cảm xúc khi chia tay kỳ Euro cuối cùng](https://vnexpress.net/ronaldo-kim-nen-cam-xuc-khi-chia-tay-ky-euro-cuoi-cung-4766856.html) - 05:16 06/07/2024
 - 🏊 [Người Hàn Quốc bỏ thói quen chơi khuya](https://vnexpress.net/nguoi-han-quoc-bo-thoi-quen-choi-khuya-4766735.html) - 05:15 06/07/2024
