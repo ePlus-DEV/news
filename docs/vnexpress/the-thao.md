@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Anh 0-0 Thụy Sĩ &lpar;H2&rpar;: Hai đội chưa dứt điểm trúng hướng cầu môn](https://vnexpress.net/truc-tiep-anh-vs-thuy-si-4766965.html) - 15:13 06/07/2024
+- 🪜 [Anh 0-0 Thụy Sĩ &lpar;H2&rpar;: Hai đội đá chặt chẽ](https://vnexpress.net/truc-tiep-anh-vs-thuy-si-4766965.html) - 15:13 06/07/2024
 - 🦩 [Brazil - Uruguay: Điệu samba lạc nhịp](https://vnexpress.net/brazil-uruguay-dieu-samba-lac-nhip-4766970.html) - 14:25 06/07/2024
 - 🧰 [Hà Tĩnh trụ lại V-League](https://vnexpress.net/ha-tinh-tru-lai-v-league-4766959.html) - 13:33 06/07/2024
 - 🤗 [Lạc đà không bướu làm caddie trên sân golf Mỹ](https://vnexpress.net/lac-da-khong-buou-lam-caddie-tren-san-golf-my-4766942.html) - 11:41 06/07/2024
