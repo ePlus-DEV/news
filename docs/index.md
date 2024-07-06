@@ -257,7 +257,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Sahako chưa từ bỏ cuộc đua vô địch, bám sát vị trí nhì bảng](https://nld.com.vn/sahako-chua-tu-bo-cuoc-dua-vo-dich-bam-sat-vi-tri-nhi-bang-19624070622354115.htm) - 16:10 06/07/2024
+- 🐎 [Sahako chưa từ bỏ cuộc đua vô địch futsal, bám sát vị trí nhì bảng](https://nld.com.vn/sahako-chua-tu-bo-cuoc-dua-vo-dich-bam-sat-vi-tri-nhi-bang-19624070622354115.htm) - 16:10 06/07/2024
 - 😺 [Tặng cờ Tổ quốc, suất hỗ trợ kinh phí học tập cho Đội Công tác xã hội Thanh niên TP HCM](https://nld.com.vn/tang-co-to-quoc-suat-ho-tro-kinh-phi-hoc-tap-cho-doi-cong-tac-xa-hoi-thanh-nien-tp-hcm-196240706210620496.htm) - 14:26 06/07/2024
 - 👍 [Tình hình sức khoẻ 9 công nhân bị bỏng trong vụ nổ công ty gỗ ở Bình Dương](https://nld.com.vn/tinh-hinh-suc-khoe-9-cong-nhan-bi-bong-trong-vu-no-cong-ty-go-o-binh-duong-196240706210349042.htm) - 14:21 06/07/2024
 - 🥷 [NTK, Tiến sĩ Quỳnh Paris cam kết với Miss Glam Business 2024](https://phunu.nld.com.vn/ntk-tien-si-quynh-paris-cam-ket-voi-miss-glam-business-2024-196240706204312706.htm) - 13:59 06/07/2024
