@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Lí do Mbappe bị thay ra trước loạt luân lưu với Bồ Đào Nha](https://vnexpress.net/li-do-mbappe-bi-thay-ra-truoc-loat-luan-luu-voi-bo-dao-nha-4766793.html) - 01:47 06/07/2024
+- 🪜 [Mbappe xin ra trước loạt luân lưu với Bồ Đào Nha](https://vnexpress.net/mbappe-xin-ra-truoc-loat-luan-luu-voi-bo-dao-nha-4766793.html) - 01:47 06/07/2024
 - 🦩 [Người hùng Tây Ban Nha tái hiện màn ăn mừng của bố sau hơn 30 năm](https://vnexpress.net/nguoi-hung-tay-ban-nha-tai-hien-man-an-mung-cua-bo-sau-hon-30-nam-4766484.html) - 01:04 06/07/2024
 - 🧰 [HLV Bồ Đào Nha chưa biết tương lai của Ronaldo](https://vnexpress.net/hlv-bo-dao-nha-chua-biet-tuong-lai-cua-ronaldo-4766772.html) - 01:02 06/07/2024
 - 🤗 [Vì sao Đức không được hưởng phạt đền trước Tây Ban Nha?](https://vnexpress.net/vi-sao-duc-khong-duoc-huong-phat-den-truoc-tay-ban-nha-4766753.html) - 23:24 05/07/2024
