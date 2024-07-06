@@ -31,7 +31,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥰 [Loạt luân lưu trận Anh - Thuỵ Sĩ](https://vnexpress.net/loat-luan-luu-tran-anh-thuy-si-4767006.html) - 19:15 06/07/2024
 - 🌏 [Các bàn thắng ở trận Anh - Thuỵ Sĩ](https://vnexpress.net/cac-ban-thang-o-tran-anh-thuy-si-4767004.html) - 19:10 06/07/2024
 - 🧐 [Highlight trận Anh 1-1 &lpar;pen 5-4&rpar; Thuỵ Sĩ: &#39;Tam sư&#39; thoát hiểm](https://vnexpress.net/highlight-tran-anh-1-1-pen-5-4-thuy-si-tam-su-thoat-hiem-4767005.html) - 19:02 06/07/2024
-- 💫 [Hà Lan loại Thổ Nhĩ Kỳ với hai bàn trong sáu phút](https://vnexpress.net/truc-tiep-tran-ha-lan-vs-tho-nhi-ky-o-tu-ket-euro-2024-4766998.html) - 18:00 06/07/2024
+- 💫 [Hà Lan loại Thổ Nhĩ Kỳ nhờ hai bàn trong 6 phút](https://vnexpress.net/truc-tiep-tran-ha-lan-vs-tho-nhi-ky-o-tu-ket-euro-2024-4766998.html) - 18:00 06/07/2024
 - 😺 [Toni Kroos xin lỗi Pedri](https://vnexpress.net/toni-kroos-xin-loi-pedri-4766985.html) - 17:47 06/07/2024
 - 🕯 [Hội chứng buồn bã sau quan hệ](https://vnexpress.net/hoi-chung-buon-ba-sau-quan-he-4766958.html) - 17:02 06/07/2024
 - 💃 [Biệt thự nhiệt đới với mảng xanh bao bọc 4 phía](https://vnexpress.net/biet-thu-nhiet-doi-voi-mang-xanh-bao-boc-4-phia-4766954.html) - 17:02 06/07/2024
