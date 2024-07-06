@@ -23,8 +23,8 @@ sidebar_position: 5
 - 💯 [Argentina gặp lại đối thủ vòng bảng ở bán kết Copa America](https://vnexpress.net/argentina-gap-lai-doi-thu-vong-bang-o-ban-ket-copa-america-4766841.html) - 05:05 06/07/2024
 - 🌈 [5 lần Emiliano Martinez giải cứu Argentina](https://vnexpress.net/5-lan-emiliano-martinez-giai-cuu-argentina-4766650.html) - 05:00 06/07/2024
 - 🦩 [Ronaldo bị chê trách vì nhường quyền đá luân lưu trước cho Pháp](https://vnexpress.net/ronaldo-bi-che-trach-vi-nhuong-quyen-da-luan-luu-truoc-cho-phap-4766760.html) - 05:00 06/07/2024
-- 🐲 [HLV Thổ Nhĩ Kỳ bất bình về án phạt của UEFA](https://vnexpress.net/hlv-tho-nhi-ky-bat-binh-ve-an-phat-cua-uefa-4766845.html) - 05:00 06/07/2024
-- 🌁 [HLV Ecuador bị sa thải sau khi thua Argentina](https://vnexpress.net/hlv-ecuador-bi-sa-thai-sau-khi-thua-argentina-4766796.html) - 05:00 06/07/2024
+- 🐲 [HLV Ecuador bị sa thải sau khi thua Argentina](https://vnexpress.net/hlv-ecuador-bi-sa-thai-sau-khi-thua-argentina-4766796.html) - 05:00 06/07/2024
+- 🌁 [HLV Thổ Nhĩ Kỳ bất bình về án phạt của UEFA](https://vnexpress.net/hlv-tho-nhi-ky-bat-binh-ve-an-phat-cua-uefa-4766845.html) - 05:00 06/07/2024
 - 💯 [Bản tin Euro: Ronaldo dỗ dành Pepe](https://vnexpress.net/ban-tin-euro-ronaldo-do-danh-pepe-4766805.html) - 03:05 06/07/2024
 - 🌝 [Pháp chưa ghi bàn từ bóng sống tại Euro 2024](https://vnexpress.net/phap-chua-ghi-ban-tu-bong-song-tai-euro-2024-4766807.html) - 02:52 06/07/2024
 - 🤖 [Mbappe xin ra trước loạt luân lưu với Bồ Đào Nha](https://vnexpress.net/mbappe-xin-ra-truoc-loat-luan-luu-voi-bo-dao-nha-4766793.html) - 01:47 06/07/2024
