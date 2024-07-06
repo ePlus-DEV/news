@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Dat Bike hợp tác FPT IS chuẩn hóa quản trị doanh nghiệp](https://vnexpress.net/dat-bike-hop-tac-fpt-is-chuan-hoa-quan-tri-doanh-nghiep-4766839.html) - 07:00 06/07/2024
 - 🐲 [Kỳ vọng bứt phá từ Cảng hàng không Quảng Trị](https://vnexpress.net/ky-vong-but-pha-tu-cang-hang-khong-quang-tri-4766382.html) - 05:00 06/07/2024
-- 🔥 [Nhẫn trơn ngang giá vàng miếng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-6-7-4766850.html) - 04:12 06/07/2024
+- 🔥 [Nhẫn trơn ngang giá vàng miếng](https://vnexpress.net/nhan-tron-ngang-gia-vang-mieng-4766850.html) - 04:12 06/07/2024
 - 🐵 [Thủ tướng: Kinh tế phục hồi tích cực, tăng trưởng vượt kịch bản](https://vnexpress.net/thu-tuong-kinh-te-phuc-hoi-tich-cuc-tang-truong-vuot-kich-ban-4766820.html) - 03:16 06/07/2024
 - 🦅 [Giá vàng thế giới lên đỉnh một tháng](https://vnexpress.net/gia-vang-the-gioi-len-dinh-mot-thang-4766771.html) - 01:11 06/07/2024
 - 😺 [Novaland hoàn tất thỏa thuận lô trái phiếu 300 triệu USD](https://vnexpress.net/novaland-hoan-tat-thoa-thuan-lo-trai-phieu-300-trieu-usd-4766722.html) - 00:38 06/07/2024
