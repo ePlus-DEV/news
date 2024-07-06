@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Hà Lan 1-1 Thổ Nhĩ Kỳ &lpar;H2&rpar;: De Vrij gỡ hòa](https://vnexpress.net/truc-tiep-tran-ha-lan-vs-tho-nhi-ky-o-tu-ket-euro-2024-4766998.html) - 18:00 06/07/2024
+- 🪜 [Hà Lan 2-1 Thổ Nhĩ Kỳ &lpar;H2&rpar;: Gakpo ghi bàn](https://vnexpress.net/truc-tiep-tran-ha-lan-vs-tho-nhi-ky-o-tu-ket-euro-2024-4766998.html) - 18:00 06/07/2024
 - 🦩 [Toni Kroos xin lỗi Pedri](https://vnexpress.net/toni-kroos-xin-loi-pedri-4766985.html) - 17:47 06/07/2024
 - 🧰 [Tuyển Anh vào bán kết Euro sau loạt luân lưu](https://vnexpress.net/ket-qua-anh-vs-thuy-si-4766965-tong-thuat.html) - 15:13 06/07/2024
 - 🤗 [Brazil - Uruguay: Điệu samba lạc nhịp](https://vnexpress.net/brazil-uruguay-dieu-samba-lac-nhip-4766970.html) - 14:25 06/07/2024
