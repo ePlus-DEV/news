@@ -299,7 +299,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐘 [Thứ làm sinh vật kỷ Jura tuyệt chủng đang &quot;hồi sinh&quot;?](https://nld.com.vn/thu-lam-sinh-vat-ky-jura-tuyet-chung-dang-hoi-sinh-196240706083021792.htm) - 02:43 06/07/2024
 - 🙉 [Tai nạn nghiêm trọng trên cao tốc Vĩnh Hảo- Phan Thiết, xe giường nằm lao vào xe đầu kéo](https://nld.com.vn/tai-nan-nghiem-trong-tren-cao-toc-vinh-hao-phan-thiet-xe-giuong-nam-lao-vao-xe-dau-keo-196240706092317609.htm) - 02:41 06/07/2024
 - 🐵 [Mời viết bài dự thi &quot;Lòng tốt quanh ta&quot; lần 3](https://nld.com.vn/moi-viet-bai-du-thi-long-tot-quanh-ta-lan-3-196240705194403713.htm) - 02:40 06/07/2024
-- 🙉 [Euro 2024: &quot;Tam sư&quot; - Thụy Sĩ - Cuộc chiến cân não](https://nld.com.vn/euro-2024-tam-su-thuy-si-cuoc-chien-can-nao-196240705204357127.htm) - 02:30 06/07/2024
+- 🙉 [Euro 2024: &quot;Tam sư&quot; - Thụy Sĩ, cuộc chiến cân não](https://nld.com.vn/euro-2024-tam-su-thuy-si-cuoc-chien-can-nao-196240705204357127.htm) - 02:30 06/07/2024
 - 💪 [Những trường hợp nào sẽ bị khóa căn cước điện tử?](https://nld.com.vn/nhung-truong-hop-nao-se-bi-khoa-can-cuoc-dien-tu-196240706014826951.htm) - 02:27 06/07/2024
 - ⛽️ [Chọn đúng ngành, đúng năng lực](https://nld.com.vn/chon-dung-nganh-dung-nang-luc-196240705221051463.htm) - 02:20 06/07/2024
 - 👺 [30 phút làm điều này, cơ thể tự tạo chất diệt ung thư](https://nld.com.vn/30-phut-lam-dieu-nay-co-the-tu-tao-chat-diet-ung-thu-196240706081224705.htm) - 02:15 06/07/2024
