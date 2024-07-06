@@ -7,7 +7,7 @@ sidebar_position: 9
 - 🎬 [Loạt luân lưu trận Anh - Thuỵ Sĩ](https://vnexpress.net/loat-luan-luu-tran-anh-thuy-si-4767006.html) - 19:15 06/07/2024
 - 🐎 [Các bàn thắng ở trận Anh - Thuỵ Sĩ](https://vnexpress.net/cac-ban-thang-o-tran-anh-thuy-si-4767004.html) - 19:10 06/07/2024
 - 🦍 [Highlight trận Anh 1-1 &lpar;pen 5-4&rpar; Thuỵ Sĩ: &#39;Tam sư&#39; thoát hiểm](https://vnexpress.net/highlight-tran-anh-1-1-pen-5-4-thuy-si-tam-su-thoat-hiem-4767005.html) - 19:02 06/07/2024
-- 🏊 [Hà Lan 0-1 Thổ Nhĩ Kỳ &lpar;H1&rpar;: Akaydin mở tỷ số](https://vnexpress.net/truc-tiep-tran-ha-lan-vs-tho-nhi-ky-o-tu-ket-euro-2024-4766998.html) - 18:00 06/07/2024
+- 🏊 [Hà Lan 0-1 Thổ Nhĩ Kỳ &lpar;H2&rpar;: Depay đệm bóng hụt](https://vnexpress.net/truc-tiep-tran-ha-lan-vs-tho-nhi-ky-o-tu-ket-euro-2024-4766998.html) - 18:00 06/07/2024
 - 🎊 [Toni Kroos xin lỗi Pedri](https://vnexpress.net/toni-kroos-xin-loi-pedri-4766985.html) - 17:47 06/07/2024
 - 🎃 [Hội chứng buồn bã sau quan hệ](https://vnexpress.net/hoi-chung-buon-ba-sau-quan-he-4766958.html) - 17:02 06/07/2024
 - 🧰 [Biệt thự nhiệt đới với mảng xanh bao bọc 4 phía](https://vnexpress.net/biet-thu-nhiet-doi-voi-mang-xanh-bao-boc-4-phia-4766954.html) - 17:02 06/07/2024
@@ -24,7 +24,7 @@ sidebar_position: 9
 - 🤓 [Dàn diễn viên &#39;Mùa ổi&#39; ngày ấy - bây giờ](https://vnexpress.net/dan-dien-vien-mua-oi-ngay-ay-bay-gio-4765166.html) - 17:00 06/07/2024
 - 💪 [Hành khách thi nhau nhảy khỏi xe buýt đổ dốc mất phanh](https://vnexpress.net/hanh-khach-thi-nhau-nhay-khoi-xe-buyt-do-doc-mat-phanh-4766680.html) - 17:00 06/07/2024
 - 🎓 [Tàu hàng đâm lệch cầu đường sắt](https://vnexpress.net/tau-hang-dam-lech-cau-duong-sat-4766988.html) - 16:43 06/07/2024
-- 🫣 [Tuyển Anh vào bán kết Euro sau loạt luân lưu](https://vnexpress.net/ket-qua-anh-vs-thuy-si-4766965.html) - 15:13 06/07/2024
+- 🫣 [Tuyển Anh vào bán kết Euro sau loạt luân lưu](https://vnexpress.net/ket-qua-anh-vs-thuy-si-4766965-tong-thuat.html) - 15:13 06/07/2024
 - 🧑‍💻 [Thủ tướng Hungary thông báo cho NATO trước chuyến thăm Nga](https://vnexpress.net/thu-tuong-hungary-thong-bao-cho-nato-truoc-chuyen-tham-nga-4766964.html) - 14:40 06/07/2024
 - 🐲 [Trấn Thành, Hari Won tay trong tay dự thảm đỏ](https://vnexpress.net/tran-thanh-hari-won-tay-trong-tay-du-tham-do-4766969.html) - 14:35 06/07/2024
 - 🌝 [Brazil - Uruguay: Điệu samba lạc nhịp](https://vnexpress.net/brazil-uruguay-dieu-samba-lac-nhip-4766970.html) - 14:25 06/07/2024
