@@ -215,7 +215,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp bóng đá Hà Lan 0-0 Thổ Nhĩ Kỳ: Hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-ha-lan-0-0-tho-nhi-ky-hiep-1-1362522.ldo) - 18:00 06/07/2024
+- 🗽 [Trực tiếp bóng đá Hà Lan 0-1 Thổ Nhĩ Kỳ: Hết hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-ha-lan-0-1-tho-nhi-ky-het-hiep-1-1362522.ldo) - 18:00 06/07/2024
 - 📝 [Link xem trực tiếp bóng đá Colombia vs Panama tại tứ kết Copa America 2024](https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-colombia-vs-panama-tai-tu-ket-copa-america-2024-1362681.ldo) - 18:00 06/07/2024
 - 🦏 [Tiền vệ Lương Xuân Trường tin Hồng Lĩnh Hà Tĩnh vào top 5 V.League mùa sau](https://laodong.vn/ban-tin/tien-ve-luong-xuan-truong-tin-hong-linh-ha-tinh-vao-top-5-vleague-mua-sau-1362690.ldo) - 15:37 06/07/2024
 - 🦩 [Đăng Khôi gây xúc động trở lại sau 10 năm cùng mẹ ruột - mẹ vợ vượt qua bệnh ung thư](https://laodong.vn/van-hoa-giai-tri/dang-khoi-gay-xuc-dong-tro-lai-sau-10-nam-cung-me-ruot-me-vo-vuot-qua-benh-ung-thu-1362684.ldo) - 15:23 06/07/2024
