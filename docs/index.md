@@ -55,7 +55,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 📝 [Cháy trong Chinatown ở Thái Lan, 30 người bị thương](https://vnexpress.net/chay-trong-chinatown-o-thai-lan-30-nguoi-bi-thuong-4767151.html) - 10:41 07/07/2024
 - 🕴 [HLV Troussier ứng tuyển dẫn dắt Ấn Độ sau Park Hang-seo](https://vnexpress.net/hlv-troussier-ung-tuyen-dan-dat-an-do-sau-park-hang-seo-4767162.html) - 10:32 07/07/2024
 - 🐲 [VF 5 Plus hút khách đặt cọc nhờ ưu đãi hàng chục triệu đồng](https://vnexpress.net/vf-5-plus-hut-khach-dat-coc-nho-uu-dai-hang-chuc-trieu-dong-4767107.html) - 10:23 07/07/2024
-- 🌜 [Thắng luân lưu Hà Nội FC, Thanh Hóa đoạt Cup Quốc gia 2023-2024](https://vnexpress.net/thang-luan-luu-ha-noi-fc-thanh-hoa-doat-cup-quoc-gia-2023-2024-4767141-tong-thuat.html) - 10:15 07/07/2024
+- 🌜 [Thắng luân lưu Hà Nội FC, Thanh Hóa đoạt Cup Quốc gia 2023-2024](https://vnexpress.net/thang-luan-luu-ha-noi-fc-thanh-hoa-doat-cup-quoc-gia-2023-2024-4767141.html) - 10:15 07/07/2024
 - 💄 [4 bàn đẹp nhất vòng tứ kết Euro 2024](https://vnexpress.net/4-ban-dep-nhat-vong-tu-ket-euro-2024-4767116.html) - 10:00 07/07/2024
 - 🌁 [Miến cua cổ truyền Hà Nội nấu theo lối cũ](https://vnexpress.net/mien-cua-co-truyen-ha-noi-nau-theo-loi-cu-4766896.html) - 10:00 07/07/2024
 - 🎬 [Điểm tin 21h: Có thể bấm biển số xe trên VNeID; Nhiều ông lớn nước ngoài nộp hơn 4.000 tỷ tiền thuế](https://vnexpress.net/diem-tin-21h-co-the-bam-bien-so-xe-tren-vneid-nhieu-ong-lon-nuoc-ngoai-nop-hon-4-000-ty-tien-thue-4767155.html) - 10:00 07/07/2024
