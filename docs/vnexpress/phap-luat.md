@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Xét xử vụ bà Nguyễn Thị Thanh Nhàn mua chuộc cán bộ ở TP HCM](https://vnexpress.net/xet-xu-vu-ba-nguyen-thi-thanh-nhan-mua-chuoc-can-bo-o-tp-hcm-4767131.html) - 09:40 07/07/2024
 - 🥰 [30 thanh niên hỗn chiến, một người tử vong](https://vnexpress.net/30-thanh-nien-hon-chien-mot-nguoi-tu-vong-4767103.html) - 06:41 07/07/2024
 - 🎓 [Nhóm móc trộm 17 điện thoại ở hội chợ bị cảnh sát đón lõng](https://vnexpress.net/moc-tui-o-bao-loc-4767095.html) - 06:31 07/07/2024
-- 🤓 [Doanh nhân 2 lần bị bắt oan kiện công an đòi gần 4 triệu USD](https://vnexpress.net/doanh-nhan-2-lan-bi-bat-oan-kien-cong-an-doi-gan-4-trieu-usd-4766926.html) - 23:00 06/07/2024
+- 🤓 [Doanh nhân 2 lần bị bắt oan tiếp tục kiện đòi gần 4 triệu USD](https://vnexpress.net/doanh-nhan-2-lan-bi-bat-oan-tiep-tuc-kien-doi-gan-4-trieu-usd-4766926.html) - 23:00 06/07/2024
 - 🎊 [Lừa góp vốn kinh doanh &#39;USD giá rẻ&#39;, chiếm đoạt hơn 140 tỷ đồng](https://vnexpress.net/lua-gop-von-kinh-doanh-usd-gia-re-chiem-doat-hon-140-ty-dong-4766929.html) - 17:00 06/07/2024
 - 🙉 [&#39;Cặp đôi lừa đảo&#39; vượt ngục, sống xa hoa trong 23 năm đào tẩu](https://vnexpress.net/cap-doi-lua-dao-vuot-nguc-song-xa-hoa-trong-23-nam-dao-tau-4765840.html) - 17:00 06/07/2024
 - 🤡 [5 người chết bất thường trước khi nam thanh niên bị đầu độc bằng xyanua](https://vnexpress.net/5-nguoi-chet-bat-thuong-truoc-khi-nam-thanh-nien-bi-dau-doc-bang-xyanua-4766928.html) - 12:15 06/07/2024
