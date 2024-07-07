@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Google, Facebook, Netfix và nhiều ông lớn nước ngoài nộp hơn 4.000 tỷ tiền thuế](https://vnexpress.net/google-facebook-netfix-va-nhieu-ong-lon-nuoc-ngoai-nop-hon-4-000-ty-tien-thue-4767124.html) - 09:36 07/07/2024
+- ⛽️ [Google, Facebook, Netflix và nhiều ông lớn nước ngoài nộp hơn 4.000 tỷ tiền thuế](https://vnexpress.net/google-facebook-netflix-va-nhieu-ong-lon-nuoc-ngoai-nop-hon-4-000-ty-tien-thue-4767124.html) - 09:36 07/07/2024
 - 🐲 [Phát hành trái phiếu doanh nghiệp tăng vọt](https://vnexpress.net/phat-hanh-trai-phieu-doanh-nghiep-tang-vot-4767065.html) - 04:28 07/07/2024
 - 🔥 [Thụy Điển cho ông bà chăm cháu có lương](https://vnexpress.net/thuy-dien-cho-ong-ba-cham-chau-co-luong-4766994.html) - 02:15 07/07/2024
 - 🐵 [Sầu riêng chính vụ tăng giá mạnh](https://vnexpress.net/sau-rieng-chinh-vu-tang-gia-manh-4766600.html) - 00:00 07/07/2024
