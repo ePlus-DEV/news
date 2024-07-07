@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Tuyến đường kết nối ven biển với miền tây xứ Nghệ](https://vnexpress.net/tuyen-duong-ket-noi-ven-bien-voi-mien-tay-xu-nghe-4766877.html) - 17:00 06/07/2024
-- 🤓 [Tàu hàng đâm lệch cầu đường sắt](https://vnexpress.net/tau-hang-dam-lech-cau-duong-sat-4766988.html) - 16:43 06/07/2024
+- 🤓 [Tàu hàng đâm lệch cầu đường sắt ở Hải Phòng](https://vnexpress.net/tau-hang-dam-lech-cau-duong-sat-o-hai-phong-4766988.html) - 16:43 06/07/2024
 - ⚗️ [Quảng Trị sắp có sân bay](https://vnexpress.net/quang-tri-sap-co-san-bay-4766940.html) - 13:12 06/07/2024
 - 🌊 [Xe tải đâm ôtô 7 chỗ rồi lật ngang cao tốc](https://vnexpress.net/xe-tai-dam-oto-7-cho-roi-lat-ngang-cao-toc-4766951.html) - 12:53 06/07/2024
 - 🎓 [Nổ lớn trong nhà máy gỗ ở Bình Dương, 9 công nhân bị thương](https://vnexpress.net/no-lon-trong-nha-may-go-o-binh-duong-9-cong-nhan-bi-thuong-4766947.html) - 12:30 06/07/2024
