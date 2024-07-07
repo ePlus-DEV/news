@@ -210,7 +210,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Lao Động
 <!-- laodong:START -->
 - 🗽 [Văn Quyết thất thần sau tình huống sút hỏng 11m trận chung kết Cúp Quốc gia](https://laodong.vn/photo/van-quyet-that-than-sau-tinh-huong-sut-hong-11m-tran-chung-ket-cup-quoc-gia-1363007.ldo) - 15:11 07/07/2024
-- 📝 [Lời khai của người phụ nữ dùng xyanua đầu độc khiến 4 người thân tử vong ở Đồng Nai](https://laodong.vn/phap-luat/loi-khai-cua-nguoi-phu-nu-dung-xyanua-dau-doc-khien-4-nguoi-than-tu-vong-o-dong-nai-1363022.ldo) - 14:44 07/07/2024
+- 📝 [Lời khai của người phụ nữ dùng xyanua đầu độc khiến 3 người thân tử vong ở Đồng Nai](https://laodong.vn/phap-luat/loi-khai-cua-nguoi-phu-nu-dung-xyanua-dau-doc-khien-3-nguoi-than-tu-vong-o-dong-nai-1363022.ldo) - 14:44 07/07/2024
 - 🦏 [Khán giả Hàn Quốc hưởng ứng khi Min Hee Jin được truyền thông Anh ca ngợi](https://laodong.vn/giai-tri/khan-gia-han-quoc-huong-ung-khi-min-hee-jin-duoc-truyen-thong-anh-ca-ngoi-1363023.ldo) - 14:41 07/07/2024
 - 🦩 [Vòng 10 giải futsal vô địch quốc gia 2024: Thái Sơn Nam đứt mạch toàn thắng](https://laodong.vn/bong-da/vong-10-giai-futsal-vo-dich-quoc-gia-2024-thai-son-nam-dut-mach-toan-thang-1363018.ldo) - 14:35 07/07/2024
 - 🦏 [Trưởng Ban nữ công với sáng kiến tặng vàng cho lao động nữ](https://laodong.vn/cong-doan/truong-ban-nu-cong-voi-sang-kien-tang-vang-cho-lao-dong-nu-1362975.ldo) - 14:12 07/07/2024
