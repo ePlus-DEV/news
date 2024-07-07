@@ -224,7 +224,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤖 [Mức trợ cấp đối với quân nhân đã phục viên, xuất ngũ theo đề xuất mới](https://laodong.vn/video-xa-hoi/muc-tro-cap-doi-voi-quan-nhan-da-phuc-vien-xuat-ngu-theo-de-xuat-moi-1362924.ldo) - 10:14 07/07/2024
 - 💪 [Người dân và du khách trải nghiệm bóng chày tại Lễ hội Việt Nam - Nhật Bản](https://laodong.vn/video-the-thao/nguoi-dan-va-du-khach-trai-nghiem-bong-chay-tai-le-hoi-viet-nam-nhat-ban-1362935.ldo) - 10:13 07/07/2024
 - 👍 [Nam du khách đuối nước khi tắm biển ở Cát Bà](https://laodong.vn/xa-hoi/nam-du-khach-duoi-nuoc-khi-tam-bien-o-cat-ba-1362946.ldo) - 10:05 07/07/2024
-- 💂 [Trực tiếp bóng đá Thanh Hóa và Hà Nội tại chung kết Cúp Quốc gia 2023-2024](https://laodong.vn/bong-da/truc-tiep-bong-da-thanh-hoa-va-ha-noi-tai-chung-ket-cup-quoc-gia-2023-2024-1362931.ldo) - 10:02 07/07/2024
+- 💂 [Trực tiếp bóng đá Thanh Hóa 0-0 Hà Nội FC: Hiệp 1](https://laodong.vn/bong-da/truc-tiep-bong-da-thanh-hoa-0-0-ha-noi-fc-hiep-1-1362931.ldo) - 10:02 07/07/2024
 - 🧰 [Cập nhật giá vàng hôm nay, vàng nhẫn, vàng SJC 7.7.2024](https://laodong.vn/infographic/cap-nhat-gia-vang-hom-nay-vang-nhan-vang-sjc-772024-1362949.ldo) - 10:02 07/07/2024
 - 🥷 [Chất xyanua cực độc và có thể ngộ độc từ những món ăn trong cuộc sống](https://laodong.vn/suc-khoe/chat-xyanua-cuc-doc-va-co-the-ngo-doc-tu-nhung-mon-an-trong-cuoc-song-1362912.ldo) - 10:00 07/07/2024
 - 💫 [5 dấu hiệu nhận biết nàng có tình cảm với chàng](https://laodong.vn/yeu-360/5-dau-hieu-nhan-biet-nang-co-tinh-cam-voi-chang-1362894.ldo) - 10:00 07/07/2024
