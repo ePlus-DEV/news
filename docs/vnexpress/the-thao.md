@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Morata được xóa thẻ phạt trước Đức](https://vnexpress.net/morata-duoc-xoa-the-phat-truoc-duc-4767101.html) - 07:20 07/07/2024
 - 🦩 [CĐV Đức kiến nghị đá lại trận tứ kết với Tây Ban Nha](https://vnexpress.net/cdv-duc-kien-nghi-da-lai-tran-tu-ket-voi-tay-ban-nha-4767068.html) - 07:12 07/07/2024
 - 🧰 [Djokovic đấu Rune ở vòng bốn Wimbledon](https://vnexpress.net/djokovic-dau-rune-o-vong-bon-wimbledon-4767102.html) - 05:27 07/07/2024
-- 🤗 [Euro ngày 7/7: UEFA giải oan cho trọng tài ở pha chạm tay của Cucurella](https://vnexpress.net/euro-ngay-7-7-uefa-giai-oan-cho-trong-tai-o-pha-cham-tay-cua-cucurella-4767075.html) - 04:32 07/07/2024
+- 🤗 [Euro ngày 7/7: &#39;Tội đồ&#39; tuyển Bồ Đào Nha đối mặt tương lai bất ổn](https://vnexpress.net/euro-ngay-7-7-toi-do-tuyen-bo-dao-nha-doi-mat-tuong-lai-bat-on-4767075.html) - 04:32 07/07/2024
 - 🥳 [Bản tin Euro: Trận đấu của Djokovic tạm dừng vì chiến thắng của tuyển Anh](https://vnexpress.net/ban-tin-euro-tran-dau-cua-djokovic-tam-dung-vi-chien-thang-cua-tuyen-anh-4767051.html) - 03:25 07/07/2024
 - 🦣 [Tổng thống Erdogan: &#39;Thổ Nhĩ Kỳ vẫn là những nhà vô địch&#39;](https://vnexpress.net/tong-thong-erdogan-tho-nhi-ky-van-la-nhung-nha-vo-dich-4767064.html) - 03:05 07/07/2024
 - 🌜 [Ronaldo lần đầu lên tiếng sau trận thua Pháp](https://vnexpress.net/ronaldo-lan-dau-len-tieng-sau-tran-thua-phap-4767045.html) - 02:41 07/07/2024
