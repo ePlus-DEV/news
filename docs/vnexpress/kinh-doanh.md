@@ -4,12 +4,12 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Google, Facebook, Netflix và nhiều ông lớn nước ngoài nộp hơn 4.000 tỷ tiền thuế](https://vnexpress.net/google-facebook-netflix-va-nhieu-ong-lon-nuoc-ngoai-nop-hon-4-000-ty-tien-thue-4767124.html) - 09:36 07/07/2024
-- 🐲 [Phát hành trái phiếu doanh nghiệp tăng vọt](https://vnexpress.net/phat-hanh-trai-phieu-doanh-nghiep-tang-vot-4767065.html) - 04:28 07/07/2024
-- 🔥 [Thụy Điển cho ông bà chăm cháu có lương](https://vnexpress.net/thuy-dien-cho-ong-ba-cham-chau-co-luong-4766994.html) - 02:15 07/07/2024
-- 🐵 [Sầu riêng chính vụ tăng giá mạnh](https://vnexpress.net/sau-rieng-chinh-vu-tang-gia-manh-4766600.html) - 00:00 07/07/2024
-- 🦅 [Từ cử nhân nông nghiệp thành tỷ phú trang sức](https://vnexpress.net/tu-cu-nhan-nong-nghiep-thanh-ty-phu-trang-suc-4766560.html) - 21:00 06/07/2024
-- 😺 [Elon Musk là tỷ phú mất nhiều tiền nhất nửa đầu 2024](https://vnexpress.net/elon-musk-la-ty-phu-mat-nhieu-tien-nhat-nua-dau-2024-4766990.html) - 19:00 06/07/2024
+- ⛽️ [Giá vàng tuần này dự báo tăng](https://vnexpress.net/gia-vang-tuan-nay-du-bao-tang-4767100.html) - 17:00 07/07/2024
+- 🐲 [Google, Facebook, Netflix và nhiều ông lớn nước ngoài nộp hơn 4.000 tỷ tiền thuế](https://vnexpress.net/google-facebook-netflix-va-nhieu-ong-lon-nuoc-ngoai-nop-hon-4-000-ty-tien-thue-4767124.html) - 09:36 07/07/2024
+- 🔥 [Phát hành trái phiếu doanh nghiệp tăng vọt](https://vnexpress.net/phat-hanh-trai-phieu-doanh-nghiep-tang-vot-4767065.html) - 04:28 07/07/2024
+- 🐵 [Thụy Điển cho ông bà chăm cháu có lương](https://vnexpress.net/thuy-dien-cho-ong-ba-cham-chau-co-luong-4766994.html) - 02:15 07/07/2024
+- 🦅 [Sầu riêng chính vụ tăng giá mạnh](https://vnexpress.net/sau-rieng-chinh-vu-tang-gia-manh-4766600.html) - 00:00 07/07/2024
+- 😺 [Từ cử nhân nông nghiệp thành tỷ phú trang sức](https://vnexpress.net/tu-cu-nhan-nong-nghiep-thanh-ty-phu-trang-suc-4766560.html) - 21:00 06/07/2024
 - 🤩 [Phó thống đốc: Không bắt buộc mọi tài khoản phải xác thực sinh trắc học](https://vnexpress.net/pho-thong-doc-khong-bat-buoc-moi-tai-khoan-phai-xac-thuc-sinh-trac-hoc-4766917.html) - 11:05 06/07/2024
 - 🌮 [Dat Bike hợp tác FPT IS chuẩn hóa quản trị doanh nghiệp](https://vnexpress.net/dat-bike-hop-tac-fpt-is-chuan-hoa-quan-tri-doanh-nghiep-4766839.html) - 07:00 06/07/2024
 - 🧰 [Kỳ vọng bứt phá từ Cảng hàng không Quảng Trị](https://vnexpress.net/ky-vong-but-pha-tu-cang-hang-khong-quang-tri-4766382.html) - 05:00 06/07/2024
