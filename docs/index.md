@@ -261,7 +261,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤔 [Ukraine xông lên ở biển Đen, thủ tướng Hungary hé lộ ý định với Nga](https://nld.com.vn/ukraine-xong-len-o-bien-den-thu-tuong-hungary-he-lo-y-dinh-voi-nga-196240707101358639.htm) - 09:22 07/07/2024
 - 🌈 [Bán 12 tấn sầu riêng trong 5 phút livestream ngày 7-7](https://nld.com.vn/ban-12-tan-sau-rieng-trong-5-phut-livestream-ngay-7-7-196240707155016883.htm) - 08:58 07/07/2024
 - 🔥 [Một tỉnh có gần 800 cán bộ, công chức dôi dư khi sáp nhập cấp xã](https://nld.com.vn/mot-tinh-co-gan-800-can-bo-cong-chuc-doi-du-khi-sap-nhap-cap-xa-1962407071528447.htm) - 08:55 07/07/2024
-- 🧰 [Cây đăng đại thụ ngàn năm tuổi giữa rừng Cúc Phương](https://nld.com.vn/cay-dang-dai-thu-ngan-nam-tuoi-giua-rung-cuc-phuong-196240707130522285.htm) - 08:39 07/07/2024
+- 🧰 [Cây chò chỉ đại thụ ngàn năm tuổi giữa rừng Cúc Phương](https://nld.com.vn/cay-dang-dai-thu-ngan-nam-tuoi-giua-rung-cuc-phuong-196240707130522285.htm) - 08:39 07/07/2024
 - 🤗 [Kết quả xổ số hôm nay &lpar;7-7&rpar;: Tiền Giang, Kiên Giang, Đà Lạt, Khánh Hòa, Thái Bình...](https://nld.com.vn/ket-qua-xo-so-hom-nay-7-7-tien-giang-kien-giang-da-lat-khanh-hoa-thai-binh-196240707153041647.htm) - 08:37 07/07/2024
 - 🦅 [Cháy lớn cơ sở sản xuất gỗ ở huyện Bình Chánh](https://nld.com.vn/chay-lon-co-so-san-xuat-go-o-huyen-binh-chanh-196240707152124254.htm) - 08:34 07/07/2024
 - 🤩 [Những hình ảnh vui nhộn tại giải marathon quy mô lớn nhất ĐBSCL](https://nld.com.vn/nhung-hinh-anh-vui-nhon-tai-giai-marathon-quy-mo-lon-nhat-dbscl-196240707142035614.htm) - 07:45 07/07/2024
