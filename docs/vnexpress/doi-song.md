@@ -7,7 +7,7 @@ sidebar_position: 6
 - 🚀 [Ở trọ vùng ven, đi làm xa để tiết kiệm](https://vnexpress.net/o-tro-vung-ven-di-lam-xa-de-tiet-kiem-4763098.html) - 23:00 07/07/2024
 - 🎓 [Nghị lực của cô bé ung thư được mẹ nhường cơ hội sống](https://vnexpress.net/nghi-luc-cua-co-be-ung-thu-duoc-me-nhuong-co-hoi-song-4766903.html) - 17:00 07/07/2024
 - 🚦 [Những câu người có EQ cao thường nói](https://vnexpress.net/nhung-cau-nguoi-co-eq-cao-thuong-noi-4767099.html) - 12:43 07/07/2024
-- 🦣 [Miến cua cổ truyền Hà Nội nấu theo lối cũ](https://vnexpress.net/mien-cua-co-truyen-ha-noi-nau-theo-loi-cu-4766896.html) - 10:00 07/07/2024
+- 🦣 [Miến cua cổ truyền Hà Nội nấu theo lối cũ](https://vnexpress.net/doi-song-cooking-mien-cua-4766896.html) - 10:00 07/07/2024
 - 🎓 [Điều đặc biệt cho chàng trai bỏ lỡ ngày tốt nghiệp](https://vnexpress.net/dieu-dac-biet-cho-chang-trai-bo-lo-ngay-tot-nghiep-4767117.html) - 07:48 07/07/2024
 - 🎭 [9 cách ăn mặc khiến bạn già hơn](https://vnexpress.net/9-cach-an-mac-khien-ban-gia-hon-4767022.html) - 05:08 07/07/2024
 - 🦅 [Chăm sóc cha mẹ già đúng cách như thế nào](https://vnexpress.net/cham-soc-cha-me-gia-dung-cach-nhu-the-nao-4767098.html) - 04:58 07/07/2024
@@ -19,7 +19,7 @@ sidebar_position: 6
 - 👹 [Larue kỳ vọng cùng miền Trung phát triển du lịch, kinh tế](https://vnexpress.net/larue-ky-vong-cung-mien-trung-phat-trien-du-lich-kinh-te-4766554.html) - 03:00 06/07/2024
 - 💂 [17 năm đưa con trai tự kỷ thành học sinh giỏi quốc gia](https://vnexpress.net/17-nam-dua-con-trai-tu-ky-thanh-hoc-sinh-gioi-quoc-gia-4765524.html) - 23:30 05/07/2024
 - 🦍 [Người đàn ông trồng 100 gốc nho trên mái nhà](https://vnexpress.net/nguoi-dan-ong-trong-100-goc-nho-tren-mai-nha-4766222.html) - 23:00 05/07/2024
-- 🧑‍🏫 [Bữa sáng bằng salad dưa chuột sữa chua Hy Lạp](https://vnexpress.net/bua-sang-bang-salad-dua-chuot-sua-chua-hy-lap-4766629.html) - 14:00 05/07/2024
+- 🧑‍🏫 [Bữa sáng bằng salad dưa chuột sữa chua Hy Lạp](https://vnexpress.net/doi-song-cooking-salad-dua-chuot-sua-chua-hy-lap-4766629.html) - 14:00 05/07/2024
 - 🧰 [Chuyện tình chàng bảo vệ và nữ giảng viên Mỹ](https://vnexpress.net/chuyen-tinh-chang-bao-ve-va-nu-giang-vien-my-4766331.html) - 04:24 05/07/2024
 - 🪄 [Tác dụng bất ngờ của hành tây tẩm dầu gió](https://vnexpress.net/tac-dung-bat-ngo-cua-hanh-tay-tam-dau-gio-4766326.html) - 03:12 05/07/2024
 - 🐲 [Kiệt sức vì luôn phải sẵn sàng nhận việc](https://vnexpress.net/kiet-suc-vi-luon-phai-san-sang-nhan-viec-4766089.html) - 23:30 04/07/2024
