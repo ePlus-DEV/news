@@ -10,7 +10,7 @@ sidebar_position: 9
 - 🏊 [Tăng lương có làm tăng lạm phát?](https://vnexpress.net/tang-luong-co-lam-tang-lam-phat-4766236.html) - 23:00 08/07/2024
 - 🎊 [Sự thật về &#39;thần dược&#39; tăng chiều cao sau tuổi 30](https://vnexpress.net/su-that-ve-than-duoc-tang-chieu-cao-sau-tuoi-30-4764396.html) - 23:00 08/07/2024
 - 🎃 [Ôtô mới phải biết ngăn tài xế đạp nhầm chân ga](https://vnexpress.net/oto-moi-phai-biet-ngan-tai-xe-dap-nham-chan-ga-4767576.html) - 23:00 08/07/2024
-- 🧰 [&#39;Con voi&#39; nợ công vô hình trong mắt các chính trị gia châu Âu](https://vnexpress.net/con-voi-no-cong-vo-hinh-trong-mat-cac-chinh-tri-gia-chau-au-4767566.html) - 22:59 08/07/2024
+- 🧰 [Núi nợ công vô hình trong mắt các chính trị gia châu Âu](https://vnexpress.net/nui-no-cong-vo-hinh-trong-mat-cac-chinh-tri-gia-chau-au-4767566.html) - 22:59 08/07/2024
 - 🔭 [HLV Tây Ban Nha: &#39;Mbappe vẫn giỏi nhất dù đá 50% khả năng&#39;](https://vnexpress.net/hlv-tay-ban-nha-mbappe-van-gioi-nhat-du-da-50-kha-nang-4767679.html) - 22:53 08/07/2024
 - 🫶 [Fan sốt ruột vì &#39;Conan 30 năm học lớp một&#39;](https://vnexpress.net/fan-sot-ruot-vi-conan-30-nam-hoc-lop-mot-4766358.html) - 22:43 08/07/2024
 - 🪜 [Chủ cao tốc Trung Lương - Mỹ Thuận thu hơn 7 tỷ phí BOT mỗi ngày](https://vnexpress.net/chu-cao-toc-trung-luong-my-thuan-thu-hon-7-ty-phi-bot-moi-ngay-4767653.html) - 22:34 08/07/2024
@@ -54,4 +54,11 @@ sidebar_position: 9
 - 🐎 [Chàng trai kỹ thuật tìm cô gái dịu dàng, đồng điệu](https://vnexpress.net/chang-trai-ky-thuat-tim-co-gai-diu-dang-dong-dieu-4767341.html) - 14:00 08/07/2024
 - 🏊 [Rắn độc tấn công người bị nạn nhân cắn ngược](https://vnexpress.net/ran-doc-tan-cong-nguoi-bi-nan-nhan-can-nguoc-4767261.html) - 14:00 08/07/2024
 - 🦩 [Việt Nam là nơi có chi phí sống rẻ nhất với lao động nước ngoài](https://vnexpress.net/viet-nam-la-noi-co-chi-phi-song-re-nhat-voi-lao-dong-nuoc-ngoai-4767626.html) - 13:48 08/07/2024
-- 👍 [Ba biến chứng thai kỳ tiềm ẩn nguy cơ gây đột quỵ sau sinh](https://vnexpress.net/ba-bien-chung-thai-ky-tiem-an-nguy-co-gay-dot-quy-sau-sinh-4767646.html) - 13:43 08/07/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 👍 [Ba biến chứng thai kỳ tiềm ẩn nguy cơ gây đột quỵ sau sinh](https://vnexpress.net/ba-bien-chung-thai-ky-tiem-an-nguy-co-gay-dot-quy-sau-sinh-4767646.html) - 13:43 08/07/2024
+- 🔥 [Tổng bí thư: Quân đội cần đáp ứng điều kiện tác chiến mới](https://vnexpress.net/tong-bi-thu-quan-doi-can-dap-ung-dieu-kien-tac-chien-moi-4767617.html) - 13:32 08/07/2024
+- 💄 [Hậu trường anh hùng cứu mỹ nhân ở phim cổ trang](https://vnexpress.net/hau-truong-anh-hung-cuu-my-nhan-o-phim-co-trang-4767283.html) - 13:30 08/07/2024
+- 🤡 [Phan Thiết mở thêm khu đô thị mới rộng hơn 200 ha](https://vnexpress.net/phan-thiet-mo-them-khu-do-thi-moi-rong-hon-200-ha-4767623.html) - 13:13 08/07/2024
+- ⛽️ [Thủ quân Tây Ban Nha dọa bỏ đội tuyển](https://vnexpress.net/thu-quan-tay-ban-nha-doa-bo-doi-tuyen-4767639.html) - 13:09 08/07/2024
+- 🚀 [Xu hướng từ bỏ tiệc tùng về đêm của người Hàn](https://vnexpress.net/xu-huong-tu-bo-tiec-tung-ve-dem-cua-nguoi-han-4766849.html) - 13:08 08/07/2024
+- 🌜 [Hơn 370 người sập bẫy lừa đầu tư tài chính lợi nhuận cao](https://vnexpress.net/dau-tu-loi-nhuan-cao-toi-pham-dau-tu-tai-chinh-4767629.html) - 13:05 08/07/2024
+- 🌜 [Bị bắt sau 17 giờ trốn khỏi trại giam](https://vnexpress.net/bi-bat-sau-17-gio-tron-khoi-trai-giam-4767635.html) - 13:01 08/07/2024<!-- vnexpress-tin-moi-nhat:END -->
