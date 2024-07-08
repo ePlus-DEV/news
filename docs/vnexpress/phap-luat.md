@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Khởi tố vụ án xảy ra tại Công ty Cây xanh Công Minh](https://vnexpress.net/khoi-to-vu-an-xay-ra-tai-cong-ty-cay-xanh-cong-minh-4767613.html) - 11:18 08/07/2024
+- 😎 [Khởi tố vụ án &#39;trúng thầu hàng nghìn tỷ đồng&#39; tại Công ty Cây xanh Công Minh](https://vnexpress.net/khoi-to-vu-an-xay-ra-tai-cong-ty-cay-xanh-cong-minh-4767613.html) - 11:18 08/07/2024
 - 🥰 [Người lang thang đâm bạn vì mâu thuẫn xin cơm từ thiện](https://vnexpress.net/nguoi-lang-thang-dam-ban-vi-mau-thuan-xin-com-tu-thien-4767500.html) - 09:03 08/07/2024
 - 🎓 [Cảnh sát vây bắt nhóm nghi can làm chết người khi đòi nợ thuê](https://vnexpress.net/canh-sat-vay-bat-nhom-nghi-can-lam-chet-nguoi-khi-doi-no-thue-4767486.html) - 08:43 08/07/2024
 - 🤓 [Người &#39;có 1.000 đứa con&#39; gặp rắc rối vì hiến tinh trùng vô độ](https://vnexpress.net/nguoi-co-1-000-dua-con-gap-rac-roi-vi-hien-tinh-trung-vo-do-4767435.html) - 08:29 08/07/2024
