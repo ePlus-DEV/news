@@ -28,7 +28,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- vnexpress:START -->
 - 🚀 [Hôn người lạ, cô gái phải đi cấp cứu](https://vnexpress.net/hon-nguoi-la-co-gai-phai-di-cap-cuu-4767403.html) - 17:04 08/07/2024
 - 🧰 [Tìm điểm mạnh, điểm yếu của bạn qua cách cầm cốc](https://vnexpress.net/tim-diem-manh-diem-yeu-cua-ban-qua-cach-cam-coc-4766652.html) - 17:01 08/07/2024
-- 🥰 [Quản lý xyanua](https://vnexpress.net/quan-ly-xyanua-4767664.html) - 17:00 08/07/2024
+- 🥰 [Quản lý chất kịch độc](https://vnexpress.net/quan-ly-chat-kich-doc-4767664.html) - 17:00 08/07/2024
 - 🌏 [Đề xuất đầu tư đường nối TP HCM - Long An - Tiền Giang](https://vnexpress.net/de-xuat-dau-tu-duong-noi-tp-hcm-long-an-tien-giang-4767661.html) - 17:00 08/07/2024
 - 🧐 [Cuộc giải cứu người phụ nữ sắp bị hiến tế](https://vnexpress.net/cuoc-giai-cuu-nguoi-phu-nu-bi-ke-bat-coc-hien-te-4767609.html) - 17:00 08/07/2024
 - 💫 [Máy tính lượng tử hoạt động như thế nào?](https://vnexpress.net/may-tinh-luong-tu-hoat-dong-nhu-the-nao-4767607.html) - 17:00 08/07/2024
