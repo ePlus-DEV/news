@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Cách ly 15 người tiếp xúc gần với cô gái mắc bạch hầu](https://vnexpress.net/cach-ly-15-nguoi-tiep-xuc-gan-voi-co-gai-mac-bach-hau-4767648.html) - 14:58 08/07/2024
+- 🔥 [Cách ly 15 người tiếp xúc gần với cô gái Bắc Giang mắc bạch hầu](https://vnexpress.net/cach-ly-15-nguoi-tiep-xuc-gan-voi-co-gai-bac-giang-mac-bach-hau-4767648.html) - 14:58 08/07/2024
 - 🥰 [Ba biến chứng thai kỳ tiềm ẩn nguy cơ gây đột quỵ sau sinh](https://vnexpress.net/ba-bien-chung-thai-ky-tiem-an-nguy-co-gay-dot-quy-sau-sinh-4767646.html) - 13:43 08/07/2024
 - 💡 [Hai thiếu niên cứu bạn ngừng tim bằng hồi sức tim phổi](https://vnexpress.net/hai-thieu-nien-cuu-ban-ngung-tim-bang-hoi-suc-tim-phoi-4767548.html) - 12:00 08/07/2024
 - 🤗 [Phòng bệnh bạch hầu thế nào](https://vnexpress.net/phong-benh-bach-hau-the-nao-4767625.html) - 12:00 08/07/2024
