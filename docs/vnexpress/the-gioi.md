@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Liên minh cánh tả được dự đoán đánh bại phe cực hữu Pháp](https://vnexpress.net/lien-minh-canh-ta-duoc-du-doan-danh-bai-phe-cuc-huu-phap-4767226.html) - 23:43 07/07/2024
+- 🎭 [Liên minh cánh tả được dự báo đánh bại phe cực hữu Pháp](https://vnexpress.net/lien-minh-canh-ta-duoc-du-bao-danh-bai-phe-cuc-huu-phap-4767226.html) - 23:43 07/07/2024
 - 🕴 [Hà Lan cam kết nhanh chóng chuyển F-16 cho Ukraine](https://vnexpress.net/ha-lan-cam-ket-nhanh-chong-chuyen-f-16-cho-ukraine-4767202.html) - 16:07 07/07/2024
 - 🤭 [Tâm trạng của cử tri Pháp khi đi bầu cử quốc hội](https://vnexpress.net/tam-trang-cua-cu-tri-phap-khi-di-bau-cu-quoc-hoi-4767189.html) - 14:59 07/07/2024
 - 🧑‍💻 [Tướng Israel thừa nhận cuộc chiến với Hamas sẽ kéo dài nhiều năm](https://vnexpress.net/tuong-israel-thua-nhan-cuoc-chien-voi-hamas-se-keo-dai-nhieu-nam-4767176.html) - 13:57 07/07/2024
