@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Giới trẻ theo mốt sơn móng tay &#39;chữa lành&#39;](https://vnexpress.net/gioi-tre-theo-mot-son-mong-tay-chua-lanh-4767396.html) - 12:04 08/07/2024
-- 💫 [Angelina Jolie và con trai út đi mua sắm](https://vnexpress.net/angelina-jolie-va-con-trai-ut-di-mua-sam-4767569.html) - 10:33 08/07/2024
-- 🌮 [Nhóm Binz, Tiến Đạt gây chú ý với điệu nhảy &#39;chim cánh cụt&#39;](https://vnexpress.net/nhom-binz-tien-dat-gay-chu-y-voi-dieu-nhay-chim-canh-cut-4767336.html) - 09:27 08/07/2024
-- 🧠 [Vợ Song Joong Ki mang thai lần hai](https://vnexpress.net/vo-song-joong-ki-mang-thai-lan-hai-4767503.html) - 08:55 08/07/2024
-- 👨‍🏫 [Travis Kelce xúc động xem concert của Taylor Swift](https://vnexpress.net/travis-kelce-xuc-dong-xem-concert-cua-taylor-swift-4767387.html) - 08:47 08/07/2024
-- ⚗️ [Trăng mật lãng mạn của Midu và chồng](https://vnexpress.net/trang-mat-lang-man-cua-midu-va-chong-4767400.html) - 07:35 08/07/2024
-- 😎 [&#39;Despicable me 4&#39; mở màn gần 50 tỷ đồng ở rạp Việt](https://vnexpress.net/despicable-me-4-mo-man-gan-50-ty-dong-o-rap-viet-4767280.html) - 05:00 08/07/2024
-- 🫣 [Phim đua xe có Brad Pitt đóng chính tung teaser](https://vnexpress.net/phim-dua-xe-co-brad-pitt-dong-chinh-tung-teaser-4767358.html) - 04:37 08/07/2024
-- 🪄 [&#39;Nữ hoàng gợi cảm&#39; xứ Hàn sắp cưới](https://vnexpress.net/nu-hoang-goi-cam-xu-han-sap-cuoi-4767332.html) - 04:29 08/07/2024
-- 🤓 [Giáo sư Cao Huy Thuần qua đời](https://vnexpress.net/giao-su-cao-huy-thuan-qua-doi-4767359.html) - 03:32 08/07/2024
-- 🫶 [Brad Pitt nắm tay bạn gái đi xem đua xe](https://vnexpress.net/brad-pitt-nam-tay-ban-gai-di-xem-dua-xe-4767286.html) - 03:13 08/07/2024
-- 🧑‍🏫 [Hà Trần mời Đen Vâu hát trong liveshow](https://vnexpress.net/ha-tran-moi-den-vau-hat-trong-liveshow-4767216.html) - 02:26 08/07/2024
-- 🦄 [Cẩm Ly: &#39;Hai con gái gen Z thích nghe nhạc của tôi&#39;](https://vnexpress.net/cam-ly-hai-con-gai-gen-z-thich-nghe-nhac-cua-toi-4764737.html) - 17:00 07/07/2024
-- 💫 [Ưng Hoàng Phúc hát về tình yêu tan vỡ](https://vnexpress.net/ung-hoang-phuc-hat-ve-tinh-yeu-tan-vo-4767105.html) - 14:26 07/07/2024
-- 🎊 [10 ý tưởng phối đồ trắng](https://vnexpress.net/10-y-tuong-phoi-do-trang-4767156.html) - 14:00 07/07/2024
-- 👹 [Váy áo dự sự kiện của con gái Monica Bellucci](https://vnexpress.net/vay-ao-du-su-kien-cua-con-gai-monica-bellucci-4767130.html) - 12:00 07/07/2024
-- 💻 [Fan hốt hoảng vì Lưu Đức Hoa trượt ngã trên cao](https://vnexpress.net/fan-hot-hoang-vi-luu-duc-hoa-truot-nga-tren-cao-4767134.html) - 10:49 07/07/2024
-- 🤡 [Vợ con và đồng nghiệp tưởng nhớ Đức Tiến](https://vnexpress.net/vo-con-va-dong-nghiep-tuong-nho-duc-tien-4767114.html) - 08:09 07/07/2024
-- 🥰 [Trần Hải Minh ra sách kỷ niệm 38 năm theo hội họa](https://vnexpress.net/tran-hai-minh-ra-sach-ky-niem-38-nam-theo-hoi-hoa-4766031.html) - 07:35 07/07/2024
-- 🚀 [Tiến Đạt, Đăng Khôi gây chú ý khi tái xuất](https://vnexpress.net/tien-dat-dang-khoi-gay-chu-y-khi-tai-xuat-4767092.html) - 05:46 07/07/2024
-- 📝 [Nhà sản xuất &#39;Titanic&#39; qua đời](https://vnexpress.net/nha-san-xuat-titanic-qua-doi-4767072.html) - 05:12 07/07/2024
-- 🐲 [Sắc vóc Hoa hậu Siêu quốc gia 2024](https://vnexpress.net/sac-voc-hoa-hau-sieu-quoc-gia-2024-4767055.html) - 03:49 07/07/2024
-- 🎃 [Erik, Đức Phúc gây thổn thức khi hát ballad](https://vnexpress.net/erik-duc-phuc-gay-thon-thuc-khi-hat-ballad-4767041.html) - 03:09 07/07/2024
-- 🤠 [Mỹ nhân Indonesia đăng quang Miss Supranational 2024](https://vnexpress.net/my-nhan-indonesia-dang-quang-miss-supranational-2024-4767002.html) - 01:02 07/07/2024
-- 🎭 [Thí sinh &#39;Anh trai vượt ngàn chông gai&#39; nhớ Wanbi Tuấn Anh](https://vnexpress.net/thi-sinh-anh-trai-vuot-ngan-chong-gai-nho-wanbi-tuan-anh-4766996.html) - 00:26 07/07/2024
-- 🧰 [Dàn diễn viên &#39;Mùa ổi&#39; ngày ấy - bây giờ](https://vnexpress.net/dan-dien-vien-mua-oi-ngay-ay-bay-gio-4765166.html) - 17:00 06/07/2024
-- 🦍 [Trấn Thành, Hari Won tay trong tay dự thảm đỏ](https://vnexpress.net/tran-thanh-hari-won-tay-trong-tay-du-tham-do-4766969.html) - 14:35 06/07/2024
-- 🌝 [Trấn Thành thắng Đạo diễn xuất sắc ở LHP châu Á Đà Nẵng](https://vnexpress.net/tran-thanh-thang-dao-dien-xuat-sac-o-lhp-chau-a-da-nang-4766873.html) - 14:11 06/07/2024
-- 🧑‍💻 [Bùi Quỳnh Hoa mặc đầm đan lát bên dàn sao](https://vnexpress.net/bui-quynh-hoa-mac-dam-dan-lat-ben-dan-sao-4766937.html) - 13:34 06/07/2024
-- 🥸 [Thanh Mai diện đầm hè phong cách bay bổng](https://vnexpress.net/thanh-mai-dien-dam-he-phong-cach-bay-bong-4766831.html) - 12:24 06/07/2024
-- 🔥 [Nhà sư Thích Pháp Hòa ra sách về luật nhân quả](https://vnexpress.net/nha-su-thich-phap-hoa-ra-sach-ve-luat-nhan-qua-4765399.html) - 12:15 06/07/2024
-- 🐎 [Jennifer Phạm và con gái diện kimono dạo chơi Nhật Bản](https://vnexpress.net/jennifer-pham-va-con-gai-dien-kimono-dao-choi-nhat-ban-4766900.html) - 12:00 06/07/2024
-- 😎 [Sắc vóc vợ sắp cưới của thủ môn Đặng Văn Lâm](https://vnexpress.net/sac-voc-vo-sap-cuoi-cua-thu-mon-dang-van-lam-4766890.html) - 08:55 06/07/2024
-- 🦄 [Em gái Trịnh Công Sơn: &#39;Tôi tìm giọng ca mới hát nhạc Trịnh&#39;](https://vnexpress.net/em-gai-trinh-cong-son-toi-tim-giong-ca-moi-hat-nhac-trinh-4766874.html) - 08:11 06/07/2024
-- 🌜 [Thời trang cổ vũ bóng đá của Đỗ Mỹ Linh](https://vnexpress.net/thoi-trang-co-vu-bong-da-cua-do-my-linh-4766838.html) - 07:00 06/07/2024
-- 🚦 [&#39;Việt Nam cần thời gian để thành thiên đường làm phim như Thái&#39;](https://vnexpress.net/viet-nam-can-thoi-gian-de-thanh-thien-duong-lam-phim-nhu-thai-4766381.html) - 05:42 06/07/2024
-- 🧐 [Vẻ đẹp &#39;như tranh&#39; của công chúa Hy Lạp](https://vnexpress.net/ve-dep-nhu-tranh-cua-cong-chua-hy-lap-4766489.html) - 04:17 06/07/2024
-- 🐵 [Mỹ Duyên, Diệp Bảo Ngọc đóng mẹ chồng, nàng dâu](https://vnexpress.net/my-duyen-diep-bao-ngoc-dong-me-chong-nang-dau-4766703.html) - 03:50 06/07/2024
-- ⚗️ [Tuyên Huyên mang ơn người giúp việc](https://vnexpress.net/tuyen-huyen-mang-on-nguoi-giup-viec-4766783.html) - 02:46 06/07/2024
-- 👺 [Đan Trường làm MV bằng AI](https://vnexpress.net/dan-truong-lam-mv-bang-ai-4766751.html) - 01:12 06/07/2024
-- 🌊 [Phim Việt &#39;chết yểu&#39; hàng loạt dù phòng vé tăng trưởng kỷ lục](https://vnexpress.net/phim-viet-chet-yeu-hang-loat-du-phong-ve-tang-truong-ky-luc-4764743.html) - 17:00 05/07/2024
-- 🪜 [MLee thi Miss Universe Vietnam](https://vnexpress.net/mlee-thi-miss-universe-vietnam-4766707.html) - 14:37 05/07/2024
-- 🕴 [Mốt váy &#39;tạp dề&#39;](https://vnexpress.net/mot-vay-tap-de-4765313.html) - 13:30 05/07/2024
-- 💃 [Phương Linh: &#39;Tôi hạn chế khoe chuyện yêu đương&#39;](https://vnexpress.net/phuong-linh-toi-han-che-khoe-chuyen-yeu-duong-4766408.html) - 11:30 05/07/2024
-- 🦄 [Chàng trai Nam Định là Nam vương Siêu quốc gia châu Á](https://vnexpress.net/chang-trai-nam-dinh-la-nam-vuong-sieu-quoc-gia-chau-a-4766666.html) - 10:41 05/07/2024
-- ⛽️ [Phạm Khánh Hưng, Tăng Phúc kiệt sức khi thi hát](https://vnexpress.net/pham-khanh-hung-tang-phuc-kiet-suc-khi-thi-hat-4766427.html) - 09:13 05/07/2024
-- 😎 [Nhóm phản diện lên ngôi trong &#39;Thế giới võ hiệp Kim Dung&#39;](https://vnexpress.net/nhom-phan-dien-len-ngoi-trong-the-gioi-vo-hiep-kim-dung-4766590.html) - 09:00 05/07/2024
-- 🌊 [Nghệ sĩ Ngọc Đáng ngã nứt xương chậu](https://vnexpress.net/nghe-si-ngoc-dang-nga-nut-xuong-chau-4766607.html) - 08:57 05/07/2024
-- 🐲 [Song Il Gook: &#39;Không hối tiếc bỏ sự nghiệp để chăm con sinh ba&#39;](https://vnexpress.net/song-il-gook-khong-hoi-tiec-bo-su-nghiep-de-cham-con-sinh-ba-4766438.html) - 08:15 05/07/2024
-- 💂 [Suni Hạ Linh trượt cúp &#39;Đạp gió&#39;](https://vnexpress.net/suni-ha-linh-truot-cup-dap-gio-4766511.html) - 05:52 05/07/2024
-- 🙉 [&#39;Nhiều LHP nước ngoài muốn chiếu phim của Đặng Nhật Minh&#39;](https://vnexpress.net/nhieu-lhp-nuoc-ngoai-muon-chieu-phim-cua-dang-nhat-minh-4765955.html) - 05:43 05/07/2024
-- 💪 [Ryan Reynolds là fan Kpop](https://vnexpress.net/ryan-reynolds-la-fan-kpop-4766374.html) - 04:21 05/07/2024
-- 👍 [David Beckham lịch lãm ở Wimbledon](https://vnexpress.net/david-beckham-lich-lam-o-wimbledon-4766422.html) - 03:53 05/07/2024
-- 💪 [Tác giả Aoyama: &#39;Tôi muốn vẽ Conan đến hết đời&#39;](https://vnexpress.net/tac-gia-aoyama-toi-muon-ve-conan-den-het-doi-4765938.html) - 03:44 05/07/2024
-- 💄 [Anh Tú Atus - từ vai phụ mờ nhạt đến ngôi sao giải trí](https://vnexpress.net/anh-tu-atus-tu-vai-phu-mo-nhat-den-ngoi-sao-giai-tri-4766257.html) - 02:48 05/07/2024
-- 🦩 [Huỳnh Thanh Tuyền: &#39;Thành công của tôi là sinh bốn con&#39;](https://vnexpress.net/huynh-thanh-tuyen-thanh-cong-cua-toi-la-sinh-bon-con-4766121.html) - 17:00 04/07/2024
-- 🥸 [Anh Đức tung ảnh cưới](https://vnexpress.net/anh-duc-tung-anh-cuoi-4766296.html) - 15:32 04/07/2024
-- 🧰 [Gu mặc đơn sắc của Mai Phương Thúy](https://vnexpress.net/gu-mac-don-sac-cua-mai-phuong-thuy-4765668.html) - 06:19 04/07/2024
-- 💼 [Phim &#39;Trạm cứu hộ trái tim&#39; kết thúc khiên cưỡng](https://vnexpress.net/giai-tri/phim/thu-vien-phim/tram-cuu-ho-trai-tim-695/ket-thuc-khien-cuong) - 05:15 04/07/2024
-- 🧑‍💻 [Diễn viên &#39;Nhật ký Vàng Anh&#39; đời đầu sau gần hai thập niên](https://vnexpress.net/dien-vien-nhat-ky-vang-anh-doi-dau-sau-gan-hai-thap-nien-4765128.html) - 23:00 03/07/2024<!-- vnexpress-giai-tri:END -->
+- 🌏 [Hậu trường anh hùng cứu mỹ nhân ở phim cổ trang](https://vnexpress.net/hau-truong-anh-hung-cuu-my-nhan-o-phim-co-trang-4767283.html) - 13:30 08/07/2024
+- 💫 [Giới trẻ theo mốt sơn móng tay &#39;chữa lành&#39;](https://vnexpress.net/gioi-tre-theo-mot-son-mong-tay-chua-lanh-4767396.html) - 12:04 08/07/2024
+- 🌮 [Angelina Jolie và con trai út đi mua sắm](https://vnexpress.net/angelina-jolie-va-con-trai-ut-di-mua-sam-4767569.html) - 10:33 08/07/2024
+- 🧠 [Nhóm Binz, Tiến Đạt gây chú ý với điệu nhảy &#39;chim cánh cụt&#39;](https://vnexpress.net/nhom-binz-tien-dat-gay-chu-y-voi-dieu-nhay-chim-canh-cut-4767336.html) - 09:27 08/07/2024
+- 👨‍🏫 [Vợ Song Joong Ki mang thai lần hai](https://vnexpress.net/vo-song-joong-ki-mang-thai-lan-hai-4767503.html) - 08:55 08/07/2024
+- ⚗️ [Travis Kelce xúc động xem concert của Taylor Swift](https://vnexpress.net/travis-kelce-xuc-dong-xem-concert-cua-taylor-swift-4767387.html) - 08:47 08/07/2024
+- 😎 [Trăng mật lãng mạn của Midu và chồng](https://vnexpress.net/trang-mat-lang-man-cua-midu-va-chong-4767400.html) - 07:35 08/07/2024
+- 🫣 [&#39;Despicable me 4&#39; mở màn gần 50 tỷ đồng ở rạp Việt](https://vnexpress.net/despicable-me-4-mo-man-gan-50-ty-dong-o-rap-viet-4767280.html) - 05:00 08/07/2024
+- 🪄 [Phim đua xe có Brad Pitt đóng chính tung teaser](https://vnexpress.net/phim-dua-xe-co-brad-pitt-dong-chinh-tung-teaser-4767358.html) - 04:37 08/07/2024
+- 🤓 [&#39;Nữ hoàng gợi cảm&#39; xứ Hàn sắp cưới](https://vnexpress.net/nu-hoang-goi-cam-xu-han-sap-cuoi-4767332.html) - 04:29 08/07/2024
+- 🫶 [Giáo sư Cao Huy Thuần qua đời](https://vnexpress.net/giao-su-cao-huy-thuan-qua-doi-4767359.html) - 03:32 08/07/2024
+- 🧑‍🏫 [Brad Pitt nắm tay bạn gái đi xem đua xe](https://vnexpress.net/brad-pitt-nam-tay-ban-gai-di-xem-dua-xe-4767286.html) - 03:13 08/07/2024
+- 🦄 [Hà Trần mời Đen Vâu hát trong liveshow](https://vnexpress.net/ha-tran-moi-den-vau-hat-trong-liveshow-4767216.html) - 02:26 08/07/2024
+- 💫 [Cẩm Ly: &#39;Hai con gái gen Z thích nghe nhạc của tôi&#39;](https://vnexpress.net/cam-ly-hai-con-gai-gen-z-thich-nghe-nhac-cua-toi-4764737.html) - 17:00 07/07/2024
+- 🎊 [Ưng Hoàng Phúc hát về tình yêu tan vỡ](https://vnexpress.net/ung-hoang-phuc-hat-ve-tinh-yeu-tan-vo-4767105.html) - 14:26 07/07/2024
+- 👹 [10 ý tưởng phối đồ trắng](https://vnexpress.net/10-y-tuong-phoi-do-trang-4767156.html) - 14:00 07/07/2024
+- 💻 [Váy áo dự sự kiện của con gái Monica Bellucci](https://vnexpress.net/vay-ao-du-su-kien-cua-con-gai-monica-bellucci-4767130.html) - 12:00 07/07/2024
+- 🤡 [Fan hốt hoảng vì Lưu Đức Hoa trượt ngã trên cao](https://vnexpress.net/fan-hot-hoang-vi-luu-duc-hoa-truot-nga-tren-cao-4767134.html) - 10:49 07/07/2024
+- 🥰 [Vợ con và đồng nghiệp tưởng nhớ Đức Tiến](https://vnexpress.net/vo-con-va-dong-nghiep-tuong-nho-duc-tien-4767114.html) - 08:09 07/07/2024
+- 🚀 [Trần Hải Minh ra sách kỷ niệm 38 năm theo hội họa](https://vnexpress.net/tran-hai-minh-ra-sach-ky-niem-38-nam-theo-hoi-hoa-4766031.html) - 07:35 07/07/2024
+- 📝 [Tiến Đạt, Đăng Khôi gây chú ý khi tái xuất](https://vnexpress.net/tien-dat-dang-khoi-gay-chu-y-khi-tai-xuat-4767092.html) - 05:46 07/07/2024
+- 🐲 [Nhà sản xuất &#39;Titanic&#39; qua đời](https://vnexpress.net/nha-san-xuat-titanic-qua-doi-4767072.html) - 05:12 07/07/2024
+- 🎃 [Sắc vóc Hoa hậu Siêu quốc gia 2024](https://vnexpress.net/sac-voc-hoa-hau-sieu-quoc-gia-2024-4767055.html) - 03:49 07/07/2024
+- 🤠 [Erik, Đức Phúc gây thổn thức khi hát ballad](https://vnexpress.net/erik-duc-phuc-gay-thon-thuc-khi-hat-ballad-4767041.html) - 03:09 07/07/2024
+- 🎭 [Mỹ nhân Indonesia đăng quang Miss Supranational 2024](https://vnexpress.net/my-nhan-indonesia-dang-quang-miss-supranational-2024-4767002.html) - 01:02 07/07/2024
+- 🧰 [Thí sinh &#39;Anh trai vượt ngàn chông gai&#39; nhớ Wanbi Tuấn Anh](https://vnexpress.net/thi-sinh-anh-trai-vuot-ngan-chong-gai-nho-wanbi-tuan-anh-4766996.html) - 00:26 07/07/2024
+- 🦍 [Dàn diễn viên &#39;Mùa ổi&#39; ngày ấy - bây giờ](https://vnexpress.net/dan-dien-vien-mua-oi-ngay-ay-bay-gio-4765166.html) - 17:00 06/07/2024
+- 🌝 [Trấn Thành, Hari Won tay trong tay dự thảm đỏ](https://vnexpress.net/tran-thanh-hari-won-tay-trong-tay-du-tham-do-4766969.html) - 14:35 06/07/2024
+- 🧑‍💻 [Trấn Thành thắng Đạo diễn xuất sắc ở LHP châu Á Đà Nẵng](https://vnexpress.net/tran-thanh-thang-dao-dien-xuat-sac-o-lhp-chau-a-da-nang-4766873.html) - 14:11 06/07/2024
+- 🥸 [Bùi Quỳnh Hoa mặc đầm đan lát bên dàn sao](https://vnexpress.net/bui-quynh-hoa-mac-dam-dan-lat-ben-dan-sao-4766937.html) - 13:34 06/07/2024
+- 🔥 [Thanh Mai diện đầm hè phong cách bay bổng](https://vnexpress.net/thanh-mai-dien-dam-he-phong-cach-bay-bong-4766831.html) - 12:24 06/07/2024
+- 🐎 [Nhà sư Thích Pháp Hòa ra sách về luật nhân quả](https://vnexpress.net/nha-su-thich-phap-hoa-ra-sach-ve-luat-nhan-qua-4765399.html) - 12:15 06/07/2024
+- 😎 [Jennifer Phạm và con gái diện kimono dạo chơi Nhật Bản](https://vnexpress.net/jennifer-pham-va-con-gai-dien-kimono-dao-choi-nhat-ban-4766900.html) - 12:00 06/07/2024
+- 🦄 [Sắc vóc vợ sắp cưới của thủ môn Đặng Văn Lâm](https://vnexpress.net/sac-voc-vo-sap-cuoi-cua-thu-mon-dang-van-lam-4766890.html) - 08:55 06/07/2024
+- 🌜 [Em gái Trịnh Công Sơn: &#39;Tôi tìm giọng ca mới hát nhạc Trịnh&#39;](https://vnexpress.net/em-gai-trinh-cong-son-toi-tim-giong-ca-moi-hat-nhac-trinh-4766874.html) - 08:11 06/07/2024
+- 🚦 [Thời trang cổ vũ bóng đá của Đỗ Mỹ Linh](https://vnexpress.net/thoi-trang-co-vu-bong-da-cua-do-my-linh-4766838.html) - 07:00 06/07/2024
+- 🧐 [&#39;Việt Nam cần thời gian để thành thiên đường làm phim như Thái&#39;](https://vnexpress.net/viet-nam-can-thoi-gian-de-thanh-thien-duong-lam-phim-nhu-thai-4766381.html) - 05:42 06/07/2024
+- 🐵 [Vẻ đẹp &#39;như tranh&#39; của công chúa Hy Lạp](https://vnexpress.net/ve-dep-nhu-tranh-cua-cong-chua-hy-lap-4766489.html) - 04:17 06/07/2024
+- ⚗️ [Mỹ Duyên, Diệp Bảo Ngọc đóng mẹ chồng, nàng dâu](https://vnexpress.net/my-duyen-diep-bao-ngoc-dong-me-chong-nang-dau-4766703.html) - 03:50 06/07/2024
+- 👺 [Tuyên Huyên mang ơn người giúp việc](https://vnexpress.net/tuyen-huyen-mang-on-nguoi-giup-viec-4766783.html) - 02:46 06/07/2024
+- 🌊 [Đan Trường làm MV bằng AI](https://vnexpress.net/dan-truong-lam-mv-bang-ai-4766751.html) - 01:12 06/07/2024
+- 🪜 [Phim Việt &#39;chết yểu&#39; hàng loạt dù phòng vé tăng trưởng kỷ lục](https://vnexpress.net/phim-viet-chet-yeu-hang-loat-du-phong-ve-tang-truong-ky-luc-4764743.html) - 17:00 05/07/2024
+- 🕴 [MLee thi Miss Universe Vietnam](https://vnexpress.net/mlee-thi-miss-universe-vietnam-4766707.html) - 14:37 05/07/2024
+- 💃 [Mốt váy &#39;tạp dề&#39;](https://vnexpress.net/mot-vay-tap-de-4765313.html) - 13:30 05/07/2024
+- 🦄 [Phương Linh: &#39;Tôi hạn chế khoe chuyện yêu đương&#39;](https://vnexpress.net/phuong-linh-toi-han-che-khoe-chuyen-yeu-duong-4766408.html) - 11:30 05/07/2024
+- ⛽️ [Chàng trai Nam Định là Nam vương Siêu quốc gia châu Á](https://vnexpress.net/chang-trai-nam-dinh-la-nam-vuong-sieu-quoc-gia-chau-a-4766666.html) - 10:41 05/07/2024
+- 😎 [Phạm Khánh Hưng, Tăng Phúc kiệt sức khi thi hát](https://vnexpress.net/pham-khanh-hung-tang-phuc-kiet-suc-khi-thi-hat-4766427.html) - 09:13 05/07/2024
+- 🌊 [Nhóm phản diện lên ngôi trong &#39;Thế giới võ hiệp Kim Dung&#39;](https://vnexpress.net/nhom-phan-dien-len-ngoi-trong-the-gioi-vo-hiep-kim-dung-4766590.html) - 09:00 05/07/2024
+- 🐲 [Nghệ sĩ Ngọc Đáng ngã nứt xương chậu](https://vnexpress.net/nghe-si-ngoc-dang-nga-nut-xuong-chau-4766607.html) - 08:57 05/07/2024
+- 💂 [Song Il Gook: &#39;Không hối tiếc bỏ sự nghiệp để chăm con sinh ba&#39;](https://vnexpress.net/song-il-gook-khong-hoi-tiec-bo-su-nghiep-de-cham-con-sinh-ba-4766438.html) - 08:15 05/07/2024
+- 🙉 [Suni Hạ Linh trượt cúp &#39;Đạp gió&#39;](https://vnexpress.net/suni-ha-linh-truot-cup-dap-gio-4766511.html) - 05:52 05/07/2024
+- 💪 [&#39;Nhiều LHP nước ngoài muốn chiếu phim của Đặng Nhật Minh&#39;](https://vnexpress.net/nhieu-lhp-nuoc-ngoai-muon-chieu-phim-cua-dang-nhat-minh-4765955.html) - 05:43 05/07/2024
+- 👍 [Ryan Reynolds là fan Kpop](https://vnexpress.net/ryan-reynolds-la-fan-kpop-4766374.html) - 04:21 05/07/2024
+- 💪 [David Beckham lịch lãm ở Wimbledon](https://vnexpress.net/david-beckham-lich-lam-o-wimbledon-4766422.html) - 03:53 05/07/2024
+- 💄 [Tác giả Aoyama: &#39;Tôi muốn vẽ Conan đến hết đời&#39;](https://vnexpress.net/tac-gia-aoyama-toi-muon-ve-conan-den-het-doi-4765938.html) - 03:44 05/07/2024
+- 🦩 [Anh Tú Atus - từ vai phụ mờ nhạt đến ngôi sao giải trí](https://vnexpress.net/anh-tu-atus-tu-vai-phu-mo-nhat-den-ngoi-sao-giai-tri-4766257.html) - 02:48 05/07/2024
+- 🥸 [Huỳnh Thanh Tuyền: &#39;Thành công của tôi là sinh bốn con&#39;](https://vnexpress.net/huynh-thanh-tuyen-thanh-cong-cua-toi-la-sinh-bon-con-4766121.html) - 17:00 04/07/2024
+- 🧰 [Anh Đức tung ảnh cưới](https://vnexpress.net/anh-duc-tung-anh-cuoi-4766296.html) - 15:32 04/07/2024
+- 💼 [Gu mặc đơn sắc của Mai Phương Thúy](https://vnexpress.net/gu-mac-don-sac-cua-mai-phuong-thuy-4765668.html) - 06:19 04/07/2024
+- 🧑‍💻 [Phim &#39;Trạm cứu hộ trái tim&#39; kết thúc khiên cưỡng](https://vnexpress.net/giai-tri/phim/thu-vien-phim/tram-cuu-ho-trai-tim-695/ket-thuc-khien-cuong) - 05:15 04/07/2024<!-- vnexpress-giai-tri:END -->
