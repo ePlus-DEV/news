@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Chuyên gia trang điểm điều hành đường dây &#39;sex tour&#39; giá nghìn USD lĩnh án](https://vnexpress.net/chuyen-gia-trang-diem-dieu-hanh-duong-day-sex-tour-gia-nghin-usd-linh-an-4767440.html) - 06:03 08/07/2024
+- 😎 [Chuyên gia trang điểm điều hành đường dây mại dâm giới showbiz lĩnh án](https://vnexpress.net/chuyen-gia-trang-diem-dieu-hanh-duong-day-mai-dam-gioi-showbiz-linh-an-4767440.html) - 06:03 08/07/2024
 - 🥰 [&#39;Bẫy ngọt ngào&#39; trên mạng bủa vây những thiếu nữ bỏ nhà đi](https://vnexpress.net/nhung-ke-san-moi-truc-tuyen-nham-vao-thieu-nu-bo-nha-di-4767218.html) - 02:41 08/07/2024
 - 🎓 [Công ty có buộc phải cung cấp nước uống cho nhân viên?](https://vnexpress.net/cong-ty-co-buoc-phai-cung-cap-nuoc-uong-cho-nhan-vien-4766042.html) - 17:00 07/07/2024
 - 🤓 [Nghi án đâm chết vợ rồi tự sát](https://vnexpress.net/nghi-an-dam-chet-vo-roi-tu-sat-4767195.html) - 15:11 07/07/2024
