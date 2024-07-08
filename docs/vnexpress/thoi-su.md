@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Trồng lúa giảm phát thải giúp tăng &#39;lợi nhuận 1,3-62 triệu đồng mỗi ha&#39;](https://vnexpress.net/trong-lua-giam-phat-thai-giup-tang-loi-nhuan-1-3-62-trieu-dong-moi-ha-4767594.html) - 11:06 08/07/2024
+- 🦒 [Trồng lúa giảm phát thải giúp tăng &#39;lợi nhuận 1,3-6,2 triệu đồng mỗi ha&#39;](https://vnexpress.net/trong-lua-giam-phat-thai-giup-tang-loi-nhuan-1-3-6-2-trieu-dong-moi-ha-4767594.html) - 11:06 08/07/2024
 - 🤓 [Xe bồn bốc cháy ở cây xăng](https://vnexpress.net/xe-bon-boc-chay-o-cay-xang-4767595.html) - 10:49 08/07/2024
 - ⚗️ [Soái hạm Mỹ đến Khánh Hòa](https://vnexpress.net/soai-ham-my-den-khanh-hoa-4767540.html) - 09:34 08/07/2024
 - 🌊 [Tăng cường thanh tra lĩnh vực mua bán vàng miếng](https://vnexpress.net/tang-cuong-thanh-tra-linh-vuc-mua-ban-vang-mieng-4767561.html) - 09:31 08/07/2024
