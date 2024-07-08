@@ -17,7 +17,7 @@ sidebar_position: 5
 - 👍 [Vì sao Euro 2024 được đánh giá cao hơn Copa America?](https://vnexpress.net/vi-sao-euro-2024-duoc-danh-gia-cao-hon-copa-america-4767361.html) - 06:56 08/07/2024
 - 🐵 [Alcaraz và Sinner vào tứ kết Wimbledon](https://vnexpress.net/alcaraz-va-sinner-vao-tu-ket-wimbledon-4767442.html) - 05:48 08/07/2024
 - 💫 [Hà Nội FC chia tay HLV Daiki Iwamasa](https://vnexpress.net/ha-noi-fc-chia-tay-hlv-daiki-iwamasa-4767404.html) - 05:10 08/07/2024
-- 🦆 [Euro ngày 8/7: Griezmann tức giận vì Pháp bị lộ clip tập đá luân lưu](https://vnexpress.net/cap-nhat-tin-tuc-euro-ngay-8-7-4767408.html) - 04:55 08/07/2024
+- 🦆 [Euro ngày 8/7: Hai cầu thủ Đức cưới vợ sau khi bị loại khỏi Euro](https://vnexpress.net/cap-nhat-tin-tuc-euro-ngay-8-7-4767408.html) - 04:55 08/07/2024
 - 🙉 [Pha phá băng gây tranh cãi ở giải marathon tại Hậu Giang](https://vnexpress.net/pha-pha-bang-gay-tranh-cai-o-giai-marathon-tai-hau-giang-4767395.html) - 04:22 08/07/2024
 - 📝 [Hamilton phá kỷ lục của Schumacher](https://vnexpress.net/hamilton-pha-ky-luc-cua-schumacher-4767282.html) - 04:17 08/07/2024
 - 💯 [Neville: &#39;Anh đã biết cách vượt ngưỡng ở những giải lớn&#39;](https://vnexpress.net/neville-anh-da-biet-cach-vuot-nguong-o-nhung-giai-lon-4767270.html) - 04:15 08/07/2024
