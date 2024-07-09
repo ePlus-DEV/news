@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Nông dân điêu đứng vì giá ba ba giảm kỷ lục](https://vnexpress.net/nong-dan-dieu-dung-vi-gia-ba-ba-giam-ky-luc-4767542.html) - 21:00 08/07/2024
 - 🤓 [Đề xuất 5 phương án kết nối sân bay Tân Sơn Nhất và Long Thành](https://vnexpress.net/de-xuat-5-phuong-an-ket-noi-san-bay-tan-son-nhat-va-long-thanh-4767649.html) - 20:00 08/07/2024
-- ⚗️ [Đề xuất đầu tư đường nối TP HCM - Long An - Tiền Giang](https://vnexpress.net/de-xuat-dau-tu-duong-noi-tp-hcm-long-an-tien-giang-4767661.html) - 17:00 08/07/2024
+- ⚗️ [Kiến nghị đầu tư đường nối TP HCM - Long An - Tiền Giang](https://vnexpress.net/kien-nghi-dau-tu-duong-noi-tp-hcm-long-an-tien-giang-4767661.html) - 17:00 08/07/2024
 - 🌊 [Từ 1/2025, số loại giấy phép lái xe tăng lên 15](https://vnexpress.net/tu-1-2025-so-loai-giay-phep-lai-xe-tang-len-15-4767388.html) - 17:00 08/07/2024
 - 🎓 [Tổng bí thư: Quân đội cần đáp ứng điều kiện tác chiến mới](https://vnexpress.net/tong-bi-thu-quan-doi-can-dap-ung-dieu-kien-tac-chien-moi-4767617.html) - 13:32 08/07/2024
 - 🔥 [Cơ quan hành chính, sự nghiệp chuẩn bị thế nào cho tăng lương](https://vnexpress.net/co-quan-hanh-chinh-su-nghiep-chuan-bi-the-nao-cho-tang-luong-4767493.html) - 12:30 08/07/2024
