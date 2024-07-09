@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Kẻ sát hại mẹ bị tuyên án tử hình](https://vnexpress.net/ke-sat-hai-me-bi-tuyen-an-tu-hinh-4767889.html) - 07:00 09/07/2024
 - 🥰 [Lời khai của kẻ dùng búa đánh nữ trung tá nguy kịch](https://vnexpress.net/loi-khai-cua-ke-dung-bua-danh-nu-trung-ta-nguy-kich-4767881.html) - 05:56 09/07/2024
 - 🎓 [Chi cục trưởng Hải quan cửa khẩu Xín Mần bị bắt](https://vnexpress.net/chi-cuc-truong-hai-quan-cua-khau-xin-man-bi-bat-4767872.html) - 05:35 09/07/2024
-- 🤓 [Kẻ phi tang xác cô gái từ chối luật sư, nói &#39;biết tội lỗi của mình&#39;](https://vnexpress.net/ke-phi-tang-xac-co-gai-tu-choi-luat-su-noi-biet-toi-loi-cua-minh-4767809.html) - 04:35 09/07/2024
+- 🤓 [Kẻ phi tang xác cô gái: &#39;Xin được cơ hội sống&#39;](https://vnexpress.net/ke-phi-tang-xac-co-gai-tu-choi-luat-su-noi-biet-toi-loi-cua-minh-4767809.html) - 04:35 09/07/2024
 - 🎊 [Bị phạt vì tung tin &#39;xếp hàng dài&#39; chờ xét nghiệm bệnh bạch hầu](https://vnexpress.net/bi-phat-vi-tung-tin-xep-hang-dai-cho-xet-nghiem-benh-bach-hau-4767814.html) - 03:51 09/07/2024
 - 🙉 [Nhóm thanh niên cầm kiếm tấn công nhân viên nhà xe](https://video.vnexpress.net/nhom-thanh-nien-cam-kiem-tan-cong-nhan-vien-nha-xe-4767511.html) - 17:00 08/07/2024
 - 🤡 [Cuộc giải cứu người phụ nữ sắp bị hiến tế](https://vnexpress.net/cuoc-giai-cuu-nguoi-phu-nu-bi-ke-bat-coc-hien-te-4767609.html) - 17:00 08/07/2024
