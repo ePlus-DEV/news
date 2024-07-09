@@ -209,7 +209,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp bóng đá Tây Ban Nha vs Pháp tại bán kết EURO 2024](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-tay-ban-nha-vs-phap-tai-ban-ket-euro-2024-1363854.ldo) - 17:30 09/07/2024
+- 🗽 [Trực tiếp bóng đá Tây Ban Nha vs Pháp tại bán kết EURO 2024: Griezmann dự bị](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-tay-ban-nha-vs-phap-tai-ban-ket-euro-2024-griezmann-du-bi-1363854.ldo) - 17:30 09/07/2024
 - 📝 [Việt Nam có tiềm năng trở thành trung tâm logistics thế giới](https://laodong.vn/thoi-su/viet-nam-co-tiem-nang-tro-thanh-trung-tam-logistics-the-gioi-1363976.ldo) - 16:04 09/07/2024
 - 🦏 [Tội phạm cá độ bóng đá tiếp tục hoạt động phức tạp](https://laodong.vn/phap-luat/toi-pham-ca-do-bong-da-tiep-tuc-hoat-dong-phuc-tap-1363974.ldo) - 15:44 09/07/2024
 - 🦩 [Nhiều nơi ở TPHCM chậm trễ ban hành danh mục tuyến đường cho thuê vỉa hè](https://laodong.vn/xa-hoi/nhieu-noi-o-tphcm-cham-tre-ban-hanh-danh-muc-tuyen-duong-cho-thue-via-he-1364012.ldo) - 15:43 09/07/2024
