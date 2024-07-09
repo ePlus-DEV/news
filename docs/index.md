@@ -210,7 +210,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Lao Động
 <!-- laodong:START -->
 - 🗽 [Link xem trực tiếp bóng đá Argentina vs Canada ở bán kết Copa America 2024](https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-argentina-vs-canada-o-ban-ket-copa-america-2024-1363993.ldo) - 20:00 09/07/2024
-- 📝 [Trực tiếp bóng đá Tây Ban Nha 2-1 Pháp: Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-tay-ban-nha-2-1-phap-hiep-2-1363854.ldo) - 17:30 09/07/2024
+- 📝 [Trực tiếp bóng đá Tây Ban Nha 2-1 Pháp: 5 phút bù giờ](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-tay-ban-nha-2-1-phap-5-phut-bu-gio-1363854.ldo) - 17:30 09/07/2024
 - 🦏 [Việt Nam có tiềm năng trở thành trung tâm logistics thế giới](https://laodong.vn/thoi-su/viet-nam-co-tiem-nang-tro-thanh-trung-tam-logistics-the-gioi-1363976.ldo) - 16:04 09/07/2024
 - 🦩 [Tội phạm cá độ bóng đá tiếp tục hoạt động phức tạp](https://laodong.vn/phap-luat/toi-pham-ca-do-bong-da-tiep-tuc-hoat-dong-phuc-tap-1363974.ldo) - 15:44 09/07/2024
 - 🦏 [Nhiều nơi ở TPHCM chậm trễ ban hành danh mục tuyến đường cho thuê vỉa hè](https://laodong.vn/xa-hoi/nhieu-noi-o-tphcm-cham-tre-ban-hanh-danh-muc-tuyen-duong-cho-thue-via-he-1364012.ldo) - 15:43 09/07/2024
