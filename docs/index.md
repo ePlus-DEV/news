@@ -42,7 +42,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎬 [Bùi Công Nam: &#39;Tôi vượt cám dỗ tình, tiền để làm nghề&#39;](https://vnexpress.net/bui-cong-nam-toi-vuot-cam-do-tinh-tien-de-lam-nghe-4764754.html) - 17:00 09/07/2024
 - 🚀 [Lời nguyền 40 năm đối với chủ nhà Euro](https://vnexpress.net/loi-nguyen-40-nam-doi-voi-chu-nha-euro-4767982.html) - 17:00 09/07/2024
 - 🪄 [10 ôtô ít khách nhất Việt Nam quý II](https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-it-khach-nhat-viet-nam-quy-ii-4767944.html) - 17:00 09/07/2024
-- 😎 [Tây Ban Nha tung video công bố đội hình đấu Pháp](https://vnexpress.net/truc-tiep-ban-ket-euro-2024-tay-ban-nha-phap-4768083.html) - 16:00 09/07/2024
+- 😎 [Kylian Mbappe đến sân](https://vnexpress.net/truc-tiep-ban-ket-euro-2024-tay-ban-nha-phap-4768083.html) - 16:00 09/07/2024
 - 🎊 [Cô gái bệnh bạch hầu chuyển viện về Bắc Giang cách ly theo dõi](https://vnexpress.net/co-gai-benh-bach-hau-chuyen-vien-ve-bac-giang-cach-ly-theo-doi-4768006.html) - 15:12 09/07/2024
 - ⚗️ [Xem xét gỡ vướng cho 154 dự án điện mặt trời từng bị thanh tra](https://vnexpress.net/xem-xet-go-vuong-cho-154-du-an-dien-mat-troi-tung-bi-thanh-tra-4768078.html) - 15:12 09/07/2024
 - 🫣 [Hiệp hội Bảo hiểm: Hàng trăm nghìn tư vấn viên sẽ được &#39;thanh lọc&#39;](https://vnexpress.net/tong-giam-doc-manulife-viet-nam-chung-toi-co-rat-nhieu-bai-hoc-thoi-gian-qua-4768049.html) - 14:37 09/07/2024
