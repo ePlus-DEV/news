@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Lời nguyền 40 năm đối với chủ nhà Euro](https://vnexpress.net/loi-nguyen-40-nam-doi-voi-chu-nha-euro-4767982.html) - 17:00 09/07/2024
-- 🦩 [Tây Ban Nha 2-1 Pháp &lpar;H2&rpar;: Yamal suýt ghi thêm siêu phẩm](https://vnexpress.net/truc-tiep-ban-ket-euro-2024-tay-ban-nha-phap-4768083.html) - 16:00 09/07/2024
+- 🦩 [Tây Ban Nha thắng ngược Pháp, vào chung kết Euro 2024](https://vnexpress.net/truc-tiep-ban-ket-euro-2024-tay-ban-nha-phap-4768083.html) - 16:00 09/07/2024
 - 🧰 [Đội hình tiêu biểu V-League 2023-2024](https://vnexpress.net/doi-hinh-tieu-bieu-v-league-2023-2024-4768054.html) - 12:08 09/07/2024
 - 🤗 [Argentina - Canada: Thẳng tiến vào chung kết](https://vnexpress.net/argentina-canada-thang-tien-vao-chung-ket-4768016.html) - 12:00 09/07/2024
 - 🥳 [Laporte - từ người thừa ở Pháp đến trụ cột Tây Ban Nha](https://vnexpress.net/laporte-tu-nguoi-thua-o-phap-den-tru-cot-tay-ban-nha-4768042.html) - 11:30 09/07/2024
