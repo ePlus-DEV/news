@@ -13,7 +13,7 @@ sidebar_position: 5
 - 🌜 [Tay vợt gốc Trung Quốc thành hiện tượng Wimbledon](https://vnexpress.net/tay-vot-goc-trung-quoc-thanh-hien-tuong-wimbledon-4767880.html) - 06:45 09/07/2024
 - 🫶 [Pháp, Anh được dự đoán vào chung kết Euro 2024](https://vnexpress.net/phap-anh-duoc-du-doan-vao-chung-ket-euro-2024-4767888.html) - 06:44 09/07/2024
 - 🌜 [Tương quan trước bán kết Euro 2024](https://vnexpress.net/tuong-quan-truoc-ban-ket-euro-2024-4767876.html) - 05:20 09/07/2024
-- 😺 [Euro ngày 9/7: Vợ Morata mắng báo Tây Ban Nha](https://vnexpress.net/euro-ngay-9-7-vo-morata-mang-bao-tay-ban-nha-4767819.html) - 04:43 09/07/2024
+- 😺 [Euro ngày 9/7: Báo chí Pháp và Tây Ban Nha bút chiến trước bán kết](https://vnexpress.net/euro-ngay-9-7-bao-chi-phap-va-tay-ban-nha-but-chien-truoc-ban-ket-4767819.html) - 04:43 09/07/2024
 - 👍 [Bản tin Euro: Phil Foden phủ nhận việc không dám đá penalty](https://vnexpress.net/ban-tin-euro-phil-foden-phu-nhan-viec-khong-dam-da-penalty-4767758.html) - 04:31 09/07/2024
 - 🐵 [Djokovic mỉa mai khán giả Wimbledon](https://vnexpress.net/djokovic-mia-mai-khan-gia-wimbledon-4767848.html) - 04:21 09/07/2024
 - 💫 [Haaland từ chối chụp ảnh cùng mỹ nhân Na Uy](https://vnexpress.net/haaland-tu-choi-chup-anh-cung-my-nhan-na-uy-4767825.html) - 03:48 09/07/2024
