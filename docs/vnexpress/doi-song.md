@@ -4,8 +4,8 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Cháo đậu cà Hà Nội](https://vnexpress.net/chao-dau-ca-ha-noi-4768017.html) - 10:33 09/07/2024
-- 🎓 [Những sai lầm khi dùng giấy bạc trong nhà bếp](https://vnexpress.net/nhung-sai-lam-khi-dung-giay-bac-trong-nha-bep-4767800.html) - 09:30 09/07/2024
+- 🚀 [Cháo đậu cà Hà Nội](https://vnexpress.net/doi-song-cooking-chao-dau-ca-ha-noi-4768017.html) - 10:33 09/07/2024
+- 🎓 [Những sai lầm khi dùng giấy bạc trong nhà bếp](https://vnexpress.net/doi-song-cooking-nhung-sai-lam-khi-dung-giay-bac-trong-nha-bep-4767800.html) - 09:30 09/07/2024
 - 🚦 [Cách đối phó lịch sự với người nói nhiều](https://vnexpress.net/cach-doi-pho-lich-su-voi-nguoi-noi-nhieu-4767935.html) - 09:24 09/07/2024
 - 🦣 [Quy tắc &#39;30 giây hoặc ít hơn&#39; về sự tử tế](https://vnexpress.net/quy-tac-30-giay-hoac-it-hon-ve-su-tu-te-4767857.html) - 06:55 09/07/2024
 - 🎓 [Mẹo diệt muỗi bằng bia](https://vnexpress.net/meo-diet-muoi-bang-bia-4767200.html) - 03:06 09/07/2024
