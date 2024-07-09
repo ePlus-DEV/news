@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Trọng tài từng nhận hối lộ bắt trận bán kết Euro 2024](https://vnexpress.net/trong-tai-tung-nhan-hoi-lo-bat-tran-ban-ket-euro-2024-4767724.html) - 03:18 09/07/2024
-- 🦩 [Cựu HLV Hà Nội: &#39;V-League không nên dựa dẫm vào ngoại binh nữa&#39;](https://vnexpress.net/cuu-hlv-ha-noi-v-league-khong-nen-dua-dam-vao-ngoai-binh-nua-4767674.html) - 02:58 09/07/2024
-- 🧰 [Bí quyết thành công của Rodri](https://vnexpress.net/bi-quyet-thanh-cong-cua-rodri-4767770.html) - 02:50 09/07/2024
-- 🤗 [Runner nhận quần finisher khi hoàn thành VM Hạ Long 2024](https://vnexpress.net/runner-nhan-quan-finisher-khi-hoan-thanh-vm-ha-long-2024-4767575.html) - 02:50 09/07/2024
-- 🥳 [William Saliba - thủ lĩnh đích thực của Pháp ở Euro 2024](https://vnexpress.net/william-saliba-thu-linh-dich-thuc-cua-phap-o-euro-2024-4767682.html) - 02:31 09/07/2024
-- 🦣 [Djokovic thắng dễ Rune, vào tứ kết Wimbledon](https://vnexpress.net/djokovic-thang-de-rune-vao-tu-ket-wimbledon-4767714.html) - 01:38 09/07/2024
-- 🌜 [Những điểm nhấn tại tứ kết Euro 2024](https://vnexpress.net/nhung-diem-nhan-tai-tu-ket-euro-2024-4767694.html) - 00:51 09/07/2024
-- 🫶 [Chủ tịch Barca muốn mua sao mới của Tây Ban Nha](https://vnexpress.net/chu-tich-barca-muon-mua-sao-moi-cua-tay-ban-nha-4767684.html) - 23:00 08/07/2024
-- 🌜 [HLV Tây Ban Nha: &#39;Mbappe vẫn giỏi nhất dù đá 50% khả năng&#39;](https://vnexpress.net/hlv-tay-ban-nha-mbappe-van-gioi-nhat-du-da-50-kha-nang-4767679.html) - 22:53 08/07/2024
-- 😺 [Deschamps: &#39;Thấy Pháp nhàm chán thì hãy xem thứ khác&#39;](https://vnexpress.net/deschamps-thay-phap-nham-chan-thi-hay-xem-thu-khac-4767681.html) - 22:29 08/07/2024
-- 👍 [Mourinho: &#39;Bồ Đào Nha đáng ra phải tiến sâu hơn ở Euro 2024&#39;](https://vnexpress.net/mourinho-bo-dao-nha-dang-ra-phai-tien-sau-hon-o-euro-2024-4767678.html) - 22:11 08/07/2024
-- 🐵 [Odegaard: &#39;Arsenal sẽ được thưởng bằng những danh hiệu&#39;](https://vnexpress.net/odegaard-arsenal-se-duoc-thuong-bang-nhung-danh-hieu-4767680.html) - 22:07 08/07/2024
-- 💫 [Thủ quân Tây Ban Nha dọa bỏ đội tuyển](https://vnexpress.net/thu-quan-tay-ban-nha-doa-bo-doi-tuyen-4767639.html) - 13:09 08/07/2024
-- 🦆 [Nagelsmann: &#39;Tuyển Đức cần can đảm làm điều mới mẻ&#39;](https://vnexpress.net/nagelsmann-tuyen-duc-can-can-dam-lam-dieu-moi-me-4767630.html) - 12:01 08/07/2024
-- 🙉 [Khi Ronaldo biết chấp nhận sự thật](https://vnexpress.net/khi-ronaldo-biet-chap-nhan-su-that-4767536.html) - 10:16 08/07/2024
-- 📝 [Man Utd sắp mua được cặp đôi Hà Lan](https://vnexpress.net/man-utd-sap-mua-duoc-cap-doi-ha-lan-4767296.html) - 10:00 08/07/2024
-- 💯 [Mutu: &#39;Ronaldo muốn thi đấu cùng con trai trước khi giải nghệ&#39;](https://vnexpress.net/mutu-ronaldo-muon-thi-dau-cung-con-trai-truoc-khi-giai-nghe-4767514.html) - 09:41 08/07/2024
-- 🌈 [Bóng chuyền nữ Việt Nam giành vé dự giải U21 thế giới](https://vnexpress.net/bong-chuyen-nu-viet-nam-gianh-ve-du-giai-u21-the-gioi-4767565.html) - 09:16 08/07/2024
-- 🦩 [HLV Popov gia hạn hợp đồng với Thanh Hoá](https://vnexpress.net/hlv-popov-gia-han-hop-dong-voi-thanh-hoa-4767466.html) - 08:57 08/07/2024
-- 🐲 [Cựu cầu thủ Ngoại hạng Anh thành chuyên gia golf](https://vnexpress.net/cuu-cau-thu-ngoai-hang-anh-thanh-chuyen-gia-golf-4767527.html) - 08:30 08/07/2024
-- 🌁 [Bayern thắng Chelsea trong cuộc đua 77 triệu USD](https://vnexpress.net/bayern-thang-chelsea-trong-cuoc-dua-77-trieu-usd-4767379.html) - 08:16 08/07/2024
-- 💯 [Nỗi ám ảnh phạt đền của Văn Quyết](https://vnexpress.net/noi-am-anh-phat-den-cua-van-quyet-4767437.html) - 08:15 08/07/2024
-- 🌝 [Djokovic gặp bài kiểm tra khó đầu tiên ở Wimbledon](https://vnexpress.net/djokovic-gap-bai-kiem-tra-kho-dau-tien-o-wimbledon-4767443.html) - 08:13 08/07/2024
-- 🤖 [Euro 2024 dùng bóng mới từ vòng bán kết](https://vnexpress.net/euro-2024-dung-bong-moi-tu-vong-ban-ket-4767454.html) - 08:12 08/07/2024
-- 🕯 [Vì sao Euro 2024 được đánh giá cao hơn Copa America?](https://vnexpress.net/vi-sao-euro-2024-duoc-danh-gia-cao-hon-copa-america-4767361.html) - 06:56 08/07/2024
-- 🧰 [Alcaraz và Sinner vào tứ kết Wimbledon](https://vnexpress.net/alcaraz-va-sinner-vao-tu-ket-wimbledon-4767442.html) - 05:48 08/07/2024
-- 🥳 [Hà Nội FC chia tay HLV Daiki Iwamasa](https://vnexpress.net/ha-noi-fc-chia-tay-hlv-daiki-iwamasa-4767404.html) - 05:10 08/07/2024
-- 👍 [Euro ngày 8/7: Hai cầu thủ Đức cưới vợ sau khi bị loại khỏi Euro](https://vnexpress.net/cap-nhat-tin-tuc-euro-ngay-8-7-4767408.html) - 04:55 08/07/2024
-- 💪 [Pha phá băng gây tranh cãi ở giải marathon tại Hậu Giang](https://vnexpress.net/pha-pha-bang-gay-tranh-cai-o-giai-marathon-tai-hau-giang-4767395.html) - 04:22 08/07/2024
-- 👹 [Hamilton phá kỷ lục của Schumacher](https://vnexpress.net/hamilton-pha-ky-luc-cua-schumacher-4767282.html) - 04:17 08/07/2024
+- 🪜 [Haaland từ chối chụp ảnh cùng mỹ nhân Na Uy](https://vnexpress.net/haaland-tu-choi-chup-anh-cung-my-nhan-na-uy-4767825.html) - 03:48 09/07/2024
+- 🦩 [McLaren vuột chiến thắng thế nào ở Grand Prix Anh](https://vnexpress.net/mclaren-vuot-chien-thang-the-nao-o-grand-prix-anh-4767793.html) - 03:47 09/07/2024
+- 🧰 [Những CLB chạy lớn nhất Đà Nẵng](https://vnexpress.net/nhung-clb-chay-lon-nhat-da-nang-4766390.html) - 03:30 09/07/2024
+- 🤗 [Trọng tài từng nhận hối lộ sẽ bắt trận bán kết Euro 2024](https://vnexpress.net/trong-tai-tung-nhan-hoi-lo-se-bat-tran-ban-ket-euro-2024-4767724.html) - 03:18 09/07/2024
+- 🥳 [Cựu HLV Hà Nội: &#39;V-League không nên dựa dẫm vào ngoại binh nữa&#39;](https://vnexpress.net/cuu-hlv-ha-noi-v-league-khong-nen-dua-dam-vao-ngoai-binh-nua-4767674.html) - 02:58 09/07/2024
+- 🦣 [Bí quyết thành công của Rodri](https://vnexpress.net/bi-quyet-thanh-cong-cua-rodri-4767770.html) - 02:50 09/07/2024
+- 🌜 [Runner nhận quần finisher khi hoàn thành VM Hạ Long 2024](https://vnexpress.net/runner-nhan-quan-finisher-khi-hoan-thanh-vm-ha-long-2024-4767575.html) - 02:50 09/07/2024
+- 🫶 [William Saliba - thủ lĩnh đích thực của Pháp ở Euro 2024](https://vnexpress.net/william-saliba-thu-linh-dich-thuc-cua-phap-o-euro-2024-4767682.html) - 02:31 09/07/2024
+- 🌜 [Djokovic thắng dễ Rune, vào tứ kết Wimbledon](https://vnexpress.net/djokovic-thang-de-rune-vao-tu-ket-wimbledon-4767714.html) - 01:38 09/07/2024
+- 😺 [Những điểm nhấn tại tứ kết Euro 2024](https://vnexpress.net/nhung-diem-nhan-tai-tu-ket-euro-2024-4767694.html) - 00:51 09/07/2024
+- 👍 [Chủ tịch Barca muốn mua sao mới của Tây Ban Nha](https://vnexpress.net/chu-tich-barca-muon-mua-sao-moi-cua-tay-ban-nha-4767684.html) - 23:00 08/07/2024
+- 🐵 [HLV Tây Ban Nha: &#39;Mbappe vẫn giỏi nhất dù đá 50% khả năng&#39;](https://vnexpress.net/hlv-tay-ban-nha-mbappe-van-gioi-nhat-du-da-50-kha-nang-4767679.html) - 22:53 08/07/2024
+- 💫 [Deschamps: &#39;Thấy Pháp nhàm chán thì hãy xem thứ khác&#39;](https://vnexpress.net/deschamps-thay-phap-nham-chan-thi-hay-xem-thu-khac-4767681.html) - 22:29 08/07/2024
+- 🦆 [Mourinho: &#39;Bồ Đào Nha đáng ra phải tiến sâu hơn ở Euro 2024&#39;](https://vnexpress.net/mourinho-bo-dao-nha-dang-ra-phai-tien-sau-hon-o-euro-2024-4767678.html) - 22:11 08/07/2024
+- 🙉 [Odegaard: &#39;Arsenal sẽ được thưởng bằng những danh hiệu&#39;](https://vnexpress.net/odegaard-arsenal-se-duoc-thuong-bang-nhung-danh-hieu-4767680.html) - 22:07 08/07/2024
+- 📝 [Thủ quân Tây Ban Nha dọa bỏ đội tuyển](https://vnexpress.net/thu-quan-tay-ban-nha-doa-bo-doi-tuyen-4767639.html) - 13:09 08/07/2024
+- 💯 [Nagelsmann: &#39;Tuyển Đức cần can đảm làm điều mới mẻ&#39;](https://vnexpress.net/nagelsmann-tuyen-duc-can-can-dam-lam-dieu-moi-me-4767630.html) - 12:01 08/07/2024
+- 🌈 [Khi Ronaldo biết chấp nhận sự thật](https://vnexpress.net/khi-ronaldo-biet-chap-nhan-su-that-4767536.html) - 10:16 08/07/2024
+- 🦩 [Man Utd sắp mua được cặp đôi Hà Lan](https://vnexpress.net/man-utd-sap-mua-duoc-cap-doi-ha-lan-4767296.html) - 10:00 08/07/2024
+- 🐲 [Mutu: &#39;Ronaldo muốn thi đấu cùng con trai trước khi giải nghệ&#39;](https://vnexpress.net/mutu-ronaldo-muon-thi-dau-cung-con-trai-truoc-khi-giai-nghe-4767514.html) - 09:41 08/07/2024
+- 🌁 [Bóng chuyền nữ Việt Nam giành vé dự giải U21 thế giới](https://vnexpress.net/bong-chuyen-nu-viet-nam-gianh-ve-du-giai-u21-the-gioi-4767565.html) - 09:16 08/07/2024
+- 💯 [HLV Popov gia hạn hợp đồng với Thanh Hoá](https://vnexpress.net/hlv-popov-gia-han-hop-dong-voi-thanh-hoa-4767466.html) - 08:57 08/07/2024
+- 🌝 [Cựu cầu thủ Ngoại hạng Anh thành chuyên gia golf](https://vnexpress.net/cuu-cau-thu-ngoai-hang-anh-thanh-chuyen-gia-golf-4767527.html) - 08:30 08/07/2024
+- 🤖 [Bayern thắng Chelsea trong cuộc đua 77 triệu USD](https://vnexpress.net/bayern-thang-chelsea-trong-cuoc-dua-77-trieu-usd-4767379.html) - 08:16 08/07/2024
+- 🕯 [Nỗi ám ảnh phạt đền của Văn Quyết](https://vnexpress.net/noi-am-anh-phat-den-cua-van-quyet-4767437.html) - 08:15 08/07/2024
+- 🧰 [Djokovic gặp bài kiểm tra khó đầu tiên ở Wimbledon](https://vnexpress.net/djokovic-gap-bai-kiem-tra-kho-dau-tien-o-wimbledon-4767443.html) - 08:13 08/07/2024
+- 🥳 [Euro 2024 dùng bóng mới từ vòng bán kết](https://vnexpress.net/euro-2024-dung-bong-moi-tu-vong-ban-ket-4767454.html) - 08:12 08/07/2024
+- 👍 [Vì sao Euro 2024 được đánh giá cao hơn Copa America?](https://vnexpress.net/vi-sao-euro-2024-duoc-danh-gia-cao-hon-copa-america-4767361.html) - 06:56 08/07/2024
+- 💪 [Alcaraz và Sinner vào tứ kết Wimbledon](https://vnexpress.net/alcaraz-va-sinner-vao-tu-ket-wimbledon-4767442.html) - 05:48 08/07/2024
+- 👹 [Hà Nội FC chia tay HLV Daiki Iwamasa](https://vnexpress.net/ha-noi-fc-chia-tay-hlv-daiki-iwamasa-4767404.html) - 05:10 08/07/2024
+- 🧰 [Euro ngày 8/7: Hai cầu thủ Đức cưới vợ sau khi bị loại khỏi Euro](https://vnexpress.net/cap-nhat-tin-tuc-euro-ngay-8-7-4767408.html) - 04:55 08/07/2024
+- 🚀 [Pha phá băng gây tranh cãi ở giải marathon tại Hậu Giang](https://vnexpress.net/pha-pha-bang-gay-tranh-cai-o-giai-marathon-tai-hau-giang-4767395.html) - 04:22 08/07/2024
+- 🎃 [Hamilton phá kỷ lục của Schumacher](https://vnexpress.net/hamilton-pha-ky-luc-cua-schumacher-4767282.html) - 04:17 08/07/2024
 - 🧰 [Neville: &#39;Anh đã biết cách vượt ngưỡng ở những giải lớn&#39;](https://vnexpress.net/neville-anh-da-biet-cach-vuot-nguong-o-nhung-giai-lon-4767270.html) - 04:15 08/07/2024
-- 🚀 [Bản tin Euro: Bí quyết giúp Anh thắng luân lưu Thụy Sĩ](https://vnexpress.net/ban-tin-euro-bi-quyet-giup-anh-thang-luan-luu-thuy-si-4767297.html) - 03:37 08/07/2024
-- 🎃 [Hậu vệ Tây Ban Nha: &#39;Vẫn còn những nghi ngờ về pha bóng chạm tay của tôi&#39;](https://vnexpress.net/hau-ve-tay-ban-nha-van-con-nhung-nghi-ngo-ve-pha-bong-cham-tay-cua-toi-4767267.html) - 02:14 08/07/2024
-- 🧰 [Bích Tuyền vào top 5 cú đập nhanh bóng chuyền nữ thế giới](https://vnexpress.net/bich-tuyen-vao-top-5-cu-dap-nhanh-bong-chuyen-nu-the-gioi-4767274.html) - 01:50 08/07/2024
-- 👀 [Đội hình hay nhất tứ kết Euro 2024](https://vnexpress.net/doi-hinh-hay-nhat-tu-ket-euro-2024-4767232.html) - 23:54 07/07/2024
-- 🌜 [VĐV Ukraine phá kỷ lục nhảy cao nữ tồn tại 37 năm](https://vnexpress.net/vdv-ukraine-pha-ky-luc-nhay-cao-nu-ton-tai-37-nam-4767230.html) - 23:15 07/07/2024
-- 🫶 [Sự thật đằng sau bức ảnh Messi tắm cho Yamal](https://vnexpress.net/su-that-dang-sau-buc-anh-messi-tam-cho-yamal-4767147.html) - 23:04 07/07/2024
-- 🦄 [Deschamps: &#39;Đối thủ phải thích nghi theo Mbappe&#39;](https://vnexpress.net/deschamps-doi-thu-phai-thich-nghi-theo-mbappe-4767225.html) - 22:55 07/07/2024
-- 🥳 [Bellingham: &#39;Thắng Thụy Sĩ chỉ đặc biệt nếu Anh vô địch Euro&#39;](https://vnexpress.net/bellingham-thang-thuy-si-chi-dac-biet-neu-anh-vo-dich-euro-4767213.html) - 17:00 07/07/2024
-- 🐲 [HLV Brazil bị cầu thủ cho ra rìa trước luân lưu](https://vnexpress.net/hlv-brazil-bi-cau-thu-cho-ra-ria-truoc-luan-luu-4767188.html) - 14:30 07/07/2024
-- 🧑‍🏫 [Pháp cho cầu thủ dự bị tập đá 11m](https://vnexpress.net/phap-cho-cau-thu-du-bi-tap-da-11m-4767093.html) - 11:49 07/07/2024
-- 🤔 [Thủ môn Đặng Văn Lâm cưới vợ](https://vnexpress.net/thu-mon-dang-van-lam-cuoi-vo-4767175.html) - 11:42 07/07/2024
-- 😺 [Thắng Bỉ, bóng chuyền nữ Việt Nam đoạt HC đồng thế giới](https://vnexpress.net/thang-bi-bong-chuyen-nu-viet-nam-doat-hc-dong-the-gioi-4767173.html) - 11:15 07/07/2024
-- 💪 [HLV Troussier ứng tuyển dẫn dắt Ấn Độ sau Park Hang-seo](https://vnexpress.net/hlv-troussier-ung-tuyen-dan-dat-an-do-sau-park-hang-seo-4767162.html) - 10:32 07/07/2024
-- 💼 [Thắng luân lưu Hà Nội FC, Thanh Hóa đoạt Cup Quốc gia 2023-2024](https://vnexpress.net/thang-luan-luu-ha-noi-fc-thanh-hoa-doat-cup-quoc-gia-2023-2024-4767141-tong-thuat.html) - 10:15 07/07/2024
-- 🕴 [4 bàn đẹp nhất vòng tứ kết Euro 2024](https://vnexpress.net/4-ban-dep-nhat-vong-tu-ket-euro-2024-4767116.html) - 10:00 07/07/2024
-- 🕯 [Morata được xóa thẻ phạt trước Đức](https://vnexpress.net/morata-duoc-xoa-the-phat-truoc-duc-4767101.html) - 07:20 07/07/2024
-- 📝 [CĐV Đức kiến nghị đá lại trận tứ kết với Tây Ban Nha](https://vnexpress.net/cdv-duc-kien-nghi-da-lai-tran-tu-ket-voi-tay-ban-nha-4767068.html) - 07:12 07/07/2024
-- 🧐 [Djokovic đấu Rune ở vòng bốn Wimbledon](https://vnexpress.net/djokovic-dau-rune-o-vong-bon-wimbledon-4767102.html) - 05:27 07/07/2024
-- 🙉 [Euro ngày 7/7: Harry Kane được HLV cứu khỏi tai nạn](https://vnexpress.net/euro-ngay-7-7-harry-kane-duoc-hlv-cuu-khoi-tai-nan-4767075.html) - 04:32 07/07/2024
-- 🏊 [Bản tin Euro: Trận đấu của Djokovic tạm dừng vì chiến thắng của tuyển Anh](https://vnexpress.net/ban-tin-euro-tran-dau-cua-djokovic-tam-dung-vi-chien-thang-cua-tuyen-anh-4767051.html) - 03:25 07/07/2024
-- 🌊 [Tổng thống Erdogan: &#39;Thổ Nhĩ Kỳ vẫn là những nhà vô địch&#39;](https://vnexpress.net/tong-thong-erdogan-tho-nhi-ky-van-la-nhung-nha-vo-dich-4767064.html) - 03:05 07/07/2024
-- 👨‍🏫 [Ronaldo lần đầu lên tiếng sau trận thua Pháp](https://vnexpress.net/ronaldo-lan-dau-len-tieng-sau-tran-thua-phap-4767045.html) - 02:41 07/07/2024
-- 🥷 [HLV Southgate: &#39;Thắng Thụy Sĩ là trận hay nhất của Anh&#39;](https://vnexpress.net/hlv-southgate-thang-thuy-si-la-tran-hay-nhat-cua-anh-4767015.html) - 01:49 07/07/2024
-- ⚗️ [HLV Hà Lan hẹn gặp Tây Ban Nha ở chung kết Euro](https://vnexpress.net/hlv-ha-lan-hen-gap-tay-ban-nha-o-chung-ket-euro-4767046.html) - 01:48 07/07/2024
-- 🌮 [Cầu thủ Anh sút luân lưu &#39;lạnh lùng nhất hành tinh&#39;](https://vnexpress.net/cau-thu-anh-sut-luan-luu-lanh-lung-nhat-hanh-tinh-4767025.html) - 01:31 07/07/2024
-- 🤩 [Xhaka: &#39;Tuyển Anh xứng đáng được tôn trọng hơn&#39;](https://vnexpress.net/xhaka-tuyen-anh-xung-dang-duoc-ton-trong-hon-4767033.html) - 01:14 07/07/2024
-- 🏊 [Brazil thua luân lưu Uruguay ở tứ kết Copa America](https://vnexpress.net/truc-tiep-tran-brazil-vs-uruguay-tu-ket-copa-america-4767027-tong-thuat.html) - 00:47 07/07/2024
-- 🐎 [Cựu cầu thủ Anh ví Kane như &#39;Ronaldo của Anh&#39;](https://vnexpress.net/cuu-cau-thu-anh-vi-kane-nhu-ronaldo-cua-anh-4764585.html) - 00:42 07/07/2024
-- 💫 [Tranh cãi về một cầu thủ Anh không dám sút luân lưu](https://vnexpress.net/tranh-cai-ve-mot-cau-thu-anh-khong-dam-sut-luan-luu-4767020.html) - 00:27 07/07/2024<!-- vnexpress-the-thao:END -->
+- 👀 [Bản tin Euro: Bí quyết giúp Anh thắng luân lưu Thụy Sĩ](https://vnexpress.net/ban-tin-euro-bi-quyet-giup-anh-thang-luan-luu-thuy-si-4767297.html) - 03:37 08/07/2024
+- 🌜 [Hậu vệ Tây Ban Nha: &#39;Vẫn còn những nghi ngờ về pha bóng chạm tay của tôi&#39;](https://vnexpress.net/hau-ve-tay-ban-nha-van-con-nhung-nghi-ngo-ve-pha-bong-cham-tay-cua-toi-4767267.html) - 02:14 08/07/2024
+- 🫶 [Bích Tuyền vào top 5 cú đập nhanh bóng chuyền nữ thế giới](https://vnexpress.net/bich-tuyen-vao-top-5-cu-dap-nhanh-bong-chuyen-nu-the-gioi-4767274.html) - 01:50 08/07/2024
+- 🦄 [Đội hình hay nhất tứ kết Euro 2024](https://vnexpress.net/doi-hinh-hay-nhat-tu-ket-euro-2024-4767232.html) - 23:54 07/07/2024
+- 🥳 [VĐV Ukraine phá kỷ lục nhảy cao nữ tồn tại 37 năm](https://vnexpress.net/vdv-ukraine-pha-ky-luc-nhay-cao-nu-ton-tai-37-nam-4767230.html) - 23:15 07/07/2024
+- 🐲 [Sự thật đằng sau bức ảnh Messi tắm cho Yamal](https://vnexpress.net/su-that-dang-sau-buc-anh-messi-tam-cho-yamal-4767147.html) - 23:04 07/07/2024
+- 🧑‍🏫 [Deschamps: &#39;Đối thủ phải thích nghi theo Mbappe&#39;](https://vnexpress.net/deschamps-doi-thu-phai-thich-nghi-theo-mbappe-4767225.html) - 22:55 07/07/2024
+- 🤔 [Bellingham: &#39;Thắng Thụy Sĩ chỉ đặc biệt nếu Anh vô địch Euro&#39;](https://vnexpress.net/bellingham-thang-thuy-si-chi-dac-biet-neu-anh-vo-dich-euro-4767213.html) - 17:00 07/07/2024
+- 😺 [HLV Brazil bị cầu thủ cho ra rìa trước luân lưu](https://vnexpress.net/hlv-brazil-bi-cau-thu-cho-ra-ria-truoc-luan-luu-4767188.html) - 14:30 07/07/2024
+- 💪 [Pháp cho cầu thủ dự bị tập đá 11m](https://vnexpress.net/phap-cho-cau-thu-du-bi-tap-da-11m-4767093.html) - 11:49 07/07/2024
+- 💼 [Thủ môn Đặng Văn Lâm cưới vợ](https://vnexpress.net/thu-mon-dang-van-lam-cuoi-vo-4767175.html) - 11:42 07/07/2024
+- 🕴 [Thắng Bỉ, bóng chuyền nữ Việt Nam đoạt HC đồng thế giới](https://vnexpress.net/thang-bi-bong-chuyen-nu-viet-nam-doat-hc-dong-the-gioi-4767173.html) - 11:15 07/07/2024
+- 🕯 [HLV Troussier ứng tuyển dẫn dắt Ấn Độ sau Park Hang-seo](https://vnexpress.net/hlv-troussier-ung-tuyen-dan-dat-an-do-sau-park-hang-seo-4767162.html) - 10:32 07/07/2024
+- 📝 [Thắng luân lưu Hà Nội FC, Thanh Hóa đoạt Cup Quốc gia 2023-2024](https://vnexpress.net/thang-luan-luu-ha-noi-fc-thanh-hoa-doat-cup-quoc-gia-2023-2024-4767141-tong-thuat.html) - 10:15 07/07/2024
+- 🧐 [4 bàn đẹp nhất vòng tứ kết Euro 2024](https://vnexpress.net/4-ban-dep-nhat-vong-tu-ket-euro-2024-4767116.html) - 10:00 07/07/2024
+- 🙉 [Morata được xóa thẻ phạt trước Đức](https://vnexpress.net/morata-duoc-xoa-the-phat-truoc-duc-4767101.html) - 07:20 07/07/2024
+- 🏊 [CĐV Đức kiến nghị đá lại trận tứ kết với Tây Ban Nha](https://vnexpress.net/cdv-duc-kien-nghi-da-lai-tran-tu-ket-voi-tay-ban-nha-4767068.html) - 07:12 07/07/2024
+- 🌊 [Djokovic đấu Rune ở vòng bốn Wimbledon](https://vnexpress.net/djokovic-dau-rune-o-vong-bon-wimbledon-4767102.html) - 05:27 07/07/2024
+- 👨‍🏫 [Euro ngày 7/7: Harry Kane được HLV cứu khỏi tai nạn](https://vnexpress.net/euro-ngay-7-7-harry-kane-duoc-hlv-cuu-khoi-tai-nan-4767075.html) - 04:32 07/07/2024
+- 🥷 [Bản tin Euro: Trận đấu của Djokovic tạm dừng vì chiến thắng của tuyển Anh](https://vnexpress.net/ban-tin-euro-tran-dau-cua-djokovic-tam-dung-vi-chien-thang-cua-tuyen-anh-4767051.html) - 03:25 07/07/2024
+- ⚗️ [Tổng thống Erdogan: &#39;Thổ Nhĩ Kỳ vẫn là những nhà vô địch&#39;](https://vnexpress.net/tong-thong-erdogan-tho-nhi-ky-van-la-nhung-nha-vo-dich-4767064.html) - 03:05 07/07/2024
+- 🌮 [Ronaldo lần đầu lên tiếng sau trận thua Pháp](https://vnexpress.net/ronaldo-lan-dau-len-tieng-sau-tran-thua-phap-4767045.html) - 02:41 07/07/2024
+- 🤩 [HLV Southgate: &#39;Thắng Thụy Sĩ là trận hay nhất của Anh&#39;](https://vnexpress.net/hlv-southgate-thang-thuy-si-la-tran-hay-nhat-cua-anh-4767015.html) - 01:49 07/07/2024
+- 🏊 [HLV Hà Lan hẹn gặp Tây Ban Nha ở chung kết Euro](https://vnexpress.net/hlv-ha-lan-hen-gap-tay-ban-nha-o-chung-ket-euro-4767046.html) - 01:48 07/07/2024
+- 🐎 [Cầu thủ Anh sút luân lưu &#39;lạnh lùng nhất hành tinh&#39;](https://vnexpress.net/cau-thu-anh-sut-luan-luu-lanh-lung-nhat-hanh-tinh-4767025.html) - 01:31 07/07/2024
+- 💫 [Xhaka: &#39;Tuyển Anh xứng đáng được tôn trọng hơn&#39;](https://vnexpress.net/xhaka-tuyen-anh-xung-dang-duoc-ton-trong-hon-4767033.html) - 01:14 07/07/2024<!-- vnexpress-the-thao:END -->
