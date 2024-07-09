@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Tây Ban Nha - Pháp: Tấm vé đầu tiên vào chung kết Euro 2024](https://vnexpress.net/tay-ban-nha-phap-tam-ve-dau-tien-vao-chung-ket-euro-2024-4768083.html) - 16:00 09/07/2024
+- 🎬 [Tây Ban Nha - Pháp: Tấm vé đầu tiên vào chung kết Euro 2024](https://vnexpress.net/truc-tiep-ban-ket-euro-2024-tay-ban-nha-phap-4768083.html) - 16:00 09/07/2024
 - 🐎 [Cô gái bệnh bạch hầu chuyển viện về Bắc Giang cách ly theo dõi](https://vnexpress.net/co-gai-benh-bach-hau-chuyen-vien-ve-bac-giang-cach-ly-theo-doi-4768006.html) - 15:12 09/07/2024
 - 🦍 [Xem xét gỡ vướng cho 154 dự án điện mặt trời từng bị thanh tra](https://vnexpress.net/xem-xet-go-vuong-cho-154-du-an-dien-mat-troi-tung-bi-thanh-tra-4768078.html) - 15:12 09/07/2024
 - 🏊 [Hiệp hội Bảo hiểm: Hàng trăm nghìn tư vấn viên sẽ được &#39;thanh lọc&#39;](https://vnexpress.net/tong-giam-doc-manulife-viet-nam-chung-toi-co-rat-nhieu-bai-hoc-thoi-gian-qua-4768049.html) - 14:37 09/07/2024
