@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Fan sốt ruột vì &#39;Conan 30 năm học lớp một&#39;](https://vnexpress.net/fan-sot-ruot-vi-conan-30-nam-hoc-lop-mot-4766358.html) - 22:43 08/07/2024
+- 🌏 [Fan sốt ruột vì &#39;Conan 30 năm vẫn học lớp một&#39;](https://vnexpress.net/fan-sot-ruot-vi-conan-30-nam-van-hoc-lop-mot-4766358.html) - 22:43 08/07/2024
 - 💫 [Tuấn Ngọc - người mẫu đa tài ở Mr World Vietnam](https://vnexpress.net/tuan-ngoc-nguoi-mau-da-tai-o-mr-world-vietnam-4767491.html) - 17:00 08/07/2024
 - 🌮 [Hậu trường anh hùng cứu mỹ nhân ở phim cổ trang](https://vnexpress.net/hau-truong-anh-hung-cuu-my-nhan-o-phim-co-trang-4767283.html) - 13:30 08/07/2024
 - 🧠 [Giới trẻ theo mốt sơn móng tay &#39;chữa lành&#39;](https://vnexpress.net/gioi-tre-theo-mot-son-mong-tay-chua-lanh-4767396.html) - 12:04 08/07/2024
