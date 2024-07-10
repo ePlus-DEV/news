@@ -12,7 +12,7 @@ sidebar_position: 5
 - 🦣 [Alcaraz biết trước sẽ thắng ngược Paul](https://vnexpress.net/alcaraz-biet-truoc-se-thang-nguoc-paul-4768337.html) - 06:57 10/07/2024
 - 🌜 [CĐV Paris ủ rũ khi Pháp bị loại ở Euro 2024](https://vnexpress.net/cdv-paris-u-ru-khi-phap-bi-loai-o-euro-2024-4768336.html) - 06:44 10/07/2024
 - 🫶 [HLV Deschamps thừa nhận Pháp bị Tây Ban Nha áp chế](https://vnexpress.net/hlv-deschamps-thua-nhan-phap-bi-tay-ban-nha-ap-che-4768334.html) - 06:42 10/07/2024
-- 🌜 [Euro ngày 10/7: Tây Ban Nha thâu tóm giải cầu thủ hay nhất trận](https://vnexpress.net/euro-ngay-10-7-tay-ban-nha-thau-tom-giai-cau-thu-hay-nhat-tran-4768291.html) - 06:01 10/07/2024
+- 🌜 [Euro ngày 10/7: Mbappe, Pedri ngỡ ngàng trước siêu phẩm của Yamal](https://vnexpress.net/euro-ngay-10-7-mbappe-pedri-ngo-ngang-truoc-sieu-pham-cua-yamal-4768291.html) - 06:01 10/07/2024
 - 😺 [Yamal trở thành &#39;Quý Ông&#39; trong mắt cha](https://vnexpress.net/yamal-tro-thanh-quy-ong-trong-mat-cha-4768134.html) - 05:48 10/07/2024
 - 👍 [Mỹ có đội trưởng trẻ nhất trong 61 năm ở Ryder Cup](https://vnexpress.net/my-co-doi-truong-tre-nhat-trong-61-nam-o-ryder-cup-4768298.html) - 05:20 10/07/2024
 - 🐵 [Yamal: &#39;Nói nữa đi, nói nữa đi&#39;](https://vnexpress.net/yamal-noi-nua-di-noi-nua-di-4768240.html) - 03:44 10/07/2024
