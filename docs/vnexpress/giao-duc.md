@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Điểm chuẩn lớp 6 trường Trần Đại Nghĩa là 67,5/100](https://vnexpress.net/tra-cuu-diem-thi-lop-6-truong-tran-dai-nghia-2024-4768084.html) - 01:12 10/07/2024
-- 🦆 [Giảng viên người Việt được phong hàm giáo sư ở Pháp](https://vnexpress.net/giang-vien-nguoi-viet-duoc-phong-ham-giao-su-o-phap-4767660.html) - 00:20 10/07/2024
+- 🦆 [Giảng viên người Việt được phong giáo sư ở Pháp](https://vnexpress.net/giang-vien-nguoi-viet-duoc-phong-giao-su-o-phap-4767660.html) - 00:20 10/07/2024
 - 🦩 [Thử tài hiểu biết trong 7 giây](https://vnexpress.net/thu-tai-hieu-biet-trong-7-giay-4768056.html) - 14:26 09/07/2024
 - 🌮 [Điểm chuẩn học bạ ĐH Công nghiệp TP HCM tăng 1-1,5](https://vnexpress.net/diem-chuan-hoc-ba-va-danh-gia-nang-luc-dai-hoc-cong-nghiep-tp-hcm-nam-2024-4768011.html) - 13:31 09/07/2024
 - 🔭 [Cô gái trúng học bổng ba đại học top 20 thế giới](https://vnexpress.net/co-gai-trung-hoc-bong-ba-dai-hoc-top-20-the-gioi-4767961.html) - 12:47 09/07/2024
