@@ -4,8 +4,8 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Việt Nam có số triệu phú tăng nhanh nhất thế giới](https://vnexpress.net/viet-nam-co-so-trieu-phu-tang-nhanh-nhat-the-gioi-4768073.html) - 17:00 09/07/2024
-- 🐲 [Xem xét gỡ vướng cho 154 dự án điện mặt trời từng bị thanh tra](https://vnexpress.net/xem-xet-go-vuong-cho-154-du-an-dien-mat-troi-tung-bi-thanh-tra-4768078.html) - 15:12 09/07/2024
+- ⛽️ [Xem xét gỡ vướng cho 154 dự án điện mặt trời từng bị thanh tra](https://vnexpress.net/xem-xet-go-vuong-cho-154-du-an-dien-mat-troi-tung-bi-thanh-tra-4768078.html) - 17:00 09/07/2024
+- 🐲 [Việt Nam có số triệu phú tăng nhanh nhất thế giới](https://vnexpress.net/viet-nam-co-so-trieu-phu-tang-nhanh-nhat-the-gioi-4768073.html) - 17:00 09/07/2024
 - 🔥 [Hiệp hội Bảo hiểm: Hàng trăm nghìn tư vấn viên sẽ được &#39;thanh lọc&#39;](https://vnexpress.net/tong-giam-doc-manulife-viet-nam-chung-toi-co-rat-nhieu-bai-hoc-thoi-gian-qua-4768049.html) - 14:37 09/07/2024
 - 🐵 [Gần 43.000 người bán hàng online bị kiểm tra khai, nộp thuế](https://vnexpress.net/gan-43-000-nguoi-ban-hang-online-bi-kiem-tra-khai-nop-thue-4767886.html) - 09:23 09/07/2024
 - 🦅 [VN-Index lên sát 1.300 điểm](https://vnexpress.net/vn-index-len-sat-1-300-diem-4767980.html) - 08:56 09/07/2024
