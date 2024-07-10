@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Hà Lan 1-1 Anh &lpar;H2&rpar;: &#39;Hai đội bắt đầu đánh cờ&#39;](https://vnexpress.net/truc-tiep-tran-ha-lan-anh-o-ban-ket-euro-2024-4768536.html) - 16:04 10/07/2024
+- 🪜 [Thắng Hà Lan ở phút bù, Anh vào chung kết Euro 2024](https://vnexpress.net/truc-tiep-tran-ha-lan-anh-o-ban-ket-euro-2024-4768536-tong-thuat.html) - 16:04 10/07/2024
 - 🦩 [Có gì hấp dẫn trên đường đua OMO Chiến binh nhí?](https://vnexpress.net/co-gi-hap-dan-tren-duong-dua-omo-chien-binh-nhi-4766018.html) - 14:00 10/07/2024
 - 🧰 [Thanh Vỹ - dân boxing thành &#39;đầu tàu&#39; của chạy bộ Đà Nẵng](https://vnexpress.net/thanh-vy-dan-boxing-thanh-dau-tau-cua-chay-bo-da-nang-4767785.html) - 13:00 10/07/2024
 - 🤗 [Đối thủ của Djokovic bỏ cuộc ngay trước tứ kết Wimbledon](https://vnexpress.net/doi-thu-cua-djokovic-bo-cuoc-ngay-truoc-tu-ket-wimbledon-4768502.html) - 11:52 10/07/2024
