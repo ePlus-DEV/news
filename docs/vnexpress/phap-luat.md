@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Giám đốc Ban Quản lý rừng bị bắt với cáo buộc lừa đảo](https://vnexpress.net/giam-doc-ban-quan-ly-rung-bi-bat-voi-cao-buoc-lua-dao-4768483.html) - 11:34 10/07/2024
 - 🥰 [Ông Lê Thanh Vân bị bắt](https://vnexpress.net/dai-bieu-quoc-hoi-le-thanh-van-bi-bat-4768439.html) - 10:30 10/07/2024
-- 🎓 [Cựu giám đốc Trung tâm Công nghệ sinh học TP HCM: &#39;Tiền nhận hối lộ cho con du học&#39;](https://vnexpress.net/cuu-giam-doc-trung-tam-cong-nghe-sinh-hoc-tp-hcm-tien-nhan-hoi-lo-cho-con-du-hoc-4768416.html) - 09:59 10/07/2024
+- 🎓 [Cựu giám đốc Trung tâm Công nghệ sinh học TP HCM: &#39;Tiền nhận hối lộ cho con đi học&#39;](https://vnexpress.net/cuu-giam-doc-trung-tam-cong-nghe-sinh-hoc-tp-hcm-tien-nhan-hoi-lo-cho-con-di-hoc-4768416.html) - 09:59 10/07/2024
 - 🤓 [5 người bị bắt với cáo buộc giúp tội phạm rửa 350 tỷ đồng](https://vnexpress.net/5-nguoi-bi-bat-voi-cao-buoc-giup-toi-pham-rua-350-ty-dong-4768302.html) - 06:08 10/07/2024
 - 🎊 [Phù phép mỹ phẩm ngoại hết hạn thành hàng mới](https://video.vnexpress.net/phu-phep-my-pham-ngoai-het-han-thanh-hang-moi-4768096.html) - 04:21 10/07/2024
 - 🙉 [Nhiều người sập bẫy xuất khẩu lao động lương cao](https://vnexpress.net/nhieu-nguoi-sap-bay-xuat-khau-lao-dong-luong-cao-4768151.html) - 03:37 10/07/2024
