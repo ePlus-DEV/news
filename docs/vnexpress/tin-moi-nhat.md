@@ -26,7 +26,7 @@ sidebar_position: 9
 - 🎓 [7 tour tàu hỏa cho kỳ nghỉ hè](https://vnexpress.net/7-tour-tau-hoa-cho-ky-nghi-he-4767989.html) - 17:00 10/07/2024
 - 🫣 [Dàn sao &#39;Forrest Gump&#39; sau 30 năm](https://vnexpress.net/dan-sao-forrest-gump-sau-30-nam-4766464.html) - 17:00 10/07/2024
 - 🧑‍💻 [Cháy nhà ở TP HCM, một người tử vong](https://vnexpress.net/chay-nha-o-tp-hcm-mot-nguoi-tu-vong-4768538.html) - 16:11 10/07/2024
-- 🐲 [Hà Lan 1-1 Anh &lpar;H2&rpar;: Stones mắng Weghorst](https://vnexpress.net/truc-tiep-tran-ha-lan-anh-o-ban-ket-euro-2024-4768536.html) - 16:04 10/07/2024
+- 🐲 [Hà Lan 1-1 Anh &lpar;H1&rpar;: Foden sút xa dội cột](https://vnexpress.net/truc-tiep-tran-ha-lan-anh-o-ban-ket-euro-2024-4768536.html) - 16:04 10/07/2024
 - 🌝 [Thủ tướng đề nghị chuyển đổi số với tinh thần &#39;không ai bị bỏ lại phía sau&#39;](https://vnexpress.net/thu-tuong-de-nghi-chuyen-doi-so-voi-tinh-than-khong-ai-bi-bo-lai-phia-sau-4768513.html) - 16:00 10/07/2024
 - 😺 [&#39;Gladiator 2&#39; tung trailer](https://vnexpress.net/gladiator-2-tung-trailer-4768215.html) - 15:25 10/07/2024
 - 🐎 [Đường dây cá độ bóng đá 500 tỷ đồng tại Hà Nội](https://vnexpress.net/duong-day-ca-do-bong-da-500-ty-dong-tai-ha-noi-4768525.html) - 14:54 10/07/2024
