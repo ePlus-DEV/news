@@ -211,7 +211,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp bóng đá Hà Lan 1-1 Anh: Kane ghi bàn từ chấm 11m](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-ha-lan-1-1-anh-kane-ghi-ban-tu-cham-11m-1364480.ldo) - 17:45 10/07/2024
+- 🗽 [Trực tiếp bóng đá Hà Lan 1-1 Anh: Hết hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-ha-lan-1-1-anh-het-hiep-1-1364480.ldo) - 17:45 10/07/2024
 - 📝 [Bắt giữ hơn 3,1 tấn nầm lợn nhồi trong 70 bao tải tại biên giới Móng Cái](https://laodong.vn/phap-luat/bat-giu-hon-31-tan-nam-lon-nhoi-trong-70-bao-tai-tai-bien-gioi-mong-cai-1364500.ldo) - 15:21 10/07/2024
 - 🦏 [Dự báo thời tiết 10 ngày tới từ 10.7 đến 20.7 ở cả ba miền](https://laodong.vn/moi-truong/du-bao-thoi-tiet-10-ngay-toi-tu-107-den-207-o-ca-ba-mien-1364415.ldo) - 15:05 10/07/2024
 - 🦩 [Cố tình đi ngược chiều, tài xế container gây tai nạn thương tâm](https://laodong.vn/ban-tin/co-tinh-di-nguoc-chieu-tai-xe-container-gay-tai-nan-thuong-tam-1364490.ldo) - 14:45 10/07/2024
