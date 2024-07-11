@@ -39,8 +39,8 @@ sidebar_position: 9
 - 🌋 [Danh ca mù Andrea Bocelli làm concert kỷ niệm 30 năm ca hát](https://vnexpress.net/danh-ca-mu-andrea-bocelli-lam-concert-ky-niem-30-nam-ca-hat-4768804.html) - 11:30 11/07/2024
 - 🤖 [8.000 runner sẽ quy tụ về giải chạy đêm Đà Nẵng 2024](https://vnexpress.net/8-000-runner-se-quy-tu-ve-giai-chay-dem-da-nang-2024-4768957.html) - 11:15 11/07/2024
 - 🦏 [Học sinh Việt lần đầu thi Olympic Trí tuệ nhân tạo quốc tế](https://vnexpress.net/hoc-sinh-viet-lan-dau-thi-olympic-tri-tue-nhan-tao-quoc-te-4768285.html) - 11:06 11/07/2024
-- 🦩 [Vợ chồng nhạc sĩ Lê Quang kỷ niệm 30 năm ngày cưới](https://vnexpress.net/vo-chong-nhac-si-le-quang-ky-niem-30-nam-ngay-cuoi-4768868.html) - 11:00 11/07/2024
-- 👺 [HLV Fuente: &#39;Tây Ban Nha phải đá tốt hơn nữa để thắng Anh&#39;](https://vnexpress.net/hlv-fuente-tay-ban-nha-phai-da-tot-hon-nua-de-thang-anh-4768918.html) - 11:00 11/07/2024
+- 🦩 [HLV Fuente: &#39;Tây Ban Nha phải đá tốt hơn nữa để thắng Anh&#39;](https://vnexpress.net/hlv-fuente-tay-ban-nha-phai-da-tot-hon-nua-de-thang-anh-4768918.html) - 11:00 11/07/2024
+- 👺 [Vợ chồng nhạc sĩ Lê Quang kỷ niệm 30 năm ngày cưới](https://vnexpress.net/vo-chong-nhac-si-le-quang-ky-niem-30-nam-ngay-cuoi-4768868.html) - 11:00 11/07/2024
 - 🧑‍🏫 [Libera Nha Trang giới thiệu tháp đôi tầm nhìn vịnh biển](https://vnexpress.net/libera-nha-trang-gioi-thieu-thap-doi-tam-nhin-vinh-bien-4767059.html) - 11:00 11/07/2024
 - 😎 [Apple bán MacBook giảm giá, tặng AirPods cho sinh viên Việt](https://vnexpress.net/apple-ban-macbook-giam-gia-tang-airpods-cho-sinh-vien-viet-4768876.html) - 10:59 11/07/2024
 - 🪄 [Sai lầm khiến trứng luộc khó bóc vỏ](https://vnexpress.net/sai-lam-khien-trung-luoc-kho-boc-vo-4768704.html) - 10:56 11/07/2024
