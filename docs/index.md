@@ -75,8 +75,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎓 [Anh thành đạt, ổn định, không vướng tứ đổ tường](https://vnexpress.net/anh-thanh-dat-on-dinh-khong-vuong-tu-do-tuong-4768905.html) - 10:00 11/07/2024
 - 💫 [KFC Việt Nam bán hàng trên livestream](https://vnexpress.net/kfc-viet-nam-ban-hang-tren-livestream-4768833.html) - 10:00 11/07/2024
 - 🤩 [Sản lượng điện tăng 12,4% trong 6 tháng](https://vnexpress.net/san-luong-dien-tang-12-4-trong-6-thang-4768733.html) - 10:00 11/07/2024
-- 🏊 [Con gì xuất hiện trong siêu thị?](https://vnexpress.net/con-gi-xuat-hien-trong-sieu-thi-4767392.html) - 09:57 11/07/2024
-- 💂 [Cảnh sát giải cứu 2 thiếu niên bị lừa bán sang Campuchia](https://vnexpress.net/canh-sat-giai-cuu-2-thieu-nien-bi-lua-ban-sang-campuchia-4768921.html) - 09:55 11/07/2024<!-- vnexpress:END -->
+- 🏊 [Con gì xuất hiện trong siêu thị?](https://vnexpress.net/con-gi-xuat-hien-trong-sieu-thi-4767392.html) - 09:57 11/07/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
