@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [Zidane vẫn chưa có cơ hội dẫn dắt Pháp](https://vnexpress.net/zidane-van-chua-co-co-hoi-dan-dat-phap-4768686.html) - 06:46 11/07/2024
 - 🧰 [HLV Deschamps: &#39;Lamine Yamal gặp may&#39;](https://vnexpress.net/hlv-deschamps-lamine-yamal-gap-may-4768765.html) - 06:24 11/07/2024
 - 🤗 [Chuyên gia: &#39;Southgate đã làm điều Martinez không dám với Ronaldo&#39;](https://vnexpress.net/chuyen-gia-southgate-da-lam-dieu-martinez-khong-dam-voi-ronaldo-4768747.html) - 06:09 11/07/2024
-- 🥳 [Euro ngày 11/7: Bellingham mệt vì chơi trận thứ 53 từ đầu mùa](https://vnexpress.net/euro-ngay-11-7-bellingham-met-vi-choi-tran-thu-53-tu-dau-mua-4768741.html) - 05:37 11/07/2024
+- 🥳 [Euro ngày 11/7: Thủ môn Anh pha trò khi Van Dijk đang phỏng vấn](https://vnexpress.net/euro-ngay-11-7-thu-mon-anh-pha-tro-khi-van-dijk-dang-phong-van-4768741.html) - 05:37 11/07/2024
 - 🦣 [CĐV Anh tại Hà Nội hân hoan khi đội nhà vào chung kết Euro 2024](https://vnexpress.net/cdv-anh-tai-ha-noi-han-hoan-khi-doi-nha-vao-chung-ket-euro-2024-4768734.html) - 05:33 11/07/2024
 - 🌜 [Runner Đà Nẵng hâm nóng cuộc đua VnExpress Marathon](https://vnexpress.net/runner-da-nang-ham-nong-cuoc-dua-vnexpress-marathon-4768605.html) - 04:41 11/07/2024
 - 🫶 [Bản tin Euro: Người hùng tuyển Anh biết trước sẽ chọc thủng lưới Hà Lan](https://vnexpress.net/ban-tin-euro-nguoi-hung-tuyen-anh-biet-truoc-se-choc-thung-luoi-ha-lan-4768742.html) - 04:24 11/07/2024
