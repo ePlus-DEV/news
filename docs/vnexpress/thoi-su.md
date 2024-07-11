@@ -11,8 +11,8 @@ sidebar_position: 1
 - 🎓 [Hơn 100 dự án ở TP HCM không &#39;tiêu hết tiền&#39; được giao](https://vnexpress.net/hon-100-du-an-o-tp-hcm-khong-tieu-het-tien-duoc-giao-4768379.html) - 17:00 10/07/2024
 - 🔥 [Chủ trọ cấp tập lắp thiết bị phòng cháy chữa cháy](https://vnexpress.net/chu-tro-cap-tap-lap-thiet-bi-phong-chay-chua-chay-4768247.html) - 17:00 10/07/2024
 - 🦏 [Cháy nhà ở TP HCM, một người tử vong](https://vnexpress.net/chay-nha-o-tp-hcm-mot-nguoi-tu-vong-4768538.html) - 16:11 10/07/2024
-- 👺 [Thủ tướng đề nghị chuyển đổi số với tinh thần &#39;không ai bị bỏ lại phía sau&#39;](https://vnexpress.net/thu-tuong-de-nghi-chuyen-doi-so-voi-tinh-than-khong-ai-bi-bo-lai-phia-sau-4768513.html) - 16:00 10/07/2024
-- 🧑‍🏫 [Tiêu hủy xe Lamborghini và MercedesBenz AMG G63 nhập lậu](https://vnexpress.net/tieu-huy-xe-lamborghini-va-mercedesbenz-amg-g63-nhap-lau-4768491.html) - 14:09 10/07/2024
+- 👺 [Thủ tướng yêu cầu chuyển đổi số với tinh thần &#39;không ai bị bỏ lại phía sau&#39;](https://vnexpress.net/thu-tuong-yeu-cau-chuyen-doi-so-voi-tinh-than-khong-ai-bi-bo-lai-phia-sau-4768513.html) - 16:00 10/07/2024
+- 🧑‍🏫 [Tiêu hủy xe Lamborghini và Mercedes AMG G63 nhập lậu](https://vnexpress.net/tieu-huy-xe-lamborghini-va-mercedes-amg-g63-nhap-lau-4768491.html) - 14:09 10/07/2024
 - 🚦 [Miễn nhiệm Chủ tịch UBND tỉnh Bắc Ninh với bà Nguyễn Hương Giang](https://vnexpress.net/mien-nhiem-chu-tich-ubnd-tinh-bac-ninh-voi-ba-nguyen-huong-giang-4768506.html) - 12:38 10/07/2024
 - 🎉 [Thuận An xin rút khỏi dự án cao tốc Khánh Hòa - Buôn Ma Thuột](https://vnexpress.net/thuan-an-xin-rut-khoi-du-an-cao-toc-khanh-hoa-buon-ma-thuot-4768498.html) - 11:56 10/07/2024
 - 🦒 [Cao tốc Hậu Giang - Cà Mau tiếp nhận lô cát biển đầu tiên](https://vnexpress.net/cao-toc-hau-giang-ca-mau-tiep-nhan-lo-cat-bien-dau-tien-4768380.html) - 09:45 10/07/2024
