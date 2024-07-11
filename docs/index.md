@@ -74,8 +74,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧑‍🏫 [Điểm tin 21h: Campuchia liên hệ HLV Park Hang-seo; Ông Medvedev chỉ trích cam kết của NATO với Ukraine](https://vnexpress.net/diem-tin-21h-campuchia-lien-he-hlv-park-hang-seo-ong-medvedev-chi-trich-cam-ket-cua-nato-voi-ukraine-4768938.html) - 10:03 11/07/2024
 - 🎓 [Ba người bắn cô gái 22 tuổi bị khởi tố](https://vnexpress.net/ba-nguoi-ban-co-gai-22-tuoi-tu-vong-bi-khoi-to-4768930.html) - 10:00 11/07/2024
 - 💫 [Anh thành đạt, ổn định, không vướng tứ đổ tường](https://vnexpress.net/anh-thanh-dat-on-dinh-khong-vuong-tu-do-tuong-4768905.html) - 10:00 11/07/2024
-- 🤩 [KFC Việt Nam bán hàng trên livestream](https://vnexpress.net/kfc-viet-nam-ban-hang-tren-livestream-4768833.html) - 10:00 11/07/2024
-- 🏊 [Sản lượng điện tăng 12,4% trong 6 tháng](https://vnexpress.net/san-luong-dien-tang-12-4-trong-6-thang-4768733.html) - 10:00 11/07/2024<!-- vnexpress:END -->
+- 🤩 [KFC Việt Nam bán hàng trên livestream](https://vnexpress.net/kfc-viet-nam-ban-hang-tren-livestream-4768833.html) - 10:00 11/07/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
