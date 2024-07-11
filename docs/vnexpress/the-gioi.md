@@ -12,7 +12,7 @@ sidebar_position: 2
 - 🦒 [Con gái Tổng thống Cameroon bị kiện vì công khai là người đồng tính](https://vnexpress.net/con-gai-tong-thong-cameroon-bi-kien-vi-cong-khai-la-nguoi-dong-tinh-4768729.html) - 08:39 11/07/2024
 - 🌈 [Đám cưới của cậu út nhà tỷ phú Ấn Độ diễn ra như thế nào](https://vnexpress.net/dam-cuoi-cua-cau-ut-nha-ty-phu-an-do-dien-ra-nhu-the-nao-4768346.html) - 08:28 11/07/2024
 - 🧑‍🏫 [Ukraine nhận được gì từ hội nghị thượng đỉnh NATO](https://vnexpress.net/ukraine-nhan-duoc-gi-tu-hoi-nghi-thuong-dinh-nato-4768574.html) - 08:28 11/07/2024
-- 🐲 [Việt Nam tặng Lào 20 ôtô điện](https://vnexpress.net/viet-nam-tang-lao-20-oto-dien-4768796.html) - 07:41 11/07/2024
+- 🐲 [Việt Nam tặng Lào 20 ôtô điện Vinfast](https://vnexpress.net/viet-nam-tang-lao-20-oto-dien-vinfast-4768796.html) - 07:41 11/07/2024
 - 🦒 [Được giải cứu sau 36 giờ bị cuốn trôi trên biển](https://vnexpress.net/duoc-giai-cuu-sau-36-gio-bi-cuon-troi-tren-bien-4768627.html) - 07:07 11/07/2024
 - 🐻 [Thủ tướng Tây Ban Nha kêu gọi phương Tây không &#39;tiêu chuẩn kép&#39; về Gaza](https://vnexpress.net/thu-tuong-tay-ban-nha-keu-goi-phuong-tay-khong-tieu-chuan-kep-ve-gaza-4768685.html) - 06:55 11/07/2024
 - 🚀 [Lễ đón chính thức Chủ tịch nước Tô Lâm tại Lào](https://vnexpress.net/le-don-chinh-thuc-chu-tich-nuoc-to-lam-tai-lao-4768722.html) - 04:27 11/07/2024
