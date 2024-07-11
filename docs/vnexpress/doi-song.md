@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Người nước ngoài chật vật tìm việc ở Việt Nam](https://vnexpress.net/nguoi-nuoc-ngoai-chat-vat-tim-viec-o-viet-nam-4766310.html) - 23:30 10/07/2024
+- 🚀 [Giáo viên người nước ngoài qua thời hoàng kim ở Việt Nam](https://vnexpress.net/giao-vien-nguoi-nuoc-ngoai-qua-thoi-hoang-kim-o-viet-nam-4766310.html) - 23:30 10/07/2024
 - 🎓 [Siêu mẫu mù làm lại cuộc đời nhờ tình yêu của chồng](https://vnexpress.net/sieu-mau-mu-lam-lai-cuoc-doi-nho-tinh-yeu-cua-chong-4767743.html) - 23:00 10/07/2024
 - 🚦 [Gỏi mướp đắng giúp thanh nhiệt ngày hè](https://vnexpress.net/goi-muop-dang-giup-thanh-nhiet-ngay-he-4768417.html) - 11:00 10/07/2024
 - 🦣 [Loạn danh xưng &#39;huấn luyện viên cuộc sống&#39;](https://vnexpress.net/loan-danh-xung-huan-luyen-vien-cuoc-song-4768361.html) - 08:03 10/07/2024
