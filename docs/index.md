@@ -253,7 +253,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Trận bóng từ thiện thu gần 9 tỉ đồng, HLV Park Hang-seo ghi bàn](https://nld.com.vn/tran-bong-tu-thien-thu-gan-9-ti-dong-hlv-park-hang-seo-ghi-ban-196240712211611408.htm) - 14:51 12/07/2024
+- 🐎 [Trận bóng từ thiện thu hơn 9,5 tỉ đồng, HLV Park Hang-seo ghi bàn](https://nld.com.vn/tran-bong-tu-thien-thu-gan-9-ti-dong-hlv-park-hang-seo-ghi-ban-196240712211611408.htm) - 14:51 12/07/2024
 - 😺 [Tuyển futsal nữ Việt Nam thắng đậm Trung Quốc](https://nld.com.vn/tuyen-futsal-nu-viet-nam-thang-dam-trung-quoc-196240712214209647.htm) - 14:49 12/07/2024
 - 👍 [Hà Nội hạ điểm chuẩn, bổ sung hàng ngàn chỉ tiêu vào lớp 10](https://nld.com.vn/ha-noi-ha-diem-chuan-bo-sung-hang-ngan-chi-tieu-vao-lop-10-196240712171809279.htm) - 14:11 12/07/2024
 - 🥷 [Chủ tịch nước Tô Lâm hội đàm với Chủ tịch CPP Hun Sen](https://nld.com.vn/chu-tich-nuoc-to-lam-hoi-dam-voi-chu-tich-cpp-hun-sen-196240712193525788.htm) - 13:53 12/07/2024
