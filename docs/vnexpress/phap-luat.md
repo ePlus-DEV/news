@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Bà Trương Mỹ Lan và 33 người bị truy tố giai đoạn 2 Vạn Thịnh Phát](https://vnexpress.net/ba-truong-my-lan-va-33-nguoi-bi-truy-to-giai-doan-2-van-thinh-phat-4769376.html) - 13:49 12/07/2024
+- 😎 [Bà Trương Mỹ Lan bị truy tố 3 tội danh ở giai đoạn hai vụ Vạn Thịnh Phát](https://vnexpress.net/ba-truong-my-lan-bi-truy-to-3-toi-danh-o-giai-doan-hai-vu-van-thinh-phat-4769376.html) - 13:49 12/07/2024
 - 🥰 [Cầm kiếm chặn ôtô trên tỉnh lộ](https://vnexpress.net/cam-kiem-chan-oto-tren-tinh-lo-4769394.html) - 13:00 12/07/2024
 - 🎓 [Bà Nguyễn Thị Thanh Nhàn bị phạt thêm 24 năm](https://vnexpress.net/ba-nguyen-thi-thanh-nhan-bi-phat-them-24-nam-4769395.html) - 11:37 12/07/2024
 - 🤓 [Phó chủ tịch huyện Hướng Hóa bị khởi tố](https://vnexpress.net/pho-chu-tich-huyen-huong-hoa-bi-khoi-to-4769374.html) - 11:06 12/07/2024
