@@ -4,14 +4,14 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Người dân đồng loạt tiêm vaccine ngừa bạch hầu](https://vnexpress.net/nguoi-dan-dong-loat-tiem-vaccine-ngua-bach-hau-4769404.html) - 12:30 12/07/2024
-- 🎓 [Khoai tây chiên &#39;nở hoa&#39;](https://vnexpress.net/doi-song-cooking-khoai-tay-chien-no-hoa-4769331.html) - 10:32 12/07/2024
-- 🚦 [5 cách đơn giản khử mùi hôi tủ lạnh](https://vnexpress.net/5-cach-don-gian-khu-mui-hoi-tu-lanh-4768727.html) - 08:19 12/07/2024
-- 🦣 [Ghen tuông có phải là dấu hiệu của tình yêu?](https://vnexpress.net/ghen-tuong-co-phai-la-dau-hieu-cua-tinh-yeu-4769302.html) - 08:11 12/07/2024
-- 🎓 [Giới trẻ Trung Quốc trọng thú cưng hơn bạn đời](https://vnexpress.net/gioi-tre-trung-quoc-trong-thu-cung-hon-ban-doi-4768275.html) - 04:42 12/07/2024
-- 🎭 [Người phụ nữ U70 cover nhạc trẻ hút hàng chục triệu view](https://vnexpress.net/nguoi-phu-nu-u70-cover-nhac-tre-hut-hang-chuc-trieu-view-4769008.html) - 04:01 12/07/2024
-- 🦅 [Đổ xô đi học trí tuệ cảm xúc](https://vnexpress.net/do-xo-di-hoc-tri-tue-cam-xuc-4765657.html) - 23:00 11/07/2024
-- 🎃 [Văn hóa thưởng thức cà phê Việt Nam quảng bá trên CNN](https://vnexpress.net/van-hoa-thuong-thuc-ca-phe-viet-nam-quang-ba-tren-cnn-4769029.html) - 15:00 11/07/2024
+- 🚀 [Văn hóa thưởng thức cà phê Việt Nam quảng bá trên CNN](https://vnexpress.net/van-hoa-thuong-thuc-ca-phe-viet-nam-quang-ba-tren-cnn-4769029.html) - 14:15 12/07/2024
+- 🎓 [Người dân đồng loạt tiêm vaccine ngừa bạch hầu](https://vnexpress.net/nguoi-dan-dong-loat-tiem-vaccine-ngua-bach-hau-4769404.html) - 12:30 12/07/2024
+- 🚦 [Khoai tây chiên &#39;nở hoa&#39;](https://vnexpress.net/doi-song-cooking-khoai-tay-chien-no-hoa-4769331.html) - 10:32 12/07/2024
+- 🦣 [5 cách đơn giản khử mùi hôi tủ lạnh](https://vnexpress.net/5-cach-don-gian-khu-mui-hoi-tu-lanh-4768727.html) - 08:19 12/07/2024
+- 🎓 [Ghen tuông có phải là dấu hiệu của tình yêu?](https://vnexpress.net/ghen-tuong-co-phai-la-dau-hieu-cua-tinh-yeu-4769302.html) - 08:11 12/07/2024
+- 🎭 [Giới trẻ Trung Quốc trọng thú cưng hơn bạn đời](https://vnexpress.net/gioi-tre-trung-quoc-trong-thu-cung-hon-ban-doi-4768275.html) - 04:42 12/07/2024
+- 🦅 [Người phụ nữ U70 cover nhạc trẻ hút hàng chục triệu view](https://vnexpress.net/nguoi-phu-nu-u70-cover-nhac-tre-hut-hang-chuc-trieu-view-4769008.html) - 04:01 12/07/2024
+- 🎃 [Đổ xô đi học trí tuệ cảm xúc](https://vnexpress.net/do-xo-di-hoc-tri-tue-cam-xuc-4765657.html) - 23:00 11/07/2024
 - 💪 [10 món nhậu dễ làm tại nhà xem chung kết Euro 2024](https://vnexpress.net/doi-song-cooking-10-mon-nhau-de-lam-tai-nha-xem-chung-ket-euro-2024-4768853.html) - 11:59 11/07/2024
 - 🐻 [Sai lầm khiến trứng luộc khó bóc vỏ](https://vnexpress.net/doi-song-cooking-sai-lam-khien-trung-luoc-kho-boc-vo-4768704.html) - 10:56 11/07/2024
 - 🧠 [Người trẻ Mỹ sống bám bố mẹ](https://vnexpress.net/nguoi-tre-my-song-bam-bo-me-4768728.html) - 05:13 11/07/2024
