@@ -5,12 +5,12 @@ sidebar_position: 6
 
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Đổ xô đi học về trí tuệ cảm xúc](https://vnexpress.net/do-xo-di-hoc-ve-tri-tue-cam-xuc-4765657.html) - 23:00 11/07/2024
-- 🎓 [10 món nhậu dễ làm tại nhà xem chung kết Euro 2024](https://vnexpress.net/10-mon-nhau-de-lam-tai-nha-xem-chung-ket-euro-2024-4768853.html) - 11:59 11/07/2024
-- 🚦 [Sai lầm khiến trứng luộc khó bóc vỏ](https://vnexpress.net/sai-lam-khien-trung-luoc-kho-boc-vo-4768704.html) - 10:56 11/07/2024
+- 🎓 [10 món nhậu dễ làm tại nhà xem chung kết Euro 2024](https://vnexpress.net/doi-song-cooking-10-mon-nhau-de-lam-tai-nha-xem-chung-ket-euro-2024-4768853.html) - 11:59 11/07/2024
+- 🚦 [Sai lầm khiến trứng luộc khó bóc vỏ](https://vnexpress.net/doi-song-cooking-sai-lam-khien-trung-luoc-kho-boc-vo-4768704.html) - 10:56 11/07/2024
 - 🦣 [Người trẻ Mỹ sống bám bố mẹ](https://vnexpress.net/nguoi-tre-my-song-bam-bo-me-4768728.html) - 05:13 11/07/2024
 - 🎓 [Giáo viên người nước ngoài qua thời hoàng kim ở Việt Nam](https://vnexpress.net/giao-vien-nguoi-nuoc-ngoai-qua-thoi-hoang-kim-o-viet-nam-4766310.html) - 23:30 10/07/2024
 - 🎭 [Siêu mẫu mù làm lại cuộc đời nhờ tình yêu của chồng](https://vnexpress.net/sieu-mau-mu-lam-lai-cuoc-doi-nho-tinh-yeu-cua-chong-4767743.html) - 23:00 10/07/2024
-- 🦅 [Gỏi mướp đắng giúp thanh nhiệt ngày hè](https://vnexpress.net/goi-muop-dang-giup-thanh-nhiet-ngay-he-4768417.html) - 11:00 10/07/2024
+- 🦅 [Gỏi mướp đắng giúp thanh nhiệt ngày hè](https://vnexpress.net/doi-song-cooking-goi-muop-dang-giup-thanh-nhiet-ngay-he-4768417.html) - 11:00 10/07/2024
 - 🎃 [Loạn danh xưng &#39;huấn luyện viên cuộc sống&#39;](https://vnexpress.net/loan-danh-xung-huan-luyen-vien-cuoc-song-4768361.html) - 08:03 10/07/2024
 - 💪 [8 điều đơn giản người thành công thường làm](https://vnexpress.net/8-dieu-don-gian-nguoi-thanh-cong-thuong-lam-4767952.html) - 07:55 10/07/2024
 - 🐻 [Rao bán &#39;sếp tồi&#39;, &#39;việc tệ&#39;](https://vnexpress.net/rao-ban-sep-toi-viec-te-4767993.html) - 04:19 10/07/2024
