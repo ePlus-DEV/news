@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Đổ xô đi học về trí tuệ cảm xúc](https://vnexpress.net/do-xo-di-hoc-ve-tri-tue-cam-xuc-4765657.html) - 23:00 11/07/2024
+- 🚀 [Đổ xô đi học trí tuệ cảm xúc](https://vnexpress.net/do-xo-di-hoc-tri-tue-cam-xuc-4765657.html) - 23:00 11/07/2024
 - 🎓 [10 món nhậu dễ làm tại nhà xem chung kết Euro 2024](https://vnexpress.net/doi-song-cooking-10-mon-nhau-de-lam-tai-nha-xem-chung-ket-euro-2024-4768853.html) - 11:59 11/07/2024
 - 🚦 [Sai lầm khiến trứng luộc khó bóc vỏ](https://vnexpress.net/doi-song-cooking-sai-lam-khien-trung-luoc-kho-boc-vo-4768704.html) - 10:56 11/07/2024
 - 🦣 [Người trẻ Mỹ sống bám bố mẹ](https://vnexpress.net/nguoi-tre-my-song-bam-bo-me-4768728.html) - 05:13 11/07/2024
