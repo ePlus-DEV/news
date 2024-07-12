@@ -250,9 +250,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐲 [Quán phở Michelin chọn: Hơn 30 năm không rau vẫn đắt khách ở Sài Gòn](https://laodong.vn/van-hoa-giai-tri/quan-pho-michelin-chon-hon-30-nam-khong-rau-van-dat-khach-o-sai-gon-1365323.ldo) - 13:11 12/07/2024
 - 🚀 [Gắn biển công trình hơn 1 tỉ đồng tại Cần Thơ](https://laodong.vn/ldld-can-tho/gan-bien-cong-trinh-hon-1-ti-dong-tai-can-tho-1365477.ldo) - 13:04 12/07/2024
 - 😺 [Thay đổi mức lương hưu thấp nhất với người nghỉ hưu năm 2018](https://laodong.vn/ban-doc/thay-doi-muc-luong-huu-thap-nhat-voi-nguoi-nghi-huu-nam-2018-1365335.ldo) - 13:00 12/07/2024
-- 🕴 [Axit uric cao và 8 cách để ngăn ngừa](https://laodong.vn/suc-khoe/axit-uric-cao-va-8-cach-de-ngan-ngua-1365310.ldo) - 13:00 12/07/2024
-- 🌋 [Hàng chục tỉ USD chảy vào túi các ông trùm Nga](https://laodong.vn/the-gioi/hang-chuc-ti-usd-chay-vao-tui-cac-ong-trum-nga-1365316.ldo) - 13:00 12/07/2024
-- 💄 [Lý giải lệch pha phân khúc nhà ở khiến giá nhà bị đẩy lên cao](https://laodong.vn/bat-dong-san/ly-giai-lech-pha-phan-khuc-nha-o-khien-gia-nha-bi-day-len-cao-1365371.ldo) - 13:00 12/07/2024<!-- laodong:END -->
+- 🕴 [Công nhân trực tiếp được truyền thông sức khỏe sinh sản](https://laodong.vn/ldld-tphn/cong-nhan-truc-tiep-duoc-truyen-thong-suc-khoe-sinh-san-1365234.ldo) - 13:00 12/07/2024
+- 🌋 [Mất 8 năm giải phóng mặt bằng vành đai 1.800 tỉ đồng ở Hà Nội](https://laodong.vn/giao-thong/mat-8-nam-giai-phong-mat-bang-vanh-dai-1800-ti-dong-o-ha-noi-1365246.ldo) - 13:00 12/07/2024
+- 💄 [Thị trường khách sạn Hà Nội bứt phá nguồn cung trong thời gian tới](https://laodong.vn/bat-dong-san/thi-truong-khach-san-ha-noi-but-pha-nguon-cung-trong-thoi-gian-toi-1365279.ldo) - 13:00 12/07/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
