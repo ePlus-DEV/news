@@ -212,7 +212,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [2 thanh niên tông ngã chiến sĩ Cảnh sát giao thông làm nhiệm vụ](https://laodong.vn/xa-hoi/2-thanh-nien-tong-nga-chien-si-canh-sat-giao-thong-lam-nhiem-vu-1365531.ldo) - 17:14 12/07/2024
+- 🗽 [Chiến sĩ Cảnh sát giao thông bị tông ngã khi làm nhiệm vụ, 3 người nhập viện](https://laodong.vn/xa-hoi/chien-si-canh-sat-giao-thong-bi-tong-nga-khi-lam-nhiem-vu-3-nguoi-nhap-vien-1365531.ldo) - 17:14 12/07/2024
 - 📝 [Chủ tịch nước dự quốc yến của Hoàng gia Campuchia](https://laodong.vn/thoi-su/chu-tich-nuoc-du-quoc-yen-cua-hoang-gia-campuchia-1365515.ldo) - 15:40 12/07/2024
 - 🦏 [Tiền Giang tọa đàm xây dựng tổ chức Công đoàn vững mạnh](https://laodong.vn/ldld-tien-giang/tien-giang-toa-dam-xay-dung-to-chuc-cong-doan-vung-manh-1365486.ldo) - 15:34 12/07/2024
 - 🦩 [Kết quả bóng chuyền Cúp Quân đội mở rộng 12.7: CLB Biên Phòng, Binh chủng Thông tin thắng dễ](https://laodong.vn/the-thao/ket-qua-bong-chuyen-cup-quan-doi-mo-rong-127-clb-bien-phong-binh-chung-thong-tin-thang-de-1365523.ldo) - 15:25 12/07/2024
