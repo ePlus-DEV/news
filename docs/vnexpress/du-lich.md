@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Đà Nẵng &#39;cháy&#39; phòng, vé xem chung kết pháo hoa](https://vnexpress.net/da-nang-chay-phong-ve-xem-chung-ket-phao-hoa-4768972.html) - 01:12 12/07/2024
+- 💂 [Đà Nẵng &#39;cháy&#39; phòng cuối tuần](https://vnexpress.net/da-nang-chay-phong-cuoi-tuan-4768972.html) - 01:12 12/07/2024
 - 🪄 [Gia đình Việt ba thế hệ 80 ngày đi khắp châu Âu](https://vnexpress.net/gia-dinh-viet-ba-the-he-80-ngay-di-khap-chau-au-4766561.html) - 17:00 11/07/2024
 - 🦅 [Khách Mỹ sốc vì phải trả tiền nước lọc ở nhà hàng châu Âu](https://vnexpress.net/khach-my-soc-vi-phai-tra-tien-nuoc-loc-o-nha-hang-chau-au-4768863.html) - 12:00 11/07/2024
 - 🕴 [Khách Việt đi châu Âu giảm](https://vnexpress.net/khach-viet-di-chau-au-giam-4768395.html) - 03:59 11/07/2024
