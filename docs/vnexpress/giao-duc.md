@@ -4,63 +4,63 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Thêm 8 trường quân đội công bố điểm chuẩn học bạ, đánh giá năng lực](https://vnexpress.net/them-8-truong-quan-doi-cong-bo-diem-chuan-hoc-ba-danh-gia-nang-luc-4769307.html) - 09:55 12/07/2024
-- 🦆 [Việc làm, mức lương ngành Ngôn ngữ Hàn Quốc](https://vnexpress.net/hoc-nganh-ngon-ngu-han-quoc-ra-truong-lam-gi-luong-bao-nhieu-4767318.html) - 07:33 12/07/2024
-- 🦩 [Chàng trai đạt 9.0 IELTS sau 6 năm ôn luyện](https://vnexpress.net/chang-trai-dat-9-0-ielts-sau-6-nam-on-luyen-4768779.html) - 04:16 12/07/2024
-- 🌮 [Học sinh Việt vô địch vòng toàn cầu The World Scholar&#39;s Cup 2024](https://vnexpress.net/hoc-sinh-viet-vo-dich-vong-toan-cau-the-world-scholar-s-cup-2024-4768322.html) - 04:00 12/07/2024
-- 🔭 [Bản lĩnh thi đấu giúp nam sinh Huế vào chung kết Olympia](https://vnexpress.net/ban-linh-thi-dau-giup-nam-sinh-hue-vao-chung-ket-olympia-4768637.html) - 23:33 11/07/2024
-- 💡 [Tỉnh Mỹ Tho cũ thuộc địa phương nào hiện nay?](https://vnexpress.net/tinh-my-tho-cu-thuoc-dia-phuong-nao-hien-nay-4768936.html) - 13:00 11/07/2024
-- 🥰 [TP HCM tuyển bổ sung 166 học sinh lớp 10](https://vnexpress.net/tp-hcm-tuyen-bo-sung-166-hoc-sinh-lop-10-4768953.html) - 11:30 11/07/2024
-- 🐲 [Học sinh Việt lần đầu thi Olympic Trí tuệ nhân tạo quốc tế](https://vnexpress.net/hoc-sinh-viet-lan-dau-thi-olympic-tri-tue-nhan-tao-quoc-te-4768285.html) - 11:06 11/07/2024
-- 🦒 [Nữ sinh đỗ sớm ngành Khoa học máy tính, được Bách khoa vinh danh](https://vnexpress.net/nu-sinh-do-som-nganh-khoa-hoc-may-tinh-duoc-bach-khoa-vinh-danh-4768245.html) - 07:26 11/07/2024
-- 🦆 [Ba ngành dẫn đầu điểm chuẩn ĐH Khoa học Xã hội và Nhân văn Hà Nội](https://vnexpress.net/diem-chuan-hoc-ba-danh-gia-nang-luc-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-ha-noi-2024-4768535.html) - 02:03 11/07/2024
-- 🧰 [Thủ khoa đầu ra trường Đại học FPT đầu quân cho tập đoàn Pháp](https://vnexpress.net/thu-khoa-dau-ra-truong-dai-hoc-fpt-dau-quan-cho-tap-doan-phap-4763692.html) - 01:00 11/07/2024
-- 🐘 [Nam sinh giành ngôi thủ khoa lớp 6 trường Trần Đại Nghĩa](https://vnexpress.net/nam-sinh-gianh-ngoi-thu-khoa-lop-6-truong-tran-dai-nghia-4768443.html) - 22:00 10/07/2024
-- 🤓 [Học ngành An toàn thông tin làm giáo viên Tin học được không?](https://vnexpress.net/hoc-nganh-an-toan-thong-tin-lam-giao-vien-tin-hoc-duoc-khong-4767205.html) - 17:37 10/07/2024
-- 🧰 [Lần đầu học sinh giỏi Văn, Sử, Địa được vào thẳng Y Hà Nội](https://vnexpress.net/lan-dau-hoc-sinh-gioi-van-su-dia-duoc-vao-thang-y-ha-noi-4768521.html) - 17:29 10/07/2024
-- 🧑‍💻 [5 trường quân đội công bố điểm chuẩn học bạ, đánh giá năng lực](https://vnexpress.net/diem-chuan-hoc-ba-cac-truong-quan-doi-nam-2024-4768426.html) - 13:33 10/07/2024
-- 🫶 [Ba tỉnh nào rộng nhất miền Bắc?](https://vnexpress.net/ba-tinh-nao-rong-nhat-mien-bac-4768411.html) - 13:00 10/07/2024
-- 🪜 [Điểm chuẩn học bạ Đại học Sư phạm TP HCM gần tuyệt đối](https://vnexpress.net/diem-chuan-hoc-ba-dai-hoc-su-pham-tp-hcm-nam-2024-4768480.html) - 11:29 10/07/2024
-- 🎊 [Nam sinh bị đầu độc bằng xyanua được đặc cách tốt nghiệp](https://vnexpress.net/nam-sinh-bi-dau-doc-bang-xyanua-duoc-dac-cach-tot-nghiep-4768471.html) - 10:39 10/07/2024
-- 🧐 [Điểm chuẩn học bạ ĐH Tôn Đức Thắng cao nhất 37,5/40](https://vnexpress.net/diem-chuan-hoc-ba-va-xet-tuyen-som-dai-hoc-ton-duc-thang-nam-2024-4768344.html) - 08:54 10/07/2024
-- 🌈 [Tập đoàn FPT trao 240 suất học bổng cho học sinh FSchool Thanh Hóa](https://vnexpress.net/tap-doan-fpt-trao-240-suat-hoc-bong-cho-hoc-sinh-fschool-thanh-hoa-4768180.html) - 08:00 10/07/2024
-- 🥰 [Chàng trai là thủ khoa xét tuyển tài năng của Bách khoa Hà Nội](https://vnexpress.net/chang-trai-la-thu-khoa-xet-tuyen-tai-nang-cua-bach-khoa-ha-noi-4768179.html) - 07:46 10/07/2024
-- 🎡 [Đại học Mở Hà Nội lấy điểm chuẩn học bạ 21-22](https://vnexpress.net/diem-chuan-hoc-ba-dai-hoc-mo-ha-noi-2024-4768284.html) - 05:12 10/07/2024
-- 🎊 [Điểm chuẩn lớp 6 trường Trần Đại Nghĩa là 67,5/100](https://vnexpress.net/tra-cuu-diem-thi-lop-6-truong-tran-dai-nghia-2024-4768084.html) - 01:12 10/07/2024
-- 🌏 [Giảng viên người Việt được phong giáo sư ở Pháp](https://vnexpress.net/giang-vien-nguoi-viet-duoc-phong-giao-su-o-phap-4767660.html) - 00:20 10/07/2024
-- 🥸 [Thử tài hiểu biết trong 7 giây](https://vnexpress.net/thu-tai-hieu-biet-trong-7-giay-4768056.html) - 14:26 09/07/2024
-- 🕴 [Điểm chuẩn học bạ ĐH Công nghiệp TP HCM tăng 1-1,5](https://vnexpress.net/diem-chuan-hoc-ba-va-danh-gia-nang-luc-dai-hoc-cong-nghiep-tp-hcm-nam-2024-4768011.html) - 13:31 09/07/2024
-- 💂 [Cô gái trúng học bổng ba đại học top 20 thế giới](https://vnexpress.net/co-gai-trung-hoc-bong-ba-dai-hoc-top-20-the-gioi-4767961.html) - 12:47 09/07/2024
-- 🕴 [Giảng viên bị xếp loại &#39;không hoàn thành nhiệm vụ&#39; vì chưa học tiến sĩ](https://vnexpress.net/giang-vien-bi-xep-loai-khong-hoan-thanh-nhiem-vu-vi-chua-hoc-tien-si-4767790.html) - 10:16 09/07/2024
-- 🌋 [6 từ thông dụng về chi phí trong tiếng Anh](https://vnexpress.net/6-tu-thong-dung-ve-chi-phi-trong-tieng-anh-4767931.html) - 08:26 09/07/2024
-- 🪜 [ĐH Khoa học Tự nhiên Hà Nội lấy điểm chuẩn đánh giá năng lực cao nhất 145](https://vnexpress.net/diem-chuan-danh-gia-nang-luc-dai-hoc-khoa-hoc-tu-nhien-2024-4767733.html) - 03:59 09/07/2024
-- 🕴 [Điểm chuẩn học bạ Đại học Sư phạm Hà Nội 2 suýt soát 30](https://vnexpress.net/diem-chuan-hoc-ba-dai-hoc-su-pham-ha-noi-2-suyt-soat-30-4767728.html) - 02:28 09/07/2024
-- 🎃 [ĐH Y khoa Phạm Ngọc Thạch bỏ xét riêng thí sinh TP HCM](https://vnexpress.net/phuong-an-tuyen-sinh-dai-hoc-y-khoa-pham-ngoc-thach-nam-2024-4767669.html) - 23:46 08/07/2024
-- 🦏 [Điểm chuẩn học bạ Đại học Mỏ - Địa chất thấp nhất 18](https://vnexpress.net/diem-chuan-hoc-ba-dai-hoc-mo-dia-chat-thap-nhat-18-4767644.html) - 23:08 08/07/2024
-- 🧑‍🏫 [Tỉnh Tuyên Đức cũ thuộc địa phương nào ngày nay?](https://vnexpress.net/tinh-tuyen-duc-cu-thuoc-dia-phuong-nao-ngay-nay-4767633.html) - 14:26 08/07/2024
-- 💡 [TP HCM đề xuất giảm học phí mọi cấp học](https://vnexpress.net/tp-hcm-de-xuat-giam-hoc-phi-moi-cap-hoc-4767608.html) - 12:04 08/07/2024
-- 🐎 [Điểm chuẩn học bạ Đại học Y tế công cộng cao nhất 27](https://vnexpress.net/diem-chuan-hoc-ba-dai-hoc-y-te-cong-cong-cao-nhat-27-4767451.html) - 09:30 08/07/2024
-- 🧰 [Đắn đo chọn tổ hợp sau đỗ lớp 10](https://vnexpress.net/dan-do-chon-to-hop-sau-do-lop-10-4766904.html) - 08:36 08/07/2024
-- 🙉 [Học ngành Ngôn ngữ Trung ra trường làm gì, lương bao nhiêu?](https://vnexpress.net/hoc-nganh-ngon-ngu-trung-ra-truong-lam-gi-luong-bao-nhieu-4760468.html) - 04:49 08/07/2024
-- ⚗️ [Điểm chuẩn học bạ ĐH Tài chính - Marketing, Mở TP HCM](https://vnexpress.net/diem-chuan-hoc-ba-dh-tai-chinh-marketing-mo-tp-hcm-4766726.html) - 04:12 08/07/2024
-- 🌝 [Trường AIS nâng cấp cơ sở Thảo Điền, Thủ Thiêm](https://vnexpress.net/truong-ais-nang-cap-co-so-thao-dien-thu-thiem-4766641.html) - 03:00 08/07/2024
-- ⛽️ [Nữ giảng viên ứng dụng công nghệ vào đào tạo thiết kế mỹ thuật số](https://vnexpress.net/nu-giang-vien-ung-dung-cong-nghe-vao-dao-tao-thiet-ke-my-thuat-so-4763693.html) - 01:00 08/07/2024
-- 🌜 [Gần 50 trường công bố điểm chuẩn đánh giá năng lực, tư duy](https://vnexpress.net/gan-50-truong-cong-bo-diem-chuan-danh-gia-nang-luc-tu-duy-4766598.html) - 00:03 08/07/2024
-- ⚗️ [Tỉnh nào từng sáp nhập với Phú Thọ?](https://vnexpress.net/tinh-nao-tung-sap-nhap-voi-phu-tho-4767157.html) - 13:00 07/07/2024
-- 🧰 [Ba phút tự học bảng phiên âm tiếng Anh Mỹ](https://vnexpress.net/ba-phut-tu-hoc-bang-phien-am-tieng-anh-my-4767123.html) - 07:59 07/07/2024
-- 🤗 [Học mảng nào của ngành IT để kiếm được việc tốt?](https://vnexpress.net/hoc-mang-nao-cua-nganh-it-de-kiem-duoc-viec-tot-4765879.html) - 07:43 07/07/2024
-- 🔥 [Nam sinh Huế giành vé vào chung kết Đường lên đỉnh Olympia](https://vnexpress.net/nam-sinh-hue-gianh-ve-vao-chung-ket-duong-len-dinh-olympia-4767111.html) - 07:31 07/07/2024
-- 💪 [Chàng trai tốt nghiệp thủ khoa Sư phạm Hóa nhờ &#39;kỷ luật học tập&#39;](https://vnexpress.net/chang-trai-tot-nghiep-thu-khoa-su-pham-hoa-nho-ky-luat-hoc-tap-4766507.html) - 00:49 07/07/2024
-- 💂 [Cây cao nhất thế giới cao bao nhiêu?](https://vnexpress.net/cay-cao-nhat-the-gioi-cao-bao-nhieu-4766939.html) - 13:37 06/07/2024
-- 🌮 [Cách dùng &#39;fun&#39; và &#39;funny&#39;](https://vnexpress.net/cach-dung-fun-va-funny-4766887.html) - 10:10 06/07/2024
-- 🪄 [Thí sinh vượt trăm km về Hà Nội thi vào trường công an](https://vnexpress.net/ky-thi-danh-gia-nang-luc-bo-cong-an-nam-2024-4766906.html) - 09:59 06/07/2024
-- 🎡 [Việt Nam tranh tài tại cuộc thi sáng kiến tiết kiệm năng lượng thế giới](https://vnexpress.net/viet-nam-tranh-tai-tai-cuoc-thi-sang-kien-tiet-kiem-nang-luong-the-gioi-4766678.html) - 03:00 06/07/2024
-- 🌈 [Nam sinh vào đại học ở tuổi 16](https://vnexpress.net/nam-sinh-vao-dai-hoc-o-tuoi-16-4758215.html) - 02:57 06/07/2024
-- 🎊 [25 điểm có thể đỗ trường Kinh tế nào?](https://vnexpress.net/25-diem-co-the-do-truong-kinh-te-nao-4764474.html) - 17:00 05/07/2024
-- ⚗️ [Trưởng phòng Giáo dục xin lỗi, sửa đáp án môn Toán thi lớp 6](https://vnexpress.net/truong-phong-giao-duc-xin-loi-sua-dap-an-mon-toan-thi-lop-6-4766702.html) - 16:04 05/07/2024
-- 🌁 [Phố nào ở Hà Nội mang tên ngày Toàn quốc kháng chiến?](https://vnexpress.net/pho-nao-o-ha-noi-mang-ten-ngay-toan-quoc-khang-chien-4766620.html) - 13:18 05/07/2024
-- 🦏 [Gần 130 thí sinh đỗ sớm vào 8 trường công an](https://vnexpress.net/gan-130-thi-sinh-do-som-vao-8-truong-cong-an-4766638.html) - 12:30 05/07/2024
-- 👍 [Giải bóng đá Đức vào đề thi lớp 6 trường Trần Đại Nghĩa](https://vnexpress.net/de-thi-lop-6-truong-tran-dai-nghia-nam-2024-4766601.html) - 09:25 05/07/2024
-- 🌈 [Nữ sinh Hải Phòng đạt điểm SAT tuyệt đối](https://vnexpress.net/nu-sinh-hai-phong-dat-diem-sat-tuyet-doi-4766246.html) - 07:08 05/07/2024
-- 🕴 [22 bài thi tốt nghiệp môn Văn bị giám thị ký nhầm](https://vnexpress.net/22-bai-thi-tot-nghiep-mon-van-bi-giam-thi-ky-nham-4766465.html) - 04:43 05/07/2024
-- 🧰 [&#39;Béo đẹp&#39; nói thế nào trong tiếng Anh?](https://vnexpress.net/beo-dep-noi-the-nao-trong-tieng-anh-4766125.html) - 04:07 05/07/2024<!-- vnexpress-giao-duc:END -->
+- 🤓 [62 trường ở Hà Nội hạ điểm chuẩn lớp 10](https://vnexpress.net/danh-sach-truong-ha-diem-chuan-lop-10-cua-ha-noi-nam-2024-4768034.html) - 12:21 12/07/2024
+- 🦆 [Thêm 8 trường quân đội công bố điểm chuẩn học bạ, đánh giá năng lực](https://vnexpress.net/them-8-truong-quan-doi-cong-bo-diem-chuan-hoc-ba-danh-gia-nang-luc-4769307.html) - 09:55 12/07/2024
+- 🦩 [Việc làm, mức lương ngành Ngôn ngữ Hàn Quốc](https://vnexpress.net/hoc-nganh-ngon-ngu-han-quoc-ra-truong-lam-gi-luong-bao-nhieu-4767318.html) - 07:33 12/07/2024
+- 🌮 [Chàng trai đạt 9.0 IELTS sau 6 năm ôn luyện](https://vnexpress.net/chang-trai-dat-9-0-ielts-sau-6-nam-on-luyen-4768779.html) - 04:16 12/07/2024
+- 🔭 [Học sinh Việt vô địch vòng toàn cầu The World Scholar&#39;s Cup 2024](https://vnexpress.net/hoc-sinh-viet-vo-dich-vong-toan-cau-the-world-scholar-s-cup-2024-4768322.html) - 04:00 12/07/2024
+- 💡 [Bản lĩnh thi đấu giúp nam sinh Huế vào chung kết Olympia](https://vnexpress.net/ban-linh-thi-dau-giup-nam-sinh-hue-vao-chung-ket-olympia-4768637.html) - 23:33 11/07/2024
+- 🥰 [Tỉnh Mỹ Tho cũ thuộc địa phương nào hiện nay?](https://vnexpress.net/tinh-my-tho-cu-thuoc-dia-phuong-nao-hien-nay-4768936.html) - 13:00 11/07/2024
+- 🐲 [TP HCM tuyển bổ sung 166 học sinh lớp 10](https://vnexpress.net/tp-hcm-tuyen-bo-sung-166-hoc-sinh-lop-10-4768953.html) - 11:30 11/07/2024
+- 🦒 [Học sinh Việt lần đầu thi Olympic Trí tuệ nhân tạo quốc tế](https://vnexpress.net/hoc-sinh-viet-lan-dau-thi-olympic-tri-tue-nhan-tao-quoc-te-4768285.html) - 11:06 11/07/2024
+- 🦆 [Nữ sinh đỗ sớm ngành Khoa học máy tính, được Bách khoa vinh danh](https://vnexpress.net/nu-sinh-do-som-nganh-khoa-hoc-may-tinh-duoc-bach-khoa-vinh-danh-4768245.html) - 07:26 11/07/2024
+- 🧰 [Ba ngành dẫn đầu điểm chuẩn ĐH Khoa học Xã hội và Nhân văn Hà Nội](https://vnexpress.net/diem-chuan-hoc-ba-danh-gia-nang-luc-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-ha-noi-2024-4768535.html) - 02:03 11/07/2024
+- 🐘 [Thủ khoa đầu ra trường Đại học FPT đầu quân cho tập đoàn Pháp](https://vnexpress.net/thu-khoa-dau-ra-truong-dai-hoc-fpt-dau-quan-cho-tap-doan-phap-4763692.html) - 01:00 11/07/2024
+- 🤓 [Nam sinh giành ngôi thủ khoa lớp 6 trường Trần Đại Nghĩa](https://vnexpress.net/nam-sinh-gianh-ngoi-thu-khoa-lop-6-truong-tran-dai-nghia-4768443.html) - 22:00 10/07/2024
+- 🧰 [Học ngành An toàn thông tin làm giáo viên Tin học được không?](https://vnexpress.net/hoc-nganh-an-toan-thong-tin-lam-giao-vien-tin-hoc-duoc-khong-4767205.html) - 17:37 10/07/2024
+- 🧑‍💻 [Lần đầu học sinh giỏi Văn, Sử, Địa được vào thẳng Y Hà Nội](https://vnexpress.net/lan-dau-hoc-sinh-gioi-van-su-dia-duoc-vao-thang-y-ha-noi-4768521.html) - 17:29 10/07/2024
+- 🫶 [5 trường quân đội công bố điểm chuẩn học bạ, đánh giá năng lực](https://vnexpress.net/diem-chuan-hoc-ba-cac-truong-quan-doi-nam-2024-4768426.html) - 13:33 10/07/2024
+- 🪜 [Ba tỉnh nào rộng nhất miền Bắc?](https://vnexpress.net/ba-tinh-nao-rong-nhat-mien-bac-4768411.html) - 13:00 10/07/2024
+- 🎊 [Điểm chuẩn học bạ Đại học Sư phạm TP HCM gần tuyệt đối](https://vnexpress.net/diem-chuan-hoc-ba-dai-hoc-su-pham-tp-hcm-nam-2024-4768480.html) - 11:29 10/07/2024
+- 🧐 [Nam sinh bị đầu độc bằng xyanua được đặc cách tốt nghiệp](https://vnexpress.net/nam-sinh-bi-dau-doc-bang-xyanua-duoc-dac-cach-tot-nghiep-4768471.html) - 10:39 10/07/2024
+- 🌈 [Điểm chuẩn học bạ ĐH Tôn Đức Thắng cao nhất 37,5/40](https://vnexpress.net/diem-chuan-hoc-ba-va-xet-tuyen-som-dai-hoc-ton-duc-thang-nam-2024-4768344.html) - 08:54 10/07/2024
+- 🥰 [Tập đoàn FPT trao 240 suất học bổng cho học sinh FSchool Thanh Hóa](https://vnexpress.net/tap-doan-fpt-trao-240-suat-hoc-bong-cho-hoc-sinh-fschool-thanh-hoa-4768180.html) - 08:00 10/07/2024
+- 🎡 [Chàng trai là thủ khoa xét tuyển tài năng của Bách khoa Hà Nội](https://vnexpress.net/chang-trai-la-thu-khoa-xet-tuyen-tai-nang-cua-bach-khoa-ha-noi-4768179.html) - 07:46 10/07/2024
+- 🎊 [Đại học Mở Hà Nội lấy điểm chuẩn học bạ 21-22](https://vnexpress.net/diem-chuan-hoc-ba-dai-hoc-mo-ha-noi-2024-4768284.html) - 05:12 10/07/2024
+- 🌏 [Điểm chuẩn lớp 6 trường Trần Đại Nghĩa là 67,5/100](https://vnexpress.net/tra-cuu-diem-thi-lop-6-truong-tran-dai-nghia-2024-4768084.html) - 01:12 10/07/2024
+- 🥸 [Giảng viên người Việt được phong giáo sư ở Pháp](https://vnexpress.net/giang-vien-nguoi-viet-duoc-phong-giao-su-o-phap-4767660.html) - 00:20 10/07/2024
+- 🕴 [Thử tài hiểu biết trong 7 giây](https://vnexpress.net/thu-tai-hieu-biet-trong-7-giay-4768056.html) - 14:26 09/07/2024
+- 💂 [Điểm chuẩn học bạ ĐH Công nghiệp TP HCM tăng 1-1,5](https://vnexpress.net/diem-chuan-hoc-ba-va-danh-gia-nang-luc-dai-hoc-cong-nghiep-tp-hcm-nam-2024-4768011.html) - 13:31 09/07/2024
+- 🕴 [Cô gái trúng học bổng ba đại học top 20 thế giới](https://vnexpress.net/co-gai-trung-hoc-bong-ba-dai-hoc-top-20-the-gioi-4767961.html) - 12:47 09/07/2024
+- 🌋 [Giảng viên bị xếp loại &#39;không hoàn thành nhiệm vụ&#39; vì chưa học tiến sĩ](https://vnexpress.net/giang-vien-bi-xep-loai-khong-hoan-thanh-nhiem-vu-vi-chua-hoc-tien-si-4767790.html) - 10:16 09/07/2024
+- 🪜 [6 từ thông dụng về chi phí trong tiếng Anh](https://vnexpress.net/6-tu-thong-dung-ve-chi-phi-trong-tieng-anh-4767931.html) - 08:26 09/07/2024
+- 🕴 [ĐH Khoa học Tự nhiên Hà Nội lấy điểm chuẩn đánh giá năng lực cao nhất 145](https://vnexpress.net/diem-chuan-danh-gia-nang-luc-dai-hoc-khoa-hoc-tu-nhien-2024-4767733.html) - 03:59 09/07/2024
+- 🎃 [Điểm chuẩn học bạ Đại học Sư phạm Hà Nội 2 suýt soát 30](https://vnexpress.net/diem-chuan-hoc-ba-dai-hoc-su-pham-ha-noi-2-suyt-soat-30-4767728.html) - 02:28 09/07/2024
+- 🦏 [ĐH Y khoa Phạm Ngọc Thạch bỏ xét riêng thí sinh TP HCM](https://vnexpress.net/phuong-an-tuyen-sinh-dai-hoc-y-khoa-pham-ngoc-thach-nam-2024-4767669.html) - 23:46 08/07/2024
+- 🧑‍🏫 [Điểm chuẩn học bạ Đại học Mỏ - Địa chất thấp nhất 18](https://vnexpress.net/diem-chuan-hoc-ba-dai-hoc-mo-dia-chat-thap-nhat-18-4767644.html) - 23:08 08/07/2024
+- 💡 [Tỉnh Tuyên Đức cũ thuộc địa phương nào ngày nay?](https://vnexpress.net/tinh-tuyen-duc-cu-thuoc-dia-phuong-nao-ngay-nay-4767633.html) - 14:26 08/07/2024
+- 🐎 [TP HCM đề xuất giảm học phí mọi cấp học](https://vnexpress.net/tp-hcm-de-xuat-giam-hoc-phi-moi-cap-hoc-4767608.html) - 12:04 08/07/2024
+- 🧰 [Điểm chuẩn học bạ Đại học Y tế công cộng cao nhất 27](https://vnexpress.net/diem-chuan-hoc-ba-dai-hoc-y-te-cong-cong-cao-nhat-27-4767451.html) - 09:30 08/07/2024
+- 🙉 [Đắn đo chọn tổ hợp sau đỗ lớp 10](https://vnexpress.net/dan-do-chon-to-hop-sau-do-lop-10-4766904.html) - 08:36 08/07/2024
+- ⚗️ [Học ngành Ngôn ngữ Trung ra trường làm gì, lương bao nhiêu?](https://vnexpress.net/hoc-nganh-ngon-ngu-trung-ra-truong-lam-gi-luong-bao-nhieu-4760468.html) - 04:49 08/07/2024
+- 🌝 [Điểm chuẩn học bạ ĐH Tài chính - Marketing, Mở TP HCM](https://vnexpress.net/diem-chuan-hoc-ba-dh-tai-chinh-marketing-mo-tp-hcm-4766726.html) - 04:12 08/07/2024
+- ⛽️ [Trường AIS nâng cấp cơ sở Thảo Điền, Thủ Thiêm](https://vnexpress.net/truong-ais-nang-cap-co-so-thao-dien-thu-thiem-4766641.html) - 03:00 08/07/2024
+- 🌜 [Nữ giảng viên ứng dụng công nghệ vào đào tạo thiết kế mỹ thuật số](https://vnexpress.net/nu-giang-vien-ung-dung-cong-nghe-vao-dao-tao-thiet-ke-my-thuat-so-4763693.html) - 01:00 08/07/2024
+- ⚗️ [Gần 50 trường công bố điểm chuẩn đánh giá năng lực, tư duy](https://vnexpress.net/gan-50-truong-cong-bo-diem-chuan-danh-gia-nang-luc-tu-duy-4766598.html) - 00:03 08/07/2024
+- 🧰 [Tỉnh nào từng sáp nhập với Phú Thọ?](https://vnexpress.net/tinh-nao-tung-sap-nhap-voi-phu-tho-4767157.html) - 13:00 07/07/2024
+- 🤗 [Ba phút tự học bảng phiên âm tiếng Anh Mỹ](https://vnexpress.net/ba-phut-tu-hoc-bang-phien-am-tieng-anh-my-4767123.html) - 07:59 07/07/2024
+- 🔥 [Học mảng nào của ngành IT để kiếm được việc tốt?](https://vnexpress.net/hoc-mang-nao-cua-nganh-it-de-kiem-duoc-viec-tot-4765879.html) - 07:43 07/07/2024
+- 💪 [Nam sinh Huế giành vé vào chung kết Đường lên đỉnh Olympia](https://vnexpress.net/nam-sinh-hue-gianh-ve-vao-chung-ket-duong-len-dinh-olympia-4767111.html) - 07:31 07/07/2024
+- 💂 [Chàng trai tốt nghiệp thủ khoa Sư phạm Hóa nhờ &#39;kỷ luật học tập&#39;](https://vnexpress.net/chang-trai-tot-nghiep-thu-khoa-su-pham-hoa-nho-ky-luat-hoc-tap-4766507.html) - 00:49 07/07/2024
+- 🌮 [Cây cao nhất thế giới cao bao nhiêu?](https://vnexpress.net/cay-cao-nhat-the-gioi-cao-bao-nhieu-4766939.html) - 13:37 06/07/2024
+- 🪄 [Cách dùng &#39;fun&#39; và &#39;funny&#39;](https://vnexpress.net/cach-dung-fun-va-funny-4766887.html) - 10:10 06/07/2024
+- 🎡 [Thí sinh vượt trăm km về Hà Nội thi vào trường công an](https://vnexpress.net/ky-thi-danh-gia-nang-luc-bo-cong-an-nam-2024-4766906.html) - 09:59 06/07/2024
+- 🌈 [Việt Nam tranh tài tại cuộc thi sáng kiến tiết kiệm năng lượng thế giới](https://vnexpress.net/viet-nam-tranh-tai-tai-cuoc-thi-sang-kien-tiet-kiem-nang-luong-the-gioi-4766678.html) - 03:00 06/07/2024
+- 🎊 [Nam sinh vào đại học ở tuổi 16](https://vnexpress.net/nam-sinh-vao-dai-hoc-o-tuoi-16-4758215.html) - 02:57 06/07/2024
+- ⚗️ [25 điểm có thể đỗ trường Kinh tế nào?](https://vnexpress.net/25-diem-co-the-do-truong-kinh-te-nao-4764474.html) - 17:00 05/07/2024
+- 🌁 [Trưởng phòng Giáo dục xin lỗi, sửa đáp án môn Toán thi lớp 6](https://vnexpress.net/truong-phong-giao-duc-xin-loi-sua-dap-an-mon-toan-thi-lop-6-4766702.html) - 16:04 05/07/2024
+- 🦏 [Phố nào ở Hà Nội mang tên ngày Toàn quốc kháng chiến?](https://vnexpress.net/pho-nao-o-ha-noi-mang-ten-ngay-toan-quoc-khang-chien-4766620.html) - 13:18 05/07/2024
+- 👍 [Gần 130 thí sinh đỗ sớm vào 8 trường công an](https://vnexpress.net/gan-130-thi-sinh-do-som-vao-8-truong-cong-an-4766638.html) - 12:30 05/07/2024
+- 🌈 [Giải bóng đá Đức vào đề thi lớp 6 trường Trần Đại Nghĩa](https://vnexpress.net/de-thi-lop-6-truong-tran-dai-nghia-nam-2024-4766601.html) - 09:25 05/07/2024
+- 🕴 [Nữ sinh Hải Phòng đạt điểm SAT tuyệt đối](https://vnexpress.net/nu-sinh-hai-phong-dat-diem-sat-tuyet-doi-4766246.html) - 07:08 05/07/2024
+- 🧰 [22 bài thi tốt nghiệp môn Văn bị giám thị ký nhầm](https://vnexpress.net/22-bai-thi-tot-nghiep-mon-van-bi-giam-thi-ky-nham-4766465.html) - 04:43 05/07/2024<!-- vnexpress-giao-duc:END -->
