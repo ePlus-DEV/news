@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Vỉa hè trung tâm TP HCM sau hai tháng thu phí](https://vnexpress.net/via-he-trung-tam-tp-hcm-sau-hai-thang-thu-phi-4767673.html) - 22:00 11/07/2024
 - 🤓 [Đề xuất chi gần 2.500 tỷ đồng thay thế, sửa chữa cầu yếu ở Hà Nội](https://vnexpress.net/de-xuat-chi-gan-2-500-ty-dong-thay-the-sua-chua-cau-yeu-o-ha-noi-4769002.html) - 17:00 11/07/2024
-- ⚗️ [Quy định vượt xe trên đường](https://vnexpress.net/quy-dinh-vuot-xe-tren-duong-4768660.html) - 17:00 11/07/2024
+- ⚗️ [Vượt xe thế nào mới đúng luật](https://vnexpress.net/vuot-xe-the-nao-moi-dung-luat-4768660.html) - 17:00 11/07/2024
 - 🌊 [Quảng Nam miễn phí dịch vụ công trực tuyến](https://vnexpress.net/quang-nam-mien-phi-dich-vu-cong-truc-tuyen-4768956.html) - 16:09 11/07/2024
 - 🎓 [Khu vui chơi xây không phép ở Lâm Đồng](https://vnexpress.net/khu-vui-choi-xay-khong-phep-sun-valley-farm-4768962.html) - 12:10 11/07/2024
 - 🔥 [Người phụ nữ tát cháu bé 3 tuổi bị phạt](https://vnexpress.net/nguoi-phu-nu-tat-chau-be-3-tuoi-bi-phat-4768952.html) - 10:46 11/07/2024
