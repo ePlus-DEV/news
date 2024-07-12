@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Khoai tây chiên &#39;nở hoa&#39;](https://vnexpress.net/khoai-tay-chien-no-hoa-4769331.html) - 10:32 12/07/2024
+- 🚀 [Khoai tây chiên &#39;nở hoa&#39;](https://vnexpress.net/doi-song-cooking-khoai-tay-chien-no-hoa-4769331.html) - 10:32 12/07/2024
 - 🎓 [5 cách đơn giản khử mùi hôi tủ lạnh](https://vnexpress.net/5-cach-don-gian-khu-mui-hoi-tu-lanh-4768727.html) - 08:19 12/07/2024
 - 🚦 [Ghen tuông có phải là dấu hiệu của tình yêu?](https://vnexpress.net/ghen-tuong-co-phai-la-dau-hieu-cua-tinh-yeu-4769302.html) - 08:11 12/07/2024
 - 🦣 [Giới trẻ Trung Quốc trọng thú cưng hơn bạn đời](https://vnexpress.net/gioi-tre-trung-quoc-trong-thu-cung-hon-ban-doi-4768275.html) - 04:42 12/07/2024
