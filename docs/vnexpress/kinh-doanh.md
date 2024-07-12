@@ -50,8 +50,8 @@ sidebar_position: 3
 - ⚗️ [Khối ngoại bán ròng 23 phiên liên tiếp](https://vnexpress.net/khoi-ngoai-ban-rong-23-phien-lien-tiep-4767534.html) - 08:39 08/07/2024
 - 🌈 [Tasco mua lại nhà nhập khẩu xe Volvo tại Việt Nam](https://vnexpress.net/tasco-mua-lai-nha-nhap-khau-xe-volvo-tai-viet-nam-4767489.html) - 07:56 08/07/2024
 - 🌝 [Mừng, lo sau tăng lương](https://vnexpress.net/mung-lo-sau-tang-luong-4766468.html) - 02:30 08/07/2024
-- 🥸 [LPbank tung gói vay 4.000 tỷ lãi suất thấp cho doanh nghiệp](https://vnexpress.net/lpbank-tung-goi-vay-4-000-ty-lai-suat-thap-cho-doanh-nghiep-4767181.html) - 01:00 08/07/2024
-- 🦆 [VIB hợp tác Amazon tích hợp nền tảng đào tạo](https://vnexpress.net/vib-hop-tac-amazon-tich-hop-nen-tang-dao-tao-4767182.html) - 01:00 08/07/2024
+- 🥸 [VIB hợp tác Amazon tích hợp nền tảng đào tạo](https://vnexpress.net/vib-hop-tac-amazon-tich-hop-nen-tang-dao-tao-4767182.html) - 01:00 08/07/2024
+- 🦆 [LPbank tung gói vay 4.000 tỷ lãi suất thấp cho doanh nghiệp](https://vnexpress.net/lpbank-tung-goi-vay-4-000-ty-lai-suat-thap-cho-doanh-nghiep-4767181.html) - 01:00 08/07/2024
 - 🌋 [Hải Phòng đầu tư, phát triển nhà ở xã hội ra sao](https://vnexpress.net/hai-phong-dau-tu-phat-trien-nha-o-xa-hoi-ra-sao-4761074.html) - 22:00 07/07/2024
 - 🦍 [Nhiều quỹ mở tăng gấp 2-3 lần VN-Index](https://vnexpress.net/nhieu-quy-mo-tang-gap-2-3-lan-vn-index-4767211.html) - 21:00 07/07/2024
 - 🤔 [Elon Musk là tỷ phú mất nhiều tiền nhất nửa đầu 2024](https://vnexpress.net/elon-musk-la-ty-phu-mat-nhieu-tien-nhat-nua-dau-2024-4766990.html) - 19:00 07/07/2024
