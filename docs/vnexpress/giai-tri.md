@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Phạm Tuấn Ngọc đăng quang Mr World Vietnam 2024](https://vnexpress.net/pham-tuan-ngoc-dang-quang-mr-world-vietnam-2024-4769666.html) - 15:43 13/07/2024
+- 🌏 [Tuấn Ngọc đăng quang Mr World Vietnam 2024](https://vnexpress.net/tuan-ngoc-dang-quang-mr-world-vietnam-2024-4769666.html) - 15:43 13/07/2024
 - 💫 [Hoa hậu, á hậu dự chung kết Mr World Vietnam](https://vnexpress.net/hoa-hau-a-hau-du-chung-ket-mr-world-vietnam-4769670.html) - 13:08 13/07/2024
 - 🌮 [&#39;Chậm lại 5 phút&#39; để nghĩ về cuộc sống](https://vnexpress.net/cham-lai-5-phut-de-nghi-ve-cuoc-song-4768473.html) - 11:47 13/07/2024
 - 🧠 [Dàn sao dự đám cưới nhà tỷ phú giàu nhất châu Á](https://vnexpress.net/dan-sao-du-dam-cuoi-nha-ty-phu-giau-nhat-chau-a-4769649.html) - 10:39 13/07/2024
