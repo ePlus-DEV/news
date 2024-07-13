@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Giây phút tử thần bên xe 16 chỗ ở Hà Giang](https://vnexpress.net/giay-phut-tu-than-ben-xe-16-cho-o-ha-giang-4769650.html) - 12:29 13/07/2024
+- 🦒 [Nạn nhân vụ sạt lở ở Hà Giang: &#39;Em đã nghĩ tới cái chết&#39;](https://vnexpress.net/nan-nhan-vu-sat-lo-o-ha-giang-em-da-nghi-toi-cai-chet-4769650.html) - 12:29 13/07/2024
 - 🤓 [Áp thấp nhiệt đới hình thành trên Biển Đông](https://vnexpress.net/ap-thap-nhiet-doi-hinh-thanh-tren-bien-dong-4769659.html) - 11:34 13/07/2024
 - ⚗️ [Chú rể đuổi đánh tài xế xe ben sau va chạm](https://vnexpress.net/chu-re-duoi-danh-tai-xe-xe-ben-sau-va-cham-4769617.html) - 07:49 13/07/2024
 - 🌊 [Bới đất tìm kiếm nạn nhân bị vùi lấp ở Hà Giang](https://vnexpress.net/boi-dat-tim-kiem-nan-nhan-bi-vui-lap-o-ha-giang-4769557.html) - 05:20 13/07/2024
