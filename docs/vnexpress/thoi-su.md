@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Sạt lở vùi xe 16 chỗ, 5 người chết](https://vnexpress.net/sat-lo-vui-xe-16-cho-5-nguoi-chet-4769474.html) - 01:04 13/07/2024
+- 🦒 [Sạt lở vùi xe 16 chỗ, 9 người chết](https://vnexpress.net/sat-lo-vui-xe-16-cho-9-nguoi-chet-4769474.html) - 01:04 13/07/2024
 - 🤓 [Cảnh sát giao thông bị xe tông tại chốt đo nồng độ cồn](https://vnexpress.net/canh-sat-giao-thong-bi-xe-tong-tai-chot-do-nong-do-con-4769460.html) - 00:13 13/07/2024
 - ⚗️ [Thuê &#39;thần đèn&#39; dời nhà khỏi tuyến cao tốc Bùng - Vạn Ninh](https://vnexpress.net/thue-than-den-doi-nha-khoi-tuyen-cao-toc-bung-van-ninh-4769328.html) - 17:21 12/07/2024
 - 🌊 [Tàu cứu hộ, duy tu bảo dưỡng trên metro Nhổn - ga Hà Nội](https://vnexpress.net/tau-cuu-ho-duy-tu-bao-duong-tren-metro-nhon-ga-ha-noi-4768821.html) - 17:00 12/07/2024
