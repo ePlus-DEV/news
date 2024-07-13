@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Giá yen lên cao nhất 4 tuần](https://vnexpress.net/gia-yen-len-cao-nhat-4-tuan-4769443.html) - 23:23 12/07/2024
 - 🐲 [&#39;Sầu riêng đắt nhất Việt Nam&#39; rớt giá mạnh](https://vnexpress.net/sau-rieng-dat-nhat-viet-nam-rot-gia-manh-4769344.html) - 21:04 12/07/2024
-- 🔥 [100.000 đồng một kg tôm càng xanh](https://vnexpress.net/100-000-dong-mot-kg-tom-cang-xanh-4769139.html) - 17:00 12/07/2024
+- 🔥 [Giá tôm càng xanh xuống đáy còn 100.000 đồng một kg](https://vnexpress.net/gia-tom-cang-xanh-xuong-day-con-100-000-dong-mot-kg-4769139.html) - 17:00 12/07/2024
 - 🐵 [Đề xuất điện mặt trời mái nhà tự dùng bán cho EVN giá 671 đồng một kWh](https://vnexpress.net/de-xuat-dien-mat-troi-mai-nha-tu-dung-ban-cho-evn-gia-671-dong-mot-kwh-4769393.html) - 12:01 12/07/2024
 - 🦅 [Hàng chục tàu bị bỏ không sau khi chở dầu Nga](https://vnexpress.net/hang-chuc-tau-bi-bo-khong-sau-khi-cho-dau-nga-4769369.html) - 10:24 12/07/2024
 - 😺 [Cách nhận biết lừa đảo tuyển dụng trực tuyến](https://vnexpress.net/cach-nhan-biet-lua-dao-tuyen-dung-truc-tuyen-4768859.html) - 09:00 12/07/2024
