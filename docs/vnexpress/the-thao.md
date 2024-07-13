@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [8.000 runner xuất phát tại VM Danang Midnight](https://vnexpress.net/8-000-runner-xuat-phat-tai-vm-danang-midnight-4769663.html) - 18:30 13/07/2024
+- 🪜 [Runner Kenya, Ethiopia thay nhau dẫn đầu 42km ở VM Danang Midnight](https://vnexpress.net/runner-kenya-ethiopia-thay-nhau-dan-dau-42km-o-vm-danang-midnight-4769663.html) - 18:30 13/07/2024
 - 🦩 [Việt Nam thêm huy chương golf nghiệp dư đồng đội Đông Nam Á](https://vnexpress.net/viet-nam-them-huy-chuong-golf-nghiep-du-dong-doi-dong-nam-a-4769667.html) - 12:10 13/07/2024
 - 🧰 [Rodri dè chừng khả năng bùng nổ của Foden](https://vnexpress.net/rodri-de-chung-kha-nang-bung-no-cua-foden-4769646.html) - 10:04 13/07/2024
 - 🤗 [HLV Uruguay tố ban tổ chức Copa America &#39;dối trá&#39;](https://vnexpress.net/hlv-uruguay-to-ban-to-chuc-copa-america-doi-tra-4769640.html) - 09:28 13/07/2024
