@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [8.000 runner xuất phát tại VM Danang Midnight](https://vnexpress.net/8-000-runner-xuat-phat-tai-vm-danang-midnight-4769663.html) - 18:30 13/07/2024
+- 🚀 [Runner Kenya, Ethiopia thay nhau dẫn đầu 42km ở VM Danang Midnight](https://vnexpress.net/runner-kenya-ethiopia-thay-nhau-dan-dau-42km-o-vm-danang-midnight-4769663.html) - 18:30 13/07/2024
 - 🧰 [Quay video đòi nợ nhưng không phát tán trên mạng, có sao không?](https://vnexpress.net/quay-video-doi-no-nhung-khong-phat-tan-tren-mang-co-sao-khong-4769142.html) - 18:05 13/07/2024
 - 🥰 [Trộm 7 hòm công đức trong chùa](https://vnexpress.net/trom-7-hom-cong-duc-trong-chua-4769664.html) - 18:00 13/07/2024
 - 🌏 [Phần Lan lần thứ hai vô địch lễ hội pháo hoa quốc tế Đà Nẵng](https://vnexpress.net/phan-lan-lan-thu-hai-vo-dich-le-hoi-phao-hoa-quoc-te-da-nang-4769706.html) - 17:41 13/07/2024
