@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Làng cổ ở Seoul quá tải du khách](https://vnexpress.net/lang-co-o-seoul-qua-tai-du-khach-4769567.html) - 06:52 13/07/2024
-- 🪄 [Lễ hội &#39;bò đuổi&#39; ở Tây Ban Nha](https://vnexpress.net/le-hoi-bo-duoi-o-tay-ban-nha-4769449.html) - 06:28 13/07/2024
+- 🪄 [Lễ hội &#39;bò đuổi&#39; thu hút hàng chục nghìn người](https://vnexpress.net/le-hoi-bo-duoi-thu-hut-hang-chuc-nghin-nguoi-4769449.html) - 06:28 13/07/2024
 - 🦅 [Trải nghiệm ở Tam Giác Vàng](https://vnexpress.net/trai-nghiem-o-tam-giac-vang-4768640.html) - 01:00 13/07/2024
 - 🕴 [Lăng mộ ba vua triều Nguyễn trùng tu xong gần một năm vẫn đóng cửa](https://vnexpress.net/lang-mo-ba-vua-trieu-nguyen-trung-tu-xong-gan-mot-nam-van-dong-cua-4769435.html) - 00:00 13/07/2024
 - 👀 [Pháp ngăn chặn kịp thời đám cháy ở nhà thờ Rouen lịch sử](https://vnexpress.net/phap-ngan-chan-kip-thoi-dam-chay-o-nha-tho-rouen-lich-su-4769382.html) - 17:00 12/07/2024
