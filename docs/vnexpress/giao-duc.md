@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Ngỡ ngàng vì con phải đi học xa nhà hơn 7 km](https://vnexpress.net/ngo-ngang-vi-con-phai-di-hoc-xa-nha-hon-7-km-4769007.html) - 17:05 12/07/2024
+- 🤓 [Ngỡ ngàng vì con phải đi học xa nhà 5-7 km](https://vnexpress.net/ngo-ngang-vi-con-phai-di-hoc-xa-nha-5-7-km-4769007.html) - 17:05 12/07/2024
 - 🦆 [Thị trấn có tên dài nhất cả nước ở tỉnh nào?](https://vnexpress.net/thi-tran-co-ten-dai-nhat-ca-nuoc-o-tinh-nao-4769367.html) - 14:16 12/07/2024
 - 🦩 [Hơn 60 trường ở Hà Nội hạ điểm chuẩn lớp 10](https://vnexpress.net/danh-sach-truong-ha-diem-chuan-lop-10-cua-ha-noi-nam-2024-4768034.html) - 12:21 12/07/2024
 - 🌮 [Thêm 8 trường quân đội công bố điểm chuẩn học bạ, đánh giá năng lực](https://vnexpress.net/them-8-truong-quan-doi-cong-bo-diem-chuan-hoc-ba-danh-gia-nang-luc-4769307.html) - 09:55 12/07/2024
