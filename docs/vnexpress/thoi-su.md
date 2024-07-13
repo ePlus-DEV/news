@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Rà từng góc đất tìm kiếm nạn nhân bị vùi lấp ở Hà Giang](https://vnexpress.net/ra-tung-goc-dat-tim-kiem-nan-nhan-bi-vui-lap-o-ha-giang-4769557.html) - 05:20 13/07/2024
+- 🦒 [Bới đất tìm kiếm nạn nhân bị vùi lấp ở Hà Giang](https://vnexpress.net/boi-dat-tim-kiem-nan-nhan-bi-vui-lap-o-ha-giang-4769557.html) - 05:20 13/07/2024
 - 🤓 [Sân golf đồi Cù Đà Lạt không còn đất rừng phòng hộ](https://vnexpress.net/doi-cu-da-lat-san-golf-doi-cu-4769445.html) - 03:42 13/07/2024
 - ⚗️ [Tàu cao tốc đi Phú Quốc, Côn Đảo, Phú Quý dừng chạy](https://vnexpress.net/tau-cao-toc-di-phu-quoc-con-dao-phu-quy-dung-chay-4769545.html) - 03:33 13/07/2024
 - 🌊 [Sạt lở vùi xe 16 chỗ ở Hà Giang, 10 người chết](https://vnexpress.net/sat-lo-vui-xe-16-cho-8-nguoi-chet-4769474.html) - 01:04 13/07/2024
