@@ -6,7 +6,7 @@ sidebar_position: 6
 <!-- vnexpress-doi-song:START -->
 - 🚀 [4 nguyên tắc &#39;vàng&#39; dạy con thành tiến sĩ năm 17 tuổi](https://vnexpress.net/4-nguyen-tac-vang-day-con-thanh-tien-si-nam-17-tuoi-4769452.html) - 05:20 13/07/2024
 - 🎓 [9 cách tiêu tiền khiến người nghèo mãi nghèo](https://vnexpress.net/9-cach-tieu-tien-khien-nguoi-ngheo-mai-ngheo-4769468.html) - 05:17 13/07/2024
-- 🚦 [Cơn sốt chơi Pickelball của người thành thị](https://vnexpress.net/con-sot-choi-pickelball-cua-nguoi-thanh-thi-4769341.html) - 23:00 12/07/2024
+- 🚦 [Cơn sốt chơi Pickleball của người thành thị](https://vnexpress.net/con-sot-choi-pickleball-cua-nguoi-thanh-thi-4769341.html) - 23:00 12/07/2024
 - 🦣 [Văn hóa thưởng thức cà phê Việt Nam quảng bá trên CNN](https://vnexpress.net/van-hoa-thuong-thuc-ca-phe-viet-nam-quang-ba-tren-cnn-4769029.html) - 14:15 12/07/2024
 - 🎓 [Người dân đồng loạt tiêm vaccine ngừa bạch hầu](https://vnexpress.net/nguoi-dan-dong-loat-tiem-vaccine-ngua-bach-hau-4769404.html) - 12:30 12/07/2024
 - 🎭 [Khoai tây chiên &#39;nở hoa&#39;](https://vnexpress.net/doi-song-cooking-khoai-tay-chien-no-hoa-4769331.html) - 10:32 12/07/2024
