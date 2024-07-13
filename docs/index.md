@@ -42,7 +42,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎬 [Vì sao Yamal chưa từng khoe ảnh chụp với Messi?](https://vnexpress.net/vi-sao-yamal-chua-tung-khoe-anh-chup-voi-messi-4769589.html) - 05:31 13/07/2024
 - 🚀 [Tỷ phú Ấn Độ thuê 100 máy bay chở khách dự đám cưới con trai](https://vnexpress.net/ty-phu-an-do-thue-100-may-bay-cho-khach-du-dam-cuoi-con-trai-4769570.html) - 05:27 13/07/2024
 - 🪄 [Trường Giang chạy cùng 2.000 em nhỏ Kun Marathon Đà Nẵng](https://vnexpress.net/truong-giang-chay-cung-2-000-em-nho-kun-marathon-da-nang-4769587.html) - 05:22 13/07/2024
-- 😎 [Bới đất tìm kiếm nạn nhân bị vùi lấp ở Hà Giang](https://vnexpress.net/boi-dat-tim-kiem-nan-nhan-bi-vui-lap-o-ha-giang-4769557.html) - 05:20 13/07/2024
+- 😎 [Rà từng góc đất tìm kiếm nạn nhân bị vùi lấp ở Hà Giang](https://vnexpress.net/ra-tung-goc-dat-tim-kiem-nan-nhan-bi-vui-lap-o-ha-giang-4769557.html) - 05:20 13/07/2024
 - 🎊 [4 nguyên tắc &#39;vàng&#39; dạy con thành tiến sĩ năm 17 tuổi](https://vnexpress.net/4-nguyen-tac-vang-day-con-thanh-tien-si-nam-17-tuoi-4769452.html) - 05:20 13/07/2024
 - ⚗️ [9 cách tiêu tiền khiến người nghèo mãi nghèo](https://vnexpress.net/9-cach-tieu-tien-khien-nguoi-ngheo-mai-ngheo-4769468.html) - 05:17 13/07/2024
 - 🫣 [Cuộc đua đầy năng lượng của 2.000 trẻ em tại Đà Nẵng](https://vnexpress.net/cuoc-dua-day-nang-luong-cua-2-000-tre-em-tai-da-nang-4769549.html) - 05:16 13/07/2024
@@ -57,7 +57,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐲 [Tiết mục của Negav, Quang Hùng MasterD hút triệu lượt xem](https://vnexpress.net/tiet-muc-cua-negav-quang-hung-masterd-hut-trieu-luot-xem-4765756.html) - 04:24 13/07/2024
 - 🌜 [Xe tải xả vật liệu ra đường có bị phạt?](https://vnexpress.net/xe-tai-xa-vat-lieu-ra-duong-co-bi-phat-4769296.html) - 04:24 13/07/2024
 - 💄 [Phụ huynh sốt sắng &#39;cơ hội cuối&#39; vào lớp 10 công lập](https://vnexpress.net/phu-huynh-sot-sang-co-hoi-cuoi-vao-lop-10-cong-lap-4769525.html) - 04:18 13/07/2024
-- 🌁 [Euro ngày 13/7: Nữ MC khoe dáng với bikini sau khi tác nghiệp Euro](https://vnexpress.net/euro-ngay-13-7-nu-mc-khoe-dang-voi-bikini-sau-khi-tac-nghiep-euro-4769536.html) - 04:16 13/07/2024
+- 🌁 [Euro ngày 13/7: Cầu thủ Ngoại hạng Anh chiếm đa số ở chung kết](https://vnexpress.net/euro-ngay-13-7-cau-thu-ngoai-hang-anh-chiem-da-so-o-chung-ket-4769536.html) - 04:16 13/07/2024
 - 🎬 [Elon Musk phủ nhận hiến tinh trùng để gây dựng &#39;thuộc địa Sao Hỏa&#39;](https://vnexpress.net/elon-musk-phu-nhan-hien-tinh-trung-de-gay-dung-thuoc-dia-sao-hoa-4769493.html) - 04:09 13/07/2024
 - 👨‍🏫 [Quận nào được hình thành sớm nhất miền Bắc?](https://vnexpress.net/quan-nao-duoc-hinh-thanh-som-nhat-mien-bac-4767941.html) - 04:00 13/07/2024
 - ⚗️ [Người suy thận dùng thuốc nam được không?](https://vnexpress.net/nguoi-suy-than-dung-thuoc-nam-duoc-khong-4769527.html) - 04:00 13/07/2024
