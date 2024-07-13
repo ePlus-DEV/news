@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Bún bung Hà Nội nấu theo lối cũ](https://vnexpress.net/bun-bung-ha-noi-nau-theo-loi-cu-4769622.html) - 10:46 13/07/2024
+- 🚀 [Bún bung Hà Nội nấu theo lối cũ](https://vnexpress.net/doi-song-cooking-bun-bung-ha-noi-nau-theo-loi-cu-4769622.html) - 10:46 13/07/2024
 - 🎓 [4 nguyên tắc &#39;vàng&#39; dạy con thành tiến sĩ năm 17 tuổi](https://vnexpress.net/4-nguyen-tac-vang-day-con-thanh-tien-si-nam-17-tuoi-4769452.html) - 05:20 13/07/2024
 - 🚦 [9 cách tiêu tiền khiến người nghèo mãi nghèo](https://vnexpress.net/9-cach-tieu-tien-khien-nguoi-ngheo-mai-ngheo-4769468.html) - 05:17 13/07/2024
 - 🦣 [Cơn sốt chơi Pickleball của người thành thị](https://vnexpress.net/con-sot-choi-pickleball-cua-nguoi-thanh-thi-4769341.html) - 23:00 12/07/2024
