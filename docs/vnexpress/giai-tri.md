@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Tranh linh thú của họa sĩ 9x](https://vnexpress.net/tranh-linh-thu-cua-hoa-si-9x-4768855.html) - 08:20 13/07/2024
-- 💫 [Captain America tái xuất](https://vnexpress.net/captain-america-tai-xuat-4769511.html) - 08:00 13/07/2024
+- 💫 [&#39;Captain America&#39; tái xuất](https://vnexpress.net/captain-america-tai-xuat-4769511.html) - 08:00 13/07/2024
 - 🌮 [Rapper Karik ra album đầu tay sau 15 năm](https://vnexpress.net/rapper-karik-ra-album-dau-tay-sau-15-nam-4769195.html) - 07:14 13/07/2024
 - 🧠 [&#39;Anh hùng xạ điêu&#39; 2024 rời rạc, kém sức hút](https://vnexpress.net/anh-hung-xa-dieu-2024-roi-rac-kem-suc-hut-4769569.html) - 05:52 13/07/2024
 - 👨‍🏫 [Tiết mục của Negav, Quang Hùng MasterD hút triệu lượt xem](https://vnexpress.net/tiet-muc-cua-negav-quang-hung-masterd-hut-trieu-luot-xem-4765756.html) - 04:24 13/07/2024
