@@ -13,7 +13,7 @@ sidebar_position: 5
 - 🌜 [Trường Giang chạy cùng 2.000 em nhỏ Kun Marathon Đà Nẵng](https://vnexpress.net/truong-giang-chay-cung-2-000-em-nho-kun-marathon-da-nang-4769587.html) - 05:22 13/07/2024
 - 🫶 [Cuộc đua đầy năng lượng của 2.000 trẻ em tại Đà Nẵng](https://vnexpress.net/cuoc-dua-day-nang-luong-cua-2-000-tre-em-tai-da-nang-4769549.html) - 05:16 13/07/2024
 - 🌜 [Runner quốc tế ấn tượng với giải chạy đêm Đà Nẵng](https://vnexpress.net/runner-quoc-te-an-tuong-voi-giai-chay-dem-da-nang-4769355.html) - 05:02 13/07/2024
-- 😺 [Euro ngày 13/7: Pep Guardiola được tiến cử thay Southgate](https://vnexpress.net/euro-ngay-13-7-pep-guardiola-duoc-tien-cu-thay-southgate-4769536.html) - 04:16 13/07/2024
+- 😺 [Euro ngày 13/7: Yamal nguy cơ bị cấm đá hiệp phụ chung kết](https://vnexpress.net/euro-ngay-13-7-yamal-nguy-co-bi-cam-da-hiep-phu-chung-ket-4769536.html) - 04:16 13/07/2024
 - 👍 [Lâm Quang Nhật bảo vệ thành công HC vàng triathlon quốc gia](https://vnexpress.net/lam-quang-nhat-bao-ve-thanh-cong-hc-vang-triathlon-quoc-gia-4769556.html) - 03:50 13/07/2024
 - 🐵 [Báo Đức: &#39;Tuyển Anh gian lận để vào chung kết Euro 2024&#39;](https://vnexpress.net/bao-duc-tuyen-anh-gian-lan-de-vao-chung-ket-euro-2024-4769469.html) - 03:48 13/07/2024
 - 💫 [2.000 trẻ em thi chạy ở Đà Nẵng](https://vnexpress.net/2-000-tre-em-thi-chay-o-da-nang-4769533.html) - 03:00 13/07/2024
