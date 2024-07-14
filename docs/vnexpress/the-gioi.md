@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Mật vụ Mỹ bị chê phản ứng chậm trong vụ ông Trump bị bắn](https://vnexpress.net/mat-vu-my-bi-che-phan-ung-cham-trong-vu-ong-trump-bi-ban-4769763.html) - 05:05 14/07/2024
-- 🕴 [Nghi phạm ám sát hụt ông Trump là &#39;thanh niên 20 tuổi&#39;](https://vnexpress.net/nghi-pham-am-sat-hut-ong-trump-la-thanh-nien-20-tuoi-4769801.html) - 04:53 14/07/2024
+- 🕴 [FBI xác định nghi phạm ám sát hụt ông Trump](https://vnexpress.net/fbi-xac-dinh-nghi-pham-am-sat-hut-ong-trump-4769801.html) - 04:53 14/07/2024
 - 🤭 [Người ủng hộ Trump: &#39;Không ai có thể hạ gục ngài&#39;](https://vnexpress.net/nguoi-ung-ho-trump-khong-ai-co-the-ha-guc-ngai-4769757.html) - 04:13 14/07/2024
 - 🧑‍💻 [Lãnh đạo thế giới sốc khi ông Trump bị bắn](https://vnexpress.net/lanh-dao-the-gioi-soc-khi-ong-trump-bi-ban-4769743.html) - 02:21 14/07/2024
 - 🦏 [Cảnh hỗn loạn khi ông Trump bị bắn](https://vnexpress.net/canh-hon-loan-khi-ong-trump-bi-ban-4769738.html) - 02:04 14/07/2024
