@@ -17,7 +17,7 @@ sidebar_position: 5
 - 👍 [Tây Ban Nha - Anh: Đại chiến giữa hai trường phái](https://vnexpress.net/tay-ban-nha-anh-dai-chien-giua-hai-truong-phai-4769818.html) - 05:40 14/07/2024
 - 🐵 [Southgate: &#39;Trận chung kết Euro 2024 quyết định thành bại với Anh&#39;](https://vnexpress.net/southgate-tran-chung-ket-euro-2024-quyet-dinh-thanh-bai-voi-anh-4769808.html) - 04:58 14/07/2024
 - 💫 [Runner được ưu đãi, tặng quà tại VnExpress Marathon Danang Midnight](https://vnexpress.net/runner-duoc-uu-dai-tang-qua-tai-vnexpress-marathon-danang-midnight-4769696.html) - 04:26 14/07/2024
-- 🦆 [Euro ngày 14/7: Chủ mới Man Utd nhắn Shaw đừng chấn thương](https://vnexpress.net/euro-ngay-14-7-chu-moi-man-utd-nhan-shaw-dung-chan-thuong-4769769.html) - 04:05 14/07/2024
+- 🦆 [Euro ngày 14/7: Đại bàng dự đoán Anh thắng Tây Ban Nha](https://vnexpress.net/euro-ngay-14-7-dai-bang-du-doan-anh-thang-tay-ban-nha-4769769.html) - 04:05 14/07/2024
 - 🙉 [Djokovic, Alcaraz cùng hướng tới kỷ lục ở chung kết Wimbledon](https://vnexpress.net/djokovic-alcaraz-cung-huong-toi-ky-luc-o-chung-ket-wimbledon-4769745.html) - 03:09 14/07/2024
 - 📝 [Morata muốn tái hiện khoảnh khắc Casillas nâng danh hiệu Euro](https://vnexpress.net/morata-muon-tai-hien-khoanh-khac-casillas-nang-danh-hieu-euro-4769762.html) - 03:08 14/07/2024
 - 💯 [Thể lực là lợi thế của Tây Ban Nha so với Anh](https://vnexpress.net/the-luc-la-loi-the-cua-tay-ban-nha-so-voi-anh-4769760.html) - 02:41 14/07/2024
