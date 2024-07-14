@@ -212,7 +212,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Lao Động
 <!-- laodong:START -->
 - 🗽 [Link xem trực tiếp bóng đá Argentina vs Colombia tại chung kết Copa America 2024](https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-argentina-vs-colombia-tai-chung-ket-copa-america-2024-1366264.ldo) - 18:00 14/07/2024
-- 📝 [Trực tiếp bóng đá Tây Ban Nha 1-1 Anh:  Palmer gỡ hòa](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-tay-ban-nha-1-1-anh-palmer-go-hoa-1366203.ldo) - 17:30 14/07/2024
+- 📝 [Trực tiếp bóng đá Tây Ban Nha 2-1 Anh:  Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-tay-ban-nha-2-1-anh-hiep-2-1366203.ldo) - 17:30 14/07/2024
 - 🦏 [Kết quả bóng chuyền Cúp Quân đội mở rộng 14.7: Hóa chất Đức Giang, Vietinbank chiến thắng](https://laodong.vn/the-thao/ket-qua-bong-chuyen-cup-quan-doi-mo-rong-147-hoa-chat-duc-giang-vietinbank-chien-thang-1366308.ldo) - 16:31 14/07/2024
 - 🦩 [Bạn có thể tăng cân ở mặt và bụng do loại hormone này](https://laodong.vn/suc-khoe/ban-co-the-tang-can-o-mat-va-bung-do-loai-hormone-nay-1366198.ldo) - 15:30 14/07/2024
 - 🦏 [Sản vật biển &quot;cỡ lớn&quot; đi dạo chơi khắp tuyến phố ở Bình Định](https://laodong.vn/van-hoa-giai-tri/san-vat-bien-co-lon-di-dao-choi-khap-tuyen-pho-o-binh-dinh-1366294.ldo) - 15:18 14/07/2024
