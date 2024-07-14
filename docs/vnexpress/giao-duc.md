@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Vì sao gần 60 trường công ở Hà Nội hạ điểm chuẩn lớp 10](https://vnexpress.net/vi-sao-gan-60-truong-cong-o-ha-noi-ha-diem-chuan-lop-10-4769673.html) - 07:24 14/07/2024
-- 🦆 [150 chuyên gia quốc tế dự hội nghị SAP ở Việt Nam](https://vnexpress.net/150-chuyen-gia-quoc-te-du-hoi-nghi-sap-o-viet-nam-4769772.html) - 03:30 14/07/2024
+- 🦆 [150 chuyên gia quốc tế dự hội nghị về ứng dụng phần mềm SAP](https://vnexpress.net/150-chuyen-gia-quoc-te-du-hoi-nghi-ve-ung-dung-phan-mem-sap-4769772.html) - 03:30 14/07/2024
 - 🦩 [Nữ sinh kỹ thuật tốt nghiệp sớm loại xuất sắc](https://vnexpress.net/nu-sinh-ky-thuat-tot-nghiep-som-loai-xuat-sac-4768658.html) - 02:54 14/07/2024
 - 🌮 [Việt Nam giành 3 huy chương vàng, vào top 3 Olympic Sinh học quốc tế](https://vnexpress.net/viet-nam-gianh-3-huy-chuong-vang-vao-top-3-olympic-sinh-hoc-quoc-te-4769683.html) - 14:46 13/07/2024
 - 🔭 [Gia nô nào thời Trần sánh ngang hào kiệt nhờ tài bơi lội?](https://vnexpress.net/gia-no-nao-thoi-tran-sanh-ngang-hao-kiet-nho-tai-boi-loi-4769618.html) - 14:07 13/07/2024
