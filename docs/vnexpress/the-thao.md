@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Euro 2024 và nhân tài nhập tịch](https://vnexpress.net/euro-2024-va-nhan-tai-nhap-tich-4769941.html) - 17:00 14/07/2024
-- 🦩 [Tây Ban Nha 2-1 Anh &lpar;H2&rpar;: Oyarzabal ghi bàn phút 86](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-anh-tai-chung-ket-euro-2024-4769924.html) - 15:01 14/07/2024
+- 🦩 [Tây Ban Nha vô địch Euro 2024](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-anh-tai-chung-ket-euro-2024-4769924.html) - 15:01 14/07/2024
 - 🧰 [Omo Chiến binh nhí - không ngại lấm lem kiên trì về đích](https://vnexpress.net/omo-chien-binh-nhi-khong-ngai-lam-lem-kien-tri-ve-dich-4769905.html) - 13:30 14/07/2024
 - 🤗 [Southgate được treo thưởng gấp 10 lần HLV Tây Ban Nha](https://vnexpress.net/southgate-duoc-treo-thuong-gap-10-lan-hlv-tay-ban-nha-4769918.html) - 13:10 14/07/2024
 - 🥳 [Alcaraz thắng Djokovic ở chung kết Wimbledon 2024](https://vnexpress.net/ket-qua-alcaraz-vs-djokovic-4769916-tong-thuat.html) - 12:30 14/07/2024
@@ -16,8 +16,8 @@ sidebar_position: 5
 - 😺 [Giải chạy đêm Đà Nẵng trao thưởng hơn một tỷ đồng](https://vnexpress.net/giai-chay-dem-da-nang-trao-thuong-hon-mot-ty-dong-4769830.html) - 10:06 14/07/2024
 - 👍 [HLV Fuente: &#39;Tây Ban Nha sẽ tấn công, bất kể Anh đá thế nào&#39;](https://vnexpress.net/hlv-fuente-tay-ban-nha-se-tan-cong-bat-ke-anh-da-the-nao-4769855.html) - 10:00 14/07/2024
 - 🐵 [Djokovic và 17 năm &#39;càn quét&#39; trên đỉnh cao](https://vnexpress.net/djokovic-va-17-nam-can-quet-tren-dinh-cao-4769868.html) - 09:33 14/07/2024
-- 💫 [Những kỷ lục có thể bị phá ở chung kết Euro 2024](https://vnexpress.net/nhung-ky-luc-co-the-bi-pha-o-chung-ket-euro-2024-4769864.html) - 09:00 14/07/2024
-- 🦆 [HLV của Alcaraz đặt Djokovic ở cửa trên](https://vnexpress.net/hlv-cua-alcaraz-dat-djokovic-o-cua-tren-4769816.html) - 09:00 14/07/2024
+- 💫 [HLV của Alcaraz đặt Djokovic ở cửa trên](https://vnexpress.net/hlv-cua-alcaraz-dat-djokovic-o-cua-tren-4769816.html) - 09:00 14/07/2024
+- 🦆 [Những kỷ lục có thể bị phá ở chung kết Euro 2024](https://vnexpress.net/nhung-ky-luc-co-the-bi-pha-o-chung-ket-euro-2024-4769864.html) - 09:00 14/07/2024
 - 🙉 [Quang Hải đón con trai đầu lòng](https://vnexpress.net/quang-hai-don-con-trai-dau-long-4769862.html) - 08:12 14/07/2024
 - 📝 [Bản tin Euro: Chờ chung kết trong mơ](https://vnexpress.net/ban-tin-euro-cho-chung-ket-trong-mo-4769860.html) - 08:02 14/07/2024
 - 💯 [Cuộc đua song mã giữa Kiptoo và Keress tại VM Danang Midnight](https://vnexpress.net/cuoc-dua-song-ma-giua-kiptoo-va-keress-tai-vm-danang-midnight-4769817.html) - 07:13 14/07/2024
