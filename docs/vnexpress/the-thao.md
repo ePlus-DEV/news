@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Chung kết Euro 2024](https://vnexpress.net/chung-ket-euro-2024-4769924.html) - 15:01 14/07/2024
 - 🦩 [Omo Chiến binh nhí - không ngại lấm lem kiên trì về đích](https://vnexpress.net/omo-chien-binh-nhi-khong-ngai-lam-lem-kien-tri-ve-dich-4769905.html) - 13:30 14/07/2024
 - 🧰 [Southgate được treo thưởng gấp 10 lần HLV Tây Ban Nha](https://vnexpress.net/southgate-duoc-treo-thuong-gap-10-lan-hlv-tay-ban-nha-4769918.html) - 13:10 14/07/2024
-- 🤗 [Alcaraz thắng Djokovic ở chung kết Wimbledon 2024](https://vnexpress.net/ket-qua-alcaraz-vs-djokovic-4769916.html) - 12:30 14/07/2024
+- 🤗 [Alcaraz thắng Djokovic ở chung kết Wimbledon 2024](https://vnexpress.net/ket-qua-alcaraz-vs-djokovic-4769916-tong-thuat.html) - 12:30 14/07/2024
 - 🥳 [Argentina - Colombia: Vũ điệu cuối của Messi](https://vnexpress.net/argentina-colombia-vu-dieu-cuoi-cua-messi-4769911.html) - 11:58 14/07/2024
 - 🦣 [Những thói quen &#39;mê tín&#39; của cầu thủ Anh](https://vnexpress.net/nhung-thoi-quen-me-tin-cua-cau-thu-anh-4769702.html) - 11:53 14/07/2024
 - 🌜 [Messi mong Di Maria có màn chia tay trọn vẹn với Argentina](https://vnexpress.net/messi-mong-di-maria-co-man-chia-tay-tron-ven-voi-argentina-4769909.html) - 11:52 14/07/2024
