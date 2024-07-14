@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Nổ súng tại sự kiện vận động tranh cử của ông Trump](https://vnexpress.net/no-sung-tai-su-kien-van-dong-tranh-cu-cua-ong-trump-4769722.html) - 23:01 13/07/2024
+- 🎭 [Ông Trump bị bắn khi vận động tranh cử](https://vnexpress.net/no-sung-tai-su-kien-van-dong-tranh-cu-cua-ong-trump-4769722.html) - 23:01 13/07/2024
 - 🕴 [Câu đùa từng giúp Tổng thống Ronald Reagan xóa bỏ lo ngại về tuổi tác](https://vnexpress.net/cau-dua-tung-giup-tong-thong-ronald-reagan-xoa-bo-lo-ngai-ve-tuoi-tac-4768144.html) - 22:00 13/07/2024
 - 🤭 [Cách tiêm kích F-16 có thể giúp Ukraine đạt đột phá trên chiến trường](https://vnexpress.net/cach-tiem-kich-f-16-co-the-giup-ukraine-dat-dot-pha-tren-chien-truong-4768595.html) - 17:00 13/07/2024
 - 🧑‍💻 [Chuyến thăm Lào, Campuchia của Chủ tịch nước Tô Lâm &#39;thành công về mọi mặt&#39;](https://vnexpress.net/chuyen-tham-lao-campuchia-cua-chu-tich-nuoc-to-lam-thanh-cong-ve-moi-mat-4769688.html) - 16:43 13/07/2024
