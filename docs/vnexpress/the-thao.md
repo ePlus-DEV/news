@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Euro 2024 và nhân tài nhập tịch](https://vnexpress.net/euro-2024-va-nhan-tai-nhap-tich-4769941.html) - 17:00 14/07/2024
-- 🦩 [Tây Ban Nha 0-0 Anh &lpar;H1&rpar;: Carvajal giả khóc, chế giễu đối thủ](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-anh-tai-chung-ket-euro-2024-4769924.html) - 15:01 14/07/2024
+- 🦩 [Tây Ban Nha 1-0 Anh &lpar;H2&rpar;: Nico Williams mở tỷ số](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-anh-tai-chung-ket-euro-2024-4769924.html) - 15:01 14/07/2024
 - 🧰 [Omo Chiến binh nhí - không ngại lấm lem kiên trì về đích](https://vnexpress.net/omo-chien-binh-nhi-khong-ngai-lam-lem-kien-tri-ve-dich-4769905.html) - 13:30 14/07/2024
 - 🤗 [Southgate được treo thưởng gấp 10 lần HLV Tây Ban Nha](https://vnexpress.net/southgate-duoc-treo-thuong-gap-10-lan-hlv-tay-ban-nha-4769918.html) - 13:10 14/07/2024
 - 🥳 [Alcaraz thắng Djokovic ở chung kết Wimbledon 2024](https://vnexpress.net/ket-qua-alcaraz-vs-djokovic-4769916-tong-thuat.html) - 12:30 14/07/2024
