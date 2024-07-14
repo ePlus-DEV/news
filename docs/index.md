@@ -45,7 +45,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😎 [Hình ảnh viên đạn &#39;xé gió&#39; qua đầu ông Trump](https://vnexpress.net/hinh-anh-vien-dan-xe-gio-qua-dau-ong-trump-4769935.html) - 16:41 14/07/2024
 - 🎊 [Alcaraz 3-0 Djokovic](https://vnexpress.net/alcaraz-3-0-djokovic-4769940.html) - 16:15 14/07/2024
 - ⚗️ [Ông Macron: Pháp không muốn tình trạng chiến tranh với Nga](https://vnexpress.net/ong-macron-phap-khong-muon-tinh-trang-chien-tranh-voi-nga-4769928.html) - 15:29 14/07/2024
-- 🫣 [Tây Ban Nha 0-0 Anh &lpar;H1&rpar;: Carvajal giả khóc, chế giễu đối thủ](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-anh-tai-chung-ket-euro-2024-4769924.html) - 15:01 14/07/2024
+- 🫣 [Tây Ban Nha 0-0 Anh &lpar;hết H1&rpar;: Kane, Foden phung phí cơ hội](https://vnexpress.net/truc-tiep-tran-tay-ban-nha-vs-anh-tai-chung-ket-euro-2024-4769924.html) - 15:01 14/07/2024
 - 👨‍🏫 [Sáng mai áp thấp nhiệt đới vào Quảng Bình - Quảng Ngãi](https://vnexpress.net/sang-mai-ap-thap-nhiet-doi-vao-quang-binh-quang-ngai-4769925.html) - 14:57 14/07/2024
 - 🐻 [Điểm chuẩn ĐH Bách khoa TP HCM hai năm qua](https://vnexpress.net/diem-chuan-dai-hoc-bach-khoa-tp-hcm-hai-nam-qua-4769733.html) - 14:46 14/07/2024
 - 😺 [&#39;Đi Thái Lan chục lần chưa thấy chán&#39;](https://vnexpress.net/di-thai-lan-chuc-lan-chua-thay-chan-4769856.html) - 14:01 14/07/2024
