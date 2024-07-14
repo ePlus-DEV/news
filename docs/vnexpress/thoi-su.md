@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Nguy hiểm rình rập trên các cung đường Hà Giang](https://vnexpress.net/nguy-hiem-rinh-rap-tren-cac-cung-duong-ha-giang-4769813.html) - 07:18 14/07/2024
 - 🤓 [Mưa từ khuya tới sáng, Phú Quốc ngập thành sông](https://vnexpress.net/mua-tu-khuya-toi-sang-phu-quoc-ngap-thanh-song-4769814.html) - 06:06 14/07/2024
-- ⚗️ [Tai nạn ôtô khách trên cao tốc Trung Lương, 3 người chết](https://vnexpress.net/tai-nan-oto-khach-tren-cao-toc-trung-luong-3-nguoi-chet-4769809.html) - 04:52 14/07/2024
+- ⚗️ [Ôtô khách tông xe 7 chỗ trên cao tốc Trung Lương, ba người chết](https://vnexpress.net/tai-nan-oto-khach-tren-cao-toc-trung-luong-3-nguoi-chet-4769809.html) - 04:52 14/07/2024
 - 🌊 [​Hàng chục điểm sạt lở ở Hà Giang](https://vnexpress.net/hang-chuc-diem-sat-lo-o-ha-giang-4769736.html) - 03:19 14/07/2024
 - 🎓 [Hai thanh niên bị điện giật tử vong](https://vnexpress.net/hai-thanh-nien-bi-dien-giat-tu-vong-4769758.html) - 03:12 14/07/2024
 - 🔥 [Cháy nhà ở TP HCM, 3 mẹ con tử vong](https://vnexpress.net/chay-nha-o-tp-hcm-3-me-con-tu-vong-4769737.html) - 01:04 14/07/2024
