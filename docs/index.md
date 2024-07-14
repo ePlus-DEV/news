@@ -144,7 +144,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Anh - Tây Ban Nha: Chung kết rực lửa, tìm ra nhà vua EURO 2024](https://thanhnien.vn/anh-tay-ban-nha-chung-ket-ruc-lua-tim-ra-nha-vua-euro-2024-18524071418275388.htm) - 17:11 14/07/2024
+- 🤠 [Anh 0-0 Tây Ban Nha: Chung kết rực lửa, tìm ra nhà vua EURO 2024](https://thanhnien.vn/anh-tay-ban-nha-chung-ket-ruc-lua-tim-ra-nha-vua-euro-2024-18524071418275388.htm) - 17:11 14/07/2024
 - 🥸 [Đội tuyển Canada chạy đà hoàn hảo cho World Cup 2026](https://thanhnien.vn/doi-tuyen-canada-chay-da-hoan-hao-cho-world-cup-2026-185240714212220322.htm) - 17:10 14/07/2024
 - 🌁 [Ngày mới với tin tức sức khỏe: Phát hiện thêm lợi ích của nước ép cần tây](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-tac-dung-bat-ngo-cua-nuoc-ep-can-tay-185240714180130933.htm) - 17:10 14/07/2024
 - 🤡 [Mẹo uống cà phê tốt nhất cho người bệnh tiểu đường](https://thanhnien.vn/meo-uong-ca-phe-tot-nhat-cho-nguoi-benh-tieu-duong-185240713185222271.htm) - 17:08 14/07/2024
