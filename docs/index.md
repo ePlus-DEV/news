@@ -141,12 +141,12 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- thanhnien:START -->
 - 🤠 [Phanh tái sinh - trang bị không thể thiếu trên ô tô điện](https://thanhnien.vn/phanh-tai-sinh-trang-bi-khong-the-thieu-tren-o-to-dien-185240707115956295.htm) - 05:36 15/07/2024
 - 🥸 [Trailer &#39;bom tấn&#39; của GTA 6 đạt cột mốc ấn tượng](https://thanhnien.vn/trailer-bom-tan-cua-gta-6-dat-cot-moc-an-tuong-185240715093019571.htm) - 05:34 15/07/2024
-- 🌁 [Điệu Tango cuối của Messi Ở Copa America: Nước mắt tiếc nuối và hạnh phúc](https://thanhnien.vn/dieu-tango-cuoi-cua-messi-o-copa-america-nuoc-mat-tiec-nuoi-va-hanh-phuc-185240715123030834.htm) - 05:33 15/07/2024
+- 🌁 [Điệu Tango cuối của Messi ở Copa America: Nước mắt tiếc nuối và hạnh phúc](https://thanhnien.vn/dieu-tango-cuoi-cua-messi-o-copa-america-nuoc-mat-tiec-nuoi-va-hanh-phuc-185240715123030834.htm) - 05:33 15/07/2024
 - 🤡 [Áp nhất nhiệt đới gây mưa lớn, đáng lo nhất là lũ quét, sạt lở đất](https://thanhnien.vn/ap-nhat-nhiet-doi-gay-mua-lon-dang-lo-nhat-la-lu-quet-sat-lo-dat-185240715121115468.htm) - 05:31 15/07/2024
 - 🎉 [Bellingham giận dữ, ‘đá thúng đụng nia’: Đội tuyển Anh không thi đấu hết sức, quá thất vọng](https://thanhnien.vn/bellingham-gian-du-da-thung-dung-nia-doi-tuyen-anh-khong-thi-dau-het-suc-qua-that-vong-185240715121040578.htm) - 05:27 15/07/2024
 - 🎊 [Cá voi săn mồi xuất hiện ở vùng biển Bình Định](https://thanhnien.vn/ca-voi-san-moi-xuat-hien-o-vung-bien-binh-dinh-185240715112418156.htm) - 05:17 15/07/2024
 - 🤠 [Thêm một bé trai chào đời sau khi được thông tim trong bào thai](https://thanhnien.vn/them-mot-be-trai-chao-doi-sau-khi-duoc-thong-tim-trong-bao-thai-185240715114521406.htm) - 05:13 15/07/2024
-- 💼 [Ngắm từ đường Phước Kiến 137 tuổi trong khuôn viên bệnh viện Nguyễn Trãi](https://thanhnien.vn/ngam-tu-duong-phuoc-kien-137-tuoi-trong-khuon-vien-benh-vien-nguyen-trai-185240630163244172.htm) - 05:12 15/07/2024
+- 💼 [Ngắm từ đường Phước Kiến 137 tuổi trong khuôn viên Bệnh viện Nguyễn Trãi](https://thanhnien.vn/ngam-tu-duong-phuoc-kien-137-tuoi-trong-khuon-vien-benh-vien-nguyen-trai-185240630163244172.htm) - 05:12 15/07/2024
 - 🐻 [Houthi tấn công Israel, Mỹ có động thái mới ở biển Đỏ](https://thanhnien.vn/houthi-tan-cong-israel-my-co-dong-thai-moi-o-bien-do-185240715120044359.htm) - 05:10 15/07/2024
 - 🤔 [Muôn vàn cung bậc cảm xúc của Tiến Linh, BLV Biên Cương khi xem chung kết EURO 2024](https://thanhnien.vn/muon-van-cung-bac-cam-xuc-cua-tien-linh-blv-bien-cuong-khi-xem-chung-ket-euro-2024-185240715113101245.htm) - 05:08 15/07/2024
 - 📝 [Bầu 4 nhân sự HĐND, UBND TP.HCM](https://thanhnien.vn/bau-4-nhan-su-hdnd-ubnd-tphcm-185240715112609062.htm) - 05:03 15/07/2024
