@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [10 khu nghỉ dưỡng được đặt nhiều nhất dịp hè](https://vnexpress.net/10-khu-nghi-duong-duoc-dat-nhieu-nhat-dip-he-4769634.html) - 12:00 15/07/2024
+- 💂 [10 khu nghỉ dưỡng được đặt nhiều dịp hè](https://vnexpress.net/10-khu-nghi-duong-duoc-dat-nhieu-dip-he-4769634.html) - 12:00 15/07/2024
 - 🪄 [TP HCM khuyến khích du khách bay đêm](https://vnexpress.net/tp-hcm-khuyen-khich-du-khach-bay-dem-4770247.html) - 11:17 15/07/2024
 - 🦅 [Ban công nổi tiếng nhất nước Anh mở cửa đón khách](https://vnexpress.net/ban-cong-noi-tieng-nhat-nuoc-anh-mo-cua-don-khach-4770191.html) - 10:03 15/07/2024
 - 🕴 [Canh chua cá Việt Nam vào top ngon nhất thế giới](https://vnexpress.net/canh-chua-ca-viet-nam-vao-top-ngon-nhat-the-gioi-4770103.html) - 06:47 15/07/2024
