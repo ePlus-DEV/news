@@ -11,7 +11,7 @@ sidebar_position: 1
 - 🎓 [Mùa nấm tràm Phú Quốc](https://vnexpress.net/mua-nam-tram-phu-quoc-4767871.html) - 17:00 14/07/2024
 - 🔥 [Sáng mai áp thấp nhiệt đới vào Quảng Bình - Quảng Ngãi](https://vnexpress.net/sang-mai-ap-thap-nhiet-doi-vao-quang-binh-quang-ngai-4769925.html) - 14:57 14/07/2024
 - 🦏 [Tường đổ, cây ngã trong giông lốc tại TP HCM](https://vnexpress.net/tuong-do-cay-nga-trong-giong-loc-tai-tp-hcm-4769899.html) - 11:24 14/07/2024
-- 👺 [Cả nước bước vào đợt mưa lớn](https://vnexpress.net/ca-nuoc-buoc-vao-dot-mua-lon-4769879.html) - 10:15 14/07/2024
+- 👺 [Cả nước mưa lớn](https://vnexpress.net/ca-nuoc-mua-lon-4769879.html) - 10:15 14/07/2024
 - 🧑‍🏫 [Thủ tướng: Thực hiện bằng được đề án một triệu ha lúa chất lượng cao](https://vnexpress.net/thu-tuong-thuc-hien-bang-duoc-de-an-mot-trieu-ha-lua-chat-luong-cao-4769873.html) - 09:59 14/07/2024
 - 🚦 [Nguy hiểm rình rập trên các cung đường Hà Giang](https://vnexpress.net/nguy-hiem-rinh-rap-tren-cac-cung-duong-ha-giang-4769813.html) - 07:18 14/07/2024
 - 🎉 [Mưa từ khuya tới sáng, Phú Quốc ngập thành sông](https://vnexpress.net/mua-tu-khuya-toi-sang-phu-quoc-ngap-thanh-song-4769814.html) - 06:06 14/07/2024
