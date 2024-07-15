@@ -4,14 +4,14 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Công ty gỗ 3.000 m2 ở Bình Dương cháy ngùn ngụt](https://vnexpress.net/cong-ty-go-3-000-m2-o-binh-duong-chay-ngun-ngut-4770225.html) - 08:04 15/07/2024
+- 🦒 [Công ty gỗ rộng 3.000 m2 ở Bình Dương cháy ngùn ngụt](https://vnexpress.net/cong-ty-go-rong-3-000-m2-o-binh-duong-chay-ngun-ngut-4770225.html) - 08:04 15/07/2024
 - 🤓 [Lắp đường ống gần 6 km dẫn nước về sân bay Long Thành](https://vnexpress.net/lap-duong-ong-gan-6-km-dan-nuoc-ve-san-bay-long-thanh-4770208.html) - 07:26 15/07/2024
 - ⚗️ [Thủ tướng: Phấn đấu hoàn thành sắp xếp huyện, xã trong tháng 9](https://vnexpress.net/thu-tuong-phan-dau-hoan-thanh-sap-xep-huyen-xa-trong-thang-9-4770184.html) - 06:10 15/07/2024
 - 🌊 [Gần 870 tỷ đồng mở rộng đường cửa ngõ phía Đông TP HCM](https://vnexpress.net/gan-870-ty-dong-mo-rong-duong-cua-ngo-phia-dong-tp-hcm-4770192.html) - 06:08 15/07/2024
 - 🎓 [Đề xuất cắt mái taluy dương để hạn chế sạt lở](https://vnexpress.net/de-xuat-cat-mai-taluy-duong-de-han-che-sat-lo-4770161.html) - 05:36 15/07/2024
 - 🔥 [Hàng loạt công sở bỏ hoang ở Thanh Hóa](https://vnexpress.net/hang-loat-cong-so-bo-hoang-o-thanh-hoa-4769630.html) - 04:07 15/07/2024
 - 🦏 [TP HCM đề xuất chi 650 tỷ đồng gia cố kè Thanh Đa sạt lở](https://vnexpress.net/tp-hcm-de-xuat-chi-650-ty-dong-gia-co-ke-thanh-da-sat-lo-4770075.html) - 03:48 15/07/2024
-- 👺 [Tài xế vượt đèn đỏ, hất cảnh sát giao thông lên capo](https://vnexpress.net/tai-xe-vuot-den-do-hat-canh-sat-giao-thong-len-capo-4770113.html) - 03:45 15/07/2024
+- 👺 [Tài xế tông, hất cảnh sát giao thông lên capo](https://vnexpress.net/tai-xe-tong-hat-canh-sat-giao-thong-len-capo-4770113.html) - 03:45 15/07/2024
 - 🧑‍🏫 [Đâm vào tảng đá giữa đường, lái xe tử vong](https://vnexpress.net/dam-vao-tang-da-giua-duong-lai-xe-tu-vong-4770084.html) - 03:26 15/07/2024
 - 🚦 [Áp thấp nhiệt đới gây mưa ở miền Trung](https://vnexpress.net/ap-thap-nhiet-doi-gay-mua-o-mien-trung-4770022.html) - 02:25 15/07/2024
 - 🎉 [Sạt lở vùi lấp nhà, một người chết](https://vnexpress.net/sat-lo-vui-lap-nha-mot-nguoi-chet-4770041.html) - 02:17 15/07/2024
