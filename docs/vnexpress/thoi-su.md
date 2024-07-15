@@ -10,7 +10,7 @@ sidebar_position: 1
 - 🌊 [Lắp đường ống gần 6 km dẫn nước về sân bay Long Thành](https://vnexpress.net/lap-duong-ong-gan-6-km-dan-nuoc-ve-san-bay-long-thanh-4770208.html) - 07:26 15/07/2024
 - 🎓 [Thủ tướng: Phấn đấu hoàn thành sắp xếp huyện, xã trong tháng 9](https://vnexpress.net/thu-tuong-phan-dau-hoan-thanh-sap-xep-huyen-xa-trong-thang-9-4770184.html) - 06:10 15/07/2024
 - 🔥 [Gần 870 tỷ đồng mở rộng đường cửa ngõ phía Đông TP HCM](https://vnexpress.net/gan-870-ty-dong-mo-rong-duong-cua-ngo-phia-dong-tp-hcm-4770192.html) - 06:08 15/07/2024
-- 🦏 [Đề xuất cắt mái taluy dương để hạn chế sạt lở](https://vnexpress.net/de-xuat-cat-mai-taluy-duong-de-han-che-sat-lo-4770161.html) - 05:36 15/07/2024
+- 🦏 [Xem xét cắt mái taluy dương để hạn chế sạt lở](https://vnexpress.net/xem-xet-cat-mai-taluy-duong-de-han-che-sat-lo-4770161.html) - 05:36 15/07/2024
 - 👺 [Hàng loạt công sở bỏ hoang ở Thanh Hóa](https://vnexpress.net/hang-loat-cong-so-bo-hoang-o-thanh-hoa-4769630.html) - 04:07 15/07/2024
 - 🧑‍🏫 [TP HCM đề xuất chi 650 tỷ đồng gia cố kè Thanh Đa sạt lở](https://vnexpress.net/tp-hcm-de-xuat-chi-650-ty-dong-gia-co-ke-thanh-da-sat-lo-4770075.html) - 03:48 15/07/2024
 - 🚦 [Tài xế tông, hất cảnh sát giao thông lên capo](https://vnexpress.net/tai-xe-tong-hat-canh-sat-giao-thong-len-capo-4770113.html) - 03:45 15/07/2024
