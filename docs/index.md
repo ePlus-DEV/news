@@ -254,7 +254,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Bị Uzbekistan cầm hòa, futsal nữ Việt Nam về nhì giải giao hữu tại Trung Quốc](https://nld.com.vn/bi-uzbekistan-cam-hoa-futsal-nu-viet-nam-ve-nhi-giai-giao-huu-tai-trung-quoc-196240715211332206.htm) - 15:17 15/07/2024
-- 😺 [Án mạng tại quận 12, hai người tử vong tại quán trà sữa nổi tiếng](https://nld.com.vn/an-mang-tai-quan-12-hai-nguoi-tu-vong-tai-quan-tra-sua-noi-tieng-19624071522115921.htm) - 15:14 15/07/2024
+- 😺 [Án mạng ở quận 12, hai người tử vong tại quán trà sữa nổi tiếng](https://nld.com.vn/an-mang-tai-quan-12-hai-nguoi-tu-vong-tai-quan-tra-sua-noi-tieng-19624071522115921.htm) - 15:14 15/07/2024
 - 👍 [Đà Nẵng: Một thiếu uý ngăn chặn vụ lừa đảo chuyển tiền ngay tại ngân hàng](https://nld.com.vn/da-nang-mot-thieu-uy-ngan-chan-vu-lua-dao-chuyen-tien-ngay-tai-ngan-hang-19624071521231363.htm) - 14:42 15/07/2024
 - 🥷 [LPBank công bố tên thương mại mới: Ngân hàng Lộc Phát Việt Nam](https://nld.com.vn/lpbank-cong-bo-ten-thuong-mai-moi-ngan-hang-loc-phat-viet-nam-196240715212016843.htm) - 14:38 15/07/2024
 - 🤔 [U19 Việt Nam &quot;mổ băng&quot; Euro 2024, chuẩn bị cho giải Đông Nam Á](https://nld.com.vn/u19-viet-nam-mo-bang-euro-2024-chuan-bi-cho-giai-dong-nam-a-196240715194919075.htm) - 13:43 15/07/2024
