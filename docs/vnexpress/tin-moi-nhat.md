@@ -8,7 +8,7 @@ sidebar_position: 9
 - 🐎 [Tài xế ôtô tông, hất cảnh sát lên capo bị tạm giữ](https://vnexpress.net/tai-xe-oto-tong-hat-canh-sat-len-capo-bi-tam-giu-4770855.html) - 14:08 16/07/2024
 - 🦍 [Chàng trai thẳng thắn, dễ gần tìm người thương](https://vnexpress.net/chang-trai-thang-than-de-gan-tim-nguoi-thuong-4770561.html) - 14:00 16/07/2024
 - 🏊 [Tưởng vết sẹo hóa ung thư ác tính hiếm gặp](https://vnexpress.net/tuong-vet-seo-hoa-ung-thu-ac-tinh-hiem-gap-4770710.html) - 13:53 16/07/2024
-- 🎊 [Thái Lan phát hiện nhóm người Việt chết trong khách sạn](https://vnexpress.net/thai-lan-phat-hien-nhom-nguoi-viet-chet-trong-khach-san-4770853.html) - 13:44 16/07/2024
+- 🎊 [Thái Lan phát hiện 6 người chết trong khách sạn](https://vnexpress.net/thai-lan-phat-hien-6-nguoi-chet-trong-khach-san-4770853.html) - 13:44 16/07/2024
 - 🎃 [Điểm chuẩn Đại học Kinh tế Quốc dân ba năm qua](https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-quoc-dan-ba-nam-qua-4768236.html) - 13:42 16/07/2024
 - 🧰 [Ba cách tra cứu điểm thi tốt nghiệp THPT 2024](https://vnexpress.net/cach-tra-cuu-diem-thi-tot-nghiep-thpt-2024-chinh-xac-nhat-4770738.html) - 13:41 16/07/2024
 - 🔭 [Ninh Bình sẽ có thành phố Hoa Lư](https://vnexpress.net/ninh-binh-se-co-thanh-pho-hoa-lu-4770836.html) - 13:40 16/07/2024
