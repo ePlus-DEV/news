@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Toni Nadal ví Djokovic &#39;đã tự sát&#39; trước Alcaraz](https://vnexpress.net/toni-nadal-vi-djokovic-da-tu-sat-truoc-alcaraz-4770632.html) - 07:47 16/07/2024
-- 🦩 [1000 VĐV tham dự giải khiêu vũ thể thao ở TP HCM](https://vnexpress.net/1000-vdv-tham-du-giai-khieu-vu-the-thao-o-tp-hcm-4769895.html) - 07:24 16/07/2024
+- 🦩 [1.000 VĐV tham dự giải khiêu vũ thể thao ở TP HCM](https://vnexpress.net/1-000-vdv-tham-du-giai-khieu-vu-the-thao-o-tp-hcm-4769895.html) - 07:24 16/07/2024
 - 🧰 [Đà Nẵng về đêm qua bước chạy runner VnExpress Marathon](https://vnexpress.net/da-nang-ve-dem-qua-buoc-chay-runner-vnexpress-marathon-4770338.html) - 07:11 16/07/2024
 - 🤗 [Nadal: &#39;Khó ai cản nổi Alcaraz&#39;](https://vnexpress.net/nadal-kho-ai-can-noi-alcaraz-4770624.html) - 06:56 16/07/2024
 - 🥳 [Chủ tịch LĐBĐ Colombia bị bắt vì ẩu đả ở chung kết Copa America](https://vnexpress.net/chu-tich-ldbd-colombia-bi-bat-vi-au-da-o-chung-ket-copa-america-4770536.html) - 05:19 16/07/2024
