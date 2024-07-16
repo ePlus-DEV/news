@@ -6,7 +6,7 @@ sidebar_position: 11
 <!-- vnexpress-du-lich:START -->
 - 💂 [15 sân bay cất - hạ cánh đúng giờ nhất thế giới](https://vnexpress.net/15-san-bay-cat-ha-canh-dung-gio-nhat-the-gioi-4770482.html) - 06:21 16/07/2024
 - 🪄 [Được, mất của tour du lịch kèm shopping](https://vnexpress.net/duoc-mat-cua-tour-du-lich-kem-shopping-4769336.html) - 03:15 16/07/2024
-- 🦅 [48h khám phá Vĩnh Hy](https://vnexpress.net/48h-kham-pha-vinh-hy-4768467.html) - 02:39 16/07/2024
+- 🦅 [48 giờ khám phá Vĩnh Hy](https://vnexpress.net/48-gio-kham-pha-vinh-hy-4768467.html) - 02:39 16/07/2024
 - 🕴 [Thành cổ trong lòng núi đá ở Thổ Nhĩ Kỳ](https://vnexpress.net/thanh-co-trong-long-nui-da-o-tho-nhi-ky-4769365.html) - 02:26 16/07/2024
 - 👀 [Trào lưu &#39;mọi thứ đều có thể nướng&#39; ở Trung Quốc](https://vnexpress.net/trao-luu-moi-thu-deu-co-the-nuong-o-trung-quoc-4770232.html) - 17:00 15/07/2024
 - 🎭 [10 khu nghỉ dưỡng được đặt nhiều dịp hè](https://vnexpress.net/10-khu-nghi-duong-duoc-dat-nhieu-dip-he-4769634.html) - 12:00 15/07/2024
