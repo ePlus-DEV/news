@@ -8,7 +8,7 @@ sidebar_position: 7
 - 🦆 [Ước mơ bác sĩ đưa nam sinh đến huy chương vàng Sinh học quốc tế](https://vnexpress.net/uoc-mo-bac-si-dua-nam-sinh-den-huy-chuong-vang-sinh-hoc-quoc-te-4770261.html) - 14:29 15/07/2024
 - 🦩 [Quốc gia nhỏ nhất thế giới rộng bao nhiêu km2?](https://vnexpress.net/quoc-gia-nho-nhat-the-gioi-rong-bao-nhieu-km2-4770348.html) - 13:08 15/07/2024
 - 🌮 [Du học sinh Việt giành quán quân VNG Code Tour 2024](https://vnexpress.net/du-hoc-sinh-viet-gianh-quan-quan-vng-code-tour-2024-4770298.html) - 09:30 15/07/2024
-- 🔭 [Học ngành Thiết kế game ra trường lương bao nhiêu?](https://vnexpress.net/hoc-nganh-thiet-ke-game-ra-truong-luong-bao-nhieu-4746000.html) - 09:11 15/07/2024
+- 🔭 [Việc làm, tiền lương ngành Thiết kế game](https://vnexpress.net/viec-lam-tien-luong-nganh-thiet-ke-game-4746000.html) - 09:11 15/07/2024
 - 💡 [Cựu học sinh chuyên Lý tốt nghiệp thủ khoa ngành Khoa học máy tính](https://vnexpress.net/cuu-hoc-sinh-chuyen-ly-tot-nghiep-thu-khoa-nganh-khoa-hoc-may-tinh-4770072.html) - 06:40 15/07/2024
 - 🥰 [Nam sinh đạt điểm thi năng khiếu cao nhất ĐH Kiến trúc TP HCM](https://vnexpress.net/nam-sinh-dat-diem-thi-nang-khieu-cao-nhat-dh-kien-truc-tp-hcm-4766170.html) - 22:50 14/07/2024
 - 🐲 [Trường quân đội đầu tiên dự kiến điểm sàn](https://vnexpress.net/truong-quan-doi-dau-tien-du-kien-diem-san-4769931.html) - 17:07 14/07/2024
