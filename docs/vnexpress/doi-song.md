@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Nem tai thính Hà Nội](https://vnexpress.net/nem-tai-thinh-ha-noi-4770728.html) - 11:00 16/07/2024
+- 🚀 [Nem tai thính Hà Nội](https://vnexpress.net/doi-song-cooking-nem-tai-thinh-ha-noi-4770728.html) - 11:00 16/07/2024
 - 🎓 [5 cạm bẫy khi được thăng chức](https://vnexpress.net/5-cam-bay-khi-duoc-thang-chuc-4770534.html) - 07:46 16/07/2024
 - 🚦 [Quyền Linh góp mặt trong buổi trao bóng vàng Tiger ở miền Tây](https://vnexpress.net/quyen-linh-gop-mat-trong-buoi-trao-bong-vang-tiger-o-mien-tay-4768681.html) - 05:00 16/07/2024
 - 🦣 [Ngày càng nhiều người già Hàn Quốc đi nhặt rác](https://vnexpress.net/ngay-cang-nhieu-nguoi-gia-han-quoc-di-nhat-rac-4770527.html) - 03:57 16/07/2024
