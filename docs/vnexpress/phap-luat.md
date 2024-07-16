@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Tài xế ôtô tông, hất cảnh sát lên capo bị khởi tố](https://vnexpress.net/tai-xe-oto-tong-hat-canh-sat-len-capo-bi-khoi-to-4770855.html) - 14:08 16/07/2024
+- 😎 [Tài xế ôtô tông, hất cảnh sát lên capo bị tạm giữ](https://vnexpress.net/tai-xe-oto-tong-hat-canh-sat-len-capo-bi-tam-giu-4770855.html) - 14:08 16/07/2024
 - 🥰 [Chỉ huy công trường bị bắt trong vụ 3 công nhân tử vong ở đập thủy điện](https://vnexpress.net/chi-huy-cong-truong-bi-bat-trong-vu-3-cong-nhan-tu-vong-o-dap-thuy-dien-4770851.html) - 13:14 16/07/2024
 - 🎓 [Chủ mưu buôn lậu 6 tấn vàng: &#39;Không hiểu biết pháp luật&#39;](https://vnexpress.net/chu-muu-buon-lau-6-tan-vang-khong-hieu-biet-phap-luat-4770821.html) - 12:38 16/07/2024
 - 🤓 [Chủ tịch xã trình báo &#39;bị lừa&#39; 4,6 tỷ đồng qua mạng](https://vnexpress.net/chu-tich-xa-trinh-bao-bi-lua-4-6-ty-dong-qua-mang-4770822.html) - 11:41 16/07/2024
