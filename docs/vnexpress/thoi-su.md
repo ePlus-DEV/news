@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Làm gì khi gặp sự cố trên cao tốc?](https://vnexpress.net/lam-gi-khi-gap-su-co-tren-cao-toc-4770676.html) - 10:10 16/07/2024
+- 🦒 [Cục CSGT: Xe chạy cao tốc nên dán giấy phản quang phía sau](https://vnexpress.net/cuc-csgt-xe-chay-cao-toc-nen-dan-giay-phan-quang-phia-sau-4770676.html) - 10:10 16/07/2024
 - 🤓 [Ra mắt sách của Tổng bí thư Nguyễn Phú Trọng về Quốc hội](https://vnexpress.net/ra-mat-sach-cua-tong-bi-thu-nguyen-phu-trong-ve-quoc-hoi-4770699.html) - 08:41 16/07/2024
 - ⚗️ [Tháo dỡ tòa nhà sân golf đồi Cù Đà Lạt tốn 32 tỷ đồng](https://vnexpress.net/thao-do-toa-nha-san-golf-doi-cu-da-lat-ton-32-ty-dong-4770628.html) - 06:43 16/07/2024
 - 🌊 [Tai nạn liên hoàn, 4 mẹ con tử vong](https://vnexpress.net/tai-nan-lien-hoan-4-me-con-tu-vong-4770612.html) - 06:03 16/07/2024
