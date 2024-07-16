@@ -20,7 +20,7 @@ sidebar_position: 11
 - 💼 [Anh đánh mất vị thế là điểm nóng du lịch](https://vnexpress.net/anh-danh-mat-vi-the-la-diem-nong-du-lich-4769833.html) - 12:02 14/07/2024
 - 🤡 [Những điểm đến làm khó du khách vì cách gọi tên](https://vnexpress.net/nhung-diem-den-lam-kho-du-khach-vi-cach-goi-ten-4769691.html) - 03:16 14/07/2024
 - 🐵 [Sầu riêng có nguồn gốc từ đâu?](https://vnexpress.net/sau-rieng-co-nguon-goc-tu-dau-4769531.html) - 01:00 14/07/2024
-- 😺 [Đến Nhật bằng du thuyền không cần xin visa](https://vnexpress.net/den-nhat-bang-du-thuyen-khong-can-xin-visa-4769633.html) - 00:00 14/07/2024
+- 😺 [Từ Đài Loan đến Nhật bằng du thuyền không cần xin visa](https://vnexpress.net/tu-dai-loan-den-nhat-bang-du-thuyen-khong-can-xin-visa-4769633.html) - 00:00 14/07/2024
 - 🌈 [Cuộc thi drone ánh sáng quốc tế lần đầu tiên tại Việt Nam](https://video.vnexpress.net/cuoc-thi-drone-anh-sang-quoc-te-lan-dau-tien-tai-viet-nam-4769703.html) - 18:24 13/07/2024
 - ⚗️ [Chaat - món ăn đường phố vào tiệc cưới của con tỷ phú Ấn Độ](https://vnexpress.net/chaat-mon-an-duong-pho-vao-tiec-cuoi-cua-con-ty-phu-an-do-4769661.html) - 17:00 13/07/2024
 - 👀 [Làng cổ ở Seoul quá tải du khách](https://vnexpress.net/lang-co-o-seoul-qua-tai-du-khach-4769567.html) - 06:52 13/07/2024
