@@ -11,7 +11,7 @@ sidebar_position: 5
 - 👨‍🏫 [&#39;Trường học hay trường đời&#39; - cẩm nang cho sĩ tử](https://vnexpress.net/truong-hoc-hay-truong-doi-cam-nang-cho-si-tu-4768039.html) - 04:17 16/07/2024
 - ⚗️ [Trang sức cưới của con trai tỷ phú giàu nhất châu Á](https://vnexpress.net/trang-suc-cuoi-cua-con-trai-ty-phu-giau-nhat-chau-a-4770476.html) - 03:54 16/07/2024
 - 😎 [Hoàng Tử Thao trưởng thành mới biết cha là đại gia](https://vnexpress.net/hoang-tu-thao-truong-thanh-moi-biet-cha-la-dai-gia-4770132.html) - 03:06 16/07/2024
-- 🫣 [tlinh gỡ ca khúc &#39;gợi dục&#39;](https://vnexpress.net/tlinh-go-ca-khuc-goi-duc-4770454.html) - 02:07 16/07/2024
+- 🫣 [tlinh, Coldzy gỡ ca khúc &#39;gợi dục&#39;](https://vnexpress.net/tlinh-coldzy-go-ca-khuc-goi-duc-4770454.html) - 02:07 16/07/2024
 - 🪄 [Tăng Phúc: &#39;Tôi từng stress vì bị chê hát yếu&#39;](https://vnexpress.net/tang-phuc-toi-tung-stress-vi-bi-che-hat-yeu-4769502.html) - 17:00 15/07/2024
 - 🤓 [Vẻ sexy của vợ &#39;người hùng&#39; Argentina](https://vnexpress.net/ve-sexy-cua-vo-nguoi-hung-argentina-4770305.html) - 13:30 15/07/2024
 - 🫶 [&#39;Twisters&#39; - phim kịch tính về thảm họa lốc xoáy](https://vnexpress.net/giai-tri/phim/thu-vien-phim/twisters-718) - 11:38 15/07/2024
