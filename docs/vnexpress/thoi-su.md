@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Nghi nổ khí gas, nhiều người bị thương](https://vnexpress.net/nghi-no-khi-gas-nhieu-nguoi-bi-thuong-4770510.html) - 02:56 16/07/2024
+- 🦒 [Nổ khí gas, 7 người bị thương](https://vnexpress.net/no-khi-gas-7-nguoi-bi-thuong-4770510.html) - 02:56 16/07/2024
 - 🤓 [Lớp học xóa mù &#39;trên mây&#39;](https://vnexpress.net/lop-hoc-xoa-mu-tren-may-4769915.html) - 21:00 15/07/2024
 - ⚗️ [Hà Nội dự kiến tôn tạo phù điêu cố thượng nghị sĩ John McCain](https://vnexpress.net/ha-noi-du-kien-ton-tao-phu-dieu-co-thuong-nghi-si-john-mccain-4770384.html) - 17:00 15/07/2024
 - 🌊 [Nông dân mất mùa sen vì sông nhiễm mặn](https://vnexpress.net/nong-dan-mat-mua-sen-vi-song-nhiem-man-4770216.html) - 17:00 15/07/2024
