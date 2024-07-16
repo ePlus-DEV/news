@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Mbappe ra mắt Real Madrid với áo số 9](https://vnexpress.net/mbappe-ra-mat-real-madrid-voi-ao-so-9-4770816.html) - 10:34 16/07/2024
-- 🦩 [Southgate từ chức HLV tuyển Anh sau thất bại ở Euro 2024](https://vnexpress.net/southgate-tu-chuc-hlv-tuyen-anh-sau-that-bai-o-euro-2024-4770810.html) - 10:11 16/07/2024
+- 🦩 [HLV tuyển Anh Southgate từ chức](https://vnexpress.net/hlv-tuyen-anh-southgate-tu-chuc-4770810.html) - 10:11 16/07/2024
 - 🧰 [Golfer Scotland đoạt cup nhờ nhanh trí](https://vnexpress.net/golfer-scotland-doat-cup-nho-nhanh-tri-4770811.html) - 10:11 16/07/2024
 - 🤗 [HLV Argentina: &#39;Messi muốn thi đấu không phải vì ích kỷ&#39;](https://vnexpress.net/hlv-argentina-messi-muon-thi-dau-khong-phai-vi-ich-ky-4770778.html) - 10:05 16/07/2024
 - 🥳 [Golf Nhật Bản thêm đại diện vô địch major](https://vnexpress.net/golf-nhat-ban-them-dai-dien-vo-dich-major-4770779.html) - 09:47 16/07/2024
