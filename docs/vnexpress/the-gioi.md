@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Thái Lan phát hiện 6 người chết trong khách sạn ở Bangkok](https://vnexpress.net/thai-lan-phat-hien-6-nguoi-chet-trong-khach-san-o-bangkok-4770853.html) - 13:44 16/07/2024
+- 🎭 [Thái Lan phát hiện 6 người chết trong khách sạn](https://vnexpress.net/thai-lan-phat-hien-6-nguoi-chet-trong-khach-san-4770853.html) - 13:44 16/07/2024
 - 🕴 [Vance - từ &#39;người chống Trump&#39; đến ứng viên phó tổng thống](https://vnexpress.net/vance-tu-nguoi-chong-trump-den-ung-vien-pho-tong-thong-4770414.html) - 12:00 16/07/2024
 - 🤭 [Thủ tướng Hungary: Ông Trump sẽ là nhà môi giới hòa bình Ukraine nếu đắc cử](https://vnexpress.net/thu-tuong-hungary-ong-trump-se-la-nha-moi-gioi-hoa-binh-ukraine-neu-dac-cu-4770839.html) - 11:57 16/07/2024
 - 🧑‍💻 [Việt Nam bàn giao 4 bộ hài cốt lính Mỹ](https://vnexpress.net/viet-nam-ban-giao-4-bo-hai-cot-linh-my-4770825.html) - 11:07 16/07/2024
