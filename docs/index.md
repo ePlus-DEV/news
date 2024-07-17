@@ -263,7 +263,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤩 [Anh Đức - Quỳnh Anh tung ảnh trước thềm đám cưới](https://nld.com.vn/anh-duc-quynh-anh-tung-anh-truoc-them-dam-cuoi-196240717122359683.htm) - 05:50 17/07/2024
 - 🎭 [Chủ tịch HĐND TP HCM đề nghị khẩn trương hoàn thiện đề án sắp xếp đơn vị hành chính](https://nld.com.vn/chu-tich-hdnd-tp-hcm-de-nghi-khan-truong-hoan-thien-de-an-sap-xep-don-vi-hanh-chinh-196240717121051667.htm) - 05:40 17/07/2024
 - 💄 [Bình Dương: Người ở trọ tá hỏa trước tên biến thái khoe &quot;của quý&quot;, ngửi đồ lót](https://nld.com.vn/binh-duong-nguoi-o-tro-ta-hoa-truoc-ten-bien-thai-khoe-cua-quy-ngui-do-lot-19624071712273628.htm) - 05:36 17/07/2024
-- 🎊 [Sự thật từ &quot;báu vật&quot; 4,2 tỉ năm](https://nld.com.vn/su-that-tu-bau-vat-42-ti-nam-196240717114006392.htm) - 05:25 17/07/2024
+- 🎊 [20 mảnh vỏ Trái đất: Sự thật từ &quot;báu vật&quot; 4,2 tỉ năm](https://nld.com.vn/su-that-tu-bau-vat-42-ti-nam-196240717114006392.htm) - 05:25 17/07/2024
 - 🎡 [EVNSPC khai mạc trại hè thiếu nhi năm 2024](https://thitruong.nld.com.vn/evnspc-khai-mac-trai-he-thieu-nhi-nam-2024-196240717121839935.htm) - 05:22 17/07/2024
 - 🎉 [Đang uống cà phê với bạn, người đàn ông bất ngờ ngất xỉu](https://nld.com.vn/dang-uong-ca-phe-voi-ban-nguoi-dan-ong-bat-ngo-ngat-xiu-196240717120146745.htm) - 05:22 17/07/2024
 - 😺 [Vinamilk được vinh danh tại giải thưởng doanh nghiệp trách nhiệm châu Á](https://nld.com.vn/vinamilk-duoc-vinh-danh-tai-giai-thuong-doanh-nghiep-trach-nhiem-chau-a-196240717113135692.htm) - 05:22 17/07/2024
