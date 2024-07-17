@@ -4,63 +4,63 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Điểm chuẩn đại học 2024 có thể tăng ở nhiều tổ hợp](https://vnexpress.net/diem-chuan-dai-hoc-2024-co-the-tang-o-moi-to-hop-4771251.html) - 13:51 17/07/2024
-- 🦆 [Hơn 2.000 ý tưởng dự thi sơ khảo sáng kiến Solve for Tomorrow](https://vnexpress.net/hon-2-000-y-tuong-du-thi-so-khao-sang-kien-solve-for-tomorrow-4770629.html) - 13:00 17/07/2024
-- 🦩 [Nam sinh bỏ trường chuyên, giành cú đúp thủ khoa ở Đà Nẵng](https://vnexpress.net/nam-sinh-bo-truong-chuyen-gianh-cu-dup-thu-khoa-o-da-nang-4771271.html) - 12:37 17/07/2024
-- 🌮 [Điểm thi THPT trung bình trên 8 có thể nhận học bổng](https://vnexpress.net/diem-thi-thpt-trung-binh-tren-8-co-the-nhan-hoc-bong-4770754.html) - 12:00 17/07/2024
-- 🔭 [Thí sinh đạt gần 9 điểm mỗi môn xét đại học nhưng có thể trượt tốt nghiệp](https://vnexpress.net/thi-sinh-dat-gan-9-diem-moi-mon-xet-dai-hoc-nhung-co-the-truot-tot-nghiep-4771282.html) - 11:27 17/07/2024
-- 💡 [Vĩnh Phúc &#39;thống trị&#39; điểm thi ba môn Khoa học xã hội](https://vnexpress.net/vinh-phuc-thong-tri-diem-thi-ba-mon-khoa-hoc-xa-hoi-4770880.html) - 11:21 17/07/2024
-- 🥰 [Điểm sàn Đại học Khoa học Tự nhiên TP HCM từ 16](https://vnexpress.net/diem-san-dai-hoc-khoa-hoc-tu-nhien-tp-hcm-nam-2024-tu-16-tro-len-4771304.html) - 10:43 17/07/2024
-- 🐲 [Nữ sinh giành ngôi thủ khoa toàn quốc với 3 điểm 10](https://vnexpress.net/thu-khoa-ky-thi-tot-nghiep-thpt-2024-4771146.html) - 09:49 17/07/2024
-- 🦒 [Đại học Quốc gia Hà Nội công bố điểm sàn xét tuyển](https://vnexpress.net/diem-san-dai-hoc-quoc-gia-ha-noi-2024-4771283.html) - 09:40 17/07/2024
-- 🦆 [Chuyên gia: Phổ điểm thi tốt nghiệp phân hóa tốt](https://vnexpress.net/chuyen-gia-pho-diem-thi-tot-nghiep-phan-hoa-tot-4771089.html) - 09:12 17/07/2024
-- 🧰 [10 tỉnh, thành dẫn đầu các môn Khoa học tự nhiên](https://vnexpress.net/xep-hang-63-tinh-thanh-ve-diem-thi-tot-nghiep-to-hop-khoa-hoc-tu-nhien-2024-4770879.html) - 08:07 17/07/2024
-- 🐘 [Nữ sinh chuyên Vĩnh Phúc là thủ khoa khối D01](https://vnexpress.net/chan-dung-thu-khoa-khoi-d01-toan-quoc-nam-2024-4771103.html) - 07:33 17/07/2024
-- 🤓 [Thủ khoa khối B00 muốn trở thành bác sĩ giỏi](https://vnexpress.net/chan-dung-nu-thu-khoa-khoi-b00-nam-2024-4771134.html) - 07:08 17/07/2024
-- 🧰 [Thủ khoa khối A01: Em từng học 18 tiếng mỗi ngày](https://vnexpress.net/bi-quyet-hoc-cua-thu-khoa-khoi-a01-nam-2024-4771099.html) - 06:05 17/07/2024
-- 🧑‍💻 [Top 200 thí sinh điểm cao nhất ở 5 tổ hợp xét tuyển đại học](https://vnexpress.net/top-200-thi-sinh-diem-cao-nhat-o-5-to-hop-xet-tuyen-dai-hoc-4770814.html) - 05:45 17/07/2024
-- 🫶 [Thủ khoa đánh giá tư duy Bách khoa dẫn đầu khối A00 toàn quốc](https://vnexpress.net/thu-khoa-danh-gia-tu-duy-bach-khoa-dan-dau-khoi-a00-toan-quoc-4770962.html) - 04:40 17/07/2024
-- 🪜 [Sinh viên trường ĐH Duy Tân khám chữa răng miễn phí cho người dân](https://vnexpress.net/sinh-vien-truong-dh-duy-tan-kham-chua-rang-mien-phi-cho-nguoi-dan-4771072.html) - 04:30 17/07/2024
-- 🎊 [Điểm chuẩn ba năm qua của Học viện Tài chính](https://vnexpress.net/diem-chuan-ba-nam-qua-cua-hoc-vien-tai-chinh-4770392.html) - 03:58 17/07/2024
-- 🧐 [Một tỉnh tăng gần 50 bậc về điểm Văn thi tốt nghiệp THPT 2024](https://vnexpress.net/xep-hang-diem-thi-tot-nghiep-mon-van-thpt-2024-theo-63-tinh-thanh-4770815.html) - 03:38 17/07/2024
-- 🌈 [TP HCM đứng đầu điểm thi môn Tiếng Anh 8 năm liên tiếp](https://vnexpress.net/xep-hang-diem-thi-tot-nghiep-mon-tieng-anh-63-tinh-thanh-nam-2024-4770673.html) - 03:23 17/07/2024
-- 🥰 [Gần 600 bài thi tốt nghiệp THPT bị điểm liệt](https://vnexpress.net/gan-600-bai-thi-tot-nghiep-thpt-bi-diem-liet-4770594.html) - 03:14 17/07/2024
-- 🎡 [Nam Định dẫn đầu cả nước về điểm thi tốt nghiệp môn Toán](https://vnexpress.net/xep-hang-diem-thi-tot-nghiep-thpt-mon-toan-2024-cua-63-tinh-thanh-4770877.html) - 03:14 17/07/2024
-- 🎊 [Top 200 thí sinh có tổng điểm tốt nghiệp cao nhất](https://vnexpress.net/top-thi-sinh-co-tong-diem-thi-tot-nghiep-cao-nhat-2024-4770674.html) - 02:51 17/07/2024
-- 🌏 [Số điểm 10 thi tốt nghiệp THPT giảm mạnh](https://vnexpress.net/so-diem-10-thi-tot-nghiep-thpt-giam-manh-4770585.html) - 02:38 17/07/2024
-- 🥸 [Phổ điểm Giáo dục công dân, Địa lý thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-giao-duc-cong-dan-dia-ly-thi-tot-nghiep-thpt-2024-4770790.html) - 02:27 17/07/2024
-- 🕴 [Vĩnh Phúc lần thứ hai liên tiếp dẫn đầu cả nước về điểm thi tốt nghiệp](https://vnexpress.net/xep-hang-diem-thi-tot-nghiep-thpt-2024-theo-tinh-thanh-4770826.html) - 02:03 17/07/2024
-- 💂 [Phổ điểm 9 môn thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-9-mon-thi-tot-nghiep-thpt-2024-4770524.html) - 01:59 17/07/2024
-- 🕴 [13 trong số 19 thủ khoa khối C00 toàn quốc ở Bắc Ninh](https://vnexpress.net/danh-sach-thu-khoa-thi-tot-nghiep-thpt-2024-4770794.html) - 01:53 17/07/2024
-- 🌋 [Phổ điểm môn Hóa thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-mon-hoa-thi-tot-nghiep-thpt-2024-4770581.html) - 01:37 17/07/2024
-- 🪜 [Phổ điểm môn Lịch sử thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-mon-lich-su-thi-tot-nghiep-thpt-2024-4770564.html) - 01:33 17/07/2024
-- 🕴 [Phổ điểm môn Sinh thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-mon-sinh-thi-tot-nghiep-thpt-2024-4770603.html) - 01:33 17/07/2024
-- 🎃 [Phổ điểm môn Vật lý thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-mon-vat-ly-thi-tot-nghiep-thpt-2024-4770577.html) - 01:32 17/07/2024
-- 🦏 [Phổ điểm tổ hợp A00 xét tuyển đại học 2024](https://vnexpress.net/pho-diem-xet-tuyen-dai-hoc-to-hop-a00-nam-2024-4770652.html) - 01:28 17/07/2024
-- 🧑‍🏫 [Phổ điểm xét tuyển đại học khối C00](https://vnexpress.net/pho-diem-xet-tuyen-dai-hoc-khoi-c00-4770864.html) - 01:28 17/07/2024
-- 💡 [Phổ điểm tổ hợp A01 xét tuyển đại học 2024](https://vnexpress.net/pho-diem-khoi-a01-xet-tuyen-dai-hoc-2024-4770667.html) - 01:27 17/07/2024
-- 🐎 [Phổ điểm các tổ hợp xét tuyển đại học 2024](https://vnexpress.net/pho-diem-tat-ca-to-hop-xet-tuyen-dai-hoc-2024-4770823.html) - 01:26 17/07/2024
-- 🧰 [Phổ điểm xét tuyển đại học khối B00 năm 2024](https://vnexpress.net/pho-diem-khoi-b00-xet-tuyen-dai-hoc-2024-4770792.html) - 01:26 17/07/2024
-- 🙉 [Phổ điểm tổ hợp D01 theo điểm thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-khoi-d01-xet-tuyen-dai-hoc-2024-4770635.html) - 01:25 17/07/2024
-- ⚗️ [Hai thí sinh đạt 10 điểm môn Văn thi tốt nghiệp THPT](https://vnexpress.net/hai-thi-sinh-dat-10-diem-mon-van-thi-tot-nghiep-thpt-4770928.html) - 01:23 17/07/2024
-- 🌝 [Hơn 50 đại học công bố học phí](https://vnexpress.net/tra-cuu-hoc-phi-tat-ca-dai-hoc-nam-2024-4770899.html) - 01:22 17/07/2024
-- ⛽️ [Phổ điểm môn Văn thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-mon-van-thi-tot-nghiep-thpt-2024-4770567.html) - 01:00 17/07/2024
-- 🌜 [Phổ điểm môn Tiếng Anh thi tốt nghiệp 2024](https://vnexpress.net/pho-diem-mon-tieng-anh-thi-tot-nghiep-2024-4770566.html) - 01:00 17/07/2024
-- ⚗️ [Phổ điểm môn Toán thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-mon-toan-thi-tot-nghiep-thpt-2024-4770548.html) - 01:00 17/07/2024
-- 🧰 [Điểm chuẩn Đại học Ngoại thương ba năm gần đây](https://vnexpress.net/diem-chuan-dai-hoc-ngoai-thuong-nhung-nam-gan-day-4767560.html) - 23:00 16/07/2024
-- 🤗 [Ba lưu ý sau khi biết điểm thi tốt nghiệp THPT](https://vnexpress.net/tra-cuu-diem-thi-tot-nghiep-thpt-2024-xong-lam-gi-4770477.html) - 22:46 16/07/2024
-- 🔥 [Đề thi Olympic Toán quốc tế năm 2024](https://vnexpress.net/de-thi-olympic-toan-quoc-te-imo-2024-4770859.html) - 22:24 16/07/2024
-- 💪 [Biến động điểm chuẩn Đại học Bách khoa Hà Nội](https://vnexpress.net/diem-chuan-hoc-phi-dai-hoc-bach-khoa-ha-noi-ba-nam-qua-4767351.html) - 22:00 16/07/2024
-- 💂 [Quận đông dân nhất TP HCM thiếu hơn 1.200 phòng học](https://vnexpress.net/quan-dong-dan-nhat-tp-hcm-thieu-hon-1-200-phong-hoc-4770756.html) - 17:55 16/07/2024
-- 🌮 [Công bố điểm thi tốt nghiệp THPT 2024](https://vnexpress.net/tra-cuu-diem-thi-tot-nghiep-thpt-2024-nhanh-nhat-4770768.html) - 17:00 16/07/2024
-- 🪄 [Điểm chuẩn Đại học Kinh tế Quốc dân ba năm qua](https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-quoc-dan-ba-nam-qua-4768236.html) - 13:42 16/07/2024
-- 🎡 [Ba cách tra cứu điểm thi tốt nghiệp THPT 2024](https://vnexpress.net/cach-tra-cuu-diem-thi-tot-nghiep-thpt-2024-chinh-xac-nhat-4770738.html) - 13:41 16/07/2024
-- 🌈 [Thủ đô nào thấp nhất thế giới?](https://vnexpress.net/thu-do-nao-thap-nhat-the-gioi-4769121.html) - 13:30 16/07/2024
-- 🎊 [&#39;Săn&#39; học bổng đại học Trung Quốc ngày càng khó](https://vnexpress.net/san-hoc-bong-dai-hoc-trung-quoc-ngay-cang-kho-4768794.html) - 12:43 16/07/2024
-- ⚗️ [Hà Nội đề xuất thưởng 250 triệu đồng cho huy chương vàng quốc tế](https://vnexpress.net/ha-noi-de-xuat-thuong-250-trieu-dong-cho-huy-chuong-vang-quoc-te-4770687.html) - 09:30 16/07/2024
-- 🌁 [Trường Đại học Mỹ tại Việt Nam có hiệu trưởng mới](https://vnexpress.net/truong-dai-hoc-my-tai-viet-nam-co-hieu-truong-moi-4768444.html) - 01:00 16/07/2024
-- 🦏 [Đôi bạn thân cùng tốt nghiệp thủ khoa ngành Công nghệ thông tin](https://vnexpress.net/doi-ban-than-cung-tot-nghiep-thu-khoa-nganh-cong-nghe-thong-tin-4770303.html) - 00:34 16/07/2024
-- 👍 [Tra cứu điểm thi tốt nghiệp THPT 2024 trên VnExpress](https://vnexpress.net/tra-cuu-diem-thi-tot-nghiep-thpt-2024-tren-vnexpress-4770250.html) - 23:18 15/07/2024
-- 🌈 [Ước mơ bác sĩ đưa nam sinh đến huy chương vàng Sinh học quốc tế](https://vnexpress.net/uoc-mo-bac-si-dua-nam-sinh-den-huy-chuong-vang-sinh-hoc-quoc-te-4770261.html) - 14:29 15/07/2024
-- 🕴 [Quốc gia nhỏ nhất thế giới rộng bao nhiêu km2?](https://vnexpress.net/quoc-gia-nho-nhat-the-gioi-rong-bao-nhieu-km2-4770348.html) - 13:08 15/07/2024
-- 🧰 [Việc làm, tiền lương ngành Thiết kế game](https://vnexpress.net/viec-lam-tien-luong-nganh-thiet-ke-game-4746000.html) - 09:11 15/07/2024<!-- vnexpress-giao-duc:END -->
+- 🤓 [Điểm sàn Đại học Công thương TP HCM cao nhất 20](https://vnexpress.net/diem-san-dai-hoc-cong-thuong-tp-hcm-cao-nhat-20-4771344.html) - 15:50 17/07/2024
+- 🦆 [Điểm chuẩn đại học 2024 có thể tăng ở nhiều tổ hợp](https://vnexpress.net/diem-chuan-dai-hoc-2024-co-the-tang-o-moi-to-hop-4771251.html) - 13:51 17/07/2024
+- 🦩 [Hơn 2.000 ý tưởng dự thi sơ khảo sáng kiến Solve for Tomorrow](https://vnexpress.net/hon-2-000-y-tuong-du-thi-so-khao-sang-kien-solve-for-tomorrow-4770629.html) - 13:00 17/07/2024
+- 🌮 [Nam sinh bỏ trường chuyên, giành cú đúp thủ khoa ở Đà Nẵng](https://vnexpress.net/nam-sinh-bo-truong-chuyen-gianh-cu-dup-thu-khoa-o-da-nang-4771271.html) - 12:37 17/07/2024
+- 🔭 [Điểm thi THPT trung bình trên 8 có thể nhận học bổng](https://vnexpress.net/diem-thi-thpt-trung-binh-tren-8-co-the-nhan-hoc-bong-4770754.html) - 12:00 17/07/2024
+- 💡 [Bốn thí sinh đạt gần 9 điểm mỗi môn xét đại học nhưng bị điểm liệt](https://vnexpress.net/bon-thi-sinh-dat-gan-9-diem-moi-mon-xet-dai-hoc-nhung-bi-diem-liet-4771282.html) - 11:27 17/07/2024
+- 🥰 [Vĩnh Phúc &#39;thống trị&#39; điểm thi ba môn Khoa học xã hội](https://vnexpress.net/vinh-phuc-thong-tri-diem-thi-ba-mon-khoa-hoc-xa-hoi-4770880.html) - 11:21 17/07/2024
+- 🐲 [Điểm sàn Đại học Khoa học Tự nhiên TP HCM từ 16](https://vnexpress.net/diem-san-dai-hoc-khoa-hoc-tu-nhien-tp-hcm-nam-2024-tu-16-tro-len-4771304.html) - 10:43 17/07/2024
+- 🦒 [Nữ sinh giành ngôi thủ khoa toàn quốc với 3 điểm 10](https://vnexpress.net/thu-khoa-ky-thi-tot-nghiep-thpt-2024-4771146.html) - 09:49 17/07/2024
+- 🦆 [Đại học Quốc gia Hà Nội công bố điểm sàn xét tuyển](https://vnexpress.net/diem-san-dai-hoc-quoc-gia-ha-noi-2024-4771283.html) - 09:40 17/07/2024
+- 🧰 [Chuyên gia: Phổ điểm thi tốt nghiệp phân hóa tốt](https://vnexpress.net/chuyen-gia-pho-diem-thi-tot-nghiep-phan-hoa-tot-4771089.html) - 09:12 17/07/2024
+- 🐘 [10 tỉnh, thành dẫn đầu các môn Khoa học tự nhiên](https://vnexpress.net/xep-hang-63-tinh-thanh-ve-diem-thi-tot-nghiep-to-hop-khoa-hoc-tu-nhien-2024-4770879.html) - 08:07 17/07/2024
+- 🤓 [Nữ sinh chuyên Vĩnh Phúc là thủ khoa khối D01](https://vnexpress.net/chan-dung-thu-khoa-khoi-d01-toan-quoc-nam-2024-4771103.html) - 07:33 17/07/2024
+- 🧰 [Thủ khoa khối B00 muốn trở thành bác sĩ giỏi](https://vnexpress.net/chan-dung-nu-thu-khoa-khoi-b00-nam-2024-4771134.html) - 07:08 17/07/2024
+- 🧑‍💻 [Thủ khoa khối A01: Em từng học 18 tiếng mỗi ngày](https://vnexpress.net/bi-quyet-hoc-cua-thu-khoa-khoi-a01-nam-2024-4771099.html) - 06:05 17/07/2024
+- 🫶 [Top 200 thí sinh điểm cao nhất ở 5 tổ hợp xét tuyển đại học](https://vnexpress.net/top-200-thi-sinh-diem-cao-nhat-o-5-to-hop-xet-tuyen-dai-hoc-4770814.html) - 05:45 17/07/2024
+- 🪜 [Thủ khoa đánh giá tư duy Bách khoa dẫn đầu khối A00 toàn quốc](https://vnexpress.net/thu-khoa-danh-gia-tu-duy-bach-khoa-dan-dau-khoi-a00-toan-quoc-4770962.html) - 04:40 17/07/2024
+- 🎊 [Sinh viên trường ĐH Duy Tân khám chữa răng miễn phí cho người dân](https://vnexpress.net/sinh-vien-truong-dh-duy-tan-kham-chua-rang-mien-phi-cho-nguoi-dan-4771072.html) - 04:30 17/07/2024
+- 🧐 [Điểm chuẩn ba năm qua của Học viện Tài chính](https://vnexpress.net/diem-chuan-ba-nam-qua-cua-hoc-vien-tai-chinh-4770392.html) - 03:58 17/07/2024
+- 🌈 [Một tỉnh tăng gần 50 bậc về điểm Văn thi tốt nghiệp THPT 2024](https://vnexpress.net/xep-hang-diem-thi-tot-nghiep-mon-van-thpt-2024-theo-63-tinh-thanh-4770815.html) - 03:38 17/07/2024
+- 🥰 [TP HCM đứng đầu điểm thi môn Tiếng Anh 8 năm liên tiếp](https://vnexpress.net/xep-hang-diem-thi-tot-nghiep-mon-tieng-anh-63-tinh-thanh-nam-2024-4770673.html) - 03:23 17/07/2024
+- 🎡 [Gần 600 bài thi tốt nghiệp THPT bị điểm liệt](https://vnexpress.net/gan-600-bai-thi-tot-nghiep-thpt-bi-diem-liet-4770594.html) - 03:14 17/07/2024
+- 🎊 [Nam Định dẫn đầu cả nước về điểm thi tốt nghiệp môn Toán](https://vnexpress.net/xep-hang-diem-thi-tot-nghiep-thpt-mon-toan-2024-cua-63-tinh-thanh-4770877.html) - 03:14 17/07/2024
+- 🌏 [Top 200 thí sinh có tổng điểm tốt nghiệp cao nhất](https://vnexpress.net/top-thi-sinh-co-tong-diem-thi-tot-nghiep-cao-nhat-2024-4770674.html) - 02:51 17/07/2024
+- 🥸 [Số điểm 10 thi tốt nghiệp THPT giảm mạnh](https://vnexpress.net/so-diem-10-thi-tot-nghiep-thpt-giam-manh-4770585.html) - 02:38 17/07/2024
+- 🕴 [Phổ điểm Giáo dục công dân, Địa lý thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-giao-duc-cong-dan-dia-ly-thi-tot-nghiep-thpt-2024-4770790.html) - 02:27 17/07/2024
+- 💂 [Vĩnh Phúc lần thứ hai liên tiếp dẫn đầu cả nước về điểm thi tốt nghiệp](https://vnexpress.net/xep-hang-diem-thi-tot-nghiep-thpt-2024-theo-tinh-thanh-4770826.html) - 02:03 17/07/2024
+- 🕴 [Phổ điểm 9 môn thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-9-mon-thi-tot-nghiep-thpt-2024-4770524.html) - 01:59 17/07/2024
+- 🌋 [13 trong số 19 thủ khoa khối C00 toàn quốc ở Bắc Ninh](https://vnexpress.net/danh-sach-thu-khoa-thi-tot-nghiep-thpt-2024-4770794.html) - 01:53 17/07/2024
+- 🪜 [Phổ điểm môn Hóa thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-mon-hoa-thi-tot-nghiep-thpt-2024-4770581.html) - 01:37 17/07/2024
+- 🕴 [Phổ điểm môn Lịch sử thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-mon-lich-su-thi-tot-nghiep-thpt-2024-4770564.html) - 01:33 17/07/2024
+- 🎃 [Phổ điểm môn Sinh thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-mon-sinh-thi-tot-nghiep-thpt-2024-4770603.html) - 01:33 17/07/2024
+- 🦏 [Phổ điểm môn Vật lý thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-mon-vat-ly-thi-tot-nghiep-thpt-2024-4770577.html) - 01:32 17/07/2024
+- 🧑‍🏫 [Phổ điểm tổ hợp A00 xét tuyển đại học 2024](https://vnexpress.net/pho-diem-xet-tuyen-dai-hoc-to-hop-a00-nam-2024-4770652.html) - 01:28 17/07/2024
+- 💡 [Phổ điểm xét tuyển đại học khối C00](https://vnexpress.net/pho-diem-xet-tuyen-dai-hoc-khoi-c00-4770864.html) - 01:28 17/07/2024
+- 🐎 [Phổ điểm tổ hợp A01 xét tuyển đại học 2024](https://vnexpress.net/pho-diem-khoi-a01-xet-tuyen-dai-hoc-2024-4770667.html) - 01:27 17/07/2024
+- 🧰 [Phổ điểm các tổ hợp xét tuyển đại học 2024](https://vnexpress.net/pho-diem-tat-ca-to-hop-xet-tuyen-dai-hoc-2024-4770823.html) - 01:26 17/07/2024
+- 🙉 [Phổ điểm xét tuyển đại học khối B00 năm 2024](https://vnexpress.net/pho-diem-khoi-b00-xet-tuyen-dai-hoc-2024-4770792.html) - 01:26 17/07/2024
+- ⚗️ [Phổ điểm tổ hợp D01 theo điểm thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-khoi-d01-xet-tuyen-dai-hoc-2024-4770635.html) - 01:25 17/07/2024
+- 🌝 [Hai thí sinh đạt 10 điểm môn Văn thi tốt nghiệp THPT](https://vnexpress.net/hai-thi-sinh-dat-10-diem-mon-van-thi-tot-nghiep-thpt-4770928.html) - 01:23 17/07/2024
+- ⛽️ [Hơn 50 đại học công bố học phí](https://vnexpress.net/tra-cuu-hoc-phi-tat-ca-dai-hoc-nam-2024-4770899.html) - 01:22 17/07/2024
+- 🌜 [Phổ điểm môn Văn thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-mon-van-thi-tot-nghiep-thpt-2024-4770567.html) - 01:00 17/07/2024
+- ⚗️ [Phổ điểm môn Tiếng Anh thi tốt nghiệp 2024](https://vnexpress.net/pho-diem-mon-tieng-anh-thi-tot-nghiep-2024-4770566.html) - 01:00 17/07/2024
+- 🧰 [Phổ điểm môn Toán thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-mon-toan-thi-tot-nghiep-thpt-2024-4770548.html) - 01:00 17/07/2024
+- 🤗 [Điểm chuẩn Đại học Ngoại thương ba năm gần đây](https://vnexpress.net/diem-chuan-dai-hoc-ngoai-thuong-nhung-nam-gan-day-4767560.html) - 23:00 16/07/2024
+- 🔥 [Ba lưu ý sau khi biết điểm thi tốt nghiệp THPT](https://vnexpress.net/tra-cuu-diem-thi-tot-nghiep-thpt-2024-xong-lam-gi-4770477.html) - 22:46 16/07/2024
+- 💪 [Đề thi Olympic Toán quốc tế năm 2024](https://vnexpress.net/de-thi-olympic-toan-quoc-te-imo-2024-4770859.html) - 22:24 16/07/2024
+- 💂 [Biến động điểm chuẩn Đại học Bách khoa Hà Nội](https://vnexpress.net/diem-chuan-hoc-phi-dai-hoc-bach-khoa-ha-noi-ba-nam-qua-4767351.html) - 22:00 16/07/2024
+- 🌮 [Quận đông dân nhất TP HCM thiếu hơn 1.200 phòng học](https://vnexpress.net/quan-dong-dan-nhat-tp-hcm-thieu-hon-1-200-phong-hoc-4770756.html) - 17:55 16/07/2024
+- 🪄 [Công bố điểm thi tốt nghiệp THPT 2024](https://vnexpress.net/tra-cuu-diem-thi-tot-nghiep-thpt-2024-nhanh-nhat-4770768.html) - 17:00 16/07/2024
+- 🎡 [Điểm chuẩn Đại học Kinh tế Quốc dân ba năm qua](https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-quoc-dan-ba-nam-qua-4768236.html) - 13:42 16/07/2024
+- 🌈 [Ba cách tra cứu điểm thi tốt nghiệp THPT 2024](https://vnexpress.net/cach-tra-cuu-diem-thi-tot-nghiep-thpt-2024-chinh-xac-nhat-4770738.html) - 13:41 16/07/2024
+- 🎊 [Thủ đô nào thấp nhất thế giới?](https://vnexpress.net/thu-do-nao-thap-nhat-the-gioi-4769121.html) - 13:30 16/07/2024
+- ⚗️ [&#39;Săn&#39; học bổng đại học Trung Quốc ngày càng khó](https://vnexpress.net/san-hoc-bong-dai-hoc-trung-quoc-ngay-cang-kho-4768794.html) - 12:43 16/07/2024
+- 🌁 [Hà Nội đề xuất thưởng 250 triệu đồng cho huy chương vàng quốc tế](https://vnexpress.net/ha-noi-de-xuat-thuong-250-trieu-dong-cho-huy-chuong-vang-quoc-te-4770687.html) - 09:30 16/07/2024
+- 🦏 [Trường Đại học Mỹ tại Việt Nam có hiệu trưởng mới](https://vnexpress.net/truong-dai-hoc-my-tai-viet-nam-co-hieu-truong-moi-4768444.html) - 01:00 16/07/2024
+- 👍 [Đôi bạn thân cùng tốt nghiệp thủ khoa ngành Công nghệ thông tin](https://vnexpress.net/doi-ban-than-cung-tot-nghiep-thu-khoa-nganh-cong-nghe-thong-tin-4770303.html) - 00:34 16/07/2024
+- 🌈 [Tra cứu điểm thi tốt nghiệp THPT 2024 trên VnExpress](https://vnexpress.net/tra-cuu-diem-thi-tot-nghiep-thpt-2024-tren-vnexpress-4770250.html) - 23:18 15/07/2024
+- 🕴 [Ước mơ bác sĩ đưa nam sinh đến huy chương vàng Sinh học quốc tế](https://vnexpress.net/uoc-mo-bac-si-dua-nam-sinh-den-huy-chuong-vang-sinh-hoc-quoc-te-4770261.html) - 14:29 15/07/2024
+- 🧰 [Quốc gia nhỏ nhất thế giới rộng bao nhiêu km2?](https://vnexpress.net/quoc-gia-nho-nhat-the-gioi-rong-bao-nhieu-km2-4770348.html) - 13:08 15/07/2024<!-- vnexpress-giao-duc:END -->
