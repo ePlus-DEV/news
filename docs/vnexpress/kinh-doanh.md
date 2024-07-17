@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Giá vàng miếng SJC còn cao hơn thế giới 1 triệu đồng](https://vnexpress.net/chenh-lech-gia-vang-mieng-sjc-va-the-gioi-xuong-con-1-trieu-dong-4771028.html) - 04:24 17/07/2024
+- ⛽️ [Giá vàng miếng SJC chỉ cao hơn thế giới 1 triệu đồng](https://vnexpress.net/chenh-lech-gia-vang-mieng-sjc-va-the-gioi-xuong-con-1-trieu-dong-4771028.html) - 04:24 17/07/2024
 - 🐲 [Elon Musk đặt cược vào Donald Trump](https://vnexpress.net/elon-musk-dat-cuoc-vao-donald-trump-4770979.html) - 03:59 17/07/2024
 - 🔥 [Việt Nam dự kiến vay 5 tỷ USD để đầu tư hạ tầng đường sắt](https://vnexpress.net/viet-nam-du-kien-vay-5-ty-usd-de-dau-tu-ha-tang-duong-sat-4771009.html) - 03:44 17/07/2024
 - 🐵 [Lợi nhuận Nhựa Bình Minh phục hồi](https://vnexpress.net/loi-nhuan-nhua-binh-minh-phuc-hoi-4770981.html) - 02:54 17/07/2024
