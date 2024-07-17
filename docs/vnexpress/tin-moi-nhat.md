@@ -4,49 +4,49 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Sao mặc đồ dạo phố dự sự kiện](https://vnexpress.net/sao-mac-do-dao-pho-du-su-kien-4770543.html) - 02:23 17/07/2024
-- 🐎 [Bộ tranh 12 tháng từng treo trong cung điện Càn Long](https://vnexpress.net/bo-tranh-12-thang-tung-treo-trong-cung-dien-can-long-4770287.html) - 02:11 17/07/2024
-- 🦍 [Vĩnh Phúc lần thứ hai liên tiếp dẫn đầu cả nước về điểm thi tốt nghiệp](https://vnexpress.net/xep-hang-diem-thi-tot-nghiep-thpt-2024-theo-tinh-thanh-4770826.html) - 02:03 17/07/2024
-- 🏊 [Tôi bình thản đón nhận điểm thi tốt nghiệp THPT của con](https://vnexpress.net/toi-binh-than-don-nhan-diem-thi-tot-nghiep-thpt-cua-con-4770914.html) - 02:00 17/07/2024
-- 🎊 [Nhiều vợ chồng trẻ chữa vô sinh](https://vnexpress.net/nhieu-vo-chong-tre-chua-vo-sinh-4770933.html) - 02:00 17/07/2024
-- 🎃 [CellphoneS nhận gần 1.000 đơn hàng cho Galaxy Z Fold 6 và Z Flip 6](https://vnexpress.net/cellphones-nhan-gan-1-000-don-hang-cho-galaxy-z-fold-6-va-z-flip-6-4770789.html) - 02:00 17/07/2024
-- 🧰 [FUNiX và HOCMAI tư vấn hướng nghiệp trực tuyến](https://vnexpress.net/funix-va-hocmai-tu-van-huong-nghiep-truc-tuyen-4770704.html) - 02:00 17/07/2024
-- 🔭 [Phổ điểm 9 môn thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-9-mon-thi-tot-nghiep-thpt-2024-4770524.html) - 01:59 17/07/2024
-- 🫶 [Mong cuộc sống bình lặng, chia sẻ cùng em mọi thứ](https://vnexpress.net/mong-cuoc-song-binh-lang-chia-se-cung-em-moi-thu-4770918.html) - 01:58 17/07/2024
-- 🪜 [Cựu Phó chủ tịch TP HCM Nguyễn Thị Hồng bị bắt](https://vnexpress.net/cuu-pho-chu-tich-tp-hcm-nguyen-thi-hong-bi-bat-4770952.html) - 01:56 17/07/2024
-- 👨‍🏫 [10 thủ khoa khối C00 toàn quốc đều ở Bắc Ninh](https://vnexpress.net/danh-sach-thu-khoa-thi-tot-nghiep-thpt-2024-4770794.html) - 01:53 17/07/2024
-- 🎊 [Tây Ban Nha ẵm trọn tiền thưởng Euro 2024](https://vnexpress.net/tay-ban-nha-am-tron-tien-thuong-euro-2024-4769996.html) - 01:51 17/07/2024
-- 🎊 [Sifan Hassan dự 4 nội dung tại Olympic Paris 2024](https://vnexpress.net/sifan-hassan-du-4-noi-dung-tai-olympic-paris-2024-4770939.html) - 01:44 17/07/2024
-- 😺 [Ông Trump: &#39;Tôi ủng hộ TikTok&#39;](https://vnexpress.net/ong-trump-toi-ung-ho-tiktok-4770937.html) - 01:44 17/07/2024
-- 🐘 [Phổ điểm môn Hóa thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-mon-hoa-thi-tot-nghiep-thpt-2024-4770581.html) - 01:37 17/07/2024
-- 🌁 [Xe máy lao vào đầu ôtô tại ngã tư](https://vnexpress.net/xe-may-lao-vao-dau-oto-tai-nga-tu-4770848.html) - 01:34 17/07/2024
-- 🐲 [Báo Anh: &#39;Kane muốn noi gương Messi&#39;](https://vnexpress.net/bao-anh-kane-muon-noi-guong-messi-4770808.html) - 01:34 17/07/2024
-- 🤓 [Phổ điểm môn Lịch sử thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-mon-lich-su-thi-tot-nghiep-thpt-2024-4770564.html) - 01:33 17/07/2024
-- 💪 [Phổ điểm môn Sinh thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-mon-sinh-thi-tot-nghiep-thpt-2024-4770603.html) - 01:33 17/07/2024
-- 🎓 [Cá gì chân cua nhưng lại có cánh bướm](https://vnexpress.net/ca-gi-chan-cua-nhung-lai-co-canh-buom-4770299.html) - 01:33 17/07/2024
-- 🫣 [Phổ điểm môn Vật lý thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-mon-vat-ly-thi-tot-nghiep-thpt-2024-4770577.html) - 01:32 17/07/2024
-- 🧑‍💻 [Phổ điểm tổ hợp A00 xét tuyển đại học 2024](https://vnexpress.net/pho-diem-xet-tuyen-dai-hoc-to-hop-a00-nam-2024-4770652.html) - 01:28 17/07/2024
-- 🐲 [Phổ điểm xét tuyển đại học khối C00](https://vnexpress.net/pho-diem-xet-tuyen-dai-hoc-khoi-c00-4770864.html) - 01:28 17/07/2024
-- 🌝 [Phổ điểm tổ hợp A01 xét tuyển đại học 2024](https://vnexpress.net/pho-diem-khoi-a01-xet-tuyen-dai-hoc-2024-4770667.html) - 01:27 17/07/2024
-- 😺 [Phổ điểm các tổ hợp xét tuyển đại học 2024](https://vnexpress.net/pho-diem-tat-ca-to-hop-xet-tuyen-dai-hoc-2024-4770823.html) - 01:26 17/07/2024
-- 🐎 [Phổ điểm xét tuyển đại học khối B00 năm 2024](https://vnexpress.net/pho-diem-khoi-b00-xet-tuyen-dai-hoc-2024-4770792.html) - 01:26 17/07/2024
-- 🎡 [Phổ điểm tổ hợp D01 theo điểm thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-khoi-d01-xet-tuyen-dai-hoc-2024-4770635.html) - 01:25 17/07/2024
-- 👨‍🏫 [Hai thí sinh đạt 10 điểm môn Văn thi tốt nghiệp THPT](https://vnexpress.net/hai-thi-sinh-dat-10-diem-mon-van-thi-tot-nghiep-thpt-4770928.html) - 01:23 17/07/2024
-- 🦆 [Định giá Toyota Raize 2022?](https://vnexpress.net/dinh-gia-toyota-raize-2022-4770850.html) - 01:22 17/07/2024
-- 🚦 [Hơn 50 đại học công bố học phí](https://vnexpress.net/tra-cuu-hoc-phi-tat-ca-dai-hoc-nam-2024-4770899.html) - 01:22 17/07/2024
-- 💫 [Cứu người đàn ông trầm cảm tự đóng đinh vào đầu](https://vnexpress.net/cuu-nguoi-dan-ong-tram-cam-tu-dong-dinh-vao-dau-4770865.html) - 01:12 17/07/2024
-- 🎉 [Nghiên cứu nguồn khí sau hiện tượng hố nước tự sôi tại Sóc Trăng](https://vnexpress.net/nghien-cuu-nguon-khi-sau-hien-tuong-ho-nuoc-tu-soi-tai-soc-trang-4770842.html) - 01:03 17/07/2024
-- 🌋 [Phổ điểm môn Văn thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-mon-van-thi-tot-nghiep-thpt-2024-4770567.html) - 01:00 17/07/2024
-- 🤖 [Phổ điểm môn Tiếng Anh thi tốt nghiệp 2024](https://vnexpress.net/pho-diem-mon-tieng-anh-thi-tot-nghiep-2024-4770566.html) - 01:00 17/07/2024
-- 🦏 [Không thí sinh nào đạt 10 Toán thi tốt nghiệp THPT](https://vnexpress.net/pho-diem-mon-toan-thi-tot-nghiep-thpt-2024-4770548.html) - 01:00 17/07/2024
-- 🦩 [Những tai nạn bất ngờ đầy hài hước](https://vnexpress.net/nhung-tai-nan-bat-ngo-day-hai-huoc-4770101.html) - 01:00 17/07/2024
-- 👺 [Đồ vật nào nên vệ sinh thường xuyên để tránh gây bệnh?](https://vnexpress.net/do-vat-nao-nen-ve-sinh-thuong-xuyen-de-tranh-gay-benh-4770806.html) - 01:00 17/07/2024
-- 🧑‍🏫 [VSIP mở bán shop villa thương phố The Sun](https://vnexpress.net/vsip-mo-ban-shop-villa-thuong-pho-the-sun-4770498.html) - 01:00 17/07/2024
-- 😎 [Mối nguy hại từ mỡ máu cao](https://vnexpress.net/moi-nguy-hai-tu-mo-mau-cao-4770215.html) - 01:00 17/07/2024
-- 🪄 [Mỹ từng nhận tin tình báo về &#39;nguy cơ ám sát ông Trump&#39;](https://vnexpress.net/my-tung-nhan-tin-tinh-bao-ve-nguy-co-am-sat-ong-trump-4770898.html) - 00:30 17/07/2024
-- 🏊 [Giá vàng thế giới tăng vọt, lập đỉnh mới](https://vnexpress.net/gia-vang-the-gioi-tang-vot-lap-dinh-moi-4770901.html) - 00:10 17/07/2024
-- 💃 [Dữ liệu cá nhân &#39;được bán công khai, cam kết bảo hành&#39;](https://vnexpress.net/du-lieu-ca-nhan-duoc-ban-cong-khai-cam-ket-bao-hanh-4770895.html) - 00:00 17/07/2024
-- 🦆 [Tàu một ray tự thăng bằng](https://vnexpress.net/tau-mot-ray-tu-thang-bang-4770846.html) - 00:00 17/07/2024
-- 🎊 [Người đàn ông chỉ ở các khách sạn &#39;tệ nhất&#39;](https://vnexpress.net/nguoi-dan-ong-chi-o-cac-khach-san-te-nhat-4770735.html) - 00:00 17/07/2024
-- 👺 [On làm siêu giày 170 gram bằng in phun](https://vnexpress.net/on-lam-sieu-giay-170-gram-bang-in-phun-4770900.html) - 23:49 16/07/2024
-- 🎡 [Quay cuồng tìm chỗ ở mới vì nhà trọ bị dừng hoạt động](https://vnexpress.net/quay-cuong-tim-cho-o-moi-vi-nha-tro-bi-dung-hoat-dong-4770885.html) - 23:30 16/07/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🎬 [TP HCM dẫn đầu điểm thi môn Tiếng Anh 8 năm liên tiếp](https://vnexpress.net/xep-hang-diem-thi-tot-nghiep-mon-tieng-anh-63-tinh-thanh-nam-2024-4770673.html) - 03:23 17/07/2024
+- 🐎 [Nổ nồi hơi ở Thái Nguyên, một người chết](https://vnexpress.net/no-noi-hoi-o-thai-nguyen-mot-nguoi-chet-4771010.html) - 03:20 17/07/2024
+- 🦍 [Nhà hàng đậm chất Việt vào danh sách Michelin](https://vnexpress.net/nha-hang-dam-chat-viet-vao-danh-sach-michelin-4770158.html) - 03:16 17/07/2024
+- 🏊 [Gần 600 bài thi tốt nghiệp THPT bị điểm liệt](https://vnexpress.net/gan-600-bai-thi-tot-nghiep-thpt-bi-diem-liet-4770594.html) - 03:14 17/07/2024
+- 🎊 [Thái Lan điều tra &#39;nghi can bí ẩn&#39; trong vụ 6 người Việt tử vong](https://vnexpress.net/thai-lan-dieu-tra-nghi-can-bi-an-trong-vu-6-nguoi-viet-tu-vong-4770942.html) - 03:14 17/07/2024
+- 🎃 [6 năm liền Nam Định dẫn đầu điểm thi tốt nghiệp môn Toán](https://vnexpress.net/xep-hang-diem-thi-tot-nghiep-thpt-mon-toan-2024-cua-63-tinh-thanh-4770877.html) - 03:14 17/07/2024
+- 🧰 [Đô thị nào lâu đời nhất Nam Bộ?](https://vnexpress.net/do-thi-nao-lau-doi-nhat-nam-bo-4767945.html) - 03:11 17/07/2024
+- 🔭 [TP HCM chốt phương án sắp xếp 80 phường](https://vnexpress.net/tp-hcm-chot-phuong-an-sap-xep-80-phuong-4770651.html) - 03:03 17/07/2024
+- 🫶 [5 người suýt chết vì nấu ăn trong phòng điều hòa](https://vnexpress.net/5-nguoi-suyt-chet-vi-nau-an-trong-phong-dieu-hoa-4770992.html) - 03:02 17/07/2024
+- 🪜 [Khám sức khỏe định kỳ phát hiện ung thư cổ tử cung](https://vnexpress.net/kham-suc-khoe-dinh-ky-phat-hien-ung-thu-co-tu-cung-4770927.html) - 03:00 17/07/2024
+- 👨‍🏫 [500 drone trình diễn &#39;bữa tiệc ánh sáng&#39; tại bến Bạch Đằng](https://vnexpress.net/500-drone-trinh-dien-bua-tiec-anh-sang-tai-ben-bach-dang-4770837.html) - 03:00 17/07/2024
+- 🎊 [Gosu tích hợp kênh thanh toán toàn cầu Xsolla trên các game](https://vnexpress.net/gosu-tich-hop-kenh-thanh-toan-toan-cau-xsolla-tren-cac-game-4770211.html) - 03:00 17/07/2024
+- 🎊 [Lợi nhuận Nhựa Bình Minh phục hồi](https://vnexpress.net/loi-nhuan-nhua-binh-minh-phuc-hoi-4770981.html) - 02:54 17/07/2024
+- 😺 [Top 200 thí sinh có tổng điểm tốt nghiệp cao nhất](https://vnexpress.net/top-thi-sinh-co-tong-diem-thi-tot-nghiep-cao-nhat-2024-4770674.html) - 02:51 17/07/2024
+- 🐘 [Bạn đời Trương Quốc Vinh bị công kích vì &#39;có tình mới&#39;](https://vnexpress.net/ban-doi-truong-quoc-vinh-bi-cong-kich-vi-co-tinh-moi-4770961.html) - 02:41 17/07/2024
+- 🌁 [Số điểm 10 thi tốt nghiệp THPT giảm mạnh](https://vnexpress.net/so-diem-10-thi-tot-nghiep-thpt-giam-manh-4770585.html) - 02:38 17/07/2024
+- 🐲 [Tàu nghiền nát xe đạp, nạn nhân thoát chết trong gang tấc](https://vnexpress.net/tau-nghien-nat-xe-dap-nan-nhan-thoat-chet-trong-gang-tac-4770940.html) - 02:32 17/07/2024
+- 🤓 [Cô tôi giành đất thừa kế đến cùng từ mẹ và các em trai](https://vnexpress.net/co-toi-gianh-dat-thua-ke-den-cung-tu-me-va-cac-em-trai-4770672.html) - 02:28 17/07/2024
+- 💪 [Phổ điểm môn Giáo dục công dân thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-mon-giao-duc-cong-dan-thi-tot-nghiep-thpt-2024-4770790.html) - 02:27 17/07/2024
+- 🎓 [Sao mặc đồ dạo phố dự sự kiện](https://vnexpress.net/sao-mac-do-dao-pho-du-su-kien-4770543.html) - 02:23 17/07/2024
+- 🫣 [Bộ tranh 12 tháng từng treo trong cung điện Càn Long](https://vnexpress.net/bo-tranh-12-thang-tung-treo-trong-cung-dien-can-long-4770287.html) - 02:11 17/07/2024
+- 🧑‍💻 [Vĩnh Phúc lần thứ hai liên tiếp dẫn đầu cả nước về điểm thi tốt nghiệp](https://vnexpress.net/xep-hang-diem-thi-tot-nghiep-thpt-2024-theo-tinh-thanh-4770826.html) - 02:03 17/07/2024
+- 🐲 [Suy giảm ham muốn ở người trẻ](https://vnexpress.net/suy-giam-ham-muon-o-nguoi-tre-4769781.html) - 02:03 17/07/2024
+- 🌝 [Bạn gái yêu bốn người, quan hệ tình dục với ba người](https://vnexpress.net/ban-gai-yeu-bon-nguoi-quan-he-tinh-duc-voi-ba-nguoi-4770948.html) - 02:00 17/07/2024
+- 😺 [Tôi bình thản đón nhận điểm thi tốt nghiệp THPT của con](https://vnexpress.net/toi-binh-than-don-nhan-diem-thi-tot-nghiep-thpt-cua-con-4770914.html) - 02:00 17/07/2024
+- 🐎 [Nhiều vợ chồng trẻ chữa vô sinh](https://vnexpress.net/nhieu-vo-chong-tre-chua-vo-sinh-4770933.html) - 02:00 17/07/2024
+- 🎡 [CellphoneS nhận gần 1.000 đơn hàng cho Galaxy Z Fold 6 và Z Flip 6](https://vnexpress.net/cellphones-nhan-gan-1-000-don-hang-cho-galaxy-z-fold-6-va-z-flip-6-4770789.html) - 02:00 17/07/2024
+- 👨‍🏫 [FUNiX và HOCMAI tư vấn hướng nghiệp trực tuyến](https://vnexpress.net/funix-va-hocmai-tu-van-huong-nghiep-truc-tuyen-4770704.html) - 02:00 17/07/2024
+- 🦆 [Phổ điểm 9 môn thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-9-mon-thi-tot-nghiep-thpt-2024-4770524.html) - 01:59 17/07/2024
+- 🚦 [Mong cuộc sống bình lặng, chia sẻ cùng em mọi thứ](https://vnexpress.net/mong-cuoc-song-binh-lang-chia-se-cung-em-moi-thu-4770918.html) - 01:58 17/07/2024
+- 💫 [Cựu Phó chủ tịch TP HCM Nguyễn Thị Hồng bị bắt](https://vnexpress.net/cuu-pho-chu-tich-tp-hcm-nguyen-thi-hong-bi-bat-4770952.html) - 01:56 17/07/2024
+- 🎉 [13/19 thủ khoa khối C00 toàn quốc ở Bắc Ninh](https://vnexpress.net/danh-sach-thu-khoa-thi-tot-nghiep-thpt-2024-4770794.html) - 01:53 17/07/2024
+- 🌋 [Tây Ban Nha ẵm trọn tiền thưởng Euro 2024](https://vnexpress.net/tay-ban-nha-am-tron-tien-thuong-euro-2024-4769996.html) - 01:51 17/07/2024
+- 🤖 [Sifan Hassan dự 4 nội dung tại Olympic Paris 2024](https://vnexpress.net/sifan-hassan-du-4-noi-dung-tai-olympic-paris-2024-4770939.html) - 01:44 17/07/2024
+- 🦏 [Ông Trump: &#39;Tôi ủng hộ TikTok&#39;](https://vnexpress.net/ong-trump-toi-ung-ho-tiktok-4770937.html) - 01:44 17/07/2024
+- 🦩 [Phổ điểm môn Hóa thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-mon-hoa-thi-tot-nghiep-thpt-2024-4770581.html) - 01:37 17/07/2024
+- 👺 [Xe máy lao vào đầu ôtô tại ngã tư](https://vnexpress.net/xe-may-lao-vao-dau-oto-tai-nga-tu-4770848.html) - 01:34 17/07/2024
+- 🧑‍🏫 [Báo Anh: &#39;Kane muốn noi gương Messi&#39;](https://vnexpress.net/bao-anh-kane-muon-noi-guong-messi-4770808.html) - 01:34 17/07/2024
+- 😎 [Phổ điểm môn Lịch sử thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-mon-lich-su-thi-tot-nghiep-thpt-2024-4770564.html) - 01:33 17/07/2024
+- 🪄 [Phổ điểm môn Sinh thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-mon-sinh-thi-tot-nghiep-thpt-2024-4770603.html) - 01:33 17/07/2024
+- 🏊 [Cá gì chân cua nhưng lại có cánh bướm](https://vnexpress.net/ca-gi-chan-cua-nhung-lai-co-canh-buom-4770299.html) - 01:33 17/07/2024
+- 💃 [Phổ điểm môn Vật lý thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-mon-vat-ly-thi-tot-nghiep-thpt-2024-4770577.html) - 01:32 17/07/2024
+- 🦆 [Phổ điểm tổ hợp A00 xét tuyển đại học 2024](https://vnexpress.net/pho-diem-xet-tuyen-dai-hoc-to-hop-a00-nam-2024-4770652.html) - 01:28 17/07/2024
+- 🎊 [Phổ điểm xét tuyển đại học khối C00](https://vnexpress.net/pho-diem-xet-tuyen-dai-hoc-khoi-c00-4770864.html) - 01:28 17/07/2024
+- 👺 [Phổ điểm tổ hợp A01 xét tuyển đại học 2024](https://vnexpress.net/pho-diem-khoi-a01-xet-tuyen-dai-hoc-2024-4770667.html) - 01:27 17/07/2024
+- 🎡 [Phổ điểm các tổ hợp xét tuyển đại học 2024](https://vnexpress.net/pho-diem-tat-ca-to-hop-xet-tuyen-dai-hoc-2024-4770823.html) - 01:26 17/07/2024<!-- vnexpress-tin-moi-nhat:END -->
