@@ -29,7 +29,7 @@ sidebar_position: 7
 - 🎊 [Hơn 50 đại học công bố học phí](https://vnexpress.net/tra-cuu-hoc-phi-tat-ca-dai-hoc-nam-2024-4770899.html) - 01:22 17/07/2024
 - 🌏 [Phổ điểm môn Văn thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-mon-van-thi-tot-nghiep-thpt-2024-4770567.html) - 01:00 17/07/2024
 - 🥸 [Phổ điểm môn Tiếng Anh thi tốt nghiệp 2024](https://vnexpress.net/pho-diem-mon-tieng-anh-thi-tot-nghiep-2024-4770566.html) - 01:00 17/07/2024
-- 🕴 [Không thí sinh nào đạt 10 Toán thi tốt nghiệp THPT](https://vnexpress.net/pho-diem-mon-toan-thi-tot-nghiep-thpt-2024-4770548.html) - 01:00 17/07/2024
+- 🕴 [Phổ điểm môn Toán thi tốt nghiệp THPT 2024](https://vnexpress.net/pho-diem-mon-toan-thi-tot-nghiep-thpt-2024-4770548.html) - 01:00 17/07/2024
 - 💂 [Điểm chuẩn thi tốt nghiệp Đại học Ngoại thương ba năm gần đây](https://vnexpress.net/diem-chuan-dai-hoc-ngoai-thuong-nhung-nam-gan-day-4767560.html) - 23:00 16/07/2024
 - 🕴 [Ba lưu ý sau khi biết điểm thi tốt nghiệp THPT](https://vnexpress.net/tra-cuu-diem-thi-tot-nghiep-thpt-2024-xong-lam-gi-4770477.html) - 22:46 16/07/2024
 - 🌋 [Đề thi Olympic Toán quốc tế năm 2024](https://vnexpress.net/de-thi-olympic-toan-quoc-te-nam-2024-4770859.html) - 22:24 16/07/2024
