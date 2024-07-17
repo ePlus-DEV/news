@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Bất cập trong quản lý chất độc xyanua ở Thái Lan](https://vnexpress.net/bat-cap-trong-quan-ly-chat-doc-xyanua-o-thai-lan-4771256.html) - 11:31 17/07/2024
+- 🎭 [Nga bác tin chiến dịch tấn công Kharkov thất bại](https://vnexpress.net/nga-bac-tin-chien-dich-tan-cong-kharkov-that-bai-4771313.html) - 12:09 17/07/2024
 - 🕴 [Mục sư gây sốt khi bắt chước ông Trump](https://vnexpress.net/muc-su-gay-sot-khi-bat-chuoc-ong-trump-4771290.html) - 10:55 17/07/2024
 - 🤭 [Rocket Hezbollah nổ như pháo hoa trên bầu trời Israel](https://vnexpress.net/rocket-hezbollah-no-nhu-phao-hoa-tren-bau-troi-israel-4771278.html) - 10:32 17/07/2024
 - 🧑‍💻 [Khoảnh khắc mật vụ Mỹ ném giày của ông Trump trong vụ ám sát hụt](https://vnexpress.net/khoanh-khac-mat-vu-my-nem-giay-cua-ong-trump-trong-vu-am-sat-hut-4771223.html) - 10:12 17/07/2024
