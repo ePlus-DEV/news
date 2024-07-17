@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Nhạc kịch &#39;Shrek&#39; - chuyện tình chằn tinh](https://vnexpress.net/nhac-kich-shrek-chuyen-tinh-chan-tinh-4769629.html) - 23:00 16/07/2024
+- 🌏 [Shrek&#39; - nhạc kịch vui nhộn về chằn tinh](https://vnexpress.net/shrek-nhac-kich-vui-nhon-ve-chan-tinh-4769629.html) - 23:00 16/07/2024
 - 💫 [Noo Phước Thịnh ra MV tái xuất](https://vnexpress.net/noo-phuoc-thinh-ra-mv-tai-xuat-4770661.html) - 16:19 16/07/2024
 - 🌮 [Hậu trường Tôn Ngộ Không bị núi đè ở &#39;Tây du ký&#39;](https://vnexpress.net/hau-truong-ton-ngo-khong-bi-nui-de-o-tay-du-ky-4770712.html) - 11:00 16/07/2024
 - 🧠 [Minh Toại - thầy giáo tiếng Anh thành á vương Mr World Vietnam](https://vnexpress.net/minh-toai-thay-giao-tieng-anh-thanh-a-vuong-mr-world-vietnam-4770520.html) - 07:50 16/07/2024
