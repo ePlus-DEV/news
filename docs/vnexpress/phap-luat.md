@@ -15,7 +15,7 @@ sidebar_position: 12
 - 🌋 [Tài xế dương tính với ma túy khi gây tai nạn khiến bốn mẹ con tử vong](https://vnexpress.net/tai-xe-duong-tinh-voi-ma-tuy-khi-gay-tai-nan-khien-bon-me-con-tu-vong-4771112.html) - 06:01 17/07/2024
 - 🎬 [Bộ Công an có hai thứ trưởng mới](https://vnexpress.net/bo-cong-an-co-hai-thu-truong-moi-4771101.html) - 05:33 17/07/2024
 - 💯 [Tổng giám đốc Việt Á Phan Quốc Việt được VKS đề nghị giảm 3 năm tù](https://vnexpress.net/bon-cuu-si-quan-quan-y-xin-giam-hinh-phat-trong-vu-an-lien-quan-viet-a-4770998.html) - 05:26 17/07/2024
-- 🌏 [10 người bị khởi tố trong vụ chủ tịch huyện bị lừa 170 tỷ đồng](https://vnexpress.net/10-nguoi-bi-khoi-to-trong-vu-chu-tich-huyen-bi-lua-170-ty-dong-4771035.html) - 05:22 17/07/2024
+- 🌏 [Chủ tịch huyện bị kẻ xưng &#39;Phó giám đốc Công an tỉnh&#39; lừa 170 tỷ đồng](https://vnexpress.net/chu-tich-huyen-bi-ke-xung-pho-giam-doc-cong-an-tinh-lua-170-ty-dong-4771035.html) - 05:22 17/07/2024
 - 🌊 [Cựu phó chủ tịch TP HCM Nguyễn Thị Hồng bị bắt](https://vnexpress.net/cuu-pho-chu-tich-tp-hcm-nguyen-thi-hong-bi-bat-4770952.html) - 01:56 17/07/2024
 - 💂 [Ngôi sao Instagram dụ dỗ phụ nữ làm nô lệ, ép bán dâm](https://vnexpress.net/ngoi-sao-instagram-du-do-phu-nu-lam-no-le-ep-ban-dam-4770831.html) - 17:00 16/07/2024
 - 🎡 [Vì sao Trịnh Văn Quyết bị cáo buộc dùng xảo thuật tăng vốn Faros gấp 2.866 lần?](https://vnexpress.net/vi-sao-trinh-van-quyet-bi-cao-buoc-dung-xao-thuat-tang-von-faros-gap-2-866-lan-4769229.html) - 17:00 16/07/2024
