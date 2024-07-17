@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Mỹ từng nhận tin tình báo về &#39;nguy cơ Iran ám sát ông Trump&#39;](https://vnexpress.net/my-tung-nhan-tin-tinh-bao-ve-nguy-co-iran-am-sat-ong-trump-4770898.html) - 00:30 17/07/2024
+- 🎭 [Mỹ từng nhận tin tình báo về &#39;nguy cơ ám sát ông Trump&#39;](https://vnexpress.net/my-tung-nhan-tin-tinh-bao-ve-nguy-co-am-sat-ong-trump-4770898.html) - 00:30 17/07/2024
 - 🕴 [Lý do ông Trump chọn Vance làm phó tướng](https://vnexpress.net/ly-do-ong-trump-chon-vance-lam-pho-tuong-4770456.html) - 22:00 16/07/2024
 - 🤭 [Hiện trường vụ nhóm người Việt chết trong khách sạn Thái Lan](https://vnexpress.net/hien-truong-vu-nhom-nguoi-viet-chet-trong-khach-san-thai-lan-4770886.html) - 18:11 16/07/2024
 - 🧑‍💻 [Mật vụ Mỹ được huấn luyện ra sao](https://vnexpress.net/mat-vu-my-duoc-huan-luyen-ra-sao-4770744.html) - 17:00 16/07/2024
