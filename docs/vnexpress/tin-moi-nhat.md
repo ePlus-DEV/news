@@ -6,7 +6,7 @@ sidebar_position: 9
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Nam sinh bỏ trường chuyên, giành cú đúp thủ khoa ở Đà Nẵng](https://vnexpress.net/nam-sinh-bo-truong-chuyen-gianh-cu-dup-thu-khoa-o-da-nang-4771271.html) - 12:37 17/07/2024
 - 🐎 [Justin Bieber chuộng phong cách luộm thuộm](https://vnexpress.net/justin-bieber-chuong-phong-cach-luom-thuom-4771311.html) - 12:33 17/07/2024
-- 🦍 [Hòa Bình báo lãi đạt đỉnh](https://vnexpress.net/hoa-binh-bao-lai-dat-dinh-4771314.html) - 12:32 17/07/2024
+- 🦍 [Xây dựng Hoà Bình báo lãi đạt đỉnh](https://vnexpress.net/xay-dung-hoa-binh-bao-lai-dat-dinh-4771314.html) - 12:32 17/07/2024
 - 🏊 [Cách nào phân biệt bệnh bạch hầu và viêm họng?](https://vnexpress.net/cach-nao-phan-biet-benh-bach-hau-va-viem-hong-4771120.html) - 12:30 17/07/2024
 - 🎊 [Nga bác tin chiến dịch tấn công Kharkov thất bại](https://vnexpress.net/nga-bac-tin-chien-dich-tan-cong-kharkov-that-bai-4771313.html) - 12:09 17/07/2024
 - 🎃 [Vợ chồng trẻ được trợ giúp trên đường đi bộ từ Nam ra Bắc](https://vnexpress.net/vo-chong-tre-duoc-tro-giup-tren-duong-di-bo-tu-nam-ra-bac-4771312.html) - 12:09 17/07/2024
