@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cựu Phó chủ tịch TP HCM Nguyễn Thị Hồng bị bắt](https://vnexpress.net/cuu-pho-chu-tich-tp-hcm-nguyen-thi-hong-bi-bat-4770952.html) - 01:56 17/07/2024
+- 😎 [Cựu phó chủ tịch TP HCM Nguyễn Thị Hồng bị bắt](https://vnexpress.net/cuu-pho-chu-tich-tp-hcm-nguyen-thi-hong-bi-bat-4770952.html) - 01:56 17/07/2024
 - 🥰 [Ngôi sao Instagram dụ dỗ phụ nữ làm nô lệ, ép bán dâm](https://vnexpress.net/ngoi-sao-instagram-du-do-phu-nu-lam-no-le-ep-ban-dam-4770831.html) - 17:00 16/07/2024
 - 🎓 [Vì sao Trịnh Văn Quyết bị cáo buộc dùng xảo thuật tăng vốn Faros gấp 2.866 lần?](https://vnexpress.net/vi-sao-trinh-van-quyet-bi-cao-buoc-dung-xao-thuat-tang-von-faros-gap-2-866-lan-4769229.html) - 17:00 16/07/2024
 - 🤓 [Tài xế ôtô tông, hất cảnh sát lên capo bị tạm giữ](https://vnexpress.net/tai-xe-oto-tong-hat-canh-sat-len-capo-bi-tam-giu-4770855.html) - 14:08 16/07/2024
