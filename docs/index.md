@@ -27,7 +27,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Khoảnh khắc xuồng tự sát Houthi lao trúng tàu dầu](https://vnexpress.net/khoanh-khac-xuong-tu-sat-houthi-lao-trung-tau-dau-4771559.html) - 06:53 18/07/2024
-- 🧰 [Trao huân chương Sao vàng tặng Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/trao-huan-chuong-sao-vang-tang-tong-bi-thu-nguyen-phu-trong-4771595.html) - 06:43 18/07/2024
+- 🧰 [Trao huân chương Sao Vàng tặng Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/trao-huan-chuong-sao-vang-tang-tong-bi-thu-nguyen-phu-trong-4771595.html) - 06:43 18/07/2024
 - 🥰 [HIEUTHUHAI - từ sinh viên kinh tế đến rapper hút fan](https://vnexpress.net/hieuthuhai-tu-sinh-vien-kinh-te-den-rapper-hut-fan-4771487.html) - 06:30 18/07/2024
 - 🌏 [Ăn uống như thế nào để bảo vệ phổi?](https://vnexpress.net/an-uong-nhu-the-nao-de-bao-ve-phoi-4771509.html) - 06:30 18/07/2024
 - 🧐 [Hội An được bình chọn thành phố đẹp thứ 4 thế giới](https://vnexpress.net/hoi-an-duoc-binh-chon-thanh-pho-dep-thu-4-the-gioi-4771435.html) - 06:19 18/07/2024
