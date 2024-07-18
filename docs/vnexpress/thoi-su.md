@@ -4,16 +4,16 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Chi hơn 88 tỷ đồng đóng cửa bãi rác lớn nhất Bình Thuận](https://vnexpress.net/chi-hon-88-ty-dong-dong-cua-bai-rac-lon-nhat-binh-thuan-4771336.html) - 14:16 17/07/2024
-- 🤓 [Vợ chồng trẻ được trợ giúp trên đường đi bộ từ Nam ra Bắc](https://vnexpress.net/vo-chong-tre-duoc-tro-giup-tren-duong-di-bo-tu-nam-ra-bac-4771312.html) - 12:09 17/07/2024
-- ⚗️ [Cứu 5 thuyền viên trôi dạt hơn 50 km trên biển Côn Đảo](https://vnexpress.net/chim-tau-ca-4771329.html) - 12:06 17/07/2024
-- 🌊 [Thông xe cầu Bến Rừng nối Hải Phòng và Quảng Ninh](https://vnexpress.net/thong-xe-cau-ben-rung-noi-hai-phong-va-quang-ninh-4771160.html) - 11:42 17/07/2024
-- 🎓 [Đoạn trên cao metro Nhổn - ga Hà Nội dự kiến vận hành cuối tháng 7](https://vnexpress.net/doan-tren-cao-metro-nhon-ga-ha-noi-du-kien-van-hanh-cuoi-thang-7-4771196.html) - 10:26 17/07/2024
-- 🔥 [Tiểu sử bà Bùi Thị Minh Hoài - nữ Bí thư Thành ủy đầu tiên của Hà Nội](https://vnexpress.net/tieu-su-nu-bi-thu-thanh-uy-dau-tien-cua-ha-noi-4771274.html) - 09:20 17/07/2024
-- 🦏 [Bà Bùi Thị Minh Hoài làm Bí thư Thành ủy Hà Nội](https://vnexpress.net/ba-bui-thi-minh-hoai-lam-bi-thu-thanh-uy-ha-noi-4770715.html) - 08:41 17/07/2024
-- 👺 [Nhà ba tầng tan hoang sau vụ nổ](https://vnexpress.net/nha-ba-tang-tan-hoang-sau-vu-no-4771114.html) - 07:03 17/07/2024
-- 🧑‍🏫 [Lái tàu bị ném đá: &#39;Tôi tối sầm mắt&#39;](https://vnexpress.net/lai-tau-bi-nem-da-toi-toi-sam-mat-4770813.html) - 06:19 17/07/2024
-- 🚦 [Thoát mù chữ nhờ những lớp học ban đêm](https://vnexpress.net/thoat-mu-chu-nho-nhung-lop-hoc-ban-dem-4770724.html) - 05:05 17/07/2024
+- 🦒 [Thoát mù chữ nhờ những lớp học ban đêm](https://vnexpress.net/thoat-mu-chu-nho-nhung-lop-hoc-ban-dem-4770724.html) - 17:00 17/07/2024
+- 🤓 [Chi hơn 88 tỷ đồng đóng cửa bãi rác lớn nhất Bình Thuận](https://vnexpress.net/chi-hon-88-ty-dong-dong-cua-bai-rac-lon-nhat-binh-thuan-4771336.html) - 14:16 17/07/2024
+- ⚗️ [Vợ chồng trẻ được trợ giúp trên đường đi bộ từ Nam ra Bắc](https://vnexpress.net/vo-chong-tre-duoc-tro-giup-tren-duong-di-bo-tu-nam-ra-bac-4771312.html) - 12:09 17/07/2024
+- 🌊 [Cứu 5 thuyền viên trôi dạt hơn 50 km trên biển Côn Đảo](https://vnexpress.net/chim-tau-ca-4771329.html) - 12:06 17/07/2024
+- 🎓 [Thông xe cầu Bến Rừng nối Hải Phòng và Quảng Ninh](https://vnexpress.net/thong-xe-cau-ben-rung-noi-hai-phong-va-quang-ninh-4771160.html) - 11:42 17/07/2024
+- 🔥 [Đoạn trên cao metro Nhổn - ga Hà Nội dự kiến vận hành cuối tháng 7](https://vnexpress.net/doan-tren-cao-metro-nhon-ga-ha-noi-du-kien-van-hanh-cuoi-thang-7-4771196.html) - 10:26 17/07/2024
+- 🦏 [Tiểu sử bà Bùi Thị Minh Hoài - nữ Bí thư Thành ủy đầu tiên của Hà Nội](https://vnexpress.net/tieu-su-nu-bi-thu-thanh-uy-dau-tien-cua-ha-noi-4771274.html) - 09:20 17/07/2024
+- 👺 [Bà Bùi Thị Minh Hoài làm Bí thư Thành ủy Hà Nội](https://vnexpress.net/ba-bui-thi-minh-hoai-lam-bi-thu-thanh-uy-ha-noi-4770715.html) - 08:41 17/07/2024
+- 🧑‍🏫 [Nhà ba tầng tan hoang sau vụ nổ](https://vnexpress.net/nha-ba-tang-tan-hoang-sau-vu-no-4771114.html) - 07:03 17/07/2024
+- 🚦 [Lái tàu bị ném đá: &#39;Tôi tối sầm mắt&#39;](https://vnexpress.net/lai-tau-bi-nem-da-toi-toi-sam-mat-4770813.html) - 06:19 17/07/2024
 - 🎉 [Chưa tháo dỡ tòa nhà ở đồi Cù Đà Lạt do &#39;vướng tranh chấp&#39;](https://vnexpress.net/toa-nha-doi-cu-4771093.html) - 04:51 17/07/2024
 - 🦒 [Tìm thêm 8 hài cốt liệt sĩ ở Khe Sanh](https://vnexpress.net/tim-them-8-hai-cot-liet-si-o-khe-sanh-4770902.html) - 03:52 17/07/2024
 - 🤗 [Nổ ở Thái Nguyên, một người chết](https://vnexpress.net/no-o-thai-nguyen-mot-nguoi-chet-4771010.html) - 03:20 17/07/2024
