@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [TP HCM xem công nghiệp là động lực phát triển mới](https://vnexpress.net/tp-hcm-xem-cong-nghiep-la-dong-luc-phat-trien-moi-4771780.html) - 13:06 18/07/2024
+- ⛽️ [TP HCM coi công nghiệp là động lực phát triển mới](https://vnexpress.net/tp-hcm-coi-cong-nghiep-la-dong-luc-phat-trien-moi-4771780.html) - 13:06 18/07/2024
 - 🐲 [Doanh thu Nokia thấp nhất gần 10 năm](https://vnexpress.net/doanh-thu-nokia-thap-nhat-gan-10-nam-4771729.html) - 10:01 18/07/2024
 - 🔥 [Chứng khoán đảo chiều tăng vào cuối phiên](https://vnexpress.net/chung-khoan-hom-nay-18-7-vn-index-dao-chieu-vao-cuoi-phien-4771668.html) - 09:04 18/07/2024
 - 🐵 [Giá xăng về sát 23.000 đồng một lít](https://vnexpress.net/gia-xang-moi-nhat-hom-nay-18-7-4771598.html) - 07:42 18/07/2024
