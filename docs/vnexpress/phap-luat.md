@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Bắn chủ nợ khi bị đòi tiền](https://vnexpress.net/ban-chu-no-khi-bi-doi-tien-4771434.html) - 02:21 18/07/2024
-- 🥰 [Hai cựu cục trưởng Đăng kiểm Việt Nam và hơn 250 người ra tòa](https://vnexpress.net/hai-cuu-cuc-truong-dang-kiem-viet-nam-va-hon-250-nguoi-ra-toa-4770300.html) - 23:00 17/07/2024
+- 🥰 [Hai cựu cục trưởng Đăng kiểm Việt Nam và hơn 250 người ra tòa](https://vnexpress.net/hai-cuu-cuc-truong-dang-kiem-viet-nam-va-hon-250-nguoi-ra-toa-4770300-tong-thuat.html) - 23:00 17/07/2024
 - 🎓 [Kế giả chết của phi công làm việc &#39;hai mang&#39; cho các trùm ma túy](https://vnexpress.net/ke-gia-chet-cua-phi-cong-lam-viec-cho-trum-ma-tuy-4771301.html) - 17:00 17/07/2024
 - 🤓 [Lao xe máy vào nhóm bạn của người yêu cũ](https://vnexpress.net/lao-xe-may-vao-nhom-ban-cua-nguoi-yeu-cu-4771328.html) - 11:42 17/07/2024
 - 🎊 [Người cầm đầu vụ buôn lậu 6 tấn vàng bị đề nghị 17-18 năm tù](https://vnexpress.net/nguoi-cam-dau-vu-buon-lau-6-tan-vang-bi-de-nghi-17-18-nam-tu-4771284.html) - 11:08 17/07/2024
