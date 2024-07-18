@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Pháp y Thái Lan sẵn sàng bàn giao thi thể nhóm người Việt](https://vnexpress.net/phap-y-thai-lan-san-sang-ban-giao-thi-the-nhom-nguoi-viet-4771811.html) - 15:28 18/07/2024
-- 🕴 [Ông Trump dẫn trước Tổng thống Biden trên toàn quốc](https://vnexpress.net/ong-trump-dan-truoc-tong-thong-biden-tren-toan-quoc-4771792.html) - 14:27 18/07/2024
-- 🤭 [Ukraine lắp thiết bị chống drone lên xe tăng Abrams](https://vnexpress.net/ukraine-lap-thiet-bi-chong-drone-len-xe-tang-abrams-4771657.html) - 14:07 18/07/2024
-- 🧑‍💻 [Nga kết án cựu lính dù Mỹ 13 năm tù](https://vnexpress.net/nga-ket-an-cuu-linh-du-my-13-nam-tu-4771782.html) - 13:08 18/07/2024
-- 🦏 [Lãnh đạo Việt Nam gửi lời thăm hỏi ông Trump](https://vnexpress.net/lanh-dao-viet-nam-gui-loi-tham-hoi-ong-trump-4771795.html) - 12:55 18/07/2024
-- 🦒 [Vụ ám sát hụt tiếp động lực tranh cử cho ông Trump thế nào](https://vnexpress.net/vu-am-sat-hut-tiep-dong-luc-tranh-cu-cho-ong-trump-the-nao-4770118.html) - 12:26 18/07/2024
-- 🌈 [Nhóm nghị sĩ truy hỏi Giám đốc Mật vụ Mỹ vụ ông Trump bị bắn](https://vnexpress.net/nhom-nghi-si-truy-hoi-giam-doc-mat-vu-my-vu-ong-trump-bi-ban-4771762.html) - 12:01 18/07/2024
-- 🧑‍🏫 [Khoảnh khắc nghi phạm lảng vảng trước vụ ám sát hụt ông Trump](https://vnexpress.net/khoanh-khac-nghi-pham-lang-vang-truoc-vu-am-sat-hut-ong-trump-4771589.html) - 10:53 18/07/2024
-- 🐲 [Phó tướng của Trump tuyên bố sẽ &#39;đấu tranh vì người lao động&#39;](https://vnexpress.net/pho-tuong-cua-trump-tuyen-bo-se-dau-tranh-vi-nguoi-lao-dong-4771623.html) - 10:30 18/07/2024
-- 🦒 [Gần 33.000 người Việt nhập tịch Mỹ năm 2023](https://vnexpress.net/gan-33-000-nguoi-viet-nhap-tich-my-nam-2023-4771674.html) - 09:54 18/07/2024
-- 🐻 [Các nước tôn trọng quyền của Việt Nam về nộp Đệ trình Ranh giới thềm lục địa mở rộng](https://vnexpress.net/cac-nuoc-ton-trong-quyen-cua-viet-nam-ve-nop-de-trinh-ranh-gioi-them-luc-dia-mo-rong-4771692.html) - 09:53 18/07/2024
-- 🚀 [Con trai và bạn bè tiết lộ thương tích của ông Trump](https://vnexpress.net/con-trai-va-ban-be-tiet-lo-thuong-tich-cua-ong-trump-4771502.html) - 09:46 18/07/2024
-- 🥰 [Việt Nam đề nghị Thái Lan cung cấp thông tin về vụ nhóm công dân bị đầu độc](https://vnexpress.net/viet-nam-de-nghi-thai-lan-cung-cap-thong-tin-ve-vu-nhom-cong-dan-bi-dau-doc-4771687.html) - 09:28 18/07/2024
-- 🔥 [Thủ tướng Nhật xin lỗi những người bị ép triệt sản](https://vnexpress.net/thu-tuong-nhat-xin-loi-nhung-nguoi-bi-ep-triet-san-4771618.html) - 09:04 18/07/2024
-- 🥳 [Nga tuyên bố hạ hơn 40 UAV, xuồng tự sát nhằm vào Crimea](https://vnexpress.net/nga-tuyen-bo-ha-hon-40-uav-xuong-tu-sat-nham-vao-crimea-4771629.html) - 08:30 18/07/2024
-- 💼 [Cháu gái kể về tình cảm với ông Trump tại đại hội đảng Cộng hòa](https://vnexpress.net/chau-gai-ke-ve-tinh-cam-voi-ong-trump-tai-dai-hoi-dang-cong-hoa-4771575.html) - 07:59 18/07/2024
-- 🤡 [Pháo binh vẫn là &#39;vua chiến trường&#39; tại Ukraine](https://vnexpress.net/phao-binh-van-la-vua-chien-truong-tai-ukraine-4771044.html) - 07:31 18/07/2024
-- 🌁 [Nghi phạm thăm dò hiện trường hai lần trước khi ám sát ông Trump](https://vnexpress.net/nghi-pham-tham-do-hien-truong-hai-lan-truoc-khi-am-sat-ong-trump-4771465.html) - 07:10 18/07/2024
-- 🤩 [Khoảnh khắc xuồng tự sát Houthi lao trúng tàu dầu](https://vnexpress.net/khoanh-khac-xuong-tu-sat-houthi-lao-trung-tau-dau-4771559.html) - 06:53 18/07/2024
+- 🎭 [&#39;Dòng sông tử thần&#39; với những người Ukraine trốn quân dịch](https://vnexpress.net/dong-song-tu-than-voi-nhung-nguoi-ukraine-tron-quan-dich-4771765.html) - 17:00 18/07/2024
+- 🕴 [Pháp y Thái Lan sẵn sàng bàn giao thi thể nhóm người Việt](https://vnexpress.net/phap-y-thai-lan-san-sang-ban-giao-thi-the-nhom-nguoi-viet-4771811.html) - 15:28 18/07/2024
+- 🤭 [Ông Trump dẫn trước Tổng thống Biden trên toàn quốc](https://vnexpress.net/ong-trump-dan-truoc-tong-thong-biden-tren-toan-quoc-4771792.html) - 14:27 18/07/2024
+- 🧑‍💻 [Ukraine lắp thiết bị chống drone lên xe tăng Abrams](https://vnexpress.net/ukraine-lap-thiet-bi-chong-drone-len-xe-tang-abrams-4771657.html) - 14:07 18/07/2024
+- 🦏 [Nga kết án cựu lính dù Mỹ 13 năm tù](https://vnexpress.net/nga-ket-an-cuu-linh-du-my-13-nam-tu-4771782.html) - 13:08 18/07/2024
+- 🦒 [Lãnh đạo Việt Nam gửi lời thăm hỏi ông Trump](https://vnexpress.net/lanh-dao-viet-nam-gui-loi-tham-hoi-ong-trump-4771795.html) - 12:55 18/07/2024
+- 🌈 [Vụ ám sát hụt tiếp động lực tranh cử cho ông Trump thế nào](https://vnexpress.net/vu-am-sat-hut-tiep-dong-luc-tranh-cu-cho-ong-trump-the-nao-4770118.html) - 12:26 18/07/2024
+- 🧑‍🏫 [Nhóm nghị sĩ truy hỏi Giám đốc Mật vụ Mỹ vụ ông Trump bị bắn](https://vnexpress.net/nhom-nghi-si-truy-hoi-giam-doc-mat-vu-my-vu-ong-trump-bi-ban-4771762.html) - 12:01 18/07/2024
+- 🐲 [Khoảnh khắc nghi phạm lảng vảng trước vụ ám sát hụt ông Trump](https://vnexpress.net/khoanh-khac-nghi-pham-lang-vang-truoc-vu-am-sat-hut-ong-trump-4771589.html) - 10:53 18/07/2024
+- 🦒 [Phó tướng của Trump tuyên bố sẽ &#39;đấu tranh vì người lao động&#39;](https://vnexpress.net/pho-tuong-cua-trump-tuyen-bo-se-dau-tranh-vi-nguoi-lao-dong-4771623.html) - 10:30 18/07/2024
+- 🐻 [Gần 33.000 người Việt nhập tịch Mỹ năm 2023](https://vnexpress.net/gan-33-000-nguoi-viet-nhap-tich-my-nam-2023-4771674.html) - 09:54 18/07/2024
+- 🚀 [Các nước tôn trọng quyền của Việt Nam về nộp Đệ trình Ranh giới thềm lục địa mở rộng](https://vnexpress.net/cac-nuoc-ton-trong-quyen-cua-viet-nam-ve-nop-de-trinh-ranh-gioi-them-luc-dia-mo-rong-4771692.html) - 09:53 18/07/2024
+- 🥰 [Con trai và bạn bè tiết lộ thương tích của ông Trump](https://vnexpress.net/con-trai-va-ban-be-tiet-lo-thuong-tich-cua-ong-trump-4771502.html) - 09:46 18/07/2024
+- 🔥 [Việt Nam đề nghị Thái Lan cung cấp thông tin về vụ nhóm công dân bị đầu độc](https://vnexpress.net/viet-nam-de-nghi-thai-lan-cung-cap-thong-tin-ve-vu-nhom-cong-dan-bi-dau-doc-4771687.html) - 09:28 18/07/2024
+- 🥳 [Thủ tướng Nhật xin lỗi những người bị ép triệt sản](https://vnexpress.net/thu-tuong-nhat-xin-loi-nhung-nguoi-bi-ep-triet-san-4771618.html) - 09:04 18/07/2024
+- 💼 [Nga tuyên bố hạ hơn 40 UAV, xuồng tự sát nhằm vào Crimea](https://vnexpress.net/nga-tuyen-bo-ha-hon-40-uav-xuong-tu-sat-nham-vao-crimea-4771629.html) - 08:30 18/07/2024
+- 🤡 [Cháu gái kể về tình cảm với ông Trump tại đại hội đảng Cộng hòa](https://vnexpress.net/chau-gai-ke-ve-tinh-cam-voi-ong-trump-tai-dai-hoi-dang-cong-hoa-4771575.html) - 07:59 18/07/2024
+- 🌁 [Pháo binh vẫn là &#39;vua chiến trường&#39; tại Ukraine](https://vnexpress.net/phao-binh-van-la-vua-chien-truong-tai-ukraine-4771044.html) - 07:31 18/07/2024
+- 🤩 [Nghi phạm thăm dò hiện trường hai lần trước khi ám sát ông Trump](https://vnexpress.net/nghi-pham-tham-do-hien-truong-hai-lan-truoc-khi-am-sat-ong-trump-4771465.html) - 07:10 18/07/2024
+- 🎉 [Khoảnh khắc xuồng tự sát Houthi lao trúng tàu dầu](https://vnexpress.net/khoanh-khac-xuong-tu-sat-houthi-lao-trung-tau-dau-4771559.html) - 06:53 18/07/2024
 - 🎉 [Lý do mật vụ để lọt mái nhà có tay súng ám sát ông Trump](https://vnexpress.net/ly-do-mat-vu-de-lot-mai-nha-co-tay-sung-am-sat-ong-trump-4771307.html) - 05:07 18/07/2024
-- 🎉 [NATO điều tiêm kích giám sát Su-30 Nga](https://vnexpress.net/nato-dieu-tiem-kich-giam-sat-su-30-nga-4771473.html) - 04:45 18/07/2024
-- 🌁 [Phó tướng của ông Trump khiến châu Âu thấp thỏm](https://vnexpress.net/pho-tuong-cua-ong-trump-khien-chau-au-thap-thom-4770913.html) - 04:28 18/07/2024
-- 🌊 [Mỹ từ bỏ cầu tàu 320 triệu USD ở Gaza](https://vnexpress.net/my-tu-bo-cau-tau-320-trieu-usd-o-gaza-4771466.html) - 03:20 18/07/2024
-- 🕴 [Đại biểu Cộng hòa băng tai thể hiện tình đoàn kết với ông Trump](https://vnexpress.net/dai-bieu-cong-hoa-bang-tai-the-hien-tinh-doan-ket-voi-ong-trump-4771410.html) - 03:19 18/07/2024
-- 🎓 [Thống đốc Mỹ khoe chó cưng tại đại hội đảng Cộng hòa](https://vnexpress.net/thong-doc-my-khoe-cho-cung-tai-dai-hoi-dang-cong-hoa-4771401.html) - 02:55 18/07/2024
-- 🦩 [Thủ tướng: Bảo vệ quyền, lợi ích công dân trong vụ người Việt chết tại Thái Lan](https://vnexpress.net/thu-tuong-bao-ve-quyen-loi-ich-cong-dan-trong-vu-nguoi-viet-chet-tai-thai-lan-4771407.html) - 02:38 18/07/2024
-- 🌏 [Ông Trump muốn Đài Loan &#39;chi tiền để Mỹ bảo vệ&#39;](https://vnexpress.net/ong-trump-muon-dai-loan-chi-tien-de-my-bao-ve-4771370.html) - 02:16 18/07/2024
-- 🌋 [Công ty Nga treo thưởng cho người đầu tiên hạ F-16 Ukraine](https://vnexpress.net/cong-ty-nga-treo-thuong-cho-nguoi-dau-tien-ha-f-16-ukraine-4771395.html) - 02:09 18/07/2024
-- 🪜 [Nghị sĩ hàng đầu đảng Dân chủ kêu gọi ông Biden dừng tranh cử](https://vnexpress.net/nghi-si-hang-dau-dang-dan-chu-keu-goi-ong-biden-dung-tranh-cu-4771359.html) - 00:30 18/07/2024
-- 🕴 [Việt Nam nộp Đệ trình Ranh giới thềm lục địa mở rộng ở Khu vực Giữa Biển Đông](https://vnexpress.net/viet-nam-nop-de-trinh-ranh-gioi-them-luc-dia-mo-rong-o-khu-vuc-giua-bien-dong-4771371.html) - 00:08 18/07/2024
-- 🧑‍🏫 [Tổng thống Biden mắc Covid-19](https://vnexpress.net/tong-thong-biden-mac-covid-19-4771364.html) - 22:48 17/07/2024
-- 🌮 [Cách ông Trump chọn phó tướng &#39;như show truyền hình thực tế&#39;](https://vnexpress.net/cach-ong-trump-chon-pho-tuong-nhu-show-truyen-hinh-thuc-te-4770663.html) - 17:00 17/07/2024
-- 🚦 [Cháy trung tâm thương mại Trung Quốc, 6 người chết](https://vnexpress.net/chay-trung-tam-thuong-mai-trung-quoc-6-nguoi-chet-4771349.html) - 16:08 17/07/2024
-- 💫 [Nhóm người Việt từng kiện nhau ra tòa trước vụ đầu độc ở Thái Lan](https://vnexpress.net/nhom-nguoi-viet-tung-kien-nhau-ra-toa-truoc-vu-dau-doc-o-thai-lan-4771341.html) - 15:21 17/07/2024
-- 🤡 [Nga bác tin chiến dịch tấn công Kharkov thất bại](https://vnexpress.net/nga-bac-tin-chien-dich-tan-cong-kharkov-that-bai-4771313.html) - 12:09 17/07/2024
-- 🦣 [Mục sư gây sốt khi bắt chước ông Trump](https://vnexpress.net/muc-su-gay-sot-khi-bat-chuoc-ong-trump-4771290.html) - 10:55 17/07/2024
-- 🎬 [Rocket Hezbollah nổ như pháo hoa trên bầu trời Israel](https://vnexpress.net/rocket-hezbollah-no-nhu-phao-hoa-tren-bau-troi-israel-4771278.html) - 10:32 17/07/2024
-- 🎉 [Khoảnh khắc mật vụ Mỹ ném giày của ông Trump trong vụ ám sát hụt](https://vnexpress.net/khoanh-khac-mat-vu-my-nem-giay-cua-ong-trump-trong-vu-am-sat-hut-4771223.html) - 10:12 17/07/2024
-- 🎡 [Mỹ truy tố chuyên gia làm &#39;đặc vụ&#39; cho Hàn Quốc](https://vnexpress.net/my-truy-to-chuyen-gia-lam-dac-vu-cho-han-quoc-4771125.html) - 09:31 17/07/2024
-- 🌜 [Pháp y Thái Lan công bố thủ đoạn nghi phạm đầu độc nhóm người Việt](https://vnexpress.net/phap-y-thai-lan-cong-bo-thu-doan-nghi-pham-dau-doc-nhom-nguoi-viet-4771258.html) - 09:04 17/07/2024
-- 🎡 [Tên lửa Iskander tập kích thao trường của lữ đoàn Ukraine](https://vnexpress.net/ten-lua-iskander-tap-kich-thao-truong-cua-lu-doan-ukraine-4771007.html) - 08:19 17/07/2024
-- 🤗 [Việt Nam sẽ hỗ trợ thủ tục hậu sự cho thân nhân nhóm người tử vong ở Thái Lan](https://vnexpress.net/viet-nam-se-ho-tro-thu-tuc-hau-su-cho-than-nhan-nhom-nguoi-tu-vong-o-thai-lan-4771170.html) - 08:11 17/07/2024
-- 🦩 [Bộ An ninh Nội địa Mỹ điều tra Sở Mật vụ về cách bảo vệ ông Trump](https://vnexpress.net/bo-an-ninh-noi-dia-my-dieu-tra-so-mat-vu-ve-cach-bao-ve-ong-trump-4771020.html) - 07:56 17/07/2024
-- 🎓 [Công ty của Trump rao bán giày in ảnh ông giơ nắm đấm](https://vnexpress.net/cong-ty-cua-trump-rao-ban-giay-in-anh-ong-gio-nam-dam-4770993.html) - 07:29 17/07/2024
-- 🌁 [Ukraine chuyển đạn chờ hủy cho binh sĩ trên tiền tuyến](https://vnexpress.net/ukraine-chuyen-dan-cho-huy-cho-binh-si-tren-tien-tuyen-4771019.html) - 07:23 17/07/2024
-- 🤩 [Mỹ bắt người mang súng gần nơi tổ chức đại hội đảng Cộng hòa](https://vnexpress.net/my-bat-nguoi-mang-sung-gan-noi-to-chuc-dai-hoi-dang-cong-hoa-4770938.html) - 05:10 17/07/2024
-- 👹 [Thái Lan xác định nghi phạm đầu độc nhóm người Việt](https://vnexpress.net/thai-lan-xac-dinh-nghi-pham-dau-doc-nhom-nguoi-viet-4771037.html) - 04:43 17/07/2024
-- ⛽️ [Ông Biden: Tôi sẽ chỉ bỏ cuộc nếu có vấn đề sức khỏe](https://vnexpress.net/ong-biden-toi-se-chi-bo-cuoc-neu-co-van-de-suc-khoe-4770959.html) - 04:34 17/07/2024
-- 🚀 [Ukraine nói Nga rút tàu tuần tra cuối cùng khỏi Crimea](https://vnexpress.net/ukraine-noi-nga-rut-tau-tuan-tra-cuoi-cung-khoi-crimea-4771011.html) - 04:21 17/07/2024
-- 🎡 [Bà Nikki Haley tuyên bố &#39;ủng hộ mạnh mẽ&#39; ông Trump](https://vnexpress.net/ba-nikki-haley-tuyen-bo-ung-ho-manh-me-ong-trump-4770958.html) - 04:02 17/07/2024
-- 🕯 [Lý do ông Trump liên tục đòi giày khi bị ám sát hụt](https://vnexpress.net/ly-do-ong-trump-lien-tuc-doi-giay-khi-bi-am-sat-hut-4770602.html) - 04:00 17/07/2024
-- 🐻 [FBI sẽ tham gia điều tra vụ nhóm người Việt chết ở Thái Lan](https://vnexpress.net/fbi-se-tham-gia-dieu-tra-vu-nhom-nguoi-viet-chet-o-thai-lan-4771022.html) - 03:56 17/07/2024
-- 🚦 [Israel tập kích liên hoàn Gaza, 48 người chết](https://vnexpress.net/israel-tap-kich-lien-hoan-gaza-48-nguoi-chet-4770923.html) - 03:55 17/07/2024
-- 👍 [Thượng nghị sĩ Mỹ bị kết tội tham nhũng](https://vnexpress.net/thuong-nghi-si-my-bi-ket-toi-tham-nhung-4770905.html) - 03:39 17/07/2024
-- 🚀 [Tổng thống Macron chấp thuận để Thủ tướng từ chức](https://vnexpress.net/tong-thong-macron-chap-thuan-de-thu-tuong-tu-chuc-4770910.html) - 03:38 17/07/2024
-- 🌮 [Thái Lan điều tra &#39;nghi can bí ẩn&#39; trong vụ nhóm người Việt tử vong](https://vnexpress.net/thai-lan-dieu-tra-nghi-can-bi-an-trong-vu-nhom-nguoi-viet-tu-vong-4770942.html) - 03:14 17/07/2024
-- 😎 [Mỹ từng nhận tin tình báo về &#39;nguy cơ ám sát ông Trump&#39;](https://vnexpress.net/my-tung-nhan-tin-tinh-bao-ve-nguy-co-am-sat-ong-trump-4770898.html) - 00:30 17/07/2024
-- 🐲 [Lý do ông Trump chọn Vance làm phó tướng](https://vnexpress.net/ly-do-ong-trump-chon-vance-lam-pho-tuong-4770456.html) - 22:00 16/07/2024
-- 💫 [Hiện trường vụ nhóm người Việt chết trong khách sạn Thái Lan](https://vnexpress.net/hien-truong-vu-nhom-nguoi-viet-chet-trong-khach-san-thai-lan-4770886.html) - 18:11 16/07/2024
-- 👀 [Mật vụ Mỹ được huấn luyện ra sao](https://vnexpress.net/mat-vu-my-duoc-huan-luyen-ra-sao-4770744.html) - 17:00 16/07/2024<!-- vnexpress-the-gioi:END -->
+- 🌁 [NATO điều tiêm kích giám sát Su-30 Nga](https://vnexpress.net/nato-dieu-tiem-kich-giam-sat-su-30-nga-4771473.html) - 04:45 18/07/2024
+- 🌊 [Phó tướng của ông Trump khiến châu Âu thấp thỏm](https://vnexpress.net/pho-tuong-cua-ong-trump-khien-chau-au-thap-thom-4770913.html) - 04:28 18/07/2024
+- 🕴 [Mỹ từ bỏ cầu tàu 320 triệu USD ở Gaza](https://vnexpress.net/my-tu-bo-cau-tau-320-trieu-usd-o-gaza-4771466.html) - 03:20 18/07/2024
+- 🎓 [Đại biểu Cộng hòa băng tai thể hiện tình đoàn kết với ông Trump](https://vnexpress.net/dai-bieu-cong-hoa-bang-tai-the-hien-tinh-doan-ket-voi-ong-trump-4771410.html) - 03:19 18/07/2024
+- 🦩 [Thống đốc Mỹ khoe chó cưng tại đại hội đảng Cộng hòa](https://vnexpress.net/thong-doc-my-khoe-cho-cung-tai-dai-hoi-dang-cong-hoa-4771401.html) - 02:55 18/07/2024
+- 🌏 [Thủ tướng: Bảo vệ quyền, lợi ích công dân trong vụ người Việt chết tại Thái Lan](https://vnexpress.net/thu-tuong-bao-ve-quyen-loi-ich-cong-dan-trong-vu-nguoi-viet-chet-tai-thai-lan-4771407.html) - 02:38 18/07/2024
+- 🌋 [Ông Trump muốn Đài Loan &#39;chi tiền để Mỹ bảo vệ&#39;](https://vnexpress.net/ong-trump-muon-dai-loan-chi-tien-de-my-bao-ve-4771370.html) - 02:16 18/07/2024
+- 🪜 [Công ty Nga treo thưởng cho người đầu tiên hạ F-16 Ukraine](https://vnexpress.net/cong-ty-nga-treo-thuong-cho-nguoi-dau-tien-ha-f-16-ukraine-4771395.html) - 02:09 18/07/2024
+- 🕴 [Nghị sĩ hàng đầu đảng Dân chủ kêu gọi ông Biden dừng tranh cử](https://vnexpress.net/nghi-si-hang-dau-dang-dan-chu-keu-goi-ong-biden-dung-tranh-cu-4771359.html) - 00:30 18/07/2024
+- 🧑‍🏫 [Việt Nam nộp Đệ trình Ranh giới thềm lục địa mở rộng ở Khu vực Giữa Biển Đông](https://vnexpress.net/viet-nam-nop-de-trinh-ranh-gioi-them-luc-dia-mo-rong-o-khu-vuc-giua-bien-dong-4771371.html) - 00:08 18/07/2024
+- 🌮 [Tổng thống Biden mắc Covid-19](https://vnexpress.net/tong-thong-biden-mac-covid-19-4771364.html) - 22:48 17/07/2024
+- 🚦 [Cách ông Trump chọn phó tướng &#39;như show truyền hình thực tế&#39;](https://vnexpress.net/cach-ong-trump-chon-pho-tuong-nhu-show-truyen-hinh-thuc-te-4770663.html) - 17:00 17/07/2024
+- 💫 [Cháy trung tâm thương mại Trung Quốc, 6 người chết](https://vnexpress.net/chay-trung-tam-thuong-mai-trung-quoc-6-nguoi-chet-4771349.html) - 16:08 17/07/2024
+- 🤡 [Nhóm người Việt từng kiện nhau ra tòa trước vụ đầu độc ở Thái Lan](https://vnexpress.net/nhom-nguoi-viet-tung-kien-nhau-ra-toa-truoc-vu-dau-doc-o-thai-lan-4771341.html) - 15:21 17/07/2024
+- 🦣 [Nga bác tin chiến dịch tấn công Kharkov thất bại](https://vnexpress.net/nga-bac-tin-chien-dich-tan-cong-kharkov-that-bai-4771313.html) - 12:09 17/07/2024
+- 🎬 [Mục sư gây sốt khi bắt chước ông Trump](https://vnexpress.net/muc-su-gay-sot-khi-bat-chuoc-ong-trump-4771290.html) - 10:55 17/07/2024
+- 🎉 [Rocket Hezbollah nổ như pháo hoa trên bầu trời Israel](https://vnexpress.net/rocket-hezbollah-no-nhu-phao-hoa-tren-bau-troi-israel-4771278.html) - 10:32 17/07/2024
+- 🎡 [Khoảnh khắc mật vụ Mỹ ném giày của ông Trump trong vụ ám sát hụt](https://vnexpress.net/khoanh-khac-mat-vu-my-nem-giay-cua-ong-trump-trong-vu-am-sat-hut-4771223.html) - 10:12 17/07/2024
+- 🌜 [Mỹ truy tố chuyên gia làm &#39;đặc vụ&#39; cho Hàn Quốc](https://vnexpress.net/my-truy-to-chuyen-gia-lam-dac-vu-cho-han-quoc-4771125.html) - 09:31 17/07/2024
+- 🎡 [Pháp y Thái Lan công bố thủ đoạn nghi phạm đầu độc nhóm người Việt](https://vnexpress.net/phap-y-thai-lan-cong-bo-thu-doan-nghi-pham-dau-doc-nhom-nguoi-viet-4771258.html) - 09:04 17/07/2024
+- 🤗 [Tên lửa Iskander tập kích thao trường của lữ đoàn Ukraine](https://vnexpress.net/ten-lua-iskander-tap-kich-thao-truong-cua-lu-doan-ukraine-4771007.html) - 08:19 17/07/2024
+- 🦩 [Việt Nam sẽ hỗ trợ thủ tục hậu sự cho thân nhân nhóm người tử vong ở Thái Lan](https://vnexpress.net/viet-nam-se-ho-tro-thu-tuc-hau-su-cho-than-nhan-nhom-nguoi-tu-vong-o-thai-lan-4771170.html) - 08:11 17/07/2024
+- 🎓 [Bộ An ninh Nội địa Mỹ điều tra Sở Mật vụ về cách bảo vệ ông Trump](https://vnexpress.net/bo-an-ninh-noi-dia-my-dieu-tra-so-mat-vu-ve-cach-bao-ve-ong-trump-4771020.html) - 07:56 17/07/2024
+- 🌁 [Công ty của Trump rao bán giày in ảnh ông giơ nắm đấm](https://vnexpress.net/cong-ty-cua-trump-rao-ban-giay-in-anh-ong-gio-nam-dam-4770993.html) - 07:29 17/07/2024
+- 🤩 [Ukraine chuyển đạn chờ hủy cho binh sĩ trên tiền tuyến](https://vnexpress.net/ukraine-chuyen-dan-cho-huy-cho-binh-si-tren-tien-tuyen-4771019.html) - 07:23 17/07/2024
+- 👹 [Mỹ bắt người mang súng gần nơi tổ chức đại hội đảng Cộng hòa](https://vnexpress.net/my-bat-nguoi-mang-sung-gan-noi-to-chuc-dai-hoi-dang-cong-hoa-4770938.html) - 05:10 17/07/2024
+- ⛽️ [Thái Lan xác định nghi phạm đầu độc nhóm người Việt](https://vnexpress.net/thai-lan-xac-dinh-nghi-pham-dau-doc-nhom-nguoi-viet-4771037.html) - 04:43 17/07/2024
+- 🚀 [Ông Biden: Tôi sẽ chỉ bỏ cuộc nếu có vấn đề sức khỏe](https://vnexpress.net/ong-biden-toi-se-chi-bo-cuoc-neu-co-van-de-suc-khoe-4770959.html) - 04:34 17/07/2024
+- 🎡 [Ukraine nói Nga rút tàu tuần tra cuối cùng khỏi Crimea](https://vnexpress.net/ukraine-noi-nga-rut-tau-tuan-tra-cuoi-cung-khoi-crimea-4771011.html) - 04:21 17/07/2024
+- 🕯 [Bà Nikki Haley tuyên bố &#39;ủng hộ mạnh mẽ&#39; ông Trump](https://vnexpress.net/ba-nikki-haley-tuyen-bo-ung-ho-manh-me-ong-trump-4770958.html) - 04:02 17/07/2024
+- 🐻 [Lý do ông Trump liên tục đòi giày khi bị ám sát hụt](https://vnexpress.net/ly-do-ong-trump-lien-tuc-doi-giay-khi-bi-am-sat-hut-4770602.html) - 04:00 17/07/2024
+- 🚦 [FBI sẽ tham gia điều tra vụ nhóm người Việt chết ở Thái Lan](https://vnexpress.net/fbi-se-tham-gia-dieu-tra-vu-nhom-nguoi-viet-chet-o-thai-lan-4771022.html) - 03:56 17/07/2024
+- 👍 [Israel tập kích liên hoàn Gaza, 48 người chết](https://vnexpress.net/israel-tap-kich-lien-hoan-gaza-48-nguoi-chet-4770923.html) - 03:55 17/07/2024
+- 🚀 [Thượng nghị sĩ Mỹ bị kết tội tham nhũng](https://vnexpress.net/thuong-nghi-si-my-bi-ket-toi-tham-nhung-4770905.html) - 03:39 17/07/2024
+- 🌮 [Tổng thống Macron chấp thuận để Thủ tướng từ chức](https://vnexpress.net/tong-thong-macron-chap-thuan-de-thu-tuong-tu-chuc-4770910.html) - 03:38 17/07/2024
+- 😎 [Thái Lan điều tra &#39;nghi can bí ẩn&#39; trong vụ nhóm người Việt tử vong](https://vnexpress.net/thai-lan-dieu-tra-nghi-can-bi-an-trong-vu-nhom-nguoi-viet-tu-vong-4770942.html) - 03:14 17/07/2024
+- 🐲 [Mỹ từng nhận tin tình báo về &#39;nguy cơ ám sát ông Trump&#39;](https://vnexpress.net/my-tung-nhan-tin-tinh-bao-ve-nguy-co-am-sat-ong-trump-4770898.html) - 00:30 17/07/2024
+- 💫 [Lý do ông Trump chọn Vance làm phó tướng](https://vnexpress.net/ly-do-ong-trump-chon-vance-lam-pho-tuong-4770456.html) - 22:00 16/07/2024
+- 👀 [Hiện trường vụ nhóm người Việt chết trong khách sạn Thái Lan](https://vnexpress.net/hien-truong-vu-nhom-nguoi-viet-chet-trong-khach-san-thai-lan-4770886.html) - 18:11 16/07/2024<!-- vnexpress-the-gioi:END -->
