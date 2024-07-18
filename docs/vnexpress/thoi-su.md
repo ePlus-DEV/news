@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [3 người tử vong sau tai nạn xe container](https://vnexpress.net/3-nguoi-tu-vong-sau-tai-nan-xe-container-4771443.html) - 02:58 18/07/2024
+- 🦒 [3 người tử vong sau tai nạn với xe container](https://vnexpress.net/3-nguoi-tu-vong-sau-tai-nan-voi-xe-container-4771443.html) - 02:58 18/07/2024
 - 🤓 [Thoát mù chữ nhờ những lớp học ban đêm](https://vnexpress.net/thoat-mu-chu-nho-nhung-lop-hoc-ban-dem-4770724.html) - 17:00 17/07/2024
 - ⚗️ [Chi hơn 88 tỷ đồng đóng cửa bãi rác lớn nhất Bình Thuận](https://vnexpress.net/chi-hon-88-ty-dong-dong-cua-bai-rac-lon-nhat-binh-thuan-4771336.html) - 14:16 17/07/2024
 - 🌊 [Vợ chồng trẻ được trợ giúp trên đường đi bộ từ Nam ra Bắc](https://vnexpress.net/vo-chong-tre-duoc-tro-giup-tren-duong-di-bo-tu-nam-ra-bac-4771312.html) - 12:09 17/07/2024
