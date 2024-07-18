@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Bộ Chính trị thông báo về sức khỏe của Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/bo-chinh-tri-thong-bao-ve-suc-khoe-cua-tong-bi-thu-nguyen-phu-trong-4771603.html) - 06:59 18/07/2024
-- 🤓 [Trao huân chương Sao vàng tặng Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/trao-huan-chuong-sao-vang-tang-tong-bi-thu-nguyen-phu-trong-4771595.html) - 06:43 18/07/2024
+- 🤓 [Tổng Bí thư Nguyễn Phú Trọng được trao tặng Huân chương Sao vàng](https://vnexpress.net/tong-bi-thu-nguyen-phu-trong-duoc-trao-tang-huan-chuong-sao-vang-4771595.html) - 06:43 18/07/2024
 - ⚗️ [Giếng ngầm sụt lún, nhiều hộ dân ở Hà Nội phải di dời](https://vnexpress.net/gieng-ngam-sut-lun-nhieu-ho-dan-o-ha-noi-phai-di-doi-4771515.html) - 04:33 18/07/2024
 - 🌊 [3 người tử vong sau tai nạn với xe container](https://vnexpress.net/3-nguoi-tu-vong-sau-tai-nan-voi-xe-container-4771443.html) - 02:58 18/07/2024
 - 🎓 [Thoát mù chữ nhờ những lớp học ban đêm](https://vnexpress.net/thoat-mu-chu-nho-nhung-lop-hoc-ban-dem-4770724.html) - 17:00 17/07/2024
