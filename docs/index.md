@@ -57,7 +57,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐲 [Giãy giụa sau một năm bỏ làm thuê để làm chủ](https://vnexpress.net/giay-giua-sau-mot-nam-bo-lam-thue-de-lam-chu-4772031.html) - 10:29 19/07/2024
 - 🌜 [Trung Quốc sẽ tập trung vào kinh tế trong nước](https://vnexpress.net/trung-quoc-se-tap-trung-vao-kinh-te-trong-nuoc-4772126.html) - 10:18 19/07/2024
 - 💄 [Công chúa Dubai tuyên bố bỏ chồng trên mạng xã hội](https://vnexpress.net/cong-chua-dubai-tuyen-bo-bo-chong-tren-mang-xa-hoi-4772117.html) - 10:08 19/07/2024
-- 🌁 [Điểm tin 17h: Áp thấp nhiệt đới hình thành trên Biển Đông; CEO Quốc Cường Gia Lai bị bắt](https://vnexpress.net/diem-tin-17h-ap-thap-nhiet-doi-hinh-thanh-tren-bien-dong-ceo-quoc-cuong-gia-lai-bi-bat-4772177.html) - 10:07 19/07/2024
+- 🌁 [Điểm tin 17h: Tổng bí thư Nguyễn Phú Trọng từ trần; Áp thấp nhiệt đới hình thành trên Biển Đông](https://vnexpress.net/diem-tin-17h-tong-bi-thu-nguyen-phu-trong-tu-tran-ap-thap-nhiet-doi-hinh-thanh-tren-bien-dong-4772177.html) - 10:07 19/07/2024
 - 🎬 [&#39;Project Silence&#39; - cuộc chiến sinh tồn](https://vnexpress.net/giai-tri/phim/thu-vien-phim/project-silence-719) - 10:07 19/07/2024
 - 👨‍🏫 [Vietlott: từ xổ số tự chọn đến doanh nghiệp vì cộng đồng](https://vnexpress.net/vietlott-tu-xo-so-tu-chon-den-doanh-nghiep-vi-cong-dong-4772153.html) - 10:00 19/07/2024
 - ⚗️ [Cùng phấn đấu và tận hưởng niềm vụ bình dị hàng ngày, em nhé](https://vnexpress.net/cung-phan-dau-va-tan-huong-niem-vu-binh-di-hang-ngay-em-nhe-4771989.html) - 10:00 19/07/2024
