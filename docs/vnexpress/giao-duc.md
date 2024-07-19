@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Điểm sàn Đại học Luật TP HCM thấp nhất 20](https://vnexpress.net/diem-san-dai-hoc-luat-tp-hcm-thap-nhat-20-4772192.html) - 10:50 19/07/2024
 - 🦆 [Đại học Khoa học tự nhiên Hà Nội công bố điểm sàn xét tuyển](https://vnexpress.net/dai-hoc-khoa-hoc-tu-nhien-ha-noi-cong-bo-diem-san-xet-tuyen-4772184.html) - 10:48 19/07/2024
-- 🦩 [Điểm sàn của Đại học Ngoại ngữ Hà Nội cao nhất 21](https://vnexpress.net/diem-san-cua-dai-hoc-ngoai-ngu-ha-noi-cao-nhat-21-4772182.html) - 10:47 19/07/2024
+- 🦩 [Đại học Ngoại ngữ Hà Nội lấy điểm sàn 20-21](https://vnexpress.net/dai-hoc-ngoai-ngu-ha-noi-lay-diem-san-20-21-4772182.html) - 10:47 19/07/2024
 - 🌮 [Đại học Kiến trúc Hà Nội lấy điểm sàn cao nhất 22](https://vnexpress.net/dai-hoc-kien-truc-ha-noi-lay-diem-san-cao-nhat-22-4772096.html) - 10:47 19/07/2024
 - 🔭 [Đại học Dược Hà Nội lấy điểm sàn cao nhất 23](https://vnexpress.net/dai-hoc-duoc-ha-noi-lay-diem-san-cao-nhat-23-4772164.html) - 10:47 19/07/2024
 - 💡 [Nam sinh thủ khoa ba khối của một trường ở Hà Nội](https://vnexpress.net/nam-sinh-thu-khoa-ba-khoi-cua-mot-truong-o-ha-noi-4772004.html) - 10:00 19/07/2024
