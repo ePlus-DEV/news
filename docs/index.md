@@ -275,7 +275,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎉 [Xác định được thanh niên đập kính ô tô 7 chỗ](https://nld.com.vn/xac-dinh-duoc-thanh-nien-dap-kinh-o-to-7-cho-19624071918263439.htm) - 11:32 19/07/2024
 - 😺 [Nhiều trường đại học công bố điểm sàn xét tuyển](https://nld.com.vn/nhieu-truong-dai-ho-c-cong-bo-diem-san-xet-tuyen-196240719180757739.htm) - 11:32 19/07/2024
 - 🐻 [Sau &quot;Mai&quot;, Trấn Thành làm phim hài &quot;hết cỡ&quot;](https://nld.com.vn/sau-mai-tran-thanh-lam-phim-hai-het-co-196240719181501523.htm) - 11:29 19/07/2024
-- 🤡 [VinFFast bàn giao lô xe điện VF e34 đầu tiên tại indonesia](https://nld.com.vn/vinffast-ban-giao-lo-xe-dien-vf-e34-dau-tien-tai-indonesia-19624071918063516.htm) - 11:10 19/07/2024
+- 🤡 [VinFast bàn giao lô xe điện VF e34 đầu tiên tại indonesia](https://nld.com.vn/vinffast-ban-giao-lo-xe-dien-vf-e34-dau-tien-tai-indonesia-19624071918063516.htm) - 11:10 19/07/2024
 - 🚦 [Tổng Bí thư Nguyễn Phú Trọng từ trần](https://nld.com.vn/tong-bi-thu-nguyen-phu-trong-tu-tran-196240719111208346.htm) - 11:06 19/07/2024
 - 🪜 [Nhà máy nước dùng 1.600 hộ dân để &quot;mặc cả&quot; với chính quyền, cơ quan chức năng](https://nld.com.vn/nha-may-nuoc-dung-1600-ho-dan-de-mac-ca-voi-chinh-quyen-co-quan-chuc-nang-196240719175248754.htm) - 11:04 19/07/2024
 - 💫 [Đề xuất mới lập sàn giao dịch xăng dầu, Phó Thủ tướng chỉ đạo xem xét](https://nld.com.vn/de-xuat-moi-lap-san-giao-dich-xang-dau-pho-thu-tuong-chi-dao-xem-xet-196240719170229319.htm) - 11:00 19/07/2024
