@@ -264,7 +264,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤔 [&quot;Chạm sẻ chia, Trao hy vọng&quot; trao cơ hội tầm soát ung thư miễn phí](https://phunu.nld.com.vn/cham-se-chia-trao-hy-vong-trao-co-hoi-tam-soat-ung-thu-mien-phi-196240718141836074.htm) - 13:03 19/07/2024
 - 🌈 [Thái Sơn Nam TP HCM vô địch Giải futsal quốc gia sớm 2 vòng đấu](https://nld.com.vn/thai-son-nam-tp-hcm-vo-dich-giai-futsal-quoc-gia-som-2-vong-dau-196240719195541249.htm) - 12:56 19/07/2024
 - 🔥 [U17 Quốc gia: Hà Nội và PVF giành 2 vé bán kết đầu tiên](https://nld.com.vn/u17-quoc-gia-ha-noi-va-pvf-gianh-2-ve-ban-ket-dau-tien-196240719193742774.htm) - 12:41 19/07/2024
-- 🧰 [Chủ tịch Địa ốc Hoàng Quân hết bị tạm hoãn xuất cảnh](https://nld.com.vn/chu-tich-dia-oc-hoang-quan-het-bi-tam-hoan-xuat-canh-196240719192245303.htm) - 12:39 19/07/2024
+- 🧰 [Chủ tịch Địa ốc Hoàng Quân được hủy lệnh cấm xuất cảnh](https://nld.com.vn/chu-tich-dia-oc-hoang-quan-het-bi-tam-hoan-xuat-canh-196240719192245303.htm) - 12:39 19/07/2024
 - 🤗 [Làm rõ tầm vóc, ý nghĩa của Hiệp định Geneva](https://nld.com.vn/lam-ro-tam-voc-y-nghia-cua-hiep-dinh-geneva-196240719192211258.htm) - 12:38 19/07/2024
 - 🦅 [Đàm Vĩnh Hưng hủy show, xin lỗi khán giả sau quyết định cấm diễn 9 tháng](https://nld.com.vn/dam-vinh-hung-huy-show-xin-loi-khan-gia-196240719193338004.htm) - 12:36 19/07/2024
 - 🤩 [Bà Như Loan từng nói gì về khu đất 39-39B Bến Vân Đồn trước khi bị tạm giam?](https://nld.com.vn/ba-nhu-loan-tung-noi-gi-ve-khu-dat-39-39b-ben-van-don-truoc-khi-bi-tam-giam-196240719190955691.htm) - 12:13 19/07/2024
