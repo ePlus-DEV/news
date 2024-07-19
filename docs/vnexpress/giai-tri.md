@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Châu Tinh Trì tưởng nhớ &#39;Nữ hoàng phim chưởng&#39;](https://vnexpress.net/chau-tinh-tri-tuong-nho-nu-hoang-phim-chuong-4772020.html) - 05:18 19/07/2024
-- 💫 [Thanh Hằng đề nghị công an điều tra mình &#39;bị vu khống&#39;](https://vnexpress.net/thanh-hang-de-nghi-cong-an-dieu-tra-minh-bi-vu-khong-4771909.html) - 04:55 19/07/2024
+- 💫 [Thanh Hằng gửi đơn tố cáo Hoàng Thùy](https://vnexpress.net/thanh-hang-gui-don-to-cao-hoang-thuy-4771909.html) - 04:55 19/07/2024
 - 🌮 [Tiểu Vy theo đuổi mốt trang điểm &#39;say rượu&#39;](https://vnexpress.net/tieu-vy-theo-duoi-mot-trang-diem-say-ruou-4771747.html) - 04:13 19/07/2024
 - 🧠 [Johnny Depp vẽ tranh tôn vinh người yêu cũ](https://vnexpress.net/johnny-depp-ve-tranh-ton-vinh-nguoi-yeu-cu-4771695.html) - 03:52 19/07/2024
 - 👨‍🏫 [&#39;Nữ hoàng phim chưởng&#39; Trịnh Bội Bội qua đời](https://vnexpress.net/nu-hoang-phim-chuong-trinh-boi-boi-qua-doi-4771887.html) - 02:24 19/07/2024
