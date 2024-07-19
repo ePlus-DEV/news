@@ -53,4 +53,6 @@ sidebar_position: 9
 - 👍 [Nhân viên sở thú Sài Gòn thu nhập trăm triệu đồng nửa đầu năm](https://vnexpress.net/nhan-vien-so-thu-sai-gon-thu-nhap-tram-trieu-dong-nua-dau-nam-4771935.html) - 03:32 19/07/2024
 - 🐎 [Giáo sĩ Ấn Độ nói vụ giẫm đạp khiến 121 người chết là do &#39;khí độc&#39;](https://vnexpress.net/giao-si-an-do-noi-vu-giam-dap-khien-121-nguoi-chet-la-do-khi-doc-4771899.html) - 03:30 19/07/2024
 - 🏊 [Người thứ 7 trên thế giới được chữa khỏi HIV](https://vnexpress.net/nguoi-thu-7-tren-the-gioi-duoc-chua-khoi-hiv-4771958.html) - 03:24 19/07/2024
-- 🦩 [Tính tiền kiểu &#39;làm tròn 383 đồng thành 1.000 đồng&#39;](https://vnexpress.net/tinh-tien-kieu-lam-tron-383-dong-thanh-1-000-dong-4771500.html) - 03:22 19/07/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🦩 [Tính tiền kiểu &#39;làm tròn 383 đồng thành 1.000 đồng&#39;](https://vnexpress.net/tinh-tien-kieu-lam-tron-383-dong-thanh-1-000-dong-4771500.html) - 03:22 19/07/2024
+- 👍 [Đại học Kinh tế - Luật TP HCM lấy điểm sàn 21](https://vnexpress.net/diem-san-dai-hoc-kinh-te-luat-nam-2024-4771907.html) - 03:20 19/07/2024
+- 🔥 [Làm gì khi nhà bị côn trùng xâm nhập?](https://vnexpress.net/lam-gi-khi-nha-bi-con-trung-xam-nhap-4771754.html) - 03:12 19/07/2024<!-- vnexpress-tin-moi-nhat:END -->
