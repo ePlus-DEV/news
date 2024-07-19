@@ -10,7 +10,7 @@ sidebar_position: 3
 - 🐵 [Nhật Bản vẫn là chủ nợ nước ngoài lớn nhất của Mỹ](https://vnexpress.net/nhat-ban-van-la-chu-no-nuoc-ngoai-lon-nhat-cua-my-4771970.html) - 07:43 19/07/2024
 - 🦅 [Công ty dịch vụ hàng hóa Sài Gòn lãi đậm](https://vnexpress.net/cong-ty-dich-vu-hang-hoa-sai-gon-lai-dam-4771987.html) - 06:37 19/07/2024
 - 😺 [Cổ phiếu Quốc Cường Gia Lai bị bán tháo](https://vnexpress.net/co-phieu-quoc-cuong-gia-lai-bi-ban-thao-4772050.html) - 05:57 19/07/2024
-- 🤩 [Thu nhập nhân viên sở thú Sài Gòn tăng gấp rưỡi](https://vnexpress.net/thu-nhap-nhan-vien-so-thu-sai-gon-tang-gap-ruoi-4771935.html) - 03:32 19/07/2024
+- 🤩 [Nhân viên sở thú Sài Gòn thu nhập trăm triệu đồng nửa đầu năm](https://vnexpress.net/nhan-vien-so-thu-sai-gon-thu-nhap-tram-trieu-dong-nua-dau-nam-4771935.html) - 03:32 19/07/2024
 - 🌮 [Thủ tướng: Cần phát huy ngoại giao kinh tế](https://vnexpress.net/thu-tuong-can-phat-huy-ngoai-giao-kinh-te-4771826.html) - 01:03 19/07/2024
 - 🧰 [Gelex Electric giới thiệu loạt sản phẩm tại triển lãm điện, năng lượng](https://vnexpress.net/gelex-electric-gioi-thieu-loat-san-pham-tai-trien-lam-dien-nang-luong-4771761.html) - 01:00 19/07/2024
 - 🤔 [Vì sao nhiều người Mỹ nhớ kinh tế thời Trump?](https://vnexpress.net/vi-sao-nhieu-nguoi-my-nho-kinh-te-thoi-trump-4771480.html) - 22:00 18/07/2024
