@@ -250,7 +250,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌈 [Ngành Dầu khí thăm hỏi, tri ân các thương, bệnh binh](https://laodong.vn/cd-dau-khi/nganh-dau-khi-tham-hoi-tri-an-cac-thuong-benh-binh-1368660.ldo) - 11:49 19/07/2024
 - 🐲 [Gắn biển công trình nhân Ngày thành lập Công đoàn Việt Nam](https://laodong.vn/ldld-nghe-an/gan-bien-cong-trinh-nhan-ngay-thanh-lap-cong-doan-viet-nam-1368858.ldo) - 11:46 19/07/2024
 - 🚀 [Tổng Bí thư Nguyễn Phú Trọng với công nhân, công đoàn Việt Nam](https://laodong.vn/thoi-su/tong-bi-thu-nguyen-phu-trong-voi-cong-nhan-cong-doan-viet-nam-1368715.ldo) - 11:40 19/07/2024
-- 😺 [Đảng ủy Công an Trung ương tổ chức quán triệt Quy định 44](https://laodong.vn/thoi-su/dang-uy-cong-an-trung-uong-to-chuc-quan-triet-quy-dinh-44-1368893.ldo) - 11:38 19/07/2024
+- 😺 [Đảng ủy Công an Trung ương tổ chức quán triệt Quy định 144](https://laodong.vn/thoi-su/dang-uy-cong-an-trung-uong-to-chuc-quan-triet-quy-dinh-144-1368893.ldo) - 11:38 19/07/2024
 - 🕴 [Khám phá hang động tuyệt đẹp gắn với chuyện 7 nàng tiên nữ](https://laodong.vn/photo/kham-pha-hang-dong-tuyet-dep-gan-voi-chuyen-7-nang-tien-nu-1368544.ldo) - 11:37 19/07/2024
 - 🌋 [Phá thành công 17.129 vụ tội phạm về ma túy](https://laodong.vn/phap-luat/pha-thanh-cong-17129-vu-toi-pham-ve-ma-tuy-1368861.ldo) - 11:35 19/07/2024
 - 💄 [Tây Bắc cuối ngày: Lý do Hà Giang 5 năm liên tiếp &quot;đội sổ&quot; điểm thi THPT](https://laodong.vn/video/tay-bac-cuoi-ngay-ly-do-ha-giang-5-nam-lien-tiep-doi-so-diem-thi-thpt-1368856.ldo) - 11:31 19/07/2024<!-- laodong:END -->
