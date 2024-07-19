@@ -28,7 +28,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- vnexpress:START -->
 - 🚀 [Người phụ nữ 70 &#39;gặp lại&#39; chồng quá cố nhờ AI](https://vnexpress.net/nguoi-phu-nu-70-gap-lai-chong-qua-co-nho-ai-4772239.html) - 17:49 19/07/2024
 - 🧰 [Các hãng xe Mỹ giảm tham vọng về ôtô điện](https://vnexpress.net/cac-hang-xe-my-giam-tham-vong-ve-oto-dien-4772115.html) - 17:37 19/07/2024
-- 🥰 [Nhà cuối hẻm cụt thoáng mát nhờ thông tầng và ô lấy sáng trên tường và mái](https://vnexpress.net/nha-cuoi-hem-cut-thoang-mat-nho-thong-tang-va-o-lay-sang-tren-tuong-va-mai-4772201.html) - 17:19 19/07/2024
+- 🥰 [Nhà cuối hẻm thoáng mát nhờ ô lấy sáng trên tường, mái](https://vnexpress.net/nha-cuoi-hem-thoang-mat-nho-o-lay-sang-tren-tuong-mai-4772201.html) - 17:19 19/07/2024
 - 🌏 [7 cách chữa hội chứng suy nghĩ quá mức](https://vnexpress.net/7-cach-chua-hoi-chung-suy-nghi-qua-muc-4770967.html) - 17:04 19/07/2024
 - 🧐 [Nếp gấp ngón trỏ tiết lộ bạn là người linh hoạt hay cứng nhắc?](https://vnexpress.net/nep-gap-ngon-tro-tiet-lo-ban-la-nguoi-linh-hoat-hay-cung-nhac-4768472.html) - 17:02 19/07/2024
 - 💫 [Đại học Sư phạm Hà Nội công bố điểm sàn xét tuyển](https://vnexpress.net/diem-san-xet-tuyen-dai-hoc-su-pham-ha-noi-2024-4772232.html) - 17:01 19/07/2024
