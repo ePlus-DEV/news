@@ -59,4 +59,5 @@ sidebar_position: 9
 - 💄 [Thể Công tốn thêm nhiều tiền khi phải rời sân Hàng Đẫy](https://vnexpress.net/the-cong-ton-them-nhieu-tien-khi-phai-roi-san-hang-day-4772209.html) - 11:44 19/07/2024
 - 🤡 [Major The Open cắt loại thế nào](https://vnexpress.net/major-the-open-cat-loai-the-nao-4772208.html) - 11:35 19/07/2024
 - ⛽️ [Tiger Woods khởi đầu kém sắc ở major The Open 2024](https://vnexpress.net/tiger-woods-khoi-dau-kem-sac-o-major-the-open-2024-4772199.html) - 11:03 19/07/2024
-- 🚀 [Tổng bí thư Nguyễn Phú Trọng từ trần](https://vnexpress.net/tong-bi-thu-nguyen-phu-trong-tu-tran-4771643.html) - 11:01 19/07/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🚀 [Tổng bí thư Nguyễn Phú Trọng từ trần](https://vnexpress.net/tong-bi-thu-nguyen-phu-trong-tu-tran-4771643.html) - 11:01 19/07/2024
+- 🌜 [Bánh tôm Hà Nội](https://vnexpress.net/banh-tom-ha-noi-4772148.html) - 11:00 19/07/2024<!-- vnexpress-tin-moi-nhat:END -->
