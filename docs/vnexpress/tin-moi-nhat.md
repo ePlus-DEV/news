@@ -6,7 +6,7 @@ sidebar_position: 9
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Con gái Brad Pitt công khai bỏ họ bố](https://vnexpress.net/con-gai-brad-pitt-cong-khai-bo-ho-bo-4772308.html) - 03:17 20/07/2024
 - 🐎 [Thi thể 4 người Việt tử vong ở Thái Lan sắp được đưa về nước](https://vnexpress.net/thi-the-4-nguoi-viet-tu-vong-o-thai-lan-sap-duoc-dua-ve-nuoc-4772297.html) - 03:16 20/07/2024
-- 🦍 [Thời vàng son của ngôi sao võ thuật Hong Kong](https://vnexpress.net/thoi-vang-son-cua-ngoi-sao-vo-thuat-hong-kong-4772294.html) - 03:02 20/07/2024
+- 🦍 [Thời vàng son của &#39;nữ hiệp&#39; màn ảnh Hong Kong](https://vnexpress.net/thoi-vang-son-cua-nu-hiep-man-anh-hong-kong-4772294.html) - 03:02 20/07/2024
 - 🏊 [Netflix tăng hàng triệu người dùng khi thêm gói kèm quảng cáo](https://vnexpress.net/netflix-tang-hang-trieu-nguoi-dung-khi-them-goi-kem-quang-cao-4772242.html) - 03:00 20/07/2024
 - 🎊 [Chê việc văn phòng vì ảo tưởng freelancer &#39;việc nhẹ lương cao&#39;](https://vnexpress.net/che-viec-van-phong-vi-ao-tuong-freelancer-viec-nhe-luong-cao-4772144.html) - 03:00 20/07/2024
 - 🎃 [Bí quyết nặn mụn đúng cách](https://vnexpress.net/bi-quyet-nan-mun-dung-cach-4738558.html) - 03:00 20/07/2024
