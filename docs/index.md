@@ -77,8 +77,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤩 [Trừ lương công nhân vì mất hàng, doanh nghiệp bị phạt 70 triệu đồng](https://vnexpress.net/tru-luong-cong-nhan-vi-mat-hang-doanh-nghiep-bi-phat-70-trieu-dong-4772412.html) - 07:32 20/07/2024
 - 🏊 [Có phải ăn sáng càng sớm càng tốt?](https://vnexpress.net/co-phai-an-sang-cang-som-cang-tot-4772314.html) - 07:31 20/07/2024
 - 💂 [Nhật đề nghị thanh niên nêu lý do không muốn kết hôn](https://vnexpress.net/nhat-de-nghi-thanh-nien-neu-ly-do-khong-muon-ket-hon-4772353.html) - 07:26 20/07/2024
-- 🚀 [Những thiết kế để đời của Armani](https://vnexpress.net/nhung-thiet-ke-de-doi-cua-armani-4772358.html) - 07:22 20/07/2024
-- 🕴 [Thiết giáp Bradley liên tiếp nã pháo vào lực lượng Nga](https://vnexpress.net/thiet-giap-bradley-lien-tiep-na-phao-vao-luc-luong-nga-4772351.html) - 07:14 20/07/2024<!-- vnexpress:END -->
+- 🚀 [Những thiết kế để đời của Armani](https://vnexpress.net/nhung-thiet-ke-de-doi-cua-armani-4772358.html) - 07:22 20/07/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
