@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Vingroup cho VinFast vay hơn 52.000 tỷ đồng](https://vnexpress.net/vingroup-cho-vinfast-vay-hon-52-000-ty-dong-4772304.html) - 02:40 20/07/2024
+- ⛽️ [VinFast góp hơn 14.000 tỷ đồng doanh thu cho Vingroup](https://vnexpress.net/vinfast-gop-hon-14-000-ty-dong-doanh-thu-cho-vingroup-4772304.html) - 02:40 20/07/2024
 - 🐲 [Giá vàng thế giới lao dốc](https://vnexpress.net/gia-vang-the-gioi-lao-doc-4772271.html) - 02:34 20/07/2024
 - 🔥 [Các hãng xe Mỹ giảm tham vọng về ôtô điện](https://vnexpress.net/cac-hang-xe-my-giam-tham-vong-ve-oto-dien-4772115.html) - 17:37 19/07/2024
 - 🐵 [Sẽ nghiên cứu lập sàn giao dịch xăng dầu](https://vnexpress.net/se-nghien-cuu-lap-san-giao-dich-xang-dau-4772176.html) - 12:32 19/07/2024
