@@ -149,7 +149,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- thanhnien:START -->
 - 🤠 [TP.HCM: Q.Tân Phú sẽ tiếp nhận học sinh chuyển trường năm học 2024-2025 như thế nào?](https://thanhnien.vn/tphcm-qtan-phu-se-tiep-nhan-hoc-sinh-chuyen-truong-nam-hoc-2024-2025-nhu-the-nao-185240720203402352.htm) - 14:01 20/07/2024
 - 🥸 [Lại sạt lở kinh hoàng ở Lâm Đồng, 2 người thương vong](https://thanhnien.vn/lai-sat-lo-kinh-hoang-o-lam-dong-2-nguoi-thuong-vong-185240720200516721.htm) - 13:27 20/07/2024
-- 🌁 [Tổng Bí thư Tập Cận Bình viếng Tổng Bí thư Nguyễn Phú Trọng](https://thanhnien.vn/tong-bi-thu-tap-can-binh-vieng-tong-bi-thu-nguyen-phu-trong-185240720200040971.htm) - 13:11 20/07/2024
+- 🌁 [Ông Tập Cận Bình viếng Tổng Bí thư Nguyễn Phú Trọng tại Bắc Kinh](https://thanhnien.vn/tong-bi-thu-tap-can-binh-vieng-tong-bi-thu-nguyen-phu-trong-185240720200040971.htm) - 13:11 20/07/2024
 - 🤡 [Ông Trịnh Văn Quyết lừa đảo hơn 30.000 nhà đầu tư thế nào?](https://thanhnien.vn/ong-trinh-van-quyet-lua-dao-hon-30000-nha-dau-tu-the-nao-185240720194357958.htm) - 13:08 20/07/2024
 - 🎉 [‘Đòn bẩy’ giúp đồng bào dân tộc thiểu số ở Quảng Bình thoát nghèo](https://thanhnien.vn/don-bay-giup-dong-bao-dan-toc-thieu-so-o-quang-binh-thoat-ngheo-185240720200056049.htm) - 13:06 20/07/2024
 - 🎊 [Xem nhanh 20h ngày 20.7: Tang lễ Tổng Bí thư Nguyễn Phú Trọng được tổ chức theo nghi thức Quốc tang](https://thanhnien.vn/xem-nhanh-20h-ngay-207-tang-le-tong-bi-thu-nguyen-phu-trong-duoc-to-chuc-theo-nghi-thuc-quoc-tang-185240720174439387.htm) - 13:00 20/07/2024
