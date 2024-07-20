@@ -272,15 +272,15 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💫 [Gần 5 năm bị “tra tấn” bởi mùi hôi thối từ chuồng nuôi heo gây ô nhiễm](https://nld.com.vn/gan-5-nam-bi-tra-tan-boi-mui-hoi-thoi-tu-chuong-nuoi-heo-gay-o-nhiem-196240719175943611.htm) - 02:23 20/07/2024
 - 🔭 [Hơn 1.300 trường hợp bán hàng online ở TP HCM bị phạt thuế](https://nld.com.vn/hon-1300-truong-hop-ban-hang-online-o-tp-hcm-bi-phat-thue-196240720084914206.htm) - 02:19 20/07/2024
 - 🌝 [Lãnh đạo Lào, Campuchia chia buồn Tổng Bí thư Nguyễn Phú Trọng từ trần](https://nld.com.vn/lanh-dao-lao-campuchia-chia-buon-tong-bi-thu-nguyen-phu-trong-tu-tran-196240720083911674.htm) - 02:01 20/07/2024
-- 💪 [Vụ tai nạn 4 mẹ con tử vong: Khởi tố một giám đốc](https://nld.com.vn/vu-tai-nan-4-me-con-tu-vong-khoi-to-mot-giam-doc-196240720084839238.htm) - 01:59 20/07/2024
-- 🦍 [Câu chuyện đẹp ở một ngôi trường](https://nld.com.vn/cau-chuyen-dep-o-mot-ngoi-truong-19624071922100869.htm) - 01:59 20/07/2024
-- 🥷 [&quot;Hành tinh kim cương&quot; lộ diện ngay trong hệ Mặt Trời](https://nld.com.vn/hanh-tinh-kim-cuong-lo-dien-ngay-trong-he-mat-troi-196240720063902555.htm) - 01:58 20/07/2024
-- 🫶 [Vỡ mộng đầu tư tiền ảo Pi](https://nld.com.vn/vo-mong-dau-tu-tien-ao-pi-196240719202328483.htm) - 01:49 20/07/2024
-- 🐻 [Nêu cao đạo đức công vụ](https://nld.com.vn/neu-cao-dao-duc-cong-vu-196240719221224346.htm) - 01:46 20/07/2024
-- 🐲 [CLB TP HCM lo trụ hạng, B. Bình Dương muốn trở lại đỉnh cao](https://nld.com.vn/clb-tp-hcm-lo-tru-hang-b-binh-duong-muon-tro-lai-dinh-cao-196240719194420032.htm) - 01:43 20/07/2024
-- 🧑‍💻 [Yamal sẽ được tăng lương nhanh như Messi](https://nld.com.vn/yamal-se-duoc-tang-luong-nhanh-nhu-messi-19624071919414615.htm) - 01:41 20/07/2024
-- 🎬 [Hôm nay 20-7, dự báo TP HCM và Nam Bộ có mưa to đến rất to](https://nld.com.vn/hom-nay-20-7-du-bao-tp-hcm-va-nam-bo-co-mua-to-den-rat-to-196240707093723796.htm) - 01:39 20/07/2024
-- 👀 [Không bao che sai phạm ở Đồi Cù](https://nld.com.vn/khong-bao-che-sai-pham-o-doi-cu-196240719215150547.htm) - 01:38 20/07/2024
+- 💪 [Không bao che sai phạm ở Đồi Cù](https://nld.com.vn/khong-bao-che-sai-pham-o-doi-cu-196240719215150547.htm) - 02:01 20/07/2024
+- 🦍 [Vụ tai nạn 4 mẹ con tử vong: Khởi tố một giám đốc](https://nld.com.vn/vu-tai-nan-4-me-con-tu-vong-khoi-to-mot-giam-doc-196240720084839238.htm) - 01:59 20/07/2024
+- 🥷 [Câu chuyện đẹp ở một ngôi trường](https://nld.com.vn/cau-chuyen-dep-o-mot-ngoi-truong-19624071922100869.htm) - 01:59 20/07/2024
+- 🫶 [&quot;Hành tinh kim cương&quot; lộ diện ngay trong hệ Mặt Trời](https://nld.com.vn/hanh-tinh-kim-cuong-lo-dien-ngay-trong-he-mat-troi-196240720063902555.htm) - 01:58 20/07/2024
+- 🐻 [Vỡ mộng đầu tư tiền ảo Pi](https://nld.com.vn/vo-mong-dau-tu-tien-ao-pi-196240719202328483.htm) - 01:49 20/07/2024
+- 🐲 [Nêu cao đạo đức công vụ](https://nld.com.vn/neu-cao-dao-duc-cong-vu-196240719221224346.htm) - 01:46 20/07/2024
+- 🧑‍💻 [CLB TP HCM lo trụ hạng, B. Bình Dương muốn trở lại đỉnh cao](https://nld.com.vn/clb-tp-hcm-lo-tru-hang-b-binh-duong-muon-tro-lai-dinh-cao-196240719194420032.htm) - 01:43 20/07/2024
+- 🎬 [Yamal sẽ được tăng lương nhanh như Messi](https://nld.com.vn/yamal-se-duoc-tang-luong-nhanh-nhu-messi-19624071919414615.htm) - 01:41 20/07/2024
+- 👀 [Hôm nay 20-7, dự báo TP HCM và Nam Bộ có mưa to đến rất to](https://nld.com.vn/hom-nay-20-7-du-bao-tp-hcm-va-nam-bo-co-mua-to-den-rat-to-196240707093723796.htm) - 01:39 20/07/2024
 - 👍 [Bắt nhóm cướp manh động ở Đồng Nai](https://nld.com.vn/bat-nhom-cuop-manh-dong-o-dong-nai-196240720075000276.htm) - 01:37 20/07/2024
 - 🦅 [Điểm nóng xung đột ngày 20-7: Ba Lan, Hy Lạp tiếp sức F-16 cho Ukraine](https://nld.com.vn/diem-nong-xung-dot-ngay-20-7-ba-lan-hy-lap-tiep-suc-f-16-cho-ukraine-196240719230024089.htm) - 01:30 20/07/2024
 - 🦏 [Đổ xô đi tiêm vắc-xin: Không lo lắng nhưng đừng chủ quan](https://nld.com.vn/do-xo-di-tiem-vac-xin-khong-lo-lang-nhung-dung-chu-quan-196240719193732194.htm) - 01:28 20/07/2024
