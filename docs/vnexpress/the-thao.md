@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Số VĐV Việt Nam dự Olympic 2024 xếp thứ 6 Đông Nam Á](https://vnexpress.net/so-vdv-viet-nam-du-olympic-2024-xep-thu-6-dong-nam-a-4772204.html) - 01:46 20/07/2024
 - 🦩 [Greenwood từ chối nói về cáo buộc cưỡng bức khi ra mắt CLB mới](https://vnexpress.net/greenwood-tu-choi-noi-ve-cao-buoc-cuong-buc-khi-ra-mat-clb-moi-4772280.html) - 01:41 20/07/2024
-- 🧰 [Ten Hag: &quot;MU thiếu chiều sâu so với các đối thủ&quot;](https://vnexpress.net/ten-hag-mu-thieu-chieu-sau-so-voi-cac-doi-thu-4772245.html) - 00:12 20/07/2024
+- 🧰 [Ten Hag: &quot;Man Utd thiếu chiều sâu so với các đối thủ&quot;](https://vnexpress.net/ten-hag-man-utd-thieu-chieu-sau-so-voi-cac-doi-thu-4772245.html) - 00:12 20/07/2024
 - 🤗 [Hậu vệ Tây Ban Nha nhuộm tóc đỏ sau khi vô địch Euro](https://vnexpress.net/hau-ve-tay-ban-nha-nhuom-toc-do-sau-khi-vo-dich-euro-4772244.html) - 00:08 20/07/2024
 - 🥳 [Morata và Rodri đối mặt án phạt vì vạ miệng](https://vnexpress.net/morata-va-rodri-doi-mat-an-phat-vi-va-mieng-4772246.html) - 00:01 20/07/2024
 - 🦣 [Quang Liêm dẫn đầu siêu giải Biel 2024](https://vnexpress.net/quang-liem-dan-dau-sieu-giai-biel-2024-4772243.html) - 23:46 19/07/2024
