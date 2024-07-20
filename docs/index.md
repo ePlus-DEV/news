@@ -208,13 +208,13 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Công đoàn Đắk Lắk lắng nghe tâm tư của người lao động](https://laodong.vn/ldld-dak-lak/cong-doan-dak-lak-lang-nghe-tam-tu-cua-nguoi-lao-dong-1369235.ldo) - 11:11 20/07/2024
-- 📝 [Bãi xe không phép vẫn ngang nhiên hoạt động tại Hoàng Mai](https://laodong.vn/xa-hoi/bai-xe-khong-phep-van-ngang-nhien-hoat-dong-tai-hoang-mai-1369086.ldo) - 11:08 20/07/2024
-- 🦏 [Nguyên nhân 1.500 công nhân ngừng việc ở Đồng Nai](https://laodong.vn/cong-doan/nguyen-nhan-1500-cong-nhan-ngung-viec-o-dong-nai-1369246.ldo) - 11:06 20/07/2024
-- 🦩 [Dự báo thời tiết ngày mai 21.7 trên cả nước](https://laodong.vn/xa-hoi/du-bao-thoi-tiet-ngay-mai-217-tren-ca-nuoc-1369190.ldo) - 11:05 20/07/2024
-- 🦏 [Phó Chủ tịch Thường trực  Tổng LĐLĐVN dâng hương tại Ngã ba Đồng Lộc](https://laodong.vn/cong-doan/pho-chu-tich-thuong-truc-tong-ldldvn-dang-huong-tai-nga-ba-dong-loc-1369240.ldo) - 11:03 20/07/2024
-- 🧰 [Lịch cắt điện ở Hà Nội ngày mai 21.7](https://laodong.vn/ban-doc/lich-cat-dien-o-ha-noi-ngay-mai-217-1369185.ldo) - 11:03 20/07/2024
-- 🌊 [Thông cáo đặc biệt về Lễ tang Tổng Bí thư Nguyễn Phú Trọng](https://laodong.vn/thoi-su/thong-cao-dac-biet-ve-le-tang-tong-bi-thu-nguyen-phu-trong-1368801.ldo) - 11:00 20/07/2024
+- 🗽 [Hà Nội mở rộng trông giữ xe không dùng tiền mặt](https://laodong.vn/ban-doc/ha-noi-mo-rong-trong-giu-xe-khong-dung-tien-mat-1369264.ldo) - 11:13 20/07/2024
+- 📝 [Công đoàn Đắk Lắk lắng nghe tâm tư của người lao động](https://laodong.vn/ldld-dak-lak/cong-doan-dak-lak-lang-nghe-tam-tu-cua-nguoi-lao-dong-1369235.ldo) - 11:11 20/07/2024
+- 🦏 [Bãi xe không phép vẫn ngang nhiên hoạt động tại Hoàng Mai](https://laodong.vn/xa-hoi/bai-xe-khong-phep-van-ngang-nhien-hoat-dong-tai-hoang-mai-1369086.ldo) - 11:08 20/07/2024
+- 🦩 [Nguyên nhân 1.500 công nhân ngừng việc ở Đồng Nai](https://laodong.vn/cong-doan/nguyen-nhan-1500-cong-nhan-ngung-viec-o-dong-nai-1369246.ldo) - 11:06 20/07/2024
+- 🦏 [Dự báo thời tiết ngày mai 21.7 trên cả nước](https://laodong.vn/xa-hoi/du-bao-thoi-tiet-ngay-mai-217-tren-ca-nuoc-1369190.ldo) - 11:05 20/07/2024
+- 🧰 [Phó Chủ tịch Thường trực  Tổng LĐLĐVN dâng hương tại Ngã ba Đồng Lộc](https://laodong.vn/cong-doan/pho-chu-tich-thuong-truc-tong-ldldvn-dang-huong-tai-nga-ba-dong-loc-1369240.ldo) - 11:03 20/07/2024
+- 🌊 [Lịch cắt điện ở Hà Nội ngày mai 21.7](https://laodong.vn/ban-doc/lich-cat-dien-o-ha-noi-ngay-mai-217-1369185.ldo) - 11:03 20/07/2024
 - 🔥 [Cơ thể thay đổi thế nào khi chuyển giờ ăn tối 21h sang 18h?](https://laodong.vn/suc-khoe/co-the-thay-doi-the-nao-khi-chuyen-gio-an-toi-21h-sang-18h-1369134.ldo) - 11:00 20/07/2024
 - 🦒 [Cập nhật giá vàng hôm nay, vàng nhẫn, vàng SJC 20.7.2024](https://laodong.vn/infographic/cap-nhat-gia-vang-hom-nay-vang-nhan-vang-sjc-2072024-1369260.ldo) - 10:59 20/07/2024
 - 💼 [Bất ngờ với nhà đất ngõ ngoại thành giá 115 triệu/m2](https://laodong.vn/bat-dong-san/bat-ngo-voi-nha-dat-ngo-ngoai-thanh-gia-115-trieum2-1369226.ldo) - 10:53 20/07/2024
