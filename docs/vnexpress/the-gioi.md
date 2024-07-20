@@ -24,7 +24,7 @@ sidebar_position: 2
 - 🌁 [Tòa Công lý Quốc tế tuyên bố Israel chiếm đóng lãnh thổ Palestine bất hợp pháp](https://vnexpress.net/toa-cong-ly-quoc-te-tuyen-bo-israel-chiem-dong-lanh-tho-palestine-bat-hop-phap-4772250.html) - 00:06 20/07/2024
 - 🤩 [Tòa Nga kết án nhà báo Mỹ 16 năm tù](https://vnexpress.net/toa-nga-ket-an-nha-bao-my-16-nam-tu-4772223.html) - 23:38 19/07/2024
 - 🎉 [Cách ông Trump giành lại toàn quyền kiểm soát đảng Cộng hòa](https://vnexpress.net/cach-ong-trump-gianh-lai-toan-quyen-kiem-soat-dang-cong-hoa-4771879.html) - 22:00 19/07/2024
-- 🎉 [Lãnh đạo các nước chia buồn Tổng Bí thư Nguyễn Phú Trọng từ trần](https://vnexpress.net/lanh-dao-cac-nuoc-chia-buon-tong-bi-thu-nguyen-phu-trong-tu-tran-4772238.html) - 18:09 19/07/2024
+- 🎉 [Lãnh đạo các nước chia buồn Tổng bí thư Nguyễn Phú Trọng từ trần](https://vnexpress.net/lanh-dao-cac-nuoc-chia-buon-tong-bi-thu-nguyen-phu-trong-tu-tran-4772238.html) - 18:09 19/07/2024
 - 🌁 [Thái Lan tìm thấy xyanua trong đồ ăn của nhóm người Việt](https://vnexpress.net/thai-lan-tim-thay-xyanua-trong-do-an-cua-nhom-nguoi-viet-4772226.html) - 15:25 19/07/2024
 - 🌊 [Khoảnh khắc giơ nắm đấm biểu tượng qua lời kể của ông Trump](https://vnexpress.net/khoanh-khac-gio-nam-dam-bieu-tuong-qua-loi-ke-cua-ong-trump-4772222.html) - 14:45 19/07/2024
 - 🕴 [Pháo tự hành, kho đạn Ukraine nổ tung vì trúng UAV Nga](https://vnexpress.net/phao-tu-hanh-kho-dan-ukraine-no-tung-vi-trung-uav-nga-4771908.html) - 13:44 19/07/2024
