@@ -22,7 +22,7 @@ sidebar_position: 1
 - 🤡 [Áp thấp nhiệt đới có thể mạnh lên thành bão](https://vnexpress.net/ap-thap-nhiet-doi-co-the-manh-len-thanh-bao-4772270.html) - 02:10 20/07/2024
 - 💯 [Những khoảnh khắc bình dị của Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/nhung-khoanh-khac-binh-di-cua-tong-bi-thu-nguyen-phu-trong-4772230.html) - 23:02 19/07/2024
 - 👺 [Hội nghị Geneve 70 năm trước](https://vnexpress.net/hoi-nghi-geneve-70-nam-truoc-4770320.html) - 17:00 19/07/2024
-- 🌮 [Bài viết của Chủ tịch nước Tô Lâm về Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/bai-viet-cua-chu-tich-nuoc-to-lam-ve-tong-bi-thu-nguyen-phu-trong-4772568.html) - 13:45 19/07/2024
+- 🌮 [Chủ tịch nước: Tổng bí thư Nguyễn Phú Trọng là nhà lãnh đạo lỗi lạc, trọn đời vì nước, vì dân](https://vnexpress.net/chu-tich-nuoc-tong-bi-thu-nguyen-phu-trong-la-nha-lanh-dao-loi-lac-tron-doi-vi-nuoc-vi-dan-4772568.html) - 13:45 19/07/2024
 - 🥸 [Người đàn ông mặc quân phục giả thượng tướng ở đảo Lý Sơn](https://vnexpress.net/nguoi-dan-ong-mac-quan-phuc-gia-thuong-tuong-o-dao-ly-son-4772212.html) - 13:31 19/07/2024
 - 🐻 [Tìm phương án ứng phó thiếu hụt máy bay](https://vnexpress.net/tim-phuong-an-ung-pho-thieu-hut-may-bay-4772186.html) - 13:10 19/07/2024
 - 👀 [Tổng bí thư Nguyễn Phú Trọng từ trần](https://vnexpress.net/tong-bi-thu-nguyen-phu-trong-tu-tran-4771643.html) - 11:01 19/07/2024
