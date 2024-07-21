@@ -51,6 +51,4 @@ sidebar_position: 9
 - 👺 [Thời xuân sắc của nghệ sĩ Ngọc Giàu](https://vnexpress.net/thoi-xuan-sac-cua-nghe-si-ngoc-giau-4772393.html) - 03:46 21/07/2024
 - 🎡 [Manh mối lần ra sai phạm trong hệ thống Đăng kiểm Việt Nam](https://vnexpress.net/manh-moi-lan-ra-sai-pham-trong-he-thong-dang-kiem-viet-nam-4772513.html) - 03:43 21/07/2024
 - 👍 [Trường học có 5 thủ khoa](https://vnexpress.net/truong-hoc-co-5-thu-khoa-4771294.html) - 03:31 21/07/2024
-- 🐎 [Đấu giá tiếp nhà hàng Thủy Tạ, người thuê không được xây mới, đổi tên](https://vnexpress.net/dau-gia-tiep-nha-hang-thuy-ta-nguoi-thue-khong-duoc-xay-moi-doi-ten-4772530.html) - 03:21 21/07/2024
-- 🏊 [Romario: &#39;Không chơi vì Neymar, Brazil đừng mơ World Cup&#39;](https://vnexpress.net/romario-khong-choi-vi-neymar-brazil-dung-mo-world-cup-4772511.html) - 03:15 21/07/2024
-- 🦩 [Nhà đầu tư ngoại có thể mua chứng khoán không cần ký quỹ đủ tiền](https://vnexpress.net/nha-dau-tu-ngoai-co-the-mua-chung-khoan-khong-can-ky-quy-du-tien-4772525.html) - 03:09 21/07/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🐎 [Đấu giá tiếp nhà hàng Thủy Tạ, người thuê không được xây mới, đổi tên](https://vnexpress.net/dau-gia-tiep-nha-hang-thuy-ta-nguoi-thue-khong-duoc-xay-moi-doi-ten-4772530.html) - 03:21 21/07/2024<!-- vnexpress-tin-moi-nhat:END -->
