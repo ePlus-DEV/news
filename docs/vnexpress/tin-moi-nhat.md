@@ -5,10 +5,10 @@ sidebar_position: 9
 
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [HLV U19 Việt Nam: &#39;Đội đá kém vì thiếu kinh nghiệm quốc tế&#39;](https://vnexpress.net/hlv-u19-viet-nam-doi-da-kem-vi-thieu-kinh-nghiem-quoc-te-4772645.html) - 14:02 21/07/2024
-- 🐎 [Musk phản ứng sau khi nhà máy Tesla bị ảnh hưởng vì sự cố Microsoft](https://vnexpress.net/musk-phan-ung-sau-khi-nha-may-tesla-bi-anh-huong-vi-su-co-microsoft-4772641.html) - 14:00 21/07/2024
-- 🦍 [&#39;Vào đại học dễ, khó là tiền đâu đóng học phí&#39;](https://vnexpress.net/vao-dai-hoc-de-kho-la-tien-dau-dong-hoc-phi-4772606.html) - 14:00 21/07/2024
-- 🏊 [Tôi luôn phải khuyên chồng nhường nhịn mẹ chồng](https://vnexpress.net/toi-luon-phai-khuyen-chong-nhuong-nhin-me-chong-4772563.html) - 14:00 21/07/2024
-- 🎊 [Em không ngại khó, không ngại khổ, luôn vui và lạc quan](https://vnexpress.net/em-khong-ngai-kho-khong-ngai-kho-luon-vui-va-lac-quan-4772506.html) - 14:00 21/07/2024
+- 🐎 [Musk phản ứng sau khi Tesla bị ảnh hưởng vì sự cố &#39;màn hình xanh&#39;](https://vnexpress.net/musk-phan-ung-sau-khi-tesla-bi-anh-huong-vi-su-co-man-hinh-xanh-4772641.html) - 14:00 21/07/2024
+- 🦍 [Tôi luôn phải khuyên chồng nhường nhịn mẹ chồng](https://vnexpress.net/toi-luon-phai-khuyen-chong-nhuong-nhin-me-chong-4772563.html) - 14:00 21/07/2024
+- 🏊 [Em không ngại khó, không ngại khổ, luôn vui và lạc quan](https://vnexpress.net/em-khong-ngai-kho-khong-ngai-kho-luon-vui-va-lac-quan-4772506.html) - 14:00 21/07/2024
+- 🎊 [&#39;Vào đại học dễ, khó là tiền đâu đóng học phí&#39;](https://vnexpress.net/vao-dai-hoc-de-kho-la-tien-dau-dong-hoc-phi-4772606.html) - 14:00 21/07/2024
 - 🎃 [Tên gọi của Thái Lan có ý nghĩa gì?](https://vnexpress.net/ten-goi-cua-thai-lan-co-y-nghia-gi-4771730.html) - 13:43 21/07/2024
 - 🧰 [Đặc điểm của con một](https://vnexpress.net/dac-diem-cua-con-mot-4771978.html) - 13:30 21/07/2024
 - 🔭 [Bác sĩ đuổi theo chiếc xe chở bé trai ngừng tim để hỗ trợ](https://vnexpress.net/bac-si-duoi-theo-chiec-xe-cho-be-trai-ngung-tim-de-ho-tro-4772575.html) - 13:07 21/07/2024
