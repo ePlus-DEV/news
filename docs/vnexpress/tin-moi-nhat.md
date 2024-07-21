@@ -53,5 +53,4 @@ sidebar_position: 9
 - 👍 [Áp thấp nhiệt đới mạnh lên thành bão](https://vnexpress.net/ap-thap-nhiet-doi-manh-len-thanh-bao-4772504.html) - 01:46 21/07/2024
 - 🐎 [Nam sinh hai lần giành huy chương Olympic Sinh học quốc tế](https://vnexpress.net/nam-sinh-hai-lan-gianh-huy-chuong-olympic-sinh-hoc-quoc-te-4770873.html) - 01:40 21/07/2024
 - 🏊 [Vẻ đẹp tiếng Việt trong sách &#39;Tình ca tiếng nước ta&#39;](https://vnexpress.net/ve-dep-tieng-viet-trong-sach-tinh-ca-tieng-nuoc-ta-4771714.html) - 01:37 21/07/2024
-- 🦩 [TP HCM tìm hướng chống kẹt xe bằng đường trên cao](https://vnexpress.net/tp-hcm-tim-huong-chong-ket-xe-bang-duong-tren-cao-4772101.html) - 01:30 21/07/2024
-- 👍 [Vụ rò rỉ methane từ giếng lớn nhất lịch sử](https://vnexpress.net/vu-ro-ri-methane-tu-gieng-lon-nhat-lich-su-4772268.html) - 01:00 21/07/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🦩 [TP HCM tìm hướng chống kẹt xe bằng đường trên cao](https://vnexpress.net/tp-hcm-tim-huong-chong-ket-xe-bang-duong-tren-cao-4772101.html) - 01:30 21/07/2024<!-- vnexpress-tin-moi-nhat:END -->
