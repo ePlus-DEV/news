@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Chủ tịch xã sang tên hơn 5 ha đất công cho bố vợ](https://vnexpress.net/chu-tich-xa-sang-ten-hon-5-ha-dat-cong-cho-bo-vo-4772562.html) - 08:51 21/07/2024
+- 😎 [Chủ tịch xã bị bắt vì cấp sai 1,5 ha đất công](https://vnexpress.net/chu-tich-xa-bi-bat-vi-cap-sai-1-5-ha-dat-cong-4772562.html) - 08:51 21/07/2024
 - 🥰 [Cắt mái tôn, đột nhập cửa hàng trộm 26 điện thoại](https://vnexpress.net/cat-mai-ton-dot-nhap-cua-hang-trom-26-dien-thoai-4772573.html) - 06:56 21/07/2024
 - 🎓 [Thi thể người phụ nữ bị đốt trong phòng tắm](https://vnexpress.net/thi-the-nguoi-phu-nu-bi-dot-trong-phong-tam-4772558.html) - 05:06 21/07/2024
 - 🤓 [Manh mối lần ra sai phạm trong hệ thống Đăng kiểm Việt Nam](https://vnexpress.net/manh-moi-lan-ra-sai-pham-trong-he-thong-dang-kiem-viet-nam-4772513.html) - 03:43 21/07/2024
