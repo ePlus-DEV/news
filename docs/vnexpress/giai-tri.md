@@ -4,10 +4,10 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Cuộc sống đô thị miền Nam hơn 100 năm trước](https://vnexpress.net/cuoc-song-do-thi-mien-nam-hon-100-nam-truoc-4772382.html) - 17:00 21/07/2024
-- 💫 [2NE1 tái xuất sau bảy năm](https://vnexpress.net/2ne1-tai-xuat-sau-bay-nam-4772657.html) - 16:09 21/07/2024
-- 🌮 [Tượng sư tử đá thành Đồ Bàn - nghệ thuật điêu khắc Champa](https://vnexpress.net/tuong-su-tu-da-thanh-do-ban-nghe-thuat-dieu-khac-champa-4771659.html) - 10:02 21/07/2024
-- 🧠 [Sách giới thiệu vẻ đẹp Hội An](https://vnexpress.net/sach-gioi-thieu-ve-dep-hoi-an-4772538.html) - 08:26 21/07/2024
+- 🌏 [Bát gốm 1.000 năm tuổi giá gần 40 triệu USD](https://vnexpress.net/bat-gom-1-000-nam-tuoi-gia-gan-40-trieu-usd-4772715.html) - 03:28 22/07/2024
+- 💫 [Cuộc sống đô thị miền Nam hơn 100 năm trước](https://vnexpress.net/cuoc-song-do-thi-mien-nam-hon-100-nam-truoc-4772382.html) - 17:00 21/07/2024
+- 🌮 [2NE1 tái xuất sau bảy năm](https://vnexpress.net/2ne1-tai-xuat-sau-bay-nam-4772657.html) - 16:09 21/07/2024
+- 🧠 [Tượng sư tử đá thành Đồ Bàn - nghệ thuật điêu khắc Champa](https://vnexpress.net/tuong-su-tu-da-thanh-do-ban-nghe-thuat-dieu-khac-champa-4771659.html) - 10:02 21/07/2024
 - 👨‍🏫 [Kẻ đe dọa Taylor Swift và bạn trai bị bắt](https://vnexpress.net/ke-de-doa-taylor-swift-va-ban-trai-bi-bat-4772565.html) - 06:05 21/07/2024
 - ⚗️ [Psy hủy đêm nhạc sát giờ diễn](https://vnexpress.net/psy-huy-dem-nhac-sat-gio-dien-4772547.html) - 05:40 21/07/2024
 - 😎 [Thời xuân sắc của nghệ sĩ Ngọc Giàu](https://vnexpress.net/thoi-xuan-sac-cua-nghe-si-ngoc-giau-4772393.html) - 03:46 21/07/2024
