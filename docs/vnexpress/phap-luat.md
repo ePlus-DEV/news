@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Nỗi ám ảnh bị người tình cũ khủng bố tinh thần qua mạng](https://vnexpress.net/noi-am-anh-bi-tinh-cu-khung-bo-tinh-than-tren-mang-4772669.html) - 23:30 21/07/2024
-- 🥰 [Hàng chục nghìn bị hại vắng mặt trong vụ án Trịnh Văn Quyết](https://vnexpress.net/hom-nay-cuu-chu-tich-flc-trinh-van-quyet-bi-xet-xu-4772640.html) - 17:00 21/07/2024
+- 🥰 [Hàng chục nghìn bị hại vắng mặt trong phiên tòa vụ án Trịnh Văn Quyết](https://vnexpress.net/hom-nay-cuu-chu-tich-flc-trinh-van-quyet-bi-xet-xu-4772640.html) - 17:00 21/07/2024
 - 🎓 [Chủ tịch xã bị bắt vì cấp sai 1,5 ha đất công](https://vnexpress.net/chu-tich-xa-bi-bat-vi-cap-sai-1-5-ha-dat-cong-4772562.html) - 08:51 21/07/2024
 - 🤓 [Cắt mái tôn, đột nhập cửa hàng trộm 26 điện thoại](https://vnexpress.net/cat-mai-ton-dot-nhap-cua-hang-trom-26-dien-thoai-4772573.html) - 06:56 21/07/2024
 - 🎊 [Thi thể người phụ nữ bị đốt trong phòng tắm](https://vnexpress.net/thi-the-nguoi-phu-nu-bi-dot-trong-phong-tam-4772558.html) - 05:06 21/07/2024
