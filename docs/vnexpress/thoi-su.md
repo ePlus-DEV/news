@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Hà Nội treo cờ rủ trước Quốc tang Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/ha-noi-treo-co-ru-truoc-quoc-tang-tong-bi-thu-nguyen-phu-trong-4772981.html) - 23:00 22/07/2024
-- 🤓 [Bão áp sát Quảng Ninh - Hải Phòng](https://vnexpress.net/bao-ap-sat-quang-ninh-hai-phong-4773080.html) - 22:25 22/07/2024
+- 🤓 [Bão áp sát bờ biển Quảng Ninh - Hải Phòng](https://vnexpress.net/bao-ap-sat-bo-bien-quang-ninh-hai-phong-4773080.html) - 22:25 22/07/2024
 - ⚗️ [Kiến nghị tăng mức hỗ trợ cho nhà dân sống trên kênh, rạch](https://vnexpress.net/kien-nghi-tang-muc-ho-tro-cho-nha-dan-song-tren-kenh-rach-4773069.html) - 17:00 22/07/2024
 - 🌊 [&#39;Geneve để lại nhiều bài học đắt giá trong đàm phán đa phương&#39;](https://vnexpress.net/geneve-de-lai-nhieu-bai-hoc-dat-gia-trong-dam-phan-da-phuong-4772920.html) - 17:00 22/07/2024
 - 🎓 [Hải Phòng, Quảng Ninh chống bão Prapiroon](https://vnexpress.net/hai-phong-quang-ninh-chong-bao-prapiroon-4773038.html) - 14:43 22/07/2024
