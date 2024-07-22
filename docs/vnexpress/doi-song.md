@@ -4,8 +4,8 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Cô gái nên duyên với đồng nghiệp của bố](https://vnexpress.net/co-gai-nen-duyen-voi-dong-nghiep-cua-bo-4772666.html) - 23:30 21/07/2024
-- 🎓 [Tìm chồng ở tuổi 40](https://vnexpress.net/tim-chong-o-tuoi-40-4770767.html) - 23:00 21/07/2024
+- 🚀 [Cô gái &#39;cưa đổ&#39; đồng nghiệp của bố](https://vnexpress.net/co-gai-cua-do-dong-nghiep-cua-bo-4772666.html) - 23:30 21/07/2024
+- 🎓 [Khó tìm chồng ở tuổi 40](https://vnexpress.net/kho-tim-chong-o-tuoi-40-4770767.html) - 23:00 21/07/2024
 - 🚦 [Hai lần tranh đấu vì con của mẹ đơn thân](https://vnexpress.net/hai-lan-tranh-dau-vi-con-cua-me-don-than-4771242.html) - 17:00 21/07/2024
 - 🦣 [Đặc điểm của con một](https://vnexpress.net/dac-diem-cua-con-mot-4771978.html) - 13:30 21/07/2024
 - 🎓 [Quy tắc 777 củng cố hạnh phúc vợ chồng](https://vnexpress.net/quy-tac-777-cung-co-hanh-phuc-vo-chong-4772555.html) - 12:29 21/07/2024
@@ -16,12 +16,12 @@ sidebar_position: 6
 - 🐻 [Những đứa con khủng hoảng vì bị bố mẹ chê bai](https://vnexpress.net/nhung-dua-con-khung-hoang-vi-bi-bo-me-che-bai-4768874.html) - 23:30 20/07/2024
 - 🧠 [Sai lầm khiến khó thành công trong sự nghiệp](https://vnexpress.net/sai-lam-khien-kho-thanh-cong-trong-su-nghiep-4771712.html) - 23:00 20/07/2024
 - 🐘 [Được mất khi xem lén điện thoại của người yêu?](https://vnexpress.net/duoc-mat-khi-xem-len-dien-thoai-cua-nguoi-yeu-4772069.html) - 12:00 20/07/2024
-- 👹 [Canh chua chay thanh mát ngày hè](https://vnexpress.net/canh-chua-chay-thanh-mat-ngay-he-4772427.html) - 10:31 20/07/2024
+- 👹 [Canh chua chay thanh mát ngày hè](https://vnexpress.net/doi-song-cooking-canh-chua-chay-thanh-mat-ngay-he-4772427.html) - 10:31 20/07/2024
 - 💂 [Quy tắc ứng xử trên bàn ăn phong cách phương Tây](https://vnexpress.net/quy-tac-ung-xu-tren-ban-an-phong-cach-phuong-tay-4772104.html) - 05:35 20/07/2024
 - 🦍 [7 mẹo vặt giúp đơn giản hóa cuộc sống](https://vnexpress.net/7-meo-vat-giup-don-gian-hoa-cuoc-song-4772023.html) - 02:51 20/07/2024
 - 🧑‍🏫 [Bảo mẫu gốc Việt truyền cảm hứng cho chủ nhà làm từ thiện](https://vnexpress.net/bao-mau-goc-viet-truyen-cam-hung-cho-chu-nha-lam-tu-thien-4768783.html) - 23:00 19/07/2024
 - 🧰 [Người phụ nữ 70 &#39;gặp lại&#39; chồng quá cố nhờ AI](https://vnexpress.net/nguoi-phu-nu-70-gap-lai-chong-qua-co-nho-ai-4772239.html) - 17:49 19/07/2024
-- 🪄 [Bánh tôm Hà Nội](https://vnexpress.net/banh-tom-ha-noi-4772148.html) - 11:00 19/07/2024
+- 🪄 [Bánh tôm Hà Nội](https://vnexpress.net/doi-song-cooking-banh-tom-ha-noi-4772148.html) - 11:00 19/07/2024
 - 🐲 [Những kiểu phơi quần áo gây hại sức khỏe](https://vnexpress.net/nhung-kieu-phoi-quan-ao-gay-hai-suc-khoe-4769205.html) - 09:22 19/07/2024
 - 💻 [Xu hướng bắt đầu cuộc đời ở tuổi 30](https://vnexpress.net/xu-huong-bat-dau-cuoc-doi-o-tuoi-30-4772055.html) - 07:40 19/07/2024
 - 🐘 [Vì sao không nên đi bộ trên thang cuốn?](https://vnexpress.net/vi-sao-khong-nen-di-bo-tren-thang-cuon-4771831.html) - 04:54 19/07/2024
