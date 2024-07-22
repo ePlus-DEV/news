@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hàng nghìn du khách tránh bão trên các đảo](https://vnexpress.net/hang-nghin-du-khach-tranh-bao-tren-cac-dao-4773018.html) - 11:04 22/07/2024
+- 🦒 [Hàng nghìn du khách tránh bão trên các đảo Cát Bà, Cô Tô](https://vnexpress.net/hang-nghin-du-khach-tranh-bao-tren-cac-dao-cat-ba-co-to-4773018.html) - 11:04 22/07/2024
 - 🤓 [Máy bay lùi giờ cất cánh do khách tung tin có lựu đạn](https://vnexpress.net/may-bay-lui-gio-cat-canh-do-khach-tung-tin-co-luu-dan-4772983.html) - 09:47 22/07/2024
 - ⚗️ [Đà Nẵng dự kiến mua thêm robot chữa cháy](https://vnexpress.net/da-nang-du-kien-mua-them-robot-chua-chay-4772939.html) - 09:19 22/07/2024
 - 🌊 [Giả mạo văn bản &#39;tăng lương hưu, hủy sổ bảo hiểm&#39;](https://vnexpress.net/gia-mao-van-ban-tang-luong-huu-huy-so-bao-hiem-4772832.html) - 08:33 22/07/2024
