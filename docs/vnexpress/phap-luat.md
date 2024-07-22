@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Bị bắt vì không trả 484 triệu đồng cho người chuyển khoản nhầm](https://vnexpress.net/chuyen-khoan-nham-4773066.html) - 15:15 22/07/2024
+- 😎 [Bị bắt vì không trả gần 500 triệu đồng cho người chuyển khoản nhầm](https://vnexpress.net/chuyen-khoan-nham-4773066.html) - 15:15 22/07/2024
 - 🥰 [Hàng loạt cựu cán bộ lĩnh án vì nhận hối lộ của doanh nghiệp](https://vnexpress.net/hang-loat-cuu-can-bo-linh-an-vi-nhan-hoi-lo-cua-doanh-nghiep-4773026.html) - 12:17 22/07/2024
 - 🎓 [Cựu thứ trưởng Tài nguyên và Môi trường Nguyễn Linh Ngọc bị bắt](https://vnexpress.net/cuu-thu-truong-tai-nguyen-va-moi-truong-nguyen-linh-ngoc-bi-bat-4773035.html) - 11:15 22/07/2024
 - 🤓 [Các &#39;doanh nhân ảo&#39; giúp Trịnh Văn Quyết góp vốn khống nghìn tỷ đồng](https://vnexpress.net/cac-doanh-nhan-ao-giup-trinh-van-quyet-gop-von-khong-nghin-ty-dong-4772868.html) - 11:10 22/07/2024
