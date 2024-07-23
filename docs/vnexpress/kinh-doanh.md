@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Chứng khoán chao đảo cuối phiên](https://vnexpress.net/chung-khoan-hom-nay-23-7-vn-index-chao-dao-cuoi-phien-4773351.html) - 08:49 23/07/2024
-- 🐲 [Con trai bà Nguyễn Thị Như Loan thay mẹ làm CEO Quốc Cường Gia Lai](https://vnexpress.net/con-trai-ba-nguyen-thi-nhu-loan-thay-me-lam-ceo-quoc-cuong-gia-lai-4773328.html) - 08:39 23/07/2024
+- 🐲 [Ông Nguyễn Quốc Cường điều hành công ty sau khi mẹ bị bắt](https://vnexpress.net/ong-nguyen-quoc-cuong-dieu-hanh-cong-ty-sau-khi-me-bi-bat-4773328.html) - 08:39 23/07/2024
 - 🔥 [Vàng 24K mang về gần 9.200 tỷ doanh thu cho PNJ](https://vnexpress.net/vang-24k-mang-ve-gan-9-200-ty-doanh-thu-cho-pnj-4773315.html) - 07:59 23/07/2024
 - 🐵 [Techcombank lãi trước thuế 15.600 tỷ đồng trong nửa đầu năm](https://vnexpress.net/techcombank-lai-truoc-thue-15-600-ty-dong-trong-nua-dau-nam-4773298.html) - 07:00 23/07/2024
 - 🦅 [PNJ ghi nhận doanh thu hơn 22.000 tỷ đồng sau sáu tháng](https://vnexpress.net/pnj-ghi-nhan-doanh-thu-hon-22-000-ty-dong-sau-sau-thang-4773254.html) - 07:00 23/07/2024
