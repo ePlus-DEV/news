@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Xe máy đâm vào gốc cây, ba cô gái tử vong](https://vnexpress.net/xe-may-dam-vao-goc-cay-ba-co-gai-tu-vong-4773187.html) - 03:35 23/07/2024
 - ⚗️ [Di sản 6 thập kỷ của Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/di-san-6-thap-ky-cua-tong-bi-thu-nguyen-phu-trong-4773031.html) - 01:39 23/07/2024
 - 🌊 [Nhiều nơi treo cờ rủ trước Quốc tang Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/nhieu-noi-treo-co-ru-truoc-quoc-tang-tong-bi-thu-nguyen-phu-trong-4772981.html) - 23:00 22/07/2024
-- 🎓 [Bão đổ bộ Quảng Ninh, gây mưa diện rộng](https://vnexpress.net/truc-tiep-dien-bien-bao-prapiroon-4773080.html) - 22:25 22/07/2024
+- 🎓 [Bão đổ bộ Quảng Ninh, gây mưa diện rộng](https://vnexpress.net/truc-tiep-dien-bien-bao-prapiroon-4773080-tong-thuat.html) - 22:25 22/07/2024
 - 🔥 [Kiến nghị tăng mức hỗ trợ cho nhà dân sống trên kênh, rạch](https://vnexpress.net/kien-nghi-tang-muc-ho-tro-cho-nha-dan-song-tren-kenh-rach-4773069.html) - 17:00 22/07/2024
 - 🦏 [&#39;Geneve để lại nhiều bài học đắt giá trong đàm phán đa phương&#39;](https://vnexpress.net/geneve-de-lai-nhieu-bai-hoc-dat-gia-trong-dam-phan-da-phuong-4772920.html) - 17:00 22/07/2024
 - 👺 [Hải Phòng, Quảng Ninh chống bão Prapiroon](https://vnexpress.net/hai-phong-quang-ninh-chong-bao-prapiroon-4773038.html) - 14:43 22/07/2024
