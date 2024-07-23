@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Andy Murray xác nhận giải nghệ](https://vnexpress.net/andy-murray-xac-nhan-giai-nghe-4773435.html) - 11:45 23/07/2024
+- 🪜 [Andy Murray giải nghệ ngay sau Olympic Paris 2024](https://vnexpress.net/andy-murray-giai-nghe-ngay-sau-olympic-paris-2024-4773435.html) - 11:45 23/07/2024
 - 🦩 [Sinner là hạt giống số một Olympic 2024](https://vnexpress.net/sinner-la-hat-giong-so-mot-olympic-2024-4773393.html) - 10:40 23/07/2024
 - 🧰 [Guardiola: &#39;De Bruyne sẽ không đi đâu hết&#39;](https://vnexpress.net/guardiola-de-bruyne-se-khong-di-dau-het-4773399.html) - 10:24 23/07/2024
 - 🤗 [HC vàng Olympic 2024 của Việt Nam có thể nhận gần 30 tỷ đồng](https://vnexpress.net/hc-vang-olympic-2024-cua-viet-nam-co-the-nhan-gan-30-ty-dong-4773404.html) - 10:14 23/07/2024
