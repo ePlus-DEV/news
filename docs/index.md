@@ -208,7 +208,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Lao Động
 <!-- laodong:START -->
 - 🗽 [Đoàn thể thao Việt Nam lên đường dự Olympic Paris 2024](https://laodong.vn/the-thao/doan-the-thao-viet-nam-len-duong-du-olympic-paris-2024-1370674.ldo) - 16:03 23/07/2024
-- 📝 [Hướng di chuyển nếu cửa ngõ Thủ đô ùn tắc trong những ngày Quốc tang](https://laodong.vn/xa-hoi/huong-di-chuyen-neu-cua-ngo-thu-do-un-tac-trong-nhung-ngay-quoc-tang-1370665.ldo) - 15:46 23/07/2024
+- 📝 [Hướng di chuyển nếu cửa ngõ Thủ đô ùn tắc trong ngày Quốc tang Tổng bí thư Nguyễn Phú Trọng](https://laodong.vn/xa-hoi/huong-di-chuyen-neu-cua-ngo-thu-do-un-tac-trong-ngay-quoc-tang-tong-bi-thu-nguyen-phu-trong-1370665.ldo) - 15:46 23/07/2024
 - 🦏 [Cần Giờ sẽ thí điểm chuyển đổi phương tiện giao thông xanh](https://laodong.vn/xe/can-gio-se-thi-diem-chuyen-doi-phuong-tien-giao-thong-xanh-1370664.ldo) - 15:42 23/07/2024
 - 🦩 [Công an Đồng Nai công bố 3 số điện thoại đường dây nóng](https://laodong.vn/phap-luat/cong-an-dong-nai-cong-bo-3-so-dien-thoai-duong-day-nong-1370656.ldo) - 15:38 23/07/2024
 - 🦏 [Điều động 2 chủ tịch huyện làm Phó Giám đốc Sở TNMT Cao Bằng](https://laodong.vn/thoi-su/dieu-dong-2-chu-tich-huyen-lam-pho-giam-doc-so-tnmt-cao-bang-1370618.ldo) - 15:20 23/07/2024
