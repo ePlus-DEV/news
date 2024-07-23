@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Bị cáo Trịnh Văn Quyết ước tính tài sản cá nhân tới 5.000 tỷ đồng](https://vnexpress.net/bi-cao-trinh-van-quyet-uoc-tinh-tai-san-ca-nhan-toi-5-000-ty-dong-4773382.html) - 10:52 23/07/2024
-- 🥰 [3 người chết trong căn nhà cháy bất thường](https://vnexpress.net/3-nguoi-chet-trong-can-nha-chay-bat-thuong-4773364.html) - 10:30 23/07/2024
+- 🥰 [3 người chết bất thường trong căn nhà](https://vnexpress.net/3-nguoi-chet-bat-thuong-trong-can-nha-4773364.html) - 10:30 23/07/2024
 - 🎓 [Cựu cục trưởng Đặng Việt Hà nói &#39;không đưa chủ trương nhận hối lộ&#39;](https://vnexpress.net/cuu-cuc-truong-dang-viet-ha-noi-khong-dua-chu-truong-nhan-hoi-lo-4773347.html) - 09:17 23/07/2024
 - 🤓 [Chạy án cho người bị phạt chung thân](https://vnexpress.net/chay-an-cho-nguoi-bi-phat-chung-than-4773332.html) - 08:54 23/07/2024
 - 🎊 [Truy sát đối thủ sau 2 năm bị đánh](https://vnexpress.net/truy-sat-doi-thu-sau-2-nam-bi-danh-4773306.html) - 07:55 23/07/2024
