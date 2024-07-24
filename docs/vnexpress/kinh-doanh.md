@@ -27,7 +27,7 @@ sidebar_position: 3
 - 💼 [Xuất khẩu sầu riêng đạt hơn 1,3 tỷ USD nửa đầu năm](https://vnexpress.net/xuat-khau-sau-rieng-dat-hon-1-3-ty-usd-nua-dau-nam-4773216.html) - 06:11 23/07/2024
 - 🤗 [Tỷ phú đồ uống Trung Quốc mất tiền nhiều nhất thế giới](https://vnexpress.net/ty-phu-do-uong-trung-quoc-mat-tien-nhieu-nhat-the-gioi-4773203.html) - 05:00 23/07/2024
 - 👀 [Bệnh viện tư của ông Trầm Bê lãi kỷ lục](https://vnexpress.net/benh-vien-tu-cua-ong-tram-be-lai-ky-luc-4773215.html) - 04:07 23/07/2024
-- 🎓 [Công ty ông Johnathan Hạnh Nguyễn báo lãi thụt lùi](https://vnexpress.net/cong-ty-ong-johnathan-hanh-nguyen-bao-lai-thut-lui-4773196.html) - 03:44 23/07/2024
+- 🎓 [Công ty ông Johnathan Hạnh Nguyễn báo lãi giảm](https://vnexpress.net/cong-ty-ong-johnathan-hanh-nguyen-bao-lai-giam-4773196.html) - 03:44 23/07/2024
 - 🗽 [Mỗi lượng vàng miếng giảm nửa triệu đồng](https://vnexpress.net/moi-luong-vang-mieng-giam-nua-trieu-dong-4773139.html) - 02:40 23/07/2024
 - 🚀 [Phản ứng của giới đầu tư khi Biden dừng tranh cử](https://vnexpress.net/phan-ung-cua-gioi-dau-tu-khi-biden-dung-tranh-cu-4773014.html) - 01:48 23/07/2024
 - 🤗 [Loạt CEO doanh nghiệp lớn xin từ chức](https://vnexpress.net/loat-ceo-doanh-nghiep-lon-xin-tu-chuc-4769795.html) - 23:48 22/07/2024
