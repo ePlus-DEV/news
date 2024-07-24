@@ -13,7 +13,7 @@ sidebar_position: 1
 - 🦏 [An táng 289 hài cốt liệt sĩ](https://vnexpress.net/an-tang-289-hai-cot-liet-si-4773663.html) - 05:37 24/07/2024
 - 👺 [Cháy nhà xe ở bệnh viện](https://vnexpress.net/chay-nha-xe-o-benh-vien-4773650.html) - 05:10 24/07/2024
 - 🧑‍🏫 [Kiến nghị bổ sung gần 1.600 tỷ đồng cho dự án cải tạo kênh dài nhất TP HCM](https://vnexpress.net/kien-nghi-bo-sung-gan-1-600-ty-dong-cho-du-an-cai-tao-kenh-dai-nhat-tp-hcm-4773642.html) - 05:05 24/07/2024
-- 🚦 [3 người chết, 5 người mất tích do sạt lở đất](https://vnexpress.net/3-nguoi-chet-5-nguoi-mat-tich-do-sat-lo-dat-4773634.html) - 04:40 24/07/2024
+- 🚦 [5 người chết, 4 người mất tích do sạt lở đất](https://vnexpress.net/5-nguoi-chet-4-nguoi-mat-tich-do-sat-lo-dat-4773634.html) - 04:40 24/07/2024
 - 🎉 [Bảo tàng Alexandre Yersin ở Nha Trang sẽ là nơi nghiên cứu khoa học](https://vnexpress.net/bao-tang-alexandre-yersin-o-nha-trang-se-la-noi-nghien-cuu-khoa-hoc-4773448.html) - 04:23 24/07/2024
 - 🦒 [Gần 800 vị trí trên quốc lộ bị sạt lở do mưa lớn](https://vnexpress.net/gan-800-vi-tri-tren-quoc-lo-bi-sat-lo-do-mua-lon-4773582.html) - 04:16 24/07/2024
 - 🤗 [Vùng ven Hà Nội ngập sâu sau bão](https://vnexpress.net/vung-ven-ha-noi-ngap-sau-sau-bao-4773566.html) - 03:29 24/07/2024
