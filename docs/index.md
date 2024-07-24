@@ -206,7 +206,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp bóng đá U23 Nhật Bản 1-0 U23 Paraguay: Mito mở tỉ số](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-u23-nhat-ban-1-0-u23-paraguay-mito-mo-ti-so-1371084.ldo) - 16:00 24/07/2024
+- 🗽 [Trực tiếp bóng đá U23 Nhật Bản 1-0 U23 Paraguay: Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-u23-nhat-ban-1-0-u23-paraguay-hiep-2-1371084.ldo) - 16:00 24/07/2024
 - 📝 [Bông cải xanh có thể giúp bảo vệ mắt khỏi tác hại của tia cực tím](https://laodong.vn/suc-khoe/bong-cai-xanh-co-the-giup-bao-ve-mat-khoi-tac-hai-cua-tia-cuc-tim-1370892.ldo) - 15:47 24/07/2024
 - 🦏 [Thế giới chia buồn Tổng Bí thư Nguyễn Phú Trọng từ trần](https://laodong.vn/thoi-su/the-gioi-chia-buon-tong-bi-thu-nguyen-phu-trong-tu-tran-1371040.ldo) - 15:29 24/07/2024
 - 🦩 [Bắt quả tang ổ nhóm ma túy trong nhà nghỉ ở Hải Phòng](https://laodong.vn/phap-luat/bat-qua-tang-o-nhom-ma-tuy-trong-nha-nghi-o-hai-phong-1371081.ldo) - 15:26 24/07/2024
