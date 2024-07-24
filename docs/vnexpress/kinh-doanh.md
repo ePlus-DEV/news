@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [Xuất khẩu thủy sản phục hồi nửa đầu năm](https://vnexpress.net/xuat-khau-thuy-san-phuc-hoi-nua-dau-nam-4773758.html) - 10:49 24/07/2024
 - 🐲 [Vietjet và Rolls-Royce ký hợp đồng cung cấp 40 động cơ](https://vnexpress.net/vietjet-va-rolls-royce-ky-hop-dong-cung-cap-40-dong-co-4773709.html) - 09:00 24/07/2024
 - 🔥 [Tiền đổ vào nhóm cổ phiếu bất động sản](https://vnexpress.net/tien-do-vao-nhom-co-phieu-bat-dong-san-4773755.html) - 08:58 24/07/2024
-- 🐵 [Ông Ngô Chí Dũng và người liên quan nắm hơn 33% vốn VPBank](https://vnexpress.net/nhom-co-dong-lien-quan-chu-tich-vpbank-nam-hon-33-von-ngan-hang-4773696.html) - 08:43 24/07/2024
+- 🐵 [VPBank có 13 cổ đông cá nhân nắm hơn 1% vốn](https://vnexpress.net/nhom-co-dong-lien-quan-chu-tich-vpbank-nam-hon-33-von-ngan-hang-4773696.html) - 08:43 24/07/2024
 - 🦅 [Dầu Nga sắp có thêm khách mua mới](https://vnexpress.net/dau-nga-sap-co-them-khach-mua-moi-4773610.html) - 08:10 24/07/2024
 - 😺 [Giá dầu tăng bào mòn lợi nhuận ngành đường sắt](https://vnexpress.net/gia-dau-tang-bao-mon-loi-nhuan-nganh-duong-sat-4773675.html) - 07:36 24/07/2024
 - 🤩 [HSBC nâng dự báo tăng trưởng GDP Việt Nam](https://vnexpress.net/hsbc-nang-du-bao-tang-truong-gdp-viet-nam-4773589.html) - 07:01 24/07/2024
