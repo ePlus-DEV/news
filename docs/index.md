@@ -43,7 +43,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [Bố muốn đi bước nữa sau ba năm mẹ mất](https://vnexpress.net/bo-muon-di-buoc-nua-sau-ba-nam-me-mat-4773626.html) - 04:54 24/07/2024
 - 🪄 [Xe điện Hàn Quốc tăng trưởng nhiều nhất tại Mỹ](https://vnexpress.net/xe-dien-han-quoc-tang-truong-nhieu-nhat-tai-my-4773519.html) - 04:48 24/07/2024
 - 😎 [Cadillac Escalade 2025 - SUV &#39;khủng long&#39; tràn ngập công nghệ](https://vnexpress.net/cadillac-escalade-2025-suv-khung-long-tran-ngap-cong-nghe-4773580.html) - 04:41 24/07/2024
-- 🎊 [3 người chết, 4 người mất tích do sạt lở đất](https://vnexpress.net/3-nguoi-chet-4-nguoi-mat-tich-do-sat-lo-dat-4773634.html) - 04:40 24/07/2024
+- 🎊 [3 người chết, 5 người mất tích do sạt lở đất](https://vnexpress.net/3-nguoi-chet-5-nguoi-mat-tich-do-sat-lo-dat-4773634.html) - 04:40 24/07/2024
 - ⚗️ [Tại sao cô gái than ốm yếu lại khiến các chàng trai vui mừng?](https://vnexpress.net/tai-sao-co-gai-than-om-yeu-lai-khien-cac-chang-trai-vui-mung-4773629.html) - 04:40 24/07/2024
 - 🫣 [Chiến thuật sắp xếp nguyện vọng xét tuyển đại học](https://vnexpress.net/chien-thuat-sap-xep-nguyen-vong-xet-tuyen-dai-hoc-4772237.html) - 04:39 24/07/2024
 - 👨‍🏫 [11 điều nên làm ngừa suy thận](https://vnexpress.net/11-dieu-nen-lam-ngua-suy-than-4772791.html) - 04:30 24/07/2024
