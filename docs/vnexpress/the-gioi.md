@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Đường phố thủ đô Philippines hóa thành sông](https://vnexpress.net/duong-pho-thu-do-philippines-hoa-thanh-song-4773705.html) - 12:28 24/07/2024
-- 🕴 [Ngoại trưởng Ukraine đến Trung Quốc, nêu điều kiện đàm phán với Nga](https://vnexpress.net/ngoai-truong-ukraine-den-trung-quoc-neu-dieu-kien-dam-phan-voi-nga-4773794.html) - 12:07 24/07/2024
-- 🤭 [Bà Harris khơi thông dòng tiền tài trợ cho đảng Dân chủ](https://vnexpress.net/ba-harris-khoi-thong-dong-tien-tai-tro-cho-dang-dan-chu-4773507.html) - 12:00 24/07/2024
-- 🧑‍💻 [Ông Trump đổi ý về ứng viên bộ trưởng tài chính](https://vnexpress.net/ong-trump-doi-y-ve-ung-vien-bo-truong-tai-chinh-4773770.html) - 11:35 24/07/2024
-- 🦏 [Trung Quốc nâng mức cảnh báo cao nhất trước siêu bão Gaemi](https://vnexpress.net/trung-quoc-nang-muc-canh-bao-cao-nhat-truoc-sieu-bao-gaemi-4773779.html) - 11:26 24/07/2024
-- 🦒 [Bị Nga phản kích, pháo tự hành Ukraine bốc cháy](https://video.vnexpress.net/bi-nga-phan-kich-phao-tu-hanh-ukraine-boc-chay-4773641.html) - 10:10 24/07/2024
-- 🌈 [Mỹ công bố video hiện trường nghi phạm ám sát ông Trump bị bắn chết](https://vnexpress.net/my-cong-bo-video-hien-truong-nghi-pham-am-sat-ong-trump-bi-ban-chet-4773595.html) - 09:24 24/07/2024
-- 🧑‍🏫 [Nhóm biểu tình xông vào nhà quốc hội Mỹ phản đối chiến sự Gaza](https://vnexpress.net/nhom-bieu-tinh-xong-vao-nha-quoc-hoi-my-phan-doi-chien-su-gaza-4773649.html) - 08:27 24/07/2024
-- 🐲 [Lãnh đạo cấp cao ASEAN ra Tuyên bố chung chia buồn Tổng bí thư Nguyễn Phú Trọng từ trần](https://vnexpress.net/lanh-dao-cap-cao-asean-ra-tuyen-bo-chung-chia-buon-tong-bi-thu-nguyen-phu-trong-tu-tran-4773692.html) - 08:01 24/07/2024
-- 🦒 [Máy bay Nepal rơi khi cất cánh, 18 người chết](https://vnexpress.net/may-bay-nepal-roi-khi-cat-canh-18-nguoi-chet-4773683.html) - 07:36 24/07/2024
-- 🐻 [Vua Charles III có thêm 58 triệu USD nhờ cho thuê đáy biển](https://vnexpress.net/vua-charles-iii-co-them-58-trieu-usd-nho-cho-thue-day-bien-4773543.html) - 07:14 24/07/2024
-- 🚀 [Ông Trump muốn ngăn bà Harris &#39;kế thừa&#39; quỹ tranh cử 91 triệu USD](https://vnexpress.net/ong-trump-muon-ngan-ba-harris-ke-thua-quy-tranh-cu-91-trieu-usd-4773562.html) - 07:04 24/07/2024
-- 🥰 [Lính Nga lái xe máy thả khói để &#39;chọc mù&#39; drone](https://vnexpress.net/linh-nga-lai-xe-may-tha-khoi-de-choc-mu-drone-4773597.html) - 04:55 24/07/2024
-- 🔥 [Elon Musk phủ nhận rót 45 triệu USD mỗi tháng ủng hộ ông Trump](https://vnexpress.net/elon-musk-phu-nhan-rot-45-trieu-usd-moi-thang-ung-ho-ong-trump-4773509.html) - 03:55 24/07/2024
-- 🥳 [Cảnh sát Mỹ nêu lý do để lọt nghi phạm bắn ông Trump](https://vnexpress.net/canh-sat-my-neu-ly-do-de-lot-nghi-pham-ban-ong-trump-4773530.html) - 03:31 24/07/2024
-- 💼 [229 người thiệt mạng trong vụ lở đất kép ở Ethiopia](https://vnexpress.net/229-nguoi-thiet-mang-trong-vu-lo-dat-kep-o-ethiopia-4773520.html) - 02:48 24/07/2024
-- 🤡 [Ông Trump, bà Harris cạnh tranh sít sao trong các khảo sát mới](https://vnexpress.net/ong-trump-ba-harris-canh-tranh-sit-sao-trong-cac-khao-sat-moi-4773488.html) - 00:14 24/07/2024
-- 🌁 [Ông Biden khỏi Covid-19, trở lại Nhà Trắng](https://vnexpress.net/ong-biden-khoi-covid-19-tro-lai-nha-trang-4773485.html) - 00:03 24/07/2024
-- 🤩 [Rủi ro với đảng Cộng hòa khi ông Biden dừng tranh cử](https://vnexpress.net/rui-ro-voi-dang-cong-hoa-khi-ong-biden-dung-tranh-cu-4773136.html) - 22:00 23/07/2024
+- 🎭 [Chủ tịch nước Tô Lâm tiếp đoàn Cuba dự lễ tang Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/chu-tich-nuoc-to-lam-tiep-doan-cuba-du-le-tang-tong-bi-thu-nguyen-phu-trong-4773818.html) - 14:03 24/07/2024
+- 🕴 [Đường phố thủ đô Philippines hóa thành sông](https://vnexpress.net/duong-pho-thu-do-philippines-hoa-thanh-song-4773705.html) - 12:28 24/07/2024
+- 🤭 [Ngoại trưởng Ukraine đến Trung Quốc, nêu điều kiện đàm phán với Nga](https://vnexpress.net/ngoai-truong-ukraine-den-trung-quoc-neu-dieu-kien-dam-phan-voi-nga-4773794.html) - 12:07 24/07/2024
+- 🧑‍💻 [Bà Harris khơi thông dòng tiền tài trợ cho đảng Dân chủ](https://vnexpress.net/ba-harris-khoi-thong-dong-tien-tai-tro-cho-dang-dan-chu-4773507.html) - 12:00 24/07/2024
+- 🦏 [Ông Trump đổi ý về ứng viên bộ trưởng tài chính](https://vnexpress.net/ong-trump-doi-y-ve-ung-vien-bo-truong-tai-chinh-4773770.html) - 11:35 24/07/2024
+- 🦒 [Trung Quốc nâng mức cảnh báo cao nhất trước siêu bão Gaemi](https://vnexpress.net/trung-quoc-nang-muc-canh-bao-cao-nhat-truoc-sieu-bao-gaemi-4773779.html) - 11:26 24/07/2024
+- 🌈 [Bị Nga phản kích, pháo tự hành Ukraine bốc cháy](https://vnexpress.net/bi-nga-phan-kich-phao-tu-hanh-ukraine-boc-chay-4773641.html) - 10:10 24/07/2024
+- 🧑‍🏫 [Mỹ công bố video hiện trường nghi phạm ám sát ông Trump bị bắn chết](https://vnexpress.net/my-cong-bo-video-hien-truong-nghi-pham-am-sat-ong-trump-bi-ban-chet-4773595.html) - 09:24 24/07/2024
+- 🐲 [Nhóm biểu tình xông vào nhà quốc hội Mỹ phản đối chiến sự Gaza](https://vnexpress.net/nhom-bieu-tinh-xong-vao-nha-quoc-hoi-my-phan-doi-chien-su-gaza-4773649.html) - 08:27 24/07/2024
+- 🦒 [Lãnh đạo cấp cao ASEAN ra Tuyên bố chung chia buồn Tổng bí thư Nguyễn Phú Trọng từ trần](https://vnexpress.net/lanh-dao-cap-cao-asean-ra-tuyen-bo-chung-chia-buon-tong-bi-thu-nguyen-phu-trong-tu-tran-4773692.html) - 08:01 24/07/2024
+- 🐻 [Máy bay Nepal rơi khi cất cánh, 18 người chết](https://vnexpress.net/may-bay-nepal-roi-khi-cat-canh-18-nguoi-chet-4773683.html) - 07:36 24/07/2024
+- 🚀 [Vua Charles III có thêm 58 triệu USD nhờ cho thuê đáy biển](https://vnexpress.net/vua-charles-iii-co-them-58-trieu-usd-nho-cho-thue-day-bien-4773543.html) - 07:14 24/07/2024
+- 🥰 [Ông Trump muốn ngăn bà Harris &#39;kế thừa&#39; quỹ tranh cử 91 triệu USD](https://vnexpress.net/ong-trump-muon-ngan-ba-harris-ke-thua-quy-tranh-cu-91-trieu-usd-4773562.html) - 07:04 24/07/2024
+- 🔥 [Lính Nga lái xe máy thả khói để &#39;chọc mù&#39; drone](https://vnexpress.net/linh-nga-lai-xe-may-tha-khoi-de-choc-mu-drone-4773597.html) - 04:55 24/07/2024
+- 🥳 [Elon Musk phủ nhận rót 45 triệu USD mỗi tháng ủng hộ ông Trump](https://vnexpress.net/elon-musk-phu-nhan-rot-45-trieu-usd-moi-thang-ung-ho-ong-trump-4773509.html) - 03:55 24/07/2024
+- 💼 [Cảnh sát Mỹ nêu lý do để lọt nghi phạm bắn ông Trump](https://vnexpress.net/canh-sat-my-neu-ly-do-de-lot-nghi-pham-ban-ong-trump-4773530.html) - 03:31 24/07/2024
+- 🤡 [229 người thiệt mạng trong vụ lở đất kép ở Ethiopia](https://vnexpress.net/229-nguoi-thiet-mang-trong-vu-lo-dat-kep-o-ethiopia-4773520.html) - 02:48 24/07/2024
+- 🌁 [Ông Trump, bà Harris cạnh tranh sít sao trong các khảo sát mới](https://vnexpress.net/ong-trump-ba-harris-canh-tranh-sit-sao-trong-cac-khao-sat-moi-4773488.html) - 00:14 24/07/2024
+- 🤩 [Ông Biden khỏi Covid-19, trở lại Nhà Trắng](https://vnexpress.net/ong-biden-khoi-covid-19-tro-lai-nha-trang-4773485.html) - 00:03 24/07/2024
+- 🎉 [Rủi ro với đảng Cộng hòa khi ông Biden dừng tranh cử](https://vnexpress.net/rui-ro-voi-dang-cong-hoa-khi-ong-biden-dung-tranh-cu-4773136.html) - 22:00 23/07/2024
 - 🎉 [Ván cược sai của đảng Dân chủ vào Tổng thống Biden](https://vnexpress.net/van-cuoc-sai-cua-dang-dan-chu-vao-tong-thong-biden-4773117.html) - 17:00 23/07/2024
-- 🎉 [Anh báo động về &#39;đại dịch&#39; bạo lực với phụ nữ và bé gái](https://vnexpress.net/anh-bao-dong-ve-dai-dich-bao-luc-voi-phu-nu-va-be-gai-4773388.html) - 15:40 23/07/2024
-- 🌁 [Trùm mật vụ Mỹ từ chức](https://vnexpress.net/trum-mat-vu-my-tu-chuc-4773460.html) - 15:17 23/07/2024
-- 🌊 [Nga giành thêm làng ở tỉnh Donetsk](https://vnexpress.net/nga-gianh-them-lang-o-tinh-donetsk-4773437.html) - 12:00 23/07/2024
-- 🕴 [Tuổi tác của ông Trump gây chú ý sau khi ông Biden rút lui](https://vnexpress.net/tuoi-tac-cua-ong-trump-gay-chu-y-sau-khi-ong-biden-rut-lui-4773131.html) - 12:00 23/07/2024
-- 🎓 [Israel bị tố tấn công thành phố nam Gaza khiến 70 người chết](https://vnexpress.net/israel-bi-to-tan-cong-thanh-pho-nam-gaza-khien-70-nguoi-chet-4773236.html) - 09:24 23/07/2024
-- 🦩 [Hamas và Fatah ký thỏa thuận hòa giải tại Trung Quốc](https://vnexpress.net/hamas-va-fatah-ky-thoa-thuan-hoa-giai-tai-trung-quoc-4773305.html) - 08:33 23/07/2024
-- 🌏 [Ông Trump nêu lý do chọn JD Vance làm phó tướng](https://vnexpress.net/ong-trump-neu-ly-do-chon-jd-vance-lam-pho-tuong-4773234.html) - 07:46 23/07/2024
-- 🌋 [Nữ phi công đầu tiên trong lịch sử Mỹ hạ mục tiêu khi chiến đấu](https://vnexpress.net/nu-phi-cong-dau-tien-trong-lich-su-my-ha-muc-tieu-khi-chien-dau-4773250.html) - 07:15 23/07/2024
-- 🪜 [Chiến hạm Ấn Độ bốc cháy, lật nghiêng](https://vnexpress.net/chien-ham-an-do-boc-chay-lat-nghieng-4773230.html) - 04:47 23/07/2024
-- 🕴 [Quyết định dừng tranh cử khép lại sự nghiệp nửa thế kỷ của ông Biden](https://vnexpress.net/quyet-dinh-dung-tranh-cu-khep-lai-su-nghiep-nua-the-ky-cua-ong-biden-4772929.html) - 04:35 23/07/2024
-- 🧑‍🏫 [Bà Harris tuyên bố đủ điều kiện làm ứng viên đảng Dân chủ](https://vnexpress.net/ba-harris-tuyen-bo-du-dieu-kien-lam-ung-vien-dang-dan-chu-4773240.html) - 04:33 23/07/2024
-- 🌮 [Phó tướng JD Vance: Bà Harris tệ hơn Tổng thống Biden triệu lần](https://vnexpress.net/pho-tuong-jd-vance-ba-harris-te-hon-tong-thong-biden-trieu-lan-4773125.html) - 04:12 23/07/2024
-- 🚦 [Xe bọc thép Anh lần đầu khai hỏa pháo laser hạ drone](https://vnexpress.net/xe-boc-thep-anh-lan-dau-khai-hoa-phao-laser-ha-drone-4773141.html) - 03:39 23/07/2024
-- 💫 [Nga đăng video tập kích &#39;nhà kho giấu tổ hợp HIMARS Ukraine&#39;](https://vnexpress.net/nga-dang-video-tap-kich-nha-kho-giau-to-hop-himars-ukraine-4773168.html) - 03:33 23/07/2024
-- 🤡 [Nghị sĩ Cộng hòa trình điều khoản luận tội Giám đốc Sở Mật vụ](https://vnexpress.net/nghi-si-cong-hoa-trinh-dieu-khoan-luan-toi-giam-doc-so-mat-vu-4773175.html) - 03:19 23/07/2024
-- 🦣 [Những người cao tuổi nhảy hiphop ở Nhật](https://vnexpress.net/nhung-nguoi-cao-tuoi-nhay-hiphop-o-nhat-4773145.html) - 03:08 23/07/2024
-- 🎬 [Chồng Singapore ngăn vợ Việt gặp con sau khi sinh](https://vnexpress.net/chong-singapore-ngan-vo-viet-gap-con-sau-khi-sinh-4773122.html) - 02:55 23/07/2024
-- 🎉 [Đảng Dân chủ sẽ chọn ứng viên tổng thống vào đầu tháng sau](https://vnexpress.net/dang-dan-chu-se-chon-ung-vien-tong-thong-vao-dau-thang-sau-4773104.html) - 00:43 23/07/2024
-- 🎡 [Cựu chủ tịch Hạ viện Pelosi ủng hộ bà Harris tranh cử tổng thống](https://vnexpress.net/cuu-chu-tich-ha-vien-pelosi-ung-ho-ba-harris-tranh-cu-tong-thong-4773103.html) - 00:18 23/07/2024
-- 🌜 [Bộ trưởng Quốc phòng Italy nổi giận với Tổng thư ký NATO](https://vnexpress.net/bo-truong-quoc-phong-italy-noi-gian-voi-tong-thu-ky-nato-4773057.html) - 23:50 22/07/2024
-- 🎡 [Loạt thách thức bà Harris đối mặt trên đường đua vào Nhà Trắng](https://vnexpress.net/loat-thach-thuc-ba-harris-doi-mat-tren-duong-dua-vao-nha-trang-4772703.html) - 22:00 22/07/2024
-- 🤗 [Những đặc vụ chìm Israel trà trộn ở Gaza](https://vnexpress.net/nhung-dac-vu-chim-israel-tra-tron-o-gaza-4771385.html) - 18:00 22/07/2024
-- 🦩 [Lở đất kép tại Ethiopia, 55 người chết](https://vnexpress.net/lo-dat-kep-tai-ethiopia-55-nguoi-chet-4773089.html) - 17:19 22/07/2024
-- 🎓 [Vụ ông Trump bị ám sát hụt là &#39;thất bại ê chề nhất của mật vụ trong nhiều thập kỷ&#39;](https://vnexpress.net/vu-ong-trump-bi-am-sat-hut-la-that-bai-e-che-nhat-cua-mat-vu-trong-nhieu-thap-ky-4773077.html) - 17:01 22/07/2024
-- 🌁 [Điện Kremlin chỉ trích bà Harris từng dùng lời lẽ &#39;không thân thiện&#39; với Nga](https://vnexpress.net/dien-kremlin-chi-trich-ba-harris-tung-dung-loi-le-khong-than-thien-voi-nga-4773044.html) - 14:35 22/07/2024
-- 🤩 [Xả súng ở viện dưỡng lão Croatia, 5 người chết](https://vnexpress.net/xa-sung-o-vien-duong-lao-croatia-5-nguoi-chet-4773042.html) - 12:47 22/07/2024
-- 👹 [Nguy cơ &#39;mất tất cả&#39; thúc đẩy ông Biden ngừng tranh cử](https://vnexpress.net/nguy-co-mat-tat-ca-thuc-day-ong-biden-ngung-tranh-cu-4772678.html) - 12:00 22/07/2024
-- ⛽️ [Đảng Dân chủ thu số tiền ủng hộ kỷ lục sau khi ông Biden rút lui](https://vnexpress.net/dang-dan-chu-thu-so-tien-ung-ho-ky-luc-sau-khi-ong-biden-rut-lui-4773037.html) - 11:50 22/07/2024
-- 🚀 [Hạ viện Ấn Độ dành một phút mặc niệm Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/ha-vien-an-do-danh-mot-phut-mac-niem-tong-bi-thu-nguyen-phu-trong-4772995.html) - 10:04 22/07/2024
-- 🎡 [UAV Ukraine tập kích trong đêm, nhà máy lọc dầu Nga bốc cháy](https://vnexpress.net/uav-ukraine-tap-kich-trong-dem-nha-may-loc-dau-nga-boc-chay-4772944.html) - 09:08 22/07/2024
-- 🕯 [Hunter Biden rút đơn kiện Fox News vì phát sóng &#39;cảnh nóng&#39;](https://vnexpress.net/hunter-biden-rut-don-kien-fox-news-vi-phat-song-canh-nong-4772852.html) - 08:13 22/07/2024
-- 🐻 [Lào tuyên bố quốc tang tưởng niệm Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/lao-tuyen-bo-quoc-tang-tuong-niem-tong-bi-thu-nguyen-phu-trong-4772895.html) - 07:50 22/07/2024
-- 🚦 [Lý do ông Trump tự tin sẽ đánh bại bà Harris](https://vnexpress.net/ly-do-ong-trump-tu-tin-se-danh-bai-ba-harris-4772695.html) - 05:02 22/07/2024
-- 👍 [Cử tri &#39;nhẹ nhõm&#39; trước quyết định rút lui của ông Biden](https://vnexpress.net/cu-tri-nhe-nhom-truoc-quyet-dinh-rut-lui-cua-ong-biden-4772749.html) - 04:58 22/07/2024
-- 🚀 [Tên lửa Iskander Nga tập kích đoàn tàu quân sự Ukraine](https://vnexpress.net/ten-lua-iskander-nga-tap-kich-doan-tau-quan-su-ukraine-4772742.html) - 04:45 22/07/2024
-- 🌮 [Chính sách phát triển công nghệ cao của Trung Quốc](https://vnexpress.net/chinh-sach-phat-trien-cong-nghe-cao-cua-trung-quoc-4771885.html) - 04:37 22/07/2024
-- 😎 [Lo ông Trump đắc cử, 3.000 người di cư cấp tốc tới Mỹ](https://vnexpress.net/lo-ong-trump-dac-cu-3-000-nguoi-di-cu-cap-toc-toi-my-4772743.html) - 03:59 22/07/2024
-- 🐲 [Cảng Houthi tan hoang sau trận không kích của Israel](https://vnexpress.net/cang-houthi-tan-hoang-sau-tran-khong-kich-cua-israel-4772700.html) - 03:25 22/07/2024
-- 💫 [Trúng đạn HIMARS, xe phòng không Nga &#39;nổ như pháo hoa&#39;](https://vnexpress.net/trung-dan-himars-xe-phong-khong-nga-no-nhu-phao-hoa-4772727.html) - 03:18 22/07/2024
-- 👀 [Bà Jill Biden &#39;ủng hộ mọi con đường chồng chọn lựa&#39;](https://vnexpress.net/ba-jill-biden-ung-ho-moi-con-duong-chong-chon-lua-4772709.html) - 02:36 22/07/2024<!-- vnexpress-the-gioi:END -->
+- 🌁 [Anh báo động về &#39;đại dịch&#39; bạo lực với phụ nữ và bé gái](https://vnexpress.net/anh-bao-dong-ve-dai-dich-bao-luc-voi-phu-nu-va-be-gai-4773388.html) - 15:40 23/07/2024
+- 🌊 [Trùm mật vụ Mỹ từ chức](https://vnexpress.net/trum-mat-vu-my-tu-chuc-4773460.html) - 15:17 23/07/2024
+- 🕴 [Nga giành thêm làng ở tỉnh Donetsk](https://vnexpress.net/nga-gianh-them-lang-o-tinh-donetsk-4773437.html) - 12:00 23/07/2024
+- 🎓 [Tuổi tác của ông Trump gây chú ý sau khi ông Biden rút lui](https://vnexpress.net/tuoi-tac-cua-ong-trump-gay-chu-y-sau-khi-ong-biden-rut-lui-4773131.html) - 12:00 23/07/2024
+- 🦩 [Israel bị tố tấn công thành phố nam Gaza khiến 70 người chết](https://vnexpress.net/israel-bi-to-tan-cong-thanh-pho-nam-gaza-khien-70-nguoi-chet-4773236.html) - 09:24 23/07/2024
+- 🌏 [Hamas và Fatah ký thỏa thuận hòa giải tại Trung Quốc](https://vnexpress.net/hamas-va-fatah-ky-thoa-thuan-hoa-giai-tai-trung-quoc-4773305.html) - 08:33 23/07/2024
+- 🌋 [Ông Trump nêu lý do chọn JD Vance làm phó tướng](https://vnexpress.net/ong-trump-neu-ly-do-chon-jd-vance-lam-pho-tuong-4773234.html) - 07:46 23/07/2024
+- 🪜 [Nữ phi công đầu tiên trong lịch sử Mỹ hạ mục tiêu khi chiến đấu](https://vnexpress.net/nu-phi-cong-dau-tien-trong-lich-su-my-ha-muc-tieu-khi-chien-dau-4773250.html) - 07:15 23/07/2024
+- 🕴 [Chiến hạm Ấn Độ bốc cháy, lật nghiêng](https://vnexpress.net/chien-ham-an-do-boc-chay-lat-nghieng-4773230.html) - 04:47 23/07/2024
+- 🧑‍🏫 [Quyết định dừng tranh cử khép lại sự nghiệp nửa thế kỷ của ông Biden](https://vnexpress.net/quyet-dinh-dung-tranh-cu-khep-lai-su-nghiep-nua-the-ky-cua-ong-biden-4772929.html) - 04:35 23/07/2024
+- 🌮 [Bà Harris tuyên bố đủ điều kiện làm ứng viên đảng Dân chủ](https://vnexpress.net/ba-harris-tuyen-bo-du-dieu-kien-lam-ung-vien-dang-dan-chu-4773240.html) - 04:33 23/07/2024
+- 🚦 [Phó tướng JD Vance: Bà Harris tệ hơn Tổng thống Biden triệu lần](https://vnexpress.net/pho-tuong-jd-vance-ba-harris-te-hon-tong-thong-biden-trieu-lan-4773125.html) - 04:12 23/07/2024
+- 💫 [Xe bọc thép Anh lần đầu khai hỏa pháo laser hạ drone](https://vnexpress.net/xe-boc-thep-anh-lan-dau-khai-hoa-phao-laser-ha-drone-4773141.html) - 03:39 23/07/2024
+- 🤡 [Nga đăng video tập kích &#39;nhà kho giấu tổ hợp HIMARS Ukraine&#39;](https://vnexpress.net/nga-dang-video-tap-kich-nha-kho-giau-to-hop-himars-ukraine-4773168.html) - 03:33 23/07/2024
+- 🦣 [Nghị sĩ Cộng hòa trình điều khoản luận tội Giám đốc Sở Mật vụ](https://vnexpress.net/nghi-si-cong-hoa-trinh-dieu-khoan-luan-toi-giam-doc-so-mat-vu-4773175.html) - 03:19 23/07/2024
+- 🎬 [Những người cao tuổi nhảy hiphop ở Nhật](https://vnexpress.net/nhung-nguoi-cao-tuoi-nhay-hiphop-o-nhat-4773145.html) - 03:08 23/07/2024
+- 🎉 [Chồng Singapore ngăn vợ Việt gặp con sau khi sinh](https://vnexpress.net/chong-singapore-ngan-vo-viet-gap-con-sau-khi-sinh-4773122.html) - 02:55 23/07/2024
+- 🎡 [Đảng Dân chủ sẽ chọn ứng viên tổng thống vào đầu tháng sau](https://vnexpress.net/dang-dan-chu-se-chon-ung-vien-tong-thong-vao-dau-thang-sau-4773104.html) - 00:43 23/07/2024
+- 🌜 [Cựu chủ tịch Hạ viện Pelosi ủng hộ bà Harris tranh cử tổng thống](https://vnexpress.net/cuu-chu-tich-ha-vien-pelosi-ung-ho-ba-harris-tranh-cu-tong-thong-4773103.html) - 00:18 23/07/2024
+- 🎡 [Bộ trưởng Quốc phòng Italy nổi giận với Tổng thư ký NATO](https://vnexpress.net/bo-truong-quoc-phong-italy-noi-gian-voi-tong-thu-ky-nato-4773057.html) - 23:50 22/07/2024
+- 🤗 [Loạt thách thức bà Harris đối mặt trên đường đua vào Nhà Trắng](https://vnexpress.net/loat-thach-thuc-ba-harris-doi-mat-tren-duong-dua-vao-nha-trang-4772703.html) - 22:00 22/07/2024
+- 🦩 [Những đặc vụ chìm Israel trà trộn ở Gaza](https://vnexpress.net/nhung-dac-vu-chim-israel-tra-tron-o-gaza-4771385.html) - 18:00 22/07/2024
+- 🎓 [Lở đất kép tại Ethiopia, 55 người chết](https://vnexpress.net/lo-dat-kep-tai-ethiopia-55-nguoi-chet-4773089.html) - 17:19 22/07/2024
+- 🌁 [Vụ ông Trump bị ám sát hụt là &#39;thất bại ê chề nhất của mật vụ trong nhiều thập kỷ&#39;](https://vnexpress.net/vu-ong-trump-bi-am-sat-hut-la-that-bai-e-che-nhat-cua-mat-vu-trong-nhieu-thap-ky-4773077.html) - 17:01 22/07/2024
+- 🤩 [Điện Kremlin chỉ trích bà Harris từng dùng lời lẽ &#39;không thân thiện&#39; với Nga](https://vnexpress.net/dien-kremlin-chi-trich-ba-harris-tung-dung-loi-le-khong-than-thien-voi-nga-4773044.html) - 14:35 22/07/2024
+- 👹 [Xả súng ở viện dưỡng lão Croatia, 5 người chết](https://vnexpress.net/xa-sung-o-vien-duong-lao-croatia-5-nguoi-chet-4773042.html) - 12:47 22/07/2024
+- ⛽️ [Nguy cơ &#39;mất tất cả&#39; thúc đẩy ông Biden ngừng tranh cử](https://vnexpress.net/nguy-co-mat-tat-ca-thuc-day-ong-biden-ngung-tranh-cu-4772678.html) - 12:00 22/07/2024
+- 🚀 [Đảng Dân chủ thu số tiền ủng hộ kỷ lục sau khi ông Biden rút lui](https://vnexpress.net/dang-dan-chu-thu-so-tien-ung-ho-ky-luc-sau-khi-ong-biden-rut-lui-4773037.html) - 11:50 22/07/2024
+- 🎡 [Hạ viện Ấn Độ dành một phút mặc niệm Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/ha-vien-an-do-danh-mot-phut-mac-niem-tong-bi-thu-nguyen-phu-trong-4772995.html) - 10:04 22/07/2024
+- 🕯 [UAV Ukraine tập kích trong đêm, nhà máy lọc dầu Nga bốc cháy](https://vnexpress.net/uav-ukraine-tap-kich-trong-dem-nha-may-loc-dau-nga-boc-chay-4772944.html) - 09:08 22/07/2024
+- 🐻 [Hunter Biden rút đơn kiện Fox News vì phát sóng &#39;cảnh nóng&#39;](https://vnexpress.net/hunter-biden-rut-don-kien-fox-news-vi-phat-song-canh-nong-4772852.html) - 08:13 22/07/2024
+- 🚦 [Lào tuyên bố quốc tang tưởng niệm Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/lao-tuyen-bo-quoc-tang-tuong-niem-tong-bi-thu-nguyen-phu-trong-4772895.html) - 07:50 22/07/2024
+- 👍 [Lý do ông Trump tự tin sẽ đánh bại bà Harris](https://vnexpress.net/ly-do-ong-trump-tu-tin-se-danh-bai-ba-harris-4772695.html) - 05:02 22/07/2024
+- 🚀 [Cử tri &#39;nhẹ nhõm&#39; trước quyết định rút lui của ông Biden](https://vnexpress.net/cu-tri-nhe-nhom-truoc-quyet-dinh-rut-lui-cua-ong-biden-4772749.html) - 04:58 22/07/2024
+- 🌮 [Tên lửa Iskander Nga tập kích đoàn tàu quân sự Ukraine](https://vnexpress.net/ten-lua-iskander-nga-tap-kich-doan-tau-quan-su-ukraine-4772742.html) - 04:45 22/07/2024
+- 😎 [Chính sách phát triển công nghệ cao của Trung Quốc](https://vnexpress.net/chinh-sach-phat-trien-cong-nghe-cao-cua-trung-quoc-4771885.html) - 04:37 22/07/2024
+- 🐲 [Lo ông Trump đắc cử, 3.000 người di cư cấp tốc tới Mỹ](https://vnexpress.net/lo-ong-trump-dac-cu-3-000-nguoi-di-cu-cap-toc-toi-my-4772743.html) - 03:59 22/07/2024
+- 💫 [Cảng Houthi tan hoang sau trận không kích của Israel](https://vnexpress.net/cang-houthi-tan-hoang-sau-tran-khong-kich-cua-israel-4772700.html) - 03:25 22/07/2024
+- 👀 [Trúng đạn HIMARS, xe phòng không Nga &#39;nổ như pháo hoa&#39;](https://vnexpress.net/trung-dan-himars-xe-phong-khong-nga-no-nhu-phao-hoa-4772727.html) - 03:18 22/07/2024<!-- vnexpress-the-gioi:END -->
