@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Diễn viên lồng tiếng &#39;Doraemon&#39; qua đời](https://vnexpress.net/dien-vien-long-tieng-doraemon-qua-doi-4773622.html) - 04:12 24/07/2024
-- 💫 [Beyoncé để bà Kamala Harris dùng nhạc cho chiến dịch tranh cử](https://vnexpress.net/beyonce-de-ba-kamala-harris-dung-nhac-cho-chien-dich-tranh-cu-4773556.html) - 04:06 24/07/2024
+- 💫 [Nhạc Beyoncé được dùng cho chiến dịch tranh cử của bà Kamala Harris](https://vnexpress.net/nhac-beyonce-duoc-dung-cho-chien-dich-tranh-cu-cua-ba-kamala-harris-4773556.html) - 04:06 24/07/2024
 - 🌮 [Lý Á Bằng bị chỉ trích &#39;lợi dụng danh tiếng của vợ cũ&#39;](https://vnexpress.net/ly-a-bang-bi-chi-trich-loi-dung-danh-tieng-cua-vo-cu-4773572.html) - 03:44 24/07/2024
 - 🧠 [&#39;Deadpool &amp;amp; Wolverine&#39; nhận mưa lời khen](https://vnexpress.net/deadpool-wolverine-nhan-mua-loi-khen-4773513.html) - 03:01 24/07/2024
 - 👨‍🏫 [Celine Dion sẽ diễn khai mạc Olympic 2024](https://vnexpress.net/celine-dion-se-dien-khai-mac-olympic-2024-4773511.html) - 01:08 24/07/2024
