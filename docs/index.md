@@ -149,7 +149,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- thanhnien:START -->
 - 🤠 [Lễ viếng Tổng Bí thư Nguyễn Phú Trọng](https://thanhnien.vn/le-vieng-tong-bi-thu-nguyen-phu-trong-185240724162520016.htm) - 23:27 24/07/2024
 - 🥸 [Đường sắt tốc độ cao hoàn thành vào 2035](https://thanhnien.vn/duong-sat-toc-do-cao-hoan-thanh-vao-2035-185240724221537282.htm) - 23:26 24/07/2024
-- 🌁 [Olympic Argentina bị xử thua đầy bê bối, Messi phản ứng bất ngờ](https://thanhnien.vn/olympic-argentina-bi-xu-thua-day-be-boi-messi-phan-ung-bat-ngo-185240725055955285.htm) - 23:22 24/07/2024
+- 🌁 [Olympic Argentina bị xử thua Ma Rốc đầy bê bối, Messi phản ứng bất ngờ](https://thanhnien.vn/olympic-argentina-bi-xu-thua-day-be-boi-messi-phan-ung-bat-ngo-185240725055955285.htm) - 23:22 24/07/2024
 - 🤡 [Đẩy mạnh tín dụng, đưa vốn vào sản xuất, kinh doanh](https://thanhnien.vn/day-manh-tin-dung-dua-von-vao-san-xuat-kinh-doanh-185240724220900938.htm) - 23:14 24/07/2024
 - 🎉 [Hàng không nỗ lực bổ sung máy bay](https://thanhnien.vn/hang-khong-no-luc-bo-sung-may-bay-185240724223405885.htm) - 23:13 24/07/2024
 - 🎊 [Những gợi mở của Tổng Bí thư Nguyễn Phú Trọng về phát triển văn hóa](https://thanhnien.vn/nhung-goi-mo-cua-tong-bi-thu-nguyen-phu-trong-ve-phat-trien-van-hoa-185240725002217318.htm) - 23:08 24/07/2024
