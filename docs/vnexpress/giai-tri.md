@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Ảnh đế Hàn bị đề nghị bốn năm tù](https://vnexpress.net/anh-de-han-bi-de-nghi-bon-nam-tu-4773804.html) - 12:57 24/07/2024
+- 🌏 [&#39;Ảnh đế Hàn&#39; bị đề nghị bốn năm tù](https://vnexpress.net/anh-de-han-bi-de-nghi-bon-nam-tu-4773804.html) - 12:57 24/07/2024
 - 💫 [&#39;Thời đại AI&#39; - khi trí tuệ nhân tạo chi phối con người](https://vnexpress.net/thoi-dai-ai-khi-tri-tue-nhan-tao-chi-phoi-con-nguoi-4773391.html) - 09:31 24/07/2024
 - 🌮 [Triệu Vy gây chú ý khi xuất hiện ở sân bay](https://vnexpress.net/trieu-vy-gay-chu-y-khi-xuat-hien-o-san-bay-4773751.html) - 09:17 24/07/2024
 - 🧠 [&#39;Sao quyến rũ nhất Nhật Bản&#39; yêu bạn trai kém 11 tuổi](https://vnexpress.net/sao-quyen-ru-nhat-nhat-ban-yeu-ban-trai-kem-11-tuoi-4773614.html) - 07:03 24/07/2024
