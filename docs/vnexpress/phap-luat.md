@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Tên trộm lục tìm tài sản ở phòng ngủ giữa đêm](https://video.vnexpress.net/ten-trom-luc-tim-tai-san-o-phong-ngu-giua-dem-4773427.html) - 07:29 24/07/2024
 - 🥰 [Ông &#39;trùm&#39; đăng kiểm miền Tây khai việc thoát tội Đưa hối lộ](https://vnexpress.net/ong-trum-dang-kiem-mien-tay-khai-viec-thoat-toi-dua-hoi-lo-4773623.html) - 07:21 24/07/2024
 - 🎓 [Kẻ tàng trữ ma túy tông thượng úy CSGT bị thương](https://vnexpress.net/ke-tang-tru-ma-tuy-tong-thuong-uy-csgt-bi-thuong-4773676.html) - 06:48 24/07/2024
-- 🤓 [Quan điểm đối lập của bị hại về bồi thường tại vụ án Trịnh Văn Quyết](https://vnexpress.net/quan-diem-doi-lap-cua-bi-hai-ve-boi-thuong-tai-vu-an-trinh-van-quyet-4773657.html) - 06:26 24/07/2024
+- 🤓 [Người mua cổ phiếu muốn được bồi thường thế nào trong vụ án Trịnh Văn Quyết](https://vnexpress.net/quan-diem-doi-lap-cua-bi-hai-ve-boi-thuong-tai-vu-an-trinh-van-quyet-4773657.html) - 06:26 24/07/2024
 - 🎊 [Thi thể người đàn ông nhiều thương tích ở bên đường](https://vnexpress.net/thi-the-nguoi-dan-ong-nhieu-thuong-tich-o-ben-duong-4773593.html) - 05:36 24/07/2024
 - 🙉 [Người phụ nữ lợi dụng &#39;hiện tượng ông Thích Minh Tuệ&#39; lừa hơn 250 triệu đồng](https://vnexpress.net/nguoi-phu-nu-loi-dung-hien-tuong-ong-thich-minh-tue-lua-hon-250-trieu-dong-4773612.html) - 05:09 24/07/2024
 - 🤡 [Chủ nhà nổ súng vì tức giận việc &#39;nhấn chuông rồi bỏ chạy&#39;](https://vnexpress.net/bi-chu-nha-ban-vi-thu-thach-go-cua-luc-nua-dem-4773613.html) - 05:04 24/07/2024
