@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Lê Quốc Phong vượt qua sai lầm ở vòng loại bắn cung Olympic 2024](https://vnexpress.net/le-quoc-phong-vuot-qua-sai-lam-o-vong-loai-ban-cung-olympic-2024-4774235.html) - 15:07 25/07/2024
+- 🪜 [Nam cung thủ Việt Nam vượt khó ở ngày đầu Olympic Paris 2024](https://vnexpress.net/nam-cung-thu-viet-nam-vuot-kho-o-ngay-dau-olympic-paris-2024-4774235.html) - 15:07 25/07/2024
 - 🦩 [Djokovic và Nadal hẹn nhau ở vòng hai Olympic](https://vnexpress.net/djokovic-va-nadal-hen-nhau-o-vong-hai-olympic-4774225.html) - 12:53 25/07/2024
 - 🧰 [Đỗ Thị Ánh Nguyệt xếp thứ 37 vòng loại bắn cung Olympic 2024](https://vnexpress.net/do-thi-anh-nguyet-xep-thu-37-vong-loai-ban-cung-olympic-2024-4774170.html) - 10:11 25/07/2024
 - 🤗 [Môn thể thao mới tại Olympic Paris 2024](https://vnexpress.net/mon-the-thao-moi-tai-olympic-paris-2024-4774185.html) - 09:53 25/07/2024
