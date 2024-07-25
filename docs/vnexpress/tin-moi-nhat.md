@@ -30,7 +30,7 @@ sidebar_position: 9
 - 🌝 [Nga để ngỏ khả năng đàm phán với Tổng thống Zelensky](https://vnexpress.net/nga-de-ngo-kha-nang-dam-phan-voi-tong-thong-zelensky-4774223.html) - 14:37 25/07/2024
 - 😺 [Lễ viếng Tổng Bí thư Nguyễn Phú Trọng ở các nước](https://vnexpress.net/le-vieng-tong-bi-thu-nguyen-phu-trong-o-cac-nuoc-4774234.html) - 14:09 25/07/2024
 - 🐎 [Cún cưng của bà lão ở đâu?](https://vnexpress.net/cun-cung-cua-ba-lao-o-dau-4773734.html) - 14:08 25/07/2024
-- 🎡 [Miền Bắc sắp mưa lớn](https://vnexpress.net/mien-bac-sap-mua-lon-4774213.html) - 14:03 25/07/2024
+- 🎡 [Miền Bắc sắp bước vào đợt mưa lớn](https://vnexpress.net/mien-bac-sap-buoc-vao-dot-mua-lon-4774213.html) - 14:03 25/07/2024
 - 👨‍🏫 [&#39;Chạy vội&#39; khi bạn gái đòi tặng bộ nữ trang hàng trăm triệu đồng](https://vnexpress.net/chay-voi-khi-ban-gai-doi-tang-bo-nu-trang-hang-tram-trieu-dong-4774216.html) - 14:00 25/07/2024
 - 🦆 [Đi tìm một nửa ở tuổi 44](https://vnexpress.net/di-tim-mot-nua-o-tuoi-44-4773873.html) - 14:00 25/07/2024
 - 🚦 [Bộ trưởng Y tế khen bác sĩ nhanh trí cứu bé trai đuối nước](https://vnexpress.net/bo-truong-y-te-khen-bac-si-nhanh-tri-cuu-be-trai-duoi-nuoc-4774226.html) - 13:57 25/07/2024
