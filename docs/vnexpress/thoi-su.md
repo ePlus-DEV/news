@@ -4,21 +4,21 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Lãnh đạo Đảng, Nhà nước viếng Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/lanh-dao-dang-nha-nuoc-vieng-tong-bi-thu-nguyen-phu-trong-4773918.html) - 03:44 25/07/2024
+- 🦒 [Lãnh đạo Đảng, Nhà nước viếng Tổng Bí thư Nguyễn Phú Trọng](https://vnexpress.net/lanh-dao-dang-nha-nuoc-vieng-tong-bi-thu-nguyen-phu-trong-4773918.html) - 03:44 25/07/2024
 - 🤓 [Lũ ống ở Điện Biên, 2 người chết](https://vnexpress.net/lu-ong-o-dien-bien-2-nguoi-chet-4773915.html) - 03:39 25/07/2024
-- ⚗️ [Xe container tông sập nhà ven đường, 3 người tử vong](https://vnexpress.net/xe-container-tong-sap-nha-ven-duong-3-nguoi-tu-vong-4773967.html) - 03:23 25/07/2024
-- 🌊 [Lễ thượng cờ rủ Quốc tang Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/le-thuong-co-ru-quoc-tang-tong-bi-thu-nguyen-phu-trong-4773871.html) - 00:51 25/07/2024
-- 🎓 [Người dân xếp hàng vào viếng Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/truc-tiep-quoc-tang-tong-bi-thu-nguyen-phu-trong-4773831.html) - 23:14 24/07/2024
-- 🔥 [Tổng bí thư Nguyễn Phú Trọng và khát vọng phát triển kinh tế](https://vnexpress.net/tong-bi-thu-nguyen-phu-trong-va-khat-vong-phat-trien-kinh-te-4773781.html) - 22:00 24/07/2024
+- ⚗️ [Xe container lao vào loạt nhà dân ven đường, 3 người tử vong](https://vnexpress.net/xe-container-tong-sap-nha-ven-duong-3-nguoi-tu-vong-4773967.html) - 03:23 25/07/2024
+- 🌊 [Lễ thượng cờ rủ Quốc tang Tổng Bí thư Nguyễn Phú Trọng](https://vnexpress.net/le-thuong-co-ru-quoc-tang-tong-bi-thu-nguyen-phu-trong-4773871.html) - 00:51 25/07/2024
+- 🎓 [Người dân xếp hàng vào viếng Tổng Bí thư Nguyễn Phú Trọng](https://vnexpress.net/truc-tiep-quoc-tang-tong-bi-thu-nguyen-phu-trong-4773831.html) - 23:14 24/07/2024
+- 🔥 [Tổng Bí thư Nguyễn Phú Trọng và khát vọng phát triển kinh tế](https://vnexpress.net/tong-bi-thu-nguyen-phu-trong-va-khat-vong-phat-trien-kinh-te-4773781.html) - 22:00 24/07/2024
 - 🦏 [Dỡ nhà giao đất xây nút giao lớn nhất Vành đai 3 TP HCM](https://vnexpress.net/do-nha-giao-dat-xay-nut-giao-lon-nhat-vanh-dai-3-tp-hcm-4773668.html) - 22:00 24/07/2024
 - 👺 [Lấy đất sân bay Long Thành làm cao tốc Biên Hòa - Vũng Tàu](https://vnexpress.net/lay-dat-san-bay-long-thanh-lam-cao-toc-bien-hoa-vung-tau-4773827.html) - 17:00 24/07/2024
 - 🧑‍🏫 [Thứ trưởng Kế hoạch và Đầu tư làm Phó bí thư Tỉnh ủy Vĩnh Phúc](https://vnexpress.net/thu-truong-ke-hoach-va-dau-tu-lam-pho-bi-thu-tinh-uy-vinh-phuc-4773834.html) - 16:43 24/07/2024
-- 🚦 [Ngoại trưởng các nước ASEAN mặc niệm Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/ngoai-truong-cac-nuoc-asean-mac-niem-tong-bi-thu-nguyen-phu-trong-4773820.html) - 14:39 24/07/2024
-- 🎉 [Thông tin về lễ viếng Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/thong-tin-ve-le-vieng-tong-bi-thu-nguyen-phu-trong-4773819.html) - 14:19 24/07/2024
+- 🚦 [Ngoại trưởng các nước ASEAN mặc niệm Tổng Bí thư Nguyễn Phú Trọng](https://vnexpress.net/ngoai-truong-cac-nuoc-asean-mac-niem-tong-bi-thu-nguyen-phu-trong-4773820.html) - 14:39 24/07/2024
+- 🎉 [Thông tin về lễ viếng Tổng Bí thư Nguyễn Phú Trọng](https://vnexpress.net/thong-tin-ve-le-vieng-tong-bi-thu-nguyen-phu-trong-4773819.html) - 14:19 24/07/2024
 - 🦒 [Tỉnh ủy Lâm Đồng đưa vụ tòa nhà đồi Cù Đà Lạt vào diện theo dõi](https://vnexpress.net/tinh-uy-lam-dong-dua-vu-toa-nha-doi-cu-da-lat-vao-dien-theo-doi-4773817.html) - 13:05 24/07/2024
 - 🤗 [Hàng trăm ngôi mộ xây trái phép giữa TP Biên Hoà](https://vnexpress.net/hang-tram-ngoi-mo-xay-trai-phep-giua-tp-bien-hoa-4773785.html) - 12:37 24/07/2024
 - 💼 [Thủy điện Hòa Bình mở cửa xả thứ 4](https://vnexpress.net/thuy-dien-hoa-binh-mo-cua-xa-thu-4-4773718.html) - 08:34 24/07/2024
-- 🤩 [Lãnh đạo cấp cao ASEAN ra Tuyên bố chung chia buồn Tổng bí thư Nguyễn Phú Trọng từ trần](https://vnexpress.net/lanh-dao-cap-cao-asean-ra-tuyen-bo-chung-chia-buon-tong-bi-thu-nguyen-phu-trong-tu-tran-4773692.html) - 08:01 24/07/2024
+- 🤩 [Lãnh đạo cấp cao ASEAN ra Tuyên bố chung chia buồn Tổng Bí thư Nguyễn Phú Trọng từ trần](https://vnexpress.net/lanh-dao-cap-cao-asean-ra-tuyen-bo-chung-chia-buon-tong-bi-thu-nguyen-phu-trong-tu-tran-4773692.html) - 08:01 24/07/2024
 - 🤡 [Sập biệt thự ở Hà Nội, 8 người thoát nạn](https://vnexpress.net/sap-biet-thu-o-ha-noi-8-nguoi-thoat-nan-4773706.html) - 07:58 24/07/2024
 - 💯 [Đề xuất đầu tư 4 nút giao lớn ở TP HCM](https://vnexpress.net/de-xuat-dau-tu-4-nut-giao-lon-o-tp-hcm-4773684.html) - 07:11 24/07/2024
 - 👺 [Các tuyến đường cấm phương tiện để phục vụ Quốc tang](https://vnexpress.net/cac-tuyen-duong-cam-phuong-tien-de-phuc-vu-quoc-tang-4773665.html) - 05:57 24/07/2024
@@ -36,7 +36,7 @@ sidebar_position: 1
 - 💃 [Tháo dỡ 26 biệt thự ở Măng Đen do &#39;xây sai địa điểm&#39;](https://vnexpress.net/thao-do-26-biet-thu-o-mang-den-do-xay-sai-dia-diem-4773384.html) - 17:00 23/07/2024
 - 🧰 [Dỡ nhà, bàn giao mặt bằng làm cao tốc Bùng - Vạn Ninh](https://vnexpress.net/do-nha-ban-giao-mat-bang-lam-cao-toc-bung-van-ninh-4772523.html) - 17:00 23/07/2024
 - 🚀 [Phân luồng giao thông Quốc tang Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/phan-luong-giao-thong-quoc-tang-tong-bi-thu-nguyen-phu-trong-4773456.html) - 16:08 23/07/2024
-- 🎊 [Người dân lên chùa tưởng nhớ Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/nguoi-dan-len-chua-tuong-nho-tong-bi-thu-nguyen-phu-trong-4773059.html) - 13:25 23/07/2024
+- 🎊 [Người dân lên chùa tưởng nhớ Tổng Bí thư Nguyễn Phú Trọng](https://vnexpress.net/nguoi-dan-len-chua-tuong-nho-tong-bi-thu-nguyen-phu-trong-4773059.html) - 13:25 23/07/2024
 - 🤭 [Đường gom đại lộ Thăng Long ngập đến bụng](https://vnexpress.net/duong-gom-dai-lo-thang-long-ngap-den-bung-4773441.html) - 13:19 23/07/2024
 - 🤗 [Ra mắt ngân hàng gen liệt sĩ chưa xác định thông tin](https://vnexpress.net/ra-mat-ngan-hang-gen-liet-si-chua-xac-dinh-thong-tin-4773352.html) - 11:49 23/07/2024
 - 🌈 [Thủy điện Hòa Bình mở cửa xả đáy thứ ba](https://vnexpress.net/thuy-dien-hoa-binh-mo-cua-xa-day-thu-ba-4773424.html) - 11:04 23/07/2024
