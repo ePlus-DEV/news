@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Doanh nghiệp xuất khẩu lao động &#39;chui&#39; bị phạt 360 triệu đồng](https://vnexpress.net/doanh-nghiep-xuat-khau-lao-dong-chui-bi-phat-360-trieu-dong-4774224.html) - 15:56 25/07/2024
-- 🤓 [Miền Bắc sắp bước vào đợt mưa lớn](https://vnexpress.net/mien-bac-sap-buoc-vao-dot-mua-lon-4774213.html) - 14:03 25/07/2024
+- 🤓 [Miền Bắc sắp mưa lớn](https://vnexpress.net/mien-bac-sap-mua-lon-4774213.html) - 14:03 25/07/2024
 - ⚗️ [Bạn bè quốc tế viếng Tổng Bí thư Nguyễn Phú Trọng](https://vnexpress.net/ban-be-quoc-te-vieng-tong-bi-thu-nguyen-phu-trong-4774037.html) - 13:30 25/07/2024
 - 🌊 [Cháy công ty sản xuất bật lửa, nhiều người bị bỏng](https://vnexpress.net/chay-cong-ty-san-xuat-bat-lua-nhieu-nguoi-bi-bong-4774219.html) - 13:19 25/07/2024
 - 🎓 [Xe container tông chết 3 người khi vượt ôtô khác, tốc độ 84 km/h](https://vnexpress.net/xe-container-tong-chet-3-nguoi-khi-vuot-oto-khac-toc-do-84-km-h-4774221.html) - 12:44 25/07/2024
