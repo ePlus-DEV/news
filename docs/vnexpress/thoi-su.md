@@ -36,7 +36,7 @@ sidebar_position: 1
 - 💃 [Tháo dỡ 26 biệt thự ở Măng Đen do &#39;xây sai địa điểm&#39;](https://vnexpress.net/thao-do-26-biet-thu-o-mang-den-do-xay-sai-dia-diem-4773384.html) - 17:00 23/07/2024
 - 🧰 [Dỡ nhà, bàn giao mặt bằng làm cao tốc Bùng - Vạn Ninh](https://vnexpress.net/do-nha-ban-giao-mat-bang-lam-cao-toc-bung-van-ninh-4772523.html) - 17:00 23/07/2024
 - 🚀 [Phân luồng giao thông Quốc tang Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/phan-luong-giao-thong-quoc-tang-tong-bi-thu-nguyen-phu-trong-4773456.html) - 16:08 23/07/2024
-- 🎊 [Người dân lên chùa tưởng nhớ Tổng Bí thư Nguyễn Phú Trọng](https://vnexpress.net/nguoi-dan-len-chua-tuong-nho-tong-bi-thu-nguyen-phu-trong-4773059.html) - 13:25 23/07/2024
+- 🎊 [Người dân lên chùa tưởng nhớ Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/nguoi-dan-len-chua-tuong-nho-tong-bi-thu-nguyen-phu-trong-4773059.html) - 13:25 23/07/2024
 - 🤭 [Đường gom đại lộ Thăng Long ngập đến bụng](https://vnexpress.net/duong-gom-dai-lo-thang-long-ngap-den-bung-4773441.html) - 13:19 23/07/2024
 - 🤗 [Ra mắt ngân hàng gen liệt sĩ chưa xác định thông tin](https://vnexpress.net/ra-mat-ngan-hang-gen-liet-si-chua-xac-dinh-thong-tin-4773352.html) - 11:49 23/07/2024
 - 🌈 [Thủy điện Hòa Bình mở cửa xả đáy thứ ba](https://vnexpress.net/thuy-dien-hoa-binh-mo-cua-xa-day-thu-ba-4773424.html) - 11:04 23/07/2024
