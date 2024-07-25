@@ -36,7 +36,7 @@ sidebar_position: 1
 - 💃 [Tháo dỡ 26 biệt thự ở Măng Đen do &#39;xây sai địa điểm&#39;](https://vnexpress.net/thao-do-26-biet-thu-o-mang-den-do-xay-sai-dia-diem-4773384.html) - 17:00 23/07/2024
 - 🧰 [Dỡ nhà, bàn giao mặt bằng làm cao tốc Bùng - Vạn Ninh](https://vnexpress.net/do-nha-ban-giao-mat-bang-lam-cao-toc-bung-van-ninh-4772523.html) - 17:00 23/07/2024
 - 🚀 [Phân luồng giao thông Quốc tang Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/phan-luong-giao-thong-quoc-tang-tong-bi-thu-nguyen-phu-trong-4773456.html) - 16:08 23/07/2024
-- 🎊 [Người dân lên chùa tưởng nhớ Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/nguoi-dan-len-chua-tuong-nho-tong-bi-thu-nguyen-phu-trong-4773059.html) - 13:25 23/07/2024
+- 🎊 [Người dân lên chùa tưởng nhớ Tổng Bí thư Nguyễn Phú Trọng](https://vnexpress.net/nguoi-dan-len-chua-tuong-nho-tong-bi-thu-nguyen-phu-trong-4773059.html) - 13:25 23/07/2024
 - 🤭 [Đường gom đại lộ Thăng Long ngập đến bụng](https://vnexpress.net/duong-gom-dai-lo-thang-long-ngap-den-bung-4773441.html) - 13:19 23/07/2024
 - 🤗 [Ra mắt ngân hàng gen liệt sĩ chưa xác định thông tin](https://vnexpress.net/ra-mat-ngan-hang-gen-liet-si-chua-xac-dinh-thong-tin-4773352.html) - 11:49 23/07/2024
 - 🌈 [Thủy điện Hòa Bình mở cửa xả đáy thứ ba](https://vnexpress.net/thuy-dien-hoa-binh-mo-cua-xa-day-thu-ba-4773424.html) - 11:04 23/07/2024
@@ -48,7 +48,7 @@ sidebar_position: 1
 - 🤔 [Bão giật đổ nhiều cây xanh, mái hiên](https://vnexpress.net/bao-giat-do-nhieu-cay-xanh-mai-hien-4773265.html) - 06:50 23/07/2024
 - 🤠 [TP Nam Định được mở rộng gấp 2,6 lần](https://vnexpress.net/tp-nam-dinh-duoc-mo-rong-gap-2-6-lan-4773221.html) - 06:38 23/07/2024
 - 🌜 [Luân phiên cấm xe qua ngã tư Thủ Đức để xây cầu nối metro](https://vnexpress.net/luan-phien-cam-xe-qua-nga-tu-thu-duc-de-xay-cau-noi-metro-4773291.html) - 06:31 23/07/2024
-- 🕯 [Những ngày cuối đời của Tổng bí thư Nguyễn Phú Trọng ở Bệnh viện 108](https://vnexpress.net/nhung-ngay-cuoi-doi-cua-tong-bi-thu-nguyen-phu-trong-o-benh-vien-108-4773128.html) - 04:42 23/07/2024
+- 🕯 [Những ngày cuối đời của Tổng Bí thư Nguyễn Phú Trọng ở Bệnh viện 108](https://vnexpress.net/nhung-ngay-cuoi-doi-cua-tong-bi-thu-nguyen-phu-trong-o-benh-vien-108-4773128.html) - 04:42 23/07/2024
 - 🤔 [Xe máy đâm vào gốc cây, ba cô gái tử vong](https://vnexpress.net/xe-may-dam-vao-goc-cay-ba-co-gai-tu-vong-4773187.html) - 03:35 23/07/2024
 - 🏊 [Di sản 6 thập kỷ của Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/di-san-6-thap-ky-cua-tong-bi-thu-nguyen-phu-trong-4773031.html) - 01:39 23/07/2024
 - 🌮 [Nhiều nơi treo cờ rủ trước Quốc tang Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/nhieu-noi-treo-co-ru-truoc-quoc-tang-tong-bi-thu-nguyen-phu-trong-4772981.html) - 23:00 22/07/2024
