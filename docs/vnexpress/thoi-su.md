@@ -19,7 +19,7 @@ sidebar_position: 1
 - 🤗 [Lũ ống ở Điện Biên, 2 người chết](https://vnexpress.net/lu-ong-o-dien-bien-2-nguoi-chet-4773915.html) - 03:39 25/07/2024
 - 💼 [Xe container lao vào loạt nhà dân ven đường, 3 người tử vong](https://vnexpress.net/xe-container-tong-sap-nha-ven-duong-3-nguoi-tu-vong-4773967.html) - 03:23 25/07/2024
 - 🤩 [Lễ thượng cờ rủ Quốc tang Tổng Bí thư Nguyễn Phú Trọng](https://vnexpress.net/le-thuong-co-ru-quoc-tang-tong-bi-thu-nguyen-phu-trong-4773871.html) - 00:51 25/07/2024
-- 🤡 [Lễ viếng Tổng Bí thư Nguyễn Phú Trọng](https://vnexpress.net/truc-tiep-quoc-tang-tong-bi-thu-nguyen-phu-trong-4773831-tong-thuat.html) - 23:14 24/07/2024
+- 🤡 [Ngày đầu lễ viếng Tổng Bí thư Nguyễn Phú Trọng](https://vnexpress.net/truc-tiep-quoc-tang-tong-bi-thu-nguyen-phu-trong-4773831-tong-thuat.html) - 23:14 24/07/2024
 - 💯 [Tổng Bí thư Nguyễn Phú Trọng và khát vọng phát triển kinh tế](https://vnexpress.net/tong-bi-thu-nguyen-phu-trong-va-khat-vong-phat-trien-kinh-te-4773781.html) - 22:00 24/07/2024
 - 👺 [Dỡ nhà giao đất xây nút giao lớn nhất Vành đai 3 TP HCM](https://vnexpress.net/do-nha-giao-dat-xay-nut-giao-lon-nhat-vanh-dai-3-tp-hcm-4773668.html) - 22:00 24/07/2024
 - 🌮 [Lấy đất sân bay Long Thành làm cao tốc Biên Hòa - Vũng Tàu](https://vnexpress.net/lay-dat-san-bay-long-thanh-lam-cao-toc-bien-hoa-vung-tau-4773827.html) - 17:00 24/07/2024
