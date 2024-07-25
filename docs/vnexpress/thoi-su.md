@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Lễ thượng cờ rủ Quốc tang Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/le-thuong-co-ru-quoc-tang-tong-bi-thu-nguyen-phu-trong-4773871.html) - 00:51 25/07/2024
-- 🤓 [Lãnh đạo Đảng, Nhà nước viếng Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/truc-tiep-quoc-tang-tong-bi-thu-nguyen-phu-trong-4773831.html) - 23:14 24/07/2024
+- 🤓 [Lãnh đạo Đảng, Nhà nước ghi sổ tang Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/truc-tiep-quoc-tang-tong-bi-thu-nguyen-phu-trong-4773831.html) - 23:14 24/07/2024
 - ⚗️ [Tổng bí thư Nguyễn Phú Trọng và khát vọng phát triển kinh tế](https://vnexpress.net/tong-bi-thu-nguyen-phu-trong-va-khat-vong-phat-trien-kinh-te-4773781.html) - 22:00 24/07/2024
 - 🌊 [Dỡ nhà giao đất xây nút giao lớn nhất Vành đai 3 TP HCM](https://vnexpress.net/do-nha-giao-dat-xay-nut-giao-lon-nhat-vanh-dai-3-tp-hcm-4773668.html) - 22:00 24/07/2024
 - 🎓 [Lấy đất sân bay Long Thành làm cao tốc Biên Hòa - Vũng Tàu](https://vnexpress.net/lay-dat-san-bay-long-thanh-lam-cao-toc-bien-hoa-vung-tau-4773827.html) - 17:00 24/07/2024
