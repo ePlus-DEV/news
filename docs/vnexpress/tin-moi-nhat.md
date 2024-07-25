@@ -42,7 +42,7 @@ sidebar_position: 9
 - 🦩 [Thanh khoản chứng khoán thấp nhất nửa năm](https://vnexpress.net/thanh-khoan-chung-khoan-thap-nhat-nua-nam-4774134.html) - 08:47 25/07/2024
 - 👺 [Ứng dụng trí tuệ nhân tạo giám sát trị liệu bệnh nhân cơ xương khớp](https://vnexpress.net/ung-dung-tri-tue-nhan-tao-giam-sat-tri-lieu-benh-nhan-co-xuong-khop-4762868.html) - 08:44 25/07/2024
 - 🧑‍🏫 [Paris bị khách nhà giàu quay lưng dịp Olympic](https://vnexpress.net/paris-bi-khach-nha-giau-quay-lung-dip-olympic-4773938.html) - 08:43 25/07/2024
-- 😎 [Người dân sắp được vào nhà tang lễ viếng Tổng Bí thư Nguyễn Phú Trọng](https://vnexpress.net/truc-tiep-le-vieng-tong-bi-thu-nguyen-phu-trong-4774121.html) - 08:35 25/07/2024
+- 😎 [Chủ tịch Hội đồng Giám mục Việt Nam viếng Tổng Bí thư Nguyễn Phú Trọng](https://vnexpress.net/truc-tiep-le-vieng-tong-bi-thu-nguyen-phu-trong-4774121.html) - 08:35 25/07/2024
 - 🪄 [Honda Scoopy Hello Kitty giá 1.600 USD](https://vnexpress.net/honda-scoopy-hello-kitty-gia-1-600-usd-4774011.html) - 08:31 25/07/2024
 - 🏊 [Chăm sóc da mặt toàn diện với bộ sản phẩm RVB Lab](https://vnexpress.net/cham-soc-da-mat-toan-dien-voi-bo-san-pham-rvb-lab-4773640.html) - 08:30 25/07/2024
 - 💃 [Chủ đầu tư 488 căn biệt thự xây trái phép bị mở thủ tục phá sản](https://vnexpress.net/chu-dau-tu-488-can-biet-thu-xay-trai-phep-bi-mo-thu-tuc-pha-san-4774094.html) - 08:27 25/07/2024
