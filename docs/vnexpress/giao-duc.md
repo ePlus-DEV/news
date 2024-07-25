@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Điểm chuẩn Đại học Sư phạm TP HCM có thể lên đến 29](https://vnexpress.net/du-bao-diem-chuan-dai-hoc-su-pham-tp-hcm-2024-4773728.html) - 02:43 25/07/2024
-- 🦆 [Cháy trường mầm non, 71 trẻ được sơ tán](https://vnexpress.net/chay-truong-mam-non-71-tre-duoc-so-tan-4773845.html) - 02:35 25/07/2024
+- 🦆 [Cháy trường mầm non, 71 trẻ sơ tán](https://vnexpress.net/chay-truong-mam-non-71-tre-so-tan-4773845.html) - 02:35 25/07/2024
 - 🦩 [Điểm chuẩn xét kết hợp IELTS của ĐH Khoa học Xã hội và Nhân văn](https://vnexpress.net/diem-chuan-xet-ket-hop-ielts-cua-dh-khoa-hoc-xa-hoi-va-nhan-van-4773803.html) - 02:20 25/07/2024
 - 🌮 [Loạt đại học dự báo tăng điểm chuẩn ngành &#39;hot&#39;](https://vnexpress.net/loat-dai-hoc-du-bao-tang-diem-chuan-nganh-hot-4772770.html) - 00:27 25/07/2024
 - 🔭 [Cầu dây văng đầu tiên do Việt Nam thiết kế và thi công ở đâu?](https://vnexpress.net/cau-day-vang-dau-tien-do-viet-nam-thiet-ke-va-thi-cong-o-dau-4770407.html) - 13:00 24/07/2024
