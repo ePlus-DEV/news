@@ -51,7 +51,7 @@ sidebar_position: 1
 - 🕯 [Luân phiên cấm xe qua ngã tư Thủ Đức để xây cầu nối metro](https://vnexpress.net/luan-phien-cam-xe-qua-nga-tu-thu-duc-de-xay-cau-noi-metro-4773291.html) - 06:31 23/07/2024
 - 🤔 [Những ngày cuối đời của Tổng Bí thư Nguyễn Phú Trọng ở Bệnh viện 108](https://vnexpress.net/nhung-ngay-cuoi-doi-cua-tong-bi-thu-nguyen-phu-trong-o-benh-vien-108-4773128.html) - 04:42 23/07/2024
 - 🏊 [Xe máy đâm vào gốc cây, ba cô gái tử vong](https://vnexpress.net/xe-may-dam-vao-goc-cay-ba-co-gai-tu-vong-4773187.html) - 03:35 23/07/2024
-- 🌮 [Di sản 6 thập kỷ của Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/di-san-6-thap-ky-cua-tong-bi-thu-nguyen-phu-trong-4773031.html) - 01:39 23/07/2024
+- 🌮 [Di sản 6 thập kỷ của Tổng Bí thư Nguyễn Phú Trọng](https://vnexpress.net/di-san-6-thap-ky-cua-tong-bi-thu-nguyen-phu-trong-4773031.html) - 01:39 23/07/2024
 - 🫣 [Nhiều nơi treo cờ rủ trước Quốc tang Tổng bí thư Nguyễn Phú Trọng](https://vnexpress.net/nhieu-noi-treo-co-ru-truoc-quoc-tang-tong-bi-thu-nguyen-phu-trong-4772981.html) - 23:00 22/07/2024
 - ⚗️ [Bão đổ bộ Quảng Ninh, gây mưa diện rộng](https://vnexpress.net/truc-tiep-dien-bien-bao-prapiroon-4773080-tong-thuat.html) - 22:25 22/07/2024
 - 🌜 [Kiến nghị tăng mức hỗ trợ cho nhà dân sống trên kênh, rạch](https://vnexpress.net/kien-nghi-tang-muc-ho-tro-cho-nha-dan-song-tren-kenh-rach-4773069.html) - 17:00 22/07/2024
