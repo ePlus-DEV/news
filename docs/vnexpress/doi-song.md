@@ -5,7 +5,7 @@ sidebar_position: 6
 
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Hành trình tìm về cội nguồn của chàng Việt kiều Mỹ](https://vnexpress.net/hanh-trinh-tim-ve-coi-nguon-cua-chang-viet-kieu-my-4773799.html) - 23:00 24/07/2024
-- 🎓 [Vì sao cà bung miền Bắc lại cho mẻ, mắm tôm?](https://vnexpress.net/vi-sao-ca-bung-mien-bac-lai-cho-me-mam-tom-4773766.html) - 10:17 24/07/2024
+- 🎓 [Vì sao cà bung miền Bắc lại cho mẻ, mắm tôm?](https://vnexpress.net/doi-song-cooking-ca-bung-mien-bac-4773766.html) - 10:17 24/07/2024
 - 🚦 [Những điều ít biết về giấy vệ sinh](https://vnexpress.net/nhung-dieu-it-biet-ve-giay-ve-sinh-4772042.html) - 08:31 24/07/2024
 - 🦣 [21 năm kham khổ để về hưu sớm](https://vnexpress.net/21-nam-kham-kho-de-ve-huu-som-4773635.html) - 07:18 24/07/2024
 - 🎓 [Cô giáo Hà Nội vác đất leo 6 tầng làm vườn sân thượng](https://vnexpress.net/co-giao-ha-noi-vac-dat-leo-6-tang-lam-vuon-san-thuong-4770333.html) - 04:19 24/07/2024
@@ -18,7 +18,7 @@ sidebar_position: 6
 - 🐘 [Sập bẫy công ty hẹn hò giả mạo](https://vnexpress.net/sap-bay-cong-ty-hen-ho-gia-mao-4771236.html) - 23:00 22/07/2024
 - 👹 [Người Hà Nội khoe ảnh cầu vồng đôi](https://vnexpress.net/nguoi-ha-noi-khoe-anh-cau-vong-doi-4773092.html) - 18:27 22/07/2024
 - 💂 [Cô giáo 13 năm gieo chữ ở vùng biên giới](https://vnexpress.net/co-giao-13-nam-gieo-chu-o-vung-bien-gioi-4772002.html) - 17:06 22/07/2024
-- 🦍 [Cá rô rán giòn rưới cà chua chưng](https://vnexpress.net/ca-ro-ran-gion-ruoi-ca-chua-chung-4772970.html) - 11:00 22/07/2024
+- 🦍 [Cá rô rán giòn rưới cà chua chưng](https://vnexpress.net/doi-song-cooking-ca-ro-ran-gion-ruoi-ca-chua-chung-4772970.html) - 11:00 22/07/2024
 - 🧑‍🏫 [Phụ nữ Indonesia học võ chống bạo hành](https://vnexpress.net/phu-nu-indonesia-hoc-vo-chong-bao-hanh-4772612.html) - 09:56 22/07/2024
 - 🧰 [Người già Singapore chống chọi cái chết cô độc](https://vnexpress.net/nguoi-gia-singapore-chong-choi-cai-chet-co-doc-4772862.html) - 09:12 22/07/2024
 - 🪄 [16 lần cố thi vào đại học mơ ước](https://vnexpress.net/16-lan-co-thi-vao-dai-hoc-mo-uoc-4772813.html) - 04:43 22/07/2024
