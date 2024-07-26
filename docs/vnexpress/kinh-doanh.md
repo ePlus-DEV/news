@@ -4,18 +4,18 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Hai quỹ ngoại nắm trên 1% vốn HDBank](https://vnexpress.net/hai-quy-ngoai-nam-tren-1-von-hdbank-4774376.html) - 04:51 26/07/2024
-- 🐲 [Kinh tế Mỹ tăng trưởng vượt dự báo](https://vnexpress.net/kinh-te-my-tang-truong-vuot-du-bao-4774290.html) - 01:39 26/07/2024
-- 🔥 [&#39;Cuối 2025 mới có dự án mua bán điện trực tiếp, không qua EVN&#39;](https://vnexpress.net/cuoi-2025-moi-co-du-an-mua-ban-dien-truc-tiep-khong-qua-evn-4771493.html) - 22:00 25/07/2024
-- 🐵 [Áp lực thuế và lạm phát khi Trump tái đắc cử](https://vnexpress.net/ap-luc-thue-va-lam-phat-khi-trump-tai-dac-cu-4774143.html) - 17:00 25/07/2024
-- 🦅 [Nhóm doanh nghiệp bất động sản nắm trên 20% vốn MSB](https://vnexpress.net/nhom-doanh-nghiep-bat-dong-san-nam-tren-20-von-msb-4774152.html) - 12:36 25/07/2024
-- 😺 [Hãng bán lẻ 134 tuổi của Mỹ nộp đơn xin phá sản](https://vnexpress.net/hang-ban-le-134-tuoi-cua-my-nop-don-xin-pha-san-4774015.html) - 10:29 25/07/2024
-- 🤩 [LPBank chỉ có hai cổ đông nắm trên 1% cổ phần nhà băng](https://vnexpress.net/lpbank-chi-co-hai-co-dong-nam-tren-1-co-phan-nha-bang-4774133.html) - 09:40 25/07/2024
-- 🌮 [Người Việt chi 800 tỷ đồng mỗi ngày để mua hàng online](https://vnexpress.net/nguoi-viet-chi-800-ty-dong-moi-ngay-de-mua-hang-online-4774059.html) - 09:31 25/07/2024
-- 🧰 [TP HCM thu giữ nhiều vàng, trang sức trị giá hơn 14 tỷ đồng](https://vnexpress.net/tp-hcm-thu-giu-nhieu-vang-trang-suc-tri-gia-hon-14-ty-dong-4774115.html) - 09:06 25/07/2024
-- 🤔 [Thanh khoản chứng khoán thấp nhất nửa năm](https://vnexpress.net/thanh-khoan-chung-khoan-thap-nhat-nua-nam-4774134.html) - 08:47 25/07/2024
-- 🧑‍💻 [Giá xăng về dưới 23.000 đồng một lít](https://vnexpress.net/gia-xang-moi-nhat-hom-nay-25-7-4774067.html) - 07:35 25/07/2024
-- 🕴 [Vietjet hợp tác ông lớn bảo dưỡng hàng không Đức](https://vnexpress.net/vietjet-hop-tac-ong-lon-bao-duong-hang-khong-duc-4773992.html) - 06:00 25/07/2024
+- ⛽️ [Vietjet hợp tác ông lớn bảo dưỡng hàng không Đức](https://vnexpress.net/vietjet-hop-tac-ong-lon-bao-duong-hang-khong-duc-4773992.html) - 06:00 26/07/2024
+- 🐲 [Hai quỹ ngoại nắm trên 1% vốn HDBank](https://vnexpress.net/hai-quy-ngoai-nam-tren-1-von-hdbank-4774376.html) - 04:51 26/07/2024
+- 🔥 [Kinh tế Mỹ tăng trưởng vượt dự báo](https://vnexpress.net/kinh-te-my-tang-truong-vuot-du-bao-4774290.html) - 01:39 26/07/2024
+- 🐵 [&#39;Cuối 2025 mới có dự án mua bán điện trực tiếp, không qua EVN&#39;](https://vnexpress.net/cuoi-2025-moi-co-du-an-mua-ban-dien-truc-tiep-khong-qua-evn-4771493.html) - 22:00 25/07/2024
+- 🦅 [Áp lực thuế và lạm phát khi Trump tái đắc cử](https://vnexpress.net/ap-luc-thue-va-lam-phat-khi-trump-tai-dac-cu-4774143.html) - 17:00 25/07/2024
+- 😺 [Nhóm doanh nghiệp bất động sản nắm trên 20% vốn MSB](https://vnexpress.net/nhom-doanh-nghiep-bat-dong-san-nam-tren-20-von-msb-4774152.html) - 12:36 25/07/2024
+- 🤩 [Hãng bán lẻ 134 tuổi của Mỹ nộp đơn xin phá sản](https://vnexpress.net/hang-ban-le-134-tuoi-cua-my-nop-don-xin-pha-san-4774015.html) - 10:29 25/07/2024
+- 🌮 [LPBank chỉ có hai cổ đông nắm trên 1% cổ phần nhà băng](https://vnexpress.net/lpbank-chi-co-hai-co-dong-nam-tren-1-co-phan-nha-bang-4774133.html) - 09:40 25/07/2024
+- 🧰 [Người Việt chi 800 tỷ đồng mỗi ngày để mua hàng online](https://vnexpress.net/nguoi-viet-chi-800-ty-dong-moi-ngay-de-mua-hang-online-4774059.html) - 09:31 25/07/2024
+- 🤔 [TP HCM thu giữ nhiều vàng, trang sức trị giá hơn 14 tỷ đồng](https://vnexpress.net/tp-hcm-thu-giu-nhieu-vang-trang-suc-tri-gia-hon-14-ty-dong-4774115.html) - 09:06 25/07/2024
+- 🧑‍💻 [Thanh khoản chứng khoán thấp nhất nửa năm](https://vnexpress.net/thanh-khoan-chung-khoan-thap-nhat-nua-nam-4774134.html) - 08:47 25/07/2024
+- 🕴 [Giá xăng về dưới 23.000 đồng một lít](https://vnexpress.net/gia-xang-moi-nhat-hom-nay-25-7-4774067.html) - 07:35 25/07/2024
 - 🦩 [Chủ quản công viên Đầm Sen báo lãi giảm mạnh](https://vnexpress.net/chu-quan-cong-vien-dam-sen-bao-lai-giam-manh-4773974.html) - 05:56 25/07/2024
 - 👍 [Các công ty chứng khoán cho vay margin kỷ lục](https://vnexpress.net/cac-cong-ty-chung-khoan-cho-vay-margin-ky-luc-4773930.html) - 04:30 25/07/2024
 - 🏊 [Giá vàng thế giới giảm mạnh](https://vnexpress.net/gia-vang-the-gioi-giam-manh-4773993.html) - 03:52 25/07/2024
