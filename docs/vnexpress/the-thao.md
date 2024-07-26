@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Lễ khai mạc Olympic 2024](https://vnexpress.net/truc-tiep-le-khai-mac-olympic-paris-2024-4774506.html) - 17:01 26/07/2024
+- 🪜 [Lễ khai mạc Olympic 2024: Trời mưa to](https://vnexpress.net/truc-tiep-le-khai-mac-olympic-paris-2024-4774506.html) - 17:01 26/07/2024
 - 🦩 [Những ngôi sao có thể lần cuối dự Olympic tại Paris 2024](https://vnexpress.net/nhung-ngoi-sao-co-the-lan-cuoi-du-olympic-tai-paris-2024-4774568.html) - 12:35 26/07/2024
 - 🧰 [Djokovic mong Nadal không bỏ đánh đơn Olympic](https://vnexpress.net/djokovic-mong-nadal-khong-bo-danh-don-olympic-4774452.html) - 10:00 26/07/2024
 - 🤗 [Màn cầu hôn &#39;gây sốt&#39; tại làng VĐV Olympic Paris 2024](https://vnexpress.net/man-cau-hon-gay-sot-tai-lang-vdv-olympic-paris-2024-4774487.html) - 09:35 26/07/2024
