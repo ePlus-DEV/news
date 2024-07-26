@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Phan Thiết sắp có phố ẩm thực đêm](https://vnexpress.net/phan-thiet-sap-co-pho-am-thuc-dem-4774324.html) - 02:33 26/07/2024
 - ⚗️ [21 xe điện du lịch ở Hội An bị thiêu rụi](https://vnexpress.net/21-xe-dien-du-lich-o-hoi-an-bi-thieu-rui-4774280.html) - 00:32 26/07/2024
 - 🌊 [Cháy lớn công ty gỗ trong đêm](https://vnexpress.net/chay-lon-cong-ty-go-trong-dem-4774267.html) - 00:03 26/07/2024
-- 🎓 [Linh xa tiến vào Nhà tang lễ Quốc gia](https://vnexpress.net/linh-xa-tien-vao-nha-tang-le-quoc-gia-4774273.html) - 00:00 26/07/2024
+- 🎓 [Ông Dương Trung Quốc: &#39;Lòng dân là thước đo chuẩn mực nhất&#39;](https://vnexpress.net/ong-duong-trung-quoc-long-dan-la-thuoc-do-chuan-muc-nhat-4774273.html) - 00:00 26/07/2024
 - 🔥 [Doanh nghiệp xuất khẩu lao động &#39;chui&#39; bị phạt 360 triệu đồng](https://vnexpress.net/doanh-nghiep-xuat-khau-lao-dong-chui-bi-phat-360-trieu-dong-4774224.html) - 15:56 25/07/2024
 - 🦏 [Miền Bắc sắp mưa lớn](https://vnexpress.net/mien-bac-sap-mua-lon-4774213.html) - 14:03 25/07/2024
 - 👺 [Bạn bè quốc tế viếng Tổng Bí thư Nguyễn Phú Trọng](https://vnexpress.net/ban-be-quoc-te-vieng-tong-bi-thu-nguyen-phu-trong-4774037.html) - 13:30 25/07/2024
