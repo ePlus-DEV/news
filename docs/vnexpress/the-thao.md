@@ -10,7 +10,7 @@ sidebar_position: 5
 - 🤗 [Đội bóng cũ của Zidane phá sản](https://vnexpress.net/doi-bong-cu-cua-zidane-pha-san-4774423.html) - 22:00 26/07/2024
 - 🥳 [Ca doping đầu tiên ở Olympic Paris 2024](https://vnexpress.net/ca-doping-dau-tien-o-olympic-paris-2024-4774586.html) - 17:37 26/07/2024
 - 🦣 [Guardiola ám chỉ khả năng gia hạn với Man City](https://vnexpress.net/guardiola-am-chi-kha-nang-gia-han-voi-man-city-4774587.html) - 17:32 26/07/2024
-- 🌜 [Lễ khai mạc Olympic 2024 gây xúc động với khí cầu lửa](https://vnexpress.net/truc-tiep-le-khai-mac-olympic-paris-2024-4774506-tong-thuat.html) - 17:01 26/07/2024
+- 🌜 [Olympic 2024 khai mạc](https://vnexpress.net/truc-tiep-le-khai-mac-olympic-paris-2024-4774506-tong-thuat.html) - 17:01 26/07/2024
 - 🫶 [Những ngôi sao có thể lần cuối dự Olympic tại Paris 2024](https://vnexpress.net/nhung-ngoi-sao-co-the-lan-cuoi-du-olympic-tai-paris-2024-4774568.html) - 12:35 26/07/2024
 - 🌜 [Djokovic mong Nadal không bỏ đánh đơn Olympic](https://vnexpress.net/djokovic-mong-nadal-khong-bo-danh-don-olympic-4774452.html) - 10:00 26/07/2024
 - 😺 [Màn cầu hôn &#39;gây sốt&#39; tại làng VĐV Olympic Paris 2024](https://vnexpress.net/man-cau-hon-gay-sot-tai-lang-vdv-olympic-paris-2024-4774487.html) - 09:35 26/07/2024
