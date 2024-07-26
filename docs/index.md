@@ -30,7 +30,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧰 [Ca doping đầu tiên ở Olympic Paris 2024](https://vnexpress.net/ca-doping-dau-tien-o-olympic-paris-2024-4774586.html) - 17:37 26/07/2024
 - 🥰 [Guardiola ám chỉ khả năng gia hạn với Man City](https://vnexpress.net/guardiola-am-chi-kha-nang-gia-han-voi-man-city-4774587.html) - 17:32 26/07/2024
 - 🌏 [Bé gái ra đời với 4 chân, 4 tay và hai khuôn mặt](https://vnexpress.net/be-gai-ra-doi-voi-4-chan-4-tay-va-hai-khuon-mat-4773844.html) - 17:04 26/07/2024
-- 🧐 [Lễ khai mạc Olympic 2024: Lady Gaga hát nhạc Pháp](https://vnexpress.net/truc-tiep-le-khai-mac-olympic-paris-2024-4774506.html) - 17:01 26/07/2024
+- 🧐 [Lễ khai mạc Olympic 2024: Minions làm trò](https://vnexpress.net/truc-tiep-le-khai-mac-olympic-paris-2024-4774506.html) - 17:01 26/07/2024
 - 💫 [Tháng sinh tiết lộ gì về con người của bạn?](https://vnexpress.net/thang-sinh-tiet-lo-gi-ve-con-nguoi-cua-ban-4773784.html) - 17:01 26/07/2024
 - 😺 [Tội phạm ghép hình ảnh nhạy cảm tống tiền &#39;người có địa vị&#39;](https://vnexpress.net/toi-pham-ghep-hinh-anh-nhay-cam-tong-tien-nguoi-co-dia-vi-4774570.html) - 17:00 26/07/2024
 - 🕯 [14 công trình ven biển Bình Thuận nguy cơ sạt lở](https://vnexpress.net/14-cong-trinh-ven-bien-binh-thuan-nguy-co-sat-lo-4774552.html) - 17:00 26/07/2024
