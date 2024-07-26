@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Lễ truy điệu Tổng Bí thư Nguyễn Phú Trọng](https://vnexpress.net/truc-tiep-quoc-tang-tong-bi-thu-nguyen-phu-trong-4774386.html) - 05:53 26/07/2024
+- 🦒 [Linh xa chở di hài Tổng Bí thư Nguyễn Phú Trọng trên đường phố Hà Nội](https://vnexpress.net/truc-tiep-quoc-tang-tong-bi-thu-nguyen-phu-trong-4774386.html) - 05:53 26/07/2024
 - 🤓 [Bộ Quốc phòng: Sửa luật để khắc phục tình trạng trốn nghĩa vụ](https://vnexpress.net/bo-quoc-phong-sua-luat-de-khac-phuc-tinh-trang-tron-nghia-vu-4774315.html) - 04:04 26/07/2024
 - ⚗️ [Phan Thiết sắp có phố ẩm thực đêm](https://vnexpress.net/phan-thiet-sap-co-pho-am-thuc-dem-4774324.html) - 02:33 26/07/2024
 - 🌊 [21 xe điện du lịch ở Hội An bị thiêu rụi](https://vnexpress.net/21-xe-dien-du-lich-o-hoi-an-bi-thieu-rui-4774280.html) - 00:32 26/07/2024
