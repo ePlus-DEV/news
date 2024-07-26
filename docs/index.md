@@ -318,7 +318,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Hơn 300 HLV, VĐV Trung tâm HLTTQG Hà Nội dâng hương tưởng nhớ các anh hùng liệt sỹ](https://www.sggp.org.vn/hon-300-hlv-vdv-trung-tam-hlttqg-ha-noi-dang-huong-tuong-nho-cac-anh-hung-liet-sy-post751142.html) - 11:32 26/07/2024
+- 🪜 [AFC tuýt còi LĐBĐ Malaysia, thêm kinh nghiệm cho các CLB Việt Nam](https://www.sggp.org.vn/afc-tuyt-coi-ldbd-malaysia-them-kinh-nghiem-cho-cac-clb-viet-nam-post751158.html) - 12:30 26/07/2024
 - 🌝 [Giải Future Stars 2024: Tuyển bóng chuyền nữ Việt Nam thắng nhẹ nhàng đội trẻ Thái Lan](https://www.sggp.org.vn/giai-future-stars-2024-tuyen-bong-chuyen-nu-viet-nam-thang-nhe-nhang-doi-tre-thai-lan-post751133.html) - 11:32 26/07/2024
 - 💃 [Đội tuyển Olympic tị nạn, thông điệp về niềm hy vọng và sự đoàn kết](https://www.sggp.org.vn/doi-tuyen-olympic-ti-nan-thong-diep-ve-niem-hy-vong-va-su-doan-ket-post751156.html) - 11:31 26/07/2024
 - 🧑‍💻 [Trời tạnh mưa đã 2 ngày, hầm chui đại lộ Thăng Long vẫn như sông](https://www.sggp.org.vn/troi-tanh-mua-da-2-ngay-ham-chui-dai-lo-thang-long-van-nhu-song-post751154.html) - 11:31 26/07/2024
