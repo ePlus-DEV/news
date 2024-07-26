@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Loạt dự án giúp xoá các &#39;nút thắt cổ chai&#39; ở TP HCM](https://vnexpress.net/loat-du-an-giup-xoa-cac-nut-that-co-chai-o-tp-hcm-4774474.html) - 23:00 26/07/2024
+- 🦒 [Loạt dự án giúp xóa các &#39;nút cổ chai&#39; ở TP HCM](https://vnexpress.net/loat-du-an-giup-xoa-cac-nut-co-chai-o-tp-hcm-4774474.html) - 23:00 26/07/2024
 - 🤓 [Hai thập kỷ tìm mộ liệt sĩ Việt Nam của cựu binh Australia](https://vnexpress.net/hai-thap-ky-tim-mo-liet-si-viet-nam-cua-cuu-binh-australia-4774451.html) - 22:00 26/07/2024
 - ⚗️ [14 công trình ven biển Bình Thuận nguy cơ sạt lở](https://vnexpress.net/14-cong-trinh-ven-bien-binh-thuan-nguy-co-sat-lo-4774552.html) - 17:00 26/07/2024
 - 🌊 [Hàng chục nghìn hộ ở TP HCM bị cắt nước đêm cuối tuần](https://vnexpress.net/hang-chuc-nghin-ho-o-tp-hcm-bi-cat-nuoc-dem-cuoi-tuan-4774499.html) - 17:00 26/07/2024
