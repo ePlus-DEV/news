@@ -250,7 +250,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Bài viết về Tổng Bí thư Nguyễn Phú Trọng của Thủ tướng Phạm Minh Chính](https://nld.com.vn/bai-viet-ve-tong-bi-thu-nguyen-phu-trong-cua-thu-tuong-pham-minh-chinh-196240727210705092.htm) - 14:12 27/07/2024
-- 😺 [Bóng đá nam Olympic 2024: Argentina 2-1 Iraq](https://nld.com.vn/bong-da-nam-olympic-2024-argentina-cham-tran-iraq-196240727201037138.htm) - 13:11 27/07/2024
+- 😺 [Bóng đá nam Olympic 2024: Argentina 3-1 Iraq](https://nld.com.vn/bong-da-nam-olympic-2024-argentina-cham-tran-iraq-196240727201037138.htm) - 13:11 27/07/2024
 - 👍 [Bóng đá nữ: TP HCM 2 tạo bất ngờ ở vòng 13](https://nld.com.vn/bong-da-nu-tp-hcm-2-tao-bat-ngo-o-vong-13-196240727180058463.htm) - 12:44 27/07/2024
 - 🥷 [VCCI kiến nghị cân nhắc về &quot;đề xuất mức tăng thuế rất mạnh&quot; đối với rượu bia, thuốc lá](https://nld.com.vn/vcci-kien-nghi-can-nhac-ve-de-xuat-muc-tang-thue-rat-manh-doi-voi-ruou-bia-thuoc-la-196240727182112502.htm) - 12:31 27/07/2024
 - 🤔 [Một giám đốc bị khởi tố](https://nld.com.vn/mot-giam-doc-bi-khoi-to-196240727162421219.htm) - 12:30 27/07/2024
