@@ -13,7 +13,7 @@ sidebar_position: 2
 - 🌈 [Chiến dịch của Harris mỉa mai ông Trump &#39;trốn tranh luận&#39;](https://vnexpress.net/chien-dich-cua-harris-mia-mai-ong-trump-tron-tranh-luan-4774644.html) - 03:51 27/07/2024
 - 🧑‍🏫 [Mexico kêu gọi Mỹ minh bạch vụ bắt trùm ma túy](https://vnexpress.net/mexico-keu-goi-my-minh-bach-vu-bat-trum-ma-tuy-4774631.html) - 03:33 27/07/2024
 - 🐲 [Hungary cáo buộc Ukraine &#39;tống tiền&#39;](https://vnexpress.net/hungary-cao-buoc-ukraine-tong-tien-4774634.html) - 02:48 27/07/2024
-- 🦒 [Anh hủy kế hoạch ngăn ICC duyệt lệnh bắt Thủ tướng Israel](https://vnexpress.net/anh-huy-ke-hoach-ngan-icc-duyet-lenh-bat-thu-tuong-israel-4774616.html) - 02:13 27/07/2024
+- 🦒 [Anh không phản đối ICC duyệt lệnh bắt Thủ tướng Israel](https://vnexpress.net/anh-khong-phan-doi-icc-duyet-lenh-bat-thu-tuong-israel-4774616.html) - 02:13 27/07/2024
 - 🐻 [EU chuyển 1,6 tỷ USD lợi nhuận tài sản Nga để hỗ trợ Ukraine](https://vnexpress.net/eu-chuyen-1-6-ty-usd-loi-nhuan-tai-san-nga-de-ho-tro-ukraine-4774618.html) - 01:56 27/07/2024
 - 🚀 [Dân số Nhật suy giảm 15 năm liên tiếp](https://vnexpress.net/dan-so-nhat-suy-giam-15-nam-lien-tiep-4774114.html) - 01:16 27/07/2024
 - 🥰 [Nga dùng UAV xốp nhựa để săn lùng trận địa phòng không Ukraine](https://vnexpress.net/nga-dung-uav-xop-nhua-de-san-lung-tran-dia-phong-khong-ukraine-4774565.html) - 00:21 27/07/2024
