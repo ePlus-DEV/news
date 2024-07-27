@@ -38,7 +38,7 @@ sidebar_position: 9
 - 🎉 [Rowing Việt Nam lỡ vé trực tiếp vào tứ kết Olympic 2024](https://vnexpress.net/rowing-viet-nam-lo-ve-truc-tiep-vao-tu-ket-olympic-2024-4774757.html) - 10:19 27/07/2024
 - 🌋 [Ông Lê Viết Hải: Việc bị hủy niêm yết không ảnh hưởng giá cổ phiếu HBC](https://vnexpress.net/ong-le-viet-hai-huy-niem-yet-hbc-khong-anh-huong-den-gia-co-phieu-4774744.html) - 10:09 27/07/2024
 - 🤖 [Những kiểu giày dép bán chạy hè 2024](https://vnexpress.net/nhung-kieu-giay-dep-ban-chay-he-2024-4774537.html) - 10:00 27/07/2024
-- 🦏 [Điểm tin 17h: Những trường hợp nhà phải di dời từ 1/8; Trump cảnh báo nguy cơ Thế chiến III nếu thất cử](https://vnexpress.net/diem-tin-17h-nhung-truong-hop-nha-phai-di-doi-tu-1-8-trump-canh-bao-nguy-co-the-chien-iii-neu-that-cu-4774753.html) - 10:00 27/07/2024
+- 🦏 [Điểm tin 21h: Ủy viên Bộ Chính trị được thuê biệt thự công vụ rộng 500 m2; Giông lốc hư hại gần 90 căn nhà ở Bến Tre](https://vnexpress.net/diem-tin-21h-uy-vien-bo-chinh-tri-duoc-thue-biet-thu-cong-vu-rong-500-m2-giong-loc-hu-hai-gan-90-can-nha-o-ben-tre-4774753.html) - 10:00 27/07/2024
 - 🦩 [Vincom khai trương hai trung tâm thương mại mới](https://vnexpress.net/vincom-khai-truong-hai-trung-tam-thuong-mai-moi-4774742.html) - 10:00 27/07/2024
 - 👺 [Thói quen nào giúp phái đẹp trẻ hơn tuổi?](https://vnexpress.net/thoi-quen-nao-giup-phai-dep-tre-hon-tuoi-4774694.html) - 10:00 27/07/2024
 - 🧑‍🏫 [5 tác dụng lăn kim với da và tóc](https://vnexpress.net/5-tac-dung-lan-kim-voi-da-va-toc-4774647.html) - 10:00 27/07/2024
