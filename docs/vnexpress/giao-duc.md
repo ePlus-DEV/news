@@ -63,4 +63,4 @@ sidebar_position: 7
 - 👍 [Tên gọi của Thái Lan có ý nghĩa gì?](https://vnexpress.net/ten-goi-cua-thai-lan-co-y-nghia-gi-4771730.html) - 13:43 21/07/2024
 - 🌈 [36 trường công lập ở TP HCM tuyển bổ sung lớp 10](https://vnexpress.net/36-truong-cong-lap-o-tp-hcm-tuyen-bo-sung-lop-10-4771350.html) - 12:28 21/07/2024
 - 🕴 [Điểm sàn Đại học Mỏ - Địa chất từ 15 đến 23](https://vnexpress.net/diem-san-dai-hoc-mo-dia-chat-tu-15-den-23-4772572.html) - 09:00 21/07/2024
-- 🧰 [Đại học Y Hà Nội dự báo điểm chuẩn tăng](https://vnexpress.net/dai-hoc-y-ha-noi-du-bao-diem-chuan-tang-4772354.html) - 01:49 21/07/2024<!-- vnexpress-giao-duc:END -->
+- 🧰 [Trường học có 5 thủ khoa](https://vnexpress.net/truong-hoc-co-5-thu-khoa-4771294.html) - 03:31 21/07/2024<!-- vnexpress-giao-duc:END -->
