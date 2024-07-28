@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Trump muốn Mỹ thống trị tiền số toàn cầu](https://vnexpress.net/trump-muon-my-thong-tri-tien-so-toan-cau-4774828.html) - 02:52 28/07/2024
-- 🐲 [Vietcombank có chủ tịch mới](https://vnexpress.net/ong-nguyen-thanh-tung-lam-chu-tich-vietcombank-4774822.html) - 02:28 28/07/2024
+- 🐲 [Vietcombank có chủ tịch mới](https://vnexpress.net/vietcombank-co-chu-tich-moi-4774822.html) - 02:28 28/07/2024
 - 🔥 [Những nông sản xuất khẩu tỷ USD nửa đầu năm](https://vnexpress.net/nhung-nong-san-xuat-khau-ty-usd-nua-dau-nam-4774722.html) - 01:32 28/07/2024
 - 🐵 [CEO giúp hàng chục nhân viên thành triệu phú USD](https://vnexpress.net/ceo-giup-hang-chuc-nhan-vien-thanh-trieu-phu-usd-4774667.html) - 19:00 27/07/2024
 - 🦅 [Hãng bia Sài Gòn báo lãi hơn chục tỷ mỗi ngày](https://vnexpress.net/hang-bia-sai-gon-bao-lai-hon-chuc-ty-moi-ngay-4774772.html) - 18:31 27/07/2024
