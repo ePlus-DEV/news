@@ -27,7 +27,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Cơ hội việc làm với ngành Ngôn ngữ Tây Ban Nha, Ả Rập, Italy](https://vnexpress.net/co-hoi-viec-lam-voi-nganh-ngon-ngu-tay-ban-nha-a-rap-italy-4766411.html) - 15:12 28/07/2024
-- 🧰 [Xe tải tông tàu lửa ở TP Biên Hoà, hai người chết](https://vnexpress.net/xe-tai-tong-tau-lua-o-tp-bien-hoa-hai-nguoi-chet-4774992.html) - 15:03 28/07/2024
+- 🧰 [Tàu lửa tông ôtô ở TP Biên Hòa, hai người chết](https://vnexpress.net/tau-lua-tong-oto-o-tp-bien-hoa-hai-nguoi-chet-4774992.html) - 15:03 28/07/2024
 - 🥰 [Bà Harris quyên được số tiền kỷ lục trong tuần đầu tranh cử](https://vnexpress.net/ba-harris-quyen-duoc-so-tien-ky-luc-trong-tuan-dau-tranh-cu-4774983.html) - 14:56 28/07/2024
 - 🌏 [Ban tổ chức Olympic Paris xin lỗi vì lễ khai mạc](https://vnexpress.net/ban-to-chuc-olympic-paris-xin-loi-vi-le-khai-mac-4774984.html) - 14:38 28/07/2024
 - 🧐 [Kon Tum xảy ra 13 trận động đất một ngày](https://vnexpress.net/kon-tum-xay-ra-13-tran-dong-dat-mot-ngay-4774988.html) - 14:32 28/07/2024
