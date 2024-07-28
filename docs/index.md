@@ -74,10 +74,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧑‍🏫 [Bài tập nào giúp trẻ tăng chiều cao?](https://vnexpress.net/bai-tap-nao-giup-tre-tang-chieu-cao-4774760.html) - 07:00 28/07/2024
 - 🎓 [Những món ăn tối không làm tăng đường huyết](https://vnexpress.net/nhung-mon-an-toi-khong-lam-tang-duong-huyet-4774737.html) - 07:00 28/07/2024
 - 💫 [Cam Ranh lên kế hoạch lập kỷ lục món ăn về tôm hùm](https://vnexpress.net/cam-ranh-len-ke-hoach-lap-ky-luc-mon-an-ve-tom-hum-4774896.html) - 06:52 28/07/2024
-- 🤩 [Bảo tàng Trung Quốc mở tour đêm cho mèo](https://vnexpress.net/bao-tang-trung-quoc-mo-tour-dem-cho-meo-4774893.html) - 06:31 28/07/2024
-- 🏊 [Hãng xe nào gắn liền với các cơn gió?](https://vnexpress.net/hang-xe-nao-gan-lien-voi-cac-con-gio-4774904.html) - 06:30 28/07/2024
-- 💂 [Mỹ nữ gây sốt với tạo hình thời Đường](https://vnexpress.net/my-nu-gay-sot-voi-tao-hinh-thoi-duong-4774865.html) - 06:30 28/07/2024
-- 🚀 [Sếp dọa tôi thất bại vì nhảy việc ở tuổi 40](https://vnexpress.net/sep-doa-toi-that-bai-vi-nhay-viec-o-tuoi-40-4774894.html) - 06:25 28/07/2024<!-- vnexpress:END -->
+- 🤩 [Bảo tàng Trung Quốc mở tour đêm cho mèo](https://vnexpress.net/bao-tang-trung-quoc-mo-tour-dem-cho-meo-4774893.html) - 06:31 28/07/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
