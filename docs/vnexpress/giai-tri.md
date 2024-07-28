@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🌏 [8 tiết mục khuấy động show &#39;Anh trai vượt ngàn chông gai&#39;](https://vnexpress.net/8-tiet-muc-khuay-dong-show-anh-trai-vuot-ngan-chong-gai-4774825.html) - 04:11 28/07/2024
 - 💫 [Bí mật về Châu Tinh Trì được hé lộ](https://vnexpress.net/bi-mat-ve-chau-tinh-tri-duoc-he-lo-4774820.html) - 02:16 28/07/2024
 - 🌮 [Diễn viên Lê Hùng qua đời ở tuổi 39](https://vnexpress.net/dien-vien-le-hung-qua-doi-o-tuoi-39-4773748.html) - 00:13 28/07/2024
-- 🧠 [Nghệ sĩ Tự Long và đồng nghiệp gây sốt khi hát &#39;Trống cơm&#39;](https://vnexpress.net/nghe-si-tu-long-va-dong-nghiep-gay-sot-khi-hat-trong-com-4774797.html) - 00:02 28/07/2024
+- 🧠 [Nghệ sĩ Tự Long và đồng nghiệp làm mới bài &#39;Trống cơm&#39;](https://vnexpress.net/nghe-si-tu-long-va-dong-nghiep-lam-moi-bai-trong-com-4774797.html) - 00:02 28/07/2024
 - 👨‍🏫 [Cuộc sống người Triều Tiên qua ống kính nhiếp ảnh gia Indonesia](https://vnexpress.net/cuoc-song-nguoi-trieu-tien-qua-ong-kinh-nhiep-anh-gia-indonesia-4774304.html) - 17:00 27/07/2024
 - ⚗️ [Phan Mạnh Quỳnh viết ca khúc tưởng niệm các anh hùng liệt sĩ](https://vnexpress.net/phan-manh-quynh-viet-ca-khuc-tuong-niem-cac-anh-hung-liet-si-4774732.html) - 15:04 27/07/2024
 - 😎 [&#39;Vết chân tròn trên cát&#39; - bài ca người lính thời hậu chiến](https://vnexpress.net/vet-chan-tron-tren-cat-bai-ca-nguoi-linh-thoi-hau-chien-4774668.html) - 12:54 27/07/2024
