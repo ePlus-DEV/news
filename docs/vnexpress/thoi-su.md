@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Đắp đê ngăn lụt ở ngoại thành Hà Nội](https://vnexpress.net/dap-de-ngan-lut-o-ngoai-thanh-ha-noi-4774881.html) - 05:42 28/07/2024
-- 🤓 [Động đất làm rung lắc các tỉnh miền Trung, Tây Nguyên](https://vnexpress.net/dong-dat-lam-rung-lac-cac-tinh-mien-trung-tay-nguyen-4774889.html) - 05:07 28/07/2024
+- 🤓 [Động đất rung lắc các tỉnh miền Trung, Tây Nguyên](https://vnexpress.net/dong-dat-rung-lac-cac-tinh-mien-trung-tay-nguyen-4774889.html) - 05:07 28/07/2024
 - ⚗️ [Ghe tàu gặp khó vì lục bình phủ kín kênh rạch miền Tây](https://vnexpress.net/ghe-tau-gap-kho-vi-luc-binh-phu-kin-kenh-rach-mien-tay-4774521.html) - 23:00 27/07/2024
 - 🌊 [Mẹ Việt Nam anh hùng 103 tuổi mong chờ con về](https://vnexpress.net/me-viet-nam-anh-hung-103-tuoi-mong-cho-con-ve-4774409.html) - 21:00 27/07/2024
 - 🎓 [Hàng chục nhà dân nứt toác vì công trình chống ngập](https://vnexpress.net/hang-chuc-nha-dan-nut-toac-vi-cong-trinh-chong-ngap-4774780.html) - 17:00 27/07/2024
