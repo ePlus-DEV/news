@@ -7,7 +7,7 @@ sidebar_position: 2
 - 🎭 [Bảo tàng Trung Quốc mở tour đêm cho mèo](https://vnexpress.net/bao-tang-trung-quoc-mo-tour-dem-cho-meo-4774893.html) - 06:31 28/07/2024
 - 🕴 [Đám cháy rừng như hỏa ngục tại California](https://vnexpress.net/dam-chay-rung-nhu-hoa-nguc-tai-california-4774837.html) - 02:49 28/07/2024
 - 🤭 [Người Hàn quay lưng với thịt chó, chuyển sang thịt dê](https://vnexpress.net/nguoi-han-quay-lung-voi-thit-cho-chuyen-sang-thit-de-4772090.html) - 02:02 28/07/2024
-- 🧑‍💻 [Israel tố Hezbollah tập kích sân bóng khiến 11 người chết](https://vnexpress.net/israel-to-hezbollah-tap-kich-san-bong-khien-11-nguoi-chet-4774811.html) - 00:03 28/07/2024
+- 🧑‍💻 [Israel tố Hezbollah tập kích sân bóng khiến 12 người chết](https://vnexpress.net/israel-to-hezbollah-tap-kich-san-bong-khien-12-nguoi-chet-4774811.html) - 00:03 28/07/2024
 - 🦏 [Cuộc đời mới của những tù nhân Ukraine cầm súng chiến đấu](https://vnexpress.net/cuoc-doi-moi-cua-nhung-tu-nhan-ukraine-cam-sung-chien-dau-4773701.html) - 22:00 27/07/2024
 - 🦒 [Cách Mỹ trở thành gã khổng lồ dầu khí lớn nhất thế giới](https://vnexpress.net/cach-my-tro-thanh-ga-khong-lo-dau-khi-lon-nhat-the-gioi-4773954.html) - 18:00 27/07/2024
 - 🌈 [Ngoại trưởng Mỹ - Trung đối thoại &#39;cởi mở, xây dựng&#39; tại Lào](https://vnexpress.net/ngoai-truong-my-trung-doi-thoai-coi-mo-xay-dung-tai-lao-4774789.html) - 16:17 27/07/2024
