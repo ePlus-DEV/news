@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Xe tải tông tàu lửa ở TP Biên Hoà, hai người chết](https://vnexpress.net/xe-tai-tong-tau-lua-o-tp-bien-hoa-hai-nguoi-chet-4774992.html) - 15:03 28/07/2024
+- 🦒 [Tàu lửa tông ôtô ở TP Biên Hòa, hai người chết](https://vnexpress.net/tau-lua-tong-oto-o-tp-bien-hoa-hai-nguoi-chet-4774992.html) - 15:03 28/07/2024
 - 🤓 [Kon Tum xảy ra 13 trận động đất một ngày](https://vnexpress.net/kon-tum-xay-ra-13-tran-dong-dat-mot-ngay-4774988.html) - 14:32 28/07/2024
 - ⚗️ [Diễn tập ứng phó sự cố bức xạ, hạt nhân](https://vnexpress.net/dien-tap-ung-pho-su-co-buc-xa-hat-nhan-4774947.html) - 13:02 28/07/2024
 - 🌊 [Hai toa tàu trật bánh dưới chân đèo Hải Vân](https://vnexpress.net/hai-toa-tau-trat-banh-duoi-chan-deo-hai-van-4774952.html) - 10:23 28/07/2024
