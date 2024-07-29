@@ -4,8 +4,8 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Đường sắt từng đề nghị lập gác chắn hẻm ôtô băng qua gây tai nạn ở Biên Hòa](https://vnexpress.net/duong-sat-tung-de-nghi-lap-gac-chan-hem-oto-bang-qua-gay-tai-nan-o-bien-hoa-4775218.html) - 08:55 29/07/2024
-- 🤓 [Chùa Cầu sau trùng tu](https://vnexpress.net/chua-cau-sau-trung-tu-4775150.html) - 08:10 29/07/2024
+- 🦒 [Đường sắt từng đề nghị lập gác chắn hẻm ôtô bị tàu tông ở Biên Hòa](https://vnexpress.net/duong-sat-tung-de-nghi-lap-gac-chan-hem-oto-bi-tau-tong-o-bien-hoa-4775218.html) - 08:55 29/07/2024
+- 🤓 [Chùa Cầu trước và sau trùng tu](https://vnexpress.net/chua-cau-truoc-va-sau-trung-tu-4775150.html) - 08:10 29/07/2024
 - ⚗️ [Hiện trạng 26 biệt thự phải tháo dỡ ở khu du lịch Măng Đen](https://vnexpress.net/hien-trang-26-biet-thu-phai-thao-do-o-khu-du-lich-mang-den-4774654.html) - 05:30 29/07/2024
 - 🌊 [Hai đoạn đường ở Đăk Nông bị sụt lún](https://vnexpress.net/hai-doan-duong-o-dak-nong-bi-sut-lun-4775137.html) - 04:23 29/07/2024
 - 🎓 [Hàng nghìn hộ dân ngoại thành Hà Nội sống chung với lũ](https://vnexpress.net/hang-nghin-ho-dan-ngoai-thanh-ha-noi-song-chung-voi-lu-4774997.html) - 20:00 28/07/2024
