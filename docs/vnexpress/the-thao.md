@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Bốn VĐV Việt Nam sớm chia tay Olympic 2024](https://vnexpress.net/bon-vdv-viet-nam-som-chia-tay-olympic-2024-4775384.html) - 12:23 29/07/2024
 - 🦩 [Thiếu đồ ăn tại làng VĐV Olympic Paris](https://vnexpress.net/thieu-do-an-tai-lang-vdv-olympic-paris-4775334.html) - 11:59 29/07/2024
 - 🧰 [HLV nữ Thái Nguyên bị phạt vì dàn xếp tỷ số](https://vnexpress.net/hlv-nu-thai-nguyen-bi-phat-vi-dan-xep-ty-so-4775387.html) - 11:51 29/07/2024
-- 🤗 [Djokovic thắng dễ Nadal ở Olympic Paris 2024](https://vnexpress.net/djokovic-thang-de-nadal-o-olympic-paris-2024-4775376-tong-thuat.html) - 11:31 29/07/2024
+- 🤗 [Djokovic thắng dễ Nadal ở Olympic Paris 2024](https://vnexpress.net/ket-qua-djokovic-vs-nadal-olympic-paris-4775376-tong-thuat.html) - 11:31 29/07/2024
 - 🥳 [Nguyễn Huy Hoàng dừng bước ở vòng loại bơi 800m tự do Olympic 2024](https://vnexpress.net/nguyen-huy-hoang-dung-buoc-o-vong-loai-boi-800m-tu-do-olympic-2024-4775326.html) - 09:22 29/07/2024
 - 🦣 [Võ sĩ judo tẩy chay đối thủ Israel ở Olympic Paris 2024](https://vnexpress.net/vo-si-judo-tay-chay-doi-thu-israel-o-olympic-paris-2024-4775267.html) - 08:18 29/07/2024
 - 🌜 [Yamal và bạn gái bỏ theo dõi nhau trên mạng xã hội](https://vnexpress.net/yamal-va-ban-gai-bo-theo-doi-nhau-tren-mang-xa-hoi-4775205.html) - 08:11 29/07/2024
