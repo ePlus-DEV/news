@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [TP HCM sẽ thu thập thông tin các cá nhân mua bán vàng miếng](https://vnexpress.net/tp-hcm-se-thu-thap-thong-tin-cac-ca-nhan-mua-ban-vang-mieng-4775316.html) - 13:51 29/07/2024
+- ⛽️ [TP HCM sẽ thu thập thông tin người mua bán vàng miếng](https://vnexpress.net/tp-hcm-se-thu-thap-thong-tin-nguoi-mua-ban-vang-mieng-4775316.html) - 13:51 29/07/2024
 - 🐲 [Malaysia nộp đơn xin gia nhập BRICS](https://vnexpress.net/malaysia-nop-don-xin-gia-nhap-brics-4775350.html) - 10:00 29/07/2024
 - 🔥 [Cổ phiếu Quốc Cường Gia Lai được &#39;giải cứu&#39;](https://vnexpress.net/co-phieu-quoc-cuong-gia-lai-duoc-giai-cuu-4775321.html) - 09:11 29/07/2024
 - 🐵 [Khách có tài khoản mới được mua vàng miếng SJC tại ngân hàng](https://vnexpress.net/khach-co-tai-khoan-moi-duoc-mua-vang-mieng-sjc-tai-ngan-hang-4775283.html) - 09:02 29/07/2024
