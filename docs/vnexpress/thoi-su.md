@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Hàng nghìn hộ dân ngoại thành Hà Nội sống chung với lũ](https://vnexpress.net/hang-nghin-ho-dan-ngoai-thanh-ha-noi-song-chung-voi-lu-4774997.html) - 20:00 28/07/2024
 - 🤓 [Đề xuất nâng lương trước niên hạn cho sĩ quan hoàn thành tốt nhiệm vụ gìn giữ hòa bình](https://vnexpress.net/de-xuat-nang-luong-truoc-nien-han-cho-si-quan-hoan-thanh-tot-nhiem-vu-gin-giu-hoa-binh-4774859.html) - 20:00 28/07/2024
 - ⚗️ [Tình nguyện đỡ đẻ ở vùng cao](https://vnexpress.net/tinh-nguyen-do-de-o-vung-cao-4772942.html) - 17:00 28/07/2024
-- 🌊 [Tàu hỏa tông ôtô ở TP Biên Hòa, hai người chết](https://vnexpress.net/tau-hoa-tong-oto-o-tp-bien-hoa-hai-nguoi-chet-4774992.html) - 15:03 28/07/2024
+- 🌊 [Tàu hỏa va chạm ôtô ở TP Biên Hòa, hai người chết](https://vnexpress.net/tau-hoa-va-cham-oto-o-tp-bien-hoa-hai-nguoi-chet-4774992.html) - 15:03 28/07/2024
 - 🎓 [Kon Tum xảy ra 21 trận động đất một ngày](https://vnexpress.net/kon-tum-xay-ra-21-tran-dong-dat-mot-ngay-4774988.html) - 14:32 28/07/2024
 - 🔥 [Diễn tập ứng phó sự cố bức xạ, hạt nhân](https://vnexpress.net/dien-tap-ung-pho-su-co-buc-xa-hat-nhan-4774947.html) - 13:02 28/07/2024
 - 🦏 [Hai toa tàu trật bánh dưới chân đèo Hải Vân](https://vnexpress.net/hai-toa-tau-trat-banh-duoi-chan-deo-hai-van-4774952.html) - 10:23 28/07/2024
