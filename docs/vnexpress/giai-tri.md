@@ -10,7 +10,7 @@ sidebar_position: 5
 - 🧠 [&#39;Deadpool 3&#39; mở màn hơn 400 triệu USD](https://vnexpress.net/deadpool-3-mo-man-hon-400-trieu-usd-4775169.html) - 13:00 29/07/2024
 - 👨‍🏫 [Hublot ra mắt mẫu đồng hồ đính kim cương đen](https://vnexpress.net/hublot-ra-mat-mau-dong-ho-dinh-kim-cuong-den-4775319.html) - 13:00 29/07/2024
 - ⚗️ [Hai con gái Quyền Linh cùng dàn sao dự sự kiện](https://vnexpress.net/hai-con-gai-quyen-linh-cung-dan-sao-du-su-kien-4775371.html) - 12:34 29/07/2024
-- 😎 [Khai mạc Olympic 2024 - ranh giới nghệ thuật và &#39;báng bổ&#39;](https://vnexpress.net/khai-mac-olympic-2024-ranh-gioi-nghe-thuat-va-bang-bo-4775117.html) - 10:56 29/07/2024
+- 😎 [Khai mạc Olympic 2024 - nghệ thuật và &#39;báng bổ&#39;](https://vnexpress.net/khai-mac-olympic-2024-nghe-thuat-va-bang-bo-4775117.html) - 10:56 29/07/2024
 - 🫣 [Những thí sinh nổi bật tại Miss Grand Vietnam 2024](https://vnexpress.net/nhung-thi-sinh-noi-bat-tai-miss-grand-vietnam-2024-4774866.html) - 08:54 29/07/2024
 - 🪄 [Lady Gaga phủ nhận &#39;mặc váy nhái&#39; ở Olympic](https://vnexpress.net/lady-gaga-phu-nhan-mac-vay-nhai-o-olympic-4775195.html) - 07:33 29/07/2024
 - 🤓 [Noo Phước Thịnh khóc khi nhìn lại 15 năm ca hát](https://vnexpress.net/noo-phuoc-thinh-khoc-khi-nhin-lai-15-nam-ca-hat-4775056.html) - 07:29 29/07/2024
