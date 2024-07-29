@@ -314,7 +314,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Bắt giữ 3 đối tượng người nước ngoài giết người ở Quảng Ngãi, trốn ra Quảng Bình](https://www.sggp.org.vn/bat-giu-3-doi-tuong-nguoi-nuoc-ngoai-giet-nguoi-o-quang-ngai-tron-ra-quang-binh-post751564.html) - 11:26 29/07/2024
+- 🪜 [Bắt giữ 3 đối tượng người nước ngoài giết tài xế taxi Mai Linh](https://www.sggp.org.vn/bat-giu-3-doi-tuong-nguoi-nuoc-ngoai-giet-tai-xe-taxi-mai-linh-post751564.html) - 11:26 29/07/2024
 - 🌝 [Bắt đối tượng bị truy nã sau 24 năm lẩn trốn](https://www.sggp.org.vn/bat-doi-tuong-bi-truy-na-sau-24-nam-lan-tron-post751566.html) - 11:26 29/07/2024
 - 💃 [Thủ môn Đặng Văn Lâm dự họp báo giải bóng đá cúp truyền hình Bà Rịa - Vũng Tàu](https://www.sggp.org.vn/thu-mon-dang-van-lam-du-hop-bao-giai-bong-da-cup-truyen-hinh-ba-ria-vung-tau-post751547.html) - 11:10 29/07/2024
 - 🧑‍💻 [Nam thanh niên khuyết tật thần kinh chém trọng thương mẹ và dì ruột](https://www.sggp.org.vn/nam-thanh-nien-khuyet-tat-than-kinh-chem-trong-thuong-me-va-di-ruot-post751565.html) - 11:08 29/07/2024
