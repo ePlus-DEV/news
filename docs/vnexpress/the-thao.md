@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Kình ngư Nguyễn Huy Hoàng xuất trận ở Olympic 2024](https://vnexpress.net/kinh-ngu-nguyen-huy-hoang-xuat-tran-o-olympic-2024-4775326.html) - 09:22 29/07/2024
+- 🪜 [Nguyễn Huy Hoàng dừng bước ở vòng loại bơi 800m tự do Olympic 2024](https://vnexpress.net/nguyen-huy-hoang-dung-buoc-o-vong-loai-boi-800m-tu-do-olympic-2024-4775326.html) - 09:22 29/07/2024
 - 🦩 [Võ sĩ judo tẩy chay đối thủ Israel ở Olympic Paris 2024](https://vnexpress.net/vo-si-judo-tay-chay-doi-thu-israel-o-olympic-paris-2024-4775267.html) - 08:18 29/07/2024
 - 🧰 [Yamal và bạn gái bỏ theo dõi nhau trên mạng xã hội](https://vnexpress.net/yamal-va-ban-gai-bo-theo-doi-nhau-tren-mang-xa-hoi-4775205.html) - 08:11 29/07/2024
 - 🤗 [Barca bị phớt lờ trước trận Man City](https://vnexpress.net/barca-bi-phot-lo-truoc-tran-man-city-4775219.html) - 07:55 29/07/2024
