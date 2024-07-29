@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Võ sĩ judo tẩy chay đối thủ Israel ở Olympic Paris 2024](https://vnexpress.net/vo-si-judo-tay-chay-doi-thu-israel-o-olympic-paris-2024-4775267.html) - 08:18 29/07/2024
-- 🦩 [Yamal và bạn gái bỏ theo dõi trên mạng xã hội](https://vnexpress.net/yamal-va-ban-gai-bo-theo-doi-tren-mang-xa-hoi-4775205.html) - 08:11 29/07/2024
+- 🦩 [Yamal và bạn gái bỏ theo dõi nhau trên mạng xã hội](https://vnexpress.net/yamal-va-ban-gai-bo-theo-doi-nhau-tren-mang-xa-hoi-4775205.html) - 08:11 29/07/2024
 - 🧰 [Barca bị phớt lờ trước trận Man City](https://vnexpress.net/barca-bi-phot-lo-truoc-tran-man-city-4775219.html) - 07:55 29/07/2024
 - 🤗 [Tranh cãi về VĐV dự Olympic từng bị kết án hiếp dâm trẻ em](https://vnexpress.net/tranh-cai-ve-vdv-du-olympic-tung-bi-ket-an-hiep-dam-tre-em-4775256.html) - 07:50 29/07/2024
 - 🥳 [Ban tổ chức Olympic 2024 phát sai quốc ca, hiện nhầm quốc kỳ](https://vnexpress.net/ban-to-chuc-olympic-2024-phat-sai-quoc-ca-hien-nham-quoc-ky-4775206.html) - 07:32 29/07/2024
