@@ -250,7 +250,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Hé lộ hậu trường phim kinh dị &quot;Cám&quot;](https://nld.com.vn/he-lo-hau-truong-phim-kinh-di-cam-196240729150951334.htm) - 08:37 29/07/2024
-- 😺 [Đơn vị nào sẽ quản lý vận hành dự án Charm Resort 5 sao?](https://thitruong.nld.com.vn/don-vi-nao-se-quan-ly-van-hanh-du-an-charm-resort-5-sao-196240729152707707.htm) - 08:36 29/07/2024
+- 😺 [Đơn vị nào sẽ quản lý vận hành dự án Charm Resort Long Hải 5 sao?](https://thitruong.nld.com.vn/don-vi-nao-se-quan-ly-van-hanh-du-an-charm-resort-long-hai-5-sao-196240729152707707.htm) - 08:36 29/07/2024
 - 👍 [Huế sẽ có chính sách ưu đãi mở đường bay thẳng đến sân bay Phú Bài](https://nld.com.vn/hue-se-co-chinh-sach-uu-dai-mo-duong-bay-thang-den-san-bay-phu-bai-196240729152114413.htm) - 08:28 29/07/2024
 - 🥷 [Trải nghiệm cà phê khác biệt của Việt Nam tại Tuần Văn hóa Hội An - Nhật Bản lần thứ 20](https://nld.com.vn/trai-nghiem-ca-phe-khac-biet-cua-viet-nam-tai-tuan-van-hoa-hoi-an-nhat-ban-lan-thu-20-196240729151712078.htm) - 08:22 29/07/2024
 - 🤔 [Kết quả xổ số hôm nay, 29-7: TP HCM, Đồng Tháp, Cà Mau, Phú Yên, Hà Nội...](https://nld.com.vn/ket-qua-xo-so-hom-nay-29-7-tp-hcm-dong-thap-ca-mau-phu-yen-ha-noi-196240729151033178.htm) - 08:21 29/07/2024
