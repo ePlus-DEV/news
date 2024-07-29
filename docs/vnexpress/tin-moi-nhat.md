@@ -32,7 +32,7 @@ sidebar_position: 9
 - 🐎 [Vấn nạn thiếu đồ ăn tại làng VĐV Olympic Paris](https://vnexpress.net/van-nan-thieu-do-an-tai-lang-vdv-olympic-paris-4775334.html) - 11:59 29/07/2024
 - 🎡 [HLV nữ Thái Nguyên bị phạt vì dàn xếp tỷ số](https://vnexpress.net/hlv-nu-thai-nguyen-bi-phat-vi-dan-xep-ty-so-4775387.html) - 11:51 29/07/2024
 - 👨‍🏫 [Người Việt du học Australia tăng](https://vnexpress.net/nguoi-viet-du-hoc-australia-tang-4775120.html) - 11:48 29/07/2024
-- 🦆 [Djokovic thắng dễ Nadal ở Olympic Paris 2024](https://vnexpress.net/djokovic-thang-de-nadal-o-olympic-paris-2024-4775376.html) - 11:31 29/07/2024
+- 🦆 [Djokovic loại Nadal khỏi nội dung đơn nam Olympic Paris 2024](https://vnexpress.net/djokovic-loai-nadal-khoi-noi-dung-don-nam-olympic-paris-2024-4775376.html) - 11:31 29/07/2024
 - 🚦 [Bệnh ho gà tăng ở Hà Nội do miễn dịch cộng đồng giảm](https://vnexpress.net/benh-ho-ga-tang-o-ha-noi-do-mien-dich-cong-dong-giam-4775329.html) - 11:26 29/07/2024
 - 💫 [Bí thư Hà Nội yêu cầu di dời hàng nghìn dân vùng ngập lụt](https://vnexpress.net/bi-thu-ha-noi-yeu-cau-di-doi-hang-nghin-dan-vung-ngap-lut-4775323.html) - 11:20 29/07/2024
 - 🎉 [Olympic khiến lượng khách du lịch đến Paris giảm mạnh](https://vnexpress.net/olympic-khien-luong-khach-du-lich-den-paris-giam-manh-4775043.html) - 11:13 29/07/2024
