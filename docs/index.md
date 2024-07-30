@@ -231,7 +231,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦣 [Có được chấm dứt hợp đồng thuê nhà khi bị tăng giá thuê?](https://laodong.vn/tu-van-phap-luat/co-duoc-cham-dut-hop-dong-thue-nha-khi-bi-tang-gia-thue-1373044.ldo) - 13:00 30/07/2024
 - 💫 [Tạm giữ hình sự kẻ châm lửa đốt trạm xăng ở Khánh Hòa](https://laodong.vn/ban-tin/tam-giu-hinh-su-ke-cham-lua-dot-tram-xang-o-khanh-hoa-1373743.ldo) - 12:59 30/07/2024
 - ⛽️ [Bệnh nhân ở Huế được ghép tim nhận từ Hà Nội](https://laodong.vn/suc-khoe/benh-nhan-o-hue-duoc-ghep-tim-nhan-tu-ha-noi-1373670.ldo) - 12:59 30/07/2024
-- 💫 [Trực tiếp bóng đá U23 Tây Ban Nha 0-0 U23 Ai Cập: Hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-u23-tay-ban-nha-0-0-u23-ai-cap-hiep-1-1373739.ldo) - 12:57 30/07/2024
+- 💫 [Trực tiếp bóng đá U23 Tây Ban Nha 0-1 U23 Ai Cập: Hết hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-u23-tay-ban-nha-0-1-u23-ai-cap-het-hiep-1-1373739.ldo) - 12:57 30/07/2024
 - 🥸 [5 điều giúp ắc quy ôtô không &#39;chết&#39; giữa đường](https://laodong.vn/xe/5-dieu-giup-ac-quy-oto-khong-chet-giua-duong-1370213.ldo) - 12:56 30/07/2024
 - 🐻 [Nhiều cán bộ y tế ở Quảng Nam bị &quot;bỏ quên&quot; hỗ trợ chống dịch COVID](https://laodong.vn/xa-hoi/nhieu-can-bo-y-te-o-quang-nam-bi-bo-quen-ho-tro-chong-dich-covid-1373727.ldo) - 12:55 30/07/2024
 - 🪄 [Những loại nước ép hỗ trợ giảm cân hiệu quả nhất](https://laodong.vn/video/nhung-loai-nuoc-ep-ho-tro-giam-can-hieu-qua-nhat-1373688.ldo) - 12:50 30/07/2024
