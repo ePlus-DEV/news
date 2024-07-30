@@ -11,7 +11,7 @@ sidebar_position: 12
 - 🎊 [Lời khai của 3 nghi phạm Trung Quốc sát hại tài xế taxi](https://vnexpress.net/loi-khai-cua-3-nghi-pham-trung-quoc-sat-hai-tai-xe-taxi-4775684.html) - 06:48 30/07/2024
 - 🙉 [Sát hại vợ trong nhà trọ](https://vnexpress.net/sat-hai-vo-trong-nha-tro-4775668.html) - 06:02 30/07/2024
 - 🤡 [Cô gái bị bắt vì giúp 6 du khách ở lại Việt Nam trái phép](https://vnexpress.net/co-gai-bi-bat-vi-giup-6-du-khach-o-lai-viet-nam-trai-phep-4775611.html) - 05:47 30/07/2024
-- 🗽 [Mở 109 tài khoản ngân hàng để lừa chủ tịch huyện 170 tỷ đồng](https://vnexpress.net/mo-109-tai-khoan-ngan-hang-de-lua-chu-tich-huyen-170-ty-dong-4775626.html) - 04:29 30/07/2024
+- 🗽 [&#39;Tội phạm mở 109 tài khoản ngân hàng để lừa chủ tịch huyện 170 tỷ đồng&#39;](https://vnexpress.net/toi-pham-mo-109-tai-khoan-ngan-hang-de-lua-chu-tich-huyen-170-ty-dong-4775626.html) - 04:29 30/07/2024
 - 🌋 [Cảnh sát gìn giữ hòa bình diễn tập chống khủng bố, bảo vệ yếu nhân](https://vnexpress.net/canh-sat-gin-giu-hoa-binh-dien-tap-chong-khung-bo-bao-ve-yeu-nhan-4775422.html) - 17:00 29/07/2024
 - 🎬 [8 sợi lông mèo giúp cảnh sát vạch tội kẻ sát hại bạn](https://vnexpress.net/8-soi-long-meo-giup-canh-sat-vach-toi-ke-ham-hai-ban-4775370.html) - 17:00 29/07/2024
 - 💯 [Cố ý phạm tội để chứng minh mình còn sống](https://vnexpress.net/co-y-pham-toi-de-chung-minh-minh-con-song-4775002.html) - 17:00 29/07/2024
