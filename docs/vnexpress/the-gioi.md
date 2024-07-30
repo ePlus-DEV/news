@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Phó chủ tịch Ủy ban châu Âu uống bạc sỉu, ngắm tranh tại Hà Nội](https://vnexpress.net/pho-chu-tich-uy-ban-chau-au-uong-bac-siu-ngam-tranh-tai-ha-noi-4775885.html) - 13:14 30/07/2024
+- 🎭 [Phó chủ tịch Ủy ban châu Âu uống bạc xỉu, ngắm tranh tại Hà Nội](https://vnexpress.net/pho-chu-tich-uy-ban-chau-au-uong-bac-xiu-ngam-tranh-tai-ha-noi-4775885.html) - 13:14 30/07/2024
 - 🕴 [Trận phục kích trong bão cát Mali khiến Wagner thiệt hại nặng](https://vnexpress.net/tran-phuc-kich-trong-bao-cat-mali-khien-wagner-thiet-hai-nang-4775704.html) - 12:00 30/07/2024
 - 🤭 [Phe Dân chủ và Cộng hòa công kích nhau về giọng cười, nét mặt ứng viên](https://vnexpress.net/phe-dan-chu-va-cong-hoa-cong-kich-nhau-ve-giong-cuoi-net-mat-ung-vien-4775676.html) - 11:41 30/07/2024
 - 🧑‍💻 [Thủ tướng Phạm Minh Chính sắp thăm Ấn Độ](https://vnexpress.net/thu-tuong-pham-minh-chinh-sap-tham-an-do-4775743.html) - 09:39 30/07/2024
