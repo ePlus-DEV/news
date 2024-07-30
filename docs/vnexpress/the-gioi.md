@@ -7,7 +7,7 @@ sidebar_position: 2
 - 🎭 [Phó chủ tịch Ủy ban châu Âu uống bạc xỉu, ngắm tranh tại Hà Nội](https://vnexpress.net/pho-chu-tich-uy-ban-chau-au-uong-bac-xiu-ngam-tranh-tai-ha-noi-4775885.html) - 13:14 30/07/2024
 - 🕴 [Trận phục kích trong bão cát Mali khiến Wagner thiệt hại nặng](https://vnexpress.net/tran-phuc-kich-trong-bao-cat-mali-khien-wagner-thiet-hai-nang-4775704.html) - 12:00 30/07/2024
 - 🤭 [Phe Dân chủ và Cộng hòa công kích nhau về giọng cười, nét mặt ứng viên](https://vnexpress.net/phe-dan-chu-va-cong-hoa-cong-kich-nhau-ve-giong-cuoi-net-mat-ung-vien-4775676.html) - 11:41 30/07/2024
-- 🧑‍💻 [Thủ tướng Phạm Minh Chính sắp thăm Ấn Độ](https://vnexpress.net/thu-tuong-pham-minh-chinh-sap-tham-an-do-4775743.html) - 09:39 30/07/2024
+- 🧑‍💻 [Thủ tướng Phạm Minh Chính lên đường thăm Ấn Độ](https://vnexpress.net/thu-tuong-pham-minh-chinh-len-duong-tham-an-do-4775743.html) - 09:39 30/07/2024
 - 🦏 [Ngân hàng dán lại 100.000 mảnh tiền giấy bị khách trầm cảm cắt vụn](https://vnexpress.net/ngan-hang-dan-lai-100-000-manh-tien-giay-bi-khach-tram-cam-cat-vun-4775740.html) - 09:33 30/07/2024
 - 🦒 [EU muốn nâng quan hệ với Việt Nam lên Đối tác Chiến lược Toàn diện](https://vnexpress.net/eu-muon-nang-quan-he-voi-viet-nam-len-doi-tac-chien-luoc-toan-dien-4775735.html) - 08:35 30/07/2024
 - 🌈 [Elon Musk hứng chỉ trích vì chia sẻ video &#39;Harris giả&#39;](https://vnexpress.net/elon-musk-hung-chi-trich-vi-chia-se-video-harris-gia-4775571.html) - 07:46 30/07/2024
