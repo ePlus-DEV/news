@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Quận 7 sắp có phố thương mại ẩm thực](https://vnexpress.net/quan-7-sap-co-pho-thuong-mai-am-thuc-4775683.html) - 09:47 30/07/2024
+- ⛽️ [TP HCM sắp có phố thương mại ẩm thực ở quận 7](https://vnexpress.net/tp-hcm-sap-co-pho-thuong-mai-am-thuc-o-quan-7-4775683.html) - 09:47 30/07/2024
 - 🐲 [Nợ công Mỹ lập kỷ lục mới](https://vnexpress.net/no-cong-my-lap-ky-luc-moi-4775734.html) - 09:27 30/07/2024
 - 🔥 [Cổ phiếu đại gia nuôi heo nằm sàn](https://vnexpress.net/chung-khoan-hom-nay-30-7-co-phieu-dai-gia-nuoi-heo-nam-san-4775795.html) - 09:06 30/07/2024
 - 🐵 [Novaland cần thêm hai năm để trả hết nợ](https://vnexpress.net/novaland-can-them-hai-nam-de-tra-het-no-4775753.html) - 08:38 30/07/2024
