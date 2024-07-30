@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Nadal - Alcaraz vào tứ kết đôi nam Olympic Paris 2024](https://vnexpress.net/nadal-alcaraz-vao-tu-ket-doi-nam-olympic-paris-2024-4775937.html) - 23:16 30/07/2024
-- 🦩 [Lê Đức Phát đánh bại tay vợt Đức ở Olympic Paris 2024](https://vnexpress.net/le-duc-phat-danh-bai-tay-vot-duc-o-olympic-paris-2024-4775933.html) - 22:50 30/07/2024
-- 🧰 [Argentina vào tứ kết Olympic sau 16 năm chờ đợi](https://vnexpress.net/argentina-vao-tu-ket-olympic-sau-16-nam-cho-doi-4775925.html) - 17:40 30/07/2024
-- 🤗 [Noah Lyles: &#39;Tôi luôn là người nhanh nhất thế giới&#39;](https://vnexpress.net/noah-lyles-toi-luon-la-nguoi-nhanh-nhat-the-gioi-4775920.html) - 17:00 30/07/2024
-- 🥳 [Deguchi - người viết lại lịch sử judo Canada](https://vnexpress.net/deguchi-nguoi-viet-lai-lich-su-judo-canada-4775876.html) - 17:00 30/07/2024
-- 🦣 [Bức ảnh VĐV lướt sóng ăn mừng trên không gây sốt ở Olympic](https://vnexpress.net/buc-anh-vdv-luot-song-an-mung-tren-khong-gay-sot-o-olympic-4775826.html) - 17:00 30/07/2024
+- 🪜 [&#39;Hot girl&#39; Thùy Linh, Ánh Nguyệt tiến công ở Olympic 2024](https://vnexpress.net/hot-girl-thuy-linh-anh-nguyet-tien-cong-o-olympic-2024-4775935.html) - 23:30 30/07/2024
+- 🦩 [Pháp gặp Argentina ở tứ kết bóng đá nam Olympic](https://vnexpress.net/phap-gap-argentina-o-tu-ket-bong-da-nam-olympic-4775938.html) - 23:23 30/07/2024
+- 🧰 [Nadal - Alcaraz vào tứ kết đôi nam Olympic Paris 2024](https://vnexpress.net/nadal-alcaraz-vao-tu-ket-doi-nam-olympic-paris-2024-4775937.html) - 23:16 30/07/2024
+- 🤗 [Lê Đức Phát đánh bại tay vợt Đức ở Olympic Paris 2024](https://vnexpress.net/le-duc-phat-danh-bai-tay-vot-duc-o-olympic-paris-2024-4775933.html) - 22:50 30/07/2024
+- 🥳 [Argentina vào tứ kết Olympic sau 16 năm chờ đợi](https://vnexpress.net/argentina-vao-tu-ket-olympic-sau-16-nam-cho-doi-4775925.html) - 17:40 30/07/2024
+- 🦣 [Deguchi - người viết lại lịch sử judo Canada](https://vnexpress.net/deguchi-nguoi-viet-lai-lich-su-judo-canada-4775876.html) - 17:00 30/07/2024
+- 🌜 [Noah Lyles: &#39;Tôi luôn là người nhanh nhất thế giới&#39;](https://vnexpress.net/noah-lyles-toi-luon-la-nguoi-nhanh-nhat-the-gioi-4775920.html) - 17:00 30/07/2024
+- 🫶 [Bức ảnh VĐV lướt sóng ăn mừng trên không gây sốt ở Olympic](https://vnexpress.net/buc-anh-vdv-luot-song-an-mung-tren-khong-gay-sot-o-olympic-4775826.html) - 17:00 30/07/2024
 - 🌜 [Tây Ban Nha thua Ai Cập, gặp Nhật Bản ở tứ kết Olympic](https://vnexpress.net/tay-ban-nha-thua-ai-cap-gap-nhat-ban-o-tu-ket-olympic-4775913.html) - 15:44 30/07/2024
-- 🫶 [Trung Quốc thắng hiện tượng Triều Tiên ở bóng bàn Olympic 2024](https://vnexpress.net/trung-quoc-thang-hien-tuong-trieu-tien-o-bong-ban-olympic-2024-4775893.html) - 14:31 30/07/2024
-- 🌜 [HC đồng Olympic 2024 xúc động khi vợ tiết lộ giới tính con đầu lòng](https://vnexpress.net/hc-dong-olympic-2024-xuc-dong-khi-vo-tiet-lo-gioi-tinh-con-dau-long-4775886.html) - 12:50 30/07/2024
-- 😺 [Cua-rơ Anh bảo vệ HC vàng Olympic dù thủng lốp](https://vnexpress.net/cua-ro-anh-bao-ve-hc-vang-olympic-du-thung-lop-4775873.html) - 11:34 30/07/2024
-- 👍 [Phần thưởng dự kiến cho nhà vô địch golf Olympic 2024](https://vnexpress.net/phan-thuong-du-kien-cho-nha-vo-dich-golf-olympic-2024-4775866.html) - 11:05 30/07/2024
-- 🐵 [Triều Tiên gây sốc ở bóng bàn Olympic 2024](https://vnexpress.net/trieu-tien-gay-soc-o-bong-ban-olympic-2024-4775801.html) - 09:17 30/07/2024
-- 💫 [Sông Seine - địa điểm thi đấu tai tiếng ở Olympic 2024](https://vnexpress.net/song-seine-dia-diem-thi-dau-tai-tieng-o-olympic-2024-4775809.html) - 09:06 30/07/2024
-- 🦆 [Billiards Việt Nam bị cấm dự các giải quốc tế](https://vnexpress.net/billiards-viet-nam-bi-cam-du-cac-giai-quoc-te-4775775.html) - 08:58 30/07/2024
-- 🙉 [Cảnh sát vô tình giúp golfer Venezuela đoạt cup PGA Tour](https://vnexpress.net/canh-sat-vo-tinh-giup-golfer-venezuela-doat-cup-pga-tour-4775762.html) - 08:49 30/07/2024
-- 📝 [Phạm Thị Huệ không có vé vào bán kết rowing Olympic 2024](https://vnexpress.net/pham-thi-hue-khong-co-ve-vao-ban-ket-rowing-olympic-2024-4775759.html) - 08:30 30/07/2024
-- 💯 [Dớp 2% giây khiến Anh lỡ hai HC vàng bơi Olympic Paris 2024](https://vnexpress.net/dop-2-giay-khien-anh-lo-hai-hc-vang-boi-olympic-paris-2024-4775744.html) - 07:58 30/07/2024
-- 🌈 [VĐV dự Olympic sau 30 năm chờ đợi](https://vnexpress.net/vdv-du-olympic-sau-30-nam-cho-doi-4775469.html) - 07:44 30/07/2024
-- 🦩 [Guardiola dùng từ &#39;phi thường&#39; để nói về Yamal](https://vnexpress.net/guardiola-dung-tu-phi-thuong-de-noi-ve-yamal-4775478.html) - 06:03 30/07/2024
-- 🐲 [Kiếm thủ mang thai 7 tháng vẫn thắng ở Olympic 2024](https://vnexpress.net/kiem-thu-mang-thai-7-thang-van-thang-o-olympic-2024-4775678.html) - 05:56 30/07/2024
-- 🌁 [Djokovic: &#39;Không thể có tình anh em với Nadal&#39;](https://vnexpress.net/djokovic-khong-the-co-tinh-anh-em-voi-nadal-4775660.html) - 05:27 30/07/2024
-- 💯 [VĐV Brazil bị trục xuất khỏi Olympic vì lén đi chơi với bạn trai](https://vnexpress.net/vdv-brazil-bi-truc-xuat-khoi-olympic-vi-len-di-choi-voi-ban-trai-4775649.html) - 04:28 30/07/2024
-- 🌝 [Lùi lịch môn triathlon Olympic vì sông Seine ô nhiễm](https://vnexpress.net/lui-lich-mon-triathlon-olympic-vi-song-seine-o-nhiem-4775627.html) - 04:22 30/07/2024
-- 🤖 [Hai võ sĩ từng trượt kiểm tra giới tính được dự Olympic 2024](https://vnexpress.net/hai-vo-si-tung-truot-kiem-tra-gioi-tinh-duoc-du-olympic-2024-4775497.html) - 03:25 30/07/2024
-- 🕯 [Nguồn cơn khiến Russell bị hủy kết quả tại Grand Prix Bỉ](https://vnexpress.net/nguon-con-khien-russell-bi-huy-ket-qua-tai-grand-prix-bi-4775314.html) - 03:19 30/07/2024
-- 🧰 [Arsenal công bố trung vệ Riccardo Calafiori](https://vnexpress.net/arsenal-cong-bo-trung-ve-riccardo-calafiori-4775484.html) - 03:17 30/07/2024
-- 🥳 [Nhật Bản tiếp tục dẫn đầu Olympic 2024](https://vnexpress.net/nhat-ban-tiep-tuc-dan-dau-olympic-2024-4775441.html) - 01:00 30/07/2024
-- 👍 [Alcaraz cứu set-point ở vòng hai Olympic Paris 2024](https://vnexpress.net/alcaraz-cuu-set-point-o-vong-hai-olympic-paris-2024-4775446.html) - 00:56 30/07/2024
-- 💪 [Mbappe mua lại CLB hạng Nhì Pháp](https://vnexpress.net/mbappe-mua-lai-clb-hang-nhi-phap-4775448.html) - 00:51 30/07/2024
-- 👹 [Sông Seine ô nhiễm đe dọa lịch thi triathlon Olympic 2024](https://vnexpress.net/song-seine-o-nhiem-de-doa-lich-thi-triathlon-olympic-2024-4775436.html) - 23:20 29/07/2024
-- 🧰 [Nadal cáu khi họp báo sau trận thua Djokovic](https://vnexpress.net/nadal-cau-khi-hop-bao-sau-tran-thua-djokovic-4775439.html) - 22:44 29/07/2024
-- 🚀 [Nguyễn Thùy Linh thắng trận ra quân Olympic Paris 2024](https://vnexpress.net/nguyen-thuy-linh-thang-tran-ra-quan-olympic-paris-2024-4775438.html) - 22:33 29/07/2024
-- 🎃 [Cựu VĐV điền kinh tái xuất tại Olympic Paris 2024 ở môn bóng đá](https://vnexpress.net/cuu-vdv-dien-kinh-tai-xuat-tai-olympic-paris-2024-o-mon-bong-da-4775431.html) - 17:05 29/07/2024
-- 🧰 [Kình ngư Pháp phá kỷ lục 16 năm của Michael Phelps tại Olympic](https://vnexpress.net/kinh-ngu-phap-pha-ky-luc-16-nam-cua-michael-phelps-tai-olympic-4775428.html) - 17:00 29/07/2024
-- 👀 [Bốn VĐV Việt Nam sớm chia tay Olympic 2024](https://vnexpress.net/bon-vdv-viet-nam-som-chia-tay-olympic-2024-4775384.html) - 12:23 29/07/2024
-- 🌜 [Thiếu đồ ăn tại làng VĐV Olympic Paris](https://vnexpress.net/thieu-do-an-tai-lang-vdv-olympic-paris-4775334.html) - 11:59 29/07/2024
-- 🫶 [HLV nữ Thái Nguyên bị phạt vì dàn xếp tỷ số](https://vnexpress.net/hlv-nu-thai-nguyen-bi-phat-vi-dan-xep-ty-so-4775387.html) - 11:51 29/07/2024
-- 🦄 [Djokovic thắng dễ Nadal ở Olympic Paris 2024](https://vnexpress.net/ket-qua-djokovic-vs-nadal-olympic-paris-4775376-tong-thuat.html) - 11:31 29/07/2024
-- 🥳 [Nguyễn Huy Hoàng dừng bước ở vòng loại bơi 800m tự do Olympic 2024](https://vnexpress.net/nguyen-huy-hoang-dung-buoc-o-vong-loai-boi-800m-tu-do-olympic-2024-4775326.html) - 09:22 29/07/2024
-- 🐲 [Võ sĩ judo tẩy chay đối thủ Israel ở Olympic Paris 2024](https://vnexpress.net/vo-si-judo-tay-chay-doi-thu-israel-o-olympic-paris-2024-4775267.html) - 08:18 29/07/2024
-- 🧑‍🏫 [Yamal và bạn gái bỏ theo dõi nhau trên mạng xã hội](https://vnexpress.net/yamal-va-ban-gai-bo-theo-doi-nhau-tren-mang-xa-hoi-4775205.html) - 08:11 29/07/2024
-- 🤔 [Barca bị phớt lờ trước trận Man City](https://vnexpress.net/barca-bi-phot-lo-truoc-tran-man-city-4775219.html) - 07:55 29/07/2024
-- 😺 [Tranh cãi về VĐV dự Olympic từng bị kết án hiếp dâm trẻ em](https://vnexpress.net/tranh-cai-ve-vdv-du-olympic-tung-bi-ket-an-hiep-dam-tre-em-4775256.html) - 07:50 29/07/2024
-- 💪 [Ban tổ chức Olympic 2024 phát sai quốc ca, hiện nhầm quốc kỳ](https://vnexpress.net/ban-to-chuc-olympic-2024-phat-sai-quoc-ca-hien-nham-quoc-ky-4775206.html) - 07:32 29/07/2024
-- 💼 [Djokovic – Nadal: Rực cháy lần cuối](https://vnexpress.net/djokovic-nadal-ruc-chay-lan-cuoi-4775211.html) - 06:00 29/07/2024
-- 🕴 [Golfer Việt Nam dừng bước ở US Junior Amateur 2024](https://vnexpress.net/golfer-viet-nam-dung-buoc-o-us-junior-amateur-2024-4775174.html) - 04:24 29/07/2024
-- 🕯 [Ngày đáng nhớ cho Jon Rahm trên LIV Golf League](https://vnexpress.net/ngay-dang-nho-cho-jon-rahm-tren-liv-golf-league-4775138.html) - 03:43 29/07/2024
-- 📝 [&#39;CĐV Anh sẽ ân hận vì sự ra đi của HLV Southgate&#39;](https://vnexpress.net/cdv-anh-se-an-han-vi-su-ra-di-cua-hlv-southgate-4775053.html) - 03:43 29/07/2024
-- 🧐 [&#39;Bố bỉm sữa&#39; hóa người hùng bất đắc dĩ tại Olympic](https://vnexpress.net/bo-bim-sua-hoa-nguoi-hung-bat-dac-di-tai-olympic-4775045.html) - 02:54 29/07/2024
-- 🙉 [Russell phạm quy, bị hủy chiến thắng tại Spa-Francorchamps](https://vnexpress.net/russell-pham-quy-bi-huy-chien-thang-tai-spa-francorchamps-4775062.html) - 01:55 29/07/2024
-- 🏊 [VĐV cầm cờ Italy rơi nhẫn cưới xuống sông](https://vnexpress.net/vdv-cam-co-italy-roi-nhan-cuoi-xuong-song-4775036.html) - 01:07 29/07/2024
-- 🌊 [Duyên ghi bàn của cha con nhà Simeone tại Olympic](https://vnexpress.net/duyen-ghi-ban-cua-cha-con-nha-simeone-tai-olympic-4775022.html) - 01:05 29/07/2024
-- 👨‍🏫 [Huy Hoàng và Thuỳ Linh lâm trận ở Olympic 2024](https://vnexpress.net/huy-hoang-va-thuy-linh-lam-tran-o-olympic-2024-4775021.html) - 00:30 29/07/2024
-- 🥷 [HLV quyền Anh qua đời trong làng Olympic Paris 2024](https://vnexpress.net/hlv-quyen-anh-qua-doi-trong-lang-olympic-paris-2024-4775020.html) - 23:07 28/07/2024
-- ⚗️ [Nadal muốn làm mọi cách để cản bước Djokovic](https://vnexpress.net/nadal-muon-lam-moi-cach-de-can-buoc-djokovic-4775015.html) - 22:53 28/07/2024
-- 🌮 [Murray thoát hiểm thần kỳ ở Olympic Paris 2024](https://vnexpress.net/murray-thoat-hiem-than-ky-o-olympic-paris-2024-4775014.html) - 22:49 28/07/2024
-- 🤩 [Nadal đấu Djokovic ở vòng hai Olympic Paris 2024](https://vnexpress.net/nadal-dau-djokovic-o-vong-hai-olympic-paris-2024-4775013.html) - 19:35 28/07/2024
-- 🏊 [Nữ Nhật Bản thắng ngược Brazil ở phút bù Olympic 2024](https://vnexpress.net/nu-nhat-ban-thang-nguoc-brazil-o-phut-bu-olympic-2024-4775006.html) - 17:40 28/07/2024
-- 🐎 [Cua-rơ Mỹ ngã bốn lần trong một chặng đua Olympic 2024](https://vnexpress.net/cua-ro-my-nga-bon-lan-trong-mot-chang-dua-olympic-2024-4774932.html) - 11:30 28/07/2024
-- 💫 [Xạ thủ Trịnh Thu Vinh lỡ huy chương Olympic 2024](https://vnexpress.net/xa-thu-trinh-thu-vinh-lo-huy-chuong-olympic-2024-4774957.html) - 10:49 28/07/2024<!-- vnexpress-the-thao:END -->
+- 😺 [Trung Quốc thắng hiện tượng Triều Tiên ở bóng bàn Olympic 2024](https://vnexpress.net/trung-quoc-thang-hien-tuong-trieu-tien-o-bong-ban-olympic-2024-4775893.html) - 14:31 30/07/2024
+- 👍 [HC đồng Olympic 2024 xúc động khi vợ tiết lộ giới tính con đầu lòng](https://vnexpress.net/hc-dong-olympic-2024-xuc-dong-khi-vo-tiet-lo-gioi-tinh-con-dau-long-4775886.html) - 12:50 30/07/2024
+- 🐵 [Cua-rơ Anh bảo vệ HC vàng Olympic dù thủng lốp](https://vnexpress.net/cua-ro-anh-bao-ve-hc-vang-olympic-du-thung-lop-4775873.html) - 11:34 30/07/2024
+- 💫 [Phần thưởng dự kiến cho nhà vô địch golf Olympic 2024](https://vnexpress.net/phan-thuong-du-kien-cho-nha-vo-dich-golf-olympic-2024-4775866.html) - 11:05 30/07/2024
+- 🦆 [Triều Tiên gây sốc ở bóng bàn Olympic 2024](https://vnexpress.net/trieu-tien-gay-soc-o-bong-ban-olympic-2024-4775801.html) - 09:17 30/07/2024
+- 🙉 [Sông Seine - địa điểm thi đấu tai tiếng ở Olympic 2024](https://vnexpress.net/song-seine-dia-diem-thi-dau-tai-tieng-o-olympic-2024-4775809.html) - 09:06 30/07/2024
+- 📝 [Billiards Việt Nam bị cấm dự các giải quốc tế](https://vnexpress.net/billiards-viet-nam-bi-cam-du-cac-giai-quoc-te-4775775.html) - 08:58 30/07/2024
+- 💯 [Cảnh sát vô tình giúp golfer Venezuela đoạt cup PGA Tour](https://vnexpress.net/canh-sat-vo-tinh-giup-golfer-venezuela-doat-cup-pga-tour-4775762.html) - 08:49 30/07/2024
+- 🌈 [Phạm Thị Huệ không có vé vào bán kết rowing Olympic 2024](https://vnexpress.net/pham-thi-hue-khong-co-ve-vao-ban-ket-rowing-olympic-2024-4775759.html) - 08:30 30/07/2024
+- 🦩 [Dớp 2% giây khiến Anh lỡ hai HC vàng bơi Olympic Paris 2024](https://vnexpress.net/dop-2-giay-khien-anh-lo-hai-hc-vang-boi-olympic-paris-2024-4775744.html) - 07:58 30/07/2024
+- 🐲 [VĐV dự Olympic sau 30 năm chờ đợi](https://vnexpress.net/vdv-du-olympic-sau-30-nam-cho-doi-4775469.html) - 07:44 30/07/2024
+- 🌁 [Guardiola dùng từ &#39;phi thường&#39; để nói về Yamal](https://vnexpress.net/guardiola-dung-tu-phi-thuong-de-noi-ve-yamal-4775478.html) - 06:03 30/07/2024
+- 💯 [Kiếm thủ mang thai 7 tháng vẫn thắng ở Olympic 2024](https://vnexpress.net/kiem-thu-mang-thai-7-thang-van-thang-o-olympic-2024-4775678.html) - 05:56 30/07/2024
+- 🌝 [Djokovic: &#39;Không thể có tình anh em với Nadal&#39;](https://vnexpress.net/djokovic-khong-the-co-tinh-anh-em-voi-nadal-4775660.html) - 05:27 30/07/2024
+- 🤖 [VĐV Brazil bị trục xuất khỏi Olympic vì lén đi chơi với bạn trai](https://vnexpress.net/vdv-brazil-bi-truc-xuat-khoi-olympic-vi-len-di-choi-voi-ban-trai-4775649.html) - 04:28 30/07/2024
+- 🕯 [Lùi lịch môn triathlon Olympic vì sông Seine ô nhiễm](https://vnexpress.net/lui-lich-mon-triathlon-olympic-vi-song-seine-o-nhiem-4775627.html) - 04:22 30/07/2024
+- 🧰 [Hai võ sĩ từng trượt kiểm tra giới tính được dự Olympic 2024](https://vnexpress.net/hai-vo-si-tung-truot-kiem-tra-gioi-tinh-duoc-du-olympic-2024-4775497.html) - 03:25 30/07/2024
+- 🥳 [Nguồn cơn khiến Russell bị hủy kết quả tại Grand Prix Bỉ](https://vnexpress.net/nguon-con-khien-russell-bi-huy-ket-qua-tai-grand-prix-bi-4775314.html) - 03:19 30/07/2024
+- 👍 [Arsenal công bố trung vệ Riccardo Calafiori](https://vnexpress.net/arsenal-cong-bo-trung-ve-riccardo-calafiori-4775484.html) - 03:17 30/07/2024
+- 💪 [Nhật Bản tiếp tục dẫn đầu Olympic 2024](https://vnexpress.net/nhat-ban-tiep-tuc-dan-dau-olympic-2024-4775441.html) - 01:00 30/07/2024
+- 👹 [Alcaraz cứu set-point ở vòng hai Olympic Paris 2024](https://vnexpress.net/alcaraz-cuu-set-point-o-vong-hai-olympic-paris-2024-4775446.html) - 00:56 30/07/2024
+- 🧰 [Mbappe mua lại CLB hạng Nhì Pháp](https://vnexpress.net/mbappe-mua-lai-clb-hang-nhi-phap-4775448.html) - 00:51 30/07/2024
+- 🚀 [Sông Seine ô nhiễm đe dọa lịch thi triathlon Olympic 2024](https://vnexpress.net/song-seine-o-nhiem-de-doa-lich-thi-triathlon-olympic-2024-4775436.html) - 23:20 29/07/2024
+- 🎃 [Nadal cáu khi họp báo sau trận thua Djokovic](https://vnexpress.net/nadal-cau-khi-hop-bao-sau-tran-thua-djokovic-4775439.html) - 22:44 29/07/2024
+- 🧰 [Nguyễn Thùy Linh thắng trận ra quân Olympic Paris 2024](https://vnexpress.net/nguyen-thuy-linh-thang-tran-ra-quan-olympic-paris-2024-4775438.html) - 22:33 29/07/2024
+- 👀 [Cựu VĐV điền kinh tái xuất tại Olympic Paris 2024 ở môn bóng đá](https://vnexpress.net/cuu-vdv-dien-kinh-tai-xuat-tai-olympic-paris-2024-o-mon-bong-da-4775431.html) - 17:05 29/07/2024
+- 🌜 [Kình ngư Pháp phá kỷ lục 16 năm của Michael Phelps tại Olympic](https://vnexpress.net/kinh-ngu-phap-pha-ky-luc-16-nam-cua-michael-phelps-tai-olympic-4775428.html) - 17:00 29/07/2024
+- 🫶 [Bốn VĐV Việt Nam sớm chia tay Olympic 2024](https://vnexpress.net/bon-vdv-viet-nam-som-chia-tay-olympic-2024-4775384.html) - 12:23 29/07/2024
+- 🦄 [Thiếu đồ ăn tại làng VĐV Olympic Paris](https://vnexpress.net/thieu-do-an-tai-lang-vdv-olympic-paris-4775334.html) - 11:59 29/07/2024
+- 🥳 [HLV nữ Thái Nguyên bị phạt vì dàn xếp tỷ số](https://vnexpress.net/hlv-nu-thai-nguyen-bi-phat-vi-dan-xep-ty-so-4775387.html) - 11:51 29/07/2024
+- 🐲 [Djokovic thắng dễ Nadal ở Olympic Paris 2024](https://vnexpress.net/ket-qua-djokovic-vs-nadal-olympic-paris-4775376-tong-thuat.html) - 11:31 29/07/2024
+- 🧑‍🏫 [Nguyễn Huy Hoàng dừng bước ở vòng loại bơi 800m tự do Olympic 2024](https://vnexpress.net/nguyen-huy-hoang-dung-buoc-o-vong-loai-boi-800m-tu-do-olympic-2024-4775326.html) - 09:22 29/07/2024
+- 🤔 [Võ sĩ judo tẩy chay đối thủ Israel ở Olympic Paris 2024](https://vnexpress.net/vo-si-judo-tay-chay-doi-thu-israel-o-olympic-paris-2024-4775267.html) - 08:18 29/07/2024
+- 😺 [Yamal và bạn gái bỏ theo dõi nhau trên mạng xã hội](https://vnexpress.net/yamal-va-ban-gai-bo-theo-doi-nhau-tren-mang-xa-hoi-4775205.html) - 08:11 29/07/2024
+- 💪 [Barca bị phớt lờ trước trận Man City](https://vnexpress.net/barca-bi-phot-lo-truoc-tran-man-city-4775219.html) - 07:55 29/07/2024
+- 💼 [Tranh cãi về VĐV dự Olympic từng bị kết án hiếp dâm trẻ em](https://vnexpress.net/tranh-cai-ve-vdv-du-olympic-tung-bi-ket-an-hiep-dam-tre-em-4775256.html) - 07:50 29/07/2024
+- 🕴 [Ban tổ chức Olympic 2024 phát sai quốc ca, hiện nhầm quốc kỳ](https://vnexpress.net/ban-to-chuc-olympic-2024-phat-sai-quoc-ca-hien-nham-quoc-ky-4775206.html) - 07:32 29/07/2024
+- 🕯 [Djokovic – Nadal: Rực cháy lần cuối](https://vnexpress.net/djokovic-nadal-ruc-chay-lan-cuoi-4775211.html) - 06:00 29/07/2024
+- 📝 [Golfer Việt Nam dừng bước ở US Junior Amateur 2024](https://vnexpress.net/golfer-viet-nam-dung-buoc-o-us-junior-amateur-2024-4775174.html) - 04:24 29/07/2024
+- 🧐 [Ngày đáng nhớ cho Jon Rahm trên LIV Golf League](https://vnexpress.net/ngay-dang-nho-cho-jon-rahm-tren-liv-golf-league-4775138.html) - 03:43 29/07/2024
+- 🙉 [&#39;CĐV Anh sẽ ân hận vì sự ra đi của HLV Southgate&#39;](https://vnexpress.net/cdv-anh-se-an-han-vi-su-ra-di-cua-hlv-southgate-4775053.html) - 03:43 29/07/2024
+- 🏊 [&#39;Bố bỉm sữa&#39; hóa người hùng bất đắc dĩ tại Olympic](https://vnexpress.net/bo-bim-sua-hoa-nguoi-hung-bat-dac-di-tai-olympic-4775045.html) - 02:54 29/07/2024
+- 🌊 [Russell phạm quy, bị hủy chiến thắng tại Spa-Francorchamps](https://vnexpress.net/russell-pham-quy-bi-huy-chien-thang-tai-spa-francorchamps-4775062.html) - 01:55 29/07/2024
+- 👨‍🏫 [VĐV cầm cờ Italy rơi nhẫn cưới xuống sông](https://vnexpress.net/vdv-cam-co-italy-roi-nhan-cuoi-xuong-song-4775036.html) - 01:07 29/07/2024
+- 🥷 [Duyên ghi bàn của cha con nhà Simeone tại Olympic](https://vnexpress.net/duyen-ghi-ban-cua-cha-con-nha-simeone-tai-olympic-4775022.html) - 01:05 29/07/2024
+- ⚗️ [Huy Hoàng và Thuỳ Linh lâm trận ở Olympic 2024](https://vnexpress.net/huy-hoang-va-thuy-linh-lam-tran-o-olympic-2024-4775021.html) - 00:30 29/07/2024
+- 🌮 [HLV quyền Anh qua đời trong làng Olympic Paris 2024](https://vnexpress.net/hlv-quyen-anh-qua-doi-trong-lang-olympic-paris-2024-4775020.html) - 23:07 28/07/2024
+- 🤩 [Nadal muốn làm mọi cách để cản bước Djokovic](https://vnexpress.net/nadal-muon-lam-moi-cach-de-can-buoc-djokovic-4775015.html) - 22:53 28/07/2024
+- 🏊 [Murray thoát hiểm thần kỳ ở Olympic Paris 2024](https://vnexpress.net/murray-thoat-hiem-than-ky-o-olympic-paris-2024-4775014.html) - 22:49 28/07/2024
+- 🐎 [Nadal đấu Djokovic ở vòng hai Olympic Paris 2024](https://vnexpress.net/nadal-dau-djokovic-o-vong-hai-olympic-paris-2024-4775013.html) - 19:35 28/07/2024
+- 💫 [Nữ Nhật Bản thắng ngược Brazil ở phút bù Olympic 2024](https://vnexpress.net/nu-nhat-ban-thang-nguoc-brazil-o-phut-bu-olympic-2024-4775006.html) - 17:40 28/07/2024<!-- vnexpress-the-thao:END -->
