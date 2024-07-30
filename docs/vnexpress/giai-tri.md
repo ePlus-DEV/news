@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Võ Hoàng Yến bế bụng bầu 8 tháng catwalk](https://vnexpress.net/vo-hoang-yen-be-bung-bau-8-thang-catwalk-4775432.html) - 22:21 29/07/2024
-- 💫 [Diễn viên Sơn &#39;sọ&#39; sau bốn năm chống chọi ung thư](https://vnexpress.net/dien-vien-son-so-sau-bon-nam-chong-choi-ung-thu-4773972.html) - 17:00 29/07/2024
+- 💫 [Diễn viên &#39;Đội đặc nhiệm nhà C21&#39; sau bốn năm chống chọi ung thư](https://vnexpress.net/dien-vien-doi-dac-nhiem-nha-c21-sau-bon-nam-chong-choi-ung-thu-4773972.html) - 17:00 29/07/2024
 - 🌮 [Ben Affleck mua nhà riêng giữa tin đồn ly hôn](https://vnexpress.net/ben-affleck-mua-nha-rieng-giua-tin-don-ly-hon-4775296.html) - 13:30 29/07/2024
 - 🧠 [&#39;Deadpool 3&#39; mở màn hơn 400 triệu USD](https://vnexpress.net/deadpool-3-mo-man-hon-400-trieu-usd-4775169.html) - 13:00 29/07/2024
 - 👨‍🏫 [Hublot ra mắt mẫu đồng hồ đính kim cương đen](https://vnexpress.net/hublot-ra-mat-mau-dong-ho-dinh-kim-cuong-den-4775319.html) - 13:00 29/07/2024
