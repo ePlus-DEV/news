@@ -247,9 +247,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌈 [Mưa lớn khiến 25 hộ dân bị cô lập tại Quảng Ninh](https://laodong.vn/ban-tin/mua-lon-khien-25-ho-dan-bi-co-lap-tai-quang-ninh-1373748.ldo) - 13:01 30/07/2024
 - 🐲 [Ngăn ngừa nguy cơ bệnh tiểu đường bằng loại rau quen thuộc](https://laodong.vn/dinh-duong-am-thuc/ngan-ngua-nguy-co-benh-tieu-duong-bang-loai-rau-quen-thuoc-1373751.ldo) - 13:00 30/07/2024
 - 🚀 [Tin 20h: Rủi ro cháy nổ từ xe điện không rõ nguồn gốc](https://laodong.vn/video-xa-hoi/tin-20h-rui-ro-chay-no-tu-xe-dien-khong-ro-nguon-goc-1373723.ldo) - 13:00 30/07/2024
-- 😺 [Quy định mới về vượt xe, hàng triệu tài xế cần nắm rõ](https://laodong.vn/xe/quy-dinh-moi-ve-vuot-xe-hang-trieu-tai-xe-can-nam-ro-1373505.ldo) - 13:00 30/07/2024
-- 🕴 [Người dân dễ dàng kiểm tra sổ đỏ thật hay giả bằng mã QR](https://laodong.vn/bat-dong-san/nguoi-dan-de-dang-kiem-tra-so-do-that-hay-gia-bang-ma-qr-1373522.ldo) - 13:00 30/07/2024
-- 🌋 [Trình tự giải quyết đối với sĩ quan có đơn xin xuất ngũ](https://laodong.vn/tu-van-phap-luat/trinh-tu-giai-quyet-doi-voi-si-quan-co-don-xin-xuat-ngu-1373527.ldo) - 13:00 30/07/2024
+- 😺 [Có được chấm dứt hợp đồng thuê nhà khi bị tăng giá thuê?](https://laodong.vn/tu-van-phap-luat/co-duoc-cham-dut-hop-dong-thue-nha-khi-bi-tang-gia-thue-1373044.ldo) - 13:00 30/07/2024
+- 🕴 [Quy định mới về vượt xe, hàng triệu tài xế cần nắm rõ](https://laodong.vn/xe/quy-dinh-moi-ve-vuot-xe-hang-trieu-tai-xe-can-nam-ro-1373505.ldo) - 13:00 30/07/2024
+- 🌋 [Người dân dễ dàng kiểm tra sổ đỏ thật hay giả bằng mã QR](https://laodong.vn/bat-dong-san/nguoi-dan-de-dang-kiem-tra-so-do-that-hay-gia-bang-ma-qr-1373522.ldo) - 13:00 30/07/2024
 - 💄 [Cách làm món gà cà ri thơm ngon, bổ dưỡng](https://laodong.vn/chuyen-nha-minh/cach-lam-mon-ga-ca-ri-thom-ngon-bo-duong-1373640.ldo) - 13:00 30/07/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
