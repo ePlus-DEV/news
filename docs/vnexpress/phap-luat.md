@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cảnh sát gìn giữ hòa bình biểu diễn chống khủng bố, bảo vệ yếu nhân](https://vnexpress.net/canh-sat-gin-giu-hoa-binh-bieu-dien-chong-khung-bo-bao-ve-yeu-nhan-4775422.html) - 17:00 29/07/2024
+- 😎 [Cảnh sát gìn giữ hòa bình diễn tập chống khủng bố, bảo vệ yếu nhân](https://vnexpress.net/canh-sat-gin-giu-hoa-binh-dien-tap-chong-khung-bo-bao-ve-yeu-nhan-4775422.html) - 17:00 29/07/2024
 - 🥰 [8 sợi lông mèo giúp cảnh sát vạch tội kẻ sát hại bạn](https://vnexpress.net/8-soi-long-meo-giup-canh-sat-vach-toi-ke-ham-hai-ban-4775370.html) - 17:00 29/07/2024
 - 🎓 [Cố ý phạm tội để chứng minh mình còn sống](https://vnexpress.net/co-y-pham-toi-de-chung-minh-minh-con-song-4775002.html) - 17:00 29/07/2024
 - 🤓 [3 người Trung Quốc bị bắt với cáo buộc giết tài xế taxi cướp ôtô](https://vnexpress.net/3-nguoi-trung-quoc-bi-bat-voi-cao-buoc-giet-tai-xe-taxi-cuop-oto-4775388.html) - 12:39 29/07/2024
