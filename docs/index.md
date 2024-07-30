@@ -254,7 +254,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- nld:START -->
 - 🐎 [UEH tổ chức hội thảo quốc tế ELG2024](https://diaoc.nld.com.vn/ueh-to-chuc-hoi-thao-quoc-te-elg2024-196240730180858814.htm) - 15:59 30/07/2024
 - 😺 [Giao dịch nhanh chóng khi nộp lệ phí xét tuyển Đại học 2024 bằng MoMo](https://phunu.nld.com.vn/giao-dich-nhanh-chong-khi-nop-le-phi-xet-tuyen-dai-hoc-2024-bang-momo-19624073018005212.htm) - 15:59 30/07/2024
-- 👍 [Bóng đá nam Olympic 2024: Argentina 1-0 Ukraine](https://nld.com.vn/bong-da-nam-olympic-2024-argentina-quyet-dau-ukraine-196240730214607714.htm) - 14:25 30/07/2024
+- 👍 [Bóng đá nam Olympic 2024: Argentina 2-0 Ukraine](https://nld.com.vn/bong-da-nam-olympic-2024-argentina-quyet-dau-ukraine-196240730214607714.htm) - 14:25 30/07/2024
 - 🥷 [Thủ tướng Phạm Minh Chính lên đường thăm cấp Nhà nước tới Ấn Độ](https://nld.com.vn/thu-tuong-pham-minh-chinh-len-duong-tham-cap-nha-nuoc-toi-an-do-196240730211109627.htm) - 14:17 30/07/2024
 - 🤔 [Chủ tịch nước Tô Lâm đề nghị EU sớm gỡ bỏ &quot;thẻ vàng&quot; với thủy sản Việt Nam](https://nld.com.vn/chu-tich-nuoc-to-lam-de-nghi-eu-som-go-bo-the-vang-voi-thuy-san-viet-nam-196240730193327273.htm) - 14:15 30/07/2024
 - 🌈 [Đại võ sư quốc tế Lê Kim Hòa qua đời](https://nld.com.vn/dai-vo-su-quoc-te-le-kim-hoa-qua-doi-196240730205128173.htm) - 14:03 30/07/2024
