@@ -27,7 +27,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Hiểm họa với xe tăng Israel nếu tiến vào Lebanon](https://vnexpress.net/hiem-hoa-voi-xe-tang-israel-neu-tien-vao-lebanon-4774119.html) - 18:00 30/07/2024
-- 🧰 [Argentina vào tứ kết Olympic](https://vnexpress.net/argentina-vao-tu-ket-olympic-4775925.html) - 17:40 30/07/2024
+- 🧰 [Argentina vào tứ kết Olympic sau 16 năm chờ đợi](https://vnexpress.net/argentina-vao-tu-ket-olympic-sau-16-nam-cho-doi-4775925.html) - 17:40 30/07/2024
 - 🥰 [3 con giáp thích là làm chẳng cần kế hoạch](https://vnexpress.net/3-con-giap-thich-la-lam-chang-can-ke-hoach-4775358.html) - 17:02 30/07/2024
 - 🌏 [Nhà tạm cư ở Hải Phòng xuống cấp](https://vnexpress.net/nha-tam-cu-o-hai-phong-xuong-cap-4775335.html) - 17:00 30/07/2024
 - 🧐 [Tiết mục thi Miss Grand Vietnam nhầm Bà Trưng với Bà Triệu](https://vnexpress.net/tiet-muc-thi-miss-grand-vietnam-nham-ba-trung-voi-ba-trieu-4775907.html) - 17:00 30/07/2024
