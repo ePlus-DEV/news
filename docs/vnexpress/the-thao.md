@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Argentina vào tứ kết Olympic](https://vnexpress.net/argentina-vao-tu-ket-olympic-4775925.html) - 17:40 30/07/2024
+- 🪜 [Argentina vào tứ kết Olympic sau 16 năm chờ đợi](https://vnexpress.net/argentina-vao-tu-ket-olympic-sau-16-nam-cho-doi-4775925.html) - 17:40 30/07/2024
 - 🦩 [Noah Lyles: &#39;Tôi luôn là người nhanh nhất thế giới&#39;](https://vnexpress.net/noah-lyles-toi-luon-la-nguoi-nhanh-nhat-the-gioi-4775920.html) - 17:00 30/07/2024
 - 🧰 [Deguchi - người viết lại lịch sử judo Canada](https://vnexpress.net/deguchi-nguoi-viet-lai-lich-su-judo-canada-4775876.html) - 17:00 30/07/2024
 - 🤗 [Bức ảnh VĐV lướt sóng ăn mừng trên không gây sốt ở Olympic](https://vnexpress.net/buc-anh-vdv-luot-song-an-mung-tren-khong-gay-sot-o-olympic-4775826.html) - 17:00 30/07/2024
