@@ -57,5 +57,4 @@ sidebar_position: 9
 - 👍 [Mất hơn tỷ, chị cả không tiếc nhưng so đo từng đồng với bố mẹ](https://vnexpress.net/mat-hon-ty-chi-ca-khong-tiec-nhung-so-do-tung-dong-voi-bo-me-4775979.html) - 12:00 31/07/2024
 - 🔥 [Siêu máy tính nhanh nhất thế giới giúp chế tạo siêu kim cương](https://vnexpress.net/sieu-may-tinh-nhanh-nhat-the-gioi-giup-che-tao-sieu-kim-cuong-4775955.html) - 12:00 31/07/2024
 - 💄 [Danh thủ Hồng Sơn hết mình ở cuộc thi hát](https://vnexpress.net/danh-thu-hong-son-het-minh-o-cuoc-thi-hat-4775828.html) - 12:00 31/07/2024
-- 🤡 [Nam lễ tân trúng 250 triệu đồng khi uống Trà Xanh Không Độ](https://vnexpress.net/nam-le-tan-trung-250-trieu-dong-khi-uong-tra-xanh-khong-do-4776261.html) - 12:00 31/07/2024
-- ⛽️ [Rò nước tiểu sau phẫu thuật tử cung](https://vnexpress.net/ro-nuoc-tieu-sau-phau-thuat-tu-cung-4776253.html) - 12:00 31/07/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🤡 [Nam lễ tân trúng 250 triệu đồng khi uống Trà Xanh Không Độ](https://vnexpress.net/nam-le-tan-trung-250-trieu-dong-khi-uong-tra-xanh-khong-do-4776261.html) - 12:00 31/07/2024<!-- vnexpress-tin-moi-nhat:END -->
