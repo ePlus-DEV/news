@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [Vietnam Airlines lãi thêm hơn 1.000 tỷ đồng](https://vnexpress.net/vietnam-airlines-lai-them-hon-1-000-ty-dong-4776284.html) - 13:27 31/07/2024
 - 🐲 [Quốc Cường Gia Lai lỗ nặng nhất 12 năm](https://vnexpress.net/quoc-cuong-gia-lai-lo-nang-nhat-12-nam-4776297.html) - 13:24 31/07/2024
 - 🔥 [Vinamilk bứt tốc mảng xuất khẩu](https://vnexpress.net/vinamilk-but-toc-mang-xuat-khau-4776246.html) - 12:30 31/07/2024
-- 🐵 [Vợ chủ tịch Techcombank và người liên quan sở hữu một phần ba cổ phần ngân hàng](https://vnexpress.net/vo-chu-tich-techcombank-va-nguoi-lien-quan-so-huu-mot-phan-ba-co-phan-ngan-hang-4776273.html) - 11:50 31/07/2024
+- 🐵 [Các cá nhân đang nắm trên 1% vốn của Techcombank](https://vnexpress.net/cac-ca-nhan-dang-nam-tren-1-von-cua-techcombank-4776273.html) - 11:50 31/07/2024
 - 🦅 [Thủ tướng mong doanh nghiệp Ấn Độ coi Việt Nam là điểm đến chiến lược](https://vnexpress.net/thu-tuong-mong-doanh-nghiep-an-do-coi-viet-nam-la-diem-den-chien-luoc-4776219.html) - 09:49 31/07/2024
 - 😺 [Thanh khoản cổ phiếu Xây dựng Hòa Bình tăng vọt](https://vnexpress.net/thanh-khoan-co-phieu-xay-dung-hoa-binh-tang-vot-4776252.html) - 09:25 31/07/2024
 - 🤩 [Nợ xấu VietinBank tăng](https://vnexpress.net/no-xau-vietinbank-tang-4776213.html) - 08:44 31/07/2024
