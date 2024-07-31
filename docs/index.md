@@ -251,7 +251,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Công ty Hoàng Sinh đang nợ 26 tỉ đồng tiền bảo hiểm xã hội](https://nld.com.vn/cong-ty-hoang-sinh-dang-no-26-ti-dong-tien-bao-hiem-xa-hoi-19624073108511539.htm) - 02:02 31/07/2024
+- 🐎 [Công ty Hoàng Sinh nợ 26 tỉ đồng tiền bảo hiểm xã hội](https://nld.com.vn/cong-ty-hoang-sinh-dang-no-26-ti-dong-tien-bao-hiem-xa-hoi-19624073108511539.htm) - 02:02 31/07/2024
 - 😺 [Thêm trường hợp lao động nữ được nghỉ làm đến 6 tháng?](https://nld.com.vn/them-truong-hop-lao-dong-nu-duoc-nghi-lam-den-6-thang-19624073108435108.htm) - 01:56 31/07/2024
 - 👍 [Bà Kamala Harris “xoay chuyển tình thế” tại các bang chiến trường](https://nld.com.vn/ba-kamala-harris-xoay-chuyen-tinh-the-tai-cac-bang-chien-truong-196240731084556964.htm) - 01:53 31/07/2024
 - 🥷 [Đinh Tiến Đạt nói Binz là người si tình](https://nld.com.vn/dinh-tien-dat-noi-binz-la-nguoi-si-tinh-196240731041734282.htm) - 01:51 31/07/2024
