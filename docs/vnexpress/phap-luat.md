@@ -11,7 +11,7 @@ sidebar_position: 12
 - 🎊 [Làm giả giấy uỷ quyền, lừa hơn 10 tỷ đồng](https://vnexpress.net/lam-gia-giay-uy-quyen-lua-hon-10-ty-dong-4776172.html) - 07:48 31/07/2024
 - 🙉 [Cựu phó chủ tịch tỉnh Phú Thọ bị bắt vì đánh bạc](https://vnexpress.net/cuu-pho-chu-tich-tinh-phu-tho-bi-bat-vi-danh-bac-4776139.html) - 07:27 31/07/2024
 - 🤡 [Sát hại con dâu vì &#39;bị ngăn cản yêu đương&#39;](https://vnexpress.net/sat-hai-con-dau-vi-bi-ngan-can-yeu-duong-4776162.html) - 07:12 31/07/2024
-- 🗽 [7 cựu nhân viên F88 lĩnh án vì cưỡng đoạt tài sản](https://vnexpress.net/7-cuu-nhan-vien-f88-linh-an-vi-cuong-doat-tai-san-4776156.html) - 06:45 31/07/2024
+- 🗽 [Nhóm cựu nhân viên F88 lĩnh án vì cưỡng đoạt tài sản](https://vnexpress.net/nhom-cuu-nhan-vien-f88-linh-an-vi-cuong-doat-tai-san-4776156.html) - 06:45 31/07/2024
 - 🌋 [Cướp Bitcoin trị giá 170.000 USD rồi sát hại nạn nhân](https://vnexpress.net/cuop-bitcoin-tri-gia-170-000-usd-roi-sat-hai-nan-nhan-4775919.html) - 05:36 31/07/2024
 - 🎬 [Nữ quản giáo hầu tòa vì quan hệ tình dục với tù nhân](https://vnexpress.net/nu-quan-giao-hau-toa-vi-quan-he-tinh-duc-voi-tu-nhan-4776121.html) - 05:01 31/07/2024
 - 💯 [Thủ quỹ tạo hiện trường giả vụ trộm trong cơ quan](https://vnexpress.net/thu-quy-tao-hien-truong-gia-vu-trom-trong-co-quan-4775909.html) - 02:26 31/07/2024
