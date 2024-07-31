@@ -6,7 +6,7 @@ sidebar_position: 6
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Cô vợ Nga dạy chồng &#39;thành đàn ông Việt&#39;](https://vnexpress.net/co-vo-nga-day-chong-thanh-dan-ong-viet-4775434.html) - 23:00 30/07/2024
 - 🎓 [Tại sao người có hôn nhân hạnh phúc vẫn ngoại tình?](https://vnexpress.net/tai-sao-nguoi-co-hon-nhan-hanh-phuc-van-ngoai-tinh-4775808.html) - 13:32 30/07/2024
-- 🚦 [Canh bún Hà Nội truyền thống](https://vnexpress.net/canh-bun-ha-noi-truyen-thong-4775380.html) - 11:00 30/07/2024
+- 🚦 [Canh bún Hà Nội truyền thống](https://vnexpress.net/doi-song-cooking-canh-bun-ha-noi-truyen-thong-4775380.html) - 11:00 30/07/2024
 - 🦣 [Trả tiền cho ứng viên đi phỏng vấn](https://vnexpress.net/tra-tien-cho-ung-vien-di-phong-van-4775731.html) - 09:43 30/07/2024
 - 🎓 [5 mẹo triệt tiêu thói lãng phí tiền bạc](https://vnexpress.net/5-meo-triet-tieu-thoi-lang-phi-tien-bac-4775426.html) - 07:12 30/07/2024
 - 🎭 [Vì sao các quốc gia bất lực trong việc tăng tỷ lệ sinh?](https://vnexpress.net/vi-sao-cac-quoc-gia-bat-luc-trong-viec-tang-ty-le-sinh-4775186.html) - 04:31 30/07/2024
@@ -15,7 +15,7 @@ sidebar_position: 6
 - 💪 [Vợ chồng tái hiện đám cưới Nam Bộ xưa](https://vnexpress.net/vo-chong-tai-hien-dam-cuoi-nam-bo-xua-4773792.html) - 23:00 29/07/2024
 - 🐻 [Món quà bất ngờ của các shipper](https://vnexpress.net/mon-qua-bat-ngo-cua-cac-shipper-4775199.html) - 17:00 29/07/2024
 - 🧠 [Người Hà Nội ngỡ ngàng vì sông Tô Lịch chuyển màu xanh](https://vnexpress.net/nguoi-ha-noi-ngo-ngang-vi-song-to-lich-chuyen-mau-xanh-4775399.html) - 15:44 29/07/2024
-- 🐘 [Những thực phẩm không nên cho vào nồi nấu chậm](https://vnexpress.net/nhung-thuc-pham-khong-nen-cho-vao-noi-nau-cham-4775188.html) - 09:26 29/07/2024
+- 🐘 [Những thực phẩm không nên cho vào nồi nấu chậm](https://vnexpress.net/doi-song-cooking-nhung-thuc-pham-khong-nen-cho-vao-noi-nau-cham-4775188.html) - 09:26 29/07/2024
 - 👹 [Cách gây ấn tượng với nhà tuyển dụng](https://vnexpress.net/cach-gay-an-tuong-voi-nha-tuyen-dung-4775109.html) - 07:30 29/07/2024
 - 💂 [Nở rộ nghề &#39;bạn gái đường phố&#39;](https://vnexpress.net/no-ro-nghe-ban-gai-duong-pho-4775001.html) - 03:00 29/07/2024
 - 🦍 [Được một ân nhân cứu sống hai lần, cách nhau 25 năm](https://vnexpress.net/duoc-mot-an-nhan-cuu-song-hai-lan-cach-nhau-25-nam-4774961.html) - 01:29 29/07/2024
