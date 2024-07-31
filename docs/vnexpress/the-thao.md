@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Lê Đức Phát thua ngược, lỡ vé vào vòng 1/8 Olympic 2024](https://vnexpress.net/le-duc-phat-thua-nguoc-lo-ve-vao-vong-1-8-olympic-2024-4776343.html) - 22:55 31/07/2024
-- 🦩 [VĐV bóng bàn thi đấu Olympic từng nhận cảnh báo bị liệt](https://vnexpress.net/vdv-bong-ban-thi-dau-olympic-tung-nhan-canh-bao-bi-liet-4776334.html) - 17:00 31/07/2024
+- 🦩 [VĐV bóng bàn Olympic từng nhận cảnh báo bị liệt](https://vnexpress.net/vdv-bong-ban-olympic-tung-nhan-canh-bao-bi-liet-4776334.html) - 17:00 31/07/2024
 - 🧰 [Chelsea không trừng phạt Enzo vụ phân biệt chủng tộc](https://vnexpress.net/chelsea-khong-trung-phat-enzo-vu-phan-biet-chung-toc-4776330.html) - 17:00 31/07/2024
 - 🤗 [Kình ngư Brazil nhờ luật sư sau khi bị trục xuất khỏi Olympic](https://vnexpress.net/kinh-ngu-brazil-nho-luat-su-sau-khi-bi-truc-xuat-khoi-olympic-4776329.html) - 17:00 31/07/2024
 - 🥳 [Djokovic đấu Tsitsipas ở tứ kết Olympic Paris 2024](https://vnexpress.net/djokovic-dau-tsitsipas-o-tu-ket-olympic-paris-2024-4776335.html) - 16:36 31/07/2024
