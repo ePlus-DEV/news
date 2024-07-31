@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Giếng khoan phun nước cao hơn 20 m](https://vnexpress.net/gieng-khoan-phun-nuoc-cao-hon-20-m-4776282.html) - 10:24 31/07/2024
+- 🦒 [Giếng khoan cạn khô bỗng phun nước cao 30 m](https://vnexpress.net/gieng-khoan-can-kho-bong-phun-nuoc-cao-30-m-4776282.html) - 10:24 31/07/2024
 - 🤓 [Bắc Ninh có tân Chủ tịch HĐND, UBND tỉnh](https://vnexpress.net/bac-ninh-co-tan-chu-tich-hdnd-ubnd-tinh-4776051.html) - 09:47 31/07/2024
 - ⚗️ [Chủ tịch nước Tô Lâm: Tiếp tục đẩy mạnh cải cách tư pháp](https://vnexpress.net/chu-tich-nuoc-to-lam-tiep-tuc-day-manh-cai-cach-tu-phap-4776199.html) - 09:16 31/07/2024
 - 🌊 [Việt Nam được xuất khẩu khỉ qua Trung Quốc](https://vnexpress.net/viet-nam-duoc-xuat-khau-khi-qua-trung-quoc-4776175.html) - 08:11 31/07/2024
