@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Cho vợ đưa nhân tình về sống chung](https://vnexpress.net/cho-vo-dua-nhan-tinh-ve-song-chung-4776062.html) - 05:14 31/07/2024
+- 🚀 [Bị chỉ trích vì đưa nhân tình về sống chung với chồng](https://vnexpress.net/bi-chi-trich-vi-dua-nhan-tinh-ve-song-chung-voi-chong-4776062.html) - 05:14 31/07/2024
 - 🎓 [Tự nói chuyện với chính mình có bình thường không?](https://vnexpress.net/tu-noi-chuyen-voi-chinh-minh-co-binh-thuong-khong-4776059.html) - 04:47 31/07/2024
 - 🚦 [5-1 là &#39;tỷ lệ vàng&#39; cho hôn nhân](https://vnexpress.net/5-1-la-ty-le-vang-cho-hon-nhan-4776095.html) - 04:11 31/07/2024
 - 🦣 [Trung Quốc lần đầu tiên đào tạo chuyên gia hôn nhân](https://vnexpress.net/trung-quoc-lan-dau-tien-dao-tao-chuyen-gia-hon-nhan-4775898.html) - 04:10 31/07/2024
