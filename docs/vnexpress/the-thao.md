@@ -11,7 +11,7 @@ sidebar_position: 5
 - 🥳 [Argentina vào tứ kết Olympic sau 16 năm chờ đợi](https://vnexpress.net/argentina-vao-tu-ket-olympic-sau-16-nam-cho-doi-4775925.html) - 17:40 30/07/2024
 - 🦣 [Deguchi - người viết lại lịch sử judo Canada](https://vnexpress.net/deguchi-nguoi-viet-lai-lich-su-judo-canada-4775876.html) - 17:00 30/07/2024
 - 🌜 [Noah Lyles: &#39;Tôi luôn là người nhanh nhất thế giới&#39;](https://vnexpress.net/noah-lyles-toi-luon-la-nguoi-nhanh-nhat-the-gioi-4775920.html) - 17:00 30/07/2024
-- 🫶 [Bức ảnh VĐV lướt sóng ăn mừng trên không gây sốt ở Olympic](https://vnexpress.net/buc-anh-vdv-luot-song-an-mung-tren-khong-gay-sot-o-olympic-4775826.html) - 17:00 30/07/2024
+- 🫶 [Ảnh VĐV lướt sóng ăn mừng trên không gây sốt ở Olympic](https://vnexpress.net/anh-vdv-luot-song-an-mung-tren-khong-gay-sot-o-olympic-4775826.html) - 17:00 30/07/2024
 - 🌜 [Tây Ban Nha thua Ai Cập, gặp Nhật Bản ở tứ kết Olympic](https://vnexpress.net/tay-ban-nha-thua-ai-cap-gap-nhat-ban-o-tu-ket-olympic-4775913.html) - 15:44 30/07/2024
 - 😺 [Trung Quốc thắng hiện tượng Triều Tiên ở bóng bàn Olympic 2024](https://vnexpress.net/trung-quoc-thang-hien-tuong-trieu-tien-o-bong-ban-olympic-2024-4775893.html) - 14:31 30/07/2024
 - 👍 [HC đồng Olympic 2024 xúc động khi vợ tiết lộ giới tính con đầu lòng](https://vnexpress.net/hc-dong-olympic-2024-xuc-dong-khi-vo-tiet-lo-gioi-tinh-con-dau-long-4775886.html) - 12:50 30/07/2024
