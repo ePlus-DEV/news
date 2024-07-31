@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Cảnh sát mai phục bắt băng móc túi trong lễ tốt nghiệp](https://vnexpress.net/canh-sat-mai-phuc-bat-bang-moc-tui-trong-le-tot-nghiep-4776276.html) - 11:44 31/07/2024
 - 🥰 [Hai nghi phạm giết người tại quán karaoke ra đầu thú](https://vnexpress.net/hai-nghi-pham-giet-nguoi-tai-quan-karaoke-ra-dau-thu-4776233.html) - 09:29 31/07/2024
 - 🎓 [TAND TP HCM tìm bị hại mua trái phiếu 30.000 tỷ đồng của Vạn Thịnh Phát](https://vnexpress.net/tand-tp-hcm-tim-bi-hai-mua-trai-phieu-30-000-ty-dong-cua-van-thinh-phat-4776228.html) - 09:20 31/07/2024
-- 🤓 [Cựu giám đốc CDC Đăk Lăk khai mâu thuẫn với nhân viên Việt Á](https://vnexpress.net/cuu-giam-doc-cdc-dak-lak-khai-mau-thuan-voi-nhan-vien-viet-a-4776155.html) - 08:20 31/07/2024
+- 🤓 [Cựu giám đốc CDC Đăk Lăk khai &#39;không nhận tiền của Việt Á&#39;](https://vnexpress.net/cuu-giam-doc-cdc-dak-lak-khai-khong-nhan-tien-cua-viet-a-4776155.html) - 08:20 31/07/2024
 - 🎊 [Làm giả giấy uỷ quyền, lừa hơn 10 tỷ đồng](https://vnexpress.net/lam-gia-giay-uy-quyen-lua-hon-10-ty-dong-4776172.html) - 07:48 31/07/2024
 - 🙉 [Cựu phó chủ tịch tỉnh Phú Thọ bị bắt vì đánh bạc](https://vnexpress.net/cuu-pho-chu-tich-tinh-phu-tho-bi-bat-vi-danh-bac-4776139.html) - 07:27 31/07/2024
 - 🤡 [Sát hại con dâu vì &#39;bị ngăn cản yêu đương&#39;](https://vnexpress.net/sat-hai-con-dau-vi-bi-ngan-can-yeu-duong-4776162.html) - 07:12 31/07/2024
