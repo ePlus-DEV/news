@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Điểm chuẩn ĐH Công thương TP HCM có thể tăng 1-3](https://vnexpress.net/diem-chuan-dh-cong-thuong-tp-hcm-co-the-tang-1-3-4775987.html) - 03:14 31/07/2024
+- 🤓 [Điểm chuẩn Đại học Công thương TP HCM có thể tăng 1-3](https://vnexpress.net/diem-chuan-dai-hoc-cong-thuong-tp-hcm-co-the-tang-1-3-4775987.html) - 03:14 31/07/2024
 - 🦆 [Năm tố chất gen Z nên có nếu theo học ngành AI](https://vnexpress.net/nam-to-chat-gen-z-nen-co-neu-theo-hoc-nganh-ai-4775507.html) - 02:00 31/07/2024
 - 🦩 [Đường đến huy chương vàng Olympic Vật lý của nam sinh Bắc Giang](https://vnexpress.net/duong-den-huy-chuong-vang-olympic-vat-ly-cua-nam-sinh-bac-giang-4775905.html) - 23:28 30/07/2024
 - 🌮 [Học Công nghệ thông tin hay Khoa học dữ liệu?](https://vnexpress.net/hoc-cong-nghe-thong-tin-hay-khoa-hoc-du-lieu-4775854.html) - 16:59 30/07/2024
