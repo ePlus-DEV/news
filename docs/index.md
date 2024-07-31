@@ -251,7 +251,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- nld:START -->
 - 🐎 [Những lưu ý về lãi suất khi sử dụng thẻ tín dụng](https://diaoc.nld.com.vn/nhung-luu-y-ve-lai-suat-khi-su-dung-the-tin-dung-196240724162104998.htm) - 07:26 31/07/2024
 - 😺 [Hướng dẫn đăng ký cấp tài khoản giao dịch thuế điện tử](https://diaoc.nld.com.vn/huong-dan-dang-ky-cap-tai-khoan-giao-dich-thue-dien-tu-196240724161753056.htm) - 07:25 31/07/2024
-- 👍 [Miễn nhiệm, bãi nhiệm 2 Phó chủ tỉnh](https://nld.com.vn/mien-nhiem-bai-nhiem-2-pho-chu-tinh-196240731140748192.htm) - 07:24 31/07/2024
+- 👍 [Miễn nhiệm, bãi nhiệm 2 Phó chủ tịch UBND tỉnh](https://nld.com.vn/mien-nhiem-bai-nhiem-2-pho-chu-tinh-196240731140748192.htm) - 07:24 31/07/2024
 - 🥷 [Red Comms ra mắt công ty truyền thông y tế doctor 247](https://phunu.nld.com.vn/red-comms-ra-mat-cong-ty-truyen-thong-y-te-doctor-247-196240731135255637.htm) - 07:23 31/07/2024
 - 🤔 [Backbase ra mắt Trung tâm Xuất sắc toàn cầu đầu tiên về AI tại Việt Nam](https://nld.com.vn/backbase-ra-mat-trung-tam-xuat-sac-toan-cau-dau-tien-ve-ai-tai-viet-nam-196240731133542899.htm) - 07:22 31/07/2024
 - 🌈 [Bị phạt tù vì khủng bố để thu hồi nợ](https://nld.com.vn/bi-phat-tu-vi-khung-bo-de-thu-hoi-no-196240731133455638.htm) - 07:08 31/07/2024
