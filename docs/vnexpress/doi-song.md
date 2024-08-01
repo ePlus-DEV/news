@@ -6,7 +6,7 @@ sidebar_position: 6
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Vì sao một số cha mẹ để con vô lễ?](https://vnexpress.net/vi-sao-mot-so-cha-me-de-con-vo-le-4776461.html) - 04:11 01/08/2024
 - 🎓 [Những gia đình &#39;chỉ còn cái vỏ&#39;](https://vnexpress.net/nhung-gia-dinh-chi-con-cai-vo-4774156.html) - 23:00 31/07/2024
-- 🚦 [Cách gọt khoai sọ không bị ngứa](https://vnexpress.net/cach-got-khoai-so-khong-bi-ngua-4776217.html) - 10:31 31/07/2024
+- 🚦 [Cách gọt khoai sọ không bị ngứa](https://vnexpress.net/doi-song-cooking-cach-got-khoai-so-khong-bi-ngua-4776217.html) - 10:31 31/07/2024
 - 🦣 [Vấn nạn người già bị bỏ rơi ở Malaysia](https://vnexpress.net/van-nan-nguoi-gia-bi-bo-roi-o-malaysia-4775644.html) - 08:43 31/07/2024
 - 🎓 [Tìm người yêu cho nhân viên](https://vnexpress.net/tim-nguoi-yeu-cho-nhan-vien-4776106.html) - 08:21 31/07/2024
 - 🎭 [Bị chỉ trích vì đưa nhân tình về sống chung với chồng](https://vnexpress.net/bi-chi-trich-vi-dua-nhan-tinh-ve-song-chung-voi-chong-4776062.html) - 05:14 31/07/2024
@@ -38,7 +38,7 @@ sidebar_position: 6
 - 🤔 [Người đàn ông vá đồ gốm bằng vàng](https://vnexpress.net/nguoi-dan-ong-va-do-gom-bang-vang-4774769.html) - 23:30 27/07/2024
 - 🧰 [Vườn rau trên nóc nhà của người phụ nữ Đồng Nai](https://vnexpress.net/vuon-rau-tren-noc-nha-cua-nguoi-phu-nu-dong-nai-4774612.html) - 23:00 27/07/2024
 - 😎 [Tại sao cho muối khi luộc rau?](https://vnexpress.net/doi-song-cooking-tai-sao-cho-muoi-khi-luoc-rau-4774724.html) - 11:12 27/07/2024
-- 🌮 [Nên chọn tỏi vỏ tím hay vỏ trắng?](https://vnexpress.net/nen-chon-toi-vo-tim-hay-vo-trang-4774385.html) - 06:05 27/07/2024
+- 🌮 [Nên chọn tỏi vỏ tím hay vỏ trắng?](https://vnexpress.net/doi-song-cooking-nen-chon-toi-vo-tim-hay-vo-trang-4774385.html) - 06:05 27/07/2024
 - 🧠 [Loạn chuyên gia tự phong trên mạng xã hội](https://vnexpress.net/loan-chuyen-gia-tu-phong-tren-mang-xa-hoi-4774680.html) - 05:16 27/07/2024
 - 🎡 [Làm sao để quên người yêu cũ ?](https://vnexpress.net/lam-sao-de-quen-nguoi-yeu-cu-4774519.html) - 02:30 27/07/2024
 - 🎡 [Ký ức kinh hoàng về trận bom B52 của Đại đội 915](https://vnexpress.net/ky-uc-kinh-hoang-ve-tran-bom-b52-cua-dai-doi-915-4773759.html) - 23:00 26/07/2024
