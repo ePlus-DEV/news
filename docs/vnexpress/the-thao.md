@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [Nữ võ sĩ boxing gây tranh cãi giới tính thắng sau 46 giây](https://vnexpress.net/nu-vo-si-boxing-gay-tranh-cai-gioi-tinh-thang-sau-46-giay-4776762.html) - 14:39 01/08/2024
 - 🧰 [CLB Công an Hà Nội chiêu mộ Jason Quang Vinh Pendant](https://vnexpress.net/clb-cong-an-ha-noi-chieu-mo-jason-quang-vinh-pendant-4776768.html) - 14:37 01/08/2024
 - 🤗 [Môn golf Olympic 2024 khởi tranh hôm nay](https://vnexpress.net/mon-golf-olympic-2024-khoi-tranh-hom-nay-4776686.html) - 09:36 01/08/2024
-- 🥳 [Bài toán hóc búa về trọng lượng xe F1](https://vnexpress.net/bai-toan-hoc-bua-ve-trong-luong-xe-f1-4776634.html) - 09:00 01/08/2024
+- 🥳 [Bài toán hóc búa về khối lượng xe F1](https://vnexpress.net/bai-toan-hoc-bua-ve-khoi-luong-xe-f1-4776634.html) - 09:00 01/08/2024
 - 🦣 [Kình ngư Trung Quốc tố bị xem thường ở Olympic 2024](https://vnexpress.net/kinh-ngu-trung-quoc-to-bi-xem-thuong-o-olympic-2024-4776612.html) - 08:55 01/08/2024
 - 🌜 [VĐV lớn tuổi nhất được tung hô ở Olympic 2024](https://vnexpress.net/vdv-lon-tuoi-nhat-duoc-tung-ho-o-olympic-2024-4776579.html) - 07:31 01/08/2024
 - 🫶 [CĐV đặc biệt nhất Olympic 2024](https://vnexpress.net/cdv-dac-biet-nhat-olympic-2024-4776522.html) - 07:17 01/08/2024
