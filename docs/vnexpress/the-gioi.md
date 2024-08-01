@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Xạ thủ Olympic Thổ Nhĩ Kỳ gây sốt vì không dùng kính ngắm, đồ bảo hộ](https://vnexpress.net/xa-thu-olympic-tho-nhi-ky-gay-sot-vi-khong-dung-kinh-ngam-do-bao-ho-4776431.html) - 04:24 01/08/2024
+- 🎭 [Xạ thủ Olympic gây sốt vì không dùng kính ngắm, đồ bảo hộ](https://vnexpress.net/xa-thu-olympic-gay-sot-vi-khong-dung-kinh-ngam-do-bao-ho-4776431.html) - 04:24 01/08/2024
 - 🕴 [Thủ tướng Phạm Minh Chính: Sứ quán cần coi kiều bào như người thân](https://vnexpress.net/thu-tuong-pham-minh-chinh-su-quan-can-coi-kieu-bao-nhu-nguoi-than-4776331.html) - 04:03 01/08/2024
 - 🤭 [Việt Nam khuyến cáo an toàn cho công dân tại Israel, Lebanon](https://vnexpress.net/viet-nam-khuyen-cao-an-toan-cho-cong-dan-tai-israel-lebanon-4776439.html) - 03:39 01/08/2024
 - 🧑‍💻 [Chủ tịch nước Tô Lâm chủ trì lễ đón Tổng thống Timor Leste](https://vnexpress.net/chu-tich-nuoc-to-lam-chu-tri-le-don-tong-thong-timor-leste-4776466.html) - 03:19 01/08/2024
