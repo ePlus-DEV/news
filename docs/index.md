@@ -208,46 +208,46 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Tâm tư vì giải Văn học, Nghệ thuật Bắc Ninh trao trễ 2 năm](https://laodong.vn/ban-doc/tam-tu-vi-giai-van-hoc-nghe-thuat-bac-ninh-trao-tre-2-nam-1374218.ldo) - 01:11 01/08/2024
-- 📝 [Người lao động đến gần hơn với nhà ở xã hội](https://laodong.vn/cong-doan/nguoi-lao-dong-den-gan-hon-voi-nha-o-xa-hoi-1374208.ldo) - 01:08 01/08/2024
-- 🦏 [Giải quyết về tài chính đất đai, giá đất từ ngày 1.8](https://laodong.vn/bat-dong-san/giai-quyet-ve-tai-chinh-dat-dai-gia-dat-tu-ngay-18-1373749.ldo) - 01:04 01/08/2024
-- 🦩 [Chi tiết điểm chuẩn Trường Sĩ quan Lục quân 1 và 2](https://laodong.vn/giao-duc/chi-tiet-diem-chuan-truong-si-quan-luc-quan-1-va-2-1374003.ldo) - 01:00 01/08/2024
-- 🦏 [Xe máy điện rẻ đẹp phù hợp với công nhân, người lao động](https://laodong.vn/xu-huong-xe/xe-may-dien-re-dep-phu-hop-voi-cong-nhan-nguoi-lao-dong-1373972.ldo) - 01:00 01/08/2024
-- 🧰 [Thời hạn khiếu nại nếu bị mất hành lý khi đi máy bay](https://laodong.vn/tu-van-phap-luat/thoi-han-khieu-nai-neu-bi-mat-hanh-ly-khi-di-may-bay-1374061.ldo) - 01:00 01/08/2024
-- 🌊 [Lợi ích của chế độ ăn uống cho bệnh viêm bàng quang kẽ](https://laodong.vn/suc-khoe/loi-ich-cua-che-do-an-uong-cho-benh-viem-bang-quang-ke-1374068.ldo) - 01:00 01/08/2024
-- 🔥 [Bản tin công đoàn: Lương công chức tính theo quy định nào?](https://laodong.vn/video/ban-tin-cong-doan-luong-cong-chuc-tinh-theo-quy-dinh-nao-1374258.ldo) - 01:00 01/08/2024
-- 🦒 [Thời gian giải quyết chế độ tử tuất từ ngày 1.7.2025 ra sao?](https://laodong.vn/ban-tin/thoi-gian-giai-quyet-che-do-tu-tuat-tu-ngay-172025-ra-sao-1374278.ldo) - 01:00 01/08/2024
-- 💼 [Đời ảo](https://laodong.vn/van-hoa-giai-tri/doi-ao-1374209.ldo) - 00:56 01/08/2024
-- 🤖 [Tiếc cho Thùy Linh, nhưng vẫn là bài học cũ](https://laodong.vn/the-thao/tiec-cho-thuy-linh-nhung-van-la-bai-hoc-cu-1374220.ldo) - 00:56 01/08/2024
-- 💪 [Diễn biến nguy hiểm cho nỗ lực hòa bình ở Gaza](https://laodong.vn/the-gioi/dien-bien-nguy-hiem-cho-no-luc-hoa-binh-o-gaza-1374249.ldo) - 00:55 01/08/2024
-- 👍 [Elon Musk khuyên xạ thủ Hàn Quốc dự Olympic nên đi đóng phim](https://laodong.vn/the-thao/elon-musk-khuyen-xa-thu-han-quoc-du-olympic-nen-di-dong-phim-1374329.ldo) - 00:55 01/08/2024
-- 💂 [Vỡ mộng &quot;đào Pi&quot;](https://laodong.vn/xa-hoi/vo-mong-dao-pi-1374250.ldo) - 00:53 01/08/2024
-- 🧰 [Lắp camera theo dõi vợ ngoại tình, chồng bị khởi tố](https://laodong.vn/gia-dinh-hon-nhan/lap-camera-theo-doi-vo-ngoai-tinh-chong-bi-khoi-to-1374037.ldo) - 00:50 01/08/2024
-- 🥷 [Thời điểm khó khăn của Anh trai vượt ngàn chông gai Jun Phạm](https://laodong.vn/van-hoa-giai-tri/thoi-diem-kho-khan-cua-anh-trai-vuot-ngan-chong-gai-jun-pham-1374251.ldo) - 00:48 01/08/2024
-- 💫 [&quot;Chị đẹp đạp gió&quot; khởi động mùa 2](https://laodong.vn/van-hoa-giai-tri/chi-dep-dap-gio-khoi-dong-mua-2-1374270.ldo) - 00:48 01/08/2024
-- 🎭 [Le Sserafim, Taemin, NMIXX khuấy động Kpop tháng 8](https://laodong.vn/van-hoa-giai-tri/le-sserafim-taemin-nmixx-khuay-dong-kpop-thang-8-1374295.ldo) - 00:46 01/08/2024
-- 😎 [Jennie và Suzy được bắt gặp đi xem phim cùng nhau](https://laodong.vn/giai-tri/jennie-va-suzy-duoc-bat-gap-di-xem-phim-cung-nhau-1374296.ldo) - 00:45 01/08/2024
-- 💄 [Công an kiến nghị xử lý các lối đi tự mở trên Quốc lộ 1](https://laodong.vn/xa-hoi/cong-an-kien-nghi-xu-ly-cac-loi-di-tu-mo-tren-quoc-lo-1-1374234.ldo) - 00:45 01/08/2024
-- 🫣 [Giám đốc Sở GDĐT Thái Bình bị tạm đình chỉ công tác 15 ngày](https://laodong.vn/giao-duc/giam-doc-so-gddt-thai-binh-bi-tam-dinh-chi-cong-tac-15-ngay-1374337.ldo) - 00:42 01/08/2024
-- 🧑‍🏫 [Lũ quét Điện Biên - Sơn La, bới từng lớp bùn tìm nạn nhân](https://laodong.vn/xa-hoi/lu-quet-dien-bien-son-la-boi-tung-lop-bun-tim-nan-nhan-1373883.ldo) - 00:41 01/08/2024
-- 🦣 [Đại giáo chủ Iran lệnh trả thù vụ ám sát thủ lĩnh Hamas](https://laodong.vn/the-gioi/dai-giao-chu-iran-lenh-tra-thu-vu-am-sat-thu-linh-hamas-1374324.ldo) - 00:25 01/08/2024
-- 💫 [Bắc Ninh lên kế hoạch di dân vùng sạt lở đê sông Cầu](https://laodong.vn/ban-doc/bac-ninh-len-ke-hoach-di-dan-vung-sat-lo-de-song-cau-1374175.ldo) - 00:11 01/08/2024
-- ⛽️ [Mức bồi dưỡng làm đêm, ngoài giờ của trật tự thôn miền núi](https://laodong.vn/giai-dap-phap-luat/muc-boi-duong-lam-dem-ngoai-gio-cua-trat-tu-thon-mien-nui-1374306.ldo) - 00:09 01/08/2024
-- 💫 [Nghịch lý vụ Ukraina chặn dòng dầu của Nga sang 2 nước EU](https://laodong.vn/the-gioi/nghich-ly-vu-ukraina-chan-dong-dau-cua-nga-sang-2-nuoc-eu-1373809.ldo) - 00:06 01/08/2024
-- 🥸 [Lịch thi đấu cầu lông Olympic 2024 ngày 1.8](https://laodong.vn/lich-thi-dau/lich-thi-dau-cau-long-olympic-2024-ngay-18-1374331.ldo) - 00:02 01/08/2024
-- 🐻 [Giá chung cư vẫn tăng, người dân vỡ mộng chờ giảm giá](https://laodong.vn/bat-dong-san/gia-chung-cu-van-tang-nguoi-dan-vo-mong-cho-giam-gia-1374036.ldo) - 00:01 01/08/2024
-- 🪄 [Khách tố cáo bị giăng bẫy, Crystal Bay hoàn tiền thẻ du lịch](https://laodong.vn/ban-doc/khach-to-cao-bi-giang-bay-crystal-bay-hoan-tien-the-du-lich-1373021.ldo) - 00:00 01/08/2024
-- 🧑‍🏫 [Tin sáng: Nhìn lại những vấn đề từ trùng tu di tích Chùa Cầu](https://laodong.vn/podcast/tin-sang-nhin-lai-nhung-van-de-tu-trung-tu-di-tich-chua-cau-1374107.ldo) - 00:00 01/08/2024
-- 🌊 [6 lợi ích tuyệt vời của tinh dầu đinh hương](https://laodong.vn/suc-khoe/6-loi-ich-tuyet-voi-cua-tinh-dau-dinh-huong-1374121.ldo) - 00:00 01/08/2024
-- 💻 [Lương hưu của người gia tham gia BHXH từ năm 2025 ra sao?](https://laodong.vn/ban-tin/luong-huu-cua-nguoi-gia-tham-gia-bhxh-tu-nam-2025-ra-sao-1374157.ldo) - 00:00 01/08/2024
-- 👨‍🏫 [Đàm Tùng Vận, Triệu Lộ Tư đối đầu, ai sẽ có lợi thế?](https://laodong.vn/van-hoa-giai-tri/dam-tung-van-trieu-lo-tu-doi-dau-ai-se-co-loi-the-1374256.ldo) - 00:00 01/08/2024
-- 🌈 [Thời tiết hôm nay 1.8: Miền Bắc vẫn còn mưa to nhiều nơi](https://laodong.vn/ban-tin/thoi-tiet-hom-nay-18-mien-bac-van-con-mua-to-nhieu-noi-1374262.ldo) - 23:57 31/07/2024
-- 🐲 [Video mới về khoảnh khắc kinh hoàng vụ khủng bố 11.9](https://laodong.vn/the-gioi/video-moi-ve-khoanh-khac-kinh-hoang-vu-khung-bo-119-1374279.ldo) - 23:56 31/07/2024
-- 🚀 [VĐV 3 môn phối hợp Olympic nôn 10 lần sau phần thi](https://laodong.vn/the-thao/vdv-3-mon-phoi-hop-olympic-non-10-lan-sau-phan-thi-1374327.ldo) - 23:51 31/07/2024
-- 😺 [Bộ Nội vụ nói về việc giao đất hoạt động tôn giáo](https://laodong.vn/thoi-su/bo-noi-vu-noi-ve-viec-giao-dat-hoat-dong-ton-giao-1374165.ldo) - 23:48 31/07/2024
-- 🕴 [Lịch thi đấu của thể thao Việt Nam tại Olympic 2024 ngày 1.8](https://laodong.vn/lich-thi-dau/lich-thi-dau-cua-the-thao-viet-nam-tai-olympic-2024-ngay-18-1374323.ldo) - 23:43 31/07/2024
-- 🌋 [Sóc Trăng sẽ giảm 1 phường sau sắp xếp đơn vị hành chính](https://laodong.vn/thoi-su/soc-trang-se-giam-1-phuong-sau-sap-xep-don-vi-hanh-chinh-1374173.ldo) - 23:41 31/07/2024
-- 💄 [Lê Đức Phát lỡ cơ hội giành vé vào vòng 1/8 cầu lông Olympic](https://laodong.vn/the-thao/le-duc-phat-lo-co-hoi-gianh-ve-vao-vong-18-cau-long-olympic-1374321.ldo) - 23:39 31/07/2024<!-- laodong:END -->
+- 🗽 [Bị chậm 4 tháng lương,  công nhân khó khăn được hỗ trợ](https://laodong.vn/cong-doan/bi-cham-4-thang-luong-cong-nhan-kho-khan-duoc-ho-tro-1374353.ldo) - 02:17 01/08/2024
+- 📝 [Biến động lãi suất 1.8: Tăng cao ngất ngưởng ngày đầu tháng](https://laodong.vn/kinh-doanh/bien-dong-lai-suat-18-tang-cao-ngat-nguong-ngay-dau-thang-1374343.ldo) - 02:13 01/08/2024
+- 🦏 [Dự báo điểm chuẩn Đại học Công Thương TPHCM năm 2024](https://laodong.vn/giao-duc/du-bao-diem-chuan-dai-hoc-cong-thuong-tphcm-nam-2024-1374288.ldo) - 02:11 01/08/2024
+- 🦩 [Cách làm phô mai tươi thơm ngon tại nhà](https://laodong.vn/suc-khoe/cach-lam-pho-mai-tuoi-thom-ngon-tai-nha-1374254.ldo) - 02:00 01/08/2024
+- 🦏 [Bỏ thuế tiêu thụ với xăng, lợi trước mắt nhưng hại lâu dài](https://laodong.vn/su-kien-binh-luan/bo-thue-tieu-thu-voi-xang-loi-truoc-mat-nhung-hai-lau-dai-1373422.ldo) - 02:00 01/08/2024
+- 🧰 [Những lợi ích của tư thế trồng cây chuối hoa sen trong yoga](https://laodong.vn/suc-khoe/nhung-loi-ich-cua-tu-the-trong-cay-chuoi-hoa-sen-trong-yoga-1374187.ldo) - 02:00 01/08/2024
+- 🌊 [Liverpool thắng Arsenal với dấu ấn chiến thuật Arne Slot](https://laodong.vn/bong-da-quoc-te/liverpool-thang-arsenal-voi-dau-an-chien-thuat-arne-slot-1374352.ldo) - 01:52 01/08/2024
+- 🔥 [Dương Tử bị nữ phụ lấn át nhan sắc trong phim mới](https://laodong.vn/van-hoa-giai-tri/duong-tu-bi-nu-phu-lan-at-nhan-sac-trong-phim-moi-1374103.ldo) - 01:52 01/08/2024
+- 🦒 [Vĩnh Phúc bầu bổ sung nhiều vị trí lãnh đạo quan trọng](https://laodong.vn/thoi-su/vinh-phuc-bau-bo-sung-nhieu-vi-tri-lanh-dao-quan-trong-1374350.ldo) - 01:52 01/08/2024
+- 💼 [Khách Tây so sánh Lăng Khải Định với những cung điện tráng lệ nhất châu Âu](https://laodong.vn/van-hoa-giai-tri/khach-tay-so-sanh-lang-khai-dinh-voi-nhung-cung-dien-trang-le-nhat-chau-au-1374359.ldo) - 01:51 01/08/2024
+- 🤖 [Những bộ phim truyền hình Hàn Quốc đáng chú ý tháng 8](https://laodong.vn/van-hoa-giai-tri/nhung-bo-phim-truyen-hinh-han-quoc-dang-chu-y-thang-8-1374268.ldo) - 01:51 01/08/2024
+- 💪 [Động thái của Nga khiến khách hàng dầu khí lớn bị ảnh hưởng](https://laodong.vn/the-gioi/dong-thai-cua-nga-khien-khach-hang-dau-khi-lon-bi-anh-huong-1374330.ldo) - 01:49 01/08/2024
+- 👍 [Điện Biên đề xuất 350 tỉ để bố trí tái định cư sau lũ quét](https://laodong.vn/video/dien-bien-de-xuat-350-ti-de-bo-tri-tai-dinh-cu-sau-lu-quet-1374299.ldo) - 01:48 01/08/2024
+- 💂 [Bão số 4 manh nha xuất hiện sau siêu bão lịch sử Beryl](https://laodong.vn/the-gioi/bao-so-4-manh-nha-xuat-hien-sau-sieu-bao-lich-su-beryl-1374332.ldo) - 01:48 01/08/2024
+- 🧰 [Thu chi sai quy định, nhiều cơ sở giáo dục Cần Thơ gặp vướng mắc khi khắc phục](https://laodong.vn/giao-duc/thu-chi-sai-quy-dinh-nhieu-co-so-giao-duc-can-tho-gap-vuong-mac-khi-khac-phuc-1374238.ldo) - 01:47 01/08/2024
+- 🥷 [Điều kiện để được đăng ký, bấm biển số xe tại nhà từ 1.8?](https://laodong.vn/xe/dieu-kien-de-duoc-dang-ky-bam-bien-so-xe-tai-nha-tu-18-1374335.ldo) - 01:40 01/08/2024
+- 💫 [Bài tập giảm mỡ 2 bên hông hiệu quả](https://laodong.vn/ban-tin/bai-tap-giam-mo-2-ben-hong-hieu-qua-1374171.ldo) - 01:37 01/08/2024
+- 🎭 [Nhiều người bị sứa lửa đốt khi đi tắm biển](https://laodong.vn/suc-khoe/nhieu-nguoi-bi-sua-lua-dot-khi-di-tam-bien-1374214.ldo) - 01:34 01/08/2024
+- 😎 [Lo ngại bệnh ho gà quay trở lại](https://laodong.vn/suc-khoe/lo-ngai-benh-ho-ga-quay-tro-lai-1374227.ldo) - 01:34 01/08/2024
+- 💄 [Cập nhật 10 mốc lãi suất trên 6% không cần điều kiện](https://laodong.vn/video/cap-nhat-10-moc-lai-suat-tren-6-khong-can-dieu-kien-1374291.ldo) - 01:33 01/08/2024
+- 🫣 [Học lịch sử qua tên phố, tên đường](https://laodong.vn/xa-hoi/hoc-lich-su-qua-ten-pho-ten-duong-1374231.ldo) - 01:31 01/08/2024
+- 🧑‍🏫 [Thu hút đầu tư chứng chỉ quỹ, hướng tới thị trường phát triển bền vững](https://laodong.vn/xa-hoi/thu-hut-dau-tu-chung-chi-quy-huong-toi-thi-truong-phat-trien-ben-vung-1374325.ldo) - 01:30 01/08/2024
+- 🦣 [Vẻ đẹp thanh tịnh của di tích quốc gia kiến trúc cổ ở Thái Bình](https://laodong.vn/photo/ve-dep-thanh-tinh-cua-di-tich-quoc-gia-kien-truc-co-o-thai-binh-1374269.ldo) - 01:29 01/08/2024
+- 💫 [Mùa tìm trẻ đến trường](https://laodong.vn/giao-duc/mua-tim-tre-den-truong-1374233.ldo) - 01:29 01/08/2024
+- ⛽️ [Tinh thần là điều quyết định thành công](https://laodong.vn/the-thao/tinh-than-la-dieu-quyet-dinh-thanh-cong-1374222.ldo) - 01:27 01/08/2024
+- 💫 [Tỷ giá ngoại tệ, tỷ giá Yên Nhật, USD tự do hôm nay 1.8](https://laodong.vn/kinh-doanh/ty-gia-ngoai-te-ty-gia-yen-nhat-usd-tu-do-hom-nay-18-1374349.ldo) - 01:27 01/08/2024
+- 🥸 [Những điểm đáng chú ý ở trận U23 Nhật Bản vs U23 Tây Ban Nha](https://laodong.vn/bong-da-quoc-te/nhung-diem-dang-chu-y-o-tran-u23-nhat-ban-vs-u23-tay-ban-nha-1374340.ldo) - 01:27 01/08/2024
+- 🐻 [Sức khỏe 2 VĐV nhập viện ở giải chạy Quảng Bình ra sao?](https://laodong.vn/the-thao/suc-khoe-2-vdv-nhap-vien-o-giai-chay-quang-binh-ra-sao-1374346.ldo) - 01:26 01/08/2024
+- 🪄 [Đà Nẵng chi 100 tỉ xây mới trường THPT nguy hiểm cấp C](https://laodong.vn/photo/da-nang-chi-100-ti-xay-moi-truong-thpt-nguy-hiem-cap-c-1374300.ldo) - 01:25 01/08/2024
+- 🧑‍🏫 [Việt Nam - Ấn Độ hướng đến kim ngạch thương mại 20 tỉ USD](https://laodong.vn/the-gioi/viet-nam-an-do-huong-den-kim-ngach-thuong-mai-20-ti-usd-1374248.ldo) - 01:25 01/08/2024
+- 🌊 [Tìm hướng đi mới cho phim kinh dị Việt nửa cuối 2024](https://laodong.vn/van-hoa-giai-tri/tim-huong-di-moi-cho-phim-kinh-di-viet-nua-cuoi-2024-1374226.ldo) - 01:23 01/08/2024
+- 💻 [Bảng tổng sắp huy chương Olympic 2024 mới nhất 1.8](https://laodong.vn/the-thao/bang-tong-sap-huy-chuong-olympic-2024-moi-nhat-18-1374344.ldo) - 01:22 01/08/2024
+- 👨‍🏫 [Nới điều kiện mua nhà ở xã hội nhưng cần có giá hợp lý, tránh đầu cơ](https://laodong.vn/bat-dong-san/noi-dieu-kien-mua-nha-o-xa-hoi-nhung-can-co-gia-hop-ly-tranh-dau-co-1374221.ldo) - 01:21 01/08/2024
+- 🌈 [Tuyên giáo luôn xứng đáng với vai trò đi trước mở đường](https://laodong.vn/thoi-su/tuyen-giao-luon-xung-dang-voi-vai-tro-di-truoc-mo-duong-1374236.ldo) - 01:17 01/08/2024
+- 🐲 [Gia tăng tội phạm lừa đảo trên không gian mạng ở Quảng Ninh](https://laodong.vn/phap-luat/gia-tang-toi-pham-lua-dao-tren-khong-gian-mang-o-quang-ninh-1374339.ldo) - 01:15 01/08/2024
+- 🚀 [Tâm tư vì giải Văn học, Nghệ thuật Bắc Ninh trao trễ 2 năm](https://laodong.vn/ban-doc/tam-tu-vi-giai-van-hoc-nghe-thuat-bac-ninh-trao-tre-2-nam-1374218.ldo) - 01:11 01/08/2024
+- 😺 [Người lao động đến gần hơn với nhà ở xã hội](https://laodong.vn/cong-doan/nguoi-lao-dong-den-gan-hon-voi-nha-o-xa-hoi-1374208.ldo) - 01:08 01/08/2024
+- 🕴 [Giải quyết về tài chính đất đai, giá đất từ ngày 1.8](https://laodong.vn/bat-dong-san/giai-quyet-ve-tai-chinh-dat-dai-gia-dat-tu-ngay-18-1373749.ldo) - 01:04 01/08/2024
+- 🌋 [Chi tiết điểm chuẩn Trường Sĩ quan Lục quân 1 và 2](https://laodong.vn/giao-duc/chi-tiet-diem-chuan-truong-si-quan-luc-quan-1-va-2-1374003.ldo) - 01:00 01/08/2024
+- 💄 [Xe máy điện rẻ đẹp phù hợp với công nhân, người lao động](https://laodong.vn/xu-huong-xe/xe-may-dien-re-dep-phu-hop-voi-cong-nhan-nguoi-lao-dong-1373972.ldo) - 01:00 01/08/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
