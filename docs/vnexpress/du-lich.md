@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Khám phá Hong Kong qua bối cảnh phim kinh điển](https://vnexpress.net/kham-pha-hong-kong-qua-boi-canh-phim-kinh-dien-4774943.html) - 04:00 01/08/2024
-- 🪄 [An Lăng mở cửa đón khách](https://vnexpress.net/an-lang-mo-cua-don-khach-4776441.html) - 03:50 01/08/2024
+- 🪄 [Khu mộ ba vua triều Nguyễn mở cửa đón khách](https://vnexpress.net/khu-mo-ba-vua-trieu-nguyen-mo-cua-don-khach-4776441.html) - 03:50 01/08/2024
 - 🦅 [Phía sau hào quang của &#39;Nữ hoàng Everest&#39;](https://vnexpress.net/phia-sau-hao-quang-cua-nu-hoang-everest-4776254.html) - 03:03 01/08/2024
 - 🕴 [Sun World Ba Den Mountain ưu đãi 50% giá cáp treo buổi tối](https://vnexpress.net/sun-world-ba-den-mountain-uu-dai-50-gia-cap-treo-buoi-toi-4776301.html) - 03:00 01/08/2024
 - 👀 [6 điều khách Việt cần biết về tour quốc tế kèm shopping](https://vnexpress.net/6-dieu-khach-viet-can-biet-ve-tour-quoc-te-kem-shopping-4773545.html) - 02:00 01/08/2024
