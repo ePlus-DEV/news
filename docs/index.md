@@ -204,7 +204,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- laodong:START -->
 - 🗽 [Buổi tập cuối của bóng chuyền nữ Việt Nam trước SEA V.League](https://laodong.vn/ban-tin/buoi-tap-cuoi-cua-bong-chuyen-nu-viet-nam-truoc-sea-vleague-1374745.ldo) - 15:48 01/08/2024
 - 📝 [Lần đầu trải nghiệm khám đêm tại Bệnh viện Bạch Mai](https://laodong.vn/y-te/lan-dau-trai-nghiem-kham-dem-tai-benh-vien-bach-mai-1370312.ldo) - 15:44 01/08/2024
-- 🦏 [Bầu Hiểu thưởng CLB bóng bàn CAND - T&amp;T gần 1,5 tỉ đồng](https://laodong.vn/ban-tin/bau-hieu-thuong-clb-bong-ban-cand-tt-gan-15-ti-dong-1374748.ldo) - 15:41 01/08/2024
+- 🦏 [Bầu Hiển thưởng CLB bóng bàn CAND - T&amp;T gần 1,5 tỉ đồng](https://laodong.vn/ban-tin/bau-hien-thuong-clb-bong-ban-cand-tt-gan-15-ti-dong-1374748.ldo) - 15:41 01/08/2024
 - 🦩 [HLV Kim Sang-sik dự lễ khai mạc vòng chung kết U21 Quốc gia](https://laodong.vn/video/hlv-kim-sang-sik-du-le-khai-mac-vong-chung-ket-u21-quoc-gia-1374739.ldo) - 15:03 01/08/2024
 - 🦏 [10 hành vi bị nghiêm cấm về BHXH từ tháng 7.2025](https://laodong.vn/tu-van-phap-luat/10-hanh-vi-bi-nghiem-cam-ve-bhxh-tu-thang-72025-1372962.ldo) - 15:00 01/08/2024
 - 🧰 [Hà Nội, Viettel ra quân thuận lợi giải U21 Quốc gia 2024](https://laodong.vn/the-thao/ha-noi-viettel-ra-quan-thuan-loi-giai-u21-quoc-gia-2024-1374727.ldo) - 14:13 01/08/2024
