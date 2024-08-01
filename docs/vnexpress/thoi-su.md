@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Viện Vật lý địa cầu tập huấn người dân ở vùng động đất](https://vnexpress.net/vien-vat-ly-dia-cau-tap-huan-nguoi-dan-o-vung-dong-dat-4776787.html) - 17:00 01/08/2024
+- 🦒 [Viện Vật lý địa cầu tập huấn người dân vùng động đất](https://vnexpress.net/vien-vat-ly-dia-cau-tap-huan-nguoi-dan-vung-dong-dat-4776787.html) - 17:00 01/08/2024
 - 🤓 [Hai dự án lớn ở TP HCM tăng 10.000 tỷ đồng khi áp giá đất mới](https://vnexpress.net/hai-du-an-lon-o-tp-hcm-tang-10-000-ty-dong-khi-ap-gia-dat-moi-4776735.html) - 11:26 01/08/2024
 - ⚗️ [Xây kè ngăn sạt lở bờ sông Cầu](https://vnexpress.net/xay-ke-ngan-sat-lo-bo-song-cau-4776689.html) - 10:49 01/08/2024
 - 🌊 [Tặng sâm Ngọc Linh giúp người nghèo xóa nhà tạm](https://vnexpress.net/tang-sam-ngoc-linh-giup-nguoi-ngheo-xoa-nha-tam-4776570.html) - 09:59 01/08/2024
