@@ -147,7 +147,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- thanhnien:START -->
 - 🤠 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 3.8.2024](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-382024-185240801093147483.htm) - 16:26 02/08/2024
 - 🥸 [Trịnh Thu Vinh và thử thách cực khắc nghiệt: Bắn từ 10.1 trở xuống là… bắn trượt, 0 điểm](https://thanhnien.vn/trinh-thu-vinh-va-thu-thach-cuc-khac-nghiet-ban-tu-101-tro-xuong-la-ban-truot-0-diem-185240802231656318.htm) - 16:21 02/08/2024
-- 🌁 [Ngột ngạt và… đã mắt xem Hakimi và Ma Rốc - đội hạng 4 thế giới vào bán kết](https://thanhnien.vn/ngot-ngat-va-da-mat-xem-hakimi-va-ma-roc-doi-hang-4-the-gioi-vao-ban-ket-185240802225614813.htm) - 16:13 02/08/2024
+- 🌁 [Ngột ngạt và… đã mắt xem Hakimi cùng Ma Rốc - đội hạng 4 thế giới vào bán kết](https://thanhnien.vn/ngot-ngat-va-da-mat-xem-hakimi-va-ma-roc-doi-hang-4-the-gioi-vao-ban-ket-185240802225614813.htm) - 16:13 02/08/2024
 - 🤡 [Điểm xung đột: Âm mưu tinh vi hạ thủ lĩnh Hamas; Mỹ sẵn sàng bảo vệ Israel](https://thanhnien.vn/diem-xung-dot-am-muu-tinh-vi-ha-thu-linh-hamas-my-san-sang-bao-ve-israel-185240802183149914.htm) - 16:00 02/08/2024
 - 🎉 [Đến Thái Lan trải nghiệm massage truyền thống tại các tiệm spa này](https://thanhnien.vn/thoi-trang-tre/den-thai-lan-trai-nghiem-massage-truyen-thong-tai-cac-tiem-spa-nay-185240731210617329.htm) - 16:00 02/08/2024
 - 🎊 [Đà Nẵng: Ô tô tông 6 xe máy để dưới lòng đường](https://thanhnien.vn/da-nang-o-to-tong-6-xe-may-de-duoi-long-duong-185240802220244151.htm) - 15:19 02/08/2024
