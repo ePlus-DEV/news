@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Chân chạy Nhi Yến, kình ngư Mỹ Tiên dừng bước ở Olympic 2024](https://vnexpress.net/chan-chay-nhi-yen-kinh-ngu-my-tien-dung-buoc-o-olympic-2024-4777173.html) - 12:33 02/08/2024
 - 🦩 [Chiến thắng của kình ngư Trung Quốc tiếp tục bị ngờ vực](https://vnexpress.net/chien-thang-cua-kinh-ngu-trung-quoc-tiep-tuc-bi-ngo-vuc-4777082.html) - 09:52 02/08/2024
-- 🧰 [Trịnh Thu Vinh vào chung kết 25m súng ngắn hơi Olympic 2024](https://vnexpress.net/trinh-thu-vinh-vao-chung-ket-25m-sung-ngan-hoi-olympic-2024-4777131.html) - 09:48 02/08/2024
+- 🧰 [Trịnh Thu Vinh vào chung kết 25m súng ngắn Olympic 2024](https://vnexpress.net/trinh-thu-vinh-vao-chung-ket-25m-sung-ngan-olympic-2024-4777131.html) - 09:48 02/08/2024
 - 🤗 [Bố mẹ không hài lòng với sự nghiệp của VĐV dự 4 kỳ Olympic](https://vnexpress.net/bo-me-khong-hai-long-voi-su-nghiep-cua-vdv-du-4-ky-olympic-4777121.html) - 09:34 02/08/2024
 - 🥳 [Xạ thủ Thổ Nhĩ Kỳ: &#39;Không ai thành công nếu cứ đút tay vào túi quần&#39;](https://vnexpress.net/xa-thu-tho-nhi-ky-khong-ai-thanh-cong-neu-cu-dut-tay-vao-tui-quan-4777083.html) - 09:00 02/08/2024
 - 🦣 [Bố của nhà vô địch Olympic bị bắt vì cáo buộc tấn công tình dục](https://vnexpress.net/bo-cua-nha-vo-dich-olympic-bi-bat-vi-cao-buoc-tan-cong-tinh-duc-4776991.html) - 07:36 02/08/2024
