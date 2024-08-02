@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Ôtô cháy trong hầm Thủ Thiêm](https://vnexpress.net/oto-chay-trong-ham-thu-thiem-4777171.html) - 12:29 02/08/2024
 - ⚗️ [Hai tháng mưa lũ bất thường ở miền Bắc](https://vnexpress.net/hai-thang-mua-lu-bat-thuong-o-mien-bac-4776198.html) - 11:26 02/08/2024
 - 🌊 [Đứt gãy quốc lộ 279 qua Lai Châu](https://vnexpress.net/dut-gay-quoc-lo-279-qua-lai-chau-4777125.html) - 10:28 02/08/2024
-- 🎓 [Vật liệu từ độ cao 30 m rơi trúng 6 công nhân](https://vnexpress.net/vat-lieu-tu-do-cao-30-m-roi-trung-6-cong-nhan-4777111.html) - 09:44 02/08/2024
+- 🎓 [Đứt cáp thang, 6 công nhân rơi từ độ cao 20 m](https://vnexpress.net/dut-cap-thang-6-cong-nhan-roi-tu-do-cao-20-m-4777111.html) - 09:44 02/08/2024
 - 🔥 [Giá vé các đường bay nội địa giảm nhiệt](https://vnexpress.net/gia-ve-cac-duong-bay-noi-dia-giam-nhiet-4777069.html) - 08:38 02/08/2024
 - 🦏 [Trung tâm triển lãm 800 tỷ đồng ở Thủ Thiêm hoàn thành năm 2025](https://vnexpress.net/trung-tam-trien-lam-800-ty-dong-o-thu-thiem-hoan-thanh-nam-2025-4777017.html) - 07:53 02/08/2024
 - 👺 [Xây tường cao 2 m chống ngập cao tốc Dầu Giây - Phan Thiết](https://vnexpress.net/xay-tuong-cao-2-m-chong-ngap-cao-toc-dau-giay-phan-thiet-4777025.html) - 07:33 02/08/2024
