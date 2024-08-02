@@ -253,7 +253,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- nld:START -->
 - 🐎 [Tuyển Việt Nam nhọc nhằn thắng Phillipines trận mở màn SEA V-League](https://nld.com.vn/tuyen-viet-nam-nhoc-nhan-thang-phillipines-tran-mo-man-sea-v-league-196240802215030769.htm) - 15:28 02/08/2024
 - 😺 [Chủ tịch nước Tô Lâm tiếp Đại sứ Hàn Quốc và Canada](https://nld.com.vn/chu-tich-nuoc-to-lam-tiep-dai-su-han-quoc-va-canada-196240802220543558.htm) - 15:08 02/08/2024
-- 👍 [Bóng đá nam Olympic 2024: Tây Ban Nha 1-0 Nhật Bản](https://nld.com.vn/bong-da-nam-olympic-2024-tay-ban-nha-cham-tran-nhat-ban-196240802213327276.htm) - 14:34 02/08/2024
+- 👍 [Bóng đá nam Olympic 2024: Tây Ban Nha 2-0 Nhật Bản](https://nld.com.vn/bong-da-nam-olympic-2024-tay-ban-nha-cham-tran-nhat-ban-196240802213327276.htm) - 14:34 02/08/2024
 - 🥷 [Việt Nam sẽ hoàn thiện hồ sơ để yêu cầu Mỹ công nhận nền kinh tế thị trường](https://nld.com.vn/viet-nam-se-hoan-thien-ho-so-de-yeu-cau-my-cong-nhan-nen-kinh-te-thi-truong-196240802211034287.htm) - 14:24 02/08/2024
 - 🤔 [Không dễ đòi, ngân hàng đau đầu với nợ xấu gia tăng](https://nld.com.vn/khong-de-doi-ngan-hang-dau-dau-voi-no-xau-gia-tang-196240802204149039.htm) - 13:59 02/08/2024
 - 🌈 [Nữ TP HCM 1 vô địch 6 năm liền, Thái Nguyên T&amp;T lần đầu có huy chương](https://nld.com.vn/nu-tp-hcm-vo-dich-6-nam-lien-thai-nguyen-tt-lan-dau-co-huy-chuong-196240802200642099.htm) - 13:56 02/08/2024
