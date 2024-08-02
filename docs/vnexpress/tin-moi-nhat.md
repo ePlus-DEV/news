@@ -39,7 +39,7 @@ sidebar_position: 9
 - 🌋 [Ung thư tuyến tiền liệt ảnh hưởng thế nào đến tình dục](https://vnexpress.net/ung-thu-tuyen-tien-liet-anh-huong-the-nao-den-tinh-duc-4776889.html) - 11:00 02/08/2024
 - 🤖 [Tại sao đậu phụ chuyển vàng khi rán?](https://vnexpress.net/tai-sao-dau-phu-chuyen-vang-khi-ran-4777072.html) - 10:32 02/08/2024
 - 🦏 [Đứt gãy quốc lộ 279 qua Lai Châu](https://vnexpress.net/dut-gay-quoc-lo-279-qua-lai-chau-4777125.html) - 10:28 02/08/2024
-- 🦩 [Điểm tin 17h: SJC tăng giá mua; Intel sa thải 17.500 nhân viên](https://vnexpress.net/diem-tin-17h-sjc-tang-gia-mua-intel-sa-thai-17-500-nhan-vien-4777137.html) - 10:03 02/08/2024
+- 🦩 [Điểm tin 21h: Cháy ôtô trong hầm Thủ Thiêm; VĐV Việt Nam đầu tiên vào chung kết Olympic Paris 2024](https://vnexpress.net/diem-tin-21h-chay-oto-trong-ham-thu-thiem-vdv-viet-nam-dau-tien-vao-chung-ket-olympic-paris-2024-4777137.html) - 10:03 02/08/2024
 - 👺 [Tủi thân khi thấy bạn bè đã có nhà cửa, công việc ổn định](https://vnexpress.net/tui-than-khi-thay-ban-be-da-co-nha-cua-cong-viec-on-dinh-4777129.html) - 10:00 02/08/2024
 - 🧑‍🏫 [Tìm người đàn ông chân thành và hiểu chuyện](https://vnexpress.net/tim-nguoi-dan-ong-chan-thanh-va-hieu-chuyen-4776881.html) - 10:00 02/08/2024
 - 😎 [5 loại carbohydrate nên ăn](https://vnexpress.net/5-loai-carbohydrate-nen-an-4776937.html) - 10:00 02/08/2024
