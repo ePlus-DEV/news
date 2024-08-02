@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Nhật Bản - Philippines lần đầu tập trận hải quân chung](https://vnexpress.net/nhat-ban-philippines-lan-dau-tap-tran-hai-quan-chung-4777174.html) - 15:28 02/08/2024
+- 🎭 [Nhật Bản - Philippines lần đầu diễn tập hải quân chung](https://vnexpress.net/nhat-ban-philippines-lan-dau-dien-tap-hai-quan-chung-4777174.html) - 15:28 02/08/2024
 - 🕴 [Thủ tướng khuyến khích Timor Leste tăng nhập khẩu hàng Việt Nam](https://vnexpress.net/thu-tuong-khuyen-khich-timor-leste-tang-nhap-khau-hang-viet-nam-4777191.html) - 14:34 02/08/2024
 - 🤭 [Nga xác nhận một số tù nhân hồi hương là điệp viên](https://vnexpress.net/nga-xac-nhan-mot-so-tu-nhan-hoi-huong-la-diep-vien-4777176.html) - 14:06 02/08/2024
 - 🧑‍💻 [Lý do người trẻ Hungary không ngại sinh con](https://vnexpress.net/ly-do-nguoi-tre-hungary-khong-ngai-sinh-con-4776968.html) - 13:06 02/08/2024
