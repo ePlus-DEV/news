@@ -10,7 +10,7 @@ sidebar_position: 12
 - 🤓 [Nhóm người rửa 25.000 tỷ đồng cho tội phạm mạng](https://vnexpress.net/nhom-nguoi-rua-25-000-ty-dong-cho-toi-pham-mang-4777010.html) - 06:26 02/08/2024
 - 🎊 [Thiếu niên cướp tài sản người đi tắm biển ở Phú Quốc](https://vnexpress.net/thieu-nien-cuop-tai-san-nguoi-di-tam-bien-o-phu-quoc-4776983.html) - 05:21 02/08/2024
 - 🙉 [Kẻ trộm chó đâm trọng thương chủ nhà](https://vnexpress.net/ke-trom-cho-dam-trong-thuong-chu-nha-4776957.html) - 05:03 02/08/2024
-- 🤡 [Tất cả phạm nhân về tham nhũng được rà soát để xét đặc xá](https://vnexpress.net/tat-ca-pham-nhan-ve-tham-nhung-duoc-ra-soat-de-xet-dac-xa-4776902.html) - 04:24 02/08/2024
+- 🤡 [Phạm nhân về tham nhũng đã hoàn thành nghĩa vụ dân sự được xét đặc xá](https://vnexpress.net/pham-nhan-ve-tham-nhung-da-hoan-thanh-nghia-vu-dan-su-duoc-xet-dac-xa-4776902.html) - 04:24 02/08/2024
 - 🗽 [Hai nghi can Trung Quốc đột nhập biệt thự, lấy nhiều tài sản](https://vnexpress.net/hai-nghi-can-trung-quoc-dot-nhap-biet-thu-lay-nhieu-tai-san-4776906.html) - 03:45 02/08/2024
 - 🌋 [Cảnh sát đột kích nhà hàng có hơn 120 tiếp viên bán dâm](https://vnexpress.net/canh-sat-dot-kich-nha-hang-co-hon-120-tiep-vien-ban-dam-4776842.html) - 01:58 02/08/2024
 - 🎬 [Chủ tịch HĐQT Công ty Tân Tân bị truy tố vì không chấp hành bản án](https://vnexpress.net/chu-tich-hdqt-cong-ty-tan-tan-bi-truy-to-vi-khong-chap-hanh-ban-an-4775574.html) - 23:00 01/08/2024
