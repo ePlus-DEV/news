@@ -221,7 +221,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤖 [Người bệnh có thêm cơ hội điều trị bỏng](https://laodong.vn/suc-khoe/nguoi-benh-co-them-co-hoi-dieu-tri-bong-1375186.ldo) - 14:37 02/08/2024
 - 💪 [Thành lập thêm một công đoàn cơ sở doanh nghiệp tại Cần Thơ](https://laodong.vn/ldld-can-tho/thanh-lap-them-mot-cong-doan-co-so-doanh-nghiep-tai-can-tho-1375202.ldo) - 14:34 02/08/2024
 - 👍 [Cập nhật giá vàng chốt phiên 2.8: Cao chót vót, nên mua hay bán](https://laodong.vn/tien-te-dau-tu/cap-nhat-gia-vang-chot-phien-28-cao-chot-vot-nen-mua-hay-ban-1375193.ldo) - 14:32 02/08/2024
-- 💂 [Trực tiếp bóng đá U23 Nhật Bản 0-1 U23 Tây Ban Nha: Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-u23-nhat-ban-0-1-u23-tay-ban-nha-hiep-2-1375209.ldo) - 14:25 02/08/2024
+- 💂 [Trực tiếp bóng đá U23 Nhật Bản 0-2 U23 Tây Ban Nha: Fermin Lopez lập cú đúp](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-u23-nhat-ban-0-2-u23-tay-ban-nha-fermin-lopez-lap-cu-dup-1375209.ldo) - 14:25 02/08/2024
 - 🧰 [Đại học Bách khoa Hà Nội thành lập trường Kinh tế](https://laodong.vn/giao-duc/dai-hoc-bach-khoa-ha-noi-thanh-lap-truong-kinh-te-1375199.ldo) - 14:25 02/08/2024
 - 🥷 [Rau muống xào và phở xào vào top 100 món ngon nhất thế giới](https://laodong.vn/van-hoa-giai-tri/rau-muong-xao-va-pho-xao-vao-top-100-mon-ngon-nhat-the-gioi-1375203.ldo) - 14:13 02/08/2024
 - 💫 [Timor-Leste muốn Việt Nam tăng hiện diện đầu tư](https://laodong.vn/thoi-su/timor-leste-muon-viet-nam-tang-hien-dien-dau-tu-1375189.ldo) - 14:12 02/08/2024
