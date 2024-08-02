@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Ông Biden: Vụ ám sát thủ lĩnh Hamas không có lợi cho đàm phán](https://vnexpress.net/ong-biden-vu-am-sat-thu-linh-hamas-khong-co-loi-cho-dam-phan-4776959.html) - 08:05 02/08/2024
-- 🕴 [Ông Trump chê thỏa thuận trao đổi tù nhân với Nga](https://vnexpress.net/ong-trump-che-thoa-thuan-trao-doi-tu-nhan-voi-nga-4776853.html) - 07:35 02/08/2024
-- 🤭 [Chiến thuật cài bom có thể đã đoạt mạng thủ lĩnh Hamas](https://vnexpress.net/chien-thuat-cai-bom-co-the-da-doat-mang-thu-linh-hamas-4776935.html) - 07:31 02/08/2024
-- 🧑‍💻 [Những lần Israel - Iran cận kề chiến tranh giữa xung đột Gaza](https://vnexpress.net/nhung-lan-israel-iran-can-ke-chien-tranh-giua-xung-dot-gaza-4776660.html) - 05:06 02/08/2024
-- 🦏 [Chỉ huy Hezbollah bị ám sát &#39;do lầm tưởng về Israel&#39;](https://vnexpress.net/chi-huy-hezbollah-bi-am-sat-do-lam-tuong-ve-israel-4776859.html) - 04:37 02/08/2024
-- 🦒 [Người phụ nữ dốc cạn tiền tiết kiệm tới Paris xem Olympic](https://vnexpress.net/nguoi-phu-nu-doc-can-tien-tiet-kiem-toi-paris-xem-olympic-4776592.html) - 04:22 02/08/2024
-- 🌈 [Hàn Quốc lần đầu phô diễn uy lực pháo laser](https://vnexpress.net/han-quoc-lan-dau-pho-dien-uy-luc-phao-laser-4776833.html) - 03:43 02/08/2024
-- 🧑‍🏫 [&#39;Chuyến thăm của Thủ tướng mở ra trang mới trong quan hệ Việt - Ấn&#39;](https://vnexpress.net/chuyen-tham-cua-thu-tuong-mo-ra-trang-moi-trong-quan-he-viet-an-4776854.html) - 03:25 02/08/2024
-- 🐲 [Tổng thống Venezuela thách đấu Elon Musk](https://vnexpress.net/tong-thong-venezuela-thach-dau-elon-musk-4776865.html) - 03:08 02/08/2024
-- 🦒 [30 người chết, hàng chục người mất tích vì lũ lụt ở Trung Quốc](https://vnexpress.net/30-nguoi-chet-hang-chuc-nguoi-mat-tich-vi-lu-lut-o-trung-quoc-4776838.html) - 02:53 02/08/2024
-- 🐻 [Truyền thông Mỹ nêu giả thuyết tòa nhà thủ lĩnh Hamas ở bị cài bom](https://vnexpress.net/truyen-thong-my-neu-gia-thuyet-toa-nha-thu-linh-hamas-o-bi-cai-bom-4776829.html) - 02:11 02/08/2024
-- 🚀 [Nga, phương Tây tiến hành đợt trao đổi tù nhân lớn nhất kể từ Chiến tranh Lạnh](https://vnexpress.net/nga-phuong-tay-tien-hanh-dot-trao-doi-tu-nhan-lon-nhat-ke-tu-chien-tranh-lanh-4776808.html) - 01:31 02/08/2024
-- 🥰 [Hezbollah tuyên bố phóng hàng chục rocket vào Israel](https://vnexpress.net/hezbollah-tuyen-bo-phong-hang-chuc-rocket-vao-israel-4776804.html) - 23:51 01/08/2024
-- 🔥 [Những vụ ám sát từng gây chấn động Trung Đông](https://vnexpress.net/nhung-vu-am-sat-tung-gay-chan-dong-trung-dong-4776384.html) - 22:00 01/08/2024
-- 🥳 [Israel tuyên bố sẵn sàng phòng thủ lẫn tấn công](https://vnexpress.net/israel-tuyen-bo-san-sang-phong-thu-lan-tan-cong-4776755.html) - 14:54 01/08/2024
-- 💼 [Thủ tướng: Việt - Ấn cần là nhân tố tích cực cho phát triển](https://vnexpress.net/thu-tuong-viet-an-can-la-nhan-to-tich-cuc-cho-phat-trien-4776754.html) - 14:19 01/08/2024
-- 🤡 [Những vũ khí có thể đã được dùng để ám sát thủ lĩnh Hamas](https://vnexpress.net/nhung-vu-khi-co-the-da-duoc-dung-de-am-sat-thu-linh-hamas-4776604.html) - 12:43 01/08/2024
-- 🌁 [Thủ lĩnh đối lập Israel cảnh báo nguy cơ &#39;chiến tranh không hồi kết&#39;](https://vnexpress.net/thu-linh-doi-lap-israel-canh-bao-nguy-co-chien-tranh-khong-hoi-ket-4776619.html) - 12:12 01/08/2024
-- 🤩 [Nga tuyên bố sẽ bắn hạ mọi tiêm kích F-16 của Ukraine](https://vnexpress.net/nga-tuyen-bo-se-ban-ha-moi-tiem-kich-f-16-cua-ukraine-4776734.html) - 12:09 01/08/2024
+- 🎭 [Những người Israel &#39;thà chết không nhập ngũ&#39;](https://vnexpress.net/nhung-nguoi-israel-tha-chet-khong-nhap-ngu-4777032.html) - 08:30 02/08/2024
+- 🕴 [Ông Biden: Vụ ám sát thủ lĩnh Hamas không có lợi cho đàm phán](https://vnexpress.net/ong-biden-vu-am-sat-thu-linh-hamas-khong-co-loi-cho-dam-phan-4776959.html) - 08:05 02/08/2024
+- 🤭 [Ông Trump chê thỏa thuận trao đổi tù nhân với Nga](https://vnexpress.net/ong-trump-che-thoa-thuan-trao-doi-tu-nhan-voi-nga-4776853.html) - 07:35 02/08/2024
+- 🧑‍💻 [Chiến thuật cài bom có thể đã đoạt mạng thủ lĩnh Hamas](https://vnexpress.net/chien-thuat-cai-bom-co-the-da-doat-mang-thu-linh-hamas-4776935.html) - 07:31 02/08/2024
+- 🦏 [Những lần Israel - Iran cận kề chiến tranh giữa xung đột Gaza](https://vnexpress.net/nhung-lan-israel-iran-can-ke-chien-tranh-giua-xung-dot-gaza-4776660.html) - 05:06 02/08/2024
+- 🦒 [Chỉ huy Hezbollah bị ám sát &#39;do lầm tưởng về Israel&#39;](https://vnexpress.net/chi-huy-hezbollah-bi-am-sat-do-lam-tuong-ve-israel-4776859.html) - 04:37 02/08/2024
+- 🌈 [Người phụ nữ dốc cạn tiền tiết kiệm tới Paris xem Olympic](https://vnexpress.net/nguoi-phu-nu-doc-can-tien-tiet-kiem-toi-paris-xem-olympic-4776592.html) - 04:22 02/08/2024
+- 🧑‍🏫 [Hàn Quốc lần đầu phô diễn uy lực pháo laser](https://vnexpress.net/han-quoc-lan-dau-pho-dien-uy-luc-phao-laser-4776833.html) - 03:43 02/08/2024
+- 🐲 [&#39;Chuyến thăm của Thủ tướng mở ra trang mới trong quan hệ Việt - Ấn&#39;](https://vnexpress.net/chuyen-tham-cua-thu-tuong-mo-ra-trang-moi-trong-quan-he-viet-an-4776854.html) - 03:25 02/08/2024
+- 🦒 [Tổng thống Venezuela thách đấu Elon Musk](https://vnexpress.net/tong-thong-venezuela-thach-dau-elon-musk-4776865.html) - 03:08 02/08/2024
+- 🐻 [30 người chết, hàng chục người mất tích vì lũ lụt ở Trung Quốc](https://vnexpress.net/30-nguoi-chet-hang-chuc-nguoi-mat-tich-vi-lu-lut-o-trung-quoc-4776838.html) - 02:53 02/08/2024
+- 🚀 [Truyền thông Mỹ nêu giả thuyết tòa nhà thủ lĩnh Hamas ở bị cài bom](https://vnexpress.net/truyen-thong-my-neu-gia-thuyet-toa-nha-thu-linh-hamas-o-bi-cai-bom-4776829.html) - 02:11 02/08/2024
+- 🥰 [Nga, phương Tây tiến hành đợt trao đổi tù nhân lớn nhất kể từ Chiến tranh Lạnh](https://vnexpress.net/nga-phuong-tay-tien-hanh-dot-trao-doi-tu-nhan-lon-nhat-ke-tu-chien-tranh-lanh-4776808.html) - 01:31 02/08/2024
+- 🔥 [Hezbollah tuyên bố phóng hàng chục rocket vào Israel](https://vnexpress.net/hezbollah-tuyen-bo-phong-hang-chuc-rocket-vao-israel-4776804.html) - 23:51 01/08/2024
+- 🥳 [Những vụ ám sát từng gây chấn động Trung Đông](https://vnexpress.net/nhung-vu-am-sat-tung-gay-chan-dong-trung-dong-4776384.html) - 22:00 01/08/2024
+- 💼 [Israel tuyên bố sẵn sàng phòng thủ lẫn tấn công](https://vnexpress.net/israel-tuyen-bo-san-sang-phong-thu-lan-tan-cong-4776755.html) - 14:54 01/08/2024
+- 🤡 [Thủ tướng: Việt - Ấn cần là nhân tố tích cực cho phát triển](https://vnexpress.net/thu-tuong-viet-an-can-la-nhan-to-tich-cuc-cho-phat-trien-4776754.html) - 14:19 01/08/2024
+- 🌁 [Những vũ khí có thể đã được dùng để ám sát thủ lĩnh Hamas](https://vnexpress.net/nhung-vu-khi-co-the-da-duoc-dung-de-am-sat-thu-linh-hamas-4776604.html) - 12:43 01/08/2024
+- 🤩 [Thủ lĩnh đối lập Israel cảnh báo nguy cơ &#39;chiến tranh không hồi kết&#39;](https://vnexpress.net/thu-linh-doi-lap-israel-canh-bao-nguy-co-chien-tranh-khong-hoi-ket-4776619.html) - 12:12 01/08/2024
+- 🎉 [Nga tuyên bố sẽ bắn hạ mọi tiêm kích F-16 của Ukraine](https://vnexpress.net/nga-tuyen-bo-se-ban-ha-moi-tiem-kich-f-16-cua-ukraine-4776734.html) - 12:09 01/08/2024
 - 🎉 [Thế khó với Iran khi đáp trả vụ ám sát thủ lĩnh Hamas](https://vnexpress.net/the-kho-voi-iran-khi-dap-tra-vu-am-sat-thu-linh-hamas-4776421.html) - 12:00 01/08/2024
-- 🎉 [Tổng thống Timor Leste viếng Lăng, thăm Bảo tàng Hồ Chí Minh](https://vnexpress.net/tong-thong-timor-leste-vieng-lang-tham-bao-tang-ho-chi-minh-4776736.html) - 11:29 01/08/2024
-- 🌁 [Việt Nam - Ấn Độ phấn đấu tăng gấp đôi kim ngạch thương mại, đầu tư](https://vnexpress.net/viet-nam-an-do-phan-dau-tang-gap-doi-kim-ngach-thuong-mai-dau-tu-4776708.html) - 10:45 01/08/2024
-- 🌊 [Hàn Quốc đề nghị hỗ trợ Triều Tiên khắc phục hậu quả lũ lụt](https://vnexpress.net/han-quoc-de-nghi-ho-tro-trieu-tien-khac-phuc-hau-qua-lu-lut-4776681.html) - 10:28 01/08/2024
-- 🕴 [Người dân các nước Trung Đông tuần hành sau cái chết của thủ lĩnh Hamas](https://vnexpress.net/nguoi-dan-cac-nuoc-trung-dong-tuan-hanh-sau-cai-chet-cua-thu-linh-hamas-4776544.html) - 10:17 01/08/2024
-- 🎓 [Israel tuyên bố đã hạ sát thủ lĩnh cánh vũ trang của Hamas](https://vnexpress.net/israel-tuyen-bo-da-ha-sat-thu-linh-canh-vu-trang-cua-hamas-4776664.html) - 09:45 01/08/2024
-- 🦩 [Cảnh sát Mỹ đóng giả người mua dâm để cứu nạn nhân buôn người](https://vnexpress.net/canh-sat-my-dong-gia-nguoi-mua-dam-de-cuu-nan-nhan-buon-nguoi-4776478.html) - 09:24 01/08/2024
-- 🌏 [Ông trùm buôn ma túy bằng thuyền buồm sa lưới](https://vnexpress.net/ong-trum-buon-ma-tuy-bang-thuyen-buom-sa-luoi-4776422.html) - 08:46 01/08/2024
-- 🌋 [Biển người Iran xuống đường đưa tang thủ lĩnh Hamas](https://vnexpress.net/bien-nguoi-iran-xuong-duong-dua-tang-thu-linh-hamas-4776598.html) - 08:26 01/08/2024
-- 🪜 [Việt Nam sẽ giúp Timor Leste đảm bảo an ninh lương thực](https://vnexpress.net/viet-nam-se-giup-timor-leste-dam-bao-an-ninh-luong-thuc-4776589.html) - 08:08 01/08/2024
-- 🕴 [Người Israel lo sợ cho con tin ở Gaza sau vụ thủ lĩnh Hamas bị ám sát](https://vnexpress.net/nguoi-israel-lo-so-cho-con-tin-o-gaza-sau-vu-thu-linh-hamas-bi-am-sat-4776436.html) - 07:54 01/08/2024
-- 🧑‍🏫 [Nghị sĩ Mỹ đề xuất dùng &#39;sức mạnh quân sự&#39; với Iran](https://vnexpress.net/nghi-si-my-de-xuat-dung-suc-manh-quan-su-voi-iran-4776559.html) - 07:52 01/08/2024
-- 🌮 [Phong trào cực hữu gây bạo loạn ở Anh](https://vnexpress.net/phong-trao-cuc-huu-gay-bao-loan-o-anh-4776490.html) - 07:52 01/08/2024
-- 🚦 [Lễ đón Thủ tướng Phạm Minh Chính tại Ấn Độ](https://vnexpress.net/le-don-thu-tuong-pham-minh-chinh-tai-an-do-4776569.html) - 07:25 01/08/2024
-- 💫 [Tòa nhà có thể là nơi thủ lĩnh Hamas bị hạ sát](https://vnexpress.net/toa-nha-co-the-la-noi-thu-linh-hamas-bi-ha-sat-4776494.html) - 06:52 01/08/2024
-- 🤡 [VĐV Triều Tiên và Hàn Quốc selfie chung tại Olympic](https://vnexpress.net/vdv-trieu-tien-va-han-quoc-selfie-chung-tai-olympic-4776508.html) - 05:05 01/08/2024
-- 🦣 [Thủ tướng Phạm Minh Chính: Sứ quán cần coi kiều bào như người thân](https://vnexpress.net/thu-tuong-pham-minh-chinh-su-quan-can-coi-kieu-bao-nhu-nguoi-than-4776331.html) - 04:03 01/08/2024
-- 🎬 [Việt Nam khuyến cáo an toàn cho công dân tại Israel, Lebanon](https://vnexpress.net/viet-nam-khuyen-cao-an-toan-cho-cong-dan-tai-israel-lebanon-4776439.html) - 03:39 01/08/2024
-- 🎉 [Chủ tịch nước Tô Lâm chủ trì lễ đón Tổng thống Timor Leste](https://vnexpress.net/chu-tich-nuoc-to-lam-chu-tri-le-don-tong-thong-timor-leste-4776466.html) - 03:19 01/08/2024
-- 🎡 [Thái Lan treo cờ rủ tưởng nhớ Tổng Bí thư Nguyễn Phú Trọng](https://vnexpress.net/thai-lan-treo-co-ru-tuong-nho-tong-bi-thu-nguyen-phu-trong-4776414.html) - 03:16 01/08/2024
-- 🌜 [Hội đồng Bảo an LHQ họp khẩn sau vụ thủ lĩnh Hamas bị ám sát](https://vnexpress.net/hoi-dong-bao-an-lhq-hop-khan-sau-vu-thu-linh-hamas-bi-am-sat-4776380.html) - 02:43 01/08/2024
-- 🎡 [Ông Trump công kích vấn đề chủng tộc của bà Harris](https://vnexpress.net/ong-trump-cong-kich-van-de-chung-toc-cua-ba-harris-4776366.html) - 02:36 01/08/2024
-- 🤗 [Kẻ chủ mưu vụ khủng bố 11/9 đạt thỏa thuận nhận tội với Mỹ](https://vnexpress.net/ke-chu-muu-vu-khung-bo-11-9-dat-thoa-thuan-nhan-toi-voi-my-4776349.html) - 00:38 01/08/2024
-- 🦩 [Mỹ tiến thoái lưỡng nan trước nguy cơ xung đột Israel - Hezbollah](https://vnexpress.net/my-tien-thoai-luong-nan-truoc-nguy-co-xung-dot-israel-hezbollah-4775973.html) - 00:31 01/08/2024
-- 🎓 [Lãnh tụ tối cao Iran &#39;ra lệnh tấn công trực tiếp vào Israel&#39;](https://vnexpress.net/lanh-tu-toi-cao-iran-ra-lenh-tan-cong-truc-tiep-vao-israel-4776350.html) - 00:11 01/08/2024
-- 🌁 [Ukraine có thể đã nhận lô tiêm kích F-16 đầu tiên](https://vnexpress.net/ukraine-co-the-da-nhan-lo-tiem-kich-f-16-dau-tien-4776336.html) - 23:35 31/07/2024
-- 🤩 [Thủ tướng Netanyahu: Israel đã tung đòn nghiền nát kẻ thù](https://vnexpress.net/thu-tuong-netanyahu-israel-da-tung-don-nghien-nat-ke-thu-4776339.html) - 23:22 31/07/2024
-- 👹 [Điện thoại - con dao hai lưỡi trên chiến trường Ukraine](https://vnexpress.net/dien-thoai-con-dao-hai-luoi-tren-chien-truong-ukraine-4774165.html) - 17:00 31/07/2024
-- ⛽️ [Qatar, Ai Cập lo ngại về tương lai đàm phán hòa bình Israel - Hamas](https://vnexpress.net/qatar-ai-cap-lo-ngai-ve-tuong-lai-dam-phan-hoa-binh-israel-hamas-4776326.html) - 16:32 31/07/2024
-- 🚀 [Máy bay hạng nhẹ rơi trên cao tốc Hà Lan](https://vnexpress.net/may-bay-hang-nhe-roi-tren-cao-toc-ha-lan-4776321.html) - 15:15 31/07/2024
-- 🎡 [Cảm nghĩ của người Palestine về vụ ám sát thủ lĩnh Hamas](https://vnexpress.net/cam-nghi-cua-nguoi-palestine-ve-vu-am-sat-thu-linh-hamas-4776306.html) - 14:19 31/07/2024
-- 🕯 [Những hoạt động cuối cùng của thủ lĩnh Hamas trước khi bị ám sát](https://vnexpress.net/nhung-hoat-dong-cuoi-cung-cua-thu-linh-hamas-truoc-khi-bi-am-sat-4776257.html) - 13:43 31/07/2024
-- 🐻 [Thất bại của phòng không Iran khi thủ lĩnh Hamas bị ám sát](https://vnexpress.net/that-bai-cua-phong-khong-iran-khi-thu-linh-hamas-bi-am-sat-4776179.html) - 13:20 31/07/2024
-- 🚦 [Bếp trưởng Nhà Trắng nghỉ hưu sau 29 năm phục vụ 5 tổng thống](https://vnexpress.net/bep-truong-nha-trang-nghi-huu-sau-29-nam-phuc-vu-5-tong-thong-4776171.html) - 12:43 31/07/2024
-- 👍 [Mỹ nói không liên quan tới vụ ám sát thủ lĩnh Hamas](https://vnexpress.net/my-noi-khong-lien-quan-toi-vu-am-sat-thu-linh-hamas-4776293.html) - 12:21 31/07/2024
-- 🚀 [Iran hứng &#39;cú tát&#39; khi thủ lĩnh Hamas bị ám sát giữa thủ đô](https://vnexpress.net/iran-hung-cu-tat-khi-thu-linh-hamas-bi-am-sat-giua-thu-do-4776204.html) - 12:00 31/07/2024
-- 🌮 [Ông Kim Jong-un cách chức Bộ trưởng Công an Triều Tiên](https://vnexpress.net/ong-kim-jong-un-cach-chuc-bo-truong-cong-an-trieu-tien-4776230.html) - 10:15 31/07/2024
-- 😎 [Lãnh tụ tối cao Iran thề trả thù vụ ám sát thủ lĩnh Hamas](https://vnexpress.net/lanh-tu-toi-cao-iran-the-tra-thu-vu-am-sat-thu-linh-hamas-4776250.html) - 09:43 31/07/2024
-- 🐲 [Iran nói thủ lĩnh Hamas bị hạ sát bởi tên lửa không đối đất](https://vnexpress.net/iran-noi-thu-linh-hamas-bi-ha-sat-boi-ten-lua-khong-doi-dat-4776159.html) - 08:14 31/07/2024
-- 💫 [Khoảnh khắc rocket lao xuống sân bóng ở Cao nguyên Golan](https://vnexpress.net/khoanh-khac-rocket-lao-xuong-san-bong-o-cao-nguyen-golan-4776008.html) - 08:10 31/07/2024
-- 👀 [Các nước lên án vụ ám sát thủ lĩnh Hamas](https://vnexpress.net/cac-nuoc-len-an-vu-am-sat-thu-linh-hamas-4776089.html) - 07:27 31/07/2024<!-- vnexpress-the-gioi:END -->
+- 🌁 [Tổng thống Timor Leste viếng Lăng, thăm Bảo tàng Hồ Chí Minh](https://vnexpress.net/tong-thong-timor-leste-vieng-lang-tham-bao-tang-ho-chi-minh-4776736.html) - 11:29 01/08/2024
+- 🌊 [Việt Nam - Ấn Độ phấn đấu tăng gấp đôi kim ngạch thương mại, đầu tư](https://vnexpress.net/viet-nam-an-do-phan-dau-tang-gap-doi-kim-ngach-thuong-mai-dau-tu-4776708.html) - 10:45 01/08/2024
+- 🕴 [Hàn Quốc đề nghị hỗ trợ Triều Tiên khắc phục hậu quả lũ lụt](https://vnexpress.net/han-quoc-de-nghi-ho-tro-trieu-tien-khac-phuc-hau-qua-lu-lut-4776681.html) - 10:28 01/08/2024
+- 🎓 [Người dân các nước Trung Đông tuần hành sau cái chết của thủ lĩnh Hamas](https://vnexpress.net/nguoi-dan-cac-nuoc-trung-dong-tuan-hanh-sau-cai-chet-cua-thu-linh-hamas-4776544.html) - 10:17 01/08/2024
+- 🦩 [Israel tuyên bố đã hạ sát thủ lĩnh cánh vũ trang của Hamas](https://vnexpress.net/israel-tuyen-bo-da-ha-sat-thu-linh-canh-vu-trang-cua-hamas-4776664.html) - 09:45 01/08/2024
+- 🌏 [Cảnh sát Mỹ đóng giả người mua dâm để cứu nạn nhân buôn người](https://vnexpress.net/canh-sat-my-dong-gia-nguoi-mua-dam-de-cuu-nan-nhan-buon-nguoi-4776478.html) - 09:24 01/08/2024
+- 🌋 [Ông trùm buôn ma túy bằng thuyền buồm sa lưới](https://vnexpress.net/ong-trum-buon-ma-tuy-bang-thuyen-buom-sa-luoi-4776422.html) - 08:46 01/08/2024
+- 🪜 [Biển người Iran xuống đường đưa tang thủ lĩnh Hamas](https://vnexpress.net/bien-nguoi-iran-xuong-duong-dua-tang-thu-linh-hamas-4776598.html) - 08:26 01/08/2024
+- 🕴 [Việt Nam sẽ giúp Timor Leste đảm bảo an ninh lương thực](https://vnexpress.net/viet-nam-se-giup-timor-leste-dam-bao-an-ninh-luong-thuc-4776589.html) - 08:08 01/08/2024
+- 🧑‍🏫 [Người Israel lo sợ cho con tin ở Gaza sau vụ thủ lĩnh Hamas bị ám sát](https://vnexpress.net/nguoi-israel-lo-so-cho-con-tin-o-gaza-sau-vu-thu-linh-hamas-bi-am-sat-4776436.html) - 07:54 01/08/2024
+- 🌮 [Nghị sĩ Mỹ đề xuất dùng &#39;sức mạnh quân sự&#39; với Iran](https://vnexpress.net/nghi-si-my-de-xuat-dung-suc-manh-quan-su-voi-iran-4776559.html) - 07:52 01/08/2024
+- 🚦 [Phong trào cực hữu gây bạo loạn ở Anh](https://vnexpress.net/phong-trao-cuc-huu-gay-bao-loan-o-anh-4776490.html) - 07:52 01/08/2024
+- 💫 [Lễ đón Thủ tướng Phạm Minh Chính tại Ấn Độ](https://vnexpress.net/le-don-thu-tuong-pham-minh-chinh-tai-an-do-4776569.html) - 07:25 01/08/2024
+- 🤡 [Tòa nhà có thể là nơi thủ lĩnh Hamas bị hạ sát](https://vnexpress.net/toa-nha-co-the-la-noi-thu-linh-hamas-bi-ha-sat-4776494.html) - 06:52 01/08/2024
+- 🦣 [VĐV Triều Tiên và Hàn Quốc selfie chung tại Olympic](https://vnexpress.net/vdv-trieu-tien-va-han-quoc-selfie-chung-tai-olympic-4776508.html) - 05:05 01/08/2024
+- 🎬 [Thủ tướng Phạm Minh Chính: Sứ quán cần coi kiều bào như người thân](https://vnexpress.net/thu-tuong-pham-minh-chinh-su-quan-can-coi-kieu-bao-nhu-nguoi-than-4776331.html) - 04:03 01/08/2024
+- 🎉 [Việt Nam khuyến cáo an toàn cho công dân tại Israel, Lebanon](https://vnexpress.net/viet-nam-khuyen-cao-an-toan-cho-cong-dan-tai-israel-lebanon-4776439.html) - 03:39 01/08/2024
+- 🎡 [Chủ tịch nước Tô Lâm chủ trì lễ đón Tổng thống Timor Leste](https://vnexpress.net/chu-tich-nuoc-to-lam-chu-tri-le-don-tong-thong-timor-leste-4776466.html) - 03:19 01/08/2024
+- 🌜 [Thái Lan treo cờ rủ tưởng nhớ Tổng Bí thư Nguyễn Phú Trọng](https://vnexpress.net/thai-lan-treo-co-ru-tuong-nho-tong-bi-thu-nguyen-phu-trong-4776414.html) - 03:16 01/08/2024
+- 🎡 [Hội đồng Bảo an LHQ họp khẩn sau vụ thủ lĩnh Hamas bị ám sát](https://vnexpress.net/hoi-dong-bao-an-lhq-hop-khan-sau-vu-thu-linh-hamas-bi-am-sat-4776380.html) - 02:43 01/08/2024
+- 🤗 [Ông Trump công kích vấn đề chủng tộc của bà Harris](https://vnexpress.net/ong-trump-cong-kich-van-de-chung-toc-cua-ba-harris-4776366.html) - 02:36 01/08/2024
+- 🦩 [Kẻ chủ mưu vụ khủng bố 11/9 đạt thỏa thuận nhận tội với Mỹ](https://vnexpress.net/ke-chu-muu-vu-khung-bo-11-9-dat-thoa-thuan-nhan-toi-voi-my-4776349.html) - 00:38 01/08/2024
+- 🎓 [Mỹ tiến thoái lưỡng nan trước nguy cơ xung đột Israel - Hezbollah](https://vnexpress.net/my-tien-thoai-luong-nan-truoc-nguy-co-xung-dot-israel-hezbollah-4775973.html) - 00:31 01/08/2024
+- 🌁 [Lãnh tụ tối cao Iran &#39;ra lệnh tấn công trực tiếp vào Israel&#39;](https://vnexpress.net/lanh-tu-toi-cao-iran-ra-lenh-tan-cong-truc-tiep-vao-israel-4776350.html) - 00:11 01/08/2024
+- 🤩 [Ukraine có thể đã nhận lô tiêm kích F-16 đầu tiên](https://vnexpress.net/ukraine-co-the-da-nhan-lo-tiem-kich-f-16-dau-tien-4776336.html) - 23:35 31/07/2024
+- 👹 [Thủ tướng Netanyahu: Israel đã tung đòn nghiền nát kẻ thù](https://vnexpress.net/thu-tuong-netanyahu-israel-da-tung-don-nghien-nat-ke-thu-4776339.html) - 23:22 31/07/2024
+- ⛽️ [Điện thoại - con dao hai lưỡi trên chiến trường Ukraine](https://vnexpress.net/dien-thoai-con-dao-hai-luoi-tren-chien-truong-ukraine-4774165.html) - 17:00 31/07/2024
+- 🚀 [Qatar, Ai Cập lo ngại về tương lai đàm phán hòa bình Israel - Hamas](https://vnexpress.net/qatar-ai-cap-lo-ngai-ve-tuong-lai-dam-phan-hoa-binh-israel-hamas-4776326.html) - 16:32 31/07/2024
+- 🎡 [Máy bay hạng nhẹ rơi trên cao tốc Hà Lan](https://vnexpress.net/may-bay-hang-nhe-roi-tren-cao-toc-ha-lan-4776321.html) - 15:15 31/07/2024
+- 🕯 [Cảm nghĩ của người Palestine về vụ ám sát thủ lĩnh Hamas](https://vnexpress.net/cam-nghi-cua-nguoi-palestine-ve-vu-am-sat-thu-linh-hamas-4776306.html) - 14:19 31/07/2024
+- 🐻 [Những hoạt động cuối cùng của thủ lĩnh Hamas trước khi bị ám sát](https://vnexpress.net/nhung-hoat-dong-cuoi-cung-cua-thu-linh-hamas-truoc-khi-bi-am-sat-4776257.html) - 13:43 31/07/2024
+- 🚦 [Thất bại của phòng không Iran khi thủ lĩnh Hamas bị ám sát](https://vnexpress.net/that-bai-cua-phong-khong-iran-khi-thu-linh-hamas-bi-am-sat-4776179.html) - 13:20 31/07/2024
+- 👍 [Bếp trưởng Nhà Trắng nghỉ hưu sau 29 năm phục vụ 5 tổng thống](https://vnexpress.net/bep-truong-nha-trang-nghi-huu-sau-29-nam-phuc-vu-5-tong-thong-4776171.html) - 12:43 31/07/2024
+- 🚀 [Mỹ nói không liên quan tới vụ ám sát thủ lĩnh Hamas](https://vnexpress.net/my-noi-khong-lien-quan-toi-vu-am-sat-thu-linh-hamas-4776293.html) - 12:21 31/07/2024
+- 🌮 [Iran hứng &#39;cú tát&#39; khi thủ lĩnh Hamas bị ám sát giữa thủ đô](https://vnexpress.net/iran-hung-cu-tat-khi-thu-linh-hamas-bi-am-sat-giua-thu-do-4776204.html) - 12:00 31/07/2024
+- 😎 [Ông Kim Jong-un cách chức Bộ trưởng Công an Triều Tiên](https://vnexpress.net/ong-kim-jong-un-cach-chuc-bo-truong-cong-an-trieu-tien-4776230.html) - 10:15 31/07/2024
+- 🐲 [Lãnh tụ tối cao Iran thề trả thù vụ ám sát thủ lĩnh Hamas](https://vnexpress.net/lanh-tu-toi-cao-iran-the-tra-thu-vu-am-sat-thu-linh-hamas-4776250.html) - 09:43 31/07/2024
+- 💫 [Iran nói thủ lĩnh Hamas bị hạ sát bởi tên lửa không đối đất](https://vnexpress.net/iran-noi-thu-linh-hamas-bi-ha-sat-boi-ten-lua-khong-doi-dat-4776159.html) - 08:14 31/07/2024
+- 👀 [Khoảnh khắc rocket lao xuống sân bóng ở Cao nguyên Golan](https://vnexpress.net/khoanh-khac-rocket-lao-xuong-san-bong-o-cao-nguyen-golan-4776008.html) - 08:10 31/07/2024<!-- vnexpress-the-gioi:END -->
