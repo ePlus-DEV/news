@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Xây tường cao 2 m chống ngập cao tốc Dầu Giây - Phan Thiết](https://vnexpress.net/xay-tuong-cao-2-m-chong-ngap-cao-toc-dau-giay-phan-thiet-4777025.html) - 07:33 02/08/2024
 - 🤓 [TP HCM mở rộng đường cửa ngõ kết nối Bình Dương](https://vnexpress.net/tp-hcm-mo-rong-duong-cua-ngo-ket-noi-binh-duong-4777027.html) - 06:30 02/08/2024
 - ⚗️ [Gần 200 hành vi có thể bị trừ điểm giấy phép lái xe](https://vnexpress.net/gan-200-hanh-vi-co-the-bi-tru-diem-giay-phep-lai-xe-4776932.html) - 05:35 02/08/2024
-- 🌊 [Ba hồ thủy điện lớn mở cửa xả](https://vnexpress.net/ba-ho-thuy-dien-lon-mo-cua-xa-4776922.html) - 04:41 02/08/2024
+- 🌊 [Ba hồ thủy điện lớn mở 7 cửa xả](https://vnexpress.net/ba-ho-thuy-dien-lon-mo-7-cua-xa-4776922.html) - 04:41 02/08/2024
 - 🎓 [Thanh Hóa làm cầu vượt đường sắt gần 650 tỷ đồng](https://vnexpress.net/thanh-hoa-lam-cau-vuot-duong-sat-gan-650-ty-dong-4776931.html) - 04:24 02/08/2024
 - 🔥 [Lốc xoáy đánh lật tàu ở Phú Quý, 6 người gặp nạn](https://vnexpress.net/loc-xoay-danh-lat-tau-o-phu-quy-6-nguoi-gap-nan-4776942.html) - 04:10 02/08/2024
 - 🦏 [Cuộc sống ở vùng lũ của Thủ đô](https://vnexpress.net/cuoc-song-o-vung-lu-cua-thu-do-4776815.html) - 03:56 02/08/2024
