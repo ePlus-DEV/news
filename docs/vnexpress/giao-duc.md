@@ -9,7 +9,7 @@ sidebar_position: 7
 - 🦩 [Tỉnh nào có thành phố trực thuộc muộn nhất ở miền Bắc?](https://vnexpress.net/tinh-nao-co-thanh-pho-truc-thuoc-muon-nhat-o-mien-bac-4776741.html) - 13:21 01/08/2024
 - 🌮 [Chưa đến 10% sinh viên Đại học Y Hà Nội tốt nghiệp loại giỏi](https://vnexpress.net/chua-den-10-sinh-vien-dai-hoc-y-ha-noi-tot-nghiep-loai-gioi-4776539.html) - 09:06 01/08/2024
 - 🔭 [Căng thẳng vì bố mẹ &#39;chọn hộ&#39; đại học](https://vnexpress.net/cang-thang-vi-bo-me-chon-ho-dai-hoc-4766103.html) - 07:00 01/08/2024
-- 💡 [6 thí sinh Việt vào top 10 giải Tin học văn phòng thế giới](https://vnexpress.net/6-thi-sinh-viet-vao-top-10-giai-tin-hoc-van-phong-the-gioi-4776489.html) - 05:44 01/08/2024
+- 💡 [Học sinh Việt vào top 10 giải Tin học văn phòng thế giới](https://vnexpress.net/hoc-sinh-viet-vao-top-10-giai-tin-hoc-van-phong-the-gioi-4776489.html) - 05:44 01/08/2024
 - 🥰 [Hơn 1.000 người tham gia khảo sát chất lượng các trường đại học](https://vnexpress.net/hon-1-000-nguoi-tham-gia-khao-sat-chat-luong-cac-truong-dai-hoc-4776467.html) - 05:00 01/08/2024
 - 🐲 [Hành trình chinh phục Shell Eco-marathon 2024 của sinh viên Việt](https://vnexpress.net/hanh-trinh-chinh-phuc-shell-eco-marathon-2024-cua-sinh-vien-viet-4773591.html) - 03:00 01/08/2024
 - 🦒 [Hơn 20 tỉnh, thành công bố học phí năm học mới](https://vnexpress.net/hon-20-tinh-thanh-cong-bo-hoc-phi-nam-hoc-moi-4775115.html) - 02:38 01/08/2024
