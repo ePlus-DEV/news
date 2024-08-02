@@ -47,5 +47,4 @@ sidebar_position: 9
 - 🏊 [Em luôn vui vẻ, yêu đời](https://vnexpress.net/em-luon-vui-ve-yeu-doi-4776882.html) - 08:00 02/08/2024
 - 💃 [Robot AI lắp đặt trang trại điện mặt trời lớn nhất Mỹ](https://vnexpress.net/robot-ai-lap-dat-trang-trai-dien-mat-troi-lon-nhat-my-4776939.html) - 08:00 02/08/2024
 - 🦆 [Bị đồng nghiệp đặt điều ngoại tình trong thời gian nghỉ sinh](https://vnexpress.net/bi-dong-nghiep-dat-dieu-ngoai-tinh-trong-thoi-gian-nghi-sinh-4776844.html) - 08:00 02/08/2024
-- 🎊 [Dừng uống sữa bò có ngăn dậy thì sớm?](https://vnexpress.net/dung-uong-sua-bo-co-ngan-day-thi-som-4777030.html) - 08:00 02/08/2024
-- 👺 [Chocopie công bố top 2 cuộc thi sáng tác bao bì bánh](https://vnexpress.net/chocopie-cong-bo-top-2-cuoc-thi-sang-tac-bao-bi-banh-4773223.html) - 08:00 02/08/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🎊 [Dừng uống sữa bò có ngăn dậy thì sớm?](https://vnexpress.net/dung-uong-sua-bo-co-ngan-day-thi-som-4777030.html) - 08:00 02/08/2024<!-- vnexpress-tin-moi-nhat:END -->
