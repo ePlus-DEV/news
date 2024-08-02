@@ -210,7 +210,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp bóng đá U23 Pháp 1-0 U23 Argentina: Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-u23-phap-1-0-u23-argentina-hiep-2-1375183.ldo) - 18:00 02/08/2024
+- 🗽 [U23 Pháp giành vé bán kết Olympic 2024 từ tay U23 Argentina](https://laodong.vn/bong-da-quoc-te/u23-phap-gianh-ve-ban-ket-olympic-2024-tu-tay-u23-argentina-1375183.ldo) - 18:00 02/08/2024
 - 📝 [Khởi tố vụ tai nạn lao động làm 3 người chết ở Lào Cai](https://laodong.vn/phap-luat/khoi-to-vu-tai-nan-lao-dong-lam-3-nguoi-chet-o-lao-cai-1375234.ldo) - 15:50 02/08/2024
 - 🦏 [Bích Tuyền nói về màn thể hiện của tuyển bóng chuyền nữ Việt Nam](https://laodong.vn/the-thao/bich-tuyen-noi-ve-man-the-hien-cua-tuyen-bong-chuyen-nu-viet-nam-1375224.ldo) - 15:37 02/08/2024
 - 🦩 [Man United đang thay đổi từ những điều nhỏ nhặt nhất](https://laodong.vn/bong-da-quoc-te/man-united-dang-thay-doi-tu-nhung-dieu-nho-nhat-nhat-1375200.ldo) - 15:00 02/08/2024
