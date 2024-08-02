@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Tái hiện hình tượng rồng trên bia tiến sĩ](https://vnexpress.net/tai-hien-hinh-tuong-rong-tren-bia-tien-si-4776487.html) - 08:11 02/08/2024
 - 💫 [&#39;Trùm phim kiếm hiệp&#39; bị phạt vì tiết lộ đời tư vợ cũ](https://vnexpress.net/trum-phim-kiem-hiep-bi-phat-vi-tiet-lo-doi-tu-vo-cu-4777045.html) - 08:02 02/08/2024
-- 🌮 [Đạo diễn phim &#39;Tướng về hưu&#39; qua đời](https://vnexpress.net/dao-dien-phim-tuong-ve-huu-qua-doi-4777040.html) - 07:15 02/08/2024
+- 🌮 [Đạo diễn phim &#39;Nguyễn Ái Quốc ở Hong Kong&#39; qua đời](https://vnexpress.net/dao-dien-phim-nguyen-ai-quoc-o-hong-kong-qua-doi-4777040.html) - 07:15 02/08/2024
 - 🧠 [Triển lãm 35 tranh màu nước của họa sĩ Hồ Hưng](https://vnexpress.net/trien-lam-35-tranh-mau-nuoc-cua-hoa-si-ho-hung-4774899.html) - 07:01 02/08/2024
 - 👨‍🏫 [Quyền Linh tái xuất màn ảnh rộng](https://vnexpress.net/quyen-linh-tai-xuat-man-anh-rong-4776871.html) - 05:20 02/08/2024
 - ⚗️ [Hồi ký của Britney Spears chuyển thể thành phim](https://vnexpress.net/hoi-ky-cua-britney-spears-chuyen-the-thanh-phim-4776890.html) - 04:31 02/08/2024
