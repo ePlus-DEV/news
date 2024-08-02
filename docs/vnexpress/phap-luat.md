@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cảnh sát đột kích nhà hàng có hơn 100 tiếp viên bán dâm](https://vnexpress.net/canh-sat-dot-kich-nha-hang-co-hon-100-tiep-vien-ban-dam-4776842.html) - 01:58 02/08/2024
+- 😎 [Cảnh sát đột kích nhà hàng có hơn 120 tiếp viên bán dâm](https://vnexpress.net/canh-sat-dot-kich-nha-hang-co-hon-120-tiep-vien-ban-dam-4776842.html) - 01:58 02/08/2024
 - 🥰 [Chủ tịch HĐQT Công ty Tân Tân bị truy tố vì không chấp hành bản án](https://vnexpress.net/chu-tich-hdqt-cong-ty-tan-tan-bi-truy-to-vi-khong-chap-hanh-ban-an-4775574.html) - 23:00 01/08/2024
 - 🎓 [Người mẹ bị truy tố vì bán trinh con gái 14 tuổi](https://vnexpress.net/nguoi-me-bi-truy-to-vi-ban-trinh-con-gai-14-tuoi-4776775.html) - 17:03 01/08/2024
 - 🤓 [Từ tháng 8, chủ căn hộ chung cư cũ bị phá dỡ được bồi thường thế nào](https://vnexpress.net/chung-cu-cu-bi-pha-do-nguoi-dan-duoc-boi-thuong-the-nao-4776710.html) - 17:00 01/08/2024
