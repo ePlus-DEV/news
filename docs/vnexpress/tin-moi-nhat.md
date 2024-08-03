@@ -7,7 +7,7 @@ sidebar_position: 9
 - 🎬 [Người đẹp Hải Dương đăng quang Hoa hậu Du lịch Việt Nam](https://vnexpress.net/nguoi-dep-hai-duong-dang-quang-hoa-hau-du-lich-viet-nam-4777487.html) - 22:37 03/08/2024
 - 🐎 [4 cầu, hầm chui ở TP HCM sắp thông xe](https://vnexpress.net/4-cau-ham-chui-o-tp-hcm-sap-thong-xe-4777425.html) - 22:00 03/08/2024
 - 🦍 [Cách ông Biden đạt thỏa thuận trao đổi tù nhân với Nga](https://vnexpress.net/cach-ong-biden-dat-thoa-thuan-trao-doi-tu-nhan-voi-nga-4777235.html) - 22:00 03/08/2024
-- 🏊 [&#39;Chân dung&#39; iPhone Slim - điện thoại mỏng nhất của Apple](https://vnexpress.net/chan-dung-iphone-slim-dien-thoai-mong-nhat-cua-apple-4777229.html) - 22:00 03/08/2024
+- 🏊 [&#39;Chân dung&#39; iPhone 17 Slim - điện thoại mỏng nhất của Apple](https://vnexpress.net/chan-dung-iphone-17-slim-dien-thoai-mong-nhat-cua-apple-4777229.html) - 22:00 03/08/2024
 - 🎊 [Ung thư tăng mạnh ở thế hệ sinh năm 1965-1996](https://vnexpress.net/ung-thu-tang-manh-o-the-he-sinh-nam-1965-1996-4776728.html) - 22:00 03/08/2024
 - 🎃 [Tranh hoa sen &#39;như thật&#39;](https://vnexpress.net/tranh-hoa-sen-nhu-that-4777344.html) - 22:00 03/08/2024
 - 🧰 [Phóng viên kể chuyện: Vòng xoáy di cư](https://vnexpress.net/phong-vien-ke-chuyen-vong-xoay-di-cu-4777482.html) - 21:00 03/08/2024
