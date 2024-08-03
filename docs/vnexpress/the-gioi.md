@@ -8,7 +8,7 @@ sidebar_position: 2
 - 🕴 [Ông Biden &#39;cảnh cáo Israel về căng thẳng Trung Đông&#39;](https://vnexpress.net/ong-biden-canh-cao-israel-ve-cang-thang-trung-dong-4777277.html) - 08:15 03/08/2024
 - 🤭 [Ông Trump đồng ý tranh luận với bà Harris](https://vnexpress.net/ong-trump-dong-y-tranh-luan-voi-ba-harris-4777371.html) - 07:53 03/08/2024
 - 🧑‍💻 [Israel hứng đòn tập kích rocket lớn nhất trong nhiều tuần từ Gaza](https://vnexpress.net/israel-hung-don-tap-kich-rocket-lon-nhat-trong-nhieu-tuan-tu-gaza-4777314.html) - 07:22 03/08/2024
-- 🦏 [Lãnh đạo Lào, Campuchia chúc mừng Tổng Bí thư Tô Lâm](https://vnexpress.net/lanh-dao-lao-campuchia-chuc-mung-tong-bi-thu-to-lam-4777377.html) - 07:15 03/08/2024
+- 🦏 [Lãnh đạo các nước chúc mừng Tổng Bí thư Tô Lâm](https://vnexpress.net/lanh-dao-cac-nuoc-chuc-mung-tong-bi-thu-to-lam-4777377.html) - 07:15 03/08/2024
 - 🦒 [Israel cảnh báo công dân về nguy cơ bị tấn công ở nước ngoài](https://vnexpress.net/israel-canh-bao-cong-dan-ve-nguy-co-bi-tan-cong-o-nuoc-ngoai-4777251.html) - 05:09 03/08/2024
 - 🌈 [Ông Kim Jong-un cáo buộc truyền thông Hàn &#39;tung tin giả&#39; về thiệt hại lũ lụt](https://vnexpress.net/ong-kim-jong-un-cao-buoc-truyen-thong-han-tung-tin-gia-ve-thiet-hai-lu-lut-4777270.html) - 04:25 03/08/2024
 - 🧑‍🏫 [Báo Anh nói Mossad dùng điệp viên người Iran đặt bom ám sát thủ lĩnh Hamas](https://vnexpress.net/bao-anh-noi-mossad-dung-diep-vien-nguoi-iran-dat-bom-am-sat-thu-linh-hamas-4777258.html) - 03:50 03/08/2024
