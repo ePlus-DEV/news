@@ -16,7 +16,7 @@ sidebar_position: 3
 - 🤔 [Bình Dương có trung tâm phân loại hàng tự động 30 triệu USD](https://vnexpress.net/binh-duong-co-trung-tam-phan-loai-hang-tu-dong-30-trieu-usd-4776249.html) - 00:00 03/08/2024
 - 🧑‍💻 [Cửa hàng EraBlue có doanh thu gấp đôi Điện Máy Xanh](https://vnexpress.net/cua-hang-erablue-co-doanh-thu-gap-doi-dien-may-xanh-4777158.html) - 17:58 02/08/2024
 - 🕴 [Động lực giúp Hải Phòng duy trì tốc độ tăng trưởng hai con số](https://vnexpress.net/dong-luc-giup-hai-phong-duy-tri-toc-do-tang-truong-hai-con-so-4776770.html) - 15:33 02/08/2024
-- 🦩 [SJC mua lại vàng miếng một chữ và móp méo từ tuần sau](https://vnexpress.net/gia-vang-hom-nay-3-8-tuan-sau-sjc-mua-lai-vang-mieng-mot-chu-va-mop-meo-4777206.html) - 15:19 02/08/2024
+- 🦩 [SJC mua lại vàng miếng một chữ và móp méo từ tuần sau](https://vnexpress.net/sjc-mua-lai-vang-mieng-mot-chu-va-mop-meo-tu-tuan-sau-4777206.html) - 15:19 02/08/2024
 - 👍 [Mỹ chưa công nhận Việt Nam là nền kinh tế thị trường](https://vnexpress.net/my-chua-cong-nhan-viet-nam-la-nen-kinh-te-thi-truong-4777187.html) - 14:11 02/08/2024
 - 🏊 [Hong Kong sẵn sàng giúp TP HCM phát triển trung tâm tài chính](https://vnexpress.net/hong-kong-san-sang-giup-tp-hcm-phat-trien-trung-tam-tai-chinh-4777168.html) - 13:41 02/08/2024
 - 🤡 [Chứng khoán Nhật Bản giảm mạnh nhất 8 năm](https://vnexpress.net/chung-khoan-nhat-ban-giam-manh-nhat-8-nam-4777088.html) - 09:52 02/08/2024
