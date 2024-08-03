@@ -59,7 +59,7 @@ sidebar_position: 2
 - 🚦 [Thái Lan treo cờ rủ tưởng nhớ Tổng Bí thư Nguyễn Phú Trọng](https://vnexpress.net/thai-lan-treo-co-ru-tuong-nho-tong-bi-thu-nguyen-phu-trong-4776414.html) - 03:16 01/08/2024
 - 👍 [Hội đồng Bảo an LHQ họp khẩn sau vụ thủ lĩnh Hamas bị ám sát](https://vnexpress.net/hoi-dong-bao-an-lhq-hop-khan-sau-vu-thu-linh-hamas-bi-am-sat-4776380.html) - 02:43 01/08/2024
 - 🚀 [Ông Trump công kích vấn đề chủng tộc của bà Harris](https://vnexpress.net/ong-trump-cong-kich-van-de-chung-toc-cua-ba-harris-4776366.html) - 02:36 01/08/2024
-- 🌮 [Kẻ chủ mưu vụ khủng bố 11/9 đạt thỏa thuận nhận tội với Mỹ](https://vnexpress.net/ke-chu-muu-vu-khung-bo-11-9-dat-thoa-thuan-nhan-toi-voi-my-4776349.html) - 00:38 01/08/2024
+- 🌮 [Nghi phạm chủ mưu vụ khủng bố 11/9 đạt thỏa thuận nhận tội với Mỹ](https://vnexpress.net/nghi-pham-chu-muu-vu-khung-bo-11-9-dat-thoa-thuan-nhan-toi-voi-my-4776349.html) - 00:38 01/08/2024
 - 😎 [Mỹ tiến thoái lưỡng nan trước nguy cơ xung đột Israel - Hezbollah](https://vnexpress.net/my-tien-thoai-luong-nan-truoc-nguy-co-xung-dot-israel-hezbollah-4775973.html) - 00:31 01/08/2024
 - 🐲 [Lãnh tụ tối cao Iran &#39;ra lệnh tấn công trực tiếp vào Israel&#39;](https://vnexpress.net/lanh-tu-toi-cao-iran-ra-lenh-tan-cong-truc-tiep-vao-israel-4776350.html) - 00:11 01/08/2024
 - 💫 [Ukraine có thể đã nhận lô tiêm kích F-16 đầu tiên](https://vnexpress.net/ukraine-co-the-da-nhan-lo-tiem-kich-f-16-dau-tien-4776336.html) - 23:35 31/07/2024
