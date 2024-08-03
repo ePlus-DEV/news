@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Võ sĩ judo bị loại khỏi Olympic vì đá vào chỗ hiểm của đối thủ](https://vnexpress.net/vo-si-judo-bi-loai-khoi-olympic-vi-da-vao-cho-hiem-cua-doi-thu-4777378.html) - 08:09 03/08/2024
-- 🦩 [Trịnh Thu Vinh đứng thứ bảy ở chung kết 25m súng ngắn Olympic 2024](https://vnexpress.net/trinh-thu-vinh-dung-thu-bay-o-chung-ket-25m-sung-ngan-olympic-2024-4777386.html) - 07:05 03/08/2024
+- 🦩 [Trịnh Thu Vinh đứng thứ bảy ở chung kết 25m súng ngắn Olympic 2024](https://vnexpress.net/trinh-thu-vinh-dung-thu-bay-o-chung-ket-25m-sung-ngan-olympic-2024-4777386-tong-thuat.html) - 07:05 03/08/2024
 - 🧰 [Ten Hag: &#39;Khi có tập thể vững vàng, tôi sẽ thành công&#39;](https://vnexpress.net/ten-hag-khi-co-tap-the-vung-vang-toi-se-thanh-cong-4777365.html) - 05:31 03/08/2024
 - 🤗 [Swiatek khóc 6 tiếng vì lỡ chung kết Olympic](https://vnexpress.net/swiatek-khoc-6-tieng-vi-lo-chung-ket-olympic-4777342.html) - 05:21 03/08/2024
 - 🥳 [Tay vợt số một thế giới thua sốc ở cầu lông đơn nam Olympic 2024](https://vnexpress.net/tay-vot-so-mot-the-gioi-thua-soc-o-cau-long-don-nam-olympic-2024-4777327.html) - 04:32 03/08/2024
