@@ -313,7 +313,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Đồng chí Tô Lâm giữ chức Tổng Bí thư](https://www.sggp.org.vn/dong-chi-to-lam-giu-chuc-tong-bi-thu-post752375.html) - 03:27 03/08/2024
+- 🪜 [Đồng chí Tô Lâm được bầu giữ chức Tổng Bí thư](https://www.sggp.org.vn/dong-chi-to-lam-duoc-bau-giu-chuc-tong-bi-thu-post752375.html) - 03:27 03/08/2024
 - 🌝 [Wout van Aert: Mathieu van der Poel là ứng cử viên sáng giá nhất ở Olympic 2024](https://www.sggp.org.vn/wout-van-aert-mathieu-van-der-poel-la-ung-cu-vien-sang-gia-nhat-o-olympic-2024-post752373.html) - 03:11 03/08/2024
 - 💃 [Khai mạc Hội nghị Ban Chấp hành Trung ương Đảng khóa XIII](https://www.sggp.org.vn/khai-mac-hoi-nghi-ban-chap-hanh-trung-uong-dang-khoa-xiii-post752374.html) - 03:08 03/08/2024
 - 🧑‍💻 [Hôm nay, mưa dông nhiều nơi trên cả nước](https://www.sggp.org.vn/hom-nay-mua-dong-nhieu-noi-tren-ca-nuoc-post752372.html) - 03:03 03/08/2024
