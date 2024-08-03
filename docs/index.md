@@ -248,7 +248,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- nld:START -->
 - 🐎 [TP HCM: Khi thầy, cô &quot;học&quot; viết thông cáo báo chí, sắm vai nhà báo](https://nld.com.vn/tp-hcm-khi-thay-co-hoc-viet-thong-cao-bao-chi-sam-vai-nha-bao-196240803165241545.htm) - 10:12 03/08/2024
 - 😺 [Công bố Giải Bóng chuyền Công an TP HCM mở rộng lần I - năm 2024](https://nld.com.vn/cong-bo-giai-bong-chuyen-cong-an-tp-hcm-mo-rong-lan-i-nam-2024-196240803163442578.htm) - 09:52 03/08/2024
-- 👍 [Iran bắt quan chức cấp cao liên quan đến vụ ám sát thủ lĩnh Hamas](https://nld.com.vn/iran-bat-quan-chuc-cap-cao-lien-quan-den-vu-am-sat-thu-linh-hamas-196240803155823241.htm) - 09:48 03/08/2024
+- 👍 [Iran bắt sĩ quan cấp cao liên quan đến vụ ám sát thủ lĩnh Hamas](https://nld.com.vn/iran-bat-quan-chuc-cap-cao-lien-quan-den-vu-am-sat-thu-linh-hamas-196240803155823241.htm) - 09:48 03/08/2024
 - 🥷 [1 lít xăng hưởng 300 đồng lợi nhuận định mức, đề xuất bỏ vì phản cảm](https://nld.com.vn/1-lit-xang-huong-300-dong-loi-nhuan-dinh-muc-de-xuat-bo-vi-phan-cam-196240802154317781.htm) - 09:24 03/08/2024
 - 🤔 [Chủ tịch CPP Hun Sen chúc mừng Tổng Bí thư, Chủ tịch nước Tô Lâm](https://nld.com.vn/chu-tich-cpp-hun-sen-chuc-mung-tong-bi-thu-chu-tich-nuoc-to-lam-19624080315374211.htm) - 09:10 03/08/2024
 - 🌈 [Đồng ý cho các ông Lê Minh Khái, Đặng Quốc Khánh, Chẩu Văn Lâm, Nguyễn Xuân Ký thôi chức vụ](https://nld.com.vn/dong-y-cho-cac-ong-le-minh-khai-dang-quoc-khanh-chau-van-lam-nguyen-xuan-ky-thoi-chuc-vu-196240803155058982.htm) - 09:08 03/08/2024
