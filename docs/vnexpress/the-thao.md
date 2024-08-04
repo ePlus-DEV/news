@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Cặp đôi cùng nhau vô địch Olympic 2024 sau ba tuần chia tay](https://vnexpress.net/cap-doi-cung-nhau-vo-dich-olympic-2024-sau-ba-tuan-chia-tay-4777660.html) - 12:26 04/08/2024
-- 🦩 [Djokovic 7-6* Alcaraz &lpar;hết set 1&rpar;: Tie-break nghẹt thở](https://vnexpress.net/truc-tiep-djokovic-vs-alcaraz-4777655.html) - 11:35 04/08/2024
+- 🦩 [Djokovic 7-6, *2-3 Alcaraz &lpar;set 2&rpar;: Tie-break nghẹt thở](https://vnexpress.net/truc-tiep-djokovic-vs-alcaraz-4777655.html) - 11:35 04/08/2024
 - 🧰 [Bi kịch lại đến với cựu vô địch cầu lông ở Olympic 2024](https://vnexpress.net/bi-kich-lai-den-voi-cuu-vo-dich-cau-long-o-olympic-2024-4777649.html) - 11:16 04/08/2024
 - 🤗 [Màn trở lại ấn tượng của huyền thoại TDDC Simone Biles](https://vnexpress.net/man-tro-lai-an-tuong-cua-huyen-thoai-tddc-simone-biles-4777546.html) - 09:20 04/08/2024
 - 🥳 [Xạ thủ xinh đẹp Ấn Độ đổi đời nhờ Olympic](https://vnexpress.net/xa-thu-xinh-dep-an-do-doi-doi-nho-olympic-4777607.html) - 08:49 04/08/2024
