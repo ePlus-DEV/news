@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Những điều chờ toà xác định trong vụ án ông Trịnh Văn Quyết](https://vnexpress.net/nhung-dieu-cho-toa-xac-dinh-trong-vu-an-ong-trinh-van-quyet-4776556.html) - 17:00 04/08/2024
+- 😎 [Những điều chờ tòa xác định trong vụ án ông Trịnh Văn Quyết](https://vnexpress.net/nhung-dieu-cho-toa-xac-dinh-trong-vu-an-ong-trinh-van-quyet-4776556.html) - 17:00 04/08/2024
 - 🥰 [Nhân viên McDonald’s đốt nhà hàng vì phải đi làm chủ nhật](https://vnexpress.net/nhan-vien-mcdonald-s-dot-nha-hang-vi-phai-di-lam-chu-nhat-4777668.html) - 16:07 04/08/2024
 - 🎓 [Lừa bán tiền giả, chiếm đoạt 6 tỷ đồng](https://vnexpress.net/lua-ban-tien-gia-4777651.html) - 12:34 04/08/2024
 - 🤓 [Cảnh sát phong tỏa nhà hàng karaoke hơn 12 giờ](https://vnexpress.net/canh-sat-phong-toa-nha-hang-karaoke-hon-12-gio-4777650.html) - 12:24 04/08/2024
