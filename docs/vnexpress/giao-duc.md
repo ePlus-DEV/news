@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Bỏ ngang trường Luật, nữ sinh tốt nghiệp thủ khoa Y Hà Nội](https://vnexpress.net/bo-ngang-truong-luat-nu-sinh-tot-nghiep-thu-khoa-y-ha-noi-4777415.html) - 23:00 03/08/2024
+- 🤓 [Cú rẽ của thủ khoa tốt nghiệp Đại học Y Hà Nội](https://vnexpress.net/cu-re-cua-thu-khoa-tot-nghiep-dai-hoc-y-ha-noi-4777415.html) - 23:00 03/08/2024
 - 🦆 [Nơi nào được mệnh danh &#39;đệ nhất cổ tự&#39; của Hà Nội?](https://vnexpress.net/noi-nao-duoc-menh-danh-de-nhat-co-tu-cua-ha-noi-4777423.html) - 13:32 03/08/2024
 - 🦩 [28 môn AP chuyển sang thi trực tuyến](https://vnexpress.net/28-mon-ap-chuyen-sang-thi-truc-tuyen-4777360.html) - 12:00 03/08/2024
 - 🌮 [Tỉnh đầu tiên công bố phương án thi lớp 10 năm 2025](https://vnexpress.net/phuong-an-thi-lop-10-tinh-quang-nam-nam-2025-4777375.html) - 07:33 03/08/2024
