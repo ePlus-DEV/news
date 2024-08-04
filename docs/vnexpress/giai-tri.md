@@ -18,7 +18,7 @@ sidebar_position: 5
 - 🧑‍🏫 [Dàn mỹ nhân mặc gợi cảm tại chung kết Miss Grand Vietnam](https://vnexpress.net/dan-my-nhan-mac-goi-cam-tai-chung-ket-miss-grand-vietnam-4777451.html) - 13:04 03/08/2024
 - 🦄 [Các kiểu phối denim của Hiếu Thứ Hai](https://vnexpress.net/cac-kieu-phoi-denim-cua-hieu-thu-hai-4770807.html) - 12:29 03/08/2024
 - 💫 [Váy áo của Lisa khi đi nghỉ dưỡng](https://vnexpress.net/vay-ao-cua-lisa-khi-di-nghi-duong-4777306.html) - 11:30 03/08/2024
-- 🎊 [Sắc màu sơn dầu trong tranh Đỗ Hữu Khôi, Phạm Văn Trọng](https://vnexpress.net/sac-mau-son-dau-trong-tranh-do-huu-khoi-pham-van-trong-4776918.html) - 09:16 03/08/2024
+- 🎊 [Phụ nữ và phong cảnh trong tranh Đỗ Hữu Khôi, Phạm Văn Trọng](https://vnexpress.net/phu-nu-va-phong-canh-trong-tranh-do-huu-khoi-pham-van-trong-4776918.html) - 09:16 03/08/2024
 - 👹 [Thu Hiền - giọng ca Vietnam Idol nổi bật tại Miss Grand Vietnam](https://vnexpress.net/thu-hien-giong-ca-vietnam-idol-noi-bat-tai-miss-grand-vietnam-4776752.html) - 08:30 03/08/2024
 - 💻 [Đan Trường, Lam Trường chạy nước rút tập show Cẩm Ly](https://vnexpress.net/dan-truong-lam-truong-chay-nuoc-rut-tap-show-cam-ly-4777245.html) - 07:47 03/08/2024
 - 🤡 [Bối cảnh làng cổ trong phim kinh dị Tấm Cám](https://vnexpress.net/boi-canh-lang-co-trong-phim-kinh-di-tam-cam-4777328.html) - 06:17 03/08/2024
