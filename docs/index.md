@@ -66,7 +66,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧰 [Hoán đổi vị trí một que diêm để có kết quả đúng](https://vnexpress.net/hoan-doi-vi-tri-mot-que-diem-de-co-ket-qua-dung-4776061.html) - 12:00 04/08/2024
 - 🦒 [Chiến lược giúp Phân Bón Cà Mau tăng trưởng nửa đầu năm](https://vnexpress.net/chien-luoc-giup-phan-bon-ca-mau-tang-truong-nua-dau-nam-4777485.html) - 12:00 04/08/2024
 - ⛽️ [Trump chúc mừng ông Putin vì thỏa thuận tù nhân Mỹ - Nga](https://vnexpress.net/trump-chuc-mung-ong-putin-vi-thoa-thuan-tu-nhan-my-nga-4777643.html) - 11:51 04/08/2024
-- 🚀 [Djokovic hạ Alcaraz, giành HC vàng Olympic](https://vnexpress.net/ket-qia-djokovic-vs-alcaraz-4777655.html) - 11:35 04/08/2024
+- 🚀 [Djokovic hạ Alcaraz, giành HC vàng Olympic](https://vnexpress.net/ket-qia-djokovic-vs-alcaraz-4777655-tong-thuat.html) - 11:35 04/08/2024
 - 🪜 [Gu mặc đời thường của Hoa hậu Quế Anh](https://vnexpress.net/gu-mac-doi-thuong-cua-hoa-hau-que-anh-4777617.html) - 11:30 04/08/2024
 - 🚦 [Bi kịch lại đến với cựu vô địch cầu lông ở Olympic 2024](https://vnexpress.net/bi-kich-lai-den-voi-cuu-vo-dich-cau-long-o-olympic-2024-4777649.html) - 11:16 04/08/2024
 - 🕯 [Nghị sĩ Cộng hòa ca ngợi việc hủy thỏa thuận nhận tội vụ khủng bố 11/9](https://vnexpress.net/nghi-si-cong-hoa-ca-ngoi-viec-huy-thoa-thuan-nhan-toi-vu-khung-bo-11-9-4777636.html) - 11:11 04/08/2024
