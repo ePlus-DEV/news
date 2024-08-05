@@ -8,7 +8,7 @@ sidebar_position: 12
 - 🥰 [Tay không chống trả tên cướp mang súng](https://vnexpress.net/nhan-vien-nha-hang-tay-khong-chong-tra-ke-cuop-mang-sung-4777871.html) - 05:03 05/08/2024
 - 🎓 [6 người vượt biên trái phép vào Việt Nam](https://vnexpress.net/6-nguoi-vuot-bien-trai-phep-vao-viet-nam-4777845.html) - 04:39 05/08/2024
 - 🤓 [4 người &#39;thổi giá&#39; thiết bị trong trường học, gây thiệt hại 5 tỷ đồng](https://vnexpress.net/trung-tam-tu-van-va-dich-vu-tai-chinh-cong-tinh-ha-tinh-4776584.html) - 04:23 05/08/2024
-- 🎊 [Cựu phó giám đốc Tân Hiệp Phát Trần Uyên Phương xin hưởng án treo](https://vnexpress.net/cuu-pho-giam-doc-tan-hiep-phat-tran-uyen-phuong-xin-huong-an-treo-4777760.html) - 02:54 05/08/2024
+- 🎊 [Con gái ông Trần Quí Thanh xin hưởng án treo](https://vnexpress.net/con-gai-ong-tran-qui-thanh-xin-huong-an-treo-4777760.html) - 02:54 05/08/2024
 - 🙉 [Hai lần đầu độc chồng](https://vnexpress.net/hai-lan-dau-doc-chong-cua-ac-phu-4777685.html) - 00:41 05/08/2024
 - 🤡 [Những điều chờ tòa xác định trong vụ án ông Trịnh Văn Quyết](https://vnexpress.net/nhung-dieu-cho-toa-xac-dinh-trong-vu-an-ong-trinh-van-quyet-4776556.html) - 17:00 04/08/2024
 - 🗽 [Nhân viên McDonald’s đốt nhà hàng vì phải đi làm chủ nhật](https://vnexpress.net/nhan-vien-mcdonald-s-dot-nha-hang-vi-phai-di-lam-chu-nhat-4777668.html) - 16:07 04/08/2024
