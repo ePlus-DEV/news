@@ -8,12 +8,12 @@ sidebar_position: 6
 - 🎓 [Nỗi ân hận của người mẹ phải xa con để gánh vác gia đình](https://vnexpress.net/noi-an-han-cua-nguoi-me-phai-xa-con-de-ganh-vac-gia-dinh-4776533.html) - 17:00 04/08/2024
 - 🚦 [Hai mẹo làm trắng ron gạch từ oxy già và rượu](https://vnexpress.net/hai-meo-lam-trang-ron-gach-tu-oxy-gia-va-ruou-4777401.html) - 13:30 04/08/2024
 - 🦣 [Chàng trai 24 tuổi thành &#39;ông chú 50&#39; vì thất tình](https://vnexpress.net/chang-trai-24-tuoi-thanh-ong-chu-50-vi-that-tinh-4777644.html) - 12:28 04/08/2024
-- 🎓 [Nước chấm bún chả Hà Nội pha giấm hay chanh?](https://vnexpress.net/nuoc-cham-bun-cha-ha-noi-pha-giam-hay-chanh-4777572.html) - 09:00 04/08/2024
+- 🎓 [Nước chấm bún chả Hà Nội pha giấm hay chanh?](https://vnexpress.net/doi-song-cooking-nuoc-cham-bun-cha-ha-noi-4777572.html) - 09:00 04/08/2024
 - 🎭 [Tại sao chúng ta gắn bó với ngôi nhà mình?](https://vnexpress.net/tai-sao-chung-ta-gan-bo-voi-ngoi-nha-minh-4777542.html) - 07:05 04/08/2024
 - 🦅 [Gen Z bị chê kém duyên khi giao tiếp công sở](https://vnexpress.net/gen-z-bi-che-kem-duyen-khi-giao-tiep-cong-so-4777573.html) - 06:36 04/08/2024
 - 🎃 [Tìm thấy con trai sau 49 năm mất tích](https://vnexpress.net/tim-thay-con-trai-sau-49-nam-mat-tich-4777395.html) - 23:28 03/08/2024
 - 💪 [Bi kịch của những cậu bé bị tống tiền](https://vnexpress.net/bi-kich-cua-nhung-cau-be-bi-tong-tien-4777323.html) - 23:00 03/08/2024
-- 🐻 [Chè đỗ đen đặc Hà Nội](https://vnexpress.net/che-do-den-dac-ha-noi-4777321.html) - 09:00 03/08/2024
+- 🐻 [Chè đỗ đen đặc Hà Nội](https://vnexpress.net/doi-song-cooking-che-do-den-dac-ha-noi-4777321.html) - 09:00 03/08/2024
 - 🧠 [Gần một thập kỷ tăng độ phủ vaccine của VNVC](https://vnexpress.net/gan-mot-thap-ky-tang-do-phu-vaccine-cua-vnvc-4777334.html) - 06:15 03/08/2024
 - 🐘 [Cách bảo quản chảo gang](https://vnexpress.net/cach-bao-quan-chao-gang-4777159.html) - 05:40 03/08/2024
 - 👹 [Quy tắc 75-15-10 - Bí kíp trở nên giàu có](https://vnexpress.net/quy-tac-75-15-10-bi-kip-tro-nen-giau-co-4777108.html) - 05:16 03/08/2024
@@ -21,7 +21,7 @@ sidebar_position: 6
 - 🦍 [Những nhân viên &#39;chân trong, chân ngoài&#39;](https://vnexpress.net/nhung-nhan-vien-chan-trong-chan-ngoai-4776258.html) - 23:28 02/08/2024
 - 🧑‍🏫 [Anh chủ xưởng sửa giày miễn phí để trả ơn đời](https://vnexpress.net/anh-chu-xuong-sua-giay-mien-phi-de-tra-on-doi-4773793.html) - 23:16 02/08/2024
 - 🧰 [Làn sóng du lịch không rượu bia](https://vnexpress.net/lan-song-du-lich-khong-ruou-bia-4777166.html) - 23:00 02/08/2024
-- 🪄 [Tại sao đậu phụ chuyển vàng khi rán?](https://vnexpress.net/tai-sao-dau-phu-chuyen-vang-khi-ran-4777072.html) - 10:32 02/08/2024
+- 🪄 [Tại sao đậu phụ chuyển vàng khi rán?](https://vnexpress.net/doi-song-cooking-tai-sao-dau-phu-chuyen-vang-khi-ran-4777072.html) - 10:32 02/08/2024
 - 🐲 [Bốn món đồ vô dụng từng được quảng cáo rầm rộ](https://vnexpress.net/bon-mon-do-vo-dung-tung-duoc-quang-cao-ram-ro-4777004.html) - 08:13 02/08/2024
 - 💻 [Nhiều sếp vui sướng khi quay về làm nhân viên](https://vnexpress.net/nhieu-sep-vui-suong-khi-quay-ve-lam-nhan-vien-4776986.html) - 06:11 02/08/2024
 - 🐘 [Vì sao sở thích cá nhân cần thiết?](https://vnexpress.net/vi-sao-so-thich-ca-nhan-can-thiet-4776949.html) - 03:59 02/08/2024
