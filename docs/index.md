@@ -214,7 +214,7 @@ nóng bỏng trong trang phục bầu](https://thanhnien.vn/thoi-trang-tre/gai-q
 <!-- laodong:START -->
 - 🗽 [3 mẹo giảm mỡ nội tạng hiệu quả nhất ở độ tuổi 40](https://laodong.vn/suc-khoe/3-meo-giam-mo-noi-tang-hieu-qua-nhat-o-do-tuoi-40-1375966.ldo) - 16:00 05/08/2024
 - 📝 [Gục trên sân khấu khi diễn tuồng, 1 nghệ nhân ở Bình Định tử vong](https://laodong.vn/xa-hoi/guc-tren-san-khau-khi-dien-tuong-1-nghe-nhan-o-binh-dinh-tu-vong-1376490.ldo) - 15:56 05/08/2024
-- 🦏 [Trực tiếp bóng đá U23 Maroc 1-0 U23 Tây Ban Nha: Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-u23-maroc-1-0-u23-tay-ban-nha-hiep-2-1376483.ldo) - 15:19 05/08/2024
+- 🦏 [Trực tiếp bóng đá U23 Maroc 1-1 U23 Tây Ban Nha: Fermin Lopez gỡ hòa](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-u23-maroc-1-1-u23-tay-ban-nha-fermin-lopez-go-hoa-1376483.ldo) - 15:19 05/08/2024
 - 🦩 [Link xem trực tiếp bóng đá U23 Pháp vs U23 Ai Cập](https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-u23-phap-vs-u23-ai-cap-1376482.ldo) - 15:16 05/08/2024
 - 🦏 [Xác định bệnh nhân mắc bạch hầu tại Thanh Hóa](https://laodong.vn/xa-hoi/xac-dinh-benh-nhan-mac-bach-hau-tai-thanh-hoa-1376484.ldo) - 15:10 05/08/2024
 - 🧰 [Tai nạn trước cổng bệnh viện ở Sơn La, bé 2 tuổi tử vong](https://laodong.vn/xa-hoi/tai-nan-truoc-cong-benh-vien-o-son-la-be-2-tuoi-tu-vong-1376476.ldo) - 14:49 05/08/2024
