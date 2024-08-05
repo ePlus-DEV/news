@@ -248,13 +248,13 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Tuyên án cựu chủ tịch FLC Trịnh Văn Quyết](https://nld.com.vn/podcast/tuyen-an-cuu-chu-tich-flc-trinh-van-quyet-196240805112623013.htm) - 04:40 05/08/2024
+- 🐎 [Hôm nay tuyên án cựu chủ tịch FLC Trịnh Văn Quyết](https://nld.com.vn/podcast/tuyen-an-cuu-chu-tich-flc-trinh-van-quyet-196240805112623013.htm) - 04:40 05/08/2024
 - 😺 [Ông Vũ Tiến Lộc qua đời](https://nld.com.vn/ong-vu-tien-loc-qua-doi-196240805112100786.htm) - 04:33 05/08/2024
 - 👍 [Điều tra nguyên nhân một phụ nữ tử vong trên công trường cao tốc Hòa Liên – Túy Loan](https://nld.com.vn/dieu-tra-nguyen-nhan-mot-phu-nu-tu-vong-tren-cong-truong-cao-toc-hoa-lien-tuy-loan-196240805111615668.htm) - 04:27 05/08/2024
 - 🥷 [Sạt lở đất làm sập nhà khiến 1 người chết, 2 người bị thương](https://nld.com.vn/sat-lo-dat-lam-sap-nha-khien-1-nguoi-chet-2-nguoi-bi-thuong-196240805111800128.htm) - 04:24 05/08/2024
 - 🤔 [Bình Dương công bố các quyết định nhân sự quan trọng](https://nld.com.vn/binh-duong-cong-bo-cac-quyet-dinh-nhan-su-quan-trong-196240805105731908.htm) - 04:21 05/08/2024
 - 🌈 [Nổ lò hơi ở Bình Phước, 1 người đã tử vong](https://nld.com.vn/no-lo-hoi-o-binh-phuoc-1-nguoi-da-tu-vong-19624080510571612.htm) - 04:18 05/08/2024
-- 🔥 [Báo Người Lao Động tặng 5.000 lá cờ Tổ quốc cho tỉnh Gia Lai](https://nld.com.vn/bao-nguoi-lao-dong-tang-5000-la-co-to-quoc-cho-tinh-gia-lai-196240805105916799.htm) - 04:12 05/08/2024
+- 🔥 [Báo Người Lao Động tặng 5.000 lá cờ Tổ quốc và học bổng tại tỉnh Gia Lai](https://nld.com.vn/bao-nguoi-lao-dong-tang-5000-la-co-to-quoc-cho-tinh-gia-lai-196240805105916799.htm) - 04:12 05/08/2024
 - 🧰 [Nước về thủy điện tăng cao, vẫn lo thiếu điện đến hết tháng 10](https://nld.com.vn/nuoc-ve-thuy-dien-tang-cao-van-lo-thieu-dien-den-het-thang-10-196240805102618041.htm) - 04:10 05/08/2024
 - 🤗 [Ninh Dương Lan Ngọc, Ốc Thanh Vân chúc mừng Việt Hương](https://nld.com.vn/ninh-duong-lan-ngoc-oc-thanh-van-chuc-mung-viet-huong-196240805104246027.htm) - 04:08 05/08/2024
 - 🦅 [Trung Quốc: Lộ diện sinh vật lạ 520 triệu tuổi còn nguyên bộ não](https://nld.com.vn/trung-quoc-lo-dien-sinh-vat-la-520-trieu-tuoi-con-nguyen-bo-nao-196240805103934682.htm) - 04:07 05/08/2024
