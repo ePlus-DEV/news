@@ -211,7 +211,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp bóng đá U23 Pháp vs U23 Ai Cập tại bán kết Olympic 2024](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-u23-phap-vs-u23-ai-cap-tai-ban-ket-olympic-2024-1376440.ldo) - 18:00 05/08/2024
+- 🗽 [Trực tiếp bóng đá U23 Pháp 0-0 U23 Ai Cập: Hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-u23-phap-0-0-u23-ai-cap-hiep-1-1376440.ldo) - 18:00 05/08/2024
 - 📝 [3 mẹo giảm mỡ nội tạng hiệu quả nhất ở độ tuổi 40](https://laodong.vn/suc-khoe/3-meo-giam-mo-noi-tang-hieu-qua-nhat-o-do-tuoi-40-1375966.ldo) - 16:00 05/08/2024
 - 🦏 [Gục trên sân khấu khi diễn tuồng, 1 nghệ nhân ở Bình Định tử vong](https://laodong.vn/xa-hoi/guc-tren-san-khau-khi-dien-tuong-1-nghe-nhan-o-binh-dinh-tu-vong-1376490.ldo) - 15:56 05/08/2024
 - 🦩 [U23 Tây Ban Nha ngược dòng giành vé vào chung kết Olympic 2024](https://laodong.vn/bong-da-quoc-te/u23-tay-ban-nha-nguoc-dong-gianh-ve-vao-chung-ket-olympic-2024-1376483.ldo) - 15:19 05/08/2024
