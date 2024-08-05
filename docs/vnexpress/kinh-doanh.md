@@ -31,8 +31,8 @@ sidebar_position: 3
 - 🗽 [Đức Long Gia Lai kiện Lilama 45.3](https://vnexpress.net/duc-long-gia-lai-kien-lilama-45-3-4777036.html) - 06:41 03/08/2024
 - 🚀 [Sâm Ngọc Linh rớt giá một nửa](https://vnexpress.net/sam-ngoc-linh-rot-gia-mot-nua-4777046.html) - 04:49 03/08/2024
 - 🤗 [Cổ phiếu Intel giảm mạnh nhất 50 năm](https://vnexpress.net/co-phieu-intel-giam-manh-nhat-50-nam-4777287.html) - 04:31 03/08/2024
-- 🌜 [Vietjet vào Top 50 doanh nghiệp phát triển bền vững](https://vnexpress.net/vietjet-vao-top-50-doanh-nghiep-phat-trien-ben-vung-4777291.html) - 04:00 03/08/2024
-- 👍 [PNJ được vinh danh ba hạng mục phát triển bền vững](https://vnexpress.net/pnj-duoc-vinh-danh-ba-hang-muc-phat-trien-ben-vung-4776547.html) - 04:00 03/08/2024
+- 🌜 [PNJ được vinh danh ba hạng mục phát triển bền vững](https://vnexpress.net/pnj-duoc-vinh-danh-ba-hang-muc-phat-trien-ben-vung-4776547.html) - 04:00 03/08/2024
+- 👍 [Vietjet vào Top 50 doanh nghiệp phát triển bền vững](https://vnexpress.net/vietjet-vao-top-50-doanh-nghiep-phat-trien-ben-vung-4777291.html) - 04:00 03/08/2024
 - 🤖 [Chân gà Đông Tảo &#39;khủng&#39; giá hơn 400.000 đồng một cái](https://vnexpress.net/chan-ga-dong-tao-khung-gia-hon-400-000-dong-mot-cai-4776856.html) - 01:38 03/08/2024
 - 🫣 [Bình Dương có trung tâm phân loại hàng tự động 30 triệu USD](https://vnexpress.net/binh-duong-co-trung-tam-phan-loai-hang-tu-dong-30-trieu-usd-4776249.html) - 00:00 03/08/2024
 - 🌏 [Cửa hàng EraBlue có doanh thu gấp đôi Điện Máy Xanh](https://vnexpress.net/cua-hang-erablue-co-doanh-thu-gap-doi-dien-may-xanh-4777158.html) - 17:58 02/08/2024
