@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Nadal chúc mừng Djokovic đoạt HC vàng Olympic](https://vnexpress.net/nadal-chuc-mung-djokovic-doat-hc-vang-olympic-4777883.html) - 05:20 05/08/2024
-- 🦩 [Hàng loạt VĐV đổ bệnh sau khi bơi trên sông Seine](https://vnexpress.net/hang-loat-vdv-do-benh-sau-khi-boi-tren-song-seine-4777857.html) - 05:08 05/08/2024
-- 🧰 [Các giải chạy trong nước tháng 8](https://vnexpress.net/cac-giai-chay-trong-nuoc-thang-8-4777682.html) - 04:24 05/08/2024
-- 🤗 [Xạ thủ Anh &#39;bị trọng tài cướp HC vàng&#39;](https://vnexpress.net/xa-thu-anh-bi-trong-tai-cuop-hc-vang-4777766.html) - 04:08 05/08/2024
-- 🥳 [Terence Crawford vô địch thế giới 4 hạng cân](https://vnexpress.net/terence-crawford-vo-dich-the-gioi-4-hang-can-4777841.html) - 04:04 05/08/2024
-- 🦣 [Trung Quốc phá thế thống trị của Mỹ tại tiếp sức 4x100m Olympic](https://vnexpress.net/trung-quoc-pha-the-thong-tri-cua-my-tai-tiep-suc-4x100m-olympic-4777824.html) - 03:48 05/08/2024
+- 🪜 [Vì sao Thompson thua Lyles dù chân chạm đích trước?](https://vnexpress.net/vi-sao-thompson-thua-lyles-du-chan-cham-dich-truoc-4777895.html) - 05:53 05/08/2024
+- 🦩 [Alcaraz: &#39;Tôi muốn giỏi hơn Djokovic&#39;](https://vnexpress.net/alcaraz-toi-muon-gioi-hon-djokovic-4777891.html) - 05:45 05/08/2024
+- 🧰 [Nadal chúc mừng Djokovic đoạt HC vàng Olympic](https://vnexpress.net/nadal-chuc-mung-djokovic-doat-hc-vang-olympic-4777883.html) - 05:20 05/08/2024
+- 🤗 [Hàng loạt VĐV đổ bệnh sau khi bơi trên sông Seine](https://vnexpress.net/hang-loat-vdv-do-benh-sau-khi-boi-tren-song-seine-4777857.html) - 05:08 05/08/2024
+- 🥳 [Các giải chạy trong nước tháng 8](https://vnexpress.net/cac-giai-chay-trong-nuoc-thang-8-4777682.html) - 04:24 05/08/2024
+- 🦣 [Xạ thủ Anh &#39;bị trọng tài cướp HC vàng&#39;](https://vnexpress.net/xa-thu-anh-bi-trong-tai-cuop-hc-vang-4777766.html) - 04:08 05/08/2024
+- 🌜 [Terence Crawford vô địch thế giới 4 hạng cân](https://vnexpress.net/terence-crawford-vo-dich-the-gioi-4-hang-can-4777841.html) - 04:04 05/08/2024
+- 🫶 [Trung Quốc phá thế thống trị của Mỹ tại tiếp sức 4x100m Olympic](https://vnexpress.net/trung-quoc-pha-the-thong-tri-cua-my-tai-tiep-suc-4x100m-olympic-4777824.html) - 03:48 05/08/2024
 - 🌜 [Nhà vô địch Olympic 2024 ra ngủ tại công viên](https://vnexpress.net/nha-vo-dich-olympic-2024-ra-ngu-tai-cong-vien-4775260.html) - 03:34 05/08/2024
-- 🫶 [Ten Hag muốn Sancho đá cắm trước Man City](https://vnexpress.net/ten-hag-muon-sancho-da-cam-truoc-man-city-4777806.html) - 03:22 05/08/2024
-- 🌜 [Scheffler đoạt HC vàng golf nam Olympic 2024](https://vnexpress.net/scheffler-doat-hc-vang-golf-nam-olympic-2024-4777769.html) - 03:07 05/08/2024
-- 😺 [Mỹ vượt Trung Quốc, dẫn đầu Olympic 2024](https://vnexpress.net/my-vuot-trung-quoc-dan-dau-olympic-2024-4777699.html) - 01:49 05/08/2024
-- 👍 [Noah Lyles giành HC vàng 100m Olympic nhờ 0,005 giây](https://vnexpress.net/noah-lyles-gianh-hc-vang-100m-olympic-nho-0-005-giay-4777713.html) - 01:23 05/08/2024
-- 🐵 [Màn kết trong mơ của môn judo tại Olympic 2024](https://vnexpress.net/man-ket-trong-mo-cua-mon-judo-tai-olympic-2024-4777704.html) - 01:09 05/08/2024
-- 💫 [Djokovic: &#39;Giành HC vàng Olympic là vinh quang lớn nhất&#39;](https://vnexpress.net/djokovic-gianh-hc-vang-olympic-la-vinh-quang-lon-nhat-4777692.html) - 22:43 04/08/2024
-- 🦆 [Djokovic òa khóc khi giành HC vàng Olympic 2024](https://vnexpress.net/djokovic-oa-khoc-khi-gianh-hc-vang-olympic-2024-4777688.html) - 22:38 04/08/2024
-- 🙉 [Cua-rơ Nguyễn Thị Thật không thể gây bất ngờ ở Olympic 2024](https://vnexpress.net/cua-ro-nguyen-thi-that-khong-the-gay-bat-ngo-o-olympic-2024-4776790.html) - 16:54 04/08/2024
-- 📝 [Hàn Quốc giành trọn số HC vàng bắn cung Olympic 2024](https://vnexpress.net/han-quoc-gianh-tron-so-hc-vang-ban-cung-olympic-2024-4777674.html) - 14:43 04/08/2024
-- 💯 [Cặp đôi cùng nhau vô địch Olympic 2024 sau ba tuần chia tay](https://vnexpress.net/cap-doi-cung-nhau-vo-dich-olympic-2024-sau-ba-tuan-chia-tay-4777660.html) - 12:26 04/08/2024
-- 🌈 [Djokovic hạ Alcaraz, giành HC vàng Olympic](https://vnexpress.net/ket-qia-djokovic-vs-alcaraz-4777655-tong-thuat.html) - 11:35 04/08/2024
-- 🦩 [Bi kịch lại đến với cựu vô địch cầu lông ở Olympic 2024](https://vnexpress.net/bi-kich-lai-den-voi-cuu-vo-dich-cau-long-o-olympic-2024-4777649.html) - 11:16 04/08/2024
-- 🐲 [Màn trở lại ấn tượng của huyền thoại TDDC Simone Biles](https://vnexpress.net/man-tro-lai-an-tuong-cua-huyen-thoai-tddc-simone-biles-4777546.html) - 09:20 04/08/2024
-- 🌁 [Xạ thủ xinh đẹp Ấn Độ đổi đời nhờ Olympic](https://vnexpress.net/xa-thu-xinh-dep-an-do-doi-doi-nho-olympic-4777607.html) - 08:49 04/08/2024
-- 💯 [Djokovic – Alcaraz: Thời khắc vàng của &#39;Nhà vua&#39;](https://vnexpress.net/djokovic-alcaraz-thoi-khac-vang-cua-nha-vua-4777602.html) - 06:19 04/08/2024
-- 🌝 [Katie Ledecky bắt kịp kỷ lục của Michael Phelps](https://vnexpress.net/katie-ledecky-bat-kip-ky-luc-cua-michael-phelps-4777579.html) - 04:58 04/08/2024
-- 🤖 [VĐV nhảy sào Pháp thất bại vì &#39;cậu nhỏ&#39;](https://vnexpress.net/vdv-nhay-sao-phap-that-bai-vi-cau-nho-4777578.html) - 04:15 04/08/2024
-- 🕯 [Barca thắng Real bằng nửa đội hình chính](https://vnexpress.net/barca-thang-real-bang-nua-doi-hinh-chinh-4777540.html) - 03:30 04/08/2024
-- 🧰 [Khelif hét &#39;Tôi là phụ nữ&#39; khi vào bán kết Olympic 2024](https://vnexpress.net/khelif-het-toi-la-phu-nu-khi-vao-ban-ket-olympic-2024-4777561.html) - 03:15 04/08/2024
-- 🥳 [Man City thắng, Man Utd thua trước Siêu Cup Anh](https://vnexpress.net/man-city-thang-man-utd-thua-truoc-sieu-cup-anh-4777559.html) - 02:42 04/08/2024
-- 👍 [Femke Bol giúp Hà Lan giành HC vàng 4x400m Olympic 2024](https://vnexpress.net/femke-bol-giup-ha-lan-gianh-hc-vang-4x400m-olympic-2024-4777543.html) - 02:23 04/08/2024
-- 💪 [Mỹ bứt phá trên bảng tổng sắp Olympic 2024](https://vnexpress.net/my-but-pha-tren-bang-tong-sap-olympic-2024-4777508.html) - 01:11 04/08/2024
-- 👹 [Trịnh Thu Vinh - niềm tiếc nuối của Việt Nam ở Olympic 2024](https://vnexpress.net/trinh-thu-vinh-niem-tiec-nuoi-cua-viet-nam-o-olympic-2024-4777396.html) - 01:10 04/08/2024
-- 🧰 [Golf nam Olympic 2024 vào hồi cao trào](https://vnexpress.net/golf-nam-olympic-2024-vao-hoi-cao-trao-4777639.html) - 01:00 04/08/2024
-- 🚀 [Xác định bốn đội vào bán kết bóng đá nữ Olympic 2024](https://vnexpress.net/xac-dinh-bon-doi-vao-ban-ket-bong-da-nu-olympic-2024-4777505.html) - 00:12 04/08/2024
-- 🎃 [VĐV Saint Lucia gây sốc khi giành HC vàng 100m Olympic Paris 2024](https://vnexpress.net/vdv-saint-lucia-gay-soc-khi-gianh-hc-vang-100m-olympic-paris-2024-4777280.html) - 23:46 03/08/2024
-- 🧰 [Quần vợt Trung Quốc lần đầu giành HC vàng đánh đơn Olympic](https://vnexpress.net/quan-vot-trung-quoc-lan-dau-gianh-hc-vang-danh-don-olympic-4777495.html) - 23:19 03/08/2024
-- 👀 [Đông Nam Á có HC vàng Olympic 2024 đầu tiên](https://vnexpress.net/dong-nam-a-co-hc-vang-olympic-2024-dau-tien-4777473.html) - 15:12 03/08/2024
-- 🌜 [Võ sĩ judo 141 kg xách cổ áo đối thủ 83 kg](https://vnexpress.net/vo-si-judo-141-kg-xach-co-ao-doi-thu-83-kg-4777440.html) - 12:49 03/08/2024
-- 🫶 [Xạ thủ Thu Vinh xin lỗi vì không giành được huy chương Olympic](https://vnexpress.net/xa-thu-thu-vinh-xin-loi-vi-khong-gianh-duoc-huy-chuong-olympic-4777449.html) - 12:47 03/08/2024
-- 🦄 [Kình ngư Huy Hoàng xếp thứ 21 vòng loại 1.500m tự do Olympic 2024](https://vnexpress.net/kinh-ngu-huy-hoang-xep-thu-21-vong-loai-1-500m-tu-do-olympic-2024-4777452.html) - 12:42 03/08/2024
-- 🥳 [Võ sĩ judo bị loại khỏi Olympic vì đá vào chỗ hiểm của đối thủ](https://vnexpress.net/vo-si-judo-bi-loai-khoi-olympic-vi-da-vao-cho-hiem-cua-doi-thu-4777378.html) - 08:09 03/08/2024
-- 🐲 [Trịnh Thu Vinh đứng thứ bảy ở chung kết 25m súng ngắn Olympic 2024](https://vnexpress.net/trinh-thu-vinh-dung-thu-bay-o-chung-ket-25m-sung-ngan-olympic-2024-4777386-tong-thuat.html) - 07:05 03/08/2024
-- 🧑‍🏫 [Ten Hag: &#39;Khi có tập thể vững vàng, tôi sẽ thành công&#39;](https://vnexpress.net/ten-hag-khi-co-tap-the-vung-vang-toi-se-thanh-cong-4777365.html) - 05:31 03/08/2024
-- 🤔 [Swiatek khóc 6 tiếng vì lỡ chung kết Olympic](https://vnexpress.net/swiatek-khoc-6-tieng-vi-lo-chung-ket-olympic-4777342.html) - 05:21 03/08/2024
-- 😺 [Tay vợt số một thế giới thua sốc ở cầu lông đơn nam Olympic 2024](https://vnexpress.net/tay-vot-so-mot-the-gioi-thua-soc-o-cau-long-don-nam-olympic-2024-4777327.html) - 04:32 03/08/2024
-- 💪 [Djokovic tuyên chiến với Alcaraz](https://vnexpress.net/djokovic-tuyen-chien-voi-alcaraz-4777296.html) - 04:29 03/08/2024
-- 💼 [Sifan Hassan bỏ 1.500m, ưu tiên giành HC vàng marathon Olympic](https://vnexpress.net/sifan-hassan-bo-1-500m-uu-tien-gianh-hc-vang-marathon-olympic-4777308.html) - 03:47 03/08/2024
-- 🕴 [Nữ tay vợt Trung Quốc được cầu hôn sau khi giành HC vàng Olympic](https://vnexpress.net/nu-tay-vot-trung-quoc-duoc-cau-hon-sau-khi-gianh-hc-vang-olympic-4777269.html) - 02:42 03/08/2024
-- 🕯 [Võ sĩ Italy xin lỗi Imane Khelif, buồn về tranh cãi giới tính ở Olympic](https://vnexpress.net/vo-si-italy-xin-loi-imane-khelif-buon-ve-tranh-cai-gioi-tinh-o-olympic-4777267.html) - 02:30 03/08/2024
-- 📝 [Cheptegei phá kỷ lục 10.000m tại Olympic Paris 2024](https://vnexpress.net/cheptegei-pha-ky-luc-10-000m-tai-olympic-paris-2024-4777256.html) - 02:04 03/08/2024
-- 🧐 [Pháp loại Argentina ở tứ kết Olympic 2024](https://vnexpress.net/phap-loai-argentina-o-tu-ket-olympic-2024-4777233.html) - 00:38 03/08/2024
-- 🙉 [Tay vợt suýt giải nghệ đấu chung kết Olympic 2024](https://vnexpress.net/tay-vot-suyt-giai-nghe-dau-chung-ket-olympic-2024-4777219.html) - 23:13 02/08/2024
-- 🏊 [Trịnh Thu Vinh thi chung kết bắn súng hôm nay](https://vnexpress.net/trinh-thu-vinh-thi-chung-ket-ban-sung-hom-nay-4777220.html) - 23:10 02/08/2024
-- 🌊 [Alcaraz chỉ thua hai game ở bán kết Olympic 2024](https://vnexpress.net/alcaraz-chi-thua-hai-game-o-ban-ket-olympic-2024-4777218.html) - 21:10 02/08/2024
-- 👨‍🏫 [Djokovic tranh HC vàng Olympic với Alcaraz](https://vnexpress.net/djokovic-tranh-hc-vang-olympic-voi-alcaraz-4777217.html) - 20:38 02/08/2024
-- 🥷 [Tây Ban Nha nhấn chìm Nhật Bản ở tứ kết Olympic 2024](https://vnexpress.net/tay-ban-nha-nhan-chim-nhat-ban-o-tu-ket-olympic-2024-4777214.html) - 17:00 02/08/2024
-- ⚗️ [Chân chạy Nhi Yến, kình ngư Mỹ Tiên dừng bước ở Olympic 2024](https://vnexpress.net/chan-chay-nhi-yen-kinh-ngu-my-tien-dung-buoc-o-olympic-2024-4777173.html) - 12:33 02/08/2024
-- 🌮 [Chiến thắng của kình ngư Trung Quốc tiếp tục bị ngờ vực](https://vnexpress.net/chien-thang-cua-kinh-ngu-trung-quoc-tiep-tuc-bi-ngo-vuc-4777082.html) - 09:52 02/08/2024
-- 🤩 [Trịnh Thu Vinh vào chung kết 25m súng ngắn Olympic 2024](https://vnexpress.net/trinh-thu-vinh-vao-chung-ket-25m-sung-ngan-olympic-2024-4777131.html) - 09:48 02/08/2024
-- 🏊 [Bố mẹ không hài lòng với sự nghiệp của VĐV dự 4 kỳ Olympic](https://vnexpress.net/bo-me-khong-hai-long-voi-su-nghiep-cua-vdv-du-4-ky-olympic-4777121.html) - 09:34 02/08/2024
-- 🐎 [Xạ thủ Thổ Nhĩ Kỳ: &#39;Không ai thành công nếu cứ đút tay vào túi quần&#39;](https://vnexpress.net/xa-thu-tho-nhi-ky-khong-ai-thanh-cong-neu-cu-dut-tay-vao-tui-quan-4777083.html) - 09:00 02/08/2024
-- 💫 [Neymar: &#39;Có những ngày tôi muốn bỏ cuộc&#39;](https://vnexpress.net/neymar-co-nhung-ngay-toi-muon-bo-cuoc-4776960.html) - 07:33 02/08/2024<!-- vnexpress-the-thao:END -->
+- 😺 [Ten Hag muốn Sancho đá cắm trước Man City](https://vnexpress.net/ten-hag-muon-sancho-da-cam-truoc-man-city-4777806.html) - 03:22 05/08/2024
+- 👍 [Scheffler đoạt HC vàng golf nam Olympic 2024](https://vnexpress.net/scheffler-doat-hc-vang-golf-nam-olympic-2024-4777769.html) - 03:07 05/08/2024
+- 🐵 [Mỹ vượt Trung Quốc, dẫn đầu Olympic 2024](https://vnexpress.net/my-vuot-trung-quoc-dan-dau-olympic-2024-4777699.html) - 01:49 05/08/2024
+- 💫 [Noah Lyles giành HC vàng 100m Olympic nhờ 0,005 giây](https://vnexpress.net/noah-lyles-gianh-hc-vang-100m-olympic-nho-0-005-giay-4777713.html) - 01:23 05/08/2024
+- 🦆 [Màn kết trong mơ của môn judo tại Olympic 2024](https://vnexpress.net/man-ket-trong-mo-cua-mon-judo-tai-olympic-2024-4777704.html) - 01:09 05/08/2024
+- 🙉 [Djokovic: &#39;Giành HC vàng Olympic là vinh quang lớn nhất&#39;](https://vnexpress.net/djokovic-gianh-hc-vang-olympic-la-vinh-quang-lon-nhat-4777692.html) - 22:43 04/08/2024
+- 📝 [Djokovic òa khóc khi giành HC vàng Olympic 2024](https://vnexpress.net/djokovic-oa-khoc-khi-gianh-hc-vang-olympic-2024-4777688.html) - 22:38 04/08/2024
+- 💯 [Cua-rơ Nguyễn Thị Thật không thể gây bất ngờ ở Olympic 2024](https://vnexpress.net/cua-ro-nguyen-thi-that-khong-the-gay-bat-ngo-o-olympic-2024-4776790.html) - 16:54 04/08/2024
+- 🌈 [Hàn Quốc giành trọn số HC vàng bắn cung Olympic 2024](https://vnexpress.net/han-quoc-gianh-tron-so-hc-vang-ban-cung-olympic-2024-4777674.html) - 14:43 04/08/2024
+- 🦩 [Cặp đôi cùng nhau vô địch Olympic 2024 sau ba tuần chia tay](https://vnexpress.net/cap-doi-cung-nhau-vo-dich-olympic-2024-sau-ba-tuan-chia-tay-4777660.html) - 12:26 04/08/2024
+- 🐲 [Djokovic hạ Alcaraz, giành HC vàng Olympic](https://vnexpress.net/ket-qia-djokovic-vs-alcaraz-4777655-tong-thuat.html) - 11:35 04/08/2024
+- 🌁 [Bi kịch lại đến với cựu vô địch cầu lông ở Olympic 2024](https://vnexpress.net/bi-kich-lai-den-voi-cuu-vo-dich-cau-long-o-olympic-2024-4777649.html) - 11:16 04/08/2024
+- 💯 [Màn trở lại ấn tượng của huyền thoại TDDC Simone Biles](https://vnexpress.net/man-tro-lai-an-tuong-cua-huyen-thoai-tddc-simone-biles-4777546.html) - 09:20 04/08/2024
+- 🌝 [Xạ thủ xinh đẹp Ấn Độ đổi đời nhờ Olympic](https://vnexpress.net/xa-thu-xinh-dep-an-do-doi-doi-nho-olympic-4777607.html) - 08:49 04/08/2024
+- 🤖 [Djokovic – Alcaraz: Thời khắc vàng của &#39;Nhà vua&#39;](https://vnexpress.net/djokovic-alcaraz-thoi-khac-vang-cua-nha-vua-4777602.html) - 06:19 04/08/2024
+- 🕯 [Katie Ledecky bắt kịp kỷ lục của Michael Phelps](https://vnexpress.net/katie-ledecky-bat-kip-ky-luc-cua-michael-phelps-4777579.html) - 04:58 04/08/2024
+- 🧰 [VĐV nhảy sào Pháp thất bại vì &#39;cậu nhỏ&#39;](https://vnexpress.net/vdv-nhay-sao-phap-that-bai-vi-cau-nho-4777578.html) - 04:15 04/08/2024
+- 🥳 [Barca thắng Real bằng nửa đội hình chính](https://vnexpress.net/barca-thang-real-bang-nua-doi-hinh-chinh-4777540.html) - 03:30 04/08/2024
+- 👍 [Khelif hét &#39;Tôi là phụ nữ&#39; khi vào bán kết Olympic 2024](https://vnexpress.net/khelif-het-toi-la-phu-nu-khi-vao-ban-ket-olympic-2024-4777561.html) - 03:15 04/08/2024
+- 💪 [Man City thắng, Man Utd thua trước Siêu Cup Anh](https://vnexpress.net/man-city-thang-man-utd-thua-truoc-sieu-cup-anh-4777559.html) - 02:42 04/08/2024
+- 👹 [Femke Bol giúp Hà Lan giành HC vàng 4x400m Olympic 2024](https://vnexpress.net/femke-bol-giup-ha-lan-gianh-hc-vang-4x400m-olympic-2024-4777543.html) - 02:23 04/08/2024
+- 🧰 [Mỹ bứt phá trên bảng tổng sắp Olympic 2024](https://vnexpress.net/my-but-pha-tren-bang-tong-sap-olympic-2024-4777508.html) - 01:11 04/08/2024
+- 🚀 [Trịnh Thu Vinh - niềm tiếc nuối của Việt Nam ở Olympic 2024](https://vnexpress.net/trinh-thu-vinh-niem-tiec-nuoi-cua-viet-nam-o-olympic-2024-4777396.html) - 01:10 04/08/2024
+- 🎃 [Golf nam Olympic 2024 vào hồi cao trào](https://vnexpress.net/golf-nam-olympic-2024-vao-hoi-cao-trao-4777639.html) - 01:00 04/08/2024
+- 🧰 [Xác định bốn đội vào bán kết bóng đá nữ Olympic 2024](https://vnexpress.net/xac-dinh-bon-doi-vao-ban-ket-bong-da-nu-olympic-2024-4777505.html) - 00:12 04/08/2024
+- 👀 [VĐV Saint Lucia gây sốc khi giành HC vàng 100m Olympic Paris 2024](https://vnexpress.net/vdv-saint-lucia-gay-soc-khi-gianh-hc-vang-100m-olympic-paris-2024-4777280.html) - 23:46 03/08/2024
+- 🌜 [Quần vợt Trung Quốc lần đầu giành HC vàng đánh đơn Olympic](https://vnexpress.net/quan-vot-trung-quoc-lan-dau-gianh-hc-vang-danh-don-olympic-4777495.html) - 23:19 03/08/2024
+- 🫶 [Đông Nam Á có HC vàng Olympic 2024 đầu tiên](https://vnexpress.net/dong-nam-a-co-hc-vang-olympic-2024-dau-tien-4777473.html) - 15:12 03/08/2024
+- 🦄 [Võ sĩ judo 141 kg xách cổ áo đối thủ 83 kg](https://vnexpress.net/vo-si-judo-141-kg-xach-co-ao-doi-thu-83-kg-4777440.html) - 12:49 03/08/2024
+- 🥳 [Xạ thủ Thu Vinh xin lỗi vì không giành được huy chương Olympic](https://vnexpress.net/xa-thu-thu-vinh-xin-loi-vi-khong-gianh-duoc-huy-chuong-olympic-4777449.html) - 12:47 03/08/2024
+- 🐲 [Kình ngư Huy Hoàng xếp thứ 21 vòng loại 1.500m tự do Olympic 2024](https://vnexpress.net/kinh-ngu-huy-hoang-xep-thu-21-vong-loai-1-500m-tu-do-olympic-2024-4777452.html) - 12:42 03/08/2024
+- 🧑‍🏫 [Võ sĩ judo bị loại khỏi Olympic vì đá vào chỗ hiểm của đối thủ](https://vnexpress.net/vo-si-judo-bi-loai-khoi-olympic-vi-da-vao-cho-hiem-cua-doi-thu-4777378.html) - 08:09 03/08/2024
+- 🤔 [Trịnh Thu Vinh đứng thứ bảy ở chung kết 25m súng ngắn Olympic 2024](https://vnexpress.net/trinh-thu-vinh-dung-thu-bay-o-chung-ket-25m-sung-ngan-olympic-2024-4777386-tong-thuat.html) - 07:05 03/08/2024
+- 😺 [Ten Hag: &#39;Khi có tập thể vững vàng, tôi sẽ thành công&#39;](https://vnexpress.net/ten-hag-khi-co-tap-the-vung-vang-toi-se-thanh-cong-4777365.html) - 05:31 03/08/2024
+- 💪 [Swiatek khóc 6 tiếng vì lỡ chung kết Olympic](https://vnexpress.net/swiatek-khoc-6-tieng-vi-lo-chung-ket-olympic-4777342.html) - 05:21 03/08/2024
+- 💼 [Tay vợt số một thế giới thua sốc ở cầu lông đơn nam Olympic 2024](https://vnexpress.net/tay-vot-so-mot-the-gioi-thua-soc-o-cau-long-don-nam-olympic-2024-4777327.html) - 04:32 03/08/2024
+- 🕴 [Djokovic tuyên chiến với Alcaraz](https://vnexpress.net/djokovic-tuyen-chien-voi-alcaraz-4777296.html) - 04:29 03/08/2024
+- 🕯 [Sifan Hassan bỏ 1.500m, ưu tiên giành HC vàng marathon Olympic](https://vnexpress.net/sifan-hassan-bo-1-500m-uu-tien-gianh-hc-vang-marathon-olympic-4777308.html) - 03:47 03/08/2024
+- 📝 [Nữ tay vợt Trung Quốc được cầu hôn sau khi giành HC vàng Olympic](https://vnexpress.net/nu-tay-vot-trung-quoc-duoc-cau-hon-sau-khi-gianh-hc-vang-olympic-4777269.html) - 02:42 03/08/2024
+- 🧐 [Võ sĩ Italy xin lỗi Imane Khelif, buồn về tranh cãi giới tính ở Olympic](https://vnexpress.net/vo-si-italy-xin-loi-imane-khelif-buon-ve-tranh-cai-gioi-tinh-o-olympic-4777267.html) - 02:30 03/08/2024
+- 🙉 [Cheptegei phá kỷ lục 10.000m tại Olympic Paris 2024](https://vnexpress.net/cheptegei-pha-ky-luc-10-000m-tai-olympic-paris-2024-4777256.html) - 02:04 03/08/2024
+- 🏊 [Pháp loại Argentina ở tứ kết Olympic 2024](https://vnexpress.net/phap-loai-argentina-o-tu-ket-olympic-2024-4777233.html) - 00:38 03/08/2024
+- 🌊 [Tay vợt suýt giải nghệ đấu chung kết Olympic 2024](https://vnexpress.net/tay-vot-suyt-giai-nghe-dau-chung-ket-olympic-2024-4777219.html) - 23:13 02/08/2024
+- 👨‍🏫 [Trịnh Thu Vinh thi chung kết bắn súng hôm nay](https://vnexpress.net/trinh-thu-vinh-thi-chung-ket-ban-sung-hom-nay-4777220.html) - 23:10 02/08/2024
+- 🥷 [Alcaraz chỉ thua hai game ở bán kết Olympic 2024](https://vnexpress.net/alcaraz-chi-thua-hai-game-o-ban-ket-olympic-2024-4777218.html) - 21:10 02/08/2024
+- ⚗️ [Djokovic tranh HC vàng Olympic với Alcaraz](https://vnexpress.net/djokovic-tranh-hc-vang-olympic-voi-alcaraz-4777217.html) - 20:38 02/08/2024
+- 🌮 [Tây Ban Nha nhấn chìm Nhật Bản ở tứ kết Olympic 2024](https://vnexpress.net/tay-ban-nha-nhan-chim-nhat-ban-o-tu-ket-olympic-2024-4777214.html) - 17:00 02/08/2024
+- 🤩 [Chiến thắng của kình ngư Trung Quốc tiếp tục bị ngờ vực](https://vnexpress.net/chien-thang-cua-kinh-ngu-trung-quoc-tiep-tuc-bi-ngo-vuc-4777082.html) - 09:52 02/08/2024
+- 🏊 [Trịnh Thu Vinh vào chung kết 25m súng ngắn Olympic 2024](https://vnexpress.net/trinh-thu-vinh-vao-chung-ket-25m-sung-ngan-olympic-2024-4777131.html) - 09:48 02/08/2024
+- 🐎 [Bố mẹ không hài lòng với sự nghiệp của VĐV dự 4 kỳ Olympic](https://vnexpress.net/bo-me-khong-hai-long-voi-su-nghiep-cua-vdv-du-4-ky-olympic-4777121.html) - 09:34 02/08/2024
+- 💫 [Xạ thủ Thổ Nhĩ Kỳ: &#39;Không ai thành công nếu cứ đút tay vào túi quần&#39;](https://vnexpress.net/xa-thu-tho-nhi-ky-khong-ai-thanh-cong-neu-cu-dut-tay-vao-tui-quan-4777083.html) - 09:00 02/08/2024<!-- vnexpress-the-thao:END -->
