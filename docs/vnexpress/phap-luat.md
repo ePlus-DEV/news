@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Tòa tuyên án với ông Trịnh Văn Quyết và 49 bị cáo](https://vnexpress.net/toa-tuyen-an-voi-ong-trinh-van-quyet-va-49-bi-cao-4777616.html) - 07:10 05/08/2024
+- 😎 [Ông Trịnh Văn Quyết bị tuyên 21 năm tù](https://vnexpress.net/toa-tuyen-an-voi-ong-trinh-van-quyet-va-49-bi-cao-4777616.html) - 07:10 05/08/2024
 - 🥰 [Từ 1/8, cho thuê nhà bao nhiêu tiền thì phải lập doanh nghiệp?](https://vnexpress.net/tu-1-8-muon-cho-thue-nha-phai-thanh-lap-doanh-nghiep-4777776.html) - 05:03 05/08/2024
 - 🎓 [Tay không chống trả tên cướp mang súng](https://vnexpress.net/nhan-vien-nha-hang-tay-khong-chong-tra-ke-cuop-mang-sung-4777871.html) - 05:03 05/08/2024
 - 🤓 [6 người vượt biên trái phép vào Việt Nam](https://vnexpress.net/6-nguoi-vuot-bien-trai-phep-vao-viet-nam-4777845.html) - 04:39 05/08/2024
