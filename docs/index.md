@@ -152,7 +152,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥸 [Vẻ nóng bỏng của hai nàng hậu đăng quang trong cùng một đêm](https://thanhnien.vn/ve-nong-bong-cua-hai-nang-hau-dang-quang-trong-cung-mot-dem-185240805211104868.htm) - 17:09 05/08/2024
 - 🌁 [Điều gì xảy ra khi bạn ăn kem quá thường xuyên?](https://thanhnien.vn/dieu-gi-xay-ra-khi-ban-an-kem-qua-thuong-xuyen-18524072616325306.htm) - 17:08 05/08/2024
 - 🤡 [7 lợi ích của việc uống cà phê không đường](https://thanhnien.vn/7-loi-ich-cua-viec-uong-ca-phe-khong-duong-185240805175550226.htm) - 17:06 05/08/2024
-- 🎉 [Bác sĩ dặn: Thấy nước tiểu có dấu hiệu lạ, cần đi khám thận ngay](https://thanhnien.vn/bac-si-dan-thay-nuoc-tieu-co-dau-hieu-la-can-di-kham-than-ngay-185240805181222149.htm) - 17:05 05/08/2024
+- 🎉 [Bác sĩ dặn: Thấy nước tiểu có dấu hiệu lạ như dầu, cần đi khám thận ngay](https://thanhnien.vn/bac-si-dan-thay-nuoc-tieu-co-dau-hieu-la-can-di-kham-than-ngay-185240805181222149.htm) - 17:05 05/08/2024
 - 🎊 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 6.8.2024](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-682024-185240804210238053.htm) - 16:26 05/08/2024
 - 🤠 [Mỹ truy tố người dọa &#39;thiêu sống&#39; Phó tổng thống Kamala Harris](https://thanhnien.vn/my-truy-to-nguoi-doa-thieu-song-pho-tong-thong-kamala-harris-185240805230125513.htm) - 16:23 05/08/2024
 - 💼 [Bộ Ngoại giao cảnh báo không nên đến Li Băng, Iran, Israel thời điểm này](https://thanhnien.vn/bo-ngoai-giao-canh-bao-khong-nen-den-li-bang-iran-israel-thoi-diem-nay-185240805215342556.htm) - 16:12 05/08/2024
