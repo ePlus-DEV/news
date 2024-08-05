@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [4 nhóm ngành được thí sinh chuộng nhất năm 2024](https://vnexpress.net/4-nhom-nganh-duoc-thi-sinh-chuong-nhat-nam-2024-4778096.html) - 15:40 05/08/2024
+- 🤓 [Bốn nhóm ngành thu hút nhiều thí sinh nhất năm 2024](https://vnexpress.net/bon-nhom-nganh-thu-hut-nhieu-thi-sinh-nhat-nam-2024-4778096.html) - 15:40 05/08/2024
 - 🦆 [Dự kiến thi tốt nghiệp THPT 2025 vào cuối tháng 6](https://vnexpress.net/lich-thi-tot-nghiep-thpt-2025-du-kien-4778074.html) - 14:04 05/08/2024
 - 🦩 [Tỉnh nào duy nhất ở miền Bắc không có rừng?](https://vnexpress.net/tinh-nao-duy-nhat-o-mien-bac-khong-co-rung-4778084.html) - 13:28 05/08/2024
 - 🌮 [Học sinh công lập tựu trường sớm nhất ngày 22/8](https://vnexpress.net/lich-tuu-truong-va-khai-giang-nam-hoc-2024-2025-cua-bo-giao-duc-va-dao-tao-4778062.html) - 11:51 05/08/2024
