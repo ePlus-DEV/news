@@ -258,7 +258,7 @@ nóng bỏng trong trang phục bầu](https://thanhnien.vn/thoi-trang-tre/gai-q
 - 🐎 [Đang diễn tuồng trên sân khấu, một nam nghệ nhân bất ngờ đột tử](https://nld.com.vn/dang-dien-tuong-tren-san-khau-mot-nam-nghe-nhan-bat-ngo-dot-tu-19624080600134434.htm) - 17:41 05/08/2024
 - 😺 [Thông tin đáng chú ý trên báo in Người Lao Động ngày 6-8](https://nld.com.vn/thong-tin-dang-chu-y-tren-bao-in-nguoi-lao-dong-ngay-6-8-196240805215701794.htm) - 17:04 05/08/2024
 - 👍 [Hỗ trợ khắc phục hậu quả mưa lũ](https://nld.com.vn/ho-tro-khac-phuc-hau-qua-mua-lu-196240805213625687.htm) - 16:59 05/08/2024
-- 🥷 [Bóng đá nam Olympic 2024: Tây Ban Nha 1-1 Morroco](https://nld.com.vn/bong-da-nam-olympic-2024-tay-ban-nha-quyet-dau-morroco-196240805224245704.htm) - 15:43 05/08/2024
+- 🥷 [Bóng đá nam Olympic 2024: Tây Ban Nha ngược dòng giành vé dự chung kết](https://nld.com.vn/bong-da-nam-olympic-2024-tay-ban-nha-quyet-dau-morroco-196240805224245704.htm) - 15:43 05/08/2024
 - 🤔 [Ngân hàng Nhà nước đề xuất tăng gói 120.000 tỉ đồng lên 140.000 tỉ đồng](https://nld.com.vn/ngan-hang-nha-nuoc-de-xuat-tang-goi-120000-ti-dong-len-140000-ti-dong-196240805221011428.htm) - 15:12 05/08/2024
 - 🌈 [Một thai phụ ở Thanh Hóa mắc bệnh bạch hầu](https://nld.com.vn/mot-thai-phu-o-thanh-hoa-mac-benh-bach-hau-196240805213502336.htm) - 14:46 05/08/2024
 - 🔥 [Thứ trưởng tặng truyện tranh lịch sử cho thiếu nhi kiều bào](https://nld.com.vn/thu-truong-tang-truyen-tranh-lich-su-cho-thieu-nhi-kieu-bao-196240805211549994.htm) - 14:31 05/08/2024
