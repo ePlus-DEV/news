@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Bồi thường 7.215 đồng một cổ phiếu ROS trong vụ án Trịnh Văn Quyết](https://vnexpress.net/boi-thuong-7-215-dong-mot-co-phieu-ros-trong-vu-an-trinh-van-quyet-4778037.html) - 11:51 05/08/2024
+- 😎 [Bị hại nhận lại 7.215 đồng một cổ phiếu ROS trong vụ Trịnh Văn Quyết](https://vnexpress.net/bi-hai-nhan-lai-7-215-dong-mot-co-phieu-ros-trong-vu-trinh-van-quyet-4778037.html) - 11:51 05/08/2024
 - 🥰 [Cựu thứ trưởng Tài nguyên và Môi trường bị cáo buộc sai phạm gì?](https://vnexpress.net/cuu-thu-truong-tai-nguyen-va-moi-truong-bi-cao-buoc-sai-pham-gi-4778006.html) - 11:20 05/08/2024
 - 🎓 [Bộ Công an: CEO Quốc Cường Gia Lai gây thiệt hại hàng trăm tỷ đồng](https://vnexpress.net/bo-cong-an-ceo-quoc-cuong-gia-lai-gay-thiet-hai-hang-tram-ty-dong-4778058.html) - 10:37 05/08/2024
 - 🤓 [Cựu giám đốc CDC Đăk Lăk bị phạt 3 năm tù](https://vnexpress.net/cuu-giam-doc-cdc-dak-lak-bi-phat-3-nam-tu-4778007.html) - 09:31 05/08/2024
