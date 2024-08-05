@@ -8,7 +8,7 @@ sidebar_position: 3
 - 🐲 [Ông Vũ Tiến Lộc qua đời](https://vnexpress.net/ong-vu-tien-loc-qua-doi-4777829.html) - 04:07 05/08/2024
 - 🔥 [Ngân hàng Nhà nước cho phép Gelex mua cổ phần Eximbank](https://vnexpress.net/ngan-hang-nha-nuoc-cho-phep-gelex-mua-co-phan-eximbank-4777818.html) - 03:45 05/08/2024
 - 🐵 [LPBank bổ nhiệm cố vấn cấp cao ban điều hành](https://vnexpress.net/lpbank-bo-nhiem-co-van-cap-cao-ban-dieu-hanh-4777807.html) - 03:30 05/08/2024
-- 🦅 [Chứng khoán giảm sâu](https://vnexpress.net/chung-khoan-giam-sau-4777796.html) - 03:20 05/08/2024
+- 🦅 [Chứng khoán thủng mốc 1.200 điểm](https://vnexpress.net/chung-khoan-giam-sau-4777796.html) - 03:20 05/08/2024
 - 😺 [Dấu ấn phát triển bền vững tại Masan](https://vnexpress.net/dau-an-phat-trien-ben-vung-tai-masan-4777742.html) - 02:30 05/08/2024
 - 🤩 [Hành trình VIB chạm mốc 750.000 thẻ](https://vnexpress.net/hanh-trinh-vib-cham-moc-750-000-the-4777325.html) - 01:00 05/08/2024
 - 🌮 [Giá vàng được dự báo tăng mạnh tuần này](https://vnexpress.net/gia-vang-duoc-du-bao-tang-manh-tuan-nay-4777690.html) - 22:15 04/08/2024
