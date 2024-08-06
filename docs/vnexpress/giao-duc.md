@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Tỉnh nào rộng thứ hai Việt Nam?](https://vnexpress.net/tinh-nao-rong-thu-hai-viet-nam-4778497.html) - 13:06 06/08/2024
+- 🤓 [Tên gọi Gia Lai bắt nguồn từ đâu?](https://vnexpress.net/ten-goi-gia-lai-bat-nguon-tu-dau-4778497.html) - 13:06 06/08/2024
 - 🦆 [Thưởng 200 triệu đồng cho nam sinh giành huy chương bạc quốc tế](https://vnexpress.net/thuong-200-trieu-dong-cho-nam-sinh-gianh-huy-chuong-bac-quoc-te-4778433.html) - 10:24 06/08/2024
 - 🦩 [Từ vựng tiếng Anh qua 5 chủ đề &#39;hot&#39; của Olympic 2024](https://vnexpress.net/tu-vung-tieng-anh-qua-5-chu-de-hot-cua-olympic-2024-4778052.html) - 08:14 06/08/2024
 - 🌮 [Học sinh Đồng Tháp vô địch bóng đá nam ở Hội khỏe Phù Đổng](https://vnexpress.net/hoc-sinh-dong-thap-vo-dich-bong-da-nam-o-hoi-khoe-phu-dong-4778267.html) - 06:53 06/08/2024
