@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Thủy cung Lotte World - &#39;đại dương thu nhỏ&#39; giữa lòng Hà Nội](https://vnexpress.net/thuy-cung-lotte-world-dai-duong-thu-nho-giua-long-ha-noi-4776054.html) - 06:00 06/08/2024
-- 🪄 [Khách Việt thích đi Trung Quốc dịp 2/9](https://vnexpress.net/khach-viet-thich-di-trung-quoc-dip-2-9-4778277.html) - 05:22 06/08/2024
+- 🪄 [Trung Quốc hút khách Việt dịp 2/9](https://vnexpress.net/trung-quoc-hut-khach-viet-dip-2-9-4778277.html) - 05:22 06/08/2024
 - 🦅 [Một ngày khám phá núi Bà Đen](https://vnexpress.net/mot-ngay-kham-pha-nui-ba-den-4778188.html) - 05:00 06/08/2024
 - 🕴 [Chàng trai nướng bánh như chơi nhạc](https://video.vnexpress.net/chang-trai-nuong-banh-nhu-choi-nhac-4776142.html) - 04:27 06/08/2024
 - 👀 [5 món Việt vào top món xào ngon nhất thế giới](https://vnexpress.net/5-mon-viet-vao-top-mon-xao-ngon-nhat-the-gioi-4777795.html) - 03:16 06/08/2024
