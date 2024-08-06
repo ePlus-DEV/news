@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Nghiên cứu ưu đãi đất, thuế cho doanh nghiệp đầu tư trạm sạc xe điện](https://vnexpress.net/nghien-cuu-uu-dai-dat-thue-cho-doanh-nghiep-dau-tu-tram-sac-xe-dien-4778400.html) - 08:43 06/08/2024
+- 🚀 [Nghiên cứu ưu đãi đất, thuế cho nhà đầu tư trạm sạc xe điện](https://vnexpress.net/nghien-cuu-uu-dai-dat-thue-cho-nha-dau-tu-tram-sac-xe-dien-4778400.html) - 08:43 06/08/2024
 - 🧰 [Thấp thỏm khi dừng mua nhà Hà Nội để tránh &#39;ngáo giá&#39;](https://vnexpress.net/thap-thom-khi-dung-mua-nha-ha-noi-de-tranh-ngao-gia-4778366.html) - 08:40 06/08/2024
 - 🥰 [Iran cảnh báo nguy cơ mất tín hiệu GPS trên không phận](https://vnexpress.net/iran-canh-bao-nguy-co-mat-tin-hieu-gps-tren-khong-phan-4778181.html) - 08:39 06/08/2024
 - 🌏 [Mỹ truy tố người dọa dùng súng AR-15 bắn bà Harris](https://vnexpress.net/my-truy-to-nguoi-doa-dung-sung-ar-15-ban-ba-harris-4778233.html) - 08:31 06/08/2024
@@ -59,7 +59,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💄 [Đèo Lương Sơn thách thức runner VM Nha Trang thế nào?](https://vnexpress.net/deo-luong-son-thach-thuc-runner-vm-nha-trang-the-nao-4778348.html) - 07:22 06/08/2024
 - 🌁 [Chứng khoán trở lại mốc 1.200 điểm](https://vnexpress.net/chung-khoan-hom-nay-vn-index-tro-lai-moc-1-200-diem-4778367.html) - 07:18 06/08/2024
 - 🎬 [Ngạt khí độc sau khi mở bể chứa thực phẩm](https://vnexpress.net/ngat-khi-doc-sau-khi-mo-be-chua-thuc-pham-4778190.html) - 07:14 06/08/2024
-- 👨‍🏫 [Ông Abbas tố Israel ám sát thủ lĩnh Hamas để kéo dài xung đột](https://vnexpress.net/ong-abbas-to-israel-am-sat-thu-linh-hamas-de-keo-dai-xung-dot-4778251.html) - 07:06 06/08/2024
+- 👨‍🏫 [Tổng thống Palestine tố Israel ám sát thủ lĩnh Hamas để kéo dài xung đột](https://vnexpress.net/tong-thong-palestine-to-israel-am-sat-thu-linh-hamas-de-keo-dai-xung-dot-4778251.html) - 07:06 06/08/2024
 - ⚗️ [Tôi đổi đời nhờ làm Sales thay vì sống chết với đam mê Sinh học](https://vnexpress.net/toi-doi-doi-nho-lam-sales-thay-vi-song-chet-voi-dam-me-sinh-hoc-4778294.html) - 07:00 06/08/2024
 - 😺 [Khai trương cửa hàng Victoria&#39;s Secret đầu tiên tại Việt Nam](https://vnexpress.net/khai-truong-cua-hang-victoria-s-secret-dau-tien-tai-viet-nam-4778358.html) - 07:00 06/08/2024
 - 🔥 [Điều trị nuốt nghẹn do trào ngược dạ dày](https://vnexpress.net/dieu-tri-nuot-nghen-do-trao-nguoc-da-day-4778285.html) - 07:00 06/08/2024
