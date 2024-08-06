@@ -215,7 +215,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦏 [Cháy cửa hàng ở TPHCM, nhiều tài sản bị thiêu rụi](https://laodong.vn/ban-tin/chay-cua-hang-o-tphcm-nhieu-tai-san-bi-thieu-rui-1376998.ldo) - 16:07 06/08/2024
 - 🦩 [Lào Cai bắt lô hàng trứng gà non nhập lậu hơn 720 triệu đồng](https://laodong.vn/phap-luat/lao-cai-bat-lo-hang-trung-ga-non-nhap-lau-hon-720-trieu-dong-1377000.ldo) - 15:27 06/08/2024
 - 🦏 [Đường 750 tỉ sạt lở, Hòa Bình công bố tình huống khẩn cấp](https://laodong.vn/giao-thong/duong-750-ti-sat-lo-hoa-binh-cong-bo-tinh-huong-khan-cap-1376908.ldo) - 15:10 06/08/2024
-- 🧰 [Trực tiếp bóng đá nữ Mỹ 1-0 Đức: Smith mở tỉ số](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-nu-my-1-0-duc-smith-mo-ti-so-1376996.ldo) - 15:03 06/08/2024
+- 🧰 [Tuyển bóng đá nữ Mỹ lần thứ 6 vào chung kết Olympic](https://laodong.vn/bong-da-quoc-te/tuyen-bong-da-nu-my-lan-thu-6-vao-chung-ket-olympic-1376996.ldo) - 15:03 06/08/2024
 - 🌊 [Chương trình Vietnam IT Day 2024 diễn ra tại Nhật Bản](https://laodong.vn/cong-nghe/chuong-trinh-vietnam-it-day-2024-dien-ra-tai-nhat-ban-1376985.ldo) - 14:52 06/08/2024
 - 🔥 [Các biển số siêu khủng đồng loạt trượt giá trong phiên 6.8](https://laodong.vn/ban-tin/cac-bien-so-sieu-khung-dong-loat-truot-gia-trong-phien-68-1376981.ldo) - 14:42 06/08/2024
 - 🦒 [Hà Nội phát động phong trào đưa Luật Thủ đô vào cuộc sống](https://laodong.vn/xa-hoi/ha-noi-phat-dong-phong-trao-dua-luat-thu-do-vao-cuoc-song-1376905.ldo) - 14:41 06/08/2024
