@@ -8,7 +8,7 @@ sidebar_position: 9
 - 🐎 [6 con giáp nhàn nhã, sống lâu trăm tuổi](https://vnexpress.net/6-con-giap-nhan-nha-song-lau-tram-tuoi-4778021.html) - 17:01 06/08/2024
 - 🦍 [Chồng xa lánh khi tôi lén &#39;nâng cấp&#39; vòng một](https://vnexpress.net/chong-xa-lanh-khi-toi-len-nang-cap-vong-mot-4778530.html) - 17:00 06/08/2024
 - 🏊 [Tên cướp khét tiếng hai lần vượt ngục bằng trực thăng](https://vnexpress.net/ten-cuop-khet-tieng-hai-lan-vuot-nguc-bang-truc-thang-4778503.html) - 17:00 06/08/2024
-- 🎊 [Tối thiểu 5 m2](https://vnexpress.net/toi-thieu-5-m2-4778495.html) - 17:00 06/08/2024
+- 🎊 [5 m2 thuê trọ](https://vnexpress.net/5-m2-thue-tro-4778495.html) - 17:00 06/08/2024
 - 🎃 [Dấu hiệu rạn nứt trong kinh tế Mỹ đe dọa khả năng đắc cử của bà Harris](https://vnexpress.net/dau-hieu-ran-nut-trong-kinh-te-my-de-doa-kha-nang-dac-cu-cua-ba-harris-4778422.html) - 17:00 06/08/2024
 - 🧰 [Sếp thu nhập trăm triệu tự nấu ăn sáng 10 K, uống cà phê gói tự pha](https://vnexpress.net/sep-thu-nhap-tram-trieu-tu-nau-an-sang-10-k-uong-ca-phe-goi-tu-pha-4778413.html) - 17:00 06/08/2024
 - 🔭 [Thách thức với Mỹ trước kịch bản Iran tấn công Israel](https://vnexpress.net/thach-thuc-voi-my-truoc-kich-ban-iran-tan-cong-israel-4778332.html) - 17:00 06/08/2024
