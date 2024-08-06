@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Thủ lĩnh biểu tình Bangladesh ra tối hậu thư với quốc hội](https://vnexpress.net/thu-linh-bieu-tinh-bangladesh-ra-toi-hau-thu-voi-quoc-hoi-4778411.html) - 09:01 06/08/2024
+- 🎭 [Bangladesh giải tán quốc hội theo tối hậu thư của người biểu tình](https://vnexpress.net/bangladesh-giai-tan-quoc-hoi-theo-toi-hau-thu-cua-nguoi-bieu-tinh-4778411.html) - 09:01 06/08/2024
 - 🕴 [Iran cảnh báo nguy cơ mất tín hiệu GPS trên không phận](https://vnexpress.net/iran-canh-bao-nguy-co-mat-tin-hieu-gps-tren-khong-phan-4778181.html) - 08:39 06/08/2024
 - 🤭 [Mỹ truy tố người dọa dùng súng AR-15 bắn bà Harris](https://vnexpress.net/my-truy-to-nguoi-doa-dung-sung-ar-15-ban-ba-harris-4778233.html) - 08:31 06/08/2024
 - 🧑‍💻 [Liên quân Mỹ &#39;cảnh báo Israel không phản ứng quá mạnh&#39; với Iran](https://vnexpress.net/lien-quan-my-canh-bao-israel-khong-phan-ung-qua-manh-voi-iran-4778370.html) - 08:13 06/08/2024
