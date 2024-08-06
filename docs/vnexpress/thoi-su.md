@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [10 phút vật lộn giữa sông cứu người của chiến sĩ biên phòng](https://vnexpress.net/10-phut-vat-lon-giua-song-cuu-nguoi-cua-chien-si-bien-phong-4778048.html) - 23:00 05/08/2024
-- 🤓 [Loạt chính sách kỳ vọng giúp TP HCM giải tỏa nhanh nhà ven kênh](https://vnexpress.net/loat-chinh-sach-ky-vong-giup-tp-hcm-giai-toa-nhanh-nha-ven-kenh-4777687.html) - 22:00 05/08/2024
+- 🤓 [Loạt chính sách giúp TP HCM giải tỏa hàng chục nghìn nhà ven kênh](https://vnexpress.net/loat-chinh-sach-giup-tp-hcm-giai-toa-hang-chuc-nghin-nha-ven-kenh-4777687.html) - 22:00 05/08/2024
 - ⚗️ [Băng sang đường, người phụ nữ bị xe tải tông tử vong](https://vnexpress.net/bang-sang-duong-nguoi-phu-nu-bi-xe-tai-tong-tu-vong-4778103.html) - 15:57 05/08/2024
 - 🌊 [Đường hơn 3.500 tỷ đồng đi sân bay Thọ Xuân ngưng trệ](https://vnexpress.net/duong-hon-3-500-ty-dong-di-san-bay-tho-xuan-ngung-tre-4777770.html) - 08:42 05/08/2024
 - 🎓 [Thủy điện Hòa Bình, Thác Bà mở thêm cửa xả](https://vnexpress.net/thuy-dien-hoa-binh-thac-ba-mo-them-cua-xa-4777902.html) - 08:16 05/08/2024
