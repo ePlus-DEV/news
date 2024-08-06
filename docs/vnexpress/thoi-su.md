@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [TP HCM mở rộng thi tuyển lãnh đạo ra nhiều sở ngành, đơn vị](https://vnexpress.net/tp-hcm-mo-rong-thi-tuyen-lanh-dao-ra-nhieu-so-nganh-don-vi-4778326.html) - 05:57 06/08/2024
+- 🦒 [TP HCM mở rộng thi tuyển lãnh đạo sở, ngành](https://vnexpress.net/tp-hcm-mo-rong-thi-tuyen-lanh-dao-so-nganh-4778326.html) - 05:57 06/08/2024
 - 🤓 [Đề xuất hai nội dung kiểm tra để phục hồi điểm bằng lái xe](https://vnexpress.net/de-xuat-hai-noi-dung-kiem-tra-de-phuc-hoi-diem-bang-lai-xe-4778298.html) - 05:36 06/08/2024
 - ⚗️ [Chuyên gia Nhật Bản: Chùa Cầu đã phục hồi trạng thái vững chắc](https://vnexpress.net/chuyen-gia-nhat-ban-chua-cau-da-phuc-hoi-trang-thai-vung-chac-4778262.html) - 04:16 06/08/2024
 - 🌊 [Thủy điện Hòa Bình mở cửa xả thứ 4](https://vnexpress.net/thuy-dien-hoa-binh-mo-cua-xa-thu-4-4778211.html) - 03:51 06/08/2024
