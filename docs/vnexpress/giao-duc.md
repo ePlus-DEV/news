@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Bước ngoặt của thủ khoa tốt nghiệp Đại học Sư phạm TP HCM](https://vnexpress.net/buoc-ngoat-cua-thu-khoa-tot-nghiep-dai-hoc-su-pham-tp-hcm-4776263.html) - 03:29 06/08/2024
+- 🤓 [Thủ khoa Sư phạm TP HCM từng học 13 môn một kỳ](https://vnexpress.net/thu-khoa-su-pham-tp-hcm-tung-hoc-13-mon-mot-ky-4776263.html) - 03:29 06/08/2024
 - 🦆 [Trường top đầu ở TP HCM &#39;trắng&#39; hồ sơ tuyển bổ sung lớp 10](https://vnexpress.net/truong-top-dau-o-tp-hcm-trang-ho-so-tuyen-bo-sung-lop-10-4778101.html) - 00:09 06/08/2024
 - 🦩 [Bốn nhóm ngành được thí sinh chuộng nhất năm 2024](https://vnexpress.net/bon-nhom-nganh-duoc-thi-sinh-chuong-nhat-nam-2024-4778096.html) - 15:40 05/08/2024
 - 🌮 [Dự kiến thi tốt nghiệp THPT 2025 vào cuối tháng 6](https://vnexpress.net/lich-thi-tot-nghiep-thpt-2025-du-kien-4778074.html) - 14:04 05/08/2024
