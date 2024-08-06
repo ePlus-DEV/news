@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Khởi tố vụ ôtô va chạm tàu hoả 2 người chết](https://vnexpress.net/khoi-to-vu-oto-va-cham-tau-hoa-2-nguoi-chet-4775499.html) - 05:32 06/08/2024
+- 😎 [Khởi tố vụ ôtô va chạm tàu hỏa 2 người chết](https://vnexpress.net/khoi-to-vu-oto-va-cham-tau-hoa-2-nguoi-chet-4775499.html) - 05:32 06/08/2024
 - 🥰 [Tài xế taxi gây tai nạn chết người, phóng xe chạy trốn](https://vnexpress.net/tai-xe-taxi-gay-tai-nan-chet-nguoi-phong-xe-chay-tron-4778283.html) - 04:25 06/08/2024
 - 🎓 [Tội phạm bị truy nã gắt gao giấu mình trong vỏ bọc cảnh sát](https://vnexpress.net/toi-pham-chay-tron-20-nam-bi-bat-khi-dang-lam-canh-sat-4778252.html) - 04:13 06/08/2024
 - 🤓 [VKS: &#39;Hai cựu cục trưởng Đăng kiểm Việt Nam phải chịu trách nhiệm cao nhất&#39;](https://vnexpress.net/vks-hai-cuu-cuc-truong-dang-kiem-viet-nam-phai-chiu-trach-nhiem-cao-nhat-4778207.html) - 03:30 06/08/2024
