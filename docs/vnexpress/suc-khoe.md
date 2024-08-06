@@ -14,7 +14,7 @@ sidebar_position: 10
 - 👀 [Ung thư thận có chữa khỏi không?](https://vnexpress.net/ung-thu-than-co-chua-khoi-khong-4778329.html) - 09:00 06/08/2024
 - 🌋 [Bé gái qua đời khi chờ lá gan hiến từ người bố](https://vnexpress.net/be-gai-qua-doi-khi-cho-la-gan-hien-tu-nguoi-bo-4775155.html) - 08:02 06/08/2024
 - 🫶 [Lợi ích của hạt dẻ cười](https://vnexpress.net/loi-ich-cua-hat-de-cuoi-4778242.html) - 07:30 06/08/2024
-- 🦆 [Ngạt khí độc trong bể chứa thực phẩm](https://vnexpress.net/ngat-khi-doc-sau-khi-mo-be-chua-thuc-pham-4778190.html) - 07:14 06/08/2024
+- 🦆 [Hai người ngạt khí độc trong bể chứa thực phẩm](https://vnexpress.net/ngat-khi-doc-sau-khi-mo-be-chua-thuc-pham-4778190.html) - 07:14 06/08/2024
 - 🚀 [Điều trị nuốt nghẹn do trào ngược dạ dày](https://vnexpress.net/dieu-tri-nuot-nghen-do-trao-nguoc-da-day-4778285.html) - 07:00 06/08/2024
 - 🌜 [Xét nghiệm bất thường nhiễm sắc thể ở tuần thai nào?](https://vnexpress.net/xet-nghiem-bat-thuong-nhiem-sac-the-o-tuan-thai-nao-4777957.html) - 07:00 06/08/2024
 - 🧰 [Nguyên nhân vô sinh sau khi đã có con](https://vnexpress.net/nguyen-nhan-vo-sinh-sau-khi-da-co-con-4778182.html) - 06:00 06/08/2024
