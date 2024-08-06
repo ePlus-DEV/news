@@ -210,7 +210,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Tuyển nữ Brazil đấu tuyển nữ Mỹ tại chung kết Olympic 2024](https://laodong.vn/bong-da-quoc-te/tuyen-nu-brazil-dau-tuyen-nu-my-tai-chung-ket-olympic-2024-1377005.ldo) - 18:00 06/08/2024
+- 🗽 [Tuyển nữ Brazil và Mỹ tranh huy chương vàng Olympic 2024](https://laodong.vn/bong-da-quoc-te/tuyen-nu-brazil-va-my-tranh-huy-chuong-vang-olympic-2024-1377005.ldo) - 18:00 06/08/2024
 - 📝 [Link xem trực tiếp bóng đá Real Madrid vs Chelsea](https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-real-madrid-vs-chelsea-1376812.ldo) - 17:15 06/08/2024
 - 🦏 [Cháy cửa hàng ở TPHCM, nhiều tài sản bị thiêu rụi](https://laodong.vn/ban-tin/chay-cua-hang-o-tphcm-nhieu-tai-san-bi-thieu-rui-1376998.ldo) - 16:07 06/08/2024
 - 🦩 [Lào Cai bắt lô hàng trứng gà non nhập lậu hơn 720 triệu đồng](https://laodong.vn/phap-luat/lao-cai-bat-lo-hang-trung-ga-non-nhap-lau-hon-720-trieu-dong-1377000.ldo) - 15:27 06/08/2024
