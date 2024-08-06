@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Isaac: &#39;Âm nhạc của tôi chưa tiệm cận số đông khán giả&#39;](https://vnexpress.net/isaac-am-nhac-cua-toi-chua-tiem-can-so-dong-khan-gia-4773932.html) - 17:00 05/08/2024
 - 💫 [Cách chọn quần áo cho người bắp tay to](https://vnexpress.net/cach-chon-quan-ao-cho-nguoi-bap-tay-to-4776130.html) - 14:00 05/08/2024
-- 🌮 [&#39;Phim Việt có thể đạt 1.000 tỷ đồng trong tương lai gần&#39;](https://vnexpress.net/phim-viet-co-the-dat-1-000-ty-dong-trong-tuong-lai-gan-4777920.html) - 12:21 05/08/2024
+- 🌮 [&#39;Sẽ có phim Việt có thể đạt 1.000 tỷ đồng&#39;](https://vnexpress.net/se-co-phim-viet-co-the-dat-1-000-ty-dong-4777920.html) - 12:21 05/08/2024
 - 🧠 [Pax Thiên rời phòng hồi sức đặc biệt](https://vnexpress.net/pax-thien-roi-phong-hoi-suc-dac-biet-4778054.html) - 10:41 05/08/2024
 - 👨‍🏫 [Sắc vóc sĩ quan 22 tuổi đăng quang Miss USA 2024](https://vnexpress.net/sac-voc-si-quan-22-tuoi-dang-quang-miss-usa-2024-4778010.html) - 10:16 05/08/2024
 - ⚗️ [Sao &#39;She Was Pretty&#39; chia tay sau hai tuần công khai bạn trai](https://vnexpress.net/sao-she-was-pretty-chia-tay-sau-hai-tuan-cong-khai-ban-trai-4777997.html) - 08:54 05/08/2024
