@@ -19,7 +19,7 @@ sidebar_position: 9
 - 🎊 [Đôi cá mập cái sinh con sau nhiều năm vắng con đực](https://vnexpress.net/doi-ca-map-cai-sinh-con-sau-nhieu-nam-vang-con-duc-4778566.html) - 13:00 07/08/2024
 - 😺 [PepsiCo Foods khởi công nhà máy 90 triệu USD tại Hà Nam](https://vnexpress.net/pepsico-foods-khoi-cong-nha-may-90-trieu-usd-tai-ha-nam-4778910.html) - 13:00 07/08/2024
 - 🐘 [Thái Lan giải tán đảng đối lập Move Forward](https://vnexpress.net/thai-lan-giai-tan-dang-doi-lap-move-forward-4778889.html) - 12:58 07/08/2024
-- 🌁 [Trịnh Văn Vinh thất bại ở cử tạ hạng 61kg Olympic Paris 2024](https://vnexpress.net/trinh-van-vinh-that-bai-o-cu-ta-hang-61kg-olympic-paris-2024-4778908.html) - 12:34 07/08/2024
+- 🌁 [Trịnh Văn Vinh thất bại ở cử tạ hạng 61kg Olympic Paris 2024](https://vnexpress.net/trinh-van-vinh-that-bai-o-cu-ta-hang-61kg-olympic-paris-2024-4778908-tong-thuat.html) - 12:34 07/08/2024
 - 🐲 [Hoàn thành tu bổ di tích Trường dạy làm báo Huỳnh Thúc Kháng](https://vnexpress.net/hoan-thanh-tu-bo-di-tich-truong-day-lam-bao-huynh-thuc-khang-4778714.html) - 12:20 07/08/2024
 - 🤓 [Rơi trực thăng ở Nepal, 5 người chết](https://vnexpress.net/roi-truc-thang-o-nepal-5-nguoi-chet-4778892.html) - 12:17 07/08/2024
 - 💪 [Đạo diễn &#39;Làm giàu với ma&#39;: Hoài Linh lăn xả trên phim trường](https://vnexpress.net/dao-dien-lam-giau-voi-ma-hoai-linh-lan-xa-tren-phim-truong-4778882.html) - 12:16 07/08/2024
