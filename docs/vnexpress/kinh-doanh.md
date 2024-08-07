@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Trào lưu kinh doanh đồ chơi nghệ thuật Labubu thu tiền tỷ](https://vnexpress.net/trao-luu-kinh-doanh-do-choi-nghe-thuat-labubu-thu-tien-ty-4778365.html) - 22:00 06/08/2024
+- ⛽️ [Kinh doanh đồ chơi nghệ thuật Labubu thu tiền tỷ](https://vnexpress.net/trao-luu-kinh-doanh-do-choi-nghe-thuat-labubu-thu-tien-ty-4778365.html) - 22:00 06/08/2024
 - 🐲 [Dấu hiệu rạn nứt trong kinh tế Mỹ đe dọa khả năng đắc cử của bà Harris](https://vnexpress.net/dau-hieu-ran-nut-trong-kinh-te-my-de-doa-kha-nang-dac-cu-cua-ba-harris-4778422.html) - 17:00 06/08/2024
 - 🔥 [Đề xuất thành lập Hội đồng lúa gạo quốc gia](https://vnexpress.net/de-xuat-thanh-lap-hoi-dong-lua-gao-quoc-gia-4778535.html) - 14:26 06/08/2024
 - 🐵 [Bộ trưởng Tài chính: Thanh khoản chứng khoán Việt Nam ngang Singapore](https://vnexpress.net/bo-truong-tai-chinh-thanh-khoan-chung-khoan-viet-nam-ngang-singapore-4778519.html) - 12:58 06/08/2024
