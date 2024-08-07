@@ -5,7 +5,7 @@ sidebar_position: 9
 
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Moskva nói 1.000 lính Ukraine tấn công vào tỉnh biên giới Nga](https://vnexpress.net/moskva-noi-1-000-linh-ukraine-tan-cong-vao-tinh-bien-gioi-nga-4778924.html) - 15:32 07/08/2024
-- 🐎 [Cháy lớn công ty may mặc ở Đồng Nai](https://vnexpress.net/chay-lon-cong-ty-may-mac-o-dong-nai-4778931.html) - 15:29 07/08/2024
+- 🐎 [Cháy lớn công ty sản xuất đồ gỗ, may mặc ở Đồng Nai](https://vnexpress.net/chay-lon-cong-ty-san-xuat-do-go-may-mac-o-dong-nai-4778931.html) - 15:29 07/08/2024
 - 🦍 [Đô cử Trịnh Văn Vinh thất bại ở Olympic 2024](https://vnexpress.net/do-cu-trinh-van-vinh-that-bai-o-olympic-2024-4778935.html) - 15:26 07/08/2024
 - 🏊 [155 nghi phạm bị bắt vì buôn người, lừa đảo qua mạng](https://vnexpress.net/155-nghi-pham-bi-bat-vi-buon-nguoi-lua-dao-qua-mang-4778921.html) - 15:11 07/08/2024
 - 🎊 [&#39;Sinh viên Việt cần những giảng viên thực chiến&#39;](https://vnexpress.net/sinh-vien-viet-can-nhung-giang-vien-thuc-chien-4778812.html) - 14:57 07/08/2024
@@ -19,7 +19,7 @@ sidebar_position: 9
 - 🎊 [Đôi cá mập cái sinh con sau nhiều năm vắng con đực](https://vnexpress.net/doi-ca-map-cai-sinh-con-sau-nhieu-nam-vang-con-duc-4778566.html) - 13:00 07/08/2024
 - 😺 [PepsiCo Foods khởi công nhà máy 90 triệu USD tại Hà Nam](https://vnexpress.net/pepsico-foods-khoi-cong-nha-may-90-trieu-usd-tai-ha-nam-4778910.html) - 13:00 07/08/2024
 - 🐘 [Thái Lan giải tán đảng đối lập Move Forward](https://vnexpress.net/thai-lan-giai-tan-dang-doi-lap-move-forward-4778889.html) - 12:58 07/08/2024
-- 🌁 [Đô cử Trung Quốc phá kỷ lục cử giật Olympic ở hạng 61kg nam](https://vnexpress.net/do-cu-trung-quoc-pha-ky-luc-cu-giat-olympic-o-hang-61kg-nam-4778908.html) - 12:34 07/08/2024
+- 🌁 [Trịnh Văn Vinh thất bại ở cử tạ hạng 61kg Olympic Paris 2024](https://vnexpress.net/trinh-van-vinh-that-bai-o-cu-ta-hang-61kg-olympic-paris-2024-4778908.html) - 12:34 07/08/2024
 - 🐲 [Hoàn thành tu bổ di tích Trường dạy làm báo Huỳnh Thúc Kháng](https://vnexpress.net/hoan-thanh-tu-bo-di-tich-truong-day-lam-bao-huynh-thuc-khang-4778714.html) - 12:20 07/08/2024
 - 🤓 [Rơi trực thăng ở Nepal, 5 người chết](https://vnexpress.net/roi-truc-thang-o-nepal-5-nguoi-chet-4778892.html) - 12:17 07/08/2024
 - 💪 [Đạo diễn &#39;Làm giàu với ma&#39;: Hoài Linh lăn xả trên phim trường](https://vnexpress.net/dao-dien-lam-giau-voi-ma-hoai-linh-lan-xa-tren-phim-truong-4778882.html) - 12:16 07/08/2024
