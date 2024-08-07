@@ -54,6 +54,4 @@ sidebar_position: 9
 - 🐎 [Món quà bất ngờ dành cho người mẹ nuôi đứa trẻ mồ côi](https://vnexpress.net/mon-qua-bat-ngo-danh-cho-nguoi-me-nuoi-dua-tre-mo-coi-4778533.html) - 07:59 07/08/2024
 - 🏊 [18 cổ đông nắm hơn 70% vốn VIB](https://vnexpress.net/18-co-dong-nam-hon-70-von-vib-4778672.html) - 07:55 07/08/2024
 - 🦩 [Lynk &amp;amp; Co 01 phiên bản mới giá 999 triệu đồng](https://vnexpress.net/lynk-co-01-phien-ban-moi-gia-999-trieu-dong-4778760.html) - 07:51 07/08/2024
-- 👍 [Du lịch trong nước vào mùa giá rẻ](https://vnexpress.net/du-lich-trong-nuoc-vao-mua-gia-re-4778494.html) - 07:47 07/08/2024
-- 🔥 [Mỹ kêu gọi tân thủ lĩnh Hamas đồng ý ngừng bắn với Israel](https://vnexpress.net/my-keu-goi-tan-thu-linh-hamas-dong-y-ngung-ban-voi-israel-4778648.html) - 07:42 07/08/2024
-- 💄 [Bộ Công Thương kiểm tra 14 doanh nghiệp xăng dầu](https://vnexpress.net/bo-cong-thuong-kiem-tra-14-doanh-nghiep-xang-dau-4778761.html) - 07:41 07/08/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 👍 [Du lịch trong nước vào mùa giá rẻ](https://vnexpress.net/du-lich-trong-nuoc-vao-mua-gia-re-4778494.html) - 07:47 07/08/2024<!-- vnexpress-tin-moi-nhat:END -->
