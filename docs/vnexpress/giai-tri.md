@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Đạo diễn &#39;Làm giàu với ma&#39;: Hoài Linh lăn xả khi tái xuất](https://vnexpress.net/dao-dien-lam-giau-voi-ma-hoai-linh-lan-xa-khi-tai-xuat-4778882.html) - 12:16 07/08/2024
-- 💫 [Blake Lively hóa &#39;cây hoa di động&#39; trên phố New York](https://vnexpress.net/blake-lively-hoa-cay-hoa-di-dong-tren-pho-new-york-4778853.html) - 11:00 07/08/2024
-- 🌮 [Lý Liên Kiệt đưa hai con hành hương](https://vnexpress.net/ly-lien-kiet-dua-hai-con-hanh-huong-4778838.html) - 08:58 07/08/2024
-- 🧠 [Phạm Khánh Hưng làm mới &#39;Khi con tim lên tiếng&#39;](https://vnexpress.net/pham-khanh-hung-lam-moi-khi-con-tim-len-tieng-4778608.html) - 07:40 07/08/2024
-- 👨‍🏫 [Vẻ đẹp tuổi 17 của tuyển thủ nhảy cầu Tây Ban Nha](https://vnexpress.net/ve-dep-tuoi-17-cua-tuyen-thu-nhay-cau-tay-ban-nha-4778662.html) - 07:39 07/08/2024
-- ⚗️ [Taylor Swift dẫn đầu đề cử VMAs](https://vnexpress.net/taylor-swift-dan-dau-de-cu-vmas-4778725.html) - 07:32 07/08/2024
-- 😎 [Văn Mai Hương, Giang Hồng Ngọc hát giữa The Opera Residence](https://vnexpress.net/van-mai-huong-giang-hong-ngoc-hat-giua-the-opera-residence-4778747.html) - 05:00 07/08/2024
-- 🫣 [Tủ đồ thời trang của con gái Hà Kiều Anh](https://vnexpress.net/tu-do-thoi-trang-cua-con-gai-ha-kieu-anh-4778668.html) - 04:32 07/08/2024
-- 🪄 [Sắc vóc &#39;mỹ nhân ngư&#39; người Paraguay ở Olympic](https://vnexpress.net/sac-voc-my-nhan-ngu-nguoi-paraguay-o-olympic-4778289.html) - 03:38 07/08/2024
-- 🤓 [Pax Thiên &#39;không muốn nhận lời hỏi thăm từ Brad Pitt&#39;](https://vnexpress.net/pax-thien-khong-muon-nhan-loi-hoi-tham-tu-brad-pitt-4778605.html) - 03:06 07/08/2024
-- 🫶 [Nét sinh hoạt của người Chợ Lớn hơn 100 năm trước](https://vnexpress.net/net-sinh-hoat-cua-nguoi-cho-lon-hon-100-nam-truoc-4772396.html) - 17:00 06/08/2024
-- 🧑‍🏫 [Hậu trường mỹ nam cưỡi ngựa ở phim cổ trang](https://vnexpress.net/hau-truong-my-nam-cuoi-ngua-o-phim-co-trang-4778406.html) - 15:28 06/08/2024
-- 🦄 [Tiết mục của Quân A.P, Pháp Kiều hút triệu lượt xem](https://vnexpress.net/tiet-muc-cua-quan-a-p-phap-kieu-hut-trieu-luot-xem-4778395.html) - 13:03 06/08/2024
-- 💫 [Bích Tuyền - &#39;nàng thơ&#39; làng mốt thành á hậu Miss Grand Vietnam](https://vnexpress.net/bich-tuyen-nang-tho-lang-mot-thanh-a-hau-miss-grand-vietnam-4778284.html) - 11:00 06/08/2024
-- 🎊 [Jennifer Garner rèn thể hình cho &#39;Deadpool &amp;amp; Wolverine&#39;](https://vnexpress.net/jennifer-garner-ren-the-hinh-cho-deadpool-wolverine-4778214.html) - 08:09 06/08/2024
-- 👹 [Diễn viên &#39;Tây du ký&#39; 1986 sở hữu ba huy chương vàng Olympic](https://vnexpress.net/dien-vien-tay-du-ky-1986-so-huu-ba-huy-chuong-vang-olympic-4778221.html) - 05:27 06/08/2024
-- 💻 [Lisa và dàn sao lăng xê mốt áo nửa gang tay](https://vnexpress.net/lisa-va-dan-sao-lang-xe-mot-ao-nua-gang-tay-4778274.html) - 04:35 06/08/2024
-- 🤡 [Dung mạo &#39;người đàn ông quyến rũ nhất Olympic&#39;](https://vnexpress.net/dung-mao-nguoi-dan-ong-quyen-ru-nhat-olympic-4778193.html) - 03:49 06/08/2024
-- 🥰 [&#39;John Wick&#39; có phần mới](https://vnexpress.net/john-wick-co-phan-moi-4778150.html) - 03:01 06/08/2024
-- 🚀 [Sách gợi ý kỹ năng &#39;phản biện như chuyên gia&#39;](https://vnexpress.net/sach-goi-y-ky-nang-phan-bien-nhu-chuyen-gia-4777458.html) - 02:52 06/08/2024
-- 📝 [Isaac: Tôi đâu chỉ đẹp trai](https://vnexpress.net/isaac-toi-dau-chi-dep-trai-4773932.html) - 17:00 05/08/2024
-- 🐲 [Cách chọn quần áo cho người bắp tay to](https://vnexpress.net/cach-chon-quan-ao-cho-nguoi-bap-tay-to-4776130.html) - 14:00 05/08/2024
-- 🎃 [&#39;Sẽ có phim Việt có thể đạt 1.000 tỷ đồng&#39;](https://vnexpress.net/se-co-phim-viet-co-the-dat-1-000-ty-dong-4777920.html) - 12:21 05/08/2024
-- 🤠 [Pax Thiên rời phòng hồi sức đặc biệt](https://vnexpress.net/pax-thien-roi-phong-hoi-suc-dac-biet-4778054.html) - 10:41 05/08/2024
-- 🎭 [Sắc vóc sĩ quan 22 tuổi đăng quang Miss USA 2024](https://vnexpress.net/sac-voc-si-quan-22-tuoi-dang-quang-miss-usa-2024-4778010.html) - 10:16 05/08/2024
-- 🧰 [Sao &#39;She Was Pretty&#39; chia tay sau hai tuần công khai bạn trai](https://vnexpress.net/sao-she-was-pretty-chia-tay-sau-hai-tuan-cong-khai-ban-trai-4777997.html) - 08:54 05/08/2024
-- 🦍 [Đám cưới cổ tích của mỹ nhân &#39;Diệp Vấn&#39;](https://vnexpress.net/dam-cuoi-co-tich-cua-my-nhan-diep-van-4777914.html) - 07:40 05/08/2024
-- 🌝 [Louis Vuitton lồng ghép di sản chế tác rương trên trang sức Tumbler](https://vnexpress.net/louis-vuitton-long-ghep-di-san-che-tac-ruong-tren-trang-suc-tumbler-4777293.html) - 07:00 05/08/2024
-- 🧑‍💻 [&#39;Nữ thần nhảy cao&#39; của Ukraine](https://vnexpress.net/nu-than-nhay-cao-cua-ukraine-4777801.html) - 06:44 05/08/2024
-- 🥸 [Adele dừng concert để xem Olympic](https://vnexpress.net/adele-dung-concert-de-xem-olympic-4777768.html) - 05:03 05/08/2024
-- 🔥 [&#39;Deadpool &amp;amp; Wolverine&#39; sắp đạt một tỷ USD](https://vnexpress.net/deadpool-wolverine-sap-dat-mot-ty-usd-4777752.html) - 04:21 05/08/2024
-- 🐎 [Karik: &#39;Tôi tổn thương khi bị chê rap đớt&#39;](https://vnexpress.net/karik-toi-ton-thuong-khi-bi-che-rap-dot-4773989.html) - 04:09 05/08/2024
-- 😎 [Chung Thanh Phong làm show váy cưới cao cấp](https://vnexpress.net/chung-thanh-phong-lam-show-vay-cuoi-cao-cap-4777792.html) - 03:24 05/08/2024
-- 🦄 [Sắc vóc Tường San ở tuổi 24](https://vnexpress.net/sac-voc-tuong-san-o-tuoi-24-4777671.html) - 03:05 05/08/2024
-- 🌜 [10 ngôi sao có phong cách thu hút nhất hè 2024](https://vnexpress.net/10-ngoi-sao-co-phong-cach-thu-hut-nhat-he-2024-4773258.html) - 02:27 05/08/2024
-- 🚦 [Lam Trường: &#39;Tôi mong có thêm con ở tuổi 50&#39;](https://vnexpress.net/lam-truong-toi-mong-co-them-con-o-tuoi-50-4777160.html) - 17:00 04/08/2024
-- 🧐 [Hai ấn phẩm tưởng nhớ soạn giả Lê Duy Hạnh](https://vnexpress.net/hai-an-pham-tuong-nho-soan-gia-le-duy-hanh-4777675.html) - 15:41 04/08/2024
-- 🐵 [BB Trần đu dây, Kay Trần múa võ ở show &#39;Anh trai&#39;](https://vnexpress.net/bb-tran-du-day-kay-tran-mua-vo-o-show-anh-trai-4777625.html) - 14:49 04/08/2024
-- ⚗️ [Gu mặc đời thường của Hoa hậu Quế Anh](https://vnexpress.net/gu-mac-doi-thuong-cua-hoa-hau-que-anh-4777617.html) - 11:30 04/08/2024
-- 👺 [Cẩm Ly - 30 năm đậm tình nhạc quê hương](https://vnexpress.net/cam-ly-30-nam-dam-tinh-nhac-que-huong-4777326.html) - 07:56 04/08/2024
-- 🌊 [Nghệ sĩ Tự Long gây thích thú khi đọc rap](https://vnexpress.net/nghe-si-tu-long-gay-thich-thu-khi-doc-rap-4777494.html) - 05:04 04/08/2024
-- 🪜 [Quế Anh: &#39;Tôi may mắn sinh ra trong gia đình gia giáo&#39;](https://vnexpress.net/que-anh-toi-may-man-sinh-ra-trong-gia-dinh-gia-giao-4777548.html) - 03:45 04/08/2024
-- 🕴 [Sắc vóc Quế Anh - Miss Grand Vietnam 2024](https://vnexpress.net/sac-voc-que-anh-miss-grand-vietnam-2024-4777512.html) - 01:41 04/08/2024
-- 💃 [Noo Phước Thịnh bất ngờ hát cùng Cẩm Ly](https://vnexpress.net/noo-phuoc-thinh-bat-ngo-hat-cung-cam-ly-4777493.html) - 00:39 04/08/2024
-- 🦄 [Người đẹp Hải Dương đăng quang Hoa hậu Du lịch Việt Nam](https://vnexpress.net/nguoi-dep-hai-duong-dang-quang-hoa-hau-du-lich-viet-nam-4777487.html) - 22:37 03/08/2024
-- ⛽️ [Tranh hoa sen &#39;như thật&#39;](https://vnexpress.net/tranh-hoa-sen-nhu-that-4777344.html) - 22:00 03/08/2024
-- 😎 [Cô gái Quảng Nam đăng quang Miss Grand Vietnam 2024](https://vnexpress.net/co-gai-quang-nam-dang-quang-miss-grand-vietnam-2024-4777438.html) - 17:49 03/08/2024
-- 🌊 [Hiếu Thứ Hai, Anh Tú gây phấn khích khi thể hiện vũ đạo](https://vnexpress.net/hieu-thu-hai-anh-tu-gay-phan-khich-khi-the-hien-vu-dao-4777481.html) - 17:09 03/08/2024
-- 🐲 [Thú vui nấu ăn của Trung Dũng tại nhà vườn](https://vnexpress.net/thu-vui-nau-an-cua-trung-dung-tai-nha-vuon-4775519.html) - 17:00 03/08/2024
-- 💂 [Dàn mỹ nhân mặc gợi cảm tại chung kết Miss Grand Vietnam](https://vnexpress.net/dan-my-nhan-mac-goi-cam-tai-chung-ket-miss-grand-vietnam-4777451.html) - 13:04 03/08/2024
-- 🙉 [Các kiểu phối denim của Hiếu Thứ Hai](https://vnexpress.net/cac-kieu-phoi-denim-cua-hieu-thu-hai-4770807.html) - 12:29 03/08/2024
-- 💪 [Váy áo của Lisa khi đi nghỉ dưỡng](https://vnexpress.net/vay-ao-cua-lisa-khi-di-nghi-duong-4777306.html) - 11:30 03/08/2024
-- 👍 [Phụ nữ và phong cảnh trong tranh Đỗ Hữu Khôi, Phạm Văn Trọng](https://vnexpress.net/phu-nu-va-phong-canh-trong-tranh-do-huu-khoi-pham-van-trong-4776918.html) - 09:16 03/08/2024
-- 💪 [Thu Hiền - giọng ca Vietnam Idol nổi bật tại Miss Grand Vietnam](https://vnexpress.net/thu-hien-giong-ca-vietnam-idol-noi-bat-tai-miss-grand-vietnam-4776752.html) - 08:30 03/08/2024
-- 💄 [Đan Trường, Lam Trường chạy nước rút tập show Cẩm Ly](https://vnexpress.net/dan-truong-lam-truong-chay-nuoc-rut-tap-show-cam-ly-4777245.html) - 07:47 03/08/2024
-- 🦩 [Bối cảnh làng cổ trong phim kinh dị Tấm Cám](https://vnexpress.net/boi-canh-lang-co-trong-phim-kinh-di-tam-cam-4777328.html) - 06:17 03/08/2024
-- 🥸 [Angelina Jolie tố cáo bị Brad Pitt &#39;ép ký hợp đồng im lặng&#39;](https://vnexpress.net/angelina-jolie-to-cao-bi-brad-pitt-ep-ky-hop-dong-im-lang-4777265.html) - 04:41 03/08/2024
-- 🧰 [Lê Hoàng Phương bên dàn thí sinh Miss Grand Vietnam](https://vnexpress.net/le-hoang-phuong-ben-dan-thi-sinh-miss-grand-vietnam-4777254.html) - 04:37 03/08/2024
+- 🌏 [Phong cách khi làm giảng viên của Midu](https://vnexpress.net/phong-cach-khi-lam-giang-vien-cua-midu-4778453.html) - 13:31 07/08/2024
+- 💫 [Đạo diễn &#39;Làm giàu với ma&#39;: Hoài Linh lăn xả trên phim trường](https://vnexpress.net/dao-dien-lam-giau-voi-ma-hoai-linh-lan-xa-tren-phim-truong-4778882.html) - 12:16 07/08/2024
+- 🌮 [Blake Lively hóa &#39;cây hoa di động&#39; trên phố New York](https://vnexpress.net/blake-lively-hoa-cay-hoa-di-dong-tren-pho-new-york-4778853.html) - 11:00 07/08/2024
+- 🧠 [Lý Liên Kiệt đưa hai con hành hương](https://vnexpress.net/ly-lien-kiet-dua-hai-con-hanh-huong-4778838.html) - 08:58 07/08/2024
+- 👨‍🏫 [Phạm Khánh Hưng làm mới &#39;Khi con tim lên tiếng&#39;](https://vnexpress.net/pham-khanh-hung-lam-moi-khi-con-tim-len-tieng-4778608.html) - 07:40 07/08/2024
+- ⚗️ [Vẻ đẹp tuổi 17 của tuyển thủ nhảy cầu Tây Ban Nha](https://vnexpress.net/ve-dep-tuoi-17-cua-tuyen-thu-nhay-cau-tay-ban-nha-4778662.html) - 07:39 07/08/2024
+- 😎 [Taylor Swift dẫn đầu đề cử VMAs](https://vnexpress.net/taylor-swift-dan-dau-de-cu-vmas-4778725.html) - 07:32 07/08/2024
+- 🫣 [Văn Mai Hương, Giang Hồng Ngọc hát giữa The Opera Residence](https://vnexpress.net/van-mai-huong-giang-hong-ngoc-hat-giua-the-opera-residence-4778747.html) - 05:00 07/08/2024
+- 🪄 [Tủ đồ thời trang của con gái Hà Kiều Anh](https://vnexpress.net/tu-do-thoi-trang-cua-con-gai-ha-kieu-anh-4778668.html) - 04:32 07/08/2024
+- 🤓 [Sắc vóc &#39;mỹ nhân ngư&#39; người Paraguay ở Olympic](https://vnexpress.net/sac-voc-my-nhan-ngu-nguoi-paraguay-o-olympic-4778289.html) - 03:38 07/08/2024
+- 🫶 [Pax Thiên &#39;không muốn nhận lời hỏi thăm từ Brad Pitt&#39;](https://vnexpress.net/pax-thien-khong-muon-nhan-loi-hoi-tham-tu-brad-pitt-4778605.html) - 03:06 07/08/2024
+- 🧑‍🏫 [Nét sinh hoạt của người Chợ Lớn hơn 100 năm trước](https://vnexpress.net/net-sinh-hoat-cua-nguoi-cho-lon-hon-100-nam-truoc-4772396.html) - 17:00 06/08/2024
+- 🦄 [Hậu trường mỹ nam cưỡi ngựa ở phim cổ trang](https://vnexpress.net/hau-truong-my-nam-cuoi-ngua-o-phim-co-trang-4778406.html) - 15:28 06/08/2024
+- 💫 [Tiết mục của Quân A.P, Pháp Kiều hút triệu lượt xem](https://vnexpress.net/tiet-muc-cua-quan-a-p-phap-kieu-hut-trieu-luot-xem-4778395.html) - 13:03 06/08/2024
+- 🎊 [Bích Tuyền - &#39;nàng thơ&#39; làng mốt thành á hậu Miss Grand Vietnam](https://vnexpress.net/bich-tuyen-nang-tho-lang-mot-thanh-a-hau-miss-grand-vietnam-4778284.html) - 11:00 06/08/2024
+- 👹 [Jennifer Garner rèn thể hình cho &#39;Deadpool &amp;amp; Wolverine&#39;](https://vnexpress.net/jennifer-garner-ren-the-hinh-cho-deadpool-wolverine-4778214.html) - 08:09 06/08/2024
+- 💻 [Diễn viên &#39;Tây du ký&#39; 1986 sở hữu ba huy chương vàng Olympic](https://vnexpress.net/dien-vien-tay-du-ky-1986-so-huu-ba-huy-chuong-vang-olympic-4778221.html) - 05:27 06/08/2024
+- 🤡 [Lisa và dàn sao lăng xê mốt áo nửa gang tay](https://vnexpress.net/lisa-va-dan-sao-lang-xe-mot-ao-nua-gang-tay-4778274.html) - 04:35 06/08/2024
+- 🥰 [Dung mạo &#39;người đàn ông quyến rũ nhất Olympic&#39;](https://vnexpress.net/dung-mao-nguoi-dan-ong-quyen-ru-nhat-olympic-4778193.html) - 03:49 06/08/2024
+- 🚀 [&#39;John Wick&#39; có phần mới](https://vnexpress.net/john-wick-co-phan-moi-4778150.html) - 03:01 06/08/2024
+- 📝 [Sách gợi ý kỹ năng &#39;phản biện như chuyên gia&#39;](https://vnexpress.net/sach-goi-y-ky-nang-phan-bien-nhu-chuyen-gia-4777458.html) - 02:52 06/08/2024
+- 🐲 [Isaac: Tôi đâu chỉ đẹp trai](https://vnexpress.net/isaac-toi-dau-chi-dep-trai-4773932.html) - 17:00 05/08/2024
+- 🎃 [Cách chọn quần áo cho người bắp tay to](https://vnexpress.net/cach-chon-quan-ao-cho-nguoi-bap-tay-to-4776130.html) - 14:00 05/08/2024
+- 🤠 [&#39;Sẽ có phim Việt có thể đạt 1.000 tỷ đồng&#39;](https://vnexpress.net/se-co-phim-viet-co-the-dat-1-000-ty-dong-4777920.html) - 12:21 05/08/2024
+- 🎭 [Pax Thiên rời phòng hồi sức đặc biệt](https://vnexpress.net/pax-thien-roi-phong-hoi-suc-dac-biet-4778054.html) - 10:41 05/08/2024
+- 🧰 [Sắc vóc sĩ quan 22 tuổi đăng quang Miss USA 2024](https://vnexpress.net/sac-voc-si-quan-22-tuoi-dang-quang-miss-usa-2024-4778010.html) - 10:16 05/08/2024
+- 🦍 [Sao &#39;She Was Pretty&#39; chia tay sau hai tuần công khai bạn trai](https://vnexpress.net/sao-she-was-pretty-chia-tay-sau-hai-tuan-cong-khai-ban-trai-4777997.html) - 08:54 05/08/2024
+- 🌝 [Đám cưới cổ tích của mỹ nhân &#39;Diệp Vấn&#39;](https://vnexpress.net/dam-cuoi-co-tich-cua-my-nhan-diep-van-4777914.html) - 07:40 05/08/2024
+- 🧑‍💻 [Louis Vuitton lồng ghép di sản chế tác rương trên trang sức Tumbler](https://vnexpress.net/louis-vuitton-long-ghep-di-san-che-tac-ruong-tren-trang-suc-tumbler-4777293.html) - 07:00 05/08/2024
+- 🥸 [&#39;Nữ thần nhảy cao&#39; của Ukraine](https://vnexpress.net/nu-than-nhay-cao-cua-ukraine-4777801.html) - 06:44 05/08/2024
+- 🔥 [Adele dừng concert để xem Olympic](https://vnexpress.net/adele-dung-concert-de-xem-olympic-4777768.html) - 05:03 05/08/2024
+- 🐎 [&#39;Deadpool &amp;amp; Wolverine&#39; sắp đạt một tỷ USD](https://vnexpress.net/deadpool-wolverine-sap-dat-mot-ty-usd-4777752.html) - 04:21 05/08/2024
+- 😎 [Karik: &#39;Tôi tổn thương khi bị chê rap đớt&#39;](https://vnexpress.net/karik-toi-ton-thuong-khi-bi-che-rap-dot-4773989.html) - 04:09 05/08/2024
+- 🦄 [Chung Thanh Phong làm show váy cưới cao cấp](https://vnexpress.net/chung-thanh-phong-lam-show-vay-cuoi-cao-cap-4777792.html) - 03:24 05/08/2024
+- 🌜 [Sắc vóc Tường San ở tuổi 24](https://vnexpress.net/sac-voc-tuong-san-o-tuoi-24-4777671.html) - 03:05 05/08/2024
+- 🚦 [10 ngôi sao có phong cách thu hút nhất hè 2024](https://vnexpress.net/10-ngoi-sao-co-phong-cach-thu-hut-nhat-he-2024-4773258.html) - 02:27 05/08/2024
+- 🧐 [Lam Trường: &#39;Tôi mong có thêm con ở tuổi 50&#39;](https://vnexpress.net/lam-truong-toi-mong-co-them-con-o-tuoi-50-4777160.html) - 17:00 04/08/2024
+- 🐵 [Hai ấn phẩm tưởng nhớ soạn giả Lê Duy Hạnh](https://vnexpress.net/hai-an-pham-tuong-nho-soan-gia-le-duy-hanh-4777675.html) - 15:41 04/08/2024
+- ⚗️ [BB Trần đu dây, Kay Trần múa võ ở show &#39;Anh trai&#39;](https://vnexpress.net/bb-tran-du-day-kay-tran-mua-vo-o-show-anh-trai-4777625.html) - 14:49 04/08/2024
+- 👺 [Gu mặc đời thường của Hoa hậu Quế Anh](https://vnexpress.net/gu-mac-doi-thuong-cua-hoa-hau-que-anh-4777617.html) - 11:30 04/08/2024
+- 🌊 [Cẩm Ly - 30 năm đậm tình nhạc quê hương](https://vnexpress.net/cam-ly-30-nam-dam-tinh-nhac-que-huong-4777326.html) - 07:56 04/08/2024
+- 🪜 [Nghệ sĩ Tự Long gây thích thú khi đọc rap](https://vnexpress.net/nghe-si-tu-long-gay-thich-thu-khi-doc-rap-4777494.html) - 05:04 04/08/2024
+- 🕴 [Quế Anh: &#39;Tôi may mắn sinh ra trong gia đình gia giáo&#39;](https://vnexpress.net/que-anh-toi-may-man-sinh-ra-trong-gia-dinh-gia-giao-4777548.html) - 03:45 04/08/2024
+- 💃 [Sắc vóc Quế Anh - Miss Grand Vietnam 2024](https://vnexpress.net/sac-voc-que-anh-miss-grand-vietnam-2024-4777512.html) - 01:41 04/08/2024
+- 🦄 [Noo Phước Thịnh bất ngờ hát cùng Cẩm Ly](https://vnexpress.net/noo-phuoc-thinh-bat-ngo-hat-cung-cam-ly-4777493.html) - 00:39 04/08/2024
+- ⛽️ [Người đẹp Hải Dương đăng quang Hoa hậu Du lịch Việt Nam](https://vnexpress.net/nguoi-dep-hai-duong-dang-quang-hoa-hau-du-lich-viet-nam-4777487.html) - 22:37 03/08/2024
+- 😎 [Tranh hoa sen &#39;như thật&#39;](https://vnexpress.net/tranh-hoa-sen-nhu-that-4777344.html) - 22:00 03/08/2024
+- 🌊 [Cô gái Quảng Nam đăng quang Miss Grand Vietnam 2024](https://vnexpress.net/co-gai-quang-nam-dang-quang-miss-grand-vietnam-2024-4777438.html) - 17:49 03/08/2024
+- 🐲 [Hiếu Thứ Hai, Anh Tú gây phấn khích khi thể hiện vũ đạo](https://vnexpress.net/hieu-thu-hai-anh-tu-gay-phan-khich-khi-the-hien-vu-dao-4777481.html) - 17:09 03/08/2024
+- 💂 [Thú vui nấu ăn của Trung Dũng tại nhà vườn](https://vnexpress.net/thu-vui-nau-an-cua-trung-dung-tai-nha-vuon-4775519.html) - 17:00 03/08/2024
+- 🙉 [Dàn mỹ nhân mặc gợi cảm tại chung kết Miss Grand Vietnam](https://vnexpress.net/dan-my-nhan-mac-goi-cam-tai-chung-ket-miss-grand-vietnam-4777451.html) - 13:04 03/08/2024
+- 💪 [Các kiểu phối denim của Hiếu Thứ Hai](https://vnexpress.net/cac-kieu-phoi-denim-cua-hieu-thu-hai-4770807.html) - 12:29 03/08/2024
+- 👍 [Váy áo của Lisa khi đi nghỉ dưỡng](https://vnexpress.net/vay-ao-cua-lisa-khi-di-nghi-duong-4777306.html) - 11:30 03/08/2024
+- 💪 [Phụ nữ và phong cảnh trong tranh Đỗ Hữu Khôi, Phạm Văn Trọng](https://vnexpress.net/phu-nu-va-phong-canh-trong-tranh-do-huu-khoi-pham-van-trong-4776918.html) - 09:16 03/08/2024
+- 💄 [Thu Hiền - giọng ca Vietnam Idol nổi bật tại Miss Grand Vietnam](https://vnexpress.net/thu-hien-giong-ca-vietnam-idol-noi-bat-tai-miss-grand-vietnam-4776752.html) - 08:30 03/08/2024
+- 🦩 [Đan Trường, Lam Trường chạy nước rút tập show Cẩm Ly](https://vnexpress.net/dan-truong-lam-truong-chay-nuoc-rut-tap-show-cam-ly-4777245.html) - 07:47 03/08/2024
+- 🥸 [Bối cảnh làng cổ trong phim kinh dị Tấm Cám](https://vnexpress.net/boi-canh-lang-co-trong-phim-kinh-di-tam-cam-4777328.html) - 06:17 03/08/2024
+- 🧰 [Angelina Jolie tố cáo bị Brad Pitt &#39;ép ký hợp đồng im lặng&#39;](https://vnexpress.net/angelina-jolie-to-cao-bi-brad-pitt-ep-ky-hop-dong-im-lang-4777265.html) - 04:41 03/08/2024
 - 💼 [Gu thời trang của vợ tỷ phú Hong Kong](https://vnexpress.net/gu-thoi-trang-cua-vo-ty-phu-hong-kong-4777255.html) - 03:01 03/08/2024
 - 🧑‍💻 [Phim Hoài Linh &#39;đối đầu&#39; Quyền Linh](https://vnexpress.net/phim-hoai-linh-doi-dau-quyen-linh-4776958.html) - 02:31 03/08/2024<!-- vnexpress-giai-tri:END -->
