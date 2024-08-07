@@ -76,12 +76,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💫 [Thái Lan giải tán đảng đối lập Move Forward](https://vnexpress.net/thai-lan-giai-tan-dang-doi-lap-move-forward-4778889.html) - 12:58 07/08/2024
 - 🤩 [Trịnh Văn Vinh thất bại ở cử tạ hạng 61kg Olympic Paris 2024](https://vnexpress.net/trinh-van-vinh-that-bai-o-cu-ta-hang-61kg-olympic-paris-2024-4778908-tong-thuat.html) - 12:34 07/08/2024
 - 🏊 [Hoàn thành tu bổ di tích Trường dạy làm báo Huỳnh Thúc Kháng](https://vnexpress.net/hoan-thanh-tu-bo-di-tich-truong-day-lam-bao-huynh-thuc-khang-4778714.html) - 12:20 07/08/2024
-- 💂 [Rơi trực thăng ở Nepal, 5 người chết](https://vnexpress.net/roi-truc-thang-o-nepal-5-nguoi-chet-4778892.html) - 12:17 07/08/2024
-- 🚀 [Đạo diễn &#39;Làm giàu với ma&#39;: Hoài Linh lăn xả trên phim trường](https://vnexpress.net/dao-dien-lam-giau-voi-ma-hoai-linh-lan-xa-tren-phim-truong-4778882.html) - 12:16 07/08/2024
-- 🕴 [Biệt thự của Messi bị phá hoại](https://vnexpress.net/biet-thu-cua-messi-bi-pha-hoai-4778817.html) - 12:12 07/08/2024
-- 🦆 [Vé metro Nhổn - ga Hà Nội 12.000 đồng một lượt](https://vnexpress.net/ve-metro-nhon-ga-ha-noi-12-000-dong-mot-luot-4778764.html) - 12:11 07/08/2024
-- 💫 [Bạc Liêu công bố sạt lở đê biển khẩn cấp](https://vnexpress.net/bac-lieu-cong-bo-sat-lo-de-bien-khan-cap-4778883.html) - 12:10 07/08/2024
-- 🤓 [Kỷ lục gia Olympic Đông Nam Á tố mẹ ăn chặn tiền thưởng](https://vnexpress.net/ky-luc-gia-olympic-dong-nam-a-to-me-an-chan-tien-thuong-4778854.html) - 12:10 07/08/2024<!-- vnexpress:END -->
+- 💂 [Rơi trực thăng ở Nepal, 5 người chết](https://vnexpress.net/roi-truc-thang-o-nepal-5-nguoi-chet-4778892.html) - 12:17 07/08/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
