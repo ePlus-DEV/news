@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hiện trạng biển Bãi Sau TP Vũng Tàu trước khi chỉnh trang](https://vnexpress.net/hien-trang-bien-bai-sau-tp-vung-tau-truoc-khi-chinh-trang-4778347.html) - 04:22 07/08/2024
+- 🦒 [Phà gây tai nạn trên sông Vàm Nao vi phạm do chở ôtô](https://vnexpress.net/pha-gay-tai-nan-tren-song-vam-nao-vi-pham-do-cho-oto-4778750.html) - 05:18 07/08/2024
 - 🤓 [Ôtô khách suýt lao xuống sông Lam](https://vnexpress.net/oto-khach-suyt-lao-xuong-song-lam-4778638.html) - 03:55 07/08/2024
 - ⚗️ [Ôtô tải gây tai nạn liên hoàn, ba người chết](https://vnexpress.net/ba-oto-tong-lien-hoan-hai-nguoi-chet-4778557.html) - 23:30 06/08/2024
 - 🌊 [Lý do kế hoạch cải tạo nhà trọ ở TP HCM nhiều lần &#39;phá sản&#39;](https://vnexpress.net/ly-do-ke-hoach-cai-tao-nha-tro-o-tp-hcm-nhieu-lan-pha-san-4778114.html) - 22:00 06/08/2024
