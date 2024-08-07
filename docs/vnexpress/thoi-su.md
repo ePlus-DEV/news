@@ -5,9 +5,9 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [5.400 m3 đất tràn xuống quốc lộ qua Lào Cai](https://vnexpress.net/5-400-m3-dat-tran-xuong-quoc-lo-qua-lao-cai-4778829.html) - 09:03 07/08/2024
-- 🤓 [68 bò sữa chết sau khi tiêm vaccine](https://vnexpress.net/bo-chet-o-lam-dong-4778827.html) - 08:58 07/08/2024
+- 🤓 [68 bò sữa chết bất thường, nghi do tiêm vaccine](https://vnexpress.net/bo-chet-o-lam-dong-4778827.html) - 08:58 07/08/2024
 - ⚗️ [Metro Nhổn - ga Hà Nội trước ngày vận hành thương mại đoạn trên cao](https://vnexpress.net/metro-nhon-ga-ha-noi-truoc-ngay-van-hanh-thuong-mai-doan-tren-cao-4778768.html) - 08:46 07/08/2024
-- 🌊 [Phà gây tai nạn trên sông Vàm Nao vi phạm do chở ôtô](https://vnexpress.net/pha-gay-tai-nan-tren-song-vam-nao-vi-pham-do-cho-oto-4778750.html) - 05:18 07/08/2024
+- 🌊 [Phà bị tàu hàng đâm không được phép chở ôtô](https://vnexpress.net/pha-bi-tau-hang-dam-khong-duoc-phep-cho-oto-4778750.html) - 05:18 07/08/2024
 - 🎓 [Ôtô khách suýt lao xuống sông Lam](https://vnexpress.net/oto-khach-suyt-lao-xuong-song-lam-4778638.html) - 03:55 07/08/2024
 - 🔥 [Ôtô tải gây tai nạn liên hoàn, ba người chết](https://vnexpress.net/ba-oto-tong-lien-hoan-hai-nguoi-chet-4778557.html) - 23:30 06/08/2024
 - 🦏 [Lý do kế hoạch cải tạo nhà trọ ở TP HCM nhiều lần &#39;phá sản&#39;](https://vnexpress.net/ly-do-ke-hoach-cai-tao-nha-tro-o-tp-hcm-nhieu-lan-pha-san-4778114.html) - 22:00 06/08/2024
