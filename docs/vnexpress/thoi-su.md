@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Ôtô tải gây tai nạn liên hoàn, ba người chết](https://vnexpress.net/ba-oto-tong-lien-hoan-hai-nguoi-chet-4778557.html) - 23:30 06/08/2024
-- 🤓 [Vì sao nhà trọ chật hẹp ở TP HCM tồn tại suốt hàng chục năm?](https://vnexpress.net/vi-sao-nha-tro-chat-hep-o-tp-hcm-ton-tai-suot-hang-chuc-nam-4778114.html) - 22:00 06/08/2024
+- 🤓 [Vì sao kế hoạch cải tạo nhà trọ ở TP HCM nhiều lần &#39;phá sản&#39;?](https://vnexpress.net/vi-sao-ke-hoach-cai-tao-nha-tro-o-tp-hcm-nhieu-lan-pha-san-4778114.html) - 22:00 06/08/2024
 - ⚗️ [Đề xuất mở rộng diện đóng bảo hiểm thất nghiệp](https://vnexpress.net/de-xuat-mo-rong-dien-dong-bao-hiem-that-nghiep-4778454.html) - 17:01 06/08/2024
 - 🌊 [Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu sớm kiện toàn chức danh lãnh đạo](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-yeu-cau-som-kien-toan-chuc-danh-lanh-dao-4778518.html) - 15:00 06/08/2024
 - 🎓 [Nhà dân, xưởng gỗ thiệt hại sau xả lũ thủy điện Thác Bà](https://vnexpress.net/nha-dan-xuong-go-thiet-hai-sau-xa-lu-thuy-dien-thac-ba-4778464.html) - 12:39 06/08/2024
