@@ -5,10 +5,10 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Ôtô tải gây tai nạn liên hoàn, ba người chết](https://vnexpress.net/ba-oto-tong-lien-hoan-hai-nguoi-chet-4778557.html) - 23:30 06/08/2024
-- 🤓 [20 năm TP HCM loay hoay cải tạo nhà trọ cho lao động](https://vnexpress.net/20-nam-tp-hcm-loay-hoay-cai-tao-nha-tro-cho-lao-dong-4778114.html) - 22:00 06/08/2024
+- 🤓 [Vì sao nhà trọ chật hẹp ở TP HCM tồn tại suốt hàng chục năm?](https://vnexpress.net/vi-sao-nha-tro-chat-hep-o-tp-hcm-ton-tai-suot-hang-chuc-nam-4778114.html) - 22:00 06/08/2024
 - ⚗️ [Đề xuất mở rộng diện đóng bảo hiểm thất nghiệp](https://vnexpress.net/de-xuat-mo-rong-dien-dong-bao-hiem-that-nghiep-4778454.html) - 17:01 06/08/2024
 - 🌊 [Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu sớm kiện toàn chức danh lãnh đạo](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-yeu-cau-som-kien-toan-chuc-danh-lanh-dao-4778518.html) - 15:00 06/08/2024
-- 🎓 [Nhà dân, xưởng gỗ thiệt hại do xả lũ thủy điện Thác Bà](https://vnexpress.net/nha-dan-xuong-go-thiet-hai-do-xa-lu-thuy-dien-thac-ba-4778464.html) - 12:39 06/08/2024
+- 🎓 [Nhà dân, xưởng gỗ thiệt hại sau xả lũ thủy điện Thác Bà](https://vnexpress.net/nha-dan-xuong-go-thiet-hai-sau-xa-lu-thuy-dien-thac-ba-4778464.html) - 12:39 06/08/2024
 - 🔥 [Thường vụ Quốc hội chuẩn bị chất vấn 10 bộ trưởng, trưởng ngành](https://vnexpress.net/thuong-vu-quoc-hoi-chuan-bi-chat-van-10-bo-truong-truong-nganh-4778508.html) - 12:05 06/08/2024
 - 🦏 [Vận hành thương mại đoạn trên cao metro Nhổn - ga Hà Nội từ ngày 8/8](https://vnexpress.net/van-hanh-thuong-mai-doan-tren-cao-metro-nhon-ga-ha-noi-tu-ngay-8-8-4778499.html) - 11:35 06/08/2024
 - 👺 [Đà Nẵng rà soát vị trí xây dựng khu thương mại tự do](https://vnexpress.net/da-nang-ra-soat-vi-tri-xay-dung-khu-thuong-mai-tu-do-4778500.html) - 11:23 06/08/2024
