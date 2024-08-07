@@ -250,8 +250,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Đưa hàng khuyến mãi đến tận tay người mua](https://nld.com.vn/dua-hang-khuyen-mai-den-tan-tay-nguoi-mua-196240807201926407.htm) - 23:15 07/08/2024
-- 😺 [Nỗi lo suy thoái đè nặng lên FED](https://nld.com.vn/noi-lo-suy-thoai-de-nang-len-fed-196240807203143678.htm) - 23:14 07/08/2024
+- 🐎 [Thời tiết ở TP HCM và Nam Bộ hôm nay](https://nld.com.vn/thoi-tiet-o-tp-hcm-va-nam-bo-hom-nay-196240808061429872.htm) - 23:22 07/08/2024
+- 😺 [Đưa hàng khuyến mãi đến tận tay người mua](https://nld.com.vn/dua-hang-khuyen-mai-den-tan-tay-nguoi-mua-196240807201926407.htm) - 23:15 07/08/2024
 - 👍 [NÂNG BƯỚC NGƯỜI LAO ĐỘNG: Làm giàu trên vùng đất mới](https://nld.com.vn/nang-buoc-nguoi-lao-dong-lam-giau-tren-vung-dat-moi-196240807195208866.htm) - 23:13 07/08/2024
 - 🥷 [Bệnh viện Chợ Rẫy vẫn còn quá tải bệnh nhân](https://nld.com.vn/benh-vien-cho-ray-van-con-qua-tai-benh-nhan-196240807195915415.htm) - 23:11 07/08/2024
 - 🤔 [Giải Golf &quot;Tôi yêu Việt Nam&quot;: Giải thưởng lớn, giá trị sẻ chia](https://nld.com.vn/giai-golf-toi-yeu-viet-nam-giai-thuong-lon-gia-tri-se-chia-196240807201403133.htm) - 23:00 07/08/2024
