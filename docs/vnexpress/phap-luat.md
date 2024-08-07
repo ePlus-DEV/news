@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Đường dây đánh bạc tại CLB Doanh nghiệp Việt Kiều bị triệt phá](https://vnexpress.net/duong-day-danh-bac-tai-clb-doanh-nghiep-viet-kieu-bi-triet-pha-4778903.html) - 12:03 07/08/2024
+- 😎 [17 người bị bắt vì đánh bạc tại Câu lạc bộ Doanh nghiệp Việt kiều](https://vnexpress.net/17-nguoi-bi-bat-vi-danh-bac-tai-cau-lac-bo-doanh-nghiep-viet-kieu-4778903.html) - 12:03 07/08/2024
 - 🥰 [Bốn y bác sĩ bị khởi tố với cáo buộc trục lợi bảo hiểm](https://vnexpress.net/bon-y-bac-si-bi-khoi-to-voi-cao-buoc-truc-loi-bao-hiem-4778894.html) - 11:38 07/08/2024
 - 🎓 [Giám đốc Văn phòng công chứng ở Cà Mau bị bắt](https://vnexpress.net/giam-doc-van-phong-cong-chung-o-ca-mau-bi-bat-4778896.html) - 11:28 07/08/2024
 - 🤓 [Công ty Luật Pháp Việt &#39;lách luật&#39; đòi nợ thuê cho ngân hàng như thế nào](https://vnexpress.net/cong-ty-luat-phap-viet-lach-luat-doi-no-thue-cho-ngan-hang-nhu-the-nao-4778685.html) - 09:36 07/08/2024
