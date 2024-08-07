@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cháy lớn công ty may mặc ở Đồng Nai](https://vnexpress.net/chay-lon-cong-ty-may-mac-o-dong-nai-4778931.html) - 15:29 07/08/2024
+- 🦒 [Cháy lớn công ty sản xuất đồ gỗ, may mặc ở Đồng Nai](https://vnexpress.net/chay-lon-cong-ty-san-xuat-do-go-may-mac-o-dong-nai-4778931.html) - 15:29 07/08/2024
 - 🤓 [Hoàn thành tu bổ di tích Trường dạy làm báo Huỳnh Thúc Kháng](https://vnexpress.net/hoan-thanh-tu-bo-di-tich-truong-day-lam-bao-huynh-thuc-khang-4778714.html) - 12:20 07/08/2024
 - ⚗️ [Vé metro Nhổn - ga Hà Nội 12.000 đồng một lượt](https://vnexpress.net/ve-metro-nhon-ga-ha-noi-12-000-dong-mot-luot-4778764.html) - 12:11 07/08/2024
 - 🌊 [Bạc Liêu công bố sạt lở đê biển khẩn cấp](https://vnexpress.net/bac-lieu-cong-bo-sat-lo-de-bien-khan-cap-4778883.html) - 12:10 07/08/2024
