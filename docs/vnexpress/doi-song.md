@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Vì sao nhân sự Gen Z dễ nghỉ việc?](https://vnexpress.net/vi-sao-nhan-su-gen-z-de-nghi-viec-4778549.html) - 23:30 06/08/2024
+- 🚀 [Vì sao nhân viên Gen Z dễ nghỉ việc?](https://vnexpress.net/vi-sao-nhan-vien-gen-z-de-nghi-viec-4778549.html) - 23:30 06/08/2024
 - 🎓 [Khu vườn thuần Việt tặng vợ của người chồng Mỹ](https://vnexpress.net/khu-vuon-thuan-viet-tang-vo-cua-nguoi-chong-my-4778217.html) - 23:00 06/08/2024
 - 🚦 [Phẫu thuật thẩm mỹ, giảm cân để tìm việc](https://vnexpress.net/phau-thuat-tham-my-giam-can-de-tim-viec-4778486.html) - 12:00 06/08/2024
 - 🦣 [Cá nục &#39;kho nhét đầu&#39; kiểu Bình Thuận](https://vnexpress.net/ca-nuc-kho-nhet-dau-kieu-binh-thuan-4778409.html) - 10:30 06/08/2024
