@@ -148,7 +148,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Hành trình đuối sức của thể thao Việt Nam ở Olympic Paris 2024](https://thanhnien.vn/hanh-trinh-duoi-suc-cua-the-thao-viet-nam-o-olympic-paris-2024-185240807233208407.htm) - 18:00 07/08/2024
+- 🤠 [Hành trình đuối sức của thể thao Việt Nam tại Olympic Paris 2024](https://thanhnien.vn/hanh-trinh-duoi-suc-cua-the-thao-viet-nam-o-olympic-paris-2024-185240807233208407.htm) - 18:00 07/08/2024
 - 🥸 [Ngày mới với tin tức sức khỏe: Vào toilet một lúc mới tiểu được, cảnh báo bệnh gì?](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-vao-toilet-mot-luc-moi-tieu-duoc-canh-bao-benh-gi-185240804184139352.htm) - 17:11 07/08/2024
 - 🌁 [Ung thư tuyến tiền liệt có thể âm thầm phát triển trong bao lâu?](https://thanhnien.vn/ung-thu-tuyen-tien-liet-co-the-am-tham-phat-trien-trong-bao-lau-18524080520274641.htm) - 17:10 07/08/2024
 - 🤡 [3 món ăn vặt cực tốt cho người bị viêm khớp](https://thanhnien.vn/3-mon-an-vat-cuc-tot-cho-nguoi-bi-viem-khop-185240806121724166.htm) - 17:07 07/08/2024
