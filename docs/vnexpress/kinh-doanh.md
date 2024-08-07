@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Vinhomes muốn mua lại tối đa 370 triệu cổ phiếu](https://vnexpress.net/vinhomes-muon-mua-lai-toi-da-370-trieu-co-phieu-4778671.html) - 03:48 07/08/2024
+- ⛽️ [Cổ phiếu Vinhomes tăng trần](https://vnexpress.net/co-phieu-vinhomes-tang-tran-4778671.html) - 03:48 07/08/2024
 - 🐲 [Kinh doanh đồ chơi nghệ thuật Labubu thu tiền tỷ](https://vnexpress.net/trao-luu-kinh-doanh-do-choi-nghe-thuat-labubu-thu-tien-ty-4778365.html) - 22:00 06/08/2024
 - 🔥 [Dấu hiệu rạn nứt trong kinh tế Mỹ đe dọa khả năng đắc cử của bà Harris](https://vnexpress.net/dau-hieu-ran-nut-trong-kinh-te-my-de-doa-kha-nang-dac-cu-cua-ba-harris-4778422.html) - 17:00 06/08/2024
 - 🐵 [Đề xuất thành lập Hội đồng lúa gạo quốc gia](https://vnexpress.net/de-xuat-thanh-lap-hoi-dong-lua-gao-quoc-gia-4778535.html) - 14:26 06/08/2024
