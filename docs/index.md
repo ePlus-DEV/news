@@ -250,7 +250,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Đang cháy lớn tại Khu Công nghiệp Bàu Xéo ở Đồng Nai](https://nld.com.vn/dang-chay-lon-tai-khu-cong-nghiep-bau-xeo-o-dong-nai-196240807220329703.htm) - 15:09 07/08/2024
+- 🐎 [Cháy lớn tại Khu Công nghiệp Bàu Xéo ở Đồng Nai: Xe chữa cháy được huy động tối đa](https://nld.com.vn/chay-lon-tai-khu-cong-nghiep-bau-xeo-o-dong-nai-xe-chua-chay-duoc-huy-dong-toi-da-196240807220329703.htm) - 15:09 07/08/2024
 - 😺 [Olympic Paris ngày 7-8: Trịnh Văn Vinh rớt tạ, thể thao Việt Nam cạn hy vọng](https://nld.com.vn/olympic-paris-ngay-7-8-trinh-van-vinh-rot-ta-the-thao-viet-nam-can-hy-vong-196240807220042352.htm) - 15:01 07/08/2024
 - 👍 [Hành trình triệt phá tổ chức lừa đảo quốc tế ở Tam Giác Vàng, bắt 155 người](https://nld.com.vn/hanh-trinh-triet-pha-to-chuc-lua-dao-quoc-te-o-tam-giac-vang-bat-155-nguoi-196240807202110095.htm) - 13:52 07/08/2024
 - 🥷 [CLIP: Tài xế và tiếp viên xe buýt đánh nhau với tài xế xe công nghệ](https://nld.com.vn/clip-tai-xe-va-tiep-vien-xe-buyt-danh-nhau-voi-tai-xe-xe-cong-nghe-196240807192057541.htm) - 13:32 07/08/2024
