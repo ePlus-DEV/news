@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Trịnh Văn Vinh thi đấu cử tạ Olympic Paris 2024](https://vnexpress.net/trinh-van-vinh-thi-dau-cu-ta-olympic-paris-2024-4778908.html) - 12:34 07/08/2024
+- 🪜 [Trịnh Văn Vinh vào sàn đấu cử tạ Olympic Paris 2024](https://vnexpress.net/trinh-van-vinh-vao-san-dau-cu-ta-olympic-paris-2024-4778908.html) - 12:34 07/08/2024
 - 🦩 [Biệt thự của Messi bị phá hoại](https://vnexpress.net/biet-thu-cua-messi-bi-pha-hoai-4778817.html) - 12:12 07/08/2024
 - 🧰 [Kỷ lục gia Olympic Đông Nam Á tố mẹ ăn chặn tiền thưởng](https://vnexpress.net/ky-luc-gia-olympic-dong-nam-a-to-me-an-chan-tien-thuong-4778854.html) - 12:10 07/08/2024
 - 🤗 [Chế độ ‘yếu nhân’ cho đội golf Mỹ ở Olympic 2024](https://vnexpress.net/che-do-yeu-nhan-cho-doi-golf-my-o-olympic-2024-4778841.html) - 08:48 07/08/2024
