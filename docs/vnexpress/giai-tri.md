@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Tiến Đạt: &#39;Tôi không còn sợ bị lỗi thời&#39;](https://vnexpress.net/tien-dat-toi-khong-con-so-bi-loi-thoi-4779060.html) - 17:33 08/08/2024
+- 🌏 [Rapper Tiến Đạt: &#39;Tôi không còn sợ bị lỗi thời&#39;](https://vnexpress.net/rapper-tien-dat-toi-khong-con-so-bi-loi-thoi-4779060.html) - 17:33 08/08/2024
 - 💫 [Vẻ đẹp &#39;tỏa nắng&#39; của tay đua tốt nghiệp Harvard](https://vnexpress.net/ve-dep-toa-nang-cua-tay-dua-tot-nghiep-harvard-4779044.html) - 14:00 08/08/2024
 - 🌮 [&#39;Titanic in Colour&#39; - thước phim màu về con tàu huyền thoại](https://vnexpress.net/titanic-in-colour-thuoc-phim-mau-ve-con-tau-huyen-thoai-4777844.html) - 12:30 08/08/2024
 - 🧠 [Fan nói &#39;nhẹ nhõm&#39; khi concert Taylor Swift bị hủy](https://vnexpress.net/fan-noi-nhe-nhom-khi-concert-taylor-swift-bi-huy-4779233.html) - 11:22 08/08/2024
