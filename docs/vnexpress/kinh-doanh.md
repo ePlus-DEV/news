@@ -19,48 +19,48 @@ sidebar_position: 3
 - 🦩 [Vietcombank giới thiệu công nghệ trình chiếu dưới mái vòm](https://vnexpress.net/vietcombank-gioi-thieu-cong-nghe-trinh-chieu-duoi-mai-vom-4778982.html) - 01:30 08/08/2024
 - 👍 [Vingroup ra mắt chương trình khách hàng thân thiết độc quyền](https://vnexpress.net/vingroup-ra-mat-chuong-trinh-khach-hang-than-thiet-doc-quyen-4778916.html) - 01:08 08/08/2024
 - 🏊 [Giá mua điện mặt trời mái nhà tự dùng có thể cao hơn 671 đồng một kWh](https://vnexpress.net/gia-mua-dien-mat-troi-mai-nha-tu-dung-co-the-cao-hon-671-dong-mot-kwh-4778934.html) - 17:39 07/08/2024
-- 🤡 [Loạt đại gia tiêu dùng Mỹ gặp khó tại Trung Quốc](https://vnexpress.net/loat-dai-gia-tieu-dung-my-gap-kho-tai-trung-quoc-4778631.html) - 17:00 07/08/2024
-- 👀 [VinaCapital: Nên tận dụng thời cơ mua những cổ phiếu tốt](https://vnexpress.net/vinacapital-nen-tan-dung-thoi-co-mua-nhung-co-phieu-tot-4778706.html) - 14:00 07/08/2024
-- 😺 [Trung Quốc không mua vàng dự trữ suốt 3 tháng](https://vnexpress.net/trung-quoc-khong-mua-vang-du-tru-suot-3-thang-4778873.html) - 13:37 07/08/2024
-- 🦣 [Hệ thống hải quan điện tử gián đoạn 16 giờ](https://vnexpress.net/he-thong-hai-quan-dien-tu-gian-doan-16-gio-4778881.html) - 10:47 07/08/2024
-- 😺 [Cổ phiếu nhóm Vingroup đỡ thị trường](https://vnexpress.net/co-phieu-nhom-vingroup-do-thi-truong-4778846.html) - 09:07 07/08/2024
-- 💼 [Nhật Bản sẽ không nâng lãi suất khi thị trường bất ổn](https://vnexpress.net/nhat-ban-se-khong-nang-lai-suat-khi-thi-truong-bat-on-4778781.html) - 08:59 07/08/2024
-- 🤗 [18 cổ đông nắm hơn 70% vốn VIB](https://vnexpress.net/18-co-dong-nam-hon-70-von-vib-4778672.html) - 07:55 07/08/2024
-- 👀 [Bộ Công Thương kiểm tra 14 doanh nghiệp xăng dầu](https://vnexpress.net/bo-cong-thuong-kiem-tra-14-doanh-nghiep-xang-dau-4778761.html) - 07:41 07/08/2024
-- 🎓 [Cổ phiếu Vinhomes tăng trần](https://vnexpress.net/co-phieu-vinhomes-tang-tran-4778671.html) - 03:48 07/08/2024
-- 🗽 [Kinh doanh đồ chơi nghệ thuật Labubu thu tiền tỷ](https://vnexpress.net/trao-luu-kinh-doanh-do-choi-nghe-thuat-labubu-thu-tien-ty-4778365.html) - 22:00 06/08/2024
-- 🚀 [Dấu hiệu rạn nứt trong kinh tế Mỹ đe dọa khả năng đắc cử của bà Harris](https://vnexpress.net/dau-hieu-ran-nut-trong-kinh-te-my-de-doa-kha-nang-dac-cu-cua-ba-harris-4778422.html) - 17:00 06/08/2024
-- 🤗 [Đề xuất thành lập Hội đồng lúa gạo quốc gia](https://vnexpress.net/de-xuat-thanh-lap-hoi-dong-lua-gao-quoc-gia-4778535.html) - 14:26 06/08/2024
-- 🌜 [Bộ trưởng Tài chính: Thanh khoản chứng khoán Việt Nam ngang Singapore](https://vnexpress.net/bo-truong-tai-chinh-thanh-khoan-chung-khoan-viet-nam-ngang-singapore-4778519.html) - 12:58 06/08/2024
-- 👍 [Một khách hàng trúng Jackpot hơn 228 tỷ đồng](https://vnexpress.net/mot-khach-hang-trung-jackpot-hon-228-ty-dong-4778520.html) - 12:37 06/08/2024
-- 🤖 [AmCham Việt Nam tại TP HCM có CEO mới](https://vnexpress.net/amcham-viet-nam-tai-tp-hcm-co-ceo-moi-4778493.html) - 11:16 06/08/2024
-- 🫣 [Nghiên cứu ưu đãi đất, thuế cho nhà đầu tư trạm sạc xe điện](https://vnexpress.net/nghien-cuu-uu-dai-dat-thue-cho-nha-dau-tu-tram-sac-xe-dien-4778400.html) - 08:43 06/08/2024
-- 🌏 [Heineken Việt Nam bổ nhiệm tổng giám đốc điều hành mới](https://vnexpress.net/heineken-viet-nam-bo-nhiem-tong-giam-doc-dieu-hanh-moi-4778393.html) - 08:00 06/08/2024
-- ⚗️ [Chứng khoán trở lại mốc 1.200 điểm](https://vnexpress.net/chung-khoan-hom-nay-vn-index-tro-lai-moc-1-200-diem-4778367.html) - 07:18 06/08/2024
-- 🕯 [Triển lãm quốc tế ngành thực phẩm và đồ uống sắp diễn ra](https://vnexpress.net/trien-lam-quoc-te-nganh-thuc-pham-va-do-uong-sap-dien-ra-4777167.html) - 07:00 06/08/2024
-- 👍 [TP HCM lần đầu bán hàng lưu động quy mô lớn](https://vnexpress.net/tp-hcm-lan-dau-ban-hang-luu-dong-quy-mo-lon-4778339.html) - 06:46 06/08/2024
-- 🤠 [Chứng khoán châu Á phục hồi sau phiên bán tháo](https://vnexpress.net/chung-khoan-chau-a-phuc-hoi-sau-phien-ban-thao-4778230.html) - 03:30 06/08/2024
-- 🌊 [Cuộc đối đầu dầu đá phiến của Trump và Harris](https://vnexpress.net/cuoc-doi-dau-dau-da-phien-cua-trump-va-harris-4777913.html) - 03:07 06/08/2024
-- 🌈 [Vàng miếng SJC giảm gần một triệu đồng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-6-8-4778187.html) - 02:25 06/08/2024
-- 🥳 [OneHousing thưởng VinFast VF 6 cho môi giới &#39;triệu USD&#39;](https://vnexpress.net/onehousing-thuong-vinfast-vf-6-cho-moi-gioi-trieu-usd-4777743.html) - 02:00 06/08/2024
-- 🐻 [Chứng khoán Mỹ giảm mạnh nhất 2 năm](https://vnexpress.net/chung-khoan-my-giam-manh-nhat-2-nam-4778136.html) - 01:01 06/08/2024
-- 💫 [Hàn Quốc tăng nhập khẩu cá ngừ Việt Nam](https://vnexpress.net/han-quoc-tang-nhap-khau-ca-ngu-viet-nam-4777970.html) - 21:08 05/08/2024
-- 🤩 [Vì sao chứng khoán bị bán tháo phiên đầu tuần?](https://vnexpress.net/vi-sao-chung-khoan-bi-ban-thao-phien-dau-tuan-4778097.html) - 21:00 05/08/2024
-- 💻 [Lãi suất cho vay giảm gần 1% từ đầu năm](https://vnexpress.net/lai-suat-cho-vay-giam-gan-1-tu-dau-nam-4778091.html) - 15:09 05/08/2024
-- ⚗️ [Vàng thế giới bị bán tháo](https://vnexpress.net/vang-the-gioi-bi-ban-thao-4778086.html) - 13:25 05/08/2024
-- 🌈 [Lãi vay cho người mua nhà ở xã hội có thể giảm 3-5%](https://vnexpress.net/lai-vay-cho-nguoi-mua-nha-o-xa-hoi-co-the-giam-3-5-4778081.html) - 13:19 05/08/2024
-- 🌝 [Sản xuất phục hồi ở hầu hết địa phương](https://vnexpress.net/san-xuat-phuc-hoi-o-hau-het-dia-phuong-4778067.html) - 11:29 05/08/2024
-- 🥸 [Costa Rica công nhận Việt Nam là nền kinh tế thị trường](https://vnexpress.net/costa-rica-cong-nhan-viet-nam-la-nen-kinh-te-thi-truong-4778018.html) - 10:04 05/08/2024
-- 🦆 [Giá yen lên cao nhất 7 tháng](https://vnexpress.net/gia-yen-len-cao-nhat-7-thang-4777950.html) - 08:41 05/08/2024
-- 🌋 [Công ty xe điện của Evergrande tiến hành phá sản](https://vnexpress.net/cong-ty-xe-dien-cua-evergrande-tien-hanh-pha-san-4777898.html) - 08:34 05/08/2024
-- 🦍 [Thị trường tài chính toàn cầu chao đảo](https://vnexpress.net/thi-truong-tai-chinh-toan-cau-chao-dao-4777937.html) - 07:55 05/08/2024
-- 🤔 [Bitcoin thủng mốc 50.000 USD](https://vnexpress.net/bitcoin-thung-moc-50-000-usd-4777925.html) - 07:20 05/08/2024
-- 🧰 [Thủ tướng yêu cầu tăng trưởng mạnh hơn trong năm 2024](https://vnexpress.net/thu-tuong-yeu-cau-tang-truong-manh-hon-trong-nam-2024-4777785.html) - 07:14 05/08/2024
-- 🌝 [Elon Musk chỉ trích Fed vì &#39;vẫn chưa giảm lãi suất&#39;](https://vnexpress.net/elon-musk-chi-trich-fed-vi-van-chua-giam-lai-suat-4777761.html) - 04:58 05/08/2024
-- 👍 [Ông Vũ Tiến Lộc qua đời](https://vnexpress.net/ong-vu-tien-loc-qua-doi-4777829.html) - 04:07 05/08/2024
-- 🗽 [Ngân hàng Nhà nước cho phép Gelex mua cổ phần Eximbank](https://vnexpress.net/ngan-hang-nha-nuoc-cho-phep-gelex-mua-co-phan-eximbank-4777818.html) - 03:45 05/08/2024
-- 🐎 [LPBank bổ nhiệm cố vấn cấp cao ban điều hành](https://vnexpress.net/lpbank-bo-nhiem-co-van-cap-cao-ban-dieu-hanh-4777807.html) - 03:30 05/08/2024
-- 🪄 [Chứng khoán thủng mốc 1.200 điểm](https://vnexpress.net/chung-khoan-giam-sau-4777796.html) - 03:20 05/08/2024
-- 🎊 [Dấu ấn phát triển bền vững tại Masan](https://vnexpress.net/dau-an-phat-trien-ben-vung-tai-masan-4777742.html) - 02:30 05/08/2024
-- 🗽 [Hành trình VIB chạm mốc 750.000 thẻ](https://vnexpress.net/hanh-trinh-vib-cham-moc-750-000-the-4777325.html) - 01:00 05/08/2024
+- 🤡 [Đạm Hà Bắc lỗ gần trăm tỷ đồng trong nửa đầu năm](https://vnexpress.net/dam-ha-bac-lo-gan-tram-ty-dong-trong-nua-dau-nam-4779363.html) - 17:05 07/08/2024
+- 👀 [Loạt đại gia tiêu dùng Mỹ gặp khó tại Trung Quốc](https://vnexpress.net/loat-dai-gia-tieu-dung-my-gap-kho-tai-trung-quoc-4778631.html) - 17:00 07/08/2024
+- 😺 [VinaCapital: Nên tận dụng thời cơ mua những cổ phiếu tốt](https://vnexpress.net/vinacapital-nen-tan-dung-thoi-co-mua-nhung-co-phieu-tot-4778706.html) - 14:00 07/08/2024
+- 🦣 [Trung Quốc không mua vàng dự trữ suốt 3 tháng](https://vnexpress.net/trung-quoc-khong-mua-vang-du-tru-suot-3-thang-4778873.html) - 13:37 07/08/2024
+- 😺 [Hệ thống hải quan điện tử gián đoạn 16 giờ](https://vnexpress.net/he-thong-hai-quan-dien-tu-gian-doan-16-gio-4778881.html) - 10:47 07/08/2024
+- 💼 [Cổ phiếu nhóm Vingroup đỡ thị trường](https://vnexpress.net/co-phieu-nhom-vingroup-do-thi-truong-4778846.html) - 09:07 07/08/2024
+- 🤗 [Nhật Bản sẽ không nâng lãi suất khi thị trường bất ổn](https://vnexpress.net/nhat-ban-se-khong-nang-lai-suat-khi-thi-truong-bat-on-4778781.html) - 08:59 07/08/2024
+- 👀 [18 cổ đông nắm hơn 70% vốn VIB](https://vnexpress.net/18-co-dong-nam-hon-70-von-vib-4778672.html) - 07:55 07/08/2024
+- 🎓 [Bộ Công Thương kiểm tra 14 doanh nghiệp xăng dầu](https://vnexpress.net/bo-cong-thuong-kiem-tra-14-doanh-nghiep-xang-dau-4778761.html) - 07:41 07/08/2024
+- 🗽 [Cổ phiếu Vinhomes tăng trần](https://vnexpress.net/co-phieu-vinhomes-tang-tran-4778671.html) - 03:48 07/08/2024
+- 🚀 [Kinh doanh đồ chơi nghệ thuật Labubu thu tiền tỷ](https://vnexpress.net/trao-luu-kinh-doanh-do-choi-nghe-thuat-labubu-thu-tien-ty-4778365.html) - 22:00 06/08/2024
+- 🤗 [Dấu hiệu rạn nứt trong kinh tế Mỹ đe dọa khả năng đắc cử của bà Harris](https://vnexpress.net/dau-hieu-ran-nut-trong-kinh-te-my-de-doa-kha-nang-dac-cu-cua-ba-harris-4778422.html) - 17:00 06/08/2024
+- 🌜 [Đề xuất thành lập Hội đồng lúa gạo quốc gia](https://vnexpress.net/de-xuat-thanh-lap-hoi-dong-lua-gao-quoc-gia-4778535.html) - 14:26 06/08/2024
+- 👍 [Bộ trưởng Tài chính: Thanh khoản chứng khoán Việt Nam ngang Singapore](https://vnexpress.net/bo-truong-tai-chinh-thanh-khoan-chung-khoan-viet-nam-ngang-singapore-4778519.html) - 12:58 06/08/2024
+- 🤖 [Một khách hàng trúng Jackpot hơn 228 tỷ đồng](https://vnexpress.net/mot-khach-hang-trung-jackpot-hon-228-ty-dong-4778520.html) - 12:37 06/08/2024
+- 🫣 [AmCham Việt Nam tại TP HCM có CEO mới](https://vnexpress.net/amcham-viet-nam-tai-tp-hcm-co-ceo-moi-4778493.html) - 11:16 06/08/2024
+- 🌏 [Nghiên cứu ưu đãi đất, thuế cho nhà đầu tư trạm sạc xe điện](https://vnexpress.net/nghien-cuu-uu-dai-dat-thue-cho-nha-dau-tu-tram-sac-xe-dien-4778400.html) - 08:43 06/08/2024
+- ⚗️ [Heineken Việt Nam bổ nhiệm tổng giám đốc điều hành mới](https://vnexpress.net/heineken-viet-nam-bo-nhiem-tong-giam-doc-dieu-hanh-moi-4778393.html) - 08:00 06/08/2024
+- 🕯 [Chứng khoán trở lại mốc 1.200 điểm](https://vnexpress.net/chung-khoan-hom-nay-vn-index-tro-lai-moc-1-200-diem-4778367.html) - 07:18 06/08/2024
+- 👍 [Triển lãm quốc tế ngành thực phẩm và đồ uống sắp diễn ra](https://vnexpress.net/trien-lam-quoc-te-nganh-thuc-pham-va-do-uong-sap-dien-ra-4777167.html) - 07:00 06/08/2024
+- 🤠 [TP HCM lần đầu bán hàng lưu động quy mô lớn](https://vnexpress.net/tp-hcm-lan-dau-ban-hang-luu-dong-quy-mo-lon-4778339.html) - 06:46 06/08/2024
+- 🌊 [Chứng khoán châu Á phục hồi sau phiên bán tháo](https://vnexpress.net/chung-khoan-chau-a-phuc-hoi-sau-phien-ban-thao-4778230.html) - 03:30 06/08/2024
+- 🌈 [Cuộc đối đầu dầu đá phiến của Trump và Harris](https://vnexpress.net/cuoc-doi-dau-dau-da-phien-cua-trump-va-harris-4777913.html) - 03:07 06/08/2024
+- 🥳 [Vàng miếng SJC giảm gần một triệu đồng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-6-8-4778187.html) - 02:25 06/08/2024
+- 🐻 [OneHousing thưởng VinFast VF 6 cho môi giới &#39;triệu USD&#39;](https://vnexpress.net/onehousing-thuong-vinfast-vf-6-cho-moi-gioi-trieu-usd-4777743.html) - 02:00 06/08/2024
+- 💫 [Chứng khoán Mỹ giảm mạnh nhất 2 năm](https://vnexpress.net/chung-khoan-my-giam-manh-nhat-2-nam-4778136.html) - 01:01 06/08/2024
+- 🤩 [Hàn Quốc tăng nhập khẩu cá ngừ Việt Nam](https://vnexpress.net/han-quoc-tang-nhap-khau-ca-ngu-viet-nam-4777970.html) - 21:08 05/08/2024
+- 💻 [Vì sao chứng khoán bị bán tháo phiên đầu tuần?](https://vnexpress.net/vi-sao-chung-khoan-bi-ban-thao-phien-dau-tuan-4778097.html) - 21:00 05/08/2024
+- ⚗️ [Lãi suất cho vay giảm gần 1% từ đầu năm](https://vnexpress.net/lai-suat-cho-vay-giam-gan-1-tu-dau-nam-4778091.html) - 15:09 05/08/2024
+- 🌈 [Vàng thế giới bị bán tháo](https://vnexpress.net/vang-the-gioi-bi-ban-thao-4778086.html) - 13:25 05/08/2024
+- 🌝 [Lãi vay cho người mua nhà ở xã hội có thể giảm 3-5%](https://vnexpress.net/lai-vay-cho-nguoi-mua-nha-o-xa-hoi-co-the-giam-3-5-4778081.html) - 13:19 05/08/2024
+- 🥸 [Sản xuất phục hồi ở hầu hết địa phương](https://vnexpress.net/san-xuat-phuc-hoi-o-hau-het-dia-phuong-4778067.html) - 11:29 05/08/2024
+- 🦆 [Costa Rica công nhận Việt Nam là nền kinh tế thị trường](https://vnexpress.net/costa-rica-cong-nhan-viet-nam-la-nen-kinh-te-thi-truong-4778018.html) - 10:04 05/08/2024
+- 🌋 [Giá yen lên cao nhất 7 tháng](https://vnexpress.net/gia-yen-len-cao-nhat-7-thang-4777950.html) - 08:41 05/08/2024
+- 🦍 [Công ty xe điện của Evergrande tiến hành phá sản](https://vnexpress.net/cong-ty-xe-dien-cua-evergrande-tien-hanh-pha-san-4777898.html) - 08:34 05/08/2024
+- 🤔 [Thị trường tài chính toàn cầu chao đảo](https://vnexpress.net/thi-truong-tai-chinh-toan-cau-chao-dao-4777937.html) - 07:55 05/08/2024
+- 🧰 [Bitcoin thủng mốc 50.000 USD](https://vnexpress.net/bitcoin-thung-moc-50-000-usd-4777925.html) - 07:20 05/08/2024
+- 🌝 [Thủ tướng yêu cầu tăng trưởng mạnh hơn trong năm 2024](https://vnexpress.net/thu-tuong-yeu-cau-tang-truong-manh-hon-trong-nam-2024-4777785.html) - 07:14 05/08/2024
+- 👍 [Elon Musk chỉ trích Fed vì &#39;vẫn chưa giảm lãi suất&#39;](https://vnexpress.net/elon-musk-chi-trich-fed-vi-van-chua-giam-lai-suat-4777761.html) - 04:58 05/08/2024
+- 🗽 [Ông Vũ Tiến Lộc qua đời](https://vnexpress.net/ong-vu-tien-loc-qua-doi-4777829.html) - 04:07 05/08/2024
+- 🐎 [Ngân hàng Nhà nước cho phép Gelex mua cổ phần Eximbank](https://vnexpress.net/ngan-hang-nha-nuoc-cho-phep-gelex-mua-co-phan-eximbank-4777818.html) - 03:45 05/08/2024
+- 🪄 [LPBank bổ nhiệm cố vấn cấp cao ban điều hành](https://vnexpress.net/lpbank-bo-nhiem-co-van-cap-cao-ban-dieu-hanh-4777807.html) - 03:30 05/08/2024
+- 🎊 [Chứng khoán thủng mốc 1.200 điểm](https://vnexpress.net/chung-khoan-giam-sau-4777796.html) - 03:20 05/08/2024
+- 🗽 [Dấu ấn phát triển bền vững tại Masan](https://vnexpress.net/dau-an-phat-trien-ben-vung-tai-masan-4777742.html) - 02:30 05/08/2024
 - 🦩 [Giá vàng được dự báo tăng mạnh tuần này](https://vnexpress.net/gia-vang-duoc-du-bao-tang-manh-tuan-nay-4777690.html) - 22:15 04/08/2024<!-- vnexpress-kinh-doanh:END -->
