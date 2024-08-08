@@ -11,56 +11,56 @@ sidebar_position: 6
 - 🎓 [Bỗng dưng nổi tiếng vì ngủ gật trong khi bán hàng](https://vnexpress.net/bong-dung-noi-tieng-vi-ngu-gat-trong-khi-ban-hang-4775895.html) - 03:00 08/08/2024
 - 🎭 [Người trẻ hoãn yêu đương vì bận kiếm tiền](https://vnexpress.net/nguoi-tre-hoan-yeu-duong-vi-ban-kiem-tien-4778922.html) - 23:29 07/08/2024
 - 🦅 [Người độc thân Mỹ chạy bộ tìm bạn đời](https://vnexpress.net/nguoi-doc-than-my-chay-bo-tim-ban-doi-4778927.html) - 23:00 07/08/2024
-- 🎃 [8 cách bảo quản trứng không cần tủ lạnh](https://vnexpress.net/8-cach-bao-quan-trung-khong-can-tu-lanh-4778784.html) - 09:09 07/08/2024
-- 💪 [Món quà bất ngờ dành cho người mẹ nuôi đứa trẻ mồ côi](https://vnexpress.net/mon-qua-bat-ngo-danh-cho-nguoi-me-nuoi-dua-tre-mo-coi-4778533.html) - 07:59 07/08/2024
-- 🐻 [Thành &#39;vua ẩm thực&#39; nhờ trúng số](https://vnexpress.net/thanh-vua-am-thuc-nho-trung-so-4778721.html) - 04:50 07/08/2024
-- 🧠 [Cha mẹ hài hước tốt thế nào cho trẻ](https://vnexpress.net/cha-me-hai-huoc-tot-the-nao-cho-tre-4778707.html) - 03:44 07/08/2024
-- 🐘 [Khởi đầu ngày mới với trà diệp lục thảo mộc Greenboost](https://vnexpress.net/khoi-dau-ngay-moi-voi-tra-diep-luc-thao-moc-greenboost-4766576.html) - 03:25 07/08/2024
-- 👹 [Phía sau những phiên livestream bán hàng triệu view](https://vnexpress.net/phia-sau-nhung-phien-livestream-ban-hang-trieu-view-4774457.html) - 03:00 07/08/2024
-- 💂 [Vì sao nhân viên Gen Z dễ nghỉ việc?](https://vnexpress.net/vi-sao-nhan-vien-gen-z-de-nghi-viec-4778549.html) - 23:30 06/08/2024
-- 🦍 [Khu vườn thuần Việt tặng vợ của người chồng Mỹ](https://vnexpress.net/khu-vuon-thuan-viet-tang-vo-cua-nguoi-chong-my-4778217.html) - 23:00 06/08/2024
-- 🧑‍🏫 [Phẫu thuật thẩm mỹ, giảm cân để tìm việc](https://vnexpress.net/phau-thuat-tham-my-giam-can-de-tim-viec-4778486.html) - 12:00 06/08/2024
-- 🧰 [Cá nục &#39;kho nhét đầu&#39; kiểu Bình Thuận](https://vnexpress.net/ca-nuc-kho-nhet-dau-kieu-binh-thuan-4778409.html) - 10:30 06/08/2024
-- 🪄 [Khi nào không nên quay lại với người cũ?](https://vnexpress.net/khi-nao-khong-nen-quay-lai-voi-nguoi-cu-4778496.html) - 10:22 06/08/2024
-- 🐲 [Gen Z có tỷ lệ ngoại tình cao nhất](https://vnexpress.net/gen-z-co-ty-le-ngoai-tinh-cao-nhat-4778343.html) - 08:15 06/08/2024
-- 💻 [Bên trong khu tiêm chủng VIP rộng đến 1.000 m2 tại VNVC](https://vnexpress.net/ben-trong-khu-tiem-chung-vip-rong-den-1-000-m2-tai-vnvc-4778334.html) - 06:00 06/08/2024
-- 🐘 [Nhiều cô gái hối hận vì xăm hình](https://vnexpress.net/nhieu-co-gai-hoi-han-vi-xam-hinh-4778319.html) - 05:22 06/08/2024
-- 🎬 [10 công dụng máy sấy tóc có thể bạn không biết](https://vnexpress.net/10-cong-dung-may-say-toc-co-the-ban-khong-biet-4778063.html) - 04:23 06/08/2024
-- 💻 [Nghệ sĩ Quốc Tuấn mong mọi người có thêm thời gian cho Trung thu](https://vnexpress.net/nghe-si-quoc-tuan-mong-moi-nguoi-co-them-thoi-gian-cho-trung-thu-4778065.html) - 01:00 06/08/2024
-- 🧰 [Quán phở &#39;treo&#39; giữa phố cổ Hà Nội](https://vnexpress.net/quan-pho-treo-giua-pho-co-ha-noi-4777899.html) - 23:29 05/08/2024
-- 🫣 [Chàng trai Việt mang thùng cam đi hỏi vợ Nhật](https://vnexpress.net/chang-trai-viet-mang-thung-cam-di-hoi-vo-nhat-4776075.html) - 23:00 05/08/2024
-- ⚗️ [Đầu bếp Australia khám phá ẩm thực miền Tây](https://vnexpress.net/dau-bep-australia-kham-pha-am-thuc-mien-tay-4777881.html) - 12:00 05/08/2024
-- 🌊 [Bún vịt xáo măng miền Bắc](https://vnexpress.net/doi-song-cooking-bun-vit-xao-mang-mien-bac-4777988.html) - 11:00 05/08/2024
-- 💃 [Bí quyết tạo ấn tượng tốt trong lần gặp đầu tiên](https://vnexpress.net/bi-quyet-tao-an-tuong-tot-trong-lan-gap-dau-tien-4776717.html) - 10:33 05/08/2024
-- 🦆 [Vườn sân thượng giúp nàng dâu &#39;ghi điểm&#39; với mẹ chồng](https://vnexpress.net/vuon-san-thuong-giup-nang-dau-ghi-diem-voi-me-chong-4777560.html) - 04:17 05/08/2024
-- 🎓 [Những thói quen gây hại cho mắt](https://vnexpress.net/nhung-thoi-quen-gay-hai-cho-mat-4777678.html) - 03:37 05/08/2024
-- 💪 [Chạy &#39;tháng cô hồn&#39;](https://vnexpress.net/chay-thang-co-hon-4777100.html) - 23:00 04/08/2024
-- 🤔 [Nỗi ân hận của người mẹ phải xa con để gánh vác gia đình](https://vnexpress.net/noi-an-han-cua-nguoi-me-phai-xa-con-de-ganh-vac-gia-dinh-4776533.html) - 17:00 04/08/2024
-- 🧰 [Hai mẹo làm trắng ron gạch từ oxy già và rượu](https://vnexpress.net/hai-meo-lam-trang-ron-gach-tu-oxy-gia-va-ruou-4777401.html) - 13:30 04/08/2024
-- 😎 [Chàng trai 24 tuổi thành &#39;ông chú 50&#39; vì thất tình](https://vnexpress.net/chang-trai-24-tuoi-thanh-ong-chu-50-vi-that-tinh-4777644.html) - 12:28 04/08/2024
-- 🌮 [Nước chấm bún chả Hà Nội pha giấm hay chanh?](https://vnexpress.net/doi-song-cooking-nuoc-cham-bun-cha-ha-noi-4777572.html) - 09:00 04/08/2024
-- 🧠 [Tại sao chúng ta gắn bó với ngôi nhà mình?](https://vnexpress.net/tai-sao-chung-ta-gan-bo-voi-ngoi-nha-minh-4777542.html) - 07:05 04/08/2024
+- 🎃 [Thú uống &#39;bia bao cấp&#39; của người Hà Nội](https://vnexpress.net/thu-uong-bia-bao-cap-cua-nguoi-ha-noi-4778879.html) - 23:00 07/08/2024
+- 💪 [8 cách bảo quản trứng không cần tủ lạnh](https://vnexpress.net/8-cach-bao-quan-trung-khong-can-tu-lanh-4778784.html) - 09:09 07/08/2024
+- 🐻 [Món quà bất ngờ dành cho người mẹ nuôi đứa trẻ mồ côi](https://vnexpress.net/mon-qua-bat-ngo-danh-cho-nguoi-me-nuoi-dua-tre-mo-coi-4778533.html) - 07:59 07/08/2024
+- 🧠 [Thành &#39;vua ẩm thực&#39; nhờ trúng số](https://vnexpress.net/thanh-vua-am-thuc-nho-trung-so-4778721.html) - 04:50 07/08/2024
+- 🐘 [Cha mẹ hài hước tốt thế nào cho trẻ](https://vnexpress.net/cha-me-hai-huoc-tot-the-nao-cho-tre-4778707.html) - 03:44 07/08/2024
+- 👹 [Khởi đầu ngày mới với trà diệp lục thảo mộc Greenboost](https://vnexpress.net/khoi-dau-ngay-moi-voi-tra-diep-luc-thao-moc-greenboost-4766576.html) - 03:25 07/08/2024
+- 💂 [Phía sau những phiên livestream bán hàng triệu view](https://vnexpress.net/phia-sau-nhung-phien-livestream-ban-hang-trieu-view-4774457.html) - 03:00 07/08/2024
+- 🦍 [Vì sao nhân viên Gen Z dễ nghỉ việc?](https://vnexpress.net/vi-sao-nhan-vien-gen-z-de-nghi-viec-4778549.html) - 23:30 06/08/2024
+- 🧑‍🏫 [Khu vườn thuần Việt tặng vợ của người chồng Mỹ](https://vnexpress.net/khu-vuon-thuan-viet-tang-vo-cua-nguoi-chong-my-4778217.html) - 23:00 06/08/2024
+- 🧰 [Phẫu thuật thẩm mỹ, giảm cân để tìm việc](https://vnexpress.net/phau-thuat-tham-my-giam-can-de-tim-viec-4778486.html) - 12:00 06/08/2024
+- 🪄 [Cá nục &#39;kho nhét đầu&#39; kiểu Bình Thuận](https://vnexpress.net/ca-nuc-kho-nhet-dau-kieu-binh-thuan-4778409.html) - 10:30 06/08/2024
+- 🐲 [Khi nào không nên quay lại với người cũ?](https://vnexpress.net/khi-nao-khong-nen-quay-lai-voi-nguoi-cu-4778496.html) - 10:22 06/08/2024
+- 💻 [Gen Z có tỷ lệ ngoại tình cao nhất](https://vnexpress.net/gen-z-co-ty-le-ngoai-tinh-cao-nhat-4778343.html) - 08:15 06/08/2024
+- 🐘 [Bên trong khu tiêm chủng VIP rộng đến 1.000 m2 tại VNVC](https://vnexpress.net/ben-trong-khu-tiem-chung-vip-rong-den-1-000-m2-tai-vnvc-4778334.html) - 06:00 06/08/2024
+- 🎬 [Nhiều cô gái hối hận vì xăm hình](https://vnexpress.net/nhieu-co-gai-hoi-han-vi-xam-hinh-4778319.html) - 05:22 06/08/2024
+- 💻 [10 công dụng máy sấy tóc có thể bạn không biết](https://vnexpress.net/10-cong-dung-may-say-toc-co-the-ban-khong-biet-4778063.html) - 04:23 06/08/2024
+- 🧰 [Nghệ sĩ Quốc Tuấn mong mọi người có thêm thời gian cho Trung thu](https://vnexpress.net/nghe-si-quoc-tuan-mong-moi-nguoi-co-them-thoi-gian-cho-trung-thu-4778065.html) - 01:00 06/08/2024
+- 🫣 [Quán phở &#39;treo&#39; giữa phố cổ Hà Nội](https://vnexpress.net/quan-pho-treo-giua-pho-co-ha-noi-4777899.html) - 23:29 05/08/2024
+- ⚗️ [Chàng trai Việt mang thùng cam đi hỏi vợ Nhật](https://vnexpress.net/chang-trai-viet-mang-thung-cam-di-hoi-vo-nhat-4776075.html) - 23:00 05/08/2024
+- 🌊 [Đầu bếp Australia khám phá ẩm thực miền Tây](https://vnexpress.net/dau-bep-australia-kham-pha-am-thuc-mien-tay-4777881.html) - 12:00 05/08/2024
+- 💃 [Bún vịt xáo măng miền Bắc](https://vnexpress.net/doi-song-cooking-bun-vit-xao-mang-mien-bac-4777988.html) - 11:00 05/08/2024
+- 🦆 [Bí quyết tạo ấn tượng tốt trong lần gặp đầu tiên](https://vnexpress.net/bi-quyet-tao-an-tuong-tot-trong-lan-gap-dau-tien-4776717.html) - 10:33 05/08/2024
+- 🎓 [Vườn sân thượng giúp nàng dâu &#39;ghi điểm&#39; với mẹ chồng](https://vnexpress.net/vuon-san-thuong-giup-nang-dau-ghi-diem-voi-me-chong-4777560.html) - 04:17 05/08/2024
+- 💪 [Những thói quen gây hại cho mắt](https://vnexpress.net/nhung-thoi-quen-gay-hai-cho-mat-4777678.html) - 03:37 05/08/2024
+- 🤔 [Chạy &#39;tháng cô hồn&#39;](https://vnexpress.net/chay-thang-co-hon-4777100.html) - 23:00 04/08/2024
+- 🧰 [Nỗi ân hận của người mẹ phải xa con để gánh vác gia đình](https://vnexpress.net/noi-an-han-cua-nguoi-me-phai-xa-con-de-ganh-vac-gia-dinh-4776533.html) - 17:00 04/08/2024
+- 😎 [Hai mẹo làm trắng ron gạch từ oxy già và rượu](https://vnexpress.net/hai-meo-lam-trang-ron-gach-tu-oxy-gia-va-ruou-4777401.html) - 13:30 04/08/2024
+- 🌮 [Chàng trai 24 tuổi thành &#39;ông chú 50&#39; vì thất tình](https://vnexpress.net/chang-trai-24-tuoi-thanh-ong-chu-50-vi-that-tinh-4777644.html) - 12:28 04/08/2024
+- 🧠 [Nước chấm bún chả Hà Nội pha giấm hay chanh?](https://vnexpress.net/doi-song-cooking-nuoc-cham-bun-cha-ha-noi-4777572.html) - 09:00 04/08/2024
+- 🎡 [Tại sao chúng ta gắn bó với ngôi nhà mình?](https://vnexpress.net/tai-sao-chung-ta-gan-bo-voi-ngoi-nha-minh-4777542.html) - 07:05 04/08/2024
 - 🎡 [Gen Z bị chê kém duyên khi giao tiếp công sở](https://vnexpress.net/gen-z-bi-che-kem-duyen-khi-giao-tiep-cong-so-4777573.html) - 06:36 04/08/2024
-- 🎡 [Tìm thấy con trai sau 49 năm mất tích](https://vnexpress.net/tim-thay-con-trai-sau-49-nam-mat-tich-4777395.html) - 23:28 03/08/2024
-- 🌏 [Bi kịch của những cậu bé bị tống tiền](https://vnexpress.net/bi-kich-cua-nhung-cau-be-bi-tong-tien-4777323.html) - 23:00 03/08/2024
-- 🐻 [Chè đỗ đen đặc Hà Nội](https://vnexpress.net/doi-song-cooking-che-do-den-dac-ha-noi-4777321.html) - 09:00 03/08/2024
-- 💂 [Gần một thập kỷ tăng độ phủ vaccine của VNVC](https://vnexpress.net/gan-mot-thap-ky-tang-do-phu-vaccine-cua-vnvc-4777334.html) - 06:15 03/08/2024
-- 🥸 [Cách bảo quản chảo gang](https://vnexpress.net/cach-bao-quan-chao-gang-4777159.html) - 05:40 03/08/2024
-- 🌋 [Quy tắc 75-15-10 - Bí kíp trở nên giàu có](https://vnexpress.net/quy-tac-75-15-10-bi-kip-tro-nen-giau-co-4777108.html) - 05:16 03/08/2024
-- 🦩 [Cô gái 38 tuổi sống trong viện dưỡng lão](https://vnexpress.net/co-gai-38-tuoi-song-trong-vien-duong-lao-4777244.html) - 04:38 03/08/2024
-- 😺 [Những nhân viên &#39;chân trong, chân ngoài&#39;](https://vnexpress.net/nhung-nhan-vien-chan-trong-chan-ngoai-4776258.html) - 23:28 02/08/2024
-- 🐻 [Anh chủ xưởng sửa giày miễn phí để trả ơn đời](https://vnexpress.net/anh-chu-xuong-sua-giay-mien-phi-de-tra-on-doi-4773793.html) - 23:16 02/08/2024
-- 🎬 [Làn sóng du lịch không rượu bia](https://vnexpress.net/lan-song-du-lich-khong-ruou-bia-4777166.html) - 23:00 02/08/2024
-- 🎊 [Tại sao đậu phụ chuyển vàng khi rán?](https://vnexpress.net/doi-song-cooking-tai-sao-dau-phu-chuyen-vang-khi-ran-4777072.html) - 10:32 02/08/2024
-- 💄 [Bốn món đồ vô dụng từng được quảng cáo rầm rộ](https://vnexpress.net/bon-mon-do-vo-dung-tung-duoc-quang-cao-ram-ro-4777004.html) - 08:13 02/08/2024
-- 🏊 [Nhiều sếp vui sướng khi quay về làm nhân viên](https://vnexpress.net/nhieu-sep-vui-suong-khi-quay-ve-lam-nhan-vien-4776986.html) - 06:11 02/08/2024
-- 🌜 [Vì sao sở thích cá nhân cần thiết?](https://vnexpress.net/vi-sao-so-thich-ca-nhan-can-thiet-4776949.html) - 03:59 02/08/2024
-- 🤡 [Chuyên gia tài chính hướng dẫn cách xây quỹ khẩn cấp](https://vnexpress.net/chuyen-gia-tai-chinh-huong-dan-cach-xay-quy-khan-cap-4776543.html) - 03:45 02/08/2024
-- 🥰 [Giới trẻ Hàn Quốc từ bỏ lối sống YOLO](https://vnexpress.net/gioi-tre-han-quoc-tu-bo-loi-song-yolo-4776697.html) - 01:07 02/08/2024
-- 🦍 [MV tái hiện chặng đường khổ luyện, vinh quang của vận động viên](https://vnexpress.net/mv-tai-hien-chang-duong-kho-luyen-vinh-quang-cua-van-dong-vien-4776248.html) - 01:00 02/08/2024
-- 🫣 [Câu cá trong hầm biệt thự triệu đô](https://vnexpress.net/cau-ca-trong-ham-biet-thu-trieu-do-4776742.html) - 23:00 01/08/2024
-- 🚦 [Thịt chân giò kho củ cải kiểu thời bao cấp](https://vnexpress.net/doi-song-cooking-thit-chan-gio-kho-cu-cai-kieu-thoi-bao-cap-4776668.html) - 09:52 01/08/2024
-- 🐘 [Mẹo mở lọ trong một giây](https://vnexpress.net/meo-mo-lo-trong-mot-giay-4775030.html) - 08:01 01/08/2024
+- 🌏 [Tìm thấy con trai sau 49 năm mất tích](https://vnexpress.net/tim-thay-con-trai-sau-49-nam-mat-tich-4777395.html) - 23:28 03/08/2024
+- 🐻 [Bi kịch của những cậu bé bị tống tiền](https://vnexpress.net/bi-kich-cua-nhung-cau-be-bi-tong-tien-4777323.html) - 23:00 03/08/2024
+- 💂 [Chè đỗ đen đặc Hà Nội](https://vnexpress.net/doi-song-cooking-che-do-den-dac-ha-noi-4777321.html) - 09:00 03/08/2024
+- 🥸 [Gần một thập kỷ tăng độ phủ vaccine của VNVC](https://vnexpress.net/gan-mot-thap-ky-tang-do-phu-vaccine-cua-vnvc-4777334.html) - 06:15 03/08/2024
+- 🌋 [Cách bảo quản chảo gang](https://vnexpress.net/cach-bao-quan-chao-gang-4777159.html) - 05:40 03/08/2024
+- 🦩 [Quy tắc 75-15-10 - Bí kíp trở nên giàu có](https://vnexpress.net/quy-tac-75-15-10-bi-kip-tro-nen-giau-co-4777108.html) - 05:16 03/08/2024
+- 😺 [Cô gái 38 tuổi sống trong viện dưỡng lão](https://vnexpress.net/co-gai-38-tuoi-song-trong-vien-duong-lao-4777244.html) - 04:38 03/08/2024
+- 🐻 [Những nhân viên &#39;chân trong, chân ngoài&#39;](https://vnexpress.net/nhung-nhan-vien-chan-trong-chan-ngoai-4776258.html) - 23:28 02/08/2024
+- 🎬 [Anh chủ xưởng sửa giày miễn phí để trả ơn đời](https://vnexpress.net/anh-chu-xuong-sua-giay-mien-phi-de-tra-on-doi-4773793.html) - 23:16 02/08/2024
+- 🎊 [Làn sóng du lịch không rượu bia](https://vnexpress.net/lan-song-du-lich-khong-ruou-bia-4777166.html) - 23:00 02/08/2024
+- 💄 [Tại sao đậu phụ chuyển vàng khi rán?](https://vnexpress.net/doi-song-cooking-tai-sao-dau-phu-chuyen-vang-khi-ran-4777072.html) - 10:32 02/08/2024
+- 🏊 [Bốn món đồ vô dụng từng được quảng cáo rầm rộ](https://vnexpress.net/bon-mon-do-vo-dung-tung-duoc-quang-cao-ram-ro-4777004.html) - 08:13 02/08/2024
+- 🌜 [Nhiều sếp vui sướng khi quay về làm nhân viên](https://vnexpress.net/nhieu-sep-vui-suong-khi-quay-ve-lam-nhan-vien-4776986.html) - 06:11 02/08/2024
+- 🤡 [Vì sao sở thích cá nhân cần thiết?](https://vnexpress.net/vi-sao-so-thich-ca-nhan-can-thiet-4776949.html) - 03:59 02/08/2024
+- 🥰 [Chuyên gia tài chính hướng dẫn cách xây quỹ khẩn cấp](https://vnexpress.net/chuyen-gia-tai-chinh-huong-dan-cach-xay-quy-khan-cap-4776543.html) - 03:45 02/08/2024
+- 🦍 [Giới trẻ Hàn Quốc từ bỏ lối sống YOLO](https://vnexpress.net/gioi-tre-han-quoc-tu-bo-loi-song-yolo-4776697.html) - 01:07 02/08/2024
+- 🫣 [MV tái hiện chặng đường khổ luyện, vinh quang của vận động viên](https://vnexpress.net/mv-tai-hien-chang-duong-kho-luyen-vinh-quang-cua-van-dong-vien-4776248.html) - 01:00 02/08/2024
+- 🚦 [Câu cá trong hầm biệt thự triệu đô](https://vnexpress.net/cau-ca-trong-ham-biet-thu-trieu-do-4776742.html) - 23:00 01/08/2024
+- 🐘 [Thịt chân giò kho củ cải kiểu thời bao cấp](https://vnexpress.net/doi-song-cooking-thit-chan-gio-kho-cu-cai-kieu-thoi-bao-cap-4776668.html) - 09:52 01/08/2024
 - 🔥 [Cách bảo quản dưa hấu đã cắt lát](https://vnexpress.net/cach-bao-quan-dua-hau-da-cat-lat-4776238.html) - 07:58 01/08/2024
 - 🎃 [Vì sao một số cha mẹ để con vô lễ?](https://vnexpress.net/vi-sao-mot-so-cha-me-de-con-vo-le-4776461.html) - 04:11 01/08/2024
 - 🥳 [Những gia đình &#39;chỉ còn cái vỏ&#39;](https://vnexpress.net/nhung-gia-dinh-chi-con-cai-vo-4774156.html) - 23:00 31/07/2024<!-- vnexpress-doi-song:END -->
