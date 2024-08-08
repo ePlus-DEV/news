@@ -10,7 +10,7 @@ sidebar_position: 1
 - 🌊 [Ôtô tải lao xuống ruộng sau tai nạn](https://vnexpress.net/oto-tai-lao-xuong-ruong-sau-tai-nan-4779303.html) - 10:07 08/08/2024
 - 🎓 [Hiện trường 8 ôtô đâm liên hoàn trên cầu Phú Mỹ](https://vnexpress.net/hien-truong-8-oto-dam-lien-hoan-tren-cau-phu-my-4779272.html) - 09:40 08/08/2024
 - 🔥 [Đề nghị xem xét, kỷ luật ông Lê Minh Khái và nhiều cán bộ](https://vnexpress.net/de-nghi-xem-xet-ky-luat-ong-le-minh-khai-va-nhieu-can-bo-4779241.html) - 08:53 08/08/2024
-- 🦏 [7 xe đâm liên hoàn, ôtô bốc cháy trên cầu Phú Mỹ](https://vnexpress.net/7-xe-dam-lien-hoan-oto-boc-chay-tren-cau-phu-my-4779246.html) - 08:27 08/08/2024
+- 🦏 [8 xe đâm liên hoàn, ôtô bốc cháy trên cầu Phú Mỹ](https://vnexpress.net/8-xe-dam-lien-hoan-oto-boc-chay-tren-cau-phu-my-4779246.html) - 08:27 08/08/2024
 - 👺 [Long Thành dự kiến đón chuyến bay thương mại từ 2/9/2026](https://vnexpress.net/long-thanh-du-kien-don-chuyen-bay-thuong-mai-tu-2-9-2026-4779173.html) - 07:40 08/08/2024
 - 🧑‍🏫 [Đá lăn đè chết tài xế](https://vnexpress.net/da-lan-de-chet-tai-xe-4779177.html) - 06:56 08/08/2024
 - 🚦 [Thiếu tướng Vũ Hồng Văn giữ chức Phó chủ nhiệm Ủy ban Kiểm tra Trung ương](https://vnexpress.net/thieu-tuong-vu-hong-van-giu-chuc-pho-chu-nhiem-uy-ban-kiem-tra-trung-uong-4779168.html) - 06:53 08/08/2024
