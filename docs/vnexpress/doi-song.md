@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Người Mỹ tranh cãi chuyện mặc quần đùi đi làm](https://vnexpress.net/nguoi-my-tranh-cai-chuyen-mac-quan-dui-di-lam-4779145.html) - 05:53 08/08/2024
+- 🚀 [Người Mỹ tranh cãi chuyện mặc quần short đi làm](https://vnexpress.net/nguoi-my-tranh-cai-chuyen-mac-quan-short-di-lam-4779145.html) - 05:53 08/08/2024
 - 🎓 [Bỗng dưng nổi tiếng vì ngủ gật trong khi bán hàng](https://vnexpress.net/bong-dung-noi-tieng-vi-ngu-gat-trong-khi-ban-hang-4775895.html) - 03:00 08/08/2024
 - 🚦 [Người trẻ hoãn yêu đương vì bận kiếm tiền](https://vnexpress.net/nguoi-tre-hoan-yeu-duong-vi-ban-kiem-tien-4778922.html) - 23:29 07/08/2024
 - 🦣 [Người độc thân Mỹ chạy bộ tìm bạn đời](https://vnexpress.net/nguoi-doc-than-my-chay-bo-tim-ban-doi-4778927.html) - 23:00 07/08/2024
