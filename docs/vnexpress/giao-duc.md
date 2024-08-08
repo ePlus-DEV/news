@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [10 học sinh Việt giành học bổng Đại học Thanh Hoa, Bắc Kinh](https://vnexpress.net/10-hoc-sinh-viet-gianh-hoc-bong-dai-hoc-thanh-hoa-bac-kinh-4779349.html) - 15:11 08/08/2024
+- 🤓 [10 du học sinh Việt giành học bổng Đại học Thanh Hoa, Bắc Kinh](https://vnexpress.net/10-du-hoc-sinh-viet-gianh-hoc-bong-dai-hoc-thanh-hoa-bac-kinh-4779349.html) - 15:11 08/08/2024
 - 🦆 [Tỉnh miền Bắc nào là &#39;nơi dòng sông chảy ngược&#39;?](https://vnexpress.net/tinh-mien-bac-nao-la-noi-dong-song-chay-nguoc-4779308.html) - 13:33 08/08/2024
 - 🦩 [Bốn xu hướng định hình công việc trong tương lai](https://vnexpress.net/bon-xu-huong-dinh-hinh-cong-viec-trong-tuong-lai-4779294.html) - 10:21 08/08/2024
 - 🌮 [Học sinh TP HCM tựu trường sớm nhất ngày 19/8](https://vnexpress.net/hoc-sinh-tp-hcm-tuu-truong-som-nhat-ngay-19-8-4779291.html) - 09:51 08/08/2024
