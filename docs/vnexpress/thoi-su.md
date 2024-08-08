@@ -9,7 +9,7 @@ sidebar_position: 1
 - ⚗️ [Hiện trạng biển Bãi Sau TP Vũng Tàu trước khi chỉnh trang](https://vnexpress.net/hien-trang-bien-bai-sau-tp-vung-tau-truoc-khi-chinh-trang-4778347.html) - 22:00 07/08/2024
 - 🌊 [Lăng vua Tự Đức được trùng tu](https://vnexpress.net/lang-vua-tu-duc-duoc-trung-tu-4778840.html) - 18:00 07/08/2024
 - 🎓 [Đường hỏng không thể sửa do nhà thầu vỡ nợ](https://vnexpress.net/duong-hong-khong-the-sua-do-nha-thau-vo-no-4778729.html) - 17:00 07/08/2024
-- 🔥 [Cầu vượt biển dài nhất miền Trung sau 30 tháng thi công](https://vnexpress.net/cau-vuot-bien-dai-nhat-mien-trung-sau-30-thang-thi-cong-4778646.html) - 17:00 07/08/2024
+- 🔥 [Cầu vượt biển dài nhất Trung Trung Bộ sau 30 tháng thi công](https://vnexpress.net/cau-vuot-bien-dai-nhat-trung-trung-bo-sau-30-thang-thi-cong-4778646.html) - 17:00 07/08/2024
 - 🦏 [Cháy lớn công ty sản xuất đồ gỗ hơn 13.000 m2 ở Đồng Nai](https://vnexpress.net/chay-lon-cong-ty-san-xuat-do-go-hon-13-000-m2-o-dong-nai-4778931.html) - 15:29 07/08/2024
 - 👺 [Hoàn thành tu bổ di tích Trường dạy làm báo Huỳnh Thúc Kháng](https://vnexpress.net/hoan-thanh-tu-bo-di-tich-truong-day-lam-bao-huynh-thuc-khang-4778714.html) - 12:20 07/08/2024
 - 🧑‍🏫 [Vé metro Nhổn - ga Hà Nội 12.000 đồng một lượt](https://vnexpress.net/ve-metro-nhon-ga-ha-noi-12-000-dong-mot-luot-4778764.html) - 12:11 07/08/2024
