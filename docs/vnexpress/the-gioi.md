@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Động đất 7,1 độ, Nhật Bản phát cảnh báo sóng thần](https://vnexpress.net/dong-dat-7-1-do-nhat-ban-phat-canh-bao-song-than-4779265.html) - 09:18 08/08/2024
-- 🕴 [Ukraine đề nghị Mexico bắt Tổng thống Putin nếu ông đến dự sự kiện](https://vnexpress.net/ukraine-de-nghi-mexico-bat-tong-thong-putin-neu-ong-den-du-su-kien-4779143.html) - 08:18 08/08/2024
+- 🎭 [Việt Nam muốn phối hợp cùng Campuchia đánh giá tác động của dự án kênh Funan Techo](https://vnexpress.net/viet-nam-muon-phoi-hop-cung-campuchia-danh-gia-tac-dong-cua-du-an-kenh-funan-techo-4779269.html) - 09:34 08/08/2024
+- 🕴 [Động đất 7,1 độ, Nhật Bản phát cảnh báo sóng thần](https://vnexpress.net/dong-dat-7-1-do-nhat-ban-phat-canh-bao-song-than-4779265.html) - 09:18 08/08/2024
 - 🤭 [UAV Lancet, tên lửa Nga phá hủy loạt thiết giáp Ukraine ở Kursk](https://vnexpress.net/uav-lancet-ten-lua-nga-pha-huy-loat-thiet-giap-ukraine-o-kursk-4778952.html) - 07:51 08/08/2024
 - 🧑‍💻 [Mỹ, đồng minh Arab chạy đua tháo ngòi &#39;bom hẹn giờ&#39; ở Trung Đông](https://vnexpress.net/my-dong-minh-arab-chay-dua-thao-ngoi-bom-hen-gio-o-trung-dong-4779009.html) - 06:57 08/08/2024
 - 🦏 [Người Anh xuống đường phản đối phe cực hữu gây bạo loạn](https://vnexpress.net/nguoi-anh-xuong-duong-phan-doi-phe-cuc-huu-gay-bao-loan-4779073.html) - 04:35 08/08/2024
