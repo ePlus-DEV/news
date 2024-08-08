@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Doanh nghiệp nhà &#39;đại gia kim cương&#39; bị phạt vì vi phạm kinh doanh xăng dầu](https://vnexpress.net/doanh-nghiep-nha-dai-gia-kim-cuong-bi-phat-vi-vi-pham-kinh-doanh-xang-dau-4779391.html) - 16:41 08/08/2024
+- ⛽️ [Thiên Minh Đức bị tước giấy phép kinh doanh xăng dầu 45 ngày](https://vnexpress.net/thien-minh-duc-bi-tuoc-giay-phep-kinh-doanh-xang-dau-45-ngay-4779391.html) - 16:41 08/08/2024
 - 🐲 [Thịt bò Ba Lan sắp vào Việt Nam](https://vnexpress.net/thit-bo-ba-lan-sap-vao-viet-nam-4779365.html) - 15:30 08/08/2024
 - 🔥 [Vietjet sẽ nhận thêm 10 tàu bay mới trong năm nay](https://vnexpress.net/vietjet-se-nhan-them-10-tau-bay-moi-trong-nam-nay-4779369.html) - 14:25 08/08/2024
 - 🐵 [CEO JPMorgan vẫn lo Mỹ suy thoái](https://vnexpress.net/ceo-jpmorgan-van-lo-my-suy-thoai-4779223.html) - 10:07 08/08/2024
