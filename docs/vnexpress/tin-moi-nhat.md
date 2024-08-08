@@ -21,7 +21,7 @@ sidebar_position: 9
 - 🐘 [Nhà đồi có khu trồng rau, nuôi cá rộng 1.600 m2](https://vnexpress.net/nha-doi-co-khu-trong-rau-nuoi-ca-rong-1-600-m2-4779170.html) - 17:00 08/08/2024
 - 🌁 [Xuất khẩu lao động chứ không vào đại học](https://vnexpress.net/xuat-khau-lao-dong-chu-khong-vao-dai-hoc-4779112.html) - 17:00 08/08/2024
 - 🐲 [Tương lai Hamas dưới thời tân thủ lĩnh Sinwar](https://vnexpress.net/tuong-lai-hamas-duoi-thoi-tan-thu-linh-sinwar-4778981.html) - 17:00 08/08/2024
-- 🤓 [Thiên Minh Đức bị tước giấy phép kinh doanh xăng dầu 45 ngày](https://vnexpress.net/thien-minh-duc-bi-tuoc-giay-phep-kinh-doanh-xang-dau-45-ngay-4779391.html) - 16:41 08/08/2024
+- 🤓 [Thiên Minh Đức bị phạt vì vi phạm kinh doanh xăng dầu](https://vnexpress.net/thien-minh-duc-bi-phat-vi-vi-pham-kinh-doanh-xang-dau-4779391.html) - 16:41 08/08/2024
 - 💪 [Thịt bò Ba Lan sắp vào Việt Nam](https://vnexpress.net/thit-bo-ba-lan-sap-vao-viet-nam-4779365.html) - 15:30 08/08/2024
 - 🎓 [10 du học sinh Việt giành học bổng Đại học Thanh Hoa, Bắc Kinh](https://vnexpress.net/10-du-hoc-sinh-viet-gianh-hoc-bong-dai-hoc-thanh-hoa-bac-kinh-4779349.html) - 15:11 08/08/2024
 - 🫣 [Sứ quán Việt Nam khuyến cáo công dân rời Lebanon sớm nhất có thể](https://vnexpress.net/su-quan-viet-nam-khuyen-cao-cong-dan-roi-lebanon-som-nhat-co-the-4779376.html) - 15:07 08/08/2024
