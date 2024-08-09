@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Trump muốn tác động lên Fed nếu tái đắc cử](https://vnexpress.net/trump-muon-tac-dong-len-fed-neu-tai-dac-cu-4779497.html) - 06:06 09/08/2024
 - 🐲 [Giá USD tự do giảm mạnh](https://vnexpress.net/gia-usd-tu-do-giam-manh-4779593.html) - 05:03 09/08/2024
-- 🔥 [Ngân hàng đầu tiên báo lỗ quý II](https://vnexpress.net/ngan-hang-dau-tien-bao-lo-quy-ii-4779504.html) - 04:29 09/08/2024
+- 🔥 [PVcomBank lãi gần 70 tỷ đồng nửa đầu năm](https://vnexpress.net/pvcombank-lai-gan-70-ty-dong-nua-dau-nam-4779504.html) - 04:29 09/08/2024
 - 🐵 [8 thành phố có quy mô thị trường nhà trên 1.000 tỷ USD](https://vnexpress.net/8-thanh-pho-co-quy-mo-thi-truong-nha-tren-1-000-ty-usd-4779378.html) - 02:33 09/08/2024
 - 🦅 [Eximbank được S&amp;amp;P Global giữ mức tín nhiệm B+](https://vnexpress.net/eximbank-duoc-s-p-global-giu-muc-tin-nhiem-b-4779130.html) - 02:00 09/08/2024
 - 😺 [Giá vàng thế giới tăng mạnh](https://vnexpress.net/gia-vang-the-gioi-tang-manh-4779427.html) - 01:31 09/08/2024
