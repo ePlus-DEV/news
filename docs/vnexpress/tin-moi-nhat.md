@@ -23,7 +23,7 @@ sidebar_position: 9
 - 🐲 [Có nên học Điện tử viễn thông tại PTIT?](https://vnexpress.net/co-nen-hoc-dien-tu-vien-thong-tai-ptit-4777212.html) - 16:59 09/08/2024
 - 🤓 [&#39;Hà Nội cần phát triển theo mô hình đô thị trung tâm và thành phố trong Thủ đô&#39;](https://vnexpress.net/ha-noi-can-phat-trien-theo-mo-hinh-do-thi-trung-tam-va-thanh-pho-trong-thu-do-4779792.html) - 16:00 09/08/2024
 - 💪 [Hậu trường Hamas chọn tân thủ lĩnh](https://vnexpress.net/hau-truong-hamas-chon-tan-thu-linh-4779408.html) - 15:53 09/08/2024
-- 🎓 [Pháp 2-3 Tây Ban Nha &lpar;H2&rpar;: Nhen nhóm hy vọng](https://vnexpress.net/truc-tiep-phap-vs-tay-ban-nha-4779817.html) - 15:31 09/08/2024
+- 🎓 [Pháp 3-4 Tây Ban Nha &lpar;Hiệp phụ 2&rpar;: Rượt đuổi tỷ số](https://vnexpress.net/truc-tiep-phap-vs-tay-ban-nha-4779817.html) - 15:31 09/08/2024
 - 🫣 [GS Ngô Bảo Châu viết sách Toán cho sinh viên](https://vnexpress.net/gs-ngo-bao-chau-viet-sach-toan-cho-sinh-vien-4779729.html) - 15:18 09/08/2024
 - 🧑‍💻 [Yêu cầu xử lý dứt điểm các dự án, đất đai sai phạm](https://vnexpress.net/yeu-cau-xu-ly-dut-diem-cac-du-an-dat-dai-sai-pham-4779783.html) - 14:59 09/08/2024
 - 🐲 [Bộ Giáo dục: Học phí đại học còn thấp](https://vnexpress.net/bo-giao-duc-hoc-phi-dai-hoc-con-thap-4779395.html) - 14:23 09/08/2024
