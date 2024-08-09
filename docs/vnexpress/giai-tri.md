@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Sắc vóc &#39;nữ thần bóng chuyền&#39; cao gần 2 m](https://vnexpress.net/sac-voc-nu-than-bong-chuyen-cao-gan-2-m-4779460.html) - 07:35 09/08/2024
+- 🌏 [Gu mặc tôn chiều cao 2m của &#39;nữ thần bóng chuyền&#39;](https://vnexpress.net/gu-mac-ton-chieu-cao-2m-cua-nu-than-bong-chuyen-4779460.html) - 07:35 09/08/2024
 - 💫 [Fan xuống đường động viên Taylor Swift](https://vnexpress.net/fan-xuong-duong-dong-vien-taylor-swift-4779449.html) - 04:44 09/08/2024
 - 🌮 [Hậu trường Ngộ Không ở Hoa Quả Sơn &#39;Tây du ký&#39;](https://vnexpress.net/hau-truong-ngo-khong-o-hoa-qua-son-tay-du-ky-4779465.html) - 03:44 09/08/2024
 - 🧠 [Thanh Hằng chụp hình trên giàn giáo](https://vnexpress.net/thanh-hang-chup-hinh-tren-gian-giao-4779492.html) - 03:23 09/08/2024
