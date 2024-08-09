@@ -214,7 +214,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- laodong:START -->
 - 🗽 [Hiện trường tai nạn liên hoàn trên Vành đai 3 Hà Nội](https://laodong.vn/ban-tin/hien-truong-tai-nan-lien-hoan-tren-vanh-dai-3-ha-noi-1378463.ldo) - 15:55 09/08/2024
 - 📝 [Hội diễn văn nghệ công đoàn năm 2024](https://laodong.vn/cong-doan/hoi-dien-van-nghe-cong-doan-nam-2024-1378439.ldo) - 15:50 09/08/2024
-- 🦏 [Trực tiếp bóng đá U23 Tây Ban Nha 3-1 U23 Pháp: Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-u23-tay-ban-nha-3-1-u23-phap-hiep-2-1378462.ldo) - 15:27 09/08/2024
+- 🦏 [Trực tiếp bóng đá U23 Tây Ban Nha 3-2 U23 Pháp: Akliouche rút ngắn tỉ số](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-u23-tay-ban-nha-3-2-u23-phap-akliouche-rut-ngan-ti-so-1378462.ldo) - 15:27 09/08/2024
 - 🦩 [Trao kỷ niệm chương Vì sự nghiệp xây dựng tổ chức Công đoàn](https://laodong.vn/ldld-tien-giang/trao-ky-niem-chuong-vi-su-nghiep-xay-dung-to-chuc-cong-doan-1378457.ldo) - 15:25 09/08/2024
 - 🦏 [Vành đai 3 Hà Nội ùn tắc 5km sau va chạm giao thông](https://laodong.vn/giao-thong/vanh-dai-3-ha-noi-un-tac-5km-sau-va-cham-giao-thong-1378443.ldo) - 15:22 09/08/2024
 - 🧰 [Bình Định nhờ Bộ Công Thương giúp sức cho dự án điện gió tỉ đô](https://laodong.vn/xa-hoi/binh-dinh-nho-bo-cong-thuong-giup-suc-cho-du-an-dien-gio-ti-do-1378444.ldo) - 15:19 09/08/2024
