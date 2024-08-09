@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Lãnh đạo hải quan: Rút ra bài học sau sự cố hệ thống gián đoạn 16 tiếng](https://vnexpress.net/lanh-dao-hai-quan-rut-ra-bai-hoc-sau-su-co-he-thong-gian-doan-16-tieng-4779786.html) - 12:57 09/08/2024
+- ⛽️ [Lãnh đạo hải quan đề xuất sửa Luật sau sự cố gián đoạn hệ thống](https://vnexpress.net/lanh-dao-hai-quan-de-xuat-sua-luat-sau-su-co-gian-doan-he-thong-4779786.html) - 12:57 09/08/2024
 - 🐲 [Vị trí người giàu nhất Trung Quốc đổi chủ](https://vnexpress.net/vi-tri-nguoi-giau-nhat-trung-quoc-doi-chu-4779679.html) - 10:42 09/08/2024
 - 🔥 [Chứng khoán tăng điểm phiên cuối tuần](https://vnexpress.net/chung-khoan-hom-nay-9-8-vn-index-tang-diem-phien-cuoi-tuan-4779698.html) - 09:04 09/08/2024
 - 🐵 [Việt Nam có thể hưởng lợi hơn 5 tỷ USD nhờ thu phí ETC](https://vnexpress.net/viet-nam-co-the-huong-loi-hon-5-ty-usd-nho-thu-phi-etc-4779563.html) - 08:42 09/08/2024
