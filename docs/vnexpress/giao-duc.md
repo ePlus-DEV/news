@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [GS Ngô Bảo Châu lần đầu viết sách Toán cho sinh viên Việt Nam](https://vnexpress.net/gs-ngo-bao-chau-lan-dau-viet-sach-toan-cho-sinh-vien-viet-nam-4779729.html) - 15:18 09/08/2024
+- 🤓 [GS Ngô Bảo Châu viết sách Toán cho sinh viên](https://vnexpress.net/gs-ngo-bao-chau-viet-sach-toan-cho-sinh-vien-4779729.html) - 15:18 09/08/2024
 - 🦆 [Bộ Giáo dục: Học phí đại học còn thấp](https://vnexpress.net/bo-giao-duc-hoc-phi-dai-hoc-con-thap-4779395.html) - 14:23 09/08/2024
 - 🦩 [Tên gọi Bắc Kạn nghĩa là gì?](https://vnexpress.net/ten-goi-bac-kan-nghia-la-gi-4779756.html) - 13:21 09/08/2024
 - 🌮 [Đà Nẵng dẫn đầu về số giải nhất Tin học trẻ toàn quốc](https://vnexpress.net/da-nang-dan-dau-ve-so-giai-nhat-tin-hoc-tre-toan-quoc-4779731.html) - 10:40 09/08/2024
