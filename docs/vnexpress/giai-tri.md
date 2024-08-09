@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [GS Ngô Bảo Châu lần đầu viết sách Toán cho sinh viên Việt Nam](https://vnexpress.net/gs-ngo-bao-chau-lan-dau-viet-sach-toan-cho-sinh-vien-viet-nam-4779729.html) - 15:18 09/08/2024
+- 🌏 [GS Ngô Bảo Châu viết sách Toán cho sinh viên](https://vnexpress.net/gs-ngo-bao-chau-viet-sach-toan-cho-sinh-vien-4779729.html) - 15:18 09/08/2024
 - 💫 [Võ sư Thiếu Lâm qua đời ở tuổi 21](https://vnexpress.net/vo-su-thieu-lam-qua-doi-o-tuoi-21-4779787.html) - 12:42 09/08/2024
 - 🌮 [Sao Việt theo đuổi mốt túi cói hàng chục triệu đồng](https://vnexpress.net/sao-viet-theo-duoi-mot-tui-coi-hang-chuc-trieu-dong-4779120.html) - 12:30 09/08/2024
 - 🧠 [Đạo diễn &#39;Sống mãi với thủ đô&#39; qua đời](https://vnexpress.net/dao-dien-song-mai-voi-thu-do-qua-doi-4779780.html) - 11:53 09/08/2024
