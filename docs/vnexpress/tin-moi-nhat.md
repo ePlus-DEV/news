@@ -5,7 +5,7 @@ sidebar_position: 9
 
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [&#39;Mầm bệnh bạch hầu ở Thanh Hóa có thể do người lành mang trùng&#39;](https://vnexpress.net/mam-benh-bach-hau-o-thanh-hoa-co-the-do-nguoi-lanh-mang-trung-4779337.html) - 05:20 09/08/2024
-- 🐎 [Nhật Bản cảnh báo về nguy cơ siêu động đất](https://vnexpress.net/nhat-ban-canh-bao-ve-nguy-co-sieu-dong-dat-4779442.html) - 05:07 09/08/2024
+- 🐎 [Nhật Bản cảnh báo nguy cơ siêu động đất](https://vnexpress.net/nhat-ban-canh-bao-nguy-co-sieu-dong-dat-4779442.html) - 05:07 09/08/2024
 - 🦍 [Giá USD tự do giảm mạnh](https://vnexpress.net/gia-usd-tu-do-giam-manh-4779593.html) - 05:03 09/08/2024
 - 🏊 [VinFast VF 3 có hai loại sạc, 4 triệu và 6 triệu đồng](https://vnexpress.net/vinfast-vf-3-co-hai-loai-sac-4-trieu-va-6-trieu-dong-4779575.html) - 05:01 09/08/2024
 - 🎊 [Vinmec nhận hai giải thưởng nhân sự châu Á](https://vnexpress.net/vinmec-nhan-hai-giai-thuong-nhan-su-chau-a-4779562.html) - 05:00 09/08/2024
