@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Pháp 1-3 Tây Ban Nha &lpar;H1&rpar;: Rượt đuổi hấp dẫn](https://vnexpress.net/truc-tiep-phap-vs-tay-ban-nha-4779817.html) - 15:31 09/08/2024
+- 🪜 [Pháp 1-3 Tây Ban Nha &lpar;H2&rpar;: Chủ nhà choáng ngợp](https://vnexpress.net/truc-tiep-phap-vs-tay-ban-nha-4779817.html) - 15:31 09/08/2024
 - 🦩 [&#39;VnExpress Marathon là trọng tâm của du lịch thể thao Khánh Hoà&#39;](https://vnexpress.net/vnexpress-marathon-la-trong-tam-cua-du-lich-the-thao-khanh-hoa-4779745.html) - 11:00 09/08/2024
 - 🧰 [Runner chờ đợi chinh phục đường đua VnExpress Marathon Nha Trang](https://vnexpress.net/runner-cho-doi-chinh-phuc-duong-dua-vnexpress-marathon-nha-trang-4779761.html) - 10:27 09/08/2024
 - 🤗 [Paul Scholes bi quan về Man Utd mùa mới](https://vnexpress.net/paul-scholes-bi-quan-ve-man-utd-mua-moi-4779608.html) - 10:03 09/08/2024
