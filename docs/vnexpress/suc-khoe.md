@@ -5,7 +5,7 @@ sidebar_position: 10
 
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [&#39;Nghiện&#39; thuốc ngủ](https://vnexpress.net/nghien-thuoc-ngu-4779553.html) - 06:00 09/08/2024
-- 🥰 [&#39;Mầm bệnh bạch hầu ở Thanh Hóa có thể do người lành mang trùng&#39;](https://vnexpress.net/mam-benh-bach-hau-o-thanh-hoa-co-the-do-nguoi-lanh-mang-trung-4779337.html) - 05:20 09/08/2024
+- 🥰 [Ca bạch hầu ở Thanh Hóa có thể mang mầm bệnh tiềm ẩn](https://vnexpress.net/mam-benh-bach-hau-o-thanh-hoa-co-the-do-nguoi-lanh-mang-trung-4779337.html) - 05:20 09/08/2024
 - 💡 [Vinmec nhận hai giải thưởng nhân sự châu Á](https://vnexpress.net/vinmec-nhan-hai-giai-thuong-nhan-su-chau-a-4779562.html) - 05:00 09/08/2024
 - 🤗 [Ăn hạt gì bổ sung estrogen?](https://vnexpress.net/an-hat-gi-bo-sung-estrogen-4779463.html) - 05:00 09/08/2024
 - 🪜 [Tròng kính giúp kiểm soát tiến triển cận thị ở trẻ em](https://vnexpress.net/trong-kinh-giup-kiem-soat-tien-trien-can-thi-o-tre-em-4778360.html) - 05:00 09/08/2024
