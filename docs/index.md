@@ -46,7 +46,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎊 [Coats Phong Phú kỷ niệm 35 năm thành lập](https://vnexpress.net/coats-phong-phu-ky-niem-35-nam-thanh-lap-4779650.html) - 13:00 09/08/2024
 - ⚗️ [Na Chi Lăng được mùa](https://vnexpress.net/na-chi-lang-duoc-mua-4779267.html) - 13:00 09/08/2024
 - 🫣 [Hòa nhạc Toyota - cách hãng xe Nhật đóng góp cho văn hóa Việt](https://vnexpress.net/hoa-nhac-toyota-cach-hang-xe-nhat-dong-gop-cho-van-hoa-viet-4779025.html) - 13:00 09/08/2024
-- 👨‍🏫 [Lãnh đạo hải quan: Rút ra bài học sau sự cố hệ thống gián đoạn 16 tiếng](https://vnexpress.net/lanh-dao-hai-quan-rut-ra-bai-hoc-sau-su-co-he-thong-gian-doan-16-tieng-4779786.html) - 12:57 09/08/2024
+- 👨‍🏫 [Lãnh đạo hải quan đề xuất sửa Luật sau sự cố gián đoạn hệ thống](https://vnexpress.net/lanh-dao-hai-quan-de-xuat-sua-luat-sau-su-co-gian-doan-he-thong-4779786.html) - 12:57 09/08/2024
 - 🐻 [Đâm chết người vì nghĩ bị nhìn đểu](https://vnexpress.net/dam-chet-nguoi-vi-nghi-bi-nhin-deu-4779777.html) - 12:47 09/08/2024
 - 😺 [Võ sư Thiếu Lâm qua đời ở tuổi 21](https://vnexpress.net/vo-su-thieu-lam-qua-doi-o-tuoi-21-4779787.html) - 12:42 09/08/2024
 - 🤔 [Sao Việt theo đuổi mốt túi cói hàng chục triệu đồng](https://vnexpress.net/sao-viet-theo-duoi-mot-tui-coi-hang-chuc-trieu-dong-4779120.html) - 12:30 09/08/2024
