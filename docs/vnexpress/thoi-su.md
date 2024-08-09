@@ -4,9 +4,9 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [4 người bị cây ở công viên Tao Đàn đè trúng](https://vnexpress.net/4-nguoi-bi-cay-o-cong-vien-tao-dan-de-trung-4779452.html) - 02:03 09/08/2024
+- 🦒 [Nhánh cây rơi đè chết 2 người ở công viên Tao Đàn](https://vnexpress.net/nhanh-cay-roi-de-chet-2-nguoi-o-cong-vien-tao-dan-4779452.html) - 02:03 09/08/2024
 - 🤓 [Hầm chui &#39;giải cứu&#39; ùn tắc Tân Sơn Nhất trước ngày thông xe](https://vnexpress.net/ham-chui-giai-cuu-un-tac-tan-son-nhat-truoc-ngay-thong-xe-4779381.html) - 23:00 08/08/2024
-- ⚗️ [Đời giữ rừng](https://vnexpress.net/doi-giu-rung-4777103.html) - 23:00 08/08/2024
+- ⚗️ [Đời giữ rừng Cần Giờ](https://vnexpress.net/doi-giu-rung-can-gio-4777103.html) - 23:00 08/08/2024
 - 🌊 [Tài xế ôtô tải: &#39;Xe hỏng phanh khi đổ dốc cầu Phú Mỹ nên tôi bất lực&#39;](https://vnexpress.net/tai-xe-oto-tai-xe-hong-phanh-khi-do-doc-cau-phu-my-nen-toi-bat-luc-4779390.html) - 22:00 08/08/2024
 - 🎓 [Người về hưu từ 1/7/2025 hưởng lương ra sao?](https://vnexpress.net/nguoi-ve-huu-tu-1-7-2025-huong-luong-ra-sao-4779278.html) - 17:00 08/08/2024
 - 🔥 [Kiến nghị không thu hồi chứng chỉ nghề với đăng kiểm viên bị án treo](https://vnexpress.net/kien-nghi-khong-thu-hoi-chung-chi-nghe-voi-dang-kiem-vien-bi-an-treo-4779342.html) - 14:45 08/08/2024
