@@ -9,7 +9,7 @@ sidebar_position: 9
 - 🦍 [&#39;Doanh nghiệp nên vay từ cổ đông, nhà đầu tư thay vì dùng đòn bẩy&#39;](https://vnexpress.net/doanh-nghiep-nen-vay-tu-co-dong-nha-dau-tu-thay-vi-dung-don-bay-4779784.html) - 08:57 10/08/2024
 - 🏊 [Nga áp dụng cơ chế an ninh đặc biệt tại 3 vùng giáp Ukraine](https://vnexpress.net/nga-ap-dung-co-che-an-ninh-dac-biet-tai-3-vung-giap-ukraine-4779990.html) - 08:28 10/08/2024
 - 🎊 [Thời trang dạo biển của mỹ nhân Nga](https://vnexpress.net/thoi-trang-dao-bien-cua-my-nhan-nga-4779657.html) - 08:24 10/08/2024
-- 🎃 [Tamirat Tola giành HC vàng marathon Olympic 2024](https://vnexpress.net/tamirat-tola-gianh-hc-vang-marathon-olympic-2024-4780009.html) - 08:18 10/08/2024
+- 🎃 [Tamirat Tola lập kỷ lục marathon Olympic](https://vnexpress.net/tamirat-tola-lap-ky-luc-marathon-olympic-4780009.html) - 08:18 10/08/2024
 - 🧰 [Những điểm yêu thích nhất của Kun Marathon trong mắt runner nhí](https://vnexpress.net/nhung-diem-yeu-thich-nhat-cua-kun-marathon-trong-mat-runner-nhi-4780000.html) - 08:17 10/08/2024
 - 🔭 [Nga cảnh báo về tình hình căng thẳng gần nhà máy hạt nhân Kursk](https://vnexpress.net/nga-canh-bao-ve-tinh-hinh-cang-thang-gan-nha-may-hat-nhan-kursk-4779942.html) - 08:00 10/08/2024
 - 🫶 [Bạn gái chửi tục mỗi khi cãi nhau bất chấp đang ở đâu](https://vnexpress.net/ban-gai-chui-tuc-moi-khi-cai-nhau-bat-chap-dang-o-dau-4779978.html) - 08:00 10/08/2024
@@ -55,5 +55,4 @@ sidebar_position: 9
 - 🏊 [Ngủ nướng ảnh hưởng thế nào đến sức khỏe?](https://vnexpress.net/ngu-nuong-anh-huong-the-nao-den-suc-khoe-4779864.html) - 05:00 10/08/2024
 - 🦩 [Hàng nghìn runner lái thử xe Yamaha tại VnExpress Marathon Nha Trang](https://vnexpress.net/hang-nghin-runner-lai-thu-xe-yamaha-tai-vnexpress-marathon-nha-trang-4779785.html) - 05:00 10/08/2024
 - 👍 [Khách du mục số quốc tế mê Đà Nẵng](https://vnexpress.net/khach-du-muc-so-quoc-te-me-da-nang-4778912.html) - 04:53 10/08/2024
-- 🔥 [5 người ngộ độc hóa chất sau khi khuân vác bột xử lý nước](https://vnexpress.net/5-nguoi-ngo-doc-hoa-chat-sau-khi-khuan-vac-bot-xu-ly-nuoc-4779914.html) - 04:34 10/08/2024
-- 💄 [Quế Anh: &#39;Tôi không yếu đuối như vẻ ngoài&#39;](https://vnexpress.net/que-anh-toi-khong-yeu-duoi-nhu-ve-ngoai-4779063.html) - 04:30 10/08/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🔥 [5 người ngộ độc hóa chất sau khi khuân vác bột xử lý nước](https://vnexpress.net/5-nguoi-ngo-doc-hoa-chat-sau-khi-khuan-vac-bot-xu-ly-nuoc-4779914.html) - 04:34 10/08/2024<!-- vnexpress-tin-moi-nhat:END -->
