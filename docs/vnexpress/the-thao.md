@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Man Utd mua cùng lúc hai hậu vệ Bayern](https://vnexpress.net/man-utd-mua-cung-luc-hai-hau-ve-bayern-4780080.html) - 13:56 10/08/2024
-- 🦩 [Man City 0-0 Man Utd &lpar;H1&rpar;](https://vnexpress.net/man-city-vs-man-utd-4780078.html) - 13:25 10/08/2024
+- 🦩 [Man City 0-0 Man Utd &lpar;H1&rpar;: Oscar Bobb sút vọt xà](https://vnexpress.net/man-city-vs-man-utd-4780078.html) - 13:25 10/08/2024
 - 🧰 [Người mẫu Lê Thúy tham dự VnExpress Marathon Nha Trang](https://vnexpress.net/nguoi-mau-le-thuy-tham-du-vnexpress-marathon-nha-trang-4780059.html) - 12:03 10/08/2024
 - 🤗 [Bóng hồng khuấy động VnExpress Marathon Nha Trang](https://vnexpress.net/bong-hong-khuay-dong-vnexpress-marathon-nha-trang-4779997.html) - 10:22 10/08/2024
 - 🥳 [CEO GAM Esports thử thách 21km tại VM Nha Trang](https://vnexpress.net/ceo-gam-esports-thu-thach-21km-tai-vm-nha-trang-4780006.html) - 09:39 10/08/2024
