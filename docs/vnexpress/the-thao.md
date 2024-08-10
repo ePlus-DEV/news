@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [VnExpress Marathon Nha Trang 2024 khởi tranh](https://vnexpress.net/vnexpress-marathon-nha-trang-2024-khoi-tranh-4779989.html) - 19:38 10/08/2024
+- 🪜 [Anh Khôi, Đan Quyết tạm dẫn đầu 42km tại Nha Trang 2024](https://vnexpress.net/anh-khoi-dan-quyet-tam-dan-dau-42km-tai-nha-trang-2024-4779989.html) - 19:38 10/08/2024
 - 🦩 [Man Utd mua cùng lúc hai hậu vệ Bayern](https://vnexpress.net/man-utd-mua-cung-luc-hai-hau-ve-bayern-4780080.html) - 13:56 10/08/2024
 - 🧰 [Man City hạ Man Utd ở loạt luân lưu để giành Siêu Cup Anh](https://vnexpress.net/man-city-vs-man-utd-4780078-tong-thuat.html) - 13:25 10/08/2024
 - 🤗 [Người mẫu Lê Thúy tham dự VnExpress Marathon Nha Trang](https://vnexpress.net/nguoi-mau-le-thuy-tham-du-vnexpress-marathon-nha-trang-4780059.html) - 12:03 10/08/2024
