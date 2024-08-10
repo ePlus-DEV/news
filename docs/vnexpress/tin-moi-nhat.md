@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [VnExpress Marathon Nha Trang 2024 khởi tranh](https://vnexpress.net/vnexpress-marathon-nha-trang-2024-khoi-tranh-4779989.html) - 19:38 10/08/2024
+- 🎬 [Anh Khôi, Đan Quyết tạm dẫn đầu 42km tại Nha Trang 2024](https://vnexpress.net/anh-khoi-dan-quyet-tam-dan-dau-42km-tai-nha-trang-2024-4779989.html) - 19:38 10/08/2024
 - 🐎 [Tinh hoàn ẩn](https://vnexpress.net/tinh-hoan-an-4775269.html) - 18:00 10/08/2024
 - 🦍 [Dòng người sơ tán khỏi vùng biên giới Nga](https://vnexpress.net/dong-nguoi-so-tan-khoi-vung-bien-gioi-nga-4780085.html) - 17:34 10/08/2024
 - 🏊 [Hai ngày ăn chơi Đà Nẵng theo gợi ý từ Michelin](https://vnexpress.net/hai-ngay-an-choi-da-nang-theo-goi-y-tu-michelin-4779455.html) - 17:22 10/08/2024
