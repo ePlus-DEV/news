@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Tamirat Tola giành HC vàng marathon Olympic 2024](https://vnexpress.net/tamirat-tola-gianh-hc-vang-marathon-olympic-2024-4780009.html) - 08:18 10/08/2024
+- 🪜 [Tamirat Tola lập kỷ lục marathon Olympic](https://vnexpress.net/tamirat-tola-lap-ky-luc-marathon-olympic-4780009.html) - 08:18 10/08/2024
 - 🦩 [Những điểm yêu thích nhất của Kun Marathon trong mắt runner nhí](https://vnexpress.net/nhung-diem-yeu-thich-nhat-cua-kun-marathon-trong-mat-runner-nhi-4780000.html) - 08:17 10/08/2024
 - 🧰 [Man City - Man Utd: Phá dớp ở Siêu Cup Anh?](https://vnexpress.net/man-city-man-utd-pha-dop-o-sieu-cup-anh-4779992.html) - 07:26 10/08/2024
 - 🤗 [VĐV Hà Lan bị chỉ trích với hành vi thiếu tôn trọng nhất Olympic 2024](https://vnexpress.net/vdv-ha-lan-bi-chi-trich-voi-hanh-vi-thieu-ton-trong-nhat-olympic-2024-4779987.html) - 06:56 10/08/2024
