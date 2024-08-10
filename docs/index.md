@@ -220,7 +220,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💂 [Link xem trực tiếp bóng đá nữ Brazil vs Mỹ tại Olympic 2024](https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-nu-brazil-vs-my-tai-olympic-2024-1378873.ldo) - 13:45 10/08/2024
 - 🧰 [Lý do khiến nhiều thanh niên 20 tuổi đã bị nhồi máu cơ tim](https://laodong.vn/y-te/ly-do-khien-nhieu-thanh-nien-20-tuoi-da-bi-nhoi-mau-co-tim-1378852.ldo) - 13:38 10/08/2024
 - 🥷 [Bắt giữ 17 đối tượng đánh bạc tại quán nước giải khát](https://laodong.vn/ban-tin/bat-giu-17-doi-tuong-danh-bac-tai-quan-nuoc-giai-khat-1378861.ldo) - 13:36 10/08/2024
-- 💫 [Trực tiếp bóng đá Man United 0-0 Man City: Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-man-united-0-0-man-city-hiep-2-1378864.ldo) - 13:27 10/08/2024
+- 💫 [Trực tiếp bóng đá Man United 1-1 Man City:Bernardo Silva gỡ hòa](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-man-united-1-1-man-citybernardo-silva-go-hoa-1378864.ldo) - 13:27 10/08/2024
 - 🎭 [Suga ăn năn sau ồn ào và BTS có thể tái hợp chỉ với 6 người](https://laodong.vn/van-hoa-giai-tri/suga-an-nan-sau-on-ao-va-bts-co-the-tai-hop-chi-voi-6-nguoi-1378859.ldo) - 13:25 10/08/2024
 - 😎 [Bóng chuyền nữ Thái Lan thắng dễ Indonesia 3-0](https://laodong.vn/the-thao/bong-chuyen-nu-thai-lan-thang-de-indonesia-3-0-1378854.ldo) - 13:22 10/08/2024
 - 💄 [Hoàng Anh Gia Lai, PVF vào chung kết U21 Quốc gia 2024](https://laodong.vn/the-thao/hoang-anh-gia-lai-pvf-vao-chung-ket-u21-quoc-gia-2024-1378811.ldo) - 13:13 10/08/2024
