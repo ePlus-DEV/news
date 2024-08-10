@@ -6,7 +6,7 @@ sidebar_position: 11
 <!-- vnexpress-du-lich:START -->
 - 💂 [10 điểm đến ngát hương thơm trên thế giới](https://vnexpress.net/10-diem-den-ngat-huong-thom-tren-the-gioi-4779636.html) - 05:37 10/08/2024
 - 🪄 [Khách du mục số quốc tế mê Đà Nẵng](https://vnexpress.net/khach-du-muc-so-quoc-te-me-da-nang-4778912.html) - 04:53 10/08/2024
-- 🦅 [Nha Trang dự kiến đón hơn 450.000 nghìn lượt khách dịp VnExpress Marathon](https://vnexpress.net/nha-trang-du-kien-don-hon-450-000-nghin-luot-khach-dip-vnexpress-marathon-4779341.html) - 01:24 10/08/2024
+- 🦅 [Nha Trang dự kiến đón hơn 450.000 lượt khách dịp VnExpress Marathon](https://vnexpress.net/nha-trang-du-kien-don-hon-450-000-luot-khach-dip-vnexpress-marathon-4779341.html) - 01:24 10/08/2024
 - 🕴 [Trải nghiệm đến Paris xem Olympic của khách Việt](https://vnexpress.net/trai-nghiem-den-paris-xem-olympic-cua-khach-viet-4778167.html) - 00:00 10/08/2024
 - 👀 [Xíu mại đèn dầu bán xuyên đêm ở TP HCM](https://vnexpress.net/xiu-mai-den-dau-ban-xuyen-dem-o-tp-hcm-4779271.html) - 17:00 09/08/2024
 - 🎭 [Cuộc đua trở thành sân bay không cần giấy tờ đầu tiên trên thế giới](https://vnexpress.net/cuoc-dua-tro-thanh-san-bay-khong-can-giay-to-dau-tien-tren-the-gioi-4779481.html) - 08:22 09/08/2024
