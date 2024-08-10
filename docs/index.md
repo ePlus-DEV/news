@@ -249,7 +249,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😺 [Lịch cúp điện ở Đồng Nai ngày mai 11.8](https://laodong.vn/ban-doc/lich-cup-dien-o-dong-nai-ngay-mai-118-1378851.ldo) - 12:27 10/08/2024
 - 🕴 [Bò chết hàng loạt tại Điện Biên, dấu hiệu bất thường](https://laodong.vn/xa-hoi/bo-chet-hang-loat-tai-dien-bien-dau-hieu-bat-thuong-1378832.ldo) - 12:11 10/08/2024
 - 🌋 [Nóng Sài Gòn: Sắp hoàn thành mở rộng 3 tuyến đường ở TPHCM](https://laodong.vn/video-xa-hoi/nong-sai-gon-sap-hoan-thanh-mo-rong-3-tuyen-duong-o-tphcm-1378735.ldo) - 12:00 10/08/2024
-- 💄 [Thế giới 24h: Bí mật gây sốc về kim tự tháp cổ nhất thế giới](https://laodong.vn/podcast-tin-tuc/the-gioi-24h-bi-mat-gay-soc-ve-kim-tu-thap-co-nhat-the-gioi-1378767.ldo) - 12:00 10/08/2024<!-- laodong:END -->
+- 💄 [Tăng tốc công trình cảng cá chậm tiến độ nhiều năm](https://laodong.vn/xa-hoi/tang-toc-cong-trinh-cang-ca-cham-tien-do-nhieu-nam-1378749.ldo) - 12:00 10/08/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
