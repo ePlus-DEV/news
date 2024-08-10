@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [CEO GAM Esports thử thách 21km tại VM Nha Trang](https://vnexpress.net/ceo-gam-esports-thu-thach-21km-tai-vm-nha-trang-4780006.html) - 09:39 10/08/2024
 - 🧰 [Henry: &#39;Pháp có hành trình kỳ diệu tại Olympic Paris 2024&#39;](https://vnexpress.net/henry-phap-co-hanh-trinh-ky-dieu-tai-olympic-paris-2024-4780035.html) - 09:33 10/08/2024
 - 🤗 [Tamirat Tola lập kỷ lục marathon Olympic](https://vnexpress.net/tamirat-tola-lap-ky-luc-marathon-olympic-4780009.html) - 08:18 10/08/2024
-- 🥳 [Những điểm yêu thích nhất của Kun Marathon trong mắt runner nhí](https://vnexpress.net/nhung-diem-yeu-thich-nhat-cua-kun-marathon-trong-mat-runner-nhi-4780000.html) - 08:17 10/08/2024
+- 🥳 [Những điểm yêu thích của Kun Marathon trong mắt runner nhí và phụ huynh](https://vnexpress.net/nhung-diem-yeu-thich-cua-kun-marathon-trong-mat-runner-nhi-va-phu-huynh-4780000.html) - 08:17 10/08/2024
 - 🦣 [Man City - Man Utd: Phá dớp ở Siêu Cup Anh?](https://vnexpress.net/man-city-man-utd-pha-dop-o-sieu-cup-anh-4779992.html) - 07:26 10/08/2024
 - 🌜 [VĐV Hà Lan bị chỉ trích với hành vi thiếu tôn trọng nhất Olympic 2024](https://vnexpress.net/vdv-ha-lan-bi-chi-trich-voi-hanh-vi-thieu-ton-trong-nhat-olympic-2024-4779987.html) - 06:56 10/08/2024
 - 🫶 [HLV lo Tây Ban Nha tự mãn sau cú đúp Euro và Olympic](https://vnexpress.net/hlv-lo-tay-ban-nha-tu-man-sau-cu-dup-euro-va-olympic-4779919.html) - 06:52 10/08/2024
