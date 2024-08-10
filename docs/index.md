@@ -210,7 +210,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦏 [Hơn 50 món ăn đặc sắc tại Hội thi Ẩm thực Xứ Quảng](https://laodong.vn/video/hon-50-mon-an-dac-sac-tai-hoi-thi-am-thuc-xu-quang-1378884.ldo) - 14:51 10/08/2024
 - 🦩 [Bích Tuyền muốn xuất ngoại để chứng minh bản thân](https://laodong.vn/the-thao/bich-tuyen-muon-xuat-ngoai-de-chung-minh-ban-than-1378880.ldo) - 14:44 10/08/2024
 - 🦏 [Thành Trung, Kiên Ứng, HuyR chia tay Anh trai vượt ngàn chông gai](https://laodong.vn/van-hoa-giai-tri/thanh-trung-kien-ung-huyr-chia-tay-anh-trai-vuot-ngan-chong-gai-1378871.ldo) - 14:31 10/08/2024
-- 🧰 [Trực tiếp bóng đá nữ Brazil 0-1 Mỹ: Swanson mở tỉ số](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-nu-brazil-0-1-my-swanson-mo-ti-so-1378675.ldo) - 14:28 10/08/2024
+- 🧰 [Tuyển Mỹ giành huy chương vàng bóng đá nữ Olympic 2024](https://laodong.vn/bong-da-quoc-te/tuyen-my-gianh-huy-chuong-vang-bong-da-nu-olympic-2024-1378675.ldo) - 14:28 10/08/2024
 - 🌊 [Bóng chuyền Việt Nam ngày 10.8: Ban huấn luyện lúng túng](https://laodong.vn/the-thao/bong-chuyen-viet-nam-ngay-108-ban-huan-luyen-lung-tung-1378814.ldo) - 14:27 10/08/2024
 - 🔥 [Hơn 20 CLB sinh hoạt tại Nhà văn hóa ​​​​​​​Lao động Đà Nẵng](https://laodong.vn/ldld-da-nang/hon-20-clb-sinh-hoat-tai-nha-van-hoa-lao-dong-da-nang-1378872.ldo) - 14:17 10/08/2024
 - 🦒 [Hàng nghìn người Hải Phòng dự đêm hội Hoa đăng mùa Vu Lan](https://laodong.vn/van-hoa/hang-nghin-nguoi-hai-phong-du-dem-hoi-hoa-dang-mua-vu-lan-1378847.ldo) - 14:16 10/08/2024
