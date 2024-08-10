@@ -32,7 +32,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌏 [Từ cây lao tự chế đến vô địch Olympic 2024](https://vnexpress.net/tu-cay-lao-tu-che-den-vo-dich-olympic-2024-4780053.html) - 22:00 10/08/2024
 - 🧐 [Trung Quốc đoạt trọn bộ HC vàng bóng bàn, nhảy cầu Olympic 2024](https://vnexpress.net/trung-quoc-doat-tron-bo-hc-vang-bong-ban-nhay-cau-olympic-2024-4780101.html) - 21:34 10/08/2024
 - 💫 [Phóng viên kể chuyện: Nguồn sống bị bỏ lỡ](https://vnexpress.net/phong-vien-ke-chuyen-nguon-song-bi-bo-lo-4780099.html) - 21:00 10/08/2024
-- 😺 [Cự ly 21km của VM Nha Trang 2024 cạnh tranh khốc liệt](https://vnexpress.net/cu-ly-21km-cua-vm-nha-trang-2024-canh-tranh-khoc-liet-4779989.html) - 19:38 10/08/2024
+- 😺 [Trung Cường, Thu Hằng vô địch 21km VM Nha Trang](https://vnexpress.net/trung-cuong-thu-hang-vo-dich-21km-vm-nha-trang-4779989.html) - 19:38 10/08/2024
 - 🕯 [Tinh hoàn ẩn](https://vnexpress.net/tinh-hoan-an-4775269.html) - 18:00 10/08/2024
 - 💃 [Dòng người sơ tán khỏi vùng biên giới Nga](https://vnexpress.net/dong-nguoi-so-tan-khoi-vung-bien-gioi-nga-4780085.html) - 17:34 10/08/2024
 - 💂 [Hai ngày ăn chơi Đà Nẵng theo gợi ý từ Michelin](https://vnexpress.net/hai-ngay-an-choi-da-nang-theo-goi-y-tu-michelin-4779455.html) - 17:22 10/08/2024
