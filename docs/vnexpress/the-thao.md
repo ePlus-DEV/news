@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Từ cây lao tự chế đến vô địch Olympic 2024](https://vnexpress.net/tu-cay-lao-tu-che-den-vo-dich-olympic-2024-4780053.html) - 22:00 10/08/2024
 - 🦩 [Trung Quốc đoạt trọn bộ HC vàng bóng bàn, nhảy cầu Olympic 2024](https://vnexpress.net/trung-quoc-doat-tron-bo-hc-vang-bong-ban-nhay-cau-olympic-2024-4780101.html) - 21:34 10/08/2024
-- 🧰 [Cự ly 21km của VM Nha Trang 2024 cạnh tranh khốc liệt](https://vnexpress.net/cu-ly-21km-cua-vm-nha-trang-2024-canh-tranh-khoc-liet-4779989.html) - 19:38 10/08/2024
+- 🧰 [Trung Cường, Thu Hằng vô địch 21km VM Nha Trang](https://vnexpress.net/trung-cuong-thu-hang-vo-dich-21km-vm-nha-trang-4779989.html) - 19:38 10/08/2024
 - 🤗 [Man Utd mua cùng lúc hai hậu vệ Bayern](https://vnexpress.net/man-utd-mua-cung-luc-hai-hau-ve-bayern-4780080.html) - 13:56 10/08/2024
 - 🥳 [Man City hạ Man Utd ở loạt luân lưu để giành Siêu Cup Anh](https://vnexpress.net/man-city-vs-man-utd-4780078-tong-thuat.html) - 13:25 10/08/2024
 - 🦣 [Người mẫu Lê Thúy tham dự VnExpress Marathon Nha Trang](https://vnexpress.net/nguoi-mau-le-thuy-tham-du-vnexpress-marathon-nha-trang-4780059.html) - 12:03 10/08/2024
