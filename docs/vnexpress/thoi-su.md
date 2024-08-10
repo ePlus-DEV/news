@@ -22,17 +22,17 @@ sidebar_position: 1
 - 🤡 [Miền Bắc mưa lớn từ đêm 10/8](https://vnexpress.net/mien-bac-mua-lon-tu-dem-10-8-4779762.html) - 10:36 09/08/2024
 - 💯 [Đề xuất nối ray hai tuyến đường sắt Việt - Trung](https://vnexpress.net/de-xuat-noi-ray-hai-tuyen-duong-sat-viet-trung-4779670.html) - 10:08 09/08/2024
 - 👺 [Cháy lớn xưởng gỗ ở Đồng Nai](https://vnexpress.net/chay-lon-xuong-go-o-dong-nai-4779713.html) - 09:56 09/08/2024
-- 🌮 [Nhân chứng vụ sập nhà kho: &#39;Chậm vài bước, tôi đã bị vùi lấp&#39;](https://vnexpress.net/nhan-chung-vu-sap-nha-kho-cham-vai-buoc-toi-da-bi-vui-lap-4779629.html) - 09:32 09/08/2024
+- 🌮 [Nhân chứng vụ sập xưởng bao bì: &#39;Chậm vài bước, tôi đã bị vùi lấp&#39;](https://vnexpress.net/nhan-chung-vu-sap-xuong-bao-bi-cham-vai-buoc-toi-da-bi-vui-lap-4779629.html) - 09:32 09/08/2024
 - 🥸 [Buổi tập dưỡng sinh định mệnh ở công viên Tao Đàn](https://vnexpress.net/buoi-tap-duong-sinh-dinh-menh-o-cong-vien-tao-dan-4779622.html) - 09:15 09/08/2024
 - 🐻 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Cần tạo động lực phát triển kinh tế xã hội](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-can-tao-dong-luc-phat-trien-kinh-te-xa-hoi-4779652.html) - 08:30 09/08/2024
 - 👀 [Bộ Chính trị khiển trách Ban thường vụ Tỉnh ủy An Giang hai nhiệm kỳ](https://vnexpress.net/bo-chinh-tri-khien-trach-ban-thuong-vu-tinh-uy-an-giang-hai-nhiem-ky-4779662.html) - 08:19 09/08/2024
 - 🤔 [Hitachi bàn giao thiết bị để đào tạo nhân sự Metro số 1](https://vnexpress.net/hitachi-ban-giao-thiet-bi-de-dao-tao-nhan-su-metro-so-1-4779609.html) - 08:12 09/08/2024
-- 🕯 [Hiện trường nhà kho sập khiến hai người tử vong](https://vnexpress.net/hien-truong-nha-kho-sap-khien-hai-nguoi-tu-vong-4779607.html) - 06:44 09/08/2024
+- 🕯 [Hiện trường nhà xưởng sập khiến hai người tử vong](https://vnexpress.net/hien-truong-nha-xuong-sap-khien-hai-nguoi-tu-vong-4779607.html) - 06:44 09/08/2024
 - 😺 [Gần 100 cảnh sát cứu đám cháy kho linh kiện điện tử](https://vnexpress.net/gan-100-canh-sat-cuu-dam-chay-kho-linh-kien-dien-tu-4779604.html) - 06:21 09/08/2024
 - 🦆 [Xuất khẩu lao động đem về cho Đồng Tháp 1.000 tỷ đồng mỗi năm](https://vnexpress.net/xuat-khau-lao-dong-dem-ve-cho-dong-thap-1-000-ty-dong-moi-nam-4779560.html) - 05:41 09/08/2024
 - 🧰 [Ra mắt thư viện thực tế ảo về phòng tránh tai nạn bom mìn](https://vnexpress.net/ra-mat-thu-vien-thuc-te-ao-ve-phong-tranh-tai-nan-bom-min-4779551.html) - 04:59 09/08/2024
 - 🦍 [Tàu cá chở 11 ngư dân bị chìm](https://vnexpress.net/tau-ca-cho-11-ngu-dan-bi-chim-4779474.html) - 04:37 09/08/2024
-- 🧰 [Sập nhà kho ở Ninh Bình, hai người tử vong](https://vnexpress.net/sap-nha-kho-o-ninh-binh-hai-nguoi-tu-vong-4779513.html) - 03:23 09/08/2024
+- 🧰 [Sập xưởng bao bì ở Ninh Bình, hai người tử vong](https://vnexpress.net/sap-xuong-bao-bi-o-ninh-binh-hai-nguoi-tu-vong-4779513.html) - 03:23 09/08/2024
 - 💃 [Nhánh cây rơi đè chết 2 người ở công viên Tao Đàn](https://vnexpress.net/nhanh-cay-roi-de-chet-2-nguoi-o-cong-vien-tao-dan-4779452.html) - 02:03 09/08/2024
 - 🧰 [Hầm chui &#39;giải cứu&#39; ùn tắc Tân Sơn Nhất trước ngày thông xe](https://vnexpress.net/ham-chui-giai-cuu-un-tac-tan-son-nhat-truoc-ngay-thong-xe-4779381.html) - 23:00 08/08/2024
 - 🚀 [Đời giữ rừng Cần Giờ](https://vnexpress.net/doi-giu-rung-can-gio-4777103.html) - 23:00 08/08/2024
