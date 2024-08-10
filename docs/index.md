@@ -209,7 +209,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦏 [Hơn 50 món ăn đặc sắc tại Hội thi Ẩm thực Xứ Quảng](https://laodong.vn/video/hon-50-mon-an-dac-sac-tai-hoi-thi-am-thuc-xu-quang-1378884.ldo) - 14:51 10/08/2024
 - 🦩 [Bích Tuyền muốn xuất ngoại để chứng minh bản thân](https://laodong.vn/the-thao/bich-tuyen-muon-xuat-ngoai-de-chung-minh-ban-than-1378880.ldo) - 14:44 10/08/2024
 - 🦏 [Thành Trung, Kiên Ứng, HuyR chia tay Anh trai vượt ngàn chông gai](https://laodong.vn/van-hoa-giai-tri/thanh-trung-kien-ung-huyr-chia-tay-anh-trai-vuot-ngan-chong-gai-1378871.ldo) - 14:31 10/08/2024
-- 🧰 [Trực tiếp bóng đá nữ Brazil 0-0 Mỹ: Hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-nu-brazil-0-0-my-hiep-1-1378675.ldo) - 14:28 10/08/2024
+- 🧰 [Trực tiếp bóng đá nữ Brazil 0-0 Mỹ: Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-nu-brazil-0-0-my-hiep-2-1378675.ldo) - 14:28 10/08/2024
 - 🌊 [Bóng chuyền Việt Nam ngày 10.8: Ban huấn luyện lúng túng](https://laodong.vn/the-thao/bong-chuyen-viet-nam-ngay-108-ban-huan-luyen-lung-tung-1378814.ldo) - 14:27 10/08/2024
 - 🔥 [Hơn 20 CLB sinh hoạt tại Nhà văn hóa ​​​​​​​Lao động Đà Nẵng](https://laodong.vn/ldld-da-nang/hon-20-clb-sinh-hoat-tai-nha-van-hoa-lao-dong-da-nang-1378872.ldo) - 14:17 10/08/2024
 - 🦒 [Hàng nghìn người Hải Phòng dự đêm hội Hoa đăng mùa Vu Lan](https://laodong.vn/van-hoa/hang-nghin-nguoi-hai-phong-du-dem-hoi-hoa-dang-mua-vu-lan-1378847.ldo) - 14:16 10/08/2024
@@ -220,7 +220,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💂 [Link xem trực tiếp bóng đá nữ Brazil vs Mỹ tại Olympic 2024](https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-nu-brazil-vs-my-tai-olympic-2024-1378873.ldo) - 13:45 10/08/2024
 - 🧰 [Lý do khiến nhiều thanh niên 20 tuổi đã bị nhồi máu cơ tim](https://laodong.vn/y-te/ly-do-khien-nhieu-thanh-nien-20-tuoi-da-bi-nhoi-mau-co-tim-1378852.ldo) - 13:38 10/08/2024
 - 🥷 [Bắt giữ 17 đối tượng đánh bạc tại quán nước giải khát](https://laodong.vn/ban-tin/bat-giu-17-doi-tuong-danh-bac-tai-quan-nuoc-giai-khat-1378861.ldo) - 13:36 10/08/2024
-- 💫 [Trực tiếp bóng đá Man United 1-1 Man City:Bernardo Silva gỡ hòa](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-man-united-1-1-man-citybernardo-silva-go-hoa-1378864.ldo) - 13:27 10/08/2024
+- 💫 [Man City đánh bại Man United sau loạt luân lưu để giành Siêu Cúp Anh](https://laodong.vn/bong-da-quoc-te/man-city-danh-bai-man-united-sau-loat-luan-luu-de-gianh-sieu-cup-anh-1378864.ldo) - 13:27 10/08/2024
 - 🎭 [Suga ăn năn sau ồn ào và BTS có thể tái hợp chỉ với 6 người](https://laodong.vn/van-hoa-giai-tri/suga-an-nan-sau-on-ao-va-bts-co-the-tai-hop-chi-voi-6-nguoi-1378859.ldo) - 13:25 10/08/2024
 - 😎 [Bóng chuyền nữ Thái Lan thắng dễ Indonesia 3-0](https://laodong.vn/the-thao/bong-chuyen-nu-thai-lan-thang-de-indonesia-3-0-1378854.ldo) - 13:22 10/08/2024
 - 💄 [Hoàng Anh Gia Lai, PVF vào chung kết U21 Quốc gia 2024](https://laodong.vn/the-thao/hoang-anh-gia-lai-pvf-vao-chung-ket-u21-quoc-gia-2024-1378811.ldo) - 13:13 10/08/2024
