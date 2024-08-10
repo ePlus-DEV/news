@@ -31,7 +31,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥰 [Nam giáo viên thích tập thể dục và dọn dẹp nhà cửa](https://vnexpress.net/nam-giao-vien-thich-tap-the-duc-va-don-dep-nha-cua-4779854.html) - 14:00 10/08/2024
 - 🌏 [Man Utd mua cùng lúc hai hậu vệ Bayern](https://vnexpress.net/man-utd-mua-cung-luc-hai-hau-ve-bayern-4780080.html) - 13:56 10/08/2024
 - 🧐 [Cách sao Việt phối đồ với dép lê](https://vnexpress.net/cach-sao-viet-phoi-do-voi-dep-le-4779906.html) - 13:32 10/08/2024
-- 💫 [Man City 0-0 Man Utd &lpar;H2&rpar;: Phung phí cơ hội](https://vnexpress.net/man-city-vs-man-utd-4780078.html) - 13:25 10/08/2024
+- 💫 [Man City 0-0 Man Utd &lpar;H2&rpar;: Fernandes bị từ chối bàn](https://vnexpress.net/man-city-vs-man-utd-4780078.html) - 13:25 10/08/2024
 - 😺 [Bị phạt 6 án tù vì liên tiếp chửi thẩm phán trong 10 giây](https://vnexpress.net/bi-phat-6-an-tu-vi-lien-tiep-chui-tham-phan-trong-10-giay-4780070.html) - 13:15 10/08/2024
 - 🕯 [&#39;Bỏ 40 triệu học tiếng Anh nhưng nghe nói kém hơn bé 10 tuổi chỉ xem Youtube&#39;](https://vnexpress.net/bo-40-trieu-hoc-tieng-anh-nhung-nghe-noi-kem-hon-be-10-tuoi-chi-xem-youtube-4780023.html) - 13:00 10/08/2024
 - 💃 [Nhân tình chỉ thích lén lút, không muốn chính thức đến với tôi](https://vnexpress.net/nhan-tinh-chi-thich-len-lut-khong-muon-chinh-thuc-den-voi-toi-4779843.html) - 13:00 10/08/2024
