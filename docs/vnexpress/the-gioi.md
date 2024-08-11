@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Chiến dịch tranh cử của ông Trump bị tấn công mạng](https://vnexpress.net/chien-dich-tranh-cu-cua-ong-trump-bi-tan-cong-mang-4780109.html) - 02:21 11/08/2024
-- 🕴 [Thách thức phòng không Israel đối mặt nếu Iran và đồng minh hiệp đồng tập kích](https://vnexpress.net/thach-thuc-phong-khong-israel-doi-mat-neu-iran-va-dong-minh-hiep-dong-tap-kich-4778558.html) - 01:24 11/08/2024
+- 🕴 [Thách thức Iran và đồng minh đặt ra với phòng không Israel](https://vnexpress.net/thach-thuc-iran-va-dong-minh-dat-ra-voi-phong-khong-israel-4778558.html) - 01:24 11/08/2024
 - 🤭 [Hezbollah tập kích đáp trả vụ Israel hạ sát chỉ huy Hamas ở Lebanon](https://vnexpress.net/hezbollah-tap-kich-dap-tra-vu-israel-ha-sat-chi-huy-hamas-o-lebanon-4780118.html) - 00:58 11/08/2024
 - 🧑‍💻 [Ông Zelensky xác nhận Ukraine tấn công tỉnh biên giới Nga](https://vnexpress.net/ong-zelensky-xac-nhan-ukraine-tan-cong-tinh-bien-gioi-nga-4780107.html) - 00:13 11/08/2024
 - 🦏 [Dòng người sơ tán khỏi vùng biên giới Nga](https://vnexpress.net/dong-nguoi-so-tan-khoi-vung-bien-gioi-nga-4780085.html) - 17:34 10/08/2024
