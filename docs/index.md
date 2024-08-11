@@ -253,14 +253,14 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Văn Toàn, Tuấn Hải &quot;khoe&quot; bóng đấu chính thức của V-League 2024-205](https://nld.com.vn/van-toan-tuan-hai-khoe-bong-dau-chinh-thuc-cua-v-league-2024-205-196240811190918819.htm) - 12:12 11/08/2024
-- 😺 [Điều tra, xác định trách nhiệm vụ gãy nhánh cây khiến 2 người chết ở Công viên Tao Đàn](https://nld.com.vn/dieu-tra-xac-dinh-trach-nhiem-vu-gay-nhanh-cay-khien-2-nguoi-chet-o-cong-vien-tao-dan-196240811183826698.htm) - 11:52 11/08/2024
-- 👍 [Kết quả xét nghiệm nữ nhân viên bị tung tin &quot;lây nhiễm HIV cho 16 người&quot;](https://nld.com.vn/ket-qua-xet-nghiem-nu-nhan-vien-bi-tung-tin-lay-nhiem-hiv-cho-16-nguoi-196240811172904434.htm) - 11:48 11/08/2024
-- 🥷 [Hàng trăm ca bệnh sởi ở TP HCM, Sở Y tế kiến nghị ban hành kế hoạch ứng phó](https://nld.com.vn/hang-tram-ca-benh-soi-o-tp-hcm-so-y-te-kien-nghi-ban-hanh-ke-hoach-ung-pho-196240811182610517.htm) - 11:40 11/08/2024
-- 🤔 [Nga công khai siêu vũ khí mới có thể “thay đổi cuộc chơi”](https://nld.com.vn/nga-cong-khai-sieu-vu-khi-moi-co-the-thay-doi-cuoc-choi-196240811175821836.htm) - 11:26 11/08/2024
-- 🌈 [VIDEO: Trao 300 lá cờ Tổ quốc cho Trường Đại học Y Dược TP HCM](https://nld.com.vn/trao-300-la-co-to-quoc-cho-truong-dai-hoc-y-duoc-tp-hcm-196240811175341257.htm) - 11:08 11/08/2024
-- 🔥 [Nam ca sĩ viết tâm thư sau khi lộ tình &quot;chị - em&quot;](https://nld.com.vn/nam-ca-si-viet-tam-thu-sau-khi-lo-tinh-chi-em-196240811173832843.htm) - 10:51 11/08/2024
-- 🧰 [Có 3 ca mắc bệnh bạch hầu không rõ nguồn lây, công bố dịch tại một huyện miền núi](https://nld.com.vn/co-3-ca-mac-benh-bach-hau-khong-ro-nguon-lay-cong-bo-dich-tai-mot-huyen-mien-nui-196240811171535033.htm) - 10:21 11/08/2024
+- 🐎 [Thanh Hóa công bố dịch bạch hầu](https://nld.com.vn/co-3-ca-mac-benh-bach-hau-khong-ro-nguon-lay-cong-bo-dich-tai-mot-huyen-mien-nui-196240811171535033.htm) - 12:45 11/08/2024
+- 😺 [Văn Toàn, Tuấn Hải &quot;khoe&quot; bóng đấu chính thức của V-League 2024-205](https://nld.com.vn/van-toan-tuan-hai-khoe-bong-dau-chinh-thuc-cua-v-league-2024-205-196240811190918819.htm) - 12:12 11/08/2024
+- 👍 [Điều tra, xác định trách nhiệm vụ gãy nhánh cây khiến 2 người chết ở Công viên Tao Đàn](https://nld.com.vn/dieu-tra-xac-dinh-trach-nhiem-vu-gay-nhanh-cay-khien-2-nguoi-chet-o-cong-vien-tao-dan-196240811183826698.htm) - 11:52 11/08/2024
+- 🥷 [Kết quả xét nghiệm nữ nhân viên bị tung tin &quot;lây nhiễm HIV cho 16 người&quot;](https://nld.com.vn/ket-qua-xet-nghiem-nu-nhan-vien-bi-tung-tin-lay-nhiem-hiv-cho-16-nguoi-196240811172904434.htm) - 11:48 11/08/2024
+- 🤔 [Hàng trăm ca bệnh sởi ở TP HCM, Sở Y tế kiến nghị ban hành kế hoạch ứng phó](https://nld.com.vn/hang-tram-ca-benh-soi-o-tp-hcm-so-y-te-kien-nghi-ban-hanh-ke-hoach-ung-pho-196240811182610517.htm) - 11:40 11/08/2024
+- 🌈 [Nga công khai siêu vũ khí mới có thể “thay đổi cuộc chơi”](https://nld.com.vn/nga-cong-khai-sieu-vu-khi-moi-co-the-thay-doi-cuoc-choi-196240811175821836.htm) - 11:26 11/08/2024
+- 🔥 [VIDEO: Trao 300 lá cờ Tổ quốc cho Trường Đại học Y Dược TP HCM](https://nld.com.vn/trao-300-la-co-to-quoc-cho-truong-dai-hoc-y-duoc-tp-hcm-196240811175341257.htm) - 11:08 11/08/2024
+- 🧰 [Nam ca sĩ viết tâm thư sau khi lộ tình &quot;chị - em&quot;](https://nld.com.vn/nam-ca-si-viet-tam-thu-sau-khi-lo-tinh-chi-em-196240811173832843.htm) - 10:51 11/08/2024
 - 🤗 [Người đàn ông đập kính xe, nắm tóc, đe dọa: &quot;Mày biết tao là ai không?&quot;](https://nld.com.vn/nguoi-dan-ong-dap-kinh-xe-nam-toc-de-doa-may-biet-tao-la-ai-khong-196240811165148156.htm) - 10:09 11/08/2024
 - 🦅 [Bộ Y tế chỉ đạo &quot;nóng&quot; sau công bố dịch bạch hầu tại Mường Lát](https://nld.com.vn/bo-y-te-chi-dao-nong-sau-cong-bo-dich-bach-hau-tai-muong-lat-196240811164131671.htm) - 09:43 11/08/2024
 - 🤩 [Sạt lở đất làm sập nhà, 2 cháu nhỏ bị thương](https://nld.com.vn/sat-lo-dat-lam-sap-nha-2-chau-nho-bi-thuong-196240811162234768.htm) - 09:39 11/08/2024
