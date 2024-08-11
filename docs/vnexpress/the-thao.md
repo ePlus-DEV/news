@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Trung Quốc hơn Mỹ một HC vàng trước môn cuối cùng ở Olympic 2024](https://vnexpress.net/trung-quoc-hon-my-mot-hc-vang-truoc-mon-cuoi-cung-o-olympic-2024-4780312.html) - 15:08 11/08/2024
+- 🪜 [Mỹ vượt Trung Quốc vào phút chót ở bảng tổng sắp huy chương Olympic 2024](https://vnexpress.net/my-vuot-trung-quoc-vao-phut-chot-o-bang-tong-sap-huy-chuong-olympic-2024-4780312.html) - 15:08 11/08/2024
 - 🦩 [Nữ lực sĩ Trung Quốc bế HLV mừng thay vì nâng tạ lần cuối](https://vnexpress.net/nu-luc-si-trung-quoc-be-hlv-mung-thay-vi-nang-ta-lan-cuoi-4780302.html) - 12:52 11/08/2024
 - 🧰 [Tuyển Việt Nam đá giải tam hùng với Thái Lan và Nga](https://vnexpress.net/tuyen-viet-nam-da-giai-tam-hung-voi-thai-lan-va-nga-4780294.html) - 11:57 11/08/2024
 - 🤗 [VĐV Mỹ buộc phải trả lại huy chương Olympic 2024](https://vnexpress.net/vdv-my-buoc-phai-tra-lai-huy-chuong-olympic-2024-4780277.html) - 11:48 11/08/2024
