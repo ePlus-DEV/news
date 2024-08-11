@@ -25,7 +25,7 @@ sidebar_position: 2
 - 🤩 [Quan chức LHQ sốc vì phát biểu của Bộ trưởng Israel về Gaza](https://vnexpress.net/quan-chuc-lhq-soc-vi-phat-bieu-cua-bo-truong-israel-ve-gaza-4779850.html) - 03:28 10/08/2024
 - 🎉 [Chuyên gia nhận định lý do máy bay Brazil xoay tròn, rơi tự do](https://vnexpress.net/chuyen-gia-nhan-dinh-ly-do-may-bay-brazil-xoay-tron-roi-tu-do-4779870.html) - 02:25 10/08/2024
 - 🎉 [Tranh cãi giữa Mỹ và Israel quanh vụ ám sát thủ lĩnh Hamas](https://vnexpress.net/tranh-cai-giua-my-va-israel-quanh-vu-am-sat-thu-linh-hamas-4778212.html) - 01:51 10/08/2024
-- 🌁 [Hiện trường vụ rơi máy bay Brazil khiến 61 người thiệt mạng](https://vnexpress.net/hien-truong-vu-roi-may-bay-brazil-khien-61-nguoi-thiet-mang-4779861.html) - 01:24 10/08/2024
+- 🌁 [Hiện trường vụ rơi máy bay Brazil khiến 62 người thiệt mạng](https://vnexpress.net/hien-truong-vu-roi-may-bay-brazil-khien-62-nguoi-thiet-mang-4779861.html) - 01:24 10/08/2024
 - 🌊 [Ông Kim Jong-un muốn sơ tán người dân vùng lũ tới thủ đô Triều Tiên](https://vnexpress.net/ong-kim-jong-un-muon-so-tan-nguoi-dan-vung-lu-toi-thu-do-trieu-tien-4779831.html) - 00:32 10/08/2024
 - 🕴 [Rơi máy bay chở 62 người ở Brazil](https://vnexpress.net/roi-may-bay-cho-62-nguoi-o-brazil-4779828.html) - 23:03 09/08/2024
 - 🎓 [Hậu trường Hamas chọn tân thủ lĩnh](https://vnexpress.net/hau-truong-hamas-chon-tan-thu-linh-4779408.html) - 15:53 09/08/2024
