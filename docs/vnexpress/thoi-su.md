@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Phó thủ tướng: &#39;Huy động mọi nguồn lực chống sạt lở cho ĐBSCL&#39;](https://vnexpress.net/pho-thu-tuong-huy-dong-moi-nguon-luc-chong-sat-lo-cho-dbscl-4780272.html) - 11:27 11/08/2024
 - 🤓 [Đập vỡ kính ôtô, bắt tài xế quỳ sau va chạm giao thông](https://vnexpress.net/dap-vo-kinh-oto-bat-tai-xe-quy-sau-va-cham-giao-thong-4780281.html) - 10:49 11/08/2024
 - ⚗️ [Cầu Thủ Thiêm 4 sẽ có tĩnh không cố định 15 m](https://vnexpress.net/cau-thu-thiem-4-se-co-tinh-khong-co-dinh-15-m-4780267.html) - 09:33 11/08/2024
-- 🌊 [Bò sữa chết sau tiêm vaccine ở Lâm Đồng tăng lên gần 200 con](https://vnexpress.net/bo-sua-lam-dong-4780237.html) - 07:47 11/08/2024
+- 🌊 [Bò sữa chết sau tiêm vaccine ở Lâm Đồng tăng lên hơn 200 con](https://vnexpress.net/bo-sua-lam-dong-4780237.html) - 07:47 11/08/2024
 - 🎓 [Miền Bắc mưa lớn cả tuần](https://vnexpress.net/mien-bac-mua-lon-ca-tuan-4780217.html) - 06:14 11/08/2024
 - 🔥 [Thứ trưởng Nguyễn Thị Phương Hoa điều hành Bộ Tài nguyên và Môi trường](https://vnexpress.net/thu-truong-nguyen-thi-phuong-hoa-dieu-hanh-bo-tai-nguyen-va-moi-truong-4780206.html) - 05:31 11/08/2024
 - 🦏 [Thai phụ và 2 cháu bé gặp nạn dưới hồ thủy điện](https://vnexpress.net/thai-phu-va-2-chau-be-gap-nan-duoi-ho-thuy-dien-4780202.html) - 04:34 11/08/2024
