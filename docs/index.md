@@ -77,9 +77,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤩 [11 phim hay nhất về Olympic](https://vnexpress.net/11-phim-hay-nhat-ve-olympic-4780264.html) - 11:23 11/08/2024
 - 🏊 [Quan chức Ukraine nêu mục tiêu chiến dịch Kursk](https://vnexpress.net/quan-chuc-ukraine-neu-muc-tieu-chien-dich-kursk-4780269.html) - 11:09 11/08/2024
 - 💂 [Phải làm gì để giải quyết hậu quả việc anh tôi từng ngoại tình](https://vnexpress.net/phai-lam-gi-de-giai-quyet-hau-qua-viec-anh-toi-tung-ngoai-tinh-4780288.html) - 11:00 11/08/2024
-- 🚀 [Mùa thu này, mình bên nhau bình yên em nhé](https://vnexpress.net/mua-thu-nay-minh-ben-nhau-binh-yen-em-nhe-4780178.html) - 11:00 11/08/2024
-- 🕴 [Đập vỡ kính ôtô, bắt tài xế quỳ sau va chạm giao thông](https://vnexpress.net/dap-vo-kinh-oto-bat-tai-xe-quy-sau-va-cham-giao-thong-4780281.html) - 10:49 11/08/2024
-- 🦆 [Bà Harris vượt ông Trump ở 3 bang chiến trường](https://vnexpress.net/ba-harris-vuot-ong-trump-o-3-bang-chien-truong-4780172.html) - 10:42 11/08/2024<!-- vnexpress:END -->
+- 🚀 [Mùa thu này, mình bên nhau bình yên em nhé](https://vnexpress.net/mua-thu-nay-minh-ben-nhau-binh-yen-em-nhe-4780178.html) - 11:00 11/08/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
