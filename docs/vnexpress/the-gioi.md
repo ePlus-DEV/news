@@ -18,7 +18,7 @@ sidebar_position: 2
 - 🚀 [Nga cảnh báo về tình hình căng thẳng gần nhà máy hạt nhân Kursk](https://vnexpress.net/nga-canh-bao-ve-tinh-hinh-cang-thang-gan-nha-may-hat-nhan-kursk-4779942.html) - 08:00 10/08/2024
 - 🥰 [Căn cứ Mỹ tại Syria bị drone tập kích](https://vnexpress.net/can-cu-my-tai-syria-bi-drone-tap-kich-4779913.html) - 07:23 10/08/2024
 - 🔥 [Hành khách thoát chết vì lỡ chuyến bay Brazil](https://vnexpress.net/hanh-khach-thoat-chet-vi-lo-chuyen-bay-brazil-4779895.html) - 06:55 10/08/2024
-- 🥳 [Israel bị tố không kích trường học Gaza khiến hơn 100 người thiệt mạng](https://vnexpress.net/israel-bi-to-khong-kich-truong-hoc-gaza-khien-hon-100-nguoi-thiet-mang-4779946.html) - 06:39 10/08/2024
+- 🥳 [Israel bị tố không kích trường học Gaza khiến ít nhất 90 người thiệt mạng](https://vnexpress.net/israel-bi-to-khong-kich-truong-hoc-gaza-khien-it-nhat-90-nguoi-thiet-mang-4779946.html) - 06:39 10/08/2024
 - 💼 [Israel hạ sát chỉ huy Hamas tại Lebanon](https://vnexpress.net/israel-ha-sat-chi-huy-hamas-tai-lebanon-4779949.html) - 05:18 10/08/2024
 - 🤡 [Tướng vệ binh Iran tuyên bố sẽ &#39;trừng trị&#39; Israel](https://vnexpress.net/tuong-ve-binh-iran-tuyen-bo-se-trung-tri-israel-4779922.html) - 04:16 10/08/2024
 - 🌁 [Máy bay chở ông Trump phải chuyển hướng vì gặp sự cố](https://vnexpress.net/may-bay-cho-ong-trump-phai-chuyen-huong-vi-gap-su-co-4779904.html) - 03:52 10/08/2024
