@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Quang Anh, Đức Phúc khoe vũ đạo trong &#39;Anh trai say hi&#39;](https://vnexpress.net/quang-anh-duc-phuc-khoe-vu-dao-trong-anh-trai-say-hi-4780169.html) - 05:13 11/08/2024
-- 💫 [Danh thủ Hồng Sơn diễn xiếc ở show &#39;Anh trai&#39;](https://vnexpress.net/danh-thu-hong-son-dien-xiec-o-show-anh-trai-4780079.html) - 04:51 11/08/2024
+- 💫 [Danh thủ Hồng Sơn diễn xiếc ở tiết mục hát](https://vnexpress.net/danh-thu-hong-son-dien-xiec-o-tiet-muc-hat-4780079.html) - 04:51 11/08/2024
 - 🌮 [&#39;Thịnh vượng&#39; - mối liên hệ giữa yoga và tiền](https://vnexpress.net/thinh-vuong-moi-lien-he-giua-yoga-va-tien-4779077.html) - 04:22 11/08/2024
 - 🧠 [Celine Dion phản ứng ông Donald Trump vì &#39;dùng nhạc không xin phép&#39;](https://vnexpress.net/celine-dion-phan-ung-ong-donald-trump-vi-dung-nhac-khong-xin-phep-4780140.html) - 03:55 11/08/2024
 - 👨‍🏫 [Chân dung người Triều Tiên qua ống kính nhiếp ảnh gia Pháp](https://vnexpress.net/chan-dung-nguoi-trieu-tien-qua-ong-kinh-nhiep-anh-gia-phap-4775029.html) - 03:07 11/08/2024
