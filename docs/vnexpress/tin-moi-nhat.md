@@ -58,5 +58,4 @@ sidebar_position: 9
 - 🔥 [Tranh cãi cách tính bảng giá đất điều chỉnh ở TP HCM](https://vnexpress.net/tranh-cai-cach-tinh-bang-gia-dat-dieu-chinh-o-tp-hcm-4780719.html) - 12:57 12/08/2024
 - 💄 [Người thân tưởng nhớ 10 năm ngày mất của Robin Williams](https://vnexpress.net/nguoi-than-tuong-nho-10-nam-ngay-mat-cua-robin-williams-4780445.html) - 12:53 12/08/2024
 - 🤡 [Hàng nghìn người dự lễ hội Thánh Mẫu ở điện Huệ Nam](https://vnexpress.net/hang-nghin-nguoi-du-le-hoi-thanh-mau-o-dien-hue-nam-4780608.html) - 12:52 12/08/2024
-- ⛽️ [Taylor Swift thắt chặt an ninh concert tại Anh](https://vnexpress.net/taylor-swift-that-chat-an-ninh-concert-tai-anh-4780527.html) - 12:38 12/08/2024
-- 🚀 [Tiếp tục kiến nghị bỏ giấy chuyển viện](https://vnexpress.net/tiep-tuc-kien-nghi-bo-giay-chuyen-vien-4780515.html) - 12:38 12/08/2024<!-- vnexpress-tin-moi-nhat:END -->
+- ⛽️ [Taylor Swift thắt chặt an ninh concert tại Anh](https://vnexpress.net/taylor-swift-that-chat-an-ninh-concert-tai-anh-4780527.html) - 12:38 12/08/2024<!-- vnexpress-tin-moi-nhat:END -->
