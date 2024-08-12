@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Đài VTC kỷ niệm 20 năm thành lập](https://vnexpress.net/dai-vtc-ky-niem-20-nam-thanh-lap-4780701.html) - 10:34 12/08/2024
 - 🤓 [Sửa mặt đường đèo Prenn cửa ngõ Đà Lạt trong 21 ngày](https://vnexpress.net/deo-prenn-da-lat-4780637.html) - 09:16 12/08/2024
 - ⚗️ [Thủ tướng: Cần sớm làm chủ công nghệ gìn giữ thi hài Chủ tịch Hồ Chí Minh](https://vnexpress.net/thu-tuong-can-som-lam-chu-cong-nghe-gin-giu-thi-hai-chu-tich-ho-chi-minh-4780549.html) - 09:04 12/08/2024
-- 🌊 [Đề xuất siết quy định về giá bán buôn thuốc](https://vnexpress.net/de-xuat-siet-quy-dinh-ve-gia-ban-buon-thuoc-4780526.html) - 07:23 12/08/2024
+- 🌊 [Kiến nghị siết quy định về giá bán buôn thuốc](https://vnexpress.net/kien-nghi-siet-quy-dinh-ve-gia-ban-buon-thuoc-4780526.html) - 07:23 12/08/2024
 - 🎓 [Ông Triệu Thế Hùng thôi làm Chủ tịch UBND tỉnh Hải Dương](https://vnexpress.net/ong-trieu-the-hung-thoi-lam-chu-tich-ubnd-tinh-hai-duong-4780551.html) - 06:11 12/08/2024
 - 🔥 [Hơn 200.000 cây ở TP HCM được kiểm tra, tránh gãy đổ ra sao?](https://vnexpress.net/hon-200-000-cay-o-tp-hcm-duoc-kiem-tra-tranh-gay-do-ra-sao-4780326.html) - 05:00 12/08/2024
 - 🦏 [Nhiều thủy điện lớn đóng cửa xả](https://vnexpress.net/nhieu-thuy-dien-lon-dong-cua-xa-4780438.html) - 04:10 12/08/2024
