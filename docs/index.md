@@ -255,7 +255,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥷 [Trại bò ngàn tỉ mới đưa vào chăn nuôi, dân đã lo lắng](https://nld.com.vn/trai-bo-ngan-ti-moi-dua-vao-chan-nuoi-dan-da-lo-lang-196240812120522014.htm) - 06:48 12/08/2024
 - 🤔 [Vừa thăng hạng, CLB SHB Đà Nẵng chiêu mộ cựu tuyển thủ Lê Quang Hùng](https://nld.com.vn/vua-thang-hang-clb-shb-da-nang-chieu-mo-cuu-tuyen-thu-le-quang-hung-19624081213293915.htm) - 06:43 12/08/2024
 - 🌈 [Hoãn phiên toà xử cựu vụ trưởng chiếm đoạt 80 tỉ đồng của Chủ tịch Tân Hoàng Minh](https://nld.com.vn/hoan-phien-toa-xu-cuu-vu-truong-chiem-doat-80-ti-dong-cua-chu-tich-tan-hoang-minh-196240812125359608.htm) - 06:26 12/08/2024
-- 🔥 [Mì Quảng tỉnh Quảng Nam được vinh danh](https://nld.com.vn/mi-quang-tinh-quang-nam-duoc-vinh-danh-19624081212470753.htm) - 06:10 12/08/2024
+- 🔥 [Mỳ Quảng tỉnh Quảng Nam được vinh danh](https://nld.com.vn/mi-quang-tinh-quang-nam-duoc-vinh-danh-19624081212470753.htm) - 06:10 12/08/2024
 - 🧰 [Miễn nhiệm chức Chủ tịch UBND tỉnh Hải Dương đối với ông Triệu Thế Hùng](https://nld.com.vn/mien-nhiem-chuc-chu-tich-ubnd-tinh-hai-duong-doi-voi-ong-trieu-the-hung-196240812121646041.htm) - 05:57 12/08/2024
 - 🤗 [Nutifood đầu tư vào giáo dục quốc tế](https://nld.com.vn/nutifood-dau-tu-vao-giao-duc-quoc-te-196240812112531859.htm) - 05:48 12/08/2024
 - 🦅 [Agribank được vinh danh 3 giải thưởng Ngân hàng Việt Nam tiêu biểu 2024](https://thitruong.nld.com.vn/agribank-duoc-vinh-danh-3-giai-thuong-ngan-hang-viet-nam-tieu-bieu-2024-196240812111658141.htm) - 05:47 12/08/2024
