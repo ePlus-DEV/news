@@ -4,52 +4,52 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Các VĐV top 3 marathon Olympic đi giày gì?](https://vnexpress.net/cac-vdv-top-3-marathon-olympic-di-giay-gi-4780574.html) - 09:47 12/08/2024
-- 🦩 [8 sự việc gây tranh cãi ở Olympic Paris 2024](https://vnexpress.net/8-su-viec-gay-tranh-cai-o-olympic-paris-2024-4780627.html) - 09:04 12/08/2024
-- 🧰 [Kỷ lục gia marathon trách Sifan Hassan chơi xấu tại Olympic](https://vnexpress.net/ky-luc-gia-marathon-trach-sifan-hassan-choi-xau-tai-olympic-4780634.html) - 08:34 12/08/2024
-- 🤗 [Vì sao các nhà vô địch hay cắn HC vàng Olympic?](https://vnexpress.net/vi-sao-cac-nha-vo-dich-hay-can-hc-vang-olympic-4780588.html) - 07:31 12/08/2024
-- 🥳 [Hassan: &#39;Tôi chỉ là kẻ điên rồ, không phải huyền thoại Olympic&#39;](https://vnexpress.net/hassan-toi-chi-la-ke-dien-ro-khong-phai-huyen-thoai-olympic-4780472.html) - 04:21 12/08/2024
-- 🦣 [Mỹ gửi bằng chứng mới để đòi lại huy chương Olympic 2024](https://vnexpress.net/my-gui-bang-chung-moi-de-doi-lai-huy-chuong-olympic-2024-4780417.html) - 03:30 12/08/2024
-- 🌜 [Sinner, Zverev thua sớm ở Canada Mở rộng](https://vnexpress.net/sinner-zverev-thua-som-o-canada-mo-rong-4780434.html) - 03:00 12/08/2024
-- 🫶 [VĐV Mỹ được trao HC vàng Olympic sau 12 năm](https://vnexpress.net/vdv-my-duoc-trao-hc-vang-olympic-sau-12-nam-4780410.html) - 02:13 12/08/2024
-- 🌜 [Diễn viên Ngọc Thanh Tâm hoàn thành 10km tại Nha Trang 2024](https://vnexpress.net/dien-vien-ngoc-thanh-tam-hoan-thanh-10km-tai-nha-trang-2024-4780213.html) - 02:01 12/08/2024
-- 😺 [VnExpress Marathon Nha Trang 2024 trao hơn 100 giải thưởng](https://vnexpress.net/vnexpress-marathon-nha-trang-2024-trao-hon-100-giai-thuong-4780276.html) - 01:49 12/08/2024
-- 👍 [Runner đi thi marathon Olympic khi đang chuẩn bị hôn lễ](https://vnexpress.net/runner-di-thi-marathon-olympic-khi-dang-chuan-bi-hon-le-4780360.html) - 00:53 12/08/2024
-- 🐵 [Olympic 2024 bế mạc](https://vnexpress.net/olympic-2024-be-mac-4780336.html) - 23:37 11/08/2024
-- 💫 [Mourinho nhận thẻ vàng chỉ sau 20 phút ra mắt giải Thổ Nhĩ Kỳ](https://vnexpress.net/mourinho-nhan-the-vang-chi-sau-20-phut-ra-mat-giai-tho-nhi-ky-4780342.html) - 23:11 11/08/2024
-- 🦆 [Chelsea chi hơn 200 triệu USD mua cầu thủ từ đầu hè](https://vnexpress.net/chelsea-chi-hon-200-trieu-usd-mua-cau-thu-tu-dau-he-4780337.html) - 22:59 11/08/2024
-- 🙉 [Mỹ vượt Trung Quốc vào phút chót ở Olympic 2024](https://vnexpress.net/my-vuot-trung-quoc-vao-phut-chot-o-olympic-2024-4780312.html) - 15:08 11/08/2024
-- 📝 [Nữ lực sĩ Trung Quốc bế HLV mừng thay vì nâng tạ lần cuối](https://vnexpress.net/nu-luc-si-trung-quoc-be-hlv-mung-thay-vi-nang-ta-lan-cuoi-4780302.html) - 12:52 11/08/2024
-- 💯 [Tuyển Việt Nam đá giải tam hùng với Thái Lan và Nga](https://vnexpress.net/tuyen-viet-nam-da-giai-tam-hung-voi-thai-lan-va-nga-4780294.html) - 11:57 11/08/2024
-- 🌈 [VĐV Mỹ buộc phải trả lại huy chương Olympic 2024](https://vnexpress.net/vdv-my-buoc-phai-tra-lai-huy-chuong-olympic-2024-4780277.html) - 11:48 11/08/2024
-- 🦩 [Triệu Tiến Luyện: &#39;Vô địch VM Nha Trang nhờ thích nghi thời tiết tốt&#39;](https://vnexpress.net/trieu-tien-luyen-vo-dich-vm-nha-trang-nho-thich-nghi-thoi-tiet-tot-4780256.html) - 09:41 11/08/2024
-- 🐲 [Kane từ chối nâng Cup trên sân của Tottenham](https://vnexpress.net/kane-tu-choi-nang-cup-tren-san-cua-tottenham-4780162.html) - 09:11 11/08/2024
-- 🌁 [Sifan Hassan phá kỷ lục marathon Olympic](https://vnexpress.net/sifan-hassan-pha-ky-luc-marathon-olympic-4780142.html) - 08:50 11/08/2024
-- 💯 [Runner Kenya giành HC vàng 1.500m ba kỳ Olympic liên tiếp](https://vnexpress.net/runner-kenya-gianh-hc-vang-1-500m-ba-ky-olympic-lien-tiep-4780253.html) - 08:38 11/08/2024
-- 🌝 [Võ sĩ thứ hai gây tranh cãi giới tính giành HC vàng Olympic 2024](https://vnexpress.net/vo-si-thu-hai-gay-tranh-cai-gioi-tinh-gianh-hc-vang-olympic-2024-4780243.html) - 08:26 11/08/2024
-- 🤖 [Báo Indonesia: &#39;Việt Nam áp đảo SEA Games, nhưng trắng tay ở Olympic&#39;](https://vnexpress.net/bao-indonesia-viet-nam-ap-dao-sea-games-nhung-trang-tay-o-olympic-4780145.html) - 08:12 11/08/2024
-- 🕯 [Ông Đoàn Ngọc Hải: &#39;Chạy bộ là thú vui tuổi trung niên&#39;](https://vnexpress.net/ong-doan-ngoc-hai-chay-bo-la-thu-vui-tuoi-trung-nien-4780185.html) - 07:39 11/08/2024
-- 🧰 [Lydia Ko đoạt HC vàng golf đơn nữ Olympic 2024](https://vnexpress.net/lydia-ko-doat-hc-vang-golf-don-nu-olympic-2024-4780209.html) - 05:05 11/08/2024
-- 🥳 [Tòa án đề nghị tước huy chương của VĐV Mỹ tại Olympic 2024](https://vnexpress.net/toa-an-de-nghi-tuoc-huy-chuong-cua-vdv-my-tai-olympic-2024-4780175.html) - 04:52 11/08/2024
-- 👍 [Kipchoge: &#39;Bỏ cuộc ở Olympic cũng tệ như võ sĩ bị knock-out&#39;](https://vnexpress.net/kipchoge-bo-cuoc-o-olympic-cung-te-nhu-vo-si-bi-knock-out-4780192.html) - 04:33 11/08/2024
-- 💪 [Ingebrigtsen lần đầu giành HC vàng 5.000m Olympic](https://vnexpress.net/ingebrigtsen-lan-dau-gianh-hc-vang-5-000m-olympic-4780184.html) - 03:44 11/08/2024
-- 👹 [Ten Hag: &#39;Thua Man City là động lực cho mùa giải mới thành công&#39;](https://vnexpress.net/ten-hag-thua-man-city-la-dong-luc-cho-mua-giai-moi-thanh-cong-4780151.html) - 02:28 11/08/2024
-- 🧰 [Sifan Hassan mất ngủ trước khi thi marathon Olympic 2024](https://vnexpress.net/sifan-hassan-mat-ngu-truoc-khi-thi-marathon-olympic-2024-4780144.html) - 02:07 11/08/2024
-- 🚀 [Trung Quốc vượt Mỹ trước ngày cuối Olympic 2024](https://vnexpress.net/trung-quoc-vuot-my-truoc-ngay-cuoi-olympic-2024-4780126.html) - 01:41 11/08/2024
-- 🎃 [Dụng cụ làm mát đặc biệt của VĐV marathon Olympic 2024](https://vnexpress.net/dung-cu-lam-mat-dac-biet-cua-vdv-marathon-olympic-2024-4780081.html) - 01:39 11/08/2024
-- 🧰 [Guardiola: &#39;Man City đã ở gần thất bại trước Man Utd&#39;](https://vnexpress.net/guardiola-man-city-da-o-gan-that-bai-truoc-man-utd-4780135.html) - 01:31 11/08/2024
-- 👀 [Từ cây lao tự chế đến vô địch Olympic 2024](https://vnexpress.net/tu-cay-lao-tu-che-den-vo-dich-olympic-2024-4780053.html) - 22:00 10/08/2024
-- 🌜 [Trung Quốc đoạt trọn bộ HC vàng bóng bàn, nhảy cầu Olympic 2024](https://vnexpress.net/trung-quoc-doat-tron-bo-hc-vang-bong-ban-nhay-cau-olympic-2024-4780101.html) - 21:34 10/08/2024
-- 🫶 [Hồng Lệ, Triệu Tiến Luyện vô địch VM Nha Trang 2024](https://vnexpress.net/hong-le-trieu-tien-luyen-vo-dich-vm-nha-trang-2024-4779989-tong-thuat.html) - 19:38 10/08/2024
-- 🦄 [Man Utd mua cùng lúc hai hậu vệ Bayern](https://vnexpress.net/man-utd-mua-cung-luc-hai-hau-ve-bayern-4780080.html) - 13:56 10/08/2024
-- 🥳 [Man City hạ Man Utd bằng loạt luân lưu Siêu Cup Anh](https://vnexpress.net/man-city-vs-man-utd-4780078-tong-thuat.html) - 13:25 10/08/2024
-- 🐲 [Người mẫu Lê Thúy tham dự VnExpress Marathon Nha Trang](https://vnexpress.net/nguoi-mau-le-thuy-tham-du-vnexpress-marathon-nha-trang-4780059.html) - 12:03 10/08/2024
-- 🧑‍🏫 [Bóng hồng khuấy động VnExpress Marathon Nha Trang](https://vnexpress.net/bong-hong-khuay-dong-vnexpress-marathon-nha-trang-4779997.html) - 10:22 10/08/2024
-- 🤔 [CEO GAM Esports thử thách 21km tại VM Nha Trang](https://vnexpress.net/ceo-gam-esports-thu-thach-21km-tai-vm-nha-trang-4780006.html) - 09:39 10/08/2024
-- 😺 [Henry: &#39;Pháp có hành trình kỳ diệu tại Olympic Paris 2024&#39;](https://vnexpress.net/henry-phap-co-hanh-trinh-ky-dieu-tai-olympic-paris-2024-4780035.html) - 09:33 10/08/2024
-- 💪 [Tamirat Tola lập kỷ lục marathon Olympic](https://vnexpress.net/tamirat-tola-lap-ky-luc-marathon-olympic-4780009.html) - 08:18 10/08/2024
-- 💼 [Những điểm yêu thích của Kun Marathon trong mắt runner nhí và phụ huynh](https://vnexpress.net/nhung-diem-yeu-thich-cua-kun-marathon-trong-mat-runner-nhi-va-phu-huynh-4780000.html) - 08:17 10/08/2024
-- 🕴 [Man City - Man Utd: Phá dớp ở Siêu Cup Anh?](https://vnexpress.net/man-city-man-utd-pha-dop-o-sieu-cup-anh-4779992.html) - 07:26 10/08/2024
+- 🪜 [Giải PGA Tour chưa hạ màn dù đã có nhà vô địch](https://vnexpress.net/giai-pga-tour-chua-ha-man-du-da-co-nha-vo-dich-4780714.html) - 11:29 12/08/2024
+- 🦩 [Các VĐV top 3 marathon Olympic đi giày gì?](https://vnexpress.net/cac-vdv-top-3-marathon-olympic-di-giay-gi-4780574.html) - 09:47 12/08/2024
+- 🧰 [8 sự việc gây tranh cãi ở Olympic Paris 2024](https://vnexpress.net/8-su-viec-gay-tranh-cai-o-olympic-paris-2024-4780627.html) - 09:04 12/08/2024
+- 🤗 [Kỷ lục gia marathon trách Sifan Hassan chơi xấu tại Olympic](https://vnexpress.net/ky-luc-gia-marathon-trach-sifan-hassan-choi-xau-tai-olympic-4780634.html) - 08:34 12/08/2024
+- 🥳 [Vì sao các nhà vô địch hay cắn HC vàng Olympic?](https://vnexpress.net/vi-sao-cac-nha-vo-dich-hay-can-hc-vang-olympic-4780588.html) - 07:31 12/08/2024
+- 🦣 [Hassan: &#39;Tôi chỉ là kẻ điên rồ, không phải huyền thoại Olympic&#39;](https://vnexpress.net/hassan-toi-chi-la-ke-dien-ro-khong-phai-huyen-thoai-olympic-4780472.html) - 04:21 12/08/2024
+- 🌜 [Mỹ gửi bằng chứng mới để đòi lại huy chương Olympic 2024](https://vnexpress.net/my-gui-bang-chung-moi-de-doi-lai-huy-chuong-olympic-2024-4780417.html) - 03:30 12/08/2024
+- 🫶 [Sinner, Zverev thua sớm ở Canada Mở rộng](https://vnexpress.net/sinner-zverev-thua-som-o-canada-mo-rong-4780434.html) - 03:00 12/08/2024
+- 🌜 [VĐV Mỹ được trao HC vàng Olympic sau 12 năm](https://vnexpress.net/vdv-my-duoc-trao-hc-vang-olympic-sau-12-nam-4780410.html) - 02:13 12/08/2024
+- 😺 [Diễn viên Ngọc Thanh Tâm hoàn thành 10km tại Nha Trang 2024](https://vnexpress.net/dien-vien-ngoc-thanh-tam-hoan-thanh-10km-tai-nha-trang-2024-4780213.html) - 02:01 12/08/2024
+- 👍 [VnExpress Marathon Nha Trang 2024 trao hơn 100 giải thưởng](https://vnexpress.net/vnexpress-marathon-nha-trang-2024-trao-hon-100-giai-thuong-4780276.html) - 01:49 12/08/2024
+- 🐵 [Runner đi thi marathon Olympic khi đang chuẩn bị hôn lễ](https://vnexpress.net/runner-di-thi-marathon-olympic-khi-dang-chuan-bi-hon-le-4780360.html) - 00:53 12/08/2024
+- 💫 [Olympic 2024 bế mạc](https://vnexpress.net/olympic-2024-be-mac-4780336.html) - 23:37 11/08/2024
+- 🦆 [Mourinho nhận thẻ vàng chỉ sau 20 phút ra mắt giải Thổ Nhĩ Kỳ](https://vnexpress.net/mourinho-nhan-the-vang-chi-sau-20-phut-ra-mat-giai-tho-nhi-ky-4780342.html) - 23:11 11/08/2024
+- 🙉 [Chelsea chi hơn 200 triệu USD mua cầu thủ từ đầu hè](https://vnexpress.net/chelsea-chi-hon-200-trieu-usd-mua-cau-thu-tu-dau-he-4780337.html) - 22:59 11/08/2024
+- 📝 [Mỹ vượt Trung Quốc vào phút chót ở Olympic 2024](https://vnexpress.net/my-vuot-trung-quoc-vao-phut-chot-o-olympic-2024-4780312.html) - 15:08 11/08/2024
+- 💯 [Nữ lực sĩ Trung Quốc bế HLV mừng thay vì nâng tạ lần cuối](https://vnexpress.net/nu-luc-si-trung-quoc-be-hlv-mung-thay-vi-nang-ta-lan-cuoi-4780302.html) - 12:52 11/08/2024
+- 🌈 [Tuyển Việt Nam đá giải tam hùng với Thái Lan và Nga](https://vnexpress.net/tuyen-viet-nam-da-giai-tam-hung-voi-thai-lan-va-nga-4780294.html) - 11:57 11/08/2024
+- 🦩 [VĐV Mỹ buộc phải trả lại huy chương Olympic 2024](https://vnexpress.net/vdv-my-buoc-phai-tra-lai-huy-chuong-olympic-2024-4780277.html) - 11:48 11/08/2024
+- 🐲 [Triệu Tiến Luyện: &#39;Vô địch VM Nha Trang nhờ thích nghi thời tiết tốt&#39;](https://vnexpress.net/trieu-tien-luyen-vo-dich-vm-nha-trang-nho-thich-nghi-thoi-tiet-tot-4780256.html) - 09:41 11/08/2024
+- 🌁 [Kane từ chối nâng Cup trên sân của Tottenham](https://vnexpress.net/kane-tu-choi-nang-cup-tren-san-cua-tottenham-4780162.html) - 09:11 11/08/2024
+- 💯 [Sifan Hassan phá kỷ lục marathon Olympic](https://vnexpress.net/sifan-hassan-pha-ky-luc-marathon-olympic-4780142.html) - 08:50 11/08/2024
+- 🌝 [Runner Kenya giành HC vàng 1.500m ba kỳ Olympic liên tiếp](https://vnexpress.net/runner-kenya-gianh-hc-vang-1-500m-ba-ky-olympic-lien-tiep-4780253.html) - 08:38 11/08/2024
+- 🤖 [Võ sĩ thứ hai gây tranh cãi giới tính giành HC vàng Olympic 2024](https://vnexpress.net/vo-si-thu-hai-gay-tranh-cai-gioi-tinh-gianh-hc-vang-olympic-2024-4780243.html) - 08:26 11/08/2024
+- 🕯 [Báo Indonesia: &#39;Việt Nam áp đảo SEA Games, nhưng trắng tay ở Olympic&#39;](https://vnexpress.net/bao-indonesia-viet-nam-ap-dao-sea-games-nhung-trang-tay-o-olympic-4780145.html) - 08:12 11/08/2024
+- 🧰 [Ông Đoàn Ngọc Hải: &#39;Chạy bộ là thú vui tuổi trung niên&#39;](https://vnexpress.net/ong-doan-ngoc-hai-chay-bo-la-thu-vui-tuoi-trung-nien-4780185.html) - 07:39 11/08/2024
+- 🥳 [Lydia Ko đoạt HC vàng golf đơn nữ Olympic 2024](https://vnexpress.net/lydia-ko-doat-hc-vang-golf-don-nu-olympic-2024-4780209.html) - 05:05 11/08/2024
+- 👍 [Tòa án đề nghị tước huy chương của VĐV Mỹ tại Olympic 2024](https://vnexpress.net/toa-an-de-nghi-tuoc-huy-chuong-cua-vdv-my-tai-olympic-2024-4780175.html) - 04:52 11/08/2024
+- 💪 [Kipchoge: &#39;Bỏ cuộc ở Olympic cũng tệ như võ sĩ bị knock-out&#39;](https://vnexpress.net/kipchoge-bo-cuoc-o-olympic-cung-te-nhu-vo-si-bi-knock-out-4780192.html) - 04:33 11/08/2024
+- 👹 [Ingebrigtsen lần đầu giành HC vàng 5.000m Olympic](https://vnexpress.net/ingebrigtsen-lan-dau-gianh-hc-vang-5-000m-olympic-4780184.html) - 03:44 11/08/2024
+- 🧰 [Ten Hag: &#39;Thua Man City là động lực cho mùa giải mới thành công&#39;](https://vnexpress.net/ten-hag-thua-man-city-la-dong-luc-cho-mua-giai-moi-thanh-cong-4780151.html) - 02:28 11/08/2024
+- 🚀 [Sifan Hassan mất ngủ trước khi thi marathon Olympic 2024](https://vnexpress.net/sifan-hassan-mat-ngu-truoc-khi-thi-marathon-olympic-2024-4780144.html) - 02:07 11/08/2024
+- 🎃 [Trung Quốc vượt Mỹ trước ngày cuối Olympic 2024](https://vnexpress.net/trung-quoc-vuot-my-truoc-ngay-cuoi-olympic-2024-4780126.html) - 01:41 11/08/2024
+- 🧰 [Dụng cụ làm mát đặc biệt của VĐV marathon Olympic 2024](https://vnexpress.net/dung-cu-lam-mat-dac-biet-cua-vdv-marathon-olympic-2024-4780081.html) - 01:39 11/08/2024
+- 👀 [Guardiola: &#39;Man City đã ở gần thất bại trước Man Utd&#39;](https://vnexpress.net/guardiola-man-city-da-o-gan-that-bai-truoc-man-utd-4780135.html) - 01:31 11/08/2024
+- 🌜 [Từ cây lao tự chế đến vô địch Olympic 2024](https://vnexpress.net/tu-cay-lao-tu-che-den-vo-dich-olympic-2024-4780053.html) - 22:00 10/08/2024
+- 🫶 [Trung Quốc đoạt trọn bộ HC vàng bóng bàn, nhảy cầu Olympic 2024](https://vnexpress.net/trung-quoc-doat-tron-bo-hc-vang-bong-ban-nhay-cau-olympic-2024-4780101.html) - 21:34 10/08/2024
+- 🦄 [Hồng Lệ, Triệu Tiến Luyện vô địch VM Nha Trang 2024](https://vnexpress.net/hong-le-trieu-tien-luyen-vo-dich-vm-nha-trang-2024-4779989-tong-thuat.html) - 19:38 10/08/2024
+- 🥳 [Man Utd mua cùng lúc hai hậu vệ Bayern](https://vnexpress.net/man-utd-mua-cung-luc-hai-hau-ve-bayern-4780080.html) - 13:56 10/08/2024
+- 🐲 [Man City hạ Man Utd bằng loạt luân lưu Siêu Cup Anh](https://vnexpress.net/man-city-vs-man-utd-4780078-tong-thuat.html) - 13:25 10/08/2024
+- 🧑‍🏫 [Người mẫu Lê Thúy tham dự VnExpress Marathon Nha Trang](https://vnexpress.net/nguoi-mau-le-thuy-tham-du-vnexpress-marathon-nha-trang-4780059.html) - 12:03 10/08/2024
+- 🤔 [Bóng hồng khuấy động VnExpress Marathon Nha Trang](https://vnexpress.net/bong-hong-khuay-dong-vnexpress-marathon-nha-trang-4779997.html) - 10:22 10/08/2024
+- 😺 [CEO GAM Esports thử thách 21km tại VM Nha Trang](https://vnexpress.net/ceo-gam-esports-thu-thach-21km-tai-vm-nha-trang-4780006.html) - 09:39 10/08/2024
+- 💪 [Henry: &#39;Pháp có hành trình kỳ diệu tại Olympic Paris 2024&#39;](https://vnexpress.net/henry-phap-co-hanh-trinh-ky-dieu-tai-olympic-paris-2024-4780035.html) - 09:33 10/08/2024
+- 💼 [Tamirat Tola lập kỷ lục marathon Olympic](https://vnexpress.net/tamirat-tola-lap-ky-luc-marathon-olympic-4780009.html) - 08:18 10/08/2024
+- 🕴 [Những điểm yêu thích của Kun Marathon trong mắt runner nhí và phụ huynh](https://vnexpress.net/nhung-diem-yeu-thich-cua-kun-marathon-trong-mat-runner-nhi-va-phu-huynh-4780000.html) - 08:17 10/08/2024
 - 🕯 [VĐV Hà Lan bị chỉ trích với hành vi thiếu tôn trọng nhất Olympic 2024](https://vnexpress.net/vdv-ha-lan-bi-chi-trich-voi-hanh-vi-thieu-ton-trong-nhat-olympic-2024-4779987.html) - 06:56 10/08/2024
 - 📝 [HLV lo Tây Ban Nha tự mãn sau cú đúp Euro và Olympic](https://vnexpress.net/hlv-lo-tay-ban-nha-tu-man-sau-cu-dup-euro-va-olympic-4779919.html) - 06:52 10/08/2024
 - 🧐 [Kipchoge bỏ cuộc tại Olympic Paris 2024](https://vnexpress.net/kipchoge-bo-cuoc-tai-olympic-paris-2024-4779971.html) - 06:02 10/08/2024
