@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Hàng nghìn người dự lễ hội Thánh Mẫu điện Huệ Nam](https://vnexpress.net/hang-nghin-nguoi-du-le-hoi-thanh-mau-dien-hue-nam-4780608.html) - 12:52 12/08/2024
+- 💂 [Hàng nghìn người dự lễ hội Thánh Mẫu ở điện Huệ Nam](https://vnexpress.net/hang-nghin-nguoi-du-le-hoi-thanh-mau-o-dien-hue-nam-4780608.html) - 12:52 12/08/2024
 - 🪄 [Phở Nam Định, Hà Nội và mì Quảng được công nhận di sản quốc gia](https://vnexpress.net/pho-nam-dinh-ha-noi-va-mi-quang-duoc-cong-nhan-di-san-quoc-gia-4780632.html) - 12:19 12/08/2024
 - 🦅 [&#39;Hướng dẫn viên&#39; Voi vui vẻ đón khách trên chuyến bay Vietjet](https://vnexpress.net/huong-dan-vien-voi-vui-ve-don-khach-tren-chuyen-bay-vietjet-4780677.html) - 11:30 12/08/2024
 - 🕴 [Vietjet báo thông tin chuyến bay qua Zalo, WhatsApp](https://vnexpress.net/vietjet-bao-thong-tin-chuyen-bay-qua-zalo-whatsapp-4780640.html) - 09:15 12/08/2024
