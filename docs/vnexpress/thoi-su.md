@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Đài VTC tròn 20 tuổi](https://vnexpress.net/dai-vtc-tron-20-tuoi-4780701.html) - 10:34 12/08/2024
+- 🦒 [Đài VTC kỷ niệm 20 năm thành lập](https://vnexpress.net/dai-vtc-ky-niem-20-nam-thanh-lap-4780701.html) - 10:34 12/08/2024
 - 🤓 [Sửa mặt đường đèo Prenn cửa ngõ Đà Lạt trong 21 ngày](https://vnexpress.net/deo-prenn-da-lat-4780637.html) - 09:16 12/08/2024
 - ⚗️ [Thủ tướng: Cần sớm làm chủ công nghệ gìn giữ thi hài Chủ tịch Hồ Chí Minh](https://vnexpress.net/thu-tuong-can-som-lam-chu-cong-nghe-gin-giu-thi-hai-chu-tich-ho-chi-minh-4780549.html) - 09:04 12/08/2024
 - 🌊 [Đề xuất siết quy định về giá bán buôn thuốc](https://vnexpress.net/de-xuat-siet-quy-dinh-ve-gia-ban-buon-thuoc-4780526.html) - 07:23 12/08/2024
