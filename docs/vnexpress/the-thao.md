@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [FIFA cấm CLB Khánh Hòa đăng ký cầu thủ](https://vnexpress.net/fifa-cam-clb-khanh-hoa-dang-ky-cau-thu-4781095.html) - 09:50 13/08/2024
+- 🪜 [FIFA cấm CLB Khánh Hòa mua cầu thủ](https://vnexpress.net/fifa-cam-clb-khanh-hoa-mua-cau-thu-4781095.html) - 09:50 13/08/2024
 - 🦩 [LIV Golf League phạt nặng thành viên dính doping](https://vnexpress.net/liv-golf-league-phat-nang-thanh-vien-dinh-doping-4780980.html) - 07:11 13/08/2024
 - 🧰 [Mỹ nhân điền kinh Trung Quốc tự chấm điểm 0 khi thi đấu Olympic](https://vnexpress.net/my-nhan-dien-kinh-trung-quoc-tu-cham-diem-0-khi-thi-dau-olympic-4780878.html) - 05:27 13/08/2024
 - 🤗 [Runner Anh được triệu tập giờ chót, giành 2 huy chương Olympic](https://vnexpress.net/runner-anh-duoc-trieu-tap-gio-chot-gianh-2-huy-chuong-olympic-4780888.html) - 04:46 13/08/2024
