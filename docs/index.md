@@ -74,7 +74,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧑‍🏫 [Biến chứng són tiểu](https://vnexpress.net/bien-chung-son-tieu-4780989.html) - 08:00 13/08/2024
 - 🎓 [Ba bước vệ sinh ôtô toàn diện](https://vnexpress.net/ba-buoc-ve-sinh-oto-toan-dien-4780835.html) - 08:00 13/08/2024
 - 💫 [Bất động sản Vân Đồn hưởng lợi từ tăng trưởng du lịch](https://vnexpress.net/bat-dong-san-van-don-huong-loi-tu-tang-truong-du-lich-4780683.html) - 08:00 13/08/2024
-- 🤩 [Shopee, TikTok Shop chiếm hơn 90% thị phần bán lẻ online](https://vnexpress.net/shopee-tiktok-shop-chiem-hon-90-thi-phan-ban-le-online-4780874.html) - 07:51 13/08/2024<!-- vnexpress:END -->
+- 🤩 [Shopee, TikTok Shop chiếm hơn 90% thị phần bán lẻ online](https://vnexpress.net/shopee-tiktok-shop-chiem-hon-90-thi-phan-ban-le-online-4780874.html) - 07:51 13/08/2024
+- 🏊 [Nữ sinh đa tài đỗ học bổng toàn phần Đại học Thanh Hoa](https://vnexpress.net/nu-sinh-da-tai-do-hoc-bong-toan-phan-dai-hoc-thanh-hoa-4780623.html) - 07:51 13/08/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
