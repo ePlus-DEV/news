@@ -251,7 +251,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [CLIP: Công an mai phục bắt nghi phạm hiếp dâm cô gái 24 tuổi](https://nld.com.vn/clip-cong-an-mai-phuc-bat-nghi-pham-hiep-dam-co-gai-24-tuoi-196240813140016445.htm) - 07:16 13/08/2024
+- 🐎 [CLIP: Công an mật phục bắt nghi phạm hiếp dâm cô gái 24 tuổi](https://nld.com.vn/clip-cong-an-mai-phuc-bat-nghi-pham-hiep-dam-co-gai-24-tuoi-196240813140016445.htm) - 07:16 13/08/2024
 - 😺 [Có 500 triệu đồng, gửi tiết kiệm 12 tháng ngân hàng nào lãi cao nhất?](https://nld.com.vn/co-500-trieu-dong-gui-tiet-kiem-12-thang-ngan-hang-nao-lai-cao-nhat-196240813133850503.htm) - 07:09 13/08/2024
 - 👍 [Những điểm du lịch được nhiều người tìm kiếm nhất dịp lễ 2-9 sắp tới](https://nld.com.vn/nhung-diem-du-lich-duoc-nhieu-nguoi-tim-kiem-nhat-dip-le-2-9-sap-toi-19624081312525169.htm) - 07:00 13/08/2024
 - 🥷 [“Siêu hội Thành viên LazMall” mang loạt ưu đãi đặc quyền](https://phunu.nld.com.vn/sieu-hoi-thanh-vien-lazmall-mang-loat-uu-dai-dac-quyen-196240813134845484.htm) - 06:59 13/08/2024
