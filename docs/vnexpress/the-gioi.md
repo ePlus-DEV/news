@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Elon Musk muốn tham gia chính quyền Trump](https://vnexpress.net/elon-musk-muon-tham-gia-chinh-quyen-trump-4780851.html) - 03:21 13/08/2024
+- 🎭 [Elon Musk phỏng vấn Trump](https://vnexpress.net/elon-musk-phong-van-trump-4780851.html) - 03:21 13/08/2024
 - 🕴 [Khoảnh khắc lính Nga hạ drone Ukraine bằng một phát AK](https://vnexpress.net/khoanh-khac-linh-nga-ha-drone-ukraine-bang-mot-phat-ak-4780794.html) - 03:17 13/08/2024
 - 🤭 [Hàn Quốc triển khai chó phát hiện rệp hậu Olympic Paris](https://vnexpress.net/han-quoc-trien-khai-cho-phat-hien-rep-hau-olympic-paris-4780798.html) - 03:07 13/08/2024
 - 🧑‍💻 [Cảnh hoang tàn ở thị trấn biên giới Nga khi Ukraine tấn công](https://vnexpress.net/canh-hoang-tan-o-thi-tran-bien-gioi-nga-khi-ukraine-tan-cong-4780782.html) - 03:01 13/08/2024
