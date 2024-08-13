@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Ông Vương Tấn Việt không có tên trong danh sách dự thi cấp 3](https://vnexpress.net/ong-vuong-tan-viet-khong-co-ten-trong-danh-sach-du-thi-cap-3-4780913.html) - 06:17 13/08/2024
 - 🤓 [Cháy khu nhà người nước ngoài thuê ở Thảo Điền](https://vnexpress.net/chay-khu-nha-nguoi-nuoc-ngoai-thue-o-thao-dien-4780948.html) - 05:34 13/08/2024
 - ⚗️ [Cầu Hiền Lương 70 năm sau hiệp định Geneve](https://vnexpress.net/cau-hien-luong-70-nam-sau-hiep-dinh-geneve-4772937.html) - 05:03 13/08/2024
-- 🌊 [Sạt lở trên quốc lộ qua Cao Bằng, Sơn La](https://vnexpress.net/sat-lo-tren-quoc-lo-qua-cao-bang-son-la-4780848.html) - 04:12 13/08/2024
+- 🌊 [Sạt lở quốc lộ qua Cao Bằng, Sơn La](https://vnexpress.net/sat-lo-quoc-lo-qua-cao-bang-son-la-4780848.html) - 04:12 13/08/2024
 - 🎓 [Bà Trịnh Thị Minh Thanh điều hành Tỉnh ủy Quảng Ninh](https://vnexpress.net/ba-trinh-thi-minh-thanh-dieu-hanh-tinh-uy-quang-ninh-4780774.html) - 01:27 13/08/2024
 - 🔥 [Tài xế bất an qua dốc &#39;tử thần&#39; cầu Phú Mỹ](https://vnexpress.net/tai-xe-bat-an-qua-doc-tu-than-cau-phu-my-4780728.html) - 22:00 12/08/2024
 - 🦏 [Nơi chăm sóc, cứu hộ động vật lớn nhất miền Trung](https://vnexpress.net/noi-cham-soc-cuu-ho-dong-vat-lon-nhat-mien-trung-4780049.html) - 21:00 12/08/2024
