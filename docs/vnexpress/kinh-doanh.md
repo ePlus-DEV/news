@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Thủ tướng: Vận hành đường dây 500 kV mạch 3 dịp Quốc khánh](https://vnexpress.net/thu-tuong-van-hanh-duong-day-500-kv-mach-3-dip-quoc-khanh-4781143.html) - 13:40 13/08/2024
+- ⛽️ [Thủ tướng yêu cầu vận hành đường dây 500 kV mạch 3 dịp Quốc khánh](https://vnexpress.net/thu-tuong-yeu-cau-van-hanh-duong-day-500-kv-mach-3-dip-quoc-khanh-4781143.html) - 13:40 13/08/2024
 - 🐲 [HDBank nhận giải thưởng tài chính xanh](https://vnexpress.net/hdbank-nhan-giai-thuong-tai-chinh-xanh-4781058.html) - 12:00 13/08/2024
 - 🔥 [Điện mặt trời mái nhà tự sản, tự tiêu có thể được nới &#39;room&#39;](https://vnexpress.net/dien-mat-troi-mai-nha-tu-san-tu-tieu-co-the-duoc-noi-room-4781044.html) - 10:13 13/08/2024
 - 🐵 [Ngừng giao dịch chứng khoán online nếu không cập nhật CCCD](https://vnexpress.net/ngung-giao-dich-chung-khoan-online-neu-khong-cap-nhat-cccd-4781061.html) - 09:25 13/08/2024
