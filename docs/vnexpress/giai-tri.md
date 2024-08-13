@@ -10,7 +10,7 @@ sidebar_position: 5
 - 🧠 [Taylor Swift thắt chặt an ninh concert tại Anh](https://vnexpress.net/taylor-swift-that-chat-an-ninh-concert-tai-anh-4780527.html) - 12:38 12/08/2024
 - 👨‍🏫 [Sắc vóc &#39;nữ thần thể dục nhịp điệu Nga&#39; gây sốt](https://vnexpress.net/sac-voc-nu-than-the-duc-nhip-dieu-nga-gay-sot-4780667.html) - 11:00 12/08/2024
 - ⚗️ [&#39;Chặng cuối&#39; - giá trị của lòng bao dung](https://vnexpress.net/chang-cuoi-gia-tri-cua-long-bao-dung-4778730.html) - 10:20 12/08/2024
-- 😎 [Phim &#39;Bằng chứng thép&#39; 6 gây thất vọng](https://vnexpress.net/phim-bang-chung-thep-6-gay-that-vong-4780567.html) - 09:27 12/08/2024
+- 😎 [Phim &#39;Bằng chứng thép 6&#39; gây thất vọng](https://vnexpress.net/phim-bang-chung-thep-6-gay-that-vong-4780567.html) - 09:27 12/08/2024
 - 🫣 [Tri thức may, mặc áo dài Huế là di sản văn hóa phi vật thể quốc gia](https://vnexpress.net/tri-thuc-may-mac-ao-dai-hue-la-di-san-van-hoa-phi-vat-the-quoc-gia-4780585.html) - 09:10 12/08/2024
 - 🪄 [Tường San và dàn thí sinh Hoa hậu Chuyển giới ra mắt](https://vnexpress.net/tuong-san-va-dan-thi-sinh-hoa-hau-chuyen-gioi-ra-mat-4780500.html) - 08:56 12/08/2024
 - 🤓 [Chung Hân Đồng diện váy của NTK Việt](https://vnexpress.net/chung-han-dong-dien-vay-cua-ntk-viet-4780615.html) - 08:44 12/08/2024
