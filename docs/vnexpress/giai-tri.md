@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Jeff Bezos nghỉ dưỡng cùng Leonardo DiCaprio, Katy Perry](https://vnexpress.net/jeff-bezos-nghi-duong-cung-leonardo-dicaprio-katy-perry-4780788.html) - 04:27 13/08/2024
+- 🌏 [Jeff Bezos nghỉ dưỡng cùng Leonardo DiCaprio](https://vnexpress.net/jeff-bezos-nghi-duong-cung-leonardo-dicaprio-4780788.html) - 04:27 13/08/2024
 - 💫 [Adele diện váy &#39;Biển đêm&#39; của Công Trí](https://vnexpress.net/adele-dien-vay-bien-dem-cua-cong-tri-4780882.html) - 04:21 13/08/2024
 - 🌮 [H&#39;Hen Niê thu hoạch trái cây, rau củ ở quê nhà](https://vnexpress.net/h-hen-nie-thu-hoach-trai-cay-rau-cu-o-que-nha-4779710.html) - 03:36 13/08/2024
 - 🧠 [Lisa: &#39;Blackpink không tan rã&#39;](https://vnexpress.net/lisa-blackpink-khong-tan-ra-4780809.html) - 03:28 13/08/2024
