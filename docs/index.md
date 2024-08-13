@@ -237,19 +237,19 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - ⛽️ [Thay khớp vai bán phần cho bệnh nhân hoại tử ở Cần Thơ](https://laodong.vn/y-te/thay-khop-vai-ban-phan-cho-benh-nhan-hoai-tu-o-can-tho-1380139.ldo) - 12:05 13/08/2024
 - 💫 [Nhịp Showbiz: Mai Phương Thúy hâm mộ HIEUTHUHAI?](https://laodong.vn/van-hoa-giai-tri/nhip-showbiz-mai-phuong-thuy-ham-mo-hieuthuhai-1380117.ldo) - 12:01 13/08/2024
 - 🥸 [Quy định việc phê duyệt xã hoàn thành Chương trình 135](https://laodong.vn/ban-doc/quy-dinh-viec-phe-duyet-xa-hoan-thanh-chuong-trinh-135-1380053.ldo) - 12:00 13/08/2024
-- 🐻 [Khách Việt quan tâm điểm du lịch nào nhất dịp nghỉ lễ 2.9?](https://laodong.vn/van-hoa-giai-tri/khach-viet-quan-tam-diem-du-lich-nao-nhat-dip-nghi-le-29-1380072.ldo) - 12:00 13/08/2024
-- 🪄 [Bóng chuyền Việt Nam ngày 13.8: Bích Tuyền lọt top 10 thế giới](https://laodong.vn/the-thao/bong-chuyen-viet-nam-ngay-138-bich-tuyen-lot-top-10-the-gioi-1380051.ldo) - 12:00 13/08/2024
-- 🧑‍🏫 [Nóng Sài Gòn: Xác minh bằng cấp 3 của ông Thích Chân Quang](https://laodong.vn/video-xa-hoi/nong-sai-gon-xac-minh-bang-cap-3-cua-ong-thich-chan-quang-1379933.ldo) - 12:00 13/08/2024
-- 🌊 [Thế giới 24h: Phát hiện mới gây sửng sốt trên sao Hỏa](https://laodong.vn/podcast-tin-tuc/the-gioi-24h-phat-hien-moi-gay-sung-sot-tren-sao-hoa-1380017.ldo) - 12:00 13/08/2024
-- 💻 [Kiến nghị xử lý dứt điểm vụ 20 năm đi đòi bồi thường đất](https://laodong.vn/video/kien-nghi-xu-ly-dut-diem-vu-20-nam-di-doi-boi-thuong-dat-1379768.ldo) - 12:00 13/08/2024
-- 👨‍🏫 [Tiếp tục tổ chức Lễ viếng tại Lăng Chủ tịch Hồ Chí Minh](https://laodong.vn/thoi-su/tiep-tuc-to-chuc-le-vieng-tai-lang-chu-tich-ho-chi-minh-1380150.ldo) - 11:57 13/08/2024
-- 🌈 [Giải vô địch Golf Quốc gia 2024 nâng cao độ khó cho các golfer](https://laodong.vn/golf/giai-vo-dich-golf-quoc-gia-2024-nang-cao-do-kho-cho-cac-golfer-1380137.ldo) - 11:52 13/08/2024
-- 🐲 [Vớt thi thể người đàn ông bị đuối nước trên hồ Xuân Hương](https://laodong.vn/phap-luat/vot-thi-the-nguoi-dan-ong-bi-duoi-nuoc-tren-ho-xuan-huong-1380149.ldo) - 11:51 13/08/2024
-- 🚀 [Các “ông lớn” ngành hóa chất làm ăn ra sao nửa đầu năm?](https://laodong.vn/kinh-doanh/cac-ong-lon-nganh-hoa-chat-lam-an-ra-sao-nua-dau-nam-1380136.ldo) - 11:50 13/08/2024
-- 😺 [Dự báo thời tiết 10 ngày tới từ 13.8 đến 23.8 ở cả ba miền](https://laodong.vn/moi-truong/du-bao-thoi-tiet-10-ngay-toi-tu-138-den-238-o-ca-ba-mien-1380031.ldo) - 11:50 13/08/2024
-- 🕴 [Tổng Bí thư, Chủ tịch nước: Văn kiện là ngọn đuốc soi đường cho chúng ta đi](https://laodong.vn/thoi-su/tong-bi-thu-chu-tich-nuoc-van-kien-la-ngon-duoc-soi-duong-cho-chung-ta-di-1380127.ldo) - 11:48 13/08/2024
-- 🌋 [Chân đường Vành đai 2 chi chít hình vẽ bậy](https://laodong.vn/photo/chan-duong-vanh-dai-2-chi-chit-hinh-ve-bay-1379498.ldo) - 11:26 13/08/2024
-- 💄 [Khởi tố Phó Hiệu trưởng Trường Trung cấp nghề Hưng Đô, Thanh Hóa](https://laodong.vn/phap-luat/khoi-to-pho-hieu-truong-truong-trung-cap-nghe-hung-do-thanh-hoa-1380118.ldo) - 11:18 13/08/2024<!-- laodong:END -->
+- 🐻 [Thế giới 24h: Phát hiện mới gây sửng sốt trên sao Hỏa](https://laodong.vn/podcast-tin-tuc/the-gioi-24h-phat-hien-moi-gay-sung-sot-tren-sao-hoa-1380017.ldo) - 12:00 13/08/2024
+- 🪄 [Kiến nghị xử lý dứt điểm vụ 20 năm đi đòi bồi thường đất](https://laodong.vn/video/kien-nghi-xu-ly-dut-diem-vu-20-nam-di-doi-boi-thuong-dat-1379768.ldo) - 12:00 13/08/2024
+- 🧑‍🏫 [Khách Việt quan tâm điểm du lịch nào nhất dịp nghỉ lễ 2.9?](https://laodong.vn/van-hoa-giai-tri/khach-viet-quan-tam-diem-du-lich-nao-nhat-dip-nghi-le-29-1380072.ldo) - 12:00 13/08/2024
+- 🌊 [Hưởng ứng ngày Vệ sinh yêu nước nâng cao sức khỏe Nhân dân](https://laodong.vn/xa-hoi/huong-ung-ngay-ve-sinh-yeu-nuoc-nang-cao-suc-khoe-nhan-dan-1380093.ldo) - 12:00 13/08/2024
+- 💻 [Bóng chuyền Việt Nam ngày 13.8: Bích Tuyền lọt top 10 thế giới](https://laodong.vn/the-thao/bong-chuyen-viet-nam-ngay-138-bich-tuyen-lot-top-10-the-gioi-1380051.ldo) - 12:00 13/08/2024
+- 👨‍🏫 [Nóng Sài Gòn: Xác minh bằng cấp 3 của ông Thích Chân Quang](https://laodong.vn/video-xa-hoi/nong-sai-gon-xac-minh-bang-cap-3-cua-ong-thich-chan-quang-1379933.ldo) - 12:00 13/08/2024
+- 🌈 [Tiếp tục tổ chức Lễ viếng tại Lăng Chủ tịch Hồ Chí Minh](https://laodong.vn/thoi-su/tiep-tuc-to-chuc-le-vieng-tai-lang-chu-tich-ho-chi-minh-1380150.ldo) - 11:57 13/08/2024
+- 🐲 [Giải vô địch Golf Quốc gia 2024 nâng cao độ khó cho các golfer](https://laodong.vn/golf/giai-vo-dich-golf-quoc-gia-2024-nang-cao-do-kho-cho-cac-golfer-1380137.ldo) - 11:52 13/08/2024
+- 🚀 [Vớt thi thể người đàn ông bị đuối nước trên hồ Xuân Hương](https://laodong.vn/phap-luat/vot-thi-the-nguoi-dan-ong-bi-duoi-nuoc-tren-ho-xuan-huong-1380149.ldo) - 11:51 13/08/2024
+- 😺 [Các “ông lớn” ngành hóa chất làm ăn ra sao nửa đầu năm?](https://laodong.vn/kinh-doanh/cac-ong-lon-nganh-hoa-chat-lam-an-ra-sao-nua-dau-nam-1380136.ldo) - 11:50 13/08/2024
+- 🕴 [Dự báo thời tiết 10 ngày tới từ 13.8 đến 23.8 ở cả ba miền](https://laodong.vn/moi-truong/du-bao-thoi-tiet-10-ngay-toi-tu-138-den-238-o-ca-ba-mien-1380031.ldo) - 11:50 13/08/2024
+- 🌋 [Tổng Bí thư, Chủ tịch nước: Văn kiện là ngọn đuốc soi đường cho chúng ta đi](https://laodong.vn/thoi-su/tong-bi-thu-chu-tich-nuoc-van-kien-la-ngon-duoc-soi-duong-cho-chung-ta-di-1380127.ldo) - 11:48 13/08/2024
+- 💄 [Chân đường Vành đai 2 chi chít hình vẽ bậy](https://laodong.vn/photo/chan-duong-vanh-dai-2-chi-chit-hinh-ve-bay-1379498.ldo) - 11:26 13/08/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
