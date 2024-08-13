@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Cho thôi nhiệm vụ đại biểu Quốc hội với ông Đặng Quốc Khánh và Chẩu Văn Lâm](https://vnexpress.net/cho-thoi-nhiem-vu-dai-bieu-quoc-hoi-voi-ong-dang-quoc-khanh-va-chau-van-lam-4780950.html) - 11:07 13/08/2024
-- 🤓 [Phó thủ tướng Lê Minh Khái và loạt cán bộ bị kỷ luật](https://vnexpress.net/pho-thu-tuong-le-minh-khai-va-loat-can-bo-bi-ky-luat-4781112.html) - 10:31 13/08/2024
+- 🤓 [Phó thủ tướng Lê Minh Khái và nhiều cán bộ bị kỷ luật](https://vnexpress.net/pho-thu-tuong-le-minh-khai-va-nhieu-can-bo-bi-ky-luat-4781112.html) - 10:31 13/08/2024
 - ⚗️ [Hai ôtô lao xuống ao sau va chạm](https://vnexpress.net/hai-oto-lao-xuong-ao-sau-va-cham-4781111.html) - 10:15 13/08/2024
 - 🌊 [Đôi nam nữ gặp nạn khi đi xem sao băng](https://vnexpress.net/doi-nam-nu-gap-nan-khi-di-xem-sao-bang-4781068.html) - 09:24 13/08/2024
 - 🎓 [Ông Vương Tấn Việt có bằng tiến sĩ khi chưa tốt nghiệp cấp 3](https://vnexpress.net/ong-vuong-tan-viet-co-bang-tien-si-khi-chua-tot-nghiep-cap-3-4780913.html) - 06:17 13/08/2024
