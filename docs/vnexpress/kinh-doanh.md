@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [&#39;Nông dân sẽ bị thiệt nếu áp thuế VAT 5% với phân bón&#39;](https://vnexpress.net/nong-dan-se-bi-thiet-neu-ap-thue-vat-5-voi-phan-bon-4781394.html) - 07:27 14/08/2024
+- ⛽️ [&#39;Nông dân có thể thiệt nếu áp thuế VAT 5% với phân bón&#39;](https://vnexpress.net/nong-dan-co-the-thiet-neu-ap-thue-vat-5-voi-phan-bon-4781394.html) - 07:27 14/08/2024
 - 🐲 [VinaCapital: &#39;Việt Nam là thị trường ưu tiên trong khu vực&#39;](https://vnexpress.net/vinacapital-viet-nam-la-thi-truong-uu-tien-trong-khu-vuc-4781136.html) - 07:00 14/08/2024
 - 🔥 [Vinamilk 12 năm liền vào Top 50 công ty niêm yết tốt nhất](https://vnexpress.net/vinamilk-12-nam-lien-vao-top-50-cong-ty-niem-yet-tot-nhat-4781348.html) - 06:00 14/08/2024
 - 🐵 [Người Hàn Quốc dồn tiền mua chứng khoán Mỹ](https://vnexpress.net/nguoi-han-quoc-don-tien-mua-chung-khoan-my-4781311.html) - 05:43 14/08/2024
