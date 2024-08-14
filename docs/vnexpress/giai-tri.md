@@ -8,7 +8,7 @@ sidebar_position: 5
 - 💫 [Loạt chi tiết ẩn trong &#39;Deadpool &amp;amp; Wolverine&#39;](https://vnexpress.net/loat-chi-tiet-an-trong-deadpool-wolverine-4780571.html) - 17:00 13/08/2024
 - 🌮 [8 món đồ dành cho người chuộng vintage](https://vnexpress.net/8-mon-do-danh-cho-nguoi-chuong-vintage-4777959.html) - 13:15 13/08/2024
 - 🧠 [&#39;7 năm chưa cưới sẽ chia tay&#39; đạt một tỷ lượt xem](https://vnexpress.net/7-nam-chua-cuoi-se-chia-tay-dat-mot-ty-luot-xem-4781132.html) - 12:00 13/08/2024
-- 👨‍🏫 [Ngọc Châu sốc khi mẹ qua đời vì tai nạn giao thông](https://vnexpress.net/ngoc-chau-soc-khi-me-qua-doi-vi-tai-nan-giao-thong-4781076.html) - 10:02 13/08/2024
+- 👨‍🏫 [Mẹ hoa hậu Ngọc Châu qua đời vì tai nạn giao thông](https://vnexpress.net/me-hoa-hau-ngoc-chau-qua-doi-vi-tai-nan-giao-thong-4781076.html) - 10:02 13/08/2024
 - ⚗️ [Những ngày cuối đời của &#39;võ sư điển trai nhất Thiếu Lâm Tự&#39;](https://vnexpress.net/nhung-ngay-cuoi-doi-cua-vo-su-dien-trai-nhat-thieu-lam-tu-4780829.html) - 09:35 13/08/2024
 - 😎 [Angelina Jolie lần đầu xuất hiện sau tai nạn của Pax Thiên](https://vnexpress.net/angelina-jolie-lan-dau-xuat-hien-sau-tai-nan-cua-pax-thien-4780841.html) - 07:38 13/08/2024
 - 🫣 [S.T Sơn Thạch - từ vũ công ballet đến ngôi sao giải trí](https://vnexpress.net/s-t-son-thach-tu-vu-cong-ballet-den-ngoi-sao-giai-tri-4780583.html) - 05:30 13/08/2024
