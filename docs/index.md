@@ -319,7 +319,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- sggp:START -->
 - 🪜 [Camavinga sẽ phải ngồi ngoài tới 7 tuần vì bong gân đầu gối](https://www.sggp.org.vn/camavinga-se-phai-ngoi-ngoai-toi-7-tuan-vi-bong-gan-dau-goi-post754093.html) - 16:11 14/08/2024
 - 🌝 [Chương trình “Trái tim múa 6 – Tìm lại ước mơ”](https://www.sggp.org.vn/chuong-trinh-trai-tim-mua-6-tim-lai-uoc-mo-post754092.html) - 16:01 14/08/2024
-- 💃 [Tổ chức đêm tri ân đoàn đại biểu người có công TPHCM tại tỉnh Quảng Trị](https://www.sggp.org.vn/to-chuc-dem-tri-an-doan-dai-bieu-nguoi-co-cong-tphcm-tai-tinh-quang-tri-post754061.html) - 14:59 14/08/2024
+- 💃 [Đêm tri ân đoàn đại biểu người có công TPHCM tại tỉnh Quảng Trị](https://www.sggp.org.vn/dem-tri-an-doan-dai-bieu-nguoi-co-cong-tphcm-tai-tinh-quang-tri-post754061.html) - 14:59 14/08/2024
 - 🧑‍💻 [Bảng vàng Quỹ Xã hội - Từ thiện Báo SGGP &lpar;từ ngày 7 đến ngày 14-8-2024&rpar;](https://www.sggp.org.vn/bang-vang-quy-xa-hoi-tu-thien-bao-sggp-tu-ngay-7-den-ngay-14-8-2024-post754088.html) - 14:49 14/08/2024
 - 🌊 [Hạ viện Thái Lan ấn định thời điểm bầu thủ tướng mới](https://www.sggp.org.vn/ha-vien-thai-lan-an-dinh-thoi-diem-bau-thu-tuong-moi-post754090.html) - 14:47 14/08/2024
 - 🧑‍💻 [U.11 Biên Hoà vô địch Giải bóng đá nhi đồng Cúp Báo Đồng Nai - C.P. Việt Nam lần thứ 20](https://www.sggp.org.vn/u11-bien-hoa-vo-dich-giai-bong-da-nhi-dong-cup-bao-dong-nai-cp-viet-nam-lan-thu-20-post754071.html) - 14:00 14/08/2024
