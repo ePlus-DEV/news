@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Taylor Swift đãi tiệc nhân viên sau khi hủy show](https://vnexpress.net/taylor-swift-dai-tiec-nhan-vien-sau-khi-huy-show-4781246.html) - 04:45 14/08/2024
-- 💫 [Con trai Thành Long tái xuất](https://vnexpress.net/con-trai-thanh-long-tai-xuat-4781285.html) - 04:27 14/08/2024
+- 💫 [Con trai Thành Long tái xuất sau 10 năm ra tù](https://vnexpress.net/con-trai-thanh-long-tai-xuat-sau-10-nam-ra-tu-4781285.html) - 04:27 14/08/2024
 - 🌮 [Biểu tượng thời trang thập niên 1960 qua đời](https://vnexpress.net/bieu-tuong-thoi-trang-thap-nien-1960-qua-doi-4781266.html) - 04:07 14/08/2024
 - 🧠 [Dàn diễn viên đóng &#39;Kính vạn hoa&#39; phiên bản mới](https://vnexpress.net/dan-dien-vien-dong-kinh-van-hoa-phien-ban-moi-4781075.html) - 19:00 13/08/2024
 - 👨‍🏫 [Loạt chi tiết ẩn trong &#39;Deadpool &amp;amp; Wolverine&#39;](https://vnexpress.net/loat-chi-tiet-an-trong-deadpool-wolverine-4780571.html) - 17:00 13/08/2024
