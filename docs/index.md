@@ -204,46 +204,46 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Tiêu hủy gần 400 con heo mắc bệnh dịch tả heo châu Phi](https://laodong.vn/xa-hoi/tieu-huy-gan-400-con-heo-mac-benh-dich-ta-heo-chau-phi-1380465.ldo) - 11:50 14/08/2024
-- 📝 [Tiếp sức thu gom hàng trăm tấn rác ứ đọng ở Lâm Đồng](https://laodong.vn/xa-hoi/tiep-suc-thu-gom-hang-tram-tan-rac-u-dong-o-lam-dong-1380457.ldo) - 11:47 14/08/2024
-- 🦏 [63.458 người học lái xe khẩn trương liên hệ Bộ Công an](https://laodong.vn/phap-luat/63458-nguoi-hoc-lai-xe-khan-truong-lien-he-bo-cong-an-1380412.ldo) - 11:42 14/08/2024
-- 🦩 [Chỉnh lý dự thảo luật phòng cháy chữa cháy](https://laodong.vn/thoi-su/chinh-ly-du-thao-luat-phong-chay-chua-chay-1380376.ldo) - 11:41 14/08/2024
-- 🦏 [Công đoàn Thanh Hóa và tỉnh Hủa Phăn chia sẻ kinh nghiệm](https://laodong.vn/ldld-thanh-hoa/cong-doan-thanh-hoa-va-tinh-hua-phan-chia-se-kinh-nghiem-1380443.ldo) - 11:40 14/08/2024
-- 🧰 [Không để lãng phí điện mặt trời mái nhà tự sản tự tiêu](https://laodong.vn/ban-doc/khong-de-lang-phi-dien-mat-troi-mai-nha-tu-san-tu-tieu-1379895.ldo) - 11:30 14/08/2024
-- 🌊 [Lịch cúp điện ở Bà Rịa - Vũng Tàu ngày mai 15.8](https://laodong.vn/ban-doc/lich-cup-dien-o-ba-ria-vung-tau-ngay-mai-158-1380436.ldo) - 11:29 14/08/2024
-- 🔥 [“Ma cà rồng” Suzy tái hợp Kim Seon Ho sau 4 năm](https://laodong.vn/van-hoa-giai-tri/ma-ca-rong-suzy-tai-hop-kim-seon-ho-sau-4-nam-1380440.ldo) - 11:28 14/08/2024
-- 🦒 [Thủ tướng kỷ luật nguyên Phó Chủ tịch tỉnh Bình Dương](https://laodong.vn/thoi-su/thu-tuong-ky-luat-nguyen-pho-chu-tich-tinh-binh-duong-1380454.ldo) - 11:22 14/08/2024
-- 💼 [Chủ tịch Vĩnh Phúc thăm các gia đình nạn nhân bị lũ cuốn](https://laodong.vn/xa-hoi/chu-tich-vinh-phuc-tham-cac-gia-dinh-nan-nhan-bi-lu-cuon-1380451.ldo) - 11:19 14/08/2024
-- 🤖 [Nghệ An tổng kết phong trào thi đua Kỳ thi tốt nghiệp THPT](https://laodong.vn/giao-duc/nghe-an-tong-ket-phong-trao-thi-dua-ky-thi-tot-nghiep-thpt-1380447.ldo) - 11:11 14/08/2024
-- 💪 [Hơn 500 người Đà Nẵng diễu hành áo dài ở cầu Nguyễn Văn Trỗi](https://laodong.vn/van-hoa-giai-tri/hon-500-nguoi-da-nang-dieu-hanh-ao-dai-o-cau-nguyen-van-troi-1380452.ldo) - 11:08 14/08/2024
-- 👍 [Thêm bé trai 5 tuổi tử vong trong vụ sập tường ở Vĩnh Phúc](https://laodong.vn/xa-hoi/them-be-trai-5-tuoi-tu-vong-trong-vu-sap-tuong-o-vinh-phuc-1380453.ldo) - 11:06 14/08/2024
-- 💂 [Cách trồng hẹ xanh tươi tại nhà đơn giản, hiệu quả](https://laodong.vn/gia-dinh-hon-nhan/cach-trong-he-xanh-tuoi-tai-nha-don-gian-hieu-qua-1379907.ldo) - 11:00 14/08/2024
-- 🧰 [7 lợi ích sức khỏe từ trái cây sấy khô](https://laodong.vn/suc-khoe/7-loi-ich-suc-khoe-tu-trai-cay-say-kho-1379755.ldo) - 11:00 14/08/2024
-- 🥷 [Sôi nổi thi đua, đẩy mạnh chăm lo đoàn viên, người lao động](https://laodong.vn/cong-doan/soi-noi-thi-dua-day-manh-cham-lo-doan-vien-nguoi-lao-dong-1380185.ldo) - 11:00 14/08/2024
-- 💫 [Bẻ đũa lúc nhậu, người đàn ông bị đâm tử vong](https://laodong.vn/phap-luat/be-dua-luc-nhau-nguoi-dan-ong-bi-dam-tu-vong-1380445.ldo) - 10:22 14/08/2024
-- 🎭 [Nơi lo sợ nhất khi dòng khí đốt Nga bị ngắt đột ngột](https://laodong.vn/the-gioi/noi-lo-so-nhat-khi-dong-khi-dot-nga-bi-ngat-dot-ngot-1380249.ldo) - 10:20 14/08/2024
-- 😎 [Kim Soo Hyun, Kim Hye Yoon và loạt sao sẽ nhận giải thưởng tại 2024 K-Expo](https://laodong.vn/giai-tri/kim-soo-hyun-kim-hye-yoon-va-loat-sao-se-nhan-giai-thuong-tai-2024-k-expo-1380155.ldo) - 10:18 14/08/2024
-- 💄 [Thể thao Việt Nam chọn môn trọng điểm hoặc tuyển thủ trọng điểm](https://laodong.vn/the-thao/the-thao-viet-nam-chon-mon-trong-diem-hoac-tuyen-thu-trong-diem-1380425.ldo) - 10:15 14/08/2024
-- 🫣 [119 tác phẩm vào Chung khảo Giải báo chí toàn quốc “Vì sự nghiệp phát triển văn hóa, thể thao và du lịch”](https://laodong.vn/van-hoa/119-tac-pham-vao-chung-khao-giai-bao-chi-toan-quoc-vi-su-nghiep-phat-trien-van-hoa-the-thao-va-du-lich-1380438.ldo) - 10:06 14/08/2024
-- 🧑‍🏫 [GELEX đạt cú đúp giải thưởng tại HR Asia Awards 2024](https://laodong.vn/thong-tin-doanh-nghiep/gelex-dat-cu-dup-giai-thuong-tai-hr-asia-awards-2024-1380398.ldo) - 10:00 14/08/2024
-- 🦣 [Giám sát tiến độ các dự án trọng điểm ở Quảng Trị](https://laodong.vn/xa-hoi/giam-sat-tien-do-cac-du-an-trong-diem-o-quang-tri-1378743.ldo) - 10:00 14/08/2024
-- 💫 [Hợp long cầu bắc qua sông Gianh tuyến cao tốc Bắc - Nam](https://laodong.vn/xa-hoi/hop-long-cau-bac-qua-song-gianh-tuyen-cao-toc-bac-nam-1380439.ldo) - 09:33 14/08/2024
-- ⛽️ [Món quà yêu thương](https://laodong.vn/tam-long-vang/mon-qua-yeu-thuong-1380411.ldo) - 09:00 14/08/2024
-- 💫 [Mẹo bảo quản bánh Trung thu tránh hỏng và mốc](https://laodong.vn/dinh-duong-am-thuc/meo-bao-quan-banh-trung-thu-tranh-hong-va-moc-1378805.ldo) - 09:00 14/08/2024
-- 🥸 [Thể thao Việt Nam cần học cách tiến từng bước](https://laodong.vn/the-thao/the-thao-viet-nam-can-hoc-cach-tien-tung-buoc-1379336.ldo) - 09:00 14/08/2024
-- 🐻 [Xây dựng Tràng An thành trung tâm của Đô thị di sản](https://laodong.vn/van-hoa-giai-tri/xay-dung-trang-an-thanh-trung-tam-cua-do-thi-di-san-1379404.ldo) - 09:00 14/08/2024
-- 🪄 [Hạ Long sẽ tổ chức trên 30 lễ hội hàng năm](https://laodong.vn/xa-hoi/ha-long-se-to-chuc-tren-30-le-hoi-hang-nam-1379873.ldo) - 09:00 14/08/2024
-- 🧑‍🏫 [Lí do Jung Hae In rung động với Jung So Min](https://laodong.vn/van-hoa-giai-tri/li-do-jung-hae-in-rung-dong-voi-jung-so-min-1380431.ldo) - 08:08 14/08/2024
-- 🌊 [Lisa nói gì về tương lai với Blackpink?](https://laodong.vn/van-hoa-giai-tri/lisa-noi-gi-ve-tuong-lai-voi-blackpink-1380250.ldo) - 08:06 14/08/2024
-- 💻 [Trao giải cuộc thi Cán bộ Công đoàn giỏi năm 2024](https://laodong.vn/ldld-tuyen-quang/trao-giai-cuoc-thi-can-bo-cong-doan-gioi-nam-2024-1380405.ldo) - 08:04 14/08/2024
-- 👨‍🏫 [Danh tính chàng trai bị &quot;ghét&quot; trong show hẹn hò](https://laodong.vn/gia-dinh-hon-nhan/danh-tinh-chang-trai-bi-ghet-trong-show-hen-ho-1380433.ldo) - 08:00 14/08/2024
-- 🌈 [Xe máy số bền bỉ, tiết kiệm xăng cho người lao động](https://laodong.vn/xu-huong-xe/xe-may-so-ben-bi-tiet-kiem-xang-cho-nguoi-lao-dong-1380099.ldo) - 08:00 14/08/2024
-- 🐲 [Chúng tôi đã trưởng thành từ Báo Lao Động](https://laodong.vn/lao-dong-cuoi-tuan/chung-toi-da-truong-thanh-tu-bao-lao-dong-1378143.ldo) - 08:00 14/08/2024
-- 🚀 [Thế giới ca ngợi cách mạng thanh toán số tại Việt Nam](https://laodong.vn/the-gioi/the-gioi-ca-ngoi-cach-mang-thanh-toan-so-tai-viet-nam-1378397.ldo) - 08:00 14/08/2024
-- 😺 [Kỳ vọng đất nền bước vào chu kỳ tăng giá mới](https://laodong.vn/bat-dong-san/ky-vong-dat-nen-buoc-vao-chu-ky-tang-gia-moi-1378844.ldo) - 08:00 14/08/2024
-- 🕴 [Người dân khu tái định cư mua từng chút nước để xây nhà](https://laodong.vn/xa-hoi/nguoi-dan-khu-tai-dinh-cu-mua-tung-chut-nuoc-de-xay-nha-1379040.ldo) - 08:00 14/08/2024
-- 🌋 [Nhà Mái ấm Công đoàn giúp nhiều đoàn viên vượt khó](https://laodong.vn/cong-doan/nha-mai-am-cong-doan-giup-nhieu-doan-vien-vuot-kho-1379129.ldo) - 08:00 14/08/2024
-- 💄 [Doanh nghiệp chờ thêm &quot;bệ phóng&quot; cho chuyển đổi xanh](https://laodong.vn/video/doanh-nghiep-cho-them-be-phong-cho-chuyen-doi-xanh-1379275.ldo) - 08:00 14/08/2024<!-- laodong:END -->
+- 🗽 [Bản tin dự báo thời tiết đêm nay và ngày mai 15.8](https://laodong.vn/video-xa-hoi/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-158-1379925.ldo) - 12:30 14/08/2024
+- 📝 [Cập nhật giá vàng hôm nay, vàng nhẫn, vàng SJC 14.8.2024](https://laodong.vn/infographic/cap-nhat-gia-vang-hom-nay-vang-nhan-vang-sjc-1482024-1380446.ldo) - 12:28 14/08/2024
+- 🦏 [Xây dựng thủ đô Hà Nội thành Thành phố học tập suốt đời](https://laodong.vn/giao-duc/xay-dung-thu-do-ha-noi-thanh-thanh-pho-hoc-tap-suot-doi-1380442.ldo) - 12:17 14/08/2024
+- 🦩 [Lãi suất Agribank, BIDV, Vietcombank, VietinBank 14.8.2024](https://laodong.vn/ban-tin/lai-suat-agribank-bidv-vietcombank-vietinbank-1482024-1380455.ldo) - 12:09 14/08/2024
+- 🦏 [Tòa án Hiến pháp Thái Lan phán quyết phế truất Thủ tướng Srettha Thavisin](https://laodong.vn/the-gioi/toa-an-hien-phap-thai-lan-phan-quyet-phe-truat-thu-tuong-srettha-thavisin-1380467.ldo) - 12:08 14/08/2024
+- 🧰 [Đưa thêm các loại thuốc điều trị ung thư vào danh mục BHYT](https://laodong.vn/suc-khoe/dua-them-cac-loai-thuoc-dieu-tri-ung-thu-vao-danh-muc-bhyt-1380456.ldo) - 12:07 14/08/2024
+- 🌊 [Tiếp tục hoàn thiện chính sách về lao động, tiền lương](https://laodong.vn/thoi-su/tiep-tuc-hoan-thien-chinh-sach-ve-lao-dong-tien-luong-1380386.ldo) - 12:03 14/08/2024
+- 🔥 [Thi hành kỷ luật 47 cán bộ diện Trung ương quản lý](https://laodong.vn/thoi-su/thi-hanh-ky-luat-47-can-bo-dien-trung-uong-quan-ly-1380459.ldo) - 12:01 14/08/2024
+- 🦒 [Thêm trường y thông báo lịch công bố điểm chuẩn](https://laodong.vn/giao-duc/them-truong-y-thong-bao-lich-cong-bo-diem-chuan-1380014.ldo) - 12:00 14/08/2024
+- 💼 [Nỗ lực giải bài toán thu hút thí sinh học ngành khoa học cơ bản](https://laodong.vn/giao-duc/no-luc-giai-bai-toan-thu-hut-thi-sinh-hoc-nganh-khoa-hoc-co-ban-1380181.ldo) - 12:00 14/08/2024
+- 🤖 [CSGT Bình Định ra quân truy quét &quot;ma men&quot; bất kể ngày đêm](https://laodong.vn/video-xa-hoi/csgt-binh-dinh-ra-quan-truy-quet-ma-men-bat-ke-ngay-dem-1379408.ldo) - 12:00 14/08/2024
+- 💪 [Khám phá nơi những ấn phẩm Báo Lao Động ra đời](https://laodong.vn/photo/kham-pha-noi-nhung-an-pham-bao-lao-dong-ra-doi-1379549.ldo) - 12:00 14/08/2024
+- 👍 [Khởi tố đối tượng hủy hoại rừng tự nhiên](https://laodong.vn/phap-luat/khoi-to-doi-tuong-huy-hoai-rung-tu-nhien-1380464.ldo) - 11:58 14/08/2024
+- 💂 [Tiêu hủy gần 400 con heo mắc bệnh dịch tả heo châu Phi](https://laodong.vn/xa-hoi/tieu-huy-gan-400-con-heo-mac-benh-dich-ta-heo-chau-phi-1380465.ldo) - 11:50 14/08/2024
+- 🧰 [Tiếp sức thu gom hàng trăm tấn rác ứ đọng ở Lâm Đồng](https://laodong.vn/xa-hoi/tiep-suc-thu-gom-hang-tram-tan-rac-u-dong-o-lam-dong-1380457.ldo) - 11:47 14/08/2024
+- 🥷 [63.458 người học lái xe khẩn trương liên hệ Bộ Công an](https://laodong.vn/phap-luat/63458-nguoi-hoc-lai-xe-khan-truong-lien-he-bo-cong-an-1380412.ldo) - 11:42 14/08/2024
+- 💫 [Chỉnh lý dự thảo luật phòng cháy chữa cháy](https://laodong.vn/thoi-su/chinh-ly-du-thao-luat-phong-chay-chua-chay-1380376.ldo) - 11:41 14/08/2024
+- 🎭 [Công đoàn Thanh Hóa và tỉnh Hủa Phăn chia sẻ kinh nghiệm](https://laodong.vn/ldld-thanh-hoa/cong-doan-thanh-hoa-va-tinh-hua-phan-chia-se-kinh-nghiem-1380443.ldo) - 11:40 14/08/2024
+- 😎 [Không để lãng phí điện mặt trời mái nhà tự sản tự tiêu](https://laodong.vn/ban-doc/khong-de-lang-phi-dien-mat-troi-mai-nha-tu-san-tu-tieu-1379895.ldo) - 11:30 14/08/2024
+- 💄 [Lịch cúp điện ở Bà Rịa - Vũng Tàu ngày mai 15.8](https://laodong.vn/ban-doc/lich-cup-dien-o-ba-ria-vung-tau-ngay-mai-158-1380436.ldo) - 11:29 14/08/2024
+- 🫣 [“Ma cà rồng” Suzy tái hợp Kim Seon Ho sau 4 năm](https://laodong.vn/van-hoa-giai-tri/ma-ca-rong-suzy-tai-hop-kim-seon-ho-sau-4-nam-1380440.ldo) - 11:28 14/08/2024
+- 🧑‍🏫 [Thủ tướng kỷ luật nguyên Phó Chủ tịch tỉnh Bình Dương](https://laodong.vn/thoi-su/thu-tuong-ky-luat-nguyen-pho-chu-tich-tinh-binh-duong-1380454.ldo) - 11:22 14/08/2024
+- 🦣 [Chủ tịch Vĩnh Phúc thăm các gia đình nạn nhân bị lũ cuốn](https://laodong.vn/xa-hoi/chu-tich-vinh-phuc-tham-cac-gia-dinh-nan-nhan-bi-lu-cuon-1380451.ldo) - 11:19 14/08/2024
+- 💫 [Nghệ An tổng kết phong trào thi đua Kỳ thi tốt nghiệp THPT](https://laodong.vn/giao-duc/nghe-an-tong-ket-phong-trao-thi-dua-ky-thi-tot-nghiep-thpt-1380447.ldo) - 11:11 14/08/2024
+- ⛽️ [Hơn 500 người Đà Nẵng diễu hành áo dài ở cầu Nguyễn Văn Trỗi](https://laodong.vn/van-hoa-giai-tri/hon-500-nguoi-da-nang-dieu-hanh-ao-dai-o-cau-nguyen-van-troi-1380452.ldo) - 11:08 14/08/2024
+- 💫 [Thêm bé trai 5 tuổi tử vong trong vụ sập tường ở Vĩnh Phúc](https://laodong.vn/xa-hoi/them-be-trai-5-tuoi-tu-vong-trong-vu-sap-tuong-o-vinh-phuc-1380453.ldo) - 11:06 14/08/2024
+- 🥸 [Cách trồng hẹ xanh tươi tại nhà đơn giản, hiệu quả](https://laodong.vn/gia-dinh-hon-nhan/cach-trong-he-xanh-tuoi-tai-nha-don-gian-hieu-qua-1379907.ldo) - 11:00 14/08/2024
+- 🐻 [7 lợi ích sức khỏe từ trái cây sấy khô](https://laodong.vn/suc-khoe/7-loi-ich-suc-khoe-tu-trai-cay-say-kho-1379755.ldo) - 11:00 14/08/2024
+- 🪄 [Sôi nổi thi đua, đẩy mạnh chăm lo đoàn viên, người lao động](https://laodong.vn/cong-doan/soi-noi-thi-dua-day-manh-cham-lo-doan-vien-nguoi-lao-dong-1380185.ldo) - 11:00 14/08/2024
+- 🧑‍🏫 [Bẻ đũa lúc nhậu, người đàn ông bị đâm tử vong](https://laodong.vn/phap-luat/be-dua-luc-nhau-nguoi-dan-ong-bi-dam-tu-vong-1380445.ldo) - 10:22 14/08/2024
+- 🌊 [Nơi lo sợ nhất khi dòng khí đốt Nga bị ngắt đột ngột](https://laodong.vn/the-gioi/noi-lo-so-nhat-khi-dong-khi-dot-nga-bi-ngat-dot-ngot-1380249.ldo) - 10:20 14/08/2024
+- 💻 [Kim Soo Hyun, Kim Hye Yoon và loạt sao sẽ nhận giải thưởng tại 2024 K-Expo](https://laodong.vn/giai-tri/kim-soo-hyun-kim-hye-yoon-va-loat-sao-se-nhan-giai-thuong-tai-2024-k-expo-1380155.ldo) - 10:18 14/08/2024
+- 👨‍🏫 [Thể thao Việt Nam chọn môn trọng điểm hoặc tuyển thủ trọng điểm](https://laodong.vn/the-thao/the-thao-viet-nam-chon-mon-trong-diem-hoac-tuyen-thu-trong-diem-1380425.ldo) - 10:15 14/08/2024
+- 🌈 [119 tác phẩm vào Chung khảo Giải báo chí toàn quốc “Vì sự nghiệp phát triển văn hóa, thể thao và du lịch”](https://laodong.vn/van-hoa/119-tac-pham-vao-chung-khao-giai-bao-chi-toan-quoc-vi-su-nghiep-phat-trien-van-hoa-the-thao-va-du-lich-1380438.ldo) - 10:06 14/08/2024
+- 🐲 [GELEX đạt cú đúp giải thưởng tại HR Asia Awards 2024](https://laodong.vn/thong-tin-doanh-nghiep/gelex-dat-cu-dup-giai-thuong-tai-hr-asia-awards-2024-1380398.ldo) - 10:00 14/08/2024
+- 🚀 [Giám sát tiến độ các dự án trọng điểm ở Quảng Trị](https://laodong.vn/xa-hoi/giam-sat-tien-do-cac-du-an-trong-diem-o-quang-tri-1378743.ldo) - 10:00 14/08/2024
+- 😺 [Hợp long cầu bắc qua sông Gianh tuyến cao tốc Bắc - Nam](https://laodong.vn/xa-hoi/hop-long-cau-bac-qua-song-gianh-tuyen-cao-toc-bac-nam-1380439.ldo) - 09:33 14/08/2024
+- 🕴 [Xây dựng Tràng An thành trung tâm của Đô thị di sản](https://laodong.vn/van-hoa-giai-tri/xay-dung-trang-an-thanh-trung-tam-cua-do-thi-di-san-1379404.ldo) - 09:00 14/08/2024
+- 🌋 [Hạ Long sẽ tổ chức trên 30 lễ hội hàng năm](https://laodong.vn/xa-hoi/ha-long-se-to-chuc-tren-30-le-hoi-hang-nam-1379873.ldo) - 09:00 14/08/2024
+- 💄 [Món quà yêu thương](https://laodong.vn/tam-long-vang/mon-qua-yeu-thuong-1380411.ldo) - 09:00 14/08/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
