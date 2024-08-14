@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [&#39;Cần phương án cứu nạn cho tầng cao chung cư&#39;](https://vnexpress.net/can-phuong-an-cuu-nan-cho-tang-cao-chung-cu-4781279.html) - 05:31 14/08/2024
-- 🤓 [Đường nối hai quốc lộ chưa thông vì vướng 50 m dự án khác](https://vnexpress.net/duong-noi-hai-quoc-lo-chua-thong-vi-vuong-50-m-du-an-khac-4781326.html) - 04:26 14/08/2024
+- 🤓 [Đường nối Bình Dương - TP HCM chưa thông vì vướng 50 m](https://vnexpress.net/duong-noi-binh-duong-tp-hcm-chua-thong-vi-vuong-50-m-4781326.html) - 04:26 14/08/2024
 - ⚗️ [Bộ Quốc phòng, Công an dự kiến chi viện cho các trung tâm đăng kiểm](https://vnexpress.net/bo-quoc-phong-cong-an-du-kien-chi-vien-cho-cac-trung-tam-dang-kiem-4781245.html) - 04:14 14/08/2024
 - 🌊 [Quảng Nam có tân Chủ tịch HĐND tỉnh](https://vnexpress.net/quang-nam-co-tan-chu-tich-hdnd-tinh-4781198.html) - 01:56 14/08/2024
 - 🎓 [Cây gãy nhánh rơi xuống đường ở Hồ Con Rùa](https://vnexpress.net/cay-gay-nhanh-roi-xuong-duong-o-ho-con-rua-4781187.html) - 00:39 14/08/2024
