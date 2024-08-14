@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Người say rượu &#39;dắt nhầm xe máy&#39; kêu oan tội trộm cắp tài sản](https://vnexpress.net/nguoi-say-ruou-dat-nham-xe-may-keu-oan-toi-trom-cap-tai-san-4781462.html) - 13:32 14/08/2024
+- 😎 [Người say rượu &#39;dắt nhầm xe máy&#39;](https://vnexpress.net/nguoi-say-ruou-dat-nham-xe-may-4781462.html) - 13:32 14/08/2024
 - 🥰 [Lừa tiền 48 người muốn sang Hàn Quốc làm việc](https://vnexpress.net/lua-tien-48-nguoi-muon-sang-han-quoc-lam-viec-4781502.html) - 10:35 14/08/2024
 - 🎓 [Đạo chích tẩu tán vàng ăn trộm tại 5 cửa hàng](https://vnexpress.net/dao-chich-tau-tan-vang-an-trom-tai-5-cua-hang-4781494.html) - 10:30 14/08/2024
 - 🤓 [134 sổ tiết kiệm trị giá hơn 1.117 tỷ đồng bị tạm giữ trong vụ Xuyên Việt Oil](https://vnexpress.net/tam-giu-134-so-tiet-kiem-tri-gia-hon-1-117-ty-dong-trong-vu-xuyen-viet-oil-4781471.html) - 09:22 14/08/2024
