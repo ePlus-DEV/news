@@ -4,8 +4,8 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Ăn gừng có nên bỏ vỏ?](https://vnexpress.net/an-gung-co-nen-bo-vo-4780669.html) - 22:00 13/08/2024
-- 🥰 [Bác sĩ sửa lỗi tạo hóa cho bệnh nhân](https://vnexpress.net/bac-si-sua-loi-tao-hoa-cho-benh-nhan-4780163.html) - 22:00 13/08/2024
+- 🔥 [4 trẻ đuối nước nguy kịch do sơ cứu sai cách](https://vnexpress.net/4-tre-duoi-nuoc-nguy-kich-do-so-cuu-sai-cach-4780997.html) - 00:00 14/08/2024
+- 🥰 [Ăn gừng có nên bỏ vỏ?](https://vnexpress.net/an-gung-co-nen-bo-vo-4780669.html) - 22:00 13/08/2024
 - 💡 [Cách chăm sóc giúp da triệu phú Mỹ khỏe như &#39;trẻ 10 tuổi&#39;](https://vnexpress.net/cach-cham-soc-giup-da-trieu-phu-my-khoe-nhu-tre-10-tuoi-4780678.html) - 17:04 13/08/2024
 - 🤗 [Mang song thai bởi phôi tách đôi trong tử cung](https://vnexpress.net/mang-song-thai-boi-phoi-tach-doi-trong-tu-cung-4781005.html) - 12:00 13/08/2024
 - 🪜 [4 rối loạn nhịp tim tiềm ẩn nguy cơ gây đột tử](https://vnexpress.net/4-roi-loan-nhip-tim-tiem-an-nguy-co-gay-dot-tu-4781094.html) - 11:42 13/08/2024
