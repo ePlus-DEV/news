@@ -12,7 +12,7 @@ sidebar_position: 5
 - 🦣 [Cựu HLV tiết lộ mức độ chấn thương của Djokovic](https://vnexpress.net/cuu-hlv-tiet-lo-muc-do-chan-thuong-cua-djokovic-4781288.html) - 03:31 14/08/2024
 - 🌜 [Lê Khánh Hưng thoát cắt loại major golf nghiệp dư Mỹ](https://vnexpress.net/le-khanh-hung-thoat-cat-loai-major-golf-nghiep-du-my-4781233.html) - 02:48 14/08/2024
 - 🫶 [Mourinho trách VAR khi đội nhà bị loại khỏi Champions League](https://vnexpress.net/mourinho-trach-var-khi-doi-nha-bi-loai-khoi-champions-league-4781225.html) - 02:07 14/08/2024
-- 🌜 [Dư luận Nga tranh cãi gay gắt khi đá giao hữu với Việt Nam, Thái Lan](https://vnexpress.net/du-luan-nga-tranh-cai-gay-gat-khi-da-giao-huu-voi-viet-nam-thai-lan-4781172.html) - 23:34 13/08/2024
+- 🌜 [Dư luận Nga tranh cãi khi đội nhà đá giao hữu Việt Nam, Thái Lan](https://vnexpress.net/du-luan-nga-tranh-cai-khi-doi-nha-da-giao-huu-viet-nam-thai-lan-4781172.html) - 23:34 13/08/2024
 - 😺 [Kipchoge: &#39;Giành huy chương không phải điều quan trọng nhất ở Olympic&#39;](https://vnexpress.net/kipchoge-gianh-huy-chuong-khong-phai-dieu-quan-trong-nhat-o-olympic-4781182.html) - 23:33 13/08/2024
 - 👍 [Man Utd công bố De Ligt, Mazraoui](https://vnexpress.net/man-utd-cong-bo-de-ligt-mazraoui-4781179.html) - 23:18 13/08/2024
 - 🐵 [Vì sao Văn Lâm chấp nhận chơi ở giải hạng Nhất?](https://vnexpress.net/vi-sao-van-lam-chap-nhan-choi-o-giai-hang-nhat-4781137.html) - 12:18 13/08/2024
