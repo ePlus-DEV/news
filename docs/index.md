@@ -146,7 +146,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Công an triệt phá đường dây có độ bóng đá hàng chục tỉ đồng ở vùng ven](https://thanhnien.vn/cong-an-triet-pha-duong-day-co-do-bong-da-hang-chuc-ti-dong-o-vung-ven-185240814085436601.htm) - 02:11 14/08/2024
+- 🤠 [Công an triệt phá đường dây cá độ bóng đá hàng chục tỉ đồng ở vùng ven](https://thanhnien.vn/cong-an-triet-pha-duong-day-co-do-bong-da-hang-chuc-ti-dong-o-vung-ven-185240814085436601.htm) - 02:11 14/08/2024
 - 🥸 [&#39;Trẻ hóa&#39; với thời trang thể thao như nữ thần thanh xuân Triệu Kim Mạch](https://thanhnien.vn/thoi-trang-tre/tre-hoa-voi-thoi-trang-the-thao-nhu-nu-than-thanh-xuan-trieu-kim-mach-185240814033250892.htm) - 02:11 14/08/2024
 - 🌁 [Giá xăng dầu hôm nay 14.8.2024: Xăng trong nước ngày mai tăng hay giảm?](https://thanhnien.vn/gia-xang-dau-hom-nay-1482024-xang-trong-nuoc-ngay-mai-tang-hay-giam-185240814084800867.htm) - 02:08 14/08/2024
 - 🤡 [Người đàn ông &#39;bay chui&#39; từ Đức đến Thụy Điển mà không bị phát hiện](https://thanhnien.vn/nguoi-dan-ong-bay-chui-tu-duc-den-thuy-dien-ma-khong-bi-phat-hien-185240814090302121.htm) - 02:06 14/08/2024
