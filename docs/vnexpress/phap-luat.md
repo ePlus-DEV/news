@@ -4,9 +4,9 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Công an xác định không có đồng phạm trong vụ nam sinh lớp 8 bị đánh chết não](https://vnexpress.net/cong-an-xac-dinh-khong-co-dong-pham-trong-vu-nam-sinh-lop-8-bi-danh-chet-nao-4781623.html) - 04:18 15/08/2024
+- 😎 [Không khởi tố thêm đồng phạm trong vụ nam sinh lớp 8 bị đánh chết não](https://vnexpress.net/khong-khoi-to-them-dong-pham-trong-vu-nam-sinh-lop-8-bi-danh-chet-nao-4781623.html) - 04:18 15/08/2024
 - 🥰 [Người say rượu &#39;dắt nhầm xe máy&#39; bị phạt 10 tháng tù](https://vnexpress.net/nguoi-say-ruou-dat-nham-xe-may-bi-phat-10-thang-tu-4781682.html) - 04:17 15/08/2024
-- 🎓 [Người đàn ông ở Đăk Lăk bị cáo buộc &#39;phá hoại chính sách đoàn kết&#39;](https://vnexpress.net/nguoi-dan-ong-o-dak-lak-bi-cao-buoc-pha-hoai-chinh-sach-doan-ket-4781650.html) - 04:11 15/08/2024
+- 🎓 [Người đàn ông bị cáo buộc &#39;phá hoại chính sách đoàn kết&#39;](https://vnexpress.net/nguoi-dan-ong-bi-cao-buoc-pha-hoai-chinh-sach-doan-ket-4781650.html) - 04:11 15/08/2024
 - 🤓 [Tài xế gây tai nạn trên cầu Phú Mỹ bị bắt](https://vnexpress.net/tai-xe-gay-tai-nan-tren-cau-phu-my-bi-bat-4781636.html) - 02:08 15/08/2024
 - 🎊 [Chi cục trưởng thi hành án bị bắt vì &#39;vòi&#39; tiền người dân](https://vnexpress.net/chi-cuc-truong-thi-hanh-an-bi-bat-vi-voi-tien-nguoi-dan-4781577.html) - 00:47 15/08/2024
 - 🙉 [Vụ kiện 15 năm vì một bức tường](https://vnexpress.net/vu-kien-15-nam-vi-mot-buc-tuong-4781551.html) - 17:02 14/08/2024
