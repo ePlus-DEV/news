@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Thủ khoa tốt nghiệp xuất sắc của Nhạc viện Hà Nội](https://vnexpress.net/thu-khoa-tot-nghiep-xuat-sac-cua-nhac-vien-ha-noi-4781545.html) - 23:18 15/08/2024
+- 🤓 [Chàng trai là thủ khoa kép của Nhạc viện Hà Nội](https://vnexpress.net/chang-trai-la-thu-khoa-kep-cua-nhac-vien-ha-noi-4781545.html) - 23:18 15/08/2024
 - 🦆 [Hà Nội có món ăn nào được công nhận là di sản quốc gia?](https://vnexpress.net/ha-noi-co-mon-an-nao-duoc-cong-nhan-la-di-san-quoc-gia-4781930.html) - 13:00 15/08/2024
 - 🦩 [Từ bỏ &#39;giấc mơ Thanh Hoa&#39; sau 16 lần thi đại học](https://vnexpress.net/tu-bo-giac-mo-thanh-hoa-sau-16-lan-thi-dai-hoc-4781721.html) - 11:35 15/08/2024
 - 🌮 [Cấu trúc đề thi đánh giá năng lực Đại học Sư phạm TP HCM từ năm 2025](https://vnexpress.net/cau-truc-de-thi-danh-gia-nang-luc-chuyen-biet-dai-hoc-su-pham-tp-hcm-2025-4781904.html) - 10:51 15/08/2024
