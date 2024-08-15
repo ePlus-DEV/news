@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Phở Nam Định và Hà Nội khác nhau thế nào](https://vnexpress.net/pho-nam-dinh-va-ha-noi-khac-nhau-the-nao-4780799.html) - 17:00 15/08/2024
+- 💂 [Khác biệt giữa phở Nam Định và phở Hà Nội](https://vnexpress.net/khac-biet-giua-pho-nam-dinh-va-pho-ha-noi-4780799.html) - 17:00 15/08/2024
 - 🪄 [Tình yêu sét đánh trong chuyến du lịch của du khách U60](https://vnexpress.net/tinh-yeu-set-danh-trong-chuyen-du-lich-cua-du-khach-u60-4781661.html) - 09:08 15/08/2024
 - 🦅 [Triều Tiên mở cửa cho du khách nước ngoài từ tháng 12](https://vnexpress.net/trieu-tien-mo-cua-cho-du-khach-nuoc-ngoai-tu-thang-12-4781843.html) - 08:57 15/08/2024
 - 🕴 [4.500 khách Ấn Độ sẽ được đón tiếp thế nào](https://vnexpress.net/4-500-khach-an-do-se-duoc-don-tiep-the-nao-4781763.html) - 07:44 15/08/2024
