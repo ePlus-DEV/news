@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Thiếu hàng triệu điện thoại &#39;cục gạch&#39; 4G khi tắt sóng 2G](https://vnexpress.net/thieu-hang-trieu-dien-thoai-cuc-gach-4g-khi-tat-song-2g-4781424.html) - 11:05 15/08/2024
+- 🚀 [Thiếu hàng triệu điện thoại khi tắt sóng 2G](https://vnexpress.net/thieu-hang-trieu-dien-thoai-khi-tat-song-2g-4781424.html) - 11:05 15/08/2024
 - 🧰 [Con gái ông Thaksin được đề cử làm ứng viên thủ tướng](https://vnexpress.net/con-gai-ong-thaksin-duoc-de-cu-lam-ung-vien-thu-tuong-4781919.html) - 11:02 15/08/2024
 - 🥰 [Trump hứa hẹn giúp kinh tế Mỹ bùng nổ](https://vnexpress.net/trump-hua-hen-giup-kinh-te-my-bung-no-4781804.html) - 11:00 15/08/2024
 - 🌏 [Thủ phạm khiến trẻ hôi miệng](https://vnexpress.net/thu-pham-khien-tre-hoi-mieng-4781735.html) - 11:00 15/08/2024
