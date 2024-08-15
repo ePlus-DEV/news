@@ -14,6 +14,9 @@ jobs:
           - feed_list: "https://dantri.com.vn/rss/home.rss"
             readme_path: "./docs/index.md"
             rand_seed: "dantri"
+          - feed_list: "https://dantri.com.vn/rss/xa-hoi.rss"
+            readme_path: "./docs/dantri/xa-hoi.md"
+            rand_seed: "dantri-xa-hoi"
 
     steps:
       - name: Checkout
