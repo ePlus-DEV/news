@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Hơn 390.000 lượt khách đi metro Nhổn - ga Hà Nội trong tuần đầu](https://vnexpress.net/hon-390-000-luot-khach-di-metro-nhon-ga-ha-noi-trong-tuan-dau-4781746.html) - 06:02 15/08/2024
-- 🤓 [Hơn trăm ngôi mộ xây trái phép ở ven TP HCM](https://vnexpress.net/hon-tram-ngoi-mo-xay-trai-phep-o-ven-tp-hcm-4781750.html) - 05:00 15/08/2024
+- 🤓 [Hơn trăm ngôi mộ xây trái phép ven TP HCM](https://vnexpress.net/hon-tram-ngoi-mo-xay-trai-phep-ven-tp-hcm-4781750.html) - 05:00 15/08/2024
 - ⚗️ [Trực thăng diễn tập cứu hộ cứu nạn](https://vnexpress.net/truc-thang-dien-tap-cuu-ho-cuu-nan-4781546.html) - 03:57 15/08/2024
 - 🌊 [Xe tải lao xuống vực sâu 30 m](https://vnexpress.net/xe-tai-lao-xuong-vuc-sau-30-m-4781614.html) - 03:01 15/08/2024
 - 🎓 [Hiện trạng hai nút giao được Đồng Nai đề xuất đầu tư 13.000 tỷ đồng](https://vnexpress.net/hien-trang-hai-nut-giao-duoc-dong-nai-de-xuat-dau-tu-13-000-ty-dong-4781163.html) - 23:00 14/08/2024
