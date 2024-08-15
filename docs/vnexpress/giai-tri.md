@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Vũ công nhảy dẻo gây chú ý tại &#39;Anh trai say hi&#39;](https://vnexpress.net/vu-cong-nhay-deo-gay-chu-y-tai-anh-trai-say-hi-4781451.html) - 09:21 15/08/2024
 - 💫 [Nghệ sĩ Hữu Độ - người hiền của màn ảnh Việt](https://vnexpress.net/nghe-si-huu-do-nguoi-hien-cua-man-anh-viet-4781619.html) - 08:17 15/08/2024
-- 🌮 [Thành viên BTS &#39;có thể chịu án tù&#39; do lái xe khi say](https://vnexpress.net/thanh-vien-bts-co-the-chiu-an-tu-do-lai-xe-khi-say-4781657.html) - 08:05 15/08/2024
+- 🌮 [Thành viên BTS có thể chịu án tù do lái xe khi say](https://vnexpress.net/thanh-vien-bts-co-the-chiu-an-tu-do-lai-xe-khi-say-4781657.html) - 08:05 15/08/2024
 - 🧠 [Tầm nhìn triết học qua sách &#39;Tư tưởng Phật giáo&#39;](https://vnexpress.net/tam-nhin-triet-hoc-qua-sach-tu-tuong-phat-giao-4773394.html) - 07:20 15/08/2024
 - 👨‍🏫 [Tình bạn gần 30 năm của Brad Pitt, George Clooney](https://vnexpress.net/tinh-ban-gan-30-nam-cua-brad-pitt-george-clooney-4781409.html) - 06:11 15/08/2024
 - ⚗️ [Hai con gái cổ vũ liveshow Quách Phú Thành](https://vnexpress.net/hai-con-gai-co-vu-liveshow-quach-phu-thanh-4781670.html) - 03:26 15/08/2024
