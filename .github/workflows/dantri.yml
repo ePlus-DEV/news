@@ -1,0 +1,34 @@
+name: "Cronjob DanTri"
+on:
+  workflow_run:
+    workflows: ["Cronjob ThuVienPhapLuat"]
+    types: [in_progress]
+
+jobs:
+  dantri_job:
+    name: Dân Trí - ${{ matrix.rand_seed }}
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        include:
+          - feed_list: "https://dantri.com.vn/rss/home.rss"
+            readme_path: "./docs/index.md"
+            rand_seed: "dantri"
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull in DanTri news
+        uses: ePlus-DEV/blog-post-workflow@v1.0.2
+        with:
+          retry_count: 5
+          readme_path: ${{ matrix.readme_path }}
+          feed_list: ${{ matrix.feed_list }}
+          committer_email: "h250694@gmail.com"
+          commit_message: "Get DanTri news - ${{ matrix.rand_seed }} - ${{ github.event.repository.updated_at}}"
+          rand_seed: ${{ matrix.rand_seed }}
+          comment_tag_name: ${{ matrix.rand_seed }}
+          date_format: "HH:MM dd/mm/yyyy"
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
+          max_post_count: 60

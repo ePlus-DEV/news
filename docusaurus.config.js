@@ -60,7 +60,9 @@ const config = {
         },
         gtag: {
           trackingID: 'G-XE98YSP4LS',
-          anonymizeIP: true,
+        },
+        sitemap: {
+          changefreq: 'hourly',
         },
       }),
     ],

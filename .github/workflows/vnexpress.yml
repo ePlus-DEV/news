@@ -1,16 +1,22 @@
 name: "Cronjob VnExpress"
 on:
-  workflow_run:
-    workflows: ["Cronjob"]
-    types: [completed]
+  schedule:
+    - cron: "*/15 * * * *"
+  push:
+    branches:
+      - "main"
+  workflow_dispatch:
 
 jobs:
-  vnexpress:
+  vnexpress_job:
     name: VnExpress - ${{ matrix.rand_seed }}
     runs-on: ubuntu-latest
     strategy:
       matrix:
         include:
+          - feed_list: "https://vnexpress.net/rss/tin-moi-nhat.rss"
+            readme_path: "./docs/index.md"
+            rand_seed: "vnexpress"
           - feed_list: "https://vnexpress.net/rss/thoi-su.rss"
             readme_path: "./docs/vnexpress/thoi-su.md"
             rand_seed: "vnexpress-thoi-su"
@@ -89,7 +95,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Pull in vnexpress news
-        uses: ePlus-DEV/blog-post-workflow@v1.0.1
+        uses: ePlus-DEV/blog-post-workflow@v1.0.2
         with:
           retry_count: 5
           readme_path: ${{ matrix.readme_path }}

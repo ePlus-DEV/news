@@ -1,10 +1,11 @@
 name: "Cronjob"
 on:
-  schedule:
-    - cron: "*/5 * * * *"
-  push:
-    branches:
-      - "main"
+  # schedule:
+  #   - cron: "*/5 * * * *"
+  # push:
+  #   branches:
+  #     - "main"
+  workflow_dispatch:
 jobs:
   update-homepages:
     name: Get ${{ matrix.rand_seed }}
@@ -36,16 +37,20 @@ jobs:
           - feed_list: "https://baochinhphu.vn/home.rss"
             rand_seed: "baochinhphu"
             needs: "vtc"
+          - feed_list: "https://thuvienphapluat.vn/rss.xml"
+            rand_seed: "thuvienphapluat"
+            needs: "baochinhphu"
           - feed_list: "https://muctim.tuoitre.vn/rss/home.rss"
             rand_seed: "muctim"
-            needs: "baochinhphu"
+            needs: "thuvienphapluat"
           - feed_list: "https://hoahoctro.tienphong.vn/rss/home.rss"
             rand_seed: "hoahoctro"
             needs: "muctim"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
+      - name: Pull changes from the remote repository
+        run: git pull origin main
       - name: Pull in news
         uses: ePlus-DEV/blog-post-workflow@v1.0.1
         with:

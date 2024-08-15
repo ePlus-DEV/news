@@ -1,12 +1,11 @@
 name: Deploy to GitHub Pages
 
 on:
-  workflow_run:
-    workflows: ["Cronjob VnExpress"]
-    types: [completed]
-    # Review gh actions docs if you want to further define triggers, paths, etc
-    # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
-
+  schedule:
+    - cron: "*/15 * * * *"
+  # Review gh actions docs if you want to further define triggers, paths, etc
+  # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
+  workflow_dispatch:
 permissions:
   contents: write
 
