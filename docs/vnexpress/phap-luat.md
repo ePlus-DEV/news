@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Trung tá công an hy sinh ở Huế được truy tặng bằng Tổ quốc ghi công](https://vnexpress.net/trung-ta-cong-an-hy-sinh-o-hue-duoc-truy-tang-bang-to-quoc-ghi-cong-4782210.html) - 08:48 16/08/2024
 - 🥰 [5 người bị xét xử trong cái chết của tài tử &#39;Friends&#39;](https://vnexpress.net/5-nguoi-bi-xet-xu-trong-cai-chet-cua-tai-tu-friends-4782227.html) - 08:30 16/08/2024
-- 🎓 [Đại tá Trần Xuân Ánh làm Giám đốc Công an Thái Bình](https://vnexpress.net/dai-ta-tran-xuan-anh-lam-giam-doc-cong-an-thai-binh-4782226.html) - 07:44 16/08/2024
+- 🎓 [Đại tá Trần Xuân Ánh làm Giám đốc Công an tỉnh Thái Bình](https://vnexpress.net/dai-ta-tran-xuan-anh-lam-giam-doc-cong-an-thai-binh-4782226.html) - 07:44 16/08/2024
 - 🤓 [Ông Trần Minh Lợi bị phạt 5 năm tù](https://vnexpress.net/ong-tran-minh-loi-bi-phat-5-nam-tu-4782183.html) - 05:47 16/08/2024
 - 🎊 [Kẻ giết người rồi lẩn trốn trong rừng keo bị phạt án tử hình](https://vnexpress.net/ke-giet-nguoi-roi-lan-tron-trong-rung-keo-bi-phat-an-tu-hinh-4782198.html) - 05:27 16/08/2024
 - 🙉 [Băng trộm cướp trên sông ở Cà Mau bị bắt](https://vnexpress.net/bang-trom-cuop-tren-song-o-ca-mau-bi-bat-4782167.html) - 05:01 16/08/2024
