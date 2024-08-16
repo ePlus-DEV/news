@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Bố của Lamine Yamal lần đầu lên tiếng sau khi bị đâm trọng thương](https://dantri.com.vn/the-thao/bo-cua-lamine-yamal-lan-dau-len-tieng-sau-khi-bi-dam-trong-thuong-20240816175849420.htm) - 11:21 16/08/2024
-- 💯 [U16 Việt Nam thua đậm U16 Trung Quốc ở trận ra quân Peace Cup 2024](https://dantri.com.vn/the-thao/u16-viet-nam-thua-dam-u16-trung-quoc-o-tran-ra-quan-peace-cup-2024-20240816163955119.htm) - 09:39 16/08/2024
-- ⛽️ [Những rủi ro tiềm ẩn với Man Utd trước thềm Premier League mùa giải mới](https://dantri.com.vn/the-thao/nhung-rui-ro-tiem-an-voi-man-utd-truoc-them-premier-league-mua-giai-moi-20240809104928236.htm) - 08:38 16/08/2024
-- 💃 [Thưởng thức trọn vẹn 3 mùa giải cúp châu Âu và 74 trận độc quyền C1 trên TV360](https://dantri.com.vn/the-thao/thuong-thuc-tron-ven-3-mua-giai-cup-chau-au-va-74-tran-doc-quyen-c1-tren-tv360-20240816143927375.htm) - 08:30 16/08/2024
-- 🌈 [Đối thủ đồng loạt dương tính với doping, cử tạ Thái Lan sắp có HCV Olympic](https://dantri.com.vn/the-thao/doi-thu-dong-loat-duong-tinh-voi-doping-cu-ta-thai-lan-sap-co-hcv-olympic-20240816142334016.htm) - 08:28 16/08/2024
-- 🦅 [Bất ngờ với ngoại hình xinh xắn của võ sĩ bị nghi ngờ giới tính](https://dantri.com.vn/the-thao/bat-ngo-voi-ngoai-hinh-xinh-xan-cua-vo-si-bi-nghi-ngo-gioi-tinh-20240816134654513.htm) - 06:46 16/08/2024
-- 🌝 [Dự đoán tỷ số và đội hình xuất phát trận Man Utd vs Fulham](https://dantri.com.vn/the-thao/du-doan-ty-so-va-doi-hinh-xuat-phat-tran-man-utd-vs-fulham-20240816124206426.htm) - 05:42 16/08/2024
+- 🎡 [Dự đoán tỷ số và đội hình xuất phát trận Man Utd vs Fulham](https://dantri.com.vn/the-thao/du-doan-ty-so-va-doi-hinh-xuat-phat-tran-man-utd-vs-fulham-20240816124206426.htm) - 11:42 16/08/2024
+- 💯 [Bố của Lamine Yamal lần đầu lên tiếng sau khi bị đâm trọng thương](https://dantri.com.vn/the-thao/bo-cua-lamine-yamal-lan-dau-len-tieng-sau-khi-bi-dam-trong-thuong-20240816175849420.htm) - 11:21 16/08/2024
+- ⛽️ [U16 Việt Nam thua đậm U16 Trung Quốc ở trận ra quân Peace Cup 2024](https://dantri.com.vn/the-thao/u16-viet-nam-thua-dam-u16-trung-quoc-o-tran-ra-quan-peace-cup-2024-20240816163955119.htm) - 09:39 16/08/2024
+- 💃 [Những rủi ro tiềm ẩn với Man Utd trước thềm Premier League mùa giải mới](https://dantri.com.vn/the-thao/nhung-rui-ro-tiem-an-voi-man-utd-truoc-them-premier-league-mua-giai-moi-20240809104928236.htm) - 08:38 16/08/2024
+- 🌈 [Thưởng thức trọn vẹn 3 mùa giải cúp châu Âu và 74 trận độc quyền C1 trên TV360](https://dantri.com.vn/the-thao/thuong-thuc-tron-ven-3-mua-giai-cup-chau-au-va-74-tran-doc-quyen-c1-tren-tv360-20240816143927375.htm) - 08:30 16/08/2024
+- 🦅 [Đối thủ đồng loạt dương tính với doping, cử tạ Thái Lan sắp có HCV Olympic](https://dantri.com.vn/the-thao/doi-thu-dong-loat-duong-tinh-voi-doping-cu-ta-thai-lan-sap-co-hcv-olympic-20240816142334016.htm) - 08:28 16/08/2024
+- 🌝 [Bất ngờ với ngoại hình xinh xắn của võ sĩ bị nghi ngờ giới tính](https://dantri.com.vn/the-thao/bat-ngo-voi-ngoai-hinh-xinh-xan-cua-vo-si-bi-nghi-ngo-gioi-tinh-20240816134654513.htm) - 06:46 16/08/2024
 - 🚀 [Kỷ lục &quot;điên rồ&quot; ở Europa League: Hai đội đá luân lưu tới 34 quả](https://dantri.com.vn/the-thao/ky-luc-dien-ro-o-europa-league-hai-doi-da-luan-luu-toi-34-qua-20240816122424957.htm) - 05:32 16/08/2024
 - 🎉 [Huỳnh Như khoác áo đội bóng đá nữ TPHCM dự cúp châu Á](https://dantri.com.vn/the-thao/huynh-nhu-khoac-ao-doi-bong-da-nu-tphcm-du-cup-chau-a-20240816115934244.htm) - 05:28 16/08/2024
 - 📝 [Khai mạc giải Ngoại hạng Anh: Bao giờ mới lật đổ được &quot;nhà vua&quot;?](https://dantri.com.vn/the-thao/khai-mac-giai-ngoai-hang-anh-bao-gio-moi-lat-do-duoc-nha-vua-20240816103509287.htm) - 04:01 16/08/2024
