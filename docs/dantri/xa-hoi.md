@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- dantri-xa-hoi:START -->
 - 🫣 [Miền Bắc oi nóng, Nam Bộ mưa dông](https://dantri.com.vn/xa-hoi/mien-bac-oi-nong-nam-bo-mua-dong-20240816165002464.htm) - 14:42 16/08/2024
-- 💼 [Cháy lớn tại quán bar đang sửa chữa ở trung tâm Hà Nội](https://dantri.com.vn/xa-hoi/chay-lon-tai-quan-bar-dang-sua-chua-o-trung-tam-ha-noi-20240816205111079.htm) - 14:01 16/08/2024
+- 💼 [Cảnh sát điều máy đào phá tường dập đám cháy quán bar ở trung tâm Hà Nội](https://dantri.com.vn/xa-hoi/canh-sat-dieu-may-dao-pha-tuong-dap-dam-chay-quan-bar-o-trung-tam-ha-noi-20240816205111079.htm) - 14:01 16/08/2024
 - 🎊 [Cơn mưa lớn kéo dài 3 giờ, nhiều nơi ở Bình Dương ngập nặng](https://dantri.com.vn/xa-hoi/con-mua-lon-keo-dai-3-gio-nhieu-noi-o-binh-duong-ngap-nang-20240816201733837.htm) - 13:56 16/08/2024
 - 🙉 [Thành ủy TPHCM khảo sát ý kiến người dân về dự thảo bảng giá đất điều chỉnh](https://dantri.com.vn/xa-hoi/thanh-uy-tphcm-khao-sat-y-kien-nguoi-dan-ve-du-thao-bang-gia-dat-dieu-chinh-20240812090750966.htm) - 13:52 16/08/2024
 - 🕯 [CSGT dùng xe đặc chủng đưa bé trai Nhật Bản đi cấp cứu](https://dantri.com.vn/xa-hoi/csgt-dung-xe-dac-chung-dua-be-trai-nhat-ban-di-cap-cuu-20240816195400631.htm) - 13:51 16/08/2024
