@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Quán bar ở Hà Nội đổ sập sau hỏa hoạn](https://vnexpress.net/quan-bar-o-ha-noi-do-sap-sau-hoa-hoan-4782433.html) - 18:07 16/08/2024
 - 🤓 [Kỵ binh tập luyện diễu hành ở phố đi bộ Nguyễn Huệ](https://vnexpress.net/ky-binh-tap-luyen-dieu-hanh-o-pho-di-bo-nguyen-hue-4782425.html) - 18:00 16/08/2024
-- ⚗️ [Cháy quán bar ở Hà Nội, 3 người bị thương](https://vnexpress.net/chay-quan-bar-o-ha-noi-3-nguoi-bi-thuong-4782404.html) - 14:15 16/08/2024
+- ⚗️ [Cháy quán bar ở Hà Nội, hai lính cứu hỏa bị thương](https://vnexpress.net/chay-quan-bar-o-ha-noi-hai-linh-cuu-hoa-bi-thuong-4782404-tong-thuat.html) - 14:15 16/08/2024
 - 🌊 [Ôtô biến dạng, lao xuống ruộng sau tai nạn với xe đầu kéo](https://vnexpress.net/tai-nan-ba-ria-vung-tau-4782380.html) - 11:53 16/08/2024
 - 🎓 [TP HCM lập tổ ứng cứu sự cố trên cầu Phú Mỹ](https://vnexpress.net/tp-hcm-lap-to-ung-cuu-su-co-tren-cau-phu-my-4782365.html) - 11:25 16/08/2024
 - 🔥 [Trung ương bầu bổ sung 3 Ủy viên Ban Bí thư](https://vnexpress.net/trung-uong-bau-bo-sung-3-uy-vien-ban-bi-thu-4782255.html) - 10:44 16/08/2024
