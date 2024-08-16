@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Đề xuất TP HCM sớm có trường dùng tiếng Anh như ngôn ngữ thứ hai](https://vnexpress.net/de-xuat-tp-hcm-som-co-truong-dung-tieng-anh-nhu-ngon-ngu-thu-hai-4782214.html) - 09:17 16/08/2024
+- 🤓 [TP HCM thí điểm trường học dùng tiếng Anh như ngôn ngữ thứ hai](https://vnexpress.net/tp-hcm-thi-diem-truong-hoc-dung-tieng-anh-nhu-ngon-ngu-thu-hai-4782214.html) - 09:17 16/08/2024
 - 🦆 [Bộ Giáo dục công bố quy chế thi tốt nghiệp 2025 vào tháng 11](https://vnexpress.net/bo-giao-duc-cong-bo-quy-che-thi-tot-nghiep-2025-vao-thang-11-4782218.html) - 06:51 16/08/2024
 - 🦩 [Du học sinh lỡ kỳ nhập học vì chậm visa Australia](https://vnexpress.net/du-hoc-sinh-lo-ky-nhap-hoc-vi-cham-visa-australia-4777670.html) - 03:45 16/08/2024
 - 🌮 [Sinh viên năm cuối trường ĐH FPT gia nhập công ty bán dẫn lương 3.000 USD](https://vnexpress.net/sinh-vien-nam-cuoi-truong-dh-fpt-gia-nhap-cong-ty-ban-dan-luong-3-000-usd-4781478.html) - 01:30 16/08/2024
