@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Khai mạc giải Ngoại hạng Anh: Bao giờ mới lật đổ được &quot;nhà vua&quot;?](https://dantri.com.vn/the-thao/khai-mac-giai-ngoai-hang-anh-bao-gio-moi-lat-do-duoc-nha-vua-20240816103509287.htm) - 03:35 16/08/2024
+- 🎡 [Khai mạc giải Ngoại hạng Anh: Bao giờ mới lật đổ được &quot;nhà vua&quot;?](https://dantri.com.vn/the-thao/khai-mac-giai-ngoai-hang-anh-bao-gio-moi-lat-do-duoc-nha-vua-20240816103509287.htm) - 04:01 16/08/2024
 - 💯 [Chelsea bị chỉ trích vì ký hợp đồng 9 năm với Cole Palmer](https://dantri.com.vn/the-thao/chelsea-bi-chi-trich-vi-ky-hop-dong-9-nam-voi-cole-palmer-20240816101331993.htm) - 03:21 16/08/2024
 - ⛽️ [HLV Erik Ten Hag: &quot;Man Utd chưa sẵn sàng cho mùa giải mới&quot;](https://dantri.com.vn/the-thao/hlv-erik-ten-hag-man-utd-chua-san-sang-cho-mua-giai-moi-20240816080052166.htm) - 01:42 16/08/2024
 - 💃 [UEFA Champions League sẽ sử dụng máy tính bốc thăm vòng bảng](https://dantri.com.vn/the-thao/uefa-champions-league-se-su-dung-may-tinh-boc-tham-vong-bang-20240816002650237.htm) - 23:10 15/08/2024
