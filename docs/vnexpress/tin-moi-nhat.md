@@ -46,7 +46,7 @@ sidebar_position: 9
 - 🪄 [Sếp doanh nghiệp tìm cách tăng trưởng với AI tại InnoEx 2024](https://vnexpress.net/sep-doanh-nghiep-tim-cach-tang-truong-voi-ai-tai-innoex-2024-4782114.html) - 04:00 16/08/2024
 - 🏊 [Volvo ưu đãi 486 triệu đồng cho XC90](https://vnexpress.net/volvo-uu-dai-486-trieu-dong-cho-xc90-4782110.html) - 04:00 16/08/2024
 - 💃 [Ba loại nước uống đóng chai từ thiên nhiên của Kim Bôi Ole](https://vnexpress.net/ba-loai-nuoc-uong-dong-chai-tu-thien-nhien-cua-kim-boi-ole-4781691.html) - 04:00 16/08/2024
-- 🦆 [Nguyên nhân bước đầu khiến hàng trăm bò sữa bị chết](https://vnexpress.net/nguyen-nhan-buoc-dau-khien-hang-tram-bo-sua-bi-chet-4782068.html) - 03:52 16/08/2024
+- 🦆 [Bò sữa ở Lâm Đồng chết do tiêm vaccine nhiễm virus tiêu chảy](https://vnexpress.net/bo-sua-o-lam-dong-chet-do-tiem-vaccine-nhiem-virus-tieu-chay-4782068.html) - 03:52 16/08/2024
 - 🎊 [Công an Bình Thuận ra quân trấn áp tội phạm](https://vnexpress.net/cong-an-binh-thuan-ra-quan-tran-ap-toi-pham-4782066.html) - 03:51 16/08/2024
 - 👺 [Cựu tổng thống Argentina bị cáo buộc từng đánh bạn gái tím mắt](https://vnexpress.net/cuu-tong-thong-argentina-bi-cao-buoc-tung-danh-ban-gai-tim-mat-4782038.html) - 03:50 16/08/2024
 - 🎡 [Ông Trump: Tôi có quyền công kích cá nhân Harris](https://vnexpress.net/ong-trump-toi-co-quyen-cong-kich-ca-nhan-harris-4782060.html) - 03:49 16/08/2024
