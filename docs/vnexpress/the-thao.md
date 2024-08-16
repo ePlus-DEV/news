@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Tay vợt Nhật Bản liên tục đánh bóng lên khán đài](https://vnexpress.net/tay-vot-nhat-ban-lien-tuc-danh-bong-len-khan-dai-4782184.html) - 05:07 16/08/2024
-- 🦩 [Võ sĩ bị nghi ngờ giới tính khác lạ khi trang điểm, mặc váy](https://vnexpress.net/vo-si-bi-nghi-ngo-gioi-tinh-khac-la-khi-trang-diem-mac-vay-4782185.html) - 04:58 16/08/2024
+- 🦩 [Võ sĩ Imane Khelif trang điểm, mặc váy](https://vnexpress.net/vo-si-imane-khelif-trang-diem-mac-vay-4782185.html) - 04:58 16/08/2024
 - 🧰 [Djokovic được ví như &#39;người máy&#39;](https://vnexpress.net/djokovic-duoc-vi-nhu-nguoi-may-4782186.html) - 04:39 16/08/2024
 - 🤗 [Chelsea được kỳ vọng thắng 10-0 ở Conference League](https://vnexpress.net/chelsea-duoc-ky-vong-thang-10-0-o-conference-league-4782085.html) - 04:06 16/08/2024
 - 🥳 [Nhà vô địch Olympic hé lộ thêm góc khuất về làng VĐV ở Paris](https://vnexpress.net/nha-vo-dich-olympic-he-lo-them-goc-khuat-ve-lang-vdv-o-paris-4782118.html) - 04:02 16/08/2024
