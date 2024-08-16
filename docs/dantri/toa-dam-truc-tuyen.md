@@ -4,7 +4,7 @@ sidebar_position: 29
 ---
 
 <!-- dantri-toa-dam-truc-tuyen:START -->
-- 🪜 [Giao lưu trực tuyến: Ứng phó với dịch sởi ở TPHCM và khu vực phía Nam](https://dantri.com.vn/suc-khoe/giao-luu-truc-tuyen-ung-pho-voi-dich-soi-o-tphcm-va-khu-vuc-phia-nam-20240815164004550.htm) - 01:05 16/08/2024
+- 🪜 [Đang giao lưu trực tuyến: Ứng phó với dịch sởi ở TPHCM và khu vực phía Nam](https://dantri.com.vn/suc-khoe/dang-giao-luu-truc-tuyen-ung-pho-voi-dich-soi-o-tphcm-va-khu-vuc-phia-nam-20240815164004550.htm) - 01:05 16/08/2024
 - 🗽 [&quot;Phải chọn ngành, chọn trường giúp sinh viên có nghề nuôi sống bản thân&quot;](https://dantri.com.vn/giao-duc/phai-chon-nganh-chon-truong-giup-sinh-vien-co-nghe-nuoi-song-ban-than-20240701221316410.htm) - 01:00 02/07/2024
 - 🕯 [Tọa đàm Net Zero: Vay vốn xanh hay vốn nâu dễ hơn?](https://dantri.com.vn/kinh-doanh/toa-dam-net-zero-vay-von-xanh-hay-von-nau-de-hon-20240522102642720.htm) - 08:44 22/05/2024
 - 🫶 [Tọa đàm &quot;Vượt rào cản vốn và kiến thức, doanh nghiệp nữ chủ cất cánh&quot;](https://dantri.com.vn/kinh-doanh/toa-dam-vuot-rao-can-von-va-kien-thuc-doanh-nghiep-nu-chu-cat-canh-20240418074809400.htm) - 02:22 18/04/2024
