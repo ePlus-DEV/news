@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cựu giám đốc Agribank Cần Thơ bị xét xử sau 3 năm được tuyên vô tội](https://vnexpress.net/cuu-giam-doc-agribank-can-tho-bi-xet-xu-sau-3-nam-duoc-tuyen-vo-toi-4781947.html) - 00:00 16/08/2024
+- 😎 [Cựu giám đốc ngân hàng bị xét xử sau 3 năm được tuyên vô tội](https://vnexpress.net/cuu-giam-doc-ngan-hang-bi-xet-xu-sau-3-nam-duoc-tuyen-vo-toi-4781947.html) - 00:00 16/08/2024
 - 🥰 [Có bắt buộc đăng ký tài sản trên đất vào sổ đỏ?](https://vnexpress.net/co-bat-buoc-dang-ky-tai-san-tren-dat-vao-so-do-4781959.html) - 22:00 15/08/2024
 - 🎓 [Vỏ bọc bạn thân của kẻ hiếp dâm bịt mặt](https://vnexpress.net/vo-boc-ban-than-cua-ke-hiep-dam-bit-mat-4781929.html) - 17:00 15/08/2024
 - 🤓 [Đầu độc đối thủ bằng cách bôi thủy ngân lên bàn cờ](https://vnexpress.net/dau-doc-doi-thu-bang-cach-boi-thuy-ngan-len-ban-co-4781965.html) - 15:55 15/08/2024
