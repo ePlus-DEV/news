@@ -4,7 +4,7 @@ sidebar_position: 23
 ---
 
 <!-- dantri-suc-khoe:START -->
-- 🤔 [Hà Nội: 3 người ngộ độc khí CO trong bếp ăn nhà hàng](https://dantri.com.vn/suc-khoe/ha-noi-3-nguoi-ngo-doc-khi-co-trong-bep-an-nha-hang-20240816155754692.htm) - 08:58 16/08/2024
+- 🤔 [Hà Nội: 3 người ngộ độc khí CO trong bếp nhà hàng](https://dantri.com.vn/suc-khoe/ha-noi-3-nguoi-ngo-doc-khi-co-trong-bep-nha-hang-20240816155754692.htm) - 08:58 16/08/2024
 - 🚦 [Bác sĩ cứu sống người bệnh ngừng tim được khen thưởng](https://dantri.com.vn/suc-khoe/bac-si-cuu-song-nguoi-benh-ngung-tim-duoc-khen-thuong-20240816132849335.htm) - 08:00 16/08/2024
 - 🤖 [Nhiều người bỗng đau bụng dữ dội, nguy kịch vì thủng tạng rỗng](https://dantri.com.vn/suc-khoe/nhieu-nguoi-bong-dau-bung-du-doi-nguy-kich-vi-thung-tang-rong-20240816141610872.htm) - 07:28 16/08/2024
 - 🐻 [Vụ 149 người ngộ độc: Tìm thấy vi khuẩn trong bánh mì của quán nổi tiếng](https://dantri.com.vn/suc-khoe/vu-149-nguoi-ngo-doc-tim-thay-vi-khuan-trong-banh-mi-cua-quan-noi-tieng-20240816120134036.htm) - 05:18 16/08/2024
