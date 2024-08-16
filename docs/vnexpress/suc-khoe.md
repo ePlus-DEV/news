@@ -5,7 +5,7 @@ sidebar_position: 10
 
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [Cơn đau nào cảnh báo nhồi máu cơ tim?](https://vnexpress.net/con-dau-nao-canh-bao-nhoi-mau-co-tim-4782053.html) - 03:30 16/08/2024
-- 🥰 [Pate nhiễm khuẩn salmonella khiến 149 người ăn bánh mì ngộ độc](https://vnexpress.net/pate-nhiem-khuan-salmonella-khien-149-nguoi-an-banh-mi-ngo-doc-4782063.html) - 03:08 16/08/2024
+- 🥰 [Pate nhiễm khuẩn Salmonella khiến 149 người ăn bánh mì ngộ độc](https://vnexpress.net/pate-nhiem-khuan-salmonella-khien-149-nguoi-an-banh-mi-ngo-doc-4782063.html) - 03:08 16/08/2024
 - 💡 [Lá tía tô có giúp trị mụn, sáng da?](https://vnexpress.net/la-tia-to-co-giup-tri-mun-sang-da-4782047.html) - 03:00 16/08/2024
 - 🤗 [Chủng đậu mùa khỉ nguy hiểm lan ra ngoài châu Phi](https://vnexpress.net/chung-dau-mua-khi-nguy-hiem-lan-ra-ngoai-chau-phi-4782064.html) - 02:33 16/08/2024
 - 🪜 [Những loại củ quả nên ăn thường xuyên để tăng miễn dịch](https://vnexpress.net/nhung-loai-cu-qua-nen-an-thuong-xuyen-de-tang-mien-dich-4782034.html) - 02:30 16/08/2024
