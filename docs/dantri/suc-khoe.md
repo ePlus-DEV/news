@@ -5,7 +5,7 @@ sidebar_position: 23
 
 <!-- dantri-suc-khoe:START -->
 - 🤔 [20 phút nghẹt thở cấp cứu bệnh nhân ngừng tim từ tay &quot;tử thần&quot;](https://dantri.com.vn/suc-khoe/20-phut-nghet-tho-cap-cuu-benh-nhan-ngung-tim-tu-tay-tu-than-20240816083539655.htm) - 01:50 16/08/2024
-- 🚦 [Đang giao lưu trực tuyến: Ứng phó với dịch sởi ở TPHCM và khu vực phía Nam](https://dantri.com.vn/suc-khoe/dang-giao-luu-truc-tuyen-ung-pho-voi-dich-soi-o-tphcm-va-khu-vuc-phia-nam-20240815164004550.htm) - 01:05 16/08/2024
+- 🚦 [Giao lưu trực tuyến: Ứng phó với dịch sởi ở TPHCM và khu vực phía Nam](https://dantri.com.vn/suc-khoe/giao-luu-truc-tuyen-ung-pho-voi-dich-soi-o-tphcm-va-khu-vuc-phia-nam-20240815164004550.htm) - 01:05 16/08/2024
 - 🤖 [Liên tiếp các ca thiếu nữ &quot;tan hoang&quot; mặt vì tự nặn mụn](https://dantri.com.vn/suc-khoe/lien-tiep-cac-ca-thieu-nu-tan-hoang-mat-vi-tu-nan-mun-20240814073408224.htm) - 01:03 16/08/2024
 - 🐻 [Trẻ em cần uống nước như thế nào để khỏe mạnh?](https://dantri.com.vn/suc-khoe/tre-em-can-uong-nuoc-nhu-the-nao-de-khoe-manh-20240815224624571.htm) - 01:00 16/08/2024
 - 🌏 [Tiếng khóc xé lòng của người mẹ mất 2 con ám ảnh nữ điều dưỡng sơ sinh](https://dantri.com.vn/suc-khoe/tieng-khoc-xe-long-cua-nguoi-me-mat-2-con-am-anh-nu-dieu-duong-so-sinh-20240814063436289.htm) - 00:45 16/08/2024
