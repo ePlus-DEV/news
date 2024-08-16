@@ -6,25 +6,25 @@ sidebar_position: 6
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Hội chứng &#39;thích tán tỉnh nhưng sợ yêu&#39;](https://vnexpress.net/hoi-chung-thich-tan-tinh-nhung-so-yeu-4780601.html) - 23:29 15/08/2024
 - 🎓 [Vì sao Gen Z ở Anh ngại vào đại học?](https://vnexpress.net/vi-sao-gen-z-o-anh-ngai-vao-dai-hoc-4781986.html) - 23:00 15/08/2024
-- 🚦 [Móng giò nấu vắt kiểu Hà Nội cổ](https://vnexpress.net/mong-gio-nau-vat-kieu-ha-noi-co-4781810.html) - 12:51 15/08/2024
+- 🚦 [Móng giò nấu vắt kiểu Hà Nội cổ](https://vnexpress.net/doi-song-cooking-mong-gio-nau-vat-kieu-ha-noi-co-4781810.html) - 12:51 15/08/2024
 - 🦣 [Vì sao cần dạy con tự lập?](https://vnexpress.net/vi-sao-can-day-con-tu-lap-4781544.html) - 07:00 15/08/2024
 - 🎓 [Những cách giúp cha mẹ vui khỏe trong mùa Vu Lan](https://vnexpress.net/nhung-cach-giup-cha-me-vui-khoe-trong-mua-vu-lan-4781759.html) - 05:30 15/08/2024
 - 🎭 [7 lỗi người EQ cao không mắc khi nói chuyện](https://vnexpress.net/7-loi-nguoi-eq-cao-khong-mac-khi-noi-chuyen-4781519.html) - 05:26 15/08/2024
 - 🦅 [Chờ đò giữa lòng Thủ đô](https://vnexpress.net/cho-do-giua-long-thu-do-4781536.html) - 23:29 14/08/2024
 - 🎃 [Nở rộ dịch vụ di chúc cho thú cưng](https://vnexpress.net/no-ro-dich-vu-di-chuc-cho-thu-cung-4780939.html) - 23:00 14/08/2024
-- 💪 [Vì sao gà luộc ăn kèm lá chanh?](https://vnexpress.net/vi-sao-ga-luoc-an-kem-la-chanh-4781403.html) - 11:34 14/08/2024
+- 💪 [Vì sao gà luộc ăn kèm lá chanh?](https://vnexpress.net/doi-song-cooking-vi-sao-ga-luoc-an-kem-la-chanh-4781403.html) - 11:34 14/08/2024
 - 🐻 [Cách Mondelez Kinh Đô gìn giữ giá trị văn hóa truyền thống](https://vnexpress.net/cach-mondelez-kinh-do-gin-giu-gia-tri-van-hoa-truyen-thong-4780944.html) - 09:00 14/08/2024
 - 🧠 [Những chủ đề nên tuyệt đối tránh khi giao tiếp](https://vnexpress.net/nhung-chu-de-nen-tuyet-doi-tranh-khi-giao-tiep-4781352.html) - 04:06 14/08/2024
 - 🐘 [Xu hướng chỉ thích làm nhân viên](https://vnexpress.net/xu-huong-chi-thich-lam-nhan-vien-4779279.html) - 23:29 13/08/2024
 - 👹 [Chồng biến cuộc đời vợ &#39;thành một thước phim&#39;](https://vnexpress.net/chong-bien-cuoc-doi-vo-thanh-mot-thuoc-phim-4777778.html) - 23:00 13/08/2024
 - 💂 [Gen Z Philippines cô đơn nhất Đông Nam Á](https://vnexpress.net/gen-z-philippines-co-don-nhat-dong-nam-a-4780998.html) - 11:47 13/08/2024
-- 🦍 [Măng ngâm ớt trắng giòn để quanh năm](https://vnexpress.net/mang-ngam-ot-trang-gion-de-quanh-nam-4780945.html) - 11:43 13/08/2024
+- 🦍 [Măng ngâm ớt trắng giòn để quanh năm](https://vnexpress.net/doi-song-cooking-mang-ngam-ot-trang-gion-de-quanh-nam-4780945.html) - 11:43 13/08/2024
 - 🧑‍🏫 [Cú sốc đầu đời của thực tập sinh Mỹ](https://vnexpress.net/cu-soc-dau-doi-cua-thuc-tap-sinh-my-4780925.html) - 05:08 13/08/2024
 - 🧰 [Cách nhìn người qua thói quen ăn uống](https://vnexpress.net/cach-nhin-nguoi-qua-thoi-quen-an-uong-4780843.html) - 04:58 13/08/2024
 - 🪄 [Người Việt rủ nhau &#39;biến mỗi nóc nhà thành một lá cờ&#39;](https://vnexpress.net/nguoi-viet-ru-nhau-bien-moi-noc-nha-thanh-mot-la-co-4780691.html) - 23:29 12/08/2024
 - 🐲 [Chuyện tình của cô gái quyết tâm cưới người hơn mình 45 tuổi](https://vnexpress.net/chuyen-tinh-cua-co-gai-quyet-tam-cuoi-nguoi-hon-minh-45-tuoi-4779839.html) - 23:00 12/08/2024
 - 💻 [Chạy bộ, đạp xe ủng hộ bệnh nhi ung thư](https://vnexpress.net/chay-bo-dap-xe-ung-ho-benh-nhi-ung-thu-4779753.html) - 17:00 12/08/2024
-- 🐘 [Thịt nướng giả cầy kiểu Bắc](https://vnexpress.net/thit-nuong-gia-cay-kieu-bac-4780576.html) - 10:31 12/08/2024
+- 🐘 [Thịt nướng giả cầy kiểu Bắc](https://vnexpress.net/doi-song-cooking-thit-nuong-gia-cay-kieu-bac-4780576.html) - 10:31 12/08/2024
 - 🎬 [Chàng trai mang di ảnh bố đến lễ tốt nghiệp](https://vnexpress.net/chang-trai-mang-di-anh-bo-den-le-tot-nghiep-4780318.html) - 08:58 12/08/2024
 - 💻 [5 cách đuổi kiến khỏi lọ đường nhanh nhất](https://vnexpress.net/5-cach-duoi-kien-khoi-lo-duong-nhanh-nhat-4780252.html) - 08:37 12/08/2024
 - 🧰 [Phát hiện bạn gái hơn 25 tuổi vào đêm trước ngày cưới](https://vnexpress.net/phat-hien-ban-gai-hon-25-tuoi-vao-dem-truoc-ngay-cuoi-4780487.html) - 08:34 12/08/2024
