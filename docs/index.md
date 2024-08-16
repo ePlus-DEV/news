@@ -207,45 +207,45 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Tuyên Quang tổ chức Ngày hội Toàn dân bảo vệ ANTQ năm 2024](https://laodong.vn/cong-doan/tuyen-quang-to-chuc-ngay-hoi-toan-dan-bao-ve-antq-nam-2024-1380633.ldo) - 07:21 16/08/2024
-- 📝 [Facebooker Trần Minh Lợi lãnh án 5 năm tù giam](https://laodong.vn/phap-luat/facebooker-tran-minh-loi-lanh-an-5-nam-tu-giam-1380711.ldo) - 07:18 16/08/2024
-- 🦏 [Chợ vàng mã lớn nhất TPHCM, đông người đến, ít người mua](https://laodong.vn/video/cho-vang-ma-lon-nhat-tphcm-dong-nguoi-den-it-nguoi-mua-1380548.ldo) - 07:13 16/08/2024
-- 🦩 [Nước dâng cao, bờ sông Hồng, sông Đà, sông Lô xảy ra sạt lở](https://laodong.vn/photo/nuoc-dang-cao-bo-song-hong-song-da-song-lo-xay-ra-sat-lo-1380562.ldo) - 07:10 16/08/2024
-- 🦏 [Lãi suất 16.8: Gửi tiết kiệm ngân hàng nào lãi suất cao nhất](https://laodong.vn/ban-tin/lai-suat-168-gui-tiet-kiem-ngan-hang-nao-lai-suat-cao-nhat-1380706.ldo) - 07:07 16/08/2024
-- 🧰 [Lộ diện các lãi suất hời trên 6,0% không kèm điều kiện](https://laodong.vn/video/lo-dien-cac-lai-suat-hoi-tren-60-khong-kem-dieu-kien-1380689.ldo) - 07:05 16/08/2024
-- 🌊 [Măng tây có khả năng làm giảm mỡ nội tạng hiệu quả](https://laodong.vn/video/mang-tay-co-kha-nang-lam-giam-mo-noi-tang-hieu-qua-1380460.ldo) - 07:04 16/08/2024
-- 🔥 [Xe tải cháy dữ dội trên Quốc lộ 1A](https://laodong.vn/ban-tin/xe-tai-chay-du-doi-tren-quoc-lo-1a-1380688.ldo) - 07:01 16/08/2024
-- 🦒 [FDI tăng giúp doanh nghiệp cho thuê khu công nghiệp lãi đậm](https://laodong.vn/kinh-doanh/fdi-tang-giup-doanh-nghiep-cho-thue-khu-cong-nghiep-lai-dam-1379077.ldo) - 07:00 16/08/2024
-- 💼 [Gia Lai giải bài toán thiếu giáo viên trước thềm năm học mới](https://laodong.vn/giao-duc/gia-lai-giai-bai-toan-thieu-giao-vien-truoc-them-nam-hoc-moi-1379079.ldo) - 07:00 16/08/2024
-- 🤖 [Du lịch hè Sầm Sơn bứt phá đón hàng triệu lượt khách](https://laodong.vn/xa-hoi/du-lich-he-sam-son-but-pha-don-hang-trieu-luot-khach-1379732.ldo) - 07:00 16/08/2024
-- 💪 [Người dân hết chuộng vàng mã, người bán lo ế trong ngày rằm](https://laodong.vn/video/nguoi-dan-het-chuong-vang-ma-nguoi-ban-lo-e-trong-ngay-ram-1379836.ldo) - 07:00 16/08/2024
-- 👍 [Tìm giải pháp tháo gỡ nợ lương, bảo hiểm xã hội trong ngành xây dựng](https://laodong.vn/cong-doan/tim-giai-phap-thao-go-no-luong-bao-hiem-xa-hoi-trong-nganh-xay-dung-1380356.ldo) - 07:00 16/08/2024
-- 💂 [Bún num bò chóc - đặc sản Campuchia vạn người mê ở miền Tây](https://laodong.vn/gia-dinh-hon-nhan/bun-num-bo-choc-dac-san-campuchia-van-nguoi-me-o-mien-tay-1380718.ldo) - 06:56 16/08/2024
-- 🧰 [Nơi hiếm hoi giữ nghề làm đồ chơi Trung thu truyền thống ở Hưng Yên](https://laodong.vn/van-hoa-giai-tri/noi-hiem-hoi-giu-nghe-lam-do-choi-trung-thu-truyen-thong-o-hung-yen-1380717.ldo) - 06:55 16/08/2024
-- 🥷 [Arsenal cần một trung phong mạnh mẽ để cạnh tranh với Man City](https://laodong.vn/bong-da-quoc-te/arsenal-can-mot-trung-phong-manh-me-de-canh-tranh-voi-man-city-1380616.ldo) - 06:55 16/08/2024
-- 💫 [Khởi động “Giải thưởng Quảng cáo Sáng tạo Việt Nam” 2024](https://laodong.vn/van-hoa/khoi-dong-giai-thuong-quang-cao-sang-tao-viet-nam-2024-1380693.ldo) - 06:53 16/08/2024
-- 🎭 [Giải chạy Marathon đầu tiên diễn ra ở 3 nước Việt Nam, Lào, Campuchia](https://laodong.vn/the-thao/giai-chay-marathon-dau-tien-dien-ra-o-3-nuoc-viet-nam-lao-campuchia-1380709.ldo) - 06:40 16/08/2024
-- 😎 [Nam sinh nhảy cầu Gianh mất tích](https://laodong.vn/xa-hoi/nam-sinh-nhay-cau-gianh-mat-tich-1380707.ldo) - 06:21 16/08/2024
-- 💄 [Bữa cơm công đoàn gắn kết người lao động](https://laodong.vn/ldld-thai-nguyen/bua-com-cong-doan-gan-ket-nguoi-lao-dong-1380624.ldo) - 06:19 16/08/2024
-- 🫣 [Công đoàn Bình Thuận đa dạng cách chăm lo cho công nhân lao động](https://laodong.vn/cong-doan/cong-doan-binh-thuan-da-dang-cach-cham-lo-cho-cong-nhan-lao-dong-1380363.ldo) - 06:00 16/08/2024
-- 🧑‍🏫 [Rèn thói quen thể dục giữa giờ cho hơn 16.000 công nhân, lao động](https://laodong.vn/cong-doan/ren-thoi-quen-the-duc-giua-gio-cho-hon-16000-cong-nhan-lao-dong-1380196.ldo) - 06:00 16/08/2024
-- 🦣 [Ưu điểm của xe máy điện được nhiều công nhân yêu thích](https://laodong.vn/xe/uu-diem-cua-xe-may-dien-duoc-nhieu-cong-nhan-yeu-thich-1380142.ldo) - 05:53 16/08/2024
-- 💫 [Cháy xưởng chăn đệm khiến nữ sinh viên tử vong](https://laodong.vn/xa-hoi/chay-xuong-chan-dem-khien-nu-sinh-vien-tu-vong-1380702.ldo) - 05:49 16/08/2024
-- ⛽️ [Nhóm học sinh rủ nhau đi suối La Ngâu, 1 nam sinh chết đuối](https://laodong.vn/xa-hoi/nhom-hoc-sinh-ru-nhau-di-suoi-la-ngau-1-nam-sinh-chet-duoi-1380705.ldo) - 05:18 16/08/2024
-- 💫 [Tiến độ cao tốc hơn 9.700 tỉ đồng đoạn qua Cần Thơ](https://laodong.vn/giao-thong/tien-do-cao-toc-hon-9700-ti-dong-doan-qua-can-tho-1380700.ldo) - 05:01 16/08/2024
-- 🥸 [Bên trong Khu công nghiệp 22.000 tỉ lớn nhất Lào Cai](https://laodong.vn/photo/ben-trong-khu-cong-nghiep-22000-ti-lon-nhat-lao-cai-1378467.ldo) - 05:00 16/08/2024
-- 🐻 [Bỏ quy định mỗi cặp vợ chồng chỉ sinh từ 1-2 con: Liệu có bùng nổ dân số?](https://laodong.vn/y-te/bo-quy-dinh-moi-cap-vo-chong-chi-sinh-tu-1-2-con-lieu-co-bung-no-dan-so-1379224.ldo) - 05:00 16/08/2024
-- 🪄 [Lịch thi đấu bóng chuyền quốc tế ngày 16.8](https://laodong.vn/lich-thi-dau/lich-thi-dau-bong-chuyen-quoc-te-ngay-168-1380698.ldo) - 04:43 16/08/2024
-- 🧑‍🏫 [Hành trình tạo sinh kế bền vững cho đồng bào Hà Giang](https://laodong.vn/tam-long-vang/hanh-trinh-tao-sinh-ke-ben-vung-cho-dong-bao-ha-giang-1380349.ldo) - 04:40 16/08/2024
-- 🌊 [Quản lý ngân sách hiệu quả bền vững, khoan thư sức dân](https://laodong.vn/kinh-doanh/quan-ly-ngan-sach-hieu-qua-ben-vung-khoan-thu-suc-dan-1380263.ldo) - 04:39 16/08/2024
-- 💻 [Lý do NSND Bạch Tuyết ly hôn chồng tỉ phú, trả nhà triệu USD](https://laodong.vn/gia-dinh-hon-nhan/ly-do-nsnd-bach-tuyet-ly-hon-chong-ti-phu-tra-nha-trieu-usd-1380690.ldo) - 04:36 16/08/2024
-- 👨‍🏫 [Đeo bám đến cùng để bảo vệ quyền lợi người lao động](https://laodong.vn/cong-doan/deo-bam-den-cung-de-bao-ve-quyen-loi-nguoi-lao-dong-1380341.ldo) - 04:31 16/08/2024
-- 🌈 [Tiếp sức cho đoàn viên khó khăn ở Quảng Nam](https://laodong.vn/cong-doan/tiep-suc-cho-doan-vien-kho-khan-o-quang-nam-1380344.ldo) - 04:30 16/08/2024
-- 🐲 [Tranh thủ thoát hàng bất động sản nông nghiệp ở TPHCM](https://laodong.vn/bat-dong-san/tranh-thu-thoat-hang-bat-dong-san-nong-nghiep-o-tphcm-1379489.ldo) - 04:30 16/08/2024
-- 🚀 [Vu Lan báo hiếu và sự kết nối giữa các thế hệ gia đình Việt Nam](https://laodong.vn/van-hoa-giai-tri/vu-lan-bao-hieu-va-su-ket-noi-giua-cac-the-he-gia-dinh-viet-nam-1380697.ldo) - 04:20 16/08/2024
-- 😺 [Biến động lãi suất 16.8: Bất ngờ với biến động khó lường](https://laodong.vn/kinh-doanh/bien-dong-lai-suat-168-bat-ngo-voi-bien-dong-kho-luong-1380682.ldo) - 04:09 16/08/2024
-- 🕴 [Cựu PGĐ Trung tâm Đăng kiểm Khánh Hòa lĩnh 15 năm 6 tháng tù](https://laodong.vn/phap-luat/cuu-pgd-trung-tam-dang-kiem-khanh-hoa-linh-15-nam-6-thang-tu-1380696.ldo) - 04:05 16/08/2024
-- 🌋 [Rục rịch chuẩn bị du lịch tháng 9 tại Cà Mau](https://laodong.vn/xa-hoi/ruc-rich-chuan-bi-du-lich-thang-9-tai-ca-mau-1379272.ldo) - 04:00 16/08/2024
+- 🗽 [Tập huấn công tác tuyên giáo cho hơn 300 cán bộ công đoàn](https://laodong.vn/cong-doan/tap-huan-cong-tac-tuyen-giao-cho-hon-300-can-bo-cong-doan-1380704.ldo) - 07:26 16/08/2024
+- 📝 [Tuyên Quang tổ chức Ngày hội Toàn dân bảo vệ ANTQ năm 2024](https://laodong.vn/cong-doan/tuyen-quang-to-chuc-ngay-hoi-toan-dan-bao-ve-antq-nam-2024-1380633.ldo) - 07:21 16/08/2024
+- 🦏 [Facebooker Trần Minh Lợi lãnh án 5 năm tù giam](https://laodong.vn/phap-luat/facebooker-tran-minh-loi-lanh-an-5-nam-tu-giam-1380711.ldo) - 07:18 16/08/2024
+- 🦩 [Chợ vàng mã lớn nhất TPHCM, đông người đến, ít người mua](https://laodong.vn/video/cho-vang-ma-lon-nhat-tphcm-dong-nguoi-den-it-nguoi-mua-1380548.ldo) - 07:13 16/08/2024
+- 🦏 [Nước dâng cao, bờ sông Hồng, sông Đà, sông Lô xảy ra sạt lở](https://laodong.vn/photo/nuoc-dang-cao-bo-song-hong-song-da-song-lo-xay-ra-sat-lo-1380562.ldo) - 07:10 16/08/2024
+- 🧰 [Lãi suất 16.8: Gửi tiết kiệm ngân hàng nào lãi suất cao nhất](https://laodong.vn/ban-tin/lai-suat-168-gui-tiet-kiem-ngan-hang-nao-lai-suat-cao-nhat-1380706.ldo) - 07:07 16/08/2024
+- 🌊 [Lộ diện các lãi suất hời trên 6,0% không kèm điều kiện](https://laodong.vn/video/lo-dien-cac-lai-suat-hoi-tren-60-khong-kem-dieu-kien-1380689.ldo) - 07:05 16/08/2024
+- 🔥 [Măng tây có khả năng làm giảm mỡ nội tạng hiệu quả](https://laodong.vn/video/mang-tay-co-kha-nang-lam-giam-mo-noi-tang-hieu-qua-1380460.ldo) - 07:04 16/08/2024
+- 🦒 [Xe tải cháy dữ dội trên Quốc lộ 1A](https://laodong.vn/ban-tin/xe-tai-chay-du-doi-tren-quoc-lo-1a-1380688.ldo) - 07:01 16/08/2024
+- 💼 [Tìm giải pháp tháo gỡ nợ lương, bảo hiểm xã hội trong ngành xây dựng](https://laodong.vn/cong-doan/tim-giai-phap-thao-go-no-luong-bao-hiem-xa-hoi-trong-nganh-xay-dung-1380356.ldo) - 07:00 16/08/2024
+- 🤖 [FDI tăng giúp doanh nghiệp cho thuê khu công nghiệp lãi đậm](https://laodong.vn/kinh-doanh/fdi-tang-giup-doanh-nghiep-cho-thue-khu-cong-nghiep-lai-dam-1379077.ldo) - 07:00 16/08/2024
+- 💪 [Gia Lai giải bài toán thiếu giáo viên trước thềm năm học mới](https://laodong.vn/giao-duc/gia-lai-giai-bai-toan-thieu-giao-vien-truoc-them-nam-hoc-moi-1379079.ldo) - 07:00 16/08/2024
+- 👍 [Du lịch hè Sầm Sơn bứt phá đón hàng triệu lượt khách](https://laodong.vn/xa-hoi/du-lich-he-sam-son-but-pha-don-hang-trieu-luot-khach-1379732.ldo) - 07:00 16/08/2024
+- 💂 [Người dân hết chuộng vàng mã, người bán lo ế trong ngày rằm](https://laodong.vn/video/nguoi-dan-het-chuong-vang-ma-nguoi-ban-lo-e-trong-ngay-ram-1379836.ldo) - 07:00 16/08/2024
+- 🧰 [Bún num bò chóc - đặc sản Campuchia vạn người mê ở miền Tây](https://laodong.vn/gia-dinh-hon-nhan/bun-num-bo-choc-dac-san-campuchia-van-nguoi-me-o-mien-tay-1380718.ldo) - 06:56 16/08/2024
+- 🥷 [Nơi hiếm hoi giữ nghề làm đồ chơi Trung thu truyền thống ở Hưng Yên](https://laodong.vn/van-hoa-giai-tri/noi-hiem-hoi-giu-nghe-lam-do-choi-trung-thu-truyen-thong-o-hung-yen-1380717.ldo) - 06:55 16/08/2024
+- 💫 [Arsenal cần một trung phong mạnh mẽ để cạnh tranh với Man City](https://laodong.vn/bong-da-quoc-te/arsenal-can-mot-trung-phong-manh-me-de-canh-tranh-voi-man-city-1380616.ldo) - 06:55 16/08/2024
+- 🎭 [Khởi động “Giải thưởng Quảng cáo Sáng tạo Việt Nam” 2024](https://laodong.vn/van-hoa/khoi-dong-giai-thuong-quang-cao-sang-tao-viet-nam-2024-1380693.ldo) - 06:53 16/08/2024
+- 😎 [Giải chạy Marathon đầu tiên diễn ra ở 3 nước Việt Nam, Lào, Campuchia](https://laodong.vn/the-thao/giai-chay-marathon-dau-tien-dien-ra-o-3-nuoc-viet-nam-lao-campuchia-1380709.ldo) - 06:40 16/08/2024
+- 💄 [Nam sinh nhảy cầu Gianh mất tích](https://laodong.vn/xa-hoi/nam-sinh-nhay-cau-gianh-mat-tich-1380707.ldo) - 06:21 16/08/2024
+- 🫣 [Bữa cơm công đoàn gắn kết người lao động](https://laodong.vn/ldld-thai-nguyen/bua-com-cong-doan-gan-ket-nguoi-lao-dong-1380624.ldo) - 06:19 16/08/2024
+- 🧑‍🏫 [Công đoàn Bình Thuận đa dạng cách chăm lo cho công nhân lao động](https://laodong.vn/cong-doan/cong-doan-binh-thuan-da-dang-cach-cham-lo-cho-cong-nhan-lao-dong-1380363.ldo) - 06:00 16/08/2024
+- 🦣 [Rèn thói quen thể dục giữa giờ cho hơn 16.000 công nhân, lao động](https://laodong.vn/cong-doan/ren-thoi-quen-the-duc-giua-gio-cho-hon-16000-cong-nhan-lao-dong-1380196.ldo) - 06:00 16/08/2024
+- 💫 [Ưu điểm của xe máy điện được nhiều công nhân yêu thích](https://laodong.vn/xe/uu-diem-cua-xe-may-dien-duoc-nhieu-cong-nhan-yeu-thich-1380142.ldo) - 05:53 16/08/2024
+- ⛽️ [Cháy xưởng chăn đệm khiến nữ sinh viên tử vong](https://laodong.vn/xa-hoi/chay-xuong-chan-dem-khien-nu-sinh-vien-tu-vong-1380702.ldo) - 05:49 16/08/2024
+- 💫 [Nhóm học sinh rủ nhau đi suối La Ngâu, 1 nam sinh chết đuối](https://laodong.vn/xa-hoi/nhom-hoc-sinh-ru-nhau-di-suoi-la-ngau-1-nam-sinh-chet-duoi-1380705.ldo) - 05:18 16/08/2024
+- 🥸 [Tiến độ cao tốc hơn 9.700 tỉ đồng đoạn qua Cần Thơ](https://laodong.vn/giao-thong/tien-do-cao-toc-hon-9700-ti-dong-doan-qua-can-tho-1380700.ldo) - 05:01 16/08/2024
+- 🐻 [Bên trong Khu công nghiệp 22.000 tỉ lớn nhất Lào Cai](https://laodong.vn/photo/ben-trong-khu-cong-nghiep-22000-ti-lon-nhat-lao-cai-1378467.ldo) - 05:00 16/08/2024
+- 🪄 [Bỏ quy định mỗi cặp vợ chồng chỉ sinh từ 1-2 con: Liệu có bùng nổ dân số?](https://laodong.vn/y-te/bo-quy-dinh-moi-cap-vo-chong-chi-sinh-tu-1-2-con-lieu-co-bung-no-dan-so-1379224.ldo) - 05:00 16/08/2024
+- 🧑‍🏫 [Lịch thi đấu bóng chuyền quốc tế ngày 16.8](https://laodong.vn/lich-thi-dau/lich-thi-dau-bong-chuyen-quoc-te-ngay-168-1380698.ldo) - 04:43 16/08/2024
+- 🌊 [Hành trình tạo sinh kế bền vững cho đồng bào Hà Giang](https://laodong.vn/tam-long-vang/hanh-trinh-tao-sinh-ke-ben-vung-cho-dong-bao-ha-giang-1380349.ldo) - 04:40 16/08/2024
+- 💻 [Quản lý ngân sách hiệu quả bền vững, khoan thư sức dân](https://laodong.vn/kinh-doanh/quan-ly-ngan-sach-hieu-qua-ben-vung-khoan-thu-suc-dan-1380263.ldo) - 04:39 16/08/2024
+- 👨‍🏫 [Lý do NSND Bạch Tuyết ly hôn chồng tỉ phú, trả nhà triệu USD](https://laodong.vn/gia-dinh-hon-nhan/ly-do-nsnd-bach-tuyet-ly-hon-chong-ti-phu-tra-nha-trieu-usd-1380690.ldo) - 04:36 16/08/2024
+- 🌈 [Đeo bám đến cùng để bảo vệ quyền lợi người lao động](https://laodong.vn/cong-doan/deo-bam-den-cung-de-bao-ve-quyen-loi-nguoi-lao-dong-1380341.ldo) - 04:31 16/08/2024
+- 🐲 [Tiếp sức cho đoàn viên khó khăn ở Quảng Nam](https://laodong.vn/cong-doan/tiep-suc-cho-doan-vien-kho-khan-o-quang-nam-1380344.ldo) - 04:30 16/08/2024
+- 🚀 [Tranh thủ thoát hàng bất động sản nông nghiệp ở TPHCM](https://laodong.vn/bat-dong-san/tranh-thu-thoat-hang-bat-dong-san-nong-nghiep-o-tphcm-1379489.ldo) - 04:30 16/08/2024
+- 😺 [Vu Lan báo hiếu và sự kết nối giữa các thế hệ gia đình Việt Nam](https://laodong.vn/van-hoa-giai-tri/vu-lan-bao-hieu-va-su-ket-noi-giua-cac-the-he-gia-dinh-viet-nam-1380697.ldo) - 04:20 16/08/2024
+- 🕴 [Biến động lãi suất 16.8: Bất ngờ với biến động khó lường](https://laodong.vn/kinh-doanh/bien-dong-lai-suat-168-bat-ngo-voi-bien-dong-kho-luong-1380682.ldo) - 04:09 16/08/2024
+- 🌋 [Cựu PGĐ Trung tâm Đăng kiểm Khánh Hòa lĩnh 15 năm 6 tháng tù](https://laodong.vn/phap-luat/cuu-pgd-trung-tam-dang-kiem-khanh-hoa-linh-15-nam-6-thang-tu-1380696.ldo) - 04:05 16/08/2024
 - 💄 [Nghiên cứu chính sách cho cựu thanh niên xung phong sau năm 1975](https://laodong.vn/thoi-su/nghien-cuu-chinh-sach-cho-cuu-thanh-nien-xung-phong-sau-nam-1975-1378370.ldo) - 04:00 16/08/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
