@@ -29,7 +29,7 @@ sidebar_position: 9
 - 🐲 [Bôi mỡ trăn chữa bỏng, bé trai suýt nhiễm trùng](https://vnexpress.net/boi-mo-tran-chua-bong-be-trai-suyt-nhiem-trung-4782371.html) - 14:58 16/08/2024
 - 🌝 [Tài xế hất cô gái lên capô bị bắt](https://vnexpress.net/tai-xe-hat-co-gai-len-capo-bi-bat-4782405.html) - 14:45 16/08/2024
 - 😺 [Hezbollah khoe địa đạo giấu tên lửa](https://vnexpress.net/hezbollah-khoe-dia-dao-giau-ten-lua-4782384.html) - 14:28 16/08/2024
-- 🐎 [Cháy quán bar ở Hà Nội, 3 người bị thương](https://vnexpress.net/chay-quan-bar-o-ha-noi-3-nguoi-bi-thuong-4782404.html) - 14:15 16/08/2024
+- 🐎 [Cháy quán bar ở Hà Nội, hai lính cứu hỏa bị thương](https://vnexpress.net/chay-quan-bar-o-ha-noi-hai-linh-cuu-hoa-bi-thuong-4782404.html) - 14:15 16/08/2024
 - 🎡 [16 đội tranh tài tại Chung kết AI Awards 2024](https://vnexpress.net/16-doi-tranh-tai-tai-chung-ket-ai-awards-2024-4782204.html) - 14:15 16/08/2024
 - 👨‍🏫 [Tra cứu điểm chuẩn đại học 2024 trên VnExpress](https://vnexpress.net/tra-cuu-diem-chuan-dai-hoc-2024-tren-vnexpress-4781696.html) - 14:09 16/08/2024
 - 🦆 [Chồng lén xem điện thoại của tôi](https://vnexpress.net/chong-len-xem-dien-thoai-cua-toi-4782359.html) - 14:00 16/08/2024
