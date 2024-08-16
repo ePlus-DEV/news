@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Cháy đại lý chăn ga, nữ sinh thiệt mạng](https://vnexpress.net/chay-dai-ly-chan-ga-nu-sinh-thiet-mang-4782166.html) - 06:05 16/08/2024
 - 🤓 [Thủy điện Thác Bà mở hai cửa xả](https://vnexpress.net/thuy-dien-thac-ba-mo-hai-cua-xa-4782119.html) - 04:43 16/08/2024
 - ⚗️ [Kinh phí đền bù ở dự án kênh Đôi tăng lên 6.000 tỷ đồng](https://vnexpress.net/kinh-phi-den-bu-o-du-an-kenh-doi-tang-len-6-000-ty-dong-4782131.html) - 04:29 16/08/2024
-- 🌊 [Nguyên nhân bước đầu khiến hàng trăm bò sữa bị chết](https://vnexpress.net/nguyen-nhan-buoc-dau-khien-hang-tram-bo-sua-bi-chet-4782068.html) - 03:52 16/08/2024
+- 🌊 [Đàn bò sữa mắc bệnh do tiêm vaccine nhiễm virus tiêu chảy](https://vnexpress.net/dan-bo-sua-mac-benh-do-tiem-vaccine-nhiem-virus-tieu-chay-4782068.html) - 03:52 16/08/2024
 - 🎓 [Công trình chống ngập trên cao tốc Dầu Giây - Phan Thiết](https://vnexpress.net/cong-trinh-chong-ngap-tren-cao-toc-dau-giay-phan-thiet-4781974.html) - 02:30 16/08/2024
 - 🔥 [Nghiên cứu tổ chức lại giao thông trên cao tốc Cam Lộ - La Sơn](https://vnexpress.net/nghien-cuu-to-chuc-lai-giao-thong-tren-cao-toc-cam-lo-la-son-4781642.html) - 02:27 16/08/2024
 - 🦏 [Hơn 200 ha dừa ở Tiền Giang bị sâu đầu đen phá hoại](https://vnexpress.net/hon-200-ha-dua-o-tien-giang-bi-sau-dau-den-pha-hoai-4781890.html) - 17:01 15/08/2024
