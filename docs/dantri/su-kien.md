@@ -5,7 +5,7 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [20 phút nghẹt thở cấp cứu bệnh nhân ngừng tim từ tay &quot;tử thần&quot;](https://dantri.com.vn/suc-khoe/20-phut-nghet-tho-cap-cuu-benh-nhan-ngung-tim-tu-tay-tu-than-20240816083539655.htm) - 01:50 16/08/2024
-- 👨‍🏫 [Đang giao lưu trực tuyến: Ứng phó với dịch sởi ở TPHCM và khu vực phía Nam](https://dantri.com.vn/suc-khoe/dang-giao-luu-truc-tuyen-ung-pho-voi-dich-soi-o-tphcm-va-khu-vuc-phia-nam-20240815164004550.htm) - 01:05 16/08/2024
+- 👨‍🏫 [Giao lưu trực tuyến: Ứng phó với dịch sởi ở TPHCM và khu vực phía Nam](https://dantri.com.vn/suc-khoe/giao-luu-truc-tuyen-ung-pho-voi-dich-soi-o-tphcm-va-khu-vuc-phia-nam-20240815164004550.htm) - 01:05 16/08/2024
 - 🌮 [Bà Harris đồng ý tranh luận lần hai với ông Trump](https://dantri.com.vn/the-gioi/ba-harris-dong-y-tranh-luan-lan-hai-voi-ong-trump-20240816074229859.htm) - 00:45 16/08/2024
 - 🕯 [ARMY-2024: Nga trưng bày dàn chiến lợi phẩm đắt giá từ Ukraine](https://dantri.com.vn/the-gioi/army-2024-nga-trung-bay-dan-chien-loi-pham-dat-gia-tu-ukraine-20240816060754655.htm) - 23:45 15/08/2024
 - 🪜 [Nga rút khẩn cấp hàng nghìn quân từ Ukraine về Kursk](https://dantri.com.vn/the-gioi/nga-rut-khan-cap-hang-nghin-quan-tu-ukraine-ve-kursk-20240816052204304.htm) - 23:38 15/08/2024
