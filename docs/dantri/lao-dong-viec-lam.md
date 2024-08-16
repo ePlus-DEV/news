@@ -5,7 +5,7 @@ sidebar_position: 19
 
 <!-- dantri-lao-dong-viec-lam:START -->
 - ⚗️ [&quot;Đánh đu trên cao&quot;, người phụ nữ kiếm 1,8 tỷ đồng/năm](https://dantri.com.vn/lao-dong-viec-lam/danh-du-tren-cao-nguoi-phu-nu-kiem-18-ty-dongnam-20240815154420941.htm) - 00:59 16/08/2024
-- 🙉 [Trung Quốc tăng thu mua, giá cau &quot;đội&quot; lên 10 lần](https://dantri.com.vn/lao-dong-viec-lam/trung-quoc-tang-thu-mua-gia-cau-doi-len-10-lan-20240815165438031.htm) - 23:00 15/08/2024
+- 🙉 [Giá cau đột nhiên tăng gấp 10, nhà vườn dè dặt... đợi](https://dantri.com.vn/lao-dong-viec-lam/gia-cau-dot-nhien-tang-gap-10-nha-vuon-de-dat-doi-20240815165438031.htm) - 23:00 15/08/2024
 - 🕴 [Việt Nam duy trì lượng lao động lớn đi Nhật, có thể mở thêm 2 ngành nghề](https://dantri.com.vn/lao-dong-viec-lam/viet-nam-duy-tri-luong-lao-dong-lon-di-nhat-co-the-mo-them-2-nganh-nghe-20240815181743720.htm) - 11:42 15/08/2024
 - 🧐 [Nhân viên y tế bị &quot;cắt&quot; 1,5 tỷ đồng phụ cấp chống dịch để… tạo sự đoàn kết!](https://dantri.com.vn/lao-dong-viec-lam/nhan-vien-y-te-bi-cat-15-ty-dong-phu-cap-chong-dich-de-tao-su-doan-ket-20240815171418309.htm) - 10:43 15/08/2024
 - 🧑‍💻 [&quot;Nhà lầu, xe hơi&quot; ế ẩm, tiểu thương khóc ròng giữa chợ vì mùa vu lan lỗ vốn](https://dantri.com.vn/lao-dong-viec-lam/nha-lau-xe-hoi-e-am-tieu-thuong-khoc-rong-giua-cho-vi-mua-vu-lan-lo-von-20240815144104523.htm) - 08:21 15/08/2024
