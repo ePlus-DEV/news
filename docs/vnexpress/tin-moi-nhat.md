@@ -12,7 +12,7 @@ sidebar_position: 9
 - 🎃 [Muốn bỏ chồng nhưng sợ phải sống một mình](https://vnexpress.net/muon-bo-chong-nhung-so-phai-song-mot-minh-4782610.html) - 11:00 17/08/2024
 - 🧰 [Điểm chuẩn Đại học Y tế công cộng cao nhất 22,95](https://vnexpress.net/diem-chuan-dai-hoc-y-te-cong-cong-cao-nhat-22-95-4782580.html) - 11:00 17/08/2024
 - 🔭 [Single mom tìm bạn đồng hành nắm tay khi về già](https://vnexpress.net/single-mom-tim-ban-dong-hanh-nam-tay-khi-ve-gia-4782507.html) - 11:00 17/08/2024
-- 🫶 [Điểm chuẩn Đại học Ngoại thương từ 26 đến 28,5](https://vnexpress.net/diem-chuan-dai-hoc-ngoai-thuong-nam-2024-4782112.html) - 10:59 17/08/2024
+- 🫶 [Điểm chuẩn Đại học Ngoại thương cao nhất 28,5](https://vnexpress.net/diem-chuan-dai-hoc-ngoai-thuong-nam-2024-4782112.html) - 10:59 17/08/2024
 - 🪜 [Điểm chuẩn Đại học Bách khoa TP HCM cao nhất 84,16/100](https://vnexpress.net/diem-chuan-dai-hoc-bach-khoa-tp-hcm-hcmut-2024-4782466.html) - 10:57 17/08/2024
 - 👨‍🏫 [Đại học Kinh tế Quốc dân công bố điểm chuẩn](https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-quoc-dan-nam-2024-4782078.html) - 10:52 17/08/2024
 - 🎊 [Đại học Kinh tế - Tài chính TP HCM công bố điểm chuẩn](https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-tai-chinh-tp-hcm-2024-4782602.html) - 10:48 17/08/2024
