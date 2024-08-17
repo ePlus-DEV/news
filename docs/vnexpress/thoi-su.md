@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Lật ôtô, 18 người bị thương](https://vnexpress.net/lat-oto-18-nguoi-bi-thuong-4782639.html) - 09:52 17/08/2024
+- 🦒 [Ôtô chở 17 người lật trên quốc lộ](https://vnexpress.net/oto-cho-17-nguoi-lat-tren-quoc-lo-4782639.html) - 09:52 17/08/2024
 - 🤓 [Ba bản ở Sơn La bị ngập hơn 20 ngày](https://vnexpress.net/ba-ban-o-son-la-bi-ngap-hon-20-ngay-4782593.html) - 09:30 17/08/2024
 - ⚗️ [300 lao động có thể tham gia trao đổi tài năng tại Singapore](https://vnexpress.net/300-lao-dong-co-the-tham-gia-trao-doi-tai-nang-tai-singapore-4782534.html) - 07:39 17/08/2024
 - 🌊 [Thủ tướng yêu cầu Hà Nội khắc phục ô nhiễm, ngập lụt, ùn tắc](https://vnexpress.net/thu-tuong-yeu-cau-ha-noi-khac-phuc-o-nhiem-ngap-lut-un-tac-4782568.html) - 07:18 17/08/2024
