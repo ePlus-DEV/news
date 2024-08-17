@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [&quot;Đồ cõi âm&quot;, người bán đến khuya, người than ế khách](https://dantri.com.vn/lao-dong-viec-lam/do-coi-am-nguoi-ban-den-khuya-nguoi-than-e-khach-20240816142812470.htm) - 01:30 17/08/2024
+- ⚗️ [Đồ cõi âm, người bán đến khuya, người than ế khách](https://dantri.com.vn/lao-dong-viec-lam/do-coi-am-nguoi-ban-den-khuya-nguoi-than-e-khach-20240816142812470.htm) - 01:30 17/08/2024
 - 🙉 [Đào tạo 50.000 kỹ sư bán dẫn để thu hút các &quot;ông lớn&quot; ngành công nghệ](https://dantri.com.vn/lao-dong-viec-lam/dao-tao-50000-ky-su-ban-dan-de-thu-hut-cac-ong-lon-nganh-cong-nghe-20240817000953280.htm) - 00:30 17/08/2024
 - 🕴 [Những nhân sự &quot;bùng&quot; phỏng vấn, mất hút khi thử việc](https://dantri.com.vn/lao-dong-viec-lam/nhung-nhan-su-bung-phong-van-mat-hut-khi-thu-viec-20240816194315045.htm) - 23:00 16/08/2024
 - 🧐 [Công ty chưa thanh toán 1 ngày lương, 60 công nhân ngưng việc](https://dantri.com.vn/lao-dong-viec-lam/cong-ty-chua-thanh-toan-1-ngay-luong-60-cong-nhan-ngung-viec-20240816181009393.htm) - 11:41 16/08/2024
