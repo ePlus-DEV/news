@@ -277,7 +277,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚦 [CLIP: Lật xe khách chở 18 người trên Quốc lộ 14](https://nld.com.vn/clip-lat-xe-khach-cho-18-nguoi-tren-quoc-lo-14-196240817170018946.htm) - 10:15 17/08/2024
 - 🪜 [TP HCM kiến nghị nhiều vấn đề lớn đến Tổng Bí thư, Chủ tịch nước](https://nld.com.vn/tp-hcm-kien-nghi-nhieu-van-de-lon-den-tong-bi-thu-chu-tich-nuoc-196240817170651444.htm) - 10:09 17/08/2024
 - 💫 [Hợp tác nâng tầm đặc sản tỏi Lý Sơn](https://nld.com.vn/hop-tac-nang-tam-dac-san-toi-ly-son-196240817165242126.htm) - 10:06 17/08/2024
-- 🔭 [[Cập nhật] Những trường đầu tiên công bố điểm chuẩn ĐH 2024](https://nld.com.vn/cap-nhat-nhung-truong-dau-tien-cong-bo-diem-chuan-dh-2024-196240816161513004.htm) - 10:05 17/08/2024
+- 🔭 [Công bố điểm chuẩn ĐH 2024 mới nhất](https://nld.com.vn/cong-bo-diem-chuan-dh-2024-moi-nhat-196240816161513004.htm) - 10:05 17/08/2024
 - 🌝 [Vụ 149 người ngộ độc khi ăn bánh mì thịt: Vi khuẩn trong patê gan](https://nld.com.vn/vu-149-nguoi-ngo-doc-khi-an-banh-mi-thit-vi-khuan-trong-pate-gan-196240817164507981.htm) - 09:56 17/08/2024
 - 💪 [Nhà sản xuất &quot;Ma Da&quot; xin lỗi NSƯT Thành Lộc, Cẩm Ly](https://nld.com.vn/nha-san-xuat-ma-da-xin-loi-nsut-thanh-loc-cam-ly-196240817162155295.htm) - 09:55 17/08/2024
 - 🦍 [TP HCM: Hai thanh niên &quot;tổ lái&quot; nằm dài trên xe máy](https://nld.com.vn/tp-hcm-hai-thanh-nien-to-lai-nam-dai-tren-xe-may-196240716141755215.htm) - 09:55 17/08/2024
