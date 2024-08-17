@@ -37,7 +37,7 @@ sidebar_position: 9
 - 💫 [Tìm chàng trai cũng hướng nội như em](https://vnexpress.net/tim-chang-trai-cung-huong-noi-nhu-em-4780179.html) - 14:00 17/08/2024
 - 🎉 [Cháy lớn công ty gỗ ở Bình Dương](https://vnexpress.net/chay-lon-cong-ty-go-o-binh-duong-4782690.html) - 13:52 17/08/2024
 - 🌋 [Liverpool khởi đầu suôn sẻ cùng tân HLV Arne Slot](https://vnexpress.net/liverpool-khoi-dau-suon-se-cung-tan-hlv-arne-slot-4782688.html) - 13:35 17/08/2024
-- 🤖 [Hơn 100 đại học công bố điểm chuẩn 2024](https://vnexpress.net/diem-chuan-dai-hoc-2024-4782628.html) - 13:35 17/08/2024
+- 🤖 [Hơn 90 đại học công bố điểm chuẩn 2024](https://vnexpress.net/diem-chuan-dai-hoc-2024-4782628.html) - 13:35 17/08/2024
 - 🦏 [Ngành Logistics lấy điểm chuẩn cao nhất Đại học Xây dựng Hà Nội](https://vnexpress.net/diem-chuan-dai-hoc-xay-dung-ha-noi-2024-4782527.html) - 13:22 17/08/2024
 - 🦩 [Cháy trung tâm nghệ thuật lịch sử ở London](https://vnexpress.net/chay-trung-tam-nghe-thuat-lich-su-o-london-4782685.html) - 13:20 17/08/2024
 - 👺 [Ngành ngôn ngữ Trung Quốc lấy điểm chuẩn cao nhất Đại học Hà Nội](https://vnexpress.net/diem-chuan-dai-hoc-ha-noi-nam-2024-4781956.html) - 13:16 17/08/2024
