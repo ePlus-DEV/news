@@ -211,46 +211,46 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Điểm chuẩn Trường Đại học Giao thông Vận tải năm 2024](https://laodong.vn/giao-duc/diem-chuan-truong-dai-hoc-giao-thong-van-tai-nam-2024-1381051.ldo) - 12:43 17/08/2024
-- 📝 [Điểm chuẩn Trường Đại học Phenikaa năm 2024](https://laodong.vn/giao-duc/diem-chuan-truong-dai-hoc-phenikaa-nam-2024-1381048.ldo) - 12:42 17/08/2024
-- 🦏 [Thêm trường công bố điểm chuẩn ngành Quản trị kinh doanh](https://laodong.vn/giao-duc/them-truong-cong-bo-diem-chuan-nganh-quan-tri-kinh-doanh-1380942.ldo) - 12:42 17/08/2024
-- 🦩 [Điểm chuẩn Trường Đại học Thủy lợi 2024](https://laodong.vn/giao-duc/diem-chuan-truong-dai-hoc-thuy-loi-2024-1381053.ldo) - 12:42 17/08/2024
-- 🦏 [Điểm chuẩn Trường Đại học Y Dược- Đại học Quốc gia Hà Nội](https://laodong.vn/tuyen-sinh/diem-chuan-truong-dai-hoc-y-duoc-dai-hoc-quoc-gia-ha-noi-1381044.ldo) - 12:40 17/08/2024
-- 🧰 [Điểm chuẩn Trường Sĩ quan Lục quân 1 năm 2024](https://laodong.vn/giao-duc/diem-chuan-truong-si-quan-luc-quan-1-nam-2024-1380905.ldo) - 12:40 17/08/2024
-- 🌊 [Đại học Bách khoa Đà Nẵng công bố điểm chuẩn](https://laodong.vn/giao-duc/dai-hoc-bach-khoa-da-nang-cong-bo-diem-chuan-1380997.ldo) - 12:39 17/08/2024
-- 🔥 [Vị thuốc tự nhiên giúp giảm mỡ nội tạng hiệu quả](https://laodong.vn/video/vi-thuoc-tu-nhien-giup-giam-mo-noi-tang-hieu-qua-1380695.ldo) - 12:39 17/08/2024
-- 🦒 [8 lợi ích giúp giảm cân hiệu quả của tảo xoắn](https://laodong.vn/suc-khoe/8-loi-ich-giup-giam-can-hieu-qua-cua-tao-xoan-1380969.ldo) - 12:36 17/08/2024
-- 💼 [Điểm chuẩn Trường Đại học Gia Định năm 2024](https://laodong.vn/giao-duc/diem-chuan-truong-dai-hoc-gia-dinh-nam-2024-1380300.ldo) - 12:35 17/08/2024
-- 🤖 [Đại học Công Thương TPHCM công bố điểm chuẩn 2024](https://laodong.vn/giao-duc/dai-hoc-cong-thuong-tphcm-cong-bo-diem-chuan-2024-1376808.ldo) - 12:35 17/08/2024
-- 💪 [Cháy lớn tại xưởng gỗ, cột khói bốc cao hàng chục mét](https://laodong.vn/ban-tin/chay-lon-tai-xuong-go-cot-khoi-boc-cao-hang-chuc-met-1381041.ldo) - 12:33 17/08/2024
-- 👍 [Điểm chuẩn Trường Sĩ quan Hải quân năm 2024](https://laodong.vn/giao-duc/diem-chuan-truong-si-quan-hai-quan-nam-2024-1381045.ldo) - 12:30 17/08/2024
-- 💂 [Điểm chuẩn Trường Đại học Cần Thơ cao nhất 28,43 điểm](https://laodong.vn/tuyen-sinh/diem-chuan-truong-dai-hoc-can-tho-cao-nhat-2843-diem-1381047.ldo) - 12:29 17/08/2024
-- 🧰 [Điểm chuẩn Trường Đại học Khoa học Tự nhiên TPHCM năm 2024](https://laodong.vn/giao-duc/diem-chuan-truong-dai-hoc-khoa-hoc-tu-nhien-tphcm-nam-2024-1379828.ldo) - 12:29 17/08/2024
-- 🥷 [Điểm chuẩn Học viện Báo chí và Tuyên truyền năm 2024](https://laodong.vn/giao-duc/diem-chuan-hoc-vien-bao-chi-va-tuyen-truyen-nam-2024-1381042.ldo) - 12:29 17/08/2024
-- 💫 [Điểm chuẩn Trường Đại học Công nghệ, ĐH Quốc gia Hà Nội](https://laodong.vn/giao-duc/diem-chuan-truong-dai-hoc-cong-nghe-dh-quoc-gia-ha-noi-1381046.ldo) - 12:19 17/08/2024
-- 🎭 [Điểm chuẩn Trường Đại học Kinh tế năm 2024](https://laodong.vn/giao-duc/diem-chuan-truong-dai-hoc-kinh-te-nam-2024-1378072.ldo) - 12:19 17/08/2024
-- 😎 [Điểm chuẩn Học viện Khoa học quân sự cao nhất 28,22 điểm](https://laodong.vn/giao-duc/diem-chuan-hoc-vien-khoa-hoc-quan-su-cao-nhat-2822-diem-1380911.ldo) - 12:19 17/08/2024
-- 💄 [Điểm chuẩn Trường Đại học Luật Hà Nội năm 2024](https://laodong.vn/giao-duc/diem-chuan-truong-dai-hoc-luat-ha-noi-nam-2024-1380998.ldo) - 12:19 17/08/2024
-- 🫣 [Xe chở xi măng bốc cháy trên đường](https://laodong.vn/xa-hoi/xe-cho-xi-mang-boc-chay-tren-duong-1381034.ldo) - 12:19 17/08/2024
-- 🧑‍🏫 [Thời trang của nữ Thủ tướng trẻ nhất trong lịch sử Thái Lan](https://laodong.vn/thoi-trang/thoi-trang-cua-nu-thu-tuong-tre-nhat-trong-lich-su-thai-lan-1380966.ldo) - 12:08 17/08/2024
-- 🦣 [Nghi vấn một nước EU bí mật đứng sau vụ nổ Nord Stream](https://laodong.vn/the-gioi/nghi-van-mot-nuoc-eu-bi-mat-dung-sau-vu-no-nord-stream-1381026.ldo) - 12:05 17/08/2024
-- 💫 [Điểm chuẩn Học viện Phòng không - Không quân năm 2024](https://laodong.vn/giao-duc/diem-chuan-hoc-vien-phong-khong-khong-quan-nam-2024-1380981.ldo) - 12:02 17/08/2024
-- ⛽️ [Điểm chuẩn Trường Sĩ quan Chính trị năm 2024](https://laodong.vn/giao-duc/diem-chuan-truong-si-quan-chinh-tri-nam-2024-1380989.ldo) - 12:00 17/08/2024
-- 💫 [Điểm chuẩn Trường Đại học Y dược Cần Thơ cao nhất 25,7 điểm](https://laodong.vn/tuyen-sinh/diem-chuan-truong-dai-hoc-y-duoc-can-tho-cao-nhat-257-diem-1381035.ldo) - 12:00 17/08/2024
-- 🥸 [Điểm chuẩn Học viện Biên phòng cao nhất 28,37 điểm](https://laodong.vn/giao-duc/diem-chuan-hoc-vien-bien-phong-cao-nhat-2837-diem-1380917.ldo) - 12:00 17/08/2024
-- 🐻 [Khám phá ga Long Biên, điểm đến yêu thích mới của giới trẻ](https://laodong.vn/video/kham-pha-ga-long-bien-diem-den-yeu-thich-moi-cua-gioi-tre-1378732.ldo) - 12:00 17/08/2024
-- 🪄 [Điểm chuẩn Trường Đại học Dược Hà Nội](https://laodong.vn/giao-duc/diem-chuan-truong-dai-hoc-duoc-ha-noi-1380879.ldo) - 11:58 17/08/2024
-- 🧑‍🏫 [Điểm chuẩn Học viện Hậu cần năm 2024](https://laodong.vn/giao-duc/diem-chuan-hoc-vien-hau-can-nam-2024-1380987.ldo) - 11:58 17/08/2024
-- 🌊 [Điểm chuẩn Đại học Ngân hàng TPHCM từ 20,45 đến 26,36 điểm](https://laodong.vn/giao-duc/diem-chuan-dai-hoc-ngan-hang-tphcm-tu-2045-den-2636-diem-1379838.ldo) - 11:58 17/08/2024
-- 💻 [Học viện Kỹ thuật Quân sự công bố điểm chuẩn 2024](https://laodong.vn/giao-duc/hoc-vien-ky-thuat-quan-su-cong-bo-diem-chuan-2024-1380919.ldo) - 11:58 17/08/2024
-- 👨‍🏫 [Điểm chuẩn Trường Đại học Khoa học Tự nhiên năm 2024](https://laodong.vn/giao-duc/diem-chuan-truong-dai-hoc-khoa-hoc-tu-nhien-nam-2024-1381038.ldo) - 11:56 17/08/2024
-- 🌈 [Điểm chuẩn Trường Đại học Y Dược Thái Nguyên từ 19,5 điểm](https://laodong.vn/giao-duc/diem-chuan-truong-dai-hoc-y-duoc-thai-nguyen-tu-195-diem-1380886.ldo) - 11:56 17/08/2024
-- 🐲 [Chi tiết điểm chuẩn Học viện Quân y năm 2024](https://laodong.vn/giao-duc/chi-tiet-diem-chuan-hoc-vien-quan-y-nam-2024-1380925.ldo) - 11:51 17/08/2024
-- 🚀 [Biểu hiện khi đi ngủ chứng tỏ axit uric đang tăng vọt](https://laodong.vn/video/bieu-hien-khi-di-ngu-chung-to-axit-uric-dang-tang-vot-1381002.ldo) - 11:40 17/08/2024
-- 😺 [Tuyển bóng chuyền nam Việt Nam thua trận thứ 2 liên tiếp tại SEA V.League](https://laodong.vn/the-thao/tuyen-bong-chuyen-nam-viet-nam-thua-tran-thu-2-lien-tiep-tai-sea-vleague-1381008.ldo) - 11:39 17/08/2024
-- 🕴 [5 bài tập cường độ thấp tốt nhất để đốt cháy mỡ nội tạng](https://laodong.vn/media/5-bai-tap-cuong-do-thap-tot-nhat-de-dot-chay-mo-noi-tang-1380856.ldo) - 11:36 17/08/2024
-- 🌋 [Điểm chuẩn Đại học Bách khoa TPHCM năm 2024](https://laodong.vn/giao-duc/diem-chuan-dai-hoc-bach-khoa-tphcm-nam-2024-1378121.ldo) - 11:36 17/08/2024
-- 💄 [Chúc An, Đức Sơn lên ngôi vô địch giải golf Quốc gia 2024](https://laodong.vn/golf/chuc-an-duc-son-len-ngoi-vo-dich-giai-golf-quoc-gia-2024-1381016.ldo) - 11:35 17/08/2024<!-- laodong:END -->
+- 🗽 [Định hình tương lai TP Hồ Chí Minh là thành phố toàn cầu](https://laodong.vn/thoi-su/dinh-hinh-tuong-lai-tp-ho-chi-minh-la-thanh-pho-toan-cau-1381052.ldo) - 13:20 17/08/2024
+- 📝 [Trường Đại học Hà Nội công bố điểm chuẩn năm 2024](https://laodong.vn/giao-duc/truong-dai-hoc-ha-noi-cong-bo-diem-chuan-nam-2024-1380938.ldo) - 13:19 17/08/2024
+- 🦏 [Điểm chuẩn Trường Đại học Sư phạm Hà Nội 2 năm 2024](https://laodong.vn/giao-duc/diem-chuan-truong-dai-hoc-su-pham-ha-noi-2-nam-2024-1380949.ldo) - 13:19 17/08/2024
+- 🦩 [Đã có điểm chuẩn Trường Đại học Hà Nội năm 2024](https://laodong.vn/giao-duc/da-co-diem-chuan-truong-dai-hoc-ha-noi-nam-2024-1381061.ldo) - 13:19 17/08/2024
+- 🦏 [Những lợi ích sức khỏe của bài tập goblet squat](https://laodong.vn/suc-khoe/nhung-loi-ich-suc-khoe-cua-bai-tap-goblet-squat-1381031.ldo) - 13:18 17/08/2024
+- 🧰 [Thêm nhiều trường quân đội công bố điểm chuẩn năm 2024](https://laodong.vn/giao-duc/them-nhieu-truong-quan-doi-cong-bo-diem-chuan-nam-2024-1381056.ldo) - 13:18 17/08/2024
+- 🌊 [Điểm chuẩn Trường Sĩ quan Lục quân 2 năm 2024](https://laodong.vn/giao-duc/diem-chuan-truong-si-quan-luc-quan-2-nam-2024-1381059.ldo) - 13:18 17/08/2024
+- 🔥 [Điểm chuẩn Trường Đại học Xây dựng cao nhất 24,8 điểm](https://laodong.vn/giao-duc/diem-chuan-truong-dai-hoc-xay-dung-cao-nhat-248-diem-1380933.ldo) - 13:18 17/08/2024
+- 🦒 [Nạn nhân kể về khoảnh khắc xe khách bị lật trên Quốc lộ 14](https://laodong.vn/xa-hoi/nan-nhan-ke-ve-khoanh-khac-xe-khach-bi-lat-tren-quoc-lo-14-1381049.ldo) - 13:17 17/08/2024
+- 💼 [Điểm chuẩn Trường Đại học Văn hóa Hà Nội từ 22,85 điểm](https://laodong.vn/giao-duc/diem-chuan-truong-dai-hoc-van-hoa-ha-noi-tu-2285-diem-1380935.ldo) - 13:17 17/08/2024
+- 🤖 [Điểm chuẩn Trường Đại học Khoa học Xã hội và Nhân văn 2024](https://laodong.vn/tuyen-sinh/diem-chuan-truong-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-2024-1381054.ldo) - 13:17 17/08/2024
+- 💪 [Dự báo thời tiết 10 ngày tới từ 17.8 đến 27.8 ở cả ba miền](https://laodong.vn/moi-truong/du-bao-thoi-tiet-10-ngay-toi-tu-178-den-278-o-ca-ba-mien-1381039.ldo) - 13:15 17/08/2024
+- 👍 [Lịch tựu trường, khai giảng năm học mới ở Đồng Nai](https://laodong.vn/giao-duc/lich-tuu-truong-khai-giang-nam-hoc-moi-o-dong-nai-1381040.ldo) - 13:04 17/08/2024
+- 💂 [Người gốc Việt Nam ở nước ngoài có được thế chấp nhà?](https://laodong.vn/tu-van-phap-luat/nguoi-goc-viet-nam-o-nuoc-ngoai-co-duoc-the-chap-nha-1379371.ldo) - 13:00 17/08/2024
+- 🧰 [Sinh viên Hà Nội áp lực vì giá phòng trọ tăng chóng mặt](https://laodong.vn/bat-dong-san/sinh-vien-ha-noi-ap-luc-vi-gia-phong-tro-tang-chong-mat-1379415.ldo) - 13:00 17/08/2024
+- 🥷 [Thay đổi vị trí xây dựng dự án Thiết chế Công đoàn ở Bến Tre](https://laodong.vn/ldld-ben-tre/thay-doi-vi-tri-xay-dung-du-an-thiet-che-cong-doan-o-ben-tre-1379592.ldo) - 13:00 17/08/2024
+- 💫 [Giờ thứ 9: Sức mạnh của quá khứ - Phần 2](https://laodong.vn/video-van-hoa-giai-tri/gio-thu-9-suc-manh-cua-qua-khu-phan-2-1379934.ldo) - 13:00 17/08/2024
+- 🎭 [Bản tin dự báo thời tiết đêm nay và ngày mai 18.8](https://laodong.vn/video-xa-hoi/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-188-1379974.ldo) - 13:00 17/08/2024
+- 😎 [Điểm chuẩn đợt 1 Trường Đại học Mở Hà Nội](https://laodong.vn/giao-duc/diem-chuan-dot-1-truong-dai-hoc-mo-ha-noi-1381058.ldo) - 12:57 17/08/2024
+- 💄 [Điểm chuẩn Y dược Đà Nẵng từ 22,35 đến 25,57 điểm](https://laodong.vn/giao-duc/diem-chuan-y-duoc-da-nang-tu-2235-den-2557-diem-1380999.ldo) - 12:57 17/08/2024
+- 🫣 [Điểm chuẩn Trường Đại học Tài chính – Marketing năm 2024](https://laodong.vn/giao-duc/diem-chuan-truong-dai-hoc-tai-chinh--marketing-nam-2024-1379876.ldo) - 12:57 17/08/2024
+- 🧑‍🏫 [Điểm chuẩn Đại học Kinh tế và Ngoại ngữ Đà Nẵng năm 2024](https://laodong.vn/giao-duc/diem-chuan-dai-hoc-kinh-te-va-ngoai-ngu-da-nang-nam-2024-1380994.ldo) - 12:57 17/08/2024
+- 🦣 [Điểm chuẩn Trường Đại học Giao thông Vận tải năm 2024](https://laodong.vn/giao-duc/diem-chuan-truong-dai-hoc-giao-thong-van-tai-nam-2024-1381051.ldo) - 12:43 17/08/2024
+- 💫 [Điểm chuẩn Trường Đại học Phenikaa năm 2024](https://laodong.vn/giao-duc/diem-chuan-truong-dai-hoc-phenikaa-nam-2024-1381048.ldo) - 12:42 17/08/2024
+- ⛽️ [Thêm trường công bố điểm chuẩn ngành Quản trị kinh doanh](https://laodong.vn/giao-duc/them-truong-cong-bo-diem-chuan-nganh-quan-tri-kinh-doanh-1380942.ldo) - 12:42 17/08/2024
+- 💫 [Điểm chuẩn Trường Đại học Thủy lợi 2024](https://laodong.vn/giao-duc/diem-chuan-truong-dai-hoc-thuy-loi-2024-1381053.ldo) - 12:42 17/08/2024
+- 🥸 [Điểm chuẩn Trường Đại học Y Dược- Đại học Quốc gia Hà Nội](https://laodong.vn/tuyen-sinh/diem-chuan-truong-dai-hoc-y-duoc-dai-hoc-quoc-gia-ha-noi-1381044.ldo) - 12:40 17/08/2024
+- 🐻 [Điểm chuẩn Trường Sĩ quan Lục quân 1 năm 2024](https://laodong.vn/giao-duc/diem-chuan-truong-si-quan-luc-quan-1-nam-2024-1380905.ldo) - 12:40 17/08/2024
+- 🪄 [Đại học Bách khoa Đà Nẵng công bố điểm chuẩn](https://laodong.vn/giao-duc/dai-hoc-bach-khoa-da-nang-cong-bo-diem-chuan-1380997.ldo) - 12:39 17/08/2024
+- 🧑‍🏫 [Vị thuốc tự nhiên giúp giảm mỡ nội tạng hiệu quả](https://laodong.vn/video/vi-thuoc-tu-nhien-giup-giam-mo-noi-tang-hieu-qua-1380695.ldo) - 12:39 17/08/2024
+- 🌊 [8 lợi ích giúp giảm cân hiệu quả của tảo xoắn](https://laodong.vn/suc-khoe/8-loi-ich-giup-giam-can-hieu-qua-cua-tao-xoan-1380969.ldo) - 12:36 17/08/2024
+- 💻 [Điểm chuẩn Trường Đại học Gia Định năm 2024](https://laodong.vn/giao-duc/diem-chuan-truong-dai-hoc-gia-dinh-nam-2024-1380300.ldo) - 12:35 17/08/2024
+- 👨‍🏫 [Đại học Công Thương TPHCM công bố điểm chuẩn 2024](https://laodong.vn/giao-duc/dai-hoc-cong-thuong-tphcm-cong-bo-diem-chuan-2024-1376808.ldo) - 12:35 17/08/2024
+- 🌈 [Cháy lớn tại xưởng gỗ, cột khói bốc cao hàng chục mét](https://laodong.vn/ban-tin/chay-lon-tai-xuong-go-cot-khoi-boc-cao-hang-chuc-met-1381041.ldo) - 12:33 17/08/2024
+- 🐲 [Điểm chuẩn Trường Sĩ quan Hải quân năm 2024](https://laodong.vn/giao-duc/diem-chuan-truong-si-quan-hai-quan-nam-2024-1381045.ldo) - 12:30 17/08/2024
+- 🚀 [Điểm chuẩn Trường Đại học Cần Thơ cao nhất 28,43 điểm](https://laodong.vn/tuyen-sinh/diem-chuan-truong-dai-hoc-can-tho-cao-nhat-2843-diem-1381047.ldo) - 12:29 17/08/2024
+- 😺 [Điểm chuẩn Trường Đại học Khoa học Tự nhiên TPHCM năm 2024](https://laodong.vn/giao-duc/diem-chuan-truong-dai-hoc-khoa-hoc-tu-nhien-tphcm-nam-2024-1379828.ldo) - 12:29 17/08/2024
+- 🕴 [Điểm chuẩn Học viện Báo chí và Tuyên truyền năm 2024](https://laodong.vn/giao-duc/diem-chuan-hoc-vien-bao-chi-va-tuyen-truyen-nam-2024-1381042.ldo) - 12:29 17/08/2024
+- 🌋 [Điểm chuẩn Trường Đại học Công nghệ, ĐH Quốc gia Hà Nội](https://laodong.vn/giao-duc/diem-chuan-truong-dai-hoc-cong-nghe-dh-quoc-gia-ha-noi-1381046.ldo) - 12:19 17/08/2024
+- 💄 [Điểm chuẩn Trường Đại học Kinh tế năm 2024](https://laodong.vn/giao-duc/diem-chuan-truong-dai-hoc-kinh-te-nam-2024-1378072.ldo) - 12:19 17/08/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
