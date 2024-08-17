@@ -4,63 +4,63 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Điểm chuẩn Đại học Công nghiệp TP HCM tăng 0,5-2,5 điểm](https://vnexpress.net/diem-chuan-dai-hoc-cong-nghiep-tp-hcm-2024-4782680.html) - 12:33 17/08/2024
-- 🦆 [Điểm chuẩn Đại học Khoa học Xã hội và Nhân văn Hà Nội cao nhất 29,1](https://vnexpress.net/diem-chuan-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-ha-noi-cao-nhat-29-1-4782335.html) - 12:32 17/08/2024
-- 🦩 [Đại học Mở Hà Nội lấy điểm chuẩn từ 17 trở lên](https://vnexpress.net/diem-chuan-dai-hoc-mo-ha-noi-nam-2024-4782553.html) - 12:29 17/08/2024
-- 🌮 [Học viện Kỹ thuật Mật mã lấy điểm chuẩn từ 24,85 đến 26,1](https://vnexpress.net/diem-chuan-hoc-vien-ky-thuat-mat-ma-2024-4782662.html) - 12:27 17/08/2024
-- 🔭 [Học viện Báo chí và Tuyên truyền công bố điểm chuẩn](https://vnexpress.net/diem-chuan-hoc-vien-bao-chi-va-tuyen-truyen-2024-4782192.html) - 12:17 17/08/2024
-- 💡 [Điểm chuẩn Đại học Khoa học Tự nhiên Hà Nội cao nhất 26,25](https://vnexpress.net/diem-chuan-dai-hoc-khoa-hoc-tu-nhien-ha-noi-2024-4782616.html) - 12:14 17/08/2024
-- 🥰 [Điểm chuẩn Đại học Bách khoa Đà Nẵng lên đến 27,11](https://vnexpress.net/diem-chuan-bach-khoa-da-nang-4781621.html) - 12:07 17/08/2024
-- 🐲 [Đại học Luật Hà Nội công bố điểm chuẩn](https://vnexpress.net/diem-chuan-dai-hoc-luat-ha-noi-nam-2024-4782148.html) - 12:04 17/08/2024
-- 🦒 [Điểm chuẩn Đại học Công nghệ TP HCM từ 16 đến 21](https://vnexpress.net/diem-chuan-dai-hoc-cong-nghe-tp-hcm-2024-4782597.html) - 11:57 17/08/2024
-- 🦆 [Điểm chuẩn Đại học Khoa học Tự nhiên TP HCM cao nhất 28,5](https://vnexpress.net/diem-chuan-dai-hoc-khoa-hoc-tu-nhien-tp-hcm-2024-4782623.html) - 11:49 17/08/2024
-- 🧰 [Điểm chuẩn 13 trường, khoa Đại học Quốc gia Hà Nội](https://vnexpress.net/diem-chuan-13-truong-khoa-dai-hoc-quoc-gia-ha-noi-4782518.html) - 11:45 17/08/2024
-- 🐘 [Điểm chuẩn Đại học Thăng Long lên đến 26,52](https://vnexpress.net/diem-chuan-dai-hoc-thang-long-nam-2024-4782620.html) - 11:41 17/08/2024
-- 🤓 [Đại học Thủy lợi lấy điểm chuẩn từ 20,5 trở lên](https://vnexpress.net/diem-chuan-dai-hoc-thuy-loi-2024-4782529.html) - 11:36 17/08/2024
-- 🧰 [Điểm chuẩn Đại học Ngoại ngữ - Tin học TP HCM cao nhất 20](https://vnexpress.net/diem-chuan-dai-hoc-ngoai-ngu-tin-hoc-tp-hcm-2024-4782677.html) - 11:30 17/08/2024
-- 🧑‍💻 [Điểm chuẩn Đại học Dược Hà Nội tăng](https://vnexpress.net/diem-chuan-dai-hoc-duoc-ha-noi-tang-4782574.html) - 11:26 17/08/2024
-- 🫶 [Điểm chuẩn Đại học Y Dược Cần Thơ từ 19,2 trở lên](https://vnexpress.net/diem-chuan-dai-hoc-y-duoc-can-tho-2024-4782658.html) - 11:15 17/08/2024
-- 🪜 [Điểm chuẩn Đại học Ngân hàng TP HCM cao nhất 26,36](https://vnexpress.net/diem-chuan-dai-hoc-ngan-hang-tp-hcm-2024-4782636.html) - 11:09 17/08/2024
-- 🎊 [17 trường quân đội công bố điểm chuẩn](https://vnexpress.net/diem-chuan-17-truong-quan-doi-nam-2024-4782511.html) - 11:08 17/08/2024
-- 🧐 [Điểm chuẩn Đại học Y tế công cộng cao nhất 22,95](https://vnexpress.net/diem-chuan-dai-hoc-y-te-cong-cong-cao-nhat-22-95-4782580.html) - 11:00 17/08/2024
-- 🌈 [Điểm chuẩn Đại học Ngoại thương cao nhất 28,5](https://vnexpress.net/diem-chuan-dai-hoc-ngoai-thuong-nam-2024-4782112.html) - 10:59 17/08/2024
-- 🥰 [Điểm chuẩn Đại học Bách khoa TP HCM cao nhất 84,16/100](https://vnexpress.net/diem-chuan-dai-hoc-bach-khoa-tp-hcm-hcmut-2024-4782466.html) - 10:57 17/08/2024
-- 🎡 [Đại học Kinh tế Quốc dân công bố điểm chuẩn](https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-quoc-dan-nam-2024-4782078.html) - 10:52 17/08/2024
-- 🎊 [Đại học Kinh tế - Tài chính TP HCM công bố điểm chuẩn](https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-tai-chinh-tp-hcm-2024-4782602.html) - 10:48 17/08/2024
-- 🌏 [Điểm chuẩn Đại học Thương mại từ 25 đến 27](https://vnexpress.net/diem-chuan-dai-hoc-thuong-mai-2024-4782133.html) - 10:47 17/08/2024
-- 🥸 [Điểm chuẩn Đại học Bách khoa Hà Nội cao nhất 28,53](https://vnexpress.net/diem-chuan-dai-hoc-bach-khoa-ha-noi-hust-2024-4781713.html) - 10:30 17/08/2024
-- 🕴 [Điểm chuẩn Đại học Kinh tế - Luật tăng](https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-luat-tp-hcm-uel-nam-2024-4782474.html) - 10:20 17/08/2024
-- 💂 [Sư phạm Lịch sử lấy điểm chuẩn cao nhất Đại học Vinh](https://vnexpress.net/su-pham-lich-su-lay-diem-chuan-cao-nhat-dai-hoc-vinh-4782600.html) - 10:12 17/08/2024
-- 🕴 [Trường Y đầu tiên công bố điểm chuẩn](https://vnexpress.net/diem-chuan-dai-hoc-ky-thuat-y-te-hai-duong-nam-2024-4782656.html) - 10:09 17/08/2024
-- 🌋 [Điểm chuẩn Đại học Nha Trang tăng](https://vnexpress.net/diem-chuan-dai-hoc-nha-trang-ntu-2024-4782653.html) - 10:04 17/08/2024
-- 🪜 [Điểm chuẩn Đại học Luật TP HCM từ 22,56 trở lên](https://vnexpress.net/diem-chuan-dai-hoc-luat-tp-hcm-ulaw-2024-4782545.html) - 10:03 17/08/2024
-- 🕴 [Điểm chuẩn Học viện Ngân hàng cao nhất 28,13](https://vnexpress.net/diem-chuan-hoc-vien-ngan-hang-bav-nam-2024-4781729.html) - 09:46 17/08/2024
-- 🎃 [Đại học đầu tiên công bố điểm chuẩn](https://vnexpress.net/diem-chuan-dai-hoc-hoa-sen-nam-2024-4782459.html) - 08:59 17/08/2024
-- 🦏 [Học phí hơn 110 trường đại học trong cả nước](https://vnexpress.net/hoc-phi-hon-110-truong-dai-hoc-trong-ca-nuoc-4782062.html) - 08:13 17/08/2024
-- 🧑‍🏫 [Các yếu tố ảnh hưởng đến quyết định nghề nghiệp của gen Z và millennial](https://vnexpress.net/cac-yeu-to-anh-huong-den-quyet-dinh-nghe-nghiep-cua-gen-z-va-millennial-4782537.html) - 07:00 17/08/2024
-- 💡 [Những việc thí sinh cần làm sau khi biết điểm chuẩn đại học](https://vnexpress.net/nhung-viec-thi-sinh-can-lam-sau-khi-biet-diem-chuan-dai-hoc-4782312.html) - 06:18 17/08/2024
-- 🐎 [Bước chuyển của tiến sĩ Việt dùng AI chẩn đoán hình ảnh y tế](https://vnexpress.net/buoc-chuyen-cua-tien-si-viet-dung-ai-chan-doan-hinh-anh-y-te-4749771.html) - 02:00 17/08/2024
-- 🧰 [10 sinh viên tốt nghiệp xuất sắc Đại học Luật TP HCM](https://vnexpress.net/10-sinh-vien-tot-nghiep-xuat-sac-dai-hoc-luat-tp-hcm-4782024.html) - 00:17 17/08/2024
-- 🙉 [Loạt đại học công bố điểm chuẩn hôm nay](https://vnexpress.net/loat-dai-hoc-cong-bo-diem-chuan-hom-nay-4782287.html) - 23:09 16/08/2024
-- ⚗️ [Học ngành diễn viên làm được những công việc gì?](https://vnexpress.net/hoc-nganh-dien-vien-lam-duoc-nhung-cong-viec-gi-4749399.html) - 16:59 16/08/2024
-- 🌝 [Cần cẩn trọng khi dùng AI trong giáo dục mầm non](https://vnexpress.net/can-can-trong-khi-dung-ai-trong-giao-duc-mam-non-4782190.html) - 15:31 16/08/2024
-- ⛽️ [Tra cứu điểm chuẩn đại học 2024 trên VnExpress](https://vnexpress.net/tra-cuu-diem-chuan-dai-hoc-2024-tren-vnexpress-4781696.html) - 14:09 16/08/2024
-- 🌜 [Thủ phủ vải thiều là tỉnh nào?](https://vnexpress.net/thu-phu-vai-thieu-la-tinh-nao-4782346.html) - 13:34 16/08/2024
-- ⚗️ [Trường Ngô Quyền hủy quyết định dừng đào tạo, xin lỗi học sinh](https://vnexpress.net/truong-ngo-quyen-huy-quyet-dinh-dung-dao-tao-xin-loi-hoc-sinh-4782343.html) - 10:31 16/08/2024
-- 🧰 [TP HCM thí điểm trường học dùng tiếng Anh như ngôn ngữ thứ hai](https://vnexpress.net/tp-hcm-thi-diem-truong-hoc-dung-tieng-anh-nhu-ngon-ngu-thu-hai-4782214.html) - 09:17 16/08/2024
-- 🤗 [Bộ Giáo dục công bố quy chế thi tốt nghiệp 2025 vào tháng 11](https://vnexpress.net/bo-giao-duc-cong-bo-quy-che-thi-tot-nghiep-2025-vao-thang-11-4782218.html) - 06:51 16/08/2024
-- 🔥 [Du học sinh lỡ kỳ nhập học vì chậm visa Australia](https://vnexpress.net/du-hoc-sinh-lo-ky-nhap-hoc-vi-cham-visa-australia-4777670.html) - 03:45 16/08/2024
-- 💪 [Sinh viên năm cuối trường ĐH FPT gia nhập công ty bán dẫn lương 3.000 USD](https://vnexpress.net/sinh-vien-nam-cuoi-truong-dh-fpt-gia-nhap-cong-ty-ban-dan-luong-3-000-usd-4781478.html) - 01:30 16/08/2024
-- 💂 [Thủ khoa Nhạc viện được vào thẳng thạc sĩ](https://vnexpress.net/thu-khoa-nhac-vien-duoc-vao-thang-thac-si-4781545.html) - 23:18 15/08/2024
-- 🌮 [Hà Nội có món ăn nào được công nhận là di sản quốc gia?](https://vnexpress.net/ha-noi-co-mon-an-nao-duoc-cong-nhan-la-di-san-quoc-gia-4781930.html) - 13:00 15/08/2024
-- 🪄 [Vào đại học sau 16 lần thi](https://vnexpress.net/vao-dai-hoc-sau-16-lan-thi-4781721.html) - 11:35 15/08/2024
-- 🎡 [Cấu trúc đề thi đánh giá năng lực Đại học Sư phạm TP HCM từ năm 2025](https://vnexpress.net/cau-truc-de-thi-danh-gia-nang-luc-chuyen-biet-dai-hoc-su-pham-tp-hcm-2025-4781904.html) - 10:51 15/08/2024
+- 🤓 [Điểm chuẩn 13 trường, khoa thuộc Đại học Huế năm 2024](https://vnexpress.net/diem-chuan-13-truong-thanh-vien-dai-hoc-hue-4782684.html) - 12:53 17/08/2024
+- 🦆 [Điểm chuẩn trường Y Dược Đại học Quốc gia Hà Nội cao nhất 27,15](https://vnexpress.net/diem-chuan-truong-y-duoc-dai-hoc-quoc-gia-ha-noi-cao-nhat-27-15-4782635.html) - 12:50 17/08/2024
+- 🦩 [Điểm chuẩn Học viện Kỹ thuật quân sự tăng](https://vnexpress.net/diem-chuan-hoc-vien-ky-thuat-quan-su-tang-4782629.html) - 12:50 17/08/2024
+- 🌮 [Điểm chuẩn Đại học Giáo dục thấp nhất 24,92](https://vnexpress.net/diem-chuan-dai-hoc-giao-duc-thap-nhat-24-92-4782665.html) - 12:50 17/08/2024
+- 🔭 [Điểm chuẩn Đại học Giao thông vận tải cao nhất 26,45](https://vnexpress.net/diem-chuan-dai-hoc-giao-thong-van-tai-cao-nhat-26-45-4782547.html) - 12:47 17/08/2024
+- 💡 [Đại học Công thương TP HCM công bố điểm chuẩn](https://vnexpress.net/diem-chuan-dai-hoc-cong-thuong-tp-hcm-nam-2024-4782469.html) - 12:46 17/08/2024
+- 🥰 [Điểm chuẩn Đại học Công nghiệp TP HCM tăng 0,5-2,5 điểm](https://vnexpress.net/diem-chuan-dai-hoc-cong-nghiep-tp-hcm-2024-4782680.html) - 12:33 17/08/2024
+- 🐲 [Điểm chuẩn Đại học Khoa học Xã hội và Nhân văn Hà Nội cao nhất 29,1](https://vnexpress.net/diem-chuan-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-ha-noi-cao-nhat-29-1-4782335.html) - 12:32 17/08/2024
+- 🦒 [Đại học Mở Hà Nội lấy điểm chuẩn từ 17 trở lên](https://vnexpress.net/diem-chuan-dai-hoc-mo-ha-noi-nam-2024-4782553.html) - 12:29 17/08/2024
+- 🦆 [Học viện Kỹ thuật Mật mã lấy điểm chuẩn từ 24,85 đến 26,1](https://vnexpress.net/diem-chuan-hoc-vien-ky-thuat-mat-ma-2024-4782662.html) - 12:27 17/08/2024
+- 🧰 [Học viện Báo chí và Tuyên truyền công bố điểm chuẩn](https://vnexpress.net/diem-chuan-hoc-vien-bao-chi-va-tuyen-truyen-2024-4782192.html) - 12:17 17/08/2024
+- 🐘 [Điểm chuẩn Đại học Khoa học Tự nhiên Hà Nội cao nhất 26,25](https://vnexpress.net/diem-chuan-dai-hoc-khoa-hoc-tu-nhien-ha-noi-2024-4782616.html) - 12:14 17/08/2024
+- 🤓 [Điểm chuẩn Đại học Bách khoa Đà Nẵng lên đến 27,11](https://vnexpress.net/diem-chuan-bach-khoa-da-nang-4781621.html) - 12:07 17/08/2024
+- 🧰 [Đại học Luật Hà Nội công bố điểm chuẩn](https://vnexpress.net/diem-chuan-dai-hoc-luat-ha-noi-nam-2024-4782148.html) - 12:04 17/08/2024
+- 🧑‍💻 [Điểm chuẩn Đại học Công nghệ TP HCM từ 16 đến 21](https://vnexpress.net/diem-chuan-dai-hoc-cong-nghe-tp-hcm-2024-4782597.html) - 11:57 17/08/2024
+- 🫶 [Điểm chuẩn Đại học Khoa học Tự nhiên TP HCM cao nhất 28,5](https://vnexpress.net/diem-chuan-dai-hoc-khoa-hoc-tu-nhien-tp-hcm-2024-4782623.html) - 11:49 17/08/2024
+- 🪜 [Điểm chuẩn 13 trường, khoa Đại học Quốc gia Hà Nội](https://vnexpress.net/diem-chuan-13-truong-khoa-dai-hoc-quoc-gia-ha-noi-4782518.html) - 11:45 17/08/2024
+- 🎊 [Điểm chuẩn Đại học Thăng Long lên đến 26,52](https://vnexpress.net/diem-chuan-dai-hoc-thang-long-nam-2024-4782620.html) - 11:41 17/08/2024
+- 🧐 [Đại học Thủy lợi lấy điểm chuẩn từ 20,5 trở lên](https://vnexpress.net/diem-chuan-dai-hoc-thuy-loi-2024-4782529.html) - 11:36 17/08/2024
+- 🌈 [Điểm chuẩn Đại học Ngoại ngữ - Tin học TP HCM cao nhất 20](https://vnexpress.net/diem-chuan-dai-hoc-ngoai-ngu-tin-hoc-tp-hcm-2024-4782677.html) - 11:30 17/08/2024
+- 🥰 [Điểm chuẩn Đại học Dược Hà Nội tăng](https://vnexpress.net/diem-chuan-dai-hoc-duoc-ha-noi-tang-4782574.html) - 11:26 17/08/2024
+- 🎡 [Điểm chuẩn Đại học Y Dược Cần Thơ từ 19,2 trở lên](https://vnexpress.net/diem-chuan-dai-hoc-y-duoc-can-tho-2024-4782658.html) - 11:15 17/08/2024
+- 🎊 [Điểm chuẩn Đại học Ngân hàng TP HCM cao nhất 26,36](https://vnexpress.net/diem-chuan-dai-hoc-ngan-hang-tp-hcm-2024-4782636.html) - 11:09 17/08/2024
+- 🌏 [17 trường quân đội công bố điểm chuẩn](https://vnexpress.net/diem-chuan-17-truong-quan-doi-nam-2024-4782511.html) - 11:08 17/08/2024
+- 🥸 [Điểm chuẩn Đại học Y tế công cộng cao nhất 22,95](https://vnexpress.net/diem-chuan-dai-hoc-y-te-cong-cong-cao-nhat-22-95-4782580.html) - 11:00 17/08/2024
+- 🕴 [Điểm chuẩn Đại học Ngoại thương cao nhất 28,5](https://vnexpress.net/diem-chuan-dai-hoc-ngoai-thuong-nam-2024-4782112.html) - 10:59 17/08/2024
+- 💂 [Điểm chuẩn Đại học Bách khoa TP HCM cao nhất 84,16/100](https://vnexpress.net/diem-chuan-dai-hoc-bach-khoa-tp-hcm-hcmut-2024-4782466.html) - 10:57 17/08/2024
+- 🕴 [Đại học Kinh tế Quốc dân công bố điểm chuẩn](https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-quoc-dan-nam-2024-4782078.html) - 10:52 17/08/2024
+- 🌋 [Đại học Kinh tế - Tài chính TP HCM công bố điểm chuẩn](https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-tai-chinh-tp-hcm-2024-4782602.html) - 10:48 17/08/2024
+- 🪜 [Điểm chuẩn Đại học Thương mại từ 25 đến 27](https://vnexpress.net/diem-chuan-dai-hoc-thuong-mai-2024-4782133.html) - 10:47 17/08/2024
+- 🕴 [Điểm chuẩn Đại học Bách khoa Hà Nội cao nhất 28,53](https://vnexpress.net/diem-chuan-dai-hoc-bach-khoa-ha-noi-hust-2024-4781713.html) - 10:30 17/08/2024
+- 🎃 [Điểm chuẩn Đại học Kinh tế - Luật tăng](https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-luat-tp-hcm-uel-nam-2024-4782474.html) - 10:20 17/08/2024
+- 🦏 [Sư phạm Lịch sử lấy điểm chuẩn cao nhất Đại học Vinh](https://vnexpress.net/su-pham-lich-su-lay-diem-chuan-cao-nhat-dai-hoc-vinh-4782600.html) - 10:12 17/08/2024
+- 🧑‍🏫 [Trường Y đầu tiên công bố điểm chuẩn](https://vnexpress.net/diem-chuan-dai-hoc-ky-thuat-y-te-hai-duong-nam-2024-4782656.html) - 10:09 17/08/2024
+- 💡 [Điểm chuẩn Đại học Nha Trang tăng](https://vnexpress.net/diem-chuan-dai-hoc-nha-trang-ntu-2024-4782653.html) - 10:04 17/08/2024
+- 🐎 [Điểm chuẩn Đại học Luật TP HCM từ 22,56 trở lên](https://vnexpress.net/diem-chuan-dai-hoc-luat-tp-hcm-ulaw-2024-4782545.html) - 10:03 17/08/2024
+- 🧰 [Điểm chuẩn Học viện Ngân hàng cao nhất 28,13](https://vnexpress.net/diem-chuan-hoc-vien-ngan-hang-bav-nam-2024-4781729.html) - 09:46 17/08/2024
+- 🙉 [Đại học đầu tiên công bố điểm chuẩn](https://vnexpress.net/diem-chuan-dai-hoc-hoa-sen-nam-2024-4782459.html) - 08:59 17/08/2024
+- ⚗️ [Học phí hơn 110 trường đại học trong cả nước](https://vnexpress.net/hoc-phi-hon-110-truong-dai-hoc-trong-ca-nuoc-4782062.html) - 08:13 17/08/2024
+- 🌝 [Các yếu tố ảnh hưởng đến quyết định nghề nghiệp của gen Z và millennial](https://vnexpress.net/cac-yeu-to-anh-huong-den-quyet-dinh-nghe-nghiep-cua-gen-z-va-millennial-4782537.html) - 07:00 17/08/2024
+- ⛽️ [Những việc thí sinh cần làm sau khi biết điểm chuẩn đại học](https://vnexpress.net/nhung-viec-thi-sinh-can-lam-sau-khi-biet-diem-chuan-dai-hoc-4782312.html) - 06:18 17/08/2024
+- 🌜 [Bước chuyển của tiến sĩ Việt dùng AI chẩn đoán hình ảnh y tế](https://vnexpress.net/buoc-chuyen-cua-tien-si-viet-dung-ai-chan-doan-hinh-anh-y-te-4749771.html) - 02:00 17/08/2024
+- ⚗️ [10 sinh viên tốt nghiệp xuất sắc Đại học Luật TP HCM](https://vnexpress.net/10-sinh-vien-tot-nghiep-xuat-sac-dai-hoc-luat-tp-hcm-4782024.html) - 00:17 17/08/2024
+- 🧰 [Loạt đại học công bố điểm chuẩn hôm nay](https://vnexpress.net/loat-dai-hoc-cong-bo-diem-chuan-hom-nay-4782287.html) - 23:09 16/08/2024
+- 🤗 [Học ngành diễn viên làm được những công việc gì?](https://vnexpress.net/hoc-nganh-dien-vien-lam-duoc-nhung-cong-viec-gi-4749399.html) - 16:59 16/08/2024
+- 🔥 [Cần cẩn trọng khi dùng AI trong giáo dục mầm non](https://vnexpress.net/can-can-trong-khi-dung-ai-trong-giao-duc-mam-non-4782190.html) - 15:31 16/08/2024
+- 💪 [Tra cứu điểm chuẩn đại học 2024 trên VnExpress](https://vnexpress.net/tra-cuu-diem-chuan-dai-hoc-2024-tren-vnexpress-4781696.html) - 14:09 16/08/2024
+- 💂 [Thủ phủ vải thiều là tỉnh nào?](https://vnexpress.net/thu-phu-vai-thieu-la-tinh-nao-4782346.html) - 13:34 16/08/2024
+- 🌮 [Trường Ngô Quyền hủy quyết định dừng đào tạo, xin lỗi học sinh](https://vnexpress.net/truong-ngo-quyen-huy-quyet-dinh-dung-dao-tao-xin-loi-hoc-sinh-4782343.html) - 10:31 16/08/2024
+- 🪄 [TP HCM thí điểm trường học dùng tiếng Anh như ngôn ngữ thứ hai](https://vnexpress.net/tp-hcm-thi-diem-truong-hoc-dung-tieng-anh-nhu-ngon-ngu-thu-hai-4782214.html) - 09:17 16/08/2024
+- 🎡 [Bộ Giáo dục công bố quy chế thi tốt nghiệp 2025 vào tháng 11](https://vnexpress.net/bo-giao-duc-cong-bo-quy-che-thi-tot-nghiep-2025-vao-thang-11-4782218.html) - 06:51 16/08/2024
+- 🌈 [Du học sinh lỡ kỳ nhập học vì chậm visa Australia](https://vnexpress.net/du-hoc-sinh-lo-ky-nhap-hoc-vi-cham-visa-australia-4777670.html) - 03:45 16/08/2024
+- 🎊 [Sinh viên năm cuối trường ĐH FPT gia nhập công ty bán dẫn lương 3.000 USD](https://vnexpress.net/sinh-vien-nam-cuoi-truong-dh-fpt-gia-nhap-cong-ty-ban-dan-luong-3-000-usd-4781478.html) - 01:30 16/08/2024
+- ⚗️ [Thủ khoa Nhạc viện được vào thẳng thạc sĩ](https://vnexpress.net/thu-khoa-nhac-vien-duoc-vao-thang-thac-si-4781545.html) - 23:18 15/08/2024
+- 🌁 [Hà Nội có món ăn nào được công nhận là di sản quốc gia?](https://vnexpress.net/ha-noi-co-mon-an-nao-duoc-cong-nhan-la-di-san-quoc-gia-4781930.html) - 13:00 15/08/2024
+- 🦏 [Vào đại học sau 16 lần thi](https://vnexpress.net/vao-dai-hoc-sau-16-lan-thi-4781721.html) - 11:35 15/08/2024
+- 👍 [Cấu trúc đề thi đánh giá năng lực Đại học Sư phạm TP HCM từ năm 2025](https://vnexpress.net/cau-truc-de-thi-danh-gia-nang-luc-chuyen-biet-dai-hoc-su-pham-tp-hcm-2025-4781904.html) - 10:51 15/08/2024
 - 🌈 [Nữ sinh lớp 12 bị trường dừng đào tạo sau khi bố thắc mắc về chương trình](https://vnexpress.net/nu-sinh-lop-12-bi-truong-dung-dao-tao-sau-khi-bo-thac-mac-ve-chuong-trinh-4781858.html) - 09:38 15/08/2024
-- 🎊 [Học sinh Việt giành hai huy chương Olympic AI quốc tế](https://vnexpress.net/hoc-sinh-viet-gianh-hai-huy-chuong-olympic-ai-quoc-te-4781704.html) - 05:19 15/08/2024
-- ⚗️ [Từng bước đưa tiếng Anh thành ngôn ngữ thứ hai trong trường học](https://vnexpress.net/tung-buoc-dua-tieng-anh-thanh-ngon-ngu-thu-hai-trong-truong-hoc-4781538.html) - 04:09 15/08/2024
-- 🌁 [Sĩ số lớp 35 là &#39;lý tưởng&#39; nhưng khó đạt](https://vnexpress.net/si-so-lop-35-la-ly-tuong-nhung-kho-dat-4781620.html) - 02:32 15/08/2024
-- 🦏 [Phenikaa giải &#39;bài toán&#39; đào tạo ngành bán dẫn](https://vnexpress.net/phenikaa-giai-bai-toan-dao-tao-nganh-ban-dan-4781242.html) - 02:00 15/08/2024
-- 👍 [Học phí ngành Công nghệ thông tin từ 16 đến 87 triệu đồng](https://vnexpress.net/hoc-phi-dai-hoc-nganh-cong-nghe-thong-tin-o-16-truong-nam-2024-4780811.html) - 23:02 14/08/2024
-- 🌈 [Ngôi chùa cổ nhất Việt Nam ở tỉnh nào?](https://vnexpress.net/ngoi-chua-co-nhat-viet-nam-o-tinh-nao-4781516.html) - 13:00 14/08/2024
-- 🕴 [Gần 30 tỉnh, thành công bố lịch tựu trường](https://vnexpress.net/gan-30-tinh-thanh-cong-bo-lich-tuu-truong-4781439.html) - 09:51 14/08/2024
-- 🧰 [Chủ tịch Hà Nội: Tuyệt đối không bớt xén bữa ăn bán trú của học sinh](https://vnexpress.net/chu-tich-ha-noi-tuyet-doi-khong-bot-xen-bua-an-ban-tru-cua-hoc-sinh-4781363.html) - 06:18 14/08/2024<!-- vnexpress-giao-duc:END -->
+- 🕴 [Học sinh Việt giành hai huy chương Olympic AI quốc tế](https://vnexpress.net/hoc-sinh-viet-gianh-hai-huy-chuong-olympic-ai-quoc-te-4781704.html) - 05:19 15/08/2024
+- 🧰 [Từng bước đưa tiếng Anh thành ngôn ngữ thứ hai trong trường học](https://vnexpress.net/tung-buoc-dua-tieng-anh-thanh-ngon-ngu-thu-hai-trong-truong-hoc-4781538.html) - 04:09 15/08/2024<!-- vnexpress-giao-duc:END -->
