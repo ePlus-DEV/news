@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Hàng loạt trường công bố điểm chuẩn đại học năm 2024](https://dantri.com.vn/giao-duc/hang-loat-truong-cong-bo-diem-chuan-dai-hoc-nam-2024-20240816195741171.htm) - 09:22 17/08/2024
+- 🎭 [TPHCM kiến nghị Tổng Bí thư, Chủ tịch nước quan tâm tháo gỡ các vướng mắc](https://dantri.com.vn/xa-hoi/tphcm-kien-nghi-tong-bi-thu-chu-tich-nuoc-quan-tam-thao-go-cac-vuong-mac-20240817164104595.htm) - 09:52 17/08/2024
 - 👨‍🏫 [Tổng Bí thư, Chủ tịch nước Tô Lâm làm việc với Thành ủy TPHCM](https://dantri.com.vn/xa-hoi/tong-bi-thu-chu-tich-nuoc-to-lam-lam-viec-voi-thanh-uy-tphcm-20240817143225387.htm) - 08:06 17/08/2024
 - 🌮 [Tạm giam người đàn ông đập vỡ kính ô tô, bắt tài xế quỳ lạy ở Bình Dương](https://dantri.com.vn/phap-luat/tam-giam-nguoi-dan-ong-dap-vo-kinh-o-to-bat-tai-xe-quy-lay-o-binh-duong-20240817130635091.htm) - 06:35 17/08/2024
 - 🕯 [Vừa nhận lại xe bị mất trộm, người đàn ông gặp tai nạn nguy kịch](https://dantri.com.vn/xa-hoi/vua-nhan-lai-xe-bi-mat-trom-nguoi-dan-ong-gap-tai-nan-nguy-kich-20240817123514122.htm) - 06:03 17/08/2024
