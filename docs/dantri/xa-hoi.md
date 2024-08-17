@@ -4,10 +4,10 @@ sidebar_position: 1
 ---
 
 <!-- dantri-xa-hoi:START -->
-- 🫣 [Thủ tướng thị sát, thúc tiến độ cao tốc Khánh Hòa - Buôn Ma Thuột](https://dantri.com.vn/xa-hoi/thu-tuong-thi-sat-thuc-tien-do-cao-toc-khanh-hoa-buon-ma-thuot-20240817195836847.htm) - 13:36 17/08/2024
-- 💼 [Công ty gỗ rộng 5.000m2 ở Bình Dương chìm trong biển lửa](https://dantri.com.vn/xa-hoi/cong-ty-go-rong-5000m2-o-binh-duong-chim-trong-bien-lua-20240817200030744.htm) - 13:24 17/08/2024
-- 🎊 [18 người bị thương trong vụ lật xe khách: Đập kính giải cứu các nạn nhân](https://dantri.com.vn/xa-hoi/18-nguoi-bi-thuong-trong-vu-lat-xe-khach-dap-kinh-giai-cuu-cac-nan-nhan-20240817193210289.htm) - 13:09 17/08/2024
-- 🙉 [Tổng Bí thư, Chủ tịch nước Tô Lâm chỉ ra những vấn đề TPHCM cần khắc phục](https://dantri.com.vn/xa-hoi/tong-bi-thu-chu-tich-nuoc-to-lam-chi-ra-nhung-van-de-tphcm-can-khac-phuc-20240817184420400.htm) - 11:55 17/08/2024
+- 🫣 [Miền Bắc mưa dông trở lại](https://dantri.com.vn/xa-hoi/mien-bac-mua-dong-tro-lai-20240817210233322.htm) - 14:41 17/08/2024
+- 💼 [Thủ tướng thị sát, thúc tiến độ cao tốc Khánh Hòa - Buôn Ma Thuột](https://dantri.com.vn/xa-hoi/thu-tuong-thi-sat-thuc-tien-do-cao-toc-khanh-hoa-buon-ma-thuot-20240817195836847.htm) - 13:36 17/08/2024
+- 🎊 [Công ty gỗ rộng 5.000m2 ở Bình Dương chìm trong biển lửa](https://dantri.com.vn/xa-hoi/cong-ty-go-rong-5000m2-o-binh-duong-chim-trong-bien-lua-20240817200030744.htm) - 13:24 17/08/2024
+- 🙉 [18 người bị thương trong vụ lật xe khách: Đập kính giải cứu các nạn nhân](https://dantri.com.vn/xa-hoi/18-nguoi-bi-thuong-trong-vu-lat-xe-khach-dap-kinh-giai-cuu-cac-nan-nhan-20240817193210289.htm) - 13:09 17/08/2024
 - 🕯 [Hai thanh niên nằm trên xe máy, lao vun vút trong làn ô tô ở TPHCM](https://dantri.com.vn/xa-hoi/hai-thanh-nien-nam-tren-xe-may-lao-vun-vut-trong-lan-o-to-o-tphcm-20240817174551969.htm) - 11:15 17/08/2024
 - 👍 [Ô tô khách gặp nạn, 18 người bị thương](https://dantri.com.vn/xa-hoi/o-to-khach-gap-nan-18-nguoi-bi-thuong-20240817172706936.htm) - 10:40 17/08/2024
 - 🤖 [TPHCM kiến nghị Tổng Bí thư, Chủ tịch nước quan tâm tháo gỡ các vướng mắc](https://dantri.com.vn/xa-hoi/tphcm-kien-nghi-tong-bi-thu-chu-tich-nuoc-quan-tam-thao-go-cac-vuong-mac-20240817164104595.htm) - 09:52 17/08/2024
