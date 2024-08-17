@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Điểm chuẩn Đại học Khoa học xã hội và Nhân văn: Ngành báo chí lấy 29,3 điểm](https://dantri.com.vn/giao-duc/diem-chuan-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-nganh-bao-chi-lay-293-diem-20240817191919200.htm) - 12:29 17/08/2024
+- 🎭 [Điểm chuẩn Đại học Khoa học xã hội và Nhân văn: Ngành báo chí 29,03 điểm](https://dantri.com.vn/giao-duc/diem-chuan-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-nganh-bao-chi-2903-diem-20240817191919200.htm) - 12:29 17/08/2024
 - 👨‍🏫 [Tổng Bí thư, Chủ tịch nước Tô Lâm chỉ ra những vấn đề TPHCM cần khắc phục](https://dantri.com.vn/xa-hoi/tong-bi-thu-chu-tich-nuoc-to-lam-chi-ra-nhung-van-de-tphcm-can-khac-phuc-20240817184420400.htm) - 11:55 17/08/2024
 - 🌮 [Điểm chuẩn Trường Đại học Ngoại thương 2024 cao nhất 28,5](https://dantri.com.vn/giao-duc/diem-chuan-truong-dai-hoc-ngoai-thuong-2024-cao-nhat-285-20240816224512199.htm) - 11:09 17/08/2024
 - 🕯 [TPHCM kiến nghị Tổng Bí thư, Chủ tịch nước quan tâm tháo gỡ các vướng mắc](https://dantri.com.vn/xa-hoi/tphcm-kien-nghi-tong-bi-thu-chu-tich-nuoc-quan-tam-thao-go-cac-vuong-mac-20240817164104595.htm) - 09:52 17/08/2024
