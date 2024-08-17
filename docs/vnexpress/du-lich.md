@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Quán tào phớ khiến khách Hà Nội xếp hàng chờ mua](https://vnexpress.net/quan-tao-pho-khien-khach-ha-noi-xep-hang-cho-mua-4780818.html) - 17:00 16/08/2024
+- 💂 [Quán tào phớ khách xếp hàng chờ mua](https://vnexpress.net/quan-tao-pho-khach-xep-hang-cho-mua-4780818.html) - 17:00 16/08/2024
 - 🪄 [Nhóm CEO đạp xe 550 km đến Nha Trang chạy VnExpress Marathon](https://vnexpress.net/nhom-ceo-dap-xe-550-km-den-nha-trang-chay-vnexpress-marathon-4781309.html) - 08:29 16/08/2024
 - 🦅 [Đảo Jeju giảm khách giữa lùm xùm &#39;chặt chém&#39;](https://vnexpress.net/dao-jeju-giam-khach-giua-lum-xum-chat-chem-4782084.html) - 08:16 16/08/2024
 - 🕴 [Tiệm bánh mì 79.000 đồng một ổ ở TP HCM](https://vnexpress.net/tiem-banh-mi-79-000-dong-mot-o-o-tp-hcm-4780720.html) - 07:17 16/08/2024
