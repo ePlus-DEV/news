@@ -185,7 +185,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌁 [PGS-TS-BS Vương Thị Ngọc Lan được bổ nhiệm làm Phó hiệu trưởng Trường ĐH Y dược TP.HCM](https://thanhnien.vn/pgs-ts-bs-vuong-thi-ngoc-lan-duoc-bo-nhiem-lam-pho-hieu-truong-truong-dh-y-duoc-tphcm-185240817184555685.htm) - 12:23 17/08/2024
 - 🧐 [Điểm chuẩn Trường ĐH Quốc tế - ĐH Quốc gia TP.HCM: Một số ngành giảm nhẹ](https://thanhnien.vn/diem-chuan-truong-dh-quoc-te-dh-quoc-gia-tphcm-mot-so-nganh-giam-nhe-185240817114702901.htm) - 12:17 17/08/2024
 - 🌏 [Xe ben vượt đèn đỏ, lấn làn xe máy ở TP.Thủ Đức](https://thanhnien.vn/xe-ben-vuot-den-do-lan-lan-xe-may-o-tpthu-duc-185240817190640074.htm) - 12:15 17/08/2024
-- 🎬 [Đang cháy lớn tại công ty gỗ ở Bình Dương](https://thanhnien.vn/dang-chay-lon-tai-cong-ty-go-o-binh-duong-185240817185701206.htm) - 12:06 17/08/2024
+- 🎬 [Cháy lớn tại công ty gỗ ở Bình Dương](https://thanhnien.vn/dang-chay-lon-tai-cong-ty-go-o-binh-duong-185240817185701206.htm) - 12:06 17/08/2024
 - 🚀 [Điểm chuẩn Trường ĐH Công nghiệp TP.HCM tăng ở các ngành](https://thanhnien.vn/diem-chuan-truong-dh-cong-nghiep-tphcm-tang-o-cac-nganh-185240817181055892.htm) - 12:06 17/08/2024
 - 🙉 [Bị chém vì nhìn lén bạn gái người khác đi vệ sinh](https://thanhnien.vn/bi-chem-vi-nhin-len-ban-gai-nguoi-khac-di-ve-sinh-185240817180317401.htm) - 12:04 17/08/2024
 - 🐵 [Gợi ý những khách sạn tại Vientiane để có một kỳ nghỉ tuyệt vời](https://thanhnien.vn/thoi-trang-tre/goi-y-nhung-khach-san-tai-vientiane-de-co-mot-ky-nghi-tuyet-voi-185240816132054212.htm) - 12:00 17/08/2024
