@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Xe khách lao xuống vực cầu khi từ Nha Trang đi Đà Lạt](https://vnexpress.net/tai-nan-giao-thong-lam-dong-4782790.html) - 02:34 18/08/2024
-- 🤓 [Tổng Bí thư, Chủ tịch nước Tô Lâm lên đường thăm Trung Quốc](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-len-duong-tham-trung-quoc-4782737.html) - 00:10 18/08/2024
+- 🤓 [Tổng Bí thư, Chủ tịch nước Tô Lâm bắt đầu thăm Trung Quốc](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-bat-dau-tham-trung-quoc-4782737.html) - 00:10 18/08/2024
 - ⚗️ [Hợp long cầu Nguyễn Hoàng bắc qua sông Hương](https://vnexpress.net/hop-long-cau-nguyen-hoang-bac-qua-song-huong-4782582.html) - 23:00 17/08/2024
 - 🌊 [Đường xuyên rừng ngập mặn nối cảng lớn nhất Đồng Nai](https://vnexpress.net/duong-xuyen-rung-ngap-man-noi-cang-lon-nhat-dong-nai-4781972.html) - 22:00 17/08/2024
 - 🎓 [Hai thanh niên trả lại 200 triệu đồng nhặt được](https://vnexpress.net/hai-thanh-nien-tra-lai-200-trieu-dong-nhat-duoc-4782709.html) - 15:55 17/08/2024
