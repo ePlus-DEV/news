@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Nhận định Chelsea - Man City &lpar;22h30 ngày 18/10&rpar;: Thách thức lớn với Maresca](https://dantri.com.vn/the-thao/nhan-dinh-chelsea-man-city-22h30-ngay-1810-thach-thuc-lon-voi-maresca-20240818110430704.htm) - 04:04 18/08/2024
+- 🎡 [Nhận định Chelsea - Man City &lpar;22h30 ngày 18/8&rpar;: Thách thức lớn với Maresca](https://dantri.com.vn/the-thao/nhan-dinh-chelsea-man-city-22h30-ngay-188-thach-thuc-lon-voi-maresca-20240818110430704.htm) - 04:04 18/08/2024
 - 💯 [Ronaldo chỉ trích đồng đội đá như mơ ngủ, từ chối nhận huy chương](https://dantri.com.vn/the-thao/ronaldo-chi-trich-dong-doi-da-nhu-mo-ngu-tu-choi-nhan-huy-chuong-20240818092305968.htm) - 03:00 18/08/2024
 - ⛽️ [Cầu thủ bị đuổi khỏi sân vì tái hiện cú húc đầu của huyền thoại Zidane](https://dantri.com.vn/the-thao/cau-thu-bi-duoi-khoi-san-vi-tai-hien-cu-huc-dau-cua-huyen-thoai-zidane-20240818090114383.htm) - 02:17 18/08/2024
 - 💃 [Ngôi sao Ngoại hạng Anh chấn thương kinh hoàng, nhập viện khẩn cấp](https://dantri.com.vn/the-thao/ngoi-sao-ngoai-hang-anh-chan-thuong-kinh-hoang-nhap-vien-khan-cap-20240817234240806.htm) - 02:06 18/08/2024
