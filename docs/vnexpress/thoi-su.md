@@ -13,7 +13,7 @@ sidebar_position: 1
 - 🦏 [Hai thanh niên trả lại 200 triệu đồng nhặt được](https://vnexpress.net/hai-thanh-nien-tra-lai-200-trieu-dong-nhat-duoc-4782709.html) - 15:55 17/08/2024
 - 👺 [Xuất hiện cung sạt trượt thứ hai ở Tà Xùa](https://vnexpress.net/xuat-hien-cung-sat-truot-thu-hai-o-ta-xua-4782702.html) - 15:54 17/08/2024
 - 🧑‍🏫 [Cháy lớn công ty gỗ ở Bình Dương](https://vnexpress.net/chay-lon-cong-ty-go-o-binh-duong-4782690.html) - 13:52 17/08/2024
-- 🚦 [Hà Nội cần 55 tỷ USD để làm 15 tuyến đường sắt đô thị](https://vnexpress.net/ha-noi-can-55-ty-usd-de-lam-15-tuyen-duong-sat-do-thi-4782630.html) - 13:01 17/08/2024
+- 🚦 [Hà Nội cần 55 tỷ USD làm 15 tuyến đường sắt đô thị](https://vnexpress.net/ha-noi-can-55-ty-usd-lam-15-tuyen-duong-sat-do-thi-4782630.html) - 13:01 17/08/2024
 - 🎉 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Tạo điều kiện tốt nhất để TP HCM phát triển](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-tao-dieu-kien-tot-nhat-de-tp-hcm-phat-trien-4782681.html) - 12:29 17/08/2024
 - 🦒 [Cháy quán bar ở Hà Nội &#39;do thợ hàn cắt sắt&#39;](https://vnexpress.net/chay-quan-bar-o-ha-noi-do-tho-han-cat-sat-4782675.html) - 12:24 17/08/2024
 - 🤗 [Tiểu sử tân Ủy viên Bộ Chính trị, Ban Bí thư](https://vnexpress.net/tieu-su-tan-uy-vien-bo-chinh-tri-ban-bi-thu-4782648.html) - 10:25 17/08/2024
