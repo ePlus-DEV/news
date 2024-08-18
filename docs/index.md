@@ -210,7 +210,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Lao Động
 <!-- laodong:START -->
 - 🗽 [Giọt nước mắt bày tỏ lòng biết ơn cha mẹ ngày lễ Vu Lan](https://laodong.vn/photo/giot-nuoc-mat-bay-to-long-biet-on-cha-me-ngay-le-vu-lan-1381504.ldo) - 15:51 18/08/2024
-- 📝 [Trực tiếp bóng đá Chelsea 0-1 Man City: Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-chelsea-0-1-man-city-hiep-2-1381473.ldo) - 15:13 18/08/2024
+- 📝 [Trực tiếp bóng đá Chelsea 0-2 Man City: Kovacic nhân đôi cách biệt](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-chelsea-0-2-man-city-kovacic-nhan-doi-cach-biet-1381473.ldo) - 15:13 18/08/2024
 - 🦏 [Điểm chuẩn 3 ngành mới của Đại học Y Hà Nội năm 2024](https://laodong.vn/giao-duc/diem-chuan-3-nganh-moi-cua-dai-hoc-y-ha-noi-nam-2024-1381507.ldo) - 15:02 18/08/2024
 - 🦩 [Những cách dễ dàng để tập luyện khi bạn quá bận rộn](https://laodong.vn/suc-khoe/nhung-cach-de-dang-de-tap-luyen-khi-ban-qua-ban-ron-1381315.ldo) - 15:00 18/08/2024
 - 🦏 [Tiếp tục tập trung thành lập nghiệp đoàn cơ sở làng nghề](https://laodong.vn/ldld-tphn/tiep-tuc-tap-trung-thanh-lap-nghiep-doan-co-so-lang-nghe-1381236.ldo) - 14:40 18/08/2024
