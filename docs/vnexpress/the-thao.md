@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Zirkzee - tiền đạo có vóc dáng Ibrahimovic, kỹ thuật Ronaldinho](https://vnexpress.net/zirkzee-tien-dao-co-voc-dang-ibrahimovic-ky-thuat-ronaldinho-4782851.html) - 09:18 18/08/2024
+- 🪜 [Chelsea - Man City: Khoảng trống Rodri](https://vnexpress.net/chelsea-man-city-khoang-trong-rodri-4782886.html) - 10:01 18/08/2024
 - 🦩 [Match-point tranh cãi bậc nhất lịch sử quần vợt](https://vnexpress.net/match-point-tranh-cai-bac-nhat-lich-su-quan-vot-4782855.html) - 07:32 18/08/2024
 - 🧰 [Ngôi sao golf Nhật bị trộm tài sản trên đường du đấu](https://vnexpress.net/ngoi-sao-golf-nhat-bi-trom-tai-san-tren-duong-du-dau-4782850.html) - 06:27 18/08/2024
 - 🤗 [Chạy lặp dốc - bài tập hiệu quả cho người mới chạy trail](https://vnexpress.net/chay-lap-doc-bai-tap-hieu-qua-cho-nguoi-moi-chay-trail-4782586.html) - 05:00 18/08/2024
