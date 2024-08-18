@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Pep Guardiola đặt mục tiêu ít ai ngờ với Man City](https://dantri.com.vn/the-thao/pep-guardiola-dat-muc-tieu-it-ai-ngo-voi-man-city-20240818125657616.htm) - 05:57 18/08/2024
+- 🎡 [Pep Guardiola đặt mục tiêu ít ai ngờ với Man City](https://dantri.com.vn/the-thao/pep-guardiola-dat-muc-tieu-it-ai-ngo-voi-man-city-20240818125657616.htm) - 07:57 18/08/2024
 - 💯 [Báo Nga đánh giá bất ngờ về đội tuyển Việt Nam](https://dantri.com.vn/the-thao/bao-nga-danh-gia-bat-ngo-ve-doi-tuyen-viet-nam-20240818122703706.htm) - 05:37 18/08/2024
 - ⛽️ [Nhận định Chelsea - Man City &lpar;22h30 ngày 18/8&rpar;: Thách thức lớn với Maresca](https://dantri.com.vn/the-thao/nhan-dinh-chelsea-man-city-22h30-ngay-188-thach-thuc-lon-voi-maresca-20240818110430704.htm) - 04:04 18/08/2024
 - 💃 [Ronaldo chỉ trích đồng đội đá như mơ ngủ, từ chối nhận huy chương](https://dantri.com.vn/the-thao/ronaldo-chi-trich-dong-doi-da-nhu-mo-ngu-tu-choi-nhan-huy-chuong-20240818092305968.htm) - 03:00 18/08/2024
