@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Ôtô 7 chỗ va chạm xe tải, cao tốc Trung Lương kẹt xe hàng chục km](https://vnexpress.net/oto-7-cho-va-cham-xe-tai-cao-toc-trung-luong-ket-xe-hang-chuc-km-4782896.html) - 10:52 18/08/2024
+- 🦒 [Hai ôtô tông nhau, cao tốc Trung Lương kẹt xe gần chục km](https://vnexpress.net/hai-oto-tong-nhau-cao-toc-trung-luong-ket-xe-gan-chuc-km-4782896.html) - 10:52 18/08/2024
 - 🤓 [Tây Nguyên được đầu tư gần 1.900 km cao tốc](https://vnexpress.net/tay-nguyen-duoc-dau-tu-gan-1-900-km-cao-toc-4782867.html) - 09:35 18/08/2024
 - ⚗️ [Việt Nam hoan nghênh doanh nghiệp Quảng Đông tăng đầu tư hạ tầng](https://vnexpress.net/viet-nam-hoan-nghenh-doanh-nghiep-quang-dong-tang-dau-tu-ha-tang-4782863.html) - 08:45 18/08/2024
 - 🌊 [Ôtô lao xuống vực bốc cháy, một người chết](https://vnexpress.net/oto-lao-xuong-vuc-boc-chay-mot-nguoi-chet-4782854.html) - 07:41 18/08/2024
