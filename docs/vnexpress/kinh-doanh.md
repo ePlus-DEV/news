@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Thập niên tìm cửa sống của startup chocolate miền Tây](https://vnexpress.net/thap-nien-tim-cua-song-cua-startup-chocolate-mien-tay-4779776.html) - 18:38 17/08/2024
+- ⛽️ [Hành trình tìm cửa sống của startup chocolate miền Tây](https://vnexpress.net/hanh-trinh-tim-cua-song-cua-startup-chocolate-mien-tay-4779776.html) - 18:38 17/08/2024
 - 🐲 [Người trồng tỏi Lý Sơn &#39;được mùa, được giá&#39;](https://vnexpress.net/nguoi-trong-toi-ly-son-duoc-mua-duoc-gia-4782637.html) - 18:00 17/08/2024
 - 🔥 [&#39;Room&#39; cho điện mặt trời mái nhà có thể được nới trong tháng 9](https://vnexpress.net/room-cho-dien-mat-troi-mai-nha-co-the-duoc-noi-trong-thang-9-4782704.html) - 15:50 17/08/2024
 - 🐵 [Donald Trump kiếm tiền từ những nguồn nào?](https://vnexpress.net/donald-trump-kiem-tien-tu-nhung-nguon-nao-4782551.html) - 07:20 17/08/2024
