@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Haaland giúp Man City hạ Chelsea ở trận ra quân Ngoại hạng Anh](https://vnexpress.net/haaland-giup-man-city-ha-chelsea-o-tran-ra-quan-ngoai-hang-anh-4782938.html) - 17:47 18/08/2024
+- 🪜 [Haaland giúp Man City hạ Chelsea](https://vnexpress.net/haaland-giup-man-city-ha-chelsea-4782938.html) - 17:47 18/08/2024
 - 🦩 [Zirkzee - tiền đạo có vóc dáng Ibrahimovic, kỹ thuật Ronaldinho](https://vnexpress.net/zirkzee-tien-dao-co-voc-dang-ibrahimovic-ky-thuat-ronaldinho-4782851.html) - 17:00 18/08/2024
 - 🧰 [Chủ tịch CLB của Mourinho bị hành hung](https://vnexpress.net/chu-tich-clb-cua-mourinho-bi-hanh-hung-4782917.html) - 14:38 18/08/2024
 - 🤗 [Thủ môn Patrick Lê Giang nhận gần 23 tỷ ở CLB TP HCM](https://vnexpress.net/thu-mon-patrick-le-giang-nhan-gan-23-ty-o-clb-tp-hcm-4782908.html) - 12:43 18/08/2024
