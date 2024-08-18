@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Những năm tháng cuối đời của tài tử Alain Delon](https://vnexpress.net/nhung-nam-thang-cuoi-doi-cua-tai-tu-alain-delon-4782871.html) - 13:30 18/08/2024
-- 💫 [Diễn viên Hạnh &#39;Kính vạn hoa&#39; phiên bản mới gây chú ý](https://vnexpress.net/dien-vien-hanh-kinh-van-hoa-phien-ban-moi-gay-chu-y-4782155.html) - 12:17 18/08/2024
+- 💫 [Hạnh &#39;Kính vạn hoa&#39; phiên bản mới gây chú ý](https://vnexpress.net/hanh-kinh-van-hoa-phien-ban-moi-gay-chu-y-4782155.html) - 12:17 18/08/2024
 - 🌮 [Nghệ sĩ Hồng Vân, Quyền Linh đóng cặp trong &#39;Hai Muối&#39;](https://vnexpress.net/nghe-si-hong-van-quyen-linh-dong-cap-trong-hai-muoi-4782818.html) - 11:00 18/08/2024
 - 🧠 [Con gái yêu hiphop, thích vẽ của đạo diễn Kiên Ứng](https://vnexpress.net/con-gai-yeu-hiphop-thich-ve-cua-dao-dien-kien-ung-4782762.html) - 10:17 18/08/2024
 - 👨‍🏫 [Tài tử Alain Delon qua đời](https://vnexpress.net/tai-tu-alain-delon-qua-doi-4782857.html) - 08:21 18/08/2024
