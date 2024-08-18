@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Haaland giúp Man City hạ Chelsea ở trận ra quân Ngoại hạng Anh](https://vnexpress.net/haaland-giup-man-city-ha-chelsea-o-tran-ra-quan-ngoai-hang-anh-4782938.html) - 17:47 18/08/2024
+- 🚀 [Haaland giúp Man City hạ Chelsea](https://vnexpress.net/haaland-giup-man-city-ha-chelsea-4782938.html) - 17:47 18/08/2024
 - 🧰 [&#39;Cây ATM 1.000 đồng&#39; giúp người nghèo ở biên giới](https://vnexpress.net/cay-atm-1-000-dong-giup-nguoi-ngheo-o-bien-gioi-4782928.html) - 17:04 18/08/2024
 - 🥰 [Bệnh lậu](https://vnexpress.net/benh-lau-4782907.html) - 17:02 18/08/2024
 - 🌏 [3 con giáp giỏi ứng xử, trực giác nhạy bén](https://vnexpress.net/3-con-giap-gioi-ung-xu-truc-giac-nhay-ben-4781496.html) - 17:01 18/08/2024
