@@ -38,7 +38,7 @@ sidebar_position: 16
 - 🦏 [Căn biệt thự kỳ quái có một không hai ở Đà Lạt](https://dantri.com.vn/xa-hoi/can-biet-thu-ky-quai-co-mot-khong-hai-o-da-lat-20240816141055985.htm) - 00:19 18/08/2024
 - 🐘 [WHO công bố bệnh đậu mùa khỉ &quot;khẩn cấp toàn cầu&quot;: Tình hình ở TPHCM ra sao?](https://dantri.com.vn/suc-khoe/who-cong-bo-benh-dau-mua-khi-khan-cap-toan-cau-tinh-hinh-o-tphcm-ra-sao-20240817235430113.htm) - 00:14 18/08/2024
 - 🔥 [Lewandowski lập cú đúp, Barcelona ngược dòng đánh bại Valencia](https://dantri.com.vn/the-thao/lewandowski-lap-cu-dup-barcelona-nguoc-dong-danh-bai-valencia-20240818070314569.htm) - 00:03 18/08/2024
-- 💼 [Tối 18/8, gần 220 trường đại học công bố điểm chuẩn năm 2024](https://dantri.com.vn/giao-duc/toi-188-gan-220-truong-dai-hoc-cong-bo-diem-chuan-nam-2024-20240817092149741.htm) - 23:40 17/08/2024
+- 💼 [Gần 230 trường đại học đã công bố điểm chuẩn năm 2024](https://dantri.com.vn/giao-duc/gan-230-truong-dai-hoc-da-cong-bo-diem-chuan-nam-2024-20240817092149741.htm) - 23:40 17/08/2024
 - 🚀 [Bằng Kiều phản ứng khi liên tục bị ca sĩ trẻ từ chối chung đội ở &quot;Anh trai&quot;](https://dantri.com.vn/giai-tri/bang-kieu-phan-ung-khi-lien-tuc-bi-ca-si-tre-tu-choi-chung-doi-o-anh-trai-20240817223324904.htm) - 23:36 17/08/2024
 - 🐵 [Nga vạch lằn ranh đỏ với Ukraine ở Kursk](https://dantri.com.vn/the-gioi/nga-vach-lan-ranh-do-voi-ukraine-o-kursk-20240817220340100.htm) - 23:13 17/08/2024
 - 👍 [Có thể truy lĩnh tiền thai sản sinh con từ năm 2015 không?](https://dantri.com.vn/an-sinh/co-the-truy-linh-tien-thai-san-sinh-con-tu-nam-2015-khong-20240817164051550.htm) - 23:00 17/08/2024
