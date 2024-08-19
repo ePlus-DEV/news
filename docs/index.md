@@ -251,7 +251,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- nld:START -->
 - 🐎 [Công nghệ trẻ hóa da không nốt sần tại Viện thẩm mỹ quốc tế Elia](https://phunu.nld.com.vn/cong-nghe-tre-hoa-da-khong-not-san-tai-vien-tham-my-quoc-te-elia-196240818212642287.htm) - 13:12 19/08/2024
 - 😺 [Thái Sơn Nam TP HCM bị chia điểm ngày khai mạc giải giao hữu quốc tế](https://nld.com.vn/thai-son-nam-tp-hcm-bi-chia-diem-ngay-khai-mac-giai-giao-huu-quoc-te-19624081919304596.htm) - 13:09 19/08/2024
-- 👍 [Bắt nóng &quot;Đạt Lợn&quot; tại sân bay Nội Bài](https://nld.com.vn/bat-nong-dat-lon-tai-san-bay-noi-bai-196240819192309199.htm) - 12:34 19/08/2024
+- 👍 [Bắt nóng &quot;Đạt Lợn&quot; sau 2 năm trốn truy nã sang Nhật Bản](https://nld.com.vn/bat-nong-dat-lon-tai-san-bay-noi-bai-196240819192309199.htm) - 12:34 19/08/2024
 - 🥷 [Dùng AI kích thích mua sắm: Lợi hay hại?](https://nld.com.vn/dung-ai-kich-thich-mua-sam-loi-hay-hai-196240817211455021.htm) - 12:04 19/08/2024
 - 🤔 [Sau Định Hướng Phú Nhuận, Long An xác nhận rút khỏi Giải Hạng nhất](https://nld.com.vn/sau-dinh-huong-phu-nhuan-long-an-xac-nhan-rut-khoi-giai-hang-nhat-196240819185001101.htm) - 12:02 19/08/2024
 - 🌈 [250 chuyên gia quốc tế cùng bàn giải pháp phát triển nhân lực kỹ thuật số](https://nld.com.vn/250-chuyen-gia-quoc-te-cung-ban-giai-phap-phat-trien-nhan-luc-ky-thuat-so-196240819174350117.htm) - 11:38 19/08/2024
