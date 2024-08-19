@@ -4,7 +4,7 @@ sidebar_position: 8
 ---
 
 <!-- dantri-phap-luat:START -->
-- 🌊 [Đã khởi tố 1.083 bị can liên quan vụ 4 tiếp viên xách ma túy về Việt Nam](https://dantri.com.vn/phap-luat/da-khoi-to-1083-bi-can-lien-quan-vu-4-tiep-vien-xach-ma-tuy-ve-viet-nam-20240819161435237.htm) - 09:18 19/08/2024
+- 🌊 [Đã khởi tố 1.038 bị can liên quan vụ 4 tiếp viên xách ma túy về Việt Nam](https://dantri.com.vn/phap-luat/da-khoi-to-1038-bi-can-lien-quan-vu-4-tiep-vien-xach-ma-tuy-ve-viet-nam-20240819161435237.htm) - 09:18 19/08/2024
 - 🐲 [Thời hạn 35.000 người mua trái phiếu của Vạn Thịnh Phát yêu cầu bồi thường](https://dantri.com.vn/phap-luat/thoi-han-35000-nguoi-mua-trai-phieu-cua-van-thinh-phat-yeu-cau-boi-thuong-20240819133225228.htm) - 08:08 19/08/2024
 - 🌁 [Gã đàn ông bán người yêu sang biên giới làm vợ kẻ khác](https://dantri.com.vn/phap-luat/ga-dan-ong-ban-nguoi-yeu-sang-bien-gioi-lam-vo-ke-khac-20240819140556420.htm) - 07:51 19/08/2024
 - 🎃 [Bị đấm vì &quot;quấy rầy giấc ngủ&quot;, thanh niên đâm bạn nhậu trọng thương](https://dantri.com.vn/phap-luat/bi-dam-vi-quay-ray-giac-ngu-thanh-nien-dam-ban-nhau-trong-thuong-20240819113709994.htm) - 06:53 19/08/2024
