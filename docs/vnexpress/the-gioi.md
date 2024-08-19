@@ -12,7 +12,7 @@ sidebar_position: 2
 - 🦒 [Lãnh đạo Việt - Trung dự tiệc trà](https://vnexpress.net/lanh-dao-viet-trung-du-tiec-tra-4783248.html) - 10:20 19/08/2024
 - 🌈 [Tổng Bí thư, Chủ tịch nước đề nghị Việt - Trung hợp tác xây dựng công trình mang tính biểu tượng](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-de-nghi-viet-trung-hop-tac-xay-dung-cong-trinh-mang-tinh-bieu-tuong-4783249.html) - 10:11 19/08/2024
 - 🧑‍🏫 [Biểu tình ở Chicago trước thềm đại hội đảng Dân chủ](https://vnexpress.net/bieu-tinh-o-chicago-truoc-them-dai-hoi-dang-dan-chu-4783125.html) - 08:42 19/08/2024
-- 🐲 [Tân Thủ tướng Thái quỳ lạy tranh vẽ Quốc vương, nhận sắc lệnh](https://vnexpress.net/tan-thu-tuong-thai-quy-lay-tranh-ve-quoc-vuong-nhan-sac-lenh-4783173.html) - 08:41 19/08/2024
+- 🐲 [Tân Thủ tướng Thái quỳ lạy trước tranh chân dung Quốc vương, nhận sắc lệnh](https://vnexpress.net/tan-thu-tuong-thai-quy-lay-truoc-tranh-chan-dung-quoc-vuong-nhan-sac-lenh-4783173.html) - 08:41 19/08/2024
 - 🦒 [Lính Ukraine tịch thu xe tăng &#39;hiện đại nhất&#39; của Nga tại tỉnh Kursk](https://vnexpress.net/linh-ukraine-tich-thu-xe-tang-hien-dai-nhat-cua-nga-tai-tinh-kursk-4783122.html) - 08:04 19/08/2024
 - 🐻 [Hơn 200 chuyến bay bị hoãn vì một chiếc kéo thất lạc](https://vnexpress.net/hon-200-chuyen-bay-bi-hoan-vi-mot-chiec-keo-that-lac-4783120.html) - 07:03 19/08/2024
 - 🚀 [&#39;Mũi đinh ba&#39; giúp Ukraine đối phó Hạm đội Biển Đen Nga](https://vnexpress.net/mui-dinh-ba-giup-ukraine-doi-pho-ham-doi-bien-den-nga-4776613.html) - 05:44 19/08/2024
