@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Công ty mẹ Circle K muốn mua doanh nghiệp đứng sau 7-Eleven](https://vnexpress.net/cong-ty-me-circle-k-muon-mua-doanh-nghiep-dung-sau-7-eleven-4783174.html) - 10:32 19/08/2024
 - 🐲 [Chủ nhiệm Ủy ban Kinh tế: Nhà nước chỉ nên độc quyền &#39;mức độ nào đó&#39; về truyền tải điện](https://vnexpress.net/chu-nhiem-uy-ban-kinh-te-nha-nuoc-chi-nen-doc-quyen-muc-do-nao-do-ve-truyen-tai-dien-4783243.html) - 10:12 19/08/2024
-- 🔥 [Sầu riêng đông lạnh, dừa tươi được xuất chính ngạch sang Trung Quốc](https://vnexpress.net/sau-rieng-dong-lanh-dua-tuoi-duoc-xuat-chinh-ngach-sang-trung-quoc-4783232.html) - 09:13 19/08/2024
+- 🔥 [Sầu riêng đông lạnh, dừa tươi sẽ xuất chính ngạch sang Trung Quốc](https://vnexpress.net/sau-rieng-dong-lanh-dua-tuoi-se-xuat-chinh-ngach-sang-trung-quoc-4783232.html) - 09:13 19/08/2024
 - 🐵 [Chứng khoán tiếp tục tăng](https://vnexpress.net/chung-khoan-tiep-tuc-tang-4783234.html) - 09:02 19/08/2024
 - 🦅 [Ngành thuế sẽ rà soát 100% người bán hàng livestream](https://vnexpress.net/nganh-thue-se-ra-soat-100-nguoi-ban-hang-livestream-4783139.html) - 08:25 19/08/2024
 - 😺 [Yêu cầu có lộ trình xóa bù chéo giá điện sinh hoạt cho sản xuất](https://vnexpress.net/yeu-cau-co-lo-trinh-xoa-bu-cheo-gia-dien-sinh-hoat-cho-san-xuat-4783087.html) - 05:45 19/08/2024
