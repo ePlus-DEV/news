@@ -13,7 +13,7 @@ sidebar_position: 5
 - 😎 [Con gái yêu hiphop, thích vẽ của đạo diễn Kiên Ứng](https://vnexpress.net/con-gai-yeu-hiphop-thich-ve-cua-dao-dien-kien-ung-4782762.html) - 10:17 18/08/2024
 - 🫣 [Tài tử Alain Delon qua đời](https://vnexpress.net/tai-tu-alain-delon-qua-doi-4782857.html) - 08:21 18/08/2024
 - 🪄 [Đức Trí làm live concert kỷ niệm tuổi 51](https://vnexpress.net/duc-tri-lam-live-concert-ky-niem-tuoi-51-4782774.html) - 08:09 18/08/2024
-- 🤓 [Phong độ tuổi 65 của diễn viên Quang Minh](https://vnexpress.net/phong-do-tuoi-65-cua-dien-vien-quang-minh-4778546.html) - 07:49 18/08/2024
+- 🤓 [Phong độ của diễn viên Quang Minh](https://vnexpress.net/phong-do-cua-dien-vien-quang-minh-4778546.html) - 07:49 18/08/2024
 - 🫶 [Vợ Bùi Tiến Dũng chấm casting người mẫu](https://vnexpress.net/vo-bui-tien-dung-cham-casting-nguoi-mau-4782832.html) - 07:42 18/08/2024
 - 🧑‍🏫 [&#39;Lòng mẹ&#39; - giai điệu tình mẫu tử](https://vnexpress.net/long-me-giai-dieu-tinh-mau-tu-4782785.html) - 05:24 18/08/2024
 - 🦄 [Nghệ sĩ Thành Lộc, Cẩm Ly bị cắt thời lượng trong phim &#39;Ma da&#39;](https://vnexpress.net/nghe-si-thanh-loc-cam-ly-bi-cat-thoi-luong-trong-phim-ma-da-4782821.html) - 05:18 18/08/2024
