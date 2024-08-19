@@ -10,7 +10,7 @@ sidebar_position: 16
 - 🕯 [Nga phủ nhận bí mật đàm phán với Ukraine](https://dantri.com.vn/the-gioi/nga-phu-nhan-bi-mat-dam-phan-voi-ukraine-20240819084803411.htm) - 01:57 19/08/2024
 - 🪜 [Ông Thaksin sẵn sàng cố vấn cho con gái làm thủ tướng](https://dantri.com.vn/the-gioi/ong-thaksin-san-sang-co-van-cho-con-gai-lam-thu-tuong-20240819074819586.htm) - 00:53 19/08/2024
 - 🐘 [Nga cảnh báo thảm họa hạt nhân trước đà tiến công của Ukraine](https://dantri.com.vn/the-gioi/nga-canh-bao-tham-hoa-hat-nhan-truoc-da-tien-cong-cua-ukraine-20240819064246787.htm) - 00:25 19/08/2024
-- 🤔 [Vàng nhẫn lập đỉnh kỷ lục 78,4 triệu/lượng](https://dantri.com.vn/kinh-doanh/vang-nhan-lap-dinh-ky-luc-784-trieuluong-20240819070451153.htm) - 00:11 19/08/2024
+- 🤔 [Vàng nhẫn ở vùng giá cao vượt 78 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/vang-nhan-o-vung-gia-cao-vuot-78-trieu-dongluong-20240819070451153.htm) - 00:11 19/08/2024
 - 🧠 [Quốc Cường Gia Lai &quot;sống&quot; nhờ đâu trong nhiều năm qua?](https://dantri.com.vn/kinh-doanh/quoc-cuong-gia-lai-song-nho-dau-trong-nhieu-nam-qua-20240815162341490.htm) - 00:08 19/08/2024
 - 📝 [&quot;Biển người&quot; chen chân trên phố Hàng Mã đón Trung thu sớm](https://dantri.com.vn/du-lich/bien-nguoi-chen-chan-tren-pho-hang-ma-don-trung-thu-som-20240817123314207.htm) - 23:18 18/08/2024
 - 🦏 [Ukraine tấn công mạnh, đánh thẳng huyết mạch chi viện của Nga ở Kursk](https://dantri.com.vn/the-gioi/ukraine-tan-cong-manh-danh-thang-huyet-mach-chi-vien-cua-nga-o-kursk-20240819060958312.htm) - 23:17 18/08/2024
