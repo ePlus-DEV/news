@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦆 [Quản trị theo ESG: FPT, Vingroup và loạt doanh nghiệp đang thực hiện sao?](https://dantri.com.vn/kinh-doanh/quan-tri-theo-esg-fpt-vingroup-va-loat-doanh-nghiep-dang-thuc-hien-sao-20240816004922035.htm) - 02:42 19/08/2024
 - 🦄 [Vay mua nhà tại VIB: vay 2 tỷ đồng, trả 12,5 triệu đồng/tháng](https://dantri.com.vn/kinh-doanh/vay-mua-nha-tai-vib-vay-2-ty-dong-tra-125-trieu-dongthang-20240818213954421.htm) - 01:00 19/08/2024
 - 🌝 [AEON Việt Nam bật mí tiêu chí tạo nên một nhân sự hạnh phúc](https://dantri.com.vn/kinh-doanh/aeon-viet-nam-bat-mi-tieu-chi-tao-nen-mot-nhan-su-hanh-phuc-20240816234334179.htm) - 01:00 19/08/2024
-- 💃 [Vàng nhẫn lập đỉnh kỷ lục 78,4 triệu/lượng](https://dantri.com.vn/kinh-doanh/vang-nhan-lap-dinh-ky-luc-784-trieuluong-20240819070451153.htm) - 00:11 19/08/2024
+- 💃 [Vàng nhẫn ở vùng giá cao vượt 78 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/vang-nhan-o-vung-gia-cao-vuot-78-trieu-dongluong-20240819070451153.htm) - 00:11 19/08/2024
 - 🦏 [Quốc Cường Gia Lai &quot;sống&quot; nhờ đâu trong nhiều năm qua?](https://dantri.com.vn/kinh-doanh/quoc-cuong-gia-lai-song-nho-dau-trong-nhieu-nam-qua-20240815162341490.htm) - 00:08 19/08/2024
 - 🦩 [Giỏi mua cổ phiếu Hoàng Anh Gia Lai như con gái bầu Đức](https://dantri.com.vn/kinh-doanh/gioi-mua-co-phieu-hoang-anh-gia-lai-nhu-con-gai-bau-duc-20240819063037301.htm) - 00:02 19/08/2024
 - 💡 [Nhà giàu đổ đến Dubai để trú ẩn giữa xung đột Trung Đông](https://dantri.com.vn/kinh-doanh/nha-giau-do-den-dubai-de-tru-an-giua-xung-dot-trung-dong-20240818002843670.htm) - 09:05 18/08/2024
