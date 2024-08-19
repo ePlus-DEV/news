@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [HLV Park Hang Seo tiết lộ kế hoạch trước khi giải nghệ](https://dantri.com.vn/the-thao/hlv-park-hang-seo-tiet-lo-ke-hoach-truoc-khi-giai-nghe-20240819190520562.htm) - 12:05 19/08/2024
+- 🎡 [HLV Park Hang Seo tiết lộ kế hoạch trước khi giải nghệ](https://dantri.com.vn/the-thao/hlv-park-hang-seo-tiet-lo-ke-hoach-truoc-khi-giai-nghe-20240819190520562.htm) - 12:45 19/08/2024
 - 💯 [Cựu ngôi sao quần vợt yêu thích cuộc sống mới trên sân pickleball](https://dantri.com.vn/the-thao/cuu-ngoi-sao-quan-vot-yeu-thich-cuoc-song-moi-tren-san-pickleball-20240819175627907.htm) - 11:03 19/08/2024
 - ⛽️ [Indonesia bổ sung thủ môn nhập tịch, chờ đấu tuyển Việt Nam ở AFF Cup](https://dantri.com.vn/the-thao/indonesia-bo-sung-thu-mon-nhap-tich-cho-dau-tuyen-viet-nam-o-aff-cup-20240819122914977.htm) - 10:04 19/08/2024
 - 💃 [Vé trận đấu tuyển Việt Nam gặp Nga, Thái Lan cao nhất 500.000 đồng](https://dantri.com.vn/the-thao/ve-tran-dau-tuyen-viet-nam-gap-nga-thai-lan-cao-nhat-500000-dong-20240819181231447.htm) - 09:11 19/08/2024
