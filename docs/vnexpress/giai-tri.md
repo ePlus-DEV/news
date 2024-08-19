@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Song Hye Kyo tỏa sáng với đầm đơn sắc](https://vnexpress.net/song-hye-kyo-toa-sang-voi-dam-don-sac-4782846.html) - 22:00 18/08/2024
 - 💫 [Dàn sao &#39;Anh trai say hi&#39; khóc khi hát về ơn sinh thành](https://vnexpress.net/dan-sao-anh-trai-say-hi-khoc-khi-hat-ve-on-sinh-thanh-4782924.html) - 21:02 18/08/2024
-- 🌮 [&#39;Ma da&#39; - nỗi ám ảnh ở miền Tây sông nước](https://vnexpress.net/giai-tri/phim/thu-vien-phim/ma-da-722) - 17:00 18/08/2024
+- 🌮 [&#39;Ma da&#39; - nỗi ám ảnh ở miền sông nước](https://vnexpress.net/giai-tri/phim/thu-vien-phim/ma-da-722) - 17:00 18/08/2024
 - 🧠 [Những năm tháng cuối đời của tài tử Alain Delon](https://vnexpress.net/nhung-nam-thang-cuoi-doi-cua-tai-tu-alain-delon-4782871.html) - 13:30 18/08/2024
 - 👨‍🏫 [Hạnh &#39;Kính vạn hoa&#39; phiên bản mới gây chú ý](https://vnexpress.net/hanh-kinh-van-hoa-phien-ban-moi-gay-chu-y-4782155.html) - 12:17 18/08/2024
 - ⚗️ [Nghệ sĩ Hồng Vân, Quyền Linh đóng cặp trong &#39;Hai Muối&#39;](https://vnexpress.net/nghe-si-hong-van-quyen-linh-dong-cap-trong-hai-muoi-4782818.html) - 11:00 18/08/2024
