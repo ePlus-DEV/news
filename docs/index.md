@@ -515,7 +515,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌮 [Quyết định 824/QĐ-TTg năm 2024 bãi bỏ văn bản hành chính do Thủ tướng Chính phủ ban hành](https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-824-QD-TTg-2024-bai-bo-van-ban-hanh-chinh-621043.aspx) - 00:00 13/08/2024
 - 📝 [Quyết định 594/QĐ-QLD công bố Danh mục thuốc biệt dược gốc Đợt 5 - Năm 2024 do Cục trưởng Cục Quản lý Dược ban hành](https://thuvienphapluat.vn/van-ban/The-thao-Y-te/Quyet-dinh-594-QD-QLD-2024-cong-bo-Danh-muc-thuoc-biet-duoc-goc-Dot-5-621041.aspx) - 00:00 13/08/2024
 - 🐲 [Văn bản hợp nhất 24/VBHN-BNNPTNT năm 2024 hợp nhất Nghị định hướng dẫn Luật Lâm nghiệp do Bộ Nông nghiệp và Phát triển nông thôn ban hành](https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Van-ban-hop-nhat-24-VBHN-BNNPTNT-2024-Nghi-dinh-huong-dan-Luat-Lam-nghiep-620874.aspx) - 00:00 13/08/2024
-- 🥸 [Dự thảo Luật Bảo hiểm y tế sửa đổi](https://thuvienphapluat.vn/van-ban/Bao-hiem/Luat-Bao-hiem-y-te-505750.aspx) - 00:00 12/08/2024<!-- thuvienphapluat:END -->
+- 🥸 [Công văn 8448/BTC-HCSN năm 2024 trả lời kiến nghị cử tri tỉnh Vĩnh Phúc gửi tới trước Kỳ họp thứ 7, Quốc hội khóa XV do Bộ Tài chính ban hành](https://thuvienphapluat.vn/cong-van/Bo-may-hanh-chinh/Cong-van-8448-BTC-HCSN-2024-tra-loi-kien-nghi-cu-tri-tinh-Vinh-Phuc-gui-toi-truoc-Ky-hop-thu-7-621118.aspx) - 00:00 12/08/2024<!-- thuvienphapluat:END -->
 
 ## Báo Mực Tím
 <!-- muctim:START -->
