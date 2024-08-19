@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Khách lấy trộm xe máy của tiệm cầm đồ](https://vnexpress.net/khach-lay-trom-xe-may-cua-tiem-cam-do-4783129.html) - 07:48 19/08/2024
-- 🥰 [Thi thể thiếu nữ không nguyên vẹn rơi từ tầng cao chung cư](https://vnexpress.net/thi-the-thieu-nu-khong-nguyen-ven-roi-tu-tang-cao-chung-cu-4783151.html) - 06:01 19/08/2024
+- 🥰 [Thiếu nữ rơi từ tầng cao chung cư](https://vnexpress.net/thieu-nu-roi-tu-tang-cao-chung-cu-4783151.html) - 06:01 19/08/2024
 - 🎓 [VKS đề nghị bác kháng cáo của đại gia Đức An và Ngọc Thúy](https://vnexpress.net/vks-de-nghi-bac-khang-cao-cua-dai-gia-duc-an-va-ngoc-thuy-4783095.html) - 05:36 19/08/2024
 - 🤓 [9 tiếng tự cứu mình sau khi bị chồng đẩy xuống vách đá](https://vnexpress.net/9-tieng-vat-lon-de-song-sot-sau-khi-bi-chong-day-xuong-vach-da-4783045.html) - 03:36 19/08/2024
 - 🎊 [Cuộc vây bắt gã giang hồ buôn ma túy ở TP HCM](https://vnexpress.net/cuoc-vay-bat-ga-giang-ho-buon-ma-tuy-o-tp-hcm-4782397.html) - 23:00 18/08/2024
