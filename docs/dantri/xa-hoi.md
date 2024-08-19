@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- dantri-xa-hoi:START -->
-- 🫣 [Đề xuất Nhà nước độc quyền trong đầu tư các nhà máy điện hạt nhân](https://dantri.com.vn/xa-hoi/de-xuat-nha-nuoc-doc-quyen-trong-dau-tu-cac-nha-may-dien-hat-nhan-20240819132218854.htm) - 06:31 19/08/2024
+- 🫣 [Hai đơn vị bị xử phạt do có vi phạm liên quan dự án hồ chứa nước Đông Thanh](https://dantri.com.vn/xa-hoi/hai-don-vi-bi-xu-phat-do-co-vi-pham-lien-quan-du-an-ho-chua-nuoc-dong-thanh-20240819120945823.htm) - 07:00 19/08/2024
 - 💼 [Tôn vinh người cứu 5 nạn nhân trong vụ cháy ở TPHCM](https://dantri.com.vn/xa-hoi/ton-vinh-nguoi-cuu-5-nan-nhan-trong-vu-chay-o-tphcm-20240819130410127.htm) - 06:15 19/08/2024
 - 🎊 [Ông Võ Tấn Đức được bầu làm Chủ tịch UBND tỉnh Đồng Nai](https://dantri.com.vn/xa-hoi/ong-vo-tan-duc-duoc-bau-lam-chu-tich-ubnd-tinh-dong-nai-20240819112135786.htm) - 04:35 19/08/2024
 - 🙉 [TPHCM kiến nghị Thủ tướng gỡ vướng ách tắc hồ sơ vì giá đất](https://dantri.com.vn/xa-hoi/tphcm-kien-nghi-thu-tuong-go-vuong-ach-tac-ho-so-vi-gia-dat-20240819112346436.htm) - 04:32 19/08/2024
