@@ -4,7 +4,7 @@ sidebar_position: 28
 ---
 
 <!-- dantri-photo-story:START -->
-- 💪 [Phóng viên Dân trí đến gần vùng chiến sự, khám phá thành phố súng đạn Tula](https://dantri.com.vn/the-gioi/phong-vien-dan-tri-den-gan-vung-chien-su-kham-pha-thanh-pho-sung-dan-tula-20240818122403210.htm) - 06:20 19/08/2024
+- 💪 [Phóng viên Dân trí đến gần vùng chiến sự, khám phá &quot;thành phố súng đạn&quot; Tula](https://dantri.com.vn/the-gioi/phong-vien-dan-tri-den-gan-vung-chien-su-kham-pha-thanh-pho-sung-dan-tula-20240818122403210.htm) - 06:20 19/08/2024
 - 🧰 [Học sinh lớp 1 khóc nức nở, ngáp ngủ trong ngày đầu nhập học](https://dantri.com.vn/giao-duc/hoc-sinh-lop-1-khoc-nuc-no-ngap-ngu-trong-ngay-dau-nhap-hoc-20240819101740930.htm) - 03:44 19/08/2024
 - 🧰 [Dấu ấn Cách mạng Tháng Tám qua những hiện vật lịch sử](https://dantri.com.vn/xa-hoi/dau-an-cach-mang-thang-tam-qua-nhung-hien-vat-lich-su-20240818193507048.htm) - 22:36 18/08/2024
 - 😎 [Cận cảnh khu vực làm dự án du lịch sinh thái rộng hơn 1.500ha ở Hải Dương](https://dantri.com.vn/xa-hoi/can-canh-khu-vuc-lam-du-an-du-lich-sinh-thai-rong-hon-1500ha-o-hai-duong-20240818224445465.htm) - 17:16 18/08/2024
