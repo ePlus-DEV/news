@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Điểm chuẩn Học viện Công nghệ Bưu chính viễn thông lên đến 26,4](https://vnexpress.net/diem-chuan-hoc-vien-cong-nghe-buu-chinh-vien-thong-nam-2024-4781757.html) - 03:34 19/08/2024
+- 🤓 [Điểm chuẩn Học viện Công nghệ Bưu chính viễn thông cao nhất 26,4](https://vnexpress.net/diem-chuan-hoc-vien-cong-nghe-buu-chinh-vien-thong-nam-2024-4781757.html) - 03:34 19/08/2024
 - 🦆 [Điểm chuẩn Đại học Sài Gòn cao nhất 28,25](https://vnexpress.net/diem-chuan-dai-hoc-sai-gon-nam-2024-4782852.html) - 03:13 19/08/2024
 - 🦩 [Điểm chuẩn Sư phạm lên ngôi, Công nghệ và Logistics giữ độ &#39;hot&#39;](https://vnexpress.net/diem-chuan-su-pham-len-ngoi-cong-nghe-va-logistics-giu-do-hot-4782786.html) - 23:59 18/08/2024
 - 🌮 [Hàng loạt đại học tuyển bổ sung](https://vnexpress.net/hang-loat-dai-hoc-tuyen-bo-sung-4782910.html) - 23:34 18/08/2024
