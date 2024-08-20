@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [GS Võ Tòng Xuân - &#39;bác sĩ lúa&#39; của nông dân](https://vnexpress.net/gs-vo-tong-xuan-bac-si-lua-cua-nong-dan-4783369.html) - 06:28 20/08/2024
+- 🎬 [GS Võ Tòng Xuân - &#39;bác sĩ lúa&#39; của triệu nông dân](https://vnexpress.net/gs-vo-tong-xuan-bac-si-lua-cua-trieu-nong-dan-4783369.html) - 06:28 20/08/2024
 - 🐎 [Mua đất ở Bình Dương nhưng bị &#39;cò&#39; đưa đi Bình Phước](https://vnexpress.net/mua-dat-o-binh-duong-nhung-bi-co-dua-di-binh-phuoc-4783477.html) - 06:00 20/08/2024
 - 🦍 [Ngày càng nhiều người Mỹ sợ mất việc](https://vnexpress.net/ngay-cang-nhieu-nguoi-my-so-mat-viec-4783469.html) - 06:00 20/08/2024
 - 🏊 [Cô gái Huế hướng nội tìm người thương](https://vnexpress.net/co-gai-hue-huong-noi-tim-nguoi-thuong-4783450.html) - 06:00 20/08/2024
@@ -53,4 +53,5 @@ sidebar_position: 9
 - 👍 [Bà Harris: Tôi mãi biết ơn Tổng thống Biden](https://vnexpress.net/ba-harris-toi-mai-biet-on-tong-thong-biden-4783423.html) - 03:08 20/08/2024
 - 🐎 [Tay vợt bị đuổi khỏi sân vì la ó đối thủ](https://vnexpress.net/tay-vot-bi-duoi-khoi-san-vi-la-o-doi-thu-4783416.html) - 03:01 20/08/2024
 - 🏊 [Anh vợ không về giỗ bố vì hết tiền đi xe](https://vnexpress.net/anh-vo-khong-ve-gio-bo-vi-het-tien-di-xe-4783431.html) - 03:00 20/08/2024
-- 🦩 [Ai dễ bị trầm cảm?](https://vnexpress.net/ai-de-bi-tram-cam-4783434.html) - 03:00 20/08/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🦩 [Ai dễ bị trầm cảm?](https://vnexpress.net/ai-de-bi-tram-cam-4783434.html) - 03:00 20/08/2024
+- 👍 [Ba vị trí nguy hiểm khi bị chó cắn](https://vnexpress.net/ba-vi-tri-nguy-hiem-khi-bi-cho-can-4783400.html) - 03:00 20/08/2024<!-- vnexpress-tin-moi-nhat:END -->
