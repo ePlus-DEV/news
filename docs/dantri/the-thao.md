@@ -4,9 +4,9 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [U16 Việt Nam thắng Nhật Bản, giành ngôi á quân giải đấu ở Trung Quốc](https://dantri.com.vn/the-thao/u16-viet-nam-thang-nhat-ban-gianh-ngoi-a-quan-giai-dau-o-trung-quoc-20240820210150962.htm) - 14:02 20/08/2024
-- 💯 [Đội tuyển Nga bị chỉ trích vì danh sách cầu thủ thi đấu với tuyển Việt Nam](https://dantri.com.vn/the-thao/doi-tuyen-nga-bi-chi-trich-vi-danh-sach-cau-thu-thi-dau-voi-tuyen-viet-nam-20240820200815851.htm) - 13:08 20/08/2024
-- ⛽️ [Tiết lộ bất ngờ về môn pickleball đang gây sốt ở Việt Nam](https://dantri.com.vn/the-thao/tiet-lo-bat-ngo-ve-mon-pickleball-dang-gay-sot-o-viet-nam-20240820194128624.htm) - 12:41 20/08/2024
+- 🎡 [Tiết lộ bất ngờ về môn pickleball đang gây sốt ở Việt Nam](https://dantri.com.vn/the-thao/tiet-lo-bat-ngo-ve-mon-pickleball-dang-gay-sot-o-viet-nam-20240820194128624.htm) - 14:03 20/08/2024
+- 💯 [U16 Việt Nam thắng Nhật Bản, giành ngôi á quân giải đấu ở Trung Quốc](https://dantri.com.vn/the-thao/u16-viet-nam-thang-nhat-ban-gianh-ngoi-a-quan-giai-dau-o-trung-quoc-20240820210150962.htm) - 14:02 20/08/2024
+- ⛽️ [Đội tuyển Nga bị chỉ trích vì danh sách cầu thủ thi đấu với tuyển Việt Nam](https://dantri.com.vn/the-thao/doi-tuyen-nga-bi-chi-trich-vi-danh-sach-cau-thu-thi-dau-voi-tuyen-viet-nam-20240820200815851.htm) - 13:08 20/08/2024
 - 💃 [Nợ lương Mbappe, PSG có thể bị cấm tham dự Champions League](https://dantri.com.vn/the-thao/no-luong-mbappe-psg-co-the-bi-cam-tham-du-champions-league-20240820181624944.htm) - 12:13 20/08/2024
 - 🌈 [Phụ huynh tố gian lận ở giải karate trẻ TPHCM, người trong cuộc lên tiếng](https://dantri.com.vn/the-thao/phu-huynh-to-gian-lan-o-giai-karate-tre-tphcm-nguoi-trong-cuoc-len-tieng-20240820174736951.htm) - 10:51 20/08/2024
 - 🦅 [Acecook Việt Nam lan tỏa thông điệp cùng bóng đá &quot;Việt Nam quyết tiến - Khởi sắc vinh quang&quot;](https://dantri.com.vn/the-thao/acecook-viet-nam-lan-toa-thong-diep-cung-bong-da-viet-nam-quyet-tien-khoi-sac-vinh-quang-20240820170422880.htm) - 10:40 20/08/2024
