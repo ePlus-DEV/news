@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Tòa hoãn phiên xem xét kháng cáo xin giảm án của ông Trần Quí Thanh](https://vnexpress.net/toa-hoan-phien-xem-xet-khang-cao-xin-giam-an-cua-ong-tran-qui-thanh-4783386.html) - 02:43 20/08/2024
 - 🥰 [Bốn trường hợp được phép &#39;chở ba bằng xe máy&#39; từ 1/1/2025](https://vnexpress.net/bon-truong-hop-duoc-phep-cho-ba-bang-xe-may-tu-1-1-2025-4783103.html) - 23:00 19/08/2024
-- 🎓 [Mất gần 4 tỷ đồng sau cuộc gọi của công an giả](https://vnexpress.net/mat-gan-4-ty-dong-sau-cuoc-goi-cua-cong-an-gia-4783233.html) - 17:00 19/08/2024
+- 🎓 [Cuộc gọi bủa vây của công an dỏm khiến người phụ nữ mất 4 tỷ đồng](https://vnexpress.net/mat-gan-4-ty-dong-sau-cuoc-goi-cua-cong-an-gia-4783233.html) - 17:00 19/08/2024
 - 🤓 [Bẫy đoạt mạng của &#39;du khách đến từ địa ngục&#39;](https://vnexpress.net/bay-doat-mang-cua-du-khach-den-tu-dia-nguc-4783313.html) - 17:00 19/08/2024
 - 🎊 [Người phụ nữ 20 năm cảm hóa người lầm lỗi được vinh danh](https://vnexpress.net/nguoi-phu-nu-20-nam-cam-hoa-nguoi-lam-loi-duoc-vinh-danh-4783333.html) - 13:28 19/08/2024
 - 🙉 [Bán người yêu ra nước ngoài](https://vnexpress.net/ban-nguoi-yeu-ra-nuoc-ngoai-4783296.html) - 11:04 19/08/2024
