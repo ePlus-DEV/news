@@ -317,7 +317,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [TPHCM và Slovenia tăng cường hợp tác trong nhiều lĩnh vực](https://www.sggp.org.vn/tphcm-va-slovenia-tang-cuong-hop-tac-trong-nhieu-linh-vuc-post754959.html) - 13:28 20/08/2024
+- 🪜 [TPHCM và Slovenia tăng cường hợp tác nhiều lĩnh vực](https://www.sggp.org.vn/tphcm-va-slovenia-tang-cuong-hop-tac-nhieu-linh-vuc-post754959.html) - 13:28 20/08/2024
 - 🌝 [Bổ sung vào quy hoạch 2 tuyến cao tốc mới](https://www.sggp.org.vn/bo-sung-vao-quy-hoach-2-tuyen-cao-toc-moi-post754956.html) - 13:25 20/08/2024
 - 💃 [Podcast bản tin tối 20-8: Người dân Hà Nội như &quot;đang sống ở miền Tây sông nước&quot;](https://www.sggp.org.vn/podcast-ban-tin-toi-20-8-nguoi-dan-ha-noi-nhu-dang-song-o-mien-tay-song-nuoc-post754962.html) - 13:19 20/08/2024
 - 🧑‍💻 [Hoãn xét xử 5 cựu cầu thủ bóng đá tổ chức &quot;bay lắc&quot; ma túy trong khách sạn](https://www.sggp.org.vn/hoan-xet-xu-5-cuu-cau-thu-bong-da-to-chuc-bay-lac-ma-tuy-trong-khach-san-post754947.html) - 13:12 20/08/2024
