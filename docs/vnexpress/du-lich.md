@@ -9,7 +9,7 @@ sidebar_position: 11
 - 🦅 [10 thắc mắc về tiếp viên khách hay hỏi khi bay](https://vnexpress.net/10-thac-mac-ve-tiep-vien-khach-hay-hoi-khi-bay-4783020.html) - 02:54 20/08/2024
 - 🕴 [Quán thuần sen ở Hà Nội được Michelin gợi ý](https://vnexpress.net/quan-thuan-sen-o-ha-noi-duoc-michelin-goi-y-4782055.html) - 02:27 20/08/2024
 - 👀 [Khách Hàn Quốc trải nghiệm cưỡi trâu ở Ninh Bình](https://vnexpress.net/khach-han-quoc-trai-nghiem-cuoi-trau-o-ninh-binh-4781693.html) - 00:25 20/08/2024
-- 🎭 [29 đoàn lân tranh tài ở Quy Nhơn](https://vnexpress.net/29-doan-lan-tranh-tai-o-quy-nhon-4783132.html) - 12:00 19/08/2024
+- 🎭 [29 đoàn lân tranh tài ở Quy Nhơn](https://vnexpress.net/29-doan-lan-tranh-tai-o-quy-nhon-4783132.html) - 08:00 19/08/2024
 - 🦒 [Cá hồi chay trong nhà hàng kiểu Nhật ở TP HCM](https://vnexpress.net/ca-hoi-chay-trong-nha-hang-kieu-nhat-o-tp-hcm-4781819.html) - 05:21 19/08/2024
 - 👨‍🏫 [Cô gái Belarus đi chợ Phú Yên, ăn bảy món hết 50.000 đồng](https://vnexpress.net/co-gai-belarus-di-cho-phu-yen-an-bay-mon-het-50-000-dong-4780614.html) - 04:30 19/08/2024
 - ⚗️ [Bốn trải nghiệm ở tỉnh lớn nhất miền Trung Thái Lan Kanchanburi](https://vnexpress.net/bon-trai-nghiem-o-tinh-lon-nhat-mien-trung-thai-lan-kanchanburi-4781842.html) - 03:18 19/08/2024
