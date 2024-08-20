@@ -77,7 +77,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤩 [Ăn uống thế nào để hơi thở thơm mát](https://vnexpress.net/an-uong-the-nao-de-hoi-tho-thom-mat-4783505.html) - 10:00 20/08/2024
 - 🏊 [Chiến lược giúp WinCommerce lần đầu có lãi](https://vnexpress.net/chien-luoc-giup-wincommerce-lan-dau-co-lai-4783443.html) - 10:00 20/08/2024
 - 💂 [Ăn cơm thế nào không ảnh hưởng đường huyết](https://vnexpress.net/an-com-the-nao-khong-anh-huong-duong-huyet-4783375.html) - 10:00 20/08/2024
-- 🚀 [Điểm tin 17h: Gần 1.600 học sinh bị nhầm điểm thi lớp 10; Vàng miếng lên 81 triệu đồng](https://vnexpress.net/diem-tin-17h-gan-1-600-hoc-sinh-bi-nham-diem-thi-lop-10-vang-mieng-len-81-trieu-dong-4783697.html) - 09:58 20/08/2024
+- 🚀 [Điểm tin 21h: Hơn 111.000 ha đất nông nghiệp TP HCM chịu tác động bởi bảng giá đất; Biệt thự xây trái phép ở Bình Thuận](https://vnexpress.net/diem-tin-21h-hon-111-000-ha-dat-nong-nghiep-tp-hcm-chiu-tac-dong-boi-bang-gia-dat-biet-thu-xay-trai-phep-o-binh-thuan-4783697.html) - 09:58 20/08/2024
 - 🕴 [Chuyên gia: Giá điện cần theo thị trường để có tiền đầu tư nguồn, lưới](https://vnexpress.net/chuyen-gia-gia-dien-can-theo-thi-truong-de-co-tien-dau-tu-nguon-luoi-4783569.html) - 09:58 20/08/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
