@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [4.500 khách Ấn Độ ăn, ở như thế nào khi đến Hà Nội](https://vnexpress.net/4-500-khach-an-do-an-o-nhu-the-nao-khi-den-ha-noi-4783633.html) - 09:50 20/08/2024
+- 💂 [4.500 khách Ấn Độ yêu cầu phục vụ thế nào khi đến Hà Nội](https://vnexpress.net/4-500-khach-an-do-yeu-cau-phuc-vu-the-nao-khi-den-ha-noi-4783633.html) - 09:50 20/08/2024
 - 🪄 [Hiệp hội Du lịch Thái xin lỗi vì nhân viên nói xấu Hàn Quốc](https://vnexpress.net/hiep-hoi-du-lich-thai-xin-loi-vi-nhan-vien-noi-xau-han-quoc-4783604.html) - 09:28 20/08/2024
 - 🦅 [Du khách bức xúc vì dịch vụ chụp ảnh với chó ở Đà Lạt](https://vnexpress.net/du-khach-buc-xuc-vi-dich-vu-chup-anh-voi-cho-o-da-lat-4783040.html) - 05:31 20/08/2024
 - 🕴 [Lý do khách quốc tế chọn Ba Na Hills khi đến Đà Nẵng](https://vnexpress.net/ly-do-khach-quoc-te-chon-ba-na-hills-khi-den-da-nang-4783164.html) - 04:00 20/08/2024
