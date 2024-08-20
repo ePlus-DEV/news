@@ -4,7 +4,7 @@ sidebar_position: 22
 ---
 
 <!-- dantri-du-lich:START -->
-- 🥰 [Nghỉ dưỡng tại Melía Hotels &amp; Resorts - Thong dong tận hưởng cuộc sống](https://dantri.com.vn/du-lich/nghi-duong-tai-melia-hotels-resorts-thong-dong-tan-huong-cuoc-song-20240820113928194.htm) - 05:04 20/08/2024
+- 🥰 [Nghỉ dưỡng tại Meliá Hotels &amp; Resorts - Thong dong tận hưởng cuộc sống](https://dantri.com.vn/du-lich/nghi-duong-tai-melia-hotels-resorts-thong-dong-tan-huong-cuoc-song-20240820113928194.htm) - 05:04 20/08/2024
 - 🥰 [Trải nghiệm bay dù lượn ngắm mùa lúa chín ở Mù Cang Chải dịp 2/9](https://dantri.com.vn/du-lich/trai-nghiem-bay-du-luon-ngam-mua-lua-chin-o-mu-cang-chai-dip-29-20240820100924027.htm) - 04:01 20/08/2024
 - 🐻 [Triều Tiên mở cửa đón khách sau 5 năm, giá tour 42 triệu đồng/khách](https://dantri.com.vn/du-lich/trieu-tien-mo-cua-don-khach-sau-5-nam-gia-tour-42-trieu-dongkhach-20240820103852754.htm) - 03:52 20/08/2024
 - 🤩 [Cô gái tên lạ bỏ việc lương cao, ra đảo Phú Quý lặn biển và câu cá](https://dantri.com.vn/du-lich/co-gai-ten-la-bo-viec-luong-cao-ra-dao-phu-quy-lan-bien-va-cau-ca-20240819125025605.htm) - 03:13 20/08/2024
