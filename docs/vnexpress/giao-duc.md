@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Sinh viên quốc tế đến Việt Nam cao nhất 9 năm](https://vnexpress.net/sinh-vien-quoc-te-den-viet-nam-cao-nhat-9-nam-4783446.html) - 05:11 20/08/2024
+- 🤓 [Số sinh viên quốc tế đến Việt Nam cao nhất 9 năm](https://vnexpress.net/so-sinh-vien-quoc-te-den-viet-nam-cao-nhat-9-nam-4783446.html) - 05:11 20/08/2024
 - 🦆 [Gần 1.600 học sinh bị nhầm điểm thi lớp 10](https://vnexpress.net/gan-1-600-hoc-sinh-bi-nham-diem-thi-lop-10-4783330.html) - 02:11 20/08/2024
 - 🦩 [Giảng viên đại học tăng cả &#39;chất và lượng&#39;](https://vnexpress.net/giang-vien-dai-hoc-tang-ca-chat-va-luong-4783264.html) - 00:17 20/08/2024
 - 🌮 [&#39;Cần giám sát các trường xét tuyển sớm&#39;](https://vnexpress.net/can-giam-sat-cac-truong-xet-tuyen-som-4783284.html) - 15:01 19/08/2024
