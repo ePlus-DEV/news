@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Bộ đội không quân tranh tài cứu hộ cứu nạn](https://vnexpress.net/bo-doi-khong-quan-tranh-tai-cuu-ho-cuu-nan-4783568.html) - 07:16 20/08/2024
 - 🤓 [Hạn chế ôtô qua đèo Bảo Lộc để xử lý sạt lở](https://vnexpress.net/deo-bao-loc-4783554.html) - 06:55 20/08/2024
-- ⚗️ [GS Võ Tòng Xuân - &#39;bác sĩ lúa&#39; của nông dân](https://vnexpress.net/gs-vo-tong-xuan-bac-si-lua-cua-nong-dan-4783369.html) - 06:28 20/08/2024
+- ⚗️ [GS Võ Tòng Xuân - &#39;tư lệnh&#39; chống giặc rầy nâu, lai tạo giống lúa](https://vnexpress.net/gs-vo-tong-xuan-tu-lenh-chong-giac-ray-nau-lai-tao-giong-lua-4783369.html) - 06:28 20/08/2024
 - 🌊 [Đà Nẵng xử phạt nhiều doanh nghiệp nợ bảo hiểm](https://vnexpress.net/da-nang-xu-phat-nhieu-doanh-nghiep-no-bao-hiem-4783343.html) - 01:52 20/08/2024
 - 🎓 [Hà Nội dự kiến xén vỉa hè, dải phân cách một số tuyến đường](https://vnexpress.net/ha-noi-du-kien-xen-via-he-dai-phan-cach-mot-so-tuyen-duong-4783344.html) - 19:00 19/08/2024
 - 🔥 [Khuyến khích mở đường bay quốc tế đến điểm du lịch truyền thống Việt Nam](https://vnexpress.net/khuyen-khich-mo-duong-bay-quoc-te-den-diem-du-lich-truyen-thong-viet-nam-4783345.html) - 18:00 19/08/2024
