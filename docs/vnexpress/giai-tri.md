@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Ngọc Lan: &#39;Tôi không tiếc nuối khi ngừng đóng phim&#39;](https://vnexpress.net/ngoc-lan-toi-khong-tiec-nuoi-khi-ngung-dong-phim-4783671.html) - 17:00 20/08/2024
 - 💫 [Meghan Markle đầu tư váy áo trong chuyến thăm Colombia](https://vnexpress.net/meghan-markle-dau-tu-vay-ao-trong-chuyen-tham-colombia-4783475.html) - 13:00 20/08/2024
-- 🌮 [Cô gái vượt qua 20.000 ứng viên đóng Lâm Đại Ngọc](https://vnexpress.net/co-gai-vuot-qua-20-000-ung-vien-dong-lam-dai-ngoc-4783634.html) - 11:00 20/08/2024
+- 🌮 [Cô gái vượt 20.000 ứng viên đóng Lâm Đại Ngọc](https://vnexpress.net/co-gai-vuot-20-000-ung-vien-dong-lam-dai-ngoc-4783634.html) - 11:00 20/08/2024
 - 🧠 [Taylor Swift gặp fan nhí sống sót sau vụ đâm dao ở Anh](https://vnexpress.net/taylor-swift-gap-fan-nhi-song-sot-sau-vu-dam-dao-o-anh-4783583.html) - 10:40 20/08/2024
 - 👨‍🏫 [Phim &#39;Hạnh phúc bị đánh cắp&#39; quy tụ diễn viên hai miền](https://vnexpress.net/phim-hanh-phuc-bi-danh-cap-quy-tu-dien-vien-hai-mien-4783308.html) - 10:30 20/08/2024
 - ⚗️ [Chàng trai Ninh Thuận ra mắt trong nhóm nhạc Hàn](https://vnexpress.net/chang-trai-ninh-thuan-ra-mat-trong-nhom-nhac-han-4783471.html) - 09:14 20/08/2024
