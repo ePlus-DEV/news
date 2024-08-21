@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Nhóm thiếu niên cầm kiếm chặt hàng chục biển số xe máy](https://vnexpress.net/nhom-thieu-nien-cam-kiem-chat-hang-chuc-bien-so-xe-may-4784165.html) - 10:43 21/08/2024
-- 🥰 [Vướng lao lý vì &#39;xâm phạm quyền riêng tư&#39; của người vợ ngoại tình](https://vnexpress.net/bi-phat-tu-vi-quay-len-bat-qua-tang-vo-ngoai-tinh-4784025.html) - 10:20 21/08/2024
+- 🥰 [Vướng lao lý vì &#39;xâm phạm quyền riêng tư&#39; của vợ ngoại tình](https://vnexpress.net/bi-phat-tu-vi-quay-len-bat-qua-tang-vo-ngoai-tinh-4784025.html) - 10:20 21/08/2024
 - 🎓 [Bị buộc trả nhà được tặng vì bất hiếu](https://vnexpress.net/bi-buoc-tra-nha-duoc-tang-vi-bat-hieu-4784037.html) - 09:51 21/08/2024
 - 🤓 [Cựu giám đốc CDC Hậu Giang được miễn hình phạt](https://vnexpress.net/cuu-giam-doc-cdc-hau-giang-duoc-mien-hinh-phat-4784061.html) - 09:41 21/08/2024
 - 🎊 [Tội lỗi của người chồng trong cơn ghen vô cớ](https://vnexpress.net/toi-loi-cua-nguoi-chong-trong-con-ghen-vo-co-4784009.html) - 06:55 21/08/2024
