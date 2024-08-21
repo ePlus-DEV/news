@@ -5,7 +5,7 @@ sidebar_position: 28
 
 <!-- dantri-photo-story:START -->
 - 💪 [TPHCM lần đầu tái hiện những địa danh nổi tiếng của Hà Nội](https://dantri.com.vn/xa-hoi/tphcm-lan-dau-tai-hien-nhung-dia-danh-noi-tieng-cua-ha-noi-20240821120144405.htm) - 06:46 21/08/2024
-- 🧰 [Hình ảnh &quot;cô đồng bổ cau&quot; Trương Thị Hương tại tòa](https://dantri.com.vn/phap-luat/hinh-anh-co-dong-bo-cau-truong-thi-huong-tai-toa-20240821122407190.htm) - 05:43 21/08/2024
+- 🧰 [Hình ảnh &quot;Cô đồng bổ cau&quot; Trương Thị Hương tại tòa](https://dantri.com.vn/phap-luat/hinh-anh-co-dong-bo-cau-truong-thi-huong-tai-toa-20240821122407190.htm) - 05:43 21/08/2024
 - 🧰 [Con đường đẹp bậc nhất TP Dĩ An đang chờ 50m để kết nối TPHCM](https://dantri.com.vn/xa-hoi/con-duong-dep-bac-nhat-tp-di-an-dang-cho-50m-de-ket-noi-tphcm-20240821005448709.htm) - 00:27 21/08/2024
 - 😎 [Điều đặc biệt của làng &quot;cô đơn&quot; 400 năm tuổi ở đầm Nha Phu](https://dantri.com.vn/lao-dong-viec-lam/dieu-dac-biet-cua-lang-co-don-400-nam-tuoi-o-dam-nha-phu-20240820114902486.htm) - 00:04 21/08/2024
 - 🎓 [Ngắm vẻ đẹp vượt thời gian của Vương cung Thánh đường Sở Kiện](https://dantri.com.vn/du-lich/ngam-ve-dep-vuot-thoi-gian-cua-vuong-cung-thanh-duong-so-kien-20240815162736296.htm) - 23:00 20/08/2024
