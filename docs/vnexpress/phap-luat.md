@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Cựu giám đốc Sở Y tế Bà Rịa - Vũng Tàu bị cáo buộc gây thiệt hại 18 tỷ đồng](https://vnexpress.net/cuu-giam-doc-so-y-te-ba-ria-vung-tau-4783729.html) - 17:00 20/08/2024
 - 🥰 [Đòn trả thù của người mẫu Playboy với &#39;sugar daddy&#39; 71 tuổi](https://vnexpress.net/don-tra-thu-cua-nguoi-mau-playboy-voi-sugar-daddy-4783717.html) - 17:00 20/08/2024
-- 🎓 [Thẩm phán ép nữ sinh mặc áo tù vì ngủ gật khi thăm quan tòa án](https://vnexpress.net/tham-phan-ep-nu-sinh-mac-ao-tu-vi-ngu-gat-khi-tham-quan-toa-an-4783746.html) - 15:53 20/08/2024
+- 🎓 [Thẩm phán ép nữ sinh mặc áo tù vì ngủ gật khi tham quan tòa án](https://vnexpress.net/tham-phan-ep-nu-sinh-mac-ao-tu-vi-ngu-gat-khi-tham-quan-toa-an-4783746.html) - 15:53 20/08/2024
 - 🤓 [18 người bị phạt tù vì &#39;rút ruột&#39; hơn 10 tỷ đồng quỹ phụ nữ](https://vnexpress.net/18-nguoi-bi-phat-tu-vi-rut-ruot-hon-10-ty-dong-quy-phu-nu-4783763.html) - 15:45 20/08/2024
 - 🎊 [Lừa giải bùa ngải qua mạng](https://vnexpress.net/lua-giai-bua-ngai-qua-mang-4783738.html) - 15:37 20/08/2024
 - 🙉 [Cựu đội trưởng điều tra vi phạm nồng độ cồn, gây tai nạn chết người](https://vnexpress.net/cuu-trung-ta-vi-pham-nong-do-con-gay-tai-nan-chet-nguoi-4783747.html) - 15:28 20/08/2024
