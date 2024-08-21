@@ -4,9 +4,9 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Lần đầu mỗi thỏi vàng giá hơn 1 triệu USD](https://vnexpress.net/lan-dau-moi-thoi-vang-gia-hon-1-trieu-usd-4783681.html) - 23:00 20/08/2024
-- 🐲 [Doanh nghiệp liên quan vụ Vạn Thịnh Phát lỗ hơn trăm tỷ](https://vnexpress.net/doanh-nghiep-lien-quan-vu-van-thinh-phat-lo-hon-tram-ty-4783685.html) - 21:00 20/08/2024
-- 🔥 [Trump muốn cắt ưu đãi với xe điện](https://vnexpress.net/trump-muon-cat-uu-dai-voi-xe-dien-4783736.html) - 17:00 20/08/2024
+- ⛽️ [Giá vàng thế giới lập đỉnh mới](https://vnexpress.net/gia-vang-the-gioi-lap-dinh-moi-4783788.html) - 00:24 21/08/2024
+- 🐲 [Lần đầu mỗi thỏi vàng giá hơn 1 triệu USD](https://vnexpress.net/lan-dau-moi-thoi-vang-gia-hon-1-trieu-usd-4783681.html) - 23:00 20/08/2024
+- 🔥 [Doanh nghiệp liên quan vụ Vạn Thịnh Phát lỗ hơn trăm tỷ](https://vnexpress.net/doanh-nghiep-lien-quan-vu-van-thinh-phat-lo-hon-tram-ty-4783685.html) - 21:00 20/08/2024
 - 🐵 [Xuất khẩu sang Nga tăng gần gấp rưỡi trong 7 tháng](https://vnexpress.net/xuat-khau-sang-nga-tang-gan-gap-ruoi-trong-7-thang-4783712.html) - 13:06 20/08/2024
 - 🦅 [Bà Harris muốn tăng thuế với doanh nghiệp Mỹ](https://vnexpress.net/ba-harris-muon-tang-thue-voi-doanh-nghiep-my-4783615.html) - 12:00 20/08/2024
 - 😺 [Ấn Độ điều tra chống bán phá giá thép cuộn cán nóng Việt Nam](https://vnexpress.net/an-do-dieu-tra-chong-ban-pha-gia-thep-cuon-can-nong-viet-nam-4783704.html) - 11:57 20/08/2024
