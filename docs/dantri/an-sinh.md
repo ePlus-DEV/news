@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- dantri-an-sinh:START -->
-- 👺 [Lan truyền clip chồng đánh vợ dã man vì... ăn hết cá](https://dantri.com.vn/an-sinh/lan-truyen-clip-chong-danh-vo-da-man-vi-an-het-ca-20240821150928688.htm) - 08:30 21/08/2024
+- 👺 [Lan truyền clip vợ bị chồng đánh dã man vì... ăn hết cá](https://dantri.com.vn/an-sinh/lan-truyen-clip-vo-bi-chong-danh-da-man-vi-an-het-ca-20240821150928688.htm) - 08:30 21/08/2024
 - 👀 [Người phụ nữ Việt 12 năm đỡ đầu sinh viên nước ngoài](https://dantri.com.vn/an-sinh/nguoi-phu-nu-viet-12-nam-do-dau-sinh-vien-nuoc-ngoai-20240821110912380.htm) - 07:35 21/08/2024
 - 💡 [Nhiều trẻ em ở nhà vẫn bị kẻ đồi bại xâm hại](https://dantri.com.vn/an-sinh/nhieu-tre-em-o-nha-van-bi-ke-doi-bai-xam-hai-20240821122604351.htm) - 05:56 21/08/2024
 - 💄 [Kéo dài thời gian giữ chức vụ Thứ trưởng Bộ LĐ-TB&amp;XH đến đủ tuổi nghỉ hưu](https://dantri.com.vn/an-sinh/keo-dai-thoi-gian-giu-chuc-vu-thu-truong-bo-ld-tbxh-den-du-tuoi-nghi-huu-20240821104053025.htm) - 04:46 21/08/2024
