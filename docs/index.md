@@ -342,7 +342,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤡 [Phát động cuộc thi MC - Én Sinh viên năm 2024](https://www.sggp.org.vn/phat-dong-cuoc-thi-mc-en-sinh-vien-nam-2024-post755000.html) - 01:22 21/08/2024
 - 🦅 [Đọc sách cùng tôi lần 4 tại Đường sách TPHCM](https://www.sggp.org.vn/doc-sach-cung-toi-lan-4-tai-duong-sach-tphcm-post755003.html) - 01:22 21/08/2024
 - 🧑‍🏫 [Đoàn đại biểu TPHCM thăm, làm việc tại Colombia](https://www.sggp.org.vn/doan-dai-bieu-tphcm-tham-lam-viec-tai-colombia-post754987.html) - 01:21 21/08/2024
-- 🕴 [Sài Gòn Giải Phóng ngày 20/8/2024](https://www.sggp.org.vn/sai-gon-giai-phong-ngay-2082024-post755004.html) - 01:21 21/08/2024
+- 🕴 [Sài Gòn Giải Phóng ngày 21/8/2024](https://www.sggp.org.vn/sai-gon-giai-phong-ngay-2182024-post755004.html) - 01:21 21/08/2024
 - 🦆 [Tổng thống Nga Vladimir Putin thăm Tresnia](https://www.sggp.org.vn/tong-thong-nga-vladimir-putin-tham-tresnia-post754995.html) - 01:06 21/08/2024
 - 🎃 [Đoàn đại biểu TPHCM dâng hoa tượng đài Chủ tịch Hồ Chí Minh tại TP Zalaegerszeg, Hungary](https://www.sggp.org.vn/doan-dai-bieu-tphcm-dang-hoa-tuong-dai-chu-tich-ho-chi-minh-tai-tp-zalaegerszeg-hungary-post754992.html) - 01:02 21/08/2024
 - 🌮 [Phil Foden hoàn tất trọn bộ giải thưởng cá nhân](https://www.sggp.org.vn/phil-foden-hoan-tat-tron-bo-giai-thuong-ca-nhan-post754998.html) - 00:33 21/08/2024
