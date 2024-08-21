@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Phụ huynh đợi ở trường Tây Mỗ 3 đến tối](https://vnexpress.net/phu-huynh-doi-o-truong-tay-mo-3-den-toi-4784190.html) - 13:40 21/08/2024
+- 🤓 [Phụ huynh đợi xin học ở trường Tây Mỗ 3 đến tối](https://vnexpress.net/phu-huynh-doi-xin-hoc-o-truong-tay-mo-3-den-toi-4784190.html) - 13:40 21/08/2024
 - 🦆 [Thái miếu nhà Hậu Lê ở tỉnh nào?](https://vnexpress.net/thai-mieu-nha-hau-le-o-tinh-nao-4784092.html) - 12:26 21/08/2024
 - 🦩 [Vinschool khai trương cụm trường tại Hưng Yên và Kiên Giang](https://vnexpress.net/vinschool-khai-truong-cum-truong-tai-hung-yen-va-kien-giang-4784123.html) - 10:00 21/08/2024
 - 🌮 [Học sinh Hà Nội tựu trường sớm nhất ngày 29/8](https://vnexpress.net/hoc-sinh-ha-noi-tuu-truong-som-nhat-ngay-29-8-4783623.html) - 07:46 21/08/2024
