@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Có tiếng Anh, nên học ngành gì về Kinh tế?](https://vnexpress.net/co-tieng-anh-nen-hoc-nganh-gi-ve-kinh-te-4779763.html) - 16:59 20/08/2024
-- 🦆 [Hơn 700 học sinh trường Quốc tế Mỹ chưa chuyển trường](https://vnexpress.net/hon-700-hoc-sinh-truong-quoc-te-my-chua-chuyen-truong-4783754.html) - 15:17 20/08/2024
+- 🦆 [Sở Giáo dục TP HCM: Phụ huynh AISVN cần nhanh chóng chuyển trường cho con](https://vnexpress.net/so-giao-duc-tp-hcm-phu-huynh-aisvn-can-nhanh-chong-chuyen-truong-cho-con-4783754.html) - 15:17 20/08/2024
 - 🦩 [Cây cầu nào từng mang tên vua?](https://vnexpress.net/cay-cau-nao-tung-mang-ten-vua-4783708.html) - 13:10 20/08/2024
 - 🌮 [8 trường công an công bố điểm chuẩn](https://vnexpress.net/8-truong-cong-an-cong-bo-diem-chuan-4782530.html) - 10:55 20/08/2024
 - 🔭 [Điểm chuẩn Học viện Cảnh sát nhân dân cao nhất 24,65](https://vnexpress.net/diem-chuan-hoc-vien-canh-sat-nhan-dan-cao-nhat-24-65-4782723.html) - 10:29 20/08/2024
