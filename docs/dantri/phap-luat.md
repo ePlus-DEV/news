@@ -4,7 +4,7 @@ sidebar_position: 8
 ---
 
 <!-- dantri-phap-luat:START -->
-- 🌊 [Công an điều tra việc người &quot;bóc phốt&quot; Bệnh viện K bị đánh gãy xương](https://dantri.com.vn/phap-luat/cong-an-dieu-tra-viec-nguoi-boc-phot-benh-vien-k-bi-danh-gay-xuong-20240821143244153.htm) - 07:44 21/08/2024
+- 🌊 [Công an điều tra việc người &quot;bóc phốt&quot; Bệnh viện K tố bị đánh gãy xương](https://dantri.com.vn/phap-luat/cong-an-dieu-tra-viec-nguoi-boc-phot-benh-vien-k-to-bi-danh-gay-xuong-20240821143244153.htm) - 07:44 21/08/2024
 - 🐲 [Gã đàn ông ngụy trang thành xe ôm Grab để cướp giật ở phố cổ Hà Nội](https://dantri.com.vn/phap-luat/ga-dan-ong-nguy-trang-thanh-xe-om-grab-de-cuop-giat-o-pho-co-ha-noi-20240821141827751.htm) - 07:27 21/08/2024
 - 🌁 [Vì sao tòa trả hồ sơ vụ án &quot;cô đồng bổ cau&quot; Trương Thị Hương?](https://dantri.com.vn/phap-luat/vi-sao-toa-tra-ho-so-vu-an-co-dong-bo-cau-truong-thi-huong-20240821132435671.htm) - 06:32 21/08/2024
 - 🎃 [Hình ảnh &quot;Cô đồng bổ cau&quot; Trương Thị Hương tại tòa](https://dantri.com.vn/phap-luat/hinh-anh-co-dong-bo-cau-truong-thi-huong-tai-toa-20240821122407190.htm) - 05:43 21/08/2024
