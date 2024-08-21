@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Tội lỗi của người chồng trong cơn ghen vô cớ](https://vnexpress.net/toi-loi-cua-nguoi-chong-trong-con-ghen-vo-co-4784009.html) - 06:55 21/08/2024
-- 🥰 [Tên trộm lao xe vào CSGT để giải cứu đồng bọn](https://video.vnexpress.net/ten-trom-lao-xe-vao-csgt-de-giai-cuu-dong-bon-4783986.html) - 06:38 21/08/2024
+- 🥰 [Tên trộm lao xe vào CSGT để giải cứu đồng phạm](https://video.vnexpress.net/ten-trom-lao-xe-vao-csgt-de-giai-cuu-dong-pham-4783986.html) - 06:38 21/08/2024
 - 🎓 [Cô đồng bói cau khai &#39;không nhớ&#39; đã nhận tiền giải hạn](https://vnexpress.net/co-dong-boi-cau-khai-khong-nho-da-nhan-tien-giai-han-4783984.html) - 05:46 21/08/2024
 - 🤓 [Cựu giám đốc Sở Y tế Bà Rịa - Vũng Tàu bị cáo buộc gây thiệt hại 18 tỷ đồng](https://vnexpress.net/cuu-giam-doc-so-y-te-ba-ria-vung-tau-4783729.html) - 17:00 20/08/2024
 - 🎊 [Đòn trả thù của người mẫu Playboy với &#39;sugar daddy&#39; 71 tuổi](https://vnexpress.net/don-tra-thu-cua-nguoi-mau-playboy-voi-sugar-daddy-4783717.html) - 17:00 20/08/2024
