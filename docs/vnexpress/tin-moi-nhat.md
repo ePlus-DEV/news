@@ -54,5 +54,4 @@ sidebar_position: 9
 - 🐎 [Nga có thể dùng drone gắn cáp quang tập kích lính Ukraine](https://vnexpress.net/nga-co-the-dung-drone-gan-cap-quang-tap-kich-linh-ukraine-4784512.html) - 09:28 22/08/2024
 - 🏊 [Quốc hội sửa Luật Bảo hiểm y tế vào tháng 10](https://vnexpress.net/quoc-hoi-sua-luat-bao-hiem-y-te-vao-thang-10-4784474.html) - 09:18 22/08/2024
 - 🦩 [Chênh lệch giàu, nghèo trong bóng đá Arab Saudi](https://vnexpress.net/chenh-lech-giau-ngheo-trong-bong-da-arab-saudi-4784465.html) - 09:14 22/08/2024
-- 👍 [Đông Nhi: &#39;Nhờ chồng, tôi bớt áp lực khi sinh con&#39;](https://vnexpress.net/dong-nhi-nho-chong-toi-bot-ap-luc-khi-sinh-con-4784310.html) - 09:11 22/08/2024
-- 🔥 [Sản phẩm công nghệ số Việt xuất sắc sẽ được vinh danh](https://vnexpress.net/san-pham-cong-nghe-so-viet-xuat-sac-se-duoc-vinh-danh-4784464.html) - 09:00 22/08/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 👍 [Đông Nhi: &#39;Nhờ chồng, tôi bớt áp lực khi sinh con&#39;](https://vnexpress.net/dong-nhi-nho-chong-toi-bot-ap-luc-khi-sinh-con-4784310.html) - 09:11 22/08/2024<!-- vnexpress-tin-moi-nhat:END -->
