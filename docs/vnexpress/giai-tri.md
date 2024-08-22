@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Taylor Swift lần đầu nói về vụ hủy show ở Vienna](https://vnexpress.net/taylor-swift-lan-dau-noi-ve-vu-huy-show-o-vienna-4784261.html) - 02:28 22/08/2024
 - 💫 [10 kiểu phối váy đám mây &#39;ăn gian tuổi&#39;](https://vnexpress.net/10-kieu-phoi-vay-dam-may-an-gian-tuoi-4784134.html) - 23:00 21/08/2024
-- 🌮 [Trần Hiểu Húc sinh ra để đóng Lâm Đại Ngọc](https://vnexpress.net/tran-hieu-huc-sinh-ra-de-dong-lam-dai-ngoc-4784046.html) - 22:00 21/08/2024
+- 🌮 [Trần Hiểu Húc &#39;sinh ra để đóng Lâm Đại Ngọc&#39;](https://vnexpress.net/tran-hieu-huc-sinh-ra-de-dong-lam-dai-ngoc-4784046.html) - 22:00 21/08/2024
 - 🧠 [Diễn viên Ngọc Quỳnh: &#39;Tôi có lỗi với con khi hôn nhân đổ vỡ&#39;](https://vnexpress.net/dien-vien-ngoc-quynh-toi-co-loi-voi-con-khi-hon-nhan-do-vo-4784207.html) - 17:00 21/08/2024
 - 👨‍🏫 [Victor Vũ: &#39;Phim Việt cần các đạo diễn như Trấn Thành, Lý Hải&#39;](https://vnexpress.net/victor-vu-phim-viet-can-cac-dao-dien-nhu-tran-thanh-ly-hai-4784194.html) - 14:44 21/08/2024
 - ⚗️ [Ca sĩ ảo Ann tái xuất với MV rock](https://vnexpress.net/ca-si-ao-ann-tai-xuat-voi-mv-rock-4783870.html) - 12:01 21/08/2024
