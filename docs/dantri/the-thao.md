@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [CLB Công An Hà Nội 1-1 Buriram &lpar;hiệp 2&rpar;: Bàn gỡ bất ngờ](https://dantri.com.vn/the-thao/clb-cong-an-ha-noi-1-1-buriram-hiep-2-ban-go-bat-ngo-20240822192157479.htm) - 12:22 22/08/2024
-- 💯 [Truyền thông Nga: &quot;Đội nhà may mắn khi được gặp tuyển Việt Nam&quot;](https://dantri.com.vn/the-thao/truyen-thong-nga-doi-nha-may-man-khi-duoc-gap-tuyen-viet-nam-20240822164349317.htm) - 09:43 22/08/2024
+- 🎡 [Văn Đức, Alan lập công, CLB Công An Hà Nội hạ gục Buriram](https://dantri.com.vn/the-thao/van-duc-alan-lap-cong-clb-cong-an-ha-noi-ha-guc-buriram-20240822192157479.htm) - 12:22 22/08/2024
+- 💯 [Truyền thông Nga: &quot;Đội nhà may mắn khi được gặp tuyển Việt Nam&quot;](https://dantri.com.vn/the-thao/truyen-thong-nga-doi-nha-may-man-khi-duoc-gap-tuyen-viet-nam-20240822164349317.htm) - 12:01 22/08/2024
 - ⛽️ [Báo Trung Quốc chỉ ra &quot;vũ khí lợi hại&quot; của U16 Việt Nam khi thắng Nhật Bản](https://dantri.com.vn/the-thao/bao-trung-quoc-chi-ra-vu-khi-loi-hai-cua-u16-viet-nam-khi-thang-nhat-ban-20240822124348450.htm) - 09:42 22/08/2024
 - 💃 [Các tay golf hàng đầu sẵn sàng cho giải BMW Championship](https://dantri.com.vn/the-thao/cac-tay-golf-hang-dau-san-sang-cho-giai-bmw-championship-20240822135302781.htm) - 09:40 22/08/2024
 - 🌈 [Ba nhà vô địch bóng bàn Trung Quốc ở Olympic bất ngờ bỏ giải thế giới](https://dantri.com.vn/the-thao/ba-nha-vo-dich-bong-ban-trung-quoc-o-olympic-bat-ngo-bo-giai-the-gioi-20240822115037043.htm) - 05:42 22/08/2024
