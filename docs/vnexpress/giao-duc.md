@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [10 trường có điểm thi đánh giá năng lực HSA cao nhất năm 2024](https://vnexpress.net/10-truong-co-diem-thi-danh-gia-nang-luc-hsa-cao-nhat-nam-2024-4784351.html) - 04:03 22/08/2024
+- 🤓 [10 trường THPT có điểm thi đánh giá năng lực cao nhất năm 2024](https://vnexpress.net/10-truong-thpt-co-diem-thi-danh-gia-nang-luc-cao-nhat-nam-2024-4784351.html) - 04:03 22/08/2024
 - 🦆 [Lịch nhập học của 50 trường đại học](https://vnexpress.net/lich-nhap-hoc-cua-50-truong-dai-hoc-4783689.html) - 23:58 21/08/2024
 - 🦩 [Học ngành Dược xong ra trường làm gì?](https://vnexpress.net/hoc-nganh-duoc-xong-ra-truong-lam-gi-4781951.html) - 16:59 21/08/2024
 - 🌮 [Phụ huynh đợi xin học ở trường Tây Mỗ 3 đến tối](https://vnexpress.net/phu-huynh-doi-xin-hoc-o-truong-tay-mo-3-den-toi-4784190.html) - 13:40 21/08/2024
