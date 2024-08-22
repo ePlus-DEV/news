@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [CLB Công An Hà Nội 1-0 Buriram &lpar;hiệp 1&rpar;: Phan Văn Đức mở tỷ số](https://dantri.com.vn/the-thao/clb-cong-an-ha-noi-1-0-buriram-hiep-1-phan-van-duc-mo-ty-so-20240822192157479.htm) - 12:22 22/08/2024
+- 🎡 [CLB Công An Hà Nội 1-0 Buriram &lpar;hết hiệp 1&rpar;: Phan Văn Đức mở tỷ số](https://dantri.com.vn/the-thao/clb-cong-an-ha-noi-1-0-buriram-het-hiep-1-phan-van-duc-mo-ty-so-20240822192157479.htm) - 12:22 22/08/2024
 - 💯 [Truyền thông Nga: &quot;Đội nhà may mắn khi được gặp tuyển Việt Nam&quot;](https://dantri.com.vn/the-thao/truyen-thong-nga-doi-nha-may-man-khi-duoc-gap-tuyen-viet-nam-20240822164349317.htm) - 09:43 22/08/2024
 - ⛽️ [Báo Trung Quốc chỉ ra &quot;vũ khí lợi hại&quot; của U16 Việt Nam khi thắng Nhật Bản](https://dantri.com.vn/the-thao/bao-trung-quoc-chi-ra-vu-khi-loi-hai-cua-u16-viet-nam-khi-thang-nhat-ban-20240822124348450.htm) - 09:42 22/08/2024
 - 💃 [Các tay golf hàng đầu sẵn sàng cho giải BMW Championship](https://dantri.com.vn/the-thao/cac-tay-golf-hang-dau-san-sang-cho-giai-bmw-championship-20240822135302781.htm) - 09:40 22/08/2024
