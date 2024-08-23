@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Hàng trăm phụ huynh quây Trường Tây Mỗ 3: Sắp công bố phương án tuyển sinh](https://dantri.com.vn/giao-duc/hang-tram-phu-huynh-quay-truong-tay-mo-3-sap-cong-bo-phuong-an-tuyen-sinh-20240823130025301.htm) - 07:06 23/08/2024
+- 🤡 [Vụ trăm phụ huynh quây Trường Tây Mỗ 3: Sớm nhất 27/8 có kết quả tiếp nhận](https://dantri.com.vn/giao-duc/vu-tram-phu-huynh-quay-truong-tay-mo-3-som-nhat-278-co-ket-qua-tiep-nhan-20240823130025301.htm) - 07:06 23/08/2024
 - 🗽 [Dự kiến cho phép giáo viên dạy thêm bên ngoài với học sinh của lớp mình](https://dantri.com.vn/giao-duc/du-kien-cho-phep-giao-vien-day-them-ben-ngoai-voi-hoc-sinh-cua-lop-minh-20240823114242082.htm) - 04:49 23/08/2024
 - 🚦 [Ngành &quot;bị cô em họ xa lánh&quot; điểm chuẩn thấp, thu nhập khó tin](https://dantri.com.vn/giao-duc/nganh-bi-co-em-ho-xa-lanh-diem-chuan-thap-thu-nhap-kho-tin-20240822161008232.htm) - 01:08 23/08/2024
 - 🌋 [&quot;Chữa cháy&quot; thiếu giáo viên bằng việc tăng giờ dạy, thỉnh giảng](https://dantri.com.vn/giao-duc/chua-chay-thieu-giao-vien-bang-viec-tang-gio-day-thinh-giang-20240822145954332.htm) - 00:46 23/08/2024
