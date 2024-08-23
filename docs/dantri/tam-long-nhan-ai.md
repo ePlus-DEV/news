@@ -5,7 +5,7 @@ sidebar_position: 20
 
 <!-- dantri-tam-long-nhan-ai:START -->
 - 🌝 [Bạn đọc giúp đỡ hơn 279 triệu đồng để cậu bé tiếp tục cơ hội được sống](https://dantri.com.vn/tam-long-nhan-ai/ban-doc-giup-do-hon-279-trieu-dong-de-cau-be-tiep-tuc-co-hoi-duoc-song-20240821175303279.htm) - 01:36 23/08/2024
-- 🌜 [Khánh thành điểm trường Dân trí nơi &quot;nhiều không&quot; ở xứ Nghệ](https://dantri.com.vn/tam-long-nhan-ai/khanh-thanh-diem-truong-dan-tri-noi-nhieu-khong-o-xu-nghe-20240823030138994.htm) - 01:31 23/08/2024
+- 🌜 [Khánh thành 2 phòng học Dân trí ở điểm trường được mệnh danh &quot;nhiều không&quot;](https://dantri.com.vn/tam-long-nhan-ai/khanh-thanh-2-phong-hoc-dan-tri-o-diem-truong-duoc-menh-danh-nhieu-khong-20240823030138994.htm) - 01:31 23/08/2024
 - 👀 [Gần 190 triệu đồng đến với người vợ ung thư chăm chồng tai biến](https://dantri.com.vn/tam-long-nhan-ai/gan-190-trieu-dong-den-voi-nguoi-vo-ung-thu-cham-chong-tai-bien-20240822214444948.htm) - 23:31 22/08/2024
 - 🚀 [Thương bé trai bị bỏ rơi, 8 tuổi chưa được đến trường](https://dantri.com.vn/tam-long-nhan-ai/thuong-be-trai-bi-bo-roi-8-tuoi-chua-duoc-den-truong-20240810180947568.htm) - 22:44 22/08/2024
 - 🦅 [Bạn đọc Dân trí giúp &quot;hồi sinh&quot; đôi chân người thợ trượt vào máy xúc](https://dantri.com.vn/tam-long-nhan-ai/ban-doc-dan-tri-giup-hoi-sinh-doi-chan-nguoi-tho-truot-vao-may-xuc-20240822111339824.htm) - 13:25 22/08/2024
