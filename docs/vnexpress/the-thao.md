@@ -4,8 +4,8 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Kênh YouTube của Ronaldo xô đổ nhiều kỷ lục](https://vnexpress.net/kenh-youtube-cua-ronaldo-xo-do-nhieu-ky-luc-4784912.html) - 09:48 23/08/2024
-- 🦩 [Tranh cãi cú phá khiến cơ thủ Quốc Hoàng bị loại ở US Open](https://vnexpress.net/tranh-cai-cu-pha-khien-co-thu-quoc-hoang-bi-loai-o-us-open-4784995.html) - 09:41 23/08/2024
+- 🪜 [Tranh cãi cú phá khiến cơ thủ Quốc Hoàng bị loại ở US Open](https://vnexpress.net/tranh-cai-cu-pha-khien-co-thu-quoc-hoang-bi-loai-o-us-open-4784995.html) - 09:41 23/08/2024
+- 🦩 [Kênh YouTube của Ronaldo xô đổ nhiều kỷ lục](https://vnexpress.net/kenh-youtube-cua-ronaldo-xo-do-nhieu-ky-luc-4784912.html) - 09:40 23/08/2024
 - 🧰 [Gần 2 tỷ đồng cho nhà vô địch carom 3 băng Hà Nội Open](https://vnexpress.net/gan-2-ty-dong-cho-nha-vo-dich-carom-3-bang-ha-noi-open-4784867.html) - 08:46 23/08/2024
 - 🤗 [Golfer gốc Việt khởi đầu khả quan ở major Women’s Open 2024](https://vnexpress.net/golfer-goc-viet-khoi-dau-kha-quan-o-major-women-s-open-2024-4784963.html) - 08:34 23/08/2024
 - 🥳 [HLV Unai Emery cao tay hơn Mikel Arteta?](https://vnexpress.net/hlv-unai-emery-cao-tay-hon-mikel-arteta-4784850.html) - 07:55 23/08/2024
