@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-giao-duc:START -->
 - 🤡 [Sinh viên FPT Edu dùng AI phát triển mô hình nhận diện cảm xúc](https://dantri.com.vn/giao-duc/sinh-vien-fpt-edu-dung-ai-phat-trien-mo-hinh-nhan-dien-cam-xuc-20240823142351982.htm) - 08:00 23/08/2024
-- 🗽 [Đề xuất nhận 520 em về Tiểu học Tây Mỗ 3, sớm nhất 27/8 có kết quả](https://dantri.com.vn/giao-duc/de-xuat-nhan-520-em-ve-tieu-hoc-tay-mo-3-som-nhat-278-co-ket-qua-20240823130025301.htm) - 07:06 23/08/2024
+- 🗽 [Đề xuất nhận thêm 520 em về Tây Mỗ, sớm nhất 27/8 có kết quả](https://dantri.com.vn/giao-duc/de-xuat-nhan-them-520-em-ve-tay-mo-som-nhat-278-co-ket-qua-20240823130025301.htm) - 07:06 23/08/2024
 - 🚦 [Dự kiến cho phép giáo viên dạy thêm bên ngoài với học sinh của lớp mình](https://dantri.com.vn/giao-duc/du-kien-cho-phep-giao-vien-day-them-ben-ngoai-voi-hoc-sinh-cua-lop-minh-20240823114242082.htm) - 04:49 23/08/2024
 - 🌋 [Ngành &quot;bị cô em họ xa lánh&quot; điểm chuẩn thấp, thu nhập khó tin](https://dantri.com.vn/giao-duc/nganh-bi-co-em-ho-xa-lanh-diem-chuan-thap-thu-nhap-kho-tin-20240822161008232.htm) - 01:08 23/08/2024
 - 🏊 [&quot;Chữa cháy&quot; thiếu giáo viên bằng việc tăng giờ dạy, thỉnh giảng](https://dantri.com.vn/giao-duc/chua-chay-thieu-giao-vien-bang-viec-tang-gio-day-thinh-giang-20240822145954332.htm) - 00:46 23/08/2024
