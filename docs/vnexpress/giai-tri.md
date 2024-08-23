@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Thành viên BTS trình diện cảnh sát](https://vnexpress.net/thanh-vien-bts-trinh-dien-canh-sat-4785063.html) - 15:23 23/08/2024
+- 🌏 [Suga của BTS trình diện cảnh sát](https://vnexpress.net/suga-cua-bts-trinh-dien-canh-sat-4785063.html) - 15:23 23/08/2024
 - 💫 [&#39;Dấu chân chiến tranh&#39; - tổn thương nhìn từ góc độ môi trường](https://vnexpress.net/dau-chan-chien-tranh-ton-thuong-nhin-tu-goc-do-moi-truong-4776044.html) - 12:58 23/08/2024
 - 🌮 [Lưu Diệc Phi phá quan niệm &#39;gầy mới đẹp&#39;](https://vnexpress.net/luu-diec-phi-pha-quan-niem-gay-moi-dep-4784971.html) - 11:00 23/08/2024
 - 🧠 [Phong cách thời trang của Đệ nhất phu nhân Ecuador](https://vnexpress.net/phong-cach-thoi-trang-cua-de-nhat-phu-nhan-ecuador-4784499.html) - 09:12 23/08/2024
