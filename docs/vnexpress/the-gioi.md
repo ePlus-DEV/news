@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Robert F. Kennedy Jr đình chỉ tranh cử, tuyên bố ủng hộ ông Trump](https://vnexpress.net/robert-f-kennedy-jr-dinh-chi-tranh-cu-tuyen-bo-ung-ho-ong-trump-4785098.html) - 22:50 23/08/2024
+- 🎭 [Robert F. Kennedy Jr. đình chỉ tranh cử, tuyên bố ủng hộ ông Trump](https://vnexpress.net/robert-f-kennedy-jr-dinh-chi-tranh-cu-tuyen-bo-ung-ho-ong-trump-4785098.html) - 22:50 23/08/2024
 - 🕴 [Chỉ huy Ukraine nêu lý do thất thế ở mặt trận miền đông](https://vnexpress.net/chi-huy-ukraine-neu-ly-do-that-the-o-mat-tran-mien-dong-4784884.html) - 22:00 23/08/2024
 - 🤭 [Đòn bẩy vũ khí của Mỹ dần kém hiệu quả với Israel](https://vnexpress.net/don-bay-vu-khi-cua-my-dan-kem-hieu-qua-voi-israel-4784677.html) - 18:00 23/08/2024
 - 🧑‍💻 [Trùm tình báo Israel chỉ trích bộ trưởng cực hữu &#39;phá hoại đất nước&#39;](https://vnexpress.net/trum-tinh-bao-israel-chi-trich-bo-truong-cuc-huu-pha-hoai-dat-nuoc-4785058.html) - 15:49 23/08/2024
