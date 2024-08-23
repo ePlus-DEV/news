@@ -13,7 +13,7 @@ sidebar_position: 7
 - 🥰 [&#39;Nghề sáng tạo nội dung không hào nhoáng như mọi người thấy&#39;](https://vnexpress.net/nghe-sang-tao-noi-dung-khong-hao-nhoang-nhu-moi-nguoi-thay-4784730.html) - 03:00 23/08/2024
 - 🐲 [Nên học Ngôn ngữ Anh ở Đại học Hà Nội hay Đại học Ngoại ngữ?](https://vnexpress.net/nen-hoc-ngon-ngu-anh-o-dai-hoc-ha-noi-hay-dai-hoc-ngoai-ngu-4784565.html) - 23:23 22/08/2024
 - 🦒 [Đường trở thành thủ khoa của nam sinh trường Quốc tế](https://vnexpress.net/duong-tro-thanh-thu-khoa-cua-nam-sinh-truong-quoc-te-4784398.html) - 23:19 22/08/2024
-- 🦆 [Phụ huynh có con bị sai điểm thi: &#39;Con tôi suy sụp hoàn toàn&#39;](https://vnexpress.net/phu-huynh-co-con-bi-sai-diem-thi-con-toi-suy-sup-hoan-toan-4784371.html) - 17:00 22/08/2024
+- 🦆 [Phụ huynh có con bị sai điểm thi: &#39;Con tôi bị tổn thương&#39;](https://vnexpress.net/phu-huynh-co-con-bi-sai-diem-thi-con-toi-bi-ton-thuong-4784371.html) - 17:00 22/08/2024
 - 🧰 [Ninh Dương Story chia sẻ về nghề sáng tạo nội dung](https://vnexpress.net/ninh-duong-story-chia-se-ve-nghe-sang-tao-noi-dung-4784569.html) - 14:00 22/08/2024
 - 🐘 [&#39;Tai tiếng&#39; nói thế nào trong tiếng Anh?](https://vnexpress.net/tai-tieng-noi-the-nao-trong-tieng-anh-4784559.html) - 09:42 22/08/2024
 - 🤓 [Lịch dự kiến thi đánh giá năng lực của ĐH Quốc gia Hà Nội 2025](https://vnexpress.net/lich-thi-danh-gia-nang-luc-dai-hoc-quoc-gia-ha-noi-hsa-2025-4784380.html) - 05:40 22/08/2024
