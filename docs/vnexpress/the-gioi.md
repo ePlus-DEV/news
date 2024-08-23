@@ -10,7 +10,7 @@ sidebar_position: 2
 - 🧑‍💻 [Triều Tiên phản đối Mỹ bán trực thăng Apache cho Hàn Quốc](https://vnexpress.net/trieu-tien-phan-doi-my-ban-truc-thang-apache-cho-han-quoc-4784762.html) - 03:15 23/08/2024
 - 🦏 [&#39;Người hùng nhập cư&#39; cứu em bé kẹt trên lan can](https://vnexpress.net/nguoi-hung-nhap-cu-cuu-em-be-ket-tren-lan-can-4784716.html) - 02:59 23/08/2024
 - 🦒 [Ukraine dùng bom lượn Mỹ tập kích căn cứ ở tỉnh Kursk](https://vnexpress.net/ukraine-dung-bom-luon-my-tap-kich-can-cu-o-tinh-kursk-4784697.html) - 02:58 23/08/2024
-- 🌈 [Bà Harris: &#39;Nước Mỹ sẽ không quay lại thời Trump&#39;](https://vnexpress.net/ba-harris-nuoc-my-se-khong-quay-lai-thoi-trump-4784704.html) - 02:37 23/08/2024
+- 🌈 [Bà Harris: &#39;Nước Mỹ sẽ không quay lại thời Trump&#39;](https://vnexpress.net/ba-harris-nuoc-my-se-khong-quay-lai-thoi-trump-4784704-tong-thuat.html) - 02:37 23/08/2024
 - 🧑‍🏫 [Bangladesh hủy hộ chiếu ngoại giao của cựu thủ tướng](https://vnexpress.net/bangladesh-huy-ho-chieu-ngoai-giao-cua-cuu-thu-tuong-4784693.html) - 02:20 23/08/2024
 - 🐲 [Mỹ chuẩn bị gói viện trợ quân sự 125 triệu USD cho Ukraine](https://vnexpress.net/my-chuan-bi-goi-vien-tro-quan-su-125-trieu-usd-cho-ukraine-4784700.html) - 02:01 23/08/2024
 - 🦒 [Rơi máy bay hạng nhẹ ở Thái Lan, 9 người chết](https://vnexpress.net/roi-may-bay-hang-nhe-o-thai-lan-9-nguoi-chet-4784680.html) - 01:05 23/08/2024
