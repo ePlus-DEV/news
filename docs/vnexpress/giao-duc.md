@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nới quy định cho giáo viên dạy thêm](https://vnexpress.net/noi-quy-dinh-cho-giao-vien-day-them-4784923.html) - 12:41 23/08/2024
+- 🤓 [Dự kiến nới quy định cho giáo viên dạy thêm](https://vnexpress.net/du-kien-noi-quy-dinh-cho-giao-vien-day-them-4784923.html) - 12:41 23/08/2024
 - 🦆 [Nữ sinh Việt giành giải Vàng Liên hoan Âm nhạc Quốc tế Hong Kong](https://vnexpress.net/nu-sinh-viet-gianh-giai-vang-lien-hoan-am-nhac-quoc-te-hong-kong-4784927.html) - 08:00 23/08/2024
 - 🦩 [Đề xuất tiếp nhận 520 học sinh về trường Tây Mỗ 3](https://vnexpress.net/de-xuat-tiep-nhan-520-hoc-sinh-ve-truong-tay-mo-3-4784765.html) - 07:36 23/08/2024
 - 🌮 [Bốn sinh viên tốt nghiệp Đại học Kinh tế Quốc dân với điểm tuyệt đối](https://vnexpress.net/bon-sinh-vien-tot-nghiep-dai-hoc-kinh-te-quoc-dan-voi-diem-tuyet-doi-4784740.html) - 04:16 23/08/2024
