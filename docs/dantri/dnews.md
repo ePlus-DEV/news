@@ -5,7 +5,7 @@ sidebar_position: 14
 
 <!-- dantri-dnews:START -->
 - 🤠 [Diễn giả hội thảo quản trị doanh nghiệp theo định hướng ESG, họ là ai?](https://dantri.com.vn/kinh-doanh/dien-gia-hoi-thao-quan-tri-doanh-nghiep-theo-dinh-huong-esg-ho-la-ai-20240823092304975.htm) - 04:24 23/08/2024
-- 🌈 [Khánh thành điểm trường Dân trí nơi &quot;nhiều không&quot; ở xứ Nghệ](https://dantri.com.vn/tam-long-nhan-ai/khanh-thanh-diem-truong-dan-tri-noi-nhieu-khong-o-xu-nghe-20240823030138994.htm) - 01:31 23/08/2024
+- 🌈 [Khánh thành 2 phòng học Dân trí ở điểm trường được mệnh danh &quot;nhiều không&quot;](https://dantri.com.vn/tam-long-nhan-ai/khanh-thanh-2-phong-hoc-dan-tri-o-diem-truong-duoc-menh-danh-nhieu-khong-20240823030138994.htm) - 01:31 23/08/2024
 - 🐎 [Bác sĩ đầu tiên của &quot;tộc người ngủ ngồi&quot;](https://dantri.com.vn/an-sinh/bac-si-dau-tien-cua-toc-nguoi-ngu-ngoi-20240810132148361.htm) - 00:25 23/08/2024
 - 👹 [Hướng dẫn cách kiểm tra các chi tiết trên máy tính, laptop trước khi mua](https://dantri.com.vn/suc-manh-so/huong-dan-cach-kiem-tra-cac-chi-tiet-tren-may-tinh-laptop-truoc-khi-mua-20240823000428694.htm) - 00:19 23/08/2024
 - 🫶 [Danh Thủ Hồng Sơn kể màn tỏ tình 1.000 bông hoa, hẹn hò có mẹ vợ đi cùng](https://dantri.com.vn/doi-song/danh-thu-hong-son-ke-man-to-tinh-1000-bong-hoa-hen-ho-co-me-vo-di-cung-20240822182103870.htm) - 23:06 22/08/2024
