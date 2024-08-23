@@ -6,7 +6,7 @@ sidebar_position: 9
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Trùm tình báo Israel chỉ trích bộ trưởng cực hữu &#39;phá hoại đất nước&#39;](https://vnexpress.net/trum-tinh-bao-israel-chi-trich-bo-truong-cuc-huu-pha-hoai-dat-nuoc-4785058.html) - 15:49 23/08/2024
 - 🐎 [Nguyên Chủ tịch tỉnh Long An bị cảnh cáo](https://vnexpress.net/nguyen-chu-tich-tinh-long-an-bi-canh-cao-4785070.html) - 15:27 23/08/2024
-- 🦍 [Thành viên BTS trình diện cảnh sát](https://vnexpress.net/thanh-vien-bts-trinh-dien-canh-sat-4785063.html) - 15:23 23/08/2024
+- 🦍 [Suga của BTS trình diện cảnh sát](https://vnexpress.net/suga-cua-bts-trinh-dien-canh-sat-4785063.html) - 15:23 23/08/2024
 - 🏊 [Hai công nhân bị vùi lấp dưới công trình cống thoát nước](https://vnexpress.net/hai-cong-nhan-bi-vui-lap-duoi-cong-trinh-cong-thoat-nuoc-4785059.html) - 14:15 23/08/2024
 - 🎊 [Phạm nhân liên quan đến IS sát hại lính gác trong nhà tù Nga](https://vnexpress.net/pham-nhan-lien-quan-den-is-sat-hai-linh-gac-trong-nha-tu-nga-4785051.html) - 14:02 23/08/2024
 - 🎃 [Nữ doanh nhân 47 tuổi tìm tri kỷ](https://vnexpress.net/nu-doanh-nhan-47-tuoi-tim-tri-ky-4784894.html) - 14:00 23/08/2024
