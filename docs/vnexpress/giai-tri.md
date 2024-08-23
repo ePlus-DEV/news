@@ -11,7 +11,7 @@ sidebar_position: 5
 - 👨‍🏫 [Hello Kitty &#39;càn quét&#39; làng mốt](https://vnexpress.net/hello-kitty-can-quet-lang-mot-4784318.html) - 06:00 23/08/2024
 - ⚗️ [Bạn trai Taylor Swift đóng phim](https://vnexpress.net/ban-trai-taylor-swift-dong-phim-4784724.html) - 05:53 23/08/2024
 - 😎 [&#39;Tiểu Long Nữ&#39; Lý Nhược Đồng đóng cô dâu](https://vnexpress.net/tieu-long-nu-ly-nhuoc-dong-dong-co-dau-4784797.html) - 03:56 23/08/2024
-- 🫣 [Người mẫu Hà Kino công khai lưỡng tính](https://vnexpress.net/nguoi-mau-ha-kino-cong-khai-luong-tinh-4784682.html) - 03:10 23/08/2024
+- 🫣 [Người mẫu Hà Kino công khai song tính](https://vnexpress.net/nguoi-mau-ha-kino-cong-khai-song-tinh-4784682.html) - 03:10 23/08/2024
 - 🪄 [Rapper Thái Lan ngồi ghế &#39;nóng&#39; Rap Việt](https://vnexpress.net/rapper-thai-lan-ngoi-ghe-nong-rap-viet-4784320.html) - 02:38 23/08/2024
 - 🤓 [Mỹ nữ tái hiện cảnh Tây Thi giặt lụa](https://vnexpress.net/my-nu-tai-hien-canh-tay-thi-giat-lua-4784458.html) - 00:58 23/08/2024
 - 🫶 [Diễn viên Duy Phương: &#39;Cuộc sống tôi chưa yên ổn&#39;](https://vnexpress.net/dien-vien-duy-phuong-cuoc-song-toi-chua-yen-on-4783123.html) - 17:00 22/08/2024
