@@ -4,11 +4,11 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Vụ karate trẻ TPHCM bị tố gian lận: Giải trình ban đầu của HLV Mộng Tâm](https://dantri.com.vn/the-thao/vu-karate-tre-tphcm-bi-to-gian-lan-giai-trinh-ban-dau-cua-hlv-mong-tam-20240823141226232.htm) - 07:30 23/08/2024
-- 💯 [Phan Văn Đức được triệu tập bổ sung lên đội tuyển Việt Nam thay Văn Toàn](https://dantri.com.vn/the-thao/phan-van-duc-duoc-trieu-tap-bo-sung-len-doi-tuyen-viet-nam-thay-van-toan-20240823141910788.htm) - 07:21 23/08/2024
-- ⛽️ [Đội tuyển Nga tiếp tục bị chỉ trích khi thi đấu với tuyển Việt Nam](https://dantri.com.vn/the-thao/doi-tuyen-nga-tiep-tuc-bi-chi-trich-khi-thi-dau-voi-tuyen-viet-nam-20240823103557566.htm) - 03:36 23/08/2024
-- 💃 [Tân binh Chelsea trở thành trò cười khi bỏ lỡ khó tin trước gôn trống](https://dantri.com.vn/the-thao/tan-binh-chelsea-tro-thanh-tro-cuoi-khi-bo-lo-kho-tin-truoc-gon-trong-20240823102446254.htm) - 03:24 23/08/2024
-- 🌈 [Sinner, Alcaraz và Medvedev chung nhánh đấu tại US Open 2024](https://dantri.com.vn/the-thao/sinner-alcaraz-va-medvedev-chung-nhanh-dau-tai-us-open-2024-20240823140613254.htm) - 03:06 23/08/2024
+- 🎡 [Sinner, Alcaraz và Medvedev chung nhánh đấu tại US Open 2024](https://dantri.com.vn/the-thao/sinner-alcaraz-va-medvedev-chung-nhanh-dau-tai-us-open-2024-20240823140613254.htm) - 07:32 23/08/2024
+- 💯 [Vụ karate trẻ TPHCM bị tố gian lận: Giải trình ban đầu của HLV Mộng Tâm](https://dantri.com.vn/the-thao/vu-karate-tre-tphcm-bi-to-gian-lan-giai-trinh-ban-dau-cua-hlv-mong-tam-20240823141226232.htm) - 07:30 23/08/2024
+- ⛽️ [Phan Văn Đức được triệu tập bổ sung lên đội tuyển Việt Nam thay Văn Toàn](https://dantri.com.vn/the-thao/phan-van-duc-duoc-trieu-tap-bo-sung-len-doi-tuyen-viet-nam-thay-van-toan-20240823141910788.htm) - 07:21 23/08/2024
+- 💃 [Đội tuyển Nga tiếp tục bị chỉ trích khi thi đấu với tuyển Việt Nam](https://dantri.com.vn/the-thao/doi-tuyen-nga-tiep-tuc-bi-chi-trich-khi-thi-dau-voi-tuyen-viet-nam-20240823103557566.htm) - 03:36 23/08/2024
+- 🌈 [Tân binh Chelsea trở thành trò cười khi bỏ lỡ khó tin trước gôn trống](https://dantri.com.vn/the-thao/tan-binh-chelsea-tro-thanh-tro-cuoi-khi-bo-lo-kho-tin-truoc-gon-trong-20240823102446254.htm) - 03:24 23/08/2024
 - 🦅 [Arsenal thành công chiêu mộ nhà vô địch Euro 2024](https://dantri.com.vn/the-thao/arsenal-thanh-cong-chieu-mo-nha-vo-dich-euro-2024-20240823075642127.htm) - 02:46 23/08/2024
 - 🌝 [Thủ thành De Gea ra mắt tệ hại ở đội bóng mới sau hơn một năm thất nghiệp](https://dantri.com.vn/the-thao/thu-thanh-de-gea-ra-mat-te-hai-o-doi-bong-moi-sau-hon-mot-nam-that-nghiep-20240823075745389.htm) - 02:31 23/08/2024
 - 🚀 [HLV Southgate có công việc mới sau một tháng rời đội tuyển Anh](https://dantri.com.vn/the-thao/hlv-southgate-co-cong-viec-moi-sau-mot-thang-roi-doi-tuyen-anh-20240823094713381.htm) - 02:20 23/08/2024
