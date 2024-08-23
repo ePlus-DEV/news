@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Tân binh Chelsea lỡ cơ hội trước khung thành trống](https://vnexpress.net/tan-binh-chelsea-lo-co-hoi-truoc-khung-thanh-trong-4784778.html) - 03:22 23/08/2024
+- 🪜 [Tân binh Chelsea bỏ lỡ khó tin](https://vnexpress.net/tan-binh-chelsea-bo-lo-kho-tin-4784778.html) - 03:22 23/08/2024
 - 🦩 [Courtois tẩy chay HLV, từ bỏ tuyển Bỉ](https://vnexpress.net/courtois-tay-chay-hlv-tu-bo-tuyen-bi-4784708.html) - 01:45 23/08/2024
 - 🧰 [Djokovic khác nhánh Alcaraz, Sinner ở Mỹ Mở rộng](https://vnexpress.net/djokovic-khac-nhanh-alcaraz-sinner-o-my-mo-rong-4784706.html) - 01:18 23/08/2024
 - 🤗 [Ten Hag: &#39;Không cầu thủ nào chắc suất ở Man Utd&#39;](https://vnexpress.net/ten-hag-khong-cau-thu-nao-chac-suat-o-man-utd-4784689.html) - 00:53 23/08/2024
