@@ -6,7 +6,7 @@ sidebar_position: 6
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Những anh chồng được trao &#39;tay hòm chìa khóa&#39;](https://vnexpress.net/nhung-anh-chong-duoc-trao-tay-hom-chia-khoa-4784438.html) - 23:28 22/08/2024
 - 🎓 [Mẹo khử mùi hôi thùng rác cực đơn giản](https://vnexpress.net/meo-khu-mui-hoi-thung-rac-cuc-don-gian-4784486.html) - 12:00 22/08/2024
-- 🚦 [Tôm rảo rang thịt ba chỉ](https://vnexpress.net/tom-rao-rang-thit-ba-chi-4784470.html) - 10:00 22/08/2024
+- 🚦 [Tôm rảo rang thịt ba chỉ](https://vnexpress.net/doi-song-cooking-tom-rao-rang-thit-ba-chi-4784470.html) - 10:00 22/08/2024
 - 🦣 [Người Đức không còn nghiện việc](https://vnexpress.net/nguoi-duc-khong-con-nghien-viec-4784468.html) - 08:31 22/08/2024
 - 🎓 [Đứa trẻ sinh ra sau khi bố mẹ qua đời 4 năm](https://vnexpress.net/dua-tre-sinh-ra-sau-khi-bo-me-qua-doi-4-nam-4778988.html) - 07:42 22/08/2024
 - 🎭 [Những người cả đời dùng đồ đi thuê](https://vnexpress.net/nhung-nguoi-ca-doi-dung-do-di-thue-4784358.html) - 04:54 22/08/2024
