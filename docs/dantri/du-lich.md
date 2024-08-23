@@ -6,7 +6,7 @@ sidebar_position: 22
 <!-- dantri-du-lich:START -->
 - 🥰 [Múa đương đại giữa cánh đồng lúa chín vàng Hội An](https://dantri.com.vn/du-lich/mua-duong-dai-giua-canh-dong-lua-chin-vang-hoi-an-20240823085032930.htm) - 02:34 23/08/2024
 - 🥰 [Đệ Nhất đưa phở lõi bò gầu giòn trứ danh Hà thành đến từng gian bếp](https://dantri.com.vn/du-lich/de-nhat-dua-pho-loi-bo-gau-gion-tru-danh-ha-thanh-den-tung-gian-bep-20240822175456728.htm) - 01:00 23/08/2024
-- 🐻 [Thuê đầu bếp Ấn, đãi cốm đón đoàn của tỷ phú Ấn Độ tận hưởng mùa thu Hà Nội](https://dantri.com.vn/du-lich/thue-dau-bep-an-dai-com-don-doan-cua-ty-phu-an-do-tan-huong-mua-thu-ha-noi-20240822193331010.htm) - 23:02 22/08/2024
+- 🐻 [Đoàn tỷ phú Ấn Độ đến Hà Nội được đãi cốm làng Vòng, có đầu bếp riêng](https://dantri.com.vn/du-lich/doan-ty-phu-an-do-den-ha-noi-duoc-dai-com-lang-vong-co-dau-bep-rieng-20240822193331010.htm) - 23:02 22/08/2024
 - 🤩 [Vinpearl Harbour - &quot;Thủ phủ&quot; mới cho các thương hiệu cà phê, ẩm thực Việt](https://dantri.com.vn/du-lich/vinpearl-harbour-thu-phu-moi-cho-cac-thuong-hieu-ca-phe-am-thuc-viet-20240822165656556.htm) - 10:03 22/08/2024
 - 🕴 [Lý do siêu du thuyền 40 triệu USD chở tỷ phú bị đánh chìm chỉ trong 60 giây](https://dantri.com.vn/du-lich/ly-do-sieu-du-thuyen-40-trieu-usd-cho-ty-phu-bi-danh-chim-chi-trong-60-giay-20240822155818940.htm) - 09:22 22/08/2024
 - 🤩 [Nguy cơ du lịch Đà Nẵng &quot;hụt hơi&quot; nếu không làm mới, nâng tầm sản phẩm](https://dantri.com.vn/du-lich/nguy-co-du-lich-da-nang-hut-hoi-neu-khong-lam-moi-nang-tam-san-pham-20240822145834988.htm) - 09:00 22/08/2024
