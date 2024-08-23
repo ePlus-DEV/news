@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Phạm nhân tấn công lính gác, bắt con tin trong nhà tù Nga](https://vnexpress.net/pham-nhan-tan-cong-linh-gac-bat-con-tin-trong-nha-tu-nga-4785051.html) - 14:02 23/08/2024
+- 🎭 [Phạm nhân liên quan đến IS sát hại lính gác trong nhà tù Nga](https://vnexpress.net/pham-nhan-lien-quan-den-is-sat-hai-linh-gac-trong-nha-tu-nga-4785051.html) - 14:02 23/08/2024
 - 🕴 [Tầm nhìn về nước Mỹ &#39;không quay lại thời Trump&#39; của bà Harris](https://vnexpress.net/tam-nhin-ve-nuoc-my-khong-quay-lai-thoi-trump-cua-ba-harris-4784898.html) - 12:00 23/08/2024
 - 🤭 [Thủ tướng Ấn Độ lần đầu thăm Ukraine](https://vnexpress.net/thu-tuong-an-do-lan-dau-tham-ukraine-4785030.html) - 11:36 23/08/2024
 - 🧑‍💻 [Nga đăng video tập kích nơi ẩn náu của bệ phóng ATACMS Ukraine](https://vnexpress.net/nga-dang-video-tap-kich-noi-an-nau-cua-be-phong-atacms-ukraine-4784990.html) - 10:33 23/08/2024
