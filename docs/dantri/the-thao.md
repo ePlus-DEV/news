@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Brighton 1-0 Man Utd &lpar;hết hiệp 1&rpar;: Welbeck ghi bàn](https://dantri.com.vn/the-thao/brighton-1-0-man-utd-het-hiep-1-welbeck-ghi-ban-20240824183047493.htm) - 11:30 24/08/2024
+- 🎡 [Brighton 1-1 Man Utd &lpar;hiệp 2&rpar;: Amad ghi bàn](https://dantri.com.vn/the-thao/brighton-1-1-man-utd-hiep-2-amad-ghi-ban-20240824183047493.htm) - 11:30 24/08/2024
 - 💯 [Báo Nga so sánh tuyển Việt Nam và Thái Lan, đối thủ nào đáng gờm hơn?](https://dantri.com.vn/the-thao/bao-nga-so-sanh-tuyen-viet-nam-va-thai-lan-doi-thu-nao-dang-gom-hon-20240824181054821.htm) - 11:21 24/08/2024
 - ⛽️ [HLV đội tuyển Nga bị phạt ngay trước ngày sang Việt Nam](https://dantri.com.vn/the-thao/hlv-doi-tuyen-nga-bi-phat-ngay-truoc-ngay-sang-viet-nam-20240824144604085.htm) - 07:46 24/08/2024
 - 💃 [Dự đoán tỷ số, đội hình ra sân trận Brighton vs Man Utd &lpar;18h30 ngày 24/8&rpar;](https://dantri.com.vn/the-thao/du-doan-ty-so-doi-hinh-ra-san-tran-brighton-vs-man-utd-18h30-ngay-248-20240824141207880.htm) - 07:12 24/08/2024
