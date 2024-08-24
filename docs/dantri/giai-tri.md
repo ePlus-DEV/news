@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Tường San xô đổ kỷ lục của Hương Giang, nhận &quot;mưa&quot; lời khen từ fan](https://dantri.com.vn/giai-tri/tuong-san-xo-do-ky-luc-cua-huong-giang-nhan-mua-loi-khen-tu-fan-20240824235314816.htm) - 23:17 24/08/2024
+- 🤩 [Tường San vượt Hương Giang về số lượng giải, nhận &quot;mưa&quot; lời khen từ fan](https://dantri.com.vn/giai-tri/tuong-san-vuot-huong-giang-ve-so-luong-giai-nhan-mua-loi-khen-tu-fan-20240824235314816.htm) - 23:17 24/08/2024
 - 🔥 [Khán giả tiếc nuối, tranh luận khi Hồng Sơn, Hà Lê rời &quot;Anh trai chông gai&quot;](https://dantri.com.vn/giai-tri/khan-gia-tiec-nuoi-tranh-luan-khi-hong-son-ha-le-roi-anh-trai-chong-gai-20240824234240755.htm) - 23:08 24/08/2024
 - 🚀 [Người đẹp Peru đăng quang; Tường San là Á hậu 2 và giành 4 giải phụ](https://dantri.com.vn/giai-tri/nguoi-dep-peru-dang-quang-tuong-san-la-a-hau-2-va-gianh-4-giai-phu-20240824214730546.htm) - 15:54 24/08/2024
 - 🔥 [Vẻ xinh đẹp, cá tính của ái nữ nhà Chiều Xuân, Võ Hoài Nam và Trọng Tấn](https://dantri.com.vn/giai-tri/ve-xinh-dep-ca-tinh-cua-ai-nu-nha-chieu-xuan-vo-hoai-nam-va-trong-tan-20240824010245074.htm) - 11:17 24/08/2024
