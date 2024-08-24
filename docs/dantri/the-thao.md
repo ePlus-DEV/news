@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Dự đoán tỷ số, đội hình ra sân trận Man Utd vs Brighton &lpar;18h30 ngày 24/8&rpar;](https://dantri.com.vn/the-thao/du-doan-ty-so-doi-hinh-ra-san-tran-man-utd-vs-brighton-18h30-ngay-248-20240824141207880.htm) - 07:12 24/08/2024
+- 🎡 [Dự đoán tỷ số, đội hình ra sân trận Brighton vs Man Utd &lpar;18h30 ngày 24/8&rpar;](https://dantri.com.vn/the-thao/du-doan-ty-so-doi-hinh-ra-san-tran-brighton-vs-man-utd-18h30-ngay-248-20240824141207880.htm) - 07:12 24/08/2024
 - 💯 [Bảo hiểm Vietinbank - VBI khởi động giải chạy vì tương lai](https://dantri.com.vn/the-thao/bao-hiem-vietinbank-vbi-khoi-dong-giai-chay-vi-tuong-lai-20240824121112516.htm) - 05:19 24/08/2024
 - ⛽️ [Sai phạm của HLV đội trẻ Khánh Hòa: Chuyển hồ sơ sang cơ quan điều tra](https://dantri.com.vn/the-thao/sai-pham-cua-hlv-doi-tre-khanh-hoa-chuyen-ho-so-sang-co-quan-dieu-tra-20240824120753654.htm) - 05:11 24/08/2024
 - 💃 [Jude Bellingham bất ngờ gặp họa, Real Madrid đứng ngồi không yên](https://dantri.com.vn/the-thao/jude-bellingham-bat-ngo-gap-hoa-real-madrid-dung-ngoi-khong-yen-20240824104829500.htm) - 03:49 24/08/2024
