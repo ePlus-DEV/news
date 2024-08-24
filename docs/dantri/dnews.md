@@ -5,7 +5,7 @@ sidebar_position: 14
 
 <!-- dantri-dnews:START -->
 - 🤠 [Mối tình từ năm 17 tuổi của ngôi sao tuyển Anh và bạn gái bị chê kém sắc](https://dantri.com.vn/giai-tri/moi-tinh-tu-nam-17-tuoi-cua-ngoi-sao-tuyen-anh-va-ban-gai-bi-che-kem-sac-20240802102454024.htm) - 08:00 24/08/2024
-- 🌈 [Cụ bà gần 100 tuổi hăng say lên xà, kéo tạ, chạy bộ mỗi ngày](https://dantri.com.vn/an-sinh/cu-ba-gan-100-tuoi-hang-say-len-xa-keo-ta-chay-bo-moi-ngay-20240824125153213.htm) - 07:43 24/08/2024
+- 🌈 [Cụ bà gần 100 tuổi hăng say tập gym, chạy bộ mỗi ngày](https://dantri.com.vn/an-sinh/cu-ba-gan-100-tuoi-hang-say-tap-gym-chay-bo-moi-ngay-20240824125153213.htm) - 07:43 24/08/2024
 - 🐎 [Những đòn đáp trả Nga có thể tung ra sau chiến dịch đột kích của Ukraine](https://dantri.com.vn/the-gioi/nhung-don-dap-tra-nga-co-the-tung-ra-sau-chien-dich-dot-kich-cua-ukraine-20240823080210792.htm) - 00:51 24/08/2024
 - 👹 [Người dân xã miền núi góp 22 tỷ đồng làm đường giao thông nông thôn](https://dantri.com.vn/xa-hoi/nguoi-dan-xa-mien-nui-gop-22-ty-dong-lam-duong-giao-thong-nong-thon-20240823152359330.htm) - 23:52 23/08/2024
 - 🫶 [Loài rắn vô hại nhưng thường &quot;chết oan&quot; vì bị nhầm là cực độc tại Việt Nam](https://dantri.com.vn/khoa-hoc-cong-nghe/loai-ran-vo-hai-nhung-thuong-chet-oan-vi-bi-nham-la-cuc-doc-tai-viet-nam-20240824021104945.htm) - 23:11 23/08/2024
