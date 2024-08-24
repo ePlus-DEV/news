@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [&#39;Mẫu nhí đẹp nhất thế giới&#39; làm ca sĩ](https://vnexpress.net/mau-nhi-dep-nhat-the-gioi-lam-ca-si-4785262.html) - 13:10 24/08/2024
+- 🌏 [Tuổi 16 của &#39;Mẫu nhí đẹp nhất thế giới&#39;](https://vnexpress.net/tuoi-16-cua-mau-nhi-dep-nhat-the-gioi-4785262.html) - 13:10 24/08/2024
 - 💫 [Ngoại hình ca sĩ ảo Ann](https://vnexpress.net/ngoai-hinh-ca-si-ao-ann-4784471.html) - 10:00 24/08/2024
 - 🌮 [&#39;Pachinko 2&#39; nhận mưa lời khen](https://vnexpress.net/pachinko-2-nhan-mua-loi-khen-4785153.html) - 09:34 24/08/2024
 - 🧠 [Phong cách người đẹp song tính ở Miss Universe Vietnam](https://vnexpress.net/phong-cach-nguoi-dep-song-tinh-o-miss-universe-vietnam-4785182.html) - 07:56 24/08/2024
