@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- dantri-an-sinh:START -->
 - 👺 [150 cán bộ tranh tài tại hội thao các cơ quan Bộ LĐ-TB&amp;XH phía Nam](https://dantri.com.vn/an-sinh/150-can-bo-tranh-tai-tai-hoi-thao-cac-co-quan-bo-ld-tbxh-phia-nam-20240824122937762.htm) - 08:08 24/08/2024
-- 👀 [Cụ bà gần 100 tuổi hăng say tập gym, chạy bộ mỗi ngày](https://dantri.com.vn/an-sinh/cu-ba-gan-100-tuoi-hang-say-tap-gym-chay-bo-moi-ngay-20240824125153213.htm) - 07:43 24/08/2024
+- 👀 [Cụ bà gần 100 tuổi hăng say lên xà, kéo tạ, chạy bộ mỗi ngày](https://dantri.com.vn/an-sinh/cu-ba-gan-100-tuoi-hang-say-len-xa-keo-ta-chay-bo-moi-ngay-20240824125153213.htm) - 07:43 24/08/2024
 - 💡 [Giá thuê nhà lưu trú công nhân thấp nhất 15.000 đồng/m2 mỗi tháng](https://dantri.com.vn/an-sinh/gia-thue-nha-luu-tru-cong-nhan-thap-nhat-15000-dongm2-moi-thang-20240823202739568.htm) - 04:48 24/08/2024
 - 💄 [Tiểu thư tài phiệt đi làm gia sư, phục vụ nhà hàng để tự nuôi thân](https://dantri.com.vn/an-sinh/tieu-thu-tai-phiet-di-lam-gia-su-phuc-vu-nha-hang-de-tu-nuoi-than-20240823125415251.htm) - 03:21 24/08/2024
 - 🧠 [4 giải pháp phát triển nền kinh tế chăm sóc](https://dantri.com.vn/an-sinh/4-giai-phap-phat-trien-nen-kinh-te-cham-soc-20240824083804090.htm) - 02:23 24/08/2024
