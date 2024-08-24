@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Arsenal vượt khó trên sân Aston Villa](https://vnexpress.net/arsenal-vuot-kho-tren-san-aston-villa-4785356.html) - 18:46 24/08/2024
+- 🪜 [Arsenal trả món nợ với Aston Villa](https://vnexpress.net/arsenal-tra-mon-no-voi-aston-villa-4785356.html) - 18:46 24/08/2024
 - 🦩 [Son Heung-min ghi cú đúp khi Tottenham thắng đậm](https://vnexpress.net/son-heung-min-ghi-cu-dup-khi-tottenham-thang-dam-4785351.html) - 16:33 24/08/2024
 - 🧰 [Haaland lập hat-trick giúp Man City thắng ngược](https://vnexpress.net/haaland-lap-hat-trick-giup-man-city-thang-nguoc-4785344.html) - 15:59 24/08/2024
 - 🤗 [Man Utd thua phút 95 ở Ngoại hạng Anh](https://vnexpress.net/man-utd-thua-phut-95-o-ngoai-hang-anh-4785327.html) - 13:27 24/08/2024
