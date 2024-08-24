@@ -4,7 +4,7 @@ sidebar_position: 17
 ---
 
 <!-- dantri-the-gioi:START -->
-- 🌋 [Ukraine tuyên bố sẽ sớm có thể tấn công bất cứ nơi nào ở Nga](https://dantri.com.vn/the-gioi/ukraine-tuyen-bo-se-som-co-the-tan-cong-bat-cu-noi-nao-o-nga-20240824191819509.htm) - 12:31 24/08/2024
+- 🌋 [Ukraine tuyên bố có thể tấn công bất cứ nơi nào ở Nga](https://dantri.com.vn/the-gioi/ukraine-tuyen-bo-co-the-tan-cong-bat-cu-noi-nao-o-nga-20240824191819509.htm) - 12:31 24/08/2024
 - 🎬 [Mỹ băn khoăn với kế hoạch lập vùng đệm của Ukraine ở Kursk](https://dantri.com.vn/the-gioi/my-ban-khoan-voi-ke-hoach-lap-vung-dem-cua-ukraine-o-kursk-20240824174708001.htm) - 10:49 24/08/2024
 - 🧰 [Ukraine &quot;bồn chồn&quot; chờ phương Tây chuyển 50 tỷ USD từ tài sản Nga đóng băng](https://dantri.com.vn/the-gioi/ukraine-bon-chon-cho-phuong-tay-chuyen-50-ty-usd-tu-tai-san-nga-dong-bang-20240824153946735.htm) - 08:46 24/08/2024
 - 🌋 [Thủ tướng Thái Lan bác tin ông Thaksin &quot;kiểm soát chính phủ&quot;](https://dantri.com.vn/the-gioi/thu-tuong-thai-lan-bac-tin-ong-thaksin-kiem-soat-chinh-phu-20240824142019002.htm) - 07:25 24/08/2024
