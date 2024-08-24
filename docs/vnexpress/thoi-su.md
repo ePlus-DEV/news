@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cầu Long Biên, chùa Một Cột tái hiện ở phố đi bộ TP HCM](https://vnexpress.net/cau-long-bien-chua-mot-cot-tai-hien-o-pho-di-bo-tp-hcm-4785086.html) - 04:16 24/08/2024
+- 🦒 [Cầu Long Biên, Tháp Bút được tái hiện ở phố đi bộ TP HCM](https://vnexpress.net/cau-long-bien-thap-but-duoc-tai-hien-o-pho-di-bo-tp-hcm-4785086.html) - 04:16 24/08/2024
 - 🤓 [Hải Dương qua góc nhìn nhiếp ảnh gia 109 tuổi](https://vnexpress.net/hai-duong-qua-goc-nhin-nhiep-anh-gia-109-tuoi-4785067.html) - 03:25 24/08/2024
 - ⚗️ [Nhiều chặng tàu, xe kín chỗ dịp 2/9](https://vnexpress.net/nhieu-chang-tau-xe-kin-cho-dip-2-9-4783497.html) - 22:00 23/08/2024
 - 🌊 [Nguyên Chủ tịch tỉnh Long An bị cảnh cáo](https://vnexpress.net/nguyen-chu-tich-tinh-long-an-bi-canh-cao-4785070.html) - 15:27 23/08/2024
