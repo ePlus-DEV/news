@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Ngành Ngôn ngữ Trung khác Trung Quốc học như nào?](https://vnexpress.net/nganh-ngon-ngu-trung-khac-trung-quoc-hoc-nhu-nao-4785278.html) - 16:59 24/08/2024
+- 🤓 [Ngành Ngôn ngữ Trung khác gì Trung Quốc học?](https://vnexpress.net/nganh-ngon-ngu-trung-khac-gi-trung-quoc-hoc-4785278.html) - 16:59 24/08/2024
 - 🦆 [Hai phim của học sinh Việt được chọn thi quốc tế](https://vnexpress.net/hai-phim-cua-hoc-sinh-viet-duoc-chon-thi-quoc-te-4785310.html) - 15:56 24/08/2024
 - 🦩 [Di sản văn hóa thế giới đầu tiên của Việt Nam ở tỉnh nào?](https://vnexpress.net/di-san-van-hoa-the-gioi-dau-tien-cua-viet-nam-o-tinh-nao-4785203.html) - 13:00 24/08/2024
 - 🌮 [Từ nữ sinh rụt rè đến thủ khoa điểm cao nhất Đại học Luật TP HCM](https://vnexpress.net/tu-nu-sinh-rut-re-den-thu-khoa-diem-cao-nhat-dai-hoc-luat-tp-hcm-4784223.html) - 11:00 24/08/2024
