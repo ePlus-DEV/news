@@ -9,7 +9,7 @@ sidebar_position: 1
 - ⚗️ [Hai công nhân bị vùi lấp dưới công trình cống thoát nước](https://vnexpress.net/hai-cong-nhan-bi-vui-lap-duoi-cong-trinh-cong-thoat-nuoc-4785059.html) - 14:15 23/08/2024
 - 🌊 [Công bố tình huống khẩn cấp sạt lở bờ biển Hải Tiến](https://vnexpress.net/cong-bo-tinh-huong-khan-cap-sat-lo-bo-bien-hai-tien-4785033.html) - 10:46 23/08/2024
 - 🎓 [Thái Bình cam kết giữ diện tích khu bảo tồn Tiền Hải](https://vnexpress.net/thai-binh-cam-ket-giu-dien-tich-khu-bao-ton-tien-hai-4784803.html) - 10:31 23/08/2024
-- 🔥 [Quốc hội họp bất thường lần 8](https://vnexpress.net/quoc-hoi-hop-bat-thuong-lan-8-4784936.html) - 09:32 23/08/2024
+- 🔥 [Quốc hội họp xem xét công tác nhân sự](https://vnexpress.net/quoc-hoi-hop-xem-xet-cong-tac-nhan-su-4784936.html) - 09:32 23/08/2024
 - 🦏 [Miền Bắc mưa lớn đến ngày 25/8](https://vnexpress.net/mien-bac-mua-lon-den-ngay-25-8-4784946.html) - 09:27 23/08/2024
 - 👺 [Thủ tướng nêu biện pháp tăng cường vai trò của phụ nữ ASEAN](https://vnexpress.net/thu-tuong-neu-bien-phap-tang-cuong-vai-tro-cua-phu-nu-asean-4784944.html) - 09:17 23/08/2024
 - 🧑‍🏫 [Ôtô chở 30 người bốc cháy trên quốc lộ 1](https://vnexpress.net/oto-cho-30-nguoi-boc-chay-tren-quoc-lo-1-4784960.html) - 09:13 23/08/2024
