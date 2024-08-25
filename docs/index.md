@@ -287,7 +287,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎬 [Tăng cường phân cấp, phân quyền, tránh cơ chế &quot;xin - cho&quot;](https://nld.com.vn/tang-cuong-phan-cap-phan-quyen-tranh-co-che-xin-cho-196240824190951761.htm) - 00:21 25/08/2024
 - 👀 [Dạy thêm: Quản hay cấm?](https://nld.com.vn/day-them-quan-hay-cam-196240824191432401.htm) - 00:18 25/08/2024
 - 👍 [Điểm nóng xung đột ngày 25-8: Tiến sâu vào lãnh thổ Nga, Ukraine chưa dừng lại ở Kursk?](https://nld.com.vn/diem-nong-xung-dot-ngay-25-8-tien-sau-vao-lanh-tho-nga-ukraine-chua-dung-lai-o-kursk-196240824212124477.htm) - 00:16 25/08/2024
-- 🦅 [Cảm phục ân đức của một người thầy thuốc](https://nld.com.vn/cam-phuc-an-duc-cua-mot-nguoi-thay-thuoc-196240824183752843.htm) - 00:00 25/08/2024
+- 🦅 [Cuộc thi viết “Người Thầy thuốc trong tôi”: Cảm phục ân đức của một người thầy thuốc](https://nld.com.vn/cam-phuc-an-duc-cua-mot-nguoi-thay-thuoc-196240824183752843.htm) - 00:00 25/08/2024
 - 🦏 [Aston Villa gục ngã sân nhà, Arsenal góp mặt Top 3 Ngoại hạng Anh](https://nld.com.vn/aston-villa-guc-nga-san-nha-arsenal-gop-mat-top-3-ngoai-hang-anh-196240825063227277.htm) - 23:37 24/08/2024
 - 🗽 [Sống chậm với đam mê](https://nld.com.vn/song-cham-voi-dam-me-196240824184538352.htm) - 23:30 24/08/2024
 - 🔭 [Doanh nghiệp nhỏ ngại ứng dụng AI](https://nld.com.vn/doanh-nghiep-nho-ngai-ung-dung-ai-196240824180123895.htm) - 23:15 24/08/2024
