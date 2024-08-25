@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Man Utd ngây thơ đến bao giờ?](https://dantri.com.vn/the-thao/man-utd-ngay-tho-den-bao-gio-20240825163506805.htm) - 09:35 25/08/2024
+- 🎡 [Man Utd ngây thơ đến bao giờ?](https://dantri.com.vn/the-thao/man-utd-ngay-tho-den-bao-gio-20240825163506805.htm) - 11:00 25/08/2024
 - 💯 [Nhà vô địch Olympic Thái Lan mang HCV đến dâng bên mộ mẹ](https://dantri.com.vn/the-thao/nha-vo-dich-olympic-thai-lan-mang-hcv-den-dang-ben-mo-me-20240825134713996.htm) - 09:34 25/08/2024
 - ⛽️ [Tay vợt cầu lông Việt Nam giành huy chương bạc giải trẻ châu Á](https://dantri.com.vn/the-thao/tay-vot-cau-long-viet-nam-gianh-huy-chuong-bac-giai-tre-chau-a-20240825153813001.htm) - 09:33 25/08/2024
 - 💃 [Erling Haaland lập hat-trick thứ 10, HLV Pep Guardiola nói điều bất ngờ](https://dantri.com.vn/the-thao/erling-haaland-lap-hat-trick-thu-10-hlv-pep-guardiola-noi-dieu-bat-ngo-20240825085510636.htm) - 06:16 25/08/2024
