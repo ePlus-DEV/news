@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Elon Musk chỉ trích vụ CEO Telegram bị bắt tại Pháp](https://vnexpress.net/elon-musk-chi-trich-vu-ceo-telegram-bi-bat-tai-phap-4785516.html) - 10:42 25/08/2024
+- 🎭 [Elon Musk chỉ trích vụ Pháp bắt CEO Telegram](https://vnexpress.net/elon-musk-chi-trich-vu-phap-bat-ceo-telegram-4785516.html) - 10:42 25/08/2024
 - 🕴 [Italy điều tra nghi vấn ngộ sát trong vụ chìm du thuyền chở tỷ phú Anh](https://vnexpress.net/italy-dieu-tra-nghi-van-ngo-sat-trong-vu-chim-du-thuyen-cho-ty-phu-anh-4785494.html) - 10:14 25/08/2024
 - 🤭 [Hezbollah phóng hơn 320 rocket vào Israel](https://vnexpress.net/hezbollah-phong-hon-320-rocket-vao-israel-4785444.html) - 05:24 25/08/2024
 - 🧑‍💻 [Israel không kích &#39;phủ đầu&#39; mục tiêu Hezbollah ở Lebanon](https://vnexpress.net/israel-khong-kich-phu-dau-muc-tieu-hezbollah-o-lebanon-4785413.html) - 03:27 25/08/2024
