@@ -4,7 +4,7 @@ sidebar_position: 8
 ---
 
 <!-- dantri-phap-luat:START -->
-- 🌊 [Hàng chục trinh sát vây bắt nghi phạm giết người trốn trong rẫy cà phê](https://dantri.com.vn/phap-luat/hang-chuc-trinh-sat-vay-bat-nghi-pham-giet-nguoi-tron-trong-ray-ca-phe-20240825110540314.htm) - 04:44 25/08/2024
+- 🌊 [Hàng chục trinh sát vây bắt nghi phạm giết người, trốn trong rẫy cà phê](https://dantri.com.vn/phap-luat/hang-chuc-trinh-sat-vay-bat-nghi-pham-giet-nguoi-tron-trong-ray-ca-phe-20240825110540314.htm) - 04:44 25/08/2024
 - 🐲 [Thiếu nữ ở Đắk Lắk giật điện thoại bỏ chạy nhưng bị tóm vì lý do không ngờ](https://dantri.com.vn/phap-luat/thieu-nu-o-dak-lak-giat-dien-thoai-bo-chay-nhung-bi-tom-vi-ly-do-khong-ngo-20240825100900939.htm) - 03:33 25/08/2024
 - 🌁 [Tên trộm đu tầng 2 khách sạn ở TPHCM để trốn cảnh sát](https://dantri.com.vn/phap-luat/ten-trom-du-tang-2-khach-san-o-tphcm-de-tron-canh-sat-20240825092504485.htm) - 03:07 25/08/2024
 - 🎃 [Bắt tạm giam tài xế xe khách tông CSGT ở Hải Dương](https://dantri.com.vn/phap-luat/bat-tam-giam-tai-xe-xe-khach-tong-csgt-o-hai-duong-20240825091336170.htm) - 02:39 25/08/2024
