@@ -4,9 +4,9 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [HLV đội tuyển Nga nói thẳng về đội tuyển Việt Nam](https://dantri.com.vn/the-thao/hlv-doi-tuyen-nga-noi-thang-ve-doi-tuyen-viet-nam-20240825123240596.htm) - 05:48 25/08/2024
-- 💯 [Rashford bị chỉ trích sau trận thua của Man Utd](https://dantri.com.vn/the-thao/rashford-bi-chi-trich-sau-tran-thua-cua-man-utd-20240825094237939.htm) - 04:13 25/08/2024
-- ⛽️ [Erling Haaland lập hat-trick thứ 10, HLV Pep Guardiola nói điều bất ngờ](https://dantri.com.vn/the-thao/erling-haaland-lap-hat-trick-thu-10-hlv-pep-guardiola-noi-dieu-bat-ngo-20240825085510636.htm) - 03:38 25/08/2024
+- 🎡 [Erling Haaland lập hat-trick thứ 10, HLV Pep Guardiola nói điều bất ngờ](https://dantri.com.vn/the-thao/erling-haaland-lap-hat-trick-thu-10-hlv-pep-guardiola-noi-dieu-bat-ngo-20240825085510636.htm) - 06:16 25/08/2024
+- 💯 [HLV đội tuyển Nga nói thẳng về đội tuyển Việt Nam](https://dantri.com.vn/the-thao/hlv-doi-tuyen-nga-noi-thang-ve-doi-tuyen-viet-nam-20240825123240596.htm) - 05:48 25/08/2024
+- ⛽️ [Rashford bị chỉ trích sau trận thua của Man Utd](https://dantri.com.vn/the-thao/rashford-bi-chi-trich-sau-tran-thua-cua-man-utd-20240825094237939.htm) - 04:13 25/08/2024
 - 💃 [HLV Ten Hag thất vọng khi Man Utd gục ngã trước Brighton](https://dantri.com.vn/the-thao/hlv-ten-hag-that-vong-khi-man-utd-guc-nga-truoc-brighton-20240825075720291.htm) - 01:08 25/08/2024
 - 🌈 [Djokovic bị hoài nghi về cơ hội thành công ở US Open 2024](https://dantri.com.vn/the-thao/djokovic-bi-hoai-nghi-ve-co-hoi-thanh-cong-o-us-open-2024-20240825071848030.htm) - 00:20 25/08/2024
 - 🦅 [Yamal và Lewandowski ghi bàn giúp Barcelona đánh bại Bilbao](https://dantri.com.vn/the-thao/yamal-va-lewandowski-ghi-ban-giup-barcelona-danh-bai-bilbao-20240825065902192.htm) - 00:00 25/08/2024
