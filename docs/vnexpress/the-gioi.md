@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Loạt quan chức Nga lên tiếng bênh vực CEO Telegram](https://vnexpress.net/loat-quan-chuc-nga-len-tieng-benh-vuc-ceo-telegram-4785546.html) - 15:29 25/08/2024
+- 🎭 [Nghị sĩ Nga: CEO Telegram là tù nhân chính trị của phương Tây](https://vnexpress.net/nghi-si-nga-ceo-telegram-la-tu-nhan-chinh-tri-cua-phuong-tay-4785546.html) - 15:29 25/08/2024
 - 🕴 [Bà Harris quyên được hơn nửa tỷ USD trong một tháng](https://vnexpress.net/ba-harris-quyen-duoc-hon-nua-ty-usd-trong-mot-thang-4785535.html) - 13:36 25/08/2024
 - 🤭 [Thế khó của ông Trump khi bà Harris trỗi dậy](https://vnexpress.net/the-kho-cua-ong-trump-khi-ba-harris-troi-day-4785128.html) - 12:00 25/08/2024
 - 🧑‍💻 [Ông Medvedev: CEO Telegram sai lầm khi rời Nga](https://vnexpress.net/ong-medvedev-ceo-telegram-sai-lam-khi-roi-nga-4785524.html) - 11:42 25/08/2024
