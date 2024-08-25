@@ -31,7 +31,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥰 [Tường San - cậu bé quê thành á hậu Chuyển giới Quốc tế](https://vnexpress.net/tuong-san-cau-be-que-thanh-a-hau-chuyen-gioi-quoc-te-4785447.html) - 08:43 25/08/2024
 - 🌏 [Rối loạn lo âu do lây bệnh lậu từ bạn gái](https://vnexpress.net/roi-loan-lo-au-do-lay-benh-lau-tu-ban-gai-4785463.html) - 08:27 25/08/2024
 - 🧐 [Chỉ cần anh ưa nhìn, hài hước và vui vẻ](https://vnexpress.net/chi-can-anh-ua-nhin-hai-huoc-va-vui-ve-4785406.html) - 08:00 25/08/2024
-- 💫 [Mẹ bảo tôi bất hiếu khi phản đối bà theo đạo lạ](https://vnexpress.net/me-bao-toi-bat-hieu-khi-phan-doi-ba-theo-dao-la-4785385.html) - 08:00 25/08/2024
+- 💫 [Mẹ bảo tôi bất hiếu khi phản đối bà theo nhóm lạ](https://vnexpress.net/me-bao-toi-bat-hieu-khi-phan-doi-ba-theo-nhom-la-4785385.html) - 08:00 25/08/2024
 - 😺 [Tại sao cá voi xanh không mắc ung thư?](https://vnexpress.net/tai-sao-ca-voi-xanh-khong-mac-ung-thu-4784197.html) - 08:00 25/08/2024
 - 🕯 [Liên danh Đèo Cả khiếu nại gói thầu 6.300 tỷ đồng sân bay Long Thành](https://vnexpress.net/lien-danh-deo-ca-khieu-nai-goi-thau-6-300-ty-dong-san-bay-long-thanh-4785013.html) - 07:55 25/08/2024
 - 💃 [Shearer chê Rashford không biết chạy chỗ](https://vnexpress.net/shearer-che-rashford-khong-biet-chay-cho-4785469.html) - 07:53 25/08/2024
