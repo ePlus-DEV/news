@@ -250,7 +250,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Madueke lập hat-trick, Chelsea vùi dập Wolverhampton](https://nld.com.vn/madueke-lap-hat-trick-chelsea-vui-dap-wolverhampton-196240825223822078.htm) - 15:38 25/08/2024
+- 🐎 [Madueke ghi 3 bàn trong 14 phút, Chelsea vùi dập Wolverhampton](https://nld.com.vn/madueke-lap-hat-trick-chelsea-vui-dap-wolverhampton-196240825223822078.htm) - 15:38 25/08/2024
 - 😺 [Israel điều 100 chiến đấu cơ tấn công Hezbollah ở Lebanon](https://nld.com.vn/israel-dieu-100-chien-dau-co-tan-cong-hezbollah-o-lebanon-196240825201855177.htm) - 14:59 25/08/2024
 - 👍 [3.600 bát bún ốc hết sạch trong &quot;Những ngày Hà Nội tại TP HCM&quot;](https://nld.com.vn/3600-bat-bun-oc-het-sach-trong-nhung-ngay-ha-noi-tai-tp-hcm-196240825211056263.htm) - 14:42 25/08/2024
 - 🥷 [Bộ Tài chính trả lời cử tri 6 tỉnh về việc nâng mức giảm trừ gia cảnh](https://nld.com.vn/bo-tai-chinh-tra-loi-cu-tri-6-tinh-ve-viec-nang-muc-giam-tru-gia-canh-196240825203008948.htm) - 14:27 25/08/2024
