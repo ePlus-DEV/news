@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Doanh nghiệp liên kết làm dịch vụ logistics trọn gói trực tuyến](https://vnexpress.net/doanh-nghiep-lien-ket-lam-dich-vu-logistics-tron-goi-truc-tuyen-4784631.html) - 10:54 25/08/2024
+- ⛽️ [Doanh nghiệp liên kết làm dịch vụ logistics trọn gói](https://vnexpress.net/doanh-nghiep-lien-ket-lam-dich-vu-logistics-tron-goi-4784631.html) - 10:54 25/08/2024
 - 🐲 [Giá vàng tuần tới có thể tiếp tục tăng](https://vnexpress.net/gia-vang-tuan-toi-co-the-tiep-tuc-tang-4785497.html) - 10:24 25/08/2024
 - 🔥 [Telegram kinh doanh thế nào trước khi CEO bị bắt](https://vnexpress.net/telegram-kinh-doanh-the-nao-truoc-khi-ceo-bi-bat-4785450.html) - 06:48 25/08/2024
 - 🐵 [Tập đoàn Na Uy hủy kế hoạch đầu tư điện gió ngoài khơi tại Việt Nam](https://vnexpress.net/tap-doan-na-uy-huy-ke-hoach-dau-tu-dien-gio-ngoai-khoi-tai-viet-nam-4785436.html) - 05:41 25/08/2024
