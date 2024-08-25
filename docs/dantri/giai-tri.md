@@ -4,11 +4,11 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Phương Mỹ Chi tuổi 21: Chăm diện váy ngắn, ngày càng sành điệu](https://dantri.com.vn/giai-tri/phuong-my-chi-tuoi-21-cham-dien-vay-ngan-ngay-cang-sanh-dieu-20240824204230430.htm) - 05:03 25/08/2024
-- 🔥 [Hiệu trưởng trường Xiếc vui mừng vì đã tuyển được học sinh thành phố](https://dantri.com.vn/giai-tri/hieu-truong-truong-xiec-vui-mung-vi-da-tuyen-duoc-hoc-sinh-thanh-pho-20240825095937961.htm) - 03:27 25/08/2024
-- 🚀 [Hoa hậu Việt có nguy cơ bị loại khỏi show hẹn hò &quot;Đảo thiên đường&quot;](https://dantri.com.vn/giai-tri/hoa-hau-viet-co-nguy-co-bi-loai-khoi-show-hen-ho-dao-thien-duong-20240825084540812.htm) - 03:06 25/08/2024
-- 🔥 [Khán giả &quot;nổi da gà&quot; khi nghe nhạc Mozart tại Nhà hát Hồ Gươm](https://dantri.com.vn/giai-tri/khan-gia-noi-da-ga-khi-nghe-nhac-mozart-tai-nha-hat-ho-guom-20240825091728628.htm) - 02:42 25/08/2024
-- 🌈 [Dàn diễn viên phim VTV giờ vàng gây tranh cãi tại sân pickleball là ai?](https://dantri.com.vn/giai-tri/dan-dien-vien-phim-vtv-gio-vang-gay-tranh-cai-tai-san-pickleball-la-ai-20240822000735241.htm) - 02:26 25/08/2024
+- 🤩 [Hoa hậu bị bố mẹ từ mặt vì cảnh &quot;nóng&quot; vượt sóng gió, hiện sống hạnh phúc](https://dantri.com.vn/giai-tri/hoa-hau-bi-bo-me-tu-mat-vi-canh-nong-vuot-song-gio-hien-song-hanh-phuc-20240822111921414.htm) - 08:00 25/08/2024
+- 🔥 [Phương Mỹ Chi tuổi 21: Chăm diện váy ngắn, ngày càng sành điệu](https://dantri.com.vn/giai-tri/phuong-my-chi-tuoi-21-cham-dien-vay-ngan-ngay-cang-sanh-dieu-20240824204230430.htm) - 05:03 25/08/2024
+- 🚀 [Hiệu trưởng trường Xiếc vui mừng vì đã tuyển được học sinh thành phố](https://dantri.com.vn/giai-tri/hieu-truong-truong-xiec-vui-mung-vi-da-tuyen-duoc-hoc-sinh-thanh-pho-20240825095937961.htm) - 03:27 25/08/2024
+- 🔥 [Hoa hậu Việt có nguy cơ bị loại khỏi show hẹn hò &quot;Đảo thiên đường&quot;](https://dantri.com.vn/giai-tri/hoa-hau-viet-co-nguy-co-bi-loai-khoi-show-hen-ho-dao-thien-duong-20240825084540812.htm) - 03:06 25/08/2024
+- 🌈 [Khán giả &quot;nổi da gà&quot; khi nghe nhạc Mozart tại Nhà hát Hồ Gươm](https://dantri.com.vn/giai-tri/khan-gia-noi-da-ga-khi-nghe-nhac-mozart-tai-nha-hat-ho-guom-20240825091728628.htm) - 02:42 25/08/2024
 - 📝 [Tường San vượt Hương Giang về số lượng giải, nhận &quot;mưa&quot; lời khen từ fan](https://dantri.com.vn/giai-tri/tuong-san-vuot-huong-giang-ve-so-luong-giai-nhan-mua-loi-khen-tu-fan-20240824235314816.htm) - 23:17 24/08/2024
 - 💪 [Khán giả tiếc nuối, tranh luận khi Hồng Sơn, Hà Lê rời &quot;Anh trai chông gai&quot;](https://dantri.com.vn/giai-tri/khan-gia-tiec-nuoi-tranh-luan-khi-hong-son-ha-le-roi-anh-trai-chong-gai-20240824234240755.htm) - 23:08 24/08/2024
 - 🤡 [Người đẹp Peru đăng quang; Tường San là Á hậu 2 và giành 4 giải phụ](https://dantri.com.vn/giai-tri/nguoi-dep-peru-dang-quang-tuong-san-la-a-hau-2-va-gianh-4-giai-phu-20240824214730546.htm) - 15:54 24/08/2024
