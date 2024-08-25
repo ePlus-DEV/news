@@ -4,13 +4,13 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Phó tổng giám đốc Vinhomes từ nhiệm](https://dantri.com.vn/kinh-doanh/pho-tong-giam-doc-vinhomes-tu-nhiem-20240825094524586.htm) - 05:18 25/08/2024
-- 👨‍🏫 [Chiến sự Ukraine 25/8: Nga tung chiến thuật độc đáo ở Avdiivka](https://dantri.com.vn/the-gioi/chien-su-ukraine-258-nga-tung-chien-thuat-doc-dao-o-avdiivka-20240825115011450.htm) - 05:17 25/08/2024
-- 🌮 [Thí sinh bất ngờ nhận tin nhắn &quot;tặng 3 triệu khi nhập học&quot;, cảnh báo gấp](https://dantri.com.vn/giao-duc/thi-sinh-bat-ngo-nhan-tin-nhan-tang-3-trieu-khi-nhap-hoc-canh-bao-gap-20240825111447809.htm) - 04:56 25/08/2024
-- 🕯 [Hàng chục trinh sát vây bắt nghi phạm giết người, trốn trong rẫy cà phê](https://dantri.com.vn/phap-luat/hang-chuc-trinh-sat-vay-bat-nghi-pham-giet-nguoi-tron-trong-ray-ca-phe-20240825110540314.htm) - 04:44 25/08/2024
-- 🪜 [Cận cảnh Nga bắn nổ xe tăng, dàn trận đẩy lùi quân Ukraine khỏi biên giới](https://dantri.com.vn/the-gioi/can-canh-nga-ban-no-xe-tang-dan-tran-day-lui-quan-ukraine-khoi-bien-gioi-20240825094446404.htm) - 04:19 25/08/2024
-- 🐘 [Israel phát động tấn công phủ đầu nhằm vào Hezbollah](https://dantri.com.vn/the-gioi/israel-phat-dong-tan-cong-phu-dau-nham-vao-hezbollah-20240825102342090.htm) - 03:50 25/08/2024
-- 🤔 [Erling Haaland lập hat-trick thứ 10, HLV Pep Guardiola nói điều bất ngờ](https://dantri.com.vn/the-thao/erling-haaland-lap-hat-trick-thu-10-hlv-pep-guardiola-noi-dieu-bat-ngo-20240825085510636.htm) - 03:38 25/08/2024
+- 🎭 [Erling Haaland lập hat-trick thứ 10, HLV Pep Guardiola nói điều bất ngờ](https://dantri.com.vn/the-thao/erling-haaland-lap-hat-trick-thu-10-hlv-pep-guardiola-noi-dieu-bat-ngo-20240825085510636.htm) - 06:16 25/08/2024
+- 👨‍🏫 [Phó tổng giám đốc Vinhomes từ nhiệm](https://dantri.com.vn/kinh-doanh/pho-tong-giam-doc-vinhomes-tu-nhiem-20240825094524586.htm) - 05:18 25/08/2024
+- 🌮 [Chiến sự Ukraine 25/8: Nga tung chiến thuật độc đáo ở Avdiivka](https://dantri.com.vn/the-gioi/chien-su-ukraine-258-nga-tung-chien-thuat-doc-dao-o-avdiivka-20240825115011450.htm) - 05:17 25/08/2024
+- 🕯 [Thí sinh bất ngờ nhận tin nhắn &quot;tặng 3 triệu khi nhập học&quot;, cảnh báo gấp](https://dantri.com.vn/giao-duc/thi-sinh-bat-ngo-nhan-tin-nhan-tang-3-trieu-khi-nhap-hoc-canh-bao-gap-20240825111447809.htm) - 04:56 25/08/2024
+- 🪜 [Hàng chục trinh sát vây bắt nghi phạm giết người, trốn trong rẫy cà phê](https://dantri.com.vn/phap-luat/hang-chuc-trinh-sat-vay-bat-nghi-pham-giet-nguoi-tron-trong-ray-ca-phe-20240825110540314.htm) - 04:44 25/08/2024
+- 🐘 [Cận cảnh Nga bắn nổ xe tăng, dàn trận đẩy lùi quân Ukraine khỏi biên giới](https://dantri.com.vn/the-gioi/can-canh-nga-ban-no-xe-tang-dan-tran-day-lui-quan-ukraine-khoi-bien-gioi-20240825094446404.htm) - 04:19 25/08/2024
+- 🤔 [Israel phát động tấn công phủ đầu nhằm vào Hezbollah](https://dantri.com.vn/the-gioi/israel-phat-dong-tan-cong-phu-dau-nham-vao-hezbollah-20240825102342090.htm) - 03:50 25/08/2024
 - 🧠 [Tên trộm đu tầng 2 khách sạn ở TPHCM để trốn cảnh sát](https://dantri.com.vn/phap-luat/ten-trom-du-tang-2-khach-san-o-tphcm-de-tron-canh-sat-20240825092504485.htm) - 03:07 25/08/2024
 - 📝 [Nóng chuyện đấu giá đất: Chuyên gia nghi vấn có mục đích tạo &quot;sốt đất&quot;](https://dantri.com.vn/bat-dong-san/nong-chuyen-dau-gia-dat-chuyen-gia-nghi-van-co-muc-dich-tao-sot-dat-20240824151907148.htm) - 02:06 25/08/2024
 - 🦏 [HLV Ten Hag thất vọng khi Man Utd gục ngã trước Brighton](https://dantri.com.vn/the-thao/hlv-ten-hag-that-vong-khi-man-utd-guc-nga-truoc-brighton-20240825075720291.htm) - 01:08 25/08/2024
