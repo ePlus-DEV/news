@@ -79,8 +79,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💂 [Elon Musk chỉ trích vụ Pháp bắt CEO Telegram](https://vnexpress.net/elon-musk-chi-trich-vu-phap-bat-ceo-telegram-4785516.html) - 10:42 25/08/2024
 - 🚀 [Giá vàng tuần tới có thể tiếp tục tăng](https://vnexpress.net/gia-vang-tuan-toi-co-the-tiep-tuc-tang-4785497.html) - 10:24 25/08/2024
 - 🕴 [VARS: Khó xác định hành vi đầu cơ trong đấu giá đất](https://vnexpress.net/vars-kho-xac-dinh-hanh-vi-dau-co-trong-dau-gia-dat-4785486.html) - 10:15 25/08/2024
-- 🦆 [Italy điều tra nghi vấn ngộ sát trong vụ chìm du thuyền chở tỷ phú Anh](https://vnexpress.net/italy-dieu-tra-nghi-van-ngo-sat-trong-vu-chim-du-thuyen-cho-ty-phu-anh-4785494.html) - 10:14 25/08/2024
-- 💫 [Rối loạn lo âu do lây bệnh lậu từ bạn gái](https://vnexpress.net/roi-loan-lo-au-do-lay-benh-lau-tu-ban-gai-4785463.html) - 10:12 25/08/2024<!-- vnexpress:END -->
+- 🦆 [Italy điều tra nghi vấn ngộ sát trong vụ chìm du thuyền chở tỷ phú Anh](https://vnexpress.net/italy-dieu-tra-nghi-van-ngo-sat-trong-vu-chim-du-thuyen-cho-ty-phu-anh-4785494.html) - 10:14 25/08/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
