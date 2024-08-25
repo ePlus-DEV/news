@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Bà Harris quyên được hơn nửa tỷ USD trong một tháng](https://vnexpress.net/ba-harris-quyen-duoc-hon-nua-ty-usd-trong-mot-thang-4785535.html) - 13:36 25/08/2024
 - 🕴 [Thế khó của ông Trump khi bà Harris trỗi dậy](https://vnexpress.net/the-kho-cua-ong-trump-khi-ba-harris-troi-day-4785128.html) - 12:00 25/08/2024
-- 🤭 [Ông Mededev: CEO Telegram sai lầm khi rời Nga](https://vnexpress.net/ong-mededev-ceo-telegram-sai-lam-khi-roi-nga-4785524.html) - 11:42 25/08/2024
+- 🤭 [Ông Medvedev: CEO Telegram sai lầm khi rời Nga](https://vnexpress.net/ong-medvedev-ceo-telegram-sai-lam-khi-roi-nga-4785524.html) - 11:42 25/08/2024
 - 🧑‍💻 [Elon Musk chỉ trích vụ Pháp bắt CEO Telegram](https://vnexpress.net/elon-musk-chi-trich-vu-phap-bat-ceo-telegram-4785516.html) - 10:42 25/08/2024
 - 🦏 [Italy điều tra nghi vấn ngộ sát trong vụ chìm du thuyền chở tỷ phú Anh](https://vnexpress.net/italy-dieu-tra-nghi-van-ngo-sat-trong-vu-chim-du-thuyen-cho-ty-phu-anh-4785494.html) - 10:14 25/08/2024
 - 🦒 [Hezbollah phóng hơn 320 rocket vào Israel](https://vnexpress.net/hezbollah-phong-hon-320-rocket-vao-israel-4785444.html) - 05:24 25/08/2024
