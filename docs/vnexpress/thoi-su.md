@@ -12,7 +12,7 @@ sidebar_position: 1
 - 🔥 [Quốc hội sẽ bầu Chủ tịch nước vào tháng 10](https://vnexpress.net/quoc-hoi-se-bau-chu-tich-nuoc-vao-thang-10-4785891.html) - 10:16 26/08/2024
 - 🦏 [Quốc hội miễn nhiệm bốn cán bộ cấp cao để nhận nhiệm vụ mới](https://vnexpress.net/quoc-hoi-mien-nhiem-bon-can-bo-cap-cao-de-nhan-nhiem-vu-moi-4785632.html) - 08:43 26/08/2024
 - 👺 [Ông Lê Thanh Vân bị bãi nhiệm đại biểu Quốc hội](https://vnexpress.net/ong-le-thanh-van-bi-bai-nhiem-dai-bieu-quoc-hoi-4785625.html) - 08:42 26/08/2024
-- 🧑‍🏫 [Quốc hội miễn nhiệm Phó thủ tướng Lê Minh Khái](https://vnexpress.net/quoc-hoi-mien-nhiem-pho-thu-tuong-le-minh-khai-4785479.html) - 08:42 26/08/2024
+- 🧑‍🏫 [Quốc hội miễn nhiệm một Phó thủ tướng, một Bộ trưởng](https://vnexpress.net/quoc-hoi-mien-nhiem-mot-pho-thu-tuong-mot-bo-truong-4785479.html) - 08:42 26/08/2024
 - 🚦 [Quốc hội phê chuẩn bổ nhiệm hai Bộ trưởng](https://vnexpress.net/quoc-hoi-phe-chuan-bo-nhiem-hai-bo-truong-4785482.html) - 08:33 26/08/2024
 - 🎉 [Quốc hội phê chuẩn bổ nhiệm 3 Phó thủ tướng](https://vnexpress.net/quoc-hoi-phe-chuan-bo-nhiem-3-pho-thu-tuong-4785490.html) - 08:31 26/08/2024
 - 🦒 [Ông Nguyễn Huy Tiến làm Viện trưởng Viện Kiểm sát nhân dân Tối cao](https://vnexpress.net/ong-nguyen-huy-tien-lam-vien-truong-vien-kiem-sat-nhan-dan-toi-cao-4785617.html) - 08:28 26/08/2024
