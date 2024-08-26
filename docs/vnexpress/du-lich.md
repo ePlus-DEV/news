@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Việt Nam làm gì để khai thác &#39;mỏ vàng&#39; khách Ấn Độ?](https://vnexpress.net/viet-nam-lam-gi-de-khai-thac-mo-vang-khach-an-do-4785232.html) - 06:09 26/08/2024
+- 💂 [Khách Ấn Độ - &#39;mỏ vàng&#39; mới của du lịch](https://vnexpress.net/khach-an-do-mo-vang-moi-cua-du-lich-4785232.html) - 06:09 26/08/2024
 - 🪄 [&#39;Núi đá đĩa&#39; phát lộ khi làm đường ở Quảng Nam](https://vnexpress.net/nui-da-dia-phat-lo-khi-lam-duong-o-quang-nam-4784461.html) - 02:40 26/08/2024
 - 🦅 [Khám phá &#39;hòn ngọc&#39; Penang](https://vnexpress.net/kham-pha-hon-ngoc-penang-4770966.html) - 02:00 26/08/2024
 - 🕴 [Vườn sung Mỹ 2 ha hút khách tham quan ở TP HCM](https://vnexpress.net/vuon-sung-my-2-ha-hut-khach-tham-quan-o-tp-hcm-4785319.html) - 00:00 26/08/2024
