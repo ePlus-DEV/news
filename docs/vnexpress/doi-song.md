@@ -4,22 +4,22 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Những cô gái độc thân đi trữ đông trứng](https://vnexpress.net/nhung-co-gai-doc-than-di-tru-dong-trung-4784572.html) - 23:28 25/08/2024
+- 🚀 [Ngày càng nhiều phụ nữ độc thân đi trữ đông trứng](https://vnexpress.net/ngay-cang-nhieu-phu-nu-doc-than-di-tru-dong-trung-4784572.html) - 23:28 25/08/2024
 - 🎓 [Bộ sưu tập lồng đèn Trung thu kiểu xưa ở TP HCM](https://vnexpress.net/bo-suu-tap-long-den-trung-thu-kieu-xua-o-tp-hcm-4785538.html) - 23:00 25/08/2024
 - 🚦 [Cảnh cơ cực của gia đình bốn con](https://vnexpress.net/canh-co-cuc-cua-gia-dinh-bon-con-4785207.html) - 17:00 25/08/2024
-- 🦣 [Những món ăn gợi nhớ thời bao cấp](https://vnexpress.net/nhung-mon-an-goi-nho-thoi-bao-cap-4785505.html) - 09:58 25/08/2024
+- 🦣 [Những món ăn gợi nhớ thời bao cấp](https://vnexpress.net/doi-song-cooking-nhung-mon-an-goi-nho-thoi-bao-cap-4785505.html) - 09:58 25/08/2024
 - 🎓 [5 vật dụng dễ dùng một lần rồi vứt bỏ](https://vnexpress.net/5-vat-dung-de-dung-mot-lan-roi-vut-bo-4785365.html) - 07:00 25/08/2024
 - 🎭 [Lý do lãnh đạo thông minh nhất cũng có thể thất bại](https://vnexpress.net/ly-do-lanh-dao-thong-minh-nhat-cung-co-the-that-bai-4785418.html) - 05:18 25/08/2024
 - 🦅 [Tiến sĩ hóa học &#39;bước ra&#39; từ gian bếp nghèo của mẹ](https://vnexpress.net/tien-si-hoa-hoc-buoc-ra-tu-gian-bep-ngheo-cua-me-4784851.html) - 23:28 24/08/2024
 - 🎃 [Người trẻ rủ nhau thăm nơi Tuyên ngôn độc lập ra đời](https://vnexpress.net/nguoi-tre-ru-nhau-tham-noi-tuyen-ngon-doc-lap-ra-doi-4785326.html) - 23:00 24/08/2024
 - 💪 [Vì sao nhiều phụ nữ thành đạt thích &#39;trai hư&#39; ?](https://vnexpress.net/vi-sao-nhieu-phu-nu-thanh-dat-thich-trai-hu-4785292.html) - 12:00 24/08/2024
-- 🐻 [Bún ốc Hà Nội theo lối cũ](https://vnexpress.net/bun-oc-ha-noi-theo-loi-cu-4785234.html) - 09:00 24/08/2024
+- 🐻 [Bún ốc Hà Nội theo lối cũ](https://vnexpress.net/doi-song-cooking-bun-oc-ha-noi-theo-loi-cu-4785234.html) - 09:00 24/08/2024
 - 🧠 [3 vị trí trên cơ thể dễ bị bỏ quên khi tắm](https://vnexpress.net/3-vi-tri-tren-co-the-de-bi-bo-quen-khi-tam-4784838.html) - 07:00 24/08/2024
 - 🐘 [5 việc tưởng nghỉ ngơi nhưng lại gây mệt mỏi](https://vnexpress.net/5-viec-tuong-nghi-ngoi-nhung-lai-gay-met-moi-4784852.html) - 05:34 24/08/2024
 - 👹 [Học sinh thử thách lập trình robot, tìm hiểu trang trại xanh](https://vnexpress.net/hoc-sinh-thu-thach-lap-trinh-robot-tim-hieu-trang-trai-xanh-4785071.html) - 01:00 24/08/2024
 - 💂 [Yêu lại tình đầu nhờ video tỏ tình gây &#39;bão mạng&#39;](https://vnexpress.net/yeu-lai-tinh-dau-nho-video-to-tinh-gay-bao-mang-4783682.html) - 23:29 23/08/2024
 - 🦍 [3 ranh giới các đôi phải đặt ra ngay từ đầu](https://vnexpress.net/3-ranh-gioi-cac-doi-phai-dat-ra-ngay-tu-dau-4785007.html) - 23:00 23/08/2024
-- 🧑‍🏫 [Ngan nấu giả cầy](https://vnexpress.net/ngan-nau-gia-cay-4784932.html) - 11:00 23/08/2024
+- 🧑‍🏫 [Ngan nấu giả cầy](https://vnexpress.net/doi-song-cooking-ngan-nau-gia-cay-4784932.html) - 11:00 23/08/2024
 - 🧰 [Cách nuôi con siêu nhàn của phụ huynh Na Uy](https://vnexpress.net/cach-nuoi-con-sieu-nhan-cua-phu-huynh-na-uy-4784951.html) - 09:15 23/08/2024
 - 🪄 [Những người trẻ bị gọi là &#39;đuôi chuột&#39;](https://vnexpress.net/nhung-nguoi-tre-bi-goi-la-duoi-chuot-4784836.html) - 06:06 23/08/2024
 - 🐲 [Những bất lợi của người đẹp trai](https://vnexpress.net/nhung-bat-loi-cua-nguoi-dep-trai-4784650.html) - 04:23 23/08/2024
