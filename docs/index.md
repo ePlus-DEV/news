@@ -29,7 +29,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [Nước nào trữ nhiều vàng nhất thế giới?](https://vnexpress.net/nuoc-nao-tru-nhieu-vang-nhat-the-gioi-4785914.html) - 13:15 26/08/2024
 - 🧰 [Từ bỏ ly trà sữa giá 70 nghìn đồng vì nhận ra đang phí phạm](https://vnexpress.net/tu-bo-ly-tra-sua-gia-70-nghin-dong-vi-nhan-ra-dang-phi-pham-4785909.html) - 13:13 26/08/2024
 - 🥰 [Tàu vướng dây cáp, đường TP HCM ùn tắc kéo dài](https://vnexpress.net/tau-vuong-day-cap-duong-tp-hcm-un-tac-keo-dai-4785935.html) - 13:00 26/08/2024
-- 🌏 [Cụ ông ngừng thở do hóc bánh dẻo](https://vnexpress.net/cu-ong-ngung-tho-do-hoc-banh-deo-4785903.html) - 13:00 26/08/2024
+- 🌏 [Cụ ông ngừng thở do hóc bánh nếp](https://vnexpress.net/cu-ong-ngung-tho-do-hoc-banh-nep-4785903.html) - 13:00 26/08/2024
 - 🧐 [Ngôi mộ chứa đầy vàng của chiến binh Thracia](https://vnexpress.net/ngoi-mo-chua-day-vang-cua-chien-binh-thracia-4785580.html) - 13:00 26/08/2024
 - 💫 [TikToker có phải là nghề?](https://vnexpress.net/tiktoker-co-phai-la-nghe-4785834.html) - 13:00 26/08/2024
 - 😺 [Ông Trump dọa bỏ tranh luận với bà Harris trên ABC](https://vnexpress.net/ong-trump-doa-bo-tranh-luan-voi-ba-harris-tren-abc-4785928.html) - 12:45 26/08/2024
