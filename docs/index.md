@@ -26,11 +26,11 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Suboi, Karik làm huấn luyện viên Rap Việt](https://vnexpress.net/suboi-karik-lam-huan-luyen-vien-rap-viet-4785971.html) - 16:30 26/08/2024
+- 🚀 [Suboi, Karik làm huấn luyện viên Rap Việt 2024](https://vnexpress.net/suboi-karik-lam-huan-luyen-vien-rap-viet-2024-4785971.html) - 16:30 26/08/2024
 - 🧰 [Nhật cáo buộc máy bay Trung Quốc xâm phạm không phận](https://vnexpress.net/nhat-cao-buoc-may-bay-trung-quoc-xam-pham-khong-phan-4785940.html) - 16:16 26/08/2024
 - 🥰 [iPhone 16 ra mắt ngày 9/9](https://vnexpress.net/iphone-16-ra-mat-ngay-9-9-4785964.html) - 16:03 26/08/2024
 - 🌏 [Hoa hậu Khánh Vân công khai chồng sắp cưới](https://vnexpress.net/hoa-hau-khanh-van-cong-khai-chong-sap-cuoi-4785969.html) - 16:03 26/08/2024
-- 🧐 [Tổng thống Pháp: &#39;Vụ bắt CEO Telegram không mang động cơ chính trị&#39;](https://vnexpress.net/tong-thong-phap-vu-bat-ceo-telegram-khong-mang-dong-co-chinh-tri-4785961.html) - 15:45 26/08/2024
+- 🧐 [Pháp nêu lý do bắt CEO Telegram](https://vnexpress.net/phap-neu-ly-do-bat-ceo-telegram-4785961.html) - 15:45 26/08/2024
 - 💫 [Đường dây đưa người sang Campuchia đánh bạc](https://vnexpress.net/duong-day-dua-nguoi-sang-campuchia-danh-bac-4785958.html) - 15:28 26/08/2024
 - 😺 [Nga tuyên bố chặn hàng loạt đợt tiến công của Ukraine ở tỉnh Kursk](https://vnexpress.net/nga-tuyen-bo-chan-hang-loat-dot-tien-cong-cua-ukraine-o-tinh-kursk-4785956.html) - 15:24 26/08/2024
 - 🕯 [Bộ Ngoại giao bình luận về hoạt động của trường Fulbright Việt Nam](https://vnexpress.net/bo-ngoai-giao-binh-luan-ve-hoat-dong-cua-truong-fulbright-viet-nam-4785957.html) - 15:08 26/08/2024
