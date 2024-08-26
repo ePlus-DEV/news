@@ -7,7 +7,7 @@ sidebar_position: 10
 - 🔥 [Vi khuẩn HP có gây ung thư dạ dày?](https://vnexpress.net/vi-khuan-hp-co-gay-ung-thu-da-day-4785874.html) - 10:00 26/08/2024
 - 🥰 [Mùa mưa - nhiều người nhiễm nấm, viêm da](https://vnexpress.net/mua-mua-nhieu-nguoi-nhiem-nam-viem-da-4785838.html) - 10:00 26/08/2024
 - 💡 [5 món ăn nhẹ giúp trẻ cao lớn](https://vnexpress.net/5-mon-an-nhe-giup-tre-cao-lon-4785739.html) - 10:00 26/08/2024
-- 🤗 [Bệnh nhân TP HCM ghép tim từ người cho chết não &#39;đang hồi phục&#39;](https://vnexpress.net/benh-nhan-tp-hcm-nhan-tim-tu-nguoi-cho-chet-nao-dang-hoi-phuc-4785863.html) - 09:24 26/08/2024
+- 🤗 [Bệnh nhân TP HCM ghép tim hiến tặng &#39;đã tỉnh&#39;](https://vnexpress.net/benh-nhan-tp-hcm-nhan-tim-tu-nguoi-cho-chet-nao-dang-hoi-phuc-4785863.html) - 09:24 26/08/2024
 - 🪜 [50% bệnh nhân ICU khó hồi phục hoàn toàn sau một năm](https://vnexpress.net/50-benh-nhan-icu-kho-hoi-phuc-hoan-toan-sau-mot-nam-4785853.html) - 09:00 26/08/2024
 - 🕯 [Thói quen nào khiến phụ nữ dễ yếu xương?](https://vnexpress.net/thoi-quen-nao-khien-phu-nu-de-yeu-xuong-4785795.html) - 09:00 26/08/2024
 - 🤭 [Cô gái suýt mù mắt vì nhờ bạn trai tiêm filler](https://vnexpress.net/co-gai-suyt-mu-mat-vi-nho-ban-trai-tiem-filler-4785536.html) - 08:41 26/08/2024
