@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Tàu hoả vướng dây cáp trên đường về ga Sài Gòn](https://vnexpress.net/tau-hoa-vuong-day-cap-tren-duong-ve-ga-sai-gon-4785935.html) - 13:00 26/08/2024
+- 🦒 [Tàu vướng dây cáp, đường TP HCM ùn tắc kéo dài](https://vnexpress.net/tau-vuong-day-cap-duong-tp-hcm-un-tac-keo-dai-4785935.html) - 13:00 26/08/2024
 - 🤓 [Người đàn ông suýt bị thang máy kẹp](https://vnexpress.net/nguoi-dan-ong-suyt-bi-thang-may-kep-4785929.html) - 11:56 26/08/2024
 - ⚗️ [Nhiều tổ chức, cá nhân bị kỷ luật do sai phạm ở dự án điện gió](https://vnexpress.net/nhieu-to-chuc-ca-nhan-bi-ky-luat-do-sai-pham-o-du-an-dien-gio-4785813.html) - 10:47 26/08/2024
 - 🌊 [Quốc hội sẽ bầu Chủ tịch nước vào tháng 10](https://vnexpress.net/quoc-hoi-se-bau-chu-tich-nuoc-vao-thang-10-4785891.html) - 10:16 26/08/2024
