@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Công bố các khoản thu trong trường học TP HCM](https://vnexpress.net/cong-bo-cac-khoan-thu-trong-truong-hoc-tp-hcm-4785937.html) - 14:26 26/08/2024
+- 🤓 [Các khoản thu trong trường học TP HCM](https://vnexpress.net/cac-khoan-thu-trong-truong-hoc-tp-hcm-4785937.html) - 14:26 26/08/2024
 - 🦆 [Nước nào trữ nhiều vàng nhất thế giới?](https://vnexpress.net/nuoc-nao-tru-nhieu-vang-nhat-the-gioi-4785914.html) - 13:15 26/08/2024
 - 🦩 [&#39;Để trẻ không ngại lỗi&#39; - cảm hứng của bút viết Thiên Long](https://vnexpress.net/de-tre-khong-ngai-loi-cam-hung-cua-but-viet-thien-long-4785854.html) - 11:00 26/08/2024
 - 🌮 [&#39;Chiến tranh lạnh&#39; trong tiếng Anh nói thế nào](https://vnexpress.net/chien-tranh-lanh-trong-tieng-anh-noi-the-nao-4785518.html) - 10:32 26/08/2024
