@@ -5,7 +5,7 @@ sidebar_position: 21
 
 <!-- dantri-bat-dong-san:START -->
 - 🌏 [Sun Urban City Hà Nam: Nơi để &quot;sống cuộc đời rực rỡ&quot;](https://dantri.com.vn/bat-dong-san/sun-urban-city-ha-nam-noi-de-song-cuoc-doi-ruc-ro-20240826191516923.htm) - 12:16 26/08/2024
-- 👹 [Tỷ phú Phạm Nhật Vượng và loạt đại gia muốn mở rộng hàng trăm hecta quỹ đất](https://dantri.com.vn/bat-dong-san/ty-phu-pham-nhat-vuong-va-loat-dai-gia-muon-mo-rong-hang-tram-hecta-quy-dat-20240826163439202.htm) - 11:34 26/08/2024
+- 👹 [Loạt đại gia muốn mở rộng hàng trăm hecta quỹ đất](https://dantri.com.vn/bat-dong-san/loat-dai-gia-muon-mo-rong-hang-tram-hecta-quy-dat-20240826163439202.htm) - 11:34 26/08/2024
 - 💡 [Phân khúc bất động sản nào sẽ hút dòng tiền?](https://dantri.com.vn/bat-dong-san/phan-khuc-bat-dong-san-nao-se-hut-dong-tien-20240826173956827.htm) - 11:13 26/08/2024
 - 🌋 [Khi nào không được thế chấp sổ đỏ vay ngân hàng?](https://dantri.com.vn/bat-dong-san/khi-nao-khong-duoc-the-chap-so-do-vay-ngan-hang-20240826140101548.htm) - 07:49 26/08/2024
 - 🌜 [Hà Nội phê duyệt đầu tư xây dựng thêm 6 khu nhà ở xã hội](https://dantri.com.vn/bat-dong-san/ha-noi-phe-duyet-dau-tu-xay-dung-them-6-khu-nha-o-xa-hoi-20240826143035620.htm) - 07:41 26/08/2024
