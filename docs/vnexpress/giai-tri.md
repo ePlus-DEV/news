@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Minh tinh Thái đóng &#39;mỹ nữ sa đọa&#39;](https://vnexpress.net/minh-tinh-thai-dong-my-nu-sa-doa-4785656.html) - 05:48 26/08/2024
-- 💫 [Quyền Linh khóc nhớ người cha quá cố](https://vnexpress.net/quyen-linh-khoc-nho-nguoi-cha-qua-co-4785726.html) - 05:38 26/08/2024
+- 💫 [Quyền Linh khóc nhắc về cha](https://vnexpress.net/quyen-linh-khoc-nhac-ve-cha-4785726.html) - 05:38 26/08/2024
 - 🌮 [Chris Hemsworth gây bất ngờ khi chơi trống](https://vnexpress.net/chris-hemsworth-gay-bat-ngo-khi-choi-trong-4785686.html) - 04:13 26/08/2024
 - 🧠 [Con gái của Angelina Jolie khoe vũ đạo tại trường](https://vnexpress.net/con-gai-cua-angelina-jolie-khoe-vu-dao-tai-truong-4785653.html) - 04:02 26/08/2024
 - 👨‍🏫 [Bằng Kiều tặng con trai xe hơi](https://vnexpress.net/bang-kieu-tang-con-trai-xe-hoi-4785643.html) - 03:25 26/08/2024
