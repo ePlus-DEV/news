@@ -5,11 +5,11 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Quốc hội họp bất thường kiện toàn nhiều vị trí cán bộ cấp cao](https://vnexpress.net/quoc-hoi-hop-bat-thuong-kien-toan-nhieu-vi-tri-can-bo-cap-cao-4785466.html) - 01:27 26/08/2024
-- 🤓 [Nông dân miền Tây sau cuộc cách mạng năng suất](https://vnexpress.net/nong-dan-mien-tay-sau-cuoc-cach-mang-nang-suat-4783170.html) - 22:00 25/08/2024
+- 🤓 [Nông dân miền Tây &#39;hụt hơi&#39; sau cuộc đua năng suất](https://vnexpress.net/nong-dan-mien-tay-hut-hoi-sau-cuoc-dua-nang-suat-4783170.html) - 22:00 25/08/2024
 - ⚗️ [Cảnh cơ cực của gia đình bốn con](https://vnexpress.net/canh-co-cuc-cua-gia-dinh-bon-con-4785207.html) - 17:00 25/08/2024
 - 🌊 [Hà Nội tu bổ đài phun nước Con Cóc](https://vnexpress.net/ha-noi-tu-bo-dai-phun-nuoc-con-coc-4785548.html) - 15:52 25/08/2024
 - 🎓 [Lâm Đồng kiến nghị sớm làm cao tốc Đà Lạt nối Nha Trang](https://vnexpress.net/cao-toc-nha-trang-da-lat-4785537.html) - 13:15 25/08/2024
-- 🔥 [Cứu tài xế container bị lũ cuốn](https://vnexpress.net/cuu-tai-xe-container-bi-lu-cuon-4785534.html) - 12:44 25/08/2024
+- 🔥 [Cứu tài xế xe container bị lũ cuốn](https://vnexpress.net/cuu-tai-xe-xe-container-bi-lu-cuon-4785534.html) - 12:44 25/08/2024
 - 🦏 [Hai người chết do sét đánh, lũ cuốn](https://vnexpress.net/hai-nguoi-chet-do-set-danh-lu-cuon-4785459.html) - 09:41 25/08/2024
 - 👺 [Liên danh Đèo Cả khiếu nại gói thầu 6.300 tỷ đồng sân bay Long Thành](https://vnexpress.net/lien-danh-deo-ca-khieu-nai-goi-thau-6-300-ty-dong-san-bay-long-thanh-4785013.html) - 07:55 25/08/2024
 - 🧑‍🏫 [Miền Bắc tuần tới tạnh ráo](https://vnexpress.net/mien-bac-tuan-toi-tanh-rao-4785455.html) - 06:51 25/08/2024
