@@ -31,7 +31,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥰 [Triệt sản nam và những thắc mắc thường gặp](https://vnexpress.net/triet-san-nam-va-nhung-thac-mac-thuong-gap-4785462.html) - 17:02 26/08/2024
 - 🌏 [Bạn thông minh hơn người ở khả năng phân tích hay phán đoán?](https://vnexpress.net/ban-thong-minh-hon-nguoi-o-kha-nang-phan-tich-hay-phan-doan-4784387.html) - 17:02 26/08/2024
 - 🧐 [Gần 1.000 tỷ đồng nâng cấp đường nối Long An - TP HCM](https://vnexpress.net/gan-1-000-ty-dong-nang-cap-duong-noi-long-an-tp-hcm-4785967.html) - 17:00 26/08/2024
-- 💫 [Tính toán giảm giờ làm](https://vnexpress.net/tinh-toan-giam-gio-lam-4785933.html) - 17:00 26/08/2024
+- 💫 [&#39;Bào mòn&#39; sức lao động](https://vnexpress.net/bao-mon-suc-lao-dong-4785933.html) - 17:00 26/08/2024
 - 😺 [Tại sao nhiều bức tượng La Mã mất đầu?](https://vnexpress.net/tai-sao-nhieu-buc-tuong-la-ma-mat-dau-4785925.html) - 17:00 26/08/2024
 - 🕯 [Không vui dù chồng kiếm gần 200 triệu đồng mỗi tháng và tốt tính](https://vnexpress.net/khong-vui-du-chong-kiem-gan-200-trieu-dong-moi-thang-va-tot-tinh-4785789.html) - 17:00 26/08/2024
 - 💃 [Người Đức không nghiện việc, cũng chẳng còn mặn mà lương cao](https://vnexpress.net/nguoi-duc-khong-nghien-viec-cung-chang-con-man-ma-luong-cao-4785598.html) - 17:00 26/08/2024
