@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Cụ ông ngừng thở do hóc bánh dẻo](https://vnexpress.net/cu-ong-ngung-tho-do-hoc-banh-deo-4785903.html) - 13:00 26/08/2024
+- 🔥 [Cụ ông ngừng thở do hóc bánh nếp](https://vnexpress.net/cu-ong-ngung-tho-do-hoc-banh-nep-4785903.html) - 13:00 26/08/2024
 - 🥰 [5 vaccine trẻ cần tiêm nhắc trước tựu trường](https://vnexpress.net/5-vaccine-tre-can-tiem-nhac-truoc-tuu-truong-4785784.html) - 12:00 26/08/2024
 - 💡 [Nguyên nhân ít ngờ gây khó thở](https://vnexpress.net/nguyen-nhan-it-ngo-gay-kho-tho-4785689.html) - 12:00 26/08/2024
 - 🤗 [Chia đôi lá gan của một người chết não ghép cho hai bệnh nhân](https://vnexpress.net/chia-doi-la-gan-cua-mot-nguoi-chet-nao-ghep-cho-hai-benh-nhan-4785884.html) - 11:16 26/08/2024
