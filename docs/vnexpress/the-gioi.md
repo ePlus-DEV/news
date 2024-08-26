@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Nhật cáo buộc máy bay Trung Quốc xâm phạm không phận](https://vnexpress.net/nhat-cao-buoc-may-bay-trung-quoc-xam-pham-khong-phan-4785940.html) - 16:16 26/08/2024
-- 🕴 [Tổng thống Pháp: &#39;Vụ bắt CEO Telegram không mang động cơ chính trị&#39;](https://vnexpress.net/tong-thong-phap-vu-bat-ceo-telegram-khong-mang-dong-co-chinh-tri-4785961.html) - 15:45 26/08/2024
+- 🕴 [Pháp nêu lý do bắt CEO Telegram](https://vnexpress.net/phap-neu-ly-do-bat-ceo-telegram-4785961.html) - 15:45 26/08/2024
 - 🤭 [Nga tuyên bố chặn hàng loạt đợt tiến công của Ukraine ở tỉnh Kursk](https://vnexpress.net/nga-tuyen-bo-chan-hang-loat-dot-tien-cong-cua-ukraine-o-tinh-kursk-4785956.html) - 15:24 26/08/2024
 - 🧑‍💻 [Bộ Ngoại giao bình luận về hoạt động của trường Fulbright Việt Nam](https://vnexpress.net/bo-ngoai-giao-binh-luan-ve-hoat-dong-cua-truong-fulbright-viet-nam-4785957.html) - 15:08 26/08/2024
 - 🦏 [Iran ca ngợi Hezbollah tấn công Israel](https://vnexpress.net/iran-ca-ngoi-hezbollah-tan-cong-israel-4785941.html) - 14:30 26/08/2024
