@@ -7,7 +7,7 @@ sidebar_position: 6
 - 🚀 [25 năm tìm mẹ của &#39;cô bé Babylift&#39;](https://vnexpress.net/25-nam-tim-me-cua-co-be-babylift-4784656.html) - 23:29 26/08/2024
 - 🎓 [4 điểm chung của người thọ trăm tuổi](https://vnexpress.net/4-diem-chung-cua-nguoi-tho-tram-tuoi-4785977.html) - 23:00 26/08/2024
 - 🚦 [Quốc gia có luật cho nhân viên phớt lờ sếp sau giờ làm](https://vnexpress.net/quoc-gia-co-luat-cho-nhan-vien-phot-lo-sep-sau-gio-lam-4785896.html) - 10:35 26/08/2024
-- 🦣 [Cá lăng nướng riềng mẻ](https://vnexpress.net/ca-lang-nuong-rieng-me-4785842.html) - 10:22 26/08/2024
+- 🦣 [Cá lăng nướng riềng mẻ](https://vnexpress.net/doi-song-cooking-ca-lang-nuong-rieng-me-4785842.html) - 10:22 26/08/2024
 - 🎓 [6 sai lầm cần tránh khi dạy con ăn uống](https://vnexpress.net/6-sai-lam-can-tranh-khi-day-con-an-uong-4785744.html) - 06:47 26/08/2024
 - 🎭 [Bà mối cho những tỷ phú](https://vnexpress.net/ba-moi-cho-nhung-ty-phu-4785491.html) - 03:00 26/08/2024
 - 🦅 [Ngày càng nhiều phụ nữ độc thân đi trữ đông trứng](https://vnexpress.net/ngay-cang-nhieu-phu-nu-doc-than-di-tru-dong-trung-4784572.html) - 23:28 25/08/2024
