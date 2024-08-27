@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [Thái Lan vắng hàng loạt ngôi sao ở trận gặp Nga và đội tuyển Việt Nam](https://dantri.com.vn/the-thao/thai-lan-vang-hang-loat-ngoi-sao-o-tran-gap-nga-va-doi-tuyen-viet-nam-20240827151839711.htm) - 08:19 27/08/2024
 - 💯 [Hậu vệ người Nga đề cao tầm quan trọng ở trận đấu với đội tuyển Việt Nam](https://dantri.com.vn/the-thao/hau-ve-nguoi-nga-de-cao-tam-quan-trong-o-tran-dau-voi-doi-tuyen-viet-nam-20240827113711050.htm) - 08:10 27/08/2024
-- ⛽️ [Vụ karate trẻ TPHCM bị tố gian lận: Đình chỉ HLV Mộng Tâm và tổ trọng tài](https://dantri.com.vn/the-thao/vu-karate-tre-tphcm-bi-to-gian-lan-dinh-chi-hlv-mong-tam-va-to-trong-tai-20240827141121608.htm) - 07:21 27/08/2024
+- ⛽️ [Vụ karate trẻ TPHCM bị tố gian lận: Đình chỉ HLV Mộng Tâm và tổ trọng tài](https://dantri.com.vn/the-thao/vu-karate-tre-tphcm-bi-to-gian-lan-dinh-chi-hlv-mong-tam-va-to-trong-tai-20240827141121608.htm) - 06:21 27/08/2024
 - 💃 [Man City kiếm số tiền kỷ lục từ bán cầu thủ](https://dantri.com.vn/the-thao/man-city-kiem-so-tien-ky-luc-tu-ban-cau-thu-20240827123410436.htm) - 05:34 27/08/2024
 - 🌈 [Báo Trung Quốc bình luận khi đội tuyển Việt Nam đối đầu với Nga](https://dantri.com.vn/the-thao/bao-trung-quoc-binh-luan-khi-doi-tuyen-viet-nam-doi-dau-voi-nga-20240827114712518.htm) - 04:47 27/08/2024
 - 🦅 [Djokovic khởi đầu nhàn nhã ở US Open 2024](https://dantri.com.vn/the-thao/djokovic-khoi-dau-nhan-nha-o-us-open-2024-20240827113312696.htm) - 04:33 27/08/2024
