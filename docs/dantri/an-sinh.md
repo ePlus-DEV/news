@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- dantri-an-sinh:START -->
 - 👺 [Vụ bé gái 13 tuổi bất ngờ có thai: Kiến nghị xử lý nghiêm cha dượng](https://dantri.com.vn/an-sinh/vu-be-gai-13-tuoi-bat-ngo-co-thai-kien-nghi-xu-ly-nghiem-cha-duong-20240827154456303.htm) - 09:36 27/08/2024
-- 👀 [Cảnh báo xu hướng mẹ đơn thân tìm người đồng giới để &quot;nương tựa&quot;](https://dantri.com.vn/an-sinh/canh-bao-xu-huong-me-don-than-tim-nguoi-dong-gioi-de-nuong-tua-20240825163005882.htm) - 08:26 27/08/2024
+- 👀 [Xu hướng mẹ đơn thân tìm người đồng giới để &quot;nương tựa&quot;](https://dantri.com.vn/an-sinh/xu-huong-me-don-than-tim-nguoi-dong-gioi-de-nuong-tua-20240825163005882.htm) - 08:26 27/08/2024
 - 💡 [Cháu bé 8 tuổi rơi xuống sông: Tìm thấy thi thể cách chỗ bị nạn 200m](https://dantri.com.vn/an-sinh/chau-be-8-tuoi-roi-xuong-song-tim-thay-thi-the-cach-cho-bi-nan-200m-20240827110444972.htm) - 06:49 27/08/2024
 - 💄 [Công nhân công ty thép có được nghỉ hưu sớm không?](https://dantri.com.vn/an-sinh/cong-nhan-cong-ty-thep-co-duoc-nghi-huu-som-khong-20240823103638433.htm) - 02:55 27/08/2024
 - 🧠 [Quỹ Bảo trợ trẻ em trao hàng trăm suất học bổng đến học sinh khó khăn](https://dantri.com.vn/an-sinh/quy-bao-tro-tre-em-trao-hang-tram-suat-hoc-bong-den-hoc-sinh-kho-khan-20240826155808059.htm) - 01:19 27/08/2024
