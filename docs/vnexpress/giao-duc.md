@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Chuyên gia WB: Việt Nam cần tăng lao động có bằng cấp](https://vnexpress.net/chuyen-gia-wb-viet-nam-can-tang-lao-dong-co-bang-cap-4786226.html) - 11:02 27/08/2024
+- 🤓 [Chuyên gia World Bank: Việt Nam cần tăng lao động có bằng cấp](https://vnexpress.net/chuyen-gia-world-bank-viet-nam-can-tang-lao-dong-co-bang-cap-4786226.html) - 11:02 27/08/2024
 - 🦆 [Trường Tây Mỗ 3 không nhận thêm học sinh nào](https://vnexpress.net/truong-tay-mo-3-khong-nhan-them-hoc-sinh-nao-4786151.html) - 07:48 27/08/2024
 - 🦩 [5 học sinh giành huy chương Olympic Vật lý thiên văn quốc tế](https://vnexpress.net/5-hoc-sinh-gianh-huy-chuong-olympic-vat-ly-thien-van-quoc-te-4786070.html) - 03:25 27/08/2024
 - 🌮 [Thầy cô giáo may áo dài tặng nữ sinh](https://vnexpress.net/thay-co-giao-may-ao-dai-tang-nu-sinh-4785955.html) - 00:00 27/08/2024
