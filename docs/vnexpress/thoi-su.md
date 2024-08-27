@@ -12,7 +12,7 @@ sidebar_position: 1
 - 🔥 [Tiểu sử tân Chánh án TAND Tối cao, Viện trưởng VKSND Tối cao](https://vnexpress.net/tieu-su-tan-chanh-an-tand-toi-cao-vien-truong-vksnd-toi-cao-4786157.html) - 05:43 27/08/2024
 - 🦏 [Trung tâm đào tạo cán bộ trăm tỷ đồng bị bỏ hoang](https://vnexpress.net/trung-tam-dao-tao-can-bo-tram-ty-dong-bi-bo-hoang-4785962.html) - 05:16 27/08/2024
 - 👺 [Sập sàn tòa nhà ở trung tâm TP HCM](https://vnexpress.net/sap-san-toa-nha-o-trung-tam-tp-hcm-4786193.html) - 05:03 27/08/2024
-- 🧑‍🏫 [Phát hiện khu lưu trú người tiền sử niên đại 8.000 năm ở Bắc Kạn](https://vnexpress.net/phat-hien-khu-luu-tru-nguoi-tien-su-nien-dai-8-000-nam-o-bac-kan-4786061.html) - 04:27 27/08/2024
+- 🧑‍🏫 [Phát hiện khu cư trú người tiền sử niên đại 8.000 năm ở Bắc Kạn](https://vnexpress.net/phat-hien-khu-cu-tru-nguoi-tien-su-nien-dai-8-000-nam-o-bac-kan-4786061.html) - 04:27 27/08/2024
 - 🚦 [Ông Rah Lan Chung làm Chủ tịch Gia Lai](https://vnexpress.net/ong-rah-lan-chung-lam-chu-tich-gia-lai-4784337.html) - 02:10 27/08/2024
 - 🎉 [Thí điểm cấp phiếu lý lịch tư pháp qua VNeID trên cả nước từ 1/10](https://vnexpress.net/thi-diem-cap-phieu-ly-lich-tu-phap-qua-vneid-tren-ca-nuoc-tu-1-10-4786036.html) - 02:05 27/08/2024
 - 🦒 [Đường 800 tỷ đồng ở Bảo Lộc chưa sử dụng đã tan nát](https://vnexpress.net/duong-800-ty-dong-o-bao-loc-chua-su-dung-da-tan-nat-4785852.html) - 23:00 26/08/2024
