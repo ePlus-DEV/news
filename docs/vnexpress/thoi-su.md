@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Ông Rah Lan Chung làm Chủ tịch Gia Lai](https://vnexpress.net/ong-rah-lan-chung-lam-chu-tich-gia-lai-4784337.html) - 02:10 27/08/2024
 - 🤓 [Thí điểm cấp phiếu lý lịch tư pháp qua VNeID trên cả nước từ 1/10](https://vnexpress.net/thi-diem-cap-phieu-ly-lich-tu-phap-qua-vneid-tren-ca-nuoc-tu-1-10-4786036.html) - 02:05 27/08/2024
-- ⚗️ [Hiện trạng đường tránh TP Bảo Lộc sau một năm sụt lún](https://vnexpress.net/hien-trang-duong-tranh-tp-bao-loc-sau-mot-nam-sut-lun-4785852.html) - 23:00 26/08/2024
+- ⚗️ [Đường 800 tỷ đồng ở Bảo Lộc chưa sử dụng đã tan nát](https://vnexpress.net/duong-800-ty-dong-o-bao-loc-chua-su-dung-da-tan-nat-4785852.html) - 23:00 26/08/2024
 - 🌊 [Thế bế tắc của ruộng lúa miền Tây](https://vnexpress.net/the-be-tac-cua-ruong-lua-mien-tay-4785191.html) - 22:00 26/08/2024
 - 🎓 [Gần 1.000 tỷ đồng nâng cấp đường nối Long An - TP HCM](https://vnexpress.net/gan-1-000-ty-dong-nang-cap-duong-noi-long-an-tp-hcm-4785967.html) - 17:00 26/08/2024
 - 🔥 [Tài xế chạy ngược chiều trên làn 120 km/h cao tốc Hà Nội - Hải Phòng](https://vnexpress.net/tai-xe-chay-nguoc-chieu-tren-lan-120-km-h-cao-toc-ha-noi-hai-phong-4785944.html) - 14:19 26/08/2024
