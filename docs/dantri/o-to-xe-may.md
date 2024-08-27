@@ -4,7 +4,7 @@ sidebar_position: 24
 ---
 
 <!-- dantri-o-to-xe-may:START -->
-- 🤡 [VF 6 - bạn đồng hành thân thiết cho gia đình yêu du lịch](https://dantri.com.vn/o-to-xe-may/vf-6-ban-dong-hanh-than-thiet-cho-gia-dinh-yeu-du-lich-20240827191444950.htm) - 12:36 27/08/2024
+- 🤡 [VF 6 - bạn đồng hành thân thiết cho gia đình yêu du lịch](https://dantri.com.vn/o-to-xe-may/vf-6-ban-dong-hanh-than-thiet-cho-gia-dinh-yeu-du-lich-20240827191444950.htm) - 12:43 27/08/2024
 - 🧑‍💻 [VinFast cam kết cung cấp phụ tùng hậu mãi trong vòng 24 giờ](https://dantri.com.vn/o-to-xe-may/vinfast-cam-ket-cung-cap-phu-tung-hau-mai-trong-vong-24-gio-20240827171312746.htm) - 10:41 27/08/2024
 - 🧑‍💻 [Đại lý giảm 150 triệu cho Palisade, làm khó đối thủ Trung Quốc vừa ra mắt](https://dantri.com.vn/o-to-xe-may/dai-ly-giam-150-trieu-cho-palisade-lam-kho-doi-thu-trung-quoc-vua-ra-mat-20240827153258881.htm) - 10:24 27/08/2024
 - 🎓 [Khung gầm xe Volvo từ thép boron - &quot;tấm khiên&quot; bảo vệ khi xảy ra va chạm](https://dantri.com.vn/o-to-xe-may/khung-gam-xe-volvo-tu-thep-boron-tam-khien-bao-ve-khi-xay-ra-va-cham-20240827152630239.htm) - 09:00 27/08/2024
