@@ -4,7 +4,7 @@ sidebar_position: 22
 ---
 
 <!-- dantri-du-lich:START -->
-- 🥰 [Chiều nay đoàn khách của tỷ phú Ấn Độ đến Hà Nội, bắt đầu khám phá Việt Nam](https://dantri.com.vn/du-lich/chieu-nay-doan-khach-cua-ty-phu-an-do-den-ha-noi-bat-dau-kham-pha-viet-nam-20240827105828400.htm) - 03:59 27/08/2024
+- 🥰 [Chiều nay đoàn 4.500 khách của tỷ phú Ấn Độ đến Hà Nội](https://dantri.com.vn/du-lich/chieu-nay-doan-4500-khach-cua-ty-phu-an-do-den-ha-noi-20240827105828400.htm) - 03:59 27/08/2024
 - 🥰 [Khách Việt 14 ngày lái mô tô khám phá thiên nhiên siêu thực ở Ladakh Ấn Độ](https://dantri.com.vn/du-lich/khach-viet-14-ngay-lai-mo-to-kham-pha-thien-nhien-sieu-thuc-o-ladakh-an-do-20240824091805112.htm) - 01:43 27/08/2024
 - 🐻 [Bỏ 200 triệu đồng mua vé máy bay khoang hạng nhất, khách lấy sạch đồ cho bõ](https://dantri.com.vn/du-lich/bo-200-trieu-dong-mua-ve-may-bay-khoang-hang-nhat-khach-lay-sach-do-cho-bo-20240826221635533.htm) - 23:49 26/08/2024
 - 🤩 [Hàng loạt sự kiện phục vụ du khách Đà Nẵng dịp lễ Quốc khánh 2/9](https://dantri.com.vn/du-lich/hang-loat-su-kien-phuc-vu-du-khach-da-nang-dip-le-quoc-khanh-29-20240826152336690.htm) - 08:38 26/08/2024
