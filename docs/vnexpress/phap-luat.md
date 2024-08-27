@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cựu bí thư Bến Tre Lê Đức Thọ bị cáo buộc nhận hối lộ 600.000 USD](https://vnexpress.net/cuu-bi-thu-ben-tre-le-duc-tho-bi-cao-buoc-nhan-hoi-lo-600-000-usd-4786399.html) - 12:53 27/08/2024
+- 😎 [Cựu bí thư Lê Đức Thọ bị cáo buộc nhận bao nhiêu tiền trong vụ Xuyên Việt Oil](https://vnexpress.net/cuu-bi-thu-ben-tre-le-duc-tho-bi-cao-buoc-nhan-hoi-lo-600-000-usd-4786399.html) - 12:53 27/08/2024
 - 🥰 [Cựu cán bộ công an phủ nhận &#39;chạy&#39; án cho chủ mưu khai thác cát lậu](https://vnexpress.net/cuu-can-bo-cong-an-phu-nhan-chay-an-cho-chu-muu-khai-thac-cat-lau-4786383.html) - 10:50 27/08/2024
 - 🎓 [Thiêu hủy xác 5 con hổ tang vật](https://vnexpress.net/thieu-huy-xac-5-con-ho-tang-vat-4786176.html) - 10:37 27/08/2024
 - 🤓 [Tám thanh thiếu niên ép ngã, chém nhầm 4 người đi đường](https://vnexpress.net/tam-thanh-thieu-nien-ep-nga-chem-nham-4-nguoi-di-duong-4786374.html) - 10:18 27/08/2024
