@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [CEO Telegram được tại ngoại](https://vnexpress.net/ceo-telegram-duoc-tai-ngoai-4786899.html) - 20:36 28/08/2024
-- 🕴 [Lý do phe Cộng hòa mừng hụt với lựa chọn phó tướng của bà Harris](https://vnexpress.net/ly-do-phe-cong-hoa-mung-hut-voi-lua-chon-pho-tuong-cua-ba-harris-4786533.html) - 18:00 28/08/2024
-- 🤭 [CIA nói quân đội Ukraine muốn bám trụ trên lãnh thổ Nga](https://vnexpress.net/cia-noi-quan-doi-ukraine-muon-bam-tru-tren-lanh-tho-nga-4786875.html) - 15:54 28/08/2024
-- 🧑‍💻 [Trump đổ lỗi cho chính quyền Biden về vụ ám sát hụt](https://vnexpress.net/trump-do-loi-cho-chinh-quyen-biden-ve-vu-am-sat-hut-4786881.html) - 15:39 28/08/2024
-- 🦏 [Mẹ bỏ con sơ sinh trong ôtô giữa trời nóng để đi cưỡi ngựa](https://vnexpress.net/me-bo-con-so-sinh-trong-oto-giua-troi-nong-de-di-cuoi-ngua-4786855.html) - 14:41 28/08/2024
-- 🦒 [CEO Telegram rời nhà giam, sắp trình diện tòa](https://vnexpress.net/ceo-telegram-roi-nha-giam-sap-trinh-dien-toa-4786869.html) - 14:12 28/08/2024
-- 🌈 [Thủ tướng đề nghị Quảng Tây đẩy nhanh &#39;kết nối cứng&#39; với Việt Nam](https://vnexpress.net/thu-tuong-de-nghi-quang-tay-day-nhanh-ket-noi-cung-voi-viet-nam-4786861.html) - 13:48 28/08/2024
-- 🧑‍🏫 [Nga bác ý tưởng về kế hoạch hòa bình của Tổng thống Zelensky](https://vnexpress.net/nga-bac-y-tuong-ve-ke-hoach-hoa-binh-cua-tong-thong-zelensky-4786849.html) - 12:41 28/08/2024
-- 🐲 [Thuyền trưởng siêu du thuyền Bayesian không trả lời thẩm vấn](https://vnexpress.net/thuyen-truong-sieu-du-thuyen-bayesian-khong-tra-loi-tham-van-4786845.html) - 12:04 28/08/2024
-- 🦒 [Được, mất của Ukraine với chiến dịch tấn công tỉnh Kursk](https://vnexpress.net/duoc-mat-cua-ukraine-voi-chien-dich-tan-cong-tinh-kursk-4785734.html) - 12:00 28/08/2024
-- 🐻 [Không quân Thái Lan chọn tiêm kích Gripen thay thế F-16](https://vnexpress.net/khong-quan-thai-lan-chon-tiem-kich-gripen-thay-the-f-16-4786748.html) - 11:19 28/08/2024
-- 🚀 [Người đầu tiên xông vào Đồi Capitol trong bạo loạn lĩnh hơn 4 năm tù](https://vnexpress.net/nguoi-dau-tien-xong-vao-doi-capitol-trong-bao-loan-linh-hon-4-nam-tu-4786816.html) - 10:59 28/08/2024
-- 🥰 [Đụng độ bạo lực ở Ấn Độ sau vụ nữ bác sĩ bị cưỡng bức, sát hại](https://vnexpress.net/dung-do-bao-luc-o-an-do-sau-vu-nu-bac-si-bi-cuong-buc-sat-hai-4786732.html) - 10:36 28/08/2024
-- 🔥 [Ba Lan muốn nhận F-35 trước khi chuyển thêm MiG-29 cho Ukraine](https://vnexpress.net/ba-lan-muon-nhan-f-35-truoc-khi-chuyen-them-mig-29-cho-ukraine-4786737.html) - 09:51 28/08/2024
-- 🥳 [Bé trai làm vỡ bình cổ 3.500 tuổi trong bảo tàng Israel](https://vnexpress.net/be-trai-lam-vo-binh-co-3-500-tuoi-trong-bao-tang-israel-4786741.html) - 09:20 28/08/2024
-- 💼 [Ukraine tập kích UAV, kho dầu Nga bốc cháy](https://vnexpress.net/ukraine-tap-kich-uav-kho-dau-nga-boc-chay-4786760.html) - 09:07 28/08/2024
-- 🤡 [Bảo tàng Pháp mời khách khỏa thân tới xem triển lãm](https://vnexpress.net/bao-tang-phap-moi-khach-khoa-than-toi-xem-trien-lam-4786719.html) - 08:31 28/08/2024
-- 🌁 [Hàn Quốc tuyên chiến với deepfake khiêu dâm](https://vnexpress.net/han-quoc-tuyen-chien-voi-deepfake-khieu-dam-4786694.html) - 08:29 28/08/2024
-- 🤩 [Tổng thống Nicaragua đề xuất cử chiến binh tới giúp Venezuela](https://vnexpress.net/tong-thong-nicaragua-de-xuat-cu-chien-binh-toi-giup-venezuela-4786713.html) - 08:15 28/08/2024
+- 🎭 [Những điều hy hữu trong vụ chìm du thuyền chở tỷ phú Anh](https://vnexpress.net/nhung-dieu-hy-huu-trong-vu-chim-du-thuyen-cho-ty-phu-anh-4786485.html) - 22:00 28/08/2024
+- 🕴 [CEO Telegram được tại ngoại](https://vnexpress.net/ceo-telegram-duoc-tai-ngoai-4786899.html) - 20:36 28/08/2024
+- 🤭 [Lý do phe Cộng hòa mừng hụt với lựa chọn phó tướng của bà Harris](https://vnexpress.net/ly-do-phe-cong-hoa-mung-hut-voi-lua-chon-pho-tuong-cua-ba-harris-4786533.html) - 18:00 28/08/2024
+- 🧑‍💻 [CIA nói quân đội Ukraine muốn bám trụ trên lãnh thổ Nga](https://vnexpress.net/cia-noi-quan-doi-ukraine-muon-bam-tru-tren-lanh-tho-nga-4786875.html) - 15:54 28/08/2024
+- 🦏 [Trump đổ lỗi cho chính quyền Biden về vụ ám sát hụt](https://vnexpress.net/trump-do-loi-cho-chinh-quyen-biden-ve-vu-am-sat-hut-4786881.html) - 15:39 28/08/2024
+- 🦒 [Mẹ bỏ con sơ sinh trong ôtô giữa trời nóng để đi cưỡi ngựa](https://vnexpress.net/me-bo-con-so-sinh-trong-oto-giua-troi-nong-de-di-cuoi-ngua-4786855.html) - 14:41 28/08/2024
+- 🌈 [CEO Telegram rời nhà giam, sắp trình diện tòa](https://vnexpress.net/ceo-telegram-roi-nha-giam-sap-trinh-dien-toa-4786869.html) - 14:12 28/08/2024
+- 🧑‍🏫 [Thủ tướng đề nghị Quảng Tây đẩy nhanh &#39;kết nối cứng&#39; với Việt Nam](https://vnexpress.net/thu-tuong-de-nghi-quang-tay-day-nhanh-ket-noi-cung-voi-viet-nam-4786861.html) - 13:48 28/08/2024
+- 🐲 [Nga bác ý tưởng về kế hoạch hòa bình của Tổng thống Zelensky](https://vnexpress.net/nga-bac-y-tuong-ve-ke-hoach-hoa-binh-cua-tong-thong-zelensky-4786849.html) - 12:41 28/08/2024
+- 🦒 [Thuyền trưởng siêu du thuyền Bayesian không trả lời thẩm vấn](https://vnexpress.net/thuyen-truong-sieu-du-thuyen-bayesian-khong-tra-loi-tham-van-4786845.html) - 12:04 28/08/2024
+- 🐻 [Được, mất của Ukraine với chiến dịch tấn công tỉnh Kursk](https://vnexpress.net/duoc-mat-cua-ukraine-voi-chien-dich-tan-cong-tinh-kursk-4785734.html) - 12:00 28/08/2024
+- 🚀 [Không quân Thái Lan chọn tiêm kích Gripen thay thế F-16](https://vnexpress.net/khong-quan-thai-lan-chon-tiem-kich-gripen-thay-the-f-16-4786748.html) - 11:19 28/08/2024
+- 🥰 [Người đầu tiên xông vào Đồi Capitol trong bạo loạn lĩnh hơn 4 năm tù](https://vnexpress.net/nguoi-dau-tien-xong-vao-doi-capitol-trong-bao-loan-linh-hon-4-nam-tu-4786816.html) - 10:59 28/08/2024
+- 🔥 [Đụng độ bạo lực ở Ấn Độ sau vụ nữ bác sĩ bị cưỡng bức, sát hại](https://vnexpress.net/dung-do-bao-luc-o-an-do-sau-vu-nu-bac-si-bi-cuong-buc-sat-hai-4786732.html) - 10:36 28/08/2024
+- 🥳 [Ba Lan muốn nhận F-35 trước khi chuyển thêm MiG-29 cho Ukraine](https://vnexpress.net/ba-lan-muon-nhan-f-35-truoc-khi-chuyen-them-mig-29-cho-ukraine-4786737.html) - 09:51 28/08/2024
+- 💼 [Bé trai làm vỡ bình cổ 3.500 tuổi trong bảo tàng Israel](https://vnexpress.net/be-trai-lam-vo-binh-co-3-500-tuoi-trong-bao-tang-israel-4786741.html) - 09:20 28/08/2024
+- 🤡 [Ukraine tập kích UAV, kho dầu Nga bốc cháy](https://vnexpress.net/ukraine-tap-kich-uav-kho-dau-nga-boc-chay-4786760.html) - 09:07 28/08/2024
+- 🌁 [Bảo tàng Pháp mời khách khỏa thân tới xem triển lãm](https://vnexpress.net/bao-tang-phap-moi-khach-khoa-than-toi-xem-trien-lam-4786719.html) - 08:31 28/08/2024
+- 🤩 [Hàn Quốc tuyên chiến với deepfake khiêu dâm](https://vnexpress.net/han-quoc-tuyen-chien-voi-deepfake-khieu-dam-4786694.html) - 08:29 28/08/2024
+- 🎉 [Tổng thống Nicaragua đề xuất cử chiến binh tới giúp Venezuela](https://vnexpress.net/tong-thong-nicaragua-de-xuat-cu-chien-binh-toi-giup-venezuela-4786713.html) - 08:15 28/08/2024
 - 🎉 [Tổng thống Mexico yêu cầu Mỹ, Canada &#39;học cách tôn trọng&#39;](https://vnexpress.net/tong-thong-mexico-yeu-cau-my-canada-hoc-cach-ton-trong-4786624.html) - 07:43 28/08/2024
-- 🎉 [Trump nói đã thống nhất luật tranh luận, Harris bác bỏ](https://vnexpress.net/trump-noi-da-thong-nhat-luat-tranh-luan-harris-bac-bo-4786558.html) - 07:04 28/08/2024
-- 🌁 [Bà Harris sắp lần đầu trả lời phỏng vấn kể từ khi tranh cử tổng thống](https://vnexpress.net/ba-harris-sap-lan-dau-tra-loi-phong-van-ke-tu-khi-tranh-cu-tong-thong-4786523.html) - 05:15 28/08/2024
-- 🌊 [Thị trưởng Nhật Bản muốn để dân quyết tiền thưởng nhiệm kỳ](https://vnexpress.net/thi-truong-nhat-ban-muon-de-dan-quyet-tien-thuong-nhiem-ky-4786526.html) - 04:51 28/08/2024
-- 🕴 [Băng đảng bị nghi đốt hàng chục nghìn ha mía để trả thù chính phủ](https://vnexpress.net/bang-dang-bi-nghi-dot-hang-chuc-nghin-ha-mia-de-tra-thu-chinh-phu-4786484.html) - 04:19 28/08/2024
-- 🎓 [UAV Nga theo dõi, chỉ điểm đòn tập kích &#39;tổ hợp HIMARS Ukraine&#39;](https://vnexpress.net/uav-nga-theo-doi-chi-diem-don-tap-kich-to-hop-himars-ukraine-4786520.html) - 04:01 28/08/2024
-- 🦩 [Nổ lốp máy bay, hai nhân viên hãng hàng không thiệt mạng](https://vnexpress.net/no-lop-may-bay-hai-nhan-vien-hang-hang-khong-thiet-mang-4786519.html) - 03:34 28/08/2024
-- 🌏 [Lý do bà Harris không muốn tắt mic ông Trump khi tranh luận](https://vnexpress.net/ly-do-ba-harris-khong-muon-tat-mic-ong-trump-khi-tranh-luan-4786236.html) - 03:05 28/08/2024
-- 🌋 [Bà Harris liên tiếp dẫn trước ông Trump trong khảo sát toàn quốc](https://vnexpress.net/ba-harris-lien-tiep-dan-truoc-ong-trump-trong-khao-sat-toan-quoc-4786517.html) - 03:01 28/08/2024
-- 🪜 [Ông Zelensky: Đàm phán với Nga hiện &#39;vô nghĩa&#39;](https://vnexpress.net/ong-zelensky-dam-phan-voi-nga-hien-vo-nghia-4786487.html) - 02:31 28/08/2024
-- 🕴 [Colombia truy tố đại sứ ở Nicaragua vì cáo buộc vận chuyển ma túy](https://vnexpress.net/colombia-truy-to-dai-su-o-nicaragua-vi-cao-buoc-van-chuyen-ma-tuy-4786488.html) - 02:24 28/08/2024
-- 🧑‍🏫 [Ukraine tuyên bố F-16 đã hạ mục tiêu Nga đầu tiên](https://vnexpress.net/ukraine-tuyen-bo-f-16-da-ha-muc-tieu-nga-dau-tien-4786457.html) - 01:51 28/08/2024
-- 🌮 [Ông Trump thêm Kennedy Jr. vào nhóm chuyển giao quyền lực](https://vnexpress.net/ong-trump-them-kennedy-jr-vao-nhom-chuyen-giao-quyen-luc-4786463.html) - 00:37 28/08/2024
-- 🚦 [Công tố viên ra cáo trạng mới với ông Trump vụ lật kèo bầu cử](https://vnexpress.net/cong-to-vien-ra-cao-trang-moi-voi-ong-trump-vu-lat-keo-bau-cu-4786462.html) - 00:05 28/08/2024
-- 💫 [Hezbollah đá &#39;quả bóng trả đũa&#39; Israel sang sân Iran](https://vnexpress.net/hezbollah-da-qua-bong-tra-dua-israel-sang-san-iran-4786003.html) - 22:00 27/08/2024
-- 🤡 [Ông Trump gây lo âu vì phản ứng hỗn loạn trước &#39;sóng Harris&#39;](https://vnexpress.net/ong-trump-gay-lo-au-vi-phan-ung-hon-loan-truoc-song-harris-4786015.html) - 18:00 27/08/2024
-- 🦣 [16 phút định mệnh kết thúc &#39;cuộc đời thứ hai&#39; của tỷ phú Anh](https://vnexpress.net/16-phut-dinh-menh-ket-thuc-cuoc-doi-thu-hai-cua-ty-phu-anh-4785783.html) - 17:00 27/08/2024
-- 🎬 [Israel giải cứu con tin bị giam hơn 10 tháng ở Gaza](https://vnexpress.net/israel-giai-cuu-con-tin-bi-giam-hon-10-thang-o-gaza-4786433.html) - 15:20 27/08/2024
-- 🎉 [Chủ tịch Thượng viện Australia mặc áo dài khi gặp Tổng Bí thư, Chủ tịch nước](https://vnexpress.net/chu-tich-thuong-vien-australia-mac-ao-dai-khi-gap-tong-bi-thu-chu-tich-nuoc-4786426.html) - 15:00 27/08/2024
-- 🎡 [Ukraine tuyên bố kiểm soát 100 khu dân cư ở tỉnh Kursk](https://vnexpress.net/ukraine-tuyen-bo-kiem-soat-100-khu-dan-cu-o-tinh-kursk-4786408.html) - 13:04 27/08/2024
-- 🌜 [Quy trình đặc biệt giúp CEO Telegram có quốc tịch Pháp](https://vnexpress.net/quy-trinh-dac-biet-giup-ceo-telegram-co-quoc-tich-phap-4786100.html) - 12:00 27/08/2024
-- 🎡 [Nga tuyên bố phóng tên lửa Kinzhal vào cơ sở không quân Ukraine](https://vnexpress.net/nga-tuyen-bo-phong-ten-lua-kinzhal-vao-co-so-khong-quan-ukraine-4786392.html) - 11:14 27/08/2024
-- 🤗 [Cựu thủ tướng Malaysia bị cáo buộc kích động nổi loạn](https://vnexpress.net/cuu-thu-tuong-malaysia-bi-cao-buoc-kich-dong-noi-loan-4786238.html) - 09:49 27/08/2024
-- 🦩 [Chủ tịch Hạ viện Nga cáo buộc Mỹ muốn kiểm soát Telegram](https://vnexpress.net/chu-tich-ha-vien-nga-cao-buoc-my-muon-kiem-soat-telegram-4786271.html) - 09:10 27/08/2024
-- 🎓 [Nhật phát cảnh báo về tình trạng cá heo cắn người](https://vnexpress.net/nhat-phat-canh-bao-ve-tinh-trang-ca-heo-can-nguoi-4786277.html) - 08:57 27/08/2024
-- 🌁 [Công tố viên thẩm vấn thuyền trưởng du thuyền chở tỷ phú Anh](https://vnexpress.net/cong-to-vien-tham-van-thuyen-truong-du-thuyen-cho-ty-phu-anh-4786171.html) - 07:38 27/08/2024
-- 🤩 [Bộ sưu tập tiền xu &#39;đắt nhất thế giới&#39; sắp được đấu giá](https://vnexpress.net/bo-suu-tap-tien-xu-dat-nhat-the-gioi-sap-duoc-dau-gia-4786137.html) - 06:59 27/08/2024
-- 👹 [Liên minh cánh tả Pháp đe dọa luận tội Tổng thống Macron](https://vnexpress.net/lien-minh-canh-ta-phap-de-doa-luan-toi-tong-thong-macron-4786083.html) - 05:06 27/08/2024
-- ⛽️ [Đòn tập kích giúp Hezbollah &#39;rút củi đáy nồi&#39; ở Trung Đông](https://vnexpress.net/don-tap-kich-giup-hezbollah-rut-cui-day-noi-o-trung-dong-4785603.html) - 04:53 27/08/2024
-- 🚀 [Phiến quân thân al-Qaeda sát hại hơn 100 người ở quốc gia châu Phi](https://vnexpress.net/phien-quan-than-al-qaeda-sat-hai-hon-100-nguoi-o-quoc-gia-chau-phi-4786084.html) - 04:27 27/08/2024
-- 🎡 [Taliban cấm phụ nữ nói chuyện nơi công cộng](https://vnexpress.net/taliban-cam-phu-nu-noi-chuyen-noi-cong-cong-4786030.html) - 03:59 27/08/2024
-- 🕯 [Loạt tên lửa hành trình, UAV Nga tiếp tục tấn công Ukraine](https://vnexpress.net/loat-ten-lua-hanh-trinh-uav-nga-tiep-tuc-tan-cong-ukraine-4786128.html) - 03:57 27/08/2024
-- 🐻 [Đài truyền hình Ukraine mất điện trên sóng trực tiếp khi Nga tập kích](https://vnexpress.net/dai-truyen-hinh-ukraine-mat-dien-tren-song-truc-tiep-khi-nga-tap-kich-4786032.html) - 03:14 27/08/2024
-- 🚦 [Trump - Harris tranh cãi về luật tranh luận](https://vnexpress.net/trump-harris-tranh-cai-ve-luat-tranh-luan-4786049.html) - 03:10 27/08/2024
-- 👍 [Ông Trump nói sẽ dựng lá chắn tên lửa khắp nước Mỹ](https://vnexpress.net/ong-trump-noi-se-dung-la-chan-ten-lua-khap-nuoc-my-4786033.html) - 02:39 27/08/2024
-- 🚀 [Đòn tập kích thể hiện năng lực của Hạm đội Biển Đen Nga](https://vnexpress.net/don-tap-kich-the-hien-nang-luc-cua-ham-doi-bien-den-nga-4786037.html) - 02:02 27/08/2024
-- 🌮 [LHQ cảnh báo về mực nước biển Thái Bình Dương dâng cao](https://vnexpress.net/lhq-canh-bao-ve-muc-nuoc-bien-thai-binh-duong-dang-cao-4785988.html) - 00:32 27/08/2024
-- 😎 [Công tố viên muốn nối lại truy tố ông Trump vụ tài liệu mật](https://vnexpress.net/cong-to-vien-muon-noi-lai-truy-to-ong-trump-vu-tai-lieu-mat-4785987.html) - 00:09 27/08/2024
-- 🐲 [Đồng minh tìm cách duy trì động lực tranh cử cho ông Trump](https://vnexpress.net/dong-minh-tim-cach-duy-tri-dong-luc-tranh-cu-cho-ong-trump-4785577.html) - 22:00 26/08/2024
-- 💫 [Ông Zelensky: Nga phóng hơn 200 tên lửa, UAV vào Ukraine trong một ngày](https://vnexpress.net/ong-zelensky-nga-phong-hon-200-ten-lua-uav-vao-ukraine-trong-mot-ngay-4785963.html) - 17:20 26/08/2024
-- 👀 [Nhật cáo buộc máy bay Trung Quốc xâm phạm không phận](https://vnexpress.net/nhat-cao-buoc-may-bay-trung-quoc-xam-pham-khong-phan-4785940.html) - 16:16 26/08/2024<!-- vnexpress-the-gioi:END -->
+- 🌁 [Trump nói đã thống nhất luật tranh luận, Harris bác bỏ](https://vnexpress.net/trump-noi-da-thong-nhat-luat-tranh-luan-harris-bac-bo-4786558.html) - 07:04 28/08/2024
+- 🌊 [Bà Harris sắp lần đầu trả lời phỏng vấn kể từ khi tranh cử tổng thống](https://vnexpress.net/ba-harris-sap-lan-dau-tra-loi-phong-van-ke-tu-khi-tranh-cu-tong-thong-4786523.html) - 05:15 28/08/2024
+- 🕴 [Thị trưởng Nhật Bản muốn để dân quyết tiền thưởng nhiệm kỳ](https://vnexpress.net/thi-truong-nhat-ban-muon-de-dan-quyet-tien-thuong-nhiem-ky-4786526.html) - 04:51 28/08/2024
+- 🎓 [Băng đảng bị nghi đốt hàng chục nghìn ha mía để trả thù chính phủ](https://vnexpress.net/bang-dang-bi-nghi-dot-hang-chuc-nghin-ha-mia-de-tra-thu-chinh-phu-4786484.html) - 04:19 28/08/2024
+- 🦩 [UAV Nga theo dõi, chỉ điểm đòn tập kích &#39;tổ hợp HIMARS Ukraine&#39;](https://vnexpress.net/uav-nga-theo-doi-chi-diem-don-tap-kich-to-hop-himars-ukraine-4786520.html) - 04:01 28/08/2024
+- 🌏 [Nổ lốp máy bay, hai nhân viên hãng hàng không thiệt mạng](https://vnexpress.net/no-lop-may-bay-hai-nhan-vien-hang-hang-khong-thiet-mang-4786519.html) - 03:34 28/08/2024
+- 🌋 [Lý do bà Harris không muốn tắt mic ông Trump khi tranh luận](https://vnexpress.net/ly-do-ba-harris-khong-muon-tat-mic-ong-trump-khi-tranh-luan-4786236.html) - 03:05 28/08/2024
+- 🪜 [Bà Harris liên tiếp dẫn trước ông Trump trong khảo sát toàn quốc](https://vnexpress.net/ba-harris-lien-tiep-dan-truoc-ong-trump-trong-khao-sat-toan-quoc-4786517.html) - 03:01 28/08/2024
+- 🕴 [Ông Zelensky: Đàm phán với Nga hiện &#39;vô nghĩa&#39;](https://vnexpress.net/ong-zelensky-dam-phan-voi-nga-hien-vo-nghia-4786487.html) - 02:31 28/08/2024
+- 🧑‍🏫 [Colombia truy tố đại sứ ở Nicaragua vì cáo buộc vận chuyển ma túy](https://vnexpress.net/colombia-truy-to-dai-su-o-nicaragua-vi-cao-buoc-van-chuyen-ma-tuy-4786488.html) - 02:24 28/08/2024
+- 🌮 [Ukraine tuyên bố F-16 đã hạ mục tiêu Nga đầu tiên](https://vnexpress.net/ukraine-tuyen-bo-f-16-da-ha-muc-tieu-nga-dau-tien-4786457.html) - 01:51 28/08/2024
+- 🚦 [Ông Trump thêm Kennedy Jr. vào nhóm chuyển giao quyền lực](https://vnexpress.net/ong-trump-them-kennedy-jr-vao-nhom-chuyen-giao-quyen-luc-4786463.html) - 00:37 28/08/2024
+- 💫 [Công tố viên ra cáo trạng mới với ông Trump vụ lật kèo bầu cử](https://vnexpress.net/cong-to-vien-ra-cao-trang-moi-voi-ong-trump-vu-lat-keo-bau-cu-4786462.html) - 00:05 28/08/2024
+- 🤡 [Hezbollah đá &#39;quả bóng trả đũa&#39; Israel sang sân Iran](https://vnexpress.net/hezbollah-da-qua-bong-tra-dua-israel-sang-san-iran-4786003.html) - 22:00 27/08/2024
+- 🦣 [Ông Trump gây lo âu vì phản ứng hỗn loạn trước &#39;sóng Harris&#39;](https://vnexpress.net/ong-trump-gay-lo-au-vi-phan-ung-hon-loan-truoc-song-harris-4786015.html) - 18:00 27/08/2024
+- 🎬 [16 phút định mệnh kết thúc &#39;cuộc đời thứ hai&#39; của tỷ phú Anh](https://vnexpress.net/16-phut-dinh-menh-ket-thuc-cuoc-doi-thu-hai-cua-ty-phu-anh-4785783.html) - 17:00 27/08/2024
+- 🎉 [Israel giải cứu con tin bị giam hơn 10 tháng ở Gaza](https://vnexpress.net/israel-giai-cuu-con-tin-bi-giam-hon-10-thang-o-gaza-4786433.html) - 15:20 27/08/2024
+- 🎡 [Chủ tịch Thượng viện Australia mặc áo dài khi gặp Tổng Bí thư, Chủ tịch nước](https://vnexpress.net/chu-tich-thuong-vien-australia-mac-ao-dai-khi-gap-tong-bi-thu-chu-tich-nuoc-4786426.html) - 15:00 27/08/2024
+- 🌜 [Ukraine tuyên bố kiểm soát 100 khu dân cư ở tỉnh Kursk](https://vnexpress.net/ukraine-tuyen-bo-kiem-soat-100-khu-dan-cu-o-tinh-kursk-4786408.html) - 13:04 27/08/2024
+- 🎡 [Quy trình đặc biệt giúp CEO Telegram có quốc tịch Pháp](https://vnexpress.net/quy-trinh-dac-biet-giup-ceo-telegram-co-quoc-tich-phap-4786100.html) - 12:00 27/08/2024
+- 🤗 [Nga tuyên bố phóng tên lửa Kinzhal vào cơ sở không quân Ukraine](https://vnexpress.net/nga-tuyen-bo-phong-ten-lua-kinzhal-vao-co-so-khong-quan-ukraine-4786392.html) - 11:14 27/08/2024
+- 🦩 [Cựu thủ tướng Malaysia bị cáo buộc kích động nổi loạn](https://vnexpress.net/cuu-thu-tuong-malaysia-bi-cao-buoc-kich-dong-noi-loan-4786238.html) - 09:49 27/08/2024
+- 🎓 [Chủ tịch Hạ viện Nga cáo buộc Mỹ muốn kiểm soát Telegram](https://vnexpress.net/chu-tich-ha-vien-nga-cao-buoc-my-muon-kiem-soat-telegram-4786271.html) - 09:10 27/08/2024
+- 🌁 [Nhật phát cảnh báo về tình trạng cá heo cắn người](https://vnexpress.net/nhat-phat-canh-bao-ve-tinh-trang-ca-heo-can-nguoi-4786277.html) - 08:57 27/08/2024
+- 🤩 [Công tố viên thẩm vấn thuyền trưởng du thuyền chở tỷ phú Anh](https://vnexpress.net/cong-to-vien-tham-van-thuyen-truong-du-thuyen-cho-ty-phu-anh-4786171.html) - 07:38 27/08/2024
+- 👹 [Bộ sưu tập tiền xu &#39;đắt nhất thế giới&#39; sắp được đấu giá](https://vnexpress.net/bo-suu-tap-tien-xu-dat-nhat-the-gioi-sap-duoc-dau-gia-4786137.html) - 06:59 27/08/2024
+- ⛽️ [Liên minh cánh tả Pháp đe dọa luận tội Tổng thống Macron](https://vnexpress.net/lien-minh-canh-ta-phap-de-doa-luan-toi-tong-thong-macron-4786083.html) - 05:06 27/08/2024
+- 🚀 [Đòn tập kích giúp Hezbollah &#39;rút củi đáy nồi&#39; ở Trung Đông](https://vnexpress.net/don-tap-kich-giup-hezbollah-rut-cui-day-noi-o-trung-dong-4785603.html) - 04:53 27/08/2024
+- 🎡 [Phiến quân thân al-Qaeda sát hại hơn 100 người ở quốc gia châu Phi](https://vnexpress.net/phien-quan-than-al-qaeda-sat-hai-hon-100-nguoi-o-quoc-gia-chau-phi-4786084.html) - 04:27 27/08/2024
+- 🕯 [Taliban cấm phụ nữ nói chuyện nơi công cộng](https://vnexpress.net/taliban-cam-phu-nu-noi-chuyen-noi-cong-cong-4786030.html) - 03:59 27/08/2024
+- 🐻 [Loạt tên lửa hành trình, UAV Nga tiếp tục tấn công Ukraine](https://vnexpress.net/loat-ten-lua-hanh-trinh-uav-nga-tiep-tuc-tan-cong-ukraine-4786128.html) - 03:57 27/08/2024
+- 🚦 [Đài truyền hình Ukraine mất điện trên sóng trực tiếp khi Nga tập kích](https://vnexpress.net/dai-truyen-hinh-ukraine-mat-dien-tren-song-truc-tiep-khi-nga-tap-kich-4786032.html) - 03:14 27/08/2024
+- 👍 [Trump - Harris tranh cãi về luật tranh luận](https://vnexpress.net/trump-harris-tranh-cai-ve-luat-tranh-luan-4786049.html) - 03:10 27/08/2024
+- 🚀 [Ông Trump nói sẽ dựng lá chắn tên lửa khắp nước Mỹ](https://vnexpress.net/ong-trump-noi-se-dung-la-chan-ten-lua-khap-nuoc-my-4786033.html) - 02:39 27/08/2024
+- 🌮 [Đòn tập kích thể hiện năng lực của Hạm đội Biển Đen Nga](https://vnexpress.net/don-tap-kich-the-hien-nang-luc-cua-ham-doi-bien-den-nga-4786037.html) - 02:02 27/08/2024
+- 😎 [LHQ cảnh báo về mực nước biển Thái Bình Dương dâng cao](https://vnexpress.net/lhq-canh-bao-ve-muc-nuoc-bien-thai-binh-duong-dang-cao-4785988.html) - 00:32 27/08/2024
+- 🐲 [Công tố viên muốn nối lại truy tố ông Trump vụ tài liệu mật](https://vnexpress.net/cong-to-vien-muon-noi-lai-truy-to-ong-trump-vu-tai-lieu-mat-4785987.html) - 00:09 27/08/2024
+- 💫 [Đồng minh tìm cách duy trì động lực tranh cử cho ông Trump](https://vnexpress.net/dong-minh-tim-cach-duy-tri-dong-luc-tranh-cu-cho-ong-trump-4785577.html) - 22:00 26/08/2024
+- 👀 [Ông Zelensky: Nga phóng hơn 200 tên lửa, UAV vào Ukraine trong một ngày](https://vnexpress.net/ong-zelensky-nga-phong-hon-200-ten-lua-uav-vao-ukraine-trong-mot-ngay-4785963.html) - 17:20 26/08/2024<!-- vnexpress-the-gioi:END -->
