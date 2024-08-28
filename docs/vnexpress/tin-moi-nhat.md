@@ -6,7 +6,7 @@ sidebar_position: 9
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Kỳ Duyên bỏ dở bài thi nói ở Miss Universe](https://vnexpress.net/ky-duyen-bo-do-bai-thi-noi-o-miss-universe-4786890.html) - 17:10 28/08/2024
 - 🐎 [5 điểm du lịch trong ngày từ TP HCM dịp 2/9](https://vnexpress.net/5-diem-du-lich-trong-ngay-tu-tp-hcm-dip-2-9-4786336.html) - 17:09 28/08/2024
-- 🦍 [Trường quốc tế phá sản](https://vnexpress.net/truong-quoc-te-pha-san-4786892.html) - 17:07 28/08/2024
+- 🦍 [Trường quốc tế giải thể](https://vnexpress.net/truong-quoc-te-giai-the-4786892.html) - 17:07 28/08/2024
 - 🏊 [Giá thuê đất công nghiệp phía Bắc cao hơn phía Nam 20%](https://vnexpress.net/gia-thue-dat-cong-nghiep-phia-bac-cao-hon-phia-nam-20-4786534.html) - 17:04 28/08/2024
 - 🎊 [Cô gái rối loạn lo âu bởi thủ dâm](https://vnexpress.net/co-gai-roi-loan-lo-au-boi-thu-dam-4777872.html) - 17:03 28/08/2024
 - 🎃 [Tập đoàn giao thông Trung Quốc muốn tham gia đường sắt cao tốc Bắc Nam](https://vnexpress.net/tap-doan-giao-thong-trung-quoc-muon-tham-gia-duong-sat-cao-toc-bac-nam-4786884.html) - 17:02 28/08/2024
