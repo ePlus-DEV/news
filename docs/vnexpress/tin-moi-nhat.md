@@ -41,7 +41,7 @@ sidebar_position: 9
 - 🦏 [Hàng trăm người tham gia sự kiện của Citizen Pathway](https://vnexpress.net/hang-tram-nguoi-tham-gia-su-kien-cua-citizen-pathway-4785868.html) - 12:00 28/08/2024
 - 🦩 [Ca sĩ nhóm NCT bị điều tra án tình dục](https://vnexpress.net/ca-si-nhom-nct-bi-dieu-tra-an-tinh-duc-4786846.html) - 11:57 28/08/2024
 - 👺 [Loạt sai phạm khi cổ phần hóa, thoái vốn tại DIC Group](https://vnexpress.net/loat-sai-pham-khi-co-phan-hoa-thoai-von-tai-dic-group-4786674.html) - 11:56 28/08/2024
-- 🧑‍🏫 [Vì sao Phó chánh văn phòng UBND tỉnh Quảng Trị bị bắt](https://vnexpress.net/vi-sao-pho-chanh-van-phong-ubnd-tinh-quang-tri-bi-bat-4786728.html) - 11:50 28/08/2024
+- 🧑‍🏫 [Chèn trái phép link quảng cáo vào trang web lập cho khách hàng](https://vnexpress.net/chen-trai-phep-link-quang-cao-vao-trang-web-lap-cho-khach-hang-4786728.html) - 11:50 28/08/2024
 - 😎 [Australia áp trần tuyển du học sinh](https://vnexpress.net/australia-ap-tran-tuyen-du-hoc-sinh-4786452.html) - 11:26 28/08/2024
 - 🪄 [Người đàn ông tử vong khi bị xe tải cán qua hai lần](https://vnexpress.net/nguoi-dan-ong-tu-vong-khi-bi-xe-tai-can-qua-hai-lan-4786831.html) - 11:21 28/08/2024
 - 🏊 [Không quân Thái Lan chọn tiêm kích Gripen thay thế F-16](https://vnexpress.net/khong-quan-thai-lan-chon-tiem-kich-gripen-thay-the-f-16-4786748.html) - 11:19 28/08/2024
