@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [&#39;Xử lý trách nhiệm người đứng đầu nếu thiếu quyết liệt chống khai thác IUU&#39;](https://vnexpress.net/xu-ly-trach-nhiem-nguoi-dung-dau-neu-thieu-quyet-liet-chong-khai-thac-iuu-4786850.html) - 14:22 28/08/2024
+- 🦒 [&#39;Xử lý trách nhiệm người đứng đầu nếu thiếu quyết liệt chống khai thác hải sản trái phép&#39;](https://vnexpress.net/xu-ly-trach-nhiem-nguoi-dung-dau-neu-thieu-quyet-liet-chong-khai-thac-hai-san-trai-phep-4786850.html) - 14:22 28/08/2024
 - 🤓 [Người đàn ông tử vong khi bị xe tải cán qua hai lần](https://vnexpress.net/nguoi-dan-ong-tu-vong-khi-bi-xe-tai-can-qua-hai-lan-4786831.html) - 11:21 28/08/2024
 - ⚗️ [&#39;Cần đơn giản hóa cấp phép tàu bay không người lái cho mục đích giải trí&#39;](https://vnexpress.net/can-don-gian-hoa-cap-phep-tau-bay-khong-nguoi-lai-cho-muc-dich-giai-tri-4786830.html) - 11:09 28/08/2024
 - 🌊 [Trình chiếu 3D mapping kỷ niệm ngày truyền thống ngành Thông tin và Truyền thông](https://vnexpress.net/trinh-chieu-3d-mapping-ky-niem-ngay-truyen-thong-nganh-thong-tin-va-truyen-thong-4786818.html) - 10:59 28/08/2024
