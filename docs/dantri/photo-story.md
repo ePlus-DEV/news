@@ -4,7 +4,7 @@ sidebar_position: 28
 ---
 
 <!-- dantri-photo-story:START -->
-- 💪 [Đoàn khách 4.500 người của tỷ phú Ấn Độ đổ bộ tham quan di sản Tràng An](https://dantri.com.vn/du-lich/doan-khach-4500-nguoi-cua-ty-phu-an-do-do-bo-tham-quan-di-san-trang-an-20240828140500265.htm) - 08:04 28/08/2024
+- 💪 [Đoàn khách 4.500 người của tỷ phú Ấn Độ hào hứng tham quan di sản Tràng An](https://dantri.com.vn/du-lich/doan-khach-4500-nguoi-cua-ty-phu-an-do-hao-hung-tham-quan-di-san-trang-an-20240828140500265.htm) - 08:04 28/08/2024
 - 🧰 [Giới trẻ đổ xô check-in phố lồng đèn lớn nhất TPHCM dịp Trung thu](https://dantri.com.vn/van-hoa/gioi-tre-do-xo-check-in-pho-long-den-lon-nhat-tphcm-dip-trung-thu-20240827213239707.htm) - 01:52 28/08/2024
 - 🧰 [Ngắm tượng đài &quot;Con tàu tập kết ra Bắc&quot; sắp hoàn thiện](https://dantri.com.vn/xa-hoi/ngam-tuong-dai-con-tau-tap-ket-ra-bac-sap-hoan-thien-20240827173730935.htm) - 01:12 28/08/2024
 - 😎 [Những bóng hồng xinh đẹp trên sân pickleball ở Hà Nội](https://dantri.com.vn/doi-song/nhung-bong-hong-xinh-dep-tren-san-pickleball-o-ha-noi-20240826022817849.htm) - 23:11 27/08/2024
