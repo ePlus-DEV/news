@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- dantri-an-sinh:START -->
-- 👺 [Ngành Lao động - Thương binh và Xã Hội, 79 năm với sứ mệnh cao cả](https://dantri.com.vn/an-sinh/nganh-lao-dong-thuong-binh-va-xa-hoi-79-nam-voi-su-menh-cao-ca-20240828132011685.htm) - 06:39 28/08/2024
+- 👺 [Ngành Lao động - Thương binh và Xã hội, 79 năm với sứ mệnh cao cả](https://dantri.com.vn/an-sinh/nganh-lao-dong-thuong-binh-va-xa-hoi-79-nam-voi-su-menh-cao-ca-20240828132011685.htm) - 06:39 28/08/2024
 - 👀 [Những khoản trợ cấp được tính theo mức lương tham chiếu mới](https://dantri.com.vn/an-sinh/nhung-khoan-tro-cap-duoc-tinh-theo-muc-luong-tham-chieu-moi-20240826111247004.htm) - 06:31 28/08/2024
 - 💡 [Lịch nghỉ lễ 2/9/2024: Nguyện vọng nghỉ thêm 2 ngày cần xem xét kỹ lưỡng](https://dantri.com.vn/an-sinh/lich-nghi-le-292024-nguyen-vong-nghi-them-2-ngay-can-xem-xet-ky-luong-20240827065913439.htm) - 23:00 27/08/2024
 - 💄 [Vụ bé gái 13 tuổi bất ngờ có thai: Kiến nghị xử lý nghiêm cha dượng](https://dantri.com.vn/an-sinh/vu-be-gai-13-tuoi-bat-ngo-co-thai-kien-nghi-xu-ly-nghiem-cha-duong-20240827154456303.htm) - 09:36 27/08/2024
