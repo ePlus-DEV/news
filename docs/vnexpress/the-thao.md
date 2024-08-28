@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Ngôi sao cầu lông Antonsen sa thải HLV vì cá độ](https://vnexpress.net/ngoi-sao-cau-long-antonsen-sa-thai-hlv-vi-ca-do-4786847.html) - 12:31 28/08/2024
-- 🦩 [Bóng ma chấn thương che khuất chiến thắng của Barca](https://vnexpress.net/bong-ma-chan-thuong-che-khuat-chien-thang-cua-barca-4786747.html) - 10:24 28/08/2024
-- 🧰 [Paralympic 2024 khai mạc hôm nay](https://vnexpress.net/paralympic-2024-khai-mac-hom-nay-4786738.html) - 10:05 28/08/2024
-- 🤗 [Kênh YouTube của Ronaldo lập kỷ lục Guinness](https://vnexpress.net/kenh-youtube-cua-ronaldo-lap-ky-luc-guinness-4786733.html) - 09:30 28/08/2024
-- 🥳 [Tân vương PGA Tour 2024 lộ diện cuối tuần này](https://vnexpress.net/tan-vuong-pga-tour-2024-lo-dien-cuoi-tuan-nay-4786697.html) - 07:13 28/08/2024
-- 🦣 [Đổ bể thương vụ Đặng Văn Lâm về PVF CAND](https://vnexpress.net/do-be-thuong-vu-dang-van-lam-ve-pvf-cand-4786658.html) - 05:51 28/08/2024
-- 🌜 [Giải half marathon lâu đời nhất thế giới](https://vnexpress.net/giai-half-marathon-lau-doi-nhat-the-gioi-4786566.html) - 05:50 28/08/2024
-- 🫶 [Kyrgios chỉ trích chú Nadal vì bảo vệ Sinner](https://vnexpress.net/kyrgios-chi-trich-chu-nadal-vi-bao-ve-sinner-4786644.html) - 05:19 28/08/2024
-- 🌜 [Thiago Motta - kẻ mộng mơ với khát vọng phục sinh Juventus](https://vnexpress.net/thiago-motta-ke-mong-mo-voi-khat-vong-phuc-sinh-juventus-4786642.html) - 05:14 28/08/2024
-- 😺 [Ronaldo muốn tái hợp Zidane](https://vnexpress.net/ronaldo-muon-tai-hop-zidane-4786622.html) - 05:03 28/08/2024
-- 👍 [Man Utd chờ đợi gì từ &#39;Kante mới&#39;?](https://vnexpress.net/man-utd-cho-doi-gi-tu-kante-moi-4786521.html) - 05:00 28/08/2024
-- 🐵 [Cái kết lạ trong trận dài nhất lịch sử Mỹ Mở rộng](https://vnexpress.net/cai-ket-la-trong-tran-dai-nhat-lich-su-my-mo-rong-4786578.html) - 04:12 28/08/2024
-- 💫 [Alcaraz tốn bốn set để qua vòng đầu Mỹ Mở rộng](https://vnexpress.net/alcaraz-ton-bon-set-de-qua-vong-dau-my-mo-rong-4786555.html) - 03:00 28/08/2024
-- 🦆 [Sinner thắng ngược ở vòng 1 Mỹ Mở rộng 2024](https://vnexpress.net/sinner-thang-nguoc-o-vong-1-my-mo-rong-2024-4786516.html) - 01:55 28/08/2024
-- 🙉 [Ronaldo được UEFA vinh danh](https://vnexpress.net/ronaldo-duoc-uefa-vinh-danh-4786493.html) - 01:26 28/08/2024
-- 📝 [Chelsea sắp đổi Sterling lấy Sancho từ Man Utd](https://vnexpress.net/chelsea-sap-doi-sterling-lay-sancho-tu-man-utd-4786475.html) - 00:44 28/08/2024
-- 💯 [AFF Cup 2024 dời ngày](https://vnexpress.net/aff-cup-2024-doi-ngay-4785702.html) - 00:23 28/08/2024
-- 🌈 [Ronaldo ghi bàn đá phạt thứ 64](https://vnexpress.net/ronaldo-ghi-ban-da-phat-thu-64-4786459.html) - 23:06 27/08/2024
-- 🦩 [Vua phá lưới Euro 2024 ghi bàn ngay trận ra mắt Barca](https://vnexpress.net/vua-pha-luoi-euro-2024-ghi-ban-ngay-tran-ra-mat-barca-4786458.html) - 22:59 27/08/2024
-- 🐲 [Kipchoge có thể chạy marathon sub1:15 trên Sao Hỏa](https://vnexpress.net/kipchoge-co-the-chay-marathon-sub1-15-tren-sao-hoa-4786174.html) - 22:00 27/08/2024
-- 🌁 [Arsenal công bố nhà vô địch Euro 2024](https://vnexpress.net/arsenal-cong-bo-nha-vo-dich-euro-2024-4786443.html) - 15:46 27/08/2024
-- 💯 [Chelsea tiễn Lukaku sang Napoli](https://vnexpress.net/chelsea-tien-lukaku-sang-napoli-4786413.html) - 13:23 27/08/2024
-- 🌝 [Cựu vô địch US Open mắng trọng tài &#39;độc ác&#39;](https://vnexpress.net/cuu-vo-dich-us-open-mang-trong-tai-doc-ac-4786352.html) - 10:31 27/08/2024
-- 🤖 [Alcaraz hy vọng nối bước Djokovic](https://vnexpress.net/alcaraz-hy-vong-noi-buoc-djokovic-4786376.html) - 10:26 27/08/2024
-- 🕯 [Man Utd đón tân binh thứ năm](https://vnexpress.net/man-utd-don-tan-binh-thu-nam-4786347.html) - 09:29 27/08/2024
-- 🧰 [Bellingham xây khu biệt thự 10 triệu USD](https://vnexpress.net/bellingham-xay-khu-biet-thu-10-trieu-usd-4786299.html) - 09:04 27/08/2024
-- 🥳 [Thái Lan vắng nhiều ngôi sao khi đấu Việt Nam và Nga](https://vnexpress.net/thai-lan-vang-nhieu-ngoi-sao-khi-dau-viet-nam-va-nga-4786281.html) - 08:25 27/08/2024
-- 👍 [UEFA bơm tiền nhiều chưa từng thấy vào Champions League](https://vnexpress.net/uefa-bom-tien-nhieu-chua-tung-thay-vao-champions-league-4786148.html) - 07:58 27/08/2024
-- 💪 [Cấm HLV và trọng tài vụ gian lận huy chương karate trẻ TP HCM](https://vnexpress.net/cam-hlv-va-trong-tai-vu-gian-lan-huy-chuong-karate-tre-tp-hcm-4786230.html) - 07:00 27/08/2024
-- 👹 [Mật vụ kể chuyện chạy bộ cùng Tổng thống Mỹ](https://vnexpress.net/mat-vu-ke-chuyen-chay-bo-cung-tong-thong-my-4786206.html) - 06:14 27/08/2024
-- 🧰 [Djokovic mắc 10 lỗi kép ở vòng đầu Mỹ Mở rộng](https://vnexpress.net/djokovic-mac-10-loi-kep-o-vong-dau-my-mo-rong-4786199.html) - 05:28 27/08/2024
-- 🚀 [Rune thua ngay vòng một Mỹ Mở rộng](https://vnexpress.net/rune-thua-ngay-vong-mot-my-mo-rong-4786192.html) - 05:28 27/08/2024
-- 🎃 [Ronaldo chưa muốn giã từ tuyển Bồ Đào Nha](https://vnexpress.net/ronaldo-chua-muon-gia-tu-tuyen-bo-dao-nha-4786163.html) - 04:35 27/08/2024
-- 🧰 [Barca đăng ký Vua phá lưới Euro nhờ quy định chấn thương](https://vnexpress.net/barca-dang-ky-vua-pha-luoi-euro-nho-quy-dinh-chan-thuong-4786109.html) - 03:43 27/08/2024
-- 👀 [Kim Kardashian dự khán trận của Real Madrid](https://vnexpress.net/kim-kardashian-du-khan-tran-cua-real-madrid-4786132.html) - 03:39 27/08/2024
-- 🌜 [Rio Ferdinand chỉ trích Man Utd vì bán &#39;gà nhà&#39;](https://vnexpress.net/rio-ferdinand-chi-trich-man-utd-vi-ban-ga-nha-4786006.html) - 03:35 27/08/2024
-- 🫶 [32 đội thi vào vòng loại giải đấu sinh viên toàn quốc UEC2024 MLBB](https://vnexpress.net/32-doi-thi-vao-vong-loai-giai-dau-sinh-vien-toan-quoc-uec2024-mlbb-4786125.html) - 03:30 27/08/2024
-- 🦄 [Sterling khao khát gia nhập Man Utd](https://vnexpress.net/sterling-khao-khat-gia-nhap-man-utd-4786107.html) - 03:27 27/08/2024
-- 🥳 [Cuộc đời lạc quan của HLV Sven-Goran Eriksson](https://vnexpress.net/cuoc-doi-lac-quan-cua-hlv-sven-goran-eriksson-4785943.html) - 01:33 27/08/2024
-- 🐲 [Juventus chạm mốc hiếm tại Serie A sau 14 năm](https://vnexpress.net/juventus-cham-moc-hiem-tai-serie-a-sau-14-nam-4786031.html) - 01:29 27/08/2024
-- 🧑‍🏫 [Phó Chủ tịch PBA: &#39;Lệnh cấm với billiards Việt Nam là vô căn cứ&#39;](https://vnexpress.net/pho-chu-tich-pba-lenh-cam-voi-billiards-viet-nam-la-vo-can-cu-4785939.html) - 01:27 27/08/2024
-- 🤔 [Liverpool mua thủ môn hiện tượng Euro 2024](https://vnexpress.net/liverpool-mua-thu-mon-hien-tuong-euro-2024-4785994.html) - 01:14 27/08/2024
-- 😺 [Vì sao Verstappen bị Norris bỏ quá xa tại Grand Prix Hà Lan?](https://vnexpress.net/vi-sao-verstappen-bi-norris-bo-qua-xa-tai-grand-prix-ha-lan-4785816.html) - 00:16 27/08/2024
-- 💪 [Nữ tiền đạo Ireland nổi tiếng nhờ ngoại hình giống Megan Fox](https://vnexpress.net/nu-tien-dao-ireland-noi-tieng-nho-ngoai-hinh-giong-megan-fox-4785990.html) - 23:43 26/08/2024
-- 💼 [Barca từ chối Neymar](https://vnexpress.net/barca-tu-choi-neymar-4785976.html) - 17:00 26/08/2024
-- 🕴 [Thế giới bóng đá thương tiếc HLV Eriksson](https://vnexpress.net/the-gioi-bong-da-thuong-tiec-hlv-eriksson-4785966.html) - 17:00 26/08/2024
-- 🕯 [HLV Sven-Goran Eriksson qua đời](https://vnexpress.net/hlv-sven-goran-eriksson-qua-doi-4785932.html) - 11:37 26/08/2024
-- 📝 [Liên đoàn Karate TP HCM bác bỏ tố cáo nhường huy chương](https://vnexpress.net/lien-doan-karate-tp-hcm-bac-bo-to-cao-nhuong-huy-chuong-4785893.html) - 10:33 26/08/2024
-- 🧐 [Guardiola: &#39;Không thể thay thế Haaland&#39;](https://vnexpress.net/guardiola-khong-the-thay-the-haaland-4785849.html) - 10:04 26/08/2024
-- 🙉 [Cầu thủ Chelsea khuyên huyền thoại &#39;ngậm miệng&#39;](https://vnexpress.net/cau-thu-chelsea-khuyen-huyen-thoai-ngam-mieng-4785817.html) - 09:51 26/08/2024
-- 🏊 [Kình ngư Sun Yang đoạt danh hiệu sau bốn năm bị cấm thi đấu](https://vnexpress.net/kinh-ngu-sun-yang-doat-danh-hieu-sau-bon-nam-bi-cam-thi-dau-4785860.html) - 09:40 26/08/2024
-- 🌊 [Lilia Vu vuột cup ở major Women’s Open 2024](https://vnexpress.net/lilia-vu-vuot-cup-o-major-women-s-open-2024-4785826.html) - 07:50 26/08/2024
-- 👨‍🏫 [7 điểm nhấn ở vòng 2 giải Ngoại hạng Anh](https://vnexpress.net/7-diem-nhan-o-vong-2-giai-ngoai-hang-anh-4785755.html) - 07:25 26/08/2024
-- 🥷 [Màn đổ máu vẫn ghi birdie ấn tượng trên PGA Tour](https://vnexpress.net/man-do-mau-van-ghi-birdie-an-tuong-tren-pga-tour-4785908.html) - 07:16 26/08/2024
-- ⚗️ [Tương quan giải Mỹ Mở rộng 2024](https://vnexpress.net/tuong-quan-giai-my-mo-rong-2024-4785747.html) - 07:04 26/08/2024
-- 🌮 [Hồng Lệ bất ngờ khi vô địch giải marathon Thái Lan](https://vnexpress.net/hong-le-bat-ngo-khi-vo-dich-giai-marathon-thai-lan-4785750.html) - 05:04 26/08/2024
-- 🤩 [Djokovic – người phá vỡ các giới hạn của tennis](https://vnexpress.net/djokovic-nguoi-pha-vo-cac-gioi-han-cua-tennis-4785712.html) - 04:22 26/08/2024
-- 🏊 [U22 Việt Nam gọi 27 cầu thủ cho giải giao hữu ở Trung Quốc](https://vnexpress.net/u22-viet-nam-goi-27-cau-thu-cho-giai-giao-huu-o-trung-quoc-4785728.html) - 04:20 26/08/2024
-- 🐎 [Tân HLV Liverpool đi vào lịch sử Ngoại hạng Anh](https://vnexpress.net/tan-hlv-liverpool-di-vao-lich-su-ngoai-hang-anh-4785634.html) - 04:15 26/08/2024
-- 💫 [Kỷ lục chạy 3.000m bị phá sau 28 năm](https://vnexpress.net/ky-luc-chay-3-000m-bi-pha-sau-28-nam-4785696.html) - 04:10 26/08/2024<!-- vnexpress-the-thao:END -->
+- 🪜 [Liverpool mua Chiesa với giá 14 triệu USD](https://vnexpress.net/liverpool-mua-chiesa-voi-gia-14-trieu-usd-4786858.html) - 13:06 28/08/2024
+- 🦩 [Ngôi sao cầu lông Antonsen sa thải HLV vì cá độ](https://vnexpress.net/ngoi-sao-cau-long-antonsen-sa-thai-hlv-vi-ca-do-4786847.html) - 12:31 28/08/2024
+- 🧰 [Bóng ma chấn thương che khuất chiến thắng của Barca](https://vnexpress.net/bong-ma-chan-thuong-che-khuat-chien-thang-cua-barca-4786747.html) - 10:24 28/08/2024
+- 🤗 [Paralympic 2024 khai mạc hôm nay](https://vnexpress.net/paralympic-2024-khai-mac-hom-nay-4786738.html) - 10:05 28/08/2024
+- 🥳 [Kênh YouTube của Ronaldo lập kỷ lục Guinness](https://vnexpress.net/kenh-youtube-cua-ronaldo-lap-ky-luc-guinness-4786733.html) - 09:30 28/08/2024
+- 🦣 [Tân vương PGA Tour 2024 lộ diện cuối tuần này](https://vnexpress.net/tan-vuong-pga-tour-2024-lo-dien-cuoi-tuan-nay-4786697.html) - 07:13 28/08/2024
+- 🌜 [Đổ bể thương vụ Đặng Văn Lâm về PVF CAND](https://vnexpress.net/do-be-thuong-vu-dang-van-lam-ve-pvf-cand-4786658.html) - 05:51 28/08/2024
+- 🫶 [Giải half marathon lâu đời nhất thế giới](https://vnexpress.net/giai-half-marathon-lau-doi-nhat-the-gioi-4786566.html) - 05:50 28/08/2024
+- 🌜 [Kyrgios chỉ trích chú Nadal vì bảo vệ Sinner](https://vnexpress.net/kyrgios-chi-trich-chu-nadal-vi-bao-ve-sinner-4786644.html) - 05:19 28/08/2024
+- 😺 [Thiago Motta - kẻ mộng mơ với khát vọng phục sinh Juventus](https://vnexpress.net/thiago-motta-ke-mong-mo-voi-khat-vong-phuc-sinh-juventus-4786642.html) - 05:14 28/08/2024
+- 👍 [Ronaldo muốn tái hợp Zidane](https://vnexpress.net/ronaldo-muon-tai-hop-zidane-4786622.html) - 05:03 28/08/2024
+- 🐵 [Man Utd chờ đợi gì từ &#39;Kante mới&#39;?](https://vnexpress.net/man-utd-cho-doi-gi-tu-kante-moi-4786521.html) - 05:00 28/08/2024
+- 💫 [Cái kết lạ trong trận dài nhất lịch sử Mỹ Mở rộng](https://vnexpress.net/cai-ket-la-trong-tran-dai-nhat-lich-su-my-mo-rong-4786578.html) - 04:12 28/08/2024
+- 🦆 [Alcaraz tốn bốn set để qua vòng đầu Mỹ Mở rộng](https://vnexpress.net/alcaraz-ton-bon-set-de-qua-vong-dau-my-mo-rong-4786555.html) - 03:00 28/08/2024
+- 🙉 [Sinner thắng ngược ở vòng 1 Mỹ Mở rộng 2024](https://vnexpress.net/sinner-thang-nguoc-o-vong-1-my-mo-rong-2024-4786516.html) - 01:55 28/08/2024
+- 📝 [Ronaldo được UEFA vinh danh](https://vnexpress.net/ronaldo-duoc-uefa-vinh-danh-4786493.html) - 01:26 28/08/2024
+- 💯 [Chelsea sắp đổi Sterling lấy Sancho từ Man Utd](https://vnexpress.net/chelsea-sap-doi-sterling-lay-sancho-tu-man-utd-4786475.html) - 00:44 28/08/2024
+- 🌈 [AFF Cup 2024 dời ngày](https://vnexpress.net/aff-cup-2024-doi-ngay-4785702.html) - 00:23 28/08/2024
+- 🦩 [Ronaldo ghi bàn đá phạt thứ 64](https://vnexpress.net/ronaldo-ghi-ban-da-phat-thu-64-4786459.html) - 23:06 27/08/2024
+- 🐲 [Vua phá lưới Euro 2024 ghi bàn ngay trận ra mắt Barca](https://vnexpress.net/vua-pha-luoi-euro-2024-ghi-ban-ngay-tran-ra-mat-barca-4786458.html) - 22:59 27/08/2024
+- 🌁 [Kipchoge có thể chạy marathon sub1:15 trên Sao Hỏa](https://vnexpress.net/kipchoge-co-the-chay-marathon-sub1-15-tren-sao-hoa-4786174.html) - 22:00 27/08/2024
+- 💯 [Arsenal công bố nhà vô địch Euro 2024](https://vnexpress.net/arsenal-cong-bo-nha-vo-dich-euro-2024-4786443.html) - 15:46 27/08/2024
+- 🌝 [Chelsea tiễn Lukaku sang Napoli](https://vnexpress.net/chelsea-tien-lukaku-sang-napoli-4786413.html) - 13:23 27/08/2024
+- 🤖 [Cựu vô địch US Open mắng trọng tài &#39;độc ác&#39;](https://vnexpress.net/cuu-vo-dich-us-open-mang-trong-tai-doc-ac-4786352.html) - 10:31 27/08/2024
+- 🕯 [Alcaraz hy vọng nối bước Djokovic](https://vnexpress.net/alcaraz-hy-vong-noi-buoc-djokovic-4786376.html) - 10:26 27/08/2024
+- 🧰 [Man Utd đón tân binh thứ năm](https://vnexpress.net/man-utd-don-tan-binh-thu-nam-4786347.html) - 09:29 27/08/2024
+- 🥳 [Bellingham xây khu biệt thự 10 triệu USD](https://vnexpress.net/bellingham-xay-khu-biet-thu-10-trieu-usd-4786299.html) - 09:04 27/08/2024
+- 👍 [Thái Lan vắng nhiều ngôi sao khi đấu Việt Nam và Nga](https://vnexpress.net/thai-lan-vang-nhieu-ngoi-sao-khi-dau-viet-nam-va-nga-4786281.html) - 08:25 27/08/2024
+- 💪 [UEFA bơm tiền nhiều chưa từng thấy vào Champions League](https://vnexpress.net/uefa-bom-tien-nhieu-chua-tung-thay-vao-champions-league-4786148.html) - 07:58 27/08/2024
+- 👹 [Cấm HLV và trọng tài vụ gian lận huy chương karate trẻ TP HCM](https://vnexpress.net/cam-hlv-va-trong-tai-vu-gian-lan-huy-chuong-karate-tre-tp-hcm-4786230.html) - 07:00 27/08/2024
+- 🧰 [Mật vụ kể chuyện chạy bộ cùng Tổng thống Mỹ](https://vnexpress.net/mat-vu-ke-chuyen-chay-bo-cung-tong-thong-my-4786206.html) - 06:14 27/08/2024
+- 🚀 [Djokovic mắc 10 lỗi kép ở vòng đầu Mỹ Mở rộng](https://vnexpress.net/djokovic-mac-10-loi-kep-o-vong-dau-my-mo-rong-4786199.html) - 05:28 27/08/2024
+- 🎃 [Rune thua ngay vòng một Mỹ Mở rộng](https://vnexpress.net/rune-thua-ngay-vong-mot-my-mo-rong-4786192.html) - 05:28 27/08/2024
+- 🧰 [Ronaldo chưa muốn giã từ tuyển Bồ Đào Nha](https://vnexpress.net/ronaldo-chua-muon-gia-tu-tuyen-bo-dao-nha-4786163.html) - 04:35 27/08/2024
+- 👀 [Barca đăng ký Vua phá lưới Euro nhờ quy định chấn thương](https://vnexpress.net/barca-dang-ky-vua-pha-luoi-euro-nho-quy-dinh-chan-thuong-4786109.html) - 03:43 27/08/2024
+- 🌜 [Kim Kardashian dự khán trận của Real Madrid](https://vnexpress.net/kim-kardashian-du-khan-tran-cua-real-madrid-4786132.html) - 03:39 27/08/2024
+- 🫶 [Rio Ferdinand chỉ trích Man Utd vì bán &#39;gà nhà&#39;](https://vnexpress.net/rio-ferdinand-chi-trich-man-utd-vi-ban-ga-nha-4786006.html) - 03:35 27/08/2024
+- 🦄 [32 đội thi vào vòng loại giải đấu sinh viên toàn quốc UEC2024 MLBB](https://vnexpress.net/32-doi-thi-vao-vong-loai-giai-dau-sinh-vien-toan-quoc-uec2024-mlbb-4786125.html) - 03:30 27/08/2024
+- 🥳 [Sterling khao khát gia nhập Man Utd](https://vnexpress.net/sterling-khao-khat-gia-nhap-man-utd-4786107.html) - 03:27 27/08/2024
+- 🐲 [Cuộc đời lạc quan của HLV Sven-Goran Eriksson](https://vnexpress.net/cuoc-doi-lac-quan-cua-hlv-sven-goran-eriksson-4785943.html) - 01:33 27/08/2024
+- 🧑‍🏫 [Juventus chạm mốc hiếm tại Serie A sau 14 năm](https://vnexpress.net/juventus-cham-moc-hiem-tai-serie-a-sau-14-nam-4786031.html) - 01:29 27/08/2024
+- 🤔 [Phó Chủ tịch PBA: &#39;Lệnh cấm với billiards Việt Nam là vô căn cứ&#39;](https://vnexpress.net/pho-chu-tich-pba-lenh-cam-voi-billiards-viet-nam-la-vo-can-cu-4785939.html) - 01:27 27/08/2024
+- 😺 [Liverpool mua thủ môn hiện tượng Euro 2024](https://vnexpress.net/liverpool-mua-thu-mon-hien-tuong-euro-2024-4785994.html) - 01:14 27/08/2024
+- 💪 [Vì sao Verstappen bị Norris bỏ quá xa tại Grand Prix Hà Lan?](https://vnexpress.net/vi-sao-verstappen-bi-norris-bo-qua-xa-tai-grand-prix-ha-lan-4785816.html) - 00:16 27/08/2024
+- 💼 [Nữ tiền đạo Ireland nổi tiếng nhờ ngoại hình giống Megan Fox](https://vnexpress.net/nu-tien-dao-ireland-noi-tieng-nho-ngoai-hinh-giong-megan-fox-4785990.html) - 23:43 26/08/2024
+- 🕴 [Barca từ chối Neymar](https://vnexpress.net/barca-tu-choi-neymar-4785976.html) - 17:00 26/08/2024
+- 🕯 [Thế giới bóng đá thương tiếc HLV Eriksson](https://vnexpress.net/the-gioi-bong-da-thuong-tiec-hlv-eriksson-4785966.html) - 17:00 26/08/2024
+- 📝 [HLV Sven-Goran Eriksson qua đời](https://vnexpress.net/hlv-sven-goran-eriksson-qua-doi-4785932.html) - 11:37 26/08/2024
+- 🧐 [Liên đoàn Karate TP HCM bác bỏ tố cáo nhường huy chương](https://vnexpress.net/lien-doan-karate-tp-hcm-bac-bo-to-cao-nhuong-huy-chuong-4785893.html) - 10:33 26/08/2024
+- 🙉 [Guardiola: &#39;Không thể thay thế Haaland&#39;](https://vnexpress.net/guardiola-khong-the-thay-the-haaland-4785849.html) - 10:04 26/08/2024
+- 🏊 [Cầu thủ Chelsea khuyên huyền thoại &#39;ngậm miệng&#39;](https://vnexpress.net/cau-thu-chelsea-khuyen-huyen-thoai-ngam-mieng-4785817.html) - 09:51 26/08/2024
+- 🌊 [Kình ngư Sun Yang đoạt danh hiệu sau bốn năm bị cấm thi đấu](https://vnexpress.net/kinh-ngu-sun-yang-doat-danh-hieu-sau-bon-nam-bi-cam-thi-dau-4785860.html) - 09:40 26/08/2024
+- 👨‍🏫 [Lilia Vu vuột cup ở major Women’s Open 2024](https://vnexpress.net/lilia-vu-vuot-cup-o-major-women-s-open-2024-4785826.html) - 07:50 26/08/2024
+- 🥷 [7 điểm nhấn ở vòng 2 giải Ngoại hạng Anh](https://vnexpress.net/7-diem-nhan-o-vong-2-giai-ngoai-hang-anh-4785755.html) - 07:25 26/08/2024
+- ⚗️ [Màn đổ máu vẫn ghi birdie ấn tượng trên PGA Tour](https://vnexpress.net/man-do-mau-van-ghi-birdie-an-tuong-tren-pga-tour-4785908.html) - 07:16 26/08/2024
+- 🌮 [Tương quan giải Mỹ Mở rộng 2024](https://vnexpress.net/tuong-quan-giai-my-mo-rong-2024-4785747.html) - 07:04 26/08/2024
+- 🤩 [Hồng Lệ bất ngờ khi vô địch giải marathon Thái Lan](https://vnexpress.net/hong-le-bat-ngo-khi-vo-dich-giai-marathon-thai-lan-4785750.html) - 05:04 26/08/2024
+- 🏊 [Djokovic – người phá vỡ các giới hạn của tennis](https://vnexpress.net/djokovic-nguoi-pha-vo-cac-gioi-han-cua-tennis-4785712.html) - 04:22 26/08/2024
+- 🐎 [U22 Việt Nam gọi 27 cầu thủ cho giải giao hữu ở Trung Quốc](https://vnexpress.net/u22-viet-nam-goi-27-cau-thu-cho-giai-giao-huu-o-trung-quoc-4785728.html) - 04:20 26/08/2024
+- 💫 [Tân HLV Liverpool đi vào lịch sử Ngoại hạng Anh](https://vnexpress.net/tan-hlv-liverpool-di-vao-lich-su-ngoai-hang-anh-4785634.html) - 04:15 26/08/2024<!-- vnexpress-the-thao:END -->
