@@ -36,8 +36,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🕯 [Grand Mercure Hanoi quảng bá văn hóa Việt đến đoàn khách Ấn Độ](https://vnexpress.net/grand-mercure-hanoi-quang-ba-van-hoa-viet-den-doan-khach-an-do-4786867.html) - 14:15 28/08/2024
 - 💃 [CEO Telegram rời nhà giam, sắp trình diện tòa](https://vnexpress.net/ceo-telegram-roi-nha-giam-sap-trinh-dien-toa-4786869.html) - 14:12 28/08/2024
 - 💂 [Suy nghĩ sai lầm &#39;người Việt năng suất thấp nên phải nghỉ ít, làm nhiều&#39;](https://vnexpress.net/suy-nghi-sai-lam-nguoi-viet-nang-suat-thap-nen-phai-nghi-it-lam-nhieu-4786808.html) - 14:00 28/08/2024
-- 🎊 [Sợ con thiếu thốn khi nghỉ công việc chính để học lên cao](https://vnexpress.net/so-con-thieu-thon-khi-nghi-cong-viec-chinh-de-hoc-len-cao-4786790.html) - 14:00 28/08/2024
-- 🤠 [Cần tìm người để cùng nhau già đi](https://vnexpress.net/can-tim-nguoi-de-cung-nhau-gia-di-4786698.html) - 14:00 28/08/2024
+- 🎊 [Cần tìm người để cùng nhau già đi](https://vnexpress.net/can-tim-nguoi-de-cung-nhau-gia-di-4786698.html) - 14:00 28/08/2024
+- 🤠 [Sợ con thiếu thốn khi nghỉ công việc chính để học lên cao](https://vnexpress.net/so-con-thieu-thon-khi-nghi-cong-viec-chinh-de-hoc-len-cao-4786790.html) - 14:00 28/08/2024
 - 🌈 [Vẻ đẹp tuổi 21 của bóng hồng phim &#39;Diệp Vấn&#39;](https://vnexpress.net/ve-dep-tuoi-21-cua-bong-hong-phim-diep-van-4786771.html) - 14:00 28/08/2024
 - 🎬 [Thủ tướng đề nghị Quảng Tây đẩy nhanh &#39;kết nối cứng&#39; với Việt Nam](https://vnexpress.net/thu-tuong-de-nghi-quang-tay-day-nhanh-ket-noi-cung-voi-viet-nam-4786861.html) - 13:48 28/08/2024
 - 🚀 [Hơn 150 công nhân nghi ngộ độc sau bữa ăn trưa](https://vnexpress.net/hon-150-cong-nhan-nghi-ngo-doc-sau-bua-an-trua-4786854.html) - 13:13 28/08/2024
