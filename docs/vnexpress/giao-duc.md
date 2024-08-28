@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Đề nghị thu hồi giấy phép kinh doanh của trường Quốc tế Mỹ](https://vnexpress.net/de-nghi-thu-hoi-giay-phep-kinh-doanh-cua-truong-quoc-te-my-4786474.html) - 00:52 28/08/2024
+- 🤓 [Trường Quốc tế Mỹ bị đề nghị thu hồi giấy phép thành lập](https://vnexpress.net/truong-quoc-te-my-bi-de-nghi-thu-hoi-giay-phep-thanh-lap-4786474.html) - 00:52 28/08/2024
 - 🦆 [Có nên học ngành kỹ thuật ở trường kinh tế?](https://vnexpress.net/co-nen-hoc-nganh-ky-thuat-o-truong-kinh-te-4785510.html) - 23:57 27/08/2024
 - 🦩 [Hơn 122.000 thí sinh đỗ đại học nhưng bỏ nhập học](https://vnexpress.net/hon-122-000-thi-sinh-do-dai-hoc-nhung-bo-nhap-hoc-4786441.html) - 15:50 27/08/2024
 - 🌮 [Tỉnh nào có mức sống đắt đỏ nhất cả nước?](https://vnexpress.net/tinh-nao-co-muc-song-dat-do-nhat-ca-nuoc-4786404.html) - 14:20 27/08/2024
