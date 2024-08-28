@@ -4,7 +4,7 @@ sidebar_position: 22
 ---
 
 <!-- dantri-du-lich:START -->
-- 🥰 [Đoàn khách 4.500 người của tỷ phú Ấn Độ đổ bộ tham quan di sản Tràng An](https://dantri.com.vn/du-lich/doan-khach-4500-nguoi-cua-ty-phu-an-do-do-bo-tham-quan-di-san-trang-an-20240828140500265.htm) - 08:04 28/08/2024
+- 🥰 [Đoàn khách 4.500 người của tỷ phú Ấn Độ hào hứng tham quan di sản Tràng An](https://dantri.com.vn/du-lich/doan-khach-4500-nguoi-cua-ty-phu-an-do-hao-hung-tham-quan-di-san-trang-an-20240828140500265.htm) - 08:04 28/08/2024
 - 🥰 [Hơn 100 tàu du lịch đưa đoàn 4.500 khách của tỷ phú Ấn Độ ngắm vịnh Hạ Long](https://dantri.com.vn/du-lich/hon-100-tau-du-lich-dua-doan-4500-khach-cua-ty-phu-an-do-ngam-vinh-ha-long-20240828113332514.htm) - 07:08 28/08/2024
 - 🐻 [Bí mật trong nhà hàng một sao Michelin được giới siêu giàu Dubai ưa chuộng](https://dantri.com.vn/du-lich/bi-mat-trong-nha-hang-mot-sao-michelin-duoc-gioi-sieu-giau-dubai-ua-chuong-20240828025621778.htm) - 05:20 28/08/2024
 - 🤩 [Miễn phí tham quan di tích Cố đô Huế dịp lễ 2/9](https://dantri.com.vn/du-lich/mien-phi-tham-quan-di-tich-co-do-hue-dip-le-29-20240827153403925.htm) - 00:02 28/08/2024
