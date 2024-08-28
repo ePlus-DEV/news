@@ -8,7 +8,7 @@ sidebar_position: 7
 - 🦆 [Có nên học ngành kỹ thuật ở trường kinh tế?](https://vnexpress.net/co-nen-hoc-nganh-ky-thuat-o-truong-kinh-te-4785510.html) - 23:57 27/08/2024
 - 🦩 [Hơn 122.000 thí sinh đỗ đại học nhưng bỏ nhập học](https://vnexpress.net/hon-122-000-thi-sinh-do-dai-hoc-nhung-bo-nhap-hoc-4786441.html) - 15:50 27/08/2024
 - 🌮 [Tỉnh nào có mức sống đắt đỏ nhất cả nước?](https://vnexpress.net/tinh-nao-co-muc-song-dat-do-nhat-ca-nuoc-4786404.html) - 14:20 27/08/2024
-- 🔭 [Nữ sinh Quảng Bình giành học bổng toàn phần đại học số 1 Canada](https://vnexpress.net/nu-sinh-quang-binh-gianh-hoc-bong-toan-phan-dai-hoc-so-1-canada-4786054.html) - 12:25 27/08/2024
+- 🔭 [Nữ sinh Quảng Bình giành học bổng toàn phần đại học hàng đầu Canada](https://vnexpress.net/nu-sinh-quang-binh-gianh-hoc-bong-toan-phan-dai-hoc-hang-dau-canada-4786054.html) - 12:25 27/08/2024
 - 💡 [Chuyên gia World Bank: Việt Nam cần tăng lao động có bằng cấp](https://vnexpress.net/chuyen-gia-world-bank-viet-nam-can-tang-lao-dong-co-bang-cap-4786226.html) - 11:02 27/08/2024
 - 🥰 [Trường Tây Mỗ 3 không nhận thêm học sinh nào](https://vnexpress.net/truong-tay-mo-3-khong-nhan-them-hoc-sinh-nao-4786151.html) - 07:48 27/08/2024
 - 🐲 [5 học sinh giành huy chương Olympic Vật lý thiên văn quốc tế](https://vnexpress.net/5-hoc-sinh-gianh-huy-chuong-olympic-vat-ly-thien-van-quoc-te-4786070.html) - 03:25 27/08/2024
