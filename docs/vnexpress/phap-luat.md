@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Phó giám đốc Sở Công Thương Lai Châu bị bắt](https://vnexpress.net/pho-giam-doc-so-cong-thuong-lai-chau-bi-bat-4786857.html) - 12:52 28/08/2024
-- 🥰 [Vì sao Phó chánh văn phòng UBND tỉnh Quảng Trị bị bắt](https://vnexpress.net/vi-sao-pho-chanh-van-phong-ubnd-tinh-quang-tri-bi-bat-4786728.html) - 11:50 28/08/2024
+- 🥰 [Chèn trái phép link quảng cáo vào trang web lập cho khách hàng](https://vnexpress.net/chen-trai-phep-link-quang-cao-vao-trang-web-lap-cho-khach-hang-4786728.html) - 11:50 28/08/2024
 - 🎓 [8 thanh niên vô cớ chém người đi đường](https://vnexpress.net/8-thanh-nien-vo-co-chem-nguoi-di-duong-4786782.html) - 10:04 28/08/2024
 - 🤓 [Lĩnh 12 năm tù vì làm chết người trộm gà](https://vnexpress.net/linh-12-nam-tu-vi-lam-chet-nguoi-trom-ga-4786753.html) - 08:52 28/08/2024
 - 🎊 [Hơn 100 cảnh sát triệt phá đường dây mua bán trẻ em tại 32 tỉnh thành](https://vnexpress.net/hon-100-canh-sat-triet-pha-duong-day-mua-ban-tre-em-tai-32-tinh-thanh-4786701.html) - 08:03 28/08/2024
