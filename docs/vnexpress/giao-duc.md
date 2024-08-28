@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Bộ Giáo dục kéo dài thời gian xác nhận nhập học](https://vnexpress.net/bo-giao-duc-keo-dai-thoi-gian-xac-nhan-nhap-hoc-4786647.html) - 05:24 28/08/2024
+- 🤓 [Bộ Giáo dục mở lại hệ thống xác nhận nhập học](https://vnexpress.net/bo-giao-duc-mo-lai-he-thong-xac-nhan-nhap-hoc-4786647.html) - 05:24 28/08/2024
 - 🦆 [Dự kiến tăng tỷ lệ điểm học bạ trong xét tốt nghiệp từ 2025](https://vnexpress.net/du-kien-tang-ty-le-diem-hoc-ba-trong-xet-tot-nghiep-tu-2025-4786630.html) - 05:04 28/08/2024
 - 🦩 [Bộ trưởng Nguyễn Mạnh Hùng: Giảng dạy AI phải chú ý tính ứng dụng](https://vnexpress.net/bo-truong-nguyen-manh-hung-giang-day-ai-phai-chu-y-tinh-ung-dung-4786599.html) - 04:41 28/08/2024
 - 🌮 [Trường Quốc tế Mỹ bị đề nghị thu hồi giấy phép thành lập](https://vnexpress.net/truong-quoc-te-my-bi-de-nghi-thu-hoi-giay-phep-thanh-lap-4786474.html) - 00:52 28/08/2024
