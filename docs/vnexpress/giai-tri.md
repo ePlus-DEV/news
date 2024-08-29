@@ -13,7 +13,7 @@ sidebar_position: 5
 - 😎 [Ca sĩ nhóm NCT bị điều tra án tình dục](https://vnexpress.net/ca-si-nhom-nct-bi-dieu-tra-an-tinh-duc-4786846.html) - 11:57 28/08/2024
 - 🫣 [Quách Tuấn Du: &#39;Tôi hạnh phúc vì tặng mẹ nhà tám tỷ đồng&#39;](https://vnexpress.net/quach-tuan-du-toi-hanh-phuc-vi-tang-me-nha-tam-ty-dong-4786010.html) - 10:42 28/08/2024
 - 🪄 [Á hậu Thùy Linh tốt nghiệp thủ khoa đại học](https://vnexpress.net/a-hau-thuy-linh-tot-nghiep-thu-khoa-dai-hoc-4786677.html) - 09:37 28/08/2024
-- 🤓 [Trưng bày tượng &#39;Nữ thần Durga&#39; và cổ vật Champa](https://vnexpress.net/trung-bay-tuong-nu-than-durga-va-co-vat-champa-4786725.html) - 09:23 28/08/2024
+- 🤓 [Tượng &#39;Nữ thần Durga&#39; ra mắt sau hai tháng hồi hương](https://vnexpress.net/tuong-nu-than-durga-ra-mat-sau-hai-thang-hoi-huong-4786725.html) - 09:23 28/08/2024
 - 🫶 [&#39;Sự ủng hộ của Taylor Swift có thể tác động bầu cử tổng thống Mỹ&#39;](https://vnexpress.net/su-ung-ho-cua-taylor-swift-co-the-tac-dong-bau-cu-tong-thong-my-4786182.html) - 08:25 28/08/2024
 - 🧑‍🏫 [Những kiểu tóc dài đẹp dành cho phụ nữ trung niên](https://vnexpress.net/nhung-kieu-toc-dai-dep-danh-cho-phu-nu-trung-nien-4785002.html) - 05:40 28/08/2024
 - 🦄 [Dolly Parton tặng hàng trăm triệu cuốn sách cho trẻ em](https://vnexpress.net/dolly-parton-tang-hang-tram-trieu-cuon-sach-cho-tre-em-4786494.html) - 05:29 28/08/2024
