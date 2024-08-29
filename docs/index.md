@@ -211,7 +211,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Nhiều trận đấu lớn tại Champions League 2024-2025](https://laodong.vn/bong-da-quoc-te/nhieu-tran-dau-lon-tai-champions-league-2024-2025-1386748.ldo) - 15:58 29/08/2024
+- 🗽 [Champions League 2024-2025 nhiều trận đấu lớn](https://laodong.vn/bong-da-quoc-te/champions-league-2024-2025-nhieu-tran-dau-lon-1386748.ldo) - 15:58 29/08/2024
 - 📝 [Thành viên cuối MEOVV là rapper, được so với Bella Poarch](https://laodong.vn/giai-tri/thanh-vien-cuoi-meovv-la-rapper-duoc-so-voi-bella-poarch-1386752.ldo) - 15:25 29/08/2024
 - 🦏 [Chỉ ăn trái cây vào bữa tối có an toàn không?](https://laodong.vn/dinh-duong-am-thuc/chi-an-trai-cay-vao-bua-toi-co-an-toan-khong-1386288.ldo) - 15:00 29/08/2024
 - 🦩 [Hải Phòng xây cầu vượt biển Tân Vũ - Lạch Huyện thứ 2](https://laodong.vn/xa-hoi/hai-phong-xay-cau-vuot-bien-tan-vu-lach-huyen-thu-2-1386765.ldo) - 14:56 29/08/2024
