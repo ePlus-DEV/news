@@ -22,7 +22,7 @@ sidebar_position: 9
 - 🌁 [Phương Oanh: &#39;Tôi chia sẻ mọi cảm xúc với chồng khi nuôi con&#39;](https://vnexpress.net/phuong-oanh-toi-chia-se-moi-cam-xuc-voi-chong-khi-nuoi-con-4778418.html) - 17:00 29/08/2024
 - 🐲 [Hai ngày ở Hà Nội thưởng thức món ăn đường phố](https://vnexpress.net/hai-ngay-o-ha-noi-thuong-thuc-mon-an-duong-pho-4786518.html) - 17:00 29/08/2024
 - 🤓 [Ông Putin sắp thăm quốc gia thành viên ICC](https://vnexpress.net/ong-putin-sap-tham-quoc-gia-thanh-vien-icc-4787314.html) - 16:22 29/08/2024
-- 💪 [Man City gặp PSG, Inter, Juventus ở Champions League](https://vnexpress.net/truc-tiep-boc-tham-chia-cap-dau-vong-bang-champions-league-2024-2025-4787292-tong-thuat.html) - 15:45 29/08/2024
+- 💪 [Real gặp Liverpool, Milan, Dortmund ở Champions League](https://vnexpress.net/truc-tiep-boc-tham-chia-cap-dau-vong-bang-champions-league-2024-2025-4787292-tong-thuat.html) - 15:45 29/08/2024
 - 🎓 [Tổng Bí thư, Chủ tịch nước chủ trì chương trình kỷ niệm 79 năm Quốc khánh](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-chu-tri-chuong-trinh-ky-niem-79-nam-quoc-khanh-4787309.html) - 15:43 29/08/2024
 - 🫣 [Tiếp tục giải cứu 13 nạn nhân ở Tam giác vàng](https://vnexpress.net/tiep-tuc-giai-cuu-13-nan-nhan-o-tam-giac-vang-4787320.html) - 15:41 29/08/2024
 - 🧑‍💻 [Ukraine mất tiêm kích F-16 đầu tiên](https://vnexpress.net/ukraine-mat-tiem-kich-f-16-dau-tien-4787321.html) - 15:28 29/08/2024
