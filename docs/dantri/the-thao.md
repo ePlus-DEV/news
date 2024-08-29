@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Bốc thăm Champions League: C.Ronaldo nhấn nút chọn đội](https://dantri.com.vn/the-thao/boc-tham-champions-league-cronaldo-nhan-nut-chon-doi-20240829224328099.htm) - 15:43 29/08/2024
+- 🎡 [Bốc thăm Champions League: Bayern Munich gặp PSG, Barcelona](https://dantri.com.vn/the-thao/boc-tham-champions-league-bayern-munich-gap-psg-barcelona-20240829224328099.htm) - 15:43 29/08/2024
 - 💯 [Đội tuyển Việt Nam nhận tổn thất lớn trước trận gặp Nga và Thái Lan](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-nhan-ton-that-lon-truoc-tran-gap-nga-va-thai-lan-20240829215050521.htm) - 15:00 29/08/2024
 - ⛽️ [Hành động đẹp của Pep Guardiola với nhân viên Man City](https://dantri.com.vn/the-thao/hanh-dong-dep-cua-pep-guardiola-voi-nhan-vien-man-city-20240829111124793.htm) - 12:07 29/08/2024
 - 💃 [Đội tuyển Nga nhận tin buồn trước ngày sang Việt Nam](https://dantri.com.vn/the-thao/doi-tuyen-nga-nhan-tin-buon-truoc-ngay-sang-viet-nam-20240829183808167.htm) - 11:38 29/08/2024
