@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Bốc thăm chia cặp đấu Champions League](https://vnexpress.net/truc-tiep-boc-tham-chia-cap-dau-vong-bang-champions-league-2024-2025-4787292.html) - 15:45 29/08/2024
+- 🪜 [Man City gặp PSG ở vòng đầu Champions League](https://vnexpress.net/truc-tiep-boc-tham-chia-cap-dau-vong-bang-champions-league-2024-2025-4787292.html) - 15:45 29/08/2024
 - 🦩 [Tuyển Việt Nam mất trung vệ hàng đầu](https://vnexpress.net/tuyen-viet-nam-mat-trung-ve-hang-dau-4787308.html) - 11:07 29/08/2024
 - 🧰 [Cầu thủ Thái Lan xin lỗi Madam Pang để trở lại ĐTQG](https://vnexpress.net/cau-thu-thai-lan-xin-loi-madam-pang-de-tro-lai-dtqg-4787253.html) - 10:30 29/08/2024
 - 🤗 [Không có dấu hiệu mua bán huy chương ở giải karate trẻ TP HCM](https://vnexpress.net/khong-co-dau-hieu-mua-ban-huy-chuong-o-giai-karate-tre-tp-hcm-4787257.html) - 10:18 29/08/2024
