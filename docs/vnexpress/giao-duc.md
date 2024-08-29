@@ -4,8 +4,8 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nơi nào tập trung 99% lượng vàng trên Trái Đất?](https://vnexpress.net/noi-nao-tap-trung-99-luong-vang-tren-trai-dat-4787242.html) - 13:56 29/08/2024
-- 🦆 [Show truyền hình thực tế khuyến khích sinh viên sống trọn sức trẻ](https://vnexpress.net/show-truyen-hinh-thuc-te-khuyen-khich-sinh-vien-song-tron-suc-tre-4787165.html) - 13:15 29/08/2024
+- 🤓 [Show truyền hình thực tế khuyến khích sinh viên sống trọn sức trẻ](https://vnexpress.net/show-truyen-hinh-thuc-te-khuyen-khich-sinh-vien-song-tron-suc-tre-4787165.html) - 14:15 29/08/2024
+- 🦆 [Nơi nào tập trung 99% lượng vàng trên Trái Đất?](https://vnexpress.net/noi-nao-tap-trung-99-luong-vang-tren-trai-dat-4787242.html) - 13:56 29/08/2024
 - 🦩 [Solve for Tomorrow hướng dẫn kỹ năng hoàn thiện dự án cho top 40](https://vnexpress.net/solve-for-tomorrow-huong-dan-ky-nang-hoan-thien-du-an-cho-top-40-4787054.html) - 12:00 29/08/2024
 - 🌮 [Lý do khiến hơn 122.000 thí sinh bỏ nhập học đại học](https://vnexpress.net/ly-do-khien-hon-122-000-thi-sinh-bo-nhap-hoc-dai-hoc-4786813.html) - 09:21 29/08/2024
 - 🔭 [Hà Nội công bố đề minh họa thi lớp 10 năm 2025](https://vnexpress.net/ha-noi-cong-bo-de-minh-hoa-thi-lop-10-nam-2025-4786811.html) - 05:43 29/08/2024
