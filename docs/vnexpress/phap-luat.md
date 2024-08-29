@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Các bị can &#39;xử lý&#39; hơn một triệu USD, quà hối lộ của Xuyên Việt Oil thế nào](https://vnexpress.net/cac-bi-can-xu-ly-trieu-usd-qua-hoi-lo-cua-xuyen-viet-oil-the-nao-4786844.html) - 12:22 29/08/2024
+- 😎 [Hơn một triệu USD hối lộ của Xuyên Việt Oil được sử dụng như thế nào](https://vnexpress.net/cac-bi-can-xu-ly-trieu-usd-qua-hoi-lo-cua-xuyen-viet-oil-the-nao-4786844.html) - 12:22 29/08/2024
 - 🥰 [Bí mật che giấu hơn 40 năm trong vụ hiếp dâm cặp song sinh](https://vnexpress.net/bi-mat-che-giau-hon-40-nam-trong-vu-hiep-dam-cap-song-sinh-4787189.html) - 12:08 29/08/2024
 - 🎓 [Cơn cuồng ghen truy sát, đốt nhà người tình](https://vnexpress.net/con-cuong-ghen-truy-sat-dot-nha-nguoi-tinh-4787261.html) - 11:55 29/08/2024
 - 🤓 [Nhân viên ngân hàng lừa lấy mã OTP, chiếm đoạt tiền của khách](https://vnexpress.net/nhan-vien-ngan-hang-lua-lay-ma-otp-chiem-doat-tien-cua-khach-4787247.html) - 10:57 29/08/2024
