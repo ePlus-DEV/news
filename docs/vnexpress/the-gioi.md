@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Canh bạc của Ukraine trước thềm bầu cử tổng thống Mỹ](https://vnexpress.net/canh-bac-cua-ukraine-truoc-them-bau-cu-tong-thong-my-4786913.html) - 17:00 29/08/2024
 - 🕴 [Ông Putin sắp thăm quốc gia thành viên ICC](https://vnexpress.net/ong-putin-sap-tham-quoc-gia-thanh-vien-icc-4787314.html) - 16:22 29/08/2024
-- 🤭 [Ukraine có thể đã mất tiêm kích F-16 đầu tiên](https://vnexpress.net/ukraine-co-the-da-mat-tiem-kich-f-16-dau-tien-4787321.html) - 15:28 29/08/2024
+- 🤭 [Ukraine mất tiêm kích F-16 đầu tiên](https://vnexpress.net/ukraine-mat-tiem-kich-f-16-dau-tien-4787321.html) - 15:28 29/08/2024
 - 🧑‍💻 [Nga điều tra cựu thứ trưởng quốc phòng](https://vnexpress.net/nga-dieu-tra-cuu-thu-truong-quoc-phong-4787297.html) - 13:41 29/08/2024
 - 🦏 [Bà Harris nới rộng khoảng cách trước ông Trump trong thăm dò](https://vnexpress.net/ba-harris-noi-rong-khoang-cach-truoc-ong-trump-trong-tham-do-4787283.html) - 12:26 29/08/2024
 - 🦒 [Khẩu súng trường giá rẻ suýt đoạt mạng ông Trump](https://vnexpress.net/khau-sung-truong-gia-re-suyt-doat-mang-ong-trump-4787147.html) - 12:00 29/08/2024
