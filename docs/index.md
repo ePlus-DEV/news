@@ -254,7 +254,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- nld:START -->
 - 🐎 [Xe giường nằm chở 36 hành khách cháy ngùn ngụt trên cao tốc Cam Lâm - Vĩnh Hảo](https://nld.com.vn/xe-giuong-nam-cho-36-hanh-khach-chay-ngun-ngut-tren-cao-toc-cam-lam-vinh-hao-196240829201324996.htm) - 13:31 29/08/2024
 - 😺 [Quy hoạch Ban Chấp hành Trung ương Đảng, Bộ Chính trị, Ban Bí thư là công việc rất hệ trọng](https://nld.com.vn/quy-hoach-ban-chap-hanh-trung-uong-dang-bo-chinh-tri-ban-bi-thu-la-cong-viec-rat-he-trong-19624082920182114.htm) - 13:27 29/08/2024
-- 👍 [VIDEO: Tiền đạo ngoại binh đội nữ TP HCM phá lưới tuyển U19 Việt Nam](https://nld.com.vn/video-tien-dao-ngoai-binh-doi-nu-tp-hcm-pha-luoi-tuyen-u19-viet-nam-196240829201150748.htm) - 13:20 29/08/2024
+- 👍 [VIDEO: Tiền đạo ngoại binh nữ TP HCM phá lưới tuyển U19 TP HCM](https://nld.com.vn/video-tien-dao-ngoai-binh-doi-nu-tp-hcm-pha-luoi-tuyen-u19-viet-nam-196240829201150748.htm) - 13:20 29/08/2024
 - 🥷 [Chuyển tuyến nhiều, TP HCM chật vật với bệnh sởi](https://nld.com.vn/chuyen-tuyen-nhieu-tp-hcm-chat-vat-voi-benh-soi-196240829192804963.htm) - 13:07 29/08/2024
 - 🤔 [Chủ tịch Thượng viện Úc thăm TP HCM](https://nld.com.vn/chu-tich-thuong-vien-uc-tham-tp-hcm-19624082919440172.htm) - 12:56 29/08/2024
 - 🌈 [Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì Chương trình kỷ niệm 79 năm Quốc khánh 2-9](https://nld.com.vn/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-chuong-trinh-ky-niem-79-nam-quoc-khanh-2-9-196240829195143393.htm) - 12:54 29/08/2024
