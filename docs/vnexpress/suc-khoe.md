@@ -5,8 +5,8 @@ sidebar_position: 10
 
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [Sinh con thành công sau 6 năm cắt buồng trứng chữa ung thư](https://vnexpress.net/sinh-con-thanh-cong-sau-6-nam-cat-buong-trung-chua-ung-thu-4786868.html) - 02:00 29/08/2024
-- 🥰 [6 người sốc phản vệ nghi ngộ độc thức ăn đang hồi phục](https://vnexpress.net/6-nguoi-soc-phan-ve-nghi-ngo-doc-thuc-an-dang-hoi-phuc-4786933.html) - 01:40 29/08/2024
-- 💡 [Đình chỉ hoạt động bệnh viện khiến người phụ nữ hôn mê](https://vnexpress.net/dinh-chi-hoat-dong-benh-vien-khien-nguoi-phu-nu-hon-me-4786918.html) - 01:00 29/08/2024
+- 🥰 [6 công nhân sốc phản vệ nghi ngộ độc thức ăn &#39;đang hồi phục&#39;](https://vnexpress.net/6-nguoi-soc-phan-ve-nghi-ngo-doc-thuc-an-dang-hoi-phuc-4786933.html) - 01:40 29/08/2024
+- 💡 [Bệnh viện bị đình chỉ phẫu thuật thẩm mỹ sau vụ bệnh nhân hôn mê](https://vnexpress.net/benh-vien-bi-dinh-chi-phau-thuat-tham-my-sau-ca-benh-nhan-hon-me-4786918.html) - 01:00 29/08/2024
 - 🤗 [Mắc viêm khớp có được ăn trứng?](https://vnexpress.net/mac-viem-khop-co-duoc-an-trung-4786718.html) - 01:00 29/08/2024
 - 🪜 [Hải sản nào tốt cho người tiểu đường?](https://vnexpress.net/hai-san-nao-tot-cho-nguoi-tieu-duong-4786693.html) - 01:00 29/08/2024
 - 🕯 [Xơ gan](https://vnexpress.net/xo-gan-4785666.html) - 23:00 28/08/2024
