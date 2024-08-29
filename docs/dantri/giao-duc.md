@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Hà Nội công bố cấu trúc định dạng đề 7 môn thi lớp 10 năm 2025](https://dantri.com.vn/giao-duc/ha-noi-cong-bo-cau-truc-dinh-dang-de-7-mon-thi-lop-10-nam-2025-20240828160128805.htm) - 05:41 29/08/2024
+- 🤡 [Hà Nội công bố cấu trúc định dạng đề minh họa 7 môn thi lớp 10 năm 2025](https://dantri.com.vn/giao-duc/ha-noi-cong-bo-cau-truc-dinh-dang-de-minh-hoa-7-mon-thi-lop-10-nam-2025-20240828160128805.htm) - 05:41 29/08/2024
 - 🗽 [Xôn xao tin nhắn giáo viên nói học sinh &quot;nhìn rất nghèo&quot;](https://dantri.com.vn/giao-duc/xon-xao-tin-nhan-giao-vien-noi-hoc-sinh-nhin-rat-ngheo-20240829091145374.htm) - 03:40 29/08/2024
 - 🚦 [Bất ngờ tạm dừng tuyển sinh khóa mới ở cơ sở Hà Nội, ĐH RMIT nói gì?](https://dantri.com.vn/giao-duc/bat-ngo-tam-dung-tuyen-sinh-khoa-moi-o-co-so-ha-noi-dh-rmit-noi-gi-20240828171251729.htm) - 03:22 29/08/2024
 - 🌋 [Trung Quốc siết chặt kiểm soát bằng cấp sinh viên du học](https://dantri.com.vn/giao-duc/trung-quoc-siet-chat-kiem-soat-bang-cap-sinh-vien-du-hoc-20240823150028971.htm) - 01:30 29/08/2024
