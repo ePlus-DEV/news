@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- dantri-kinh-doanh:START -->
 - 🏊 [Dàn khách mời, diễn giả tham dự hội thảo Quản trị doanh nghiệp theo ESG](https://dantri.com.vn/kinh-doanh/dan-khach-moi-dien-gia-tham-du-hoi-thao-quan-tri-doanh-nghiep-theo-esg-20240829092134972.htm) - 02:43 29/08/2024
-- 🦆 [TS Bùi Thanh Minh: Doanh nghiệp báo lỗ trong khi lãi thì rất khó vay vốn](https://dantri.com.vn/kinh-doanh/ts-bui-thanh-minh-doanh-nghiep-bao-lo-trong-khi-lai-thi-rat-kho-vay-von-20240828174256076.htm) - 00:49 29/08/2024
+- 🦆 [Đi tìm công thức quản trị theo định hướng ESG](https://dantri.com.vn/kinh-doanh/di-tim-cong-thuc-quan-tri-theo-dinh-huong-esg-20240828174256076.htm) - 00:49 29/08/2024
 - 🦄 [Giá vàng nhẫn liên tiếp lập đỉnh](https://dantri.com.vn/kinh-doanh/gia-vang-nhan-lien-tiep-lap-dinh-20240829002314142.htm) - 23:00 28/08/2024
 - 🌝 [Đại gia Thái Lan thâu tóm Big C, Nguyễn Kim làm ăn ra sao tại Việt Nam?](https://dantri.com.vn/kinh-doanh/dai-gia-thai-lan-thau-tom-big-c-nguyen-kim-lam-an-ra-sao-tai-viet-nam-20240828183606381.htm) - 17:49 28/08/2024
 - 💃 [Tất bật chuẩn bị cho hội thảo về quản trị doanh nghiệp theo định hướng ESG](https://dantri.com.vn/kinh-doanh/tat-bat-chuan-bi-cho-hoi-thao-ve-quan-tri-doanh-nghiep-theo-dinh-huong-esg-20240828201930481.htm) - 13:51 28/08/2024
