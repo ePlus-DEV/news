@@ -151,66 +151,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Nhiều thông tin hỗ trợ tân sinh viên đầu năm học](https://thanhnien.vn/nhieu-thong-tin-ho-tro-tan-sinh-vien-dau-nam-hoc-185240828194420952.htm) - 01:12 29/08/2024
-- 🥸 [Luôn đặt niềm tin vào đội ngũ trí thức](https://thanhnien.vn/luon-dat-niem-tin-vao-doi-ngu-tri-thuc-185240828233634853.htm) - 01:09 29/08/2024
-- 🌁 [Tòa bác kháng cáo vụ &#39;chủ quán karaoke 10 năm kêu oan tội môi giới mại dâm&#39;](https://thanhnien.vn/toa-bac-khang-cao-vu-chu-quan-karaoke-10-nam-keu-oan-toi-moi-gioi-mai-dam-185240828225508038.htm) - 01:09 29/08/2024
-- 🤡 [Bác sĩ chia sẻ dấu hiệu để nhận biết và nghi ngờ người mắc bệnh sởi](https://thanhnien.vn/bac-si-chia-se-dau-hieu-de-nhan-biet-va-nghi-ngo-nguoi-mac-benh-soi-18524082808523298.htm) - 01:07 29/08/2024
-- 🎉 [Giá heo hơi hôm nay 29.8.2024: Biến động trái chiều ở nhiều nơi](https://thanhnien.vn/gia-heo-hoi-hom-nay-2982024-bien-dong-trai-chieu-o-nhieu-noi-185240829071707642.htm) - 01:03 29/08/2024
-- 🎊 [Khởi kiện vì hóa đơn tiền nước 57 triệu đồng ở TP.HCM: Không được cắt nước trong thời gian tranh chấp](https://thanhnien.vn/khoi-kien-vi-hoa-don-tien-nuoc-57-trieu-dong-o-tphcm-khong-duoc-cat-nuoc-trong-thoi-gian-tranh-chap-18524082814322729.htm) - 01:02 29/08/2024
-- 🤠 [CHUYỂN ĐỘNG KINH TẾ ngày 29.8: Xử lý người bán xe không thu hồi biển số | Khai trương phố ẩm thực quận 7](https://thanhnien.vn/chuyen-dong-kinh-te-ngay-298-xu-ly-nguoi-ban-xe-khong-thu-hoi-bien-so-khai-truong-pho-am-thuc-quan-7-185240828194220901.htm) - 01:00 29/08/2024
-- 💼 [Cách làm sáng tạo bảo vệ nền tảng tư tưởng của Đảng](https://thanhnien.vn/cach-lam-sang-tao-bao-ve-nen-tang-tu-tuong-cua-dang-185240828193713811.htm) - 01:00 29/08/2024
-- 🐻 [Ngành du lịch Long An nhận diện các hạn chế để vững tiến](https://thanhnien.vn/nganh-du-lich-long-an-nhan-dien-cac-han-che-de-vung-tien-185240828155107343.htm) - 01:00 29/08/2024
-- 🤔 [Khoảng 90% ca mắc bệnh ho gà là trẻ nhỏ dưới 1 tuổi](https://thanhnien.vn/khoang-90-ca-mac-benh-ho-ga-la-tre-nho-duoi-1-tuoi-185240828154339084.htm) - 01:00 29/08/2024
-- 📝 [Set đồ đồng bộ là trang phục thanh lịch và đa năng nhất mùa này](https://thanhnien.vn/thoi-trang-tre/set-do-dong-bo-la-trang-phuc-thanh-lich-va-da-nang-nhat-mua-nay-185240827155121925.htm) - 01:00 29/08/2024
-- 🥰 [Nam thần tượng bị đuổi khỏi nhóm NCT vì bê bối tình dục](https://thanhnien.vn/nam-than-tuong-bi-duoi-khoi-nhom-nct-vi-be-boi-tinh-duc-185240829073429859.htm) - 00:50 29/08/2024
-- 🐲 [Lịch thi đấu giải bóng chuyền VTV Cup hôm nay: Việt Nam đấu đội có chiều cao &#39;khủng&#39;](https://thanhnien.vn/lich-thi-dau-giai-bong-chuyen-vtv-cup-hom-nay-viet-nam-dau-doi-co-chieu-cao-khung-185240829063113232.htm) - 00:48 29/08/2024
-- 🎃 [Rắc rối pháp lý đeo bám ông Trump](https://thanhnien.vn/rac-roi-phap-ly-deo-bam-ong-trump-185240828221525456.htm) - 00:47 29/08/2024
-- 🎬 [Khách tham quan làm vỡ chiếc bình 3.500 năm tuổi, bảo tàng phản ứng bất ngờ](https://thanhnien.vn/khach-tham-quan-lam-vo-chiec-binh-3500-nam-tuoi-bao-tang-phan-ung-bat-ngo-185240829071354969.htm) - 00:46 29/08/2024
-- 🌜 [CEO Telegram bị truy tố](https://thanhnien.vn/ceo-telegram-bi-truy-to-185240829064107491.htm) - 00:44 29/08/2024
-- 🦆 [Đường phố ở TP.HCM rực rỡ cờ, hoa mừng lễ Quốc khánh 2.9](https://thanhnien.vn/duong-pho-o-tphcm-ruc-ro-co-hoa-mung-le-quoc-khanh-29-185240827204912547.htm) - 00:44 29/08/2024
-- 🐵 [Cuộc đấu Trump-Harris: So kè quyết liệt trong thăm dò dư luận](https://thanhnien.vn/cuoc-dau-trump-harris-so-ke-quyet-liet-trong-tham-do-du-luan-185240828183948994.htm) - 00:38 29/08/2024
-- 🙉 [Người trẻ học Bác trong công việc hằng ngày](https://thanhnien.vn/nguoi-tre-hoc-bac-trong-cong-viec-hang-ngay-185240828192657146.htm) - 00:32 29/08/2024
-- 🌋 [Vì sao cổ phiếu Nvidia trở nên ‘quan trọng nhất thế giới’?](https://thanhnien.vn/vi-sao-co-phieu-nvidia-tro-nen-quan-trong-nhat-the-gioi-185240828180846149.htm) - 00:15 29/08/2024
-- 🐻 [Quang Lê, Tố My đến mừng Quyền Linh tái xuất điện ảnh sau 20 năm](https://thanhnien.vn/quang-le-to-my-den-mung-quyen-linh-tai-xuat-dien-anh-sau-20-nam-185240829023200687.htm) - 00:13 29/08/2024
-- 🧠 [Mua xe ô tô đấu giá từ ngân hàng, cần làm gì để được đăng ký xe?](https://thanhnien.vn/mua-xe-o-to-dau-gia-tu-ngan-hang-can-lam-gi-de-duoc-dang-ky-xe-185240827163354445.htm) - 00:12 29/08/2024
-- 🔥 [Triển lãm sách kỷ niệm 55 năm thực hiện Di chúc Bác Hồ &lpar;1969 - 2024&rpar;](https://thanhnien.vn/trien-lam-sach-ky-niem-55-nam-thuc-hien-di-chuc-bac-ho-1969-2024-185240828230451954.htm) - 00:00 29/08/2024
-- 🌋 [Hàng loạt kho dầu Nga bị tấn công](https://thanhnien.vn/hang-loat-kho-dau-nga-bi-tan-cong-185240828222217126.htm) - 00:00 29/08/2024
-- 😎 [Apple sẽ trang bị RAM 12 GB cho thế hệ iPhone 17](https://thanhnien.vn/apple-se-trang-bi-ram-12-gb-cho-the-he-iphone-17-185240828235600949.htm) - 23:59 28/08/2024
-- 🥰 [Choáng ngợp lồng đèn hình rồng khổng lồ dài 10m, kỳ công tạo hình trong 400 giờ](https://thanhnien.vn/choang-ngop-long-den-hinh-rong-khong-lo-dai-10m-ky-cong-tao-hinh-trong-400-gio-185240828095838067.htm) - 23:56 28/08/2024
-- 🧑‍🏫 [Quyết tâm gỡ &#39;thẻ vàng&#39; IUU](https://thanhnien.vn/quyet-tam-go-the-vang-iuu-185240828233250577.htm) - 23:48 28/08/2024
-- 💄 [Liên hoan guitar quốc tế Sài Gòn: dấu ấn 10 năm](https://thanhnien.vn/lien-hoan-guitar-quoc-te-sai-gon-dau-an-10-nam-185240828231442634.htm) - 23:45 28/08/2024
-- 💯 [Những bảo vật của văn hóa Champa](https://thanhnien.vn/nhung-bao-vat-cua-van-hoa-champa-185240828230008405.htm) - 23:30 28/08/2024
-- 🚀 [Hơn 400 phần quà đến với các hộ khó khăn](https://thanhnien.vn/hon-400-phan-qua-den-voi-cac-ho-kho-khan-185240828190532688.htm) - 23:27 28/08/2024
-- 🦣 [Doanh nghiệp đầu tư 1 tỉ nhưng PCCC mất 2 - 3 tỉ đồng](https://thanhnien.vn/doanh-nghiep-dau-tu-1-ti-nhung-pccc-mat-2-3-ti-dong-185240828233742595.htm) - 23:24 28/08/2024
-- 👹 [Bộ &#39;ôm&#39; nhiều việc, dự án bị nghẽn: Cơ quan chuyên môn chỉ quản dự án đặc thù](https://thanhnien.vn/bo-om-nhieu-viec-du-an-bi-nghen-co-quan-chuyen-mon-chi-quan-du-an-dac-thu-185240828214313576.htm) - 23:24 28/08/2024
-- 🦄 [Trao 90 suất học bổng Nguyễn Thái Bình - Báo Thanh Niên tại Thanh Hóa, Nam Định](https://thanhnien.vn/trao-90-suat-hoc-bong-nguyen-thai-binh-bao-thanh-nien-tai-thanh-hoa-nam-dinh-185240828191117564.htm) - 23:23 28/08/2024
-- 🤔 [Rủi ro &#39;rác trời&#39; từ cáp điện, viễn thông](https://thanhnien.vn/rui-ro-rac-troi-tu-cap-dien-vien-thong-185240828233256329.htm) - 23:21 28/08/2024
-- 🧰 [IAEA cảnh báo nguy cơ tai nạn hạt nhân tại nhà máy Kursk khi chiến sự đến gần](https://thanhnien.vn/iaea-canh-bao-nguy-co-tai-nan-hat-nhan-tai-nha-may-kursk-khi-chien-su-den-gan-18524082819324623.htm) - 23:20 28/08/2024
-- 🌁 [F-16 của Ukraine đã diệt những mục tiêu Nga đầu tiên?](https://thanhnien.vn/f-16-cua-ukraine-da-diet-nhung-muc-tieu-nga-dau-tien-185240828184615793.htm) - 23:14 28/08/2024
-- 🧐 [Champions League thể thức mới: Bốc thăm như thế nào, giải thưởng tăng bao nhiêu?](https://thanhnien.vn/champions-league-the-thuc-moi-boc-tham-nhu-the-nao-giai-thuong-tang-bao-nhieu-18524082822102561.htm) - 23:10 28/08/2024
-- 🌏 [Hội cựu chiến binh Việt Nam lên tiếng vụ 6 hội viên kêu oan ở Đắk Nông](https://thanhnien.vn/hoi-cuu-chien-binh-viet-nam-len-tieng-vu-6-hoi-vien-keu-oan-o-dak-nong-185240828171701372.htm) - 23:09 28/08/2024
-- 🎬 [Nghề livestream - Kỳ 4: Tìm một lối đi mới](https://thanhnien.vn/nghe-livestream-ky-4-tim-mot-loi-di-moi-185240828193004411.htm) - 23:07 28/08/2024
-- 🚀 [Luật sư Phạm Văn Bạch - &#39;Mùa thu nhớ mãi&#39;](https://thanhnien.vn/luat-su-pham-van-bach-mua-thu-nho-mai-185240828225041443.htm) - 23:00 28/08/2024
-- 🙉 [Vụ biển thủ nghìn tỉ của Chủ tịch Xuyên Việt Oil](https://thanhnien.vn/vu-bien-thu-nghin-ti-cua-chu-tich-xuyen-viet-oil-185240828213801948.htm) - 23:00 28/08/2024
-- 🐵 [Sở hữu căn hộ chuẩn &#39;home resort&#39; Diamond Centery với ưu đãi lớn từ Gamuda Land](https://thanhnien.vn/so-huu-can-ho-chuan-home-resort-diamond-centery-voi-uu-dai-lon-tu-gamuda-land-185240828171815706.htm) - 23:00 28/08/2024
-- 🐎 [Băn khoăn tăng tỷ lệ xét tốt nghiệp THPT bằng học bạ lên 50%](https://thanhnien.vn/ban-khoan-tang-ty-le-xet-tot-nghiep-thpt-bang-hoc-ba-len-50-185240828222726426.htm) - 22:44 28/08/2024
-- 🕯 [Số ca tử vong do nắng nóng ở Mỹ tăng 117%](https://thanhnien.vn/so-ca-tu-vong-do-nang-nong-o-my-tang-117-185240828212656767.htm) - 22:30 28/08/2024
-- 👀 [Lối thoát cho Intel giữa nguy nan](https://thanhnien.vn/loi-thoat-cho-intel-giua-nguy-nan-185240828212154002.htm) - 22:30 28/08/2024
-- 🦒 [Sầu riêng và bài học cây thanh long](https://thanhnien.vn/sau-rieng-va-bai-hoc-cay-thanh-long-185240828182736616.htm) - 22:10 28/08/2024
-- 🧐 [Mong dịch vụ công ngày càng tiện lợi hơn](https://thanhnien.vn/mong-dich-vu-cong-ngay-cang-tien-loi-hon-185240828182320815.htm) - 22:00 28/08/2024
-- 🌊 [Xuất khẩu sầu riêng đông lạnh, núi vỏ khổng lồ sẽ đi đâu?](https://thanhnien.vn/xuat-khau-sau-rieng-dong-lanh-nui-vo-khong-lo-se-di-dau-185240828214809044.htm) - 21:18 28/08/2024
-- 🧑‍🏫 [&#39;Sinh tồn&#39; giữa kỷ nguyên số](https://thanhnien.vn/sinh-ton-giua-ky-nguyen-so-18524082822230884.htm) - 21:13 28/08/2024
-- 🫣 [Chiến sự Ukraine ngày 917: Ukraine tấn công 3 tỉnh của Nga, nêu vấn đề lớn nhất](https://thanhnien.vn/chien-su-ukraine-ngay-917-ukraine-tan-cong-3-tinh-cua-nga-neu-van-de-lon-nhat-185240828112801045.htm) - 21:10 28/08/2024
-- 👺 [Tin tức đặc biệt trên báo in Thanh Niên 29.8.2024](https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2982024-185240828233210157.htm) - 21:09 28/08/2024
-- 🧑‍🏫 [Bác sĩ 24/7: Ăn nghệ với liều lượng thế nào thì tốt cho sức khỏe?](https://thanhnien.vn/bac-si-24-7-an-nghe-voi-lieu-luong-the-nao-thi-tot-cho-suc-khoe-185240828192604842.htm) - 21:05 28/08/2024
-- 🌊 [Ông Trump đến quán ăn VN để vận động tranh cử](https://thanhnien.vn/ong-trump-den-quan-an-vn-de-van-dong-tranh-cu-18524082903195128.htm) - 20:17 28/08/2024
-- 🕯 [AFF Cup đổi lịch, đội tuyển Việt Nam gặp nhiều thuận lợi](https://thanhnien.vn/aff-cup-doi-lich-doi-tuyen-vn-gap-nhieu-thuan-loi-185240828220818097.htm) - 17:42 28/08/2024
-- 🐲 [Ngày mới với tin tức sức khỏe: Vì sao ăn cá thu tốt cho tim và não?](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-vi-sao-an-ca-thu-tot-cho-tim-va-nao-185240828164805425.htm) - 17:10 28/08/2024
-- ⛽️ [Phát hiện điều bất ngờ giúp giảm nguy cơ đau tim, đột quỵ](https://thanhnien.vn/phat-hien-dieu-bat-ngo-giup-giam-nguy-co-dau-tim-dot-quy-185240828181654712.htm) - 17:08 28/08/2024
-- 🎉 [Lợi ích sức khỏe của cá thu](https://thanhnien.vn/loi-ich-suc-khoe-cua-ca-thu-18524082816303611.htm) - 17:07 28/08/2024
-- 🎊 [4 dấu hiệu cảnh báo cơ thể đang thiếu kẽm nghiêm trọng](https://thanhnien.vn/4-dau-hieu-canh-bao-co-the-dang-thieu-kem-nghiem-trong-185240828135015037.htm) - 17:06 28/08/2024
-- 🥳 [Đội trưởng Quế Ngọc Hải và mái ấm tuyệt vời](https://thanhnien.vn/doi-truong-que-ngoc-hai-va-mai-am-tuyet-voi-185240828221319552.htm) - 17:00 28/08/2024
-- 🤡 [Bóng chuyền Việt Nam vẫn chưa thể khắc phục các điểm yếu cố hữu](https://thanhnien.vn/bong-chuyen-viet-nam-van-chua-the-khac-phuc-cac-diem-yeu-co-huu-185240828220920276.htm) - 17:00 28/08/2024<!-- thanhnien:END -->
+- 🤠 [Bệnh viện Răng hàm mặt thẩm mỹ Paris bị đình chỉ phẫu thuật, kiểm tra 15 ngày](https://thanhnien.vn/benh-vien-rang-ham-mat-tham-my-paris-bi-dinh-chi-phau-thuat-kiem-tra-15-ngay-185240829081035125.htm) - 02:12 29/08/2024
+- 🥸 [Bảo tàng mở triển lãm khỏa thân chỉ giành cho khách khỏa thân](https://thanhnien.vn/bao-tang-mo-trien-lam-khoa-than-chi-gianh-cho-khach-khoa-than-185240829083234045.htm) - 02:03 29/08/2024
+- 🌁 [Giá USD hôm nay 29.8.2024: Đô tự do quay đầu tăng giá](https://thanhnien.vn/gia-usd-hom-nay-2982024-do-tu-do-quay-dau-tang-gia-185240829084222442.htm) - 02:02 29/08/2024
+- 🤡 [Giá vàng hôm nay 29.8.2024: Vàng nhẫn neo ở đỉnh kỷ lục](https://thanhnien.vn/gia-vang-hom-nay-2982024-vang-nhan-neo-o-dinh-ky-luc-185240829082829175.htm) - 02:01 29/08/2024
+- 🎉 [TP.HCM có thêm một siêu thị Co.opmart mới](https://thanhnien.vn/tphcm-co-them-mot-sieu-thi-coopmart-moi-185240829082512319.htm) - 02:00 29/08/2024
+- 🎊 [&#39;Chiến dịch phức tạp&#39; giải cứu con tin Israel](https://thanhnien.vn/chien-dich-phuc-tap-giai-cuu-con-tin-israel-185240828221826264.htm) - 01:56 29/08/2024
+- 🤠 [Giá xăng dầu hôm nay 29.8.2024: Chiều nay xăng giảm về mức thấp nhất trong năm?](https://thanhnien.vn/gia-xang-dau-hom-nay-2982024-chieu-nay-xang-giam-ve-muc-thap-nhat-trong-nam-185240829084738494.htm) - 01:55 29/08/2024
+- 💼 [Houthi đồng ý tạm ngừng bắn để cứu tàu có nguy cơ tràn dầu](https://thanhnien.vn/houthi-dong-y-tam-ngung-ban-de-cuu-tau-co-nguy-co-tran-dau-18524082908135442.htm) - 01:53 29/08/2024
+- 🐻 [Ông Trump nói sẽ thắng cử ở bang California với một điều kiện](https://thanhnien.vn/ong-trump-noi-se-thang-cu-o-bang-california-voi-mot-dieu-kien-185240829084244032.htm) - 01:49 29/08/2024
+- 🤔 [Lỗ hổng khiến hơn 100.000 website WordPress gặp nguy hiểm](https://thanhnien.vn/lo-hong-khien-hon-100000-website-wordpress-gap-nguy-hiem-185240826210647608.htm) - 01:49 29/08/2024
+- 📝 [Messi trở lại sân cỏ lần đầu tiên sau Copa America, đội Uruguay dính án phạt nặng](https://thanhnien.vn/messi-tro-lai-san-co-lan-dau-tien-sau-copa-america-doi-uruguay-dinh-an-phat-nang-185240829083547509.htm) - 01:39 29/08/2024
+- 🥰 [Crossover cỡ trung: Mazda CX-5 mất &#39;phong độ&#39; doanh số vẫn gấp đôi Honda CR-V](https://thanhnien.vn/crossover-co-trung-mazda-cx-5-mat-phong-do-doanh-so-van-gap-doi-honda-cr-v-185240827143147262.htm) - 01:39 29/08/2024
+- 🐲 [Diễn viên Ngọc Lan nói về quyết định ngừng đóng phim: Tôi không tiếc nuối](https://thanhnien.vn/dien-vien-ngoc-lan-noi-ve-quyet-dinh-ngung-dong-phim-toi-khong-tiec-nuoi-185240829011413349.htm) - 01:28 29/08/2024
+- 🎃 [Apple sẽ tung ra 8 mẫu iPhone 16 khác nhau](https://thanhnien.vn/apple-se-tung-ra-8-mau-iphone-16-khac-nhau-185240828214213088.htm) - 01:25 29/08/2024
+- 🎬 [Cơn sốt giá cà phê vẫn kéo dài](https://thanhnien.vn/con-sot-gia-ca-phe-van-keo-dai-185240829080219405.htm) - 01:17 29/08/2024
+- 🌜 [Nhiều thông tin hỗ trợ tân sinh viên đầu năm học](https://thanhnien.vn/nhieu-thong-tin-ho-tro-tan-sinh-vien-dau-nam-hoc-185240828194420952.htm) - 01:12 29/08/2024
+- 🦆 [Luôn đặt niềm tin vào đội ngũ trí thức](https://thanhnien.vn/luon-dat-niem-tin-vao-doi-ngu-tri-thuc-185240828233634853.htm) - 01:09 29/08/2024
+- 🐵 [Tòa bác kháng cáo vụ &#39;chủ quán karaoke 10 năm kêu oan tội môi giới mại dâm&#39;](https://thanhnien.vn/toa-bac-khang-cao-vu-chu-quan-karaoke-10-nam-keu-oan-toi-moi-gioi-mai-dam-185240828225508038.htm) - 01:09 29/08/2024
+- 🙉 [Bác sĩ chia sẻ dấu hiệu để nhận biết và nghi ngờ người mắc bệnh sởi](https://thanhnien.vn/bac-si-chia-se-dau-hieu-de-nhan-biet-va-nghi-ngo-nguoi-mac-benh-soi-18524082808523298.htm) - 01:07 29/08/2024
+- 🌋 [Giá heo hơi hôm nay 29.8.2024: Biến động trái chiều ở nhiều nơi](https://thanhnien.vn/gia-heo-hoi-hom-nay-2982024-bien-dong-trai-chieu-o-nhieu-noi-185240829071707642.htm) - 01:03 29/08/2024
+- 🐻 [Khởi kiện vì hóa đơn tiền nước 57 triệu đồng ở TP.HCM: Không được cắt nước trong thời gian tranh chấp](https://thanhnien.vn/khoi-kien-vi-hoa-don-tien-nuoc-57-trieu-dong-o-tphcm-khong-duoc-cat-nuoc-trong-thoi-gian-tranh-chap-18524082814322729.htm) - 01:02 29/08/2024
+- 🧠 [CHUYỂN ĐỘNG KINH TẾ ngày 29.8: Xử lý người bán xe không thu hồi biển số | Khai trương phố ẩm thực quận 7](https://thanhnien.vn/chuyen-dong-kinh-te-ngay-298-xu-ly-nguoi-ban-xe-khong-thu-hoi-bien-so-khai-truong-pho-am-thuc-quan-7-185240828194220901.htm) - 01:00 29/08/2024
+- 🔥 [Cách làm sáng tạo bảo vệ nền tảng tư tưởng của Đảng](https://thanhnien.vn/cach-lam-sang-tao-bao-ve-nen-tang-tu-tuong-cua-dang-185240828193713811.htm) - 01:00 29/08/2024
+- 🌋 [Ngành du lịch Long An nhận diện các hạn chế để vững tiến](https://thanhnien.vn/nganh-du-lich-long-an-nhan-dien-cac-han-che-de-vung-tien-185240828155107343.htm) - 01:00 29/08/2024
+- 😎 [Khoảng 90% ca mắc bệnh ho gà là trẻ nhỏ dưới 1 tuổi](https://thanhnien.vn/khoang-90-ca-mac-benh-ho-ga-la-tre-nho-duoi-1-tuoi-185240828154339084.htm) - 01:00 29/08/2024
+- 🥰 [Set đồ đồng bộ là trang phục thanh lịch và đa năng nhất mùa này](https://thanhnien.vn/thoi-trang-tre/set-do-dong-bo-la-trang-phuc-thanh-lich-va-da-nang-nhat-mua-nay-185240827155121925.htm) - 01:00 29/08/2024
+- 🧑‍🏫 [Nam thần tượng bị đuổi khỏi nhóm NCT vì bê bối tình dục](https://thanhnien.vn/nam-than-tuong-bi-duoi-khoi-nhom-nct-vi-be-boi-tinh-duc-185240829073429859.htm) - 00:50 29/08/2024
+- 💄 [Lịch thi đấu giải bóng chuyền VTV Cup hôm nay: Việt Nam đấu đội có chiều cao &#39;khủng&#39;](https://thanhnien.vn/lich-thi-dau-giai-bong-chuyen-vtv-cup-hom-nay-viet-nam-dau-doi-co-chieu-cao-khung-185240829063113232.htm) - 00:48 29/08/2024
+- 💯 [Rắc rối pháp lý đeo bám ông Trump](https://thanhnien.vn/rac-roi-phap-ly-deo-bam-ong-trump-185240828221525456.htm) - 00:47 29/08/2024
+- 🚀 [Khách tham quan làm vỡ chiếc bình 3.500 năm tuổi, bảo tàng phản ứng bất ngờ](https://thanhnien.vn/khach-tham-quan-lam-vo-chiec-binh-3500-nam-tuoi-bao-tang-phan-ung-bat-ngo-185240829071354969.htm) - 00:46 29/08/2024
+- 🦣 [CEO Telegram bị truy tố](https://thanhnien.vn/ceo-telegram-bi-truy-to-185240829064107491.htm) - 00:44 29/08/2024
+- 👹 [Đường phố ở TP.HCM rực rỡ cờ, hoa mừng lễ Quốc khánh 2.9](https://thanhnien.vn/duong-pho-o-tphcm-ruc-ro-co-hoa-mung-le-quoc-khanh-29-185240827204912547.htm) - 00:44 29/08/2024
+- 🦄 [Cuộc đấu Trump-Harris: So kè quyết liệt trong thăm dò dư luận](https://thanhnien.vn/cuoc-dau-trump-harris-so-ke-quyet-liet-trong-tham-do-du-luan-185240828183948994.htm) - 00:38 29/08/2024
+- 🤔 [Người trẻ học Bác trong công việc hằng ngày](https://thanhnien.vn/nguoi-tre-hoc-bac-trong-cong-viec-hang-ngay-185240828192657146.htm) - 00:32 29/08/2024
+- 🧰 [Vì sao cổ phiếu Nvidia trở nên ‘quan trọng nhất thế giới’?](https://thanhnien.vn/vi-sao-co-phieu-nvidia-tro-nen-quan-trong-nhat-the-gioi-185240828180846149.htm) - 00:15 29/08/2024
+- 🌁 [Quang Lê, Tố My đến mừng Quyền Linh tái xuất điện ảnh sau 20 năm](https://thanhnien.vn/quang-le-to-my-den-mung-quyen-linh-tai-xuat-dien-anh-sau-20-nam-185240829023200687.htm) - 00:13 29/08/2024
+- 🧐 [Mua xe ô tô đấu giá từ ngân hàng, cần làm gì để được đăng ký xe?](https://thanhnien.vn/mua-xe-o-to-dau-gia-tu-ngan-hang-can-lam-gi-de-duoc-dang-ky-xe-185240827163354445.htm) - 00:12 29/08/2024
+- 🌏 [Triển lãm sách kỷ niệm 55 năm thực hiện Di chúc Bác Hồ &lpar;1969 - 2024&rpar;](https://thanhnien.vn/trien-lam-sach-ky-niem-55-nam-thuc-hien-di-chuc-bac-ho-1969-2024-185240828230451954.htm) - 00:00 29/08/2024
+- 🎬 [Hàng loạt kho dầu Nga bị tấn công](https://thanhnien.vn/hang-loat-kho-dau-nga-bi-tan-cong-185240828222217126.htm) - 00:00 29/08/2024
+- 🚀 [Apple sẽ trang bị RAM 12 GB cho thế hệ iPhone 17](https://thanhnien.vn/apple-se-trang-bi-ram-12-gb-cho-the-he-iphone-17-185240828235600949.htm) - 23:59 28/08/2024
+- 🙉 [Choáng ngợp lồng đèn hình rồng khổng lồ dài 10m, kỳ công tạo hình trong 400 giờ](https://thanhnien.vn/choang-ngop-long-den-hinh-rong-khong-lo-dai-10m-ky-cong-tao-hinh-trong-400-gio-185240828095838067.htm) - 23:56 28/08/2024
+- 🐵 [Quyết tâm gỡ &#39;thẻ vàng&#39; IUU](https://thanhnien.vn/quyet-tam-go-the-vang-iuu-185240828233250577.htm) - 23:48 28/08/2024
+- 🐎 [Liên hoan guitar quốc tế Sài Gòn: dấu ấn 10 năm](https://thanhnien.vn/lien-hoan-guitar-quoc-te-sai-gon-dau-an-10-nam-185240828231442634.htm) - 23:45 28/08/2024
+- 🕯 [Những bảo vật của văn hóa Champa](https://thanhnien.vn/nhung-bao-vat-cua-van-hoa-champa-185240828230008405.htm) - 23:30 28/08/2024
+- 👀 [Hơn 400 phần quà đến với các hộ khó khăn](https://thanhnien.vn/hon-400-phan-qua-den-voi-cac-ho-kho-khan-185240828190532688.htm) - 23:27 28/08/2024
+- 🦒 [Doanh nghiệp đầu tư 1 tỉ nhưng PCCC mất 2 - 3 tỉ đồng](https://thanhnien.vn/doanh-nghiep-dau-tu-1-ti-nhung-pccc-mat-2-3-ti-dong-185240828233742595.htm) - 23:24 28/08/2024
+- 🧐 [Bộ &#39;ôm&#39; nhiều việc, dự án bị nghẽn: Cơ quan chuyên môn chỉ quản dự án đặc thù](https://thanhnien.vn/bo-om-nhieu-viec-du-an-bi-nghen-co-quan-chuyen-mon-chi-quan-du-an-dac-thu-185240828214313576.htm) - 23:24 28/08/2024
+- 🌊 [Trao 90 suất học bổng Nguyễn Thái Bình - Báo Thanh Niên tại Thanh Hóa, Nam Định](https://thanhnien.vn/trao-90-suat-hoc-bong-nguyen-thai-binh-bao-thanh-nien-tai-thanh-hoa-nam-dinh-185240828191117564.htm) - 23:23 28/08/2024
+- 🧑‍🏫 [Rủi ro &#39;rác trời&#39; từ cáp điện, viễn thông](https://thanhnien.vn/rui-ro-rac-troi-tu-cap-dien-vien-thong-185240828233256329.htm) - 23:21 28/08/2024
+- 🫣 [IAEA cảnh báo nguy cơ tai nạn hạt nhân tại nhà máy Kursk khi chiến sự đến gần](https://thanhnien.vn/iaea-canh-bao-nguy-co-tai-nan-hat-nhan-tai-nha-may-kursk-khi-chien-su-den-gan-18524082819324623.htm) - 23:20 28/08/2024
+- 👺 [F-16 của Ukraine đã diệt những mục tiêu Nga đầu tiên?](https://thanhnien.vn/f-16-cua-ukraine-da-diet-nhung-muc-tieu-nga-dau-tien-185240828184615793.htm) - 23:14 28/08/2024
+- 🧑‍🏫 [Champions League thể thức mới: Bốc thăm như thế nào, giải thưởng tăng bao nhiêu?](https://thanhnien.vn/champions-league-the-thuc-moi-boc-tham-nhu-the-nao-giai-thuong-tang-bao-nhieu-18524082822102561.htm) - 23:10 28/08/2024
+- 🌊 [Hội cựu chiến binh Việt Nam lên tiếng vụ 6 hội viên kêu oan ở Đắk Nông](https://thanhnien.vn/hoi-cuu-chien-binh-viet-nam-len-tieng-vu-6-hoi-vien-keu-oan-o-dak-nong-185240828171701372.htm) - 23:09 28/08/2024
+- 🕯 [Nghề livestream - Kỳ 4: Tìm một lối đi mới](https://thanhnien.vn/nghe-livestream-ky-4-tim-mot-loi-di-moi-185240828193004411.htm) - 23:07 28/08/2024
+- 🐲 [Luật sư Phạm Văn Bạch - &#39;Mùa thu nhớ mãi&#39;](https://thanhnien.vn/luat-su-pham-van-bach-mua-thu-nho-mai-185240828225041443.htm) - 23:00 28/08/2024
+- ⛽️ [Vụ biển thủ nghìn tỉ của Chủ tịch Xuyên Việt Oil](https://thanhnien.vn/vu-bien-thu-nghin-ti-cua-chu-tich-xuyen-viet-oil-185240828213801948.htm) - 23:00 28/08/2024
+- 🎉 [Sở hữu căn hộ chuẩn &#39;home resort&#39; Diamond Centery với ưu đãi lớn từ Gamuda Land](https://thanhnien.vn/so-huu-can-ho-chuan-home-resort-diamond-centery-voi-uu-dai-lon-tu-gamuda-land-185240828171815706.htm) - 23:00 28/08/2024
+- 🎊 [Băn khoăn tăng tỷ lệ xét tốt nghiệp THPT bằng học bạ lên 50%](https://thanhnien.vn/ban-khoan-tang-ty-le-xet-tot-nghiep-thpt-bang-hoc-ba-len-50-185240828222726426.htm) - 22:44 28/08/2024
+- 🥳 [Số ca tử vong do nắng nóng ở Mỹ tăng 117%](https://thanhnien.vn/so-ca-tu-vong-do-nang-nong-o-my-tang-117-185240828212656767.htm) - 22:30 28/08/2024
+- 🤡 [Lối thoát cho Intel giữa nguy nan](https://thanhnien.vn/loi-thoat-cho-intel-giua-nguy-nan-185240828212154002.htm) - 22:30 28/08/2024<!-- thanhnien:END -->
 
 ## Báo Lao Động
 <!-- laodong:START -->
