@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Đại học RMIT dừng tuyển mới ở Hà Nội một năm](https://vnexpress.net/dai-hoc-rmit-dung-tuyen-moi-o-ha-noi-mot-nam-4786833.html) - 03:34 29/08/2024
+- 🤓 [Đại học RMIT dừng tuyển mới ở Hà Nội](https://vnexpress.net/dai-hoc-rmit-dung-tuyen-moi-o-ha-noi-4786833.html) - 03:34 29/08/2024
 - 🦆 [Những cách để cải thiện ngữ pháp tiếng Anh](https://vnexpress.net/nhung-cach-de-cai-thien-ngu-phap-tieng-anh-4785913.html) - 01:59 29/08/2024
 - 🦩 [Có nên học tiếng Tây Ban Nha, tiếng Na Uy không?](https://vnexpress.net/co-nen-hoc-tieng-tay-ban-nha-tieng-na-uy-khong-4786829.html) - 23:38 28/08/2024
 - 🌮 [Thầy hiệu trưởng bơi vào trường](https://vnexpress.net/thay-hieu-truong-boi-vao-truong-4786872.html) - 23:32 28/08/2024
