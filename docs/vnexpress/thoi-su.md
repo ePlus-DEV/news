@@ -4,13 +4,13 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [TP HCM sẽ giải tỏa hơn 1.800 hộ làm cao tốc nối đến Mộc Bài](https://vnexpress.net/tp-hcm-se-giai-toa-hon-1-800-ho-lam-cao-toc-noi-den-moc-bai-4787536.html) - 05:41 30/08/2024
-- 🤓 [Lãnh đạo Đảng, Nhà nước vào Lăng viếng Chủ tịch Hồ Chí Minh](https://vnexpress.net/lanh-dao-dang-nha-nuoc-vao-lang-vieng-chu-tich-ho-chi-minh-4787516.html) - 05:33 30/08/2024
-- ⚗️ [Bộ đội rà soát hiện trường hai vụ nổ ở Nghệ An](https://vnexpress.net/bo-doi-ra-soat-hien-truong-hai-vu-no-o-nghe-an-4787440.html) - 04:11 30/08/2024
-- 🌊 [Lào Cai, Thái Nguyên ngập sâu do mưa lớn](https://vnexpress.net/lao-cai-thai-nguyen-ngap-sau-do-mua-lon-4787456.html) - 03:33 30/08/2024
-- 🎓 [Đường xuyên rặng dừa, nối phố biển trước ngày khánh thành](https://vnexpress.net/duong-xuyen-rang-dua-noi-pho-bien-truoc-ngay-khanh-thanh-4786427.html) - 23:00 29/08/2024
-- 🔥 [Dùng flycam chống kẹt xe cầu Rạch Miễu dịp lễ 2/9](https://vnexpress.net/dung-flycam-chong-ket-xe-cau-rach-mieu-dip-le-2-9-4787234.html) - 17:20 29/08/2024
-- 🦏 [Bên trong nhà máy xử lý nước thải lớn nhất nước ở TP HCM](https://vnexpress.net/ben-trong-nha-may-xu-ly-nuoc-thai-lon-nhat-nuoc-o-tp-hcm-4787524.html) - 17:00 29/08/2024
+- 🦒 [Bên trong nhà máy xử lý nước thải lớn nhất nước ở TP HCM](https://vnexpress.net/ben-trong-nha-may-xu-ly-nuoc-thai-lon-nhat-nuoc-o-tp-hcm-4787524.html) - 07:00 30/08/2024
+- 🤓 [TP HCM sẽ giải tỏa hơn 1.800 hộ làm cao tốc nối đến Mộc Bài](https://vnexpress.net/tp-hcm-se-giai-toa-hon-1-800-ho-lam-cao-toc-noi-den-moc-bai-4787536.html) - 05:41 30/08/2024
+- ⚗️ [Lãnh đạo Đảng, Nhà nước vào Lăng viếng Chủ tịch Hồ Chí Minh](https://vnexpress.net/lanh-dao-dang-nha-nuoc-vao-lang-vieng-chu-tich-ho-chi-minh-4787516.html) - 05:33 30/08/2024
+- 🌊 [Bộ đội rà soát hiện trường hai vụ nổ ở Nghệ An](https://vnexpress.net/bo-doi-ra-soat-hien-truong-hai-vu-no-o-nghe-an-4787440.html) - 04:11 30/08/2024
+- 🎓 [Lào Cai, Thái Nguyên ngập sâu do mưa lớn](https://vnexpress.net/lao-cai-thai-nguyen-ngap-sau-do-mua-lon-4787456.html) - 03:33 30/08/2024
+- 🔥 [Đường xuyên rặng dừa, nối phố biển trước ngày khánh thành](https://vnexpress.net/duong-xuyen-rang-dua-noi-pho-bien-truoc-ngay-khanh-thanh-4786427.html) - 23:00 29/08/2024
+- 🦏 [Dùng flycam chống kẹt xe cầu Rạch Miễu dịp lễ 2/9](https://vnexpress.net/dung-flycam-chong-ket-xe-cau-rach-mieu-dip-le-2-9-4787234.html) - 17:20 29/08/2024
 - 👺 [Chủ đầu tư bác thông tin &#39;thi công đường gây ngập nhà, vườn thanh long&#39;](https://vnexpress.net/chu-dau-tu-bac-thong-tin-thi-cong-duong-gay-ngap-nha-vuon-thanh-long-4787274.html) - 17:00 29/08/2024
 - 🧑‍🏫 [Khách qua Tân Sơn Nhất, Nội Bài dịp lễ 2/9 giảm](https://vnexpress.net/khach-qua-tan-son-nhat-noi-bai-dip-le-2-9-giam-4787267.html) - 17:00 29/08/2024
 - 🚦 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Việt Nam sẽ vươn mình trong kỷ nguyên mới](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-viet-nam-se-vuon-minh-trong-ky-nguyen-moi-4787309.html) - 15:43 29/08/2024
