@@ -4,7 +4,7 @@ sidebar_position: 22
 ---
 
 <!-- dantri-du-lich:START -->
-- 🥰 [Gia đình ở Hà Nội thu nhập 70 triệu vẫn không dám du lịch dịp lễ vì đắt đỏ](https://dantri.com.vn/du-lich/gia-dinh-o-ha-noi-thu-nhap-70-trieu-van-khong-dam-du-lich-dip-le-vi-dat-do-20240829230041203.htm) - 05:39 30/08/2024
+- 🥰 [Lương 70 triệu đồng/tháng vẫn không dám du lịch lễ vì vé máy bay đắt đỏ](https://dantri.com.vn/du-lich/luong-70-trieu-dongthang-van-khong-dam-du-lich-le-vi-ve-may-bay-dat-do-20240829230041203.htm) - 05:39 30/08/2024
 - 🥰 [Món ăn thuần chay phục vụ đoàn khách của tỷ phú Ấn Độ có gì đặc biệt?](https://dantri.com.vn/du-lich/mon-an-thuan-chay-phuc-vu-doan-khach-cua-ty-phu-an-do-co-gi-dac-biet-20240830100303325.htm) - 03:30 30/08/2024
 - 🐻 [Bên trong khách sạn 5 sao ở Hà Nội đón đoàn 4.500 khách Ấn Độ](https://dantri.com.vn/du-lich/ben-trong-khach-san-5-sao-o-ha-noi-don-doan-4500-khach-an-do-20240829165905686.htm) - 02:22 30/08/2024
 - 🤩 [Khu lăng mộ rộng 6ha của 3 vị vua triều Nguyễn tại Huế](https://dantri.com.vn/du-lich/khu-lang-mo-rong-6ha-cua-3-vi-vua-trieu-nguyen-tai-hue-20240829070038260.htm) - 23:04 29/08/2024
