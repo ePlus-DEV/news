@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Ngày cuối chuyển nhượng mùa hè](https://vnexpress.net/ngay-cuoi-chuyen-nhuong-mua-he-4787780.html) - 14:22 30/08/2024
+- 🪜 [Ngày cuối chuyển nhượng mùa hè 2024](https://vnexpress.net/ngay-cuoi-chuyen-nhuong-mua-he-2024-4787780.html) - 14:22 30/08/2024
 - 🦩 [HLV Popov e ngại CĐV Nam Định](https://vnexpress.net/hlv-popov-e-ngai-cdv-nam-dinh-4787705.html) - 13:13 30/08/2024
 - 🧰 [Tuyển Việt Nam vắng bảy cầu thủ ngày hội quân](https://vnexpress.net/tuyen-viet-nam-vang-bay-cau-thu-ngay-hoi-quan-4787698.html) - 13:00 30/08/2024
 - 🤗 [Tay vợt nữ bị bạo hành tinh thần khi thua Mỹ Mở rộng](https://vnexpress.net/tay-vot-nu-bi-bao-hanh-tinh-than-khi-thua-my-mo-rong-4787480.html) - 10:57 30/08/2024
