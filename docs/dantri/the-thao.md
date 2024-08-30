@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Các ngôi sao đội tuyển Việt Nam hội quân, chờ đối đầu Nga, Thái Lan](https://dantri.com.vn/the-thao/cac-ngoi-sao-doi-tuyen-viet-nam-hoi-quan-cho-doi-dau-nga-thai-lan-20240830192754472.htm) - 12:43 30/08/2024
-- 💯 [Man Utd đại chiến với HLV Mourinho ở Europa League](https://dantri.com.vn/the-thao/man-utd-dai-chien-voi-hlv-mourinho-o-europa-league-20240830190700497.htm) - 12:08 30/08/2024
+- 🎡 [Man Utd đại chiến với HLV Mourinho ở Europa League](https://dantri.com.vn/the-thao/man-utd-dai-chien-voi-hlv-mourinho-o-europa-league-20240830190700497.htm) - 13:08 30/08/2024
+- 💯 [Các ngôi sao đội tuyển Việt Nam hội quân, chờ đối đầu Nga, Thái Lan](https://dantri.com.vn/the-thao/cac-ngoi-sao-doi-tuyen-viet-nam-hoi-quan-cho-doi-dau-nga-thai-lan-20240830192754472.htm) - 12:43 30/08/2024
 - ⛽️ [Phụ huynh và VĐV tiếp tục từ chối nhận huy chương tại giải karate trẻ TPHCM](https://dantri.com.vn/the-thao/phu-huynh-va-vdv-tiep-tuc-tu-choi-nhan-huy-chuong-tai-giai-karate-tre-tphcm-20240830193439276.htm) - 12:07 30/08/2024
 - 💃 [HLV Popov: &quot;Trận Siêu Cúp Quốc gia nên tổ chức ở sân trung lập&quot;](https://dantri.com.vn/the-thao/hlv-popov-tran-sieu-cup-quoc-gia-nen-to-chuc-o-san-trung-lap-20240830183438056.htm) - 11:00 30/08/2024
 - 🌈 [Hội thao xuyên Việt &quot;Bứt phá thử thách&quot; thu hút hàng nghìn người tham gia](https://dantri.com.vn/the-thao/hoi-thao-xuyen-viet-but-pha-thu-thach-thu-hut-hang-nghin-nguoi-tham-gia-20240830155825160.htm) - 09:04 30/08/2024
