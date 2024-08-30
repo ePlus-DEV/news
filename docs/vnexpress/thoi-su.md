@@ -4,8 +4,8 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Tháp hình cánh hoa dầu ở phố đi bộ ven sông Sài Gòn](https://vnexpress.net/thap-hinh-canh-hoa-dau-o-pho-di-bo-ven-song-sai-gon-4787312.html) - 22:00 30/08/2024
-- 🤓 [Metro số 1 lần đầu chạy thử do học viên người Việt vận hành](https://vnexpress.net/metro-so-1-lan-dau-chay-thu-do-hoc-vien-nguoi-viet-van-hanh-4787748.html) - 17:00 30/08/2024
+- 🦒 [Tháp hình cánh hoa dầu ở phố đi bộ Bình Dương](https://vnexpress.net/thap-hinh-canh-hoa-dau-o-pho-di-bo-binh-duong-4787312.html) - 22:00 30/08/2024
+- 🤓 [Học viên người Việt lần đầu vận hành thử Metro số 1](https://vnexpress.net/hoc-vien-nguoi-viet-lan-dau-van-hanh-thu-metro-so-1-4787748.html) - 17:00 30/08/2024
 - ⚗️ [Đà Nẵng khánh thành quảng trường 10 ha](https://vnexpress.net/da-nang-khanh-thanh-quang-truong-10-ha-4787791.html) - 16:10 30/08/2024
 - 🌊 [Ba nam sinh nhận huy hiệu Tuổi trẻ dũng cảm vì cứu hai người đuối nước](https://vnexpress.net/ba-nam-sinh-nhan-huy-hieu-tuoi-tre-dung-cam-vi-cuu-hai-nguoi-duoi-nuoc-4787751.html) - 12:41 30/08/2024
 - 🎓 [Nhiều chuyến bay còn trống chỗ dịp 2/9](https://vnexpress.net/nhieu-chuyen-bay-con-trong-cho-dip-2-9-4787726.html) - 12:27 30/08/2024
