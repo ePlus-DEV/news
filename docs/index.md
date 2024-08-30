@@ -229,7 +229,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥷 [62 công nhân tại Đà Nẵng thắng kiện vụ tranh chấp lao động](https://laodong.vn/ldld-da-nang/62-cong-nhan-tai-da-nang-thang-kien-vu-tranh-chap-lao-dong-1387278.ldo) - 13:47 30/08/2024
 - 💫 [Thành lập Công đoàn cơ sở ở doanh nghiệp với 12 đoàn viên](https://laodong.vn/ldld-tphn/thanh-lap-cong-doan-co-so-o-doanh-nghiep-voi-12-doan-vien-1386667.ldo) - 13:28 30/08/2024
 - 🎭 [Bế giảng lớp tập huấn bồi dưỡng nghiệp vụ cán bộ Công đoàn](https://laodong.vn/ldld-can-tho/be-giang-lop-tap-huan-boi-duong-nghiep-vu-can-bo-cong-doan-1387260.ldo) - 13:09 30/08/2024
-- 😎 [Yêu cầu dừng cùng lúc 27 mỏ cát trên sông tại Phú Thọ](https://laodong.vn/xa-hoi/yeu-cau-dung-cung-luc-27-mo-cat-tren-song-tai-phu-tho-1387244.ldo) - 13:06 30/08/2024
+- 😎 [Yêu cầu dừng cùng lúc 35 mỏ cát trên sông tại Phú Thọ](https://laodong.vn/xa-hoi/yeu-cau-dung-cung-luc-35-mo-cat-tren-song-tai-phu-tho-1387244.ldo) - 13:06 30/08/2024
 - 💄 [Điều kiện tham gia liên hiệp hợp tác xã theo quy định mới](https://laodong.vn/tu-van-phap-luat/dieu-kien-tham-gia-lien-hiep-hop-tac-xa-theo-quy-dinh-moi-1383461.ldo) - 13:00 30/08/2024
 - 🫣 [Tin 20h: Loạt người gửi đơn cầu cứu vì bị nợ lương gần 2 năm](https://laodong.vn/video-xa-hoi/tin-20h-loat-nguoi-gui-don-cau-cuu-vi-bi-no-luong-gan-2-nam-1387230.ldo) - 13:00 30/08/2024
 - 🧑‍🏫 [Miền Bắc có nơi sắp mưa rất to, vượt mốc 80mm](https://laodong.vn/moi-truong/mien-bac-co-noi-sap-mua-rat-to-vuot-moc-80mm-1387249.ldo) - 12:59 30/08/2024
