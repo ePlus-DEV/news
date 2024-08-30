@@ -4,11 +4,11 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Ôtô bị đẩy hơn 200 m sau va chạm tàu hỏa](https://vnexpress.net/oto-bi-day-hon-200-m-sau-va-cham-tau-hoa-4787625.html) - 08:14 30/08/2024
+- 🦒 [Tàu hỏa đẩy ôtô hơn 200 m sau tai nạn](https://vnexpress.net/tau-hoa-day-oto-hon-200-m-sau-tai-nan-4787625.html) - 08:14 30/08/2024
 - 🤓 [Liên danh Hàn Quốc tư vấn quản lý khai thác sân bay Long Thành](https://vnexpress.net/lien-danh-han-quoc-tu-van-quan-ly-khai-thac-san-bay-long-thanh-4787581.html) - 07:38 30/08/2024
 - ⚗️ [Bên trong nhà máy xử lý nước thải lớn nhất nước ở TP HCM](https://vnexpress.net/ben-trong-nha-may-xu-ly-nuoc-thai-lon-nhat-nuoc-o-tp-hcm-4787524.html) - 07:00 30/08/2024
 - 🌊 [TP HCM sẽ giải tỏa hơn 1.800 hộ làm cao tốc nối đến Mộc Bài](https://vnexpress.net/tp-hcm-se-giai-toa-hon-1-800-ho-lam-cao-toc-noi-den-moc-bai-4787536.html) - 05:41 30/08/2024
-- 🎓 [Lãnh đạo Đảng, Nhà nước vào Lăng viếng Chủ tịch Hồ Chí Minh](https://vnexpress.net/lanh-dao-dang-nha-nuoc-vao-lang-vieng-chu-tich-ho-chi-minh-4787516.html) - 05:33 30/08/2024
+- 🎓 [Lãnh đạo Đảng, Nhà nước vào lăng viếng Chủ tịch Hồ Chí Minh](https://vnexpress.net/lanh-dao-dang-nha-nuoc-vao-lang-vieng-chu-tich-ho-chi-minh-4787516.html) - 05:33 30/08/2024
 - 🔥 [Bộ đội rà soát hiện trường hai vụ nổ ở Nghệ An](https://vnexpress.net/bo-doi-ra-soat-hien-truong-hai-vu-no-o-nghe-an-4787440.html) - 04:11 30/08/2024
 - 🦏 [Lào Cai, Thái Nguyên ngập sâu do mưa lớn](https://vnexpress.net/lao-cai-thai-nguyen-ngap-sau-do-mua-lon-4787456.html) - 03:33 30/08/2024
 - 👺 [Đường xuyên rặng dừa, nối phố biển trước ngày khánh thành](https://vnexpress.net/duong-xuyen-rang-dua-noi-pho-bien-truoc-ngay-khanh-thanh-4786427.html) - 23:00 29/08/2024
