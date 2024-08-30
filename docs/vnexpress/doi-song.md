@@ -9,7 +9,7 @@ sidebar_position: 6
 - 🚦 [Cô gái Mỹ lập danh sách 417 lý do ngại sinh con](https://vnexpress.net/co-gai-my-lap-danh-sach-417-ly-do-ngai-sinh-con-4787407.html) - 02:41 30/08/2024
 - 🦣 [Heineken thúc đẩy &#39;uống có trách nhiệm&#39; trong tháng An toàn giao thông](https://vnexpress.net/heineken-thuc-day-uong-co-trach-nhiem-trong-thang-an-toan-giao-thong-4785009.html) - 02:00 30/08/2024
 - 🎓 [Tiger Crystal Rave mang &#39;đại tiệc băng nước&#39; tới Vũng Tàu](https://vnexpress.net/tiger-crystal-rave-mang-dai-tiec-bang-nuoc-toi-vung-tau-4786695.html) - 13:00 29/08/2024
-- 🎭 [Chè cốm Hà Nội hương vị truyền thống](https://vnexpress.net/che-com-ha-noi-huong-vi-truyen-thong-4787148.html) - 12:00 29/08/2024
+- 🎭 [Chè cốm Hà Nội hương vị truyền thống](https://vnexpress.net/doi-song-cooking-che-com-ha-noi-huong-vi-truyen-thong-4787148.html) - 12:00 29/08/2024
 - 🦅 [Bao nhiêu tuổi kết hôn là phù hợp?](https://vnexpress.net/bao-nhieu-tuoi-ket-hon-la-phu-hop-4787062.html) - 09:45 29/08/2024
 - 🎃 [Sống tiết kiệm để mua ba căn nhà](https://vnexpress.net/song-tiet-kiem-de-mua-ba-can-nha-4786654.html) - 07:40 29/08/2024
 - 💪 [Mặc gì khi đi phỏng vấn tìm việc?](https://vnexpress.net/mac-gi-khi-di-phong-van-tim-viec-4786589.html) - 06:29 29/08/2024
