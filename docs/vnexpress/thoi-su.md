@@ -6,9 +6,9 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Đường xuyên rặng dừa, nối phố biển trước ngày khánh thành](https://vnexpress.net/duong-xuyen-rang-dua-noi-pho-bien-truoc-ngay-khanh-thanh-4786427.html) - 23:00 29/08/2024
 - 🤓 [Dùng flycam chống kẹt xe cầu Rạch Miễu dịp lễ 2/9](https://vnexpress.net/dung-flycam-chong-ket-xe-cau-rach-mieu-dip-le-2-9-4787234.html) - 17:20 29/08/2024
-- ⚗️ [Thi công đường gây ngập nhà, vườn thanh long ở Bình Thuận?](https://vnexpress.net/thi-cong-duong-gay-ngap-nha-vuon-thanh-long-o-binh-thuan-4787274.html) - 17:00 29/08/2024
-- 🌊 [Khách qua Tân Sơn Nhất, Nội Bài dịp lễ 2/9 giảm so với cùng kỳ](https://vnexpress.net/khach-qua-tan-son-nhat-noi-bai-dip-le-2-9-giam-so-voi-cung-ky-4787267.html) - 17:00 29/08/2024
-- 🎓 [Tổng Bí thư, Chủ tịch nước chủ trì chương trình kỷ niệm 79 năm Quốc khánh](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-chu-tri-chuong-trinh-ky-niem-79-nam-quoc-khanh-4787309.html) - 15:43 29/08/2024
+- ⚗️ [Chủ đầu tư bác thông tin &#39;thi công đường gây ngập nhà, vườn thanh long&#39;](https://vnexpress.net/chu-dau-tu-bac-thong-tin-thi-cong-duong-gay-ngap-nha-vuon-thanh-long-4787274.html) - 17:00 29/08/2024
+- 🌊 [Khách qua Tân Sơn Nhất, Nội Bài dịp lễ 2/9 giảm](https://vnexpress.net/khach-qua-tan-son-nhat-noi-bai-dip-le-2-9-giam-4787267.html) - 17:00 29/08/2024
+- 🎓 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Việt Nam sẽ vươn mình trong kỷ nguyên mới](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-viet-nam-se-vuon-minh-trong-ky-nguyen-moi-4787309.html) - 15:43 29/08/2024
 - 🔥 [&#39;Xây dựng ngoại giao thời đại mới&#39;](https://vnexpress.net/xay-dung-ngoai-giao-thoi-dai-moi-4787288.html) - 13:28 29/08/2024
 - 🦏 [Tiếp tục nổ lớn khi dọn dẹp hiện trường vụ nổ ở Nghệ An](https://vnexpress.net/tiep-tuc-no-lon-khi-don-dep-hien-truong-vu-no-o-nghe-an-4787286.html) - 11:48 29/08/2024
 - 👺 [Xe khách cháy đỏ rực trên cao tốc Cam Lâm - Vĩnh Hảo](https://vnexpress.net/xe-khach-chay-do-ruc-tren-cao-toc-cam-lam-vinh-hao-4787285.html) - 11:28 29/08/2024
