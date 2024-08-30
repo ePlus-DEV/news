@@ -5,7 +5,7 @@ sidebar_position: 24
 
 <!-- dantri-o-to-xe-may:START -->
 - 🤡 [Xe tang nghi vượt đèn đỏ, suýt gây tai nạn tại giao lộ](https://dantri.com.vn/o-to-xe-may/xe-tang-nghi-vuot-den-do-suyt-gay-tai-nan-tai-giao-lo-20240829235537435.htm) - 03:09 30/08/2024
-- 🧑‍💻 [Loạt xe mới ra mắt khách Việt trong tháng 8: Ô tô Trung Quốc chiếm đa số](https://dantri.com.vn/o-to-xe-may/loat-xe-moi-ra-mat-khach-viet-trong-thang-8-o-to-trung-quoc-chiem-da-so-20240829181156473.htm) - 17:00 29/08/2024
+- 🧑‍💻 [Loạt xe mới ra mắt khách Việt trong tháng 8: Ô tô gầm cao đa dụng áp đảo](https://dantri.com.vn/o-to-xe-may/loat-xe-moi-ra-mat-khach-viet-trong-thang-8-o-to-gam-cao-da-dung-ap-dao-20240829181156473.htm) - 17:00 29/08/2024
 - 🧑‍💻 [Ra mắt chưa lâu, BYD đã chuẩn bị đem sản phẩm mới về Việt Nam?](https://dantri.com.vn/o-to-xe-may/ra-mat-chua-lau-byd-da-chuan-bi-dem-san-pham-moi-ve-viet-nam-20240828155255017.htm) - 09:36 29/08/2024
 - 🎓 [Đại lý &quot;dọn kho&quot; Hyundai Santa Fe, giá khởi điểm thực tế rẻ ngang C-SUV](https://dantri.com.vn/o-to-xe-may/dai-ly-don-kho-hyundai-santa-fe-gia-khoi-diem-thuc-te-re-ngang-c-suv-20240829124011154.htm) - 06:26 29/08/2024
 - 🌊 [Xe chống đạn nhanh nhất thế giới là chiếc ô tô điện giá 475.000 USD](https://dantri.com.vn/o-to-xe-may/xe-chong-dan-nhanh-nhat-the-gioi-la-chiec-o-to-dien-gia-475000-usd-20240829105655307.htm) - 04:17 29/08/2024
