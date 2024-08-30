@@ -4,7 +4,7 @@ sidebar_position: 22
 ---
 
 <!-- dantri-du-lich:START -->
-- 🥰 [Đoàn khách của tỷ phú Ấn Độ ăn thuần chay &quot;bốc bằng tay&quot;](https://dantri.com.vn/du-lich/doan-khach-cua-ty-phu-an-do-an-thuan-chay-boc-bang-tay-20240830100303325.htm) - 03:30 30/08/2024
+- 🥰 [Món ăn thuần chay phục vụ đoàn khách của tỷ phú Ấn Độ có gì đặc biệt?](https://dantri.com.vn/du-lich/mon-an-thuan-chay-phuc-vu-doan-khach-cua-ty-phu-an-do-co-gi-dac-biet-20240830100303325.htm) - 03:30 30/08/2024
 - 🥰 [Bên trong khách sạn 5 sao ở Hà Nội đón đoàn 4.500 khách Ấn Độ](https://dantri.com.vn/du-lich/ben-trong-khach-san-5-sao-o-ha-noi-don-doan-4500-khach-an-do-20240829165905686.htm) - 02:22 30/08/2024
 - 🐻 [Khu lăng mộ rộng 6ha của 3 vị vua triều Nguyễn tại Huế](https://dantri.com.vn/du-lich/khu-lang-mo-rong-6ha-cua-3-vi-vua-trieu-nguyen-tai-hue-20240829070038260.htm) - 23:04 29/08/2024
 - 🤩 [Đà Lạt đẹp như tranh vẽ, du khách Ấn Độ quan tâm](https://dantri.com.vn/du-lich/da-lat-dep-nhu-tranh-ve-du-khach-an-do-quan-tam-20240829175640758.htm) - 12:50 29/08/2024
