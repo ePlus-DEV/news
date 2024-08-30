@@ -5,7 +5,7 @@ sidebar_position: 19
 
 <!-- dantri-lao-dong-viec-lam:START -->
 - ⚗️ [Đà Nẵng kỳ vọng bứt phá nhờ chính sách đặc thù cho khởi nghiệp](https://dantri.com.vn/lao-dong-viec-lam/da-nang-ky-vong-but-pha-nho-chinh-sach-dac-thu-cho-khoi-nghiep-20240830183145415.htm) - 13:52 30/08/2024
-- 🙉 [Giáo viên được nghỉ lễ 2/9 sớm, nhân viên được đi muộn ngày khai giảng](https://dantri.com.vn/lao-dong-viec-lam/giao-vien-duoc-nghi-le-29-som-nhan-vien-duoc-di-muon-ngay-khai-giang-20240830174934376.htm) - 11:06 30/08/2024
+- 🙉 [Công ty ở Hà Nội cho nhân viên nghỉ lễ 2/9 sớm, đi muộn ngày khai giảng](https://dantri.com.vn/lao-dong-viec-lam/cong-ty-o-ha-noi-cho-nhan-vien-nghi-le-29-som-di-muon-ngay-khai-giang-20240830174934376.htm) - 11:06 30/08/2024
 - 🕴 [Nghệ An dự kiến chi 76 tỷ đồng hỗ trợ cán bộ dôi dư sau sáp nhập](https://dantri.com.vn/lao-dong-viec-lam/nghe-an-du-kien-chi-76-ty-dong-ho-tro-can-bo-doi-du-sau-sap-nhap-20240829155506017.htm) - 05:14 30/08/2024
 - 🧐 [Giải cứu 13 lao động Việt Nam bị cưỡng bức tại đặc khu Tam Giác Vàng](https://dantri.com.vn/lao-dong-viec-lam/giai-cuu-13-lao-dong-viet-nam-bi-cuong-buc-tai-dac-khu-tam-giac-vang-20240829203305790.htm) - 23:46 29/08/2024
 - 🧑‍💻 [Người Việt tại Nhật ăn mì gói thay cơm, khóc ròng vì siêu thị cạn nước sạch](https://dantri.com.vn/lao-dong-viec-lam/nguoi-viet-tai-nhat-an-mi-goi-thay-com-khoc-rong-vi-sieu-thi-can-nuoc-sach-20240828144617423.htm) - 23:00 29/08/2024
