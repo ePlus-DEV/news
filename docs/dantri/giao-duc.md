@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- dantri-giao-duc:START -->
 - 🤡 [AstraZeneca Việt Nam hợp tác Đại học Y Dược TPHCM nâng cao nhân lực y tế](https://dantri.com.vn/giao-duc/astrazeneca-viet-nam-hop-tac-dai-hoc-y-duoc-tphcm-nang-cao-nhan-luc-y-te-20240830164153727.htm) - 10:00 30/08/2024
 - 🗽 [Đại học Quốc gia Hà Nội &quot;bắt tay&quot; với 2 đại học hàng đầu Trung Quốc](https://dantri.com.vn/giao-duc/dai-hoc-quoc-gia-ha-noi-bat-tay-voi-2-dai-hoc-hang-dau-trung-quoc-20240830160703959.htm) - 09:16 30/08/2024
-- 🚦 [Ý tưởng sáng tạo của học sinh cấp 2 từ sự việc 1 công nhân bị lũ cuốn](https://dantri.com.vn/giao-duc/y-tuong-sang-tao-cua-hoc-sinh-cap-2-tu-su-viec-1-cong-nhan-bi-lu-cuon-20240830150715856.htm) - 08:53 30/08/2024
+- 🚦 [Ý tưởng sáng tạo của học sinh cấp 2 từ vụ một công nhân bị lũ cuốn](https://dantri.com.vn/giao-duc/y-tuong-sang-tao-cua-hoc-sinh-cap-2-tu-vu-mot-cong-nhan-bi-lu-cuon-20240830150715856.htm) - 08:53 30/08/2024
 - 🌋 [Hơn 100 học sinh giỏi quốc gia nhập học Trường ĐH Sư phạm Hà Nội](https://dantri.com.vn/giao-duc/hon-100-hoc-sinh-gioi-quoc-gia-nhap-hoc-truong-dh-su-pham-ha-noi-20240830130230005.htm) - 06:42 30/08/2024
 - 🏊 [Tin nhắn học sinh &quot;nhìn rất nghèo&quot;: Sự kỳ thị, xúc phạm trong trường học](https://dantri.com.vn/giao-duc/tin-nhan-hoc-sinh-nhin-rat-ngheo-su-ky-thi-xuc-pham-trong-truong-hoc-20240830094736284.htm) - 03:14 30/08/2024
 - 🎃 [Nhiều trường đại học công bố điểm chuẩn xét tuyển bổ sung](https://dantri.com.vn/giao-duc/nhieu-truong-dai-hoc-cong-bo-diem-chuan-xet-tuyen-bo-sung-20240830073542601.htm) - 01:00 30/08/2024
