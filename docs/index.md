@@ -242,7 +242,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌊 [Nam Định có tân Giám đốc Sở Văn hóa, Thể thao và Du lịch](https://laodong.vn/thoi-su/nam-dinh-co-tan-giam-doc-so-van-hoa-the-thao-va-du-lich-1387219.ldo) - 11:37 30/08/2024
 - 💻 [Tìm thấy 2 học sinh bị lũ cuốn trôi trên đường đi học ở Hòa Bình](https://laodong.vn/xa-hoi/tim-thay-2-hoc-sinh-bi-lu-cuon-troi-tren-duong-di-hoc-o-hoa-binh-1387003.ldo) - 11:32 30/08/2024
 - 👨‍🏫 [Dự báo diễn biến mưa lớn ở Bắc Bộ và Nam Bộ](https://laodong.vn/video-xa-hoi/du-bao-dien-bien-mua-lon-o-bac-bo-va-nam-bo-1386987.ldo) - 11:31 30/08/2024
-- 🌈 [Trực tiếp bóng chuyền nữ Việt Nam 1-0 Expressway: Set 2](https://laodong.vn/the-thao/truc-tiep-bong-chuyen-nu-viet-nam-1-0-expressway-set-2-1387231.ldo) - 11:30 30/08/2024
+- 🌈 [Trực tiếp bóng chuyền nữ Việt Nam 2-0 Expressway: Set 3](https://laodong.vn/the-thao/truc-tiep-bong-chuyen-nu-viet-nam-2-0-expressway-set-3-1387231.ldo) - 11:30 30/08/2024
 - 🐲 [Thêm trường xét tuyển bổ sung ngành Quan hệ công chúng](https://laodong.vn/giao-duc/them-truong-xet-tuyen-bo-sung-nganh-quan-he-cong-chung-1387196.ldo) - 11:21 30/08/2024
 - 🚀 [Mức lương, thưởng cho người đi làm vào ngày Quốc khánh 2.9](https://laodong.vn/ban-tin/muc-luong-thuong-cho-nguoi-di-lam-vao-ngay-quoc-khanh-29-1386797.ldo) - 11:20 30/08/2024
 - 😺 [Sôi nổi Liên hoan tiếng hát CNVCLĐ ở Hòa Bình](https://laodong.vn/ldld-hoa-binh/soi-noi-lien-hoan-tieng-hat-cnvcld-o-hoa-binh-1387233.ldo) - 11:18 30/08/2024
