@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Băng tội phạm giả trạm sóng phát tán tin nhắn điện thoại ở TP HCM](https://vnexpress.net/bang-toi-pham-gia-tram-song-phat-tan-tin-nhan-dien-thoai-o-tp-hcm-4787495.html) - 04:54 30/08/2024
+- 😎 [Người nước ngoài bị bắt vì giả trạm sóng gửi tin nhắn rác ở TP HCM](https://vnexpress.net/nguoi-nuoc-ngoai-bi-bat-vi-gia-tram-song-gui-tin-nhan-rac-o-tp-hcm-4787495.html) - 04:54 30/08/2024
 - 🥰 [Người chặn đường đánh bạn học của con bị phạt tù](https://vnexpress.net/nguoi-chan-duong-danh-ban-hoc-cua-con-bi-phat-tu-4787386.html) - 04:45 30/08/2024
 - 🎓 [Nổ súng vào quán cà phê khiến hai vợ chồng nguy kịch](https://vnexpress.net/no-sung-vao-quan-ca-phe-khien-hai-vo-chong-nguy-kich-4787455.html) - 03:38 30/08/2024
 - 🤓 [VKS giữ nguyên cáo buộc Chủ tịch Vimedimex gian lận đấu thầu đất công](https://vnexpress.net/vks-giu-nguyen-cao-buoc-chu-tich-vimedimex-gian-lan-dau-thau-dat-cong-4787316.html) - 17:00 29/08/2024
