@@ -5,7 +5,7 @@ sidebar_position: 17
 
 <!-- dantri-the-gioi:START -->
 - 🌋 [Lính Ukraine lên tiếng sau khi đầu hàng Nga ở Kursk](https://dantri.com.vn/the-gioi/linh-ukraine-len-tieng-sau-khi-dau-hang-nga-o-kursk-20240830191546789.htm) - 12:41 30/08/2024
-- 🎬 [Ukraine &quot;thiệt đơn, thiệt kép&quot; khi F-16 rơi ngay khi lần đầu xuất kích](https://dantri.com.vn/the-gioi/ukraine-thiet-don-thiet-kep-khi-f-16-roi-ngay-khi-lan-dau-xuat-kich-20240830151246803.htm) - 11:18 30/08/2024
+- 🎬 [Ukraine &quot;thiệt đơn, thiệt kép&quot; khi F-16 rơi ngay lần đầu xuất kích](https://dantri.com.vn/the-gioi/ukraine-thiet-don-thiet-kep-khi-f-16-roi-ngay-lan-dau-xuat-kich-20240830151246803.htm) - 11:18 30/08/2024
 - 🧰 [Israel tuyên bố hạ sát chỉ huy Hamas ở Bờ Tây](https://dantri.com.vn/the-gioi/israel-tuyen-bo-ha-sat-chi-huy-hamas-o-bo-tay-20240830173740643.htm) - 11:08 30/08/2024
 - 🌋 [Moscow cáo buộc Mỹ sắp cho phép Ukraine tấn công sâu vào Nga](https://dantri.com.vn/the-gioi/moscow-cao-buoc-my-sap-cho-phep-ukraine-tan-cong-sau-vao-nga-20240830163553562.htm) - 09:40 30/08/2024
 - 🗽 [Lý do có thể khiến Ukraine mất máy bay F-16 đầu tiên](https://dantri.com.vn/the-gioi/ly-do-co-the-khien-ukraine-mat-may-bay-f-16-dau-tien-20240830151137639.htm) - 08:15 30/08/2024
