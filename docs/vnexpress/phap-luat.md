@@ -12,7 +12,7 @@ sidebar_position: 12
 - 🙉 [111 người đòi nợ thuê kiểu &#39;xã hội đen&#39; cho các ngân hàng lĩnh án](https://vnexpress.net/111-nguoi-doi-no-thue-kieu-xa-hoi-den-cho-cac-ngan-hang-linh-an-4787529.html) - 06:41 30/08/2024
 - 🤡 [Kẻ hãm hại con riêng của vợ bị bắt](https://vnexpress.net/ke-ham-hai-con-rieng-cua-vo-bi-bat-4787507.html) - 06:16 30/08/2024
 - 🗽 [Kẻ đâm gục đại úy công an bị tuyên án tử hình](https://vnexpress.net/ke-dam-guc-dai-uy-cong-an-bi-tuyen-an-tu-hinh-4787509.html) - 05:32 30/08/2024
-- 🌋 [Giả trạm sóng gửi tin nhắn rác ở TP HCM](https://vnexpress.net/gia-tram-song-gui-tin-nhan-rac-o-tp-hcm-4787495.html) - 04:54 30/08/2024
+- 🌋 [Người nước ngoài bị bắt vì giả trạm sóng gửi tin nhắn rác ở TP HCM](https://vnexpress.net/nguoi-nuoc-ngoai-bi-bat-vi-gia-tram-song-gui-tin-nhan-rac-o-tp-hcm-4787495.html) - 04:54 30/08/2024
 - 🎬 [Người chặn đường đánh bạn học của con bị phạt tù](https://vnexpress.net/nguoi-chan-duong-danh-ban-hoc-cua-con-bi-phat-tu-4787386.html) - 04:45 30/08/2024
 - 💯 [Nổ súng vào quán cà phê khiến hai vợ chồng nguy kịch](https://vnexpress.net/no-sung-vao-quan-ca-phe-khien-hai-vo-chong-nguy-kich-4787455.html) - 03:38 30/08/2024
 - 🌏 [VKS giữ nguyên cáo buộc Chủ tịch Vimedimex gian lận đấu thầu đất công](https://vnexpress.net/vks-giu-nguyen-cao-buoc-chu-tich-vimedimex-gian-lan-dau-thau-dat-cong-4787316.html) - 17:00 29/08/2024
