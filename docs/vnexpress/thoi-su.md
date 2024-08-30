@@ -4,63 +4,63 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Bộ đội rà soát hiện trường hai vụ nổ ở Nghệ An](https://vnexpress.net/bo-doi-ra-soat-hien-truong-hai-vu-no-o-nghe-an-4787440.html) - 04:11 30/08/2024
-- 🤓 [Lào Cai, Thái Nguyên ngập sâu do mưa lớn](https://vnexpress.net/lao-cai-thai-nguyen-ngap-sau-do-mua-lon-4787456.html) - 03:33 30/08/2024
-- ⚗️ [Đường xuyên rặng dừa, nối phố biển trước ngày khánh thành](https://vnexpress.net/duong-xuyen-rang-dua-noi-pho-bien-truoc-ngay-khanh-thanh-4786427.html) - 23:00 29/08/2024
-- 🌊 [Dùng flycam chống kẹt xe cầu Rạch Miễu dịp lễ 2/9](https://vnexpress.net/dung-flycam-chong-ket-xe-cau-rach-mieu-dip-le-2-9-4787234.html) - 17:20 29/08/2024
-- 🎓 [Chủ đầu tư bác thông tin &#39;thi công đường gây ngập nhà, vườn thanh long&#39;](https://vnexpress.net/chu-dau-tu-bac-thong-tin-thi-cong-duong-gay-ngap-nha-vuon-thanh-long-4787274.html) - 17:00 29/08/2024
-- 🔥 [Khách qua Tân Sơn Nhất, Nội Bài dịp lễ 2/9 giảm](https://vnexpress.net/khach-qua-tan-son-nhat-noi-bai-dip-le-2-9-giam-4787267.html) - 17:00 29/08/2024
-- 🦏 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Việt Nam sẽ vươn mình trong kỷ nguyên mới](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-viet-nam-se-vuon-minh-trong-ky-nguyen-moi-4787309.html) - 15:43 29/08/2024
-- 👺 [&#39;Xây dựng ngoại giao thời đại mới&#39;](https://vnexpress.net/xay-dung-ngoai-giao-thoi-dai-moi-4787288.html) - 13:28 29/08/2024
-- 🧑‍🏫 [Tiếp tục nổ lớn khi dọn dẹp hiện trường vụ nổ ở Nghệ An](https://vnexpress.net/tiep-tuc-no-lon-khi-don-dep-hien-truong-vu-no-o-nghe-an-4787286.html) - 11:48 29/08/2024
-- 🚦 [Xe khách cháy đỏ rực trên cao tốc Cam Lâm - Vĩnh Hảo](https://vnexpress.net/xe-khach-chay-do-ruc-tren-cao-toc-cam-lam-vinh-hao-4787285.html) - 11:28 29/08/2024
-- 🎉 [Chủ tịch tỉnh Bắc Giang Lê Ánh Dương bị cảnh cáo](https://vnexpress.net/chu-tich-tinh-bac-giang-le-anh-duong-bi-canh-cao-4787277.html) - 11:05 29/08/2024
-- 🦒 [Nhiều cây ở Hà Nội bật gốc sau cơn giông 5 phút](https://vnexpress.net/nhieu-cay-o-ha-noi-bat-goc-sau-con-giong-5-phut-4787117.html) - 09:21 29/08/2024
-- 🤗 [TP HCM có thêm 1.500 căn nhà ở xã hội](https://vnexpress.net/tp-hcm-co-them-1-500-can-nha-o-xa-hoi-4787082.html) - 06:44 29/08/2024
-- 💼 [Lương hưu sẽ được chi trả sau nghỉ lễ Quốc khánh](https://vnexpress.net/luong-huu-se-duoc-chi-tra-sau-nghi-le-quoc-khanh-4787078.html) - 05:45 29/08/2024
-- 🤩 [Đại lộ Vinh - Cửa Lò rộng 72 m thông xe](https://vnexpress.net/dai-lo-vinh-cua-lo-rong-72-m-thong-xe-4786914.html) - 03:19 29/08/2024
-- 🤡 [Tài xế tử vong, mắc kẹt trong cabin sau tai nạn](https://vnexpress.net/tai-xe-tu-vong-mac-ket-trong-cabin-sau-tai-nan-4786944.html) - 02:16 29/08/2024
-- 💯 [Robot đào ngầm hơn 120 m metro Nhổn - ga Hà Nội](https://vnexpress.net/robot-dao-ngam-hon-120-m-metro-nhon-ga-ha-noi-4786879.html) - 17:00 28/08/2024
-- 👺 [Hàng chục hecta thanh long ngập úng trong lũ](https://vnexpress.net/hang-chuc-hecta-thanh-long-ngap-ung-trong-lu-4786807.html) - 17:00 28/08/2024
-- 🌮 [&#39;Xử lý trách nhiệm người đứng đầu nếu thiếu quyết liệt chống khai thác hải sản trái phép&#39;](https://vnexpress.net/xu-ly-trach-nhiem-nguoi-dung-dau-neu-thieu-quyet-liet-chong-khai-thac-hai-san-trai-phep-4786850.html) - 14:22 28/08/2024
-- 🥸 [Người đàn ông tử vong khi bị xe tải cán qua hai lần](https://vnexpress.net/nguoi-dan-ong-tu-vong-khi-bi-xe-tai-can-qua-hai-lan-4786831.html) - 11:21 28/08/2024
-- 🐻 [&#39;Cần đơn giản hóa cấp phép tàu bay không người lái cho mục đích giải trí&#39;](https://vnexpress.net/can-don-gian-hoa-cap-phep-tau-bay-khong-nguoi-lai-cho-muc-dich-giai-tri-4786830.html) - 11:09 28/08/2024
-- 👀 [Trình chiếu 3D mapping kỷ niệm ngày truyền thống ngành Thông tin và Truyền thông](https://vnexpress.net/trinh-chieu-3d-mapping-ky-niem-ngay-truyen-thong-nganh-thong-tin-va-truyen-thong-4786818.html) - 10:59 28/08/2024
-- 🤔 [Hoàn thành xây dựng Quân đội tinh, gọn, mạnh vào năm 2025](https://vnexpress.net/hoan-thanh-xay-dung-quan-doi-tinh-gon-manh-vao-nam-2025-4786775.html) - 09:30 28/08/2024
-- 🕯 [Nhà cửa, vườn thanh long ở Bình Thuận chìm trong biển nước](https://vnexpress.net/nha-cua-vuon-thanh-long-o-binh-thuan-chim-trong-bien-nuoc-4786663.html) - 07:23 28/08/2024
-- 😺 [Gắn biển di sản quần thể thiết sam và pơ mu cổ thụ](https://vnexpress.net/gan-bien-di-san-quan-the-thiet-sam-va-po-mu-co-thu-4786591.html) - 06:01 28/08/2024
-- 🦆 [Ôtô có thể không được chạy quá tốc độ thiết kế đường cao tốc](https://vnexpress.net/oto-co-the-khong-duoc-chay-qua-toc-do-thiet-ke-duong-cao-toc-4786587.html) - 05:38 28/08/2024
+- 🦒 [TP HCM sẽ giải tỏa hơn 1.800 hộ làm cao tốc nối đến Mộc Bài](https://vnexpress.net/tp-hcm-se-giai-toa-hon-1-800-ho-lam-cao-toc-noi-den-moc-bai-4787536.html) - 05:41 30/08/2024
+- 🤓 [Lãnh đạo Đảng, Nhà nước vào Lăng viếng Chủ tịch Hồ Chí Minh](https://vnexpress.net/lanh-dao-dang-nha-nuoc-vao-lang-vieng-chu-tich-ho-chi-minh-4787516.html) - 05:33 30/08/2024
+- ⚗️ [Bộ đội rà soát hiện trường hai vụ nổ ở Nghệ An](https://vnexpress.net/bo-doi-ra-soat-hien-truong-hai-vu-no-o-nghe-an-4787440.html) - 04:11 30/08/2024
+- 🌊 [Lào Cai, Thái Nguyên ngập sâu do mưa lớn](https://vnexpress.net/lao-cai-thai-nguyen-ngap-sau-do-mua-lon-4787456.html) - 03:33 30/08/2024
+- 🎓 [Đường xuyên rặng dừa, nối phố biển trước ngày khánh thành](https://vnexpress.net/duong-xuyen-rang-dua-noi-pho-bien-truoc-ngay-khanh-thanh-4786427.html) - 23:00 29/08/2024
+- 🔥 [Dùng flycam chống kẹt xe cầu Rạch Miễu dịp lễ 2/9](https://vnexpress.net/dung-flycam-chong-ket-xe-cau-rach-mieu-dip-le-2-9-4787234.html) - 17:20 29/08/2024
+- 🦏 [Chủ đầu tư bác thông tin &#39;thi công đường gây ngập nhà, vườn thanh long&#39;](https://vnexpress.net/chu-dau-tu-bac-thong-tin-thi-cong-duong-gay-ngap-nha-vuon-thanh-long-4787274.html) - 17:00 29/08/2024
+- 👺 [Khách qua Tân Sơn Nhất, Nội Bài dịp lễ 2/9 giảm](https://vnexpress.net/khach-qua-tan-son-nhat-noi-bai-dip-le-2-9-giam-4787267.html) - 17:00 29/08/2024
+- 🧑‍🏫 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Việt Nam sẽ vươn mình trong kỷ nguyên mới](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-viet-nam-se-vuon-minh-trong-ky-nguyen-moi-4787309.html) - 15:43 29/08/2024
+- 🚦 [&#39;Xây dựng ngoại giao thời đại mới&#39;](https://vnexpress.net/xay-dung-ngoai-giao-thoi-dai-moi-4787288.html) - 13:28 29/08/2024
+- 🎉 [Tiếp tục nổ lớn khi dọn dẹp hiện trường vụ nổ ở Nghệ An](https://vnexpress.net/tiep-tuc-no-lon-khi-don-dep-hien-truong-vu-no-o-nghe-an-4787286.html) - 11:48 29/08/2024
+- 🦒 [Xe khách cháy đỏ rực trên cao tốc Cam Lâm - Vĩnh Hảo](https://vnexpress.net/xe-khach-chay-do-ruc-tren-cao-toc-cam-lam-vinh-hao-4787285.html) - 11:28 29/08/2024
+- 🤗 [Chủ tịch tỉnh Bắc Giang Lê Ánh Dương bị cảnh cáo](https://vnexpress.net/chu-tich-tinh-bac-giang-le-anh-duong-bi-canh-cao-4787277.html) - 11:05 29/08/2024
+- 💼 [Nhiều cây ở Hà Nội bật gốc sau cơn giông 5 phút](https://vnexpress.net/nhieu-cay-o-ha-noi-bat-goc-sau-con-giong-5-phut-4787117.html) - 09:21 29/08/2024
+- 🤩 [TP HCM có thêm 1.500 căn nhà ở xã hội](https://vnexpress.net/tp-hcm-co-them-1-500-can-nha-o-xa-hoi-4787082.html) - 06:44 29/08/2024
+- 🤡 [Lương hưu sẽ được chi trả sau nghỉ lễ Quốc khánh](https://vnexpress.net/luong-huu-se-duoc-chi-tra-sau-nghi-le-quoc-khanh-4787078.html) - 05:45 29/08/2024
+- 💯 [Đại lộ Vinh - Cửa Lò rộng 72 m thông xe](https://vnexpress.net/dai-lo-vinh-cua-lo-rong-72-m-thong-xe-4786914.html) - 03:19 29/08/2024
+- 👺 [Tài xế tử vong, mắc kẹt trong cabin sau tai nạn](https://vnexpress.net/tai-xe-tu-vong-mac-ket-trong-cabin-sau-tai-nan-4786944.html) - 02:16 29/08/2024
+- 🌮 [Robot đào ngầm hơn 120 m metro Nhổn - ga Hà Nội](https://vnexpress.net/robot-dao-ngam-hon-120-m-metro-nhon-ga-ha-noi-4786879.html) - 17:00 28/08/2024
+- 🥸 [Hàng chục hecta thanh long ngập úng trong lũ](https://vnexpress.net/hang-chuc-hecta-thanh-long-ngap-ung-trong-lu-4786807.html) - 17:00 28/08/2024
+- 🐻 [&#39;Xử lý trách nhiệm người đứng đầu nếu thiếu quyết liệt chống khai thác hải sản trái phép&#39;](https://vnexpress.net/xu-ly-trach-nhiem-nguoi-dung-dau-neu-thieu-quyet-liet-chong-khai-thac-hai-san-trai-phep-4786850.html) - 14:22 28/08/2024
+- 👀 [Người đàn ông tử vong khi bị xe tải cán qua hai lần](https://vnexpress.net/nguoi-dan-ong-tu-vong-khi-bi-xe-tai-can-qua-hai-lan-4786831.html) - 11:21 28/08/2024
+- 🤔 [&#39;Cần đơn giản hóa cấp phép tàu bay không người lái cho mục đích giải trí&#39;](https://vnexpress.net/can-don-gian-hoa-cap-phep-tau-bay-khong-nguoi-lai-cho-muc-dich-giai-tri-4786830.html) - 11:09 28/08/2024
+- 🕯 [Trình chiếu 3D mapping kỷ niệm ngày truyền thống ngành Thông tin và Truyền thông](https://vnexpress.net/trinh-chieu-3d-mapping-ky-niem-ngay-truyen-thong-nganh-thong-tin-va-truyen-thong-4786818.html) - 10:59 28/08/2024
+- 😺 [Hoàn thành xây dựng Quân đội tinh, gọn, mạnh vào năm 2025](https://vnexpress.net/hoan-thanh-xay-dung-quan-doi-tinh-gon-manh-vao-nam-2025-4786775.html) - 09:30 28/08/2024
+- 🦆 [Nhà cửa, vườn thanh long ở Bình Thuận chìm trong biển nước](https://vnexpress.net/nha-cua-vuon-thanh-long-o-binh-thuan-chim-trong-bien-nuoc-4786663.html) - 07:23 28/08/2024
+- 🧰 [Gắn biển di sản quần thể thiết sam và pơ mu cổ thụ](https://vnexpress.net/gan-bien-di-san-quan-the-thiet-sam-va-po-mu-co-thu-4786591.html) - 06:01 28/08/2024
+- 🦍 [Ôtô có thể không được chạy quá tốc độ thiết kế đường cao tốc](https://vnexpress.net/oto-co-the-khong-duoc-chay-qua-toc-do-thiet-ke-duong-cao-toc-4786587.html) - 05:38 28/08/2024
 - 🧰 [Đề nghị nới tiêu chuẩn phòng cháy với cơ sở sản xuất nguy cơ thấp](https://vnexpress.net/de-nghi-noi-tieu-chuan-phong-chay-voi-co-so-san-xuat-nguy-co-thap-4786562.html) - 04:40 28/08/2024
-- 🦍 [Chấn chỉnh việc vẽ cờ Tổ quốc không đúng quy chuẩn](https://vnexpress.net/chan-chinh-viec-ve-co-to-quoc-khong-dung-quy-chuan-4786614.html) - 04:39 28/08/2024
+- 💃 [Chấn chỉnh việc vẽ cờ Tổ quốc không đúng quy chuẩn](https://vnexpress.net/chan-chinh-viec-ve-co-to-quoc-khong-dung-quy-chuan-4786614.html) - 04:39 28/08/2024
 - 🧰 [Ông Nguyễn Hòa Bình làm Phó thủ tướng thường trực](https://vnexpress.net/ong-nguyen-hoa-binh-lam-pho-thu-tuong-thuong-truc-4786575.html) - 04:09 28/08/2024
-- 💃 [Nghiên cứu quy hoạch sân bay Nội Bài công suất 100 triệu hành khách](https://vnexpress.net/nghien-cuu-quy-hoach-san-bay-noi-bai-cong-suat-100-trieu-hanh-khach-4786511.html) - 04:03 28/08/2024
-- 🧰 [Ôtô khách dính chặt xe container sau tai nạn](https://vnexpress.net/oto-khach-dinh-chat-xe-container-sau-tai-nan-4786563.html) - 03:34 28/08/2024
-- 🚀 [CSGT dùng xe đặc chủng chở phụ nữ bị thương đi cấp cứu](https://vnexpress.net/csgt-dung-xe-dac-chung-cho-phu-nu-bi-thuong-di-cap-cuu-4786537.html) - 03:03 28/08/2024
-- 🎊 [Thêm một người chết trong vụ nổ ở Nghệ An](https://vnexpress.net/them-mot-nguoi-chet-trong-vu-no-o-nghe-an-4786524.html) - 02:47 28/08/2024
-- 🤭 [Phá bỏ lời nguyền &#39;làm lúa không giàu&#39;](https://vnexpress.net/pha-bo-loi-nguyen-lam-lua-khong-giau-4785526.html) - 22:00 27/08/2024
-- 🤗 [TP HCM thi tuyển 5 phó giám đốc sở](https://vnexpress.net/tp-hcm-thi-tuyen-5-pho-giam-doc-so-4786423.html) - 17:00 27/08/2024
-- 🌈 [Lâm Đồng làm đường gom cao tốc Liên Khương - Prenn](https://vnexpress.net/lam-dong-lam-duong-gom-cao-toc-lien-khuong-prenn-4786420.html) - 17:00 27/08/2024
-- 🦣 [Nổ lớn làm sập nhà, ít nhất một người chết](https://vnexpress.net/no-lon-lam-sap-nha-it-nhat-mot-nguoi-chet-4786428.html) - 15:31 27/08/2024
-- 🎡 [&#39;Khó thu hút đầu tư nước ngoài với tư duy quản lý vốn công&#39;](https://vnexpress.net/kho-thu-hut-dau-tu-nuoc-ngoai-voi-tu-duy-quan-ly-von-cong-4786418.html) - 13:46 27/08/2024
-- 🦏 [Danh sách thành viên Chính phủ nhiệm kỳ 2021-2026](https://vnexpress.net/interactive/2024/thanh-vien-chinh-phu-nhiem-ky-2021-2026) - 10:20 27/08/2024
-- 🎊 [Đèo Tà Nung ở cửa ngõ Đà Lạt sạt lở](https://vnexpress.net/deo-ta-nung-o-cua-ngo-da-lat-sat-lo-4786335.html) - 09:35 27/08/2024
-- 🫶 [Xe khách chở 15 người lao xuống suối](https://vnexpress.net/xe-khach-cho-15-nguoi-lao-xuong-suoi-4786308.html) - 08:39 27/08/2024
-- 🤔 [Quốc lộ 14 sụt lún một năm trước do &#39;mưa đột biến&#39;](https://vnexpress.net/quoc-lo-14-sut-lun-mot-nam-truoc-do-mua-dot-bien-4786218.html) - 08:24 27/08/2024
-- 🤠 [Phan Thiết mở rộng đường huyết mạch](https://vnexpress.net/phan-thiet-mo-rong-duong-huyet-mach-4786133.html) - 07:55 27/08/2024
-- 🌜 [Nam dân quân tự vệ tử vong sau tiếng nổ](https://vnexpress.net/nam-dan-quan-tu-ve-tu-vong-sau-tieng-no-4786249.html) - 07:47 27/08/2024
-- 🕯 [20 năm TP HCM chưa thể thu hồi 1.200 tỷ đồng tạm ứng](https://vnexpress.net/20-nam-tp-hcm-chua-the-thu-hoi-1-200-ty-dong-tam-ung-4786194.html) - 05:52 27/08/2024
-- 🤔 [Tiểu sử tân Chánh án TAND Tối cao, Viện trưởng VKSND Tối cao](https://vnexpress.net/tieu-su-tan-chanh-an-tand-toi-cao-vien-truong-vksnd-toi-cao-4786157.html) - 05:43 27/08/2024
-- 🏊 [Trung tâm đào tạo cán bộ trăm tỷ đồng bị bỏ hoang](https://vnexpress.net/trung-tam-dao-tao-can-bo-tram-ty-dong-bi-bo-hoang-4785962.html) - 05:16 27/08/2024
-- 🌮 [Sập sàn tòa nhà ở trung tâm TP HCM](https://vnexpress.net/sap-san-toa-nha-o-trung-tam-tp-hcm-4786193.html) - 05:03 27/08/2024
-- 🫣 [Phát hiện khu cư trú người tiền sử niên đại 8.000 năm ở Bắc Kạn](https://vnexpress.net/phat-hien-khu-cu-tru-nguoi-tien-su-nien-dai-8-000-nam-o-bac-kan-4786061.html) - 04:27 27/08/2024
-- ⚗️ [Ông Rah Lan Chung làm Chủ tịch Gia Lai](https://vnexpress.net/ong-rah-lan-chung-lam-chu-tich-gia-lai-4784337.html) - 02:10 27/08/2024
-- 🌜 [Thí điểm cấp phiếu lý lịch tư pháp qua VNeID trên cả nước từ 1/10](https://vnexpress.net/thi-diem-cap-phieu-ly-lich-tu-phap-qua-vneid-tren-ca-nuoc-tu-1-10-4786036.html) - 02:05 27/08/2024
-- 🌁 [Đường 800 tỷ đồng ở Bảo Lộc chưa sử dụng đã tan nát](https://vnexpress.net/duong-800-ty-dong-o-bao-loc-chua-su-dung-da-tan-nat-4785852.html) - 23:00 26/08/2024
-- 🐲 [Thế bế tắc của ruộng lúa miền Tây](https://vnexpress.net/the-be-tac-cua-ruong-lua-mien-tay-4785191.html) - 22:00 26/08/2024
-- ⛽️ [Gần 1.000 tỷ đồng nâng cấp đường nối Long An - TP HCM](https://vnexpress.net/gan-1-000-ty-dong-nang-cap-duong-noi-long-an-tp-hcm-4785967.html) - 17:00 26/08/2024
-- 🗽 [Tài xế chạy ngược chiều trên làn 120 km/h cao tốc Hà Nội - Hải Phòng](https://vnexpress.net/tai-xe-chay-nguoc-chieu-tren-lan-120-km-h-cao-toc-ha-noi-hai-phong-4785944.html) - 14:19 26/08/2024
-- 🔥 [Mưa lớn cuốn trôi ôtô ở Bình Dương](https://vnexpress.net/mua-lon-cuon-troi-oto-o-binh-duong-4785945.html) - 13:55 26/08/2024
-- 💯 [Tàu vướng dây cáp, đường TP HCM ùn tắc kéo dài](https://vnexpress.net/tau-vuong-day-cap-duong-tp-hcm-un-tac-keo-dai-4785935.html) - 13:00 26/08/2024
-- 🦆 [Người đàn ông suýt bị thang máy kẹp](https://vnexpress.net/nguoi-dan-ong-suyt-bi-thang-may-kep-4785929.html) - 11:56 26/08/2024
-- 🫣 [Nhiều tổ chức, cá nhân bị kỷ luật do sai phạm ở dự án điện gió](https://vnexpress.net/nhieu-to-chuc-ca-nhan-bi-ky-luat-do-sai-pham-o-du-an-dien-gio-4785813.html) - 10:47 26/08/2024
-- 🤡 [Quốc hội sẽ bầu Chủ tịch nước vào tháng 10](https://vnexpress.net/quoc-hoi-se-bau-chu-tich-nuoc-vao-thang-10-4785891.html) - 10:16 26/08/2024<!-- vnexpress-thoi-su:END -->
+- 🚀 [Nghiên cứu quy hoạch sân bay Nội Bài công suất 100 triệu hành khách](https://vnexpress.net/nghien-cuu-quy-hoach-san-bay-noi-bai-cong-suat-100-trieu-hanh-khach-4786511.html) - 04:03 28/08/2024
+- 🎊 [Ôtô khách dính chặt xe container sau tai nạn](https://vnexpress.net/oto-khach-dinh-chat-xe-container-sau-tai-nan-4786563.html) - 03:34 28/08/2024
+- 🤭 [CSGT dùng xe đặc chủng chở phụ nữ bị thương đi cấp cứu](https://vnexpress.net/csgt-dung-xe-dac-chung-cho-phu-nu-bi-thuong-di-cap-cuu-4786537.html) - 03:03 28/08/2024
+- 🤗 [Thêm một người chết trong vụ nổ ở Nghệ An](https://vnexpress.net/them-mot-nguoi-chet-trong-vu-no-o-nghe-an-4786524.html) - 02:47 28/08/2024
+- 🌈 [Phá bỏ lời nguyền &#39;làm lúa không giàu&#39;](https://vnexpress.net/pha-bo-loi-nguyen-lam-lua-khong-giau-4785526.html) - 22:00 27/08/2024
+- 🦣 [TP HCM thi tuyển 5 phó giám đốc sở](https://vnexpress.net/tp-hcm-thi-tuyen-5-pho-giam-doc-so-4786423.html) - 17:00 27/08/2024
+- 🎡 [Lâm Đồng làm đường gom cao tốc Liên Khương - Prenn](https://vnexpress.net/lam-dong-lam-duong-gom-cao-toc-lien-khuong-prenn-4786420.html) - 17:00 27/08/2024
+- 🦏 [Nổ lớn làm sập nhà, ít nhất một người chết](https://vnexpress.net/no-lon-lam-sap-nha-it-nhat-mot-nguoi-chet-4786428.html) - 15:31 27/08/2024
+- 🎊 [&#39;Khó thu hút đầu tư nước ngoài với tư duy quản lý vốn công&#39;](https://vnexpress.net/kho-thu-hut-dau-tu-nuoc-ngoai-voi-tu-duy-quan-ly-von-cong-4786418.html) - 13:46 27/08/2024
+- 🫶 [Danh sách thành viên Chính phủ nhiệm kỳ 2021-2026](https://vnexpress.net/interactive/2024/thanh-vien-chinh-phu-nhiem-ky-2021-2026) - 10:20 27/08/2024
+- 🤔 [Đèo Tà Nung ở cửa ngõ Đà Lạt sạt lở](https://vnexpress.net/deo-ta-nung-o-cua-ngo-da-lat-sat-lo-4786335.html) - 09:35 27/08/2024
+- 🤠 [Xe khách chở 15 người lao xuống suối](https://vnexpress.net/xe-khach-cho-15-nguoi-lao-xuong-suoi-4786308.html) - 08:39 27/08/2024
+- 🌜 [Quốc lộ 14 sụt lún một năm trước do &#39;mưa đột biến&#39;](https://vnexpress.net/quoc-lo-14-sut-lun-mot-nam-truoc-do-mua-dot-bien-4786218.html) - 08:24 27/08/2024
+- 🕯 [Phan Thiết mở rộng đường huyết mạch](https://vnexpress.net/phan-thiet-mo-rong-duong-huyet-mach-4786133.html) - 07:55 27/08/2024
+- 🤔 [Nam dân quân tự vệ tử vong sau tiếng nổ](https://vnexpress.net/nam-dan-quan-tu-ve-tu-vong-sau-tieng-no-4786249.html) - 07:47 27/08/2024
+- 🏊 [20 năm TP HCM chưa thể thu hồi 1.200 tỷ đồng tạm ứng](https://vnexpress.net/20-nam-tp-hcm-chua-the-thu-hoi-1-200-ty-dong-tam-ung-4786194.html) - 05:52 27/08/2024
+- 🌮 [Tiểu sử tân Chánh án TAND Tối cao, Viện trưởng VKSND Tối cao](https://vnexpress.net/tieu-su-tan-chanh-an-tand-toi-cao-vien-truong-vksnd-toi-cao-4786157.html) - 05:43 27/08/2024
+- 🫣 [Trung tâm đào tạo cán bộ trăm tỷ đồng bị bỏ hoang](https://vnexpress.net/trung-tam-dao-tao-can-bo-tram-ty-dong-bi-bo-hoang-4785962.html) - 05:16 27/08/2024
+- ⚗️ [Sập sàn tòa nhà ở trung tâm TP HCM](https://vnexpress.net/sap-san-toa-nha-o-trung-tam-tp-hcm-4786193.html) - 05:03 27/08/2024
+- 🌜 [Phát hiện khu cư trú người tiền sử niên đại 8.000 năm ở Bắc Kạn](https://vnexpress.net/phat-hien-khu-cu-tru-nguoi-tien-su-nien-dai-8-000-nam-o-bac-kan-4786061.html) - 04:27 27/08/2024
+- 🌁 [Ông Rah Lan Chung làm Chủ tịch Gia Lai](https://vnexpress.net/ong-rah-lan-chung-lam-chu-tich-gia-lai-4784337.html) - 02:10 27/08/2024
+- 🐲 [Thí điểm cấp phiếu lý lịch tư pháp qua VNeID trên cả nước từ 1/10](https://vnexpress.net/thi-diem-cap-phieu-ly-lich-tu-phap-qua-vneid-tren-ca-nuoc-tu-1-10-4786036.html) - 02:05 27/08/2024
+- ⛽️ [Đường 800 tỷ đồng ở Bảo Lộc chưa sử dụng đã tan nát](https://vnexpress.net/duong-800-ty-dong-o-bao-loc-chua-su-dung-da-tan-nat-4785852.html) - 23:00 26/08/2024
+- 🗽 [Thế bế tắc của ruộng lúa miền Tây](https://vnexpress.net/the-be-tac-cua-ruong-lua-mien-tay-4785191.html) - 22:00 26/08/2024
+- 🔥 [Gần 1.000 tỷ đồng nâng cấp đường nối Long An - TP HCM](https://vnexpress.net/gan-1-000-ty-dong-nang-cap-duong-noi-long-an-tp-hcm-4785967.html) - 17:00 26/08/2024
+- 💯 [Tài xế chạy ngược chiều trên làn 120 km/h cao tốc Hà Nội - Hải Phòng](https://vnexpress.net/tai-xe-chay-nguoc-chieu-tren-lan-120-km-h-cao-toc-ha-noi-hai-phong-4785944.html) - 14:19 26/08/2024
+- 🦆 [Mưa lớn cuốn trôi ôtô ở Bình Dương](https://vnexpress.net/mua-lon-cuon-troi-oto-o-binh-duong-4785945.html) - 13:55 26/08/2024
+- 🫣 [Tàu vướng dây cáp, đường TP HCM ùn tắc kéo dài](https://vnexpress.net/tau-vuong-day-cap-duong-tp-hcm-un-tac-keo-dai-4785935.html) - 13:00 26/08/2024
+- 🤡 [Người đàn ông suýt bị thang máy kẹp](https://vnexpress.net/nguoi-dan-ong-suyt-bi-thang-may-kep-4785929.html) - 11:56 26/08/2024<!-- vnexpress-thoi-su:END -->
