@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Tay vợt nữ bị bạo hành tinh thần khi thua Mỹ Mở rộng](https://vnexpress.net/tay-vot-nu-bi-bao-hanh-tinh-than-khi-thua-my-mo-rong-4787480.html) - 10:57 30/08/2024
-- 🦩 [Man Utd chờ 8 đối thủ ở vòng đầu Europa League](https://vnexpress.net/truc-tiep-boc-tham-vong-dau-europa-league-2024-2025-4787724.html) - 10:45 30/08/2024
+- 🦩 [Man Utd gặp đội của Mourinho ở vòng đầu Europa League](https://vnexpress.net/truc-tiep-boc-tham-vong-dau-europa-league-2024-2025-4787724.html) - 10:45 30/08/2024
 - 🧰 [Phụ huynh từ chối nhận huy chương ở giải karate trẻ TP HCM](https://vnexpress.net/phu-huynh-tu-choi-nhan-huy-chuong-o-giai-karate-tre-tp-hcm-4787353.html) - 09:07 30/08/2024
 - 🤗 [Bóng chuyền nữ Việt Nam sắp dự World Cup 2025](https://vnexpress.net/bong-chuyen-nu-viet-nam-sap-du-world-cup-2025-4787732.html) - 08:54 30/08/2024
 - 🥳 [HLV tạm quyền tuyển Anh gọi lại Grealish](https://vnexpress.net/hlv-tam-quyen-tuyen-anh-goi-lai-grealish-4787545.html) - 08:16 30/08/2024
