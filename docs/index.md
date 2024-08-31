@@ -81,7 +81,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🕴 [Hơn 5.000 trẻ TP HCM tiêm ngừa sởi](https://vnexpress.net/hon-5-000-tre-tp-hcm-tiem-ngua-soi-4787989.html) - 12:32 31/08/2024
 - 🦆 [Lội bùn bắt cá trong lễ hội &#39;phá Trằm Trà Lộc&#39;](https://vnexpress.net/loi-bun-bat-ca-trong-le-hoi-pha-tram-tra-loc-4787970.html) - 12:31 31/08/2024
 - 💫 [Hai anh em đuối nước trên sông Bồ](https://vnexpress.net/hai-anh-em-duoi-nuoc-tren-song-bo-4788024.html) - 12:17 31/08/2024
-- 🤓 [Đà Nẵng phá bỏ hai khu chung cư cũ nát làm công viên, bãi đỗ xe](https://vnexpress.net/da-nang-pha-bo-hai-khu-chung-cu-cu-nat-lam-cong-vien-bai-do-xe-4787992.html) - 12:10 31/08/2024<!-- vnexpress:END -->
+- 🤓 [Đà Nẵng phá bỏ hai khu chung cư cũ nát làm công viên, bãi đỗ xe](https://vnexpress.net/da-nang-pha-bo-hai-khu-chung-cu-cu-nat-lam-cong-vien-bai-do-xe-4787992.html) - 12:10 31/08/2024
+- 🤡 [Thông tin trái ngược về màu sắc mới trên iPhone 16 Pro Max](https://vnexpress.net/thong-tin-trai-nguoc-ve-mau-sac-moi-tren-iphone-16-pro-max-4787997.html) - 12:06 31/08/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
