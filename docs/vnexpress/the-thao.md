@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [PGA Tour ngăn &#39;sáng tạo chuyên môn&#39; ở Tour Championship 2024](https://vnexpress.net/pga-tour-ngan-sang-tao-chuyen-mon-o-tour-championship-2024-4788011.html) - 11:11 31/08/2024
-- 🦩 [Siêu cup Quốc gia: Nam Định suýt thủng lưới](https://vnexpress.net/sieu-cup-quoc-gia-2024-4788008.html) - 10:55 31/08/2024
+- 🦩 [Siêu cup Quốc gia: Thanh Hóa bị từ chối phạt đền](https://vnexpress.net/sieu-cup-quoc-gia-2024-4788008.html) - 10:55 31/08/2024
 - 🧰 [Hà Thị Hậu về thứ tư UTMB Series Final](https://vnexpress.net/ha-thi-hau-ve-thu-tu-utmb-series-final-4787890.html) - 08:24 31/08/2024
 - 🤗 [Quang Liêm tái xuất tại giải quốc nội ở KPNest 2024](https://vnexpress.net/quang-liem-tai-xuat-tai-giai-quoc-noi-o-kpnest-2024-4787961.html) - 08:18 31/08/2024
 - 🥳 [Djokovic: &#39;Tôi chơi quá tệ&#39;](https://vnexpress.net/djokovic-toi-choi-qua-te-4787947.html) - 07:17 31/08/2024
