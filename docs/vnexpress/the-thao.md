@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Arsenal rơi điểm vì tấm thẻ đỏ gây tranh cãi](https://vnexpress.net/arsenal-roi-diem-vi-tam-the-do-gay-tranh-cai-4788033.html) - 13:28 31/08/2024
+- 🪜 [Arsenal rơi điểm vì thẻ đỏ tranh cãi ở Ngoại hạng Anh](https://vnexpress.net/arsenal-roi-diem-vi-the-do-tranh-cai-o-ngoai-hang-anh-4788033.html) - 13:28 31/08/2024
 - 🦩 [PGA Tour ngăn &#39;sáng tạo chuyên môn&#39; ở Tour Championship 2024](https://vnexpress.net/pga-tour-ngan-sang-tao-chuyen-mon-o-tour-championship-2024-4788011.html) - 11:11 31/08/2024
 - 🧰 [Nam Định đè bẹp Thanh Hóa, lần đầu đoạt Siêu cup](https://vnexpress.net/sieu-cup-quoc-gia-2024-4788008-tong-thuat.html) - 10:55 31/08/2024
 - 🤗 [Hà Thị Hậu về thứ tư UTMB Series Final](https://vnexpress.net/ha-thi-hau-ve-thu-tu-utmb-series-final-4787890.html) - 08:24 31/08/2024
