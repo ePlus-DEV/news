@@ -7,7 +7,7 @@ sidebar_position: 10
 - 🔥 [Bé sơ sinh vỡ ruột trong bụng mẹ &#39;hồi phục tốt&#39;](https://vnexpress.net/be-so-sinh-vo-ruot-trong-bung-me-hoi-phuc-tot-4787832.html) - 12:55 31/08/2024
 - 🥰 [Nam giới có bị nhiễm HPV?](https://vnexpress.net/nam-gioi-co-bi-nhiem-hpv-4787858.html) - 12:51 31/08/2024
 - 💡 [Hội chứng sợ mang thai, sinh con](https://vnexpress.net/hoi-chung-so-mang-thai-sinh-con-4785725.html) - 12:42 31/08/2024
-- 🤗 [Bệnh nhân TP HCM ghép tim hiến tặng &#39;hồi phục tốt&#39;](https://vnexpress.net/benh-nhan-tp-hcm-ghep-tim-hien-tang-hoi-phuc-tot-4787988.html) - 12:37 31/08/2024
+- 🤗 [Bệnh nhân được ghép tim hiến tặng &#39;hồi phục tốt&#39;](https://vnexpress.net/benh-nhan-duoc-ghep-tim-hien-tang-hoi-phuc-tot-4787988.html) - 12:37 31/08/2024
 - 🪜 [Hút 5 lít huyết tương trắng đục như sữa](https://vnexpress.net/hut-5-lit-huyet-tuong-trang-duc-nhu-sua-4787859.html) - 12:35 31/08/2024
 - 🕯 [Hơn 5.000 trẻ TP HCM tiêm ngừa sởi](https://vnexpress.net/hon-5-000-tre-tp-hcm-tiem-ngua-soi-4787989.html) - 12:32 31/08/2024
 - 🤭 [Lượt tiêm vaccine sởi ở trẻ tăng cao](https://vnexpress.net/luot-tiem-vaccine-soi-o-tre-tang-cao-4787918.html) - 12:00 31/08/2024
