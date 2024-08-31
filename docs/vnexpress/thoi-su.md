@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Tháp hình cánh hoa dầu ở phố đi bộ Bình Dương](https://vnexpress.net/thap-hinh-canh-hoa-dau-o-pho-di-bo-binh-duong-4787312.html) - 22:00 30/08/2024
+- 🦒 [Tháp hình cánh hoa dầu cao 24 m ở phố đi bộ Bình Dương](https://vnexpress.net/thap-hinh-canh-hoa-dau-cao-24-m-o-pho-di-bo-binh-duong-4787312.html) - 22:00 30/08/2024
 - 🤓 [Học viên người Việt lần đầu vận hành thử Metro số 1](https://vnexpress.net/hoc-vien-nguoi-viet-lan-dau-van-hanh-thu-metro-so-1-4787748.html) - 17:00 30/08/2024
 - ⚗️ [Đà Nẵng khánh thành quảng trường 10 ha](https://vnexpress.net/da-nang-khanh-thanh-quang-truong-10-ha-4787791.html) - 16:10 30/08/2024
 - 🌊 [Ba nam sinh nhận huy hiệu Tuổi trẻ dũng cảm vì cứu hai người đuối nước](https://vnexpress.net/ba-nam-sinh-nhan-huy-hieu-tuoi-tre-dung-cam-vi-cuu-hai-nguoi-duoi-nuoc-4787751.html) - 12:41 30/08/2024
