@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Đường dây dùng trẻ em phục vụ khiêu dâm ở Đồng Nai bị phát hiện](https://vnexpress.net/duong-day-dung-tre-em-phuc-vu-khieu-dam-o-dong-nai-bi-phat-hien-4788012.html) - 11:32 31/08/2024
+- 😎 [Đường dây dùng trẻ em phục vụ khiêu dâm bị phát hiện](https://vnexpress.net/duong-day-dung-tre-em-phuc-vu-khieu-dam-o-dong-nai-bi-phat-hien-4788012.html) - 11:32 31/08/2024
 - 🥰 [Hai người tử vong sau hỗn chiến của gần 60 thanh thiếu niên](https://vnexpress.net/hai-nguoi-tu-vong-sau-hon-chien-cua-gan-60-thanh-thieu-nien-4787998.html) - 11:18 31/08/2024
 - 🎓 [&#39;Cỗ máy&#39; cho vay qua app kinh doanh 1.600 tỷ đồng với lãi suất cắt cổ](https://vnexpress.net/co-may-cho-vay-qua-app-kinh-doanh-1-600-ty-dong-voi-lai-suat-cao-4787973.html) - 11:05 31/08/2024
 - 🤓 [Lái ôtô đi trộm hàng trăm quả sầu riêng](https://vnexpress.net/trom-sau-rieng-4787941.html) - 06:27 31/08/2024
