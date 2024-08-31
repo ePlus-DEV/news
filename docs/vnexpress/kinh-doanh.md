@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Chưa xác thực sinh trắc học sẽ không được giao dịch thẻ online từ 2025](https://vnexpress.net/khach-hang-chua-xac-thuc-sinh-trac-hoc-se-khong-duoc-giao-dich-the-online-tu-2025-4788007.html) - 11:22 31/08/2024
+- ⛽️ [Chưa xác thực sinh trắc học sẽ không được giao dịch thẻ online từ 2025](https://vnexpress.net/chua-xac-thuc-sinh-trac-hoc-se-khong-duoc-giao-dich-the-online-tu-2025-4788007.html) - 11:22 31/08/2024
 - 🐲 [Siêu thị ở TP HCM đồng loạt khuyến mãi dịp lễ 2/9](https://vnexpress.net/sieu-thi-o-tp-hcm-dong-loat-khuyen-mai-dip-le-2-9-4787971.html) - 11:17 31/08/2024
 - 🔥 [Kinh tế Nga có thể tăng trưởng vượt dự báo năm nay](https://vnexpress.net/kinh-te-nga-co-the-tang-truong-vuot-du-bao-nam-nay-4787910.html) - 05:56 31/08/2024
 - 🐵 [Giá vàng giảm, chứng khoán Mỹ lập đỉnh mới](https://vnexpress.net/gia-vang-giam-chung-khoan-my-lap-dinh-moi-4787837.html) - 01:21 31/08/2024
