@@ -219,7 +219,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦏 [Hội chợ OCOP trên nền tảng thương mại điện tử ở Quảng Ninh](https://laodong.vn/ban-tin/hoi-cho-ocop-tren-nen-tang-thuong-mai-dien-tu-o-quang-ninh-1387682.ldo) - 15:31 31/08/2024
 - 🧰 [Liệu MEOVV có trở thành Blackpink tiếp theo không?](https://laodong.vn/van-hoa-giai-tri/lieu-meovv-co-tro-thanh-blackpink-tiep-theo-khong-1387629.ldo) - 15:00 31/08/2024
 - 🌊 [Những người không nên lạm dụng omega-3 quá mức](https://laodong.vn/ban-tin/nhung-nguoi-khong-nen-lam-dung-omega-3-qua-muc-1387635.ldo) - 15:00 31/08/2024
-- 🔥 [Tàu Bắc Nam trật bánh ở Huế 3 lần liên tiếp được thông tuyến](https://laodong.vn/xa-hoi/tau-bac-nam-trat-banh-o-hue-3-lan-lien-tiep-duoc-thong-tuyen-1387675.ldo) - 14:52 31/08/2024
+- 🔥 [Tàu Bắc Nam trật bánh ở Huế được thông tuyến](https://laodong.vn/xa-hoi/tau-bac-nam-trat-banh-o-hue-duoc-thong-tuyen-1387675.ldo) - 14:52 31/08/2024
 - 🦒 [Vũ hội đường phố ở Đà Nẵng thu hút du khách dịp nghỉ lễ 2.9](https://laodong.vn/van-hoa-giai-tri/vu-hoi-duong-pho-o-da-nang-thu-hut-du-khach-dip-nghi-le-29-1387672.ldo) - 14:49 31/08/2024
 - 💼 [Bố của cầu thủ Son Heung-min bị truy tố vì cáo buộc ngược đãi trẻ em](https://laodong.vn/bong-da-quoc-te/bo-cua-cau-thu-son-heung-min-bi-truy-to-vi-cao-buoc-nguoc-dai-tre-em-1387634.ldo) - 14:47 31/08/2024
 - 🤖 [Triệt phá đường dây mua bán người dưới 16 tuổi ở Đồng Nai](https://laodong.vn/phap-luat/triet-pha-duong-day-mua-ban-nguoi-duoi-16-tuoi-o-dong-nai-1387671.ldo) - 14:35 31/08/2024
