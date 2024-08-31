@@ -4,23 +4,23 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Guardiola cảnh báo các đối thủ về Haaland](https://vnexpress.net/guardiola-canh-bao-cac-doi-thu-ve-haaland-4787877.html) - 02:49 31/08/2024
-- 🦩 [Liverpool được dự đoán thắng Man Utd ở vòng 3 Ngoại hạng Anh](https://vnexpress.net/liverpool-duoc-du-doan-thang-man-utd-o-vong-3-ngoai-hang-anh-4787875.html) - 02:42 31/08/2024
-- 🧰 [Tân binh 67 triệu USD của Man Utd lỡ trận đấu Liverpool](https://vnexpress.net/tan-binh-67-trieu-usd-cua-man-utd-lo-tran-dau-liverpool-4786994.html) - 02:26 31/08/2024
-- 🤗 [Merson: &#39;Lối đá an toàn của Liverpool có lợi cho Man Utd&#39;](https://vnexpress.net/merson-loi-da-an-toan-cua-liverpool-co-loi-cho-man-utd-4786597.html) - 00:57 31/08/2024
-- 🥳 [Sterling đến Arsenal, Sancho sang Chelsea](https://vnexpress.net/sterling-den-arsenal-sancho-sang-chelsea-4787835.html) - 00:42 31/08/2024
-- 🦣 [Tình bạn 20 năm của HLV Klopp và VĐV khuyết tật](https://vnexpress.net/tinh-ban-20-nam-cua-hlv-klopp-va-vdv-khuyet-tat-4787813.html) - 23:07 30/08/2024
-- 🌜 [Tuyển nữ Việt Nam nỗ lực lấp đầy &#39;năm trống&#39;](https://vnexpress.net/tuyen-nu-viet-nam-no-luc-lap-day-nam-trong-4787811.html) - 23:07 30/08/2024
-- 🫶 [Khán giả thích vẻ buồn chán của Ronaldo trong lễ bốc thăm](https://vnexpress.net/khan-gia-thich-ve-buon-chan-cua-ronaldo-trong-le-boc-tham-4787657.html) - 22:58 30/08/2024
-- 🌜 [Bồ Đào Nha triệu tập Ronaldo dự Nations League](https://vnexpress.net/bo-dao-nha-trieu-tap-ronaldo-du-nations-league-4787799.html) - 17:00 30/08/2024
-- 😺 [Nhà vô địch Euro 2024 rạn xương ngay buổi tập đầu ở Arsenal](https://vnexpress.net/nha-vo-dich-euro-2024-ran-xuong-ngay-buoi-tap-dau-o-arsenal-4787796.html) - 17:00 30/08/2024
-- 👍 [Ngày cuối chuyển nhượng mùa hè 2024](https://vnexpress.net/ngay-cuoi-chuyen-nhuong-mua-he-2024-4787780.html) - 14:22 30/08/2024
-- 🐵 [HLV Popov e ngại CĐV Nam Định](https://vnexpress.net/hlv-popov-e-ngai-cdv-nam-dinh-4787705.html) - 13:13 30/08/2024
-- 💫 [Tuyển Việt Nam vắng bảy cầu thủ ngày hội quân](https://vnexpress.net/tuyen-viet-nam-vang-bay-cau-thu-ngay-hoi-quan-4787698.html) - 13:00 30/08/2024
-- 🦆 [Tay vợt nữ bị bạo hành tinh thần khi thua Mỹ Mở rộng](https://vnexpress.net/tay-vot-nu-bi-bao-hanh-tinh-than-khi-thua-my-mo-rong-4787480.html) - 10:57 30/08/2024
-- 🙉 [Man Utd gặp đội của Mourinho ở vòng đầu Europa League](https://vnexpress.net/truc-tiep-boc-tham-vong-dau-europa-league-2024-2025-4787724-tong-thuat.html) - 10:45 30/08/2024
-- 📝 [Phụ huynh từ chối nhận huy chương ở giải karate trẻ TP HCM](https://vnexpress.net/phu-huynh-tu-choi-nhan-huy-chuong-o-giai-karate-tre-tp-hcm-4787353.html) - 09:07 30/08/2024
-- 💯 [Bóng chuyền nữ Việt Nam sắp dự World Cup 2025](https://vnexpress.net/bong-chuyen-nu-viet-nam-sap-du-world-cup-2025-4787732.html) - 08:54 30/08/2024
+- 🪜 [Bóng chuyền nữ Việt Nam dự World Cup 2025](https://vnexpress.net/bong-chuyen-nu-viet-nam-du-world-cup-2025-4787732.html) - 03:12 31/08/2024
+- 🦩 [Guardiola cảnh báo các đối thủ về Haaland](https://vnexpress.net/guardiola-canh-bao-cac-doi-thu-ve-haaland-4787877.html) - 02:49 31/08/2024
+- 🧰 [Liverpool được dự đoán thắng Man Utd ở vòng 3 Ngoại hạng Anh](https://vnexpress.net/liverpool-duoc-du-doan-thang-man-utd-o-vong-3-ngoai-hang-anh-4787875.html) - 02:42 31/08/2024
+- 🤗 [Tân binh 67 triệu USD của Man Utd lỡ trận đấu Liverpool](https://vnexpress.net/tan-binh-67-trieu-usd-cua-man-utd-lo-tran-dau-liverpool-4786994.html) - 02:26 31/08/2024
+- 🥳 [Merson: &#39;Lối đá an toàn của Liverpool có lợi cho Man Utd&#39;](https://vnexpress.net/merson-loi-da-an-toan-cua-liverpool-co-loi-cho-man-utd-4786597.html) - 00:57 31/08/2024
+- 🦣 [Sterling đến Arsenal, Sancho sang Chelsea](https://vnexpress.net/sterling-den-arsenal-sancho-sang-chelsea-4787835.html) - 00:42 31/08/2024
+- 🌜 [Tình bạn 20 năm của HLV Klopp và VĐV khuyết tật](https://vnexpress.net/tinh-ban-20-nam-cua-hlv-klopp-va-vdv-khuyet-tat-4787813.html) - 23:07 30/08/2024
+- 🫶 [Tuyển nữ Việt Nam nỗ lực lấp đầy &#39;năm trống&#39;](https://vnexpress.net/tuyen-nu-viet-nam-no-luc-lap-day-nam-trong-4787811.html) - 23:07 30/08/2024
+- 🌜 [Khán giả thích vẻ buồn chán của Ronaldo trong lễ bốc thăm](https://vnexpress.net/khan-gia-thich-ve-buon-chan-cua-ronaldo-trong-le-boc-tham-4787657.html) - 22:58 30/08/2024
+- 😺 [Bồ Đào Nha triệu tập Ronaldo dự Nations League](https://vnexpress.net/bo-dao-nha-trieu-tap-ronaldo-du-nations-league-4787799.html) - 17:00 30/08/2024
+- 👍 [Nhà vô địch Euro 2024 rạn xương ngay buổi tập đầu ở Arsenal](https://vnexpress.net/nha-vo-dich-euro-2024-ran-xuong-ngay-buoi-tap-dau-o-arsenal-4787796.html) - 17:00 30/08/2024
+- 🐵 [Ngày cuối chuyển nhượng mùa hè 2024](https://vnexpress.net/ngay-cuoi-chuyen-nhuong-mua-he-2024-4787780.html) - 14:22 30/08/2024
+- 💫 [HLV Popov e ngại CĐV Nam Định](https://vnexpress.net/hlv-popov-e-ngai-cdv-nam-dinh-4787705.html) - 13:13 30/08/2024
+- 🦆 [Tuyển Việt Nam vắng bảy cầu thủ ngày hội quân](https://vnexpress.net/tuyen-viet-nam-vang-bay-cau-thu-ngay-hoi-quan-4787698.html) - 13:00 30/08/2024
+- 🙉 [Tay vợt nữ bị bạo hành tinh thần khi thua Mỹ Mở rộng](https://vnexpress.net/tay-vot-nu-bi-bao-hanh-tinh-than-khi-thua-my-mo-rong-4787480.html) - 10:57 30/08/2024
+- 📝 [Man Utd gặp đội của Mourinho ở vòng đầu Europa League](https://vnexpress.net/truc-tiep-boc-tham-vong-dau-europa-league-2024-2025-4787724-tong-thuat.html) - 10:45 30/08/2024
+- 💯 [Phụ huynh từ chối nhận huy chương ở giải karate trẻ TP HCM](https://vnexpress.net/phu-huynh-tu-choi-nhan-huy-chuong-o-giai-karate-tre-tp-hcm-4787353.html) - 09:07 30/08/2024
 - 🌈 [HLV tạm quyền tuyển Anh gọi lại Grealish](https://vnexpress.net/hlv-tam-quyen-tuyen-anh-goi-lai-grealish-4787545.html) - 08:16 30/08/2024
 - 🦩 [Neuer, Kimmich háo hức gặp Barca](https://vnexpress.net/neuer-kimmich-hao-huc-gap-barca-4787399.html) - 08:11 30/08/2024
 - 🐲 [Scheffler sải thêm bước dài đến ngôi tân vương PGA Tour 2024](https://vnexpress.net/scheffler-sai-them-buoc-dai-den-ngoi-tan-vuong-pga-tour-2024-4787880.html) - 08:00 30/08/2024
