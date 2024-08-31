@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Haaland lập hat-trick liên tiếp ở Ngoại hạng Anh](https://vnexpress.net/haaland-lap-hat-trick-lien-tiep-o-ngoai-hang-anh-4788061.html) - 18:24 31/08/2024
+- 🎬 [Haaland lập hat-trick thứ hai liên tiếp ở Ngoại hạng Anh](https://vnexpress.net/haaland-lap-hat-trick-thu-hai-lien-tiep-o-ngoai-hang-anh-4788061.html) - 18:24 31/08/2024
 - 🐎 [Những thực phẩm phụ nữ trung niên nên ăn thường xuyên](https://vnexpress.net/nhung-thuc-pham-phu-nu-trung-nien-nen-an-thuong-xuyen-4788013.html) - 18:00 31/08/2024
 - 🦍 [Cải tạo nhà 30 năm tuổi thành không gian như resort nhiệt đới](https://vnexpress.net/cai-tao-nha-30-nam-tuoi-thanh-khong-gian-nhu-resort-nhiet-doi-4787692.html) - 17:05 31/08/2024
 - 🏊 [5 năm vượt khó cấm vận của Huawei](https://vnexpress.net/5-nam-vuot-kho-cam-van-cua-huawei-4787556.html) - 17:05 31/08/2024
