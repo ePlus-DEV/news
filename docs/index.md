@@ -36,7 +36,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🕯 [Bé sơ sinh vỡ ruột trong bụng mẹ &#39;hồi phục tốt&#39;](https://vnexpress.net/be-so-sinh-vo-ruot-trong-bung-me-hoi-phuc-tot-4787832.html) - 12:55 31/08/2024
 - 💃 [Nam giới có bị nhiễm HPV?](https://vnexpress.net/nam-gioi-co-bi-nhiem-hpv-4787858.html) - 12:51 31/08/2024
 - 💂 [Hội chứng sợ mang thai, sinh con](https://vnexpress.net/hoi-chung-so-mang-thai-sinh-con-4785725.html) - 12:42 31/08/2024
-- 🎊 [Bệnh nhân TP HCM ghép tim hiến tặng &#39;hồi phục tốt&#39;](https://vnexpress.net/benh-nhan-tp-hcm-ghep-tim-hien-tang-hoi-phuc-tot-4787988.html) - 12:37 31/08/2024
+- 🎊 [Bệnh nhân được ghép tim hiến tặng &#39;hồi phục tốt&#39;](https://vnexpress.net/benh-nhan-duoc-ghep-tim-hien-tang-hoi-phuc-tot-4787988.html) - 12:37 31/08/2024
 - 🤠 [Hút 5 lít huyết tương trắng đục như sữa](https://vnexpress.net/hut-5-lit-huyet-tuong-trang-duc-nhu-sua-4787859.html) - 12:35 31/08/2024
 - 🌈 [Hơn 5.000 trẻ TP HCM tiêm ngừa sởi](https://vnexpress.net/hon-5-000-tre-tp-hcm-tiem-ngua-soi-4787989.html) - 12:32 31/08/2024
 - 🎬 [Lội bùn bắt cá trong lễ hội &#39;phá Trằm Trà Lộc&#39;](https://vnexpress.net/loi-bun-bat-ca-trong-le-hoi-pha-tram-tra-loc-4787970.html) - 12:31 31/08/2024
@@ -61,8 +61,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎬 [Thủ tướng: Tạo thuận lợi nhất cho người dân, doanh nghiệp làm thủ tục hành chính](https://vnexpress.net/thu-tuong-tao-thuan-loi-nhat-cho-nguoi-dan-doanh-nghiep-lam-thu-tuc-hanh-chinh-4787889.html) - 10:28 31/08/2024
 - 👨‍🏫 [Điểm tin 17h: Bóng chuyền nữ Việt Nam dự World Cup 2025 | Trực thăng chở hơn 20 người mất tích ở vùng viễn đông Nga](https://vnexpress.net/diem-tin-17h-bong-chuyen-nu-viet-nam-du-world-cup-2025-truc-thang-cho-hon-20-nguoi-mat-tich-o-vung-vien-dong-nga-4787995.html) - 10:04 31/08/2024
 - ⚗️ [Nga phóng gần 60 tên lửa, UAV tập kích Ukraine](https://vnexpress.net/nga-phong-gan-60-ten-lua-uav-tap-kich-ukraine-4787972.html) - 10:04 31/08/2024
-- 😺 [10 bộ đầm vintage đẹp qua các mùa LHP Venice](https://vnexpress.net/10-bo-dam-vintage-dep-qua-cac-mua-lhp-venice-4787256.html) - 10:00 31/08/2024
-- 🔥 [Bị mỡ máu cao nên tránh ăn gì dịp lễ?](https://vnexpress.net/bi-mo-mau-cao-nen-tranh-an-gi-dip-le-4787893.html) - 10:00 31/08/2024
+- 😺 [Bị mỡ máu cao nên tránh ăn gì dịp lễ?](https://vnexpress.net/bi-mo-mau-cao-nen-tranh-an-gi-dip-le-4787893.html) - 10:00 31/08/2024
+- 🔥 [10 bộ đầm vintage đẹp qua các mùa LHP Venice](https://vnexpress.net/10-bo-dam-vintage-dep-qua-cac-mua-lhp-venice-4787256.html) - 10:00 31/08/2024
 - 🧰 [Hiểu lầm về vitamin K2 khiến trẻ lỡ giai đoạn &#39;vàng&#39; phát triển chiều cao](https://vnexpress.net/hieu-lam-ve-vitamin-k2-khien-tre-lo-giai-doan-vang-phat-trien-chieu-cao-4784020.html) - 10:00 31/08/2024
 - 🦒 [Ôtô hạng sang biến dạng sau tai nạn](https://vnexpress.net/oto-hang-sang-bien-dang-sau-tai-nan-4787983.html) - 09:52 31/08/2024
 - ⛽️ [Hàng nghìn khách Việt đi Trung Quốc ngày đầu kỳ nghỉ lễ](https://vnexpress.net/hang-nghin-khach-viet-di-trung-quoc-ngay-dau-ky-nghi-le-4787957.html) - 09:47 31/08/2024
