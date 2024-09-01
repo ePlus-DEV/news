@@ -75,9 +75,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎓 [One Value - cầu nối thành công nhiều doanh nghiệp Việt, Nhật](https://vnexpress.net/one-value-cau-noi-thanh-cong-nhieu-doanh-nghiep-viet-nhat-4787937.html) - 01:30 01/09/2024
 - 💫 [Bách khoa Hà Nội lần đầu có sinh viên tốt nghiệp điểm tuyệt đối](https://vnexpress.net/bach-khoa-ha-noi-lan-dau-co-sinh-vien-tot-nghiep-diem-tuyet-doi-4788089.html) - 01:28 01/09/2024
 - 🤩 [Gen Z định nghĩa lại văn hóa rượu bia](https://vnexpress.net/gen-z-dinh-nghia-lai-van-hoa-ruou-bia-4788040.html) - 01:25 01/09/2024
-- 🏊 [Leverkusen đứt chuỗi 44 trận bất bại](https://vnexpress.net/leverkusen-dut-chuoi-44-tran-bat-bai-4788134.html) - 01:23 01/09/2024
-- 💂 [Khúc gỗ văng cắt đôi tai, cắm sâu vào mặt thanh niên](https://vnexpress.net/khuc-go-vang-cat-doi-tai-cam-sau-vao-mat-thanh-nien-4787789.html) - 01:23 01/09/2024
-- 🚀 [Tiến Luật dẫn đầu tập thi &#39;Anh trai&#39;](https://vnexpress.net/tien-luat-dan-dau-tap-thi-anh-trai-4788068.html) - 01:12 01/09/2024<!-- vnexpress:END -->
+- 🏊 [Leverkusen đứt chuỗi 44 trận bất bại](https://vnexpress.net/leverkusen-dut-chuoi-44-tran-bat-bai-4788134.html) - 01:23 01/09/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
