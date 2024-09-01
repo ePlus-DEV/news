@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cảnh sát Mỹ tay không bắt cá sấu giúp dân](https://vnexpress.net/canh-sat-my-tay-khong-bat-ca-sau-giup-dan-4788246.html) - 11:22 01/09/2024
+- 😎 [Cảnh sát Mỹ tay không bắt cá sấu](https://vnexpress.net/canh-sat-my-tay-khong-bat-ca-sau-4788246.html) - 11:22 01/09/2024
 - 🥰 [Quảng cáo thuê cho gái bán dâm trên nhiều web &#39;đen&#39;](https://vnexpress.net/quang-cao-thue-cho-gai-ban-dam-tren-nhieu-web-den-4788202.html) - 10:20 01/09/2024
 - 🎓 [Vợ chồng nuôi 11 cô gái để bán dâm](https://vnexpress.net/vo-chong-nuoi-11-co-gai-de-ban-dam-4788220.html) - 10:01 01/09/2024
 - 🤓 [Lừa 1,5 tỷ đồng trong lúc trốn truy nã](https://vnexpress.net/lua-1-5-ty-dong-trong-luc-tron-truy-na-4788172.html) - 06:52 01/09/2024
