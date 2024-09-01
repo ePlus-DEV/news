@@ -4,8 +4,8 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Nhiều đường ở TP HCM ngập sâu trong mưa lớn dịp nghỉ lễ](https://vnexpress.net/nhieu-duong-o-tp-hcm-ngap-sau-trong-mua-lon-dip-nghi-le-4788243.html) - 11:36 01/09/2024
-- 🤓 [Ôtô biến dạng, xe máy bốc cháy sau tai nạn, 2 người chết](https://vnexpress.net/oto-bien-dang-xe-may-boc-chay-sau-tai-nan-2-nguoi-chet-4788245.html) - 11:10 01/09/2024
+- 🦒 [Nhiều đường ở TP HCM ngập sâu trong mưa lớn dịp lễ](https://vnexpress.net/nhieu-duong-o-tp-hcm-ngap-sau-trong-mua-lon-dip-le-4788243.html) - 11:36 01/09/2024
+- 🤓 [Ôtô biến dạng, xe máy bốc cháy sau tai nạn, 2 người chết](https://vnexpress.net/tai-nan-o-tp-bao-loc-4788245.html) - 11:10 01/09/2024
 - ⚗️ [Thủ tướng: Nhiều nhà đầu tư lớn quan tâm dự án cảng Liên Chiểu](https://vnexpress.net/thu-tuong-nhieu-nha-dau-tu-lon-quan-tam-du-an-cang-lien-chieu-4788230.html) - 10:35 01/09/2024
 - 🌊 [Thủ tướng Phạm Minh Chính thăm học sinh Trường Hy Vọng](https://vnexpress.net/thu-tuong-pham-minh-chinh-tham-hoc-sinh-truong-hy-vong-4788190.html) - 09:03 01/09/2024
 - 🎓 [Bộ đội Việt Nam vẽ quốc kỳ 100 m2 trên mái nhà](https://vnexpress.net/bo-doi-viet-nam-ve-quoc-ky-100-m2-tren-mai-nha-4788128.html) - 04:24 01/09/2024
