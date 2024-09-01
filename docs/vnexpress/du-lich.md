@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Ba món gỏi Việt vào top món trộn ngon nhất châu Á](https://vnexpress.net/ba-mon-goi-viet-vao-top-mon-tron-ngon-nhat-chau-a-4787902.html) - 23:09 31/08/2024
+- 💂 [Ba món Việt vào top món trộn ngon nhất châu Á](https://vnexpress.net/ba-mon-viet-vao-top-mon-tron-ngon-nhat-chau-a-4787902.html) - 23:09 31/08/2024
 - 🪄 [Lễ hội thả diều của Australia dự kiến thu hút 30.000 du khách](https://vnexpress.net/le-hoi-tha-dieu-cua-australia-du-kien-thu-hut-30-000-du-khach-4788016.html) - 11:30 31/08/2024
 - 🦅 [Hàng nghìn khách Việt đi Trung Quốc ngày đầu kỳ nghỉ lễ](https://vnexpress.net/hang-nghin-khach-viet-di-trung-quoc-ngay-dau-ky-nghi-le-4787957.html) - 09:47 31/08/2024
 - 🕴 [Một mùa hè quá tải du lịch](https://vnexpress.net/mot-mua-he-qua-tai-du-lich-4787561.html) - 08:20 31/08/2024
