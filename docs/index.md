@@ -210,7 +210,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🗽 [Chelsea đánh rơi chiến thắng, Tottenham thua Newcaste](https://laodong.vn/bong-da-quoc-te/chelsea-danh-roi-chien-thang-tottenham-thua-newcaste-1388062.ldo) - 14:50 01/09/2024
 - 📝 [Bóng chuyền Việt Nam 1.9: Số áo của Thanh Thúy ở Thổ Nhĩ Kỳ](https://laodong.vn/the-thao/bong-chuyen-viet-nam-19-so-ao-cua-thanh-thuy-o-tho-nhi-ky-1388060.ldo) - 14:48 01/09/2024
 - 🦏 [Bắt lái xe vi phạm nồng độ cồn, gây tai nạn khiến 2 người tử vong](https://laodong.vn/phap-luat/bat-lai-xe-vi-pham-nong-do-con-gay-tai-nan-khien-2-nguoi-tu-vong-1388057.ldo) - 14:46 01/09/2024
-- 🦩 [Trực tiếp bóng đá Man United 0-0 Liverpool: Hiệp 1](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-man-united-0-0-liverpool-hiep-1-1388056.ldo) - 14:24 01/09/2024
+- 🦩 [Trực tiếp bóng đá Man United 0-1 Liverpool: Diaz mở tỉ số](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-man-united-0-1-liverpool-diaz-mo-ti-so-1388056.ldo) - 14:24 01/09/2024
 - 🦏 [Sa Pa tắc đường dịp nghỉ lễ, du khách bỏ xe xuống đi bộ](https://laodong.vn/xa-hoi/sa-pa-tac-duong-dip-nghi-le-du-khach-bo-xe-xuong-di-bo-1388053.ldo) - 14:20 01/09/2024
 - 🧰 [Bình Dương: Mưa dông kéo dài khiến nhiều nơi ngập sâu cục bộ](https://laodong.vn/xa-hoi/binh-duong-mua-dong-keo-dai-khien-nhieu-noi-ngap-sau-cuc-bo-1388054.ldo) - 14:11 01/09/2024
 - 🌊 [4 bài tập tốt cho chuyện giường chiếu](https://laodong.vn/yeu-360/4-bai-tap-tot-cho-chuyen-giuong-chieu-1387884.ldo) - 14:00 01/09/2024
