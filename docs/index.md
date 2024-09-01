@@ -244,7 +244,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐲 [Cảnh báo tác động do mưa lớn kéo dài ở Nam Bộ, Tây Nguyên](https://laodong.vn/moi-truong/canh-bao-tac-dong-do-mua-lon-keo-dai-o-nam-bo-tay-nguyen-1388023.ldo) - 12:14 01/09/2024
 - 🚀 [&quot;Làm giàu với ma&quot; thắng thế, Hoài Linh, Lê Giang tung hứng](https://laodong.vn/van-hoa-giai-tri/lam-giau-voi-ma-thang-the-hoai-linh-le-giang-tung-hung-1387999.ldo) - 12:11 01/09/2024
 - 😺 [Biển Cồn Vành Thái Bình vắng khách trong ngày nghỉ lễ thứ 2](https://laodong.vn/xa-hoi/bien-con-vanh-thai-binh-vang-khach-trong-ngay-nghi-le-thu-2-1388021.ldo) - 12:10 01/09/2024
-- 🕴 [Cách tăng tỉ lệ trao đổi chất khi nghỉ ngơi giúp giảm cân](https://laodong.vn/suc-khoe/cach-tang-ti-le-trao-doi-chat-khi-nghi-ngoi-giup-giam-can-1387940.ldo) - 12:00 01/09/2024
+- 🕴 [Thế giới 24h: Phát hiện mới về người xây kim tự tháp Ai Cập](https://laodong.vn/podcast-tin-tuc/the-gioi-24h-phat-hien-moi-ve-nguoi-xay-kim-tu-thap-ai-cap-1387936.ldo) - 12:00 01/09/2024
 - 🌋 [Erling Haaland vẫn đang tiến bộ chứ không hề bị chững lại](https://laodong.vn/bong-da-quoc-te/erling-haaland-van-dang-tien-bo-chu-khong-he-bi-chung-lai-1387993.ldo) - 12:00 01/09/2024
 - 💄 [Cha Eun Woo là diễn viên thế hệ mới được kỳ vọng nhất](https://laodong.vn/giai-tri/cha-eun-woo-la-dien-vien-the-he-moi-duoc-ky-vong-nhat-1387979.ldo) - 12:00 01/09/2024<!-- laodong:END -->
 
