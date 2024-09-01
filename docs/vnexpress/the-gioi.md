@@ -9,7 +9,7 @@ sidebar_position: 2
 - 🤭 [Nga tuyên bố không trao đổi lãnh thổ với Ukraine](https://vnexpress.net/nga-tuyen-bo-khong-trao-doi-lanh-tho-voi-ukraine-4788072.html) - 01:55 01/09/2024
 - 🧑‍💻 [Tâm trạng của người Nga ở tỉnh Kursk khi Ukraine tấn công](https://vnexpress.net/tam-trang-cua-nguoi-nga-o-tinh-kursk-khi-ukraine-tan-cong-4787352.html) - 00:52 01/09/2024
 - 🦏 [Bà Harris: Ông Trump làm chiêu trò chính trị ở nghĩa trang quân đội](https://vnexpress.net/ba-harris-ong-trump-lam-chieu-tro-chinh-tri-o-nghia-trang-quan-doi-4788069.html) - 00:13 01/09/2024
-- 🦒 [Phát hiện nhiều thi thể nghi là con tin Israel trong đường hầm Gaza](https://vnexpress.net/phat-hien-nhieu-thi-the-nghi-la-con-tin-israel-trong-duong-ham-gaza-4788067.html) - 23:44 31/08/2024
+- 🦒 [Israel phát hiện 6 thi thể con tin trong đường hầm Gaza](https://vnexpress.net/israel-phat-hien-6-thi-the-con-tin-trong-duong-ham-gaza-4788067.html) - 23:44 31/08/2024
 - 🌈 [Ukraine đối mặt thảm họa tác chiến nếu mất thành trì Pokrovsk](https://vnexpress.net/ukraine-doi-mat-tham-hoa-tac-chien-neu-mat-thanh-tri-pokrovsk-4787357.html) - 22:00 31/08/2024
 - 🧑‍🏫 [Lãnh đạo Israel &#39;tranh cãi gay gắt&#39; về thỏa thuận ngừng bắn ở Gaza](https://vnexpress.net/lanh-dao-israel-tranh-cai-gay-gat-ve-thoa-thuan-ngung-ban-o-gaza-4788037.html) - 16:56 31/08/2024
 - 🐲 [Công chúa Na Uy kết hôn với pháp sư da màu](https://vnexpress.net/cong-chua-na-uy-ket-hon-voi-phap-su-da-mau-4788047.html) - 16:16 31/08/2024
