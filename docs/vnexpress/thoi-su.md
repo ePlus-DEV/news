@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Thủ tướng Phạm Minh Chính thăm học sinh Trường Hy Vọng](https://vnexpress.net/thu-tuong-pham-minh-chinh-tham-hoc-sinh-truong-hy-vong-4788190.html) - 09:03 01/09/2024
 - ⚗️ [Bộ đội Việt Nam vẽ quốc kỳ 100 m2 trên mái nhà](https://vnexpress.net/bo-doi-viet-nam-ve-quoc-ky-100-m2-tren-mai-nha-4788128.html) - 04:24 01/09/2024
 - 🌊 [Cháy kho ở TP Bảo Lộc, thiêu rụi 5 ôtô](https://vnexpress.net/chay-kho-o-tp-bao-loc-4788144.html) - 03:58 01/09/2024
-- 🎓 [Tài xế vụ ôtô bị tàu tông đẩy hơn 200 m đã tử vong](https://vnexpress.net/tai-xe-vu-oto-bi-tau-tong-day-hon-200-m-da-tu-vong-4788130.html) - 03:52 01/09/2024
+- 🎓 [Tài xế vụ ôtô bị tàu tông đẩy hơn 200 m tử vong](https://vnexpress.net/tai-xe-vu-oto-bi-tau-tong-day-hon-200-m-tu-vong-4788130.html) - 03:52 01/09/2024
 - 🔥 [Nổ trạm biến áp, hơn 100.000 người mất điện](https://vnexpress.net/no-tram-bien-ap-hon-100-000-nguoi-mat-dien-4788127.html) - 03:11 01/09/2024
 - 🦏 [Dự án chống ngập cao tốc không thể xong trước cao điểm mùa mưa](https://vnexpress.net/du-an-chong-ngap-cao-toc-khong-the-xong-truoc-cao-diem-mua-mua-4788005.html) - 01:00 01/09/2024
 - 👺 [Cấm xe 20 tuyến đường trung tâm TP HCM tối 2/9](https://vnexpress.net/cam-xe-20-tuyen-duong-trung-tam-tp-hcm-toi-2-9-4787999.html) - 23:00 31/08/2024
