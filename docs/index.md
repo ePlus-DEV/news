@@ -142,7 +142,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Hoa hậu Lương Thùy Linh hiếm hoi bật khóc trên sân khấu](https://thanhnien.vn/hoa-hau-luong-thuy-linh-hiem-hoi-bat-khoc-tren-san-khau-185240901154624563.htm) - 10:25 01/09/2024
+- 🤠 [Hoa hậu Lương Thùy Linh bật khóc tại buổi họp fan](https://thanhnien.vn/hoa-hau-luong-thuy-linh-hiem-hoi-bat-khoc-tren-san-khau-185240901154624563.htm) - 10:25 01/09/2024
 - 🥸 [Ca sĩ Hồng Nhung diện bikini đọ dáng với Hà Kiều Anh](https://thanhnien.vn/ca-si-hong-nhung-dien-bikini-do-dang-voi-ha-kieu-anh-185240901145644057.htm) - 10:17 01/09/2024
 - 🌁 [Người phụ nữ Trung Quốc gây xôn xao vì giả sảy thai để nhận tiền bảo hiểm](https://thanhnien.vn/nguoi-phu-nu-trung-quoc-gay-xon-xao-vi-gia-say-thai-de-nhan-tien-bao-hiem-185240901164312259.htm) - 10:12 01/09/2024
 - 🤡 [3 chiếc quần mềm mại thích hợp cho ngày giữa mùa](https://thanhnien.vn/thoi-trang-tre/3-chiec-quan-mem-mai-thich-hop-cho-ngay-giua-mua-185240831223859451.htm) - 10:00 01/09/2024
