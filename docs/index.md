@@ -264,7 +264,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦅 [Phim có NSƯT Hoài Linh vượt doanh thu &quot;Hai Muối&quot;](https://nld.com.vn/phim-co-nsut-hoai-linh-vuot-doanh-thu-hai-muoi-196240902161014595.htm) - 11:29 02/09/2024
 - 🤩 [Sắp vào biển Đông, bão Yagi đang hoành hành ở Philippines](https://nld.com.vn/sap-vao-bien-dong-bao-yagi-dang-hoanh-hanh-o-philippines-196240902174522146.htm) - 11:25 02/09/2024
 - 🎭 [Giới trẻ TP HCM thích thú với những &quot;siêu phẩm&quot; ẩm thực](https://nld.com.vn/gioi-tre-tp-hcm-thich-thu-voi-nhung-sieu-pham-am-thuc-19624090217320119.htm) - 11:24 02/09/2024
-- 💄 [TP HCM bắn pháo hoa mừng Quốc khánh 2-9](https://nld.com.vn/nguoi-dan-bat-dau-do-ve-trung-tam-tp-hcm-196240902180902274.htm) - 11:11 02/09/2024
+- 💄 [Mãn nhãn bắn pháo hoa mừng Quốc khánh 2-9 ở TP.HCM](https://nld.com.vn/nguoi-dan-bat-dau-do-ve-trung-tam-tp-hcm-196240902180902274.htm) - 11:11 02/09/2024
 - 🎊 [Vụ thi công trước đấu thầu sau ở Gia Lai: Sẽ đấu thầu lại!](https://nld.com.vn/vu-thi-cong-truoc-dau-thau-sau-o-gia-lai-se-dau-thau-lai-196240902160227124.htm) - 10:57 02/09/2024
 - 🎡 [Nữ sinh Nhật Bản nhảy lầu tự tử, người đi đường chết oan](https://nld.com.vn/nu-sinh-nhat-ban-nhay-lau-tu-tu-nguoi-di-duong-chet-oan-196240902172503121.htm) - 10:32 02/09/2024
 - 🎉 [Google chào mừng ngày Quốc khánh Việt Nam một cách đặc biệt](https://nld.com.vn/google-chao-mung-ngay-quoc-khanh-viet-nam-mot-cach-dac-biet-196240902165609993.htm) - 10:31 02/09/2024
