@@ -4,7 +4,7 @@ sidebar_position: 21
 ---
 
 <!-- dantri-bat-dong-san:START -->
-- 🌏 [Hà Nội có thêm 5.300 căn nhà &quot;trên giấy&quot; được phép mua bán](https://dantri.com.vn/bat-dong-san/ha-noi-co-them-5300-can-nha-tren-giay-duoc-phep-mua-ban-20240902141912397.htm) - 09:40 02/09/2024
+- 🌏 [Hà Nội có thêm 5.300 căn nhà được phép mua bán](https://dantri.com.vn/bat-dong-san/ha-noi-co-them-5300-can-nha-duoc-phep-mua-ban-20240902141912397.htm) - 09:40 02/09/2024
 - 👹 [Yêu cầu báo cáo Thủ tướng cơ chế đặc thù dự án Vành đai 4 TPHCM trước 3/9](https://dantri.com.vn/bat-dong-san/yeu-cau-bao-cao-thu-tuong-co-che-dac-thu-du-an-vanh-dai-4-tphcm-truoc-39-20240901131233776.htm) - 07:32 01/09/2024
 - 💡 [Chuyên gia nói về đấu giá đất vùng ven: Không khác cuộc đấu trí, đánh bạc](https://dantri.com.vn/bat-dong-san/chuyen-gia-noi-ve-dau-gia-dat-vung-ven-khong-khac-cuoc-dau-tri-danh-bac-20240829174829415.htm) - 03:00 01/09/2024
 - 🌋 [Tạm ngưng hoạt động dự án du lịch nghỉ dưỡng cao cấp ở Bình Định](https://dantri.com.vn/bat-dong-san/tam-ngung-hoat-dong-du-an-du-lich-nghi-duong-cao-cap-o-binh-dinh-20240822103325772.htm) - 08:15 31/08/2024
