@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Điểm tin 6h: Sa Pa, Phan Thiết đông khách dịp 2/9 | Ông Putin thăm quốc gia thành viên ICC](https://vnexpress.net/diem-tin-6h-sa-pa-phan-thiet-dong-khach-dip-2-9-ong-putin-tham-quoc-gia-thanh-vien-icc-4788506.html) - 23:14 02/09/2024
+- 🚀 [Điểm tin 6h: Ôtô tông liên hoàn 5 xe máy | Ông Putin thăm quốc gia thành viên ICC](https://vnexpress.net/diem-tin-6h-oto-tong-lien-hoan-5-xe-may-ong-putin-tham-quoc-gia-thanh-vien-icc-4788506.html) - 23:14 02/09/2024
 - 🧰 [Khó khăn của cô dâu Việt sau ly hôn chồng Hàn Quốc](https://vnexpress.net/kho-khan-cua-co-dau-viet-sau-ly-hon-chong-han-quoc-4786210.html) - 23:00 02/09/2024
 - 🥰 [Khách hàng Trung Quốc tăng mua xe hybrid](https://vnexpress.net/khach-hang-trung-quoc-tang-mua-xe-hybrid-4788452.html) - 23:00 02/09/2024
 - 🌏 [Tại sao con bạn hay ốm?](https://vnexpress.net/tai-sao-con-ban-hay-om-4788152.html) - 23:00 02/09/2024
