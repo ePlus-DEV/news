@@ -4,9 +4,9 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Man Utd bị chỉ trích thậm tệ sau thảm bại trước Liverpool](https://dantri.com.vn/the-thao/man-utd-bi-chi-trich-tham-te-sau-tham-bai-truoc-liverpool-20240902124621622.htm) - 07:00 02/09/2024
-- 💯 [Nữ cung thủ gây sốt khi ghi 10 điểm tuyệt đối bằng chân](https://dantri.com.vn/the-thao/nu-cung-thu-gay-sot-khi-ghi-10-diem-tuyet-doi-bang-chan-20240902132052878.htm) - 06:21 02/09/2024
-- ⛽️ [Scottie Scheffler vô địch giải golf Tour Championship, dẫn đầu mùa giải](https://dantri.com.vn/the-thao/scottie-scheffler-vo-dich-giai-golf-tour-championship-dan-dau-mua-giai-20240902121215868.htm) - 06:20 02/09/2024
+- 🎡 [Scottie Scheffler vô địch giải golf Tour Championship, dẫn đầu mùa giải](https://dantri.com.vn/the-thao/scottie-scheffler-vo-dich-giai-golf-tour-championship-dan-dau-mua-giai-20240902121215868.htm) - 09:20 02/09/2024
+- 💯 [Man Utd bị chỉ trích thậm tệ sau thảm bại trước Liverpool](https://dantri.com.vn/the-thao/man-utd-bi-chi-trich-tham-te-sau-tham-bai-truoc-liverpool-20240902124621622.htm) - 07:00 02/09/2024
+- ⛽️ [Nữ cung thủ gây sốt khi ghi 10 điểm tuyệt đối bằng chân](https://dantri.com.vn/the-thao/nu-cung-thu-gay-sot-khi-ghi-10-diem-tuyet-doi-bang-chan-20240902132052878.htm) - 06:21 02/09/2024
 - 💃 [HLV Liverpool tiết lộ bí quyết đánh bại Man Utd](https://dantri.com.vn/the-thao/hlv-liverpool-tiet-lo-bi-quyet-danh-bai-man-utd-20240902090822450.htm) - 03:34 02/09/2024
 - 🌈 [U19 Indonesia thua liểng xiểng sau cơn địa chấn chiến thắng trước Argentina](https://dantri.com.vn/the-thao/u19-indonesia-thua-lieng-xieng-sau-con-dia-chan-chien-thang-truoc-argentina-20240902102436184.htm) - 03:24 02/09/2024
 - 🦅 [U22 Việt Nam chốt danh sách dự giải Trung Quốc: Khuất Văn Khang bị loại](https://dantri.com.vn/the-thao/u22-viet-nam-chot-danh-sach-du-giai-trung-quoc-khuat-van-khang-bi-loai-20240902083403938.htm) - 01:34 02/09/2024
