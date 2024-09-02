@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Thưởng tiền cho phụ nữ về nông thôn kết hôn](https://vnexpress.net/thuong-tien-cho-phu-nu-ve-nong-thon-ket-hon-4788170.html) - 03:32 02/09/2024
+- 🚀 [Nhật Bản đề xuất thưởng tiền cho phụ nữ về nông thôn kết hôn](https://vnexpress.net/nhat-ban-de-xuat-thuong-tien-cho-phu-nu-ve-nong-thon-ket-hon-4788170.html) - 03:32 02/09/2024
 - 🎓 [Thế hệ không ngại nghỉ phép](https://vnexpress.net/the-he-khong-ngai-nghi-phep-4788055.html) - 01:31 02/09/2024
 - 🚦 [Nửa thế kỷ chờ con của người mẹ 109 tuổi](https://vnexpress.net/nua-the-ky-cho-con-cua-nguoi-me-109-tuoi-4783927.html) - 23:00 01/09/2024
 - 🦣 [Mẹo chống trào khi nấu cháo](https://vnexpress.net/meo-chong-trao-khi-nau-chao-4787660.html) - 11:29 01/09/2024
