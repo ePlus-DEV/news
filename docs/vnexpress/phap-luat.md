@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [&#39;Công sức nội trợ&#39; của vợ khi ở nhà 28 năm tính thế nào khi ly hôn?](https://vnexpress.net/cong-suc-noi-tro-cua-vo-khi-o-nha-28-nam-tinh-the-nao-khi-ly-hon-4788239.html) - 19:02 02/09/2024
-- 🥰 [Cơn hận tình &#39;mờ lý trí&#39; từ tin nhắn đọc lén](https://vnexpress.net/con-han-tinh-mo-ly-tri-tu-tin-nhan-doc-len-4788431.html) - 17:00 02/09/2024
+- 🥰 [Cơn hận tình từ tin nhắn đọc lén](https://vnexpress.net/con-han-tinh-tu-tin-nhan-doc-len-4788431.html) - 17:00 02/09/2024
 - 🎓 [Kế đổ tội qua cú điện thoại gây ám ảnh](https://vnexpress.net/ke-doc-do-toi-giet-nguoi-qua-cu-dien-thoai-cuoi-4788065.html) - 17:00 02/09/2024
 - 🤓 [Nhận hối lộ để làm ngơ cung ứng &#39;đồ ăn bẩn&#39; cho cả triệu học sinh](https://vnexpress.net/nhan-hoi-lo-de-lam-ngo-cung-ung-do-an-ban-cho-ca-trieu-hoc-sinh-4788432.html) - 17:00 02/09/2024
 - 🎊 [Deepfake khiêu dâm gây ám ảnh, sợ hãi với học sinh Hàn Quốc](https://vnexpress.net/deepfake-khieu-dam-am-anh-hoc-sinh-han-quoc-4788482.html) - 15:49 02/09/2024
