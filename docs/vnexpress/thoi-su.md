@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Không tìm thấy vật liệu nổ tại hiện trường hai vụ nổ ở Nghệ An](https://vnexpress.net/khong-tim-thay-vat-lieu-no-tai-hien-truong-hai-vu-no-o-nghe-an-4788443.html) - 12:19 02/09/2024
-- 🤓 [Thông xe cầu 500 tỷ đồng nối Đồng Nai và Bình Dương](https://vnexpress.net/thong-xe-cau-500-ty-dong-noi-dong-nai-va-binh-duong-4788404.html) - 08:24 02/09/2024
+- 🤓 [Thông xe kỹ thuật cầu 500 tỷ đồng nối Đồng Nai và Bình Dương](https://vnexpress.net/thong-xe-ky-thuat-cau-500-ty-dong-noi-dong-nai-va-binh-duong-4788404.html) - 08:24 02/09/2024
 - ⚗️ [Đua thuyền mừng Tết độc lập ở Quảng Bình](https://vnexpress.net/dua-thuyen-mung-tet-doc-lap-o-quang-binh-4788382.html) - 07:55 02/09/2024
 - 🌊 [Dầu vón cục kéo dài 3 km ở bờ biển Nha Trang](https://vnexpress.net/dau-von-cuc-keo-dai-3-km-o-bo-bien-nha-trang-4788392.html) - 07:25 02/09/2024
 - 🎓 [Hàng nghìn người xem lễ thượng cờ mừng Quốc khánh](https://vnexpress.net/hang-nghin-nguoi-xem-le-thuong-co-mung-quoc-khanh-4788387.html) - 07:08 02/09/2024
