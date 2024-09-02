@@ -4,9 +4,9 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Phố Wall bất đồng dự báo giá vàng tuần này](https://vnexpress.net/pho-wall-bat-dong-du-bao-gia-vang-tuan-nay-4788214.html) - 23:05 01/09/2024
+- ⛽️ [Giới phân tích thận trọng về giá vàng tuần này](https://vnexpress.net/gioi-phan-tich-than-trong-ve-gia-vang-tuan-nay-4788214.html) - 23:05 01/09/2024
 - 🐲 [Có nên ưu tiên gửi tiết kiệm khi lãi suất tăng?](https://vnexpress.net/co-nen-uu-tien-gui-tiet-kiem-khi-lai-suat-tang-4782862.html) - 20:00 01/09/2024
-- 🔥 [Kinh doanh thùng carbon có thể tăng vọt nhờ thương mại điện tử](https://vnexpress.net/kinh-doanh-thung-carbon-co-the-tang-vot-nho-thuong-mai-dien-tu-4788251.html) - 17:05 01/09/2024
+- 🔥 [Kinh doanh thùng carton có thể tăng vọt nhờ thương mại điện tử](https://vnexpress.net/kinh-doanh-thung-carton-co-the-tang-vot-nho-thuong-mai-dien-tu-4788251.html) - 17:05 01/09/2024
 - 🐵 [Dệt may kín đơn hàng tới cuối năm](https://vnexpress.net/det-may-kin-don-hang-toi-cuoi-nam-4788241.html) - 14:01 01/09/2024
 - 🦅 [Giao dịch qua TPBank bị nghẽn](https://vnexpress.net/giao-dich-qua-tpbank-bi-nghen-4788247.html) - 11:52 01/09/2024
 - 😺 [So găng công ty mẹ Temu với Alibaba, JD](https://vnexpress.net/so-gang-cong-ty-me-temu-voi-alibaba-jd-4787697.html) - 08:00 01/09/2024
