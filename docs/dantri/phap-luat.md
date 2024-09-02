@@ -5,7 +5,7 @@ sidebar_position: 8
 
 <!-- dantri-phap-luat:START -->
 - 🌊 [Lạng Sơn bắt đối tượng có 5 lệnh truy nã](https://dantri.com.vn/phap-luat/lang-son-bat-doi-tuong-co-5-lenh-truy-na-20240902184106199.htm) - 12:00 02/09/2024
-- 🐲 [Trưởng công an xã ở Lào Cai bị đối tượng tông xe máy vào người](https://dantri.com.vn/phap-luat/truong-cong-an-xa-o-lao-cai-bi-doi-tuong-tong-xe-may-vao-nguoi-20240902180352631.htm) - 11:19 02/09/2024
+- 🐲 [Trưởng công an xã ở Lào Cai bị thiếu niên 16 tuổi tông xe máy vào người](https://dantri.com.vn/phap-luat/truong-cong-an-xa-o-lao-cai-bi-thieu-nien-16-tuoi-tong-xe-may-vao-nguoi-20240902180352631.htm) - 11:19 02/09/2024
 - 🌁 [Bắt giữ 2 nghi phạm trong vụ thanh niên bị đâm chết ở TPHCM](https://dantri.com.vn/phap-luat/bat-giu-2-nghi-pham-trong-vu-thanh-nien-bi-dam-chet-o-tphcm-20240902120304473.htm) - 06:38 02/09/2024
 - 🎃 [Bị khóa bánh ô tô, người đàn ông kiện ban quản trị chung cư](https://dantri.com.vn/phap-luat/bi-khoa-banh-o-to-nguoi-dan-ong-kien-ban-quan-tri-chung-cu-20240902111433116.htm) - 04:51 02/09/2024
 - 🦅 [Người đàn ông ngoại quốc tử vong trên đường phố Nha Trang](https://dantri.com.vn/phap-luat/nguoi-dan-ong-ngoai-quoc-tu-vong-tren-duong-pho-nha-trang-20240902112448965.htm) - 04:40 02/09/2024
