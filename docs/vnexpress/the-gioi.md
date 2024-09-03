@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Xe buýt lao vào đám đông ở Trung Quốc, ít nhất 11 người chết](https://vnexpress.net/xe-buyt-lao-vao-dam-dong-o-trung-quoc-it-nhat-11-nguoi-chet-4788580.html) - 04:23 03/09/2024
+- 🎭 [Đâm xe trước cổng trường Trung Quốc, 11 người chết](https://vnexpress.net/dam-xe-truoc-cong-truong-trung-quoc-11-nguoi-chet-4788580.html) - 04:23 03/09/2024
 - 🕴 [15 người Thổ Nhĩ Kỳ bị bắt vì hành hung lính Mỹ](https://vnexpress.net/15-nguoi-tho-nhi-ky-bi-bat-vi-hanh-hung-linh-my-4788536.html) - 03:41 03/09/2024
 - 🤭 [Mỹ cứu hộ tàu dầu bị Houthi gài mìn, kích nổ](https://vnexpress.net/my-cuu-ho-tau-dau-bi-houthi-gai-min-kich-no-4788551.html) - 02:59 03/09/2024
 - 🧑‍💻 [Ông Biden lần đầu vận động tranh cử cùng bà Harris](https://vnexpress.net/ong-biden-lan-dau-van-dong-tranh-cu-cung-ba-harris-4788511.html) - 01:48 03/09/2024
