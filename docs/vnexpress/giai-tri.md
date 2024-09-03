@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Triển lãm sách kỷ niệm 55 năm thực hiện di chúc Chủ tịch Hồ Chí Minh](https://vnexpress.net/trien-lam-sach-ky-niem-55-nam-thuc-hien-di-chuc-chu-tich-ho-chi-minh-4787107.html) - 03:16 03/09/2024
+- 🌏 [Triển lãm kỷ niệm 55 năm thực hiện di chúc Chủ tịch Hồ Chí Minh](https://vnexpress.net/trien-lam-ky-niem-55-nam-thuc-hien-di-chuc-chu-tich-ho-chi-minh-4787107.html) - 03:16 03/09/2024
 - 💫 [&#39;Hai Muối&#39; - Quyền Linh tròn vai người cha khắc khổ](https://vnexpress.net/giai-tri/phim/thu-vien-phim/hai-muoi-729) - 03:00 03/09/2024
 - 🌮 [Cầu thủ mặc váy hội quân cùng dàn sao tuyển Pháp](https://vnexpress.net/cau-thu-mac-vay-hoi-quan-cung-dan-sao-tuyen-phap-4788510.html) - 00:45 03/09/2024
 - 🧠 [&#39;Handsome Guys&#39; - phim kinh dị nhiều tiếng cười](https://vnexpress.net/giai-tri/phim/thu-vien-phim/handsome-guys-727) - 17:00 02/09/2024
