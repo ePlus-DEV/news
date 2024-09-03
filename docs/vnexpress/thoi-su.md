@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [5 xe tông liên hoàn, cao tốc Dầu Giây - Phan Thiết đóng đường](https://vnexpress.net/5-xe-tong-lien-hoan-cao-toc-dau-giay-phan-thiet-dong-duong-4788678.html) - 13:44 03/09/2024
-- 🤓 [Gần 15 tỷ đồng phạt vi phạm giao thông trong kỳ nghỉ lễ 2/9](https://vnexpress.net/gan-15-ty-dong-phat-vi-pham-giao-thong-trong-ky-nghi-le-2-9-4788653.html) - 11:22 03/09/2024
+- 🤓 [1.200 người vi phạm nồng độ cồn trong kỳ nghỉ lễ 2/9](https://vnexpress.net/1-200-nguoi-vi-pham-nong-do-con-trong-ky-nghi-le-2-9-4788653.html) - 11:22 03/09/2024
 - ⚗️ [Dòng xe ùn ứ ở cửa ngõ TP HCM, Hà Nội](https://vnexpress.net/dong-xe-un-u-o-cua-ngo-tp-hcm-ha-noi-4788652.html) - 10:35 03/09/2024
 - 🌊 [Bão Yagi tăng cấp, khả năng ảnh hưởng toàn miền Bắc](https://vnexpress.net/bao-yagi-tang-cap-kha-nang-anh-huong-toan-mien-bac-4788625.html) - 10:05 03/09/2024
 - 🎓 [Trình diễn võ Tây Sơn ở phố biển Quy Nhơn](https://vnexpress.net/trinh-dien-vo-tay-son-o-pho-bien-quy-nhon-4788498.html) - 02:45 03/09/2024
