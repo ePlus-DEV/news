@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Sinner - Medvedev: &#39;Chung kết sớm&#39; ở Mỹ Mở rộng](https://vnexpress.net/sinner-medvedev-chung-ket-som-o-my-mo-rong-4788702.html) - 22:37 03/09/2024
 - 🦩 [Kilian Jornet chinh phục 82 đỉnh núi Alps trong thời gian kỷ lục](https://vnexpress.net/kilian-jornet-chinh-phuc-82-dinh-nui-alps-trong-thoi-gian-ky-luc-4788698.html) - 22:34 03/09/2024
-- 🧰 [De Paul: &quot;Băng thủ quân Argentina vẫn thuộc về Messi&quot;](https://vnexpress.net/de-paul-bang-thu-quan-argentina-van-thuoc-ve-messi-4788700.html) - 22:23 03/09/2024
+- 🧰 [De Paul: &#39;Băng thủ quân Argentina vẫn thuộc về Messi&#39;](https://vnexpress.net/de-paul-bang-thu-quan-argentina-van-thuoc-ve-messi-4788700.html) - 22:23 03/09/2024
 - 🤗 [Alcaraz thừa nhận điểm yếu chí mạng](https://vnexpress.net/alcaraz-thua-nhan-diem-yeu-chi-mang-4788704.html) - 22:14 03/09/2024
 - 🥳 [Đặng Văn Lâm: &#39;Gặp tuyển Việt Nam không dễ cho Nga&#39;](https://vnexpress.net/dang-van-lam-gap-tuyen-viet-nam-khong-de-cho-nga-4788675.html) - 15:05 03/09/2024
 - 🦣 [CEO Man Utd: &#39;Chúng tôi hoàn toàn ủng hộ Ten Hag&#39;](https://vnexpress.net/ceo-man-utd-chung-toi-hoan-toan-ung-ho-ten-hag-4788676.html) - 14:46 03/09/2024
