@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Đặng Văn Lâm: &#39;Gặp Việt Nam không dễ cho Nga&#39;](https://vnexpress.net/dang-van-lam-gap-viet-nam-khong-de-cho-nga-4788675.html) - 15:05 03/09/2024
+- 🪜 [Đặng Văn Lâm: &#39;Gặp tuyển Việt Nam không dễ cho Nga&#39;](https://vnexpress.net/dang-van-lam-gap-tuyen-viet-nam-khong-de-cho-nga-4788675.html) - 15:05 03/09/2024
 - 🦩 [CEO Man Utd: &#39;Chúng tôi hoàn toàn ủng hộ Ten Hag&#39;](https://vnexpress.net/ceo-man-utd-chung-toi-hoan-toan-ung-ho-ten-hag-4788676.html) - 14:46 03/09/2024
 - 🧰 [Cung thủ mang thai 7 tháng đoạt HC vàng Paralympic 2024](https://vnexpress.net/cung-thu-mang-thai-7-thang-doat-hc-vang-paralympic-2024-4788658.html) - 10:32 03/09/2024
 - 🤗 [VĐV bị cá mập tấn công dự Paralympic 2024](https://vnexpress.net/vdv-bi-ca-map-tan-cong-du-paralympic-2024-4788655.html) - 10:17 03/09/2024
