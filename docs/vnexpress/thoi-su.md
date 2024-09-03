@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Bão Yagi tăng cấp, khả năng ảnh hưởng toàn miền Bắc](https://vnexpress.net/bao-yagi-tang-cap-kha-nang-anh-huong-toan-mien-bac-4788625.html) - 07:49 03/09/2024
+- 🦒 [Bão Yagi tăng cấp, khả năng ảnh hưởng toàn miền Bắc](https://vnexpress.net/bao-yagi-tang-cap-kha-nang-anh-huong-toan-mien-bac-4788625.html) - 10:05 03/09/2024
 - 🤓 [Trình diễn võ Tây Sơn ở phố biển Quy Nhơn](https://vnexpress.net/trinh-dien-vo-tay-son-o-pho-bien-quy-nhon-4788498.html) - 02:45 03/09/2024
 - ⚗️ [Bão Yagi vào Biển Đông](https://vnexpress.net/bao-yagi-vao-bien-dong-4788545.html) - 01:50 03/09/2024
 - 🌊 [Kiếm trăm triệu với farmstay xoài](https://vnexpress.net/kiem-tram-trieu-voi-farmstay-xoai-4787348.html) - 01:00 03/09/2024
