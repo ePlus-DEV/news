@@ -213,7 +213,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🗽 [Hơn 12.900 người khám cấp cứu và tai nạn ở Hà Nội dịp 2.9](https://laodong.vn/ban-doc/hon-12900-nguoi-kham-cap-cuu-va-tai-nan-o-ha-noi-dip-29-1388917.ldo) - 15:04 03/09/2024
 - 📝 [Tước GPLX tài xế vượt ẩu trên cao tốc Nội Bài - Lào Cai](https://laodong.vn/xa-hoi/tuoc-gplx-tai-xe-vuot-au-tren-cao-toc-noi-bai-lao-cai-1388684.ldo) - 15:02 03/09/2024
 - 🦏 [Tuyển Việt Nam xoay tua đội hình trước trận gặp tuyển Nga](https://laodong.vn/ban-tin/tuyen-viet-nam-xoay-tua-doi-hinh-truoc-tran-gap-tuyen-nga-1388908.ldo) - 14:56 03/09/2024
-- 🦩 [Hà Nội chủ động ứng phó với bão số 3 Yagi](https://laodong.vn/moi-truong/ha-noi-chu-dong-ung-pho-voi-bao-so-3-yagi-1388915.ldo) - 14:53 03/09/2024
+- 🦩 [Các tỉnh, thành chủ động ứng phó với bão số 3 Yagi](https://laodong.vn/moi-truong/cac-tinh-thanh-chu-dong-ung-pho-voi-bao-so-3-yagi-1388915.ldo) - 14:53 03/09/2024
 - 🦏 [Bắt giữ đối tượng vận chuyển pháo hoa từ Lào về Việt Nam](https://laodong.vn/phap-luat/bat-giu-doi-tuong-van-chuyen-phao-hoa-tu-lao-ve-viet-nam-1388909.ldo) - 14:52 03/09/2024
 - 🧰 [5 xe ôtô tông liên hoàn trên cao tốc Phan Thiết - Dầu Giây](https://laodong.vn/xa-hoi/5-xe-oto-tong-lien-hoan-tren-cao-toc-phan-thiet-dau-giay-1388903.ldo) - 14:47 03/09/2024
 - 🌊 [Giả vờ giúp đỡ, nhóm đối tượng cướp xe máy của người say xỉn](https://laodong.vn/phap-luat/gia-vo-giup-do-nhom-doi-tuong-cuop-xe-may-cua-nguoi-say-xin-1388906.ldo) - 14:38 03/09/2024
@@ -249,7 +249,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😺 [Nga oanh tạc các cơ sở quân sự của Ukraina](https://laodong.vn/the-gioi/nga-oanh-tac-cac-co-so-quan-su-cua-ukraina-1388865.ldo) - 12:08 03/09/2024
 - 🕴 [Du khách đến thăm quan Đắk Lắk đạt con số kỷ lục hơn 130.000](https://laodong.vn/van-hoa/du-khach-den-tham-quan-dak-lak-dat-con-so-ky-luc-hon-130000-1388874.ldo) - 12:01 03/09/2024
 - 🌋 [Có nên bỏ phần vỏ quả cà chua?](https://laodong.vn/suc-khoe/co-nen-bo-phan-vo-qua-ca-chua-1388816.ldo) - 12:00 03/09/2024
-- 💄 [Thế giới 24h: Dự báo bão mới hình thành ngay sau bão Yagi](https://laodong.vn/podcast-tin-tuc/the-gioi-24h-du-bao-bao-moi-hinh-thanh-ngay-sau-bao-yagi-1388734.ldo) - 12:00 03/09/2024<!-- laodong:END -->
+- 💄 [Nóng Sài Gòn: Cửa ngõ phía Đông và Tây ùn ứ sau lễ 2.9](https://laodong.vn/video-xa-hoi/nong-sai-gon-cua-ngo-phia-dong-va-tay-un-u-sau-le-29-1388718.ldo) - 12:00 03/09/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
