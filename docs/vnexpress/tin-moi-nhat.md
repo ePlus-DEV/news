@@ -7,7 +7,7 @@ sidebar_position: 9
 - 🎬 [Mẹ kể lại khoảnh khắc con trai làm vỡ bình cổ 3.500 tuổi](https://vnexpress.net/me-ke-lai-khoanh-khac-con-trai-lam-vo-binh-co-3-500-tuoi-4788674.html) - 15:14 03/09/2024
 - 🐎 [Đặng Văn Lâm: &#39;Gặp Việt Nam không dễ cho Nga&#39;](https://vnexpress.net/dang-van-lam-gap-viet-nam-khong-de-cho-nga-4788675.html) - 15:05 03/09/2024
 - 🦍 [Bánh trung thu gần 70 nghìn đồng &#39;bình dân nhưng đắt đỏ&#39;](https://vnexpress.net/banh-trung-thu-gan-70-nghin-dong-binh-dan-nhung-dat-do-4788654.html) - 15:04 03/09/2024
-- 🏊 [VinFast VF 9 giảm giá cao nhất 16.000 USD tại Mỹ](https://vnexpress.net/vinfast-vf-9-giam-gia-cao-nhat-16-000-usd-tai-my-4788575.html) - 14:58 03/09/2024
+- 🏊 [VinFast VF 9 giảm giá 16.000 USD tại Mỹ](https://vnexpress.net/vinfast-vf-9-giam-gia-16-000-usd-tai-my-4788575.html) - 14:58 03/09/2024
 - 🎊 [CEO Man Utd: &#39;Chúng tôi hoàn toàn ủng hộ Ten Hag&#39;](https://vnexpress.net/ceo-man-utd-chung-toi-hoan-toan-ung-ho-ten-hag-4788676.html) - 14:46 03/09/2024
 - 🎃 [Mỹ có thể sắp chuyển tên lửa tầm bắn gần 400 km cho Ukraine](https://vnexpress.net/my-co-the-sap-chuyen-ten-lua-tam-ban-gan-400-km-cho-ukraine-4788673.html) - 14:14 03/09/2024
 - 🧰 [Ông Netanyahu: Anh giảm bán vũ khí cho Israel là &#39;đáng hổ thẹn&#39;](https://vnexpress.net/ong-netanyahu-anh-giam-ban-vu-khi-cho-israel-la-dang-ho-then-4788680.html) - 14:13 03/09/2024
