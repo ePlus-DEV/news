@@ -148,66 +148,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Ông Trump gây sốc, nói mình &#39;có tất cả quyền&#39; can thiệp kết quả bầu cử](https://thanhnien.vn/ong-trump-gay-soc-noi-minh-co-tat-ca-quyen-can-thiep-ket-qua-bau-cu-185240903171056251.htm) - 23:29 03/09/2024
-- 🥸 [7 &#39;điều ước&#39; giản dị nhưng làm nên ý nghĩa lớn](https://thanhnien.vn/7-dieu-uoc-gian-di-nhung-lam-nen-y-nghia-lon-185240903204604582.htm) - 23:20 03/09/2024
-- 🌁 [Tình yêu 60 năm lấp lánh trong ngôi nhà chất đầy ve chai - Thành phố nặng ân tình, Kỳ 7](https://thanhnien.vn/tinh-yeu-60-nam-lap-lanh-trong-ngoi-nha-chat-day-ve-chai-thanh-pho-nang-an-tinh-ky-7-185240818185838645.htm) - 23:16 03/09/2024
-- 🤡 [Đề thi tốt nghiệp THPT phân hóa tốt: Căn cứ để trường ĐH sử dụng xét tuyển](https://thanhnien.vn/de-thi-tot-nghiep-thpt-phan-hoa-tot-can-cu-de-truong-dh-su-dung-xet-tuyen-185240903202101915.htm) - 23:15 03/09/2024
-- 🎉 [Giữa không kích, năm học mới ở Ukraine bắt đầu trong âu lo](https://thanhnien.vn/giua-khong-kich-nam-hoc-moi-o-ukraine-bat-dau-trong-au-lo-185240903182225966.htm) - 23:03 03/09/2024
-- 🎊 [Bộ Giáo dục và Đào tạo nới quy định dạy thêm, học thêm: giáo viên ủng hộ, hiệu trưởng lo khó quản lý](https://thanhnien.vn/bo-giao-duc-va-dao-tao-noi-quy-dinh-day-them-hoc-them-giao-vien-ung-ho-hieu-truong-lo-kho-quan-ly-185240901194409983.htm) - 23:00 03/09/2024
-- 🤠 [Tài khoản email nào không nên bỏ quên?](https://thanhnien.vn/tai-khoan-email-nao-khong-nen-bo-quen-185240829074028082.htm) - 23:00 03/09/2024
-- 💼 [Học phí cao: Nguy cơ sinh viên nghèo, học giỏi khó có cơ hội học tập](https://thanhnien.vn/hoc-phi-cao-nguy-co-sinh-vien-ngheo-hoc-gioi-kho-co-co-hoi-hoc-tap-185240903165124046.htm) - 22:59 03/09/2024
-- 🐻 [[VIDEO ĐIỀU TRA] Bóng tối sau mái ấm tình thương - Kỳ 1: Nỗi bất hạnh của trẻ sơ sinh](https://thanhnien.vn/dieu-tra-bong-toi-sau-mai-am-tinh-thuong-ky-1-noi-bat-hanh-cua-tre-so-sinh-185240904005728306.htm) - 22:58 03/09/2024
-- 🤔 [Tội ác trong một mái ấm](https://thanhnien.vn/toi-ac-trong-mot-mai-am-18524090322594226.htm) - 22:57 03/09/2024
-- 📝 [OPEC đảo chiến lược để hạ giá dầu?](https://thanhnien.vn/opec-dao-chien-luoc-de-ha-gia-dau-185240903190653194.htm) - 22:50 03/09/2024
-- 🥰 [Chuyển đổi số, người dân hưởng lợi gì?: Hết cảnh xếp hàng chờ quyết toán thuế](https://thanhnien.vn/chuyen-doi-so-nguoi-dan-huong-loi-gi-het-canh-xep-hang-cho-quyet-toan-thue-185240903172350184.htm) - 22:49 03/09/2024
-- 🐲 [Thương hiệu Việt khi nào ra toàn cầu?](https://thanhnien.vn/thuong-hieu-viet-khi-nao-ra-toan-cau-18524090323241978.htm) - 22:45 03/09/2024
-- 🎃 [Tổng thống Biden tiếp sức cho bà Harris](https://thanhnien.vn/tong-thong-biden-tiep-suc-cho-ba-harris-185240903221130897.htm) - 22:45 03/09/2024
-- 🎬 [Hướng metro kết nối với Bình Dương và Đồng Nai](https://thanhnien.vn/huong-metro-ket-noi-voi-binh-duong-va-dong-nai-185240903221406169.htm) - 22:31 03/09/2024
-- 🌜 [Ông Putin nghĩ bà Harris dễ đoán, ông Trump khó đạt ngừng bắn nhanh chóng ở Ukraine](https://thanhnien.vn/ong-putin-nghi-ba-harris-de-doan-ong-trump-kho-dat-ngung-ban-nhanh-chong-o-ukraine-185240902152821644.htm) - 22:31 03/09/2024
-- 🦆 [Nỗ lực nâng kim ngạch thương mại Việt Nam - Hàn Quốc lên 150 tỉ USD](https://thanhnien.vn/no-luc-nang-kim-ngach-thuong-mai-viet-nam-han-quoc-len-150-ti-usd-18524090322180206.htm) - 22:29 03/09/2024
-- 🐵 [Giá vàng miếng SJC cao hơn vàng nhẫn 2,4 triệu đồng/lượng](https://thanhnien.vn/gia-vang-mieng-sjc-cao-hon-vang-nhan-24-trieu-dong-luong-185240903222100987.htm) - 22:27 03/09/2024
-- 🙉 [Nợ thuế quá hạn 2.000 đồng, có bị hoãn xuất cảnh?](https://thanhnien.vn/no-thue-qua-han-2000-dong-co-bi-hoan-xuat-canh-185240903221724778.htm) - 22:25 03/09/2024
-- 🌋 [Khách tăng mạnh, sao khách sạn vẫn lỗ?](https://thanhnien.vn/khach-tang-manh-sao-khach-san-van-lo-185240903221342632.htm) - 22:23 03/09/2024
-- 🐻 [Cá voi &#39;gián điệp Nga&#39; chết gần Na Uy](https://thanhnien.vn/ca-voi-gian-diep-nga-chet-gan-na-uy-185240903175856138.htm) - 22:02 03/09/2024
-- 🧠 [Những &#39;siêu máy&#39; nội soi phát hiện sớm ung thư đường tiêu hóa](https://thanhnien.vn/nhung-sieu-may-noi-soi-phat-hien-som-ung-thu-duong-tieu-hoa-185240827171851646.htm) - 22:00 03/09/2024
-- 🔥 [Nga tập kích nhiều tỉnh, đụng độ hàng trăm lần với Ukraine](https://thanhnien.vn/nga-tap-kich-nhieu-tinh-dung-do-hang-tram-lan-voi-ukraine-185240903220253623.htm) - 21:45 03/09/2024
-- 🌋 [Hồi sinh những trái tim thương tổn bằng &#39;bộ tứ&#39; trí tuệ nhân tạo](https://thanhnien.vn/hoi-sinh-nhung-trai-tim-thuong-ton-bang-bo-tu-tri-tue-nhan-tao-185240830174025215.htm) - 21:35 03/09/2024
-- 😎 [Cần nghiêm trị buôn bán thực phẩm giả](https://thanhnien.vn/can-nghiem-tri-buon-ban-thuc-pham-gia-185240903195359614.htm) - 21:25 03/09/2024
-- 🥰 [Trăm em nhỏ mong một trung thu yêu thương ở xóm trọ nghèo](https://thanhnien.vn/tram-em-nho-mo-mot-trung-thu-yeu-thuong-o-xom-tro-ngheo-185240901170221777.htm) - 21:24 03/09/2024
-- 🧑‍🏫 [Armelle DG yêu Việt Nam đến kiếp sau](https://thanhnien.vn/armelle-dg-yeu-viet-nam-den-kiep-sau-185240824173129598.htm) - 21:23 03/09/2024
-- 💄 [HONTO nhịp cầu Việt - Nhật của Mei Phương](https://thanhnien.vn/honto-nhip-cau-viet-nhat-cua-mei-phuong-185240829165544493.htm) - 21:18 03/09/2024
-- 💯 [Hơn 1.700 tài xế vi phạm nồng độ cồn bị CSGT TP.HCM phạt khoảng 9,2 tỉ đồng](https://thanhnien.vn/csgt-tphcm-phat-1743-tai-xe-vi-pham-nong-do-con-trong-4-ngay-nghi-le-185240903221430431.htm) - 21:16 03/09/2024
-- 🚀 [Bài toán phủ sóng metro Hà Nội và TP.HCM](https://thanhnien.vn/bai-toan-phu-song-metro-ha-noi-va-tphcm-185240903221008943.htm) - 21:16 03/09/2024
-- 🦣 [Nâng tầm dịch vụ công](https://thanhnien.vn/nang-tam-dich-vu-cong-185240903223714943.htm) - 21:15 03/09/2024
-- 👹 [Bão số 3 tăng cấp &#39;khủng&#39;, hướng về vịnh Bắc bộ](https://thanhnien.vn/bao-so-3-tang-cap-khung-huong-ve-vinh-bac-bo-185240903222629053.htm) - 21:10 03/09/2024
-- 🦄 [Tin tức đặc biệt trên báo in Thanh Niên 4.9.2024](https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-492024-185240903233740726.htm) - 21:07 03/09/2024
-- 🤔 [Israel tuyên bố tấn công vào 8 thành viên Hamas](https://thanhnien.vn/israel-tuyen-bo-tan-cong-vao-8-thanh-vien-hamas-185240903190747367.htm) - 21:07 03/09/2024
-- 🧰 [Bác sĩ 24/7: Chần thịt heo qua nước sôi có tốt?](https://thanhnien.vn/bac-si-24-7-chan-thit-heo-qua-nuoc-soi-co-tot-18524090322155437.htm) - 21:04 03/09/2024
-- 🌁 [Lần đầu tiên gây tê mổ tim hở không đau tại Việt Nam](https://thanhnien.vn/lan-dau-tien-gay-te-mo-tim-ho-khong-dau-tai-viet-nam-185240830155749043.htm) - 21:00 03/09/2024
-- 🧐 [Lịch thi đấu của U.22 Việt Nam - Trung Quốc hôm nay: Thầy Kim ‘hóng’ kết quả](https://thanhnien.vn/lich-thi-dau-cua-u22-viet-nam-trung-quoc-hom-nay-thay-kim-hong-ket-qua-185240903201025506.htm) - 20:58 03/09/2024
-- 🌏 [HLV Kim Sang-sik chuẩn bị &#39;vũ khí&#39; để gặp đội tuyển Nga](https://thanhnien.vn/hlv-kim-sang-sik-chuan-bi-vu-khi-de-gap-doi-tuyen-nga-185240903200832305.htm) - 20:50 03/09/2024
-- 🎬 [Đặng Văn Lâm và người bạn đời đồng hành trên mọi nẻo đường](https://thanhnien.vn/dang-van-lam-va-nguoi-ban-doi-dong-hanh-tren-moi-neo-duong-185240903201835262.htm) - 20:49 03/09/2024
-- 🚀 [Chiến sự Ukraine ngày 923: Poltava hứng đòn tập kích nghiêm trọng, hơn 50 người chết](https://thanhnien.vn/chien-su-ukraine-ngay-923-poltava-hung-don-tap-kich-nghiem-trong-hon-50-nguoi-chet-185240903233504267.htm) - 20:48 03/09/2024
-- 🙉 [Ngày mới với tin tức sức khỏe: Những cách tự nhiên giúp bạn làm sạch ruột](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-nhung-cach-tu-nhien-giup-ban-lam-sach-ruot-185240903181354705.htm) - 17:10 03/09/2024
-- 🐵 [Nhà vệ sinh công cộng: Cách sử dụng an toàn cho sức khỏe](https://thanhnien.vn/nha-ve-sinh-cong-cong-cach-su-dung-an-toan-cho-suc-khoe-185240830164109189.htm) - 17:08 03/09/2024
-- 🐎 [Tác dụng bất ngờ của ổi đến cholesterol và lượng đường trong máu](https://thanhnien.vn/tac-dung-bat-ngo-cua-oi-den-cholesterol-va-luong-duong-trong-mau-18524090311503912.htm) - 17:06 03/09/2024
-- 🕯 [4 nguyên nhân tiềm ẩn khiến trẻ hay nheo mắt](https://thanhnien.vn/4-nguyen-nhan-tiem-an-khien-tre-hay-nheo-mat-185240903141402907.htm) - 17:05 03/09/2024
-- 👀 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 4.9.2024](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-492024-185240902175110723.htm) - 16:26 03/09/2024
-- 🦒 [Điểm xung đột: Ông Putin nói &#39;canh bạc&#39; ở Kursk thất bại; Ukraine còn bao nhiêu xe tăng Abrams?](https://thanhnien.vn/diem-xung-dot-ong-putin-noi-canh-bac-o-kursk-that-bai-ukraine-con-bao-nhieu-xe-tang-abrams-185240903185825375.htm) - 16:00 03/09/2024
-- 🧐 [Vượt ngục ở nhà tù quá tải tại Congo, ít nhất 129 người chết](https://thanhnien.vn/vuot-nguc-o-nha-tu-qua-tai-tai-congo-it-nhat-129-nguoi-chet-185240903222454714.htm) - 15:33 03/09/2024
-- 🌊 [Người dân ùn ùn trở lại Hà Nội, cao tốc ùn tắc kéo dài](https://thanhnien.vn/nguoi-dan-un-un-tro-lai-ha-noi-cao-toc-un-tac-keo-dai-185240903220427316.htm) - 15:10 03/09/2024
+- 🤠 [Mỹ truy tố các thủ lĩnh Hamas](https://thanhnien.vn/my-truy-to-cac-thu-linh-hamas-185240904063634277.htm) - 23:51 03/09/2024
+- 🥸 [Tin tức thời tiết hôm nay 4.9.2024: Bão số 3 di chuyển như thế nào?](https://thanhnien.vn/tin-tuc-thoi-tiet-hom-nay-492024-bao-so-3-di-chuyen-nhu-the-nao-185240904064527806.htm) - 23:50 03/09/2024
+- 🌁 [Bão Yagi tăng lên cấp 14, có thể đánh đắm tàu lớn](https://thanhnien.vn/bao-yagi-tang-len-cap-14-co-the-danh-dam-tau-lon-185240903183225281.htm) - 23:46 03/09/2024
+- 🤡 [Ông Trump gây sốc, nói mình &#39;có tất cả quyền&#39; can thiệp kết quả bầu cử](https://thanhnien.vn/ong-trump-gay-soc-noi-minh-co-tat-ca-quyen-can-thiep-ket-qua-bau-cu-185240903171056251.htm) - 23:29 03/09/2024
+- 🎉 [7 &#39;điều ước&#39; giản dị nhưng làm nên ý nghĩa lớn](https://thanhnien.vn/7-dieu-uoc-gian-di-nhung-lam-nen-y-nghia-lon-185240903204604582.htm) - 23:20 03/09/2024
+- 🎊 [Tình yêu 60 năm lấp lánh trong ngôi nhà chất đầy ve chai - Thành phố nặng ân tình, Kỳ 7](https://thanhnien.vn/tinh-yeu-60-nam-lap-lanh-trong-ngoi-nha-chat-day-ve-chai-thanh-pho-nang-an-tinh-ky-7-185240818185838645.htm) - 23:16 03/09/2024
+- 🤠 [Đề thi tốt nghiệp THPT phân hóa tốt: Căn cứ để trường ĐH sử dụng xét tuyển](https://thanhnien.vn/de-thi-tot-nghiep-thpt-phan-hoa-tot-can-cu-de-truong-dh-su-dung-xet-tuyen-185240903202101915.htm) - 23:15 03/09/2024
+- 💼 [Giữa không kích, năm học mới ở Ukraine bắt đầu trong âu lo](https://thanhnien.vn/giua-khong-kich-nam-hoc-moi-o-ukraine-bat-dau-trong-au-lo-185240903182225966.htm) - 23:03 03/09/2024
+- 🐻 [Bộ Giáo dục và Đào tạo nới quy định dạy thêm, học thêm: giáo viên ủng hộ, hiệu trưởng lo khó quản lý](https://thanhnien.vn/bo-giao-duc-va-dao-tao-noi-quy-dinh-day-them-hoc-them-giao-vien-ung-ho-hieu-truong-lo-kho-quan-ly-185240901194409983.htm) - 23:00 03/09/2024
+- 🤔 [Tài khoản email nào không nên bỏ quên?](https://thanhnien.vn/tai-khoan-email-nao-khong-nen-bo-quen-185240829074028082.htm) - 23:00 03/09/2024
+- 📝 [Học phí cao: Nguy cơ sinh viên nghèo, học giỏi khó có cơ hội học tập](https://thanhnien.vn/hoc-phi-cao-nguy-co-sinh-vien-ngheo-hoc-gioi-kho-co-co-hoi-hoc-tap-185240903165124046.htm) - 22:59 03/09/2024
+- 🥰 [[VIDEO ĐIỀU TRA] Bóng tối sau mái ấm tình thương - Kỳ 1: Nỗi bất hạnh của trẻ sơ sinh](https://thanhnien.vn/dieu-tra-bong-toi-sau-mai-am-tinh-thuong-ky-1-noi-bat-hanh-cua-tre-so-sinh-185240904005728306.htm) - 22:58 03/09/2024
+- 🐲 [Tội ác trong một mái ấm](https://thanhnien.vn/toi-ac-trong-mot-mai-am-18524090322594226.htm) - 22:57 03/09/2024
+- 🎃 [OPEC đảo chiến lược để hạ giá dầu?](https://thanhnien.vn/opec-dao-chien-luoc-de-ha-gia-dau-185240903190653194.htm) - 22:50 03/09/2024
+- 🎬 [Chuyển đổi số, người dân hưởng lợi gì?: Hết cảnh xếp hàng chờ quyết toán thuế](https://thanhnien.vn/chuyen-doi-so-nguoi-dan-huong-loi-gi-het-canh-xep-hang-cho-quyet-toan-thue-185240903172350184.htm) - 22:49 03/09/2024
+- 🌜 [Thương hiệu Việt khi nào ra toàn cầu?](https://thanhnien.vn/thuong-hieu-viet-khi-nao-ra-toan-cau-18524090323241978.htm) - 22:45 03/09/2024
+- 🦆 [Tổng thống Biden tiếp sức cho bà Harris](https://thanhnien.vn/tong-thong-biden-tiep-suc-cho-ba-harris-185240903221130897.htm) - 22:45 03/09/2024
+- 🐵 [Hướng metro kết nối với Bình Dương và Đồng Nai](https://thanhnien.vn/huong-metro-ket-noi-voi-binh-duong-va-dong-nai-185240903221406169.htm) - 22:31 03/09/2024
+- 🙉 [Ông Putin nghĩ bà Harris dễ đoán, ông Trump khó đạt ngừng bắn nhanh chóng ở Ukraine](https://thanhnien.vn/ong-putin-nghi-ba-harris-de-doan-ong-trump-kho-dat-ngung-ban-nhanh-chong-o-ukraine-185240902152821644.htm) - 22:31 03/09/2024
+- 🌋 [Nỗ lực nâng kim ngạch thương mại Việt Nam - Hàn Quốc lên 150 tỉ USD](https://thanhnien.vn/no-luc-nang-kim-ngach-thuong-mai-viet-nam-han-quoc-len-150-ti-usd-18524090322180206.htm) - 22:29 03/09/2024
+- 🐻 [Giá vàng miếng SJC cao hơn vàng nhẫn 2,4 triệu đồng/lượng](https://thanhnien.vn/gia-vang-mieng-sjc-cao-hon-vang-nhan-24-trieu-dong-luong-185240903222100987.htm) - 22:27 03/09/2024
+- 🧠 [Nợ thuế quá hạn 2.000 đồng, có bị hoãn xuất cảnh?](https://thanhnien.vn/no-thue-qua-han-2000-dong-co-bi-hoan-xuat-canh-185240903221724778.htm) - 22:25 03/09/2024
+- 🔥 [Khách tăng mạnh, sao khách sạn vẫn lỗ?](https://thanhnien.vn/khach-tang-manh-sao-khach-san-van-lo-185240903221342632.htm) - 22:23 03/09/2024
+- 🌋 [Cá voi &#39;gián điệp Nga&#39; chết gần Na Uy](https://thanhnien.vn/ca-voi-gian-diep-nga-chet-gan-na-uy-185240903175856138.htm) - 22:02 03/09/2024
+- 😎 [Những &#39;siêu máy&#39; nội soi phát hiện sớm ung thư đường tiêu hóa](https://thanhnien.vn/nhung-sieu-may-noi-soi-phat-hien-som-ung-thu-duong-tieu-hoa-185240827171851646.htm) - 22:00 03/09/2024
+- 🥰 [Nga tập kích nhiều tỉnh, đụng độ hàng trăm lần với Ukraine](https://thanhnien.vn/nga-tap-kich-nhieu-tinh-dung-do-hang-tram-lan-voi-ukraine-185240903220253623.htm) - 21:45 03/09/2024
+- 🧑‍🏫 [Hồi sinh những trái tim thương tổn bằng &#39;bộ tứ&#39; trí tuệ nhân tạo](https://thanhnien.vn/hoi-sinh-nhung-trai-tim-thuong-ton-bang-bo-tu-tri-tue-nhan-tao-185240830174025215.htm) - 21:35 03/09/2024
+- 💄 [Cần nghiêm trị buôn bán thực phẩm giả](https://thanhnien.vn/can-nghiem-tri-buon-ban-thuc-pham-gia-185240903195359614.htm) - 21:25 03/09/2024
+- 💯 [Trăm em nhỏ mong một trung thu yêu thương ở xóm trọ nghèo](https://thanhnien.vn/tram-em-nho-mo-mot-trung-thu-yeu-thuong-o-xom-tro-ngheo-185240901170221777.htm) - 21:24 03/09/2024
+- 🚀 [Armelle DG yêu Việt Nam đến kiếp sau](https://thanhnien.vn/armelle-dg-yeu-viet-nam-den-kiep-sau-185240824173129598.htm) - 21:23 03/09/2024
+- 🦣 [HONTO nhịp cầu Việt - Nhật của Mei Phương](https://thanhnien.vn/honto-nhip-cau-viet-nhat-cua-mei-phuong-185240829165544493.htm) - 21:18 03/09/2024
+- 👹 [Hơn 1.700 tài xế vi phạm nồng độ cồn bị CSGT TP.HCM phạt khoảng 9,2 tỉ đồng](https://thanhnien.vn/csgt-tphcm-phat-1743-tai-xe-vi-pham-nong-do-con-trong-4-ngay-nghi-le-185240903221430431.htm) - 21:16 03/09/2024
+- 🦄 [Bài toán phủ sóng metro Hà Nội và TP.HCM](https://thanhnien.vn/bai-toan-phu-song-metro-ha-noi-va-tphcm-185240903221008943.htm) - 21:16 03/09/2024
+- 🤔 [Nâng tầm dịch vụ công](https://thanhnien.vn/nang-tam-dich-vu-cong-185240903223714943.htm) - 21:15 03/09/2024
+- 🧰 [Bão số 3 tăng cấp &#39;khủng&#39;, hướng về vịnh Bắc bộ](https://thanhnien.vn/bao-so-3-tang-cap-khung-huong-ve-vinh-bac-bo-185240903222629053.htm) - 21:10 03/09/2024
+- 🌁 [Tin tức đặc biệt trên báo in Thanh Niên 4.9.2024](https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-492024-185240903233740726.htm) - 21:07 03/09/2024
+- 🧐 [Israel tuyên bố tấn công vào 8 thành viên Hamas](https://thanhnien.vn/israel-tuyen-bo-tan-cong-vao-8-thanh-vien-hamas-185240903190747367.htm) - 21:07 03/09/2024
+- 🌏 [Bác sĩ 24/7: Chần thịt heo qua nước sôi có tốt?](https://thanhnien.vn/bac-si-24-7-chan-thit-heo-qua-nuoc-soi-co-tot-18524090322155437.htm) - 21:04 03/09/2024
+- 🎬 [Lần đầu tiên gây tê mổ tim hở không đau tại Việt Nam](https://thanhnien.vn/lan-dau-tien-gay-te-mo-tim-ho-khong-dau-tai-viet-nam-185240830155749043.htm) - 21:00 03/09/2024
+- 🚀 [Lịch thi đấu của U.22 Việt Nam - Trung Quốc hôm nay: Thầy Kim ‘hóng’ kết quả](https://thanhnien.vn/lich-thi-dau-cua-u22-viet-nam-trung-quoc-hom-nay-thay-kim-hong-ket-qua-185240903201025506.htm) - 20:58 03/09/2024
+- 🙉 [HLV Kim Sang-sik chuẩn bị &#39;vũ khí&#39; để gặp đội tuyển Nga](https://thanhnien.vn/hlv-kim-sang-sik-chuan-bi-vu-khi-de-gap-doi-tuyen-nga-185240903200832305.htm) - 20:50 03/09/2024
+- 🐵 [Đặng Văn Lâm và người bạn đời đồng hành trên mọi nẻo đường](https://thanhnien.vn/dang-van-lam-va-nguoi-ban-doi-dong-hanh-tren-moi-neo-duong-185240903201835262.htm) - 20:49 03/09/2024
+- 🐎 [Chiến sự Ukraine ngày 923: Poltava hứng đòn tập kích nghiêm trọng, hơn 50 người chết](https://thanhnien.vn/chien-su-ukraine-ngay-923-poltava-hung-don-tap-kich-nghiem-trong-hon-50-nguoi-chet-185240903233504267.htm) - 20:48 03/09/2024
+- 🕯 [Ngày mới với tin tức sức khỏe: Những cách tự nhiên giúp bạn làm sạch ruột](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-nhung-cach-tu-nhien-giup-ban-lam-sach-ruot-185240903181354705.htm) - 17:10 03/09/2024
+- 👀 [Nhà vệ sinh công cộng: Cách sử dụng an toàn cho sức khỏe](https://thanhnien.vn/nha-ve-sinh-cong-cong-cach-su-dung-an-toan-cho-suc-khoe-185240830164109189.htm) - 17:08 03/09/2024
+- 🦒 [Tác dụng bất ngờ của ổi đến cholesterol và lượng đường trong máu](https://thanhnien.vn/tac-dung-bat-ngo-cua-oi-den-cholesterol-va-luong-duong-trong-mau-18524090311503912.htm) - 17:06 03/09/2024
+- 🧐 [4 nguyên nhân tiềm ẩn khiến trẻ hay nheo mắt](https://thanhnien.vn/4-nguyen-nhan-tiem-an-khien-tre-hay-nheo-mat-185240903141402907.htm) - 17:05 03/09/2024
+- 🌊 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 4.9.2024](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-492024-185240902175110723.htm) - 16:26 03/09/2024
+- 🧑‍🏫 [Điểm xung đột: Ông Putin nói &#39;canh bạc&#39; ở Kursk thất bại; Ukraine còn bao nhiêu xe tăng Abrams?](https://thanhnien.vn/diem-xung-dot-ong-putin-noi-canh-bac-o-kursk-that-bai-ukraine-con-bao-nhieu-xe-tang-abrams-185240903185825375.htm) - 16:00 03/09/2024
+- 🫣 [Vượt ngục ở nhà tù quá tải tại Congo, ít nhất 129 người chết](https://thanhnien.vn/vuot-nguc-o-nha-tu-qua-tai-tai-congo-it-nhat-129-nguoi-chet-185240903222454714.htm) - 15:33 03/09/2024
+- 👺 [Người dân ùn ùn trở lại Hà Nội, cao tốc ùn tắc kéo dài](https://thanhnien.vn/nguoi-dan-un-un-tro-lai-ha-noi-cao-toc-un-tac-keo-dai-185240903220427316.htm) - 15:10 03/09/2024
 - 🧑‍🏫 [Những địa điểm lý tưởng để lựa chọn lưu trú tại Frankfurt, Đức](https://thanhnien.vn/thoi-trang-tre/nhung-dia-diem-ly-tuong-de-lua-chon-luu-tru-tai-frankfurt-duc-185240901213900729.htm) - 15:00 03/09/2024
-- 🫣 [&#39;Đạo chích&#39; hoành hành ở Hải Phòng, Quảng Ninh](https://thanhnien.vn/dao-chich-hoanh-hanh-o-hai-phong-quang-ninh-185240903205854404.htm) - 14:49 03/09/2024
-- 👺 [Cát tràn cuồn cuộn ở Phan Thiết, cuốn trôi người và xe máy](https://thanhnien.vn/cat-tran-cuon-cuon-o-phan-thiet-cuon-troi-nguoi-va-xe-may-185240903224052743.htm) - 14:40 03/09/2024
-- 🧑‍🏫 [Cuộc đua V-League mới: Đội nào đủ sức ‘lật đổ’ ngôi vương của Nam Định](https://thanhnien.vn/cuoc-dua-v-league-moi-doi-nao-du-suc-lat-do-ngoi-vuong-cua-nam-dinh-185240903205132223.htm) - 14:20 03/09/2024
-- 🌊 [NSƯT Vũ Luân nói lý do rút khỏi &#39;Chuông vàng vọng cổ&#39;](https://thanhnien.vn/nsut-vu-luan-noi-ly-do-rut-khoi-chuong-vang-vong-co-185240903205939718.htm) - 14:08 03/09/2024
-- 🕯 [Hoàng Đức: ‘Đội tuyển Việt Nam sẽ rất khác ở trận gặp Nga’](https://thanhnien.vn/hoang-duc-doi-tuyen-viet-nam-se-rat-khac-o-tran-gap-nga-185240903204832566.htm) - 13:56 03/09/2024
-- 🐲 [Trực thăng Ấn Độ hạ cánh khẩn trên biển khi đang cứu hộ](https://thanhnien.vn/truc-thang-an-do-ha-canh-khan-tren-bien-khi-dang-cuu-ho-185240903202016395.htm) - 13:49 03/09/2024
-- ⛽️ [Xem nhanh 20h ngày 3.9: Bão số 3 sẽ rất mạnh, Thủ tướng chỉ đạo khẩn | Dầu vón cục ở Nha Trang đến từ đâu?](https://thanhnien.vn/xem-nhanh-20h-ngay-39-bao-so-3-se-rat-manh-thu-tuong-chi-dao-khan-dau-von-cuc-o-nha-trang-den-tu-dau-185240903163039997.htm) - 13:00 03/09/2024
-- 🎉 [Trải nghiệm ẩm thực khó quên tại Incheon, Hàn Quốc](https://thanhnien.vn/thoi-trang-tre/trai-nghiem-am-thuc-kho-quen-tai-incheon-han-quoc-185240901160543026.htm) - 13:00 03/09/2024
-- 🎊 [Tổng thống Mỹ Joe Biden và lãnh đạo các nước chúc mừng ngày Quốc khánh Việt Nam](https://thanhnien.vn/tong-thong-my-joe-biden-va-lanh-dao-cac-nuoc-chuc-mung-ngay-quoc-khanh-viet-nam-185240903180716481.htm) - 12:59 03/09/2024
-- 🥳 [Cán bộ trại tạm giam gây tai nạn giao thông, có nồng độ cồn](https://thanhnien.vn/can-bo-trai-tam-giam-gay-tai-nan-giao-thong-co-nong-do-con-185240903182837638.htm) - 12:55 03/09/2024
-- 🤡 [Hơn 16.400 tài xế vi phạm nồng độ cồn dịp nghỉ lễ 2.9](https://thanhnien.vn/hon-16400-tai-xe-vi-pham-nong-do-con-dip-nghi-le-29-185240903190134633.htm) - 12:53 03/09/2024<!-- thanhnien:END -->
+- 🌊 [&#39;Đạo chích&#39; hoành hành ở Hải Phòng, Quảng Ninh](https://thanhnien.vn/dao-chich-hoanh-hanh-o-hai-phong-quang-ninh-185240903205854404.htm) - 14:49 03/09/2024
+- 🕯 [Cát tràn cuồn cuộn ở Phan Thiết, cuốn trôi người và xe máy](https://thanhnien.vn/cat-tran-cuon-cuon-o-phan-thiet-cuon-troi-nguoi-va-xe-may-185240903224052743.htm) - 14:40 03/09/2024
+- 🐲 [Cuộc đua V-League mới: Đội nào đủ sức ‘lật đổ’ ngôi vương của Nam Định](https://thanhnien.vn/cuoc-dua-v-league-moi-doi-nao-du-suc-lat-do-ngoi-vuong-cua-nam-dinh-185240903205132223.htm) - 14:20 03/09/2024
+- ⛽️ [NSƯT Vũ Luân nói lý do rút khỏi &#39;Chuông vàng vọng cổ&#39;](https://thanhnien.vn/nsut-vu-luan-noi-ly-do-rut-khoi-chuong-vang-vong-co-185240903205939718.htm) - 14:08 03/09/2024
+- 🎉 [Hoàng Đức: ‘Đội tuyển Việt Nam sẽ rất khác ở trận gặp Nga’](https://thanhnien.vn/hoang-duc-doi-tuyen-viet-nam-se-rat-khac-o-tran-gap-nga-185240903204832566.htm) - 13:56 03/09/2024
+- 🎊 [Trực thăng Ấn Độ hạ cánh khẩn trên biển khi đang cứu hộ](https://thanhnien.vn/truc-thang-an-do-ha-canh-khan-tren-bien-khi-dang-cuu-ho-185240903202016395.htm) - 13:49 03/09/2024
+- 🥳 [Xem nhanh 20h ngày 3.9: Bão số 3 sẽ rất mạnh, Thủ tướng chỉ đạo khẩn | Dầu vón cục ở Nha Trang đến từ đâu?](https://thanhnien.vn/xem-nhanh-20h-ngay-39-bao-so-3-se-rat-manh-thu-tuong-chi-dao-khan-dau-von-cuc-o-nha-trang-den-tu-dau-185240903163039997.htm) - 13:00 03/09/2024
+- 🤡 [Trải nghiệm ẩm thực khó quên tại Incheon, Hàn Quốc](https://thanhnien.vn/thoi-trang-tre/trai-nghiem-am-thuc-kho-quen-tai-incheon-han-quoc-185240901160543026.htm) - 13:00 03/09/2024<!-- thanhnien:END -->
 
 ## Báo Lao Động
 <!-- laodong:START -->
