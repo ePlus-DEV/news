@@ -205,46 +205,46 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [&quot;Thần y&quot; Yên Bái biệt tăm, &quot;nghỉ hẳn, không làm thuốc nữa&quot;](https://laodong.vn/ban-doc/than-y-yen-bai-biet-tam-nghi-han-khong-lam-thuoc-nua-1388725.ldo) - 11:13 03/09/2024
-- 📝 [Quảng Nam bắt giam 2 người nước ngoài chiếm đoạt thẻ tín dụng](https://laodong.vn/an-ninh-hinh-su/quang-nam-bat-giam-2-nguoi-nuoc-ngoai-chiem-doat-the-tin-dung-1388830.ldo) - 11:13 03/09/2024
+- 🗽 [HLV đội tuyển U22 Việt Nam: Mục tiêu cọ xát, tìm nhân tố nổi bật](https://laodong.vn/bong-da/hlv-doi-tuyen-u22-viet-nam-muc-tieu-co-xat-tim-nhan-to-noi-bat-1388834.ldo) - 11:30 03/09/2024
+- 📝 [4 món ăn buổi sáng giúp đường huyết được kiểm soát](https://laodong.vn/video/4-mon-an-buoi-sang-giup-duong-huyet-duoc-kiem-soat-1388808.ldo) - 11:30 03/09/2024
+- 🦏 [&quot;Thần y&quot; Yên Bái biệt tăm, &quot;nghỉ hẳn, không làm thuốc nữa&quot;](https://laodong.vn/ban-doc/than-y-yen-bai-biet-tam-nghi-han-khong-lam-thuoc-nua-1388725.ldo) - 11:13 03/09/2024
+- 🦩 [Quảng Nam bắt giam 2 người nước ngoài chiếm đoạt thẻ tín dụng](https://laodong.vn/an-ninh-hinh-su/quang-nam-bat-giam-2-nguoi-nuoc-ngoai-chiem-doat-the-tin-dung-1388830.ldo) - 11:13 03/09/2024
 - 🦏 [Ngày cuối kỳ nghỉ lễ, người dân &quot;tay xách nách mang&quot; trở lại thành phố](https://laodong.vn/video/ngay-cuoi-ky-nghi-le-nguoi-dan-tay-xach-nach-mang-tro-lai-thanh-pho-1388794.ldo) - 11:12 03/09/2024
-- 🦩 [Đề xuất bệnh nhân không cần xin giấy chuyển tuyến nhiều lần](https://laodong.vn/y-te/de-xuat-benh-nhan-khong-can-xin-giay-chuyen-tuyen-nhieu-lan-1388839.ldo) - 11:10 03/09/2024
-- 🦏 [Rạp phim trên núi hút mắt trẻ vùng cao Quảng Nam](https://laodong.vn/video/rap-phim-tren-nui-hut-mat-tre-vung-cao-quang-nam-1388692.ldo) - 11:10 03/09/2024
-- 🧰 [Bão số 3 Yagi dự báo tăng cấp liên tục, có thể giật cấp 17](https://laodong.vn/moi-truong/bao-so-3-yagi-du-bao-tang-cap-lien-tuc-co-the-giat-cap-17-1388822.ldo) - 11:07 03/09/2024
-- 🌊 [Dự báo thời tiết ngày mai 4.9 trên cả nước](https://laodong.vn/moi-truong/du-bao-thoi-tiet-ngay-mai-49-tren-ca-nuoc-1388779.ldo) - 11:04 03/09/2024
-- 🔥 [Phát hiện quá trình tạo ra khối vàng tự nhiên lớn](https://laodong.vn/the-gioi/phat-hien-qua-trinh-tao-ra-khoi-vang-tu-nhien-lon-1388753.ldo) - 11:01 03/09/2024
-- 🦒 [Trùm phân phối NOXH sai phép tại Sao Vàng Tower Hoà Bình](https://laodong.vn/video/trum-phan-phoi-noxh-sai-phep-tai-sao-vang-tower-hoa-binh-1383807.ldo) - 11:00 03/09/2024
-- 💼 [Thủ tục bán lại nhà ở xã hội khi chưa đủ 5 năm](https://laodong.vn/bat-dong-san/thu-tuc-ban-lai-nha-o-xa-hoi-khi-chua-du-5-nam-1388336.ldo) - 11:00 03/09/2024
-- 🤖 [Số người tử vong do tai nạn dịp nghỉ lễ 2.9 giảm hơn 53%](https://laodong.vn/xa-hoi/so-nguoi-tu-vong-do-tai-nan-dip-nghi-le-29-giam-hon-53-1388802.ldo) - 10:59 03/09/2024
-- 💪 [Danh sách 71 xe bị Công an TP. Thanh Hóa phạt nguội gần nhất](https://laodong.vn/xe/danh-sach-71-xe-bi-cong-an-tp-thanh-hoa-phat-nguoi-gan-nhat-1388843.ldo) - 10:56 03/09/2024
-- 👍 [Phát hiện quý giá trong 150 mộ cổ Trung Quốc dưới vườn thú](https://laodong.vn/the-gioi/phat-hien-quy-gia-trong-150-mo-co-trung-quoc-duoi-vuon-thu-1388799.ldo) - 10:54 03/09/2024
-- 💂 [Can thiệp điện sinh lý, điều trị dứt điểm loạn nhịp tim](https://laodong.vn/y-te/can-thiep-dien-sinh-ly-dieu-tri-dut-diem-loan-nhip-tim-1388741.ldo) - 10:41 03/09/2024
-- 🧰 [Ôm hôn chó mèo, bé gái bị giun đũa làm ổ trên trán](https://laodong.vn/video/om-hon-cho-meo-be-gai-bi-giun-dua-lam-o-tren-tran-1388592.ldo) - 10:32 03/09/2024
-- 🥷 [Chỉ 100.000 đồng “thả ga” vui chơi tại Công viên nước Sun World Sầm Sơn](https://laodong.vn/van-hoa-giai-tri/chi-100000-dong-tha-ga-vui-choi-tai-cong-vien-nuoc-sun-world-sam-son-1388818.ldo) - 10:31 03/09/2024
-- 💫 [Hồ sơ đề nghị hưởng chế độ tử tuất từ ngày 1.7.2025](https://laodong.vn/video-xa-hoi/ho-so-de-nghi-huong-che-do-tu-tuat-tu-ngay-172025-1388697.ldo) - 10:30 03/09/2024
-- 🎭 [Lí do ăn thực phẩm giàu kali tốt cho sức khỏe](https://laodong.vn/ban-tin/li-do-an-thuc-pham-giau-kali-tot-cho-suc-khoe-1388823.ldo) - 10:24 03/09/2024
-- 😎 [Tập trung đưa nghị quyết đại hội công đoàn vào cuộc sống](https://laodong.vn/cd-hang-hai/tap-trung-dua-nghi-quyet-dai-hoi-cong-doan-vao-cuoc-song-1388809.ldo) - 10:21 03/09/2024
-- 💄 [Dâng hương, thượng cờ khai hội chọi trâu Đồ Sơn Hải Phòng](https://laodong.vn/van-hoa-giai-tri/dang-huong-thuong-co-khai-hoi-choi-trau-do-son-hai-phong-1388805.ldo) - 10:15 03/09/2024
-- 🫣 [Nam sinh Đường lên đỉnh Olympia xin lỗi, hãy cảm thông](https://laodong.vn/su-kien-binh-luan/nam-sinh-duong-len-dinh-olympia-xin-loi-hay-cam-thong-1388660.ldo) - 10:14 03/09/2024
-- 🧑‍🏫 [Sẽ giảm tuổi hưởng trợ cấp hưu trí xã hội từ 1.7.2025](https://laodong.vn/ban-doc/se-giam-tuoi-huong-tro-cap-huu-tri-xa-hoi-tu-172025-1388796.ldo) - 10:13 03/09/2024
-- 🦣 [Lãi suất Agribank, BIDV, Vietcombank, VietinBank 3.9.2024](https://laodong.vn/ban-tin/lai-suat-agribank-bidv-vietcombank-vietinbank-392024-1388758.ldo) - 10:12 03/09/2024
+- 🧰 [Đề xuất bệnh nhân không cần xin giấy chuyển tuyến nhiều lần](https://laodong.vn/y-te/de-xuat-benh-nhan-khong-can-xin-giay-chuyen-tuyen-nhieu-lan-1388839.ldo) - 11:10 03/09/2024
+- 🌊 [Rạp phim trên núi hút mắt trẻ vùng cao Quảng Nam](https://laodong.vn/video/rap-phim-tren-nui-hut-mat-tre-vung-cao-quang-nam-1388692.ldo) - 11:10 03/09/2024
+- 🔥 [Bão số 3 Yagi dự báo tăng cấp liên tục, có thể giật cấp 17](https://laodong.vn/moi-truong/bao-so-3-yagi-du-bao-tang-cap-lien-tuc-co-the-giat-cap-17-1388822.ldo) - 11:07 03/09/2024
+- 🦒 [Dự báo thời tiết ngày mai 4.9 trên cả nước](https://laodong.vn/moi-truong/du-bao-thoi-tiet-ngay-mai-49-tren-ca-nuoc-1388779.ldo) - 11:04 03/09/2024
+- 💼 [Phát hiện quá trình tạo ra khối vàng tự nhiên lớn](https://laodong.vn/the-gioi/phat-hien-qua-trinh-tao-ra-khoi-vang-tu-nhien-lon-1388753.ldo) - 11:01 03/09/2024
+- 🤖 [Trùm phân phối NOXH sai phép tại Sao Vàng Tower Hoà Bình](https://laodong.vn/video/trum-phan-phoi-noxh-sai-phep-tai-sao-vang-tower-hoa-binh-1383807.ldo) - 11:00 03/09/2024
+- 💪 [Thủ tục bán lại nhà ở xã hội khi chưa đủ 5 năm](https://laodong.vn/bat-dong-san/thu-tuc-ban-lai-nha-o-xa-hoi-khi-chua-du-5-nam-1388336.ldo) - 11:00 03/09/2024
+- 👍 [Số người tử vong do tai nạn dịp nghỉ lễ 2.9 giảm hơn 53%](https://laodong.vn/xa-hoi/so-nguoi-tu-vong-do-tai-nan-dip-nghi-le-29-giam-hon-53-1388802.ldo) - 10:59 03/09/2024
+- 💂 [Danh sách 71 xe bị Công an TP. Thanh Hóa phạt nguội gần nhất](https://laodong.vn/xe/danh-sach-71-xe-bi-cong-an-tp-thanh-hoa-phat-nguoi-gan-nhat-1388843.ldo) - 10:56 03/09/2024
+- 🧰 [Phát hiện quý giá trong 150 mộ cổ Trung Quốc dưới vườn thú](https://laodong.vn/the-gioi/phat-hien-quy-gia-trong-150-mo-co-trung-quoc-duoi-vuon-thu-1388799.ldo) - 10:54 03/09/2024
+- 🥷 [Can thiệp điện sinh lý, điều trị dứt điểm loạn nhịp tim](https://laodong.vn/y-te/can-thiep-dien-sinh-ly-dieu-tri-dut-diem-loan-nhip-tim-1388741.ldo) - 10:41 03/09/2024
+- 💫 [Ôm hôn chó mèo, bé gái bị giun đũa làm ổ trên trán](https://laodong.vn/video/om-hon-cho-meo-be-gai-bi-giun-dua-lam-o-tren-tran-1388592.ldo) - 10:32 03/09/2024
+- 🎭 [Chỉ 100.000 đồng “thả ga” vui chơi tại Công viên nước Sun World Sầm Sơn](https://laodong.vn/van-hoa-giai-tri/chi-100000-dong-tha-ga-vui-choi-tai-cong-vien-nuoc-sun-world-sam-son-1388818.ldo) - 10:31 03/09/2024
+- 😎 [Hồ sơ đề nghị hưởng chế độ tử tuất từ ngày 1.7.2025](https://laodong.vn/video-xa-hoi/ho-so-de-nghi-huong-che-do-tu-tuat-tu-ngay-172025-1388697.ldo) - 10:30 03/09/2024
+- 💄 [Lí do ăn thực phẩm giàu kali tốt cho sức khỏe](https://laodong.vn/ban-tin/li-do-an-thuc-pham-giau-kali-tot-cho-suc-khoe-1388823.ldo) - 10:24 03/09/2024
+- 🫣 [Tập trung đưa nghị quyết đại hội công đoàn vào cuộc sống](https://laodong.vn/cd-hang-hai/tap-trung-dua-nghi-quyet-dai-hoi-cong-doan-vao-cuoc-song-1388809.ldo) - 10:21 03/09/2024
+- 🧑‍🏫 [Dâng hương, thượng cờ khai hội chọi trâu Đồ Sơn Hải Phòng](https://laodong.vn/van-hoa-giai-tri/dang-huong-thuong-co-khai-hoi-choi-trau-do-son-hai-phong-1388805.ldo) - 10:15 03/09/2024
+- 🦣 [Nam sinh Đường lên đỉnh Olympia xin lỗi, hãy cảm thông](https://laodong.vn/su-kien-binh-luan/nam-sinh-duong-len-dinh-olympia-xin-loi-hay-cam-thong-1388660.ldo) - 10:14 03/09/2024
+- 💫 [Sẽ giảm tuổi hưởng trợ cấp hưu trí xã hội từ 1.7.2025](https://laodong.vn/ban-doc/se-giam-tuoi-huong-tro-cap-huu-tri-xa-hoi-tu-172025-1388796.ldo) - 10:13 03/09/2024
+- ⛽️ [Lãi suất Agribank, BIDV, Vietcombank, VietinBank 3.9.2024](https://laodong.vn/ban-tin/lai-suat-agribank-bidv-vietcombank-vietinbank-392024-1388758.ldo) - 10:12 03/09/2024
 - 💫 [Điều tiết giao thông để du khách rời Đà Lạt trở về an toàn](https://laodong.vn/xa-hoi/dieu-tiet-giao-thong-de-du-khach-roi-da-lat-tro-ve-an-toan-1388797.ldo) - 10:11 03/09/2024
-- ⛽️ [Điểm mới về phạt nguội theo dự thảo của Bộ Công an](https://laodong.vn/xe/diem-moi-ve-phat-nguoi-theo-du-thao-cua-bo-cong-an-1388776.ldo) - 10:08 03/09/2024
-- 💫 [Cao tốc Pháp Vân - Cầu Giẽ ùn ứ, ôtô đi qua đường tránh](https://laodong.vn/photo/cao-toc-phap-van-cau-gie-un-u-oto-di-qua-duong-tranh-1388798.ldo) - 10:08 03/09/2024
-- 🥸 [Trình tự thực hiện quyết định cưỡng chế thu hồi đất](https://laodong.vn/ban-tin/trinh-tu-thuc-hien-quyet-dinh-cuong-che-thu-hoi-dat-1388068.ldo) - 10:04 03/09/2024
-- 🐻 [Liên tiếp các vụ đuối nước khiến 4 trẻ em, học sinh Hòa Bình tử vong](https://laodong.vn/xa-hoi/lien-tiep-cac-vu-duoi-nuoc-khien-4-tre-em-hoc-sinh-hoa-binh-tu-vong-1388800.ldo) - 10:02 03/09/2024
-- 🪄 [CSGT căng mình điều tiết tại điểm nóng cầu Rạch Miễu](https://laodong.vn/photo/csgt-cang-minh-dieu-tiet-tai-diem-nong-cau-rach-mieu-1388789.ldo) - 10:00 03/09/2024
-- 🧑‍🏫 [Cần chỉ tiêu ngành Quản trị kinh doanh, nhiều đại học tuyển thêm](https://laodong.vn/ban-tin/can-chi-tieu-nganh-quan-tri-kinh-doanh-nhieu-dai-hoc-tuyen-them-1388705.ldo) - 10:00 03/09/2024
-- 🌊 [Trưởng thôn ở Hòa Bình nhận mức phụ cấp gần 3 triệu đồng](https://laodong.vn/video/truong-thon-o-hoa-binh-nhan-muc-phu-cap-gan-3-trieu-dong-1388731.ldo) - 09:59 03/09/2024
-- 💻 [Cập nhật giá vàng hôm nay, vàng nhẫn, vàng SJC 3.9.2024](https://laodong.vn/infographic/cap-nhat-gia-vang-hom-nay-vang-nhan-vang-sjc-392024-1388806.ldo) - 09:58 03/09/2024
-- 👨‍🏫 [1 người đi xe đạp tập thể dục tử vong sau tai nạn với xe tải](https://laodong.vn/xa-hoi/1-nguoi-di-xe-dap-tap-the-duc-tu-vong-sau-tai-nan-voi-xe-tai-1388782.ldo) - 09:57 03/09/2024
-- 🌈 [Bão Yagi có thể đạt tới cấp siêu bão](https://laodong.vn/the-gioi/bao-yagi-co-the-dat-toi-cap-sieu-bao-1388751.ldo) - 09:49 03/09/2024
-- 🐲 [Tại sao Liverpool bình thản về tương lai của Mohamed Salah?](https://laodong.vn/bong-da-quoc-te/tai-sao-liverpool-binh-than-ve-tuong-lai-cua-mohamed-salah-1388698.ldo) - 09:39 03/09/2024
-- 🚀 [Bất chấp giá tăng, chung cư vẫn giao dịch sôi động](https://laodong.vn/bat-dong-san/bat-chap-gia-tang-chung-cu-van-giao-dich-soi-dong-1388752.ldo) - 09:38 03/09/2024
-- 😺 [Hà Nội thu hơn 2.000 tỉ đồng từ khách du lịch dịp 2.9](https://laodong.vn/ban-doc/ha-noi-thu-hon-2000-ti-dong-tu-khach-du-lich-dip-29-1388781.ldo) - 09:34 03/09/2024
-- 🕴 [Đắk Nông cấm xe tải nặng đi qua Tỉnh lộ 1 bị sụt lún](https://laodong.vn/xa-hoi/dak-nong-cam-xe-tai-nang-di-qua-tinh-lo-1-bi-sut-lun-1388775.ldo) - 09:33 03/09/2024
-- 🌋 [Người dân ùn ùn trở lại Thủ đô, cửa ngõ phía Nam ùn tắc 3km](https://laodong.vn/giao-thong/nguoi-dan-un-un-tro-lai-thu-do-cua-ngo-phia-nam-un-tac-3km-1388736.ldo) - 09:33 03/09/2024
-- 💄 [Giảng viên Phổ thông Cao đẳng FPT TPHCM tiếp tục giảng dạy](https://laodong.vn/giao-duc/giang-vien-pho-thong-cao-dang-fpt-tphcm-tiep-tuc-giang-day-1388765.ldo) - 09:27 03/09/2024<!-- laodong:END -->
+- 🥸 [Điểm mới về phạt nguội theo dự thảo của Bộ Công an](https://laodong.vn/xe/diem-moi-ve-phat-nguoi-theo-du-thao-cua-bo-cong-an-1388776.ldo) - 10:08 03/09/2024
+- 🐻 [Cao tốc Pháp Vân - Cầu Giẽ ùn ứ, ôtô đi qua đường tránh](https://laodong.vn/photo/cao-toc-phap-van-cau-gie-un-u-oto-di-qua-duong-tranh-1388798.ldo) - 10:08 03/09/2024
+- 🪄 [Trình tự thực hiện quyết định cưỡng chế thu hồi đất](https://laodong.vn/ban-tin/trinh-tu-thuc-hien-quyet-dinh-cuong-che-thu-hoi-dat-1388068.ldo) - 10:04 03/09/2024
+- 🧑‍🏫 [Liên tiếp các vụ đuối nước khiến 4 trẻ em, học sinh Hòa Bình tử vong](https://laodong.vn/xa-hoi/lien-tiep-cac-vu-duoi-nuoc-khien-4-tre-em-hoc-sinh-hoa-binh-tu-vong-1388800.ldo) - 10:02 03/09/2024
+- 🌊 [CSGT căng mình điều tiết tại điểm nóng cầu Rạch Miễu](https://laodong.vn/photo/csgt-cang-minh-dieu-tiet-tai-diem-nong-cau-rach-mieu-1388789.ldo) - 10:00 03/09/2024
+- 💻 [Cần chỉ tiêu ngành Quản trị kinh doanh, nhiều đại học tuyển thêm](https://laodong.vn/ban-tin/can-chi-tieu-nganh-quan-tri-kinh-doanh-nhieu-dai-hoc-tuyen-them-1388705.ldo) - 10:00 03/09/2024
+- 👨‍🏫 [Trưởng thôn ở Hòa Bình nhận mức phụ cấp gần 3 triệu đồng](https://laodong.vn/video/truong-thon-o-hoa-binh-nhan-muc-phu-cap-gan-3-trieu-dong-1388731.ldo) - 09:59 03/09/2024
+- 🌈 [Cập nhật giá vàng hôm nay, vàng nhẫn, vàng SJC 3.9.2024](https://laodong.vn/infographic/cap-nhat-gia-vang-hom-nay-vang-nhan-vang-sjc-392024-1388806.ldo) - 09:58 03/09/2024
+- 🐲 [1 người đi xe đạp tập thể dục tử vong sau tai nạn với xe tải](https://laodong.vn/xa-hoi/1-nguoi-di-xe-dap-tap-the-duc-tu-vong-sau-tai-nan-voi-xe-tai-1388782.ldo) - 09:57 03/09/2024
+- 🚀 [Bão Yagi có thể đạt tới cấp siêu bão](https://laodong.vn/the-gioi/bao-yagi-co-the-dat-toi-cap-sieu-bao-1388751.ldo) - 09:49 03/09/2024
+- 😺 [Tại sao Liverpool bình thản về tương lai của Mohamed Salah?](https://laodong.vn/bong-da-quoc-te/tai-sao-liverpool-binh-than-ve-tuong-lai-cua-mohamed-salah-1388698.ldo) - 09:39 03/09/2024
+- 🕴 [Bất chấp giá tăng, chung cư vẫn giao dịch sôi động](https://laodong.vn/bat-dong-san/bat-chap-gia-tang-chung-cu-van-giao-dich-soi-dong-1388752.ldo) - 09:38 03/09/2024
+- 🌋 [Hà Nội thu hơn 2.000 tỉ đồng từ khách du lịch dịp 2.9](https://laodong.vn/ban-doc/ha-noi-thu-hon-2000-ti-dong-tu-khach-du-lich-dip-29-1388781.ldo) - 09:34 03/09/2024
+- 💄 [Đắk Nông cấm xe tải nặng đi qua Tỉnh lộ 1 bị sụt lún](https://laodong.vn/xa-hoi/dak-nong-cam-xe-tai-nang-di-qua-tinh-lo-1-bi-sut-lun-1388775.ldo) - 09:33 03/09/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
