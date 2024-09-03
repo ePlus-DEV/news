@@ -7,7 +7,7 @@ sidebar_position: 2
 - 🎭 [Mẹ kể lại khoảnh khắc con trai làm vỡ bình cổ 3.500 tuổi](https://vnexpress.net/me-ke-lai-khoanh-khac-con-trai-lam-vo-binh-co-3-500-tuoi-4788674.html) - 15:14 03/09/2024
 - 🕴 [Mỹ có thể sắp chuyển tên lửa tầm bắn gần 400 km cho Ukraine](https://vnexpress.net/my-co-the-sap-chuyen-ten-lua-tam-ban-gan-400-km-cho-ukraine-4788673.html) - 14:14 03/09/2024
 - 🤭 [Ông Netanyahu: Anh giảm bán vũ khí cho Israel là &#39;đáng hổ thẹn&#39;](https://vnexpress.net/ong-netanyahu-anh-giam-ban-vu-khi-cho-israel-la-dang-ho-then-4788680.html) - 14:13 03/09/2024
-- 🧑‍💻 [Ukraine nói 41 người chết trong đòn tập kích tên lửa của Nga](https://vnexpress.net/ukraine-noi-41-nguoi-chet-trong-don-tap-kich-ten-lua-cua-nga-4788670.html) - 12:45 03/09/2024
+- 🧑‍💻 [Ukraine nói 49 người chết trong đòn tập kích tên lửa của Nga](https://vnexpress.net/ukraine-noi-49-nguoi-chet-trong-don-tap-kich-ten-lua-cua-nga-4788670.html) - 12:45 03/09/2024
 - 🦏 [&#39;Giấc mơ Mỹ&#39; xa vời với nhiều người Mỹ](https://vnexpress.net/giac-mo-my-xa-voi-voi-nhieu-nguoi-my-4786917.html) - 12:00 03/09/2024
 - 🦒 [Trực thăng cứu hộ Ấn Độ rơi xuống biển khi cứu nạn](https://vnexpress.net/truc-thang-cuu-ho-an-do-roi-xuong-bien-khi-cuu-nan-4788662.html) - 11:16 03/09/2024
 - 🌈 [Nga phạt tù nhà khoa học tên lửa vì tội phản quốc](https://vnexpress.net/nga-phat-tu-nha-khoa-hoc-ten-lua-vi-toi-phan-quoc-4788643.html) - 10:27 03/09/2024
