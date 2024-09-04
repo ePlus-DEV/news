@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Tuyển Việt Nam rộn tiếng cười trước trận đấu Nga](https://vnexpress.net/tuyen-viet-nam-ron-tieng-cuoi-truoc-tran-dau-nga-4789083.html) - 13:55 04/09/2024
+- 🪜 [Tuyển Việt Nam tất bật chuẩn bị trước trận đấu Nga](https://vnexpress.net/tuyen-viet-nam-tat-bat-chuan-bi-truoc-tran-dau-nga-4789083.html) - 13:55 04/09/2024
 - 🦩 [HLV tuyển Nga: &#39;Chúng tôi rất nghiêm túc trước Việt Nam&#39;](https://vnexpress.net/hlv-tuyen-nga-chung-toi-rat-nghiem-tuc-truoc-viet-nam-4789101.html) - 13:49 04/09/2024
 - 🧰 [Trọng tài bị chỉ trích trong hai bàn thua của Man Utd](https://vnexpress.net/trong-tai-bi-chi-trich-trong-hai-ban-thua-cua-man-utd-4788882.html) - 13:09 04/09/2024
 - 🤗 [Quế Ngọc Hải: &#39;Đối đầu tuyển Nga là trải nghiệm quý cho Việt Nam&#39;](https://vnexpress.net/que-ngoc-hai-doi-dau-tuyen-nga-la-trai-nghiem-quy-cho-viet-nam-4789076.html) - 12:10 04/09/2024
