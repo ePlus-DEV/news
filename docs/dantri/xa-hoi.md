@@ -8,7 +8,7 @@ sidebar_position: 1
 - 💼 [Bộ Công an: Nhiều thiếu niên 13-15 tuổi nghiện ma túy](https://dantri.com.vn/phap-luat/bo-cong-an-nhieu-thieu-nien-13-15-tuoi-nghien-ma-tuy-20240904172927221.htm) - 10:35 04/09/2024
 - 🎊 [10 năm nay mới dự báo một cơn siêu bão cường độ rất lớn như Yagi](https://dantri.com.vn/xa-hoi/10-nam-nay-moi-du-bao-mot-con-sieu-bao-cuong-do-rat-lon-nhu-yagi-20240904165255471.htm) - 10:11 04/09/2024
 - 🙉 [Loạt sân bay dự kiến hứng bão Yagi](https://dantri.com.vn/xa-hoi/loat-san-bay-du-kien-hung-bao-yagi-20240904164757377.htm) - 09:59 04/09/2024
-- 🕯 [Đưa 84 trẻ rời khỏi Mái ấm Hoa Hồng ở TPHCM](https://dantri.com.vn/xa-hoi/dua-84-tre-roi-khoi-mai-am-hoa-hong-o-tphcm-20240904164902254.htm) - 09:52 04/09/2024
+- 🕯 [Đưa 85 trẻ rời khỏi Mái ấm Hoa Hồng ở TPHCM](https://dantri.com.vn/xa-hoi/dua-85-tre-roi-khoi-mai-am-hoa-hong-o-tphcm-20240904164902254.htm) - 09:52 04/09/2024
 - 👍 [Nhiều cây cổ thụ bật gốc đổ xuống đường trong cơn mưa lớn ở TPHCM](https://dantri.com.vn/xa-hoi/nhieu-cay-co-thu-bat-goc-do-xuong-duong-trong-con-mua-lon-o-tphcm-20240904163141955.htm) - 09:36 04/09/2024
 - 🤖 [Hơn 120 người nỗ lực dập tắt đám cháy rừng cạnh đường điện 500kV Bắc - Nam](https://dantri.com.vn/xa-hoi/hon-120-nguoi-no-luc-dap-tat-dam-chay-rung-canh-duong-dien-500kv-bac-nam-20240904161700017.htm) - 09:30 04/09/2024
 - 🙉 [Thiếu tướng Lê Ngọc Châu làm Chủ tịch UBND tỉnh Hải Dương](https://dantri.com.vn/xa-hoi/thieu-tuong-le-ngoc-chau-lam-chu-tich-ubnd-tinh-hai-duong-20240904160518822.htm) - 09:22 04/09/2024
