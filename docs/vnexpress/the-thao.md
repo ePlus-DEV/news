@@ -9,7 +9,7 @@ sidebar_position: 5
 - 🧰 [Trọng tài bị chỉ trích trong hai bàn thua của Man Utd](https://vnexpress.net/trong-tai-bi-chi-trich-trong-hai-ban-thua-cua-man-utd-4788882.html) - 13:09 04/09/2024
 - 🤗 [Quế Ngọc Hải: &#39;Đối đầu tuyển Nga là trải nghiệm quý cho Việt Nam&#39;](https://vnexpress.net/que-ngoc-hai-doi-dau-tuyen-nga-la-trai-nghiem-quy-cho-viet-nam-4789076.html) - 12:10 04/09/2024
 - 🥳 [Đô cử Lê Văn Công đoạt HC đồng Paralympic 2024](https://vnexpress.net/do-cu-le-van-cong-doat-hc-dong-paralympic-2024-4789088.html) - 11:42 04/09/2024
-- 🦣 [U22 Việt Nam thua U22 Trung Quốc ở phút 90](https://vnexpress.net/u22-viet-nam-thua-u22-trung-quoc-o-phut-90-4789063.html) - 11:00 04/09/2024
+- 🦣 [U22 Việt Nam thua U22 Trung Quốc ở phút 90](https://vnexpress.net/u22-viet-nam-thua-u22-trung-quoc-o-phut-90-4789063-tong-thuat.html) - 11:00 04/09/2024
 - 🌜 [HLV Kim Sang-sik: &#39;Tuyển Việt Nam không sợ hãi khi đấu Nga&#39;](https://vnexpress.net/hlv-kim-sang-sik-tuyen-viet-nam-khong-so-hai-khi-dau-nga-4788963.html) - 09:00 04/09/2024
 - 🫶 [Derby chủ nhà ở bán kết Mỹ Mở rộng](https://vnexpress.net/derby-chu-nha-o-ban-ket-my-mo-rong-4788941.html) - 07:29 04/09/2024
 - 🌜 [PSG không muốn thủ môn Nga bắt trận đấu Việt Nam](https://vnexpress.net/psg-khong-muon-thu-mon-nga-bat-tran-dau-viet-nam-4788933.html) - 07:12 04/09/2024
