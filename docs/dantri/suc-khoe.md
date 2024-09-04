@@ -5,7 +5,7 @@ sidebar_position: 23
 
 <!-- dantri-suc-khoe:START -->
 - 🤔 [8 bí quyết sống thọ đơn giản của người phụ nữ trăm tuổi](https://dantri.com.vn/suc-khoe/8-bi-quyet-song-tho-don-gian-cua-nguoi-phu-nu-tram-tuoi-20240904172719251.htm) - 23:05 04/09/2024
-- 🚦 [Người phụ nữ tử vong sau khi bị nhánh cây gãy đè trong cơn mưa lớn ở TPHCM](https://dantri.com.vn/suc-khoe/nguoi-phu-nu-tu-vong-sau-khi-bi-nhanh-cay-gay-de-trong-con-mua-lon-o-tphcm-20240904223746067.htm) - 22:48 04/09/2024
+- 🚦 [TPHCM: Nhánh cây đè người phụ nữ tử vong trong cơn mưa lớn](https://dantri.com.vn/suc-khoe/tphcm-nhanh-cay-de-nguoi-phu-nu-tu-vong-trong-con-mua-lon-20240904223746067.htm) - 22:48 04/09/2024
 - 🤖 [Viết di chúc trước mổ vẫn quyết giải thoát ngực &quot;khủng&quot; sau hơn 20 năm](https://dantri.com.vn/suc-khoe/viet-di-chuc-truoc-mo-van-quyet-giai-thoat-nguc-khung-sau-hon-20-nam-20240904171142008.htm) - 10:11 04/09/2024
 - 🐻 [Phát hiện 2 ca bệnh nhiễm &quot;vi khuẩn ăn thịt&quot;](https://dantri.com.vn/suc-khoe/phat-hien-2-ca-benh-nhiem-vi-khuan-an-thit-20240904160420125.htm) - 09:27 04/09/2024
 - 🌏 [Cứu bàn tay bị lột toàn bộ da cho nam thanh niên](https://dantri.com.vn/suc-khoe/cuu-ban-tay-bi-lot-toan-bo-da-cho-nam-thanh-nien-20240904160030752.htm) - 09:08 04/09/2024
