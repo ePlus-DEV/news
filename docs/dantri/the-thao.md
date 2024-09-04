@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Lê Văn Công giành huy chương ở Paralympic 2024](https://dantri.com.vn/the-thao/le-van-cong-gianh-huy-chuong-o-paralympic-2024-20240904184820900.htm) - 11:28 04/09/2024
-- 💯 [U22 Việt Nam 1-1 U22 Trung Quốc &lpar;hiệp 2&rpar;: Quốc Việt ghi bàn quý giá](https://dantri.com.vn/the-thao/u22-viet-nam-1-1-u22-trung-quoc-hiep-2-quoc-viet-ghi-ban-quy-gia-20240904180346700.htm) - 11:03 04/09/2024
+- 💯 [U22 Việt Nam 1-1 U22 Trung Quốc &lpar;hiệp 2&rpar;: Suýt có bàn cho U22 Việt Nam](https://dantri.com.vn/the-thao/u22-viet-nam-1-1-u22-trung-quoc-hiep-2-suyt-co-ban-cho-u22-viet-nam-20240904180346700.htm) - 11:03 04/09/2024
 - ⛽️ [HLV Kim Sang Sik: &quot;Tuyển Việt Nam không sợ hãi trước tuyển Nga&quot;](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-tuyen-viet-nam-khong-so-hai-truoc-tuyen-nga-20240904162354924.htm) - 09:24 04/09/2024
 - 💃 [28 cầu thủ Nga có mặt tại Hà Nội, sẵn sàng đối đầu tuyển Việt Nam](https://dantri.com.vn/the-thao/28-cau-thu-nga-co-mat-tai-ha-noi-san-sang-doi-dau-tuyen-viet-nam-20240904155433495.htm) - 09:02 04/09/2024
 - 🌈 [Bóng đá Malaysia tiết lộ lý do muốn chiêu mộ HLV tầm cỡ như Park Hang Seo](https://dantri.com.vn/the-thao/bong-da-malaysia-tiet-lo-ly-do-muon-chieu-mo-hlv-tam-co-nhu-park-hang-seo-20240904104351974.htm) - 09:01 04/09/2024
