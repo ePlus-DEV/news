@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cổ thụ trước Dinh Thống Nhất đổ trong mưa lớn](https://vnexpress.net/co-thu-truoc-dinh-thong-nhat-do-trong-mua-lon-4789010.html) - 08:49 04/09/2024
+- 🦒 [Hàng loạt cây ở trung tâm TP HCM  đổ trong mưa giông](https://vnexpress.net/hang-loat-cay-o-trung-tam-tp-hcm-do-trong-mua-giong-4789010.html) - 08:49 04/09/2024
 - 🤓 [Chủ tịch TP HCM: Nhiều giám đốc Sở không biết nhiệm vụ của ngành](https://vnexpress.net/chu-tich-tp-hcm-nhieu-giam-doc-so-khong-biet-nhiem-vu-cua-nganh-4788918.html) - 08:27 04/09/2024
 - ⚗️ [Xuân Bắc được vinh danh cán bộ công đoàn giỏi](https://vnexpress.net/xuan-bac-duoc-vinh-danh-can-bo-cong-doan-gioi-4788929.html) - 08:09 04/09/2024
 - 🌊 [Ôtô container lật, đè nát xe máy ở TP HCM](https://vnexpress.net/oto-container-lat-de-nat-xe-may-o-tp-hcm-4788907.html) - 05:20 04/09/2024
