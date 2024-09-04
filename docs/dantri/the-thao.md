@@ -5,10 +5,10 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [HLV đội tuyển Nga: Chúng tôi rất nghiêm túc và muốn thắng tuyển Việt Nam](https://dantri.com.vn/the-thao/hlv-doi-tuyen-nga-chung-toi-rat-nghiem-tuc-va-muon-thang-tuyen-viet-nam-20240904211453783.htm) - 14:41 04/09/2024
-- 💯 [HLV Karpin: &quot;Đội hình Nga đối đầu tuyển Việt Nam và Thái Lan sẽ khác nhau&quot;](https://dantri.com.vn/the-thao/hlv-karpin-doi-hinh-nga-doi-dau-tuyen-viet-nam-va-thai-lan-se-khac-nhau-20240904203112392.htm) - 13:31 04/09/2024
-- ⛽️ [Đội tuyển Việt Nam tập phòng ngự, Đặng Văn Lâm háo hức gặp tuyển Nga](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-tap-phong-ngu-dang-van-lam-hao-huc-gap-tuyen-nga-20240904202125380.htm) - 13:22 04/09/2024
-- 💃 [Lê Văn Công giành huy chương ở Paralympic 2024](https://dantri.com.vn/the-thao/le-van-cong-gianh-huy-chuong-o-paralympic-2024-20240904184820900.htm) - 11:28 04/09/2024
-- 🌈 [Bỏ lỡ cơ hội ngàn vàng, U22 Việt Nam thua đau đớn Trung Quốc](https://dantri.com.vn/the-thao/bo-lo-co-hoi-ngan-vang-u22-viet-nam-thua-dau-don-trung-quoc-20240904180346700.htm) - 11:03 04/09/2024
+- 💯 [Đội tuyển Việt Nam tập phòng ngự, Đặng Văn Lâm háo hức gặp tuyển Nga](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-tap-phong-ngu-dang-van-lam-hao-huc-gap-tuyen-nga-20240904202125380.htm) - 13:22 04/09/2024
+- ⛽️ [Lê Văn Công giành huy chương ở Paralympic 2024](https://dantri.com.vn/the-thao/le-van-cong-gianh-huy-chuong-o-paralympic-2024-20240904184820900.htm) - 11:28 04/09/2024
+- 💃 [Bỏ lỡ cơ hội ngàn vàng, U22 Việt Nam thua đau đớn Trung Quốc](https://dantri.com.vn/the-thao/bo-lo-co-hoi-ngan-vang-u22-viet-nam-thua-dau-don-trung-quoc-20240904180346700.htm) - 11:03 04/09/2024
+- 🌈 [HLV Karpin: &quot;Đội hình Nga đối đầu tuyển Việt Nam và Thái Lan sẽ khác nhau&quot;](https://dantri.com.vn/the-thao/hlv-karpin-doi-hinh-nga-doi-dau-tuyen-viet-nam-va-thai-lan-se-khac-nhau-20240904203112392.htm) - 11:01 04/09/2024
 - 🦅 [HLV Kim Sang Sik: &quot;Tuyển Việt Nam không sợ hãi trước tuyển Nga&quot;](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-tuyen-viet-nam-khong-so-hai-truoc-tuyen-nga-20240904162354924.htm) - 09:24 04/09/2024
 - 🌝 [28 cầu thủ Nga có mặt tại Hà Nội, sẵn sàng đối đầu tuyển Việt Nam](https://dantri.com.vn/the-thao/28-cau-thu-nga-co-mat-tai-ha-noi-san-sang-doi-dau-tuyen-viet-nam-20240904155433495.htm) - 09:02 04/09/2024
 - 🚀 [Bóng đá Malaysia tiết lộ lý do muốn chiêu mộ HLV tầm cỡ như Park Hang Seo](https://dantri.com.vn/the-thao/bong-da-malaysia-tiet-lo-ly-do-muon-chieu-mo-hlv-tam-co-nhu-park-hang-seo-20240904104351974.htm) - 09:01 04/09/2024
