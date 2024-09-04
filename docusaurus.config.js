@@ -111,7 +111,7 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discord.gg/gwFtTJHM',
+                href: 'https://eplus.dev/discord',
               },
               {
                 label: 'Twitter',
