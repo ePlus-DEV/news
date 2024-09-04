@@ -52,5 +52,4 @@ sidebar_position: 9
 - 🎡 [Khách đi máy bay nội địa giảm mạnh dịp 2/9](https://vnexpress.net/khach-di-may-bay-noi-dia-giam-manh-dip-2-9-4788800.html) - 03:52 04/09/2024
 - 👍 [Khủng hoảng vì &#39;con thỏ 5 chân&#39;](https://vnexpress.net/khung-hoang-vi-con-tho-5-chan-4788850.html) - 03:51 04/09/2024
 - 🐎 [&#39;Bà chúa tái chế rác&#39; Thụy Điển hầu tòa vì chôn lấp 200.000 tấn rác](https://vnexpress.net/ba-chua-tai-che-rac-thuy-dien-hau-toa-vi-chon-lap-200-000-tan-rac-4788770.html) - 03:46 04/09/2024
-- 🏊 [Hình ảnh mới hé lộ xác tàu Titanic đang sụp đổ](https://vnexpress.net/hinh-anh-moi-he-lo-xac-tau-titanic-dang-sup-do-4788719.html) - 03:46 04/09/2024
-- 🦩 [Chứng khoán châu Á bị bán tháo theo Mỹ](https://vnexpress.net/chung-khoan-chau-a-bi-ban-thao-theo-my-4788789.html) - 03:37 04/09/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🏊 [Hình ảnh mới hé lộ xác tàu Titanic đang sụp đổ](https://vnexpress.net/hinh-anh-moi-he-lo-xac-tau-titanic-dang-sup-do-4788719.html) - 03:46 04/09/2024<!-- vnexpress-tin-moi-nhat:END -->
