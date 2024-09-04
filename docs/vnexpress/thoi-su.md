@@ -4,11 +4,11 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Lũ cát đỏ tràn xuống đường đi Mũi Né](https://vnexpress.net/lu-cat-do-tran-xuong-duong-di-mui-ne-4789066.html) - 12:09 04/09/2024
+- 🦒 [Lũ cát đỏ tràn xuống đường nối Phan Thiết - Mũi Né](https://vnexpress.net/lu-cat-do-tran-xuong-duong-noi-phan-thiet-mui-ne-4789066.html) - 12:09 04/09/2024
 - 🤓 [Đường TP HCM ngổn ngang cây xanh sau trận cuồng phong](https://vnexpress.net/duong-tp-hcm-ngon-ngang-cay-xanh-sau-tran-cuong-phong-4789060.html) - 11:00 04/09/2024
 - ⚗️ [Yagi có thể mạnh lên siêu bão](https://vnexpress.net/yagi-co-the-manh-len-sieu-bao-4788988.html) - 10:03 04/09/2024
 - 🌊 [Đóng một phần cầu Long Thành trên cao tốc nối TP HCM - Đồng Nai](https://vnexpress.net/dong-mot-phan-cau-long-thanh-tren-cao-toc-noi-tp-hcm-dong-nai-4789009.html) - 10:01 04/09/2024
-- 🎓 [85 trẻ ở Mái ấm Hoa Hồng đã được đưa về cơ sở bảo trợ công lập](https://vnexpress.net/85-tre-o-mai-am-hoa-hong-da-duoc-dua-ve-co-so-bao-tro-cong-lap-4788989.html) - 09:47 04/09/2024
+- 🎓 [&#39;Vụ trẻ bị bạo hành có sự buông lỏng quản lý từ địa phương&#39;](https://vnexpress.net/vu-tre-bi-bao-hanh-co-su-buong-long-quan-ly-tu-dia-phuong-4788989.html) - 09:47 04/09/2024
 - 🔥 [Hàng loạt cây ở trung tâm TP HCM đổ trong mưa giông](https://vnexpress.net/hang-loat-cay-o-trung-tam-tp-hcm-do-trong-mua-giong-4789010.html) - 08:49 04/09/2024
 - 🦏 [Chủ tịch TP HCM: Nhiều giám đốc Sở không biết nhiệm vụ của ngành](https://vnexpress.net/chu-tich-tp-hcm-nhieu-giam-doc-so-khong-biet-nhiem-vu-cua-nganh-4788918.html) - 08:27 04/09/2024
 - 👺 [Xuân Bắc được vinh danh cán bộ công đoàn giỏi](https://vnexpress.net/xuan-bac-duoc-vinh-danh-can-bo-cong-doan-gioi-4788929.html) - 08:09 04/09/2024
