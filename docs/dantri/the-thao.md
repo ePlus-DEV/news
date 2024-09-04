@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [HLV Kim Sang Sik nói gì về đội tuyển Nga?](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-noi-gi-ve-doi-tuyen-nga-20240904162354924.htm) - 09:24 04/09/2024
+- 🎡 [HLV Kim Sang Sik: &quot;Tuyển Việt Nam không sợ hãi trước tuyển Nga&quot;](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-tuyen-viet-nam-khong-so-hai-truoc-tuyen-nga-20240904162354924.htm) - 09:24 04/09/2024
 - 💯 [28 cầu thủ Nga có mặt tại Hà Nội, sẵn sàng đối đầu tuyển Việt Nam](https://dantri.com.vn/the-thao/28-cau-thu-nga-co-mat-tai-ha-noi-san-sang-doi-dau-tuyen-viet-nam-20240904155433495.htm) - 09:02 04/09/2024
 - ⛽️ [Bóng đá Malaysia tiết lộ lý do muốn chiêu mộ HLV tầm cỡ như Park Hang Seo](https://dantri.com.vn/the-thao/bong-da-malaysia-tiet-lo-ly-do-muon-chieu-mo-hlv-tam-co-nhu-park-hang-seo-20240904104351974.htm) - 09:01 04/09/2024
 - 💃 [Nữ VĐV bị bạn trai thiêu sống sau khi trở về từ Olympic 2024](https://dantri.com.vn/the-thao/nu-vdv-bi-ban-trai-thieu-song-sau-khi-tro-ve-tu-olympic-2024-20240904125029683.htm) - 05:50 04/09/2024
