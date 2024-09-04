@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- dantri-an-sinh:START -->
 - 👺 [Phó Giám đốc Sở LĐ-TB&amp;XH TPHCM: &quot;Rất tiếc khi để lọt vụ ở Mái ấm Hoa Hồng&quot;](https://dantri.com.vn/an-sinh/pho-giam-doc-so-ld-tbxh-tphcm-rat-tiec-khi-de-lot-vu-o-mai-am-hoa-hong-20240904173929996.htm) - 10:48 04/09/2024
-- 👀 [Đưa trẻ tại Mái ấm Hoa Hồng về các cơ sở bảo trợ xã hội công lập](https://dantri.com.vn/an-sinh/dua-tre-tai-mai-am-hoa-hong-ve-cac-co-so-bao-tro-xa-hoi-cong-lap-20240904172847112.htm) - 10:46 04/09/2024
+- 👀 [Đưa trẻ bị bạo hành ở Mái ấm Hoa Hồng về các cơ sở bảo trợ xã hội công lập](https://dantri.com.vn/an-sinh/dua-tre-bi-bao-hanh-o-mai-am-hoa-hong-ve-cac-co-so-bao-tro-xa-hoi-cong-lap-20240904172847112.htm) - 10:46 04/09/2024
 - 💡 [Vụ trẻ em bị bạo hành tại Mái ấm Hoa Hồng: Khẩn trương khởi tố vụ án](https://dantri.com.vn/an-sinh/vu-tre-em-bi-bao-hanh-tai-mai-am-hoa-hong-khan-truong-khoi-to-vu-an-20240904164816494.htm) - 09:56 04/09/2024
 - 💄 [Vụ bạo hành trẻ tại mái ấm tình thương: Bộ trưởng Bộ LĐ-TB&amp;XH chỉ đạo khẩn](https://dantri.com.vn/an-sinh/vu-bao-hanh-tre-tai-mai-am-tinh-thuong-bo-truong-bo-ld-tbxh-chi-dao-khan-20240904153623232.htm) - 09:11 04/09/2024
 - 🧠 [&quot;Chiến lợi phẩm&quot; con gái mang về thành phố sau kỳ nghỉ lễ 2/9 gây sửng sốt](https://dantri.com.vn/an-sinh/chien-loi-pham-con-gai-mang-ve-thanh-pho-sau-ky-nghi-le-29-gay-sung-sot-20240904151249713.htm) - 09:05 04/09/2024
