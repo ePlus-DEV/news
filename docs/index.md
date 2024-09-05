@@ -265,7 +265,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🔥 [Những hình ảnh ấn tượng trong ngày đầu tiên của năm học mới](https://nld.com.vn/nhung-hinh-anh-an-tuong-trong-ngay-dau-tien-cua-nam-hoc-moi-196240905184650953.htm) - 13:25 05/09/2024
 - 🧰 [Nguyên Trưởng phòng Ban Quản lý Khu kinh tế Dung Quất bị khởi tố](https://nld.com.vn/nguyen-truong-phong-ban-quan-ly-khu-kinh-te-dung-quat-bi-khoi-to-196240905200923923.htm) - 13:16 05/09/2024
 - 🤗 [Ukraine có bộ trưởng ngoại giao mới đáng chú ý](https://nld.com.vn/ukraine-co-bo-truong-ngoai-giao-moi-dang-chu-y-19624090520035673.htm) - 13:14 05/09/2024
-- 🦅 [Tuyển Việt Nam 0-2 Tuyển Nga: Quang Hải vào sân](https://nld.com.vn/tuyen-viet-nam-nga-quang-hai-tien-linh-du-bi-196240905194554339.htm) - 12:49 05/09/2024
+- 🦅 [Tuyển Việt Nam 0-3 Tuyển Nga: Nguyễn Tuấn Anh vào sân](https://nld.com.vn/tuyen-viet-nam-nga-quang-hai-tien-linh-du-bi-196240905194554339.htm) - 12:49 05/09/2024
 - 🤩 [Công ty INCOTECH muốn triển khai 2 dự án điện gió gần bờ hơn 9.300 tỉ đồng tại Bình Thuận](https://nld.com.vn/cong-ty-incotech-muon-trien-khai-2-du-an-dien-gio-gan-bo-hon-9300-ti-dong-tai-binh-thuan-196240905192529987.htm) - 12:41 05/09/2024
 - 🎭 [Nâng cao chất lượng đào tạo giáo dục nghề nghiệp trong năm học mới](https://nld.com.vn/nang-cao-chat-luong-dao-tao-giao-duc-nghe-nghiep-trong-nam-hoc-moi-19624090514560022.htm) - 12:31 05/09/2024
 - 💄 [MC số thông tin dự báo bão: Thời gian và vùng đổ bộ của bão số 3](https://nld.com.vn/mc-so-du-bao-bao-thoi-gian-va-vung-do-bo-cua-bao-so-3-196240905191328168.htm) - 12:15 05/09/2024
