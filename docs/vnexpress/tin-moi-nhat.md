@@ -57,5 +57,4 @@ sidebar_position: 9
 - 👍 [Hội cựu Công an nhân dân gia nhập Mặt trận Tổ quốc Việt Nam](https://vnexpress.net/hoi-cuu-cong-an-nhan-dan-gia-nhap-mat-tran-to-quoc-viet-nam-4789378.html) - 10:25 05/09/2024
 - 🔥 [Cá điêu hồng tăng giá kỷ lục](https://vnexpress.net/ca-dieu-hong-tang-gia-ky-luc-4789432.html) - 10:19 05/09/2024
 - 💄 [Bộ trưởng Italy xin từ chức vì ngoại tình làm &#39;xấu mặt chính phủ&#39;](https://vnexpress.net/bo-truong-italy-xin-tu-chuc-vi-ngoai-tinh-lam-xau-mat-chinh-phu-4789423.html) - 10:14 05/09/2024
-- 🤡 [VnExpress Marathon Hạ Long 2024 hoãn tổ chức](https://vnexpress.net/vnexpress-marathon-ha-long-2024-hoan-to-chuc-4789431.html) - 10:07 05/09/2024
-- ⛽️ [Trung Quốc muốn rót hơn 50 tỷ USD vào châu Phi](https://vnexpress.net/trung-quoc-muon-rot-hon-50-ty-usd-vao-chau-phi-4789422.html) - 10:04 05/09/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🤡 [VnExpress Marathon Hạ Long 2024 hoãn tổ chức](https://vnexpress.net/vnexpress-marathon-ha-long-2024-hoan-to-chuc-4789431.html) - 10:07 05/09/2024<!-- vnexpress-tin-moi-nhat:END -->
