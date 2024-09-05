@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [HLV Kim Sang Sik: &quot;Tôi xin lỗi người hâm mộ Việt Nam&quot;](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-toi-xin-loi-nguoi-ham-mo-viet-nam-20240905221157973.htm) - 15:12 05/09/2024
+- 🎡 [HLV Kim Sang Sik: &quot;Văn Lâm mắc sai lầm vì áp lực, cậu ấy vẫn chơi tốt&quot;](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-van-lam-mac-sai-lam-vi-ap-luc-cau-ay-van-choi-tot-20240905221157973.htm) - 15:12 05/09/2024
 - 💯 [HLV Karpin: &quot;Tuyển Việt Nam có nhiều cầu thủ chất lượng tốt&quot;](https://dantri.com.vn/the-thao/hlv-karpin-tuyen-viet-nam-co-nhieu-cau-thu-chat-luong-tot-20240905220808808.htm) - 15:08 05/09/2024
 - ⛽️ [Thành Chung hai lần cứu thua khó tin, thủ môn Văn Lâm mắc sai lầm sơ đẳng](https://dantri.com.vn/the-thao/thanh-chung-hai-lan-cuu-thua-kho-tin-thu-mon-van-lam-mac-sai-lam-so-dang-20240905220143777.htm) - 15:05 05/09/2024
 - 💃 [Tuyển Trung Quốc gây sốc khi thảm bại 0-7 trước Nhật Bản](https://dantri.com.vn/the-thao/tuyen-trung-quoc-gay-soc-khi-tham-bai-0-7-truoc-nhat-ban-20240905210947786.htm) - 14:10 05/09/2024
