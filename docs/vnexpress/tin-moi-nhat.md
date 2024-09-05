@@ -6,7 +6,7 @@ sidebar_position: 9
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Diễn viên Chi Bảo đưa vợ con dự sự kiện cùng dàn sao](https://vnexpress.net/dien-vien-chi-bao-dua-vo-con-du-su-kien-cung-dan-sao-4789522.html) - 15:19 05/09/2024
 - 🐎 [Tổng thống Macron bổ nhiệm thủ tướng lớn tuổi nhất lịch sử Pháp](https://vnexpress.net/tong-thong-macron-bo-nhiem-thu-tuong-lon-tuoi-nhat-lich-su-phap-4789515.html) - 15:15 05/09/2024
-- 🦍 [HLV tuyển Nga: &#39;Thắng Việt Nam nhờ khởi đầu thận trọng&#39;](https://vnexpress.net/hlv-tuyen-nga-thang-viet-nam-nho-khoi-dau-than-trong-4789539.html) - 15:10 05/09/2024
+- 🦍 [HLV tuyển Nga họp báo sau trận thắng Việt Nam 3-0](https://vnexpress.net/hlv-tuyen-nga-hop-bao-sau-tran-thang-viet-nam-3-0-4789539.html) - 15:10 05/09/2024
 - 🏊 [Wood Mackenzie: Nhu cầu khí của Việt Nam tăng gần 3 lần vào 2035](https://vnexpress.net/wood-mackenzie-nhu-cau-khi-cua-viet-nam-tang-gan-3-lan-vao-2035-4789489.html) - 14:56 05/09/2024
 - 🎊 [Di dời hơn 13.000 hộ dân trước bão](https://vnexpress.net/di-doi-hon-13-000-ho-dan-truoc-bao-4789503.html) - 14:19 05/09/2024
 - 🎃 [Trung Quốc thảm bại 0-7 trước Nhật Bản](https://vnexpress.net/trung-quoc-tham-bai-0-7-truoc-nhat-ban-4789513.html) - 14:08 05/09/2024
