@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Đóng cửa 4 sân bay để tránh siêu bão Yagi](https://dantri.com.vn/xa-hoi/dong-cua-4-san-bay-de-tranh-sieu-bao-yagi-20240905213907650.htm) - 14:43 05/09/2024
+- 🎭 [Nội Bài và 3 sân bay phía Bắc sẽ tạm đóng cửa để tránh siêu bão Yagi](https://dantri.com.vn/xa-hoi/noi-bai-va-3-san-bay-phia-bac-se-tam-dong-cua-de-tranh-sieu-bao-yagi-20240905213907650.htm) - 14:43 05/09/2024
 - 👨‍🏫 [Những tỉnh chịu ảnh hưởng của bão Yagi có thể cấm chợ, cấm giao thông](https://dantri.com.vn/xa-hoi/nhung-tinh-chiu-anh-huong-cua-bao-yagi-co-the-cam-cho-cam-giao-thong-20240905190846212.htm) - 12:51 05/09/2024
 - 🌮 [Ông Putin tiết lộ ứng viên tổng thống Mỹ mà Nga ủng hộ](https://dantri.com.vn/the-gioi/ong-putin-tiet-lo-ung-vien-tong-thong-my-ma-nga-ung-ho-20240905175957157.htm) - 11:10 05/09/2024
 - 🕯 [Chủ Mái ấm Hoa Hồng đã nghiên cứu cách đối phó với cơ quan quản lý](https://dantri.com.vn/xa-hoi/chu-mai-am-hoa-hong-da-nghien-cuu-cach-doi-pho-voi-co-quan-quan-ly-20240905165421641.htm) - 10:00 05/09/2024
