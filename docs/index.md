@@ -75,8 +75,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎓 [Vàng miếng SJC giảm nửa triệu đồng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-5-9-4789301.html) - 04:19 05/09/2024
 - 💫 [Hãng Trung Quốc ra mắt ôtô kèm trực thăng, giá 280.000 USD](https://vnexpress.net/hang-trung-quoc-ra-mat-oto-kem-truc-thang-gia-280-000-usd-4789175.html) - 04:15 05/09/2024
 - 🤩 [Chim quý về hồ sông Đầm sau bốn năm vắng bóng](https://vnexpress.net/chim-quy-ve-ho-song-dam-sau-bon-nam-vang-bong-4789190.html) - 04:12 05/09/2024
-- 🏊 [&#39;Bánh trung thu 70.000 đồng lời chẳng bao nhiêu&#39;](https://vnexpress.net/banh-trung-thu-70-000-dong-loi-chang-bao-nhieu-4789230.html) - 04:11 05/09/2024
-- 💂 [Có nên bán đất để mua nhà phố với giá tương đương?](https://vnexpress.net/co-nen-ban-dat-de-mua-nha-pho-voi-gia-tuong-duong-4788855.html) - 04:09 05/09/2024<!-- vnexpress:END -->
+- 🏊 [&#39;Bánh trung thu 70.000 đồng lời chẳng bao nhiêu&#39;](https://vnexpress.net/banh-trung-thu-70-000-dong-loi-chang-bao-nhieu-4789230.html) - 04:11 05/09/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
