@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Bão Yagi mạnh lên cấp 15](https://vnexpress.net/bao-yagi-manh-len-cap-15-4789136.html) - 23:32 04/09/2024
-- 🤓 [Loạt công trình 10.000 tỷ đồng chống ngập đô thị Cần Thơ](https://vnexpress.net/loat-cong-trinh-10-000-ty-dong-chong-ngap-do-thi-can-tho-4788173.html) - 23:00 04/09/2024
+- 🤓 [Âu thuyền, hồ điều hòa chống ngập cho trung tâm Cần Thơ](https://vnexpress.net/au-thuyen-ho-dieu-hoa-chong-ngap-cho-trung-tam-can-tho-4788173.html) - 23:00 04/09/2024
 - ⚗️ [Từ tay trắng đến &#39;vua chè&#39; đất Anh Sơn](https://vnexpress.net/tu-tay-trang-den-vua-che-dat-anh-son-4788644.html) - 19:00 04/09/2024
 - 🌊 [Quận Hà Đông dự kiến làm 4 quảng trường](https://vnexpress.net/quan-ha-dong-du-kien-lam-4-quang-truong-4789111.html) - 17:08 04/09/2024
 - 🎓 [Cựu giám đốc CDC Bình Dương được phục hồi Đảng](https://vnexpress.net/cuu-giam-doc-cdc-binh-duong-duoc-phuc-hoi-dang-4789123.html) - 17:00 04/09/2024
