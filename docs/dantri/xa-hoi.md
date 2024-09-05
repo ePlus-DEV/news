@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- dantri-xa-hoi:START -->
-- 🫣 [Ứng phó siêu bão Yagi, Thái Bình và Nam Định cấm biển từ sáng 6/9](https://dantri.com.vn/xa-hoi/ung-pho-sieu-bao-yagi-thai-binh-va-nam-dinh-cam-bien-tu-sang-69-20240905223729990.htm) - 16:07 05/09/2024
+- 🫣 [Đón siêu bão Yagi, Thái Bình và Nam Định cấm biển từ sáng 6/9](https://dantri.com.vn/xa-hoi/don-sieu-bao-yagi-thai-binh-va-nam-dinh-cam-bien-tu-sang-69-20240905223729990.htm) - 16:07 05/09/2024
 - 💼 [Đông Bắc Bộ và Thanh Hóa mưa to trước khi siêu bão Yagi đổ bộ](https://dantri.com.vn/xa-hoi/dong-bac-bo-va-thanh-hoa-mua-to-truoc-khi-sieu-bao-yagi-do-bo-20240905213414673.htm) - 15:16 05/09/2024
 - 🎊 [Nội Bài và 3 sân bay phía Bắc sẽ tạm đóng cửa để tránh siêu bão Yagi](https://dantri.com.vn/xa-hoi/noi-bai-va-3-san-bay-phia-bac-se-tam-dong-cua-de-tranh-sieu-bao-yagi-20240905213907650.htm) - 14:43 05/09/2024
 - 🙉 [2 trẻ nhỏ tử vong trong vụ va chạm với xe đầu kéo ở TPHCM](https://dantri.com.vn/xa-hoi/2-tre-nho-tu-vong-trong-vu-va-cham-voi-xe-dau-keo-o-tphcm-20240905203028971.htm) - 13:59 05/09/2024
