@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- dantri-an-sinh:START -->
 - 👺 [Vì sao có người nhận lương hưu thấp hơn lương cơ sở?](https://dantri.com.vn/an-sinh/vi-sao-co-nguoi-nhan-luong-huu-thap-hon-luong-co-so-20240904005251549.htm) - 02:00 05/09/2024
-- 👀 [Bạo hành tại Mái ấm Hoa Hồng: Nhiều lần kiểm tra nhưng không thấy sai phạm](https://dantri.com.vn/an-sinh/bao-hanh-tai-mai-am-hoa-hong-nhieu-lan-kiem-tra-nhung-khong-thay-sai-pham-20240905073753828.htm) - 00:53 05/09/2024
+- 👀 [Bạo hành trẻ tại Mái ấm Hoa Hồng: Nhiều lần kiểm tra, không thấy sai phạm](https://dantri.com.vn/an-sinh/bao-hanh-tre-tai-mai-am-hoa-hong-nhieu-lan-kiem-tra-khong-thay-sai-pham-20240905073753828.htm) - 00:53 05/09/2024
 - 💡 [Nguyên nhân chính hơn một nửa dân bỏ làng, để nhà hoang nơi &quot;miền đất hứa&quot;](https://dantri.com.vn/an-sinh/nguyen-nhan-chinh-hon-mot-nua-dan-bo-lang-de-nha-hoang-noi-mien-dat-hua-20240901074030693.htm) - 00:32 05/09/2024
 - 💄 [Cuộc sống mới của người dân ở &quot;làng châu Âu&quot; giữa núi rừng](https://dantri.com.vn/an-sinh/cuoc-song-moi-cua-nguoi-dan-o-lang-chau-au-giua-nui-rung-20240903191143834.htm) - 23:00 04/09/2024
 - 🧠 [Phó Giám đốc Sở LĐ-TB&amp;XH TPHCM: &quot;Rất tiếc khi để lọt vụ ở Mái ấm Hoa Hồng&quot;](https://dantri.com.vn/an-sinh/pho-giam-doc-so-ld-tbxh-tphcm-rat-tiec-khi-de-lot-vu-o-mai-am-hoa-hong-20240904173929996.htm) - 10:48 04/09/2024
