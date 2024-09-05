@@ -30,7 +30,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧰 [HLV Kim Sang-sik xin lỗi vì không thể thắng Nga](https://vnexpress.net/hlv-kim-sang-sik-xin-loi-vi-khong-the-thang-nga-4789528.html) - 15:25 05/09/2024
 - 🥰 [Diễn viên Chi Bảo đưa vợ con dự sự kiện cùng dàn sao](https://vnexpress.net/dien-vien-chi-bao-dua-vo-con-du-su-kien-cung-dan-sao-4789522.html) - 15:19 05/09/2024
 - 🌏 [Tổng thống Macron bổ nhiệm thủ tướng lớn tuổi nhất lịch sử Pháp](https://vnexpress.net/tong-thong-macron-bo-nhiem-thu-tuong-lon-tuoi-nhat-lich-su-phap-4789515.html) - 15:15 05/09/2024
-- 🧐 [HLV tuyển Nga: &#39;Thắng Việt Nam nhờ khởi đầu thận trọng&#39;](https://vnexpress.net/hlv-tuyen-nga-thang-viet-nam-nho-khoi-dau-than-trong-4789539.html) - 15:10 05/09/2024
+- 🧐 [HLV tuyển Nga: &#39;Chúng tôi đạt gần như mọi mục tiêu trước Việt Nam&#39;](https://vnexpress.net/hlv-tuyen-nga-chung-toi-dat-gan-nhu-moi-muc-tieu-truoc-viet-nam-4789539.html) - 15:10 05/09/2024
 - 💫 [Wood Mackenzie: Nhu cầu khí của Việt Nam tăng gần 3 lần vào 2035](https://vnexpress.net/wood-mackenzie-nhu-cau-khi-cua-viet-nam-tang-gan-3-lan-vao-2035-4789489.html) - 14:56 05/09/2024
 - 😺 [Di dời hơn 13.000 hộ dân trước bão](https://vnexpress.net/di-doi-hon-13-000-ho-dan-truoc-bao-4789503.html) - 14:19 05/09/2024
 - 🕯 [Trung Quốc thảm bại 0-7 trước Nhật Bản](https://vnexpress.net/trung-quoc-tham-bai-0-7-truoc-nhat-ban-4789513.html) - 14:08 05/09/2024
@@ -79,9 +79,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💂 [Hội cựu Công an nhân dân gia nhập Mặt trận Tổ quốc Việt Nam](https://vnexpress.net/hoi-cuu-cong-an-nhan-dan-gia-nhap-mat-tran-to-quoc-viet-nam-4789378.html) - 10:25 05/09/2024
 - 🚀 [Cá điêu hồng tăng giá kỷ lục](https://vnexpress.net/ca-dieu-hong-tang-gia-ky-luc-4789432.html) - 10:19 05/09/2024
 - 🕴 [Bộ trưởng Italy xin từ chức vì ngoại tình làm &#39;xấu mặt chính phủ&#39;](https://vnexpress.net/bo-truong-italy-xin-tu-chuc-vi-ngoai-tinh-lam-xau-mat-chinh-phu-4789423.html) - 10:14 05/09/2024
-- 🦆 [VnExpress Marathon Hạ Long 2024 hoãn tổ chức](https://vnexpress.net/vnexpress-marathon-ha-long-2024-hoan-to-chuc-4789431.html) - 10:07 05/09/2024
-- 💫 [Trung Quốc muốn rót hơn 50 tỷ USD vào châu Phi](https://vnexpress.net/trung-quoc-muon-rot-hon-50-ty-usd-vao-chau-phi-4789422.html) - 10:04 05/09/2024
-- 🤓 [Rapper B Ray bị &#39;tuýt còi&#39; vì phát ngôn sai lệch lịch sử](https://vnexpress.net/rapper-b-ray-bi-tuyt-coi-vi-phat-ngon-sai-lech-lich-su-4786888.html) - 10:01 05/09/2024<!-- vnexpress:END -->
+- 🦆 [VnExpress Marathon Hạ Long 2024 hoãn tổ chức](https://vnexpress.net/vnexpress-marathon-ha-long-2024-hoan-to-chuc-4789431.html) - 10:07 05/09/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
