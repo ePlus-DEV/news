@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [HLV Kim Sang-sik xin lỗi vì không thể thắng Nga](https://vnexpress.net/hlv-kim-sang-sik-xin-loi-vi-khong-the-thang-nga-4789528.html) - 15:25 05/09/2024
-- 🦩 [HLV tuyển Nga: &#39;Thắng Việt Nam nhờ khởi đầu thận trọng&#39;](https://vnexpress.net/hlv-tuyen-nga-thang-viet-nam-nho-khoi-dau-than-trong-4789539.html) - 15:10 05/09/2024
+- 🦩 [HLV tuyển Nga: &#39;Chúng tôi đạt gần như mọi mục tiêu trước Việt Nam&#39;](https://vnexpress.net/hlv-tuyen-nga-chung-toi-dat-gan-nhu-moi-muc-tieu-truoc-viet-nam-4789539.html) - 15:10 05/09/2024
 - 🧰 [Trung Quốc thảm bại 0-7 trước Nhật Bản](https://vnexpress.net/trung-quoc-tham-bai-0-7-truoc-nhat-ban-4789513.html) - 14:08 05/09/2024
 - 🤗 [Việt Nam thua đậm Nga trong trận giao hữu FIFA](https://vnexpress.net/truc-tiep-tran-viet-nam-vs-nga-giao-huu-quoc-te-4789488-tong-thuat.html) - 12:00 05/09/2024
 - 🥳 [VĐV marathon qua đời sau khi bị bạn trai thiêu sống](https://vnexpress.net/vdv-marathon-qua-doi-sau-khi-bi-ban-trai-thieu-song-4789477.html) - 11:59 05/09/2024
