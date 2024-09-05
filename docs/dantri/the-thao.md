@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Lamine Yamal xô đổ kỷ lục của Kylian Mbappe ở giải Quả bóng vàng](https://dantri.com.vn/the-thao/lamine-yamal-xo-do-ky-luc-cua-kylian-mbappe-o-giai-qua-bong-vang-20240905160727481.htm) - 12:28 05/09/2024
-- 💯 [Đội tuyển Việt Nam 0-0 Nga &lpar;hiệp 1&rpar;: Nhập cuộc tự tin](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-0-0-nga-hiep-1-nhap-cuoc-tu-tin-20240905184843365.htm) - 11:48 05/09/2024
+- 💯 [Đội tuyển Việt Nam 0-1 Nga &lpar;hết hiệp 1&rpar;: Kuziaev mở tỷ số](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-0-1-nga-het-hiep-1-kuziaev-mo-ty-so-20240905184843365.htm) - 11:48 05/09/2024
 - ⛽️ [Huyền thoại Alan Shearer chỉ rõ thời điểm HLV Ten Hag bị Man Utd sa thải](https://dantri.com.vn/the-thao/huyen-thoai-alan-shearer-chi-ro-thoi-diem-hlv-ten-hag-bi-man-utd-sa-thai-20240905114415527.htm) - 09:00 05/09/2024
 - 💃 [U22 Trung Quốc bị chê tơi tả dù thắng U22 Việt Nam](https://dantri.com.vn/the-thao/u22-trung-quoc-bi-che-toi-ta-du-thang-u22-viet-nam-20240905155400624.htm) - 08:54 05/09/2024
 - 🌈 [Đội hình giá trị khủng khiếp của Nga gặp tuyển Việt Nam](https://dantri.com.vn/the-thao/doi-hinh-gia-tri-khung-khiep-cua-nga-gap-tuyen-viet-nam-20240905142354915.htm) - 07:23 05/09/2024
