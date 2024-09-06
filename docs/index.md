@@ -147,66 +147,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Tỉ phú Elon Musk có tên trong tầm nhìn kinh tế của ông Trump](https://thanhnien.vn/ti-phu-elon-musk-co-ten-trong-tam-nhin-kinh-te-cua-ong-trump-185240906205941438.htm) - 22:53 06/09/2024
-- 🥸 [Cảnh giác với camera ngụy trang](https://thanhnien.vn/canh-giac-voi-camera-nguy-trang-185240906200433685.htm) - 22:50 06/09/2024
-- 🌁 [Thị trường bánh &#39;thua&#39; trước mùa Trung thu](https://thanhnien.vn/thi-truong-banh-thua-truoc-mua-trung-thu-185240906204835611.htm) - 22:49 06/09/2024
-- 🤡 [Danh sách tài khoản ngân hàng &#39;đen&#39; vào tầm ngắm](https://thanhnien.vn/danh-sach-tai-khoan-ngan-hang-den-vao-tam-ngam-185240906222152003.htm) - 22:48 06/09/2024
-- 🎉 [Chuyển đổi số đã len lỏi vào từng cá nhân, gia đình](https://thanhnien.vn/chuyen-doi-so-da-len-loi-vao-tung-ca-nhan-gia-dinh-185240906220450569.htm) - 22:47 06/09/2024
-- 🎊 [Người dân Nam bộ nên hạn chế ra đường](https://thanhnien.vn/nguoi-dan-nam-bo-nen-han-che-ra-duong-185240907000142965.htm) - 22:46 06/09/2024
-- 🤠 [Gian nan chuyển dịch sản xuất khỏi Trung Quốc](https://thanhnien.vn/gian-nan-chuyen-dich-san-xuat-khoi-trung-quoc-185240906210237424.htm) - 22:45 06/09/2024
-- 💼 [Ukraine đang mắc sai lầm chiến lược ?](https://thanhnien.vn/ukraine-dang-mac-sai-lam-chien-luoc-185240906211921334.htm) - 22:06 06/09/2024
+- 🤠 [Trình Hội nghị T.Ư 10 phương hướng phát triển KT-XH 2026 - 2030](https://thanhnien.vn/trinh-hoi-nghi-tu-10-phuong-huong-phat-trien-kt-xh-2026-2030-185240906231953786.htm) - 23:37 06/09/2024
+- 🥸 [Báo chí chung tay bảo vệ, chăm sóc trẻ em](https://thanhnien.vn/bao-chi-chung-tay-bao-ve-cham-soc-tre-em-18524090622391352.htm) - 23:28 06/09/2024
+- 🌁 [Lịch thi đấu &#39;Voi chiến&#39; Thái Lan và &#39;gấu&#39; Nga hôm nay: Liệu có phải dừng vì bão Yagi?](https://thanhnien.vn/lich-thi-dau-lpbank-cup-2024-moi-nhat-hom-nay-voi-chien-thai-lan-dau-gau-nga-185240907031402281.htm) - 23:21 06/09/2024
+- 🤡 [Siêu bão Yagi giảm cấp, sức tàn phá vẫn rất lớn](https://thanhnien.vn/sieu-bao-yagi-giam-cap-suc-tan-pha-van-rat-lon-185240907001721956.htm) - 23:19 06/09/2024
+- 🎉 [Để tình thương không bị lãng quên](https://thanhnien.vn/de-tinh-thuong-khong-bi-lang-quen-185240906235836962.htm) - 23:15 06/09/2024
+- 🎊 [Tin tức thời tiết hôm nay 7.9.2024: Bão Yagi đổ bộ Việt Nam khi nào?](https://thanhnien.vn/tin-tuc-thoi-tiet-hom-nay-792024-bao-yagi-do-bo-viet-nam-khi-nao-185240907041428808.htm) - 23:12 06/09/2024
+- 🤠 [Bão Yagi ổn định ở cấp 14, áp sát Quảng Ninh - Hải Phòng](https://thanhnien.vn/bao-yagi-on-dinh-o-cap-14-ap-sat-quang-ninh-hai-phong-185240907054040867.htm) - 23:09 06/09/2024
+- 💼 [Lối ra cho lý luận, phê bình văn học nghệ thuật TP.HCM?](https://thanhnien.vn/loi-ra-cho-ly-luan-phe-binh-van-hoc-nghe-thuat-tphcm-185240906232618544.htm) - 23:09 06/09/2024
+- 🐻 [Vua thánh triều Lê và thông điệp cho hôm nay](https://thanhnien.vn/vua-thanh-trieu-le-va-thong-diep-cho-hom-nay-18524090623393578.htm) - 23:06 06/09/2024
+- 🤔 [Chính sách hỗ trợ tài chính sinh viên ở các nước](https://thanhnien.vn/chinh-sach-ho-tro-tai-chinh-sinh-vien-o-cac-nuoc-185240906223702326.htm) - 23:05 06/09/2024
+- 📝 [Bão Yagi mạnh cấp 14 áp sát Quảng Ninh, hàng loạt địa phương có gió mạnh](https://thanhnien.vn/bao-yagi-manh-cap-14-ap-sat-quang-ninh-hang-loat-dia-phuong-co-gio-manh-185240907044130423.htm) - 23:00 06/09/2024
+- 🥰 [Chuyển đổi số đã trở thành sự vận động tự nhiên](https://thanhnien.vn/chuyen-doi-so-da-tro-thanh-su-van-dong-tu-nhien-18524090619231372.htm) - 23:00 06/09/2024
+- 🐲 [Tỉ phú Elon Musk có tên trong tầm nhìn kinh tế của ông Trump](https://thanhnien.vn/ti-phu-elon-musk-co-ten-trong-tam-nhin-kinh-te-cua-ong-trump-185240906205941438.htm) - 22:53 06/09/2024
+- 🎃 [Cảnh giác với camera ngụy trang](https://thanhnien.vn/canh-giac-voi-camera-nguy-trang-185240906200433685.htm) - 22:50 06/09/2024
+- 🎬 [Thị trường bánh &#39;thua&#39; trước mùa Trung thu](https://thanhnien.vn/thi-truong-banh-thua-truoc-mua-trung-thu-185240906204835611.htm) - 22:49 06/09/2024
+- 🌜 [Danh sách tài khoản ngân hàng &#39;đen&#39; vào tầm ngắm](https://thanhnien.vn/danh-sach-tai-khoan-ngan-hang-den-vao-tam-ngam-185240906222152003.htm) - 22:48 06/09/2024
+- 🦆 [Chuyển đổi số đã len lỏi vào từng cá nhân, gia đình](https://thanhnien.vn/chuyen-doi-so-da-len-loi-vao-tung-ca-nhan-gia-dinh-185240906220450569.htm) - 22:47 06/09/2024
+- 🐵 [Người dân Nam bộ nên hạn chế ra đường](https://thanhnien.vn/nguoi-dan-nam-bo-nen-han-che-ra-duong-185240907000142965.htm) - 22:46 06/09/2024
+- 🙉 [Gian nan chuyển dịch sản xuất khỏi Trung Quốc](https://thanhnien.vn/gian-nan-chuyen-dich-san-xuat-khoi-trung-quoc-185240906210237424.htm) - 22:45 06/09/2024
+- 🌋 [Ukraine đang mắc sai lầm chiến lược ?](https://thanhnien.vn/ukraine-dang-mac-sai-lam-chien-luoc-185240906211921334.htm) - 22:06 06/09/2024
 - 🐻 [Tăng huyết áp có thể gây ra những biến chứng nào?](https://thanhnien.vn/tang-huyet-ap-co-the-gay-ra-nhung-bien-chung-nao-185240905154743119.htm) - 21:03 06/09/2024
-- 🤔 [Chiến sự Ukraine ngày 926: Phương Tây nói không với yêu cầu chính của ông Zelensky](https://thanhnien.vn/chien-su-ukraine-ngay-926-phuong-tay-noi-khong-voi-yeu-cau-chinh-cua-ong-zelensky-185240906173210915.htm) - 21:00 06/09/2024
-- 📝 [Bão số 3 &lpar;YAGI&rpar; vào vịnh Bắc bộ, còn cách Quảng Ninh hơn 200 km](https://thanhnien.vn/bao-so-3-yagi-vao-vinh-bac-bo-con-cach-quang-ninh-hon-200-km-185240907032131115.htm) - 20:37 06/09/2024
-- 🥰 [Dự báo sức mạnh siêu bão số 3 &lpar;YAGI&rpar; khi đổ bộ đất liền Việt Nam](https://thanhnien.vn/chuyen-gia-du-bao-suc-manh-cua-sieu-bao-so-3-yagi-khi-do-bo-dat-lien-viet-nam-185240907002049212.htm) - 17:20 06/09/2024
-- 🐲 [Siêu bão Yagi đổ bộ lần 2 tại Trung Quốc, gần 1 triệu người đã sơ tán](https://thanhnien.vn/sieu-bao-yagi-do-bo-lan-2-tai-trung-quoc-gan-1-trieu-nguoi-da-so-tan-185240907001637246.htm) - 17:17 06/09/2024
-- 🎃 [Ngày mới với tin tức sức khỏe: Huyết áp cao nguy hiểm thế nào?](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-huyet-ap-cao-nguy-hiem-the-nao-185240906214428462.htm) - 17:10 06/09/2024
-- 🎬 [Phát hiện tác dụng quan trọng của trà xanh đối với người lớn tuổi](https://thanhnien.vn/phat-hien-tac-dung-quan-trong-cua-tra-xanh-doi-voi-nguoi-lon-tuoi-185240906211714445.htm) - 17:08 06/09/2024
-- 🌜 [Phát hiện thêm tin vui cho đàn ông có vợ](https://thanhnien.vn/phat-hien-them-tin-vui-cho-dan-ong-co-vo-18524090618135696.htm) - 17:07 06/09/2024
-- 🦆 [Tác dụng giảm cân ít người biết của trái bầu](https://thanhnien.vn/tac-dung-giam-can-it-nguoi-biet-cua-trai-bau-185240902130616787.htm) - 17:06 06/09/2024
-- 🐵 [Đội tuyển Việt Nam: Khôn ngoan kiên nhẫn đánh bại Thái Lan](https://thanhnien.vn/doi-tuyen-viet-nam-khon-ngoan-kien-nhan-danh-bai-thai-lan-185240903210400718.htm) - 17:04 06/09/2024
-- 🙉 [HLV Kim Sang-sik đương đầu nhiều thử thách](https://thanhnien.vn/hlv-kim-sang-sik-duong-dau-nhieu-thu-thach-185240906233159063.htm) - 17:03 06/09/2024
-- 🌋 [&#39;Ông chủ&#39; Xuân Trường với câu chuyện tình ngọt ngào](https://thanhnien.vn/ong-chu-xuan-truong-voi-cau-chuyen-tinh-ngot-ngao-185240906234043974.htm) - 17:00 06/09/2024
-- 🐻 [Lịch thi đấu U.22 Việt Nam - Uzbekistan mới nhất hôm nay: Phải chiến thắng chính mình](https://thanhnien.vn/lich-thi-dau-u22-viet-nam-uzbekistan-moi-nhat-hom-nay-phai-chien-thang-chinh-minh-185240906232344418.htm) - 17:00 06/09/2024
-- 🧠 [Chân sút lập hat-trick giải thưởng sinh viên tung hoành ở Siêu cúp U.23 miền Nam](https://thanhnien.vn/chan-sut-lap-hat-trick-giai-thuong-sinh-vien-tung-hoanh-o-sieu-cup-u23-mien-nam-185240906224557741.htm) - 16:36 06/09/2024
-- 🔥 [Củng cố các Đội Thanh niên tình nguyện kịp thời ứng phó khẩn cấp bão số 3](https://thanhnien.vn/cung-co-cac-doi-thanh-nien-tinh-nguyen-kip-thoi-ung-pho-khan-cap-bao-so-3-185240906233617508.htm) - 16:33 06/09/2024
-- 🌋 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 7.9.2024](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-792024-185240905223325466.htm) - 16:26 06/09/2024
-- 😎 [Người trẻ Hà Nội kể chuyện thót tim tránh bão Yagi](https://thanhnien.vn/nguoi-tre-ke-chuyen-thot-tim-tranh-bao-yagi-185240906194917385.htm) - 16:10 06/09/2024
-- 🥰 [Điểm xung đột: ‘Chim phun lửa’ xuất hiện; Ukraine giải mã chiến lược ở Kursk](https://thanhnien.vn/diem-xung-dot-chim-phun-lua-xuat-hien-ukraine-giai-ma-chien-luoc-o-kursk-185240906221832562.htm) - 16:00 06/09/2024
-- 🧑‍🏫 [Tàu chiến Đức muốn đảm bảo an toàn tuyến hàng hải Đông Nam Á](https://thanhnien.vn/tau-chien-duc-muon-dam-bao-an-toan-tuyen-hang-hai-dong-nam-a-185240906214256766.htm) - 15:51 06/09/2024
-- 💄 [Hủy, điều chỉnh giờ khai thác hơn 100 chuyến bay vì bão Yagi](https://thanhnien.vn/huy-dieu-chinh-gio-khai-thac-hon-100-chuyen-bay-vi-bao-yagi-185240906222326479.htm) - 15:43 06/09/2024
-- 💯 [Ông Vũ Thế Phiệt làm Chủ tịch ACV thay ông Lại Xuân Thanh](https://thanhnien.vn/ong-vu-the-phiet-lam-chu-tich-acv-thay-ong-lai-xuan-thanh-185240906222243856.htm) - 15:31 06/09/2024
-- 🚀 [160 người ở chung cư nguy hiểm di dời khẩn trong đêm để tránh bão](https://thanhnien.vn/160-nguoi-o-chung-cu-nguy-hiem-di-doi-khan-trong-dem-de-tranh-bao-185240906221314558.htm) - 15:20 06/09/2024
-- 🦣 [Theo dõi thông tin siêu bão Yagi trực tiếp trên điện thoại](https://thanhnien.vn/theo-doi-thong-tin-bao-yagi-truc-tiep-tren-dien-thoai-185240906211319445.htm) - 15:08 06/09/2024
-- 👹 [Bắt cựu Phó giám đốc Trung tâm pháp y Sơn La](https://thanhnien.vn/bat-cuu-pho-giam-doc-trung-tam-phap-y-son-la-185240906215819401.htm) - 15:03 06/09/2024
-- 🦄 [&#39;Siêu bão Yagi vào đất liền sẽ có sức tàn phá rất lớn&#39;](https://thanhnien.vn/sieu-bao-yagi-vao-dat-lien-se-co-suc-tan-pha-rat-lon-185240906220125624.htm) - 15:00 06/09/2024
-- 🤔 [Độc đáo lễ hội ném cà chua La Tomatina tại Tây Ban Nha](https://thanhnien.vn/thoi-trang-tre/doc-dao-le-hoi-nem-ca-chua-la-tomatina-tai-tay-ban-nha-185240905120023574.htm) - 15:00 06/09/2024
-- 🧰 [Nintendo Switch 2 bắt đầu sản xuất quy mô lớn](https://thanhnien.vn/nintendo-switch-2-bat-dau-san-xuat-quy-mo-lon-185240906094331098.htm) - 14:45 06/09/2024
-- 🌁 [Phó thủ tướng Trần Hồng Hà kiểm tra phòng chống siêu bão Yagi ở Hải Phòng, Quảng Ninh](https://thanhnien.vn/pho-thu-tuong-tran-hong-ha-kiem-tra-phong-chong-sieu-bao-yagi-o-hai-phong-quang-ninh-18524090620563277.htm) - 14:42 06/09/2024
-- 🧐 [5 trường học ở huyện Nhà Bè được tặng máy vi tính mới](https://thanhnien.vn/5-truong-hoc-o-huyen-nha-be-duoc-tang-may-vi-tinh-moi-185240906204714634.htm) - 14:34 06/09/2024
-- 🌏 [Siêu bão Yagi mạnh nhất 30 năm qua](https://thanhnien.vn/sieu-bao-yagi-manh-nhat-30-nam-qua-185240906211611016.htm) - 14:28 06/09/2024
-- 🎬 [Nana và Song Hye Kyo đụng độ áo cúp ngực với tông màu đối lập nhau](https://thanhnien.vn/thoi-trang-tre/nana-va-song-hye-kyo-dung-do-ao-cup-nguc-voi-tong-mau-doi-lap-nhau-185240906150912216.htm) - 14:00 06/09/2024
-- 🚀 [Người dân liên tục cập nhật tin tức siêu bão Yagi, dân mạng gửi lời chúc bình an](https://thanhnien.vn/nguoi-dan-lien-tuc-cap-nhat-tin-tuc-sieu-bao-yagi-dan-mang-gui-loi-chuc-binh-an-18524090620282146.htm) - 13:43 06/09/2024
-- 🙉 [Chằng néo máy bay tại Nội Bài](https://thanhnien.vn/chang-neo-may-bay-tai-noi-bai-185240906201443771.htm) - 13:40 06/09/2024
-- 🐵 [Người Hà Nội &#39;be bờ, đắp đập&#39; chờ siêu bão Yagi](https://thanhnien.vn/nguoi-ha-noi-be-bo-dap-dap-cho-sieu-bao-yagi-185240906201122938.htm) - 13:38 06/09/2024
-- 🐎 [Bình Dương: Một doanh nghiệp có vốn Nhà nước được vay tín dụng khoảng 10.000 tỉ đồng](https://thanhnien.vn/binh-duong-mot-doanh-nghiep-co-von-nha-nuoc-duoc-vay-tin-dung-khoang-10000-ti-dong-1852409062034345.htm) - 13:36 06/09/2024
-- 🕯 [Vùng đông bắc Mỹ khuyến cáo người dân tránh ra ngoài ban đêm vì virus nguy hiểm](https://thanhnien.vn/vung-dong-bac-my-khuyen-cao-nguoi-dan-tranh-ra-ngoai-ban-dem-vi-virus-nguy-hiem-185240906195059383.htm) - 13:31 06/09/2024
-- 👀 [Minh Beta &#39;vỡ mộng&#39; khi vào trường chuyên](https://thanhnien.vn/minh-beta-vo-mong-khi-vao-truong-chuyen-185240904152025065.htm) - 13:30 06/09/2024
-- 🦒 [Bảo mẫu Tuyền của Mái ấm Hoa Hồng thất thần ngày bị bắt](https://thanhnien.vn/bao-mau-tuyen-cua-mai-am-hoa-hong-that-than-ngay-bi-bat-185240906202401477.htm) - 13:27 06/09/2024
-- 🧐 [Tội ác ở Mái ấm Hoa Hồng: Công an nói về việc bắt 2 bảo mẫu Tuyền, Cẩm](https://thanhnien.vn/toi-ac-o-mai-am-hoa-hong-cong-an-noi-ve-viec-bat-2-bao-mau-tuyen-cam-185240906194638944.htm) - 13:23 06/09/2024
-- 🌊 [GapoWork tổ chức sự kiện chia sẻ bí quyết thành công của các doanh nghiệp](https://thanhnien.vn/gapowork-to-chuc-su-kien-chia-se-bi-quyet-thanh-cong-cua-cac-doanh-nghiep-185240906211100097.htm) - 13:21 06/09/2024
-- 🧑‍🏫 [Thả nhiều động vật hoang dã quý hiếm về Vườn quốc gia Cát Tiên](https://thanhnien.vn/tha-nhieu-dong-vat-hoang-da-quy-hiem-ve-vuon-quoc-gia-cat-tien-18524090619083769.htm) - 13:21 06/09/2024
-- 🫣 [Sở LĐ-TB-XH TP.HCM thông tin tình hình sức khỏe của trẻ ở Mái ấm Hoa Hồng](https://thanhnien.vn/so-ld-tb-xh-tphcm-thong-tin-tinh-hinh-suc-khoe-cua-tre-o-mai-am-hoa-hong-185240906195348991.htm) - 13:19 06/09/2024
-- 👺 [Danh sách 79 cơ sở bảo trợ xã hội ở TP.HCM sẽ được kiểm tra](https://thanhnien.vn/danh-sach-79-co-so-bao-tro-xa-hoi-o-tphcm-se-duoc-kiem-tra-185240906180859441.htm) - 13:12 06/09/2024
-- 🧑‍🏫 [Một đơn vị sự nghiệp công lập của Bộ GD-ĐT có tân nữ giám đốc](https://thanhnien.vn/mot-don-vi-su-nghiep-cong-lap-cua-bo-gd-dt-co-tan-nu-giam-doc-185240906192726269.htm) - 13:10 06/09/2024
-- 🌊 [Xem nhanh 20h ngày 6.9: Khởi tố, bắt hai bảo mẫu Mái ấm Hoa Hồng; Vẻ khác thường của bảo mẫu Tuyền](https://thanhnien.vn/xem-nhanh-20h-ngay-69-khoi-to-bat-hai-bao-mau-mai-am-hoa-hong-ve-khac-thuong-cua-bao-mau-tuyen-185240906190037798.htm) - 13:00 06/09/2024
-- 🕯 [Đến Hy Lạp khám phá ‘xứ sở các vị thần’](https://thanhnien.vn/thoi-trang-tre/den-hy-lap-kham-pha-xu-so-cac-vi-than-185240905145058075.htm) - 13:00 06/09/2024
-- 🐲 [Bệnh viện Bạch Mai dừng khám bệnh theo yêu cầu trong 2 ngày 7-8.9](https://thanhnien.vn/benh-vien-bach-mai-dung-kham-benh-theo-yeu-cau-trong-2-ngay-7-89-18524090618510015.htm) - 12:52 06/09/2024
-- ⛽️ [Công an chủ động ứng phó siêu bão Yagi](https://thanhnien.vn/cong-an-chu-dong-ung-pho-sieu-bao-yagi-185240906183959608.htm) - 12:50 06/09/2024
-- 🎉 [Lady Gaga hé lộ chuyện tình &#39;định mệnh&#39; với chồng sắp cưới](https://thanhnien.vn/lady-gaga-he-lo-chuyen-tinh-dinh-menh-voi-chong-sap-cuoi-185240906192411106.htm) - 12:41 06/09/2024
-- 🎊 [Tiểu Bảo Quốc: Nghệ sĩ thì nên nhớ khán giả là người nuôi mình](https://thanhnien.vn/tieu-bao-quoc-nghe-si-thi-nen-nho-khan-gia-la-nguoi-nuoi-minh-185240906181721313.htm) - 12:35 06/09/2024
-- 🥳 [Hoa hậu Bảo Ngọc, Quế Anh đọ sắc cùng dàn người đẹp quốc tế](https://thanhnien.vn/hoa-hau-bao-ngoc-que-anh-do-sac-cung-dan-nguoi-dep-quoc-te-185240906191415209.htm) - 12:32 06/09/2024
-- 🤡 [Siêu bão Yagi đạt cấp 17 khi vào Hải Nam, Trung Quốc cảnh báo đỏ](https://thanhnien.vn/sieu-bao-yagi-dat-cap-17-khi-vao-hai-nam-trung-quoc-canh-bao-do-185240906184622574.htm) - 12:30 06/09/2024<!-- thanhnien:END -->
+- 🧠 [Chiến sự Ukraine ngày 926: Phương Tây nói không với yêu cầu chính của ông Zelensky](https://thanhnien.vn/chien-su-ukraine-ngay-926-phuong-tay-noi-khong-voi-yeu-cau-chinh-cua-ong-zelensky-185240906173210915.htm) - 21:00 06/09/2024
+- 🔥 [Bão số 3 &lpar;YAGI&rpar; vào vịnh Bắc bộ, còn cách Quảng Ninh hơn 200 km](https://thanhnien.vn/bao-so-3-yagi-vao-vinh-bac-bo-con-cach-quang-ninh-hon-200-km-185240907032131115.htm) - 20:37 06/09/2024
+- 🌋 [Dự báo sức mạnh siêu bão số 3 &lpar;YAGI&rpar; khi đổ bộ đất liền Việt Nam](https://thanhnien.vn/chuyen-gia-du-bao-suc-manh-cua-sieu-bao-so-3-yagi-khi-do-bo-dat-lien-viet-nam-185240907002049212.htm) - 17:20 06/09/2024
+- 😎 [Siêu bão Yagi đổ bộ lần 2 tại Trung Quốc, gần 1 triệu người đã sơ tán](https://thanhnien.vn/sieu-bao-yagi-do-bo-lan-2-tai-trung-quoc-gan-1-trieu-nguoi-da-so-tan-185240907001637246.htm) - 17:17 06/09/2024
+- 🥰 [Ngày mới với tin tức sức khỏe: Huyết áp cao nguy hiểm thế nào?](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-huyet-ap-cao-nguy-hiem-the-nao-185240906214428462.htm) - 17:10 06/09/2024
+- 🧑‍🏫 [Phát hiện tác dụng quan trọng của trà xanh đối với người lớn tuổi](https://thanhnien.vn/phat-hien-tac-dung-quan-trong-cua-tra-xanh-doi-voi-nguoi-lon-tuoi-185240906211714445.htm) - 17:08 06/09/2024
+- 💄 [Phát hiện thêm tin vui cho đàn ông có vợ](https://thanhnien.vn/phat-hien-them-tin-vui-cho-dan-ong-co-vo-18524090618135696.htm) - 17:07 06/09/2024
+- 💯 [Tác dụng giảm cân ít người biết của trái bầu](https://thanhnien.vn/tac-dung-giam-can-it-nguoi-biet-cua-trai-bau-185240902130616787.htm) - 17:06 06/09/2024
+- 🚀 [Đội tuyển Việt Nam: Khôn ngoan kiên nhẫn đánh bại Thái Lan](https://thanhnien.vn/doi-tuyen-viet-nam-khon-ngoan-kien-nhan-danh-bai-thai-lan-185240903210400718.htm) - 17:04 06/09/2024
+- 🦣 [HLV Kim Sang-sik đương đầu nhiều thử thách](https://thanhnien.vn/hlv-kim-sang-sik-duong-dau-nhieu-thu-thach-185240906233159063.htm) - 17:03 06/09/2024
+- 👹 [&#39;Ông chủ&#39; Xuân Trường với câu chuyện tình ngọt ngào](https://thanhnien.vn/ong-chu-xuan-truong-voi-cau-chuyen-tinh-ngot-ngao-185240906234043974.htm) - 17:00 06/09/2024
+- 🦄 [Lịch thi đấu U.22 Việt Nam - Uzbekistan mới nhất hôm nay: Phải chiến thắng chính mình](https://thanhnien.vn/lich-thi-dau-u22-viet-nam-uzbekistan-moi-nhat-hom-nay-phai-chien-thang-chinh-minh-185240906232344418.htm) - 17:00 06/09/2024
+- 🤔 [Chân sút lập hat-trick giải thưởng sinh viên tung hoành ở Siêu cúp U.23 miền Nam](https://thanhnien.vn/chan-sut-lap-hat-trick-giai-thuong-sinh-vien-tung-hoanh-o-sieu-cup-u23-mien-nam-185240906224557741.htm) - 16:36 06/09/2024
+- 🧰 [Củng cố các Đội Thanh niên tình nguyện kịp thời ứng phó khẩn cấp bão số 3](https://thanhnien.vn/cung-co-cac-doi-thanh-nien-tinh-nguyen-kip-thoi-ung-pho-khan-cap-bao-so-3-185240906233617508.htm) - 16:33 06/09/2024
+- 🌁 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 7.9.2024](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-792024-185240905223325466.htm) - 16:26 06/09/2024
+- 🧐 [Người trẻ Hà Nội kể chuyện thót tim tránh bão Yagi](https://thanhnien.vn/nguoi-tre-ke-chuyen-thot-tim-tranh-bao-yagi-185240906194917385.htm) - 16:10 06/09/2024
+- 🌏 [Điểm xung đột: ‘Chim phun lửa’ xuất hiện; Ukraine giải mã chiến lược ở Kursk](https://thanhnien.vn/diem-xung-dot-chim-phun-lua-xuat-hien-ukraine-giai-ma-chien-luoc-o-kursk-185240906221832562.htm) - 16:00 06/09/2024
+- 🎬 [Tàu chiến Đức muốn đảm bảo an toàn tuyến hàng hải Đông Nam Á](https://thanhnien.vn/tau-chien-duc-muon-dam-bao-an-toan-tuyen-hang-hai-dong-nam-a-185240906214256766.htm) - 15:51 06/09/2024
+- 🚀 [Hủy, điều chỉnh giờ khai thác hơn 100 chuyến bay vì bão Yagi](https://thanhnien.vn/huy-dieu-chinh-gio-khai-thac-hon-100-chuyen-bay-vi-bao-yagi-185240906222326479.htm) - 15:43 06/09/2024
+- 🙉 [Ông Vũ Thế Phiệt làm Chủ tịch ACV thay ông Lại Xuân Thanh](https://thanhnien.vn/ong-vu-the-phiet-lam-chu-tich-acv-thay-ong-lai-xuan-thanh-185240906222243856.htm) - 15:31 06/09/2024
+- 🐵 [160 người ở chung cư nguy hiểm di dời khẩn trong đêm để tránh bão](https://thanhnien.vn/160-nguoi-o-chung-cu-nguy-hiem-di-doi-khan-trong-dem-de-tranh-bao-185240906221314558.htm) - 15:20 06/09/2024
+- 🐎 [Theo dõi thông tin siêu bão Yagi trực tiếp trên điện thoại](https://thanhnien.vn/theo-doi-thong-tin-bao-yagi-truc-tiep-tren-dien-thoai-185240906211319445.htm) - 15:08 06/09/2024
+- 🕯 [Bắt cựu Phó giám đốc Trung tâm pháp y Sơn La](https://thanhnien.vn/bat-cuu-pho-giam-doc-trung-tam-phap-y-son-la-185240906215819401.htm) - 15:03 06/09/2024
+- 👀 [&#39;Siêu bão Yagi vào đất liền sẽ có sức tàn phá rất lớn&#39;](https://thanhnien.vn/sieu-bao-yagi-vao-dat-lien-se-co-suc-tan-pha-rat-lon-185240906220125624.htm) - 15:00 06/09/2024
+- 🦒 [Độc đáo lễ hội ném cà chua La Tomatina tại Tây Ban Nha](https://thanhnien.vn/thoi-trang-tre/doc-dao-le-hoi-nem-ca-chua-la-tomatina-tai-tay-ban-nha-185240905120023574.htm) - 15:00 06/09/2024
+- 🧐 [Nintendo Switch 2 bắt đầu sản xuất quy mô lớn](https://thanhnien.vn/nintendo-switch-2-bat-dau-san-xuat-quy-mo-lon-185240906094331098.htm) - 14:45 06/09/2024
+- 🌊 [Phó thủ tướng Trần Hồng Hà kiểm tra phòng chống siêu bão Yagi ở Hải Phòng, Quảng Ninh](https://thanhnien.vn/pho-thu-tuong-tran-hong-ha-kiem-tra-phong-chong-sieu-bao-yagi-o-hai-phong-quang-ninh-18524090620563277.htm) - 14:42 06/09/2024
+- 🧑‍🏫 [5 trường học ở huyện Nhà Bè được tặng máy vi tính mới](https://thanhnien.vn/5-truong-hoc-o-huyen-nha-be-duoc-tang-may-vi-tinh-moi-185240906204714634.htm) - 14:34 06/09/2024
+- 🫣 [Siêu bão Yagi mạnh nhất 30 năm qua](https://thanhnien.vn/sieu-bao-yagi-manh-nhat-30-nam-qua-185240906211611016.htm) - 14:28 06/09/2024
+- 👺 [Nana và Song Hye Kyo đụng độ áo cúp ngực với tông màu đối lập nhau](https://thanhnien.vn/thoi-trang-tre/nana-va-song-hye-kyo-dung-do-ao-cup-nguc-voi-tong-mau-doi-lap-nhau-185240906150912216.htm) - 14:00 06/09/2024
+- 🧑‍🏫 [Người dân liên tục cập nhật tin tức siêu bão Yagi, dân mạng gửi lời chúc bình an](https://thanhnien.vn/nguoi-dan-lien-tuc-cap-nhat-tin-tuc-sieu-bao-yagi-dan-mang-gui-loi-chuc-binh-an-18524090620282146.htm) - 13:43 06/09/2024
+- 🌊 [Chằng néo máy bay tại Nội Bài](https://thanhnien.vn/chang-neo-may-bay-tai-noi-bai-185240906201443771.htm) - 13:40 06/09/2024
+- 🕯 [Người Hà Nội &#39;be bờ, đắp đập&#39; chờ siêu bão Yagi](https://thanhnien.vn/nguoi-ha-noi-be-bo-dap-dap-cho-sieu-bao-yagi-185240906201122938.htm) - 13:38 06/09/2024
+- 🐲 [Bình Dương: Một doanh nghiệp có vốn Nhà nước được vay tín dụng khoảng 10.000 tỉ đồng](https://thanhnien.vn/binh-duong-mot-doanh-nghiep-co-von-nha-nuoc-duoc-vay-tin-dung-khoang-10000-ti-dong-1852409062034345.htm) - 13:36 06/09/2024
+- ⛽️ [Vùng đông bắc Mỹ khuyến cáo người dân tránh ra ngoài ban đêm vì virus nguy hiểm](https://thanhnien.vn/vung-dong-bac-my-khuyen-cao-nguoi-dan-tranh-ra-ngoai-ban-dem-vi-virus-nguy-hiem-185240906195059383.htm) - 13:31 06/09/2024
+- 🎉 [Minh Beta &#39;vỡ mộng&#39; khi vào trường chuyên](https://thanhnien.vn/minh-beta-vo-mong-khi-vao-truong-chuyen-185240904152025065.htm) - 13:30 06/09/2024
+- 🎊 [Bảo mẫu Tuyền của Mái ấm Hoa Hồng thất thần ngày bị bắt](https://thanhnien.vn/bao-mau-tuyen-cua-mai-am-hoa-hong-that-than-ngay-bi-bat-185240906202401477.htm) - 13:27 06/09/2024
+- 🥳 [Tội ác ở Mái ấm Hoa Hồng: Công an nói về việc bắt 2 bảo mẫu Tuyền, Cẩm](https://thanhnien.vn/toi-ac-o-mai-am-hoa-hong-cong-an-noi-ve-viec-bat-2-bao-mau-tuyen-cam-185240906194638944.htm) - 13:23 06/09/2024
+- 🤡 [GapoWork tổ chức sự kiện chia sẻ bí quyết thành công của các doanh nghiệp](https://thanhnien.vn/gapowork-to-chuc-su-kien-chia-se-bi-quyet-thanh-cong-cua-cac-doanh-nghiep-185240906211100097.htm) - 13:21 06/09/2024<!-- thanhnien:END -->
 
 ## Báo Lao Động
 <!-- laodong:START -->
