@@ -8,7 +8,7 @@ sidebar_position: 12
 - 🥰 [Con gái ông Trần Quí Thanh được đề nghị giảm án](https://vnexpress.net/con-gai-ong-tran-qui-thanh-duoc-de-nghi-giam-an-4789741.html) - 04:39 06/09/2024
 - 🎓 [Làm việc tại thành phố, thu nhập bao nhiêu sẽ được mua nhà ở xã hội?](https://vnexpress.net/lam-viec-tai-thanh-pho-thi-thu-nhap-bao-nhieu-se-duoc-mua-nha-o-xa-hoi-4789638.html) - 03:06 06/09/2024
 - 🤓 [Ông Trần Quí Thanh: &#39;Bị cáo không chiếm đoạt, chỉ chiếm giữ tài sản&#39;](https://vnexpress.net/ong-tran-qui-thanh-bi-cao-khong-chiem-doat-chi-chiem-giu-tai-san-4789611.html) - 03:05 06/09/2024
-- 🎊 [Cuộc điều tra &#39;ác quỷ&#39; ấu dâm với chi phí khổng lồ](https://vnexpress.net/cuoc-dieu-tra-ac-quy-au-dam-voi-chi-phi-lon-nhat-4789497.html) - 00:47 06/09/2024
+- 🎊 [Cuộc điều tra &#39;ác quỷ&#39; ấu dâm với chi phí 12 triệu bảng](https://vnexpress.net/cuoc-dieu-tra-ac-quy-au-dam-voi-chi-phi-lon-nhat-4789497.html) - 00:47 06/09/2024
 - 🙉 [Thêm một cán bộ Ban quản lý khu kinh tế Dung Quất bị khởi tố](https://vnexpress.net/them-mot-can-bo-ban-quan-ly-khu-kinh-te-dung-quat-bi-khoi-to-4789508.html) - 12:50 05/09/2024
 - 🤡 [Đường dây đánh bạc bằng tiền ảo quy mô lớn bị phát hiện](https://vnexpress.net/duong-day-danh-bac-bang-tien-ao-quy-mo-lon-bi-phat-hien-4789440.html) - 09:59 05/09/2024
 - 🗽 [Ông Diệp Dũng được giảm 2 năm tù](https://vnexpress.net/ong-diep-dung-duoc-giam-2-nam-tu-4789441.html) - 09:41 05/09/2024
