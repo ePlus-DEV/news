@@ -4,7 +4,7 @@ sidebar_position: 28
 ---
 
 <!-- dantri-photo-story:START -->
-- 💪 [Cây xanh đè sập tường nhà phố cổ, người dân bò ra ngoài thoát chết gang tấc](https://dantri.com.vn/doi-song/cay-xanh-de-sap-tuong-nha-pho-co-nguoi-dan-bo-ra-ngoai-thoat-chet-gang-tac-20240906180646482.htm) - 11:14 06/09/2024
+- 💪 [Cây xanh đè sập tường nhà phố cổ, người dân kể phút bò ra ngoài thoát chết](https://dantri.com.vn/doi-song/cay-xanh-de-sap-tuong-nha-pho-co-nguoi-dan-ke-phut-bo-ra-ngoai-thoat-chet-20240906180646482.htm) - 11:14 06/09/2024
 - 🧰 [Hàng loạt cây xanh bật gốc, gãy đổ trong cơn mưa dông lớn ở Hà Nội](https://dantri.com.vn/xa-hoi/hang-loat-cay-xanh-bat-goc-gay-do-trong-con-mua-dong-lon-o-ha-noi-20240906173203298.htm) - 10:48 06/09/2024
 - 🧰 [Biển người đổ xô tích trữ trước bão Yagi, xếp hàng hơn 1 tiếng chờ đến lượt](https://dantri.com.vn/doi-song/bien-nguoi-do-xo-tich-tru-truoc-bao-yagi-xep-hang-hon-1-tieng-cho-den-luot-20240906153024990.htm) - 08:50 06/09/2024
 - 😎 [Người dân ven biển kéo tàu thuyền lên bờ, gia cố nhà cửa trước bão Yagi](https://dantri.com.vn/xa-hoi/nguoi-dan-ven-bien-keo-tau-thuyen-len-bo-gia-co-nha-cua-truoc-bao-yagi-20240906143636015.htm) - 08:45 06/09/2024
