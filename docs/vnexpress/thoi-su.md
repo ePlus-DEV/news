@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Xe khách tông container trên cao tốc, 7 người bị thương](https://vnexpress.net/xe-khach-tong-container-tren-cao-toc-7-nguoi-bi-thuong-4789730.html) - 04:41 06/09/2024
 - ⚗️ [Hàng trăm cây xanh ở Thanh Hóa, Nghệ An bật gốc](https://vnexpress.net/hang-tram-cay-xanh-o-thanh-hoa-nghe-an-bat-goc-4789705.html) - 04:20 06/09/2024
 - 🌊 [CSGT đỡ đẻ sản phụ sinh đôi trên cao tốc Trung Lương](https://vnexpress.net/csgt-do-de-san-phu-sinh-doi-tren-cao-toc-trung-luong-4789538.html) - 03:40 06/09/2024
-- 🎓 [Người dân tích trữ thực phẩm đề phòng mưa bão kéo dài](https://vnexpress.net/truc-tiep-dien-bien-sieu-bao-yagi-4789657.html) - 02:27 06/09/2024
+- 🎓 [Quân đội huy động hơn 450.000 người chống bão Yagi](https://vnexpress.net/truc-tiep-dien-bien-sieu-bao-yagi-4789657.html) - 02:27 06/09/2024
 - 🔥 [Tàu cao tốc đi Phú Quốc, Côn Đảo, Lý Sơn dừng chạy](https://vnexpress.net/tau-cao-toc-di-phu-quoc-con-dao-ly-son-dung-chay-4789600.html) - 02:18 06/09/2024
 - 🦏 [Đêm nay siêu bão Yagi vào vịnh Bắc Bộ, gây mưa lớn và giông lốc](https://vnexpress.net/dem-nay-sieu-bao-yagi-vao-vinh-bac-bo-gay-mua-lon-va-giong-loc-4789564.html) - 23:09 05/09/2024
 - 👺 [Đề xuất người nổi tiếng chỉ được quảng cáo sản phẩm đã trực tiếp sử dụng](https://vnexpress.net/de-xuat-nguoi-noi-tieng-chi-duoc-quang-cao-san-pham-da-truc-tiep-su-dung-4789530.html) - 17:07 05/09/2024
