@@ -4,7 +4,7 @@ sidebar_position: 27
 ---
 
 <!-- dantri-dmagazine:START -->
-- 👨‍🏫 [Nỗ lực &quot;Liverpool hóa Man Utd&quot; và thất bại của Erik Ten Hag](https://dantri.com.vn/the-thao/no-luc-liverpool-hoa-man-utd-va-that-bai-cua-erik-ten-hag-20240905170838086.htm) - 00:33 06/09/2024
+- 👨‍🏫 [Nỗ lực &quot;Liverpool hóa Man Utd&quot; và thất bại của Erik Ten Hag](https://dantri.com.vn/the-thao/no-luc-liverpool-hoa-man-utd-va-that-bai-cua-erik-ten-hag-20240905170838086.htm) - 08:51 06/09/2024
 - 🎡 [Hơn nửa thế kỷ vẹn lời thề: &quot;Anh vẫn ở đó, mãi mãi tuổi 30&quot;](https://dantri.com.vn/an-sinh/hon-nua-the-ky-ven-loi-the-anh-van-o-do-mai-mai-tuoi-30-20240830221429646.htm) - 23:00 03/09/2024
 - 😎 [Từ đỉnh cao năm 2008, vì sao bóng đá Nga sa sút?](https://dantri.com.vn/the-thao/tu-dinh-cao-nam-2008-vi-sao-bong-da-nga-sa-sut-20240831174707842.htm) - 23:48 31/08/2024
 - 🦍 [Bác sĩ giật mình vì người Việt cho ong đốt chân, đắp tỏi lên mặt chữa bệnh](https://dantri.com.vn/suc-khoe/bac-si-giat-minh-vi-nguoi-viet-cho-ong-dot-chan-dap-toi-len-mat-chua-benh-20240830100847779.htm) - 23:22 30/08/2024
