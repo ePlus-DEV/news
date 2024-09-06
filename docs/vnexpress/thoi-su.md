@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hà Nội di dân tập thể cũ trong đêm tránh bão](https://vnexpress.net/ha-noi-di-dan-tap-the-cu-trong-dem-tranh-bao-4790008.html) - 17:19 06/09/2024
+- 🦒 [Hà Nội sơ tán dân tập thể cũ trong đêm tránh bão](https://vnexpress.net/ha-noi-so-tan-dan-tap-the-cu-trong-dem-tranh-bao-4790008.html) - 17:19 06/09/2024
 - 🤓 [Bão Yagi vào vịnh Bắc Bộ, sức phá hoại vẫn cực kỳ lớn](https://vnexpress.net/bao-yagi-vao-vinh-bac-bo-suc-pha-hoai-van-cuc-ky-lon-4789993.html) - 15:35 06/09/2024
 - ⚗️ [Lửa thiêu rụi 500 xe máy của công nhân](https://vnexpress.net/lua-thieu-rui-500-xe-may-cua-cong-nhan-4789969.html) - 14:35 06/09/2024
 - 🌊 [Giao thông Hà Nội tê liệt nhiều giờ sau cơn giông](https://vnexpress.net/giao-thong-ha-noi-te-liet-nhieu-gio-sau-con-giong-4789954.html) - 13:08 06/09/2024
