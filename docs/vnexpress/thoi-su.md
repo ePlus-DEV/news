@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Đêm nay bão Yagi vào vịnh Bắc Bộ, gây mưa to](https://vnexpress.net/dem-nay-bao-yagi-vao-vinh-bac-bo-gay-mua-to-4789564.html) - 23:09 05/09/2024
+- 🦒 [Đêm nay siêu bão Yagi vào vịnh Bắc Bộ, gây mưa lớn và giông lốc](https://vnexpress.net/dem-nay-sieu-bao-yagi-vao-vinh-bac-bo-gay-mua-lon-va-giong-loc-4789564.html) - 23:09 05/09/2024
 - 🤓 [Đề xuất người nổi tiếng chỉ được quảng cáo sản phẩm đã trực tiếp sử dụng](https://vnexpress.net/de-xuat-nguoi-noi-tieng-chi-duoc-quang-cao-san-pham-da-truc-tiep-su-dung-4789530.html) - 17:07 05/09/2024
 - ⚗️ [Di dời hơn 13.000 hộ dân trước bão](https://vnexpress.net/di-doi-hon-13-000-ho-dan-truoc-bao-4789503.html) - 14:19 05/09/2024
 - 🌊 [Đóng cửa 4 sân bay để tránh bão Yagi](https://vnexpress.net/dong-cua-4-san-bay-de-tranh-bao-yagi-4789521.html) - 13:54 05/09/2024
