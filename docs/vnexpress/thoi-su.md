@@ -5,8 +5,8 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Cựu Phó chủ tịch TP HCM Nguyễn Thị Hồng bị khai trừ Đảng](https://vnexpress.net/cuu-pho-chu-tich-tp-hcm-nguyen-thi-hong-bi-khai-tru-dang-4789883.html) - 09:04 06/09/2024
-- 🤓 [Hối hả đưa thuyền bè lên đường tránh bão Yagi](https://vnexpress.net/hoi-ha-dua-thuyen-be-len-duong-tranh-bao-yagi-4789852.html) - 09:00 06/09/2024
-- ⚗️ [Hà Nội mưa lớn](https://vnexpress.net/ha-noi-mua-lon-4789880.html) - 08:33 06/09/2024
+- 🤓 [Hối hả kéo thuyền bè lên đường tránh bão Yagi](https://vnexpress.net/hoi-ha-keo-thuyen-be-len-duong-tranh-bao-yagi-4789852.html) - 09:00 06/09/2024
+- ⚗️ [Hà Nội mưa lớn, nhiều cây gãy đổ](https://vnexpress.net/ha-noi-mua-lon-nhieu-cay-gay-do-4789880.html) - 08:33 06/09/2024
 - 🌊 [Siêu bão Yagi cách Quảng Ninh khoảng 430 km](https://vnexpress.net/sieu-bao-yagi-cach-quang-ninh-khoang-430-km-4789854.html) - 08:32 06/09/2024
 - 🎓 [Đóng một phần cầu Rạch Miễu trong 19 đêm để sửa chữa](https://vnexpress.net/dong-mot-phan-cau-rach-mieu-trong-19-dem-de-sua-chua-4789562.html) - 07:53 06/09/2024
 - 🔥 [&#39;Bão Yagi mạnh nhất 30 năm, người dân tránh ra đường&#39;](https://vnexpress.net/bao-yagi-manh-nhat-30-nam-nguoi-dan-tranh-ra-duong-4789810.html) - 07:12 06/09/2024
