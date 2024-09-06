@@ -5,8 +5,8 @@ sidebar_position: 2
 
 <!-- dantri-giao-duc:START -->
 - 🤡 [673 ứng viên được đề nghị xét giáo sư, phó giáo sư năm 2024](https://dantri.com.vn/giao-duc/673-ung-vien-duoc-de-nghi-xet-giao-su-pho-giao-su-nam-2024-20240906132613662.htm) - 06:41 06/09/2024
-- 🗽 [Nhiều tỉnh cho học sinh nghỉ học tránh bão số 3](https://dantri.com.vn/giao-duc/nhieu-tinh-cho-hoc-sinh-nghi-hoc-tranh-bao-so-3-20240906122603343.htm) - 06:14 06/09/2024
-- 🚦 [Học sinh Hà Nội nghỉ học vì siêu bão Yagi](https://dantri.com.vn/giao-duc/hoc-sinh-ha-noi-nghi-hoc-vi-sieu-bao-yagi-20240906102912685.htm) - 06:12 06/09/2024
+- 🗽 [Các tỉnh ven biển ra thông báo khẩn cho học sinh nghỉ học tránh bão số 3](https://dantri.com.vn/giao-duc/cac-tinh-ven-bien-ra-thong-bao-khan-cho-hoc-sinh-nghi-hoc-tranh-bao-so-3-20240906122603343.htm) - 06:14 06/09/2024
+- 🚦 [Học sinh ở Hà Nội và hơn 10 tỉnh thành nghỉ học vì siêu bão Yagi](https://dantri.com.vn/giao-duc/hoc-sinh-o-ha-noi-va-hon-10-tinh-thanh-nghi-hoc-vi-sieu-bao-yagi-20240906102912685.htm) - 06:12 06/09/2024
 - 🌋 [Cha mẹ thấy con thích lý sự đừng vội mắng &quot;át đi&quot;, đấy có thể là điềm mừng](https://dantri.com.vn/giao-duc/cha-me-thay-con-thich-ly-su-dung-voi-mang-at-di-day-co-the-la-diem-mung-20240902224007715.htm) - 06:00 06/09/2024
 - 🏊 [Phụ huynh ở nhà trông con vì trường học đóng cửa tránh bão Yagi](https://dantri.com.vn/giao-duc/phu-huynh-o-nha-trong-con-vi-truong-hoc-dong-cua-tranh-bao-yagi-20240906112346791.htm) - 04:30 06/09/2024
 - 🎃 [Hai cô gái lập kỳ tích &quot;hơn 40 năm mới có một&quot; tại trường đại học](https://dantri.com.vn/giao-duc/hai-co-gai-lap-ky-tich-hon-40-nam-moi-co-mot-tai-truong-dai-hoc-20240906103922662.htm) - 04:05 06/09/2024
