@@ -5,7 +5,7 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [Người dân vét sạch rau, thịt, siêu thị cháy hàng trước siêu bão Yagi](https://dantri.com.vn/kinh-doanh/nguoi-dan-vet-sach-rau-thit-sieu-thi-chay-hang-truoc-sieu-bao-yagi-20240906134957863.htm) - 07:09 06/09/2024
-- 👨‍🏫 [Báo Đông Nam Á nói thẳng về tuyển Việt Nam sau trận thua Nga](https://dantri.com.vn/the-thao/bao-dong-nam-a-noi-thang-ve-tuyen-viet-nam-sau-tran-thua-nga-20240906135132936.htm) - 06:53 06/09/2024
+- 👨‍🏫 [Báo Đông Nam Á nói thẳng về tuyển Việt Nam sau trận thua Nga](https://dantri.com.vn/the-thao/bao-dong-nam-a-noi-thang-ve-tuyen-viet-nam-sau-tran-thua-nga-20240906135132936.htm) - 06:21 06/09/2024
 - 🌮 [Ngày mai, học sinh Hà Nội nghỉ học để tránh siêu bão Yagi](https://dantri.com.vn/xa-hoi/ngay-mai-hoc-sinh-ha-noi-nghi-hoc-de-tranh-sieu-bao-yagi-20240906120742955.htm) - 05:33 06/09/2024
 - 🕯 [Chiến sự Ukraine 6/9: Nga đánh sập 2 &quot;cánh cửa thép&quot;, mở đường vào Toretsk](https://dantri.com.vn/the-gioi/chien-su-ukraine-69-nga-danh-sap-2-canh-cua-thep-mo-duong-vao-toretsk-20240906085750981.htm) - 04:07 06/09/2024
 - 🪜 [Ngư dân Hải Phòng lo lắng trước khi bão Yagi đổ bộ vào đất liền](https://dantri.com.vn/xa-hoi/ngu-dan-hai-phong-lo-lang-truoc-khi-bao-yagi-do-bo-vao-dat-lien-20240906090836299.htm) - 04:02 06/09/2024
