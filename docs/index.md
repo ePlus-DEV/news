@@ -147,7 +147,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Chuyên gia dự báo sức mạnh của siêu bão số 3 &lpar;YAGI&rpar; khi đổ bộ đất liền Việt Nam](https://thanhnien.vn/chuyen-gia-du-bao-suc-manh-cua-sieu-bao-so-3-yagi-khi-do-bo-dat-lien-viet-nam-185240907002049212.htm) - 17:20 06/09/2024
+- 🤠 [Dự báo sức mạnh siêu bão số 3 &lpar;YAGI&rpar; khi đổ bộ đất liền Việt Nam](https://thanhnien.vn/chuyen-gia-du-bao-suc-manh-cua-sieu-bao-so-3-yagi-khi-do-bo-dat-lien-viet-nam-185240907002049212.htm) - 17:20 06/09/2024
 - 🥸 [Siêu bão Yagi đổ bộ lần 2 tại Trung Quốc, gần 1 triệu người đã sơ tán](https://thanhnien.vn/sieu-bao-yagi-do-bo-lan-2-tai-trung-quoc-gan-1-trieu-nguoi-da-so-tan-185240907001637246.htm) - 17:17 06/09/2024
 - 🌁 [Ngày mới với tin tức sức khỏe: Huyết áp cao nguy hiểm thế nào?](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-huyet-ap-cao-nguy-hiem-the-nao-185240906214428462.htm) - 17:10 06/09/2024
 - 🤡 [Phát hiện tác dụng quan trọng của trà xanh đối với người lớn tuổi](https://thanhnien.vn/phat-hien-tac-dung-quan-trong-cua-tra-xanh-doi-voi-nguoi-lon-tuoi-185240906211714445.htm) - 17:08 06/09/2024
