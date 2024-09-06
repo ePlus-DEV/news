@@ -146,7 +146,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Chân sút lập hat-trick giải thưởng sinh viên tung hoành ở siêu cúp U.23 miền Nam](https://thanhnien.vn/chan-sut-lap-hat-trick-giai-thuong-sinh-vien-tung-hoanh-o-sieu-cup-u23-mien-nam-185240906224557741.htm) - 16:36 06/09/2024
+- 🤠 [Chân sút lập hat-trick giải thưởng sinh viên tung hoành ở Siêu cúp U.23 miền Nam](https://thanhnien.vn/chan-sut-lap-hat-trick-giai-thuong-sinh-vien-tung-hoanh-o-sieu-cup-u23-mien-nam-185240906224557741.htm) - 16:36 06/09/2024
 - 🥸 [Củng cố các Đội Thanh niên tình nguyện kịp thời ứng phó khẩn cấp bão số 3](https://thanhnien.vn/cung-co-cac-doi-thanh-nien-tinh-nguyen-kip-thoi-ung-pho-khan-cap-bao-so-3-185240906233617508.htm) - 16:33 06/09/2024
 - 🌁 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 7.9.2024](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-792024-185240905223325466.htm) - 16:26 06/09/2024
 - 🤡 [Người trẻ Hà Nội kể chuyện thót tim tránh bão Yagi](https://thanhnien.vn/nguoi-tre-ke-chuyen-thot-tim-tranh-bao-yagi-185240906194917385.htm) - 16:10 06/09/2024
