@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- dantri-an-sinh:START -->
 - 👺 [Trẻ ở Mái ấm Hoa Hồng bé ốm bệnh, bé bị tim bẩm sinh](https://dantri.com.vn/an-sinh/tre-o-mai-am-hoa-hong-be-om-benh-be-bi-tim-bam-sinh-20240906092707908.htm) - 02:57 06/09/2024
-- 👀 [Bạo hành tại Mái ấm Hoa Hồng: Khi xã hội vẫn còn thờ ơ, buông lỏng](https://dantri.com.vn/an-sinh/bao-hanh-tai-mai-am-hoa-hong-khi-xa-hoi-van-con-tho-o-buong-long-20240905233835247.htm) - 01:50 06/09/2024
+- 👀 [Bạo hành tại Mái ấm Hoa Hồng: Khi xã hội vẫn còn thờ ơ, vô tâm!](https://dantri.com.vn/an-sinh/bao-hanh-tai-mai-am-hoa-hong-khi-xa-hoi-van-con-tho-o-vo-tam-20240905233835247.htm) - 01:50 06/09/2024
 - 💡 [Bốn trường hợp không còn được hưởng chế độ ốm đau trong năm sau](https://dantri.com.vn/an-sinh/bon-truong-hop-khong-con-duoc-huong-che-do-om-dau-trong-nam-sau-20240905132159638.htm) - 23:00 05/09/2024
 - 💄 [Bé 5 tuổi tử vong nghi bị bạo hành ở cơ sở nuôi dạy: Yêu cầu dừng hoạt động](https://dantri.com.vn/an-sinh/be-5-tuoi-tu-vong-nghi-bi-bao-hanh-o-co-so-nuoi-day-yeu-cau-dung-hoat-dong-20240905183624383.htm) - 17:00 05/09/2024
 - 🧠 [Hai anh em mồ côi được các &quot;mẹ&quot; công an tặng nhà](https://dantri.com.vn/an-sinh/hai-anh-em-mo-coi-duoc-cac-me-cong-an-tang-nha-20240905133905032.htm) - 09:17 05/09/2024
