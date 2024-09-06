@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Bão Yagi giảm một cấp, sức phá hoại vẫn cực kỳ lớn](https://vnexpress.net/bao-yagi-giam-mot-cap-suc-pha-hoai-van-cuc-ky-lon-4789993.html) - 15:35 06/09/2024
+- 🦒 [Bão Yagi xuống cấp 14, sức phá hoại vẫn cực kỳ lớn](https://vnexpress.net/bao-yagi-xuong-cap-14-suc-pha-hoai-van-cuc-ky-lon-4789993.html) - 15:35 06/09/2024
 - 🤓 [Lửa thiêu rụi 500 xe máy của công nhân](https://vnexpress.net/lua-thieu-rui-500-xe-may-cua-cong-nhan-4789969.html) - 14:35 06/09/2024
 - ⚗️ [Giao thông Hà Nội tê liệt nhiều giờ sau cơn giông](https://vnexpress.net/giao-thong-ha-noi-te-liet-nhieu-gio-sau-con-giong-4789954.html) - 13:08 06/09/2024
 - 🌊 [Chằng néo máy bay ở Nội Bài trước siêu bão Yagi](https://vnexpress.net/chang-neo-may-bay-o-noi-bai-truoc-sieu-bao-yagi-4789959.html) - 13:08 06/09/2024
