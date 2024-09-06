@@ -20,7 +20,7 @@ sidebar_position: 1
 - 💼 [Đóng một phần cầu Rạch Miễu trong 19 đêm để sửa chữa](https://vnexpress.net/dong-mot-phan-cau-rach-mieu-trong-19-dem-de-sua-chua-4789562.html) - 07:53 06/09/2024
 - 🤩 [&#39;Bão Yagi mạnh nhất 30 năm, người dân tránh ra đường&#39;](https://vnexpress.net/bao-yagi-manh-nhat-30-nam-nguoi-dan-tranh-ra-duong-4789810.html) - 07:12 06/09/2024
 - 🤡 [TP HCM đốn hạ nhiều cổ thụ trước mưa bão](https://vnexpress.net/tp-hcm-don-ha-nhieu-co-thu-truoc-mua-bao-4789816.html) - 07:03 06/09/2024
-- 💯 [53 lượt cán bộ, chiến sĩ không nhận hối lộ 58 triệu](https://vnexpress.net/53-luot-can-bo-chien-si-khong-nhan-hoi-lo-58-trieu-4789712.html) - 06:40 06/09/2024
+- 💯 [53 lượt cán bộ, chiến sĩ không nhận hối lộ](https://vnexpress.net/53-luot-can-bo-chien-si-khong-nhan-hoi-lo-4789712.html) - 06:40 06/09/2024
 - 👺 [Dừng khai thác 10 đoàn tàu để tránh bão](https://vnexpress.net/dung-khai-thac-10-doan-tau-de-tranh-bao-4789776.html) - 05:49 06/09/2024
 - 🌮 [Huy động hơn 450.000 người, 6 máy bay chống bão Yagi](https://vnexpress.net/huy-dong-hon-450-000-nguoi-6-may-bay-chong-bao-yagi-4789801.html) - 05:47 06/09/2024
 - 🥸 [Đổ xô tích trữ nhu yếu phẩm trước bão](https://vnexpress.net/do-xo-tich-tru-nhu-yeu-pham-truoc-bao-4789718.html) - 04:49 06/09/2024
