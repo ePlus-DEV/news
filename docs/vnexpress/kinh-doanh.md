@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [VNG bổ nhiệm quyền Tổng giám đốc](https://vnexpress.net/vng-bo-nhiem-quyen-tong-giam-doc-4790016.html) - 18:43 06/09/2024
 - 🐲 [Bộ Công Thương: &#39;Người dân không cần tích trữ quá nhiều thực phẩm&#39;](https://vnexpress.net/bo-cong-thuong-nguoi-dan-khong-can-tich-tru-qua-nhieu-thuc-pham-4790013.html) - 18:30 06/09/2024
-- 🔥 [Làm gì khi được nhận căn nhà thừa kế?](https://vnexpress.net/lam-gi-khi-duoc-nhan-can-nha-thua-ke-4782123.html) - 18:00 06/09/2024
+- 🔥 [Làm gì khi được thừa kế căn nhà?](https://vnexpress.net/lam-gi-khi-duoc-thua-ke-can-nha-4782123.html) - 18:00 06/09/2024
 - 🐵 [Ông Vũ Thế Phiệt làm Chủ tịch ACV](https://vnexpress.net/ong-vu-the-phiet-lam-chu-tich-acv-4789998.html) - 17:21 06/09/2024
 - 🦅 [Đường sắt lần đầu chở khí hóa lỏng từ Nam ra Bắc](https://vnexpress.net/duong-sat-lan-dau-cho-khi-hoa-long-tu-nam-ra-bac-4789888.html) - 14:23 06/09/2024
 - 😺 [&#39;Nguy cơ thiếu điện nếu không điều chỉnh giá theo thị trường&#39;](https://vnexpress.net/nguy-co-thieu-dien-neu-khong-dieu-chinh-gia-theo-thi-truong-4789935.html) - 14:01 06/09/2024
