@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [6 tỉnh, thành cho học sinh nghỉ tránh bão Yagi](https://vnexpress.net/6-tinh-thanh-cho-hoc-sinh-nghi-tranh-bao-yagi-4789664.html) - 03:36 06/09/2024
+- 🤓 [8 tỉnh, thành cho học sinh nghỉ tránh bão Yagi](https://vnexpress.net/8-tinh-thanh-cho-hoc-sinh-nghi-tranh-bao-yagi-4789664.html) - 03:36 06/09/2024
 - 🦆 [Học Logistics ra trường lương bao nhiêu?](https://vnexpress.net/hoc-logistics-ra-truong-luong-bao-nhieu-4789026.html) - 03:17 06/09/2024
 - 🦩 [Việt Nam vào top 4 Olympic Tin học quốc tế](https://vnexpress.net/viet-nam-vao-top-4-olympic-tin-hoc-quoc-te-4789577.html) - 00:45 06/09/2024
 - 🌮 [Du học sinh Việt ứng tuyển đại học Mỹ tăng](https://vnexpress.net/du-hoc-sinh-viet-ung-tuyen-dai-hoc-my-tang-4789405.html) - 23:51 05/09/2024
