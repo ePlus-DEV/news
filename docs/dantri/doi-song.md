@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Cây xanh đè sập tường nhà phố cổ, người dân bò ra ngoài thoát chết gang tấc](https://dantri.com.vn/doi-song/cay-xanh-de-sap-tuong-nha-pho-co-nguoi-dan-bo-ra-ngoai-thoat-chet-gang-tac-20240906180646482.htm) - 11:14 06/09/2024
+- 🥳 [Cây xanh đè sập tường nhà phố cổ, người dân kể phút bò ra ngoài thoát chết](https://dantri.com.vn/doi-song/cay-xanh-de-sap-tuong-nha-pho-co-nguoi-dan-ke-phut-bo-ra-ngoai-thoat-chet-20240906180646482.htm) - 11:14 06/09/2024
 - 🌁 [Chuyên gia chỉ cách ứng phó với bão Yagi khi ở chung cư, nhà cao tầng](https://dantri.com.vn/doi-song/chuyen-gia-chi-cach-ung-pho-voi-bao-yagi-khi-o-chung-cu-nha-cao-tang-20240906152843025.htm) - 08:56 06/09/2024
 - 👀 [Biển người đổ xô tích trữ trước bão Yagi, xếp hàng hơn 1 tiếng chờ đến lượt](https://dantri.com.vn/doi-song/bien-nguoi-do-xo-tich-tru-truoc-bao-yagi-xep-hang-hon-1-tieng-cho-den-luot-20240906153024990.htm) - 08:50 06/09/2024
 - 🐻 [Ngự Hoa Viên - Tiện ích tạo nên phong cách sống riêng tại phân khu Đảo Vua](https://dantri.com.vn/doi-song/ngu-hoa-vien-tien-ich-tao-nen-phong-cach-song-rieng-tai-phan-khu-dao-vua-20240906114339035.htm) - 05:01 06/09/2024
