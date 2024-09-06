@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [4 mẹo giữ động lực chạy sau kỳ nghỉ lễ](https://vnexpress.net/4-meo-giu-dong-luc-chay-sau-ky-nghi-le-4790011.html) - 21:00 06/09/2024
-- 🦩 [Tuyển Italy lần đầu thắng Pháp ở Paris sau 70 năm](https://vnexpress.net/tuyen-italy-lan-dau-thang-phap-o-paris-sau-70-nam-4790019.html) - 20:40 06/09/2024
+- 🦩 [Tuyển Italy thắng trên sân Pháp sau 70 năm](https://vnexpress.net/tuyen-italy-thang-tren-san-phap-sau-70-nam-4790019.html) - 20:40 06/09/2024
 - 🧰 [Thầy trò tuyển Hà Lan đoạn tuyệt](https://vnexpress.net/thay-tro-tuyen-ha-lan-doan-tuyet-4789976.html) - 15:03 06/09/2024
 - 🤗 [Thủ môn Indonesia nhận mưa lời khen sau trận hòa Arab Saudi](https://vnexpress.net/thu-mon-indonesia-nhan-mua-loi-khen-sau-tran-hoa-arab-saudi-4789955.html) - 12:06 06/09/2024
 - 🥳 [Sôi động vòng loại giải đấu sinh viên toàn quốc UEC2024 MLBB](https://vnexpress.net/soi-dong-vong-loai-giai-dau-sinh-vien-toan-quoc-uec2024-mlbb-4789831.html) - 12:00 06/09/2024
