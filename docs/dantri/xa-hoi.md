@@ -36,7 +36,7 @@ sidebar_position: 1
 - 🤔 [Ngày mai, học sinh Hà Nội nghỉ học để tránh siêu bão Yagi](https://dantri.com.vn/xa-hoi/ngay-mai-hoc-sinh-ha-noi-nghi-hoc-de-tranh-sieu-bao-yagi-20240906120742955.htm) - 05:33 06/09/2024
 - 💄 [Gấp rút gia cố cao tốc, sân bay trước siêu bão Yagi](https://dantri.com.vn/xa-hoi/gap-rut-gia-co-cao-toc-san-bay-truoc-sieu-bao-yagi-20240906120629106.htm) - 05:26 06/09/2024
 - 🧠 [9 thuyền đi biển của ngư dân Thừa Thiên Huế bị trôi dạt trong đêm](https://dantri.com.vn/xa-hoi/9-thuyen-di-bien-cua-ngu-dan-thua-thien-hue-bi-troi-dat-trong-dem-20240906114552666.htm) - 04:57 06/09/2024
-- 🦣 [Siêu bão chưa vào, Hà Nội đã mưa dông ùn tắc nghiêm trọng](https://dantri.com.vn/xa-hoi/sieu-bao-chua-vao-ha-noi-da-mua-dong-un-tac-nghiem-trong-20240906114245330.htm) - 04:46 06/09/2024
+- 🦣 [Quân đội huy động hơn 400 xe đặc chủng và 6 máy bay chống bão Yagi](https://dantri.com.vn/xa-hoi/quan-doi-huy-dong-hon-400-xe-dac-chung-va-6-may-bay-chong-bao-yagi-20240906114245330.htm) - 04:46 06/09/2024
 - 💫 [Nhiều cán bộ sau khi khám xét mới phát hiện khối tài sản lớn không kê khai](https://dantri.com.vn/xa-hoi/nhieu-can-bo-sau-khi-kham-xet-moi-phat-hien-khoi-tai-san-lon-khong-ke-khai-20240906113333462.htm) - 04:40 06/09/2024
 - 🚀 [Đường tránh 800 tỷ đồng nứt toác: Sửa rào chắn, cấm phương tiện](https://dantri.com.vn/xa-hoi/duong-tranh-800-ty-dong-nut-toac-sua-rao-chan-cam-phuong-tien-20240906084912816.htm) - 04:10 06/09/2024
 - 🤔 [Chuẩn bị lắp khe co giãn mới cho cầu Long Thành](https://dantri.com.vn/xa-hoi/chuan-bi-lap-khe-co-gian-moi-cho-cau-long-thanh-20240906103655537.htm) - 04:07 06/09/2024
