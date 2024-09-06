@@ -219,7 +219,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌊 [Giảm mỡ nội tạng lành mạnh với sinh tố protein](https://laodong.vn/ban-tin/giam-mo-noi-tang-lanh-manh-voi-sinh-to-protein-1390225.ldo) - 23:30 06/09/2024
 - 🔥 [Người dân đổ xô mua đồ tích trữ, giá cả bình ổn](https://laodong.vn/kinh-doanh/nguoi-dan-do-xo-mua-do-tich-tru-gia-ca-binh-on-1390385.ldo) - 23:30 06/09/2024
 - 🦒 [Cập nhật tỷ giá ngoại tệ, Yên Nhật, giá USD chợ đen 7.9](https://laodong.vn/kinh-doanh/cap-nhat-ty-gia-ngoai-te-yen-nhat-gia-usd-cho-den-79-1390452.ldo) - 23:30 06/09/2024
-- 💼 [Bão số 3 vào Vịnh Bắc Bộ, Bạch Long Vĩ mưa to, gió giật cấp 13](https://laodong.vn/xa-hoi/bao-so-3-vao-vinh-bac-bo-bach-long-vi-mua-to-gio-giat-cap-13-1390508.ldo) - 23:27 06/09/2024
+- 💼 [Bão số 3 vào Vịnh Bắc Bộ, Bạch Long Vĩ mưa to, gió giật cấp 15](https://laodong.vn/xa-hoi/bao-so-3-vao-vinh-bac-bo-bach-long-vi-mua-to-gio-giat-cap-15-1390508.ldo) - 23:27 06/09/2024
 - 🤖 [Lịch cúp nước 2 ngày cuối tuần đến thứ Hai tuần sau ở TPHCM](https://laodong.vn/ban-doc/lich-cup-nuoc-2-ngay-cuoi-tuan-den-thu-hai-tuan-sau-o-tphcm-1390488.ldo) - 23:23 06/09/2024
 - 💪 [Kích cầu thị trường khách quốc tế từ Hội chợ ITE HCMC 2024](https://laodong.vn/van-hoa-giai-tri/kich-cau-thi-truong-khach-quoc-te-tu-hoi-cho-ite-hcmc-2024-1390379.ldo) - 23:20 06/09/2024
 - 👍 [Trường Trung cấp Kinh tế - Công nghệ Dung Quất cam kết trả nợ nhưng không thực hiện](https://laodong.vn/cong-doan/truong-trung-cap-kinh-te-cong-nghe-dung-quat-cam-ket-tra-no-nhung-khong-thuc-hien-1390369.ldo) - 23:15 06/09/2024
