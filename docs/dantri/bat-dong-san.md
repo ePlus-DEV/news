@@ -5,7 +5,7 @@ sidebar_position: 21
 
 <!-- dantri-bat-dong-san:START -->
 - 🌏 [Nữ tổng giám đốc nhận lương 17 tỷ đồng giờ ra sao?](https://dantri.com.vn/bat-dong-san/nu-tong-giam-doc-nhan-luong-17-ty-dong-gio-ra-sao-20240906102118445.htm) - 04:33 06/09/2024
-- 👹 [Hàng nghìn biệt thự, căn hộ nghỉ dưỡng ven biển dang dở, bỏ hoang ở Hồ Tràm](https://dantri.com.vn/kinh-doanh/hang-nghin-biet-thu-can-ho-nghi-duong-ven-bien-dang-do-bo-hoang-o-ho-tram-20240905141719843.htm) - 02:56 06/09/2024
+- 👹 [Hàng nghìn biệt thự, căn hộ nghỉ dưỡng ven biển dang dở, bỏ hoang ở Hồ Tràm](https://dantri.com.vn/bat-dong-san/hang-nghin-biet-thu-can-ho-nghi-duong-ven-bien-dang-do-bo-hoang-o-ho-tram-20240905141719843.htm) - 02:56 06/09/2024
 - 💡 [Động lực giúp du lịch Móng Cái tăng tốc](https://dantri.com.vn/bat-dong-san/dong-luc-giup-du-lich-mong-cai-tang-toc-20240905172222775.htm) - 10:43 05/09/2024
 - 🌋 [Cục Thuế TPHCM: Hơn 8.800 hồ sơ đất đai tồn đọng trong chưa đầy một tháng](https://dantri.com.vn/bat-dong-san/cuc-thue-tphcm-hon-8800-ho-so-dat-dai-ton-dong-trong-chua-day-mot-thang-20240905164752935.htm) - 10:06 05/09/2024
 - 🌜 [Ra mắt căn hộ nghệ thuật Art Residence tại &quot;Đô thị thời đại&quot; Sun Urban City](https://dantri.com.vn/bat-dong-san/ra-mat-can-ho-nghe-thuat-art-residence-tai-do-thi-thoi-dai-sun-urban-city-20240905155431160.htm) - 09:40 05/09/2024
