@@ -29,7 +29,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [Vì sao siêu bão mạnh như Yagi có thể xuất hiện ngày càng nhiều?](https://vnexpress.net/vi-sao-sieu-bao-manh-nhu-yagi-co-the-xuat-hien-ngay-cang-nhieu-4790018.html) - 21:00 06/09/2024
 - 🧰 [4 mẹo giữ động lực chạy sau kỳ nghỉ lễ](https://vnexpress.net/4-meo-giu-dong-luc-chay-sau-ky-nghi-le-4790011.html) - 21:00 06/09/2024
 - 🥰 [Volvo giảm mục tiêu phổ biến xe điện](https://vnexpress.net/volvo-giam-muc-tieu-pho-bien-xe-dien-4789724.html) - 21:00 06/09/2024
-- 🌏 [Tuyển Italy lần đầu thắng Pháp ở Paris sau 70 năm](https://vnexpress.net/tuyen-italy-lan-dau-thang-phap-o-paris-sau-70-nam-4790019.html) - 20:40 06/09/2024
+- 🌏 [Tuyển Italy thắng trên sân Pháp sau 70 năm](https://vnexpress.net/tuyen-italy-thang-tren-san-phap-sau-70-nam-4790019.html) - 20:40 06/09/2024
 - 🧐 [6 lưu ý thiết kế nhà an toàn cho người lớn tuổi](https://vnexpress.net/6-luu-y-thiet-ke-nha-an-toan-cho-nguoi-lon-tuoi-4789936.html) - 19:07 06/09/2024
 - 💫 [VNG bổ nhiệm quyền Tổng giám đốc](https://vnexpress.net/vng-bo-nhiem-quyen-tong-giam-doc-4790016.html) - 18:43 06/09/2024
 - 😺 [Bộ Công Thương: &#39;Người dân không cần tích trữ quá nhiều thực phẩm&#39;](https://vnexpress.net/bo-cong-thuong-nguoi-dan-khong-can-tich-tru-qua-nhieu-thuc-pham-4790013.html) - 18:30 06/09/2024
