@@ -7,7 +7,7 @@ sidebar_position: 16
 - 🎭 [Những người dũng cảm trong tâm bão Yagi](https://dantri.com.vn/xa-hoi/nhung-nguoi-dung-cam-trong-tam-bao-yagi-20240907155544738.htm) - 09:07 07/09/2024
 - 👨‍🏫 [Người Hà Nội san sẻ căn hộ hơn 10 tỷ đồng cho người khó khăn trú bão Yagi](https://dantri.com.vn/an-sinh/nguoi-ha-noi-san-se-can-ho-hon-10-ty-dong-cho-nguoi-kho-khan-tru-bao-yagi-20240907154648385.htm) - 08:59 07/09/2024
 - 🌮 [Gió bão quật mạnh, ô tô nối đuôi che chắn cho xe máy qua cầu ở Hà Nội](https://dantri.com.vn/doi-song/gio-bao-quat-manh-o-to-noi-duoi-che-chan-cho-xe-may-qua-cau-o-ha-noi-20240907153022436.htm) - 08:42 07/09/2024
-- 🕯 [Hà Nội: Gió mạnh &quot;quật ngã&quot; người đi đường, cây xanh bật gốc đổ la liệt](https://dantri.com.vn/giao-duc/ha-noi-gio-manh-quat-nga-nguoi-di-duong-cay-xanh-bat-goc-do-la-liet-20240907145745217.htm) - 08:25 07/09/2024
+- 🕯 [Hà Nội: Gió mạnh &quot;quật ngã&quot; người đi đường, cây xanh bật gốc đổ la liệt](https://dantri.com.vn/xa-hoi/ha-noi-gio-manh-quat-nga-nguoi-di-duong-cay-xanh-bat-goc-do-la-liet-20240907145745217.htm) - 08:25 07/09/2024
 - 🪜 [&quot;Người dọn dẹp&quot; giữa tâm bão Yagi](https://dantri.com.vn/xa-hoi/nguoi-don-dep-giua-tam-bao-yagi-20240907140355467.htm) - 07:12 07/09/2024
 - 🐘 [Dừng toàn bộ tàu điện, xe buýt tại Hà Nội](https://dantri.com.vn/xa-hoi/dung-toan-bo-tau-dien-xe-buyt-tai-ha-noi-20240907134803926.htm) - 06:53 07/09/2024
 - 🤔 [Bóng đá Indonesia khiến cả châu Á phải e ngại](https://dantri.com.vn/the-thao/bong-da-indonesia-khien-ca-chau-a-phai-e-ngai-20240907135233706.htm) - 06:52 07/09/2024
