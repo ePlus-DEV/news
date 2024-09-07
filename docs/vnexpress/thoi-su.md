@@ -8,12 +8,12 @@ sidebar_position: 1
 - 🤓 [Tiếp tục kéo dài thời gian đóng cửa 3 sân bay](https://vnexpress.net/tiep-tuc-keo-dai-thoi-gian-dong-cua-3-san-bay-4790260.html) - 12:50 07/09/2024
 - ⚗️ [4 người chết, 78 người bị thương do bão Yagi](https://vnexpress.net/4-nguoi-chet-78-nguoi-bi-thuong-do-bao-yagi-4790254.html) - 12:00 07/09/2024
 - 🌊 [Tan hoang vì bão Yagi](https://vnexpress.net/tan-hoang-vi-bao-yagi-4790233.html) - 10:29 07/09/2024
-- 🎓 [Gió bão giật liên hồi, nhiều huyện ngoại thành Hà Nội mất điện](https://vnexpress.net/gio-bao-giat-lien-hoi-nhieu-huyen-ngoai-thanh-ha-noi-mat-dien-4790192.html) - 08:23 07/09/2024
+- 🎓 [Tâm bão Yagi đang quét qua Hà Nội](https://vnexpress.net/tam-bao-yagi-dang-quet-qua-ha-noi-4790192.html) - 08:23 07/09/2024
 - 🔥 [Cà Mau cần 1.300 tỷ đồng khắc phục hơn 20 km bờ biển sạt lở](https://vnexpress.net/ca-mau-can-1-300-ty-dong-khac-phuc-hon-20-km-bo-bien-sat-lo-4790187.html) - 07:33 07/09/2024
 - 🦏 [Phó thủ tướng yêu cầu tỉnh thành ven biển cấm đường đến 20h](https://vnexpress.net/pho-thu-tuong-yeu-cau-tinh-thanh-ven-bien-cam-duong-den-20h-4790165.html) - 06:33 07/09/2024
 - 👺 [Thuyền vỡ chìm, cây đổ ngổn ngang do bão Yagi](https://vnexpress.net/thuyen-vo-chim-cay-do-ngon-ngang-do-bao-yagi-4790157.html) - 06:26 07/09/2024
 - 🧑‍🏫 [Doanh nghiệp xả thải ra môi trường bị phạt hơn 2 tỷ đồng](https://vnexpress.net/doanh-nghiep-xa-thai-ra-moi-truong-bi-phat-hon-2-ty-dong-4790155.html) - 05:43 07/09/2024
-- 🚦 [Bão Yagi đánh đắm tàu, 13 người mất tích](https://vnexpress.net/truc-tiep-dien-bien-sieu-bao-yagi-4790158.html) - 05:34 07/09/2024
+- 🚦 [Bão Yagi đánh đắm tàu, 13 thuyền viên mất tích](https://vnexpress.net/truc-tiep-dien-bien-sieu-bao-yagi-4790158.html) - 05:34 07/09/2024
 - 🎉 [Cây đổ, tôn bay, một người tử vong trong gió bão](https://vnexpress.net/truc-tiep-dien-bien-sieu-bao-yagi-4790052.html) - 01:30 07/09/2024
 - 🦒 [Thủ tướng: Người dân hạn chế ra ngoài khi mưa bão](https://vnexpress.net/thu-tuong-nguoi-dan-han-che-ra-ngoai-khi-mua-bao-4790033.html) - 00:34 07/09/2024
 - 🤗 [Bão Yagi mạnh cấp 14 cách Quảng Ninh - Hải Phòng 160 km](https://vnexpress.net/bao-yagi-manh-cap-14-cach-quang-ninh-hai-phong-160-km-4790022.html) - 23:22 06/09/2024
