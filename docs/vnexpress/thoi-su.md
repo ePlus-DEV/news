@@ -9,7 +9,7 @@ sidebar_position: 1
 - ⚗️ [Tiếp tục kéo dài thời gian đóng cửa 3 sân bay](https://vnexpress.net/tiep-tuc-keo-dai-thoi-gian-dong-cua-3-san-bay-4790260.html) - 12:50 07/09/2024
 - 🌊 [4 người chết, 78 người bị thương do bão Yagi](https://vnexpress.net/4-nguoi-chet-78-nguoi-bi-thuong-do-bao-yagi-4790254.html) - 12:00 07/09/2024
 - 🎓 [Tan hoang vì bão Yagi](https://vnexpress.net/tan-hoang-vi-bao-yagi-4790233.html) - 10:29 07/09/2024
-- 🔥 [Bão Yagi quét qua Hà Nội, một người chết, 2.800 cây đổ](https://vnexpress.net/bao-yagi-quet-qua-ha-noi-mot-nguoi-chet-2-800-cay-do-4790192.html) - 08:23 07/09/2024
+- 🔥 [Bão Yagi quét qua Hà Nội](https://vnexpress.net/bao-yagi-quet-qua-ha-noi-4790192.html) - 08:23 07/09/2024
 - 🦏 [Cà Mau cần 1.300 tỷ đồng khắc phục hơn 20 km bờ biển sạt lở](https://vnexpress.net/ca-mau-can-1-300-ty-dong-khac-phuc-hon-20-km-bo-bien-sat-lo-4790187.html) - 07:33 07/09/2024
 - 👺 [Phó thủ tướng yêu cầu tỉnh thành ven biển cấm đường đến 20h](https://vnexpress.net/pho-thu-tuong-yeu-cau-tinh-thanh-ven-bien-cam-duong-den-20h-4790165.html) - 06:33 07/09/2024
 - 🧑‍🏫 [Thuyền vỡ chìm, cây đổ ngổn ngang do bão Yagi](https://vnexpress.net/thuyen-vo-chim-cay-do-ngon-ngang-do-bao-yagi-4790157.html) - 06:26 07/09/2024
