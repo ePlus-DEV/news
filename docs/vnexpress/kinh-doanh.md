@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [EVN bác tin đồn cắt điện toàn Hà Nội](https://vnexpress.net/evn-bac-tin-don-cat-dien-toan-ha-noi-4790273.html) - 13:01 07/09/2024
+- ⛽️ [Nhiều tỉnh, thành phía Bắc vẫn mất điện sau nhiều giờ](https://vnexpress.net/nhieu-tinh-thanh-phia-bac-van-mat-dien-4790273.html) - 13:01 07/09/2024
 - 🐲 [Toàn bộ Hải Phòng, Quảng Ninh mất điện](https://vnexpress.net/toan-bo-hai-phong-quang-ninh-mat-dien-vi-bao-yagi-4790200.html) - 08:03 07/09/2024
 - 🔥 [&#39;Nền kinh tế lấy lại đà tăng trưởng như trước Covid-19&#39;](https://vnexpress.net/nen-kinh-te-lay-lai-da-tang-truong-nhu-truoc-covid-19-4790124.html) - 04:02 07/09/2024
 - 🐵 [Thương vụ sáp nhập 7-Eleven và công ty mẹ Circle K đổ bể](https://vnexpress.net/thuong-vu-sap-nhap-7-eleven-va-cong-ty-me-circle-k-do-be-4790086.html) - 03:58 07/09/2024
