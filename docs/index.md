@@ -315,7 +315,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Trao tặng gần 400 xe đạp và bảng chống lóa đến học sinh nghèo](https://www.sggp.org.vn/trao-tang-gan-400-xe-dap-va-bang-chong-loa-den-hoc-sinh-ngheo-post757755.html) - 13:27 07/09/2024
+- 🪜 [&quot;Ánh sáng đã tắt&quot; ở Parc des Princes - Didier Deschamps](https://www.sggp.org.vn/anh-sang-da-tat-o-parc-des-princes-didier-deschamps-post757759.html) - 13:27 07/09/2024
 - 🌝 [Bão số 3 ảnh hưởng trực tiếp đến Hà Nội, rủi ro thiên tai cấp 3](https://www.sggp.org.vn/bao-so-3-anh-huong-truc-tiep-den-ha-noi-rui-ro-thien-tai-cap-3-post757756.html) - 13:15 07/09/2024
 - 💃 [Podcast bản tin tối 7-9: Cảnh báo 4 huyện ngoại thành Hà Nội nguy cơ cao ngập lụt; Hà Nội oằn mình trước bão số 3, thiệt hại nhiều nơi](https://www.sggp.org.vn/podcast-ban-tin-toi-7-9-canh-bao-4-huyen-ngoai-thanh-ha-noi-nguy-co-cao-ngap-lut-ha-noi-oan-minh-truoc-bao-so-3-thiet-hai-nhieu-noi-post757758.html) - 13:09 07/09/2024
 - 🧑‍💻 [Bản tin tối 7-9: Bão số 3 gây thiệt hại nặng nề tại Quảng Ninh và Hải Phòng; Từ vụ việc Mái ấm Hoa Hồng: Sẽ tăng cường thanh, kiểm tra các mái ấm thiện nguyện](https://www.sggp.org.vn/ban-tin-toi-7-9-bao-so-3-gay-thiet-hai-nang-ne-tai-quang-ninh-va-hai-phong-tu-vu-viec-mai-am-hoa-hong-se-tang-cuong-thanh-kiem-tra-cac-mai-am-thien-nguyen-post757757.html) - 13:00 07/09/2024
