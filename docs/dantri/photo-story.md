@@ -4,7 +4,7 @@ sidebar_position: 28
 ---
 
 <!-- dantri-photo-story:START -->
-- 💪 [Hà Nội: Gió mạnh &quot;quật ngã&quot; người đi đường, cây xanh bật gốc đổ la liệt](https://dantri.com.vn/giao-duc/ha-noi-gio-manh-quat-nga-nguoi-di-duong-cay-xanh-bat-goc-do-la-liet-20240907145745217.htm) - 08:25 07/09/2024
+- 💪 [Hà Nội: Gió mạnh &quot;quật ngã&quot; người đi đường, cây xanh bật gốc đổ la liệt](https://dantri.com.vn/xa-hoi/ha-noi-gio-manh-quat-nga-nguoi-di-duong-cay-xanh-bat-goc-do-la-liet-20240907145745217.htm) - 08:25 07/09/2024
 - 🧰 [&quot;Người dọn dẹp&quot; giữa tâm bão Yagi](https://dantri.com.vn/xa-hoi/nguoi-don-dep-giua-tam-bao-yagi-20240907140355467.htm) - 07:12 07/09/2024
 - 🧰 [Bão Yagi đổ bộ Quảng Ninh: Đường phố ngổn ngang, hàng loạt cột điện gãy đổ](https://dantri.com.vn/xa-hoi/bao-yagi-do-bo-quang-ninh-duong-pho-ngon-ngang-hang-loat-cot-dien-gay-do-20240907123107767.htm) - 07:05 07/09/2024
 - 😎 [Rau, thịt dồi dào ở chợ, siêu thị Hà Nội: Hết cảnh chen chúc mua hàng](https://dantri.com.vn/doi-song/rau-thit-doi-dao-o-cho-sieu-thi-ha-noi-het-canh-chen-chuc-mua-hang-20240907135144713.htm) - 07:05 07/09/2024
