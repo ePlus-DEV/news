@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Tiến sĩ duy nhất được xét chức danh giáo sư ngành dược năm 2024](https://dantri.com.vn/giao-duc/tien-si-duy-nhat-duoc-xet-chuc-danh-giao-su-nganh-duoc-nam-2024-20240907080813345.htm) - 01:24 07/09/2024
+- 🤡 [Ứng viên duy nhất được xét chức danh giáo sư ngành dược năm 2024](https://dantri.com.vn/giao-duc/ung-vien-duy-nhat-duoc-xet-chuc-danh-giao-su-nganh-duoc-nam-2024-20240907080813345.htm) - 01:24 07/09/2024
 - 🗽 [Nhiều đại học &quot;chơi lớn&quot;, mời ca sĩ hát khai giảng, chào tân sinh viên](https://dantri.com.vn/giao-duc/nhieu-dai-hoc-choi-lon-moi-ca-si-hat-khai-giang-chao-tan-sinh-vien-20240906160148140.htm) - 01:10 07/09/2024
 - 🚦 [Thấy con ít bạn bè, kém giao tiếp, cha mẹ nên giúp thế nào?](https://dantri.com.vn/giao-duc/thay-con-it-ban-be-kem-giao-tiep-cha-me-nen-giup-the-nao-20240906105705798.htm) - 23:00 06/09/2024
 - 🌋 [Mắc bệnh hiếm gặp, giảng viên trở thành tấm gương nghị lực vượt nghịch cảnh](https://dantri.com.vn/giao-duc/mac-benh-hiem-gap-giang-vien-tro-thanh-tam-guong-nghi-luc-vuot-nghich-canh-20240902110759184.htm) - 23:00 06/09/2024
