@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Người dân kể phút thót tim gió giật bung cửa chung cư, nước tràn vào xối xả](https://dantri.com.vn/doi-song/nguoi-dan-ke-phut-thot-tim-gio-giat-bung-cua-chung-cu-nuoc-tran-vao-xoi-xa-20240907174555590.htm) - 12:40 07/09/2024
+- 🥳 [Chung cư ở Hà Nội, Quảng Ninh: Cửa bung, nứt kính, nước tràn vào nhà xối xả](https://dantri.com.vn/doi-song/chung-cu-o-ha-noi-quang-ninh-cua-bung-nut-kinh-nuoc-tran-vao-nha-xoi-xa-20240907174555590.htm) - 12:40 07/09/2024
 - 🌁 [Gió bão dữ dội, dân chung cư Hà Nội dán băng dính lên cửa kính có an toàn?](https://dantri.com.vn/doi-song/gio-bao-du-doi-dan-chung-cu-ha-noi-dan-bang-dinh-len-cua-kinh-co-an-toan-20240907182913084.htm) - 11:49 07/09/2024
 - 👀 [Gió bão quật mạnh, ô tô nối đuôi che chắn cho xe máy qua cầu ở Hà Nội](https://dantri.com.vn/doi-song/gio-bao-quat-manh-o-to-noi-duoi-che-chan-cho-xe-may-qua-cau-o-ha-noi-20240907153022436.htm) - 08:42 07/09/2024
 - 🐻 [Rau, thịt dồi dào ở chợ, siêu thị Hà Nội: Hết cảnh chen chúc mua hàng](https://dantri.com.vn/doi-song/rau-thit-doi-dao-o-cho-sieu-thi-ha-noi-het-canh-chen-chuc-mua-hang-20240907135144713.htm) - 07:05 07/09/2024
