@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Tan hoang sau bão Yagi](https://vnexpress.net/tan-hoang-sau-bao-yagi-4790233.html) - 10:29 07/09/2024
-- 🤓 [Gió giật ở Hà Nội ngày càng mạnh](https://vnexpress.net/gio-giat-o-ha-noi-ngay-cang-manh-4790192.html) - 08:23 07/09/2024
+- 🤓 [Gió giật sập nhà, cây đổ ngổn ngang ở Hà Nội](https://vnexpress.net/gio-giat-sap-nha-cay-do-ngon-ngang-o-ha-noi-4790192.html) - 08:23 07/09/2024
 - ⚗️ [Cà Mau cần 1.300 tỷ đồng khắc phục hơn 20 km bờ biển sạt lở](https://vnexpress.net/ca-mau-can-1-300-ty-dong-khac-phuc-hon-20-km-bo-bien-sat-lo-4790187.html) - 07:33 07/09/2024
 - 🌊 [Phó thủ tướng yêu cầu tỉnh thành ven biển cấm đường đến 20h](https://vnexpress.net/pho-thu-tuong-yeu-cau-tinh-thanh-ven-bien-cam-duong-den-20h-4790165.html) - 06:33 07/09/2024
 - 🎓 [Thuyền vỡ chìm, cây đổ ngổn ngang do bão Yagi](https://vnexpress.net/thuyen-vo-chim-cay-do-ngon-ngang-do-bao-yagi-4790157.html) - 06:26 07/09/2024
