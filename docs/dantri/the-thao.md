@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Trận đấu U22 Việt Nam vs U22 Uzbekistan gặp sự cố, lùi giờ thi đấu](https://dantri.com.vn/the-thao/tran-dau-u22-viet-nam-vs-u22-uzbekistan-gap-su-co-lui-gio-thi-dau-20240907141941684.htm) - 07:23 07/09/2024
+- 🎡 [U22 Việt Nam 0-1 U22 Uzbekistan &lpar;h1&rpar;: Quả phạt đền đáng tiếc](https://dantri.com.vn/the-thao/u22-viet-nam-0-1-u22-uzbekistan-h1-qua-phat-den-dang-tiec-20240907141941684.htm) - 07:23 07/09/2024
 - 💯 [Sau đội tuyển quốc gia, U20 Việt Nam thua đậm U20 Nga](https://dantri.com.vn/the-thao/sau-doi-tuyen-quoc-gia-u20-viet-nam-thua-dam-u20-nga-20240907140819214.htm) - 07:08 07/09/2024
 - ⛽️ [Bóng đá Indonesia khiến cả châu Á phải e ngại](https://dantri.com.vn/the-thao/bong-da-indonesia-khien-ca-chau-a-phai-e-ngai-20240907135233706.htm) - 06:52 07/09/2024
 - 💃 [Rodrygo tỏa sáng, Brazil nhọc nhằn hạ Ecuador](https://dantri.com.vn/the-thao/rodrygo-toa-sang-brazil-nhoc-nhan-ha-ecuador-20240907124612769.htm) - 05:46 07/09/2024
