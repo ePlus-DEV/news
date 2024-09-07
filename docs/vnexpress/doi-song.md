@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Nhiều chung cư Hà Nội rung lắc, nước tràn vào nhà vì bão](https://vnexpress.net/nhieu-chung-cu-ha-noi-rung-lac-nuoc-tran-vao-nha-vi-bao-4790248.html) - 12:44 07/09/2024
+- 🚀 [Dân chung cư lo sợ vì rung lắc, nước tràn vào nhà do bão](https://vnexpress.net/dan-chung-cu-lo-so-vi-rung-lac-nuoc-tran-vao-nha-do-bao-4790248.html) - 12:44 07/09/2024
 - 🎓 [Bất an vì không thể liên lạc với người thân ở vùng bão](https://vnexpress.net/bat-an-vi-khong-the-lien-lac-voi-nguoi-than-o-vung-bao-4790243.html) - 11:19 07/09/2024
 - 🚦 [Người Hà Nội nấu cơm sớm, sạc tích điện đối phó bão](https://vnexpress.net/nguoi-ha-noi-nau-com-som-sac-tich-dien-doi-pho-bao-4790231.html) - 10:28 07/09/2024
 - 🦣 [Chính quyền, người dân giúp nhau trong bão Yagi](https://vnexpress.net/chinh-quyen-nguoi-dan-giup-nhau-trong-bao-yagi-4790213.html) - 09:11 07/09/2024
