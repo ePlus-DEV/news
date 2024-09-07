@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Nhiều cột điện gãy đổ, toàn bộ Hải Phòng, Quảng Ninh mất điện](https://vnexpress.net/toan-bo-hai-phong-quang-ninh-mat-dien-vi-bao-yagi-4790200.html) - 08:03 07/09/2024
+- ⛽️ [Toàn bộ Hải Phòng, Quảng Ninh mất điện](https://vnexpress.net/toan-bo-hai-phong-quang-ninh-mat-dien-vi-bao-yagi-4790200.html) - 08:03 07/09/2024
 - 🐲 [&#39;Nền kinh tế lấy lại đà tăng trưởng như trước Covid-19&#39;](https://vnexpress.net/nen-kinh-te-lay-lai-da-tang-truong-nhu-truoc-covid-19-4790124.html) - 04:02 07/09/2024
 - 🔥 [Thương vụ sáp nhập 7-Eleven và công ty mẹ Circle K đổ bể](https://vnexpress.net/thuong-vu-sap-nhap-7-eleven-va-cong-ty-me-circle-k-do-be-4790086.html) - 03:58 07/09/2024
 - 🐵 [6 thương hiệu của Vingroup vào top 100 thương hiệu giá trị nhất Việt Nam](https://vnexpress.net/6-thuong-hieu-cua-vingroup-vao-top-100-thuong-hieu-gia-tri-nhat-viet-nam-4790045.html) - 02:00 07/09/2024
