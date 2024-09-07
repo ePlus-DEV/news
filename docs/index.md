@@ -255,66 +255,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Giá nhiều mẫu xe máy giảm sâu](https://nld.com.vn/gia-nhieu-mau-xe-may-giam-sau-196240907201831783.htm) - 22:40 07/09/2024
-- 😺 [Bản tin sáng 8-9: Bão số 3 &lpar;Yagi&rpar; khiến Hà Nội gió giật kinh hoàng, mưa như trút nước](https://nld.com.vn/ban-tin-sang-8-9-bao-so-3-yagi-khien-ha-noi-gio-giat-kinh-hoang-mua-nhu-trut-nuoc-196240907210812069.htm) - 22:30 07/09/2024
-- 👍 [Phấn đấu tăng trưởng kinh tế trên 7%](https://nld.com.vn/phan-dau-tang-truong-kinh-te-tren-7-196240907202139589.htm) - 21:38 07/09/2024
-- 🥷 [&quot;Làm đẹp&quot; cho sách](https://nld.com.vn/lam-dep-cho-sach-196240907203153182.htm) - 21:37 07/09/2024
-- 🤔 [Tập trung ứng phó mưa lũ sau bão](https://nld.com.vn/tap-trung-ung-pho-mua-lu-sau-bao-196240907225133158.htm) - 21:02 07/09/2024
-- 🌈 [&quot;Hô biến&quot; rác thành phân hữu cơ tại nhà](https://nld.com.vn/ho-bien-rac-thanh-phan-huu-co-tai-nha-196240907223920002.htm) - 19:43 07/09/2024
-- 🔥 [Báo in ngày 8-9: Bão số 3 tàn phá Bắc Bộ](https://nld.com.vn/bao-in-ngay-8-9-bao-so-3-tan-pha-bac-bo-196240907222838771.htm) - 17:00 07/09/2024
-- 🧰 [Mỗi năm, Bệnh viện Từ Dũ thực hiện hơn 50.000 ca phẫu thuật an toàn](https://nld.com.vn/moi-nam-benh-vien-tu-du-thuc-hien-hon-50000-ca-phau-thuat-an-toan-196240907200358887.htm) - 17:00 07/09/2024
-- 🤗 [Bão số 3 ra khỏi trung tâm Hà Nội, cảnh báo ngập lụt, lũ quét, sạt lở đất ở miền Bắc](https://nld.com.vn/bao-so-3-ra-khoi-trung-tam-ha-noi-canh-bao-ngap-lut-lu-quet-sat-lo-dat-o-mien-bac-196240907225143257.htm) - 16:40 07/09/2024
-- 🦅 [UAV Ukraine xuất kích, gây cháy lớn tại kho đạn Nga](https://nld.com.vn/uav-ukraine-xuat-kich-gay-chay-lon-tai-kho-dan-nga-196240907224800669.htm) - 16:01 07/09/2024
-- 🤩 [Quán quân cuộc thi &quot;Dấu ấn Việt&quot; 2024 gọi tên ca sĩ Thiên Phú](https://nld.com.vn/quan-quan-cuoc-thi-dau-an-viet-2024-goi-ten-ca-si-thien-phu-196240907200127569.htm) - 15:53 07/09/2024
-- 🎭 [Lý Hải, Tấn Trường và trận đấu ý nghĩa đầu năm học mới](https://nld.com.vn/ly-hai-tan-truong-va-tran-dau-y-nghia-dau-nam-hoc-moi-196240907170526398.htm) - 15:10 07/09/2024
-- 💄 [Giải Quần vợt mang mái ấm đến người dân Quảng Nam khép lại thành công](https://nld.com.vn/giai-quan-vot-mang-mai-am-den-nguoi-dan-quang-nam-khep-lai-thanh-cong-196240907211508388.htm) - 14:18 07/09/2024
-- 🎊 [UBND TP HCM ra chỉ đạo khẩn, ứng phó bão số 3](https://nld.com.vn/ubnd-tp-hcm-ra-chi-dao-khan-ung-pho-bao-so-3-196240907203901007.htm) - 14:17 07/09/2024
-- 🎡 [Hàng trăm căn nhà bị tốc mái, hư hỏng do bão số 3](https://nld.com.vn/hang-tram-can-nha-bi-toc-mai-hu-hong-do-bao-so-3-196240907162756124.htm) - 13:47 07/09/2024
-- 🎉 [Đêm nay Hà Nội có gió giật mạnh, rất nguy hiểm, người dân không nên ra đường](https://nld.com.vn/dem-nay-ha-noi-co-gio-giat-manh-rat-nguy-hiem-nguoi-dan-khong-nen-ra-duong-196240907200117467.htm) - 13:46 07/09/2024
-- 😺 [VIDEO: Cận cảnh &quot;đổ nát&quot; tại Hạ Long sau khi bão số 3 càn quét](https://nld.com.vn/video-can-canh-do-nat-tai-ha-long-sau-khi-bao-so-3-can-quet-19624090718345868.htm) - 13:25 07/09/2024
-- 🐻 [Bác sĩ hối hả cấp cứu, điều trị bệnh nhân trong bão Yagi](https://nld.com.vn/bac-si-hoi-ha-cap-cuu-dieu-tri-benh-nhan-trong-bao-yagi-196240907193247993.htm) - 13:19 07/09/2024
-- 🤡 [Bão số 3 vào Hà Nội: Gió giật mạnh và nguy hiểm nhất là lúc nào?](https://nld.com.vn/bao-so-3-vao-ha-noi-gio-giat-manh-va-nguy-hiem-nhat-la-luc-nao-196240907200946005.htm) - 13:17 07/09/2024
-- 🚦 [Bộ LĐ-TB-XH: Vụ việc mái ấm Hoa hồng &quot;lộ&quot; buông lỏng quản lý](https://nld.com.vn/bo-ld-tb-xh-vu-viec-mai-am-hoa-hong-lo-buong-long-quan-ly-196240907192626073.htm) - 12:50 07/09/2024
-- 🪜 [Tổng Bí thư, Chủ tịch nước Tô Lâm rất quan tâm chỉ đạo ứng phó bão số 3](https://nld.com.vn/tong-bi-thu-chu-tich-nuoc-to-lam-rat-quan-tam-chi-dao-ung-pho-bao-so-3-196240907184117417.htm) - 12:45 07/09/2024
-- 💫 [Bão số 3 giật sập nhà 4 tầng, chủ nhà may mắn thoát nạn](https://nld.com.vn/bao-so-3-giat-sap-nha-4-tang-chu-nha-may-man-thoat-nan-196240907183312232.htm) - 12:28 07/09/2024
-- 🔭 [Cứu gần 130 người thoát khỏi vùng nguy hiểm trong bão số 3](https://nld.com.vn/cuu-gan-130-nguoi-thoat-khoi-vung-nguy-hiem-trong-bao-so-3-196240907182835991.htm) - 12:18 07/09/2024
-- 🌝 [Bão số 3 làm tốc mái 74 ngôi nhà, hàng chục cây xanh gãy đổ ở Thanh Hóa](https://nld.com.vn/bao-so-3-lam-toc-mai-74-ngoi-nha-hang-chuc-cay-xanh-gay-do-o-thanh-hoa-196240907181631817.htm) - 12:16 07/09/2024
-- 💪 [Học sinh hào hứng tranh tài tại đấu trường AI](https://nld.com.vn/hoc-sinh-hao-hung-tranh-tai-tai-dau-truong-ai-196240907183622724.htm) - 11:54 07/09/2024
-- 🦍 [Gần 300 sinh viên hệ chính qui của Trường ĐH Cửu Long nhận tin vui](https://nld.com.vn/gan-300-sinh-vien-he-chinh-qui-cua-truong-dh-cuu-long-nhan-tin-vui-196240907182005285.htm) - 11:36 07/09/2024
-- 🥷 [Ducati và YBA mang sách đến Đồng Tháp, thắp sáng ước mơ tuổi thơ](https://thitruong.nld.com.vn/ducati-va-yba-mang-sach-den-dong-thap-thap-sang-uoc-mo-tuoi-tho-196240907180417744.htm) - 11:35 07/09/2024
-- 🫶 [EVN &quot;bác&quot; thông tin Hà Nội 99% cắt điện trong tối nay](https://nld.com.vn/evn-bac-thong-tin-ha-noi-99-cat-dien-trong-toi-nay-196240907181801485.htm) - 11:29 07/09/2024
-- 🐻 [Sao làng giải trí hào hứng tham dự Giải Pickleball Celebrity Championship 2024](https://nld.com.vn/sao-lang-giai-tri-hao-hung-tham-du-giai-pickleball-celebrity-championship-2024-19624090718224567.htm) - 11:28 07/09/2024
-- 🐲 [Kéo dài thêm thời gian &quot;đóng cửa&quot; sân bay Vân Đồn, Cát Bi và Nội Bài](https://nld.com.vn/keo-dai-them-thoi-gian-dong-cua-san-bay-van-don-cat-bi-va-noi-bai-196240907180920342.htm) - 11:14 07/09/2024
-- 🧑‍💻 [Ngân hàng Nhà nước sẽ tiếp tục hạ lãi suất cho vay](https://nld.com.vn/ngan-hang-nha-nuoc-se-tiep-tuc-ha-lai-suat-cho-vay-196240907175455797.htm) - 11:13 07/09/2024
-- 🎬 [Mưa lớn trên diện rộng ở TP HCM](https://nld.com.vn/mua-lon-tren-dien-rong-o-tp-hcm-196240907174725415.htm) - 10:59 07/09/2024
-- 👀 [Hải Phòng: 1 người chết, 20 người nhập viện do tôn bay, cây đổ trong bão số 3](https://nld.com.vn/hai-phong-1-nguoi-chet-20-nguoi-nhap-vien-do-ton-bay-cay-do-trong-bao-so-3-196240907164857654.htm) - 10:28 07/09/2024
-- 👍 [VIDEO: Gió bão cực mạnh giật tung mái tôn lớn, thổi bật gốc cây xà cừ gốc 2 người ôm](https://nld.com.vn/video-gio-bao-cuc-manh-giat-tung-mai-ton-lon-thoi-bat-goc-cay-xa-cu-goc-2-nguoi-om-196240907160559186.htm) - 10:26 07/09/2024
-- 🦅 [Co.opmart tinh giản để vào khu dân cư](https://thitruong.nld.com.vn/coopmart-tinh-gian-de-vao-khu-dan-cu-196240907134356925.htm) - 10:00 07/09/2024
-- 🦏 [Hơn 100 VĐV quần vợt mang mái ấm đến cho người dân Quảng Nam](https://nld.com.vn/hon-100-vdv-quan-vot-mang-mai-am-den-cho-nguoi-dan-quang-nam-196240907163815514.htm) - 09:52 07/09/2024
-- 🗽 [VIDEO: Cảnh tượng bão số 3 “quần thảo” Quảng Ninh](https://nld.com.vn/video-canh-tuong-bao-so-3-quan-thao-quang-ninh-196240907163541461.htm) - 09:46 07/09/2024
-- 🔭 [&quot;Thần tiên tỉ tỉ&quot; Lưu Diệc Phi lại gây sốt](https://nld.com.vn/than-tien-ti-ti-luu-diec-phi-lai-gay-sot-196240907160053325.htm) - 09:36 07/09/2024
-- 👍 [Xúc động cảnh ôtô giảm tốc &quot;dìu&quot; xe máy qua cầu Nhật Tân trong cuồng phong bão số 3](https://nld.com.vn/xuc-dong-canh-oto-giam-toc-diu-xe-may-qua-cau-nhat-tan-trong-cuong-phong-bao-so-3-196240907160935802.htm) - 09:35 07/09/2024
-- ⛽️ [Bão số 3 làm nhiều địa phương miền Bắc mất điện diện rộng, hàng triệu người bị ảnh hưởng](https://nld.com.vn/bao-so-3-lam-nhieu-dia-phuong-mien-bac-mat-dien-dien-rong-hang-trieu-nguoi-bi-anh-huong-196240907154505137.htm) - 09:12 07/09/2024
-- 🥸 [Một bí thư xã bị bắt](https://nld.com.vn/mot-bi-thu-xa-bi-bat-196240907155805662.htm) - 09:04 07/09/2024
-- 🌁 [Nga dội UAV vào Ukraine, tình báo Mỹ - Anh cam kết mạnh mẽ](https://nld.com.vn/nga-doi-uav-vao-ukraine-tinh-bao-my-anh-cam-ket-manh-me-196240907151830431.htm) - 09:00 07/09/2024
-- 🌮 [VIDEO: Cận cảnh ngổn ngang ở TP Hạ Long khi bão số 3 càn quét](https://nld.com.vn/video-can-canh-ngon-ngang-o-tp-ha-long-khi-bao-so-3-can-quet-196240907151809204.htm) - 08:57 07/09/2024
-- 🎉 [Tài xế container chặn đầu xe ô tô, đánh nhau trên Quốc lộ 51](https://nld.com.vn/tai-xe-container-chan-dau-xe-o-to-danh-nhau-tren-quoc-lo-51-196240907145939403.htm) - 08:55 07/09/2024
-- 🤔 [Món quà ý nghĩa ngày khai giảng](https://thitruong.nld.com.vn/mon-qua-y-nghia-ngay-khai-giang-196240907154650665.htm) - 08:47 07/09/2024
-- 🐘 [Mâu thuẫn với vợ, người đàn ông kề mã tấu vào cổ dọa tự sát](https://nld.com.vn/mau-thuan-voi-vo-nguoi-dan-ong-ke-ma-tau-vao-co-doa-tu-sat-196240907150353177.htm) - 08:14 07/09/2024
-- 🙉 [Bão số 3 ập vào: Quảng Ninh gió giật cấp 17, Hà Nội gió rít liên tục](https://nld.com.vn/bao-so-3-ap-vao-quang-ninh-gio-giat-cap-17-ha-noi-gio-rit-lien-tuc-196240907144124138.htm) - 08:09 07/09/2024
-- 🐵 [Phó Thủ tướng chỉ đạo &quot;nóng&quot; tại Sở chỉ huy tiền phương](https://nld.com.vn/bao-so-3-do-bo-vao-dat-lien-tam-bao-giua-hai-phong-quang-ninh-196240907132203172.htm) - 08:00 07/09/2024
-- 🙉 [Kết quả xổ số hôm nay, 7-9: TP HCM, Long An, Bình Phước, Hậu Giang, Đà Nẵng, Nam Định](https://nld.com.vn/ket-qua-xo-so-hom-nay-7-9-tp-hcm-long-an-binh-phuoc-hau-giang-da-nang-nam-dinh-196240907144259446.htm) - 07:54 07/09/2024
-- 💪 [Bão số 3 &lpar;Yagi&rpar; khiến trận đấu giữa Thái Lan và Nga bị hủy](https://nld.com.vn/bao-so-3-yagi-khien-tran-dau-giua-thai-lan-va-nga-bi-huy-196240907145227103.htm) - 07:53 07/09/2024
-- ⛽️ [Bão số 3 vừa đổ bộ, Quảng Ninh đã ghi nhận nhiều thiệt hại](https://nld.com.vn/bao-so-3-vua-do-bo-quang-ninh-da-ghi-nhan-nhieu-thiet-hai-196240907142105138.htm) - 07:44 07/09/2024
-- 👺 [Khối ngoại bán ròng liên tục có đáng lo, nhà đầu tư nên mua hay bán cổ phiếu lúc này?](https://nld.com.vn/khoi-ngoai-ban-rong-lien-tuc-co-dang-lo-nha-dau-tu-nen-mua-hay-ban-co-phieu-luc-nay-19624090713502653.htm) - 07:38 07/09/2024
-- 🧠 [Bị người tình AI lừa bạc tỉ](https://nld.com.vn/bi-nguoi-tinh-ai-lua-bac-ti-196240907141041052.htm) - 07:37 07/09/2024
-- 🔭 [Siêu thị ở Hà Nội, Hải Phòng và Quảng Ninh vắng tanh do mưa bão](https://nld.com.vn/sieu-thi-o-ha-noi-hai-phong-va-quang-ninh-vang-tanh-do-mua-bao-196240907132436533.htm) - 07:16 07/09/2024
-- 🦣 [Dông lốc thổi tốc mái 60 ngôi nhà ở huyện biên giới Thanh Hóa](https://nld.com.vn/dong-loc-thoi-toc-mai-60-ngoi-nha-o-huyen-bien-gioi-thanh-hoa-196240907132115411.htm) - 07:13 07/09/2024
-- 🔥 [3 người được cho nợ tiền trúng đấu giá 205 lô đất](https://nld.com.vn/3-nguoi-duoc-cho-no-tien-trung-dau-gia-205-lo-dat-19624073017575958.htm) - 07:11 07/09/2024
-- 🌝 [Ukraine tự tin &quot;đảo ngược tình thế&quot;, đẩy xung đột về phía Nga](https://nld.com.vn/ukraine-tu-tin-dao-nguoc-tinh-the-day-xung-dot-ve-phia-nga-196240907134537606.htm) - 07:00 07/09/2024
-- 👍 [VIDEO: Bão đã vào Quảng Ninh, gió giật kinh hoàng](https://nld.com.vn/video-bao-da-vao-quang-ninh-gio-giat-kinh-hoang-19624090713502369.htm) - 06:58 07/09/2024
-- 💂 [Nhan sắc tân Á hậu 2 Doanh nhân quốc tế 2024 Kim Nguyệt](https://phunu.nld.com.vn/nhan-sac-tan-a-hau-2-doanh-nhan-quoc-te-2024-kim-nguyet-196240906221636323.htm) - 06:39 07/09/2024
-- 🤖 [Bộ Tài nguyên và Môi trường sẽ họp về vướng mắc bảng giá đất của TP HCM](https://nld.com.vn/bo-tai-nguyen-va-moi-truong-se-hop-ve-vuong-mac-bang-gia-dat-cua-tp-hcm-196240907131751235.htm) - 06:26 07/09/2024<!-- nld:END -->
+- 🐎 [Bộ trưởng Công Thương: Sớm cấp điện trở lại ngay khi bão đi qua](https://nld.com.vn/bo-truong-cong-thuong-som-cap-dien-tro-lai-ngay-khi-bao-di-qua-196240907222629013.htm) - 23:15 07/09/2024
+- 😺 [Hà Nội: Nam thanh niên tử vong do cây đổ trên đường Trần Duy Hưng](https://nld.com.vn/ha-noi-nam-thanh-nien-tu-vong-do-cay-do-tren-duong-tran-duy-hung-196240908001101121.htm) - 23:08 07/09/2024
+- 👍 [Bão số 3 tàn phá Bắc Bộ](https://nld.com.vn/bao-so-3-tan-pha-bac-bo-196240907224812006.htm) - 23:03 07/09/2024
+- 🥷 [Ảnh đẹp trong tuần: Nhịp sống bình yên ở Đà Nẵng, Quảng Trị](https://nld.com.vn/anh-dep-trong-tuan-nhip-song-binh-yen-o-da-nang-quang-tri-19624090719032346.htm) - 23:00 07/09/2024
+- 🤔 [Giá nhiều mẫu xe máy giảm sâu](https://nld.com.vn/gia-nhieu-mau-xe-may-giam-sau-196240907201831783.htm) - 22:40 07/09/2024
+- 🌈 [Bản tin sáng 8-9: Bão số 3 &lpar;Yagi&rpar; khiến Hà Nội gió giật kinh hoàng, mưa như trút nước](https://nld.com.vn/ban-tin-sang-8-9-bao-so-3-yagi-khien-ha-noi-gio-giat-kinh-hoang-mua-nhu-trut-nuoc-196240907210812069.htm) - 22:30 07/09/2024
+- 🔥 [Phấn đấu tăng trưởng kinh tế trên 7%](https://nld.com.vn/phan-dau-tang-truong-kinh-te-tren-7-196240907202139589.htm) - 21:38 07/09/2024
+- 🧰 [&quot;Làm đẹp&quot; cho sách](https://nld.com.vn/lam-dep-cho-sach-196240907203153182.htm) - 21:37 07/09/2024
+- 🤗 [Tập trung ứng phó mưa lũ sau bão](https://nld.com.vn/tap-trung-ung-pho-mua-lu-sau-bao-196240907225133158.htm) - 21:02 07/09/2024
+- 🦅 [&quot;Hô biến&quot; rác thành phân hữu cơ tại nhà](https://nld.com.vn/ho-bien-rac-thanh-phan-huu-co-tai-nha-196240907223920002.htm) - 19:43 07/09/2024
+- 🤩 [Báo in ngày 8-9: Bão số 3 tàn phá Bắc Bộ](https://nld.com.vn/bao-in-ngay-8-9-bao-so-3-tan-pha-bac-bo-196240907222838771.htm) - 17:00 07/09/2024
+- 🎭 [Mỗi năm, Bệnh viện Từ Dũ thực hiện hơn 50.000 ca phẫu thuật an toàn](https://nld.com.vn/moi-nam-benh-vien-tu-du-thuc-hien-hon-50000-ca-phau-thuat-an-toan-196240907200358887.htm) - 17:00 07/09/2024
+- 💄 [Bão số 3 ra khỏi trung tâm Hà Nội, cảnh báo ngập lụt, lũ quét, sạt lở đất ở miền Bắc](https://nld.com.vn/bao-so-3-ra-khoi-trung-tam-ha-noi-canh-bao-ngap-lut-lu-quet-sat-lo-dat-o-mien-bac-196240907225143257.htm) - 16:40 07/09/2024
+- 🎊 [UAV Ukraine xuất kích, gây cháy lớn tại kho đạn Nga](https://nld.com.vn/uav-ukraine-xuat-kich-gay-chay-lon-tai-kho-dan-nga-196240907224800669.htm) - 16:01 07/09/2024
+- 🎡 [Quán quân cuộc thi &quot;Dấu ấn Việt&quot; 2024 gọi tên ca sĩ Thiên Phú](https://nld.com.vn/quan-quan-cuoc-thi-dau-an-viet-2024-goi-ten-ca-si-thien-phu-196240907200127569.htm) - 15:53 07/09/2024
+- 🎉 [Lý Hải, Tấn Trường và trận đấu ý nghĩa đầu năm học mới](https://nld.com.vn/ly-hai-tan-truong-va-tran-dau-y-nghia-dau-nam-hoc-moi-196240907170526398.htm) - 15:10 07/09/2024
+- 😺 [Giải Quần vợt mang mái ấm đến người dân Quảng Nam khép lại thành công](https://nld.com.vn/giai-quan-vot-mang-mai-am-den-nguoi-dan-quang-nam-khep-lai-thanh-cong-196240907211508388.htm) - 14:18 07/09/2024
+- 🐻 [UBND TP HCM ra chỉ đạo khẩn, ứng phó bão số 3](https://nld.com.vn/ubnd-tp-hcm-ra-chi-dao-khan-ung-pho-bao-so-3-196240907203901007.htm) - 14:17 07/09/2024
+- 🤡 [Hàng trăm căn nhà bị tốc mái, hư hỏng do bão số 3](https://nld.com.vn/hang-tram-can-nha-bi-toc-mai-hu-hong-do-bao-so-3-196240907162756124.htm) - 13:47 07/09/2024
+- 🚦 [Đêm nay Hà Nội có gió giật mạnh, rất nguy hiểm, người dân không nên ra đường](https://nld.com.vn/dem-nay-ha-noi-co-gio-giat-manh-rat-nguy-hiem-nguoi-dan-khong-nen-ra-duong-196240907200117467.htm) - 13:46 07/09/2024
+- 🪜 [VIDEO: Cận cảnh &quot;đổ nát&quot; tại Hạ Long sau khi bão số 3 càn quét](https://nld.com.vn/video-can-canh-do-nat-tai-ha-long-sau-khi-bao-so-3-can-quet-19624090718345868.htm) - 13:25 07/09/2024
+- 💫 [Bác sĩ hối hả cấp cứu, điều trị bệnh nhân trong bão Yagi](https://nld.com.vn/bac-si-hoi-ha-cap-cuu-dieu-tri-benh-nhan-trong-bao-yagi-196240907193247993.htm) - 13:19 07/09/2024
+- 🔭 [Bão số 3 vào Hà Nội: Gió giật mạnh và nguy hiểm nhất là lúc nào?](https://nld.com.vn/bao-so-3-vao-ha-noi-gio-giat-manh-va-nguy-hiem-nhat-la-luc-nao-196240907200946005.htm) - 13:17 07/09/2024
+- 🌝 [Bộ LĐ-TB-XH: Vụ việc mái ấm Hoa hồng &quot;lộ&quot; buông lỏng quản lý](https://nld.com.vn/bo-ld-tb-xh-vu-viec-mai-am-hoa-hong-lo-buong-long-quan-ly-196240907192626073.htm) - 12:50 07/09/2024
+- 💪 [Tổng Bí thư, Chủ tịch nước Tô Lâm rất quan tâm chỉ đạo ứng phó bão số 3](https://nld.com.vn/tong-bi-thu-chu-tich-nuoc-to-lam-rat-quan-tam-chi-dao-ung-pho-bao-so-3-196240907184117417.htm) - 12:45 07/09/2024
+- 🦍 [Bão số 3 giật sập nhà 4 tầng, chủ nhà may mắn thoát nạn](https://nld.com.vn/bao-so-3-giat-sap-nha-4-tang-chu-nha-may-man-thoat-nan-196240907183312232.htm) - 12:28 07/09/2024
+- 🥷 [Cứu gần 130 người thoát khỏi vùng nguy hiểm trong bão số 3](https://nld.com.vn/cuu-gan-130-nguoi-thoat-khoi-vung-nguy-hiem-trong-bao-so-3-196240907182835991.htm) - 12:18 07/09/2024
+- 🫶 [Bão số 3 làm tốc mái 74 ngôi nhà, hàng chục cây xanh gãy đổ ở Thanh Hóa](https://nld.com.vn/bao-so-3-lam-toc-mai-74-ngoi-nha-hang-chuc-cay-xanh-gay-do-o-thanh-hoa-196240907181631817.htm) - 12:16 07/09/2024
+- 🐻 [Học sinh hào hứng tranh tài tại đấu trường AI](https://nld.com.vn/hoc-sinh-hao-hung-tranh-tai-tai-dau-truong-ai-196240907183622724.htm) - 11:54 07/09/2024
+- 🐲 [Gần 300 sinh viên hệ chính qui của Trường ĐH Cửu Long nhận tin vui](https://nld.com.vn/gan-300-sinh-vien-he-chinh-qui-cua-truong-dh-cuu-long-nhan-tin-vui-196240907182005285.htm) - 11:36 07/09/2024
+- 🧑‍💻 [Ducati và YBA mang sách đến Đồng Tháp, thắp sáng ước mơ tuổi thơ](https://thitruong.nld.com.vn/ducati-va-yba-mang-sach-den-dong-thap-thap-sang-uoc-mo-tuoi-tho-196240907180417744.htm) - 11:35 07/09/2024
+- 🎬 [EVN &quot;bác&quot; thông tin Hà Nội 99% cắt điện trong tối nay](https://nld.com.vn/evn-bac-thong-tin-ha-noi-99-cat-dien-trong-toi-nay-196240907181801485.htm) - 11:29 07/09/2024
+- 👀 [Sao làng giải trí hào hứng tham dự Giải Pickleball Celebrity Championship 2024](https://nld.com.vn/sao-lang-giai-tri-hao-hung-tham-du-giai-pickleball-celebrity-championship-2024-19624090718224567.htm) - 11:28 07/09/2024
+- 👍 [Kéo dài thêm thời gian &quot;đóng cửa&quot; sân bay Vân Đồn, Cát Bi và Nội Bài](https://nld.com.vn/keo-dai-them-thoi-gian-dong-cua-san-bay-van-don-cat-bi-va-noi-bai-196240907180920342.htm) - 11:14 07/09/2024
+- 🦅 [Ngân hàng Nhà nước sẽ tiếp tục hạ lãi suất cho vay](https://nld.com.vn/ngan-hang-nha-nuoc-se-tiep-tuc-ha-lai-suat-cho-vay-196240907175455797.htm) - 11:13 07/09/2024
+- 🦏 [Mưa lớn trên diện rộng ở TP HCM](https://nld.com.vn/mua-lon-tren-dien-rong-o-tp-hcm-196240907174725415.htm) - 10:59 07/09/2024
+- 🗽 [Hải Phòng: 1 người chết, 20 người nhập viện do tôn bay, cây đổ trong bão số 3](https://nld.com.vn/hai-phong-1-nguoi-chet-20-nguoi-nhap-vien-do-ton-bay-cay-do-trong-bao-so-3-196240907164857654.htm) - 10:28 07/09/2024
+- 🔭 [VIDEO: Gió bão cực mạnh giật tung mái tôn lớn, thổi bật gốc cây xà cừ gốc 2 người ôm](https://nld.com.vn/video-gio-bao-cuc-manh-giat-tung-mai-ton-lon-thoi-bat-goc-cay-xa-cu-goc-2-nguoi-om-196240907160559186.htm) - 10:26 07/09/2024
+- 👍 [Co.opmart tinh giản để vào khu dân cư](https://thitruong.nld.com.vn/coopmart-tinh-gian-de-vao-khu-dan-cu-196240907134356925.htm) - 10:00 07/09/2024
+- ⛽️ [Hơn 100 VĐV quần vợt mang mái ấm đến cho người dân Quảng Nam](https://nld.com.vn/hon-100-vdv-quan-vot-mang-mai-am-den-cho-nguoi-dan-quang-nam-196240907163815514.htm) - 09:52 07/09/2024
+- 🥸 [VIDEO: Cảnh tượng bão số 3 “quần thảo” Quảng Ninh](https://nld.com.vn/video-canh-tuong-bao-so-3-quan-thao-quang-ninh-196240907163541461.htm) - 09:46 07/09/2024
+- 🌁 [&quot;Thần tiên tỉ tỉ&quot; Lưu Diệc Phi lại gây sốt](https://nld.com.vn/than-tien-ti-ti-luu-diec-phi-lai-gay-sot-196240907160053325.htm) - 09:36 07/09/2024
+- 🌮 [Xúc động cảnh ôtô giảm tốc &quot;dìu&quot; xe máy qua cầu Nhật Tân trong cuồng phong bão số 3](https://nld.com.vn/xuc-dong-canh-oto-giam-toc-diu-xe-may-qua-cau-nhat-tan-trong-cuong-phong-bao-so-3-196240907160935802.htm) - 09:35 07/09/2024
+- 🎉 [Bão số 3 làm nhiều địa phương miền Bắc mất điện diện rộng, hàng triệu người bị ảnh hưởng](https://nld.com.vn/bao-so-3-lam-nhieu-dia-phuong-mien-bac-mat-dien-dien-rong-hang-trieu-nguoi-bi-anh-huong-196240907154505137.htm) - 09:12 07/09/2024
+- 🤔 [Một bí thư xã bị bắt](https://nld.com.vn/mot-bi-thu-xa-bi-bat-196240907155805662.htm) - 09:04 07/09/2024
+- 🐘 [Nga dội UAV vào Ukraine, tình báo Mỹ - Anh cam kết mạnh mẽ](https://nld.com.vn/nga-doi-uav-vao-ukraine-tinh-bao-my-anh-cam-ket-manh-me-196240907151830431.htm) - 09:00 07/09/2024
+- 🙉 [VIDEO: Cận cảnh ngổn ngang ở TP Hạ Long khi bão số 3 càn quét](https://nld.com.vn/video-can-canh-ngon-ngang-o-tp-ha-long-khi-bao-so-3-can-quet-196240907151809204.htm) - 08:57 07/09/2024
+- 🐵 [Tài xế container chặn đầu xe ô tô, đánh nhau trên Quốc lộ 51](https://nld.com.vn/tai-xe-container-chan-dau-xe-o-to-danh-nhau-tren-quoc-lo-51-196240907145939403.htm) - 08:55 07/09/2024
+- 🙉 [Món quà ý nghĩa ngày khai giảng](https://thitruong.nld.com.vn/mon-qua-y-nghia-ngay-khai-giang-196240907154650665.htm) - 08:47 07/09/2024
+- 💪 [Mâu thuẫn với vợ, người đàn ông kề mã tấu vào cổ dọa tự sát](https://nld.com.vn/mau-thuan-voi-vo-nguoi-dan-ong-ke-ma-tau-vao-co-doa-tu-sat-196240907150353177.htm) - 08:14 07/09/2024
+- ⛽️ [Bão số 3 ập vào: Quảng Ninh gió giật cấp 17, Hà Nội gió rít liên tục](https://nld.com.vn/bao-so-3-ap-vao-quang-ninh-gio-giat-cap-17-ha-noi-gio-rit-lien-tuc-196240907144124138.htm) - 08:09 07/09/2024
+- 👺 [Phó Thủ tướng chỉ đạo &quot;nóng&quot; tại Sở chỉ huy tiền phương](https://nld.com.vn/bao-so-3-do-bo-vao-dat-lien-tam-bao-giua-hai-phong-quang-ninh-196240907132203172.htm) - 08:00 07/09/2024
+- 🧠 [Kết quả xổ số hôm nay, 7-9: TP HCM, Long An, Bình Phước, Hậu Giang, Đà Nẵng, Nam Định](https://nld.com.vn/ket-qua-xo-so-hom-nay-7-9-tp-hcm-long-an-binh-phuoc-hau-giang-da-nang-nam-dinh-196240907144259446.htm) - 07:54 07/09/2024
+- 🔭 [Bão số 3 &lpar;Yagi&rpar; khiến trận đấu giữa Thái Lan và Nga bị hủy](https://nld.com.vn/bao-so-3-yagi-khien-tran-dau-giua-thai-lan-va-nga-bi-huy-196240907145227103.htm) - 07:53 07/09/2024
+- 🦣 [Bão số 3 vừa đổ bộ, Quảng Ninh đã ghi nhận nhiều thiệt hại](https://nld.com.vn/bao-so-3-vua-do-bo-quang-ninh-da-ghi-nhan-nhieu-thiet-hai-196240907142105138.htm) - 07:44 07/09/2024
+- 🔥 [Khối ngoại bán ròng liên tục có đáng lo, nhà đầu tư nên mua hay bán cổ phiếu lúc này?](https://nld.com.vn/khoi-ngoai-ban-rong-lien-tuc-co-dang-lo-nha-dau-tu-nen-mua-hay-ban-co-phieu-luc-nay-19624090713502653.htm) - 07:38 07/09/2024
+- 🌝 [Bị người tình AI lừa bạc tỉ](https://nld.com.vn/bi-nguoi-tinh-ai-lua-bac-ti-196240907141041052.htm) - 07:37 07/09/2024
+- 👍 [Siêu thị ở Hà Nội, Hải Phòng và Quảng Ninh vắng tanh do mưa bão](https://nld.com.vn/sieu-thi-o-ha-noi-hai-phong-va-quang-ninh-vang-tanh-do-mua-bao-196240907132436533.htm) - 07:16 07/09/2024
+- 💂 [Dông lốc thổi tốc mái 60 ngôi nhà ở huyện biên giới Thanh Hóa](https://nld.com.vn/dong-loc-thoi-toc-mai-60-ngoi-nha-o-huyen-bien-gioi-thanh-hoa-196240907132115411.htm) - 07:13 07/09/2024
+- 🤖 [3 người được cho nợ tiền trúng đấu giá 205 lô đất](https://nld.com.vn/3-nguoi-duoc-cho-no-tien-trung-dau-gia-205-lo-dat-19624073017575958.htm) - 07:11 07/09/2024<!-- nld:END -->
 
 ## Báo SGGP
 <!-- sggp:START -->
