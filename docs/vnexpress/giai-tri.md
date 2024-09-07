@@ -15,7 +15,7 @@ sidebar_position: 5
 - 🪄 [Lưu Diệc Phi diện đầm đính 3.000 bông hoa](https://vnexpress.net/luu-diec-phi-dien-dam-dinh-3-000-bong-hoa-4790084.html) - 02:54 07/09/2024
 - 🤓 [Phim Việt giành hai giải tại LHP Venice 2024](https://vnexpress.net/phim-viet-gianh-hai-giai-tai-lhp-venice-2024-4790026.html) - 23:29 06/09/2024
 - 🫶 [&#39;Những ô cửa gió lộng&#39; &lpar;phần 3&rpar;: Nhớ &#39;bé Mí&#39; Quỳnh Thơ](https://vnexpress.net/nhung-o-cua-gio-long-phan-3-nho-be-mi-quynh-tho-4789963.html) - 22:00 06/09/2024
-- 🧑‍🏫 [Thiện Nhân: &#39;Tôi không vì tình riêng mà bỏ rơi bố mẹ&#39;](https://vnexpress.net/thien-nhan-toi-khong-vi-tinh-rieng-ma-bo-roi-bo-me-4787553.html) - 17:00 06/09/2024
+- 🧑‍🏫 [Thiện Nhân: &#39;Tôi không bỏ rơi bố mẹ vì tình riêng&#39;](https://vnexpress.net/thien-nhan-toi-khong-bo-roi-bo-me-vi-tinh-rieng-4787553.html) - 17:00 06/09/2024
 - 🦄 [Selena Gomez thành tỷ phú](https://vnexpress.net/selena-gomez-thanh-ty-phu-4789979.html) - 13:59 06/09/2024
 - 💫 [Mỹ nam đóng bom tấn võ hiệp với Ngô Kinh, Lý Liên Kiệt](https://vnexpress.net/my-nam-dong-bom-tan-vo-hiep-voi-ngo-kinh-ly-lien-kiet-4789731.html) - 13:00 06/09/2024
 - 🎊 [Nhạc hội 8Wonder Moon Festival dời sang ngày 14/9](https://vnexpress.net/nhac-hoi-8wonder-moon-festival-doi-sang-ngay-14-9-4789071.html) - 13:00 06/09/2024
