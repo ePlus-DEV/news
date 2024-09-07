@@ -5,12 +5,12 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Tan hoang sau bão Yagi](https://vnexpress.net/tan-hoang-sau-bao-yagi-4790233.html) - 10:29 07/09/2024
-- 🤓 [Gió bão mạnh hơn trong tối nay, Hà Nội kêu gọi dân không ra đường](https://vnexpress.net/gio-bao-manh-hon-trong-toi-nay-ha-noi-keu-goi-dan-khong-ra-duong-4790192.html) - 08:23 07/09/2024
+- 🤓 [Gió giật ở Hà Nội ngày càng mạnh](https://vnexpress.net/gio-giat-o-ha-noi-ngay-cang-manh-4790192.html) - 08:23 07/09/2024
 - ⚗️ [Cà Mau cần 1.300 tỷ đồng khắc phục hơn 20 km bờ biển sạt lở](https://vnexpress.net/ca-mau-can-1-300-ty-dong-khac-phuc-hon-20-km-bo-bien-sat-lo-4790187.html) - 07:33 07/09/2024
 - 🌊 [Phó thủ tướng yêu cầu tỉnh thành ven biển cấm đường đến 20h](https://vnexpress.net/pho-thu-tuong-yeu-cau-tinh-thanh-ven-bien-cam-duong-den-20h-4790165.html) - 06:33 07/09/2024
 - 🎓 [Thuyền vỡ chìm, cây đổ ngổn ngang do bão Yagi](https://vnexpress.net/thuyen-vo-chim-cay-do-ngon-ngang-do-bao-yagi-4790157.html) - 06:26 07/09/2024
 - 🔥 [Doanh nghiệp xả thải ra môi trường bị phạt hơn 2 tỷ đồng](https://vnexpress.net/doanh-nghiep-xa-thai-ra-moi-truong-bi-phat-hon-2-ty-dong-4790155.html) - 05:43 07/09/2024
-- 🦏 [Bão Yagi đánh đắm du thuyền, thổi bay mặt kính cao ốc](https://vnexpress.net/truc-tiep-dien-bien-sieu-bao-yagi-4790158.html) - 05:34 07/09/2024
+- 🦏 [Bão Yagi đánh đắm tàu, 13 người mất tích](https://vnexpress.net/truc-tiep-dien-bien-sieu-bao-yagi-4790158.html) - 05:34 07/09/2024
 - 👺 [Cây đổ, tôn bay, một người tử vong trong gió bão](https://vnexpress.net/truc-tiep-dien-bien-sieu-bao-yagi-4790052.html) - 01:30 07/09/2024
 - 🧑‍🏫 [Thủ tướng: Người dân hạn chế ra ngoài khi mưa bão](https://vnexpress.net/thu-tuong-nguoi-dan-han-che-ra-ngoai-khi-mua-bao-4790033.html) - 00:34 07/09/2024
 - 🚦 [Bão Yagi mạnh cấp 14 cách Quảng Ninh - Hải Phòng 160 km](https://vnexpress.net/bao-yagi-manh-cap-14-cach-quang-ninh-hai-phong-160-km-4790022.html) - 23:22 06/09/2024
