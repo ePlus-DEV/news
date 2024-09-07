@@ -52,7 +52,7 @@ sidebar_position: 1
 - 💄 [Xuyên đêm ở nơi phân tích &quot;mắt&quot; bão Yagi](https://dantri.com.vn/xa-hoi/xuyen-dem-o-noi-phan-tich-mat-bao-yagi-20240907064343090.htm) - 00:56 07/09/2024
 - 🎬 [Sáng nay bão Yagi tác động đất liền từ Quảng Ninh đến Nam Định](https://dantri.com.vn/xa-hoi/sang-nay-bao-yagi-tac-dong-dat-lien-tu-quang-ninh-den-nam-dinh-20240907065930053.htm) - 00:07 07/09/2024
 - 👀 [Hà Nội di dời trong đêm 160 người dân khỏi nhà tập thể cũ để tránh bão Yagi](https://dantri.com.vn/xa-hoi/ha-noi-di-doi-trong-dem-160-nguoi-dan-khoi-nha-tap-the-cu-de-tranh-bao-yagi-20240906235644708.htm) - 22:48 06/09/2024
-- 💃 [Chủ tịch Hà Nội khuyến cáo người dân thủ đô không ra đường](https://dantri.com.vn/xa-hoi/chu-tich-ha-noi-khuyen-cao-nguoi-dan-thu-do-khong-ra-duong-20240906235522689.htm) - 22:25 06/09/2024
+- 💃 [Hà Nội ngớt mưa bão, cây đổ la liệt trên đường phố](https://dantri.com.vn/xa-hoi/ha-noi-ngot-mua-bao-cay-do-la-liet-tren-duong-pho-20240906235522689.htm) - 22:25 06/09/2024
 - 🪜 [Một hộ dân Hải Phòng dùng 60 thùng xốp chống bão Yagi](https://dantri.com.vn/xa-hoi/mot-ho-dan-hai-phong-dung-60-thung-xop-chong-bao-yagi-20240906205939924.htm) - 22:00 06/09/2024
 - 📝 [Ảnh hưởng của bão Yagi, Hà Nội có mưa to, gió giật cấp 10](https://dantri.com.vn/xa-hoi/anh-huong-cua-bao-yagi-ha-noi-co-mua-to-gio-giat-cap-10-20240906232029617.htm) - 20:09 06/09/2024
 - 🧑‍💻 [Yagi là siêu bão dài nhất trong lịch sử được ghi nhận trên Biển Đông](https://dantri.com.vn/xa-hoi/yagi-la-sieu-bao-dai-nhat-trong-lich-su-duoc-ghi-nhan-tren-bien-dong-20240906222709951.htm) - 18:00 06/09/2024
