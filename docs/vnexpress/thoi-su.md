@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Bão Yagi chuẩn bị đổ bộ Quảng Ninh - Hải Phòng](https://vnexpress.net/truc-tiep-dien-bien-sieu-bao-yagi-4790052.html) - 01:30 07/09/2024
+- 🦒 [Hải Phòng - Quảng Ninh cây đổ, tôn bay trước giờ bão vào](https://vnexpress.net/truc-tiep-dien-bien-sieu-bao-yagi-4790052.html) - 01:30 07/09/2024
 - 🤓 [Thủ tướng: Người dân hạn chế ra ngoài khi mưa bão](https://vnexpress.net/thu-tuong-nguoi-dan-han-che-ra-ngoai-khi-mua-bao-4790033.html) - 00:34 07/09/2024
 - ⚗️ [Bão Yagi mạnh cấp 14 cách Quảng Ninh - Hải Phòng 160 km](https://vnexpress.net/bao-yagi-manh-cap-14-cach-quang-ninh-hai-phong-160-km-4790022.html) - 23:22 06/09/2024
 - 🌊 [Yagi - cơn bão tăng cấp bất thường](https://vnexpress.net/yagi-con-bao-tang-cap-bat-thuong-4789948.html) - 17:46 06/09/2024
