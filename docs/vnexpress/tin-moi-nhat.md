@@ -57,6 +57,4 @@ sidebar_position: 9
 - 👍 [Bạn gái đòi mua hàng giảm giá biết tôi đang khó khăn](https://vnexpress.net/ban-gai-doi-mua-hang-giam-gia-biet-toi-dang-kho-khan-4790449.html) - 12:00 08/09/2024
 - 🔥 [Những sản phẩm dự kiến ra mắt tại sự kiện Apple Glowtime](https://vnexpress.net/nhung-san-pham-du-kien-ra-mat-tai-su-kien-apple-glowtime-4790303.html) - 12:00 08/09/2024
 - 💄 [Các cơn bão được đặt tên thế nào?](https://vnexpress.net/cac-con-bao-duoc-dat-ten-the-nao-4790294.html) - 12:00 08/09/2024
-- 🤡 [Nơi nóng nhất Trái Đất trải qua mùa hè lịch sử](https://vnexpress.net/noi-nong-nhat-trai-dat-trai-qua-mua-he-lich-su-4790053.html) - 12:00 08/09/2024
-- ⛽️ [Tầm nhìn kinh tế ông Trump vạch ra cho nhiệm kỳ tương lai](https://vnexpress.net/tam-nhin-kinh-te-ong-trump-vach-ra-cho-nhiem-ky-tuong-lai-4789683.html) - 12:00 08/09/2024
-- 🚀 [Sabalenka lên đỉnh Mỹ Mở rộng nhờ tránh vết xe đổ](https://vnexpress.net/sabalenka-len-dinh-my-mo-rong-nho-tranh-vet-xe-do-4790492.html) - 11:49 08/09/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🤡 [Nơi nóng nhất Trái Đất trải qua mùa hè lịch sử](https://vnexpress.net/noi-nong-nhat-trai-dat-trai-qua-mua-he-lich-su-4790053.html) - 12:00 08/09/2024<!-- vnexpress-tin-moi-nhat:END -->
