@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [4 người chết, 4 người mất tích do sạt lở ở Sa Pa](https://vnexpress.net/4-nguoi-chet-4-nguoi-mat-tich-do-sat-lo-o-sa-pa-4790475.html) - 10:26 08/09/2024
+- 🦒 [6 người chết do sạt lở đất ở Sa Pa](https://vnexpress.net/6-nguoi-chet-do-sat-lo-dat-o-sa-pa-4790475.html) - 10:26 08/09/2024
 - 🤓 [Bộ đội, công an giúp dân khắc phục hậu quả bão Yagi](https://vnexpress.net/bo-doi-cong-an-giup-dan-khac-phuc-hau-qua-bao-yagi-4790269.html) - 09:51 08/09/2024
 - ⚗️ [Tháo dỡ bãi nuôi hàu trái phép trên sông Rác](https://vnexpress.net/thao-do-bai-nuoi-hau-trai-phep-tren-song-rac-4790455.html) - 09:50 08/09/2024
 - 🌊 [Đề xuất 60 dự án chỉnh trang đường ven biển Nha Trang](https://vnexpress.net/de-xuat-60-du-an-chinh-trang-duong-ven-bien-nha-trang-4790453.html) - 09:47 08/09/2024
@@ -14,7 +14,7 @@ sidebar_position: 1
 - 👺 [Sạt lở, ngập lụt chia cắt nhiều quốc lộ](https://vnexpress.net/sat-lo-ngap-lut-chia-cat-nhieu-quoc-lo-4790388.html) - 06:35 08/09/2024
 - 🧑‍🏫 [Hai học sinh tử vong trên sông Kiến Giang](https://vnexpress.net/hai-hoc-sinh-tu-vong-tren-song-kien-giang-4790393.html) - 06:05 08/09/2024
 - 🚦 [Giao thông chia cắt vì 17.000 cây đổ khắp Hà Nội](https://vnexpress.net/giao-thong-chia-cat-vi-17-000-cay-do-khap-ha-noi-4790379.html) - 04:51 08/09/2024
-- 🎉 [60 chuyến bay phải hoãn, hủy tại Nội Bài](https://vnexpress.net/60-chuyen-bay-phai-hoan-huy-tai-noi-bai-4790373.html) - 04:49 08/09/2024
+- 🎉 [145 chuyến bay bị hủy, chuyển hướng do bão Yagi](https://vnexpress.net/145-chuyen-bay-bi-huy-chuyen-huong-do-bao-yagi-4790373.html) - 04:49 08/09/2024
 - 🦒 [Nhà tốc mái, cột điện gãy đổ sau bão Yagi](https://vnexpress.net/nha-toc-mai-cot-dien-gay-do-sau-bao-yagi-4790372.html) - 04:39 08/09/2024
 - 🤗 [17 tỉnh miền Bắc nguy cơ cao sạt lở](https://vnexpress.net/17-tinh-mien-bac-nguy-co-cao-sat-lo-4790374.html) - 04:36 08/09/2024
 - 💼 [Bão Yagi làm 14 người chết](https://vnexpress.net/bao-yagi-lam-14-nguoi-chet-4790367.html) - 04:12 08/09/2024
