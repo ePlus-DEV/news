@@ -4,63 +4,63 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Bão Yagi suy yếu thành áp thấp nhiệt đới](https://vnexpress.net/bao-yagi-suy-yeu-thanh-ap-thap-nhiet-doi-4790305.html) - 01:48 08/09/2024
-- 🤓 [Cổ thụ bật gốc ngổn ngang ở trung tâm Hà Nội](https://vnexpress.net/co-thu-bat-goc-ngon-ngang-o-trung-tam-ha-noi-4790311.html) - 20:00 07/09/2024
-- ⚗️ [Người mẹ bất lực nhìn bè và con trai bị cuốn ra biển](https://vnexpress.net/nguoi-me-bat-luc-nhin-be-va-con-trai-bi-cuon-ra-bien-4790293.html) - 15:06 07/09/2024
-- 🌊 [&#39;Mái ấm Hoa Hồng lợi dụng việc từ thiện nhân đạo&#39;](https://vnexpress.net/mai-am-hoa-hong-loi-dung-viec-tu-thien-nhan-dao-4790251.html) - 13:03 07/09/2024
-- 🎓 [Tiếp tục kéo dài thời gian đóng cửa 3 sân bay](https://vnexpress.net/tiep-tuc-keo-dai-thoi-gian-dong-cua-3-san-bay-4790260.html) - 12:50 07/09/2024
-- 🔥 [4 người chết, 78 người bị thương do bão Yagi](https://vnexpress.net/4-nguoi-chet-78-nguoi-bi-thuong-do-bao-yagi-4790254.html) - 12:00 07/09/2024
-- 🦏 [Tan hoang vì bão Yagi](https://vnexpress.net/tan-hoang-vi-bao-yagi-4790233.html) - 10:29 07/09/2024
-- 👺 [Bão Yagi quét qua Hà Nội làm một người chết, 2.800 cây đổ](https://vnexpress.net/bao-yagi-quet-qua-ha-noi-lam-mot-nguoi-chet-2-800-cay-do-4790192.html) - 08:23 07/09/2024
-- 🧑‍🏫 [Cà Mau cần 1.300 tỷ đồng khắc phục hơn 20 km bờ biển sạt lở](https://vnexpress.net/ca-mau-can-1-300-ty-dong-khac-phuc-hon-20-km-bo-bien-sat-lo-4790187.html) - 07:33 07/09/2024
-- 🚦 [Phó thủ tướng yêu cầu tỉnh thành ven biển cấm đường đến 20h](https://vnexpress.net/pho-thu-tuong-yeu-cau-tinh-thanh-ven-bien-cam-duong-den-20h-4790165.html) - 06:33 07/09/2024
-- 🎉 [Thuyền vỡ chìm, cây đổ ngổn ngang do bão Yagi](https://vnexpress.net/thuyen-vo-chim-cay-do-ngon-ngang-do-bao-yagi-4790157.html) - 06:26 07/09/2024
-- 🦒 [Doanh nghiệp xả thải ra môi trường bị phạt hơn 2 tỷ đồng](https://vnexpress.net/doanh-nghiep-xa-thai-ra-moi-truong-bi-phat-hon-2-ty-dong-4790155.html) - 05:43 07/09/2024
-- 🤗 [Bão Yagi hoành hành 10 tiếng, đánh đắm nhiều tàu thuyền](https://vnexpress.net/truc-tiep-dien-bien-sieu-bao-yagi-4790158.html) - 05:34 07/09/2024
-- 💼 [Cây đổ, tôn bay, một người tử vong trong gió bão](https://vnexpress.net/truc-tiep-dien-bien-sieu-bao-yagi-4790052.html) - 01:30 07/09/2024
-- 🤩 [Thủ tướng: Người dân hạn chế ra ngoài khi mưa bão](https://vnexpress.net/thu-tuong-nguoi-dan-han-che-ra-ngoai-khi-mua-bao-4790033.html) - 00:34 07/09/2024
-- 🤡 [Bão Yagi mạnh cấp 14 cách Quảng Ninh - Hải Phòng 160 km](https://vnexpress.net/bao-yagi-manh-cap-14-cach-quang-ninh-hai-phong-160-km-4790022.html) - 23:22 06/09/2024
-- 💯 [Yagi - cơn bão tăng cấp bất thường](https://vnexpress.net/yagi-con-bao-tang-cap-bat-thuong-4789948.html) - 17:46 06/09/2024
-- 👺 [Hà Nội sơ tán dân tập thể cũ trong đêm tránh bão](https://vnexpress.net/ha-noi-so-tan-dan-tap-the-cu-trong-dem-tranh-bao-4790008.html) - 17:19 06/09/2024
-- 🌮 [Bão Yagi vào vịnh Bắc Bộ, sức phá hoại vẫn cực kỳ lớn](https://vnexpress.net/bao-yagi-vao-vinh-bac-bo-suc-pha-hoai-van-cuc-ky-lon-4789993.html) - 15:35 06/09/2024
-- 🥸 [Lửa thiêu rụi 500 xe máy của công nhân](https://vnexpress.net/lua-thieu-rui-500-xe-may-cua-cong-nhan-4789969.html) - 14:35 06/09/2024
-- 🐻 [Giao thông Hà Nội tê liệt nhiều giờ sau cơn giông](https://vnexpress.net/giao-thong-ha-noi-te-liet-nhieu-gio-sau-con-giong-4789954.html) - 13:08 06/09/2024
-- 👀 [Chằng néo máy bay ở Nội Bài trước siêu bão Yagi](https://vnexpress.net/chang-neo-may-bay-o-noi-bai-truoc-sieu-bao-yagi-4789959.html) - 13:08 06/09/2024
-- 🤔 [Di dời dân khỏi chung cư cũ nát để phòng bão Yagi](https://vnexpress.net/di-doi-dan-khoi-chung-cu-cu-nat-de-phong-bao-yagi-4789937.html) - 12:06 06/09/2024
-- 🕯 [Tăng thời gian đóng cửa sân bay Nội Bài](https://vnexpress.net/tang-thoi-gian-dong-cua-san-bay-noi-bai-4789951.html) - 11:58 06/09/2024
-- 😺 [Ông Nguyễn Huy Dũng làm Chủ tịch tỉnh Thái Nguyên](https://vnexpress.net/ong-nguyen-huy-dung-lam-chu-tich-tinh-thai-nguyen-4789861.html) - 10:13 06/09/2024
-- 🦆 [Người dân chằng chống nhà cửa trước bão Yagi](https://vnexpress.net/nguoi-dan-chang-chong-nha-cua-truoc-bao-yagi-4789846.html) - 10:04 06/09/2024
-- 🧰 [Tam Kỳ công bố logo](https://vnexpress.net/tam-ky-cong-bo-logo-4789676.html) - 09:39 06/09/2024
-- 🦍 [Cựu Phó chủ tịch TP HCM Nguyễn Thị Hồng bị khai trừ Đảng](https://vnexpress.net/cuu-pho-chu-tich-tp-hcm-nguyen-thi-hong-bi-khai-tru-dang-4789883.html) - 09:04 06/09/2024
-- 🧰 [Hối hả kéo thuyền bè lên đường tránh bão Yagi](https://vnexpress.net/hoi-ha-keo-thuyen-be-len-duong-tranh-bao-yagi-4789852.html) - 09:00 06/09/2024
-- 💃 [Hà Nội nhiều cây gãy đổ, một người chết](https://vnexpress.net/truc-tiep-dien-bien-sieu-bao-yagi-4789880-tong-thuat.html) - 08:33 06/09/2024
-- 🧰 [Siêu bão Yagi cách Quảng Ninh khoảng 430 km](https://vnexpress.net/sieu-bao-yagi-cach-quang-ninh-khoang-430-km-4789854.html) - 08:32 06/09/2024
-- 🚀 [Đóng một phần cầu Rạch Miễu trong 19 đêm để sửa chữa](https://vnexpress.net/dong-mot-phan-cau-rach-mieu-trong-19-dem-de-sua-chua-4789562.html) - 07:53 06/09/2024
-- 🎊 [&#39;Bão Yagi mạnh nhất 30 năm, người dân tránh ra đường&#39;](https://vnexpress.net/bao-yagi-manh-nhat-30-nam-nguoi-dan-tranh-ra-duong-4789810.html) - 07:12 06/09/2024
-- 🤭 [TP HCM đốn hạ nhiều cổ thụ trước mưa bão](https://vnexpress.net/tp-hcm-don-ha-nhieu-co-thu-truoc-mua-bao-4789816.html) - 07:03 06/09/2024
-- 🤗 [53 lượt cán bộ, chiến sĩ không nhận hối lộ](https://vnexpress.net/53-luot-can-bo-chien-si-khong-nhan-hoi-lo-4789712.html) - 06:40 06/09/2024
-- 🌈 [Dừng khai thác 10 đoàn tàu để tránh bão](https://vnexpress.net/dung-khai-thac-10-doan-tau-de-tranh-bao-4789776.html) - 05:49 06/09/2024
-- 🦣 [Huy động hơn 450.000 người, 6 máy bay chống bão Yagi](https://vnexpress.net/huy-dong-hon-450-000-nguoi-6-may-bay-chong-bao-yagi-4789801.html) - 05:47 06/09/2024
-- 🎡 [Đổ xô tích trữ nhu yếu phẩm trước bão](https://vnexpress.net/do-xo-tich-tru-nhu-yeu-pham-truoc-bao-4789718.html) - 04:49 06/09/2024
-- 🦏 [Xe khách tông container trên cao tốc, 7 người bị thương](https://vnexpress.net/xe-khach-tong-container-tren-cao-toc-7-nguoi-bi-thuong-4789730.html) - 04:41 06/09/2024
-- 🎊 [Hàng trăm cây xanh ở Thanh Hóa, Nghệ An bật gốc](https://vnexpress.net/hang-tram-cay-xanh-o-thanh-hoa-nghe-an-bat-goc-4789705.html) - 04:20 06/09/2024
-- 🫶 [CSGT đỡ đẻ sản phụ sinh đôi trên cao tốc Trung Lương](https://vnexpress.net/csgt-do-de-san-phu-sinh-doi-tren-cao-toc-trung-luong-4789538.html) - 03:40 06/09/2024
-- 🤔 [Cấm biển, di dân khỏi vùng nguy hiểm từ Quảng Ninh đến Nghệ An](https://vnexpress.net/truc-tiep-dien-bien-sieu-bao-yagi-4789657.html) - 02:27 06/09/2024
-- 🤠 [Tàu cao tốc đi Phú Quốc, Côn Đảo, Lý Sơn dừng chạy](https://vnexpress.net/tau-cao-toc-di-phu-quoc-con-dao-ly-son-dung-chay-4789600.html) - 02:18 06/09/2024
-- 🌜 [Đêm nay siêu bão Yagi vào vịnh Bắc Bộ, gây mưa lớn và giông lốc](https://vnexpress.net/dem-nay-sieu-bao-yagi-vao-vinh-bac-bo-gay-mua-lon-va-giong-loc-4789564.html) - 23:09 05/09/2024
-- 🕯 [Đề xuất người nổi tiếng chỉ được quảng cáo sản phẩm đã trực tiếp sử dụng](https://vnexpress.net/de-xuat-nguoi-noi-tieng-chi-duoc-quang-cao-san-pham-da-truc-tiep-su-dung-4789530.html) - 23:00 05/09/2024
-- 🤔 [Di dời hơn 13.000 hộ dân trước bão](https://vnexpress.net/di-doi-hon-13-000-ho-dan-truoc-bao-4789503.html) - 14:19 05/09/2024
-- 🏊 [Đóng cửa 4 sân bay để tránh bão Yagi](https://vnexpress.net/dong-cua-4-san-bay-de-tranh-bao-yagi-4789521.html) - 13:54 05/09/2024
-- 🌮 [Bộ Chính trị phân công người điều hành Tỉnh ủy Khánh Hòa](https://vnexpress.net/bo-chinh-tri-phan-cong-nguoi-dieu-hanh-tinh-uy-khanh-hoa-4789502.html) - 13:25 05/09/2024
-- 🫣 [Phó thủ tướng: Chống bão với tinh thần nghiêm khắc, không hối tiếc](https://vnexpress.net/pho-thu-tuong-chong-bao-voi-tinh-than-nghiem-khac-khong-hoi-tiec-4789442.html) - 11:37 05/09/2024
-- ⚗️ [Lũ cát cuốn trôi người đi đường ở Phan Thiết](https://vnexpress.net/lu-cat-cuon-troi-nguoi-di-duong-o-phan-thiet-4789498.html) - 11:35 05/09/2024
-- 🌜 [&#39;Có cơ sở quá tải vẫn cố giữ trẻ em để hút tài trợ&#39;](https://vnexpress.net/co-co-so-qua-tai-van-co-giu-tre-em-de-hut-tai-tro-4789460.html) - 11:00 05/09/2024
-- 🌁 [Hội cựu Công an nhân dân gia nhập Mặt trận Tổ quốc Việt Nam](https://vnexpress.net/hoi-cuu-cong-an-nhan-dan-gia-nhap-mat-tran-to-quoc-viet-nam-4789378.html) - 10:25 05/09/2024
-- 🐲 [&#39;Nhiều lần kiểm tra Mái ấm Hoa Hồng nhưng không phát hiện bạo hành trẻ&#39;](https://vnexpress.net/nhieu-lan-kiem-tra-mai-am-hoa-hong-nhung-khong-phat-hien-bao-hanh-tre-4789427.html) - 10:00 05/09/2024
-- ⛽️ [Xe chở hành lý va chạm máy bay tại Nội Bài](https://vnexpress.net/xe-cho-hanh-ly-va-cham-may-bay-tai-noi-bai-4789410.html) - 09:47 05/09/2024
-- 🗽 [Bí thư Thanh Hóa làm Phó ban Tổ chức Trung ương](https://vnexpress.net/bi-thu-thanh-hoa-lam-pho-ban-to-chuc-trung-uong-4789418.html) - 08:56 05/09/2024
-- 🔥 [Sạt taluy làm hư hỏng nhà ở Đà Lạt](https://vnexpress.net/sat-lo-da-lat-4789330.html) - 05:25 05/09/2024
-- 💯 [Đề xuất lưu dữ liệu kiểm định khí thải xe máy trong 36 tháng](https://vnexpress.net/de-xuat-luu-du-lieu-kiem-dinh-khi-thai-xe-may-trong-36-thang-4789264.html) - 05:25 05/09/2024
-- 🦆 [Chuyển đổi vị trí hơn 86.000 công chức, viên chức để ngừa tham nhũng](https://vnexpress.net/chuyen-doi-vi-tri-hon-86-000-cong-chuc-vien-chuc-de-ngua-tham-nhung-4789192.html) - 04:50 05/09/2024
-- 🫣 [Cao tốc TP HCM - Long Thành ùn ứ kéo dài khi sửa cầu](https://vnexpress.net/cao-toc-tp-hcm-long-thanh-un-u-keo-dai-khi-sua-cau-4789302.html) - 04:45 05/09/2024
-- 🤡 [Yagi mạnh lên thành siêu bão](https://vnexpress.net/yagi-manh-len-thanh-sieu-bao-4789195.html) - 04:44 05/09/2024<!-- vnexpress-thoi-su:END -->
+- 🦒 [Sạt lở làm chết 4 người ở Hòa Bình](https://vnexpress.net/sat-lo-lam-chet-4-nguoi-o-hoa-binh-4790346.html) - 02:42 08/09/2024
+- 🤓 [Bão Yagi suy yếu thành áp thấp nhiệt đới](https://vnexpress.net/bao-yagi-suy-yeu-thanh-ap-thap-nhiet-doi-4790305.html) - 01:48 08/09/2024
+- ⚗️ [Cổ thụ bật gốc ngổn ngang ở trung tâm Hà Nội](https://vnexpress.net/co-thu-bat-goc-ngon-ngang-o-trung-tam-ha-noi-4790311.html) - 20:00 07/09/2024
+- 🌊 [Người mẹ bất lực nhìn bè và con trai bị cuốn ra biển](https://vnexpress.net/nguoi-me-bat-luc-nhin-be-va-con-trai-bi-cuon-ra-bien-4790293.html) - 15:06 07/09/2024
+- 🎓 [&#39;Mái ấm Hoa Hồng lợi dụng việc từ thiện nhân đạo&#39;](https://vnexpress.net/mai-am-hoa-hong-loi-dung-viec-tu-thien-nhan-dao-4790251.html) - 13:03 07/09/2024
+- 🔥 [Tiếp tục kéo dài thời gian đóng cửa 3 sân bay](https://vnexpress.net/tiep-tuc-keo-dai-thoi-gian-dong-cua-3-san-bay-4790260.html) - 12:50 07/09/2024
+- 🦏 [4 người chết, 78 người bị thương do bão Yagi](https://vnexpress.net/4-nguoi-chet-78-nguoi-bi-thuong-do-bao-yagi-4790254.html) - 12:00 07/09/2024
+- 👺 [Tan hoang vì bão Yagi](https://vnexpress.net/tan-hoang-vi-bao-yagi-4790233.html) - 10:29 07/09/2024
+- 🧑‍🏫 [Bão Yagi quét qua Hà Nội làm một người chết, 2.800 cây đổ](https://vnexpress.net/bao-yagi-quet-qua-ha-noi-lam-mot-nguoi-chet-2-800-cay-do-4790192.html) - 08:23 07/09/2024
+- 🚦 [Cà Mau cần 1.300 tỷ đồng khắc phục hơn 20 km bờ biển sạt lở](https://vnexpress.net/ca-mau-can-1-300-ty-dong-khac-phuc-hon-20-km-bo-bien-sat-lo-4790187.html) - 07:33 07/09/2024
+- 🎉 [Phó thủ tướng yêu cầu tỉnh thành ven biển cấm đường đến 20h](https://vnexpress.net/pho-thu-tuong-yeu-cau-tinh-thanh-ven-bien-cam-duong-den-20h-4790165.html) - 06:33 07/09/2024
+- 🦒 [Thuyền vỡ chìm, cây đổ ngổn ngang do bão Yagi](https://vnexpress.net/thuyen-vo-chim-cay-do-ngon-ngang-do-bao-yagi-4790157.html) - 06:26 07/09/2024
+- 🤗 [Doanh nghiệp xả thải ra môi trường bị phạt hơn 2 tỷ đồng](https://vnexpress.net/doanh-nghiep-xa-thai-ra-moi-truong-bi-phat-hon-2-ty-dong-4790155.html) - 05:43 07/09/2024
+- 💼 [Bão Yagi hoành hành 10 tiếng, đánh đắm nhiều tàu thuyền](https://vnexpress.net/truc-tiep-dien-bien-sieu-bao-yagi-4790158.html) - 05:34 07/09/2024
+- 🤩 [Cây đổ, tôn bay, một người tử vong trong gió bão](https://vnexpress.net/truc-tiep-dien-bien-sieu-bao-yagi-4790052.html) - 01:30 07/09/2024
+- 🤡 [Thủ tướng: Người dân hạn chế ra ngoài khi mưa bão](https://vnexpress.net/thu-tuong-nguoi-dan-han-che-ra-ngoai-khi-mua-bao-4790033.html) - 00:34 07/09/2024
+- 💯 [Bão Yagi mạnh cấp 14 cách Quảng Ninh - Hải Phòng 160 km](https://vnexpress.net/bao-yagi-manh-cap-14-cach-quang-ninh-hai-phong-160-km-4790022.html) - 23:22 06/09/2024
+- 👺 [Yagi - cơn bão tăng cấp bất thường](https://vnexpress.net/yagi-con-bao-tang-cap-bat-thuong-4789948.html) - 17:46 06/09/2024
+- 🌮 [Hà Nội sơ tán dân tập thể cũ trong đêm tránh bão](https://vnexpress.net/ha-noi-so-tan-dan-tap-the-cu-trong-dem-tranh-bao-4790008.html) - 17:19 06/09/2024
+- 🥸 [Bão Yagi vào vịnh Bắc Bộ, sức phá hoại vẫn cực kỳ lớn](https://vnexpress.net/bao-yagi-vao-vinh-bac-bo-suc-pha-hoai-van-cuc-ky-lon-4789993.html) - 15:35 06/09/2024
+- 🐻 [Lửa thiêu rụi 500 xe máy của công nhân](https://vnexpress.net/lua-thieu-rui-500-xe-may-cua-cong-nhan-4789969.html) - 14:35 06/09/2024
+- 👀 [Giao thông Hà Nội tê liệt nhiều giờ sau cơn giông](https://vnexpress.net/giao-thong-ha-noi-te-liet-nhieu-gio-sau-con-giong-4789954.html) - 13:08 06/09/2024
+- 🤔 [Chằng néo máy bay ở Nội Bài trước siêu bão Yagi](https://vnexpress.net/chang-neo-may-bay-o-noi-bai-truoc-sieu-bao-yagi-4789959.html) - 13:08 06/09/2024
+- 🕯 [Di dời dân khỏi chung cư cũ nát để phòng bão Yagi](https://vnexpress.net/di-doi-dan-khoi-chung-cu-cu-nat-de-phong-bao-yagi-4789937.html) - 12:06 06/09/2024
+- 😺 [Tăng thời gian đóng cửa sân bay Nội Bài](https://vnexpress.net/tang-thoi-gian-dong-cua-san-bay-noi-bai-4789951.html) - 11:58 06/09/2024
+- 🦆 [Ông Nguyễn Huy Dũng làm Chủ tịch tỉnh Thái Nguyên](https://vnexpress.net/ong-nguyen-huy-dung-lam-chu-tich-tinh-thai-nguyen-4789861.html) - 10:13 06/09/2024
+- 🧰 [Người dân chằng chống nhà cửa trước bão Yagi](https://vnexpress.net/nguoi-dan-chang-chong-nha-cua-truoc-bao-yagi-4789846.html) - 10:04 06/09/2024
+- 🦍 [Tam Kỳ công bố logo](https://vnexpress.net/tam-ky-cong-bo-logo-4789676.html) - 09:39 06/09/2024
+- 🧰 [Cựu Phó chủ tịch TP HCM Nguyễn Thị Hồng bị khai trừ Đảng](https://vnexpress.net/cuu-pho-chu-tich-tp-hcm-nguyen-thi-hong-bi-khai-tru-dang-4789883.html) - 09:04 06/09/2024
+- 💃 [Hối hả kéo thuyền bè lên đường tránh bão Yagi](https://vnexpress.net/hoi-ha-keo-thuyen-be-len-duong-tranh-bao-yagi-4789852.html) - 09:00 06/09/2024
+- 🧰 [Hà Nội nhiều cây gãy đổ, một người chết](https://vnexpress.net/truc-tiep-dien-bien-sieu-bao-yagi-4789880-tong-thuat.html) - 08:33 06/09/2024
+- 🚀 [Siêu bão Yagi cách Quảng Ninh khoảng 430 km](https://vnexpress.net/sieu-bao-yagi-cach-quang-ninh-khoang-430-km-4789854.html) - 08:32 06/09/2024
+- 🎊 [Đóng một phần cầu Rạch Miễu trong 19 đêm để sửa chữa](https://vnexpress.net/dong-mot-phan-cau-rach-mieu-trong-19-dem-de-sua-chua-4789562.html) - 07:53 06/09/2024
+- 🤭 [&#39;Bão Yagi mạnh nhất 30 năm, người dân tránh ra đường&#39;](https://vnexpress.net/bao-yagi-manh-nhat-30-nam-nguoi-dan-tranh-ra-duong-4789810.html) - 07:12 06/09/2024
+- 🤗 [TP HCM đốn hạ nhiều cổ thụ trước mưa bão](https://vnexpress.net/tp-hcm-don-ha-nhieu-co-thu-truoc-mua-bao-4789816.html) - 07:03 06/09/2024
+- 🌈 [53 lượt cán bộ, chiến sĩ không nhận hối lộ](https://vnexpress.net/53-luot-can-bo-chien-si-khong-nhan-hoi-lo-4789712.html) - 06:40 06/09/2024
+- 🦣 [Dừng khai thác 10 đoàn tàu để tránh bão](https://vnexpress.net/dung-khai-thac-10-doan-tau-de-tranh-bao-4789776.html) - 05:49 06/09/2024
+- 🎡 [Huy động hơn 450.000 người, 6 máy bay chống bão Yagi](https://vnexpress.net/huy-dong-hon-450-000-nguoi-6-may-bay-chong-bao-yagi-4789801.html) - 05:47 06/09/2024
+- 🦏 [Đổ xô tích trữ nhu yếu phẩm trước bão](https://vnexpress.net/do-xo-tich-tru-nhu-yeu-pham-truoc-bao-4789718.html) - 04:49 06/09/2024
+- 🎊 [Xe khách tông container trên cao tốc, 7 người bị thương](https://vnexpress.net/xe-khach-tong-container-tren-cao-toc-7-nguoi-bi-thuong-4789730.html) - 04:41 06/09/2024
+- 🫶 [Hàng trăm cây xanh ở Thanh Hóa, Nghệ An bật gốc](https://vnexpress.net/hang-tram-cay-xanh-o-thanh-hoa-nghe-an-bat-goc-4789705.html) - 04:20 06/09/2024
+- 🤔 [CSGT đỡ đẻ sản phụ sinh đôi trên cao tốc Trung Lương](https://vnexpress.net/csgt-do-de-san-phu-sinh-doi-tren-cao-toc-trung-luong-4789538.html) - 03:40 06/09/2024
+- 🤠 [Cấm biển, di dân khỏi vùng nguy hiểm từ Quảng Ninh đến Nghệ An](https://vnexpress.net/truc-tiep-dien-bien-sieu-bao-yagi-4789657.html) - 02:27 06/09/2024
+- 🌜 [Tàu cao tốc đi Phú Quốc, Côn Đảo, Lý Sơn dừng chạy](https://vnexpress.net/tau-cao-toc-di-phu-quoc-con-dao-ly-son-dung-chay-4789600.html) - 02:18 06/09/2024
+- 🕯 [Đêm nay siêu bão Yagi vào vịnh Bắc Bộ, gây mưa lớn và giông lốc](https://vnexpress.net/dem-nay-sieu-bao-yagi-vao-vinh-bac-bo-gay-mua-lon-va-giong-loc-4789564.html) - 23:09 05/09/2024
+- 🤔 [Đề xuất người nổi tiếng chỉ được quảng cáo sản phẩm đã trực tiếp sử dụng](https://vnexpress.net/de-xuat-nguoi-noi-tieng-chi-duoc-quang-cao-san-pham-da-truc-tiep-su-dung-4789530.html) - 23:00 05/09/2024
+- 🏊 [Di dời hơn 13.000 hộ dân trước bão](https://vnexpress.net/di-doi-hon-13-000-ho-dan-truoc-bao-4789503.html) - 14:19 05/09/2024
+- 🌮 [Đóng cửa 4 sân bay để tránh bão Yagi](https://vnexpress.net/dong-cua-4-san-bay-de-tranh-bao-yagi-4789521.html) - 13:54 05/09/2024
+- 🫣 [Bộ Chính trị phân công người điều hành Tỉnh ủy Khánh Hòa](https://vnexpress.net/bo-chinh-tri-phan-cong-nguoi-dieu-hanh-tinh-uy-khanh-hoa-4789502.html) - 13:25 05/09/2024
+- ⚗️ [Phó thủ tướng: Chống bão với tinh thần nghiêm khắc, không hối tiếc](https://vnexpress.net/pho-thu-tuong-chong-bao-voi-tinh-than-nghiem-khac-khong-hoi-tiec-4789442.html) - 11:37 05/09/2024
+- 🌜 [Lũ cát cuốn trôi người đi đường ở Phan Thiết](https://vnexpress.net/lu-cat-cuon-troi-nguoi-di-duong-o-phan-thiet-4789498.html) - 11:35 05/09/2024
+- 🌁 [&#39;Có cơ sở quá tải vẫn cố giữ trẻ em để hút tài trợ&#39;](https://vnexpress.net/co-co-so-qua-tai-van-co-giu-tre-em-de-hut-tai-tro-4789460.html) - 11:00 05/09/2024
+- 🐲 [Hội cựu Công an nhân dân gia nhập Mặt trận Tổ quốc Việt Nam](https://vnexpress.net/hoi-cuu-cong-an-nhan-dan-gia-nhap-mat-tran-to-quoc-viet-nam-4789378.html) - 10:25 05/09/2024
+- ⛽️ [&#39;Nhiều lần kiểm tra Mái ấm Hoa Hồng nhưng không phát hiện bạo hành trẻ&#39;](https://vnexpress.net/nhieu-lan-kiem-tra-mai-am-hoa-hong-nhung-khong-phat-hien-bao-hanh-tre-4789427.html) - 10:00 05/09/2024
+- 🗽 [Xe chở hành lý va chạm máy bay tại Nội Bài](https://vnexpress.net/xe-cho-hanh-ly-va-cham-may-bay-tai-noi-bai-4789410.html) - 09:47 05/09/2024
+- 🔥 [Bí thư Thanh Hóa làm Phó ban Tổ chức Trung ương](https://vnexpress.net/bi-thu-thanh-hoa-lam-pho-ban-to-chuc-trung-uong-4789418.html) - 08:56 05/09/2024
+- 💯 [Sạt taluy làm hư hỏng nhà ở Đà Lạt](https://vnexpress.net/sat-lo-da-lat-4789330.html) - 05:25 05/09/2024
+- 🦆 [Đề xuất lưu dữ liệu kiểm định khí thải xe máy trong 36 tháng](https://vnexpress.net/de-xuat-luu-du-lieu-kiem-dinh-khi-thai-xe-may-trong-36-thang-4789264.html) - 05:25 05/09/2024
+- 🫣 [Chuyển đổi vị trí hơn 86.000 công chức, viên chức để ngừa tham nhũng](https://vnexpress.net/chuyen-doi-vi-tri-hon-86-000-cong-chuc-vien-chuc-de-ngua-tham-nhung-4789192.html) - 04:50 05/09/2024
+- 🤡 [Cao tốc TP HCM - Long Thành ùn ứ kéo dài khi sửa cầu](https://vnexpress.net/cao-toc-tp-hcm-long-thanh-un-u-keo-dai-khi-sua-cau-4789302.html) - 04:45 05/09/2024<!-- vnexpress-thoi-su:END -->
