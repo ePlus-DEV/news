@@ -7,7 +7,7 @@ sidebar_position: 10
 - 🔥 [Bác sĩ cấp cứu gian nan tìm đường di chuyển trong mưa bão Yagi](https://vnexpress.net/bac-si-cap-cuu-gian-nan-tim-duong-di-chuyen-trong-mua-bao-4790366.html) - 06:24 08/09/2024
 - 🥰 [Uống gì bảo vệ sức khỏe tim?](https://vnexpress.net/uong-gi-bao-ve-suc-khoe-tim-4790296.html) - 06:00 08/09/2024
 - 💡 [6 món trẻ đang lớn nên ăn thường xuyên](https://vnexpress.net/6-mon-tre-dang-lon-nen-an-thuong-xuyen-4790247.html) - 04:00 08/09/2024
-- 🤗 [Những món ăn trưa giàu protei](https://vnexpress.net/nhung-mon-an-trua-giau-protei-4790223.html) - 04:00 08/09/2024
+- 🤗 [Những món ăn trưa giàu protein](https://vnexpress.net/nhung-mon-an-trua-giau-protein-4790223.html) - 04:00 08/09/2024
 - 🪜 [TP HCM khởi động chiến dịch tiêm vaccine sởi tại trường học](https://vnexpress.net/tp-hcm-khoi-dong-chien-dich-tiem-vaccine-soi-tai-truong-hoc-4790347.html) - 03:36 08/09/2024
 - 🕯 [Nguyên nhân đau bàng quang mạn tính ở phụ nữ](https://vnexpress.net/nguyen-nhan-dau-bang-quang-man-tinh-o-phu-nu-4790306.html) - 03:00 08/09/2024
 - 🤭 [Ăn uống thế nào giúp tăng cường sinh lý nữ?](https://vnexpress.net/an-uong-the-nao-giup-tang-cuong-sinh-ly-nu-4790302.html) - 03:00 08/09/2024
