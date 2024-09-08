@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Hoàn thành nâng cấp đường nối cù lao phía Đông TP HCM](https://vnexpress.net/hoan-thanh-nang-cap-duong-noi-cu-lao-phia-dong-tp-hcm-4790430.html) - 07:20 08/09/2024
-- 🤓 [Lũ dâng cao ở Lạng Sơn, Yên Bái](https://vnexpress.net/lu-dang-cao-o-lang-son-yen-bai-4790417.html) - 06:38 08/09/2024
+- 🤓 [Lũ dâng cao ở Hà Nội, Lạng Sơn, Yên Bái](https://vnexpress.net/lu-dang-cao-o-ha-noi-lang-son-yen-bai-4790417.html) - 06:38 08/09/2024
 - ⚗️ [Sạt lở, ngập lụt chia cắt nhiều quốc lộ](https://vnexpress.net/sat-lo-ngap-lut-chia-cat-nhieu-quoc-lo-4790388.html) - 06:35 08/09/2024
 - 🌊 [Hai học sinh tử vong trên sông Kiến Giang](https://vnexpress.net/hai-hoc-sinh-tu-vong-tren-song-kien-giang-4790393.html) - 06:05 08/09/2024
 - 🎓 [Giao thông chia cắt vì 17.000 cây đổ khắp Hà Nội](https://vnexpress.net/giao-thong-chia-cat-vi-17-000-cay-do-khap-ha-noi-4790379.html) - 04:51 08/09/2024
