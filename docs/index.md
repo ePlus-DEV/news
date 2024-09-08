@@ -40,7 +40,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤠 [Người đẹp cao 1,78 m đăng quang Miss Universe Mexico](https://vnexpress.net/nguoi-dep-cao-1-78-m-dang-quang-miss-universe-mexico-4790410.html) - 07:05 08/09/2024
 - 🌈 [Thầy giáo nào có tới 74 học trò đỗ tiến sĩ?](https://vnexpress.net/thay-giao-nao-co-toi-74-hoc-tro-do-tien-si-4790263.html) - 07:00 08/09/2024
 - 🎬 [Hơn 6.000 vị trí mất liên lạc di động do bão](https://vnexpress.net/hon-6-000-vi-tri-mat-lien-lac-di-dong-do-bao-4790411.html) - 06:58 08/09/2024
-- 🚀 [Lũ dâng cao ở Lạng Sơn, Yên Bái](https://vnexpress.net/lu-dang-cao-o-lang-son-yen-bai-4790417.html) - 06:38 08/09/2024
+- 🚀 [Lũ dâng cao ở Hà Nội, Lạng Sơn, Yên Bái](https://vnexpress.net/lu-dang-cao-o-ha-noi-lang-son-yen-bai-4790417.html) - 06:38 08/09/2024
 - 🪄 [Sạt lở, ngập lụt chia cắt nhiều quốc lộ](https://vnexpress.net/sat-lo-ngap-lut-chia-cat-nhieu-quoc-lo-4790388.html) - 06:35 08/09/2024
 - 😎 [Bác sĩ cấp cứu gian nan tìm đường di chuyển trong mưa bão Yagi](https://vnexpress.net/bac-si-cap-cuu-gian-nan-tim-duong-di-chuyen-trong-mua-bao-4790366.html) - 06:24 08/09/2024
 - 🎊 [Hai học sinh tử vong trên sông Kiến Giang](https://vnexpress.net/hai-hoc-sinh-tu-vong-tren-song-kien-giang-4790393.html) - 06:05 08/09/2024
