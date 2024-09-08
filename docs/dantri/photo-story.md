@@ -5,7 +5,7 @@ sidebar_position: 28
 
 <!-- dantri-photo-story:START -->
 - 💪 [&quot;Cung cá heo&quot; Hạ Long tan hoang sau bão Yagi](https://dantri.com.vn/xa-hoi/cung-ca-heo-ha-long-tan-hoang-sau-bao-yagi-20240908182806304.htm) - 12:15 08/09/2024
-- 🧰 [Người Hà Nội ra đường ngắm phố, chụp ảnh sau bão tan](https://dantri.com.vn/du-lich/nguoi-ha-noi-ra-duong-ngam-pho-chup-anh-sau-bao-tan-20240908165711136.htm) - 11:54 08/09/2024
+- 🧰 [Hà Nội: Nhiều người ra đường ngổn ngang cảm xúc sau cơn bão tan](https://dantri.com.vn/du-lich/ha-noi-nhieu-nguoi-ra-duong-ngon-ngang-cam-xuc-sau-con-bao-tan-20240908165711136.htm) - 11:54 08/09/2024
 - 🧰 [Người dân khắc phục thiệt hại sau bão ở Hạ Long](https://dantri.com.vn/xa-hoi/nguoi-dan-khac-phuc-thiet-hai-sau-bao-o-ha-long-20240908154709489.htm) - 08:50 08/09/2024
 - 😎 [Đồ Sơn &quot;biến dạng&quot; sau bão Yagi](https://dantri.com.vn/xa-hoi/do-son-bien-dang-sau-bao-yagi-20240908135452988.htm) - 07:09 08/09/2024
 - 🎓 [Người phụ nữ thoát chết khi mái tôn tầng 2 đổ ập xuống trước cửa nhà](https://dantri.com.vn/xa-hoi/nguoi-phu-nu-thoat-chet-khi-mai-ton-tang-2-do-ap-xuong-truoc-cua-nha-20240908125743825.htm) - 06:27 08/09/2024
