@@ -316,56 +316,56 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Nghe kể chuyện làng mình](https://www.sggp.org.vn/nghe-ke-chuyen-lang-minh-post757782.html) - 23:39 07/09/2024
-- 🌝 [NASA hoãn phóng 2 vệ tinh ESCAPADE lên sao Hỏa](https://www.sggp.org.vn/nasa-hoan-phong-2-ve-tinh-escapade-len-sao-hoa-post757779.html) - 23:39 07/09/2024
-- 💃 [Trường Sa - nguồn cảm hứng lớn cho nghệ sĩ sáng tác](https://www.sggp.org.vn/truong-sa-nguon-cam-hung-lon-cho-nghe-si-sang-tac-post757781.html) - 23:39 07/09/2024
-- 🧑‍💻 [Ca sĩ Lê Thu Hiền: Ngọt ngào câu hát dân ca](https://www.sggp.org.vn/ca-si-le-thu-hien-ngot-ngao-cau-hat-dan-ca-post757786.html) - 23:39 07/09/2024
-- 🌊 [Những kết quả đáng chú ý tại vòng loại CAN 2025](https://www.sggp.org.vn/nhung-ket-qua-dang-chu-y-tai-vong-loai-can-2025-post757784.html) - 23:17 07/09/2024
-- 🧑‍💻 [Huyền thoại Liverpool qua đời ở tuổi 86](https://www.sggp.org.vn/huyen-thoai-liverpool-qua-doi-o-tuoi-86-post757783.html) - 23:17 07/09/2024
-- ⛽️ [Phản hồi bài viết “Long An: “Băm nát” ruộng lúa làm ao nuôi tôm nước mặn”: Thành lập tổ thanh tra các vấn đề liên quan](https://www.sggp.org.vn/phan-hoi-bai-viet-long-an-bam-nat-ruong-lua-lam-ao-nuoi-tom-nuoc-man-thanh-lap-to-thanh-tra-cac-van-de-lien-quan-post757774.html) - 22:49 07/09/2024
-- 😎 [Điện mừng Quốc khánh Brazil](https://www.sggp.org.vn/dien-mung-quoc-khanh-brazil-post757775.html) - 22:48 07/09/2024
-- 🌜 [Hoãn phiên tòa tuyên án ông Donald Trump tới sau bầu cử](https://www.sggp.org.vn/hoan-phien-toa-tuyen-an-ong-donald-trump-toi-sau-bau-cu-post757778.html) - 22:48 07/09/2024
-- 💻 [Quê hương mỗi người chỉ một](https://www.sggp.org.vn/que-huong-moi-nguoi-chi-mot-post757776.html) - 22:48 07/09/2024
-- 👍 [Tăng tốc tiêm chủng, ngăn “đám cháy” dịch sởi lan nhanh](https://www.sggp.org.vn/tang-toc-tiem-chung-ngan-dam-chay-dich-soi-lan-nhanh-post757772.html) - 22:30 07/09/2024
-- 🦆 [Học viện Chính trị quốc gia Hồ Chí Minh khai giảng năm học 2024-2025](https://www.sggp.org.vn/hoc-vien-chinh-tri-quoc-gia-ho-chi-minh-khai-giang-nam-hoc-2024-2025-post757771.html) - 22:30 07/09/2024
-- 🦩 [Siêu bão đổ bộ vào đất liền, thiệt hại nặng nề](https://www.sggp.org.vn/sieu-bao-do-bo-vao-dat-lien-thiet-hai-nang-ne-post757770.html) - 22:30 07/09/2024
-- 🥰 [HLV Erik ten Hag cần gì ở 7 trận đấu trong 22 ngày sau đợt trận quốc tế?](https://www.sggp.org.vn/hlv-erik-ten-hag-can-gi-o-7-tran-dau-trong-22-ngay-sau-dot-tran-quoc-te-post757747.html) - 22:19 07/09/2024
-- 🎬 [Luis Suarez bật khóc trên sân khi Messi gửi thông điệp đầy cảm xúc](https://www.sggp.org.vn/luis-suarez-bat-khoc-tren-san-khi-messi-gui-thong-diep-day-cam-xuc-post757767.html) - 16:59 07/09/2024
-- 🦩 [Vì sao Transfermarkt chỉ thừa nhận Ronaldo ghi 894 chứ không phải 900 bàn thắng](https://www.sggp.org.vn/vi-sao-transfermarkt-chi-thua-nhan-ronaldo-ghi-894-chu-khong-phai-900-ban-thang-post757765.html) - 16:27 07/09/2024
+- 🪜 [Boxing trẻ Việt Nam giành 3 HCĐ tại giải vô địch thiếu niên châu Á](https://www.sggp.org.vn/boxing-tre-viet-nam-gianh-3-hcd-tai-giai-vo-dich-thieu-nien-chau-a-post757801.html) - 01:20 08/09/2024
+- 🌝 [Đội tuyển lặn Việt Nam giành thêm 13 HCV tại World Cup 2024](https://www.sggp.org.vn/doi-tuyen-lan-viet-nam-gianh-them-13-hcv-tai-world-cup-2024-post757800.html) - 01:19 08/09/2024
+- 💃 [Lãnh đạo CIA và MI6 lần đầu tiên xuất hiện chung trước công chúng](https://www.sggp.org.vn/lanh-dao-cia-va-mi6-lan-dau-tien-xuat-hien-chung-truoc-cong-chung-post757802.html) - 01:16 08/09/2024
+- 🧑‍💻 [Đội bóng tệ nhất thế giới và chiến thắng sau 20 năm](https://www.sggp.org.vn/doi-bong-te-nhat-the-gioi-va-chien-thang-sau-20-nam-post757799.html) - 01:16 08/09/2024
+- 🌊 [Giữ sự trong sáng cho sân chơi năng khiếu](https://www.sggp.org.vn/giu-su-trong-sang-cho-san-choi-nang-khieu-post757798.html) - 01:15 08/09/2024
+- 🧑‍💻 [Nấm tràm Huế - lộc của trời](https://www.sggp.org.vn/nam-tram-hue-loc-cua-troi-post757797.html) - 01:15 08/09/2024
+- ⛽️ [Mỹ: Truy lùng đối tượng nổ súng gần quốc lộ](https://www.sggp.org.vn/my-truy-lung-doi-tuong-no-sung-gan-quoc-lo-post757794.html) - 01:15 08/09/2024
+- 😎 [Sản phẩm văn hóa Hàn Quốc được mùa](https://www.sggp.org.vn/san-pham-van-hoa-han-quoc-duoc-mua-post757792.html) - 01:13 08/09/2024
+- 🌜 [Đánh thức tiềm năng du lịch qua điện ảnh](https://www.sggp.org.vn/danh-thuc-tiem-nang-du-lich-qua-dien-anh-post757773.html) - 01:13 08/09/2024
+- 💻 [Vợ chồng và chuyện… hơn thua](https://www.sggp.org.vn/vo-chong-va-chuyen-hon-thua-post757793.html) - 01:12 08/09/2024
+- 👍 [Tìm đoàn kết trong chia rẽ](https://www.sggp.org.vn/tim-doan-ket-trong-chia-re-post757777.html) - 01:12 08/09/2024
+- 🦆 [Kyrgyzstan xóa Taliban khỏi danh sách các tổ chức bị cấm](https://www.sggp.org.vn/kyrgyzstan-xoa-taliban-khoi-danh-sach-cac-to-chuc-bi-cam-post757780.html) - 01:12 08/09/2024
+- 🦩 [Chống chọi với siêu bão](https://www.sggp.org.vn/chong-choi-voi-sieu-bao-post757789.html) - 00:14 08/09/2024
+- 🥰 [Tuyển Đức và Hà Lan cùng bùng nổ với những chiến thắng “5 sao”](https://www.sggp.org.vn/tuyen-duc-va-ha-lan-cung-bung-no-voi-nhung-chien-thang-5-sao-post757791.html) - 00:12 08/09/2024
+- 🎬 [Ngành thể thao TPHCM đẩy mạnh môi trường công bằng, minh bạch](https://www.sggp.org.vn/nganh-the-thao-tphcm-day-manh-moi-truong-cong-bang-minh-bach-post757788.html) - 00:12 08/09/2024
+- 🦩 [Bão số 3 suy yếu thành áp thấp nhiệt đới, nhiều nơi có mưa lớn](https://www.sggp.org.vn/bao-so-3-suy-yeu-thanh-ap-thap-nhiet-doi-nhieu-noi-co-mua-lon-post757790.html) - 00:12 08/09/2024
+- 🌮 [Sài Gòn Giải Phóng ngày 8/9/2024](https://www.sggp.org.vn/sai-gon-giai-phong-ngay-892024-post757785.html) - 23:50 07/09/2024
+- 👍 [Nghe kể chuyện làng mình](https://www.sggp.org.vn/nghe-ke-chuyen-lang-minh-post757782.html) - 23:39 07/09/2024
+- 🦒 [NASA hoãn phóng 2 vệ tinh ESCAPADE lên sao Hỏa](https://www.sggp.org.vn/nasa-hoan-phong-2-ve-tinh-escapade-len-sao-hoa-post757779.html) - 23:39 07/09/2024
+- 🤡 [Trường Sa - nguồn cảm hứng lớn cho nghệ sĩ sáng tác](https://www.sggp.org.vn/truong-sa-nguon-cam-hung-lon-cho-nghe-si-sang-tac-post757781.html) - 23:39 07/09/2024
+- 🐎 [Ca sĩ Lê Thu Hiền: Ngọt ngào câu hát dân ca](https://www.sggp.org.vn/ca-si-le-thu-hien-ngot-ngao-cau-hat-dan-ca-post757786.html) - 23:39 07/09/2024
+- 🦆 [Những kết quả đáng chú ý tại vòng loại CAN 2025](https://www.sggp.org.vn/nhung-ket-qua-dang-chu-y-tai-vong-loai-can-2025-post757784.html) - 23:17 07/09/2024
+- 🦅 [Huyền thoại Liverpool qua đời ở tuổi 86](https://www.sggp.org.vn/huyen-thoai-liverpool-qua-doi-o-tuoi-86-post757783.html) - 23:17 07/09/2024
+- 🫣 [Phản hồi bài viết “Long An: “Băm nát” ruộng lúa làm ao nuôi tôm nước mặn”: Thành lập tổ thanh tra các vấn đề liên quan](https://www.sggp.org.vn/phan-hoi-bai-viet-long-an-bam-nat-ruong-lua-lam-ao-nuoi-tom-nuoc-man-thanh-lap-to-thanh-tra-cac-van-de-lien-quan-post757774.html) - 22:49 07/09/2024
+- 🎭 [Điện mừng Quốc khánh Brazil](https://www.sggp.org.vn/dien-mung-quoc-khanh-brazil-post757775.html) - 22:48 07/09/2024
+- 🫶 [Hoãn phiên tòa tuyên án ông Donald Trump tới sau bầu cử](https://www.sggp.org.vn/hoan-phien-toa-tuyen-an-ong-donald-trump-toi-sau-bau-cu-post757778.html) - 22:48 07/09/2024
+- 🎓 [Quê hương mỗi người chỉ một](https://www.sggp.org.vn/que-huong-moi-nguoi-chi-mot-post757776.html) - 22:48 07/09/2024
+- 🤡 [Tăng tốc tiêm chủng, ngăn “đám cháy” dịch sởi lan nhanh](https://www.sggp.org.vn/tang-toc-tiem-chung-ngan-dam-chay-dich-soi-lan-nhanh-post757772.html) - 22:30 07/09/2024
+- 🦅 [Học viện Chính trị quốc gia Hồ Chí Minh khai giảng năm học 2024-2025](https://www.sggp.org.vn/hoc-vien-chinh-tri-quoc-gia-ho-chi-minh-khai-giang-nam-hoc-2024-2025-post757771.html) - 22:30 07/09/2024
+- 🧑‍🏫 [Siêu bão đổ bộ vào đất liền, thiệt hại nặng nề](https://www.sggp.org.vn/sieu-bao-do-bo-vao-dat-lien-thiet-hai-nang-ne-post757770.html) - 22:30 07/09/2024
+- 🕴 [HLV Erik ten Hag cần gì ở 7 trận đấu trong 22 ngày sau đợt trận quốc tế?](https://www.sggp.org.vn/hlv-erik-ten-hag-can-gi-o-7-tran-dau-trong-22-ngay-sau-dot-tran-quoc-te-post757747.html) - 22:19 07/09/2024
+- 🦆 [Luis Suarez bật khóc trên sân khi Messi gửi thông điệp đầy cảm xúc](https://www.sggp.org.vn/luis-suarez-bat-khoc-tren-san-khi-messi-gui-thong-diep-day-cam-xuc-post757767.html) - 16:59 07/09/2024
+- 🎃 [Vì sao Transfermarkt chỉ thừa nhận Ronaldo ghi 894 chứ không phải 900 bàn thắng](https://www.sggp.org.vn/vi-sao-transfermarkt-chi-thua-nhan-ronaldo-ghi-894-chu-khong-phai-900-ban-thang-post757765.html) - 16:27 07/09/2024
 - 🌮 [TPHCM triển khai phương án, biện pháp ứng phó ảnh hưởng bão số 3](https://www.sggp.org.vn/tphcm-trien-khai-phuong-an-bien-phap-ung-pho-anh-huong-bao-so-3-post757761.html) - 15:09 07/09/2024
-- 👍 [Tứ kết giải U15 quốc gia: Những cặp đấu cân sức](https://www.sggp.org.vn/tu-ket-giai-u15-quoc-gia-nhung-cap-dau-can-suc-post757762.html) - 14:36 07/09/2024
-- 🦒 [&quot;Ánh sáng đã tắt&quot; ở Parc des Princes - Didier Deschamps](https://www.sggp.org.vn/anh-sang-da-tat-o-parc-des-princes-didier-deschamps-post757759.html) - 13:27 07/09/2024
-- 🤡 [Bão số 3 ảnh hưởng trực tiếp đến Hà Nội, rủi ro thiên tai cấp 3](https://www.sggp.org.vn/bao-so-3-anh-huong-truc-tiep-den-ha-noi-rui-ro-thien-tai-cap-3-post757756.html) - 13:15 07/09/2024
-- 🐎 [Podcast bản tin tối 7-9: Cảnh báo 4 huyện ngoại thành Hà Nội nguy cơ cao ngập lụt; Hà Nội oằn mình trước bão số 3, thiệt hại nhiều nơi](https://www.sggp.org.vn/podcast-ban-tin-toi-7-9-canh-bao-4-huyen-ngoai-thanh-ha-noi-nguy-co-cao-ngap-lut-ha-noi-oan-minh-truoc-bao-so-3-thiet-hai-nhieu-noi-post757758.html) - 13:09 07/09/2024
-- 🦆 [Bản tin tối 7-9: Bão số 3 gây thiệt hại nặng nề tại Quảng Ninh và Hải Phòng; Từ vụ việc Mái ấm Hoa Hồng: Sẽ tăng cường thanh, kiểm tra các mái ấm thiện nguyện](https://www.sggp.org.vn/ban-tin-toi-7-9-bao-so-3-gay-thiet-hai-nang-ne-tai-quang-ninh-va-hai-phong-tu-vu-viec-mai-am-hoa-hong-se-tang-cuong-thanh-kiem-tra-cac-mai-am-thien-nguyen-post757757.html) - 13:00 07/09/2024
-- 🦅 [Hà Nội không ngừng, giảm cung cấp điện trong cơn bão số 3](https://www.sggp.org.vn/ha-noi-khong-ngung-giam-cung-cap-dien-trong-con-bao-so-3-post757753.html) - 12:53 07/09/2024
-- 🫣 [Sẽ kiểm tra, đánh giá kỹ các vụ đấu giá đất cao gấp nhiều lần giá khởi điểm](https://www.sggp.org.vn/se-kiem-tra-danh-gia-ky-cac-vu-dau-gia-dat-cao-gap-nhieu-lan-gia-khoi-diem-post757754.html) - 12:48 07/09/2024
-- 🎭 [Việt Nam là hình mẫu của Guinea-Bissau trong duy trì ổn định, đổi mới và phát triển kinh tế](https://www.sggp.org.vn/viet-nam-la-hinh-mau-cua-guinea-bissau-trong-duy-tri-on-dinh-doi-moi-va-phat-trien-kinh-te-post757750.html) - 12:46 07/09/2024
-- 🫶 [Cảnh báo dông, lốc, sét, mưa đá ở Nam bộ](https://www.sggp.org.vn/canh-bao-dong-loc-set-mua-da-o-nam-bo-post757751.html) - 12:13 07/09/2024
-- 🎓 [Đà Nẵng diễn tập sơ tán nhân dân khỏi vùng bão](https://www.sggp.org.vn/da-nang-dien-tap-so-tan-nhan-dan-khoi-vung-bao-post757752.html) - 12:04 07/09/2024
-- 🤡 [Khống chế đối tượng nghi ngáo đá, cầm mã tấu cố thủ trong nhà](https://www.sggp.org.vn/khong-che-doi-tuong-nghi-ngao-da-cam-ma-tau-co-thu-trong-nha-post757743.html) - 12:01 07/09/2024
-- 🦅 [Kéo dài thêm thời gian ngừng khai thác sân bay Vân Đồn, Cát Bi, Nội Bài do bão](https://www.sggp.org.vn/keo-dai-them-thoi-gian-ngung-khai-thac-san-bay-van-don-cat-bi-noi-bai-do-bao-post757749.html) - 12:01 07/09/2024
-- 🧑‍🏫 [Nhiều sai phạm trong cấp giấy chứng nhận quyền sử dụng đất tại Bạc Liêu](https://www.sggp.org.vn/nhieu-sai-pham-trong-cap-giay-chung-nhan-quyen-su-dung-dat-tai-bac-lieu-post757739.html) - 11:58 07/09/2024
-- 🕴 [Bão số 3 làm 4 người thiệt mạng, 78 người bị thương](https://www.sggp.org.vn/bao-so-3-lam-4-nguoi-thiet-mang-78-nguoi-bi-thuong-post757748.html) - 11:48 07/09/2024
-- 🦆 [Thông cổ thụ Đà Lạt liên tiếp ngã đổ](https://www.sggp.org.vn/thong-co-thu-da-lat-lien-tiep-nga-do-post757741.html) - 11:42 07/09/2024
-- 🎃 [Xôn xao clip 2 tài xế ẩu đả trên Quốc lộ 51](https://www.sggp.org.vn/xon-xao-clip-2-tai-xe-au-da-tren-quoc-lo-51-post757745.html) - 11:24 07/09/2024
-- 🌮 [Từ vụ việc Mái ấm Hoa Hồng: Sẽ tăng cường thanh, kiểm tra các mái ấm thiện nguyện](https://www.sggp.org.vn/tu-vu-viec-mai-am-hoa-hong-se-tang-cuong-thanh-kiem-tra-cac-mai-am-thien-nguyen-post757744.html) - 11:24 07/09/2024
-- 🥰 [Tháng 11-2024: Ban hành quy chế thi tốt nghiệp THPT năm 2025 trở đi](https://www.sggp.org.vn/thang-11-2024-ban-hanh-quy-che-thi-tot-nghiep-thpt-nam-2025-tro-di-post757746.html) - 11:19 07/09/2024
-- 🕯 [Ngày 8-9 mới có thể kiểm đếm thiệt hại nặng nề do bão số 3](https://www.sggp.org.vn/ngay-8-9-moi-co-the-kiem-dem-thiet-hai-nang-ne-do-bao-so-3-post757740.html) - 11:13 07/09/2024
-- 🙉 [U22 Việt Nam nhận thất bại thứ 2 tại Trung Quốc](https://www.sggp.org.vn/u22-viet-nam-nhan-that-bai-thu-2-tai-trung-quoc-post757737.html) - 11:12 07/09/2024
-- 💡 [US Open: Jannik Sinner vừa vượt qua chấn thương cổ tay, đánh bại Jack Drapper, sẽ đấu Taylor Fritz ở CK](https://www.sggp.org.vn/us-open-jannik-sinner-vua-vuot-qua-chan-thuong-co-tay-danh-bai-jack-drapper-se-dau-taylor-fritz-o-ck-post757727.html) - 11:09 07/09/2024
-- 💫 [Cảnh báo 4 huyện ngoại thành Hà Nội nguy cơ cao ngập lụt](https://www.sggp.org.vn/canh-bao-4-huyen-ngoai-thanh-ha-noi-nguy-co-cao-ngap-lut-post757736.html) - 10:22 07/09/2024
-- 🧑‍💻 [Bản tin ANTT 7-9: Cướp 430 tờ vé số của cụ bà; Dùng súng bắn 2 người thương vong](https://www.sggp.org.vn/ban-tin-antt-7-9-cuop-430-to-ve-so-cua-cu-ba-dung-sung-ban-2-nguoi-thuong-vong-post757734.html) - 10:00 07/09/2024
-- 🎊 [Hà Nội oằn mình trước bão số 3, thiệt hại nhiều nơi](https://www.sggp.org.vn/ha-noi-oan-minh-truoc-bao-so-3-thiet-hai-nhieu-noi-post757732.html) - 09:49 07/09/2024
-- 🤖 [Nghệ nhân 80 tuổi giữ nghề làm đèn ông sao](https://www.sggp.org.vn/nghe-nhan-80-tuoi-giu-nghe-lam-den-ong-sao-post757726.html) - 09:30 07/09/2024
-- 💫 [HLV Julian Nagelsmann chờ đợi hiệu quả của đội tuyển Đức](https://www.sggp.org.vn/hlv-julian-nagelsmann-cho-doi-hieu-qua-cua-doi-tuyen-duc-post757728.html) - 08:43 07/09/2024
-- 👨‍🏫 [Việt Nam và Guinea Bissau sẽ hợp tác cùng nhau tiến về phía trước](https://www.sggp.org.vn/viet-nam-va-guinea-bissau-se-hop-tac-cung-nhau-tien-ve-phia-truoc-post757722.html) - 08:36 07/09/2024
-- 🧰 [Sẵn sàng cho người dân vào tránh trú an toàn trong các cơ sở giáo dục](https://www.sggp.org.vn/san-sang-cho-nguoi-dan-vao-tranh-tru-an-toan-trong-cac-co-so-giao-duc-post757723.html) - 08:36 07/09/2024
-- 🥰 [Áp dụng nhiều phương pháp gây mê hồi sức tiên tiến trong ngành sản phụ khoa](https://www.sggp.org.vn/ap-dung-nhieu-phuong-phap-gay-me-hoi-suc-tien-tien-trong-nganh-san-phu-khoa-post757724.html) - 08:34 07/09/2024
-- 💼 [Áo vàng Rikunov lần thứ hai thắng chặng](https://www.sggp.org.vn/ao-vang-rikunov-lan-thu-hai-thang-chang-post757725.html) - 08:33 07/09/2024
-- 🤗 [Đường sắt đô thị, xe buýt Hà Nội tạm dừng hoạt động](https://www.sggp.org.vn/duong-sat-do-thi-xe-buyt-ha-noi-tam-dung-hoat-dong-post757720.html) - 07:54 07/09/2024
-- 🦩 [Thủ tướng Phạm Minh Chính: Phấn đấu hoàn thành và hoàn thành vượt mức 15/15 chỉ tiêu năm 2024](https://www.sggp.org.vn/thu-tuong-pham-minh-chinh-phan-dau-hoan-thanh-va-hoan-thanh-vuot-muc-1515-chi-tieu-nam-2024-post757717.html) - 07:49 07/09/2024
-- 🫶 [Hà Nội đón bão: chợ dân sinh đóng, siêu thị mở](https://www.sggp.org.vn/ha-noi-don-bao-cho-dan-sinh-dong-sieu-thi-mo-post757712.html) - 07:30 07/09/2024<!-- sggp:END -->
+- 🥰 [Tứ kết giải U15 quốc gia: Những cặp đấu cân sức](https://www.sggp.org.vn/tu-ket-giai-u15-quoc-gia-nhung-cap-dau-can-suc-post757762.html) - 14:36 07/09/2024
+- 🕯 [&quot;Ánh sáng đã tắt&quot; ở Parc des Princes - Didier Deschamps](https://www.sggp.org.vn/anh-sang-da-tat-o-parc-des-princes-didier-deschamps-post757759.html) - 13:27 07/09/2024
+- 🙉 [Trao tặng gần 363 xe đạp và bảng chống lóa đến học sinh nghèo](https://www.sggp.org.vn/trao-tang-gan-363-xe-dap-va-bang-chong-loa-den-hoc-sinh-ngheo-post757755.html) - 13:27 07/09/2024
+- 💡 [Bão số 3 ảnh hưởng trực tiếp đến Hà Nội, rủi ro thiên tai cấp 3](https://www.sggp.org.vn/bao-so-3-anh-huong-truc-tiep-den-ha-noi-rui-ro-thien-tai-cap-3-post757756.html) - 13:15 07/09/2024
+- 💫 [Podcast bản tin tối 7-9: Cảnh báo 4 huyện ngoại thành Hà Nội nguy cơ cao ngập lụt; Hà Nội oằn mình trước bão số 3, thiệt hại nhiều nơi](https://www.sggp.org.vn/podcast-ban-tin-toi-7-9-canh-bao-4-huyen-ngoai-thanh-ha-noi-nguy-co-cao-ngap-lut-ha-noi-oan-minh-truoc-bao-so-3-thiet-hai-nhieu-noi-post757758.html) - 13:09 07/09/2024
+- 🧑‍💻 [Bản tin tối 7-9: Bão số 3 gây thiệt hại nặng nề tại Quảng Ninh và Hải Phòng; Từ vụ việc Mái ấm Hoa Hồng: Sẽ tăng cường thanh, kiểm tra các mái ấm thiện nguyện](https://www.sggp.org.vn/ban-tin-toi-7-9-bao-so-3-gay-thiet-hai-nang-ne-tai-quang-ninh-va-hai-phong-tu-vu-viec-mai-am-hoa-hong-se-tang-cuong-thanh-kiem-tra-cac-mai-am-thien-nguyen-post757757.html) - 13:00 07/09/2024
+- 🎊 [Hà Nội không ngừng, giảm cung cấp điện trong cơn bão số 3](https://www.sggp.org.vn/ha-noi-khong-ngung-giam-cung-cap-dien-trong-con-bao-so-3-post757753.html) - 12:53 07/09/2024
+- 🤖 [Sẽ kiểm tra, đánh giá kỹ các vụ đấu giá đất cao gấp nhiều lần giá khởi điểm](https://www.sggp.org.vn/se-kiem-tra-danh-gia-ky-cac-vu-dau-gia-dat-cao-gap-nhieu-lan-gia-khoi-diem-post757754.html) - 12:48 07/09/2024
+- 💫 [Việt Nam là hình mẫu của Guinea-Bissau trong duy trì ổn định, đổi mới và phát triển kinh tế](https://www.sggp.org.vn/viet-nam-la-hinh-mau-cua-guinea-bissau-trong-duy-tri-on-dinh-doi-moi-va-phat-trien-kinh-te-post757750.html) - 12:46 07/09/2024
+- 👨‍🏫 [Cảnh báo dông, lốc, sét, mưa đá ở Nam bộ](https://www.sggp.org.vn/canh-bao-dong-loc-set-mua-da-o-nam-bo-post757751.html) - 12:13 07/09/2024
+- 🧰 [Đà Nẵng diễn tập sơ tán nhân dân khỏi vùng bão](https://www.sggp.org.vn/da-nang-dien-tap-so-tan-nhan-dan-khoi-vung-bao-post757752.html) - 12:04 07/09/2024
+- 🥰 [Khống chế đối tượng nghi ngáo đá, cầm mã tấu cố thủ trong nhà](https://www.sggp.org.vn/khong-che-doi-tuong-nghi-ngao-da-cam-ma-tau-co-thu-trong-nha-post757743.html) - 12:01 07/09/2024
+- 💼 [Kéo dài thêm thời gian ngừng khai thác sân bay Vân Đồn, Cát Bi, Nội Bài do bão](https://www.sggp.org.vn/keo-dai-them-thoi-gian-ngung-khai-thac-san-bay-van-don-cat-bi-noi-bai-do-bao-post757749.html) - 12:01 07/09/2024
+- 🤗 [Nhiều sai phạm trong cấp giấy chứng nhận quyền sử dụng đất tại Bạc Liêu](https://www.sggp.org.vn/nhieu-sai-pham-trong-cap-giay-chung-nhan-quyen-su-dung-dat-tai-bac-lieu-post757739.html) - 11:58 07/09/2024
+- 🦩 [Bão số 3 làm 4 người thiệt mạng, 78 người bị thương](https://www.sggp.org.vn/bao-so-3-lam-4-nguoi-thiet-mang-78-nguoi-bi-thuong-post757748.html) - 11:48 07/09/2024
+- 🫶 [Thông cổ thụ Đà Lạt liên tiếp ngã đổ](https://www.sggp.org.vn/thong-co-thu-da-lat-lien-tiep-nga-do-post757741.html) - 11:42 07/09/2024<!-- sggp:END -->
 
 ## Báo VTC
 <!-- vtc:START -->
