@@ -12,7 +12,7 @@ sidebar_position: 1
 - 🔥 [Bộ đội, công an giúp dân khắc phục hậu quả bão Yagi](https://vnexpress.net/bo-doi-cong-an-giup-dan-khac-phuc-hau-qua-bao-yagi-4790269.html) - 09:51 08/09/2024
 - 🦏 [Tháo dỡ bãi nuôi hàu trái phép trên sông Rác](https://vnexpress.net/thao-do-bai-nuoi-hau-trai-phep-tren-song-rac-4790455.html) - 09:50 08/09/2024
 - 👺 [Đề xuất 60 dự án chỉnh trang đường ven biển Nha Trang](https://vnexpress.net/de-xuat-60-du-an-chinh-trang-duong-ven-bien-nha-trang-4790453.html) - 09:47 08/09/2024
-- 🧑‍🏫 [Thủ tướng yêu cầu xuất gạo ngay cho dân bị ảnh hưởng bão Yagi](https://vnexpress.net/thu-tuong-yeu-cau-xuat-gao-ngay-cho-dan-bi-anh-huong-bao-yagi-4790454.html) - 09:09 08/09/2024
+- 🧑‍🏫 [Thủ tướng yêu cầu hỗ trợ khẩn cấp người dân thiệt hại do bão](https://vnexpress.net/thu-tuong-yeu-cau-ho-tro-khan-cap-nguoi-dan-thiet-hai-do-bao-4790454.html) - 09:09 08/09/2024
 - 🚦 [Hoàn thành nâng cấp đường nối cù lao phía Đông TP HCM](https://vnexpress.net/hoan-thanh-nang-cap-duong-noi-cu-lao-phia-dong-tp-hcm-4790430.html) - 07:20 08/09/2024
 - 🎉 [Lũ dâng cao ở Hà Nội, Lạng Sơn, Yên Bái](https://vnexpress.net/lu-dang-cao-o-ha-noi-lang-son-yen-bai-4790417.html) - 06:38 08/09/2024
 - 🦒 [Sạt lở, ngập lụt chia cắt nhiều quốc lộ](https://vnexpress.net/sat-lo-ngap-lut-chia-cat-nhieu-quoc-lo-4790388.html) - 06:35 08/09/2024
