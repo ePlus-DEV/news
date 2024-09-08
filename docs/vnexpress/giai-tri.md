@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [4 tiết mục âm hưởng truyền thống khấy động sân khấu &#39;Anh trai&#39;](https://vnexpress.net/4-tiet-muc-am-huong-truyen-thong-khay-dong-san-khau-anh-trai-4790335.html) - 05:26 08/09/2024
+- 🌏 [4 tiết mục âm hưởng truyền thống khuấy động sân khấu &#39;Anh trai&#39;](https://vnexpress.net/4-tiet-muc-am-huong-truyen-thong-khuay-dong-san-khau-anh-trai-4790335.html) - 05:26 08/09/2024
 - 💫 [Trần Nghiên Hy diễn cảnh hôn tài tử kém 19 tuổi](https://vnexpress.net/tran-nghien-hy-dien-canh-hon-tai-tu-kem-19-tuoi-4790333.html) - 03:22 08/09/2024
 - 🌮 [Loạt cổ vật đa chất liệu trưng bày ở TP HCM](https://vnexpress.net/loat-co-vat-da-chat-lieu-trung-bay-o-tp-hcm-4790190.html) - 02:34 08/09/2024
 - 🧠 [Anh Tú khiến đồng nghiệp &#39;nổi da gà&#39; khi hát ballad](https://vnexpress.net/anh-tu-khien-dong-nghiep-noi-da-ga-khi-hat-ballad-4790330.html) - 02:21 08/09/2024
