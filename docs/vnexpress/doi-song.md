@@ -5,7 +5,7 @@ sidebar_position: 6
 
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Thế hệ không được làm ông bà](https://vnexpress.net/the-he-khong-duoc-lam-ong-ba-4790101.html) - 01:09 08/09/2024
-- 🎓 [Mở cửa đón người lạ đến trú bão Yagi](https://vnexpress.net/mo-cua-don-nguoi-la-den-tru-bao-yagi-4790272.html) - 15:54 07/09/2024
+- 🎓 [Nhiều gia đình mở lòng đón người cơ nhỡ trong cơn bão Yagy](https://vnexpress.net/nhieu-gia-dinh-mo-long-don-nguoi-co-nho-trong-con-bao-yagy-4790272.html) - 15:54 07/09/2024
 - 🚦 [Dân chung cư lo sợ vì rung lắc, nước tràn vào nhà do bão](https://vnexpress.net/dan-chung-cu-lo-so-vi-rung-lac-nuoc-tran-vao-nha-do-bao-4790248.html) - 12:44 07/09/2024
 - 🦣 [Bất an vì không thể liên lạc với người thân ở vùng bão](https://vnexpress.net/bat-an-vi-khong-the-lien-lac-voi-nguoi-than-o-vung-bao-4790243.html) - 11:19 07/09/2024
 - 🎓 [Người Hà Nội nấu cơm sớm, sạc tích điện đối phó bão](https://vnexpress.net/nguoi-ha-noi-nau-com-som-sac-tich-dien-doi-pho-bao-4790231.html) - 10:28 07/09/2024
