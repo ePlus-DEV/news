@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Hơn 20 tàu du lịch ở Tuần Châu chìm vì bão Yagi](https://vnexpress.net/hon-20-tau-du-lich-o-tuan-chau-chim-vi-bao-yagi-4790415.html) - 08:56 08/09/2024
+- 💂 [Hơn 20 tàu du lịch Hạ Long chìm vì bão Yagi](https://vnexpress.net/hon-20-tau-du-lich-ha-long-chim-vi-bao-yagi-4790415.html) - 08:56 08/09/2024
 - 🪄 [Hải Phòng nổi tiếng với loài cây nào?](https://vnexpress.net/hai-phong-noi-tieng-voi-loai-cay-nao-4790382.html) - 04:29 08/09/2024
 - 🦅 [Gen Z xấu hổ vì những chuyến du lịch tiệc tùng](https://vnexpress.net/gen-z-xau-ho-vi-nhung-chuyen-du-lich-tiec-tung-4790004.html) - 17:00 07/09/2024
 - 🕴 [Côn Đảo phạt nhà hàng 65 triệu đồng vì bán ốc quý hiếm](https://vnexpress.net/con-dao-phat-nha-hang-65-trieu-dong-vi-ban-oc-quy-hiem-4789931.html) - 01:29 07/09/2024
