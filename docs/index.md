@@ -254,7 +254,7 @@ phần bộ phận cơ thể](https://thanhnien.vn/bo-cong-an-de-xuat-pham-nhan-
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Chủ nhân “biệt phủ đẹp nhất Cà Mau&quot; lên tiếng](https://nld.com.vn/chu-nhan-biet-phu-dep-nhat-ca-mau-len-tieng-196240908095829851.htm) - 11:38 08/09/2024
+- 🐎 [Chủ nhân “biệt phủ đẹp nhất Cà Mau&quot; vừa nói gì?](https://nld.com.vn/chu-nhan-biet-phu-dep-nhat-ca-mau-len-tieng-196240908095829851.htm) - 11:38 08/09/2024
 - 😺 [Bão số 3 làm 22 người chết và mất tích, thiệt hại rất nặng nề về kinh tế](https://nld.com.vn/bao-so-3-lam-22-nguoi-chet-va-mat-tich-thiet-hai-rat-nang-ne-ve-kinh-te-196240908181458476.htm) - 11:32 08/09/2024
 - 👍 [Bắt khẩn cấp nhóm đối tượng mua bán người ở Bình Định và Phú Yên](https://nld.com.vn/bat-khan-cap-nhom-doi-tuong-mua-ban-nguoi-o-binh-dinh-va-phu-yen-196240908180624318.htm) - 11:28 08/09/2024
 - 🥷 [Hàng chục tàu du lịch ở Tuần Châu bị chìm trong bão dữ Yagi, thiệt hại hàng tỉ đồng](https://nld.com.vn/hang-chuc-tau-du-lich-o-tuan-chau-bi-chim-trong-bao-du-yagi-thiet-hai-hang-ti-dong-196240908175753677.htm) - 11:22 08/09/2024
