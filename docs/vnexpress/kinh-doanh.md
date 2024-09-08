@@ -13,7 +13,7 @@ sidebar_position: 3
 - 🤩 [Kinh tế châu Âu yếu hơn dự tính](https://vnexpress.net/kinh-te-chau-au-yeu-hon-du-tinh-4790193.html) - 02:25 08/09/2024
 - 🌮 [Sabeco dự chi 830 tỷ đồng thâu tóm bia Sài Gòn Bình Tây](https://vnexpress.net/sabeco-du-chi-830-ty-dong-thau-tom-bia-sai-gon-binh-tay-4790325.html) - 02:13 08/09/2024
 - 🧰 [Chuỗi cầm đồ F88 lãi gần nửa tỷ mỗi ngày](https://vnexpress.net/chuoi-cam-do-f88-lai-gan-nua-ty-moi-ngay-4790215.html) - 17:51 07/09/2024
-- 🤔 [Hơn 3 triệu khách hàng bị cắt điện vì bão Yagi](https://vnexpress.net/nhieu-tinh-thanh-phia-bac-van-mat-dien-4790273.html) - 17:44 07/09/2024
+- 🤔 [Hơn 3 triệu khách hàng bị cắt điện vì bão Yagi](https://vnexpress.net/hon-3-trieu-khach-hang-bi-cat-dien-vi-bao-yagi-4790273.html) - 17:44 07/09/2024
 - 🧑‍💻 [Doanh thu bán dầu khí Nga năm nay có thể tăng](https://vnexpress.net/doanh-thu-ban-dau-khi-nga-nam-nay-co-the-tang-4790114.html) - 17:31 07/09/2024
 - 🕴 [Phó thống đốc: Các nhà băng đã chia sẻ với doanh nghiệp rất nhiều](https://vnexpress.net/pho-thong-doc-cac-nha-bang-da-chia-se-voi-doanh-nghiep-rat-nhieu-4790292.html) - 17:24 07/09/2024
 - 🦩 [Toàn bộ Hải Phòng, Quảng Ninh mất điện](https://vnexpress.net/toan-bo-hai-phong-quang-ninh-mat-dien-vi-bao-yagi-4790200.html) - 08:03 07/09/2024
