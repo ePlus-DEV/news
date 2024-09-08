@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Giá rau xanh tăng mạnh sau bão](https://vnexpress.net/gia-rau-xanh-tang-manh-sau-bao-4790435.html) - 10:03 08/09/2024
+- ⛽️ [Giá rau xanh tăng sau bão](https://vnexpress.net/gia-rau-xanh-tang-sau-bao-4790435.html) - 10:03 08/09/2024
 - 🐲 [Trung Quốc không mua vàng dự trữ 4 tháng liên tiếp](https://vnexpress.net/trung-quoc-khong-mua-vang-du-tru-4-thang-lien-tiep-4790409.html) - 10:00 08/09/2024
 - 🔥 [Người dân xếp hàng mua xăng tại Quảng Ninh](https://vnexpress.net/nguoi-dan-xep-hang-mua-xang-tai-quang-ninh-4790434.html) - 08:03 08/09/2024
 - 🐵 [Nhiều địa phương cấp điện trở lại sau bão Yagi](https://vnexpress.net/nhieu-dia-phuong-cap-dien-tro-lai-sau-bao-yagi-4790420.html) - 07:28 08/09/2024
