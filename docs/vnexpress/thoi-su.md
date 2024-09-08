@@ -4,8 +4,8 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cứu 16 ngư dân trong bão Yagi](https://vnexpress.net/cuu-16-ngu-dan-trong-bao-yagi-4790510.html) - 14:39 08/09/2024
-- 🤓 [Hà Nội sẽ cứu cây xanh gãy đổ do bão Yagi](https://vnexpress.net/ha-noi-se-cuu-cay-xanh-gay-do-do-bao-yagi-4790498.html) - 13:33 08/09/2024
+- 🦒 [Cứu 17 người gặp nạn trên vịnh Hạ Long](https://vnexpress.net/cuu-17-nguoi-gap-nan-tren-vinh-ha-long-4790510.html) - 14:39 08/09/2024
+- 🤓 [Chủ tịch Hà Nội yêu cầu cứu cây xanh gãy đổ](https://vnexpress.net/chu-tich-ha-noi-yeu-cau-cuu-cay-xanh-gay-do-4790498.html) - 13:33 08/09/2024
 - ⚗️ [Thủ tướng: Nơi nào an toàn thì cho học sinh đến trường ngay](https://vnexpress.net/thu-tuong-noi-nao-an-toan-thi-cho-hoc-sinh-den-truong-ngay-4790484.html) - 12:39 08/09/2024
 - 🌊 [Hai sĩ quan hy sinh khi phòng chống bão Yagi](https://vnexpress.net/hai-si-quan-hy-sinh-khi-phong-chong-bao-yagi-4790487.html) - 12:12 08/09/2024
 - 🎓 [6 người chết do sạt lở đất ở Sa Pa](https://vnexpress.net/6-nguoi-chet-do-sat-lo-dat-o-sa-pa-4790475.html) - 10:26 08/09/2024
