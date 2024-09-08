@@ -8,7 +8,7 @@ sidebar_position: 2
 - 🕴 [Thổ Nhĩ Kỳ kêu gọi lập liên minh Hồi giáo đối phó Israel](https://vnexpress.net/tho-nhi-ky-keu-goi-lap-lien-minh-hoi-giao-doi-pho-israel-4790488.html) - 12:18 08/09/2024
 - 🤭 [Tầm nhìn kinh tế ông Trump vạch ra cho nhiệm kỳ tương lai](https://vnexpress.net/tam-nhin-kinh-te-ong-trump-vach-ra-cho-nhiem-ky-tuong-lai-4789683.html) - 12:00 08/09/2024
 - 🧑‍💻 [Nga tuyên bố kiểm soát thành phố gần Pokrovsk](https://vnexpress.net/nga-tuyen-bo-kiem-soat-thanh-pho-gan-pokrovsk-4790467.html) - 10:35 08/09/2024
-- 🦏 [Nổ súng ở biên giới Bờ Tây - Jordan, ba người chết](https://vnexpress.net/no-sung-o-bien-gioi-bo-tay-jordan-ba-nguoi-chet-4790447.html) - 09:03 08/09/2024
+- 🦏 [Nổ súng ở biên giới Bờ Tây - Jordan, 4 người chết](https://vnexpress.net/no-sung-o-bien-gioi-bo-tay-jordan-4-nguoi-chet-4790447.html) - 09:03 08/09/2024
 - 🦒 [Khoảnh khắc rocket Hezbollah bay tới tấp vào Israel](https://vnexpress.net/khoanh-khac-rocket-hezbollah-bay-toi-tap-vao-israel-4790405.html) - 07:35 08/09/2024
 - 🌈 [Quốc vương có 16 thê thiếp của Eswatini](https://vnexpress.net/quoc-vuong-co-16-the-thiep-cua-eswatini-4789355.html) - 04:38 08/09/2024
 - 🧑‍🏫 [Ông Trump muốn sửa Hiến pháp Mỹ để bãi nhiệm phó tổng thống](https://vnexpress.net/ong-trump-muon-sua-hien-phap-my-de-bai-nhiem-pho-tong-thong-4790358.html) - 03:58 08/09/2024
