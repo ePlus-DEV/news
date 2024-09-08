@@ -41,7 +41,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌈 [Bộ đội, công an giúp dân khắc phục hậu quả bão Yagi](https://vnexpress.net/bo-doi-cong-an-giup-dan-khac-phuc-hau-qua-bao-yagi-4790269.html) - 09:51 08/09/2024
 - 🎬 [Tháo dỡ bãi nuôi hàu trái phép trên sông Rác](https://vnexpress.net/thao-do-bai-nuoi-hau-trai-phep-tren-song-rac-4790455.html) - 09:50 08/09/2024
 - 🚀 [Đề xuất 60 dự án chỉnh trang đường ven biển Nha Trang](https://vnexpress.net/de-xuat-60-du-an-chinh-trang-duong-ven-bien-nha-trang-4790453.html) - 09:47 08/09/2024
-- 🪄 [Nhiều tỉnh, thành kéo dài thời gian nghỉ học vì bão Yagi](https://vnexpress.net/nhieu-tinh-thanh-keo-dai-thoi-gian-nghi-hoc-vi-bao-yagi-4790438.html) - 09:39 08/09/2024
+- 🪄 [Nhiều tỉnh, thành kéo dài thời gian nghỉ học](https://vnexpress.net/nhieu-tinh-thanh-keo-dai-thoi-gian-nghi-hoc-4790438.html) - 09:39 08/09/2024
 - 😎 [Người Hải Phòng chạy đôn đáo tìm chỗ sạc điện](https://vnexpress.net/nguoi-hai-phong-chay-don-dao-tim-cho-sac-dien-4790450.html) - 09:35 08/09/2024
 - 🎊 [Đây là chữ gì?](https://vnexpress.net/day-la-chu-gi-4789766.html) - 09:29 08/09/2024
 - ⚗️ [Thủ tướng yêu cầu xuất gạo ngay cho dân bị ảnh hưởng bão Yagi](https://vnexpress.net/thu-tuong-yeu-cau-xuat-gao-ngay-cho-dan-bi-anh-huong-bao-yagi-4790454.html) - 09:09 08/09/2024
@@ -79,8 +79,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💂 [Hai người môi giới mại dâm cho du khách ở đảo Phú Quý](https://vnexpress.net/hai-nguoi-moi-gioi-mai-dam-cho-du-khach-o-dao-phu-quy-4790397.html) - 05:59 08/09/2024
 - 🚀 [Sở Giáo dục Hà Nội: Chưa cho học sinh đến trường nếu không an toàn](https://vnexpress.net/so-giao-duc-ha-noi-chua-cho-hoc-sinh-den-truong-neu-khong-an-toan-4790412.html) - 05:57 08/09/2024
 - 🕴 [&#39;Đi nửa tiếng tìm quán bún bò khi du lịch Đà Nẵng&#39;](https://vnexpress.net/di-nua-tieng-tim-quan-bun-bo-khi-du-lich-da-nang-4790399.html) - 05:35 08/09/2024
-- 🦆 [4 tiết mục âm hưởng truyền thống khuấy động sân khấu &#39;Anh trai&#39;](https://vnexpress.net/4-tiet-muc-am-huong-truyen-thong-khuay-dong-san-khau-anh-trai-4790335.html) - 05:26 08/09/2024
-- 💫 [Ngày càng nhiều đàn ông Hàn Quốc nghỉ phép chăm con](https://vnexpress.net/ngay-cang-nhieu-dan-ong-han-quoc-nghi-phep-cham-con-4790349.html) - 05:03 08/09/2024<!-- vnexpress:END -->
+- 🦆 [4 tiết mục âm hưởng truyền thống khuấy động sân khấu &#39;Anh trai&#39;](https://vnexpress.net/4-tiet-muc-am-huong-truyen-thong-khuay-dong-san-khau-anh-trai-4790335.html) - 05:26 08/09/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
