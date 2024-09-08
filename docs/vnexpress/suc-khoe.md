@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Bác sĩ cấp cứu gian nan tìm đường di chuyển trong mưa bão](https://vnexpress.net/bac-si-cap-cuu-gian-nan-tim-duong-di-chuyen-trong-mua-bao-4790366.html) - 06:24 08/09/2024
+- 🔥 [Bác sĩ cấp cứu gian nan tìm đường di chuyển trong mưa bão Yagi](https://vnexpress.net/bac-si-cap-cuu-gian-nan-tim-duong-di-chuyen-trong-mua-bao-4790366.html) - 06:24 08/09/2024
 - 🥰 [Uống gì bảo vệ sức khỏe tim?](https://vnexpress.net/uong-gi-bao-ve-suc-khoe-tim-4790296.html) - 06:00 08/09/2024
 - 💡 [6 món trẻ đang lớn nên ăn thường xuyên](https://vnexpress.net/6-mon-tre-dang-lon-nen-an-thuong-xuyen-4790247.html) - 04:00 08/09/2024
 - 🤗 [Những món ăn trưa giàu protei](https://vnexpress.net/nhung-mon-an-trua-giau-protei-4790223.html) - 04:00 08/09/2024
