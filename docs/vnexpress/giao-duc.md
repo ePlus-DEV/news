@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nhiều tỉnh, thành kéo dài thời gian nghỉ học vì bão Yagi](https://vnexpress.net/nhieu-tinh-thanh-keo-dai-thoi-gian-nghi-hoc-vi-bao-yagi-4790438.html) - 09:39 08/09/2024
+- 🤓 [Nhiều tỉnh, thành kéo dài thời gian nghỉ học](https://vnexpress.net/nhieu-tinh-thanh-keo-dai-thoi-gian-nghi-hoc-4790438.html) - 09:39 08/09/2024
 - 🦆 [Sở Giáo dục Hà Nội: Chưa cho học sinh đến trường nếu không an toàn](https://vnexpress.net/so-giao-duc-ha-noi-chua-cho-hoc-sinh-den-truong-neu-khong-an-toan-4790412.html) - 05:57 08/09/2024
 - 🦩 [Nhà có hai anh em giành huy chương Olympic quốc tế](https://vnexpress.net/nha-co-hai-anh-em-gianh-huy-chuong-olympic-quoc-te-4789895.html) - 03:25 08/09/2024
 - 🌮 [Học Quân y có làm ở bệnh viện ngoài được không?](https://vnexpress.net/hoc-quan-y-co-lam-o-benh-vien-ngoai-duoc-khong-4790299.html) - 00:24 08/09/2024
