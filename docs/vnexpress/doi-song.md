@@ -4,8 +4,8 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Người Hải Phòng chạy khắp nơi tìm chỗ sạc điện](https://vnexpress.net/nguoi-hai-phong-chay-khap-noi-tim-cho-sac-dien-4790450.html) - 09:35 08/09/2024
-- 🎓 [Người Hà Nội sốc vì phố phường tan hoang sau bão Yagi](https://vnexpress.net/nguoi-ha-noi-soc-vi-pho-phuong-tan-hoang-sau-bao-yagi-4790424.html) - 07:58 08/09/2024
+- 🚀 [Người Hải Phòng chạy đôn đáo tìm chỗ sạc điện](https://vnexpress.net/nguoi-hai-phong-chay-don-dao-tim-cho-sac-dien-4790450.html) - 09:35 08/09/2024
+- 🎓 [Người dân sốc vì phố phường tan hoang sau bão Yagi](https://vnexpress.net/nguoi-dan-soc-vi-pho-phuong-tan-hoang-sau-bao-yagi-4790424.html) - 07:58 08/09/2024
 - 🚦 [Ngày càng nhiều đàn ông Hàn Quốc nghỉ phép chăm con](https://vnexpress.net/ngay-cang-nhieu-dan-ong-han-quoc-nghi-phep-cham-con-4790349.html) - 05:03 08/09/2024
 - 🦣 [Thế hệ không được làm ông bà](https://vnexpress.net/the-he-khong-duoc-lam-ong-ba-4790101.html) - 01:09 08/09/2024
 - 🎓 [Nhiều gia đình mở lòng đón người cơ nhỡ trong cơn bão Yagi](https://vnexpress.net/nhieu-gia-dinh-mo-long-don-nguoi-co-nho-trong-con-bao-yagi-4790272.html) - 15:54 07/09/2024
