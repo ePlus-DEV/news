@@ -258,7 +258,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Tạo động lực mới cho hợp tác Việt Nam - Mozambique](https://nld.com.vn/tao-dong-luc-moi-cho-hop-tac-viet-nam-mozambique-196240909212617848.htm) - 19:14 09/09/2024
-- 😺 [Ra mắt iPhone 16 Pro giá từ 999 USD, iPhone 15 Pro giảm giá sâu](https://nld.com.vn/truc-tiep-su-kien-ra-mat-iphone-16-196240909164321.htm) - 17:00 09/09/2024
+- 😺 [Ra mắt iPhone 16 Pro giá từ 999 USD, iPhone 15 giảm giá sâu](https://nld.com.vn/truc-tiep-su-kien-ra-mat-iphone-16-196240909164321.htm) - 17:00 09/09/2024
 - 👍 [Báo in ngày 10-9: Không để ai thiếu ăn, thiếu mặc, thiếu chỗ ở!](https://nld.com.vn/bao-in-ngay-10-9-khong-de-ai-thieu-an-thieu-mac-thieu-cho-o-196240909220125541.htm) - 16:59 09/09/2024
 - 🥷 [U11 SLNA bị thu hồi cúp, cấm 2 năm dự giải U11 toàn quốc](https://nld.com.vn/u11-slna-bi-thu-hoi-cup-cam-2-nam-du-giai-u11-toan-quoc-196240909223803762.htm) - 15:40 09/09/2024
 - 🤔 [Tìm thấy 7 thi thể trong 5 căn nhà bị vùi lấp](https://nld.com.vn/tim-thay-7-thi-the-trong-5-can-nha-bi-vui-lap-196240909221425319.htm) - 15:26 09/09/2024
