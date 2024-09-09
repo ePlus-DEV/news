@@ -4,7 +4,7 @@ sidebar_position: 28
 ---
 
 <!-- dantri-photo-story:START -->
-- 💪 [Nước sông Hồng dâng nhanh, người Hà Nội &quot;chạy ngập&quot; xuyên đêm](https://dantri.com.vn/xa-hoi/nuoc-song-hong-dang-nhanh-nguoi-ha-noi-chay-ngap-xuyen-dem-20240910023444269.htm) - 19:45 09/09/2024
+- 💪 [Nước sông Hồng dâng rất nhanh, người Hà Nội &quot;chạy ngập&quot; xuyên đêm](https://dantri.com.vn/xa-hoi/nuoc-song-hong-dang-rat-nhanh-nguoi-ha-noi-chay-ngap-xuyen-dem-20240910023444269.htm) - 19:45 09/09/2024
 - 🧰 [Chủ tàu du lịch bị chìm ở Hạ Long: &quot;Gia đình tôi vỡ nợ rồi&quot;](https://dantri.com.vn/xa-hoi/chu-tau-du-lich-bi-chim-o-ha-long-gia-dinh-toi-vo-no-roi-20240910002605217.htm) - 19:34 09/09/2024
 - 🧰 [Nước sông Hồng dâng sát mức báo động, nguy cơ gây ngập ở Hà Nội](https://dantri.com.vn/xa-hoi/nuoc-song-hong-dang-sat-muc-bao-dong-nguy-co-gay-ngap-o-ha-noi-20240909183821142.htm) - 11:54 09/09/2024
 - 😎 [Sân Mỹ Đình bị bão Yagi càn quét, ngổn ngang trước trận Việt Nam - Thái Lan](https://dantri.com.vn/the-thao/san-my-dinh-bi-bao-yagi-can-quet-ngon-ngang-truoc-tran-viet-nam-thai-lan-20240909175703126.htm) - 11:01 09/09/2024
