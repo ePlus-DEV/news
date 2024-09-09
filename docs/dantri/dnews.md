@@ -5,7 +5,7 @@ sidebar_position: 14
 
 <!-- dantri-dnews:START -->
 - 🤠 [Quê nhà xót thương thượng úy hy sinh khi chống bão Yagi](https://dantri.com.vn/doi-song/que-nha-xot-thuong-thuong-uy-hy-sinh-khi-chong-bao-yagi-20240909190439106.htm) - 12:43 09/09/2024
-- 🌈 [Lễ ra mắt loạt sản phẩm mới của Apple: Giới thiệu AirPods thế hệ thứ 4](https://dantri.com.vn/suc-manh-so/le-ra-mat-loat-san-pham-moi-cua-apple-gioi-thieu-airpods-the-he-thu-4-20240909182834404.htm) - 11:39 09/09/2024
+- 🌈 [Apple ra mắt loạt iPhone 16 với nhiều thay đổi lớn](https://dantri.com.vn/suc-manh-so/apple-ra-mat-loat-iphone-16-voi-nhieu-thay-doi-lon-20240909182834404.htm) - 11:39 09/09/2024
 - 🐎 [Nghẹt thở ép tim trong cabin chao đảo của xe 115 xuyên tâm bão Yagi](https://dantri.com.vn/suc-khoe/nghet-tho-ep-tim-trong-cabin-chao-dao-cua-xe-115-xuyen-tam-bao-yagi-20240909144551486.htm) - 09:46 09/09/2024
 - 👹 [Dự đoán &quot;chân dung&quot; loạt iPhone 16 trước giờ sản phẩm ra mắt](https://dantri.com.vn/suc-manh-so/du-doan-chan-dung-loat-iphone-16-truoc-gio-san-pham-ra-mat-20240909003613465.htm) - 09:23 09/09/2024
 - 🫶 [Chuyên gia hiến kế đánh thuế để ngăn đầu cơ, kìm giá bất động sản](https://dantri.com.vn/bat-dong-san/chuyen-gia-hien-ke-danh-thue-de-ngan-dau-co-kim-gia-bat-dong-san-20240909032308266.htm) - 07:14 09/09/2024
