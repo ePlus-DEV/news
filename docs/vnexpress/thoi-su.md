@@ -11,7 +11,7 @@ sidebar_position: 1
 - 🎓 [Tổng Bí thư, Chủ tịch nước: Hỗ trợ nhanh nhất người bị ảnh hưởng bão Yagi](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-ho-tro-nhanh-nhat-nguoi-bi-anh-huong-bao-yagi-4790926.html) - 13:39 09/09/2024
 - 🔥 [Cứu sống bé gái bị đất đá vùi lấp gần 3 tiếng](https://vnexpress.net/cuu-song-be-gai-bi-dat-da-vui-lap-gan-3-tieng-4790928.html) - 13:28 09/09/2024
 - 🦏 [Cấm hàng loạt cầu vì lo lũ kéo sập](https://vnexpress.net/cam-hang-loat-cau-vi-lo-lu-keo-sap-4790923.html) - 13:22 09/09/2024
-- 👺 [Nạn nhân thoát chết: &#39;Cầu như bị bom đánh sập&#39;](https://vnexpress.net/nan-nhan-thoat-chet-cau-nhu-bi-bom-danh-sap-4790905.html) - 13:22 09/09/2024
+- 👺 [Nạn nhân thoát chết: &#39;Cầu sập trong tích tắc&#39;](https://vnexpress.net/nan-nhan-thoat-chet-cau-sap-trong-tich-tac-4790905.html) - 13:22 09/09/2024
 - 🧑‍🏫 [Truy tặng Huân chương Bảo vệ Tổ quốc cho sĩ quan hy sinh khi chống bão Yagi](https://vnexpress.net/truy-tang-huan-chuong-bao-ve-to-quoc-cho-si-quan-hy-sinh-khi-chong-bao-yagi-4790899.html) - 10:51 09/09/2024
 - 🚦 [Hiện trường cầu sập khiến 13 người mất tích](https://vnexpress.net/hien-truong-cau-sap-khien-13-nguoi-mat-tich-4790790.html) - 08:25 09/09/2024
 - 🎉 [Mưa lũ cô lập nhiều tỉnh miền núi phía Bắc](https://vnexpress.net/mua-lu-co-lap-nhieu-tinh-mien-nui-phia-bac-4790702.html) - 05:55 09/09/2024
