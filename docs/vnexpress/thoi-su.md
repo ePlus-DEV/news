@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Hiện trường cầu sập khiến 13 người mất tích](https://vnexpress.net/hien-truong-cau-sap-khien-13-nguoi-mat-tich-4790790.html) - 08:25 09/09/2024
 - 🤓 [Mưa lũ cô lập nhiều tỉnh miền núi phía Bắc](https://vnexpress.net/mua-lu-co-lap-nhieu-tinh-mien-nui-phia-bac-4790702.html) - 05:55 09/09/2024
-- ⚗️ [&#39;Dòng chảy xiết khiến cầu Phong Châu bị đổ trụ, sập hai nhịp&#39;](https://vnexpress.net/sap-cap-phong-chau-o-phu-tho-4790721.html) - 04:36 09/09/2024
+- ⚗️ [Quân đội dựng lều dã chiến để tìm kiếm nạn nhân vụ sập cầu](https://vnexpress.net/sap-cap-phong-chau-o-phu-tho-4790721.html) - 04:36 09/09/2024
 - 🌊 [Đại Lộ Thăng Long ùn tắc 10 km](https://vnexpress.net/dai-lo-thang-long-un-tac-10-km-4790656.html) - 04:16 09/09/2024
 - 🎓 [64 người chết do mưa bão, nhiều nơi tiếp tục sạt lở](https://vnexpress.net/hau-qua-bao-yagi-4790589.html) - 02:31 09/09/2024
 - 🔥 [Diện mạo dự án đường Hồ Chí Minh xuyên rừng cao su ở Bình Dương](https://vnexpress.net/dien-mao-du-an-duong-ho-chi-minh-xuyen-rung-cao-su-o-binh-duong-4787867.html) - 23:00 08/09/2024
