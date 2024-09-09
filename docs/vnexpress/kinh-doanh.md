@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Hàng trăm nghìn dân ở Lào Cai, Cao Bằng, Bắc Kạn bị mất điện](https://vnexpress.net/hang-tram-nghin-dan-o-lao-cai-cao-bang-bac-kan-bi-mat-dien-4790719.html) - 06:33 09/09/2024
+- ⛽️ [Hàng trăm nghìn dân ở Lào Cai, Cao Bằng bị mất điện do mưa lũ](https://vnexpress.net/hang-tram-nghin-dan-o-lao-cai-cao-bang-bi-mat-dien-do-mua-lu-4790719.html) - 06:33 09/09/2024
 - 🐲 [Kiểm toán lưu ý Quốc Cường Gia Lai về khả năng thu hồi dự án Phước Kiển](https://vnexpress.net/kiem-toan-luu-y-quoc-cuong-gia-lai-ve-kha-nang-thu-hoi-du-an-phuoc-kien-4790691.html) - 05:25 09/09/2024
 - 🔥 [Vài triệu đồng một kg bong bóng cá](https://vnexpress.net/vai-trieu-dong-mot-kg-bong-bong-ca-4780171.html) - 04:22 09/09/2024
 - 🐵 [1.000 người dự ngày hội tuyển dụng lớn nhất năm của Vietjet](https://vnexpress.net/1-000-nguoi-du-ngay-hoi-tuyen-dung-lon-nhat-nam-cua-vietjet-4790647.html) - 04:00 09/09/2024
