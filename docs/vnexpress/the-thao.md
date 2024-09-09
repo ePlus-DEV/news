@@ -9,7 +9,7 @@ sidebar_position: 5
 - 🧰 [Djokovic nguy cơ không được dự ATP Finals](https://vnexpress.net/djokovic-nguy-co-khong-duoc-du-atp-finals-4790674.html) - 04:15 09/09/2024
 - 🤗 [3.500 runner tranh tài Green Cần Giờ Marathon HDBank](https://vnexpress.net/3-500-runner-tranh-tai-green-can-gio-marathon-hdbank-4789909.html) - 04:00 09/09/2024
 - 🥳 [HLV Kim muốn thắng Thái Lan để lấy đà cho AFF Cup 2024](https://vnexpress.net/hlv-kim-muon-thang-thai-lan-de-lay-da-cho-aff-cup-2024-4790561.html) - 03:20 09/09/2024
-- 🦣 [HLV Thái Lan: &#39;Cố gắng ngăn Việt Nam ghi bàn&#39;](https://vnexpress.net/hlv-thai-lan-co-gang-ngan-viet-nam-ghi-ban-4790559.html) - 02:45 09/09/2024
+- 🦣 [HLV Thái Lan: &#39;Chúng tôi đã biết cách vận hành của Việt Nam&#39;](https://vnexpress.net/hlv-thai-lan-chung-toi-da-biet-cach-van-hanh-cua-viet-nam-4790559.html) - 02:45 09/09/2024
 - 🌜 [HLV Bồ Đào Nha: &#39;Ronaldo không thể đá trọn hai trận liên tiếp&#39;](https://vnexpress.net/hlv-bo-dao-nha-ronaldo-khong-the-da-tron-hai-tran-lien-tiep-4790581.html) - 01:21 09/09/2024
 - 🫶 [Modric ghi siêu phẩm đá phạt, làm lu mờ Lewandowski](https://vnexpress.net/modric-ghi-sieu-pham-da-phat-lam-lu-mo-lewandowski-4790563.html) - 01:04 09/09/2024
 - 🌜 [Fernandes: &#39;Ronaldo đang trên đường tới mốc 1.000 bàn&#39;](https://vnexpress.net/fernandes-ronaldo-dang-tren-duong-toi-moc-1-000-ban-4790560.html) - 00:41 09/09/2024
