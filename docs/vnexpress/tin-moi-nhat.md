@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Cục Đường bộ: Cầu Phong Châu không có dấu hiệu mất an toàn](https://vnexpress.net/cuc-duong-bo-cau-phong-chau-khong-co-dau-hieu-mat-an-toan-4790925.html) - 14:52 09/09/2024
+- 🎬 [Cục Đường bộ: Cầu Phong Châu không có dấu hiệu mất an toàn trước khi sập](https://vnexpress.net/cuc-duong-bo-cau-phong-chau-khong-co-dau-hieu-mat-an-toan-truoc-khi-sap-4790925.html) - 14:52 09/09/2024
 - 🐎 [Đảo rác lớn nhất thế giới nằm ở đâu?](https://vnexpress.net/dao-rac-lon-nhat-the-gioi-nam-o-dau-4790768.html) - 14:51 09/09/2024
 - 🦍 [Quốc tế cam kết hỗ trợ khắc phục thiệt hại bão Yagi](https://vnexpress.net/quoc-te-cam-ket-ho-tro-khac-phuc-thiet-hai-bao-yagi-4790614.html) - 14:51 09/09/2024
 - 🏊 [Người đàn ông bị truy nã quốc tế vì hất cà phê nóng vào trẻ nhỏ](https://vnexpress.net/nguoi-dan-ong-bi-truy-na-quoc-te-vi-hat-ca-phe-nong-vao-tre-nho-4790936.html) - 14:41 09/09/2024
@@ -15,7 +15,7 @@ sidebar_position: 9
 - 🫶 [Quan chức Dân chủ cảnh báo bà Harris về tài tranh luận của ông Trump](https://vnexpress.net/quan-chuc-dan-chu-canh-bao-ba-harris-ve-tai-tranh-luan-cua-ong-trump-4790912.html) - 14:01 09/09/2024
 - 🪜 [Em bị thu hút bởi người chủ động, tự tin, tích cực](https://vnexpress.net/em-bi-thu-hut-boi-nguoi-chu-dong-tu-tin-tich-cuc-4790675.html) - 14:00 09/09/2024
 - 👨‍🏫 [Giả fanpage Hội Chữ thập đỏ Quảng Ninh kêu gọi chuyển khoản](https://vnexpress.net/gia-fanpage-hoi-chu-thap-do-quang-ninh-keu-goi-tu-thien-4790922.html) - 13:49 09/09/2024
-- 🎊 [5 tỉnh được hỗ trợ khẩn 100 tỷ đồng khắc phục thiệt hại do bão Yagi](https://vnexpress.net/5-tinh-duoc-ho-tro-khan-100-ty-dong-khac-phuc-thiet-hai-do-bao-yagi-4790933.html) - 13:41 09/09/2024
+- 🎊 [5 tỉnh được hỗ trợ 100 tỷ đồng khắc phục thiệt hại do bão Yagi](https://vnexpress.net/5-tinh-duoc-ho-tro-100-ty-dong-khac-phuc-thiet-hai-do-bao-yagi-4790933.html) - 13:41 09/09/2024
 - 🎊 [Tổng Bí thư, Chủ tịch nước: Hỗ trợ nhanh nhất người bị ảnh hưởng bão Yagi](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-ho-tro-nhanh-nhat-nguoi-bi-anh-huong-bao-yagi-4790926.html) - 13:39 09/09/2024
 - 😺 [Cửa khẩu Quốc tế Lào Cai - Hà Khẩu dừng hoạt động](https://vnexpress.net/cua-khau-quoc-te-lao-cai-ha-khau-dung-hoat-dong-4790935.html) - 13:32 09/09/2024
 - 🐘 [Chủ tịch Meta sắp tới Việt Nam](https://vnexpress.net/chu-tich-meta-sap-toi-viet-nam-4790898.html) - 13:29 09/09/2024
