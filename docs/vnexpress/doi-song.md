@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Lời kể hai nạn nhân sống sót trong vụ sập cầu Phong Châu](https://vnexpress.net/loi-ke-hai-nan-nhan-song-sot-trong-vu-sap-cau-phong-chau-4790804.html) - 08:14 09/09/2024
+- 🚀 [Lời kể hai nạn nhân sống sót trong vụ sập cầu Phong Châu](https://vnexpress.net/loi-ke-hai-nan-nhan-song-sot-trong-vu-sap-cau-phong-chau-4790804.html) - 08:10 09/09/2024
 - 🎓 [Nhiều người lớn chủ động tiêm vaccine ngừa sởi](https://vnexpress.net/nhieu-nguoi-lon-chu-dong-tiem-vaccine-ngua-soi-4790745.html) - 06:00 09/09/2024
 - 🚦 [Người miền Trung tình nguyện ra Bắc hỗ trợ vùng bão](https://vnexpress.net/nguoi-mien-trung-tinh-nguyen-ra-bac-ho-tro-vung-bao-4790653.html) - 05:19 09/09/2024
 - 🦣 [Thành &#39;người hùng&#39; khi bóc trần văn hóa 996](https://vnexpress.net/thanh-nguoi-hung-khi-boc-tran-van-hoa-996-4790127.html) - 05:06 09/09/2024
