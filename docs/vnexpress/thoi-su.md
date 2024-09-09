@@ -4,10 +4,10 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cục Đường bộ: Cầu Phong Châu không có dấu hiệu mất an toàn trước khi sập](https://vnexpress.net/cuc-duong-bo-cau-phong-chau-khong-co-dau-hieu-mat-an-toan-truoc-khi-sap-4790925.html) - 14:52 09/09/2024
+- 🦒 [Cục Đường bộ: Cầu Phong Châu không có dấu hiệu mất an toàn](https://vnexpress.net/cuc-duong-bo-cau-phong-chau-khong-co-dau-hieu-mat-an-toan-4790925.html) - 14:52 09/09/2024
 - 🤓 [Quốc tế cam kết hỗ trợ khắc phục thiệt hại bão Yagi](https://vnexpress.net/quoc-te-cam-ket-ho-tro-khac-phuc-thiet-hai-bao-yagi-4790614.html) - 14:51 09/09/2024
 - ⚗️ [Hoãn tổ chức hội chọi trâu Đồ Sơn](https://vnexpress.net/hoan-to-chuc-hoi-choi-trau-do-son-4790920.html) - 14:21 09/09/2024
-- 🌊 [5 tỉnh được hỗ trợ 100 tỷ đồng khắc phục thiệt hại do bão Yagi](https://vnexpress.net/5-tinh-duoc-ho-tro-100-ty-dong-khac-phuc-thiet-hai-do-bao-yagi-4790933.html) - 13:41 09/09/2024
+- 🌊 [5 tỉnh được hỗ trợ khẩn 100 tỷ đồng khắc phục thiệt hại do bão Yagi](https://vnexpress.net/5-tinh-duoc-ho-tro-khan-100-ty-dong-khac-phuc-thiet-hai-do-bao-yagi-4790933.html) - 13:41 09/09/2024
 - 🎓 [Tổng Bí thư, Chủ tịch nước: Hỗ trợ nhanh nhất người bị ảnh hưởng bão Yagi](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-ho-tro-nhanh-nhat-nguoi-bi-anh-huong-bao-yagi-4790926.html) - 13:39 09/09/2024
 - 🔥 [Cứu sống bé gái bị đất đá vùi lấp gần 3 tiếng](https://vnexpress.net/cuu-song-be-gai-bi-dat-da-vui-lap-gan-3-tieng-4790928.html) - 13:28 09/09/2024
 - 🦏 [Cấm hàng loạt cầu vì lo lũ kéo sập](https://vnexpress.net/cam-hang-loat-cau-vi-lo-lu-keo-sap-4790923.html) - 13:22 09/09/2024
