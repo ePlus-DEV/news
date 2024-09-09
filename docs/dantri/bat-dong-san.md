@@ -4,7 +4,7 @@ sidebar_position: 21
 ---
 
 <!-- dantri-bat-dong-san:START -->
-- 🌏 [Đấu giá 100 triệu/m2 đất Thanh Oai: Chỉ 13 lô nộp tiền, lô cao nhất bỏ cọc](https://dantri.com.vn/bat-dong-san/dau-gia-100-trieum2-dat-thanh-oai-chi-13-lo-nop-tien-lo-cao-nhat-bo-coc-20240909144001312.htm) - 07:50 09/09/2024
+- 🌏 [Đấu giá 100 triệu/m2 đất Thanh Oai: 13 lô đóng tiền, lô cao nhất chưa nộp](https://dantri.com.vn/bat-dong-san/dau-gia-100-trieum2-dat-thanh-oai-13-lo-dong-tien-lo-cao-nhat-chua-nop-20240909144001312.htm) - 07:50 09/09/2024
 - 👹 [Thưởng tới 500 triệu đồng nếu bàn giao đúng tiến độ khi thu hồi đất](https://dantri.com.vn/bat-dong-san/thuong-toi-500-trieu-dong-neu-ban-giao-dung-tien-do-khi-thu-hoi-dat-20240909141340579.htm) - 07:22 09/09/2024
 - 💡 [Chuyên gia hiến kế đánh thuế để ngăn đầu cơ, kìm giá bất động sản](https://dantri.com.vn/bat-dong-san/chuyen-gia-hien-ke-danh-thue-de-ngan-dau-co-kim-gia-bat-dong-san-20240909032308266.htm) - 07:14 09/09/2024
 - 🌋 [Cảnh hoang tàn sau bão Yagi tại các khu đô thị ở Hà Nội](https://dantri.com.vn/bat-dong-san/canh-hoang-tan-sau-bao-yagi-tai-cac-khu-do-thi-o-ha-noi-20240908124325385.htm) - 06:18 08/09/2024
