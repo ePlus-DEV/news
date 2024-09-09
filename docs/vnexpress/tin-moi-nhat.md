@@ -9,7 +9,7 @@ sidebar_position: 9
 - 🦍 [Công ty liên quan Vạn Thịnh Phát lỗ nặng nửa đầu năm](https://vnexpress.net/cong-ty-lien-quan-van-thinh-phat-lo-nang-nua-dau-nam-4790914.html) - 17:04 09/09/2024
 - 🏊 [Ngôi nhà ba tầng thiết kế mái ngói đỏ, hai mặt tiền](https://vnexpress.net/ngoi-nha-ba-tang-thiet-ke-mai-ngoi-do-hai-mat-tien-4790287.html) - 17:03 09/09/2024
 - 🎊 [Cảnh hoàng hôn tiết lộ mục đích sống của bạn](https://vnexpress.net/canh-hoang-hon-tiet-lo-muc-dich-song-cua-ban-4790857.html) - 17:01 09/09/2024
-- 🎃 [Tiếp tế, sơ tán dân khỏi vùng ngập 2 mét](https://vnexpress.net/tiep-te-so-tan-dan-khoi-vung-ngap-2-met-4790939.html) - 17:00 09/09/2024
+- 🎃 [Tiếp tế, sơ tán dân khỏi vùng ngập 2 m](https://vnexpress.net/tiep-te-so-tan-dan-khoi-vung-ngap-2-m-4790939.html) - 17:00 09/09/2024
 - 🧰 [8 điểm mới nổi bật khi chở trẻ em trên đường từ 1/1/2025](https://vnexpress.net/8-diem-moi-khi-cho-tre-em-tren-duong-tu-1-1-2025-4790873.html) - 17:00 09/09/2024
 - 🔭 [Bố mẹ bạn trai muốn tôi sau này nghỉ việc chăm con vì lương thấp](https://vnexpress.net/bo-me-ban-trai-muon-toi-sau-nay-nghi-viec-cham-con-vi-luong-thap-4790947.html) - 17:00 09/09/2024
 - 🫶 [TP HCM đưa 46 trẻ ở chùa, mái ấm về cơ sở bảo trợ công lập](https://vnexpress.net/tp-hcm-dua-46-tre-o-chua-mai-am-ve-co-so-bao-tro-cong-lap-4790918.html) - 17:00 09/09/2024
@@ -20,7 +20,7 @@ sidebar_position: 9
 - 😺 [Cuộc sống về hưu của nghệ sĩ Lan Hương](https://vnexpress.net/cuoc-song-ve-huu-cua-nghe-si-lan-huong-4789396.html) - 17:00 09/09/2024
 - 🐘 [Hai bang chiến trường có thể định đoạt bầu cử tổng thống Mỹ](https://vnexpress.net/hai-bang-chien-truong-co-the-dinh-doat-bau-cu-tong-thong-my-4788945.html) - 17:00 09/09/2024
 - 🌁 [15 ngày tìm đười ươi, chim quý ở Indonesia của khách Việt](https://vnexpress.net/15-ngay-tim-duoi-uoi-chim-quy-o-indonesia-cua-khach-viet-4788904.html) - 17:00 09/09/2024
-- 🐲 [Apple ra iPhone 16](https://vnexpress.net/iphone-16-ra-mat-4790866.html) - 16:30 09/09/2024
+- 🐲 [Apple ra iPhone 16 Pro Max màn hình lớn nhất từ trước đến nay](https://vnexpress.net/iphone-16-ra-mat-4790866.html) - 16:30 09/09/2024
 - 🤓 [Hàng nghìn người Thái Nguyên cầu cứu trong nước lũ](https://vnexpress.net/hang-nghin-nguoi-thai-nguyen-cau-cuu-trong-nuoc-lu-4790940.html) - 16:05 09/09/2024
 - 💪 [Việt Nam mong muốn tăng cường hợp tác lao động với Nga](https://vnexpress.net/viet-nam-mong-muon-tang-cuong-hop-tac-lao-dong-voi-nga-4790943.html) - 15:44 09/09/2024
 - 🎓 [Hyun Bin: &#39;Biết ơn vì sự tồn tại của Son Ye Jin&#39;](https://vnexpress.net/hyun-bin-biet-on-vi-su-ton-tai-cua-son-ye-jin-4790944.html) - 15:42 09/09/2024
