@@ -4,7 +4,7 @@ sidebar_position: 28
 ---
 
 <!-- dantri-photo-story:START -->
-- 💪 [Sân Mỹ Đình bị bão Yagi càn quét, ngổn ngang trước trận Việt Nam - Thái Lan](https://dantri.com.vn/the-thao/san-my-dinh-bi-bao-yagi-can-quet-ngon-ngang-truoc-tran-viet-nam-thai-lan-20240909175703126.htm) - 10:58 09/09/2024
+- 💪 [Sân Mỹ Đình bị bão Yagi càn quét, ngổn ngang trước trận Việt Nam - Thái Lan](https://dantri.com.vn/the-thao/san-my-dinh-bi-bao-yagi-can-quet-ngon-ngang-truoc-tran-viet-nam-thai-lan-20240909175703126.htm) - 11:01 09/09/2024
 - 🧰 [Hiện trường vụ sập cầu Phong Châu ở Phú Thọ](https://dantri.com.vn/xa-hoi/hien-truong-vu-sap-cau-phong-chau-o-phu-tho-20240909140212014.htm) - 07:22 09/09/2024
 - 🧰 [Nước dâng cao gần nóc nhà ở thành phố Yên Bái](https://dantri.com.vn/xa-hoi/nuoc-dang-cao-gan-noc-nha-o-thanh-pho-yen-bai-20240909113935550.htm) - 06:35 09/09/2024
 - 😎 [Cận cảnh căn nhà đổ sập vùi lấp 5 người trong một gia đình ở Hòa Bình](https://dantri.com.vn/xa-hoi/can-canh-can-nha-do-sap-vui-lap-5-nguoi-trong-mot-gia-dinh-o-hoa-binh-20240909083536468.htm) - 02:05 09/09/2024
