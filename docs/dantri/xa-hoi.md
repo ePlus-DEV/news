@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- dantri-xa-hoi:START -->
-- 🫣 [Nước sông Hồng dâng nhanh, người Hà Nội &quot;chạy ngập&quot; xuyên đêm](https://dantri.com.vn/xa-hoi/nuoc-song-hong-dang-nhanh-nguoi-ha-noi-chay-ngap-xuyen-dem-20240910023444269.htm) - 19:45 09/09/2024
+- 🫣 [Nước sông Hồng dâng rất nhanh, người Hà Nội &quot;chạy ngập&quot; xuyên đêm](https://dantri.com.vn/xa-hoi/nuoc-song-hong-dang-rat-nhanh-nguoi-ha-noi-chay-ngap-xuyen-dem-20240910023444269.htm) - 19:45 09/09/2024
 - 💼 [Chủ tàu du lịch bị chìm ở Hạ Long: &quot;Gia đình tôi vỡ nợ rồi&quot;](https://dantri.com.vn/xa-hoi/chu-tau-du-lich-bi-chim-o-ha-long-gia-dinh-toi-vo-no-roi-20240910002605217.htm) - 19:34 09/09/2024
 - 🎊 [Ba tàu hút cát đứt dây neo, lao thẳng vào đập thủy điện ở Lào Cai](https://dantri.com.vn/xa-hoi/ba-tau-hut-cat-dut-day-neo-lao-thang-vao-dap-thuy-dien-o-lao-cai-20240909230809570.htm) - 17:10 09/09/2024
 - 🙉 [Cảnh báo lũ đặc biệt lớn trên sông Thao, lũ khẩn cấp trên sông Lục Nam](https://dantri.com.vn/xa-hoi/canh-bao-lu-dac-biet-lon-tren-song-thao-lu-khan-cap-tren-song-luc-nam-20240909225119636.htm) - 16:07 09/09/2024
