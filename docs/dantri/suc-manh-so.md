@@ -5,7 +5,7 @@ sidebar_position: 9
 
 <!-- dantri-suc-manh-so:START -->
 - 🐻 [Cảnh giác Fanpage lừa đảo kêu gọi quyên góp ủng hộ người dân vùng bão](https://dantri.com.vn/suc-manh-so/canh-giac-fanpage-lua-dao-keu-goi-quyen-gop-ung-ho-nguoi-dan-vung-bao-20240909194228202.htm) - 12:58 09/09/2024
-- 💄 [Tường thuật trực tiếp sự kiện ra mắt iPhone 16: Chờ đợi &quot;bom tấn&quot; lộ diện](https://dantri.com.vn/suc-manh-so/tuong-thuat-truc-tiep-su-kien-ra-mat-iphone-16-cho-doi-bom-tan-lo-dien-20240909182834404.htm) - 11:39 09/09/2024
+- 💄 [Lễ ra mắt loạt sản phẩm mới của Apple: Giới thiệu AirPods thế hệ thứ 4](https://dantri.com.vn/suc-manh-so/le-ra-mat-loat-san-pham-moi-cua-apple-gioi-thieu-airpods-the-he-thu-4-20240909182834404.htm) - 11:39 09/09/2024
 - 🚀 [iPhone 16 trước &quot;giờ G&quot;, Apple có thay đổi lớn về phụ kiện?](https://dantri.com.vn/suc-manh-so/iphone-16-truoc-gio-g-apple-co-thay-doi-lon-ve-phu-kien-20240909172428264.htm) - 11:36 09/09/2024
 - 👹 [Ba ông lớn Google, Samsung, Qualcomm chung tay làm kính thông minh](https://dantri.com.vn/suc-manh-so/ba-ong-lon-google-samsung-qualcomm-chung-tay-lam-kinh-thong-minh-20240909095520689.htm) - 09:33 09/09/2024
 - 🤭 [Thu hồi 6 tên định danh vì phát tán tin nhắn, cuộc gọi rác](https://dantri.com.vn/suc-manh-so/thu-hoi-6-ten-dinh-danh-vi-phat-tan-tin-nhan-cuoc-goi-rac-20240909155115324.htm) - 09:26 09/09/2024
