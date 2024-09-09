@@ -4,7 +4,7 @@ sidebar_position: 24
 ---
 
 <!-- dantri-o-to-xe-may:START -->
-- 🤡 [V-GREEN khởi xướng trạm sạc trên quy mô cả nước](https://dantri.com.vn/o-to-xe-may/v-green-khoi-xuong-tram-sac-tren-quy-mo-ca-nuoc-20240909105100738.htm) - 04:07 09/09/2024
+- 🤡 [V-GREEN khởi xướng trạm sạc trên cả nước, tạo thuận lợi cho xe điện](https://dantri.com.vn/o-to-xe-may/v-green-khoi-xuong-tram-sac-tren-ca-nuoc-tao-thuan-loi-cho-xe-dien-20240909105100738.htm) - 04:07 09/09/2024
 - 🧑‍💻 [Hãng xe Trung Quốc bất ngờ vươn lên đứng thứ 3 thế giới về doanh số](https://dantri.com.vn/o-to-xe-may/hang-xe-trung-quoc-bat-ngo-vuon-len-dung-thu-3-the-gioi-ve-doanh-so-20240909000940872.htm) - 00:38 09/09/2024
 - 🧑‍💻 [Chính phủ vừa giảm trước bạ, Xpander MT đã bị Mitsubishi cắt ưu đãi](https://dantri.com.vn/o-to-xe-may/chinh-phu-vua-giam-truoc-ba-xpander-mt-da-bi-mitsubishi-cat-uu-dai-20240908165858797.htm) - 17:00 08/09/2024
 - 🎓 [Ô tô lao thẳng vào nhà thuốc, chủ tiệm thoát chết trong gang tấc](https://dantri.com.vn/o-to-xe-may/o-to-lao-thang-vao-nha-thuoc-chu-tiem-thoat-chet-trong-gang-tac-20240908110034212.htm) - 04:25 08/09/2024
