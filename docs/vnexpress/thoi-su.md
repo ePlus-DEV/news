@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Xe đầu kéo chở than rơi xuống vực](https://vnexpress.net/xe-dau-keo-cho-than-roi-xuong-vuc-4790950.html) - 17:20 09/09/2024
-- 🤓 [Tiếp tế, sơ tán dân khỏi vùng ngập 2 mét](https://vnexpress.net/tiep-te-so-tan-dan-khoi-vung-ngap-2-met-4790939.html) - 17:00 09/09/2024
+- 🤓 [Tiếp tế, sơ tán dân khỏi vùng ngập 2 m](https://vnexpress.net/tiep-te-so-tan-dan-khoi-vung-ngap-2-m-4790939.html) - 17:00 09/09/2024
 - ⚗️ [TP HCM đưa 46 trẻ ở chùa, mái ấm về cơ sở bảo trợ công lập](https://vnexpress.net/tp-hcm-dua-46-tre-o-chua-mai-am-ve-co-so-bao-tro-cong-lap-4790918.html) - 17:00 09/09/2024
 - 🌊 [Cục Đường bộ: Cầu Phong Châu không có dấu hiệu mất an toàn](https://vnexpress.net/cuc-duong-bo-cau-phong-chau-khong-co-dau-hieu-mat-an-toan-4790925.html) - 14:52 09/09/2024
 - 🎓 [Quốc tế cam kết hỗ trợ khắc phục thiệt hại bão Yagi](https://vnexpress.net/quoc-te-cam-ket-ho-tro-khac-phuc-thiet-hai-bao-yagi-4790614.html) - 14:51 09/09/2024
