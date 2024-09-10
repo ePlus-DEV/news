@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Báo chí thế giới dự đoán kết quả trận đội tuyển Việt Nam gặp Thái Lan](https://dantri.com.vn/the-thao/bao-chi-the-gioi-du-doan-ket-qua-tran-doi-tuyen-viet-nam-gap-thai-lan-20240910114359625.htm) - 04:44 10/09/2024
+- 🎡 [Báo chí thế giới dự đoán kết quả trận đội tuyển Việt Nam gặp Thái Lan](https://dantri.com.vn/the-thao/bao-chi-the-gioi-du-doan-ket-qua-tran-doi-tuyen-viet-nam-gap-thai-lan-20240910114359625.htm) - 06:01 10/09/2024
 - 💯 [Chuyên gia: &quot;Cầu thủ trẻ Thái Lan trình độ không kém đội tuyển Việt Nam&quot;](https://dantri.com.vn/the-thao/chuyen-gia-cau-thu-tre-thai-lan-trinh-do-khong-kem-doi-tuyen-viet-nam-20240909234042328.htm) - 03:43 10/09/2024
 - ⛽️ [Ngôi sao Na Uy chấn thương nặng, Arsenal âu lo trước thềm Champions League](https://dantri.com.vn/the-thao/ngoi-sao-na-uy-chan-thuong-nang-arsenal-au-lo-truoc-them-champions-league-20240910100208179.htm) - 03:33 10/09/2024
 - 💃 [De Bruyne chỉ trích các đồng đội sau trận thua của Bỉ trước Pháp](https://dantri.com.vn/the-thao/de-bruyne-chi-trich-cac-dong-doi-sau-tran-thua-cua-bi-truoc-phap-20240910080115800.htm) - 01:26 10/09/2024
