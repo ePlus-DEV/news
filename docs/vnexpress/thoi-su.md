@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Chạy lụt ven sông Hồng](https://vnexpress.net/chay-lut-ven-song-hong-4790961.html) - 06:00 10/09/2024
-- 🤓 [Thủ tướng đi ca nô thăm người dân vùng lũ Bắc Giang](https://vnexpress.net/thu-tuong-di-ca-no-tham-nguoi-dan-vung-lu-bac-giang-4791150.html) - 05:38 10/09/2024
+- 🤓 [Thủ tướng đi cano thăm người dân vùng lũ Bắc Giang](https://vnexpress.net/lu-lut-o-mien-bac-do-hoan-luu-bao-yagi-4791150.html) - 05:38 10/09/2024
 - ⚗️ [Thời tiết miền Bắc: Hà Nội có thể giông lốc 2-3 giờ tới](https://vnexpress.net/du-bao-thoi-tiet-mien-bac-4791167.html) - 04:59 10/09/2024
 - 🌊 [Tìm thấy 9 thi thể nạn nhân bị cuốn trôi cùng xe khách](https://vnexpress.net/tim-thay-9-thi-the-nan-nhan-bi-cuon-troi-cung-xe-khach-4791093.html) - 04:36 10/09/2024
 - 🎓 [Cao tốc Pháp Vân - Cầu Giẽ bị ngập nước, hạn chế xe lưu thông](https://vnexpress.net/cao-toc-phap-van-cau-gie-bi-ngap-nuoc-han-che-xe-luu-thong-4791143.html) - 04:27 10/09/2024
