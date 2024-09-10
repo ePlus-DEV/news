@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cựu tiếp viên hàng không môi giới mại dâm xin giảm án](https://vnexpress.net/cuu-tiep-vien-hang-khong-moi-gioi-mai-dam-xin-giam-an-4791068.html) - 03:05 10/09/2024
+- 😎 [Cựu tiếp viên hàng không môi giới mại dâm xin hưởng án treo](https://vnexpress.net/cuu-tiep-vien-hang-khong-moi-gioi-mai-dam-xin-huong-an-treo-4791068.html) - 03:05 10/09/2024
 - 🥰 [Thiếu tá hy sinh khi chống bão Yagi được truy tặng Huân chương Bảo vệ Tổ quốc](https://vnexpress.net/thieu-ta-hy-sinh-khi-chong-bao-yagi-duoc-truy-tang-huan-chuong-bao-ve-to-quoc-4791003.html) - 01:41 10/09/2024
 - 🎓 [8 điểm mới nổi bật khi chở trẻ em trên đường từ 1/1/2025](https://vnexpress.net/8-diem-moi-khi-cho-tre-em-tren-duong-tu-1-1-2025-4790873.html) - 17:00 09/09/2024
 - 🤓 [Vụ án lao ôtô chở thi thể đến trước mặt cảnh sát](https://vnexpress.net/tinh-tay-ba-sau-vu-an-thi-the-trong-cop-oto-4790826.html) - 17:00 09/09/2024
