@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- dantri-tinh-yeu-gioi-tinh:START -->
-- 👨‍🏫 [Trớ trêu khi lần đầu ra mắt nhà chồng, tôi bất ngờ gặp lại bạn trai cũ](https://dantri.com.vn/tinh-yeu-gioi-tinh/tro-treu-khi-lan-dau-ra-mat-nha-chong-toi-bat-ngo-gap-lai-ban-trai-cu-20240910132718840.htm) - 06:29 10/09/2024
+- 👨‍🏫 [Trớ trêu khi phát hiện bạn trai cũ chính là... anh họ của chồng tôi](https://dantri.com.vn/tinh-yeu-gioi-tinh/tro-treu-khi-phat-hien-ban-trai-cu-chinh-la-anh-ho-cua-chong-toi-20240910132718840.htm) - 06:29 10/09/2024
 - 🦣 [Tôi không thấy vui khi con riêng của chồng thương tôi hơn mẹ đẻ](https://dantri.com.vn/tinh-yeu-gioi-tinh/toi-khong-thay-vui-khi-con-rieng-cua-chong-thuong-toi-hon-me-de-20240910091204402.htm) - 03:12 10/09/2024
 - 🔭 [Hoãn ra tòa vì mưa bão, vợ chồng tôi bất ngờ muốn &quot;yêu lại từ đầu&quot;](https://dantri.com.vn/tinh-yeu-gioi-tinh/hoan-ra-toa-vi-mua-bao-vo-chong-toi-bat-ngo-muon-yeu-lai-tu-dau-20240910004352710.htm) - 23:00 09/09/2024
 - 🧐 [Vì lý do này, bạn trai tôi từ chối &quot;vượt rào&quot; dù đã yêu nhau hai năm](https://dantri.com.vn/tinh-yeu-gioi-tinh/vi-ly-do-nay-ban-trai-toi-tu-choi-vuot-rao-du-da-yeu-nhau-hai-nam-20240909160819817.htm) - 12:00 09/09/2024
