@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Hơn 110 trường học Hà Nội nghỉ, một số chuyển học online](https://vnexpress.net/hon-110-truong-hoc-ha-noi-nghi-mot-so-chuyen-hoc-online-4791112.html) - 04:39 10/09/2024
+- 🤓 [Nhiều trường học Hà Nội chuyển học online](https://vnexpress.net/nhieu-truong-hoc-ha-noi-chuyen-hoc-online-4791112.html) - 04:39 10/09/2024
 - 🦆 [Hàng nghìn trường học đóng cửa, nhiều nơi mất liên lạc](https://vnexpress.net/hang-nghin-truong-hoc-dong-cua-nhieu-noi-mat-lien-lac-4791076.html) - 04:19 10/09/2024
 - 🦩 [Cách phát âm chuẩn từ &#39;read&#39;](https://vnexpress.net/cach-phat-am-chuan-tu-read-4790869.html) - 23:20 09/09/2024
 - 🌮 [Đảo rác lớn nhất thế giới nằm ở đâu?](https://vnexpress.net/dao-rac-lon-nhat-the-gioi-nam-o-dau-4790768.html) - 14:51 09/09/2024
