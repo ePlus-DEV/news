@@ -4,9 +4,9 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Trấn Thành và dàn sao dự đám cưới diễn viên Anh Đức](https://vnexpress.net/tran-thanh-va-dan-sao-du-dam-cuoi-dien-vien-anh-duc-4791261.html) - 12:23 10/09/2024
+- 🌏 [Trấn Thành và dàn sao dự lễ cưới diễn viên Anh Đức](https://vnexpress.net/tran-thanh-va-dan-sao-du-le-cuoi-dien-vien-anh-duc-4791261.html) - 12:23 10/09/2024
 - 💫 [Thu hồi giải nhất Liên hoan Ảnh nghệ thuật truyền thống TP HCM](https://vnexpress.net/thu-hoi-giai-nhat-lien-hoan-anh-nghe-thuat-truyen-thong-tp-hcm-4791188.html) - 11:29 10/09/2024
-- 🌮 [Brad Pitt và bạn gái dạo phố](https://vnexpress.net/brad-pitt-va-ban-gai-dao-pho-4791352.html) - 11:00 10/09/2024
+- 🌮 [Brad Pitt sánh đôi bạn gái](https://vnexpress.net/brad-pitt-sanh-doi-ban-gai-4791352.html) - 11:00 10/09/2024
 - 🧠 [&#39;Người thầy&#39; vào bình chọn giải Sách Quốc gia](https://vnexpress.net/nguoi-thay-vao-binh-chon-giai-sach-quoc-gia-4791270.html) - 09:46 10/09/2024
 - 👨‍🏫 [Nhiều sao Việt chung tay ủng hộ người vùng bão lũ](https://vnexpress.net/nhieu-sao-viet-chung-tay-ung-ho-nguoi-vung-bao-lu-4791024.html) - 08:42 10/09/2024
 - ⚗️ [Người viết lời &#39;My Heart Will Go On&#39; qua đời](https://vnexpress.net/nguoi-viet-loi-my-heart-will-go-on-qua-doi-4791036.html) - 05:58 10/09/2024
