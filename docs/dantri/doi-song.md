@@ -5,7 +5,7 @@ sidebar_position: 18
 
 <!-- dantri-doi-song:START -->
 - 🥳 [Khách sạn ở Yên Bái mở miễn phí, nhiều gia đình nấu cơm cho bà con bị ngập](https://dantri.com.vn/doi-song/khach-san-o-yen-bai-mo-mien-phi-nhieu-gia-dinh-nau-com-cho-ba-con-bi-ngap-20240910011952034.htm) - 01:25 10/09/2024
-- 🌁 [Cư dân Thái Nguyên chèo sup tự cứu nhau, mời người lạ tới nhà tránh lũ](https://dantri.com.vn/doi-song/cu-dan-thai-nguyen-cheo-sup-tu-cuu-nhau-moi-nguoi-la-toi-nha-tranh-lu-20240910010041225.htm) - 23:46 09/09/2024
+- 🌁 [Cư dân Thái Nguyên chèo sup cứu nhau, mời người lạ tới nhà tránh lũ](https://dantri.com.vn/doi-song/cu-dan-thai-nguyen-cheo-sup-cuu-nhau-moi-nguoi-la-toi-nha-tranh-lu-20240910010041225.htm) - 23:46 09/09/2024
 - 👀 [Vì sao kính nhiều nhà cao tầng, chung cư vỡ vụn trong bão?](https://dantri.com.vn/doi-song/vi-sao-kinh-nhieu-nha-cao-tang-chung-cu-vo-vun-trong-bao-20240909115238578.htm) - 23:01 09/09/2024
 - 🐻 [Người Hà Nội xuyên đêm chở hàng, thuyền hướng về Thái Nguyên, Yên Bái](https://dantri.com.vn/doi-song/nguoi-ha-noi-xuyen-dem-cho-hang-thuyen-huong-ve-thai-nguyen-yen-bai-20240910010847775.htm) - 18:41 09/09/2024
 - 🦅 [Xót xa lời kêu cứu ở Yên Bái: Biển nước ngập lên tầng 2, cạn kiệt đồ ăn](https://dantri.com.vn/doi-song/xot-xa-loi-keu-cuu-o-yen-bai-bien-nuoc-ngap-len-tang-2-can-kiet-do-an-20240909231641621.htm) - 16:24 09/09/2024
