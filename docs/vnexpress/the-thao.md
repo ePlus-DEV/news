@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Tiến Minh bất ngờ khi thắng ngược ở Vietnam Open](https://vnexpress.net/tien-minh-bat-ngo-khi-thang-nguoc-o-vietnam-open-4791355.html) - 12:11 10/09/2024
-- 🦩 [Việt Nam 1-0 Thái Lan &lpar;H1&rpar;: Tiến Linh mở tỷ số](https://vnexpress.net/viet-nam-1-0-thai-lan-h1-tien-linh-mo-ty-so-4791353.html) - 12:00 10/09/2024
+- 🦩 [Việt Nam 1-2 Thái Lan &lpar;H1&rpar;: Đội khách dẫn ngược](https://vnexpress.net/viet-nam-1-2-thai-lan-h1-doi-khach-dan-nguoc-4791353.html) - 12:00 10/09/2024
 - 🧰 [Tiến Minh thắng ngược trận ra quân Vietnam Open 2024](https://vnexpress.net/tien-minh-thang-nguoc-tran-ra-quan-vietnam-open-2024-4791335.html) - 10:17 10/09/2024
 - 🤗 [Kyrgios mỉa mai chuyện tình của Sinner](https://vnexpress.net/kyrgios-mia-mai-chuyen-tinh-cua-sinner-4791293.html) - 09:29 10/09/2024
 - 🥳 [Runner Việt trải nghiệm giải bán marathon lâu đời nhất thế giới](https://vnexpress.net/runner-viet-trai-nghiem-giai-ban-marathon-lau-doi-nhat-the-gioi-4791134.html) - 07:19 10/09/2024
