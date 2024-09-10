@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Nhiều người đổ xô mua thực phẩm, bếp gas](https://vnexpress.net/nhieu-nguoi-do-xo-mua-thuc-pham-bep-gas-4791268.html) - 15:40 10/09/2024
+- 🚀 [Nhiều người đổ xô mua thực phẩm, bếp gas vì sợ lụt](https://vnexpress.net/nhieu-nguoi-do-xo-mua-thuc-pham-bep-gas-vi-so-lut-4791268.html) - 15:40 10/09/2024
 - 🎓 [Vietjet hỗ trợ vùng ảnh hưởng bão lũ](https://vnexpress.net/vietjet-ho-tro-vung-anh-huong-bao-lu-4791382.html) - 13:30 10/09/2024
 - 🚦 [Chạy quảng cáo để tìm người yêu](https://vnexpress.net/chay-quang-cao-de-tim-nguoi-yeu-4790201.html) - 08:20 10/09/2024
 - 🦣 [Quỹ Hy vọng cùng đồng bào vượt bão](https://vnexpress.net/quy-hy-vong-cung-dong-bao-vuot-bao-4791218.html) - 08:18 10/09/2024
