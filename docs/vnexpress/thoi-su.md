@@ -14,14 +14,14 @@ sidebar_position: 1
 - 👺 [Vùng nguy cơ ngập lụt tại Hà Nội và các tỉnh phía Bắc](https://vnexpress.net/vung-nguy-co-ngap-lut-tai-ha-noi-va-cac-tinh-phia-bac-4791191.html) - 08:09 10/09/2024
 - 🧑‍🏫 [87 người chết, 70 người mất tích do bão Yagi](https://vnexpress.net/87-nguoi-chet-70-nguoi-mat-tich-do-bao-yagi-4791067.html) - 06:00 10/09/2024
 - 🚦 [Chạy lụt ven sông Hồng](https://vnexpress.net/chay-lut-ven-song-hong-4790961.html) - 06:00 10/09/2024
-- 🎉 [Ngập lụt miền Bắc: Người Thái Nguyên bơi ra cổng nhà lấy đồ tiếp tế](https://vnexpress.net/lu-lut-o-mien-bac-do-hoan-luu-bao-yagi-4791150.html) - 05:38 10/09/2024
+- 🎉 [Ngập lụt miền Bắc: Lũ tràn vào nhà dân ở Tuyên Quang](https://vnexpress.net/lu-lut-o-mien-bac-do-hoan-luu-bao-yagi-4791150.html) - 05:38 10/09/2024
 - 🦒 [Thời tiết miền Bắc: Yên Bái nguy cơ sạt lở cao nhất](https://vnexpress.net/du-bao-thoi-tiet-mien-bac-4791167.html) - 04:59 10/09/2024
 - 🤗 [Tìm thấy 9 thi thể nạn nhân bị cuốn trôi cùng xe khách](https://vnexpress.net/tim-thay-9-thi-the-nan-nhan-bi-cuon-troi-cung-xe-khach-4791093.html) - 04:36 10/09/2024
 - 💼 [Cao tốc Pháp Vân - Cầu Giẽ bị ngập nước, hạn chế xe lưu thông](https://vnexpress.net/cao-toc-phap-van-cau-gie-bi-ngap-nuoc-han-che-xe-luu-thong-4791143.html) - 04:27 10/09/2024
 - 🤩 [Cấm phương tiện qua cầu Vĩnh Phú nối Phú Thọ - Vĩnh Phúc](https://vnexpress.net/cam-phuong-tien-qua-cau-vinh-phu-noi-phu-tho-vinh-phuc-4791088.html) - 04:16 10/09/2024
 - 🤡 [Gần 2 giờ vật lộn cứu người giữa đêm lũ dâng](https://vnexpress.net/gan-2-gio-vat-lon-cuu-nguoi-giua-dem-lu-dang-4791001.html) - 02:35 10/09/2024
 - 💯 [Cấm nhiều loại xe qua cầu Chương Dương](https://vnexpress.net/cam-nhieu-loai-xe-qua-cau-chuong-duong-4790990.html) - 00:22 10/09/2024
-- 👺 [Hà Nội báo động một sông Hồng, báo động ba sông Nhuệ](https://vnexpress.net/ha-noi-chay-lut-4790985.html) - 00:11 10/09/2024
+- 👺 [Hà Nội báo động lũ sông Hồng và Nhuệ, vỡ bờ bao ở Sóc Sơn](https://vnexpress.net/ha-noi-chay-lut-4790985.html) - 00:11 10/09/2024
 - 🌮 [Dân rốn lũ Chương Mỹ đắp đập, bơi thuyền](https://vnexpress.net/dan-ron-lu-chuong-my-dap-dap-boi-thuyen-4790958.html) - 23:00 09/09/2024
 - 🥸 [Lũ sông Thao, sông Cầu vượt mức đỉnh hơn 50 năm](https://vnexpress.net/lu-song-thao-song-cau-vuot-muc-dinh-hon-50-nam-4790931.html) - 21:15 09/09/2024
 - 🐻 [Xe đầu kéo chở than rơi xuống vực](https://vnexpress.net/xe-dau-keo-cho-than-roi-xuong-vuc-4790950.html) - 17:20 09/09/2024
