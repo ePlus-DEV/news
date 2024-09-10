@@ -19,7 +19,7 @@ sidebar_position: 1
 - 🤗 [Vùng nguy cơ ngập lụt tại Hà Nội và các tỉnh phía Bắc](https://vnexpress.net/vung-nguy-co-ngap-lut-tai-ha-noi-va-cac-tinh-phia-bac-4791191.html) - 08:09 10/09/2024
 - 💼 [87 người chết, 70 người mất tích do bão Yagi](https://vnexpress.net/87-nguoi-chet-70-nguoi-mat-tich-do-bao-yagi-4791067.html) - 06:00 10/09/2024
 - 🤩 [Chạy lụt ven sông Hồng](https://vnexpress.net/chay-lut-ven-song-hong-4790961.html) - 06:00 10/09/2024
-- 🤡 [Mưa lũ miền Bắc: Sập nhà điều hành thủy điện, 5 người mất tích](https://vnexpress.net/lu-lut-o-mien-bac-do-hoan-luu-bao-yagi-4791150.html) - 05:38 10/09/2024
+- 🤡 [Mưa lũ miền Bắc: 127 người chết, 54 người mất tích](https://vnexpress.net/lu-lut-o-mien-bac-do-hoan-luu-bao-yagi-4791150.html) - 05:38 10/09/2024
 - 💯 [Thời tiết miền Bắc: Lũ sông Hồng ở Hà Nội tiếp tục lên](https://vnexpress.net/du-bao-thoi-tiet-mien-bac-4791167.html) - 04:59 10/09/2024
 - 👺 [Tìm thấy 9 thi thể nạn nhân bị cuốn trôi cùng xe khách](https://vnexpress.net/tim-thay-9-thi-the-nan-nhan-bi-cuon-troi-cung-xe-khach-4791093.html) - 04:36 10/09/2024
 - 🌮 [Cao tốc Pháp Vân - Cầu Giẽ bị ngập nước, hạn chế xe lưu thông](https://vnexpress.net/cao-toc-phap-van-cau-gie-bi-ngap-nuoc-han-che-xe-luu-thong-4791143.html) - 04:27 10/09/2024
