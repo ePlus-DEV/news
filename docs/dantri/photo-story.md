@@ -5,7 +5,7 @@ sidebar_position: 28
 
 <!-- dantri-photo-story:START -->
 - 💪 [Đêm trắng lên phương án lắp cầu phao thay thế tạm thời cầu Phong Châu](https://dantri.com.vn/xa-hoi/dem-trang-len-phuong-an-lap-cau-phao-thay-the-tam-thoi-cau-phong-chau-20240910060815968.htm) - 23:34 09/09/2024
-- 🧰 [Ở nhờ nhà 15m2, đi vệ sinh chung, nghệ sĩ Tuồng ngao ngán than &quot;khổ quá&quot;](https://dantri.com.vn/giai-tri/o-nho-nha-15m2-di-ve-sinh-chung-nghe-si-tuong-ngao-ngan-than-kho-qua-20240910032619749.htm) - 23:02 09/09/2024
+- 🧰 [Ở nhờ nhà 15m2, đi vệ sinh chung, nghệ sĩ tuồng vẫn hết mình với đam mê](https://dantri.com.vn/giai-tri/o-nho-nha-15m2-di-ve-sinh-chung-nghe-si-tuong-van-het-minh-voi-dam-me-20240910032619749.htm) - 23:02 09/09/2024
 - 🧰 [Nước sông Hồng dâng rất nhanh, người Hà Nội &quot;chạy ngập&quot; xuyên đêm](https://dantri.com.vn/xa-hoi/nuoc-song-hong-dang-rat-nhanh-nguoi-ha-noi-chay-ngap-xuyen-dem-20240910023444269.htm) - 19:45 09/09/2024
 - 😎 [Chủ tàu du lịch bị chìm ở Hạ Long: &quot;Gia đình tôi vỡ nợ rồi&quot;](https://dantri.com.vn/xa-hoi/chu-tau-du-lich-bi-chim-o-ha-long-gia-dinh-toi-vo-no-roi-20240910002605217.htm) - 19:34 09/09/2024
 - 🎓 [Nước sông Hồng dâng sát mức báo động, nguy cơ gây ngập ở Hà Nội](https://dantri.com.vn/xa-hoi/nuoc-song-hong-dang-sat-muc-bao-dong-nguy-co-gay-ngap-o-ha-noi-20240909183821142.htm) - 11:54 09/09/2024
