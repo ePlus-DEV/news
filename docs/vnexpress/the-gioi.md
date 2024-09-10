@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Lễ đón Tổng Bí thư, Chủ tịch nước Lào thăm Việt Nam](https://vnexpress.net/le-don-tong-bi-thu-chu-tich-nuoc-lao-tham-viet-nam-4791029.html) - 03:37 10/09/2024
+- 🎭 [Lễ đón Tổng Bí thư, Chủ tịch nước Lào](https://vnexpress.net/le-don-tong-bi-thu-chu-tich-nuoc-lao-4791029.html) - 03:37 10/09/2024
 - 🕴 [Vùng nhân đạo ở Gaza trúng tên lửa Israel, ít nhất 40 người chết](https://vnexpress.net/vung-nhan-dao-o-gaza-trung-ten-lua-israel-it-nhat-40-nguoi-chet-4791007.html) - 03:05 10/09/2024
 - 🤭 [Chiến dịch Harris sẽ đăng video mỉa mai ông Trump trong ngày tranh luận](https://vnexpress.net/chien-dich-harris-se-dang-video-mia-mai-ong-trump-trong-ngay-tranh-luan-4790892.html) - 02:20 10/09/2024
 - 🧑‍💻 [Israel chặn đoàn xe Liên Hợp Quốc ở Dải Gaza](https://vnexpress.net/israel-chan-doan-xe-lien-hop-quoc-o-dai-gaza-4790981.html) - 00:22 10/09/2024
