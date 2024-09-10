@@ -211,7 +211,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp bóng đá Colombia 0-0 Argentina: Hiệp 1](https://laodong.vn/the-thao/truc-tiep-bong-da-colombia-0-0-argentina-hiep-1-1392410.ldo) - 19:30 10/09/2024
+- 🗽 [Trực tiếp bóng đá Colombia 1-0 Argentina: Mosquera mở tỉ số](https://laodong.vn/the-thao/truc-tiep-bong-da-colombia-1-0-argentina-mosquera-mo-ti-so-1392410.ldo) - 19:30 10/09/2024
 - 📝 [Triệu tập 2 đối tượng tung tin sai về vỡ thủy điện ở Lào Cai](https://laodong.vn/phap-luat/trieu-tap-2-doi-tuong-tung-tin-sai-ve-vo-thuy-dien-o-lao-cai-1392431.ldo) - 16:47 10/09/2024
 - 🦏 [Phường Phú Đô di dời khẩn cấp 25 hộ dân khu vực sông Nhuệ](https://laodong.vn/ban-doc/phuong-phu-do-di-doi-khan-cap-25-ho-dan-khu-vuc-song-nhue-1392446.ldo) - 16:28 10/09/2024
 - 🦩 [Vỡ đê sông Lô đoạn qua Tuyên Quang - khẩn cấp ứng phó](https://laodong.vn/xa-hoi/vo-de-song-lo-doan-qua-tuyen-quang-khan-cap-ung-pho-1392436.ldo) - 16:20 10/09/2024
