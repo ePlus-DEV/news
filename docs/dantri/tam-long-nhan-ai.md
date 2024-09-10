@@ -4,7 +4,7 @@ sidebar_position: 20
 ---
 
 <!-- dantri-tam-long-nhan-ai:START -->
-- 🌝 [Nghệ sĩ Mai Thanh Hà góp 100 triệu đồng, cùng báo Dân trí cứu trợ đồng bào trong lũ dữ](https://dantri.com.vn/giai-tri/nghe-si-mai-thanh-ha-gop-100-trieu-dong-cung-bao-dan-tri-cuu-tro-dong-bao-trong-lu-du-20240910120357063.htm) - 05:28 10/09/2024
+- 🌝 [Mai Thanh Hà góp 100 triệu, cùng báo Dân trí cứu trợ đồng bào trong lũ dữ](https://dantri.com.vn/giai-tri/mai-thanh-ha-gop-100-trieu-cung-bao-dan-tri-cuu-tro-dong-bao-trong-lu-du-20240910120357063.htm) - 05:28 10/09/2024
 - 🌜 [Chương trình Nhân ái: Chung tay cứu trợ đồng bào miền Bắc trong lũ dữ](https://dantri.com.vn/tam-long-nhan-ai/chuong-trinh-nhan-ai-chung-tay-cuu-tro-dong-bao-mien-bac-trong-lu-du-20240910105559000.htm) - 04:15 10/09/2024
 - 👀 [2 mẹ con cùng mắc bệnh hiểm, 27 năm sống bằng máu người khác](https://dantri.com.vn/tam-long-nhan-ai/2-me-con-cung-mac-benh-hiem-27-nam-song-bang-mau-nguoi-khac-20240903124142462.htm) - 22:41 09/09/2024
 - 🚀 [Trao 350 thẻ bảo hiểm y tế đến học sinh tại miền Trung - Tây Nguyên](https://dantri.com.vn/tam-long-nhan-ai/trao-350-the-bao-hiem-y-te-den-hoc-sinh-tai-mien-trung-tay-nguyen-20240909111103179.htm) - 22:18 09/09/2024
