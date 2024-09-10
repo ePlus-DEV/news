@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hiện trường tàu, sà lan mắc kẹt ở cầu nối Phú Thọ - Vĩnh Phúc](https://vnexpress.net/hien-truong-tau-sa-lan-mac-ket-o-cau-noi-phu-tho-vinh-phuc-4791318.html) - 10:50 10/09/2024
+- 🦒 [Hiện trường 7 tàu, sà lan mắc kẹt ở cầu nối Phú Thọ - Vĩnh Phúc](https://vnexpress.net/hien-truong-7-tau-sa-lan-mac-ket-o-cau-noi-phu-tho-vinh-phuc-4791318.html) - 10:50 10/09/2024
 - 🤓 [Thủ tướng: Nghiên cứu sử dụng đường không tiếp tế nhu yếu phẩm cho người dân](https://vnexpress.net/thu-tuong-nghien-cuu-su-dung-duong-khong-tiep-te-nhu-yeu-pham-cho-nguoi-dan-4791306.html) - 10:28 10/09/2024
 - ⚗️ [Đề xuất xây cầu Phong Châu mới thay thế cầu bị sập](https://vnexpress.net/de-xuat-xay-cau-phong-chau-moi-thay-the-cau-bi-sap-4791305.html) - 10:11 10/09/2024
 - 🌊 [Tiệm bánh mì khiến 149 người ngộ độc bị đình chỉ hoạt động 4 tháng](https://vnexpress.net/tiem-banh-mi-khien-149-nguoi-ngo-doc-bi-dinh-chi-hoat-dong-4-thang-4791302.html) - 10:02 10/09/2024
