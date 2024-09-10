@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [HLV Kim Sang Sik nói gì khi đội tuyển Việt Nam thua Thái Lan?](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-noi-gi-khi-doi-tuyen-viet-nam-thua-thai-lan-20240910221225283.htm) - 15:12 10/09/2024
+- 🎡 [HLV Kim Sang Sik: &quot;Cầu thủ Việt Nam chưa đủ thể trạng để thi đấu 90 phút&quot;](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-cau-thu-viet-nam-chua-du-the-trang-de-thi-dau-90-phut-20240910221225283.htm) - 15:12 10/09/2024
 - 💯 [HLV Thái Lan: &quot;Đội tuyển Việt Nam nhập cuộc tốt hơn chúng tôi&quot;](https://dantri.com.vn/the-thao/hlv-thai-lan-doi-tuyen-viet-nam-nhap-cuoc-tot-hon-chung-toi-20240910220808885.htm) - 15:08 10/09/2024
 - ⛽️ [Chơi hơn người, Trung Quốc vẫn thua cay đắng trước Saudi Arabia](https://dantri.com.vn/the-thao/choi-hon-nguoi-trung-quoc-van-thua-cay-dang-truoc-saudi-arabia-20240910215843882.htm) - 15:01 10/09/2024
 - 💃 [Hai đối thủ của đội tuyển Việt Nam tại AFF Cup đồng loạt có HLV mới](https://dantri.com.vn/the-thao/hai-doi-thu-cua-doi-tuyen-viet-nam-tai-aff-cup-dong-loat-co-hlv-moi-20240910222232291.htm) - 15:00 10/09/2024
