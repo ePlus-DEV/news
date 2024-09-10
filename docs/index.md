@@ -170,7 +170,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🔥 [Hội Nhà báo Việt Nam kêu gọi ủng hộ người dân vùng mưa lũ](https://thanhnien.vn/hoi-nha-bao-viet-nam-keu-goi-ung-ho-nguoi-dan-vung-mua-lu-185240910183418557.htm) - 12:00 10/09/2024
 - 🌋 [Bỏ túi ngay những lưu ý về trang phục và trang sức dự tiệc cưới bạn thân](https://thanhnien.vn/thoi-trang-tre/bo-tui-ngay-nhung-luu-y-ve-trang-phuc-va-trang-suc-du-tiec-cuoi-ban-than-185240910183034279.htm) - 12:00 10/09/2024
 - 😎 [Điều gì giúp IMOU bứt phá tại thị trường camera an ninh Việt Nam?](https://thanhnien.vn/dieu-gi-giup-imou-but-pha-tai-thi-truong-camera-an-ninh-viet-nam-185240910182031478.htm) - 12:00 10/09/2024
-- 🥰 [Đội tuyển Việt Nam 1-2 Thái Lan: Patrik Gustavsson nâng tỷ số](https://thanhnien.vn/doi-tuyen-viet-nam-0-0-thai-lan-tran-cau-dang-cho-doi-cua-hlv-kim-sang-sik-185240910174818942.htm) - 12:00 10/09/2024
+- 🥰 [Đội tuyển Việt Nam 1-2 Thái Lan: Tuấn Hải vào sân, tìm bàn gỡ hòa](https://thanhnien.vn/doi-tuyen-viet-nam-0-0-thai-lan-tran-cau-dang-cho-doi-cua-hlv-kim-sang-sik-185240910174818942.htm) - 12:00 10/09/2024
 - 🧑‍🏫 [Người dân Lào Cai hãi hùng vật lộn với cơn lũ lịch sử](https://thanhnien.vn/nguoi-dan-lao-cai-hai-hung-vat-lon-voi-con-lu-lich-su-185240910183439155.htm) - 11:55 10/09/2024
 - 💄 [Truy tặng Huy chương Kháng chiến hạng Nhì cho người bị nghi oan hàng chục năm](https://thanhnien.vn/truy-tang-huy-chuong-khang-chien-hang-nhi-cho-nguoi-bi-nghi-oan-hang-chuc-nam-185240910170425901.htm) - 11:54 10/09/2024
 - 💯 [Phát hiện nhiều sai phạm tại Dự án khẩn cấp công trình Cảng cá Gành Hào](https://thanhnien.vn/phat-hien-nhieu-sai-pham-tai-du-an-khan-cap-cong-trinh-cang-ca-ganh-hao-185240910164714862.htm) - 11:49 10/09/2024
@@ -203,7 +203,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - ⛽️ [Cảnh báo thời tiết nguy hiểm tại Hà Nội chiều nay](https://thanhnien.vn/canh-bao-thoi-tiet-nguy-hiem-tai-ha-noi-chieu-nay-185240910173110048.htm) - 10:46 10/09/2024
 - 🎉 [Hồ Ngọc Hà dùng doanh thu MV mới hỗ trợ người dân vùng bão lũ](https://thanhnien.vn/ho-ngoc-ha-dung-doanh-thu-mv-moi-ho-tro-nguoi-dan-vung-bao-lu-185240910173334335.htm) - 10:42 10/09/2024
 - 🎊 [Thót tim giây phút sinh tử, giải cứu chiến sĩ bị lũ cuốn ở Lào Cai](https://thanhnien.vn/thot-tim-giay-phut-sinh-tu-giai-cuu-chien-si-bi-lu-cuon-o-lao-cai-185240910172228932.htm) - 10:37 10/09/2024
-- 🥳 [Nguyễn Tiến Minh thắng trận mở màn giải cầu lông Việt Nam mở rộng 2024](https://thanhnien.vn/nguyen-tien-minh-thang-tran-mo-man-giai-cau-long-viet-nam-mo-rong-2024-185240910172011373.htm) - 10:34 10/09/2024
+- 🥳 [Đến cửa chính bằng &#39;vé vớt&#39;, Tiến Minh vẫn thắng ngoạn mục đối thủ mạnh Ấn Độ](https://thanhnien.vn/nguyen-tien-minh-thang-tran-mo-man-giai-cau-long-viet-nam-mo-rong-2024-185240910172011373.htm) - 10:34 10/09/2024
 - 🤡 [Bác sĩ giỏi tiếng Pháp sẽ có nhiều cơ hội tu nghiệp ở Pháp](https://thanhnien.vn/bac-si-gioi-tieng-phap-se-co-nhieu-co-hoi-tu-nghiep-o-phap-185240910170547393.htm) - 10:34 10/09/2024<!-- thanhnien:END -->
 
 ## Báo Lao Động
