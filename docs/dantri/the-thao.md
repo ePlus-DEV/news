@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Indonesia 0-0 Australia &lpar;hiệp 2&rpar;: Indonesia thoát chết may mắn](https://dantri.com.vn/the-thao/indonesia-0-0-australia-hiep-2-indonesia-thoat-chet-may-man-20240910184138393.htm) - 11:42 10/09/2024
-- 💯 [Đội tuyển Việt Nam 1-1 Thái Lan &lpar;hiệp 1&rpar;: Suphanat gỡ hòa](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-1-1-thai-lan-hiep-1-suphanat-go-hoa-20240910182744813.htm) - 11:27 10/09/2024
+- 🎡 [Indonesia 0-0 Australia &lpar;hiệp 2&rpar;: Thủ môn nhập tịch quá xuất sắc](https://dantri.com.vn/the-thao/indonesia-0-0-australia-hiep-2-thu-mon-nhap-tich-qua-xuat-sac-20240910184138393.htm) - 11:42 10/09/2024
+- 💯 [Đội tuyển Việt Nam 1-2 Thái Lan &lpar;hiệp 1&rpar;: Patrik lập công](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-1-2-thai-lan-hiep-1-patrik-lap-cong-20240910182744813.htm) - 11:27 10/09/2024
 - ⛽️ [Báo Thái Lan chỉ ra cầu thủ đáng ngại nhất của đội tuyển Việt Nam](https://dantri.com.vn/the-thao/bao-thai-lan-chi-ra-cau-thu-dang-ngai-nhat-cua-doi-tuyen-viet-nam-20240910151108278.htm) - 08:11 10/09/2024
 - 💃 [Báo chí thế giới dự đoán kết quả trận đội tuyển Việt Nam gặp Thái Lan](https://dantri.com.vn/the-thao/bao-chi-the-gioi-du-doan-ket-qua-tran-doi-tuyen-viet-nam-gap-thai-lan-20240910114359625.htm) - 08:01 10/09/2024
 - 🌈 [HLV Park Hang Seo có hành động ý nghĩa với nạn nhân bão lụt tại Việt Nam](https://dantri.com.vn/the-thao/hlv-park-hang-seo-co-hanh-dong-y-nghia-voi-nan-nhan-bao-lut-tai-viet-nam-20240910143429871.htm) - 07:34 10/09/2024
