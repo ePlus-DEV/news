@@ -5,7 +5,7 @@ sidebar_position: 6
 
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Nhiều Gen Z Trung Quốc muốn về nông thôn làm việc](https://vnexpress.net/nhieu-gen-z-trung-quoc-muon-ve-nong-thon-lam-viec-4790110.html) - 00:46 10/09/2024
-- 🎓 [Hàng nghìn người Thái Nguyên cầu cứu trong nước lũ](https://vnexpress.net/hang-nghin-nguoi-thai-nguyen-cau-cuu-trong-nuoc-lu-4790940.html) - 16:05 09/09/2024
+- 🎓 [Người Thái Nguyên cầu cứu trong nước lũ](https://vnexpress.net/nguoi-thai-nguyen-cau-cuu-trong-nuoc-lu-4790940.html) - 16:05 09/09/2024
 - 🚦 [Tỷ lệ sinh giảm, nhiều mẫu giáo Trung Quốc hết học sinh](https://vnexpress.net/ty-le-sinh-giam-nhieu-mau-giao-trung-quoc-het-hoc-sinh-4790851.html) - 12:00 09/09/2024
 - 🦣 [Chả tôm nướng Thanh Hóa](https://vnexpress.net/cha-tom-nuong-thanh-hoa-4789860.html) - 10:29 09/09/2024
 - 🎓 [Người dân giúp nhau chạy lũ trong đêm](https://vnexpress.net/nguoi-dan-giup-nhau-chay-lu-trong-dem-4790688.html) - 09:00 09/09/2024
