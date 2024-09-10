@@ -5,7 +5,7 @@ sidebar_position: 23
 
 <!-- dantri-suc-khoe:START -->
 - 🤔 [Cảnh báo trẻ hóa người bị nhồi máu cơ tim, có ca chỉ ngoài 20 tuổi](https://dantri.com.vn/suc-khoe/canh-bao-tre-hoa-nguoi-bi-nhoi-mau-co-tim-co-ca-chi-ngoai-20-tuoi-20240910142917190.htm) - 10:54 10/09/2024
-- 🚦 [TPHCM: Lột da theo quảng cáo trên TikTok, cô gái 28 tuổi biến dạng mặt](https://dantri.com.vn/suc-khoe/tphcm-lot-da-theo-quang-cao-tren-tiktok-co-gai-28-tuoi-bien-dang-mat-20240910165255841.htm) - 10:50 10/09/2024
+- 🚦 [Lột da theo quảng cáo trên TikTok, cô gái ở TPHCM bị biến dạng mặt](https://dantri.com.vn/suc-khoe/lot-da-theo-quang-cao-tren-tiktok-co-gai-o-tphcm-bi-bien-dang-mat-20240910165255841.htm) - 10:50 10/09/2024
 - 🤖 [Vụ trưởng Đinh Anh Tuấn: Có việc &quot;lấy phôi của vợ thụ tinh cho bồ&quot;](https://dantri.com.vn/suc-khoe/vu-truong-dinh-anh-tuan-co-viec-lay-phoi-cua-vo-thu-tinh-cho-bo-20240910145312208.htm) - 08:44 10/09/2024
 - 🐻 [Tác hại của ánh sáng xanh với thị lực của trẻ](https://dantri.com.vn/suc-khoe/tac-hai-cua-anh-sang-xanh-voi-thi-luc-cua-tre-20240910135143073.htm) - 07:00 10/09/2024
 - 🌏 [Việt Nam nằm trong top 10 nước lười vận động nhất thế giới](https://dantri.com.vn/suc-khoe/viet-nam-nam-trong-top-10-nuoc-luoi-van-dong-nhat-the-gioi-20240910124547968.htm) - 06:26 10/09/2024
