@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- dantri-giao-duc:START -->
 - 🤡 [Ba chị em đẹp &quot;như hoa hậu&quot; cùng đỗ một trường đại học gây sốt](https://dantri.com.vn/giao-duc/ba-chi-em-dep-nhu-hoa-hau-cung-do-mot-truong-dai-hoc-gay-sot-20240910101457683.htm) - 04:11 10/09/2024
 - 🗽 [114 trường học ở Hà Nội vẫn đóng cửa do bão, có thể tiếp tục tăng](https://dantri.com.vn/giao-duc/114-truong-hoc-o-ha-noi-van-dong-cua-do-bao-co-the-tiep-tuc-tang-20240910103225273.htm) - 03:42 10/09/2024
-- 🚦 [Người duy nhất cả nước được xét chức danh giáo sư ngành luật](https://dantri.com.vn/giao-duc/nguoi-duy-nhat-ca-nuoc-duoc-xet-chuc-danh-giao-su-nganh-luat-20240910095457365.htm) - 03:13 10/09/2024
+- 🚦 [11 ứng viên giáo sư, phó giáo sư ngành luật năm 2024](https://dantri.com.vn/giao-duc/11-ung-vien-giao-su-pho-giao-su-nganh-luat-nam-2024-20240910095457365.htm) - 03:13 10/09/2024
 - 🌋 [Một trường đại học tuyển sinh theo phẩm chất cá nhân](https://dantri.com.vn/giao-duc/mot-truong-dai-hoc-tuyen-sinh-theo-pham-chat-ca-nhan-20240909192929933.htm) - 02:00 10/09/2024
 - 🏊 [Giám đốc Sở GD&amp;ĐT TPHCM: &quot;Tôi thấy xấu hổ khi giáo dục bị nói lạm thu&quot;](https://dantri.com.vn/giao-duc/giam-doc-so-gddt-tphcm-toi-thay-xau-ho-khi-giao-duc-bi-noi-lam-thu-20240910080224431.htm) - 01:17 10/09/2024
 - 🎃 [VUS lập kỷ lục số học viên đạt điểm tuyệt đối chứng chỉ Anh ngữ quốc tế](https://dantri.com.vn/giao-duc/vus-lap-ky-luc-so-hoc-vien-dat-diem-tuyet-doi-chung-chi-anh-ngu-quoc-te-20240909173401375.htm) - 01:00 10/09/2024
