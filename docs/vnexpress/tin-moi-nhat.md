@@ -54,5 +54,4 @@ sidebar_position: 9
 - 🐎 [Dấu hiệu nhận diện &#39;sốt&#39; đất thật - ảo](https://vnexpress.net/dau-hieu-nhan-dien-sot-dat-that-ao-4788656.html) - 04:00 11/09/2024
 - 🏊 [Lũ quét ở Lào Cai: 22 người chết, 73 người mất tích](https://vnexpress.net/lu-quet-o-lao-cai-22-nguoi-chet-73-nguoi-mat-tich-4791536.html) - 03:56 11/09/2024
 - 🦩 [Lưu Diệc Phi bị loại khỏi giải thưởng phim](https://vnexpress.net/luu-diec-phi-bi-loai-khoi-giai-thuong-phim-4791543.html) - 03:54 11/09/2024
-- 👍 [152 người chết, 140 người mất tích sau bão Yagi](https://vnexpress.net/152-nguoi-chet-140-nguoi-mat-tich-sau-bao-yagi-4790982.html) - 03:52 11/09/2024
-- 🔥 [Người phụ nữ Yên Bái mắc hội chứng vùi lấp](https://vnexpress.net/nguoi-phu-nu-yen-bai-mac-hoi-chung-vui-lap-4791473.html) - 03:46 11/09/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 👍 [152 người chết, 140 người mất tích sau bão Yagi](https://vnexpress.net/152-nguoi-chet-140-nguoi-mat-tich-sau-bao-yagi-4790982.html) - 03:52 11/09/2024<!-- vnexpress-tin-moi-nhat:END -->
