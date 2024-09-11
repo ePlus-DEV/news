@@ -13,8 +13,8 @@ sidebar_position: 1
 - 🦏 [Lũ quét ở Lào Cai: 30 người chết, 65 người mất tích](https://vnexpress.net/lu-quet-o-lao-cai-30-nguoi-chet-65-nguoi-mat-tich-4791536.html) - 03:56 11/09/2024
 - 👺 [155 người chết, 141 người mất tích sau bão Yagi](https://vnexpress.net/155-nguoi-chet-141-nguoi-mat-tich-sau-bao-yagi-4790982.html) - 03:52 11/09/2024
 - 🧑‍🏫 [Hàng không, đường sắt vận chuyển miễn phí hàng cứu trợ](https://vnexpress.net/hang-khong-duong-sat-van-chuyen-mien-phi-hang-cuu-tro-4791564.html) - 03:38 11/09/2024
-- 🚦 [Gần 16.000 người ở Sóc Sơn Hà Nội sống chung với lũ](https://vnexpress.net/dien-bien-mua-lu-ngay-11-9-4791534.html) - 02:44 11/09/2024
-- 🎉 [Cập nhật thời tiết miền Bắc: Nguy cơ lũ quét, sạt lở ở 16 tỉnh](https://vnexpress.net/cap-nhat-thoi-tiet-mien-bac-4791538.html) - 02:44 11/09/2024
+- 🚦 [Hàng chục nghìn người Hà Nội sống chung với lũ](https://vnexpress.net/dien-bien-mua-lu-ngay-11-9-4791534.html) - 02:44 11/09/2024
+- 🎉 [Cập nhật thời tiết miền Bắc: Lũ sông Hồng dưới báo động ba 36 cm](https://vnexpress.net/cap-nhat-thoi-tiet-mien-bac-4791538.html) - 02:44 11/09/2024
 - 🦒 [Cao tốc Pháp Vân - Cầu Giẽ cấm ôtô dưới 10 chỗ](https://vnexpress.net/cao-toc-phap-van-cau-gie-cam-oto-duoi-10-cho-4791513.html) - 02:04 11/09/2024
 - 🤗 [Lật xe khách, 4 người tử vong](https://vnexpress.net/lat-xe-khach-4-nguoi-tu-vong-4791515.html) - 01:59 11/09/2024
 - 💼 [Đường độc đạo sạt lở, bản ở Nghệ An bị cô lập suốt hai tuần](https://vnexpress.net/duong-doc-dao-sat-lo-ban-o-nghe-an-bi-co-lap-suot-hai-tuan-4791470.html) - 00:43 11/09/2024
