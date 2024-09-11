@@ -319,8 +319,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦆 [Cuộc tranh luận quan trọng giữa 2 ứng viên tổng thống Mỹ](https://www.sggp.org.vn/cuoc-tranh-luan-quan-trong-giua-2-ung-vien-tong-thong-my-post758310.html) - 02:02 11/09/2024
 - 🦩 [Vào học muộn để cải thiện sức khỏe](https://www.sggp.org.vn/vao-hoc-muon-de-cai-thien-suc-khoe-post758309.html) - 01:55 11/09/2024
 - 🥰 [EU thắng lớn trong cuộc chiến pháp lý với Apple và Google](https://www.sggp.org.vn/eu-thang-lon-trong-cuoc-chien-phap-ly-voi-apple-va-google-post758306.html) - 01:52 11/09/2024
-- 🎬 [Tuyển sinh trường nghề mừng ít, lo nhiều](https://www.sggp.org.vn/tuyen-sinh-truong-nghe-mung-it-lo-nhieu-post758298.html) - 01:51 11/09/2024
-- 🦩 [Lật xe khách trên đường Hồ Chí Minh, ít nhất 3 người tử vong](https://www.sggp.org.vn/lat-xe-khach-tren-duong-ho-chi-minh-it-nhat-3-nguoi-tu-vong-post758315.html) - 01:44 11/09/2024
+- 🎬 [Tuyển sinh trường nghề: Mừng ít, lo nhiều](https://www.sggp.org.vn/tuyen-sinh-truong-nghe-mung-it-lo-nhieu-post758298.html) - 01:51 11/09/2024
+- 🦩 [Lật xe khách, ít nhất 3 người tử vong](https://www.sggp.org.vn/lat-xe-khach-it-nhat-3-nguoi-tu-vong-post758315.html) - 01:44 11/09/2024
 - 🌮 [Bục đê sông Lô, nước sông Hồng qua Hà Nội lên nhanh](https://www.sggp.org.vn/buc-de-song-lo-nuoc-song-hong-qua-ha-noi-len-nhanh-post758308.html) - 01:40 11/09/2024
 - 👍 [Harry Kane ghi cú đúp trong trận thứ 100 cho tuyển Anh](https://www.sggp.org.vn/harry-kane-ghi-cu-dup-trong-tran-thu-100-cho-tuyen-anh-post758314.html) - 01:20 11/09/2024
 - 🦒 [Lũ trên sông Hồng vượt báo động 2: Hà Nội cấm tàu xe qua cầu Đuống và Long Biên](https://www.sggp.org.vn/lu-tren-song-hong-vuot-bao-dong-2-ha-noi-cam-tau-xe-qua-cau-duong-va-long-bien-post758304.html) - 00:55 11/09/2024
