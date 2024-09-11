@@ -5,7 +5,7 @@ sidebar_position: 6
 
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Ngày hội nhà sáng tạo nội dung số - Vietnam iContent lần đầu tổ chức](https://vnexpress.net/ngay-hoi-nha-sang-tao-noi-dung-so-vietnam-icontent-lan-dau-to-chuc-4791358.html) - 05:30 11/09/2024
-- 🎓 [Người dân Thái Nguyên xuyên đêm đắp đê ngăn lũ](https://vnexpress.net/nguoi-dan-thai-nguyen-xuyen-dem-dap-de-ngan-lu-4791236.html) - 05:08 11/09/2024
+- 🎓 [Người Thái Nguyên xuyên đêm đắp đê ngăn lũ](https://vnexpress.net/nguoi-thai-nguyen-xuyen-dem-dap-de-ngan-lu-4791236.html) - 05:08 11/09/2024
 - 🚦 [Nấu cơm, làm bánh tặng người khó khăn sau bão](https://vnexpress.net/nau-com-lam-banh-tang-nguoi-kho-khan-sau-bao-4791378.html) - 23:00 10/09/2024
 - 🦣 [Nhiều người đổ xô mua thực phẩm, bếp gas vì sợ lụt](https://vnexpress.net/nhieu-nguoi-do-xo-mua-thuc-pham-bep-gas-vi-so-lut-4791268.html) - 15:40 10/09/2024
 - 🎓 [Vietjet hỗ trợ vùng ảnh hưởng bão lũ](https://vnexpress.net/vietjet-ho-tro-vung-anh-huong-bao-lu-4791382.html) - 13:30 10/09/2024
