@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Tên gọi sông Nhuệ có nghĩa là gì?](https://vnexpress.net/ten-goi-song-nhue-co-nghia-la-gi-4791753.html) - 13:24 11/09/2024
+- 🤓 [Tên gọi sông Nhuệ có ý nghĩa gì?](https://vnexpress.net/ten-goi-song-nhue-co-y-nghia-gi-4791753.html) - 13:24 11/09/2024
 - 🦆 [Nhiều tỉnh dự kiến học sinh nghỉ học hết tuần](https://vnexpress.net/nhieu-tinh-du-kien-hoc-sinh-nghi-hoc-het-tuan-4791588.html) - 08:43 11/09/2024
 - 🦩 [Trường học vùng lũ cấp tốc chuyển học online](https://vnexpress.net/truong-hoc-vung-lu-cap-toc-chuyen-hoc-online-4791611.html) - 07:20 11/09/2024
 - 🌮 [Hai cách thay thế &#39;busy&#39; trong tiếng Anh](https://vnexpress.net/hai-cach-thay-the-busy-trong-tieng-anh-4791680.html) - 06:40 11/09/2024
