@@ -7,11 +7,11 @@ sidebar_position: 1
 - 🦒 [Bình Định ủng hộ 12 tỷ đồng, cử hơn 100 người hỗ trợ các tỉnh miền Bắc](https://vnexpress.net/binh-dinh-ung-ho-12-ty-dong-cu-hon-100-nguoi-ho-tro-cac-tinh-mien-bac-4791835.html) - 12:45 11/09/2024
 - 🤓 [FPT Telecom dồn lực khôi phục hạ tầng mạng vùng bão lũ](https://vnexpress.net/fpt-telecom-don-luc-khoi-phuc-ha-tang-mang-vung-bao-lu-4791801.html) - 11:30 11/09/2024
 - ⚗️ [Bới đất đá tìm nạn nhân mất tích do lũ quét ở Lào Cai](https://vnexpress.net/boi-dat-da-tim-nan-nhan-mat-tich-do-lu-quet-o-lao-cai-4791802.html) - 11:24 11/09/2024
-- 🌊 [Hỗ trợ 3 triệu đồng/tháng cho hộ dân di dời khỏi nhà nguy hiểm](https://vnexpress.net/ho-tro-3-trieu-dong-thang-cho-ho-dan-di-doi-khoi-nha-nguy-hiem-4791771.html) - 11:14 11/09/2024
+- 🌊 [Hỗ trợ 3 triệu đồng mỗi tháng cho hộ dân di dời khỏi nhà nguy hiểm](https://vnexpress.net/ho-tro-3-trieu-dong-moi-thang-cho-ho-dan-di-doi-khoi-nha-nguy-hiem-4791771.html) - 11:14 11/09/2024
 - 🎓 [Chuyến hàng viện trợ quốc tế đầu tiên về Việt Nam](https://vnexpress.net/chuyen-hang-vien-tro-quoc-te-dau-tien-ve-viet-nam-4791778.html) - 10:16 11/09/2024
 - 🔥 [Dừng phà nối Bến Tre - Vĩnh Long trong hai đêm](https://vnexpress.net/dung-pha-noi-ben-tre-vinh-long-trong-hai-dem-4791796.html) - 10:12 11/09/2024
 - 🦏 [Cựu Bí thư Hà Giang Đặng Quốc Khánh bị đề nghị kỷ luật](https://vnexpress.net/cuu-bi-thu-ha-giang-dang-quoc-khanh-bi-de-nghi-ky-luat-4791780.html) - 09:51 11/09/2024
-- 👺 [Sạt lở khi 600 người đang tìm kiếm nạn nhân mất tích tại Lào Cai](https://vnexpress.net/sat-lo-khi-600-nguoi-dang-tim-kiem-nan-nhan-mat-tich-tai-lao-cai-4791718.html) - 08:08 11/09/2024
+- 👺 [Sạt lở khi 600 người đang tìm kiếm nạn nhân mất tích tại Lào Cai](https://vnexpress.net/sat-lo-khi-600-nguoi-dang-tim-kiem-nan-nhan-mat-tich-tai-lao-cai-4791718-tong-thuat.html) - 08:08 11/09/2024
 - 🧑‍🏫 [&#39;Nội thành Hà Nội an toàn dù lũ sông Hồng báo động ba&#39;](https://vnexpress.net/noi-thanh-ha-noi-an-toan-du-lu-song-hong-bao-dong-ba-4791662.html) - 07:31 11/09/2024
 - 🚦 [Người Hà Nội bì bõm trong lũ chưa từng có 20 năm qua](https://vnexpress.net/nguoi-ha-noi-bi-bom-trong-lu-chua-tung-co-20-nam-qua-4791609.html) - 06:05 11/09/2024
 - 🎉 [Hiện trạng 6 cầu huyết mạch cấm xe do mưa lũ](https://vnexpress.net/hien-trang-6-cau-huyet-mach-cam-xe-do-mua-lu-4791522.html) - 05:33 11/09/2024
@@ -21,7 +21,7 @@ sidebar_position: 1
 - 🤩 [179 người chết, 145 người mất tích sau bão Yagi](https://vnexpress.net/179-nguoi-chet-145-nguoi-mat-tich-sau-bao-yagi-4790982.html) - 03:52 11/09/2024
 - 🤡 [Hàng không, đường sắt vận chuyển miễn phí hàng cứu trợ](https://vnexpress.net/hang-khong-duong-sat-van-chuyen-mien-phi-hang-cuu-tro-4791564.html) - 03:38 11/09/2024
 - 💯 [Lũ trên sông Hồng tại Hà Nội gần đạt đỉnh](https://vnexpress.net/dien-bien-mua-lu-ngay-11-9-4791534.html) - 02:44 11/09/2024
-- 👺 [Cập nhật thời tiết miền Bắc: Lũ sông Hồng dưới báo động ba 28 cm](https://vnexpress.net/cap-nhat-thoi-tiet-mien-bac-4791538.html) - 02:44 11/09/2024
+- 👺 [Cập nhật thời tiết miền Bắc: Mưa sẽ giảm ở miền núi](https://vnexpress.net/cap-nhat-thoi-tiet-mien-bac-4791538.html) - 02:44 11/09/2024
 - 🌮 [Cao tốc Pháp Vân - Cầu Giẽ cấm ôtô dưới 10 chỗ](https://vnexpress.net/cao-toc-phap-van-cau-gie-cam-oto-duoi-10-cho-4791513.html) - 02:04 11/09/2024
 - 🥸 [Lật xe khách, 4 người tử vong](https://vnexpress.net/lat-xe-khach-4-nguoi-tu-vong-4791515.html) - 01:59 11/09/2024
 - 🐻 [Đường độc đạo sạt lở, bản ở Nghệ An bị cô lập suốt hai tuần](https://vnexpress.net/duong-doc-dao-sat-lo-ban-o-nghe-an-bi-co-lap-suot-hai-tuan-4791470.html) - 00:43 11/09/2024
