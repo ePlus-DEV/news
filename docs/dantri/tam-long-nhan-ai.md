@@ -4,7 +4,7 @@ sidebar_position: 20
 ---
 
 <!-- dantri-tam-long-nhan-ai:START -->
-- 🌝 [Thảm họa Làng Nủ: Cả thôn bị xóa sổ - Hãy chung tay góp sức xây lại mái ấm!](https://dantri.com.vn/tam-long-nhan-ai/tham-hoa-lang-nu-ca-thon-bi-xoa-so-hay-chung-tay-gop-suc-xay-lai-mai-am-20240911151224757.htm) - 08:31 11/09/2024
+- 🌝 [Thảm họa ở Lào Cai: Cả thôn bị xóa sổ - Hãy chung tay xây lại Làng Nủ](https://dantri.com.vn/tam-long-nhan-ai/tham-hoa-o-lao-cai-ca-thon-bi-xoa-so-hay-chung-tay-xay-lai-lang-nu-20240911151224757.htm) - 08:31 11/09/2024
 - 🌜 [Báo Dân trí tiếp nhận hơn 1,7 tỉ đồng và gần 5 tấn lương thực, thực phẩm](https://dantri.com.vn/tam-long-nhan-ai/bao-dan-tri-tiep-nhan-hon-17-ti-dong-va-gan-5-tan-luong-thuc-thuc-pham-20240911144046436.htm) - 07:48 11/09/2024
 - 👀 [6 tấn gạo cùng 2 tấn nhu yếu phẩm đến với 2 huyện lũ lụt tỉnh Bắc Giang](https://dantri.com.vn/tam-long-nhan-ai/6-tan-gao-cung-2-tan-nhu-yeu-pham-den-voi-2-huyen-lu-lut-tinh-bac-giang-20240911134246315.htm) - 07:12 11/09/2024
 - 🚀 [Báo Dân trí tổ chức trao tặng 300 bánh trung thu đến trẻ em vùng cao](https://dantri.com.vn/tam-long-nhan-ai/bao-dan-tri-to-chuc-trao-tang-300-banh-trung-thu-den-tre-em-vung-cao-20240911084329372.htm) - 06:42 11/09/2024
