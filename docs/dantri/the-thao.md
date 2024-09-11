@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Báo Indonesia nói lời đáng buồn về đội tuyển Việt Nam](https://dantri.com.vn/the-thao/bao-indonesia-noi-loi-dang-buon-ve-doi-tuyen-viet-nam-20240911154439596.htm) - 08:44 11/09/2024
+- 🎡 [Báo Indonesia nói lời đáng buồn về đội tuyển Việt Nam](https://dantri.com.vn/the-thao/bao-indonesia-noi-loi-dang-buon-ve-doi-tuyen-viet-nam-20240911154439596.htm) - 10:44 11/09/2024
 - 💯 [Trình độ đội tuyển Việt Nam đang ở đâu so với Thái Lan?](https://dantri.com.vn/the-thao/trinh-do-doi-tuyen-viet-nam-dang-o-dau-so-voi-thai-lan-20240911130647680.htm) - 08:01 11/09/2024
 - ⛽️ [Tuyển Indonesia lập nhiều kỷ lục ấn tượng ở vòng loại World Cup 2026](https://dantri.com.vn/the-thao/tuyen-indonesia-lap-nhieu-ky-luc-an-tuong-o-vong-loai-world-cup-2026-20240911130719191.htm) - 07:56 11/09/2024
 - 💃 [HLV Shin Tae Yong lên tiếng sau khi Indonesia liên tiếp tạo địa chấn](https://dantri.com.vn/the-thao/hlv-shin-tae-yong-len-tieng-sau-khi-indonesia-lien-tiep-tao-dia-chan-20240911105852766.htm) - 06:16 11/09/2024
