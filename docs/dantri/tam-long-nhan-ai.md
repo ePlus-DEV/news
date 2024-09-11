@@ -5,7 +5,7 @@ sidebar_position: 20
 
 <!-- dantri-tam-long-nhan-ai:START -->
 - 🌝 [Nữ bệnh nhân suy đa tạng nguy kịch, gia đình cầu cứu bạn đọc Dân trí](https://dantri.com.vn/tam-long-nhan-ai/nu-benh-nhan-suy-da-tang-nguy-kich-gia-dinh-cau-cuu-ban-doc-dan-tri-20240903233548635.htm) - 20:42 10/09/2024
-- 🌜 [Báo Dân trí tiếp nhận gần 1 tỉ đồng cùng hơn 4 tấn hàng cứu trợ vùng lũ](https://dantri.com.vn/tam-long-nhan-ai/bao-dan-tri-tiep-nhan-gan-1-ti-dong-cung-hon-4-tan-hang-cuu-tro-vung-lu-20240910222202845.htm) - 16:20 10/09/2024
+- 🌜 [Báo Dân trí tiếp nhận gần 1 tỷ đồng cùng hơn 4 tấn hàng cứu trợ vùng lũ](https://dantri.com.vn/tam-long-nhan-ai/bao-dan-tri-tiep-nhan-gan-1-ty-dong-cung-hon-4-tan-hang-cuu-tro-vung-lu-20240910222202845.htm) - 16:20 10/09/2024
 - 👀 [Bạn đọc ủng hộ cháu bé bị u nguyên bào thần kinh gần 400 triệu đồng](https://dantri.com.vn/tam-long-nhan-ai/ban-doc-ung-ho-chau-be-bi-u-nguyen-bao-than-kinh-gan-400-trieu-dong-20240907201744596.htm) - 12:38 10/09/2024
 - 🚀 [Mai Thanh Hà góp 100 triệu, cùng báo Dân trí cứu trợ đồng bào trong lũ dữ](https://dantri.com.vn/giai-tri/mai-thanh-ha-gop-100-trieu-cung-bao-dan-tri-cuu-tro-dong-bao-trong-lu-du-20240910120357063.htm) - 05:28 10/09/2024
 - 🦅 [Chương trình Nhân ái: Chung tay cứu trợ đồng bào miền Bắc trong lũ dữ](https://dantri.com.vn/tam-long-nhan-ai/chuong-trinh-nhan-ai-chung-tay-cuu-tro-dong-bao-mien-bac-trong-lu-du-20240910105559000.htm) - 04:15 10/09/2024
