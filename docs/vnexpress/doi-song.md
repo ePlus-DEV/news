@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Cả làng gói bánh chưng gửi lên vùng lũ](https://vnexpress.net/ca-lang-goi-banh-chung-gui-len-vung-lu-4791556.html) - 08:18 11/09/2024
+- 🚀 [Cả làng trắng đêm gói bánh chưng gửi vùng lũ](https://vnexpress.net/ca-lang-trang-dem-goi-banh-chung-gui-vung-lu-4791556.html) - 08:18 11/09/2024
 - 🎓 [Ngày hội nhà sáng tạo nội dung số - Vietnam iContent lần đầu tổ chức](https://vnexpress.net/ngay-hoi-nha-sang-tao-noi-dung-so-vietnam-icontent-lan-dau-to-chuc-4791358.html) - 05:30 11/09/2024
 - 🚦 [Người Thái Nguyên xuyên đêm đắp đê ngăn lũ](https://vnexpress.net/nguoi-thai-nguyen-xuyen-dem-dap-de-ngan-lu-4791236.html) - 05:08 11/09/2024
 - 🦣 [Nấu cơm, làm bánh tặng người khó khăn sau bão](https://vnexpress.net/nau-com-lam-banh-tang-nguoi-kho-khan-sau-bao-4791378.html) - 23:00 10/09/2024
