@@ -10,7 +10,7 @@ sidebar_position: 1
 - 🌊 [Chuyến hàng viện trợ quốc tế đầu tiên về Việt Nam](https://vnexpress.net/chuyen-hang-vien-tro-quoc-te-dau-tien-ve-viet-nam-4791778.html) - 10:16 11/09/2024
 - 🎓 [Dừng phà nối Bến Tre - Vĩnh Long trong hai đêm](https://vnexpress.net/dung-pha-noi-ben-tre-vinh-long-trong-hai-dem-4791796.html) - 10:12 11/09/2024
 - 🔥 [Cựu Bí thư Hà Giang Đặng Quốc Khánh bị đề nghị kỷ luật](https://vnexpress.net/cuu-bi-thu-ha-giang-dang-quoc-khanh-bi-de-nghi-ky-luat-4791780.html) - 09:51 11/09/2024
-- 🦏 [Lũ về khi 600 người đang tìm kiếm nạn nhân mất tích tại Lào Cai](https://vnexpress.net/lu-ve-khi-600-nguoi-dang-tim-kiem-nan-nhan-mat-tich-tai-lao-cai-4791718.html) - 08:08 11/09/2024
+- 🦏 [Sạt lở khi 600 người đang tìm kiếm nạn nhân mất tích tại Lào Cai](https://vnexpress.net/sat-lo-khi-600-nguoi-dang-tim-kiem-nan-nhan-mat-tich-tai-lao-cai-4791718.html) - 08:08 11/09/2024
 - 👺 [&#39;Nội thành Hà Nội an toàn dù lũ sông Hồng báo động ba&#39;](https://vnexpress.net/noi-thanh-ha-noi-an-toan-du-lu-song-hong-bao-dong-ba-4791662.html) - 07:31 11/09/2024
 - 🧑‍🏫 [Người Hà Nội bì bõm trong lũ chưa từng có 20 năm qua](https://vnexpress.net/nguoi-ha-noi-bi-bom-trong-lu-chua-tung-co-20-nam-qua-4791609.html) - 06:05 11/09/2024
 - 🚦 [Hiện trạng 6 cầu huyết mạch cấm xe do mưa lũ](https://vnexpress.net/hien-trang-6-cau-huyet-mach-cam-xe-do-mua-lu-4791522.html) - 05:33 11/09/2024
