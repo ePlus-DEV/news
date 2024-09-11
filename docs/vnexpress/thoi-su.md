@@ -22,7 +22,7 @@ sidebar_position: 1
 - 🤡 [Một giờ vật lộn trên sông Hồng cứu nạn nhân sập cầu](https://vnexpress.net/mot-gio-vat-lon-tren-song-hong-cuu-nan-nhan-sap-cau-4791387.html) - 05:28 11/09/2024
 - 💯 [Thứ trưởng Nguyễn Hoàng Hiệp: Hồ thủy điện Thác Bà an toàn](https://vnexpress.net/thu-truong-nguyen-hoang-hiep-ho-thuy-dien-thac-ba-an-toan-4791630.html) - 05:21 11/09/2024
 - 👺 [Lũ quét ở Lào Cai: 30 người chết, 65 người mất tích](https://vnexpress.net/lu-quet-o-lao-cai-30-nguoi-chet-65-nguoi-mat-tich-4791536.html) - 03:56 11/09/2024
-- 🌮 [179 người chết, 145 người mất tích sau bão Yagi](https://vnexpress.net/179-nguoi-chet-145-nguoi-mat-tich-sau-bao-yagi-4790982.html) - 03:52 11/09/2024
+- 🌮 [181 người chết, 145 người mất tích sau bão Yagi](https://vnexpress.net/181-nguoi-chet-145-nguoi-mat-tich-sau-bao-yagi-4790982.html) - 03:52 11/09/2024
 - 🥸 [Hàng không, đường sắt vận chuyển miễn phí hàng cứu trợ](https://vnexpress.net/hang-khong-duong-sat-van-chuyen-mien-phi-hang-cuu-tro-4791564.html) - 03:38 11/09/2024
 - 🐻 [Lũ trên sông Hồng tại Hà Nội gần đạt đỉnh](https://vnexpress.net/dien-bien-mua-lu-ngay-11-9-4791534.html) - 02:44 11/09/2024
 - 👀 [Cập nhật thời tiết miền Bắc: Cảnh báo lũ quét ở Phú Thọ](https://vnexpress.net/cap-nhat-thoi-tiet-mien-bac-4791538.html) - 02:44 11/09/2024
