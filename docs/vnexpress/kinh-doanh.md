@@ -8,7 +8,7 @@ sidebar_position: 3
 - 🐲 [Cổ phiếu Novaland nằm sàn](https://vnexpress.net/co-phieu-novaland-nam-san-4791651.html) - 05:12 11/09/2024
 - 🔥 [Đăk Lăk bán gần 17 tấn khí giảm phát thải từ lúa](https://vnexpress.net/dak-lak-ban-gan-17-tan-khi-giam-phat-thai-tu-lua-4791512.html) - 04:44 11/09/2024
 - 🐵 [Giá dầu thô thế giới xuống thấp nhất 3 năm](https://vnexpress.net/gia-dau-tho-the-gioi-xuong-thap-nhat-3-nam-4791540.html) - 04:33 11/09/2024
-- 🦅 [Chủ quản Sun World Phú Quốc lãi hơn 2,5 tỷ mỗi ngày](https://vnexpress.net/chu-quan-sun-world-phu-quoc-lai-hon-2-5-ty-moi-ngay-4791590.html) - 04:29 11/09/2024
+- 🦅 [Chủ quản Sun World Phú Quốc lãi hơn 4,5 tỷ mỗi ngày](https://vnexpress.net/chu-quan-sun-world-phu-quoc-lai-hon-4-5-ty-moi-ngay-4791590.html) - 04:29 11/09/2024
 - 😺 [MobiFone tặng 30.000 đồng cho thuê bao các tỉnh ngập lụt](https://vnexpress.net/mobifone-tang-30-000-dong-cho-thue-bao-cac-tinh-ngap-lut-4791342.html) - 03:00 11/09/2024
 - 🤩 [Siêu thị tăng nhập rau, củ từ miền Nam ra Bắc](https://vnexpress.net/sieu-thi-tang-nhap-rau-cu-tu-mien-nam-ra-bac-4791296.html) - 23:00 10/09/2024
 - 🌮 [TP HCM đặt mục tiêu thành trung tâm logistics tầm cỡ khu vực](https://vnexpress.net/tp-hcm-dat-muc-tieu-thanh-trung-tam-logistics-tam-co-khu-vuc-4791375.html) - 22:00 10/09/2024
