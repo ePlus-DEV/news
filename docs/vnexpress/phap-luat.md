@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Kẻ sát hại bà chủ quán cà phê bị tuyên tù chung thân](https://vnexpress.net/ke-sat-hai-ba-chu-quan-ca-phe-bi-tuyen-tu-chung-than-4791824.html) - 11:47 11/09/2024
+- 😎 [Án chung thân với gã mua dâm sát hại bà chủ quán cà phê](https://vnexpress.net/ke-sat-hai-ba-chu-quan-ca-phe-bi-tuyen-tu-chung-than-4791824.html) - 11:47 11/09/2024
 - 🥰 [Kẻ đâm 3 mẹ con người hàng xóm bị tuyên tử hình](https://vnexpress.net/ke-dam-3-me-con-nguoi-hang-xom-bi-tuyen-tu-hinh-4791697.html) - 09:43 11/09/2024
 - 🎓 [Kéo lê CSGT khi bị kiểm tra nồng độ cồn](https://vnexpress.net/keo-le-csgt-khi-bi-kiem-tra-nong-do-con-4791708.html) - 08:28 11/09/2024
 - 🤓 [Sát hại tài xế taxi, phi tang xác ở mép sông](https://vnexpress.net/sat-hai-tai-xe-taxi-phi-tang-xac-o-mep-song-4791682.html) - 07:09 11/09/2024
