@@ -4,9 +4,9 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Lũ quét kinh hoàng ở Lào Cai: Tìm thấy 22 thi thể, 73 người đang mất tích](https://dantri.com.vn/xa-hoi/lu-quet-kinh-hoang-o-lao-cai-tim-thay-22-thi-the-73-nguoi-dang-mat-tich-20240911085805032.htm) - 01:58 11/09/2024
+- 🎭 [Lật xe khách ở Đắk Lắk, 4 người tử vong](https://dantri.com.vn/xa-hoi/lat-xe-khach-o-dak-lak-4-nguoi-tu-vong-20240911084022437.htm) - 02:28 11/09/2024
 - 👨‍🏫 [Hà Nội: Nước ngập đến cổ, lão nông mất trắng 2 ao cá, đàn trâu gặp nguy](https://dantri.com.vn/lao-dong-viec-lam/ha-noi-nuoc-ngap-den-co-lao-nong-mat-trang-2-ao-ca-dan-trau-gap-nguy-20240911070122103.htm) - 00:45 11/09/2024
-- 🌮 [Ông Trump công kích đảng Dân chủ về vụ ám sát hụt và các rắc rối pháp lý](https://dantri.com.vn/the-gioi/ong-trump-cong-kich-dang-dan-chu-ve-vu-am-sat-hut-va-cac-rac-roi-phap-ly-20240910215934212.htm) - 23:33 10/09/2024
+- 🌮 [Ông Trump không nhận thua năm 2020, bà Harris công kích mạnh](https://dantri.com.vn/the-gioi/ong-trump-khong-nhan-thua-nam-2020-ba-harris-cong-kich-manh-20240910215934212.htm) - 23:33 10/09/2024
 - 🕯 [Vỡ đê sông Lô tại Tuyên Quang: Khẩn trương triển khai công tác vá đê](https://dantri.com.vn/xa-hoi/vo-de-song-lo-tai-tuyen-quang-khan-truong-trien-khai-cong-tac-va-de-20240911062057490.htm) - 23:21 10/09/2024
 - 🪜 [Người Thái Nguyên đi qua cơn kinh hoàng](https://dantri.com.vn/xa-hoi/nguoi-thai-nguyen-di-qua-con-kinh-hoang-20240911001709757.htm) - 23:12 10/09/2024
 - 🐘 [Nga phản công mạnh ở Kursk](https://dantri.com.vn/the-gioi/nga-phan-cong-manh-o-kursk-20240911052324133.htm) - 23:06 10/09/2024
