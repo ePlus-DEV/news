@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Bão động lũ cấp hai trên sông Đuống](https://vnexpress.net/bao-dong-lu-cap-hai-tren-song-duong-4791534.html) - 02:44 11/09/2024
+- 🦒 [Báo động lũ cấp hai trên sông Đuống](https://vnexpress.net/bao-dong-lu-cap-hai-tren-song-duong-4791534.html) - 02:44 11/09/2024
 - 🤓 [Cập nhật thời tiết miền Bắc: 16 tỉnh thành đối diện nguy cơ lũ quét](https://vnexpress.net/cap-nhat-thoi-tiet-mien-bac-4791538.html) - 02:44 11/09/2024
 - ⚗️ [143 người chết, 58 người mất tích sau bão Yagi](https://vnexpress.net/143-nguoi-chet-58-nguoi-mat-tich-sau-bao-yagi-4790982.html) - 02:35 11/09/2024
 - 🌊 [Cao tốc Pháp Vân - Cầu Giẽ cấm ôtô dưới 10 chỗ](https://vnexpress.net/cao-toc-phap-van-cau-gie-cam-oto-duoi-10-cho-4791513.html) - 02:04 11/09/2024
