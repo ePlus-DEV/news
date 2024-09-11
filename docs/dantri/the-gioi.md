@@ -8,7 +8,7 @@ sidebar_position: 17
 - 🎬 [Ông Biden: Mỹ xem xét cởi trói cho vũ khí tầm xa ở Ukraine](https://dantri.com.vn/the-gioi/ong-biden-my-xem-xet-coi-troi-cho-vu-khi-tam-xa-o-ukraine-20240911072936363.htm) - 00:41 11/09/2024
 - 🧰 [Ukraine ra tối hậu thư, dọa cắt quan hệ với Iran](https://dantri.com.vn/the-gioi/ukraine-ra-toi-hau-thu-doa-cat-quan-he-voi-iran-20240911070912585.htm) - 00:13 11/09/2024
 - 🌋 [Tiêm kích Đài Loan rơi xuống biển, phi công mất tích](https://dantri.com.vn/the-gioi/tiem-kich-dai-loan-roi-xuong-bien-phi-cong-mat-tich-20240911062607587.htm) - 23:47 10/09/2024
-- 🗽 [Ông Trump công kích đảng Dân chủ về vụ ám sát hụt và các rắc rối pháp lý](https://dantri.com.vn/the-gioi/ong-trump-cong-kich-dang-dan-chu-ve-vu-am-sat-hut-va-cac-rac-roi-phap-ly-20240910215934212.htm) - 23:33 10/09/2024
+- 🗽 [Ông Trump không nhận thua năm 2020, bà Harris công kích mạnh](https://dantri.com.vn/the-gioi/ong-trump-khong-nhan-thua-nam-2020-ba-harris-cong-kich-manh-20240910215934212.htm) - 23:33 10/09/2024
 - 💻 [Ukraine tổn thất 11.800 quân ở Kursk, Tổng thống Putin cảnh báo nóng](https://dantri.com.vn/the-gioi/ukraine-ton-that-11800-quan-o-kursk-tong-thong-putin-canh-bao-nong-20240911060218237.htm) - 23:07 10/09/2024
 - ⛽️ [Nga phản công mạnh ở Kursk](https://dantri.com.vn/the-gioi/nga-phan-cong-manh-o-kursk-20240911052324133.htm) - 23:06 10/09/2024
 - 🤩 [Nga tiến công nhanh ở Donbass, nêu điều kiện đàm phán với Ukraine](https://dantri.com.vn/the-gioi/nga-tien-cong-nhanh-o-donbass-neu-dieu-kien-dam-phan-voi-ukraine-20240910180459267.htm) - 22:00 10/09/2024
