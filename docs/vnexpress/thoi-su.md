@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Cuộc sống ở nơi sơ tán khỏi rốn lũ ngoại thành Hà Nội](https://vnexpress.net/cuoc-song-o-noi-so-tan-khoi-ron-lu-ngoai-thanh-ha-noi-4792301.html) - 15:12 12/09/2024
-- 🤓 [Thủ tướng lội bùn thăm hỏi người dân, bộ đội nơi lũ quét](https://vnexpress.net/thu-tuong-loi-bun-tham-hoi-nguoi-dan-bo-doi-noi-lu-quet-4792299.html) - 14:21 12/09/2024
+- 🤓 [Thủ tướng thăm hỏi người dân, bộ đội nơi tìm kiếm nạn nhân lũ quét](https://vnexpress.net/thu-tuong-tham-hoi-nguoi-dan-bo-doi-noi-tim-kiem-nan-nhan-lu-quet-4792299.html) - 14:21 12/09/2024
 - ⚗️ [Thiếu tá quân đội hy sinh khi giúp dân khắc phục hậu quả bão](https://vnexpress.net/thieu-ta-quan-doi-hy-sinh-khi-giup-dan-khac-phuc-hau-qua-bao-4792294.html) - 12:44 12/09/2024
 - 🌊 [115 người &#39;nghi mất tích&#39; ở Lào Cai được tìm thấy trên núi](https://vnexpress.net/115-nguoi-nghi-mat-tich-o-lao-cai-duoc-tim-thay-tren-nui-4792286.html) - 12:43 12/09/2024
 - 🎓 [Ám ảnh của cô giáo mầm non ở Làng Nủ](https://vnexpress.net/am-anh-cua-co-giao-mam-non-o-lang-nu-4792208.html) - 12:21 12/09/2024
