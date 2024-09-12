@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Thêm hai vụ sạt lở đất làm 4 người chết](https://vnexpress.net/them-hai-vu-sat-lo-dat-lam-4-nguoi-chet-4792096.html) - 07:04 12/09/2024
 - 🤓 [Trực thăng quân đội mang nhu yếu phẩm đến người dân vùng lũ](https://vnexpress.net/truc-thang-quan-doi-mang-nhu-yeu-pham-den-nguoi-dan-vung-lu-4791842.html) - 06:52 12/09/2024
 - ⚗️ [&#39;Cần khóa lỗ hổng mua bán online chất độc xyanua&#39;](https://vnexpress.net/can-khoa-lo-hong-mua-ban-online-chat-doc-xyanua-4792076.html) - 06:16 12/09/2024
-- 🌊 [Người miền Trung chế đồ ăn khô gửi đồng bào vùng bão lũ](https://vnexpress.net/nguoi-mien-trung-che-do-an-kho-gui-dong-bao-vung-bao-lu-4791913.html) - 05:41 12/09/2024
+- 🌊 [Người miền Trung chế biến đồ ăn gửi đồng bào vùng bão lũ](https://vnexpress.net/nguoi-mien-trung-che-bien-do-an-gui-dong-bao-vung-bao-lu-4791913.html) - 05:41 12/09/2024
 - 🎓 [Đứt cầu phao ở Nam Định](https://vnexpress.net/dut-cau-phao-o-nam-dinh-4791849.html) - 05:34 12/09/2024
 - 🔥 [Quảng Ninh di dân trong đêm vì sụt sườn đồi](https://vnexpress.net/quang-ninh-di-dan-trong-dem-vi-sut-suon-doi-4792007.html) - 05:22 12/09/2024
 - 🦏 [Chó nghiệp vụ sục bùn tìm người mất tích ở Làng Nủ](https://vnexpress.net/cho-nghiep-vu-suc-bun-tim-nguoi-mat-tich-o-lang-nu-4791978.html) - 05:10 12/09/2024
