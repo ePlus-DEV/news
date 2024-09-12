@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- dantri-an-sinh:START -->
 - 👺 [Thót tim cảnh đoàn người nối tay nhau kéo giữ nạn nhân và xe máy bị lũ cuốn](https://dantri.com.vn/an-sinh/thot-tim-canh-doan-nguoi-noi-tay-nhau-keo-giu-nan-nhan-va-xe-may-bi-lu-cuon-20240911202252304.htm) - 22:59 11/09/2024
-- 👀 [Người dân Tây nguyên tấp nập đưa nhu yếu phẩm gửi hỗ trợ đồng bào miền Bắc](https://dantri.com.vn/an-sinh/nguoi-dan-tay-nguyen-tap-nap-dua-nhu-yeu-pham-gui-ho-tro-dong-bao-mien-bac-20240911192310540.htm) - 22:00 11/09/2024
+- 👀 [Người dân Tây nguyên cấp tập gom nhu yếu phẩm gửi hỗ trợ đồng bào miền Bắc](https://dantri.com.vn/an-sinh/nguoi-dan-tay-nguyen-cap-tap-gom-nhu-yeu-pham-gui-ho-tro-dong-bao-mien-bac-20240911192310540.htm) - 22:00 11/09/2024
 - 💡 [Long An ủng hộ 13,5 tỷ đồng hỗ trợ đồng bào vùng lũ miền Bắc](https://dantri.com.vn/an-sinh/long-an-ung-ho-135-ty-dong-ho-tro-dong-bao-vung-lu-mien-bac-20240911192907442.htm) - 12:37 11/09/2024
 - 💄 [Người dân TPHCM thức trắng đêm, cấp tốc gom hàng gửi ra miền Bắc](https://dantri.com.vn/an-sinh/nguoi-dan-tphcm-thuc-trang-dem-cap-toc-gom-hang-gui-ra-mien-bac-20240911170317766.htm) - 12:11 11/09/2024
 - 🧠 [Người Hội An xuyên đêm nấu bánh chưng, làm muối đậu gửi bà con miền Bắc](https://dantri.com.vn/an-sinh/nguoi-hoi-an-xuyen-dem-nau-banh-chung-lam-muoi-dau-gui-ba-con-mien-bac-20240911165844172.htm) - 11:29 11/09/2024
