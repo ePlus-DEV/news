@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- dantri-an-sinh:START -->
 - 👺 [Tuổi trẻ Quảng Nam phát động quyên góp hỗ trợ đồng bào thiệt hại do bão lũ](https://dantri.com.vn/an-sinh/tuoi-tre-quang-nam-phat-dong-quyen-gop-ho-tro-dong-bao-thiet-hai-do-bao-lu-20240912113217659.htm) - 05:48 12/09/2024
-- 👀 [Xúc động hình ảnh người dân vùng ngập 2m vẫy cờ reo hò: &quot;Có cứu trợ rồi!&quot;](https://dantri.com.vn/an-sinh/xuc-dong-hinh-anh-nguoi-dan-vung-ngap-2m-vay-co-reo-ho-co-cuu-tro-roi-20240912105705599.htm) - 04:58 12/09/2024
+- 👀 [Người dân vùng ngập 2m vẫy cờ reo hò từ sân thượng: &quot;Có cứu trợ rồi!&quot;](https://dantri.com.vn/an-sinh/nguoi-dan-vung-ngap-2m-vay-co-reo-ho-tu-san-thuong-co-cuu-tro-roi-20240912105705599.htm) - 04:58 12/09/2024
 - 💡 [Tổ chức Tết Trung thu ngắn gọn, không phô trương, hạn chế tập trung người](https://dantri.com.vn/an-sinh/to-chuc-tet-trung-thu-ngan-gon-khong-pho-truong-han-che-tap-trung-nguoi-20240912111228068.htm) - 04:21 12/09/2024
 - 💄 [Mở đường xuyên qua nhà cho hàng xóm chạy lũ ở Yên Bái](https://dantri.com.vn/xa-hoi/mo-duong-xuyen-qua-nha-cho-hang-xom-chay-lu-o-yen-bai-20240912100245134.htm) - 03:57 12/09/2024
 - 🧠 [Người làm nghề độc hại được giảm điều kiện để nghỉ hưu sớm](https://dantri.com.vn/an-sinh/nguoi-lam-nghe-doc-hai-duoc-giam-dieu-kien-de-nghi-huu-som-20240910230719182.htm) - 02:13 12/09/2024
