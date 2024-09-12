@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Người dân ven sông Cầu: &#39;Chưa từng thấy trận lũ nào khủng khiếp đến thế&#39;](https://vnexpress.net/nguoi-dan-ven-song-cau-chua-tung-thay-tran-lu-nao-khung-khiep-den-the-4792268.html) - 17:00 12/09/2024
 - 🤓 [Cuộc sống ở nơi sơ tán khỏi rốn lũ ngoại thành Hà Nội](https://vnexpress.net/cuoc-song-o-noi-so-tan-khoi-ron-lu-ngoai-thanh-ha-noi-4792301.html) - 15:12 12/09/2024
-- ⚗️ [Thủ tướng thăm hỏi người dân, bộ đội nơi tìm kiếm nạn nhân lũ quét](https://vnexpress.net/thu-tuong-tham-hoi-nguoi-dan-bo-doi-noi-tim-kiem-nan-nhan-lu-quet-4792299.html) - 14:21 12/09/2024
+- ⚗️ [Thủ tướng thị sát hiện trường, thăm hỏi người dân nơi lũ quét](https://vnexpress.net/thu-tuong-thi-sat-hien-truong-tham-hoi-nguoi-dan-noi-lu-quet-4792299.html) - 14:21 12/09/2024
 - 🌊 [Thiếu tá quân đội hy sinh khi giúp dân khắc phục hậu quả bão](https://vnexpress.net/thieu-ta-quan-doi-hy-sinh-khi-giup-dan-khac-phuc-hau-qua-bao-4792294.html) - 12:44 12/09/2024
 - 🎓 [115 người &#39;nghi mất tích&#39; ở Lào Cai được tìm thấy trên núi](https://vnexpress.net/115-nguoi-nghi-mat-tich-o-lao-cai-duoc-tim-thay-tren-nui-4792286.html) - 12:43 12/09/2024
 - 🔥 [Ám ảnh của cô giáo mầm non ở Làng Nủ](https://vnexpress.net/am-anh-cua-co-giao-mam-non-o-lang-nu-4792208.html) - 12:21 12/09/2024
