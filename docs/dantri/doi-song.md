@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Nước rút, người Hà Nội khẩn trương dọn dẹp, một số nơi vẫn phải bơi thuyền](https://dantri.com.vn/doi-song/nuoc-rut-nguoi-ha-noi-khan-truong-don-dep-mot-so-noi-van-phai-boi-thuyen-20240912164753658.htm) - 11:05 12/09/2024
+- 🥳 [Nhiều nơi ở Hà Nội vẫn ngập sâu, người dân bơi vào nhà tìm đồ](https://dantri.com.vn/doi-song/nhieu-noi-o-ha-noi-van-ngap-sau-nguoi-dan-boi-vao-nha-tim-do-20240912164753658.htm) - 11:05 12/09/2024
 - 🌁 [Người Hà Nội thẫn thờ nhìn phố ngập, lấy can tát nước ra khỏi nhà](https://dantri.com.vn/doi-song/nguoi-ha-noi-than-tho-nhin-pho-ngap-lay-can-tat-nuoc-ra-khoi-nha-20240912153426998.htm) - 09:18 12/09/2024
 - 👀 [Người Hà Nội kể phút nước lũ tràn vào nhà, chi tiền triệu mua gấp bao cát](https://dantri.com.vn/doi-song/nguoi-ha-noi-ke-phut-nuoc-lu-tran-vao-nha-chi-tien-trieu-mua-gap-bao-cat-20240912123053308.htm) - 08:22 12/09/2024
 - 🐻 [Thông tin cô gái Nghệ An tử vong khi cứu trợ vùng lũ Yên Bái là không đúng](https://dantri.com.vn/doi-song/thong-tin-co-gai-nghe-an-tu-vong-khi-cuu-tro-vung-lu-yen-bai-la-khong-dung-20240911185600082.htm) - 07:31 12/09/2024
