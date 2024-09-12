@@ -16,7 +16,7 @@ sidebar_position: 1
 - 🚦 [Ngập lụt ở miền Bắc diễn ra thế nào](https://vnexpress.net/ngap-lut-o-mien-bac-dien-ra-the-nao-4791855.html) - 04:14 12/09/2024
 - 🎉 [Đường xuyên đồi cát, điện gió ở Quy Nhơn](https://vnexpress.net/duong-xuyen-doi-cat-dien-gio-o-quy-nhon-4790766.html) - 03:25 12/09/2024
 - 🦒 [Lạng Sơn thiệt hại 560 tỷ đồng do bão Yagi](https://vnexpress.net/lang-son-thiet-hai-560-ty-dong-do-bao-yagi-4791929.html) - 03:00 12/09/2024
-- 🤗 [Quân đội làm chủ lực hộ đê Hà Nội](https://vnexpress.net/quan-doi-lam-chu-luc-ho-de-ha-noi-4791912.html) - 02:30 12/09/2024
+- 🤗 [1.000 người xử lý sự cố tràn đê tại Thanh Trì, Hà Nội](https://vnexpress.net/1-000-nguoi-xu-ly-su-co-tran-de-tai-thanh-tri-ha-noi-4791912.html) - 02:30 12/09/2024
 - 💼 [199 người chết, 128 người mất tích sau bão Yagi](https://vnexpress.net/199-nguoi-chet-128-nguoi-mat-tich-sau-bao-yagi-4790982.html) - 02:20 12/09/2024
 - 🤩 [Hơn 650 người tìm kiếm 52 nạn nhân mất tích ở Làng Nủ](https://vnexpress.net/hon-650-nguoi-tim-kiem-52-nan-nhan-mat-tich-o-lang-nu-4791906-tong-thuat.html) - 01:19 12/09/2024
 - 🤡 [​​​​Cập nhật thời tiết miền Bắc: Lũ sông Hồng tại Hà Nội đang rút](https://vnexpress.net/cap-nhat-thoi-tiet-mien-bac-4791896.html) - 01:02 12/09/2024
