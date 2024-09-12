@@ -5,7 +5,7 @@ sidebar_position: 10
 
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [Bé 8 tuổi bị dị dạng mạch máu não dọa vỡ](https://vnexpress.net/be-8-tuoi-bi-di-dang-mach-mau-nao-doa-vo-4792254.html) - 13:52 12/09/2024
-- 🥰 [Hai nạn nhân lũ quét thôn ở Lào Cai nguy kịch](https://vnexpress.net/hai-nan-nhan-lu-quet-thon-o-lao-cai-nguy-kich-4792260.html) - 13:16 12/09/2024
+- 🥰 [Hai nạn nhân vụ lũ quét thôn ở Lào Cai nguy kịch](https://vnexpress.net/hai-nan-nhan-lu-quet-thon-o-lao-cai-nguy-kich-4792260.html) - 13:16 12/09/2024
 - 💡 [Ba loại thực phẩm nên dự trữ mùa mưa bão](https://vnexpress.net/ba-loai-thuc-pham-nen-du-tru-mua-mua-bao-4792214.html) - 13:00 12/09/2024
 - 🤗 [Người cao tuổi mắc bệnh nền có nên tiêm vaccine phế cầu 23?](https://vnexpress.net/nguoi-cao-tuoi-mac-benh-nen-co-nen-tiem-vaccine-phe-cau-23-4792262.html) - 12:00 12/09/2024
 - 🪜 [5 điều giúp phụ nữ tuổi ngoài 30 có con](https://vnexpress.net/5-dieu-giup-phu-nu-tuoi-ngoai-30-co-con-4792077.html) - 11:30 12/09/2024
