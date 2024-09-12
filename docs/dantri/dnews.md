@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Tình người trong vùng lũ ở Yên Bái](https://dantri.com.vn/xa-hoi/tinh-nguoi-trong-vung-lu-o-yen-bai-20240912100245134.htm) - 03:57 12/09/2024
+- 🤠 [Mở đường xuyên qua nhà cho hàng xóm chạy lũ ở Yên Bái](https://dantri.com.vn/xa-hoi/mo-duong-xuyen-qua-nha-cho-hang-xom-chay-lu-o-yen-bai-20240912100245134.htm) - 03:57 12/09/2024
 - 🌈 [Ép con đi phụ hồ, bán hàng rong, cha mẹ nhận cái kết &quot;cười ra nước mắt&quot;](https://dantri.com.vn/giao-duc/ep-con-di-phu-ho-ban-hang-rong-cha-me-nhan-cai-ket-cuoi-ra-nuoc-mat-20240911095058971.htm) - 00:32 12/09/2024
 - 🐎 [Chuyên gia: &quot;Trình độ của Indonesia, Thái Lan đang bỏ xa tuyển Việt Nam&quot;](https://dantri.com.vn/the-thao/chuyen-gia-trinh-do-cua-indonesia-thai-lan-dang-bo-xa-tuyen-viet-nam-20240912010906147.htm) - 00:02 12/09/2024
 - 👹 [Ám ảnh tiếng kẻng báo động &quot;lũ về&quot; tại Làng Nủ](https://dantri.com.vn/xa-hoi/am-anh-tieng-keng-bao-dong-lu-ve-tai-lang-nu-20240912001951460.htm) - 22:47 11/09/2024
