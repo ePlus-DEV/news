@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Điền kinh Việt Nam có kỷ lục quốc gia 4x100m mới](https://vnexpress.net/dien-kinh-viet-nam-co-ky-luc-quoc-gia-4x100m-moi-4792264.html) - 15:28 12/09/2024
-- 🦩 [PSG phải đền bù Mbappe 61 triệu USD](https://vnexpress.net/psg-phai-den-bu-mbappe-61-trieu-usd-4792310.html) - 15:22 12/09/2024
+- 🦩 [PSG phải đền bù Mbappe 60 triệu USD](https://vnexpress.net/psg-phai-den-bu-mbappe-60-trieu-usd-4792310.html) - 15:22 12/09/2024
 - 🧰 [Việt Nam lần đầu đoạt huy chương billiard nữ thế giới](https://vnexpress.net/viet-nam-lan-dau-doat-huy-chuong-billiard-nu-the-gioi-4792298.html) - 13:20 12/09/2024
 - 🤗 [Thuỳ Linh vào tứ kết Vietnam Open 2024](https://vnexpress.net/thuy-linh-vao-tu-ket-vietnam-open-2024-4792280.html) - 12:30 12/09/2024
 - 🥳 [Cựu danh thủ Brazil không tin Vinicius giành Quả Bóng Vàng 2024](https://vnexpress.net/cuu-danh-thu-brazil-khong-tin-vinicius-gianh-qua-bong-vang-2024-4792237.html) - 11:06 12/09/2024
