@@ -6,7 +6,7 @@ sidebar_position: 11
 <!-- dantri-an-sinh:START -->
 - 👺 [Xúc động hình ảnh người dân vùng ngập 2m vẫy cờ reo hò: &quot;Có cứu trợ rồi!&quot;](https://dantri.com.vn/an-sinh/xuc-dong-hinh-anh-nguoi-dan-vung-ngap-2m-vay-co-reo-ho-co-cuu-tro-roi-20240912105705599.htm) - 04:58 12/09/2024
 - 👀 [Tổ chức Tết Trung thu ngắn gọn, không phô trương, hạn chế tập trung người](https://dantri.com.vn/an-sinh/to-chuc-tet-trung-thu-ngan-gon-khong-pho-truong-han-che-tap-trung-nguoi-20240912111228068.htm) - 04:21 12/09/2024
-- 💡 [Tình người trong vùng lũ ở Yên Bái](https://dantri.com.vn/xa-hoi/tinh-nguoi-trong-vung-lu-o-yen-bai-20240912100245134.htm) - 03:57 12/09/2024
+- 💡 [Mở đường xuyên qua nhà cho hàng xóm chạy lũ ở Yên Bái](https://dantri.com.vn/xa-hoi/mo-duong-xuyen-qua-nha-cho-hang-xom-chay-lu-o-yen-bai-20240912100245134.htm) - 03:57 12/09/2024
 - 💄 [Người làm nghề độc hại được giảm điều kiện để nghỉ hưu sớm](https://dantri.com.vn/an-sinh/nguoi-lam-nghe-doc-hai-duoc-giam-dieu-kien-de-nghi-huu-som-20240910230719182.htm) - 02:13 12/09/2024
 - 🧠 [Thót tim cảnh đoàn người nối tay nhau kéo giữ nạn nhân và xe máy bị lũ cuốn](https://dantri.com.vn/an-sinh/thot-tim-canh-doan-nguoi-noi-tay-nhau-keo-giu-nan-nhan-va-xe-may-bi-lu-cuon-20240911202252304.htm) - 22:59 11/09/2024
 - 🫣 [Người dân Tây nguyên cấp tập gom nhu yếu phẩm gửi hỗ trợ đồng bào miền Bắc](https://dantri.com.vn/an-sinh/nguoi-dan-tay-nguyen-cap-tap-gom-nhu-yeu-pham-gui-ho-tro-dong-bao-mien-bac-20240911192310540.htm) - 22:00 11/09/2024
