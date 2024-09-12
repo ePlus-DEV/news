@@ -4,7 +4,7 @@ sidebar_position: 20
 ---
 
 <!-- dantri-tam-long-nhan-ai:START -->
-- 🌝 [Báo Dân trí tiếp nhận hơn 3,2 tỉ đồng, bạn đọc ra tận xe gửi đồ cứu trợ](https://dantri.com.vn/tam-long-nhan-ai/bao-dan-tri-tiep-nhan-hon-32-ti-dong-ban-doc-ra-tan-xe-gui-do-cuu-tro-20240912135429148.htm) - 07:12 12/09/2024
+- 🌝 [Báo Dân trí tiếp nhận hơn 3,2 tỉ đồng, bạn đọc ra tận xe gửi đồ cứu trợ đồng bào bị lũ lụt](https://dantri.com.vn/tam-long-nhan-ai/bao-dan-tri-tiep-nhan-hon-32-ti-dong-ban-doc-ra-tan-xe-gui-do-cuu-tro-dong-bao-bi-lu-lut-20240912135429148.htm) - 07:12 12/09/2024
 - 🌜 [Hơn 448 triệu đồng ủng hộ thiếu nữ Hậu Giang bị bạn trai thiêu sống](https://dantri.com.vn/tam-long-nhan-ai/hon-448-trieu-dong-ung-ho-thieu-nu-hau-giang-bi-ban-trai-thieu-song-20240910135752171.htm) - 06:45 12/09/2024
 - 👀 [Nữ sinh &quot;nhặt ve chai&quot; xin dừng tiếp nhận, mong miền Bắc vượt qua bão lũ](https://dantri.com.vn/tam-long-nhan-ai/nu-sinh-nhat-ve-chai-xin-dung-tiep-nhan-mong-mien-bac-vuot-qua-bao-lu-20240912074503641.htm) - 01:02 12/09/2024
 - 🚀 [Mẹ khóc nghẹn vì các con xin thôi học để có tiền cho em út chữa bệnh](https://dantri.com.vn/tam-long-nhan-ai/me-khoc-nghen-vi-cac-con-xin-thoi-hoc-de-co-tien-cho-em-ut-chua-benh-20240906114019162.htm) - 22:25 11/09/2024
