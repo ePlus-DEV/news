@@ -13,7 +13,7 @@ sidebar_position: 9
 - 🧰 [Dừng, hoãn nhiều lễ hội trên cả nước](https://vnexpress.net/dung-hoan-nhieu-le-hoi-tren-ca-nuoc-4792192.html) - 14:43 12/09/2024
 - 🔭 [Quyết định đưa 115 người lên núi lánh nạn của trưởng thôn](https://vnexpress.net/quyet-dinh-dua-115-nguoi-len-nui-lanh-nan-cua-truong-thon-4792307.html) - 14:35 12/09/2024
 - 🫶 [Học sinh gửi tiền tiết kiệm, bánh mì, muối vừng đến vùng lũ](https://vnexpress.net/hoc-sinh-gui-tien-tiet-kiem-banh-mi-muoi-vung-den-vung-lu-4791706.html) - 14:28 12/09/2024
-- 🪜 [Thủ tướng lội bùn thăm hỏi người dân, bộ đội nơi lũ quét](https://vnexpress.net/thu-tuong-loi-bun-tham-hoi-nguoi-dan-bo-doi-noi-lu-quet-4792299.html) - 14:21 12/09/2024
+- 🪜 [Thủ tướng thăm hỏi người dân, bộ đội nơi tìm kiếm nạn nhân lũ quét](https://vnexpress.net/thu-tuong-tham-hoi-nguoi-dan-bo-doi-noi-tim-kiem-nan-nhan-lu-quet-4792299.html) - 14:21 12/09/2024
 - 👨‍🏫 [Nga tuyên bố tái kiểm soát 10 làng ở Kursk trong hai ngày](https://vnexpress.net/nga-tuyen-bo-tai-kiem-soat-10-lang-o-kursk-trong-hai-ngay-4792297.html) - 14:12 12/09/2024
 - 🎊 [Làm sao để lo chu toàn cho bố mẹ khi lấy vợ xa](https://vnexpress.net/lam-sao-de-lo-chu-toan-cho-bo-me-khi-lay-vo-xa-4792189.html) - 14:00 12/09/2024
 - 🎊 [Chim sẻ &#39;ma cà rồng&#39; chuyên hút máu chim điên](https://vnexpress.net/chim-se-ma-ca-rong-chuyen-hut-mau-chim-dien-4791887.html) - 14:00 12/09/2024
