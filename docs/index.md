@@ -311,7 +311,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Diễn tập ứng phó sự cố bức xạ và hạt nhân tại TP Cần Thơ](https://www.sggp.org.vn/dien-tap-ung-pho-su-co-buc-xa-va-hat-nhan-tai-tp-can-tho-post758563.html) - 07:42 12/09/2024
+- 🪜 [Diễn tập ứng phó sự cố bức xạ và hạt nhân tại Cần Thơ](https://www.sggp.org.vn/dien-tap-ung-pho-su-co-buc-xa-va-hat-nhan-tai-can-tho-post758563.html) - 07:42 12/09/2024
 - 🌝 [Cựu Thứ trưởng Bộ Công thương Hoàng Quốc Vượng bị cáo buộc gây thiệt hại hơn 900 tỷ đồng](https://www.sggp.org.vn/cuu-thu-truong-bo-cong-thuong-hoang-quoc-vuong-bi-cao-buoc-gay-thiet-hai-hon-900-ty-dong-post758567.html) - 07:41 12/09/2024
 - 💃 [Guardian: Anh cho phép Ukraine sử dụng tên lửa tầm xa tấn công vào lãnh thổ Nga](https://www.sggp.org.vn/guardian-anh-cho-phep-ukraine-su-dung-ten-lua-tam-xa-tan-cong-vao-lanh-tho-nga-post758547.html) - 07:30 12/09/2024
 - 🧑‍💻 [Samsung chinh phục cộng đồng Dota 2 giải vô địch Odyssey Cup khu vực Đông Nam Á và Châu Đại Dương](https://www.sggp.org.vn/samsung-chinh-phuc-cong-dong-dota-2-giai-vo-dich-odyssey-cup-khu-vuc-dong-nam-a-va-chau-dai-duong-post758546.html) - 07:26 12/09/2024
