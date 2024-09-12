@@ -4,7 +4,7 @@ sidebar_position: 24
 ---
 
 <!-- dantri-o-to-xe-may:START -->
-- 🤡 [Một số khách sạn và tòa nhà ở Trung Quốc bắt đầu cấm xe điện đỗ dưới hầm](https://dantri.com.vn/o-to-xe-may/mot-so-khach-san-va-toa-nha-o-trung-quoc-bat-dau-cam-xe-dien-do-duoi-ham-20240912134659830.htm) - 08:07 12/09/2024
+- 🤡 [Đối thủ của Ranger và Hilux có giá từ 655 triệu đồng, thêm trang bị an toàn](https://dantri.com.vn/o-to-xe-may/doi-thu-cua-ranger-va-hilux-co-gia-tu-655-trieu-dong-them-trang-bi-an-toan-20240912112250170.htm) - 08:44 12/09/2024
 - 🧑‍💻 [Honda Việt Nam giới thiệu mẫu xe mới Lead 125cc](https://dantri.com.vn/o-to-xe-may/honda-viet-nam-gioi-thieu-mau-xe-moi-lead-125cc-20240912143143171.htm) - 08:00 12/09/2024
 - 🧑‍💻 [Triệu hồi hơn 1,5 triệu xe trên toàn cầu, BMW có thể thiệt hại 1 tỷ USD](https://dantri.com.vn/o-to-xe-may/trieu-hoi-hon-15-trieu-xe-tren-toan-cau-bmw-co-the-thiet-hai-1-ty-usd-20240912091508856.htm) - 05:44 12/09/2024
 - 🎓 [Bán hơn 7.000 ô tô mỗi ngày, hãng xe Trung Quốc đối mặt với một thách thức](https://dantri.com.vn/o-to-xe-may/ban-hon-7000-o-to-moi-ngay-hang-xe-trung-quoc-doi-mat-voi-mot-thach-thuc-20240912004523052.htm) - 23:56 11/09/2024
