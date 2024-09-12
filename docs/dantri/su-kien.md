@@ -12,7 +12,7 @@ sidebar_position: 16
 - 🐘 [Thót tim cảnh đoàn người nối tay nhau kéo giữ nạn nhân và xe máy bị lũ cuốn](https://dantri.com.vn/an-sinh/thot-tim-canh-doan-nguoi-noi-tay-nhau-keo-giu-nan-nhan-va-xe-may-bi-lu-cuon-20240911202252304.htm) - 22:59 11/09/2024
 - 🤔 [Ám ảnh tiếng kẻng báo động &quot;lũ về&quot; tại Làng Nủ](https://dantri.com.vn/xa-hoi/am-anh-tieng-keng-bao-dong-lu-ve-tai-lang-nu-20240912001951460.htm) - 22:47 11/09/2024
 - 🧠 [Nỗi lo lũ chồng lũ khi tìm kiếm nạn nhân tại Làng Nủ](https://dantri.com.vn/xa-hoi/noi-lo-lu-chong-lu-khi-tim-kiem-nan-nhan-tai-lang-nu-20240911231727867.htm) - 17:02 11/09/2024
-- 📝 [Nước rút dần, người dân ven sông Hồng trở về nhà](https://dantri.com.vn/xa-hoi/nuoc-rut-dan-nguoi-dan-ven-song-hong-tro-ve-nha-20240911231052711.htm) - 17:01 11/09/2024
+- 📝 [Lũ trên sông Đáy và sông Hoàng Long tiếp tục dâng cao](https://dantri.com.vn/xa-hoi/lu-tren-song-day-va-song-hoang-long-tiep-tuc-dang-cao-20240911231052711.htm) - 17:01 11/09/2024
 - 🦏 [Nga lên tiếng khi ông Putin bị nhắc tên trong tranh luận Harris - Trump](https://dantri.com.vn/the-gioi/nga-len-tieng-khi-ong-putin-bi-nhac-ten-trong-tranh-luan-harris-trump-20240911194057480.htm) - 14:55 11/09/2024
 - 🥰 [Thủ tướng: &quot;Mở cửa ra thấy mưa dầm dề là thấy lo&quot;](https://dantri.com.vn/xa-hoi/thu-tuong-mo-cua-ra-thay-mua-dam-de-la-thay-lo-20240911201120378.htm) - 13:37 11/09/2024
 - 🤗 [Người Hà Nội đành lòng bỏ của chạy lũ, xót xa nhìn tài sản bị nước bủa vây](https://dantri.com.vn/doi-song/nguoi-ha-noi-danh-long-bo-cua-chay-lu-xot-xa-nhin-tai-san-bi-nuoc-bua-vay-20240911200832069.htm) - 13:29 11/09/2024
