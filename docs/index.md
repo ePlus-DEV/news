@@ -197,46 +197,46 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Giáo viên có thể không được hưởng trợ cấp thôi việc khi nào?](https://laodong.vn/ban-tin/giao-vien-co-the-khong-duoc-huong-tro-cap-thoi-viec-khi-nao-1393515.ldo) - 03:56 13/09/2024
-- 📝 [Một thẩm phán ở Kiên Giang bị bắt quả tang nhận hối lộ](https://laodong.vn/phap-luat/mot-tham-phan-o-kien-giang-bi-bat-qua-tang-nhan-hoi-lo-1393620.ldo) - 03:52 13/09/2024
-- 🦏 [TPHCM chỉ đạo giảm quy mô, hạn chế sự kiện và lễ hội](https://laodong.vn/xa-hoi/tphcm-chi-dao-giam-quy-mo-han-che-su-kien-va-le-hoi-1393637.ldo) - 03:48 13/09/2024
-- 🦩 [Chủ tịch Cà Mau chỉ đạo nóng sau vụ clip học sinh đánh nhau](https://laodong.vn/giao-duc/chu-tich-ca-mau-chi-dao-nong-sau-vu-clip-hoc-sinh-danh-nhau-1393629.ldo) - 03:45 13/09/2024
-- 🦏 [Bố bị khởi tố vì giao xe cho con dưới 18 tuổi ở Hải Phòng](https://laodong.vn/phap-luat/bo-bi-khoi-to-vi-giao-xe-cho-con-duoi-18-tuoi-o-hai-phong-1393638.ldo) - 03:42 13/09/2024
-- 🧰 [Bão mạnh sắp vào khu vực dự báo của Philippines hôm nay](https://laodong.vn/the-gioi/bao-manh-sap-vao-khu-vuc-du-bao-cua-philippines-hom-nay-1393612.ldo) - 03:41 13/09/2024
-- 🌊 [Bộ trưởng Bộ Công an gửi thư động viên cán bộ, chiến sĩ](https://laodong.vn/thoi-su/bo-truong-bo-cong-an-gui-thu-dong-vien-can-bo-chien-si-1393563.ldo) - 03:32 13/09/2024
-- 🔥 [Vingroup ủng hộ đồng bào bị thiệt hại do bão lũ 250 tỉ đồng](https://laodong.vn/xa-hoi/vingroup-ung-ho-dong-bao-bi-thiet-hai-do-bao-lu-250-ti-dong-1393593.ldo) - 03:31 13/09/2024
-- 🦒 [Sau bão lũ lịch sử, người dân Yên Bái cần hỗ trợ gì?](https://laodong.vn/xa-hoi/sau-bao-lu-lich-su-nguoi-dan-yen-bai-can-ho-tro-gi-1393600.ldo) - 03:30 13/09/2024
-- 💼 [Tổng LĐLĐ Việt Nam hỗ trợ 454 triệu đồng CNVCLĐ Hải Phòng](https://laodong.vn/cong-doan/tong-ldld-viet-nam-ho-tro-454-trieu-dong-cnvcld-hai-phong-1393597.ldo) - 03:26 13/09/2024
-- 🤖 [Thủ tướng bổ nhiệm lại Phó Chủ nhiệm Văn phòng Chính phủ](https://laodong.vn/thoi-su/thu-tuong-bo-nhiem-lai-pho-chu-nhiem-van-phong-chinh-phu-1393572.ldo) - 03:24 13/09/2024
-- 💪 [Chủ tịch Tổng LĐLĐVN thăm, tặng quà vùng lũ lụt Thái Nguyên](https://laodong.vn/cong-doan/chu-tich-tong-ldldvn-tham-tang-qua-vung-lu-lut-thai-nguyen-1392971.ldo) - 03:23 13/09/2024
-- 👍 [Việt Nam đề xuất lập diễn đàn công nghệ xanh toàn cầu](https://laodong.vn/thoi-su/viet-nam-de-xuat-lap-dien-dan-cong-nghe-xanh-toan-cau-1393570.ldo) - 03:20 13/09/2024
-- 💂 [Biến động lãi suất BIDV, gửi 500 triệu đồng nhận lãi cao](https://laodong.vn/kinh-doanh/bien-dong-lai-suat-bidv-gui-500-trieu-dong-nhan-lai-cao-1393632.ldo) - 03:20 13/09/2024
-- 🧰 [Công đoàn Hậu Giang chung tay hướng về vùng lũ](https://laodong.vn/ldld-hau-giang/cong-doan-hau-giang-chung-tay-huong-ve-vung-lu-1393603.ldo) - 03:18 13/09/2024
-- 🥷 [Giá xăng dầu hôm nay 13.9: Thế giới tăng mạnh](https://laodong.vn/kinh-doanh/gia-xang-dau-hom-nay-139-the-gioi-tang-manh-1393621.ldo) - 03:17 13/09/2024
-- 💫 [Dự báo Nam Bộ có nơi mưa rất to, vượt mốc 120mm](https://laodong.vn/moi-truong/du-bao-nam-bo-co-noi-mua-rat-to-vuot-moc-120mm-1393617.ldo) - 03:16 13/09/2024
-- 🎭 [Toàn văn Tuyên bố chung Việt Nam - Lào](https://laodong.vn/thoi-su/toan-van-tuyen-bo-chung-viet-nam-lao-1393579.ldo) - 03:16 13/09/2024
-- 😎 [Mực nước sông Hoàng Long đã giảm nhưng vẫn trên báo động 3](https://laodong.vn/xa-hoi/muc-nuoc-song-hoang-long-da-giam-nhung-van-tren-bao-dong-3-1393611.ldo) - 03:14 13/09/2024
-- 💄 [Tình hình đê điều: Nhiều sự cố phát sinh trong 2 ngày qua](https://laodong.vn/xa-hoi/tinh-hinh-de-dieu-nhieu-su-co-phat-sinh-trong-2-ngay-qua-1393596.ldo) - 03:14 13/09/2024
-- 🫣 [Giá vàng hôm nay 13.9: Vàng nhẫn tăng, phá mốc 79 triệu đồng](https://laodong.vn/tien-te-dau-tu/gia-vang-hom-nay-139-vang-nhan-tang-pha-moc-79-trieu-dong-1393064.ldo) - 03:13 13/09/2024
-- 🧑‍🏫 [Bạc Liêu dự kiến huy động vốn đầu tư khoảng 450.000 tỉ đồng](https://laodong.vn/thoi-su/bac-lieu-du-kien-huy-dong-von-dau-tu-khoang-450000-ti-dong-1393574.ldo) - 03:12 13/09/2024
-- 🦣 [&quot;Anh trai vượt ngàn chông gai&quot; hoãn phát sóng](https://laodong.vn/van-hoa-giai-tri/anh-trai-vuot-ngan-chong-gai-hoan-phat-song-1393613.ldo) - 03:11 13/09/2024
-- 💫 [Hà Nội đề xuất mở rộng phạm vi hoạt động của xe điện](https://laodong.vn/ban-doc/ha-noi-de-xuat-mo-rong-pham-vi-hoat-dong-cua-xe-dien-1393517.ldo) - 03:10 13/09/2024
-- ⛽️ [Lisa &lpar;Blackpink&rpar; bị chỉ trích hát nhép](https://laodong.vn/van-hoa-giai-tri/lisa-blackpink-bi-chi-trich-hat-nhep-1393614.ldo) - 03:10 13/09/2024
-- 💫 [Biến động lãi suất 13.9: Đà tăng lãi liên tục tiếp diễn](https://laodong.vn/kinh-doanh/bien-dong-lai-suat-139-da-tang-lai-lien-tuc-tiep-dien-1393577.ldo) - 03:09 13/09/2024
-- 🥸 [LĐLĐ tỉnh Điện Biên trao đổi kinh nghiệm với 5 tỉnh Bắc Lào](https://laodong.vn/ldld-dien-bien/ldld-tinh-dien-bien-trao-doi-kinh-nghiem-voi-5-tinh-bac-lao-1393573.ldo) - 03:07 13/09/2024
-- 🐻 [Huyện nghèo biên giới ủng hộ vùng lũ gần 200 triệu đồng](https://laodong.vn/xa-hoi/huyen-ngheo-bien-gioi-ung-ho-vung-lu-gan-200-trieu-dong-1393604.ldo) - 03:05 13/09/2024
-- 🪄 [Lợi ích của sữa chua Hy Lạp cho người luyện tập cơ bắp](https://laodong.vn/dinh-duong-am-thuc/loi-ich-cua-sua-chua-hy-lap-cho-nguoi-luyen-tap-co-bap-1393615.ldo) - 03:05 13/09/2024
-- 🧑‍🏫 [Arteta và Arsenal đã biến đổi thế nào?](https://laodong.vn/bong-da-quoc-te/arteta-va-arsenal-da-bien-doi-the-nao-1393458.ldo) - 03:03 13/09/2024
-- 🌊 [Công đoàn Lào Cai trao quà cho người dân vùng lũ Bảo Yên](https://laodong.vn/ldld-lao-cai/cong-doan-lao-cai-trao-qua-cho-nguoi-dan-vung-lu-bao-yen-1393602.ldo) - 03:01 13/09/2024
-- 💻 [Sông Lam Nghệ An chuẩn bị gì cho mùa giải mới 2024-2025?](https://laodong.vn/bong-da/song-lam-nghe-an-chuan-bi-gi-cho-mua-giai-moi-2024-2025-1393582.ldo) - 03:01 13/09/2024
-- 👨‍🏫 [Hoạt động trở lại đường sắt qua cầu Long Biên và cầu Đuống](https://laodong.vn/ban-doc/hoat-dong-tro-lai-duong-sat-qua-cau-long-bien-va-cau-duong-1393610.ldo) - 03:00 13/09/2024
-- 🌈 [Quyết định nửa đêm giúp người đàn ông thoát thảm kịch ở Cao Bằng](https://laodong.vn/xa-hoi/quyet-dinh-nua-dem-giup-nguoi-dan-ong-thoat-tham-kich-o-cao-bang-1393472.ldo) - 03:00 13/09/2024
-- 🐲 [Nhật dừng kế hoạch cấp tiền để phụ nữ thành thị về nông thôn kết hôn](https://laodong.vn/gia-dinh-hon-nhan/nhat-dung-ke-hoach-cap-tien-de-phu-nu-thanh-thi-ve-nong-thon-ket-hon-1393569.ldo) - 02:58 13/09/2024
-- 🚀 [Nha Trang giảm 43 tổ dân phố, còn 255 thôn, tổ dân phố](https://laodong.vn/bat-dong-san/nha-trang-giam-43-to-dan-pho-con-255-thon-to-dan-pho-1393595.ldo) - 02:54 13/09/2024
-- 😺 [Chứng khoán nỗ lực phục hồi trong ngắn hạn](https://laodong.vn/kinh-doanh/chung-khoan-no-luc-phuc-hoi-trong-ngan-han-1393605.ldo) - 02:53 13/09/2024
-- 🕴 [Bắt hai đối tượng thực hiện 5 vụ trộm cắp tài sản](https://laodong.vn/phap-luat/bat-hai-doi-tuong-thuc-hien-5-vu-trom-cap-tai-san-1393606.ldo) - 02:49 13/09/2024
-- 🌋 [Dự báo thời tiết 3 ngày tới từ 13.9 đến 15.9 ở cả ba miền](https://laodong.vn/ban-tin/du-bao-thoi-tiet-3-ngay-toi-tu-139-den-159-o-ca-ba-mien-1393520.ldo) - 02:47 13/09/2024
-- 💄 [Xử lý ra sao dự án làm đường nghìn tỉ đồng ì ạch nhiều năm?](https://laodong.vn/xa-hoi/xu-ly-ra-sao-du-an-lam-duong-nghin-ti-dong-i-ach-nhieu-nam-1393535.ldo) - 02:43 13/09/2024<!-- laodong:END -->
+- 🗽 [Đồi rung chuyển, hàng trăm người dân Yên Bái sơ tán trong đêm](https://laodong.vn/xa-hoi/doi-rung-chuyen-hang-tram-nguoi-dan-yen-bai-so-tan-trong-dem-1393674.ldo) - 04:23 13/09/2024
+- 📝 [Loạt nhà trọ tăng giá theo cơn sốt bất động sản](https://laodong.vn/bat-dong-san/loat-nha-tro-tang-gia-theo-con-sot-bat-dong-san-1393209.ldo) - 04:22 13/09/2024
+- 🦏 [Ukraina bị tố giam giữ thường dân Nga](https://laodong.vn/the-gioi/ukraina-bi-to-giam-giu-thuong-dan-nga-1393624.ldo) - 04:20 13/09/2024
+- 🦩 [Chứng chỉ nghiệp vụ sư phạm có còn hiệu lực?](https://laodong.vn/giao-duc/chung-chi-nghiep-vu-su-pham-co-con-hieu-luc-1393658.ldo) - 04:15 13/09/2024
+- 🦏 [Tuấn Trần vẫn là &quot;diễn viên trăm tỉ&quot; khi đóng với Hoài Linh](https://laodong.vn/van-hoa-giai-tri/tuan-tran-van-la-dien-vien-tram-ti-khi-dong-voi-hoai-linh-1393641.ldo) - 04:12 13/09/2024
+- 🧰 [RM BTS làm điều ý nghĩa trong dịp sinh nhật tuổi 30](https://laodong.vn/van-hoa-giai-tri/rm-bts-lam-dieu-y-nghia-trong-dip-sinh-nhat-tuoi-30-1393587.ldo) - 04:07 13/09/2024
+- 🌊 [Nga tăng cường tấn công Ukraina bằng pháo tầm xa](https://laodong.vn/ban-tin/nga-tang-cuong-tan-cong-ukraina-bang-phao-tam-xa-1393626.ldo) - 04:06 13/09/2024
+- 🔥 [Hỗ trợ khẩn cấp 180 tỉ đồng cho Yên Bái, Lào Cai khắc phục thiệt hại](https://laodong.vn/kinh-doanh/ho-tro-khan-cap-180-ti-dong-cho-yen-bai-lao-cai-khac-phuc-thiet-hai-1393649.ldo) - 04:00 13/09/2024
+- 🦒 [Lao động ngoài 30 tuổi có khó xin việc?](https://laodong.vn/cong-doan/lao-dong-ngoai-30-tuoi-co-kho-xin-viec-1393601.ldo) - 04:00 13/09/2024
+- 💼 [Vinamilk kịp thời hỗ trợ 550.000 sản phẩm thiết yếu cho người dân vùng bão lũ](https://laodong.vn/xa-hoi/vinamilk-kip-thoi-ho-tro-550000-san-pham-thiet-yeu-cho-nguoi-dan-vung-bao-lu-1393566.ldo) - 04:00 13/09/2024
+- 🤖 [Cứu trợ lũ lụt, đừng để nơi &quot;no dồn&quot;, nơi &quot;đói góp&quot;](https://laodong.vn/su-kien-binh-luan/cuu-tro-lu-lut-dung-de-noi-no-don-noi-doi-gop-1393506.ldo) - 04:00 13/09/2024
+- 💪 [Thực phẩm nên ăn cùng đậu phụ giúp ngăn đường huyết tăng vọt](https://laodong.vn/ban-tin/thuc-pham-nen-an-cung-dau-phu-giup-ngan-duong-huyet-tang-vot-1393050.ldo) - 04:00 13/09/2024
+- 👍 [Giáo viên có thể không được hưởng trợ cấp thôi việc khi nào?](https://laodong.vn/ban-tin/giao-vien-co-the-khong-duoc-huong-tro-cap-thoi-viec-khi-nao-1393515.ldo) - 03:56 13/09/2024
+- 💂 [Một thẩm phán ở Kiên Giang bị bắt quả tang nhận hối lộ](https://laodong.vn/phap-luat/mot-tham-phan-o-kien-giang-bi-bat-qua-tang-nhan-hoi-lo-1393620.ldo) - 03:52 13/09/2024
+- 🧰 [TPHCM chỉ đạo giảm quy mô, hạn chế sự kiện và lễ hội](https://laodong.vn/xa-hoi/tphcm-chi-dao-giam-quy-mo-han-che-su-kien-va-le-hoi-1393637.ldo) - 03:48 13/09/2024
+- 🥷 [Chủ tịch Cà Mau chỉ đạo nóng sau vụ clip học sinh đánh nhau](https://laodong.vn/giao-duc/chu-tich-ca-mau-chi-dao-nong-sau-vu-clip-hoc-sinh-danh-nhau-1393629.ldo) - 03:45 13/09/2024
+- 💫 [Bố bị khởi tố vì giao xe cho con dưới 18 tuổi ở Hải Phòng](https://laodong.vn/phap-luat/bo-bi-khoi-to-vi-giao-xe-cho-con-duoi-18-tuoi-o-hai-phong-1393638.ldo) - 03:42 13/09/2024
+- 🎭 [Bão mạnh sắp vào khu vực dự báo của Philippines hôm nay](https://laodong.vn/the-gioi/bao-manh-sap-vao-khu-vuc-du-bao-cua-philippines-hom-nay-1393612.ldo) - 03:41 13/09/2024
+- 😎 [Bộ trưởng Bộ Công an gửi thư động viên cán bộ, chiến sĩ](https://laodong.vn/thoi-su/bo-truong-bo-cong-an-gui-thu-dong-vien-can-bo-chien-si-1393563.ldo) - 03:32 13/09/2024
+- 💄 [Vingroup ủng hộ đồng bào bị thiệt hại do bão lũ 250 tỉ đồng](https://laodong.vn/xa-hoi/vingroup-ung-ho-dong-bao-bi-thiet-hai-do-bao-lu-250-ti-dong-1393593.ldo) - 03:31 13/09/2024
+- 🫣 [Sau bão lũ lịch sử, người dân Yên Bái cần hỗ trợ gì?](https://laodong.vn/xa-hoi/sau-bao-lu-lich-su-nguoi-dan-yen-bai-can-ho-tro-gi-1393600.ldo) - 03:30 13/09/2024
+- 🧑‍🏫 [Tổng LĐLĐ Việt Nam hỗ trợ 454 triệu đồng CNVCLĐ Hải Phòng](https://laodong.vn/cong-doan/tong-ldld-viet-nam-ho-tro-454-trieu-dong-cnvcld-hai-phong-1393597.ldo) - 03:26 13/09/2024
+- 🦣 [Thủ tướng bổ nhiệm lại Phó Chủ nhiệm Văn phòng Chính phủ](https://laodong.vn/thoi-su/thu-tuong-bo-nhiem-lai-pho-chu-nhiem-van-phong-chinh-phu-1393572.ldo) - 03:24 13/09/2024
+- 💫 [Chủ tịch Tổng LĐLĐVN thăm, tặng quà vùng lũ lụt Thái Nguyên](https://laodong.vn/cong-doan/chu-tich-tong-ldldvn-tham-tang-qua-vung-lu-lut-thai-nguyen-1392971.ldo) - 03:23 13/09/2024
+- ⛽️ [Việt Nam đề xuất lập diễn đàn công nghệ xanh toàn cầu](https://laodong.vn/thoi-su/viet-nam-de-xuat-lap-dien-dan-cong-nghe-xanh-toan-cau-1393570.ldo) - 03:20 13/09/2024
+- 💫 [Biến động lãi suất BIDV, gửi 500 triệu đồng nhận lãi cao](https://laodong.vn/kinh-doanh/bien-dong-lai-suat-bidv-gui-500-trieu-dong-nhan-lai-cao-1393632.ldo) - 03:20 13/09/2024
+- 🥸 [Công đoàn Hậu Giang chung tay hướng về vùng lũ](https://laodong.vn/ldld-hau-giang/cong-doan-hau-giang-chung-tay-huong-ve-vung-lu-1393603.ldo) - 03:18 13/09/2024
+- 🐻 [Giá xăng dầu hôm nay 13.9: Thế giới tăng mạnh](https://laodong.vn/kinh-doanh/gia-xang-dau-hom-nay-139-the-gioi-tang-manh-1393621.ldo) - 03:17 13/09/2024
+- 🪄 [Dự báo Nam Bộ có nơi mưa rất to, vượt mốc 120mm](https://laodong.vn/moi-truong/du-bao-nam-bo-co-noi-mua-rat-to-vuot-moc-120mm-1393617.ldo) - 03:16 13/09/2024
+- 🧑‍🏫 [Toàn văn Tuyên bố chung Việt Nam - Lào](https://laodong.vn/thoi-su/toan-van-tuyen-bo-chung-viet-nam-lao-1393579.ldo) - 03:16 13/09/2024
+- 🌊 [Mực nước sông Hoàng Long đã giảm nhưng vẫn trên báo động 3](https://laodong.vn/xa-hoi/muc-nuoc-song-hoang-long-da-giam-nhung-van-tren-bao-dong-3-1393611.ldo) - 03:14 13/09/2024
+- 💻 [Tình hình đê điều: Nhiều sự cố phát sinh trong 2 ngày qua](https://laodong.vn/xa-hoi/tinh-hinh-de-dieu-nhieu-su-co-phat-sinh-trong-2-ngay-qua-1393596.ldo) - 03:14 13/09/2024
+- 👨‍🏫 [Giá vàng hôm nay 13.9: Vàng nhẫn tăng, phá mốc 79 triệu đồng](https://laodong.vn/tien-te-dau-tu/gia-vang-hom-nay-139-vang-nhan-tang-pha-moc-79-trieu-dong-1393064.ldo) - 03:13 13/09/2024
+- 🌈 [Bạc Liêu dự kiến huy động vốn đầu tư khoảng 450.000 tỉ đồng](https://laodong.vn/thoi-su/bac-lieu-du-kien-huy-dong-von-dau-tu-khoang-450000-ti-dong-1393574.ldo) - 03:12 13/09/2024
+- 🐲 [&quot;Anh trai vượt ngàn chông gai&quot; hoãn phát sóng](https://laodong.vn/van-hoa-giai-tri/anh-trai-vuot-ngan-chong-gai-hoan-phat-song-1393613.ldo) - 03:11 13/09/2024
+- 🚀 [Hà Nội đề xuất mở rộng phạm vi hoạt động của xe điện](https://laodong.vn/ban-doc/ha-noi-de-xuat-mo-rong-pham-vi-hoat-dong-cua-xe-dien-1393517.ldo) - 03:10 13/09/2024
+- 😺 [Lisa &lpar;Blackpink&rpar; bị chỉ trích hát nhép](https://laodong.vn/van-hoa-giai-tri/lisa-blackpink-bi-chi-trich-hat-nhep-1393614.ldo) - 03:10 13/09/2024
+- 🕴 [Biến động lãi suất 13.9: Đà tăng lãi liên tục tiếp diễn](https://laodong.vn/kinh-doanh/bien-dong-lai-suat-139-da-tang-lai-lien-tuc-tiep-dien-1393577.ldo) - 03:09 13/09/2024
+- 🌋 [LĐLĐ tỉnh Điện Biên trao đổi kinh nghiệm với 5 tỉnh Bắc Lào](https://laodong.vn/ldld-dien-bien/ldld-tinh-dien-bien-trao-doi-kinh-nghiem-voi-5-tinh-bac-lao-1393573.ldo) - 03:07 13/09/2024
+- 💄 [Huyện nghèo biên giới ủng hộ vùng lũ gần 200 triệu đồng](https://laodong.vn/xa-hoi/huyen-ngheo-bien-gioi-ung-ho-vung-lu-gan-200-trieu-dong-1393604.ldo) - 03:05 13/09/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
