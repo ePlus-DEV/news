@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Việt Nam và Anh tăng cường hợp tác đào tạo quốc phòng](https://vnexpress.net/viet-nam-va-anh-tang-cuong-hop-tac-dao-tao-quoc-phong-4792531.html) - 10:29 13/09/2024
-- 🤓 [Khánh Hòa sẽ xây trụ sở chung hơn 1.867 tỷ đồng](https://vnexpress.net/khanh-hoa-se-xay-tru-so-chung-hon-1-867-ty-dong-4792657.html) - 10:08 13/09/2024
+- 🤓 [Khánh Hòa sẽ xây trụ sở chung cho 1.200 người sử dụng](https://vnexpress.net/khanh-hoa-se-xay-tru-so-chung-cho-1-200-nguoi-su-dung-4792657.html) - 10:08 13/09/2024
 - ⚗️ [Thêm 3 người Làng Nủ trở về báo tin an toàn](https://vnexpress.net/them-3-nguoi-lang-nu-tro-ve-bao-tin-an-toan-4792640.html) - 09:41 13/09/2024
 - 🌊 [Lào Cai tìm thấy 12 người chết trong vụ sạt lở](https://vnexpress.net/lao-cai-tim-thay-12-nguoi-chet-trong-vu-sat-lo-4792637.html) - 09:29 13/09/2024
 - 🎓 [Nhiều quốc lộ vẫn chia cắt do ngập lụt, sạt lở](https://vnexpress.net/nhieu-quoc-lo-van-chia-cat-do-ngap-lut-sat-lo-4792485.html) - 09:03 13/09/2024
