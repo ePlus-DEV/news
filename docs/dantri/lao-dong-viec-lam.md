@@ -5,7 +5,7 @@ sidebar_position: 19
 
 <!-- dantri-lao-dong-viec-lam:START -->
 - ⚗️ [&quot;Cục Việc làm có ổn định thì việc làm cả nước mới bền vững&quot;](https://dantri.com.vn/lao-dong-viec-lam/cuc-viec-lam-co-on-dinh-thi-viec-lam-ca-nuoc-moi-ben-vung-20240913185632391.htm) - 12:43 13/09/2024
-- 🙉 [Bộ trưởng Đào Ngọc Dung: &quot;Tâm lý sợ sai của cán bộ làm cản trở công việc&quot;](https://dantri.com.vn/lao-dong-viec-lam/bo-truong-dao-ngoc-dung-tam-ly-so-sai-cua-can-bo-lam-can-tro-cong-viec-20240913153645119.htm) - 09:23 13/09/2024
+- 🙉 [Bộ trưởng Đào Ngọc Dung: Loại bỏ tâm lý sợ sai, chỉ bàn làm, không bàn lùi!](https://dantri.com.vn/lao-dong-viec-lam/bo-truong-dao-ngoc-dung-loai-bo-tam-ly-so-sai-chi-ban-lam-khong-ban-lui-20240913153645119.htm) - 09:23 13/09/2024
 - 🕴 [Sâu ăn trụi cả vườn dừa, lão nông rủ bạn đi làm thuê kiếm sống qua ngày](https://dantri.com.vn/lao-dong-viec-lam/sau-an-trui-ca-vuon-dua-lao-nong-ru-ban-di-lam-thue-kiem-song-qua-ngay-20240913024950439.htm) - 07:07 13/09/2024
 - 🧐 [Kỳ tích từ 2 con dê của phụ nữ miền núi](https://dantri.com.vn/lao-dong-viec-lam/ky-tich-tu-2-con-de-cua-phu-nu-mien-nui-20240912154102257.htm) - 23:00 12/09/2024
 - 🧑‍💻 [TPHCM cần 83.000 lao động trong 3 tháng cuối năm](https://dantri.com.vn/lao-dong-viec-lam/tphcm-can-83000-lao-dong-trong-3-thang-cuoi-nam-20240912155446007.htm) - 22:00 12/09/2024
