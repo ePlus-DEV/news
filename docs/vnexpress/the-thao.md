@@ -10,8 +10,8 @@ sidebar_position: 5
 - 🤗 [Chú Nadal ví Federer như Messi](https://vnexpress.net/chu-nadal-vi-federer-nhu-messi-4792322.html) - 00:07 13/09/2024
 - 🥳 [Louis Saha: &#39;Ten Hag có thể bị sa thải ngay tuần này&#39;](https://vnexpress.net/louis-saha-ten-hag-co-the-bi-sa-thai-ngay-tuan-nay-4792314.html) - 22:00 12/09/2024
 - 🦣 [Ramos chật vật tìm đội bóng mới](https://vnexpress.net/ramos-chat-vat-tim-doi-bong-moi-4792267.html) - 21:59 12/09/2024
-- 🌜 [Man Utd được khuyên để Mainoo làm đội trưởng](https://vnexpress.net/man-utd-duoc-khuyen-de-mainoo-lam-doi-truong-4792311.html) - 17:00 12/09/2024
-- 🫶 [Runner Bỉ lập kỷ lục chạy 1046 km trong 6 ngày](https://vnexpress.net/runner-bi-lap-ky-luc-chay-1046-km-trong-6-ngay-4792274.html) - 17:00 12/09/2024
+- 🌜 [Runner Bỉ chạy 1.046 km gần như liên tục trong 6 ngày](https://vnexpress.net/runner-bi-chay-1-046-km-gan-nhu-lien-tuc-trong-6-ngay-4792274.html) - 17:00 12/09/2024
+- 🫶 [Man Utd được khuyên để Mainoo làm đội trưởng](https://vnexpress.net/man-utd-duoc-khuyen-de-mainoo-lam-doi-truong-4792311.html) - 17:00 12/09/2024
 - 🌜 [Điền kinh Việt Nam có kỷ lục quốc gia 4x100m mới](https://vnexpress.net/dien-kinh-viet-nam-co-ky-luc-quoc-gia-4x100m-moi-4792264.html) - 15:28 12/09/2024
 - 😺 [PSG phải đền bù Mbappe 60 triệu USD](https://vnexpress.net/psg-phai-den-bu-mbappe-60-trieu-usd-4792310.html) - 15:22 12/09/2024
 - 👍 [Việt Nam lần đầu đoạt huy chương billiard nữ thế giới](https://vnexpress.net/viet-nam-lan-dau-doat-huy-chuong-billiard-nu-the-gioi-4792298.html) - 13:20 12/09/2024
