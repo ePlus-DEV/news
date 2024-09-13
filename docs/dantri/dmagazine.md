@@ -4,7 +4,7 @@ sidebar_position: 27
 ---
 
 <!-- dantri-dmagazine:START -->
-- 👨‍🏫 [Cristiano Ronaldo: Cỗ máy săn bàn và hành trình chinh phục 900 bàn thắng](https://dantri.com.vn/the-thao/cristiano-ronaldo-co-may-san-ban-va-hanh-trinh-chinh-phuc-900-ban-thang-20240911153827770.htm) - 23:24 12/09/2024
+- 👨‍🏫 [Cristiano Ronaldo: Cỗ máy săn bàn và hành trình chinh phục 900 bàn thắng](https://dantri.com.vn/the-thao/cristiano-ronaldo-co-may-san-ban-va-hanh-trinh-chinh-phuc-900-ban-thang-20240911153827770.htm) - 03:00 13/09/2024
 - 🎡 [Những khung cảnh lịch sử giữa trận lụt lớn nhất 23 năm qua ở Thái Nguyên](https://dantri.com.vn/xa-hoi/nhung-khung-canh-lich-su-giua-tran-lut-lon-nhat-23-nam-qua-o-thai-nguyen-20240910143324696.htm) - 07:39 10/09/2024
 - 😎 [FSEL: Trung tâm tiếng Anh &quot;bỏ túi&quot; và giấc mơ đưa hàng triệu học sinh Việt tới vũ trụ đa ngôn ngữ](https://dantri.com.vn/giao-duc/fsel-trung-tam-tieng-anh-bo-tui-va-giac-mo-dua-hang-trieu-hoc-sinh-viet-toi-vu-tru-da-ngon-ngu-20240906181648523.htm) - 07:00 09/09/2024
 - 🦍 [Ocean City - Đô thị giáo dục thu hút gia đình trẻ](https://dantri.com.vn/giao-duc/ocean-city-do-thi-giao-duc-thu-hut-gia-dinh-tre-20240908121422668.htm) - 01:00 09/09/2024
