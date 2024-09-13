@@ -21,7 +21,7 @@ sidebar_position: 6
 - 🦍 [Nhiều người đổ xô mua thực phẩm, bếp gas vì sợ lụt](https://vnexpress.net/nhieu-nguoi-do-xo-mua-thuc-pham-bep-gas-vi-so-lut-4791268.html) - 15:40 10/09/2024
 - 🧑‍🏫 [Vietjet hỗ trợ vùng ảnh hưởng bão lũ](https://vnexpress.net/vietjet-ho-tro-vung-anh-huong-bao-lu-4791382.html) - 13:30 10/09/2024
 - 🧰 [Chạy quảng cáo để tìm người yêu](https://vnexpress.net/chay-quang-cao-de-tim-nguoi-yeu-4790201.html) - 08:20 10/09/2024
-- 🪄 [Quỹ Hy vọng cùng đồng bào vượt bão](https://vnexpress.net/quy-hy-vong-cung-dong-bao-vuot-bao-4791218.html) - 08:18 10/09/2024
+- 🪄 [Quỹ Hy vọng cùng đồng bào vượt lũ](https://vnexpress.net/quy-hy-vong-cung-dong-bao-vuot-lu-4791218.html) - 08:18 10/09/2024
 - 🐲 [Nhật Bản sợ mất sức hút với lao động Đông Nam Á](https://vnexpress.net/nhat-ban-so-mat-suc-hut-voi-lao-dong-dong-nam-a-4791169.html) - 07:36 10/09/2024
 - 💻 [Chiến lược &#39;địa phương hóa&#39; trên điều hòa Daikin](https://vnexpress.net/chien-luoc-dia-phuong-hoa-tren-dieu-hoa-daikin-4775559.html) - 07:00 10/09/2024
 - 🐘 [Người vùng lũ Thái Nguyên xúc động khi được giải cứu](https://vnexpress.net/nguoi-vung-lu-thai-nguyen-xuc-dong-khi-duoc-giai-cuu-4791122.html) - 05:53 10/09/2024
