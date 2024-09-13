@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Chuỗi nghỉ dưỡng casino, Safari Phú Quốc lỗ hơn 300 tỷ](https://vnexpress.net/chuoi-nghi-duong-casino-safari-phu-quoc-lo-hon-300-ty-4792451.html) - 04:34 13/09/2024
+- ⛽️ [Chuỗi nghỉ dưỡng, casino Phú Quốc lỗ hơn 300 tỷ](https://vnexpress.net/chuoi-nghi-duong-casino-phu-quoc-lo-hon-300-ty-4792451.html) - 04:34 13/09/2024
 - 🐲 [Agribank ủng hộ người dân vùng bão lũ 17,6 tỷ đồng](https://vnexpress.net/agribank-ung-ho-nguoi-dan-vung-bao-lu-17-6-ty-dong-4792486.html) - 04:30 13/09/2024
 - 🔥 [Giá vàng nhẫn vượt 79 triệu đồng](https://vnexpress.net/gia-vang-nhan-vuot-79-trieu-dong-4792440.html) - 03:46 13/09/2024
 - 🐵 [7.000 tỷ đồng yêu cầu bồi thường bảo hiểm sau bão Yagi](https://vnexpress.net/7-000-ty-dong-yeu-cau-boi-thuong-bao-hiem-sau-bao-yagi-4792371.html) - 03:33 13/09/2024
