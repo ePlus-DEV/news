@@ -4,7 +4,7 @@ sidebar_position: 20
 ---
 
 <!-- dantri-tam-long-nhan-ai:START -->
-- 🌝 [Trao 2 tỷ đồng bạn đọc Dân trí chung tây xây dựng lại Làng Nủ](https://dantri.com.vn/tam-long-nhan-ai/trao-2-ty-dong-ban-doc-dan-tri-chung-tay-xay-dung-lai-lang-nu-20240913104646859.htm) - 03:55 13/09/2024
+- 🌝 [Trao 2 tỷ đồng bạn đọc Dân trí chung tay xây dựng lại Làng Nủ](https://dantri.com.vn/tam-long-nhan-ai/trao-2-ty-dong-ban-doc-dan-tri-chung-tay-xay-dung-lai-lang-nu-20240913104646859.htm) - 03:55 13/09/2024
 - 🌜 [Báo Dân trí trao nóng 5 tấn gạo và 2 tấn nhu yếu phẩm tại Tuyên Quang](https://dantri.com.vn/tam-long-nhan-ai/bao-dan-tri-trao-nong-5-tan-gao-va-2-tan-nhu-yeu-pham-tai-tuyen-quang-20240913084028582.htm) - 02:46 13/09/2024
 - 👀 [Thảm họa lũ quét Làng Nủ &quot;cầu mong em nó sống để còn làm giỗ cho cả nhà&quot;](https://dantri.com.vn/tam-long-nhan-ai/tham-hoa-lu-quet-lang-nu-cau-mong-em-no-song-de-con-lam-gio-cho-ca-nha-20240913044633839.htm) - 22:25 12/09/2024
 - 🚀 [Dân trí là đơn vị đầu tiên trao 10 tấn gạo, 3 tấn nhu yếu phẩm tới Cao Bằng](https://dantri.com.vn/tam-long-nhan-ai/dan-tri-la-don-vi-dau-tien-trao-10-tan-gao-3-tan-nhu-yeu-pham-toi-cao-bang-20240912231552104.htm) - 18:00 12/09/2024
