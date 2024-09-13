@@ -27,7 +27,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [TikTok, Facebook và loạt ông lớn nộp thuế hơn 6.200 tỷ đồng](https://vnexpress.net/tiktok-facebook-va-loat-ong-lon-nop-thue-hon-6-200-ty-dong-4792708.html) - 16:02 13/09/2024
-- 🧰 [Lào Cai còn ba xã, 40 thôn bị cô lập](https://vnexpress.net/lao-cai-con-ba-xa-40-thon-bi-co-lap-4792714.html) - 15:59 13/09/2024
+- 🧰 [Lào Cai còn 40 thôn bị cô lập](https://vnexpress.net/lao-cai-con-40-thon-bi-co-lap-4792714.html) - 15:59 13/09/2024
 - 🥰 [Lùi lịch tắt sóng 2G sang ngày 15/10](https://vnexpress.net/lui-lich-tat-song-2g-sang-ngay-15-10-4792709.html) - 15:55 13/09/2024
 - 🌏 [HLV bắn súng Park Chung-gun được đề xuất hợp đồng mới](https://vnexpress.net/hlv-ban-sung-park-chung-gun-duoc-de-xuat-hop-dong-moi-4792711.html) - 15:45 13/09/2024
 - 🧐 [Vỡ nợ buôn đất, đôi vợ chồng lừa hơn 70 tỷ đồng](https://vnexpress.net/vo-no-buon-dat-doi-vo-chong-lua-hon-70-ty-dong-4792712.html) - 15:38 13/09/2024
