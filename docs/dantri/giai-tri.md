@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Người chuyển khoản gặp và xin lỗi Liên đoàn Xiếc sau khi chuyển 10.000 đồng](https://dantri.com.vn/giai-tri/nguoi-chuyen-khoan-gap-va-xin-loi-lien-doan-xiec-sau-khi-chuyen-10000-dong-20240913152328405.htm) - 15:31 13/09/2024
+- 🤩 [Người chuyển khoản gặp và xin lỗi Liên đoàn Xiếc sau khi ủng hộ 10.000 đồng](https://dantri.com.vn/giai-tri/nguoi-chuyen-khoan-gap-va-xin-loi-lien-doan-xiec-sau-khi-ung-ho-10000-dong-20240913152328405.htm) - 15:31 13/09/2024
 - 🔥 [Duy Mạnh, Tuấn Hưng kết hợp làm đêm nhạc, ủng hộ 3 tỷ đồng cho vùng bão  lũ](https://dantri.com.vn/giai-tri/duy-manh-tuan-hung-ket-hop-lam-dem-nhac-ung-ho-3-ty-dong-cho-vung-bao-lu-20240913180807674.htm) - 11:49 13/09/2024
 - 🚀 [&quot;Ông trùm&quot; làng giải trí lĩnh án 18 năm tù, bà xã gánh vác gia đình](https://dantri.com.vn/giai-tri/ong-trum-lang-giai-tri-linh-an-18-nam-tu-ba-xa-ganh-vac-gia-dinh-20240913103610605.htm) - 11:00 13/09/2024
 - 🔥 [NSƯT Kim Tử Long nhớ lại khoảnh khắc mẹ mất mà vẫn phải lên sân khấu diễn](https://dantri.com.vn/giai-tri/nsut-kim-tu-long-nho-lai-khoanh-khac-me-mat-ma-van-phai-len-san-khau-dien-20240913174145062.htm) - 10:42 13/09/2024
