@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Cựu chánh tòa Hành chính tỉnh Kiên Giang bị bắt](https://vnexpress.net/cuu-chanh-toa-hanh-chinh-tinh-kien-giang-bi-bat-4792540.html) - 06:54 13/09/2024
-- 🥰 [Cựu thứ trưởng bị cáo buộc &#39;lợi dụng chức vụ&#39; ra sao trong thiệt hại 937 tỷ đồng của EVN?](https://vnexpress.net/cuu-thu-truong-bo-cong-thuong-hoang-quoc-vuong-bi-cao-buoc-loi-dung-chuc-vu-ra-sao-trong-thiet-hai-937-ty-dong-cua-evn-4792315.html) - 06:52 13/09/2024
+- 🥰 [Cựu thứ trưởng bị cáo buộc &#39;lợi dụng chức vụ&#39; thế nào trong thiệt hại 937 tỷ đồng của EVN?](https://vnexpress.net/cuu-thu-truong-bo-cong-thuong-hoang-quoc-vuong-bi-cao-buoc-loi-dung-chuc-vu-ra-sao-trong-thiet-hai-937-ty-dong-cua-evn-4792315.html) - 06:52 13/09/2024
 - 🎓 [Nhiều người bị lừa vì muốn ra nước ngoài làm việc](https://vnexpress.net/nhieu-nguoi-bi-lua-vi-muon-ra-nuoc-ngoai-lam-viec-4792525.html) - 06:42 13/09/2024
 - 🤓 [Thẩm phán ở Kiên Giang bị bắt](https://vnexpress.net/tham-phan-o-kien-giang-bi-bat-4792476.html) - 04:22 13/09/2024
 - 🎊 [Đánh cắp hộp sọ trong mộ để tống tiền 5 tỷ đồng](https://vnexpress.net/danh-cap-hop-so-trong-ngoi-mo-de-tong-tien-5-ty-dong-4792431.html) - 03:20 13/09/2024
