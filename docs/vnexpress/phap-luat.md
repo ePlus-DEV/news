@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cựu Bí thư Bắc Ninh Nguyễn Nhân Chiến bị truy tố nhận hối lộ 14 tỷ đồng](https://vnexpress.net/cuu-bi-thu-bac-ninh-nguyen-nhan-chien-bi-truy-to-nhan-hoi-lo-14-ty-dong-4792626.html) - 09:08 13/09/2024
+- 😎 [VKS: Cựu Bí thư Bắc Ninh Nguyễn Nhân Chiến nhận &#39;quà&#39; 14 tỷ đồng](https://vnexpress.net/cuu-bi-thu-bac-ninh-nguyen-nhan-chien-bi-truy-to-nhan-14-ty-dong-4792626.html) - 09:08 13/09/2024
 - 🥰 [Vờ mua iPhone để chiếm đoạt tài khoản iCloud](https://vnexpress.net/bi-bat-vi-chiem-doat-tai-khoan-icloud-4792590.html) - 08:57 13/09/2024
 - 🎓 [Cựu chánh tòa Hành chính tỉnh Kiên Giang bị bắt](https://vnexpress.net/cuu-chanh-toa-hanh-chinh-tinh-kien-giang-bi-bat-4792540.html) - 06:54 13/09/2024
 - 🤓 [Cựu thứ trưởng bị cáo buộc &#39;lợi dụng chức vụ&#39; thế nào trong thiệt hại 937 tỷ đồng của EVN?](https://vnexpress.net/cuu-thu-truong-bo-cong-thuong-hoang-quoc-vuong-bi-cao-buoc-loi-dung-chuc-vu-ra-sao-trong-thiet-hai-937-ty-dong-cua-evn-4792315.html) - 06:52 13/09/2024
