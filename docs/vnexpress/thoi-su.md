@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Chạy lại tàu hỏa qua cầu Long Biên, Đuống](https://vnexpress.net/chay-lai-tau-hoa-qua-cau-long-bien-duong-4792527.html) - 06:08 13/09/2024
 - 🤓 [Những địa chỉ ủng hộ đồng bào bão lụt](https://vnexpress.net/nhung-dia-chi-ung-ho-dong-bao-bao-lut-4792016.html) - 05:32 13/09/2024
-- ⚗️ [Tình nguyện chuyển hàng cứu trợ trong mưa lũ](https://vnexpress.net/tinh-nguyen-chuyen-hang-cuu-tro-trong-mua-lu-4792309.html) - 05:17 13/09/2024
+- ⚗️ [Tình nguyện chuyển hàng cứu trợ trong rốn lũ](https://vnexpress.net/tinh-nguyen-chuyen-hang-cuu-tro-trong-ron-lu-4792309.html) - 05:17 13/09/2024
 - 🌊 [Lũ trên tất cả sông miền Bắc đang xuống](https://vnexpress.net/lu-tren-tat-ca-song-mien-bac-dang-xuong-4792445.html) - 04:56 13/09/2024
 - 🎓 [Người dân lo ngại cầu 60 năm tuổi trụ trơ lõi sắt](https://vnexpress.net/nguoi-dan-lo-ngai-cau-60-nam-tuoi-tru-tro-loi-sat-4792256.html) - 03:49 13/09/2024
 - 🔥 [Ninh Bình không phải xả lũ](https://vnexpress.net/ninh-binh-khong-phai-xa-lu-4792403.html) - 03:23 13/09/2024
