@@ -6,7 +6,7 @@ sidebar_position: 16
 <!-- dantri-su-kien:START -->
 - 🎭 [Tổng Bí thư, Chủ tịch nước Tô Lâm: Cần tư duy mới cho tương lai thế giới](https://dantri.com.vn/xa-hoi/tong-bi-thu-chu-tich-nuoc-to-lam-can-tu-duy-moi-cho-tuong-lai-the-gioi-20240913100253901.htm) - 03:03 13/09/2024
 - 👨‍🏫 [Báo Dân trí trao nóng 5 tấn gạo và 2 tấn nhu yếu phẩm tại Tuyên Quang](https://dantri.com.vn/tam-long-nhan-ai/bao-dan-tri-trao-nong-5-tan-gao-va-2-tan-nhu-yeu-pham-tai-tuyen-quang-20240913084028582.htm) - 02:46 13/09/2024
-- 🌮 [Chuyên gia tâm lý tội phạm: Mái ấm, nhà trẻ là nơi có nguy cơ bạo hành cao](https://dantri.com.vn/phap-luat/chuyen-gia-tam-ly-toi-pham-mai-am-nha-tre-la-noi-co-nguy-co-bao-hanh-cao-20240905112935941.htm) - 02:30 13/09/2024
+- 🌮 [Mái ấm, nhà trẻ là nơi có nguy cơ bạo hành cao](https://dantri.com.vn/phap-luat/mai-am-nha-tre-la-noi-co-nguy-co-bao-hanh-cao-20240905112935941.htm) - 02:30 13/09/2024
 - 🕯 [Ai đứng sau Katinat?](https://dantri.com.vn/kinh-doanh/ai-dung-sau-katinat-20240912173747652.htm) - 02:26 13/09/2024
 - 🪜 [Phương Tây dự đoán thế trận ở Kursk sau cuộc phản công của Nga](https://dantri.com.vn/the-gioi/phuong-tay-du-doan-the-tran-o-kursk-sau-cuoc-phan-cong-cua-nga-20240913085951846.htm) - 02:09 13/09/2024
 - 🐘 [Cầm 200.000 đồng đi chợ sau lũ, chỉ ăn được 1 bữa, &quot;nhịn&quot; thịt mua rau](https://dantri.com.vn/doi-song/cam-200000-dong-di-cho-sau-lu-chi-an-duoc-1-bua-nhin-thit-mua-rau-20240913081106322.htm) - 02:07 13/09/2024
