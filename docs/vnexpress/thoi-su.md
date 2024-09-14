@@ -24,7 +24,7 @@ sidebar_position: 1
 - 👺 [Đường 3.500 tỷ đồng chậm giao mặt bằng vì &#39;tìm không ra chủ đất&#39;](https://vnexpress.net/duong-3-500-ty-dong-cham-giao-mat-bang-vi-tim-khong-ra-chu-dat-4791427.html) - 17:50 13/09/2024
 - 🌮 [276 người chết, 76 người mất tích sau bão Yagi](https://vnexpress.net/276-nguoi-chet-76-nguoi-mat-tich-sau-bao-yagi-4790982.html) - 17:00 13/09/2024
 - 🥸 [Dự kiến xây thêm nhiều cầu bắc qua kênh dài nhất TP HCM](https://vnexpress.net/du-kien-xay-them-nhieu-cau-bac-qua-kenh-dai-nhat-tp-hcm-4792663.html) - 17:00 13/09/2024
-- 🐻 [Quốc tế hỗ trợ Việt Nam khắc phục hậu quả bão Yagi](https://vnexpress.net/quoc-te-ho-tro-viet-nam-khac-phuc-hau-qua-bao-yagi-4791778.html) - 17:00 13/09/2024
+- 🐻 [Anh hỗ trợ Việt Nam 1,3 triệu USD khắc phục hậu quả bão Yagi](https://vnexpress.net/anh-ho-tro-viet-nam-1-3-trieu-usd-khac-phuc-hau-qua-bao-yagi-4791778.html) - 17:00 13/09/2024
 - 👀 [Lào Cai còn 40 thôn bị cô lập](https://vnexpress.net/lao-cai-con-40-thon-bi-co-lap-4792714.html) - 15:59 13/09/2024
 - 🤔 [Lập cầu vận chuyển miễn phí hàng cứu trợ](https://vnexpress.net/lap-cau-van-chuyen-mien-phi-hang-cuu-tro-4792707.html) - 15:17 13/09/2024
 - 🕯 [Quân đội, công an tìm kiếm nạn nhân vụ sập cầu Phong Châu](https://vnexpress.net/quan-doi-cong-an-tim-kiem-nan-nhan-vu-sap-cau-phong-chau-4792683.html) - 13:41 13/09/2024
