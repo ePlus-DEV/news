@@ -8,7 +8,7 @@ sidebar_position: 1
 - 💼 [Công an Đà Lạt làm việc với nữ diễn viên Nam Thư](https://dantri.com.vn/xa-hoi/cong-an-da-lat-lam-viec-voi-nu-dien-vien-nam-thu-20240914185008114.htm) - 12:09 14/09/2024
 - 🎊 [Sáu ngày mòn mỏi ngóng tin người thân mất tích vụ sập cầu Phong Châu](https://dantri.com.vn/xa-hoi/sau-ngay-mon-moi-ngong-tin-nguoi-than-mat-tich-vu-sap-cau-phong-chau-20240914184533570.htm) - 12:05 14/09/2024
 - 🙉 [Báo Dân trí dâng hương tưởng niệm chiến sĩ Gạc Ma](https://dantri.com.vn/xa-hoi/bao-dan-tri-dang-huong-tuong-niem-chien-si-gac-ma-20240914162404849.htm) - 12:00 14/09/2024
-- 🕯 [CSGT chặn đoàn xe cứu trợ để… mời cơm](https://dantri.com.vn/xa-hoi/csgt-chan-doan-xe-cuu-tro-de-moi-com-20240914183242691.htm) - 11:46 14/09/2024
+- 🕯 [CSGT &quot;chặn&quot; đoàn xe cứu trợ để… mời cơm](https://dantri.com.vn/xa-hoi/csgt-chan-doan-xe-cuu-tro-de-moi-com-20240914183242691.htm) - 11:46 14/09/2024
 - 👍 [Người nước ngoài chung tay cùng Hà Nội dọn cây đổ sau bão Yagi](https://dantri.com.vn/xa-hoi/nguoi-nuoc-ngoai-chung-tay-cung-ha-noi-don-cay-do-sau-bao-yagi-20240914173825242.htm) - 10:39 14/09/2024
 - 🤖 [Đề nghị tặng bằng khen trưởng thôn giúp 115 người dân di tản &quot;thần tốc&quot;](https://dantri.com.vn/xa-hoi/de-nghi-tang-bang-khen-truong-thon-giup-115-nguoi-dan-di-tan-than-toc-20240914170847814.htm) - 10:33 14/09/2024
 - 🙉 [Chợ Quảng Ngãi xả thải vượt chuẩn 6.600 lần](https://dantri.com.vn/xa-hoi/cho-quang-ngai-xa-thai-vuot-chuan-6600-lan-20240914162953692.htm) - 09:52 14/09/2024
