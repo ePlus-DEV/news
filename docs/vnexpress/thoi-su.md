@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Bộ đội dầm mình trong bùn tìm kiếm thi thể nạn nhân Làng Nủ](https://vnexpress.net/bo-doi-dam-minh-trong-bun-tim-kiem-thi-the-nan-nhan-lang-nu-4792636.html) - 09:02 14/09/2024
-- 🤓 [Ủy viên Ủy ban Kiểm tra Trung ương làm Phó Bí thư Thừa Thiên Huế](https://vnexpress.net/uy-vien-uy-ban-kiem-tra-trung-uong-lam-pho-bi-thu-thua-thien-hue-4792888.html) - 08:56 14/09/2024
+- 🤓 [Ủy viên Ủy ban Kiểm tra Trung ương làm Phó bí thư Thừa Thiên Huế](https://vnexpress.net/uy-vien-uy-ban-kiem-tra-trung-uong-lam-pho-bi-thu-thua-thien-hue-4792888.html) - 08:56 14/09/2024
 - ⚗️ [Cuộn thép rơi trên cầu Đồng Nai, quốc lộ 1 ùn tắc kéo dài](https://vnexpress.net/cuon-thep-roi-tren-cau-dong-nai-quoc-lo-1-un-tac-keo-dai-4792868.html) - 07:06 14/09/2024
 - 🌊 [Các tuyến đường sắt phía Bắc hư hỏng nặng sau bão lũ](https://vnexpress.net/cac-tuyen-duong-sat-phia-bac-hu-hong-nang-sau-bao-lu-4792849.html) - 06:51 14/09/2024
 - 🎓 [30 thi thể được tìm thấy quanh điểm xe khách 29 chỗ bị cuốn trôi](https://vnexpress.net/30-thi-the-duoc-tim-thay-quanh-diem-xe-khach-29-cho-bi-cuon-troi-4792846.html) - 06:34 14/09/2024
