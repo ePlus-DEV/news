@@ -20,7 +20,7 @@ sidebar_position: 1
 - 💼 [Người phụ nữ lái ôtô bị cuốn trôi ở Bình Dương](https://vnexpress.net/nguoi-phu-nu-lai-oto-bi-cuon-troi-o-binh-duong-4792747.html) - 00:56 14/09/2024
 - 🤩 [Trung tâm Hà Nội vẫn ngổn ngang cây đổ một tuần sau bão Yagi](https://vnexpress.net/trung-tam-ha-noi-van-ngon-ngang-cay-do-mot-tuan-sau-bao-yagi-4792631.html) - 00:25 14/09/2024
 - 🤡 [Đường 3.500 tỷ đồng chậm giao mặt bằng vì &#39;tìm không ra chủ đất&#39;](https://vnexpress.net/duong-3-500-ty-dong-cham-giao-mat-bang-vi-tim-khong-ra-chu-dat-4791427.html) - 17:50 13/09/2024
-- 💯 [262 người chết, 83 người mất tích sau bão Yagi](https://vnexpress.net/262-nguoi-chet-83-nguoi-mat-tich-sau-bao-yagi-4790982.html) - 17:00 13/09/2024
+- 💯 [276 người chết, 76 người mất tích sau bão Yagi](https://vnexpress.net/276-nguoi-chet-76-nguoi-mat-tich-sau-bao-yagi-4790982.html) - 17:00 13/09/2024
 - 👺 [Dự kiến xây thêm nhiều cầu bắc qua kênh dài nhất TP HCM](https://vnexpress.net/du-kien-xay-them-nhieu-cau-bac-qua-kenh-dai-nhat-tp-hcm-4792663.html) - 17:00 13/09/2024
 - 🌮 [Quốc tế hỗ trợ Việt Nam khắc phục hậu quả bão Yagi](https://vnexpress.net/quoc-te-ho-tro-viet-nam-khac-phuc-hau-qua-bao-yagi-4791778.html) - 17:00 13/09/2024
 - 🥸 [Lào Cai còn 40 thôn bị cô lập](https://vnexpress.net/lao-cai-con-40-thon-bi-co-lap-4792714.html) - 15:59 13/09/2024
