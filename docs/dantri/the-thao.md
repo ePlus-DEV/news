@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Southampton 0-2 Man Utd &lpar;hiệp 2&rpar;: 45 phút may mắn của đội khách](https://dantri.com.vn/the-thao/southampton-0-2-man-utd-hiep-2-45-phut-may-man-cua-doi-khach-20240914182545382.htm) - 11:26 14/09/2024
+- 🎡 [Southampton 0-2 Man Utd &lpar;hiệp 2&rpar;: Đội chủ nhà còn 10 người](https://dantri.com.vn/the-thao/southampton-0-2-man-utd-hiep-2-doi-chu-nha-con-10-nguoi-20240914182545382.htm) - 11:26 14/09/2024
 - 💯 [Nguyễn Thùy Linh vào chung kết giải cầu lông Việt Nam mở rộng 2024](https://dantri.com.vn/the-thao/nguyen-thuy-linh-vao-chung-ket-giai-cau-long-viet-nam-mo-rong-2024-20240914181821336.htm) - 11:25 14/09/2024
 - ⛽️ [AFC ca ngợi Indonesia, cảnh báo Trung Quốc bị loại ở vòng loại World Cup](https://dantri.com.vn/the-thao/afc-ca-ngoi-indonesia-canh-bao-trung-quoc-bi-loai-o-vong-loai-world-cup-20240914122145365.htm) - 09:52 14/09/2024
 - 💃 [Công Phượng chia tay CLB Yokohama sau 2 năm ngồi dự bị](https://dantri.com.vn/the-thao/cong-phuong-chia-tay-clb-yokohama-sau-2-nam-ngoi-du-bi-20240914164623873.htm) - 09:46 14/09/2024
