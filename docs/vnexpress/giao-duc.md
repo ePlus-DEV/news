@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Dự kiến xóa sổ cao đẳng sư phạm vào năm 2030](https://vnexpress.net/du-kien-xoa-so-cao-dang-su-pham-vao-nam-2030-4792720.html) - 08:48 14/09/2024
+- 🤓 [Dự kiến bỏ trường cao đẳng sư phạm vào năm 2030](https://vnexpress.net/du-kien-bo-truong-cao-dang-su-pham-vao-nam-2030-4792720.html) - 08:48 14/09/2024
 - 🦆 [Trường học cấm dùng điện thoại di động](https://vnexpress.net/truong-hoc-cam-dung-dien-thoai-di-dong-4792514.html) - 00:13 14/09/2024
 - 🦩 [Đại học giãn thời gian đóng học phí cho sinh viên vùng lũ](https://vnexpress.net/dai-hoc-gian-thoi-gian-dong-hoc-phi-cho-sinh-vien-vung-lu-4792669.html) - 15:06 13/09/2024
 - 🌮 [Cây cầu nào từng được phá đi, xây lại hàng năm?](https://vnexpress.net/cay-cau-nao-tung-duoc-pha-di-xay-lai-hang-nam-4790736.html) - 13:31 13/09/2024
