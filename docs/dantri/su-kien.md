@@ -6,7 +6,7 @@ sidebar_position: 16
 <!-- dantri-su-kien:START -->
 - 🎭 [Bé trai bán vé số bị nước cuốn xuống cống thoát nước ở Bình Dương](https://dantri.com.vn/xa-hoi/be-trai-ban-ve-so-bi-nuoc-cuon-xuong-cong-thoat-nuoc-o-binh-duong-20240914183205126.htm) - 12:20 14/09/2024
 - 👨‍🏫 [Sáu ngày mòn mỏi ngóng tin người thân mất tích vụ sập cầu Phong Châu](https://dantri.com.vn/xa-hoi/sau-ngay-mon-moi-ngong-tin-nguoi-than-mat-tich-vu-sap-cau-phong-chau-20240914184533570.htm) - 12:05 14/09/2024
-- 🌮 [CSGT chặn đoàn xe cứu trợ để… mời cơm](https://dantri.com.vn/xa-hoi/csgt-chan-doan-xe-cuu-tro-de-moi-com-20240914183242691.htm) - 11:46 14/09/2024
+- 🌮 [CSGT &quot;chặn&quot; đoàn xe cứu trợ để… mời cơm](https://dantri.com.vn/xa-hoi/csgt-chan-doan-xe-cuu-tro-de-moi-com-20240914183242691.htm) - 11:46 14/09/2024
 - 🕯 [Người nước ngoài chung tay cùng Hà Nội dọn cây đổ sau bão Yagi](https://dantri.com.vn/xa-hoi/nguoi-nuoc-ngoai-chung-tay-cung-ha-noi-don-cay-do-sau-bao-yagi-20240914173825242.htm) - 10:39 14/09/2024
 - 🪜 [Ông Phạm Đức Tiến giữ chức Phó Bí thư Tỉnh ủy Thừa Thiên Huế](https://dantri.com.vn/xa-hoi/ong-pham-duc-tien-giu-chuc-pho-bi-thu-tinh-uy-thua-thien-hue-20240914154236101.htm) - 09:29 14/09/2024
 - 🐘 [Thăm tặng quà đến thân nhân liệt sỹ, cán bộ Hải quân công tác ở Trường Sa](https://dantri.com.vn/tam-long-nhan-ai/tham-tang-qua-den-than-nhan-liet-sy-can-bo-hai-quan-cong-tac-o-truong-sa-20240914135348533.htm) - 08:34 14/09/2024
