@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Hàng nghìn cảm bẫy chim trời giăng khắp ruộng ở Thừa Thiên Huế](https://dantri.com.vn/doi-song/hang-nghin-cam-bay-chim-troi-giang-khap-ruong-o-thua-thien-hue-20240913080222609.htm) - 03:43 14/09/2024
+- 🥳 [Hàng nghìn cạm bẫy chim trời giăng khắp ruộng ở Thừa Thiên Huế](https://dantri.com.vn/doi-song/hang-nghin-cam-bay-chim-troi-giang-khap-ruong-o-thua-thien-hue-20240913080222609.htm) - 03:43 14/09/2024
 - 🌁 [Thêm số 0 vào biên lai từ thiện: Làm màu trên nỗi đau, gian dối bị phơi bày](https://dantri.com.vn/doi-song/them-so-0-vao-bien-lai-tu-thien-lam-mau-tren-noi-dau-gian-doi-bi-phoi-bay-20240914091604032.htm) - 03:30 14/09/2024
 - 👀 [Người đàn ông ở Yên Bái bật khóc nhìn cảnh nhà tan hoang sau lũ](https://dantri.com.vn/doi-song/nguoi-dan-ong-o-yen-bai-bat-khoc-nhin-canh-nha-tan-hoang-sau-lu-20240913221359296.htm) - 23:03 13/09/2024
 - 🐻 [Hà Nội: Tranh nhau mua gà giá 50.000 đồng, ông chủ bần thần mất tiền tỷ](https://dantri.com.vn/doi-song/ha-noi-tranh-nhau-mua-ga-gia-50000-dong-ong-chu-ban-than-mat-tien-ty-20240913215122743.htm) - 23:01 13/09/2024
