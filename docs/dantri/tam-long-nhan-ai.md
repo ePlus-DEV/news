@@ -4,7 +4,7 @@ sidebar_position: 20
 ---
 
 <!-- dantri-tam-long-nhan-ai:START -->
-- 🌝 [Dừng cứu trợ khẩn cấp, Dân trí tập trung hỗ trợ tái thiết lâu dài cho người dân tại vùng lũ](https://dantri.com.vn/tam-long-nhan-ai/dung-cuu-tro-khan-cap-dan-tri-tap-trung-ho-tro-tai-thiet-lau-dai-cho-nguoi-dan-tai-vung-lu-20240914081511564.htm) - 01:15 14/09/2024
+- 🌝 [Dân trí dừng chương trình cứu trợ khẩn cấp, tập trung hỗ trợ tái thiết lâu dài cho người dân tại vùng lũ](https://dantri.com.vn/tam-long-nhan-ai/dan-tri-dung-chuong-trinh-cuu-tro-khan-cap-tap-trung-ho-tro-tai-thiet-lau-dai-cho-nguoi-dan-tai-vung-lu-20240914081511564.htm) - 01:15 14/09/2024
 - 🌜 [&quot;Bố và em của con bay lên trời sau lũ rồi&quot;](https://dantri.com.vn/tam-long-nhan-ai/bo-va-em-cua-con-bay-len-troi-sau-lu-roi-20240913225313035.htm) - 23:44 13/09/2024
 - 👀 [Đề xuất dồn kinh phí xây phòng học cho học sinh Xơ Đăng ở Kon Tum](https://dantri.com.vn/tam-long-nhan-ai/de-xuat-don-kinh-phi-xay-phong-hoc-cho-hoc-sinh-xo-dang-o-kon-tum-20240912054946773.htm) - 23:36 13/09/2024
 - 🚀 [Bạn đọc báo Dân trí ủng hộ gần 5 tỷ đồng hỗ trợ đồng bào thiệt hại do bão lũ](https://dantri.com.vn/tam-long-nhan-ai/ban-doc-bao-dan-tri-ung-ho-gan-5-ty-dong-ho-tro-dong-bao-thiet-hai-do-bao-lu-20240913134025590.htm) - 09:01 13/09/2024
