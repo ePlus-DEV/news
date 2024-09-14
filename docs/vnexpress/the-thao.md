@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Alcaraz giúp Tây Ban Nha vào tứ kết Davis Cup](https://vnexpress.net/alcaraz-giup-tay-ban-nha-vao-tu-ket-davis-cup-4792982.html) - 22:38 14/09/2024
-- 🦩 [Kane lập hattrick đưa Bayern lên đỉnh bảng Bundesliga](https://vnexpress.net/kane-lap-hattrick-dua-bayern-len-dinh-bang-bundesliga-4792980.html) - 22:08 14/09/2024
+- 🦩 [Kane lập hattrick giúp Bayern thắng 6-1 ở Bundesliga](https://vnexpress.net/kane-lap-hattrick-giup-bayern-thang-6-1-o-bundesliga-4792980.html) - 22:08 14/09/2024
 - 🧰 [Sancho giúp Chelsea thắng muộn ở Ngoại hạng Anh](https://vnexpress.net/sancho-giup-chelsea-thang-muon-o-ngoai-hang-anh-4792973.html) - 20:55 14/09/2024
 - 🤗 [Việt Nam thắng đương kim vô địch Olympiad cờ vua](https://vnexpress.net/viet-nam-thang-duong-kim-vo-dich-olympiad-co-vua-4792966.html) - 19:05 14/09/2024
 - 🥳 [Liverpool thua sốc tại Anfield](https://vnexpress.net/liverpool-thua-soc-tai-anfield-4792961.html) - 16:31 14/09/2024
