@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Hà Nội tổng vệ sinh sau bão Yagi](https://vnexpress.net/ha-noi-tong-ve-sinh-sau-bao-yagi-4792805.html) - 05:13 14/09/2024
 - 🤓 [5 nhà dân đổ sụp xuống sông Chảy](https://vnexpress.net/5-nha-dan-do-sup-xuong-song-chay-4792842.html) - 04:49 14/09/2024
-- ⚗️ [Gượng dậy sau lũ](https://vnexpress.net/guong-day-sau-lu-4792379.html) - 04:23 14/09/2024
+- ⚗️ [Gượng dậy sau lũ kỷ lục](https://vnexpress.net/guong-day-sau-lu-ky-luc-4792379.html) - 04:23 14/09/2024
 - 🌊 [Nhiều nơi còn ngập 9-11 ngày](https://vnexpress.net/nhieu-noi-con-ngap-9-11-ngay-4792789.html) - 03:24 14/09/2024
 - 🎓 [Bị đình chỉ công tác vì không chỉ đạo khắc phục hậu quả bão lũ](https://vnexpress.net/bi-dinh-chi-cong-tac-vi-khong-chi-dao-khac-phuc-hau-qua-bao-lu-4792769.html) - 02:53 14/09/2024
 - 🔥 [Ôtô được chạy bình thường trên cao tốc Pháp Vân - Cầu Giẽ](https://vnexpress.net/oto-duoc-chay-binh-thuong-tren-cao-toc-phap-van-cau-gie-4792751.html) - 02:10 14/09/2024
