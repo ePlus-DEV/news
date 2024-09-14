@@ -32,7 +32,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌏 [Thịt để tủ lạnh hơn một tháng có nên ăn?](https://vnexpress.net/thit-de-tu-lanh-hon-mot-thang-co-nen-an-4792225.html) - 12:43 14/09/2024
 - 🧐 [Con trai riêng của Thái tử phi Na Uy bị bắt](https://vnexpress.net/con-trai-rieng-cua-thai-tu-phi-na-uy-bi-bat-4792927.html) - 12:36 14/09/2024
 - 💫 [Trái Đất sắp có thêm mặt trăng nhỏ trong 2 tháng](https://vnexpress.net/trai-dat-sap-co-them-mat-trang-nho-trong-2-thang-4792874.html) - 12:29 14/09/2024
-- 😺 [Runner Hà Nội chạy 164 km trong 24 giờ để gây quỹ](https://vnexpress.net/runner-ha-noi-chay-164-km-trong-24-gio-de-gay-quy-4792926.html) - 12:15 14/09/2024
+- 😺 [Runner Hà Nội chạy 162 km trong 24 giờ để gây quỹ](https://vnexpress.net/runner-ha-noi-chay-162-km-trong-24-gio-de-gay-quy-4792926.html) - 12:15 14/09/2024
 - 🕯 [Quân đội Ukraine đau đầu với nạn đào ngũ, bất tuân](https://vnexpress.net/quan-doi-ukraine-dau-dau-voi-nan-dao-ngu-bat-tuan-4790568.html) - 12:06 14/09/2024
 - 💃 [iPhone 16 có sạc nhanh 45 W, RAM 8 GB](https://vnexpress.net/iphone-16-co-sac-nhanh-45-w-ram-8-gb-4792872.html) - 12:00 14/09/2024
 - 💂 [Nem rán Hà Nội cách đây gần 100 năm có gì?](https://vnexpress.net/nem-ran-ha-noi-cach-day-gan-100-nam-co-gi-4792820.html) - 12:00 14/09/2024
