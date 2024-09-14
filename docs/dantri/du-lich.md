@@ -4,7 +4,7 @@ sidebar_position: 22
 ---
 
 <!-- dantri-du-lich:START -->
-- 🥰 [Streamer người Mỹ bị &quot;chém&quot; 1 triệu đồng cho 5 phút thuê xe điện ở TPHCM](https://dantri.com.vn/du-lich/streamer-nguoi-my-bi-chem-1-trieu-dong-cho-5-phut-thue-xe-dien-o-tphcm-20240914220840090.htm) - 15:19 14/09/2024
+- 🥰 [Streamer người Mỹ bị thu 1 triệu đồng cho 5 phút thuê xe điện ở TPHCM](https://dantri.com.vn/du-lich/streamer-nguoi-my-bi-thu-1-trieu-dong-cho-5-phut-thue-xe-dien-o-tphcm-20240914220840090.htm) - 15:19 14/09/2024
 - 🥰 [Khách Tây xuống phố phụ dọn dẹp cây đổ ngổn ngang khắp Hà Nội sau bão](https://dantri.com.vn/du-lich/khach-tay-xuong-pho-phu-don-dep-cay-do-ngon-ngang-khap-ha-noi-sau-bao-20240914165112853.htm) - 10:28 14/09/2024
 - 🐻 [Đậu tương lên men, côn trùng và những đặc sản Nhật Bản có mùi vị độc đáo](https://dantri.com.vn/du-lich/dau-tuong-len-men-con-trung-va-nhung-dac-san-nhat-ban-co-mui-vi-doc-dao-20240914014527927.htm) - 08:37 14/09/2024
 - 🤩 [Nhà hàng, khách sạn ở Sapa mở cửa trở lại: &quot;Từ sáng đón về 6 khách vẫn vui&quot;](https://dantri.com.vn/du-lich/nha-hang-khach-san-o-sapa-mo-cua-tro-lai-tu-sang-don-ve-6-khach-van-vui-20240914115135514.htm) - 05:13 14/09/2024
