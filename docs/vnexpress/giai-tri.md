@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Bùi Quỳnh Hoa: &#39;Tôi đứng dậy từ vấp ngã&#39;](https://vnexpress.net/bui-quynh-hoa-toi-dung-day-tu-vap-nga-4792848.html) - 09:02 14/09/2024
-- 💫 [Bạn gái Ronaldo theo đuổi phong cách &#39;vợ ông trùm&#39;](https://vnexpress.net/ban-gai-ronaldo-theo-duoi-phong-cach-vo-ong-trum-4792817.html) - 08:34 14/09/2024
-- 🌮 [Ca sĩ hát gây quỹ 3,3 tỷ đồng ủng hộ dân vùng lũ](https://vnexpress.net/ca-si-hat-gay-quy-3-3-ty-dong-ung-ho-dan-vung-lu-4792772.html) - 06:03 14/09/2024
-- 🧠 [Giọng ca &#39;Diên Hy công lược&#39; cưới giữa triền cỏ lau](https://vnexpress.net/giong-ca-dien-hy-cong-luoc-cuoi-giua-trien-co-lau-4792792.html) - 03:30 14/09/2024
-- 👨‍🏫 [Ông Trump, bà Harris lấy ý tưởng từ Taylor Swift khi tranh cử](https://vnexpress.net/ong-trump-ba-harris-lay-y-tuong-tu-taylor-swift-khi-tranh-cu-4792763.html) - 03:06 14/09/2024
-- ⚗️ [Trailer hé lộ phản diện &#39;Venom 3&#39;](https://vnexpress.net/trailer-he-lo-phan-dien-venom-3-4792615.html) - 02:00 14/09/2024
-- 😎 [Áo dài cảm hứng ánh trăng](https://vnexpress.net/ao-dai-cam-hung-anh-trang-4792627.html) - 01:18 14/09/2024
-- 🫣 [Giới sân khấu tề tựu ngày giỗ tổ](https://vnexpress.net/gioi-san-khau-te-tuu-ngay-gio-to-4792570.html) - 17:00 13/09/2024
-- 🪄 [Sam lần đầu đưa con sinh đôi dự sự kiện](https://vnexpress.net/sam-lan-dau-dua-con-sinh-doi-du-su-kien-4792534.html) - 15:11 13/09/2024
-- 🤓 [Họa sĩ Hoàng Hà Tùng qua đời](https://vnexpress.net/hoa-si-hoang-ha-tung-qua-doi-4792698.html) - 13:46 13/09/2024
-- 🫶 [Tăng Thanh Hà và giới fashionista diện mốt pyjama](https://vnexpress.net/tang-thanh-ha-va-gioi-fashionista-dien-mot-pyjama-4792224.html) - 13:05 13/09/2024
-- 🧑‍🏫 [Tom Cruise &#39;không nhận thù lao&#39; cho màn diễn ở Olympic Paris](https://vnexpress.net/tom-cruise-khong-nhan-thu-lao-cho-man-dien-o-olympic-paris-4792658.html) - 12:35 13/09/2024
-- 🦄 [Tiếng Việt &#39;lắt léo và lịch lãm&#39;](https://vnexpress.net/tieng-viet-lat-leo-va-lich-lam-4785023.html) - 10:09 13/09/2024
-- 💫 [Taylor Swift giúp lượng truy cập website bầu cử tăng hơn 10 lần](https://vnexpress.net/taylor-swift-giup-luong-truy-cap-website-bau-cu-tang-hon-10-lan-4792512.html) - 07:48 13/09/2024
-- 🎊 [Captain Boy - rapper gen Z đa tài](https://vnexpress.net/captain-boy-rapper-gen-z-da-tai-4791789.html) - 06:32 13/09/2024
-- 👹 [Cặp sao &#39;Diên Hy công lược&#39; kết hôn](https://vnexpress.net/cap-sao-dien-hy-cong-luoc-ket-hon-4792506.html) - 05:29 13/09/2024
-- 💻 [Uyên Linh: &#39;Tôi muốn đi hát đến năm 70 tuổi&#39;](https://vnexpress.net/uyen-linh-toi-muon-di-hat-den-nam-70-tuoi-4792359.html) - 04:50 13/09/2024
-- 🤡 [Châu Tinh Trì bị nhận xét &#39;cạn kiệt sáng tạo&#39;](https://vnexpress.net/chau-tinh-tri-bi-nhan-xet-can-kiet-sang-tao-4792413.html) - 03:29 13/09/2024
-- 🥰 [Quỳnh Anh - &#39;Siêu mẫu châu Á&#39; nổi bật tại Miss Universe Vietnam](https://vnexpress.net/quynh-anh-sieu-mau-chau-a-noi-bat-tai-miss-universe-vietnam-4789995.html) - 02:53 13/09/2024
-- 🚀 [Tranh tái hiện tình người trong bão lũ](https://vnexpress.net/tranh-tai-hien-tinh-nguoi-trong-bao-lu-4792199.html) - 17:00 12/09/2024
-- 📝 [Con gái ông Obama - ngôi sao thời trang thế hệ Z](https://vnexpress.net/con-gai-ong-obama-ngoi-sao-thoi-trang-the-he-z-4790801.html) - 13:13 12/09/2024
-- 🐲 [Nghệ sĩ Trà Giang đấu giá tranh gây quỹ giúp người vùng lũ](https://vnexpress.net/nghe-si-tra-giang-dau-gia-tranh-gay-quy-giup-nguoi-vung-lu-4792187.html) - 10:50 12/09/2024
-- 🎃 [Phương Oanh diễn tám show ở New York Fashion Week](https://vnexpress.net/phuong-oanh-dien-tam-show-o-new-york-fashion-week-4792041.html) - 08:31 12/09/2024
-- 🤠 [Đạo diễn &#39;Hoàng Phi Hồng&#39; hẹn hò bạn gái kém 30 tuổi](https://vnexpress.net/dao-dien-hoang-phi-hong-hen-ho-ban-gai-kem-30-tuoi-4792125.html) - 07:42 12/09/2024
-- 🎭 [Taylor Swift lập kỷ lục thắng nhiều cúp VMAs nhất](https://vnexpress.net/taylor-swift-lap-ky-luc-thang-nhieu-cup-vmas-nhat-4792068.html) - 07:21 12/09/2024
-- 🧰 [Tranh về phụ nữ của Lê Phổ, Vũ Cao Đàm giá trăm nghìn euro](https://vnexpress.net/tranh-ve-phu-nu-cua-le-pho-vu-cao-dam-gia-tram-nghin-euro-4791951.html) - 06:46 12/09/2024
-- 🦍 [Sắc vóc tuổi 33 của Phạm Hương](https://vnexpress.net/sac-voc-tuoi-33-cua-pham-huong-4790896.html) - 05:03 12/09/2024
-- 🌝 [Kỳ Duyên cùng thí sinh Miss Universe Vietnam diễn đầm dạ hội](https://vnexpress.net/ky-duyen-cung-thi-sinh-miss-universe-vietnam-dien-dam-da-hoi-4792025.html) - 04:39 12/09/2024
-- 🧑‍💻 [Nhóm nhạc Bond trở lại Việt Nam](https://vnexpress.net/nhom-nhac-bond-tro-lai-viet-nam-4791975.html) - 04:25 12/09/2024
-- 🥸 [Jon Bon Jovi ngăn người phụ nữ nhảy cầu](https://vnexpress.net/jon-bon-jovi-ngan-nguoi-phu-nu-nhay-cau-4791918.html) - 03:33 12/09/2024
-- 🔥 [Lisa dự VMAs 2024 bên dàn mỹ nhân](https://vnexpress.net/lisa-du-vmas-2024-ben-dan-my-nhan-4791955.html) - 02:44 12/09/2024
-- 🐎 [Mỹ nhân thắng &#39;Vẻ đẹp vượt thời gian&#39; dự thảm đỏ cùng sao Việt](https://vnexpress.net/my-nhan-thang-ve-dep-vuot-thoi-gian-du-tham-do-cung-sao-viet-4791921.html) - 02:43 12/09/2024
-- 😎 [Quốc Thiên - người hát tình ca](https://vnexpress.net/quoc-thien-nguoi-hat-tinh-ca-4791252.html) - 02:08 12/09/2024
-- 🦄 [Sao Việt góp tiền của, về vùng lũ cứu trợ](https://vnexpress.net/sao-viet-gop-tien-cua-ve-vung-lu-cuu-tro-4791568.html) - 17:00 11/09/2024
-- 🌜 [Phim Hoài Linh đóng vượt mốc 100 tỷ đồng](https://vnexpress.net/phim-hoai-linh-dong-vuot-moc-100-ty-dong-4791865.html) - 16:08 11/09/2024
-- 🚦 [Bà Kamala Harris dùng nhạc Taylor Swift cho chiến dịch tranh cử](https://vnexpress.net/ba-kamala-harris-dung-nhac-taylor-swift-cho-chien-dich-tranh-cu-4791840.html) - 13:03 11/09/2024
-- 🧐 [Hàng trăm nghìn cuốn sách ướt sau mưa bão](https://vnexpress.net/hang-tram-nghin-cuon-sach-uot-sau-mua-bao-4791258.html) - 12:30 11/09/2024
-- 🐵 [Thời trang sánh đôi của Brad Pitt và bạn gái](https://vnexpress.net/thoi-trang-sanh-doi-cua-brad-pitt-va-ban-gai-4791509.html) - 11:20 11/09/2024
-- ⚗️ [Nhà thiết kế Lê Thanh Hòa nuôi tằm, dệt vải](https://vnexpress.net/nha-thiet-ke-le-thanh-hoa-nuoi-tam-det-vai-4791650.html) - 08:49 11/09/2024
-- 👺 [Joe Jonas và Sophie Turner hoàn tất ly hôn](https://vnexpress.net/joe-jonas-va-sophie-turner-hoan-tat-ly-hon-4791658.html) - 08:08 11/09/2024
-- 🌊 [Cuộc thi nhiếp ảnh kỷ niệm 50 năm thống nhất đất nước](https://vnexpress.net/cuoc-thi-nhiep-anh-ky-niem-50-nam-thong-nhat-dat-nuoc-4791265.html) - 07:23 11/09/2024
-- 🪜 [Cao thủ màn ảnh Hong Kong qua đời](https://vnexpress.net/cao-thu-man-anh-hong-kong-qua-doi-4791673.html) - 07:13 11/09/2024
-- 🕴 [Thúy Quỳnh diễn trang phục dân tộc đẹp nhất Miss Universe Vietnam 2024](https://vnexpress.net/thuy-quynh-dien-trang-phuc-dan-toc-dep-nhat-miss-universe-vietnam-2024-4791581.html) - 06:24 11/09/2024
-- 💃 [Hồng Nhung viết về &#39;đêm không ngủ được vì tin bão Yagi&#39;](https://vnexpress.net/hong-nhung-viet-ve-dem-khong-ngu-duoc-vi-tin-bao-yagi-4790744.html) - 04:55 11/09/2024
-- 🦄 [Con trai Chester Bennington phản đối giọng ca mới của Linkin Park](https://vnexpress.net/con-trai-chester-bennington-phan-doi-giong-ca-moi-cua-linkin-park-4791539.html) - 04:24 11/09/2024
-- ⛽️ [Lưu Diệc Phi bị loại khỏi giải thưởng phim](https://vnexpress.net/luu-diec-phi-bi-loai-khoi-giai-thuong-phim-4791543.html) - 03:54 11/09/2024
-- 😎 [Lưu Gia Linh: &#39;Từ khi mê leo núi, tôi biết yêu bản thân&#39;](https://vnexpress.net/luu-gia-linh-tu-khi-me-leo-nui-toi-biet-yeu-ban-than-4791246.html) - 03:11 11/09/2024
-- 🌊 [Selena Gomez: &#39;Tôi không thể mang thai&#39;](https://vnexpress.net/selena-gomez-toi-khong-the-mang-thai-4791237.html) - 02:01 11/09/2024
-- 🐲 [Tranh cổ thụ gãy đổ sau bão gây xúc động](https://vnexpress.net/tranh-co-thu-gay-do-sau-bao-gay-xuc-dong-4791161.html) - 22:00 10/09/2024
-- 💂 [&#39;Mai&#39; của Trấn Thành thắng giải Cánh Diều](https://vnexpress.net/mai-cua-tran-thanh-thang-giai-canh-dieu-4791393.html) - 16:28 10/09/2024
-- 🙉 [Diễn viên Anh Đức hát ca khúc tự sáng tác tặng vợ](https://vnexpress.net/dien-vien-anh-duc-hat-ca-khuc-tu-sang-tac-tang-vo-4791282.html) - 15:47 10/09/2024
-- 💪 [Gia đình Quyền Linh cùng đồng nghiệp dự khai mạc Cánh Diều](https://vnexpress.net/gia-dinh-quyen-linh-cung-dong-nghiep-du-khai-mac-canh-dieu-4791380.html) - 14:10 10/09/2024
-- 👍 [Trấn Thành và dàn sao dự lễ cưới diễn viên Anh Đức](https://vnexpress.net/tran-thanh-va-dan-sao-du-le-cuoi-dien-vien-anh-duc-4791261.html) - 12:23 10/09/2024
-- 💪 [Thu hồi giải nhất Liên hoan Ảnh nghệ thuật truyền thống TP HCM](https://vnexpress.net/thu-hoi-giai-nhat-lien-hoan-anh-nghe-thuat-truyen-thong-tp-hcm-4791188.html) - 11:29 10/09/2024
-- 💄 [Brad Pitt sánh đôi bạn gái](https://vnexpress.net/brad-pitt-sanh-doi-ban-gai-4791352.html) - 11:00 10/09/2024
-- 🦩 [&#39;Người thầy&#39; vào bình chọn giải Sách Quốc gia](https://vnexpress.net/nguoi-thay-vao-binh-chon-giai-sach-quoc-gia-4791270.html) - 09:46 10/09/2024
-- 🥸 [Nhiều sao Việt chung tay hỗ trợ người vùng bão lũ](https://vnexpress.net/nhieu-sao-viet-chung-tay-ho-tro-nguoi-vung-bao-lu-4791024.html) - 08:42 10/09/2024
-- 🧰 [Người viết lời &#39;My Heart Will Go On&#39; qua đời](https://vnexpress.net/nguoi-viet-loi-my-heart-will-go-on-qua-doi-4791036.html) - 05:58 10/09/2024
-- 💼 [Hai năm từ yêu đến cưới của Anh Đức, Quỳnh Anh](https://vnexpress.net/hai-nam-tu-yeu-den-cuoi-cua-anh-duc-quynh-anh-4791057.html) - 04:07 10/09/2024
+- 🌏 [Miền biên viễn trong tranh sơn dầu](https://vnexpress.net/mien-bien-vien-trong-tranh-son-dau-4792426.html) - 14:30 14/09/2024
+- 💫 [Bùi Quỳnh Hoa: &#39;Tôi đứng dậy từ vấp ngã&#39;](https://vnexpress.net/bui-quynh-hoa-toi-dung-day-tu-vap-nga-4792848.html) - 09:02 14/09/2024
+- 🌮 [Bạn gái Ronaldo theo đuổi phong cách &#39;vợ ông trùm&#39;](https://vnexpress.net/ban-gai-ronaldo-theo-duoi-phong-cach-vo-ong-trum-4792817.html) - 08:34 14/09/2024
+- 🧠 [Ca sĩ hát gây quỹ 3,3 tỷ đồng ủng hộ dân vùng lũ](https://vnexpress.net/ca-si-hat-gay-quy-3-3-ty-dong-ung-ho-dan-vung-lu-4792772.html) - 06:03 14/09/2024
+- 👨‍🏫 [Giọng ca &#39;Diên Hy công lược&#39; cưới giữa triền cỏ lau](https://vnexpress.net/giong-ca-dien-hy-cong-luoc-cuoi-giua-trien-co-lau-4792792.html) - 03:30 14/09/2024
+- ⚗️ [Ông Trump, bà Harris lấy ý tưởng từ Taylor Swift khi tranh cử](https://vnexpress.net/ong-trump-ba-harris-lay-y-tuong-tu-taylor-swift-khi-tranh-cu-4792763.html) - 03:06 14/09/2024
+- 😎 [Trailer hé lộ phản diện &#39;Venom 3&#39;](https://vnexpress.net/trailer-he-lo-phan-dien-venom-3-4792615.html) - 02:00 14/09/2024
+- 🫣 [Áo dài cảm hứng ánh trăng](https://vnexpress.net/ao-dai-cam-hung-anh-trang-4792627.html) - 01:18 14/09/2024
+- 🪄 [Giới sân khấu tề tựu ngày giỗ tổ](https://vnexpress.net/gioi-san-khau-te-tuu-ngay-gio-to-4792570.html) - 17:00 13/09/2024
+- 🤓 [Sam lần đầu đưa con sinh đôi dự sự kiện](https://vnexpress.net/sam-lan-dau-dua-con-sinh-doi-du-su-kien-4792534.html) - 15:11 13/09/2024
+- 🫶 [Họa sĩ Hoàng Hà Tùng qua đời](https://vnexpress.net/hoa-si-hoang-ha-tung-qua-doi-4792698.html) - 13:46 13/09/2024
+- 🧑‍🏫 [Tăng Thanh Hà và giới fashionista diện mốt pyjama](https://vnexpress.net/tang-thanh-ha-va-gioi-fashionista-dien-mot-pyjama-4792224.html) - 13:05 13/09/2024
+- 🦄 [Tom Cruise &#39;không nhận thù lao&#39; cho màn diễn ở Olympic Paris](https://vnexpress.net/tom-cruise-khong-nhan-thu-lao-cho-man-dien-o-olympic-paris-4792658.html) - 12:35 13/09/2024
+- 💫 [Tiếng Việt &#39;lắt léo và lịch lãm&#39;](https://vnexpress.net/tieng-viet-lat-leo-va-lich-lam-4785023.html) - 10:09 13/09/2024
+- 🎊 [Taylor Swift giúp lượng truy cập website bầu cử tăng hơn 10 lần](https://vnexpress.net/taylor-swift-giup-luong-truy-cap-website-bau-cu-tang-hon-10-lan-4792512.html) - 07:48 13/09/2024
+- 👹 [Captain Boy - rapper gen Z đa tài](https://vnexpress.net/captain-boy-rapper-gen-z-da-tai-4791789.html) - 06:32 13/09/2024
+- 💻 [Cặp sao &#39;Diên Hy công lược&#39; kết hôn](https://vnexpress.net/cap-sao-dien-hy-cong-luoc-ket-hon-4792506.html) - 05:29 13/09/2024
+- 🤡 [Uyên Linh: &#39;Tôi muốn đi hát đến năm 70 tuổi&#39;](https://vnexpress.net/uyen-linh-toi-muon-di-hat-den-nam-70-tuoi-4792359.html) - 04:50 13/09/2024
+- 🥰 [Châu Tinh Trì bị nhận xét &#39;cạn kiệt sáng tạo&#39;](https://vnexpress.net/chau-tinh-tri-bi-nhan-xet-can-kiet-sang-tao-4792413.html) - 03:29 13/09/2024
+- 🚀 [Quỳnh Anh - &#39;Siêu mẫu châu Á&#39; nổi bật tại Miss Universe Vietnam](https://vnexpress.net/quynh-anh-sieu-mau-chau-a-noi-bat-tai-miss-universe-vietnam-4789995.html) - 02:53 13/09/2024
+- 📝 [Tranh tái hiện tình người trong bão lũ](https://vnexpress.net/tranh-tai-hien-tinh-nguoi-trong-bao-lu-4792199.html) - 17:00 12/09/2024
+- 🐲 [Con gái ông Obama - ngôi sao thời trang thế hệ Z](https://vnexpress.net/con-gai-ong-obama-ngoi-sao-thoi-trang-the-he-z-4790801.html) - 13:13 12/09/2024
+- 🎃 [Nghệ sĩ Trà Giang đấu giá tranh gây quỹ giúp người vùng lũ](https://vnexpress.net/nghe-si-tra-giang-dau-gia-tranh-gay-quy-giup-nguoi-vung-lu-4792187.html) - 10:50 12/09/2024
+- 🤠 [Phương Oanh diễn tám show ở New York Fashion Week](https://vnexpress.net/phuong-oanh-dien-tam-show-o-new-york-fashion-week-4792041.html) - 08:31 12/09/2024
+- 🎭 [Đạo diễn &#39;Hoàng Phi Hồng&#39; hẹn hò bạn gái kém 30 tuổi](https://vnexpress.net/dao-dien-hoang-phi-hong-hen-ho-ban-gai-kem-30-tuoi-4792125.html) - 07:42 12/09/2024
+- 🧰 [Taylor Swift lập kỷ lục thắng nhiều cúp VMAs nhất](https://vnexpress.net/taylor-swift-lap-ky-luc-thang-nhieu-cup-vmas-nhat-4792068.html) - 07:21 12/09/2024
+- 🦍 [Tranh về phụ nữ của Lê Phổ, Vũ Cao Đàm giá trăm nghìn euro](https://vnexpress.net/tranh-ve-phu-nu-cua-le-pho-vu-cao-dam-gia-tram-nghin-euro-4791951.html) - 06:46 12/09/2024
+- 🌝 [Sắc vóc tuổi 33 của Phạm Hương](https://vnexpress.net/sac-voc-tuoi-33-cua-pham-huong-4790896.html) - 05:03 12/09/2024
+- 🧑‍💻 [Kỳ Duyên cùng thí sinh Miss Universe Vietnam diễn đầm dạ hội](https://vnexpress.net/ky-duyen-cung-thi-sinh-miss-universe-vietnam-dien-dam-da-hoi-4792025.html) - 04:39 12/09/2024
+- 🥸 [Nhóm nhạc Bond trở lại Việt Nam](https://vnexpress.net/nhom-nhac-bond-tro-lai-viet-nam-4791975.html) - 04:25 12/09/2024
+- 🔥 [Jon Bon Jovi ngăn người phụ nữ nhảy cầu](https://vnexpress.net/jon-bon-jovi-ngan-nguoi-phu-nu-nhay-cau-4791918.html) - 03:33 12/09/2024
+- 🐎 [Lisa dự VMAs 2024 bên dàn mỹ nhân](https://vnexpress.net/lisa-du-vmas-2024-ben-dan-my-nhan-4791955.html) - 02:44 12/09/2024
+- 😎 [Mỹ nhân thắng &#39;Vẻ đẹp vượt thời gian&#39; dự thảm đỏ cùng sao Việt](https://vnexpress.net/my-nhan-thang-ve-dep-vuot-thoi-gian-du-tham-do-cung-sao-viet-4791921.html) - 02:43 12/09/2024
+- 🦄 [Quốc Thiên - người hát tình ca](https://vnexpress.net/quoc-thien-nguoi-hat-tinh-ca-4791252.html) - 02:08 12/09/2024
+- 🌜 [Sao Việt góp tiền của, về vùng lũ cứu trợ](https://vnexpress.net/sao-viet-gop-tien-cua-ve-vung-lu-cuu-tro-4791568.html) - 17:00 11/09/2024
+- 🚦 [Phim Hoài Linh đóng vượt mốc 100 tỷ đồng](https://vnexpress.net/phim-hoai-linh-dong-vuot-moc-100-ty-dong-4791865.html) - 16:08 11/09/2024
+- 🧐 [Bà Kamala Harris dùng nhạc Taylor Swift cho chiến dịch tranh cử](https://vnexpress.net/ba-kamala-harris-dung-nhac-taylor-swift-cho-chien-dich-tranh-cu-4791840.html) - 13:03 11/09/2024
+- 🐵 [Hàng trăm nghìn cuốn sách ướt sau mưa bão](https://vnexpress.net/hang-tram-nghin-cuon-sach-uot-sau-mua-bao-4791258.html) - 12:30 11/09/2024
+- ⚗️ [Thời trang sánh đôi của Brad Pitt và bạn gái](https://vnexpress.net/thoi-trang-sanh-doi-cua-brad-pitt-va-ban-gai-4791509.html) - 11:20 11/09/2024
+- 👺 [Nhà thiết kế Lê Thanh Hòa nuôi tằm, dệt vải](https://vnexpress.net/nha-thiet-ke-le-thanh-hoa-nuoi-tam-det-vai-4791650.html) - 08:49 11/09/2024
+- 🌊 [Joe Jonas và Sophie Turner hoàn tất ly hôn](https://vnexpress.net/joe-jonas-va-sophie-turner-hoan-tat-ly-hon-4791658.html) - 08:08 11/09/2024
+- 🪜 [Cuộc thi nhiếp ảnh kỷ niệm 50 năm thống nhất đất nước](https://vnexpress.net/cuoc-thi-nhiep-anh-ky-niem-50-nam-thong-nhat-dat-nuoc-4791265.html) - 07:23 11/09/2024
+- 🕴 [Cao thủ màn ảnh Hong Kong qua đời](https://vnexpress.net/cao-thu-man-anh-hong-kong-qua-doi-4791673.html) - 07:13 11/09/2024
+- 💃 [Thúy Quỳnh diễn trang phục dân tộc đẹp nhất Miss Universe Vietnam 2024](https://vnexpress.net/thuy-quynh-dien-trang-phuc-dan-toc-dep-nhat-miss-universe-vietnam-2024-4791581.html) - 06:24 11/09/2024
+- 🦄 [Hồng Nhung viết về &#39;đêm không ngủ được vì tin bão Yagi&#39;](https://vnexpress.net/hong-nhung-viet-ve-dem-khong-ngu-duoc-vi-tin-bao-yagi-4790744.html) - 04:55 11/09/2024
+- ⛽️ [Con trai Chester Bennington phản đối giọng ca mới của Linkin Park](https://vnexpress.net/con-trai-chester-bennington-phan-doi-giong-ca-moi-cua-linkin-park-4791539.html) - 04:24 11/09/2024
+- 😎 [Lưu Diệc Phi bị loại khỏi giải thưởng phim](https://vnexpress.net/luu-diec-phi-bi-loai-khoi-giai-thuong-phim-4791543.html) - 03:54 11/09/2024
+- 🌊 [Lưu Gia Linh: &#39;Từ khi mê leo núi, tôi biết yêu bản thân&#39;](https://vnexpress.net/luu-gia-linh-tu-khi-me-leo-nui-toi-biet-yeu-ban-than-4791246.html) - 03:11 11/09/2024
+- 🐲 [Selena Gomez: &#39;Tôi không thể mang thai&#39;](https://vnexpress.net/selena-gomez-toi-khong-the-mang-thai-4791237.html) - 02:01 11/09/2024
+- 💂 [Tranh cổ thụ gãy đổ sau bão gây xúc động](https://vnexpress.net/tranh-co-thu-gay-do-sau-bao-gay-xuc-dong-4791161.html) - 22:00 10/09/2024
+- 🙉 [&#39;Mai&#39; của Trấn Thành thắng giải Cánh Diều](https://vnexpress.net/mai-cua-tran-thanh-thang-giai-canh-dieu-4791393.html) - 16:28 10/09/2024
+- 💪 [Diễn viên Anh Đức hát ca khúc tự sáng tác tặng vợ](https://vnexpress.net/dien-vien-anh-duc-hat-ca-khuc-tu-sang-tac-tang-vo-4791282.html) - 15:47 10/09/2024
+- 👍 [Gia đình Quyền Linh cùng đồng nghiệp dự khai mạc Cánh Diều](https://vnexpress.net/gia-dinh-quyen-linh-cung-dong-nghiep-du-khai-mac-canh-dieu-4791380.html) - 14:10 10/09/2024
+- 💪 [Trấn Thành và dàn sao dự lễ cưới diễn viên Anh Đức](https://vnexpress.net/tran-thanh-va-dan-sao-du-le-cuoi-dien-vien-anh-duc-4791261.html) - 12:23 10/09/2024
+- 💄 [Thu hồi giải nhất Liên hoan Ảnh nghệ thuật truyền thống TP HCM](https://vnexpress.net/thu-hoi-giai-nhat-lien-hoan-anh-nghe-thuat-truyen-thong-tp-hcm-4791188.html) - 11:29 10/09/2024
+- 🦩 [Brad Pitt sánh đôi bạn gái](https://vnexpress.net/brad-pitt-sanh-doi-ban-gai-4791352.html) - 11:00 10/09/2024
+- 🥸 [&#39;Người thầy&#39; vào bình chọn giải Sách Quốc gia](https://vnexpress.net/nguoi-thay-vao-binh-chon-giai-sach-quoc-gia-4791270.html) - 09:46 10/09/2024
+- 🧰 [Nhiều sao Việt chung tay hỗ trợ người vùng bão lũ](https://vnexpress.net/nhieu-sao-viet-chung-tay-ho-tro-nguoi-vung-bao-lu-4791024.html) - 08:42 10/09/2024
+- 💼 [Người viết lời &#39;My Heart Will Go On&#39; qua đời](https://vnexpress.net/nguoi-viet-loi-my-heart-will-go-on-qua-doi-4791036.html) - 05:58 10/09/2024
 - 🧑‍💻 [Lưu Đức Hoa ngã ở liveshow](https://vnexpress.net/luu-duc-hoa-nga-o-liveshow-4791021.html) - 03:28 10/09/2024<!-- vnexpress-giai-tri:END -->
