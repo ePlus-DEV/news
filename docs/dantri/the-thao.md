@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Tottenham 0-0 Arsenal &lpar;hiệp 2&rpar;: Chủ nhà gia tăng áp lực](https://dantri.com.vn/the-thao/tottenham-0-0-arsenal-hiep-2-chu-nha-gia-tang-ap-luc-20240915195834978.htm) - 12:58 15/09/2024
+- 🎡 [Tottenham 0-1 Arsenal &lpar;hiệp 2&rpar;: Bàn thắng bất ngờ](https://dantri.com.vn/the-thao/tottenham-0-1-arsenal-hiep-2-ban-thang-bat-ngo-20240915195834978.htm) - 12:58 15/09/2024
 - 💯 [Cầu thủ 16 tuổi ghi bàn, Hoàng Anh Gia Lai thắng đậm CLB Quảng Nam](https://dantri.com.vn/the-thao/cau-thu-16-tuoi-ghi-ban-hoang-anh-gia-lai-thang-dam-clb-quang-nam-20240915192052415.htm) - 12:27 15/09/2024
 - ⛽️ [Nguyễn Thùy Linh vô địch giải cầu lông Việt Nam mở rộng 2024](https://dantri.com.vn/the-thao/nguyen-thuy-linh-vo-dich-giai-cau-long-viet-nam-mo-rong-2024-20240915183318756.htm) - 11:30 15/09/2024
 - 💃 [Cầu thủ Indonesia đánh trọng tài phải nhập viện trong trận đấu &quot;điên rồ&quot;](https://dantri.com.vn/the-thao/cau-thu-indonesia-danh-trong-tai-phai-nhap-vien-trong-tran-dau-dien-ro-20240915144239259.htm) - 07:43 15/09/2024
