@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Đầm &#39;Cánh chim bay xa&#39; của Kỳ Duyên ở Miss Universe Vietnam](https://vnexpress.net/dam-canh-chim-bay-xa-cua-ky-duyen-o-miss-universe-vietnam-4793098.html) - 09:50 15/09/2024
-- 💫 [Nguyễn Ngọc Tư đoạt giải Văn học Đông Nam Á tại Trung Quốc](https://vnexpress.net/nguyen-ngoc-tu-doat-giai-van-hoc-dong-nam-a-tai-trung-quoc-4793109.html) - 09:47 15/09/2024
+- 💫 [Nguyễn Ngọc Tư nhận giải Văn học Đông Nam Á tại Trung Quốc](https://vnexpress.net/nguyen-ngoc-tu-nhan-giai-van-hoc-dong-nam-a-tai-trung-quoc-4793109.html) - 09:47 15/09/2024
 - 🌮 [Vũ lần đầu kết hợp rapper Binz](https://vnexpress.net/vu-lan-dau-ket-hop-rapper-binz-4787510.html) - 08:24 15/09/2024
 - 🧠 [Kim Jae Joong: &#39;Tôi không áp lực chuyện lấy vợ&#39;](https://vnexpress.net/kim-jae-joong-toi-khong-ap-luc-chuyen-lay-vo-4792704.html) - 08:03 15/09/2024
 - 👨‍🏫 [8 mốt phụ kiện rộ lên trong mùa lạnh 2024](https://vnexpress.net/8-mot-phu-kien-ro-len-trong-mua-lanh-2024-4791175.html) - 06:30 15/09/2024
