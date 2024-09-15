@@ -79,8 +79,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💂 [Bài toán nhân sự của HLV Arteta](https://vnexpress.net/bai-toan-nhan-su-cua-hlv-arteta-4792446.html) - 05:00 15/09/2024
 - 🚀 [Cách giúp trẻ tăng trí nhớ và tập trung](https://vnexpress.net/cach-giup-tre-tang-tri-nho-va-tap-trung-4793024.html) - 05:00 15/09/2024
 - 🕴 [Làm gì khi khó thở?](https://vnexpress.net/lam-gi-khi-kho-tho-4793006.html) - 05:00 15/09/2024
-- 🦆 [Ten Hag trích câu của Ronaldo để khen Rashford](https://vnexpress.net/ten-hag-trich-cau-cua-ronaldo-de-khen-rashford-4793053.html) - 04:55 15/09/2024
-- 💫 [Xe trộn bê tông lật dưới mương khi bị cảnh sát truy đuổi](https://vnexpress.net/xe-tron-be-tong-lat-duoi-muong-khi-bi-canh-sat-truy-duoi-4792860.html) - 04:52 15/09/2024<!-- vnexpress:END -->
+- 🦆 [Ten Hag trích câu của Ronaldo để khen Rashford](https://vnexpress.net/ten-hag-trich-cau-cua-ronaldo-de-khen-rashford-4793053.html) - 04:55 15/09/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
