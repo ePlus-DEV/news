@@ -5,7 +5,7 @@ sidebar_position: 22
 
 <!-- dantri-du-lich:START -->
 - 🥰 [Quảng Ninh tan tác sau siêu bão vẫn đón hơn 8.000 khách quốc tế tới Hạ Long](https://dantri.com.vn/du-lich/quang-ninh-tan-tac-sau-sieu-bao-van-don-hon-8000-khach-quoc-te-toi-ha-long-20240915142702176.htm) - 10:13 15/09/2024
-- 🥰 [Sở Du lịch TPHCM trực tiếp gặp xin lỗi streamer người Mỹ bị &quot;chặt chém&quot;](https://dantri.com.vn/du-lich/so-du-lich-tphcm-truc-tiep-gap-xin-loi-streamer-nguoi-my-bi-chat-chem-20240915121539685.htm) - 05:34 15/09/2024
+- 🥰 [Sở Du lịch TPHCM trực tiếp gặp xin lỗi streamer Mỹ bị &quot;chặt chém&quot;](https://dantri.com.vn/du-lich/so-du-lich-tphcm-truc-tiep-gap-xin-loi-streamer-my-bi-chat-chem-20240915121539685.htm) - 05:34 15/09/2024
 - 🐻 [Đơn vị lữ hành dời tour, hoàn tiền cho khách vì du lịch miền Bắc tê liệt](https://dantri.com.vn/du-lich/don-vi-lu-hanh-doi-tour-hoan-tien-cho-khach-vi-du-lich-mien-bac-te-liet-20240913173939348.htm) - 23:08 14/09/2024
 - 🤩 [Streamer người Mỹ bị thu 1 triệu đồng cho 5 phút thuê xe điện ở TPHCM](https://dantri.com.vn/du-lich/streamer-nguoi-my-bi-thu-1-trieu-dong-cho-5-phut-thue-xe-dien-o-tphcm-20240914220840090.htm) - 15:19 14/09/2024
 - 🕴 [Khách Tây xuống phố phụ dọn dẹp cây đổ ngổn ngang khắp Hà Nội sau bão](https://dantri.com.vn/du-lich/khach-tay-xuong-pho-phu-don-dep-cay-do-ngon-ngang-khap-ha-noi-sau-bao-20240914165112853.htm) - 10:28 14/09/2024
