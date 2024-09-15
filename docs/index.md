@@ -171,7 +171,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐻 [Không có &#39;phép màu&#39; nào với nạn nhân vụ sập nhà điều hành thủy điện Đông Nam Á](https://thanhnien.vn/khong-co-phep-mau-nao-voi-nan-nhan-vu-sap-nha-dieu-hanh-thuy-dien-dong-nam-a-185240915144717542.htm) - 08:02 15/09/2024
 - 🧠 [Mẫu nhí 11 tuổi gây sốt vì &#39;xinh như hoa hậu&#39;](https://thanhnien.vn/thoi-trang-tre/mau-nhi-11-tuoi-gay-sot-vi-xinh-nhu-hoa-hau-185240914201535862.htm) - 08:00 15/09/2024
 - 🔥 [Apple loại bỏ nút bấm mang tính biểu tượng vì tương lai](https://thanhnien.vn/apple-loai-bo-nut-bam-mang-tinh-bieu-tuong-vi-tuong-lai-185240914232712805.htm) - 07:59 15/09/2024
-- 🌋 [Bí thư T.Ư Đoàn Ngô Văn Cương thăm, tặng quà tại Yên Bái](https://thanhnien.vn/bi-thu-tu-doan-ngo-van-cuong-tham-tang-qua-tai-yen-bai-185240915123045393.htm) - 07:53 15/09/2024
+- 🌋 [Bí thư T.Ư Đoàn Ngô Văn Cương thăm, tặng quà tại Yên Bái, Lào Cai](https://thanhnien.vn/bi-thu-tu-doan-ngo-van-cuong-tham-tang-qua-tai-yen-bai-lao-cai-185240915123045393.htm) - 07:53 15/09/2024
 - 😎 [Hari Won liên tục nhận xét &#39;khó hiểu&#39; khi làm giám khảo](https://thanhnien.vn/hari-won-lien-tuc-nhan-xet-kho-hieu-khi-lam-giam-khao-185240915131356962.htm) - 07:50 15/09/2024
 - 🥰 [Đỗ Thị Hà đến làng Nủ giúp đỡ bà con sau thiên tai](https://thanhnien.vn/do-thi-ha-den-lang-nu-giup-do-ba-con-sau-thien-tai-185240915001629546.htm) - 07:43 15/09/2024
 - 🧑‍🏫 [Xử phạt người &#39;chặt chém&#39; streamer IshowSpeed](https://thanhnien.vn/xu-phat-nguoi-chat-chem-streamer-ishowspeed-185240915143901.htm) - 07:39 15/09/2024
