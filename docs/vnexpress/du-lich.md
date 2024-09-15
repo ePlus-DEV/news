@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Du thuyền Hạ Long tổn thất vì bão Yagi &#39;hơn cả Coivd&#39;](https://vnexpress.net/du-thuyen-ha-long-ton-that-vi-bao-yagi-hon-ca-coivd-4792491.html) - 17:00 15/09/2024
+- 💂 [Du thuyền Hạ Long tổn thất vì bão Yagi &#39;nặng hơn Coivd&#39;](https://vnexpress.net/du-thuyen-ha-long-ton-that-vi-bao-yagi-nang-hon-coivd-4792491.html) - 17:00 15/09/2024
 - 🪄 [Nhiều điểm du lịch miền Bắc mở lại sau bão](https://vnexpress.net/nhieu-diem-du-lich-mien-bac-mo-lai-sau-bao-4792959.html) - 06:25 15/09/2024
 - 🦅 [Tỉnh nào nổi tiếng là &#39;nơi con sông Hồng chảy vào đất Việt&#39;?](https://vnexpress.net/tinh-nao-noi-tieng-la-noi-con-song-hong-chay-vao-dat-viet-4792791.html) - 01:00 15/09/2024
 - 🕴 [Quán cà phê trang trí hơn 500 đồ gốm hút khách ở TP HCM](https://vnexpress.net/quan-ca-phe-trang-tri-hon-500-do-gom-hut-khach-o-tp-hcm-4787281.html) - 17:00 14/09/2024
