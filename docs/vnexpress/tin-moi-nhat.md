@@ -11,7 +11,7 @@ sidebar_position: 9
 - 🎊 [Người Hàn Quốc đi nghỉ dịp Tết Trung dự kiến cao kỷ lục](https://vnexpress.net/nguoi-han-quoc-di-nghi-dip-tet-trung-du-kien-cao-ky-luc-4793063.html) - 22:00 15/09/2024
 - 🎃 [Trung Quốc đạt kỷ lục bán hơn 1 triệu xe điện hóa trong 1 tháng](https://vnexpress.net/trung-quoc-dat-ky-luc-ban-hon-1-trieu-xe-dien-hoa-trong-1-thang-4792439.html) - 22:00 15/09/2024
 - 🧰 [Yamal lập cú đúp trong chiến thắng của Barca](https://vnexpress.net/yamal-lap-cu-dup-trong-chien-thang-cua-barca-4793179.html) - 21:04 15/09/2024
-- 🔭 [Tàn dư bão Yagi càn quét Đông Nam Á như thế nào?](https://vnexpress.net/tan-du-bao-yagi-can-quet-dong-nam-a-nhu-the-nao-4793187.html) - 21:00 15/09/2024
+- 🔭 [Các nước bị ảnh hưởng ra sao bởi Yagi?](https://vnexpress.net/cac-nuoc-bi-anh-huong-ra-sao-boi-yagi-4793187.html) - 21:00 15/09/2024
 - 🫶 [&#39;Tinh binh&#39; lẫn máu sau quan hệ không an toàn](https://vnexpress.net/tinh-binh-lan-mau-sau-quan-he-khong-an-toan-4793156.html) - 19:00 15/09/2024
 - 🪜 [Việt Nam lập kỳ tích ở Olympiad cờ vua](https://vnexpress.net/viet-nam-lap-ky-tich-o-olympiad-co-vua-4793184.html) - 17:57 15/09/2024
 - 👨‍🏫 [Ăn chay trường có bị yếu &#39;chuyện ấy&#39;?](https://vnexpress.net/an-chay-truong-co-bi-yeu-chuyen-ay-4793045.html) - 17:04 15/09/2024
