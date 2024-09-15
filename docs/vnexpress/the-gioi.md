@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Israel báo động vì tên lửa phóng từ Yemen](https://vnexpress.net/israel-bao-dong-vi-ten-lua-phong-tu-yemen-4793089.html) - 08:06 15/09/2024
+- 🎭 [Houthi tuyên bố tên lửa xuyên thủng lưới phòng không Israel](https://vnexpress.net/houthi-tuyen-bo-ten-lua-xuyen-thung-luoi-phong-khong-israel-4793089.html) - 08:06 15/09/2024
 - 🕴 [Venezuela tuyên bố phá âm mưu tấn công Tổng thống](https://vnexpress.net/venezuela-tuyen-bo-pha-am-muu-tan-cong-tong-thong-4793039.html) - 06:28 15/09/2024
 - 🤭 [Bão đổ bộ gây mưa lũ lịch sử ở Trung Âu, Đông Âu](https://vnexpress.net/bao-do-bo-gay-mua-lu-lich-su-o-trung-au-dong-au-4793029.html) - 04:37 15/09/2024
 - 🧑‍💻 [Những thanh niên Ukraine liều chết để trốn nhập ngũ](https://vnexpress.net/nhung-thanh-nien-ukraine-lieu-chet-de-tron-nhap-ngu-4792757.html) - 04:18 15/09/2024
