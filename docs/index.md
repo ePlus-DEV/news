@@ -44,7 +44,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🪄 [Vào phòng cô gái, người đàn ông có nói dối không?](https://vnexpress.net/vao-phong-co-gai-nguoi-dan-ong-co-noi-doi-khong-4793125.html) - 10:55 15/09/2024
 - 😎 [Chính phủ giao Bộ Công Thương nghiên cứu phát triển điện hạt nhân](https://vnexpress.net/chinh-phu-giao-bo-cong-thuong-nghien-cuu-phat-trien-dien-hat-nhan-4793116.html) - 10:03 15/09/2024
 - 🎊 [Hai năm không bán hết mớ quần áo tồn trị giá 150 triệu](https://vnexpress.net/hai-nam-khong-ban-het-mo-quan-ao-ton-tri-gia-150-trieu-4793101.html) - 10:00 15/09/2024
-- ⚗️ [Điểm tin 17h: Yagi gây thiệt hại 40.000 tỷ đồng | Thủ tướng bật khóc khi nói về mất mát do bão](https://vnexpress.net/diem-tin-17h-yagi-gay-thiet-hai-40-000-ty-dong-thu-tuong-bat-khoc-khi-noi-ve-mat-mat-do-bao-4793122.html) - 10:00 15/09/2024
+- ⚗️ [Điểm tin 17h: Yagi gây thiệt hại 40.000 tỷ đồng | Thủ tướng bật khóc khi nói về mất mát do Yagi](https://vnexpress.net/diem-tin-17h-yagi-gay-thiet-hai-40-000-ty-dong-thu-tuong-bat-khoc-khi-noi-ve-mat-mat-do-yagi-4793122.html) - 10:00 15/09/2024
 - 🫣 [Bão với sức gió 144 km/h hướng vào miền đông Trung Quốc](https://vnexpress.net/bao-voi-suc-gio-144-km-h-huong-vao-mien-dong-trung-quoc-4793100.html) - 09:58 15/09/2024
 - 👨‍🏫 [Đầm &#39;Cánh chim bay xa&#39; của Kỳ Duyên ở Miss Universe Vietnam](https://vnexpress.net/dam-canh-chim-bay-xa-cua-ky-duyen-o-miss-universe-vietnam-4793098.html) - 09:50 15/09/2024
 - 🐻 [Nguyễn Ngọc Tư nhận giải Văn học Đông Nam Á tại Trung Quốc](https://vnexpress.net/nguyen-ngoc-tu-nhan-giai-van-hoc-dong-nam-a-tai-trung-quoc-4793109.html) - 09:47 15/09/2024
@@ -78,7 +78,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🏊 [Hằng Nga trong tranh Đường Bá Hổ](https://vnexpress.net/hang-nga-trong-tranh-duong-ba-ho-4792921.html) - 06:01 15/09/2024
 - 💂 [Bão có thể xuất hiện ở Biển Đông trong nửa cuối tháng 9](https://vnexpress.net/bao-co-the-xuat-hien-o-bien-dong-trong-nua-cuoi-thang-9-4793066.html) - 06:01 15/09/2024
 - 🚀 [Cô gái Việt làm ứng dụng sách nói thu hút triệu người dùng](https://vnexpress.net/co-gai-viet-lam-ung-dung-sach-noi-thu-hut-trieu-nguoi-dung-4788940.html) - 06:00 15/09/2024
-- 🕴 [Nam thanh niên bị phạt do &#39;chặt chém&#39; streamer nổi tiếng ở phố Nguyễn Huệ](https://vnexpress.net/nam-thanh-nien-bi-phat-do-chat-chem-streamer-noi-tieng-o-pho-nguyen-hue-4793041.html) - 05:58 15/09/2024<!-- vnexpress:END -->
+- 🕴 [Nam thanh niên bị phạt do &#39;chặt chém&#39; streamer nổi tiếng ở phố Nguyễn Huệ](https://vnexpress.net/nam-thanh-nien-bi-phat-do-chat-chem-streamer-noi-tieng-o-pho-nguyen-hue-4793041.html) - 05:58 15/09/2024
+- 🦆 [Trẻ mắc sởi thường giảm miễn dịch lâu dài](https://vnexpress.net/tre-mac-soi-thuong-giam-mien-dich-lau-dai-4793037.html) - 05:53 15/09/2024
+- 💫 [Đỗ xe không bật đèn cảnh báo bị phạt đúng hay sai?](https://vnexpress.net/do-xe-khong-bat-den-canh-bao-bi-phat-dung-hay-sai-4793065.html) - 05:39 15/09/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
