@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Ngày mai đo đạc và chuẩn bị thi công khu tái định cư Làng Nủ](https://vnexpress.net/ngay-mai-do-dac-va-chuan-bi-thi-cong-khu-tai-dinh-cu-lang-nu-4793171.html) - 16:01 15/09/2024
+- 🦒 [Tái thiết Làng Nủ từ ngày 16/9](https://vnexpress.net/tai-thiet-lang-nu-tu-ngay-16-9-4793171.html) - 16:01 15/09/2024
 - 🤓 [Tàu trật đường ray khi qua Thừa Thiên Huế](https://vnexpress.net/tau-trat-duong-ray-khi-qua-thua-thien-hue-4793118.html) - 11:32 15/09/2024
 - ⚗️ [Thêm 3 chó nghiệp vụ vào Làng Nủ](https://vnexpress.net/them-3-cho-nghiep-vu-vao-lang-nu-4793126.html) - 11:26 15/09/2024
 - 🌊 [Tháo dỡ nhà hàng xây trái phép ở biển Phan Thiết](https://vnexpress.net/thao-do-nha-hang-xay-trai-phep-o-bien-phan-thiet-4793112.html) - 11:20 15/09/2024
