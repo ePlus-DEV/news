@@ -9,7 +9,7 @@ sidebar_position: 9
 - 🦍 [Vũ lần đầu kết hợp rapper Binz](https://vnexpress.net/vu-lan-dau-ket-hop-rapper-binz-4787510.html) - 08:24 15/09/2024
 - 🏊 [Pháo Paris - siêu vũ khí tầm xa của Thế chiến thứ nhất](https://vnexpress.net/phao-paris-sieu-vu-khi-tam-xa-cua-the-chien-thu-nhat-4793055.html) - 08:23 15/09/2024
 - 🎊 [Bộ Kế hoạch &amp;amp; Đầu tư: Bão Yagi gây thiệt hại 40.000 tỷ đồng](https://vnexpress.net/bo-ke-hoach-dau-tu-bao-yagi-gay-thiet-hai-40-000-ty-dong-4793085.html) - 08:19 15/09/2024
-- 🎃 [Israel báo động vì tên lửa phóng từ Yemen](https://vnexpress.net/israel-bao-dong-vi-ten-lua-phong-tu-yemen-4793089.html) - 08:06 15/09/2024
+- 🎃 [Houthi tuyên bố tên lửa xuyên thủng lưới phòng không Israel](https://vnexpress.net/houthi-tuyen-bo-ten-lua-xuyen-thung-luoi-phong-khong-israel-4793089.html) - 08:06 15/09/2024
 - 🧰 [Kim Jae Joong: &#39;Tôi không áp lực chuyện lấy vợ&#39;](https://vnexpress.net/kim-jae-joong-toi-khong-ap-luc-chuyen-lay-vo-4792704.html) - 08:03 15/09/2024
 - 🔭 [Em tự tin, năng động, suy nghĩ tích cực](https://vnexpress.net/em-tu-tin-nang-dong-suy-nghi-tich-cuc-4793011.html) - 08:00 15/09/2024
 - 🫶 [Muốn thân mật với bạn gái nhưng cơ thể không nghe lời](https://vnexpress.net/muon-than-mat-voi-ban-gai-nhung-co-the-khong-nghe-loi-4792597.html) - 08:00 15/09/2024
@@ -19,9 +19,9 @@ sidebar_position: 9
 - 🎊 [Từ vựng tiếng Anh qua chuyện Gen Z nghỉ việc](https://vnexpress.net/tu-vung-tieng-anh-qua-chuyen-gen-z-nghi-viec-4792890.html) - 07:33 15/09/2024
 - 😺 [Lào Cai được hỗ trợ 150 tỷ đồng khắc phục thiệt hại bão Yagi](https://vnexpress.net/lao-cai-duoc-ho-tro-150-ty-dong-khac-phuc-thiet-hai-bao-yagi-4793056.html) - 07:07 15/09/2024
 - 🐘 [Người chết và mất tích tại Làng Nủ giảm 29 so với báo cáo trước đó](https://vnexpress.net/nguoi-chet-va-mat-tich-tai-lang-nu-giam-29-so-voi-bao-cao-truoc-do-4793077.html) - 07:06 15/09/2024
-- 🌁 [Ấn Độ bỏ giá sàn xuất khẩu gạo](https://vnexpress.net/an-do-bo-gia-san-xuat-khau-gao-4793035.html) - 07:00 15/09/2024
-- 🐲 [Tại sao cá voi chết lại nổ tung?](https://vnexpress.net/tai-sao-ca-voi-chet-lai-no-tung-4792946.html) - 07:00 15/09/2024
-- 🤓 [8 tuổi đã có thừa kế nhưng tôi không &#39;bẻ đất ăn dần&#39;](https://vnexpress.net/8-tuoi-da-co-thua-ke-nhung-toi-khong-be-dat-an-dan-4792857.html) - 07:00 15/09/2024
+- 🌁 [Tại sao cá voi chết lại nổ tung?](https://vnexpress.net/tai-sao-ca-voi-chet-lai-no-tung-4792946.html) - 07:00 15/09/2024
+- 🐲 [8 tuổi đã có thừa kế nhưng tôi không &#39;bẻ đất ăn dần&#39;](https://vnexpress.net/8-tuoi-da-co-thua-ke-nhung-toi-khong-be-dat-an-dan-4792857.html) - 07:00 15/09/2024
+- 🤓 [Ấn Độ bỏ giá sàn xuất khẩu gạo](https://vnexpress.net/an-do-bo-gia-san-xuat-khau-gao-4793035.html) - 07:00 15/09/2024
 - 💪 [Ai có thể giải bài toán này nhanh nhất?](https://vnexpress.net/ai-co-the-giai-bai-toan-nay-nhanh-nhat-4792599.html) - 07:00 15/09/2024
 - 🎓 [Vì sao dịch sởi bùng phát theo chu kỳ 4-5 năm?](https://vnexpress.net/vi-sao-dich-soi-bung-phat-theo-chu-ky-4-5-nam-4793079.html) - 07:00 15/09/2024
 - 🫣 [Bão Yagi khiến nước sông Mekong dâng cao, miền Tây nguy cơ ngập](https://vnexpress.net/bao-yagi-khien-nuoc-song-mekong-dang-cao-mien-tay-nguy-co-ngap-4793050.html) - 06:50 15/09/2024
