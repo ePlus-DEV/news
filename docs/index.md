@@ -248,7 +248,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌈 [Arsenal giành 3 điểm trên sân Tottenham](https://laodong.vn/bong-da-quoc-te/arsenal-gianh-3-diem-tren-san-tottenham-1394691.ldo) - 12:11 15/09/2024
 - 🐲 [Bóng chuyền Việt Nam 15.9: Thanh Thúy ghi điểm số đầu tiên cho Kuzeyboru](https://laodong.vn/the-thao/bong-chuyen-viet-nam-159-thanh-thuy-ghi-diem-so-dau-tien-cho-kuzeyboru-1394647.ldo) - 12:10 15/09/2024
 - 🚀 [Bắc Ninh thiệt hại 1.000 tỉ đồng do bão số 3](https://laodong.vn/xa-hoi/bac-ninh-thiet-hai-1000-ti-dong-do-bao-so-3-1394685.ldo) - 12:00 15/09/2024
-- 😺 [Mỗi phường, thị trấn ở Bình Phước được định mức 1 ôtô công](https://laodong.vn/xe/moi-phuong-thi-tran-o-binh-phuoc-duoc-dinh-muc-1-oto-cong-1394565.ldo) - 12:00 15/09/2024
+- 😺 [Nóng Sài Gòn: Dự báo diễn biến mưa to ở Nam Bộ](https://laodong.vn/video-xa-hoi/nong-sai-gon-du-bao-dien-bien-mua-to-o-nam-bo-1394570.ldo) - 12:00 15/09/2024
 - 🕴 [Thế giới 24h: 2 áp thấp mới gần Philippines có thể thành bão](https://laodong.vn/podcast-tin-tuc/the-gioi-24h-2-ap-thap-moi-gan-philippines-co-the-thanh-bao-1394583.ldo) - 12:00 15/09/2024
 - 🌋 [Rau dền bổ máu nhưng đại kỵ với một số người](https://laodong.vn/ban-tin/rau-den-bo-mau-nhung-dai-ky-voi-mot-so-nguoi-1394644.ldo) - 12:00 15/09/2024
 - 💄 [Lịch cúp điện ở Bình Dương ngày 16 và 17.9](https://laodong.vn/ban-doc/lich-cup-dien-o-binh-duong-ngay-16-va-179-1394609.ldo) - 12:00 15/09/2024<!-- laodong:END -->
