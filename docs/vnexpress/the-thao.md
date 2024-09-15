@@ -6,8 +6,8 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Canelo Alvarez bảo vệ 4 đai siêu trung thế giới](https://vnexpress.net/canelo-alvarez-bao-ve-4-dai-sieu-trung-the-gioi-4793174.html) - 15:30 15/09/2024
 - 🦩 [Arsenal hạ Tottenham bằng &#39;vũ khí&#39; cố định](https://vnexpress.net/arsenal-ha-tottenham-bang-vu-khi-co-dinh-4793172.html) - 15:04 15/09/2024
-- 🧰 [Công an Hà Nội mất chiến thắng ở phút bù cuối](https://vnexpress.net/cong-an-ha-noi-mat-chien-thang-o-phut-bu-cuoi-4793165.html) - 14:55 15/09/2024
-- 🤗 [Cầu thủ 16 tuổi lập kỷ lục V-League khi ghi bàn giúp HAGL thắng 4-0](https://vnexpress.net/cau-thu-16-tuoi-lap-ky-luc-v-league-khi-ghi-ban-giup-hagl-thang-4-0-4793159.html) - 13:51 15/09/2024
+- 🧰 [Công an Hà Nội mất chiến thắng ở phút 90+4](https://vnexpress.net/cong-an-ha-noi-mat-chien-thang-o-phut-90-4-4793165.html) - 14:55 15/09/2024
+- 🤗 [Cầu thủ 16 tuổi của HAGL lập kỷ lục V-League](https://vnexpress.net/cau-thu-16-tuoi-cua-hagl-lap-ky-luc-v-league-4793159.html) - 13:51 15/09/2024
 - 🥳 [Thuỳ Linh lần thứ ba liên tiếp vô địch Vietnam Open](https://vnexpress.net/thuy-linh-lan-thu-ba-lien-tiep-vo-dich-vietnam-open-4793137.html) - 12:04 15/09/2024
 - 🦣 [Nước cờ xuất sắc giúp Việt Nam thắng ĐKVĐ Olympiad](https://vnexpress.net/nuoc-co-xuat-sac-giup-viet-nam-thang-dkvd-olympiad-4793069.html) - 08:27 15/09/2024
 - 🌜 [Raheem Sterling - mảnh ghép hoàn hảo của Arsenal?](https://vnexpress.net/raheem-sterling-manh-ghep-hoan-hao-cua-arsenal-4792994.html) - 05:22 15/09/2024
