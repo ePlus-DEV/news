@@ -14,7 +14,7 @@ sidebar_position: 5
 - 🫶 [HLV Polking nổi giận khi CAHN rơi chiến thắng](https://vnexpress.net/hlv-polking-noi-gian-khi-cahn-roi-chien-thang-4793185.html) - 23:01 15/09/2024
 - 🌜 [Yamal lập cú đúp trong chiến thắng của Barca](https://vnexpress.net/yamal-lap-cu-dup-trong-chien-thang-cua-barca-4793179.html) - 21:04 15/09/2024
 - 😺 [Việt Nam lập kỳ tích ở Olympiad cờ vua 2024](https://vnexpress.net/viet-nam-lap-ky-tich-o-olympiad-co-vua-2024-4793184.html) - 17:57 15/09/2024
-- 👍 [Kỷ lục gia 3.000m phải nghỉ giữa chừng trong lần đầu chạy bán marathon](https://vnexpress.net/ky-luc-gia-3-000m-phai-nghi-giua-chung-trong-lan-dau-chay-ban-marathon-4793130.html) - 17:00 15/09/2024
+- 👍 [Kỷ lục gia 3.000m phải nghỉ giữa chừng trong lần đầu chạy half marathon](https://vnexpress.net/ky-luc-gia-3-000m-phai-nghi-giua-chung-trong-lan-dau-chay-half-marathon-4793130.html) - 17:00 15/09/2024
 - 🐵 [Canelo Alvarez bảo vệ 4 đai siêu trung thế giới](https://vnexpress.net/canelo-alvarez-bao-ve-4-dai-sieu-trung-the-gioi-4793174.html) - 15:30 15/09/2024
 - 💫 [Arsenal hạ Tottenham bằng &#39;vũ khí&#39; cố định](https://vnexpress.net/arsenal-ha-tottenham-bang-vu-khi-co-dinh-4793172.html) - 15:04 15/09/2024
 - 🦆 [Công an Hà Nội mất chiến thắng ở phút 90+4](https://vnexpress.net/cong-an-ha-noi-mat-chien-thang-o-phut-90-4-4793165.html) - 14:55 15/09/2024
