@@ -8,9 +8,9 @@ sidebar_position: 1
 - 🤓 [Mặt trận Tổ quốc phân bổ hơn 1.000 tỷ đồng đến các địa phương](https://vnexpress.net/mat-tran-to-quoc-phan-bo-hon-1-000-ty-dong-den-cac-dia-phuong-4793575.html) - 14:13 16/09/2024
 - ⚗️ [Thêm một nạn nhân vụ sập cầu Phong Châu được tìm thấy](https://vnexpress.net/them-mot-nan-nhan-vu-sap-cau-phong-chau-duoc-tim-thay-4793568.html) - 12:04 16/09/2024
 - 🌊 [Bộ đội Việt Nam tổ chức Trung thu cho trẻ mồ côi châu Phi](https://vnexpress.net/bo-doi-viet-nam-to-chuc-trung-thu-cho-tre-mo-coi-chau-phi-4793482.html) - 11:27 16/09/2024
-- 🎓 [Bộ Công an đề xuất lập Sàn giao dịch dữ liệu](https://vnexpress.net/bo-cong-an-de-xuat-lap-san-giao-dich-du-lieu-4793447.html) - 10:13 16/09/2024
+- 🎓 [Bộ Công an đề xuất lập sàn giao dịch dữ liệu](https://vnexpress.net/bo-cong-an-de-xuat-lap-san-giao-dich-du-lieu-4793447.html) - 10:13 16/09/2024
 - 🔥 [Đổi mới phương thức lãnh đạo của Đảng - yêu cầu cấp bách của giai đoạn cách mạng mới](https://vnexpress.net/doi-moi-phuong-thuc-lanh-dao-cua-dang-yeu-cau-cap-bach-cua-giai-doan-cach-mang-moi-4793517.html) - 09:00 16/09/2024
-- 🦏 [New Zealand, Ấn Độ hỗ trợ Việt Nam khắc phục hậu quả bão Yagi](https://vnexpress.net/new-zealand-an-do-ho-tro-viet-nam-khac-phuc-hau-qua-bao-yagi-4791778.html) - 07:32 16/09/2024
+- 🦏 [Quốc tế hỗ trợ Việt Nam 550 tỷ đồng khắc phục hậu quả bão Yagi](https://vnexpress.net/quoc-te-ho-tro-viet-nam-550-ty-dong-khac-phuc-hau-qua-bao-yagi-4791778.html) - 07:32 16/09/2024
 - 👺 [Ôtô tông chết bé gái lớp 2 trong sân trường](https://vnexpress.net/oto-tong-chet-be-gai-lop-2-trong-san-truong-4793399.html) - 06:56 16/09/2024
 - 🧑‍🏫 [Áp thấp nhiệt đới hình thành gần Biển Đông](https://vnexpress.net/ap-thap-nhiet-doi-hinh-thanh-gan-bien-dong-4793396.html) - 05:37 16/09/2024
 - 🚦 [Nghiên cứu phương án mở rộng cao tốc Cam Lộ - La Sơn lên 6 làn xe](https://vnexpress.net/nghien-cuu-phuong-an-mo-rong-cao-toc-cam-lo-la-son-len-6-lan-xe-4793305.html) - 04:08 16/09/2024
