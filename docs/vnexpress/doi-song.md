@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Người Thái Nguyên vực dậy sau trận lũ kỷ lục](https://vnexpress.net/nguoi-thai-nguyen-vuc-day-sau-tran-lu-ky-luc-4793526.html) - 17:04 16/09/2024
+- 🚀 [Người Thái Nguyên vực dậy sau lũ](https://vnexpress.net/nguoi-thai-nguyen-vuc-day-sau-lu-4793526.html) - 17:04 16/09/2024
 - 🎓 [Bún gà măng mọc](https://vnexpress.net/bun-ga-mang-moc-4793484.html) - 12:00 16/09/2024
 - 🚦 [6 điều cần chú ý để cải thiện kỹ năng giao tiếp](https://vnexpress.net/6-dieu-can-chu-y-de-cai-thien-ky-nang-giao-tiep-4793529.html) - 09:34 16/09/2024
 - 🦣 [Tròn thập niên travel blogger Lý Thành Cơ rong ruổi khám phá thế giới](https://vnexpress.net/tron-thap-nien-travel-blogger-ly-thanh-co-rong-ruoi-kham-pha-the-gioi-4792609.html) - 08:18 16/09/2024
