@@ -14,7 +14,7 @@ sidebar_position: 16
 - 🧠 [Sự thật nam thanh niên tìm thấy hộp trang sức toàn vàng sau lũ ở Yên Bái](https://dantri.com.vn/doi-song/su-that-nam-thanh-nien-tim-thay-hop-trang-suc-toan-vang-sau-lu-o-yen-bai-20240915085921159.htm) - 23:01 15/09/2024
 - 📝 [Ukraine nêu kế hoạch duy nhất chấm dứt xung đột với Nga](https://dantri.com.vn/the-gioi/ukraine-neu-ke-hoach-duy-nhat-cham-dut-xung-dot-voi-nga-20240916004857863.htm) - 23:00 15/09/2024
 - 🦏 [Nga đánh thẳng quân dự bị, lính Ukraine tiếp tục đầu hàng ở Kursk](https://dantri.com.vn/the-gioi/nga-danh-thang-quan-du-bi-linh-ukraine-tiep-tuc-dau-hang-o-kursk-20240916015556583.htm) - 22:53 15/09/2024
-- 🥰 [Ông Trump bị ám sát hụt lần hai](https://dantri.com.vn/the-gioi/ong-trump-bi-am-sat-hut-lan-hai-20240916050541809.htm) - 22:46 15/09/2024
+- 🥰 [Ông Trump bị ám sát hụt lần 2](https://dantri.com.vn/the-gioi/ong-trump-bi-am-sat-hut-lan-2-20240916050541809.htm) - 22:46 15/09/2024
 - 🤗 [Đến cuối tháng 9 Biển Đông khả năng có 1-2 cơn bão, miền Bắc lại mưa lớn](https://dantri.com.vn/xa-hoi/den-cuoi-thang-9-bien-dong-kha-nang-co-1-2-con-bao-mien-bac-lai-mua-lon-20240915205958130.htm) - 14:19 15/09/2024
 - 🌈 [Mặt trận Tổ quốc Việt Nam tiếp tục công bố gần 10.000 trang sao kê](https://dantri.com.vn/xa-hoi/mat-tran-to-quoc-viet-nam-tiep-tuc-cong-bo-gan-10000-trang-sao-ke-20240915201324704.htm) - 13:20 15/09/2024
 - 🌏 [Vi phạm của các đơn vị tư vấn đấu thầu dự án đầu tư công ở Bình Dương](https://dantri.com.vn/xa-hoi/vi-pham-cua-cac-don-vi-tu-van-dau-thau-du-an-dau-tu-cong-o-binh-duong-20240914115812157.htm) - 10:53 15/09/2024
