@@ -4,63 +4,63 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Hai học sinh bị ong bắp cày đốt đang nguy kịch](https://vnexpress.net/hai-hoc-sinh-bi-ong-bap-cay-dot-dang-nguy-kich-4793564.html) - 11:19 16/09/2024
-- 🥰 [Thay khớp háng cho người bị hoại tử chỏm xương đùi nặng](https://vnexpress.net/thay-khop-hang-cho-nguoi-bi-hoai-tu-chom-xuong-dui-nang-4793527.html) - 11:00 16/09/2024
-- 💡 [Chọc hút tinh trùng để thụ tinh ống nghiệm có đau không?](https://vnexpress.net/choc-hut-tinh-trung-de-thu-tinh-ong-nghiem-co-dau-khong-4793502.html) - 11:00 16/09/2024
-- 🤗 [Những loại đồ uống trẻ nên hạn chế](https://vnexpress.net/nhung-loai-do-uong-tre-nen-han-che-4793337.html) - 10:00 16/09/2024
-- 🪜 [21 học sinh nghi ngộ độc sau tiệc liên hoan Trung thu](https://vnexpress.net/21-hoc-sinh-nghi-ngo-doc-sau-tiec-lien-hoan-trung-thu-4793505.html) - 09:24 16/09/2024
-- 🕯 [Nhiễm sán lợn từ thói quen ăn đồ tái sống](https://vnexpress.net/nhiem-san-lon-tu-thoi-quen-an-do-tai-song-4793477.html) - 09:08 16/09/2024
-- 🤭 [Nám và đốm ung thư da khác nhau thế nào?](https://vnexpress.net/nam-va-dom-ung-thu-da-khac-nhau-the-nao-4793461.html) - 09:00 16/09/2024
-- 👀 [Ngỡ ung thư vú hóa u lành tính](https://vnexpress.net/ngo-ung-thu-vu-hoa-u-lanh-tinh-4793445.html) - 09:00 16/09/2024
-- 🌋 [Thai phụ uống cà phê được không?](https://vnexpress.net/thai-phu-uong-ca-phe-duoc-khong-4793438.html) - 08:00 16/09/2024
-- 🫶 [Mất nước ảnh hưởng đến thận thế nào](https://vnexpress.net/mat-nuoc-anh-huong-den-than-the-nao-4792999.html) - 08:00 16/09/2024
-- 🦆 [Uống trà sữa thế nào để không béo?](https://vnexpress.net/uong-tra-sua-the-nao-de-khong-beo-4793329.html) - 07:19 16/09/2024
-- 🚀 [Ăn và kiêng gì khi đau nửa đầu?](https://vnexpress.net/an-va-kieng-gi-khi-dau-nua-dau-4793402.html) - 07:00 16/09/2024
-- 🌜 [Làm sạch răng thế nào để giảm mùi hơi thở?](https://vnexpress.net/lam-sach-rang-the-nao-de-giam-mui-hoi-tho-4793345.html) - 07:00 16/09/2024
-- 🧰 [Tưởng đau răng, hóa ung thư lưỡi giai đoạn muộn](https://vnexpress.net/tuong-dau-rang-hoa-ung-thu-luoi-giai-doan-muon-4793328.html) - 06:20 16/09/2024
-- 💫 [6 món ăn uống bổ gan](https://vnexpress.net/6-mon-an-uong-bo-gan-4793356.html) - 06:00 16/09/2024
-- 🌝 [6 thực phẩm nên ăn để kiểm soát huyết áp](https://vnexpress.net/6-thuc-pham-nen-an-de-kiem-soat-huyet-ap-4793248.html) - 05:30 16/09/2024
-- 🗽 [Làm thế nào không hụt hơi khi chạy bộ?](https://vnexpress.net/lam-the-nao-khong-hut-hoi-khi-chay-bo-4793303.html) - 04:30 16/09/2024
-- 🕯 [Những điều thai phụ cần lưu ý mùa mưa bão](https://vnexpress.net/nhung-dieu-thai-phu-can-luu-y-mua-mua-bao-4793302.html) - 04:00 16/09/2024
-- 🦅 [VNVC tiêm hơn 30.000 mũi vaccine sởi cho trẻ em từ đầu tháng 9](https://vnexpress.net/vnvc-tiem-hon-30-000-mui-vaccine-soi-cho-tre-em-tu-dau-thang-9-4793111.html) - 04:00 16/09/2024
-- 🦆 [&#39;Nhiều người biết tới bệnh thận cũng là lúc phải chạy thận suốt đời&#39;](https://vnexpress.net/nhieu-nguoi-biet-toi-benh-than-cung-la-luc-phai-chay-than-suot-doi-4793153.html) - 03:33 16/09/2024
-- 🎊 [Ăn cá thế nào tốt cho người tiểu đường?](https://vnexpress.net/an-ca-the-nao-tot-cho-nguoi-tieu-duong-4793250.html) - 03:30 16/09/2024
-- 🏊 [Lao màng bụng gây ứ dịch tiêu hóa](https://vnexpress.net/lao-mang-bung-gay-u-dich-tieu-hoa-4793257.html) - 03:00 16/09/2024
-- 📝 [Số người cao tuổi Nhật Bản tăng kỷ lục lên 36 triệu](https://vnexpress.net/so-nguoi-cao-tuoi-nhat-ban-tang-ky-luc-len-36-trieu-4793271.html) - 02:39 16/09/2024
-- 💯 [5 món ăn thực vật giàu canxi tốt cho xương](https://vnexpress.net/5-mon-an-thuc-vat-giau-canxi-tot-cho-xuong-4793177.html) - 01:00 16/09/2024
-- 🌊 [Thiếu máu cơ tim do hẹp mạch vành](https://vnexpress.net/thieu-mau-co-tim-do-hep-mach-vanh-4793163.html) - 01:00 16/09/2024
-- 🚀 [&#39;Trầm cảm ở nam giới thường khó nhận biết&#39;](https://vnexpress.net/tram-cam-o-nam-gioi-thuong-kho-nhan-biet-4793132.html) - 00:00 16/09/2024
-- 🕴 [Bé trai tổn thương gan, thận sau khi bị ong đốt 70 vết](https://vnexpress.net/be-trai-ton-thuong-gan-than-sau-khi-bi-ong-dot-70-vet-4793168.html) - 23:59 15/09/2024
-- 🗽 [Cạn kiệt trứng tuổi đôi mươi](https://vnexpress.net/can-kiet-trung-tuoi-doi-muoi-4792908.html) - 23:00 15/09/2024
-- 🎡 [&#39;Tinh binh&#39; lẫn máu sau quan hệ không an toàn](https://vnexpress.net/tinh-binh-lan-mau-sau-quan-he-khong-an-toan-4793156.html) - 19:00 15/09/2024
-- ⛽️ [Ăn chay trường có bị yếu &#39;chuyện ấy&#39;?](https://vnexpress.net/an-chay-truong-co-bi-yeu-chuyen-ay-4793045.html) - 17:04 15/09/2024
-- 🦆 [Huyết áp cao ở người trẻ - kẻ giết người thầm lặng](https://vnexpress.net/huyet-ap-cao-o-nguoi-tre-ke-giet-nguoi-tham-lang-4793139.html) - 12:54 15/09/2024
-- 🤩 [Bị chuột rút khi bơi phải làm gì?](https://vnexpress.net/bi-chuot-rut-khi-boi-phai-lam-gi-4792117.html) - 09:31 15/09/2024
-- 🦒 [Cách giảm đau đầu](https://vnexpress.net/cach-giam-dau-dau-4793032.html) - 08:00 15/09/2024
-- 💫 [Một nạn nhân vụ lũ quét thôn ở Lào Cai không qua khỏi](https://vnexpress.net/mot-nan-nhan-vu-lu-quet-thon-o-lao-cai-khong-qua-khoi-4793080.html) - 07:35 15/09/2024
-- 🐘 [Vì sao dịch sởi bùng phát theo chu kỳ 4-5 năm?](https://vnexpress.net/vi-sao-dich-soi-bung-phat-theo-chu-ky-4-5-nam-4793079.html) - 07:00 15/09/2024
-- 🚀 [Trẻ mắc sởi thường giảm miễn dịch lâu dài](https://vnexpress.net/tre-mac-soi-thuong-giam-mien-dich-lau-dai-4793037.html) - 05:53 15/09/2024
-- 🕯 [Cách giúp trẻ tăng trí nhớ và tập trung](https://vnexpress.net/cach-giup-tre-tang-tri-nho-va-tap-trung-4793024.html) - 05:00 15/09/2024
-- 🦏 [Làm gì khi khó thở?](https://vnexpress.net/lam-gi-khi-kho-tho-4793006.html) - 05:00 15/09/2024
-- 🦄 [Có nên trữ nhiều thịt trên ngăn đá?](https://vnexpress.net/co-nen-tru-nhieu-thit-tren-ngan-da-4792194.html) - 04:00 15/09/2024
-- 🦒 [Cách phòng bệnh sởi ở trường học, nhà trẻ](https://vnexpress.net/cach-phong-benh-soi-o-truong-hoc-nha-tre-4793026.html) - 04:00 15/09/2024
-- 👨‍🏫 [Chỉ tập thể dục cuối tuần có tốt cho sức khỏe?](https://vnexpress.net/chi-tap-the-duc-cuoi-tuan-co-tot-cho-suc-khoe-4792996.html) - 04:00 15/09/2024
-- 🌜 [Ba loại hạt nhiều protein hơn trứng](https://vnexpress.net/ba-loai-hat-nhieu-protein-hon-trung-4792941.html) - 04:00 15/09/2024
-- 🚀 [Ban sởi khác ban tay chân miệng thế nào](https://vnexpress.net/ban-soi-khac-ban-tay-chan-mieng-the-nao-4792997.html) - 03:00 15/09/2024
-- 💃 [Cách nào giảm nhanh ngứa họng?](https://vnexpress.net/cach-nao-giam-nhanh-ngua-hong-4792957.html) - 03:00 15/09/2024
-- 💯 [Dị tật vô sọ ở thai nhi](https://vnexpress.net/di-tat-vo-so-o-thai-nhi-4792938.html) - 03:00 15/09/2024
-- 🤔 [Chọc tổ ong, một học sinh tử vong](https://vnexpress.net/choc-to-ong-mot-hoc-sinh-tu-vong-4792984.html) - 01:20 15/09/2024
-- 🎬 [6 cách giúp tiêu hóa tốt](https://vnexpress.net/6-cach-giup-tieu-hoa-tot-4792924.html) - 01:00 15/09/2024
-- 🪜 [Lợi ích của trà xanh với người bệnh tiểu đường](https://vnexpress.net/loi-ich-cua-tra-xanh-voi-nguoi-benh-tieu-duong-4792917.html) - 01:00 15/09/2024
-- 🦣 [Ung thư vòm họng có chữa khỏi không?](https://vnexpress.net/ung-thu-vom-hong-co-chua-khoi-khong-4792904.html) - 01:00 15/09/2024
-- 🧐 [Làm thế nào hạ huyết áp nhanh?](https://vnexpress.net/lam-the-nao-ha-huyet-ap-nhanh-4792889.html) - 01:00 15/09/2024
-- 🤡 [Bệnh bạch tạng](https://vnexpress.net/benh-bach-tang-4791554.html) - 00:00 15/09/2024
-- 👍 [Loại bỏ 20 kg trong 4 tháng nhờ ăn thâm hụt](https://vnexpress.net/loai-bo-20-kg-trong-4-thang-nho-an-tham-hut-4789506.html) - 23:00 14/09/2024
-- 💡 [Gói hóa chất lột da trị tàn nhang khiến mặt cô gái bị viêm nhiễm](https://vnexpress.net/goi-hoa-chat-lot-da-tri-tan-nhang-khien-mat-co-gai-bi-viem-nhiem-4791379.html) - 22:00 14/09/2024
-- 💯 [Nên đi tiểu sau khi xuất tinh bao lâu?](https://vnexpress.net/nen-di-tieu-sau-khi-xuat-tinh-bao-lau-4790370.html) - 17:01 14/09/2024
-- 🧠 [Thịt để tủ lạnh hơn một tháng có nên ăn?](https://vnexpress.net/thit-de-tu-lanh-hon-mot-thang-co-nen-an-4792225.html) - 12:43 14/09/2024
-- 🎡 [Nhiều giun đũa ký sinh trong đại tràng người đàn ông](https://vnexpress.net/nhieu-giun-dua-ky-sinh-trong-dai-trang-nguoi-dan-ong-4792896.html) - 10:18 14/09/2024
-- 🌏 [TP HCM lập 12 tổ phản ứng nhanh chống dịch sởi tại trường học](https://vnexpress.net/tp-hcm-lap-12-to-phan-ung-nhanh-chong-dich-soi-tai-truong-hoc-4792825.html) - 04:46 14/09/2024
-- ⚗️ [4 người nghi ngộ độc sau ăn nấm lạ](https://vnexpress.net/4-nguoi-nghi-ngo-doc-sau-an-nam-la-4792803.html) - 03:26 14/09/2024
-- 👨‍🏫 [Sản phụ Lào Cai đi bộ vượt rừng 40 km đến viện sinh con](https://vnexpress.net/san-phu-di-bo-vuot-rung-40-km-den-vien-sinh-con-4792740.html) - 00:38 14/09/2024
-- 🤖 [Cách phòng ngừa ngộ độc thực phẩm sau lũ](https://vnexpress.net/cach-phong-ngua-ngo-doc-thuc-pham-sau-lu-4792565.html) - 00:00 14/09/2024<!-- vnexpress-suc-khoe:END -->
+- 🔥 [Người đàn ông mắc hội chứng Fournier - hoại tử sinh dục và hậu môn](https://vnexpress.net/nguoi-dan-ong-mac-hoi-chung-fournier-hoai-tu-sinh-duc-va-hau-mon-4793265.html) - 13:00 16/09/2024
+- 🥰 [Hai học sinh bị ong bắp cày đốt đang nguy kịch](https://vnexpress.net/hai-hoc-sinh-bi-ong-bap-cay-dot-dang-nguy-kich-4793564.html) - 11:19 16/09/2024
+- 💡 [Thay khớp háng cho người bị hoại tử chỏm xương đùi nặng](https://vnexpress.net/thay-khop-hang-cho-nguoi-bi-hoai-tu-chom-xuong-dui-nang-4793527.html) - 11:00 16/09/2024
+- 🤗 [Chọc hút tinh trùng để thụ tinh ống nghiệm có đau không?](https://vnexpress.net/choc-hut-tinh-trung-de-thu-tinh-ong-nghiem-co-dau-khong-4793502.html) - 11:00 16/09/2024
+- 🪜 [Những loại đồ uống trẻ nên hạn chế](https://vnexpress.net/nhung-loai-do-uong-tre-nen-han-che-4793337.html) - 10:00 16/09/2024
+- 🕯 [21 học sinh nghi ngộ độc sau tiệc liên hoan Trung thu](https://vnexpress.net/21-hoc-sinh-nghi-ngo-doc-sau-tiec-lien-hoan-trung-thu-4793505.html) - 09:24 16/09/2024
+- 🤭 [Nhiễm sán lợn từ thói quen ăn đồ tái sống](https://vnexpress.net/nhiem-san-lon-tu-thoi-quen-an-do-tai-song-4793477.html) - 09:08 16/09/2024
+- 👀 [Nám và đốm ung thư da khác nhau thế nào?](https://vnexpress.net/nam-va-dom-ung-thu-da-khac-nhau-the-nao-4793461.html) - 09:00 16/09/2024
+- 🌋 [Ngỡ ung thư vú hóa u lành tính](https://vnexpress.net/ngo-ung-thu-vu-hoa-u-lanh-tinh-4793445.html) - 09:00 16/09/2024
+- 🫶 [Thai phụ uống cà phê được không?](https://vnexpress.net/thai-phu-uong-ca-phe-duoc-khong-4793438.html) - 08:00 16/09/2024
+- 🦆 [Mất nước ảnh hưởng đến thận thế nào](https://vnexpress.net/mat-nuoc-anh-huong-den-than-the-nao-4792999.html) - 08:00 16/09/2024
+- 🚀 [Uống trà sữa thế nào để không béo?](https://vnexpress.net/uong-tra-sua-the-nao-de-khong-beo-4793329.html) - 07:19 16/09/2024
+- 🌜 [Ăn và kiêng gì khi đau nửa đầu?](https://vnexpress.net/an-va-kieng-gi-khi-dau-nua-dau-4793402.html) - 07:00 16/09/2024
+- 🧰 [Làm sạch răng thế nào để giảm mùi hơi thở?](https://vnexpress.net/lam-sach-rang-the-nao-de-giam-mui-hoi-tho-4793345.html) - 07:00 16/09/2024
+- 💫 [Tưởng đau răng, hóa ung thư lưỡi giai đoạn muộn](https://vnexpress.net/tuong-dau-rang-hoa-ung-thu-luoi-giai-doan-muon-4793328.html) - 06:20 16/09/2024
+- 🌝 [6 món ăn uống bổ gan](https://vnexpress.net/6-mon-an-uong-bo-gan-4793356.html) - 06:00 16/09/2024
+- 🗽 [6 thực phẩm nên ăn để kiểm soát huyết áp](https://vnexpress.net/6-thuc-pham-nen-an-de-kiem-soat-huyet-ap-4793248.html) - 05:30 16/09/2024
+- 🕯 [Làm thế nào không hụt hơi khi chạy bộ?](https://vnexpress.net/lam-the-nao-khong-hut-hoi-khi-chay-bo-4793303.html) - 04:30 16/09/2024
+- 🦅 [Những điều thai phụ cần lưu ý mùa mưa bão](https://vnexpress.net/nhung-dieu-thai-phu-can-luu-y-mua-mua-bao-4793302.html) - 04:00 16/09/2024
+- 🦆 [VNVC tiêm hơn 30.000 mũi vaccine sởi cho trẻ em từ đầu tháng 9](https://vnexpress.net/vnvc-tiem-hon-30-000-mui-vaccine-soi-cho-tre-em-tu-dau-thang-9-4793111.html) - 04:00 16/09/2024
+- 🎊 [&#39;Nhiều người biết tới bệnh thận cũng là lúc phải chạy thận suốt đời&#39;](https://vnexpress.net/nhieu-nguoi-biet-toi-benh-than-cung-la-luc-phai-chay-than-suot-doi-4793153.html) - 03:33 16/09/2024
+- 🏊 [Ăn cá thế nào tốt cho người tiểu đường?](https://vnexpress.net/an-ca-the-nao-tot-cho-nguoi-tieu-duong-4793250.html) - 03:30 16/09/2024
+- 📝 [Lao màng bụng gây ứ dịch tiêu hóa](https://vnexpress.net/lao-mang-bung-gay-u-dich-tieu-hoa-4793257.html) - 03:00 16/09/2024
+- 💯 [Số người cao tuổi Nhật Bản tăng kỷ lục lên 36 triệu](https://vnexpress.net/so-nguoi-cao-tuoi-nhat-ban-tang-ky-luc-len-36-trieu-4793271.html) - 02:39 16/09/2024
+- 🌊 [5 món ăn thực vật giàu canxi tốt cho xương](https://vnexpress.net/5-mon-an-thuc-vat-giau-canxi-tot-cho-xuong-4793177.html) - 01:00 16/09/2024
+- 🚀 [Thiếu máu cơ tim do hẹp mạch vành](https://vnexpress.net/thieu-mau-co-tim-do-hep-mach-vanh-4793163.html) - 01:00 16/09/2024
+- 🕴 [&#39;Trầm cảm ở nam giới thường khó nhận biết&#39;](https://vnexpress.net/tram-cam-o-nam-gioi-thuong-kho-nhan-biet-4793132.html) - 00:00 16/09/2024
+- 🗽 [Bé trai tổn thương gan, thận sau khi bị ong đốt 70 vết](https://vnexpress.net/be-trai-ton-thuong-gan-than-sau-khi-bi-ong-dot-70-vet-4793168.html) - 23:59 15/09/2024
+- 🎡 [Cạn kiệt trứng tuổi đôi mươi](https://vnexpress.net/can-kiet-trung-tuoi-doi-muoi-4792908.html) - 23:00 15/09/2024
+- ⛽️ [&#39;Tinh binh&#39; lẫn máu sau quan hệ không an toàn](https://vnexpress.net/tinh-binh-lan-mau-sau-quan-he-khong-an-toan-4793156.html) - 19:00 15/09/2024
+- 🦆 [Ăn chay trường có bị yếu &#39;chuyện ấy&#39;?](https://vnexpress.net/an-chay-truong-co-bi-yeu-chuyen-ay-4793045.html) - 17:04 15/09/2024
+- 🤩 [Huyết áp cao ở người trẻ - kẻ giết người thầm lặng](https://vnexpress.net/huyet-ap-cao-o-nguoi-tre-ke-giet-nguoi-tham-lang-4793139.html) - 12:54 15/09/2024
+- 🦒 [Bị chuột rút khi bơi phải làm gì?](https://vnexpress.net/bi-chuot-rut-khi-boi-phai-lam-gi-4792117.html) - 09:31 15/09/2024
+- 💫 [Cách giảm đau đầu](https://vnexpress.net/cach-giam-dau-dau-4793032.html) - 08:00 15/09/2024
+- 🐘 [Một nạn nhân vụ lũ quét thôn ở Lào Cai không qua khỏi](https://vnexpress.net/mot-nan-nhan-vu-lu-quet-thon-o-lao-cai-khong-qua-khoi-4793080.html) - 07:35 15/09/2024
+- 🚀 [Vì sao dịch sởi bùng phát theo chu kỳ 4-5 năm?](https://vnexpress.net/vi-sao-dich-soi-bung-phat-theo-chu-ky-4-5-nam-4793079.html) - 07:00 15/09/2024
+- 🕯 [Trẻ mắc sởi thường giảm miễn dịch lâu dài](https://vnexpress.net/tre-mac-soi-thuong-giam-mien-dich-lau-dai-4793037.html) - 05:53 15/09/2024
+- 🦏 [Cách giúp trẻ tăng trí nhớ và tập trung](https://vnexpress.net/cach-giup-tre-tang-tri-nho-va-tap-trung-4793024.html) - 05:00 15/09/2024
+- 🦄 [Làm gì khi khó thở?](https://vnexpress.net/lam-gi-khi-kho-tho-4793006.html) - 05:00 15/09/2024
+- 🦒 [Có nên trữ nhiều thịt trên ngăn đá?](https://vnexpress.net/co-nen-tru-nhieu-thit-tren-ngan-da-4792194.html) - 04:00 15/09/2024
+- 👨‍🏫 [Cách phòng bệnh sởi ở trường học, nhà trẻ](https://vnexpress.net/cach-phong-benh-soi-o-truong-hoc-nha-tre-4793026.html) - 04:00 15/09/2024
+- 🌜 [Chỉ tập thể dục cuối tuần có tốt cho sức khỏe?](https://vnexpress.net/chi-tap-the-duc-cuoi-tuan-co-tot-cho-suc-khoe-4792996.html) - 04:00 15/09/2024
+- 🚀 [Ba loại hạt nhiều protein hơn trứng](https://vnexpress.net/ba-loai-hat-nhieu-protein-hon-trung-4792941.html) - 04:00 15/09/2024
+- 💃 [Ban sởi khác ban tay chân miệng thế nào](https://vnexpress.net/ban-soi-khac-ban-tay-chan-mieng-the-nao-4792997.html) - 03:00 15/09/2024
+- 💯 [Cách nào giảm nhanh ngứa họng?](https://vnexpress.net/cach-nao-giam-nhanh-ngua-hong-4792957.html) - 03:00 15/09/2024
+- 🤔 [Dị tật vô sọ ở thai nhi](https://vnexpress.net/di-tat-vo-so-o-thai-nhi-4792938.html) - 03:00 15/09/2024
+- 🎬 [Chọc tổ ong, một học sinh tử vong](https://vnexpress.net/choc-to-ong-mot-hoc-sinh-tu-vong-4792984.html) - 01:20 15/09/2024
+- 🪜 [6 cách giúp tiêu hóa tốt](https://vnexpress.net/6-cach-giup-tieu-hoa-tot-4792924.html) - 01:00 15/09/2024
+- 🦣 [Lợi ích của trà xanh với người bệnh tiểu đường](https://vnexpress.net/loi-ich-cua-tra-xanh-voi-nguoi-benh-tieu-duong-4792917.html) - 01:00 15/09/2024
+- 🧐 [Ung thư vòm họng có chữa khỏi không?](https://vnexpress.net/ung-thu-vom-hong-co-chua-khoi-khong-4792904.html) - 01:00 15/09/2024
+- 🤡 [Làm thế nào hạ huyết áp nhanh?](https://vnexpress.net/lam-the-nao-ha-huyet-ap-nhanh-4792889.html) - 01:00 15/09/2024
+- 👍 [Bệnh bạch tạng](https://vnexpress.net/benh-bach-tang-4791554.html) - 00:00 15/09/2024
+- 💡 [Loại bỏ 20 kg trong 4 tháng nhờ ăn thâm hụt](https://vnexpress.net/loai-bo-20-kg-trong-4-thang-nho-an-tham-hut-4789506.html) - 23:00 14/09/2024
+- 💯 [Gói hóa chất lột da trị tàn nhang khiến mặt cô gái bị viêm nhiễm](https://vnexpress.net/goi-hoa-chat-lot-da-tri-tan-nhang-khien-mat-co-gai-bi-viem-nhiem-4791379.html) - 22:00 14/09/2024
+- 🧠 [Nên đi tiểu sau khi xuất tinh bao lâu?](https://vnexpress.net/nen-di-tieu-sau-khi-xuat-tinh-bao-lau-4790370.html) - 17:01 14/09/2024
+- 🎡 [Thịt để tủ lạnh hơn một tháng có nên ăn?](https://vnexpress.net/thit-de-tu-lanh-hon-mot-thang-co-nen-an-4792225.html) - 12:43 14/09/2024
+- 🌏 [Nhiều giun đũa ký sinh trong đại tràng người đàn ông](https://vnexpress.net/nhieu-giun-dua-ky-sinh-trong-dai-trang-nguoi-dan-ong-4792896.html) - 10:18 14/09/2024
+- ⚗️ [TP HCM lập 12 tổ phản ứng nhanh chống dịch sởi tại trường học](https://vnexpress.net/tp-hcm-lap-12-to-phan-ung-nhanh-chong-dich-soi-tai-truong-hoc-4792825.html) - 04:46 14/09/2024
+- 👨‍🏫 [4 người nghi ngộ độc sau ăn nấm lạ](https://vnexpress.net/4-nguoi-nghi-ngo-doc-sau-an-nam-la-4792803.html) - 03:26 14/09/2024
+- 🤖 [Sản phụ Lào Cai đi bộ vượt rừng 40 km đến viện sinh con](https://vnexpress.net/san-phu-di-bo-vuot-rung-40-km-den-vien-sinh-con-4792740.html) - 00:38 14/09/2024<!-- vnexpress-suc-khoe:END -->
