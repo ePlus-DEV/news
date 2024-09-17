@@ -246,7 +246,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [Công an Hà Nội truy bắt nghi phạm vụ án mạng tại cửa hàng sửa xe máy](https://laodong.vn/phap-luat/cong-an-ha-noi-truy-bat-nghi-pham-vu-an-mang-tai-cua-hang-sua-xe-may-1395726.ldo) - 13:07 17/09/2024
 - 😺 [Nhờ trồng rau, nông dân có cuộc sống khấm khá](https://laodong.vn/kinh-doanh/nho-trong-rau-nong-dan-co-cuoc-song-kham-kha-1395697.ldo) - 13:04 17/09/2024
 - 🕴 [Công nhân bất ngờ nhận quà Trung thu từ công đoàn cơ sở](https://laodong.vn/cong-doan-toan-quoc/cong-nhan-bat-ngo-nhan-qua-trung-thu-tu-cong-doan-co-so-1395720.ldo) - 13:01 17/09/2024
-- 🌋 [Nguyên nhân và cách đối phó với sự cô đơn](https://laodong.vn/gia-dinh-hon-nhan/nguyen-nhan-va-cach-doi-pho-voi-su-co-don-1395235.ldo) - 13:00 17/09/2024
+- 🌋 [4 cách sử dụng khoai lang để làm đẹp da](https://laodong.vn/suc-khoe/4-cach-su-dung-khoai-lang-de-lam-dep-da-1395507.ldo) - 13:00 17/09/2024
 - 💄 [Năm 2025 có tiếp tục tăng lương cơ sở không?](https://laodong.vn/ban-doc/nam-2025-co-tiep-tuc-tang-luong-co-so-khong-1395598.ldo) - 13:00 17/09/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
