@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [&#39;Hello Ruby&#39; gợi ý trẻ em tư duy trong thế giới số](https://vnexpress.net/hello-ruby-goi-y-tre-em-tu-duy-trong-the-gioi-so-4785062.html) - 00:57 17/09/2024
+- 🌏 [&#39;Hello Ruby&#39; - phiêu lưu vào thế giới lập trình](https://vnexpress.net/hello-ruby-phieu-luu-vao-the-gioi-lap-trinh-4785062.html) - 00:57 17/09/2024
 - 💫 [Tạo hình dàn nhân vật phim kinh dị Tấm Cám](https://vnexpress.net/tao-hinh-dan-nhan-vat-phim-kinh-di-tam-cam-4793485.html) - 23:00 16/09/2024
 - 🌮 [Kỳ Duyên: &#39;Sai lầm quá khứ nhắc tôi tránh xa cám dỗ&#39;](https://vnexpress.net/ky-duyen-sai-lam-qua-khu-nhac-toi-tranh-xa-cam-do-4793510.html) - 17:05 16/09/2024
 - 🧠 [Thúy Hiền thi show &#39;Đạp gió&#39;](https://vnexpress.net/thuy-hien-thi-show-dap-gio-4793574.html) - 14:39 16/09/2024
