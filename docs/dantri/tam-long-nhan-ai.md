@@ -4,7 +4,7 @@ sidebar_position: 20
 ---
 
 <!-- dantri-tam-long-nhan-ai:START -->
-- 🌝 [Xuyên đêm vượt đường độc đạo trao cứu trợ cho bà con bị cô lập ở Lào Cai](https://dantri.com.vn/tam-long-nhan-ai/xuyen-dem-vuot-duong-doc-dao-trao-cuu-tro-cho-ba-con-bi-co-lap-o-lao-cai-20240917145001177.htm) - 09:10 17/09/2024
+- 🌝 [Xuyên đêm vượt đường độc đạo trao cứu trợ tới bà con bị cô lập ở Lào Cai](https://dantri.com.vn/tam-long-nhan-ai/xuyen-dem-vuot-duong-doc-dao-trao-cuu-tro-toi-ba-con-bi-co-lap-o-lao-cai-20240917145001177.htm) - 09:10 17/09/2024
 - 🌜 [Bạn đọc Dân trí góp yêu thương hướng về vùng lũ](https://dantri.com.vn/tam-long-nhan-ai/ban-doc-dan-tri-gop-yeu-thuong-huong-ve-vung-lu-20240917144252762.htm) - 07:44 17/09/2024
 - 👀 [Trẻ em khiếm thị Hà Nội vẽ gốm, hòa mình vào giá trị truyền thống Trung thu](https://dantri.com.vn/tam-long-nhan-ai/tre-em-khiem-thi-ha-noi-ve-gom-hoa-minh-vao-gia-tri-truyen-thong-trung-thu-20240917004827889.htm) - 02:33 17/09/2024
 - 🚀 [Vượt sóng mang Trung thu tới các em học sinh trên quần đảo Trường Sa](https://dantri.com.vn/tam-long-nhan-ai/vuot-song-mang-trung-thu-toi-cac-em-hoc-sinh-tren-quan-dao-truong-sa-20240917060719259.htm) - 23:29 16/09/2024
