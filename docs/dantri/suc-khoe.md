@@ -4,7 +4,7 @@ sidebar_position: 23
 ---
 
 <!-- dantri-suc-khoe:START -->
-- 🤔 [Hàng trăm trẻ em TPHCM tiêm an toàn tại VNVC ngày đầu chiến dịch &quot;vaccine sởi&quot;](https://dantri.com.vn/suc-khoe/hang-tram-tre-em-tphcm-tiem-an-toan-tai-vnvc-ngay-dau-chien-dich-vaccine-soi-20240917141743607.htm) - 07:53 17/09/2024
+- 🤔 [Hàng trăm trẻ TPHCM tiêm sởi miễn phí, an toàn tại VNVC ngày đầu tăng cường chiến dịch](https://dantri.com.vn/suc-khoe/hang-tram-tre-tphcm-tiem-soi-mien-phi-an-toan-tai-vnvc-ngay-dau-tang-cuong-chien-dich-20240917141743607.htm) - 07:53 17/09/2024
 - 🚦 [Đang lấy ráy tai bị người nhà va trúng, cô gái thủng màng nhĩ đến xương](https://dantri.com.vn/suc-khoe/dang-lay-ray-tai-bi-nguoi-nha-va-trung-co-gai-thung-mang-nhi-den-xuong-20240917124541748.htm) - 06:50 17/09/2024
 - 🤖 [Hàng loạt cơ sở nha khoa ở TPHCM bị xử phạt](https://dantri.com.vn/suc-khoe/hang-loat-co-so-nha-khoa-o-tphcm-bi-xu-phat-20240917115119813.htm) - 06:13 17/09/2024
 - 🐻 [Trước khi ngủ quên làm điều này có thể tăng nguy cơ mất trí nhớ](https://dantri.com.vn/suc-khoe/truoc-khi-ngu-quen-lam-dieu-nay-co-the-tang-nguy-co-mat-tri-nho-20240917080019101.htm) - 02:24 17/09/2024
