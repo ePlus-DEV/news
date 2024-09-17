@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Thí sinh 80 tuổi đầu tiên của cuộc thi Hoa hậu Hoàn vũ Hàn Quốc](https://dantri.com.vn/giai-tri/thi-sinh-80-tuoi-dau-tien-cua-cuoc-thi-hoa-hau-hoan-vu-han-quoc-20240917092907644.htm) - 03:14 17/09/2024
+- 🤩 [Thí sinh 80 tuổi đầu tiên của cuộc thi Hoa hậu Hoàn vũ Hàn Quốc](https://dantri.com.vn/giai-tri/thi-sinh-80-tuoi-dau-tien-cua-cuoc-thi-hoa-hau-hoan-vu-han-quoc-20240917092907644.htm) - 05:29 17/09/2024
 - 🔥 [Màn đu dây kể chuyện tình Langbiang ẵm giải cao tại Liên hoan Xiếc quốc tế](https://dantri.com.vn/giai-tri/man-du-day-ke-chuyen-tinh-langbiang-am-giai-cao-tai-lien-hoan-xiec-quoc-te-20240917002502913.htm) - 02:02 17/09/2024
 - 🚀 [Chí Trung và Chiều Xuân bị kỷ luật vì yêu sớm: Hôn nhân trái ngược nhau](https://dantri.com.vn/giai-tri/chi-trung-va-chieu-xuan-bi-ky-luat-vi-yeu-som-hon-nhan-trai-nguoc-nhau-20240917015100954.htm) - 01:41 17/09/2024
 - 🔥 [Rapper Rhymastic: &quot;Tôi phấn đấu 40 tuổi giải nghệ, không đi kiếm tiền nữa&quot;](https://dantri.com.vn/giai-tri/rapper-rhymastic-toi-phan-dau-40-tuoi-giai-nghe-khong-di-kiem-tien-nua-20240903233213837.htm) - 23:00 16/09/2024
