@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Trạm BOT ở cửa ngõ TP HCM ùn ứ ngày đầu thu phí](https://vnexpress.net/tram-bot-o-cua-ngo-tp-hcm-un-u-ngay-dau-thu-phi-4793821.html) - 05:52 17/09/2024
-- 🤓 [Sụt lún ven quốc lộ 14](https://vnexpress.net/sut-lun-ven-quoc-lo-14-4793804.html) - 05:37 17/09/2024
+- 🤓 [Sụt lún ven quốc lộ ở Đăk Nông](https://vnexpress.net/sut-lun-ven-quoc-lo-o-dak-nong-4793804.html) - 05:37 17/09/2024
 - ⚗️ [Mưa suốt đêm, Phú Quốc có nơi ngập gần một mét](https://vnexpress.net/mua-suot-dem-phu-quoc-co-noi-ngap-gan-mot-met-4793816.html) - 05:15 17/09/2024
 - 🌊 [8 vị trí chưa thể lưu thông trên các tuyến quốc lộ](https://vnexpress.net/8-vi-tri-chua-the-luu-thong-tren-cac-tuyen-quoc-lo-4793695.html) - 04:52 17/09/2024
 - 🎓 [Đề xuất nghỉ Tết Ất Tỵ 9 ngày](https://vnexpress.net/de-xuat-nghi-tet-at-ty-9-ngay-4793734.html) - 03:36 17/09/2024
