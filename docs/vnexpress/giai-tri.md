@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Sắc vóc diễn viên gốc Nhật giành giải xuất sắc ở Emmy](https://vnexpress.net/sac-voc-dien-vien-goc-nhat-gianh-giai-xuat-sac-o-emmy-4793726.html) - 05:00 17/09/2024
+- 🌏 [Sắc vóc diễn viên gốc Nhật đoạt giải xuất sắc ở Emmy](https://vnexpress.net/sac-voc-dien-vien-goc-nhat-doat-giai-xuat-sac-o-emmy-4793726.html) - 05:00 17/09/2024
 - 💫 [10 mốt túi hot Thu Đông 2024](https://vnexpress.net/10-mot-tui-hot-thu-dong-2024-4789420.html) - 03:51 17/09/2024
 - 🌮 [Người mẫu 81 tuổi thi Miss Universe Hàn](https://vnexpress.net/nguoi-mau-81-tuoi-thi-miss-universe-han-4793685.html) - 03:33 17/09/2024
 - 🧠 [&#39;Hello Ruby&#39; - phiêu lưu vào thế giới lập trình](https://vnexpress.net/hello-ruby-phieu-luu-vao-the-gioi-lap-trinh-4785062.html) - 00:57 17/09/2024
