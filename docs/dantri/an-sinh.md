@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- dantri-an-sinh:START -->
-- 👺 [Kênh Youtube gây phẫn nộ vì &quot;câu view&quot; từ mất mát của Làng Nủ](https://dantri.com.vn/an-sinh/kenh-youtube-gay-phan-no-vi-cau-view-tu-mat-mat-cua-lang-nu-20240917001917456.htm) - 01:23 17/09/2024
+- 👺 [&quot;Tập thể cán bộ&quot; ủng hộ 2.000 đồng: Lãnh đạo 1 xã ở Hà Nội than trời](https://dantri.com.vn/an-sinh/tap-the-can-bo-ung-ho-2000-dong-lanh-dao-1-xa-o-ha-noi-than-troi-20240916213834534.htm) - 01:56 17/09/2024
 - 👀 [Mang Tết Trung thu đến trẻ em nghèo, khó khăn](https://dantri.com.vn/an-sinh/mang-tet-trung-thu-den-tre-em-ngheo-kho-khan-20240916214711214.htm) - 01:00 17/09/2024
 - 💡 [Vụ 2 vợ chồng tử vong do tai nạn: 2 con thơ được nhận đỡ đầu](https://dantri.com.vn/an-sinh/vu-2-vo-chong-tu-vong-do-tai-nan-2-con-tho-duoc-nhan-do-dau-20240916203014133.htm) - 00:58 17/09/2024
 - 💄 [&quot;Kiếp nạn&quot; quần áo từ thiện: Váy ngủ mỏng tang, quần lót rách te tua](https://dantri.com.vn/an-sinh/kiep-nan-quan-ao-tu-thien-vay-ngu-mong-tang-quan-lot-rach-te-tua-20240916194607368.htm) - 00:21 17/09/2024
