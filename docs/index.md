@@ -255,7 +255,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Máy nhắn tin nổ hàng loạt, hàng trăm thành viên Hezbollah bị thương nặng](https://nld.com.vn/may-nhan-tin-no-hang-loat-hang-tram-thanh-vien-hezbollah-bi-thuong-nang-196240917224658597.htm) - 17:22 17/09/2024
+- 🐎 [Máy nhắn tin nổ hàng loạt, hàng ngàn thành viên Hezbollah bị thương nặng](https://nld.com.vn/may-nhan-tin-no-hang-loat-hang-tram-thanh-vien-hezbollah-bi-thuong-nang-196240917224658597.htm) - 17:22 17/09/2024
 - 😺 [Thông tin đáng chú ý trên báo in Người Lao Động ngày 18-9](https://nld.com.vn/thong-tin-dang-chu-y-tren-bao-in-nguoi-lao-dong-ngay-18-9-196240917222312347.htm) - 17:00 17/09/2024
 - 👍 [Hàng chục ngàn người đổ về Tòa thánh Tây Ninh dự đại lễ](https://nld.com.vn/hang-chuc-ngan-nguoi-do-ve-toa-thanh-tay-ninh-du-dai-le-196240917220559755.htm) - 15:18 17/09/2024
 - 🥷 [Vụ cựu Chủ tịch tỉnh Cà Mau kiện đòi lại nhà: Hủy án sơ thẩm](https://nld.com.vn/vu-cuu-chu-tich-tinh-ca-mau-kien-doi-lai-nha-huy-an-so-tham-196240917212826653.htm) - 14:59 17/09/2024
