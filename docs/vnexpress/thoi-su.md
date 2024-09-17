@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Phu nhân đại tướng Võ Nguyên Giáp qua đời](https://vnexpress.net/phu-nhan-dai-tuong-vo-nguyen-giap-qua-doi-4793935.html) - 10:09 17/09/2024
+- 🦒 [Phu nhân Đại tướng Võ Nguyên Giáp qua đời](https://vnexpress.net/phu-nhan-dai-tuong-vo-nguyen-giap-qua-doi-4793935.html) - 10:09 17/09/2024
 - 🤓 [Nhà dân ở TP HCM được xây tầng hầm trở lại](https://vnexpress.net/nha-dan-o-tp-hcm-duoc-xay-tang-ham-tro-lai-4793866.html) - 08:23 17/09/2024
 - ⚗️ [Trạm BOT ở cửa ngõ TP HCM ùn ứ ngày đầu thu phí](https://vnexpress.net/tram-bot-o-cua-ngo-tp-hcm-un-u-ngay-dau-thu-phi-4793821.html) - 05:52 17/09/2024
 - 🌊 [Sụt lún ven quốc lộ ở Đăk Nông](https://vnexpress.net/sut-lun-ven-quoc-lo-o-dak-nong-4793804.html) - 05:37 17/09/2024
