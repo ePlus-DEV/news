@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Máy nhắn tin của Hezbollah phát nổ hàng loạt, hơn 1.000 người bị thương](https://vnexpress.net/may-nhan-tin-cua-hezbollah-phat-no-hang-loat-hon-1-000-nguoi-bi-thuong-4794005.html) - 14:22 17/09/2024
+- 🎭 [Máy nhắn tin của Hezbollah phát nổ hàng loạt, hơn 2.700 người bị thương](https://vnexpress.net/may-nhan-tin-cua-hezbollah-phat-no-hang-loat-hon-2-700-nguoi-bi-thuong-4794005.html) - 14:22 17/09/2024
 - 🕴 [Nghi phạm âm mưu ám sát ông Trump từng làm gì ở Ukraine?](https://vnexpress.net/nghi-pham-am-muu-am-sat-ong-trump-tung-lam-gi-o-ukraine-4793710.html) - 13:06 17/09/2024
 - 🤭 [Nghi vấn quanh tuyên bố &#39;phóng tên lửa siêu vượt âm&#39; của Houthi](https://vnexpress.net/nghi-van-quanh-tuyen-bo-phong-ten-lua-sieu-vuot-am-cua-houthi-4793895.html) - 11:33 17/09/2024
 - 🧑‍💻 [Nga tuyên bố phá âm mưu ám sát &#39;của tình báo Ukraine&#39;](https://vnexpress.net/nga-tuyen-bo-pha-am-muu-am-sat-cua-tinh-bao-ukraine-4793918.html) - 11:28 17/09/2024
