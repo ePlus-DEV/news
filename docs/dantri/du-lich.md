@@ -4,7 +4,7 @@ sidebar_position: 22
 ---
 
 <!-- dantri-du-lich:START -->
-- 🥰 [Khách Tây thích thú ăn bát bún bò khổng lồ, &quot;mỡ nổi lềnh phềnh&quot; ở TPHCM](https://dantri.com.vn/du-lich/khach-tay-thich-thu-an-bat-bun-bo-khong-lo-mo-noi-lenh-phenh-o-tphcm-20240916044309911.htm) - 10:00 17/09/2024
+- 🥰 [Trung Quốc: Phát hiện gần 150 ngôi mộ cổ bên dưới sở thú](https://dantri.com.vn/du-lich/trung-quoc-phat-hien-gan-150-ngoi-mo-co-ben-duoi-so-thu-20240917162753580.htm) - 10:16 17/09/2024
 - 🥰 [Quyên góp hơn 2 tỷ đồng ủng hộ miền Bắc chỉ trong một buổi sáng](https://dantri.com.vn/du-lich/quyen-gop-hon-2-ty-dong-ung-ho-mien-bac-chi-trong-mot-buoi-sang-20240917144934949.htm) - 08:08 17/09/2024
 - 🐻 [Hai bộ xương cá voi ở đảo Lý Sơn xác lập kỷ lục Việt Nam](https://dantri.com.vn/du-lich/hai-bo-xuong-ca-voi-o-dao-ly-son-xac-lap-ky-luc-viet-nam-20240917121510744.htm) - 07:03 17/09/2024
 - 🤩 [Giống ngựa Belgian Draught quý chào đời tại Vinpearl Horse Academy](https://dantri.com.vn/du-lich/giong-ngua-belgian-draught-quy-chao-doi-tai-vinpearl-horse-academy-20240917103053414.htm) - 03:37 17/09/2024
