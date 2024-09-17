@@ -4,63 +4,63 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Khuyến khích lên chùa tìm người yêu](https://vnexpress.net/khuyen-khich-len-chua-tim-nguoi-yeu-4793524.html) - 03:55 17/09/2024
-- 🎓 [Bí quyết &#39;thăng hạng&#39; món ăn của vua đầu bếp Ngô Thanh Hòa](https://vnexpress.net/bi-quyet-thang-hang-mon-an-cua-vua-dau-bep-ngo-thanh-hoa-4793717.html) - 03:00 17/09/2024
-- 🚦 [Cứu trợ vùng bão lũ thế nào cho hiệu quả?](https://vnexpress.net/cuu-tro-vung-bao-lu-the-nao-cho-hieu-qua-4792677.html) - 23:00 16/09/2024
-- 🦣 [Người Thái Nguyên vực dậy sau lũ](https://vnexpress.net/nguoi-thai-nguyen-vuc-day-sau-lu-4793526.html) - 17:04 16/09/2024
-- 🎓 [Bún gà măng mọc](https://vnexpress.net/doi-song-cooking-bun-ga-mang-moc-4793484.html) - 12:00 16/09/2024
-- 🎭 [6 điều cần chú ý để cải thiện kỹ năng giao tiếp](https://vnexpress.net/6-dieu-can-chu-y-de-cai-thien-ky-nang-giao-tiep-4793529.html) - 09:34 16/09/2024
-- 🦅 [Tròn thập niên travel blogger Lý Thành Cơ rong ruổi khám phá thế giới](https://vnexpress.net/tron-thap-nien-travel-blogger-ly-thanh-co-rong-ruoi-kham-pha-the-gioi-4792609.html) - 08:18 16/09/2024
-- 🎃 [Chuyên gia: Đầu tư dài hạn cũng là cách tiết kiệm](https://vnexpress.net/chuyen-gia-dau-tu-dai-han-cung-la-cach-tiet-kiem-4792553.html) - 08:00 16/09/2024
-- 💪 [Dịch vụ nộp hộ đơn xin nghỉ việc](https://vnexpress.net/dich-vu-nop-ho-don-xin-nghi-viec-4792515.html) - 04:43 16/09/2024
-- 🐻 [Kiếm tiền nhờ thất nghiệp](https://vnexpress.net/kiem-tien-nho-that-nghiep-4793331.html) - 04:37 16/09/2024
-- 🧠 [Chuyên gia dinh dưỡng &#39;giải mã&#39; lợi ích của hạt và sữa hạt](https://vnexpress.net/chuyen-gia-dinh-duong-giai-ma-loi-ich-cua-hat-va-sua-hat-4793344.html) - 04:15 16/09/2024
-- 🐘 [Quỹ Hy vọng nhận 6 tỷ đồng ủng hộ đồng bào lũ lụt](https://vnexpress.net/quy-hy-vong-nhan-6-ty-dong-ung-ho-dong-bao-lu-lut-4793157.html) - 01:34 16/09/2024
-- 👹 [Khóa học chụp hình và chỉnh sửa ảnh bằng điện thoại trên eBox](https://vnexpress.net/khoa-hoc-chup-hinh-va-chinh-sua-anh-bang-dien-thoai-tren-ebox-4792828.html) - 01:00 16/09/2024
-- 💂 [Cô gái Việt &#39;trúng sét&#39; chàng trai Hàn Quốc](https://vnexpress.net/co-gai-viet-trung-set-chang-trai-han-quoc-4789663.html) - 23:00 15/09/2024
-- 🦍 [Chuyện tình của chàng thợ xây với cô gái có khuôn mặt lệch](https://vnexpress.net/chuyen-tinh-cua-chang-tho-xay-voi-co-gai-co-khuon-mat-lech-4789927.html) - 02:47 15/09/2024
-- 🧑‍🏫 [5 cách vượt qua kiệt sức do áp lực công việc](https://vnexpress.net/5-cach-vuot-qua-kiet-suc-do-ap-luc-cong-viec-4793022.html) - 02:16 15/09/2024
-- 🧰 [Chủ quán đề nghị khách thanh toán vào tài khoản Mặt trận Tổ quốc](https://vnexpress.net/chu-quan-de-nghi-khach-thanh-toan-vao-tai-khoan-mat-tran-to-quoc-4792907.html) - 23:00 14/09/2024
-- 🪄 [Gen Z Anh không thích làm nhân viên](https://vnexpress.net/gen-z-anh-khong-thich-lam-nhan-vien-4792922.html) - 22:49 14/09/2024
-- 🐲 [Nem rán Hà Nội cách đây gần 100 năm có gì?](https://vnexpress.net/doi-song-cooking-nem-ran-ha-noi-cach-day-gan-100-nam-co-gi-4792820.html) - 12:00 14/09/2024
-- 💻 [Hơn 100 người nước ngoài dọn dẹp cây đổ ở Hà Nội](https://vnexpress.net/hon-100-nguoi-nuoc-ngoai-don-dep-cay-do-o-ha-noi-4792903.html) - 10:41 14/09/2024
-- 🐘 [Tại sao thất tình lại gây cảm giác đau khổ?](https://vnexpress.net/tai-sao-that-tinh-lai-gay-cam-giac-dau-kho-4792911.html) - 10:10 14/09/2024
-- 🎬 [Đông nghịt người xếp hàng mua bánh Trung thu ở TP HCM](https://vnexpress.net/dong-nghit-nguoi-xep-hang-mua-banh-trung-thu-o-tp-hcm-4792822.html) - 06:33 14/09/2024
-- 💻 [Grab hỗ trợ người dân, đối tác thiệt hại do bão Yagi 8 tỷ đồng](https://vnexpress.net/grab-ho-tro-nguoi-dan-doi-tac-thiet-hai-do-bao-yagi-8-ty-dong-4792804.html) - 03:30 14/09/2024
-- 🧰 [Đứng dậy từ tay trắng sau bão Yagi](https://vnexpress.net/dung-day-tu-tay-trang-sau-bao-yagi-4792211.html) - 23:00 13/09/2024
-- 🫣 [Những người vật lộn với lũ cứu dân](https://vnexpress.net/nhung-nguoi-vat-lon-voi-lu-cuu-dan-4792305.html) - 19:01 13/09/2024
-- ⚗️ [Nộm rau muống Hà Nội kiểu xưa](https://vnexpress.net/doi-song-cooking-nom-rau-muong-ha-noi-kieu-xua-4792674.html) - 11:54 13/09/2024
-- 🌊 [Giải pháp kích hoạt khả năng tự phục hồi cho da nhạy cảm](https://vnexpress.net/giai-phap-kich-hoat-kha-nang-tu-phuc-hoi-cho-da-nhay-cam-4792649.html) - 11:00 13/09/2024
-- 💃 [10 quyết định thường gây hối hận trong đời](https://vnexpress.net/10-quyet-dinh-thuong-gay-hoi-han-trong-doi-4792604.html) - 08:43 13/09/2024
-- 🦆 [Phụ nữ Ấn Độ đi học làm thợ điện, lái xe](https://vnexpress.net/phu-nu-an-do-di-hoc-lam-tho-dien-lai-xe-4792107.html) - 08:14 13/09/2024
-- 🎓 [Bốn kiểu người độc thân](https://vnexpress.net/bon-kieu-nguoi-doc-than-4792137.html) - 08:14 13/09/2024
-- 💪 [Vinamilk tặng hơn 550.000 sản phẩm dinh dưỡng đến vùng bão lũ](https://vnexpress.net/vinamilk-tang-hon-550-000-san-pham-dinh-duong-den-vung-bao-lu-4792544.html) - 07:00 13/09/2024
-- 🤔 [Điểm lưu ý khi lập kế hoạch tài chính cá nhân cho người trẻ](https://vnexpress.net/diem-luu-y-khi-lap-ke-hoach-tai-chinh-ca-nhan-cho-nguoi-tre-4792496.html) - 05:15 13/09/2024
-- 🧰 [Hai bước xử lý nước sinh hoạt sau mùa lũ](https://vnexpress.net/hai-buoc-xu-ly-nuoc-sinh-hoat-sau-mua-lu-4792328.html) - 04:42 13/09/2024
-- 😎 [Sửa xe miễn phí cho người vùng lũ](https://vnexpress.net/sua-xe-mien-phi-cho-nguoi-vung-lu-4792210.html) - 03:30 13/09/2024
-- 🌮 [Sống sót sau 20 giờ bị bão Yagi cuốn ra biển](https://vnexpress.net/song-sot-sau-20-gio-bi-bao-yagi-cuon-ra-bien-4791591.html) - 23:00 12/09/2024
-- 🧠 [Những người nước ngoài cứu trợ bão lũ ở Việt Nam](https://vnexpress.net/nhung-nguoi-nuoc-ngoai-cuu-tro-bao-lu-o-viet-nam-4792060.html) - 10:20 12/09/2024
-- 🎡 [Người Hà Nội được cưu mang khi chạy lũ](https://vnexpress.net/nguoi-ha-noi-duoc-cuu-mang-khi-chay-lu-4792091.html) - 09:09 12/09/2024
-- 🎡 [Những quán cơm tiếp sức đoàn cứu trợ miền Bắc](https://vnexpress.net/nhung-quan-com-tiep-suc-doan-cuu-tro-mien-bac-4792026.html) - 07:33 12/09/2024
-- 🌏 [Gen Z xung đột với gia đình chồng, vợ nhiều nhất](https://vnexpress.net/gen-z-xung-dot-voi-gia-dinh-chong-vo-nhieu-nhat-4792037.html) - 04:37 12/09/2024
-- 🐻 [Xu hướng thuê người cosplay nhân vật game để hẹn hò](https://vnexpress.net/xu-huong-thue-nguoi-cosplay-nhan-vat-game-de-hen-ho-4791185.html) - 04:30 12/09/2024
-- 💂 [Người Hà Nội long đong chạy lũ](https://vnexpress.net/nguoi-ha-noi-long-dong-chay-lu-4791819.html) - 17:18 11/09/2024
-- 🥸 [Điểm chung trong thói quen ăn uống của người siêu thọ](https://vnexpress.net/diem-chung-trong-thoi-quen-an-uong-cua-nguoi-sieu-tho-4791704.html) - 12:00 11/09/2024
-- 🌋 [8.000 nhân viên Vietjet san sẻ khó khăn với người vùng lũ](https://vnexpress.net/8-000-nhan-vien-vietjet-san-se-kho-khan-voi-nguoi-vung-lu-4791811.html) - 12:00 11/09/2024
-- 🦩 [Canh cá nấu măng chua mùa mưa bão](https://vnexpress.net/doi-song-cooking-canh-ca-nau-mang-chua-mua-mua-bao-4791815.html) - 10:55 11/09/2024
-- 😺 [Cả làng trắng đêm gói bánh chưng gửi vùng lũ](https://vnexpress.net/ca-lang-trang-dem-goi-banh-chung-gui-vung-lu-4791556.html) - 08:18 11/09/2024
-- 🐻 [Ngày hội nhà sáng tạo nội dung số - Vietnam iContent lần đầu tổ chức](https://vnexpress.net/ngay-hoi-nha-sang-tao-noi-dung-so-vietnam-icontent-lan-dau-to-chuc-4791358.html) - 05:30 11/09/2024
-- 🎬 [Người Thái Nguyên xuyên đêm đắp đê ngăn lũ](https://vnexpress.net/nguoi-thai-nguyen-xuyen-dem-dap-de-ngan-lu-4791236.html) - 05:08 11/09/2024
-- 🎊 [Nấu cơm, làm bánh tặng người khó khăn sau bão](https://vnexpress.net/nau-com-lam-banh-tang-nguoi-kho-khan-sau-bao-4791378.html) - 23:00 10/09/2024
-- 💄 [Nhiều người đổ xô mua thực phẩm, bếp gas vì sợ lụt](https://vnexpress.net/nhieu-nguoi-do-xo-mua-thuc-pham-bep-gas-vi-so-lut-4791268.html) - 15:40 10/09/2024
-- 🏊 [Vietjet hỗ trợ vùng ảnh hưởng bão lũ](https://vnexpress.net/vietjet-ho-tro-vung-anh-huong-bao-lu-4791382.html) - 13:30 10/09/2024
-- 🌜 [Chạy quảng cáo để tìm người yêu](https://vnexpress.net/chay-quang-cao-de-tim-nguoi-yeu-4790201.html) - 08:20 10/09/2024
-- 🤡 [Quỹ Hy vọng cùng đồng bào vượt lũ](https://vnexpress.net/quy-hy-vong-cung-dong-bao-vuot-lu-4791218.html) - 08:18 10/09/2024
-- 🥰 [Nhật Bản sợ mất sức hút với lao động Đông Nam Á](https://vnexpress.net/nhat-ban-so-mat-suc-hut-voi-lao-dong-dong-nam-a-4791169.html) - 07:36 10/09/2024
-- 🦍 [Chiến lược &#39;địa phương hóa&#39; trên điều hòa Daikin](https://vnexpress.net/chien-luoc-dia-phuong-hoa-tren-dieu-hoa-daikin-4775559.html) - 07:00 10/09/2024
-- 🫣 [Người vùng lũ Thái Nguyên xúc động khi được giải cứu](https://vnexpress.net/nguoi-vung-lu-thai-nguyen-xuc-dong-khi-duoc-giai-cuu-4791122.html) - 05:53 10/09/2024
-- 🚦 [7 lý do khiến hẹn hò online thất bại](https://vnexpress.net/7-ly-do-khien-hen-ho-online-that-bai-4789544.html) - 03:44 10/09/2024
-- 🐘 [Nhiều Gen Z Trung Quốc muốn về nông thôn làm việc](https://vnexpress.net/nhieu-gen-z-trung-quoc-muon-ve-nong-thon-lam-viec-4790110.html) - 00:46 10/09/2024
-- 🔥 [Người Thái Nguyên căng mình trong lũ](https://vnexpress.net/nguoi-thai-nguyen-cang-minh-trong-lu-4790940.html) - 16:05 09/09/2024
-- 🎃 [Tỷ lệ sinh giảm, nhiều mẫu giáo Trung Quốc hết học sinh](https://vnexpress.net/ty-le-sinh-giam-nhieu-mau-giao-trung-quoc-het-hoc-sinh-4790851.html) - 12:00 09/09/2024
-- 🥳 [Chả tôm nướng Thanh Hóa](https://vnexpress.net/doi-song-cooking-cha-tom-nuong-thanh-hoa-4789860.html) - 10:29 09/09/2024<!-- vnexpress-doi-song:END -->
+- 🚀 [Không khí Trung thu ấm áp trên chuyến bay Vietjet](https://vnexpress.net/khong-khi-trung-thu-am-ap-tren-chuyen-bay-vietjet-4793794.html) - 05:00 17/09/2024
+- 🎓 [Bơi thuyền mang Trung thu cho trẻ vùng lụt](https://vnexpress.net/boi-thuyen-mang-trung-thu-cho-tre-vung-lut-4793789.html) - 04:37 17/09/2024
+- 🚦 [Khuyến khích lên chùa tìm người yêu](https://vnexpress.net/khuyen-khich-len-chua-tim-nguoi-yeu-4793524.html) - 03:55 17/09/2024
+- 🦣 [Bí quyết &#39;thăng hạng&#39; món ăn của vua đầu bếp Ngô Thanh Hòa](https://vnexpress.net/bi-quyet-thang-hang-mon-an-cua-vua-dau-bep-ngo-thanh-hoa-4793717.html) - 03:00 17/09/2024
+- 🎓 [Cứu trợ vùng bão lũ thế nào cho hiệu quả?](https://vnexpress.net/cuu-tro-vung-bao-lu-the-nao-cho-hieu-qua-4792677.html) - 23:00 16/09/2024
+- 🎭 [Người Thái Nguyên vực dậy sau lũ](https://vnexpress.net/nguoi-thai-nguyen-vuc-day-sau-lu-4793526.html) - 17:04 16/09/2024
+- 🦅 [Bún gà măng mọc](https://vnexpress.net/doi-song-cooking-bun-ga-mang-moc-4793484.html) - 12:00 16/09/2024
+- 🎃 [6 điều cần chú ý để cải thiện kỹ năng giao tiếp](https://vnexpress.net/6-dieu-can-chu-y-de-cai-thien-ky-nang-giao-tiep-4793529.html) - 09:34 16/09/2024
+- 💪 [Tròn thập niên travel blogger Lý Thành Cơ rong ruổi khám phá thế giới](https://vnexpress.net/tron-thap-nien-travel-blogger-ly-thanh-co-rong-ruoi-kham-pha-the-gioi-4792609.html) - 08:18 16/09/2024
+- 🐻 [Chuyên gia: Đầu tư dài hạn cũng là cách tiết kiệm](https://vnexpress.net/chuyen-gia-dau-tu-dai-han-cung-la-cach-tiet-kiem-4792553.html) - 08:00 16/09/2024
+- 🧠 [Dịch vụ nộp hộ đơn xin nghỉ việc](https://vnexpress.net/dich-vu-nop-ho-don-xin-nghi-viec-4792515.html) - 04:43 16/09/2024
+- 🐘 [Kiếm tiền nhờ thất nghiệp](https://vnexpress.net/kiem-tien-nho-that-nghiep-4793331.html) - 04:37 16/09/2024
+- 👹 [Chuyên gia dinh dưỡng &#39;giải mã&#39; lợi ích của hạt và sữa hạt](https://vnexpress.net/chuyen-gia-dinh-duong-giai-ma-loi-ich-cua-hat-va-sua-hat-4793344.html) - 04:15 16/09/2024
+- 💂 [Quỹ Hy vọng nhận 6 tỷ đồng ủng hộ đồng bào lũ lụt](https://vnexpress.net/quy-hy-vong-nhan-6-ty-dong-ung-ho-dong-bao-lu-lut-4793157.html) - 01:34 16/09/2024
+- 🦍 [Khóa học chụp hình và chỉnh sửa ảnh bằng điện thoại trên eBox](https://vnexpress.net/khoa-hoc-chup-hinh-va-chinh-sua-anh-bang-dien-thoai-tren-ebox-4792828.html) - 01:00 16/09/2024
+- 🧑‍🏫 [Cô gái Việt &#39;trúng sét&#39; chàng trai Hàn Quốc](https://vnexpress.net/co-gai-viet-trung-set-chang-trai-han-quoc-4789663.html) - 23:00 15/09/2024
+- 🧰 [Chuyện tình của chàng thợ xây với cô gái có khuôn mặt lệch](https://vnexpress.net/chuyen-tinh-cua-chang-tho-xay-voi-co-gai-co-khuon-mat-lech-4789927.html) - 02:47 15/09/2024
+- 🪄 [5 cách vượt qua kiệt sức do áp lực công việc](https://vnexpress.net/5-cach-vuot-qua-kiet-suc-do-ap-luc-cong-viec-4793022.html) - 02:16 15/09/2024
+- 🐲 [Chủ quán đề nghị khách thanh toán vào tài khoản Mặt trận Tổ quốc](https://vnexpress.net/chu-quan-de-nghi-khach-thanh-toan-vao-tai-khoan-mat-tran-to-quoc-4792907.html) - 23:00 14/09/2024
+- 💻 [Gen Z Anh không thích làm nhân viên](https://vnexpress.net/gen-z-anh-khong-thich-lam-nhan-vien-4792922.html) - 22:49 14/09/2024
+- 🐘 [Nem rán Hà Nội cách đây gần 100 năm có gì?](https://vnexpress.net/doi-song-cooking-nem-ran-ha-noi-cach-day-gan-100-nam-co-gi-4792820.html) - 12:00 14/09/2024
+- 🎬 [Hơn 100 người nước ngoài dọn dẹp cây đổ ở Hà Nội](https://vnexpress.net/hon-100-nguoi-nuoc-ngoai-don-dep-cay-do-o-ha-noi-4792903.html) - 10:41 14/09/2024
+- 💻 [Tại sao thất tình lại gây cảm giác đau khổ?](https://vnexpress.net/tai-sao-that-tinh-lai-gay-cam-giac-dau-kho-4792911.html) - 10:10 14/09/2024
+- 🧰 [Đông nghịt người xếp hàng mua bánh Trung thu ở TP HCM](https://vnexpress.net/dong-nghit-nguoi-xep-hang-mua-banh-trung-thu-o-tp-hcm-4792822.html) - 06:33 14/09/2024
+- 🫣 [Grab hỗ trợ người dân, đối tác thiệt hại do bão Yagi 8 tỷ đồng](https://vnexpress.net/grab-ho-tro-nguoi-dan-doi-tac-thiet-hai-do-bao-yagi-8-ty-dong-4792804.html) - 03:30 14/09/2024
+- ⚗️ [Đứng dậy từ tay trắng sau bão Yagi](https://vnexpress.net/dung-day-tu-tay-trang-sau-bao-yagi-4792211.html) - 23:00 13/09/2024
+- 🌊 [Những người vật lộn với lũ cứu dân](https://vnexpress.net/nhung-nguoi-vat-lon-voi-lu-cuu-dan-4792305.html) - 19:01 13/09/2024
+- 💃 [Nộm rau muống Hà Nội kiểu xưa](https://vnexpress.net/doi-song-cooking-nom-rau-muong-ha-noi-kieu-xua-4792674.html) - 11:54 13/09/2024
+- 🦆 [Giải pháp kích hoạt khả năng tự phục hồi cho da nhạy cảm](https://vnexpress.net/giai-phap-kich-hoat-kha-nang-tu-phuc-hoi-cho-da-nhay-cam-4792649.html) - 11:00 13/09/2024
+- 🎓 [10 quyết định thường gây hối hận trong đời](https://vnexpress.net/10-quyet-dinh-thuong-gay-hoi-han-trong-doi-4792604.html) - 08:43 13/09/2024
+- 💪 [Phụ nữ Ấn Độ đi học làm thợ điện, lái xe](https://vnexpress.net/phu-nu-an-do-di-hoc-lam-tho-dien-lai-xe-4792107.html) - 08:14 13/09/2024
+- 🤔 [Bốn kiểu người độc thân](https://vnexpress.net/bon-kieu-nguoi-doc-than-4792137.html) - 08:14 13/09/2024
+- 🧰 [Vinamilk tặng hơn 550.000 sản phẩm dinh dưỡng đến vùng bão lũ](https://vnexpress.net/vinamilk-tang-hon-550-000-san-pham-dinh-duong-den-vung-bao-lu-4792544.html) - 07:00 13/09/2024
+- 😎 [Điểm lưu ý khi lập kế hoạch tài chính cá nhân cho người trẻ](https://vnexpress.net/diem-luu-y-khi-lap-ke-hoach-tai-chinh-ca-nhan-cho-nguoi-tre-4792496.html) - 05:15 13/09/2024
+- 🌮 [Hai bước xử lý nước sinh hoạt sau mùa lũ](https://vnexpress.net/hai-buoc-xu-ly-nuoc-sinh-hoat-sau-mua-lu-4792328.html) - 04:42 13/09/2024
+- 🧠 [Sửa xe miễn phí cho người vùng lũ](https://vnexpress.net/sua-xe-mien-phi-cho-nguoi-vung-lu-4792210.html) - 03:30 13/09/2024
+- 🎡 [Sống sót sau 20 giờ bị bão Yagi cuốn ra biển](https://vnexpress.net/song-sot-sau-20-gio-bi-bao-yagi-cuon-ra-bien-4791591.html) - 23:00 12/09/2024
+- 🎡 [Những người nước ngoài cứu trợ bão lũ ở Việt Nam](https://vnexpress.net/nhung-nguoi-nuoc-ngoai-cuu-tro-bao-lu-o-viet-nam-4792060.html) - 10:20 12/09/2024
+- 🌏 [Người Hà Nội được cưu mang khi chạy lũ](https://vnexpress.net/nguoi-ha-noi-duoc-cuu-mang-khi-chay-lu-4792091.html) - 09:09 12/09/2024
+- 🐻 [Những quán cơm tiếp sức đoàn cứu trợ miền Bắc](https://vnexpress.net/nhung-quan-com-tiep-suc-doan-cuu-tro-mien-bac-4792026.html) - 07:33 12/09/2024
+- 💂 [Gen Z xung đột với gia đình chồng, vợ nhiều nhất](https://vnexpress.net/gen-z-xung-dot-voi-gia-dinh-chong-vo-nhieu-nhat-4792037.html) - 04:37 12/09/2024
+- 🥸 [Xu hướng thuê người cosplay nhân vật game để hẹn hò](https://vnexpress.net/xu-huong-thue-nguoi-cosplay-nhan-vat-game-de-hen-ho-4791185.html) - 04:30 12/09/2024
+- 🌋 [Người Hà Nội long đong chạy lũ](https://vnexpress.net/nguoi-ha-noi-long-dong-chay-lu-4791819.html) - 17:18 11/09/2024
+- 🦩 [Điểm chung trong thói quen ăn uống của người siêu thọ](https://vnexpress.net/diem-chung-trong-thoi-quen-an-uong-cua-nguoi-sieu-tho-4791704.html) - 12:00 11/09/2024
+- 😺 [8.000 nhân viên Vietjet san sẻ khó khăn với người vùng lũ](https://vnexpress.net/8-000-nhan-vien-vietjet-san-se-kho-khan-voi-nguoi-vung-lu-4791811.html) - 12:00 11/09/2024
+- 🐻 [Canh cá nấu măng chua mùa mưa bão](https://vnexpress.net/doi-song-cooking-canh-ca-nau-mang-chua-mua-mua-bao-4791815.html) - 10:55 11/09/2024
+- 🎬 [Cả làng trắng đêm gói bánh chưng gửi vùng lũ](https://vnexpress.net/ca-lang-trang-dem-goi-banh-chung-gui-vung-lu-4791556.html) - 08:18 11/09/2024
+- 🎊 [Ngày hội nhà sáng tạo nội dung số - Vietnam iContent lần đầu tổ chức](https://vnexpress.net/ngay-hoi-nha-sang-tao-noi-dung-so-vietnam-icontent-lan-dau-to-chuc-4791358.html) - 05:30 11/09/2024
+- 💄 [Người Thái Nguyên xuyên đêm đắp đê ngăn lũ](https://vnexpress.net/nguoi-thai-nguyen-xuyen-dem-dap-de-ngan-lu-4791236.html) - 05:08 11/09/2024
+- 🏊 [Nấu cơm, làm bánh tặng người khó khăn sau bão](https://vnexpress.net/nau-com-lam-banh-tang-nguoi-kho-khan-sau-bao-4791378.html) - 23:00 10/09/2024
+- 🌜 [Nhiều người đổ xô mua thực phẩm, bếp gas vì sợ lụt](https://vnexpress.net/nhieu-nguoi-do-xo-mua-thuc-pham-bep-gas-vi-so-lut-4791268.html) - 15:40 10/09/2024
+- 🤡 [Vietjet hỗ trợ vùng ảnh hưởng bão lũ](https://vnexpress.net/vietjet-ho-tro-vung-anh-huong-bao-lu-4791382.html) - 13:30 10/09/2024
+- 🥰 [Chạy quảng cáo để tìm người yêu](https://vnexpress.net/chay-quang-cao-de-tim-nguoi-yeu-4790201.html) - 08:20 10/09/2024
+- 🦍 [Quỹ Hy vọng cùng đồng bào vượt lũ](https://vnexpress.net/quy-hy-vong-cung-dong-bao-vuot-lu-4791218.html) - 08:18 10/09/2024
+- 🫣 [Nhật Bản sợ mất sức hút với lao động Đông Nam Á](https://vnexpress.net/nhat-ban-so-mat-suc-hut-voi-lao-dong-dong-nam-a-4791169.html) - 07:36 10/09/2024
+- 🚦 [Chiến lược &#39;địa phương hóa&#39; trên điều hòa Daikin](https://vnexpress.net/chien-luoc-dia-phuong-hoa-tren-dieu-hoa-daikin-4775559.html) - 07:00 10/09/2024
+- 🐘 [Người vùng lũ Thái Nguyên xúc động khi được giải cứu](https://vnexpress.net/nguoi-vung-lu-thai-nguyen-xuc-dong-khi-duoc-giai-cuu-4791122.html) - 05:53 10/09/2024
+- 🔥 [7 lý do khiến hẹn hò online thất bại](https://vnexpress.net/7-ly-do-khien-hen-ho-online-that-bai-4789544.html) - 03:44 10/09/2024
+- 🎃 [Nhiều Gen Z Trung Quốc muốn về nông thôn làm việc](https://vnexpress.net/nhieu-gen-z-trung-quoc-muon-ve-nong-thon-lam-viec-4790110.html) - 00:46 10/09/2024
+- 🥳 [Người Thái Nguyên căng mình trong lũ](https://vnexpress.net/nguoi-thai-nguyen-cang-minh-trong-lu-4790940.html) - 16:05 09/09/2024<!-- vnexpress-doi-song:END -->
