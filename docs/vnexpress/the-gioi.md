@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [UAV vũ trang Nga tập kích &#39;pháo M270, xe tăng Leopard Ukraine&#39;](https://vnexpress.net/uav-vu-trang-nga-tap-kich-phao-m270-xe-tang-leopard-ukraine-4793659.html) - 04:42 17/09/2024
-- 🕴 [Elon Musk hứng chỉ trích vì bài đăng sau vụ ông Trump suýt bị ám sát](https://vnexpress.net/elon-musk-hung-chi-trich-vi-bai-dang-sau-vu-ong-trump-suyt-bi-am-sat-4793713.html) - 04:22 17/09/2024
+- 🕴 [Nhà Trắng chỉ trích Elon Musk về bài đăng sau vụ ông Trump suýt bị ám sát](https://vnexpress.net/nha-trang-chi-trich-elon-musk-ve-bai-dang-sau-vu-ong-trump-suyt-bi-am-sat-4793713.html) - 04:22 17/09/2024
 - 🤭 [Mỹ hoàn tất rút quân khỏi Niger](https://vnexpress.net/my-hoan-tat-rut-quan-khoi-niger-4793633.html) - 03:48 17/09/2024
 - 🧑‍💻 [Ông Trump kể phút được mật vụ bảo vệ trong âm mưu ám sát](https://vnexpress.net/ong-trump-ke-phut-duoc-mat-vu-bao-ve-trong-am-muu-am-sat-4793646.html) - 03:47 17/09/2024
 - 🦏 [Khoảnh khắc Houthi phóng &#39;tên lửa siêu vượt âm&#39; vào Israel](https://vnexpress.net/khoanh-khac-houthi-phong-ten-lua-sieu-vuot-am-vao-israel-4793641.html) - 03:33 17/09/2024
