@@ -6,7 +6,7 @@ sidebar_position: 16
 <!-- dantri-su-kien:START -->
 - 🎭 [Phu nhân Đại tướng Võ Nguyên Giáp qua đời](https://dantri.com.vn/xa-hoi/phu-nhan-dai-tuong-vo-nguyen-giap-qua-doi-20240917141402171.htm) - 08:08 17/09/2024
 - 👨‍🏫 [Tốc chiến và vây bọc: Chiến thuật mới của Ukraine ở Kursk?](https://dantri.com.vn/the-gioi/toc-chien-va-vay-boc-chien-thuat-moi-cua-ukraine-o-kursk-20240917144358304.htm) - 07:58 17/09/2024
-- 🌮 [Hàng trăm trẻ em TPHCM tiêm an toàn tại VNVC ngày đầu chiến dịch &quot;vaccine sởi&quot;](https://dantri.com.vn/suc-khoe/hang-tram-tre-em-tphcm-tiem-an-toan-tai-vnvc-ngay-dau-chien-dich-vaccine-soi-20240917141743607.htm) - 07:53 17/09/2024
+- 🌮 [Hàng trăm trẻ TPHCM tiêm sởi miễn phí, an toàn tại VNVC ngày đầu tăng cường chiến dịch](https://dantri.com.vn/suc-khoe/hang-tram-tre-tphcm-tiem-soi-mien-phi-an-toan-tai-vnvc-ngay-dau-tang-cuong-chien-dich-20240917141743607.htm) - 07:53 17/09/2024
 - 🕯 [&quot;Ngoài chăm lo vật chất, phải đảm bảo mọi trẻ khuyết tật được đến trường&quot;](https://dantri.com.vn/an-sinh/ngoai-cham-lo-vat-chat-phai-dam-bao-moi-tre-khuyet-tat-duoc-den-truong-20240917135917418.htm) - 07:31 17/09/2024
 - 🪜 [Đồi nứt toác hàng trăm mét ở Hòa Bình, 200 người được sơ tán khẩn cấp](https://dantri.com.vn/xa-hoi/doi-nut-toac-hang-tram-met-o-hoa-binh-200-nguoi-duoc-so-tan-khan-cap-20240917120221934.htm) - 06:13 17/09/2024
 - 🐘 [Áp thấp nhiệt đới vào Biển Đông](https://dantri.com.vn/xa-hoi/ap-thap-nhiet-doi-vao-bien-dong-20240917120608320.htm) - 06:06 17/09/2024
