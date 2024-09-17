@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Xuyên đêm vượt đường độc đạo trao cứu trợ cho bà con bị cô lập ở Lào Cai](https://dantri.com.vn/tam-long-nhan-ai/xuyen-dem-vuot-duong-doc-dao-trao-cuu-tro-cho-ba-con-bi-co-lap-o-lao-cai-20240917145001177.htm) - 09:10 17/09/2024
+- 🤠 [Xuyên đêm vượt đường độc đạo trao cứu trợ tới bà con bị cô lập ở Lào Cai](https://dantri.com.vn/tam-long-nhan-ai/xuyen-dem-vuot-duong-doc-dao-trao-cuu-tro-toi-ba-con-bi-co-lap-o-lao-cai-20240917145001177.htm) - 09:10 17/09/2024
 - 🌈 [Làm ESG khó hay dễ, doanh nghiệp có nên thuê tư vấn?](https://dantri.com.vn/kinh-doanh/lam-esg-kho-hay-de-doanh-nghiep-co-nen-thue-tu-van-20240830080611977.htm) - 04:18 17/09/2024
 - 🐎 [Trung thu ở viện nhi mưa tầm tã, cha mẹ lo lắng tình hình bão lũ quê nhà](https://dantri.com.vn/suc-khoe/trung-thu-o-vien-nhi-mua-tam-ta-cha-me-lo-lang-tinh-hinh-bao-lu-que-nha-20240916131904990.htm) - 00:01 17/09/2024
 - 👹 [TS Nguyễn Ngọc Huy: &quot;Vẫn chưa hết bàng hoàng khi nhắc tới bão số 3&quot;](https://dantri.com.vn/khoa-hoc-cong-nghe/ts-nguyen-ngoc-huy-van-chua-het-bang-hoang-khi-nhac-toi-bao-so-3-20240916021653100.htm) - 01:09 16/09/2024
