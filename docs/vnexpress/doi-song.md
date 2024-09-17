@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Mặt trái của những đoàn cứu trợ tự phát](https://vnexpress.net/mat-trai-cua-nhung-doan-cuu-tro-tu-phat-4792677.html) - 23:00 16/09/2024
+- 🚀 [Cứu trợ bão lũ thế nào cho hiệu quả?](https://vnexpress.net/cuu-tro-bao-lu-the-nao-cho-hieu-qua-4792677.html) - 23:00 16/09/2024
 - 🎓 [Người Thái Nguyên vực dậy sau lũ](https://vnexpress.net/nguoi-thai-nguyen-vuc-day-sau-lu-4793526.html) - 17:04 16/09/2024
 - 🚦 [Bún gà măng mọc](https://vnexpress.net/bun-ga-mang-moc-4793484.html) - 12:00 16/09/2024
 - 🦣 [6 điều cần chú ý để cải thiện kỹ năng giao tiếp](https://vnexpress.net/6-dieu-can-chu-y-de-cai-thien-ky-nang-giao-tiep-4793529.html) - 09:34 16/09/2024
