@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Đập kính ôtô, tấn công tài xế sau va chạm giao thông](https://vnexpress.net/dap-kinh-oto-tan-cong-tai-xe-sau-va-cham-giao-thong-4793835.html) - 06:00 17/09/2024
+- 😎 [Đập vỡ kính ôtô, tấn công tài xế sau va chạm giao thông](https://vnexpress.net/dap-vo-kinh-oto-tan-cong-tai-xe-sau-va-cham-giao-thong-4793835.html) - 06:00 17/09/2024
 - 🥰 [Phó giám đốc trung tâm đăng kiểm của tỉnh Kon Tum bị khởi tố](https://vnexpress.net/pho-giam-doc-trung-tam-dang-kiem-cua-tinh-kon-tum-bi-khoi-to-4793815.html) - 05:35 17/09/2024
 - 🎓 [Lời khai của người lái ôtô tông chết bé gái trong sân trường](https://vnexpress.net/loi-khai-cua-nguoi-lai-oto-tong-chet-be-gai-trong-san-truong-4793800.html) - 04:17 17/09/2024
 - 🤓 [Nhóm thiếu niên buôn ma túy ở ven TP HCM bị bắt](https://vnexpress.net/nhom-thieu-nien-buon-ma-tuy-o-ven-tp-hcm-bi-bat-4793584.html) - 17:00 16/09/2024
