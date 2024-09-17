@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Neymar nói điều gây sốc về Kylian Mbappe, quan hệ rạn nứt nghiêm trọng](https://dantri.com.vn/the-thao/neymar-noi-dieu-gay-soc-ve-kylian-mbappe-quan-he-ran-nut-nghiem-trong-20240917114414308.htm) - 04:45 17/09/2024
+- 🎡 [Neymar nói điều gây sốc về Kylian Mbappe, quan hệ rạn nứt nghiêm trọng](https://dantri.com.vn/the-thao/neymar-noi-dieu-gay-soc-ve-kylian-mbappe-quan-he-ran-nut-nghiem-trong-20240917114414308.htm) - 06:43 17/09/2024
 - 💯 [Lịch thi đấu khó khăn chờ đợi HLV Erik Ten Hag tại Man Utd](https://dantri.com.vn/the-thao/lich-thi-dau-kho-khan-cho-doi-hlv-erik-ten-hag-tai-man-utd-20240917085953961.htm) - 04:00 17/09/2024
 - ⛽️ [Báo chí thế giới ca ngợi chiến tích của cờ vua Việt Nam ở Olympiad](https://dantri.com.vn/the-thao/bao-chi-the-gioi-ca-ngoi-chien-tich-cua-co-vua-viet-nam-o-olympiad-20240917101428013.htm) - 03:48 17/09/2024
 - 💃 [Nhận định AC Milan - Liverpool &lpar;2h00 ngày 18/9&rpar;: Những ký ức oai hùng](https://dantri.com.vn/the-thao/nhan-dinh-ac-milan-liverpool-2h00-ngay-189-nhung-ky-uc-oai-hung-20240917100157812.htm) - 03:45 17/09/2024
