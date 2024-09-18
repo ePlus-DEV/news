@@ -60,7 +60,7 @@ sidebar_position: 1
 - ⛽️ [Làng đào Nhật Tân tan hoang sau lũ kỷ lục](https://vnexpress.net/lang-dao-nhat-tan-tan-hoang-sau-lu-ky-luc-4792925.html) - 04:41 15/09/2024
 - 🗽 [Tìm thấy thi thể đầu tiên vụ sập cầu Phong Châu](https://vnexpress.net/tim-thay-thi-the-dau-tien-vu-sap-cau-phong-chau-4792995.html) - 02:17 15/09/2024
 - 🔥 [Diện mạo đường 3.800 tỷ đồng nối Bình Dương với các tỉnh Đông Nam Bộ](https://vnexpress.net/dien-mao-duong-3-800-ty-dong-noi-binh-duong-voi-cac-tinh-dong-nam-bo-4792892.html) - 23:00 14/09/2024
-- 💯 [292 người chết, 38 người mất tích sau bão Yagi](https://vnexpress.net/292-nguoi-chet-38-nguoi-mat-tich-sau-bao-yagi-4790982.html) - 17:00 14/09/2024
+- 💯 [298 người chết, 35 người mất tích sau bão Yagi](https://vnexpress.net/298-nguoi-chet-35-nguoi-mat-tich-sau-bao-yagi-4790982.html) - 17:00 14/09/2024
 - 🦆 [Hải Phòng thiệt hại gần 11.000 tỷ đồng vì bão Yagi](https://vnexpress.net/hai-phong-thiet-hai-gan-11-000-ty-dong-vi-bao-yagi-4792944.html) - 17:00 14/09/2024
 - 🫣 [Phát hiện công xưởng chế tác mũi khoan bằng đá hàng nghìn năm tuổi ở Tây Nguyên](https://vnexpress.net/phat-hien-cong-xuong-che-tac-mui-khoan-bang-da-hang-nghin-nam-tuoi-o-tay-nguyen-4792748.html) - 17:00 14/09/2024
 - 🤡 [Người đàn ông tử vong sau tai nạn liên hoàn](https://vnexpress.net/nguoi-dan-ong-tu-vong-sau-tai-nan-lien-hoan-4792955.html) - 15:59 14/09/2024<!-- vnexpress-thoi-su:END -->
