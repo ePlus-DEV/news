@@ -4,8 +4,8 @@ sidebar_position: 22
 ---
 
 <!-- dantri-du-lich:START -->
+- 🥰 [Vụ giá vé vào ga Đà Lạt tăng 10 lần: Miễn phí vé cho người trên 80 tuổi](https://dantri.com.vn/du-lich/vu-gia-ve-vao-ga-da-lat-tang-10-lan-mien-phi-ve-cho-nguoi-tren-80-tuoi-20240917171943017.htm) - 23:55 17/09/2024
 - 🥰 [Thấy gì từ việc tỷ phú Ấn Độ đưa 4.500 nhân viên đến Việt Nam du lịch?](https://dantri.com.vn/du-lich/thay-gi-tu-viec-ty-phu-an-do-dua-4500-nhan-vien-den-viet-nam-du-lich-20240915123541180.htm) - 23:00 17/09/2024
-- 🥰 [Khách Tây thích thú ăn bát bún bò khổng lồ, &quot;mỡ nổi lềnh phềnh&quot; ở TPHCM](https://dantri.com.vn/du-lich/khach-tay-thich-thu-an-bat-bun-bo-khong-lo-mo-noi-lenh-phenh-o-tphcm-20240916044309911.htm) - 23:00 17/09/2024
 - 🐻 [Bình chọn điểm du lịch hấp dẫn của TPHCM và miền Tây](https://dantri.com.vn/du-lich/binh-chon-diem-du-lich-hap-dan-cua-tphcm-va-mien-tay-20240917155922368.htm) - 10:23 17/09/2024
 - 🤩 [Trung Quốc: Phát hiện gần 150 ngôi mộ cổ bên dưới sở thú](https://dantri.com.vn/du-lich/trung-quoc-phat-hien-gan-150-ngoi-mo-co-ben-duoi-so-thu-20240917162753580.htm) - 10:16 17/09/2024
 - 🕴 [Quyên góp hơn 2 tỷ đồng ủng hộ miền Bắc chỉ trong một buổi sáng](https://dantri.com.vn/du-lich/quyen-gop-hon-2-ty-dong-ung-ho-mien-bac-chi-trong-mot-buoi-sang-20240917144934949.htm) - 08:08 17/09/2024
