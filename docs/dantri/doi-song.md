@@ -4,9 +4,9 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Thi nấu ăn online &quot;săn&quot; áo đấu có chữ ký của Erling Haaland](https://dantri.com.vn/doi-song/thi-nau-an-online-san-ao-dau-co-chu-ky-cua-erling-haaland-20240917231539787.htm) - 02:00 18/09/2024
-- 🌁 [Hà Nội: Thanh niên thôn múa lân thổi lửa vui Tết Trung thu](https://dantri.com.vn/doi-song/ha-noi-thanh-nien-thon-mua-lan-thoi-lua-vui-tet-trung-thu-20240918082745795.htm) - 01:42 18/09/2024
-- 👀 [Khách Tây thích thú ăn bát bún bò khổng lồ, &quot;mỡ nổi lềnh phềnh&quot; ở TPHCM](https://dantri.com.vn/doi-song/khach-tay-thich-thu-an-bat-bun-bo-khong-lo-mo-noi-lenh-phenh-o-tphcm-20240916044309911.htm) - 23:00 17/09/2024
+- 🥳 [Phát hiện nhiều vàng trong đồ cứu trợ ở Lào Cai: Chưa rõ chủ nhân là ai](https://dantri.com.vn/doi-song/phat-hien-nhieu-vang-trong-do-cuu-tro-o-lao-cai-chua-ro-chu-nhan-la-ai-20240918100745530.htm) - 03:27 18/09/2024
+- 🌁 [Thi nấu ăn online &quot;săn&quot; áo đấu có chữ ký của Erling Haaland](https://dantri.com.vn/doi-song/thi-nau-an-online-san-ao-dau-co-chu-ky-cua-erling-haaland-20240917231539787.htm) - 02:00 18/09/2024
+- 👀 [Hà Nội: Thanh niên thôn múa lân thổi lửa vui Tết Trung thu](https://dantri.com.vn/doi-song/ha-noi-thanh-nien-thon-mua-lan-thoi-lua-vui-tet-trung-thu-20240918082745795.htm) - 01:42 18/09/2024
 - 🐻 [Người trẻ Hà Nội bơi thuyền mang Trung thu đến trẻ em vùng ngập bị cắt điện](https://dantri.com.vn/doi-song/nguoi-tre-ha-noi-boi-thuyen-mang-trung-thu-den-tre-em-vung-ngap-bi-cat-dien-20240917190800425.htm) - 12:12 17/09/2024
 - 🦅 [Những tấm gương khuyết tật quên mình vì cộng đồng](https://dantri.com.vn/doi-song/nhung-tam-guong-khuyet-tat-quen-minh-vi-cong-dong-20240917174434118.htm) - 12:00 17/09/2024
 - 🦩 [Carlsberg Việt Nam cùng nhân viên đóng góp hơn 1,1 tỷ đồng hỗ trợ các tỉnh vùng lũ](https://dantri.com.vn/doi-song/carlsberg-viet-nam-cung-nhan-vien-dong-gop-hon-11-ty-dong-ho-tro-cac-tinh-vung-lu-20240917144158357.htm) - 08:37 17/09/2024
