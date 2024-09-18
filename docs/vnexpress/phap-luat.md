@@ -12,7 +12,7 @@ sidebar_position: 12
 - 🙉 [Ông trùm nhạc rap Diddy bị bắt vì buôn bán tình dục](https://vnexpress.net/ong-trum-nhac-rap-diddy-bi-bat-vi-buon-ban-tinh-duc-4794195.html) - 04:23 18/09/2024
 - 🤡 [Luật sư: Bà Trương Mỹ Lan mong muốn khắc phục thiệt hại cho gần 36.000 trái chủ](https://vnexpress.net/luat-su-ba-truong-my-lan-mong-muon-khac-phuc-thiet-hai-cho-gan-36-000-trai-chu-4794147.html) - 04:09 18/09/2024
 - 🗽 [Đã hưởng chế độ ốm đau, có được nhận bảo hiểm tai nạn lao động?](https://vnexpress.net/da-huong-che-do-om-dau-co-duoc-nhan-bao-hiem-tai-nan-lao-dong-4792019.html) - 00:16 18/09/2024
-- 🌋 [Tội ác của nhóm cướp tra tấn con tin bắt chước phim ảnh](https://vnexpress.net/ba-gio-hanh-ha-con-tin-trong-cua-hang-cua-nhom-cuop-4793988.html) - 17:00 17/09/2024
+- 🌋 [Tội ác của nhóm cướp tra tấn con tin &#39;như trong phim&#39;](https://vnexpress.net/ba-gio-hanh-ha-con-tin-trong-cua-hang-cua-nhom-cuop-4793988.html) - 17:00 17/09/2024
 - 🎬 [Kiện công ty vận chuyển đòi bồi thường vụ rơi 42 ôtô xuống biển](https://vnexpress.net/kien-cong-ty-van-tai-doi-boi-thuong-vu-roi-42-oto-xuong-bien-4793761.html) - 17:00 17/09/2024
 - 💯 [Hủy án vụ cựu chủ tịch tỉnh Cà Mau đòi nhà mua chung với hàng xóm](https://vnexpress.net/huy-an-vu-cuu-chu-tich-tinh-ca-mau-doi-nha-mua-chung-voi-hang-xom-4794000.html) - 13:19 17/09/2024
 - 🌏 [21 thanh niên bị phạt tù vì cầm hung khí, đâm chém giữa đêm](https://vnexpress.net/21-thanh-nien-bi-phat-tu-vi-cam-hung-khi-dam-chem-giua-dem-4794002.html) - 13:17 17/09/2024
