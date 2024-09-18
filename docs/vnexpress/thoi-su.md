@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [&#39;Nông dân trồng lúa phải thay đổi để bước qua lời nguyền&#39;](https://vnexpress.net/nong-dan-trong-lua-phai-thay-doi-de-buoc-qua-loi-nguyen-4794266.html) - 22:00 18/09/2024
-- 🤓 [Hôm nay áp thấp nhiệt đới mạnh lên thành bão](https://vnexpress.net/hom-nay-ap-thap-nhiet-doi-manh-len-thanh-bao-4794448.html) - 17:00 18/09/2024
+- 🤓 [Áp thấp nhiệt đới mạnh lên thành bão, đổ bộ chiều nay](https://vnexpress.net/ap-thap-nhiet-doi-manh-len-thanh-bao-do-bo-chieu-nay-4794448.html) - 17:00 18/09/2024
 - ⚗️ [Hỗ trợ phí BOT cho container ra vào cảng cửa ngõ TP HCM](https://vnexpress.net/ho-tro-phi-bot-cho-container-ra-vao-cang-cua-ngo-tp-hcm-4794371.html) - 17:00 18/09/2024
 - 🌊 [Người miền Trung cẩu thuyền, chằng néo di tích chống bão](https://vnexpress.net/nguoi-mien-trung-cau-thuyen-chang-neo-di-tich-chong-bao-4794424.html) - 16:14 18/09/2024
 - 🎓 [Bão Yagi gây thiệt hại khoảng 50.000 tỷ đồng](https://vnexpress.net/bao-yagi-gay-thiet-hai-khoang-50-000-ty-dong-4794123.html) - 15:57 18/09/2024
