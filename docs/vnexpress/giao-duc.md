@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Nên học ngành Phân tích dữ liệu hay Kinh doanh?](https://vnexpress.net/nen-hoc-nganh-phan-tich-du-lieu-hay-kinh-doanh-4793460.html) - 23:34 17/09/2024
-- 🦆 [Giáo viên bật khóc trước Chủ tịch huyện vì bữa cơm &#39;nghèo nàn&#39;](https://vnexpress.net/giao-vien-bat-khoc-truoc-chu-tich-huyen-vi-bua-com-ngheo-nan-4794022.html) - 23:22 17/09/2024
+- 🦆 [Giáo viên bật khóc trước chủ tịch huyện vì bữa cơm &#39;nghèo nàn&#39;](https://vnexpress.net/giao-vien-bat-khoc-truoc-chu-tich-huyen-vi-bua-com-ngheo-nan-4794022.html) - 23:22 17/09/2024
 - 🦩 [Nam sinh tốt nghiệp Bách khoa với điểm tuyệt đối](https://vnexpress.net/nam-sinh-tot-nghiep-bach-khoa-voi-diem-tuyet-doi-4793964.html) - 22:55 17/09/2024
 - 🌮 [Từ vựng tiếng Anh về Trung thu](https://vnexpress.net/tu-vung-tieng-anh-ve-trung-thu-4793489.html) - 16:20 17/09/2024
 - 🔭 [Nước nào đón Tết Trung thu hai lần trong năm?](https://vnexpress.net/nuoc-nao-don-tet-trung-thu-hai-lan-trong-nam-4793989.html) - 13:31 17/09/2024
