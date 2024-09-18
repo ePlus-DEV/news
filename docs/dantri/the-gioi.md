@@ -5,7 +5,7 @@ sidebar_position: 17
 
 <!-- dantri-the-gioi:START -->
 - 🌋 [Việt Nam thúc đẩy hợp tác song phương với Hà Lan về biến đổi khí hậu](https://dantri.com.vn/the-gioi/viet-nam-thuc-day-hop-tac-song-phuong-voi-ha-lan-ve-bien-doi-khi-hau-20240918161634256.htm) - 09:59 18/09/2024
-- 🎬 [Chi tiết bí ẩn về nguồn gốc máy nhắn tin của Hezbollah bị phát nổ hàng loạt](https://dantri.com.vn/the-gioi/chi-tiet-bi-an-ve-nguon-goc-may-nhan-tin-cua-hezbollah-bi-phat-no-hang-loat-20240918155924954.htm) - 09:56 18/09/2024
+- 🎬 [Dòng tiền thanh toán kỳ lạ trong vụ máy nhắn tin của Hezbollah nổ hàng loạt](https://dantri.com.vn/the-gioi/dong-tien-thanh-toan-ky-la-trong-vu-may-nhan-tin-cua-hezbollah-no-hang-loat-20240918155924954.htm) - 09:56 18/09/2024
 - 🧰 [Binh sĩ Ukraine thừa nhận tình cảnh ngặt nghèo ở pháo đài hậu cần Donbass](https://dantri.com.vn/the-gioi/binh-si-ukraine-thua-nhan-tinh-canh-ngat-ngheo-o-phao-dai-hau-can-donbass-20240918151907049.htm) - 08:43 18/09/2024
 - 🌋 [Báo Mỹ: Đại sứ Iran ở Li Băng bị mất một bên mắt do vụ nổ máy nhắn tin](https://dantri.com.vn/the-gioi/bao-my-dai-su-iran-o-li-bang-bi-mat-mot-ben-mat-do-vu-no-may-nhan-tin-20240918142742595.htm) - 07:33 18/09/2024
 - 🗽 [Con trai ông Trump cảnh báo nguy cơ chiến tranh hạt nhân](https://dantri.com.vn/the-gioi/con-trai-ong-trump-canh-bao-nguy-co-chien-tranh-hat-nhan-20240918135013606.htm) - 07:09 18/09/2024
