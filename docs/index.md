@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Thêm đại học Australia dự kiến xét tuyển thẳng học sinh Việt](https://vnexpress.net/them-dai-hoc-australia-du-kien-xet-tuyen-thang-hoc-sinh-viet-4794243.html) - 17:09 18/09/2024
+- 🚀 [Thêm đại học Australia dự kiến xét tuyển thẳng học sinh Việt Nam](https://vnexpress.net/them-dai-hoc-australia-du-kien-xet-tuyen-thang-hoc-sinh-viet-nam-4794243.html) - 17:09 18/09/2024
 - 🧰 [Ăn gì giúp tăng cường sinh lý?](https://vnexpress.net/an-gi-giup-tang-cuong-sinh-ly-4794360.html) - 17:02 18/09/2024
 - 🥰 [Khám phá con người bạn qua hình ảnh thấy đầu tiên](https://vnexpress.net/kham-pha-con-nguoi-ban-qua-hinh-anh-thay-dau-tien-4793775.html) - 17:01 18/09/2024
 - 🌏 [Hôm nay áp thấp nhiệt đới mạnh lên thành bão](https://vnexpress.net/hom-nay-ap-thap-nhiet-doi-manh-len-thanh-bao-4794448.html) - 17:00 18/09/2024
