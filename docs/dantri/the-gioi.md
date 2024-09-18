@@ -4,7 +4,7 @@ sidebar_position: 17
 ---
 
 <!-- dantri-the-gioi:START -->
-- 🌋 [Báo Mỹ: Đại sứ Iran ở Li Băng bị thương một bên mắt do vụ nổ máy nhắn tin](https://dantri.com.vn/the-gioi/bao-my-dai-su-iran-o-li-bang-bi-thuong-mot-ben-mat-do-vu-no-may-nhan-tin-20240918142742595.htm) - 07:33 18/09/2024
+- 🌋 [Báo Mỹ: Đại sứ Iran ở Li Băng bị mất một bên mắt do vụ nổ máy nhắn tin](https://dantri.com.vn/the-gioi/bao-my-dai-su-iran-o-li-bang-bi-mat-mot-ben-mat-do-vu-no-may-nhan-tin-20240918142742595.htm) - 07:33 18/09/2024
 - 🎬 [Con trai ông Trump cảnh báo nguy cơ chiến tranh hạt nhân](https://dantri.com.vn/the-gioi/con-trai-ong-trump-canh-bao-nguy-co-chien-tranh-hat-nhan-20240918135013606.htm) - 07:09 18/09/2024
 - 🧰 [Cựu Mật vụ Mỹ nêu thách thức trong việc bảo vệ ông Trump](https://dantri.com.vn/the-gioi/cuu-mat-vu-my-neu-thach-thuc-trong-viec-bao-ve-ong-trump-20240918130853065.htm) - 07:00 18/09/2024
 - 🌋 [Các đơn vị tinh nhuệ Nga phản công, chia cắt hơn 10 lữ đoàn Ukraine ở Kursk](https://dantri.com.vn/the-gioi/cac-don-vi-tinh-nhue-nga-phan-cong-chia-cat-hon-10-lu-doan-ukraine-o-kursk-20240918121340363.htm) - 06:54 18/09/2024
