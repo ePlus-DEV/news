@@ -4,7 +4,7 @@ sidebar_position: 17
 ---
 
 <!-- dantri-the-gioi:START -->
-- 🌋 [Nổ loạt bộ đàm của Hezbollah khắp Li Băng, hơn 100 người bị thương](https://dantri.com.vn/the-gioi/no-loat-bo-dam-cua-hezbollah-khap-li-bang-hon-100-nguoi-bi-thuong-20240918225243206.htm) - 15:55 18/09/2024
+- 🌋 [Nổ loạt bộ đàm của Hezbollah khắp Li Băng, hơn 300 người bị thương](https://dantri.com.vn/the-gioi/no-loat-bo-dam-cua-hezbollah-khap-li-bang-hon-300-nguoi-bi-thuong-20240918225243206.htm) - 15:55 18/09/2024
 - 🎬 [Nga cảnh báo NATO về lằn ranh đỏ của Tổng thống Putin](https://dantri.com.vn/the-gioi/nga-canh-bao-nato-ve-lan-ranh-do-cua-tong-thong-putin-20240918211458382.htm) - 14:41 18/09/2024
 - 🧰 [Ukraine tập kích xuyên biên giới, kho vũ khí Nga nổ như động đất](https://dantri.com.vn/the-gioi/ukraine-tap-kich-xuyen-bien-gioi-kho-vu-khi-nga-no-nhu-dong-dat-20240918200559932.htm) - 14:32 18/09/2024
 - 🌋 [Bán đảo Crimea sung công toàn bộ tài sản của giới chức Ukraine](https://dantri.com.vn/the-gioi/ban-dao-crimea-sung-cong-toan-bo-tai-san-cua-gioi-chuc-ukraine-20240918154354183.htm) - 14:31 18/09/2024
