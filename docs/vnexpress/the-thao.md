@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [Bellingham thừa nhận &#39;nỗi nhớ&#39; Toni Kroos](https://vnexpress.net/bellingham-thua-nhan-noi-nho-toni-kroos-4794091.html) - 01:52 18/09/2024
 - 🧰 [Tiền đạo 18 tuổi phá kỷ lục ghi bàn của Real tại Champions League](https://vnexpress.net/tien-dao-18-tuoi-pha-ky-luc-ghi-ban-cua-real-tai-champions-league-4794064.html) - 00:52 18/09/2024
 - 🤗 [Quân tốt &#39;phản chủ&#39; khiến Đinh Lập Nhân thua Quang Liêm](https://vnexpress.net/quan-tot-phan-chu-khien-dinh-lap-nhan-thua-quang-liem-4793998.html) - 00:35 18/09/2024
-- 🥳 [Kane phá 3 kỷ lục Champions League](https://vnexpress.net/kane-pha-3-ky-luc-champions-league-4794055.html) - 00:34 18/09/2024
+- 🥳 [Kane phá ba kỷ lục Champions League](https://vnexpress.net/kane-pha-ba-ky-luc-champions-league-4794055.html) - 00:34 18/09/2024
 - 🦣 [Liverpool thắng ngược Milan](https://vnexpress.net/liverpool-thang-nguoc-milan-4794033.html) - 23:21 17/09/2024
 - 🌜 [Mbappe giúp Real thắng trận ra quân Champions League](https://vnexpress.net/mbappe-giup-real-thang-tran-ra-quan-champions-league-4794032.html) - 23:10 17/09/2024
 - 🫶 [Bayern thắng 9-2 ở Champions League](https://vnexpress.net/bayern-thang-9-2-o-champions-league-4794031.html) - 21:24 17/09/2024
