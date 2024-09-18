@@ -7,7 +7,7 @@ sidebar_position: 9
 - 🎬 [Bà Trương Mỹ Lan bị xét xử ở giai đoạn hai của đại án](https://vnexpress.net/ba-truong-my-lan-bi-xet-xu-o-giai-doan-hai-cua-dai-an-4794343.html) - 23:00 18/09/2024
 - 🐎 [Kiều bào quyên góp ủng hộ người dân vùng lũ](https://vnexpress.net/kieu-bao-quyen-gop-ung-ho-nguoi-dan-vung-lu-4794164.html) - 23:00 18/09/2024
 - 🦍 [Chấn thương tâm lý di truyền qua các thế hệ](https://vnexpress.net/chan-thuong-tam-ly-di-truyen-qua-cac-the-he-4791432.html) - 23:00 18/09/2024
-- 🏊 [Điểm tin 6h: Hỗ trợ phí BOT cho container ra vào cảng cửa ngõ TP HCM | Nổ loạt bộ đàm của Hezbollah](https://vnexpress.net/diem-tin-6h-ho-tro-phi-bot-cho-container-ra-vao-cang-cua-ngo-tp-hcm-no-loat-bo-dam-cua-hezbollah-4794465.html) - 23:00 18/09/2024
+- 🏊 [Điểm tin 6h: Hỗ trợ phí BOT cho container ra vào cảng cửa ngõ TP HCM | Loạt thiết bị khác của Hezbollah phát nổ](https://vnexpress.net/diem-tin-6h-ho-tro-phi-bot-cho-container-ra-vao-cang-cua-ngo-tp-hcm-loat-thiet-bi-khac-cua-hezbollah-phat-no-4794465.html) - 23:00 18/09/2024
 - 🎊 [Barella: &#39;Inter cùng đẳng cấp với Man City&#39;](https://vnexpress.net/barella-inter-cung-dang-cap-voi-man-city-4794462.html) - 22:55 18/09/2024
 - 🎃 [Tottenham hút chết ở Cup Liên đoàn](https://vnexpress.net/tottenham-hut-chet-o-cup-lien-doan-4789863.html) - 22:52 18/09/2024
 - 🧰 [&#39;Não cá vàng&#39; sau sinh](https://vnexpress.net/nao-ca-vang-sau-sinh-4788485.html) - 22:03 18/09/2024
@@ -59,6 +59,4 @@ sidebar_position: 9
 - 💄 [Tàu hỏa va chạm vì vượt đèn đỏ, 35 người bị thương](https://vnexpress.net/tau-hoa-va-cham-vi-vuot-den-do-35-nguoi-bi-thuong-4794423.html) - 13:47 18/09/2024
 - 🤡 [Doanh nghiệp ngoại kêu TP HCM thiếu hạ tầng logistics](https://vnexpress.net/doanh-nghiep-ngoai-keu-tp-hcm-thieu-ha-tang-logistics-4794311.html) - 13:40 18/09/2024
 - ⛽️ [Sông Đà chảy qua bao nhiêu tỉnh?](https://vnexpress.net/song-da-chay-qua-bao-nhieu-tinh-4794293.html) - 13:28 18/09/2024
-- 🚀 [Đất ven Hà Nội &#39;đấu giá như thổi giá&#39;](https://vnexpress.net/dat-ven-ha-noi-dau-gia-nhu-thoi-gia-4794352.html) - 13:00 18/09/2024
-- 🌜 [Hiện tượng nước dâng cao bất thường do bão](https://vnexpress.net/hien-tuong-nuoc-dang-cao-bat-thuong-do-bao-4794334.html) - 13:00 18/09/2024
-- 🌜 [Tình người trong bão lũ qua tranh](https://vnexpress.net/tinh-nguoi-trong-bao-lu-qua-tranh-4793993.html) - 13:00 18/09/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🚀 [Đất ven Hà Nội &#39;đấu giá như thổi giá&#39;](https://vnexpress.net/dat-ven-ha-noi-dau-gia-nhu-thoi-gia-4794352.html) - 13:00 18/09/2024<!-- vnexpress-tin-moi-nhat:END -->
