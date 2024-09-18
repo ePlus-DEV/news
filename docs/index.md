@@ -213,7 +213,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp bóng đá Man City vs Inter Milan tại Champions League](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-man-city-vs-inter-milan-tai-champions-league-1396315.ldo) - 16:38 18/09/2024
+- 🗽 [Man City chia điểm đáng thất vọng trước Inter Milan](https://laodong.vn/bong-da-quoc-te/man-city-chia-diem-dang-that-vong-truoc-inter-milan-1396315.ldo) - 16:38 18/09/2024
 - 📝 [VTV Bình Điền Long An vào chung kết giải bóng chuyền U23 quốc gia](https://laodong.vn/the-thao/vtv-binh-dien-long-an-vao-chung-ket-giai-bong-chuyen-u23-quoc-gia-1396284.ldo) - 15:50 18/09/2024
 - 🦏 [Jungkook BTS làm nên lịch sử với 7 tỉ lượt phát trực tuyến](https://laodong.vn/giai-tri/jungkook-bts-lam-nen-lich-su-voi-7-ti-luot-phat-truc-tuyen-1396280.ldo) - 15:42 18/09/2024
 - 🦩 [Thanh niên 18 tuổi ở Phú Thọ tử vong khi cắt bao quy đầu](https://laodong.vn/y-te/thanh-nien-18-tuoi-o-phu-tho-tu-vong-khi-cat-bao-quy-dau-1396252.ldo) - 15:19 18/09/2024
