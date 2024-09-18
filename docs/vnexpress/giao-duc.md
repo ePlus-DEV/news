@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [290.000 học sinh Đà Nẵng nghỉ tránh mưa bão](https://vnexpress.net/290-000-hoc-sinh-da-nang-nghi-tranh-mua-bao-4794333.html) - 08:52 18/09/2024
+- 🤓 [Hơn 660.000 học sinh Đà Nẵng, Quảng Nam nghỉ tránh bão](https://vnexpress.net/hon-660-000-hoc-sinh-da-nang-quang-nam-nghi-tranh-bao-4794333.html) - 08:52 18/09/2024
 - 🦆 [&#39;Phông bạt&#39; trong tiếng Anh nói thế nào?](https://vnexpress.net/phong-bat-trong-tieng-anh-noi-the-nao-4794246.html) - 05:47 18/09/2024
 - 🦩 [5 địa phương miễn, giảm học phí](https://vnexpress.net/5-dia-phuong-mien-giam-hoc-phi-4793509.html) - 05:25 18/09/2024
 - 🌮 [Nên học ngành Phân tích dữ liệu hay Kinh doanh?](https://vnexpress.net/nen-hoc-nganh-phan-tich-du-lieu-hay-kinh-doanh-4793460.html) - 23:34 17/09/2024
