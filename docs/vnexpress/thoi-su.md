@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Công nhân &#39;thu nhập trên 9 triệu&#39; khó vay vốn lãi suất thấp](https://vnexpress.net/cong-nhan-thu-nhap-tren-9-trieu-kho-vay-von-lai-suat-thap-4790919.html) - 22:00 17/09/2024
+- 🦒 [Công nhân thu nhập trên 9 triệu khó vay vốn lãi suất thấp](https://vnexpress.net/cong-nhan-thu-nhap-tren-9-trieu-kho-vay-von-lai-suat-thap-4790919.html) - 22:00 17/09/2024
 - 🤓 [Hoàn cảnh chật vật của gia đình &#39;cả nhà cùng ở viện&#39;](https://vnexpress.net/hoan-canh-chat-vat-cua-gia-dinh-ca-nha-cung-o-vien-4793133.html) - 17:38 17/09/2024
 - ⚗️ [Khách đi và đến 5 bến xe ở TP HCM sẽ có ôtô trung chuyển](https://vnexpress.net/khach-di-va-den-5-ben-xe-o-tp-hcm-se-co-oto-trung-chuyen-4794001.html) - 17:00 17/09/2024
 - 🌊 [Truyền dinh dưỡng cứu cây xanh bị bão quật đổ](https://vnexpress.net/truyen-dinh-duong-cuu-cay-xanh-bi-bao-quat-do-4793824.html) - 17:00 17/09/2024
