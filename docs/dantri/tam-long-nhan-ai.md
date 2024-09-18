@@ -4,7 +4,7 @@ sidebar_position: 20
 ---
 
 <!-- dantri-tam-long-nhan-ai:START -->
-- 🌝 [Dân trí trao 30 triệu đồng đến 9 nạn nhân cùng thôn thiệt mạng vì sạt lở](https://dantri.com.vn/tam-long-nhan-ai/dan-tri-trao-30-trieu-dong-den-9-nan-nhan-cung-thon-thiet-mang-vi-sat-lo-20240918121012248.htm) - 07:39 18/09/2024
+- 🌝 [Dân trí trao 30 triệu đồng đến 4 gia đình có người thiệt mạng vì sạt lở](https://dantri.com.vn/tam-long-nhan-ai/dan-tri-trao-30-trieu-dong-den-4-gia-dinh-co-nguoi-thiet-mang-vi-sat-lo-20240918121012248.htm) - 07:39 18/09/2024
 - 🌜 [Bệnh tật, khổ cực bủa vây cuộc sống gia đình thầy giáo vùng biên](https://dantri.com.vn/tam-long-nhan-ai/benh-tat-kho-cuc-bua-vay-cuoc-song-gia-dinh-thay-giao-vung-bien-20240914101538198.htm) - 20:58 17/09/2024
 - 👀 [Bạn đọc tiếp tục chung tay tái thiết xây dựng Làng Nủ](https://dantri.com.vn/tam-long-nhan-ai/ban-doc-tiep-tuc-chung-tay-tai-thiet-xay-dung-lang-nu-20240917201112032.htm) - 14:27 17/09/2024
 - 🚀 [Xuyên đêm vượt đường độc đạo trao cứu trợ tới bà con bị cô lập ở Lào Cai](https://dantri.com.vn/tam-long-nhan-ai/xuyen-dem-vuot-duong-doc-dao-trao-cuu-tro-toi-ba-con-bi-co-lap-o-lao-cai-20240917145001177.htm) - 09:10 17/09/2024
