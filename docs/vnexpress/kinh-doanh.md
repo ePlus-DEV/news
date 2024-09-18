@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Fed giảm lãi suất thêm 0,5%](https://vnexpress.net/fed-giam-lai-suat-them-0-5-4794455.html) - 19:19 18/09/2024
+- ⛽️ [Fed giảm lãi suất 0,5%](https://vnexpress.net/fed-giam-lai-suat-0-5-4794455.html) - 19:19 18/09/2024
 - 🐲 [Doanh nghiệp ngoại kêu TP HCM thiếu hạ tầng logistics](https://vnexpress.net/doanh-nghiep-ngoai-keu-tp-hcm-thieu-ha-tang-logistics-4794311.html) - 13:40 18/09/2024
 - 🔥 [Từ tháng 11, khối ngoại không cần ký quỹ 100% khi mua chứng khoán](https://vnexpress.net/tu-thang-11-khoi-ngoai-khong-can-ky-quy-100-khi-mua-chung-khoan-4794417.html) - 11:54 18/09/2024
 - 🐵 [Bước tiến của Heineken Việt Nam trên lộ trình Net Zero](https://vnexpress.net/buoc-tien-cua-heineken-viet-nam-tren-lo-trinh-net-zero-4793711.html) - 11:00 18/09/2024
