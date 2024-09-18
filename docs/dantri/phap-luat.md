@@ -4,7 +4,7 @@ sidebar_position: 8
 ---
 
 <!-- dantri-phap-luat:START -->
-- 🌊 [Bà Trương Mỹ Lan &quot;rửa&quot; 445.000 tỷ đồng, tuồn 4,5 triệu USD ra nước ngoài](https://dantri.com.vn/phap-luat/ba-truong-my-lan-rua-445000-ty-dong-tuon-45-trieu-usd-ra-nuoc-ngoai-20240918092938831.htm) - 23:06 18/09/2024
+- 🌊 [Bà Trương Mỹ Lan &quot;rửa&quot; 445.000 tỷ đồng, tuồn 4,5 tỷ USD ra nước ngoài](https://dantri.com.vn/phap-luat/ba-truong-my-lan-rua-445000-ty-dong-tuon-45-ty-usd-ra-nuoc-ngoai-20240918092938831.htm) - 23:06 18/09/2024
 - 🐲 [97 miếng vàng nguyên khối, bộ sưu tập 13 đồng hồ tại nhà cựu Bí thư Bến Tre](https://dantri.com.vn/phap-luat/97-mieng-vang-nguyen-khoi-bo-suu-tap-13-dong-ho-tai-nha-cuu-bi-thu-ben-tre-20240919002642936.htm) - 22:46 18/09/2024
 - 🌁 [Bà Trương Mỹ Lan tiếp tục hầu tòa, xét xử vắng mặt gần 36.000 bị hại](https://dantri.com.vn/phap-luat/ba-truong-my-lan-tiep-tuc-hau-toa-xet-xu-vang-mat-gan-36000-bi-hai-20240918202707263.htm) - 22:30 18/09/2024
 - 🎃 [Mưa lớn làm lộ tuyến đường thi công ẩu, 3 người bị khởi tố](https://dantri.com.vn/phap-luat/mua-lon-lam-lo-tuyen-duong-thi-cong-au-3-nguoi-bi-khoi-to-20240918215643405.htm) - 15:14 18/09/2024
