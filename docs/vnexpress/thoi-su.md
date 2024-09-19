@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Xe khách tông nhau trên cao tốc, hai người tử vong](https://vnexpress.net/xe-khach-tong-nhau-tren-cao-toc-hai-nguoi-tu-vong-4794469.html) - 00:00 19/09/2024
 - ⚗️ [Bộ Công an đề xuất 8 nhóm dữ liệu không được công khai](https://vnexpress.net/bo-cong-an-de-xuat-8-nhom-du-lieu-khong-duoc-cong-khai-4794187.html) - 00:00 19/09/2024
 - 🌊 [Đề xuất đầu tư đường sắt đô thị ga Hà Nội - Hoàng Mai](https://vnexpress.net/de-xuat-dau-tu-duong-sat-do-thi-ga-ha-noi-hoang-mai-4794158.html) - 00:00 19/09/2024
-- 🎓 [&#39;Nông dân trồng lúa phải thay đổi để bước qua lời nguyền&#39;](https://vnexpress.net/nong-dan-trong-lua-phai-thay-doi-de-buoc-qua-loi-nguyen-4794266.html) - 22:00 18/09/2024
+- 🎓 [Bộ trưởng Lê Minh Hoan: &#39;Phải thay đổi lời nguyền trồng lúa&#39;](https://vnexpress.net/bo-truong-le-minh-hoan-phai-thay-doi-loi-nguyen-trong-lua-4794266.html) - 22:00 18/09/2024
 - 🔥 [Áp thấp nhiệt đới mạnh lên thành bão, đổ bộ chiều nay](https://vnexpress.net/ap-thap-nhiet-doi-manh-len-thanh-bao-do-bo-chieu-nay-4794448.html) - 17:00 18/09/2024
 - 🦏 [Hỗ trợ phí BOT cho container ra vào cảng cửa ngõ TP HCM](https://vnexpress.net/ho-tro-phi-bot-cho-container-ra-vao-cang-cua-ngo-tp-hcm-4794371.html) - 17:00 18/09/2024
 - 👺 [Người miền Trung cẩu thuyền, chằng néo di tích chống bão](https://vnexpress.net/nguoi-mien-trung-cau-thuyen-chang-neo-di-tich-chong-bao-4794424.html) - 16:14 18/09/2024
