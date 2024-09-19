@@ -11,10 +11,10 @@ sidebar_position: 5
 - 🥳 [Runner cần lưu ý gì khi tham gia VnExpress Marathon Hạ Long](https://vnexpress.net/runner-can-luu-y-gi-khi-tham-gia-vnexpress-marathon-ha-long-4794307.html) - 07:07 19/09/2024
 - 🦣 [Enrique: &#39;Thắng Girona khó hơn rặn đẻ&#39;](https://vnexpress.net/enrique-thang-girona-kho-hon-ran-de-4794655.html) - 06:49 19/09/2024
 - 🌜 [Sinner không được chọn dự Laver Cup](https://vnexpress.net/sinner-khong-duoc-chon-du-laver-cup-4794652.html) - 05:43 19/09/2024
-- 🫶 [Arteta: &#39;Arsenal mạnh hơn với kinh nghiệm Champions League&#39;](https://vnexpress.net/arteta-arsenal-manh-hon-voi-kinh-nghiem-champions-league-4794643.html) - 04:51 19/09/2024
+- 🫶 [Arteta đặt mục tiêu tiến xa hơn bán kết ở Champions League](https://vnexpress.net/arteta-dat-muc-tieu-tien-xa-hon-ban-ket-o-champions-league-4794643.html) - 04:51 19/09/2024
 - 🌜 [Võ sĩ Anh dọa khiến Anthony Joshua đầu hàng](https://vnexpress.net/vo-si-anh-doa-khien-anthony-joshua-dau-hang-4794628.html) - 04:24 19/09/2024
 - 😺 [Runner hoàn thành bài tập cuối cho VnExpress Marathon Hạ Long](https://vnexpress.net/runner-hoan-thanh-bai-tap-cuoi-cho-vnexpress-marathon-ha-long-4794598.html) - 04:12 19/09/2024
-- 👍 [Barca và món nợ phải đòi ở xứ Công quốc](https://video.vnexpress.net/barca-va-mon-no-phai-doi-o-xu-cong-quoc-4794581.html) - 03:53 19/09/2024
+- 👍 [Barca và món nợ phải đòi ở xứ Công quốc](https://vnexpress.net/barca-va-mon-no-phai-doi-o-xu-cong-quoc-4794581.html) - 03:53 19/09/2024
 - 🐵 [Messi không giữ được chiến thắng cho Inter Miami](https://vnexpress.net/messi-khong-giu-duoc-chien-thang-cho-inter-miami-4794502.html) - 03:21 19/09/2024
 - 💫 [HLV Nam Định không nhận thắng dễ ở giải châu Á](https://vnexpress.net/hlv-nam-dinh-khong-nhan-thang-de-o-giai-chau-a-4794507.html) - 02:48 19/09/2024
 - 🦆 [Boston Marathon nâng chuẩn thành tích tham dự](https://vnexpress.net/boston-marathon-nang-chuan-thanh-tich-tham-du-4794461.html) - 02:04 19/09/2024
