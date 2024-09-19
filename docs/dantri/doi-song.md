@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Tranh cãi loạt ảnh váy cưới được đưa đi quyên góp, cứu trợ bà con vùng lũ](https://dantri.com.vn/doi-song/tranh-cai-loat-anh-vay-cuoi-duoc-dua-di-quyen-gop-cuu-tro-ba-con-vung-lu-20240919152044784.htm) - 08:52 19/09/2024
+- 🥳 [Tranh cãi loạt váy cưới được đưa đi quyên góp, cứu trợ bà con vùng lũ](https://dantri.com.vn/doi-song/tranh-cai-loat-vay-cuoi-duoc-dua-di-quyen-gop-cuu-tro-ba-con-vung-lu-20240919152044784.htm) - 08:52 19/09/2024
 - 🌁 [Thực hư tìm thấy răng người nằm trong nhân bánh trung thu ở Trung Quốc?](https://dantri.com.vn/doi-song/thuc-hu-tim-thay-rang-nguoi-nam-trong-nhan-banh-trung-thu-o-trung-quoc-20240918154204938.htm) - 07:13 19/09/2024
 - 👀 [FPT Telecom mang internet an toàn đến 1.000 trường tiểu học trên toàn quốc](https://dantri.com.vn/doi-song/fpt-telecom-mang-internet-an-toan-den-1000-truong-tieu-hoc-tren-toan-quoc-20240919125133061.htm) - 07:00 19/09/2024
 - 🐻 [LG ra mắt tủ lạnh ngăn đá dưới mới, phù hợp không gian bếp Việt](https://dantri.com.vn/doi-song/lg-ra-mat-tu-lanh-ngan-da-duoi-moi-phu-hop-khong-gian-bep-viet-20240918152430705.htm) - 01:00 19/09/2024
