@@ -19,7 +19,7 @@ sidebar_position: 3
 - 🦩 [Thiên Long điều chỉnh nhiều vị trí phó tổng giám đốc](https://vnexpress.net/thien-long-dieu-chinh-nhieu-vi-tri-pho-tong-giam-doc-4794240.html) - 06:00 18/09/2024
 - 👍 [Kinh tế Mỹ khó chịu tác động &#39;ngay lập tức&#39; khi Fed hạ lãi suất](https://vnexpress.net/kinh-te-my-kho-chiu-tac-dong-ngay-lap-tuc-khi-fed-ha-lai-suat-4794148.html) - 05:00 18/09/2024
 - 🏊 [&#39;Sai lầm&#39; kinh tế Đức kéo châu Âu đi xuống](https://vnexpress.net/sai-lam-kinh-te-duc-keo-chau-au-di-xuong-4793981.html) - 04:33 18/09/2024
-- 🤡 [Agribank giảm 2% lãi vay cho khách hàng bão lụt](https://vnexpress.net/agribank-giam-2-lai-vay-cho-khach-hang-bao-lut-4794120.html) - 04:30 18/09/2024
+- 🤡 [Agribank giảm tới 2% lãi vay cho khách hàng bão lụt](https://vnexpress.net/agribank-giam-toi-2-lai-vay-cho-khach-hang-bao-lut-4794120.html) - 04:30 18/09/2024
 - 👀 [HDBank nhận thêm khoản tín dụng 50 triệu USD](https://vnexpress.net/hdbank-nhan-them-khoan-tin-dung-50-trieu-usd-4794181.html) - 04:00 18/09/2024
 - 😺 [Chính phủ yêu cầu hỗ trợ &#39;nhanh, trực tiếp&#39; cho doanh nghiệp sau bão](https://vnexpress.net/chinh-phu-yeu-cau-ho-tro-nhanh-truc-tiep-cho-doanh-nghiep-sau-bao-4794135.html) - 03:29 18/09/2024
 - 🦣 [MSB tích hợp dịch vụ Apple Pay cho thẻ Mastercard](https://vnexpress.net/msb-tich-hop-dich-vu-apple-pay-cho-the-mastercard-4794122.html) - 03:00 18/09/2024
