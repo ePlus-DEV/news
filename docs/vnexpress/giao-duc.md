@@ -9,7 +9,7 @@ sidebar_position: 7
 - 🦩 [Sông Đà chảy qua bao nhiêu tỉnh?](https://vnexpress.net/song-da-chay-qua-bao-nhieu-tinh-4794293.html) - 13:28 18/09/2024
 - 🌮 [Bộ Giáo dục đề nghị miễn, giảm học phí cho học sinh vùng bão lũ](https://vnexpress.net/bo-giao-duc-de-nghi-mien-giam-hoc-phi-cho-hoc-sinh-vung-bao-lu-4794418.html) - 12:10 18/09/2024
 - 🔭 [Cách tận dụng kỹ năng của AI trong công việc](https://vnexpress.net/cach-tan-dung-ky-nang-cua-ai-trong-cong-viec-4794374.html) - 12:00 18/09/2024
-- 💡 [Hơn 660.000 học sinh Đà Nẵng, Quảng Nam nghỉ tránh bão](https://vnexpress.net/hon-660-000-hoc-sinh-da-nang-quang-nam-nghi-tranh-bao-4794333.html) - 08:52 18/09/2024
+- 💡 [Hơn 940.000 học sinh nghỉ tránh bão](https://vnexpress.net/hon-940-000-hoc-sinh-nghi-tranh-bao-4794333.html) - 08:52 18/09/2024
 - 🥰 [&#39;Phông bạt&#39; trong tiếng Anh nói thế nào?](https://vnexpress.net/phong-bat-trong-tieng-anh-noi-the-nao-4794246.html) - 05:47 18/09/2024
 - 🐲 [5 địa phương miễn, giảm học phí](https://vnexpress.net/5-dia-phuong-mien-giam-hoc-phi-4793509.html) - 05:25 18/09/2024
 - 🦒 [Nên học ngành Phân tích dữ liệu hay Kinh doanh?](https://vnexpress.net/nen-hoc-nganh-phan-tich-du-lieu-hay-kinh-doanh-4793460.html) - 23:34 17/09/2024
