@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Nữ Triều Tiên tạo ra địa chấn, tạo ra trận chung kết châu Á ở U20 World Cup](https://dantri.com.vn/the-thao/nu-trieu-tien-tao-ra-dia-chan-tao-ra-tran-chung-ket-chau-a-o-u20-world-cup-20240919132109923.htm) - 06:21 19/09/2024
-- 💯 [Lamine Yamal được nhào nặn trở thành &quot;quái vật&quot; đáng sợ như Messi](https://dantri.com.vn/the-thao/lamine-yamal-duoc-nhao-nan-tro-thanh-quai-vat-dang-so-nhu-messi-20240919125424351.htm) - 06:03 19/09/2024
+- 🎡 [Lamine Yamal được nhào nặn trở thành &quot;quái vật&quot; đáng sợ như Messi](https://dantri.com.vn/the-thao/lamine-yamal-duoc-nhao-nan-tro-thanh-quai-vat-dang-so-nhu-messi-20240919125424351.htm) - 09:03 19/09/2024
+- 💯 [Nữ Triều Tiên tạo ra địa chấn, tạo ra trận chung kết châu Á ở U20 World Cup](https://dantri.com.vn/the-thao/nu-trieu-tien-tao-ra-dia-chan-tao-ra-tran-chung-ket-chau-a-o-u20-world-cup-20240919132109923.htm) - 06:21 19/09/2024
 - ⛽️ [Messi ra sân 30 phút, Inter Miami chia điểm đáng tiếc trước Atlanta United](https://dantri.com.vn/the-thao/messi-ra-san-30-phut-inter-miami-chia-diem-dang-tiec-truoc-atlanta-united-20240919123337402.htm) - 06:00 19/09/2024
 - 💃 [Ly cà phê thơm ngon và thực tế đắng ngắt của Công Phượng](https://dantri.com.vn/the-thao/ly-ca-phe-thom-ngon-va-thuc-te-dang-ngat-cua-cong-phuong-20240918215153171.htm) - 02:50 19/09/2024
 - 🌈 [Bất lực cùng cực, Erling Haaland văng tục với đối thủ](https://dantri.com.vn/the-thao/bat-luc-cung-cuc-erling-haaland-vang-tuc-voi-doi-thu-20240919093529861.htm) - 02:37 19/09/2024
