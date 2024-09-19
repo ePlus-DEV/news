@@ -13,7 +13,7 @@ sidebar_position: 1
 - 🤖 [Quảng Nam: Sơ tán khẩn cấp hơn 50 hộ dân do mưa lớn gây sạt lở](https://dantri.com.vn/xa-hoi/quang-nam-so-tan-khan-cap-hon-50-ho-dan-do-mua-lon-gay-sat-lo-20240919131414110.htm) - 06:31 19/09/2024
 - 🙉 [Hỗ trợ 150% phí BOT cho 1.500 xe container ra vào cảng Phú Hữu](https://dantri.com.vn/xa-hoi/ho-tro-150-phi-bot-cho-1500-xe-container-ra-vao-cang-phu-huu-20240919121819375.htm) - 05:59 19/09/2024
 - 👍 [Xuất hiện hố sụt lún sâu 5m sau tiếng nổ](https://dantri.com.vn/xa-hoi/xuat-hien-ho-sut-lun-sau-5m-sau-tieng-no-20240919114035791.htm) - 04:55 19/09/2024
-- 🗽 [Bão số 4 đổ bộ, mưa lớn xuất hiện tại nhiều địa phương](https://dantri.com.vn/xa-hoi/bao-so-4-do-bo-mua-lon-xuat-hien-tai-nhieu-dia-phuong-20240919115221469.htm) - 04:53 19/09/2024
+- 🗽 [Bão số 4 suy yếu thành áp thấp nhiệt đới, gió vẫn giật cấp 9](https://dantri.com.vn/xa-hoi/bao-so-4-suy-yeu-thanh-ap-thap-nhiet-doi-gio-van-giat-cap-9-20240919115221469.htm) - 04:53 19/09/2024
 - 🗽 [Sở Thông tin và Truyền thông Đắk Nông với công cuộc chuyển đổi số](https://dantri.com.vn/xa-hoi/so-thong-tin-va-truyen-thong-dak-nong-voi-cong-cuoc-chuyen-doi-so-20240919103546409.htm) - 04:06 19/09/2024
 - 🔥 [Phát hiện tê tê mẹ quý hiếm sinh con trong hốc cây gần nhà dân](https://dantri.com.vn/xa-hoi/phat-hien-te-te-me-quy-hiem-sinh-con-trong-hoc-cay-gan-nha-dan-20240919091127053.htm) - 04:02 19/09/2024
 - 🦒 [Mưa lũ gây chia cắt nhiều nơi, Quảng Bình di dời khẩn cấp hơn 500 người](https://dantri.com.vn/xa-hoi/mua-lu-gay-chia-cat-nhieu-noi-quang-binh-di-doi-khan-cap-hon-500-nguoi-20240919100446245.htm) - 03:58 19/09/2024
