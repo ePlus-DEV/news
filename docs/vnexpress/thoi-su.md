@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Cán bộ, công chức vi phạm nồng độ cồn sẽ bị kỷ luật](https://vnexpress.net/can-bo-cong-chuc-vi-pham-nong-do-con-se-bi-ky-luat-4794124.html) - 06:57 19/09/2024
 - 🤓 [Hoàn tất sửa cầu Long Thành trên cao tốc nối TP HCM - Đồng Nai](https://vnexpress.net/hoan-tat-sua-cau-long-thanh-tren-cao-toc-noi-tp-hcm-dong-nai-4794662.html) - 06:31 19/09/2024
-- ⚗️ [Bão áp sát bờ biển Quảng Bình - Thừa Thiên Huế](https://vnexpress.net/bao-ap-sat-bo-bien-quang-binh-thua-thien-hue-4794641.html) - 05:13 19/09/2024
+- ⚗️ [Bão cấp 8 vào Quảng Bình - Quảng Trị](https://vnexpress.net/bao-cap-8-vao-quang-binh-quang-tri-4794641.html) - 05:13 19/09/2024
 - 🌊 [350 xã ở miền Trung nguy cơ sạt lở đất](https://vnexpress.net/350-xa-o-mien-trung-nguy-co-sat-lo-dat-4794524.html) - 03:03 19/09/2024
 - 🎓 [Sập cầu ở Hòa Bình](https://vnexpress.net/sap-cau-o-hoa-binh-4794473.html) - 00:40 19/09/2024
 - 🔥 [Xe khách tông nhau trên cao tốc, hai người tử vong](https://vnexpress.net/xe-khach-tong-nhau-tren-cao-toc-hai-nguoi-tu-vong-4794469.html) - 00:00 19/09/2024
