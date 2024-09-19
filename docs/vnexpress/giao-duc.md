@@ -7,7 +7,7 @@ sidebar_position: 7
 - 🤓 [Cô gái đạt 9.0 IELTS nhờ thích đọc và ghi chép](https://vnexpress.net/co-gai-dat-9-0-ielts-nho-thich-doc-va-ghi-chep-4793450.html) - 04:23 19/09/2024
 - 🦆 [Thêm đại học Australia dự kiến xét tuyển thẳng học sinh Việt Nam](https://vnexpress.net/them-dai-hoc-australia-du-kien-xet-tuyen-thang-hoc-sinh-viet-nam-4794243.html) - 17:09 18/09/2024
 - 🦩 [Trường học Lào Cai, Yên Bái ngổn ngang một tuần sau lũ](https://vnexpress.net/truong-hoc-lao-cai-yen-bai-ngon-ngang-mot-tuan-sau-lu-4794030.html) - 14:25 18/09/2024
-- 🌮 [Sông Đà chảy qua bao nhiêu tỉnh?](https://vnexpress.net/song-da-chay-qua-bao-nhieu-tinh-4794293.html) - 13:28 18/09/2024
+- 🌮 [Sông Đà chảy qua bao nhiêu tỉnh, thành?](https://vnexpress.net/song-da-chay-qua-bao-nhieu-tinh-thanh-4794293.html) - 13:28 18/09/2024
 - 🔭 [Bộ Giáo dục đề nghị miễn, giảm học phí cho học sinh vùng bão lũ](https://vnexpress.net/bo-giao-duc-de-nghi-mien-giam-hoc-phi-cho-hoc-sinh-vung-bao-lu-4794418.html) - 12:10 18/09/2024
 - 💡 [Cách tận dụng kỹ năng của AI trong công việc](https://vnexpress.net/cach-tan-dung-ky-nang-cua-ai-trong-cong-viec-4794374.html) - 12:00 18/09/2024
 - 🥰 [Hơn 940.000 học sinh nghỉ tránh bão](https://vnexpress.net/hon-940-000-hoc-sinh-nghi-tranh-bao-4794333.html) - 08:52 18/09/2024
