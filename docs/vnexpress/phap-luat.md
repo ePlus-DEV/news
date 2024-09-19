@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Vì sao Cục Phòng chống rửa tiền không phát hiện bà Trương Mỹ Lan chuyển trái phép 489.000 tỷ đồng?](https://vnexpress.net/vi-sao-cuc-phong-chong-rua-tien-khong-phat-hien-ba-truong-my-lan-chuyen-trai-phep-489-000-ty-dong-4794710.html) - 09:08 19/09/2024
+- 😎 [Vì sao bà Trương Mỹ Lan chuyển trái phép 489.000 tỷ đồng không bị phát hiện?](https://vnexpress.net/vi-sao-ba-truong-my-lan-chuyen-trai-phep-489-000-ty-dong-khong-bi-phat-hien-4794710.html) - 09:08 19/09/2024
 - 🥰 [Chủ hụi bị bắt vì chiếm đoạt hơn 100 tỷ đồng](https://vnexpress.net/chu-hui-bi-bat-vi-chiem-doat-hon-100-ty-dong-4794599.html) - 06:08 19/09/2024
 - 🎓 [Đóng giả học sinh đến trường săn thiếu nữ](https://vnexpress.net/dong-gia-hoc-sinh-den-truong-san-thieu-nu-4794601.html) - 04:03 19/09/2024
 - 🤓 [Bà Nguyễn Phương Hằng ra tù sớm 3 tháng](https://vnexpress.net/ba-nguyen-phuong-hang-ra-tu-som-3-thang-4794569.html) - 03:15 19/09/2024
