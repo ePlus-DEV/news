@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Tiếp tục nghiên cứu tăng lương tối thiểu phù hợp với từng thời kỳ](https://dantri.com.vn/lao-dong-viec-lam/tiep-tuc-nghien-cuu-tang-luong-toi-thieu-phu-hop-voi-tung-thoi-ky-20240919090851604.htm) - 02:37 19/09/2024
+- ⚗️ [Tăng lương tối thiểu phù hợp với từng thời kỳ](https://dantri.com.vn/lao-dong-viec-lam/tang-luong-toi-thieu-phu-hop-voi-tung-thoi-ky-20240919090851604.htm) - 02:37 19/09/2024
 - 🙉 [Họa sĩ trẻ mang tranh rồng phát sáng xuất ngoại, giá hơn 100 triệu đồng/bức](https://dantri.com.vn/lao-dong-viec-lam/hoa-si-tre-mang-tranh-rong-phat-sang-xuat-ngoai-gia-hon-100-trieu-dongbuc-20240918175324574.htm) - 23:00 18/09/2024
 - 🕴 [Lao động Việt thờ ơ với ngàn việc lương cả trăm triệu đồng/tháng?](https://dantri.com.vn/lao-dong-viec-lam/lao-dong-viet-tho-o-voi-ngan-viec-luong-ca-tram-trieu-dongthang-20240918184854781.htm) - 21:00 18/09/2024
 - 🧐 [Sau mưa lớn, người dân Đà Nẵng ra bờ biển bắt cá… nước ngọt](https://dantri.com.vn/lao-dong-viec-lam/sau-mua-lon-nguoi-dan-da-nang-ra-bo-bien-bat-ca-nuoc-ngot-20240918182509266.htm) - 12:37 18/09/2024
