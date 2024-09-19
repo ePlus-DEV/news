@@ -41,7 +41,7 @@ sidebar_position: 9
 - 🦏 [Những món nên tránh khi nhiễm trùng tiết niệu](https://vnexpress.net/nhung-mon-nen-tranh-khi-nhiem-trung-tiet-nieu-4794119.html) - 10:30 19/09/2024
 - 🦩 [Thùy Linh dừng bước ở vòng 1/8 China Open 2024](https://vnexpress.net/thuy-linh-dung-buoc-o-vong-1-8-china-open-2024-4794775.html) - 10:19 19/09/2024
 - 👺 [iPhone 17 Pro sẽ trang bị chip 2 nm](https://vnexpress.net/iphone-17-pro-se-trang-bi-chip-2-nm-4794020.html) - 10:11 19/09/2024
-- 🧑‍🏫 [Điểm tin 17h: Bão cấp 8 vào Quảng Bình - Quảng Trị | Cán bộ, công chức vi phạm nồng độ cồn sẽ bị kỷ luật](https://vnexpress.net/diem-tin-17h-bao-cap-8-vao-quang-binh-quang-tri-can-bo-cong-chuc-vi-pham-nong-do-con-se-bi-ky-luat-4794770.html) - 10:00 19/09/2024
+- 🧑‍🏫 [Điểm tin 21h: Lũ miền Tây lên nhanh | &#39;Vua cờ tướng&#39; Vương Thiên Nhất bị cấm thi đấu trọn đời](https://vnexpress.net/diem-tin-21h-lu-mien-tay-len-nhanh-vua-co-tuong-vuong-thien-nhat-bi-cam-thi-dau-tron-doi-4794770.html) - 10:00 19/09/2024
 - 😎 [Brad Pitt và bạn gái dự lễ ra mắt phim](https://vnexpress.net/brad-pitt-va-ban-gai-du-le-ra-mat-phim-4794733.html) - 10:00 19/09/2024
 - 🪄 [Hai món ăn từ bí đỏ giúp giảm đau đầu](https://vnexpress.net/hai-mon-an-tu-bi-do-giup-giam-dau-dau-4794625.html) - 10:00 19/09/2024
 - 🏊 [Em hay cười nói và làm điều tốt](https://vnexpress.net/em-hay-cuoi-noi-va-lam-dieu-tot-4794543.html) - 10:00 19/09/2024
