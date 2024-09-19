@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Mắc sai lầm khó hiểu, thủ môn trở thành trò cười ở Champions League](https://dantri.com.vn/the-thao/mac-sai-lam-kho-hieu-thu-mon-tro-thanh-tro-cuoi-o-champions-league-20240919170423907.htm) - 10:04 19/09/2024
+- 🎡 [Mắc sai lầm khó hiểu, thủ môn trở thành trò cười ở Champions League](https://dantri.com.vn/the-thao/mac-sai-lam-kho-hieu-thu-mon-tro-thanh-tro-cuoi-o-champions-league-20240919170423907.htm) - 11:04 19/09/2024
 - 💯 [Lamine Yamal được nhào nặn trở thành &quot;quái vật&quot; đáng sợ như Messi](https://dantri.com.vn/the-thao/lamine-yamal-duoc-nhao-nan-tro-thanh-quai-vat-dang-so-nhu-messi-20240919125424351.htm) - 09:03 19/09/2024
 - ⛽️ [Nữ Triều Tiên gây địa chấn, tạo ra trận chung kết châu Á ở U20 World Cup](https://dantri.com.vn/the-thao/nu-trieu-tien-gay-dia-chan-tao-ra-tran-chung-ket-chau-a-o-u20-world-cup-20240919132109923.htm) - 06:21 19/09/2024
 - 💃 [Messi ra sân 30 phút, Inter Miami chia điểm đáng tiếc trước Atlanta United](https://dantri.com.vn/the-thao/messi-ra-san-30-phut-inter-miami-chia-diem-dang-tiec-truoc-atlanta-united-20240919123337402.htm) - 06:00 19/09/2024
