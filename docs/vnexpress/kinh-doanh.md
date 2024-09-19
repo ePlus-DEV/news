@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [​Chuyến bay mang thông điệp bền vững của Vietnam Airlines](https://vnexpress.net/chuyen-bay-mang-thong-diep-ben-vung-cua-vietnam-airlines-4794443.html) - 07:00 19/09/2024
 - 🐲 [Hành trình ba thập kỷ Coca-Cola có mặt tại Việt Nam](https://vnexpress.net/hanh-trinh-ba-thap-ky-coca-cola-co-mat-tai-viet-nam-4780943.html) - 07:00 19/09/2024
-- 🔥 [Trump: &#39;Fed giảm lãi suất mạnh tay cho thấy kinh tế Mỹ rất tệ&#39;](https://vnexpress.net/trump-fed-giam-lai-suat-manh-tay-cho-thay-kinh-te-my-rat-te-4794532.html) - 03:53 19/09/2024
+- 🔥 [Ông Trump: &#39;Fed giảm lãi suất mạnh tay cho thấy kinh tế Mỹ rất tệ&#39;](https://vnexpress.net/ong-trump-fed-giam-lai-suat-manh-tay-cho-thay-kinh-te-my-rat-te-4794532.html) - 03:53 19/09/2024
 - 🐵 [Bitcoin lên mức cao nhất gần một tháng](https://vnexpress.net/gia-bitcoin-hom-nay-19-9-tang-len-muc-cao-nhat-gan-mot-thang-4794515.html) - 03:42 19/09/2024
 - 🦅 [Lượng người siêu giàu ở Trung Quốc tăng gấp đôi trong 10 năm](https://vnexpress.net/luong-nguoi-sieu-giau-o-trung-quoc-tang-gap-doi-trong-10-nam-4794274.html) - 02:50 19/09/2024
 - 😺 [Samsung hợp tác Keppel ứng dụng công nghệ vào bất động sản](https://vnexpress.net/samsung-hop-tac-keppel-ung-dung-cong-nghe-vao-bat-dong-san-4794409.html) - 02:00 19/09/2024
