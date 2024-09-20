@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Bố mẹ khuyến khích con tham gia Kun Marathon Hạ Long để tự lập](https://vnexpress.net/bo-me-khuyen-khich-con-tham-gia-kun-marathon-ha-long-de-tu-lap-4794822.html) - 12:56 20/09/2024
-- 🦩 [Kỷ lục gia V-League nhập tịch Việt Nam](https://vnexpress.net/ky-luc-gia-v-league-nhap-tich-viet-nam-4795251.html) - 12:38 20/09/2024
+- 🦩 [Kỷ lục gia V-League trở thành công dân Việt Nam](https://vnexpress.net/ky-luc-gia-v-league-tro-thanh-cong-dan-viet-nam-4795251.html) - 12:38 20/09/2024
 - 🧰 [Ferguson: &#39;Tôi nhớ cảm giác cùng Man Utd dự chung kết Champions League&#39;](https://vnexpress.net/ferguson-toi-nho-cam-giac-cung-man-utd-du-chung-ket-champions-league-4795232.html) - 11:04 20/09/2024
 - 🤗 [Ferdinand: &#39;Arsenal có cặp trung vệ hay nhất châu Âu&#39;](https://vnexpress.net/ferdinand-arsenal-co-cap-trung-ve-hay-nhat-chau-au-4795000.html) - 11:00 20/09/2024
 - 🥳 [&#39;9.000 runner truyền thông điệp Hạ Long vươn lên sau bão&#39;](https://vnexpress.net/9-000-runner-truyen-thong-diep-ha-long-vuon-len-sau-bao-4795202.html) - 10:09 20/09/2024
