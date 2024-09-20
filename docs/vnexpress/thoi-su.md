@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Quỹ Hy vọng tài trợ 9 trường gần 1 tỷ đồng](https://vnexpress.net/quy-hy-vong-tai-tro-9-truong-gan-1-ty-dong-4794917.html) - 03:56 20/09/2024
-- 🤓 [Dân Quảng Nam phải sơ tán trong đêm vì núi xuất hiện vết nứt](https://vnexpress.net/dan-quang-nam-phai-so-tan-trong-dem-vi-nui-xuat-hien-vet-nut-4794909.html) - 01:50 20/09/2024
+- 🤓 [Sơ tán dân trong đêm vì núi xuất hiện vết nứt](https://vnexpress.net/so-tan-dan-trong-dem-vi-nui-xuat-hien-vet-nut-4794909.html) - 01:50 20/09/2024
 - ⚗️ [Nhà máy giảm giờ làm để công nhân được nghỉ ngơi](https://vnexpress.net/nha-may-giam-gio-lam-de-cong-nhan-duoc-nghi-ngoi-4794245.html) - 22:00 19/09/2024
 - 🌊 [TP HCM nâng cấp sân Thống Nhất](https://vnexpress.net/tp-hcm-nang-cap-san-thong-nhat-4794815.html) - 17:00 19/09/2024
 - 🎓 [Khánh Hòa chi 4.200 tỷ đồng làm dự án giao thông, môi trường](https://vnexpress.net/khanh-hoa-chi-4-200-ty-dong-lam-du-an-giao-thong-moi-truong-4794810.html) - 17:00 19/09/2024
