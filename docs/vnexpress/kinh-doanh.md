@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Vì sao nhiều nơi vẫn chưa có điện sau bão Yagi?](https://vnexpress.net/vi-sao-nhieu-noi-van-chua-co-dien-sau-bao-yagi-4795065.html) - 05:27 20/09/2024
+- ⛽️ [Vì sao Quảng Ninh, Hải Phòng khó khôi phục điện ngay sau bão?](https://vnexpress.net/vi-sao-quang-ninh-hai-phong-kho-khoi-phuc-dien-ngay-sau-bao-4795065.html) - 05:27 20/09/2024
 - 🐲 [Nike thay CEO](https://vnexpress.net/nike-thay-ceo-4794994.html) - 04:38 20/09/2024
 - 🔥 [TotalEnergies kỷ niệm thành lập hai nhà máy tại Việt Nam](https://vnexpress.net/totalenergies-ky-niem-thanh-lap-hai-nha-may-tai-viet-nam-4795025.html) - 04:30 20/09/2024
 - 🐵 [Giá vàng nhẫn lên sát 80 triệu đồng](https://vnexpress.net/gia-vang-nhan-tron-len-sat-80-trieu-dong-4794976.html) - 04:25 20/09/2024
@@ -12,7 +12,7 @@ sidebar_position: 3
 - 😺 [Sun Group hợp tác thương hiệu Đức sản xuất dòng bia riêng](https://vnexpress.net/sun-group-hop-tac-thuong-hieu-duc-san-xuat-dong-bia-rieng-4794899.html) - 02:00 20/09/2024
 - 🤩 [Giá vàng thế giới lên sát 2.600 USD](https://vnexpress.net/gia-vang-the-gioi-tien-sat-2-600-usd-4794906.html) - 01:56 20/09/2024
 - 🌮 [CEO Kazen Foods: &#39;Nha đam Việt ra thế giới nhờ làm chủ công nghệ&#39;](https://vnexpress.net/ceo-kazen-foods-nha-dam-viet-ra-the-gioi-nho-lam-chu-cong-nghe-4794299.html) - 01:00 20/09/2024
-- 🧰 [Vì sao biểu tượng nhà bếp Tupperware phá sản?](https://vnexpress.net/vi-sao-bieu-tuong-nha-bep-tupperware-pha-san-4794748.html) - 23:00 19/09/2024
+- 🧰 [Lý do biểu tượng nhà bếp Tupperware phá sản](https://vnexpress.net/ly-do-bieu-tuong-nha-bep-tupperware-pha-san-4794748.html) - 23:00 19/09/2024
 - 🤔 [Ngân hàng Trung ương Anh giữ nguyên lãi suất](https://vnexpress.net/ngan-hang-trung-uong-anh-giu-nguyen-lai-suat-4794829.html) - 14:52 19/09/2024
 - 🧑‍💻 [HSBC: Nhà đầu tư Trung Quốc tăng rót vốn vào Việt Nam](https://vnexpress.net/hsbc-nha-dau-tu-trung-quoc-tang-rot-von-vao-viet-nam-4794730.html) - 13:01 19/09/2024
 - 🕴 [TH ra mắt hai sản phẩm xúc xích mới](https://vnexpress.net/th-ra-mat-hai-san-pham-xuc-xich-moi-4794537.html) - 13:00 19/09/2024
