@@ -4,11 +4,11 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Flick: &#39;Thẻ đỏ sớm khiến Barca thua Monaco&#39;](https://vnexpress.net/flick-the-do-som-khien-barca-thua-monaco-4794896.html) - 04:35 20/09/2024
-- 🦩 [VM Hạ Long 2024 có thể đón nữ vô địch mới](https://vnexpress.net/vm-ha-long-2024-co-the-don-nu-vo-dich-moi-4794740.html) - 03:43 20/09/2024
-- 🧰 [VnExpress Marathon Hạ Long hoàn tất chuẩn bị](https://vnexpress.net/vnexpress-marathon-ha-long-hoan-tat-chuan-bi-4794800.html) - 03:26 20/09/2024
+- 🪜 [Man City có thể bị trục xuất khỏi mọi giải đấu](https://vnexpress.net/man-city-co-the-bi-truc-xuat-khoi-moi-giai-dau-4794867.html) - 05:03 20/09/2024
+- 🦩 [Flick: &#39;Thẻ đỏ sớm khiến Barca thua Monaco&#39;](https://vnexpress.net/flick-the-do-som-khien-barca-thua-monaco-4794896.html) - 04:35 20/09/2024
+- 🧰 [VM Hạ Long 2024 có thể đón nữ vô địch mới](https://vnexpress.net/vm-ha-long-2024-co-the-don-nu-vo-dich-moi-4794740.html) - 03:43 20/09/2024
 - 🤗 [Xuân Bắc đồng hành runner Kun Marathon Hạ Long](https://vnexpress.net/xuan-bac-dong-hanh-runner-kun-marathon-ha-long-4794796.html) - 03:19 20/09/2024
-- 🥳 [HLV Alonso ca ngợi pha phô diễn kỹ thuật của cầu thủ Leverkusen](https://vnexpress.net/hlv-alonso-ca-ngoi-pha-pho-dien-ky-thuat-cua-cau-thu-leverkusen-4794904.html) - 01:18 20/09/2024
+- 🥳 [HLV Alonso thích pha giả sút của cầu thủ Leverkusen](https://vnexpress.net/hlv-alonso-thich-pha-gia-sut-cua-cau-thu-leverkusen-4794904.html) - 01:18 20/09/2024
 - 🦣 [Thủ môn Barca nhận lỗi khiến đồng đội chịu thẻ đỏ](https://vnexpress.net/thu-mon-barca-nhan-loi-khien-dong-doi-chiu-the-do-4794885.html) - 00:58 20/09/2024
 - 🌜 [HLV Atalanta ám chỉ Arsenal cầu hòa](https://vnexpress.net/hlv-atalanta-am-chi-arsenal-cau-hoa-4794857.html) - 22:58 19/09/2024
 - 🫶 [Thủ môn Arsenal được khen cứu thua hay bậc nhất lịch sử](https://vnexpress.net/thu-mon-arsenal-duoc-khen-cuu-thua-hay-bac-nhat-lich-su-4794856.html) - 22:34 19/09/2024
