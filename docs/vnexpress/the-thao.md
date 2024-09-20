@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Việt Nam rơi chiến thắng trước Anh ở Olympiad cờ vua](https://vnexpress.net/viet-nam-roi-chien-thang-truoc-anh-o-olympiad-co-vua-4795280.html) - 17:34 20/09/2024
+- 🪜 [Việt Nam thắng ngược Bulgaria ở Olympiad cờ vua](https://vnexpress.net/viet-nam-thang-nguoc-bulgaria-o-olympiad-co-vua-4795280.html) - 17:34 20/09/2024
 - 🦩 [CAHN thất trận ở V-League 2024-2025](https://vnexpress.net/cahn-that-tran-o-v-league-2024-2025-4795268.html) - 15:45 20/09/2024
 - 🧰 [Bố mẹ khuyến khích con tham gia Kun Marathon Hạ Long để tự lập](https://vnexpress.net/bo-me-khuyen-khich-con-tham-gia-kun-marathon-ha-long-de-tu-lap-4794822.html) - 12:56 20/09/2024
 - 🤗 [Kỷ lục gia V-League trở thành công dân Việt Nam](https://vnexpress.net/ky-luc-gia-v-league-tro-thanh-cong-dan-viet-nam-4795251.html) - 12:38 20/09/2024
