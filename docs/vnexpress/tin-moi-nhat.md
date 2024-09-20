@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Việt Nam rơi chiến thắng trước Anh ở Olympiad cờ vua](https://vnexpress.net/viet-nam-roi-chien-thang-truoc-anh-o-olympiad-co-vua-4795280.html) - 17:34 20/09/2024
+- 🎬 [Việt Nam thắng ngược Bulgaria ở Olympiad cờ vua](https://vnexpress.net/viet-nam-thang-nguoc-bulgaria-o-olympiad-co-vua-4795280.html) - 17:34 20/09/2024
 - 🐎 [Ngôi nhà có mặt tiền cắt vát như viên ngọc](https://vnexpress.net/ngoi-nha-co-mat-tien-cat-vat-nhu-vien-ngoc-4795197.html) - 17:05 20/09/2024
 - 🦍 [Mẹo ăn uống giúp răng chắc khỏe](https://vnexpress.net/meo-an-uong-giup-rang-chac-khoe-4795117.html) - 17:03 20/09/2024
 - 🏊 [Điều gì khiến bạn thực sự hạnh phúc?](https://vnexpress.net/dieu-gi-khien-ban-thuc-su-hanh-phuc-4794761.html) - 17:01 20/09/2024
