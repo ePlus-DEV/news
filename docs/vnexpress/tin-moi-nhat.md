@@ -13,7 +13,7 @@ sidebar_position: 9
 - 🧰 [Phó thống đốc: Không được để vay ưu đãi &#39;chỉ thấy trên tivi&#39;](https://vnexpress.net/pho-thong-doc-khong-duoc-de-vay-uu-dai-chi-thay-tren-tivi-4795096.html) - 13:43 20/09/2024
 - 🔭 [Trẻ em tập luyện nhiều tuần chuẩn bị cho Kun Marathon Hạ Long](https://vnexpress.net/tre-em-tap-luyen-nhieu-tuan-chuan-bi-cho-kun-marathon-ha-long-4795255.html) - 13:34 20/09/2024
 - 🫶 [Trường Victoria Nam Sài Gòn đạt giải kiến trúc Mỹ](https://vnexpress.net/truong-victoria-nam-sai-gon-dat-giai-kien-truc-my-4795228.html) - 13:27 20/09/2024
-- 🪜 [Israel có thể đã hạ sát chỉ huy Hezbollah ở thủ đô Beirut](https://vnexpress.net/israel-co-the-da-ha-sat-chi-huy-hezbollah-o-thu-do-beirut-4795260.html) - 13:26 20/09/2024
+- 🪜 [Israel tuyên bố hạ sát chỉ huy Hezbollah ở thủ đô Beirut](https://vnexpress.net/israel-tuyen-bo-ha-sat-chi-huy-hezbollah-o-thu-do-beirut-4795260.html) - 13:26 20/09/2024
 - 👨‍🏫 [Chém anh ruột giữa phố vì mâu thuẫn chia nhà](https://vnexpress.net/chem-anh-ruot-giua-pho-vi-mau-thuan-chia-nha-4795250.html) - 13:20 20/09/2024
 - 🎊 [Ba mẹ con bị lũ cuốn](https://vnexpress.net/ba-me-con-bi-lu-cuon-4795258.html) - 13:13 20/09/2024
 - 🎊 [Làm mọi việc nhưng không có giá trị gì trong mắt mẹ chồng](https://vnexpress.net/lam-moi-viec-nhung-khong-co-gia-tri-gi-trong-mat-me-chong-4795177.html) - 13:00 20/09/2024
