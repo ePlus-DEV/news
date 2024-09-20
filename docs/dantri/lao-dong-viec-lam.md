@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Thống nhất phương án nghỉ Tết 2025 liền 9 ngày](https://dantri.com.vn/lao-dong-viec-lam/thong-nhat-phuong-an-nghi-tet-2025-lien-9-ngay-20240920084656776.htm) - 01:55 20/09/2024
+- ⚗️ [Tán thành phương án nghỉ Tết 2025 liền 9 ngày](https://dantri.com.vn/lao-dong-viec-lam/tan-thanh-phuong-an-nghi-tet-2025-lien-9-ngay-20240920084656776.htm) - 01:55 20/09/2024
 - 🙉 [Mưa lớn, người dân đổ xô giăng lưới kiếm &quot;lộc trời&quot;](https://dantri.com.vn/lao-dong-viec-lam/mua-lon-nguoi-dan-do-xo-giang-luoi-kiem-loc-troi-20240920075505933.htm) - 01:52 20/09/2024
 - 🕴 [Công nhân phải &quot;bán máu&quot; trả lãi tín dụng đen, từng nghĩ đến cái chết](https://dantri.com.vn/lao-dong-viec-lam/cong-nhan-phai-ban-mau-tra-lai-tin-dung-den-tung-nghi-den-cai-chet-20240920010003136.htm) - 23:31 19/09/2024
 - 🧐 [Tuyển nhiều lao động chỉ cần biết đọc, viết, lương đến 20 triệu đồng/tháng](https://dantri.com.vn/lao-dong-viec-lam/tuyen-nhieu-lao-dong-chi-can-biet-doc-viet-luong-den-20-trieu-dongthang-20240919155032512.htm) - 23:00 19/09/2024
