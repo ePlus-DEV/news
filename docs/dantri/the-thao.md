@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Công tác chuẩn bị tất bật của Aqua Warriors Van Don 2024, hứa hẹn ngày thi đấu bùng nổ](https://dantri.com.vn/the-thao/cong-tac-chuan-bi-tat-bat-cua-aqua-warriors-van-don-2024-hua-hen-ngay-thi-dau-bung-no-20240920161153253.htm) - 09:37 20/09/2024
-- 💯 [C.Ronaldo nhận xét thẳng về Lamine Yamal](https://dantri.com.vn/the-thao/cronaldo-nhan-xet-thang-ve-lamine-yamal-20240920160857343.htm) - 09:09 20/09/2024
+- 🎡 [C.Ronaldo nhận xét thẳng về Lamine Yamal](https://dantri.com.vn/the-thao/cronaldo-nhan-xet-thang-ve-lamine-yamal-20240920160857343.htm) - 11:09 20/09/2024
+- 💯 [Công tác chuẩn bị tất bật của Aqua Warriors Van Don 2024, hứa hẹn ngày thi đấu bùng nổ](https://dantri.com.vn/the-thao/cong-tac-chuan-bi-tat-bat-cua-aqua-warriors-van-don-2024-hua-hen-ngay-thi-dau-bung-no-20240920161153253.htm) - 09:37 20/09/2024
 - ⛽️ [Trọng tài FIFA thừa nhận thiên vị Messi vì mục đích riêng](https://dantri.com.vn/the-thao/trong-tai-fifa-thua-nhan-thien-vi-messi-vi-muc-dich-rieng-20240920154804778.htm) - 08:48 20/09/2024
 - 💃 [Thể thức mới của UEFA Champions League bị chỉ trích dữ dội](https://dantri.com.vn/the-thao/the-thuc-moi-cua-uefa-champions-league-bi-chi-trich-du-doi-20240920074619801.htm) - 07:22 20/09/2024
 - 🌈 [HLV Australia bay ghế bởi đội tuyển Indonesia](https://dantri.com.vn/the-thao/hlv-australia-bay-ghe-boi-doi-tuyen-indonesia-20240920140440060.htm) - 07:06 20/09/2024
