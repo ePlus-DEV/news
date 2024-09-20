@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Israel có thể đã hạ sát chỉ huy Hezbollah ở thủ đô Beirut](https://vnexpress.net/israel-co-the-da-ha-sat-chi-huy-hezbollah-o-thu-do-beirut-4795260.html) - 13:26 20/09/2024
+- 🎭 [Israel tuyên bố hạ sát chỉ huy Hezbollah ở thủ đô Beirut](https://vnexpress.net/israel-tuyen-bo-ha-sat-chi-huy-hezbollah-o-thu-do-beirut-4795260.html) - 13:26 20/09/2024
 - 🕴 [Hezbollah phóng 140 rocket vào Israel](https://vnexpress.net/hezbollah-phong-140-rocket-vao-israel-4795248.html) - 12:59 20/09/2024
 - 🤭 [Thủ lĩnh Hezbollah - người quyền lực hàng đầu Lebanon](https://vnexpress.net/thu-linh-hezbollah-nguoi-quyen-luc-hang-dau-lebanon-4794870.html) - 12:44 20/09/2024
 - 🧑‍💻 [Sofia bác tin công ty Bulgaria bán máy nhắn tin phát nổ ở Lebanon](https://vnexpress.net/sofia-bac-tin-cong-ty-bulgaria-ban-may-nhan-tin-phat-no-o-lebanon-4795238.html) - 12:10 20/09/2024
