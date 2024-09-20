@@ -4,7 +4,7 @@ sidebar_position: 8
 ---
 
 <!-- dantri-phap-luat:START -->
-- 🌊 [Giúp Trương Mỹ Lan chiếm đoạt 30.000 tỷ, nhân viên nói &quot;làm không suy nghĩ&quot;](https://dantri.com.vn/phap-luat/giup-truong-my-lan-chiem-doat-30000-ty-nhan-vien-noi-lam-khong-suy-nghi-20240919224339429.htm) - 05:46 20/09/2024
+- 🌊 [Giúp Trương Mỹ Lan đoạt 30.000 tỷ đồng, nhân viên nói &quot;làm không suy nghĩ&quot;](https://dantri.com.vn/phap-luat/giup-truong-my-lan-doat-30000-ty-dong-nhan-vien-noi-lam-khong-suy-nghi-20240919224339429.htm) - 05:46 20/09/2024
 - 🐲 [Giang hồ đất Cảng nổ súng bắn người trước cửa quán bar lĩnh án](https://dantri.com.vn/phap-luat/giang-ho-dat-cang-no-sung-ban-nguoi-truoc-cua-quan-bar-linh-an-20240920122857400.htm) - 05:42 20/09/2024
 - 🌁 [Tạm giam hai phụ nữ dùng nước sôi, cây gỗ hành hung công an](https://dantri.com.vn/phap-luat/tam-giam-hai-phu-nu-dung-nuoc-soi-cay-go-hanh-hung-cong-an-20240920114456248.htm) - 05:06 20/09/2024
 - 🎃 [Bé gái 14 tuổi bị bán cho quán karaoke với giá 7 triệu đồng](https://dantri.com.vn/phap-luat/be-gai-14-tuoi-bi-ban-cho-quan-karaoke-voi-gia-7-trieu-dong-20240920111333697.htm) - 04:22 20/09/2024
