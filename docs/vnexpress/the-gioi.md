@@ -7,7 +7,7 @@ sidebar_position: 2
 - 🎭 [Ông Zelensky: Chiến dịch Kursk buộc Nga điều chuyển 40.000 quân](https://vnexpress.net/ong-zelensky-chien-dich-kursk-buoc-nga-dieu-chuyen-40-000-quan-4794910.html) - 03:17 20/09/2024
 - 🕴 [Số người chết vì lũ lụt sau bão Yagi ở Myanmar tăng lên 293](https://vnexpress.net/so-nguoi-chet-vi-lu-lut-sau-bao-yagi-o-myanmar-tang-len-293-4794869.html) - 02:47 20/09/2024
 - 🤭 [Tâm trạng người Israel và Lebanon sau loạt vụ nổ thiết bị của Hezbollah](https://vnexpress.net/tam-trang-nguoi-israel-va-lebanon-sau-loat-vu-no-thiet-bi-cua-hezbollah-4794696.html) - 01:08 20/09/2024
-- 🧑‍💻 [Mỹ kêu gọi Hezbollah ngừng tấn công Israel](https://vnexpress.net/my-keu-goi-hezbollah-ngung-tan-cong-israel-4794864.html) - 00:16 20/09/2024
+- 🧑‍💻 [Mỹ kêu gọi Hezbollah &#39;ngừng tấn công&#39; Israel](https://vnexpress.net/my-keu-goi-hezbollah-ngung-tan-cong-israel-4794864.html) - 00:16 20/09/2024
 - 🦏 [Israel tuyên bố không kích hàng trăm mục tiêu ở Lebanon](https://vnexpress.net/israel-tuyen-bo-khong-kich-hang-tram-muc-tieu-o-lebanon-4794858.html) - 00:00 20/09/2024
 - 🦒 [Ông Putin: Sản lượng UAV Nga tăng gấp 10 lần trong năm 2024](https://vnexpress.net/ong-putin-san-luong-uav-nga-tang-gap-10-lan-trong-nam-2024-4794839.html) - 23:44 19/09/2024
 - 🌈 [Thủ lĩnh Hezbollah: Israel đã vượt mọi lằn ranh đỏ](https://vnexpress.net/thu-linh-hezbollah-israel-da-vuot-moi-lan-ranh-do-4794831.html) - 15:39 19/09/2024
