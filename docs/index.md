@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Chồng của nữ tỷ phú giàu nhất Nga bị cáo buộc giết người](https://vnexpress.net/chong-cua-nu-ty-phu-giau-nhat-nga-bi-cao-buoc-giet-nguoi-4795147.html) - 14:31 20/09/2024
+- 🚀 [CAHN thất trận ở V-League 2024-2025](https://vnexpress.net/cahn-that-tran-o-v-league-2024-2025-4795268.html) - 15:45 20/09/2024
 - 🧰 [Tàu chở 14 người bị chìm trên biển Côn Đảo](https://vnexpress.net/tau-cho-14-nguoi-bi-chim-tren-bien-con-dao-4795263.html) - 14:11 20/09/2024
 - 🥰 [Mong gặp cô gái biết quan tâm, thông cảm](https://vnexpress.net/mong-gap-co-gai-biet-quan-tam-thong-cam-4795077.html) - 14:00 20/09/2024
 - 🌏 [Chồng làm bể nợ 10 tỷ nhưng căn ke tiền tôi mua trái sầu riêng](https://vnexpress.net/chong-lam-be-no-10-ty-nhung-can-ke-tien-toi-mua-trai-sau-rieng-4794901.html) - 14:00 20/09/2024
@@ -35,7 +35,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😺 [Phó thống đốc: Không được để vay ưu đãi &#39;chỉ thấy trên tivi&#39;](https://vnexpress.net/pho-thong-doc-khong-duoc-de-vay-uu-dai-chi-thay-tren-tivi-4795096.html) - 13:43 20/09/2024
 - 🕯 [Trẻ em tập luyện nhiều tuần chuẩn bị cho Kun Marathon Hạ Long](https://vnexpress.net/tre-em-tap-luyen-nhieu-tuan-chuan-bi-cho-kun-marathon-ha-long-4795255.html) - 13:34 20/09/2024
 - 💃 [Trường Victoria Nam Sài Gòn đạt giải kiến trúc Mỹ](https://vnexpress.net/truong-victoria-nam-sai-gon-dat-giai-kien-truc-my-4795228.html) - 13:27 20/09/2024
-- 💂 [Israel có thể đã hạ sát chỉ huy Hezbollah ở thủ đô Beirut](https://vnexpress.net/israel-co-the-da-ha-sat-chi-huy-hezbollah-o-thu-do-beirut-4795260.html) - 13:26 20/09/2024
+- 💂 [Israel tuyên bố hạ sát chỉ huy Hezbollah ở thủ đô Beirut](https://vnexpress.net/israel-tuyen-bo-ha-sat-chi-huy-hezbollah-o-thu-do-beirut-4795260.html) - 13:26 20/09/2024
 - 🎊 [Chém anh ruột giữa phố vì mâu thuẫn chia nhà](https://vnexpress.net/chem-anh-ruot-giua-pho-vi-mau-thuan-chia-nha-4795250.html) - 13:20 20/09/2024
 - 🤠 [Ba mẹ con bị lũ cuốn](https://vnexpress.net/ba-me-con-bi-lu-cuon-4795258.html) - 13:13 20/09/2024
 - 🌈 [Làm mọi việc nhưng không có giá trị gì trong mắt mẹ chồng](https://vnexpress.net/lam-moi-viec-nhung-khong-co-gia-tri-gi-trong-mat-me-chong-4795177.html) - 13:00 20/09/2024
