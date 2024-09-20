@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Thành Long diễn cảnh phi xe xuyên kính](https://vnexpress.net/thanh-long-dien-canh-phi-xe-xuyen-kinh-4794932.html) - 03:48 20/09/2024
 - 💫 [Xuân Hạnh cùng thí sinh Miss Cosmo diễn trang phục dân tộc](https://vnexpress.net/xuan-hanh-cung-thi-sinh-miss-cosmo-dien-trang-phuc-dan-toc-4794937.html) - 03:16 20/09/2024
-- 🌮 [Sách về nhà thơ Nguyễn Bính thắng giải lý luận, phê bình](https://vnexpress.net/sach-ve-nha-tho-nguyen-binh-thang-giai-ly-luan-phe-binh-4794882.html) - 03:05 20/09/2024
+- 🌮 [Sách về thi sĩ Nguyễn Bính được tặng thưởng lý luận, phê bình](https://vnexpress.net/sach-ve-thi-si-nguyen-binh-duoc-tang-thuong-ly-luan-phe-binh-4794882.html) - 03:05 20/09/2024
 - 🧠 [Thiện Nhân: &#39;Tôi mơ có một lễ cưới&#39;](https://vnexpress.net/thien-nhan-toi-mo-co-mot-le-cuoi-4794871.html) - 02:57 20/09/2024
 - 👨‍🏫 [&#39;Shogun&#39; - cuộc chiến quyền lực](https://vnexpress.net/giai-tri/phim/thu-vien-phim/shogun-732) - 17:00 19/09/2024
 - ⚗️ [Thiên nhiên, con người vùng cao qua ống kính diễn viên Chiều Xuân](https://vnexpress.net/thien-nhien-con-nguoi-vung-cao-qua-ong-kinh-dien-vien-chieu-xuan-4794553.html) - 13:00 19/09/2024
