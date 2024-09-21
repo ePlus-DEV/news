@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Việt Nam sẩy chân ở vòng áp chót Olympiad cờ vua](https://vnexpress.net/viet-nam-say-chan-o-vong-ap-chot-olympiad-co-vua-4795560.html) - 19:36 21/09/2024
-- 🦩 [9.000 runner VnExpress Marathon Hạ Long thi đấu dưới mưa](https://vnexpress.net/9-000-runner-vnexpress-marathon-ha-long-thi-dau-duoi-mua-4795490.html) - 19:18 21/09/2024
+- 🦩 [Runner Kenya tạm dẫn đầu 42km VM Hạ Long](https://vnexpress.net/runner-kenya-tam-dan-dau-42km-vm-ha-long-4795490.html) - 19:18 21/09/2024
 - 🧰 [Man Utd bị cầm chân ở Ngoại hạng Anh](https://vnexpress.net/man-utd-bi-cam-chan-o-ngoai-hang-anh-4795557.html) - 18:22 21/09/2024
 - 🤗 [Tiến Linh ghi ba bàn sau hai trận ở V-League](https://vnexpress.net/tien-linh-ghi-ba-ban-sau-hai-tran-o-v-league-4795545.html) - 16:24 21/09/2024
 - 🥳 [Son Heung-min giúp Tottenham thắng ngược](https://vnexpress.net/son-heung-min-giup-tottenham-thang-nguoc-4795552.html) - 15:56 21/09/2024
