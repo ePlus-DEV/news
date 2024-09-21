@@ -27,7 +27,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Việt Nam sẩy chân ở vòng áp chót Olympiad cờ vua](https://vnexpress.net/viet-nam-say-chan-o-vong-ap-chot-olympiad-co-vua-4795560.html) - 19:36 21/09/2024
-- 🧰 [9.000 runner VnExpress Marathon Hạ Long thi đấu dưới mưa](https://vnexpress.net/9-000-runner-vnexpress-marathon-ha-long-thi-dau-duoi-mua-4795490.html) - 19:18 21/09/2024
+- 🧰 [Runner Kenya tạm dẫn đầu 42km VM Hạ Long](https://vnexpress.net/runner-kenya-tam-dan-dau-42km-vm-ha-long-4795490.html) - 19:18 21/09/2024
 - 🥰 [Vì sao béo phì gây ngủ ngáy?](https://vnexpress.net/vi-sao-beo-phi-gay-ngu-ngay-4795426.html) - 19:00 21/09/2024
 - 🌏 [Man Utd bị cầm chân ở Ngoại hạng Anh](https://vnexpress.net/man-utd-bi-cam-chan-o-ngoai-hang-anh-4795557.html) - 18:22 21/09/2024
 - 🧐 [Duy Mạnh, Tuấn Hưng hát chung sau 14 năm](https://vnexpress.net/duy-manh-tuan-hung-hat-chung-sau-14-nam-4795535.html) - 17:57 21/09/2024
