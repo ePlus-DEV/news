@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Man Utd đón tin vui trước chuyến đi tới Crystal Palace](https://dantri.com.vn/the-thao/man-utd-don-tin-vui-truoc-chuyen-di-toi-crystal-palace-20240921142421724.htm) - 07:24 21/09/2024
-- 💯 [HLV Park Hang Seo bị chê lương quá cao, Malaysia lên tiếng phán xử](https://dantri.com.vn/the-thao/hlv-park-hang-seo-bi-che-luong-qua-cao-malaysia-len-tieng-phan-xu-20240921125126569.htm) - 05:51 21/09/2024
+- 💯 [HLV Park Hang Seo bị chê đòi lương quá cao, Malaysia lên tiếng phán xử](https://dantri.com.vn/the-thao/hlv-park-hang-seo-bi-che-doi-luong-qua-cao-malaysia-len-tieng-phan-xu-20240921125126569.htm) - 05:51 21/09/2024
 - ⛽️ [Báo Indonesia nói gì khi đội tuyển Việt Nam nhập tịch cầu thủ?](https://dantri.com.vn/the-thao/bao-indonesia-noi-gi-khi-doi-tuyen-viet-nam-nhap-tich-cau-thu-20240921120433212.htm) - 05:04 21/09/2024
 - 💃 [Cơ hội lớn để Real Madrid giành Siêu Cúp Liên lục địa](https://dantri.com.vn/the-thao/co-hoi-lon-de-real-madrid-gianh-sieu-cup-lien-luc-dia-20240921115227084.htm) - 05:00 21/09/2024
 - 🌈 [Cờ vua Việt Nam thắng đương kim vô địch châu Âu ở Olympiad 2024](https://dantri.com.vn/the-thao/co-vua-viet-nam-thang-duong-kim-vo-dich-chau-au-o-olympiad-2024-20240921073958771.htm) - 00:44 21/09/2024
