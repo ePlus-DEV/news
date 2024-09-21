@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-giao-duc:START -->
 - 🤡 [10 câu nói cha mẹ tâm lý rất nên nói với con](https://dantri.com.vn/giao-duc/10-cau-noi-cha-me-tam-ly-rat-nen-noi-voi-con-20240921100623776.htm) - 06:00 21/09/2024
-- 🗽 [Sau Hà Nội, tỉnh nào có số ứng viên giáo sư, giáo phó sư nhiều nhất?](https://dantri.com.vn/giao-duc/sau-ha-noi-tinh-nao-co-so-ung-vien-giao-su-giao-pho-su-nhieu-nhat-20240921084834782.htm) - 03:00 21/09/2024
+- 🗽 [Sau Hà Nội, tỉnh nào có số ứng viên giáo sư, phó giáo sư nhiều nhất?](https://dantri.com.vn/giao-duc/sau-ha-noi-tinh-nao-co-so-ung-vien-giao-su-pho-giao-su-nhieu-nhat-20240921084834782.htm) - 03:00 21/09/2024
 - 🚦 [Cuộc sống sinh viên của cậu út nhà cựu Tổng thống Mỹ Donald Trump](https://dantri.com.vn/giao-duc/cuoc-song-sinh-vien-cua-cau-ut-nha-cuu-tong-thong-my-donald-trump-20240920162357994.htm) - 01:00 21/09/2024
 - 🌋 [Trường học tại Hà Nội được thu tiền học thêm bao nhiêu?](https://dantri.com.vn/giao-duc/truong-hoc-tai-ha-noi-duoc-thu-tien-hoc-them-bao-nhieu-20240920145010764.htm) - 23:00 20/09/2024
 - 🏊 [Thanh tra trách nhiệm hiệu trưởng tự ý chuyển đồ sang trường mới](https://dantri.com.vn/giao-duc/thanh-tra-trach-nhiem-hieu-truong-tu-y-chuyen-do-sang-truong-moi-20240920212658819.htm) - 14:56 20/09/2024
