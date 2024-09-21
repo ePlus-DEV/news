@@ -30,7 +30,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧰 [Thành ngữ nào liên quan đến chàng cao bồi?](https://vnexpress.net/thanh-ngu-nao-lien-quan-den-chang-cao-boi-4794325.html) - 06:01 21/09/2024
 - 🥰 [Rắn độc vào nhà cắn người phụ nữ nguy kịch](https://vnexpress.net/ran-doc-vao-nha-can-nguoi-phu-nu-nguy-kich-4795358.html) - 06:00 21/09/2024
 - 🌏 [Người Anh khốn khổ vì hàng xóm xấu tính](https://vnexpress.net/nguoi-anh-khon-kho-vi-hang-xom-xau-tinh-4795056.html) - 05:52 21/09/2024
-- 🧐 [Đổ xăng đốt rác, lửa bùng lên khiến người đàn ông bỏng nặng](https://vnexpress.net/do-xang-dot-rac-lua-bung-len-khien-nguoi-dan-ong-bong-nang-4795399.html) - 05:50 21/09/2024
+- 🧐 [Đổ xăng đốt rác, người đàn ông bỏng nặng](https://vnexpress.net/do-xang-dot-rac-nguoi-dan-ong-bong-nang-4795399.html) - 05:50 21/09/2024
 - 💫 [Aion Hyptec HT - xe điện cửa cánh chim ra mắt Đông Nam Á](https://vnexpress.net/aion-hyptec-ht-xe-dien-cua-canh-chim-ra-mat-dong-nam-a-4795169.html) - 05:45 21/09/2024
 - 😺 [Trẻ em cầm cờ Tổ quốc ăn mừng về đích Kun Marathon Hạ Long](https://vnexpress.net/tre-em-cam-co-to-quoc-an-mung-ve-dich-kun-marathon-ha-long-4795292.html) - 05:43 21/09/2024
 - 🕯 [Thúy Hạnh dẫn hai con đi xem thời trang](https://vnexpress.net/thuy-hanh-dan-hai-con-di-xem-thoi-trang-4795398.html) - 05:39 21/09/2024
