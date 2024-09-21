@@ -67,7 +67,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦒 [Hạ Long sẽ có mưa khi runner VnExpress Marathon xuất phát](https://vnexpress.net/ha-long-se-co-mua-khi-runner-vnexpress-marathon-xuat-phat-4795359.html) - 04:34 21/09/2024
 - ⛽️ [Runner lái thử xe Skoda tại VnExpress Marathon Hạ Long](https://vnexpress.net/runner-lai-thu-xe-skoda-tai-vnexpress-marathon-ha-long-4795353.html) - 04:27 21/09/2024
 - 🚀 [Thầy giáo Singapore cùng 9 học sinh cuối cấp chạy VM Hạ Long](https://vnexpress.net/thay-giao-singapore-cung-9-hoc-sinh-cuoi-cap-chay-vm-ha-long-4795295.html) - 04:12 21/09/2024
-- 🪜 [Nhà thầu đợi mặt bằng trên cao tốc Hữu Nghị - Chi Lăng](https://vnexpress.net/nha-thau-doi-mat-bang-tren-cao-toc-huu-nghi-chi-lang-4795010.html) - 04:10 21/09/2024
+- 🪜 [Nhà thầu đợi mặt bằng dự án cao tốc qua Lạng Sơn](https://vnexpress.net/nha-thau-doi-mat-bang-du-an-cao-toc-qua-lang-son-4795010.html) - 04:10 21/09/2024
 - 🚦 [Thư Kỳ không bận tâm tuổi tác](https://vnexpress.net/thu-ky-khong-ban-tam-tuoi-tac-4795348.html) - 04:09 21/09/2024
 - 🕯 [&#39;Mắc kẹt&#39; trong 6000 m2 đất thừa kế ở quê](https://vnexpress.net/mac-ket-trong-6000-m2-dat-thua-ke-o-que-4795371.html) - 04:06 21/09/2024
 - 💪 [Địa phương duy nhất Việt Nam không có thị trấn?](https://vnexpress.net/dia-phuong-duy-nhat-viet-nam-khong-co-thi-tran-4795105.html) - 04:00 21/09/2024
