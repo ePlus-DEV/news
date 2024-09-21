@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Mặt đường cao tốc Đà Nẵng - Quảng Ngãi hư hỏng](https://vnexpress.net/mat-duong-cao-toc-da-nang-quang-ngai-hu-hong-4795340.html) - 05:04 21/09/2024
 - 🤓 [Hai cán bộ bị khiển trách vì vụ 22 biệt thự xây không phép](https://vnexpress.net/xay-dung-trai-phep-o-lam-dong-4795400.html) - 04:49 21/09/2024
-- ⚗️ [Nhà thầu đợi từng mét mặt bằng trên cao tốc Hữu Nghị - Chi Lăng](https://vnexpress.net/nha-thau-doi-tung-met-mat-bang-tren-cao-toc-huu-nghi-chi-lang-4795010.html) - 04:10 21/09/2024
+- ⚗️ [Nhà thầu đợi mặt bằng trên cao tốc Hữu Nghị - Chi Lăng](https://vnexpress.net/nha-thau-doi-mat-bang-tren-cao-toc-huu-nghi-chi-lang-4795010.html) - 04:10 21/09/2024
 - 🌊 [Đường sắt bán vé tàu Tết từ tháng 10](https://vnexpress.net/duong-sat-ban-ve-tau-tet-tu-thang-10-4795338.html) - 02:44 21/09/2024
 - 🎓 [Nỗi lo của tài xế đi trên cao tốc không làn khẩn cấp](https://vnexpress.net/noi-lo-cua-tai-xe-di-tren-cao-toc-khong-lan-khan-cap-4795234.html) - 23:00 20/09/2024
 - 🔥 [Nga, EU hỗ trợ Việt Nam khắc phục hậu quả bão Yagi](https://vnexpress.net/nga-eu-ho-tro-viet-nam-khac-phuc-hau-qua-bao-yagi-4791778.html) - 17:00 20/09/2024
