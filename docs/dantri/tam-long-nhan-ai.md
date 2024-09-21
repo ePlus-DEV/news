@@ -5,7 +5,7 @@ sidebar_position: 20
 
 <!-- dantri-tam-long-nhan-ai:START -->
 - 🌝 [Lời hứa dang dở của chiến sĩ mất 5 người thân vì sạt lở đất ở Yên Bái](https://dantri.com.vn/tam-long-nhan-ai/loi-hua-dang-do-cua-chien-si-mat-5-nguoi-than-vi-sat-lo-dat-o-yen-bai-20240920203405445.htm) - 23:49 20/09/2024
-- 🌜 [Kết thúc Chương trình &quot;Trao tặng thẻ BHYT cho học sinh khó khăn năm 2024&quot;](https://dantri.com.vn/tam-long-nhan-ai/ket-thuc-chuong-trinh-trao-tang-the-bhyt-cho-hoc-sinh-kho-khan-nam-2024-20240920043111762.htm) - 13:25 20/09/2024
+- 🌜 [Kết thúc Chương trình &quot;Trao tặng thẻ BHYT cho học sinh khó khăn&quot; - Mùa yêu thương thứ 3](https://dantri.com.vn/tam-long-nhan-ai/ket-thuc-chuong-trinh-trao-tang-the-bhyt-cho-hoc-sinh-kho-khan-mua-yeu-thuong-thu-3-20240920043111762.htm) - 13:25 20/09/2024
 - 👀 [Chàng trai Làng Nủ Nguyễn Chung Kiên đã không qua khỏi](https://dantri.com.vn/tam-long-nhan-ai/chang-trai-lang-nu-nguyen-chung-kien-da-khong-qua-khoi-20240920200920884.htm) - 13:22 20/09/2024
 - 🚀 [Ủy ban MTTQ tỉnh Cao Bằng cảm ơn bạn đọc báo Dân trí đã hỗ trợ kịp thời](https://dantri.com.vn/tam-long-nhan-ai/uy-ban-mttq-tinh-cao-bang-cam-on-ban-doc-bao-dan-tri-da-ho-tro-kip-thoi-20240920124418986.htm) - 11:27 20/09/2024
 - 🦅 [Danh sách bạn đọc ủng hộ tuần 1 tháng 9/2024](https://dantri.com.vn/tam-long-nhan-ai/danh-sach-ban-doc-ung-ho-tuan-1-thang-92024-20240920110347686.htm) - 07:58 20/09/2024
