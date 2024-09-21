@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Thầy giáo Singapore rủ 9 học sinh cuối cấp chạy VM Hạ Long](https://vnexpress.net/thay-giao-singapore-ru-9-hoc-sinh-cuoi-cap-chay-vm-ha-long-4795295.html) - 04:12 21/09/2024
+- 🚀 [Thầy giáo Singapore cùng 9 học sinh cuối cấp chạy VM Hạ Long](https://vnexpress.net/thay-giao-singapore-cung-9-hoc-sinh-cuoi-cap-chay-vm-ha-long-4795295.html) - 04:12 21/09/2024
 - 🎓 [Tập đoàn Aeon hỗ trợ vùng bão lũ gần 2,5 tỷ đồng](https://vnexpress.net/tap-doan-aeon-ho-tro-vung-bao-lu-gan-2-5-ty-dong-4793359.html) - 04:00 21/09/2024
 - 🚦 [Người đàn ông làm nghề phá đám cưới](https://vnexpress.net/nguoi-dan-ong-lam-nghe-pha-dam-cuoi-4795014.html) - 03:49 21/09/2024
 - 🦣 [Mô hình &#39;đổi chai lấy sữa&#39; mỗi sáng của người Hà Nội](https://vnexpress.net/mo-hinh-doi-chai-lay-sua-moi-sang-cua-nguoi-ha-noi-4795200.html) - 23:29 20/09/2024
