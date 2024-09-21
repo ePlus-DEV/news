@@ -16,7 +16,7 @@ sidebar_position: 5
 - 😺 [Alcaraz thua trận ra quân Laver Cup](https://vnexpress.net/alcaraz-thua-tran-ra-quan-laver-cup-4795367.html) - 03:43 21/09/2024
 - 👍 [Nhân Lê - nữ runner &#39;hạt tiêu&#39; chạy sub3:30](https://vnexpress.net/nhan-le-nu-runner-hat-tieu-chay-sub3-30-4795298.html) - 02:08 21/09/2024
 - 🐵 [Arteta: &#39;Arsenal chuẩn bị từ mùa hè để đấu Man City&#39;](https://vnexpress.net/arteta-arsenal-chuan-bi-tu-mua-he-de-dau-man-city-4795300.html) - 00:48 21/09/2024
-- 💫 [Runner mất 75% sức khoẻ chạy marathon sub4](https://vnexpress.net/runner-mat-75-suc-khoe-chay-marathon-sub4-4795233.html) - 00:45 21/09/2024
+- 💫 [Runner thương tật 75% chạy marathon sub4](https://vnexpress.net/runner-thuong-tat-75-chay-marathon-sub4-4795233.html) - 00:45 21/09/2024
 - 🦆 [HLV Popov: &#39;Thanh Hóa không cho CAHN chơi bóng&#39;](https://vnexpress.net/hlv-popov-thanh-hoa-khong-cho-cahn-choi-bong-4795282.html) - 00:38 21/09/2024
 - 🙉 [Những sinh viên 3 năm liền làm tình nguyện tại VnExpress Marathon Hạ Long](https://vnexpress.net/nhung-sinh-vien-3-nam-lien-lam-tinh-nguyen-tai-vnexpress-marathon-ha-long-4795278.html) - 00:18 21/09/2024
 - 📝 [Raya xin tư vấn trước khi cản quả phạt đền &#39;hay bậc nhất lịch sử&#39;](https://vnexpress.net/raya-xin-tu-van-truoc-khi-can-qua-phat-den-hay-bac-nhat-lich-su-4795296.html) - 00:04 21/09/2024
