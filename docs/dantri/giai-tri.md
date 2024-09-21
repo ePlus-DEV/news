@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [David Beckham bảnh bao tựa quý ông khi ngồi hàng ghế đầu show thời trang](https://dantri.com.vn/giai-tri/david-beckham-banh-bao-tua-quy-ong-khi-ngoi-hang-ghe-dau-show-thoi-trang-20240920003906873.htm) - 06:00 21/09/2024
+- 🤩 [David Beckham bảnh bao ngồi hàng ghế đầu show thời trang](https://dantri.com.vn/giai-tri/david-beckham-banh-bao-ngoi-hang-ghe-dau-show-thoi-trang-20240920003906873.htm) - 06:00 21/09/2024
 - 🔥 [Trịnh Sảng thổ lộ &quot;phải trả giá đắt, rơi vào tuyệt vọng&quot; vì tin nhầm người](https://dantri.com.vn/giai-tri/trinh-sang-tho-lo-phai-tra-gia-dat-roi-vao-tuyet-vong-vi-tin-nham-nguoi-20240920105145626.htm) - 03:04 21/09/2024
 - 🚀 [Hồ Ngọc Hà phối đồ hiệu một cách tinh tế](https://dantri.com.vn/giai-tri/ho-ngoc-ha-phoi-do-hieu-mot-cach-tinh-te-20240920142636913.htm) - 02:30 21/09/2024
 - 🔥 [Hôn nhân viên mãn của 3 ông trùm xã hội đen khét tiếng phim &quot;Độc đạo&quot;](https://dantri.com.vn/giai-tri/hon-nhan-vien-man-cua-3-ong-trum-xa-hoi-den-khet-tieng-phim-doc-dao-20240920093426426.htm) - 00:03 21/09/2024
