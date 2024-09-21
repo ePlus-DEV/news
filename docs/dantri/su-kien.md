@@ -5,7 +5,7 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [Công an Hà Nội điều tra vụ cô gái 18 tuổi bị vỗ mông tại thang máy chung cư](https://dantri.com.vn/phap-luat/cong-an-ha-noi-dieu-tra-vu-co-gai-18-tuoi-bi-vo-mong-tai-thang-may-chung-cu-20240921153912499.htm) - 08:46 21/09/2024
-- 👨‍🏫 [Chuyện chưa kể về đêm &quot;chạy lụt&quot; lịch sử của dân bãi giữa sông Hồng](https://dantri.com.vn/xa-hoi/chuyen-chua-ke-ve-dem-chay-lut-lich-su-cua-dan-bai-giua-song-hong-20240920232534963.htm) - 07:10 21/09/2024
+- 👨‍🏫 [Chuyện chưa kể về đêm chạy lụt lịch sử của dân bãi giữa sông Hồng](https://dantri.com.vn/xa-hoi/chuyen-chua-ke-ve-dem-chay-lut-lich-su-cua-dan-bai-giua-song-hong-20240920232534963.htm) - 07:10 21/09/2024
 - 🌮 [ISW: Ukraine lợi dụng sơ hở để tấn công Kursk, Nga trở tay không kịp](https://dantri.com.vn/the-gioi/isw-ukraine-loi-dung-so-ho-de-tan-cong-kursk-nga-tro-tay-khong-kip-20240921122144184.htm) - 06:44 21/09/2024
 - 🕯 [Thực hư quán cơm sạch ở Hạ Long vắng khách sau khi bị &quot;bóc phốt&quot;](https://dantri.com.vn/du-lich/thuc-hu-quan-com-sach-o-ha-long-vang-khach-sau-khi-bi-boc-phot-20240921103938668.htm) - 06:12 21/09/2024
 - 🪜 [F-16 Ukraine bị rơi do va vào mảnh vỡ tên lửa Nga?](https://dantri.com.vn/the-gioi/f-16-ukraine-bi-roi-do-va-vao-manh-vo-ten-lua-nga-20240921114653899.htm) - 05:56 21/09/2024
