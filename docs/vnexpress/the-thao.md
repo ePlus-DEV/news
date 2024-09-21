@@ -9,7 +9,7 @@ sidebar_position: 5
 - 🧰 [Guardiola: &#39;Đây là Arsenal mạnh nhất tôi từng đối đầu&#39;](https://vnexpress.net/guardiola-day-la-arsenal-manh-nhat-toi-tung-doi-dau-4795390.html) - 23:00 21/09/2024
 - 🤗 [Liverpool trở lại đỉnh bảng Ngoại hạng Anh](https://vnexpress.net/liverpool-tro-lai-dinh-bang-ngoai-hang-anh-4795562.html) - 21:19 21/09/2024
 - 🥳 [Việt Nam sẩy chân ở vòng áp chót Olympiad cờ vua](https://vnexpress.net/viet-nam-say-chan-o-vong-ap-chot-olympiad-co-vua-4795560.html) - 19:36 21/09/2024
-- 🦣 [Anh Khôi vô địch VM Hạ Long trong cơn mưa rào](https://vnexpress.net/anh-khoi-vo-dich-vm-ha-long-trong-con-mua-rao-4795490.html) - 19:18 21/09/2024
+- 🦣 [Huỳnh Anh Khôi thắng runner Kenya, lên ngôi vô địch VM Hạ Long](https://vnexpress.net/huynh-anh-khoi-thang-runner-kenya-len-ngoi-vo-dich-vm-ha-long-4795490.html) - 19:18 21/09/2024
 - 🌜 [Man Utd bị cầm chân ở Ngoại hạng Anh](https://vnexpress.net/man-utd-bi-cam-chan-o-ngoai-hang-anh-4795557.html) - 18:22 21/09/2024
 - 🫶 [Tiến Linh ghi ba bàn sau hai trận ở V-League](https://vnexpress.net/tien-linh-ghi-ba-ban-sau-hai-tran-o-v-league-4795545.html) - 16:24 21/09/2024
 - 🌜 [Son Heung-min giúp Tottenham thắng ngược](https://vnexpress.net/son-heung-min-giup-tottenham-thang-nguoc-4795552.html) - 15:56 21/09/2024
