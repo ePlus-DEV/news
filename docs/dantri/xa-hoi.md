@@ -11,7 +11,7 @@ sidebar_position: 1
 - 🕯 [Sập giàn giáo mái bê tông, 4 người thương vong](https://dantri.com.vn/xa-hoi/sap-gian-giao-mai-be-tong-4-nguoi-thuong-vong-20240921182547880.htm) - 11:34 21/09/2024
 - 👍 [Cố băng qua đường ngập nước, 2 nữ sinh bị lũ cuốn trôi](https://dantri.com.vn/xa-hoi/co-bang-qua-duong-ngap-nuoc-2-nu-sinh-bi-lu-cuon-troi-20240921181124732.htm) - 11:30 21/09/2024
 - 🤖 [Dân Quảng Bình phát hiện hố sụt sâu hơn 12m sau tiếng nổ](https://dantri.com.vn/xa-hoi/dan-quang-binh-phat-hien-ho-sut-sau-hon-12m-sau-tieng-no-20240921172634369.htm) - 10:43 21/09/2024
-- 🙉 [Khu tạm cư mới của người dân Làng Nủ đã sẵn sàng đón người dân về ở](https://dantri.com.vn/xa-hoi/khu-tam-cu-moi-cua-nguoi-dan-lang-nu-da-san-sang-don-nguoi-dan-ve-o-20240921171411840.htm) - 10:42 21/09/2024
+- 🙉 [Vingroup bàn giao nhà tạm cho người dân Làng Nủ](https://dantri.com.vn/xa-hoi/vingroup-ban-giao-nha-tam-cho-nguoi-dan-lang-nu-20240921171411840.htm) - 10:42 21/09/2024
 - 👍 [Khởi công tái thiết Làng Nủ và thôn Kho Vàng sau trận lũ quét lịch sử](https://dantri.com.vn/xa-hoi/khoi-cong-tai-thiet-lang-nu-va-thon-kho-vang-sau-tran-lu-quet-lich-su-20240921170335952.htm) - 10:37 21/09/2024
 - 🗽 [Hàng vạn người đổ về Hải Phòng xem lễ hội chọi trâu Đồ Sơn](https://dantri.com.vn/xa-hoi/hang-van-nguoi-do-ve-hai-phong-xem-le-hoi-choi-trau-do-son-20240921160308586.htm) - 10:14 21/09/2024
 - 🗽 [Vụ mùa trắng tay và cuộc sống vất vả sau lũ của người dân Hà Nội](https://dantri.com.vn/xa-hoi/vu-mua-trang-tay-va-cuoc-song-vat-va-sau-lu-cua-nguoi-dan-ha-noi-20240921151717866.htm) - 09:44 21/09/2024
