@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Đèo Bảo Lộc bị sạt lở](https://vnexpress.net/sat-lo-deo-bao-loc-4795526.html) - 14:32 21/09/2024
 - 🤓 [20 đặc công lặn tìm du khách rơi xuống biển Ninh Thuận](https://vnexpress.net/20-dac-cong-lan-tim-du-khach-roi-xuong-bien-ninh-thuan-4795522.html) - 14:08 21/09/2024
-- ⚗️ [Thủ tướng: Khẩn trương khắc phục hậu quả bão lũ](https://vnexpress.net/thu-tuong-khan-truong-khac-phuc-hau-qua-bao-lu-4795515.html) - 13:46 21/09/2024
+- ⚗️ [Thủ tướng: Khẩn trương khắc phục hậu quả bão lũ, ổn định đời sống nhân dân](https://vnexpress.net/thu-tuong-khan-truong-khac-phuc-hau-qua-bao-lu-on-dinh-doi-song-nhan-dan-4795515.html) - 13:46 21/09/2024
 - 🌊 [Không diễu binh kỷ niệm 80 năm thành lập Quân đội nhân dân Việt Nam](https://vnexpress.net/khong-dieu-binh-ky-niem-80-nam-thanh-lap-quan-doi-nhan-dan-viet-nam-4795501.html) - 12:24 21/09/2024
 - 🎓 [Khởi công khu tái định cư Làng Nủ](https://vnexpress.net/khoi-cong-khu-tai-dinh-cu-lang-nu-4795504.html) - 12:09 21/09/2024
 - 🔥 [Sập giàn giáo khiến hai người tử vong](https://vnexpress.net/sap-gian-giao-khien-hai-nguoi-tu-vong-4795503.html) - 11:49 21/09/2024
