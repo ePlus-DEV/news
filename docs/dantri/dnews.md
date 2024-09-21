@@ -5,7 +5,7 @@ sidebar_position: 14
 
 <!-- dantri-dnews:START -->
 - 🤠 [iPhone 16 Pro Max đọ dáng iPhone 15 Pro Max](https://dantri.com.vn/suc-manh-so/iphone-16-pro-max-do-dang-iphone-15-pro-max-20240920235419800.htm) - 08:45 21/09/2024
-- 🌈 [Chuyện chưa kể về đêm &quot;chạy lụt&quot; lịch sử của dân bãi giữa sông Hồng](https://dantri.com.vn/xa-hoi/chuyen-chua-ke-ve-dem-chay-lut-lich-su-cua-dan-bai-giua-song-hong-20240920232534963.htm) - 07:10 21/09/2024
+- 🌈 [Chuyện chưa kể về đêm chạy lụt lịch sử của dân bãi giữa sông Hồng](https://dantri.com.vn/xa-hoi/chuyen-chua-ke-ve-dem-chay-lut-lich-su-cua-dan-bai-giua-song-hong-20240920232534963.htm) - 07:10 21/09/2024
 - 🐎 [Tượng đài sụp đổ: Tupperware, từ đế chế nhà bếp đến bờ vực phá sản](https://dantri.com.vn/kinh-doanh/tuong-dai-sup-do-tupperware-tu-de-che-nha-bep-den-bo-vuc-pha-san-20240921020238138.htm) - 01:33 21/09/2024
 - 👹 [Hoa hậu Kỳ Duyên: &quot;Khi hoàn thành các mục tiêu, tôi sẽ đi tìm tổ ấm&quot;](https://dantri.com.vn/giai-tri/hoa-hau-ky-duyen-khi-hoan-thanh-cac-muc-tieu-toi-se-di-tim-to-am-20240919105358335.htm) - 22:58 20/09/2024
 - 🫶 [Cháu bà Trương Mỹ Lan: &quot;Thâm tâm bị cáo không muốn lừa, nhưng...&quot;](https://dantri.com.vn/phap-luat/chau-ba-truong-my-lan-tham-tam-bi-cao-khong-muon-lua-nhung-20240920210004908.htm) - 18:17 20/09/2024
