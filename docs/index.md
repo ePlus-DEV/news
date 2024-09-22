@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Arteta: &#39;100 trận Ngoại hạng Anh sẽ có thẻ đỏ&#39;](https://vnexpress.net/arteta-100-tran-ngoai-hang-anh-se-co-the-do-4795780.html) - 23:20 22/09/2024
+- 🚀 [Arteta: &#39;Sẽ có 100 trận các đội phải đá thiếu người mùa này&#39;](https://vnexpress.net/arteta-se-co-100-tran-cac-doi-phai-da-thieu-nguoi-mua-nay-4795780.html) - 23:20 22/09/2024
 - 🧰 [Milan ngắt mạch thua trước Inter](https://vnexpress.net/milan-ngat-mach-thua-truoc-inter-4795776.html) - 23:11 22/09/2024
 - 🥰 [Leverkusen thắng ngược ở phút bù thứ ba](https://vnexpress.net/leverkusen-thang-nguoc-o-phut-bu-thu-ba-4795773.html) - 23:02 22/09/2024
 - 🌏 [Người nước ngoài sang Việt Nam làm tình nguyện](https://vnexpress.net/nguoi-nuoc-ngoai-sang-viet-nam-lam-tinh-nguyen-4794165.html) - 23:00 22/09/2024
