@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Malaysia bắt hơn 350 nghi phạm vụ &#39;mái ấm ác mộng&#39;](https://vnexpress.net/malaysia-bat-hon-350-nghi-pham-vu-mai-am-ac-mong-4795628.html) - 07:39 22/09/2024
-- 🕴 [Israel tập kích trường học ở Gaza, 22 người chết](https://vnexpress.net/israel-tap-kich-truong-hoc-o-gaza-22-nguoi-chet-4795580.html) - 07:24 22/09/2024
-- 🤭 [Hezbollah để lọt thiết bị gắn thuốc nổ như thế nào](https://vnexpress.net/hezbollah-de-lot-thiet-bi-gan-thuoc-no-nhu-the-nao-4795357.html) - 04:22 22/09/2024
-- 🧑‍💻 [&#39;Hố tử thần&#39; nuốt hai xe tải ở Hàn Quốc sau mưa lớn](https://vnexpress.net/ho-tu-than-nuot-hai-xe-tai-o-han-quoc-sau-mua-lon-4795583.html) - 03:09 22/09/2024
-- 🦏 [Thế giằng co Nga - Ukraine gần đô thị chiến lược Pokrovsk](https://vnexpress.net/the-giang-co-nga-ukraine-gan-do-thi-chien-luoc-pokrovsk-4794492.html) - 02:05 22/09/2024
-- 🦒 [Ông Trump nêu lý do từ chối tranh luận lần hai với bà Harris](https://vnexpress.net/ong-trump-neu-ly-do-tu-choi-tranh-luan-lan-hai-voi-ba-harris-4795566.html) - 00:36 22/09/2024
-- 🌈 [Tổng Bí thư, Chủ tịch nước đến Mỹ dự tuần lễ cấp cao Đại hội đồng LHQ](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-den-my-du-tuan-le-cap-cao-dai-hoi-dong-lhq-4795567.html) - 23:48 21/09/2024
-- 🧑‍🏫 [Quá trình &#39;từ người hùng về con số 0&#39; của nghi phạm định ám sát ông Trump](https://vnexpress.net/qua-trinh-tu-nguoi-hung-ve-con-so-0-cua-nghi-pham-dinh-am-sat-ong-trump-4794485.html) - 22:00 21/09/2024
-- 🐲 [Lãnh đạo Chechnya đăng video xe Tesla gắn súng máy hạ drone](https://vnexpress.net/lanh-dao-chechnya-dang-video-xe-tesla-gan-sung-may-ha-drone-4795550.html) - 17:38 21/09/2024
-- 🦒 [Mê cung nguồn gốc máy nhắn tin phát nổ của Hezbollah](https://vnexpress.net/me-cung-nguon-goc-may-nhan-tin-phat-no-cua-hezbollah-4795313.html) - 17:00 21/09/2024
-- 🐻 [Người Ấn Độ tuần hành 42 km để lên án vụ bác sĩ bị cưỡng bức, sát hại](https://vnexpress.net/nguoi-an-do-tuan-hanh-42-km-de-len-an-vu-bac-si-bi-cuong-buc-sat-hai-4795528.html) - 15:28 21/09/2024
-- 🚀 [Israel - Hezbollah tiếp tục tập kích nhau](https://vnexpress.net/israel-hezbollah-tiep-tuc-tap-kich-nhau-4795513.html) - 13:45 21/09/2024
-- 🥰 [Tâm trạng người Nga trước kịch bản Ukraine được gỡ rào vũ khí](https://vnexpress.net/tam-trang-nguoi-nga-truoc-kich-ban-ukraine-duoc-go-rao-vu-khi-4792745.html) - 12:43 21/09/2024
-- 🔥 [Israel dồn lực đối phó Hezbollah ở biên giới](https://vnexpress.net/israel-don-luc-doi-pho-hezbollah-o-bien-gioi-4794884.html) - 12:02 21/09/2024
-- 🥳 [Bác sĩ Hàn bị bắt vì tung danh sách đồng nghiệp không đình công](https://vnexpress.net/bac-si-han-bi-bat-vi-tung-danh-sach-dong-nghiep-khong-dinh-cong-4795491.html) - 11:02 21/09/2024
-- 💼 [Nga tập kích, phá hủy loạt thiết giáp phương Tây của Ukraine](https://vnexpress.net/nga-tap-kich-pha-huy-loat-thiet-giap-phuong-tay-cua-ukraine-4795364.html) - 09:14 21/09/2024
-- 🤡 [Israel đệ đơn khiếu nại thẩm quyền của ICC](https://vnexpress.net/israel-de-don-khieu-nai-tham-quyen-cua-icc-4795454.html) - 08:08 21/09/2024
-- 🌁 [Chiến dịch Harris chi gấp ba lần đối thủ Trump trong tháng 8](https://vnexpress.net/chien-dich-harris-chi-gap-ba-lan-doi-thu-trump-trong-thang-8-4795387.html) - 06:57 21/09/2024
-- 🤩 [Mèo lạc vượt gần 1.300 km về với chủ](https://vnexpress.net/meo-lac-vuot-gan-1-300-km-ve-voi-chu-4795320.html) - 06:05 21/09/2024
+- 🎭 [Hezbollah và dân quân Iraq tập kích Israel](https://vnexpress.net/hezbollah-va-dan-quan-iraq-tap-kich-israel-4795679.html) - 09:16 22/09/2024
+- 🕴 [Malaysia bắt hơn 350 nghi phạm vụ &#39;mái ấm ác mộng&#39;](https://vnexpress.net/malaysia-bat-hon-350-nghi-pham-vu-mai-am-ac-mong-4795628.html) - 07:39 22/09/2024
+- 🤭 [Israel tập kích trường học ở Gaza, 22 người chết](https://vnexpress.net/israel-tap-kich-truong-hoc-o-gaza-22-nguoi-chet-4795580.html) - 07:24 22/09/2024
+- 🧑‍💻 [Hezbollah để lọt thiết bị gắn thuốc nổ như thế nào](https://vnexpress.net/hezbollah-de-lot-thiet-bi-gan-thuoc-no-nhu-the-nao-4795357.html) - 04:22 22/09/2024
+- 🦏 [&#39;Hố tử thần&#39; nuốt hai xe tải ở Hàn Quốc sau mưa lớn](https://vnexpress.net/ho-tu-than-nuot-hai-xe-tai-o-han-quoc-sau-mua-lon-4795583.html) - 03:09 22/09/2024
+- 🦒 [Thế giằng co Nga - Ukraine gần đô thị chiến lược Pokrovsk](https://vnexpress.net/the-giang-co-nga-ukraine-gan-do-thi-chien-luoc-pokrovsk-4794492.html) - 02:05 22/09/2024
+- 🌈 [Ông Trump nêu lý do từ chối tranh luận lần hai với bà Harris](https://vnexpress.net/ong-trump-neu-ly-do-tu-choi-tranh-luan-lan-hai-voi-ba-harris-4795566.html) - 00:36 22/09/2024
+- 🧑‍🏫 [Tổng Bí thư, Chủ tịch nước đến Mỹ dự tuần lễ cấp cao Đại hội đồng LHQ](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-den-my-du-tuan-le-cap-cao-dai-hoi-dong-lhq-4795567.html) - 23:48 21/09/2024
+- 🐲 [Quá trình &#39;từ người hùng về con số 0&#39; của nghi phạm định ám sát ông Trump](https://vnexpress.net/qua-trinh-tu-nguoi-hung-ve-con-so-0-cua-nghi-pham-dinh-am-sat-ong-trump-4794485.html) - 22:00 21/09/2024
+- 🦒 [Lãnh đạo Chechnya đăng video xe Tesla gắn súng máy hạ drone](https://vnexpress.net/lanh-dao-chechnya-dang-video-xe-tesla-gan-sung-may-ha-drone-4795550.html) - 17:38 21/09/2024
+- 🐻 [Mê cung nguồn gốc máy nhắn tin phát nổ của Hezbollah](https://vnexpress.net/me-cung-nguon-goc-may-nhan-tin-phat-no-cua-hezbollah-4795313.html) - 17:00 21/09/2024
+- 🚀 [Người Ấn Độ tuần hành 42 km để lên án vụ bác sĩ bị cưỡng bức, sát hại](https://vnexpress.net/nguoi-an-do-tuan-hanh-42-km-de-len-an-vu-bac-si-bi-cuong-buc-sat-hai-4795528.html) - 15:28 21/09/2024
+- 🥰 [Israel - Hezbollah tiếp tục tập kích nhau](https://vnexpress.net/israel-hezbollah-tiep-tuc-tap-kich-nhau-4795513.html) - 13:45 21/09/2024
+- 🔥 [Tâm trạng người Nga trước kịch bản Ukraine được gỡ rào vũ khí](https://vnexpress.net/tam-trang-nguoi-nga-truoc-kich-ban-ukraine-duoc-go-rao-vu-khi-4792745.html) - 12:43 21/09/2024
+- 🥳 [Israel dồn lực đối phó Hezbollah ở biên giới](https://vnexpress.net/israel-don-luc-doi-pho-hezbollah-o-bien-gioi-4794884.html) - 12:02 21/09/2024
+- 💼 [Bác sĩ Hàn bị bắt vì tung danh sách đồng nghiệp không đình công](https://vnexpress.net/bac-si-han-bi-bat-vi-tung-danh-sach-dong-nghiep-khong-dinh-cong-4795491.html) - 11:02 21/09/2024
+- 🤡 [Nga tập kích, phá hủy loạt thiết giáp phương Tây của Ukraine](https://vnexpress.net/nga-tap-kich-pha-huy-loat-thiet-giap-phuong-tay-cua-ukraine-4795364.html) - 09:14 21/09/2024
+- 🌁 [Israel đệ đơn khiếu nại thẩm quyền của ICC](https://vnexpress.net/israel-de-don-khieu-nai-tham-quyen-cua-icc-4795454.html) - 08:08 21/09/2024
+- 🤩 [Chiến dịch Harris chi gấp ba lần đối thủ Trump trong tháng 8](https://vnexpress.net/chien-dich-harris-chi-gap-ba-lan-doi-thu-trump-trong-thang-8-4795387.html) - 06:57 21/09/2024
+- 🎉 [Mèo lạc vượt gần 1.300 km về với chủ](https://vnexpress.net/meo-lac-vuot-gan-1-300-km-ve-voi-chu-4795320.html) - 06:05 21/09/2024
 - 🎉 [Cặp vợ chồng ngồi tù vì chó cưng cắn chết người](https://vnexpress.net/cap-vo-chong-ngoi-tu-vi-cho-cung-can-chet-nguoi-4795311.html) - 05:04 21/09/2024
-- 🎉 [Nước sông tràn bờ, Nhật Bản sơ tán 30.000 dân](https://vnexpress.net/nuoc-song-tran-bo-nhat-ban-so-tan-30-000-dan-4795378.html) - 05:00 21/09/2024
-- 🌁 [Những giả thuyết về cơ chế kích nổ thiết bị liên lạc của Hezbollah](https://vnexpress.net/nhung-gia-thuyet-ve-co-che-kich-no-thiet-bi-lien-lac-cua-hezbollah-4795140.html) - 04:42 21/09/2024
-- 🌊 [Những thanh niên Nga đi xuyên châu Âu xem concert Taylor Swift](https://vnexpress.net/nhung-thanh-nien-nga-di-xuyen-chau-au-xem-concert-taylor-swift-4795339.html) - 03:50 21/09/2024
-- 🕴 [Tổng Bí thư, Chủ tịch nước lên đường công du Mỹ, Cuba](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-len-duong-cong-du-my-cuba-4795098.html) - 02:49 21/09/2024
-- 🎓 [EU muốn dùng tài sản Nga để cho Ukraine vay 39 tỷ USD](https://vnexpress.net/eu-muon-dung-tai-san-nga-de-cho-ukraine-vay-39-ty-usd-4795259.html) - 01:57 21/09/2024
-- 🦩 [Mật vụ Mỹ công bố loạt sai sót trong vụ ông Trump bị ám sát hụt](https://vnexpress.net/mat-vu-my-cong-bo-loat-sai-sot-trong-vu-ong-trump-bi-am-sat-hut-4795285.html) - 00:24 21/09/2024
-- 🌏 [Lebanon, Israel đấu khẩu tại Hội đồng Bảo an Liên Hợp Quốc](https://vnexpress.net/lebanon-israel-dau-khau-tai-hoi-dong-bao-an-lien-hop-quoc-4795287.html) - 00:06 21/09/2024
-- 🌋 [Khoảnh khắc drone Nga bắn cháy xe tăng Leopard 2 hiện đại nhất Ukraine](https://vnexpress.net/khoanh-khac-drone-nga-ban-chay-xe-tang-leopard-2-hien-dai-nhat-ukraine-4795211.html) - 23:51 20/09/2024
-- 🪜 [Ukraine cấm cài Telegram trên thiết bị chính phủ](https://vnexpress.net/ukraine-cam-cai-telegram-tren-thiet-bi-chinh-phu-4795277.html) - 16:53 20/09/2024
-- 🕴 [Israel hạ sát chỉ huy Hezbollah ở thủ đô Beirut](https://vnexpress.net/israel-ha-sat-chi-huy-hezbollah-o-thu-do-beirut-4795260.html) - 13:26 20/09/2024
-- 🧑‍🏫 [Hezbollah phóng 140 rocket vào Israel](https://vnexpress.net/hezbollah-phong-140-rocket-vao-israel-4795248.html) - 12:59 20/09/2024
-- 🌮 [Thủ lĩnh Hezbollah - người quyền lực hàng đầu Lebanon](https://vnexpress.net/thu-linh-hezbollah-nguoi-quyen-luc-hang-dau-lebanon-4794870.html) - 12:44 20/09/2024
-- 🚦 [Sofia bác tin công ty Bulgaria bán máy nhắn tin phát nổ ở Lebanon](https://vnexpress.net/sofia-bac-tin-cong-ty-bulgaria-ban-may-nhan-tin-phat-no-o-lebanon-4795238.html) - 12:10 20/09/2024
-- 💫 [&#39;Nữ hoàng&#39; truyền hình Mỹ Oprah Winfrey tiếp sức cho bà Harris](https://vnexpress.net/nu-hoang-truyen-hinh-my-oprah-winfrey-tiep-suc-cho-ba-harris-4794960.html) - 11:56 20/09/2024
-- 🤡 [Thái Lan giải cứu phụ nữ bị trăn siết](https://vnexpress.net/thai-lan-giai-cuu-phu-nu-bi-tran-siet-4794915.html) - 10:47 20/09/2024
-- 🦣 [Nỗi ám ảnh của bác sĩ Lebanon khi cứu nạn nhân vụ nổ thiết bị liên lạc](https://vnexpress.net/noi-am-anh-cua-bac-si-lebanon-khi-cuu-nan-nhan-vu-no-thiet-bi-lien-lac-4794888.html) - 10:17 20/09/2024
-- 🎬 [Báo Mỹ nói vụ nổ máy nhắn tin ở Lebanon được chuẩn bị suốt 15 năm](https://vnexpress.net/bao-my-noi-vu-no-may-nhan-tin-o-lebanon-duoc-chuan-bi-suot-15-nam-4795153.html) - 09:54 20/09/2024
-- 🎉 [Israel điều tra vụ binh sĩ đẩy thi thể khỏi nóc nhà ở Bờ Tây](https://vnexpress.net/israel-dieu-tra-vu-binh-si-day-thi-the-khoi-noc-nha-o-bo-tay-4795040.html) - 08:23 20/09/2024
-- 🎡 [Những nghề kiếm tiền nhờ ly hôn ở Trung Quốc](https://vnexpress.net/nhung-nghe-kiem-tien-nho-ly-hon-o-trung-quoc-4795016.html) - 08:21 20/09/2024
-- 🌜 [Thượng Hải hứng cơn bão thứ hai trong 4 ngày](https://vnexpress.net/thuong-hai-hung-con-bao-thu-hai-trong-4-ngay-4795039.html) - 07:56 20/09/2024
-- 🎡 [Chiến lược gia kể chuyện đóng vai ông Trump để bà Harris tập tranh luận](https://vnexpress.net/chien-luoc-gia-ke-chuyen-dong-vai-ong-trump-de-ba-harris-tap-tranh-luan-4793661.html) - 07:42 20/09/2024
-- 🤗 [Lebanon cấm mang máy nhắn tin, bộ đàm lên máy bay](https://vnexpress.net/lebanon-cam-mang-may-nhan-tin-bo-dam-len-may-bay-4795005.html) - 07:00 20/09/2024
-- 🦩 [Mỹ lần đầu công bố video &#39;sát thủ tàng hình&#39; B-21 bay thử](https://vnexpress.net/my-lan-dau-cong-bo-video-sat-thu-tang-hinh-b-21-bay-thu-4794954.html) - 05:00 20/09/2024
-- 🎓 [Tỷ lệ ủng hộ ông Trump, bà Harris ngang nhau trên toàn nước Mỹ](https://vnexpress.net/ty-le-ung-ho-ong-trump-ba-harris-ngang-nhau-tren-toan-nuoc-my-4794887.html) - 04:24 20/09/2024
-- 🌁 [Ông Zelensky: Chiến dịch Kursk buộc Nga điều chuyển 40.000 quân](https://vnexpress.net/ong-zelensky-chien-dich-kursk-buoc-nga-dieu-chuyen-40-000-quan-4794910.html) - 03:17 20/09/2024
-- 🤩 [Số người chết vì lũ lụt sau bão Yagi ở Myanmar tăng lên 293](https://vnexpress.net/so-nguoi-chet-vi-lu-lut-sau-bao-yagi-o-myanmar-tang-len-293-4794869.html) - 02:47 20/09/2024
-- 👹 [Tâm trạng người Israel và Lebanon sau loạt vụ nổ thiết bị của Hezbollah](https://vnexpress.net/tam-trang-nguoi-israel-va-lebanon-sau-loat-vu-no-thiet-bi-cua-hezbollah-4794696.html) - 01:08 20/09/2024
-- ⛽️ [Mỹ kêu gọi Hezbollah ngừng tấn công Israel](https://vnexpress.net/my-keu-goi-hezbollah-ngung-tan-cong-israel-4794864.html) - 00:16 20/09/2024
-- 🚀 [Israel tuyên bố không kích hàng trăm mục tiêu ở Lebanon](https://vnexpress.net/israel-tuyen-bo-khong-kich-hang-tram-muc-tieu-o-lebanon-4794858.html) - 00:00 20/09/2024
-- 🎡 [Ông Putin: Sản lượng UAV Nga tăng gấp 10 lần trong năm 2024](https://vnexpress.net/ong-putin-san-luong-uav-nga-tang-gap-10-lan-trong-nam-2024-4794839.html) - 23:44 19/09/2024
-- 🕯 [Thủ lĩnh Hezbollah: Israel đã vượt mọi lằn ranh đỏ](https://vnexpress.net/thu-linh-hezbollah-israel-da-vuot-moi-lan-ranh-do-4794831.html) - 15:39 19/09/2024
-- 🐻 [Nga tuyên bố tập kích &#39;trung tâm liên lạc đặc biệt&#39; của Ukraine](https://vnexpress.net/nga-tuyen-bo-tap-kich-trung-tam-lien-lac-dac-biet-cua-ukraine-4794811.html) - 13:58 19/09/2024
-- 🚦 [Loạt vụ nổ thiết bị liên lạc giáng đòn đau vào Hezbollah](https://vnexpress.net/loat-vu-no-thiet-bi-lien-lac-giang-don-dau-vao-hezbollah-4794493.html) - 13:51 19/09/2024
-- 👍 [Tổng Bí thư, Chủ tịch nước sẽ phát biểu trước Đại hội đồng Liên Hợp Quốc](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-se-phat-bieu-truoc-dai-hoi-dong-lien-hop-quoc-4794791.html) - 12:19 19/09/2024
-- 🚀 [Israel tuyên bố phá âm mưu ám sát Thủ tướng Netanyahu](https://vnexpress.net/israel-tuyen-bo-pha-am-muu-am-sat-thu-tuong-netanyahu-4794721.html) - 11:54 19/09/2024
-- 🌮 [Công ty Bulgaria bị nghi bán máy nhắn tin nổ ở Lebanon](https://vnexpress.net/cong-ty-bulgaria-bi-nghi-ban-may-nhan-tin-no-o-lebanon-4794794.html) - 11:39 19/09/2024
-- 😎 [Hai ngày Lebanon hỗn loạn vì loạt vụ nổ thiết bị liên lạc](https://vnexpress.net/hai-ngay-lebanon-hon-loan-vi-loat-vu-no-thiet-bi-lien-lac-4794786.html) - 11:13 19/09/2024
-- 🐲 [Việt Nam kêu gọi các bên ở Trung Đông kiềm chế](https://vnexpress.net/viet-nam-keu-goi-cac-ben-o-trung-dong-kiem-che-4794734.html) - 09:46 19/09/2024
-- 💫 [Việt Nam đề nghị các nước hỗ trợ tàu thuyền trú bão Soulik](https://vnexpress.net/viet-nam-de-nghi-cac-nuoc-ho-tro-tau-thuyen-tru-bao-soulik-4794747.html) - 09:32 19/09/2024
-- 👀 [Tàu cao tốc Nhật Bản bung khớp nối, tách rời toa](https://vnexpress.net/tau-cao-toc-nhat-ban-bung-khop-noi-tach-roi-toa-4794629.html) - 09:19 19/09/2024<!-- vnexpress-the-gioi:END -->
+- 🌁 [Nước sông tràn bờ, Nhật Bản sơ tán 30.000 dân](https://vnexpress.net/nuoc-song-tran-bo-nhat-ban-so-tan-30-000-dan-4795378.html) - 05:00 21/09/2024
+- 🌊 [Những giả thuyết về cơ chế kích nổ thiết bị liên lạc của Hezbollah](https://vnexpress.net/nhung-gia-thuyet-ve-co-che-kich-no-thiet-bi-lien-lac-cua-hezbollah-4795140.html) - 04:42 21/09/2024
+- 🕴 [Những thanh niên Nga đi xuyên châu Âu xem concert Taylor Swift](https://vnexpress.net/nhung-thanh-nien-nga-di-xuyen-chau-au-xem-concert-taylor-swift-4795339.html) - 03:50 21/09/2024
+- 🎓 [Tổng Bí thư, Chủ tịch nước lên đường công du Mỹ, Cuba](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-len-duong-cong-du-my-cuba-4795098.html) - 02:49 21/09/2024
+- 🦩 [EU muốn dùng tài sản Nga để cho Ukraine vay 39 tỷ USD](https://vnexpress.net/eu-muon-dung-tai-san-nga-de-cho-ukraine-vay-39-ty-usd-4795259.html) - 01:57 21/09/2024
+- 🌏 [Mật vụ Mỹ công bố loạt sai sót trong vụ ông Trump bị ám sát hụt](https://vnexpress.net/mat-vu-my-cong-bo-loat-sai-sot-trong-vu-ong-trump-bi-am-sat-hut-4795285.html) - 00:24 21/09/2024
+- 🌋 [Lebanon, Israel đấu khẩu tại Hội đồng Bảo an Liên Hợp Quốc](https://vnexpress.net/lebanon-israel-dau-khau-tai-hoi-dong-bao-an-lien-hop-quoc-4795287.html) - 00:06 21/09/2024
+- 🪜 [Khoảnh khắc drone Nga bắn cháy xe tăng Leopard 2 hiện đại nhất Ukraine](https://vnexpress.net/khoanh-khac-drone-nga-ban-chay-xe-tang-leopard-2-hien-dai-nhat-ukraine-4795211.html) - 23:51 20/09/2024
+- 🕴 [Ukraine cấm cài Telegram trên thiết bị chính phủ](https://vnexpress.net/ukraine-cam-cai-telegram-tren-thiet-bi-chinh-phu-4795277.html) - 16:53 20/09/2024
+- 🧑‍🏫 [Israel hạ sát chỉ huy Hezbollah ở thủ đô Beirut](https://vnexpress.net/israel-ha-sat-chi-huy-hezbollah-o-thu-do-beirut-4795260.html) - 13:26 20/09/2024
+- 🌮 [Hezbollah phóng 140 rocket vào Israel](https://vnexpress.net/hezbollah-phong-140-rocket-vao-israel-4795248.html) - 12:59 20/09/2024
+- 🚦 [Thủ lĩnh Hezbollah - người quyền lực hàng đầu Lebanon](https://vnexpress.net/thu-linh-hezbollah-nguoi-quyen-luc-hang-dau-lebanon-4794870.html) - 12:44 20/09/2024
+- 💫 [Sofia bác tin công ty Bulgaria bán máy nhắn tin phát nổ ở Lebanon](https://vnexpress.net/sofia-bac-tin-cong-ty-bulgaria-ban-may-nhan-tin-phat-no-o-lebanon-4795238.html) - 12:10 20/09/2024
+- 🤡 [&#39;Nữ hoàng&#39; truyền hình Mỹ Oprah Winfrey tiếp sức cho bà Harris](https://vnexpress.net/nu-hoang-truyen-hinh-my-oprah-winfrey-tiep-suc-cho-ba-harris-4794960.html) - 11:56 20/09/2024
+- 🦣 [Thái Lan giải cứu phụ nữ bị trăn siết](https://vnexpress.net/thai-lan-giai-cuu-phu-nu-bi-tran-siet-4794915.html) - 10:47 20/09/2024
+- 🎬 [Nỗi ám ảnh của bác sĩ Lebanon khi cứu nạn nhân vụ nổ thiết bị liên lạc](https://vnexpress.net/noi-am-anh-cua-bac-si-lebanon-khi-cuu-nan-nhan-vu-no-thiet-bi-lien-lac-4794888.html) - 10:17 20/09/2024
+- 🎉 [Báo Mỹ nói vụ nổ máy nhắn tin ở Lebanon được chuẩn bị suốt 15 năm](https://vnexpress.net/bao-my-noi-vu-no-may-nhan-tin-o-lebanon-duoc-chuan-bi-suot-15-nam-4795153.html) - 09:54 20/09/2024
+- 🎡 [Israel điều tra vụ binh sĩ đẩy thi thể khỏi nóc nhà ở Bờ Tây](https://vnexpress.net/israel-dieu-tra-vu-binh-si-day-thi-the-khoi-noc-nha-o-bo-tay-4795040.html) - 08:23 20/09/2024
+- 🌜 [Những nghề kiếm tiền nhờ ly hôn ở Trung Quốc](https://vnexpress.net/nhung-nghe-kiem-tien-nho-ly-hon-o-trung-quoc-4795016.html) - 08:21 20/09/2024
+- 🎡 [Thượng Hải hứng cơn bão thứ hai trong 4 ngày](https://vnexpress.net/thuong-hai-hung-con-bao-thu-hai-trong-4-ngay-4795039.html) - 07:56 20/09/2024
+- 🤗 [Chiến lược gia kể chuyện đóng vai ông Trump để bà Harris tập tranh luận](https://vnexpress.net/chien-luoc-gia-ke-chuyen-dong-vai-ong-trump-de-ba-harris-tap-tranh-luan-4793661.html) - 07:42 20/09/2024
+- 🦩 [Lebanon cấm mang máy nhắn tin, bộ đàm lên máy bay](https://vnexpress.net/lebanon-cam-mang-may-nhan-tin-bo-dam-len-may-bay-4795005.html) - 07:00 20/09/2024
+- 🎓 [Mỹ lần đầu công bố video &#39;sát thủ tàng hình&#39; B-21 bay thử](https://vnexpress.net/my-lan-dau-cong-bo-video-sat-thu-tang-hinh-b-21-bay-thu-4794954.html) - 05:00 20/09/2024
+- 🌁 [Tỷ lệ ủng hộ ông Trump, bà Harris ngang nhau trên toàn nước Mỹ](https://vnexpress.net/ty-le-ung-ho-ong-trump-ba-harris-ngang-nhau-tren-toan-nuoc-my-4794887.html) - 04:24 20/09/2024
+- 🤩 [Ông Zelensky: Chiến dịch Kursk buộc Nga điều chuyển 40.000 quân](https://vnexpress.net/ong-zelensky-chien-dich-kursk-buoc-nga-dieu-chuyen-40-000-quan-4794910.html) - 03:17 20/09/2024
+- 👹 [Số người chết vì lũ lụt sau bão Yagi ở Myanmar tăng lên 293](https://vnexpress.net/so-nguoi-chet-vi-lu-lut-sau-bao-yagi-o-myanmar-tang-len-293-4794869.html) - 02:47 20/09/2024
+- ⛽️ [Tâm trạng người Israel và Lebanon sau loạt vụ nổ thiết bị của Hezbollah](https://vnexpress.net/tam-trang-nguoi-israel-va-lebanon-sau-loat-vu-no-thiet-bi-cua-hezbollah-4794696.html) - 01:08 20/09/2024
+- 🚀 [Mỹ kêu gọi Hezbollah ngừng tấn công Israel](https://vnexpress.net/my-keu-goi-hezbollah-ngung-tan-cong-israel-4794864.html) - 00:16 20/09/2024
+- 🎡 [Israel tuyên bố không kích hàng trăm mục tiêu ở Lebanon](https://vnexpress.net/israel-tuyen-bo-khong-kich-hang-tram-muc-tieu-o-lebanon-4794858.html) - 00:00 20/09/2024
+- 🕯 [Ông Putin: Sản lượng UAV Nga tăng gấp 10 lần trong năm 2024](https://vnexpress.net/ong-putin-san-luong-uav-nga-tang-gap-10-lan-trong-nam-2024-4794839.html) - 23:44 19/09/2024
+- 🐻 [Thủ lĩnh Hezbollah: Israel đã vượt mọi lằn ranh đỏ](https://vnexpress.net/thu-linh-hezbollah-israel-da-vuot-moi-lan-ranh-do-4794831.html) - 15:39 19/09/2024
+- 🚦 [Nga tuyên bố tập kích &#39;trung tâm liên lạc đặc biệt&#39; của Ukraine](https://vnexpress.net/nga-tuyen-bo-tap-kich-trung-tam-lien-lac-dac-biet-cua-ukraine-4794811.html) - 13:58 19/09/2024
+- 👍 [Loạt vụ nổ thiết bị liên lạc giáng đòn đau vào Hezbollah](https://vnexpress.net/loat-vu-no-thiet-bi-lien-lac-giang-don-dau-vao-hezbollah-4794493.html) - 13:51 19/09/2024
+- 🚀 [Tổng Bí thư, Chủ tịch nước sẽ phát biểu trước Đại hội đồng Liên Hợp Quốc](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-se-phat-bieu-truoc-dai-hoi-dong-lien-hop-quoc-4794791.html) - 12:19 19/09/2024
+- 🌮 [Israel tuyên bố phá âm mưu ám sát Thủ tướng Netanyahu](https://vnexpress.net/israel-tuyen-bo-pha-am-muu-am-sat-thu-tuong-netanyahu-4794721.html) - 11:54 19/09/2024
+- 😎 [Công ty Bulgaria bị nghi bán máy nhắn tin nổ ở Lebanon](https://vnexpress.net/cong-ty-bulgaria-bi-nghi-ban-may-nhan-tin-no-o-lebanon-4794794.html) - 11:39 19/09/2024
+- 🐲 [Hai ngày Lebanon hỗn loạn vì loạt vụ nổ thiết bị liên lạc](https://vnexpress.net/hai-ngay-lebanon-hon-loan-vi-loat-vu-no-thiet-bi-lien-lac-4794786.html) - 11:13 19/09/2024
+- 💫 [Việt Nam kêu gọi các bên ở Trung Đông kiềm chế](https://vnexpress.net/viet-nam-keu-goi-cac-ben-o-trung-dong-kiem-che-4794734.html) - 09:46 19/09/2024
+- 👀 [Việt Nam đề nghị các nước hỗ trợ tàu thuyền trú bão Soulik](https://vnexpress.net/viet-nam-de-nghi-cac-nuoc-ho-tro-tau-thuyen-tru-bao-soulik-4794747.html) - 09:32 19/09/2024<!-- vnexpress-the-gioi:END -->
