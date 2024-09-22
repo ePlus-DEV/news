@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- dantri-xa-hoi:START -->
-- 🫣 [Sơn La: Hai chiếc ô tô đi trên quốc lộ 6 bị tảng đá lớn đè trúng](https://dantri.com.vn/xa-hoi/son-la-hai-chiec-o-to-di-tren-quoc-lo-6-bi-tang-da-lon-de-trung-20240922164642316.htm) - 09:54 22/09/2024
+- 🫣 [Sơn La: Hai ô tô đi trên quốc lộ 6 bị tảng đá lớn đè trúng](https://dantri.com.vn/xa-hoi/son-la-hai-o-to-di-tren-quoc-lo-6-bi-tang-da-lon-de-trung-20240922164642316.htm) - 09:54 22/09/2024
 - 💼 [Người dân Yên Bái mang cờ, hoa ra cảm ơn, chào tạm biệt các chú bộ đội](https://dantri.com.vn/xa-hoi/nguoi-dan-yen-bai-mang-co-hoa-ra-cam-on-chao-tam-biet-cac-chu-bo-doi-20240922163610085.htm) - 09:45 22/09/2024
 - 🎊 [Hồ thủy điện Hòa Bình mở 3 cửa xả đáy](https://dantri.com.vn/xa-hoi/ho-thuy-dien-hoa-binh-mo-3-cua-xa-day-20240922161126138.htm) - 09:33 22/09/2024
 - 🙉 [Lũ ào ào đổ về, nhiều nơi ở miền núi Thanh Hóa bị cô lập](https://dantri.com.vn/xa-hoi/lu-ao-ao-do-ve-nhieu-noi-o-mien-nui-thanh-hoa-bi-co-lap-20240922154935330.htm) - 09:07 22/09/2024
