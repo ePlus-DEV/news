@@ -4,63 +4,63 @@ sidebar_position: 12
 ---
 
 <!-- dantri-tam-diem:START -->
-- 🚦 [Vàng miếng trong nhà cựu Bí thư](https://dantri.com.vn/tam-diem/vang-mieng-trong-nha-cuu-bi-thu-20240920233015026.htm) - 00:29 21/09/2024
-- 🫶 [Nước lũ ngập phố núi](https://dantri.com.vn/tam-diem/nuoc-lu-ngap-pho-nui-20240919232514611.htm) - 23:00 19/09/2024
-- 🦏 [Cẩm nang phòng, chống thiên tai cho người dân](https://dantri.com.vn/tam-diem/cam-nang-phong-chong-thien-tai-cho-nguoi-dan-20240919092151262.htm) - 08:28 19/09/2024
-- 🧰 [&quot;Không bùn thì chẳng có sen&quot;](https://dantri.com.vn/tam-diem/khong-bun-thi-chang-co-sen-20240919060052779.htm) - 23:01 18/09/2024
-- 🙉 [Trung thu không rước đèn](https://dantri.com.vn/tam-diem/trung-thu-khong-ruoc-den-20240917133050739.htm) - 10:22 18/09/2024
-- 🌜 [4 nguyên nhân lũ quét ở Việt Nam](https://dantri.com.vn/tam-diem/4-nguyen-nhan-lu-quet-o-viet-nam-20240918072014213.htm) - 00:20 18/09/2024
-- 🤔 [Cứu cây xanh](https://dantri.com.vn/tam-diem/cuu-cay-xanh-20240917174643758.htm) - 10:48 17/09/2024
-- 🤩 [Sao kê và những tấm lòng thơm thảo](https://dantri.com.vn/tam-diem/sao-ke-va-nhung-tam-long-thom-thao-20240913232039353.htm) - 00:06 17/09/2024
-- 🦅 [Mùa thu Hà Nội, sau cơn bão lũ lịch sử](https://dantri.com.vn/tam-diem/mua-thu-ha-noi-sau-con-bao-lu-lich-su-20240916062933145.htm) - 00:04 16/09/2024
-- 💫 [Hà Nội &quot;quay lưng&quot; với sông Hồng](https://dantri.com.vn/tam-diem/ha-noi-quay-lung-voi-song-hong-20240914234207756.htm) - 01:21 15/09/2024
-- 🤗 [Hành động đặc biệt của trưởng thôn Vàng Seo Chứ](https://dantri.com.vn/tam-diem/hanh-dong-dac-biet-cua-truong-thon-vang-seo-chu-20240913114356035.htm) - 04:48 13/09/2024
-- 🫶 [Thi đỗ mà không học](https://dantri.com.vn/tam-diem/thi-do-ma-khong-hoc-20240912222345821.htm) - 00:16 13/09/2024
-- 💡 [Cứu trợ đâu chỉ có mỳ tôm](https://dantri.com.vn/tam-diem/cuu-tro-dau-chi-co-my-tom-20240912145522146.htm) - 08:13 12/09/2024
-- 🌮 [Tình dân tộc, nghĩa đồng bào](https://dantri.com.vn/tam-diem/tinh-dan-toc-nghia-dong-bao-20240911162316705.htm) - 09:23 11/09/2024
-- 🌊 [Nhà chung cư trong bão](https://dantri.com.vn/tam-diem/nha-chung-cu-trong-bao-20240910214633203.htm) - 17:00 10/09/2024
-- 👹 [Tìm nhau sau bão](https://dantri.com.vn/tam-diem/tim-nhau-sau-bao-20240909194408376.htm) - 12:59 09/09/2024
-- 🤩 [Sự mất tích của những chiếc điều hòa và chuyện lạm thu](https://dantri.com.vn/tam-diem/su-mat-tich-cua-nhung-chiec-dieu-hoa-va-chuyen-lam-thu-20240908102305174.htm) - 03:27 08/09/2024
-- 💄 [&quot;Thông tuyến&quot; với bệnh nan y](https://dantri.com.vn/tam-diem/thong-tuyen-voi-benh-nan-y-20240906090508280.htm) - 17:52 06/09/2024
-- 🦣 [Vụ bạo hành trẻ em ở Mái ấm Hoa Hồng: Cần nghiêm trị!](https://dantri.com.vn/tam-diem/vu-bao-hanh-tre-em-o-mai-am-hoa-hong-can-nghiem-tri-20240905223952388.htm) - 02:06 06/09/2024
-- ⛽️ [Kiểm định khí thải xe máy: Bao giờ và như thế nào?](https://dantri.com.vn/tam-diem/kiem-dinh-khi-thai-xe-may-bao-gio-va-nhu-the-nao-20240905152814449.htm) - 08:29 05/09/2024
-- 🌁 [&quot;Những kỉ niệm của buổi tựu trường&quot;](https://dantri.com.vn/tam-diem/nhung-ki-niem-cua-buoi-tuu-truong-20240905071605486.htm) - 00:32 05/09/2024
-- 🥳 [Mong đợi trong ngày tựu trường](https://dantri.com.vn/tam-diem/mong-doi-trong-ngay-tuu-truong-20240904235450349.htm) - 17:00 04/09/2024
-- 🧐 [&quot;Cơn sốt&quot; đấu giá đất làng ven đô](https://dantri.com.vn/tam-diem/con-sot-dau-gia-dat-lang-ven-do-20240903220650633.htm) - 02:47 04/09/2024
-- 🕴 [Dùng trí tuệ nhân tạo làm bài tập: Đèn đỏ và đèn xanh](https://dantri.com.vn/tam-diem/dung-tri-tue-nhan-tao-lam-bai-tap-den-do-va-den-xanh-20240903150150013.htm) - 08:02 03/09/2024
-- 🥳 [Tinh thần quản trị quốc gia  và xây dựng đội ngũ cán bộ &quot;7 dám&quot;](https://dantri.com.vn/tam-diem/tinh-than-quan-tri-quoc-gia-va-xay-dung-doi-ngu-can-bo-7-dam-20240901140730652.htm) - 23:00 02/09/2024
-- 💡 [Việt Nam: Tầm nhìn 2045](https://dantri.com.vn/tam-diem/viet-nam-tam-nhin-2045-20240831220026405.htm) - 04:00 02/09/2024
-- 🦣 [Tết Độc lập](https://dantri.com.vn/tam-diem/tet-doc-lap-20240902064340897.htm) - 23:43 01/09/2024
-- 🤓 [18 tuổi, đi du học hay đi làm việc ở nước ngoài?](https://dantri.com.vn/tam-diem/18-tuoi-di-du-hoc-hay-di-lam-viec-o-nuoc-ngoai-20240901144416760.htm) - 08:06 01/09/2024
-- 🤭 [Tiếng Anh, AI và hành trình học tập suốt đời](https://dantri.com.vn/tam-diem/tieng-anh-ai-va-hanh-trinh-hoc-tap-suot-doi-20240831214608400.htm) - 23:00 31/08/2024
-- 🌮 [Giá đất tăng đến khi nào](https://dantri.com.vn/tam-diem/gia-dat-tang-den-khi-nao-20240830173855019.htm) - 06:22 31/08/2024
-- 🗽 [Lười đọc sách vì nghiện mạng xã hội](https://dantri.com.vn/tam-diem/luoi-doc-sach-vi-nghien-mang-xa-hoi-20240830172926068.htm) - 23:00 30/08/2024
-- ⚗️ [Dạy thêm như thế nào là đàng hoàng](https://dantri.com.vn/tam-diem/day-them-nhu-the-nao-la-dang-hoang-20240829181049437.htm) - 08:00 30/08/2024
-- 🥰 [Phụ huynh vây trường và quyền đi học gần nhà](https://dantri.com.vn/tam-diem/phu-huynh-vay-truong-va-quyen-di-hoc-gan-nha-20240829085048049.htm) - 23:46 29/08/2024
-- 🚀 [Giữ gìn những &quot;thiên đường trên mặt đất&quot;](https://dantri.com.vn/tam-diem/giu-gin-nhung-thien-duong-tren-mat-dat-20240826192529401.htm) - 00:45 29/08/2024
-- 🎊 [An sinh để an dân](https://dantri.com.vn/tam-diem/an-sinh-de-an-dan-20240828064017617.htm) - 03:57 28/08/2024
-- 🦣 [Thêm 8 thành phố trực thuộc Trung ương: Thêm động lực phát triển?](https://dantri.com.vn/tam-diem/them-8-thanh-pho-truc-thuoc-trung-uong-them-dong-luc-phat-trien-20240828083821135.htm) - 02:24 28/08/2024
-- 🎃 [Dạy thêm: Nhu cầu của ai?](https://dantri.com.vn/tam-diem/day-them-nhu-cau-cua-ai-20240826195040627.htm) - 22:50 26/08/2024
-- 💂 [Đằng sau câu chuyện chàng trai Hà Nội &quot;tái sinh&quot; trong 6 cuộc đời](https://dantri.com.vn/tam-diem/dang-sau-cau-chuyen-chang-trai-ha-noi-tai-sinh-trong-6-cuoc-doi-20240825221412611.htm) - 23:00 25/08/2024
-- 🦒 [&quot;Trách nhiệm xã hội&quot; của người độc thân](https://dantri.com.vn/tam-diem/trach-nhiem-xa-hoi-cua-nguoi-doc-than-20240825085021284.htm) - 08:23 25/08/2024
-- 🎭 [Tiếp sức đến giảng đường bằng mở rộng hình thức cho vay](https://dantri.com.vn/tam-diem/tiep-suc-den-giang-duong-bang-mo-rong-hinh-thuc-cho-vay-20240825085749948.htm) - 02:38 25/08/2024
-- 📝 [20 phương thức xét tuyển đại học và bài toán chất lượng](https://dantri.com.vn/tam-diem/20-phuong-thuc-xet-tuyen-dai-hoc-va-bai-toan-chat-luong-20240823155244051.htm) - 09:11 24/08/2024
-- 🦄 [Đấu giá đất ở hay đấu giá &quot;đất đầu cơ&quot;?](https://dantri.com.vn/tam-diem/dau-gia-dat-o-hay-dau-gia-dat-dau-co-20240823180944673.htm) - 00:35 24/08/2024
-- 🚀 [Uy tín bệnh viện đến từ… không lạm dụng!](https://dantri.com.vn/tam-diem/uy-tin-benh-vien-den-tu-khong-lam-dung-20240823065227728.htm) - 00:15 23/08/2024
-- 💂 [Thu nhập hàng tháng và cơ hội thuê, mua nhà ở xã hội](https://dantri.com.vn/tam-diem/thu-nhap-hang-thang-va-co-hoi-thue-mua-nha-o-xa-hoi-20240821230359936.htm) - 23:36 21/08/2024
-- 👀 [Điểm chuẩn kỷ lục vào ngành Sư phạm: Mừng và lo](https://dantri.com.vn/tam-diem/diem-chuan-ky-luc-vao-nganh-su-pham-mung-va-lo-20240821080536248.htm) - 07:00 21/08/2024
-- 🚦 [&quot;Đưa tiếng Anh trở thành ngôn ngữ thứ hai trong trường học&quot;](https://dantri.com.vn/tam-diem/dua-tieng-anh-tro-thanh-ngon-ngu-thu-hai-trong-truong-hoc-20240821000611353.htm) - 01:45 21/08/2024
-- 💃 [Tác động kép khi &quot;mua&quot; thông tin vi phạm giao thông](https://dantri.com.vn/tam-diem/tac-dong-kep-khi-mua-thong-tin-vi-pham-giao-thong-20240820094156433.htm) - 02:42 20/08/2024
-- 🧑‍💻 [Nhớ về Anh hùng lao động Võ Tòng Xuân](https://dantri.com.vn/tam-diem/nho-ve-anh-hung-lao-dong-vo-tong-xuan-20240819184214011.htm) - 11:42 19/08/2024
-- 🥰 [Giảm mức phạt vi phạm nồng độ cồn tối thiểu: Đề xuất hợp lý](https://dantri.com.vn/tam-diem/giam-muc-phat-vi-pham-nong-do-con-toi-thieu-de-xuat-hop-ly-20240819092852768.htm) - 04:51 19/08/2024
+- 🚦 [Đại học doanh thu ngàn tỷ và nỗi lo học phí](https://dantri.com.vn/tam-diem/dai-hoc-doanh-thu-ngan-ty-va-noi-lo-hoc-phi-20240922100709455.htm) - 03:10 22/09/2024
+- 🫶 [Vàng miếng trong nhà cựu Bí thư](https://dantri.com.vn/tam-diem/vang-mieng-trong-nha-cuu-bi-thu-20240920233015026.htm) - 00:29 21/09/2024
+- 🦏 [Nước lũ ngập phố núi](https://dantri.com.vn/tam-diem/nuoc-lu-ngap-pho-nui-20240919232514611.htm) - 23:00 19/09/2024
+- 🧰 [Cẩm nang phòng, chống thiên tai cho người dân](https://dantri.com.vn/tam-diem/cam-nang-phong-chong-thien-tai-cho-nguoi-dan-20240919092151262.htm) - 08:28 19/09/2024
+- 🙉 [&quot;Không bùn thì chẳng có sen&quot;](https://dantri.com.vn/tam-diem/khong-bun-thi-chang-co-sen-20240919060052779.htm) - 23:01 18/09/2024
+- 🌜 [Trung thu không rước đèn](https://dantri.com.vn/tam-diem/trung-thu-khong-ruoc-den-20240917133050739.htm) - 10:22 18/09/2024
+- 🤔 [4 nguyên nhân lũ quét ở Việt Nam](https://dantri.com.vn/tam-diem/4-nguyen-nhan-lu-quet-o-viet-nam-20240918072014213.htm) - 00:20 18/09/2024
+- 🤩 [Cứu cây xanh](https://dantri.com.vn/tam-diem/cuu-cay-xanh-20240917174643758.htm) - 10:48 17/09/2024
+- 🦅 [Sao kê và những tấm lòng thơm thảo](https://dantri.com.vn/tam-diem/sao-ke-va-nhung-tam-long-thom-thao-20240913232039353.htm) - 00:06 17/09/2024
+- 💫 [Mùa thu Hà Nội, sau cơn bão lũ lịch sử](https://dantri.com.vn/tam-diem/mua-thu-ha-noi-sau-con-bao-lu-lich-su-20240916062933145.htm) - 00:04 16/09/2024
+- 🤗 [Hà Nội &quot;quay lưng&quot; với sông Hồng](https://dantri.com.vn/tam-diem/ha-noi-quay-lung-voi-song-hong-20240914234207756.htm) - 01:21 15/09/2024
+- 🫶 [Hành động đặc biệt của trưởng thôn Vàng Seo Chứ](https://dantri.com.vn/tam-diem/hanh-dong-dac-biet-cua-truong-thon-vang-seo-chu-20240913114356035.htm) - 04:48 13/09/2024
+- 💡 [Thi đỗ mà không học](https://dantri.com.vn/tam-diem/thi-do-ma-khong-hoc-20240912222345821.htm) - 00:16 13/09/2024
+- 🌮 [Cứu trợ đâu chỉ có mỳ tôm](https://dantri.com.vn/tam-diem/cuu-tro-dau-chi-co-my-tom-20240912145522146.htm) - 08:13 12/09/2024
+- 🌊 [Tình dân tộc, nghĩa đồng bào](https://dantri.com.vn/tam-diem/tinh-dan-toc-nghia-dong-bao-20240911162316705.htm) - 09:23 11/09/2024
+- 👹 [Nhà chung cư trong bão](https://dantri.com.vn/tam-diem/nha-chung-cu-trong-bao-20240910214633203.htm) - 17:00 10/09/2024
+- 🤩 [Tìm nhau sau bão](https://dantri.com.vn/tam-diem/tim-nhau-sau-bao-20240909194408376.htm) - 12:59 09/09/2024
+- 💄 [Sự mất tích của những chiếc điều hòa và chuyện lạm thu](https://dantri.com.vn/tam-diem/su-mat-tich-cua-nhung-chiec-dieu-hoa-va-chuyen-lam-thu-20240908102305174.htm) - 03:27 08/09/2024
+- 🦣 [&quot;Thông tuyến&quot; với bệnh nan y](https://dantri.com.vn/tam-diem/thong-tuyen-voi-benh-nan-y-20240906090508280.htm) - 17:52 06/09/2024
+- ⛽️ [Vụ bạo hành trẻ em ở Mái ấm Hoa Hồng: Cần nghiêm trị!](https://dantri.com.vn/tam-diem/vu-bao-hanh-tre-em-o-mai-am-hoa-hong-can-nghiem-tri-20240905223952388.htm) - 02:06 06/09/2024
+- 🌁 [Kiểm định khí thải xe máy: Bao giờ và như thế nào?](https://dantri.com.vn/tam-diem/kiem-dinh-khi-thai-xe-may-bao-gio-va-nhu-the-nao-20240905152814449.htm) - 08:29 05/09/2024
+- 🥳 [&quot;Những kỉ niệm của buổi tựu trường&quot;](https://dantri.com.vn/tam-diem/nhung-ki-niem-cua-buoi-tuu-truong-20240905071605486.htm) - 00:32 05/09/2024
+- 🧐 [Mong đợi trong ngày tựu trường](https://dantri.com.vn/tam-diem/mong-doi-trong-ngay-tuu-truong-20240904235450349.htm) - 17:00 04/09/2024
+- 🕴 [&quot;Cơn sốt&quot; đấu giá đất làng ven đô](https://dantri.com.vn/tam-diem/con-sot-dau-gia-dat-lang-ven-do-20240903220650633.htm) - 02:47 04/09/2024
+- 🥳 [Dùng trí tuệ nhân tạo làm bài tập: Đèn đỏ và đèn xanh](https://dantri.com.vn/tam-diem/dung-tri-tue-nhan-tao-lam-bai-tap-den-do-va-den-xanh-20240903150150013.htm) - 08:02 03/09/2024
+- 💡 [Tinh thần quản trị quốc gia  và xây dựng đội ngũ cán bộ &quot;7 dám&quot;](https://dantri.com.vn/tam-diem/tinh-than-quan-tri-quoc-gia-va-xay-dung-doi-ngu-can-bo-7-dam-20240901140730652.htm) - 23:00 02/09/2024
+- 🦣 [Việt Nam: Tầm nhìn 2045](https://dantri.com.vn/tam-diem/viet-nam-tam-nhin-2045-20240831220026405.htm) - 04:00 02/09/2024
+- 🤓 [Tết Độc lập](https://dantri.com.vn/tam-diem/tet-doc-lap-20240902064340897.htm) - 23:43 01/09/2024
+- 🤭 [18 tuổi, đi du học hay đi làm việc ở nước ngoài?](https://dantri.com.vn/tam-diem/18-tuoi-di-du-hoc-hay-di-lam-viec-o-nuoc-ngoai-20240901144416760.htm) - 08:06 01/09/2024
+- 🌮 [Tiếng Anh, AI và hành trình học tập suốt đời](https://dantri.com.vn/tam-diem/tieng-anh-ai-va-hanh-trinh-hoc-tap-suot-doi-20240831214608400.htm) - 23:00 31/08/2024
+- 🗽 [Giá đất tăng đến khi nào](https://dantri.com.vn/tam-diem/gia-dat-tang-den-khi-nao-20240830173855019.htm) - 06:22 31/08/2024
+- ⚗️ [Lười đọc sách vì nghiện mạng xã hội](https://dantri.com.vn/tam-diem/luoi-doc-sach-vi-nghien-mang-xa-hoi-20240830172926068.htm) - 23:00 30/08/2024
+- 🥰 [Dạy thêm như thế nào là đàng hoàng](https://dantri.com.vn/tam-diem/day-them-nhu-the-nao-la-dang-hoang-20240829181049437.htm) - 08:00 30/08/2024
+- 🚀 [Phụ huynh vây trường và quyền đi học gần nhà](https://dantri.com.vn/tam-diem/phu-huynh-vay-truong-va-quyen-di-hoc-gan-nha-20240829085048049.htm) - 23:46 29/08/2024
+- 🎊 [Giữ gìn những &quot;thiên đường trên mặt đất&quot;](https://dantri.com.vn/tam-diem/giu-gin-nhung-thien-duong-tren-mat-dat-20240826192529401.htm) - 00:45 29/08/2024
+- 🦣 [An sinh để an dân](https://dantri.com.vn/tam-diem/an-sinh-de-an-dan-20240828064017617.htm) - 03:57 28/08/2024
+- 🎃 [Thêm 8 thành phố trực thuộc Trung ương: Thêm động lực phát triển?](https://dantri.com.vn/tam-diem/them-8-thanh-pho-truc-thuoc-trung-uong-them-dong-luc-phat-trien-20240828083821135.htm) - 02:24 28/08/2024
+- 💂 [Dạy thêm: Nhu cầu của ai?](https://dantri.com.vn/tam-diem/day-them-nhu-cau-cua-ai-20240826195040627.htm) - 22:50 26/08/2024
+- 🦒 [Đằng sau câu chuyện chàng trai Hà Nội &quot;tái sinh&quot; trong 6 cuộc đời](https://dantri.com.vn/tam-diem/dang-sau-cau-chuyen-chang-trai-ha-noi-tai-sinh-trong-6-cuoc-doi-20240825221412611.htm) - 23:00 25/08/2024
+- 🎭 [&quot;Trách nhiệm xã hội&quot; của người độc thân](https://dantri.com.vn/tam-diem/trach-nhiem-xa-hoi-cua-nguoi-doc-than-20240825085021284.htm) - 08:23 25/08/2024
+- 📝 [Tiếp sức đến giảng đường bằng mở rộng hình thức cho vay](https://dantri.com.vn/tam-diem/tiep-suc-den-giang-duong-bang-mo-rong-hinh-thuc-cho-vay-20240825085749948.htm) - 02:38 25/08/2024
+- 🦄 [20 phương thức xét tuyển đại học và bài toán chất lượng](https://dantri.com.vn/tam-diem/20-phuong-thuc-xet-tuyen-dai-hoc-va-bai-toan-chat-luong-20240823155244051.htm) - 09:11 24/08/2024
+- 🚀 [Đấu giá đất ở hay đấu giá &quot;đất đầu cơ&quot;?](https://dantri.com.vn/tam-diem/dau-gia-dat-o-hay-dau-gia-dat-dau-co-20240823180944673.htm) - 00:35 24/08/2024
+- 💂 [Uy tín bệnh viện đến từ… không lạm dụng!](https://dantri.com.vn/tam-diem/uy-tin-benh-vien-den-tu-khong-lam-dung-20240823065227728.htm) - 00:15 23/08/2024
+- 👀 [Thu nhập hàng tháng và cơ hội thuê, mua nhà ở xã hội](https://dantri.com.vn/tam-diem/thu-nhap-hang-thang-va-co-hoi-thue-mua-nha-o-xa-hoi-20240821230359936.htm) - 23:36 21/08/2024
+- 🚦 [Điểm chuẩn kỷ lục vào ngành Sư phạm: Mừng và lo](https://dantri.com.vn/tam-diem/diem-chuan-ky-luc-vao-nganh-su-pham-mung-va-lo-20240821080536248.htm) - 07:00 21/08/2024
+- 💃 [&quot;Đưa tiếng Anh trở thành ngôn ngữ thứ hai trong trường học&quot;](https://dantri.com.vn/tam-diem/dua-tieng-anh-tro-thanh-ngon-ngu-thu-hai-trong-truong-hoc-20240821000611353.htm) - 01:45 21/08/2024
+- 🧑‍💻 [Tác động kép khi &quot;mua&quot; thông tin vi phạm giao thông](https://dantri.com.vn/tam-diem/tac-dong-kep-khi-mua-thong-tin-vi-pham-giao-thong-20240820094156433.htm) - 02:42 20/08/2024
+- 🥰 [Nhớ về Anh hùng lao động Võ Tòng Xuân](https://dantri.com.vn/tam-diem/nho-ve-anh-hung-lao-dong-vo-tong-xuan-20240819184214011.htm) - 11:42 19/08/2024
+- 🥳 [Giảm mức phạt vi phạm nồng độ cồn tối thiểu: Đề xuất hợp lý](https://dantri.com.vn/tam-diem/giam-muc-phat-vi-pham-nong-do-con-toi-thieu-de-xuat-hop-ly-20240819092852768.htm) - 04:51 19/08/2024
 - 🥳 [Vui buồn sau ngày đại học công bố điểm chuẩn](https://dantri.com.vn/tam-diem/vui-buon-sau-ngay-dai-hoc-cong-bo-diem-chuan-20240818102119770.htm) - 03:26 18/08/2024
-- 🥳 [&quot;Thích nhảy việc&quot;: Một hiểu nhầm về gen Z](https://dantri.com.vn/tam-diem/thich-nhay-viec-mot-hieu-nham-ve-gen-z-20240818071131367.htm) - 00:11 18/08/2024
-- 🎉 [Đừng lạm dụng thứ không phải thuốc!](https://dantri.com.vn/tam-diem/dung-lam-dung-thu-khong-phai-thuoc-20240817002935206.htm) - 02:44 17/08/2024
-- 🔥 [Đưa sách về nông thôn](https://dantri.com.vn/tam-diem/dua-sach-ve-nong-thon-20240815145936989.htm) - 00:42 16/08/2024
-- 🥸 [Cây xanh đô thị và rủi ro &quot;trên trời rơi xuống&quot;](https://dantri.com.vn/tam-diem/cay-xanh-do-thi-va-rui-ro-tren-troi-roi-xuong-20240815144711502.htm) - 08:51 15/08/2024
-- 💯 [Tính &quot;hai mặt&quot; của giá đất](https://dantri.com.vn/tam-diem/tinh-hai-mat-cua-gia-dat-20240814182051563.htm) - 23:12 14/08/2024
-- 🦏 [Sáng tạo nghệ thuật bằng văn hóa bản địa](https://dantri.com.vn/tam-diem/sang-tao-nghe-thuat-bang-van-hoa-ban-dia-20240813215349230.htm) - 09:09 14/08/2024
-- 👹 [Để bệnh viện không còn thiếu thuốc: Đơn giản hóa những điều phức tạp!](https://dantri.com.vn/tam-diem/de-benh-vien-khong-con-thieu-thuoc-don-gian-hoa-nhung-dieu-phuc-tap-20240813081855077.htm) - 21:59 13/08/2024
-- 💻 [Phở từ đâu đến](https://dantri.com.vn/tam-diem/pho-tu-dau-den-20240812224607394.htm) - 04:37 13/08/2024
-- 🎭 [Xét tuyển sớm ở đại học và những hệ lụy](https://dantri.com.vn/tam-diem/xet-tuyen-som-o-dai-hoc-va-nhung-he-luy-20240812223310134.htm) - 23:23 12/08/2024
-- 🌏 [Người Việt học giỏi Toán](https://dantri.com.vn/tam-diem/nguoi-viet-hoc-gioi-toan-20240812093820685.htm) - 02:44 12/08/2024<!-- dantri-tam-diem:END -->
+- 🎉 [&quot;Thích nhảy việc&quot;: Một hiểu nhầm về gen Z](https://dantri.com.vn/tam-diem/thich-nhay-viec-mot-hieu-nham-ve-gen-z-20240818071131367.htm) - 00:11 18/08/2024
+- 🔥 [Đừng lạm dụng thứ không phải thuốc!](https://dantri.com.vn/tam-diem/dung-lam-dung-thu-khong-phai-thuoc-20240817002935206.htm) - 02:44 17/08/2024
+- 🥸 [Đưa sách về nông thôn](https://dantri.com.vn/tam-diem/dua-sach-ve-nong-thon-20240815145936989.htm) - 00:42 16/08/2024
+- 💯 [Cây xanh đô thị và rủi ro &quot;trên trời rơi xuống&quot;](https://dantri.com.vn/tam-diem/cay-xanh-do-thi-va-rui-ro-tren-troi-roi-xuong-20240815144711502.htm) - 08:51 15/08/2024
+- 🦏 [Tính &quot;hai mặt&quot; của giá đất](https://dantri.com.vn/tam-diem/tinh-hai-mat-cua-gia-dat-20240814182051563.htm) - 23:12 14/08/2024
+- 👹 [Sáng tạo nghệ thuật bằng văn hóa bản địa](https://dantri.com.vn/tam-diem/sang-tao-nghe-thuat-bang-van-hoa-ban-dia-20240813215349230.htm) - 09:09 14/08/2024
+- 💻 [Để bệnh viện không còn thiếu thuốc: Đơn giản hóa những điều phức tạp!](https://dantri.com.vn/tam-diem/de-benh-vien-khong-con-thieu-thuoc-don-gian-hoa-nhung-dieu-phuc-tap-20240813081855077.htm) - 21:59 13/08/2024
+- 🎭 [Phở từ đâu đến](https://dantri.com.vn/tam-diem/pho-tu-dau-den-20240812224607394.htm) - 04:37 13/08/2024
+- 🌏 [Xét tuyển sớm ở đại học và những hệ lụy](https://dantri.com.vn/tam-diem/xet-tuyen-som-o-dai-hoc-va-nhung-he-luy-20240812223310134.htm) - 23:23 12/08/2024<!-- dantri-tam-diem:END -->
