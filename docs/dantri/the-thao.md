@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Man City 0-0 Arsenal &lpar;hiệp 1&rpar;: Havertz thoát thẻ đỏ](https://dantri.com.vn/the-thao/man-city-0-0-arsenal-hiep-1-havertz-thoat-the-do-20240922220838847.htm) - 15:08 22/09/2024
+- 🎡 [Man City 1-1 Arsenal &lpar;hiệp 1&rpar;: Siêu phẩm của Calafiori](https://dantri.com.vn/the-thao/man-city-1-1-arsenal-hiep-1-sieu-pham-cua-calafiori-20240922220838847.htm) - 15:08 22/09/2024
 - 💯 [Thể Công Viettel lội ngược dòng thắng Hà Nội FC tại Mỹ Đình](https://dantri.com.vn/the-thao/the-cong-viettel-loi-nguoc-dong-thang-ha-noi-fc-tai-my-dinh-20240922214212215.htm) - 14:42 22/09/2024
 - ⛽️ [Patrik Lê Giang và VAR góp công lớn, CLB TPHCM đánh bại Bình Định](https://dantri.com.vn/the-thao/patrik-le-giang-va-var-gop-cong-lon-clb-tphcm-danh-bai-binh-dinh-20240922203539629.htm) - 13:44 22/09/2024
 - 💃 [Bí thư Thành ủy TPHCM thi đấu pickleball, kêu gọi ủng hộ đồng bào vùng lũ](https://dantri.com.vn/the-thao/bi-thu-thanh-uy-tphcm-thi-dau-pickleball-keu-goi-ung-ho-dong-bao-vung-lu-20240922182028575.htm) - 13:40 22/09/2024
