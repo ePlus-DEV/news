@@ -5,7 +5,7 @@ sidebar_position: 17
 
 <!-- dantri-the-gioi:START -->
 - 🌋 [Tình báo Anh đánh giá hậu quả vụ Ukraine tấn công kho vũ khí lớn của Nga](https://dantri.com.vn/the-gioi/tinh-bao-anh-danh-gia-hau-qua-vu-ukraine-tan-cong-kho-vu-khi-lon-cua-nga-20240922200144053.htm) - 13:06 22/09/2024
-- 🎬 [Cơ hội nào cho bà Harris, ông Trump tại 7 bang chiến trường ?](https://dantri.com.vn/the-gioi/co-hoi-nao-cho-ba-harris-ong-trump-tai-7-bang-chien-truong-20240922192928396.htm) - 12:32 22/09/2024
+- 🎬 [Cơ hội nào cho bà Harris, ông Trump tại 7 bang chiến trường?](https://dantri.com.vn/the-gioi/co-hoi-nao-cho-ba-harris-ong-trump-tai-7-bang-chien-truong-20240922192928396.htm) - 12:32 22/09/2024
 - 🧰 [Thủ tướng Netanyahu: Israel tập kích Hezbollah theo cách không ai ngờ](https://dantri.com.vn/the-gioi/thu-tuong-netanyahu-israel-tap-kich-hezbollah-theo-cach-khong-ai-ngo-20240922191701944.htm) - 12:23 22/09/2024
 - 🌋 [Nổ mỏ than ở Iran, ít nhất 51 người thiệt mạng](https://dantri.com.vn/the-gioi/no-mo-than-o-iran-it-nhat-51-nguoi-thiet-mang-20240922184214544.htm) - 11:47 22/09/2024
 - 🗽 [Khoảnh khắc tên lửa Iskander Nga bắn nổ tung tổ hợp HIMARS của Ukraine](https://dantri.com.vn/the-gioi/khoanh-khac-ten-lua-iskander-nga-ban-no-tung-to-hop-himars-cua-ukraine-20240922162513070.htm) - 09:30 22/09/2024
