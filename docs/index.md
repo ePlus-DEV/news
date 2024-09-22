@@ -39,10 +39,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎊 [Cầu nào bắc qua hai con sông?](https://vnexpress.net/cau-nao-bac-qua-hai-con-song-4795690.html) - 12:49 22/09/2024
 - 🤠 [Đồi sạt lở vào ký túc xá, hơn 200 học sinh phải di dời](https://vnexpress.net/doi-sat-lo-vao-ky-tuc-xa-hon-200-hoc-sinh-phai-di-doi-4795726.html) - 12:13 22/09/2024
 - 🌈 [Thoát cơn đau 26 năm nhờ cái hắt xì hơi](https://vnexpress.net/thoat-con-dau-26-nam-nho-cai-hat-xi-hoi-4795716.html) - 12:00 22/09/2024
-- 🎬 [&#39;Transformers One&#39; nhận mưa lời khen](https://vnexpress.net/transformers-one-nhan-mua-loi-khen-4795692.html) - 12:00 22/09/2024
-- 🚀 [5 câu nói cửa miệng của người EQ thấp](https://vnexpress.net/5-cau-noi-cua-mieng-cua-nguoi-eq-thap-4795677.html) - 12:00 22/09/2024
-- 🪄 [Nhiệt độ Trái Đất thay đổi ra sao trong 500 triệu năm qua](https://vnexpress.net/nhiet-do-trai-dat-thay-doi-ra-sao-trong-500-trieu-nam-qua-4795638.html) - 12:00 22/09/2024
-- 😎 [Khác biệt trong chiến lược vận động cử tri của bà Harris so với ông Biden](https://vnexpress.net/khac-biet-trong-chien-luoc-van-dong-cu-tri-cua-ba-harris-so-voi-ong-biden-4793222.html) - 12:00 22/09/2024
+- 🎬 [5 câu nói cửa miệng của người EQ thấp](https://vnexpress.net/5-cau-noi-cua-mieng-cua-nguoi-eq-thap-4795677.html) - 12:00 22/09/2024
+- 🚀 [Nhiệt độ Trái Đất thay đổi ra sao trong 500 triệu năm qua](https://vnexpress.net/nhiet-do-trai-dat-thay-doi-ra-sao-trong-500-trieu-nam-qua-4795638.html) - 12:00 22/09/2024
+- 🪄 [Khác biệt trong chiến lược vận động cử tri của bà Harris so với ông Biden](https://vnexpress.net/khac-biet-trong-chien-luoc-van-dong-cu-tri-cua-ba-harris-so-voi-ong-biden-4793222.html) - 12:00 22/09/2024
+- 😎 [&#39;Transformers One&#39; nhận mưa lời khen](https://vnexpress.net/transformers-one-nhan-mua-loi-khen-4795692.html) - 12:00 22/09/2024
 - 🎊 [Đá lăn đè trúng hai ôtô](https://vnexpress.net/da-lan-de-trung-hai-oto-4795721.html) - 11:54 22/09/2024
 - ⚗️ [Cây trôi 800 tuổi được công nhận cây di sản](https://vnexpress.net/cay-troi-800-tuoi-duoc-cong-nhan-cay-di-san-4795712.html) - 11:48 22/09/2024
 - 🫣 [Trò lừa &#39;chuyển tiền thành vàng&#39; nhắm vào người cao tuổi](https://vnexpress.net/tro-lua-dao-chuyen-tien-thanh-vang-nham-vao-nguoi-cao-tuoi-4795719.html) - 11:47 22/09/2024
