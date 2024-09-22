@@ -6,7 +6,7 @@ sidebar_position: 19
 <!-- dantri-lao-dong-viec-lam:START -->
 - ⚗️ [Quy định về kích thước &quot;con cá hiếm&quot; khiến nhiều tàu nằm bờ](https://dantri.com.vn/lao-dong-viec-lam/quy-dinh-ve-kich-thuoc-con-ca-hiem-khien-nhieu-tau-nam-bo-20240921113039031.htm) - 01:10 22/09/2024
 - 🙉 [Dùng nhiệt mặt trời để sản xuất nước mắm, kiếm hàng tỷ đồng mỗi năm](https://dantri.com.vn/lao-dong-viec-lam/dung-nhiet-mat-troi-de-san-xuat-nuoc-mam-kiem-hang-ty-dong-moi-nam-20240921080324096.htm) - 23:00 21/09/2024
-- 🕴 [Nông dân Hà Tĩnh đào được củ sắn &quot;khổng lồ&quot;, dài hơn 1m](https://dantri.com.vn/lao-dong-viec-lam/nong-dan-ha-tinh-dao-duoc-cu-san-khong-lo-dai-hon-1m-20240921104155963.htm) - 04:21 21/09/2024
+- 🕴 [Nông dân đào được củ sắn &quot;khổng lồ&quot;, nặng 25kg, dài hơn 1m](https://dantri.com.vn/lao-dong-viec-lam/nong-dan-dao-duoc-cu-san-khong-lo-nang-25kg-dai-hon-1m-20240921104155963.htm) - 04:21 21/09/2024
 - 🧐 [Ráo riết giữ chân nhân tài, doanh nghiệp cần đầu tư vào những gì?](https://dantri.com.vn/lao-dong-viec-lam/rao-riet-giu-chan-nhan-tai-doanh-nghiep-can-dau-tu-vao-nhung-gi-20240920204455231.htm) - 02:23 21/09/2024
 - 🧑‍💻 [Doanh nghiệp làm việc thứ 7 lên lịch nghỉ Tết Nguyên đán 2025 ra sao?](https://dantri.com.vn/lao-dong-viec-lam/doanh-nghiep-lam-viec-thu-7-len-lich-nghi-tet-nguyen-dan-2025-ra-sao-20240920224037554.htm) - 01:00 21/09/2024
 - 🪄 [3 ngành nghề có nhu cầu tuyển dụng cao nhất tại TPHCM](https://dantri.com.vn/lao-dong-viec-lam/3-nganh-nghe-co-nhu-cau-tuyen-dung-cao-nhat-tai-tphcm-20240921054750839.htm) - 23:00 20/09/2024
