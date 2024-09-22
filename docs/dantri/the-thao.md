@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Anthony Joshua bị hạ knock-out ngỡ ngàng ở trận tranh đai vô địch quyền anh](https://dantri.com.vn/the-thao/anthony-joshua-bi-ha-knock-out-ngo-ngang-o-tran-tranh-dai-vo-dich-quyen-anh-20240922103244582.htm) - 03:33 22/09/2024
+- 🎡 [Anthony Joshua bị hạ knock-out ngỡ ngàng ở trận tranh đai vô địch quyền anh](https://dantri.com.vn/the-thao/anthony-joshua-bi-ha-knock-out-ngo-ngang-o-tran-tranh-dai-vo-dich-quyen-anh-20240922103244582.htm) - 04:00 22/09/2024
 - 💯 [Alcaraz chiến thắng, Medvedev bất ngờ thất bại tại Laver Cup 2024](https://dantri.com.vn/the-thao/alcaraz-chien-thang-medvedev-bat-ngo-that-bai-tai-laver-cup-2024-20240922082443461.htm) - 01:30 22/09/2024
 - ⛽️ [Quang Liêm mắc sai lầm, cờ vua Việt Nam thua đáng tiếc ở Olympiad](https://dantri.com.vn/the-thao/quang-liem-mac-sai-lam-co-vua-viet-nam-thua-dang-tiec-o-olympiad-20240922073527013.htm) - 00:39 22/09/2024
 - 💃 [Mbappe và Vinicius lập công giúp Real Madrid thắng đậm](https://dantri.com.vn/the-thao/mbappe-va-vinicius-lap-cong-giup-real-madrid-thang-dam-20240922073214058.htm) - 00:33 22/09/2024
