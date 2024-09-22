@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Kỳ thủ Lê Tuấn Minh giành huy chương đồng cá nhân ở Olympiad](https://dantri.com.vn/the-thao/ky-thu-le-tuan-minh-gianh-huy-chuong-dong-ca-nhan-o-olympiad-20240922232213481.htm) - 16:12 22/09/2024
-- 💯 [Man City 1-2 Arsenal &lpar;hiệp 2&rpar;: Sức ép lớn lên &quot;Pháo thủ&quot;](https://dantri.com.vn/the-thao/man-city-1-2-arsenal-hiep-2-suc-ep-lon-len-phao-thu-20240922220838847.htm) - 15:08 22/09/2024
+- 💯 [Man City 2-2 Arsenal &lpar;hiệp 2&rpar;: Sức ép lớn lên &quot;Pháo thủ&quot;](https://dantri.com.vn/the-thao/man-city-2-2-arsenal-hiep-2-suc-ep-lon-len-phao-thu-20240922220838847.htm) - 15:08 22/09/2024
 - ⛽️ [Thể Công Viettel lội ngược dòng thắng Hà Nội FC tại Mỹ Đình](https://dantri.com.vn/the-thao/the-cong-viettel-loi-nguoc-dong-thang-ha-noi-fc-tai-my-dinh-20240922214212215.htm) - 14:42 22/09/2024
 - 💃 [Patrik Lê Giang và VAR góp công lớn, CLB TPHCM đánh bại Bình Định](https://dantri.com.vn/the-thao/patrik-le-giang-va-var-gop-cong-lon-clb-tphcm-danh-bai-binh-dinh-20240922203539629.htm) - 13:44 22/09/2024
 - 🌈 [Bí thư Thành ủy TPHCM thi đấu pickleball, kêu gọi ủng hộ đồng bào vùng lũ](https://dantri.com.vn/the-thao/bi-thu-thanh-uy-tphcm-thi-dau-pickleball-keu-goi-ung-ho-dong-bao-vung-lu-20240922182028575.htm) - 13:40 22/09/2024
