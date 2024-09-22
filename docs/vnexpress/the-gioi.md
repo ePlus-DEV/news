@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Nổ mỏ than ở Iran, 51 người chết](https://vnexpress.net/no-mo-than-o-iran-51-nguoi-chet-4795691.html) - 10:09 22/09/2024
-- 🕴 [Hezbollah và dân quân Iraq tập kích Israel](https://vnexpress.net/hezbollah-va-dan-quan-iraq-tap-kich-israel-4795679.html) - 09:16 22/09/2024
+- 🕴 [Hezbollah và dân quân Iraq phóng rocket, tên lửa vào Israel](https://vnexpress.net/hezbollah-va-dan-quan-iraq-phong-rocket-ten-lua-vao-israel-4795679.html) - 09:16 22/09/2024
 - 🤭 [Malaysia bắt hơn 350 nghi phạm vụ &#39;mái ấm ác mộng&#39;](https://vnexpress.net/malaysia-bat-hon-350-nghi-pham-vu-mai-am-ac-mong-4795628.html) - 07:39 22/09/2024
 - 🧑‍💻 [Israel tập kích trường học ở Gaza, 22 người chết](https://vnexpress.net/israel-tap-kich-truong-hoc-o-gaza-22-nguoi-chet-4795580.html) - 07:24 22/09/2024
 - 🦏 [Hezbollah để lọt thiết bị gắn thuốc nổ như thế nào](https://vnexpress.net/hezbollah-de-lot-thiet-bi-gan-thuoc-no-nhu-the-nao-4795357.html) - 04:22 22/09/2024
