@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Hiện trạng biệt thự 100 tuổi nguy cơ bị đập bỏ](https://vnexpress.net/hien-trang-biet-thu-100-tuoi-nguy-co-bi-dap-bo-4795440.html) - 23:00 21/09/2024
 - 🤓 [&#39;Lương tối thiểu đủ nuôi gia đình mới khuyến khích người dân sinh con&#39;](https://vnexpress.net/luong-toi-thieu-du-nuoi-gia-dinh-moi-khuyen-khich-nguoi-dan-sinh-con-4790698.html) - 22:00 21/09/2024
-- ⚗️ [Nông dân lội nước tới bụng để vớt lúa](https://vnexpress.net/nong-dan-loi-nuoc-toi-bung-de-vot-lua-4795457.html) - 17:29 21/09/2024
+- ⚗️ [Nông dân lội nước tới bụng vớt lúa](https://vnexpress.net/nong-dan-loi-nuoc-toi-bung-vot-lua-4795457.html) - 17:29 21/09/2024
 - 🌊 [Kỹ sư điện đam mê xây trường trên núi](https://vnexpress.net/ky-su-dien-dam-me-xay-truong-tren-nui-4789132.html) - 17:00 21/09/2024
 - 🎓 [Đèo Bảo Lộc bị sạt lở](https://vnexpress.net/sat-lo-deo-bao-loc-4795526.html) - 14:32 21/09/2024
 - 🔥 [20 đặc công lặn tìm du khách rơi xuống biển Ninh Thuận](https://vnexpress.net/20-dac-cong-lan-tim-du-khach-roi-xuong-bien-ninh-thuan-4795522.html) - 14:08 21/09/2024
