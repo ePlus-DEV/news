@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Pep Guardiola lên tiếng khi Man City có nguy cơ bị xóa sổ](https://dantri.com.vn/the-thao/pep-guardiola-len-tieng-khi-man-city-co-nguy-co-bi-xoa-so-20240922153925100.htm) - 08:39 22/09/2024
+- 🎡 [Pep Guardiola lên tiếng khi Man City có nguy cơ bị xóa sổ](https://dantri.com.vn/the-thao/pep-guardiola-len-tieng-khi-man-city-co-nguy-co-bi-xoa-so-20240922153925100.htm) - 10:39 22/09/2024
 - 💯 [HLV Park Chung Gun: &quot;Tôi đã suy nghĩ kỹ khi chia tay bắn súng Việt Nam&quot;](https://dantri.com.vn/the-thao/hlv-park-chung-gun-toi-da-suy-nghi-ky-khi-chia-tay-ban-sung-viet-nam-20240922154310153.htm) - 08:29 22/09/2024
 - ⛽️ [Nhận định Man City - Arsenal &lpar;22h30 ngày 22/9&rpar;: Thách thức và tham vọng](https://dantri.com.vn/the-thao/nhan-dinh-man-city-arsenal-22h30-ngay-229-thach-thuc-va-tham-vong-20240922144546941.htm) - 07:45 22/09/2024
 - 💃 [Nguyễn Thị Oanh phá kỷ lục quốc gia ở nội dung marathon](https://dantri.com.vn/the-thao/nguyen-thi-oanh-pha-ky-luc-quoc-gia-o-noi-dung-marathon-20240922152407752.htm) - 07:44 22/09/2024
