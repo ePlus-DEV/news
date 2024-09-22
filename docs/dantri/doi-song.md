@@ -6,7 +6,7 @@ sidebar_position: 18
 <!-- dantri-doi-song:START -->
 - 🥳 [Đám cưới &quot;hai tiệc&quot;, chính quyền yêu cầu cán bộ chỉ tổ chức một tiệc](https://dantri.com.vn/doi-song/dam-cuoi-hai-tiec-chinh-quyen-yeu-cau-can-bo-chi-to-chuc-mot-tiec-20240920125716816.htm) - 23:10 21/09/2024
 - 🌁 [Nhân chứng kể phút cứu 2 bé đạp xe qua cầu tràn, bị nước cuốn ở Yên Bái](https://dantri.com.vn/doi-song/nhan-chung-ke-phut-cuu-2-be-dap-xe-qua-cau-tran-bi-nuoc-cuon-o-yen-bai-20240921155236771.htm) - 23:07 21/09/2024
-- 👀 [Người phụ nữ bị con trăn dài 4m xiết quanh thân suốt 2 tiếng mới được cứu](https://dantri.com.vn/doi-song/nguoi-phu-nu-bi-con-tran-dai-4m-xiet-quanh-than-suot-2-tieng-moi-duoc-cuu-20240921131217485.htm) - 08:43 21/09/2024
+- 👀 [Người phụ nữ bị con trăn dài 4m siết quanh thân suốt 2 tiếng mới được cứu](https://dantri.com.vn/doi-song/nguoi-phu-nu-bi-con-tran-dai-4m-siet-quanh-than-suot-2-tieng-moi-duoc-cuu-20240921131217485.htm) - 08:43 21/09/2024
 - 🐻 [Vingroup kêu gọi chung tay hỗ trợ tái thiết vì tương lai xanh](https://dantri.com.vn/doi-song/vingroup-keu-goi-chung-tay-ho-tro-tai-thiet-vi-tuong-lai-xanh-20240921150007187.htm) - 08:32 21/09/2024
 - 🦅 [LG Styler thế hệ mới: Trợ thủ đắc lực giúp doanh nhân tự tin](https://dantri.com.vn/doi-song/lg-styler-the-he-moi-tro-thu-dac-luc-giup-doanh-nhan-tu-tin-20240920213409055.htm) - 01:00 21/09/2024
 - 🦩 [Cô gái ở Mộc Châu biến mảnh đất 800m2 đầy cỏ dại thành vườn đẹp như cổ tích](https://dantri.com.vn/doi-song/co-gai-o-moc-chau-bien-manh-dat-800m2-day-co-dai-thanh-vuon-dep-nhu-co-tich-20240821183836279.htm) - 00:31 21/09/2024
