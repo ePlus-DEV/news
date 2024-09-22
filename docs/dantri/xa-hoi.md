@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- dantri-xa-hoi:START -->
-- 🫣 [Khu vực Bắc Bộ và Thanh Hóa trời mát, Hà Nội sáng sớm có mưa](https://dantri.com.vn/xa-hoi/khu-vuc-bac-bo-va-thanh-hoa-troi-mat-ha-noi-sang-som-co-mua-20240922210605150.htm) - 14:21 22/09/2024
+- 🫣 [Thanh Hóa: Cố băng qua đập tràn, ô tô 7 chỗ mắc kẹt giữa dòng nước lũ](https://dantri.com.vn/xa-hoi/thanh-hoa-co-bang-qua-dap-tran-o-to-7-cho-mac-ket-giua-dong-nuoc-lu-20240922211543111.htm) - 14:34 22/09/2024
 - 💼 [Đồi nứt toác, 47 hộ dân ở Hòa Bình di dời khẩn cấp](https://dantri.com.vn/xa-hoi/doi-nut-toac-47-ho-dan-o-hoa-binh-di-doi-khan-cap-20240922205501027.htm) - 14:05 22/09/2024
 - 🎊 [Gia Lai: Cháy lớn ở chùa Vạn Phật, cảnh sát và người dân &quot;đội mưa&quot; dập lửa](https://dantri.com.vn/xa-hoi/gia-lai-chay-lon-o-chua-van-phat-canh-sat-va-nguoi-dan-doi-mua-dap-lua-20240922200959247.htm) - 13:39 22/09/2024
 - 🙉 [Samsung cam kết rót thêm gần 2 tỷ USD vốn đầu tư vào Bắc Ninh](https://dantri.com.vn/xa-hoi/samsung-cam-ket-rot-them-gan-2-ty-usd-von-dau-tu-vao-bac-ninh-20240922191350865.htm) - 12:19 22/09/2024
