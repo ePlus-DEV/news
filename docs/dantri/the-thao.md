@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [U20 Việt Nam 1-0 U20 Bhutan &lpar;hiệp 1&rpar;: Bảo Long mở tỷ số](https://dantri.com.vn/the-thao/u20-viet-nam-1-0-u20-bhutan-hiep-1-bao-long-mo-ty-so-20240923183716050.htm) - 11:37 23/09/2024
+- 🎡 [U20 Việt Nam 1-0 U20 Bhutan &lpar;hết hiệp 1&rpar;: Bảo Long mở tỷ số](https://dantri.com.vn/the-thao/u20-viet-nam-1-0-u20-bhutan-het-hiep-1-bao-long-mo-ty-so-20240923183716050.htm) - 11:37 23/09/2024
 - 💯 [Futsal Pháp bị nghi cố tình thua Iran để được gặp Thái Lan ở World Cup](https://dantri.com.vn/the-thao/futsal-phap-bi-nghi-co-tinh-thua-iran-de-duoc-gap-thai-lan-o-world-cup-20240923172654620.htm) - 10:48 23/09/2024
 - ⛽️ [Đội tuyển Việt Nam chốt lịch đối đầu Ấn Độ, Lebanon trước AFF Cup 2024](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-chot-lich-doi-dau-an-do-lebanon-truoc-aff-cup-2024-20240923170700006.htm) - 10:19 23/09/2024
 - 💃 [HLV Park Chung Gun: &quot;Không ai liên lạc bàn hợp đồng mới với tôi&quot;](https://dantri.com.vn/the-thao/hlv-park-chung-gun-khong-ai-lien-lac-ban-hop-dong-moi-voi-toi-20240923161359968.htm) - 09:50 23/09/2024
