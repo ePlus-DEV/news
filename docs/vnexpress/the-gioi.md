@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Tên lửa Sarmat Nga có thể đã phát nổ trên bệ phóng](https://vnexpress.net/ten-lua-sarmat-nga-co-the-da-phat-no-tren-be-phong-4795904.html) - 05:01 23/09/2024
+- 🎭 [Tên lửa xuyên lục địa của Nga có thể đã phát nổ trên bệ phóng thử](https://vnexpress.net/ten-lua-xuyen-luc-dia-cua-nga-co-the-da-phat-no-tren-be-phong-thu-4795904.html) - 05:01 23/09/2024
 - 🕴 [Việt Nam mong muốn đưa hợp tác công nghệ cao thành đột phá trong quan hệ với Mỹ](https://vnexpress.net/viet-nam-mong-muon-dua-hop-tac-cong-nghe-cao-thanh-dot-pha-trong-quan-he-voi-my-4795948.html) - 04:58 23/09/2024
 - 🤭 [Hezbollah tuyên bố bắt đầu &#39;cuộc chiến không giới hạn&#39; với Israel](https://vnexpress.net/hezbollah-tuyen-bo-bat-dau-cuoc-chien-khong-gioi-han-voi-israel-4795810.html) - 04:25 23/09/2024
 - 🧑‍💻 [Mưa &#39;trăm năm có một&#39; biến đường sá thành sông ở Hàn Quốc](https://vnexpress.net/mua-tram-nam-co-mot-bien-duong-sa-thanh-song-o-han-quoc-4795819.html) - 03:55 23/09/2024
