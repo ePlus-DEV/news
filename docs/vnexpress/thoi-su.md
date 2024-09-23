@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Đường phố TP Vinh ngập sau mưa lớn](https://vnexpress.net/duong-pho-tp-vinh-ngap-sau-mua-lon-4795868.html) - 03:30 23/09/2024
+- 🦒 [Thành phố Vinh ngập sau mưa lớn](https://vnexpress.net/thanh-pho-vinh-ngap-sau-mua-lon-4795868.html) - 03:30 23/09/2024
 - 🤓 [Tai nạn liên hoàn ở cửa ngõ TP HCM, 2 người chết](https://vnexpress.net/tai-nan-lien-hoan-o-cua-ngo-tp-hcm-2-nguoi-chet-4795808.html) - 01:11 23/09/2024
 - ⚗️ [Bắc Ninh giảm 20% số người chết vì tai nạn giao thông](https://vnexpress.net/bac-ninh-giam-20-so-nguoi-chet-vi-tai-nan-giao-thong-4795748.html) - 18:00 22/09/2024
 - 🌊 [Làm đèn ngủ bằng trầm hương](https://vnexpress.net/lam-den-ngu-bang-tram-huong-4794276.html) - 17:00 22/09/2024
