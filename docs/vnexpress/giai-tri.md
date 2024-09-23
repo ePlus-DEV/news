@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Phim kinh dị về Tấm Cám thu 50 tỷ đồng sau 3 ngày](https://vnexpress.net/phim-kinh-di-ve-tam-cam-thu-50-ty-dong-sau-3-ngay-4795750.html) - 22:00 22/09/2024
-- 💫 [Chồng cũ đấu giá tranh của Diệp Lâm Anh](https://vnexpress.net/chong-cu-dau-gia-tranh-cua-diep-lam-anh-4795733.html) - 17:26 22/09/2024
+- 💫 [Chồng cũ mua tranh của Diệp Lâm Anh](https://vnexpress.net/chong-cu-mua-tranh-cua-diep-lam-anh-4795733.html) - 17:26 22/09/2024
 - 🌮 [10 diễn viên triển vọng năm 2024](https://vnexpress.net/10-dien-vien-trien-vong-nam-2024-4795629.html) - 17:00 22/09/2024
 - 🧠 [Gia đình &#39;Hoàng tử trong mơ&#39; Thái Lan mặc đồng điệu](https://vnexpress.net/gia-dinh-hoang-tu-trong-mo-thai-lan-mac-dong-dieu-4795591.html) - 13:00 22/09/2024
 - 👨‍🏫 [&#39;Transformers One&#39; nhận mưa lời khen](https://vnexpress.net/transformers-one-nhan-mua-loi-khen-4795692.html) - 12:00 22/09/2024
