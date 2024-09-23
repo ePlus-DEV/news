@@ -37,7 +37,7 @@ sidebar_position: 9
 - 💫 [DHG tặng 10.000 túi thuốc gia đình cho người dân vùng bão lũ](https://vnexpress.net/dhg-tang-10-000-tui-thuoc-gia-dinh-cho-nguoi-dan-vung-bao-lu-4796167.html) - 12:00 23/09/2024
 - 🎉 [Đặt trước iPhone 16 tại TopZone nhận nhiều ưu đãi](https://vnexpress.net/dat-truoc-iphone-16-tai-topzone-nhan-nhieu-uu-dai-4795979.html) - 12:00 23/09/2024
 - 🌋 [Vũ Cát Tường tái hiện các cột mốc tình yêu trong MV](https://vnexpress.net/vu-cat-tuong-tai-hien-cac-cot-moc-tinh-yeu-trong-mv-4795222.html) - 12:00 23/09/2024
-- 🤖 [182 người chết trong đòn tấn công của Israel vào Lebanon](https://vnexpress.net/182-nguoi-chet-trong-don-tan-cong-cua-israel-vao-lebanon-4796164.html) - 11:40 23/09/2024
+- 🤖 [274 người chết trong đòn tấn công của Israel vào Lebanon](https://vnexpress.net/274-nguoi-chet-trong-don-tan-cong-cua-israel-vao-lebanon-4796164.html) - 11:40 23/09/2024
 - 🦏 [Cựu chủ tịch huyện Đất Đỏ bị phạt 3 năm tù](https://vnexpress.net/nguyen-chu-tich-ubnd-huyen-dat-do-bi-phat-3-nam-tu-4796155.html) - 11:27 23/09/2024
 - 🦩 [Bà Trương Mỹ Lan nói &#39;bằng mọi cách sẽ khắc phục thiệt hại cho người dân&#39;](https://vnexpress.net/ba-truong-my-lan-noi-bang-moi-cach-se-khac-phuc-thiet-hai-cho-nguoi-dan-4796145.html) - 11:16 23/09/2024
 - 👺 [Người già sẽ chiếm một nửa dân số Hàn Quốc trong gần 50 năm nữa](https://vnexpress.net/nguoi-gia-se-chiem-mot-nua-dan-so-han-quoc-trong-gan-50-nam-nua-4796146.html) - 11:08 23/09/2024
