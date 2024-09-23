@@ -4,7 +4,7 @@ sidebar_position: 8
 ---
 
 <!-- dantri-phap-luat:START -->
-- 🌊 [Bệnh nhân mất tích 6 ngày được phát hiện tử vong trên ban công bệnh viện](https://dantri.com.vn/phap-luat/benh-nhan-mat-tich-6-ngay-duoc-phat-hien-tu-vong-tren-ban-cong-benh-vien-20240923181547126.htm) - 11:38 23/09/2024
+- 🌊 [Liên tiếp mất dây cáp đèn chiếu sáng cao tốc Hà Nội - Hải Phòng](https://dantri.com.vn/phap-luat/lien-tiep-mat-day-cap-den-chieu-sang-cao-toc-ha-noi-hai-phong-20240923182413779.htm) - 12:09 23/09/2024
 - 🐲 [Bắt kẻ chủ mưu thuê người tạt sơn đòi nợ ở TPHCM](https://dantri.com.vn/phap-luat/bat-ke-chu-muu-thue-nguoi-tat-son-doi-no-o-tphcm-20240923180723710.htm) - 11:16 23/09/2024
 - 🌁 [Sắp xử phúc thẩm Chủ tịch Tân Hoàng Minh Đỗ Anh Dũng](https://dantri.com.vn/phap-luat/sap-xu-phuc-tham-chu-tich-tan-hoang-minh-do-anh-dung-20240923161445541.htm) - 09:48 23/09/2024
 - 🎃 [&quot;Giăng lưới&quot; bắt đối tượng cướp giật iPhone ở TPHCM](https://dantri.com.vn/phap-luat/giang-luoi-bat-doi-tuong-cuop-giat-iphone-o-tphcm-20240923161225850.htm) - 09:32 23/09/2024
