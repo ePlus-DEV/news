@@ -8,7 +8,7 @@ sidebar_position: 2
 - 🕴 [Phát hiện ngọc trai hiếm trong món ngao của nhà hàng](https://vnexpress.net/phat-hien-ngoc-trai-hiem-trong-mon-ngao-cua-nha-hang-4795929.html) - 09:01 23/09/2024
 - 🤭 [Chuột bò ra từ suất ăn của khách, máy bay hạ cánh khẩn](https://vnexpress.net/chuot-bo-ra-tu-suat-an-cua-khach-may-bay-ha-canh-khan-4795926.html) - 08:22 23/09/2024
 - 🧑‍💻 [Tỉnh miền trung Nhật Bản ngổn ngang sau mưa lũ](https://vnexpress.net/tinh-mien-trung-nhat-ban-ngon-ngang-sau-mua-lu-4795944.html) - 07:57 23/09/2024
-- 🦏 [Hàng chục tiêm kích Israel tập kích hiệp đồng vào Lebanon](https://vnexpress.net/hang-chuc-tiem-kich-israel-tap-kich-hiep-dong-vao-lebanon-4796046.html) - 07:39 23/09/2024
+- 🦏 [Hàng chục tiêm kích Israel tấn công mục tiêu Hezbollah ở Lebanon](https://vnexpress.net/hang-chuc-tiem-kich-israel-tan-cong-muc-tieu-hezbollah-o-lebanon-4796046.html) - 07:39 23/09/2024
 - 🦒 [Ông Trump chỉ trích &#39;nữ hoàng&#39; truyền hình Mỹ](https://vnexpress.net/ong-trump-chi-trich-nu-hoang-truyen-hinh-my-4795900.html) - 07:38 23/09/2024
 - 🌈 [Tên lửa xuyên lục địa của Nga có thể đã phát nổ trên bệ phóng thử](https://vnexpress.net/ten-lua-xuyen-luc-dia-cua-nga-co-the-da-phat-no-tren-be-phong-thu-4795904.html) - 05:01 23/09/2024
 - 🧑‍🏫 [Việt Nam mong muốn đưa hợp tác công nghệ cao thành đột phá trong quan hệ với Mỹ](https://vnexpress.net/viet-nam-mong-muon-dua-hop-tac-cong-nghe-cao-thanh-dot-pha-trong-quan-he-voi-my-4795948.html) - 04:58 23/09/2024
