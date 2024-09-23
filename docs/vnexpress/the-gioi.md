@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Khuyến cáo khẩn cấp công dân Việt Nam rời khỏi Lebanon](https://vnexpress.net/khuyen-cao-khan-cap-cong-dan-viet-nam-roi-khoi-lebanon-4796176.html) - 12:08 23/09/2024
-- 🕴 [Ít nhất 100 người chết trong đòn tấn công của Israel vào Lebanon](https://vnexpress.net/it-nhat-100-nguoi-chet-trong-don-tan-cong-cua-israel-vao-lebanon-4796164.html) - 11:40 23/09/2024
+- 🕴 [182 người chết trong đòn tấn công của Israel vào Lebanon](https://vnexpress.net/182-nguoi-chet-trong-don-tan-cong-cua-israel-vao-lebanon-4796164.html) - 11:40 23/09/2024
 - 🤭 [Israel gọi điện, gửi tin nhắn yêu cầu dân Lebanon sơ tán](https://vnexpress.net/israel-goi-dien-gui-tin-nhan-yeu-cau-dan-lebanon-so-tan-4796135.html) - 10:21 23/09/2024
 - 🧑‍💻 [Trung Quốc kêu gọi công dân nhanh chóng rời Israel](https://vnexpress.net/trung-quoc-keu-goi-cong-dan-nhanh-chong-roi-israel-4796073.html) - 09:33 23/09/2024
 - 🦏 [Phát hiện ngọc trai hiếm trong món ngao của nhà hàng](https://vnexpress.net/phat-hien-ngoc-trai-hiem-trong-mon-ngao-cua-nha-hang-4795929.html) - 09:01 23/09/2024
