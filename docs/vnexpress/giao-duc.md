@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Hơn 4.000 suất học bổng &#39;tiếp sức&#39; học sinh, sinh viên cả nước](https://vnexpress.net/hon-4-000-suat-hoc-bong-tiep-suc-hoc-sinh-sinh-vien-ca-nuoc-4791331.html) - 03:00 23/09/2024
-- 🦆 [Chàng trai tốt nghiệp á khoa ở đại học số một Singapore](https://vnexpress.net/chang-trai-tot-nghiep-a-khoa-o-dai-hoc-so-mot-singapore-4793664.html) - 23:38 22/09/2024
+- 🦆 [Chàng trai tốt nghiệp á khoa ở Đại học Quốc gia Singapore](https://vnexpress.net/chang-trai-tot-nghiep-a-khoa-o-dai-hoc-quoc-gia-singapore-4793664.html) - 23:38 22/09/2024
 - 🦩 [Trường vùng lũ lo mua, photo sách giáo khoa cho học sinh](https://vnexpress.net/truong-vung-lu-lo-mua-photo-sach-giao-khoa-cho-hoc-sinh-4795432.html) - 14:06 22/09/2024
 - 🌮 [Cầu nào bắc qua hai con sông?](https://vnexpress.net/cau-nao-bac-qua-hai-con-song-4795690.html) - 12:49 22/09/2024
 - 🔭 [Nam sinh lớp 11 bị bạn đánh gãy 4 chiếc răng](https://vnexpress.net/nam-sinh-lop-11-bi-ban-danh-gay-4-chiec-rang-4795592.html) - 03:00 22/09/2024
