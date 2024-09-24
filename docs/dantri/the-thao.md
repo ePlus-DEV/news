@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Bạo loạn kinh hoàng ở Indonesia: CĐV tràn xuống sân đánh trọng tài](https://dantri.com.vn/the-thao/bao-loan-kinh-hoang-o-indonesia-cdv-tran-xuong-san-danh-trong-tai-20240924123121299.htm) - 05:31 24/09/2024
+- 🎡 [Bạo loạn ở Indonesia: CĐV tràn xuống sân đánh trọng tài](https://dantri.com.vn/the-thao/bao-loan-o-indonesia-cdv-tran-xuong-san-danh-trong-tai-20240924123121299.htm) - 05:31 24/09/2024
 - 💯 [UEFA thừa nhận sai lầm nghiêm trọng ở Euro 2024: Nỗi oan thấu trời của Đức](https://dantri.com.vn/the-thao/uefa-thua-nhan-sai-lam-nghiem-trong-o-euro-2024-noi-oan-thau-troi-cua-duc-20240924101357780.htm) - 03:14 24/09/2024
 - ⛽️ [Alcaraz: &quot;Lịch thi đấu ATP đang giết dần các tay vợt&quot;](https://dantri.com.vn/the-thao/alcaraz-lich-thi-dau-atp-dang-giet-dan-cac-tay-vot-20240924082309561.htm) - 01:24 24/09/2024
 - 💃 [Man City có nguy cơ mất Rodri đến hết mùa giải](https://dantri.com.vn/the-thao/man-city-co-nguy-co-mat-rodri-den-het-mua-giai-20240924081004428.htm) - 01:19 24/09/2024
