@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Nghi phạm giết người, phi tang xác ở Thái Lan bị bắt tại Việt Nam](https://vnexpress.net/nghi-pham-giet-nguoi-phi-tang-xac-o-thai-lan-bi-bat-tai-viet-nam-4796509.html) - 09:23 24/09/2024
-- 🥰 [Luật sư: &#39;Người bạn Mỹ&#39; muốn giúp bà Trương Mỹ Lan bồi thường cho trái chủ](https://vnexpress.net/luat-su-nguoi-ban-my-muon-giup-ba-truong-my-lan-boi-thuong-cho-trai-chu-4796554.html) - 09:23 24/09/2024
+- 🥰 [Luật sư: &#39;Người bạn ở Mỹ&#39; muốn giúp bà Trương Mỹ Lan bồi thường](https://vnexpress.net/luat-su-nguoi-ban-o-my-muon-giup-ba-truong-my-lan-boi-thuong-4796554.html) - 09:23 24/09/2024
 - 🎓 [Nhóm chủ tiệm massage nhận tội 6 lần lừa bán cô gái](https://vnexpress.net/nhom-chu-tiem-massage-nhan-toi-6-lan-lua-ban-co-gai-4796443.html) - 08:48 24/09/2024
 - 🤓 [Nhóm &#39;vỡ nợ&#39; cướp ngân hàng ở TP HCM lĩnh án](https://vnexpress.net/nhom-vo-no-cuop-ngan-hang-o-tp-hcm-linh-an-4796496.html) - 08:26 24/09/2024
 - 🎊 [Bị phạt 8 năm tù vì chống phá Nhà nước](https://vnexpress.net/bi-phat-tu-vi-chong-pha-nha-nuoc-4796486.html) - 07:48 24/09/2024
