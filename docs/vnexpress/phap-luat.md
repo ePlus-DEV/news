@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Đổi quốc tịch cho con, có cần bố của đứa trẻ đồng ý?](https://vnexpress.net/doi-quoc-tich-cho-con-co-can-bo-cua-dua-tre-dong-y-4794823.html) - 23:00 23/09/2024
-- 🥰 [&#39;Lợi ích nhóm&#39; trong đấu thầu cung cấp giấy in sách giáo khoa](https://vnexpress.net/loi-ich-nhom-trong-dau-thau-cung-cap-giay-in-sach-giao-khoa-4796197.html) - 17:00 23/09/2024
+- 🥰 [&#39;Lợi ích nhóm&#39; trong vụ án cung cấp giấy in sách giáo khoa](https://vnexpress.net/loi-ich-nhom-trong-vu-an-cung-cap-giay-in-sach-giao-khoa-4796197.html) - 17:00 23/09/2024
 - 🎓 [Kẻ trốn trại giam gây thảm án tại tiệc cưới](https://vnexpress.net/ke-tron-tu-gay-tham-an-sau-tiec-cuoi-4796149.html) - 17:00 23/09/2024
 - 🤓 [Cựu kế toán trưởng Viện vệ sinh dịch tễ Trung ương bị tuyên tử hình](https://vnexpress.net/cuu-ke-toan-truong-vien-ve-sinh-dich-te-trung-uong-bi-tuyen-tu-hinh-4796162.html) - 14:00 23/09/2024
 - 🎊 [Cựu chủ tịch huyện Đất Đỏ bị phạt 3 năm tù](https://vnexpress.net/nguyen-chu-tich-ubnd-huyen-dat-do-bi-phat-3-nam-tu-4796155.html) - 11:27 23/09/2024
