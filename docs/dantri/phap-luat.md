@@ -6,7 +6,7 @@ sidebar_position: 8
 <!-- dantri-phap-luat:START -->
 - 🌊 [Bà Trương Mỹ Lan muốn tìm người trả giá cao cho tòa nhà tỷ USD ở Hà Nội](https://dantri.com.vn/phap-luat/ba-truong-my-lan-muon-tim-nguoi-tra-gia-cao-cho-toa-nha-ty-usd-o-ha-noi-20240924095932071.htm) - 03:21 24/09/2024
 - 🐲 [Vụ Xuyên Việt Oil: Cựu Thứ trưởng Đỗ Thắng Hải từng bị phạt tù treo](https://dantri.com.vn/phap-luat/vu-xuyen-viet-oil-cuu-thu-truong-do-thang-hai-tung-bi-phat-tu-treo-20240924093000233.htm) - 02:35 24/09/2024
-- 🌁 [Cựu Giám đốc NXB Giáo dục và những cọc tiền liên tục được cất vào két sắt](https://dantri.com.vn/phap-luat/cuu-giam-doc-nxb-giao-duc-va-nhung-coc-tien-lien-tuc-duoc-cat-vao-ket-sat-20240923214537299.htm) - 22:29 23/09/2024
+- 🌁 [Cựu Chủ tịch NXB Giáo dục và những cọc tiền liên tục được cất vào két sắt](https://dantri.com.vn/phap-luat/cuu-chu-tich-nxb-giao-duc-va-nhung-coc-tien-lien-tuc-duoc-cat-vao-ket-sat-20240923214537299.htm) - 22:29 23/09/2024
 - 🎃 [Cựu Kế toán trưởng Viện Vệ sinh dịch tễ Trung ương lĩnh án tử hình](https://dantri.com.vn/phap-luat/cuu-ke-toan-truong-vien-ve-sinh-dich-te-trung-uong-linh-an-tu-hinh-20240923230416649.htm) - 16:18 23/09/2024
 - 🦅 [Liên tiếp mất dây cáp đèn chiếu sáng cao tốc Hà Nội - Hải Phòng](https://dantri.com.vn/phap-luat/lien-tiep-mat-day-cap-den-chieu-sang-cao-toc-ha-noi-hai-phong-20240923182413779.htm) - 12:09 23/09/2024
 - 🎭 [Bắt kẻ chủ mưu thuê người tạt sơn đòi nợ ở TPHCM](https://dantri.com.vn/phap-luat/bat-ke-chu-muu-thue-nguoi-tat-son-doi-no-o-tphcm-20240923180723710.htm) - 11:16 23/09/2024
