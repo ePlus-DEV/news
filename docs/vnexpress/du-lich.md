@@ -6,7 +6,7 @@ sidebar_position: 11
 <!-- vnexpress-du-lich:START -->
 - 💂 [Khuyến cáo khách không trekking Tà Chì Nhù](https://vnexpress.net/khuyen-cao-khach-khong-trekking-ta-chi-nhu-4796796.html) - 12:05 25/09/2024
 - 🪄 [Hà Nội mất mùa cúc họa mi](https://vnexpress.net/ha-noi-mat-mua-cuc-hoa-mi-4796765.html) - 07:57 25/09/2024
-- 🦅 [Thưởng thức món Thái Michelin trên xe buýt ở Bangkok](https://vnexpress.net/thuong-thuc-mon-thai-michelin-tren-xe-buyt-o-bangkok-4795945.html) - 05:03 25/09/2024
+- 🦅 [Ngắm cảnh, thưởng thức món Thái trên xe buýt ở Bangkok](https://vnexpress.net/ngam-canh-thuong-thuc-mon-thai-tren-xe-buyt-o-bangkok-4795945.html) - 05:03 25/09/2024
 - 🕴 [6 món &#39;khó quên&#39; mùa nước nổi miền Tây](https://vnexpress.net/6-mon-kho-quen-mua-nuoc-noi-mien-tay-4796449.html) - 02:25 25/09/2024
 - 👀 [Đi máy bay riêng đắt thế nào](https://vnexpress.net/di-may-bay-rieng-dat-the-nao-4796455.html) - 00:00 25/09/2024
 - 🎭 [Nữ du khách có biệt danh &#39;mông sắt&#39; ở Trung Quốc](https://vnexpress.net/nu-du-khach-co-biet-danh-mong-sat-o-trung-quoc-4796267.html) - 17:00 24/09/2024
