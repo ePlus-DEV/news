@@ -5,7 +5,7 @@ sidebar_position: 8
 
 <!-- dantri-phap-luat:START -->
 - 🌊 [Tội ác của kẻ sát hại cô gái 17 tuổi, phân xác phi tang ở sông Hồng](https://dantri.com.vn/phap-luat/toi-ac-cua-ke-sat-hai-co-gai-17-tuoi-phan-xac-phi-tang-o-song-hong-20240925163707013.htm) - 17:00 25/09/2024
-- 🐲 [Công an lấy lời khai của Long &quot;Tròn&quot; và đồng bọn.](https://dantri.com.vn/phap-luat/cong-an-lay-loi-khai-cua-long-tron-va-dong-bon-20240925230510132.htm) - 16:12 25/09/2024
+- 🐲 [Công an lấy lời khai của Long &quot;Tròn&quot; và đồng bọn](https://dantri.com.vn/phap-luat/cong-an-lay-loi-khai-cua-long-tron-va-dong-bon-20240925230510132.htm) - 16:12 25/09/2024
 - 🌁 [Bắt nhóm thanh niên mang súng đi giải quyết mâu thuẫn](https://dantri.com.vn/phap-luat/bat-nhom-thanh-nien-mang-sung-di-giai-quyet-mau-thuan-20240925202516766.htm) - 14:16 25/09/2024
 - 🎃 [Nhóm thanh niên chém người vì mâu thuẫn trong quán karaoke](https://dantri.com.vn/phap-luat/nhom-thanh-nien-chem-nguoi-vi-mau-thuan-trong-quan-karaoke-20240925192335747.htm) - 12:54 25/09/2024
 - 🦅 [Lộ bí mật trong kho hàng khi xe tải bị kiểm tra hành chính ở Đà Nẵng](https://dantri.com.vn/phap-luat/lo-bi-mat-trong-kho-hang-khi-xe-tai-bi-kiem-tra-hanh-chinh-o-da-nang-20240925182908109.htm) - 12:20 25/09/2024
