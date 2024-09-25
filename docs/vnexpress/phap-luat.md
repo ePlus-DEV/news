@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Chủ tịch Tân Hoàng Minh xin giảm án trong phiên phúc thẩm](https://vnexpress.net/chu-tich-tan-hoang-minh-xin-giam-an-trong-phien-phuc-tham-4796658.html) - 02:46 25/09/2024
+- 😎 [Chủ tịch Tân Hoàng Minh được VKS đề nghị giảm 6-9 tháng tù](https://vnexpress.net/chu-tich-tan-hoang-minh-duoc-vks-de-nghi-giam-6-9-thang-tu-4796658.html) - 02:46 25/09/2024
 - 🥰 [Trong thời gian bị tạm giữ bằng lái, có được điều khiển xe?](https://vnexpress.net/trong-thoi-gian-bi-tam-giu-bang-lai-co-duoc-dieu-khien-xe-4796126.html) - 23:00 24/09/2024
 - 🎓 [Vỏ bọc &#39;người tử tế&#39; của kẻ biến thái dụ dỗ hàng chục thiếu niên](https://vnexpress.net/vo-boc-nguoi-tu-te-cua-ke-bien-thai-du-do-hang-chuc-thieu-nien-4796611.html) - 17:00 24/09/2024
 - 🤓 [Nhóm trộm chuyên đột nhập biệt thự vùng biên lĩnh án](https://vnexpress.net/nhom-trom-chuyen-dot-nhap-biet-thu-vung-bien-linh-an-4796567.html) - 17:00 24/09/2024
