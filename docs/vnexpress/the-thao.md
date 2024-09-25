@@ -47,7 +47,7 @@ sidebar_position: 5
 - 🧑‍🏫 [Nhà vô địch duathlon Việt Nam về ba giải chạy Thái Lan](https://vnexpress.net/nha-vo-dich-duathlon-viet-nam-ve-ba-giai-chay-thai-lan-4795720.html) - 06:54 23/09/2024
 - 🤔 [Hai cầu thủ Arsenal không chuyền chính xác lần nào trước Man City](https://vnexpress.net/hai-cau-thu-arsenal-khong-chuyen-chinh-xac-lan-nao-truoc-man-city-4795827.html) - 06:11 23/09/2024
 - 😺 [Roy Keane: &#39;Arteta nên uống thuốc để trấn tĩnh&#39;](https://vnexpress.net/roy-keane-arteta-nen-uong-thuoc-de-tran-tinh-4795971.html) - 05:52 23/09/2024
-- 💪 [Thai phụ 29 tuần hoàn thành 5km ở VM Hạ Long](https://vnexpress.net/thai-phu-29-tuan-hoan-thanh-5km-o-vm-ha-long-4795869.html) - 04:34 23/09/2024
+- 💪 [Mẹ bầu 29 tuần hoàn thành 5km ở VM Hạ Long](https://vnexpress.net/me-bau-29-tuan-hoan-thanh-5km-o-vm-ha-long-4795869.html) - 04:34 23/09/2024
 - 💼 [Alcaraz đưa châu Âu lên đỉnh Laver Cup](https://vnexpress.net/alcaraz-dua-chau-au-len-dinh-laver-cup-4795984.html) - 04:24 23/09/2024
 - 🕴 [Lê Tuấn Minh - người hùng thầm lặng của Việt Nam ở Olympiad cờ vua](https://vnexpress.net/le-tuan-minh-nguoi-hung-tham-lang-cua-viet-nam-o-olympiad-co-vua-4795765.html) - 04:16 23/09/2024
 - 🕯 [Guardiola tố Arsenal trì hoãn trận đấu](https://vnexpress.net/guardiola-to-arsenal-tri-hoan-tran-dau-4795769.html) - 04:00 23/09/2024
