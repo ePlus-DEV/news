@@ -11,7 +11,7 @@ sidebar_position: 3
 - 🦅 [Tiền vào chứng khoán tăng](https://vnexpress.net/tien-vao-chung-khoan-tang-4796964.html) - 08:44 25/09/2024
 - 😺 [Vàng nhẫn trơn lập đỉnh 83 triệu đồng một lượng](https://vnexpress.net/nhan-tron-len-83-trieu-dong-4796954.html) - 08:36 25/09/2024
 - 🤩 [Superport Việt Nam cam kết đạt phát thải ròng bằng 0 vào năm 2040](https://vnexpress.net/superport-viet-nam-cam-ket-dat-phat-thai-rong-bang-0-vao-nam-2040-4796910.html) - 08:00 25/09/2024
-- 🌮 [TP HCM cần chuyển đổi công nghiệp như thế nào](https://vnexpress.net/tp-hcm-can-chuyen-doi-cong-nghiep-nhu-the-nao-4796869.html) - 07:50 25/09/2024
+- 🌮 [TP HCM cần chuyển đổi ngành công nghiệp như thế nào](https://vnexpress.net/tp-hcm-can-chuyen-doi-nganh-cong-nghiep-nhu-the-nao-4796869.html) - 07:50 25/09/2024
 - 🧰 [ADB giữ nguyên dự báo tăng trưởng của Việt Nam](https://vnexpress.net/adb-giu-nguyen-du-bao-tang-truong-cua-viet-nam-4796889.html) - 06:10 25/09/2024
 - 🤔 [Sắp khai trương AEON Tạ Quang Bửu quy mô 7.000 m2](https://vnexpress.net/sap-khai-truong-aeon-ta-quang-buu-quy-mo-7-000-m2-4796533.html) - 05:00 25/09/2024
 - 🧑‍💻 [Doanh nghiệp bánh kẹo rục rịch tăng giá](https://vnexpress.net/doanh-nghiep-banh-keo-ruc-rich-tang-gia-4795844.html) - 02:00 25/09/2024
