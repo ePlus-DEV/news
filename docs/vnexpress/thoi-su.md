@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Phó thủ tướng: Đường sắt tốc độ 350 km/h cần thẳng nhất có thể](https://vnexpress.net/pho-thu-tuong-duong-sat-toc-do-350-km-h-can-thang-nhat-co-the-4796921.html) - 08:44 25/09/2024
+- 🦒 [Phó thủ tướng: Đường sắt tốc độ 350 km/h cần &#39;thẳng nhất có thể&#39;](https://vnexpress.net/pho-thu-tuong-duong-sat-toc-do-350-km-h-can-thang-nhat-co-the-4796921.html) - 08:44 25/09/2024
 - 🤓 [Doanh nghiệp bị phạt gần 10 tỷ đồng vì khai thác cát lậu](https://vnexpress.net/doanh-nghiep-bi-phat-gan-10-ty-dong-vi-khai-thac-cat-lau-4796892.html) - 06:56 25/09/2024
 - ⚗️ [Sống sót sau 9 ngày mắc kẹt giữa sông](https://vnexpress.net/song-sot-sau-9-ngay-mac-ket-giua-song-4796751.html) - 06:07 25/09/2024
 - 🌊 [Cây xanh ngăn xe container lao vào cửa hàng có 5 người](https://vnexpress.net/cay-xanh-ngan-xe-container-lao-vao-cua-hang-co-5-nguoi-4796855.html) - 05:03 25/09/2024
