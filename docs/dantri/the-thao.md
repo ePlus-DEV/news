@@ -4,9 +4,9 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Lamine Yamal bị vắt kiệt sức, HLV Barcelona phản ứng bất ngờ](https://dantri.com.vn/the-thao/lamine-yamal-bi-vat-kiet-suc-hlv-barcelona-phan-ung-bat-ngo-20240925193137515.htm) - 12:31 25/09/2024
+- 🎡 [Lamine Yamal bị vắt kiệt sức, HLV Barcelona phản ứng bất ngờ](https://dantri.com.vn/the-thao/lamine-yamal-bi-vat-kiet-suc-hlv-barcelona-phan-ung-bat-ngo-20240925193137515.htm) - 13:31 25/09/2024
 - 💯 [HLV Mourinho gây thất vọng lớn, lĩnh án phạt ở Thổ Nhĩ Kỳ](https://dantri.com.vn/the-thao/hlv-mourinho-gay-that-vong-lon-linh-an-phat-o-tho-nhi-ky-20240925191426639.htm) - 12:15 25/09/2024
-- ⛽️ [U20 Việt Nam 2-0 U20 Guam &lpar;hiệp 2&rpar;: Đội khách còn 10 người](https://dantri.com.vn/the-thao/u20-viet-nam-2-0-u20-guam-hiep-2-doi-khach-con-10-nguoi-20240925185516855.htm) - 11:55 25/09/2024
+- ⛽️ [U20 Việt Nam thắng &quot;3 sao&quot; trước U20 Guam](https://dantri.com.vn/the-thao/u20-viet-nam-thang-3-sao-truoc-u20-guam-20240925185516855.htm) - 11:55 25/09/2024
 - 💃 [Báo Thái Lan hé lộ mức đãi ngộ của Công Phượng tại CLB Bình Phước](https://dantri.com.vn/the-thao/bao-thai-lan-he-lo-muc-dai-ngo-cua-cong-phuong-tai-clb-binh-phuoc-20240925125947441.htm) - 09:07 25/09/2024
 - 🌈 [Sao 18 tuổi của Real Madrid gây phẫn nộ, tranh cãi về án phạt của trọng tài](https://dantri.com.vn/the-thao/sao-18-tuoi-cua-real-madrid-gay-phan-no-tranh-cai-ve-an-phat-cua-trong-tai-20240925144013280.htm) - 08:00 25/09/2024
 - 🦅 [Chuyên gia Park Chung Gun nói điều bất ngờ về việc được Cục TDTT vinh danh](https://dantri.com.vn/the-thao/chuyen-gia-park-chung-gun-noi-dieu-bat-ngo-ve-viec-duoc-cuc-tdtt-vinh-danh-20240925132330487.htm) - 06:39 25/09/2024
