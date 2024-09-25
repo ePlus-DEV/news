@@ -6,7 +6,7 @@ sidebar_position: 23
 <!-- dantri-suc-khoe:START -->
 - 🤔 [Cách bổ sung vitamin tổng hợp hàng ngày hiệu quả](https://dantri.com.vn/suc-khoe/cach-bo-sung-vitamin-tong-hop-hang-ngay-hieu-qua-20240924223224580.htm) - 01:00 25/09/2024
 - 🚦 [Nhiều ca laser thẩm mỹ bị tai biến vì &quot;máy bắn cháy giấy&quot;](https://dantri.com.vn/suc-khoe/nhieu-ca-laser-tham-my-bi-tai-bien-vi-may-ban-chay-giay-20240924165727508.htm) - 00:27 25/09/2024
-- 🤖 [12 thói quen xấu nhiều người có dẫn đến tích mỡ ở bụng](https://dantri.com.vn/suc-khoe/12-thoi-quen-xau-nhieu-nguoi-co-dan-den-tich-mo-o-bung-20240924204829382.htm) - 23:19 24/09/2024
+- 🤖 [12 thói quen xấu dẫn đến tích mỡ ở bụng](https://dantri.com.vn/suc-khoe/12-thoi-quen-xau-dan-den-tich-mo-o-bung-20240924204829382.htm) - 23:19 24/09/2024
 - 🐻 [Thanh niên mắc kẹt giữa sông suốt 9 ngày: Nhận định của bác sĩ](https://dantri.com.vn/suc-khoe/thanh-nien-mac-ket-giua-song-suot-9-ngay-nhan-dinh-cua-bac-si-20240924194009174.htm) - 15:23 24/09/2024
 - 🌏 [Bộ trưởng Y tế: Thiếu thuốc, bệnh viện phải chịu trách nhiệm](https://dantri.com.vn/suc-khoe/bo-truong-y-te-thieu-thuoc-benh-vien-phai-chiu-trach-nhiem-20240924175800940.htm) - 10:58 24/09/2024
 - 👺 [Phòng khám đa khoa Bắc Việt bị phạt 94 triệu đồng, đình chỉ 3 tháng](https://dantri.com.vn/suc-khoe/phong-kham-da-khoa-bac-viet-bi-phat-94-trieu-dong-dinh-chi-3-thang-20240924160040495.htm) - 10:07 24/09/2024
