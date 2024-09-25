@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Diễn viên cao 1,92 m đoạt quán quân Mister Vietnam 2024](https://vnexpress.net/dien-vien-cao-1-92-m-doat-quan-quan-mister-vietnam-2024-4796982.html) - 17:11 25/09/2024
+- 🌏 [Diễn viên cao 1,92 m thắng danh hiệu Mister Vietnam 2024](https://vnexpress.net/dien-vien-cao-1-92-m-thang-danh-hieu-mister-vietnam-2024-4796982.html) - 17:11 25/09/2024
 - 💫 [Justin Bieber từng khóc nói về mặt tối ngành giải trí](https://vnexpress.net/justin-bieber-tung-khoc-noi-ve-mat-toi-nganh-giai-tri-4797056.html) - 14:45 25/09/2024
 - 🌮 [Cuộc sống của cao thủ đóng &#39;Tinh Võ anh hùng&#39;](https://vnexpress.net/cuoc-song-cua-cao-thu-dong-tinh-vo-anh-hung-4796928.html) - 12:00 25/09/2024
 - 🧠 [Cảnh Tấm khỏa thân trong phim &#39;Cám&#39; bị nhận xét thừa](https://vnexpress.net/canh-tam-khoa-than-trong-phim-cam-bi-nhan-xet-thua-4796931.html) - 09:22 25/09/2024
