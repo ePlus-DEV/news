@@ -5,7 +5,7 @@ sidebar_position: 6
 
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Công cụ tự động lập kế hoạch tài chính cá nhân](https://vnexpress.net/cong-cu-tu-dong-lap-ke-hoach-tai-chinh-ca-nhan-4796933.html) - 08:00 25/09/2024
-- 🎓 [Vì sao một số người cứ mãi độc thân?](https://vnexpress.net/vi-sao-mot-so-nguoi-cu-mai-doc-than-4796864.html) - 07:27 25/09/2024
+- 🎓 [Vì sao một số người mãi độc thân?](https://vnexpress.net/vi-sao-mot-so-nguoi-mai-doc-than-4796864.html) - 07:27 25/09/2024
 - 🚦 [5 thói quen tiết kiệm &#39;bất di bất dịch&#39; của triệu phú tự thân](https://vnexpress.net/5-thoi-quen-tiet-kiem-bat-di-bat-dich-cua-trieu-phu-tu-than-4796818.html) - 04:48 25/09/2024
 - 🦣 [Gen Z Trung Quốc dùng hàng nhái để tiết kiệm](https://vnexpress.net/gen-z-trung-quoc-dung-hang-nhai-de-tiet-kiem-4796788.html) - 04:41 25/09/2024
 - 🎓 [Điểm trường ở Tây Nguyên được &#39;thay áo mới&#39;](https://vnexpress.net/diem-truong-o-tay-nguyen-duoc-thay-ao-moi-4789701.html) - 01:07 25/09/2024
