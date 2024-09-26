@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Kẻ cướp ôtô gây tai nạn liên hoàn bị cảnh sát nổ súng khống chế](https://vnexpress.net/ke-cuop-oto-gay-tai-nan-lien-hoan-bi-canh-sat-no-sung-khong-che-4797392.html) - 08:55 26/09/2024
+- 😎 [Kẻ cướp ôtô tông hàng loạt xe bị cảnh sát nổ súng khống chế](https://vnexpress.net/ke-cuop-oto-tong-hang-loat-xe-bi-canh-sat-no-sung-khong-che-4797392.html) - 08:55 26/09/2024
 - 🥰 [Nhiều giang hồ khét tiếng bị bắt trong đường dây ma túy của Hiệp &#39;Máu&#39;](https://vnexpress.net/nhieu-giang-ho-khet-tieng-bi-bat-trong-duong-day-ma-tuy-cua-hiep-mau-4797341.html) - 08:23 26/09/2024
 - 🎓 [Bà Trương Mỹ Lan nói &#39;tiền chuyển ra nước ngoài không phải của SCB&#39;](https://vnexpress.net/ba-truong-my-lan-noi-tien-chuyen-ra-nuoc-ngoai-khong-phai-cua-scb-4797295.html) - 06:37 26/09/2024
 - 🤓 [Bé trai 14 tuổi bị sát hại trước cửa nhà](https://vnexpress.net/be-trai-14-tuoi-bi-sat-hai-truoc-cua-nha-4797258.html) - 04:59 26/09/2024
