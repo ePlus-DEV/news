@@ -4,7 +4,7 @@ sidebar_position: 27
 ---
 
 <!-- dantri-dmagazine:START -->
-- 👨‍🏫 [Canh bạc của Barcelona để nâng tầm Lamine Yamal vượt qua Messi, Ronaldo](https://dantri.com.vn/the-thao/canh-bac-cua-barcelona-de-nang-tam-lamine-yamal-vuot-qua-messi-ronaldo-20240923180613588.htm) - 23:42 25/09/2024
+- 👨‍🏫 [Canh bạc của Barcelona để nâng tầm Lamine Yamal vượt qua Messi, Ronaldo](https://dantri.com.vn/the-thao/canh-bac-cua-barcelona-de-nang-tam-lamine-yamal-vuot-qua-messi-ronaldo-20240923180613588.htm) - 07:42 26/09/2024
 - 🎡 [Theo dấu 16 bảo vật quốc gia được bảo vệ cẩn mật tại TPHCM](https://dantri.com.vn/xa-hoi/theo-dau-16-bao-vat-quoc-gia-duoc-bao-ve-can-mat-tai-tphcm-20240907175103807.htm) - 22:26 24/09/2024
 - 😎 [Chuyện người lính Nhật trong hàng ngũ bộ đội Cụ Hồ và thanh kiếm đặc biệt](https://dantri.com.vn/xa-hoi/chuyen-nguoi-linh-nhat-trong-hang-ngu-bo-doi-cu-ho-va-thanh-kiem-dac-biet-20240918114609078.htm) - 22:03 24/09/2024
 - 🦍 [Trợ lý HLV Park: &quot;Đội tuyển Việt Nam chưa hơn gì thời HLV Troussier&quot;](https://dantri.com.vn/the-thao/tro-ly-hlv-park-doi-tuyen-viet-nam-chua-hon-gi-thoi-hlv-troussier-20240918145216544.htm) - 23:46 20/09/2024
