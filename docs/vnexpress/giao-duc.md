@@ -4,9 +4,9 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Học gì để trở thành chuyên gia phát triển bền vững?](https://vnexpress.net/hoc-gi-de-tro-thanh-chuyen-gia-phat-trien-ben-vung-4796952.html) - 00:30 26/09/2024
-- 🦆 [Học Tự động hóa hay Cơ điện tử để có lương cao hơn?](https://vnexpress.net/hoc-tu-dong-hoa-hay-co-dien-tu-de-co-luong-cao-hon-4796054.html) - 17:01 25/09/2024
-- 🦩 [Nước nào sản xuất nhiều vàng nhất thế giới?](https://vnexpress.net/nuoc-nao-san-xuat-nhieu-vang-nhat-the-gioi-4797016.html) - 13:00 25/09/2024
+- 🤓 [Nước nào sản xuất nhiều vàng nhất thế giới?](https://vnexpress.net/nuoc-nao-san-xuat-nhieu-vang-nhat-the-gioi-4797016.html) - 02:12 26/09/2024
+- 🦆 [Học gì để trở thành chuyên gia phát triển bền vững?](https://vnexpress.net/hoc-gi-de-tro-thanh-chuyen-gia-phat-trien-ben-vung-4796952.html) - 00:30 26/09/2024
+- 🦩 [Học Tự động hóa hay Cơ điện tử để có lương cao hơn?](https://vnexpress.net/hoc-tu-dong-hoa-hay-co-dien-tu-de-co-luong-cao-hon-4796054.html) - 17:01 25/09/2024
 - 🌮 [Nhiều địa phương cho học sinh nghỉ thứ bảy](https://vnexpress.net/nhieu-dia-phuong-cho-hoc-sinh-nghi-thu-bay-4796985.html) - 10:23 25/09/2024
 - 🔭 [Bên trong đại học 5 sao đầu tiên ở Việt Nam](https://vnexpress.net/ben-trong-dai-hoc-5-sao-dau-tien-o-viet-nam-4789048.html) - 09:39 25/09/2024
 - 💡 [Phụ huynh xông vào lớp đánh học sinh](https://vnexpress.net/phu-huynh-xong-vao-lop-danh-hoc-sinh-4796903.html) - 09:11 25/09/2024
