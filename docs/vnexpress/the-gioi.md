@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Phu nhân Ngô Phương Ly thăm trường Cuba mang tên nữ anh hùng Việt Nam](https://vnexpress.net/phu-nhan-ngo-phuong-ly-tham-truong-cuba-mang-ten-nu-anh-hung-viet-nam-4797502.html) - 17:50 26/09/2024
+- 🎭 [Phu nhân Tổng Bí thư, Chủ tịch nước thăm trường Cuba mang tên nữ anh hùng Việt Nam](https://vnexpress.net/phu-nhan-tong-bi-thu-chu-tich-nuoc-tham-truong-cuba-mang-ten-nu-anh-hung-viet-nam-4797502.html) - 17:50 26/09/2024
 - 🕴 [Thách thức với Israel nếu mở mặt trận ở Lebanon](https://vnexpress.net/thach-thuc-voi-israel-neu-mo-mat-tran-o-lebanon-4796688.html) - 14:59 26/09/2024
 - 🤭 [Tiếp tục khuyến cáo công dân Việt Nam rời Lebanon](https://vnexpress.net/tiep-tuc-khuyen-cao-cong-dan-viet-nam-roi-lebanon-4797486.html) - 14:50 26/09/2024
 - 🧑‍💻 [Mỹ công bố viện trợ quân sự 8 tỷ USD cho Ukraine](https://vnexpress.net/my-cong-bo-vien-tro-quan-su-8-ty-usd-cho-ukraine-4797475.html) - 14:05 26/09/2024
