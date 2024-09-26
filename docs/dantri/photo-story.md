@@ -4,7 +4,7 @@ sidebar_position: 28
 ---
 
 <!-- dantri-photo-story:START -->
-- 💪 [Mãn nhãn hình ảnh không quân Việt Nam ném bom, bắn rốc két trong đêm](https://dantri.com.vn/xa-hoi/man-nhan-hinh-anh-khong-quan-viet-nam-nem-bom-ban-roc-ket-trong-dem-20240926091928938.htm) - 06:27 26/09/2024
+- 💪 [Hình ảnh hiếm thấy không quân Việt Nam diễn tập ném bom, bắn rocket ban đêm](https://dantri.com.vn/xa-hoi/hinh-anh-hiem-thay-khong-quan-viet-nam-dien-tap-nem-bom-ban-rocket-ban-dem-20240926091928938.htm) - 06:27 26/09/2024
 - 🧰 [Hình ảnh Ngày vui chiến thắng - Giải phóng Thủ đô trên phố phường Hà Nội](https://dantri.com.vn/xa-hoi/hinh-anh-ngay-vui-chien-thang-giai-phong-thu-do-tren-pho-phuong-ha-noi-20240925221127513.htm) - 01:47 26/09/2024
 - 🧰 [&quot;Phố ma&quot; trong khu đô thị sinh thái nghìn tỷ đồng ở Đà Nẵng](https://dantri.com.vn/bat-dong-san/pho-ma-trong-khu-do-thi-sinh-thai-nghin-ty-dong-o-da-nang-20240924173424328.htm) - 00:55 26/09/2024
 - 😎 [Hình hài 16 bảo vật quốc gia được lưu giữ nghiêm ngặt tại TPHCM](https://dantri.com.vn/xa-hoi/hinh-hai-16-bao-vat-quoc-gia-duoc-luu-giu-nghiem-ngat-tai-tphcm-20240926033919476.htm) - 00:51 26/09/2024
