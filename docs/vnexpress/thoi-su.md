@@ -13,7 +13,7 @@ sidebar_position: 1
 - 🦏 [Phó thủ tướng: Đường sắt tốc độ 350 km/h cần &#39;thẳng nhất có thể&#39;](https://vnexpress.net/pho-thu-tuong-duong-sat-toc-do-350-km-h-can-thang-nhat-co-the-4796921.html) - 08:44 25/09/2024
 - 👺 [Doanh nghiệp bị phạt gần 10 tỷ đồng vì khai thác cát lậu](https://vnexpress.net/doanh-nghiep-bi-phat-gan-10-ty-dong-vi-khai-thac-cat-lau-4796892.html) - 06:56 25/09/2024
 - 🧑‍🏫 [Sống sót sau 9 ngày mắc kẹt giữa sông](https://vnexpress.net/song-sot-sau-9-ngay-mac-ket-giua-song-4796751.html) - 06:07 25/09/2024
-- 🚦 [Cây xanh ngăn xe container lao vào cửa hàng có 5 người](https://vnexpress.net/cay-xanh-ngan-xe-container-lao-vao-cua-hang-co-5-nguoi-4796855.html) - 05:03 25/09/2024
+- 🚦 [Cây xanh &#39;ngăn&#39; xe container lao vào cửa hàng có 5 người](https://vnexpress.net/cay-xanh-ngan-xe-container-lao-vao-cua-hang-co-5-nguoi-4796855.html) - 05:03 25/09/2024
 - 🎉 [Đường nối Lâm Đồng - Bình Phước bị sụt lún](https://vnexpress.net/sat-lo-lam-dong-4796702.html) - 01:12 25/09/2024
 - 🦒 [Điểm trường ở Tây Nguyên được &#39;thay áo mới&#39;](https://vnexpress.net/diem-truong-o-tay-nguyen-duoc-thay-ao-moi-4789701.html) - 01:07 25/09/2024
 - 🤗 [Nhà máy sắp xếp sản xuất để công nhân nghỉ Tết thuận lợi](https://vnexpress.net/nha-may-sap-xep-san-xuat-de-cong-nhan-nghi-tet-thuan-loi-4796115.html) - 23:00 24/09/2024
