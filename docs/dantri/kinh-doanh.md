@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- dantri-kinh-doanh:START -->
 - 🏊 [Chứng khoán hụt mốc 1.300 điểm, &quot;cổ phiếu vua&quot; khuấy đảo thị trường](https://dantri.com.vn/kinh-doanh/chung-khoan-hut-moc-1300-diem-co-phieu-vua-khuay-dao-thi-truong-20240926154734472.htm) - 09:14 26/09/2024
 - 🦆 [EVNFinance rót gần 25.000 tỷ cho vay các khách cùng đại diện, cùng tòa nhà](https://dantri.com.vn/kinh-doanh/evnfinance-rot-gan-25000-ty-cho-vay-cac-khach-cung-dai-dien-cung-toa-nha-20240926151326275.htm) - 09:05 26/09/2024
-- 🦄 [SpaceX của tỷ phú Elon Musk dự định đầu tư 15 tỷ USD vào Việt Nam](https://dantri.com.vn/kinh-doanh/spacex-cua-ty-phu-elon-musk-du-dinh-dau-tu-15-ty-usd-vao-viet-nam-20240926123843363.htm) - 08:38 26/09/2024
+- 🦄 [SpaceX của tỷ phú Elon Musk dự định đầu tư 1,5 tỷ USD vào Việt Nam](https://dantri.com.vn/kinh-doanh/spacex-cua-ty-phu-elon-musk-du-dinh-dau-tu-15-ty-usd-vao-viet-nam-20240926123843363.htm) - 08:38 26/09/2024
 - 🌝 [Trung Quốc bất ngờ phát tiền cho người dân, chuyện gì đang xảy ra?](https://dantri.com.vn/kinh-doanh/trung-quoc-bat-ngo-phat-tien-cho-nguoi-dan-chuyen-gi-dang-xay-ra-20240926140606775.htm) - 08:13 26/09/2024
 - 💃 [Giá xăng tăng, có loại tăng 750 đồng/lít](https://dantri.com.vn/kinh-doanh/gia-xang-tang-co-loai-tang-750-donglit-20240926140917060.htm) - 08:06 26/09/2024
 - 🦏 [Việt Nam xếp thứ 54/166 quốc gia về chỉ số SDGs](https://dantri.com.vn/kinh-doanh/viet-nam-xep-thu-54166-quoc-gia-ve-chi-so-sdgs-20240926001013362.htm) - 06:12 26/09/2024
