@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Nhiều bà mẹ ở tuổi 15](https://vnexpress.net/nhieu-ba-me-o-tuoi-15-4797294.html) - 14:41 26/09/2024
+- 🔥 [Năm 2030 giảm hơn 60% tỷ lệ mang thai ngoài ý muốn](https://vnexpress.net/nam-2030-giam-hon-60-ty-le-mang-thai-ngoai-y-muon-4797294.html) - 14:41 26/09/2024
 - 🥰 [Ai dễ trở nặng khi mắc sốt xuất huyết?](https://vnexpress.net/ai-de-tro-nang-khi-mac-sot-xuat-huyet-4797478.html) - 14:00 26/09/2024
 - 💡 [Cô gái 26 tuổi hồi sinh nhờ quả thận mẹ hiến](https://vnexpress.net/co-gai-26-tuoi-hoi-sinh-nho-qua-than-me-hien-4797400.html) - 13:21 26/09/2024
 - 🤗 [Mạo danh thanh tra y tế lừa tiền &#39;lo lót&#39; kiểm tra quán ăn, nhà hàng](https://vnexpress.net/mao-danh-thanh-tra-y-te-lua-tien-lo-lot-kiem-tra-quan-an-nha-hang-4797456.html) - 12:58 26/09/2024
