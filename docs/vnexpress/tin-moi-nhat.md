@@ -4,18 +4,18 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [California cấm học sinh dùng điện thoại](https://vnexpress.net/california-cam-hoc-sinh-dung-dien-thoai-4797313.html) - 08:34 26/09/2024
-- 🐎 [Cảm xúc của cư dân Tel Aviv khi nếm mùi tên lửa Hezbollah](https://vnexpress.net/cam-xuc-cua-cu-dan-tel-aviv-khi-nem-mui-ten-lua-hezbollah-4797154.html) - 08:30 26/09/2024
+- 🎬 [California cấm học sinh dùng điện thoại trong lớp](https://vnexpress.net/california-cam-hoc-sinh-dung-dien-thoai-trong-lop-4797313.html) - 08:34 26/09/2024
+- 🐎 [Nỗi sợ của cư dân Tel Aviv khi nếm mùi tên lửa Hezbollah](https://vnexpress.net/noi-so-cua-cu-dan-tel-aviv-khi-nem-mui-ten-lua-hezbollah-4797154.html) - 08:30 26/09/2024
 - 🦍 [Phim trường &#39;Đèn Âm Hồn&#39; nhiều lần ngập vì mưa bão](https://vnexpress.net/phim-truong-den-am-hon-nhieu-lan-ngap-vi-mua-bao-4797264.html) - 08:30 26/09/2024
 - 🏊 [Viên uống EOS hỗ trợ làm sáng da và mờ nám](https://vnexpress.net/vien-uong-eos-ho-tro-lam-sang-da-va-mo-nam-4796595.html) - 08:30 26/09/2024
 - 🎊 [Nhiều giang hồ khét tiếng bị bắt trong đường dây ma tuý của Hiệp &#39;Máu&#39;](https://vnexpress.net/nhieu-giang-ho-khet-tieng-bi-bat-trong-duong-day-ma-tuy-cua-hiep-mau-4797341.html) - 08:23 26/09/2024
 - 🎃 [&#39;Cần công khai lãnh đạo tỉnh được mời mà không tiếp công dân&#39;](https://vnexpress.net/can-cong-khai-lanh-dao-tinh-duoc-moi-ma-khong-tiep-cong-dan-4797274.html) - 08:10 26/09/2024
 - 🧰 [Bà Harris nới cách biệt với ông Trump trong khảo sát toàn quốc](https://vnexpress.net/ba-harris-noi-cach-biet-voi-ong-trump-trong-khao-sat-toan-quoc-4797116.html) - 08:08 26/09/2024
-- 🔭 [Thôn Hà Nội nằm ở đâu?](https://vnexpress.net/thon-ha-noi-nam-o-dau-4797320.html) - 08:00 26/09/2024
-- 🫶 [Đồng nghiệp Gen Z nghỉ phép vì &#39;có hẹn với thợ làm tóc&#39;](https://vnexpress.net/dong-nghiep-gen-z-nghi-phep-vi-co-hen-voi-tho-lam-toc-4797257.html) - 08:00 26/09/2024
-- 🪜 [Tha thứ cho vợ nhưng không thể quên những bức ảnh nhạy cảm](https://vnexpress.net/tha-thu-cho-vo-nhung-khong-the-quen-nhung-buc-anh-nhay-cam-4797250.html) - 08:00 26/09/2024
-- 👨‍🏫 [Mong anh đủ ấm áp, tinh tế](https://vnexpress.net/mong-anh-du-am-ap-tinh-te-4797182.html) - 08:00 26/09/2024
-- 🎊 [Cầu đá 400 tuổi lộ diện khi nước cạn](https://vnexpress.net/cau-da-400-tuoi-lo-dien-khi-nuoc-can-4796953.html) - 08:00 26/09/2024
+- 🔭 [Đồng nghiệp Gen Z nghỉ phép vì &#39;có hẹn với thợ làm tóc&#39;](https://vnexpress.net/dong-nghiep-gen-z-nghi-phep-vi-co-hen-voi-tho-lam-toc-4797257.html) - 08:00 26/09/2024
+- 🫶 [Tha thứ cho vợ nhưng không thể quên những bức ảnh nhạy cảm](https://vnexpress.net/tha-thu-cho-vo-nhung-khong-the-quen-nhung-buc-anh-nhay-cam-4797250.html) - 08:00 26/09/2024
+- 🪜 [Mong anh đủ ấm áp, tinh tế](https://vnexpress.net/mong-anh-du-am-ap-tinh-te-4797182.html) - 08:00 26/09/2024
+- 👨‍🏫 [Cầu đá 400 tuổi lộ diện khi nước cạn](https://vnexpress.net/cau-da-400-tuoi-lo-dien-khi-nuoc-can-4796953.html) - 08:00 26/09/2024
+- 🎊 [Thôn Hà Nội nằm ở đâu?](https://vnexpress.net/thon-ha-noi-nam-o-dau-4797320.html) - 08:00 26/09/2024
 - 🎊 [Bình chọn điều hòa diệt khuẩn được yêu thích nhất](https://vnexpress.net/binh-chon-dieu-hoa-diet-khuan-duoc-yeu-thich-nhat-4797228.html) - 08:00 26/09/2024
 - 😺 [Đau tê tay chân cảnh báo hẹp ống sống](https://vnexpress.net/dau-te-tay-chan-canh-bao-hep-ong-song-4797285.html) - 08:00 26/09/2024
 - 🐘 [7 cách để trẻ bớt xem điện thoại](https://vnexpress.net/7-cach-de-tre-bot-xem-dien-thoai-4797207.html) - 08:00 26/09/2024
@@ -51,5 +51,4 @@ sidebar_position: 9
 - 👺 [H&#39;Hen Niê tạo dáng với thiết kế của Đỗ Mạnh Cường](https://vnexpress.net/h-hen-nie-tao-dang-voi-thiet-ke-cua-do-manh-cuong-4796874.html) - 06:39 26/09/2024
 - 🎡 [Bà Trương Mỹ Lan nói &#39;tiền chuyển ra nước ngoài không phải của SCB&#39;](https://vnexpress.net/ba-truong-my-lan-noi-tien-chuyen-ra-nuoc-ngoai-khong-phai-cua-scb-4797295.html) - 06:37 26/09/2024
 - 👍 [Liên tục khát nước bởi đường huyết tăng cao](https://vnexpress.net/lien-tuc-khat-nuoc-boi-duong-huyet-tang-cao-4797271.html) - 06:17 26/09/2024
-- 🐎 [Thế khó kẹt xe triền miên ở cửa ngõ &#39;ốc đảo&#39; Gò Vấp](https://vnexpress.net/the-kho-ket-xe-trien-mien-o-cua-ngo-oc-dao-go-vap-4797210.html) - 06:02 26/09/2024
-- 🏊 [Tỉnh nào ở Việt Nam nghe tên &#39;ai cũng phải ngước nhìn&#39;](https://vnexpress.net/tinh-nao-o-viet-nam-nghe-ten-ai-cung-phai-nguoc-nhin-4797199.html) - 06:00 26/09/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🐎 [Thế khó kẹt xe triền miên ở cửa ngõ &#39;ốc đảo&#39; Gò Vấp](https://vnexpress.net/the-kho-ket-xe-trien-mien-o-cua-ngo-oc-dao-go-vap-4797210.html) - 06:02 26/09/2024<!-- vnexpress-tin-moi-nhat:END -->
