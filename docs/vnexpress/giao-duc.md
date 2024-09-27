@@ -4,63 +4,63 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [FPT Telecom mang Camera AI đến hàng trăm trường học toàn quốc](https://vnexpress.net/fpt-telecom-mang-camera-ai-den-hang-tram-truong-hoc-toan-quoc-4797718.html) - 08:00 27/09/2024
-- 🦆 [Những &#39;cú sốc đầu đời&#39; của tân sinh viên](https://vnexpress.net/nhung-cu-soc-dau-doi-cua-tan-sinh-vien-4797343.html) - 02:56 27/09/2024
-- 🦩 [Nữ sinh Việt tranh tài STEAM với học sinh quốc tế](https://vnexpress.net/nu-sinh-viet-tranh-tai-steam-voi-hoc-sinh-quoc-te-4797407.html) - 01:00 27/09/2024
-- 🌮 [Có nên đi học Y học cổ truyền ở tuổi 28?](https://vnexpress.net/co-nen-di-hoc-y-hoc-co-truyen-o-tuoi-28-4797417.html) - 17:02 26/09/2024
-- 🔭 [Trường cho sinh viên vay tiền đóng học phí](https://vnexpress.net/truong-cho-sinh-vien-vay-tien-dong-hoc-phi-4797077.html) - 17:00 26/09/2024
-- 💡 [ĐH Duy Tân ra mắt công nghệ mô phỏng trong đào tạo kỹ thuật ôtô thông minh](https://vnexpress.net/dh-duy-tan-ra-mat-cong-nghe-mo-phong-trong-dao-tao-ky-thuat-oto-thong-minh-4797470.html) - 14:02 26/09/2024
-- 🥰 [Quảng Nam miễn học phí từ mầm non đến lớp 12](https://vnexpress.net/quang-nam-mien-hoc-phi-tu-mam-non-den-lop-12-4797457.html) - 13:24 26/09/2024
-- 🐲 [California cấm học sinh dùng điện thoại trong lớp](https://vnexpress.net/california-cam-hoc-sinh-dung-dien-thoai-trong-lop-4797313.html) - 08:34 26/09/2024
-- 🦒 [Hàng loạt trường ở Hoài Đức dừng cho học sinh uống sữa](https://vnexpress.net/hang-loat-truong-o-hoai-duc-dung-cho-hoc-sinh-uong-sua-4796900.html) - 07:47 26/09/2024
-- 🦆 [Nước nào sản xuất nhiều vàng nhất thế giới?](https://vnexpress.net/nuoc-nao-san-xuat-nhieu-vang-nhat-the-gioi-4797016.html) - 02:12 26/09/2024
-- 🧰 [Học gì để trở thành chuyên gia phát triển bền vững?](https://vnexpress.net/hoc-gi-de-tro-thanh-chuyen-gia-phat-trien-ben-vung-4796952.html) - 00:30 26/09/2024
-- 🐘 [Học Tự động hóa hay Cơ điện tử để có lương cao hơn?](https://vnexpress.net/hoc-tu-dong-hoa-hay-co-dien-tu-de-co-luong-cao-hon-4796054.html) - 17:01 25/09/2024
-- 🤓 [Nhiều địa phương cho học sinh nghỉ thứ bảy](https://vnexpress.net/nhieu-dia-phuong-cho-hoc-sinh-nghi-thu-bay-4796985.html) - 10:23 25/09/2024
-- 🧰 [Bên trong đại học 5 sao đầu tiên ở Việt Nam](https://vnexpress.net/ben-trong-dai-hoc-5-sao-dau-tien-o-viet-nam-4789048.html) - 09:39 25/09/2024
-- 🧑‍💻 [Phụ huynh xông vào lớp đánh học sinh](https://vnexpress.net/phu-huynh-xong-vao-lop-danh-hoc-sinh-4796903.html) - 09:11 25/09/2024
-- 🫶 [Cơ hội trao đổi với đại diện hơn 40 trường trên thế giới](https://vnexpress.net/co-hoi-trao-doi-voi-dai-dien-hon-40-truong-tren-the-gioi-4796780.html) - 04:00 25/09/2024
-- 🪜 [&#39;Giải bài toán&#39; thi học sinh giỏi môn tích hợp](https://vnexpress.net/giai-bai-toan-thi-hoc-sinh-gioi-mon-tich-hop-4796344.html) - 03:07 25/09/2024
-- 🎊 [Con gái cặp vợ chồng khiếm thị nỗ lực học thành thủ khoa](https://vnexpress.net/con-gai-cap-vo-chong-khiem-thi-no-luc-hoc-thanh-thu-khoa-4796397.html) - 22:00 24/09/2024
-- 🧐 [Chọn Đại học Khoa học Tự nhiên hay Dược Hà Nội?](https://vnexpress.net/chon-dai-hoc-khoa-hoc-tu-nhien-hay-duoc-ha-noi-4796005.html) - 17:01 24/09/2024
-- 🌈 [Thành phố có ít phường nhất cả nước nằm ở tỉnh nào?](https://vnexpress.net/thanh-pho-co-it-phuong-nhat-ca-nuoc-nam-o-tinh-nao-4796603.html) - 13:00 24/09/2024
-- 🥰 [Bốn cấu trúc câu tiếng Anh nâng cao](https://vnexpress.net/bon-cau-truc-cau-tieng-anh-nang-cao-4796575.html) - 10:36 24/09/2024
-- 🎡 [Hơn 1,7 triệu học sinh tiểu học nhận mũ bảo hiểm đạt chuẩn](https://vnexpress.net/hon-1-7-trieu-hoc-sinh-tieu-hoc-nhan-mu-bao-hiem-dat-chuan-4796321.html) - 08:00 24/09/2024
-- 🎊 [Giành học bổng toàn phần đại học nổi tiếng Trung Quốc nhờ thích múa](https://vnexpress.net/gianh-hoc-bong-toan-phan-dai-hoc-noi-tieng-trung-quoc-nho-thich-mua-4794959.html) - 04:33 24/09/2024
-- 🌏 [Chọn ngành nào nếu học tốt Toán, Lý, Hóa?](https://vnexpress.net/chon-nganh-nao-neu-hoc-tot-toan-ly-hoa-4796124.html) - 02:46 24/09/2024
-- 🥸 [VinUni đạt chứng nhận QS 5 sao](https://vnexpress.net/vinuni-dat-chung-nhan-qs-5-sao-4796188.html) - 01:00 24/09/2024
-- 🕴 [Chàng trai người Mông đỗ Học viện An ninh](https://vnexpress.net/chang-trai-nguoi-mong-do-hoc-vien-an-ninh-4796105.html) - 22:00 23/09/2024
-- 💂 [Có nên bỏ ngành Điều dưỡng để thi lại Răng Hàm Mặt?](https://vnexpress.net/co-nen-bo-nganh-dieu-duong-de-thi-lai-rang-ham-mat-4796055.html) - 17:02 23/09/2024
-- 🕴 [Trường chuyên đầu tiên của miền Bắc tên là gì?](https://vnexpress.net/truong-chuyen-dau-tien-cua-mien-bac-ten-la-gi-4795907.html) - 13:41 23/09/2024
-- 🌋 [18 trường đại học được đầu tư phòng thí nghiệm bán dẫn](https://vnexpress.net/18-truong-dai-hoc-duoc-dau-tu-phong-thi-nghiem-ban-dan-4796147.html) - 13:18 23/09/2024
-- 🪜 [Quảng Ninh miễn học phí từ mầm non đến hết lớp 12](https://vnexpress.net/quang-ninh-mien-hoc-phi-tu-mam-non-den-het-lop-12-4795995.html) - 08:34 23/09/2024
-- 🕴 [Trường ĐH FPT hướng dẫn ứng dụng công cụ AI cho tân sinh viên](https://vnexpress.net/truong-dh-fpt-huong-dan-ung-dung-cong-cu-ai-cho-tan-sinh-vien-4795911.html) - 08:00 23/09/2024
-- 🎃 [Hà Nội dự kiến 40% học sinh THPT vào trường tư](https://vnexpress.net/ha-noi-du-kien-40-hoc-sinh-thpt-vao-truong-tu-4795840.html) - 06:27 23/09/2024
-- 🦏 [Hơn 4.000 suất học bổng &#39;tiếp sức&#39; học sinh, sinh viên cả nước](https://vnexpress.net/hon-4-000-suat-hoc-bong-tiep-suc-hoc-sinh-sinh-vien-ca-nuoc-4791331.html) - 03:00 23/09/2024
-- 🧑‍🏫 [Chàng trai tốt nghiệp á khoa ở Đại học Quốc gia Singapore](https://vnexpress.net/chang-trai-tot-nghiep-a-khoa-o-dai-hoc-quoc-gia-singapore-4793664.html) - 23:38 22/09/2024
-- 💡 [Trường vùng lũ lo mua, photo sách giáo khoa cho học sinh](https://vnexpress.net/truong-vung-lu-lo-mua-photo-sach-giao-khoa-cho-hoc-sinh-4795432.html) - 14:06 22/09/2024
-- 🐎 [Cầu nào bắc qua hai con sông?](https://vnexpress.net/cau-nao-bac-qua-hai-con-song-4795690.html) - 12:49 22/09/2024
-- 🧰 [Nam sinh lớp 11 bị bạn đánh gãy 4 chiếc răng](https://vnexpress.net/nam-sinh-lop-11-bi-ban-danh-gay-4-chiec-rang-4795592.html) - 03:00 22/09/2024
-- 🙉 [Sinh viên DTU giành Á quân cuộc thi dẫn chương trình Quảng Nam](https://vnexpress.net/sinh-vien-dtu-gianh-a-quan-cuoc-thi-dan-chuong-trinh-quang-nam-4795594.html) - 02:30 22/09/2024
-- ⚗️ [6 cách nói &#39;thank you&#39; và đáp lại bằng tiếng Anh](https://vnexpress.net/6-cach-noi-thank-you-va-dap-lai-bang-tieng-anh-4795575.html) - 01:11 22/09/2024
-- 🌝 [Nữ sinh giành học bổng trường top 18 thế giới với điểm gần tuyệt đối](https://vnexpress.net/nu-sinh-gianh-hoc-bong-truong-top-18-the-gioi-voi-diem-gan-tuyet-doi-4793803.html) - 00:33 22/09/2024
-- ⛽️ [Nên học Kế-Kiểm tại Đại học Kinh tế Luật hay Ngân hàng TP HCM?](https://vnexpress.net/nen-hoc-ke-kiem-tai-dai-hoc-kinh-te-luat-hay-ngan-hang-tp-hcm-4795547.html) - 16:59 21/09/2024
-- 🌜 [Huyện duy nhất ở miền Nam không có xã thuộc tỉnh nào?](https://vnexpress.net/huyen-duy-nhat-o-mien-nam-khong-co-xa-thuoc-tinh-nao-4795493.html) - 13:49 21/09/2024
-- ⚗️ [Học trò lớp 7 đạt 8.0 IELTS](https://vnexpress.net/hoc-tro-lop-7-dat-8-0-ielts-4793968.html) - 06:44 21/09/2024
-- 🧰 [Nữ sinh Phú Yên giành giải ba cuộc thi Hán ngữ thế giới](https://vnexpress.net/nu-sinh-phu-yen-gianh-giai-ba-cuoc-thi-han-ngu-the-gioi-4795243.html) - 00:19 21/09/2024
-- 🤗 [Trường Victoria Nam Sài Gòn đạt giải kiến trúc Mỹ](https://vnexpress.net/truong-victoria-nam-sai-gon-dat-giai-kien-truc-my-4795228.html) - 13:27 20/09/2024
-- 🔥 [Canada tiếp tục siết giấy phép du học](https://vnexpress.net/canada-tiep-tuc-siet-giay-phep-du-hoc-4795099.html) - 08:24 20/09/2024
-- 💪 [&#39;Bí&#39; và &#39;thoáng&#39; trong tiếng Anh](https://vnexpress.net/bi-va-thoang-trong-tieng-anh-4795091.html) - 06:34 20/09/2024
-- 💂 [Sinh viên đi xe buýt được cộng điểm rèn luyện](https://vnexpress.net/sinh-vien-di-xe-buyt-duoc-cong-diem-ren-luyen-4794842.html) - 03:17 20/09/2024
-- 🌮 [10 đại học có doanh thu nghìn tỷ](https://vnexpress.net/10-dai-hoc-co-doanh-thu-nghin-ty-4794617.html) - 00:49 20/09/2024
-- 🪄 [Đã làm ngành Luật có nên học văn bằng hai Logistics?](https://vnexpress.net/da-lam-nganh-luat-co-nen-hoc-van-bang-hai-logistics-4794762.html) - 16:59 19/09/2024
-- 🎡 [Địa phương nào không có thị trấn?](https://vnexpress.net/dia-phuong-nao-khong-co-thi-tran-4794751.html) - 13:40 19/09/2024
-- 🌈 [Đam mê phim cổ trang đưa nữ sinh đến đại học số một Trung Quốc](https://vnexpress.net/dam-me-phim-co-trang-dua-nu-sinh-den-dai-hoc-so-mot-trung-quoc-4794447.html) - 09:15 19/09/2024
-- 🎊 [Cô gái đạt 9.0 IELTS nhờ thích đọc và ghi chép](https://vnexpress.net/co-gai-dat-9-0-ielts-nho-thich-doc-va-ghi-chep-4793450.html) - 04:23 19/09/2024
-- ⚗️ [Thêm đại học Australia dự kiến xét tuyển thẳng học sinh Việt Nam](https://vnexpress.net/them-dai-hoc-australia-du-kien-xet-tuyen-thang-hoc-sinh-viet-nam-4794243.html) - 17:09 18/09/2024
-- 🌁 [Trường học Lào Cai, Yên Bái ngổn ngang một tuần sau lũ](https://vnexpress.net/truong-hoc-lao-cai-yen-bai-ngon-ngang-mot-tuan-sau-lu-4794030.html) - 14:25 18/09/2024
-- 🦏 [Sông Đà chảy qua bao nhiêu tỉnh, thành?](https://vnexpress.net/song-da-chay-qua-bao-nhieu-tinh-thanh-4794293.html) - 13:28 18/09/2024
-- 👍 [Bộ Giáo dục đề nghị miễn, giảm học phí cho học sinh vùng bão lũ](https://vnexpress.net/bo-giao-duc-de-nghi-mien-giam-hoc-phi-cho-hoc-sinh-vung-bao-lu-4794418.html) - 12:10 18/09/2024
-- 🌈 [Hơn 940.000 học sinh nghỉ tránh bão](https://vnexpress.net/hon-940-000-hoc-sinh-nghi-tranh-bao-4794333.html) - 08:52 18/09/2024
-- 🕴 [&#39;Phông bạt&#39; trong tiếng Anh nói thế nào?](https://vnexpress.net/phong-bat-trong-tieng-anh-noi-the-nao-4794246.html) - 05:47 18/09/2024
-- 🧰 [5 địa phương miễn, giảm học phí](https://vnexpress.net/5-dia-phuong-mien-giam-hoc-phi-4793509.html) - 05:25 18/09/2024<!-- vnexpress-giao-duc:END -->
+- 🤓 [Các bước lên ngân sách chi tiêu cho người trẻ](https://vnexpress.net/cac-buoc-len-ngan-sach-chi-tieu-cho-nguoi-tre-4797806.html) - 10:00 27/09/2024
+- 🦆 [FPT Telecom mang Camera AI đến hàng trăm trường học toàn quốc](https://vnexpress.net/fpt-telecom-mang-camera-ai-den-hang-tram-truong-hoc-toan-quoc-4797718.html) - 08:00 27/09/2024
+- 🦩 [Những &#39;cú sốc đầu đời&#39; của tân sinh viên](https://vnexpress.net/nhung-cu-soc-dau-doi-cua-tan-sinh-vien-4797343.html) - 02:56 27/09/2024
+- 🌮 [Nữ sinh Việt tranh tài STEAM với học sinh quốc tế](https://vnexpress.net/nu-sinh-viet-tranh-tai-steam-voi-hoc-sinh-quoc-te-4797407.html) - 01:00 27/09/2024
+- 🔭 [Có nên đi học Y học cổ truyền ở tuổi 28?](https://vnexpress.net/co-nen-di-hoc-y-hoc-co-truyen-o-tuoi-28-4797417.html) - 17:02 26/09/2024
+- 💡 [Trường cho sinh viên vay tiền đóng học phí](https://vnexpress.net/truong-cho-sinh-vien-vay-tien-dong-hoc-phi-4797077.html) - 17:00 26/09/2024
+- 🥰 [ĐH Duy Tân ra mắt công nghệ mô phỏng trong đào tạo kỹ thuật ôtô thông minh](https://vnexpress.net/dh-duy-tan-ra-mat-cong-nghe-mo-phong-trong-dao-tao-ky-thuat-oto-thong-minh-4797470.html) - 14:02 26/09/2024
+- 🐲 [Quảng Nam miễn học phí từ mầm non đến lớp 12](https://vnexpress.net/quang-nam-mien-hoc-phi-tu-mam-non-den-lop-12-4797457.html) - 13:24 26/09/2024
+- 🦒 [California cấm học sinh dùng điện thoại trong lớp](https://vnexpress.net/california-cam-hoc-sinh-dung-dien-thoai-trong-lop-4797313.html) - 08:34 26/09/2024
+- 🦆 [Hàng loạt trường ở Hoài Đức dừng cho học sinh uống sữa](https://vnexpress.net/hang-loat-truong-o-hoai-duc-dung-cho-hoc-sinh-uong-sua-4796900.html) - 07:47 26/09/2024
+- 🧰 [Nước nào sản xuất nhiều vàng nhất thế giới?](https://vnexpress.net/nuoc-nao-san-xuat-nhieu-vang-nhat-the-gioi-4797016.html) - 02:12 26/09/2024
+- 🐘 [Học gì để trở thành chuyên gia phát triển bền vững?](https://vnexpress.net/hoc-gi-de-tro-thanh-chuyen-gia-phat-trien-ben-vung-4796952.html) - 00:30 26/09/2024
+- 🤓 [Học Tự động hóa hay Cơ điện tử để có lương cao hơn?](https://vnexpress.net/hoc-tu-dong-hoa-hay-co-dien-tu-de-co-luong-cao-hon-4796054.html) - 17:01 25/09/2024
+- 🧰 [Nhiều địa phương cho học sinh nghỉ thứ bảy](https://vnexpress.net/nhieu-dia-phuong-cho-hoc-sinh-nghi-thu-bay-4796985.html) - 10:23 25/09/2024
+- 🧑‍💻 [Bên trong đại học 5 sao đầu tiên ở Việt Nam](https://vnexpress.net/ben-trong-dai-hoc-5-sao-dau-tien-o-viet-nam-4789048.html) - 09:39 25/09/2024
+- 🫶 [Phụ huynh xông vào lớp đánh học sinh](https://vnexpress.net/phu-huynh-xong-vao-lop-danh-hoc-sinh-4796903.html) - 09:11 25/09/2024
+- 🪜 [Cơ hội trao đổi với đại diện hơn 40 trường trên thế giới](https://vnexpress.net/co-hoi-trao-doi-voi-dai-dien-hon-40-truong-tren-the-gioi-4796780.html) - 04:00 25/09/2024
+- 🎊 [&#39;Giải bài toán&#39; thi học sinh giỏi môn tích hợp](https://vnexpress.net/giai-bai-toan-thi-hoc-sinh-gioi-mon-tich-hop-4796344.html) - 03:07 25/09/2024
+- 🧐 [Con gái cặp vợ chồng khiếm thị nỗ lực học thành thủ khoa](https://vnexpress.net/con-gai-cap-vo-chong-khiem-thi-no-luc-hoc-thanh-thu-khoa-4796397.html) - 22:00 24/09/2024
+- 🌈 [Chọn Đại học Khoa học Tự nhiên hay Dược Hà Nội?](https://vnexpress.net/chon-dai-hoc-khoa-hoc-tu-nhien-hay-duoc-ha-noi-4796005.html) - 17:01 24/09/2024
+- 🥰 [Thành phố có ít phường nhất cả nước nằm ở tỉnh nào?](https://vnexpress.net/thanh-pho-co-it-phuong-nhat-ca-nuoc-nam-o-tinh-nao-4796603.html) - 13:00 24/09/2024
+- 🎡 [Bốn cấu trúc câu tiếng Anh nâng cao](https://vnexpress.net/bon-cau-truc-cau-tieng-anh-nang-cao-4796575.html) - 10:36 24/09/2024
+- 🎊 [Hơn 1,7 triệu học sinh tiểu học nhận mũ bảo hiểm đạt chuẩn](https://vnexpress.net/hon-1-7-trieu-hoc-sinh-tieu-hoc-nhan-mu-bao-hiem-dat-chuan-4796321.html) - 08:00 24/09/2024
+- 🌏 [Giành học bổng toàn phần đại học nổi tiếng Trung Quốc nhờ thích múa](https://vnexpress.net/gianh-hoc-bong-toan-phan-dai-hoc-noi-tieng-trung-quoc-nho-thich-mua-4794959.html) - 04:33 24/09/2024
+- 🥸 [Chọn ngành nào nếu học tốt Toán, Lý, Hóa?](https://vnexpress.net/chon-nganh-nao-neu-hoc-tot-toan-ly-hoa-4796124.html) - 02:46 24/09/2024
+- 🕴 [VinUni đạt chứng nhận QS 5 sao](https://vnexpress.net/vinuni-dat-chung-nhan-qs-5-sao-4796188.html) - 01:00 24/09/2024
+- 💂 [Chàng trai người Mông đỗ Học viện An ninh](https://vnexpress.net/chang-trai-nguoi-mong-do-hoc-vien-an-ninh-4796105.html) - 22:00 23/09/2024
+- 🕴 [Có nên bỏ ngành Điều dưỡng để thi lại Răng Hàm Mặt?](https://vnexpress.net/co-nen-bo-nganh-dieu-duong-de-thi-lai-rang-ham-mat-4796055.html) - 17:02 23/09/2024
+- 🌋 [Trường chuyên đầu tiên của miền Bắc tên là gì?](https://vnexpress.net/truong-chuyen-dau-tien-cua-mien-bac-ten-la-gi-4795907.html) - 13:41 23/09/2024
+- 🪜 [18 trường đại học được đầu tư phòng thí nghiệm bán dẫn](https://vnexpress.net/18-truong-dai-hoc-duoc-dau-tu-phong-thi-nghiem-ban-dan-4796147.html) - 13:18 23/09/2024
+- 🕴 [Quảng Ninh miễn học phí từ mầm non đến hết lớp 12](https://vnexpress.net/quang-ninh-mien-hoc-phi-tu-mam-non-den-het-lop-12-4795995.html) - 08:34 23/09/2024
+- 🎃 [Trường ĐH FPT hướng dẫn ứng dụng công cụ AI cho tân sinh viên](https://vnexpress.net/truong-dh-fpt-huong-dan-ung-dung-cong-cu-ai-cho-tan-sinh-vien-4795911.html) - 08:00 23/09/2024
+- 🦏 [Hà Nội dự kiến 40% học sinh THPT vào trường tư](https://vnexpress.net/ha-noi-du-kien-40-hoc-sinh-thpt-vao-truong-tu-4795840.html) - 06:27 23/09/2024
+- 🧑‍🏫 [Hơn 4.000 suất học bổng &#39;tiếp sức&#39; học sinh, sinh viên cả nước](https://vnexpress.net/hon-4-000-suat-hoc-bong-tiep-suc-hoc-sinh-sinh-vien-ca-nuoc-4791331.html) - 03:00 23/09/2024
+- 💡 [Chàng trai tốt nghiệp á khoa ở Đại học Quốc gia Singapore](https://vnexpress.net/chang-trai-tot-nghiep-a-khoa-o-dai-hoc-quoc-gia-singapore-4793664.html) - 23:38 22/09/2024
+- 🐎 [Trường vùng lũ lo mua, photo sách giáo khoa cho học sinh](https://vnexpress.net/truong-vung-lu-lo-mua-photo-sach-giao-khoa-cho-hoc-sinh-4795432.html) - 14:06 22/09/2024
+- 🧰 [Cầu nào bắc qua hai con sông?](https://vnexpress.net/cau-nao-bac-qua-hai-con-song-4795690.html) - 12:49 22/09/2024
+- 🙉 [Nam sinh lớp 11 bị bạn đánh gãy 4 chiếc răng](https://vnexpress.net/nam-sinh-lop-11-bi-ban-danh-gay-4-chiec-rang-4795592.html) - 03:00 22/09/2024
+- ⚗️ [Sinh viên DTU giành Á quân cuộc thi dẫn chương trình Quảng Nam](https://vnexpress.net/sinh-vien-dtu-gianh-a-quan-cuoc-thi-dan-chuong-trinh-quang-nam-4795594.html) - 02:30 22/09/2024
+- 🌝 [6 cách nói &#39;thank you&#39; và đáp lại bằng tiếng Anh](https://vnexpress.net/6-cach-noi-thank-you-va-dap-lai-bang-tieng-anh-4795575.html) - 01:11 22/09/2024
+- ⛽️ [Nữ sinh giành học bổng trường top 18 thế giới với điểm gần tuyệt đối](https://vnexpress.net/nu-sinh-gianh-hoc-bong-truong-top-18-the-gioi-voi-diem-gan-tuyet-doi-4793803.html) - 00:33 22/09/2024
+- 🌜 [Nên học Kế-Kiểm tại Đại học Kinh tế Luật hay Ngân hàng TP HCM?](https://vnexpress.net/nen-hoc-ke-kiem-tai-dai-hoc-kinh-te-luat-hay-ngan-hang-tp-hcm-4795547.html) - 16:59 21/09/2024
+- ⚗️ [Huyện duy nhất ở miền Nam không có xã thuộc tỉnh nào?](https://vnexpress.net/huyen-duy-nhat-o-mien-nam-khong-co-xa-thuoc-tinh-nao-4795493.html) - 13:49 21/09/2024
+- 🧰 [Học trò lớp 7 đạt 8.0 IELTS](https://vnexpress.net/hoc-tro-lop-7-dat-8-0-ielts-4793968.html) - 06:44 21/09/2024
+- 🤗 [Nữ sinh Phú Yên giành giải ba cuộc thi Hán ngữ thế giới](https://vnexpress.net/nu-sinh-phu-yen-gianh-giai-ba-cuoc-thi-han-ngu-the-gioi-4795243.html) - 00:19 21/09/2024
+- 🔥 [Trường Victoria Nam Sài Gòn đạt giải kiến trúc Mỹ](https://vnexpress.net/truong-victoria-nam-sai-gon-dat-giai-kien-truc-my-4795228.html) - 13:27 20/09/2024
+- 💪 [Canada tiếp tục siết giấy phép du học](https://vnexpress.net/canada-tiep-tuc-siet-giay-phep-du-hoc-4795099.html) - 08:24 20/09/2024
+- 💂 [&#39;Bí&#39; và &#39;thoáng&#39; trong tiếng Anh](https://vnexpress.net/bi-va-thoang-trong-tieng-anh-4795091.html) - 06:34 20/09/2024
+- 🌮 [Sinh viên đi xe buýt được cộng điểm rèn luyện](https://vnexpress.net/sinh-vien-di-xe-buyt-duoc-cong-diem-ren-luyen-4794842.html) - 03:17 20/09/2024
+- 🪄 [10 đại học có doanh thu nghìn tỷ](https://vnexpress.net/10-dai-hoc-co-doanh-thu-nghin-ty-4794617.html) - 00:49 20/09/2024
+- 🎡 [Đã làm ngành Luật có nên học văn bằng hai Logistics?](https://vnexpress.net/da-lam-nganh-luat-co-nen-hoc-van-bang-hai-logistics-4794762.html) - 16:59 19/09/2024
+- 🌈 [Địa phương nào không có thị trấn?](https://vnexpress.net/dia-phuong-nao-khong-co-thi-tran-4794751.html) - 13:40 19/09/2024
+- 🎊 [Đam mê phim cổ trang đưa nữ sinh đến đại học số một Trung Quốc](https://vnexpress.net/dam-me-phim-co-trang-dua-nu-sinh-den-dai-hoc-so-mot-trung-quoc-4794447.html) - 09:15 19/09/2024
+- ⚗️ [Cô gái đạt 9.0 IELTS nhờ thích đọc và ghi chép](https://vnexpress.net/co-gai-dat-9-0-ielts-nho-thich-doc-va-ghi-chep-4793450.html) - 04:23 19/09/2024
+- 🌁 [Thêm đại học Australia dự kiến xét tuyển thẳng học sinh Việt Nam](https://vnexpress.net/them-dai-hoc-australia-du-kien-xet-tuyen-thang-hoc-sinh-viet-nam-4794243.html) - 17:09 18/09/2024
+- 🦏 [Trường học Lào Cai, Yên Bái ngổn ngang một tuần sau lũ](https://vnexpress.net/truong-hoc-lao-cai-yen-bai-ngon-ngang-mot-tuan-sau-lu-4794030.html) - 14:25 18/09/2024
+- 👍 [Sông Đà chảy qua bao nhiêu tỉnh, thành?](https://vnexpress.net/song-da-chay-qua-bao-nhieu-tinh-thanh-4794293.html) - 13:28 18/09/2024
+- 🌈 [Bộ Giáo dục đề nghị miễn, giảm học phí cho học sinh vùng bão lũ](https://vnexpress.net/bo-giao-duc-de-nghi-mien-giam-hoc-phi-cho-hoc-sinh-vung-bao-lu-4794418.html) - 12:10 18/09/2024
+- 🕴 [Hơn 940.000 học sinh nghỉ tránh bão](https://vnexpress.net/hon-940-000-hoc-sinh-nghi-tranh-bao-4794333.html) - 08:52 18/09/2024
+- 🧰 [&#39;Phông bạt&#39; trong tiếng Anh nói thế nào?](https://vnexpress.net/phong-bat-trong-tieng-anh-noi-the-nao-4794246.html) - 05:47 18/09/2024<!-- vnexpress-giao-duc:END -->
