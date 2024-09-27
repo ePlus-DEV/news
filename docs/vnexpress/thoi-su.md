@@ -13,7 +13,7 @@ sidebar_position: 1
 - 🦏 [4 ôtô tông liên hoàn trên cầu cửa ngõ Cần Thơ](https://vnexpress.net/4-oto-tong-lien-hoan-tren-cau-cua-ngo-can-tho-4797775.html) - 08:43 27/09/2024
 - 👺 [Đồng Nai đề xuất nắn đường giữ biệt thự 100 tuổi](https://vnexpress.net/dong-nai-de-xuat-nan-duong-giu-biet-thu-100-tuoi-4797771.html) - 08:34 27/09/2024
 - 🧑‍🏫 [CSGT tăng cường xử lý học sinh vi phạm giao thông](https://vnexpress.net/csgt-tang-cuong-xu-ly-hoc-sinh-vi-pham-giao-thong-4797706.html) - 08:17 27/09/2024
-- 🚦 [Dự án cải tạo rạch Xuyên Tâm tăng vốn 7.300 tỷ đồng](https://vnexpress.net/du-an-cai-tao-rach-xuyen-tam-tang-von-7-300-ty-dong-4797732.html) - 07:30 27/09/2024
+- 🚦 [Dự án cải tạo rạch Xuyên Tâm tăng vốn hơn 7.500 tỷ đồng](https://vnexpress.net/du-an-cai-tao-rach-xuyen-tam-tang-von-hon-7-500-ty-dong-4797732.html) - 07:30 27/09/2024
 - 🎉 [Điện thờ mẹ vua Gia Long sẽ được tu bổ](https://vnexpress.net/dien-tho-me-vua-gia-long-se-duoc-tu-bo-4797708.html) - 07:04 27/09/2024
 - 🦒 [Người dân Quảng Nam dời nhà do sạt lở](https://vnexpress.net/nguoi-dan-quang-nam-doi-nha-do-sat-lo-4797669.html) - 05:58 27/09/2024
 - 🤗 [Cứu chồng bị điện giật, vợ tử vong](https://vnexpress.net/cuu-chong-bi-dien-giat-vo-tu-vong-4797682.html) - 05:11 27/09/2024
