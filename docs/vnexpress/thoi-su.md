@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Mở rộng đường dẫn cao tốc TP HCM - Long Thành lên gấp đôi](https://vnexpress.net/mo-rong-duong-dan-cao-toc-tp-hcm-long-thanh-len-gap-doi-4797618.html) - 03:40 27/09/2024
+- 🦒 [Mở rộng gấp đôi đường dẫn cao tốc TP HCM - Long Thành](https://vnexpress.net/mo-rong-gap-doi-duong-dan-cao-toc-tp-hcm-long-thanh-4797618.html) - 03:40 27/09/2024
 - 🤓 [Ôtô tông loạt 7 xe khi bị cảnh sát chặn bắt](https://vnexpress.net/oto-tong-loat-7-xe-khi-bi-canh-sat-chan-bat-4797568.html) - 01:45 27/09/2024
 - ⚗️ [Xem xét thu hồi 4.200 m2 bán đảo hồ Đống Đa](https://vnexpress.net/xem-xet-thu-hoi-4-200-m2-ban-dao-ho-dong-da-4797484.html) - 23:00 26/09/2024
 - 🌊 [Biến trái cây rừng thành đặc sản](https://vnexpress.net/bien-trai-cay-rung-thanh-dac-san-4796882.html) - 17:00 26/09/2024
