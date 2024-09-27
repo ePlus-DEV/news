@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Thanh Hằng tuổi 41: Nhan sắc rực rỡ, &quot;phủ&quot; toàn hàng hiệu](https://dantri.com.vn/giai-tri/thanh-hang-tuoi-41-nhan-sac-ruc-ro-phu-toan-hang-hieu-20240926075432208.htm) - 10:00 27/09/2024
+- 🤩 [Thanh Hằng tuổi 41: Nhan sắc rực rỡ, &quot;phủ&quot; toàn hàng hiệu](https://dantri.com.vn/giai-tri/thanh-hang-tuoi-41-nhan-sac-ruc-ro-phu-toan-hang-hieu-20240926075432208.htm) - 10:43 27/09/2024
 - 🔥 [Siêu mẫu Naomi Campbell bật khóc khi bị cấm hoạt động từ thiện](https://dantri.com.vn/giai-tri/sieu-mau-naomi-campbell-bat-khoc-khi-bi-cam-hoat-dong-tu-thien-20240927154058591.htm) - 09:02 27/09/2024
 - 🚀 [Bên trong hai siêu biệt thự trị giá hơn 80 triệu USD của &quot;ông trùm&quot; Diddy](https://dantri.com.vn/giai-tri/ben-trong-hai-sieu-biet-thu-tri-gia-hon-80-trieu-usd-cua-ong-trum-diddy-20240927110600621.htm) - 08:24 27/09/2024
 - 🔥 [Ca sĩ Vũ: &quot;Tôi không có chiêu trò, chỉ có chiếc đàn guitar&quot;](https://dantri.com.vn/giai-tri/ca-si-vu-toi-khong-co-chieu-tro-chi-co-chiec-dan-guitar-20240927073511786.htm) - 08:19 27/09/2024
