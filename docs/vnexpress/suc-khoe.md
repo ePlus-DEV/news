@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Mối nguy từ trào lưu quấn chăn như trẻ sơ sinh trên TikTok](https://vnexpress.net/moi-nguy-tu-trao-luu-quan-chan-nhu-tre-so-sinh-tren-tiktok-4797858.html) - 13:02 27/09/2024
+- 🔥 [Mối nguy từ kiểu quấn chăn như trẻ sơ sinh trên TikTok](https://vnexpress.net/moi-nguy-tu-trao-luu-quan-chan-nhu-tre-so-sinh-tren-tiktok-4797858.html) - 13:02 27/09/2024
 - 🥰 [9 cách giúp bàng quang khỏe mạnh](https://vnexpress.net/9-cach-giup-bang-quang-khoe-manh-4797741.html) - 13:00 27/09/2024
 - 💡 [Giải mã gene có thể giúp phát hiện sớm nguy cơ bệnh tật](https://vnexpress.net/giai-ma-gene-co-the-giup-phat-hien-som-nguy-co-benh-tat-4797859.html) - 12:56 27/09/2024
 - 🤗 [Vaccine sẽ giảm gánh nặng sốt xuất huyết tại Việt Nam](https://vnexpress.net/vaccine-se-giam-ganh-nang-sot-xuat-huyet-tai-viet-nam-4797865.html) - 12:30 27/09/2024
