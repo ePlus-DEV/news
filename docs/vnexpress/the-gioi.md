@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Cách Hezbollah chống đỡ sức ép hỏa lực của Israel](https://vnexpress.net/cach-hezbollah-chong-do-suc-ep-hoa-luc-cua-israel-4797166.html) - 04:30 27/09/2024
 - 🕴 [Bão với sức gió 225 km/h đổ bộ bang Florida của Mỹ](https://vnexpress.net/bao-voi-suc-gio-225-km-h-do-bo-bang-florida-cua-my-4797614.html) - 04:14 27/09/2024
-- 🤭 [Nga lần đầu phóng 3 tên lửa Kinzhal vào một khu vực ở Ukraine](https://vnexpress.net/nga-lan-dau-phong-3-ten-lua-kinzhal-vao-mot-khu-vuc-o-ukraine-4797619.html) - 04:11 27/09/2024
+- 🤭 [Nga lần đầu phóng loạt tên lửa siêu vượt âm vào một khu vực ở Ukraine](https://vnexpress.net/nga-lan-dau-phong-loat-ten-lua-sieu-vuot-am-vao-mot-khu-vuc-o-ukraine-4797619.html) - 04:11 27/09/2024
 - 🧑‍💻 [Israel bác đề xuất ngừng bắn với Hezbollah của Mỹ - Pháp](https://vnexpress.net/israel-bac-de-xuat-ngung-ban-voi-hezbollah-cua-my-phap-4797566.html) - 03:22 27/09/2024
 - 🦏 [Israel phát báo động, chặn tên lửa phóng từ Yemen](https://vnexpress.net/israel-phat-bao-dong-chan-ten-lua-phong-tu-yemen-4797526.html) - 02:12 27/09/2024
 - 🦒 [Cuba tổ chức lễ đón Tổng Bí thư, Chủ tịch nước Tô Lâm](https://vnexpress.net/cuba-to-chuc-le-don-tong-bi-thu-chu-tich-nuoc-to-lam-4797527.html) - 00:15 27/09/2024
