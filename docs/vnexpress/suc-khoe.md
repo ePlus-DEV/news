@@ -14,13 +14,13 @@ sidebar_position: 10
 - 👀 [Mạo danh thanh tra y tế lừa tiền &#39;lo lót&#39; kiểm tra quán ăn, nhà hàng](https://vnexpress.net/mao-danh-thanh-tra-y-te-lua-tien-lo-lot-kiem-tra-quan-an-nha-hang-4797456.html) - 12:58 26/09/2024
 - 🌋 [Tiêm botox có làm nhỏ bắp tay, bắp chân?](https://vnexpress.net/tiem-botox-co-lam-nho-bap-tay-bap-chan-4797372.html) - 12:00 26/09/2024
 - 🫶 [Hơn 80 người ở cùng chung cư nghi bị ngộ độc nước](https://vnexpress.net/hon-80-nguoi-o-cung-chung-cu-nghi-bi-ngo-doc-nuoc-4797418.html) - 11:28 26/09/2024
-- 🦆 [Điều gì xảy ra với hệ hô hấp khi thời tiết thay đổi?](https://vnexpress.net/dieu-gi-xay-ra-voi-he-ho-hap-khi-thoi-tiet-thay-doi-4797377.html) - 11:00 26/09/2024
+- 🦆 [Long Châu và GSK đồng hành người bệnh hen phế quản, COPD](https://vnexpress.net/long-chau-va-gsk-dong-hanh-nguoi-benh-hen-phe-quan-copd-4796845.html) - 11:00 26/09/2024
 - 🚀 [Cách bổ sung vitamin D cho cơ thể](https://vnexpress.net/cach-bo-sung-vitamin-d-cho-co-the-4797284.html) - 11:00 26/09/2024
-- 🌜 [Tập thể dục buổi tối thế nào tránh mất ngủ](https://vnexpress.net/tap-the-duc-buoi-toi-the-nao-tranh-mat-ngu-4797261.html) - 11:00 26/09/2024
-- 🧰 [Long Châu và GSK đồng hành người bệnh hen phế quản, COPD](https://vnexpress.net/long-chau-va-gsk-dong-hanh-nguoi-benh-hen-phe-quan-copd-4796845.html) - 11:00 26/09/2024
+- 🌜 [Điều gì xảy ra với hệ hô hấp khi thời tiết thay đổi?](https://vnexpress.net/dieu-gi-xay-ra-voi-he-ho-hap-khi-thoi-tiet-thay-doi-4797377.html) - 11:00 26/09/2024
+- 🧰 [Tập thể dục buổi tối thế nào tránh mất ngủ](https://vnexpress.net/tap-the-duc-buoi-toi-the-nao-tranh-mat-ngu-4797261.html) - 11:00 26/09/2024
 - 💫 [Những câu hỏi về vaccine cúm cho trẻ sơ sinh](https://vnexpress.net/nhung-cau-hoi-ve-vaccine-cum-cho-tre-so-sinh-4797344.html) - 10:00 26/09/2024
-- 🌝 [Tại sao chỉ ăn cơm vẫn tăng mỡ máu?](https://vnexpress.net/tai-sao-chi-an-com-van-tang-mo-mau-4797319.html) - 09:00 26/09/2024
-- 🗽 [Dấu hiệu mãn kinh](https://vnexpress.net/dau-hieu-man-kinh-4797281.html) - 09:00 26/09/2024
+- 🌝 [Dấu hiệu mãn kinh](https://vnexpress.net/dau-hieu-man-kinh-4797281.html) - 09:00 26/09/2024
+- 🗽 [Tại sao chỉ ăn cơm vẫn tăng mỡ máu?](https://vnexpress.net/tai-sao-chi-an-com-van-tang-mo-mau-4797319.html) - 09:00 26/09/2024
 - 🕯 [Thắc mắc thường gặp về cholesterol](https://vnexpress.net/thac-mac-thuong-gap-ve-cholesterol-4797266.html) - 09:00 26/09/2024
 - 🦅 [Đau tê tay chân cảnh báo hẹp ống sống](https://vnexpress.net/dau-te-tay-chan-canh-bao-hep-ong-song-4797285.html) - 08:00 26/09/2024
 - 🦆 [7 cách để trẻ bớt xem điện thoại](https://vnexpress.net/7-cach-de-tre-bot-xem-dien-thoai-4797207.html) - 08:00 26/09/2024
@@ -32,8 +32,8 @@ sidebar_position: 10
 - 🚀 [Khối u ác tính tròn như chiếc nhẫn trong đại tràng người phụ nữ](https://vnexpress.net/khoi-u-ac-tinh-tron-nhu-chiec-nhan-trong-dai-trang-nguoi-phu-nu-4797282.html) - 06:00 26/09/2024
 - 🕴 [Ăn gì kiểm soát mụn?](https://vnexpress.net/an-gi-kiem-soat-mun-4797205.html) - 05:30 26/09/2024
 - 🗽 [Thoát cắt thận nhờ tán sỏi nội soi](https://vnexpress.net/thoat-cat-than-nho-tan-soi-noi-soi-4797234.html) - 05:00 26/09/2024
-- 🎡 [U70 mới phát hiện bệnh tim bẩm sinh](https://vnexpress.net/u70-moi-phat-hien-benh-tim-bam-sinh-4797158.html) - 04:00 26/09/2024
-- ⛽️ [Dấu hiệu nào cảnh báo ung thư ở nam giới?](https://vnexpress.net/dau-hieu-nao-canh-bao-ung-thu-o-nam-gioi-4797134.html) - 04:00 26/09/2024
+- 🎡 [Dấu hiệu nào cảnh báo ung thư ở nam giới?](https://vnexpress.net/dau-hieu-nao-canh-bao-ung-thu-o-nam-gioi-4797134.html) - 04:00 26/09/2024
+- ⛽️ [U70 mới phát hiện bệnh tim bẩm sinh](https://vnexpress.net/u70-moi-phat-hien-benh-tim-bam-sinh-4797158.html) - 04:00 26/09/2024
 - 🦆 [Lợi ích của việc uống cà phê lượng vừa phải](https://vnexpress.net/loi-ich-cua-viec-uong-ca-phe-luong-vua-phai-4797052.html) - 03:01 26/09/2024
 - 🤩 [Các nguyên nhân đau bụng khi mang thai](https://vnexpress.net/cac-nguyen-nhan-dau-bung-khi-mang-thai-4797145.html) - 03:00 26/09/2024
 - 🦒 [Bé gái 11 tuổi bị tăng huyết áp](https://vnexpress.net/be-gai-11-tuoi-bi-tang-huyet-ap-4797112.html) - 02:00 26/09/2024
@@ -61,6 +61,6 @@ sidebar_position: 10
 - 🧠 [Bé trai Làng Nủ vượt nguy kịch sau nửa tháng điều trị](https://vnexpress.net/mot-be-trai-lang-nu-vuot-qua-nguy-kich-sau-nua-thang-dieu-tri-4796784.html) - 03:32 25/09/2024
 - 🎡 [16 học sinh ở Kiên Giang nghi ngộ độc thực phẩm](https://vnexpress.net/16-hoc-sinh-o-kien-giang-nghi-ngo-doc-thuc-pham-4796720.html) - 02:40 25/09/2024
 - 🌏 [Bệnh nhân TP HCM được ghép tim hiến tặng xuất viện](https://vnexpress.net/benh-nhan-tp-hcm-duoc-ghep-tim-hien-tang-xuat-vien-4796665.html) - 01:17 25/09/2024
-- ⚗️ [Ứng dụng nano tiêu diệt trúng đích tế bào ung thư](https://vnexpress.net/ung-dung-nano-giup-tieu-diet-trung-dich-te-bao-ung-thu-4796514.html) - 23:00 24/09/2024
-- 👨‍🏫 [Mang giới tính nam trong cơ thể nữ](https://vnexpress.net/mang-gioi-tinh-nam-trong-co-the-nu-4795335.html) - 23:00 24/09/2024
+- ⚗️ [Mang giới tính nam trong cơ thể nữ](https://vnexpress.net/mang-gioi-tinh-nam-trong-co-the-nu-4795335.html) - 23:00 24/09/2024
+- 👨‍🏫 [Ứng dụng nano tiêu diệt trúng đích tế bào ung thư](https://vnexpress.net/ung-dung-nano-giup-tieu-diet-trung-dich-te-bao-ung-thu-4796514.html) - 23:00 24/09/2024
 - 🤖 [Màu sắc tinh dịch phản ánh sức khỏe nam giới](https://vnexpress.net/mau-sac-tinh-dich-phan-anh-suc-khoe-nam-gioi-4795801.html) - 17:02 24/09/2024<!-- vnexpress-suc-khoe:END -->
