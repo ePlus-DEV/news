@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Đương kim vô địch Bao Phương Vinh bị loại khỏi giải Billiards thế giới](https://dantri.com.vn/the-thao/duong-kim-vo-dich-bao-phuong-vinh-bi-loai-khoi-giai-billiards-the-gioi-20240927202450711.htm) - 13:27 27/09/2024
-- 💯 [U20 Việt Nam 4-1 U20 Bangladesh &lpar;hiệp 2&rpar;: Công Phương sút phạt ghi bàn](https://dantri.com.vn/the-thao/u20-viet-nam-4-1-u20-bangladesh-hiep-2-cong-phuong-sut-phat-ghi-ban-20240927184931810.htm) - 11:49 27/09/2024
+- 💯 [Đại thắng Bangladesh, U20 Việt Nam vẫn mất ngôi đầu bảng](https://dantri.com.vn/the-thao/dai-thang-bangladesh-u20-viet-nam-van-mat-ngoi-dau-bang-20240927184931810.htm) - 11:49 27/09/2024
 - ⛽️ [Báo châu Á trầm trồ với tiền đạo 20 tuổi, nói điều tốt về bóng đá Việt Nam](https://dantri.com.vn/the-thao/bao-chau-a-tram-tro-voi-tien-dao-20-tuoi-noi-dieu-tot-ve-bong-da-viet-nam-20240927172034275.htm) - 10:42 27/09/2024
 - 💃 [Futsal Việt Nam sớm đại chiến Thái Lan ở giải Đông Nam Á](https://dantri.com.vn/the-thao/futsal-viet-nam-som-dai-chien-thai-lan-o-giai-dong-nam-a-20240927174233384.htm) - 10:42 27/09/2024
 - 🌈 [SVĐ khổng lồ, nơi CĐV Việt Nam từng &quot;đổ máu&quot;, sụp đổ trong khoảnh khắc](https://dantri.com.vn/the-thao/svd-khong-lo-noi-cdv-viet-nam-tung-do-mau-sup-do-trong-khoanh-khac-20240927121404219.htm) - 07:14 27/09/2024
