@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Nhân viên cây xăng dùng dao truy sát khách sau mâu thuẫn](https://vnexpress.net/nhan-vien-cay-xang-dung-dao-truy-sat-khach-sau-mau-thuan-4797819.html) - 10:25 27/09/2024
+- 😎 [Nhân viên cây xăng truy sát khách sau mâu thuẫn](https://vnexpress.net/nhan-vien-cay-xang-truy-sat-khach-sau-mau-thuan-4797819.html) - 10:25 27/09/2024
 - 🥰 [Đâm chết người sau tranh cãi sử dụng lưới bát quái](https://vnexpress.net/dam-chet-nguoi-sau-tranh-cai-su-dung-luoi-bat-quai-4797835.html) - 10:24 27/09/2024
 - 🎓 [Chồng tử vong dưới bánh xe tải vợ cầm lái](https://vnexpress.net/chong-tu-vong-duoi-banh-xe-tai-vo-cam-lai-4797821.html) - 09:40 27/09/2024
 - 🤓 [Nuốt hai gói heroine khi bị bắt quả tang mua bán](https://vnexpress.net/nuot-hai-goi-heroine-khi-bi-bat-qua-tang-mua-ban-4797709.html) - 07:54 27/09/2024
