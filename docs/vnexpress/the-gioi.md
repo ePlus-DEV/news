@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [18 năm chuẩn bị giúp Israel liên tiếp giáng đòn vào Hezbollah](https://vnexpress.net/18-nam-chuan-bi-giup-israel-lien-tiep-giang-don-vao-hezbollah-4797942.html) - 11:01 28/09/2024
+- 🎭 [18 năm chuẩn bị trước khi Israel liên tiếp giáng đòn vào Hezbollah](https://vnexpress.net/18-nam-chuan-bi-truoc-khi-israel-lien-tiep-giang-don-vao-hezbollah-4797942.html) - 11:01 28/09/2024
 - 🕴 [Chuyến công tác Mỹ của Tổng Bí thư, Chủ tịch nước &#39;đạt tất cả mục tiêu&#39;](https://vnexpress.net/chuyen-cong-tac-my-cua-tong-bi-thu-chu-tich-nuoc-dat-tat-ca-muc-tieu-4798074.html) - 10:19 28/09/2024
 - 🤭 [Hàng chục nghìn người ở Iran, Yemen biểu tình phản đối Israel](https://vnexpress.net/hang-chuc-nghin-nguoi-o-iran-yemen-bieu-tinh-phan-doi-israel-4798049.html) - 09:47 28/09/2024
 - 🧑‍💻 [Israel nói thủ lĩnh tối cao Hezbollah đã chết](https://vnexpress.net/israel-noi-thu-linh-toi-cao-hezbollah-da-chet-4798061.html) - 08:08 28/09/2024
