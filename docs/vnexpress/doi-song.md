@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Người đàn ông 10 năm một mình chăm vợ bại não](https://vnexpress.net/nguoi-dan-ong-10-nam-mot-minh-cham-vo-bai-nao-4797924.html) - 13:32 28/09/2024
+- 🚀 [Người đàn ông 10 năm chăm vợ bại não](https://vnexpress.net/nguoi-dan-ong-10-nam-cham-vo-bai-nao-4797924.html) - 13:32 28/09/2024
 - 🎓 [Ăn tối với người lạ](https://vnexpress.net/an-toi-voi-nguoi-la-4798038.html) - 12:18 28/09/2024
 - 🚦 [Có nên chưng gạch cua trước khi nấu?](https://vnexpress.net/co-nen-chung-gach-cua-truoc-khi-nau-4798071.html) - 11:08 28/09/2024
 - 🦣 [Quán ăn nổi tiếng nhờ dịch vụ đánh, mắng khách](https://vnexpress.net/quan-an-noi-tieng-nho-dich-vu-danh-mang-khach-4798030.html) - 05:34 28/09/2024
