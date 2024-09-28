@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [Á quân Trần Quyết Chiến bị loại khỏi giải Billiards vô địch thế giới](https://dantri.com.vn/the-thao/a-quan-tran-quyet-chien-bi-loai-khoi-giai-billiards-vo-dich-the-gioi-20240928163602291.htm) - 09:39 28/09/2024
 - 💯 [Không khí náo nhiệt tại Expo Day chào đón Aqua Warriors Vân Đồn 2024](https://dantri.com.vn/the-thao/khong-khi-nao-nhiet-tai-expo-day-chao-don-aqua-warriors-van-don-2024-20240928154314145.htm) - 08:51 28/09/2024
-- ⛽️ [Ngôi sao Argentina lĩnh hậu quả vì cử chỉ phản cảm](https://dantri.com.vn/the-thao/ngoi-sao-argentina-linh-hau-qua-vi-cu-chi-phan-cam-20240928154749504.htm) - 08:48 28/09/2024
+- ⛽️ [Ngôi sao Argentina lĩnh hậu quả vì hành vi phản cảm](https://dantri.com.vn/the-thao/ngoi-sao-argentina-linh-hau-qua-vi-hanh-vi-phan-cam-20240928154749504.htm) - 08:48 28/09/2024
 - 💃 [Chuyên gia: &quot;Rafaelson sẽ giúp đội tuyển Việt Nam ngang tầm Indonesia&quot;](https://dantri.com.vn/the-thao/chuyen-gia-rafaelson-se-giup-doi-tuyen-viet-nam-ngang-tam-indonesia-20240928083012781.htm) - 06:44 28/09/2024
 - 🌈 [Đang thi đấu, cựu ngôi sao Man Utd bất ngờ đổ gục xuống sân](https://dantri.com.vn/the-thao/dang-thi-dau-cuu-ngoi-sao-man-utd-bat-ngo-do-guc-xuong-san-20240928113140327.htm) - 04:31 28/09/2024
 - 🦅 [Bị đẩy xuống nhì bảng, U20 Việt Nam dự giải châu Á theo kịch bản nào?](https://dantri.com.vn/the-thao/bi-day-xuong-nhi-bang-u20-viet-nam-du-giai-chau-a-theo-kich-ban-nao-20240928094140398.htm) - 02:41 28/09/2024
