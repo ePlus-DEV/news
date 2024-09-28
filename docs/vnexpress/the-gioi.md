@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Khoảng trống quyền lực sau cái chết của thủ lĩnh tối cao Hezbollah](https://vnexpress.net/khoang-trong-quyen-luc-sau-cai-chet-cua-thu-linh-toi-cao-hezbollah-4798116.html) - 15:31 28/09/2024
+- 🎭 [Cuộc đời của thủ lĩnh tối cao Hezbollah bị hạ sát](https://vnexpress.net/cuoc-doi-cua-thu-linh-toi-cao-hezbollah-bi-ha-sat-4798116.html) - 15:31 28/09/2024
 - 🕴 [Lãnh tụ tối cao Iran kêu gọi &#39;sát cánh cùng Hezbollah&#39;](https://vnexpress.net/lanh-tu-toi-cao-iran-keu-goi-sat-canh-cung-hezbollah-4798111.html) - 13:42 28/09/2024
 - 🤭 [Hezbollah xác nhận thủ lĩnh tối cao thiệt mạng](https://vnexpress.net/hezbollah-xac-nhan-thu-linh-toi-cao-thiet-mang-4798105.html) - 11:53 28/09/2024
 - 🧑‍💻 [18 năm chuẩn bị trước khi Israel liên tiếp giáng đòn vào Hezbollah](https://vnexpress.net/18-nam-chuan-bi-truoc-khi-israel-lien-tiep-giang-don-vao-hezbollah-4797942.html) - 11:01 28/09/2024
