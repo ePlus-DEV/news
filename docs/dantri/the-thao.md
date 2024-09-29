@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [Màn so tài kịch tính của 1.200 VĐV ở giải Aquathlon Warriors Van Don 2024](https://dantri.com.vn/the-thao/man-so-tai-kich-tinh-cua-1200-vdv-o-giai-aquathlon-warriors-van-don-2024-20240907104509741.htm) - 15:42 29/09/2024
 - 💯 [VĐV Kim Cương về Nhất giải Aquathlon Warriors Van Don 2024](https://dantri.com.vn/the-thao/vdv-kim-cuong-ve-nhat-giai-aquathlon-warriors-van-don-2024-20240929201957011.htm) - 15:29 29/09/2024
-- ⛽️ [Man Utd 0-1 Tottenham &lpar;hiệp 1&rpar;: Johnson mở tỷ số](https://dantri.com.vn/the-thao/man-utd-0-1-tottenham-hiep-1-johnson-mo-ty-so-20240929222059181.htm) - 15:21 29/09/2024
+- ⛽️ [Man Utd 0-2 Tottenham &lpar;hiệp 2&rpar;: Kulusevski nhân đôi cách biệt](https://dantri.com.vn/the-thao/man-utd-0-2-tottenham-hiep-2-kulusevski-nhan-doi-cach-biet-20240929222059181.htm) - 15:21 29/09/2024
 - 💃 [Alcaraz phô diễn sức mạnh, tiến vào tứ kết China Open 2024](https://dantri.com.vn/the-thao/alcaraz-pho-dien-suc-manh-tien-vao-tu-ket-china-open-2024-20240929222607162.htm) - 15:20 29/09/2024
 - 🌈 [HLV Hứa Hiền Vinh mong chờ may mắn đến với U20 Việt Nam](https://dantri.com.vn/the-thao/hlv-hua-hien-vinh-mong-cho-may-man-den-voi-u20-viet-nam-20240929220425891.htm) - 15:04 29/09/2024
 - 🦅 [Hà Nội FC thắng CLB TPHCM trong trận đấu có 2 thẻ đỏ và 2 quả phạt đền](https://dantri.com.vn/the-thao/ha-noi-fc-thang-clb-tphcm-trong-tran-dau-co-2-the-do-va-2-qua-phat-den-20240929213504459.htm) - 14:52 29/09/2024
