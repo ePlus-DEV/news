@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Nỗi khổ của người Lebanon sơ tán dưới hỏa lực Israel](https://vnexpress.net/noi-kho-cua-nguoi-lebanon-so-tan-duoi-hoa-luc-israel-4797934.html) - 17:00 29/09/2024
+- 🎭 [Nỗi khổ của những người Lebanon phải sơ tán vì hỏa lực Israel](https://vnexpress.net/noi-kho-cua-nhung-nguoi-lebanon-phai-so-tan-vi-hoa-luc-israel-4797934.html) - 17:00 29/09/2024
 - 🕴 [Israel tập kích Houthi ở Yemen](https://vnexpress.net/israel-tap-kich-houthi-o-yemen-4798302.html) - 15:46 29/09/2024
 - 🤭 [Nga tuyên bố ngăn Ukraine đưa thêm quân vào Kursk](https://vnexpress.net/nga-tuyen-bo-ngan-ukraine-dua-them-quan-vao-kursk-4798295.html) - 14:42 29/09/2024
 - 🧑‍💻 [Mạng lưới liên lạc giúp thủ lĩnh Hamas tránh được sự truy lùng của Israel](https://vnexpress.net/mang-luoi-lien-lac-giup-thu-linh-hamas-tranh-duoc-su-truy-lung-cua-israel-4793621.html) - 13:09 29/09/2024
