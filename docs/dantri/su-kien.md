@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [U20 Việt Nam 0-0 U20 Syria &lpar;hiệp 1&rpar;: U20 Việt Nam bị đẩy vào thế khó](https://dantri.com.vn/the-thao/u20-viet-nam-0-0-u20-syria-hiep-1-u20-viet-nam-bi-day-vao-the-kho-20240929183330170.htm) - 11:33 29/09/2024
+- 🎭 [Bà Nguyễn Phương Hằng ủng hộ 10 tỷ đồng giúp đồng bào ảnh hưởng lũ lụt](https://dantri.com.vn/xa-hoi/ba-nguyen-phuong-hang-ung-ho-10-ty-dong-giup-dong-bao-anh-huong-lu-lut-20240929192452000.htm) - 12:30 29/09/2024
 - 👨‍🏫 [Hé lộ đòn không kích bằng 80 tấn bom của Israel hạ sát thủ lĩnh Hezbollah](https://dantri.com.vn/the-gioi/he-lo-don-khong-kich-bang-80-tan-bom-cua-israel-ha-sat-thu-linh-hezbollah-20240929163252688.htm) - 10:59 29/09/2024
 - 🌮 [Gặp người bơi ra giữa dòng lũ dữ cứu thanh niên mắc kẹt suốt 9 ngày](https://dantri.com.vn/xa-hoi/gap-nguoi-boi-ra-giua-dong-lu-du-cuu-thanh-nien-mac-ket-suot-9-ngay-20240929160212364.htm) - 09:48 29/09/2024
 - 🕯 [Sạt lở ở Hà Giang: 3 người chết và mất tích, con số có thể tăng lên](https://dantri.com.vn/xa-hoi/sat-lo-o-ha-giang-3-nguoi-chet-va-mat-tich-con-so-co-the-tang-len-20240929161918718.htm) - 09:31 29/09/2024
