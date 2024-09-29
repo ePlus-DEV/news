@@ -6,7 +6,7 @@ sidebar_position: 18
 <!-- dantri-doi-song:START -->
 - 🥳 [Báo Dân trí đạt giải Báo chí về phát triển văn hóa và xây dựng người Hà Nội](https://dantri.com.vn/doi-song/bao-dan-tri-dat-giai-bao-chi-ve-phat-trien-van-hoa-va-xay-dung-nguoi-ha-noi-20240929125305516.htm) - 06:19 29/09/2024
 - 🌁 [Loạt trải nghiệm hấp dẫn tại sự kiện &quot;Gieo mầm thiện tâm&quot;](https://dantri.com.vn/doi-song/loat-trai-nghiem-hap-dan-tai-su-kien-gieo-mam-thien-tam-20240929121904093.htm) - 06:01 29/09/2024
-- 👀 [Hội đua bò Bảy Núi nhộn nhịp từ 2 giờ sáng](https://dantri.com.vn/doi-song/hoi-dua-bo-bay-nui-nhon-nhip-tu-2-gio-sang-20240929081321319.htm) - 01:53 29/09/2024
+- 👀 [Hội đua bò Bảy Núi nhộn nhịp từ 2h sáng](https://dantri.com.vn/doi-song/hoi-dua-bo-bay-nui-nhon-nhip-tu-2h-sang-20240929081321319.htm) - 01:53 29/09/2024
 - 🐻 [Nợ 1 tỷ vẫn chi 25 triệu du lịch mỗi năm, cặp đôi Hải Dương gây tranh cãi](https://dantri.com.vn/doi-song/no-1-ty-van-chi-25-trieu-du-lich-moi-nam-cap-doi-hai-duong-gay-tranh-cai-20240928114232893.htm) - 00:19 29/09/2024
 - 🦅 [The Hour Glass và GPHG: nâng tầm văn hóa đồng hồ tại Việt Nam](https://dantri.com.vn/doi-song/the-hour-glass-va-gphg-nang-tam-van-hoa-dong-ho-tai-viet-nam-20240928122521314.htm) - 12:00 28/09/2024
 - 🦩 [Lễ trao giải Grand Prix D&#39;horlogerie De Genève lần đầu tiên tổ chức tại Việt Nam](https://dantri.com.vn/doi-song/le-trao-giai-grand-prix-dhorlogerie-de-geneve-lan-dau-tien-to-chuc-tai-viet-nam-20240928143222050.htm) - 08:00 28/09/2024
