@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [CLB Quảng Nam đánh bại SHB Đà Nẵng, SL Nghệ An hòa nghẹt thở Hà Tĩnh](https://dantri.com.vn/the-thao/clb-quang-nam-danh-bai-shb-da-nang-sl-nghe-an-hoa-nghet-tho-ha-tinh-20240929201852616.htm) - 13:19 29/09/2024
 - 💯 [Trần Thanh Lực không thể vô địch giải Billiards thế giới 2024](https://dantri.com.vn/the-thao/tran-thanh-luc-khong-the-vo-dich-giai-billiards-the-gioi-2024-20240929183421931.htm) - 11:45 29/09/2024
-- ⛽️ [U20 Việt Nam 0-1 U20 Syria &lpar;hiệp 2&rpar;: Phản lưới nhà, U20 Việt Nam gặp khó](https://dantri.com.vn/the-thao/u20-viet-nam-0-1-u20-syria-hiep-2-phan-luoi-nha-u20-viet-nam-gap-kho-20240929183330170.htm) - 11:33 29/09/2024
+- ⛽️ [Thua nghiệt ngã trước U20 Syria, U20 Việt Nam có nguy cơ cao bị loại](https://dantri.com.vn/the-thao/thua-nghiet-nga-truoc-u20-syria-u20-viet-nam-co-nguy-co-cao-bi-loai-20240929183330170.htm) - 11:33 29/09/2024
 - 💃 [Man City trả giá đắt sau khi mất ngôi đầu bảng Ngoại hạng Anh](https://dantri.com.vn/the-thao/man-city-tra-gia-dat-sau-khi-mat-ngoi-dau-bang-ngoai-hang-anh-20240929182422294.htm) - 11:24 29/09/2024
 - 🌈 [Những thành tích ấn tượng ở giải Aqua Warriors Van Don 2024](https://dantri.com.vn/the-thao/nhung-thanh-tich-an-tuong-o-giai-aqua-warriors-van-don-2024-20240929172009071.htm) - 10:34 29/09/2024
 - 🦅 [Trần Thanh Lực xuất sắc vào chung kết giải Billiards vô địch thế giới 2024](https://dantri.com.vn/the-thao/tran-thanh-luc-xuat-sac-vao-chung-ket-giai-billiards-vo-dich-the-gioi-2024-20240929153133022.htm) - 08:40 29/09/2024
