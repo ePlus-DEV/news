@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Tiến Sản có PR, Nguyên Thanh &#39;gãy&#39; tại Berlin Marathon](https://vnexpress.net/tien-san-co-pr-nguyen-thanh-gay-tai-berlin-marathon-4798266.html) - 10:14 29/09/2024
+- 🪜 [Nguyên Thanh chưa thể phá kỷ lục quốc gia tại Berlin Marathon](https://vnexpress.net/nguyen-thanh-chua-the-pha-ky-luc-quoc-gia-tai-berlin-marathon-4798266.html) - 10:14 29/09/2024
 - 🦩 [Thanh Lực hạ cơ thủ số một thế giới, vào chung kết World Championship](https://vnexpress.net/thanh-luc-ha-co-thu-so-mot-the-gioi-vao-chung-ket-world-championship-4798250.html) - 08:58 29/09/2024
 - 🧰 [Tiger Woods bị kiện](https://vnexpress.net/tiger-woods-bi-kien-4798206.html) - 04:08 29/09/2024
 - 🤗 [Messi cứu Inter Miami](https://vnexpress.net/messi-cuu-inter-miami-4798203.html) - 03:38 29/09/2024
