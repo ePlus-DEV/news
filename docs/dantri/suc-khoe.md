@@ -4,7 +4,7 @@ sidebar_position: 23
 ---
 
 <!-- dantri-suc-khoe:START -->
-- 🤔 [Nữ bác sĩ bị kính quán cà phê đâm đã đi làm, ngồi xe lăn khám bệnh](https://dantri.com.vn/suc-khoe/nu-bac-si-bi-kinh-quan-ca-phe-dam-da-di-lam-ngoi-xe-lan-kham-benh-20240930112404922.htm) - 04:24 30/09/2024
+- 🤔 [Nữ bác sĩ bị tấm kính quán cà phê đâm đã đi làm, ngồi xe lăn khám bệnh](https://dantri.com.vn/suc-khoe/nu-bac-si-bi-tam-kinh-quan-ca-phe-dam-da-di-lam-ngoi-xe-lan-kham-benh-20240930112404922.htm) - 04:24 30/09/2024
 - 🚦 [Cô gái bỏng nặng vì giác hơi bụng để... chữa ung thư](https://dantri.com.vn/suc-khoe/co-gai-bong-nang-vi-giac-hoi-bung-de-chua-ung-thu-20240930094843043.htm) - 04:02 30/09/2024
 - 🤖 [Tọa đàm trực tuyến &quot;Tủ thuốc gia đình: Lá chắn bệnh tật mùa bão lũ&quot;](https://dantri.com.vn/suc-khoe/toa-dam-truc-tuyen-tu-thuoc-gia-dinh-la-chan-benh-tat-mua-bao-lu-20240929195257453.htm) - 01:00 30/09/2024
 - 🐻 [Môn thể thao nào giúp ngừa đột quỵ tốt nhất?](https://dantri.com.vn/suc-khoe/mon-the-thao-nao-giup-ngua-dot-quy-tot-nhat-20240930071547508.htm) - 00:22 30/09/2024
