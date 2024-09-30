@@ -6,7 +6,7 @@ sidebar_position: 11
 <!-- vnexpress-du-lich:START -->
 - 💂 [10 món ngon của nước Mỹ](https://vnexpress.net/10-mon-ngon-cua-nuoc-my-4798617.html) - 13:00 30/09/2024
 - 🪄 [Hàng nghìn du khách trải nghiệm lễ hội bia tươi trên đỉnh Bà Nà](https://vnexpress.net/hang-nghin-du-khach-trai-nghiem-le-hoi-bia-tuoi-tren-dinh-ba-na-4798640.html) - 12:00 30/09/2024
-- 🦅 [Du khách để ngực trần sẽ bị phạt tiền tại Tây Ban nha](https://vnexpress.net/du-khach-de-nguc-tran-se-bi-phat-tien-tai-tay-ban-nha-4798305.html) - 12:00 30/09/2024
+- 🦅 [Du khách để ngực trần sẽ bị phạt tiền tại Tây Ban Nha](https://vnexpress.net/du-khach-de-nguc-tran-se-bi-phat-tien-tai-tay-ban-nha-4798305.html) - 12:00 30/09/2024
 - 🕴 [Lý do Hồ Tràm được chọn là điểm tổ chức DNSE Aquaman Vietnam](https://vnexpress.net/ly-do-ho-tram-duoc-chon-la-diem-to-chuc-dnse-aquaman-vietnam-4797750.html) - 08:31 30/09/2024
 - 👀 [Đoàn đại biểu Vesak thăm núi Bà Đen](https://vnexpress.net/doan-dai-bieu-vesak-tham-nui-ba-den-4798453.html) - 05:00 30/09/2024
 - 🎭 [Du lịch MICE Việt tiềm năng nhưng vẫn &#39;dưới kỳ vọng&#39;](https://vnexpress.net/du-lich-mice-viet-tiem-nang-nhung-van-duoi-ky-vong-4797880.html) - 04:52 30/09/2024
