@@ -5,7 +5,7 @@ sidebar_position: 28
 
 <!-- dantri-photo-story:START -->
 - 💪 [Chương trình &quot;Gieo mầm thiện tâm&quot; - dấu ấn từ lòng nhân ái](https://dantri.com.vn/an-sinh/chuong-trinh-gieo-mam-thien-tam-dau-an-tu-long-nhan-ai-20240930163731024.htm) - 10:00 30/09/2024
-- 🧰 [Hàng loạt cá &quot;khủng&quot; dính lưới khi hồ thủy điện lớn nhất miền Nam đóng đập](https://dantri.com.vn/xa-hoi/hang-loat-ca-khung-dinh-luoi-khi-ho-thuy-dien-lon-nhat-mien-nam-dong-dap-20240930154717853.htm) - 09:13 30/09/2024
+- 🧰 [Hàng loạt cá gần 20kg dính lưới khi hồ thủy điện lớn nhất miền Nam đóng đập](https://dantri.com.vn/xa-hoi/hang-loat-ca-gan-20kg-dinh-luoi-khi-ho-thuy-dien-lon-nhat-mien-nam-dong-dap-20240930154717853.htm) - 09:13 30/09/2024
 - 🧰 [Cô giáo 29 tuổi ở Hà Nội chi tiền tỷ xây nhà 5 tầng báo hiếu bố mẹ](https://dantri.com.vn/doi-song/co-giao-29-tuoi-o-ha-noi-chi-tien-ty-xay-nha-5-tang-bao-hieu-bo-me-20240929225854300.htm) - 02:33 30/09/2024
 - 😎 [Cận cảnh siêu dự án bà Trương Mỹ Lan muốn dùng khắc phục hậu quả vụ án](https://dantri.com.vn/bat-dong-san/can-canh-sieu-du-an-ba-truong-my-lan-muon-dung-khac-phuc-hau-qua-vu-an-20240929083938459.htm) - 01:08 30/09/2024
 - 🎓 [Đập dâng hơn 750 tỷ đồng với biểu tượng những chiếc lá rơi trên sông](https://dantri.com.vn/xa-hoi/dap-dang-hon-750-ty-dong-voi-bieu-tuong-nhung-chiec-la-roi-tren-song-20240929155008517.htm) - 00:00 30/09/2024
