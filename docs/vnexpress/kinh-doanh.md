@@ -9,9 +9,9 @@ sidebar_position: 3
 - 🔥 [Khối ngoại bán ròng hơn 11 triệu cổ phiếu Hòa Phát](https://vnexpress.net/khoi-ngoai-ban-rong-hon-11-trieu-co-phieu-hoa-phat-4798627.html) - 09:34 30/09/2024
 - 🐵 [Phó chủ tịch FLC từ nhiệm](https://vnexpress.net/pho-chu-tich-flc-tu-nhiem-4798621.html) - 09:25 30/09/2024
 - 🦅 [Trung Quốc muốn tăng đầu tư vào lĩnh vực ôtô tại Việt Nam](https://vnexpress.net/trung-quoc-muon-tang-dau-tu-vao-linh-vuc-oto-tai-viet-nam-4798571.html) - 08:36 30/09/2024
-- 😺 [Dự kiến gia hạn trả nợ cho khách vay thiệt hại vì bão Yagi](https://vnexpress.net/ngan-hang-se-co-cau-han-tra-no-cho-khach-vay-anh-huong-boi-bao-so-3-4797455.html) - 08:02 30/09/2024
+- 😺 [Khách vay thiệt hại vì bão Yagi có thể được gia hạn nợ](https://vnexpress.net/ngan-hang-se-co-cau-han-tra-no-cho-khach-vay-anh-huong-boi-bao-so-3-4797455.html) - 08:02 30/09/2024
 - 🤩 [HSBC giữ nguyên dự báo tăng trưởng của Việt Nam](https://vnexpress.net/hsbc-giu-nguyen-du-bao-tang-truong-cua-viet-nam-4798544.html) - 07:44 30/09/2024
-- 🌮 [Thu hơn tỷ USD từ xuất khẩu tiêu nhờ giá tăng vọt](https://vnexpress.net/thu-hon-ty-usd-tu-xuat-khau-tieu-nho-gia-tang-vot-4798377.html) - 05:02 30/09/2024
+- 🌮 [Thu hơn tỷ USD từ xuất khẩu tiêu](https://vnexpress.net/thu-hon-ty-usd-tu-xuat-khau-tieu-4798377.html) - 05:02 30/09/2024
 - 🧰 [Dấu ấn VIB trong show &#39;Anh trai say hi&#39;](https://vnexpress.net/dau-an-vib-trong-show-anh-trai-say-hi-4797844.html) - 01:00 30/09/2024
 - 🤔 [Giá vé máy bay Tết Ất Tỵ tăng](https://vnexpress.net/gia-ve-may-bay-tet-at-ty-tang-4797999.html) - 23:00 29/09/2024
 - 🧑‍💻 [Việt Nam thu gần 4.000 tỷ đồng từ xuất khẩu chè trong 8 tháng](https://vnexpress.net/viet-nam-thu-gan-4-000-ty-dong-tu-xuat-khau-che-trong-8-thang-4798253.html) - 19:00 29/09/2024
