@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Cô giáo xin tài trợ laptop: &#39;Tôi đã sai&#39;](https://vnexpress.net/co-giao-xin-tai-tro-laptop-toi-da-sai-4798456.html) - 04:37 30/09/2024
+- 🤓 [Cô giáo xin tài trợ laptop: &#39;Tôi đã sai&#39;](https://vnexpress.net/co-giao-xin-tai-tro-laptop-toi-da-sai-4798438.html) - 03:29 30/09/2024
 - 🦆 [9 đại học Mỹ không xét tài chính của du học sinh](https://vnexpress.net/9-dai-hoc-my-khong-xet-tai-chinh-cua-du-hoc-sinh-4794998.html) - 22:55 29/09/2024
 - 🦩 [Tỉnh, thành nào chỉ có hai huyện?](https://vnexpress.net/tinh-thanh-nao-chi-co-hai-huyen-4798272.html) - 13:00 29/09/2024
 - 🌮 [Hơn 300 học sinh thử làm đại biểu Quốc hội](https://vnexpress.net/hon-300-hoc-sinh-thu-lam-dai-bieu-quoc-hoi-4798219.html) - 08:10 29/09/2024
