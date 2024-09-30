@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Mông Cổ đón Tổng Bí thư, Chủ tịch nước Tô Lâm bằng nghi thức cao nhất](https://vnexpress.net/mong-co-don-tong-bi-thu-chu-tich-nuoc-to-lam-bang-nghi-thuc-cao-nhat-4798564.html) - 08:29 30/09/2024
-- 🕴 [Thủ lĩnh nhánh Hamas ở Lebanon thiệt mạng](https://vnexpress.net/thu-linh-nhanh-hamas-o-lebanon-thiet-mang-4798549.html) - 08:29 30/09/2024
+- 🕴 [Israel hạ sát thủ lĩnh nhánh Hamas ở Lebanon](https://vnexpress.net/israel-ha-sat-thu-linh-nhanh-hamas-o-lebanon-4798549.html) - 08:29 30/09/2024
 - 🤭 [&#39;Bi kịch chưa từng có&#39; sau bão Helene](https://vnexpress.net/bi-kich-chua-tung-co-sau-bao-helene-4798393.html) - 08:06 30/09/2024
 - 🧑‍💻 [Israel hạ sát thủ lĩnh Hezbollah như thế nào](https://vnexpress.net/israel-ha-sat-thu-linh-hezbollah-nhu-the-nao-4798374.html) - 04:52 30/09/2024
 - 🦏 [Gần 150 người chết vì lũ lụt, lở đất ở Nepal](https://vnexpress.net/gan-150-nguoi-chet-vi-lu-lut-lo-dat-o-nepal-4798470.html) - 04:48 30/09/2024
