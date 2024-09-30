@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- dantri-kinh-doanh:START -->
 - 🏊 [HSBC duy trì dự báo tăng trưởng GDP Việt Nam đạt 6,5%](https://dantri.com.vn/kinh-doanh/hsbc-duy-tri-du-bao-tang-truong-gdp-viet-nam-dat-65-20240930172944619.htm) - 14:12 30/09/2024
 - 🦆 [Dự kiến gia hạn trả nợ cho khách vay bị ảnh hưởng bởi bão lũ](https://dantri.com.vn/kinh-doanh/du-kien-gia-han-tra-no-cho-khach-vay-bi-anh-huong-boi-bao-lu-20240930170354919.htm) - 12:18 30/09/2024
-- 🦄 [Biến nhân sự tại FLC: 2 sếp lớn xin từ nhiệm](https://dantri.com.vn/kinh-doanh/bien-nhan-su-tai-flc-2-sep-lon-xin-tu-nhiem-20240930163912851.htm) - 11:34 30/09/2024
+- 🦄 [Thay đổi nhân sự tại FLC: 2 sếp lớn xin từ nhiệm](https://dantri.com.vn/kinh-doanh/thay-doi-nhan-su-tai-flc-2-sep-lon-xin-tu-nhiem-20240930163912851.htm) - 11:34 30/09/2024
 - 🌝 [Một bộ phận của con cá người Việt từng bỏ đi, nay Trung Quốc ồ ạt gom mua](https://dantri.com.vn/kinh-doanh/mot-bo-phan-cua-con-ca-nguoi-viet-tung-bo-di-nay-trung-quoc-o-at-gom-mua-20240930155708846.htm) - 09:35 30/09/2024
 - 💃 [Đồng vay - chính sách vay vốn giúp người trẻ dễ dàng sở hữu nhà](https://dantri.com.vn/kinh-doanh/dong-vay-chinh-sach-vay-von-giup-nguoi-tre-de-dang-so-huu-nha-20240930144734349.htm) - 08:08 30/09/2024
 - 🦏 [Anh chấm dứt 142 năm sử dụng điện than](https://dantri.com.vn/kinh-doanh/anh-cham-dut-142-nam-su-dung-dien-than-20240930133137103.htm) - 06:47 30/09/2024
