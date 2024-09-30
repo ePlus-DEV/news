@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Tên lửa Iskander tập kích đoàn tàu chở vũ khí phương Tây của Ukraine](https://vnexpress.net/ten-lua-iskander-tap-kich-doan-tau-cho-vu-khi-phuong-tay-cua-ukraine-4798647.html) - 16:40 30/09/2024
+- 🎭 [Tên lửa Iskander Nga tập kích đoàn tàu chở vũ khí phương Tây của Ukraine](https://vnexpress.net/ten-lua-iskander-nga-tap-kich-doan-tau-cho-vu-khi-phuong-tay-cua-ukraine-4798647.html) - 16:40 30/09/2024
 - 🕴 [Israel có thể mở chiến dịch trên bộ &#39;hạn chế&#39; tại Lebanon](https://vnexpress.net/israel-co-the-mo-chien-dich-tren-bo-han-che-tai-lebanon-4798700.html) - 16:24 30/09/2024
 - 🤭 [Bán đấu giá video ghi lại vụ ám sát tổng thống Kennedy](https://vnexpress.net/ban-dau-gia-video-ghi-lai-vu-am-sat-tong-thong-kennedy-4798629.html) - 15:57 30/09/2024
 - 🧑‍💻 [Việt Nam - Mông Cổ thiết lập quan hệ Đối tác Toàn diện](https://vnexpress.net/viet-nam-mong-co-thiet-lap-quan-he-doi-tac-toan-dien-4798682.html) - 14:24 30/09/2024
