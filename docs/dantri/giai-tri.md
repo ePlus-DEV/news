@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Dàn hot girl Việt Gen Z &quot;gây sốt&quot; vì vừa xinh đẹp, vừa học giỏi](https://dantri.com.vn/giai-tri/dan-hot-girl-viet-gen-z-gay-sot-vi-vua-xinh-dep-vua-hoc-gioi-20240919183301658.htm) - 13:00 30/09/2024
+- 🤩 [Dàn hot girl Việt Gen Z gây sốt vì vừa xinh đẹp, vừa học giỏi](https://dantri.com.vn/giai-tri/dan-hot-girl-viet-gen-z-gay-sot-vi-vua-xinh-dep-vua-hoc-gioi-20240919183301658.htm) - 13:00 30/09/2024
 - 🔥 [Triển lãm &quot;Đất - Earth&quot; của họa sĩ Lý Trực Sơn diễn ra tại VCCA](https://dantri.com.vn/giai-tri/trien-lam-dat-earth-cua-hoa-si-ly-truc-son-dien-ra-tai-vcca-20240930181815733.htm) - 11:33 30/09/2024
 - 🚀 [Quá khứ ồn ào của tiểu thư từng góp mặt tại bữa tiệc trắng của Diddy](https://dantri.com.vn/giai-tri/qua-khu-on-ao-cua-tieu-thu-tung-gop-mat-tai-bua-tiec-trang-cua-diddy-20240930132904057.htm) - 08:30 30/09/2024
 - 🔥 [Hồ Ngọc Hà: &quot;Tôi và Đức Trí khắc khẩu ở phòng thu, ra sân khấu ngọt ngào&quot;](https://dantri.com.vn/giai-tri/ho-ngoc-ha-toi-va-duc-tri-khac-khau-o-phong-thu-ra-san-khau-ngot-ngao-20240930120626094.htm) - 08:19 30/09/2024
