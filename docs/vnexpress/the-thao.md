@@ -17,7 +17,7 @@ sidebar_position: 5
 - 👍 [Giải hai môn phối hợp DNSE Aquaman Vietnam 2024 mở đăng ký](https://vnexpress.net/giai-hai-mon-phoi-hop-dnse-aquaman-vietnam-2024-mo-dang-ky-4797314.html) - 04:15 30/09/2024
 - 🐵 [Mourinho dùng laptop để phản đối trọng tài](https://vnexpress.net/mourinho-dung-laptop-de-phan-doi-trong-tai-4798376.html) - 03:22 30/09/2024
 - 💫 [Sinner đối mặt án cấm 2 năm](https://vnexpress.net/sinner-doi-mat-an-cam-2-nam-4798431.html) - 03:15 30/09/2024
-- 🦆 [Trung vệ Tottenham được khen kiến tạo hay bậc nhất lịch sử Ngoại hạng Anh](https://vnexpress.net/trung-ve-tottenham-duoc-khen-kien-tao-hay-bac-nhat-lich-su-ngoai-hang-anh-4798450.html) - 02:31 30/09/2024
+- 🦆 [Pha kiến tạo của trung vệ Tottenham được khen hay bậc nhất Ngoại hạng Anh](https://vnexpress.net/pha-kien-tao-cua-trung-ve-tottenham-duoc-khen-hay-bac-nhat-ngoai-hang-anh-4798450.html) - 02:31 30/09/2024
 - 🙉 [Courtois bị CĐV Atletico tấn công](https://vnexpress.net/courtois-bi-cdv-atletico-tan-cong-4798346.html) - 01:13 30/09/2024
 - 📝 [Alcaraz chạm mốc 200 trận thắng nhanh thứ hai lịch sử](https://vnexpress.net/alcaraz-cham-moc-200-tran-thang-nhanh-thu-hai-lich-su-4798341.html) - 23:53 29/09/2024
 - 💯 [Neville: &#39;Man Utd đá kém CLB nghiệp dư&#39;](https://vnexpress.net/neville-man-utd-da-kem-clb-nghiep-du-4798331.html) - 23:19 29/09/2024
