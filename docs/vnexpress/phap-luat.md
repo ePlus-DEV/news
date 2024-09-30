@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Tòa yêu cầu làm rõ nhiều dấu hiệu tội phạm ở Công ty Tân Tân](https://vnexpress.net/toa-yeu-cau-lam-ro-nhieu-dau-hieu-toi-pham-o-cong-ty-tan-tan-4798534.html) - 09:45 30/09/2024
+- 😎 [Tòa yêu cầu làm rõ nhiều dấu hiệu tội phạm ở Công ty CP Tân Tân](https://vnexpress.net/toa-yeu-cau-lam-ro-nhieu-dau-hieu-toi-pham-o-cong-ty-cp-tan-tan-4798534.html) - 09:45 30/09/2024
 - 🥰 [Bà Trương Mỹ Lan khai về hàng loạt tài sản &#39;khủng&#39; bị kê biên](https://vnexpress.net/ba-truong-my-lan-khai-ve-hang-loat-tai-san-khung-bi-ke-bien-4798560.html) - 08:14 30/09/2024
 - 🎓 [Sát hại tài xế xe ôm, bỏ xác ở chân cầu](https://vnexpress.net/sat-hai-tai-xe-xe-om-4798559.html) - 07:50 30/09/2024
 - 🤓 [Lập hai sàn tiền ảo để lừa nhiều nhà đầu tư](https://vnexpress.net/lap-hai-san-dau-tu-tien-ao-de-lua-nha-dau-tu-4798532.html) - 07:22 30/09/2024
