@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Đoàn đại biểu Vesak thăm núi Bà Đen](https://vnexpress.net/doan-dai-bieu-vesak-tham-nui-ba-den-4798453.html) - 05:00 30/09/2024
-- 🪄 [Du lịch MICE Việt tiềm năng những vẫn &#39;dưới kỳ vọng&#39;](https://vnexpress.net/du-lich-mice-viet-tiem-nang-nhung-van-duoi-ky-vong-4797880.html) - 04:52 30/09/2024
+- 🪄 [Du lịch MICE Việt tiềm năng nhưng vẫn &#39;dưới kỳ vọng&#39;](https://vnexpress.net/du-lich-mice-viet-tiem-nang-nhung-van-duoi-ky-vong-4797880.html) - 04:52 30/09/2024
 - 🦅 [Rừng trúc &#39;như trong phim&#39; ở Mù Cang Chải](https://vnexpress.net/rung-truc-nhu-trong-phim-o-mu-cang-chai-4797027.html) - 04:18 30/09/2024
 - 🕴 [Vietjet tăng chuyến bay kết nối TP HCM và Perth](https://vnexpress.net/vietjet-tang-chuyen-bay-ket-noi-tp-hcm-va-perth-4798291.html) - 04:15 30/09/2024
 - 👀 [Du thuyền 5 sao đưa gần 3.500 khách Trung Quốc cập bến Hạ Long](https://vnexpress.net/du-thuyen-5-sao-dua-gan-3-500-khach-trung-quoc-cap-ben-ha-long-4798417.html) - 03:05 30/09/2024
