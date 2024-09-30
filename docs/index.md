@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [17 con khỉ quý hiếm ở Côn Đảo bị bắt trái phép](https://vnexpress.net/khi-duoi-dai-con-dao-4798695.html) - 15:10 30/09/2024
+- 🚀 [17 con khỉ quý hiếm ở Côn Đảo bị bắt trái phép](https://vnexpress.net/17-con-khi-quy-hiem-o-con-dao-bi-bat-trai-phep-4798695.html) - 15:10 30/09/2024
 - 🧰 [Công an Hà Nội thoát thẻ đỏ trong trận thắng Bình Dương](https://vnexpress.net/cong-an-ha-noi-thoat-the-do-trong-tran-thang-binh-duong-4798693.html) - 14:51 30/09/2024
 - 🥰 [Meta sẽ sản xuất kính thực tế ảo Quest 3S tại Việt Nam](https://vnexpress.net/meta-se-san-xuat-kinh-thuc-te-ao-quest-3s-tai-viet-nam-4798687.html) - 14:42 30/09/2024
 - 🌏 [Phim của Francis Ford Coppola lỗ nặng](https://vnexpress.net/phim-cua-francis-ford-coppola-lo-nang-4798370.html) - 14:38 30/09/2024
