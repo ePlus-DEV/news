@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Dỡ nhà, di dời 115 hộ dân vì nhiều quả đồi sạt lở](https://vnexpress.net/do-nha-di-doi-115-ho-dan-vi-nhieu-qua-doi-sat-lo-4798481.html) - 05:54 30/09/2024
 - 🤓 [Các đô thị lớn dự kiến phải bố trí ga hành khách tại trung tâm](https://vnexpress.net/cac-do-thi-lon-du-kien-phai-bo-tri-ga-hanh-khach-tai-trung-tam-4797668.html) - 04:44 30/09/2024
-- ⚗️ [TP HCM chi hơn 1.300 tỷ đồng mở rộng gấp 4 đường cửa ngõ](https://vnexpress.net/tp-hcm-chi-hon-1-300-ty-dong-mo-rong-gap-4-duong-cua-ngo-4798460.html) - 03:48 30/09/2024
+- ⚗️ [TP HCM chi hơn 1.300 tỷ đồng mở rộng đường cửa ngõ gấp 4 lần](https://vnexpress.net/tp-hcm-chi-hon-1-300-ty-dong-mo-rong-duong-cua-ngo-gap-4-lan-4798460.html) - 03:48 30/09/2024
 - 🌊 [Không khí lạnh đang tràn xuống miền Bắc](https://vnexpress.net/khong-khi-lanh-dang-tran-xuong-mien-bac-4798368.html) - 01:40 30/09/2024
 - 🎓 [Chi hàng trăm triệu đồng sắm drone tưới vườn xoài trên đồi](https://vnexpress.net/chi-hang-tram-trieu-dong-sam-drone-tuoi-vuon-xoai-tren-doi-4797050.html) - 22:00 29/09/2024
 - 🔥 [Núi ở Nghệ An xuất hiện vết nứt dài 100 m](https://vnexpress.net/nui-o-nghe-an-xuat-hien-vet-nut-dai-100-m-4798278.html) - 12:02 29/09/2024
