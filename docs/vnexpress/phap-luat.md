@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Cướp tài sản hơn 200 triệu đồng của người bán dâm](https://vnexpress.net/cuop-tai-san-hon-200-trieu-dong-cua-nguoi-ban-dam-4798670.html) - 17:00 30/09/2024
-- 🥰 [Bị đối thủ trong ngành massage cạnh tranh &#39;bẩn&#39; thì phải làm sao?](https://vnexpress.net/bi-doi-thu-trong-nganh-massage-canh-tranh-ban-thi-phai-lam-sao-4798666.html) - 17:00 30/09/2024
+- 🥰 [Bị đối thủ cạnh tranh &#39;bẩn&#39; thì phải làm sao?](https://vnexpress.net/bi-doi-thu-canh-tranh-ban-thi-phai-lam-sao-4798666.html) - 17:00 30/09/2024
 - 🎓 [Đầu độc nhiều người vì bị chế nhạo &#39;ế vợ&#39;](https://vnexpress.net/dau-doc-nhieu-nguoi-vi-bi-che-nhao-e-vo-4798664.html) - 15:49 30/09/2024
 - 🤓 [Vây bắt hai tên cướp điện thoại, 4 người bị thương](https://vnexpress.net/vay-bat-hai-ten-cuop-dien-thoai-4-nguoi-bi-thuong-4798671.html) - 12:39 30/09/2024
 - 🎊 [Cựu chủ tịch huyện Quảng Xương và nhiều cán bộ bị bắt](https://vnexpress.net/cuu-chu-tich-huyen-quang-xuong-va-nhieu-can-bo-bi-bat-4798672.html) - 12:15 30/09/2024
