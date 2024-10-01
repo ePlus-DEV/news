@@ -4,11 +4,11 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [HLV Velizar Popov phản ứng gay gắt, chỉ trích VPF thiếu công bằng](https://dantri.com.vn/the-thao/hlv-velizar-popov-phan-ung-gay-gat-chi-trich-vpf-thieu-cong-bang-20241001203222817.htm) - 13:32 01/10/2024
-- 💯 [Nghịch lý cho thấy sự khủng khiếp của C.Ronaldo](https://dantri.com.vn/the-thao/nghich-ly-cho-thay-su-khung-khiep-cua-cronaldo-20241001200436715.htm) - 13:30 01/10/2024
-- ⛽️ [Novak Djokovic khác nhánh đấu với Sinner, Alcaraz ở Thượng Hải Masters](https://dantri.com.vn/the-thao/novak-djokovic-khac-nhanh-dau-voi-sinner-alcaraz-o-thuong-hai-masters-20241001202744310.htm) - 13:29 01/10/2024
-- 💃 [Đánh bại Medvedev, Alcaraz đối đầu Sinner ở chung kết China Open](https://dantri.com.vn/the-thao/danh-bai-medvedev-alcaraz-doi-dau-sinner-o-chung-ket-china-open-20241001202049033.htm) - 13:22 01/10/2024
-- 🌈 [HLV Vũ Hồng Việt: &quot;Nam Định sẽ đánh bại Bangkok United ở giải châu Á&quot;](https://dantri.com.vn/the-thao/hlv-vu-hong-viet-nam-dinh-se-danh-bai-bangkok-united-o-giai-chau-a-20241001194257160.htm) - 12:43 01/10/2024
+- 🎡 [Nghịch lý cho thấy sự khủng khiếp của C.Ronaldo](https://dantri.com.vn/the-thao/nghich-ly-cho-thay-su-khung-khiep-cua-cronaldo-20241001200436715.htm) - 13:30 01/10/2024
+- 💯 [Novak Djokovic khác nhánh đấu với Sinner, Alcaraz ở Thượng Hải Masters](https://dantri.com.vn/the-thao/novak-djokovic-khac-nhanh-dau-voi-sinner-alcaraz-o-thuong-hai-masters-20241001202744310.htm) - 13:29 01/10/2024
+- ⛽️ [Đánh bại Medvedev, Alcaraz đối đầu Sinner ở chung kết China Open](https://dantri.com.vn/the-thao/danh-bai-medvedev-alcaraz-doi-dau-sinner-o-chung-ket-china-open-20241001202049033.htm) - 13:22 01/10/2024
+- 💃 [HLV Vũ Hồng Việt: &quot;Nam Định sẽ đánh bại Bangkok United ở giải châu Á&quot;](https://dantri.com.vn/the-thao/hlv-vu-hong-viet-nam-dinh-se-danh-bai-bangkok-united-o-giai-chau-a-20241001194257160.htm) - 12:43 01/10/2024
+- 🌈 [HLV Velizar Popov phản ứng gay gắt, chỉ trích VPF thiếu công bằng](https://dantri.com.vn/the-thao/hlv-velizar-popov-phan-ung-gay-gat-chi-trich-vpf-thieu-cong-bang-20241001203222817.htm) - 12:02 01/10/2024
 - 🦅 [Không tìm được CLB, danh thủ Andres Iniesta treo giày ở tuổi 40](https://dantri.com.vn/the-thao/khong-tim-duoc-clb-danh-thu-andres-iniesta-treo-giay-o-tuoi-40-20241001185621133.htm) - 11:56 01/10/2024
 - 🌝 [Giáp Tuấn Dương nhận án kỷ luật vì hành vi triệt hạ đối phương](https://dantri.com.vn/the-thao/giap-tuan-duong-nhan-an-ky-luat-vi-hanh-vi-triet-ha-doi-phuong-20241001171612486.htm) - 10:20 01/10/2024
 - 🚀 [Cãi nhau nảy lửa với HLV, ngôi sao PSG nhận kết cục buồn](https://dantri.com.vn/the-thao/cai-nhau-nay-lua-voi-hlv-ngoi-sao-psg-nhan-ket-cuc-buon-20241001141238522.htm) - 07:12 01/10/2024
