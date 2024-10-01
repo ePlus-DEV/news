@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Chứng khoán lại kiểm tra mốc 1.300 điểm bất thành](https://vnexpress.net/chung-khoan-hom-nay-1-10-vn-index-lai-kiem-tra-moc-1-300-diem-bat-thanh-4799052.html) - 09:23 01/10/2024
 - 🐲 [IMF nâng dự báo tăng trưởng Việt Nam](https://vnexpress.net/imf-nang-du-bao-tang-truong-viet-nam-4798978.html) - 09:09 01/10/2024
-- 🔥 [Thủ tướng: Năng lực cạnh tranh công nghệ là thách thức lớn](https://vnexpress.net/thu-tuong-nang-luc-canh-tranh-cong-nghe-la-thach-thuc-lon-4798678.html) - 08:30 01/10/2024
+- 🔥 [Thủ tướng: Đổi mới sáng tạo là vượt lên giới hạn của chính mình](https://vnexpress.net/thu-tuong-doi-moi-sang-tao-la-vuot-len-gioi-han-cua-chinh-minh-4798678.html) - 08:30 01/10/2024
 - 🐵 [Việt Nam có 4.000 doanh nghiệp khởi nghiệp sáng tạo](https://vnexpress.net/viet-nam-co-4-000-doanh-nghiep-khoi-nghiep-sang-tao-4798948.html) - 08:03 01/10/2024
 - 🦅 [Chủ tịch Fed: Không vội giảm lãi suất mạnh tay](https://vnexpress.net/chu-tich-fed-khong-voi-giam-lai-suat-manh-tay-4798895.html) - 05:02 01/10/2024
 - 😺 [Giá vàng miếng lên 84 triệu đồng](https://vnexpress.net/gia-vang-mieng-len-84-trieu-dong-4798830.html) - 03:09 01/10/2024
