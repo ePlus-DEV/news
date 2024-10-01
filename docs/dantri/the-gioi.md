@@ -4,7 +4,7 @@ sidebar_position: 17
 ---
 
 <!-- dantri-the-gioi:START -->
-- 🌋 [Iran dồn dập phóng tên lửa tấn công Israel, báo động khắp nơi](https://dantri.com.vn/the-gioi/iran-don-dap-phong-ten-lua-tan-cong-israel-bao-dong-khap-noi-20241001234703850.htm) - 16:44 01/10/2024
+- 🌋 [Iran dồn dập phóng 200 tên lửa tấn công Israel, báo động khắp nơi](https://dantri.com.vn/the-gioi/iran-don-dap-phong-200-ten-lua-tan-cong-israel-bao-dong-khap-noi-20241001234703850.htm) - 16:44 01/10/2024
 - 🎬 [Hezbollah mất một nửa kho vũ khí vì Israel tập kích dồn dập?](https://dantri.com.vn/the-gioi/hezbollah-mat-mot-nua-kho-vu-khi-vi-israel-tap-kich-don-dap-20241001225219434.htm) - 15:55 01/10/2024
 - 🧰 [Israel tố Iran âm mưu ám sát nhiều quan chức cấp cao Tel Aviv](https://dantri.com.vn/the-gioi/israel-to-iran-am-muu-am-sat-nhieu-quan-chuc-cap-cao-tel-aviv-20241001214449834.htm) - 14:52 01/10/2024
 - 🌋 [Mỹ: Iran đang chuẩn bị tấn công tên lửa đạn đạo vào Israel](https://dantri.com.vn/the-gioi/my-iran-dang-chuan-bi-tan-cong-ten-lua-dan-dao-vao-israel-20241001210439482.htm) - 14:01 01/10/2024
