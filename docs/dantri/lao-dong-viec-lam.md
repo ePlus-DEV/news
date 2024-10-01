@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Bộ trưởng Đào Ngọc Dung: &quot;Công chức phải mạnh dạn đề xuất sáng kiến&quot;](https://dantri.com.vn/lao-dong-viec-lam/bo-truong-dao-ngoc-dung-cong-chuc-phai-manh-dan-de-xuat-sang-kien-20241001121222807.htm) - 06:00 01/10/2024
+- ⚗️ [Bộ trưởng Đào Ngọc Dung: &quot;Công chức phải mạnh dạn đề xuất ý tưởng mới&quot;](https://dantri.com.vn/lao-dong-viec-lam/bo-truong-dao-ngoc-dung-cong-chuc-phai-manh-dan-de-xuat-y-tuong-moi-20241001121222807.htm) - 06:00 01/10/2024
 - 🙉 [Buổi sáng kinh hoàng của 10 thuyền viên bị nhóm người lạ tấn công trên biển](https://dantri.com.vn/lao-dong-viec-lam/buoi-sang-kinh-hoang-cua-10-thuyen-vien-bi-nhom-nguoi-la-tan-cong-tren-bien-20241001120719290.htm) - 05:39 01/10/2024
 - 🕴 [Cụ bà liệt nửa người, cụ ông run tay làm đồ thủ công ủng hộ bà con vùng lũ](https://dantri.com.vn/an-sinh/cu-ba-liet-nua-nguoi-cu-ong-run-tay-lam-do-thu-cong-ung-ho-ba-con-vung-lu-20241001101019107.htm) - 03:34 01/10/2024
 - 🧐 [Hàng chục công nhân nhà máy rác lao đao vì công ty tiếp tục nợ lương](https://dantri.com.vn/lao-dong-viec-lam/hang-chuc-cong-nhan-nha-may-rac-lao-dao-vi-cong-ty-tiep-tuc-no-luong-20240930185858124.htm) - 00:00 01/10/2024
