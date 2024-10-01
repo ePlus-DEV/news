@@ -152,7 +152,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥸 [Trẻ xem điện thoại nhiều, cần ăn gì để bảo vệ sức khỏe mắt?](https://thanhnien.vn/tre-xem-dien-thoai-nhieu-can-an-gi-de-bao-ve-suc-khoe-mat-185240930004730851.htm) - 17:08 01/10/2024
 - 🌁 [Lơ là thủ tục buổi sáng coi chừng rước ung thư không hay](https://thanhnien.vn/lo-la-thu-tuc-buoi-sang-nay-coi-chung-ruoc-ung-thu-khong-hay-185241001165343225.htm) - 17:07 01/10/2024
 - 🤡 [4 dấu hiệu chảy máu đường tiêu hóa cảnh báo nguy hiểm](https://thanhnien.vn/4-dau-hieu-chay-mau-duong-tieu-hoa-canh-bao-nguy-hiem-185240930130625118.htm) - 17:05 01/10/2024
-- 🎉 [NÓNG: Iran phóng hàng loạt tên lửa tấn công Israel](https://thanhnien.vn/nong-israel-bao-dong-bi-ten-lua-iran-tan-cong-185241001234808502.htm) - 16:47 01/10/2024
+- 🎉 [Iran phóng hơn 200 tên lửa tấn công Israel](https://thanhnien.vn/nong-israel-bao-dong-bi-ten-lua-iran-tan-cong-185241001234808502.htm) - 16:47 01/10/2024
 - 🎊 [Đặc xá khởi đầu con đường hướng thiện cho người từng lầm lỡ](https://thanhnien.vn/dac-xa-khoi-dau-con-duong-huong-thien-cho-nguoi-tung-lam-lo-185241001221732185.htm) - 16:31 01/10/2024
 - 🤠 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 2.10.2024](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-2102024-185240930230400632.htm) - 16:26 01/10/2024
 - 💼 [Chuyến ngao du ẩm thực về duyên hải miền Trung: Quảng Ngãi, Bình Định, Phú Yên](https://thanhnien.vn/thoi-trang-tre/chuyen-ngao-du-am-thuc-ve-duyen-hai-mien-trung-quang-ngai-binh-dinh-phu-yen-185241001152728116.htm) - 16:18 01/10/2024
