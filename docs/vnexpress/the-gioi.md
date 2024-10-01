@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Mark Rutte - tân tổng thư ký từng giúp NATO &#39;thoát hiểm&#39;](https://vnexpress.net/mark-rutte-tan-tong-thu-ky-tung-giup-nato-thoat-hiem-4762966.html) - 17:41 01/10/2024
+- 🎭 [Mark Rutte - tân Tổng thư ký từng giúp NATO &#39;thoát hiểm&#39;](https://vnexpress.net/mark-rutte-tan-tong-thu-ky-tung-giup-nato-thoat-hiem-4762966.html) - 17:41 01/10/2024
 - 🕴 [Mỹ điều thêm loạt tiêm kích, cường kích đến Trung Đông](https://vnexpress.net/my-dieu-them-loat-tiem-kich-cuong-kich-den-trung-dong-4799154.html) - 16:13 01/10/2024
 - 🤭 [Iran phóng tên lửa đạn đạo vào Israel](https://vnexpress.net/iran-phong-ten-lua-dan-dao-vao-israel-4799133.html) - 14:06 01/10/2024
 - 🧑‍💻 [Con sông trở thành tâm điểm trong xung đột Israel - Hezbollah](https://vnexpress.net/con-song-tro-thanh-tam-diem-trong-xung-dot-israel-hezbollah-4798886.html) - 13:00 01/10/2024
