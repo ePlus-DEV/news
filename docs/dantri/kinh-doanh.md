@@ -54,7 +54,7 @@ sidebar_position: 5
 - 👀 [Điều gì đang xảy ra với thị trường xăng dầu?](https://dantri.com.vn/kinh-doanh/dieu-gi-dang-xay-ra-voi-thi-truong-xang-dau-20240926014510046.htm) - 00:35 27/09/2024
 - 🐵 [Bộ Tài chính đề xuất giảm 4.000 tỷ đồng tiền thuê đất](https://dantri.com.vn/kinh-doanh/bo-tai-chinh-de-xuat-giam-4000-ty-dong-tien-thue-dat-20240926191507200.htm) - 15:13 26/09/2024
 - 🤖 [Chứng khoán hụt mốc 1.300 điểm, &quot;cổ phiếu vua&quot; khuấy đảo thị trường](https://dantri.com.vn/kinh-doanh/chung-khoan-hut-moc-1300-diem-co-phieu-vua-khuay-dao-thi-truong-20240926154734472.htm) - 09:14 26/09/2024
-- 💂 [EVNFinance rót gần 25.000 tỷ cho vay các khách hàng &quot;đặc biệt&quot;](https://dantri.com.vn/kinh-doanh/evnfinance-rot-gan-25000-ty-cho-vay-cac-khach-hang-dac-biet-20240926151326275.htm) - 09:05 26/09/2024
+- 💂 [Thông tin thêm về khoản dư nợ gần 25.000 tỷ đồng của EVNFinance](https://dantri.com.vn/kinh-doanh/thong-tin-them-ve-khoan-du-no-gan-25000-ty-dong-cua-evnfinance-20240926151326275.htm) - 09:05 26/09/2024
 - 🦆 [SpaceX của tỷ phú Elon Musk dự định đầu tư 1,5 tỷ USD vào Việt Nam](https://dantri.com.vn/kinh-doanh/spacex-cua-ty-phu-elon-musk-du-dinh-dau-tu-15-ty-usd-vao-viet-nam-20240926123843363.htm) - 08:38 26/09/2024
 - 🦅 [Trung Quốc bất ngờ phát tiền cho người dân, chuyện gì đang xảy ra?](https://dantri.com.vn/kinh-doanh/trung-quoc-bat-ngo-phat-tien-cho-nguoi-dan-chuyen-gi-dang-xay-ra-20240926140606775.htm) - 08:13 26/09/2024
 - 😎 [Giá xăng tăng, có loại tăng 750 đồng/lít](https://dantri.com.vn/kinh-doanh/gia-xang-tang-co-loai-tang-750-donglit-20240926140917060.htm) - 08:06 26/09/2024
