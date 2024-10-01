@@ -4,30 +4,30 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Vì sao &#39;Vua cờ tướng&#39; Vương Thiên Nhất mua bán độ?](https://vnexpress.net/vi-sao-vua-co-tuong-vuong-thien-nhat-mua-ban-do-4798728.html) - 05:25 01/10/2024
-- 🦩 [Nguyễn Huỳnh Phú Vinh sẽ xuất hiện tại &#39;Sống vươn đỉnh&#39;](https://vnexpress.net/nguyen-huynh-phu-vinh-se-xuat-hien-tai-song-vuon-dinh-4798807.html) - 03:00 01/10/2024
-- 🧰 [Harry Kane bị chê mờ nhạt trong các trận cầu lớn](https://vnexpress.net/harry-kane-bi-che-mo-nhat-trong-cac-tran-cau-lon-4798720.html) - 02:14 01/10/2024
-- 🤗 [Ronaldo suýt trở lại Man Utd trước khi Ferguson giải nghệ](https://vnexpress.net/ronaldo-suyt-tro-lai-man-utd-truoc-khi-ferguson-giai-nghe-4798721.html) - 01:32 01/10/2024
-- 🥳 [Dembele bị loại khỏi trận gặp Arsenal vì cãi HLV Enrique](https://vnexpress.net/dembele-bi-loai-khoi-tran-gap-arsenal-vi-cai-hlv-enrique-4798719.html) - 01:21 01/10/2024
-- 🦣 [Hà Hậu tham dự giải chạy 160km lâu đời nhất thế giới](https://vnexpress.net/ha-hau-tham-du-giai-chay-160km-lau-doi-nhat-the-gioi-4798717.html) - 01:21 01/10/2024
-- 🌜 [Alcaraz đấu Medvedev ở bán kết Trung Quốc Mở rộng](https://vnexpress.net/alcaraz-dau-medvedev-o-ban-ket-trung-quoc-mo-rong-4798724.html) - 23:33 30/09/2024
-- 🫶 [Arteta: &#39;Gặp PSG là cơ hội để kiểm chứng năng lực&#39;](https://vnexpress.net/arteta-gap-psg-la-co-hoi-de-kiem-chung-nang-luc-4798718.html) - 23:32 30/09/2024
-- 🌜 [Sancho không bất ngờ khi Palmer lập poker](https://vnexpress.net/sancho-khong-bat-ngo-khi-palmer-lap-poker-4798620.html) - 23:07 30/09/2024
-- 😺 [Ronaldo giúp Al Nassr thắng trận đầu tại AFC Champions League](https://vnexpress.net/ronaldo-giup-al-nassr-thang-tran-dau-tai-afc-champions-league-4798712.html) - 21:56 30/09/2024
-- 👍 [Công an Hà Nội thoát thẻ đỏ trong trận thắng Bình Dương](https://vnexpress.net/cong-an-ha-noi-thoat-the-do-trong-tran-thang-binh-duong-4798693.html) - 14:51 30/09/2024
-- 🐵 [Hai trận tới định đoạt tương lai Ten Hag](https://vnexpress.net/hai-tran-toi-dinh-doat-tuong-lai-ten-hag-4798676.html) - 12:25 30/09/2024
-- 💫 [Nữ cơ thủ Việt Nam bức xúc vì phải tự bỏ tiền đi thi đấu nước ngoài](https://vnexpress.net/nu-co-thu-viet-nam-buc-xuc-vi-phai-tu-bo-tien-di-thi-dau-nuoc-ngoai-4798350.html) - 09:55 30/09/2024
-- 🦆 [Barca chiêu mộ thủ môn đã giải nghệ để thay Ter Stegen](https://vnexpress.net/barca-chieu-mo-thu-mon-da-giai-nghe-de-thay-ter-stegen-4798591.html) - 09:26 30/09/2024
-- 🙉 [Cơ thủ Thanh Lực tiếc vì không thể giữ Cup ở lại Việt Nam](https://vnexpress.net/co-thu-thanh-luc-tiec-vi-khong-the-giu-cup-o-lai-viet-nam-4798527.html) - 09:21 30/09/2024
-- 📝 [Alcaraz không ủng hộ việc xét xử lại Sinner](https://vnexpress.net/alcaraz-khong-ung-ho-viec-xet-xu-lai-sinner-4798599.html) - 08:41 30/09/2024
-- 💯 [Lý do Hồ Tràm được chọn là điểm tổ chức DNSE Aquaman Vietnam](https://vnexpress.net/ly-do-ho-tram-duoc-chon-la-diem-to-chuc-dnse-aquaman-vietnam-4797750.html) - 08:31 30/09/2024
-- 🌈 [CLB nữ Thái Nguyên chiêu mộ thêm ba Quả Bóng Vàng](https://vnexpress.net/clb-nu-thai-nguyen-chieu-mo-them-ba-qua-bong-vang-4798569.html) - 07:42 30/09/2024
-- 🦩 [7 điểm nhấn của vòng sáu Ngoại hạng Anh](https://vnexpress.net/7-diem-nhan-cua-vong-sau-ngoai-hang-anh-4798465.html) - 07:09 30/09/2024
-- 🐲 [Vì sao Man Utd thảm bại trước Tottenham?](https://vnexpress.net/vi-sao-man-utd-tham-bai-truoc-tottenham-4798432.html) - 06:53 30/09/2024
-- 🌁 [Hàng loạt cao thủ cờ tướng Trung Quốc nguy cơ bị cấm thi đấu](https://vnexpress.net/hang-loat-cao-thu-co-tuong-trung-quoc-nguy-co-bi-cam-thi-dau-4798501.html) - 06:42 30/09/2024
-- 💯 [HLV Simeone tố Courtois khiêu khích CĐV Atletico](https://vnexpress.net/hlv-simeone-to-courtois-khieu-khich-cdv-atletico-4798395.html) - 05:36 30/09/2024
-- 🌝 [Runner Kenya lỡ chức vô địch Berlin Marathon vì bung sức sớm](https://vnexpress.net/runner-kenya-lo-chuc-vo-dich-berlin-marathon-vi-bung-suc-som-4798512.html) - 05:30 30/09/2024
-- 🤖 [DNSE đồng hành với Aquaman Vietnam năm thứ hai](https://vnexpress.net/dnse-dong-hanh-voi-aquaman-vietnam-nam-thu-hai-4792198.html) - 04:30 30/09/2024
+- 🪜 [Hành trình vươn tới ngôi vô địch VBA của Nguyễn Huỳnh Phú Vinh](https://vnexpress.net/hanh-trinh-vuon-toi-ngoi-vo-dich-vba-cua-nguyen-huynh-phu-vinh-4799007.html) - 08:00 01/10/2024
+- 🦩 [Vì sao &#39;Vua cờ tướng&#39; Vương Thiên Nhất mua bán độ?](https://vnexpress.net/vi-sao-vua-co-tuong-vuong-thien-nhat-mua-ban-do-4798728.html) - 05:25 01/10/2024
+- 🧰 [Nguyễn Huỳnh Phú Vinh sẽ xuất hiện tại &#39;Sống vươn đỉnh&#39;](https://vnexpress.net/nguyen-huynh-phu-vinh-se-xuat-hien-tai-song-vuon-dinh-4798807.html) - 03:00 01/10/2024
+- 🤗 [Harry Kane bị chê mờ nhạt trong các trận cầu lớn](https://vnexpress.net/harry-kane-bi-che-mo-nhat-trong-cac-tran-cau-lon-4798720.html) - 02:14 01/10/2024
+- 🥳 [Ronaldo suýt trở lại Man Utd trước khi Ferguson giải nghệ](https://vnexpress.net/ronaldo-suyt-tro-lai-man-utd-truoc-khi-ferguson-giai-nghe-4798721.html) - 01:32 01/10/2024
+- 🦣 [Dembele bị loại khỏi trận gặp Arsenal vì cãi HLV Enrique](https://vnexpress.net/dembele-bi-loai-khoi-tran-gap-arsenal-vi-cai-hlv-enrique-4798719.html) - 01:21 01/10/2024
+- 🌜 [Hà Hậu tham dự giải chạy 160km lâu đời nhất thế giới](https://vnexpress.net/ha-hau-tham-du-giai-chay-160km-lau-doi-nhat-the-gioi-4798717.html) - 01:21 01/10/2024
+- 🫶 [Alcaraz đấu Medvedev ở bán kết Trung Quốc Mở rộng](https://vnexpress.net/alcaraz-dau-medvedev-o-ban-ket-trung-quoc-mo-rong-4798724.html) - 23:33 30/09/2024
+- 🌜 [Arteta: &#39;Gặp PSG là cơ hội để kiểm chứng năng lực&#39;](https://vnexpress.net/arteta-gap-psg-la-co-hoi-de-kiem-chung-nang-luc-4798718.html) - 23:32 30/09/2024
+- 😺 [Sancho không bất ngờ khi Palmer lập poker](https://vnexpress.net/sancho-khong-bat-ngo-khi-palmer-lap-poker-4798620.html) - 23:07 30/09/2024
+- 👍 [Ronaldo giúp Al Nassr thắng trận đầu tại AFC Champions League](https://vnexpress.net/ronaldo-giup-al-nassr-thang-tran-dau-tai-afc-champions-league-4798712.html) - 21:56 30/09/2024
+- 🐵 [Công an Hà Nội thoát thẻ đỏ trong trận thắng Bình Dương](https://vnexpress.net/cong-an-ha-noi-thoat-the-do-trong-tran-thang-binh-duong-4798693.html) - 14:51 30/09/2024
+- 💫 [Hai trận tới định đoạt tương lai Ten Hag](https://vnexpress.net/hai-tran-toi-dinh-doat-tuong-lai-ten-hag-4798676.html) - 12:25 30/09/2024
+- 🦆 [Nữ cơ thủ Việt Nam bức xúc vì phải tự bỏ tiền đi thi đấu nước ngoài](https://vnexpress.net/nu-co-thu-viet-nam-buc-xuc-vi-phai-tu-bo-tien-di-thi-dau-nuoc-ngoai-4798350.html) - 09:55 30/09/2024
+- 🙉 [Barca chiêu mộ thủ môn đã giải nghệ để thay Ter Stegen](https://vnexpress.net/barca-chieu-mo-thu-mon-da-giai-nghe-de-thay-ter-stegen-4798591.html) - 09:26 30/09/2024
+- 📝 [Cơ thủ Thanh Lực tiếc vì không thể giữ Cup ở lại Việt Nam](https://vnexpress.net/co-thu-thanh-luc-tiec-vi-khong-the-giu-cup-o-lai-viet-nam-4798527.html) - 09:21 30/09/2024
+- 💯 [Alcaraz không ủng hộ việc xét xử lại Sinner](https://vnexpress.net/alcaraz-khong-ung-ho-viec-xet-xu-lai-sinner-4798599.html) - 08:41 30/09/2024
+- 🌈 [Lý do Hồ Tràm được chọn là điểm tổ chức DNSE Aquaman Vietnam](https://vnexpress.net/ly-do-ho-tram-duoc-chon-la-diem-to-chuc-dnse-aquaman-vietnam-4797750.html) - 08:31 30/09/2024
+- 🦩 [CLB nữ Thái Nguyên chiêu mộ thêm ba Quả Bóng Vàng](https://vnexpress.net/clb-nu-thai-nguyen-chieu-mo-them-ba-qua-bong-vang-4798569.html) - 07:42 30/09/2024
+- 🐲 [7 điểm nhấn của vòng sáu Ngoại hạng Anh](https://vnexpress.net/7-diem-nhan-cua-vong-sau-ngoai-hang-anh-4798465.html) - 07:09 30/09/2024
+- 🌁 [Vì sao Man Utd thảm bại trước Tottenham?](https://vnexpress.net/vi-sao-man-utd-tham-bai-truoc-tottenham-4798432.html) - 06:53 30/09/2024
+- 💯 [Hàng loạt cao thủ cờ tướng Trung Quốc nguy cơ bị cấm thi đấu](https://vnexpress.net/hang-loat-cao-thu-co-tuong-trung-quoc-nguy-co-bi-cam-thi-dau-4798501.html) - 06:42 30/09/2024
+- 🌝 [HLV Simeone tố Courtois khiêu khích CĐV Atletico](https://vnexpress.net/hlv-simeone-to-courtois-khieu-khich-cdv-atletico-4798395.html) - 05:36 30/09/2024
+- 🤖 [Runner Kenya lỡ chức vô địch Berlin Marathon vì bung sức sớm](https://vnexpress.net/runner-kenya-lo-chuc-vo-dich-berlin-marathon-vi-bung-suc-som-4798512.html) - 05:30 30/09/2024
 - 🕯 [Carlsen lỡ chiếu hết, bỏ hậu vẫn thắng Firouzja](https://vnexpress.net/carlsen-lo-chieu-het-bo-hau-van-thang-firouzja-4798455.html) - 04:17 30/09/2024
 - 🧰 [Giải hai môn phối hợp DNSE Aquaman Vietnam 2024 mở đăng ký](https://vnexpress.net/giai-hai-mon-phoi-hop-dnse-aquaman-vietnam-2024-mo-dang-ky-4797314.html) - 04:15 30/09/2024
 - 🥳 [Mourinho dùng laptop để phản đối trọng tài](https://vnexpress.net/mourinho-dung-laptop-de-phan-doi-trong-tai-4798376.html) - 03:22 30/09/2024
