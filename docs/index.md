@@ -145,7 +145,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [NÓNG: Israel báo động bị tên lửa Iran tấn công](https://thanhnien.vn/nong-israel-bao-dong-bi-ten-lua-iran-tan-cong-185241001234808502.htm) - 16:47 01/10/2024
+- 🤠 [NÓNG: Hơn 100 tên lửa Iran tấn công Israel](https://thanhnien.vn/nong-israel-bao-dong-bi-ten-lua-iran-tan-cong-185241001234808502.htm) - 16:47 01/10/2024
 - 🥸 [Đặc xá khởi đầu con đường hướng thiện cho người từng lầm lỡ](https://thanhnien.vn/dac-xa-khoi-dau-con-duong-huong-thien-cho-nguoi-tung-lam-lo-185241001221732185.htm) - 16:31 01/10/2024
 - 🌁 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 2.10.2024](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-2102024-185240930230400632.htm) - 16:26 01/10/2024
 - 🤡 [Chuyến ngao du ẩm thực về duyên hải miền Trung: Quảng Ngãi, Bình Định, Phú Yên](https://thanhnien.vn/thoi-trang-tre/chuyen-ngao-du-am-thuc-ve-duyen-hai-mien-trung-quang-ngai-binh-dinh-phu-yen-185241001152728116.htm) - 16:18 01/10/2024
