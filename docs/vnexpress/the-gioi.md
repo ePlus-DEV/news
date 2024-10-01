@@ -7,7 +7,7 @@ sidebar_position: 2
 - 🎭 [Sai lầm của Hezbollah trong cuộc đối đầu với Israel](https://vnexpress.net/sai-lam-cua-hezbollah-trong-cuoc-doi-dau-voi-israel-4798357.html) - 22:00 01/10/2024
 - 🕴 [Mark Rutte - tân Tổng thư ký từng giúp NATO &#39;thoát hiểm&#39;](https://vnexpress.net/mark-rutte-tan-tong-thu-ky-tung-giup-nato-thoat-hiem-4762966.html) - 17:41 01/10/2024
 - 🤭 [Mỹ điều thêm loạt tiêm kích, cường kích đến Trung Đông](https://vnexpress.net/my-dieu-them-loat-tiem-kich-cuong-kich-den-trung-dong-4799154.html) - 16:13 01/10/2024
-- 🧑‍💻 [Iran phóng tên lửa đạn đạo vào Israel](https://vnexpress.net/iran-phong-ten-lua-dan-dao-vao-israel-4799133.html) - 14:06 01/10/2024
+- 🧑‍💻 [Iran phóng hơn 180 tên lửa đạn đạo vào Israel](https://vnexpress.net/iran-phong-hon-180-ten-lua-dan-dao-vao-israel-4799133.html) - 14:06 01/10/2024
 - 🦏 [Con sông trở thành tâm điểm trong xung đột Israel - Hezbollah](https://vnexpress.net/con-song-tro-thanh-tam-diem-trong-xung-dot-israel-hezbollah-4798886.html) - 13:00 01/10/2024
 - 🦒 [Hezbollah nói chưa giao tranh với quân Israel bên trong Lebanon](https://vnexpress.net/hezbollah-noi-chua-giao-tranh-voi-quan-israel-ben-trong-lebanon-4799108.html) - 12:26 01/10/2024
 - 🌈 [Cuốc bộ 48 km sau bão Helene để dắt con gái vào lễ đường](https://vnexpress.net/cuoc-bo-48-km-sau-bao-helene-de-dat-con-gai-vao-le-duong-4799074.html) - 11:42 01/10/2024
