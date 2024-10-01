@@ -8,7 +8,7 @@ sidebar_position: 7
 - 🦆 [UNICEF: Giáo dục STEAM khuyến khích nữ sinh tự tin hơn](https://vnexpress.net/unicef-giao-duc-steam-khuyen-khich-nu-sinh-tu-tin-hon-4798766.html) - 02:00 01/10/2024
 - 🦩 [7 điểm đến du học người Việt chuộng nhất](https://vnexpress.net/7-diem-den-du-hoc-nguoi-viet-chuong-nhat-4798665.html) - 23:03 30/09/2024
 - 🌮 [Chọn ngành Răng Hàm Mặt hay Kinh tế?](https://vnexpress.net/chon-nganh-rang-ham-mat-hay-kinh-te-4798659.html) - 16:58 30/09/2024
-- 🔭 [Thêm địa phương miễn học phí cho tất cả học sinh](https://vnexpress.net/them-dia-phuong-mien-hoc-phi-cho-tat-ca-hoc-sinh-4798679.html) - 13:42 30/09/2024
+- 🔭 [Yên Bái miễn học phí cho tất cả học sinh](https://vnexpress.net/yen-bai-mien-hoc-phi-cho-tat-ca-hoc-sinh-4798679.html) - 13:42 30/09/2024
 - 💡 [Tỉnh miền Bắc nào mới có thành phố thứ 5?](https://vnexpress.net/tinh-mien-bac-nao-moi-co-thanh-pho-thu-5-4798657.html) - 13:08 30/09/2024
 - 🥰 [Vinschool trao học bổng cho 30 học sinh vượt khó](https://vnexpress.net/vinschool-trao-hoc-bong-cho-30-hoc-sinh-vuot-kho-4798667.html) - 13:00 30/09/2024
 - 🐲 [Cách giáo dục trẻ về quản lý tài chính](https://vnexpress.net/cach-giao-duc-tre-ve-quan-ly-tai-chinh-4798577.html) - 08:15 30/09/2024
