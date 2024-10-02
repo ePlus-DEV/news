@@ -6,7 +6,7 @@ sidebar_position: 28
 <!-- dantri-photo-story:START -->
 - 💪 [Hiện trạng khu &quot;đất vàng&quot; bán đảo hồ Đống Đa](https://dantri.com.vn/xa-hoi/hien-trang-khu-dat-vang-ban-dao-ho-dong-da-20241001174939283.htm) - 04:35 02/10/2024
 - 🧰 [Mưa lũ tàn phá, vùi lấp nhiều nhà dân ở huyện biên giới Nghệ An](https://dantri.com.vn/xa-hoi/mua-lu-tan-pha-vui-lap-nhieu-nha-dan-o-huyen-bien-gioi-nghe-an-20241002093357783.htm) - 04:04 02/10/2024
-- 🧰 [Hà Nội se lạnh trong buổi sáng đầu đông](https://dantri.com.vn/xa-hoi/ha-noi-se-lanh-trong-buoi-sang-dau-dong-20241002102843398.htm) - 03:35 02/10/2024
+- 🧰 [Hà Nội se lạnh trong buổi sáng mùa thu](https://dantri.com.vn/xa-hoi/ha-noi-se-lanh-trong-buoi-sang-mua-thu-20241002102843398.htm) - 03:35 02/10/2024
 - 😎 [Làng bè sắc màu độc lạ ở miền Tây](https://dantri.com.vn/du-lich/lang-be-sac-mau-doc-la-o-mien-tay-20241002011219753.htm) - 02:22 02/10/2024
 - 🎓 [Người miền Tây kéo nhau đi tắm, ngồi liên hoan giữa cánh đồng nước nổi](https://dantri.com.vn/doi-song/nguoi-mien-tay-keo-nhau-di-tam-ngoi-lien-hoan-giua-canh-dong-nuoc-noi-20241002001646760.htm) - 23:58 01/10/2024
 - 🙉 [22 ngày cô lập do lũ, người Hà Nội đi thuyền ở sân, đưa tang bằng máy cày](https://dantri.com.vn/doi-song/22-ngay-co-lap-do-lu-nguoi-ha-noi-di-thuyen-o-san-dua-tang-bang-may-cay-20241002010038855.htm) - 23:22 01/10/2024
