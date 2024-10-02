@@ -29,7 +29,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [Israel thừa nhận tên lửa Iran đánh trúng căn cứ quân sự](https://vnexpress.net/israel-thua-nhan-ten-lua-iran-danh-trung-can-cu-quan-su-4799561.html) - 15:47 02/10/2024
 - 🧰 [Alcaraz lập hat-trick thắng Sinner](https://vnexpress.net/alcaraz-lap-hat-trick-thang-sinner-4799569.html) - 15:45 02/10/2024
 - 🥰 [Phóng tên lửa, thả bom trong diễn tập khu vực phòng thủ TP Hà Nội](https://vnexpress.net/phong-ten-lua-tha-bom-trong-dien-tap-khu-vuc-phong-thu-tp-ha-noi-4799547.html) - 15:42 02/10/2024
-- 🌏 [Quả bom Mỹ hơn 200 kg phát nổ ở sân bay Nhật](https://vnexpress.net/qua-bom-my-hon-200-kg-phat-no-o-san-bay-nhat-4799562.html) - 15:42 02/10/2024
+- 🌏 [Quả bom Mỹ hơn 220 kg phát nổ ở sân bay Nhật](https://vnexpress.net/qua-bom-my-hon-220-kg-phat-no-o-san-bay-nhat-4799562.html) - 15:42 02/10/2024
 - 🧐 [Nam Định bị CLB Thái Lan cưa điểm ở Cup C2 châu Á](https://vnexpress.net/nam-dinh-bi-clb-thai-lan-cua-diem-o-cup-c2-chau-a-4799565.html) - 15:23 02/10/2024
 - 💫 [Rivaldo: &#39;Hàng công Real chịu sức ép phải vượt qua đàn anh&#39;](https://vnexpress.net/rivaldo-hang-cong-real-chiu-suc-ep-phai-vuot-qua-dan-anh-4799551.html) - 14:35 02/10/2024
 - 😺 [Trung Quốc kiện Canada vì áp thuế xe điện](https://vnexpress.net/trung-quoc-kien-canada-vi-ap-thue-xe-dien-4799560.html) - 14:34 02/10/2024
