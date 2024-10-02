@@ -74,9 +74,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧑‍🏫 [Đường Tăng La Gia Anh &#39;không bao giờ làm việc nhà&#39;](https://vnexpress.net/duong-tang-la-gia-anh-khong-bao-gio-lam-viec-nha-4799437.html) - 11:00 02/10/2024
 - 🎓 [5 cách giúp trẻ ăn ngon, tiêu hóa tốt](https://vnexpress.net/5-cach-giup-tre-an-ngon-tieu-hoa-tot-4799350.html) - 11:00 02/10/2024
 - 💫 [4 cách bảo vệ phổi khi thời tiết thay đổi](https://vnexpress.net/4-cach-bao-ve-phoi-khi-thoi-tiet-thay-doi-4799302.html) - 11:00 02/10/2024
-- 🤩 [Rút báo động lũ sông Bùi, ngoại thành Hà Nội hết ngập](https://vnexpress.net/rut-bao-dong-lu-song-bui-ngoai-thanh-ha-noi-het-ngap-4799512.html) - 10:48 02/10/2024
+- 🤩 [Lũ sông Bùi rút, ngoại thành Hà Nội hết ngập](https://vnexpress.net/lu-song-bui-rut-ngoai-thanh-ha-noi-het-ngap-4799512.html) - 10:48 02/10/2024
 - 🏊 [Trưởng BQL Khu công nghệ cao TP HCM bị cách tất cả chức vụ trong Đảng](https://vnexpress.net/truong-bql-khu-cong-nghe-cao-tp-hcm-bi-cach-tat-ca-chuc-vu-trong-dang-4799518.html) - 10:34 02/10/2024
-- 💂 [Điểm tin 17h: Việt Nam nhập khẩu gạo kỷ lục | Iran tuyên bố phóng tên lửa siêu vượt âm, &#39;90% trúng mục tiêu&#39; ở Israel](https://vnexpress.net/diem-tin-17h-viet-nam-nhap-khau-gao-ky-luc-iran-tuyen-bo-phong-ten-lua-sieu-vuot-am-90-trung-muc-tieu-o-israel-4799500.html) - 10:18 02/10/2024
+- 💂 [Điểm tin: Việt Nam nhập khẩu gạo kỷ lục | Iran tuyên bố phóng tên lửa siêu vượt âm, &#39;90% trúng mục tiêu&#39; ở Israel](https://vnexpress.net/diem-tin-viet-nam-nhap-khau-gao-ky-luc-iran-tuyen-bo-phong-ten-lua-sieu-vuot-am-90-trung-muc-tieu-o-israel-4799500.html) - 10:18 02/10/2024
 - 🚀 [Xe tải bị cuốn trôi khi qua đập tràn ở Đà Lạt](https://vnexpress.net/xe-tai-bi-cuon-troi-khi-qua-dap-tran-o-da-lat-4799502.html) - 10:18 02/10/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
