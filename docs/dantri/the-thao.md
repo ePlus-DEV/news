@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Lamine Yamal tạo nên kỷ lục khó phá vỡ ở Champions League](https://dantri.com.vn/the-thao/lamine-yamal-tao-nen-ky-luc-kho-pha-vo-o-champions-league-20241002192111431.htm) - 12:21 02/10/2024
+- 🎡 [Lamine Yamal tạo nên kỷ lục khó phá vỡ ở Champions League](https://dantri.com.vn/the-thao/lamine-yamal-tao-nen-ky-luc-kho-pha-vo-o-champions-league-20241002192111431.htm) - 13:01 02/10/2024
 - 💯 [CĐV Indonesia xuống đường biểu tình, phản đối đội nhà nhập tịch &quot;vô tội vạ&quot;](https://dantri.com.vn/the-thao/cdv-indonesia-xuong-duong-bieu-tinh-phan-doi-doi-nha-nhap-tich-vo-toi-va-20241002190301010.htm) - 12:03 02/10/2024
 - ⛽️ [Tình huống đá phạt thông minh, khiến CĐV thán phục ở Champions League](https://dantri.com.vn/the-thao/tinh-huong-da-phat-thong-minh-khien-cdv-than-phuc-o-champions-league-20241002174306014.htm) - 11:40 02/10/2024
 - 💃 [Những khoảnh khắc bùng nổ tại Aqua Warriors Vân Đồn 2024](https://dantri.com.vn/the-thao/nhung-khoanh-khac-bung-no-tai-aqua-warriors-van-don-2024-20241002162044682.htm) - 09:35 02/10/2024
