@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Vì sao du lịch Việt nhận nhiều giải thưởng nhưng chưa hút khách?](https://vnexpress.net/vi-sao-du-lich-viet-nhan-nhieu-giai-thuong-nhung-chua-hut-khach-4797659.html) - 23:09 01/10/2024
+- 💂 [Vì sao du lịch Việt nhận &#39;mưa&#39; giải thưởng nhưng chưa hút khách?](https://vnexpress.net/vi-sao-du-lich-viet-nhan-mua-giai-thuong-nhung-chua-hut-khach-4797659.html) - 23:09 01/10/2024
 - 🪄 [Người dân Hội An chưa mặn mà đón khách ăn ở cùng](https://vnexpress.net/nguoi-dan-hoi-an-chua-man-ma-don-khach-an-o-cung-4798884.html) - 12:43 01/10/2024
 - 🦅 [SECC nhận nhiều giải thưởng quốc tế 2024](https://vnexpress.net/secc-nhan-nhieu-giai-thuong-quoc-te-2024-4798773.html) - 08:30 01/10/2024
 - 🕴 [Hơn 1,9 tỷ chuyến đi dịp Tuần lễ Vàng ở Trung Quốc](https://vnexpress.net/hon-1-9-ty-chuyen-di-dip-tuan-le-vang-o-trung-quoc-4798785.html) - 07:41 01/10/2024
