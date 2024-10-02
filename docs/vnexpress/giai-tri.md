@@ -12,7 +12,7 @@ sidebar_position: 5
 - ⚗️ [Viện Phim số hóa 600-700 phim nhựa mỗi năm](https://vnexpress.net/vien-phim-so-hoa-600-700-phim-nhua-moi-nam-4799218.html) - 09:17 02/10/2024
 - 😎 [Cillian Murphy trở lại đóng &#39;Peaky Blinders&#39;](https://vnexpress.net/cillian-murphy-tro-lai-dong-peaky-blinders-4799079.html) - 09:11 02/10/2024
 - 🫣 [Ngọc Trinh tạo dáng với đầm cánh bướm, xuyên thấu](https://vnexpress.net/ngoc-trinh-tao-dang-voi-dam-canh-buom-xuyen-thau-4799360.html) - 08:27 02/10/2024
-- 🪄 [Nhà văn Nguyễn Khắc Trường qua đời](https://vnexpress.net/nha-van-nguyen-khac-truong-qua-doi-4799379.html) - 07:07 02/10/2024
+- 🪄 [Tác giả tiểu thuyết &#39;Mảnh đất lắm người nhiều ma&#39; qua đời](https://vnexpress.net/tac-gia-tieu-thuyet-manh-dat-lam-nguoi-nhieu-ma-qua-doi-4799379.html) - 07:07 02/10/2024
 - 🤓 [Lưu Gia Linh, Lương Triều Vỹ quay lại nơi tổ chức hôn lễ](https://vnexpress.net/luu-gia-linh-luong-trieu-vy-quay-lai-noi-to-chuc-hon-le-4799316.html) - 05:08 02/10/2024
 - 🫶 [Lưu Diệc Phi, Lisa khoe phong cách ở tuần thời trang Paris](https://vnexpress.net/luu-diec-phi-lisa-khoe-phong-cach-o-tuan-thoi-trang-paris-4799243.html) - 03:48 02/10/2024
 - 🧑‍🏫 [Selena Gomez diện váy xẻ ngực của Công Trí](https://vnexpress.net/selena-gomez-dien-vay-xe-nguc-cua-cong-tri-4799271.html) - 03:46 02/10/2024
