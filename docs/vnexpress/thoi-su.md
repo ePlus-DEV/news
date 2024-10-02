@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Dự kiến vị trí 26 ga đường sắt tốc độ cao Bắc Nam](https://vnexpress.net/du-kien-vi-tri-26-ga-duong-sat-toc-do-cao-bac-nam-4799477.html) - 17:00 02/10/2024
+- 🦒 [Đề xuất vị trí 26 ga đường sắt tốc độ cao Bắc Nam](https://vnexpress.net/de-xuat-vi-tri-26-ga-duong-sat-toc-do-cao-bac-nam-4799477.html) - 17:00 02/10/2024
 - 🤓 [Phóng tên lửa, thả bom trong diễn tập khu vực phòng thủ TP Hà Nội](https://vnexpress.net/phong-ten-lua-tha-bom-trong-dien-tap-khu-vuc-phong-thu-tp-ha-noi-4799547.html) - 15:42 02/10/2024
 - ⚗️ [&#39;Tiến tới khám chữa bệnh bảo hiểm y tế không phụ thuộc địa giới hành chính&#39;](https://vnexpress.net/tien-toi-kham-chua-benh-bao-hiem-y-te-khong-phu-thuoc-dia-gioi-hanh-chinh-4799552.html) - 13:44 02/10/2024
 - 🌊 [Ba nguyên Bí thư Tỉnh ủy bị đề nghị kỷ luật](https://vnexpress.net/ba-nguyen-bi-thu-tinh-uy-bi-de-nghi-ky-luat-4799546.html) - 12:19 02/10/2024
