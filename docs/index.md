@@ -32,7 +32,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌏 [Dấu hiệu nhận biết sớm bệnh trào ngược dạ dày](https://vnexpress.net/dau-hieu-nhan-biet-som-benh-trao-nguoc-da-day-4798307.html) - 17:02 02/10/2024
 - 🧐 [Con rồng tiết lộ điều gì đang khiến bạn lo lắng](https://vnexpress.net/con-rong-tiet-lo-dieu-gi-dang-khien-ban-lo-lang-4799319.html) - 17:01 02/10/2024
 - 💫 [Số phận trái ngược của hai anh em &#39;người hùng và ác quỷ&#39;](https://vnexpress.net/so-phan-trai-nguoc-cua-hai-anh-em-nguoi-hung-va-ac-quy-4799516.html) - 17:00 02/10/2024
-- 😺 [Dự kiến vị trí 26 ga đường sắt tốc độ cao Bắc Nam](https://vnexpress.net/du-kien-vi-tri-26-ga-duong-sat-toc-do-cao-bac-nam-4799477.html) - 17:00 02/10/2024
+- 😺 [Đề xuất vị trí 26 ga đường sắt tốc độ cao Bắc Nam](https://vnexpress.net/de-xuat-vi-tri-26-ga-duong-sat-toc-do-cao-bac-nam-4799477.html) - 17:00 02/10/2024
 - 🕯 [Nhiều ưu điểm nhưng không tự tin cưới được bạn gái](https://vnexpress.net/nhieu-uu-diem-nhung-khong-tu-tin-cuoi-duoc-ban-gai-4799470.html) - 17:00 02/10/2024
 - 💃 [Tôi không mừng cưới nhiều dù cô dâu chú rể đãi tiệc sang](https://vnexpress.net/toi-khong-mung-cuoi-nhieu-du-co-dau-chu-re-dai-tiec-sang-4799443.html) - 17:00 02/10/2024
 - 💂 [Chờ ngày anh tìm thấy em](https://vnexpress.net/cho-ngay-anh-tim-thay-em-4799320.html) - 17:00 02/10/2024
