@@ -4,7 +4,7 @@ sidebar_position: 27
 ---
 
 <!-- dantri-dmagazine:START -->
-- 👨‍🏫 [Từ Schillaci đến Rodri: Giấc mơ bóng đá đẹp và cỗ máy kiếm tiền](https://dantri.com.vn/the-thao/tu-schillaci-den-rodri-giac-mo-bong-da-dep-va-co-may-kiem-tien-20240928140738854.htm) - 05:30 02/10/2024
+- 👨‍🏫 [Từ Schillaci đến Rodri: Giấc mơ bóng đá đẹp và cỗ máy kiếm tiền](https://dantri.com.vn/the-thao/tu-schillaci-den-rodri-giac-mo-bong-da-dep-va-co-may-kiem-tien-20240928140738854.htm) - 09:30 02/10/2024
 - 🎡 [Những cuộc đời được hồi sinh và giấc mơ về trung tâm ghép phổi vùng](https://dantri.com.vn/suc-khoe/nhung-cuoc-doi-duoc-hoi-sinh-va-giac-mo-ve-trung-tam-ghep-phoi-vung-20240926103115234.htm) - 21:30 27/09/2024
 - 😎 [Canh bạc của Barcelona để nâng tầm Lamine Yamal vượt qua Messi, Ronaldo](https://dantri.com.vn/the-thao/canh-bac-cua-barcelona-de-nang-tam-lamine-yamal-vuot-qua-messi-ronaldo-20240923180613588.htm) - 05:22 26/09/2024
 - 🦍 [Theo dấu 16 bảo vật quốc gia được bảo vệ cẩn mật tại TPHCM](https://dantri.com.vn/xa-hoi/theo-dau-16-bao-vat-quoc-gia-duoc-bao-ve-can-mat-tai-tphcm-20240907175103807.htm) - 22:26 24/09/2024
