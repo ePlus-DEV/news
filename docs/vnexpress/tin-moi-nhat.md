@@ -54,4 +54,5 @@ sidebar_position: 9
 - 🐎 [5 mẹo &#39;đánh bay&#39; nỗi buồn](https://vnexpress.net/5-meo-danh-bay-noi-buon-4799414.html) - 07:45 02/10/2024
 - 🏊 [Xe tải, xe khách lắp dải đèn LED xung quanh có bị phạt?](https://vnexpress.net/xe-tai-xe-khach-lap-dai-den-led-xung-quanh-co-bi-phat-4799226.html) - 07:45 02/10/2024
 - 🦩 [HLV của Liverpool không xem Man Utd là đối thủ lớn](https://vnexpress.net/hlv-cua-liverpool-khong-xem-man-utd-la-doi-thu-lon-4799411.html) - 07:43 02/10/2024
-- 👍 [Nghịch lý mua iPhone ở thị trường Việt Nam](https://vnexpress.net/nghich-ly-mua-iphone-o-thi-truong-viet-nam-4798918.html) - 07:42 02/10/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 👍 [Nghịch lý mua iPhone ở thị trường Việt Nam](https://vnexpress.net/nghich-ly-mua-iphone-o-thi-truong-viet-nam-4798918.html) - 07:42 02/10/2024
+- 🔥 [Israel sẽ làm gì sau đòn tập kích tên lửa của Iran](https://vnexpress.net/israel-se-lam-gi-sau-don-tap-kich-ten-lua-cua-iran-4799200.html) - 07:31 02/10/2024<!-- vnexpress-tin-moi-nhat:END -->
