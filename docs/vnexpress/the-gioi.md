@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Israel sẽ làm gì sau đòn tập kích tên lửa của Iran](https://vnexpress.net/israel-se-lam-gi-sau-don-tap-kich-ten-lua-cua-iran-4799200.html) - 07:31 02/10/2024
 - 🕴 [Người Israel cầu nguyện trong hầm trú bom khi Iran tập kích](https://vnexpress.net/nguoi-israel-cau-nguyen-trong-ham-tru-bom-khi-iran-tap-kich-4799230.html) - 06:52 02/10/2024
-- 🤭 [Đại giáo chủ Iran: Chúng ta sắp chiến thắng](https://vnexpress.net/dai-giao-chu-iran-chung-ta-sap-chien-thang-4799337.html) - 05:09 02/10/2024
+- 🤭 [Lãnh tụ tối cao Iran: Chúng ta sắp chiến thắng](https://vnexpress.net/lanh-tu-toi-cao-iran-chung-ta-sap-chien-thang-4799337.html) - 05:09 02/10/2024
 - 🧑‍💻 [Khoảnh khắc Israel đánh chặn loạt tên lửa đạn đạo Iran](https://vnexpress.net/khoanh-khac-israel-danh-chan-loat-ten-lua-dan-dao-iran-4799221.html) - 04:42 02/10/2024
 - 🦏 [Tài xế bỏ trốn khi xe buýt chở học sinh Thái Lan bốc cháy](https://vnexpress.net/tai-xe-bo-tron-khi-xe-buyt-cho-hoc-sinh-thai-lan-boc-chay-4799250.html) - 04:27 02/10/2024
 - 🦒 [Lý do bang Mỹ thiệt hại thảm khốc vì bão Helene](https://vnexpress.net/ly-do-bang-my-thiet-hai-tham-khoc-vi-bao-helene-4798943.html) - 03:59 02/10/2024
