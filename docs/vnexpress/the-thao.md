@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [HAGL giữ đỉnh bảng sau trận cầu tranh cãi ở V-League](https://vnexpress.net/hagl-giu-dinh-bang-sau-tran-cau-tranh-cai-o-v-league-4799994.html) - 13:47 03/10/2024
-- 🦩 [Cơ thủ Thanh Lực về nhì Siêu Cup Phúc Thịnh](https://vnexpress.net/co-thu-thanh-luc-ve-nhi-sieu-cup-phuc-thinh-4799975.html) - 12:09 03/10/2024
+- 🦩 [Cơ thủ Thanh Lực lỡ cơ hội vô địch ở Siêu Cup Phúc Thịnh](https://vnexpress.net/co-thu-thanh-luc-lo-co-hoi-vo-dich-o-sieu-cup-phuc-thinh-4799975.html) - 12:09 03/10/2024
 - 🧰 [HLV Porto muốn uống rượu với Ten Hag](https://vnexpress.net/hlv-porto-muon-uong-ruou-voi-ten-hag-4799986.html) - 11:58 03/10/2024
 - 🤗 [Lịch giao hữu tháng 10 của tuyển Việt Nam bị ảnh hưởng](https://vnexpress.net/lich-giao-huu-thang-10-cua-tuyen-viet-nam-bi-anh-huong-4799929.html) - 11:00 03/10/2024
 - 🥳 [&#39;Treo còi&#39; trọng tài không rút thẻ đỏ với cầu thủ CAHN](https://vnexpress.net/treo-coi-trong-tai-khong-rut-the-do-voi-cau-thu-cahn-4799913.html) - 08:59 03/10/2024
