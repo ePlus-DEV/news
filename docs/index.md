@@ -212,46 +212,46 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Truy tìm chủ đầu tư trồng cây còn nguyên bọc bầu ở Hà Nội](https://laodong.vn/ban-doc/truy-tim-chu-dau-tu-trong-cay-con-nguyen-boc-bau-o-ha-noi-1402924.ldo) - 08:49 03/10/2024
-- 📝 [Khẩn trương tu bổ di tích quốc gia đổ sập do bão ở Hải Phòng](https://laodong.vn/van-hoa-giai-tri/khan-truong-tu-bo-di-tich-quoc-gia-do-sap-do-bao-o-hai-phong-1402918.ldo) - 08:46 03/10/2024
-- 🦏 [Thủ tướng sẽ dự Hội nghị Cấp cao ASEAN tại Lào](https://laodong.vn/thoi-su/thu-tuong-se-du-hoi-nghi-cap-cao-asean-tai-lao-1402947.ldo) - 08:42 03/10/2024
-- 🦩 [Lý do khiến 50.000-60.000 lao động rời Đồng Nai về các tỉnh](https://laodong.vn/cong-doan/ly-do-khien-50000-60000-lao-dong-roi-dong-nai-ve-cac-tinh-1402940.ldo) - 08:38 03/10/2024
-- 🦏 [Sạt lở, hàng tấn đất đá đổ xuống đèo Prenn ở Đà Lạt](https://laodong.vn/xa-hoi/sat-lo-hang-tan-dat-da-do-xuong-deo-prenn-o-da-lat-1402922.ldo) - 08:32 03/10/2024
-- 🧰 [Phụ công Lê Thanh Thúy hối tiếc vì không gặp mặt bố lần cuối](https://laodong.vn/gia-dinh-hon-nhan/phu-cong-le-thanh-thuy-hoi-tiec-vi-khong-gap-mat-bo-lan-cuoi-1402832.ldo) - 08:27 03/10/2024
-- 🌊 [Chờ thoát cảnh nhếch nhác trước chợ đầu mối lớn nhất Cần Thơ](https://laodong.vn/ban-doc/cho-thoat-canh-nhech-nhac-truoc-cho-dau-moi-lon-nhat-can-tho-1402862.ldo) - 08:15 03/10/2024
-- 🔥 [Giá nông sản hôm nay 3.10: Giá cà phê giảm mạnh 4.500 VNĐ/kg](https://laodong.vn/video/gia-nong-san-hom-nay-310-gia-ca-phe-giam-manh-4500-vndkg-1402915.ldo) - 08:12 03/10/2024
-- 🦒 [Dự đoán tỉ số trận Porto vs Man United tại Europa League](https://laodong.vn/bong-da-quoc-te/du-doan-ti-so-tran-porto-vs-man-united-tai-europa-league-1402912.ldo) - 08:08 03/10/2024
-- 💼 [Người bị hội chứng IBS có nên ăn dưa hấu không?](https://laodong.vn/suc-khoe/nguoi-bi-hoi-chung-ibs-co-nen-an-dua-hau-khong-1402914.ldo) - 08:07 03/10/2024
-- 🤖 [Người có chỉ số đường huyết cao có nên ăn củ sắn không?](https://laodong.vn/ban-tin/nguoi-co-chi-so-duong-huyet-cao-co-nen-an-cu-san-khong-1402717.ldo) - 08:03 03/10/2024
-- 💪 [Hơn 200 cán bộ Công đoàn TP Hồng Ngự dự bồi dưỡng nghiệp vụ](https://laodong.vn/ldld-dong-thap/hon-200-can-bo-cong-doan-tp-hong-ngu-du-boi-duong-nghiep-vu-1402935.ldo) - 08:03 03/10/2024
-- 👍 [Huyện chỉ đạo xử lý sai phạm, 3 năm trôi qua xã vẫn phớt lờ](https://laodong.vn/ban-doc/huyen-chi-dao-xu-ly-sai-pham-3-nam-troi-qua-xa-van-phot-lo-1402866.ldo) - 08:01 03/10/2024
-- 💂 [3 cách xử lý nhanh khi đồ gỗ trong nhà bị rạn nứt](https://laodong.vn/chuyen-nha-minh/3-cach-xu-ly-nhanh-khi-do-go-trong-nha-bi-ran-nut-1402877.ldo) - 08:00 03/10/2024
-- 🧰 [6 loại đồ uống giúp giảm cholesterol ngăn ngừa đột quỵ](https://laodong.vn/suc-khoe/6-loai-do-uong-giup-giam-cholesterol-ngan-ngua-dot-quy-1402706.ldo) - 08:00 03/10/2024
-- 🥷 [Tiền lương cho công chức đi đào tạo ở nước ngoài](https://laodong.vn/thoi-su/tien-luong-cho-cong-chuc-di-dao-tao-o-nuoc-ngoai-1402802.ldo) - 07:58 03/10/2024
-- 💫 [Hành trình của chàng trai khuyết tật truyền lửa yêu thương](https://laodong.vn/chuyen-nha-minh/hanh-trinh-cua-chang-trai-khuyet-tat-truyen-lua-yeu-thuong-1402930.ldo) - 07:57 03/10/2024
-- 🎭 [Tiêu hủy 20 con hổ Bengal chết ở khu du lịch Vườn Xoài](https://laodong.vn/xa-hoi/tieu-huy-20-con-ho-bengal-chet-o-khu-du-lich-vuon-xoai-1402923.ldo) - 07:56 03/10/2024
-- 😎 [Công an Hải Dương đưa người tâm thần bỏ nhà 1 năm trở về](https://laodong.vn/xa-hoi/cong-an-hai-duong-dua-nguoi-tam-than-bo-nha-1-nam-tro-ve-1402913.ldo) - 07:55 03/10/2024
-- 💄 [Du khách bức xúc vì ô nhiễm bủa vây mương Trúc Bạch](https://laodong.vn/photo/du-khach-buc-xuc-vi-o-nhiem-bua-vay-muong-truc-bach-1402887.ldo) - 07:55 03/10/2024
-- 🫣 [Mối quan hệ giáo viên với học sinh: Cư xử thế nào cho đúng?](https://laodong.vn/video/moi-quan-he-giao-vien-voi-hoc-sinh-cu-xu-the-nao-cho-dung-1402917.ldo) - 07:51 03/10/2024
-- 🧑‍🏫 [Bộ Công an rút đề xuất giảm phạt tiền vi phạm nồng độ cồn](https://laodong.vn/xa-hoi/bo-cong-an-rut-de-xuat-giam-phat-tien-vi-pham-nong-do-con-1402889.ldo) - 07:49 03/10/2024
-- 🦣 [Dân không đồng thuận, trại lợn dính sai phạm vẫn mọc lên](https://laodong.vn/video/dan-khong-dong-thuan-trai-lon-dinh-sai-pham-van-moc-len-1402898.ldo) - 07:42 03/10/2024
-- 💫 [Blackpink là nghệ sĩ Kpop quyền lực nhất YouTube 2024](https://laodong.vn/giai-tri/blackpink-la-nghe-si-kpop-quyen-luc-nhat-youtube-2024-1402890.ldo) - 07:41 03/10/2024
-- ⛽️ [Học phí ngành Công nghệ thông tin năm 2024](https://laodong.vn/giao-duc/hoc-phi-nganh-cong-nghe-thong-tin-nam-2024-1402836.ldo) - 07:41 03/10/2024
-- 💫 [Nhận định Ferencvaros vs Tottenham tại Europa League](https://laodong.vn/bong-da-quoc-te/nhan-dinh-ferencvaros-vs-tottenham-tai-europa-league-1402896.ldo) - 07:39 03/10/2024
-- 🥸 [Giá xăng dầu đồng loạt giảm mạnh](https://laodong.vn/kinh-doanh/gia-xang-dau-dong-loat-giam-manh-1402908.ldo) - 07:39 03/10/2024
-- 🐻 [Lịch thi đấu Europa League hôm nay 3.10](https://laodong.vn/lich-thi-dau/lich-thi-dau-europa-league-hom-nay-310-1402906.ldo) - 07:37 03/10/2024
-- 🪄 [Phá thế độc quyền trong chuỗi cung ứng xăng dầu](https://laodong.vn/kinh-doanh/pha-the-doc-quyen-trong-chuoi-cung-ung-xang-dau-1402851.ldo) - 07:35 03/10/2024
-- 🧑‍🏫 [Hồng chín vào mùa, khách mê mẩn săn lùng khắp các khu chợ](https://laodong.vn/video-kinh-te/hong-chin-vao-mua-khach-me-man-san-lung-khap-cac-khu-cho-1402883.ldo) - 07:35 03/10/2024
-- 🌊 [Đề nghị hỗ trợ người dân trồng đào Nhật Tân sau bão số 3](https://laodong.vn/ban-doc/de-nghi-ho-tro-nguoi-dan-trong-dao-nhat-tan-sau-bao-so-3-1402909.ldo) - 07:34 03/10/2024
-- 💻 [Chuyện chưa kể trong đêm sạt lở tại Nhà máy Thủy điện Nậm Lúc](https://laodong.vn/kinh-doanh/chuyen-chua-ke-trong-dem-sat-lo-tai-nha-may-thuy-dien-nam-luc-1402719.ldo) - 07:34 03/10/2024
-- 👨‍🏫 [6 bài thuốc tự nhiên giúp giảm viêm dạ dày hiệu quả](https://laodong.vn/suc-khoe/6-bai-thuoc-tu-nhien-giup-giam-viem-da-day-hieu-qua-1402778.ldo) - 07:30 03/10/2024
-- 🌈 [FPT Long Châu thắng giải tại Better Choice Awards 2024](https://laodong.vn/suc-khoe/fpt-long-chau-thang-giai-tai-better-choice-awards-2024-1402834.ldo) - 07:29 03/10/2024
-- 🐲 [NAPAS phối hợp đối tác “tung” khuyến mãi khủng tại Ngày thẻ Việt Nam 2024](https://laodong.vn/kinh-doanh/napas-phoi-hop-doi-tac-tung-khuyen-mai-khung-tai-ngay-the-viet-nam-2024-1402721.ldo) - 07:28 03/10/2024
-- 🚀 [Kon Tum chuyển nhiều diện tích đất rừng để làm dự án](https://laodong.vn/ban-doc/kon-tum-chuyen-nhieu-dien-tich-dat-rung-de-lam-du-an-1402849.ldo) - 07:28 03/10/2024
-- 😺 [Văn hóa Khatoco - động lực phát triển trong giai đoạn mới](https://laodong.vn/thong-tin-doanh-nghiep/van-hoa-khatoco-dong-luc-phat-trien-trong-giai-doan-moi-1402525.ldo) - 07:28 03/10/2024
-- 🕴 [Theo dõi sát vụ bờ biển vẫn sạt lở dù đã có dự án kè 15 tỉ](https://laodong.vn/ban-doc/theo-doi-sat-vu-bo-bien-van-sat-lo-du-da-co-du-an-ke-15-ti-1402904.ldo) - 07:25 03/10/2024
-- 🌋 [Bắt giam 4 bị can đưa hối lộ gần 2 tỉ đồng](https://laodong.vn/video/bat-giam-4-bi-can-dua-hoi-lo-gan-2-ti-dong-1402900.ldo) - 07:19 03/10/2024
-- 💄 [6 loại thảo mộc kiểm soát tốt cho người bệnh tiểu đường](https://laodong.vn/video/6-loai-thao-moc-kiem-soat-tot-cho-nguoi-benh-tieu-duong-1402760.ldo) - 07:09 03/10/2024<!-- laodong:END -->
+- 🗽 [Video bóng đá Hồng Lĩnh Hà Tĩnh - Quảng Nam &lpar;0-0&rpar;](https://laodong.vn/bong-da/video-bong-da-hong-linh-ha-tinh-quang-nam-0-0-1403146.ldo) - 15:48 03/10/2024
+- 📝 [Nước mắm tỏi ớt của Việt Nam vào top ngon nhất thế giới](https://laodong.vn/van-hoa-giai-tri/nuoc-mam-toi-ot-cua-viet-nam-vao-top-ngon-nhat-the-gioi-1403171.ldo) - 15:41 03/10/2024
+- 🦏 [2 cơ thủ Việt Nam vào tứ kết Peri 9-Ball Open 2024](https://laodong.vn/the-thao/2-co-thu-viet-nam-vao-tu-ket-peri-9-ball-open-2024-1403166.ldo) - 15:32 03/10/2024
+- 🦩 [Hoa hậu Đỗ Mỹ Linh đồng hành cùng giải bóng đá nữ quốc tế](https://laodong.vn/video/hoa-hau-do-my-linh-dong-hanh-cung-giai-bong-da-nu-quoc-te-1403157.ldo) - 15:09 03/10/2024
+- 🦏 [Hai đội Việt Nam thắng trận mở màn giải bóng đá nữ quốc tế Hà Nội](https://laodong.vn/bong-da/hai-doi-viet-nam-thang-tran-mo-man-giai-bong-da-nu-quoc-te-ha-noi-1403145.ldo) - 14:59 03/10/2024
+- 🧰 [Suýt mất oan 300 triệu đồng cho kẻ lừa đảo](https://laodong.vn/phap-luat/suyt-mat-oan-300-trieu-dong-cho-ke-lua-dao-1403159.ldo) - 14:57 03/10/2024
+- 🌊 [Video bàn thắng Đà Nẵng - Hoàng Anh Gia Lai &lpar;1-1&rpar;](https://laodong.vn/video/video-ban-thang-da-nang-hoang-anh-gia-lai-1-1-1403140.ldo) - 14:47 03/10/2024
+- 🔥 [Tổng Bí thư, Chủ tịch nước chứng kiến lễ trao các văn kiện với Ireland](https://laodong.vn/thoi-su/tong-bi-thu-chu-tich-nuoc-chung-kien-le-trao-cac-van-kien-voi-ireland-1403149.ldo) - 14:45 03/10/2024
+- 🦒 [Chuyển đổi số để nâng cao chất lượng đào tạo đại học](https://laodong.vn/giao-duc/chuyen-doi-so-de-nang-cao-chat-luong-dao-tao-dai-hoc-1403153.ldo) - 14:32 03/10/2024
+- 💼 [Bắt nhóm quái xế mang theo dao gây náo loạn TP Tuyên Quang](https://laodong.vn/phap-luat/bat-nhom-quai-xe-mang-theo-dao-gay-nao-loan-tp-tuyen-quang-1403155.ldo) - 14:28 03/10/2024
+- 🤖 [Sắp diễn ra triển lãm 70 năm xây dựng và phát triển Thủ đô](https://laodong.vn/van-hoa-giai-tri/sap-dien-ra-trien-lam-70-nam-xay-dung-va-phat-trien-thu-do-1403147.ldo) - 14:10 03/10/2024
+- 💪 [Van de Beek ghi bàn làm rõ hơn vấn đề của Man United](https://laodong.vn/bong-da-quoc-te/van-de-beek-ghi-ban-lam-ro-hon-van-de-cua-man-united-1403148.ldo) - 14:09 03/10/2024
+- 👍 [Hà Tĩnh bất bại trận thứ 4 liên tiếp ở V.League 2024-2025](https://laodong.vn/the-thao/ha-tinh-bat-bai-tran-thu-4-lien-tiep-o-vleague-2024-2025-1403134.ldo) - 14:08 03/10/2024
+- 💂 [Quảng Ninh tạm cấp 180 tỉ đồng hỗ trợ khắc phục hậu quả bão số 3](https://laodong.vn/trang-quang-ninh/quang-ninh-tam-cap-180-ti-dong-ho-tro-khac-phuc-hau-qua-bao-so-3-1403152.ldo) - 14:07 03/10/2024
+- 🧰 [Khẩn trương di dời các hộ dân sau khi quả đồi bị nứt toác](https://laodong.vn/xa-hoi/khan-truong-di-doi-cac-ho-dan-sau-khi-qua-doi-bi-nut-toac-1403141.ldo) - 14:06 03/10/2024
+- 🥷 [Kiểm soát lượng đường trong máu có thể phòng ngừa suy tim](https://laodong.vn/suc-khoe/kiem-soat-luong-duong-trong-mau-co-the-phong-ngua-suy-tim-1402897.ldo) - 14:00 03/10/2024
+- 💫 [Quảng Ninh dồn toàn lực khắc phục hậu quả bão số 3](https://laodong.vn/trang-quang-ninh/quang-ninh-don-toan-luc-khac-phuc-hau-qua-bao-so-3-1403150.ldo) - 13:54 03/10/2024
+- 🎭 [Dự báo thời tiết ngày mai 4.10 trên cả nước](https://laodong.vn/moi-truong/du-bao-thoi-tiet-ngay-mai-410-tren-ca-nuoc-1403104.ldo) - 13:53 03/10/2024
+- 😎 [Chung tay chăm lo cho NLĐ bị thiệt hại do bão số 3](https://laodong.vn/trang-quang-ninh/chung-tay-cham-lo-cho-nld-bi-thiet-hai-do-bao-so-3-1403143.ldo) - 13:43 03/10/2024
+- 💄 [Mục sở thị phố ẩm thực Hàn Quốc ngay giữa Hà Nội](https://laodong.vn/van-hoa-giai-tri/muc-so-thi-pho-am-thuc-han-quoc-ngay-giua-ha-noi-1403144.ldo) - 13:42 03/10/2024
+- 🫣 [Đẩy nhanh tốc độ, nâng cao chất lượng đô thị hóa](https://laodong.vn/bat-dong-san/day-nhanh-toc-do-nang-cao-chat-luong-do-thi-hoa-1402938.ldo) - 13:42 03/10/2024
+- 🧑‍🏫 [Nhà máy xe điện Stellantis đóng cửa do nhu cầu thị trường thấp](https://laodong.vn/xe/nha-may-xe-dien-stellantis-dong-cua-do-nhu-cau-thi-truong-thap-1403011.ldo) - 13:39 03/10/2024
+- 🦣 [Đồng Euro đang chuẩn bị cho chuỗi giảm giá kỷ lục](https://laodong.vn/kinh-doanh/dong-euro-dang-chuan-bi-cho-chuoi-giam-gia-ky-luc-1403136.ldo) - 13:32 03/10/2024
+- 💫 [Frenkie de Jong trở lại, bác tin đồn &quot;ngồi mát ăn bát vàng&quot; tại Barca](https://laodong.vn/bong-da-quoc-te/frenkie-de-jong-tro-lai-bac-tin-don-ngoi-mat-an-bat-vang-tai-barca-1403123.ldo) - 13:15 03/10/2024
+- ⛽️ [Cao Bằng có tân Giám đốc Sở Thông tin và Truyền thông](https://laodong.vn/thoi-su/cao-bang-co-tan-giam-doc-so-thong-tin-va-truyen-thong-1403130.ldo) - 13:12 03/10/2024
+- 💫 [Nhịp showbiz: HIEUTHUHAI bị ảnh hưởng bởi ồn ào của Negav](https://laodong.vn/giai-tri/nhip-showbiz-hieuthuhai-bi-anh-huong-boi-on-ao-cua-negav-1403035.ldo) - 13:11 03/10/2024
+- 🥸 [Tranh luận về thành tích &quot;Dục hỏa chi lộ&quot; của Triệu Lệ Dĩnh](https://laodong.vn/van-hoa-giai-tri/tranh-luan-ve-thanh-tich-duc-hoa-chi-lo-cua-trieu-le-dinh-1403088.ldo) - 13:08 03/10/2024
+- 🐻 [Bóng chuyền Việt Nam ngày 3.10: Thanh Thúy trước thềm mùa giải mới](https://laodong.vn/the-thao/bong-chuyen-viet-nam-ngay-310-thanh-thuy-truoc-them-mua-giai-moi-1403053.ldo) - 13:07 03/10/2024
+- 🪄 [Dàn Anh trai vượt ngàn chông gai chia sẻ về khó khăn](https://laodong.vn/van-hoa-giai-tri/dan-anh-trai-vuot-ngan-chong-gai-chia-se-ve-kho-khan-1403069.ldo) - 13:06 03/10/2024
+- 🧑‍🏫 [Có nên dùng viên uống magiê và vitamin D cùng nhau?](https://laodong.vn/suc-khoe/co-nen-dung-vien-uong-magie-va-vitamin-d-cung-nhau-1402991.ldo) - 13:05 03/10/2024
+- 🌊 [Có sự so bì, tâm tư về chi thu nhập tăng thêm ở TPHCM](https://laodong.vn/xa-hoi/co-su-so-bi-tam-tu-ve-chi-thu-nhap-tang-them-o-tphcm-1403127.ldo) - 13:03 03/10/2024
+- 💻 [VNPT ra mắt thiết bị cung cấp dịch vụ internet thế hệ mới đầu tiên tại Việt Nam](https://laodong.vn/thong-tin-doanh-nghiep/vnpt-ra-mat-thiet-bi-cung-cap-dich-vu-internet-the-he-moi-dau-tien-tai-viet-nam-1403129.ldo) - 13:00 03/10/2024
+- 👨‍🏫 [Tin 20h: Giá vàng nhẫn tiếp tục tăng, dân khó mua](https://laodong.vn/video/tin-20h-gia-vang-nhan-tiep-tuc-tang-dan-kho-mua-1403114.ldo) - 13:00 03/10/2024
+- 🌈 [Những lợi ích của việc nghe nhạc vào buổi sáng](https://laodong.vn/suc-khoe/nhung-loi-ich-cua-viec-nghe-nhac-vao-buoi-sang-1402895.ldo) - 13:00 03/10/2024
+- 🐲 [Con không giống bố, vợ giấu chồng làm xét nghiệm ADN &lpar;P1&rpar;](https://laodong.vn/gio-thu-9/con-khong-giong-bo-vo-giau-chong-lam-xet-nghiem-adn-p1-1403087.ldo) - 13:00 03/10/2024
+- 🚀 [Hồ sơ đề nghị bán tài sản công theo luật mới](https://laodong.vn/tu-van-phap-luat/ho-so-de-nghi-ban-tai-san-cong-theo-luat-moi-1401295.ldo) - 13:00 03/10/2024
+- 😺 [Bị xử phạt 500 triệu đồng vì xâm phạm quyền nhãn hiệu](https://laodong.vn/xa-hoi/bi-xu-phat-500-trieu-dong-vi-xam-pham-quyen-nhan-hieu-1403020.ldo) - 12:46 03/10/2024
+- 🕴 [Bắt cán bộ địa chính làm hợp đồng mua bán đất đai giả](https://laodong.vn/ban-tin/bat-can-bo-dia-chinh-lam-hop-dong-mua-ban-dat-dai-gia-1403121.ldo) - 12:41 03/10/2024
+- 🌋 [Tài chính thông minh: 1 tỉ đồng nên đầu tư bất động sản gì?](https://laodong.vn/video-kinh-te/tai-chinh-thong-minh-1-ti-dong-nen-dau-tu-bat-dong-san-gi-1402681.ldo) - 12:40 03/10/2024
+- 💄 [Tất cả mẫu nước sau vụ vỡ đập thải ở Bắc Kạn đều không đạt](https://laodong.vn/xa-hoi/tat-ca-mau-nuoc-sau-vu-vo-dap-thai-o-bac-kan-deu-khong-dat-1403075.ldo) - 12:32 03/10/2024<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
