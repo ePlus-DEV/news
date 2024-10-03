@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- dantri-kinh-doanh:START -->
 - 🏊 [Bộ Công Thương cảnh báo kiểu đào tạo bán hàng &quot;bắn dây thun&quot;, &quot;đánh roi&quot;](https://dantri.com.vn/kinh-doanh/bo-cong-thuong-canh-bao-kieu-dao-tao-ban-hang-ban-day-thun-danh-roi-20241003163652976.htm) - 13:45 03/10/2024
 - 🦆 [Đột kích kho nước hoa được nữ TikToker livestream chốt hàng trăm đơn/ngày](https://dantri.com.vn/kinh-doanh/dot-kich-kho-nuoc-hoa-duoc-nu-tiktoker-livestream-chot-hang-tram-donngay-20241003174614348.htm) - 13:43 03/10/2024
-- 🦄 [Cổ phiếu Vinhomes giảm mạnh, thanh khoản HoSE vượt 1 tỷ đơn vị](https://dantri.com.vn/kinh-doanh/co-phieu-vinhomes-giam-manh-thanh-khoan-hose-vuot-1-ty-don-vi-20241003170754088.htm) - 13:40 03/10/2024
+- 🦄 [VN-Index rời xa mốc 1.300 điểm, thanh khoản HoSE vượt 1 tỷ đơn vị](https://dantri.com.vn/kinh-doanh/vn-index-roi-xa-moc-1300-diem-thanh-khoan-hose-vuot-1-ty-don-vi-20241003170754088.htm) - 13:40 03/10/2024
 - 🌝 [Ai đứng sau KOI Thé Việt Nam?](https://dantri.com.vn/kinh-doanh/ai-dung-sau-koi-the-viet-nam-20241003153034887.htm) - 09:21 03/10/2024
 - 💃 [Giá xăng quay đầu giảm mạnh, có loại còn gần 19.000 đồng/lít](https://dantri.com.vn/kinh-doanh/gia-xang-quay-dau-giam-manh-co-loai-con-gan-19000-donglit-20241003141707844.htm) - 09:03 03/10/2024
 - 🦏 [Phát sinh diễn biến vụ Trương Mỹ Lan, cổ phiếu Novaland ra sao?](https://dantri.com.vn/kinh-doanh/phat-sinh-dien-bien-vu-truong-my-lan-co-phieu-novaland-ra-sao-20241003131951910.htm) - 07:09 03/10/2024
