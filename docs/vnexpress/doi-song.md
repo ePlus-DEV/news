@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Dân chung cư Hà Nội chật vật tự sửa nhà sau bão Yagi](https://vnexpress.net/dan-chung-cu-ha-noi-chat-vat-tu-sua-nha-sau-bao-yagi-4799527.html) - 23:00 02/10/2024
+- 🚀 [Dân chung cư Hà Nội tự sửa nhà sau bão Yagi](https://vnexpress.net/dan-chung-cu-ha-noi-tu-sua-nha-sau-bao-yagi-4799527.html) - 23:00 02/10/2024
 - 🎓 [Cách để con cái không lợi dụng cha mẹ](https://vnexpress.net/cach-de-con-cai-khong-loi-dung-cha-me-4793263.html) - 09:19 02/10/2024
 - 🚦 [5 mẹo &#39;đánh bay&#39; nỗi buồn](https://vnexpress.net/5-meo-danh-bay-noi-buon-4799414.html) - 07:45 02/10/2024
 - 🦣 [​Chụp món ăn và phong cảnh bằng điện thoại như thế nào?](https://vnexpress.net/chup-mon-an-va-phong-canh-bang-dien-thoai-nhu-the-nao-4799127.html) - 02:00 02/10/2024
