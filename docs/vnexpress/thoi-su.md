@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hỏa hoạn thiêu rụi khoảng 3.000 xe điện](https://vnexpress.net/hoa-hoan-thieu-rui-khoang-3-000-xe-dien-4800216.html) - 05:25 04/10/2024
+- 🦒 [Hỏa hoạn thiêu rụi khoảng 3.000 xe đạp, xe máy điện](https://vnexpress.net/hoa-hoan-thieu-rui-khoang-3-000-xe-dap-xe-may-dien-4800216.html) - 05:25 04/10/2024
 - 🤓 [Hậu Giang sẽ xây khu đô thị nghỉ dưỡng lớn nhất miền Tây](https://vnexpress.net/hau-giang-se-xay-khu-do-thi-nghi-duong-lon-nhat-mien-tay-4800178.html) - 05:00 04/10/2024
 - ⚗️ [Hà Nội thông xe đường đê Âu Cơ - Nghi Tàm](https://vnexpress.net/ha-noi-thong-xe-duong-de-au-co-nghi-tam-4800089.html) - 03:05 04/10/2024
 - 🌊 [Thông xe nhánh hầm qua nút giao cửa ngõ phía Nam TP HCM](https://vnexpress.net/thong-xe-nhanh-ham-qua-nut-giao-cua-ngo-phia-nam-tp-hcm-4800082.html) - 02:34 04/10/2024
