@@ -6,8 +6,8 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Nữ sinh &#39;lội ngược dòng&#39; giành học bổng chính phủ Singapore](https://vnexpress.net/nu-sinh-loi-nguoc-dong-gianh-hoc-bong-chinh-phu-singapore-4798784.html) - 22:50 03/10/2024
 - 🦆 [Nước nào có tờ tiền 7 đôla?](https://vnexpress.net/nuoc-nao-co-to-tien-7-dola-4799946.html) - 13:24 03/10/2024
-- 🦩 [Sở Giáo dục TP HCM: Hội phụ huynh là cần thiết](https://vnexpress.net/so-giao-duc-tp-hcm-hoi-phu-huynh-la-can-thiet-4799953.html) - 12:55 03/10/2024
-- 🌮 [Sở Giáo dục Hà Nội: Sự việc tại trường Thạch Bàn &#39;thiếu chuẩn mực&#39;](https://vnexpress.net/so-giao-duc-ha-noi-su-viec-tai-truong-thach-ban-thieu-chuan-muc-4799982.html) - 12:04 03/10/2024
+- 🦩 [Sở Giáo dục TP HCM nói về đề xuất bỏ hội phụ huynh](https://vnexpress.net/so-giao-duc-tp-hcm-noi-ve-de-xuat-bo-hoi-phu-huynh-4799953.html) - 12:55 03/10/2024
+- 🌮 [Sở Giáo dục Hà Nội: Cô giáo để học sinh trêu đùa là &#39;thiếu chuẩn mực&#39;](https://vnexpress.net/so-giao-duc-ha-noi-co-giao-de-hoc-sinh-treu-dua-la-thieu-chuan-muc-4799982.html) - 12:04 03/10/2024
 - 🔭 [Mô hình ngôi trường hạnh phúc tại Pathway Tuệ Đức](https://vnexpress.net/mo-hinh-ngoi-truong-hanh-phuc-tai-pathway-tue-duc-4797646.html) - 12:00 03/10/2024
 - 💡 [Đề minh họa thi lớp 10 &#39;đề cao vận dụng thực tiễn&#39;](https://vnexpress.net/de-minh-hoa-thi-lop-10-de-cao-van-dung-thuc-tien-4799754.html) - 07:44 03/10/2024
 - 🥰 [69 thí sinh STEAM For Girls sẵn sàng tranh tài tại chung kết](https://vnexpress.net/69-thi-sinh-steam-for-girls-san-sang-tranh-tai-tai-chung-ket-4799767.html) - 05:00 03/10/2024
