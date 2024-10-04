@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-giao-duc:START -->
 - 🤡 [Anh nâng mức chứng minh tài chính, du học sinh tìm giải pháp thay thế](https://dantri.com.vn/giao-duc/anh-nang-muc-chung-minh-tai-chinh-du-hoc-sinh-tim-giai-phap-thay-the-20241004135537960.htm) - 07:08 04/10/2024
-- 🗽 [Bộ Giáo dục đề xuất chỉ thi 3 môn vào lớp 10 công lập](https://dantri.com.vn/giao-duc/bo-giao-duc-de-xuat-chi-thi-3-mon-vao-lop-10-cong-lap-20241004132808487.htm) - 06:31 04/10/2024
+- 🗽 [Bộ đề xuất chỉ thi 3 môn vào lớp 10, bốc thăm môn thứ 3](https://dantri.com.vn/giao-duc/bo-de-xuat-chi-thi-3-mon-vao-lop-10-boc-tham-mon-thu-3-20241004132808487.htm) - 06:31 04/10/2024
 - 🚦 [Phụ huynh xông vào lớp đánh 2 học sinh bị phạt 8 triệu đồng](https://dantri.com.vn/giao-duc/phu-huynh-xong-vao-lop-danh-2-hoc-sinh-bi-phat-8-trieu-dong-20241004124700944.htm) - 06:08 04/10/2024
 - 🌋 [Những ranh giới cô giáo trẻ không được vượt qua, dù chỉ một lần](https://dantri.com.vn/giao-duc/nhung-ranh-gioi-co-giao-tre-khong-duoc-vuot-qua-du-chi-mot-lan-20241004115257504.htm) - 05:15 04/10/2024
 - 🏊 [Hà Nội &quot;chốt&quot; học phí trường công cao nhất 6,1 triệu đồng/tháng](https://dantri.com.vn/xa-hoi/ha-noi-chot-hoc-phi-truong-cong-cao-nhat-61-trieu-dongthang-20241004120136544.htm) - 05:05 04/10/2024
