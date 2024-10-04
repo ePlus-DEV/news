@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- dantri-kinh-doanh:START -->
 - 🏊 [Jemmia Diamond mang bộ sưu tập &quot;Vũ khúc Thiên Phượng&quot; tới UAE](https://dantri.com.vn/kinh-doanh/jemmia-diamond-mang-bo-suu-tap-vu-khuc-thien-phuong-toi-uae-20241004161147149.htm) - 09:25 04/10/2024
-- 🦆 [Sếp Viettel, Masan, PVN... chia sẻ gì với Thủ tướng gần &quot;Tết doanh nhân&quot;?](https://dantri.com.vn/kinh-doanh/sep-viettel-masan-pvn-chia-se-gi-voi-thu-tuong-gan-tet-doanh-nhan-20241004120531533.htm) - 07:28 04/10/2024
+- 🦆 [Sếp Viettel, PVN... chia sẻ gì với Thủ tướng gần &quot;Tết doanh nhân&quot;?](https://dantri.com.vn/kinh-doanh/sep-viettel-pvn-chia-se-gi-voi-thu-tuong-gan-tet-doanh-nhan-20241004120531533.htm) - 07:28 04/10/2024
 - 🦄 [Cận cảnh kho chứa 10.000 chai nước hoa nhập lậu của TikToker Phan Thủy Tiên](https://dantri.com.vn/kinh-doanh/can-canh-kho-chua-10000-chai-nuoc-hoa-nhap-lau-cua-tiktoker-phan-thuy-tien-20241004095448129.htm) - 07:01 04/10/2024
 - 🌝 [Điều gì khiến giá xăng bất ngờ giảm trở lại?](https://dantri.com.vn/kinh-doanh/dieu-gi-khien-gia-xang-bat-ngo-giam-tro-lai-20241004101207607.htm) - 06:59 04/10/2024
 - 💃 [Novaland lên tiếng vụ bà Trương Mỹ Lan đòi 2.500 tỷ đồng, NVL ngược dòng](https://dantri.com.vn/kinh-doanh/novaland-len-tieng-vu-ba-truong-my-lan-doi-2500-ty-dong-nvl-nguoc-dong-20241004125232928.htm) - 06:58 04/10/2024
