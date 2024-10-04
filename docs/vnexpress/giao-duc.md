@@ -4,14 +4,14 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nhiều đại học Mỹ không &#39;mặn mà&#39; với hoạt động ngoại khóa](https://vnexpress.net/nhieu-dai-hoc-my-khong-man-ma-voi-hoat-dong-ngoai-khoa-4799859.html) - 09:09 04/10/2024
+- 🤓 [Nhiều đại học Mỹ không xét hoạt động ngoại khóa](https://vnexpress.net/nhieu-dai-hoc-my-khong-xet-hoat-dong-ngoai-khoa-4799859.html) - 09:09 04/10/2024
 - 🦆 [10.000 thầy trò Yên Bái, Lai Châu đón nhận nhà vệ sinh đạt chuẩn](https://vnexpress.net/10-000-thay-tro-yen-bai-lai-chau-don-nhan-nha-ve-sinh-dat-chuan-4800284.html) - 08:30 04/10/2024
 - 🦩 [Thành ngữ tiếng Anh về học và ôn thi](https://vnexpress.net/thanh-ngu-tieng-anh-ve-hoc-va-on-thi-4800259.html) - 07:49 04/10/2024
 - 🌮 [Bộ Giáo dục đề xuất bốc thăm môn thi thứ ba vào lớp 10](https://vnexpress.net/bo-giao-duc-de-xuat-boc-tham-mon-thi-thu-ba-vao-lop-10-4800185.html) - 04:58 04/10/2024
 - 🔭 [Học phí trường công ở Hà Nội cao nhất 6,1 triệu đồng mỗi tháng](https://vnexpress.net/hoc-phi-truong-cong-o-ha-noi-cao-nhat-6-1-trieu-dong-moi-thang-4800092.html) - 03:47 04/10/2024
 - 💡 [23 ý tưởng bền vững được vinh danh tại STEAM For Girls 2024](https://vnexpress.net/23-y-tuong-ben-vung-duoc-vinh-danh-tai-steam-for-girls-2024-4799904.html) - 03:10 04/10/2024
 - 🥰 [Làm ngân hàng, lương 12 triệu có nên học thạc sĩ?](https://vnexpress.net/lam-ngan-hang-luong-12-trieu-co-nen-hoc-thac-si-4799228.html) - 03:07 04/10/2024
-- 🐲 [Nữ sinh &#39;lội ngược dòng&#39; giành học bổng chính phủ Singapore](https://vnexpress.net/nu-sinh-loi-nguoc-dong-gianh-hoc-bong-chinh-phu-singapore-4798784.html) - 22:50 03/10/2024
+- 🐲 [Nữ sinh giành học bổng chính phủ Singapore](https://vnexpress.net/nu-sinh-gianh-hoc-bong-chinh-phu-singapore-4798784.html) - 22:50 03/10/2024
 - 🦒 [Nước nào có tờ tiền 7 đôla?](https://vnexpress.net/nuoc-nao-co-to-tien-7-dola-4799946.html) - 13:24 03/10/2024
 - 🦆 [Sở Giáo dục TP HCM: Cần thiết có hội phụ huynh](https://vnexpress.net/so-giao-duc-tp-hcm-can-thiet-co-hoi-phu-huynh-4799953.html) - 12:55 03/10/2024
 - 🧰 [Cô giáo để nam sinh ôm vai, vuốt tóc là &#39;thiếu chuẩn mực&#39;](https://vnexpress.net/co-giao-de-nam-sinh-om-vai-vuot-toc-la-thieu-chuan-muc-4799982.html) - 12:04 03/10/2024
