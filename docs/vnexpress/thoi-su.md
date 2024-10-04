@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Dùng phà chở người và phương tiện thay cầu phao Phong Châu](https://vnexpress.net/dung-pha-cho-nguoi-va-phuong-tien-thay-cau-phao-phong-chau-4800353.html) - 10:58 04/10/2024
-- 🤓 [Đề xuất hỗ trợ người trồng đào Nhật Tân, quất Tứ Liên](https://vnexpress.net/de-xuat-ho-tro-nguoi-trong-dao-nhat-tan-quat-tu-lien-4800277.html) - 09:42 04/10/2024
+- 🤓 [Người trồng đào Nhật Tân, quất Tứ Liên được xem xét hỗ trợ](https://vnexpress.net/nguoi-trong-dao-nhat-tan-quat-tu-lien-duoc-xem-xet-ho-tro-4800277.html) - 09:42 04/10/2024
 - ⚗️ [10.000 thầy trò Yên Bái, Lai Châu đón nhận nhà vệ sinh đạt chuẩn](https://vnexpress.net/10-000-thay-tro-yen-bai-lai-chau-don-nhan-nha-ve-sinh-dat-chuan-4800284.html) - 08:30 04/10/2024
 - 🌊 [Hà Nội cấm nhiều phố để tổ chức Ngày hội văn hóa vì hòa bình](https://vnexpress.net/ha-noi-cam-nhieu-pho-de-to-chuc-ngay-hoi-van-hoa-vi-hoa-binh-4800215.html) - 06:39 04/10/2024
 - 🎓 [Hỏa hoạn thiêu rụi khoảng 3.000 xe đạp, xe máy điện](https://vnexpress.net/hoa-hoan-thieu-rui-khoang-3-000-xe-dap-xe-may-dien-4800216.html) - 05:25 04/10/2024
