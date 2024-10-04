@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Cầu thủ nhập tịch Indonesia: Những ngôi sao vô danh lột xác thành ông hoàng](https://dantri.com.vn/the-thao/cau-thu-nhap-tich-indonesia-nhung-ngoi-sao-vo-danh-lot-xac-thanh-ong-hoang-20241004181326374.htm) - 11:29 04/10/2024
+- 🤠 [Cầu thủ nhập tịch Indonesia: Những ngôi sao vô danh lột xác thành ông hoàng](https://dantri.com.vn/the-thao/cau-thu-nhap-tich-indonesia-nhung-ngoi-sao-vo-danh-lot-xac-thanh-ong-hoang-20241004181326374.htm) - 14:30 04/10/2024
 - 🌈 [Đánh giá Vivobook S 16 OLED: Hỗ trợ AI, hiệu suất đồ họa ở mức vừa phải](https://dantri.com.vn/suc-manh-so/danh-gia-vivobook-s-16-oled-ho-tro-ai-hieu-suat-do-hoa-o-muc-vua-phai-20241003110200395.htm) - 07:59 04/10/2024
 - 🐎 [Bộ Y tế nói về việc Viện Y dược học dân tộc TPHCM thu phí thực hành](https://dantri.com.vn/suc-khoe/bo-y-te-noi-ve-viec-vien-y-duoc-hoc-dan-toc-tphcm-thu-phi-thuc-hanh-20241003231813366.htm) - 07:52 04/10/2024
 - 👹 [Người nhái gần 100 lần &quot;cướp cơm hà bá&quot;, giấu nghề với người yêu](https://dantri.com.vn/xa-hoi/nguoi-nhai-gan-100-lan-cuop-com-ha-ba-giau-nghe-voi-nguoi-yeu-20241004094505486.htm) - 03:46 04/10/2024
