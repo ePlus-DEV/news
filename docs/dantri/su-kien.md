@@ -4,13 +4,13 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Vốn FDI vào bất động sản đạt 4,38 tỷ USD trong 9 tháng](https://dantri.com.vn/bat-dong-san/von-fdi-vao-bat-dong-san-dat-438-ty-usd-trong-9-thang-20241004182458566.htm) - 13:52 04/10/2024
-- 👨‍🏫 [Đà Nẵng phản hồi ý kiến cử tri về đặt tên đường Nguyễn Bá Thanh](https://dantri.com.vn/xa-hoi/da-nang-phan-hoi-y-kien-cu-tri-ve-dat-ten-duong-nguyen-ba-thanh-20241004195929805.htm) - 13:30 04/10/2024
-- 🌮 [Nhà máy hạt nhân Kursk bị tấn công, Nga cảnh báo Ukraine &quot;đùa với lửa&quot;](https://dantri.com.vn/the-gioi/nha-may-hat-nhan-kursk-bi-tan-cong-nga-canh-bao-ukraine-dua-voi-lua-20241004190225118.htm) - 13:11 04/10/2024
-- 🕯 [Mai Phương Thúy xin lỗi vì livestream trong tình trạng không tỉnh táo](https://dantri.com.vn/giai-tri/mai-phuong-thuy-xin-loi-vi-livestream-trong-tinh-trang-khong-tinh-tao-20241004161936125.htm) - 11:47 04/10/2024
-- 🪜 [Israel dội 73 tấn bom, đánh thẳng trụ sở tình báo Hezbollah](https://dantri.com.vn/the-gioi/israel-doi-73-tan-bom-danh-thang-tru-so-tinh-bao-hezbollah-20241004180400309.htm) - 11:43 04/10/2024
-- 🐘 [Phà quân sự thay thế cầu phao Phong Châu hoạt động từ 6h đến 22h](https://dantri.com.vn/xa-hoi/pha-quan-su-thay-the-cau-phao-phong-chau-hoat-dong-tu-6h-den-22h-20241004181302914.htm) - 11:29 04/10/2024
-- 🤔 [Cầu thủ nhập tịch Indonesia: Những ngôi sao vô danh lột xác thành ông hoàng](https://dantri.com.vn/the-thao/cau-thu-nhap-tich-indonesia-nhung-ngoi-sao-vo-danh-lot-xac-thanh-ong-hoang-20241004181326374.htm) - 11:29 04/10/2024
+- 🎭 [Cầu thủ nhập tịch Indonesia: Những ngôi sao vô danh lột xác thành ông hoàng](https://dantri.com.vn/the-thao/cau-thu-nhap-tich-indonesia-nhung-ngoi-sao-vo-danh-lot-xac-thanh-ong-hoang-20241004181326374.htm) - 14:30 04/10/2024
+- 👨‍🏫 [Vốn FDI vào bất động sản đạt 4,38 tỷ USD trong 9 tháng](https://dantri.com.vn/bat-dong-san/von-fdi-vao-bat-dong-san-dat-438-ty-usd-trong-9-thang-20241004182458566.htm) - 13:52 04/10/2024
+- 🌮 [Đà Nẵng phản hồi ý kiến cử tri về đặt tên đường Nguyễn Bá Thanh](https://dantri.com.vn/xa-hoi/da-nang-phan-hoi-y-kien-cu-tri-ve-dat-ten-duong-nguyen-ba-thanh-20241004195929805.htm) - 13:30 04/10/2024
+- 🕯 [Nhà máy hạt nhân Kursk bị tấn công, Nga cảnh báo Ukraine &quot;đùa với lửa&quot;](https://dantri.com.vn/the-gioi/nha-may-hat-nhan-kursk-bi-tan-cong-nga-canh-bao-ukraine-dua-voi-lua-20241004190225118.htm) - 13:11 04/10/2024
+- 🪜 [Mai Phương Thúy xin lỗi vì livestream trong tình trạng không tỉnh táo](https://dantri.com.vn/giai-tri/mai-phuong-thuy-xin-loi-vi-livestream-trong-tinh-trang-khong-tinh-tao-20241004161936125.htm) - 11:47 04/10/2024
+- 🐘 [Israel dội 73 tấn bom, đánh thẳng trụ sở tình báo Hezbollah](https://dantri.com.vn/the-gioi/israel-doi-73-tan-bom-danh-thang-tru-so-tinh-bao-hezbollah-20241004180400309.htm) - 11:43 04/10/2024
+- 🤔 [Phà quân sự thay thế cầu phao Phong Châu hoạt động từ 6h đến 22h](https://dantri.com.vn/xa-hoi/pha-quan-su-thay-the-cau-phao-phong-chau-hoat-dong-tu-6h-den-22h-20241004181302914.htm) - 11:29 04/10/2024
 - 🧠 [Công ty Công Minh trúng hàng trăm gói thầu, trị giá hơn 3.500 tỷ đồng](https://dantri.com.vn/phap-luat/cong-ty-cong-minh-trung-hang-tram-goi-thau-tri-gia-hon-3500-ty-dong-20241004181255272.htm) - 11:24 04/10/2024
 - 📝 [Xung đột ở &quot;chảo lửa&quot; Trung Đông tác động thế nào đến cuộc chiến Ukraine?](https://dantri.com.vn/the-gioi/xung-dot-o-chao-lua-trung-dong-tac-dong-the-nao-den-cuoc-chien-ukraine-20241004163925212.htm) - 11:00 04/10/2024
 - 🦏 [Khởi tố người cha và nhân tình bạo hành bé trai ở TPHCM](https://dantri.com.vn/phap-luat/khoi-to-nguoi-cha-va-nhan-tinh-bao-hanh-be-trai-o-tphcm-20241004170930150.htm) - 10:34 04/10/2024
