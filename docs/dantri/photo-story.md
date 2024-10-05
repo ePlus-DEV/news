@@ -4,7 +4,7 @@ sidebar_position: 28
 ---
 
 <!-- dantri-photo-story:START -->
-- 💪 [Quế Ngọc Hải, Văn Thanh ngồi ngoài trong buổi tập đầu của tuyển Việt nam](https://dantri.com.vn/the-thao/que-ngoc-hai-van-thanh-ngoi-ngoai-trong-buoi-tap-dau-cua-tuyen-viet-nam-20241005201313512.htm) - 13:19 05/10/2024
+- 💪 [Quế Ngọc Hải, Văn Thanh ngồi ngoài trong buổi tập đầu của tuyển Việt nam](https://dantri.com.vn/the-thao/que-ngoc-hai-van-thanh-ngoi-ngoai-trong-buoi-tap-dau-cua-tuyen-viet-nam-20241005201313512.htm) - 13:15 05/10/2024
 - 🧰 [Cận cảnh hiện trường sạt lở nghiêm trọng ở Đồng Tháp](https://dantri.com.vn/xa-hoi/can-canh-hien-truong-sat-lo-nghiem-trong-o-dong-thap-20241005152204943.htm) - 11:33 05/10/2024
 - 🧰 [Cận cảnh bệnh viện nhi đầu tiên của Hà Nội được đầu tư gần 800 tỷ đồng](https://dantri.com.vn/suc-khoe/can-canh-benh-vien-nhi-dau-tien-cua-ha-noi-duoc-dau-tu-gan-800-ty-dong-20241005151451073.htm) - 08:23 05/10/2024
 - 😎 [5 ô tô &quot;dồn toa&quot;: Cầu Thăng Long ùn tắc kéo dài nhiều giờ](https://dantri.com.vn/xa-hoi/5-o-to-don-toa-cau-thang-long-un-tac-keo-dai-nhieu-gio-20241005141337694.htm) - 07:40 05/10/2024
