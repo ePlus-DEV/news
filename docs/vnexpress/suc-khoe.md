@@ -4,63 +4,63 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Làm gì để răng sạch, ngừa hôi miệng?](https://vnexpress.net/lam-gi-de-rang-sach-ngua-hoi-mieng-4800535.html) - 09:00 05/10/2024
-- 🥰 [Vấn đề sức khỏe tuổi mãn kinh](https://vnexpress.net/van-de-suc-khoe-tuoi-man-kinh-4800496.html) - 09:00 05/10/2024
-- 💡 [&#39;Đăng ảnh nhận ít tương tác có thể gây trầm cảm&#39;](https://vnexpress.net/dang-anh-nhan-it-tuong-tac-co-the-gay-tram-cam-4800324.html) - 08:30 05/10/2024
-- 🤗 [Vaccine có ngăn zona thần kinh tái phát?](https://vnexpress.net/vaccine-co-ngan-zona-than-kinh-tai-phat-4800553.html) - 07:00 05/10/2024
-- 🪜 [Những loại ung thư do HPV](https://vnexpress.net/nhung-loai-ung-thu-do-hpv-4800455.html) - 07:00 05/10/2024
-- 🕯 [5 đồ uống không tốt cho người tiểu đường](https://vnexpress.net/5-do-uong-khong-tot-cho-nguoi-tieu-duong-4800453.html) - 07:00 05/10/2024
-- 🤭 [Điều trị tinh binh dị dạng như thế nào để có con?](https://vnexpress.net/dieu-tri-tinh-binh-di-dang-nhu-the-nao-de-co-con-4800515.html) - 06:00 05/10/2024
-- 👀 [Bị hói đầu dùng tinh dầu có giúp mọc tóc?](https://vnexpress.net/bi-hoi-dau-dung-tinh-dau-co-giup-moc-toc-4800522.html) - 05:00 05/10/2024
-- 🌋 [Thói quen ăn uống nào dễ gây ung thư?](https://vnexpress.net/thoi-quen-an-uong-nao-de-gay-ung-thu-4800460.html) - 05:00 05/10/2024
-- 🫶 [Sản phụ gặp nguy vì kiêng sinh mồng một](https://vnexpress.net/san-phu-gap-nguy-vi-kieng-sinh-mong-mot-4800479.html) - 04:27 05/10/2024
-- 🦆 [Giãn dây chằng](https://vnexpress.net/gian-day-chang-4800509.html) - 04:00 05/10/2024
-- 🚀 [5 trái cây giúp ngủ ngon có thể ăn mỗi ngày](https://vnexpress.net/5-trai-cay-giup-ngu-ngon-co-the-an-moi-ngay-4800497.html) - 04:00 05/10/2024
-- 🌜 [5 loại hạt trẻ đang lớn nên ăn thường xuyên](https://vnexpress.net/5-loai-hat-tre-dang-lon-nen-an-thuong-xuyen-4800474.html) - 03:00 05/10/2024
-- 🧰 [Suy giảm nội tiết tố ở tuổi 40](https://vnexpress.net/suy-giam-noi-tiet-to-o-tuoi-40-4800466.html) - 03:00 05/10/2024
-- 💫 [Có nên uống men tiêu hóa mỗi ngày?](https://vnexpress.net/co-nen-uong-men-tieu-hoa-moi-ngay-4800459.html) - 02:00 05/10/2024
-- 🌝 [Uống gì giúp giảm mỡ máu?](https://vnexpress.net/uong-gi-giup-giam-mo-mau-4800452.html) - 02:00 05/10/2024
-- 🗽 [Người Việt &#39;sống lâu nhưng không khỏe&#39;](https://vnexpress.net/nguoi-viet-song-lau-nhung-khong-khoe-4800303.html) - 01:33 05/10/2024
-- 🕯 [Điều trị rối loạn nhịp tim triệt để không cần dùng thuốc](https://vnexpress.net/dieu-tri-roi-loan-nhip-tim-triet-de-khong-can-dung-thuoc-4800448.html) - 01:21 05/10/2024
-- 🦅 [Giảm ăn tinh bột có giảm cân?](https://vnexpress.net/giam-an-tinh-bot-co-giam-can-4800435.html) - 01:00 05/10/2024
-- 🦆 [Người bệnh thận mạn nên ăn bao nhiêu muối mỗi ngày?](https://vnexpress.net/nguoi-benh-than-man-nen-an-bao-nhieu-muoi-moi-ngay-4800252.html) - 01:00 05/10/2024
-- 🎊 [Ung thư ruột non](https://vnexpress.net/ung-thu-ruot-non-4799508.html) - 00:00 05/10/2024
-- 🏊 [Mắc tâm bệnh bởi suy giảm ham muốn tuổi 30](https://vnexpress.net/mac-tam-benh-boi-suy-giam-ham-muon-tuoi-30-4799370.html) - 23:00 04/10/2024
-- 📝 [Chật vật gây mê mổ sinh cho sản phụ bị cứng hàm, viêm dính cột sống](https://vnexpress.net/chat-vat-gay-me-mo-sinh-cho-san-phu-bi-cung-ham-viem-dinh-cot-song-4800399.html) - 21:00 04/10/2024
-- 💯 [Giờ đi ngủ lý tưởng đối với sức khỏe](https://vnexpress.net/gio-di-ngu-ly-tuong-doi-voi-suc-khoe-4800319.html) - 19:00 04/10/2024
-- 🌊 [Vì sao nam giới thường buồn ngủ sau khi xuất tinh?](https://vnexpress.net/vi-sao-nam-gioi-thuong-buon-ngu-sau-khi-xuat-tinh-4799134.html) - 18:02 04/10/2024
-- 🚀 [12 học sinh nhập viện &#39;do uống nước ngọt quá nhiều gây hạ đường huyết&#39;](https://vnexpress.net/12-hoc-sinh-nhap-vien-do-uong-nuoc-ngot-qua-nhieu-gay-ha-duong-huyet-4800407.html) - 15:23 04/10/2024
-- 🕴 [Uống 10 loại thuốc trị ho, bé trai sốc phản vệ](https://vnexpress.net/uong-10-loai-thuoc-tri-ho-be-trai-soc-phan-ve-4800344.html) - 12:35 04/10/2024
-- 🗽 [Thai phụ mắc viêm gan B, phòng bệnh cho thai nhi thế nào?](https://vnexpress.net/thai-phu-mac-viem-gan-b-phong-benh-cho-thai-nhi-the-nao-4800148.html) - 11:00 04/10/2024
-- 🎡 [Nguyên nhân tiểu dầm ở người trưởng thành](https://vnexpress.net/nguyen-nhan-tieu-dam-o-nguoi-truong-thanh-4800300.html) - 10:00 04/10/2024
-- ⛽️ [Thụ tinh ống nghiệm miễn phí cho 100 cặp vợ chồng](https://vnexpress.net/thu-tinh-ong-nghiem-mien-phi-cho-100-cap-vo-chong-4800151.html) - 09:12 04/10/2024
-- 🦆 [Tại sao hay đau đầu kèm buồn ngủ?](https://vnexpress.net/tai-sao-hay-dau-dau-kem-buon-ngu-4800280.html) - 09:00 04/10/2024
-- 🤩 [Thay đổi lối sống và tư thế ngủ giúp giảm ngáy](https://vnexpress.net/thay-doi-loi-song-va-tu-the-ngu-giup-giam-ngay-4800214.html) - 09:00 04/10/2024
-- 🦒 [Tự phá thai gần 6 tháng](https://vnexpress.net/tu-pha-thai-gan-6-thang-4800275.html) - 08:57 04/10/2024
-- 💫 [Món ăn nào giàu canxi giúp trẻ phát triển xương?](https://vnexpress.net/mon-an-nao-giau-canxi-giup-tre-phat-trien-xuong-4800182.html) - 08:00 04/10/2024
-- 🐘 [Loại virus gây tử vong cao bùng phát tại Rwanda](https://vnexpress.net/loai-virus-gay-tu-vong-cao-bung-phat-tai-rwanda-4800245.html) - 07:34 04/10/2024
-- 🚀 [6 nhóm thực phẩm giúp phụ nữ sau sinh giảm đau đầu](https://vnexpress.net/6-nhom-thuc-pham-giup-phu-nu-sau-sinh-giam-dau-dau-4800202.html) - 07:30 04/10/2024
-- 🕯 [Bé sơ sinh tử vong sau 30 phút chờ xe cấp cứu](https://vnexpress.net/be-so-sinh-tu-vong-sau-30-phut-cho-xe-cap-cuu-4799935.html) - 07:00 04/10/2024
-- 🦏 [Lợi ích khi ăn các món chua](https://vnexpress.net/loi-ich-khi-an-cac-mon-chua-4800105.html) - 07:00 04/10/2024
-- 🦄 [Cơm căn tin trường nghi gây ngộ độc cho 23 học sinh](https://vnexpress.net/com-can-tin-truong-nghi-gay-ngo-doc-cho-23-hoc-sinh-4800199.html) - 06:27 04/10/2024
-- 🦒 [Uống nhiều nước ngọt hại gan thế nào?](https://vnexpress.net/uong-nhieu-nuoc-ngot-hai-gan-the-nao-4800205.html) - 06:00 04/10/2024
-- 👨‍🏫 [TP HCM mời gọi doanh nghiệp đầu tư xây bệnh viện](https://vnexpress.net/tp-hcm-moi-goi-doanh-nghiep-dau-tu-xay-benh-vien-4800174.html) - 05:33 04/10/2024
-- 🌜 [Việt Nam lần đầu có vaccine zona thần kinh](https://vnexpress.net/viet-nam-lan-dau-co-vaccine-zona-than-kinh-4800195.html) - 05:00 04/10/2024
-- 🚀 [5 loại quả giúp giảm mùi hơi thở](https://vnexpress.net/5-loai-qua-giup-giam-mui-hoi-tho-4800140.html) - 05:00 04/10/2024
-- 💃 [Ung thư phổi sau 20 năm hút thuốc lá](https://vnexpress.net/ung-thu-phoi-sau-20-nam-hut-thuoc-la-4800110.html) - 05:00 04/10/2024
-- 💯 [Điều trị u mạch máu không cần phẫu thuật](https://vnexpress.net/dieu-tri-u-mach-mau-khong-can-phau-thuat-4800104.html) - 04:30 04/10/2024
-- 🤔 [Thực phẩm nào tốt cho người cao huyết áp?](https://vnexpress.net/thuc-pham-nao-tot-cho-nguoi-cao-huyet-ap-4800124.html) - 04:00 04/10/2024
-- 🎬 [Xử trí thế nào khi tràn dịch khớp gối](https://vnexpress.net/xu-tri-the-nao-khi-tran-dich-khop-goi-4800100.html) - 04:00 04/10/2024
-- 🪜 [Viêm xoang - bệnh gây đau đầu khi thay đổi thời tiết](https://vnexpress.net/viem-xoang-benh-gay-dau-dau-khi-thay-doi-thoi-tiet-4799889.html) - 03:30 04/10/2024
-- 🦣 [Ung thư cổ tử cung giai đoạn một chữa khỏi không?](https://vnexpress.net/ung-thu-co-tu-cung-giai-doan-mot-chua-khoi-khong-4800102.html) - 03:30 04/10/2024
-- 🧐 [Cá thể hóa - &#39;chìa khóa&#39; chữa béo phì thành công](https://vnexpress.net/ca-the-hoa-chia-khoa-chua-beo-phi-thanh-cong-4800075.html) - 02:30 04/10/2024
-- 🤡 [Người mắc ung thư phổi nên ăn gì?](https://vnexpress.net/nguoi-mac-ung-thu-phoi-nen-an-gi-4799732.html) - 02:00 04/10/2024
-- 👍 [Kiểm tra nguy cơ ung thư mũi](https://vnexpress.net/kiem-tra-nguy-co-ung-thu-mui-4800040.html) - 02:00 04/10/2024
-- 💡 [Thức ăn nhanh làm tăng nguy cơ đái tháo đường ở trẻ](https://vnexpress.net/thuc-an-nhanh-lam-tang-nguy-co-dai-thao-duong-o-tre-4799945.html) - 01:00 04/10/2024
-- 💯 [Mãn dục tuổi 30](https://vnexpress.net/man-duc-tuoi-30-4796403.html) - 23:00 03/10/2024
-- 🧠 [Mỡ máu cao có gây tê tay chân?](https://vnexpress.net/mo-mau-cao-co-gay-te-tay-chan-4798774.html) - 22:00 03/10/2024
-- 🎡 [Mắc hai bệnh tình dục sau quan hệ không an toàn](https://vnexpress.net/mac-hai-benh-tinh-duc-sau-quan-he-khong-an-toan-4799681.html) - 17:05 03/10/2024
-- 🌏 [8 mẹo giúp giảm trào ngược dạ dày](https://vnexpress.net/8-meo-giup-giam-trao-nguoc-da-day-4799122.html) - 17:03 03/10/2024
-- ⚗️ [Gặp họa bởi đeo vòng bi vào vùng kín](https://vnexpress.net/gap-hoa-boi-deo-vong-bi-vao-vung-kin-4799962.html) - 11:00 03/10/2024
-- 👨‍🏫 [Ngủ muộn khiến tăng hay giảm cân?](https://vnexpress.net/ngu-muon-khien-tang-hay-giam-can-4799918.html) - 10:54 03/10/2024
-- 🤖 [Ngừa ngưng tim, đột quỵ khi chạy bộ thế nào](https://vnexpress.net/ngua-ngung-tim-dot-quy-khi-chay-bo-the-nao-4799130.html) - 08:00 03/10/2024<!-- vnexpress-suc-khoe:END -->
+- 🔥 [Ung thư gan giai đoạn muộn do bỏ điều trị viêm gan B](https://vnexpress.net/ung-thu-gan-giai-doan-muon-do-bo-dieu-tri-viem-gan-b-4800614.html) - 10:00 05/10/2024
+- 🥰 [Hệ hô hấp của bạn có tốt không?](https://vnexpress.net/he-ho-hap-cua-ban-co-tot-khong-4800540.html) - 10:00 05/10/2024
+- 💡 [Làm gì để răng sạch, ngừa hôi miệng?](https://vnexpress.net/lam-gi-de-rang-sach-ngua-hoi-mieng-4800535.html) - 09:00 05/10/2024
+- 🤗 [Vấn đề sức khỏe tuổi mãn kinh](https://vnexpress.net/van-de-suc-khoe-tuoi-man-kinh-4800496.html) - 09:00 05/10/2024
+- 🪜 [&#39;Đăng ảnh nhận ít tương tác có thể gây trầm cảm&#39;](https://vnexpress.net/dang-anh-nhan-it-tuong-tac-co-the-gay-tram-cam-4800324.html) - 08:30 05/10/2024
+- 🕯 [Vaccine có ngăn zona thần kinh tái phát?](https://vnexpress.net/vaccine-co-ngan-zona-than-kinh-tai-phat-4800553.html) - 07:00 05/10/2024
+- 🤭 [Những loại ung thư do HPV](https://vnexpress.net/nhung-loai-ung-thu-do-hpv-4800455.html) - 07:00 05/10/2024
+- 👀 [5 đồ uống không tốt cho người tiểu đường](https://vnexpress.net/5-do-uong-khong-tot-cho-nguoi-tieu-duong-4800453.html) - 07:00 05/10/2024
+- 🌋 [Điều trị tinh binh dị dạng như thế nào để có con?](https://vnexpress.net/dieu-tri-tinh-binh-di-dang-nhu-the-nao-de-co-con-4800515.html) - 06:00 05/10/2024
+- 🫶 [Bị hói đầu dùng tinh dầu có giúp mọc tóc?](https://vnexpress.net/bi-hoi-dau-dung-tinh-dau-co-giup-moc-toc-4800522.html) - 05:00 05/10/2024
+- 🦆 [Thói quen ăn uống nào dễ gây ung thư?](https://vnexpress.net/thoi-quen-an-uong-nao-de-gay-ung-thu-4800460.html) - 05:00 05/10/2024
+- 🚀 [Sản phụ gặp nguy vì kiêng sinh mồng một](https://vnexpress.net/san-phu-gap-nguy-vi-kieng-sinh-mong-mot-4800479.html) - 04:27 05/10/2024
+- 🌜 [Giãn dây chằng](https://vnexpress.net/gian-day-chang-4800509.html) - 04:00 05/10/2024
+- 🧰 [5 trái cây giúp ngủ ngon có thể ăn mỗi ngày](https://vnexpress.net/5-trai-cay-giup-ngu-ngon-co-the-an-moi-ngay-4800497.html) - 04:00 05/10/2024
+- 💫 [5 loại hạt trẻ đang lớn nên ăn thường xuyên](https://vnexpress.net/5-loai-hat-tre-dang-lon-nen-an-thuong-xuyen-4800474.html) - 03:00 05/10/2024
+- 🌝 [Suy giảm nội tiết tố ở tuổi 40](https://vnexpress.net/suy-giam-noi-tiet-to-o-tuoi-40-4800466.html) - 03:00 05/10/2024
+- 🗽 [Có nên uống men tiêu hóa mỗi ngày?](https://vnexpress.net/co-nen-uong-men-tieu-hoa-moi-ngay-4800459.html) - 02:00 05/10/2024
+- 🕯 [Uống gì giúp giảm mỡ máu?](https://vnexpress.net/uong-gi-giup-giam-mo-mau-4800452.html) - 02:00 05/10/2024
+- 🦅 [Người Việt &#39;sống lâu nhưng không khỏe&#39;](https://vnexpress.net/nguoi-viet-song-lau-nhung-khong-khoe-4800303.html) - 01:33 05/10/2024
+- 🦆 [Điều trị rối loạn nhịp tim triệt để không cần dùng thuốc](https://vnexpress.net/dieu-tri-roi-loan-nhip-tim-triet-de-khong-can-dung-thuoc-4800448.html) - 01:21 05/10/2024
+- 🎊 [Giảm ăn tinh bột có giảm cân?](https://vnexpress.net/giam-an-tinh-bot-co-giam-can-4800435.html) - 01:00 05/10/2024
+- 🏊 [Người bệnh thận mạn nên ăn bao nhiêu muối mỗi ngày?](https://vnexpress.net/nguoi-benh-than-man-nen-an-bao-nhieu-muoi-moi-ngay-4800252.html) - 01:00 05/10/2024
+- 📝 [Ung thư ruột non](https://vnexpress.net/ung-thu-ruot-non-4799508.html) - 00:00 05/10/2024
+- 💯 [Mắc tâm bệnh bởi suy giảm ham muốn tuổi 30](https://vnexpress.net/mac-tam-benh-boi-suy-giam-ham-muon-tuoi-30-4799370.html) - 23:00 04/10/2024
+- 🌊 [Chật vật gây mê mổ sinh cho sản phụ bị cứng hàm, viêm dính cột sống](https://vnexpress.net/chat-vat-gay-me-mo-sinh-cho-san-phu-bi-cung-ham-viem-dinh-cot-song-4800399.html) - 21:00 04/10/2024
+- 🚀 [Giờ đi ngủ lý tưởng đối với sức khỏe](https://vnexpress.net/gio-di-ngu-ly-tuong-doi-voi-suc-khoe-4800319.html) - 19:00 04/10/2024
+- 🕴 [Vì sao nam giới thường buồn ngủ sau khi xuất tinh?](https://vnexpress.net/vi-sao-nam-gioi-thuong-buon-ngu-sau-khi-xuat-tinh-4799134.html) - 18:02 04/10/2024
+- 🗽 [12 học sinh nhập viện &#39;do uống nước ngọt quá nhiều gây hạ đường huyết&#39;](https://vnexpress.net/12-hoc-sinh-nhap-vien-do-uong-nuoc-ngot-qua-nhieu-gay-ha-duong-huyet-4800407.html) - 15:23 04/10/2024
+- 🎡 [Uống 10 loại thuốc trị ho, bé trai sốc phản vệ](https://vnexpress.net/uong-10-loai-thuoc-tri-ho-be-trai-soc-phan-ve-4800344.html) - 12:35 04/10/2024
+- ⛽️ [Thai phụ mắc viêm gan B, phòng bệnh cho thai nhi thế nào?](https://vnexpress.net/thai-phu-mac-viem-gan-b-phong-benh-cho-thai-nhi-the-nao-4800148.html) - 11:00 04/10/2024
+- 🦆 [Nguyên nhân tiểu dầm ở người trưởng thành](https://vnexpress.net/nguyen-nhan-tieu-dam-o-nguoi-truong-thanh-4800300.html) - 10:00 04/10/2024
+- 🤩 [Thụ tinh ống nghiệm miễn phí cho 100 cặp vợ chồng](https://vnexpress.net/thu-tinh-ong-nghiem-mien-phi-cho-100-cap-vo-chong-4800151.html) - 09:12 04/10/2024
+- 🦒 [Tại sao hay đau đầu kèm buồn ngủ?](https://vnexpress.net/tai-sao-hay-dau-dau-kem-buon-ngu-4800280.html) - 09:00 04/10/2024
+- 💫 [Thay đổi lối sống và tư thế ngủ giúp giảm ngáy](https://vnexpress.net/thay-doi-loi-song-va-tu-the-ngu-giup-giam-ngay-4800214.html) - 09:00 04/10/2024
+- 🐘 [Tự phá thai gần 6 tháng](https://vnexpress.net/tu-pha-thai-gan-6-thang-4800275.html) - 08:57 04/10/2024
+- 🚀 [Món ăn nào giàu canxi giúp trẻ phát triển xương?](https://vnexpress.net/mon-an-nao-giau-canxi-giup-tre-phat-trien-xuong-4800182.html) - 08:00 04/10/2024
+- 🕯 [Loại virus gây tử vong cao bùng phát tại Rwanda](https://vnexpress.net/loai-virus-gay-tu-vong-cao-bung-phat-tai-rwanda-4800245.html) - 07:34 04/10/2024
+- 🦏 [6 nhóm thực phẩm giúp phụ nữ sau sinh giảm đau đầu](https://vnexpress.net/6-nhom-thuc-pham-giup-phu-nu-sau-sinh-giam-dau-dau-4800202.html) - 07:30 04/10/2024
+- 🦄 [Bé sơ sinh tử vong sau 30 phút chờ xe cấp cứu](https://vnexpress.net/be-so-sinh-tu-vong-sau-30-phut-cho-xe-cap-cuu-4799935.html) - 07:00 04/10/2024
+- 🦒 [Lợi ích khi ăn các món chua](https://vnexpress.net/loi-ich-khi-an-cac-mon-chua-4800105.html) - 07:00 04/10/2024
+- 👨‍🏫 [Cơm căn tin trường nghi gây ngộ độc cho 23 học sinh](https://vnexpress.net/com-can-tin-truong-nghi-gay-ngo-doc-cho-23-hoc-sinh-4800199.html) - 06:27 04/10/2024
+- 🌜 [Uống nhiều nước ngọt hại gan thế nào?](https://vnexpress.net/uong-nhieu-nuoc-ngot-hai-gan-the-nao-4800205.html) - 06:00 04/10/2024
+- 🚀 [TP HCM mời gọi doanh nghiệp đầu tư xây bệnh viện](https://vnexpress.net/tp-hcm-moi-goi-doanh-nghiep-dau-tu-xay-benh-vien-4800174.html) - 05:33 04/10/2024
+- 💃 [Việt Nam lần đầu có vaccine zona thần kinh](https://vnexpress.net/viet-nam-lan-dau-co-vaccine-zona-than-kinh-4800195.html) - 05:00 04/10/2024
+- 💯 [5 loại quả giúp giảm mùi hơi thở](https://vnexpress.net/5-loai-qua-giup-giam-mui-hoi-tho-4800140.html) - 05:00 04/10/2024
+- 🤔 [Ung thư phổi sau 20 năm hút thuốc lá](https://vnexpress.net/ung-thu-phoi-sau-20-nam-hut-thuoc-la-4800110.html) - 05:00 04/10/2024
+- 🎬 [Điều trị u mạch máu không cần phẫu thuật](https://vnexpress.net/dieu-tri-u-mach-mau-khong-can-phau-thuat-4800104.html) - 04:30 04/10/2024
+- 🪜 [Thực phẩm nào tốt cho người cao huyết áp?](https://vnexpress.net/thuc-pham-nao-tot-cho-nguoi-cao-huyet-ap-4800124.html) - 04:00 04/10/2024
+- 🦣 [Xử trí thế nào khi tràn dịch khớp gối](https://vnexpress.net/xu-tri-the-nao-khi-tran-dich-khop-goi-4800100.html) - 04:00 04/10/2024
+- 🧐 [Viêm xoang - bệnh gây đau đầu khi thay đổi thời tiết](https://vnexpress.net/viem-xoang-benh-gay-dau-dau-khi-thay-doi-thoi-tiet-4799889.html) - 03:30 04/10/2024
+- 🤡 [Ung thư cổ tử cung giai đoạn một chữa khỏi không?](https://vnexpress.net/ung-thu-co-tu-cung-giai-doan-mot-chua-khoi-khong-4800102.html) - 03:30 04/10/2024
+- 👍 [Cá thể hóa - &#39;chìa khóa&#39; chữa béo phì thành công](https://vnexpress.net/ca-the-hoa-chia-khoa-chua-beo-phi-thanh-cong-4800075.html) - 02:30 04/10/2024
+- 💡 [Người mắc ung thư phổi nên ăn gì?](https://vnexpress.net/nguoi-mac-ung-thu-phoi-nen-an-gi-4799732.html) - 02:00 04/10/2024
+- 💯 [Kiểm tra nguy cơ ung thư mũi](https://vnexpress.net/kiem-tra-nguy-co-ung-thu-mui-4800040.html) - 02:00 04/10/2024
+- 🧠 [Thức ăn nhanh làm tăng nguy cơ đái tháo đường ở trẻ](https://vnexpress.net/thuc-an-nhanh-lam-tang-nguy-co-dai-thao-duong-o-tre-4799945.html) - 01:00 04/10/2024
+- 🎡 [Mãn dục tuổi 30](https://vnexpress.net/man-duc-tuoi-30-4796403.html) - 23:00 03/10/2024
+- 🌏 [Mỡ máu cao có gây tê tay chân?](https://vnexpress.net/mo-mau-cao-co-gay-te-tay-chan-4798774.html) - 22:00 03/10/2024
+- ⚗️ [Mắc hai bệnh tình dục sau quan hệ không an toàn](https://vnexpress.net/mac-hai-benh-tinh-duc-sau-quan-he-khong-an-toan-4799681.html) - 17:05 03/10/2024
+- 👨‍🏫 [8 mẹo giúp giảm trào ngược dạ dày](https://vnexpress.net/8-meo-giup-giam-trao-nguoc-da-day-4799122.html) - 17:03 03/10/2024
+- 🤖 [Gặp họa bởi đeo vòng bi vào vùng kín](https://vnexpress.net/gap-hoa-boi-deo-vong-bi-vao-vung-kin-4799962.html) - 11:00 03/10/2024<!-- vnexpress-suc-khoe:END -->
