@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Lương thấp lại bị chèn ép ở chỗ làm, nhiều công nhân mơ vẫn sợ... sếp](https://dantri.com.vn/lao-dong-viec-lam/luong-thap-lai-bi-chen-ep-o-cho-lam-nhieu-cong-nhan-mo-van-so-sep-20241004131818355.htm) - 02:00 05/10/2024
+- ⚗️ [Lương thấp lại bị chèn ép ở chỗ làm, nhiều công nhân nằm mơ vẫn sợ... sếp](https://dantri.com.vn/lao-dong-viec-lam/luong-thap-lai-bi-chen-ep-o-cho-lam-nhieu-cong-nhan-nam-mo-van-so-sep-20241004131818355.htm) - 02:00 05/10/2024
 - 🙉 [Lao động Việt ở Đài Loan sốc khi mua một cái bắp cải gần 300.000 đồng](https://dantri.com.vn/lao-dong-viec-lam/lao-dong-viet-o-dai-loan-soc-khi-mua-mot-cai-bap-cai-gan-300000-dong-20241004161403533.htm) - 00:00 05/10/2024
 - 🕴 [Vụ bác sĩ làm việc trên xe lăn bị điều chuyển: Cần quan tâm tính nhân văn](https://dantri.com.vn/lao-dong-viec-lam/vu-bac-si-lam-viec-tren-xe-lan-bi-dieu-chuyen-can-quan-tam-tinh-nhan-van-20241004143741258.htm) - 23:00 04/10/2024
 - 🧐 [Chàng trai Việt mất cánh tay sau tai nạn lao động ở Nhật](https://dantri.com.vn/lao-dong-viec-lam/chang-trai-viet-mat-canh-tay-sau-tai-nan-lao-dong-o-nhat-20241004110015626.htm) - 06:20 04/10/2024
