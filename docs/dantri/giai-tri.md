@@ -4,9 +4,9 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [3 hot girl chuyển giới nổi tiếng với vẻ ngoài xinh đẹp, gợi cảm](https://dantri.com.vn/giai-tri/3-hot-girl-chuyen-gioi-noi-tieng-voi-ve-ngoai-xinh-dep-goi-cam-20240912124743045.htm) - 13:00 05/10/2024
-- 🔥 [Thúy Diễm day dứt vì vai diễn trong phim &quot;Bà già đi bụi&quot;](https://dantri.com.vn/giai-tri/thuy-diem-day-dut-vi-vai-dien-trong-phim-ba-gia-di-bui-20241005185519995.htm) - 11:55 05/10/2024
-- 🚀 [&quot;Mỹ nhân Tân Cương&quot; bức xúc khi bị tố là tú bà, cặp kè với nhân vật lớn](https://dantri.com.vn/giai-tri/my-nhan-tan-cuong-buc-xuc-khi-bi-to-la-tu-ba-cap-ke-voi-nhan-vat-lon-20241005103229892.htm) - 10:35 05/10/2024
+- 🤩 [&quot;Mỹ nhân Tân Cương&quot; bức xúc khi bị tố là tú bà, cặp kè với nhân vật lớn](https://dantri.com.vn/giai-tri/my-nhan-tan-cuong-buc-xuc-khi-bi-to-la-tu-ba-cap-ke-voi-nhan-vat-lon-20241005103229892.htm) - 14:59 05/10/2024
+- 🔥 [3 hot girl chuyển giới nổi tiếng với vẻ ngoài xinh đẹp, gợi cảm](https://dantri.com.vn/giai-tri/3-hot-girl-chuyen-gioi-noi-tieng-voi-ve-ngoai-xinh-dep-goi-cam-20240912124743045.htm) - 13:00 05/10/2024
+- 🚀 [Thúy Diễm day dứt vì vai diễn trong phim &quot;Bà già đi bụi&quot;](https://dantri.com.vn/giai-tri/thuy-diem-day-dut-vi-vai-dien-trong-phim-ba-gia-di-bui-20241005185519995.htm) - 11:55 05/10/2024
 - 🔥 [Doãn Quốc Đam - Duy Hưng gây bão phim VTV, diễn xuất ăn ý hút triệu view](https://dantri.com.vn/giai-tri/doan-quoc-dam-duy-hung-gay-bao-phim-vtv-dien-xuat-an-y-hut-trieu-view-20241005141310919.htm) - 10:29 05/10/2024
 - 🌈 [Câu chuyện về cô gái nhận học bổng hơn 8 tỷ đồng của Đại học Harvard](https://dantri.com.vn/giai-tri/cau-chuyen-ve-co-gai-nhan-hoc-bong-hon-8-ty-dong-cua-dai-hoc-harvard-20241005130932034.htm) - 10:23 05/10/2024
 - 📝 [&quot;Cảm xúc tháng 10&quot; tôn vinh vẻ đẹp hào hùng và lãng mạn của Hà Nội](https://dantri.com.vn/giai-tri/cam-xuc-thang-10-ton-vinh-ve-dep-hao-hung-va-lang-man-cua-ha-noi-20241005100009818.htm) - 09:54 05/10/2024
