@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Vụ bác sĩ làm việc trên xe lăn bị điều chuyển: Không phát hiện sai trái](https://dantri.com.vn/lao-dong-viec-lam/vu-bac-si-lam-viec-tren-xe-lan-bi-dieu-chuyen-khong-phat-hien-sai-trai-20241005120246948.htm) - 06:50 05/10/2024
+- ⚗️ [Vụ bác sĩ làm việc trên xe lăn bị điều chuyển: Không phát hiện sai phạm](https://dantri.com.vn/lao-dong-viec-lam/vu-bac-si-lam-viec-tren-xe-lan-bi-dieu-chuyen-khong-phat-hien-sai-pham-20241005120246948.htm) - 06:50 05/10/2024
 - 🙉 [Đề nghị công khai quyết định xử phạt doanh nghiệp vi phạm an toàn lao động](https://dantri.com.vn/lao-dong-viec-lam/de-nghi-cong-khai-quyet-dinh-xu-phat-doanh-nghiep-vi-pham-an-toan-lao-dong-20241005052336673.htm) - 06:09 05/10/2024
 - 🕴 [Lương thấp lại bị chèn ép ở chỗ làm, nhiều công nhân nằm mơ vẫn sợ... sếp](https://dantri.com.vn/lao-dong-viec-lam/luong-thap-lai-bi-chen-ep-o-cho-lam-nhieu-cong-nhan-nam-mo-van-so-sep-20241004131818355.htm) - 02:00 05/10/2024
 - 🧐 [Lao động Việt ở Đài Loan sốc khi mua một cái bắp cải gần 300.000 đồng](https://dantri.com.vn/lao-dong-viec-lam/lao-dong-viet-o-dai-loan-soc-khi-mua-mot-cai-bap-cai-gan-300000-dong-20241004161403533.htm) - 00:00 05/10/2024
