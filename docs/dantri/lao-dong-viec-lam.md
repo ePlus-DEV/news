@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Tàu chao đảo rồi chìm sau khi bị đâm, 4 ngư dân lênh đênh trên biển](https://dantri.com.vn/lao-dong-viec-lam/tau-chao-dao-roi-chim-sau-khi-bi-dam-4-ngu-dan-lenh-denh-tren-bien-20241006125151131.htm) - 07:47 06/10/2024
+- ⚗️ [Tàu cá bị tàu lạ đâm chìm, 4 ngư dân lênh đênh trên biển](https://dantri.com.vn/lao-dong-viec-lam/tau-ca-bi-tau-la-dam-chim-4-ngu-dan-lenh-denh-tren-bien-20241006125151131.htm) - 07:47 06/10/2024
 - 🙉 [Thu nhập trung bình của người Hà Nội tăng cao, chạm mốc 11 triệu đồng/tháng](https://dantri.com.vn/lao-dong-viec-lam/thu-nhap-trung-binh-cua-nguoi-ha-noi-tang-cao-cham-moc-11-trieu-dongthang-20241006122817467.htm) - 06:31 06/10/2024
 - 🕴 [Bỏ đại học y vì nghĩ không hợp, người đàn ông thành triệu phú hươu](https://dantri.com.vn/lao-dong-viec-lam/bo-dai-hoc-y-vi-nghi-khong-hop-nguoi-dan-ong-thanh-trieu-phu-huou-20241005213939951.htm) - 04:59 06/10/2024
 - 🧐 [Rong ruổi tầm sư, học nghề biến nắm cát vô tri thành món hàng tiền triệu](https://dantri.com.vn/lao-dong-viec-lam/rong-ruoi-tam-su-hoc-nghe-bien-nam-cat-vo-tri-thanh-mon-hang-tien-trieu-20241005203620428.htm) - 01:19 06/10/2024
