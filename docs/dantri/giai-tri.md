@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Phương Trinh Jolie hé lộ giới tính em bé thứ ba, xúc động đón tuổi mới](https://dantri.com.vn/giai-tri/phuong-trinh-jolie-he-lo-gioi-tinh-em-be-thu-ba-xuc-dong-don-tuoi-moi-20241006151941196.htm) - 09:40 06/10/2024
+- 🤩 [Phương Trinh Jolie xúc động đón tuổi mới khi mang bầu lần 3](https://dantri.com.vn/giai-tri/phuong-trinh-jolie-xuc-dong-don-tuoi-moi-khi-mang-bau-lan-3-20241006151941196.htm) - 09:40 06/10/2024
 - 🔥 [Hoa hậu Thùy Tiên &quot;phá lệ&quot; ăn rau để kiếm tiền giúp trẻ em mồ côi](https://dantri.com.vn/giai-tri/hoa-hau-thuy-tien-pha-le-an-rau-de-kiem-tien-giup-tre-em-mo-coi-20241006145145179.htm) - 09:33 06/10/2024
 - 🚀 [Hoa hậu Ngọc Hân lần đầu cùng mẹ và bà ngoại trình diễn thời trang](https://dantri.com.vn/giai-tri/hoa-hau-ngoc-han-lan-dau-cung-me-va-ba-ngoai-trinh-dien-thoi-trang-20241006143751102.htm) - 09:25 06/10/2024
 - 🔥 [Hình ảnh mới của &quot;mỹ nam vạn người mê&quot; Quách Phú Thành ở tuổi 59](https://dantri.com.vn/giai-tri/hinh-anh-moi-cua-my-nam-van-nguoi-me-quach-phu-thanh-o-tuoi-59-20241005095708701.htm) - 08:07 06/10/2024
