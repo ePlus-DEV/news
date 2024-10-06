@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Vùng cao Quảng Nam lo sạt lở](https://vnexpress.net/vung-cao-quang-nam-lo-sat-lo-4800593.html) - 09:21 06/10/2024
+- 🦒 [Nỗi lo sạt lở ở vùng cao](https://vnexpress.net/noi-lo-sat-lo-o-vung-cao-4800593.html) - 09:21 06/10/2024
 - 🤓 [Xe tải tông xe máy, hai phụ nữ tử vong](https://vnexpress.net/xe-tai-tong-xe-may-hai-phu-nu-tu-vong-4800828.html) - 08:49 06/10/2024
 - ⚗️ [Miền Bắc đón không khí lạnh tăng cường](https://vnexpress.net/mien-bac-don-khong-khi-lanh-tang-cuong-4800810.html) - 06:55 06/10/2024
 - 🌊 [Cắt thùng bêtông giải cứu ôtô lật ở quốc lộ qua Cà Mau](https://vnexpress.net/cat-thung-betong-giai-cuu-oto-lat-o-quoc-lo-qua-ca-mau-4800794.html) - 05:13 06/10/2024
