@@ -146,12 +146,12 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Cần lưu ý gì khi du lịch tại Peru?](https://thanhnien.vn/thoi-trang-tre/can-luu-y-gi-khi-du-lich-tai-peru-185241005110112107.htm) - 11:00 06/10/2024
-- 🥸 [Nhóm sinh viên nghiên cứu về lòng ái kỷ trên mạng xã hội của Gen Z](https://thanhnien.vn/nhom-sinh-vien-nghien-cuu-ve-long-ai-ky-tren-mang-xa-hoi-cua-gen-z-185241006172921279.htm) - 10:58 06/10/2024
-- 🌁 [Hoàng Thị Loan đẹp rạng rỡ trong tà áo dài, đọ sắc cùng &#39;hot girl&#39; Trung Quốc](https://thanhnien.vn/hoang-thi-loan-dep-rang-ro-trong-ta-ao-dai-do-sac-cung-hot-girl-trung-quoc-185241006170904272.htm) - 10:44 06/10/2024
-- 🤡 [Bắt nghi phạm giết người, cướp tài sản ở Bến Tre đến Kiên Giang lẩn trốn](https://thanhnien.vn/bat-nghi-pham-giet-nguoi-cuop-tai-san-o-ben-tre-den-kien-giang-lan-tron-185241006165301132.htm) - 10:33 06/10/2024
-- 🎉 [Đã lắp xong cầu phao Phong Châu](https://thanhnien.vn/da-lap-xong-cau-phao-phong-chau-185241006171644763.htm) - 10:21 06/10/2024
-- 🎊 [Bình Dương: Phụ huynh phản ánh con ở nhóm trẻ bị &#39;tác động vào má&#39;](https://thanhnien.vn/binh-duong-phu-huynh-phan-anh-con-o-nhom-tre-bi-tac-dong-vao-ma-18524100616440846.htm) - 10:15 06/10/2024
+- 🤠 [Xe container tông sập nhà dân: Tài xế tử vong do mải mê xem iPad khi lái](https://thanhnien.vn/xe-container-tong-sap-nha-dan-tai-xe-tu-vong-do-mai-me-xem-ipad-khi-lai-185241006175114865.htm) - 11:20 06/10/2024
+- 🥸 [Cần lưu ý gì khi du lịch tại Peru?](https://thanhnien.vn/thoi-trang-tre/can-luu-y-gi-khi-du-lich-tai-peru-185241005110112107.htm) - 11:00 06/10/2024
+- 🌁 [Nhóm sinh viên nghiên cứu về lòng ái kỷ trên mạng xã hội của Gen Z](https://thanhnien.vn/nhom-sinh-vien-nghien-cuu-ve-long-ai-ky-tren-mang-xa-hoi-cua-gen-z-185241006172921279.htm) - 10:58 06/10/2024
+- 🤡 [Hoàng Thị Loan đẹp rạng rỡ trong tà áo dài, đọ sắc cùng &#39;hot girl&#39; Trung Quốc](https://thanhnien.vn/hoang-thi-loan-dep-rang-ro-trong-ta-ao-dai-do-sac-cung-hot-girl-trung-quoc-185241006170904272.htm) - 10:44 06/10/2024
+- 🎉 [Bắt nghi phạm giết người, cướp tài sản ở Bến Tre đến Kiên Giang lẩn trốn](https://thanhnien.vn/bat-nghi-pham-giet-nguoi-cuop-tai-san-o-ben-tre-den-kien-giang-lan-tron-185241006165301132.htm) - 10:33 06/10/2024
+- 🎊 [Đã lắp xong cầu phao Phong Châu](https://thanhnien.vn/da-lap-xong-cau-phao-phong-chau-185241006171644763.htm) - 10:21 06/10/2024
 - 🤠 [&#39;Bán vèo&#39; 26.000 vé tàu Tết 2025 sau 2 giờ mở bán](https://thanhnien.vn/ban-veo-26000-ve-tau-tet-2025-sau-2-gio-mo-ban-185241006165025018.htm) - 10:12 06/10/2024
 - 💼 [&#39;Lần cuối cùng tôi mặc váy trong suốt hơn 15 năm sau đó&#39;](https://thanhnien.vn/lan-cuoi-cung-toi-mac-vay-trong-suot-hon-15-nam-sau-do-185241006155501547.htm) - 10:06 06/10/2024
 - 🐻 [Giải Sách hay 2024 gọi tên những tác phẩm &#39;nặng ký&#39;, giàu tính nhân văn](https://thanhnien.vn/giai-sach-hay-2024-goi-ten-nhung-tac-pham-nang-ky-giau-tinh-nhan-van-185241006131744101.htm) - 10:00 06/10/2024
