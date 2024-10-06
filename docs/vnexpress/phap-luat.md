@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Kỳ án cánh tay bí ẩn mắc trong hàm cá mập](https://vnexpress.net/ky-an-canh-tay-bi-an-mac-trong-ham-ca-map-4800191.html) - 01:35 06/10/2024
 - 🥰 [Mẹ kế đổ nước sôi vào chân bé 6 tuổi &#39;vì không nghe lời&#39;](https://vnexpress.net/me-ke-do-nuoc-soi-vao-chan-be-6-tuoi-vi-khong-nghe-loi-4800636.html) - 10:36 05/10/2024
-- 🎓 [Dùng búa tấn công anh vì một câu nói](https://vnexpress.net/dung-bua-tan-cong-anh-vi-mot-cau-noi-4800597.html) - 08:21 05/10/2024
+- 🎓 [Dùng rìu tấn công anh vì một câu nói](https://vnexpress.net/dung-riu-tan-cong-anh-vi-mot-cau-noi-4800597.html) - 08:21 05/10/2024
 - 🤓 [14 thanh thiếu niên vô cớ chém người đi đường](https://vnexpress.net/14-thanh-thieu-nien-vo-co-chem-nguoi-di-duong-4800532.html) - 06:19 05/10/2024
 - 🎊 [Bị bắt vì trộm dầu trên công trường cao tốc](https://vnexpress.net/bi-bat-vi-trom-dau-tren-cong-truong-cao-toc-4800525.html) - 04:55 05/10/2024
 - 🙉 [Hành khách giấu 3 kg vàng trong giày và vùng kín khi nhập cảnh](https://vnexpress.net/hanh-khach-giau-3-kg-vang-lau-trong-giay-va-vung-kin-khi-nhap-canh-4800426.html) - 17:00 04/10/2024
