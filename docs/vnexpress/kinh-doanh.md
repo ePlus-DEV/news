@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Tín dụng tăng mạnh 8,53%](https://vnexpress.net/tin-dung-tang-vot-len-8-53-4800825.html) - 09:44 06/10/2024
+- ⛽️ [Tín dụng tăng 8,53%](https://vnexpress.net/tin-dung-tang-vot-len-8-53-4800825.html) - 09:44 06/10/2024
 - 🐲 [Kinh tế Israel thiệt hại ra sao vì chiến sự](https://vnexpress.net/kinh-te-israel-thiet-hai-ra-sao-vi-chien-su-4800801.html) - 07:50 06/10/2024
 - 🔥 [Giá dầu Nga cao hơn trần của phương Tây 5 USD](https://vnexpress.net/gia-dau-nga-cao-hon-tran-cua-phuong-tay-5-usd-4800753.html) - 05:44 06/10/2024
 - 🐵 [GDP quý III tăng 7,4%](https://vnexpress.net/gdp-quy-iii-tang-7-4-4800759.html) - 03:19 06/10/2024
