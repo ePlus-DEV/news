@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Aston Villa - Man Utd: Garnancho, Maguire đá chính](https://dantri.com.vn/the-thao/aston-villa-man-utd-garnancho-maguire-da-chinh-20241006194742652.htm) - 12:47 06/10/2024
+- 🎡 [Aston Villa 0-0 Man Utd &lpar;hiệp 1&rpar;: Garnancho, Maguire đá chính](https://dantri.com.vn/the-thao/aston-villa-0-0-man-utd-hiep-1-garnancho-maguire-da-chinh-20241006194742652.htm) - 12:47 06/10/2024
 - 💯 [Ten Hag lâm nguy, Man Utd chốt xong người thay thế](https://dantri.com.vn/the-thao/ten-hag-lam-nguy-man-utd-chot-xong-nguoi-thay-the-20241006184423641.htm) - 11:44 06/10/2024
 - ⛽️ [Nhận định, dự đoán tỷ số Aston Villa vs Man Utd &lpar;20h00 ngày 6/10&rpar;](https://dantri.com.vn/the-thao/nhan-dinh-du-doan-ty-so-aston-villa-vs-man-utd-20h00-ngay-610-20241006142521566.htm) - 07:25 06/10/2024
 - 💃 [Ngôi sao Real Madrid chấn thương nghiêm trọng, cẳng chân biến dạng](https://dantri.com.vn/the-thao/ngoi-sao-real-madrid-chan-thuong-nghiem-trong-cang-chan-bien-dang-20241006135202736.htm) - 06:52 06/10/2024
