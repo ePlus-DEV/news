@@ -9,7 +9,7 @@ sidebar_position: 1
 - ⚗️ [Hàng nghìn người tái hiện hình ảnh Hà Nội ngày 10/10/1954](https://vnexpress.net/hang-nghin-nguoi-tai-hien-hinh-anh-ha-noi-ngay-10-10-1954-4800774.html) - 04:40 06/10/2024
 - 🌊 [Đường sắt bán vé Tết, giá cao nhất hơn 3,2 triệu đồng](https://vnexpress.net/duong-sat-ban-ve-tet-gia-cao-nhat-hon-3-2-trieu-dong-4800786.html) - 04:27 06/10/2024
 - 🎓 [Lắp lại cầu phao Phong Châu](https://vnexpress.net/lap-lai-cau-phao-phong-chau-4800775.html) - 04:12 06/10/2024
-- 🔥 [Nhiều vụ cháy rừng ở Quảng Ninh, Hải Dương](https://vnexpress.net/nhieu-vu-chay-rung-o-quang-ninh-hai-duong-4800773.html) - 03:53 06/10/2024
+- 🔥 [Cháy rừng ở Quảng Ninh và Hải Dương](https://vnexpress.net/chay-rung-o-quang-ninh-va-hai-duong-4800773.html) - 03:53 06/10/2024
 - 🦏 [Triều cường gây ngập ở Cần Thơ](https://vnexpress.net/trieu-cuong-gay-ngap-o-can-tho-4800735.html) - 03:40 06/10/2024
 - 👺 [Tài xế dừng xe, ngủ trên cao tốc bị phạt 22 triệu đồng](https://vnexpress.net/tai-xe-dung-xe-ngu-tren-cao-toc-bi-phat-22-trieu-dong-4800739.html) - 02:05 06/10/2024
 - 🧑‍🏫 [Sửa Luật Quảng cáo để ngăn chặn tiếp tay gian thương](https://vnexpress.net/sua-luat-quang-cao-de-ngan-chan-tiep-tay-gian-thuong-4799276.html) - 01:00 06/10/2024
