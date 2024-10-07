@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Khu dân cư ở Đồng Nai ngập gần 2 m sau mưa lớn](https://vnexpress.net/khu-dan-cu-o-dong-nai-ngap-gan-2-m-sau-mua-lon-4801347.html) - 15:03 07/10/2024
+- 🦒 [Khu dân cư ở Đồng Nai ngập gần 2 m sau cơn mưa lớn](https://vnexpress.net/khu-dan-cu-o-dong-nai-ngap-gan-2-m-sau-con-mua-lon-4801347.html) - 15:03 07/10/2024
 - 🤓 [Cây đổ đè 4 người ở trung tâm TP HCM](https://vnexpress.net/cay-do-de-4-nguoi-o-trung-tam-tp-hcm-4801331.html) - 13:14 07/10/2024
 - ⚗️ [Khu du lịch có 20 hổ chết đóng cửa](https://vnexpress.net/khu-du-lich-co-20-ho-chet-dong-cua-4801315.html) - 11:57 07/10/2024
 - 🌊 [&#39;Không xin ý kiến cấp trên với nhiệm vụ đã phân cấp&#39;](https://vnexpress.net/khong-xin-y-kien-cap-tren-voi-nhiem-vu-da-phan-cap-4801271.html) - 11:04 07/10/2024
