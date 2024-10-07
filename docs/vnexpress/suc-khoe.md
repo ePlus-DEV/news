@@ -4,14 +4,14 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Không khí Hà Nội ở mức gây hại sức khỏe](https://vnexpress.net/khong-khi-ha-noi-o-muc-gay-hai-suc-khoe-4801217.html) - 14:25 07/10/2024
-- 🥰 [Không há được miệng do nhiễm vi khuẩn uốn ván](https://vnexpress.net/khong-ha-duoc-mieng-do-nhiem-vi-khuan-uon-van-4801240.html) - 14:20 07/10/2024
-- 💡 [Tiêm vaccine thủy đậu bao lâu mới tiêm tiếp zona thần kinh?](https://vnexpress.net/tiem-vaccine-thuy-dau-bao-lau-moi-tiem-tiep-zona-than-kinh-4801237.html) - 12:00 07/10/2024
-- 🤗 [Những điều nên làm khi cholesterol cao](https://vnexpress.net/nhung-dieu-nen-lam-khi-cholesterol-cao-4801107.html) - 11:30 07/10/2024
-- 🪜 [&#39;Cùng một loại vật tư y tế nhưng giá chênh 5-7 lần ở các địa phương&#39;](https://vnexpress.net/cung-mot-loai-vat-tu-y-te-nhung-gia-chenh-5-7-lan-o-cac-dia-phuong-4801262.html) - 11:02 07/10/2024
-- 🕯 [Bệnh lý nào gây khó thở?](https://vnexpress.net/benh-ly-nao-gay-kho-tho-4801227.html) - 10:29 07/10/2024
-- 🤭 [Nghiên cứu về microRNA đoạt giải Nobel Y Sinh 2024](https://vnexpress.net/nghien-cuu-ve-microrna-doat-giai-nobel-y-sinh-2024-4801163.html) - 09:39 07/10/2024
-- 👀 [5 món ăn phòng ung thư vú](https://vnexpress.net/5-mon-an-phong-ung-thu-vu-4801158.html) - 09:30 07/10/2024
+- 🔥 [Không há được miệng do nhiễm vi khuẩn uốn ván](https://vnexpress.net/khong-ha-duoc-mieng-do-nhiem-vi-khuan-uon-van-4801240.html) - 14:20 07/10/2024
+- 🥰 [Tiêm vaccine thủy đậu bao lâu mới tiêm tiếp zona thần kinh?](https://vnexpress.net/tiem-vaccine-thuy-dau-bao-lau-moi-tiem-tiep-zona-than-kinh-4801237.html) - 12:00 07/10/2024
+- 💡 [Những điều nên làm khi cholesterol cao](https://vnexpress.net/nhung-dieu-nen-lam-khi-cholesterol-cao-4801107.html) - 11:30 07/10/2024
+- 🤗 [&#39;Cùng một loại vật tư y tế nhưng giá chênh 5-7 lần ở các địa phương&#39;](https://vnexpress.net/cung-mot-loai-vat-tu-y-te-nhung-gia-chenh-5-7-lan-o-cac-dia-phuong-4801262.html) - 11:02 07/10/2024
+- 🪜 [Bệnh lý nào gây khó thở?](https://vnexpress.net/benh-ly-nao-gay-kho-tho-4801227.html) - 10:29 07/10/2024
+- 🕯 [Nghiên cứu về microRNA đoạt giải Nobel Y Sinh 2024](https://vnexpress.net/nghien-cuu-ve-microrna-doat-giai-nobel-y-sinh-2024-4801163.html) - 09:39 07/10/2024
+- 🤭 [5 món ăn phòng ung thư vú](https://vnexpress.net/5-mon-an-phong-ung-thu-vu-4801158.html) - 09:30 07/10/2024
+- 👀 [Không khí Hà Nội ở mức gây hại sức khỏe](https://vnexpress.net/khong-khi-ha-noi-o-muc-gay-hai-suc-khoe-4801217.html) - 09:14 07/10/2024
 - 🌋 [5 câu hỏi về vaccine sốt xuất huyết](https://vnexpress.net/5-cau-hoi-ve-vaccine-sot-xuat-huyet-4801199.html) - 09:00 07/10/2024
 - 🫶 [Phương pháp thon gọn bắp tay không cần phẫu thuật](https://vnexpress.net/phuong-phap-thon-gon-bap-tay-khong-can-phau-thuat-4801157.html) - 09:00 07/10/2024
 - 🦆 [Xem câu cá, bé trai bị móc nhọn đâm suýt liệt mặt](https://vnexpress.net/xem-cau-ca-be-trai-bi-moc-nhon-dam-suyt-liet-mat-4801147.html) - 08:47 07/10/2024
