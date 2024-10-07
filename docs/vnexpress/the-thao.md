@@ -11,7 +11,7 @@ sidebar_position: 5
 - 🥳 [PSG mất đỉnh bảng Ligue 1](https://vnexpress.net/psg-mat-dinh-bang-ligue-1-4800909.html) - 23:13 06/10/2024
 - 🦣 [De Gea cản 2 quả phạt đền trước AC Milan](https://vnexpress.net/de-gea-can-2-qua-phat-den-truoc-ac-milan-4800903.html) - 22:55 06/10/2024
 - 🌜 [Ten Hag: &#39;Man Utd sẽ nói thẳng nếu muốn sa thải tôi&#39;](https://vnexpress.net/ten-hag-man-utd-se-noi-thang-neu-muon-sa-thai-toi-4800896.html) - 22:42 06/10/2024
-- 🫶 [Bayern rơi chiến thắng ở phút bù](https://vnexpress.net/bayern-roi-chien-thang-o-phut-bu-4800901.html) - 22:26 06/10/2024
+- 🫶 [Bayern rơi chiến thắng ở phút bù Bundesliga](https://vnexpress.net/bayern-roi-chien-thang-o-phut-bu-bundesliga-4800901.html) - 22:26 06/10/2024
 - 🌜 [Lewandowski lập hat-trick trong 25 phút ở La Liga](https://vnexpress.net/lewandowski-lap-hat-trick-trong-25-phut-o-la-liga-4800888.html) - 22:13 06/10/2024
 - 😺 [Tottenham thua ngược sau khi dẫn hai bàn ở Ngoại hạng Anh](https://vnexpress.net/tottenham-thua-nguoc-sau-khi-dan-hai-ban-o-ngoai-hang-anh-4800897.html) - 17:39 06/10/2024
 - 👍 [Man Utd khởi đầu tệ nhất trong 50 năm](https://vnexpress.net/man-utd-khoi-dau-te-nhat-trong-50-nam-4800882.html) - 17:00 06/10/2024
