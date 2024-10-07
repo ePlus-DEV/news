@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Tổng Bí thư, Chủ tịch nước: Quan hệ Việt - Pháp cần được nâng lên tầm cao mới](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-quan-he-viet-phap-can-duoc-nang-len-tam-cao-moi-4801351.html) - 15:51 07/10/2024
-- 🕴 [Bão Milton mạnh lên cấp cao nhất khi hướng tới Florida](https://vnexpress.net/bao-milton-manh-len-cap-cao-nhat-khi-huong-toi-florida-4801325.html) - 13:51 07/10/2024
+- 🎭 [Tổng Bí thư, Chủ tịch nước: Quan hệ Việt - Pháp cần được nâng  lên tầm cao mới](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-quan-he-viet-phap-can-duoc-nang-len-tam-cao-moi-4801351.html) - 15:51 07/10/2024
+- 🕴 [Bão Milton mạnh lên khi hướng tới Florida, sức gió 240 km/h](https://vnexpress.net/bao-milton-manh-len-khi-huong-toi-florida-suc-gio-240-km-h-4801325.html) - 13:51 07/10/2024
 - 🤭 [Iran lên tiếng về tin đồn tướng vệ binh &#39;mất tích&#39;](https://vnexpress.net/iran-len-tieng-ve-tin-don-tuong-ve-binh-mat-tich-4801321.html) - 12:32 07/10/2024
 - 🧑‍💻 [Những yếu tố khiến Israel ngần ngại khi xem xét trả đũa Iran](https://vnexpress.net/nhung-yeu-to-khien-israel-ngan-ngai-khi-xem-xet-tra-dua-iran-4800937.html) - 12:00 07/10/2024
 - 🦏 [Nga phạt tù công dân Mỹ vì &#39;làm lính đánh thuê&#39; ở Ukraine](https://vnexpress.net/nga-phat-tu-cong-dan-my-vi-lam-linh-danh-thue-o-ukraine-4801302.html) - 11:47 07/10/2024
