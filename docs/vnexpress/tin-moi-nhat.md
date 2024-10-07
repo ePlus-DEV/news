@@ -8,7 +8,7 @@ sidebar_position: 9
 - 🐎 [Ukraine thừa nhận căn cứ trọng yếu hứng tên lửa siêu vượt âm Nga](https://vnexpress.net/ukraine-thua-nhan-can-cu-trong-yeu-hung-ten-lua-sieu-vuot-am-nga-4801252.html) - 10:33 07/10/2024
 - 🦍 [Bị lừa 3,4 tỷ đồng khi đầu tư cùng người yêu trên mạng](https://vnexpress.net/bi-lua-3-4-ty-dong-khi-dau-tu-cung-nguoi-yeu-tren-mang-4801231.html) - 10:32 07/10/2024
 - 🏊 [Mượn, trả sách ở thư viện nói thế nào bằng tiếng Anh?](https://vnexpress.net/muon-tra-sach-o-thu-vien-noi-the-nao-bang-tieng-anh-4801297.html) - 10:32 07/10/2024
-- 🎊 [Tài xế chạy lùi ôtô khách trên cao tốc TP HCM - Dầu Giây](https://vnexpress.net/tai-xe-chay-lui-oto-khach-tren-cao-toc-tp-hcm-dau-giay-4801292.html) - 10:31 07/10/2024
+- 🎊 [Tài xế lùi ôtô khách trên cao tốc TP HCM - Dầu Giây](https://vnexpress.net/tai-xe-lui-oto-khach-tren-cao-toc-tp-hcm-dau-giay-4801292.html) - 10:31 07/10/2024
 - 🎃 [VPBankS giành giải doanh nghiệp tăng trưởng nhanh](https://vnexpress.net/vpbanks-gianh-giai-doanh-nghiep-tang-truong-nhanh-4801295.html) - 10:30 07/10/2024
 - 🧰 [Vietnam Airlines khai trương đường bay thẳng từ Hà Nội và TP HCM đến Munich](https://vnexpress.net/vietnam-airlines-khai-truong-duong-bay-thang-tu-ha-noi-va-tp-hcm-den-munich-4801290.html) - 10:30 07/10/2024
 - 🔭 [Bệnh lý nào gây khó thở?](https://vnexpress.net/benh-ly-nao-gay-kho-tho-4801227.html) - 10:29 07/10/2024
