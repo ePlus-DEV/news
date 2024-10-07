@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Ngoại hạng Anh áp đảo cuộc chiến đầu tiên với Man City](https://vnexpress.net/ngoai-hang-anh-ap-dao-cuoc-chien-dau-tien-voi-man-city-4801370.html) - 22:47 07/10/2024
+- 🪜 [Man City bị bác nhiều kháng cáo trong cuộc chiến với giải Ngoại hạng Anh](https://vnexpress.net/man-city-bi-bac-nhieu-khang-cao-trong-cuoc-chien-voi-giai-ngoai-hang-anh-4801370.html) - 22:47 07/10/2024
 - 🦩 [Chạy tempo - phương pháp tập hiệu quả chưa lỗi thời](https://vnexpress.net/chay-tempo-phuong-phap-tap-hieu-qua-chua-loi-thoi-4799804.html) - 22:46 07/10/2024
 - 🧰 [Quế Ngọc Hải trở lại làm đội trưởng tuyển Việt Nam](https://vnexpress.net/que-ngoc-hai-tro-lai-lam-doi-truong-tuyen-viet-nam-4801329.html) - 13:15 07/10/2024
 - 🤗 [Park Hang-seo vào danh sách rút gọn HLV tuyển Malaysia](https://vnexpress.net/park-hang-seo-vao-danh-sach-rut-gon-hlv-tuyen-malaysia-4801310.html) - 11:08 07/10/2024
