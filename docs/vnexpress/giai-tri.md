@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Giả Tịnh Văn: &#39;Tôi mạnh mẽ hơn mỗi lần vấp&#39;](https://vnexpress.net/gia-tinh-van-toi-manh-me-hon-moi-lan-vap-4801239.html) - 09:29 07/10/2024
+- 🌏 [Giả Tịnh Văn: &#39;Tôi mạnh mẽ hơn mỗi lần vấp ngã&#39;](https://vnexpress.net/gia-tinh-van-toi-manh-me-hon-moi-lan-vap-nga-4801239.html) - 09:29 07/10/2024
 - 💫 [Chiều Xuân xúc động đóng hoạt cảnh kỷ niệm Ngày Giải phóng Thủ đô](https://vnexpress.net/chieu-xuan-xuc-dong-dong-hoat-canh-ky-niem-ngay-giai-phong-thu-do-4801249.html) - 09:07 07/10/2024
 - 🌮 [Cựu thủ tướng Anh Boris Johnson ra mắt hồi ký](https://vnexpress.net/cuu-thu-tuong-anh-boris-johnson-ra-mat-hoi-ky-4800477.html) - 08:42 07/10/2024
 - 🧠 [Ca sĩ nhóm NCT bị điều tra tội hiếp dâm](https://vnexpress.net/ca-si-nhom-nct-bi-dieu-tra-toi-hiep-dam-4801181.html) - 08:09 07/10/2024
