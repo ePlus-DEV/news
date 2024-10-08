@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Nhiều nhà dân bị cô lập sau mưa lớn](https://vnexpress.net/nhieu-nha-dan-bi-co-lap-sau-mua-lon-4801789.html) - 12:56 08/10/2024
+- 🦒 [Nhiều nhà dân ở Lâm Đồng bị cô lập sau mưa lớn](https://vnexpress.net/nhieu-nha-dan-o-lam-dong-bi-co-lap-sau-mua-lon-4801789.html) - 12:56 08/10/2024
 - 🤓 [Người tố cáo cánh quạt điện gió rơi làm chết cá nhận hỗ trợ gần 500 triệu đồng](https://vnexpress.net/nguoi-to-cao-canh-quat-dien-gio-roi-lam-chet-ca-nhan-ho-tro-gan-500-trieu-dong-4801730.html) - 09:58 08/10/2024
 - ⚗️ [Đường kẹt cứng, nhà ngập sau mưa lớn ở TP HCM](https://vnexpress.net/duong-ket-cung-nha-ngap-sau-mua-lon-o-tp-hcm-4801703.html) - 09:42 08/10/2024
 - 🌊 [Ông Dương Ngọc Hải làm Phó chủ tịch thường trực UBND TP HCM](https://vnexpress.net/ong-duong-ngoc-hai-lam-pho-chu-tich-thuong-truc-ubnd-tp-hcm-4801716.html) - 09:24 08/10/2024
