@@ -4,7 +4,7 @@ sidebar_position: 23
 ---
 
 <!-- dantri-suc-khoe:START -->
-- 🤔 [Bộ Y tế đề nghị làm rõ vụ sản phụ tử vong](https://dantri.com.vn/suc-khoe/bo-y-te-de-nghi-lam-ro-vu-san-phu-tu-vong-20241008094331512.htm) - 06:22 08/10/2024
+- 🤔 [Bộ Y tế đề nghị làm rõ vụ sản phụ tử vong sau sinh mổ ở Lâm Đồng](https://dantri.com.vn/suc-khoe/bo-y-te-de-nghi-lam-ro-vu-san-phu-tu-vong-sau-sinh-mo-o-lam-dong-20241008094331512.htm) - 06:22 08/10/2024
 - 🚦 [Mỹ Linh kêu gọi chung tay hỗ trợ phụ nữ yếu thế tầm soát ung thư](https://dantri.com.vn/suc-khoe/my-linh-keu-goi-chung-tay-ho-tro-phu-nu-yeu-the-tam-soat-ung-thu-20241008111435261.htm) - 04:30 08/10/2024
 - 🤖 [Cây bật gốc đè nhiều người: Nạn nhân gãy xương cố xin ra viện lo cho cháu](https://dantri.com.vn/suc-khoe/cay-bat-goc-de-nhieu-nguoi-nan-nhan-gay-xuong-co-xin-ra-vien-lo-cho-chau-20241008104038436.htm) - 03:49 08/10/2024
 - 🐻 [Điều trị ung thư gan bằng phương pháp can thiệp nội mạch cho cụ ông U90](https://dantri.com.vn/suc-khoe/dieu-tri-ung-thu-gan-bang-phuong-phap-can-thiep-noi-mach-cho-cu-ong-u90-20241007205526216.htm) - 02:00 08/10/2024
