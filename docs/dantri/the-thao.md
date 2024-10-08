@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Đình Bắc tự tin cạnh tranh suất đá chính ở đội tuyển Việt Nam](https://dantri.com.vn/the-thao/dinh-bac-tu-tin-canh-tranh-suat-da-chinh-o-doi-tuyen-viet-nam-20241008211715764.htm) - 13:16 08/10/2024
-- 💯 [Điều Lamine Yamal còn thiếu để vươn lên trở thành ngôi sao lớn](https://dantri.com.vn/the-thao/dieu-lamine-yamal-con-thieu-de-vuon-len-tro-thanh-ngoi-sao-lon-20241008192017154.htm) - 12:35 08/10/2024
+- 🎡 [Điều Lamine Yamal còn thiếu để vươn lên trở thành ngôi sao lớn](https://dantri.com.vn/the-thao/dieu-lamine-yamal-con-thieu-de-vuon-len-tro-thanh-ngoi-sao-lon-20241008192017154.htm) - 13:35 08/10/2024
+- 💯 [Đình Bắc tự tin cạnh tranh suất đá chính ở đội tuyển Việt Nam](https://dantri.com.vn/the-thao/dinh-bac-tu-tin-canh-tranh-suat-da-chinh-o-doi-tuyen-viet-nam-20241008211715764.htm) - 13:16 08/10/2024
 - ⛽️ [Hai quả phạt đền &quot;dở khóc dở cười&quot;, xem xong vẫn cảm thấy khó hiểu](https://dantri.com.vn/the-thao/hai-qua-phat-den-do-khoc-do-cuoi-xem-xong-van-cam-thay-kho-hieu-20241008185834563.htm) - 12:15 08/10/2024
 - 💃 [VFF bị Liên đoàn bóng đá châu Á phạt gần 250 triệu đồng](https://dantri.com.vn/the-thao/vff-bi-lien-doan-bong-da-chau-a-phat-gan-250-trieu-dong-20241008175316357.htm) - 09:02 08/10/2024
 - 🌈 [Phản ứng vô cùng bất ngờ của HLV Ten Hag trước thời khắc phán quyết](https://dantri.com.vn/the-thao/phan-ung-vo-cung-bat-ngo-cua-hlv-ten-hag-truoc-thoi-khac-phan-quyet-20241008143540471.htm) - 08:35 08/10/2024
