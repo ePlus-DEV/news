@@ -4,7 +4,7 @@ sidebar_position: 28
 ---
 
 <!-- dantri-photo-story:START -->
-- 💪 [Tài xế thoát khỏi ô tô qua cửa sổ trời vì xe chết máy giữa đường ngập](https://dantri.com.vn/xa-hoi/tai-xe-thoat-khoi-o-to-qua-cua-so-troi-vi-xe-chet-may-giua-duong-ngap-20241008161832835.htm) - 09:18 08/10/2024
+- 💪 [Nước tràn vào nhà, đường ngập sau mưa lớn ở TPHCM](https://dantri.com.vn/xa-hoi/nuoc-tran-vao-nha-duong-ngap-sau-mua-lon-o-tphcm-20241008161832835.htm) - 09:18 08/10/2024
 - 🧰 [Bẫy ảnh phát hiện vượn má trắng và nhiều động vật quý‎ hiếm](https://dantri.com.vn/xa-hoi/bay-anh-phat-hien-vuon-ma-trang-va-nhieu-dong-vat-quy-hiem-20241007102409891.htm) - 03:40 08/10/2024
 - 🧰 [Cận cảnh cây cầu treo đã cấm tất cả ô tô vì &quot;già yếu&quot;](https://dantri.com.vn/xa-hoi/can-canh-cay-cau-treo-da-cam-tat-ca-o-to-vi-gia-yeu-20241008085954474.htm) - 02:57 08/10/2024
 - 😎 [Cầu Phong Châu được trục vớt như thế nào?](https://dantri.com.vn/xa-hoi/cau-phong-chau-duoc-truc-vot-nhu-the-nao-20241007210732754.htm) - 22:50 07/10/2024
