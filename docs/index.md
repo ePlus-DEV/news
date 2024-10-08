@@ -145,7 +145,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Đang đứng ngã xuống nền, nhập viện phát hiện đột quỵ, nhồi máu cơ tim](https://thanhnien.vn/dang-dung-nga-xuong-nen-nhap-vien-phat-hien-dot-quy-nhoi-mau-co-tim-185241008092726582.htm) - 03:40 08/10/2024
+- 🤠 [Đang đứng ngã xuống nền nhà, nhập viện phát hiện đột quỵ, nhồi máu cơ tim](https://thanhnien.vn/dang-dung-nga-xuong-nen-nhap-vien-phat-hien-dot-quy-nhoi-mau-co-tim-185241008092726582.htm) - 03:40 08/10/2024
 - 🥸 [Ca sĩ Cissy Houston, mẹ Whitney Houston qua đời](https://thanhnien.vn/ca-si-cissy-houston-me-whitney-houston-qua-doi-185241008095555044.htm) - 03:38 08/10/2024
 - 🌁 [UAV tối tân bí ẩn S-70 &#39;Thợ săn&#39; của Nga bị bắn rơi ở Ukraine](https://thanhnien.vn/uav-toi-tan-bi-an-s-70-tho-san-cua-nga-bi-ban-roi-o-ukraine-185241007171229727.htm) - 03:29 08/10/2024
 - 🤡 [ĐH Bách khoa Hà Nội xin lỗi vì tân sinh viên phải ăn &#39;cơm thừa canh cặn&#39;](https://thanhnien.vn/dh-bach-khoa-ha-noi-xin-loi-vi-tan-sinh-vien-phai-an-com-thua-canh-can-18524100809352236.htm) - 03:26 08/10/2024
