@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- dantri-an-sinh:START -->
-- 👺 [Lý do đề xuất nghỉ thêm 2 ngày Quốc khánh 2/9 thay vì dịp Tết Nguyên đán?](https://dantri.com.vn/an-sinh/ly-do-de-xuat-nghi-them-2-ngay-quoc-khanh-29-thay-vi-dip-tet-nguyen-dan-20241008135502609.htm) - 07:19 08/10/2024
+- 👺 [Lý do đề xuất nghỉ thêm 2 ngày Quốc khánh 2/9 thay vì dịp Tết Nguyên đán](https://dantri.com.vn/an-sinh/ly-do-de-xuat-nghi-them-2-ngay-quoc-khanh-29-thay-vi-dip-tet-nguyen-dan-20241008135502609.htm) - 07:19 08/10/2024
 - 👀 [Lương hưu ở Việt Nam cao hay thấp?](https://dantri.com.vn/an-sinh/luong-huu-o-viet-nam-cao-hay-thap-20241007010107359.htm) - 00:40 08/10/2024
 - 💡 [Chuyện về nữ biệt động anh hùng Lê Thị Bạch Cát](https://dantri.com.vn/an-sinh/chuyen-ve-nu-biet-dong-anh-hung-le-thi-bach-cat-20241006225127358.htm) - 23:00 07/10/2024
 - 💄 [Đắk Nông chú trọng phát triển kinh tế vùng đồng bào dân tộc thiểu số](https://dantri.com.vn/an-sinh/dak-nong-chu-trong-phat-trien-kinh-te-vung-dong-bao-dan-toc-thieu-so-20241006162602955.htm) - 08:30 07/10/2024
