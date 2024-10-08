@@ -7,8 +7,8 @@ sidebar_position: 3
 - ⛽️ [Kinh tế Mỹ giảm rủi ro suy thoái](https://vnexpress.net/kinh-te-my-giam-rui-ro-suy-thoai-4801653.html) - 17:00 08/10/2024
 - 🐲 [3 nữ doanh nhân Việt lọt top quyền lực nhất châu Á](https://vnexpress.net/3-nu-doanh-nhan-viet-lot-top-quyen-luc-nhat-chau-a-4801788.html) - 13:40 08/10/2024
 - 🔥 [Thủ tướng: ASEAN không thể thiếu đội ngũ doanh nhân tự cường](https://vnexpress.net/thu-tuong-asean-khong-the-thieu-doi-ngu-doanh-nhan-tu-cuong-4801765.html) - 11:45 08/10/2024
-- 🐵 [Vietjet nhận thêm tàu bay mới từ Airbus](https://vnexpress.net/vietjet-nhan-them-tau-bay-moi-tu-airbus-4801757.html) - 11:00 08/10/2024
-- 🦅 [Chiến lược giúp Masan hút vốn ngoại](https://vnexpress.net/chien-luoc-giup-masan-hut-von-ngoai-4801755.html) - 11:00 08/10/2024
+- 🐵 [Chiến lược giúp Masan hút vốn ngoại](https://vnexpress.net/chien-luoc-giup-masan-hut-von-ngoai-4801755.html) - 11:00 08/10/2024
+- 🦅 [Vietjet nhận thêm tàu bay mới từ Airbus](https://vnexpress.net/vietjet-nhan-them-tau-bay-moi-tu-airbus-4801757.html) - 11:00 08/10/2024
 - 😺 [UOB nâng dự báo tăng trưởng Việt Nam lên 6,4%](https://vnexpress.net/uob-nang-du-bao-tang-truong-viet-nam-len-6-4-4801658.html) - 10:24 08/10/2024
 - 🤩 [Manulife và Techcombank ngưng hợp tác phân phối bảo hiểm độc quyền](https://vnexpress.net/manulife-va-techcombank-ngung-hop-tac-phan-phoi-bao-hiem-doc-quyen-4801728.html) - 10:00 08/10/2024
 - 🌮 [Cổ phiếu thép và ngân hàng giúp chứng khoán lấy lại sắc xanh](https://vnexpress.net/chung-khoan-hom-nay-8-10-co-phieu-thep-va-ngan-hang-giup-chung-khoan-lay-lai-sac-xanh-4801705.html) - 09:11 08/10/2024
