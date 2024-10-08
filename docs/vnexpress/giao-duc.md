@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Bách khoa Hà Nội: Sinh viên phải ăn canh thừa là &#39;không chấp nhận được&#39;](https://vnexpress.net/bach-khoa-ha-noi-sinh-vien-phai-an-canh-thua-la-khong-chap-nhan-duoc-4801580.html) - 07:22 08/10/2024
+- 🤓 [Bách khoa Hà Nội: Sẽ xử lý đến cùng vụ sinh viên phải ăn canh thừa](https://vnexpress.net/bach-khoa-ha-noi-se-xu-ly-den-cung-vu-sinh-vien-phai-an-canh-thua-4801580.html) - 07:22 08/10/2024
 - 🦆 [Dự thảo Luật Nhà giáo cần cụ thể về bồi dưỡng đạo đức giáo viên](https://vnexpress.net/du-thao-luat-nha-giao-can-cu-the-ve-boi-duong-dao-duc-giao-vien-4801587.html) - 06:55 08/10/2024
 - 🦩 [Nữ sinh duy nhất giành huy chương vàng Toán IMSO](https://vnexpress.net/nu-sinh-duy-nhat-gianh-huy-chuong-vang-toan-imso-4801260.html) - 05:11 08/10/2024
 - 🌮 [Cậu học trò lập &#39;hat-trick&#39; huy chương vàng Khoa học quốc tế](https://vnexpress.net/cau-hoc-tro-lap-hat-trick-huy-chuong-vang-khoa-hoc-quoc-te-4801089.html) - 22:00 07/10/2024
