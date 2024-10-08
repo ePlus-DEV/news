@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Người tố cánh quạt điện gió rơi làm chết cá nhận hỗ trợ gần 500 triệu đồng](https://vnexpress.net/nguoi-to-canh-quat-dien-gio-roi-lam-chet-ca-nhan-ho-tro-gan-500-trieu-dong-4801730.html) - 09:58 08/10/2024
+- 🦒 [Người tố cáo cánh quạt điện gió rơi làm chết cá nhận hỗ trợ gần 500 triệu đồng](https://vnexpress.net/nguoi-to-cao-canh-quat-dien-gio-roi-lam-chet-ca-nhan-ho-tro-gan-500-trieu-dong-4801730.html) - 09:58 08/10/2024
 - 🤓 [Nước ngập bánh xe, tràn vào nhà dân sau mưa lớn ở TP HCM](https://vnexpress.net/nuoc-ngap-banh-xe-tran-vao-nha-dan-sau-mua-lon-o-tp-hcm-4801703.html) - 09:42 08/10/2024
 - ⚗️ [Ông Dương Ngọc Hải làm Phó chủ tịch thường trực UBND TP HCM](https://vnexpress.net/ong-duong-ngoc-hai-lam-pho-chu-tich-thuong-truc-ubnd-tp-hcm-4801716.html) - 09:24 08/10/2024
 - 🌊 [TP HCM có 7.600 cây xanh cao trên 20 m, nguy cơ gãy đổ](https://vnexpress.net/tp-hcm-co-7-600-cay-xanh-cao-tren-20-m-nguy-co-gay-do-4801656.html) - 09:05 08/10/2024
