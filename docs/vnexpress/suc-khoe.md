@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [VNVC và Sanofi dự kiến sản xuất vaccine tại Việt Nam](https://vnexpress.net/vnvc-va-sanofi-du-kien-san-xuat-vaccine-tai-viet-nam-4802155.html) - 09:30 09/10/2024
+- 🔥 [VNVC và Sanofi ký kết hướng tới sản xuất vaccine tại Việt Nam](https://vnexpress.net/vnvc-va-sanofi-ky-ket-huong-toi-san-xuat-vaccine-tai-viet-nam-4802155.html) - 09:30 09/10/2024
 - 🥰 [Người đầu tiên ở Việt Nam được ghép đồng thời tim và gan](https://vnexpress.net/nguoi-viet-nam-dau-tien-duoc-dong-thoi-ghep-tim-gan-4802126.html) - 09:03 09/10/2024
 - 💡 [8 thói quen giúp trẻ phát triển trí thông minh](https://vnexpress.net/8-thoi-quen-giup-tre-phat-trien-tri-thong-minh-4802063.html) - 09:00 09/10/2024
 - 🤗 [Trẻ khó ngủ nên ăn gì?](https://vnexpress.net/tre-kho-ngu-nen-an-gi-4802048.html) - 09:00 09/10/2024
