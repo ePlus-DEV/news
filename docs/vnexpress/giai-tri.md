@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Duy Mạnh: &#39;Bạn trẻ bây giờ, bố mẹ mắng vài câu đã stress&#39;](https://vnexpress.net/duy-manh-ban-tre-bay-gio-bo-me-mang-vai-cau-da-stress-4800952.html) - 05:47 09/10/2024
+- 🌏 [Duy Mạnh: &#39;Tôi từng có phát ngôn chưa chuẩn mực&#39;](https://vnexpress.net/duy-manh-toi-tung-co-phat-ngon-chua-chuan-muc-4800952.html) - 05:47 09/10/2024
 - 💫 [Á hậu Bùi Khánh Linh trình diễn quan họ](https://vnexpress.net/a-hau-bui-khanh-linh-trinh-dien-quan-ho-4801900.html) - 04:49 09/10/2024
 - 🌮 [Imagine Dragons lưu diễn TP HCM](https://vnexpress.net/imagine-dragons-luu-dien-tp-hcm-4801975.html) - 04:45 09/10/2024
 - 🧠 [Sách về lịch sử và phương án cải tạo cầu Long Biên](https://vnexpress.net/sach-ve-lich-su-va-phuong-an-cai-tao-cau-long-bien-4800803.html) - 03:45 09/10/2024
