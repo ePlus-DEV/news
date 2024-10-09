@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [&#39;Thủ khoa&#39; thi lớp 10 bị giảm 15 điểm sau thanh tra, phải thôi học](https://vnexpress.net/thu-khoa-thi-lop-10-bi-giam-15-diem-sau-thanh-tra-phai-thoi-hoc-4802033.html) - 07:03 09/10/2024
+- 🦒 [Giải cứu nam sinh vắt vẻo trên ban công sân thượng tòa nhà](https://vnexpress.net/giai-cuu-nam-sinh-vat-veo-tren-ban-cong-san-thuong-toa-nha-4802104.html) - 08:08 09/10/2024
 - 🤓 [&#39;TP HCM phát hành trái phiếu làm metro nên tính lãi theo thị trường&#39;](https://vnexpress.net/tp-hcm-phat-hanh-trai-phieu-lam-metro-nen-tinh-lai-theo-thi-truong-4801753.html) - 04:45 09/10/2024
 - ⚗️ [Cao tốc TP HCM - Long Thành ùn tắc 10 km vì xe container chết máy](https://vnexpress.net/cao-toc-tp-hcm-long-thanh-un-tac-10-km-vi-xe-container-chet-may-4801962.html) - 03:43 09/10/2024
 - 🌊 [&#39;Nghỉ thêm hai ngày dịp Quốc khánh để kéo giãn các kỳ lễ trong năm&#39;](https://vnexpress.net/nghi-them-hai-ngay-dip-quoc-khanh-de-keo-gian-cac-ky-le-trong-nam-4801630.html) - 01:45 09/10/2024
