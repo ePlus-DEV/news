@@ -4,7 +4,7 @@ sidebar_position: 20
 ---
 
 <!-- dantri-tam-long-nhan-ai:START -->
-- 🌝 [Dân trí trao 200 học bổng học sinh tại Tuyên Quang](https://dantri.com.vn/tam-long-nhan-ai/dan-tri-trao-200-hoc-bong-hoc-sinh-tai-tuyen-quang-20241009175121097.htm) - 12:19 09/10/2024
+- 🌝 [Trao những phần quà đặc biệt tới 200 học sinh và các trường tại Tuyên Quang](https://dantri.com.vn/tam-long-nhan-ai/trao-nhung-phan-qua-dac-biet-toi-200-hoc-sinh-va-cac-truong-tai-tuyen-quang-20241009175121097.htm) - 12:19 09/10/2024
 - 🌜 [Khởi công nhà Nhân ái, chia sẻ với mất mát của người dân vùng lũ ở Lào Cai](https://dantri.com.vn/tam-long-nhan-ai/khoi-cong-nha-nhan-ai-chia-se-voi-mat-mat-cua-nguoi-dan-vung-lu-o-lao-cai-20241009121637784.htm) - 10:15 09/10/2024
 - 👀 [Nhói lòng cảnh bé gái 5 tuổi, hơn 4 năm sống nhờ máy thở](https://dantri.com.vn/tam-long-nhan-ai/nhoi-long-canh-be-gai-5-tuoi-hon-4-nam-song-nho-may-tho-20241006170956513.htm) - 22:30 08/10/2024
 - 🚀 [Bố mẹ nghèo đưa con về nhà, mong qua Tết có tiền nhập viện](https://dantri.com.vn/tam-long-nhan-ai/bo-me-ngheo-dua-con-ve-nha-mong-qua-tet-co-tien-nhap-vien-20241006163239956.htm) - 22:30 07/10/2024
