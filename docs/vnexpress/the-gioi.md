@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Bạo lực băng đảng tại nơi thị trưởng bị sát hại sau vài ngày nhậm chức](https://vnexpress.net/bao-luc-bang-dang-tai-noi-thi-truong-bi-sat-hai-sau-vai-ngay-nham-chuc-4801440.html) - 22:00 08/10/2024
-- 🕴 [Tổng thống Biden: Sơ tán tránh bão Milton là vấn đề sống còn](https://vnexpress.net/tong-thong-biden-so-tan-tranh-bao-milton-la-van-de-song-con-4801818.html) - 17:16 08/10/2024
-- 🤭 [Nhà báo Mỹ: Ông Trump nhiều lần liên lạc với ông Putin sau khi rời nhiệm sở](https://vnexpress.net/nha-bao-my-ong-trump-nhieu-lan-lien-lac-voi-ong-putin-sau-khi-roi-nhiem-so-4801807.html) - 16:33 08/10/2024
-- 🧑‍💻 [Việt - Lào nhất trí tăng kết nối giao thông, du lịch](https://vnexpress.net/viet-lao-nhat-tri-tang-ket-noi-giao-thong-du-lich-4801776.html) - 13:22 08/10/2024
-- 🦏 [Hezbollah ủng hộ nỗ lực hướng đến lệnh ngừng bắn](https://vnexpress.net/hezbollah-ung-ho-no-luc-huong-den-lenh-ngung-ban-4801777.html) - 12:46 08/10/2024
-- 🦒 [Thủ tướng Trung Quốc sắp thăm Việt Nam](https://vnexpress.net/thu-tuong-trung-quoc-sap-tham-viet-nam-4801778.html) - 12:06 08/10/2024
-- 🌈 [Gaza như bình địa sau một năm chiến sự](https://vnexpress.net/gaza-nhu-binh-dia-sau-mot-nam-chien-su-4801036.html) - 12:00 08/10/2024
-- 🧑‍🏫 [Nga đăng video tên lửa Iskander tập kích loạt lữ đoàn Ukraine](https://vnexpress.net/nga-dang-video-ten-lua-iskander-tap-kich-loat-lu-doan-ukraine-4801692.html) - 10:17 08/10/2024
-- 🐲 [Sở thú Florida sơ tán trước siêu bão Milton](https://vnexpress.net/so-thu-florida-so-tan-truoc-sieu-bao-milton-4801568.html) - 10:07 08/10/2024
-- 🦒 [Nghị sĩ Mỹ cáo buộc chính phủ &#39;hướng bão vào nơi ủng hộ Trump&#39;](https://vnexpress.net/nghi-si-my-cao-buoc-chinh-phu-huong-bao-vao-noi-ung-ho-trump-4801688.html) - 09:43 08/10/2024
-- 🐻 [Israel điều thêm quân, mở rộng chiến dịch trên bộ ở Lebanon](https://vnexpress.net/israel-dieu-them-quan-mo-rong-chien-dich-tren-bo-o-lebanon-4801652.html) - 09:42 08/10/2024
-- 🚀 [Chính phủ Nhật thừa nhận chỉnh sửa ảnh nội các mới](https://vnexpress.net/chinh-phu-nhat-thua-nhan-chinh-sua-anh-noi-cac-moi-4801643.html) - 09:32 08/10/2024
-- 🥰 [Voi lội nước lũ tiếp tế cho người dân Chiang Mai](https://vnexpress.net/voi-loi-nuoc-lu-tiep-te-cho-nguoi-dan-chiang-mai-4801638.html) - 08:23 08/10/2024
-- 🔥 [100 tiêm kích Israel oanh tạc Lebanon trong một giờ](https://vnexpress.net/100-tiem-kich-israel-oanh-tac-lebanon-trong-mot-gio-4801586.html) - 08:02 08/10/2024
-- 🥳 [Nga tiến vào ngoại ô thành phố cửa ngõ Donetsk](https://vnexpress.net/nga-tien-vao-ngoai-o-thanh-pho-cua-ngo-donetsk-4801620.html) - 07:54 08/10/2024
-- 💼 [Dân Florida cấp tập chuẩn bị đối phó &#39;cơn bão thế kỷ&#39; Milton](https://vnexpress.net/dan-florida-cap-tap-chuan-bi-doi-pho-con-bao-the-ky-milton-4801478.html) - 07:39 08/10/2024
-- 🤡 [Hà mã con trở thành ngôi sao ở vườn thú Thái Lan](https://vnexpress.net/ha-ma-con-tro-thanh-ngoi-sao-o-vuon-thu-thai-lan-4801581.html) - 07:25 08/10/2024
-- 🌁 [EU cảnh báo nguy cơ Ukraine thua trận trong 15 ngày](https://vnexpress.net/eu-canh-bao-nguy-co-ukraine-thua-tran-trong-15-ngay-4801531.html) - 07:07 08/10/2024
-- 🤩 [Eo biển Hormuz - át chủ bài của Iran trong xung đột Trung Đông](https://vnexpress.net/eo-bien-hormuz-at-chu-bai-cua-iran-trong-xung-dot-trung-dong-4801136.html) - 04:20 08/10/2024
-- 🎉 [Công viên mô phỏng tranh &#39;Đêm đầy sao&#39; của Van Gogh](https://vnexpress.net/cong-vien-mo-phong-tranh-dem-day-sao-cua-van-gogh-4801423.html) - 03:44 08/10/2024
-- 🎉 [Video bằng AI về &#39;lửa đạn Lebanon&#39; lan truyền trên mạng xã hội](https://vnexpress.net/video-bang-ai-ve-lua-dan-lebanon-lan-truyen-tren-mang-xa-hoi-4801451.html) - 03:35 08/10/2024
-- 🌁 [Iran chuẩn bị &#39;ít nhất 10 kịch bản đối phó Israel tập kích&#39;](https://vnexpress.net/iran-chuan-bi-it-nhat-10-kich-ban-doi-pho-israel-tap-kich-4801399.html) - 03:17 08/10/2024
-- 🌊 [Donald Trump: Người nhập cư trái phép mang &#39;gene xấu&#39; vào Mỹ](https://vnexpress.net/donald-trump-nguoi-nhap-cu-trai-phep-mang-gene-xau-vao-my-4801372.html) - 03:13 08/10/2024
-- 🕴 [Thủ tướng đến Lào dự Hội nghị Cấp cao ASEAN](https://vnexpress.net/thu-tuong-den-lao-du-hoi-nghi-cap-cao-asean-4800618.html) - 02:57 08/10/2024
-- 🎓 [Vệt tử thần bão Helene để lại ở Bắc Carolina](https://vnexpress.net/vet-tu-than-bao-helene-de-lai-o-bac-carolina-4801441.html) - 02:51 08/10/2024
-- 🦩 [CIA: Israel đang cân nhắc kỹ lưỡng cách đáp trả Iran](https://vnexpress.net/cia-israel-dang-can-nhac-ky-luong-cach-dap-tra-iran-4801418.html) - 02:18 08/10/2024
-- 🌏 [Elon Musk tuyên bố &#39;tất tay&#39; cho Donald Trump](https://vnexpress.net/elon-musk-tuyen-bo-tat-tay-cho-donald-trump-4801391.html) - 02:17 08/10/2024
-- 🌋 [Tác phẩm nghệ thuật hình lon bia bị vứt nhầm vào thùng rác](https://vnexpress.net/tac-pham-nghe-thuat-hinh-lon-bia-bi-vut-nham-vao-thung-rac-4801385.html) - 02:12 08/10/2024
-- 🪜 [Hezbollah &#39;phóng rocket vào căn cứ tình báo Israel&#39; gần Tel Aviv](https://vnexpress.net/hezbollah-phong-rocket-vao-can-cu-tinh-bao-israel-gan-tel-aviv-4801393.html) - 02:08 08/10/2024
-- 🕴 [Ông Kim Jong-un: Triều Tiên sẽ tăng tốc trở thành cường quốc hạt nhân](https://vnexpress.net/ong-kim-jong-un-trieu-tien-se-tang-toc-tro-thanh-cuong-quoc-hat-nhan-4801378.html) - 01:29 08/10/2024
-- 🧑‍🏫 [Ukraine tập kích cảng dầu Nga ở Crimea](https://vnexpress.net/ukraine-tap-kich-cang-dau-nga-o-crimea-4801375.html) - 00:23 08/10/2024
-- 🌮 [Việt - Pháp nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện](https://vnexpress.net/viet-phap-nang-cap-quan-he-len-doi-tac-chien-luoc-toan-dien-4801373.html) - 23:43 07/10/2024
-- 🚦 [Cách con trai cả ông Trump thành &#39;thái tử MAGA&#39;](https://vnexpress.net/cach-con-trai-ca-ong-trump-thanh-thai-tu-maga-4800920.html) - 22:00 07/10/2024
-- 💫 [Phong cách điều hành &#39;như công tố viên&#39; của bà Harris](https://vnexpress.net/phong-cach-dieu-hanh-nhu-cong-to-vien-cua-ba-harris-4790056.html) - 18:00 07/10/2024
-- 🤡 [Một năm gia đình con tin Israel mòn mỏi chờ tin tức người thân](https://vnexpress.net/mot-nam-gia-dinh-con-tin-israel-mon-moi-cho-tin-tuc-nguoi-than-4801216.html) - 17:00 07/10/2024
-- 🦣 [Hezbollah tấn công quân đội Israel ở làng biên giới Lebanon](https://vnexpress.net/hezbollah-tan-cong-quan-doi-israel-o-lang-bien-gioi-lebanon-4801357.html) - 16:52 07/10/2024
-- 🎬 [Tổng Bí thư, Chủ tịch nước: Quan hệ Việt - Pháp cần được nâng lên tầm cao mới](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-quan-he-viet-phap-can-duoc-nang-len-tam-cao-moi-4801351.html) - 15:51 07/10/2024
-- 🎉 [Bão Milton mạnh lên cấp cao nhất khi hướng tới Florida](https://vnexpress.net/bao-milton-manh-len-cap-cao-nhat-khi-huong-toi-florida-4801325.html) - 13:51 07/10/2024
-- 🎡 [Iran lên tiếng về tin đồn tướng vệ binh &#39;mất tích&#39;](https://vnexpress.net/iran-len-tieng-ve-tin-don-tuong-ve-binh-mat-tich-4801321.html) - 12:32 07/10/2024
-- 🌜 [Những yếu tố khiến Israel ngần ngại khi xem xét trả đũa Iran](https://vnexpress.net/nhung-yeu-to-khien-israel-ngan-ngai-khi-xem-xet-tra-dua-iran-4800937.html) - 12:00 07/10/2024
-- 🎡 [Nga phạt tù công dân Mỹ vì &#39;làm lính đánh thuê&#39; ở Ukraine](https://vnexpress.net/nga-phat-tu-cong-dan-my-vi-lam-linh-danh-thue-o-ukraine-4801302.html) - 11:47 07/10/2024
-- 🤗 [Ukraine thừa nhận căn cứ trọng yếu hứng tên lửa siêu vượt âm Nga](https://vnexpress.net/ukraine-thua-nhan-can-cu-trong-yeu-hung-ten-lua-sieu-vuot-am-nga-4801252.html) - 10:33 07/10/2024
-- 🦩 [Tình cảnh người Gaza sau một năm chiến sự](https://vnexpress.net/tinh-canh-nguoi-gaza-sau-mot-nam-chien-su-4801068.html) - 10:06 07/10/2024
-- 🎓 [Hamas phóng rocket vào Tel Aviv, Israel báo động phòng không](https://vnexpress.net/hamas-phong-rocket-vao-tel-aviv-israel-bao-dong-phong-khong-4801220.html) - 09:13 07/10/2024
-- 🌁 [Hezbollah nói Israel là &#39;khối u cần cắt bỏ&#39;](https://vnexpress.net/hezbollah-noi-israel-la-khoi-u-can-cat-bo-4801196.html) - 08:31 07/10/2024
-- 🤩 [Tên lửa Iskander tập kích &#39;tàu chở vũ khí phương Tây&#39; ở cảng Ukraine](https://vnexpress.net/ten-lua-iskander-tap-kich-tau-cho-vu-khi-phuong-tay-o-cang-ukraine-4801148.html) - 07:17 07/10/2024
-- 👹 [Thị trưởng Mexico bị ám sát sau chưa đầy một tuần nhậm chức](https://vnexpress.net/thi-truong-mexico-bi-am-sat-sau-chua-day-mot-tuan-nham-chuc-4801108.html) - 06:54 07/10/2024
-- ⛽️ [Tính toán của ông Trump khi trở lại nơi bị ám sát hụt](https://vnexpress.net/tinh-toan-cua-ong-trump-khi-tro-lai-noi-bi-am-sat-hut-4800926.html) - 05:01 07/10/2024
-- 🚀 [Căn cứ F-35 Israel &#39;trúng khoảng 40 tên lửa Iran&#39;](https://vnexpress.net/can-cu-f-35-israel-trung-khoang-40-ten-lua-iran-4801008.html) - 05:00 07/10/2024
-- 🎡 [Mỹ cảnh báo Israel tính toán sai lầm ở Lebanon](https://vnexpress.net/my-canh-bao-israel-tinh-toan-sai-lam-o-lebanon-4801052.html) - 04:32 07/10/2024
-- 🕯 [Xung đột Iran - Israel nguy cơ giáng đòn vào bà Harris](https://vnexpress.net/xung-dot-iran-israel-nguy-co-giang-don-vao-ba-harris-4800488.html) - 03:53 07/10/2024
-- 🐻 [Vòm Sắt Israel không chặn được loạt rocket Hezbollah](https://vnexpress.net/vom-sat-israel-khong-chan-duoc-loat-rocket-hezbollah-4800953.html) - 03:06 07/10/2024
-- 🚦 [Giáo hoàng Francis bổ nhiệm 21 Hồng y](https://vnexpress.net/giao-hoang-francis-bo-nhiem-21-hong-y-4800959.html) - 03:01 07/10/2024
-- 👍 [Hà Lan xác nhận đã chuyển tiêm kích F-16 cho Ukraine](https://vnexpress.net/ha-lan-xac-nhan-da-chuyen-tiem-kich-f-16-cho-ukraine-4800922.html) - 02:17 07/10/2024
-- 🚀 [Mỹ khó ghìm cương đồng minh Israel](https://vnexpress.net/my-kho-ghim-cuong-dong-minh-israel-4798759.html) - 02:00 07/10/2024
-- 🌮 [Florida sắp hứng bão mới](https://vnexpress.net/florida-sap-hung-bao-moi-4800911.html) - 01:42 07/10/2024
-- 😎 [Tướng Iran có thể đã mất tích sau khi Israel tập kích Beirut](https://vnexpress.net/tuong-iran-co-the-da-mat-tich-sau-khi-israel-tap-kich-beirut-4800905.html) - 00:03 07/10/2024
-- 🐲 [Israel cảnh báo Iran có kết cục giống Gaza, Lebanon](https://vnexpress.net/israel-canh-bao-iran-co-ket-cuc-giong-gaza-lebanon-4800907.html) - 23:39 06/10/2024
-- 💫 [Mối nguy với nền kinh tế Iran nếu chiến tranh bùng phát](https://vnexpress.net/moi-nguy-voi-nen-kinh-te-iran-neu-chien-tranh-bung-phat-4800306.html) - 22:00 06/10/2024
-- 👀 [Đòn giáng với quân đội Ukraine khi mất pháo đài Ugledar](https://vnexpress.net/don-giang-voi-quan-doi-ukraine-khi-mat-phao-dai-ugledar-4799612.html) - 18:00 06/10/2024<!-- vnexpress-the-gioi:END -->
+- 🎭 [Ông Trump bỏ xa bà Harris ở bang Florida, Texas](https://vnexpress.net/ong-trump-bo-xa-ba-harris-o-bang-florida-texas-4801858.html) - 01:53 09/10/2024
+- 🕴 [Israel nói Hezbollah &#39;đã tan vỡ&#39; sau cái chết của thủ lĩnh Nasrallah](https://vnexpress.net/israel-noi-hezbollah-da-tan-vo-sau-cai-chet-cua-thu-linh-nasrallah-4801842.html) - 01:21 09/10/2024
+- 🤭 [Bão Milton lại mạnh lên cấp cao nhất](https://vnexpress.net/bao-milton-lai-manh-len-cap-cao-nhat-4801835.html) - 00:38 09/10/2024
+- 🧑‍💻 [Mỹ phá âm mưu khủng bố ngày bầu cử tổng thống](https://vnexpress.net/my-pha-am-muu-khung-bo-ngay-bau-cu-tong-thong-4801834.html) - 00:13 09/10/2024
+- 🦏 [Mỹ cảnh báo nguy cơ Boeing 737 kẹt cánh lái đuôi](https://vnexpress.net/my-canh-bao-nguy-co-boeing-737-ket-canh-lai-duoi-4801816.html) - 23:37 08/10/2024
+- 🦒 [Bạo lực băng đảng tại nơi thị trưởng bị sát hại sau vài ngày nhậm chức](https://vnexpress.net/bao-luc-bang-dang-tai-noi-thi-truong-bi-sat-hai-sau-vai-ngay-nham-chuc-4801440.html) - 22:00 08/10/2024
+- 🌈 [Tổng thống Biden: Sơ tán tránh bão Milton là vấn đề sinh tử](https://vnexpress.net/tong-thong-biden-so-tan-tranh-bao-milton-la-van-de-sinh-tu-4801818.html) - 17:16 08/10/2024
+- 🧑‍🏫 [Nhà báo Mỹ: Ông Trump nhiều lần liên lạc với ông Putin sau khi rời nhiệm sở](https://vnexpress.net/nha-bao-my-ong-trump-nhieu-lan-lien-lac-voi-ong-putin-sau-khi-roi-nhiem-so-4801807.html) - 16:33 08/10/2024
+- 🐲 [Việt - Lào nhất trí tăng kết nối giao thông, du lịch](https://vnexpress.net/viet-lao-nhat-tri-tang-ket-noi-giao-thong-du-lich-4801776.html) - 13:22 08/10/2024
+- 🦒 [Hezbollah ủng hộ nỗ lực hướng đến lệnh ngừng bắn](https://vnexpress.net/hezbollah-ung-ho-no-luc-huong-den-lenh-ngung-ban-4801777.html) - 12:46 08/10/2024
+- 🐻 [Thủ tướng Trung Quốc sắp thăm Việt Nam](https://vnexpress.net/thu-tuong-trung-quoc-sap-tham-viet-nam-4801778.html) - 12:06 08/10/2024
+- 🚀 [Gaza như bình địa sau một năm chiến sự](https://vnexpress.net/gaza-nhu-binh-dia-sau-mot-nam-chien-su-4801036.html) - 12:00 08/10/2024
+- 🥰 [Nga đăng video tên lửa Iskander tập kích loạt lữ đoàn Ukraine](https://vnexpress.net/nga-dang-video-ten-lua-iskander-tap-kich-loat-lu-doan-ukraine-4801692.html) - 10:17 08/10/2024
+- 🔥 [Sở thú Florida sơ tán trước siêu bão Milton](https://vnexpress.net/so-thu-florida-so-tan-truoc-sieu-bao-milton-4801568.html) - 10:07 08/10/2024
+- 🥳 [Nghị sĩ Mỹ cáo buộc chính phủ &#39;hướng bão vào nơi ủng hộ Trump&#39;](https://vnexpress.net/nghi-si-my-cao-buoc-chinh-phu-huong-bao-vao-noi-ung-ho-trump-4801688.html) - 09:43 08/10/2024
+- 💼 [Israel điều thêm quân, mở rộng chiến dịch trên bộ ở Lebanon](https://vnexpress.net/israel-dieu-them-quan-mo-rong-chien-dich-tren-bo-o-lebanon-4801652.html) - 09:42 08/10/2024
+- 🤡 [Chính phủ Nhật thừa nhận chỉnh sửa ảnh nội các mới](https://vnexpress.net/chinh-phu-nhat-thua-nhan-chinh-sua-anh-noi-cac-moi-4801643.html) - 09:32 08/10/2024
+- 🌁 [Voi lội nước lũ tiếp tế cho người dân Chiang Mai](https://vnexpress.net/voi-loi-nuoc-lu-tiep-te-cho-nguoi-dan-chiang-mai-4801638.html) - 08:23 08/10/2024
+- 🤩 [100 tiêm kích Israel oanh tạc Lebanon trong một giờ](https://vnexpress.net/100-tiem-kich-israel-oanh-tac-lebanon-trong-mot-gio-4801586.html) - 08:02 08/10/2024
+- 🎉 [Nga tiến vào ngoại ô thành phố cửa ngõ Donetsk](https://vnexpress.net/nga-tien-vao-ngoai-o-thanh-pho-cua-ngo-donetsk-4801620.html) - 07:54 08/10/2024
+- 🎉 [Dân Florida cấp tập chuẩn bị đối phó &#39;cơn bão thế kỷ&#39; Milton](https://vnexpress.net/dan-florida-cap-tap-chuan-bi-doi-pho-con-bao-the-ky-milton-4801478.html) - 07:39 08/10/2024
+- 🌁 [Hà mã con trở thành ngôi sao ở vườn thú Thái Lan](https://vnexpress.net/ha-ma-con-tro-thanh-ngoi-sao-o-vuon-thu-thai-lan-4801581.html) - 07:25 08/10/2024
+- 🌊 [EU cảnh báo nguy cơ Ukraine thua trận trong 15 ngày](https://vnexpress.net/eu-canh-bao-nguy-co-ukraine-thua-tran-trong-15-ngay-4801531.html) - 07:07 08/10/2024
+- 🕴 [Eo biển Hormuz - át chủ bài của Iran trong xung đột Trung Đông](https://vnexpress.net/eo-bien-hormuz-at-chu-bai-cua-iran-trong-xung-dot-trung-dong-4801136.html) - 04:20 08/10/2024
+- 🎓 [Công viên mô phỏng tranh &#39;Đêm đầy sao&#39; của Van Gogh](https://vnexpress.net/cong-vien-mo-phong-tranh-dem-day-sao-cua-van-gogh-4801423.html) - 03:44 08/10/2024
+- 🦩 [Video bằng AI về &#39;lửa đạn Lebanon&#39; lan truyền trên mạng xã hội](https://vnexpress.net/video-bang-ai-ve-lua-dan-lebanon-lan-truyen-tren-mang-xa-hoi-4801451.html) - 03:35 08/10/2024
+- 🌏 [Iran chuẩn bị &#39;ít nhất 10 kịch bản đối phó Israel tập kích&#39;](https://vnexpress.net/iran-chuan-bi-it-nhat-10-kich-ban-doi-pho-israel-tap-kich-4801399.html) - 03:17 08/10/2024
+- 🌋 [Donald Trump: Người nhập cư trái phép mang &#39;gene xấu&#39; vào Mỹ](https://vnexpress.net/donald-trump-nguoi-nhap-cu-trai-phep-mang-gene-xau-vao-my-4801372.html) - 03:13 08/10/2024
+- 🪜 [Thủ tướng đến Lào dự Hội nghị Cấp cao ASEAN](https://vnexpress.net/thu-tuong-den-lao-du-hoi-nghi-cap-cao-asean-4800618.html) - 02:57 08/10/2024
+- 🕴 [Vệt tử thần bão Helene để lại ở Bắc Carolina](https://vnexpress.net/vet-tu-than-bao-helene-de-lai-o-bac-carolina-4801441.html) - 02:51 08/10/2024
+- 🧑‍🏫 [CIA: Israel đang cân nhắc kỹ lưỡng cách đáp trả Iran](https://vnexpress.net/cia-israel-dang-can-nhac-ky-luong-cach-dap-tra-iran-4801418.html) - 02:18 08/10/2024
+- 🌮 [Elon Musk tuyên bố &#39;tất tay&#39; cho Donald Trump](https://vnexpress.net/elon-musk-tuyen-bo-tat-tay-cho-donald-trump-4801391.html) - 02:17 08/10/2024
+- 🚦 [Tác phẩm nghệ thuật hình lon bia bị vứt nhầm vào thùng rác](https://vnexpress.net/tac-pham-nghe-thuat-hinh-lon-bia-bi-vut-nham-vao-thung-rac-4801385.html) - 02:12 08/10/2024
+- 💫 [Hezbollah &#39;phóng rocket vào căn cứ tình báo Israel&#39; gần Tel Aviv](https://vnexpress.net/hezbollah-phong-rocket-vao-can-cu-tinh-bao-israel-gan-tel-aviv-4801393.html) - 02:08 08/10/2024
+- 🤡 [Ông Kim Jong-un: Triều Tiên sẽ tăng tốc trở thành cường quốc hạt nhân](https://vnexpress.net/ong-kim-jong-un-trieu-tien-se-tang-toc-tro-thanh-cuong-quoc-hat-nhan-4801378.html) - 01:29 08/10/2024
+- 🦣 [Ukraine tập kích cảng dầu Nga ở Crimea](https://vnexpress.net/ukraine-tap-kich-cang-dau-nga-o-crimea-4801375.html) - 00:23 08/10/2024
+- 🎬 [Việt - Pháp nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện](https://vnexpress.net/viet-phap-nang-cap-quan-he-len-doi-tac-chien-luoc-toan-dien-4801373.html) - 23:43 07/10/2024
+- 🎉 [Cách con trai cả ông Trump thành &#39;thái tử MAGA&#39;](https://vnexpress.net/cach-con-trai-ca-ong-trump-thanh-thai-tu-maga-4800920.html) - 22:00 07/10/2024
+- 🎡 [Phong cách điều hành &#39;như công tố viên&#39; của bà Harris](https://vnexpress.net/phong-cach-dieu-hanh-nhu-cong-to-vien-cua-ba-harris-4790056.html) - 18:00 07/10/2024
+- 🌜 [Một năm gia đình con tin Israel mòn mỏi chờ tin tức người thân](https://vnexpress.net/mot-nam-gia-dinh-con-tin-israel-mon-moi-cho-tin-tuc-nguoi-than-4801216.html) - 17:00 07/10/2024
+- 🎡 [Hezbollah tấn công quân đội Israel ở làng biên giới Lebanon](https://vnexpress.net/hezbollah-tan-cong-quan-doi-israel-o-lang-bien-gioi-lebanon-4801357.html) - 16:52 07/10/2024
+- 🤗 [Tổng Bí thư, Chủ tịch nước: Quan hệ Việt - Pháp cần được nâng lên tầm cao mới](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-quan-he-viet-phap-can-duoc-nang-len-tam-cao-moi-4801351.html) - 15:51 07/10/2024
+- 🦩 [Bão Milton mạnh lên cấp cao nhất khi hướng tới Florida](https://vnexpress.net/bao-milton-manh-len-cap-cao-nhat-khi-huong-toi-florida-4801325.html) - 13:51 07/10/2024
+- 🎓 [Iran lên tiếng về tin đồn tướng vệ binh &#39;mất tích&#39;](https://vnexpress.net/iran-len-tieng-ve-tin-don-tuong-ve-binh-mat-tich-4801321.html) - 12:32 07/10/2024
+- 🌁 [Những yếu tố khiến Israel ngần ngại khi xem xét trả đũa Iran](https://vnexpress.net/nhung-yeu-to-khien-israel-ngan-ngai-khi-xem-xet-tra-dua-iran-4800937.html) - 12:00 07/10/2024
+- 🤩 [Nga phạt tù công dân Mỹ vì &#39;làm lính đánh thuê&#39; ở Ukraine](https://vnexpress.net/nga-phat-tu-cong-dan-my-vi-lam-linh-danh-thue-o-ukraine-4801302.html) - 11:47 07/10/2024
+- 👹 [Ukraine thừa nhận căn cứ trọng yếu hứng tên lửa siêu vượt âm Nga](https://vnexpress.net/ukraine-thua-nhan-can-cu-trong-yeu-hung-ten-lua-sieu-vuot-am-nga-4801252.html) - 10:33 07/10/2024
+- ⛽️ [Tình cảnh người Gaza sau một năm chiến sự](https://vnexpress.net/tinh-canh-nguoi-gaza-sau-mot-nam-chien-su-4801068.html) - 10:06 07/10/2024
+- 🚀 [Hamas phóng rocket vào Tel Aviv, Israel báo động phòng không](https://vnexpress.net/hamas-phong-rocket-vao-tel-aviv-israel-bao-dong-phong-khong-4801220.html) - 09:13 07/10/2024
+- 🎡 [Hezbollah nói Israel là &#39;khối u cần cắt bỏ&#39;](https://vnexpress.net/hezbollah-noi-israel-la-khoi-u-can-cat-bo-4801196.html) - 08:31 07/10/2024
+- 🕯 [Tên lửa Iskander tập kích &#39;tàu chở vũ khí phương Tây&#39; ở cảng Ukraine](https://vnexpress.net/ten-lua-iskander-tap-kich-tau-cho-vu-khi-phuong-tay-o-cang-ukraine-4801148.html) - 07:17 07/10/2024
+- 🐻 [Thị trưởng Mexico bị ám sát sau chưa đầy một tuần nhậm chức](https://vnexpress.net/thi-truong-mexico-bi-am-sat-sau-chua-day-mot-tuan-nham-chuc-4801108.html) - 06:54 07/10/2024
+- 🚦 [Tính toán của ông Trump khi trở lại nơi bị ám sát hụt](https://vnexpress.net/tinh-toan-cua-ong-trump-khi-tro-lai-noi-bi-am-sat-hut-4800926.html) - 05:01 07/10/2024
+- 👍 [Căn cứ F-35 Israel &#39;trúng khoảng 40 tên lửa Iran&#39;](https://vnexpress.net/can-cu-f-35-israel-trung-khoang-40-ten-lua-iran-4801008.html) - 05:00 07/10/2024
+- 🚀 [Mỹ cảnh báo Israel tính toán sai lầm ở Lebanon](https://vnexpress.net/my-canh-bao-israel-tinh-toan-sai-lam-o-lebanon-4801052.html) - 04:32 07/10/2024
+- 🌮 [Xung đột Iran - Israel nguy cơ giáng đòn vào bà Harris](https://vnexpress.net/xung-dot-iran-israel-nguy-co-giang-don-vao-ba-harris-4800488.html) - 03:53 07/10/2024
+- 😎 [Vòm Sắt Israel không chặn được loạt rocket Hezbollah](https://vnexpress.net/vom-sat-israel-khong-chan-duoc-loat-rocket-hezbollah-4800953.html) - 03:06 07/10/2024
+- 🐲 [Giáo hoàng Francis bổ nhiệm 21 Hồng y](https://vnexpress.net/giao-hoang-francis-bo-nhiem-21-hong-y-4800959.html) - 03:01 07/10/2024
+- 💫 [Hà Lan xác nhận đã chuyển tiêm kích F-16 cho Ukraine](https://vnexpress.net/ha-lan-xac-nhan-da-chuyen-tiem-kich-f-16-cho-ukraine-4800922.html) - 02:17 07/10/2024
+- 👀 [Mỹ khó ghìm cương đồng minh Israel](https://vnexpress.net/my-kho-ghim-cuong-dong-minh-israel-4798759.html) - 02:00 07/10/2024<!-- vnexpress-the-gioi:END -->
