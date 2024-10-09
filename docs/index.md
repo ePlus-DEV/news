@@ -188,26 +188,26 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌏 [Kinh tế Quảng Nam tăng trưởng ‘dương’ trở lại](https://thanhnien.vn/kinh-te-quang-nam-tang-truong-duong-tro-lai-185241009180421546.htm) - 12:19 09/10/2024
 - 🎬 [Lào Cai công bố kết thúc tình huống thiên tai khẩn cấp](https://thanhnien.vn/lao-cai-cong-bo-ket-thuc-tinh-huong-thien-tai-khan-cap-18524100918234271.htm) - 12:16 09/10/2024
 - 🚀 [Lần đầu tiên tổ chức cuộc thi đầu bếp bánh tài năng quốc tế tại Việt Nam](https://thanhnien.vn/lan-dau-tien-to-chuc-cuoc-thi-dau-bep-banh-tai-nang-quoc-te-tai-viet-nam-185241009191213071.htm) - 12:13 09/10/2024
-- 🙉 [Bác sĩ ơi: Cách phòng ngừa nhồi máu cơ tim](https://thanhnien.vn/bac-si-oi-cach-phong-ngua-nhoi-mau-co-tim-185241009150718373.htm) - 12:00 09/10/2024
-- 🐵 [An Giang: Kỷ luật nhiều tổ chức, cá nhân](https://thanhnien.vn/an-giang-ky-luat-nhieu-to-chuc-ca-nhan-185241009161756588.htm) - 11:56 09/10/2024
-- 🐎 [Đội tuyển Việt Nam ngược dòng ngoạn mục hạ Nam Định: Thái Sơn, Vĩ Hào lập công!](https://thanhnien.vn/doi-tuyen-viet-nam-nguoc-dong-ha-nam-dinh-tin-hieu-vui-da-den-thai-son-lap-cong-185241009180009525.htm) - 11:54 09/10/2024
-- 🕯 [Hơn trăm cây cầu yếu ở Quảng Trị cần sửa chữa, thay mới](https://thanhnien.vn/hon-tram-cay-cau-yeu-o-quang-tri-can-sua-chua-thay-moi-185241009172109679.htm) - 11:46 09/10/2024
-- 👀 [Xây dựng gia đình văn minh tạo nền tảng cộng đồng hạnh phúc](https://thanhnien.vn/xay-dung-gia-dinh-van-minh-tao-nen-tang-cong-dong-hanh-phuc-18524100915015481.htm) - 11:41 09/10/2024
-- 🦒 [Bình Thuận: Đường 1.200 tỉ đồng vẫn chậm tiến độ do vướng mỏ titan](https://thanhnien.vn/binh-thuan-duong-1200-ti-dong-van-cham-tien-do-do-vuong-mo-titan-185241009163841795.htm) - 11:37 09/10/2024
-- 🧐 [Cựu Giám đốc Bệnh viện TP.Thủ Đức Nguyễn Minh Quân được giảm 3 năm tù](https://thanhnien.vn/cuu-giam-doc-benh-vien-tpthu-duc-nguyen-minh-quan-duoc-giam-3-nam-tu-185241009181907468.htm) - 11:33 09/10/2024
-- 🌊 [Top 10 kem chống nắng cho da nhạy cảm được review an toàn, không gây kích ứng](https://thanhnien.vn/top-10-kem-chong-nang-cho-da-nhay-cam-duoc-review-an-toan-khong-gay-kich-ung-185241009181345316.htm) - 11:20 09/10/2024
-- 🧑‍🏫 [Triệt phá đường dây mua bán phụ nữ lấy chồng Trung Quốc](https://thanhnien.vn/triet-pha-duong-day-mua-ban-phu-nu-lay-chong-trung-quoc-185241009172515739.htm) - 11:19 09/10/2024
-- 🫣 [Cảnh báo tình trạng lừa đảo giả mạo văn bản Sở Y tế Lâm Đồng](https://thanhnien.vn/lam-dong-canh-bao-tinh-trang-lua-dao-gia-mao-van-ban-so-y-te-185241009120723055.htm) - 11:10 09/10/2024
-- 👺 [Người dân lại đổ xô xếp hàng nộp hồ sơ &#39;chạy&#39; bảng giá đất mới](https://thanhnien.vn/nguoi-dan-lai-do-xo-xep-hang-nop-ho-so-chay-bang-gia-dat-moi-185241009172918951.htm) - 11:06 09/10/2024
-- 🧑‍🏫 [Váy áo vẽ tay, nghệ thuật độc lạ cho các tín đồ sành điệu](https://thanhnien.vn/thoi-trang-tre/vay-ao-ve-tay-nghe-thuat-doc-la-cho-cac-tin-do-sanh-dieu-185241009163946191.htm) - 11:05 09/10/2024
-- 🌊 [Boeing rút lại đề nghị tăng lương 30% cho công nhân đình công](https://thanhnien.vn/boeing-rut-lai-de-nghi-tang-luong-30-cho-cong-nhan-dinh-cong-185241009165629009.htm) - 11:01 09/10/2024
-- 🕯 [Đà Nẵng: 350 doanh nghiệp gặp gỡ, kết nối và hợp tác phát triển](https://thanhnien.vn/da-nang-350-doanh-nghiep-gap-go-ket-noi-va-hop-tac-phat-trien-185241009174616183.htm) - 11:00 09/10/2024
-- 🐲 [Xuất hiện hố sâu trước nhà dân sau mưa lớn](https://thanhnien.vn/xuat-hien-ho-sau-truoc-nha-dan-sau-mua-lon-185241009173535125.htm) - 11:00 09/10/2024
-- ⛽️ [Những khách sạn nổi tiếng tại Johannesburg, địa điểm lưu trú đẳng cấp](https://thanhnien.vn/thoi-trang-tre/nhung-khach-san-noi-tieng-tai-johannesburg-dia-diem-luu-tru-dang-cap-185241008115716431.htm) - 11:00 09/10/2024
-- 🎉 [Sắp xếp nhiều đơn vị hành chính cấp xã thuộc tỉnh Đắk Lắk](https://thanhnien.vn/sap-xep-nhieu-don-vi-hanh-chinh-cap-xa-thuoc-tinh-dak-lak-18524100916461746.htm) - 10:59 09/10/2024
-- 🎊 [Nên tăng thêm ngày nghỉ lễ Quốc khánh hay nghỉ tết?](https://thanhnien.vn/nen-tang-them-ngay-nghi-le-quoc-khanh-hay-nghi-tet-185241009162323653.htm) - 10:58 09/10/2024
-- 🥳 [Thủ tướng kêu gọi chấm dứt chiến tranh, xung đột](https://thanhnien.vn/thu-tuong-keu-goi-cham-dut-chien-tranh-xung-dot-185241009172146804.htm) - 10:57 09/10/2024
-- 🤡 [iPhone 16 Pro Max về thêm hàng, chưa đủ &#39;giải cơn khát&#39;](https://thanhnien.vn/iphone-16-pro-max-ve-them-hang-chua-du-giai-con-khat-185241009125309357.htm) - 10:56 09/10/2024<!-- thanhnien:END -->
+- 🙉 [Tổng thống Biden, Thủ tướng Netanyahu bàn kế hoạch tấn công trả đũa Iran](https://thanhnien.vn/tong-thong-biden-thu-tuong-netanyahu-ban-ke-hoach-tan-cong-tra-dua-iran-185241009171749315.htm) - 12:00 09/10/2024
+- 🐵 [Bác sĩ ơi: Cách phòng ngừa nhồi máu cơ tim](https://thanhnien.vn/bac-si-oi-cach-phong-ngua-nhoi-mau-co-tim-185241009150718373.htm) - 12:00 09/10/2024
+- 🐎 [An Giang: Kỷ luật nhiều tổ chức, cá nhân](https://thanhnien.vn/an-giang-ky-luat-nhieu-to-chuc-ca-nhan-185241009161756588.htm) - 11:56 09/10/2024
+- 🕯 [Đội tuyển Việt Nam ngược dòng ngoạn mục hạ Nam Định: Thái Sơn, Vĩ Hào lập công!](https://thanhnien.vn/doi-tuyen-viet-nam-nguoc-dong-ha-nam-dinh-tin-hieu-vui-da-den-thai-son-lap-cong-185241009180009525.htm) - 11:54 09/10/2024
+- 👀 [Hơn trăm cây cầu yếu ở Quảng Trị cần sửa chữa, thay mới](https://thanhnien.vn/hon-tram-cay-cau-yeu-o-quang-tri-can-sua-chua-thay-moi-185241009172109679.htm) - 11:46 09/10/2024
+- 🦒 [Xây dựng gia đình văn minh tạo nền tảng cộng đồng hạnh phúc](https://thanhnien.vn/xay-dung-gia-dinh-van-minh-tao-nen-tang-cong-dong-hanh-phuc-18524100915015481.htm) - 11:41 09/10/2024
+- 🧐 [Bình Thuận: Đường 1.200 tỉ đồng vẫn chậm tiến độ do vướng mỏ titan](https://thanhnien.vn/binh-thuan-duong-1200-ti-dong-van-cham-tien-do-do-vuong-mo-titan-185241009163841795.htm) - 11:37 09/10/2024
+- 🌊 [Cựu Giám đốc Bệnh viện TP.Thủ Đức Nguyễn Minh Quân được giảm 3 năm tù](https://thanhnien.vn/cuu-giam-doc-benh-vien-tpthu-duc-nguyen-minh-quan-duoc-giam-3-nam-tu-185241009181907468.htm) - 11:33 09/10/2024
+- 🧑‍🏫 [Top 10 kem chống nắng cho da nhạy cảm được review an toàn, không gây kích ứng](https://thanhnien.vn/top-10-kem-chong-nang-cho-da-nhay-cam-duoc-review-an-toan-khong-gay-kich-ung-185241009181345316.htm) - 11:20 09/10/2024
+- 🫣 [Triệt phá đường dây mua bán phụ nữ lấy chồng Trung Quốc](https://thanhnien.vn/triet-pha-duong-day-mua-ban-phu-nu-lay-chong-trung-quoc-185241009172515739.htm) - 11:19 09/10/2024
+- 👺 [Cảnh báo tình trạng lừa đảo giả mạo văn bản Sở Y tế Lâm Đồng](https://thanhnien.vn/lam-dong-canh-bao-tinh-trang-lua-dao-gia-mao-van-ban-so-y-te-185241009120723055.htm) - 11:10 09/10/2024
+- 🧑‍🏫 [Người dân lại đổ xô xếp hàng nộp hồ sơ &#39;chạy&#39; bảng giá đất mới](https://thanhnien.vn/nguoi-dan-lai-do-xo-xep-hang-nop-ho-so-chay-bang-gia-dat-moi-185241009172918951.htm) - 11:06 09/10/2024
+- 🌊 [Váy áo vẽ tay, nghệ thuật độc lạ cho các tín đồ sành điệu](https://thanhnien.vn/thoi-trang-tre/vay-ao-ve-tay-nghe-thuat-doc-la-cho-cac-tin-do-sanh-dieu-185241009163946191.htm) - 11:05 09/10/2024
+- 🕯 [Boeing rút lại đề nghị tăng lương 30% cho công nhân đình công](https://thanhnien.vn/boeing-rut-lai-de-nghi-tang-luong-30-cho-cong-nhan-dinh-cong-185241009165629009.htm) - 11:01 09/10/2024
+- 🐲 [Đà Nẵng: 350 doanh nghiệp gặp gỡ, kết nối và hợp tác phát triển](https://thanhnien.vn/da-nang-350-doanh-nghiep-gap-go-ket-noi-va-hop-tac-phat-trien-185241009174616183.htm) - 11:00 09/10/2024
+- ⛽️ [Xuất hiện hố sâu trước nhà dân sau mưa lớn](https://thanhnien.vn/xuat-hien-ho-sau-truoc-nha-dan-sau-mua-lon-185241009173535125.htm) - 11:00 09/10/2024
+- 🎉 [Những khách sạn nổi tiếng tại Johannesburg, địa điểm lưu trú đẳng cấp](https://thanhnien.vn/thoi-trang-tre/nhung-khach-san-noi-tieng-tai-johannesburg-dia-diem-luu-tru-dang-cap-185241008115716431.htm) - 11:00 09/10/2024
+- 🎊 [Sắp xếp nhiều đơn vị hành chính cấp xã thuộc tỉnh Đắk Lắk](https://thanhnien.vn/sap-xep-nhieu-don-vi-hanh-chinh-cap-xa-thuoc-tinh-dak-lak-18524100916461746.htm) - 10:59 09/10/2024
+- 🥳 [Nên tăng thêm ngày nghỉ lễ Quốc khánh hay nghỉ tết?](https://thanhnien.vn/nen-tang-them-ngay-nghi-le-quoc-khanh-hay-nghi-tet-185241009162323653.htm) - 10:58 09/10/2024
+- 🤡 [Thủ tướng kêu gọi chấm dứt chiến tranh, xung đột](https://thanhnien.vn/thu-tuong-keu-goi-cham-dut-chien-tranh-xung-dot-185241009172146804.htm) - 10:57 09/10/2024<!-- thanhnien:END -->
 
 ## Báo Lao Động
 <!-- laodong:START -->
