@@ -54,13 +54,13 @@ sidebar_position: 6
 - 🎊 [&#39;Cơn sốt&#39; câu cá của nữ giới Trung Quốc](https://vnexpress.net/con-sot-cau-ca-cua-nu-gioi-trung-quoc-4799702.html) - 04:39 03/10/2024
 - 💄 [Nỗi sợ chủ nhật của Gen Z](https://vnexpress.net/noi-so-chu-nhat-cua-gen-z-4799701.html) - 04:17 03/10/2024
 - 🏊 [Dân chung cư Hà Nội chật vật sửa nhà sau bão Yagi](https://vnexpress.net/dan-chung-cu-ha-noi-chat-vat-sua-nha-sau-bao-yagi-4799527.html) - 23:00 02/10/2024
-- 🌜 [Cách để con cái không lợi dụng cha mẹ](https://vnexpress.net/cach-de-con-cai-khong-loi-dung-cha-me-4793263.html) - 09:19 02/10/2024
-- 🤡 [5 mẹo &#39;đánh bay&#39; nỗi buồn](https://vnexpress.net/5-meo-danh-bay-noi-buon-4799414.html) - 07:45 02/10/2024
-- 🥰 [​Chụp món ăn và phong cảnh bằng điện thoại như thế nào?](https://vnexpress.net/chup-mon-an-va-phong-canh-bang-dien-thoai-nhu-the-nao-4799127.html) - 02:00 02/10/2024
-- 🦍 [Helly Tống trải nghiệm tái chế rác thải nhựa](https://vnexpress.net/helly-tong-trai-nghiem-tai-che-rac-thai-nhua-4799138.html) - 01:30 02/10/2024
-- 🫣 [4 lời nói dối tưởng vô hại nhưng có thể giết chết tình yêu](https://vnexpress.net/4-loi-noi-doi-tuong-vo-hai-nhung-co-the-giet-chet-tinh-yeu-4790088.html) - 01:05 02/10/2024
-- 🚦 [Ảo tưởng dễ nổi tiếng và nhanh giàu nhờ nghề KOL, KOC](https://vnexpress.net/ao-tuong-de-noi-tieng-va-nhanh-giau-nho-nghe-kol-koc-4799100.html) - 23:29 01/10/2024
-- 🐘 [Bí quyết chế biến ức gà, nạc thăn mọng nước](https://vnexpress.net/bi-quyet-che-bien-uc-ga-nac-than-mong-nuoc-4799041.html) - 10:31 01/10/2024
-- 🔥 [5 bài học của các triệu phú tự thân](https://vnexpress.net/5-bai-hoc-cua-cac-trieu-phu-tu-than-4798452.html) - 08:15 01/10/2024
-- 🎃 [Triệu phú Dubai mua hòn đảo để vợ tắm biển](https://vnexpress.net/trieu-phu-dubai-mua-hon-dao-de-vo-tam-bien-4798701.html) - 03:25 01/10/2024
-- 🥳 [Nghị lực sống của cặp song sinh bạch tạng](https://vnexpress.net/nghi-luc-song-cua-cap-song-sinh-bach-tang-4798157.html) - 23:29 30/09/2024<!-- vnexpress-doi-song:END -->
+- 🌜 [Những chuyến đi &#39;nhớ đời&#39; của YouTuber Hoàng Nam](https://vnexpress.net/nhung-chuyen-di-nho-doi-cua-youtuber-hoang-nam-4801784.html) - 12:00 02/10/2024
+- 🤡 [Cách để con cái không lợi dụng cha mẹ](https://vnexpress.net/cach-de-con-cai-khong-loi-dung-cha-me-4793263.html) - 09:19 02/10/2024
+- 🥰 [5 mẹo &#39;đánh bay&#39; nỗi buồn](https://vnexpress.net/5-meo-danh-bay-noi-buon-4799414.html) - 07:45 02/10/2024
+- 🦍 [​Chụp món ăn và phong cảnh bằng điện thoại như thế nào?](https://vnexpress.net/chup-mon-an-va-phong-canh-bang-dien-thoai-nhu-the-nao-4799127.html) - 02:00 02/10/2024
+- 🫣 [Helly Tống trải nghiệm tái chế rác thải nhựa](https://vnexpress.net/helly-tong-trai-nghiem-tai-che-rac-thai-nhua-4799138.html) - 01:30 02/10/2024
+- 🚦 [4 lời nói dối tưởng vô hại nhưng có thể giết chết tình yêu](https://vnexpress.net/4-loi-noi-doi-tuong-vo-hai-nhung-co-the-giet-chet-tinh-yeu-4790088.html) - 01:05 02/10/2024
+- 🐘 [Ảo tưởng dễ nổi tiếng và nhanh giàu nhờ nghề KOL, KOC](https://vnexpress.net/ao-tuong-de-noi-tieng-va-nhanh-giau-nho-nghe-kol-koc-4799100.html) - 23:29 01/10/2024
+- 🔥 [Bí quyết chế biến ức gà, nạc thăn mọng nước](https://vnexpress.net/bi-quyet-che-bien-uc-ga-nac-than-mong-nuoc-4799041.html) - 10:31 01/10/2024
+- 🎃 [5 bài học của các triệu phú tự thân](https://vnexpress.net/5-bai-hoc-cua-cac-trieu-phu-tu-than-4798452.html) - 08:15 01/10/2024
+- 🥳 [Triệu phú Dubai mua hòn đảo để vợ tắm biển](https://vnexpress.net/trieu-phu-dubai-mua-hon-dao-de-vo-tam-bien-4798701.html) - 03:25 01/10/2024<!-- vnexpress-doi-song:END -->
