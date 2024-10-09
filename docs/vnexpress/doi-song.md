@@ -23,7 +23,7 @@ sidebar_position: 6
 - 🧰 [Những cú sốc của chàng rể Tây](https://vnexpress.net/nhung-cu-soc-cua-chang-re-tay-4800542.html) - 23:29 06/10/2024
 - 🪄 [Ước mơ được nhảy múa của cô bé ung thư](https://vnexpress.net/uoc-mo-duoc-nhay-mua-cua-co-be-ung-thu-4800615.html) - 17:27 06/10/2024
 - 🐲 [Bí quyết chế biến thịt vịt già](https://vnexpress.net/bi-quyet-che-bien-thit-vit-gia-4800784.html) - 09:00 06/10/2024
-- 💻 [YouTube Hoàng Nam: &#39;Tôi tò mò, mê khám phá nơi kỳ bí&#39;](https://vnexpress.net/youtube-hoang-nam-toi-to-mo-me-kham-pha-noi-ky-bi-4800795.html) - 06:19 06/10/2024
+- 💻 [YouTuber Hoàng Nam: &#39;Tôi tò mò, mê khám phá nơi kỳ bí&#39;](https://vnexpress.net/youtuber-hoang-nam-toi-to-mo-me-kham-pha-noi-ky-bi-4800795.html) - 06:19 06/10/2024
 - 🐘 [Khác biệt của nhà giàu và trung lưu](https://vnexpress.net/khac-biet-cua-nha-giau-va-trung-luu-4800733.html) - 05:31 06/10/2024
 - 🎬 [Người trẻ Trung Quốc nghỉ hưu](https://vnexpress.net/nguoi-tre-trung-quoc-nghi-huu-4800635.html) - 04:26 06/10/2024
 - 💻 [Những người đi làm như thất nghiệp](https://vnexpress.net/nhung-nguoi-di-lam-nhu-that-nghiep-4800543.html) - 23:29 05/10/2024
