@@ -6,8 +6,8 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Diện mạo cao tốc Bến Lức đoạn qua TP HCM sắp thông xe](https://vnexpress.net/dien-mao-cao-toc-ben-luc-doan-qua-tp-hcm-sap-thong-xe-4802256.html) - 03:40 10/10/2024
 - 🤓 [Dừng tìm kiếm nạn nhân mất tích Làng Nủ](https://vnexpress.net/dung-tim-kiem-nan-nhan-mat-tich-lang-nu-4802349.html) - 03:11 10/10/2024
-- ⚗️ [70 năm ngày đầu Hà Nội giành quyền làm chủ ánh sáng từ Pháp](https://vnexpress.net/70-nam-ngay-dau-ha-noi-gianh-quyen-lam-chu-anh-sang-tu-phap-4802164.html) - 03:00 10/10/2024
-- 🌊 [Lốc xoáy làm hư hỏng 15 căn nhà, 6 người bị thương](https://vnexpress.net/loc-xoay-lam-hu-hong-15-can-nha-6-nguoi-bi-thuong-4802240.html) - 14:35 09/10/2024
+- ⚗️ [70 năm ngày Hà Nội giành quyền làm chủ ánh sáng từ Pháp](https://vnexpress.net/70-nam-ngay-ha-noi-gianh-quyen-lam-chu-anh-sang-tu-phap-4802164.html) - 03:00 10/10/2024
+- 🌊 [Lốc xoáy làm hư hỏng 67 căn nhà, hàng chục người bị thương](https://vnexpress.net/loc-xoay-lam-hu-hong-67-can-nha-hang-chuc-nguoi-bi-thuong-4802240.html) - 14:35 09/10/2024
 - 🎓 [Đề xuất cơ cấu tổ chức bộ máy chính quyền cho đô thị mới Thủy Nguyên](https://vnexpress.net/de-xuat-co-cau-to-chuc-bo-may-chinh-quyen-cho-do-thi-moi-thuy-nguyen-4802200.html) - 12:17 09/10/2024
 - 🔥 [Đề xuất giải quyết lương hưu cho chủ hộ kinh doanh bị thu bảo hiểm trái luật](https://vnexpress.net/de-xuat-giai-quyet-luong-huu-cho-chu-ho-kinh-doanh-bi-thu-bao-hiem-trai-luat-4802123.html) - 10:22 09/10/2024
 - 🦏 [Làng đào Nhật Tân trồng hoa cúc, su hào để bán Tết](https://vnexpress.net/lang-dao-nhat-tan-trong-hoa-cuc-su-hao-de-ban-tet-4800943.html) - 08:49 09/10/2024
