@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Hà Nội tăng giá vé xe buýt](https://vnexpress.net/ha-noi-tang-gia-ve-xe-buyt-4802553.html) - 09:26 10/10/2024
-- 🤓 [Hai nữ sinh tử vong dưới bánh xe bồn ở vòng xoay cửa ngõ TP HCM](https://vnexpress.net/hai-nu-sinh-tu-vong-duoi-banh-xe-bon-o-vong-xoay-cua-ngo-tp-hcm-4802596.html) - 09:24 10/10/2024
+- 🤓 [Hai nữ sinh tử vong dưới bánh xe bồn ở cửa ngõ TP HCM](https://vnexpress.net/hai-nu-sinh-tu-vong-duoi-banh-xe-bon-o-cua-ngo-tp-hcm-4802596.html) - 09:24 10/10/2024
 - ⚗️ [Cá nuôi lồng chết hàng loạt](https://vnexpress.net/ca-nuoi-long-chet-hang-loat-4802567.html) - 09:02 10/10/2024
 - 🌊 [Đề xuất mở lại bến xe Thành Bưởi ở Đà Lạt](https://vnexpress.net/ben-xe-thanh-buoi-da-lat-4802535.html) - 08:13 10/10/2024
 - 🎓 [70 năm đổi thay của Thủ đô Hà Nội](https://vnexpress.net/70-nam-doi-thay-cua-thu-do-ha-noi-4802219.html) - 06:41 10/10/2024
