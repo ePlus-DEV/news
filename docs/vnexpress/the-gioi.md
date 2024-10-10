@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Phó tướng của bà Harris đề xuất bỏ đại cử tri đoàn](https://vnexpress.net/pho-tuong-cua-ba-harris-de-xuat-bo-dai-cu-tri-doan-4802603.html) - 14:27 10/10/2024
+- 🎭 [Phó tướng của bà Harris muốn bỏ đại cử tri đoàn](https://vnexpress.net/pho-tuong-cua-ba-harris-muon-bo-dai-cu-tri-doan-4802603.html) - 14:27 10/10/2024
 - 🕴 [Đường phố Florida ngổn ngang, ngập nước sau bão Milton](https://vnexpress.net/duong-pho-florida-ngon-ngang-ngap-nuoc-sau-bao-milton-4802661.html) - 13:48 10/10/2024
 - 🤭 [Bất đồng nội bộ có thể cản trở Israel trả đũa Iran](https://vnexpress.net/bat-dong-noi-bo-co-the-can-tro-israel-tra-dua-iran-4802287.html) - 12:00 10/10/2024
 - 🧑‍💻 [Điện Kremlin nêu lý do ông Trump gửi thiết bị xét nghiệm Covid-19 cho Nga](https://vnexpress.net/dien-kremlin-neu-ly-do-ong-trump-gui-thiet-bi-xet-nghiem-covid-19-cho-nga-4802643.html) - 11:56 10/10/2024
