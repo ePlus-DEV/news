@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Người Việt ở nơi tâm bão Milton quét qua: Gió &quot;gào thét&quot;, cửa rung lên](https://dantri.com.vn/doi-song/nguoi-viet-o-noi-tam-bao-milton-quet-qua-gio-gao-thet-cua-rung-len-20241010115617703.htm) - 05:40 10/10/2024
+- 🥳 [Người Việt ở nơi tâm bão Milton quét qua: Gió gào rú, cửa rung lên](https://dantri.com.vn/doi-song/nguoi-viet-o-noi-tam-bao-milton-quet-qua-gio-gao-ru-cua-rung-len-20241010115617703.htm) - 05:40 10/10/2024
 - 🌁 [&quot;Hạ bạc&quot; lộc trời khi cánh đồng miền Tây hóa thành biển cả](https://dantri.com.vn/doi-song/ha-bac-loc-troi-khi-canh-dong-mien-tay-hoa-thanh-bien-ca-20241010092711195.htm) - 04:21 10/10/2024
 - 👀 [Bão Milton, người Việt lo &quot;sốt vó&quot; vì mất liên lạc với thân nhân ở Florida](https://dantri.com.vn/doi-song/bao-milton-nguoi-viet-lo-sot-vo-vi-mat-lien-lac-voi-than-nhan-o-florida-20241010094909615.htm) - 03:16 10/10/2024
 - 🐻 [Chú rùa sống sót thần kỳ sau bão Helene, lại khổ sở đi tránh bão Milton](https://dantri.com.vn/doi-song/chu-rua-song-sot-than-ky-sau-bao-helene-lai-kho-so-di-tranh-bao-milton-20241009190539718.htm) - 00:12 10/10/2024
