@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Bahrain vs Indonesia:  Quyết phá kỷ lục Đông Nam Á](https://dantri.com.vn/the-thao/bahrain-vs-indonesia-quyet-pha-ky-luc-dong-nam-a-20241010221543817.htm) - 15:15 10/10/2024
+- 🎡 [Bahrain 0-0 Indonesia &lpar;hiệp 1&rpar;: Cầu thủ Indonesia đổ máu](https://dantri.com.vn/the-thao/bahrain-0-0-indonesia-hiep-1-cau-thu-indonesia-do-mau-20241010221543817.htm) - 15:15 10/10/2024
 - 💯 [HLV Kim Sang Sik tìm đội hình tối ưu cho đội tuyển Việt Nam](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-tim-doi-hinh-toi-uu-cho-doi-tuyen-viet-nam-20241010203418098.htm) - 13:34 10/10/2024
 - ⛽️ [Messi và đội tuyển Argentina &quot;méo mặt&quot; vì siêu bão Milton](https://dantri.com.vn/the-thao/messi-va-doi-tuyen-argentina-meo-mat-vi-sieu-bao-milton-20241010192937409.htm) - 12:29 10/10/2024
 - 💃 [Tuyển bóng bàn nữ mất chức vô địch, HLV Trung Quốc có hành động gây phẫn nộ](https://dantri.com.vn/the-thao/tuyen-bong-ban-nu-mat-chuc-vo-dich-hlv-trung-quoc-co-hanh-dong-gay-phan-no-20241010161746137.htm) - 12:08 10/10/2024
