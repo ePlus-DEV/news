@@ -79,8 +79,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💂 [Vingroup hợp tác VNR thúc đẩy chuyển đổi xanh](https://vnexpress.net/vingroup-hop-tac-vnr-thuc-day-chuyen-doi-xanh-4802656.html) - 11:45 10/10/2024
 - 🚀 [Nổi tiếng vì sở thích &#39;chỉ điểm&#39; xe đậu sai luật cho cảnh sát](https://vnexpress.net/noi-tieng-vi-so-thich-chi-diem-xe-dau-sai-luat-cho-canh-sat-4802608.html) - 11:32 10/10/2024
 - 🕴 [Trung Quốc lại thua ngược ở vòng loại ba World Cup 2026](https://vnexpress.net/trung-quoc-lai-thua-nguoc-o-vong-loai-ba-world-cup-2026-4802602.html) - 11:31 10/10/2024
-- 🦆 [Thủ phạm gây ngứa mũi](https://vnexpress.net/thu-pham-gay-ngua-mui-4802528.html) - 11:30 10/10/2024
-- 💫 [5 học sinh ở TP HCM nhập viện nghi ngộ độc sau ăn tại trường](https://vnexpress.net/5-hoc-sinh-o-tp-hcm-nhap-vien-nghi-ngo-doc-sau-an-tai-truong-4802650.html) - 11:20 10/10/2024<!-- vnexpress:END -->
+- 🦆 [Thủ phạm gây ngứa mũi](https://vnexpress.net/thu-pham-gay-ngua-mui-4802528.html) - 11:30 10/10/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
