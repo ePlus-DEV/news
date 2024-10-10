@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Xưởng làm giả nước gặt Thái Lan bị phát hiện](https://vnexpress.net/xuong-lam-gia-nuoc-gat-thai-lan-bi-phat-hien-4802445.html) - 05:24 10/10/2024
+- 😎 [Xưởng làm giả nước giặt Thái Lan bị phát hiện](https://vnexpress.net/xuong-lam-gia-nuoc-giat-thai-lan-bi-phat-hien-4802445.html) - 05:24 10/10/2024
 - 🥰 [Người mạo danh &#39;sếp của Cục Cảnh sát Hình sự&#39; bị bắt](https://vnexpress.net/nguoi-mao-danh-sep-cua-cuc-canh-sat-hinh-su-bi-bat-4802316.html) - 02:51 10/10/2024
 - 🎓 [Chuyển đất trồng lúa sang đất ở trái phép, bị xử phạt bao nhiêu?](https://vnexpress.net/chuyen-dat-trong-lua-sang-dat-o-trai-phep-bi-xu-phat-bao-nhieu-4802216.html) - 17:00 09/10/2024
 - 🤓 [Hai cha con bị cáo buộc trốn thuế 12 tỷ đồng](https://vnexpress.net/hai-cha-con-bi-cao-buoc-tron-thue-12-ty-dong-4802227.html) - 17:00 09/10/2024
