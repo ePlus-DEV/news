@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Giả sếp Cục Cảnh sát Hình sự lừa &#39;chạy&#39; án cho trùm cát lậu](https://vnexpress.net/gia-sep-cuc-canh-sat-hinh-su-lua-chay-an-cho-trum-cat-lau-4802316.html) - 02:51 10/10/2024
+- 😎 [Người mạo danh &#39;sếp của Cục Cảnh sát Hình sự&#39; bị bắt](https://vnexpress.net/nguoi-mao-danh-sep-cua-cuc-canh-sat-hinh-su-bi-bat-4802316.html) - 02:51 10/10/2024
 - 🥰 [Chuyển đất trồng lúa sang đất ở trái phép, bị xử phạt bao nhiêu?](https://vnexpress.net/chuyen-dat-trong-lua-sang-dat-o-trai-phep-bi-xu-phat-bao-nhieu-4802216.html) - 17:00 09/10/2024
 - 🎓 [Hai cha con bị cáo buộc trốn thuế 12 tỷ đồng](https://vnexpress.net/hai-cha-con-bi-cao-buoc-tron-thue-12-ty-dong-4802227.html) - 17:00 09/10/2024
 - 🤓 [Chiêu lừa dùng &#39;cỗ máy thời gian&#39; đảo ngược lão hóa cho phụ nữ](https://vnexpress.net/chieu-lua-dung-co-may-thoi-gian-dao-nguoc-lao-hoa-cho-phu-nu-4802163.html) - 13:56 09/10/2024
