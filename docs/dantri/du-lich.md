@@ -5,7 +5,7 @@ sidebar_position: 22
 
 <!-- dantri-du-lich:START -->
 - 🥰 [Vượt Seoul, Tokyo, Hà Nội thành &quot;Thành phố ẩm thực hàng đầu thế giới 2024&quot;](https://dantri.com.vn/du-lich/vuot-seoul-tokyo-ha-noi-thanh-thanh-pho-am-thuc-hang-dau-the-gioi-2024-20241010131745895.htm) - 08:04 10/10/2024
-- 🥰 [4 triệu đồng suất bún đậu mắm tôm ngồi ăn vỉa hè ở Mỹ, khách Việt hài lòng](https://dantri.com.vn/du-lich/4-trieu-dong-suat-bun-dau-mam-tom-ngoi-an-via-he-o-my-khach-viet-hai-long-20241010111830285.htm) - 05:30 10/10/2024
+- 🥰 [Ăn bún đậu mắm tôm trên vỉa hè ở Mỹ hết 4 triệu đồng, khách Việt hài lòng](https://dantri.com.vn/du-lich/an-bun-dau-mam-tom-tren-via-he-o-my-het-4-trieu-dong-khach-viet-hai-long-20241010111830285.htm) - 05:30 10/10/2024
 - 🐻 [Khách sạn 4 sao ở Đà Nẵng bị phạt vì không đảm bảo tiêu chuẩn dịch vụ](https://dantri.com.vn/du-lich/khach-san-4-sao-o-da-nang-bi-phat-vi-khong-dam-bao-tieu-chuan-dich-vu-20241009204650118.htm) - 00:09 10/10/2024
 - 🤩 [Khách Mỹ có bài học để đời khi bị từ chối nhập cảnh Việt Nam vì lỗi dễ mắc](https://dantri.com.vn/du-lich/khach-my-co-bai-hoc-de-doi-khi-bi-tu-choi-nhap-canh-viet-nam-vi-loi-de-mac-20241009211133845.htm) - 23:39 09/10/2024
 - 🕴 [48 giờ vi vu Mộc Châu chụp ảnh đẹp mỏi tay, giá chỉ 1,5 triệu đồng](https://dantri.com.vn/du-lich/48-gio-vi-vu-moc-chau-chup-anh-dep-moi-tay-gia-chi-15-trieu-dong-20240901150547018.htm) - 23:04 09/10/2024
