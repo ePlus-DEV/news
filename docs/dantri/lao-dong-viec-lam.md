@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Độc lạ cách nông dân đóng bảo hiểm bằng... cây bưởi](https://dantri.com.vn/an-sinh/doc-la-cach-nong-dan-dong-bao-hiem-bang-cay-buoi-20241010103451971.htm) - 04:26 10/10/2024
+- ⚗️ [Độc lạ cách nông dân đóng bảo hiểm bằng... bưởi](https://dantri.com.vn/an-sinh/doc-la-cach-nong-dan-dong-bao-hiem-bang-buoi-20241010103451971.htm) - 04:26 10/10/2024
 - 🙉 [Nghề thu phục &quot;tiểu tam&quot;: Lương cao bất ngờ, làm không hết việc](https://dantri.com.vn/lao-dong-viec-lam/nghe-thu-phuc-tieu-tam-luong-cao-bat-ngo-lam-khong-het-viec-20241009160014768.htm) - 01:00 10/10/2024
 - 🕴 [Vụ tài xế xe tải tử vong vì mải xem iPad: Nghề sơ sẩy là mất mạng](https://dantri.com.vn/lao-dong-viec-lam/vu-tai-xe-xe-tai-tu-vong-vi-mai-xem-ipad-nghe-so-say-la-mat-mang-20241009131221763.htm) - 23:00 09/10/2024
 - 🧐 [Bữa trưa 2 phút, cơm chan nước lọc của lao động Việt tại Đài Loan](https://dantri.com.vn/lao-dong-viec-lam/bua-trua-2-phut-com-chan-nuoc-loc-cua-lao-dong-viet-tai-dai-loan-20241009165447171.htm) - 10:22 09/10/2024
