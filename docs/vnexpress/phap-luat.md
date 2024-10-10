@@ -8,7 +8,7 @@ sidebar_position: 12
 - 🥰 [Hai cha con bị cáo buộc trốn thuế 12 tỷ đồng](https://vnexpress.net/hai-cha-con-bi-cao-buoc-tron-thue-12-ty-dong-4802227.html) - 17:00 09/10/2024
 - 🎓 [Chiêu lừa dùng &#39;cỗ máy thời gian&#39; đảo ngược lão hóa cho phụ nữ](https://vnexpress.net/chieu-lua-dung-co-may-thoi-gian-dao-nguoc-lao-hoa-cho-phu-nu-4802163.html) - 13:56 09/10/2024
 - 🤓 [Giả nhân viên giao hàng lừa nhiều người chuyển khoản](https://vnexpress.net/gia-nhan-vien-giao-hang-lua-nhieu-nguoi-chuyen-khoan-4802233.html) - 13:54 09/10/2024
-- 🎊 [Tội ác của người chồng bị vợ kiểm soát tiền](https://vnexpress.net/toi-ac-cua-nguoi-chong-bi-vo-kiem-soat-tien-4802211.html) - 13:00 09/10/2024
+- 🎊 [Kế hoạch tàn độc của người chồng bị vợ kiểm soát tiền](https://vnexpress.net/toi-ac-cua-nguoi-chong-bi-vo-kiem-soat-tien-4802211.html) - 13:00 09/10/2024
 - 🙉 [Kẻ lừa đảo bị bắt nhờ nhân viên ngân hàng tinh ý](https://vnexpress.net/ke-lua-dao-bi-bat-nho-nhan-vien-ngan-hang-tinh-y-4802215.html) - 12:25 09/10/2024
 - 🤡 [Bộ Công an lý giải bỏ quy định ghi âm, ghi hình giám sát cảnh sát giao thông](https://vnexpress.net/cong-an-ly-giai-bo-quy-dinh-ghi-am-ghi-hinh-giam-sat-canh-sat-giao-thong-4802224.html) - 12:16 09/10/2024
 - 🗽 [Hai kiến trúc sư bị bắt](https://vnexpress.net/hai-kien-truc-su-bi-bat-4802217.html) - 11:51 09/10/2024
