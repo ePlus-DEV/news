@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Sinner lần đầu vào bán kết, Alcaraz thua sốc tại Thượng Hải Masters](https://dantri.com.vn/the-thao/sinner-lan-dau-vao-ban-ket-alcaraz-thua-soc-tai-thuong-hai-masters-20241010235907638.htm) - 16:59 10/10/2024
-- 💯 [Bahrain 1-1 Indonesia &lpar;hết hiệp 1&rpar;: Chớp thời cơ nhanh, cầu trường nổ tung](https://dantri.com.vn/the-thao/bahrain-1-1-indonesia-het-hiep-1-chop-thoi-co-nhanh-cau-truong-no-tung-20241010221543817.htm) - 15:15 10/10/2024
+- 💯 [Bahrain 1-1 Indonesia &lpar;hiệp 2&rpar;: Chớp thời cơ nhanh, cầu trường nổ tung](https://dantri.com.vn/the-thao/bahrain-1-1-indonesia-hiep-2-chop-thoi-co-nhanh-cau-truong-no-tung-20241010221543817.htm) - 15:15 10/10/2024
 - ⛽️ [HLV Kim Sang Sik tìm đội hình tối ưu cho đội tuyển Việt Nam](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-tim-doi-hinh-toi-uu-cho-doi-tuyen-viet-nam-20241010203418098.htm) - 13:34 10/10/2024
 - 💃 [Messi và đội tuyển Argentina &quot;méo mặt&quot; vì siêu bão Milton](https://dantri.com.vn/the-thao/messi-va-doi-tuyen-argentina-meo-mat-vi-sieu-bao-milton-20241010192937409.htm) - 12:29 10/10/2024
 - 🌈 [Tuyển bóng bàn nữ mất chức vô địch, HLV Trung Quốc có hành động gây phẫn nộ](https://dantri.com.vn/the-thao/tuyen-bong-ban-nu-mat-chuc-vo-dich-hlv-trung-quoc-co-hanh-dong-gay-phan-no-20241010161746137.htm) - 12:08 10/10/2024
