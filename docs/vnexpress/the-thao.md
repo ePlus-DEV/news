@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Vì sao Nguyễn Hoàng Đức xuống đá hạng Nhất?](https://vnexpress.net/vi-sao-nguyen-hoang-duc-xuong-da-hang-nhat-4802486.html) - 07:47 10/10/2024
 - 🦩 [Runner bị xe đâm khi đang chạy marathon](https://vnexpress.net/runner-bi-xe-dam-khi-dang-chay-marathon-4802436.html) - 07:45 10/10/2024
 - 🧰 [Nhà vô địch quyền Anh chịu 44 cú đấm liên tiếp vào bụng](https://vnexpress.net/nha-vo-dich-quyen-anh-chiu-44-cu-dam-lien-tiep-vao-bung-4802464.html) - 07:39 10/10/2024
-- 🤗 [Brazil ốm yếu trước trận cầu quan trọng](https://vnexpress.net/brazil-om-yeu-truoc-tran-cau-quan-trong-4802362.html) - 07:34 10/10/2024
+- 🤗 [Brazil rệu rã trước trận cầu quan trọng ở vòng loại World Cup](https://vnexpress.net/brazil-reu-ra-truoc-tran-cau-quan-trong-o-vong-loai-world-cup-4802362.html) - 07:34 10/10/2024
 - 🥳 [Djokovic tự tin hướng đến danh hiệu thứ 100](https://vnexpress.net/djokovic-tu-tin-huong-den-danh-hieu-thu-100-4802479.html) - 06:51 10/10/2024
 - 🦣 [Ánh Viên, Lâm Quang Nhật đồng hành DNSE Aquaman Vietnam 2024](https://vnexpress.net/anh-vien-lam-quang-nhat-dong-hanh-dnse-aquaman-vietnam-2024-4801756.html) - 04:30 10/10/2024
 - 🌜 [Liverpool mất Alisson khi đấu Arsenal, Chelsea](https://vnexpress.net/liverpool-mat-alisson-khi-dau-arsenal-chelsea-4802382.html) - 03:37 10/10/2024
