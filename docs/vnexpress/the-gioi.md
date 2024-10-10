@@ -14,7 +14,7 @@ sidebar_position: 2
 - 🧑‍🏫 [Mỹ mất kiên nhẫn với Israel về kế hoạch đáp trả Iran](https://vnexpress.net/my-mat-kien-nhan-voi-israel-ve-ke-hoach-dap-tra-iran-4802022.html) - 03:24 10/10/2024
 - 🐲 [Israel tuyên bố hạ đặc vụ Hezbollah ở Syria](https://vnexpress.net/israel-tuyen-bo-ha-dac-vu-hezbollah-o-syria-4802279.html) - 03:05 10/10/2024
 - 🦒 [Việt Nam - Thái Lan đề cao hợp tác thương mại, du lịch](https://vnexpress.net/viet-nam-thai-lan-de-cao-hop-tac-thuong-mai-du-lich-4802249.html) - 02:32 10/10/2024
-- 🐻 [Bão Milton càn quét Florida, gây &#39;mưa nghìn năm có một&#39;](https://vnexpress.net/bao-milton-do-bo-florida-suc-gio-193-km-h-4802278.html) - 00:45 10/10/2024
+- 🐻 [Bão Milton càn quét Florida, gây ngập nghiêm trọng](https://vnexpress.net/bao-milton-do-bo-florida-suc-gio-193-km-h-4802278-tong-thuat.html) - 00:45 10/10/2024
 - 🚀 [Ukraine tuyên bố phá hủy kho UAV ở Nga](https://vnexpress.net/ukraine-tuyen-bo-pha-huy-kho-uav-o-nga-4802275.html) - 00:22 10/10/2024
 - 🥰 [Bộ trưởng Israel: Đòn đáp trả Iran sẽ &#39;bất ngờ và chết chóc&#39;](https://vnexpress.net/bo-truong-israel-don-dap-tra-iran-se-bat-ngo-va-chet-choc-4802266.html) - 23:53 09/10/2024
 - 🔥 [Vết thương tâm lý của người Israel giữa làn sóng xung đột](https://vnexpress.net/vet-thuong-tam-ly-cua-nguoi-israel-giua-lan-song-xung-dot-4801437.html) - 22:00 09/10/2024
