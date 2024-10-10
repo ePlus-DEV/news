@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Đề xuất điều chỉnh quy hoạch sử dụng đất để tăng tỷ lệ dành cho giao thông](https://vnexpress.net/de-xuat-dieu-chinh-quy-hoach-su-dung-dat-de-tang-ty-le-danh-cho-giao-thong-4802556.html) - 10:03 10/10/2024
+- 🦒 [Đề xuất tăng tỷ lệ đất quy hoạch dành cho giao thông](https://vnexpress.net/de-xuat-tang-ty-le-dat-quy-hoach-danh-cho-giao-thong-4802556.html) - 10:03 10/10/2024
 - 🤓 [Tàu gây sự cố trên sông Đồng Nai, 38.000 hộ mất điện](https://vnexpress.net/tau-gay-su-co-tren-song-dong-nai-38-000-ho-mat-dien-4802595.html) - 09:57 10/10/2024
 - ⚗️ [Hà Nội tăng giá vé xe buýt](https://vnexpress.net/ha-noi-tang-gia-ve-xe-buyt-4802553.html) - 09:26 10/10/2024
 - 🌊 [Hai nữ sinh tử vong dưới bánh xe bồn ở cửa ngõ TP HCM](https://vnexpress.net/hai-nu-sinh-tu-vong-duoi-banh-xe-bon-o-cua-ngo-tp-hcm-4802596.html) - 09:24 10/10/2024
