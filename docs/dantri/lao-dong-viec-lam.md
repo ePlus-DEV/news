@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Xem xét tiếp nhận sinh viên Lào ở lại Việt Nam làm việc sau tốt nghiệp](https://dantri.com.vn/lao-dong-viec-lam/xem-xet-tiep-nhan-sinh-vien-lao-o-lai-viet-nam-lam-viec-sau-tot-nghiep-20241010110351585.htm) - 10:59 10/10/2024
+- ⚗️ [Việt - Lào tăng cường trao đổi kinh nghiệm hợp tác lao động, việc làm](https://dantri.com.vn/lao-dong-viec-lam/viet-lao-tang-cuong-trao-doi-kinh-nghiem-hop-tac-lao-dong-viec-lam-20241010110351585.htm) - 10:59 10/10/2024
 - 🙉 [Bữa cơm nửa con cá khô, bó rau lang của nữ công nhân lương gần 8 triệu đồng](https://dantri.com.vn/lao-dong-viec-lam/bua-com-nua-con-ca-kho-bo-rau-lang-cua-nu-cong-nhan-luong-gan-8-trieu-dong-20241010113308932.htm) - 07:06 10/10/2024
 - 🕴 [Độc lạ cách nông dân đóng bảo hiểm bằng... bưởi](https://dantri.com.vn/an-sinh/doc-la-cach-nong-dan-dong-bao-hiem-bang-buoi-20241010103451971.htm) - 04:26 10/10/2024
 - 🧐 [Nghề thu phục &quot;tiểu tam&quot;: Lương cao bất ngờ, làm không hết việc](https://dantri.com.vn/lao-dong-viec-lam/nghe-thu-phuc-tieu-tam-luong-cao-bat-ngo-lam-khong-het-viec-20241009160014768.htm) - 01:00 10/10/2024
