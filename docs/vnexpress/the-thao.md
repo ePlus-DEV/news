@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Alcaraz thua sốc, lỡ đại chiến với Sinner](https://vnexpress.net/alcaraz-thua-soc-lo-dai-chien-voi-sinner-4802684.html) - 14:26 10/10/2024
-- 🦩 [Trung Quốc tiếp tục thua ngược ở vòng loại ba World Cup 2026](https://vnexpress.net/trung-quoc-tiep-tuc-thua-nguoc-o-vong-loai-ba-world-cup-2026-4802602.html) - 11:31 10/10/2024
+- 🦩 [Trung Quốc lại thua ngược ở vòng loại ba World Cup 2026](https://vnexpress.net/trung-quoc-lai-thua-nguoc-o-vong-loai-ba-world-cup-2026-4802602.html) - 11:31 10/10/2024
 - 🧰 [Nadal thông báo giải nghệ](https://vnexpress.net/nadal-thong-bao-giai-nghe-4802640.html) - 10:19 10/10/2024
 - 🤗 [HLV tuyển Anh được so sánh với Guardiola](https://vnexpress.net/hlv-tuyen-anh-duoc-so-sanh-voi-guardiola-4802482.html) - 09:17 10/10/2024
 - 🥳 [Runner phá kỷ lục chạy 5km tung hứng 5 quả bóng](https://vnexpress.net/runner-pha-ky-luc-chay-5km-tung-hung-5-qua-bong-4802415.html) - 08:56 10/10/2024
