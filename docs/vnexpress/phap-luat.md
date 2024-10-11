@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Người nước ngoài &#39;ảo thuật&#39; trộm tiền du khách ở TP HCM](https://vnexpress.net/nguoi-nuoc-ngoai-ao-thuat-trom-tien-du-khach-o-tp-hcm-4802902.html) - 05:31 11/10/2024
-- 🥰 [Lừa bán &#39;slot&#39; đỗ xe ở chung cư, chiếm đoạt hàng trăm triệu đồng](https://vnexpress.net/lua-ban-slot-do-xe-o-chung-cu-chiem-doat-hang-tram-trieu-dong-4802893.html) - 04:43 11/10/2024
+- 🥰 [Lừa bán &#39;slot&#39; đỗ xe ở hầm chung cư cao cấp](https://vnexpress.net/lua-ban-slot-do-xe-o-ham-chung-cu-cao-cap-4802893.html) - 04:43 11/10/2024
 - 🎓 [Bà Trương Mỹ Lan khóc, nói &#39;phải trả giá quá đắt&#39;](https://vnexpress.net/ba-truong-my-lan-khoc-noi-phai-tra-gia-qua-dat-4802853.html) - 04:38 11/10/2024
 - 🤓 [Bé trai giúp cảnh sát xác định &#39;nghi phạm phi tang thi thể mẹ&#39;](https://vnexpress.net/be-trai-giup-canh-sat-xac-dinh-nghi-pham-phi-tang-thi-the-me-4802531.html) - 23:00 10/10/2024
 - 🎊 [Giả shipper &#39;gửi hàng ở chỗ cũ&#39; để lừa người mua chuyển khoản](https://vnexpress.net/gia-shipper-gui-hang-o-cho-cu-de-lua-nguoi-mua-chuyen-khoan-4802599.html) - 17:00 10/10/2024
