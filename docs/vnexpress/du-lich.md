@@ -10,7 +10,7 @@ sidebar_position: 11
 - 🕴 [48 giờ ở Cà Mau](https://vnexpress.net/48-gio-o-ca-mau-4802478.html) - 02:24 11/10/2024
 - 👀 [Khách Việt gặp khó khi xin visa du lịch Đài Loan tự túc](https://vnexpress.net/khach-viet-gap-kho-khi-xin-visa-du-lich-dai-loan-tu-tuc-4801691.html) - 01:07 11/10/2024
 - 🎭 [Hai ngày ở Istanbul - thành phố giữa hai châu lục](https://vnexpress.net/hai-ngay-o-istanbul-thanh-pho-giua-hai-chau-luc-4769362.html) - 17:00 10/10/2024
-- 🦒 [Đề xuất mở tour Cam Lâm - Cam Ranh đón khách tàu biển](https://vnexpress.net/de-xuat-mo-tour-cam-lam-cam-ranh-don-khach-tau-bien-4802544.html) - 09:47 10/10/2024
+- 🦒 [Đề xuất cảng Cam Ranh hỗ trợ đón tàu du lịch quốc tế](https://vnexpress.net/de-xuat-cang-cam-ranh-ho-tro-don-tau-du-lich-quoc-te-4802544.html) - 09:47 10/10/2024
 - 👨‍🏫 [Cô gái không đi du lịch gây chú ý nhờ video &#39;bóc phốt&#39;](https://vnexpress.net/co-gai-khong-di-du-lich-gay-chu-y-nho-video-boc-phot-4802378.html) - 09:05 10/10/2024
 - ⚗️ [Trải nghiệm resort 4.200 USD một đêm](https://vnexpress.net/trai-nghiem-resort-4-200-usd-mot-dem-4802428.html) - 08:31 10/10/2024
 - 🥸 [Quán cà phê bên trong máy bay Boeing 747 ở Bangkok](https://vnexpress.net/quan-ca-phe-ben-trong-may-bay-boeing-747-o-bangkok-4801045.html) - 05:18 10/10/2024
