@@ -58,5 +58,4 @@ sidebar_position: 9
 - 🔥 [Đề chọn đội tuyển Toán thi học sinh giỏi quốc gia của Hà Nội](https://vnexpress.net/de-chon-doi-tuyen-toan-thi-hoc-sinh-gioi-quoc-gia-cua-ha-noi-4803032.html) - 09:17 11/10/2024
 - 💄 [Việt Nam - Ấn Độ sẽ tăng chuyến bay thẳng](https://vnexpress.net/viet-nam-an-do-se-tang-chuyen-bay-thang-4803021.html) - 09:14 11/10/2024
 - 🤡 [Gia đình ủng hộ Diddy tại phiên điều trần](https://vnexpress.net/gia-dinh-ung-ho-diddy-tai-phien-dieu-tran-4802748.html) - 09:11 11/10/2024
-- ⛽️ [Ông Đặng Quốc Khánh, Chẩu Văn Lâm bị cảnh cáo](https://vnexpress.net/ong-dang-quoc-khanh-chau-van-lam-bi-canh-cao-4803044.html) - 09:10 11/10/2024
-- 🚀 [Tổ chức chống vũ khí hạt nhân giành giải Nobel Hòa bình](https://vnexpress.net/to-chuc-chong-vu-khi-hat-nhan-gianh-giai-nobel-hoa-binh-4803053.html) - 09:08 11/10/2024<!-- vnexpress-tin-moi-nhat:END -->
+- ⛽️ [Ông Đặng Quốc Khánh, Chẩu Văn Lâm bị cảnh cáo](https://vnexpress.net/ong-dang-quoc-khanh-chau-van-lam-bi-canh-cao-4803044.html) - 09:10 11/10/2024<!-- vnexpress-tin-moi-nhat:END -->
