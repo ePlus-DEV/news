@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Runner mang thai 20 tuần vô địch giải chạy 5km](https://vnexpress.net/runner-mang-thai-20-tuan-vo-dich-giai-chay-5km-4802842.html) - 03:26 11/10/2024
+- 🪜 [Haaland sắp làm bố](https://vnexpress.net/haaland-sap-lam-bo-4802873.html) - 04:16 11/10/2024
 - 🦩 [Các tân binh giúp Brazil vượt ải Chile](https://vnexpress.net/cac-tan-binh-giup-brazil-vuot-ai-chile-4802781.html) - 02:58 11/10/2024
 - 🧰 [Indonesia gửi kiến nghị lên FIFA](https://vnexpress.net/indonesia-gui-kien-nghi-len-fifa-4802785.html) - 02:56 11/10/2024
 - 🤗 [Alcaraz phủ nhận thua vì nghe tin Nadal giải nghệ](https://vnexpress.net/alcaraz-phu-nhan-thua-vi-nghe-tin-nadal-giai-nghe-4802769.html) - 02:51 11/10/2024
