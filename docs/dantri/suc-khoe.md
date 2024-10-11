@@ -4,7 +4,7 @@ sidebar_position: 23
 ---
 
 <!-- dantri-suc-khoe:START -->
-- 🤔 [2 lãnh đạo Hội Thầy thuốc trẻ Việt Nam tham gia Ủy ban y tế Toàn cầu](https://dantri.com.vn/suc-khoe/2-lanh-dao-hoi-thay-thuoc-tre-viet-nam-tham-gia-uy-ban-y-te-toan-cau-20241011164514680.htm) - 10:34 11/10/2024
+- 🤔 [2 lãnh đạo Hội Thầy thuốc trẻ Việt Nam tham gia Ủy ban Y tế Toàn cầu](https://dantri.com.vn/suc-khoe/2-lanh-dao-hoi-thay-thuoc-tre-viet-nam-tham-gia-uy-ban-y-te-toan-cau-20241011164514680.htm) - 10:34 11/10/2024
 - 🚦 [Trữ mô buồng trứng khi nào được thực hiện tại Việt Nam?](https://dantri.com.vn/suc-khoe/tru-mo-buong-trung-khi-nao-duoc-thuc-hien-tai-viet-nam-20241011154144072.htm) - 09:14 11/10/2024
 - 🤖 [Nhiều người Việt bị &quot;đói&quot; vi chất dinh dưỡng mà không biết](https://dantri.com.vn/suc-khoe/nhieu-nguoi-viet-bi-doi-vi-chat-dinh-duong-ma-khong-biet-20241011102527286.htm) - 07:11 11/10/2024
 - 🐻 [Kỷ lục mới trong lĩnh vực ghép tạng của Việt Nam](https://dantri.com.vn/suc-khoe/ky-luc-moi-trong-linh-vuc-ghep-tang-cua-viet-nam-20210705214422844.htm) - 06:57 11/10/2024
