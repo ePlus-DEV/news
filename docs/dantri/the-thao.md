@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Rơi chiến thắng đau đớn, Indonesia kiện trọng tài lên FIFA](https://dantri.com.vn/the-thao/roi-chien-thang-dau-don-indonesia-kien-trong-tai-len-fifa-20241011122158073.htm) - 05:22 11/10/2024
+- 🎡 [Rơi chiến thắng đầy cay đắng, Indonesia kiện trọng tài lên FIFA](https://dantri.com.vn/the-thao/roi-chien-thang-day-cay-dang-indonesia-kien-trong-tai-len-fifa-20241011122158073.htm) - 05:22 11/10/2024
 - 💯 [HLV Shin Tae Yong nói gì khi Indonesia bị xử ép và đánh rơi chiến thắng?](https://dantri.com.vn/the-thao/hlv-shin-tae-yong-noi-gi-khi-indonesia-bi-xu-ep-va-danh-roi-chien-thang-20241011101436330.htm) - 03:20 11/10/2024
 - ⛽️ [Rafael Nadal là một vận động viên vĩ đại và hơn thế nữa](https://dantri.com.vn/the-thao/rafael-nadal-la-mot-van-dong-vien-vi-dai-va-hon-the-nua-20241011091250379.htm) - 03:02 11/10/2024
 - 💃 [Đội tuyển Brazil ngược dòng đánh bại Chile ở vòng loại World Cup 2026](https://dantri.com.vn/the-thao/doi-tuyen-brazil-nguoc-dong-danh-bai-chile-o-vong-loai-world-cup-2026-20241011100858737.htm) - 03:01 11/10/2024
