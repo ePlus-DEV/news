@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- dantri-xa-hoi:START -->
 - 🫣 [Bộ Chính trị đề nghị Trung ương kỷ luật 2 cựu Bí thư Phú Thọ](https://dantri.com.vn/xa-hoi/bo-chinh-tri-de-nghi-trung-uong-ky-luat-2-cuu-bi-thu-phu-tho-20241011155653016.htm) - 09:01 11/10/2024
-- 💼 [Cựu Bí thư Tuyên Quang bị kỷ luật cảnh cáo liên quan Tập đoàn Phúc Sơn](https://dantri.com.vn/xa-hoi/cuu-bi-thu-tuyen-quang-bi-ky-luat-canh-cao-lien-quan-tap-doan-phuc-son-20241011074333657.htm) - 08:45 11/10/2024
+- 💼 [Cựu Bí thư Tuyên Quang bị kỷ luật cảnh cáo liên quan Tập đoàn Thuận An](https://dantri.com.vn/xa-hoi/cuu-bi-thu-tuyen-quang-bi-ky-luat-canh-cao-lien-quan-tap-doan-thuan-an-20241011074333657.htm) - 08:45 11/10/2024
 - 🎊 [Bộ Chính trị kỷ luật nguyên Bộ trưởng TN&amp;MT Đặng Quốc Khánh](https://dantri.com.vn/xa-hoi/bo-chinh-tri-ky-luat-nguyen-bo-truong-tnmt-dang-quoc-khanh-20241011093013719.htm) - 08:45 11/10/2024
 - 🙉 [Đại tá Nguyễn Thanh Liêm làm Giám đốc Công an tỉnh Quảng Bình](https://dantri.com.vn/xa-hoi/dai-ta-nguyen-thanh-liem-lam-giam-doc-cong-an-tinh-quang-binh-20241011150533971.htm) - 08:28 11/10/2024
 - 🕯 [Khen thưởng 3 người hỗ trợ công an bắt giữ kẻ đổ xăng đốt chết họ hàng](https://dantri.com.vn/xa-hoi/khen-thuong-3-nguoi-ho-tro-cong-an-bat-giu-ke-do-xang-dot-chet-ho-hang-20241011150203432.htm) - 08:22 11/10/2024
