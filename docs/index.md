@@ -52,7 +52,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤔 [Houthi tuyên bố bắn 11 tên lửa đạn đạo vào &#39;tàu dầu Mỹ&#39;](https://vnexpress.net/houthi-tuyen-bo-ban-11-ten-lua-dan-dao-vao-tau-dau-my-4802848.html) - 04:47 11/10/2024
 - 🌮 [Raiden Ei - Genshin Impact](https://vnexpress.net/raiden-ei-genshin-impact-4802819.html) - 04:45 11/10/2024
 - 🦩 [Chi 100 triệu mua dụng cụ tập tại nhà sau khi nghe báo giá phòng gym](https://vnexpress.net/chi-100-trieu-mua-dung-cu-tap-tai-nha-sau-khi-nghe-bao-gia-phong-gym-4802856.html) - 04:45 11/10/2024
-- 📝 [Lừa bán &#39;slot&#39; đỗ xe ở chung cư, chiếm đoạt hàng trăm triệu đồng](https://vnexpress.net/lua-ban-slot-do-xe-o-chung-cu-chiem-doat-hang-tram-trieu-dong-4802893.html) - 04:43 11/10/2024
+- 📝 [Lừa bán &#39;slot&#39; đỗ xe ở hầm chung cư cao cấp](https://vnexpress.net/lua-ban-slot-do-xe-o-ham-chung-cu-cao-cap-4802893.html) - 04:43 11/10/2024
 - 🕴 [Beatrix M4 skin - Mobile Legends Bang Bang](https://vnexpress.net/beatrix-m4-skin-mobile-legends-bang-bang-4802823.html) - 04:41 11/10/2024
 - 🐲 [Focalors - Genshin Impact](https://vnexpress.net/focalors-genshin-impact-4802824.html) - 04:41 11/10/2024
 - 🌜 [10 ôtô bán ít nhất quý III](https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-ban-it-nhat-quy-iii-4802820.html) - 04:39 11/10/2024
@@ -80,8 +80,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [Bạn thân muốn quay lại với chàng trai từng phản bội mình](https://vnexpress.net/ban-than-muon-quay-lai-voi-chang-trai-tung-phan-boi-minh-4802777.html) - 04:00 11/10/2024
 - 🕴 [Người phụ nữ giết người hàng loạt bằng xyanua](https://vnexpress.net/nguoi-phu-nu-giet-nguoi-hang-loat-bang-xyanua-4802796.html) - 04:00 11/10/2024
 - 🦆 [Thai nhi mắc hội chứng đầu to do đột biến gene](https://vnexpress.net/thai-nhi-mac-hoi-chung-dau-to-do-dot-bien-gene-4802756.html) - 04:00 11/10/2024
-- 💫 [Ngày hội sức khỏe của Ensure Gold thu hút hàng nghìn người tham gia](https://vnexpress.net/ngay-hoi-suc-khoe-cua-ensure-gold-thu-hut-hang-nghin-nguoi-tham-gia-4802393.html) - 04:00 11/10/2024
-- 🤓 [FPT Software hợp tác chuyển đổi số ngành năng lượng với đối tác Đức](https://vnexpress.net/fpt-software-hop-tac-chuyen-doi-so-nganh-nang-luong-voi-doi-tac-duc-4802198.html) - 04:00 11/10/2024<!-- vnexpress:END -->
+- 💫 [Ngày hội sức khỏe của Ensure Gold thu hút hàng nghìn người tham gia](https://vnexpress.net/ngay-hoi-suc-khoe-cua-ensure-gold-thu-hut-hang-nghin-nguoi-tham-gia-4802393.html) - 04:00 11/10/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
