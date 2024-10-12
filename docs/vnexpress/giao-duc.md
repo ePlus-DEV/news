@@ -11,7 +11,7 @@ sidebar_position: 7
 - 🔭 [Bốn cách đưa tiếng Anh thành ngôn ngữ thứ hai trong trường học TP HCM](https://vnexpress.net/bon-cach-dua-tieng-anh-thanh-ngon-ngu-thu-hai-trong-truong-hoc-tp-hcm-4803011.html) - 13:29 11/10/2024
 - 💡 [Điểm bắt đầu hình chữ S trên bản đồ Việt Nam ở đâu?](https://vnexpress.net/diem-bat-dau-hinh-chu-s-tren-ban-do-viet-nam-o-dau-4803089.html) - 12:29 11/10/2024
 - 🥰 [Học sinh Việt giành gần 160 huy chương Olympic trong 5 năm](https://vnexpress.net/hoc-sinh-viet-gianh-gan-160-huy-chuong-olympic-trong-5-nam-4802954.html) - 09:50 11/10/2024
-- 🐲 [Đề chọn đội tuyển Toán thi học sinh giỏi quốc gia của Hà Nội](https://vnexpress.net/de-chon-doi-tuyen-toan-thi-hoc-sinh-gioi-quoc-gia-cua-ha-noi-4803032.html) - 09:17 11/10/2024
+- 🐲 [Đề chọn đội tuyển Toán thi học sinh giỏi quốc gia của Hà Nội ngày 1](https://vnexpress.net/de-chon-doi-tuyen-toan-thi-hoc-sinh-gioi-quoc-gia-cua-ha-noi-ngay-1-4803032.html) - 09:17 11/10/2024
 - 🦒 [Đề xuất miễn học phí cho con giáo viên &#39;là nguyện vọng của nhà giáo&#39;](https://vnexpress.net/de-xuat-mien-hoc-phi-cho-con-giao-vien-la-nguyen-vong-cua-nha-giao-4802975.html) - 08:16 11/10/2024
 - 🦆 [Học sinh tiểu học tư thục ở 121 xã, phường được hỗ trợ học phí](https://vnexpress.net/hoc-sinh-tieu-hoc-tu-thuc-o-121-xa-phuong-duoc-ho-tro-hoc-phi-4802967.html) - 07:33 11/10/2024
 - 🧰 [Lo ngại bất công nếu miễn học phí cho con giáo viên](https://vnexpress.net/lo-ngai-bat-cong-neu-mien-hoc-phi-cho-con-giao-vien-4802526.html) - 04:33 11/10/2024
