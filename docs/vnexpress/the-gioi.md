@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Bà Harris nói sẽ lập hội đồng cố vấn lưỡng đảng nếu đắc cử](https://vnexpress.net/ba-harris-noi-se-lap-hoi-dong-co-van-luong-dang-neu-dac-cu-4803276.html) - 05:10 12/10/2024
-- 🕴 [Israel nêu lý do bắn trúng vị trí lính gìn giữ hòa bình LHQ](https://vnexpress.net/israel-neu-ly-do-ban-trung-vi-tri-linh-gin-giu-hoa-binh-lhq-4803217.html) - 04:31 12/10/2024
-- 🤭 [Iran bị cáo buộc đứng sau loạt âm mưu tấn công ở phương Tây](https://vnexpress.net/iran-bi-cao-buoc-dung-sau-loat-am-muu-tan-cong-o-phuong-tay-4801394.html) - 04:14 12/10/2024
-- 🧑‍💻 [Ba dấu ấn của Hội nghị Cấp cao ASEAN 44, 45](https://vnexpress.net/ba-dau-an-cua-hoi-nghi-cap-cao-asean-44-45-4803222.html) - 03:12 12/10/2024
-- 🦏 [Phe Dân chủ lo bà Harris không được cử tri nam ủng hộ](https://vnexpress.net/phe-dan-chu-lo-ba-harris-khong-duoc-cu-tri-nam-ung-ho-4803185.html) - 02:59 12/10/2024
-- 🦒 [Israel bị cáo buộc dùng bom lượn Mỹ tập kích tòa nhà ở Beirut](https://vnexpress.net/israel-bi-cao-buoc-dung-bom-luon-my-tap-kich-toa-nha-o-beirut-4803188.html) - 02:38 12/10/2024
-- 🌈 [Đại dịch cá độ trực tuyến đào rỗng túi tiền người Brazil](https://vnexpress.net/dai-dich-ca-do-truc-tuyen-dao-rong-tui-tien-nguoi-brazil-4802569.html) - 02:02 12/10/2024
-- 🧑‍🏫 [Loạt nước kêu gọi Israel ngừng tấn công lính gìn giữ hòa bình ở Lebanon](https://vnexpress.net/loat-nuoc-keu-goi-israel-ngung-tan-cong-linh-gin-giu-hoa-binh-o-lebanon-4803169.html) - 01:06 12/10/2024
-- 🐲 [Ông Obama hứng chỉ trích khi nói về nam cử tri da màu](https://vnexpress.net/ong-obama-hung-chi-trich-khi-noi-ve-nam-cu-tri-da-mau-4803165.html) - 00:16 12/10/2024
-- 🦒 [Mỹ thiệt hại khoảng 50 tỷ USD vì bão Milton](https://vnexpress.net/my-thiet-hai-khoang-50-ty-usd-vi-bao-milton-4803166.html) - 23:53 11/10/2024
-- 🐻 [Mỹ nỗ lực gạt Hezbollah khỏi chính trường Lebanon](https://vnexpress.net/my-no-luc-gat-hezbollah-khoi-chinh-truong-lebanon-4802736.html) - 22:00 11/10/2024
-- 🚀 [Lính Ukraine hoài nghi về chiến dịch tỉnh Kursk](https://vnexpress.net/linh-ukraine-hoai-nghi-ve-chien-dich-tinh-kursk-4802545.html) - 17:00 11/10/2024
-- 🥰 [Đức thông báo gói viện trợ quân sự 1,5 tỷ USD cho Ukraine](https://vnexpress.net/duc-thong-bao-goi-vien-tro-quan-su-1-5-ty-usd-cho-ukraine-4803137.html) - 15:45 11/10/2024
-- 🔥 [Trung tâm Beirut &#39;như động đất&#39; khi Israel tập kích](https://vnexpress.net/trung-tam-beirut-nhu-dong-dat-khi-israel-tap-kich-4802841.html) - 15:06 11/10/2024
-- 🥳 [Phu nhân Ngô Phương Ly cùng các nữ đại biểu Cộng đồng ASEAN xem trình diễn áo dài](https://vnexpress.net/phu-nhan-ngo-phuong-ly-cung-cac-nu-dai-bieu-cong-dong-asean-xem-trinh-dien-ao-dai-4803134.html) - 14:41 11/10/2024
-- 💼 [Sinh con giữa bão Milton](https://vnexpress.net/sinh-con-giua-bao-milton-4803065.html) - 14:06 11/10/2024
-- 🤡 [&#39;ASEAN và các đối tác Đông Á cần xây dựng lòng tin chiến lược&#39;](https://vnexpress.net/asean-va-cac-doi-tac-dong-a-can-xay-dung-long-tin-chien-luoc-4803117.html) - 13:28 11/10/2024
-- 🌁 [Triều Tiên cáo buộc drone Hàn Quốc xâm nhập Bình Nhưỡng](https://vnexpress.net/trieu-tien-cao-buoc-drone-han-quoc-xam-nhap-binh-nhuong-4803128.html) - 12:56 11/10/2024
-- 🤩 [Nỗ lực chống vũ khí hạt nhân giúp Nihon Hidankyo đoạt Nobel Hòa bình](https://vnexpress.net/no-luc-chong-vu-khi-hat-nhan-giup-nihon-hidankyo-doat-nobel-hoa-binh-4803055.html) - 12:12 11/10/2024
+- 🎭 [Hezbollah tuyên bố tập kích căn cứ, nhà máy thuốc nổ Israel](https://vnexpress.net/hezbollah-tuyen-bo-tap-kich-can-cu-nha-may-thuoc-no-israel-4803325.html) - 08:14 12/10/2024
+- 🕴 [Bà Harris nói sẽ lập hội đồng cố vấn lưỡng đảng nếu đắc cử](https://vnexpress.net/ba-harris-noi-se-lap-hoi-dong-co-van-luong-dang-neu-dac-cu-4803276.html) - 05:10 12/10/2024
+- 🤭 [Israel nêu lý do bắn trúng vị trí lính gìn giữ hòa bình LHQ](https://vnexpress.net/israel-neu-ly-do-ban-trung-vi-tri-linh-gin-giu-hoa-binh-lhq-4803217.html) - 04:31 12/10/2024
+- 🧑‍💻 [Iran bị cáo buộc đứng sau loạt âm mưu tấn công ở phương Tây](https://vnexpress.net/iran-bi-cao-buoc-dung-sau-loat-am-muu-tan-cong-o-phuong-tay-4801394.html) - 04:14 12/10/2024
+- 🦏 [Ba dấu ấn của Hội nghị Cấp cao ASEAN 44, 45](https://vnexpress.net/ba-dau-an-cua-hoi-nghi-cap-cao-asean-44-45-4803222.html) - 03:12 12/10/2024
+- 🦒 [Phe Dân chủ lo bà Harris không được cử tri nam ủng hộ](https://vnexpress.net/phe-dan-chu-lo-ba-harris-khong-duoc-cu-tri-nam-ung-ho-4803185.html) - 02:59 12/10/2024
+- 🌈 [Israel bị cáo buộc dùng bom lượn Mỹ tập kích tòa nhà ở Beirut](https://vnexpress.net/israel-bi-cao-buoc-dung-bom-luon-my-tap-kich-toa-nha-o-beirut-4803188.html) - 02:38 12/10/2024
+- 🧑‍🏫 [Đại dịch cá độ trực tuyến đào rỗng túi tiền người Brazil](https://vnexpress.net/dai-dich-ca-do-truc-tuyen-dao-rong-tui-tien-nguoi-brazil-4802569.html) - 02:02 12/10/2024
+- 🐲 [Loạt nước kêu gọi Israel ngừng tấn công lính gìn giữ hòa bình ở Lebanon](https://vnexpress.net/loat-nuoc-keu-goi-israel-ngung-tan-cong-linh-gin-giu-hoa-binh-o-lebanon-4803169.html) - 01:06 12/10/2024
+- 🦒 [Ông Obama hứng chỉ trích khi nói về nam cử tri da màu](https://vnexpress.net/ong-obama-hung-chi-trich-khi-noi-ve-nam-cu-tri-da-mau-4803165.html) - 00:16 12/10/2024
+- 🐻 [Mỹ thiệt hại khoảng 50 tỷ USD vì bão Milton](https://vnexpress.net/my-thiet-hai-khoang-50-ty-usd-vi-bao-milton-4803166.html) - 23:53 11/10/2024
+- 🚀 [Mỹ nỗ lực gạt Hezbollah khỏi chính trường Lebanon](https://vnexpress.net/my-no-luc-gat-hezbollah-khoi-chinh-truong-lebanon-4802736.html) - 22:00 11/10/2024
+- 🥰 [Lính Ukraine hoài nghi về chiến dịch tỉnh Kursk](https://vnexpress.net/linh-ukraine-hoai-nghi-ve-chien-dich-tinh-kursk-4802545.html) - 17:00 11/10/2024
+- 🔥 [Đức thông báo gói viện trợ quân sự 1,5 tỷ USD cho Ukraine](https://vnexpress.net/duc-thong-bao-goi-vien-tro-quan-su-1-5-ty-usd-cho-ukraine-4803137.html) - 15:45 11/10/2024
+- 🥳 [Trung tâm Beirut &#39;như động đất&#39; khi Israel tập kích](https://vnexpress.net/trung-tam-beirut-nhu-dong-dat-khi-israel-tap-kich-4802841.html) - 15:06 11/10/2024
+- 💼 [Phu nhân Ngô Phương Ly cùng các nữ đại biểu Cộng đồng ASEAN xem trình diễn áo dài](https://vnexpress.net/phu-nhan-ngo-phuong-ly-cung-cac-nu-dai-bieu-cong-dong-asean-xem-trinh-dien-ao-dai-4803134.html) - 14:41 11/10/2024
+- 🤡 [Sinh con giữa bão Milton](https://vnexpress.net/sinh-con-giua-bao-milton-4803065.html) - 14:06 11/10/2024
+- 🌁 [&#39;ASEAN và các đối tác Đông Á cần xây dựng lòng tin chiến lược&#39;](https://vnexpress.net/asean-va-cac-doi-tac-dong-a-can-xay-dung-long-tin-chien-luoc-4803117.html) - 13:28 11/10/2024
+- 🤩 [Triều Tiên cáo buộc drone Hàn Quốc xâm nhập Bình Nhưỡng](https://vnexpress.net/trieu-tien-cao-buoc-drone-han-quoc-xam-nhap-binh-nhuong-4803128.html) - 12:56 11/10/2024
+- 🎉 [Nỗ lực chống vũ khí hạt nhân giúp Nihon Hidankyo đoạt Nobel Hòa bình](https://vnexpress.net/no-luc-chong-vu-khi-hat-nhan-giup-nihon-hidankyo-doat-nobel-hoa-binh-4803055.html) - 12:12 11/10/2024
 - 🎉 [Israel tiếp tục bị tố tấn công lính gìn giữ hòa bình LHQ tại Lebanon](https://vnexpress.net/israel-tiep-tuc-bi-to-tan-cong-linh-gin-giu-hoa-binh-lhq-tai-lebanon-4803100.html) - 11:44 11/10/2024
-- 🎉 [Thủ tướng đề nghị LHQ hỗ trợ ứng phó thảm họa thiên tai](https://vnexpress.net/thu-tuong-de-nghi-lhq-ho-tro-ung-pho-tham-hoa-thien-tai-4803050.html) - 10:52 11/10/2024
-- 🌁 [Ông Obama nhập cuộc vận động tranh cử cho bà Harris](https://vnexpress.net/ong-obama-nhap-cuoc-van-dong-tranh-cu-cho-ba-harris-4802980.html) - 09:26 11/10/2024
-- 🌊 [Tổ chức chống vũ khí hạt nhân giành giải Nobel Hòa bình](https://vnexpress.net/to-chuc-chong-vu-khi-hat-nhan-gianh-giai-nobel-hoa-binh-4803053.html) - 09:08 11/10/2024
-- 🕴 [Bà Harris dẫn trước ông Trump 4 điểm trong khảo sát toàn quốc](https://vnexpress.net/ba-harris-dan-truoc-ong-trump-4-diem-trong-khao-sat-toan-quoc-4802868.html) - 08:48 11/10/2024
-- 🎓 [Iran tố Israel không kích bệnh viện ở biên giới Lebanon - Syria](https://vnexpress.net/iran-to-israel-khong-kich-benh-vien-o-bien-gioi-lebanon-syria-4803007.html) - 08:39 11/10/2024
-- 🦩 [Loạt vòi rồng khiến dân Florida không kịp trở tay trước bão Milton](https://vnexpress.net/loat-voi-rong-khien-dan-florida-khong-kip-tro-tay-truoc-bao-milton-4802773.html) - 08:18 11/10/2024
-- 🌏 [Ukraine thừa nhận Nga đã giành nửa thành phố cửa ngõ Donetsk](https://vnexpress.net/ukraine-thua-nhan-nga-da-gianh-nua-thanh-pho-cua-ngo-donetsk-4802988.html) - 08:14 11/10/2024
-- 🌋 [Mưa kỷ lục gây ngập một phần sa mạc Sahara](https://vnexpress.net/mua-ky-luc-gay-ngap-mot-phan-sa-mac-sahara-4802888.html) - 07:27 11/10/2024
-- 🪜 [Iran &#39;dọa nhắm mục tiêu&#39; các nước Trung Đông hỗ trợ Israel](https://vnexpress.net/iran-doa-nham-muc-tieu-cac-nuoc-trung-dong-ho-tro-israel-4802881.html) - 07:22 11/10/2024
-- 🕴 [Resort của Trump cung cấp phòng cho gần 300 thợ điện ứng phó bão Milton](https://vnexpress.net/resort-cua-trump-cung-cap-phong-cho-gan-300-tho-dien-ung-pho-bao-milton-4802877.html) - 07:14 11/10/2024
-- 🧑‍🏫 [Mỹ cam kết hỗ trợ ASEAN về AI, lưới điện khu vực](https://vnexpress.net/my-cam-ket-ho-tro-asean-ve-ai-luoi-dien-khu-vuc-4802918.html) - 07:05 11/10/2024
-- 🌮 [Khoảnh khắc vòi rồng do bão Milton quét qua cao tốc Florida](https://vnexpress.net/khoanh-khac-voi-rong-do-bao-milton-quet-qua-cao-toc-florida-4802829.html) - 05:07 11/10/2024
-- 🚦 [Nỗi lo bao trùm đảng Dân chủ khi ngày bầu cử cận kề](https://vnexpress.net/noi-lo-bao-trum-dang-dan-chu-khi-ngay-bau-cu-can-ke-4802510.html) - 04:51 11/10/2024
-- 💫 [Houthi tuyên bố bắn 11 tên lửa đạn đạo vào &#39;tàu dầu Mỹ&#39;](https://vnexpress.net/houthi-tuyen-bo-ban-11-ten-lua-dan-dao-vao-tau-dau-my-4802848.html) - 04:47 11/10/2024
-- 🤡 [Ukraine tuyên bố tập kích căn cứ không quân trên đất Nga](https://vnexpress.net/ukraine-tuyen-bo-tap-kich-can-cu-khong-quan-tren-dat-nga-4802743.html) - 03:50 11/10/2024
-- 🦣 [Thủ tướng nêu thông điệp &#39;tự cường trước thiên tai&#39; tại hội nghị ASEAN](https://vnexpress.net/thu-tuong-neu-thong-diep-tu-cuong-truoc-thien-tai-tai-hoi-nghi-asean-4802774.html) - 03:35 11/10/2024
-- 🎬 [Bám vào thùng đá, trôi dạt trên biển trong bão Milton](https://vnexpress.net/bam-vao-thung-da-troi-dat-tren-bien-trong-bao-milton-4802754.html) - 02:48 11/10/2024
-- 🎉 [Vương phi Kate tái xuất sau đợt hóa trị](https://vnexpress.net/vuong-phi-kate-tai-xuat-sau-dot-hoa-tri-4802765.html) - 02:45 11/10/2024
-- 🎡 [Xe tăng Israel bắn trúng lính gìn giữ hòa bình LHQ tại Lebanon](https://vnexpress.net/xe-tang-israel-ban-trung-linh-gin-giu-hoa-binh-lhq-tai-lebanon-4802751.html) - 02:30 11/10/2024
-- 🌜 [Ông Trump khoe sắp có thêm cháu ngoại](https://vnexpress.net/ong-trump-khoe-sap-co-them-chau-ngoai-4802738.html) - 02:09 11/10/2024
-- 🎡 [Israel tập kích trung tâm Beirut, 22 người chết](https://vnexpress.net/israel-tap-kich-trung-tam-beirut-22-nguoi-chet-4802725.html) - 01:44 11/10/2024
-- 🤗 [Bão Milton khiến ít nhất 10 người chết ở Florida](https://vnexpress.net/bao-milton-khien-it-nhat-10-nguoi-chet-o-florida-4802724.html) - 00:57 11/10/2024
-- 🦩 [Hôm nay công bố giải Nobel Hòa bình](https://vnexpress.net/hom-nay-cong-bo-giai-nobel-hoa-binh-4802685.html) - 00:54 11/10/2024
-- 🎓 [Ông Biden nói Donald Trump &#39;hãy sống có trách nhiệm&#39;](https://vnexpress.net/ong-biden-noi-donald-trump-hay-song-co-trach-nhiem-4802717.html) - 00:12 11/10/2024
-- 🌁 [Ông Zelensky công bố &#39;kế hoạch chiến thắng&#39; với đồng minh châu Âu](https://vnexpress.net/ong-zelensky-cong-bo-ke-hoach-chien-thang-voi-dong-minh-chau-au-4802716.html) - 23:59 10/10/2024
-- 🤩 [&#39;Bất ngờ tháng 10&#39; - hiệu ứng có thể xoay chuyển cục diện bầu cử Mỹ](https://vnexpress.net/bat-ngo-thang-10-hieu-ung-co-the-xoay-chuyen-cuc-dien-bau-cu-my-4801890.html) - 22:00 10/10/2024
-- 👹 [Việt Nam đề nghị Canada hỗ trợ trong hoạt động gìn giữ hòa bình LHQ](https://vnexpress.net/viet-nam-de-nghi-canada-ho-tro-trong-hoat-dong-gin-giu-hoa-binh-lhq-4802703.html) - 17:31 10/10/2024
-- ⛽️ [Israel chặn âm mưu đánh bom trung tâm thương mại](https://vnexpress.net/israel-chan-am-muu-danh-bom-trung-tam-thuong-mai-4802702.html) - 17:03 10/10/2024
-- 🚀 [Những nhà khí tượng chật vật chống tin giả trong bão Milton](https://vnexpress.net/nhung-nha-khi-tuong-chat-vat-chong-tin-gia-trong-bao-milton-4802303.html) - 17:00 10/10/2024
-- 🎡 [Tổng thư ký NATO kêu gọi đồng minh &#39;dừng lo sợ&#39; về ông Trump](https://vnexpress.net/tong-thu-ky-nato-keu-goi-dong-minh-dung-lo-so-ve-ong-trump-4802701.html) - 16:45 10/10/2024
-- 🕯 [Phó tướng của bà Harris muốn bỏ đại cử tri đoàn](https://vnexpress.net/pho-tuong-cua-ba-harris-muon-bo-dai-cu-tri-doan-4802603.html) - 14:27 10/10/2024
-- 🐻 [Đường phố Florida ngổn ngang, ngập nước sau bão Milton](https://vnexpress.net/duong-pho-florida-ngon-ngang-ngap-nuoc-sau-bao-milton-4802661.html) - 13:48 10/10/2024
-- 🚦 [Bất đồng nội bộ có thể cản trở Israel trả đũa Iran](https://vnexpress.net/bat-dong-noi-bo-co-the-can-tro-israel-tra-dua-iran-4802287.html) - 12:00 10/10/2024
-- 👍 [Điện Kremlin nêu lý do ông Trump gửi thiết bị xét nghiệm Covid-19 cho Nga](https://vnexpress.net/dien-kremlin-neu-ly-do-ong-trump-gui-thiet-bi-xet-nghiem-covid-19-cho-nga-4802643.html) - 11:56 10/10/2024
-- 🚀 [Tổng thống Biden chỉ trích Trump bịa đặt về cách Mỹ ứng phó bão](https://vnexpress.net/tong-thong-biden-chi-trich-trump-bia-dat-ve-cach-my-ung-pho-bao-4802616.html) - 10:43 10/10/2024
-- 🌮 [Thủ tướng đề nghị ASEAN - Trung Quốc tăng kết nối chiến lược](https://vnexpress.net/thu-tuong-de-nghi-asean-trung-quoc-tang-ket-noi-chien-luoc-4802587.html) - 10:07 10/10/2024
-- 😎 [Chàng trai 18 tuổi chinh phục toàn bộ đỉnh núi cao nhất thế giới](https://vnexpress.net/chang-trai-18-tuoi-chinh-phuc-toan-bo-dinh-nui-cao-nhat-the-gioi-4802546.html) - 09:54 10/10/2024
-- 🐲 [Hàn Quốc nghi Triều Tiên đang chế tạo tàu ngầm hạt nhân](https://vnexpress.net/han-quoc-nghi-trieu-tien-dang-che-tao-tau-ngam-hat-nhan-4802574.html) - 09:46 10/10/2024
-- 💫 [Phóng viên suýt bị gió đẩy ngã khi đưa tin bão Milton](https://vnexpress.net/phong-vien-suyt-bi-gio-day-nga-khi-dua-tin-bao-milton-4802495.html) - 09:27 10/10/2024
-- 👀 [Tro cốt nhà khoa học được rải xuống tâm bão Milton](https://vnexpress.net/tro-cot-nha-khoa-hoc-duoc-rai-xuong-tam-bao-milton-4802357.html) - 09:19 10/10/2024<!-- vnexpress-the-gioi:END -->
+- 🌁 [Thủ tướng đề nghị LHQ hỗ trợ ứng phó thảm họa thiên tai](https://vnexpress.net/thu-tuong-de-nghi-lhq-ho-tro-ung-pho-tham-hoa-thien-tai-4803050.html) - 10:52 11/10/2024
+- 🌊 [Ông Obama nhập cuộc vận động tranh cử cho bà Harris](https://vnexpress.net/ong-obama-nhap-cuoc-van-dong-tranh-cu-cho-ba-harris-4802980.html) - 09:26 11/10/2024
+- 🕴 [Tổ chức chống vũ khí hạt nhân giành giải Nobel Hòa bình](https://vnexpress.net/to-chuc-chong-vu-khi-hat-nhan-gianh-giai-nobel-hoa-binh-4803053.html) - 09:08 11/10/2024
+- 🎓 [Bà Harris dẫn trước ông Trump 4 điểm trong khảo sát toàn quốc](https://vnexpress.net/ba-harris-dan-truoc-ong-trump-4-diem-trong-khao-sat-toan-quoc-4802868.html) - 08:48 11/10/2024
+- 🦩 [Iran tố Israel không kích bệnh viện ở biên giới Lebanon - Syria](https://vnexpress.net/iran-to-israel-khong-kich-benh-vien-o-bien-gioi-lebanon-syria-4803007.html) - 08:39 11/10/2024
+- 🌏 [Loạt vòi rồng khiến dân Florida không kịp trở tay trước bão Milton](https://vnexpress.net/loat-voi-rong-khien-dan-florida-khong-kip-tro-tay-truoc-bao-milton-4802773.html) - 08:18 11/10/2024
+- 🌋 [Ukraine thừa nhận Nga đã giành nửa thành phố cửa ngõ Donetsk](https://vnexpress.net/ukraine-thua-nhan-nga-da-gianh-nua-thanh-pho-cua-ngo-donetsk-4802988.html) - 08:14 11/10/2024
+- 🪜 [Mưa kỷ lục gây ngập một phần sa mạc Sahara](https://vnexpress.net/mua-ky-luc-gay-ngap-mot-phan-sa-mac-sahara-4802888.html) - 07:27 11/10/2024
+- 🕴 [Iran &#39;dọa nhắm mục tiêu&#39; các nước Trung Đông hỗ trợ Israel](https://vnexpress.net/iran-doa-nham-muc-tieu-cac-nuoc-trung-dong-ho-tro-israel-4802881.html) - 07:22 11/10/2024
+- 🧑‍🏫 [Resort của Trump cung cấp phòng cho gần 300 thợ điện ứng phó bão Milton](https://vnexpress.net/resort-cua-trump-cung-cap-phong-cho-gan-300-tho-dien-ung-pho-bao-milton-4802877.html) - 07:14 11/10/2024
+- 🌮 [Mỹ cam kết hỗ trợ ASEAN về AI, lưới điện khu vực](https://vnexpress.net/my-cam-ket-ho-tro-asean-ve-ai-luoi-dien-khu-vuc-4802918.html) - 07:05 11/10/2024
+- 🚦 [Khoảnh khắc vòi rồng do bão Milton quét qua cao tốc Florida](https://vnexpress.net/khoanh-khac-voi-rong-do-bao-milton-quet-qua-cao-toc-florida-4802829.html) - 05:07 11/10/2024
+- 💫 [Nỗi lo bao trùm đảng Dân chủ khi ngày bầu cử cận kề](https://vnexpress.net/noi-lo-bao-trum-dang-dan-chu-khi-ngay-bau-cu-can-ke-4802510.html) - 04:51 11/10/2024
+- 🤡 [Houthi tuyên bố bắn 11 tên lửa đạn đạo vào &#39;tàu dầu Mỹ&#39;](https://vnexpress.net/houthi-tuyen-bo-ban-11-ten-lua-dan-dao-vao-tau-dau-my-4802848.html) - 04:47 11/10/2024
+- 🦣 [Ukraine tuyên bố tập kích căn cứ không quân trên đất Nga](https://vnexpress.net/ukraine-tuyen-bo-tap-kich-can-cu-khong-quan-tren-dat-nga-4802743.html) - 03:50 11/10/2024
+- 🎬 [Thủ tướng nêu thông điệp &#39;tự cường trước thiên tai&#39; tại hội nghị ASEAN](https://vnexpress.net/thu-tuong-neu-thong-diep-tu-cuong-truoc-thien-tai-tai-hoi-nghi-asean-4802774.html) - 03:35 11/10/2024
+- 🎉 [Bám vào thùng đá, trôi dạt trên biển trong bão Milton](https://vnexpress.net/bam-vao-thung-da-troi-dat-tren-bien-trong-bao-milton-4802754.html) - 02:48 11/10/2024
+- 🎡 [Vương phi Kate tái xuất sau đợt hóa trị](https://vnexpress.net/vuong-phi-kate-tai-xuat-sau-dot-hoa-tri-4802765.html) - 02:45 11/10/2024
+- 🌜 [Xe tăng Israel bắn trúng lính gìn giữ hòa bình LHQ tại Lebanon](https://vnexpress.net/xe-tang-israel-ban-trung-linh-gin-giu-hoa-binh-lhq-tai-lebanon-4802751.html) - 02:30 11/10/2024
+- 🎡 [Ông Trump khoe sắp có thêm cháu ngoại](https://vnexpress.net/ong-trump-khoe-sap-co-them-chau-ngoai-4802738.html) - 02:09 11/10/2024
+- 🤗 [Israel tập kích trung tâm Beirut, 22 người chết](https://vnexpress.net/israel-tap-kich-trung-tam-beirut-22-nguoi-chet-4802725.html) - 01:44 11/10/2024
+- 🦩 [Bão Milton khiến ít nhất 10 người chết ở Florida](https://vnexpress.net/bao-milton-khien-it-nhat-10-nguoi-chet-o-florida-4802724.html) - 00:57 11/10/2024
+- 🎓 [Hôm nay công bố giải Nobel Hòa bình](https://vnexpress.net/hom-nay-cong-bo-giai-nobel-hoa-binh-4802685.html) - 00:54 11/10/2024
+- 🌁 [Ông Biden nói Donald Trump &#39;hãy sống có trách nhiệm&#39;](https://vnexpress.net/ong-biden-noi-donald-trump-hay-song-co-trach-nhiem-4802717.html) - 00:12 11/10/2024
+- 🤩 [Ông Zelensky công bố &#39;kế hoạch chiến thắng&#39; với đồng minh châu Âu](https://vnexpress.net/ong-zelensky-cong-bo-ke-hoach-chien-thang-voi-dong-minh-chau-au-4802716.html) - 23:59 10/10/2024
+- 👹 [&#39;Bất ngờ tháng 10&#39; - hiệu ứng có thể xoay chuyển cục diện bầu cử Mỹ](https://vnexpress.net/bat-ngo-thang-10-hieu-ung-co-the-xoay-chuyen-cuc-dien-bau-cu-my-4801890.html) - 22:00 10/10/2024
+- ⛽️ [Việt Nam đề nghị Canada hỗ trợ trong hoạt động gìn giữ hòa bình LHQ](https://vnexpress.net/viet-nam-de-nghi-canada-ho-tro-trong-hoat-dong-gin-giu-hoa-binh-lhq-4802703.html) - 17:31 10/10/2024
+- 🚀 [Israel chặn âm mưu đánh bom trung tâm thương mại](https://vnexpress.net/israel-chan-am-muu-danh-bom-trung-tam-thuong-mai-4802702.html) - 17:03 10/10/2024
+- 🎡 [Những nhà khí tượng chật vật chống tin giả trong bão Milton](https://vnexpress.net/nhung-nha-khi-tuong-chat-vat-chong-tin-gia-trong-bao-milton-4802303.html) - 17:00 10/10/2024
+- 🕯 [Tổng thư ký NATO kêu gọi đồng minh &#39;dừng lo sợ&#39; về ông Trump](https://vnexpress.net/tong-thu-ky-nato-keu-goi-dong-minh-dung-lo-so-ve-ong-trump-4802701.html) - 16:45 10/10/2024
+- 🐻 [Phó tướng của bà Harris muốn bỏ đại cử tri đoàn](https://vnexpress.net/pho-tuong-cua-ba-harris-muon-bo-dai-cu-tri-doan-4802603.html) - 14:27 10/10/2024
+- 🚦 [Đường phố Florida ngổn ngang, ngập nước sau bão Milton](https://vnexpress.net/duong-pho-florida-ngon-ngang-ngap-nuoc-sau-bao-milton-4802661.html) - 13:48 10/10/2024
+- 👍 [Bất đồng nội bộ có thể cản trở Israel trả đũa Iran](https://vnexpress.net/bat-dong-noi-bo-co-the-can-tro-israel-tra-dua-iran-4802287.html) - 12:00 10/10/2024
+- 🚀 [Điện Kremlin nêu lý do ông Trump gửi thiết bị xét nghiệm Covid-19 cho Nga](https://vnexpress.net/dien-kremlin-neu-ly-do-ong-trump-gui-thiet-bi-xet-nghiem-covid-19-cho-nga-4802643.html) - 11:56 10/10/2024
+- 🌮 [Tổng thống Biden chỉ trích Trump bịa đặt về cách Mỹ ứng phó bão](https://vnexpress.net/tong-thong-biden-chi-trich-trump-bia-dat-ve-cach-my-ung-pho-bao-4802616.html) - 10:43 10/10/2024
+- 😎 [Thủ tướng đề nghị ASEAN - Trung Quốc tăng kết nối chiến lược](https://vnexpress.net/thu-tuong-de-nghi-asean-trung-quoc-tang-ket-noi-chien-luoc-4802587.html) - 10:07 10/10/2024
+- 🐲 [Chàng trai 18 tuổi chinh phục toàn bộ đỉnh núi cao nhất thế giới](https://vnexpress.net/chang-trai-18-tuoi-chinh-phuc-toan-bo-dinh-nui-cao-nhat-the-gioi-4802546.html) - 09:54 10/10/2024
+- 💫 [Hàn Quốc nghi Triều Tiên đang chế tạo tàu ngầm hạt nhân](https://vnexpress.net/han-quoc-nghi-trieu-tien-dang-che-tao-tau-ngam-hat-nhan-4802574.html) - 09:46 10/10/2024
+- 👀 [Phóng viên suýt bị gió đẩy ngã khi đưa tin bão Milton](https://vnexpress.net/phong-vien-suyt-bi-gio-day-nga-khi-dua-tin-bao-milton-4802495.html) - 09:27 10/10/2024<!-- vnexpress-the-gioi:END -->
