@@ -11,8 +11,8 @@ sidebar_position: 9
 - 🎊 [Nguyễn Văn Quyết chia tay tuyển Việt Nam](https://vnexpress.net/nguyen-van-quyet-chia-tay-tuyen-viet-nam-4803389.html) - 13:42 12/10/2024
 - 🎃 [Việt Nam nhập khẩu điện từ nước nào?](https://vnexpress.net/viet-nam-nhap-khau-dien-tu-nuoc-nao-4803366.html) - 13:17 12/10/2024
 - 🧰 [Ông Trump dẫn trước bà Harris trong khảo sát về Ukraine, Gaza](https://vnexpress.net/ong-trump-dan-truoc-ba-harris-trong-khao-sat-ve-ukraine-gaza-4803365.html) - 13:04 12/10/2024
-- 🔭 [Bảo Thy vui thú trồng trọt](https://vnexpress.net/bao-thy-vui-thu-trong-trot-4801930.html) - 13:00 12/10/2024
-- 🫶 [Có nên mua ôtô cũ rồi cả nhà về quê, đi làm Hà Nội 60 km?](https://vnexpress.net/co-nen-mua-oto-cu-roi-ca-nha-ve-que-di-lam-ha-noi-60-km-4803361.html) - 13:00 12/10/2024
+- 🔭 [Có nên mua ôtô cũ rồi cả nhà về quê, đi làm Hà Nội 60 km?](https://vnexpress.net/co-nen-mua-oto-cu-roi-ca-nha-ve-que-di-lam-ha-noi-60-km-4803361.html) - 13:00 12/10/2024
+- 🫶 [Bảo Thy vui thú trồng trọt](https://vnexpress.net/bao-thy-vui-thu-trong-trot-4801930.html) - 13:00 12/10/2024
 - 🪜 [46 đội vào vòng thuyết trình Data For Life 2024](https://vnexpress.net/46-doi-vao-vong-thuyet-trinh-data-for-life-2024-4803380.html) - 13:00 12/10/2024
 - 👨‍🏫 [Chồng có con với bồ nhí để &#39;chính thức hoá&#39; mối quan hệ](https://vnexpress.net/chong-co-con-voi-bo-nhi-de-chinh-thuc-hoa-moi-quan-he-4803314.html) - 13:00 12/10/2024
 - 🎊 [Thủ tướng Trung Quốc đến Hà Nội, bắt đầu thăm Việt Nam](https://vnexpress.net/thu-tuong-trung-quoc-den-ha-noi-bat-dau-tham-viet-nam-4803322.html) - 12:22 12/10/2024
