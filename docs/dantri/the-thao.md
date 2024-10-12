@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Lamine Yamal nhận trọng trách đặc biệt](https://dantri.com.vn/the-thao/lamine-yamal-nhan-trong-trach-dac-biet-20241012180149214.htm) - 11:01 12/10/2024
-- 💯 [Đội tuyển Việt Nam 0-0 Ấn Độ &lpar;hiệp 1&rpar;: Quế Ngọc Hải đá hỏng phạt đền](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-0-0-an-do-hiep-1-que-ngoc-hai-da-hong-phat-den-20241012164807218.htm) - 09:47 12/10/2024
+- 🎡 [Lamine Yamal nhận trọng trách đặc biệt](https://dantri.com.vn/the-thao/lamine-yamal-nhan-trong-trach-dac-biet-20241012180149214.htm) - 11:37 12/10/2024
+- 💯 [Tuyển Việt Nam 1-0 Ấn Độ &lpar;hiệp 1&rpar;: Cú vô lê tuyệt vời của Vĩ Hào](https://dantri.com.vn/the-thao/tuyen-viet-nam-1-0-an-do-hiep-1-cu-vo-le-tuyet-voi-cua-vi-hao-20241012164807218.htm) - 09:47 12/10/2024
 - ⛽️ [Hình ảnh &quot;cười ra nước mắt&quot; trong trận đấu của Thái Lan](https://dantri.com.vn/the-thao/hinh-anh-cuoi-ra-nuoc-mat-trong-tran-dau-cua-thai-lan-20241012134227891.htm) - 08:42 12/10/2024
 - 💃 [Báo chí thế giới dự đoán kết quả trận tuyển Việt Nam đụng độ Ấn Độ](https://dantri.com.vn/the-thao/bao-chi-the-gioi-du-doan-ket-qua-tran-tuyen-viet-nam-dung-do-an-do-20241012115842816.htm) - 05:01 12/10/2024
 - 🌈 [HLV tuyển Trung Quốc thừa nhận sức mạnh đáng gờm của Indonesia](https://dantri.com.vn/the-thao/hlv-tuyen-trung-quoc-thua-nhan-suc-manh-dang-gom-cua-indonesia-20241012074621042.htm) - 01:00 12/10/2024
