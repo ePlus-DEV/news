@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Giải cứu người phụ nữ định nhảy xuống sông Hàn](https://vnexpress.net/giai-cuu-nguoi-phu-nu-dinh-nhay-xuong-song-han-4803378.html) - 14:01 12/10/2024
+- 🎬 [Giải cứu người phụ nữ nhảy xuống sông Hàn](https://vnexpress.net/giai-cuu-nguoi-phu-nu-nhay-xuong-song-han-4803378.html) - 14:01 12/10/2024
 - 🐎 [Cả thanh xuân đóng góp cho gia đình, giờ có nên xin đất của bố mẹ](https://vnexpress.net/ca-thanh-xuan-dong-gop-cho-gia-dinh-gio-co-nen-xin-dat-cua-bo-me-4803385.html) - 14:00 12/10/2024
 - 🦍 [Mong anh không đặt nặng chuyện con cái](https://vnexpress.net/mong-anh-khong-dat-nang-chuyen-con-cai-4803196.html) - 14:00 12/10/2024
 - 🏊 [Ocean Vuong ra tiểu thuyết mới](https://vnexpress.net/ocean-vuong-ra-tieu-thuyet-moi-4803243.html) - 13:45 12/10/2024
@@ -53,4 +53,6 @@ sidebar_position: 9
 - 👍 [Em tôi có lẽ không vắn số nếu có người chia sẻ](https://vnexpress.net/em-toi-co-le-khong-van-so-neu-co-nguoi-chia-se-4803033.html) - 08:00 12/10/2024
 - 🐎 [Hoán đổi vị trí một que diêm để có kết quả lớn nhất](https://vnexpress.net/hoan-doi-vi-tri-mot-que-diem-de-co-ket-qua-lon-nhat-4802201.html) - 08:00 12/10/2024
 - 🏊 [Thời trang bầu của minh tinh Margot Robbie](https://vnexpress.net/thoi-trang-bau-cua-minh-tinh-margot-robbie-4802465.html) - 08:00 12/10/2024
-- 🦩 [Sản xuất trò chơi, trang phục, phụ kiện cảm hứng phim &#39;Cám&#39;](https://vnexpress.net/san-xuat-tro-choi-trang-phuc-phu-kien-cam-hung-phim-cam-4803338.html) - 08:00 12/10/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🦩 [Sản xuất trò chơi, trang phục, phụ kiện cảm hứng phim &#39;Cám&#39;](https://vnexpress.net/san-xuat-tro-choi-trang-phuc-phu-kien-cam-hung-phim-cam-4803338.html) - 08:00 12/10/2024
+- 👍 [Người bệnh tim mạch ngày càng trẻ](https://vnexpress.net/nguoi-benh-tim-mach-ngay-cang-tre-4803269.html) - 07:55 12/10/2024
+- 🔥 [Hai giang hồ lập Fanpage cho vay lãi 365% mỗi năm](https://vnexpress.net/hai-giang-ho-lap-fanpage-cho-vay-lai-365-moi-nam-4803306.html) - 07:51 12/10/2024<!-- vnexpress-tin-moi-nhat:END -->
