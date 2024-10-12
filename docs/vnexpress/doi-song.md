@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Chợ côn trùng, bò sát giá hàng chục triệu đồng ở TP HCM](https://vnexpress.net/cho-con-trung-bo-sat-gia-hang-chuc-trieu-dong-o-tp-hcm-4803003.html) - 23:28 11/10/2024
+- 🚀 [Phiên chợ côn trùng, bò sát giá hàng chục triệu đồng ở TP HCM](https://vnexpress.net/phien-cho-con-trung-bo-sat-gia-hang-chuc-trieu-dong-o-tp-hcm-4803003.html) - 23:28 11/10/2024
 - 🎓 [Sạp rau 0 đồng của chàng trai Cần Thơ](https://vnexpress.net/sap-rau-0-dong-cua-chang-trai-can-tho-4803132.html) - 23:00 11/10/2024
 - 🚦 [Nên thắng nước hàng bằng nước hay dầu ăn?](https://vnexpress.net/nen-thang-nuoc-hang-bang-nuoc-hay-dau-an-4803054.html) - 10:30 11/10/2024
 - 🦣 [Người Hàn Quốc đau đầu vì lạm phát tiền mừng cưới](https://vnexpress.net/nguoi-han-quoc-dau-dau-vi-lam-phat-tien-mung-cuoi-4803067.html) - 09:23 11/10/2024
