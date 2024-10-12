@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cảnh sát biển cứu 3 ngư dân gặp nạn](https://vnexpress.net/canh-sat-bien-cuu-3-ngu-dan-gap-nan-4803339.html) - 08:52 12/10/2024
+- 🦒 [Cảnh sát biển cứu 3 người đi câu bị chìm xuồng](https://vnexpress.net/canh-sat-bien-cuu-3-nguoi-di-cau-bi-chim-xuong-4803339.html) - 08:52 12/10/2024
 - 🤓 [Lắp van khóa giếng nước phun cao 30 m](https://vnexpress.net/lap-van-khoa-gieng-nuoc-phun-cao-30-m-4803320.html) - 07:16 12/10/2024
 - ⚗️ [Đề xuất đầu tư cao tốc Bắc Kạn - Cao Bằng](https://vnexpress.net/de-xuat-dau-tu-cao-toc-bac-kan-cao-bang-4803270.html) - 04:45 12/10/2024
 - 🌊 [Lương ứng viên mảng Al cao hơn vị trí khác 10-50%](https://vnexpress.net/luong-ung-vien-mang-al-cao-hon-vi-tri-khac-10-50-4803282.html) - 04:38 12/10/2024
