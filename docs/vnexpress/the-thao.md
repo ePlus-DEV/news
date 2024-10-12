@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Việt Nam - Ấn Độ: Nguyễn Hoàng Đức đá chính](https://vnexpress.net/viet-nam-an-do-nguyen-hoang-duc-da-chinh-4803354.html) - 10:15 12/10/2024
+- 🪜 [Việt Nam - Ấn Độ &lpar;H1&rpar;: Hoàng Đức bỏ lỡ](https://vnexpress.net/truc-tiep-tran-viet-nam-an-do-4803354.html) - 10:15 12/10/2024
 - 🦩 [Maguire hay hơn các trung vệ được Ten Hag tuyển mộ](https://vnexpress.net/maguire-hay-hon-cac-trung-ve-duoc-ten-hag-tuyen-mo-4803327.html) - 07:21 12/10/2024
 - 🧰 [Mbappe đi hộp đêm khi tuyển Pháp thi đấu](https://vnexpress.net/mbappe-di-hop-dem-khi-tuyen-phap-thi-dau-4803262.html) - 06:58 12/10/2024
 - 🤗 [Federer tái ngộ Djokovic ở Thượng Hải](https://vnexpress.net/federer-tai-ngo-djokovic-o-thuong-hai-4803294.html) - 06:11 12/10/2024
