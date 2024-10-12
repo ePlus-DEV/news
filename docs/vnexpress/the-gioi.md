@@ -7,7 +7,7 @@ sidebar_position: 2
 - 🎭 [Ông Trump dẫn trước bà Harris trong khảo sát về Ukraine, Gaza](https://vnexpress.net/ong-trump-dan-truoc-ba-harris-trong-khao-sat-ve-ukraine-gaza-4803365.html) - 13:04 12/10/2024
 - 🕴 [Thủ tướng Trung Quốc đến Hà Nội, bắt đầu thăm Việt Nam](https://vnexpress.net/thu-tuong-trung-quoc-den-ha-noi-bat-dau-tham-viet-nam-4803322.html) - 12:22 12/10/2024
 - 🤭 [Thông tin sai lệch về bão chia rẽ đảng Cộng hòa](https://vnexpress.net/thong-tin-sai-lech-ve-bao-chia-re-dang-cong-hoa-4802783.html) - 12:00 12/10/2024
-- 🧑‍💻 [Bà Harris sắp công bố báo cáo sức khỏe](https://vnexpress.net/ba-harris-sap-cong-bo-bao-cao-suc-khoe-4803348.html) - 10:55 12/10/2024
+- 🧑‍💻 [Bà Harris công bố báo cáo khẳng định &#39;đủ khỏe làm tổng thống&#39;](https://vnexpress.net/ba-harris-cong-bo-bao-cao-khang-dinh-du-khoe-lam-tong-thong-4803348.html) - 10:55 12/10/2024
 - 🦏 [Ông Trump &#39;muốn được dùng máy bay quân sự&#39;](https://vnexpress.net/ong-trump-muon-duoc-dung-may-bay-quan-su-4803283.html) - 08:58 12/10/2024
 - 🦒 [Hezbollah tuyên bố tập kích căn cứ, nhà máy thuốc nổ Israel](https://vnexpress.net/hezbollah-tuyen-bo-tap-kich-can-cu-nha-may-thuoc-no-israel-4803325.html) - 08:14 12/10/2024
 - 🌈 [Bà Harris nói sẽ lập hội đồng cố vấn lưỡng đảng nếu đắc cử](https://vnexpress.net/ba-harris-noi-se-lap-hoi-dong-co-van-luong-dang-neu-dac-cu-4803276.html) - 05:10 12/10/2024
