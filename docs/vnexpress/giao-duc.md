@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Việt Nam nhập khẩu điện từ nước nào?](https://vnexpress.net/viet-nam-nhap-khau-dien-tu-nuoc-nao-4803366.html) - 12:00 12/10/2024
+- 🤓 [Việt Nam nhập khẩu điện từ nước nào?](https://vnexpress.net/viet-nam-nhap-khau-dien-tu-nuoc-nao-4803366.html) - 13:17 12/10/2024
 - 🦆 [Bỏ đề xuất cấp giấy phép hành nghề cho giáo viên](https://vnexpress.net/bo-de-xuat-cap-giay-phep-hanh-nghe-cho-giao-vien-4803317.html) - 12:00 12/10/2024
 - 🦩 [10.000 sách giáo khoa cho học sinh vùng lũ](https://vnexpress.net/10-000-sach-giao-khoa-cho-hoc-sinh-vung-lu-4803353.html) - 12:00 12/10/2024
 - 🌮 [Đại học Thương mại mở 7 chương trình mới](https://vnexpress.net/dai-hoc-thuong-mai-mo-7-chuong-trinh-moi-4803343.html) - 10:21 12/10/2024
