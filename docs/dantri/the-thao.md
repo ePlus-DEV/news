@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Đội tuyển Việt Nam - Ấn Độ: Hoàng Đức đá chính](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-an-do-hoang-duc-da-chinh-20241012164807218.htm) - 09:47 12/10/2024
-- 💯 [Hình ảnh &quot;cười ra nước mắt&quot; trong trận đấu của Thái Lan](https://dantri.com.vn/the-thao/hinh-anh-cuoi-ra-nuoc-mat-trong-tran-dau-cua-thai-lan-20241012134227891.htm) - 06:42 12/10/2024
+- 💯 [Hình ảnh &quot;cười ra nước mắt&quot; trong trận đấu của Thái Lan](https://dantri.com.vn/the-thao/hinh-anh-cuoi-ra-nuoc-mat-trong-tran-dau-cua-thai-lan-20241012134227891.htm) - 08:42 12/10/2024
 - ⛽️ [Báo chí thế giới dự đoán kết quả trận tuyển Việt Nam đụng độ Ấn Độ](https://dantri.com.vn/the-thao/bao-chi-the-gioi-du-doan-ket-qua-tran-tuyen-viet-nam-dung-do-an-do-20241012115842816.htm) - 05:01 12/10/2024
 - 💃 [HLV tuyển Trung Quốc thừa nhận sức mạnh đáng gờm của Indonesia](https://dantri.com.vn/the-thao/hlv-tuyen-trung-quoc-thua-nhan-suc-manh-dang-gom-cua-indonesia-20241012074621042.htm) - 01:00 12/10/2024
 - 🌈 [Đức thắng nhọc nhằn, Hà Lan hòa thất vọng ở UEFA Nations League](https://dantri.com.vn/the-thao/duc-thang-nhoc-nhan-ha-lan-hoa-that-vong-o-uefa-nations-league-20241012062657909.htm) - 00:06 12/10/2024
