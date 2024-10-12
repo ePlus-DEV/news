@@ -5,14 +5,14 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Nguyễn Văn Quyết chia tay tuyển Việt Nam](https://vnexpress.net/nguyen-van-quyet-chia-tay-tuyen-viet-nam-4803389.html) - 13:42 12/10/2024
-- 🦩 [Tuyển Việt Nam nối dài mạch không thắng](https://vnexpress.net/truc-tiep-tran-viet-nam-an-do-4803354.html) - 10:15 12/10/2024
+- 🦩 [Tuyển Việt Nam nối dài mạch không thắng](https://vnexpress.net/truc-tiep-tran-viet-nam-an-do-4803354-tong-thuat.html) - 10:15 12/10/2024
 - 🧰 [Maguire hay hơn các trung vệ được Ten Hag tuyển mộ](https://vnexpress.net/maguire-hay-hon-cac-trung-ve-duoc-ten-hag-tuyen-mo-4803327.html) - 07:21 12/10/2024
 - 🤗 [Mbappe đi hộp đêm khi tuyển Pháp thi đấu](https://vnexpress.net/mbappe-di-hop-dem-khi-tuyen-phap-thi-dau-4803262.html) - 06:58 12/10/2024
 - 🥳 [Federer tái ngộ Djokovic ở Thượng Hải](https://vnexpress.net/federer-tai-ngo-djokovic-o-thuong-hai-4803294.html) - 06:11 12/10/2024
 - 🦣 [Việt Nam - Ấn Độ: Tìm lại năng lượng tích cực](https://vnexpress.net/viet-nam-an-do-tim-lai-nang-luong-tich-cuc-4803293.html) - 05:00 12/10/2024
 - 🌜 [Robot cắt cỏ trên sân đấu PGA Tour](https://vnexpress.net/robot-cat-co-tren-san-dau-pga-tour-4803272.html) - 03:46 12/10/2024
 - 🫶 [Nhà vô địch Euro 2020 chuẩn bị chạy marathon](https://vnexpress.net/nha-vo-dich-euro-2020-chuan-bi-chay-marathon-4803242.html) - 03:21 12/10/2024
-- 🌜 [Vé xem Nadal tăng đột biến](https://vnexpress.net/ve-xem-nadal-tang-dot-bien-4803213.html) - 03:17 12/10/2024
+- 🌜 [Giá vé xem Nadal tăng đột biến](https://vnexpress.net/gia-ve-xem-nadal-tang-dot-bien-4803213.html) - 03:17 12/10/2024
 - 😺 [Nguyễn Thị Huyền: &#39;Tôi bắt đầu từ số 0 khi làm huấn luyện&#39;](https://vnexpress.net/nguyen-thi-huyen-toi-bat-dau-tu-so-0-khi-lam-huan-luyen-4801495.html) - 03:00 12/10/2024
 - 👍 [Djokovic thắng ngược tứ kết Thượng Hải Masters](https://vnexpress.net/djokovic-thang-nguoc-tu-ket-thuong-hai-masters-4803204.html) - 01:36 12/10/2024
 - 🐵 [Nữ trọng tài khởi kiện vụ lộ video nhạy cảm](https://vnexpress.net/nu-trong-tai-khoi-kien-vu-lo-video-nhay-cam-4803187.html) - 01:05 12/10/2024
