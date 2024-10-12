@@ -27,7 +27,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Tình ngay lý gian vì quy định nồng độ cồn trong máu bằng 0](https://vnexpress.net/tinh-ngay-ly-gian-vi-quy-dinh-nong-do-con-trong-mau-bang-0-4803301.html) - 17:35 12/10/2024
-- 🧰 [Bước ngoặt giúp chủ thầu thành tỷ phú nuôi tôm](https://vnexpress.net/buoc-ngoat-giup-chu-thau-thanh-ty-phu-nuoi-tom-4803094.html) - 17:15 12/10/2024
+- 🧰 [Bước ngoặt đưa chủ thầu thành tỷ phú nuôi tôm](https://vnexpress.net/buoc-ngoat-dua-chu-thau-thanh-ty-phu-nuoi-tom-4803094.html) - 17:15 12/10/2024
 - 🥰 [Lý do &#39;Shogun&#39; gây sốt](https://vnexpress.net/ly-do-shogun-gay-sot-4803413.html) - 17:08 12/10/2024
 - 🌏 [Nhịp tim chậm](https://vnexpress.net/nhip-tim-cham-4801261.html) - 17:03 12/10/2024
 - 🧐 [Con sư tử tiết lộ bạn có tài năng đặc biệt hay khiếu hài hước?](https://vnexpress.net/con-su-tu-tiet-lo-ban-co-tai-nang-dac-biet-hay-khieu-hai-huoc-4803101.html) - 17:02 12/10/2024
