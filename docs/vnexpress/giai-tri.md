@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Lý do &#39;Shogun&#39; gây sốt](https://vnexpress.net/ly-do-shogun-gay-sot-4803413.html) - 17:08 12/10/2024
+- 🌏 [Lý do &#39;Shogun&#39; gây sốt với khán giả](https://vnexpress.net/ly-do-shogun-gay-sot-voi-khan-gia-4803413.html) - 17:08 12/10/2024
 - 💫 [Dàn sao &#39;Nhật ký công chúa&#39; sau 23 năm](https://vnexpress.net/dan-sao-nhat-ky-cong-chua-sau-23-nam-4801518.html) - 16:01 12/10/2024
 - 🌮 [Ocean Vuong ra tiểu thuyết mới](https://vnexpress.net/ocean-vuong-ra-tieu-thuyet-moi-4803243.html) - 13:45 12/10/2024
 - 🧠 [Bảo Thy vui thú trồng trọt](https://vnexpress.net/bao-thy-vui-thu-trong-trot-4801930.html) - 13:00 12/10/2024
