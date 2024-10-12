@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Bà Harris nói sẽ lập hội đồng cố vấn lưỡng đảng nếu đắc cử](https://vnexpress.net/ba-harris-noi-se-lap-hoi-dong-co-van-luong-dang-neu-dac-cu-4803276.html) - 05:10 12/10/2024
 - 🕴 [Israel nêu lý do bắn trúng vị trí lính gìn giữ hòa bình LHQ](https://vnexpress.net/israel-neu-ly-do-ban-trung-vi-tri-linh-gin-giu-hoa-binh-lhq-4803217.html) - 04:31 12/10/2024
-- 🤭 [Những kế hoạch tấn công bị nghi liên quan tới Iran ở phương Tây](https://vnexpress.net/nhung-ke-hoach-tan-cong-bi-nghi-lien-quan-toi-iran-o-phuong-tay-4801394.html) - 04:14 12/10/2024
+- 🤭 [Iran bị cáo buộc đứng sau loạt âm mưu tấn công ở phương Tây](https://vnexpress.net/iran-bi-cao-buoc-dung-sau-loat-am-muu-tan-cong-o-phuong-tay-4801394.html) - 04:14 12/10/2024
 - 🧑‍💻 [Ba dấu ấn của Hội nghị Cấp cao ASEAN 44, 45](https://vnexpress.net/ba-dau-an-cua-hoi-nghi-cap-cao-asean-44-45-4803222.html) - 03:12 12/10/2024
 - 🦏 [Phe Dân chủ lo bà Harris không được cử tri nam ủng hộ](https://vnexpress.net/phe-dan-chu-lo-ba-harris-khong-duoc-cu-tri-nam-ung-ho-4803185.html) - 02:59 12/10/2024
 - 🦒 [Israel bị cáo buộc dùng bom lượn Mỹ tập kích tòa nhà ở Beirut](https://vnexpress.net/israel-bi-cao-buoc-dung-bom-luon-my-tap-kich-toa-nha-o-beirut-4803188.html) - 02:38 12/10/2024
