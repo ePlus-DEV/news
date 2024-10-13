@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Trắng tay sau lũ, người dân làng đào ở Hà Nội trồng cúc, xu hào, bắp cải](https://dantri.com.vn/doi-song/trang-tay-sau-lu-nguoi-dan-lang-dao-o-ha-noi-trong-cuc-xu-hao-bap-cai-20241013125650914.htm) - 05:57 13/10/2024
+- 🥳 [Trắng tay sau lũ, người dân làng đào ở Hà Nội trồng cúc, su hào, bắp cải](https://dantri.com.vn/doi-song/trang-tay-sau-lu-nguoi-dan-lang-dao-o-ha-noi-trong-cuc-su-hao-bap-cai-20241013125650914.htm) - 05:57 13/10/2024
 - 🌁 [Nhà lệch tầng có mái đóng mở tự làm mát, giúp giảm tiền điện ở Hà Nội](https://dantri.com.vn/doi-song/nha-lech-tang-co-mai-dong-mo-tu-lam-mat-giup-giam-tien-dien-o-ha-noi-20241011140404425.htm) - 03:43 13/10/2024
 - 👀 [Hy hữu: Sa mạc khô cằn nhất thế giới ngập trong biển nước chỉ sau một ngày](https://dantri.com.vn/doi-song/hy-huu-sa-mac-kho-can-nhat-the-gioi-ngap-trong-bien-nuoc-chi-sau-mot-ngay-20241012102111706.htm) - 23:57 12/10/2024
 - 🐻 [Câu chuyện về người đàn ông đi nhặt ve chai ở Thanh Hóa](https://dantri.com.vn/doi-song/cau-chuyen-ve-nguoi-dan-ong-di-nhat-ve-chai-o-thanh-hoa-20241012160804788.htm) - 23:51 12/10/2024
