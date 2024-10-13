@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Người nuôi gặp khó do Trung Quốc chuộng tôm hùm cỡ nhỏ](https://vnexpress.net/nguoi-nuoi-gap-kho-do-trung-quoc-chuong-tom-hum-co-nho-4803131.html) - 01:00 13/10/2024
+- 🦒 [Cháy hai căn nhà ở An Giang, một người chết](https://vnexpress.net/chay-hai-can-nha-o-an-giang-mot-nguoi-chet-4803519.html) - 01:50 13/10/2024
 - 🤓 [Hiện trạng xuống cấp ở sân Thống Nhất](https://vnexpress.net/hien-trang-xuong-cap-o-san-thong-nhat-4803303.html) - 22:00 12/10/2024
 - ⚗️ [Vì sao năm 2024 xuất hiện nhiều siêu bão?](https://vnexpress.net/vi-sao-nam-2024-xuat-hien-nhieu-sieu-bao-4803420.html) - 21:00 12/10/2024
 - 🌊 [Bước ngoặt đưa chủ thầu thành tỷ phú nuôi tôm](https://vnexpress.net/buoc-ngoat-dua-chu-thau-thanh-ty-phu-nuoi-tom-4803094.html) - 17:15 12/10/2024
