@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [10 đại học Mỹ dẫn đầu về mức lương của cựu sinh viên](https://vnexpress.net/10-dai-hoc-my-dan-dau-ve-muc-luong-cua-cuu-sinh-vien-4802787.html) - 01:38 13/10/2024
-- 🦆 [Phú Đức dẫn cách biệt trước phần thi cuối Olympia](https://vnexpress.net/phu-duc-dan-cach-biet-truoc-phan-thi-cuoi-olympia-4803512.html) - 01:01 13/10/2024
+- 🦆 [Phú Đức vô địch Olympia 2024](https://vnexpress.net/phu-duc-vo-dich-olympia-2024-4803512.html) - 01:01 13/10/2024
 - 🦩 [Học trò òa khóc khi thầy giáo về xuôi](https://vnexpress.net/hoc-tro-oa-khoc-khi-thay-giao-ve-xuoi-4803388.html) - 14:53 12/10/2024
 - 🌮 [Việt Nam nhập khẩu điện từ nước nào?](https://vnexpress.net/viet-nam-nhap-khau-dien-tu-nuoc-nao-4803366.html) - 13:17 12/10/2024
 - 🔭 [Bỏ đề xuất cấp giấy phép hành nghề cho giáo viên](https://vnexpress.net/bo-de-xuat-cap-giay-phep-hanh-nghe-cho-giao-vien-4803317.html) - 12:00 12/10/2024
