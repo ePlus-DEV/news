@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Cụ ông 88 tuổi vẫn dậy làm việc từ 2h sáng](https://dantri.com.vn/lao-dong-viec-lam/cu-ong-88-tuoi-van-day-lam-viec-tu-2h-sang-20241013154020709.htm) - 09:35 13/10/2024
+- ⚗️ [Cụ ông 88 tuổi vẫn dậy làm việc từ 2h sáng dù có hơn 300 tỷ đồng](https://dantri.com.vn/lao-dong-viec-lam/cu-ong-88-tuoi-van-day-lam-viec-tu-2h-sang-du-co-hon-300-ty-dong-20241013154020709.htm) - 09:35 13/10/2024
 - 🙉 [Kỹ sư xây dựng bỏ việc lương cao về quê &quot;tất tay&quot; nuôi con ngủ nhiều, ăn ít](https://dantri.com.vn/lao-dong-viec-lam/ky-su-xay-dung-bo-viec-luong-cao-ve-que-tat-tay-nuoi-con-ngu-nhieu-an-it-20241011225052928.htm) - 23:44 12/10/2024
 - 🕴 [Nữ công nhân quặn lòng để con 3 tuổi ở quê vì đồng lương eo hẹp](https://dantri.com.vn/lao-dong-viec-lam/nu-cong-nhan-quan-long-de-con-3-tuoi-o-que-vi-dong-luong-eo-hep-20241012221110111.htm) - 23:17 12/10/2024
 - 🧐 [Nữ ô sin sinh con, cả nhà chủ thành giúp việc chăm bà đẻ](https://dantri.com.vn/lao-dong-viec-lam/nu-o-sin-sinh-con-ca-nha-chu-thanh-giup-viec-cham-ba-de-20241012155652292.htm) - 09:53 12/10/2024
