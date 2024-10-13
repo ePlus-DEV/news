@@ -48,10 +48,8 @@ sidebar_position: 9
 - 💃 [Tôi sẽ tiếp tục yêu anh rể cũ](https://vnexpress.net/toi-se-tiep-tuc-yeu-anh-re-cu-4803525.html) - 05:00 13/10/2024
 - 🦆 [Trụy tim mạch sau 5 ngày ăn tiết lợn](https://vnexpress.net/truy-tim-mach-sau-5-ngay-an-tiet-lon-4803410.html) - 05:00 13/10/2024
 - 🎊 [Cô gái hướng nội, vui vẻ, biết lắng nghe](https://vnexpress.net/co-gai-huong-noi-vui-ve-biet-lang-nghe-4803396.html) - 05:00 13/10/2024
-- 👺 [Ngôi sao bốn cánh đặc biệt nằm ở đâu?](https://vnexpress.net/ngoi-sao-bon-canh-dac-biet-nam-o-dau-4799930.html) - 05:00 13/10/2024
-- 🎡 [&#39;Người giàu vẫn giàu dù bị đánh thuế bất động sản thứ hai&#39;](https://vnexpress.net/nguoi-giau-van-giau-du-bi-danh-thue-bat-dong-san-thu-hai-4803554.html) - 05:00 13/10/2024
+- 👺 [&#39;Người giàu vẫn giàu dù bị đánh thuế bất động sản thứ hai&#39;](https://vnexpress.net/nguoi-giau-van-giau-du-bi-danh-thue-bat-dong-san-thu-hai-4803554.html) - 05:00 13/10/2024
+- 🎡 [Ngôi sao bốn cánh đặc biệt nằm ở đâu?](https://vnexpress.net/ngoi-sao-bon-canh-dac-biet-nam-o-dau-4799930.html) - 05:00 13/10/2024
 - 👍 [Minh tinh Thái xin lỗi vì quảng cáo cho công ty bị cáo buộc &#39;lừa đảo&#39;](https://vnexpress.net/minh-tinh-thai-xin-loi-vi-quang-cao-cho-cong-ty-bi-cao-buoc-lua-dao-4803549.html) - 04:38 13/10/2024
 - 🐎 [Loạt vụ nổ súng đốt nóng căng thẳng Israel - Liên Hợp Quốc](https://vnexpress.net/loat-vu-no-sung-dot-nong-cang-thang-israel-lien-hop-quoc-4803202.html) - 04:22 13/10/2024
-- 🏊 [Năm kiểu đau lưng dưới do chạy bộ](https://vnexpress.net/nam-kieu-dau-lung-duoi-do-chay-bo-4801762.html) - 04:18 13/10/2024
-- 🦩 [Sinner – Djokovic: &#39;Nhà vua&#39; báo thù?](https://vnexpress.net/sinner-djokovic-nha-vua-bao-thu-4803567.html) - 04:00 13/10/2024
-- 👍 [Nâng cấp máy gia tốc hạt mạnh nhất thế giới](https://vnexpress.net/nang-cap-may-gia-toc-hat-manh-nhat-the-gioi-4803233.html) - 04:00 13/10/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🏊 [Năm kiểu đau lưng dưới do chạy bộ](https://vnexpress.net/nam-kieu-dau-lung-duoi-do-chay-bo-4801762.html) - 04:18 13/10/2024<!-- vnexpress-tin-moi-nhat:END -->
