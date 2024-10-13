@@ -5,12 +5,12 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Đánh bại Djokovic, Sinner lần đầu vô địch Thượng Hải Masters](https://dantri.com.vn/the-thao/danh-bai-djokovic-sinner-lan-dau-vo-dich-thuong-hai-masters-20241013180001216.htm) - 11:00 13/10/2024
-- 💯 [HLV Philippe Troussier dành lời khen ngợi đặc biệt cho Văn Quyết](https://dantri.com.vn/the-thao/hlv-philippe-troussier-danh-loi-khen-ngoi-dac-biet-cho-van-quyet-20241013172609270.htm) - 10:26 13/10/2024
+- 💯 [HLV Philippe Troussier dành lời khen ngợi đặc biệt cho Văn Quyết](https://dantri.com.vn/the-thao/hlv-philippe-troussier-danh-loi-khen-ngoi-dac-biet-cho-van-quyet-20241013172609270.htm) - 09:06 13/10/2024
 - ⛽️ [Báo Đông Nam Á nhận xét phũ phàng về đội tuyển Việt Nam](https://dantri.com.vn/the-thao/bao-dong-nam-a-nhan-xet-phu-phang-ve-doi-tuyen-viet-nam-20241013144713574.htm) - 07:47 13/10/2024
 - 💃 [Đội tuyển Việt Nam đón tin buồn khi bị Thái Lan ngày càng bỏ xa](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-don-tin-buon-khi-bi-thai-lan-ngay-cang-bo-xa-20241013130047378.htm) - 06:00 13/10/2024
-- 🌈 [Sinner, Djokovic  vào chung kết Thượng Hải Masters](https://dantri.com.vn/the-thao/sinner-djokovic-vao-chung-ket-thuong-hai-masters-20241013081216419.htm) - 00:55 13/10/2024
-- 🦅 [Ronaldo ghi bàn giúp Bồ Đào Nha thắng Ba Lan, Tây Ban Nha đánh bại Đan Mạch](https://dantri.com.vn/the-thao/ronaldo-ghi-ban-giup-bo-dao-nha-thang-ba-lan-tay-ban-nha-danh-bai-dan-mach-20241013072917414.htm) - 00:37 13/10/2024
-- 🌝 [Báo Ấn Độ bình luận khi đội nhà cầm chân tuyển Việt Nam](https://dantri.com.vn/the-thao/bao-an-do-binh-luan-khi-doi-nha-cam-chan-tuyen-viet-nam-20241013002154138.htm) - 00:35 13/10/2024
+- 🌈 [Ronaldo ghi bàn giúp Bồ Đào Nha thắng Ba Lan, Tây Ban Nha đánh bại Đan Mạch](https://dantri.com.vn/the-thao/ronaldo-ghi-ban-giup-bo-dao-nha-thang-ba-lan-tay-ban-nha-danh-bai-dan-mach-20241013072917414.htm) - 00:37 13/10/2024
+- 🦅 [Báo Ấn Độ bình luận khi đội nhà cầm chân tuyển Việt Nam](https://dantri.com.vn/the-thao/bao-an-do-binh-luan-khi-doi-nha-cam-chan-tuyen-viet-nam-20241013002154138.htm) - 00:35 13/10/2024
+- 🌝 [Sinner, Djokovic  vào chung kết Thượng Hải Masters](https://dantri.com.vn/the-thao/sinner-djokovic-vao-chung-ket-thuong-hai-masters-20241013081216419.htm) - 00:33 13/10/2024
 - 🚀 [Huỳnh Như tạm chia tay 3 ngoại binh và HLV trưởng của đội nữ TPHCM](https://dantri.com.vn/the-thao/huynh-nhu-tam-chia-tay-3-ngoai-binh-va-hlv-truong-cua-doi-nu-tphcm-20241013000428393.htm) - 23:51 12/10/2024
 - 🎉 [Phản ứng của cổ động viên châu Á sau trận hòa của tuyển Việt Nam với Ấn Độ](https://dantri.com.vn/the-thao/phan-ung-cua-co-dong-vien-chau-a-sau-tran-hoa-cua-tuyen-viet-nam-voi-an-do-20241012221647210.htm) - 23:41 12/10/2024
 - 📝 [Khoảnh khắc đáng nhớ ở trận đấu cuối cùng của Văn Quyết cùng tuyển Việt Nam](https://dantri.com.vn/the-thao/khoanh-khac-dang-nho-o-tran-dau-cuoi-cung-cua-van-quyet-cung-tuyen-viet-nam-20241013030148037.htm) - 23:35 12/10/2024
