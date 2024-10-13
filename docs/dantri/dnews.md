@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Trắng tay sau lũ, người dân làng đào ở Hà Nội trồng cúc, xu hào, bắp cải](https://dantri.com.vn/doi-song/trang-tay-sau-lu-nguoi-dan-lang-dao-o-ha-noi-trong-cuc-xu-hao-bap-cai-20241013125650914.htm) - 05:57 13/10/2024
+- 🤠 [Trắng tay sau lũ, người dân làng đào ở Hà Nội trồng cúc, su hào, bắp cải](https://dantri.com.vn/doi-song/trang-tay-sau-lu-nguoi-dan-lang-dao-o-ha-noi-trong-cuc-su-hao-bap-cai-20241013125650914.htm) - 05:57 13/10/2024
 - 🌈 [Doanh nghiệp, doanh nhân và tinh thần phụng sự cộng đồng](https://dantri.com.vn/kinh-doanh/doanh-nghiep-doanh-nhan-va-tinh-than-phung-su-cong-dong-20241012051451696.htm) - 04:04 13/10/2024
 - 🐎 [Thông điệp và vai trò tiên phong của Việt Nam trong ASEAN tự cường, kết nối](https://dantri.com.vn/xa-hoi/thong-diep-va-vai-tro-tien-phong-cua-viet-nam-trong-asean-tu-cuong-ket-noi-20241012180159351.htm) - 23:35 12/10/2024
 - 👹 [Cô gái bỏ việc rong ruổi từ Bắc vào Nam, mỗi nơi sống thử vài tháng](https://dantri.com.vn/du-lich/co-gai-bo-viec-rong-ruoi-tu-bac-vao-nam-moi-noi-song-thu-vai-thang-20241011221419765.htm) - 23:02 12/10/2024
