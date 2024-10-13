@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- dantri-giao-duc:START -->
 - 🤡 [Nón lá rợp trời quảng trường Ngọ Môn trong trận chung kết Olympia](https://dantri.com.vn/giao-duc/non-la-rop-troi-quang-truong-ngo-mon-trong-tran-chung-ket-olympia-20241013124856616.htm) - 06:20 13/10/2024
 - 🗽 [Tranh cãi việc bệnh viện nhận điều trị cho học sinh học kém... toán](https://dantri.com.vn/giao-duc/tranh-cai-viec-benh-vien-nhan-dieu-tri-cho-hoc-sinh-hoc-kem-toan-20241008115818233.htm) - 05:00 13/10/2024
-- 🚦 [Quán quân Oympia 2024: &quot;Gan lì đã giúp em chiến thắng&quot;](https://dantri.com.vn/giao-duc/quan-quan-oympia-2024-gan-li-da-giup-em-chien-thang-20241012215229253.htm) - 04:57 13/10/2024
+- 🚦 [Quán quân Olympia 2024: &quot;Gan lì đã giúp em chiến thắng&quot;](https://dantri.com.vn/giao-duc/quan-quan-olympia-2024-gan-li-da-giup-em-chien-thang-20241012215229253.htm) - 04:57 13/10/2024
 - 🌋 [Nam sinh Quốc học Huế vô địch Đường lên đỉnh Olympia năm thứ 24](https://dantri.com.vn/giao-duc/nam-sinh-quoc-hoc-hue-vo-dich-duong-len-dinh-olympia-nam-thu-24-20241012214943520.htm) - 03:48 13/10/2024
 - 🏊 [Phụ huynh than bảo vệ khó chịu, lãnh đạo trường đưa quyết định gây choáng](https://dantri.com.vn/giao-duc/phu-huynh-than-bao-ve-kho-chiu-lanh-dao-truong-dua-quyet-dinh-gay-choang-20241013084418531.htm) - 02:25 13/10/2024
 - 🎃 [Xông vào lớp mắng nhiếc, đe dọa bạn học của con, một phụ huynh phải hầu tòa](https://dantri.com.vn/giao-duc/xong-vao-lop-mang-nhiec-de-doa-ban-hoc-cua-con-mot-phu-huynh-phai-hau-toa-20241011121907474.htm) - 02:00 13/10/2024
