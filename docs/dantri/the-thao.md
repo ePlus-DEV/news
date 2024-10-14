@@ -4,9 +4,9 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Thủ môn Trung Quốc bị sang chấn tâm lý khi đội nhà thủng lưới quá nhiều](https://dantri.com.vn/the-thao/thu-mon-trung-quoc-bi-sang-chan-tam-ly-khi-doi-nha-thung-luoi-qua-nhieu-20241014170124193.htm) - 10:28 14/10/2024
-- 💯 [Hoàng Đức chia sẻ về quyết định xuống chơi ở giải hạng Nhất](https://dantri.com.vn/the-thao/hoang-duc-chia-se-ve-quyet-dinh-xuong-choi-o-giai-hang-nhat-20241014172126527.htm) - 10:23 14/10/2024
-- ⛽️ [AFC ra phán quyết bất ngờ vụ Indonesia kiện trọng tài &quot;cướp&quot; chiến thắng](https://dantri.com.vn/the-thao/afc-ra-phan-quyet-bat-ngo-vu-indonesia-kien-trong-tai-cuop-chien-thang-20241014162601428.htm) - 09:36 14/10/2024
+- 🎡 [AFC ra phán quyết bất ngờ vụ Indonesia kiện trọng tài &quot;cướp&quot; chiến thắng](https://dantri.com.vn/the-thao/afc-ra-phan-quyet-bat-ngo-vu-indonesia-kien-trong-tai-cuop-chien-thang-20241014162601428.htm) - 10:36 14/10/2024
+- 💯 [Thủ môn Trung Quốc bị sang chấn tâm lý khi đội nhà thủng lưới quá nhiều](https://dantri.com.vn/the-thao/thu-mon-trung-quoc-bi-sang-chan-tam-ly-khi-doi-nha-thung-luoi-qua-nhieu-20241014170124193.htm) - 10:28 14/10/2024
+- ⛽️ [Hoàng Đức chia sẻ về quyết định xuống chơi ở giải hạng Nhất](https://dantri.com.vn/the-thao/hoang-duc-chia-se-ve-quyet-dinh-xuong-choi-o-giai-hang-nhat-20241014172126527.htm) - 10:23 14/10/2024
 - 💃 [Thần đồng gốc Việt vô địch giải pickleball chuyên nghiệp PPA Tour](https://dantri.com.vn/the-thao/than-dong-goc-viet-vo-dich-giai-pickleball-chuyen-nghiep-ppa-tour-20241014155201494.htm) - 08:55 14/10/2024
 - 🌈 [Matt McCarty vô địch giải golf Black Desert Championship 2024](https://dantri.com.vn/the-thao/matt-mccarty-vo-dich-giai-golf-black-desert-championship-2024-20241014155111147.htm) - 08:29 14/10/2024
 - 🦅 [Lamine Yamal bị loại khỏi tuyển Tây Ban Nha, Barcelona lo sốt vó](https://dantri.com.vn/the-thao/lamine-yamal-bi-loai-khoi-tuyen-tay-ban-nha-barcelona-lo-sot-vo-20241014125443808.htm) - 05:54 14/10/2024
