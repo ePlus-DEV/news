@@ -7,7 +7,7 @@ sidebar_position: 2
 - 🎭 [7 bang chiến trường định đoạt bầu cử tổng thống Mỹ 2024](https://vnexpress.net/7-bang-chien-truong-dinh-doat-bau-cu-tong-thong-my-2024-4802138.html) - 04:52 14/10/2024
 - 🕴 [Trump muốn quân đội Mỹ ngăn &#39;những kẻ cực đoan&#39; trong ngày bầu cử](https://vnexpress.net/trump-muon-quan-doi-my-ngan-nhung-ke-cuc-doan-trong-ngay-bau-cu-4803740.html) - 03:15 14/10/2024
 - 🤭 [Lý do Israel có thể bỏ lọt UAV Hezbollah](https://vnexpress.net/ly-do-israel-co-the-bo-lot-uav-hezbollah-4803752.html) - 02:44 14/10/2024
-- 🧑‍💻 [Cảnh sát Nhật Bản nhảy múa tuyên truyền phòng chống lừa đảo](https://vnexpress.net/canh-sat-nhat-ban-nhay-mua-tuyen-truyen-phong-chong-lua-dao-4803724.html) - 02:36 14/10/2024
+- 🧑‍💻 [Cảnh sát Nhật Bản nhảy múa tuyên truyền phòng chống lừa tình](https://vnexpress.net/canh-sat-nhat-ban-nhay-mua-tuyen-truyen-phong-chong-lua-tinh-4803724.html) - 02:36 14/10/2024
 - 🦏 [Đảng Dân chủ bị giảm tỷ lệ ủng hộ ở nhóm cử tri gốc Latin](https://vnexpress.net/dang-dan-chu-bi-giam-ty-le-ung-ho-o-nhom-cu-tri-goc-latin-4803723.html) - 02:04 14/10/2024
 - 🦒 [Người mang súng bị bắt gần cuộc mít tinh của ông Trump](https://vnexpress.net/nguoi-mang-sung-bi-bat-gan-cuoc-mit-tinh-cua-ong-trump-4803715.html) - 01:00 14/10/2024
 - 🌈 [UAV Hezbollah tập kích căn cứ Israel, ít nhất 4 lính thiệt mạng](https://vnexpress.net/uav-hezbollah-tap-kich-can-cu-israel-it-nhat-4-linh-thiet-mang-4803714.html) - 00:41 14/10/2024
