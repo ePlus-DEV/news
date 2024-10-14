@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Pháp thắng Bỉ trong thế thiếu người](https://vnexpress.net/phap-thang-bi-trong-the-thieu-nguoi-4804122.html) - 20:55 14/10/2024
+- 🪜 [Pháp thắng Bỉ trận thứ năm liên tiếp](https://vnexpress.net/phap-thang-bi-tran-thu-nam-lien-tiep-4804122.html) - 20:55 14/10/2024
 - 🦩 [Trung Quốc bất an trước khi đấu Indonesia](https://vnexpress.net/trung-quoc-bat-an-truoc-khi-dau-indonesia-4804079.html) - 17:00 14/10/2024
 - 🧰 [Chanathip giúp Thái Lan vô địch King’s Cup 2024](https://vnexpress.net/chanathip-giup-thai-lan-vo-dich-king-s-cup-2024-4804090.html) - 15:38 14/10/2024
 - 🤗 [Guardiola: &#39;Messi hay nhất lịch sử&#39;](https://vnexpress.net/guardiola-messi-hay-nhat-lich-su-4803973.html) - 11:29 14/10/2024
