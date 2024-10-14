@@ -5,7 +5,7 @@ sidebar_position: 28
 
 <!-- dantri-photo-story:START -->
 - 💪 [Những góc ảnh cận cảnh độc đáo chỉ có ở VPIM 2024](https://dantri.com.vn/the-thao/nhung-goc-anh-can-canh-doc-dao-chi-co-o-vpim-2024-20241014094629191.htm) - 02:53 14/10/2024
-- 🧰 [Mùa vàng trên những thửa ruộng bậc thang ở Mù Cang Chải](https://dantri.com.vn/xa-hoi/mua-vang-tren-nhung-thua-ruong-bac-thang-o-mu-cang-chai-20241013230352319.htm) - 17:00 13/10/2024
+- 🧰 [Mùa vàng trên những thửa ruộng bậc thang ở Mù Cang Chải](https://dantri.com.vn/du-lich/mua-vang-tren-nhung-thua-ruong-bac-thang-o-mu-cang-chai-20241013230352319.htm) - 17:00 13/10/2024
 - 🧰 [Nón lá rợp trời quảng trường Ngọ Môn trong trận chung kết Olympia](https://dantri.com.vn/giao-duc/non-la-rop-troi-quang-truong-ngo-mon-trong-tran-chung-ket-olympia-20241013124856616.htm) - 06:20 13/10/2024
 - 😎 [Toàn cảnh lễ đón Thủ tướng Trung Quốc Lý Cường thăm chính thức Việt Nam](https://dantri.com.vn/xa-hoi/toan-canh-le-don-thu-tuong-trung-quoc-ly-cuong-tham-chinh-thuc-viet-nam-20241013120535528.htm) - 05:13 13/10/2024
 - 🎓 [Nhà lệch tầng có mái đóng mở tự làm mát, giúp giảm tiền điện ở Hà Nội](https://dantri.com.vn/doi-song/nha-lech-tang-co-mai-dong-mo-tu-lam-mat-giup-giam-tien-dien-o-ha-noi-20241011140404425.htm) - 03:43 13/10/2024
