@@ -27,7 +27,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Chính phủ trình Quốc hội thí điểm tháo gỡ dự án nhà ở thương mại](https://vnexpress.net/chinh-phu-trinh-quoc-hoi-thi-diem-thao-go-du-an-nha-o-thuong-mai-4804034.html) - 10:36 14/10/2024
-- 🧰 [Drone phun thuốc vướng đường dây 110kV, hơn 76.000 hộ mất điện](https://vnexpress.net/drone-phun-thuoc-vuong-duong-day-110kv-hon-76-000-ho-mat-dien-4804051.html) - 10:33 14/10/2024
+- 🧰 [Drone phun thuốc vướng đường dây 110kW, hơn 76.000 hộ mất điện](https://vnexpress.net/drone-phun-thuoc-vuong-duong-day-110kw-hon-76-000-ho-mat-dien-4804051.html) - 10:33 14/10/2024
 - 🥰 [&#39;Tài xế mở cửa ôtô bất cẩn nhưng mắng chửi tôi té tát&#39;](https://vnexpress.net/tai-xe-mo-cua-oto-bat-can-nhung-mang-chui-toi-te-tat-4803863.html) - 10:29 14/10/2024
 - 🌏 [Bộ Công an đề xuất giám sát việc chuyển dữ liệu ra nước ngoài](https://vnexpress.net/bo-cong-an-de-xuat-giam-sat-viec-chuyen-du-lieu-ra-nuoc-ngoai-4803988.html) - 10:20 14/10/2024
 - 🧐 [Hàn Quốc nói Triều Tiên sắp cho nổ các tuyến đường xuyên biên giới](https://vnexpress.net/han-quoc-noi-trieu-tien-sap-cho-no-cac-tuyen-duong-xuyen-bien-gioi-4803944.html) - 10:07 14/10/2024
