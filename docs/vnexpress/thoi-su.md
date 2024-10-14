@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Nhiều nông dân muốn mở rộng sản xuất nhưng thiếu đất](https://vnexpress.net/nhieu-nong-dan-muon-mo-rong-san-xuat-nhung-thieu-dat-4803894.html) - 07:52 14/10/2024
-- 🤓 [Hải Phòng chi hơn 234 tỷ đồng tu bổ di tích tàu không số](https://vnexpress.net/hai-phong-chi-hon-234-ty-dong-tu-bo-di-tich-tau-khong-so-4803818.html) - 05:07 14/10/2024
+- 🤓 [Hải Phòng chi hơn 230 tỷ đồng tu bổ di tích tàu không số](https://vnexpress.net/hai-phong-chi-hon-230-ty-dong-tu-bo-di-tich-tau-khong-so-4803818.html) - 05:07 14/10/2024
 - ⚗️ [TP HCM muốn giữ phần thu ngân sách vượt kế hoạch để làm metro](https://vnexpress.net/tp-hcm-muon-giu-phan-thu-ngan-sach-vuot-ke-hoach-de-lam-metro-4803828.html) - 04:08 14/10/2024
 - 🌊 [Cắt tháp điều khiển giải cứu tàu kẹt dưới cầu Đồng Nai](https://vnexpress.net/cat-thap-dieu-khien-giai-cuu-tau-ket-duoi-cau-dong-nai-4803793.html) - 03:06 14/10/2024
 - 🎓 [Cầu phao Ninh Cường thông xe trở lại](https://vnexpress.net/cau-phao-ninh-cuong-thong-xe-tro-lai-4803756.html) - 02:59 14/10/2024
