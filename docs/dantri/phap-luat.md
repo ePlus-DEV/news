@@ -4,7 +4,7 @@ sidebar_position: 8
 ---
 
 <!-- dantri-phap-luat:START -->
-- 🌊 [Bắt 2 kẻ cầm đầu băng giang hồ đánh nhau ở Trung tâm hội nghị White Palace](https://dantri.com.vn/phap-luat/bat-2-ke-cam-dau-bang-giang-ho-danh-nhau-o-trung-tam-hoi-nghi-white-palace-20241014094433236.htm) - 02:55 14/10/2024
+- 🌊 [Bắt 2 kẻ cầm đầu băng giang hồ đánh nhau ở Trung tâm White Palace TPHCM](https://dantri.com.vn/phap-luat/bat-2-ke-cam-dau-bang-giang-ho-danh-nhau-o-trung-tam-white-palace-tphcm-20241014094433236.htm) - 02:55 14/10/2024
 - 🐲 [Công an Vĩnh Phúc thông tin về vụ thanh niên 27 tuổi giết vợ bằng dao](https://dantri.com.vn/phap-luat/cong-an-vinh-phuc-thong-tin-ve-vu-thanh-nien-27-tuoi-giet-vo-bang-dao-20241014085546704.htm) - 02:04 14/10/2024
 - 🌁 [35 người đàn ông tụ tập tại một khu mộ](https://dantri.com.vn/phap-luat/35-nguoi-dan-ong-tu-tap-tai-mot-khu-mo-20241014081842033.htm) - 01:27 14/10/2024
 - 🎃 [Người đàn ông bị đánh nghi do làm thơ đăng Facebook: Triệu tập 7 đối tượng](https://dantri.com.vn/phap-luat/nguoi-dan-ong-bi-danh-nghi-do-lam-tho-dang-facebook-trieu-tap-7-doi-tuong-20241014054509889.htm) - 23:43 13/10/2024
