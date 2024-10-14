@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Tiết lộ hậu trường cầu thủ câu được con cá vàng nặng 27kg lớn nhất thế giới](https://dantri.com.vn/doi-song/tiet-lo-hau-truong-cau-thu-cau-duoc-con-ca-vang-nang-27kg-lon-nhat-the-gioi-20241014105653058.htm) - 06:48 14/10/2024
+- 🥳 [Tiết lộ hậu trường cần thủ câu được con cá vàng nặng 27kg lớn nhất thế giới](https://dantri.com.vn/doi-song/tiet-lo-hau-truong-can-thu-cau-duoc-con-ca-vang-nang-27kg-lon-nhat-the-gioi-20241014105653058.htm) - 06:48 14/10/2024
 - 🌁 [Nhà ở Hà Nội đắt đỏ, nhiều cặp vợ chồng nghỉ hưu sớm về quê xây nhà vườn](https://dantri.com.vn/doi-song/nha-o-ha-noi-dat-do-nhieu-cap-vo-chong-nghi-huu-som-ve-que-xay-nha-vuon-20241014104457587.htm) - 03:45 14/10/2024
 - 👀 [Giới trẻ Đà Nẵng đến phiên chợ phải &quot;nhanh tay, tinh mắt&quot;](https://dantri.com.vn/doi-song/gioi-tre-da-nang-den-phien-cho-phai-nhanh-tay-tinh-mat-20241012201324540.htm) - 02:37 14/10/2024
 - 🐻 [Trào lưu mới trong giới trẻ: In tượng 3D body y như nguyên mẫu](https://dantri.com.vn/doi-song/trao-luu-moi-trong-gioi-tre-in-tuong-3d-body-y-nhu-nguyen-mau-20241013120507206.htm) - 01:00 14/10/2024
