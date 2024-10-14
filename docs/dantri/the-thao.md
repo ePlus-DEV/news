@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Thực trạng đáng lo và mông lung của đội tuyển Việt Nam](https://dantri.com.vn/the-thao/thuc-trang-dang-lo-va-mong-lung-cua-doi-tuyen-viet-nam-20241014192715018.htm) - 12:42 14/10/2024
+- 🎡 [Thực trạng đáng lo và mông lung của đội tuyển Việt Nam](https://dantri.com.vn/the-thao/thuc-trang-dang-lo-va-mong-lung-cua-doi-tuyen-viet-nam-20241014192715018.htm) - 13:15 14/10/2024
 - 💯 [Liên đoàn billiards &amp; snooker Việt Nam gặp đơn vị chủ quản của VĐV Yến Nhi](https://dantri.com.vn/the-thao/lien-doan-billiards-snooker-viet-nam-gap-don-vi-chu-quan-cua-vdv-yen-nhi-20241014191536315.htm) - 12:26 14/10/2024
 - ⛽️ [AFC ra phán quyết bất ngờ vụ Indonesia kiện trọng tài &quot;cướp&quot; chiến thắng](https://dantri.com.vn/the-thao/afc-ra-phan-quyet-bat-ngo-vu-indonesia-kien-trong-tai-cuop-chien-thang-20241014162601428.htm) - 10:36 14/10/2024
 - 💃 [Thủ môn Trung Quốc bị sang chấn tâm lý khi đội nhà thủng lưới quá nhiều](https://dantri.com.vn/the-thao/thu-mon-trung-quoc-bi-sang-chan-tam-ly-khi-doi-nha-thung-luoi-qua-nhieu-20241014170124193.htm) - 10:28 14/10/2024
