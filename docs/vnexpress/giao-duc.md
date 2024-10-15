@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Bách khoa Hà Nội sẽ đào tạo kỹ sư chuyên sâu Thiết kế vi mạch](https://vnexpress.net/bach-khoa-ha-noi-se-dao-tao-ky-su-chuyen-sau-thiet-ke-vi-mach-4804350.html) - 15:38 15/10/2024
+- 🤓 [Bách khoa Hà Nội mở hệ kỹ sư chuyên sâu về Thiết kế vi mạch](https://vnexpress.net/bach-khoa-ha-noi-mo-he-ky-su-chuyen-sau-ve-thiet-ke-vi-mach-4804350.html) - 15:38 15/10/2024
 - 🦆 [Trường đại học thu sai 37 tỷ đồng học phí](https://vnexpress.net/truong-dai-hoc-thu-sai-37-ty-dong-hoc-phi-4804438.html) - 14:46 15/10/2024
 - 🦩 [Tỉnh nào được xem là xứ sở mía đường?](https://vnexpress.net/tinh-nao-duoc-xem-la-xu-so-mia-duong-4804545.html) - 14:03 15/10/2024
 - 🌮 [Cô giáo đánh nhiều trẻ mầm non](https://vnexpress.net/co-giao-danh-nhieu-tre-mam-non-4804553.html) - 13:31 15/10/2024
