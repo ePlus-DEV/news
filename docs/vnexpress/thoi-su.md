@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Cần thủ sống sót sau 32 giờ trôi dạt trên biển](https://vnexpress.net/can-thu-song-sot-sau-32-gio-troi-dat-tren-bien-4804331.html) - 05:34 15/10/2024
-- 🤓 [Xe chở xăng cháy ngùn ngụt](https://vnexpress.net/xe-cho-xang-chay-ngun-ngut-4804337.html) - 05:26 15/10/2024
+- 🤓 [Xe bồn chở xăng cháy ngùn ngụt](https://vnexpress.net/xe-bon-cho-xang-chay-ngun-ngut-4804337.html) - 05:26 15/10/2024
 - ⚗️ [Hai tỉnh tranh quản lý di tích Hoành Sơn Quan](https://vnexpress.net/hai-tinh-tranh-quan-ly-di-tich-hoanh-son-quan-4804243.html) - 05:21 15/10/2024
 - 🌊 [Mộ tập thể 32 liệt sĩ phát lộ khi đào đất chôn ống nước](https://vnexpress.net/mo-tap-the-32-liet-si-phat-lo-khi-dao-dat-chon-ong-nuoc-4802082.html) - 02:26 15/10/2024
 - 🎓 [Cuộc sống tạm bợ dưới chân đồi sạt lở](https://vnexpress.net/cuoc-song-tam-bo-duoi-chan-doi-sat-lo-4803924.html) - 21:00 14/10/2024
