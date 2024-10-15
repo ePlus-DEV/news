@@ -4,9 +4,9 @@ sidebar_position: 8
 ---
 
 <!-- dantri-phap-luat:START -->
-- 🌊 [&quot;Nổ&quot; người nhà lãnh đạo Chính phủ, lừa 5 tỷ đồng chạy dự án điện gió](https://dantri.com.vn/phap-luat/no-nguoi-nha-lanh-dao-chinh-phu-lua-5-ty-dong-chay-du-an-dien-gio-20241015161447863.htm) - 10:03 15/10/2024
-- 🐲 [Đối tượng truy nã bị bắt khi đang ở cùng bạn gái trong khách sạn](https://dantri.com.vn/phap-luat/doi-tuong-truy-na-bi-bat-khi-dang-o-cung-ban-gai-trong-khach-san-20241015161258985.htm) - 09:44 15/10/2024
-- 🌁 [Buổi đối thoại đặc biệt của Giám đốc Công an Phú Thọ &quot;hút view&quot;](https://dantri.com.vn/xa-hoi/buoi-doi-thoai-dac-biet-cua-giam-doc-cong-an-phu-tho-hut-view-20241015153858711.htm) - 08:58 15/10/2024
+- 🌊 [Giám đốc công ty lừa đảo hơn 48 tỷ đồng bị bắt](https://dantri.com.vn/phap-luat/giam-doc-cong-ty-lua-dao-hon-48-ty-dong-bi-bat-20241015171251238.htm) - 10:26 15/10/2024
+- 🐲 [&quot;Nổ&quot; người nhà lãnh đạo Chính phủ, lừa 5 tỷ đồng chạy dự án điện gió](https://dantri.com.vn/phap-luat/no-nguoi-nha-lanh-dao-chinh-phu-lua-5-ty-dong-chay-du-an-dien-gio-20241015161447863.htm) - 10:03 15/10/2024
+- 🌁 [Đối tượng truy nã bị bắt khi đang ở cùng bạn gái trong khách sạn](https://dantri.com.vn/phap-luat/doi-tuong-truy-na-bi-bat-khi-dang-o-cung-ban-gai-trong-khach-san-20241015161258985.htm) - 09:44 15/10/2024
 - 🎃 [Khởi tố vụ án liên quan đấu thầu của Công ty AIC tại bệnh viện ở Bình Thuận](https://dantri.com.vn/phap-luat/khoi-to-vu-an-lien-quan-dau-thau-cua-cong-ty-aic-tai-benh-vien-o-binh-thuan-20241015151057051.htm) - 08:56 15/10/2024
 - 🦅 [Giả danh người của Bộ Chỉ huy Quân sự, đổi tiền USD chiếm đoạt 1 tỷ đồng](https://dantri.com.vn/phap-luat/gia-danh-nguoi-cua-bo-chi-huy-quan-su-doi-tien-usd-chiem-doat-1-ty-dong-20241015142625680.htm) - 07:51 15/10/2024
 - 🎭 [Vợ gây án mạng sau lời trách &quot;không biết quan tâm&quot; của chồng](https://dantri.com.vn/phap-luat/vo-gay-an-mang-sau-loi-trach-khong-biet-quan-tam-cua-chong-20241015135619422.htm) - 07:21 15/10/2024
