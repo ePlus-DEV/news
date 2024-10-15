@@ -4,9 +4,9 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Ông Đỗ Trọng Hưng thôi giữ chức Chủ tịch HĐND tỉnh Thanh Hóa](https://dantri.com.vn/xa-hoi/ong-do-trong-hung-thoi-giu-chuc-chu-tich-hdnd-tinh-thanh-hoa-20241015163753157.htm) - 10:00 15/10/2024
-- 👨‍🏫 [Lãnh đạo Công an Cần Thơ thông tin vụ 3 người tử vong trên cầu vượt](https://dantri.com.vn/xa-hoi/lanh-dao-cong-an-can-tho-thong-tin-vu-3-nguoi-tu-vong-tren-cau-vuot-20241015161313322.htm) - 09:36 15/10/2024
-- 🌮 [Buổi đối thoại đặc biệt của Giám đốc Công an Phú Thọ &quot;hút view&quot;](https://dantri.com.vn/xa-hoi/buoi-doi-thoai-dac-biet-cua-giam-doc-cong-an-phu-tho-hut-view-20241015153858711.htm) - 08:58 15/10/2024
+- 🎭 [Cổ phiếu Quốc Cường Gia Lai bất ngờ nổi sóng](https://dantri.com.vn/kinh-doanh/co-phieu-quoc-cuong-gia-lai-bat-ngo-noi-song-20241015164913269.htm) - 10:37 15/10/2024
+- 👨‍🏫 [Ông Đỗ Trọng Hưng thôi giữ chức Chủ tịch HĐND tỉnh Thanh Hóa](https://dantri.com.vn/xa-hoi/ong-do-trong-hung-thoi-giu-chuc-chu-tich-hdnd-tinh-thanh-hoa-20241015163753157.htm) - 10:00 15/10/2024
+- 🌮 [Lãnh đạo Công an Cần Thơ thông tin vụ 3 người tử vong trên cầu vượt](https://dantri.com.vn/xa-hoi/lanh-dao-cong-an-can-tho-thong-tin-vu-3-nguoi-tu-vong-tren-cau-vuot-20241015161313322.htm) - 09:36 15/10/2024
 - 🕯 [Cần thủ sống sót kỳ diệu sau 32 giờ trôi dạt trên biển](https://dantri.com.vn/xa-hoi/can-thu-song-sot-ky-dieu-sau-32-gio-troi-dat-tren-bien-20241015142022195.htm) - 07:55 15/10/2024
 - 🪜 [Chính phủ dự kiến trình Quốc hội số lượng hồ sơ kỷ lục tại kỳ họp thứ 8](https://dantri.com.vn/xa-hoi/chinh-phu-du-kien-trinh-quoc-hoi-so-luong-ho-so-ky-luc-tai-ky-hop-thu-8-20241015142912377.htm) - 07:51 15/10/2024
 - 🐘 [Tình cảnh trái ngược của Messi và Ronaldo ở đội tuyển quốc gia](https://dantri.com.vn/the-thao/tinh-canh-trai-nguoc-cua-messi-va-ronaldo-o-doi-tuyen-quoc-gia-20241015100058480.htm) - 07:00 15/10/2024
