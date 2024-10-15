@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Cựu giám đốc công an Trung Quốc bị tuyên tử hình vì nhận 78 triệu USD](https://vnexpress.net/cuu-giam-doc-cong-an-trung-quoc-bi-tuyen-tu-hinh-vi-nhan-78-trieu-usd-4804408.html) - 08:38 15/10/2024
-- 🥰 [Lãnh đạo Công an Cần Thơ: &#39;Cần khởi tố vụ ôtô tông loạt xe máy&#39;](https://vnexpress.net/lanh-dao-cong-an-can-tho-can-khoi-to-vu-oto-tong-loat-xe-may-4804352.html) - 07:57 15/10/2024
+- 🥰 [Lãnh đạo Công an Cần Thơ: &#39;Có căn cứ khởi tố vụ ôtô tông loạt xe máy&#39;](https://vnexpress.net/lanh-dao-cong-an-can-tho-co-can-cu-khoi-to-vu-oto-tong-loat-xe-may-4804352.html) - 07:57 15/10/2024
 - 🎓 [Bị cướp sau khi khoe tài sản trên Facebook](https://vnexpress.net/bi-cuop-sau-khi-khoe-tai-san-tren-facebook-4804351.html) - 06:56 15/10/2024
 - 🤓 [Tên trộm đột nhập để nấu ăn, dọn nhà giúp gia chủ](https://vnexpress.net/ten-trom-dot-nhap-de-nau-an-don-nha-giup-gia-chu-4804295.html) - 06:36 15/10/2024
 - 🎊 [Bịa tên tổ chức Cambridge International để cấp chứng chỉ tiếng Anh](https://vnexpress.net/bia-ten-to-chuc-cambridge-international-examinations-de-cap-chung-chi-tieng-anh-4804299.html) - 06:05 15/10/2024
