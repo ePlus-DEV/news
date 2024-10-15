@@ -150,7 +150,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- thanhnien:START -->
 - 🤠 [Hồng Yêu mở điểm, U.19 Phong Phú Hà Nam bảo vệ thành công ngôi vô địch](https://thanhnien.vn/hong-yeu-mo-diem-u19-phong-phu-ha-nam-bao-ve-thanh-cong-ngoi-vo-dich-185241015232716159.htm) - 17:52 15/10/2024
 - 🥸 [Thế giới bóng đá &#39;ngả mũ&#39; với nhà Maldini](https://thanhnien.vn/the-gioi-bong-da-nga-mu-voi-nha-maldini-185241015161801344.htm) - 17:52 15/10/2024
-- 🌁 [Đội tuyển Indonesia thua Trung Quốc, Chủ tịch PSSI nói lời khiến cầu thủ lo lắng](https://thanhnien.vn/doi-tuyen-indonesia-thua-trung-quoc-chu-tich-pssi-noi-loi-khien-cau-thu-lo-lang-185241016002316436.htm) - 17:50 15/10/2024
+- 🌁 [Đội tuyển Indonesia thua Trung Quốc, Chủ tịch PSSI nói lời khiến cầu thủ lo sốt vó](https://thanhnien.vn/doi-tuyen-indonesia-thua-trung-quoc-chu-tich-pssi-noi-loi-khien-cau-thu-lo-lang-185241016002316436.htm) - 17:50 15/10/2024
 - 🤡 [Ngày mới với tin tức sức khỏe: Phát hiện thêm lợi ích của trà gừng](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-phat-hien-them-loi-ich-cua-tra-gung-185241015231540533.htm) - 17:10 15/10/2024
 - 🎉 [Bác sĩ chỉ cách tập thể dục tốt nhất cho sức khỏe của bạn](https://thanhnien.vn/bac-si-chi-cach-tap-the-duc-tot-nhat-cho-suc-khoe-cua-ban-185241015233721635.htm) - 17:08 15/10/2024
 - 🎊 [Muốn hạ đường huyết, nên tập thể dục buổi nào là tốt nhất?](https://thanhnien.vn/muon-ha-duong-huyet-nen-tap-the-duc-buoi-nao-la-tot-nhat-185241014113841099.htm) - 17:07 15/10/2024
