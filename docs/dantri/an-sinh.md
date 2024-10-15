@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- dantri-an-sinh:START -->
-- 👺 [Quỹ bảo hiểm thất nghiệp kết dư gần 60.800 tỷ đồng, thu - chi ra sao?](https://dantri.com.vn/an-sinh/quy-bao-hiem-that-nghiep-ket-du-gan-60800-ty-dong-thu-chi-ra-sao-20241014212347920.htm) - 01:10 15/10/2024
+- 👺 [Quỹ bảo hiểm thất nghiệp kết dư 60.800 tỷ đồng, chi 1 năm 23.000 tỷ](https://dantri.com.vn/an-sinh/quy-bao-hiem-that-nghiep-ket-du-60800-ty-dong-chi-1-nam-23000-ty-20241014212347920.htm) - 01:10 15/10/2024
 - 👀 [Hạnh phúc ở nơi làm việc, nhân sự cống hiến gấp đôi, gắn bó không vì tiền](https://dantri.com.vn/an-sinh/hanh-phuc-o-noi-lam-viec-nhan-su-cong-hien-gap-doi-gan-bo-khong-vi-tien-20241014182426940.htm) - 00:00 15/10/2024
 - 💡 [Cán bộ thủy lợi cứu nam sinh lớp 9 bị đuối nước](https://dantri.com.vn/an-sinh/can-bo-thuy-loi-cuu-nam-sinh-lop-9-bi-duoi-nuoc-20241015001658272.htm) - 23:17 14/10/2024
 - 💄 [Doanh nghiệp chậm đóng BHXH cao nhất gần 43 tỷ đồng, có nơi nợ hơn 10 năm](https://dantri.com.vn/an-sinh/doanh-nghiep-cham-dong-bhxh-cao-nhat-gan-43-ty-dong-co-noi-no-hon-10-nam-20241014033550828.htm) - 23:05 14/10/2024
