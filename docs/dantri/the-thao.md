@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [AFC có quyết định gây tranh cãi, khiến Indonesia càng thêm tức giận](https://dantri.com.vn/the-thao/afc-co-quyet-dinh-gay-tranh-cai-khien-indonesia-cang-them-tuc-gian-20241015102516473.htm) - 03:25 15/10/2024
+- 🎡 [AFC có quyết định gây tranh cãi, khiến Indonesia càng thêm tức giận](https://dantri.com.vn/the-thao/afc-co-quyet-dinh-gay-tranh-cai-khien-indonesia-cang-them-tuc-gian-20241015102516473.htm) - 04:00 15/10/2024
 - 💯 [Lamine Yamal có nguy cơ vắng mặt ở trận gặp Bayern Munich](https://dantri.com.vn/the-thao/lamine-yamal-co-nguy-co-vang-mat-o-tran-gap-bayern-munich-20241015090029909.htm) - 03:00 15/10/2024
 - ⛽️ [Đại kiện tướng cờ vua nhận cái kết đắng vì gian lận khi thi đấu](https://dantri.com.vn/the-thao/dai-kien-tuong-co-vua-nhan-cai-ket-dang-vi-gian-lan-khi-thi-dau-20241015092956911.htm) - 02:41 15/10/2024
 - 💃 [Novak Djokovic cầm chắc tấm vé dự ATP Finals 2024](https://dantri.com.vn/the-thao/novak-djokovic-cam-chac-tam-ve-du-atp-finals-2024-20241015081548233.htm) - 01:18 15/10/2024
