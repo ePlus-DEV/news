@@ -44,7 +44,7 @@ sidebar_position: 9
 - 🧑‍🏫 [Á hậu Phương Nga tốt nghiệp Swinburne Việt Nam](https://vnexpress.net/a-hau-phuong-nga-tot-nghiep-swinburne-viet-nam-4804378.html) - 09:00 15/10/2024
 - 😎 [Hội chứng khiến người vợ né tránh &#39;gần gũi&#39; chồng](https://vnexpress.net/hoi-chung-khien-nguoi-vo-ne-tranh-gan-gui-chong-4804376.html) - 09:00 15/10/2024
 - 🪄 [Các mẫu xe Mazda nhận ưu đãi trong tháng 10](https://vnexpress.net/cac-mau-xe-mazda-nhan-uu-dai-trong-thang-10-4804285.html) - 09:00 15/10/2024
-- 🏊 [8 sai lầm thường gặp khi tập yoga](https://vnexpress.net/8-sai-lam-thuong-gap-khi-tap-yoga-4804264.html) - 09:00 15/10/2024
+- 🏊 [8 sai lầmthường gặp khi tập yoga](https://vnexpress.net/8-sai-lamthuong-gap-khi-tap-yoga-4804264.html) - 09:00 15/10/2024
 - 💃 [Cách nam sinh 12 tuổi bắt nhịp nhanh với khóa học IT trực tuyến](https://vnexpress.net/cach-nam-sinh-12-tuoi-bat-nhip-nhanh-voi-khoa-hoc-it-truc-tuyen-4804084.html) - 09:00 15/10/2024
 - 🦆 [Xe điện VinFast sạc pin thế nào tại Trung Quốc?](https://vnexpress.net/xe-dien-vinfast-sac-pin-the-nao-tai-trung-quoc-4801503.html) - 09:00 15/10/2024
 - 🎊 [Đề xuất làm 23 km đường ven biển ở Khánh Hòa](https://vnexpress.net/de-xuat-lam-23-km-duong-ven-bien-o-khanh-hoa-4804418.html) - 08:51 15/10/2024
