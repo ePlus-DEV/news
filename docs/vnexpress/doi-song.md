@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Chàng trai đồng tính và hành trình 4 năm để được làm bố](https://vnexpress.net/chang-trai-dong-tinh-va-hanh-trinh-4-nam-de-duoc-lam-bo-4799174.html) - 23:28 14/10/2024
+- 🚀 [Chàng trai đồng tính sang Mỹ tìm con bằng mang thai hộ](https://vnexpress.net/chang-trai-dong-tinh-sang-my-tim-con-bang-mang-thai-ho-4799174.html) - 23:28 14/10/2024
 - 🎓 [Những quyết định tệ nhất con người đưa ra trong đời](https://vnexpress.net/nhung-quyet-dinh-te-nhat-con-nguoi-dua-ra-trong-doi-4804115.html) - 23:00 14/10/2024
 - 🚦 [Những hiểu lầm về tình dục làm hại hôn nhân](https://vnexpress.net/nhung-hieu-lam-ve-tinh-duc-lam-hai-hon-nhan-4804041.html) - 14:21 14/10/2024
 - 🦣 [Hai bộ trang sức vàng 24K dành cho ngày cưới](https://vnexpress.net/hai-bo-trang-suc-vang-24k-danh-cho-ngay-cuoi-4799896.html) - 12:00 14/10/2024
