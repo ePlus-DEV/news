@@ -65,8 +65,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🔥 [Nghệ sĩ Măng Thị Hội tái xuất với &#39;Bóng cây Kơnia&#39;](https://vnexpress.net/nghe-si-mang-thi-hoi-tai-xuat-voi-bong-cay-konia-4804895.html) - 11:19 16/10/2024
 - 🧰 [Trump né tránh câu hỏi về &#39;liên lạc với ông Putin&#39;](https://vnexpress.net/trump-ne-tranh-cau-hoi-ve-lien-lac-voi-ong-putin-4804803.html) - 11:05 16/10/2024
 - 🦒 [Đường vào cảng lớn nhất Đồng Nai thu phí 20.000-110.000 đồng mỗi lượt ôtô](https://vnexpress.net/duong-vao-cang-lon-nhat-dong-nai-thu-phi-20-000-110-000-dong-moi-luot-oto-4804978.html) - 11:00 16/10/2024
-- ⛽️ [&#39;Khách tập chay bị phòng gym phân biệt đối xử&#39;](https://vnexpress.net/khach-tap-chay-bi-phong-gym-phan-biet-doi-xu-4804940.html) - 11:00 16/10/2024
-- 🚀 [Làm sao để tỏ lòng với chàng nha sĩ cao 1m8](https://vnexpress.net/lam-sao-de-to-long-voi-chang-nha-si-cao-1m8-4804888.html) - 11:00 16/10/2024
+- ⛽️ [Làm sao để tỏ lòng với chàng nha sĩ cao 1m8](https://vnexpress.net/lam-sao-de-to-long-voi-chang-nha-si-cao-1m8-4804888.html) - 11:00 16/10/2024
+- 🚀 [&#39;Khách tập chay bị phòng gym phân biệt đối xử&#39;](https://vnexpress.net/khach-tap-chay-bi-phong-gym-phan-biet-doi-xu-4804940.html) - 11:00 16/10/2024
 - 🪜 [6 nhóm thực phẩm giúp cơ thể tái tạo collagen](https://vnexpress.net/6-nhom-thuc-pham-giup-co-the-tai-tao-collagen-4804891.html) - 11:00 16/10/2024
 - 🚦 [Bốn loại trà giúp giảm ho](https://vnexpress.net/bon-loai-tra-giup-giam-ho-4804789.html) - 11:00 16/10/2024
 - 🕯 [18 vật phẩm trong túi race-kit Marathon Quốc tế Strong Vietnam Vũng Tàu](https://vnexpress.net/18-vat-pham-trong-tui-race-kit-marathon-quoc-te-strong-vietnam-vung-tau-4804368.html) - 11:00 16/10/2024
