@@ -7,7 +7,7 @@ sidebar_position: 7
 - 🤓 [&#39;Quay xe&#39; nói thế nào trong tiếng Anh?](https://vnexpress.net/quay-xe-noi-the-nao-trong-tieng-anh-4804948.html) - 09:20 16/10/2024
 - 🦆 [Những nhóm ngành học được cấp giấy phép làm việc ở Canada](https://vnexpress.net/nhung-nhom-nganh-hoc-duoc-cap-giay-phep-lam-viec-o-canada-4803375.html) - 06:49 16/10/2024
 - 🦩 [Quán quân Olympia được thưởng 40 triệu đồng](https://vnexpress.net/quan-quan-olympia-duoc-thuong-40-trieu-dong-4804648.html) - 03:08 16/10/2024
-- 🌮 [Dự kiến sinh viên tại chức được cấp học bổng như chính quy](https://vnexpress.net/du-kien-sinh-vien-tai-chuc-duoc-cap-hoc-bong-nhu-chinh-quy-4804451.html) - 00:00 16/10/2024
+- 🌮 [Dự kiến giảm tỷ lệ chi học bổng cho sinh viên](https://vnexpress.net/du-kien-giam-ty-le-chi-hoc-bong-cho-sinh-vien-4804451.html) - 00:00 16/10/2024
 - 🔭 [Bách khoa Hà Nội mở hệ kỹ sư chuyên sâu về Thiết kế vi mạch](https://vnexpress.net/bach-khoa-ha-noi-mo-he-ky-su-chuyen-sau-ve-thiet-ke-vi-mach-4804350.html) - 15:38 15/10/2024
 - 💡 [Trường đại học thu sai 37 tỷ đồng học phí](https://vnexpress.net/truong-dai-hoc-thu-sai-37-ty-dong-hoc-phi-4804438.html) - 14:46 15/10/2024
 - 🥰 [Tỉnh nào được xem là xứ sở mía đường?](https://vnexpress.net/tinh-nao-duoc-xem-la-xu-so-mia-duong-4804545.html) - 14:03 15/10/2024
