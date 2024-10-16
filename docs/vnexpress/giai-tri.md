@@ -6,14 +6,14 @@ sidebar_position: 5
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Váy áo mùa thu của tỷ phú Trung Quốc](https://vnexpress.net/vay-ao-mua-thu-cua-ty-phu-trung-quoc-4804726.html) - 05:00 16/10/2024
 - 💫 [&#39;Tuyệt đỉnh kungfu&#39; - giấc mơ anh hùng của Châu Tinh Trì](https://vnexpress.net/tuyet-dinh-kungfu-giac-mo-anh-hung-cua-chau-tinh-tri-4804381.html) - 04:36 16/10/2024
-- 🌮 [Dàn người đẹp tranh tài ở Bước nhảy hoàn vũ](https://vnexpress.net/dan-nguoi-dep-tranh-tai-o-buoc-nhay-hoan-vu-4804663.html) - 04:17 16/10/2024
-- 🧠 [Dàn &#39;thiên thần nội y&#39; tái xuất ở show Victoria&#39;s Secret](https://vnexpress.net/dan-thien-than-noi-y-tai-xuat-o-show-victoria-s-secret-4804730.html) - 03:55 16/10/2024
+- 🌮 [Nhiều người đẹp tranh tài ở Bước nhảy hoàn vũ](https://vnexpress.net/nhieu-nguoi-dep-tranh-tai-o-buoc-nhay-hoan-vu-4804663.html) - 04:17 16/10/2024
+- 🧠 [Các &#39;thiên thần nội y&#39; tái xuất ở show Victoria&#39;s Secret](https://vnexpress.net/cac-thien-than-noi-y-tai-xuat-o-show-victoria-s-secret-4804730.html) - 03:55 16/10/2024
 - 👨‍🏫 [Lisa hát, trình diễn nội y](https://vnexpress.net/lisa-hat-trinh-dien-noi-y-4804662.html) - 02:38 16/10/2024
 - ⚗️ [Dàn sao gợi cảm trên thảm hồng Victoria&#39;s Secret](https://vnexpress.net/dan-sao-goi-cam-tren-tham-hong-victoria-s-secret-4804677.html) - 02:14 16/10/2024
 - 😎 [Cuộc sống ở Hà Nội hơn 30 năm trước qua ảnh](https://vnexpress.net/cuoc-song-o-ha-noi-hon-30-nam-truoc-qua-anh-4803987.html) - 17:00 15/10/2024
 - 🫣 [Lý Hải khởi động phim &#39;Lật mặt 8&#39;](https://vnexpress.net/ly-hai-khoi-dong-phim-lat-mat-8-4804552.html) - 13:31 15/10/2024
 - 🪄 [Chi Pu ra album mini bằng tiếng Anh](https://vnexpress.net/chi-pu-ra-album-mini-bang-tieng-anh-4804522.html) - 13:04 15/10/2024
-- 🤓 [Củng Lợi gây sốt với thần thái &#39;nữ hoàng&#39;](https://vnexpress.net/cung-loi-gay-sot-voi-than-thai-nu-hoang-4804493.html) - 12:30 15/10/2024
+- 🤓 [Củng Lợi tái xuất với thần thái &#39;nữ hoàng&#39;](https://vnexpress.net/cung-loi-tai-xuat-voi-than-thai-nu-hoang-4804493.html) - 12:30 15/10/2024
 - 🫶 [&#39;Cơn sốt&#39; Han Kang chưa hạ nhiệt](https://vnexpress.net/con-sot-han-kang-chua-ha-nhiet-4804336.html) - 12:01 15/10/2024
 - 🧑‍🏫 [Phim Công tử Bạc Liêu tái hiện giai thoại &#39;đốt tiền nấu chè&#39;](https://vnexpress.net/phim-cong-tu-bac-lieu-tai-hien-giai-thoai-dot-tien-nau-che-4804510.html) - 10:37 15/10/2024
 - 🦄 [Đỗ Mạnh Cường sẽ mở màn Tuần thời trang Quốc tế Việt Nam](https://vnexpress.net/do-manh-cuong-se-mo-man-tuan-thoi-trang-quoc-te-viet-nam-4804445.html) - 10:26 15/10/2024
