@@ -5,8 +5,8 @@ sidebar_position: 19
 
 <!-- dantri-lao-dong-viec-lam:START -->
 - ⚗️ [Vây bắt loài cá &quot;ăn sống&quot; ở Phú Quốc, ngư dân kiếm tiền triệu mỗi ngày](https://dantri.com.vn/lao-dong-viec-lam/vay-bat-loai-ca-an-song-o-phu-quoc-ngu-dan-kiem-tien-trieu-moi-ngay-20241015233720469.htm) - 03:20 16/10/2024
-- 🙉 [Dầm mưa 2 tiếng chỉ đi được 500m, dân văn phòng ở TPHCM &quot;tái mặt&quot;](https://dantri.com.vn/lao-dong-viec-lam/dam-mua-2-tieng-chi-di-duoc-500m-dan-van-phong-o-tphcm-tai-mat-20241011142311083.htm) - 03:11 16/10/2024
-- 🕴 [Tuyển thực tập sinh đi Nhật, lao động nữ áp điều kiện &quot;không có hình xăm&quot;](https://dantri.com.vn/lao-dong-viec-lam/tuyen-thuc-tap-sinh-di-nhat-lao-dong-nu-ap-dieu-kien-khong-co-hinh-xam-20241016061445113.htm) - 00:49 16/10/2024
+- 🙉 [Dân văn phòng ở TPHCM dầm mưa 2 tiếng chỉ đi được 500m](https://dantri.com.vn/lao-dong-viec-lam/dan-van-phong-o-tphcm-dam-mua-2-tieng-chi-di-duoc-500m-20241011142311083.htm) - 03:11 16/10/2024
+- 🕴 [Tuyển thực tập sinh đi Nhật, lao động nữ phải... không có hình xăm](https://dantri.com.vn/lao-dong-viec-lam/tuyen-thuc-tap-sinh-di-nhat-lao-dong-nu-phai-khong-co-hinh-xam-20241016061445113.htm) - 00:49 16/10/2024
 - 🧐 [&quot;Nơi làm việc tốt nhất châu Á&quot; làm gì để vững chân đón nhân tài trẻ?](https://dantri.com.vn/lao-dong-viec-lam/noi-lam-viec-tot-nhat-chau-a-lam-gi-de-vung-chan-don-nhan-tai-tre-20241015003425676.htm) - 23:00 15/10/2024
 - 🧑‍💻 [TPHCM cần tuyển 19 sinh viên xuất sắc, chỉ 8 người đủ điều kiện dự thi](https://dantri.com.vn/lao-dong-viec-lam/tphcm-can-tuyen-19-sinh-vien-xuat-sac-chi-8-nguoi-du-dieu-kien-du-thi-20241015145500099.htm) - 08:07 15/10/2024
 - 🪄 [Nhân viên bảo vệ đi làm cuối tuần, dịp Tết thì được hưởng 300% lương?](https://dantri.com.vn/lao-dong-viec-lam/nhan-vien-bao-ve-di-lam-cuoi-tuan-dip-tet-thi-duoc-huong-300-luong-20241015111147012.htm) - 04:55 15/10/2024
