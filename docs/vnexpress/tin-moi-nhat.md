@@ -57,5 +57,4 @@ sidebar_position: 9
 - 👍 [Ung thư dạ dày cướp sinh mạng nhiều người Việt do phát hiện muộn](https://vnexpress.net/ung-thu-da-day-cuop-sinh-mang-nhieu-nguoi-viet-do-phat-hien-muon-4804801.html) - 11:42 16/10/2024
 - 🔥 [Trồng lại cây xanh ở công viên cửa ngõ Tân Sơn Nhất](https://vnexpress.net/trong-lai-cay-xanh-o-cong-vien-cua-ngo-tan-son-nhat-4804994.html) - 11:27 16/10/2024
 - 💄 [Bị bắt vì tung video nhạy cảm của người yêu cũ lên mạng](https://vnexpress.net/bi-bat-vi-tung-video-nhay-cam-cua-nguoi-yeu-cu-len-mang-4804976.html) - 11:24 16/10/2024
-- 🤡 [Ngô Đức Duy](https://vnexpress.net/ngo-duc-duy-4804471.html) - 11:22 16/10/2024
-- ⛽️ [Ninh Anh Bùi](https://vnexpress.net/ninh-anh-bui-4804531.html) - 11:22 16/10/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🤡 [Ngô Đức Duy](https://vnexpress.net/ngo-duc-duy-4804471.html) - 11:22 16/10/2024<!-- vnexpress-tin-moi-nhat:END -->
