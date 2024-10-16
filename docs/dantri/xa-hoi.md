@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🫣 [Xác minh hình ảnh ô tô phóng ngược chiều trên cao tốc Nội Bài - Lào Cai](https://dantri.com.vn/xa-hoi/xac-minh-hinh-anh-o-to-phong-nguoc-chieu-tren-cao-toc-noi-bai-lao-cai-20241016225229394.htm) - 16:00 16/10/2024
 - 💼 [Cháy biển hiệu trên tầng cao Bệnh viện Hoàn Mỹ Đà Nẵng](https://dantri.com.vn/xa-hoi/chay-bien-hieu-tren-tang-cao-benh-vien-hoan-my-da-nang-20241016220636953.htm) - 15:36 16/10/2024
 - 🎊 [Sự thật về clip TikTok &quot;Anh Công an xăm hình&quot;](https://dantri.com.vn/xa-hoi/su-that-ve-clip-tiktok-anh-cong-an-xam-hinh-20241016221913824.htm) - 15:35 16/10/2024
-- 🙉 [Cháy kho hàng gần trường đại học ở Hà Nội](https://dantri.com.vn/xa-hoi/chay-kho-hang-gan-truong-dai-hoc-o-ha-noi-20241016221934454.htm) - 15:30 16/10/2024
+- 🙉 [Hà Nội: Cháy lớn tại kho hàng ở Vĩnh Tuy](https://dantri.com.vn/xa-hoi/ha-noi-chay-lon-tai-kho-hang-o-vinh-tuy-20241016221934454.htm) - 15:30 16/10/2024
 - 🕯 [Nhiều nơi mưa to, Hà Nội chất lượng không khí ở mức có hại](https://dantri.com.vn/xa-hoi/nhieu-noi-mua-to-ha-noi-chat-luong-khong-khi-o-muc-co-hai-20241016212924170.htm) - 14:49 16/10/2024
 - 👍 [Đề xuất chuyển một phần đường Vành đai 4 của Long An cho TPHCM thực hiện](https://dantri.com.vn/xa-hoi/de-xuat-chuyen-mot-phan-duong-vanh-dai-4-cua-long-an-cho-tphcm-thuc-hien-20241016175121744.htm) - 13:58 16/10/2024
 - 🤖 [Yêu cầu báo cáo về 9 dự án nghìn tỷ của Tập đoàn Phúc Sơn ở Khánh Hòa](https://dantri.com.vn/xa-hoi/yeu-cau-bao-cao-ve-9-du-an-nghin-ty-cua-tap-doan-phuc-son-o-khanh-hoa-20241016183004875.htm) - 13:52 16/10/2024
