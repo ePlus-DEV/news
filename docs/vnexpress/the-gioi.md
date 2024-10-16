@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Kiev, Washington cảnh báo về khả năng &#39;lính Triều Tiên tham chiến ở Ukraine&#39;](https://vnexpress.net/kiev-washington-canh-bao-ve-kha-nang-linh-trieu-tien-tham-chien-o-ukraine-4804615.html) - 03:51 16/10/2024
+- 🎭 [Người đàn ông Nga sống sót sau hai tháng trôi dạt trên biển](https://vnexpress.net/nguoi-dan-ong-nga-song-sot-sau-hai-thang-troi-dat-tren-bien-4804705.html) - 04:13 16/10/2024
 - 🕴 [Hoài nghi về kế hoạch giải cứu kinh tế Mỹ của ông Trump](https://vnexpress.net/hoai-nghi-ve-ke-hoach-giai-cuu-kinh-te-my-cua-ong-trump-4804439.html) - 03:43 16/10/2024
 - 🤭 [Triều Tiên tuyên bố 1,4 triệu thanh niên làm đơn xin nhập ngũ](https://vnexpress.net/trieu-tien-tuyen-bo-1-4-trieu-thanh-nien-lam-don-xin-nhap-ngu-4804632.html) - 03:11 16/10/2024
 - 🧑‍💻 [Hezbollah tuyên bố hạ liên tiếp UAV &#39;tốt nhất thế giới&#39; của Israel](https://vnexpress.net/hezbollah-tuyen-bo-ha-lien-tiep-uav-tot-nhat-the-gioi-cua-israel-4804639.html) - 02:58 16/10/2024
