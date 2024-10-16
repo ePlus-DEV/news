@@ -23,7 +23,7 @@ sidebar_position: 12
 - 🐲 [Màn kịch lừa bán USD giá rẻ](https://vnexpress.net/man-kich-lua-ban-usd-gia-re-4804260.html) - 04:28 15/10/2024
 - 🚀 [Đại gia Lã Quang Bình bị cáo buộc hối lộ sếp ngân hàng bằng cổ phiếu](https://vnexpress.net/dai-gia-la-quang-binh-bi-cao-buoc-hoi-lo-sep-ngan-hang-bang-co-phieu-4804265.html) - 04:10 15/10/2024
 - 🎊 [Thêm 6 người kiện ông trùm nhạc rap Diddy tấn công tình dục](https://vnexpress.net/them-6-nguoi-kien-ong-trum-nhac-rap-diddy-tan-cong-tinh-duc-4804254.html) - 03:51 15/10/2024
-- 🤗 [Kẻ cướp xe tải, tông hàng loạt người ở Cần Thơ bị khởi tố](https://vnexpress.net/ke-cuop-xe-tai-tong-hang-loat-nguoi-o-can-tho-bi-khoi-to-4804238.html) - 03:40 15/10/2024
+- 🤗 [Kẻ trộm xe tải, tông hàng loạt người ở Cần Thơ bị khởi tố](https://vnexpress.net/ke-trom-xe-tai-tong-hang-loat-nguoi-o-can-tho-bi-khoi-to-4804238.html) - 03:40 15/10/2024
 - 🗽 [9 năm lật tẩy màn kịch của &#39;tên tội phạm giả chết&#39;](https://vnexpress.net/9-nam-truy-tim-ke-cam-dau-giao-phai-hiep-dam-tre-em-4804000.html) - 18:00 14/10/2024
 - 🕴 [Vay vàng miếng SJC, trả nợ bằng vàng nhẫn 9999 được không?](https://vnexpress.net/vay-vang-sjc-tra-lai-bang-vang-nhan-9999-co-duoc-khong-4803113.html) - 17:00 14/10/2024
 - 🌜 [Bỏ nhầm hơn 100 triệu đồng vào cốp xe người khác](https://vnexpress.net/bo-nham-hon-100-trieu-dong-vao-cop-xe-nguoi-khac-4804093.html) - 14:22 14/10/2024
