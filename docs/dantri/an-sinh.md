@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- dantri-an-sinh:START -->
 - 👺 [Mẹ 5 con nổi tiếng mạng xã hội bị nghi bạo hành, sát hại bé trai](https://dantri.com.vn/an-sinh/me-5-con-noi-tieng-mang-xa-hoi-bi-nghi-bao-hanh-sat-hai-be-trai-20241016102840476.htm) - 06:15 16/10/2024
-- 👀 [Tâm sự &quot;choáng váng&quot; của cụ ông U90 chi 3 tỷ đồng xây lăng mộ cho mình](https://dantri.com.vn/an-sinh/tam-su-choang-vang-cua-cu-ong-u90-chi-3-ty-dong-xay-lang-mo-cho-minh-20241015160539459.htm) - 04:10 16/10/2024
+- 👀 [Cụ ông U90 chia sẻ về việc chi 3 tỷ đồng xây lăng mộ cho mình](https://dantri.com.vn/an-sinh/cu-ong-u90-chia-se-ve-viec-chi-3-ty-dong-xay-lang-mo-cho-minh-20241015160539459.htm) - 04:10 16/10/2024
 - 💡 [Đóng BHXH 15 năm có lương hưu, khuyến khích làm việc sau tuổi nghỉ hưu](https://dantri.com.vn/an-sinh/dong-bhxh-15-nam-co-luong-huu-khuyen-khich-lam-viec-sau-tuoi-nghi-huu-20241015220155983.htm) - 01:28 16/10/2024
 - 💄 [Bi kịch với gia đình bé gái bị bắt cóc cả khi kẻ phạm tội lãnh án tử hình](https://dantri.com.vn/an-sinh/bi-kich-voi-gia-dinh-be-gai-bi-bat-coc-ca-khi-ke-pham-toi-lanh-an-tu-hinh-20241015235948715.htm) - 01:20 16/10/2024
 - 🧠 [Từ 1/7/2025, ai được nghỉ hưu sớm 5-10 tuổi?](https://dantri.com.vn/an-sinh/tu-172025-ai-duoc-nghi-huu-som-5-10-tuoi-20241014045311467.htm) - 23:00 15/10/2024
