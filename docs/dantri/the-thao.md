@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [C.Ronaldo tức giận, Lionel Messi khiến tất cả phải ngả mũ](https://dantri.com.vn/the-thao/cronaldo-tuc-gian-lionel-messi-khien-tat-ca-phai-nga-mu-20241016192646198.htm) - 12:27 16/10/2024
+- 🎡 [C.Ronaldo tức giận, Lionel Messi khiến tất cả phải ngả mũ](https://dantri.com.vn/the-thao/cronaldo-tuc-gian-lionel-messi-khien-tat-ca-phai-nga-mu-20241016192646198.htm) - 13:27 16/10/2024
 - 💯 [Tuyển Việt Nam nhận tin dữ, bị Thái Lan bỏ xa chưa từng thấy](https://dantri.com.vn/the-thao/tuyen-viet-nam-nhan-tin-du-bi-thai-lan-bo-xa-chua-tung-thay-20241016183802999.htm) - 12:01 16/10/2024
 - ⛽️ [Phó chủ tịch VFF: &quot;Đội tuyển Việt Nam phấn đấu vô địch AFF Cup 2024&quot;](https://dantri.com.vn/the-thao/pho-chu-tich-vff-doi-tuyen-viet-nam-phan-dau-vo-dich-aff-cup-2024-20241015232209912.htm) - 09:00 16/10/2024
 - 💃 [Báo Indonesia bất ngờ chỉ trích thậm tệ HLV Shin Tae Yong](https://dantri.com.vn/the-thao/bao-indonesia-bat-ngo-chi-trich-tham-te-hlv-shin-tae-yong-20241016132054883.htm) - 06:37 16/10/2024
