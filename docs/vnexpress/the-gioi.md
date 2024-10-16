@@ -9,7 +9,7 @@ sidebar_position: 2
 - 🤭 [Thách thức với lính Israel khi tiến vào lãnh thổ Lebanon](https://vnexpress.net/thach-thuc-voi-linh-israel-khi-tien-vao-lanh-tho-lebanon-4804641.html) - 12:00 16/10/2024
 - 🧑‍💻 [Ông Zelensky trình &#39;Kế hoạch Chiến thắng&#39; lên quốc hội Ukraine](https://vnexpress.net/ong-zelensky-trinh-ke-hoach-chien-thang-len-quoc-hoi-ukraine-4804993.html) - 11:54 16/10/2024
 - 🦏 [Trump né tránh câu hỏi về &#39;liên lạc với ông Putin&#39;](https://vnexpress.net/trump-ne-tranh-cau-hoi-ve-lien-lac-voi-ong-putin-4804803.html) - 11:05 16/10/2024
-- 🦒 [Nổ xe bồn, 94 người hôi xăng thiệt mạng](https://vnexpress.net/no-xe-bon-94-nguoi-hoi-xang-thiet-mang-4804949.html) - 10:42 16/10/2024
+- 🦒 [Nổ xe bồn, 140 người hôi xăng thiệt mạng](https://vnexpress.net/no-xe-bon-140-nguoi-hoi-xang-thiet-mang-4804949.html) - 10:42 16/10/2024
 - 🌈 [Khoảnh khắc loạt tên lửa Nga liên tiếp lao xuống nhà máy Ukraine](https://vnexpress.net/khoanh-khac-loat-ten-lua-nga-lien-tiep-lao-xuong-nha-may-ukraine-4804668.html) - 10:09 16/10/2024
 - 🧑‍🏫 [Israel không kích Beirut sau gần một tuần im ắng](https://vnexpress.net/israel-khong-kich-beirut-sau-gan-mot-tuan-im-ang-4804853.html) - 09:18 16/10/2024
 - 🐲 [Iran tuyên bố đáp trả quyết liệt nếu bị Israel tấn công](https://vnexpress.net/iran-tuyen-bo-dap-tra-quyet-liet-neu-bi-israel-tan-cong-4804867.html) - 09:14 16/10/2024
