@@ -7,7 +7,7 @@ sidebar_position: 6
 - 🚀 [Người Hàn Quốc nuôi hy vọng bằng xổ số](https://vnexpress.net/nguoi-han-quoc-nuoi-hy-vong-bang-xo-so-4804595.html) - 01:23 16/10/2024
 - 🎓 [Hai thập kỷ làm kem &#39;thong thả&#39; của ông Lý Huy Sáng](https://vnexpress.net/hai-thap-ky-lam-kem-thong-tha-cua-ong-ly-huy-sang-4796494.html) - 01:00 16/10/2024
 - 🚦 [Cơn sốt &#39;túi mù&#39; của giới trẻ Việt](https://vnexpress.net/con-sot-tui-mu-cua-gioi-tre-viet-4802141.html) - 23:00 15/10/2024
-- 🦣 [Canh cá chua kiểu Nam Bộ](https://vnexpress.net/canh-ca-chua-kieu-nam-bo-4804417.html) - 10:24 15/10/2024
+- 🦣 [Canh cá chua kiểu Nam Bộ](https://vnexpress.net/doi-song-cooking-canh-ca-chua-kieu-nam-bo-4804417.html) - 10:24 15/10/2024
 - 🎓 [3 lý do ẩn khiến một người chọn sai bạn đời](https://vnexpress.net/3-ly-do-an-khien-mot-nguoi-chon-sai-ban-doi-4773711.html) - 08:27 15/10/2024
 - 🎭 [Nước đun sôi để được bao lâu?](https://vnexpress.net/nuoc-dun-soi-de-duoc-bao-lau-4804004.html) - 04:10 15/10/2024
 - 🦅 [Bài học cho nhà sáng tạo nội dung trẻ qua &#39;Nghề Chủ Chốt&#39;](https://vnexpress.net/bai-hoc-cho-nha-sang-tao-noi-dung-tre-qua-nghe-chu-chot-4804019.html) - 04:00 15/10/2024
@@ -15,7 +15,7 @@ sidebar_position: 6
 - 💪 [Những quyết định tệ nhất con người đưa ra trong đời](https://vnexpress.net/nhung-quyet-dinh-te-nhat-con-nguoi-dua-ra-trong-doi-4804115.html) - 23:00 14/10/2024
 - 🐻 [Những hiểu lầm về tình dục làm hại hôn nhân](https://vnexpress.net/nhung-hieu-lam-ve-tinh-duc-lam-hai-hon-nhan-4804041.html) - 14:21 14/10/2024
 - 🧠 [Hai bộ trang sức vàng 24K dành cho ngày cưới](https://vnexpress.net/hai-bo-trang-suc-vang-24k-danh-cho-ngay-cuoi-4799896.html) - 12:00 14/10/2024
-- 🐘 [Có nên chần thịt lợn trước khi nấu?](https://vnexpress.net/co-nen-chan-thit-lon-truoc-khi-nau-4803982.html) - 10:00 14/10/2024
+- 🐘 [Có nên chần thịt lợn trước khi nấu?](https://vnexpress.net/doi-song-cooking-co-nen-chan-thit-lon-truoc-khi-nau-4803982.html) - 10:00 14/10/2024
 - 👹 [Cách tập đoàn Wilmar CLV gắn kết cộng đồng](https://vnexpress.net/cach-tap-doan-wilmar-clv-gan-ket-cong-dong-4803910.html) - 09:50 14/10/2024
 - 💂 [Người trẻ Singapore chán công việc ổn định](https://vnexpress.net/nguoi-tre-singapore-chan-cong-viec-on-dinh-4803852.html) - 08:49 14/10/2024
 - 🦍 [4 quy tắc tiền bạc khôn ngoan khi chưa giàu](https://vnexpress.net/4-quy-tac-tien-bac-khon-ngoan-khi-chua-giau-4803807.html) - 05:27 14/10/2024
