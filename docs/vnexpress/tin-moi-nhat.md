@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Người đàn ông Nga kể cách sống sót trong 66 ngày trôi dạt trên biển](https://vnexpress.net/nguoi-dan-ong-nga-ke-cach-song-sot-trong-66-ngay-troi-dat-tren-bien-4804995.html) - 12:36 16/10/2024
+- 🎬 [Người đàn ông Nga lên tiếng sau 66 ngày trôi dạt trên biển](https://vnexpress.net/nguoi-dan-ong-nga-len-tieng-sau-66-ngay-troi-dat-tren-bien-4804995.html) - 12:36 16/10/2024
 - 🐎 [Thế giới sắp đón siêu trăng lớn nhất năm](https://vnexpress.net/the-gioi-sap-don-sieu-trang-lon-nhat-nam-4804998.html) - 12:09 16/10/2024
 - 🦍 [Truyền thông Indonesia: &#39;Trung Quốc kéo chúng ta trở lại mặt đất&#39;](https://vnexpress.net/truyen-thong-indonesia-trung-quoc-keo-chung-ta-tro-lai-mat-dat-4805005.html) - 12:02 16/10/2024
 - 🏊 [Đổ xô xem thầy trò Đường Tăng thỉnh kinh](https://vnexpress.net/do-xo-xem-thay-tro-duong-tang-thinh-kinh-4804865.html) - 12:00 16/10/2024
