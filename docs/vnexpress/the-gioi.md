@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Việt Nam sẵn sàng chia sẻ kinh nghiệm xây dựng hiến pháp với Lào](https://vnexpress.net/viet-nam-san-sang-chia-se-kinh-nghiem-xay-dung-hien-phap-voi-lao-4805472.html) - 12:27 17/10/2024
+- 🎭 [Lào đề nghị Việt Nam chia sẻ kinh nghiệm phát triển nông nghiệp](https://vnexpress.net/lao-de-nghi-viet-nam-chia-se-kinh-nghiem-phat-trien-nong-nghiep-4805472.html) - 12:27 17/10/2024
 - 🕴 [Bà Pelosi không muốn nhắc tên ông Trump](https://vnexpress.net/ba-pelosi-khong-muon-nhac-ten-ong-trump-4805322.html) - 11:27 17/10/2024
 - 🤭 [Nhật Bản tìm kiếm hai người Việt bị sóng cuốn trôi](https://vnexpress.net/nhat-ban-tim-kiem-hai-nguoi-viet-bi-song-cuon-troi-4805440.html) - 10:59 17/10/2024
 - 🧑‍💻 [Việt Nam bình luận về việc dẫn độ kẻ chủ mưu vụ khủng bố Đăk Lăk](https://vnexpress.net/viet-nam-binh-luan-ve-viec-dan-do-ke-chu-muu-vu-khung-bo-dak-lak-4805424.html) - 10:18 17/10/2024
