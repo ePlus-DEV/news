@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Chưa phát hiện dấu hiệu án mạng vụ thi thể ở quán karaoke An Phú](https://vnexpress.net/chua-phat-hien-dau-hieu-an-mang-vu-thi-the-o-quan-karaoke-an-phu-4805188.html) - 04:01 17/10/2024
 - 🥰 [Chồng đốt vợ trong khi chờ ly hôn](https://vnexpress.net/chong-dot-vo-trong-khi-cho-ly-hon-4805109.html) - 02:15 17/10/2024
 - 🎓 [&#39;Mẹ mìn&#39; bắt cóc nhiều trẻ em suốt 20 năm](https://vnexpress.net/me-min-bat-coc-nhieu-tre-em-suot-20-nam-4805045.html) - 00:51 17/10/2024
-- 🤓 [Tòa tuyên án bà Trương Mỹ Lan](https://vnexpress.net/toa-tuyen-an-ba-truong-my-lan-4804926.html) - 00:43 17/10/2024
+- 🤓 [Tòa: &#39;SCB dụ dỗ người gửi tiền mua trái phiếu&#39;](https://vnexpress.net/toa-scb-du-do-nguoi-gui-tien-mua-trai-phieu-4804926.html) - 00:43 17/10/2024
 - 🎊 [Quá hạn sang tên sổ đỏ bị phạt tới 3 triệu đồng?](https://vnexpress.net/qua-han-sang-ten-so-do-bi-phat-toi-3-trieu-dong-4804316.html) - 17:00 16/10/2024
 - 🙉 [Quan tham có hơn 1.000 bất động sản, &#39;ôm&#39; 5 valy tiền khi bỏ trốn](https://vnexpress.net/quan-tham-co-hon-1-000-bat-dong-san-dung-5-valy-van-chuyen-tien-mat-4804796.html) - 13:28 16/10/2024
 - 🤡 [Bị bắt vì tung video nhạy cảm của người yêu cũ lên mạng](https://vnexpress.net/bi-bat-vi-tung-video-nhay-cam-cua-nguoi-yeu-cu-len-mang-4804976.html) - 11:24 16/10/2024
