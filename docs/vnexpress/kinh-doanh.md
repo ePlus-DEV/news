@@ -11,7 +11,7 @@ sidebar_position: 3
 - 🦅 [Cổ phiếu chứng khoán, địa ốc, ngân hàng trở lại đường đua](https://vnexpress.net/chung-khoan-hom-nay-17-10-co-phieu-chung-khoan-dia-oc-ngan-hang-tro-lai-duong-dua-4805380.html) - 09:15 17/10/2024
 - 😺 [Lộc Trời bổ nhiệm kế toán trưởng làm CEO](https://vnexpress.net/loc-troi-bo-nhiem-ke-toan-truong-lam-ceo-4805367.html) - 09:10 17/10/2024
 - 🤩 [Chính thức chuyển giao hai ngân hàng 0 đồng](https://vnexpress.net/chinh-thuc-chuyen-giao-hai-ngan-hang-0-dong-4805009.html) - 08:57 17/10/2024
-- 🌮 [Nhật Bản sẽ xem xét việc tham gia dự án đường sắt tốc độ cao Bắc Nam](https://vnexpress.net/nhat-ban-se-xem-xet-viec-tham-gia-du-an-duong-sat-toc-do-cao-bac-nam-4805327.html) - 08:32 17/10/2024
+- 🌮 [&#39;Việt Nam có thể tham khảo Nhật Bản khi làm đường sắt tốc độ cao Bắc Nam&#39;](https://vnexpress.net/viet-nam-co-the-tham-khao-nhat-ban-khi-lam-duong-sat-toc-do-cao-bac-nam-4805327.html) - 08:32 17/10/2024
 - 🧰 [Giá xăng về dưới 21.000 đồng một lít](https://vnexpress.net/gia-xang-moi-nhat-hom-nay-17-10-4805286.html) - 07:30 17/10/2024
 - 🤔 [Chuyến bay Vietjet đầu tiên dùng nhiên liệu SAF tra nạp tại Việt Nam](https://vnexpress.net/chuyen-bay-vietjet-dau-tien-dung-nhien-lieu-saf-tra-nap-tai-viet-nam-4805266.html) - 05:30 17/10/2024
 - 🧑‍💻 [Xuất khẩu Nhật Bản lần đầu giảm trong 10 tháng](https://vnexpress.net/xuat-khau-nhat-ban-lan-dau-giam-trong-10-thang-4805181.html) - 04:50 17/10/2024
