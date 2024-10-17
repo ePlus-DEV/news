@@ -5,7 +5,7 @@ sidebar_position: 24
 
 <!-- dantri-o-to-xe-may:START -->
 - 🤡 [Xe điện tí hon Microlino Spiaggina đã sẵn sàng đi vào sản xuất](https://dantri.com.vn/o-to-xe-may/xe-dien-ti-hon-microlino-spiaggina-da-san-sang-di-vao-san-xuat-20241017094112737.htm) - 11:26 17/10/2024
-- 🧑‍💻 [Chiếc ô tô quyết tranh đường với xe máy trên cầu Chương Dương gây chú ý](https://dantri.com.vn/o-to-xe-may/chiec-o-to-quyet-tranh-duong-voi-xe-may-tren-cau-chuong-duong-gay-chu-y-20241017110514032.htm) - 07:28 17/10/2024
+- 🧑‍💻 [Chiếc ô tô quyết tranh đường với xe máy trên cầu Đuống gây chú ý](https://dantri.com.vn/o-to-xe-may/chiec-o-to-quyet-tranh-duong-voi-xe-may-tren-cau-duong-gay-chu-y-20241017110514032.htm) - 07:28 17/10/2024
 - 🧑‍💻 [Lý do nhiều tài xế chọn đầu quân Xanh SM](https://dantri.com.vn/o-to-xe-may/ly-do-nhieu-tai-xe-chon-dau-quan-xanh-sm-20241017130408399.htm) - 07:19 17/10/2024
 - 🎓 [Cơ quan chức năng Mỹ ví ô tô điện ngập nước trong bão giống như bom nổ chậm](https://dantri.com.vn/o-to-xe-may/co-quan-chuc-nang-my-vi-o-to-dien-ngap-nuoc-trong-bao-giong-nhu-bom-no-cham-20241016110026061.htm) - 06:21 17/10/2024
 - 🌊 [Lái thử VF 5 Plus, nhiều người yêu thích xe điện](https://dantri.com.vn/o-to-xe-may/lai-thu-vf-5-plus-nhieu-nguoi-yeu-thich-xe-dien-20241017102844596.htm) - 03:41 17/10/2024
