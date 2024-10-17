@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Người phát ngôn trả lời việc Campuchia rút khỏi tam giác phát triển CLV](https://dantri.com.vn/xa-hoi/nguoi-phat-ngon-tra-loi-viec-campuchia-rut-khoi-tam-giac-phat-trien-clv-20241017164859202.htm) - 10:15 17/10/2024
+- 🎭 [Người phát ngôn trả lời việc Campuchia rút khỏi tam giác phát triển Campuchia - Lào - Việt Nam](https://dantri.com.vn/xa-hoi/nguoi-phat-ngon-tra-loi-viec-campuchia-rut-khoi-tam-giac-phat-trien-campuchia-lao-viet-nam-20241017164859202.htm) - 10:15 17/10/2024
 - 👨‍🏫 [Mưa lớn kết hợp triều cường gây ngập nhiều nơi ở TPHCM](https://dantri.com.vn/xa-hoi/mua-lon-ket-hop-trieu-cuong-gay-ngap-nhieu-noi-o-tphcm-20241017171220450.htm) - 10:12 17/10/2024
 - 🌮 [Chồng, cháu gái bà Trương Mỹ Lan lĩnh mức án ra sao?](https://dantri.com.vn/phap-luat/chong-chau-gai-ba-truong-my-lan-linh-muc-an-ra-sao-20240927132657223.htm) - 10:00 17/10/2024
 - 🕯 [Bữa trưa toàn đậu hũ của lao động Việt tại Nhật, đổi lương 33 triệu đồng](https://dantri.com.vn/lao-dong-viec-lam/bua-trua-toan-dau-hu-cua-lao-dong-viet-tai-nhat-doi-luong-33-trieu-dong-20241017130554172.htm) - 09:47 17/10/2024
