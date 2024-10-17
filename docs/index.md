@@ -32,7 +32,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌏 [Đường trục phát triển kinh tế ngoại thành Hà Nội sắp hoàn thành](https://vnexpress.net/duong-truc-phat-trien-kinh-te-ngoai-thanh-ha-noi-sap-hoan-thanh-4804929.html) - 22:00 17/10/2024
 - 🧐 [Hãng tivi Trung Quốc ra mắt xe điện mới ở châu Âu](https://vnexpress.net/hang-tivi-trung-quoc-ra-mat-xe-dien-moi-o-chau-au-4805184.html) - 22:00 17/10/2024
 - 💫 [Chủ nhân Nobel Kinh tế 2024 dùng thể chế giải thích chênh lệch giàu - nghèo](https://vnexpress.net/chu-nhan-nobel-kinh-te-2024-dung-the-che-giai-thich-chenh-lech-giau-ngheo-4805530.html) - 21:50 17/10/2024
-- 😺 [Mặt bằng phố mất vị thế thương mại](https://vnexpress.net/mat-bang-pho-mat-vi-the-thuong-mai-4805527.html) - 21:00 17/10/2024
+- 😺 [Mặt bằng phố giảm vị thế thương mại](https://vnexpress.net/mat-bang-pho-giam-vi-the-thuong-mai-4805527.html) - 21:00 17/10/2024
 - 🕯 [Châu Âu giảm thêm 0,25% lãi suất](https://vnexpress.net/chau-au-giam-them-0-25-lai-suat-4805521.html) - 19:34 17/10/2024
 - 💃 [&#39;Chi phí ghép tế bào gốc ở Việt Nam rẻ&#39;](https://vnexpress.net/chi-phi-ghep-te-bao-goc-o-viet-nam-re-4805500.html) - 19:00 17/10/2024
 - 💂 [5 ngày ghép gan 3 ca, bác sĩ tăng tốc cứu trẻ khỏi cửa tử](https://vnexpress.net/5-ngay-ghep-gan-3-ca-bac-si-tang-toc-cuu-tre-khoi-cua-tu-4805319.html) - 19:00 17/10/2024
