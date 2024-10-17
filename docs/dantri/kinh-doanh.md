@@ -4,10 +4,10 @@ sidebar_position: 5
 ---
 
 <!-- dantri-kinh-doanh:START -->
-- 🏊 [Chuyên gia EuroCharm: &quot;Việt Nam đi đúng hướng để tiên phong phát triển năng lượng sạch&quot;](https://dantri.com.vn/kinh-doanh/chuyen-gia-eurocharm-viet-nam-di-dung-huong-de-tien-phong-phat-trien-nang-luong-sach-20241017104202550.htm) - 04:00 17/10/2024
-- 🦆 [Một doanh nghiệp ô tô không có đồng doanh thu nào trong quý III](https://dantri.com.vn/kinh-doanh/mot-doanh-nghiep-o-to-khong-co-dong-doanh-thu-nao-trong-quy-iii-20241017091642150.htm) - 03:23 17/10/2024
-- 🦄 [Giải pháp vay mua nhà lãi suất từ 5,9%/năm, miễn trả gốc 5 năm](https://dantri.com.vn/kinh-doanh/giai-phap-vay-mua-nha-lai-suat-tu-59nam-mien-tra-goc-5-nam-20241016190001961.htm) - 01:00 17/10/2024
-- 🌝 [Giá bán vàng nhẫn lập kỷ lục mới gần 84 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/gia-ban-vang-nhan-lap-ky-luc-moi-gan-84-trieu-dongluong-20241017071117901.htm) - 00:18 17/10/2024
+- 🏊 [Vàng nhẫn trơn xô đổ mọi kỷ lục, giá bán vượt 84 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/vang-nhan-tron-xo-do-moi-ky-luc-gia-ban-vuot-84-trieu-dongluong-20241017071117901.htm) - 05:56 17/10/2024
+- 🦆 [Chuyên gia EuroCharm: &quot;Việt Nam đi đúng hướng để tiên phong phát triển năng lượng sạch&quot;](https://dantri.com.vn/kinh-doanh/chuyen-gia-eurocharm-viet-nam-di-dung-huong-de-tien-phong-phat-trien-nang-luong-sach-20241017104202550.htm) - 04:00 17/10/2024
+- 🦄 [Một doanh nghiệp ô tô không có đồng doanh thu nào trong quý III](https://dantri.com.vn/kinh-doanh/mot-doanh-nghiep-o-to-khong-co-dong-doanh-thu-nao-trong-quy-iii-20241017091642150.htm) - 03:23 17/10/2024
+- 🌝 [Giải pháp vay mua nhà lãi suất từ 5,9%/năm, miễn trả gốc 5 năm](https://dantri.com.vn/kinh-doanh/giai-phap-vay-mua-nha-lai-suat-tu-59nam-mien-tra-goc-5-nam-20241016190001961.htm) - 01:00 17/10/2024
 - 💃 [Hồ sơ 2 thành viên 8x được bầu bổ sung vào HĐQT VietinBank](https://dantri.com.vn/kinh-doanh/ho-so-2-thanh-vien-8x-duoc-bau-bo-sung-vao-hdqt-vietinbank-20241016211144675.htm) - 00:12 17/10/2024
 - 🦏 [Long Châu và đối tác chung tay mang môi trường học sạch sẽ đến học sinh vùng cao](https://dantri.com.vn/kinh-doanh/long-chau-va-doi-tac-chung-tay-mang-moi-truong-hoc-sach-se-den-hoc-sinh-vung-cao-20241016113634297.htm) - 00:00 17/10/2024
 - 🦩 [IMF: Nợ công toàn cầu sẽ vượt 100.000 tỷ USD năm nay](https://dantri.com.vn/kinh-doanh/imf-no-cong-toan-cau-se-vuot-100000-ty-usd-nam-nay-20241016205947445.htm) - 15:50 16/10/2024
