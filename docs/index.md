@@ -27,7 +27,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Bố mẹ gọi tôi là &#39;đứa lập dị&#39; vì 30 tuổi không chịu lấy chồng](https://vnexpress.net/bo-me-goi-toi-la-dua-lap-di-vi-30-tuoi-khong-chiu-lay-chong-4805323.html) - 15:00 17/10/2024
-- 🧰 [Vận hành Cổng thông tin truy xuất nguồn gốc quốc gia](https://vnexpress.net/van-hanh-cong-thong-tin-truy-xuat-nguon-goc-quoc-gia-4805485.html) - 14:42 17/10/2024
+- 🧰 [Cổng thông tin truy xuất nguồn gốc quốc gia vận hành từ tháng 10](https://vnexpress.net/cong-thong-tin-truy-xuat-nguon-goc-quoc-gia-van-hanh-tu-thang-10-4805485.html) - 14:42 17/10/2024
 - 🥰 [Israel có thể đã hạ sát thủ lĩnh Hamas](https://vnexpress.net/israel-co-the-da-ha-sat-thu-linh-hamas-4805504.html) - 14:35 17/10/2024
 - 🌏 [Đâm chết bạn gái trong nhà nghỉ](https://vnexpress.net/dam-chet-ban-gai-trong-nha-nghi-4805508.html) - 14:31 17/10/2024
 - 🧐 [20 tình nguyện viên Mỹ đến Việt Nam dạy tiếng Anh](https://vnexpress.net/20-tinh-nguyen-vien-my-den-viet-nam-day-tieng-anh-4805478.html) - 14:20 17/10/2024
