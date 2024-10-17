@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Xe chết máy la liệt trong ngày triều cường dâng cao](https://vnexpress.net/xe-chet-may-la-liet-trong-ngay-trieu-cuong-dang-cao-4805480.html) - 12:02 17/10/2024
+- 🦒 [Xe chết máy la liệt trong ngày triều cường](https://vnexpress.net/xe-chet-may-la-liet-trong-ngay-trieu-cuong-4805480.html) - 12:02 17/10/2024
 - 🤓 [Hơn 9.300 tàu cá không đủ điều kiện hoạt động](https://vnexpress.net/hon-9-300-tau-ca-khong-du-dieu-kien-hoat-dong-4805303.html) - 09:14 17/10/2024
 - ⚗️ [Mức phí cao tốc do nhà nước đầu tư được tính thế nào](https://vnexpress.net/muc-phi-cao-toc-do-nha-nuoc-dau-tu-duoc-tinh-the-nao-4805152.html) - 08:53 17/10/2024
 - 🌊 [Đề xuất người Việt Nam ở nước ngoài được ứng cử đại biểu Quốc hội](https://vnexpress.net/de-xuat-nguoi-viet-nam-o-nuoc-ngoai-duoc-ung-cu-dai-bieu-quoc-hoi-4805297.html) - 08:33 17/10/2024
