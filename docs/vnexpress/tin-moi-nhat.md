@@ -50,7 +50,4 @@ sidebar_position: 9
 - 🎊 [Xe tăng Israel bị tố bắn hỏng đài quan sát của UNIFIL](https://vnexpress.net/xe-tang-israel-bi-to-ban-hong-dai-quan-sat-cua-unifil-4805072.html) - 00:01 17/10/2024
 - 👺 [Du lịch Việt chờ ngày &#39;cùng thắng&#39; với visa chung 6 nước Đông Nam Á](https://vnexpress.net/du-lich-viet-cho-ngay-cung-thang-voi-visa-chung-6-nuoc-dong-nam-a-4803355.html) - 00:00 17/10/2024
 - 🎡 [Apple và Samsung bằng nhau về thị phần smartphone](https://vnexpress.net/apple-va-samsung-bang-nhau-ve-thi-phan-smartphone-4804587.html) - 00:00 17/10/2024
-- 👍 [Triều Tiên xác nhận cho nổ nhiều đoạn đường nối với Hàn Quốc](https://vnexpress.net/trieu-tien-xac-nhan-cho-no-nhieu-doan-duong-noi-voi-han-quoc-4805070.html) - 23:39 16/10/2024
-- 🐎 [Cựu thành viên One Direction qua đời ở tuổi 31](https://vnexpress.net/cuu-thanh-vien-one-direction-qua-doi-o-tuoi-31-4805075.html) - 23:34 16/10/2024
-- 🏊 [Runner U50 hoàn thành 31 giải marathon từ đầu năm 2024](https://vnexpress.net/runner-u50-hoan-thanh-31-giai-marathon-tu-dau-nam-2024-4804986.html) - 23:33 16/10/2024
-- 🦩 [Bahrain không muốn thi đấu ở Indonesia vì bị doạ giết](https://vnexpress.net/bahrain-khong-muon-thi-dau-o-indonesia-vi-bi-doa-giet-4805063.html) - 23:25 16/10/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 👍 [Triều Tiên xác nhận cho nổ nhiều đoạn đường nối với Hàn Quốc](https://vnexpress.net/trieu-tien-xac-nhan-cho-no-nhieu-doan-duong-noi-voi-han-quoc-4805070.html) - 23:39 16/10/2024<!-- vnexpress-tin-moi-nhat:END -->
