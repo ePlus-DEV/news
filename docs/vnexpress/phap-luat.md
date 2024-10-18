@@ -10,7 +10,7 @@ sidebar_position: 12
 - 🤓 [Con gái vờ bị bắt cóc để tống tiền cha 5 tỷ đồng](https://vnexpress.net/con-gai-vo-bi-bat-coc-de-tong-tien-cha-5-ty-dong-4805711.html) - 05:12 18/10/2024
 - 🎊 [Lái ôtô đi đục tường nhà dân, trộm vàng](https://vnexpress.net/trom-duc-tuong-4805673.html) - 03:59 18/10/2024
 - 🙉 [Tông vào người đi sai đường, có phải bồi thường?](https://vnexpress.net/tong-vao-nguoi-di-sai-duong-co-phai-boi-thuong-4805196.html) - 01:03 18/10/2024
-- 🤡 [Camera ghi cảnh trộm ôtô trong 30 giây](https://vnexpress.net/camera-ghi-canh-trom-oto-trong-30-giay-4805517.html) - 17:00 17/10/2024
+- 🤡 [Camera ghi cảnh lén lấy ôtô trong 30 giây](https://vnexpress.net/camera-ghi-canh-len-lay-oto-trong-30-giay-4805517.html) - 17:00 17/10/2024
 - 🗽 [Đâm chết bạn gái trong nhà nghỉ](https://vnexpress.net/dam-chet-ban-gai-trong-nha-nghi-4805508.html) - 14:31 17/10/2024
 - 🌋 [Khối tài sản &#39;khủng&#39; liên quan bà Trương Mỹ Lan được xử lý thế nào](https://vnexpress.net/khoi-tai-san-khung-lien-quan-ba-truong-my-lan-duoc-xu-ly-the-nao-4805489.html) - 13:32 17/10/2024
 - 🎬 [Cuộc sống hai mặt của người vợ bí mật bán dâm](https://vnexpress.net/cuoc-song-hai-mat-cua-nguoi-vo-bi-mat-ban-dam-4805434.html) - 13:30 17/10/2024
