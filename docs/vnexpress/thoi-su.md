@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Thùng hàng ôtô container lật giữa vòng xoay trung tâm TP HCM](https://vnexpress.net/thung-hang-oto-container-lat-giua-vong-xoay-trung-tam-tp-hcm-4805596.html) - 02:01 18/10/2024
+- 🦒 [Thùng container lật giữa vòng xoay trung tâm TP HCM](https://vnexpress.net/thung-container-lat-giua-vong-xoay-trung-tam-tp-hcm-4805596.html) - 02:01 18/10/2024
 - 🤓 [Đường trục phát triển kinh tế ngoại thành Hà Nội sắp hoàn thành](https://vnexpress.net/duong-truc-phat-trien-kinh-te-ngoai-thanh-ha-noi-sap-hoan-thanh-4804929.html) - 22:00 17/10/2024
 - ⚗️ [Hàng loạt dự án bỏ hoang trên &#39;đất vàng&#39; TP Vinh](https://vnexpress.net/hang-loat-du-an-bo-hoang-tren-dat-vang-tp-vinh-4804927.html) - 17:00 17/10/2024
 - 🌊 [Cuộc sống người dân TP HCM đảo lộn trong ngày triều cường](https://vnexpress.net/cuoc-song-nguoi-dan-tp-hcm-dao-lon-trong-ngay-trieu-cuong-4805480.html) - 12:02 17/10/2024
