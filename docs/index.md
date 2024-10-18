@@ -146,7 +146,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Đối tượng nào bị ảnh hưởng bởi Bảng giá đất mới tại TP.HCM](https://thanhnien.vn/doi-tuong-nao-bi-anh-huong-boi-bang-gia-dat-moi-tai-tphcm-185241018133159807.htm) - 06:47 18/10/2024
+- 🤠 [Đối tượng nào bị ảnh hưởng bởi bảng giá đất mới tại TP.HCM](https://thanhnien.vn/doi-tuong-nao-bi-anh-huong-boi-bang-gia-dat-moi-tai-tphcm-185241018133159807.htm) - 06:47 18/10/2024
 - 🥸 [Đề nghị truy tố 4 cán bộ trong vụ sạt lở taluy ở Đà Lạt](https://thanhnien.vn/de-nghi-truy-to-4-can-bo-trong-vu-sat-lo-taluy-o-da-lat-185241018125308828.htm) - 06:44 18/10/2024
 - 🌁 [Cần có các giải pháp phù hợp với nhu cầu chính đáng của thanh niên](https://thanhnien.vn/can-co-cac-giai-phap-phu-hop-voi-nhu-cau-chinh-dang-cua-thanh-nien-185241017214021713.htm) - 06:43 18/10/2024
 - 🤡 [Đội tuyển Việt Nam săn bàn thắng: Tiến Linh, Vĩ Hào và ai nữa?](https://thanhnien.vn/doi-tuyen-viet-nam-san-ban-thang-tien-linh-vi-hao-va-ai-nua-18524101813150231.htm) - 06:38 18/10/2024
