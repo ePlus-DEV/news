@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Đời thực khác xa trên phim của mỹ nhân vào vai gái làng chơi phim &quot;Độc đạo&quot;](https://dantri.com.vn/giai-tri/doi-thuc-khac-xa-tren-phim-cua-my-nhan-vao-vai-gai-lang-choi-phim-doc-dao-20241018093146237.htm) - 13:32 18/10/2024
+- 🤩 [Đời thực khác trên phim của mỹ nhân vào vai gái làng chơi trong &quot;Độc đạo&quot;](https://dantri.com.vn/giai-tri/doi-thuc-khac-tren-phim-cua-my-nhan-vao-vai-gai-lang-choi-trong-doc-dao-20241018093146237.htm) - 13:32 18/10/2024
 - 🔥 [Nghệ sĩ Trần Mạnh Tuấn trở lại Huế trong sự kiện âm nhạc &quot;chưa từng có&quot;](https://dantri.com.vn/giai-tri/nghe-si-tran-manh-tuan-tro-lai-hue-trong-su-kien-am-nhac-chua-tung-co-20241018150704118.htm) - 11:01 18/10/2024
 - 🚀 [Phong cách thời trang ấn tượng của tiểu thư sành điệu trong &quot;Gossip Girl&quot;](https://dantri.com.vn/giai-tri/phong-cach-thoi-trang-an-tuong-cua-tieu-thu-sanh-dieu-trong-gossip-girl-20241018121050328.htm) - 10:12 18/10/2024
 - 🔥 [Huyền sử Hành Thiện - ngôi làng hình cá chép độc nhất Việt Nam](https://dantri.com.vn/giai-tri/huyen-su-hanh-thien-ngoi-lang-hinh-ca-chep-doc-nhat-viet-nam-20241017192423983.htm) - 09:39 18/10/2024
