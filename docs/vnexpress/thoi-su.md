@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cháy ở tòa nhà 7 tầng](https://vnexpress.net/chay-o-toa-nha-7-tang-4805891.html) - 15:13 18/10/2024
+- 🦒 [Cháy tòa nhà 7 tầng ở Đà Nẵng](https://vnexpress.net/chay-toa-nha-7-tang-o-da-nang-4805891.html) - 15:13 18/10/2024
 - 🤓 [Nhà dân bị &#39;cô lập&#39; ngày triều cường ở TP HCM cao nhất từ đầu năm](https://vnexpress.net/nha-dan-bi-co-lap-ngay-trieu-cuong-o-tp-hcm-cao-nhat-tu-dau-nam-4805869.html) - 13:30 18/10/2024
 - ⚗️ [Ông Mai Sơn làm quyền Chủ tịch tỉnh Bắc Giang](https://vnexpress.net/ong-mai-son-lam-quyen-chu-tich-tinh-bac-giang-4805849.html) - 10:50 18/10/2024
 - 🌊 [Quang Linh Vlogs là Ủy viên Mặt trận Tổ quốc Việt Nam](https://vnexpress.net/quang-linh-vlogs-la-uy-vien-mat-tran-to-quoc-viet-nam-4805843.html) - 10:40 18/10/2024
