@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Nóng: Công bố đề thi minh họa tốt nghiệp THPT 2025](https://dantri.com.vn/giao-duc/nong-cong-bo-de-thi-minh-hoa-tot-nghiep-thpt-2025-20241018143131306.htm) - 07:15 18/10/2024
+- 🤡 [Công bố đề thi minh họa tốt nghiệp THPT 2025](https://dantri.com.vn/giao-duc/cong-bo-de-thi-minh-hoa-tot-nghiep-thpt-2025-20241018143131306.htm) - 07:15 18/10/2024
 - 🗽 [Cô giáo Hà Nội từ chối nhận quà 20/10, tự nguyện ủng hộ sửa điều hòa lớp](https://dantri.com.vn/giao-duc/co-giao-ha-noi-tu-choi-nhan-qua-2010-tu-nguyen-ung-ho-sua-dieu-hoa-lop-20241018123028400.htm) - 05:40 18/10/2024
 - 🚦 [Trường đại học từng thu sai 37 tỷ đồng lại vướng loạt sai phạm](https://dantri.com.vn/giao-duc/truong-dai-hoc-tung-thu-sai-37-ty-dong-lai-vuong-loat-sai-pham-20241010093221459.htm) - 04:26 18/10/2024
 - 🌋 [Vụ cô giáo &quot;tác động vật lý&quot;: Nhiều học sinh bị xoắn tai, đánh vào đầu](https://dantri.com.vn/giao-duc/vu-co-giao-tac-dong-vat-ly-nhieu-hoc-sinh-bi-xoan-tai-danh-vao-dau-20241018065932264.htm) - 01:26 18/10/2024
