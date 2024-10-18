@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Hà Trí Quang cải tạo vườn xoài 5.000 m2 để làm tiệc cưới](https://vnexpress.net/ha-tri-quang-cai-tao-vuon-xoai-5-000-m2-de-lam-tiec-cuoi-4805579.html) - 13:04 18/10/2024
-- 💫 [Diễm My 9X phối đồ năng động khi đi du lịch](https://vnexpress.net/diem-my-9x-phoi-do-nang-dong-khi-di-du-lich-4803309.html) - 12:00 18/10/2024
-- 🌮 [Hà Kino cùng dàn sao ủng hộ bình đẳng giới](https://vnexpress.net/ha-kino-cung-dan-sao-ung-ho-binh-dang-gioi-4805578.html) - 10:06 18/10/2024
-- 🧠 [Mỹ nhân &#39;Tuyệt đỉnh kungfu&#39; tiết lộ hôn nhân ngột ngạt](https://vnexpress.net/my-nhan-tuyet-dinh-kungfu-tiet-lo-hon-nhan-ngot-ngat-4805770.html) - 08:52 18/10/2024
-- 👨‍🏫 [Chopard được đề cử 6 hạng mục tại giải &#39;Oscars đồng hồ&#39;](https://vnexpress.net/chopard-duoc-de-cu-6-hang-muc-tai-giai-oscars-dong-ho-4805387.html) - 07:00 18/10/2024
-- ⚗️ [Lê Giang: &#39;Tôi đổi đời khi về nước đóng phim&#39;](https://vnexpress.net/le-giang-toi-doi-doi-khi-ve-nuoc-dong-phim-4804871.html) - 04:39 18/10/2024
-- 😎 [Quế Anh hát &#39;Đất nước lời ru&#39; tại Miss Grand International](https://vnexpress.net/que-anh-hat-dat-nuoc-loi-ru-tai-miss-grand-international-4805632.html) - 04:05 18/10/2024
-- 🫣 [Giáo hoàng Francis sắp ra mắt tự truyện](https://vnexpress.net/giao-hoang-francis-sap-ra-mat-tu-truyen-4805131.html) - 03:52 18/10/2024
-- 🪄 [Nhóm One Direction tưởng nhớ Liam Payne](https://vnexpress.net/nhom-one-direction-tuong-nho-liam-payne-4805561.html) - 02:50 18/10/2024
-- 🤓 [Lưu Diệc Phi tạo dáng dưới &#39;mưa hoa hồng&#39;](https://vnexpress.net/luu-diec-phi-tao-dang-duoi-mua-hoa-hong-4805584.html) - 02:25 18/10/2024
-- 🫶 [&#39;La Chimera&#39; - chuyện tình của chàng trộm mộ](https://vnexpress.net/giai-tri/phim/thu-vien-phim/la-chimera-738) - 01:47 18/10/2024
-- 🧑‍🏫 [&#39;Return to Space&#39; - khát vọng chinh phục vũ trụ của Elon Musk](https://vnexpress.net/giai-tri/phim/thu-vien-phim/return-to-space-739) - 17:00 17/10/2024
-- 🦄 [Sắc vóc &#39;thiên thần nội y&#39; Candice Swanepoel](https://vnexpress.net/sac-voc-thien-than-noi-y-candice-swanepoel-4805436.html) - 13:47 17/10/2024
-- 💫 [Kỳ Duyên &#39;tha thứ cho mọi sai lầm của bản thân&#39;](https://vnexpress.net/ky-duyen-tha-thu-cho-moi-sai-lam-cua-ban-than-4805268.html) - 12:18 17/10/2024
-- 🎊 [Cô gái Trung Quốc gây chú ý ở show Victoria&#39;s Secret](https://vnexpress.net/co-gai-trung-quoc-gay-chu-y-o-show-victoria-s-secret-4805325.html) - 12:00 17/10/2024
-- 👹 [Triển lãm của họa sĩ mê phế liệu](https://vnexpress.net/trien-lam-cua-hoa-si-me-phe-lieu-4803056.html) - 10:11 17/10/2024
-- 💻 [&#39;Bay qua Hồ Gươm&#39; - Hà Nội qua thơ](https://vnexpress.net/bay-qua-ho-guom-ha-noi-qua-tho-4805245.html) - 09:11 17/10/2024
-- 🤡 [Góc khuất sau hào quang của Liam Payne](https://vnexpress.net/goc-khuat-sau-hao-quang-cua-liam-payne-4805142.html) - 08:51 17/10/2024
-- 🥰 [Minh tinh Thái bị bắt](https://vnexpress.net/minh-tinh-thai-bi-bat-4805326.html) - 08:36 17/10/2024
-- 🚀 [Jennie diện đồ của NTK Việt trên sân khấu](https://vnexpress.net/jennie-dien-do-cua-ntk-viet-tren-san-khau-4805163.html) - 05:04 17/10/2024
-- 📝 [&#39;Ừ thôi em lấy chồng&#39; - tâm tình phụ nữ qua thơ Nồng Nàn Phố](https://vnexpress.net/u-thoi-em-lay-chong-tam-tinh-phu-nu-qua-tho-nong-nan-pho-4805149.html) - 04:29 17/10/2024
-- 🐲 [Nhan sắc Hoa hậu Thế giới Ấn Độ 2024](https://vnexpress.net/nhan-sac-hoa-hau-the-gioi-an-do-2024-4805143.html) - 03:18 17/10/2024
-- 🎃 [Thiết kế của Prada sẽ xuất hiện trên Mặt Trăng](https://vnexpress.net/thiet-ke-cua-prada-se-xuat-hien-tren-mat-trang-4805145.html) - 02:43 17/10/2024
-- 🤠 [7 kiểu thiết kế sao Việt lăng xê đầu thu](https://vnexpress.net/7-kieu-thiet-ke-sao-viet-lang-xe-dau-thu-4801731.html) - 02:12 17/10/2024
-- 🎭 [Cựu thành viên One Direction qua đời ở tuổi 31](https://vnexpress.net/cuu-thanh-vien-one-direction-qua-doi-o-tuoi-31-4805075.html) - 23:34 16/10/2024
-- 🧰 [Dàn sao &#39;Chị đẹp đạp gió 2024&#39; ra mắt](https://vnexpress.net/dan-sao-chi-dep-dap-gio-2024-ra-mat-4805006.html) - 23:15 16/10/2024
-- 🦍 [Cách duy trì thanh xuân của &#39;Đoàn Dự&#39; Lâm Chí Dĩnh](https://vnexpress.net/cach-duy-tri-thanh-xuan-cua-doan-du-lam-chi-dinh-4804939.html) - 17:00 16/10/2024
-- 🌝 [Quế Anh vào top diễn áo tắm đẹp tại Miss Grand International](https://vnexpress.net/que-anh-vao-top-dien-ao-tam-dep-tai-miss-grand-international-4804923.html) - 15:44 16/10/2024
-- 🧑‍💻 [Nghệ sĩ Măng Thị Hội tái xuất với &#39;Bóng cây Kơnia&#39;](https://vnexpress.net/nghe-si-mang-thi-hoi-tai-xuat-voi-bong-cay-konia-4804895.html) - 11:19 16/10/2024
-- 🥸 [Cuộc đời ẩn dật của nhà văn Gerald Murnane](https://vnexpress.net/cuoc-doi-an-dat-cua-nha-van-gerald-murnane-4802938.html) - 08:56 16/10/2024
-- 🔥 [Bạn gái nhiếp ảnh gia của Romeo Beckham](https://vnexpress.net/ban-gai-nhiep-anh-gia-cua-romeo-beckham-4804422.html) - 08:30 16/10/2024
-- 🐎 [Taylor Swift ra mắt sách ảnh về concert &#39;The Eras Tour&#39;](https://vnexpress.net/taylor-swift-ra-mat-sach-anh-ve-concert-the-eras-tour-4804741.html) - 08:13 16/10/2024
-- 😎 [Váy áo mùa thu của tỷ phú Trung Quốc](https://vnexpress.net/vay-ao-mua-thu-cua-ty-phu-trung-quoc-4804726.html) - 05:00 16/10/2024
-- 🦄 [&#39;Tuyệt đỉnh kungfu&#39; - giấc mơ anh hùng của Châu Tinh Trì](https://vnexpress.net/tuyet-dinh-kungfu-giac-mo-anh-hung-cua-chau-tinh-tri-4804381.html) - 04:36 16/10/2024
-- 🌜 [Nhiều người đẹp tranh tài ở Bước nhảy hoàn vũ](https://vnexpress.net/nhieu-nguoi-dep-tranh-tai-o-buoc-nhay-hoan-vu-4804663.html) - 04:17 16/10/2024
-- 🚦 [Các &#39;thiên thần nội y&#39; tái xuất ở show Victoria&#39;s Secret](https://vnexpress.net/cac-thien-than-noi-y-tai-xuat-o-show-victoria-s-secret-4804730.html) - 03:55 16/10/2024
-- 🧐 [Lisa hát, trình diễn nội y](https://vnexpress.net/lisa-hat-trinh-dien-noi-y-4804662.html) - 02:38 16/10/2024
-- 🐵 [Dàn sao gợi cảm trên thảm hồng Victoria&#39;s Secret](https://vnexpress.net/dan-sao-goi-cam-tren-tham-hong-victoria-s-secret-4804677.html) - 02:14 16/10/2024
-- ⚗️ [Cuộc sống ở Hà Nội hơn 30 năm trước qua ảnh](https://vnexpress.net/cuoc-song-o-ha-noi-hon-30-nam-truoc-qua-anh-4803987.html) - 17:00 15/10/2024
-- 👺 [Lý Hải khởi động phim &#39;Lật mặt 8&#39;](https://vnexpress.net/ly-hai-khoi-dong-phim-lat-mat-8-4804552.html) - 13:31 15/10/2024
-- 🌊 [Chi Pu ra album mini bằng tiếng Anh](https://vnexpress.net/chi-pu-ra-album-mini-bang-tieng-anh-4804522.html) - 13:04 15/10/2024
-- 🪜 [Củng Lợi tái xuất với thần thái &#39;nữ hoàng&#39;](https://vnexpress.net/cung-loi-tai-xuat-voi-than-thai-nu-hoang-4804493.html) - 12:30 15/10/2024
-- 🕴 [&#39;Cơn sốt&#39; Han Kang chưa hạ nhiệt](https://vnexpress.net/con-sot-han-kang-chua-ha-nhiet-4804336.html) - 12:01 15/10/2024
-- 💃 [Phim Công tử Bạc Liêu tái hiện giai thoại &#39;đốt tiền nấu chè&#39;](https://vnexpress.net/phim-cong-tu-bac-lieu-tai-hien-giai-thoai-dot-tien-nau-che-4804510.html) - 10:37 15/10/2024
-- 🦄 [Đỗ Mạnh Cường sẽ mở màn Tuần thời trang Quốc tế Việt Nam](https://vnexpress.net/do-manh-cuong-se-mo-man-tuan-thoi-trang-quoc-te-viet-nam-4804445.html) - 10:26 15/10/2024
-- ⛽️ [Lý do &#39;Joker 2&#39; thảm bại](https://vnexpress.net/ly-do-joker-2-tham-bai-4803802.html) - 09:21 15/10/2024
-- 😎 [Mỹ Tâm sẽ hát trong lễ hội âm nhạc Hozo](https://vnexpress.net/my-tam-se-hat-trong-le-hoi-am-nhac-hozo-4804247.html) - 08:02 15/10/2024
-- 🌊 [Adriana Lima trở lại Victoria&#39;s Secret 2024](https://vnexpress.net/adriana-lima-tro-lai-victoria-s-secret-2024-4804339.html) - 06:43 15/10/2024
-- 🐲 [Cách mặc khiến Huyền Baby trông trẻ hơn tuổi 35](https://vnexpress.net/cach-mac-khien-huyen-baby-trong-tre-hon-tuoi-35-4804253.html) - 05:41 15/10/2024
-- 💂 [MV mới của Jennie - sôi động và sexy](https://vnexpress.net/mv-moi-cua-jennie-soi-dong-va-sexy-4804186.html) - 03:46 15/10/2024
-- 🙉 [Sách về &#39;Vẻ đẹp của cảnh sắc tầm thường&#39;](https://vnexpress.net/sach-ve-ve-dep-cua-canh-sac-tam-thuong-4802111.html) - 03:35 15/10/2024
-- 💪 [Olivia Rodrigo rơi xuống hố sân khấu](https://vnexpress.net/olivia-rodrigo-roi-xuong-ho-san-khau-4804167.html) - 02:59 15/10/2024
-- 👍 [8 kiểu sneakers hot Thu Đông 2024](https://vnexpress.net/8-kieu-sneakers-hot-thu-dong-2024-4804039.html) - 02:10 15/10/2024
-- 💪 [Rapper Tiến Đạt: &#39;Tôi có nhiều đất đai nhưng không phải đại gia&#39;](https://vnexpress.net/rapper-tien-dat-toi-co-nhieu-dat-dai-nhung-khong-phai-dai-gia-4801546.html) - 17:00 14/10/2024
-- 💄 [Minh Hằng và dàn sao ra mắt &#39;Cô dâu hào môn&#39;](https://vnexpress.net/minh-hang-va-dan-sao-ra-mat-co-dau-hao-mon-4804109.html) - 16:30 14/10/2024
-- 🦩 [Uyển Ân: &#39;Anh Trấn Thành âm thầm dìu dắt tôi&#39;](https://vnexpress.net/uyen-an-anh-tran-thanh-am-tham-diu-dat-toi-4801659.html) - 13:37 14/10/2024
-- 🥸 [Cuộc sống Đỗ Mỹ Linh sau sinh con đầu lòng](https://vnexpress.net/cuoc-song-do-my-linh-sau-sinh-con-dau-long-4804024.html) - 11:39 14/10/2024
-- 🧰 [Hiếu Kiêng &#39;Mối tình đầu&#39; khổ sở vì giảm cân sai cách](https://vnexpress.net/hieu-kieng-moi-tinh-dau-kho-so-vi-giam-can-sai-cach-4803869.html) - 08:12 14/10/2024
-- 💼 [Gu mặc gợi cảm của Khánh Vân bên chồng sắp cưới](https://vnexpress.net/gu-mac-goi-cam-cua-khanh-van-ben-chong-sap-cuoi-4802896.html) - 02:30 14/10/2024
-- 🧑‍💻 [Dàn diễn viên &#39;Phía trước là bầu trời&#39; ngày ấy - bây giờ](https://vnexpress.net/dan-dien-vien-phia-truoc-la-bau-troi-ngay-ay-bay-gio-4803425.html) - 17:00 13/10/2024<!-- vnexpress-giai-tri:END -->
+- 🌏 [Phong cách thời trang của con gái David Beckham](https://vnexpress.net/phong-cach-thoi-trang-cua-con-gai-david-beckham-4805609.html) - 17:00 18/10/2024
+- 💫 [Hà Trí Quang cải tạo vườn xoài 5.000 m2 để làm tiệc cưới](https://vnexpress.net/ha-tri-quang-cai-tao-vuon-xoai-5-000-m2-de-lam-tiec-cuoi-4805579.html) - 13:04 18/10/2024
+- 🌮 [Diễm My 9X phối đồ năng động khi đi du lịch](https://vnexpress.net/diem-my-9x-phoi-do-nang-dong-khi-di-du-lich-4803309.html) - 12:00 18/10/2024
+- 🧠 [Hà Kino cùng dàn sao ủng hộ bình đẳng giới](https://vnexpress.net/ha-kino-cung-dan-sao-ung-ho-binh-dang-gioi-4805578.html) - 10:06 18/10/2024
+- 👨‍🏫 [Mỹ nhân &#39;Tuyệt đỉnh kungfu&#39; tiết lộ hôn nhân ngột ngạt](https://vnexpress.net/my-nhan-tuyet-dinh-kungfu-tiet-lo-hon-nhan-ngot-ngat-4805770.html) - 08:52 18/10/2024
+- ⚗️ [Chopard được đề cử 6 hạng mục tại giải &#39;Oscars đồng hồ&#39;](https://vnexpress.net/chopard-duoc-de-cu-6-hang-muc-tai-giai-oscars-dong-ho-4805387.html) - 07:00 18/10/2024
+- 😎 [Lê Giang: &#39;Tôi đổi đời khi về nước đóng phim&#39;](https://vnexpress.net/le-giang-toi-doi-doi-khi-ve-nuoc-dong-phim-4804871.html) - 04:39 18/10/2024
+- 🫣 [Quế Anh hát &#39;Đất nước lời ru&#39; tại Miss Grand International](https://vnexpress.net/que-anh-hat-dat-nuoc-loi-ru-tai-miss-grand-international-4805632.html) - 04:05 18/10/2024
+- 🪄 [Giáo hoàng Francis sắp ra mắt tự truyện](https://vnexpress.net/giao-hoang-francis-sap-ra-mat-tu-truyen-4805131.html) - 03:52 18/10/2024
+- 🤓 [Nhóm One Direction tưởng nhớ Liam Payne](https://vnexpress.net/nhom-one-direction-tuong-nho-liam-payne-4805561.html) - 02:50 18/10/2024
+- 🫶 [Lưu Diệc Phi tạo dáng dưới &#39;mưa hoa hồng&#39;](https://vnexpress.net/luu-diec-phi-tao-dang-duoi-mua-hoa-hong-4805584.html) - 02:25 18/10/2024
+- 🧑‍🏫 [&#39;La Chimera&#39; - chuyện tình của chàng trộm mộ](https://vnexpress.net/giai-tri/phim/thu-vien-phim/la-chimera-738) - 01:47 18/10/2024
+- 🦄 [&#39;Return to Space&#39; - khát vọng chinh phục vũ trụ của Elon Musk](https://vnexpress.net/giai-tri/phim/thu-vien-phim/return-to-space-739) - 17:00 17/10/2024
+- 💫 [Sắc vóc &#39;thiên thần nội y&#39; Candice Swanepoel](https://vnexpress.net/sac-voc-thien-than-noi-y-candice-swanepoel-4805436.html) - 13:47 17/10/2024
+- 🎊 [Kỳ Duyên &#39;tha thứ cho mọi sai lầm của bản thân&#39;](https://vnexpress.net/ky-duyen-tha-thu-cho-moi-sai-lam-cua-ban-than-4805268.html) - 12:18 17/10/2024
+- 👹 [Cô gái Trung Quốc gây chú ý ở show Victoria&#39;s Secret](https://vnexpress.net/co-gai-trung-quoc-gay-chu-y-o-show-victoria-s-secret-4805325.html) - 12:00 17/10/2024
+- 💻 [Triển lãm của họa sĩ mê phế liệu](https://vnexpress.net/trien-lam-cua-hoa-si-me-phe-lieu-4803056.html) - 10:11 17/10/2024
+- 🤡 [&#39;Bay qua Hồ Gươm&#39; - Hà Nội qua thơ](https://vnexpress.net/bay-qua-ho-guom-ha-noi-qua-tho-4805245.html) - 09:11 17/10/2024
+- 🥰 [Góc khuất sau hào quang của Liam Payne](https://vnexpress.net/goc-khuat-sau-hao-quang-cua-liam-payne-4805142.html) - 08:51 17/10/2024
+- 🚀 [Minh tinh Thái bị bắt](https://vnexpress.net/minh-tinh-thai-bi-bat-4805326.html) - 08:36 17/10/2024
+- 📝 [Jennie diện đồ của NTK Việt trên sân khấu](https://vnexpress.net/jennie-dien-do-cua-ntk-viet-tren-san-khau-4805163.html) - 05:04 17/10/2024
+- 🐲 [&#39;Ừ thôi em lấy chồng&#39; - tâm tình phụ nữ qua thơ Nồng Nàn Phố](https://vnexpress.net/u-thoi-em-lay-chong-tam-tinh-phu-nu-qua-tho-nong-nan-pho-4805149.html) - 04:29 17/10/2024
+- 🎃 [Nhan sắc Hoa hậu Thế giới Ấn Độ 2024](https://vnexpress.net/nhan-sac-hoa-hau-the-gioi-an-do-2024-4805143.html) - 03:18 17/10/2024
+- 🤠 [Thiết kế của Prada sẽ xuất hiện trên Mặt Trăng](https://vnexpress.net/thiet-ke-cua-prada-se-xuat-hien-tren-mat-trang-4805145.html) - 02:43 17/10/2024
+- 🎭 [7 kiểu thiết kế sao Việt lăng xê đầu thu](https://vnexpress.net/7-kieu-thiet-ke-sao-viet-lang-xe-dau-thu-4801731.html) - 02:12 17/10/2024
+- 🧰 [Cựu thành viên One Direction qua đời ở tuổi 31](https://vnexpress.net/cuu-thanh-vien-one-direction-qua-doi-o-tuoi-31-4805075.html) - 23:34 16/10/2024
+- 🦍 [Dàn sao &#39;Chị đẹp đạp gió 2024&#39; ra mắt](https://vnexpress.net/dan-sao-chi-dep-dap-gio-2024-ra-mat-4805006.html) - 23:15 16/10/2024
+- 🌝 [Cách duy trì thanh xuân của &#39;Đoàn Dự&#39; Lâm Chí Dĩnh](https://vnexpress.net/cach-duy-tri-thanh-xuan-cua-doan-du-lam-chi-dinh-4804939.html) - 17:00 16/10/2024
+- 🧑‍💻 [Quế Anh vào top diễn áo tắm đẹp tại Miss Grand International](https://vnexpress.net/que-anh-vao-top-dien-ao-tam-dep-tai-miss-grand-international-4804923.html) - 15:44 16/10/2024
+- 🥸 [Nghệ sĩ Măng Thị Hội tái xuất với &#39;Bóng cây Kơnia&#39;](https://vnexpress.net/nghe-si-mang-thi-hoi-tai-xuat-voi-bong-cay-konia-4804895.html) - 11:19 16/10/2024
+- 🔥 [Cuộc đời ẩn dật của nhà văn Gerald Murnane](https://vnexpress.net/cuoc-doi-an-dat-cua-nha-van-gerald-murnane-4802938.html) - 08:56 16/10/2024
+- 🐎 [Bạn gái nhiếp ảnh gia của Romeo Beckham](https://vnexpress.net/ban-gai-nhiep-anh-gia-cua-romeo-beckham-4804422.html) - 08:30 16/10/2024
+- 😎 [Taylor Swift ra mắt sách ảnh về concert &#39;The Eras Tour&#39;](https://vnexpress.net/taylor-swift-ra-mat-sach-anh-ve-concert-the-eras-tour-4804741.html) - 08:13 16/10/2024
+- 🦄 [Váy áo mùa thu của tỷ phú Trung Quốc](https://vnexpress.net/vay-ao-mua-thu-cua-ty-phu-trung-quoc-4804726.html) - 05:00 16/10/2024
+- 🌜 [&#39;Tuyệt đỉnh kungfu&#39; - giấc mơ anh hùng của Châu Tinh Trì](https://vnexpress.net/tuyet-dinh-kungfu-giac-mo-anh-hung-cua-chau-tinh-tri-4804381.html) - 04:36 16/10/2024
+- 🚦 [Nhiều người đẹp tranh tài ở Bước nhảy hoàn vũ](https://vnexpress.net/nhieu-nguoi-dep-tranh-tai-o-buoc-nhay-hoan-vu-4804663.html) - 04:17 16/10/2024
+- 🧐 [Các &#39;thiên thần nội y&#39; tái xuất ở show Victoria&#39;s Secret](https://vnexpress.net/cac-thien-than-noi-y-tai-xuat-o-show-victoria-s-secret-4804730.html) - 03:55 16/10/2024
+- 🐵 [Lisa hát, trình diễn nội y](https://vnexpress.net/lisa-hat-trinh-dien-noi-y-4804662.html) - 02:38 16/10/2024
+- ⚗️ [Dàn sao gợi cảm trên thảm hồng Victoria&#39;s Secret](https://vnexpress.net/dan-sao-goi-cam-tren-tham-hong-victoria-s-secret-4804677.html) - 02:14 16/10/2024
+- 👺 [Cuộc sống ở Hà Nội hơn 30 năm trước qua ảnh](https://vnexpress.net/cuoc-song-o-ha-noi-hon-30-nam-truoc-qua-anh-4803987.html) - 17:00 15/10/2024
+- 🌊 [Lý Hải khởi động phim &#39;Lật mặt 8&#39;](https://vnexpress.net/ly-hai-khoi-dong-phim-lat-mat-8-4804552.html) - 13:31 15/10/2024
+- 🪜 [Chi Pu ra album mini bằng tiếng Anh](https://vnexpress.net/chi-pu-ra-album-mini-bang-tieng-anh-4804522.html) - 13:04 15/10/2024
+- 🕴 [Củng Lợi tái xuất với thần thái &#39;nữ hoàng&#39;](https://vnexpress.net/cung-loi-tai-xuat-voi-than-thai-nu-hoang-4804493.html) - 12:30 15/10/2024
+- 💃 [&#39;Cơn sốt&#39; Han Kang chưa hạ nhiệt](https://vnexpress.net/con-sot-han-kang-chua-ha-nhiet-4804336.html) - 12:01 15/10/2024
+- 🦄 [Phim Công tử Bạc Liêu tái hiện giai thoại &#39;đốt tiền nấu chè&#39;](https://vnexpress.net/phim-cong-tu-bac-lieu-tai-hien-giai-thoai-dot-tien-nau-che-4804510.html) - 10:37 15/10/2024
+- ⛽️ [Đỗ Mạnh Cường sẽ mở màn Tuần thời trang Quốc tế Việt Nam](https://vnexpress.net/do-manh-cuong-se-mo-man-tuan-thoi-trang-quoc-te-viet-nam-4804445.html) - 10:26 15/10/2024
+- 😎 [Lý do &#39;Joker 2&#39; thảm bại](https://vnexpress.net/ly-do-joker-2-tham-bai-4803802.html) - 09:21 15/10/2024
+- 🌊 [Mỹ Tâm sẽ hát trong lễ hội âm nhạc Hozo](https://vnexpress.net/my-tam-se-hat-trong-le-hoi-am-nhac-hozo-4804247.html) - 08:02 15/10/2024
+- 🐲 [Adriana Lima trở lại Victoria&#39;s Secret 2024](https://vnexpress.net/adriana-lima-tro-lai-victoria-s-secret-2024-4804339.html) - 06:43 15/10/2024
+- 💂 [Cách mặc khiến Huyền Baby trông trẻ hơn tuổi 35](https://vnexpress.net/cach-mac-khien-huyen-baby-trong-tre-hon-tuoi-35-4804253.html) - 05:41 15/10/2024
+- 🙉 [MV mới của Jennie - sôi động và sexy](https://vnexpress.net/mv-moi-cua-jennie-soi-dong-va-sexy-4804186.html) - 03:46 15/10/2024
+- 💪 [Sách về &#39;Vẻ đẹp của cảnh sắc tầm thường&#39;](https://vnexpress.net/sach-ve-ve-dep-cua-canh-sac-tam-thuong-4802111.html) - 03:35 15/10/2024
+- 👍 [Olivia Rodrigo rơi xuống hố sân khấu](https://vnexpress.net/olivia-rodrigo-roi-xuong-ho-san-khau-4804167.html) - 02:59 15/10/2024
+- 💪 [8 kiểu sneakers hot Thu Đông 2024](https://vnexpress.net/8-kieu-sneakers-hot-thu-dong-2024-4804039.html) - 02:10 15/10/2024
+- 💄 [Rapper Tiến Đạt: &#39;Tôi có nhiều đất đai nhưng không phải đại gia&#39;](https://vnexpress.net/rapper-tien-dat-toi-co-nhieu-dat-dai-nhung-khong-phai-dai-gia-4801546.html) - 17:00 14/10/2024
+- 🦩 [Minh Hằng và dàn sao ra mắt &#39;Cô dâu hào môn&#39;](https://vnexpress.net/minh-hang-va-dan-sao-ra-mat-co-dau-hao-mon-4804109.html) - 16:30 14/10/2024
+- 🥸 [Uyển Ân: &#39;Anh Trấn Thành âm thầm dìu dắt tôi&#39;](https://vnexpress.net/uyen-an-anh-tran-thanh-am-tham-diu-dat-toi-4801659.html) - 13:37 14/10/2024
+- 🧰 [Cuộc sống Đỗ Mỹ Linh sau sinh con đầu lòng](https://vnexpress.net/cuoc-song-do-my-linh-sau-sinh-con-dau-long-4804024.html) - 11:39 14/10/2024
+- 💼 [Hiếu Kiêng &#39;Mối tình đầu&#39; khổ sở vì giảm cân sai cách](https://vnexpress.net/hieu-kieng-moi-tinh-dau-kho-so-vi-giam-can-sai-cach-4803869.html) - 08:12 14/10/2024
+- 🧑‍💻 [Gu mặc gợi cảm của Khánh Vân bên chồng sắp cưới](https://vnexpress.net/gu-mac-goi-cam-cua-khanh-van-ben-chong-sap-cuoi-4802896.html) - 02:30 14/10/2024<!-- vnexpress-giai-tri:END -->
