@@ -4,7 +4,7 @@ sidebar_position: 28
 ---
 
 <!-- dantri-photo-story:START -->
-- 💪 [Cảnh hoang tàn ở karaoke An Phú, nơi từng xảy ra vụ cháy làm 32 người chết](https://dantri.com.vn/giao-duc/canh-hoang-tan-o-karaoke-an-phu-noi-tung-xay-ra-vu-chay-lam-32-nguoi-chet-20241018003249945.htm) - 00:16 18/10/2024
+- 💪 [Cảnh hoang tàn ở karaoke An Phú, nơi từng xảy ra vụ cháy làm 32 người chết](https://dantri.com.vn/xa-hoi/canh-hoang-tan-o-karaoke-an-phu-noi-tung-xay-ra-vu-chay-lam-32-nguoi-chet-20241018003249945.htm) - 00:16 18/10/2024
 - 🧰 [Dàn chuyên cơ siêu sang dành cho tỷ phú ở Đà Nẵng](https://dantri.com.vn/du-lich/dan-chuyen-co-sieu-sang-danh-cho-ty-phu-o-da-nang-20241017195700325.htm) - 13:38 17/10/2024
 - 🧰 [Mưa lớn kết hợp triều cường gây ngập nhiều nơi ở TPHCM](https://dantri.com.vn/xa-hoi/mua-lon-ket-hop-trieu-cuong-gay-ngap-nhieu-noi-o-tphcm-20241017171220450.htm) - 10:12 17/10/2024
 - 😎 [Hiện trạng tuyến metro đi qua 6 quận ở TPHCM, mức đầu tư gần 48.000 tỷ đồng](https://dantri.com.vn/xa-hoi/hien-trang-tuyen-metro-di-qua-6-quan-o-tphcm-muc-dau-tu-gan-48000-ty-dong-20241015184320512.htm) - 05:00 17/10/2024
