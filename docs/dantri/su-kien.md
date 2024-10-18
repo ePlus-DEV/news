@@ -6,7 +6,7 @@ sidebar_position: 16
 <!-- dantri-su-kien:START -->
 - 🎭 [Hamas có lãnh đạo mới sau cái chết của thủ lĩnh Sinwar](https://dantri.com.vn/the-gioi/hamas-co-lanh-dao-moi-sau-cai-chet-cua-thu-linh-sinwar-20241018141317234.htm) - 07:15 18/10/2024
 - 👨‍🏫 [Giá vàng nhẫn chưa ngừng tăng, tiến sát 84,8 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/gia-vang-nhan-chua-ngung-tang-tien-sat-848-trieu-dongluong-20241018071154264.htm) - 06:37 18/10/2024
-- 🌮 [Quân ủy Trung ương xem xét kỷ luật 12 quân nhân](https://dantri.com.vn/xa-hoi/quan-uy-trung-uong-xem-xet-ky-luat-12-quan-nhan-20241018123256525.htm) - 06:10 18/10/2024
+- 🌮 [Ủy ban Kiểm tra Quân ủy Trung ương xem xét kỷ luật 12 quân nhân](https://dantri.com.vn/xa-hoi/uy-ban-kiem-tra-quan-uy-trung-uong-xem-xet-ky-luat-12-quan-nhan-20241018123256525.htm) - 06:10 18/10/2024
 - 🕯 [Phát hiện thi thể ở karaoke An Phú, YouTuber chậm trình báo có vi phạm?](https://dantri.com.vn/phap-luat/phat-hien-thi-the-o-karaoke-an-phu-youtuber-cham-trinh-bao-co-vi-pham-20241018082058228.htm) - 06:03 18/10/2024
 - 🪜 [TAND TPHCM kiến nghị gì trong vụ án Vạn Thịnh Phát giai đoạn 2?](https://dantri.com.vn/phap-luat/tand-tphcm-kien-nghi-gi-trong-vu-an-van-thinh-phat-giai-doan-2-20241018104319643.htm) - 05:00 18/10/2024
 - 🐘 [Chiến sự Ukraine 18/10: Lính Kiev ồ ạt tháo chạy khỏi Kursk](https://dantri.com.vn/the-gioi/chien-su-ukraine-1810-linh-kiev-o-at-thao-chay-khoi-kursk-20241018102228288.htm) - 04:29 18/10/2024
