@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [Ronaldo ghi bàn phạt đền ở phút bù](https://vnexpress.net/ronaldo-ghi-ban-phat-den-o-phut-bu-4805976.html) - 02:20 19/10/2024
 - 🧰 [Barca bị bác kháng cáo gian lận tài chính](https://vnexpress.net/barca-bi-bac-khang-cao-gian-lan-tai-chinh-4805918.html) - 02:06 19/10/2024
 - 🤗 [Tân kỷ lục gia marathon nữ bị nghi ngờ gian lận](https://vnexpress.net/tan-ky-luc-gia-marathon-nu-bi-nghi-ngo-gian-lan-4805972.html) - 02:00 19/10/2024
-- 🥳 [Arteta ám chỉ muốn dẫn dắt tuyển Anh](https://vnexpress.net/arteta-am-chi-muon-dan-dat-tuyen-anh-4805921.html) - 23:23 18/10/2024
+- 🥳 [Arteta có thể dẫn dắt tuyển Anh trong tương lai](https://vnexpress.net/arteta-co-the-dan-dat-tuyen-anh-trong-tuong-lai-4805921.html) - 23:23 18/10/2024
 - 🦣 [Guardiola: &#39;Man City có sẵn phương án nếu tôi rời đi&#39;](https://vnexpress.net/guardiola-man-city-co-san-phuong-an-neu-toi-roi-di-4805919.html) - 23:09 18/10/2024
 - 🌜 [Ten Hag: &#39;Truyền thông thêu dệt chuyện cổ tích về tôi&#39;](https://vnexpress.net/ten-hag-truyen-thong-theu-det-chuyen-co-tich-ve-toi-4805915.html) - 22:55 18/10/2024
 - 🫶 [Quốc Hoàng giúp châu Á thắng đậm châu Âu ở Reyes Cup](https://vnexpress.net/quoc-hoang-giup-chau-a-thang-dam-chau-au-o-reyes-cup-4805902.html) - 17:01 18/10/2024
