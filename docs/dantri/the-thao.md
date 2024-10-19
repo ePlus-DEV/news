@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Video cầu thủ Thái Lan bẽ mặt vì ăn mừng sớm gây sốt trên mạng](https://dantri.com.vn/the-thao/video-cau-thu-thai-lan-be-mat-vi-an-mung-som-gay-sot-tren-mang-20241019172022040.htm) - 10:20 19/10/2024
+- 🎡 [Video cầu thủ Thái Lan bẽ mặt vì ăn mừng sớm gây sốt trên mạng](https://dantri.com.vn/the-thao/video-cau-thu-thai-lan-be-mat-vi-an-mung-som-gay-sot-tren-mang-20241019172022040.htm) - 11:01 19/10/2024
 - 💯 [Sao Indonesia đột ngột tăng giá mạnh, gấp rưỡi cả đội Việt Nam cộng lại](https://dantri.com.vn/the-thao/sao-indonesia-dot-ngot-tang-gia-manh-gap-ruoi-ca-doi-viet-nam-cong-lai-20241019170049994.htm) - 10:00 19/10/2024
 - ⛽️ [Malaysia được bơm số tiền cực lớn, sớm chốt hợp đồng với HLV Park Hang Seo](https://dantri.com.vn/the-thao/malaysia-duoc-bom-so-tien-cuc-lon-som-chot-hop-dong-voi-hlv-park-hang-seo-20241019134903100.htm) - 06:49 19/10/2024
 - 💃 [Neymar gạch tên Messi, chỉ đích danh cầu thủ sẽ nhận Quả bóng vàng 2024](https://dantri.com.vn/the-thao/neymar-gach-ten-messi-chi-dich-danh-cau-thu-se-nhan-qua-bong-vang-2024-20241019073624490.htm) - 05:08 19/10/2024
