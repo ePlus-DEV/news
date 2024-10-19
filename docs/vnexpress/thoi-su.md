@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Đề xuất bổ sung quyền hạn của Thủ tướng](https://vnexpress.net/de-xuat-bo-sung-quyen-han-cua-thu-tuong-4806110.html) - 11:04 19/10/2024
-- 🤓 [Tạm dừng công nhận kết quả đấu giá mỏ cát ở Quảng Nam](https://vnexpress.net/tam-dung-cong-nhan-ket-qua-dau-gia-mo-cat-o-quang-nam-4806020.html) - 07:22 19/10/2024
+- 🤓 [Kiểm tra dấu hiệu bất thường trong phiên đấu giá mỏ cát 370 tỷ đồng](https://vnexpress.net/kiem-tra-dau-hieu-bat-thuong-trong-phien-dau-gia-mo-cat-370-ty-dong-4806020.html) - 07:22 19/10/2024
 - ⚗️ [Khu thể thao quốc gia lớn nhất TP HCM sau 30 năm quy hoạch](https://vnexpress.net/khu-the-thao-quoc-gia-lon-nhat-tp-hcm-sau-30-nam-quy-hoach-4805774.html) - 07:00 19/10/2024
 - 🌊 [Cứu 4 người trong vụ cháy ở Bắc Ninh](https://vnexpress.net/cuu-4-nguoi-trong-vu-chay-o-bac-ninh-4806059.html) - 05:53 19/10/2024
 - 🎓 [Phát hiện nghĩa trang 4.000 năm ở di chỉ Vườn Chuối](https://vnexpress.net/phat-hien-nghia-trang-4-000-nam-o-di-chi-vuon-chuoi-4805973.html) - 04:27 19/10/2024
