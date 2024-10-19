@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Tự Long mắng nghệ sĩ trẻ ở tổng duyệt concert: BTC &quot;Anh trai&quot; lên tiếng](https://dantri.com.vn/giai-tri/tu-long-mang-nghe-si-tre-o-tong-duyet-concert-btc-anh-trai-len-tieng-20241019084702587.htm) - 03:26 19/10/2024
+- 🤩 [Vụ Tự Long mắng nghệ sĩ trẻ ở tổng duyệt concert: BTC &quot;Anh trai&quot; lên tiếng](https://dantri.com.vn/giai-tri/vu-tu-long-mang-nghe-si-tre-o-tong-duyet-concert-btc-anh-trai-len-tieng-20241019084702587.htm) - 03:26 19/10/2024
 - 🔥 [&quot;Đi giữa trời rực rỡ&quot; kết thúc đẹp nhưng chóng vánh, gây tiếc nuối](https://dantri.com.vn/giai-tri/di-giua-troi-ruc-ro-ket-thuc-dep-nhung-chong-vanh-gay-tiec-nuoi-20241019082913143.htm) - 02:16 19/10/2024
 - 🚀 [Gợi ý 4 mẫu giày lý tưởng cho mùa thu đông năm nay](https://dantri.com.vn/giai-tri/goi-y-4-mau-giay-ly-tuong-cho-mua-thu-dong-nam-nay-20241018101846545.htm) - 02:00 19/10/2024
 - 🔥 [Hồng Nhung kể chuyện từng khóc, phải cầu cứu nhạc sĩ Trịnh Công Sơn](https://dantri.com.vn/giai-tri/hong-nhung-ke-chuyen-tung-khoc-phai-cau-cuu-nhac-si-trinh-cong-son-20241019021637162.htm) - 00:03 19/10/2024
