@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Du khách gây phẫn nội vì đu xà ở đền thiêng Nhật Bản](https://vnexpress.net/du-khach-gay-phan-noi-vi-du-xa-o-den-thieng-nhat-ban-4806111.html) - 10:58 19/10/2024
+- 💂 [Du khách gây phẫn nộ vì đu xà ở đền thiêng Nhật Bản](https://vnexpress.net/du-khach-gay-phan-no-vi-du-xa-o-den-thieng-nhat-ban-4806111.html) - 10:58 19/10/2024
 - 🪄 [Quán bán gần trăm kg tôm hùm, cua mang về mỗi ngày](https://video.vnexpress.net/quan-ban-gan-tram-kg-tom-hum-cua-mang-ve-moi-ngay-4805492.html) - 10:56 19/10/2024
 - 🦅 [Lý do Bình Liêu khó hút khách Tây như Sa Pa](https://vnexpress.net/ly-do-binh-lieu-kho-hut-khach-tay-nhu-sa-pa-4804195.html) - 03:00 19/10/2024
 - 🕴 [Chinh phục đỉnh Tà Chì Nhù sau mưa lũ](https://vnexpress.net/chinh-phuc-dinh-ta-chi-nhu-sau-mua-lu-4805506.html) - 02:18 19/10/2024
