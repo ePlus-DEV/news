@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Garnacho, Hojlund cứu Man Utd thoát thua trước Brentford](https://dantri.com.vn/the-thao/garnacho-hojlund-cuu-man-utd-thoat-thua-truoc-brentford-20241019230705653.htm) - 16:07 19/10/2024
+- 🎡 [Garnacho, Hojlund giúp Man Utd ngược dòng thắng Brentford](https://dantri.com.vn/the-thao/garnacho-hojlund-giup-man-utd-nguoc-dong-thang-brentford-20241019230705653.htm) - 16:07 19/10/2024
 - 💯 [Son Heung Min lập công, Tottenham thắng đậm trận derby London](https://dantri.com.vn/the-thao/son-heung-min-lap-cong-tottenham-thang-dam-tran-derby-london-20241019222312517.htm) - 15:25 19/10/2024
 - ⛽️ [Hà Nội FC &quot;sống dậy&quot; giây cuối ở trận cầu kịch tính với CLB Công an Hà Nội](https://dantri.com.vn/the-thao/ha-noi-fc-song-day-giay-cuoi-o-tran-cau-kich-tinh-voi-clb-cong-an-ha-noi-20241019213343595.htm) - 14:33 19/10/2024
 - 💃 [Rafaelson tỏa sáng giúp CLB Nam Định thắng đậm SL Nghệ An](https://dantri.com.vn/the-thao/rafaelson-toa-sang-giup-clb-nam-dinh-thang-dam-sl-nghe-an-20241019202553979.htm) - 13:26 19/10/2024
