@@ -10,7 +10,7 @@ sidebar_position: 5
 - 🧠 [Vợ Paul Auster viết hồi ký về chồng](https://vnexpress.net/vo-paul-auster-viet-hoi-ky-ve-chong-4805576.html) - 05:50 19/10/2024
 - 👨‍🏫 [Sao Việt theo đuổi mốt giày &#39;cục gạch&#39;](https://vnexpress.net/sao-viet-theo-duoi-mot-giay-cuc-gach-4806006.html) - 05:00 19/10/2024
 - ⚗️ [Bộ sưu tập cảm hứng &#39;nấm mọc sau mưa&#39;](https://vnexpress.net/bo-suu-tap-cam-hung-nam-moc-sau-mua-4805796.html) - 04:22 19/10/2024
-- 😎 [Hồng Nhung: &#39;Tôi sốc vì bị chê tả tơi khi hát nhạc Trịnh&#39;](https://vnexpress.net/hong-nhung-toi-soc-vi-bi-che-ta-toi-khi-hat-nhac-trinh-4805755.html) - 03:27 19/10/2024
+- 😎 [Hồng Nhung: &#39;Tôi không còn bận tâm lời chê&#39;](https://vnexpress.net/hong-nhung-toi-khong-con-ban-tam-loi-che-4805755.html) - 03:27 19/10/2024
 - 🫣 [&#39;Trùm phim kiếm hiệp&#39; có con gái ở tuổi 73](https://vnexpress.net/trum-phim-kiem-hiep-co-con-gai-o-tuoi-73-4805982.html) - 02:57 19/10/2024
 - 🪄 [Sắc vóc cô gái Nam Định đoạt á hậu Miss Globe](https://vnexpress.net/sac-voc-co-gai-nam-dinh-doat-a-hau-miss-globe-4805718.html) - 02:14 19/10/2024
 - 🤓 [Phong cách thời trang của con gái David Beckham](https://vnexpress.net/phong-cach-thoi-trang-cua-con-gai-david-beckham-4805609.html) - 17:00 18/10/2024
