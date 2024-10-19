@@ -4,7 +4,7 @@ sidebar_position: 23
 ---
 
 <!-- dantri-suc-khoe:START -->
-- 🤔 [Điểm mặt những ung thư thường gặp ở nữ giới: Bệnh nào tử vong nhiều nhất?](https://dantri.com.vn/suc-khoe/diem-mat-nhung-ung-thu-thuong-gap-o-nu-gioi-benh-nao-tu-vong-nhieu-nhat-20241019112835973.htm) - 04:31 19/10/2024
+- 🤔 [Điểm mặt những loại ung thư thường gặp ở nữ: Bệnh nào tử vong nhiều nhất?](https://dantri.com.vn/suc-khoe/diem-mat-nhung-loai-ung-thu-thuong-gap-o-nu-benh-nao-tu-vong-nhieu-nhat-20241019112835973.htm) - 04:31 19/10/2024
 - 🚦 [Dấu hiệu cảnh báo chức năng thận suy giảm](https://dantri.com.vn/suc-khoe/dau-hieu-canh-bao-chuc-nang-than-suy-giam-20241019090417721.htm) - 02:17 19/10/2024
 - 🤖 [Người bị axit uric cao có uống được cà phê không?](https://dantri.com.vn/suc-khoe/nguoi-bi-axit-uric-cao-co-uong-duoc-ca-phe-khong-20241018203044410.htm) - 00:08 19/10/2024
 - 🐻 [MSD viết tiếp kỳ vọng ở bệnh nhân ung thư vú tam âm với liệu pháp miễn dịch](https://dantri.com.vn/suc-khoe/msd-viet-tiep-ky-vong-o-benh-nhan-ung-thu-vu-tam-am-voi-lieu-phap-mien-dich-20241018161943209.htm) - 09:28 18/10/2024
