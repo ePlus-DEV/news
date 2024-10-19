@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Hà Nội &quot;sống dậy&quot; ở giây cuối trong trận cầu kịch tính với Công an Hà Nội](https://dantri.com.vn/the-thao/ha-noi-song-day-o-giay-cuoi-trong-tran-cau-kich-tinh-voi-cong-an-ha-noi-20241019213343595.htm) - 14:33 19/10/2024
+- 🎡 [Hà Nội FC &quot;sống dậy&quot; giây cuối ở trận cầu kịch tính với CLB Công an Hà Nội](https://dantri.com.vn/the-thao/ha-noi-fc-song-day-giay-cuoi-o-tran-cau-kich-tinh-voi-clb-cong-an-ha-noi-20241019213343595.htm) - 14:33 19/10/2024
 - 💯 [Rafaelson tỏa sáng giúp CLB Nam Định thắng đậm SL Nghệ An](https://dantri.com.vn/the-thao/rafaelson-toa-sang-giup-clb-nam-dinh-thang-dam-sl-nghe-an-20241019202553979.htm) - 13:26 19/10/2024
 - ⛽️ [Công Phượng ghi bàn giúp CLB Bình Phước vượt qua vòng 1 Cúp Quốc gia](https://dantri.com.vn/the-thao/cong-phuong-ghi-ban-giup-clb-binh-phuoc-vuot-qua-vong-1-cup-quoc-gia-20241019191745496.htm) - 12:28 19/10/2024
 - 💃 [Tuyển thủ Hàn Quốc thừa nhận quay lén &quot;clip nóng&quot;, sắp phải đi tù](https://dantri.com.vn/the-thao/tuyen-thu-han-quoc-thua-nhan-quay-len-clip-nong-sap-phai-di-tu-20241019190021263.htm) - 12:00 19/10/2024
