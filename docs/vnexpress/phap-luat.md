@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Nghi can Bình &#39;Đen&#39; Hải Phòng bị bắt](https://vnexpress.net/nghi-can-binh-den-hai-phong-bi-bat-4806319.html) - 13:03 20/10/2024
-- 🥰 [Hàng trăm cảnh sát đột kích 4 quán bar ở Đồng Nai](https://vnexpress.net/hang-tram-canh-sat-dot-kich-4-quan-bar-o-dong-nai-4806331.html) - 12:55 20/10/2024
+- 🥰 [Hàng trăm cảnh sát đột kích 4 quán bar trá hình ở Đồng Nai](https://vnexpress.net/hang-tram-canh-sat-dot-kich-4-quan-bar-tra-hinh-o-dong-nai-4806331.html) - 12:55 20/10/2024
 - 🎓 [Kiện công ty vì không cho công nhân về nhà tránh siêu bão](https://vnexpress.net/kien-cong-ty-vi-khong-cho-cong-nhan-ve-nha-tranh-sieu-bao-4806275.html) - 10:58 20/10/2024
 - 🤓 [Tội phạm bị tóm vì tra Google &#39;làm sao biết có đang bị FBI điều tra&#39;](https://vnexpress.net/toi-pham-bi-tom-vi-tra-google-lam-sao-biet-co-dang-bi-fbi-dieu-tra-4806301.html) - 10:40 20/10/2024
 - 🎊 [Hơn 30 cảnh sát mật phục bắt đoàn đua xe liên tỉnh](https://vnexpress.net/hon-30-canh-sat-mat-phuc-bat-doan-dua-xe-lien-tinh-4806313.html) - 10:32 20/10/2024
