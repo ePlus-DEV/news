@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [HLV Pep Guardiola tiết lộ quan trọng về tương lai](https://dantri.com.vn/the-thao/hlv-pep-guardiola-tiet-lo-quan-trong-ve-tuong-lai-20241020141543991.htm) - 07:15 20/10/2024
+- 🎡 [HLV Pep Guardiola tiết lộ quan trọng về tương lai](https://dantri.com.vn/the-thao/hlv-pep-guardiola-tiet-lo-quan-trong-ve-tuong-lai-20241020141543991.htm) - 09:15 20/10/2024
 - 💯 [Lionel Messi sáng rực rỡ, khiến tất cả ngả mũ ở tuổi &quot;xưa nay hiếm&quot;](https://dantri.com.vn/the-thao/lionel-messi-sang-ruc-ro-khien-tat-ca-nga-mu-o-tuoi-xua-nay-hiem-20241020124930934.htm) - 06:01 20/10/2024
 - ⛽️ [Nhận định Liverpool - Chelsea &lpar;22h30 ngày 20/10&rpar;: Công giỏi gặp thủ chắc](https://dantri.com.vn/the-thao/nhan-dinh-liverpool-chelsea-22h30-ngay-2010-cong-gioi-gap-thu-chac-20241020104721125.htm) - 03:47 20/10/2024
 - 💃 [HLV Ten Hag: &quot;Cầu thủ Man Utd tức giận khi bị Brentford ghi bàn&quot;](https://dantri.com.vn/the-thao/hlv-ten-hag-cau-thu-man-utd-tuc-gian-khi-bi-brentford-ghi-ban-20241020090416646.htm) - 02:12 20/10/2024
