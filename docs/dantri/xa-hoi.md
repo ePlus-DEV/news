@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- dantri-xa-hoi:START -->
-- 🫣 [Chưa công nhận kế quả vụ đấu giá mỏ cát 373 tỷ đồng ở Quảng Nam](https://dantri.com.vn/xa-hoi/chua-cong-nhan-ke-qua-vu-dau-gia-mo-cat-373-ty-dong-o-quang-nam-20241020121733973.htm) - 05:36 20/10/2024
+- 🫣 [Chưa công nhận kết quả vụ đấu giá mỏ cát 373 tỷ đồng ở Quảng Nam](https://dantri.com.vn/xa-hoi/chua-cong-nhan-ket-qua-vu-dau-gia-mo-cat-373-ty-dong-o-quang-nam-20241020121733973.htm) - 05:36 20/10/2024
 - 💼 [Khai mạc Hội nghị toàn quốc quán triệt, triển khai Nghị quyết Hội nghị TW 10](https://dantri.com.vn/xa-hoi/khai-mac-hoi-nghi-toan-quoc-quan-triet-trien-khai-nghi-quyet-hoi-nghi-tw-10-20241020110831633.htm) - 04:10 20/10/2024
 - 🎊 [Mặt đường bị lún sau vụ xe đầu kéo chở cuộn tôn lật nhào ở Bình Dương](https://dantri.com.vn/xa-hoi/mat-duong-bi-lun-sau-vu-xe-dau-keo-cho-cuon-ton-lat-nhao-o-binh-duong-20241020110002360.htm) - 04:04 20/10/2024
 - 🙉 [Bên trong tượng đài &quot;Con tàu tập kết ra Bắc&quot; ở Thanh Hóa](https://dantri.com.vn/xa-hoi/ben-trong-tuong-dai-con-tau-tap-ket-ra-bac-o-thanh-hoa-20241019101644827.htm) - 02:06 20/10/2024
