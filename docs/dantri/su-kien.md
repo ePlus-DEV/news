@@ -7,7 +7,7 @@ sidebar_position: 16
 - 🎭 [Chiến sự Ukraine 20/10: Lính Kiev bỏ vũ khí, rút chạy ở Kursk](https://dantri.com.vn/the-gioi/chien-su-ukraine-2010-linh-kiev-bo-vu-khi-rut-chay-o-kursk-20241020111447697.htm) - 04:24 20/10/2024
 - 👨‍🏫 [Một phụ nữ khoe có &quot;mối quan hệ rộng&quot; để chiếm đoạt hơn 43 tỷ đồng](https://dantri.com.vn/phap-luat/mot-phu-nu-khoe-co-moi-quan-he-rong-de-chiem-doat-hon-43-ty-dong-20241020105217380.htm) - 04:19 20/10/2024
 - 🌮 [Khai mạc Hội nghị toàn quốc quán triệt, triển khai Nghị quyết Hội nghị TW 10](https://dantri.com.vn/xa-hoi/khai-mac-hoi-nghi-toan-quoc-quan-triet-trien-khai-nghi-quyet-hoi-nghi-tw-10-20241020110831633.htm) - 04:10 20/10/2024
-- 🕯 [Nhận 1 tỷ đồng từ AIC, cựu Vụ phó Bộ TTTT chi như thế nào?](https://dantri.com.vn/phap-luat/nhan-1-ty-dong-tu-aic-cuu-vu-pho-bo-tttt-chi-nhu-the-nao-20241020104146287.htm) - 04:00 20/10/2024
+- 🕯 [Nhận tiền tỷ từ AIC, cựu Vụ phó Bộ TTTT chi như thế nào?](https://dantri.com.vn/phap-luat/nhan-tien-ty-tu-aic-cuu-vu-pho-bo-tttt-chi-nhu-the-nao-20241020104146287.htm) - 04:00 20/10/2024
 - 🪜 [Cách Nga đánh lừa UAV Ukraine trên tiền tuyến](https://dantri.com.vn/the-gioi/cach-nga-danh-lua-uav-ukraine-tren-tien-tuyen-20241020103350138.htm) - 03:43 20/10/2024
 - 🐘 [Có lời lẽ xúc phạm học sinh tiểu học, cô giáo bị kỷ luật cảnh cáo](https://dantri.com.vn/giao-duc/co-loi-le-xuc-pham-hoc-sinh-tieu-hoc-co-giao-bi-ky-luat-canh-cao-20241020084319222.htm) - 03:11 20/10/2024
 - 🤔 [Sập cầu tàu ở Mỹ, ít nhất 7 người chết](https://dantri.com.vn/the-gioi/sap-cau-tau-o-my-it-nhat-7-nguoi-chet-20241020092834352.htm) - 02:30 20/10/2024
