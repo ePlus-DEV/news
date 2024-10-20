@@ -5,7 +5,7 @@ sidebar_position: 8
 
 <!-- dantri-phap-luat:START -->
 - 🌊 [Một phụ nữ khoe có &quot;mối quan hệ rộng&quot; để chiếm đoạt hơn 43 tỷ đồng](https://dantri.com.vn/phap-luat/mot-phu-nu-khoe-co-moi-quan-he-rong-de-chiem-doat-hon-43-ty-dong-20241020105217380.htm) - 04:19 20/10/2024
-- 🐲 [Nhận 1 tỷ đồng từ AIC, cựu Vụ phó Bộ TTTT chi như thế nào?](https://dantri.com.vn/phap-luat/nhan-1-ty-dong-tu-aic-cuu-vu-pho-bo-tttt-chi-nhu-the-nao-20241020104146287.htm) - 04:00 20/10/2024
+- 🐲 [Nhận tiền tỷ từ AIC, cựu Vụ phó Bộ TTTT chi như thế nào?](https://dantri.com.vn/phap-luat/nhan-tien-ty-tu-aic-cuu-vu-pho-bo-tttt-chi-nhu-the-nao-20241020104146287.htm) - 04:00 20/10/2024
 - 🌁 [Cảnh sát ngăn chặn 58 đối tượng tụ tập chuẩn bị đua xe trái phép](https://dantri.com.vn/phap-luat/canh-sat-ngan-chan-58-doi-tuong-tu-tap-chuan-bi-dua-xe-trai-phep-20241020101430442.htm) - 03:37 20/10/2024
 - 🎃 [Khởi tố 3 người trộm 44kg cau](https://dantri.com.vn/phap-luat/khoi-to-3-nguoi-trom-44kg-cau-20241020094002855.htm) - 03:05 20/10/2024
 - 🦅 [Vụ án AIC tại Bộ TTTT: Cựu Bộ trưởng Trương Minh Tuấn khai gì?](https://dantri.com.vn/phap-luat/vu-an-aic-tai-bo-tttt-cuu-bo-truong-truong-minh-tuan-khai-gi-20241020012446485.htm) - 23:38 19/10/2024
