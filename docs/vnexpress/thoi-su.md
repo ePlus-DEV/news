@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Ôtô lật, đè chết 3 người](https://vnexpress.net/oto-lat-de-chet-3-nguoi-4806269.html) - 06:35 20/10/2024
+- 🦒 [Ôtô lật, đè 3 cậu cháu tử vong](https://vnexpress.net/oto-lat-de-3-cau-chau-tu-vong-4806269.html) - 06:35 20/10/2024
 - 🤓 [Trưng bày tinh hoa cổ vật xứ Đông](https://vnexpress.net/trung-bay-tinh-hoa-co-vat-xu-dong-4806238.html) - 06:34 20/10/2024
 - ⚗️ [Cuộn thép rơi xuống đường khi ôtô bị lật](https://vnexpress.net/cuon-thep-roi-xuong-duong-khi-oto-bi-lat-4806266.html) - 06:19 20/10/2024
 - 🌊 [Các nước nhận chuyển giao công nghệ đường sắt tốc độ cao thế nào](https://vnexpress.net/cac-nuoc-nhan-chuyen-giao-cong-nghe-duong-sat-toc-do-cao-the-nao-4806138.html) - 04:45 20/10/2024
