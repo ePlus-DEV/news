@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Pháo phòng không, tên lửa diệt mục tiêu trong diễn tập](https://vnexpress.net/phao-phong-khong-ten-lua-diet-muc-tieu-trong-dien-tap-4805868.html) - 03:20 20/10/2024
+- 🦒 [Pháo phòng không, tên lửa diễn tập diệt mục tiêu](https://vnexpress.net/phao-phong-khong-ten-lua-dien-tap-diet-muc-tieu-4805868.html) - 03:20 20/10/2024
 - 🤓 [Quy hoạch tuyến đường sắt mới Lào Cai - Hà Nội - Quảng Ninh](https://vnexpress.net/quy-hoach-tuyen-duong-sat-moi-lao-cai-ha-noi-quang-ninh-4804747.html) - 03:00 20/10/2024
 - ⚗️ [Mất nhà đất sau nhiều năm xa quê](https://vnexpress.net/mat-nha-dat-sau-nhieu-nam-xa-que-4805834.html) - 01:22 20/10/2024
 - 🌊 [Thuyền chở 6 người lật trên hồ](https://vnexpress.net/thuyen-cho-6-nguoi-lat-tren-ho-4806122.html) - 11:49 19/10/2024
