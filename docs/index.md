@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Hạ Chelsea, Liverpool giữ vững đỉnh bảng](https://vnexpress.net/ha-chelsea-liverpool-giu-vung-dinh-bang-4806360.html) - 17:33 20/10/2024
+- 🚀 [Hạ Chelsea, Liverpool đòi lại đỉnh bảng từ Man City](https://vnexpress.net/ha-chelsea-liverpool-doi-lai-dinh-bang-tu-man-city-4806360.html) - 17:33 20/10/2024
 - 🧰 [Phương Mỹ Chi hát dưới mưa](https://vnexpress.net/phuong-my-chi-hat-duoi-mua-4806356.html) - 17:28 20/10/2024
 - 🥰 [Giá vàng có thể tăng tiếp tuần này](https://vnexpress.net/gia-vang-co-the-tang-tiep-tuan-nay-4806336.html) - 17:21 20/10/2024
 - 🌏 [Có cần mua router hỗ trợ Wi-Fi 7?](https://vnexpress.net/co-can-mua-router-ho-tro-wi-fi-7-4806353.html) - 17:04 20/10/2024
