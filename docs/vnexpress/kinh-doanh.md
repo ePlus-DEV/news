@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [&#39;Sửa đổi ba chính sách lớn của Luật Điện lực&#39;](https://vnexpress.net/sua-doi-ba-chinh-sach-lon-cua-luat-dien-luc-4806293.html) - 09:56 20/10/2024
+- ⛽️ [&#39;Luật Điện lực sửa đổi sẽ giải quyết bất cập về giá điện&#39;](https://vnexpress.net/luat-dien-luc-sua-doi-se-giai-quyet-bat-cap-ve-gia-dien-4806293.html) - 09:56 20/10/2024
 - 🐲 [Tập đoàn Hà Đô bị phạt thuế 7,6 tỷ đồng](https://vnexpress.net/tap-doan-ha-do-bi-phat-thue-7-6-ty-dong-4806270.html) - 07:27 20/10/2024
 - 🔥 [Vì sao Bitcoin không lập kỷ lục như vàng và chứng khoán Mỹ?](https://vnexpress.net/gia-bitcoin-hom-nay-20-10-vi-sao-bitcoin-khong-lap-ky-luc-nhu-vang-va-chung-khoan-my-4806203.html) - 02:48 20/10/2024
 - 🐵 [Cách Temu, Shein &#39;đánh chiếm&#39; thị trường](https://vnexpress.net/cach-temu-shein-danh-chiem-thi-truong-4806140.html) - 23:00 19/10/2024
