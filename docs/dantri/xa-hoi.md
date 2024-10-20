@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- dantri-xa-hoi:START -->
-- 🫣 [Quốc hội dự kiến bầu Chủ tịch nước vào ngày mai 21/10](https://dantri.com.vn/xa-hoi/quoc-hoi-du-kien-bau-chu-tich-nuoc-vao-ngay-mai-2110-20241020151622763.htm) - 08:20 20/10/2024
+- 🫣 [Quốc hội sẽ bầu Chủ tịch nước vào ngày 21/10](https://dantri.com.vn/xa-hoi/quoc-hoi-se-bau-chu-tich-nuoc-vao-ngay-2110-20241020151622763.htm) - 08:20 20/10/2024
 - 💼 [Phát huy tính Đảng trong xây dựng Nhà nước pháp quyền XHCN Việt Nam](https://dantri.com.vn/xa-hoi/phat-huy-tinh-dang-trong-xay-dung-nha-nuoc-phap-quyen-xhcn-viet-nam-20241019135842568.htm) - 08:00 20/10/2024
 - 🎊 [Xe chở dăm gỗ lật nghiêng đè 3 người đi xe máy tử vong](https://dantri.com.vn/xa-hoi/xe-cho-dam-go-lat-nghieng-de-3-nguoi-di-xe-may-tu-vong-20241020131548794.htm) - 06:40 20/10/2024
 - 🙉 [Chưa công nhận kết quả vụ đấu giá mỏ cát 373 tỷ đồng ở Quảng Nam](https://dantri.com.vn/xa-hoi/chua-cong-nhan-ket-qua-vu-dau-gia-mo-cat-373-ty-dong-o-quang-nam-20241020121733973.htm) - 05:36 20/10/2024
