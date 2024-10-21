@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [Phó chủ tịch Ủy ban châu Âu: Sẵn sàng giúp Việt Nam chuyển đổi xanh](https://vnexpress.net/pho-chu-tich-uy-ban-chau-au-san-sang-giup-viet-nam-chuyen-doi-xanh-4806733.html) - 11:28 21/10/2024
 - 🐲 [Techcombank lãi 9 tháng 22.800 tỷ đồng](https://vnexpress.net/techcombank-lai-9-thang-22-800-ty-dong-4806722.html) - 10:30 21/10/2024
 - 🔥 [Cổ phiếu Eximbank tăng kịch trần](https://vnexpress.net/co-phieu-eximbank-tang-kich-tran-4806719.html) - 09:22 21/10/2024
-- 🐵 [Những cách nào để trung hòa Carbon?](https://vnexpress.net/nhung-cach-nao-de-trung-hoa-carbon-4796004.html) - 09:16 21/10/2024
+- 🐵 [Những cách để trung hòa Carbon](https://vnexpress.net/nhung-cach-de-trung-hoa-carbon-4796004.html) - 09:16 21/10/2024
 - 🦅 [Hạn ngạch phát thải khí nhà kính là gì?](https://vnexpress.net/han-ngach-phat-thai-khi-nha-kinh-la-gi-4798958.html) - 09:01 21/10/2024
 - 😺 [Sầu riêng giúp xuất khẩu rau quả lập kỷ lục mới](https://vnexpress.net/sau-rieng-giup-xuat-khau-rau-qua-lap-ky-luc-moi-4806622.html) - 08:54 21/10/2024
 - 🤩 [Chính phủ đề xuất Nhà nước độc quyền đầu tư điện hạt nhân](https://vnexpress.net/chinh-phu-de-xuat-nha-nuoc-doc-quyen-dau-tu-dien-hat-nhan-4806601.html) - 08:14 21/10/2024
