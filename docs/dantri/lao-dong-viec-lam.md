@@ -5,7 +5,7 @@ sidebar_position: 19
 
 <!-- dantri-lao-dong-viec-lam:START -->
 - ⚗️ [Hàng loạt doanh nghiệp xuất khẩu lao động bị xử phạt vì vi phạm hợp đồng](https://dantri.com.vn/lao-dong-viec-lam/hang-loat-doanh-nghiep-xuat-khau-lao-dong-bi-xu-phat-vi-vi-pham-hop-dong-20241021140508930.htm) - 07:13 21/10/2024
-- 🙉 [Nông sản được giá, người dân Đắk Lắk sắm hàng nghìn ô tô](https://dantri.com.vn/lao-dong-viec-lam/nong-san-duoc-gia-nguoi-dan-dak-lak-sam-hang-nghin-o-to-20241021122719595.htm) - 07:08 21/10/2024
+- 🙉 [Nông sản được giá, người dân tỉnh thuần nông sắm hàng nghìn ô tô](https://dantri.com.vn/lao-dong-viec-lam/nong-san-duoc-gia-nguoi-dan-tinh-thuan-nong-sam-hang-nghin-o-to-20241021122719595.htm) - 07:08 21/10/2024
 - 🕴 [Người phụ nữ làng chài tạo sản phẩm che mưa nắng đẹp mắt từ thứ vứt đi](https://dantri.com.vn/lao-dong-viec-lam/nguoi-phu-nu-lang-chai-tao-san-pham-che-mua-nang-dep-mat-tu-thu-vut-di-20241020112513370.htm) - 04:07 21/10/2024
 - 🧐 [Nam nhiếp ảnh tạo dáng &quot;cực dẻo&quot; hút khách nữ, cho thu nhập cao](https://dantri.com.vn/lao-dong-viec-lam/nam-nhiep-anh-tao-dang-cuc-deo-hut-khach-nu-cho-thu-nhap-cao-20241020222429333.htm) - 02:46 21/10/2024
 - 🧑‍💻 [Vì sao tỷ lệ trái dừa có sáp thường thấp hơn 25%?](https://dantri.com.vn/lao-dong-viec-lam/vi-sao-ty-le-trai-dua-co-sap-thuong-thap-hon-25-20241020203747943.htm) - 02:27 21/10/2024
