@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Hiện trạng ga đường sắt Đà Nẵng](https://vnexpress.net/hien-trang-ga-duong-sat-da-nang-4797860.html) - 00:52 21/10/2024
 - 🤓 [Kẹt xe bùng phát quanh ngã tư Hàng Xanh](https://vnexpress.net/ket-xe-bung-phat-quanh-nga-tu-hang-xanh-4806272.html) - 22:00 20/10/2024
-- ⚗️ [Sáng nay khai mạc kỳ họp Quốc hội thứ 8](https://vnexpress.net/sang-nay-khai-mac-ky-hop-quoc-hoi-thu-8-4806340.html) - 17:00 20/10/2024
+- ⚗️ [Hôm nay Quốc hội bầu Chủ tịch nước](https://vnexpress.net/hom-nay-quoc-hoi-bau-chu-tich-nuoc-4806340.html) - 17:00 20/10/2024
 - 🌊 [Tổng Bí thư, Chủ tịch nước: Thượng tôn pháp luật tạo nên sức mạnh](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-thuong-ton-phap-luat-tao-nen-suc-manh-4806118.html) - 17:00 20/10/2024
 - 🎓 [Nhà ba tầng ở Bắc Ninh cháy ngùn ngụt](https://vnexpress.net/nha-ba-tang-o-bac-ninh-chay-ngun-ngut-4806348.html) - 15:44 20/10/2024
 - 🔥 [Người đàn ông nhảy dù vướng vào dây điện](https://vnexpress.net/nguoi-dan-ong-nhay-du-vuong-vao-day-dien-4806332.html) - 13:37 20/10/2024
