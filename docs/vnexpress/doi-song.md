@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Ngày trở về của đứa con bị cho 44 năm trước](https://vnexpress.net/ngay-tro-ve-cua-dua-con-bi-cho-44-nam-truoc-4806068.html) - 23:29 20/10/2024
+- 🚀 [Ngày trở về của đứa con cho đi 44 năm trước](https://vnexpress.net/ngay-tro-ve-cua-dua-con-cho-di-44-nam-truoc-4806068.html) - 23:29 20/10/2024
 - 🎓 [Đường vào đời của cô bé mồ côi cụt chân](https://vnexpress.net/duong-vao-doi-cua-co-be-mo-coi-cut-chan-4805028.html) - 18:05 20/10/2024
 - 🚦 [Phụ nữ muốn gì ở đàn ông?](https://vnexpress.net/phu-nu-muon-gi-o-dan-ong-4805904.html) - 12:00 20/10/2024
 - 🦣 [Show diễn thời trang của những người mẫu ngoại hình đặc biệt](https://vnexpress.net/show-dien-thoi-trang-cua-nhung-nguoi-mau-ngoai-hinh-dac-biet-4806213.html) - 10:29 20/10/2024
