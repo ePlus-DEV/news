@@ -5,7 +5,7 @@ sidebar_position: 26
 
 <!-- dantri-ban-doc:START -->
 - 🦒 [Trách nhiệm pháp lý của tài xế xe chở dăm gỗ làm chết 3 người](https://dantri.com.vn/ban-doc/trach-nhiem-phap-ly-cua-tai-xe-xe-cho-dam-go-lam-chet-3-nguoi-20241021123207287.htm) - 07:13 21/10/2024
-- 🤓 [Có nên uốn cong đường sắt cao tốc Bắc Nam để phục vụ Nam Định?](https://dantri.com.vn/ban-doc/co-nen-uon-cong-duong-sat-cao-toc-bac-nam-de-phuc-vu-nam-dinh-20241021004217112.htm) - 02:03 21/10/2024
+- 🤓 [Bạn đọc nêu quan điểm về việc đặt ga đường sắt cao tốc tại Nam Định](https://dantri.com.vn/ban-doc/ban-doc-neu-quan-diem-ve-viec-dat-ga-duong-sat-cao-toc-tai-nam-dinh-20241021004217112.htm) - 02:03 21/10/2024
 - 🐻 [Điều kiện để theo học văn bằng 2 các trường Công an nhân dân](https://dantri.com.vn/ban-doc/dieu-kien-de-theo-hoc-van-bang-2-cac-truong-cong-an-nhan-dan-20241021074719405.htm) - 00:49 21/10/2024
 - 🏊 [Góc nhìn pháp lý vụ cô gái bị giết trong nhà nghỉ](https://dantri.com.vn/ban-doc/goc-nhin-phap-ly-vu-co-gai-bi-giet-trong-nha-nghi-20241019182640818.htm) - 00:14 20/10/2024
 - 💄 [Đăng hình ảnh người khác lên mạng để bôi nhọ bị xử lý thế nào?](https://dantri.com.vn/ban-doc/dang-hinh-anh-nguoi-khac-len-mang-de-boi-nho-bi-xu-ly-the-nao-20241019092900187.htm) - 02:31 19/10/2024
