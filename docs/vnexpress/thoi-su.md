@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Đề xuất 4 nhóm vấn đề chất vấn tại kỳ họp 8 Quốc hội khóa 15](https://vnexpress.net/de-xuat-4-nhom-van-de-chat-van-tai-ky-hop-8-quoc-hoi-khoa-15-4806582.html) - 06:44 21/10/2024
 - 🤓 [Hơn 1.000 căn hộ phục vụ tái định cư bị bán ra thị trường](https://vnexpress.net/hon-1-000-can-ho-phuc-vu-tai-dinh-cu-bi-ban-ra-thi-truong-4806357.html) - 05:56 21/10/2024
 - ⚗️ [Doanh nghiệp nội địa sẽ tham gia xây dựng đường sắt tốc độ cao Bắc Nam](https://vnexpress.net/doanh-nghiep-noi-dia-se-tham-gia-xay-dung-duong-sat-toc-do-cao-bac-nam-4806435.html) - 05:22 21/10/2024
-- 🌊 [Mưa lớn gây ngập nhiều tuyến phố ở Quảng Bình, Thừa Thiên Huế](https://vnexpress.net/mua-lon-gay-ngap-nhieu-tuyen-pho-o-quang-binh-thua-thien-hue-4806515.html) - 04:41 21/10/2024
+- 🌊 [Mưa lớn gây ngập nhiều tuyến đường ở miền Trung](https://vnexpress.net/mua-lon-gay-ngap-nhieu-tuyen-duong-o-mien-trung-4806515.html) - 04:41 21/10/2024
 - 🎓 [Đề nghị Chính phủ sớm có giải pháp cải thiện mức sinh](https://vnexpress.net/de-nghi-chinh-phu-som-co-giai-phap-cai-thien-muc-sinh-4806521.html) - 04:31 21/10/2024
 - 🔥 [Tổng Bí thư, Chủ tịch nước: Tập trung gỡ điểm nghẽn thể chế](https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-tap-trung-go-diem-nghen-the-che-4806489.html) - 04:04 21/10/2024
 - 🦏 [Thu hẹp vòng xoay cửa ngõ TP HCM để giảm tai nạn](https://vnexpress.net/thu-hep-vong-xoay-cua-ngo-tp-hcm-de-giam-tai-nan-4806455.html) - 03:25 21/10/2024
