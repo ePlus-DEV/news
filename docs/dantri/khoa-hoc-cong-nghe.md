@@ -4,7 +4,7 @@ sidebar_position: 25
 ---
 
 <!-- dantri-khoa-hoc-cong-nghe:START -->
-- 🪄 [Khoa học tìm ra cách giúp gà đẻ ra không cần vỏ trứng](https://dantri.com.vn/khoa-hoc-cong-nghe/khoa-hoc-tim-ra-cach-giup-ga-de-ra-khong-can-vo-trung-20241021111447653.htm) - 05:16 21/10/2024
+- 🪄 [Khoa học tìm ra cách giúp gà nở ra mà không cần vỏ trứng](https://dantri.com.vn/khoa-hoc-cong-nghe/khoa-hoc-tim-ra-cach-giup-ga-no-ra-ma-khong-can-vo-trung-20241021111447653.htm) - 05:16 21/10/2024
 - 🤭 [Nhà khoa học đứng sau thành công của cây hoa ở Việt Nam](https://dantri.com.vn/khoa-hoc-cong-nghe/nha-khoa-hoc-dung-sau-thanh-cong-cua-cay-hoa-o-viet-nam-20241020224725163.htm) - 00:49 21/10/2024
 - 🐻 [Thế giới động vật: Kết cục bi thảm của sư tử đực khi bị kẻ thù bao vây](https://dantri.com.vn/khoa-hoc-cong-nghe/the-gioi-dong-vat-ket-cuc-bi-tham-cua-su-tu-duc-khi-bi-ke-thu-bao-vay-20241020031236708.htm) - 22:14 19/10/2024
 - 🥰 [Vì sao không thể nhìn thấy thứ gì đi xuyên qua lỗ đen?](https://dantri.com.vn/khoa-hoc-cong-nghe/vi-sao-khong-the-nhin-thay-thu-gi-di-xuyen-qua-lo-den-20241020031759002.htm) - 22:07 19/10/2024
