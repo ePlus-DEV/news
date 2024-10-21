@@ -6,8 +6,8 @@ sidebar_position: 16
 <!-- dantri-su-kien:START -->
 - 🎭 [Yêu cầu trường đại học thu hồi toàn bộ bằng của ông Vương Tấn Việt](https://dantri.com.vn/giao-duc/yeu-cau-truong-dai-hoc-thu-hoi-toan-bo-bang-cua-ong-vuong-tan-viet-20241021223453255.htm) - 15:38 21/10/2024
 - 👨‍🏫 [Vụ 3 người thương vong ở Quảng Bình: Các nạn nhân bị rượt đuổi 20km](https://dantri.com.vn/phap-luat/vu-3-nguoi-thuong-vong-o-quang-binh-cac-nan-nhan-bi-ruot-duoi-20km-20241021194728022.htm) - 14:01 21/10/2024
-- 🌮 [C.Ronaldo, Son Heung Min thua cầu thủ vô danh ở giải Quả bóng vàng châu Á](https://dantri.com.vn/the-thao/cronaldo-son-heung-min-thua-cau-thu-vo-danh-o-giai-qua-bong-vang-chau-a-20241021200447287.htm) - 13:04 21/10/2024
-- 🕯 [Neymar bật khóc, nói lời đau đớn khi tái xuất sau 1 năm vắng bóng](https://dantri.com.vn/the-thao/neymar-bat-khoc-noi-loi-dau-don-khi-tai-xuat-sau-1-nam-vang-bong-20241021194941605.htm) - 12:49 21/10/2024
+- 🌮 [Neymar bật khóc, nói lời đau đớn khi tái xuất sau 1 năm vắng bóng](https://dantri.com.vn/the-thao/neymar-bat-khoc-noi-loi-dau-don-khi-tai-xuat-sau-1-nam-vang-bong-20241021194941605.htm) - 13:10 21/10/2024
+- 🕯 [C.Ronaldo, Son Heung Min thua cầu thủ vô danh ở giải Quả bóng vàng châu Á](https://dantri.com.vn/the-thao/cronaldo-son-heung-min-thua-cau-thu-vo-danh-o-giai-qua-bong-vang-chau-a-20241021200447287.htm) - 13:04 21/10/2024
 - 🪜 [Chờ mua vàng miếng, vàng nhẫn khi giá lên kỷ lục: Nhiều người về tay không](https://dantri.com.vn/kinh-doanh/cho-mua-vang-mieng-vang-nhan-khi-gia-len-ky-luc-nhieu-nguoi-ve-tay-khong-20241021183726488.htm) - 12:06 21/10/2024
 - 🐘 [Bộ trưởng Quốc phòng Mỹ bất ngờ đi tàu hỏa đến thủ đô Ukraine](https://dantri.com.vn/the-gioi/bo-truong-quoc-phong-my-bat-ngo-di-tau-hoa-den-thu-do-ukraine-20241021153915433.htm) - 09:43 21/10/2024
 - 🤔 [Ông Lương Cường giữ chức Chủ tịch nước](https://dantri.com.vn/xa-hoi/ong-luong-cuong-giu-chuc-chu-tich-nuoc-20241020215545176.htm) - 09:34 21/10/2024
