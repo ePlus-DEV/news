@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Fan tưởng nhớ Liam Payne](https://vnexpress.net/fan-tuong-nho-liam-payne-4806414.html) - 03:16 21/10/2024
+- 🌏 [Hàng nghìn fan tưởng nhớ Liam Payne](https://vnexpress.net/hang-nghin-fan-tuong-nho-liam-payne-4806414.html) - 03:16 21/10/2024
 - 💫 [Bằng Kiều giễu chiều cao của bản thân](https://vnexpress.net/bang-kieu-gieu-chieu-cao-cua-ban-than-4806428.html) - 03:06 21/10/2024
 - 🌮 [4 mẫu Piaget được đề cử giải &#39;Oscar ngành đồng hồ&#39;](https://vnexpress.net/4-mau-piaget-duoc-de-cu-giai-oscar-nganh-dong-ho-4805386.html) - 01:00 21/10/2024
 - 🧠 [Phương Mỹ Chi hát dưới mưa](https://vnexpress.net/phuong-my-chi-hat-duoi-mua-4806356.html) - 17:28 20/10/2024
