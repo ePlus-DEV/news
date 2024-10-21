@@ -207,8 +207,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - ⛽️ [Ông Lương Cường được bầu làm Chủ tịch nước](https://thanhnien.vn/ong-luong-cuong-duoc-bau-lam-chu-tich-nuoc-185241021175301702.htm) - 10:54 21/10/2024
 - 🎉 [Phát biểu nhậm chức của tân Chủ tịch nước Lương Cường](https://thanhnien.vn/phat-bieu-nham-chuc-cua-tan-chu-tich-nuoc-luong-cuong-185241021170606273.htm) - 10:49 21/10/2024
 - 🎊 [HLV Kim Sang-sik đang bỏ sót những tài năng tấn công này chăng?](https://thanhnien.vn/hlv-kim-sang-sik-dang-bo-sot-nhung-tai-nang-tan-cong-nay-chang-185241021153200464.htm) - 10:43 21/10/2024
-- 🥳 [World Cup billiards: Nước rút bùng nổ, Hoàn Tất &#39;mở hàng&#39; chiến thắng cho Việt Nam](https://thanhnien.vn/world-cup-billiards-nuoc-rut-bung-no-hoan-tat-mo-hang-chien-thang-cho-viet-nam-185241021173529866.htm) - 10:38 21/10/2024
-- 🤡 [Kinh nghiệm làm kinh tế xanh từ châu Âu](https://thanhnien.vn/kinh-nghiem-lam-kinh-te-xanh-tu-chau-au-185241021172516018.htm) - 10:37 21/10/2024<!-- thanhnien:END -->
+- 🥳 [Ông Vương Tấn Việt sử dụng bằng cấp 3 bổ túc văn hóa không hợp pháp](https://thanhnien.vn/ong-vuong-tan-viet-su-dung-bang-cap-3-bo-tuc-van-hoa-khong-hop-phap-185241021172105391.htm) - 10:41 21/10/2024
+- 🤡 [World Cup billiards: Nước rút bùng nổ, Hoàn Tất &#39;mở hàng&#39; chiến thắng cho Việt Nam](https://thanhnien.vn/world-cup-billiards-nuoc-rut-bung-no-hoan-tat-mo-hang-chien-thang-cho-viet-nam-185241021173529866.htm) - 10:38 21/10/2024<!-- thanhnien:END -->
 
 ## Báo Lao Động
 <!-- laodong:START -->
