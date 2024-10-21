@@ -4,11 +4,11 @@ sidebar_position: 5
 ---
 
 <!-- dantri-kinh-doanh:START -->
-- 🏊 [Jemmia Diamond khai trương tại Cần Thơ, trao 100 triệu đồng cho quỹ từ thiện](https://dantri.com.vn/kinh-doanh/jemmia-diamond-khai-truong-tai-can-tho-trao-100-trieu-dong-cho-quy-tu-thien-20241020234541893.htm) - 03:00 21/10/2024
-- 🦆 [Nhà Cường &quot;Đô La&quot; tăng vọt tài sản; công ty dạy làm giàu thua lỗ](https://dantri.com.vn/kinh-doanh/nha-cuong-do-la-tang-vot-tai-san-cong-ty-day-lam-giau-thua-lo-20241021081528549.htm) - 01:53 21/10/2024
-- 🦄 [Số hóa và xanh hóa tiếp tục là động lực phát triển của Nam A Bank](https://dantri.com.vn/kinh-doanh/so-hoa-va-xanh-hoa-tiep-tuc-la-dong-luc-phat-trien-cua-nam-a-bank-20241018225114512.htm) - 01:00 21/10/2024
-- 🌝 [Đặt vé máy bay, khách sạn, xe khách trên MyVIB để tiết kiệm tới 3,5 triệu đồng](https://dantri.com.vn/kinh-doanh/dat-ve-may-bay-khach-san-xe-khach-tren-myvib-de-tiet-kiem-toi-35-trieu-dong-20241020212518252.htm) - 01:00 21/10/2024
-- 💃 [Vàng miếng SJC tăng 2 triệu đồng, lên 88 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/vang-mieng-sjc-tang-2-trieu-dong-len-88-trieu-dongluong-20241021030735026.htm) - 00:56 21/10/2024
+- 🏊 [Giá vàng nhẫn tăng nhanh, vượt 86 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/gia-vang-nhan-tang-nhanh-vuot-86-trieu-dongluong-20241021030735026.htm) - 05:20 21/10/2024
+- 🦆 [Jemmia Diamond khai trương tại Cần Thơ, trao 100 triệu đồng cho quỹ từ thiện](https://dantri.com.vn/kinh-doanh/jemmia-diamond-khai-truong-tai-can-tho-trao-100-trieu-dong-cho-quy-tu-thien-20241020234541893.htm) - 03:00 21/10/2024
+- 🦄 [Nhà Cường &quot;Đô La&quot; tăng vọt tài sản; công ty dạy làm giàu thua lỗ](https://dantri.com.vn/kinh-doanh/nha-cuong-do-la-tang-vot-tai-san-cong-ty-day-lam-giau-thua-lo-20241021081528549.htm) - 01:53 21/10/2024
+- 🌝 [Số hóa và xanh hóa tiếp tục là động lực phát triển của Nam A Bank](https://dantri.com.vn/kinh-doanh/so-hoa-va-xanh-hoa-tiep-tuc-la-dong-luc-phat-trien-cua-nam-a-bank-20241018225114512.htm) - 01:00 21/10/2024
+- 💃 [Đặt vé máy bay, khách sạn, xe khách trên MyVIB để tiết kiệm tới 3,5 triệu đồng](https://dantri.com.vn/kinh-doanh/dat-ve-may-bay-khach-san-xe-khach-tren-myvib-de-tiet-kiem-toi-35-trieu-dong-20241020212518252.htm) - 01:00 21/10/2024
 - 🦏 [Tập đoàn Hà Đô vi phạm thuế, cần nộp gần 8 tỷ đồng](https://dantri.com.vn/kinh-doanh/tap-doan-ha-do-vi-pham-thue-can-nop-gan-8-ty-dong-20241021064705182.htm) - 00:41 21/10/2024
 - 🦩 [Thủ tướng: Phấn đấu GDP Việt Nam đạt 800 tỷ USD vào 2030](https://dantri.com.vn/kinh-doanh/thu-tuong-phan-dau-gdp-viet-nam-dat-800-ty-usd-vao-2030-20241020235321960.htm) - 00:22 21/10/2024
 - 💡 [Vì sao Trung Quốc bất ngờ ồ ạt gom mua cau Việt Nam?](https://dantri.com.vn/kinh-doanh/vi-sao-trung-quoc-bat-ngo-o-at-gom-mua-cau-viet-nam-20241020180514806.htm) - 13:41 20/10/2024
