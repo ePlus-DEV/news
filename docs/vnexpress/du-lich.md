@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Xu hướng du lịch năm 2025: khách dần từ bỏ nơi xa hoa, đông đúc](https://vnexpress.net/xu-huong-du-lich-nam-2025-khach-dan-tu-bo-noi-xa-hoa-dong-duc-4806444.html) - 12:11 21/10/2024
+- 💂 [Xu hướng du lịch 2025: khách dần từ bỏ nơi xa hoa, đông đúc](https://vnexpress.net/xu-huong-du-lich-2025-khach-dan-tu-bo-noi-xa-hoa-dong-duc-4806444.html) - 12:11 21/10/2024
 - 🪄 [Món chè hút khách TP HCM vì tên gọi xấu xí](https://vnexpress.net/mon-che-hut-khach-tp-hcm-vi-ten-goi-xau-xi-4805366.html) - 05:17 21/10/2024
 - 🦅 [Khách quốc tế thứ 3 triệu đến Quảng Ninh trên tàu siêu sang](https://vnexpress.net/khach-quoc-te-thu-3-trieu-den-quang-ninh-tren-tau-sieu-sang-4806419.html) - 03:00 21/10/2024
 - 🕴 [7 chuyến tàu sang trọng hàng đầu thế giới](https://vnexpress.net/7-chuyen-tau-sang-trong-hang-dau-the-gioi-4806258.html) - 00:00 21/10/2024
