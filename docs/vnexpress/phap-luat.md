@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Kẻ trốn truy nã bị bắt khi tham gia tiệc ma túy trong biệt thự](https://vnexpress.net/ke-tron-truy-na-bi-bat-khi-tham-gia-tiec-ma-tuy-trong-biet-thu-4806598.html) - 06:58 21/10/2024
+- 😎 [Kẻ mang lệnh truy nã bị bắt khi tham gia tiệc ma túy trong biệt thự](https://vnexpress.net/ke-mang-lenh-truy-na-bi-bat-khi-tham-gia-tiec-ma-tuy-trong-biet-thu-4806598.html) - 06:58 21/10/2024
 - 🥰 [Đốt bạn nhậu tử vong](https://vnexpress.net/dot-ban-nhau-tu-vong-4806595.html) - 06:24 21/10/2024
 - 🎓 [Giả cán bộ Cục Cảnh sát hình sự yêu cầu nộp một tỷ đồng &#39;chạy án&#39;](https://vnexpress.net/gia-can-bo-cuc-canh-sat-hinh-su-yeu-cau-nop-mot-ty-dong-chay-an-4806501.html) - 06:11 21/10/2024
 - 🤓 [Hai thiếu niên tử vong sau cuộc truy sát](https://vnexpress.net/hai-thieu-nien-tu-vong-sau-cuoc-truy-sat-4806479.html) - 03:10 21/10/2024
