@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Đại học hạng 500 thế giới được mở trường tại Việt Nam](https://vnexpress.net/dai-hoc-hang-500-the-gioi-duoc-mo-truong-tai-viet-nam-4806355.html) - 01:29 21/10/2024
+- 🤓 [Đại học nước ngoài hạng 500 thế giới mới được mở trường ở Việt Nam](https://vnexpress.net/dai-hoc-nuoc-ngoai-hang-500-the-gioi-moi-duoc-mo-truong-o-viet-nam-4806355.html) - 01:29 21/10/2024
 - 🦆 [​PGS người Việt nhận tài trợ nghiên cứu hơn 16 triệu USD](https://vnexpress.net/pgs-nguoi-viet-nhan-tai-tro-nghien-cuu-hon-16-trieu-usd-4805832.html) - 23:00 20/10/2024
 - 🦩 [30 tuổi có nên học ngành Công nghệ thông tin?](https://vnexpress.net/30-tuoi-co-nen-hoc-nganh-cong-nghe-thong-tin-4805431.html) - 16:59 20/10/2024
 - 🌮 [Loại gia vị nào đắt nhất thế giới?](https://vnexpress.net/loai-gia-vi-nao-dat-nhat-the-gioi-4806314.html) - 13:05 20/10/2024
