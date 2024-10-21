@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Chè &#39;phân gà&#39; hút khách tại TP HCM](https://vnexpress.net/che-phan-ga-hut-khach-tai-tp-hcm-4805366.html) - 05:17 21/10/2024
+- 💂 [Món chè hút khách TP HCM vì tên gọi xấu xí](https://vnexpress.net/mon-che-hut-khach-tp-hcm-vi-ten-goi-xau-xi-4805366.html) - 05:17 21/10/2024
 - 🪄 [Khách quốc tế thứ 3 triệu đến Quảng Ninh trên tàu siêu sang](https://vnexpress.net/khach-quoc-te-thu-3-trieu-den-quang-ninh-tren-tau-sieu-sang-4806419.html) - 03:00 21/10/2024
 - 🦅 [7 chuyến tàu sang trọng hàng đầu thế giới](https://vnexpress.net/7-chuyen-tau-sang-trong-hang-dau-the-gioi-4806258.html) - 00:00 21/10/2024
 - 🕴 [Hoa đào nở sớm ở Tà Xùa](https://vnexpress.net/hoa-dao-no-som-o-ta-xua-4806261.html) - 17:00 20/10/2024
