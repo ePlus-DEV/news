@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Dòng tiền có dịch chuyển từ chứng khoán sang bất động sản?](https://vnexpress.net/dong-tien-co-dich-chuyen-tu-chung-khoan-sang-bat-dong-san-4806158.html) - 22:00 20/10/2024
+- ⛽️ [&#39;Dòng tiền có dấu hiệu dịch chuyển từ chứng khoán sang bất động sản&#39;](https://vnexpress.net/dong-tien-co-dau-hieu-dich-chuyen-tu-chung-khoan-sang-bat-dong-san-4806158.html) - 22:00 20/10/2024
 - 🐲 [Giá vàng có thể tăng tiếp tuần này](https://vnexpress.net/gia-vang-co-the-tang-tiep-tuan-nay-4806336.html) - 17:21 20/10/2024
 - 🔥 [Vietjet vào top 50 thương hiệu mạnh Việt Nam 2024](https://vnexpress.net/vietjet-vao-top-50-thuong-hieu-manh-viet-nam-2024-4806327.html) - 12:10 20/10/2024
 - 🐵 [Thủ tướng: Quy mô nền kinh tế dự kiến đạt 500 tỷ USD vào 2025](https://vnexpress.net/thu-tuong-quy-mo-nen-kinh-te-du-kien-dat-500-ty-usd-vao-2025-4806312.html) - 10:56 20/10/2024
