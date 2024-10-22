@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Trình Thủ tướng phương án nghỉ Tết Âm lịch 9 ngày](https://dantri.com.vn/lao-dong-viec-lam/trinh-thu-tuong-phuong-an-nghi-tet-am-lich-9-ngay-20241022154848071.htm) - 09:41 22/10/2024
+- ⚗️ [Trình Thủ tướng phương án nghỉ Tết Ất Tỵ 9 ngày](https://dantri.com.vn/lao-dong-viec-lam/trinh-thu-tuong-phuong-an-nghi-tet-at-ty-9-ngay-20241022154848071.htm) - 09:41 22/10/2024
 - 🙉 [Đề xuất xây dựng sân pickleball ở trung tâm Đà Lạt phục vụ người lao động](https://dantri.com.vn/lao-dong-viec-lam/de-xuat-xay-dung-san-pickleball-o-trung-tam-da-lat-phuc-vu-nguoi-lao-dong-20241022133418380.htm) - 07:23 22/10/2024
 - 🕴 [Giá cau đang cao chót vót, thương lái bất ngờ dừng mua trong nhiều ngày](https://dantri.com.vn/lao-dong-viec-lam/gia-cau-dang-cao-chot-vot-thuong-lai-bat-ngo-dung-mua-trong-nhieu-ngay-20241022112015131.htm) - 06:09 22/10/2024
 - 🧐 [Nghệ nhân biến rơm thành sản phẩm trưng bày ứng dụng cao](https://dantri.com.vn/lao-dong-viec-lam/nghe-nhan-bien-rom-thanh-san-pham-trung-bay-ung-dung-cao-20241019205255670.htm) - 05:59 22/10/2024
