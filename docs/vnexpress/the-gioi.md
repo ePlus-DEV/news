@@ -11,7 +11,7 @@ sidebar_position: 2
 - 🦏 [Ông Trump bị 5 người da màu kiện tội phỉ báng](https://vnexpress.net/ong-trump-bi-5-nguoi-da-mau-kien-toi-phi-bang-4806849.html) - 03:41 22/10/2024
 - 🦒 [Nghị sĩ Australia la ó, từ chối công nhận Vua Anh](https://vnexpress.net/nghi-si-australia-la-o-tu-choi-cong-nhan-vua-anh-4806889.html) - 03:28 22/10/2024
 - 🌈 [Xe tăng Abrams Ukraine lần đầu tham chiến ở Kursk](https://vnexpress.net/xe-tang-abrams-ukraine-lan-dau-tham-chien-o-kursk-4806888.html) - 03:01 22/10/2024
-- 🧑‍🏫 [Khoảnh khắc đám đông cứu người ở Gaza bị tập kích](https://vnexpress.net/khoanh-khac-dam-dong-cuu-nguoi-o-gaza-bi-tap-kich-4806865.html) - 02:58 22/10/2024
+- 🧑‍🏫 [Khoảnh khắc đám đông cứu người ở Gaza bị phóng đạn](https://vnexpress.net/khoanh-khac-dam-dong-cuu-nguoi-o-gaza-bi-phong-dan-4806865.html) - 02:58 22/10/2024
 - 🐲 [Tổng thống Brazil chấn thương đầu vì ngã trong phòng tắm](https://vnexpress.net/tong-thong-brazil-chan-thuong-dau-vi-nga-trong-phong-tam-4806874.html) - 02:34 22/10/2024
 - 🦒 [Tehran nói &#39;Mỹ phải chịu trách nhiệm&#39; nếu Israel trả đũa Iran](https://vnexpress.net/tehran-noi-my-phai-chiu-trach-nhiem-neu-israel-tra-dua-iran-4806862.html) - 02:15 22/10/2024
 - 🐻 [Phó tướng bà Harris chỉ trích tiền thưởng của Elon Musk](https://vnexpress.net/pho-tuong-ba-harris-chi-trich-tien-thuong-cua-elon-musk-4806844.html) - 01:39 22/10/2024
