@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [HLV Jose Mourinho bị chỉ trích phá nát CLB Thổ Nhĩ Kỳ](https://dantri.com.vn/the-thao/hlv-jose-mourinho-bi-chi-trich-pha-nat-clb-tho-nhi-ky-20241022194735257.htm) - 12:47 22/10/2024
-- 💯 [FIFA bị chỉ trích dữ dội vì… &quot;ăn theo&quot; Lionel Messi](https://dantri.com.vn/the-thao/fifa-bi-chi-trich-du-doi-vi-an-theo-lionel-messi-20241022185016459.htm) - 12:15 22/10/2024
+- 🎡 [FIFA bị chỉ trích dữ dội vì… &quot;ăn theo&quot; Lionel Messi](https://dantri.com.vn/the-thao/fifa-bi-chi-trich-du-doi-vi-an-theo-lionel-messi-20241022185016459.htm) - 13:15 22/10/2024
+- 💯 [HLV Jose Mourinho bị chỉ trích phá nát CLB Thổ Nhĩ Kỳ](https://dantri.com.vn/the-thao/hlv-jose-mourinho-bi-chi-trich-pha-nat-clb-tho-nhi-ky-20241022194735257.htm) - 12:47 22/10/2024
 - ⛽️ [Bóng đá Việt Nam ở giai đoạn sa sút: Bước ngoặt đột phá tại AFF Cup](https://dantri.com.vn/the-thao/bong-da-viet-nam-o-giai-doan-sa-sut-buoc-ngoat-dot-pha-tai-aff-cup-20241022155356762.htm) - 09:13 22/10/2024
 - 💃 [HLV Mai Đức Chung chia sẻ trước thềm đối đầu Uzbekistan và Trung Quốc](https://dantri.com.vn/the-thao/hlv-mai-duc-chung-chia-se-truoc-them-doi-dau-uzbekistan-va-trung-quoc-20241022152354482.htm) - 07:50 22/10/2024
 - 🌈 [HLV Cristiano Roland: &quot;U17 Việt Nam ở bảng đấu không dễ dàng&quot;](https://dantri.com.vn/the-thao/hlv-cristiano-roland-u17-viet-nam-o-bang-dau-khong-de-dang-20241022152915593.htm) - 07:31 22/10/2024
