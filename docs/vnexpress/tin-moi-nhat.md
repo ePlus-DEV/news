@@ -5,7 +5,7 @@ sidebar_position: 9
 
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Vì sao Elon Musk quyết &#39;tất tay&#39; cho Trump?](https://vnexpress.net/vi-sao-elon-musk-quyet-tat-tay-cho-trump-4807244.html) - 21:00 22/10/2024
-- 🐎 [Vinicius lập hat-trick, Real thắng đậm Dortmund](https://vnexpress.net/vinicius-lap-hat-trick-real-thang-dam-dortmund-4807248.html) - 20:54 22/10/2024
+- 🐎 [Real thắng đậm Dortmund dù bị dẫn hai bàn](https://vnexpress.net/real-thang-dam-dortmund-du-bi-dan-hai-ban-4807248.html) - 20:54 22/10/2024
 - 🦍 [Ronaldo đứt mạch 5 trận ghi bàn cho Al Nassr](https://vnexpress.net/ronaldo-dut-mach-5-tran-ghi-ban-cho-al-nassr-4807247.html) - 19:51 22/10/2024
 - 🏊 [Cảnh sát bất lực vì ôtô vi phạm chạy quanh vòng xuyến](https://vnexpress.net/canh-sat-bat-luc-vi-oto-vi-pham-chay-quanh-vong-xuyen-4806992.html) - 17:19 22/10/2024
 - 🎊 [Chi hàng chục nghìn USD cho các liệu pháp sức khỏe cực đoan](https://vnexpress.net/chi-hang-chuc-nghin-usd-cho-cac-lieu-phap-suc-khoe-cuc-doan-4807130.html) - 17:04 22/10/2024
