@@ -26,7 +26,7 @@ sidebar_position: 2
 - 🎉 [Israel tuyên bố tập kích kho tiền, vàng của Hezbollah](https://vnexpress.net/israel-tuyen-bo-tap-kich-kho-tien-vang-cua-hezbollah-4806841.html) - 23:57 21/10/2024
 - 🎉 [Từ &#39;kẻ ngoại đạo chính trị&#39; đến Phó tổng thống trẻ nhất Indonesia](https://vnexpress.net/tu-ke-ngoai-dao-chinh-tri-den-pho-tong-thong-tre-nhat-indonesia-4804276.html) - 22:00 21/10/2024
 - 🌁 [Bà Harris nỗ lực ghi dấu ấn cá nhân với cử tri Mỹ](https://vnexpress.net/ba-harris-no-luc-ghi-dau-an-ca-nhan-voi-cu-tri-my-4806390.html) - 17:00 21/10/2024
-- 🌊 [Lãnh đạo Lào chúc mừng Chủ tịch nước Lương Cường](https://vnexpress.net/lanh-dao-lao-chuc-mung-chu-tich-nuoc-luong-cuong-4806811.html) - 14:40 21/10/2024
+- 🌊 [Lãnh đạo các nước chúc mừng Chủ tịch nước Lương Cường](https://vnexpress.net/lanh-dao-cac-nuoc-chuc-mung-chu-tich-nuoc-luong-cuong-4806811.html) - 14:40 21/10/2024
 - 🕴 [Israel bắt 7 công dân &#39;làm gián điệp cho Iran&#39;](https://vnexpress.net/israel-bat-7-cong-dan-lam-gian-diep-cho-iran-4806804.html) - 13:47 21/10/2024
 - 🎓 [Cảnh sát 11 năm đóng giả con trai quá cố của cặp vợ chồng xa lạ](https://vnexpress.net/canh-sat-11-nam-dong-gia-con-trai-qua-co-cua-cap-vo-chong-xa-la-4806778.html) - 13:27 21/10/2024
 - 🦩 [Israel xin lỗi vì tập kích nhầm khiến ba lính Lebanon thiệt mạng](https://vnexpress.net/israel-xin-loi-vi-tap-kich-nham-khien-ba-linh-lebanon-thiet-mang-4806773.html) - 13:13 21/10/2024
