@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Israel bị tập kích rocket khi Ngoại trưởng Mỹ đến thăm](https://vnexpress.net/israel-bi-tap-kich-rocket-khi-ngoai-truong-my-den-tham-4807529.html) - 08:29 23/10/2024
-- 🕴 [Chuỗi nhà hàng Anh từ bỏ bản quyền từ &#39;Phở&#39;](https://vnexpress.net/chuoi-nha-hang-anh-tu-bo-ban-quyen-tu-pho-4807494.html) - 08:19 23/10/2024
+- 🕴 [Chuỗi nhà hàng Anh từ bỏ bản quyền từ &#39;Phở&#39; trong thương hiệu](https://vnexpress.net/chuoi-nha-hang-anh-tu-bo-ban-quyen-tu-pho-trong-thuong-hieu-4807494.html) - 08:19 23/10/2024
 - 🤭 [Cứu điện thoại, cô gái kẹt trong khe đá suốt 7 tiếng](https://vnexpress.net/cuu-dien-thoai-co-gai-ket-trong-khe-da-suot-7-tieng-4807466.html) - 07:44 23/10/2024
 - 🧑‍💻 [Ông Trump &#39;có thể thắng nếu bầu cử Mỹ diễn ra lúc này&#39;](https://vnexpress.net/ong-trump-co-the-thang-neu-bau-cu-my-dien-ra-luc-nay-4807332.html) - 07:17 23/10/2024
 - 🦏 [Tiêm kích Nga hộ tống chuyên cơ chở ông Tập Cận Bình](https://vnexpress.net/tiem-kich-nga-ho-tong-chuyen-co-cho-ong-tap-can-binh-4807411.html) - 05:51 23/10/2024
