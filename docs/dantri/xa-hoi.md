@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- dantri-xa-hoi:START -->
-- 🫣 [Nước biển tăng tốc xâm thực, Thừa Thiên Huế ban bố tình huống khẩn cấp](https://dantri.com.vn/xa-hoi/nuoc-bien-tang-toc-xam-thuc-thua-thien-hue-ban-bo-tinh-huong-khan-cap-20241023142742400.htm) - 09:06 23/10/2024
+- 🫣 [Bờ biển bị sạt lở nghiêm trọng, Thừa Thiên Huế ban bố tình huống khẩn cấp](https://dantri.com.vn/xa-hoi/bo-bien-bi-sat-lo-nghiem-trong-thua-thien-hue-ban-bo-tinh-huong-khan-cap-20241023142742400.htm) - 09:06 23/10/2024
 - 💼 [Cảnh sát đồng loạt kiểm tra ma túy tại các cảng ở TPHCM](https://dantri.com.vn/xa-hoi/canh-sat-dong-loat-kiem-tra-ma-tuy-tai-cac-cang-o-tphcm-20241023153100586.htm) - 09:03 23/10/2024
 - 🎊 [Chiếc Vertu rơi bên đường tìm lại được chủ nhân](https://dantri.com.vn/xa-hoi/chiec-vertu-roi-ben-duong-tim-lai-duoc-chu-nhan-20241023152740533.htm) - 09:01 23/10/2024
 - 🙉 [Trưởng Công an TP Chí Linh làm Phó Chánh Văn phòng UBND tỉnh Hải Dương](https://dantri.com.vn/xa-hoi/truong-cong-an-tp-chi-linh-lam-pho-chanh-van-phong-ubnd-tinh-hai-duong-20241023151212612.htm) - 08:47 23/10/2024
