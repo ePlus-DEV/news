@@ -5,7 +5,7 @@ sidebar_position: 17
 
 <!-- dantri-the-gioi:START -->
 - 🌋 [Ông Trump được dự báo &quot;chắc thắng&quot; theo số liệu bỏ phiếu sớm](https://dantri.com.vn/the-gioi/ong-trump-duoc-du-bao-chac-thang-theo-so-lieu-bo-phieu-som-20241023211330515.htm) - 14:31 23/10/2024
-- 🎬 [Xả súng, bắt giữ con tin tại tập đoàn quốc phòng Thổ Nhĩ Kỳ, 3 người chết](https://dantri.com.vn/the-gioi/xa-sung-bat-giu-con-tin-tai-tap-doan-quoc-phong-tho-nhi-ky-3-nguoi-chet-20241023205343661.htm) - 14:28 23/10/2024
+- 🎬 [Xả súng, bắt giữ con tin tại tập đoàn quốc phòng Thổ Nhĩ Kỳ, 4 người chết](https://dantri.com.vn/the-gioi/xa-sung-bat-giu-con-tin-tai-tap-doan-quoc-phong-tho-nhi-ky-4-nguoi-chet-20241023205343661.htm) - 14:28 23/10/2024
 - 🧰 [Nga - Belarus thông qua kế hoạch hợp tác quân sự đến năm 2027](https://dantri.com.vn/the-gioi/nga-belarus-thong-qua-ke-hoach-hop-tac-quan-su-den-nam-2027-20241023203714969.htm) - 13:40 23/10/2024
 - 🌋 [Vệ tinh cỡ lớn của Boeing bất ngờ nổ tung trên quỹ đạo](https://dantri.com.vn/the-gioi/ve-tinh-co-lon-cua-boeing-bat-ngo-no-tung-tren-quy-dao-20241023153657456.htm) - 13:39 23/10/2024
 - 🗽 [Ukraine nêu khả năng đạt giải pháp hòa bình chấm dứt xung đột](https://dantri.com.vn/the-gioi/ukraine-neu-kha-nang-dat-giai-phap-hoa-binh-cham-dut-xung-dot-20241023191720303.htm) - 13:04 23/10/2024
