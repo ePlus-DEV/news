@@ -5,7 +5,7 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [Chiến sự Ukraine 23/10: Ông Zelensky nêu kịch bản có thể hạ nhiệt xung đột](https://dantri.com.vn/the-gioi/chien-su-ukraine-2310-ong-zelensky-neu-kich-ban-co-the-ha-nhiet-xung-dot-20241023110717075.htm) - 04:29 23/10/2024
-- 👨‍🏫 [Khởi tố vụ án ô tô lao xuống mương làm 5 người thương vong](https://dantri.com.vn/phap-luat/khoi-to-vu-an-o-to-lao-xuong-muong-lam-5-nguoi-thuong-vong-20241018172454355.htm) - 03:36 23/10/2024
+- 👨‍🏫 [Nhiều dự án trạm dừng nghỉ cao tốc chờ mặt bằng thi công](https://dantri.com.vn/xa-hoi/nhieu-du-an-tram-dung-nghi-cao-toc-cho-mat-bang-thi-cong-20241023100224515.htm) - 03:21 23/10/2024
 - 🌮 [Bán thuốc online nhiều thách thức: Các nước quản lý như thế nào?](https://dantri.com.vn/suc-khoe/ban-thuoc-online-nhieu-thach-thuc-cac-nuoc-quan-ly-nhu-the-nao-20241023091244973.htm) - 02:18 23/10/2024
 - 🕯 [Liên đoàn Billiards &amp; Snooker Việt Nam bị Liên đoàn thế giới đình chỉ 1 năm](https://dantri.com.vn/the-thao/lien-doan-billiards-snooker-viet-nam-bi-lien-doan-the-gioi-dinh-chi-1-nam-20241023083604286.htm) - 02:05 23/10/2024
 - 🪜 [Thực hiện chữ &quot;S&quot; trong ESG để xây dựng nguồn nhân lực bền vững](https://dantri.com.vn/lao-dong-viec-lam/thuc-hien-chu-s-trong-esg-de-xay-dung-nguon-nhan-luc-ben-vung-20241021105601887.htm) - 00:30 23/10/2024
