@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Quả đồi nứt kéo dài, nguy cơ sạt xuống nhà dân](https://vnexpress.net/qua-doi-nut-keo-dai-nguy-co-sat-xuong-nha-dan-4807502.html) - 06:25 23/10/2024
+- 🦒 [Quả đồi nứt kéo dài, nguy cơ sạt xuống vườn người dân](https://vnexpress.net/qua-doi-nut-keo-dai-nguy-co-sat-xuong-vuon-nguoi-dan-4807502.html) - 06:25 23/10/2024
 - 🤓 [Cháy chùa 800 tuổi ở Phú Thọ](https://vnexpress.net/chay-chua-800-tuoi-o-phu-tho-4807488.html) - 05:25 23/10/2024
 - ⚗️ [Sáng kiến Mekong hút nhiều dự án xanh](https://vnexpress.net/sang-kien-mekong-hut-nhieu-du-an-xanh-4807272.html) - 04:30 23/10/2024
 - 🌊 [Đề nghị điều chỉnh quy hoạch sử dụng đất quốc gia để làm đường sắt tốc độ cao](https://vnexpress.net/de-nghi-dieu-chinh-quy-hoach-su-dung-dat-quoc-gia-de-lam-duong-sat-toc-do-cao-4807231.html) - 03:23 23/10/2024
