@@ -8,7 +8,7 @@ sidebar_position: 3
 - 🐲 [Khử carbon là gì? Bạn có thể làm gì để giảm phát thải?](https://vnexpress.net/khu-carbon-la-gi-4807043.html) - 17:13 23/10/2024
 - 🔥 [CEO Unilever Việt Nam: &#39;Phát thải nhựa của chúng tôi bằng 0&#39;](https://vnexpress.net/ceo-unilever-viet-nam-phat-thai-nhua-cua-chung-toi-bang-0-4807714.html) - 17:10 23/10/2024
 - 🐵 [Quỹ đầu tư quốc gia lớn nhất thế giới lãi gần 80 tỷ USD một quý nhờ chứng khoán](https://vnexpress.net/quy-dau-tu-quoc-gia-lon-nhat-the-gioi-lai-gan-80-ty-usd-mot-quy-nho-chung-khoan-4807612.html) - 17:03 23/10/2024
-- 🦅 [TP HCM đề xuất chặn quảng cáo các sàn &#39;khuyến mại quá 50%&#39;](https://vnexpress.net/tp-hcm-de-xuat-chan-quang-cao-cac-san-khuyen-mai-qua-50-4807692.html) - 15:34 23/10/2024
+- 🦅 [Đề xuất chặn quảng cáo các sàn &#39;khuyến mại quá 50%&#39; như Temu, Shopee](https://vnexpress.net/de-xuat-chan-quang-cao-cac-san-khuyen-mai-qua-50-nhu-temu-shopee-4807692.html) - 15:34 23/10/2024
 - 😺 [Công ty ông Johnathan Hạnh Nguyễn làm chủ tịch báo lãi kỷ lục](https://vnexpress.net/cong-ty-ong-johnathan-hanh-nguyen-lam-chu-tich-bao-lai-ky-luc-4807604.html) - 14:24 23/10/2024
 - 🤩 [Temu chưa đăng ký hoạt động ở Việt Nam](https://vnexpress.net/temu-chua-dang-ky-hoat-dong-o-viet-nam-4807681.html) - 13:45 23/10/2024
 - 🌮 [Thứ trưởng Công Thương: Làm điện hạt nhân phải đảm bảo rủi ro bằng 0](https://vnexpress.net/thu-truong-cong-thuong-lam-dien-hat-nhan-phai-dam-bao-rui-ro-bang-0-4807671.html) - 12:24 23/10/2024
