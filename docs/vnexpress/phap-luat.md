@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Ba cựu phó giám đốc sở bị truy tố nhận hối lộ hơn 5 tỷ đồng trong vụ &#39;chuyến bay giải cứu&#39;](https://vnexpress.net/ba-cuu-pho-giam-doc-so-bi-truy-to-nhan-hoi-lo-hon-5-ty-dong-trong-vu-chuyen-bay-giai-cuu-4807514.html) - 07:00 23/10/2024
+- 😎 [Ba cựu phó giám đốc sở bị truy tố nhận hối lộ hơn 5 tỷ đồng](https://vnexpress.net/ba-cuu-pho-giam-doc-so-bi-truy-to-nhan-hoi-lo-hon-5-ty-dong-4807514.html) - 07:00 23/10/2024
 - 🥰 [Bộ Công an đề xuất tịch thu xe đối với nhiều lỗi vi phạm](https://vnexpress.net/bo-cong-an-de-xuat-tich-thu-xe-doi-voi-nhieu-loi-vi-pham-4807442.html) - 06:06 23/10/2024
 - 🎓 [Tòa xét đơn xin giảm án tử hình của bà Trương Mỹ Lan trong 20 ngày](https://vnexpress.net/toa-xet-don-xin-giam-an-tu-hinh-cua-ba-truong-my-lan-trong-20-ngay-4807487.html) - 05:41 23/10/2024
 - 🤓 [Trèo mái tôn vào nhà trộm tài sản](https://video.vnexpress.net/treo-mai-ton-vao-nha-trom-tai-san-4807241.html) - 05:02 23/10/2024
