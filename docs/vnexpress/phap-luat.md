@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Tội ác của ông lão lợi dụng thân xác con dâu để gán nợ](https://vnexpress.net/bo-chong-loi-dung-con-dau-thieu-nang-de-gan-no-4808097.html) - 15:45 24/10/2024
+- 😎 [Mưu kế của ông lão lợi dụng thân xác con dâu để gán nợ](https://vnexpress.net/bo-chong-loi-dung-con-dau-thieu-nang-de-gan-no-4808097.html) - 15:45 24/10/2024
 - 🥰 [Trộm 350 cây sâm Ngọc Linh mang về nhà trồng](https://vnexpress.net/trom-350-cay-sam-ngoc-linh-mang-ve-nha-trong-4808124.html) - 13:50 24/10/2024
 - 🎓 [Cựu phó chủ tịch huyện ở Lâm Đồng bị bắt](https://vnexpress.net/cuu-pho-chu-tich-huyen-o-lam-dong-bi-bat-4808119.html) - 13:43 24/10/2024
 - 🤓 [Nhân viên ngân hàng làm giấy tờ giả cho khách vay](https://vnexpress.net/nhan-vien-ngan-hang-lam-giay-to-gia-cho-khach-vay-4808092.html) - 11:18 24/10/2024
