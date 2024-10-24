@@ -4,10 +4,10 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [7 biệt thự trên khu &#39;đất vàng&#39; ở TP HCM bỏ hoang nhiều năm](https://vnexpress.net/7-biet-thu-tren-khu-dat-vang-o-tp-hcm-bo-hoang-nhieu-nam-4807609.html) - 22:00 23/10/2024
+- 🦒 [7 biệt thự trên khu đất &#39;vàng&#39; ở TP HCM bỏ hoang nhiều năm](https://vnexpress.net/7-biet-thu-tren-khu-dat-vang-o-tp-hcm-bo-hoang-nhieu-nam-4807609.html) - 22:00 23/10/2024
 - 🤓 [Quốc hội thảo luận phân phối kinh phí công đoàn](https://vnexpress.net/quoc-hoi-thao-luan-phan-phoi-kinh-phi-cong-doan-4807695.html) - 17:00 23/10/2024
 - ⚗️ [Nuôi hải sâm cát giá 10 triệu đồng một kg](https://vnexpress.net/nuoi-hai-sam-cat-gia-10-trieu-dong-mot-kg-4807447.html) - 17:00 23/10/2024
-- 🌊 [Đô thị Huế 100 năm trước](https://vnexpress.net/do-thi-hue-100-nam-truoc-4803422.html) - 17:00 23/10/2024
+- 🌊 [Đô thị Huế thay đổi sau 100 năm](https://vnexpress.net/do-thi-hue-thay-doi-sau-100-nam-4803422.html) - 17:00 23/10/2024
 - 🎓 [Bãi rác ở Đà Lạt sạt lở tràn xuống vườn cà phê](https://vnexpress.net/sat-lo-bai-rac-xuan-truong-4807679.html) - 12:55 23/10/2024
 - 🔥 [Chặn quốc lộ, hủy nổ bom từ trường 240 kg](https://vnexpress.net/chan-quoc-lo-huy-no-bom-tu-truong-240-kg-4807659.html) - 11:46 23/10/2024
 - 🦏 [Kiến nghị lập hồ sơ cổ vật Việt Nam bị đánh cắp](https://vnexpress.net/kien-nghi-lap-ho-so-co-vat-viet-nam-bi-danh-cap-4807569.html) - 10:47 23/10/2024
