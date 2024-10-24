@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Làng Việt cổ nổi tiếng ở Ninh Bình hoang tàn](https://vnexpress.net/lang-viet-co-noi-tieng-o-ninh-binh-hoang-tan-4807636.html) - 17:00 24/10/2024
+- 💂 [Làng Việt cổ ở Ninh Bình hoang tàn](https://vnexpress.net/lang-viet-co-o-ninh-binh-hoang-tan-4807636.html) - 17:00 24/10/2024
 - 🪄 [Khởi động chuyến tàu hỏa hạng sang đi vòng quanh thế giới](https://vnexpress.net/khoi-dong-chuyen-tau-hoa-hang-sang-di-vong-quanh-the-gioi-4808021.html) - 12:00 24/10/2024
 - 🦅 [Mở tour thưởng trà giống tỷ phú Bill Gates trên đỉnh Bàn Cờ](https://vnexpress.net/mo-tour-thuong-tra-giong-ty-phu-bill-gates-tren-dinh-ban-co-4807910.html) - 10:17 24/10/2024
 - 🕴 [Bangkok trong top điểm du lịch của năm 2025](https://vnexpress.net/bangkok-trong-top-diem-du-lich-cua-nam-2025-4807605.html) - 04:57 24/10/2024
