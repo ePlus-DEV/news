@@ -5,7 +5,7 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [Thủ tướng gặp nhiều nguyên thủ, lãnh đạo cấp cao các nước tại Nga](https://dantri.com.vn/xa-hoi/thu-tuong-gap-nhieu-nguyen-thu-lanh-dao-cap-cao-cac-nuoc-tai-nga-20241024033315158.htm) - 01:44 24/10/2024
-- 👨‍🏫 [Giá vàng nhẫn tăng không ngừng, tiến sát 89 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/gia-vang-nhan-tang-khong-ngung-tien-sat-89-trieu-dongluong-20241023214347310.htm) - 00:09 24/10/2024
+- 👨‍🏫 [Giá vàng nhẫn tăng không ngừng, áp sát vàng miếng](https://dantri.com.vn/kinh-doanh/gia-vang-nhan-tang-khong-ngung-ap-sat-vang-mieng-20241023214347310.htm) - 00:09 24/10/2024
 - 🌮 [Bão Trà Mi rất phức tạp, 2 kịch bản xảy ra khi vào vùng biển nước ta](https://dantri.com.vn/xa-hoi/bao-tra-mi-rat-phuc-tap-2-kich-ban-xay-ra-khi-vao-vung-bien-nuoc-ta-20241024064407553.htm) - 23:54 23/10/2024
 - 🕯 [Kỷ nguyên đổi mới sáng tạo: Bước chuyển mình của các start up Việt](https://dantri.com.vn/kinh-doanh/ky-nguyen-doi-moi-sang-tao-buoc-chuyen-minh-cua-cac-start-up-viet-20241023191634137.htm) - 23:21 23/10/2024
 - 🪜 [Cặp đôi người Đức đặt chỗ trước một năm, cưới bên ruộng lúa ở Hòa Bình](https://dantri.com.vn/doi-song/cap-doi-nguoi-duc-dat-cho-truoc-mot-nam-cuoi-ben-ruong-lua-o-hoa-binh-20241023101018357.htm) - 23:08 23/10/2024
