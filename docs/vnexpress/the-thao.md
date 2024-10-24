@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Cơ thủ Quyết Chiến thắng cách biệt 40-3 ở World Cup](https://vnexpress.net/co-thu-quyet-chien-thang-cach-biet-40-3-o-world-cup-4808168.html) - 23:10 24/10/2024
-- 🦩 [Mourinho mỉa mai trọng tài khi hòa Man Utd](https://vnexpress.net/mourinho-mia-mai-trong-tai-khi-hoa-man-utd-4808172.html) - 22:28 24/10/2024
+- 🦩 [Mourinho: &#39;Chúng tôi chơi hay hơn Man Utd&#39;](https://vnexpress.net/mourinho-chung-toi-choi-hay-hon-man-utd-4808172.html) - 22:28 24/10/2024
 - 🧰 [Chelsea giữ mạch thắng tại Conference League](https://vnexpress.net/chelsea-giu-mach-thang-tai-conference-league-4808171.html) - 22:15 24/10/2024
 - 🤗 [Mourinho nhận thẻ đỏ vì đòi phạt đền trước Man Utd](https://vnexpress.net/mourinho-nhan-the-do-vi-doi-phat-den-truoc-man-utd-4808170.html) - 21:59 24/10/2024
 - 🥳 [Tottenham lên nhì bảng Europa League](https://vnexpress.net/tottenham-len-nhi-bang-europa-league-4808169.html) - 21:31 24/10/2024
