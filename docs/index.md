@@ -32,7 +32,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌏 [Sống khổ trong chung cư cao cấp](https://vnexpress.net/song-kho-trong-chung-cu-cao-cap-4807729.html) - 23:00 24/10/2024
 - 🧐 [Bí quyết sở hữu vòng ba nảy nở sau 10 tháng](https://vnexpress.net/bi-quyet-so-huu-vong-ba-nay-no-sau-10-thang-4806901.html) - 23:00 24/10/2024
 - 💫 [Nam sinh lớp 10 được chọn vào đội tuyển thi quốc gia môn Toán](https://vnexpress.net/nam-sinh-lop-10-duoc-chon-vao-doi-tuyen-thi-quoc-gia-mon-toan-4807498.html) - 22:59 24/10/2024
-- 😺 [Mourinho mỉa mai trọng tài khi hòa Man Utd](https://vnexpress.net/mourinho-mia-mai-trong-tai-khi-hoa-man-utd-4808172.html) - 22:28 24/10/2024
+- 😺 [Mourinho: &#39;Chúng tôi chơi hay hơn Man Utd&#39;](https://vnexpress.net/mourinho-chung-toi-choi-hay-hon-man-utd-4808172.html) - 22:28 24/10/2024
 - 🕯 [Ngôi nhà &#39;đội nón&#39; chắn nắng miền Trung](https://vnexpress.net/ngoi-nha-doi-non-chan-nang-mien-trung-4807218.html) - 22:24 24/10/2024
 - 💃 [Chelsea giữ mạch thắng tại Conference League](https://vnexpress.net/chelsea-giu-mach-thang-tai-conference-league-4808171.html) - 22:15 24/10/2024
 - 💂 [Ngành du lịch tìm cách giảm phát thải](https://vnexpress.net/nganh-du-lich-tim-cach-giam-phat-thai-4807200.html) - 22:13 24/10/2024
