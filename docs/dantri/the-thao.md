@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Tuyển Việt Nam, Indonesia chịu nỗi đau, Thái Lan tạo nên cú nhảy vọt](https://dantri.com.vn/the-thao/tuyen-viet-nam-indonesia-chiu-noi-dau-thai-lan-tao-nen-cu-nhay-vot-20241024163235207.htm) - 09:32 24/10/2024
+- 🎡 [Tuyển Việt Nam, Indonesia chịu nỗi đau, Thái Lan tạo nên cú nhảy vọt](https://dantri.com.vn/the-thao/tuyen-viet-nam-indonesia-chiu-noi-dau-thai-lan-tao-nen-cu-nhay-vot-20241024163235207.htm) - 09:45 24/10/2024
 - 💯 [Nhận định Fenerbahce - Man Utd &lpar;2h00, 25/10&rpar;: &quot;Quỷ đỏ&quot; lành ít, dữ nhiều](https://dantri.com.vn/the-thao/nhan-dinh-fenerbahce-man-utd-2h00-2510-quy-do-lanh-it-du-nhieu-20241024131441228.htm) - 06:14 24/10/2024
 - ⛽️ [Thắng cường địch ở châu Á, U17 Indonesia cho thấy sức mạnh đáng gờm](https://dantri.com.vn/the-thao/thang-cuong-dich-o-chau-a-u17-indonesia-cho-thay-suc-manh-dang-gom-20241024130818150.htm) - 06:08 24/10/2024
 - 💃 [CĐV choáng váng với pha làm bàn &quot;như gã điên&quot; của Erling Haaland](https://dantri.com.vn/the-thao/cdv-choang-vang-voi-pha-lam-ban-nhu-ga-dien-cua-erling-haaland-20241024123008519.htm) - 06:01 24/10/2024
