@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Tuấn Anh cứu Nam Định thoát thua ở Cup C2 châu Á](https://vnexpress.net/tuan-anh-cuu-nam-dinh-thoat-thua-o-cup-c2-chau-a-4808146.html) - 15:07 24/10/2024
+- 🪜 [Tuấn Anh cứu Nam Định ở Cup C2 châu Á](https://vnexpress.net/tuan-anh-cuu-nam-dinh-o-cup-c2-chau-a-4808146.html) - 15:07 24/10/2024
 - 🦩 [Báo Đức chấm điểm tệ nhất cho Bayern](https://vnexpress.net/bao-duc-cham-diem-te-nhat-cho-bayern-4808070.html) - 14:14 24/10/2024
 - 🧰 [Các runner Bỉ lập kỷ lục chạy 737 km trong 4,5 ngày](https://vnexpress.net/cac-runner-bi-lap-ky-luc-chay-737-km-trong-4-5-ngay-4808069.html) - 12:14 24/10/2024
 - 🤗 [Lewandowski dẫn đầu cuộc đua ghi bàn mùa này](https://vnexpress.net/lewandowski-dan-dau-cuoc-dua-ghi-ban-mua-nay-4807970.html) - 08:47 24/10/2024
