@@ -5,7 +5,7 @@ sidebar_position: 19
 
 <!-- dantri-lao-dong-viec-lam:START -->
 - ⚗️ [Phiên livestream của nữ công nhân và chuyện công ty không bấm giây tính giờ](https://dantri.com.vn/lao-dong-viec-lam/phien-livestream-cua-nu-cong-nhan-va-chuyen-cong-ty-khong-bam-giay-tinh-gio-20241023215529805.htm) - 00:30 24/10/2024
-- 🙉 [Không quy định tỷ lệ phân phối 2% kinh phí công đoàn tại dự thảo Luật](https://dantri.com.vn/lao-dong-viec-lam/khong-quy-dinh-ty-le-phan-phoi-2-kinh-phi-cong-doan-tai-du-thao-luat-20241023224536450.htm) - 23:51 23/10/2024
+- 🙉 [Không quy định tỷ lệ phân phối 2% phí công đoàn, công khai tài chính sao?](https://dantri.com.vn/lao-dong-viec-lam/khong-quy-dinh-ty-le-phan-phoi-2-phi-cong-doan-cong-khai-tai-chinh-sao-20241023224536450.htm) - 23:51 23/10/2024
 - 🕴 [Cụ ông nuôi 3 con thành tài với nghề lao công, 27 năm không một ngày nghỉ](https://dantri.com.vn/lao-dong-viec-lam/cu-ong-nuoi-3-con-thanh-tai-voi-nghe-lao-cong-27-nam-khong-mot-ngay-nghi-20241023202256943.htm) - 23:00 23/10/2024
 - 🧐 [Lương trung bình ở TPHCM cao hơn Hà Nội 17%](https://dantri.com.vn/lao-dong-viec-lam/luong-trung-binh-o-tphcm-cao-hon-ha-noi-17-20241023150849324.htm) - 09:04 23/10/2024
 - 🧑‍💻 [Làng nghề gạch gốm nức tiếng miền Tây, loay hoay tìm cách bảo tồn](https://dantri.com.vn/lao-dong-viec-lam/lang-nghe-gach-gom-nuc-tieng-mien-tay-loay-hoay-tim-cach-bao-ton-20241019202437935.htm) - 06:30 23/10/2024
