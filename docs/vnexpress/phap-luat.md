@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Bà chủ bar dắt hàng chục nhân viên tấn công quán khác](https://vnexpress.net/ba-chu-bar-dat-hang-chuc-nhan-vien-tan-cong-quan-khac-4807890.html) - 04:26 24/10/2024
-- 🥰 [4 cựu cảnh sát sai phạm trong vụ cháy karaoke An Phú ra tòa](https://vnexpress.net/4-cuu-canh-sat-sai-pham-trong-vu-chay-karaoke-an-phu-ra-toa-4807816.html) - 03:30 24/10/2024
+- 🥰 [Chủ quán karaoke 32 người chết: &#39;Cha bị cáo làm hệ thống PCCC&#39;](https://vnexpress.net/chu-quan-karaoke-32-nguoi-chet-cha-bi-cao-lam-he-thong-pccc-4807816.html) - 03:30 24/10/2024
 - 🎓 [Cảnh sát chặn bắt ôtô chở hàng chục người đi &#39;xử&#39; đối thủ](https://vnexpress.net/canh-sat-chan-bat-oto-cho-hang-chuc-nguoi-di-xu-doi-thu-4807791.html) - 02:25 24/10/2024
 - 🤓 [Cơn giận của người vợ bị chồng đá](https://vnexpress.net/con-gian-cua-nguoi-vo-bi-chong-da-4807205.html) - 17:00 23/10/2024
 - 🎊 [Bị tông xe khi đi công tác có được xem là tai nạn lao động không?](https://vnexpress.net/bi-tong-xe-khi-di-cong-tac-co-duoc-xem-la-tai-nan-lao-dong-khong-4805898.html) - 17:00 23/10/2024
