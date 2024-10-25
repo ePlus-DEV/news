@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Thụy Sĩ muốn hỗ trợ doanh nghiệp Việt Nam để &#39;xanh&#39; hơn](https://vnexpress.net/thuy-si-muon-ho-tro-doanh-nghiep-viet-nam-de-xanh-hon-4808443.html) - 19:00 25/10/2024
-- 🐲 [Người Việt bất ngờ vì hàng trên Temu &#39;không rẻ và chậm&#39;](https://vnexpress.net/nguoi-viet-bat-ngo-vi-hang-tren-temu-khong-re-va-cham-4808505.html) - 17:00 25/10/2024
+- 🐲 [Người Việt bất ngờ vì hàng trên Temu &#39;chậm và không rẻ&#39;](https://vnexpress.net/nguoi-viet-bat-ngo-vi-hang-tren-temu-cham-va-khong-re-4808505.html) - 17:00 25/10/2024
 - 🔥 [Dừa Bến Tre lần đầu xuất chính ngạch sang Trung Quốc](https://vnexpress.net/dua-ben-tre-lan-dau-xuat-chinh-ngach-sang-trung-quoc-4808472.html) - 14:22 25/10/2024
 - 🐵 [Yêu cầu thanh tra các cuộc đấu giá khoáng sản](https://vnexpress.net/yeu-cau-thanh-tra-cac-cuoc-dau-gia-khoang-san-4808576.html) - 14:03 25/10/2024
 - 🦅 [IMF cảnh báo kinh tế châu Âu ngày càng tụt lại so với Mỹ](https://vnexpress.net/imf-canh-bao-kinh-te-chau-au-ngay-cang-tut-lai-so-voi-my-4808504.html) - 11:00 25/10/2024
