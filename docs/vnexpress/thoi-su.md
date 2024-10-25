@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Lắp 600 camera phạt nguội toàn TP Vinh](https://vnexpress.net/lap-600-camera-phat-nguoi-toan-tp-vinh-4808554.html) - 11:39 25/10/2024
+- 🦒 [Lắp 600 camera phạt nguội ở TP Vinh](https://vnexpress.net/lap-600-camera-phat-nguoi-o-tp-vinh-4808554.html) - 11:39 25/10/2024
 - 🤓 [Tìm thấy hài cốt liệt sĩ kèm bảng tên](https://vnexpress.net/tim-thay-hai-cot-liet-si-kem-bang-ten-4808553.html) - 11:30 25/10/2024
 - ⚗️ [Miễn nhiệm chức Tổng thư ký Quốc hội với ông Bùi Văn Cường](https://vnexpress.net/mien-nhiem-chuc-tong-thu-ky-quoc-hoi-voi-ong-bui-van-cuong-4805970.html) - 11:15 25/10/2024
 - 🌊 [Ôtô chở 18 xe máy cháy ngùn ngụt](https://vnexpress.net/oto-cho-18-xe-may-chay-ngun-ngut-4808546.html) - 10:56 25/10/2024
