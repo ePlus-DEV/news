@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [U17 Việt Nam 1-0 U17 Myanmar &lpar;hiệp 2&rpar;: Văn Dương mở tỷ số](https://dantri.com.vn/the-thao/u17-viet-nam-1-0-u17-myanmar-hiep-2-van-duong-mo-ty-so-20241025184347342.htm) - 11:43 25/10/2024
+- 🎡 [Đánh bại U17 Myanmar, U17 Việt Nam rộng cửa dự giải châu Á](https://dantri.com.vn/the-thao/danh-bai-u17-myanmar-u17-viet-nam-rong-cua-du-giai-chau-a-20241025184347342.htm) - 11:43 25/10/2024
 - 💯 [Bị FIFA cấm chuyển nhượng vô thời hạn, CLB HA Gia Lai lên tiếng](https://dantri.com.vn/the-thao/bi-fifa-cam-chuyen-nhuong-vo-thoi-han-clb-ha-gia-lai-len-tieng-20241025190206712.htm) - 11:30 25/10/2024
 - ⛽️ [Mức lương siêu &quot;khủng&quot; của Lionel Messi, bỏ xa phần còn lại](https://dantri.com.vn/the-thao/muc-luong-sieu-khung-cua-lionel-messi-bo-xa-phan-con-lai-20241025160858533.htm) - 09:08 25/10/2024
 - 💃 [Nữ võ sĩ Việt Nam 19 tuổi chia sẻ về bí quyết giành HCV võ thuật quốc tế](https://dantri.com.vn/the-thao/nu-vo-si-viet-nam-19-tuoi-chia-se-ve-bi-quyet-gianh-hcv-vo-thuat-quoc-te-20241025140323202.htm) - 08:17 25/10/2024
