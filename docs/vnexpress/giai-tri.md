@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🌏 [Hoàng Dũng lần đầu quay MV vũ đạo](https://vnexpress.net/hoang-dung-lan-dau-quay-mv-vu-dao-4808287.html) - 10:20 25/10/2024
 - 💫 [&#39;APT.&#39; của Rosé lập loạt kỷ lục](https://vnexpress.net/apt-cua-rose-lap-loat-ky-luc-4808203.html) - 09:39 25/10/2024
 - 🌮 [Diễn viên &#39;Đội bóng Thiếu Lâm&#39; qua đời](https://vnexpress.net/dien-vien-doi-bong-thieu-lam-qua-doi-4808466.html) - 08:55 25/10/2024
-- 🧠 [Shakira sáng tác nhạc để chữa lành nỗi đau ly hôn](https://vnexpress.net/shakira-sang-tac-nhac-de-chua-lanh-noi-dau-ly-hon-4808253.html) - 08:27 25/10/2024
+- 🧠 [Shakira sáng tác nhạc để chữa lành nỗi đau chia tay](https://vnexpress.net/shakira-sang-tac-nhac-de-chua-lanh-noi-dau-chia-tay-4808253.html) - 08:27 25/10/2024
 - 👨‍🏫 [Phim hành động Việt quay ở Mỹ lỗ nặng](https://vnexpress.net/phim-hanh-dong-viet-quay-o-my-lo-nang-4808405.html) - 07:48 25/10/2024
 - ⚗️ [Lý Tử Thất lộ diện](https://vnexpress.net/ly-tu-that-lo-dien-4808393.html) - 06:58 25/10/2024
 - 😎 [Phan Đăng Hoàng: &#39;Có tiền cũng không mua được suất ở Milan Fashion Week&#39;](https://vnexpress.net/phan-dang-hoang-co-tien-cung-khong-mua-duoc-suat-o-milan-fashion-week-4801238.html) - 04:00 25/10/2024
