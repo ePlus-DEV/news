@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Phan Đăng Hoàng: &#39;Lên sàn diễn quốc tế là giấc mơ thành hiện thực&#39;](https://vnexpress.net/phan-dang-hoang-len-san-dien-quoc-te-la-giac-mo-thanh-hien-thuc-4801238.html) - 04:00 25/10/2024
+- 🌏 [Phan Đăng Hoàng: &#39;Tôi vỡ òa khi ra mắt bộ sưu tập ở Milan Fashion Week&#39;](https://vnexpress.net/phan-dang-hoang-toi-vo-oa-khi-ra-mat-bo-suu-tap-o-milan-fashion-week-4801238.html) - 04:00 25/10/2024
 - 💫 [&#39;Ngàn xưa Thăng Long&#39; - một góc nhìn về sử Việt](https://vnexpress.net/ngan-xua-thang-long-mot-goc-nhin-ve-su-viet-4807943.html) - 03:57 25/10/2024
 - 🌮 [Longchamp khai trương cửa hàng mới tại TP HCM](https://vnexpress.net/longchamp-khai-truong-cua-hang-moi-tai-tp-hcm-4807464.html) - 02:00 25/10/2024
 - 🧠 [Tài tử Kim Thành Vũ làm ruộng, sống ẩn dật](https://vnexpress.net/tai-tu-kim-thanh-vu-lam-ruong-song-an-dat-4808214.html) - 01:57 25/10/2024
