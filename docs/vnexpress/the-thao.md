@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Chuẩn bị gì trong lần đầu dự giải chạy đêm Hà Nội?](https://vnexpress.net/chuan-bi-gi-trong-lan-dau-du-giai-chay-dem-ha-noi-4806906.html) - 05:40 25/10/2024
-- 🦩 [Vì sao Man Utd để hậu vệ cánh Mazraoui đá hộ công?](https://vnexpress.net/vi-sao-man-utd-de-hau-ve-canh-mazraoui-da-ho-cong-4808275.html) - 05:00 25/10/2024
+- 🦩 [Ten Hag gây khó hiểu khi để hậu vệ cánh đá hộ công](https://vnexpress.net/ten-hag-gay-kho-hieu-khi-de-hau-ve-canh-da-ho-cong-4808275.html) - 05:00 25/10/2024
 - 🧰 [Sinner thử nghiệm vợt của Djokovic](https://vnexpress.net/sinner-thu-nghiem-vot-cua-djokovic-4808348.html) - 04:50 25/10/2024
 - 🤗 [Ngôi đầu đổi chủ sau vòng 9 Ngoại hạng Anh?](https://vnexpress.net/ngoi-dau-doi-chu-sau-vong-9-ngoai-hang-anh-4808328.html) - 04:44 25/10/2024
 - 🥳 [Lamine Yamal thách thức Real](https://vnexpress.net/lamine-yamal-thach-thuc-real-4808292.html) - 04:38 25/10/2024
