@@ -4,9 +4,9 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Đánh bại U17 Myanmar, U17 Việt Nam rộng cửa dự giải châu Á](https://dantri.com.vn/the-thao/danh-bai-u17-myanmar-u17-viet-nam-rong-cua-du-giai-chau-a-20241025184347342.htm) - 11:43 25/10/2024
-- 💯 [Bị FIFA cấm chuyển nhượng vô thời hạn, CLB HA Gia Lai lên tiếng](https://dantri.com.vn/the-thao/bi-fifa-cam-chuyen-nhuong-vo-thoi-han-clb-ha-gia-lai-len-tieng-20241025190206712.htm) - 11:30 25/10/2024
-- ⛽️ [Mức lương siêu &quot;khủng&quot; của Lionel Messi, bỏ xa phần còn lại](https://dantri.com.vn/the-thao/muc-luong-sieu-khung-cua-lionel-messi-bo-xa-phan-con-lai-20241025160858533.htm) - 09:08 25/10/2024
+- 🎡 [Mức lương siêu &quot;khủng&quot; của Lionel Messi, bỏ xa phần còn lại](https://dantri.com.vn/the-thao/muc-luong-sieu-khung-cua-lionel-messi-bo-xa-phan-con-lai-20241025160858533.htm) - 12:08 25/10/2024
+- 💯 [Đánh bại U17 Myanmar, U17 Việt Nam rộng cửa dự giải châu Á](https://dantri.com.vn/the-thao/danh-bai-u17-myanmar-u17-viet-nam-rong-cua-du-giai-chau-a-20241025184347342.htm) - 11:43 25/10/2024
+- ⛽️ [Bị FIFA cấm chuyển nhượng vô thời hạn, CLB HA Gia Lai lên tiếng](https://dantri.com.vn/the-thao/bi-fifa-cam-chuyen-nhuong-vo-thoi-han-clb-ha-gia-lai-len-tieng-20241025190206712.htm) - 11:30 25/10/2024
 - 💃 [Nữ võ sĩ Việt Nam 19 tuổi chia sẻ về bí quyết giành HCV võ thuật quốc tế](https://dantri.com.vn/the-thao/nu-vo-si-viet-nam-19-tuoi-chia-se-ve-bi-quyet-gianh-hcv-vo-thuat-quoc-te-20241025140323202.htm) - 08:17 25/10/2024
 - 🌈 [Man Utd trả giá đắt sau khi lập kỷ lục tệ hại](https://dantri.com.vn/the-thao/man-utd-tra-gia-dat-sau-khi-lap-ky-luc-te-hai-20241025133313190.htm) - 06:32 25/10/2024
 - 🦅 [Cơ thủ Trần Quyết Chiến thắng áp đảo 40-3 ở World Cup](https://dantri.com.vn/the-thao/co-thu-tran-quyet-chien-thang-ap-dao-40-3-o-world-cup-20241025125613199.htm) - 05:56 25/10/2024
