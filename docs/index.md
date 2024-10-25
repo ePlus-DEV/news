@@ -449,7 +449,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Thư Viện Pháp Luật
 <!-- thuvienphapluat:START -->
-- 🕴 [Công văn 8505/BCT-TTTN năm 2024 về điều hành kinh doanh xăng dầu do Bộ Công Thương ban hành](https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8505-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-628829.aspx) - 00:00 24/10/2024
+- 🕴 [Công văn 8505/BCT-TTTN năm 2024 điều hành kinh doanh xăng dầu do Bộ Công Thương ban hành](https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8505-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-628829.aspx) - 00:00 24/10/2024
 - 🎭 [Nghị định 137/2024/NĐ-CP quy định về giao dịch điện tử của cơ quan Nhà nước và hệ thống thông tin phục vụ giao dịch điện tử](https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Nghi-dinh-137-2024-ND-CP-quy-dinh-giao-dich-dien-tu-cua-co-quan-Nha-nuoc-628771.aspx) - 00:00 23/10/2024
 - 💪 [Nghị định 136/2024/NĐ-CP sửa đổi Nghị định 93/2019/NĐ-CP về tổ chức, hoạt động của quỹ xã hội, quỹ từ thiện](https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Nghi-dinh-136-2024-ND-CP-sua-doi-Nghi-dinh-93-2019-ND-CP-to-chuc-hoat-dong-cua-quy-xa-hoi-628823.aspx) - 00:00 23/10/2024
 - 🚀 [Công văn 4759/TCT-DNNCN năm 2024 trả lời chính sách thuế thu nhập cá nhân qua Cổng thông tin điện tử - Bộ Tài chính do Tổng cục Thuế ban hành](https://thuvienphapluat.vn/cong-van/Thue-Phi-Le-Phi/Cong-van-4759-TCT-DNNCN-2024-tra-loi-chinh-sach-thue-thu-nhap-ca-nhan-qua-Cong-thong-tin-dien-tu-628691.aspx) - 00:00 23/10/2024
