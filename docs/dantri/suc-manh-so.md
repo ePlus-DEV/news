@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- dantri-suc-manh-so:START -->
-- 🐻 [Những gói 5G được đăng ký nhiều nhất sau 10 ngày ra mắt](https://dantri.com.vn/suc-manh-so/nhung-goi-5g-duoc-dang-ky-nhieu-nhat-sau-10-ngay-ra-mat-20241025173142600.htm) - 10:38 25/10/2024
+- 🐻 [Những gói 5G được đăng ký nhiều nhất sau 10 ngày ra mắt](https://dantri.com.vn/suc-manh-so/nhung-goi-5g-duoc-dang-ky-nhieu-nhat-sau-10-ngay-ra-mat-20241025173142600.htm) - 11:00 25/10/2024
 - 💄 [Apple treo thưởng một triệu USD cho ai tấn công được hệ thống AI của hãng](https://dantri.com.vn/suc-manh-so/apple-treo-thuong-mot-trieu-usd-cho-ai-tan-cong-duoc-he-thong-ai-cua-hang-20241025150058693.htm) - 10:04 25/10/2024
 - 🚀 [Người mua iPhone 16 Pro Max nhận hộp rỗng đã được Apple bồi thường](https://dantri.com.vn/suc-manh-so/nguoi-mua-iphone-16-pro-max-nhan-hop-rong-da-duoc-apple-boi-thuong-20241025164917728.htm) - 09:52 25/10/2024
 - 👹 [Cuộc chiến giữa ARM và Qualcomm ảnh hưởng nghiêm trọng thị trường di động](https://dantri.com.vn/suc-manh-so/cuoc-chien-giua-arm-va-qualcomm-anh-huong-nghiem-trong-thi-truong-di-dong-20241025162530079.htm) - 09:44 25/10/2024
