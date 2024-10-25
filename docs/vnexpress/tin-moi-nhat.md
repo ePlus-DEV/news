@@ -10,7 +10,7 @@ sidebar_position: 9
 - 🏊 [Hàng loạt xe tải vượt đèn đỏ trong đêm](https://vnexpress.net/hang-loat-xe-tai-vuot-den-do-trong-dem-4808460.html) - 22:00 25/10/2024
 - 🎊 [Cơ thủ Quyết Chiến, Thanh Tự vào bán kết World Cup](https://vnexpress.net/co-thu-quyet-chien-thanh-tu-vao-ban-ket-world-cup-4808624.html) - 21:28 25/10/2024
 - 🎃 [CEO Ford thừa nhận sử dụng xe điện Xiaomi](https://vnexpress.net/ceo-ford-thua-nhan-su-dung-xe-dien-xiaomi-4808196.html) - 21:00 25/10/2024
-- 🧰 [&#39;Bão Trà My sẽ gây mưa rất lớn cho miền Trung&#39;](https://vnexpress.net/bao-tra-my-se-gay-mua-rat-lon-cho-mien-trung-4808620.html) - 21:00 25/10/2024
+- 🧰 [&#39;Bão Trà Mi sẽ gây mưa rất lớn cho miền Trung&#39;](https://vnexpress.net/bao-tra-mi-se-gay-mua-rat-lon-cho-mien-trung-4808620.html) - 21:00 25/10/2024
 - 🔭 [Thụy Sĩ muốn hỗ trợ doanh nghiệp Việt Nam để &#39;xanh&#39; hơn](https://vnexpress.net/thuy-si-muon-ho-tro-doanh-nghiep-viet-nam-de-xanh-hon-4808443.html) - 19:00 25/10/2024
 - 🫶 [Hệ mái như sóng vỗ chắn nắng khu vườn trên tầng thượng](https://vnexpress.net/he-mai-nhu-song-vo-chan-nang-khu-vuon-tren-tang-thuong-4808600.html) - 17:06 25/10/2024
 - 🪜 [&#39;Rối loạn tình dục ở phụ nữ thường bị lãng quên&#39;](https://vnexpress.net/roi-loan-tinh-duc-o-phu-nu-thuong-bi-lang-quen-4808387.html) - 17:02 25/10/2024
