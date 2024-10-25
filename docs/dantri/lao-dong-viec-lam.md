@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Trồng &quot;cây tỷ đô&quot;, một địa phương thành lập câu lạc bộ nông dân tỷ phú](https://dantri.com.vn/lao-dong-viec-lam/trong-cay-ty-do-mot-dia-phuong-thanh-lap-cau-lac-bo-nong-dan-ty-phu-20241025191147185.htm) - 13:58 25/10/2024
+- ⚗️ [Câu lạc bộ nông dân tỷ phú tại vùng đất trồng &quot;cây tỷ đô&quot;](https://dantri.com.vn/lao-dong-viec-lam/cau-lac-bo-nong-dan-ty-phu-tai-vung-dat-trong-cay-ty-do-20241025191147185.htm) - 13:58 25/10/2024
 - 🙉 [Dừa Bến Tre chính thức xuất khẩu sang Trung Quốc](https://dantri.com.vn/lao-dong-viec-lam/dua-ben-tre-chinh-thuc-xuat-khau-sang-trung-quoc-20241025155329378.htm) - 13:53 25/10/2024
 - 🕴 [Thu tiền tỷ nhờ nuôi con vật thơm như quế, cả biết bơi và bay](https://dantri.com.vn/lao-dong-viec-lam/thu-tien-ty-nho-nuoi-con-vat-thom-nhu-que-ca-biet-boi-va-bay-20241025100859230.htm) - 04:18 25/10/2024
 - 🧐 [Doanh nghiệp tuyển dụng gần 45.000 vị trí với mức lương hấp dẫn](https://dantri.com.vn/lao-dong-viec-lam/doanh-nghiep-tuyen-dung-gan-45000-vi-tri-voi-muc-luong-hap-dan-20241024212508082.htm) - 02:00 25/10/2024
