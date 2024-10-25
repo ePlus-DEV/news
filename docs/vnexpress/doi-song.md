@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Sống khổ trong chung cư cao cấp](https://vnexpress.net/song-kho-trong-chung-cu-cao-cap-4807729.html) - 23:00 24/10/2024
+- 🚀 [Thất vọng với chung cư được quảng cáo cao cấp](https://vnexpress.net/that-vong-voi-chung-cu-duoc-quang-cao-cao-cap-4807729.html) - 23:00 24/10/2024
 - 🎓 [Bí quyết sống thọ của cụ bà 105 tuổi](https://vnexpress.net/bi-quyet-song-tho-cua-cu-ba-105-tuoi-4808020.html) - 12:33 24/10/2024
 - 🚦 [Cơ hội trở thành tiếp viên hàng không Vietjet cho người trẻ](https://vnexpress.net/co-hoi-tro-thanh-tiep-vien-hang-khong-vietjet-cho-nguoi-tre-4808098.html) - 12:00 24/10/2024
 - 🦣 [Nộm su hào Hà Nội](https://vnexpress.net/nom-su-hao-ha-noi-4808062.html) - 10:56 24/10/2024
