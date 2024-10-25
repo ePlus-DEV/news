@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Bộ trưởng Giáo dục: Đất nước hiếu học thể hiện ở những ngôi trường khang trang](https://vnexpress.net/bo-truong-giao-duc-dat-nuoc-hieu-hoc-the-hien-o-nhung-ngoi-truong-khang-trang-4808427.html) - 14:20 25/10/2024
+- 🤓 [Gần 87% phòng học cả nước được kiên cố hóa](https://vnexpress.net/gan-87-phong-hoc-ca-nuoc-duoc-kien-co-hoa-4808427.html) - 14:20 25/10/2024
 - 🦆 [Tỉnh nào có thành phố rộng thứ hai Việt Nam?](https://vnexpress.net/tinh-nao-co-thanh-pho-rong-thu-hai-viet-nam-4808567.html) - 13:31 25/10/2024
 - 🦩 [Nam sinh ép bạn ăn đất bị khởi tố](https://vnexpress.net/nam-sinh-ep-ban-an-dat-bi-khoi-to-4808494.html) - 09:12 25/10/2024
 - 🌮 [Đề xuất cộng tối đa hai điểm ưu tiên trong thi lớp 10](https://vnexpress.net/de-xuat-cong-toi-da-hai-diem-uu-tien-trong-thi-lop-10-4808368.html) - 07:53 25/10/2024
