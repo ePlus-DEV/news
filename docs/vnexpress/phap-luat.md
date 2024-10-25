@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Lái ôtô vượt đèn đỏ có thể bị phạt 18-20 triệu đồng](https://vnexpress.net/lai-oto-vuot-den-do-co-the-bi-phat-18-20-trieu-dong-4808294.html) - 03:52 25/10/2024
+- 😎 [Đi ôtô vượt đèn đỏ có thể bị phạt 18-20 triệu đồng](https://vnexpress.net/lai-oto-vuot-den-do-co-the-bi-phat-18-20-trieu-dong-4808294.html) - 03:52 25/10/2024
 - 🥰 [&#39;Bắt&#39; con để ép mẹ gặp nói chuyện](https://vnexpress.net/bat-con-de-ep-me-gap-noi-chuyen-4808237.html) - 03:23 25/10/2024
 - 🎓 [Thiếu nữ bị giấu xác - bi kịch từ mối tình trẻ con](https://vnexpress.net/thieu-nu-bi-giau-xac-bi-kich-tu-moi-tinh-tre-con-4807905.html) - 17:00 24/10/2024
 - 🤓 [Bán hàng tại nhà có ảnh hưởng việc rút BHXH một lần?](https://vnexpress.net/buon-ban-tai-nha-co-anh-huong-den-viec-rut-bhxh-mot-lan-khong-4806758.html) - 17:00 24/10/2024
