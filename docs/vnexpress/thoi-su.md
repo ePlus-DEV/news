@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Gần 2 tỷ đồng tái thiết 8 trường học ở Lào Cai](https://vnexpress.net/gan-2-ty-dong-tai-thiet-8-truong-hoc-o-lao-cai-4808152.html) - 17:09 24/10/2024
 - 🤓 [Đề xuất 19 chính sách đặc thù cho dự án đường sắt tốc độ cao](https://vnexpress.net/de-xuat-19-chinh-sach-dac-thu-cho-du-an-duong-sat-toc-do-cao-4807914.html) - 17:02 24/10/2024
-- ⚗️ [Lý do bến Ninh Kiều ở Cần Thơ &#39;chìm&#39; trong triều cường vừa qua](https://vnexpress.net/ly-do-ben-ninh-kieu-o-can-tho-chim-trong-trieu-cuong-vua-qua-4807911.html) - 17:00 24/10/2024
+- ⚗️ [Lý do bến Ninh Kiều ở Cần Thơ &#39;chìm&#39; trong triều cường](https://vnexpress.net/ly-do-ben-ninh-kieu-o-can-tho-chim-trong-trieu-cuong-4807911.html) - 17:00 24/10/2024
 - 🌊 [Cháy cửa hàng trong chợ Bà Chiểu](https://vnexpress.net/chay-cua-hang-trong-cho-ba-chieu-4808160.html) - 16:35 24/10/2024
 - 🎓 [Việt Nam đề nghị tăng cường hợp tác thương mại quân sự với Trung Quốc](https://vnexpress.net/viet-nam-de-nghi-tang-cuong-hop-tac-thuong-mai-quan-su-voi-trung-quoc-4808123.html) - 14:16 24/10/2024
 - 🔥 [Lúng túng tìm hướng xử lý vụ &#39;mất nhà đất sau nhiều năm xa quê&#39;](https://vnexpress.net/lung-tung-tim-huong-xu-ly-vu-mat-nha-dat-sau-nhieu-nam-xa-que-4808061.html) - 13:29 24/10/2024
