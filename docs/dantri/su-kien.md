@@ -5,7 +5,7 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [Ông Trump tiết lộ sai lầm lớn nhất trong nhiệm kỳ đầu](https://dantri.com.vn/the-gioi/ong-trump-tiet-lo-sai-lam-lon-nhat-trong-nhiem-ky-dau-20241026212738745.htm) - 14:36 26/10/2024
-- 👨‍🏫 [Bão Trà Mi cách Đà Nẵng 290km](https://dantri.com.vn/xa-hoi/bao-tra-mi-cach-da-nang-290km-20241026205902866.htm) - 14:09 26/10/2024
+- 👨‍🏫 [Ngày mai bão Trà Mi đổ bộ đất liền khu vực Quảng Trị - Quảng Nam](https://dantri.com.vn/xa-hoi/ngay-mai-bao-tra-mi-do-bo-dat-lien-khu-vuc-quang-tri-quang-nam-20241026205902866.htm) - 14:09 26/10/2024
 - 🌮 [Israel tấn công Iran: Điều tồi tệ nhất chưa đến?](https://dantri.com.vn/the-gioi/israel-tan-cong-iran-dieu-toi-te-nhat-chua-den-20241026194508584.htm) - 12:55 26/10/2024
 - 🕯 [Bão Trà Mi tiến gần bờ, miền Trung có nơi mưa rất to](https://dantri.com.vn/xa-hoi/bao-tra-mi-tien-gan-bo-mien-trung-co-noi-mua-rat-to-20241026182126916.htm) - 11:36 26/10/2024
 - 🪜 [Bạn đọc báo Dân trí &quot;tiếp sức&quot; cậu bé 10 tuổi chăm sóc bà liệt giường](https://dantri.com.vn/tam-long-nhan-ai/ban-doc-bao-dan-tri-tiep-suc-cau-be-10-tuoi-cham-soc-ba-liet-giuong-20241026093008846.htm) - 10:53 26/10/2024
