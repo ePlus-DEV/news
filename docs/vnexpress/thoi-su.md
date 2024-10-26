@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [4 sân bay dừng hoạt động để tránh bão Trà Mi](https://vnexpress.net/4-san-bay-dung-hoat-dong-de-tranh-bao-tra-mi-4808760.html) - 06:38 26/10/2024
-- 🤓 [Đảo Lý Sơn cấp tập ứng phó bão Trà Mi](https://vnexpress.net/dao-ly-son-cap-tap-ung-pho-bao-tra-mi-4808714.html) - 04:47 26/10/2024
+- 🤓 [Đảo Lý Sơn, Cù Lao Chàm cấp tập chống bão Trà Mi](https://vnexpress.net/dao-ly-son-cu-lao-cham-cap-tap-chong-bao-tra-mi-4808714.html) - 04:47 26/10/2024
 - ⚗️ [&#39;Nên tăng lương hưu từ năm 2025&#39;](https://vnexpress.net/nen-tang-luong-huu-tu-nam-2025-4808713.html) - 04:36 26/10/2024
 - 🌊 [Quảng Ninh có tân Bí thư Tỉnh ủy](https://vnexpress.net/quang-ninh-co-tan-bi-thu-tinh-uy-4808697.html) - 03:31 26/10/2024
 - 🎓 [Đề xuất bỏ quy định kỷ luật đảng viên sinh con thứ ba](https://vnexpress.net/de-xuat-bo-quy-dinh-ky-luat-dang-vien-sinh-con-thu-ba-4808662.html) - 02:45 26/10/2024
