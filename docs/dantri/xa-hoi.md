@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- dantri-xa-hoi:START -->
-- 🫣 [Bão Trà Mi cách Đà Nẵng 290km](https://dantri.com.vn/xa-hoi/bao-tra-mi-cach-da-nang-290km-20241026205902866.htm) - 14:09 26/10/2024
+- 🫣 [Ngày mai bão Trà Mi đổ bộ đất liền khu vực Quảng Trị - Quảng Nam](https://dantri.com.vn/xa-hoi/ngay-mai-bao-tra-mi-do-bo-dat-lien-khu-vuc-quang-tri-quang-nam-20241026205902866.htm) - 14:09 26/10/2024
 - 💼 [Đà Nẵng yêu cầu dân hạn chế ra đường, TT-Huế vận động dự trữ hàng hóa](https://dantri.com.vn/xa-hoi/da-nang-yeu-cau-dan-han-che-ra-duong-tt-hue-van-dong-du-tru-hang-hoa-20241026182946964.htm) - 14:03 26/10/2024
 - 🎊 [Ý nghĩa chuyến thăm của Thủ tướng tới 3 cường quốc hàng đầu Trung Đông](https://dantri.com.vn/xa-hoi/y-nghia-chuyen-tham-cua-thu-tuong-toi-3-cuong-quoc-hang-dau-trung-dong-20241026200955989.htm) - 13:57 26/10/2024
 - 🙉 [Sau tai nạn làm một người chết, công an phát hiện thanh niên giấu súng](https://dantri.com.vn/xa-hoi/sau-tai-nan-lam-mot-nguoi-chet-cong-an-phat-hien-thanh-nien-giau-sung-20241026172320036.htm) - 12:24 26/10/2024
