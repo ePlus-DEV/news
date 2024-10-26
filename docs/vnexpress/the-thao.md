@@ -23,8 +23,8 @@ sidebar_position: 5
 - 💯 [Ten Hag: &#39;Chấn thương lại kìm hãm Man Utd&#39;](https://vnexpress.net/ten-hag-chan-thuong-lai-kim-ham-man-utd-4808629.html) - 23:25 25/10/2024
 - 🌈 [Al Nassr đứt mạch thắng khi vắng Ronaldo](https://vnexpress.net/al-nassr-dut-mach-thang-khi-vang-ronaldo-4808626.html) - 23:19 25/10/2024
 - 🦩 [Cơ thủ Quyết Chiến, Thanh Tự vào bán kết World Cup](https://vnexpress.net/co-thu-quyet-chien-thanh-tu-vao-ban-ket-world-cup-4808624.html) - 21:28 25/10/2024
-- 🐲 [Man Utd được dự đoán thắng tiếp ở vòng 9 Ngoại hạng Anh](https://vnexpress.net/man-utd-duoc-du-doan-thang-tiep-o-vong-9-ngoai-hang-anh-4808298.html) - 17:00 25/10/2024
-- 🌁 [Yamal được khen tài năng hơn Vinicius](https://vnexpress.net/yamal-duoc-khen-tai-nang-hon-vinicius-4808599.html) - 17:00 25/10/2024
+- 🐲 [Yamal được khen tài năng hơn Vinicius](https://vnexpress.net/yamal-duoc-khen-tai-nang-hon-vinicius-4808599.html) - 17:00 25/10/2024
+- 🌁 [Man Utd được dự đoán thắng tiếp ở vòng 9 Ngoại hạng Anh](https://vnexpress.net/man-utd-duoc-du-doan-thang-tiep-o-vong-9-ngoai-hang-anh-4808298.html) - 17:00 25/10/2024
 - 💯 [Thể Công hạ Bình Dương để lên dẫn đầu V-League](https://vnexpress.net/the-cong-ha-binh-duong-de-len-dan-dau-v-league-4808583.html) - 15:46 25/10/2024
 - 🌝 [Lưu ý dành cho người mới tập bóng rổ](https://vnexpress.net/luu-y-danh-cho-nguoi-moi-tap-bong-ro-4808442.html) - 13:00 25/10/2024
 - 🤖 [FIFA cấm HAGL mua cầu thủ](https://vnexpress.net/fifa-cam-hagl-mua-cau-thu-4808563.html) - 11:29 25/10/2024
