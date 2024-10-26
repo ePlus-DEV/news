@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Bất ngờ vì độ khó của đề tham khảo Tiếng Anh thi tốt nghiệp 2025](https://vnexpress.net/bat-ngo-vi-do-kho-cua-de-tham-khao-tieng-anh-thi-tot-nghiep-2025-4806047.html) - 03:50 26/10/2024
-- 🦆 [Phát hiện trường tuyển &#39;chui&#39; sau ba tháng nhập học lớp 10](https://vnexpress.net/phat-hien-truong-tuyen-chui-sau-ba-thang-nhap-hoc-lop-10-4806593.html) - 02:10 26/10/2024
+- 🦆 [Trường tư tuyển &#39;chui&#39; hơn 170 học sinh lớp 10](https://vnexpress.net/truong-tu-tuyen-chui-hon-170-hoc-sinh-lop-10-4806593.html) - 02:10 26/10/2024
 - 🦩 [Học ngôn ngữ lập trình nào để theo ngành Thiết kế vi mạch?](https://vnexpress.net/hoc-ngon-ngu-lap-trinh-nao-de-theo-nganh-thiet-ke-vi-mach-4808335.html) - 16:59 25/10/2024
 - 🌮 [Bộ Giáo dục nói lý do cộng điểm lớp 10 cho con cán bộ cách mạng trước 1945](https://vnexpress.net/bo-giao-duc-noi-ly-do-cong-diem-lop-10-cho-con-can-bo-cach-mang-truoc-1945-4808593.html) - 15:44 25/10/2024
 - 🔭 [Gần 87% phòng học cả nước được kiên cố hóa](https://vnexpress.net/gan-87-phong-hoc-ca-nuoc-duoc-kien-co-hoa-4808427.html) - 14:20 25/10/2024
