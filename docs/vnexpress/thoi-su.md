@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [7 biệt thự bỏ hoang ở TP HCM - dấu tích gia tộc Chú Hỏa](https://vnexpress.net/7-biet-thu-bo-hoang-o-tp-hcm-dau-tich-gia-toc-chu-hoa-4808619.html) - 01:46 26/10/2024
 - ⚗️ [Rác từ lồng bè đe dọa sinh thái vịnh Hạ Long](https://vnexpress.net/rac-tu-long-be-de-doa-sinh-thai-vinh-ha-long-4808495.html) - 00:00 26/10/2024
 - 🌊 [Hôm nay Quốc hội thảo luận về kinh tế xã hội, thi hành Hiến pháp](https://vnexpress.net/hom-nay-quoc-hoi-thao-luan-ve-kinh-te-xa-hoi-thi-hanh-hien-phap-4808585.html) - 23:00 25/10/2024
-- 🎓 [Quân tình nguyện Việt Nam tham gia giúp cách mạng Lào](https://vnexpress.net/quan-tinh-nguyen-viet-nam-tham-gia-giup-cach-mang-lao-4808461.html) - 23:00 25/10/2024
+- 🎓 [Hơn 40 năm quân tình nguyện Việt Nam giúp cách mạng Lào](https://vnexpress.net/hon-40-nam-quan-tinh-nguyen-viet-nam-giup-cach-mang-lao-4808461.html) - 23:00 25/10/2024
 - 🔥 [Những biểu tượng cố đô Huế sau hơn 100 năm](https://vnexpress.net/nhung-bieu-tuong-co-do-hue-sau-hon-100-nam-4805046.html) - 17:00 25/10/2024
 - 🦏 [Đề xuất nâng 1-4 tuổi nghỉ hưu của sĩ quan quân đội](https://vnexpress.net/de-xuat-nang-1-4-tuoi-nghi-huu-cua-si-quan-quan-doi-4808555.html) - 15:31 25/10/2024
 - 👺 [Thủ tướng yêu cầu đẩy nhanh tiến độ thi công cầu Tứ Liên](https://vnexpress.net/thu-tuong-yeu-cau-day-nhanh-tien-do-thi-cong-cau-tu-lien-4808587.html) - 14:20 25/10/2024
