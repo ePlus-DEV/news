@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-giao-duc:START -->
 - 🤡 [Giáo viên dạy thêm trái quy định, trường sẽ không được xét thi đua](https://dantri.com.vn/giao-duc/giao-vien-day-them-trai-quy-dinh-truong-se-khong-duoc-xet-thi-dua-20241026112644655.htm) - 04:32 26/10/2024
-- 🗽 [Hà Nội: Hơn 25% lao động có trình độ đại học trở lên tìm kiếm việc làm](https://dantri.com.vn/giao-duc/ha-noi-hon-25-lao-dong-co-trinh-do-dai-hoc-tro-len-tim-kiem-viec-lam-20241026074023177.htm) - 04:23 26/10/2024
+- 🗽 [Hà Nội: Nhiều lao động có trình độ đại học tìm kiếm việc làm](https://dantri.com.vn/giao-duc/ha-noi-nhieu-lao-dong-co-trinh-do-dai-hoc-tim-kiem-viec-lam-20241026074023177.htm) - 04:23 26/10/2024
 - 🚦 [Thêm loạt trường đại học công bố lịch nghỉ Tết Nguyên đán](https://dantri.com.vn/giao-duc/them-loat-truong-dai-hoc-cong-bo-lich-nghi-tet-nguyen-dan-20241026093646945.htm) - 03:42 26/10/2024
 - 🌋 [Diễn đàn Sinh viên với công tác bảo tồn đa dạng sinh học](https://dantri.com.vn/giao-duc/dien-dan-sinh-vien-voi-cong-tac-bao-ton-da-dang-sinh-hoc-20241025232258038.htm) - 01:14 26/10/2024
 - 🏊 [Trầm cảm sau 4 năm đi dạy, nữ giáo viên tăng 20 kg, òa khóc bất cứ lúc nào](https://dantri.com.vn/giao-duc/tram-cam-sau-4-nam-di-day-nu-giao-vien-tang-20-kg-oa-khoc-bat-cu-luc-nao-20241025122618317.htm) - 23:00 25/10/2024
