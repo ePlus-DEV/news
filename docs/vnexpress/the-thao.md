@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Haaland giải cơn khát bàn ở Ngoại hạng Anh](https://vnexpress.net/haaland-giai-con-khat-ban-o-ngoai-hang-anh-4808874.html) - 16:00 26/10/2024
 - 🦩 [Cơ thủ Quyết Chiến lần thứ tư vô địch World Cup](https://vnexpress.net/co-thu-quyet-chien-lan-thu-tu-vo-dich-world-cup-4808871.html) - 15:16 26/10/2024
 - 🧰 [Hoàng Đức ghi bàn ngay trận ra quân giải hạng Nhất](https://vnexpress.net/hoang-duc-ghi-ban-ngay-tran-ra-quan-giai-hang-nhat-4808851.html) - 14:13 26/10/2024
-- 🤗 [HAGL vuột chiến thắng ở phút bù](https://vnexpress.net/hagl-vuot-chien-thang-o-phut-bu-4808847.html) - 12:42 26/10/2024
+- 🤗 [HAGL vuột chiến thắng phút bù ở V-League](https://vnexpress.net/hagl-vuot-chien-thang-phut-bu-o-v-league-4808847.html) - 12:42 26/10/2024
 - 🥳 [Guardiola: &#39;Man City sẽ không xuống dốc như Man Utd&#39;](https://vnexpress.net/guardiola-man-city-se-khong-xuong-doc-nhu-man-utd-4808744.html) - 12:27 26/10/2024
 - 🦣 [Hà Hậu về nhì ở giải vô địch trail châu Á Thái Bình Dương](https://vnexpress.net/ha-hau-ve-nhi-o-giai-vo-dich-trail-chau-a-thai-binh-duong-4808844.html) - 12:21 26/10/2024
 - 🌜 [Công Phượng mờ nhạt ngày khai màn giải hạng Nhất](https://vnexpress.net/cong-phuong-mo-nhat-ngay-khai-man-giai-hang-nhat-4808842.html) - 12:13 26/10/2024
