@@ -12,7 +12,7 @@ sidebar_position: 9
 - 🎃 [Khu nghỉ dưỡng ở Quảng Nam đón khách trú bão miễn phí](https://vnexpress.net/khu-nghi-duong-o-quang-nam-don-khach-tru-bao-mien-phi-4808826.html) - 13:42 26/10/2024
 - 🧰 [Lần đầu mở ngành Dược cấp 3 bằng của Việt Nam và Australia](https://vnexpress.net/lan-dau-mo-nganh-duoc-cap-3-bang-cua-viet-nam-va-australia-4808797.html) - 13:38 26/10/2024
 - 🔭 [Quần nhung được giới yêu thời trang săn lùng](https://vnexpress.net/quan-nhung-duoc-gioi-yeu-thoi-trang-san-lung-4807182.html) - 13:25 26/10/2024
-- 🫶 [Hàng trăm phao xốp nuôi hàu chưa rõ nguồn gốc dạt vào bờ biển](https://vnexpress.net/hang-tram-phao-xop-nuoi-hau-chua-ro-nguon-goc-dat-vao-bo-bien-4808845.html) - 13:24 26/10/2024
+- 🫶 [Hàng trăm bè nuôi hàu chưa rõ nguồn gốc dạt vào bờ biển](https://vnexpress.net/hang-tram-be-nuoi-hau-chua-ro-nguon-goc-dat-vao-bo-bien-4808845.html) - 13:24 26/10/2024
 - 🪜 [Sâm Ngọc Linh được trồng nhiều nhất ở tỉnh nào?](https://vnexpress.net/sam-ngoc-linh-duoc-trong-nhieu-nhat-o-tinh-nao-4808832.html) - 13:14 26/10/2024
 - 👨‍🏫 [Phản ứng trái ngược sau vụ Israel tập kích Iran](https://vnexpress.net/phan-ung-trai-nguoc-sau-vu-israel-tap-kich-iran-4808818.html) - 13:13 26/10/2024
 - 🎊 [Hai lần rủ bạn trai vào khách sạn nhưng không &#39;vượt rào&#39;](https://vnexpress.net/hai-lan-ru-ban-trai-vao-khach-san-nhung-khong-vuot-rao-4808736.html) - 13:00 26/10/2024
