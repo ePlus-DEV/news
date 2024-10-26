@@ -5,7 +5,7 @@ sidebar_position: 21
 
 <!-- dantri-bat-dong-san:START -->
 - 🌏 [Thị trường bất động sản có đang thực sự &quot;nóng&quot;?](https://dantri.com.vn/bat-dong-san/thi-truong-bat-dong-san-co-dang-thuc-su-nong-20241025165938828.htm) - 04:52 26/10/2024
-- 👹 [Sở hữu căn hộ đủ tiện ích tại Sun Urban City với giá chưa tới 1 tỷ đồng](https://dantri.com.vn/bat-dong-san/so-huu-can-ho-du-tien-ich-tai-sun-urban-city-voi-gia-chua-toi-1-ty-dong-20241026095939571.htm) - 03:04 26/10/2024
+- 👹 [Sun Group ra mắt căn hộ dưới 1 tỷ đồng, nhận nhà ngay sau 8 tháng](https://dantri.com.vn/bat-dong-san/sun-group-ra-mat-can-ho-duoi-1-ty-dong-nhan-nha-ngay-sau-8-thang-20241026095939571.htm) - 03:04 26/10/2024
 - 💡 [Cơ hội sở hữu căn hộ hạng sang với giá ưu đãi tại phía Đông Hà Nội](https://dantri.com.vn/bat-dong-san/co-hoi-so-huu-can-ho-hang-sang-voi-gia-uu-dai-tai-phia-dong-ha-noi-20241025211520920.htm) - 14:28 25/10/2024
 - 🌋 [Sẽ thu hồi, chấm dứt dự án Đà Lạt Plaza có vốn đầu tư 267 tỷ đồng](https://dantri.com.vn/bat-dong-san/se-thu-hoi-cham-dut-du-an-da-lat-plaza-co-von-dau-tu-267-ty-dong-20241025123757256.htm) - 07:38 25/10/2024
 - 🌜 [TPHCM cho phép xây công trình trên đất nông nghiệp](https://dantri.com.vn/bat-dong-san/tphcm-cho-phep-xay-cong-trinh-tren-dat-nong-nghiep-20241025110253007.htm) - 06:46 25/10/2024
