@@ -9,7 +9,7 @@ sidebar_position: 1
 - ⚗️ [&#39;Nên tăng lương hưu từ năm 2025&#39;](https://vnexpress.net/nen-tang-luong-huu-tu-nam-2025-4808713.html) - 04:36 26/10/2024
 - 🌊 [Quảng Ninh có tân Bí thư Tỉnh ủy](https://vnexpress.net/quang-ninh-co-tan-bi-thu-tinh-uy-4808697.html) - 03:31 26/10/2024
 - 🎓 [Đề xuất bỏ quy định kỷ luật đảng viên sinh con thứ ba](https://vnexpress.net/de-xuat-bo-quy-dinh-ky-luat-dang-vien-sinh-con-thu-ba-4808662.html) - 02:45 26/10/2024
-- 🔥 [Bão Trà Mi mạnh lên cấp 11, gây mưa ở miền Trung từ chiều nay](https://vnexpress.net/bao-tra-mi-manh-len-cap-11-gay-mua-o-mien-trung-tu-chieu-nay-4808651.html) - 01:47 26/10/2024
+- 🔥 [Bão Trà Mi mạnh lên cấp 12, gây mưa ở miền Trung từ chiều nay](https://vnexpress.net/bao-tra-mi-manh-len-cap-12-gay-mua-o-mien-trung-tu-chieu-nay-4808651.html) - 01:47 26/10/2024
 - 🦏 [7 biệt thự bỏ hoang ở TP HCM - dấu tích gia tộc Chú Hỏa](https://vnexpress.net/7-biet-thu-bo-hoang-o-tp-hcm-dau-tich-gia-toc-chu-hoa-4808619.html) - 01:46 26/10/2024
 - 👺 [Rác từ lồng bè đe dọa sinh thái vịnh Hạ Long](https://vnexpress.net/rac-tu-long-be-de-doa-sinh-thai-vinh-ha-long-4808495.html) - 00:00 26/10/2024
 - 🧑‍🏫 [Hôm nay Quốc hội thảo luận về kinh tế xã hội, thi hành Hiến pháp](https://vnexpress.net/hom-nay-quoc-hoi-thao-luan-ve-kinh-te-xa-hoi-thi-hanh-hien-phap-4808585.html) - 23:00 25/10/2024
