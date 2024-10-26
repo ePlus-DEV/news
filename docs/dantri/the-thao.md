@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Man Utd âm thầm tìm người thay thế HLV Ten Hag](https://dantri.com.vn/the-thao/man-utd-am-tham-tim-nguoi-thay-the-hlv-ten-hag-20241026143424168.htm) - 08:26 26/10/2024
-- 💯 [Nhận định, dự đoán tỷ số Barcelona vs Real Madrid &lpar;02h00 ngày 27/10&rpar;](https://dantri.com.vn/the-thao/nhan-dinh-du-doan-ty-so-barcelona-vs-real-madrid-02h00-ngay-2710-20241026133233663.htm) - 06:32 26/10/2024
+- 💯 [Nhận định, dự đoán tỷ số Barcelona vs Real Madrid &lpar;02h00 ngày 27/10&rpar;](https://dantri.com.vn/the-thao/nhan-dinh-du-doan-ty-so-barcelona-vs-real-madrid-02h00-ngay-2710-20241026133233663.htm) - 07:32 26/10/2024
 - ⛽️ [Đại thắng 10-0, U17 Indonesia vẫn có nguy cơ bị loại](https://dantri.com.vn/the-thao/dai-thang-10-0-u17-indonesia-van-co-nguy-co-bi-loai-20241026123801177.htm) - 06:01 26/10/2024
 - 💃 [Lionel Messi kiến tạo cho siêu phẩm giúp Inter Miami có chiến thắng lịch sử](https://dantri.com.vn/the-thao/lionel-messi-kien-tao-cho-sieu-pham-giup-inter-miami-co-chien-thang-lich-su-20241026112149601.htm) - 04:21 26/10/2024
 - 🌈 [Kịch bản nào giúp U17 Việt Nam giành vé dự giải châu Á?](https://dantri.com.vn/the-thao/kich-ban-nao-giup-u17-viet-nam-gianh-ve-du-giai-chau-a-20241026090053660.htm) - 02:00 26/10/2024
