@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Thợ săn cá kể lúc cứu nữ du khách bị sóng cuốn suốt 12 giờ](https://vnexpress.net/tho-san-ca-ke-luc-cuu-nu-du-khach-bi-song-cuon-suot-12-gio-4809024.html) - 11:00 27/10/2024
+- 🎬 [Thợ săn cá kể khoảnh khắc cứu nữ du khách bị sóng cuốn suốt 12 giờ](https://vnexpress.net/tho-san-ca-ke-khoanh-khac-cuu-nu-du-khach-bi-song-cuon-suot-12-gio-4809024.html) - 11:00 27/10/2024
 - 🐎 [Tôi có nhà, xe hơi nhưng khó có được bữa cơm gia đình](https://vnexpress.net/toi-co-nha-xe-hoi-nhung-kho-co-duoc-bua-com-gia-dinh-4808975.html) - 11:00 27/10/2024
 - 🦍 [Chỉ cần em dịu dàng, dễ nhìn](https://vnexpress.net/chi-can-em-diu-dang-de-nhin-4808916.html) - 11:00 27/10/2024
 - 🏊 [20 nữ sinh đạt giải khoa học công nghệ năm 2024](https://vnexpress.net/20-nu-sinh-dat-giai-khoa-hoc-cong-nghe-nam-2024-4809043.html) - 10:30 27/10/2024
