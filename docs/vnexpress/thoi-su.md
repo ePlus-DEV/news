@@ -9,7 +9,7 @@ sidebar_position: 1
 - ⚗️ [Cổ thụ bật gốc đè ôtô ở TP HCM](https://vnexpress.net/co-thu-bat-goc-de-oto-o-tp-hcm-4808981.html) - 05:20 27/10/2024
 - 🌊 [Cây đổ, đường ngập khi bão Trà Mi đổ bộ](https://vnexpress.net/cay-do-duong-ngap-khi-bao-tra-mi-do-bo-4808958.html) - 03:57 27/10/2024
 - 🎓 [Tìm thấy nữ du khách bị sóng đánh trôi hơn 12 giờ ở Phú Quý](https://vnexpress.net/tim-thay-nu-du-khach-bi-song-danh-troi-hon-12-gio-o-phu-quy-4808940.html) - 03:20 27/10/2024
-- 🔥 [Bão vào Thừa Thiên Huế - Đà Nẵng, giật đổ hàng loạt cây xanh](https://vnexpress.net/cap-nhat-bao-tra-mi-4808919.html) - 01:39 27/10/2024
+- 🔥 [Bão vào Thừa Thiên Huế - Đà Nẵng, giật đổ hàng loạt cây xanh](https://vnexpress.net/cap-nhat-bao-tra-mi-4808919-tong-thuat.html) - 01:39 27/10/2024
 - 🦏 [Đà Nẵng, Thừa Thiên Huế khuyến cáo người dân không ra đường](https://vnexpress.net/da-nang-thua-thien-hue-khuyen-cao-nguoi-dan-khong-ra-duong-4808908.html) - 01:19 27/10/2024
 - 👺 [Bãi giữ xe vi phạm bị cháy](https://vnexpress.net/bai-giu-xe-vi-pham-bi-chay-4808907.html) - 01:17 27/10/2024
 - 🧑‍🏫 [Bão Trà Mi cách Đà Nẵng khoảng 100 km](https://vnexpress.net/bao-tra-mi-cach-da-nang-khoang-100-km-4808900.html) - 00:24 27/10/2024
