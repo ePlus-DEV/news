@@ -78,8 +78,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🏊 [Barca đè bẹp Real](https://vnexpress.net/barca-de-bep-real-4808887.html) - 20:52 26/10/2024
 - 💂 [5 lợi ích với doanh nghiệp khi triển khai ESG](https://vnexpress.net/dat-esg-giup-gi-cho-doanh-nghiep-4806772.html) - 18:27 26/10/2024
 - 🚀 [Tân trang vùng kín quá đà gây chít hẹp](https://vnexpress.net/tan-trang-vung-kin-qua-da-gay-chit-hep-4806641.html) - 18:00 26/10/2024
-- 🕴 [Thiết kế mặt tiền cho khu đất xấu](https://vnexpress.net/thiet-ke-mat-tien-cho-khu-dat-xau-4808868.html) - 17:58 26/10/2024
-- 🦆 [Hàng giá rẻ và rác tiêu dùng](https://vnexpress.net/hang-gia-re-va-rac-tieu-dung-4808880.html) - 17:16 26/10/2024<!-- vnexpress:END -->
+- 🕴 [Thiết kế mặt tiền cho khu đất xấu](https://vnexpress.net/thiet-ke-mat-tien-cho-khu-dat-xau-4808868.html) - 17:58 26/10/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
