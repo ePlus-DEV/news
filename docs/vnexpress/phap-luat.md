@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Người phụ nữ bị cướp hãm hại](https://vnexpress.net/nguoi-phu-nu-bi-cuop-ham-hai-4809065.html) - 13:02 27/10/2024
 - 🥰 [Thực khách bắn chết người vì đầu bếp nhào bột &#39;mất vệ sinh&#39;](https://vnexpress.net/thuc-khach-ban-chet-nguoi-vi-dau-bep-nhao-bot-mat-ve-sinh-4809048.html) - 12:00 27/10/2024
 - 🎓 [Thủ đoạn &#39;hợp tác&#39; giữa bà trùm ma túy và hai công an biến chất](https://vnexpress.net/thu-doan-hop-tac-giua-ba-trum-ma-tuy-va-hai-cong-an-bien-chat-4809052.html) - 11:38 27/10/2024
-- 🤓 [Vụ án nhà tang lễ thu tiền mai táng nhưng để 190 thi thể thối rữa](https://vnexpress.net/vu-an-nha-tang-le-thu-tien-mai-tang-nhung-de-190-thi-the-thoi-rua-4808987.html) - 10:01 27/10/2024
+- 🤓 [Vụ án nhà tang lễ &#39;ngược đãi&#39; 190 thi thể, bỏ mặc không mai táng](https://vnexpress.net/vu-an-nha-tang-le-nguoc-dai-190-thi-the-bo-mac-khong-mai-tang-4808987.html) - 10:01 27/10/2024
 - 🎊 [Tài xế có thể bị trừ hết điểm bằng lái nếu vi phạm nồng độ cồn](https://vnexpress.net/tai-xe-co-the-bi-tru-het-diem-bang-lai-neu-vi-pham-nong-do-con-4809021.html) - 08:51 27/10/2024
 - 🙉 [Người phụ nữ bị nhóm cướp uy hiếp lấy toàn bộ tài sản](https://vnexpress.net/nguoi-phu-nu-bi-nhom-cuop-uy-hiep-lay-toan-bo-tai-san-4809012.html) - 07:49 27/10/2024
 - 🤡 [Kẻ tạt sơn pha mắm tôm trả thù bị buộc dọn dẹp hậu quả](https://vnexpress.net/ke-tat-son-pha-mam-tom-tra-thu-bi-buoc-don-dep-hau-qua-4808961.html) - 03:56 27/10/2024
