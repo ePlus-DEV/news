@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Hòa CLB Bình Định, SL Nghệ An thoát vị trí cuối bảng V-League](https://dantri.com.vn/the-thao/hoa-clb-binh-dinh-sl-nghe-an-thoat-vi-tri-cuoi-bang-v-league-20241027202629751.htm) - 14:06 27/10/2024
-- 💯 [West Ham 0-0 Man Utd &lpar;hiệp 1&rpar;: Dalot bỏ lỡ khó tin](https://dantri.com.vn/the-thao/west-ham-0-0-man-utd-hiep-1-dalot-bo-lo-kho-tin-20241027205331909.htm) - 13:53 27/10/2024
+- 💯 [West Ham 0-0 Man Utd &lpar;hiệp 2&rpar;: Dalot bỏ lỡ khó tin](https://dantri.com.vn/the-thao/west-ham-0-0-man-utd-hiep-2-dalot-bo-lo-kho-tin-20241027205331909.htm) - 13:53 27/10/2024
 - ⛽️ [Lamine Yamal bắt chước pha ăn mừng của C.Ronaldo, đầy ngạo nghễ ở Bernabeu](https://dantri.com.vn/the-thao/lamine-yamal-bat-chuoc-pha-an-mung-cua-cronaldo-day-ngao-nghe-o-bernabeu-20241027181315409.htm) - 11:26 27/10/2024
 - 💃 [Nhận được sự trợ giúp, U17 Việt Nam giành vé dự giải châu Á](https://dantri.com.vn/the-thao/nhan-duoc-su-tro-giup-u17-viet-nam-gianh-ve-du-giai-chau-a-20241027182533774.htm) - 11:25 27/10/2024
 - 🌈 [Báo giới Tây Ban Nha chê bai Bellingham, hết lời ca ngợi Lamine Yamal](https://dantri.com.vn/the-thao/bao-gioi-tay-ban-nha-che-bai-bellingham-het-loi-ca-ngoi-lamine-yamal-20241027145025153.htm) - 09:48 27/10/2024
