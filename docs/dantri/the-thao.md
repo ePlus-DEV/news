@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [Nhận định West Ham - Man Utd &lpar;21h00 ngày 27/10&rpar;: Những chiếc ghế nóng](https://dantri.com.vn/the-thao/nhan-dinh-west-ham-man-utd-21h00-ngay-2710-nhung-chiec-ghe-nong-20241027120744747.htm) - 05:08 27/10/2024
 - 💯 [Kylian Mbappe gặp ác mộng, lập kỷ lục không ai muốn](https://dantri.com.vn/the-thao/kylian-mbappe-gap-ac-mong-lap-ky-luc-khong-ai-muon-20241027111325191.htm) - 04:13 27/10/2024
-- ⛽️ [Arsenal - Liverpool &lpar;23h30 ngày 27/10&rpar;: Cuộc đua ở Emirates](https://dantri.com.vn/the-thao/arsenal-liverpool-23h30-ngay-2710-cuoc-dua-o-emirates-20241027111150807.htm) - 04:12 27/10/2024
+- ⛽️ [Nhận định Arsenal - Liverpool &lpar;23h30 ngày 27/10&rpar;: Cuộc đua ở Emirates](https://dantri.com.vn/the-thao/nhan-dinh-arsenal-liverpool-23h30-ngay-2710-cuoc-dua-o-emirates-20241027111150807.htm) - 04:12 27/10/2024
 - 💃 [Lamine Yamal lập kỷ lục ấn tượng sau đại thắng trước Real Madrid](https://dantri.com.vn/the-thao/lamine-yamal-lap-ky-luc-an-tuong-sau-dai-thang-truoc-real-madrid-20241027094429218.htm) - 03:01 27/10/2024
 - 🌈 [Erling Haaland bỏ lỡ khó tin, CĐV không tin nổi vào mắt mình](https://dantri.com.vn/the-thao/erling-haaland-bo-lo-kho-tin-cdv-khong-tin-noi-vao-mat-minh-20241027090053604.htm) - 02:00 27/10/2024
 - 🦅 [Man Utd bẽ mặt sau quyết định phũ phàng của Man City](https://dantri.com.vn/the-thao/man-utd-be-mat-sau-quyet-dinh-phu-phang-cua-man-city-20241026210151951.htm) - 01:45 27/10/2024
