@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Bà Trương Mỹ Lan xin giảm án tử hình như thế nào](https://vnexpress.net/ba-truong-my-lan-xin-giam-an-tu-hinh-nhu-the-nao-4808705.html) - 23:00 26/10/2024
+- 😎 [Bà Trương Mỹ Lan trình bày gì khi xin giảm án tử hình?](https://vnexpress.net/ba-truong-my-lan-trinh-bay-gi-khi-xin-giam-an-tu-hinh-4808705.html) - 23:00 26/10/2024
 - 🥰 [Kẻ sát nhân giả gái giăng &#39;bẫy tình&#39; dụ đàn ông](https://vnexpress.net/ke-sat-nhan-gia-gai-giang-bay-tinh-du-dan-ong-4808551.html) - 17:00 26/10/2024
 - 🎓 [Đền bù thu hồi đất dựa trên nhân khẩu hay diện tích bị giải tỏa?](https://vnexpress.net/den-bu-thu-hoi-dat-dua-tren-nhan-khau-hay-dien-tich-bi-giai-toa-4807155.html) - 17:00 26/10/2024
 - 🤓 [Phó chi cục Thi hành án huyện Trảng Bom bị bắt](https://vnexpress.net/pho-chi-cuc-thi-hanh-an-huyen-trang-bom-bi-bat-4808854.html) - 15:29 26/10/2024
