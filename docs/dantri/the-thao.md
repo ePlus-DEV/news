@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Lamine Yamal bắt chước pha ăn mừng của C.Ronaldo, đầy ngạo nghễ ở Bernabeu](https://dantri.com.vn/the-thao/lamine-yamal-bat-chuoc-pha-an-mung-cua-cronaldo-day-ngao-nghe-o-bernabeu-20241027181315409.htm) - 11:26 27/10/2024
-- 💯 [U17 Việt Nam vs U17 Yemen: U17 Việt Nam nhận tin vui, rộng cửa đi tiếp](https://dantri.com.vn/the-thao/u17-viet-nam-vs-u17-yemen-u17-viet-nam-nhan-tin-vui-rong-cua-di-tiep-20241027182533774.htm) - 11:25 27/10/2024
+- 💯 [U17 Việt Nam 0-1 U17 Yemen &lpar;h1&rpar;: Bàn thua đáng tiếc](https://dantri.com.vn/the-thao/u17-viet-nam-0-1-u17-yemen-h1-ban-thua-dang-tiec-20241027182533774.htm) - 11:25 27/10/2024
 - ⛽️ [Báo giới Tây Ban Nha chê bai Bellingham, hết lời ca ngợi Lamine Yamal](https://dantri.com.vn/the-thao/bao-gioi-tay-ban-nha-che-bai-bellingham-het-loi-ca-ngoi-lamine-yamal-20241027145025153.htm) - 09:48 27/10/2024
 - 💃 [Kylian Mbappe gặp ác mộng, lập kỷ lục không ai muốn](https://dantri.com.vn/the-thao/kylian-mbappe-gap-ac-mong-lap-ky-luc-khong-ai-muon-20241027111325191.htm) - 07:13 27/10/2024
 - 🌈 [Nhận định West Ham - Man Utd &lpar;21h00 ngày 27/10&rpar;: Những chiếc ghế nóng](https://dantri.com.vn/the-thao/nhan-dinh-west-ham-man-utd-21h00-ngay-2710-nhung-chiec-ghe-nong-20241027120744747.htm) - 05:08 27/10/2024
