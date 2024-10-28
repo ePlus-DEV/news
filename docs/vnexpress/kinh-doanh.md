@@ -4,63 +4,63 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Thủ tướng đề nghị tập đoàn bán lẻ hàng đầu thế giới tăng bán hàng Việt](https://vnexpress.net/thu-tuong-de-nghi-tap-doan-ban-le-hang-dau-the-gioi-tang-ban-hang-viet-4809044.html) - 00:03 28/10/2024
-- 🐲 [Vì sao hạn chế nhà đầu tư cá nhân tham gia trái phiếu riêng lẻ?](https://vnexpress.net/vi-sao-han-che-nha-dau-tu-ca-nhan-tham-gia-trai-phieu-rieng-le-4804900.html) - 21:05 27/10/2024
-- 🔥 [Giá vàng có thể điều chỉnh trong ngắn hạn](https://vnexpress.net/gia-vang-co-the-dieu-chinh-trong-ngan-han-4809074.html) - 18:00 27/10/2024
-- 🐵 [Nhân lực ngành năng lượng tái tạo được săn đón](https://vnexpress.net/nhan-luc-nganh-nang-luong-tai-tao-duoc-san-don-4805847.html) - 17:03 27/10/2024
-- 🦅 [Bộ Công Thương yêu cầu Temu tuân thủ pháp luật Việt Nam](https://vnexpress.net/bo-cong-thuong-yeu-cau-temu-tuan-thu-phap-luat-viet-nam-4809033.html) - 08:59 27/10/2024
-- 😺 [Công ty bán bánh phồng tôm lãi tăng gần 2 lần](https://vnexpress.net/cong-ty-ban-banh-phong-tom-lai-tang-gan-2-lan-4808948.html) - 08:22 27/10/2024
-- 🤩 [Sabeco sắp thâu tóm Bia Sài Gòn - Bình Tây](https://vnexpress.net/sabeco-sap-thau-tom-bia-sai-gon-binh-tay-4809008.html) - 08:11 27/10/2024
-- 🌮 [Nvidia gần soán ngôi công ty giá trị nhất thế giới của Apple](https://vnexpress.net/nvidia-gan-soan-ngoi-cong-ty-gia-tri-nhat-the-gioi-cua-apple-4808982.html) - 06:00 27/10/2024
-- 🧰 [Chủ sữa đậu nành Fami lãi gần 7 tỷ đồng mỗi ngày](https://vnexpress.net/chu-sua-dau-nanh-fami-lai-gan-7-ty-dong-moi-ngay-4808932.html) - 03:06 27/10/2024
-- 🤔 [Vài nghìn đồng một kg cam sành](https://vnexpress.net/vai-nghin-dong-mot-kg-cam-sanh-4808803.html) - 01:00 27/10/2024
-- 🧑‍💻 [5 lợi ích với doanh nghiệp khi triển khai ESG](https://vnexpress.net/dat-esg-giup-gi-cho-doanh-nghiep-4806772.html) - 18:27 26/10/2024
-- 🕴 [Trung Quốc giảm mua, giá cau còn một phần ba sau 10 ngày](https://vnexpress.net/trung-quoc-giam-mua-gia-cau-con-mot-phan-ba-sau-10-ngay-4808758.html) - 17:02 26/10/2024
-- 🦩 [Jackpot hơn 148 tỷ đồng có chủ](https://vnexpress.net/jackpot-hon-148-ty-dong-co-chu-4808860.html) - 14:41 26/10/2024
-- 👍 [&#39;Chính sách khuyến khích phát triển năng lượng mới chưa đột phá&#39;](https://vnexpress.net/chinh-sach-khuyen-khich-phat-trien-nang-luong-moi-chua-dot-pha-4808814.html) - 12:22 26/10/2024
-- 🏊 [Người Mỹ tự tin hơn về kinh tế sau khi Fed giảm lãi suất](https://vnexpress.net/nguoi-my-tu-tin-hon-ve-kinh-te-sau-khi-fed-giam-lai-suat-4808749.html) - 07:52 26/10/2024
-- 🤡 [Show &#39;Anh trai vượt ngàn chông gai&#39; giúp Yeah1 lãi đậm](https://vnexpress.net/show-anh-trai-vuot-ngan-chong-gai-giup-yeah1-lai-dam-4808694.html) - 06:51 26/10/2024
-- 👀 [Đại biểu Quốc hội lo cơn lốc Temu triệt tiêu hàng nội](https://vnexpress.net/dai-bieu-quoc-hoi-lo-con-loc-temu-triet-tieu-hang-noi-4808692.html) - 04:59 26/10/2024
-- 😺 [Nga nâng lãi suất lên cao nhất 21 năm](https://vnexpress.net/nga-nang-lai-suat-len-cao-nhat-21-nam-4808643.html) - 03:09 26/10/2024
-- 🦣 [Bão Yagi cuốn bay lợi nhuận nhiều doanh nghiệp](https://vnexpress.net/bao-yagi-cuon-bay-loi-nhuan-nhieu-doanh-nghiep-4808573.html) - 23:00 25/10/2024
-- 😺 [Thụy Sĩ muốn hỗ trợ doanh nghiệp Việt Nam để &#39;xanh&#39; hơn](https://vnexpress.net/thuy-si-muon-ho-tro-doanh-nghiep-viet-nam-de-xanh-hon-4808443.html) - 19:00 25/10/2024
-- 💼 [Nhiều người thất vọng vì hàng trên Temu &#39;giao chậm và không rẻ&#39;](https://vnexpress.net/nhieu-nguoi-that-vong-vi-hang-tren-temu-giao-cham-va-khong-re-4808505.html) - 17:00 25/10/2024
-- 🤗 [Dừa Bến Tre lần đầu xuất chính ngạch sang Trung Quốc](https://vnexpress.net/dua-ben-tre-lan-dau-xuat-chinh-ngach-sang-trung-quoc-4808472.html) - 14:22 25/10/2024
-- 👀 [Yêu cầu thanh tra các cuộc đấu giá khoáng sản](https://vnexpress.net/yeu-cau-thanh-tra-cac-cuoc-dau-gia-khoang-san-4808576.html) - 14:03 25/10/2024
-- 🎓 [IMF cảnh báo kinh tế châu Âu ngày càng tụt lại so với Mỹ](https://vnexpress.net/imf-canh-bao-kinh-te-chau-au-ngay-cang-tut-lai-so-voi-my-4808504.html) - 11:00 25/10/2024
-- 🗽 [Chứng khoán thấp nhất một tháng](https://vnexpress.net/chung-khoan-hom-nay-25-10-vn-index-kiem-tra-moc-1-250-diem-4808498.html) - 09:14 25/10/2024
-- 🚀 [MobiFone vào top 500 doanh nghiệp lợi nhuận tốt nhất Việt Nam](https://vnexpress.net/mobifone-vao-top-500-doanh-nghiep-loi-nhuan-tot-nhat-viet-nam-4808496.html) - 09:00 25/10/2024
-- 🤗 [Sáng kiến hỗ trợ phụ nữ khởi nghiệp của bà Lê Hoàng Diệp Thảo](https://vnexpress.net/sang-kien-ho-tro-phu-nu-khoi-nghiep-cua-ba-le-hoang-diep-thao-4807644.html) - 09:00 25/10/2024
-- 🌜 [Elon Musk có thêm hơn 33 tỷ USD một ngày](https://vnexpress.net/elon-musk-co-them-hon-33-ty-usd-mot-ngay-4808272.html) - 04:32 25/10/2024
-- 👍 [Vingroup muốn lắp trạm sạc xe điện ở Bình Định](https://vnexpress.net/vingroup-muon-lap-tram-sac-xe-dien-o-binh-dinh-4808263.html) - 04:30 25/10/2024
-- 🤖 [Người dân mua bán vàng trên chợ mạng](https://vnexpress.net/nguoi-dan-mua-ban-vang-tren-cho-mang-4808066.html) - 01:56 25/10/2024
-- 🫣 [Giá vàng thế giới tăng trở lại](https://vnexpress.net/gia-vang-the-gioi-tang-tro-lai-4808213.html) - 01:50 25/10/2024
-- 🌏 [Ngành du lịch tìm cách giảm phát thải](https://vnexpress.net/nganh-du-lich-tim-cach-giam-phat-thai-4807200.html) - 22:13 24/10/2024
-- ⚗️ [Belarus muốn hợp tác sản xuất ôtô cùng Việt Nam](https://vnexpress.net/belarus-muon-hop-tac-san-xuat-oto-cung-viet-nam-4808159.html) - 21:42 24/10/2024
-- 🕯 [Các nước dè chừng Temu thế nào](https://vnexpress.net/cac-nuoc-de-chung-temu-the-nao-4808011.html) - 17:02 24/10/2024
-- 👍 [Chủ quản Công viên Đầm Sen lại thua lỗ](https://vnexpress.net/chu-quan-cong-vien-dam-sen-lai-thua-lo-4808128.html) - 14:32 24/10/2024
-- 🤠 [Temu đang làm thủ tục đăng ký hoạt động tại Việt Nam](https://vnexpress.net/temu-dang-lam-thu-tuc-dang-ky-hoat-dong-tai-viet-nam-4808113.html) - 12:32 24/10/2024
-- 🌊 [Tập đoàn năng lượng hạt nhân Nga sẵn sàng hỗ trợ Việt Nam đào tạo nhân lực](https://vnexpress.net/tap-doan-nang-luong-hat-nhan-nga-san-sang-ho-tro-viet-nam-dao-tao-nhan-luc-4808080.html) - 11:07 24/10/2024
-- 🌈 [Chi phí làm xe điện của Tesla thấp kỷ lục](https://vnexpress.net/chi-phi-lam-xe-dien-cua-tesla-thap-ky-luc-4807975.html) - 10:00 24/10/2024
-- 🥳 [Người Việt chi một tỷ USD mua hàng online mỗi tháng](https://vnexpress.net/nguoi-viet-chi-mot-ty-usd-mua-hang-online-moi-thang-4807932.html) - 09:29 24/10/2024
-- 🐻 [Chứng khoán giảm mạnh nhất hai tháng rưỡi](https://vnexpress.net/chung-khoan-hom-nay-24-10-co-phieu-vhm-stb-bi-ban-manh-4808039.html) - 09:15 24/10/2024
-- 💫 [CUBHCM hợp tác Thế Giới Di Động triển khai ứng dụng CUB Vietnam](https://vnexpress.net/cubhcm-hop-tac-the-gioi-di-dong-trien-khai-ung-dung-cub-vietnam-4807961.html) - 08:00 24/10/2024
-- 🤩 [Giá xăng, dầu cùng giảm](https://vnexpress.net/gia-xang-moi-nhat-hom-nay-24-10-4807964.html) - 07:38 24/10/2024
-- 💻 [&#39;Vua nha đam&#39; lãi kỷ lục](https://vnexpress.net/vua-nha-dam-lai-ky-luc-4807899.html) - 07:18 24/10/2024
-- ⚗️ [Khoản lỗ của Boeing tăng vọt](https://vnexpress.net/khoan-lo-cua-boeing-tang-vot-4807866.html) - 05:07 24/10/2024
-- 🌈 [Chuỗi Winmart lần đầu có lãi sau dịch Covid-19](https://vnexpress.net/chuoi-winmart-lan-dau-co-lai-sau-dich-covid-19-4807871.html) - 04:07 24/10/2024
-- 🌝 [Lộc Trời họp cổ đông bất thường vào tháng 12](https://vnexpress.net/loc-troi-hop-co-dong-bat-thuong-vao-thang-12-4807859.html) - 03:40 24/10/2024
-- 🥸 [Thủ tướng đề nghị đẩy nhanh đầu tư 3 tuyến đường sắt kết nối Trung Quốc](https://vnexpress.net/thu-tuong-de-nghi-day-nhanh-dau-tu-3-tuyen-duong-sat-ket-noi-trung-quoc-4807770.html) - 02:31 24/10/2024
-- 🦆 [Giá vàng thế giới giảm mạnh](https://vnexpress.net/gia-vang-the-gioi-giam-manh-4807761.html) - 01:37 24/10/2024
-- 🌋 [Công ty bán vàng mã lãi thấp nhất 4 năm](https://vnexpress.net/cong-ty-ban-vang-ma-lai-thap-nhat-4-nam-4807598.html) - 01:13 24/10/2024
-- 🦍 [Cua &#39;siêu gạch&#39; châu Âu giá rẻ hơn hàng Việt](https://vnexpress.net/cua-sieu-gach-chau-au-gia-re-hon-hang-viet-4807069.html) - 01:01 24/10/2024
-- 🤔 [MSB giới thiệu tính năng sinh lời trên tài khoản đến 4,2% một năm](https://vnexpress.net/msb-gioi-thieu-tinh-nang-sinh-loi-tren-tai-khoan-den-4-2-mot-nam-4806086.html) - 01:00 24/10/2024
-- 🧰 [Chính sách chiết khấu &#39;chưa từng có&#39; của Temu ở Việt Nam](https://vnexpress.net/chinh-sach-chiet-khau-chua-tung-co-cua-temu-o-viet-nam-4807512.html) - 00:00 24/10/2024
-- 🌝 [Suntory Pepsico sẽ chuyển 4 dây chuyền từ TP HCM về Long An](https://vnexpress.net/suntory-pepsico-se-chuyen-4-day-chuyen-tu-tp-hcm-ve-long-an-4807716.html) - 17:38 23/10/2024
-- 👍 [Khử carbon là gì? Bạn có thể làm gì để giảm phát thải?](https://vnexpress.net/khu-carbon-la-gi-4807043.html) - 17:13 23/10/2024
+- ⛽️ [Masan lãi hơn 700 tỷ đồng trong quý III](https://vnexpress.net/masan-lai-hon-700-ty-dong-trong-quy-iii-4809162.html) - 03:00 28/10/2024
+- 🐲 [Vingroup ra mắt quỹ đầu tư công nghệ 150 triệu USD](https://vnexpress.net/vingroup-ra-mat-quy-dau-tu-cong-nghe-150-trieu-usd-4809070.html) - 02:00 28/10/2024
+- 🔥 [Hội thảo quản lý tài chính cá nhân hút hơn 1.000 sinh viên](https://vnexpress.net/hoi-thao-quan-ly-tai-chinh-ca-nhan-hut-hon-1-000-sinh-vien-4805664.html) - 02:00 28/10/2024
+- 🐵 [Sầu riêng tăng giá gấp đôi](https://vnexpress.net/sau-rieng-tang-gia-gap-doi-4807446.html) - 01:00 28/10/2024
+- 🦅 [Thủ tướng đề nghị tập đoàn bán lẻ hàng đầu thế giới tăng bán hàng Việt](https://vnexpress.net/thu-tuong-de-nghi-tap-doan-ban-le-hang-dau-the-gioi-tang-ban-hang-viet-4809044.html) - 00:03 28/10/2024
+- 😺 [Vì sao hạn chế nhà đầu tư cá nhân tham gia trái phiếu riêng lẻ?](https://vnexpress.net/vi-sao-han-che-nha-dau-tu-ca-nhan-tham-gia-trai-phieu-rieng-le-4804900.html) - 21:05 27/10/2024
+- 🤩 [Giá vàng có thể điều chỉnh trong ngắn hạn](https://vnexpress.net/gia-vang-co-the-dieu-chinh-trong-ngan-han-4809074.html) - 18:00 27/10/2024
+- 🌮 [Nhân lực ngành năng lượng tái tạo được săn đón](https://vnexpress.net/nhan-luc-nganh-nang-luong-tai-tao-duoc-san-don-4805847.html) - 17:03 27/10/2024
+- 🧰 [Bộ Công Thương yêu cầu Temu tuân thủ pháp luật Việt Nam](https://vnexpress.net/bo-cong-thuong-yeu-cau-temu-tuan-thu-phap-luat-viet-nam-4809033.html) - 08:59 27/10/2024
+- 🤔 [Công ty bán bánh phồng tôm lãi tăng gần 2 lần](https://vnexpress.net/cong-ty-ban-banh-phong-tom-lai-tang-gan-2-lan-4808948.html) - 08:22 27/10/2024
+- 🧑‍💻 [Sabeco sắp thâu tóm Bia Sài Gòn - Bình Tây](https://vnexpress.net/sabeco-sap-thau-tom-bia-sai-gon-binh-tay-4809008.html) - 08:11 27/10/2024
+- 🕴 [Nvidia gần soán ngôi công ty giá trị nhất thế giới của Apple](https://vnexpress.net/nvidia-gan-soan-ngoi-cong-ty-gia-tri-nhat-the-gioi-cua-apple-4808982.html) - 06:00 27/10/2024
+- 🦩 [Chủ sữa đậu nành Fami lãi gần 7 tỷ đồng mỗi ngày](https://vnexpress.net/chu-sua-dau-nanh-fami-lai-gan-7-ty-dong-moi-ngay-4808932.html) - 03:06 27/10/2024
+- 👍 [Vài nghìn đồng một kg cam sành](https://vnexpress.net/vai-nghin-dong-mot-kg-cam-sanh-4808803.html) - 01:00 27/10/2024
+- 🏊 [5 lợi ích với doanh nghiệp khi triển khai ESG](https://vnexpress.net/dat-esg-giup-gi-cho-doanh-nghiep-4806772.html) - 18:27 26/10/2024
+- 🤡 [Trung Quốc giảm mua, giá cau còn một phần ba sau 10 ngày](https://vnexpress.net/trung-quoc-giam-mua-gia-cau-con-mot-phan-ba-sau-10-ngay-4808758.html) - 17:02 26/10/2024
+- 👀 [Jackpot hơn 148 tỷ đồng có chủ](https://vnexpress.net/jackpot-hon-148-ty-dong-co-chu-4808860.html) - 14:41 26/10/2024
+- 😺 [&#39;Chính sách khuyến khích phát triển năng lượng mới chưa đột phá&#39;](https://vnexpress.net/chinh-sach-khuyen-khich-phat-trien-nang-luong-moi-chua-dot-pha-4808814.html) - 12:22 26/10/2024
+- 🦣 [Người Mỹ tự tin hơn về kinh tế sau khi Fed giảm lãi suất](https://vnexpress.net/nguoi-my-tu-tin-hon-ve-kinh-te-sau-khi-fed-giam-lai-suat-4808749.html) - 07:52 26/10/2024
+- 😺 [Show &#39;Anh trai vượt ngàn chông gai&#39; giúp Yeah1 lãi đậm](https://vnexpress.net/show-anh-trai-vuot-ngan-chong-gai-giup-yeah1-lai-dam-4808694.html) - 06:51 26/10/2024
+- 💼 [Đại biểu Quốc hội lo cơn lốc Temu triệt tiêu hàng nội](https://vnexpress.net/dai-bieu-quoc-hoi-lo-con-loc-temu-triet-tieu-hang-noi-4808692.html) - 04:59 26/10/2024
+- 🤗 [Nga nâng lãi suất lên cao nhất 21 năm](https://vnexpress.net/nga-nang-lai-suat-len-cao-nhat-21-nam-4808643.html) - 03:09 26/10/2024
+- 👀 [Bão Yagi cuốn bay lợi nhuận nhiều doanh nghiệp](https://vnexpress.net/bao-yagi-cuon-bay-loi-nhuan-nhieu-doanh-nghiep-4808573.html) - 23:00 25/10/2024
+- 🎓 [Thụy Sĩ muốn hỗ trợ doanh nghiệp Việt Nam để &#39;xanh&#39; hơn](https://vnexpress.net/thuy-si-muon-ho-tro-doanh-nghiep-viet-nam-de-xanh-hon-4808443.html) - 19:00 25/10/2024
+- 🗽 [Nhiều người thất vọng vì hàng trên Temu &#39;giao chậm và không rẻ&#39;](https://vnexpress.net/nhieu-nguoi-that-vong-vi-hang-tren-temu-giao-cham-va-khong-re-4808505.html) - 17:00 25/10/2024
+- 🚀 [Dừa Bến Tre lần đầu xuất chính ngạch sang Trung Quốc](https://vnexpress.net/dua-ben-tre-lan-dau-xuat-chinh-ngach-sang-trung-quoc-4808472.html) - 14:22 25/10/2024
+- 🤗 [Yêu cầu thanh tra các cuộc đấu giá khoáng sản](https://vnexpress.net/yeu-cau-thanh-tra-cac-cuoc-dau-gia-khoang-san-4808576.html) - 14:03 25/10/2024
+- 🌜 [IMF cảnh báo kinh tế châu Âu ngày càng tụt lại so với Mỹ](https://vnexpress.net/imf-canh-bao-kinh-te-chau-au-ngay-cang-tut-lai-so-voi-my-4808504.html) - 11:00 25/10/2024
+- 👍 [Chứng khoán thấp nhất một tháng](https://vnexpress.net/chung-khoan-hom-nay-25-10-vn-index-kiem-tra-moc-1-250-diem-4808498.html) - 09:14 25/10/2024
+- 🤖 [MobiFone vào top 500 doanh nghiệp lợi nhuận tốt nhất Việt Nam](https://vnexpress.net/mobifone-vao-top-500-doanh-nghiep-loi-nhuan-tot-nhat-viet-nam-4808496.html) - 09:00 25/10/2024
+- 🫣 [Sáng kiến hỗ trợ phụ nữ khởi nghiệp của bà Lê Hoàng Diệp Thảo](https://vnexpress.net/sang-kien-ho-tro-phu-nu-khoi-nghiep-cua-ba-le-hoang-diep-thao-4807644.html) - 09:00 25/10/2024
+- 🌏 [Elon Musk có thêm hơn 33 tỷ USD một ngày](https://vnexpress.net/elon-musk-co-them-hon-33-ty-usd-mot-ngay-4808272.html) - 04:32 25/10/2024
+- ⚗️ [Vingroup muốn lắp trạm sạc xe điện ở Bình Định](https://vnexpress.net/vingroup-muon-lap-tram-sac-xe-dien-o-binh-dinh-4808263.html) - 04:30 25/10/2024
+- 🕯 [Người dân mua bán vàng trên chợ mạng](https://vnexpress.net/nguoi-dan-mua-ban-vang-tren-cho-mang-4808066.html) - 01:56 25/10/2024
+- 👍 [Giá vàng thế giới tăng trở lại](https://vnexpress.net/gia-vang-the-gioi-tang-tro-lai-4808213.html) - 01:50 25/10/2024
+- 🤠 [Ngành du lịch tìm cách giảm phát thải](https://vnexpress.net/nganh-du-lich-tim-cach-giam-phat-thai-4807200.html) - 22:13 24/10/2024
+- 🌊 [Belarus muốn hợp tác sản xuất ôtô cùng Việt Nam](https://vnexpress.net/belarus-muon-hop-tac-san-xuat-oto-cung-viet-nam-4808159.html) - 21:42 24/10/2024
+- 🌈 [Các nước dè chừng Temu thế nào](https://vnexpress.net/cac-nuoc-de-chung-temu-the-nao-4808011.html) - 17:02 24/10/2024
+- 🥳 [Chủ quản Công viên Đầm Sen lại thua lỗ](https://vnexpress.net/chu-quan-cong-vien-dam-sen-lai-thua-lo-4808128.html) - 14:32 24/10/2024
+- 🐻 [Temu đang làm thủ tục đăng ký hoạt động tại Việt Nam](https://vnexpress.net/temu-dang-lam-thu-tuc-dang-ky-hoat-dong-tai-viet-nam-4808113.html) - 12:32 24/10/2024
+- 💫 [Tập đoàn năng lượng hạt nhân Nga sẵn sàng hỗ trợ Việt Nam đào tạo nhân lực](https://vnexpress.net/tap-doan-nang-luong-hat-nhan-nga-san-sang-ho-tro-viet-nam-dao-tao-nhan-luc-4808080.html) - 11:07 24/10/2024
+- 🤩 [Chi phí làm xe điện của Tesla thấp kỷ lục](https://vnexpress.net/chi-phi-lam-xe-dien-cua-tesla-thap-ky-luc-4807975.html) - 10:00 24/10/2024
+- 💻 [Người Việt chi một tỷ USD mua hàng online mỗi tháng](https://vnexpress.net/nguoi-viet-chi-mot-ty-usd-mua-hang-online-moi-thang-4807932.html) - 09:29 24/10/2024
+- ⚗️ [Chứng khoán giảm mạnh nhất hai tháng rưỡi](https://vnexpress.net/chung-khoan-hom-nay-24-10-co-phieu-vhm-stb-bi-ban-manh-4808039.html) - 09:15 24/10/2024
+- 🌈 [CUBHCM hợp tác Thế Giới Di Động triển khai ứng dụng CUB Vietnam](https://vnexpress.net/cubhcm-hop-tac-the-gioi-di-dong-trien-khai-ung-dung-cub-vietnam-4807961.html) - 08:00 24/10/2024
+- 🌝 [Giá xăng, dầu cùng giảm](https://vnexpress.net/gia-xang-moi-nhat-hom-nay-24-10-4807964.html) - 07:38 24/10/2024
+- 🥸 [&#39;Vua nha đam&#39; lãi kỷ lục](https://vnexpress.net/vua-nha-dam-lai-ky-luc-4807899.html) - 07:18 24/10/2024
+- 🦆 [Khoản lỗ của Boeing tăng vọt](https://vnexpress.net/khoan-lo-cua-boeing-tang-vot-4807866.html) - 05:07 24/10/2024
+- 🌋 [Chuỗi Winmart lần đầu có lãi sau dịch Covid-19](https://vnexpress.net/chuoi-winmart-lan-dau-co-lai-sau-dich-covid-19-4807871.html) - 04:07 24/10/2024
+- 🦍 [Lộc Trời họp cổ đông bất thường vào tháng 12](https://vnexpress.net/loc-troi-hop-co-dong-bat-thuong-vao-thang-12-4807859.html) - 03:40 24/10/2024
+- 🤔 [Thủ tướng đề nghị đẩy nhanh đầu tư 3 tuyến đường sắt kết nối Trung Quốc](https://vnexpress.net/thu-tuong-de-nghi-day-nhanh-dau-tu-3-tuyen-duong-sat-ket-noi-trung-quoc-4807770.html) - 02:31 24/10/2024
+- 🧰 [Giá vàng thế giới giảm mạnh](https://vnexpress.net/gia-vang-the-gioi-giam-manh-4807761.html) - 01:37 24/10/2024
+- 🌝 [Công ty bán vàng mã lãi thấp nhất 4 năm](https://vnexpress.net/cong-ty-ban-vang-ma-lai-thap-nhat-4-nam-4807598.html) - 01:13 24/10/2024
+- 👍 [Cua &#39;siêu gạch&#39; châu Âu giá rẻ hơn hàng Việt](https://vnexpress.net/cua-sieu-gach-chau-au-gia-re-hon-hang-viet-4807069.html) - 01:01 24/10/2024
+- 🗽 [MSB giới thiệu tính năng sinh lời trên tài khoản đến 4,2% một năm](https://vnexpress.net/msb-gioi-thieu-tinh-nang-sinh-loi-tren-tai-khoan-den-4-2-mot-nam-4806086.html) - 01:00 24/10/2024
+- 🐎 [Chính sách chiết khấu &#39;chưa từng có&#39; của Temu ở Việt Nam](https://vnexpress.net/chinh-sach-chiet-khau-chua-tung-co-cua-temu-o-viet-nam-4807512.html) - 00:00 24/10/2024
+- 🪄 [Suntory Pepsico sẽ chuyển 4 dây chuyền từ TP HCM về Long An](https://vnexpress.net/suntory-pepsico-se-chuyen-4-day-chuyen-tu-tp-hcm-ve-long-an-4807716.html) - 17:38 23/10/2024
+- 🎊 [Khử carbon là gì? Bạn có thể làm gì để giảm phát thải?](https://vnexpress.net/khu-carbon-la-gi-4807043.html) - 17:13 23/10/2024
 - 🗽 [CEO Unilever Việt Nam: &#39;Phát thải nhựa của chúng tôi bằng 0&#39;](https://vnexpress.net/ceo-unilever-viet-nam-phat-thai-nhua-cua-chung-toi-bang-0-4807714.html) - 17:10 23/10/2024
-- 🐎 [Quỹ đầu tư quốc gia lớn nhất thế giới lãi gần 80 tỷ USD một quý nhờ chứng khoán](https://vnexpress.net/quy-dau-tu-quoc-gia-lon-nhat-the-gioi-lai-gan-80-ty-usd-mot-quy-nho-chung-khoan-4807612.html) - 17:03 23/10/2024
-- 🪄 [Đề xuất chặn quảng cáo các sàn &#39;khuyến mại quá 50%&#39; như Temu, Shopee](https://vnexpress.net/de-xuat-chan-quang-cao-cac-san-khuyen-mai-qua-50-nhu-temu-shopee-4807692.html) - 15:34 23/10/2024
-- 🎊 [Công ty ông Johnathan Hạnh Nguyễn làm chủ tịch báo lãi kỷ lục](https://vnexpress.net/cong-ty-ong-johnathan-hanh-nguyen-lam-chu-tich-bao-lai-ky-luc-4807604.html) - 14:24 23/10/2024
-- 🗽 [Temu chưa đăng ký hoạt động ở Việt Nam](https://vnexpress.net/temu-chua-dang-ky-hoat-dong-o-viet-nam-4807681.html) - 13:45 23/10/2024
-- 🦩 [Thứ trưởng Công Thương: Làm điện hạt nhân phải đảm bảo rủi ro bằng 0](https://vnexpress.net/thu-truong-cong-thuong-lam-dien-hat-nhan-phai-dam-bao-rui-ro-bang-0-4807671.html) - 12:24 23/10/2024<!-- vnexpress-kinh-doanh:END -->
+- 🦩 [Quỹ đầu tư quốc gia lớn nhất thế giới lãi gần 80 tỷ USD một quý nhờ chứng khoán](https://vnexpress.net/quy-dau-tu-quoc-gia-lon-nhat-the-gioi-lai-gan-80-ty-usd-mot-quy-nho-chung-khoan-4807612.html) - 17:03 23/10/2024<!-- vnexpress-kinh-doanh:END -->
