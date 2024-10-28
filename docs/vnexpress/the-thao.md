@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Vinicius nhiều khả năng trượt Quả Bóng Vàng](https://vnexpress.net/vinicius-nhieu-kha-nang-truot-qua-bong-vang-4809508.html) - 15:09 28/10/2024
-- 🦩 [Nam Định thua thảm Công an Hà Nội trên sân nhà](https://vnexpress.net/nam-dinh-thua-tham-cong-an-ha-noi-tren-san-nha-4809489.html) - 13:43 28/10/2024
+- 🦩 [Nam Định thua thảm CAHN ở V-League](https://vnexpress.net/nam-dinh-thua-tham-cahn-o-v-league-4809489.html) - 13:43 28/10/2024
 - 🧰 [Cơ thủ Trần Quyết Chiến: &#39;Đối thủ lớn nhất là chính mình&#39;](https://vnexpress.net/co-thu-tran-quyet-chien-doi-thu-lon-nhat-la-chinh-minh-4809483.html) - 12:51 28/10/2024
 - 🤗 [Man Utd sa thải Ten Hag](https://vnexpress.net/man-utd-sa-thai-ten-hag-4809477.html) - 11:57 28/10/2024
 - 🥳 [Cầu thủ hay nhất châu Á châm chọc Mbappe](https://vnexpress.net/cau-thu-hay-nhat-chau-a-cham-choc-mbappe-4809277.html) - 11:50 28/10/2024
