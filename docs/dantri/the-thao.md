@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Man Utd sa thải huấn luyện viên Erik Ten Hag](https://dantri.com.vn/the-thao/man-utd-sa-thai-huan-luyen-vien-erik-ten-hag-20241028185453106.htm) - 11:54 28/10/2024
-- 💯 [HLV U17 Indonesia xấu hổ vì đội nhà… &quot;chơi đá ma&quot;, gây ức chế CĐV](https://dantri.com.vn/the-thao/hlv-u17-indonesia-xau-ho-vi-doi-nha-choi-da-ma-gay-uc-che-cdv-20241028173157326.htm) - 10:31 28/10/2024
+- 🎡 [HLV U17 Indonesia xấu hổ vì đội nhà… &quot;chơi đá ma&quot;, gây ức chế CĐV](https://dantri.com.vn/the-thao/hlv-u17-indonesia-xau-ho-vi-doi-nha-choi-da-ma-gay-uc-che-cdv-20241028173157326.htm) - 12:01 28/10/2024
+- 💯 [Man Utd sa thải huấn luyện viên Erik Ten Hag](https://dantri.com.vn/the-thao/man-utd-sa-thai-huan-luyen-vien-erik-ten-hag-20241028185453106.htm) - 11:54 28/10/2024
 - ⛽️ [Cựu trọng tài Premier League: &quot;Man Utd bị phạt đền oan uổng&quot;](https://dantri.com.vn/the-thao/cuu-trong-tai-premier-league-man-utd-bi-phat-den-oan-uong-20241028131832055.htm) - 09:56 28/10/2024
 - 💃 [Chịu áp lực lớn khủng khiếp, HLV Ten Hag sắp bị &quot;trảm&quot; ở Man Utd](https://dantri.com.vn/the-thao/chiu-ap-luc-lon-khung-khiep-hlv-ten-hag-sap-bi-tram-o-man-utd-20241028134709071.htm) - 08:17 28/10/2024
 - 🌈 [Chelsea nhận án phạt nặng sau khi lập kỷ lục đáng buồn](https://dantri.com.vn/the-thao/chelsea-nhan-an-phat-nang-sau-khi-lap-ky-luc-dang-buon-20241028123602625.htm) - 08:00 28/10/2024
