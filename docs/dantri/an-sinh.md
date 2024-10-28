@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- dantri-an-sinh:START -->
-- 👺 [Vì sao không tăng tuổi nghỉ hưu sĩ quan cấp tướng quân đội?](https://dantri.com.vn/an-sinh/vi-sao-khong-tang-tuoi-nghi-huu-si-quan-cap-tuong-quan-doi-20241028175905411.htm) - 11:07 28/10/2024
+- 👺 [Vì sao không tăng tuổi nghỉ hưu nam sĩ quan cấp tướng quân đội?](https://dantri.com.vn/an-sinh/vi-sao-khong-tang-tuoi-nghi-huu-nam-si-quan-cap-tuong-quan-doi-20241028175905411.htm) - 11:07 28/10/2024
 - 👀 [Cơ hội cuối đăng ký dự hội thảo nhân lực bền vững do báo Dân trí tổ chức](https://dantri.com.vn/an-sinh/co-hoi-cuoi-dang-ky-du-hoi-thao-nhan-luc-ben-vung-do-bao-dan-tri-to-chuc-20241028171847834.htm) - 10:54 28/10/2024
 - 💡 [Đoàn tụ sau 30 năm xa cách, chị em song sinh lại rạn nứt tình cảm vì tiền](https://dantri.com.vn/an-sinh/doan-tu-sau-30-nam-xa-cach-chi-em-song-sinh-lai-ran-nut-tinh-cam-vi-tien-20241027162019908.htm) - 01:01 28/10/2024
 - 💄 [Cô gái bật khóc nức nở vì &quot;bí mật&quot; trong nhật ký của bà ngoại](https://dantri.com.vn/an-sinh/co-gai-bat-khoc-nuc-no-vi-bi-mat-trong-nhat-ky-cua-ba-ngoai-20241027154325127.htm) - 23:00 27/10/2024
