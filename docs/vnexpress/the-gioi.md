@@ -12,7 +12,7 @@ sidebar_position: 2
 - 🦒 [Biệt thự &#39;chủ không được ở&#39; trên đỉnh tháp chọc trời Ấn Độ](https://vnexpress.net/biet-thu-chu-khong-duoc-o-tren-dinh-thap-choc-troi-an-do-4809355.html) - 09:25 28/10/2024
 - 🌈 [Ảnh vệ tinh trận địa Patriot tại Kiev](https://vnexpress.net/anh-ve-tinh-tran-dia-patriot-tai-kiev-4809369.html) - 09:09 28/10/2024
 - 🧑‍🏫 [Máy bay Singapore chở 266 người bị nứt kính chắn gió](https://vnexpress.net/may-bay-singapore-cho-266-nguoi-bi-nut-kinh-chan-gio-4809326.html) - 08:42 28/10/2024
-- 🐲 [UAE bắn 21 phát đại bác chào mừng Thủ tướng Phạm Minh Chính](https://vnexpress.net/uae-ban-21-phat-dai-bac-chao-mung-thu-tuong-pham-minh-chinh-4809099.html) - 08:03 28/10/2024
+- 🐲 [UAE bắn 21 loạt đại bác chào mừng Thủ tướng Phạm Minh Chính](https://vnexpress.net/uae-ban-21-loat-dai-bac-chao-mung-thu-tuong-pham-minh-chinh-4809099.html) - 08:03 28/10/2024
 - 🦒 [Tướng Iran cảnh báo Israel về &#39;hậu quả cay đắng&#39;](https://vnexpress.net/tuong-iran-canh-bao-israel-ve-hau-qua-cay-dang-4809301.html) - 07:51 28/10/2024
 - 🐻 [Thủ tướng đề nghị UAE hỗ trợ phát triển ngành Halal](https://vnexpress.net/thu-tuong-de-nghi-uae-ho-tro-phat-trien-nganh-halal-4809299.html) - 07:32 28/10/2024
 - 🚀 [Nét yên bình trong cuộc sống thường nhật ở Trung Quốc](https://vnexpress.net/net-yen-binh-trong-cuoc-song-thuong-nhat-o-trung-quoc-4806693.html) - 07:27 28/10/2024
