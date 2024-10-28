@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Bồi thường Vành đai 2 TP HCM cao nhất hơn 111 triệu đồng mỗi m2](https://vnexpress.net/boi-thuong-vanh-dai-2-tp-hcm-cao-nhat-hon-111-trieu-dong-moi-m2-4809486.html) - 17:00 28/10/2024
 - 🤓 [Những công trình thay đổi diện mạo đô thị Huế](https://vnexpress.net/nhung-cong-trinh-thay-doi-dien-mao-do-thi-hue-4805433.html) - 17:00 28/10/2024
-- ⚗️ [Lũ lên cao, huyện Lệ Thủy đề nghị các đoàn dừng cứu trợ](https://vnexpress.net/lu-len-cao-huyen-le-thuy-de-nghi-cac-doan-dung-cuu-tro-4809516.html) - 16:44 28/10/2024
+- ⚗️ [Lũ lên cao, huyện Lệ Thủy đề nghị các đoàn dừng cứu hộ](https://vnexpress.net/lu-len-cao-huyen-le-thuy-de-nghi-cac-doan-dung-cuu-ho-4809516.html) - 16:44 28/10/2024
 - 🌊 [Thùng phuy phát nổ, một người bị thương](https://vnexpress.net/thung-phuy-phat-no-mot-nguoi-bi-thuong-4809501.html) - 14:15 28/10/2024
 - 🎓 [Du khách bị sóng cuốn 12 giờ: &#39;Tôi tưởng sẽ chết trên biển&#39;](https://vnexpress.net/du-khach-bi-song-cuon-12-gio-toi-tuong-se-chet-tren-bien-4809365.html) - 12:40 28/10/2024
 - 🔥 [Quảng Nam không đồng ý khai quật mộ cổ nghi của Hồ Xuân Hương](https://vnexpress.net/quang-nam-khong-dong-y-khai-quat-mo-co-nghi-cua-ho-xuan-huong-4809417.html) - 12:16 28/10/2024
