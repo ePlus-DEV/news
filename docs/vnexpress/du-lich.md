@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Chặng đường tiến tới Net Zero của Côn Đảo](https://vnexpress.net/chang-duong-tien-toi-net-zero-cua-con-dao-4804279.html) - 03:22 28/10/2024
+- 💂 [Chặng đường tiến tới Net Zero của Côn Đảo](https://vnexpress.net/chang-duong-tien-toi-net-zero-cua-con-dao-4804279.html) - 04:00 28/10/2024
 - 🪄 [Hành trình đến &#39;Cổng địa ngục&#39; ở Turkmenistan của Việt kiều Mỹ](https://vnexpress.net/hanh-trinh-den-cong-dia-nguc-o-turkmenistan-cua-viet-kieu-my-4807352.html) - 03:00 28/10/2024
 - 🦅 [Tour mùa đông Cáp Nhĩ Tân hút khách Việt](https://vnexpress.net/tour-mua-dong-cap-nhi-tan-hut-khach-viet-4808357.html) - 02:23 28/10/2024
 - 🕴 [Chuyến du lịch Nhật Bản níu khách Mỹ ở lại hơn 30 năm](https://vnexpress.net/chuyen-du-lich-nhat-ban-niu-khach-my-o-lai-hon-30-nam-4808853.html) - 17:04 27/10/2024
