@@ -4,7 +4,7 @@ sidebar_position: 26
 ---
 
 <!-- dantri-ban-doc:START -->
-- 🦒 [Mức phạt với hành vi đi điều khiển xe máy leo đường cấm, đi ngược chiều](https://dantri.com.vn/ban-doc/muc-phat-voi-hanh-vi-di-dieu-khien-xe-may-leo-duong-cam-di-nguoc-chieu-20241029094832241.htm) - 02:51 29/10/2024
+- 🦒 [Mức phạt với hành vi điều khiển xe máy leo đường cấm, đi ngược chiều](https://dantri.com.vn/ban-doc/muc-phat-voi-hanh-vi-dieu-khien-xe-may-leo-duong-cam-di-nguoc-chieu-20241029094832241.htm) - 02:51 29/10/2024
 - 🤓 [Chợ đầu mối gần 860 tỷ đồng, đầu tư 50 tỷ đồng rồi... để đó](https://dantri.com.vn/ban-doc/cho-dau-moi-gan-860-ty-dong-dau-tu-50-ty-dong-roi-de-do-20241028124312420.htm) - 07:24 28/10/2024
 - 🐻 [Mở cửa ô tô bất cẩn, coi chừng mở cánh cửa nhà tù](https://dantri.com.vn/ban-doc/mo-cua-o-to-bat-can-coi-chung-mo-canh-cua-nha-tu-20241028092253106.htm) - 03:50 28/10/2024
 - 🏊 [Giấy phép lái xe được xác thực trên VNeID có thể thay thế Giấy phép lái xe?](https://dantri.com.vn/ban-doc/giay-phep-lai-xe-duoc-xac-thuc-tren-vneid-co-the-thay-the-giay-phep-lai-xe-20241028082408413.htm) - 01:26 28/10/2024
