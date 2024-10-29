@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Chấp nhận chi khoản tiền lớn, Man Utd sắp có Ruben Amorim](https://dantri.com.vn/the-thao/chap-nhan-chi-khoan-tien-lon-man-utd-sap-co-ruben-amorim-20241029232025099.htm) - 16:22 29/10/2024
+- 🎡 [Man Utd đề nghị Sporting nhượng lại huấn luyện viên Ruben Amorim](https://dantri.com.vn/the-thao/man-utd-de-nghi-sporting-nhuong-lai-huan-luyen-vien-ruben-amorim-20241029232025099.htm) - 16:22 29/10/2024
 - 💯 [Thua Trung Quốc, đội tuyển nữ Việt Nam về nhì ở giải Tam hùng](https://dantri.com.vn/the-thao/thua-trung-quoc-doi-tuyen-nu-viet-nam-ve-nhi-o-giai-tam-hung-20241029221546164.htm) - 14:45 29/10/2024
 - ⛽️ [Man Utd trả lương khủng cho &quot;Pep Guardiola mới&quot;](https://dantri.com.vn/the-thao/man-utd-tra-luong-khung-cho-pep-guardiola-moi-20241029193057123.htm) - 12:50 29/10/2024
 - 💃 [Lời giải thích về việc Vinicius trượt giải Quả bóng vàng](https://dantri.com.vn/the-thao/loi-giai-thich-ve-viec-vinicius-truot-giai-qua-bong-vang-20241029190918755.htm) - 12:09 29/10/2024
