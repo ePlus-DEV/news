@@ -5,15 +5,15 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [Lời giải thích về việc Vinicius trượt giải Quả bóng vàng](https://dantri.com.vn/the-thao/loi-giai-thich-ve-viec-vinicius-truot-giai-qua-bong-vang-20241029190918755.htm) - 12:09 29/10/2024
-- 👨‍🏫 [Nga dồn dập tiến công, liên tiếp giành 4 khu vực chiến lược của Ukraine](https://dantri.com.vn/the-gioi/nga-don-dap-tien-cong-lien-tiep-gianh-4-khu-vuc-chien-luoc-cua-ukraine-20241029183108221.htm) - 11:59 29/10/2024
-- 🌮 [Sát hại kế toán ở Bình Dương, giám đốc người Trung Quốc lĩnh án chung thân](https://dantri.com.vn/phap-luat/sat-hai-ke-toan-o-binh-duong-giam-doc-nguoi-trung-quoc-linh-an-chung-than-20241029173509474.htm) - 11:16 29/10/2024
-- 🕯 [Ủy ban Kiểm tra Trung ương đề nghị kỷ luật ông Bùi Văn Cường](https://dantri.com.vn/xa-hoi/uy-ban-kiem-tra-trung-uong-de-nghi-ky-luat-ong-bui-van-cuong-20241029175158919.htm) - 10:54 29/10/2024
-- 🪜 [Con nằm canh quan tài mẹ trong căn nhà nước ngập sát nóc](https://dantri.com.vn/xa-hoi/con-nam-canh-quan-tai-me-trong-can-nha-nuoc-ngap-sat-noc-20241029160151538.htm) - 09:46 29/10/2024
-- 🐘 [Cựu Chủ tịch tỉnh Bắc Ninh nhận hơn 8 tỷ đồng mà &quot;không biết tiền gì&quot;](https://dantri.com.vn/phap-luat/cuu-chu-tich-tinh-bac-ninh-nhan-hon-8-ty-dong-ma-khong-biet-tien-gi-20241029155751669.htm) - 09:16 29/10/2024
-- 🤔 [700 viên kim cương nhập lậu từ Ấn Độ qua sân bay Tân Sơn Nhất](https://dantri.com.vn/phap-luat/700-vien-kim-cuong-nhap-lau-tu-an-do-qua-san-bay-tan-son-nhat-20241029155448645.htm) - 08:57 29/10/2024
-- 🧠 [Hezbollah bầu thủ lĩnh mới](https://dantri.com.vn/the-gioi/hezbollah-bau-thu-linh-moi-20241029155222386.htm) - 08:55 29/10/2024
-- 📝 [Phụ huynh Hà Nội chi bao nhiêu tiền cho con học thêm?](https://dantri.com.vn/giao-duc/phu-huynh-ha-noi-chi-bao-nhieu-tien-cho-con-hoc-them-20241029151756158.htm) - 08:26 29/10/2024
-- 🦏 [Rodri giành giải Quả bóng vàng: Công lý của &quot;kẻ yếu&quot; được thực thi](https://dantri.com.vn/the-thao/rodri-gianh-giai-qua-bong-vang-cong-ly-cua-ke-yeu-duoc-thuc-thi-20241029130333492.htm) - 07:59 29/10/2024
+- 👨‍🏫 [Rodri giành giải Quả bóng vàng: Công lý của &quot;kẻ yếu&quot; được thực thi](https://dantri.com.vn/the-thao/rodri-gianh-giai-qua-bong-vang-cong-ly-cua-ke-yeu-duoc-thuc-thi-20241029130333492.htm) - 12:09 29/10/2024
+- 🌮 [Nga dồn dập tiến công, liên tiếp giành 4 khu vực chiến lược của Ukraine](https://dantri.com.vn/the-gioi/nga-don-dap-tien-cong-lien-tiep-gianh-4-khu-vuc-chien-luoc-cua-ukraine-20241029183108221.htm) - 11:59 29/10/2024
+- 🕯 [Sát hại kế toán ở Bình Dương, giám đốc người Trung Quốc lĩnh án chung thân](https://dantri.com.vn/phap-luat/sat-hai-ke-toan-o-binh-duong-giam-doc-nguoi-trung-quoc-linh-an-chung-than-20241029173509474.htm) - 11:16 29/10/2024
+- 🪜 [Ủy ban Kiểm tra Trung ương đề nghị kỷ luật ông Bùi Văn Cường](https://dantri.com.vn/xa-hoi/uy-ban-kiem-tra-trung-uong-de-nghi-ky-luat-ong-bui-van-cuong-20241029175158919.htm) - 10:54 29/10/2024
+- 🐘 [Con nằm canh quan tài mẹ trong căn nhà nước ngập sát nóc](https://dantri.com.vn/xa-hoi/con-nam-canh-quan-tai-me-trong-can-nha-nuoc-ngap-sat-noc-20241029160151538.htm) - 09:46 29/10/2024
+- 🤔 [Cựu Chủ tịch tỉnh Bắc Ninh nhận hơn 8 tỷ đồng mà &quot;không biết tiền gì&quot;](https://dantri.com.vn/phap-luat/cuu-chu-tich-tinh-bac-ninh-nhan-hon-8-ty-dong-ma-khong-biet-tien-gi-20241029155751669.htm) - 09:16 29/10/2024
+- 🧠 [700 viên kim cương nhập lậu từ Ấn Độ qua sân bay Tân Sơn Nhất](https://dantri.com.vn/phap-luat/700-vien-kim-cuong-nhap-lau-tu-an-do-qua-san-bay-tan-son-nhat-20241029155448645.htm) - 08:57 29/10/2024
+- 📝 [Hezbollah bầu thủ lĩnh mới](https://dantri.com.vn/the-gioi/hezbollah-bau-thu-linh-moi-20241029155222386.htm) - 08:55 29/10/2024
+- 🦏 [Phụ huynh Hà Nội chi bao nhiêu tiền cho con học thêm?](https://dantri.com.vn/giao-duc/phu-huynh-ha-noi-chi-bao-nhieu-tien-cho-con-hoc-them-20241029151756158.htm) - 08:26 29/10/2024
 - 🥰 [UAE sẵn sàng điều chỉnh mức lương và đãi ngộ để thu hút lao động Việt Nam](https://dantri.com.vn/lao-dong-viec-lam/uae-san-sang-dieu-chinh-muc-luong-va-dai-ngo-de-thu-hut-lao-dong-viet-nam-20241029134123580.htm) - 07:56 29/10/2024
 - 🤗 [UAE muốn xây dựng trung tâm trung chuyển, dự trữ dầu tại Việt Nam](https://dantri.com.vn/xa-hoi/uae-muon-xay-dung-trung-tam-trung-chuyen-du-tru-dau-tai-viet-nam-20241029143649636.htm) - 07:50 29/10/2024
 - 🌈 [Ban Bí thư khai trừ Đảng với ông Lưu Quang Huy](https://dantri.com.vn/xa-hoi/ban-bi-thu-khai-tru-dang-voi-ong-luu-quang-huy-20241029142507799.htm) - 07:26 29/10/2024
