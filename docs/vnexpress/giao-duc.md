@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [10 cụm động từ phổ biến bắt đầu bằng &#39;Take&#39;](https://vnexpress.net/10-cum-dong-tu-pho-bien-bat-dau-bang-take-4809761.html) - 05:56 29/10/2024
 - 🦆 [Thêm bệnh viện thực hành cho sinh viên trường Y Dược](https://vnexpress.net/them-benh-vien-thuc-hanh-cho-sinh-vien-truong-y-duoc-4808318.html) - 04:05 29/10/2024
-- 🦩 [10 đại học tốt nhất Mỹ về triển vọng việc làm cho sinh viên quốc tế](https://vnexpress.net/10-dai-hoc-tot-nhat-my-ve-trien-vong-viec-lam-cho-sinh-vien-quoc-te-4809505.html) - 02:50 29/10/2024
+- 🦩 [10 đại học tốt nhất Mỹ về triển vọng việc làm cho du học sinh](https://vnexpress.net/10-dai-hoc-tot-nhat-my-ve-trien-vong-viec-lam-cho-du-hoc-sinh-4809505.html) - 02:50 29/10/2024
 - 🌮 [Muốn học ngành Tài chính nhưng sợ bị AI thay thế](https://vnexpress.net/muon-hoc-nganh-tai-chinh-nhung-so-bi-ai-thay-the-4809514.html) - 16:59 28/10/2024
 - 🔭 [Dân số Việt Nam đứng thứ bao nhiêu trên thế giới?](https://vnexpress.net/dan-so-viet-nam-dung-thu-bao-nhieu-tren-the-gioi-4809389.html) - 13:11 28/10/2024
 - 💡 [Dự kiến không cho đại học tăng chỉ tiêu nếu trên 30% sinh viên thất nghiệp](https://vnexpress.net/du-kien-khong-cho-dai-hoc-tang-chi-tieu-neu-tren-30-sinh-vien-that-nghiep-4809378.html) - 12:25 28/10/2024
