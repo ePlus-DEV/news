@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Đề nghị có quy định về ngưỡng nợ thuế bị cấm xuất cảnh](https://vnexpress.net/de-nghi-co-quy-dinh-ve-nguong-no-thue-bi-cam-xuat-canh-4809916.html) - 11:48 29/10/2024
+- ⛽️ [Đề nghị có quy định về ngưỡng nợ thuế với người bị cấm xuất cảnh](https://vnexpress.net/de-nghi-co-quy-dinh-ve-nguong-no-thue-voi-nguoi-bi-cam-xuat-canh-4809916.html) - 11:48 29/10/2024
 - 🐲 [UAE muốn xây trung tâm dự trữ sản phẩm dầu tại Việt Nam](https://vnexpress.net/uae-muon-xay-trung-tam-du-tru-san-pham-dau-tai-viet-nam-4809830.html) - 11:26 29/10/2024
 - 🔥 [Liên kết đổi thưởng giữa Vietnam Airlines và MoMo](https://vnexpress.net/lien-ket-doi-thuong-giua-vietnam-airlines-va-momo-4809347.html) - 11:00 29/10/2024
 - 🐵 [Phó thống đốc: &#39;Số tài khoản lừa đảo giảm sau khi đăng ký sinh trắc học&#39;](https://vnexpress.net/pho-thong-doc-37-trieu-luot-khach-hang-da-dang-ky-sinh-trac-hoc-4809824.html) - 10:02 29/10/2024
