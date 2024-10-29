@@ -4,10 +4,10 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Chủ tịch Liên đoàn bóng đá Indonesia ra tối hậu thư với HLV Shin Tae Yong](https://dantri.com.vn/the-thao/chu-tich-lien-doan-bong-da-indonesia-ra-toi-hau-thu-voi-hlv-shin-tae-yong-20241029132813413.htm) - 08:07 29/10/2024
-- 💯 [Ten Hag bị Man Utd sa thải: Chìm nghỉm trong sự kỳ vọng và nỗi thất vọng](https://dantri.com.vn/the-thao/ten-hag-bi-man-utd-sa-thai-chim-nghim-trong-su-ky-vong-va-noi-that-vong-20241029095314406.htm) - 08:00 29/10/2024
-- ⛽️ [Rodri giành giải Quả bóng vàng: Công lý của &quot;kẻ yếu&quot; được thực thi](https://dantri.com.vn/the-thao/rodri-gianh-giai-qua-bong-vang-cong-ly-cua-ke-yeu-duoc-thuc-thi-20241029130333492.htm) - 07:59 29/10/2024
-- 💃 [Real Madrid quay ngoắt thái độ, tẩy chay Quả bóng vàng như thế nào?](https://dantri.com.vn/the-thao/real-madrid-quay-ngoat-thai-do-tay-chay-qua-bong-vang-nhu-the-nao-20241029144623807.htm) - 07:45 29/10/2024
+- 🎡 [Real Madrid quay ngoắt thái độ, tẩy chay Quả bóng vàng như thế nào?](https://dantri.com.vn/the-thao/real-madrid-quay-ngoat-thai-do-tay-chay-qua-bong-vang-nhu-the-nao-20241029144623807.htm) - 08:15 29/10/2024
+- 💯 [Chủ tịch Liên đoàn bóng đá Indonesia ra tối hậu thư với HLV Shin Tae Yong](https://dantri.com.vn/the-thao/chu-tich-lien-doan-bong-da-indonesia-ra-toi-hau-thu-voi-hlv-shin-tae-yong-20241029132813413.htm) - 08:07 29/10/2024
+- ⛽️ [Ten Hag bị Man Utd sa thải: Chìm nghỉm trong sự kỳ vọng và nỗi thất vọng](https://dantri.com.vn/the-thao/ten-hag-bi-man-utd-sa-thai-chim-nghim-trong-su-ky-vong-va-noi-that-vong-20241029095314406.htm) - 08:00 29/10/2024
+- 💃 [Rodri giành giải Quả bóng vàng: Công lý của &quot;kẻ yếu&quot; được thực thi](https://dantri.com.vn/the-thao/rodri-gianh-giai-qua-bong-vang-cong-ly-cua-ke-yeu-duoc-thuc-thi-20241029130333492.htm) - 07:59 29/10/2024
 - 🌈 [Man Utd mất số tiền khổng lồ đền bù cho HLV Ten Hag](https://dantri.com.vn/the-thao/man-utd-mat-so-tien-khong-lo-den-bu-cho-hlv-ten-hag-20241029104938137.htm) - 03:49 29/10/2024
 - 🦅 [Phản ứng của Vinicius sau khi trượt danh hiệu Quả bóng vàng 2024](https://dantri.com.vn/the-thao/phan-ung-cua-vinicius-sau-khi-truot-danh-hieu-qua-bong-vang-2024-20241029101310613.htm) - 03:18 29/10/2024
 - 🌝 [Vắng mặt ở Paris Masters, Djokovic vẫn sáng cửa dự ATP Finals](https://dantri.com.vn/the-thao/vang-mat-o-paris-masters-djokovic-van-sang-cua-du-atp-finals-20241029085837466.htm) - 02:02 29/10/2024
