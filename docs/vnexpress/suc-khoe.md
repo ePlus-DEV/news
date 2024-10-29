@@ -5,7 +5,7 @@ sidebar_position: 10
 
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [Chỉ dùng bao cao su có ngăn lây nhiễm sùi mào gà?](https://vnexpress.net/chi-dung-bao-cao-su-co-ngan-lay-nhiem-sui-mao-ga-4809793.html) - 13:00 29/10/2024
-- 🥰 [Trẻ mắc sởi từ các tỉnh ồ ạt nhập viện TP HCM](https://vnexpress.net/tre-mac-soi-tu-cac-tinh-o-at-nhap-vien-tp-hcm-4809932.html) - 12:59 29/10/2024
+- 🥰 [Ca sởi từ các tỉnh nhập viện TP HCM tăng nhanh](https://vnexpress.net/ca-soi-tu-cac-tinh-nhap-vien-tp-hcm-tang-nhanh-4809932.html) - 12:59 29/10/2024
 - 💡 [Bộ Y tế nêu tác hại của thuốc lá mới với sức khỏe](https://vnexpress.net/bo-y-te-neu-tac-hai-cua-thuoc-la-moi-voi-suc-khoe-4809925.html) - 12:43 29/10/2024
 - 🤗 [Điều trị vô sinh do buồng trứng đa nang như thế nào?](https://vnexpress.net/dieu-tri-vo-sinh-do-buong-trung-da-nang-nhu-the-nao-4809921.html) - 12:00 29/10/2024
 - 🪜 [Ăn hạnh nhân tốt cho sức khỏe sinh lý](https://vnexpress.net/an-hanh-nhan-tot-cho-suc-khoe-sinh-ly-4809701.html) - 12:00 29/10/2024
