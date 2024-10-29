@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Giám đốc người Trung Quốc giết nữ kế toán bị phạt án chung thân](https://vnexpress.net/giam-doc-nguoi-trung-quoc-giet-nu-ke-toan-bi-phat-an-chung-than-4809771.html) - 07:37 29/10/2024
-- 🥰 [Cuộc &#39;mặc cả&#39; giữa lãnh đạo Bắc Ninh và nhà thầu thiết bị 6 bệnh viện](https://vnexpress.net/cuoc-mac-ca-giua-lanh-dao-bac-ninh-va-nha-thau-thiet-bi-6-benh-vien-4809734.html) - 07:35 29/10/2024
+- 🥰 [&#39;Thỏa thuận ngầm&#39; giữa hai lãnh đạo Bắc Ninh và nhà thầu 6 bệnh viện](https://vnexpress.net/cuoc-mac-ca-giua-lanh-dao-bac-ninh-va-nha-thau-thiet-bi-6-benh-vien-4809734.html) - 07:35 29/10/2024
 - 🎓 [Ba anh em ruột cùng đi bắn súng giải quyết mâu thuẫn](https://vnexpress.net/ba-anh-em-ruot-cung-di-ban-sung-giai-quyet-mau-thuan-4809760.html) - 06:46 29/10/2024
 - 🤓 [Cựu quan chức chạy án bị thu hơn 63 triệu USD và 51 kg vàng](https://vnexpress.net/cuu-quan-chuc-nhan-tien-chay-an-bi-thu-giu-51-kg-vang-4809708.html) - 04:38 29/10/2024
 - 🎊 [Lái ôtô bỏ chạy khi làm việc với cảnh sát sau tai nạn](https://vnexpress.net/lai-oto-bo-chay-khi-lam-viec-voi-canh-sat-sau-tai-nan-4809518.html) - 00:43 29/10/2024
