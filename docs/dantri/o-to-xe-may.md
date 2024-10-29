@@ -4,8 +4,8 @@ sidebar_position: 24
 ---
 
 <!-- dantri-o-to-xe-may:START -->
-- 🤡 [Trải nghiệm đua địa hình cùng Toyota Hilux trên đường lái thử tại PVOIL VOC 2024](https://dantri.com.vn/o-to-xe-may/trai-nghiem-dua-dia-hinh-cung-toyota-hilux-tren-duong-lai-thu-tai-pvoil-voc-2024-20241028183618010.htm) - 02:00 29/10/2024
-- 🧑‍💻 [Toyota Yaris Cross - SUV đô thị được khách Việt yêu thích](https://dantri.com.vn/o-to-xe-may/toyota-yaris-cross-suv-do-thi-duoc-khach-viet-yeu-thich-20241028190634504.htm) - 01:00 29/10/2024
+- 🤡 [Toyota Yaris Cross - SUV đô thị được khách Việt yêu thích](https://dantri.com.vn/o-to-xe-may/toyota-yaris-cross-suv-do-thi-duoc-khach-viet-yeu-thich-20241028190634504.htm) - 03:00 29/10/2024
+- 🧑‍💻 [Trải nghiệm đua địa hình cùng Toyota Hilux trên đường lái thử tại PVOIL VOC 2024](https://dantri.com.vn/o-to-xe-may/trai-nghiem-dua-dia-hinh-cung-toyota-hilux-tren-duong-lai-thu-tai-pvoil-voc-2024-20241028183618010.htm) - 02:00 29/10/2024
 - 🧑‍💻 [Cập nhật danh sách 20 mẫu xe mạnh nhất thế giới hiện nay](https://dantri.com.vn/o-to-xe-may/cap-nhat-danh-sach-20-mau-xe-manh-nhat-the-gioi-hien-nay-20241028093636225.htm) - 00:54 29/10/2024
 - 🎓 [Giá bán thấp nhất phân khúc, GAC M6 Pro liệu có đủ &quot;làm khó&quot; Innova Cross?](https://dantri.com.vn/o-to-xe-may/gia-ban-thap-nhat-phan-khuc-gac-m6-pro-lieu-co-du-lam-kho-innova-cross-20241028121355584.htm) - 23:30 28/10/2024
 - 🌊 [Xe bồn để rơi hai bánh khi đang chạy trên đường cực nguy hiểm](https://dantri.com.vn/o-to-xe-may/xe-bon-de-roi-hai-banh-khi-dang-chay-tren-duong-cuc-nguy-hiem-20241028200607388.htm) - 16:39 28/10/2024
