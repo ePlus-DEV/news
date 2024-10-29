@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Phụ huynh Hà Nội chi bao nhiền tiền cho con học thêm?](https://dantri.com.vn/giao-duc/phu-huynh-ha-noi-chi-bao-nhien-tien-cho-con-hoc-them-20241029151756158.htm) - 08:26 29/10/2024
+- 🤡 [Phụ huynh Hà Nội chi bao nhiêu tiền cho con học thêm?](https://dantri.com.vn/giao-duc/phu-huynh-ha-noi-chi-bao-nhieu-tien-cho-con-hoc-them-20241029151756158.htm) - 08:26 29/10/2024
 - 🗽 [Phê bình ban giám hiệu trường có giáo viên nhục mạ học sinh nhiều lần](https://dantri.com.vn/giao-duc/phe-binh-ban-giam-hieu-truong-co-giao-vien-nhuc-ma-hoc-sinh-nhieu-lan-20241029084634834.htm) - 04:13 29/10/2024
 - 🚦 [Lũ sông Buông lên nhanh, hơn 3.000 học sinh ở Đồng Nai nghỉ học](https://dantri.com.vn/giao-duc/lu-song-buong-len-nhanh-hon-3000-hoc-sinh-o-dong-nai-nghi-hoc-20241029093423538.htm) - 03:28 29/10/2024
 - 🌋 [Trường đại học đầu tiên công bố thưởng Tết, mỗi người 25 triệu đồng](https://dantri.com.vn/giao-duc/truong-dai-hoc-dau-tien-cong-bo-thuong-tet-moi-nguoi-25-trieu-dong-20241029100029460.htm) - 03:16 29/10/2024
