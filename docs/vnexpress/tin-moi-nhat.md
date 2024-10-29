@@ -56,4 +56,5 @@ sidebar_position: 9
 - 🦩 [Tập luyện thế nào hạn chế vấn đề hô hấp](https://vnexpress.net/tap-luyen-the-nao-han-che-van-de-ho-hap-4809812.html) - 09:00 29/10/2024
 - 👍 [Ăn đậu phụ có tốt cho người bệnh gout?](https://vnexpress.net/an-dau-phu-co-tot-cho-nguoi-benh-gout-4809752.html) - 09:00 29/10/2024
 - 🔥 [Ác mộng của con nuôi gốc Hàn bị trục xuất sau 37 năm sống ở Mỹ](https://vnexpress.net/ac-mong-cua-con-nuoi-goc-han-bi-truc-xuat-sau-37-nam-song-o-my-4809570.html) - 08:59 29/10/2024
-- 💄 [Người phụ nữ bị chồng &#39;hờ&#39; đánh suốt 13 giờ](https://vnexpress.net/nguoi-phu-nu-bi-chong-ho-danh-suot-13-gio-4809817.html) - 08:56 29/10/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 💄 [Người phụ nữ bị chồng &#39;hờ&#39; đánh suốt 13 giờ](https://vnexpress.net/nguoi-phu-nu-bi-chong-ho-danh-suot-13-gio-4809817.html) - 08:56 29/10/2024
+- 🤡 [Trang phục đời thường của cầu thủ đoạt Quả Bóng Vàng 2024](https://vnexpress.net/trang-phuc-doi-thuong-cua-cau-thu-doat-qua-bong-vang-2024-4809616.html) - 08:56 29/10/2024<!-- vnexpress-tin-moi-nhat:END -->
