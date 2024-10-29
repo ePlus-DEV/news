@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cựu Bí thư Tỉnh ủy Bắc Ninh: &#39;Chưa bao giờ ăn chia với doanh nghiệp&#39;](https://vnexpress.net/cuu-bi-thu-tinh-uy-bac-ninh-chua-bao-gio-an-chia-voi-doanh-nghiep-4809882.html) - 10:08 29/10/2024
+- 😎 [Cựu Bí thư Bắc Ninh khai &#39;chưa bao giờ&#39; thỏa thuận tiền bạc với doanh nghiệp](https://vnexpress.net/cuu-bi-thu-tinh-uy-bac-ninh-chua-bao-gio-an-chia-voi-doanh-nghiep-4809882.html) - 10:08 29/10/2024
 - 🥰 [Hơn 700 viên kim cương trong hộp bánh du khách Ấn Độ mang vào Việt Nam](https://vnexpress.net/hon-700-vien-kim-cuong-trong-hop-banh-du-khach-an-do-mang-vao-viet-nam-4809880.html) - 09:40 29/10/2024
 - 🎓 [Người phụ nữ bị chồng &#39;hờ&#39; đánh suốt 13 giờ](https://vnexpress.net/nguoi-phu-nu-bi-chong-ho-danh-suot-13-gio-4809817.html) - 08:56 29/10/2024
 - 🤓 [Giám đốc người Trung Quốc giết nữ kế toán bị phạt án chung thân](https://vnexpress.net/giam-doc-nguoi-trung-quoc-giet-nu-ke-toan-bi-phat-an-chung-than-4809771.html) - 07:37 29/10/2024
