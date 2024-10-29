@@ -4,9 +4,9 @@ sidebar_position: 22
 ---
 
 <!-- dantri-du-lich:START -->
-- 🥰 [Đang ngồi ăn chè bị lá cây rơi trúng đầu, khách bị gãy xương sống dập thận](https://dantri.com.vn/du-lich/dang-ngoi-an-che-bi-la-cay-roi-trung-dau-khach-bi-gay-xuong-song-dap-than-20241029121258832.htm) - 08:23 29/10/2024
+- 🥰 [Đang ngồi ăn chè bị lá dừa rơi trúng đầu, khách bị gãy xương sống dập thận](https://dantri.com.vn/du-lich/dang-ngoi-an-che-bi-la-dua-roi-trung-dau-khach-bi-gay-xuong-song-dap-than-20241029121258832.htm) - 08:23 29/10/2024
 - 🥰 [Quán &quot;Chè Ma&quot; ở TPHCM: Tồn tại hơn 80 năm, gây tò mò với món hột gà sống](https://dantri.com.vn/du-lich/quan-che-ma-o-tphcm-ton-tai-hon-80-nam-gay-to-mo-voi-mon-hot-ga-song-20241028011628663.htm) - 02:35 29/10/2024
-- 🐻 [Món lẩu thả Phan Thiết vừa xác lập kỷ lục châu Á có gì đặc biệt?](https://dantri.com.vn/du-lich/mon-lau-tha-phan-thiet-vua-xac-lap-ky-luc-chau-a-co-gi-dac-biet-20241028223858899.htm) - 01:32 29/10/2024
+- 🐻 [Món lẩu thả Phan Thiết xác lập kỷ lục châu Á có gì đặc biệt?](https://dantri.com.vn/du-lich/mon-lau-tha-phan-thiet-xac-lap-ky-luc-chau-a-co-gi-dac-biet-20241028223858899.htm) - 01:32 29/10/2024
 - 🤩 [Du khách phượt xuyên đêm để săn biển mây đẹp bồng bềnh ở Ba Vì](https://dantri.com.vn/du-lich/du-khach-phuot-xuyen-dem-de-san-bien-may-dep-bong-benh-o-ba-vi-20241026183653956.htm) - 23:03 28/10/2024
 - 🕴 [Phở tôm hùm hơn nửa triệu đồng ở nhà hàng từng &quot;lọt mắt xanh&quot; Tổng thống Mỹ](https://dantri.com.vn/du-lich/pho-tom-hum-hon-nua-trieu-dong-o-nha-hang-tung-lot-mat-xanh-tong-thong-my-20241026161851262.htm) - 23:01 28/10/2024
 - 🤩 [Trái bưởi 50.000 đồng ở Hà Nội, khách Tây tò mò mua vì tưởng cam khổng lồ](https://dantri.com.vn/du-lich/trai-buoi-50000-dong-o-ha-noi-khach-tay-to-mo-mua-vi-tuong-cam-khong-lo-20241028120744418.htm) - 06:27 28/10/2024
