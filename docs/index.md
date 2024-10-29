@@ -219,7 +219,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💼 [Dùng 140 triệu đồng đá gà qua mạng, 4 đối tượng bị bắt](https://laodong.vn/ban-tin/dung-140-trieu-dong-da-ga-qua-mang-4-doi-tuong-bi-bat-1414482.ldo) - 14:41 29/10/2024
 - 🤖 [Hội đồng Anh lên tiếng về lừa đảo dịch vụ thi hộ chứng chỉ ngoại ngữ](https://laodong.vn/giao-duc/hoi-dong-anh-len-tieng-ve-lua-dao-dich-vu-thi-ho-chung-chi-ngoai-ngu-1414408.ldo) - 14:34 29/10/2024
 - 💪 [Cách duy trì đường huyết khỏe mạnh](https://laodong.vn/suc-khoe/cach-duy-tri-duong-huyet-khoe-manh-1414301.ldo) - 14:30 29/10/2024
-- 👍 [Trực tiếp bóng chuyền Kuzeyboru 1-1 Zeren Spor: Set 3](https://laodong.vn/the-thao/truc-tiep-bong-chuyen-kuzeyboru-1-1-zeren-spor-set-3-1414480.ldo) - 14:23 29/10/2024
+- 👍 [Thanh Thúy tiếp tục dự bị trong trận thua của Kuzeyboru](https://laodong.vn/the-thao/thanh-thuy-tiep-tuc-du-bi-trong-tran-thua-cua-kuzeyboru-1414480.ldo) - 14:23 29/10/2024
 - 💂 [Đi đám ma người thân, 2 người đàn ông bị xe khách tông](https://laodong.vn/xa-hoi/di-dam-ma-nguoi-than-2-nguoi-dan-ong-bi-xe-khach-tong-1414479.ldo) - 14:16 29/10/2024
 - 🧰 [Nguyên nhân gần 20 năm nghiên cứu mới làm đường sắt cao tốc](https://laodong.vn/giao-thong/nguyen-nhan-gan-20-nam-nghien-cuu-moi-lam-duong-sat-cao-toc-1414372.ldo) - 14:03 29/10/2024
 - 🥷 [Chém đứt bàn tay chỉ vì mâu thuẫn khi hát karaoke](https://laodong.vn/phap-luat/chem-dut-ban-tay-chi-vi-mau-thuan-khi-hat-karaoke-1414478.ldo) - 14:00 29/10/2024
