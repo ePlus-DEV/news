@@ -9,7 +9,7 @@ sidebar_position: 3
 - 🔥 [Liên kết đổi thưởng giữa Vietnam Airlines và MoMo](https://vnexpress.net/lien-ket-doi-thuong-giua-vietnam-airlines-va-momo-4809347.html) - 11:00 29/10/2024
 - 🐵 [Phó thống đốc: &#39;Số tài khoản lừa đảo giảm sau khi đăng ký sinh trắc học&#39;](https://vnexpress.net/pho-thong-doc-37-trieu-luot-khach-hang-da-dang-ky-sinh-trac-hoc-4809824.html) - 10:02 29/10/2024
 - 🦅 [Vingroup ký loạt thỏa thuận tại Trung Đông](https://vnexpress.net/vingroup-ky-loat-thoa-thuan-tai-trung-dong-4809870.html) - 09:45 29/10/2024
-- 😺 [Trung Quốc chi tiền gấp đôi mua cau Việt](https://vnexpress.net/trung-quoc-chi-tien-gap-doi-mua-cau-viet-4809838.html) - 09:33 29/10/2024
+- 😺 [Trung Quốc chi tiền gấp đôi mua cau Việt Nam](https://vnexpress.net/trung-quoc-chi-tien-gap-doi-mua-cau-viet-nam-4809838.html) - 09:33 29/10/2024
 - 🤩 [Loạt cổ phiếu tăng trần](https://vnexpress.net/chung-khoan-hom-nay-29-10-loat-co-phieu-tang-tran-4809867.html) - 09:10 29/10/2024
 - 🌮 [Nhà sáng lập ByteDance giàu nhất Trung Quốc](https://vnexpress.net/nha-sang-lap-bytedance-giau-nhat-trung-quoc-4809799.html) - 08:28 29/10/2024
 - 🧰 [HDBank lãi trước thuế hơn 12.600 tỷ đồng trong 9 tháng](https://vnexpress.net/hdbank-lai-truoc-thue-hon-12-600-ty-dong-trong-9-thang-4809796.html) - 08:00 29/10/2024
