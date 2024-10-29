@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Man Utd chuẩn bị bổ nhiệm HLV Ruben Amorim](https://vnexpress.net/man-utd-chuan-bi-bo-nhiem-hlv-ruben-amorim-4809965.html) - 16:45 29/10/2024
+- 🪜 [Man Utd trả tiền cho Sporting để đổi lấy HLV Ruben Amorim](https://vnexpress.net/man-utd-tra-tien-cho-sporting-de-doi-lay-hlv-ruben-amorim-4809965.html) - 16:45 29/10/2024
 - 🦩 [Guardiola: &#39;Ronaldo là quái vật, còn Messi là bố của quái vật&#39;](https://vnexpress.net/guardiola-ronaldo-la-quai-vat-con-messi-la-bo-cua-quai-vat-4809959.html) - 16:25 29/10/2024
 - 🧰 [Piers Morgan: &#39;Mọi điều Ronaldo nói về Ten Hag đều đúng&#39;](https://vnexpress.net/piers-morgan-moi-dieu-ronaldo-noi-ve-ten-hag-deu-dung-4809917.html) - 11:01 29/10/2024
 - 🤗 [Tốc độ chạy cải thiện như thế nào khi trời lạnh?](https://vnexpress.net/toc-do-chay-cai-thien-nhu-the-nao-khi-troi-lanh-4808470.html) - 08:22 29/10/2024
