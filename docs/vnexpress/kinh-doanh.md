@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [Thủ tướng kêu gọi doanh nghiệp UAE đầu tư vào trung tâm tài chính TP HCM, Đà Nẵng](https://vnexpress.net/thu-tuong-keu-goi-doanh-nghiep-uae-dau-tu-vao-trung-tam-tai-chinh-tp-hcm-da-nang-4809638.html) - 05:04 29/10/2024
 - 🐲 [Cổ phiếu Trump Media tăng vọt vì nhà đầu tư cược Trump thắng cử](https://vnexpress.net/co-phieu-trump-media-tang-vot-vi-nha-dau-tu-cuoc-trump-thang-cu-4809634.html) - 05:04 29/10/2024
 - 🔥 [Tám thị trường tăng mua sầu riêng Việt](https://vnexpress.net/tam-thi-truong-tang-mua-sau-rieng-viet-4809658.html) - 05:00 29/10/2024
-- 🐵 [Phó thủ tướng: Sẽ thu thuế VAT với hàng giá trị nhỏ qua sàn thương mại điện tử](https://vnexpress.net/pho-thu-tuong-se-thu-thue-vat-voi-hang-gia-tri-nho-qua-san-thuong-mai-dien-tu-4809692.html) - 04:35 29/10/2024
+- 🐵 [Phó thủ tướng: Sẽ thu thuế VAT với hàng dưới 1 triệu đồng qua Shopee, Temu](https://vnexpress.net/pho-thu-tuong-se-thu-thue-vat-voi-hang-gia-tri-nho-qua-san-thuong-mai-dien-tu-4809692.html) - 04:35 29/10/2024
 - 🦅 [VPBank lãi ba quý gần 14.000 tỷ đồng](https://vnexpress.net/vpbank-lai-ba-quy-gan-14-000-ty-dong-4809714.html) - 04:30 29/10/2024
 - 😺 [Bitcoin tăng trở lại mốc 70.000 USD](https://vnexpress.net/gia-bitcoin-hom-nay-29-10-btc-tro-lai-moc-70-000-usd-4809650.html) - 03:43 29/10/2024
 - 🤩 [Đề xuất Thủ tướng quyết chủ trương đầu tư dự án công dưới 30.000 tỷ đồng](https://vnexpress.net/de-xuat-thu-tuong-quyet-chu-truong-dau-tu-du-an-cong-duoi-30-000-ty-dong-4809611.html) - 03:27 29/10/2024
