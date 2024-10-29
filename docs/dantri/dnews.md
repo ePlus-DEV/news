@@ -4,8 +4,8 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [&quot;Tôi đi khám bệnh trở về nhà đã ngập trong biển nước&quot;](https://dantri.com.vn/doi-song/toi-di-kham-benh-tro-ve-nha-da-ngap-trong-bien-nuoc-20241029123408434.htm) - 07:06 29/10/2024
-- 🌈 [Ten Hag bị Man Utd sa thải: Chìm nghỉm trong sự kỳ vọng và nỗi thất vọng](https://dantri.com.vn/the-thao/ten-hag-bi-man-utd-sa-thai-chim-nghim-trong-su-ky-vong-va-noi-that-vong-20241029095314406.htm) - 03:55 29/10/2024
+- 🤠 [Ten Hag bị Man Utd sa thải: Chìm nghỉm trong sự kỳ vọng và nỗi thất vọng](https://dantri.com.vn/the-thao/ten-hag-bi-man-utd-sa-thai-chim-nghim-trong-su-ky-vong-va-noi-that-vong-20241029095314406.htm) - 08:00 29/10/2024
+- 🌈 [&quot;Tôi đi khám bệnh trở về nhà đã ngập trong biển nước&quot;](https://dantri.com.vn/doi-song/toi-di-kham-benh-tro-ve-nha-da-ngap-trong-bien-nuoc-20241029123408434.htm) - 07:06 29/10/2024
 - 🐎 [Cuộc chiến &quot;cân não&quot; của ông Trump và bà Harris trên bàn cờ Trung Đông](https://dantri.com.vn/the-gioi/cuoc-chien-can-nao-cua-ong-trump-va-ba-harris-tren-ban-co-trung-dong-20241028182323818.htm) - 02:19 29/10/2024
 - 👹 [Cảnh báo trang Facebook có &quot;đặc quyền&quot;, chuyên đăng tin giả và mã độc](https://dantri.com.vn/suc-manh-so/canh-bao-trang-facebook-co-dac-quyen-chuyen-dang-tin-gia-va-ma-doc-20241028104611876.htm) - 00:18 29/10/2024
 - 🫶 [Tuân thủ quy định lao động là bước tiến đáng kể để phát triển bền vững](https://dantri.com.vn/lao-dong-viec-lam/tuan-thu-quy-dinh-lao-dong-la-buoc-tien-dang-ke-de-phat-trien-ben-vung-20241028211656185.htm) - 23:45 28/10/2024
