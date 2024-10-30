@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cựu bí thư Bắc Ninh: Vụ án là bài học &#39;cảnh tỉnh&#39; cho cán bộ đương chức](https://vnexpress.net/cuu-bi-thu-bac-ninh-vu-an-la-bai-hoc-canh-tinh-cho-can-bo-duong-chuc-4810122.html) - 05:06 30/10/2024
+- 😎 [Cựu bí thư Bắc Ninh: &#39;Vụ án là bài học cảnh tỉnh cho cán bộ đương chức&#39;](https://vnexpress.net/cuu-bi-thu-bac-ninh-vu-an-la-bai-hoc-canh-tinh-cho-can-bo-duong-chuc-4810122.html) - 05:06 30/10/2024
 - 🥰 [Chủ quán karaoke 32 người chết bị phạt 8 năm tù](https://vnexpress.net/chu-quan-karaoke-32-nguoi-chet-bi-phat-8-nam-tu-4810151.html) - 04:40 30/10/2024
 - 🎓 [Cựu phó giám đốc ngân hàng bị bắt sau nhiều năm bỏ trốn](https://vnexpress.net/cuu-pho-giam-doc-ngan-hang-bi-bat-sau-nhieu-nam-bo-tron-4810140.html) - 04:08 30/10/2024
 - 🤓 [Cựu Bí thư Bắc Ninh Nguyễn Nhân Chiến bị đề nghị 4-5 năm tù](https://vnexpress.net/cuu-bi-thu-bac-ninh-nguyen-nhan-chien-bi-de-nghi-4-5-nam-tu-4810056.html) - 02:44 30/10/2024
