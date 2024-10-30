@@ -4,63 +4,63 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Tập đoàn năng lượng Arab Saudi sẵn sàng đầu tư 5 tỷ USD vào Việt Nam](https://vnexpress.net/tap-doan-nang-luong-arab-saudi-san-sang-dau-tu-5-ty-usd-vao-viet-nam-4810407.html) - 16:20 30/10/2024
-- 🐲 [Đường sắt Sài Gòn lãi kỷ lục](https://vnexpress.net/duong-sat-sai-gon-lai-ky-luc-4810368.html) - 14:00 30/10/2024
-- 🔥 [Bách Hóa Xanh lãi 90 tỷ đồng trong quý III](https://vnexpress.net/bach-hoa-xanh-lai-90-ty-dong-trong-quy-iii-4810376.html) - 13:10 30/10/2024
-- 🐵 [Vinhomes lãi 20.600 tỷ đồng sau 9 tháng](https://vnexpress.net/vinhomes-lai-20-600-ty-dong-sau-9-thang-4810307.html) - 12:03 30/10/2024
-- 🦅 [SHB báo lãi 9 tháng đạt 9.048 tỷ đồng](https://vnexpress.net/shb-bao-lai-9-thang-dat-9-048-ty-dong-4810360.html) - 11:15 30/10/2024
-- 😺 [Thủ tướng: Việt Nam bảo đảm cho các nhà đầu tư kinh doanh với tầm nhìn trăm năm](https://vnexpress.net/thu-tuong-viet-nam-bao-dam-cho-cac-nha-dau-tu-kinh-doanh-voi-tam-nhin-tram-nam-4810249.html) - 09:47 30/10/2024
-- 🤩 [MobiFone hợp tác Nokia phát triển 5G](https://vnexpress.net/mobifone-hop-tac-nokia-phat-trien-5g-4810309.html) - 09:00 30/10/2024
-- 🌮 [Tiền vào chứng khoán thấp nhất 5 tháng](https://vnexpress.net/tien-vao-chung-khoan-thap-nhat-5-thang-4810291.html) - 08:58 30/10/2024
-- 🧰 [Startup quần áo Coolmate nhận vốn 6 triệu USD](https://vnexpress.net/startup-quan-ao-coolmate-nhan-von-6-trieu-usd-4810117.html) - 08:57 30/10/2024
-- 🤔 [Mở rộng mô hình canh tác khoai tây bền vững](https://vnexpress.net/mo-rong-mo-hinh-canh-tac-khoai-tay-ben-vung-4809948.html) - 08:00 30/10/2024
-- 🧑‍💻 [Tập đoàn Đức sẽ làm trang trại điện gió 4,6 tỷ USD ở Hòn Trâu](https://vnexpress.net/tap-doan-duc-se-lam-trang-trai-dien-gio-4-6-ty-usd-o-hon-trau-4810230.html) - 07:59 30/10/2024
-- 🕴 [Novaland lãi kỷ lục gần 3.000 tỷ đồng](https://vnexpress.net/novaland-lai-ky-luc-gan-3-000-ty-dong-4810208.html) - 07:38 30/10/2024
-- 🦩 [Phó thủ tướng: Tăng vốn Nhà nước tại dự án PPP để thu hút nhà đầu tư](https://vnexpress.net/pho-thu-tuong-tang-von-nha-nuoc-tai-du-an-ppp-de-thu-hut-nha-dau-tu-4810157.html) - 07:18 30/10/2024
-- 👍 [Trump cảnh báo châu Âu &#39;trả giá lớn&#39;](https://vnexpress.net/trump-canh-bao-chau-au-tra-gia-lon-4810112.html) - 07:00 30/10/2024
-- 🏊 [HAGL Agrico lỗ 14 quý liên tiếp](https://vnexpress.net/hagl-agrico-lo-14-quy-lien-tiep-4810170.html) - 06:08 30/10/2024
-- 🤡 [Vàng miếng lên 90 triệu đồng một lượng](https://vnexpress.net/vang-nhan-vuot-89-trieu-dong-mot-luong-4810089.html) - 03:09 30/10/2024
-- 👀 [Giá vàng thế giới tăng trở lại, hướng tới 2.800 USD](https://vnexpress.net/gia-vang-the-gioi-tang-tro-lai-huong-toi-2-800-usd-4809996.html) - 01:08 30/10/2024
+- ⛽️ [Chính sách năng lượng khác biệt của Trump và Harris](https://vnexpress.net/chinh-sach-nang-luong-khac-biet-cua-trump-va-harris-4810227.html) - 18:57 30/10/2024
+- 🐲 [Vinamilk bán sữa ra nước ngoài thu hơn 8.300 tỷ đồng](https://vnexpress.net/vinamilk-ban-sua-ra-nuoc-ngoai-thu-hon-8-300-ty-dong-4810378.html) - 18:52 30/10/2024
+- 🔥 [Tập đoàn năng lượng Arab Saudi sẵn sàng đầu tư 5 tỷ USD vào Việt Nam](https://vnexpress.net/tap-doan-nang-luong-arab-saudi-san-sang-dau-tu-5-ty-usd-vao-viet-nam-4810407.html) - 16:20 30/10/2024
+- 🐵 [Đường sắt Sài Gòn lãi kỷ lục](https://vnexpress.net/duong-sat-sai-gon-lai-ky-luc-4810368.html) - 14:00 30/10/2024
+- 🦅 [Bách Hóa Xanh lãi 90 tỷ đồng trong quý III](https://vnexpress.net/bach-hoa-xanh-lai-90-ty-dong-trong-quy-iii-4810376.html) - 13:10 30/10/2024
+- 😺 [Vinhomes lãi 20.600 tỷ đồng sau 9 tháng](https://vnexpress.net/vinhomes-lai-20-600-ty-dong-sau-9-thang-4810307.html) - 12:03 30/10/2024
+- 🤩 [SHB báo lãi 9 tháng đạt 9.048 tỷ đồng](https://vnexpress.net/shb-bao-lai-9-thang-dat-9-048-ty-dong-4810360.html) - 11:15 30/10/2024
+- 🌮 [Thủ tướng: Việt Nam bảo đảm cho các nhà đầu tư kinh doanh với tầm nhìn trăm năm](https://vnexpress.net/thu-tuong-viet-nam-bao-dam-cho-cac-nha-dau-tu-kinh-doanh-voi-tam-nhin-tram-nam-4810249.html) - 09:47 30/10/2024
+- 🧰 [MobiFone hợp tác Nokia phát triển 5G](https://vnexpress.net/mobifone-hop-tac-nokia-phat-trien-5g-4810309.html) - 09:00 30/10/2024
+- 🤔 [Tiền vào chứng khoán thấp nhất 5 tháng](https://vnexpress.net/tien-vao-chung-khoan-thap-nhat-5-thang-4810291.html) - 08:58 30/10/2024
+- 🧑‍💻 [Startup quần áo Coolmate nhận vốn 6 triệu USD](https://vnexpress.net/startup-quan-ao-coolmate-nhan-von-6-trieu-usd-4810117.html) - 08:57 30/10/2024
+- 🕴 [Mở rộng mô hình canh tác khoai tây bền vững](https://vnexpress.net/mo-rong-mo-hinh-canh-tac-khoai-tay-ben-vung-4809948.html) - 08:00 30/10/2024
+- 🦩 [Tập đoàn Đức sẽ làm trang trại điện gió 4,6 tỷ USD ở Hòn Trâu](https://vnexpress.net/tap-doan-duc-se-lam-trang-trai-dien-gio-4-6-ty-usd-o-hon-trau-4810230.html) - 07:59 30/10/2024
+- 👍 [Novaland lãi kỷ lục gần 3.000 tỷ đồng](https://vnexpress.net/novaland-lai-ky-luc-gan-3-000-ty-dong-4810208.html) - 07:38 30/10/2024
+- 🏊 [Phó thủ tướng: Tăng vốn Nhà nước tại dự án PPP để thu hút nhà đầu tư](https://vnexpress.net/pho-thu-tuong-tang-von-nha-nuoc-tai-du-an-ppp-de-thu-hut-nha-dau-tu-4810157.html) - 07:18 30/10/2024
+- 🤡 [Trump cảnh báo châu Âu &#39;trả giá lớn&#39;](https://vnexpress.net/trump-canh-bao-chau-au-tra-gia-lon-4810112.html) - 07:00 30/10/2024
+- 👀 [HAGL Agrico lỗ 14 quý liên tiếp](https://vnexpress.net/hagl-agrico-lo-14-quy-lien-tiep-4810170.html) - 06:08 30/10/2024
+- 😺 [Vàng miếng lên 90 triệu đồng một lượng](https://vnexpress.net/vang-nhan-vuot-89-trieu-dong-mot-luong-4810089.html) - 03:09 30/10/2024
+- 🦣 [Giá vàng thế giới tăng trở lại, hướng tới 2.800 USD](https://vnexpress.net/gia-vang-the-gioi-tang-tro-lai-huong-toi-2-800-usd-4809996.html) - 01:08 30/10/2024
 - 😺 [Trung Quốc có thể tung thêm 1.400 tỷ USD vào nền kinh tế](https://vnexpress.net/trung-quoc-co-the-tung-them-1-400-ty-usd-vao-nen-kinh-te-4809957.html) - 23:00 29/10/2024
-- 🦣 [Có nên đầu tư chứng khoán bằng AI?](https://vnexpress.net/co-nen-dau-tu-chung-khoan-bang-ai-4809800.html) - 21:00 29/10/2024
-- 😺 [Đại gia dầu mỏ Arab Saudi muốn đầu tư vào Việt Nam](https://vnexpress.net/dai-gia-dau-mo-arab-saudi-muon-dau-tu-vao-viet-nam-4809964.html) - 17:23 29/10/2024
-- 💼 [Đề xuất doanh nghiệp nội và ngoại cùng phát triển điện gió ngoài khơi](https://vnexpress.net/de-xuat-doanh-nghiep-noi-va-ngoai-cung-phat-trien-dien-gio-ngoai-khoi-4809922.html) - 17:00 29/10/2024
-- 🤗 [Đề nghị có quy định về ngưỡng nợ thuế với người bị cấm xuất cảnh](https://vnexpress.net/de-nghi-co-quy-dinh-ve-nguong-no-thue-voi-nguoi-bi-cam-xuat-canh-4809916.html) - 11:48 29/10/2024
-- 👀 [UAE muốn xây trung tâm dự trữ sản phẩm dầu tại Việt Nam](https://vnexpress.net/uae-muon-xay-trung-tam-du-tru-san-pham-dau-tai-viet-nam-4809830.html) - 11:26 29/10/2024
-- 🎓 [Liên kết đổi thưởng giữa Vietnam Airlines và MoMo](https://vnexpress.net/lien-ket-doi-thuong-giua-vietnam-airlines-va-momo-4809347.html) - 11:00 29/10/2024
-- 🗽 [Phó thống đốc: &#39;Số tài khoản lừa đảo giảm sau khi đăng ký sinh trắc học&#39;](https://vnexpress.net/pho-thong-doc-37-trieu-luot-khach-hang-da-dang-ky-sinh-trac-hoc-4809824.html) - 10:02 29/10/2024
-- 🚀 [Vingroup ký loạt thỏa thuận tại Trung Đông](https://vnexpress.net/vingroup-ky-loat-thoa-thuan-tai-trung-dong-4809870.html) - 09:45 29/10/2024
-- 🤗 [Trung Quốc chi tiền gấp đôi mua cau Việt Nam](https://vnexpress.net/trung-quoc-chi-tien-gap-doi-mua-cau-viet-nam-4809838.html) - 09:33 29/10/2024
-- 🌜 [Loạt cổ phiếu tăng trần](https://vnexpress.net/chung-khoan-hom-nay-29-10-loat-co-phieu-tang-tran-4809867.html) - 09:10 29/10/2024
-- 👍 [Nhà sáng lập ByteDance giàu nhất Trung Quốc](https://vnexpress.net/nha-sang-lap-bytedance-giau-nhat-trung-quoc-4809799.html) - 08:28 29/10/2024
-- 🤖 [HDBank lãi trước thuế hơn 12.600 tỷ đồng trong 9 tháng](https://vnexpress.net/hdbank-lai-truoc-thue-hon-12-600-ty-dong-trong-9-thang-4809796.html) - 08:00 29/10/2024
-- 🫣 [Gelex được xếp hạng mức A về độ tín nhiệm](https://vnexpress.net/gelex-duoc-xep-hang-muc-a-ve-do-tin-nhiem-4809732.html) - 08:00 29/10/2024
-- 🌏 [Thủ tướng kêu gọi doanh nghiệp UAE đầu tư vào trung tâm tài chính TP HCM, Đà Nẵng](https://vnexpress.net/thu-tuong-keu-goi-doanh-nghiep-uae-dau-tu-vao-trung-tam-tai-chinh-tp-hcm-da-nang-4809638.html) - 05:04 29/10/2024
-- ⚗️ [Cổ phiếu Trump Media tăng vọt vì nhà đầu tư cược Trump thắng cử](https://vnexpress.net/co-phieu-trump-media-tang-vot-vi-nha-dau-tu-cuoc-trump-thang-cu-4809634.html) - 05:04 29/10/2024
-- 🕯 [Tám thị trường tăng mua sầu riêng Việt](https://vnexpress.net/tam-thi-truong-tang-mua-sau-rieng-viet-4809658.html) - 05:00 29/10/2024
-- 👍 [Phó thủ tướng: Sẽ thu thuế VAT với hàng dưới 1 triệu đồng qua Shopee, Temu](https://vnexpress.net/pho-thu-tuong-se-thu-thue-vat-voi-hang-gia-tri-nho-qua-san-thuong-mai-dien-tu-4809692.html) - 04:35 29/10/2024
-- 🤠 [VPBank lãi ba quý gần 14.000 tỷ đồng](https://vnexpress.net/vpbank-lai-ba-quy-gan-14-000-ty-dong-4809714.html) - 04:30 29/10/2024
-- 🌊 [Bitcoin tăng trở lại mốc 70.000 USD](https://vnexpress.net/gia-bitcoin-hom-nay-29-10-btc-tro-lai-moc-70-000-usd-4809650.html) - 03:43 29/10/2024
-- 🌈 [Đề xuất Thủ tướng quyết chủ trương đầu tư dự án công dưới 30.000 tỷ đồng](https://vnexpress.net/de-xuat-thu-tuong-quyet-chu-truong-dau-tu-du-an-cong-duoi-30-000-ty-dong-4809611.html) - 03:27 29/10/2024
-- 🥳 [Vì sao Trung Quốc phát thải nhiều nhất nhưng không góp Quỹ khí hậu toàn cầu?](https://vnexpress.net/vi-sao-trung-quoc-phat-thai-nhieu-nhat-nhung-khong-gop-quy-khi-hau-toan-cau-4807623.html) - 02:31 29/10/2024
-- 🐻 [Bỏ đề xuất nhà đầu tư cá nhân không được mua trái phiếu riêng lẻ](https://vnexpress.net/bo-de-xuat-nha-dau-tu-ca-nhan-khong-duoc-mua-trai-phieu-rieng-le-4809593.html) - 02:23 29/10/2024
-- 💫 [Chiến lược giúp Masan tự tin lãi đậm](https://vnexpress.net/chien-luoc-giup-masan-tu-tin-lai-dam-4809563.html) - 02:00 29/10/2024
-- 🤩 [VIB: &#39;AI sẽ thay đổi trải nghiệm thẻ&#39;](https://vnexpress.net/vib-ai-se-thay-doi-trai-nghiem-the-4809454.html) - 01:00 29/10/2024
-- 💻 [Gelex lãi trước thuế 2.270 tỷ đồng sau 9 tháng](https://vnexpress.net/gelex-lai-truoc-thue-2-270-ty-dong-sau-9-thang-4809374.html) - 01:00 29/10/2024
-- ⚗️ [Việt Nam - UAE ký Hiệp định Đối tác kinh tế toàn diện](https://vnexpress.net/viet-nam-uae-ky-hiep-dinh-doi-tac-kinh-te-toan-dien-4809527.html) - 23:53 28/10/2024
-- 🌈 [Lãnh đạo tài chính toàn cầu lo lắng sự trở lại của ông Trump](https://vnexpress.net/lanh-dao-tai-chinh-toan-cau-lo-lang-su-tro-lai-cua-ong-trump-4809343.html) - 18:15 28/10/2024
-- 🌝 [Thu nhập 3 triệu đồng có nên bỏ về quê?](https://vnexpress.net/thu-nhap-3-trieu-dong-co-nen-bo-ve-que-4807317.html) - 17:25 28/10/2024
-- 🥸 [Thứ trưởng Tài chính: Sẽ không cấm nhà đầu tư cá nhân mua trái phiếu riêng lẻ](https://vnexpress.net/thu-truong-tai-chinh-se-khong-cam-nha-dau-tu-ca-nhan-mua-trai-phieu-rieng-le-4809288.html) - 11:39 28/10/2024
-- 🦆 [Thống đốc: Cho vay bất động sản tăng cao hơn tăng trưởng tín dụng nền kinh tế](https://vnexpress.net/thong-doc-cho-vay-bat-dong-san-tang-cao-hon-tang-truong-tin-dung-nen-kinh-te-4809405.html) - 11:15 28/10/2024
-- 🌋 [Tiền vào chứng khoán giảm sâu](https://vnexpress.net/tien-vao-chung-khoan-giam-sau-4809415.html) - 09:20 28/10/2024
-- 🦍 [Lợi thế xuất khẩu của Bình Định](https://vnexpress.net/loi-the-xuat-khau-cua-binh-dinh-4807445.html) - 09:00 28/10/2024
-- 🤔 [Vinasun &#39;sống&#39; nhờ bán xe cũ và quảng cáo trên taxi](https://vnexpress.net/vinasun-song-nho-ban-xe-cu-va-quang-cao-tren-taxi-4809232.html) - 07:19 28/10/2024
-- 🧰 [Na sầu riêng &#39;khổng lồ&#39; rớt giá một nửa](https://vnexpress.net/na-sau-rieng-khong-lo-rot-gia-mot-nua-4808910.html) - 06:00 28/10/2024
-- 🌝 [Giá dầu thô lao dốc](https://vnexpress.net/gia-dau-tho-lao-doc-4809189.html) - 05:00 28/10/2024
-- 👍 [Ông Hoàng Văn Cường: Phải buộc chủ đầu tư kê khai giá khi bán nhà](https://vnexpress.net/ong-hoang-van-cuong-phai-buoc-chu-dau-tu-ke-khai-gia-khi-ban-nha-4809180.html) - 04:51 28/10/2024
-- 🗽 [Ngành sản xuất cau tỷ USD của Trung Quốc](https://vnexpress.net/nganh-san-xuat-cau-ty-usd-cua-trung-quoc-4807675.html) - 03:48 28/10/2024
-- 🐎 [Sầu riêng tăng giá gấp đôi](https://vnexpress.net/sau-rieng-tang-gia-gap-doi-4807446.html) - 01:00 28/10/2024
-- 🪄 [Thủ tướng đề nghị tập đoàn bán lẻ hàng đầu thế giới tăng bán hàng Việt](https://vnexpress.net/thu-tuong-de-nghi-tap-doan-ban-le-hang-dau-the-gioi-tang-ban-hang-viet-4809044.html) - 00:03 28/10/2024
-- 🎊 [Vì sao hạn chế nhà đầu tư cá nhân tham gia trái phiếu riêng lẻ?](https://vnexpress.net/vi-sao-han-che-nha-dau-tu-ca-nhan-tham-gia-trai-phieu-rieng-le-4804900.html) - 21:05 27/10/2024
-- 🗽 [Giá vàng có thể điều chỉnh trong ngắn hạn](https://vnexpress.net/gia-vang-co-the-dieu-chinh-trong-ngan-han-4809074.html) - 18:00 27/10/2024
+- 💼 [Có nên đầu tư chứng khoán bằng AI?](https://vnexpress.net/co-nen-dau-tu-chung-khoan-bang-ai-4809800.html) - 21:00 29/10/2024
+- 🤗 [Đại gia dầu mỏ Arab Saudi muốn đầu tư vào Việt Nam](https://vnexpress.net/dai-gia-dau-mo-arab-saudi-muon-dau-tu-vao-viet-nam-4809964.html) - 17:23 29/10/2024
+- 👀 [Đề xuất doanh nghiệp nội và ngoại cùng phát triển điện gió ngoài khơi](https://vnexpress.net/de-xuat-doanh-nghiep-noi-va-ngoai-cung-phat-trien-dien-gio-ngoai-khoi-4809922.html) - 17:00 29/10/2024
+- 🎓 [Đề nghị có quy định về ngưỡng nợ thuế với người bị cấm xuất cảnh](https://vnexpress.net/de-nghi-co-quy-dinh-ve-nguong-no-thue-voi-nguoi-bi-cam-xuat-canh-4809916.html) - 11:48 29/10/2024
+- 🗽 [UAE muốn xây trung tâm dự trữ sản phẩm dầu tại Việt Nam](https://vnexpress.net/uae-muon-xay-trung-tam-du-tru-san-pham-dau-tai-viet-nam-4809830.html) - 11:26 29/10/2024
+- 🚀 [Liên kết đổi thưởng giữa Vietnam Airlines và MoMo](https://vnexpress.net/lien-ket-doi-thuong-giua-vietnam-airlines-va-momo-4809347.html) - 11:00 29/10/2024
+- 🤗 [Phó thống đốc: &#39;Số tài khoản lừa đảo giảm sau khi đăng ký sinh trắc học&#39;](https://vnexpress.net/pho-thong-doc-37-trieu-luot-khach-hang-da-dang-ky-sinh-trac-hoc-4809824.html) - 10:02 29/10/2024
+- 🌜 [Vingroup ký loạt thỏa thuận tại Trung Đông](https://vnexpress.net/vingroup-ky-loat-thoa-thuan-tai-trung-dong-4809870.html) - 09:45 29/10/2024
+- 👍 [Trung Quốc chi tiền gấp đôi mua cau Việt Nam](https://vnexpress.net/trung-quoc-chi-tien-gap-doi-mua-cau-viet-nam-4809838.html) - 09:33 29/10/2024
+- 🤖 [Loạt cổ phiếu tăng trần](https://vnexpress.net/chung-khoan-hom-nay-29-10-loat-co-phieu-tang-tran-4809867.html) - 09:10 29/10/2024
+- 🫣 [Nhà sáng lập ByteDance giàu nhất Trung Quốc](https://vnexpress.net/nha-sang-lap-bytedance-giau-nhat-trung-quoc-4809799.html) - 08:28 29/10/2024
+- 🌏 [HDBank lãi trước thuế hơn 12.600 tỷ đồng trong 9 tháng](https://vnexpress.net/hdbank-lai-truoc-thue-hon-12-600-ty-dong-trong-9-thang-4809796.html) - 08:00 29/10/2024
+- ⚗️ [Gelex được xếp hạng mức A về độ tín nhiệm](https://vnexpress.net/gelex-duoc-xep-hang-muc-a-ve-do-tin-nhiem-4809732.html) - 08:00 29/10/2024
+- 🕯 [Thủ tướng kêu gọi doanh nghiệp UAE đầu tư vào trung tâm tài chính TP HCM, Đà Nẵng](https://vnexpress.net/thu-tuong-keu-goi-doanh-nghiep-uae-dau-tu-vao-trung-tam-tai-chinh-tp-hcm-da-nang-4809638.html) - 05:04 29/10/2024
+- 👍 [Cổ phiếu Trump Media tăng vọt vì nhà đầu tư cược Trump thắng cử](https://vnexpress.net/co-phieu-trump-media-tang-vot-vi-nha-dau-tu-cuoc-trump-thang-cu-4809634.html) - 05:04 29/10/2024
+- 🤠 [Tám thị trường tăng mua sầu riêng Việt](https://vnexpress.net/tam-thi-truong-tang-mua-sau-rieng-viet-4809658.html) - 05:00 29/10/2024
+- 🌊 [Phó thủ tướng: Sẽ thu thuế VAT với hàng dưới 1 triệu đồng qua Shopee, Temu](https://vnexpress.net/pho-thu-tuong-se-thu-thue-vat-voi-hang-gia-tri-nho-qua-san-thuong-mai-dien-tu-4809692.html) - 04:35 29/10/2024
+- 🌈 [VPBank lãi ba quý gần 14.000 tỷ đồng](https://vnexpress.net/vpbank-lai-ba-quy-gan-14-000-ty-dong-4809714.html) - 04:30 29/10/2024
+- 🥳 [Bitcoin tăng trở lại mốc 70.000 USD](https://vnexpress.net/gia-bitcoin-hom-nay-29-10-btc-tro-lai-moc-70-000-usd-4809650.html) - 03:43 29/10/2024
+- 🐻 [Đề xuất Thủ tướng quyết chủ trương đầu tư dự án công dưới 30.000 tỷ đồng](https://vnexpress.net/de-xuat-thu-tuong-quyet-chu-truong-dau-tu-du-an-cong-duoi-30-000-ty-dong-4809611.html) - 03:27 29/10/2024
+- 💫 [Vì sao Trung Quốc phát thải nhiều nhất nhưng không góp Quỹ khí hậu toàn cầu?](https://vnexpress.net/vi-sao-trung-quoc-phat-thai-nhieu-nhat-nhung-khong-gop-quy-khi-hau-toan-cau-4807623.html) - 02:31 29/10/2024
+- 🤩 [Bỏ đề xuất nhà đầu tư cá nhân không được mua trái phiếu riêng lẻ](https://vnexpress.net/bo-de-xuat-nha-dau-tu-ca-nhan-khong-duoc-mua-trai-phieu-rieng-le-4809593.html) - 02:23 29/10/2024
+- 💻 [Chiến lược giúp Masan tự tin lãi đậm](https://vnexpress.net/chien-luoc-giup-masan-tu-tin-lai-dam-4809563.html) - 02:00 29/10/2024
+- ⚗️ [VIB: &#39;AI sẽ thay đổi trải nghiệm thẻ&#39;](https://vnexpress.net/vib-ai-se-thay-doi-trai-nghiem-the-4809454.html) - 01:00 29/10/2024
+- 🌈 [Gelex lãi trước thuế 2.270 tỷ đồng sau 9 tháng](https://vnexpress.net/gelex-lai-truoc-thue-2-270-ty-dong-sau-9-thang-4809374.html) - 01:00 29/10/2024
+- 🌝 [Việt Nam - UAE ký Hiệp định Đối tác kinh tế toàn diện](https://vnexpress.net/viet-nam-uae-ky-hiep-dinh-doi-tac-kinh-te-toan-dien-4809527.html) - 23:53 28/10/2024
+- 🥸 [Lãnh đạo tài chính toàn cầu lo lắng sự trở lại của ông Trump](https://vnexpress.net/lanh-dao-tai-chinh-toan-cau-lo-lang-su-tro-lai-cua-ong-trump-4809343.html) - 18:15 28/10/2024
+- 🦆 [Thu nhập 3 triệu đồng có nên bỏ về quê?](https://vnexpress.net/thu-nhap-3-trieu-dong-co-nen-bo-ve-que-4807317.html) - 17:25 28/10/2024
+- 🌋 [Thứ trưởng Tài chính: Sẽ không cấm nhà đầu tư cá nhân mua trái phiếu riêng lẻ](https://vnexpress.net/thu-truong-tai-chinh-se-khong-cam-nha-dau-tu-ca-nhan-mua-trai-phieu-rieng-le-4809288.html) - 11:39 28/10/2024
+- 🦍 [Thống đốc: Cho vay bất động sản tăng cao hơn tăng trưởng tín dụng nền kinh tế](https://vnexpress.net/thong-doc-cho-vay-bat-dong-san-tang-cao-hon-tang-truong-tin-dung-nen-kinh-te-4809405.html) - 11:15 28/10/2024
+- 🤔 [Tiền vào chứng khoán giảm sâu](https://vnexpress.net/tien-vao-chung-khoan-giam-sau-4809415.html) - 09:20 28/10/2024
+- 🧰 [Vinasun &#39;sống&#39; nhờ bán xe cũ và quảng cáo trên taxi](https://vnexpress.net/vinasun-song-nho-ban-xe-cu-va-quang-cao-tren-taxi-4809232.html) - 07:19 28/10/2024
+- 🌝 [Na sầu riêng &#39;khổng lồ&#39; rớt giá một nửa](https://vnexpress.net/na-sau-rieng-khong-lo-rot-gia-mot-nua-4808910.html) - 06:00 28/10/2024
+- 👍 [Giá dầu thô lao dốc](https://vnexpress.net/gia-dau-tho-lao-doc-4809189.html) - 05:00 28/10/2024
+- 🗽 [Ông Hoàng Văn Cường: Phải buộc chủ đầu tư kê khai giá khi bán nhà](https://vnexpress.net/ong-hoang-van-cuong-phai-buoc-chu-dau-tu-ke-khai-gia-khi-ban-nha-4809180.html) - 04:51 28/10/2024
+- 🐎 [Ngành sản xuất cau tỷ USD của Trung Quốc](https://vnexpress.net/nganh-san-xuat-cau-ty-usd-cua-trung-quoc-4807675.html) - 03:48 28/10/2024
+- 🪄 [Sầu riêng tăng giá gấp đôi](https://vnexpress.net/sau-rieng-tang-gia-gap-doi-4807446.html) - 01:00 28/10/2024
+- 🎊 [Thủ tướng đề nghị tập đoàn bán lẻ hàng đầu thế giới tăng bán hàng Việt](https://vnexpress.net/thu-tuong-de-nghi-tap-doan-ban-le-hang-dau-the-gioi-tang-ban-hang-viet-4809044.html) - 00:03 28/10/2024
+- 🗽 [Vì sao hạn chế nhà đầu tư cá nhân tham gia trái phiếu riêng lẻ?](https://vnexpress.net/vi-sao-han-che-nha-dau-tu-ca-nhan-tham-gia-trai-phieu-rieng-le-4804900.html) - 21:05 27/10/2024
 - 🦩 [Nhân lực ngành năng lượng tái tạo được săn đón](https://vnexpress.net/nhan-luc-nganh-nang-luong-tai-tao-duoc-san-don-4805847.html) - 17:03 27/10/2024<!-- vnexpress-kinh-doanh:END -->
