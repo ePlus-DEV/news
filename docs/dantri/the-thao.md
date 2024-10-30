@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Ruben Amorim: &quot;Nhà thơ&quot; liều lĩnh dám nhảy lên con ngựa bất kham Man Utd](https://dantri.com.vn/the-thao/ruben-amorim-nha-tho-lieu-linh-dam-nhay-len-con-ngua-bat-kham-man-utd-20241030185242040.htm) - 12:41 30/10/2024
-- 💯 [U17 Triều Tiên bị tố cáo gian lận tuổi ở giải châu Á](https://dantri.com.vn/the-thao/u17-trieu-tien-bi-to-cao-gian-lan-tuoi-o-giai-chau-a-20241030194033127.htm) - 12:40 30/10/2024
+- 🎡 [U17 Triều Tiên bị tố cáo gian lận tuổi ở giải châu Á](https://dantri.com.vn/the-thao/u17-trieu-tien-bi-to-cao-gian-lan-tuoi-o-giai-chau-a-20241030194033127.htm) - 12:42 30/10/2024
+- 💯 [Ruben Amorim: &quot;Nhà thơ&quot; liều lĩnh dám nhảy lên con ngựa bất kham Man Utd](https://dantri.com.vn/the-thao/ruben-amorim-nha-tho-lieu-linh-dam-nhay-len-con-ngua-bat-kham-man-utd-20241030185242040.htm) - 12:41 30/10/2024
 - ⛽️ [HLV Shin Tae Yong thừa nhận điều phũ phàng về tuyển Indonesia](https://dantri.com.vn/the-thao/hlv-shin-tae-yong-thua-nhan-dieu-phu-phang-ve-tuyen-indonesia-20241030191234851.htm) - 12:12 30/10/2024
 - 💃 [Erik Ten Hag: Xung đột với Ronaldo, Sancho và sai lầm chí tử ở Man Utd](https://dantri.com.vn/the-thao/erik-ten-hag-xung-dot-voi-ronaldo-sancho-va-sai-lam-chi-tu-o-man-utd-20241030131326238.htm) - 12:10 30/10/2024
 - 🌈 [FIFA cảnh báo có thể cấm vận bóng đá Hàn Quốc](https://dantri.com.vn/the-thao/fifa-canh-bao-co-the-cam-van-bong-da-han-quoc-20241030130324630.htm) - 08:09 30/10/2024
