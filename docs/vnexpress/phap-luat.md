@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Đi tù vì ở bẩn khiến con trai bị đàn chuột cắn](https://vnexpress.net/bo-me-linh-an-tu-vi-o-ban-khien-con-bi-dan-chuot-can-4810179.html) - 07:15 30/10/2024
+- 😎 [Đi tù vì khiến con bị đàn chuột cắn](https://vnexpress.net/bo-me-linh-an-tu-vi-o-ban-khien-con-bi-dan-chuot-can-4810179.html) - 07:15 30/10/2024
 - 🥰 [Đề xuất biện pháp ngăn tẩu tán tài sản trong các đại án](https://vnexpress.net/de-xuat-bien-phap-ngan-tau-tan-tai-san-trong-cac-dai-an-4810144.html) - 06:41 30/10/2024
 - 🎓 [Cựu bí thư Bắc Ninh: &#39;Vụ án là bài học cảnh tỉnh cho cán bộ đương chức&#39;](https://vnexpress.net/cuu-bi-thu-bac-ninh-vu-an-la-bai-hoc-canh-tinh-cho-can-bo-duong-chuc-4810122.html) - 05:06 30/10/2024
 - 🤓 [Chủ quán karaoke 32 người chết bị phạt 8 năm tù](https://vnexpress.net/chu-quan-karaoke-32-nguoi-chet-bi-phat-8-nam-tu-4810151.html) - 04:40 30/10/2024
