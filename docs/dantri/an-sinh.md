@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- dantri-an-sinh:START -->
-- 👺 [Vụ mẹ ôm con định nhảy cầu: Lý do đau lòng](https://dantri.com.vn/an-sinh/vu-me-om-con-dinh-nhay-cau-ly-do-dau-long-20241030162935006.htm) - 09:50 30/10/2024
+- 👺 [Vụ bé gái van xin mẹ đừng nhảy cầu: Lý do đau lòng](https://dantri.com.vn/an-sinh/vu-be-gai-van-xin-me-dung-nhay-cau-ly-do-dau-long-20241030162935006.htm) - 09:50 30/10/2024
 - 👀 [Chính sách điều chỉnh lương hưu mới từ ngày 1/7/2025](https://dantri.com.vn/an-sinh/chinh-sach-dieu-chinh-luong-huu-moi-tu-ngay-172025-20241029130931382.htm) - 05:28 30/10/2024
 - 💡 [Kết cục đau lòng của nữ sinh sát hại con ruột khi vừa mới sinh](https://dantri.com.vn/an-sinh/ket-cuc-dau-long-cua-nu-sinh-sat-hai-con-ruot-khi-vua-moi-sinh-20241029112834814.htm) - 04:00 30/10/2024
 - 💄 [Cần đẩy mạnh chính sách không dùng tiền mặt ở vùng khó khăn](https://dantri.com.vn/an-sinh/can-day-manh-chinh-sach-khong-dung-tien-mat-o-vung-kho-khan-20241030080814561.htm) - 03:01 30/10/2024
