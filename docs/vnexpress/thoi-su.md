@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Trường học bỏ hoang giữa cánh đồng](https://vnexpress.net/truong-hoc-bo-hoang-giua-canh-dong-4808850.html) - 17:00 30/10/2024
-- 🤓 [Đà Nẵng tăng vốn đầu tư công viên phần mềm số 2 thêm 410 tỷ đồng](https://vnexpress.net/da-nang-tang-von-dau-tu-cong-vien-phan-mem-so-2-them-410-ty-dong-4810375.html) - 16:41 30/10/2024
+- 🤓 [Đà Nẵng tăng vốn đầu tư công viên phần mềm số 2](https://vnexpress.net/da-nang-tang-von-dau-tu-cong-vien-phan-mem-so-2-4810375.html) - 16:41 30/10/2024
 - ⚗️ [Công trình di sản Hà Nội sẽ trở thành không gian sắp đặt nghệ thuật](https://vnexpress.net/cong-trinh-di-san-ha-noi-se-tro-thanh-khong-gian-sap-dat-nghe-thuat-4810388.html) - 15:37 30/10/2024
 - 🌊 [Lập TP Huế trực thuộc Trung ương là &#39;đột phá trong tư duy phát triển đô thị&#39;](https://vnexpress.net/lap-tp-hue-truc-thuoc-trung-uong-la-dot-pha-trong-tu-duy-phat-trien-do-thi-4810320.html) - 11:54 30/10/2024
 - 🎓 [Bố mẹ bất lực nhìn con trai bị lũ cuốn](https://vnexpress.net/bo-me-bat-luc-nhin-con-trai-bi-lu-cuon-4810333.html) - 11:50 30/10/2024
