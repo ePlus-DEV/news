@@ -24,7 +24,7 @@ sidebar_position: 9
 - 🤓 [Lý do ca khúc &#39;APT.&#39; gây sốt](https://vnexpress.net/ly-do-ca-khuc-apt-gay-sot-4808768.html) - 17:00 30/10/2024
 - 💪 [Ứng dụng hỗ trợ bệnh nhân nữ ung thư](https://vnexpress.net/ung-dung-ho-tro-benh-nhan-nu-ung-thu-4805887.html) - 17:00 30/10/2024
 - 🎓 [Con gái có nên học ngành Tự động hóa?](https://vnexpress.net/con-gai-co-nen-hoc-nganh-tu-dong-hoa-4809512.html) - 16:59 30/10/2024
-- 🫣 [Đà Nẵng tăng vốn đầu tư công viên phần mềm số 2 thêm 410 tỷ đồng](https://vnexpress.net/da-nang-tang-von-dau-tu-cong-vien-phan-mem-so-2-them-410-ty-dong-4810375.html) - 16:41 30/10/2024
+- 🫣 [Đà Nẵng tăng vốn đầu tư công viên phần mềm số 2](https://vnexpress.net/da-nang-tang-von-dau-tu-cong-vien-phan-mem-so-2-4810375.html) - 16:41 30/10/2024
 - 🧑‍💻 [Tập đoàn năng lượng Arab Saudi sẵn sàng đầu tư 5 tỷ USD vào Việt Nam](https://vnexpress.net/tap-doan-nang-luong-arab-saudi-san-sang-dau-tu-5-ty-usd-vao-viet-nam-4810407.html) - 16:20 30/10/2024
 - 🐲 [MacBook Air, MacBook Pro tiêu chuẩn nâng cấp RAM từ 16 GB](https://vnexpress.net/macbook-air-macbook-pro-tieu-chuan-nang-cap-ram-tu-16-gb-4810403.html) - 16:06 30/10/2024
 - 🌝 [Iran tuyên bố năng lực tên lửa không tổn hại sau đòn tập kích của Israel](https://vnexpress.net/iran-tuyen-bo-nang-luc-ten-lua-khong-ton-hai-sau-don-tap-kich-cua-israel-4810394.html) - 15:56 30/10/2024
