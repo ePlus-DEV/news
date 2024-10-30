@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Doanh nghiệp cần làm gì để thực hành chữ &quot;S&quot; trong ESG?](https://dantri.com.vn/xa-hoi/doanh-nghiep-can-lam-gi-de-thuc-hanh-chu-s-trong-esg-20241028163420702.htm) - 23:00 29/10/2024
+- ⚗️ [Lấy con người làm trung tâm là hạt nhân của phát triển bền vững](https://dantri.com.vn/xa-hoi/lay-con-nguoi-lam-trung-tam-la-hat-nhan-cua-phat-trien-ben-vung-20241028163420702.htm) - 23:00 29/10/2024
 - 🙉 [Lao động Việt tại Hàn &quot;ngâm mình&quot; ở xưởng đầy bụi, kiếm 70 triệu đồng/tháng](https://dantri.com.vn/lao-dong-viec-lam/lao-dong-viet-tai-han-ngam-minh-o-xuong-day-bui-kiem-70-trieu-dongthang-20241029130508352.htm) - 23:00 29/10/2024
 - 🕴 [Những dự án chết yểu và chuyện tạo bầu không khí quốc gia cho ESG](https://dantri.com.vn/lao-dong-viec-lam/nhung-du-an-chet-yeu-va-chuyen-tao-bau-khong-khi-quoc-gia-cho-esg-20241028173156505.htm) - 22:00 29/10/2024
 - 🧐 [Vụ công ty nợ 1,8 tỷ đồng tiền lương: Cam kết trả đủ trước 1/11](https://dantri.com.vn/lao-dong-viec-lam/vu-cong-ty-no-18-ty-dong-tien-luong-cam-ket-tra-du-truoc-111-20241029175246700.htm) - 12:45 29/10/2024
