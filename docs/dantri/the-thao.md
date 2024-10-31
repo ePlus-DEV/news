@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Bóng đá Triều Tiên tạo nên cú sốc, lần thứ hai lọt vào chung kết World Cup](https://dantri.com.vn/the-thao/bong-da-trieu-tien-tao-nen-cu-soc-lan-thu-hai-lot-vao-chung-ket-world-cup-20241031140429275.htm) - 07:04 31/10/2024
+- 🎡 [Bóng đá nữ Triều Tiên tạo nên cú sốc, lần thứ 2 lọt vào chung kết World Cup](https://dantri.com.vn/the-thao/bong-da-nu-trieu-tien-tao-nen-cu-soc-lan-thu-2-lot-vao-chung-ket-world-cup-20241031140429275.htm) - 07:04 31/10/2024
 - 💯 [Đội hình &quot;vứt đi&quot; trị giá 300 triệu bảng của Ten Hag ở Man Utd](https://dantri.com.vn/the-thao/doi-hinh-vut-di-tri-gia-300-trieu-bang-cua-ten-hag-o-man-utd-20241031133141848.htm) - 06:31 31/10/2024
 - ⛽️ [HLV Shin Tae Yong dùng đội hình mạnh nhất của Indonesia dự AFF Cup 2024](https://dantri.com.vn/the-thao/hlv-shin-tae-yong-dung-doi-hinh-manh-nhat-cua-indonesia-du-aff-cup-2024-20241031120137060.htm) - 05:55 31/10/2024
 - 💃 [Real Madrid đón thêm cú sốc trước cuộc đấu AC Milan ở Champions League](https://dantri.com.vn/the-thao/real-madrid-don-them-cu-soc-truoc-cuoc-dau-ac-milan-o-champions-league-20241031122353382.htm) - 05:48 31/10/2024
