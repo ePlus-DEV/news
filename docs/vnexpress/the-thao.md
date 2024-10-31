@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Tại sao Ten Hag thất bại ở Man Utd?](https://vnexpress.net/tai-sao-ten-hag-that-bai-o-man-utd-4810234.html) - 05:42 31/10/2024
+- 🪜 [Ten Hag sa lầy thế nào trong hơn hai năm ở Man Utd](https://vnexpress.net/ten-hag-sa-lay-the-nao-trong-hon-hai-nam-o-man-utd-4810234.html) - 05:42 31/10/2024
 - 🦩 [HLV Vũ Tiến Thành: &#39;HAGL không còn là đội bóng chỉ biết biểu diễn&#39;](https://vnexpress.net/hlv-vu-tien-thanh-hagl-khong-con-la-doi-bong-chi-biet-bieu-dien-4810624.html) - 05:33 31/10/2024
 - 🧰 [10 nam chân chạy marathon nhanh nhất lịch sử](https://vnexpress.net/10-nam-chan-chay-marathon-nhanh-nhat-lich-su-4810574.html) - 05:00 31/10/2024
 - 🤗 [Rodri và sự tôn vinh cho &#39;bộ não&#39; bóng đá](https://vnexpress.net/rodri-va-su-ton-vinh-cho-bo-nao-bong-da-4810429.html) - 05:00 31/10/2024
