@@ -36,7 +36,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🕯 [Tại sao Ten Hag thất bại ở Man Utd?](https://vnexpress.net/tai-sao-ten-hag-that-bai-o-man-utd-4810234.html) - 05:42 31/10/2024
 - 💃 [HLV Vũ Tiến Thành: &#39;HAGL không còn là đội bóng chỉ biết biểu diễn&#39;](https://vnexpress.net/hlv-vu-tien-thanh-hagl-khong-con-la-doi-bong-chi-biet-bieu-dien-4810624.html) - 05:33 31/10/2024
 - 💂 [Ôtô, xe máy điện có thể chiếm 30% đến năm 2030](https://vnexpress.net/oto-xe-may-dien-co-the-chiem-30-den-nam-2030-4810563.html) - 05:33 31/10/2024
-- 🎊 [&#39;Ban phụ huynh lạm thu vì cha mẹ học sinh thỏa hiệp&#39;](https://vnexpress.net/ban-phu-huynh-lam-thu-vi-cha-me-hoc-sinh-thoa-hiep-4810608.html) - 05:31 31/10/2024
+- 🎊 [&#39;Chẳng ban phụ huynh nào dám lạm thu nếu cha mẹ không thỏa hiệp&#39;](https://vnexpress.net/chang-ban-phu-huynh-nao-dam-lam-thu-neu-cha-me-khong-thoa-hiep-4810608.html) - 05:31 31/10/2024
 - 🤠 [TP HCM &#39;cởi trói&#39; tách thửa](https://vnexpress.net/tp-hcm-coi-troi-tach-thua-4810604.html) - 05:20 31/10/2024
 - 🌈 [Tổng giám đốc VTV làm Bí thư Tỉnh ủy Quảng Bình](https://vnexpress.net/tong-giam-doc-vtv-lam-bi-thu-tinh-uy-quang-binh-4810591.html) - 05:16 31/10/2024
 - 🎬 [Côn Đảo giảm tới 30% giá dịch vụ để hút khách cuối năm](https://vnexpress.net/con-dao-giam-toi-30-gia-dich-vu-de-hut-khach-cuoi-nam-4808309.html) - 05:14 31/10/2024
