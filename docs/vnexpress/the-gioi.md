@@ -13,8 +13,8 @@ sidebar_position: 2
 - 🌈 [Lý do người Mỹ bầu tổng thống thông qua đại cử tri](https://vnexpress.net/ly-do-nguoi-my-bau-tong-thong-thong-qua-dai-cu-tri-4803184.html) - 12:02 31/10/2024
 - 🧑‍🏫 [Elon Musk sắp phải ra tòa vì khoản thưởng triệu USD cho cử tri](https://vnexpress.net/elon-musk-sap-phai-ra-toa-vi-khoan-thuong-trieu-usd-cho-cu-tri-4810778.html) - 11:59 31/10/2024
 - 🐲 [Ukraine để lọt loạt tên lửa Nga](https://vnexpress.net/ukraine-de-lot-loat-ten-lua-nga-4810764.html) - 11:22 31/10/2024
-- 🦒 [Việt Nam quan ngại trước thông tin về hệ thống radar ở đảo Tri Tôn](https://vnexpress.net/viet-nam-quan-ngai-truoc-thong-tin-ve-he-thong-radar-o-dao-tri-ton-4810762.html) - 11:13 31/10/2024
-- 🐻 [Việt Nam yêu cầu thả ngay ngư dân bị bắt trên Biển Đông](https://vnexpress.net/viet-nam-yeu-cau-tha-ngay-ngu-dan-bi-bat-tren-bien-dong-4810743.html) - 10:11 31/10/2024
+- 🦒 [Việt Nam quan ngại về thông tin Trung Quốc xây dựng radar ở đảo Tri Tôn](https://vnexpress.net/viet-nam-quan-ngai-ve-thong-tin-trung-quoc-xay-dung-radar-o-dao-tri-ton-4810762.html) - 11:13 31/10/2024
+- 🐻 [Việt Nam yêu cầu Trung Quốc thả ngay ngư dân bị bắt trên Biển Đông](https://vnexpress.net/viet-nam-yeu-cau-trung-quoc-tha-ngay-ngu-dan-bi-bat-tren-bien-dong-4810743.html) - 10:11 31/10/2024
 - 🚀 [Việt Nam xác minh nhân thân 7 công dân bị ép bán dâm tại Malaysia](https://vnexpress.net/viet-nam-xac-minh-nhan-than-7-cong-dan-bi-ep-ban-dam-tai-malaysia-4810742.html) - 09:21 31/10/2024
 - 🥰 [Nghi phạm sát hại hai người Việt ở Las Vegas đối mặt án tử](https://vnexpress.net/nghi-pham-sat-hai-hai-nguoi-viet-o-las-vegas-doi-mat-an-tu-4810648.html) - 08:56 31/10/2024
 - 🔥 [Kiều bào tại Qatar kiến nghị tăng hợp tác lao động giữa hai nước](https://vnexpress.net/kieu-bao-tai-qatar-kien-nghi-tang-hop-tac-lao-dong-giua-hai-nuoc-4810639.html) - 07:59 31/10/2024
