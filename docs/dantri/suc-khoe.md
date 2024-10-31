@@ -7,7 +7,7 @@ sidebar_position: 23
 - 🤔 [Cảnh báo trẻ em rơi từ lầu cao hôn mê, chấn thương nguy kịch](https://dantri.com.vn/suc-khoe/canh-bao-tre-em-roi-tu-lau-cao-hon-me-chan-thuong-nguy-kich-20241031075446208.htm) - 02:46 31/10/2024
 - 🚦 [Cà phê trộn ngô và đậu nành rang cháy nguy hiểm như thế nào?](https://dantri.com.vn/suc-khoe/ca-phe-tron-ngo-va-dau-nanh-rang-chay-nguy-hiem-nhu-the-nao-20241031072329460.htm) - 00:32 31/10/2024
 - 🤖 [Ăn đậu phụ có thể có những rủi ro và tác dụng phụ gì?](https://dantri.com.vn/suc-khoe/an-dau-phu-co-the-co-nhung-rui-ro-va-tac-dung-phu-gi-20241031072356982.htm) - 00:31 31/10/2024
-- 🐻 [Đang giao lưu trực tuyến &quot;Phòng ngừa trước các dạng thức ma túy mới&quot;](https://dantri.com.vn/suc-khoe/dang-giao-luu-truc-tuyen-phong-ngua-truoc-cac-dang-thuc-ma-tuy-moi-20241030135603211.htm) - 23:53 30/10/2024
+- 🐻 [Ma túy núp bóng trà giảm cân, đông trùng hạ thảo...](https://dantri.com.vn/suc-khoe/ma-tuy-nup-bong-tra-giam-can-dong-trung-ha-thao-20241030135603211.htm) - 23:53 30/10/2024
 - 🌏 [Trong gần 2 năm, một bệnh viện ghép thận 22 ca, chuẩn bị ghép gan](https://dantri.com.vn/suc-khoe/trong-gan-2-nam-mot-benh-vien-ghep-than-22-ca-chuan-bi-ghep-gan-20241030162250901.htm) - 15:03 30/10/2024
 - 👺 [Phụ nữ Việt nên sàng lọc ung thư vú ở lứa tuổi nào?](https://dantri.com.vn/suc-khoe/phu-nu-viet-nen-sang-loc-ung-thu-vu-o-lua-tuoi-nao-20241030214456361.htm) - 14:58 30/10/2024
 - 🎬 [PresbyMAX - Công nghệ điều trị tối ưu cho người bị lão thị](https://dantri.com.vn/suc-khoe/presbymax-cong-nghe-dieu-tri-toi-uu-cho-nguoi-bi-lao-thi-20241030163737667.htm) - 10:00 30/10/2024
