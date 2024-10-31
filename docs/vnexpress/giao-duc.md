@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Đề xuất đại học không công bố điểm chuẩn xét tuyển sớm trước 31/5](https://vnexpress.net/de-xuat-dai-hoc-khong-cong-bo-diem-chuan-xet-tuyen-som-truoc-31-5-4810612.html) - 07:04 31/10/2024
+- 🤓 [Đề xuất không công bố điểm chuẩn xét tuyển sớm trước 31/5](https://vnexpress.net/de-xuat-khong-cong-bo-diem-chuan-xet-tuyen-som-truoc-31-5-4810612.html) - 07:04 31/10/2024
 - 🦆 [Xem xét cho hơn 170 học sinh bị tuyển &#39;chui&#39; chuyển trường](https://vnexpress.net/xem-xet-cho-hon-170-hoc-sinh-bi-tuyen-chui-chuyen-truong-4810381.html) - 05:54 31/10/2024
 - 🦩 [Bộ Giáo dục: Có bất công giữa các tổ hợp xét tuyển đại học](https://vnexpress.net/bo-giao-duc-co-bat-cong-giua-cac-to-hop-xet-tuyen-dai-hoc-4810530.html) - 04:03 31/10/2024
 - 🌮 [Đại học Sư phạm TP HCM dự kiến bỏ xét học bạ hoàn toàn](https://vnexpress.net/dai-hoc-su-pham-tp-hcm-du-kien-bo-xet-hoc-ba-hoan-toan-4810438.html) - 02:24 31/10/2024
