@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Man Utd: &quot;Chất điên&quot; Van Nistelrooy hơn ngàn lần đầu óc của Ten Hag](https://dantri.com.vn/the-thao/man-utd-chat-dien-van-nistelrooy-hon-ngan-lan-dau-oc-cua-ten-hag-20241031172502206.htm) - 10:24 31/10/2024
+- 🎡 [Man Utd: &quot;Chất điên&quot; Van Nistelrooy hơn ngàn lần đầu óc của Ten Hag](https://dantri.com.vn/the-thao/man-utd-chat-dien-van-nistelrooy-hon-ngan-lan-dau-oc-cua-ten-hag-20241031172502206.htm) - 11:01 31/10/2024
 - 💯 [Man Utd lựa chọn HLV Ruben Amorim: Mourinho ủng hộ, Scholes cảnh báo](https://dantri.com.vn/the-thao/man-utd-lua-chon-hlv-ruben-amorim-mourinho-ung-ho-scholes-canh-bao-20241031145935030.htm) - 10:22 31/10/2024
 - ⛽️ [Vụ cầu thủ ngoại kiện CLB HAGL lên FIFA: Chưa thống nhất số tiền đền bù](https://dantri.com.vn/the-thao/vu-cau-thu-ngoai-kien-clb-hagl-len-fifa-chua-thong-nhat-so-tien-den-bu-20241031165959687.htm) - 10:12 31/10/2024
 - 💃 [Những yếu tố tạo nên sức hút của DNSE Aquaman Vietnam 2024](https://dantri.com.vn/the-thao/nhung-yeu-to-tao-nen-suc-hut-cua-dnse-aquaman-vietnam-2024-20241031163845974.htm) - 09:55 31/10/2024
