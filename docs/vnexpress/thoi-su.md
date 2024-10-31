@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Đầu tháng 11 miền Trung sẽ mưa rất lớn](https://vnexpress.net/dau-thang-11-mien-trung-se-mua-rat-lon-4810792.html) - 16:40 31/10/2024
+- 🦒 [Miền Trung có thể mưa rất lớn đầu tháng 11](https://vnexpress.net/mien-trung-co-the-mua-rat-lon-dau-thang-11-4810792.html) - 16:40 31/10/2024
 - 🤓 [Thu hồi hơn 7.000 m2 đất ở rừng Sơn Trà](https://vnexpress.net/thu-hoi-hon-7-000-m2-dat-o-rung-son-tra-4810410.html) - 12:48 31/10/2024
 - ⚗️ [12 tiếng bám cột đèn sinh tồn giữa lũ](https://vnexpress.net/12-tieng-bam-cot-den-sinh-ton-giua-lu-4810773.html) - 12:32 31/10/2024
 - 🌊 [Đại biểu ngành y lo vỡ quỹ nếu thông tuyến nhiều loại bệnh](https://vnexpress.net/dai-bieu-nganh-y-lo-vo-quy-neu-thong-tuyen-nhieu-loai-benh-4810736.html) - 11:36 31/10/2024
