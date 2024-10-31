@@ -4,7 +4,7 @@ sidebar_position: 23
 ---
 
 <!-- dantri-suc-khoe:START -->
-- 🤔 [TPHCM: Truy tìm bác sĩ cởi áo blouse, nhảy tường bỏ trốn khi thấy thanh tra](https://dantri.com.vn/suc-khoe/tphcm-truy-tim-bac-si-coi-ao-blouse-nhay-tuong-bo-tron-khi-thay-thanh-tra-20241031114318616.htm) - 04:53 31/10/2024
+- 🤔 [Truy tìm bác sĩ ở TPHCM cởi áo blouse, nhảy tường trốn khi thấy thanh tra](https://dantri.com.vn/suc-khoe/truy-tim-bac-si-o-tphcm-coi-ao-blouse-nhay-tuong-tron-khi-thay-thanh-tra-20241031114318616.htm) - 04:53 31/10/2024
 - 🚦 [Chiến sỹ biên phòng cắt lũ, cõng bệnh nhân đi cấp cứu trong đêm](https://dantri.com.vn/suc-khoe/chien-sy-bien-phong-cat-lu-cong-benh-nhan-di-cap-cuu-trong-dem-20241031111430884.htm) - 04:50 31/10/2024
 - 🤖 [Thêm thai phụ bị phòng khám ở TPHCM &quot;vẽ bệnh, moi tiền&quot; trên bàn mổ](https://dantri.com.vn/suc-khoe/them-thai-phu-bi-phong-kham-o-tphcm-ve-benh-moi-tien-tren-ban-mo-20241031103827788.htm) - 04:10 31/10/2024
 - 🐻 [Cảnh báo trẻ em rơi từ lầu cao hôn mê, chấn thương nguy kịch](https://dantri.com.vn/suc-khoe/canh-bao-tre-em-roi-tu-lau-cao-hon-me-chan-thuong-nguy-kich-20241031075446208.htm) - 02:46 31/10/2024
