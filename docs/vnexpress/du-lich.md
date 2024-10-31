@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Côn Đảo giảm 30% giá dịch vụ để hút khách cuối năm](https://vnexpress.net/con-dao-giam-30-gia-dich-vu-de-hut-khach-cuoi-nam-4808309.html) - 05:14 31/10/2024
+- 💂 [Côn Đảo giảm tới 30% giá dịch vụ để hút khách cuối năm](https://vnexpress.net/con-dao-giam-toi-30-gia-dich-vu-de-hut-khach-cuoi-nam-4808309.html) - 05:14 31/10/2024
 - 🪄 [Ngắm chim cánh cụt diễu hành về tổ trên đảo ở Australia](https://vnexpress.net/ngam-chim-canh-cut-dieu-hanh-ve-to-tren-dao-o-australia-4809841.html) - 05:09 31/10/2024
 - 🦅 [Mẹo tìm ra ghế duỗi chân thoải mái trên chuyến bay](https://vnexpress.net/meo-tim-ra-ghe-duoi-chan-thoai-mai-tren-chuyen-bay-4810404.html) - 03:03 31/10/2024
 - 🕴 [Loạt sự cố gây tranh cãi về du lịch mùa mưa bão](https://vnexpress.net/loat-su-co-gay-tranh-cai-ve-du-lich-mua-mua-bao-4809786.html) - 01:15 31/10/2024
