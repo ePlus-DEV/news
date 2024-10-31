@@ -24,7 +24,7 @@ sidebar_position: 1
 - 🦅 [Việt Nam xác minh nhân thân 7 công dân bị ép bán dâm tại Malaysia](https://dantri.com.vn/xa-hoi/viet-nam-xac-minh-nhan-than-7-cong-dan-bi-ep-ban-dam-tai-malaysia-20241031170451777.htm) - 10:11 31/10/2024
 - 🚀 [Láng nhựa mặt đường 4m nhưng nghiệm thu 13m](https://dantri.com.vn/xa-hoi/lang-nhua-mat-duong-4m-nhung-nghiem-thu-13m-20241031154402930.htm) - 10:00 31/10/2024
 - 🦅 [Việt Nam lên tiếng về bầu cử tổng thống Mỹ](https://dantri.com.vn/xa-hoi/viet-nam-len-tieng-ve-bau-cu-tong-thong-my-20241031163824918.htm) - 09:42 31/10/2024
-- 🤠 [Việt Nam phản đối Trung Quốc triển khai thiết bị quân sự trên đảo Tri Tôn](https://dantri.com.vn/xa-hoi/viet-nam-phan-doi-trung-quoc-trien-khai-thiet-bi-quan-su-tren-dao-tri-ton-20241031161204543.htm) - 09:25 31/10/2024
+- 🤠 [Việt Nam yêu cầu thả ngay ngư dân bị bắt trên Biển Đông](https://dantri.com.vn/xa-hoi/viet-nam-yeu-cau-tha-ngay-ngu-dan-bi-bat-tren-bien-dong-20241031161204543.htm) - 09:25 31/10/2024
 - 💄 [Thiếu tá công an trả lại 85 triệu đồng cho người chuyển nhầm](https://dantri.com.vn/xa-hoi/thieu-ta-cong-an-tra-lai-85-trieu-dong-cho-nguoi-chuyen-nham-20241031154738462.htm) - 09:08 31/10/2024
 - 🥷 [Giáo viên áp lực, phải &quot;năn nỉ&quot; phụ huynh đóng bảo hiểm y tế cho học sinh](https://dantri.com.vn/xa-hoi/giao-vien-ap-luc-phai-nan-ni-phu-huynh-dong-bao-hiem-y-te-cho-hoc-sinh-20241031152913940.htm) - 08:57 31/10/2024
 - 👍 [Đà Nẵng ra mắt 2 tổ cảnh sát đặc biệt tinh nhuệ](https://dantri.com.vn/xa-hoi/da-nang-ra-mat-2-to-canh-sat-dac-biet-tinh-nhue-20241031145404211.htm) - 08:29 31/10/2024
