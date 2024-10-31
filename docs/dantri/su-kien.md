@@ -5,7 +5,7 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [&quot;Người dân có quyền quay phim, chụp ảnh giám sát CSGT&quot;](https://dantri.com.vn/xa-hoi/nguoi-dan-co-quyen-quay-phim-chup-anh-giam-sat-csgt-20241031113700655.htm) - 04:58 31/10/2024
-- 👨‍🏫 [TPHCM: Truy tìm bác sĩ cởi áo blouse, nhảy tường bỏ trốn khi thấy thanh tra](https://dantri.com.vn/suc-khoe/tphcm-truy-tim-bac-si-coi-ao-blouse-nhay-tuong-bo-tron-khi-thay-thanh-tra-20241031114318616.htm) - 04:53 31/10/2024
+- 👨‍🏫 [Truy tìm bác sĩ ở TPHCM cởi áo blouse, nhảy tường trốn khi thấy thanh tra](https://dantri.com.vn/suc-khoe/truy-tim-bac-si-o-tphcm-coi-ao-blouse-nhay-tuong-tron-khi-thay-thanh-tra-20241031114318616.htm) - 04:53 31/10/2024
 - 🌮 [Tổng Bí thư: Bộ máy nhà nước quá cồng kềnh, tới đây tiếp tục tinh gọn](https://dantri.com.vn/xa-hoi/tong-bi-thu-bo-may-nha-nuoc-qua-cong-kenh-toi-day-tiep-tuc-tinh-gon-20241031113428308.htm) - 04:50 31/10/2024
 - 🕯 [Chiến sự Ukraine 31/10: Nga chọc thủng phòng tuyến Kiev, ập vào Kurakhovka](https://dantri.com.vn/the-gioi/chien-su-ukraine-3110-nga-choc-thung-phong-tuyen-kiev-ap-vao-kurakhovka-20241031100322382.htm) - 04:19 31/10/2024
 - 🪜 [Thêm thai phụ bị phòng khám ở TPHCM &quot;vẽ bệnh, moi tiền&quot; trên bàn mổ](https://dantri.com.vn/suc-khoe/them-thai-phu-bi-phong-kham-o-tphcm-ve-benh-moi-tien-tren-ban-mo-20241031103827788.htm) - 04:10 31/10/2024
