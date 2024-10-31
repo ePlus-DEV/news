@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Đề nghị cân nhắc việc thông tuyến BHYT do lo ngại &#39;vỡ quỹ&#39;](https://vnexpress.net/de-nghi-can-nhac-viec-thong-tuyen-bhyt-do-lo-ngai-vo-quy-4810736.html) - 11:36 31/10/2024
+- 🚀 [Đại biểu ngành y lo vỡ quỹ nếu thông tuyến nhiều loại bệnh](https://vnexpress.net/dai-bieu-nganh-y-lo-vo-quy-neu-thong-tuyen-nhieu-loai-benh-4810736.html) - 11:36 31/10/2024
 - 🧰 [Ukraine để lọt loạt tên lửa Nga](https://vnexpress.net/ukraine-de-lot-loat-ten-lua-nga-4810764.html) - 11:22 31/10/2024
 - 🥰 [Mức thu nhập của lao động Việt Nam tại các thị trường](https://vnexpress.net/muc-thu-nhap-cua-lao-dong-viet-nam-tai-cac-thi-truong-4810767.html) - 11:21 31/10/2024
 - 🌏 [Việt Nam quan ngại về thông tin Trung Quốc xây dựng radar ở đảo Tri Tôn](https://vnexpress.net/viet-nam-quan-ngai-ve-thong-tin-trung-quoc-xay-dung-radar-o-dao-tri-ton-4810762.html) - 11:13 31/10/2024
