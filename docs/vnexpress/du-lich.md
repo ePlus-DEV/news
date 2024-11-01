@@ -6,7 +6,7 @@ sidebar_position: 11
 <!-- vnexpress-du-lich:START -->
 - 💂 [Dừng chèo thuyền, đạp vịt trên các hồ Đà Lạt](https://vnexpress.net/dung-cheo-thuyen-dap-vit-tren-cac-ho-da-lat-4810976.html) - 10:08 01/11/2024
 - 🪄 [Bảo tàng Lịch sử Quân sự đông nghịt khách ngày mở cửa](https://vnexpress.net/bao-tang-lich-su-quan-su-dong-nghit-khach-ngay-mo-cua-4811122.html) - 09:45 01/11/2024
-- 🦅 [Stress vì đi du lịch cùng người nói nhiều](https://vnexpress.net/stress-vi-di-du-lich-cung-nguoi-noi-nhieu-4810892.html) - 06:15 01/11/2024
+- 🦅 [Cách giảm xung đột giữa người nói nhiều và nói ít khi đi du lịch](https://vnexpress.net/cach-giam-xung-dot-giua-nguoi-noi-nhieu-va-noi-it-khi-di-du-lich-4810892.html) - 06:15 01/11/2024
 - 🕴 [Quán đường phố nổi tiếng Thái Lan bác tin đồn đóng cửa](https://vnexpress.net/quan-duong-pho-noi-tieng-thai-lan-bac-tin-don-dong-cua-4810260.html) - 03:30 01/11/2024
 - 👀 [48 giờ ở Bình Liêu](https://vnexpress.net/48-gio-o-binh-lieu-4810528.html) - 03:00 01/11/2024
 - 🎭 [Hàng nghìn người hóa trang xuống phố đi bộ đêm Halloween](https://vnexpress.net/hang-nghin-nguoi-hoa-trang-xuong-pho-di-bo-dem-halloween-4810831.html) - 23:15 31/10/2024
