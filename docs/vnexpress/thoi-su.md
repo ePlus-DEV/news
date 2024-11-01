@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Chưa tháo dở biệt thự trái phép ở Bình Thuận do mưa bão](https://vnexpress.net/chua-thao-do-biet-thu-trai-phep-o-binh-thuan-do-mua-bao-4811168.html) - 17:00 01/11/2024
+- 🦒 [Chưa tháo dỡ biệt thự trái phép ở Bình Thuận do mưa bão](https://vnexpress.net/chua-thao-do-biet-thu-trai-phep-o-binh-thuan-do-mua-bao-4811168.html) - 17:00 01/11/2024
 - 🤓 [Nhóm thanh thiếu niên bốc đầu xe máy trước ôtô trên quốc lộ](https://vnexpress.net/nhom-thanh-thieu-nien-boc-dau-xe-may-truoc-oto-tren-quoc-lo-4811145.html) - 09:12 01/11/2024
 - ⚗️ [&#39;Người Việt phải nuôi dưỡng thói quen đọc sách&#39;](https://vnexpress.net/nguoi-viet-phai-nuoi-duong-thoi-quen-doc-sach-4811131.html) - 08:46 01/11/2024
 - 🌊 [Đề xuất xây dựng quốc lộ 5 trên cao](https://vnexpress.net/de-xuat-xay-dung-quoc-lo-5-tren-cao-4811101.html) - 08:06 01/11/2024
