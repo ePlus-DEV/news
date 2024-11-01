@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Nhóm thanh thiếu niên bốc đầu trước ôtô trên quốc lộ](https://vnexpress.net/nhom-thanh-thieu-nien-boc-dau-truoc-oto-tren-quoc-lo-4811145.html) - 09:12 01/11/2024
+- 🦒 [Nhóm thanh thiếu niên bốc đầu xe máy trước ôtô trên quốc lộ](https://vnexpress.net/nhom-thanh-thieu-nien-boc-dau-xe-may-truoc-oto-tren-quoc-lo-4811145.html) - 09:12 01/11/2024
 - 🤓 [&#39;Người Việt phải nuôi dưỡng thói quen đọc sách&#39;](https://vnexpress.net/nguoi-viet-phai-nuoi-duong-thoi-quen-doc-sach-4811131.html) - 08:46 01/11/2024
 - ⚗️ [Đề xuất xây dựng quốc lộ 5 trên cao](https://vnexpress.net/de-xuat-xay-dung-quoc-lo-5-tren-cao-4811101.html) - 08:06 01/11/2024
 - 🌊 [Cần Thơ xây tường ngăn nước sông tràn vào bến Ninh Kiều](https://vnexpress.net/can-tho-xay-tuong-ngan-nuoc-song-tran-vao-ben-ninh-kieu-4811082.html) - 07:55 01/11/2024
