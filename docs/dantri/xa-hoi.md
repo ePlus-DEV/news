@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- dantri-xa-hoi:START -->
 - 🫣 [Cách xử lý bất ngờ của chủ bãi rác &quot;mọc&quot; bên đường vành đai ở Đà Nẵng](https://dantri.com.vn/xa-hoi/cach-xu-ly-bat-ngo-cua-chu-bai-rac-moc-ben-duong-vanh-dai-o-da-nang-20241101190252255.htm) - 12:44 01/11/2024
-- 💼 [Phó chủ tịch HĐND Bạc Liêu: Hướng dẫn lòng vòng khiến người dân bức xúc](https://dantri.com.vn/xa-hoi/pho-chu-tich-hdnd-bac-lieu-huong-dan-long-vong-khien-nguoi-dan-buc-xuc-20241101171807331.htm) - 12:37 01/11/2024
+- 💼 [Phó chủ tịch UBND Bạc Liêu: Hướng dẫn lòng vòng khiến người dân bức xúc](https://dantri.com.vn/xa-hoi/pho-chu-tich-ubnd-bac-lieu-huong-dan-long-vong-khien-nguoi-dan-buc-xuc-20241101171807331.htm) - 12:37 01/11/2024
 - 🎊 [Người dân vừa dọn bùn vừa thấp thỏm lo lũ kép](https://dantri.com.vn/xa-hoi/nguoi-dan-vua-don-bun-vua-thap-thom-lo-lu-kep-20241101163643938.htm) - 11:45 01/11/2024
 - 🙉 [Sẽ bố trí gần 600 tỷ đồng &quot;xóa&quot; cầu gỗ bắc qua sông Cái ở Nha Trang](https://dantri.com.vn/xa-hoi/se-bo-tri-gan-600-ty-dong-xoa-cau-go-bac-qua-song-cai-o-nha-trang-20241101163935068.htm) - 11:04 01/11/2024
 - 🕯 [Chuyến đi khai mở thị trường, thu hút dòng vốn Trung Đông của Thủ tướng](https://dantri.com.vn/xa-hoi/chuyen-di-khai-mo-thi-truong-thu-hut-dong-von-trung-dong-cua-thu-tuong-20241101124242880.htm) - 10:06 01/11/2024
