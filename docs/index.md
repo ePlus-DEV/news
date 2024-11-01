@@ -52,7 +52,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤔 [Giám đốc Công ty Cổ phần đường sắt Sài Gòn bị bắt](https://vnexpress.net/giam-doc-cong-ty-co-phan-duong-sat-sai-gon-bi-bat-4811231.html) - 12:48 01/11/2024
 - 🌮 [Ông Bill Clinton vận động tranh cử cho bà Harris](https://vnexpress.net/ong-bill-clinton-van-dong-tranh-cu-cho-ba-harris-4811169.html) - 12:25 01/11/2024
 - 🦩 [Misa có tổng giám đốc mới](https://vnexpress.net/misa-co-tong-giam-doc-moi-4811229.html) - 12:22 01/11/2024
-- 📝 [8 người bị khởi tố do để dự án hồ chứa nước Bản Mồng chậm tiến độ](https://vnexpress.net/8-nguoi-bi-khoi-to-do-de-du-an-ho-chua-nuoc-ban-mong-cham-tien-do-4811227.html) - 12:16 01/11/2024
+- 📝 [8 người bị khởi tố vì dự án hồ chứa nước Bản Mồng chậm tiến độ](https://vnexpress.net/8-nguoi-bi-khoi-to-vi-du-an-ho-chua-nuoc-ban-mong-cham-tien-do-4811227.html) - 12:16 01/11/2024
 - 🕴 [&#39;Biệt đội Avengers&#39; ủng hộ bà Kamala Harris](https://vnexpress.net/biet-doi-avengers-ung-ho-ba-kamala-harris-4811094.html) - 12:12 01/11/2024
 - 🐲 [Bỏ thi thăng hạng giáo viên từ 15/12](https://vnexpress.net/bo-thi-thang-hang-giao-vien-tu-15-12-4811182.html) - 12:12 01/11/2024
 - 🌜 [Anh thích người phụ nữ thẳng thắn và giao tiếp lịch thiệp](https://vnexpress.net/anh-thich-nguoi-phu-nu-thang-than-va-giao-tiep-lich-thiep-4811109.html) - 12:00 01/11/2024
