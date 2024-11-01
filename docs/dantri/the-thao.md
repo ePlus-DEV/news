@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [HLV Ruben Amorim tiết lộ quan trọng về tương lai ở Man Utd](https://dantri.com.vn/the-thao/hlv-ruben-amorim-tiet-lo-quan-trong-ve-tuong-lai-o-man-utd-20241101161717145.htm) - 09:16 01/11/2024
+- 🎡 [HLV Ruben Amorim tiết lộ quan trọng về tương lai ở Man Utd](https://dantri.com.vn/the-thao/hlv-ruben-amorim-tiet-lo-quan-trong-ve-tuong-lai-o-man-utd-20241101161717145.htm) - 10:01 01/11/2024
 - 💯 [HLV Diego Raul: &quot;Tuyển futsal Việt Nam hướng tới chức vô địch&quot;](https://dantri.com.vn/the-thao/hlv-diego-raul-tuyen-futsal-viet-nam-huong-toi-chuc-vo-dich-20241101162814758.htm) - 09:15 01/11/2024
 - ⛽️ [Bầu Đức lên tiếng vụ HAGL tranh chấp tài chính với ngoại binh](https://dantri.com.vn/the-thao/bau-duc-len-tieng-vu-hagl-tranh-chap-tai-chinh-voi-ngoai-binh-20241101154522224.htm) - 08:45 01/11/2024
 - 💃 [Van Nistelrooy quyết tâm đưa Man Utd vượt qua khủng hoảng](https://dantri.com.vn/the-thao/van-nistelrooy-quyet-tam-dua-man-utd-vuot-qua-khung-hoang-20241101094835544.htm) - 02:57 01/11/2024
