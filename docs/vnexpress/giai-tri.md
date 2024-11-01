@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Mỹ nhân Diên Hy công lược được gỡ &#39;phong sát&#39;](https://vnexpress.net/my-nhan-dien-hy-cong-luoc-duoc-go-phong-sat-4811061.html) - 06:18 01/11/2024
-- 💫 [Brooklyn Beckham: Tôi nỗ lực thoát mác &#39;con ông cháu cha&#39;](https://vnexpress.net/brooklyn-beckham-toi-no-luc-thoat-mac-con-ong-chau-cha-4810917.html) - 06:12 01/11/2024
+- 💫 [Brooklyn Beckham: Nỗ lực thoát mác &#39;con ông cháu cha&#39;](https://vnexpress.net/brooklyn-beckham-no-luc-thoat-mac-con-ong-chau-cha-4810917.html) - 06:12 01/11/2024
 - 🌮 [16 nhà mốt tham gia Tuần thời trang Quốc tế Việt Nam](https://vnexpress.net/16-nha-mot-tham-gia-tuan-thoi-trang-quoc-te-viet-nam-4810946.html) - 05:04 01/11/2024
 - 🧠 [Thư Kỳ phối trang phục đầu đông](https://vnexpress.net/thu-ky-phoi-trang-phuc-dau-dong-4810018.html) - 05:00 01/11/2024
 - 👨‍🏫 [Mark Zuckerberg hóa trang thành John Wick](https://vnexpress.net/mark-zuckerberg-hoa-trang-thanh-john-wick-4810970.html) - 04:01 01/11/2024
