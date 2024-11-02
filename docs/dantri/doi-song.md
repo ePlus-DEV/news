@@ -5,7 +5,7 @@ sidebar_position: 18
 
 <!-- dantri-doi-song:START -->
 - 🥳 [Chú mèo &quot;xấu nhất thế giới&quot; đi thi hoa hậu tại TPHCM](https://dantri.com.vn/doi-song/chu-meo-xau-nhat-the-gioi-di-thi-hoa-hau-tai-tphcm-20241102150304627.htm) - 14:20 02/11/2024
-- 🌁 [Người dân Hà Nội chen chúc, xếp hàng dài tham quan Bảo tàng Lịch sử Quân sự](https://dantri.com.vn/doi-song/nguoi-dan-ha-noi-chen-chuc-xep-hang-dai-tham-quan-bao-tang-lich-su-quan-su-20241102195830524.htm) - 13:41 02/11/2024
+- 🌁 [Người dân Hà Nội xếp hàng dài tham quan miễn phí Bảo tàng Lịch sử Quân sự](https://dantri.com.vn/doi-song/nguoi-dan-ha-noi-xep-hang-dai-tham-quan-mien-phi-bao-tang-lich-su-quan-su-20241102195830524.htm) - 13:41 02/11/2024
 - 👀 [Cô gái ăn mặc sang chảnh, &quot;ăn chùa&quot; đám cưới người lạ và không để tiền mừng](https://dantri.com.vn/doi-song/co-gai-an-mac-sang-chanh-an-chua-dam-cuoi-nguoi-la-va-khong-de-tien-mung-20241102125148267.htm) - 06:50 02/11/2024
 - 🐻 [Độc đáo nhà 3 khối rộng 180m2 &quot;trốn&quot; khói bụi ở TPHCM](https://dantri.com.vn/doi-song/doc-dao-nha-3-khoi-rong-180m2-tron-khoi-bui-o-tphcm-20241101161641906.htm) - 02:28 02/11/2024
 - 🦅 [Xóm Đạo Tha La rực sáng trong lễ đốt đèn của người Công giáo](https://dantri.com.vn/doi-song/xom-dao-tha-la-ruc-sang-trong-le-dot-den-cua-nguoi-cong-giao-20241102074718061.htm) - 01:35 02/11/2024
