@@ -35,7 +35,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😺 [Thanh Thủy thay váy chớp nhoáng trên sân khấu Miss International](https://vnexpress.net/thanh-thuy-thay-vay-chop-nhoang-tren-san-khau-miss-international-4811400.html) - 09:32 02/11/2024
 - 🕯 [Trao giải 106 sản phẩm sáng tạo thanh thiếu niên toàn quốc](https://vnexpress.net/trao-giai-106-san-pham-sang-tao-thanh-thieu-nien-toan-quoc-4811427.html) - 09:21 02/11/2024
 - 💃 [Apple hoàn tiền cho người &#39;mua hớ&#39; MacBook Air](https://vnexpress.net/apple-hoan-tien-cho-nguoi-mua-ho-macbook-air-4811421.html) - 09:17 02/11/2024
-- 💂 [Công thức của tôi: năm 2012 mua nhà, 2016 mua xe, 2017 lại mua nhà](https://vnexpress.net/cong-thuc-cua-toi-nam-2012-mua-nha-2016-mua-xe-2017-lai-mua-nha-4811428.html) - 09:06 02/11/2024
+- 💂 [Ôtô mất giá một nửa nhưng hai căn nhà tôi mua tăng giá gấp 5 lần](https://vnexpress.net/oto-mat-gia-mot-nua-nhung-hai-can-nha-toi-mua-tang-gia-gap-5-lan-4811428.html) - 09:06 02/11/2024
 - 🎊 [Nhìn hình đoán ngay câu tục ngữ này là gì?](https://vnexpress.net/nhin-hinh-doan-ngay-cau-tuc-ngu-nay-la-gi-4810960.html) - 09:00 02/11/2024
 - 🤠 [Ho do viêm phế quản khác hen suyễn thế nào](https://vnexpress.net/ho-do-viem-phe-quan-khac-hen-suyen-the-nao-4811389.html) - 09:00 02/11/2024
 - 🌈 [Làm gì giảm trào ngược dạ dày thực quản?](https://vnexpress.net/lam-gi-giam-trao-nguoc-da-day-thuc-quan-4811368.html) - 09:00 02/11/2024
