@@ -13,7 +13,7 @@ sidebar_position: 12
 - 🤡 [Nghỉ việc khi mang bầu 6 tháng, có được hưởng chế độ thai sản?](https://vnexpress.net/nghi-viec-khi-mang-bau-6-thang-co-duoc-huong-che-do-thai-san-4811199.html) - 17:00 01/11/2024
 - 🗽 [Nhân viên khách sạn trộm 2.000 Euro của du khách](https://vnexpress.net/nhan-vien-khach-san-trom-2-000-euro-cua-du-khach-4811224.html) - 13:35 01/11/2024
 - 🌋 [Lấy &#39;trộm&#39; 246 lượng vàng trong kho ngân hàng để chơi chứng khoán](https://vnexpress.net/lay-trom-246-luong-vang-trong-kho-ngan-hang-de-choi-chung-khoan-4806043.html) - 13:10 01/11/2024
-- 🎬 [Giám đốc Công ty Cổ phần đường sắt Sài Gòn bị bắt](https://vnexpress.net/giam-doc-cong-ty-co-phan-duong-sat-sai-gon-bi-bat-4811231.html) - 12:48 01/11/2024
+- 🎬 [Cựu giám đốc Công ty Cổ phần đường sắt Sài Gòn bị bắt](https://vnexpress.net/cuu-giam-doc-cong-ty-co-phan-duong-sat-sai-gon-bi-bat-4811231.html) - 12:48 01/11/2024
 - 💯 [8 người bị khởi tố vì dự án hồ chứa nước Bản Mồng chậm tiến độ](https://vnexpress.net/8-nguoi-bi-khoi-to-vi-du-an-ho-chua-nuoc-ban-mong-cham-tien-do-4811227.html) - 12:16 01/11/2024
 - 🌏 [Cựu bí thư Bắc Ninh bị tuyên hơn 4 năm tù vì nhận hối lộ](https://vnexpress.net/cuu-bi-thu-bac-ninh-bi-tuyen-hon-4-nam-tu-vi-nhan-hoi-lo-4810613.html) - 10:08 01/11/2024
 - 🌊 [Tòa phúc thẩm hủy bản án tuyên cựu phó bí thư tỉnh đoàn Yên Bái vô tội](https://vnexpress.net/toa-phuc-tham-huy-an-vu-cuu-pho-bi-thu-tinh-doan-yen-bai-duoc-vo-toi-4811104.html) - 08:06 01/11/2024
