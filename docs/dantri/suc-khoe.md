@@ -4,7 +4,7 @@ sidebar_position: 23
 ---
 
 <!-- dantri-suc-khoe:START -->
-- 🤔 [Trung tâm tiêm chủng FPT Long Châu kịp thời sơ cứu cho cụ ông bị đột quỵ](https://dantri.com.vn/suc-khoe/trung-tam-tiem-chung-fpt-long-chau-kip-thoi-so-cuu-cho-cu-ong-bi-dot-quy-20241102153246037.htm) - 08:46 02/11/2024
+- 🤔 [Trung tâm tiêm chủng kịp thời sơ cứu cho cụ ông bị đột quỵ](https://dantri.com.vn/suc-khoe/trung-tam-tiem-chung-kip-thoi-so-cuu-cho-cu-ong-bi-dot-quy-20241102153246037.htm) - 08:46 02/11/2024
 - 🚦 [Loại ma túy nguy hiểm nhất, thường ẩn mình trong thuốc lá điện tử](https://dantri.com.vn/khoa-hoc-cong-nghe/loai-ma-tuy-nguy-hiem-nhat-thuong-an-minh-trong-thuoc-la-dien-tu-20241101072351689.htm) - 05:08 02/11/2024
 - 🤖 [Bé 2 tuổi sốc nặng, bác sĩ gắp ra hơn 100 con giun đũa đóng búi trong ruột](https://dantri.com.vn/suc-khoe/be-2-tuoi-soc-nang-bac-si-gap-ra-hon-100-con-giun-dua-dong-bui-trong-ruot-20241102100411677.htm) - 04:48 02/11/2024
 - 🐻 [Viện Y dược học dân tộc TPHCM phải trả lời tại sao buộc thôi việc viên chức](https://dantri.com.vn/suc-khoe/vien-y-duoc-hoc-dan-toc-tphcm-phai-tra-loi-tai-sao-buoc-thoi-viec-vien-chuc-20241101094104492.htm) - 02:30 02/11/2024
