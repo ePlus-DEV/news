@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- dantri-an-sinh:START -->
 - 👺 [Tới chào chia tay, nam lao động Việt bất ngờ vì quà tặng của giám đốc Nhật](https://dantri.com.vn/an-sinh/toi-chao-chia-tay-nam-lao-dong-viet-bat-ngo-vi-qua-tang-cua-giam-doc-nhat-20241102121632444.htm) - 06:14 02/11/2024
-- 👀 [Loạt &quot;ông lớn&quot; ở Bình Định nợ bảo hiểm, hàng nghìn lao động ảnh hưởng](https://dantri.com.vn/an-sinh/loat-ong-lon-o-binh-dinh-no-bao-hiem-hang-nghin-lao-dong-anh-huong-20241101190023796.htm) - 00:00 02/11/2024
+- 👀 [Loạt &quot;ông lớn&quot; ở Bình Định chậm đóng bảo hiểm, hàng nghìn người ảnh hưởng](https://dantri.com.vn/an-sinh/loat-ong-lon-o-binh-dinh-cham-dong-bao-hiem-hang-nghin-nguoi-anh-huong-20241101190023796.htm) - 00:00 02/11/2024
 - 💡 [Từ vụ bé gái ngăn mẹ nhảy cầu: Đừng tước đi mạng sống của đứa trẻ vô tội](https://dantri.com.vn/an-sinh/tu-vu-be-gai-ngan-me-nhay-cau-dung-tuoc-di-mang-song-cua-dua-tre-vo-toi-20241101014310535.htm) - 23:00 01/11/2024
 - 💄 [Hộ nghèo ở TPHCM được hỗ trợ tối đa 90 triệu đồng để mua nhà ở xã hội](https://dantri.com.vn/an-sinh/ho-ngheo-o-tphcm-duoc-ho-tro-toi-da-90-trieu-dong-de-mua-nha-o-xa-hoi-20241101150223049.htm) - 11:20 01/11/2024
 - 🧠 [Rơi nước mắt dòng chữ trên phong bì ông ngoại 96 tuổi tặng cháu dâu](https://dantri.com.vn/an-sinh/roi-nuoc-mat-dong-chu-tren-phong-bi-ong-ngoai-96-tuoi-tang-chau-dau-20241101171456589.htm) - 10:50 01/11/2024
