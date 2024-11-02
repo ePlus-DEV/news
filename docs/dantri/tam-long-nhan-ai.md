@@ -4,7 +4,7 @@ sidebar_position: 20
 ---
 
 <!-- dantri-tam-long-nhan-ai:START -->
-- 🌝 [Thứ trưởng Nguyễn Thị Hà khánh thành điểm trường tạm cuối cùng tại Chi Lăng](https://dantri.com.vn/tam-long-nhan-ai/thu-truong-nguyen-thi-ha-khanh-thanh-diem-truong-tam-cuoi-cung-tai-chi-lang-20241102132346482.htm) - 09:01 02/11/2024
+- 🌝 [Thứ trưởng Nguyễn Thị Hà khánh thành điểm trường Nà Thưa](https://dantri.com.vn/tam-long-nhan-ai/thu-truong-nguyen-thi-ha-khanh-thanh-diem-truong-na-thua-20241102132346482.htm) - 09:01 02/11/2024
 - 🌜 [Mất con, mất cả ngôi nhà sau cơn bão, bà cụ 72 tuổi dựng lều sống ven đường](https://dantri.com.vn/tam-long-nhan-ai/mat-con-mat-ca-ngoi-nha-sau-con-bao-ba-cu-72-tuoi-dung-leu-song-ven-duong-20241025165916511.htm) - 22:30 01/11/2024
 - 👀 [Cha già mắc bệnh hiểm nghèo cầu mong sự sống cho con trai ung thư phổi](https://dantri.com.vn/tam-long-nhan-ai/cha-gia-mac-benh-hiem-ngheo-cau-mong-su-song-cho-con-trai-ung-thu-phoi-20241027224023556.htm) - 22:30 31/10/2024
 - 🚀 [Báo Dân trí khởi công 5 ngôi nhà Nhân ái tại Phú Thọ, Bắc Giang](https://dantri.com.vn/tam-long-nhan-ai/bao-dan-tri-khoi-cong-5-ngoi-nha-nhan-ai-tai-phu-tho-bac-giang-20241031230627736.htm) - 22:00 31/10/2024
