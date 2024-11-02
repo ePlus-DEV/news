@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Ông Nghiêm Xuân Thành làm Bí thư Khánh Hòa](https://vnexpress.net/ong-nghiem-xuan-thanh-lam-bi-thu-khanh-hoa-4811424.html) - 07:49 02/11/2024
 - ⚗️ [Hiện trường tàu trật bánh đường sắt tê liệt 15 giờ](https://vnexpress.net/hien-truong-tau-trat-banh-duong-sat-te-liet-15-gio-4811380.html) - 05:53 02/11/2024
 - 🌊 [Hai học sinh lớp ba mất tích khi tắm sông](https://vnexpress.net/hai-hoc-sinh-lop-ba-mat-tich-khi-tam-song-4811336.html) - 03:02 02/11/2024
-- 🎓 [Lễ Đốt đèn của người Công giáo ở xóm đạo Tha La](https://vnexpress.net/le-dot-den-cua-nguoi-cong-giao-o-xom-dao-tha-la-4811305.html) - 02:10 02/11/2024
+- 🎓 [Lễ Các Đẳng của người Công giáo ở xóm đạo Tha La](https://vnexpress.net/le-cac-dang-cua-nguoi-cong-giao-o-xom-dao-tha-la-4811305.html) - 02:10 02/11/2024
 - 🔥 [Tàu hàng trật bánh, đường sắt Bắc Nam tê liệt](https://vnexpress.net/tau-hang-trat-banh-duong-sat-bac-nam-te-liet-4811308.html) - 02:07 02/11/2024
 - 🦏 [Hình hài TP Huế trực thuộc trung ương năm 2025](https://vnexpress.net/hinh-hai-tp-hue-truc-thuoc-trung-uong-nam-2025-4811296.html) - 01:16 02/11/2024
 - 👺 [Chưa tháo dỡ biệt thự trái phép ở Bình Thuận do mưa bão](https://vnexpress.net/chua-thao-do-biet-thu-trai-phep-o-binh-thuan-do-mua-bao-4811168.html) - 17:00 01/11/2024
