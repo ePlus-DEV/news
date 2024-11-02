@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cháy căn hộ ở TP HCM, hàng trăm cư dân sơ tán](https://vnexpress.net/chay-can-ho-o-tp-hcm-hang-tram-cu-dan-so-tan-4811487.html) - 14:49 02/11/2024
+- 🦒 [Cháy chung cư ở TP HCM, hàng trăm cư dân sơ tán](https://vnexpress.net/chay-chung-cu-o-tp-hcm-hang-tram-cu-dan-so-tan-4811487.html) - 14:49 02/11/2024
 - 🤓 [Hàng loạt tháp Chăm hư hại](https://vnexpress.net/hang-loat-thap-cham-hu-hai-4811391.html) - 08:00 02/11/2024
 - ⚗️ [Ông Nghiêm Xuân Thành làm Bí thư Khánh Hòa](https://vnexpress.net/ong-nghiem-xuan-thanh-lam-bi-thu-khanh-hoa-4811424.html) - 07:49 02/11/2024
 - 🌊 [Hiện trường tàu trật bánh đường sắt tê liệt 15 giờ](https://vnexpress.net/hien-truong-tau-trat-banh-duong-sat-te-liet-15-gio-4811380.html) - 05:53 02/11/2024
