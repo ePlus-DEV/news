@@ -5,7 +5,7 @@ sidebar_position: 18
 
 <!-- dantri-doi-song:START -->
 - 🥳 [Độc đáo nhà 3 khối rộng 180m2 &quot;trốn&quot; khói bụi ở TPHCM](https://dantri.com.vn/doi-song/doc-dao-nha-3-khoi-rong-180m2-tron-khoi-bui-o-tphcm-20241101161641906.htm) - 02:28 02/11/2024
-- 🌁 [Xóm Đạo Tha La rực sáng trong lễ đốt đèn](https://dantri.com.vn/doi-song/xom-dao-tha-la-ruc-sang-trong-le-dot-den-20241102074718061.htm) - 01:35 02/11/2024
+- 🌁 [Xóm Đạo Tha La rực sáng trong lễ đốt đèn của người Công giáo](https://dantri.com.vn/doi-song/xom-dao-tha-la-ruc-sang-trong-le-dot-den-cua-nguoi-cong-giao-20241102074718061.htm) - 01:35 02/11/2024
 - 👀 [Những người phụ nữ làm công việc trông mộ, &quot;giúp việc&quot; cho... người chết](https://dantri.com.vn/doi-song/nhung-nguoi-phu-nu-lam-cong-viec-trong-mo-giup-viec-cho-nguoi-chet-20241101112808958.htm) - 23:08 01/11/2024
 - 🐻 [HEINEKEN Việt Nam cùng miền Bắc khắc phục hậu quả bão Yagi](https://dantri.com.vn/doi-song/heineken-viet-nam-cung-mien-bac-khac-phuc-hau-qua-bao-yagi-20241101165009606.htm) - 10:00 01/11/2024
 - 🦅 [Giúp việc vứt cái đệm chứa 1,3 tỷ đồng ra bãi rác, chủ nhà suýt bị đau tim](https://dantri.com.vn/doi-song/giup-viec-vut-cai-dem-chua-13-ty-dong-ra-bai-rac-chu-nha-suyt-bi-dau-tim-20241101155840569.htm) - 09:23 01/11/2024
