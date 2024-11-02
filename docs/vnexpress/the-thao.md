@@ -4,8 +4,8 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Salah giúp Liverpool thắng ngược](https://vnexpress.net/salah-giup-liverpool-thang-nguoc-4811500.html) - 17:08 02/11/2024
-- 🦩 [Man City thua trận đầu ở Ngoại hạng Anh mùa này](https://vnexpress.net/man-city-thua-tran-dau-o-ngoai-hang-anh-mua-nay-4811501.html) - 17:00 02/11/2024
+- 🪜 [Salah giúp Liverpool chiếm đỉnh bảng Ngoại hạng Anh](https://vnexpress.net/salah-giup-liverpool-chiem-dinh-bang-ngoai-hang-anh-4811500.html) - 17:08 02/11/2024
+- 🦩 [Man City đứt chuỗi 32 trận bất bại ở Ngoại hạng Anh](https://vnexpress.net/man-city-dut-chuoi-32-tran-bat-bai-o-ngoai-hang-anh-4811501.html) - 17:00 02/11/2024
 - 🧰 [Công Phượng lập cú đúp ở giải hạng Nhất](https://vnexpress.net/cong-phuong-lap-cu-dup-o-giai-hang-nhat-4811478.html) - 14:27 02/11/2024
 - 🤗 [Arsenal thua trên sân Newcastle](https://vnexpress.net/arsenal-thua-tren-san-newcastle-4811470.html) - 14:26 02/11/2024
 - 🥳 [Tiến Linh giúp Bình Dương đè bẹp HAGL](https://vnexpress.net/tien-linh-giup-binh-duong-de-bep-hagl-4811469.html) - 13:31 02/11/2024
