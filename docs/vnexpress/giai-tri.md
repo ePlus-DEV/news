@@ -18,7 +18,7 @@ sidebar_position: 5
 - 🧑‍🏫 [Gu mặc tôn eo của Hiền Thục](https://vnexpress.net/gu-mac-ton-eo-cua-hien-thuc-4808329.html) - 12:00 02/11/2024
 - 🦄 [Thanh Thủy thay váy chớp nhoáng trên sân khấu Miss International](https://vnexpress.net/thanh-thuy-thay-vay-chop-nhoang-tren-san-khau-miss-international-4811400.html) - 09:32 02/11/2024
 - 💫 [&#39;Gladiator 2&#39; và loạt bom tấn Hollywood ra rạp tháng 11](https://vnexpress.net/gladiator-2-va-loat-bom-tan-hollywood-ra-rap-thang-11-4810696.html) - 06:39 02/11/2024
-- 🎊 [Celine Dion khen Adele là giọng ca &quot;xuất sắc&quot;](https://vnexpress.net/celine-dion-khen-adele-la-giong-ca-xuat-sac-4811338.html) - 05:19 02/11/2024
+- 🎊 [Celine Dion khen Adele là giọng ca &#39;xuất sắc&#39;](https://vnexpress.net/celine-dion-khen-adele-la-giong-ca-xuat-sac-4811338.html) - 05:19 02/11/2024
 - 👹 [Tranh của &#39;ông hoàng pop art&#39; Andy Warhol bị trộm](https://vnexpress.net/tranh-cua-ong-hoang-pop-art-andy-warhol-bi-trom-4811313.html) - 04:59 02/11/2024
 - 💻 [Giá trị bảo vật bàn thờ Phật bằng đá ở chùa Phổ Quang](https://vnexpress.net/gia-tri-bao-vat-ban-tho-phat-bang-da-o-chua-pho-quang-4807856.html) - 04:28 02/11/2024
 - 🤡 [Chồng Huỳnh Thánh Y: &#39;Vợ không còn giá trị lớn với tôi&#39;](https://vnexpress.net/chong-huynh-thanh-y-vo-khong-con-gia-tri-lon-voi-toi-4811086.html) - 01:33 02/11/2024
