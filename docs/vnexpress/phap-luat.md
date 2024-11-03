@@ -8,7 +8,7 @@ sidebar_position: 12
 - 🥰 [Giám đốc bị bắt vì lấy 12 tỷ đồng tiêu xài](https://vnexpress.net/giam-doc-bi-bat-vi-lay-12-ty-dong-tieu-xai-4811641.html) - 12:56 03/11/2024
 - 🎓 [Cựu Bí thư và cựu Chủ tịch tỉnh Thanh Hóa bị truy tố cùng vụ án](https://vnexpress.net/cuu-bi-thu-va-cuu-chu-tich-tinh-thanh-hoa-bi-truy-to-cung-vu-an-4811642.html) - 12:45 03/11/2024
 - 🤓 [Nhóm trộm ngân hàng sa lưới vì chiếc AirTag bỏ quên](https://vnexpress.net/nhom-trom-ngan-hang-sa-luoi-vi-chiec-airtag-bo-quen-4811637.html) - 12:35 03/11/2024
-- 🎊 [Kiện vì bố để lại hết tài sản cho người giúp việc](https://vnexpress.net/kien-vi-bo-de-lai-het-tai-san-cho-giup-viec-4811633.html) - 12:34 03/11/2024
+- 🎊 [Khởi kiện vì bố để lại hết tài sản cho người giúp việc](https://vnexpress.net/kien-vi-bo-de-lai-het-tai-san-cho-giup-viec-4811633.html) - 12:34 03/11/2024
 - 🙉 [Tống tiền bạn gái cũ bằng ảnh &#39;nóng&#39;](https://vnexpress.net/tong-tien-ban-gai-cu-bang-anh-nong-4811623.html) - 10:01 03/11/2024
 - 🤡 [Trùm xã hội đen Bình &#39;Kiểm&#39; lại bị bắt](https://vnexpress.net/trum-xa-hoi-den-binh-kiem-lai-bi-bat-4811592.html) - 06:52 03/11/2024
 - 🗽 [Cảnh sát vây bắt phạm nhân trốn trong ống cống trại giam](https://vnexpress.net/canh-sat-vay-bat-pham-nhan-tron-trong-ong-cong-trai-giam-4811588.html) - 06:14 03/11/2024
