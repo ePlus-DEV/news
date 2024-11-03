@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Son Heun Min thất vọng, Tottenham ngược dòng hạ Aston Villa](https://dantri.com.vn/the-thao/son-heun-min-that-vong-tottenham-nguoc-dong-ha-aston-villa-20241103234420049.htm) - 16:57 03/11/2024
-- 💯 [Man Utd 0-0 Chelsea &lpar;hiệp 2&rpar;: Giằng co quyết liệt](https://dantri.com.vn/the-thao/man-utd-0-0-chelsea-hiep-2-giang-co-quyet-liet-20241103230006230.htm) - 16:00 03/11/2024
+- 💯 [Man Utd 1-1 Chelsea &lpar;hiệp 2&rpar;:  Siêu phẩm của Caicedo](https://dantri.com.vn/the-thao/man-utd-1-1-chelsea-hiep-2-sieu-pham-cua-caicedo-20241103230006230.htm) - 16:00 03/11/2024
 - ⛽️ [Ngoại binh tỏa sáng rực rỡ, CLB Công an Hà Nội giành ngôi đầu V-League](https://dantri.com.vn/the-thao/ngoai-binh-toa-sang-ruc-ro-clb-cong-an-ha-noi-gianh-ngoi-dau-v-league-20241103214339658.htm) - 14:51 03/11/2024
 - 💃 [Thủng lưới ở phút 90+6, Thanh Hóa chia điểm đáng tiếc trước Hà Nội FC](https://dantri.com.vn/the-thao/thung-luoi-o-phut-906-thanh-hoa-chia-diem-dang-tiec-truoc-ha-noi-fc-20241103201021814.htm) - 13:18 03/11/2024
 - 🌈 [Thể Công Viettel lỡ cơ hội bứt phá ở ngôi đầu bảng V-League](https://dantri.com.vn/the-thao/the-cong-viettel-lo-co-hoi-but-pha-o-ngoi-dau-bang-v-league-20241103191450054.htm) - 12:41 03/11/2024
