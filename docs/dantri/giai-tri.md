@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Sự thật nghi vấn người đẹp Panama về nước sớm vì xô xát với bạn cùng phòng](https://dantri.com.vn/giai-tri/su-that-nghi-van-nguoi-dep-panama-ve-nuoc-som-vi-xo-xat-voi-ban-cung-phong-20241103102250864.htm) - 04:00 03/11/2024
+- 🤩 [Nguyên nhân người đẹp Panama phải về nước sớm tại Hoa hậu Hoàn vũ 2024](https://dantri.com.vn/giai-tri/nguyen-nhan-nguoi-dep-panama-phai-ve-nuoc-som-tai-hoa-hau-hoan-vu-2024-20241103102250864.htm) - 04:00 03/11/2024
 - 🔥 [Minh Hằng khoe vũ đạo quyến rũ, Phương Thanh rơi nước mắt tại &quot;Chị đẹp&quot;](https://dantri.com.vn/giai-tri/minh-hang-khoe-vu-dao-quyen-ru-phuong-thanh-roi-nuoc-mat-tai-chi-dep-20241103053403630.htm) - 00:36 03/11/2024
 - 🚀 [10 kiểu trang sức mới lạ, độc đáo đang được giới mộ điệu săn đón](https://dantri.com.vn/giai-tri/10-kieu-trang-suc-moi-la-doc-dao-dang-duoc-gioi-mo-dieu-san-don-20241030130434447.htm) - 00:14 03/11/2024
 - 🔥 [Ứng viên sáng giá 19 tuổi bất ngờ rút khỏi cuộc thi Hoa hậu Hoàn vũ 2024](https://dantri.com.vn/giai-tri/ung-vien-sang-gia-19-tuoi-bat-ngo-rut-khoi-cuoc-thi-hoa-hau-hoan-vu-2024-20241102105536956.htm) - 12:00 02/11/2024
