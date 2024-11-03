@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Man Utd bị dự đoán có kết cục thảm họa dù thay HLV](https://dantri.com.vn/the-thao/man-utd-bi-du-doan-co-ket-cuc-tham-hoa-du-thay-hlv-20241103164359867.htm) - 09:43 03/11/2024
+- 🎡 [Man Utd bị dự đoán có kết cục thảm họa dù thay HLV](https://dantri.com.vn/the-thao/man-utd-bi-du-doan-co-ket-cuc-tham-hoa-du-thay-hlv-20241103164359867.htm) - 10:05 03/11/2024
 - 💯 [Báo Anh: &quot;Kyle Walker khiến Man City thua đau đớn Bournemouth&quot;](https://dantri.com.vn/the-thao/bao-anh-kyle-walker-khien-man-city-thua-dau-don-bournemouth-20241103103214021.htm) - 06:48 03/11/2024
 - ⛽️ [Man City trả giá cực đắt sau trận thua sốc](https://dantri.com.vn/the-thao/man-city-tra-gia-cuc-dat-sau-tran-thua-soc-20241103124507447.htm) - 05:44 03/11/2024
 - 💃 [Nhận định Man Utd - Chelsea &lpar;23h00, ngày 3/11&rpar;: Khát vọng bứt phá](https://dantri.com.vn/the-thao/nhan-dinh-man-utd-chelsea-23h00-ngay-311-khat-vong-but-pha-20241103094321730.htm) - 02:48 03/11/2024
