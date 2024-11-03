@@ -33,7 +33,7 @@ sidebar_position: 16
 - ⛽️ [Nguyên nhân người đẹp Panama phải về nước sớm tại Hoa hậu Hoàn vũ 2024](https://dantri.com.vn/giai-tri/nguyen-nhan-nguoi-dep-panama-phai-ve-nuoc-som-tai-hoa-hau-hoan-vu-2024-20241103102250864.htm) - 04:00 03/11/2024
 - 🥷 [Ukraine mổ xẻ chiến thuật không kích bầy đàn của UAV Nga](https://dantri.com.vn/the-gioi/ukraine-mo-xe-chien-thuat-khong-kich-bay-dan-cua-uav-nga-20241103105046018.htm) - 03:59 03/11/2024
 - 🤖 [Nga triển khai vũ khí mới trong cuộc đua UAV với Ukraine](https://dantri.com.vn/the-gioi/nga-trien-khai-vu-khi-moi-trong-cuoc-dua-uav-voi-ukraine-20241103103033845.htm) - 03:46 03/11/2024
-- 🌊 [Nhận định Man Utd - Chelsea &lpar;23h00, ngày 3/11&rpar;: Khát vọng bứt phá](https://dantri.com.vn/the-thao/nhan-dinh-man-utd-chelsea-23h00-ngay-311-khat-vong-but-pha-20241103094321730.htm) - 02:48 03/11/2024
+- 🌊 [Nhận định Man Utd - Chelsea &lpar;23h30, ngày 3/11&rpar;: Khát vọng bứt phá](https://dantri.com.vn/the-thao/nhan-dinh-man-utd-chelsea-23h30-ngay-311-khat-vong-but-pha-20241103094321730.htm) - 02:48 03/11/2024
 - 🔥 [Lionel Messi &quot;tắt điện&quot;, Inter Miami thua ngược vô cùng đau đớn](https://dantri.com.vn/the-thao/lionel-messi-tat-dien-inter-miami-thua-nguoc-vo-cung-dau-don-20241103094035838.htm) - 02:40 03/11/2024
 - 🦏 [Hào Sĩ Phường: Con hẻm hơn 100 tuổi ở TPHCM](https://dantri.com.vn/doi-song/hao-si-phuong-con-hem-hon-100-tuoi-o-tphcm-20241103092829437.htm) - 02:28 03/11/2024
 - 🐘 [Giá đất huyện Hoài Đức ra sao trước thềm đấu giá 52 lô?](https://dantri.com.vn/bat-dong-san/gia-dat-huyen-hoai-duc-ra-sao-truoc-them-dau-gia-52-lo-20241102164545578.htm) - 01:28 03/11/2024
