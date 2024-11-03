@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Không công bố điểm xét tuyển sớm - công bằng hơn hay tăng áp lực?](https://vnexpress.net/khong-cong-bo-diem-xet-tuyen-som-cong-bang-hon-hay-tang-ap-luc-4810855.html) - 03:59 03/11/2024
+- 🤓 [Công bố điểm xét tuyển sớm sau 31/5 giúp &#39;hạn chế tiêu cực&#39;](https://vnexpress.net/cong-bo-diem-xet-tuyen-som-sau-31-5-giup-han-che-tieu-cuc-4810855.html) - 03:59 03/11/2024
 - 🦆 [Một tỉnh ở Canada không cho sinh viên quốc tế học ngành Y](https://vnexpress.net/mot-tinh-o-canada-khong-cho-sinh-vien-quoc-te-hoc-nganh-y-4811134.html) - 00:56 03/11/2024
 - 🦩 [Nữ sinh Học viện Kỹ thuật quân sự mê tìm hiểu mã độc](https://vnexpress.net/nu-sinh-hoc-vien-ky-thuat-quan-su-me-tim-hieu-ma-doc-4811371.html) - 23:18 02/11/2024
 - 🌮 [Lãnh thổ nước nào có hình chiếc ủng?](https://vnexpress.net/lanh-tho-nuoc-nao-co-hinh-chiec-ung-4811265.html) - 13:39 02/11/2024
