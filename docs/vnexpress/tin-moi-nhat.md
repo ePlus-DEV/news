@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Bảo Lộc ngập sau mưa lớn](https://vnexpress.net/tp-bao-loc-bi-ngap-4811639.html) - 11:50 03/11/2024
+- 🎬 [Bảo Lộc ngập sâu sau mưa lớn](https://vnexpress.net/tp-bao-loc-bi-ngap-4811639.html) - 11:50 03/11/2024
 - 🐎 [Học sinh của tôi cắm mặt vào điện thoại suốt giờ ra chơi](https://vnexpress.net/hoc-sinh-cua-toi-cam-mat-vao-dien-thoai-suot-gio-ra-choi-4811610.html) - 11:16 03/11/2024
 - 🦍 [Em nhẹ nhàng, biết lắng nghe và thấu hiểu](https://vnexpress.net/em-nhe-nhang-biet-lang-nghe-va-thau-hieu-4811404.html) - 11:00 03/11/2024
 - 🏊 [&#39;Cơn sốt&#39; Han Kang vực dậy văn hóa đọc ở Hàn Quốc](https://vnexpress.net/con-sot-han-kang-vuc-day-van-hoa-doc-o-han-quoc-4811548.html) - 10:59 03/11/2024
