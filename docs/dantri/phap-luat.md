@@ -4,7 +4,7 @@ sidebar_position: 8
 ---
 
 <!-- dantri-phap-luat:START -->
-- 🌊 [Bắt tạm giam Giám đốc công ty Hoàng Thông](https://dantri.com.vn/phap-luat/bat-tam-giam-giam-doc-cong-ty-hoang-thong-20241103134010120.htm) - 07:05 03/11/2024
+- 🌊 [Bắt tạm giam Giám đốc Công ty Hoàng Thông](https://dantri.com.vn/phap-luat/bat-tam-giam-giam-doc-cong-ty-hoang-thong-20241103134010120.htm) - 07:05 03/11/2024
 - 🐲 [Bút phê của Bí thư Lâm Đồng giúp ông Nguyễn Cao Trí bỏ túi 2.700 tỷ đồng](https://dantri.com.vn/phap-luat/but-phe-cua-bi-thu-lam-dong-giup-ong-nguyen-cao-tri-bo-tui-2700-ty-dong-20241103132010972.htm) - 06:28 03/11/2024
 - 🌁 [Loạt đại gia phải trả cho bà Trương Mỹ Lan gần 20.000 tỷ đồng](https://dantri.com.vn/phap-luat/loat-dai-gia-phai-tra-cho-ba-truong-my-lan-gan-20000-ty-dong-20241102092008333.htm) - 06:02 03/11/2024
 - 🎃 [Vừa ra tù, giang hồ Bình &quot;Kiểm&quot; lại bị bắt](https://dantri.com.vn/phap-luat/vua-ra-tu-giang-ho-binh-kiem-lai-bi-bat-20241103123214602.htm) - 05:37 03/11/2024
