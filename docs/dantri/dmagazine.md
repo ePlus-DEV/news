@@ -4,7 +4,7 @@ sidebar_position: 27
 ---
 
 <!-- dantri-dmagazine:START -->
-- 👨‍🏫 [Nhà hiền triết sân cỏ lịch lãm Rodri và trò lố của Real Madrid](https://dantri.com.vn/the-thao/nha-hien-triet-san-co-lich-lam-rodri-va-tro-lo-cua-real-madrid-20241102142956736.htm) - 02:28 04/11/2024
+- 👨‍🏫 [Nhà hiền triết sân cỏ lịch lãm Rodri và trò lố của Real Madrid](https://dantri.com.vn/the-thao/nha-hien-triet-san-co-lich-lam-rodri-va-tro-lo-cua-real-madrid-20241102142956736.htm) - 08:00 04/11/2024
 - 🎡 [Quốc hội xây &quot;cao tốc chính sách&quot; để giao thông đi trước mở đường](https://dantri.com.vn/xa-hoi/quoc-hoi-xay-cao-toc-chinh-sach-de-giao-thong-di-truoc-mo-duong-20241103085242576.htm) - 22:18 03/11/2024
 - 😎 [5 chai bia bằng cốc trà sữa: Người Việt lạc trôi trong &quot;niềm vui rẻ&quot;](https://dantri.com.vn/suc-khoe/5-chai-bia-bang-coc-tra-sua-nguoi-viet-lac-troi-trong-niem-vui-re-20241031153229234.htm) - 00:31 02/11/2024
 - 🦍 [Trò hề quanh Messi từ FIFA và đứa trẻ chưa lớn Ronaldo](https://dantri.com.vn/the-thao/tro-he-quanh-messi-tu-fifa-va-dua-tre-chua-lon-ronaldo-20241029175221162.htm) - 20:33 30/10/2024
