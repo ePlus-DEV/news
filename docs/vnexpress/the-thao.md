@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Neville: &#39;Rashford và Garnacho cần được huấn luyện lại&#39;](https://vnexpress.net/neville-rashford-va-garnacho-can-duoc-huan-luyen-lai-4812000.html) - 12:24 04/11/2024
 - 🦩 [Guardiola: &#39;Lịch thi đấu Ngoại hạng Anh chẳng khác gì NBA&#39;](https://vnexpress.net/guardiola-lich-thi-dau-ngoai-hang-anh-chang-khac-gi-nba-4812076.html) - 12:10 04/11/2024
 - 🧰 [HLV Kim Sang-sik do thám Indonesia, Philippines](https://vnexpress.net/hlv-kim-sang-sik-do-tham-indonesia-philippines-4812061.html) - 11:55 04/11/2024
-- 🤗 [Thượng tầng Arsenal xáo trộn](https://vnexpress.net/thuong-tang-arsenal-xao-tron-4812002.html) - 09:09 04/11/2024
+- 🤗 [Giám đốc thể thao Edu rời Arsenal](https://vnexpress.net/giam-doc-the-thao-edu-roi-arsenal-4812002.html) - 09:09 04/11/2024
 - 🥳 [Tay vợt Trung Quốc không tin vào tình bạn trong tennis](https://vnexpress.net/tay-vot-trung-quoc-khong-tin-vao-tinh-ban-trong-tennis-4811989.html) - 08:42 04/11/2024
 - 🦣 [Bốn cặp đấu tứ kết giải bóng rổ trẻ - Cup Ziaja](https://vnexpress.net/bon-cap-dau-tu-ket-giai-bong-ro-tre-cup-ziaja-4810962.html) - 08:31 04/11/2024
 - 🌜 [Sydney Marathon trở thành giải major thứ bảy](https://vnexpress.net/sydney-marathon-tro-thanh-giai-major-thu-bay-4811947.html) - 08:16 04/11/2024
