@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Kiptoo mất ngôi vô địch giải marathon vì lỗi đăng ký hi hữu](https://vnexpress.net/kiptoo-mat-ngoi-vo-dich-giai-marathon-vi-loi-dang-ky-hi-huu-4811833.html) - 21:00 04/11/2024
+- 🪜 [Kiptoo mất ngôi vô địch giải marathon vì lỗi đăng ký](https://vnexpress.net/kiptoo-mat-ngoi-vo-dich-giai-marathon-vi-loi-dang-ky-4811833.html) - 21:00 04/11/2024
 - 🦩 [Neville: &#39;Rashford và Garnacho cần được huấn luyện lại&#39;](https://vnexpress.net/neville-rashford-va-garnacho-can-duoc-huan-luyen-lai-4812000.html) - 12:24 04/11/2024
 - 🧰 [Guardiola: &#39;Lịch thi đấu Ngoại hạng Anh chẳng khác gì NBA&#39;](https://vnexpress.net/guardiola-lich-thi-dau-ngoai-hang-anh-chang-khac-gi-nba-4812076.html) - 12:10 04/11/2024
 - 🤗 [HLV Kim Sang-sik do thám Indonesia, Philippines](https://vnexpress.net/hlv-kim-sang-sik-do-tham-indonesia-philippines-4812061.html) - 11:55 04/11/2024
