@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Giám đốc thể thao đầu tiên chia tay Arsenal](https://vnexpress.net/giam-doc-the-thao-dau-tien-chia-tay-arsenal-4812002.html) - 09:09 04/11/2024
+- 🪜 [Thượng tầng Arsenal xáo trộn](https://vnexpress.net/thuong-tang-arsenal-xao-tron-4812002.html) - 09:09 04/11/2024
 - 🦩 [Tay vợt Trung Quốc không tin vào tình bạn trong tennis](https://vnexpress.net/tay-vot-trung-quoc-khong-tin-vao-tinh-ban-trong-tennis-4811989.html) - 08:42 04/11/2024
 - 🧰 [Sydney Marathon trở thành giải major thứ bảy](https://vnexpress.net/sydney-marathon-tro-thanh-giai-major-thu-bay-4811947.html) - 08:16 04/11/2024
 - 🤗 [Verstappen vượt khó, tiến sát ngôi vô địch F1 2024](https://vnexpress.net/verstappen-vuot-kho-tien-sat-ngoi-vo-dich-f1-2024-4811915.html) - 05:00 04/11/2024
