@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Đỉnh núi cao nhất miền Trung thuộc tỉnh nào?](https://vnexpress.net/dinh-nui-cao-nhat-mien-trung-thuoc-tinh-nao-4812051.html) - 13:26 04/11/2024
 - 🦆 [Đề xuất giảm tỷ lệ phân luồng học nghề sau lớp 9](https://vnexpress.net/de-xuat-giam-ty-le-phan-luong-hoc-nghe-sau-lop-9-4811960.html) - 12:39 04/11/2024
-- 🦩 [Nữ sinh hai lần giành giải nhất quốc gia, đạt điểm SAT tuyệt đối](https://vnexpress.net/nu-sinh-hai-lan-gianh-giai-nhat-quoc-gia-dat-diem-sat-tuyet-doi-4811755.html) - 12:00 04/11/2024
+- 🦩 [Nữ sinh đạt điểm SAT tuyệt đối](https://vnexpress.net/nu-sinh-dat-diem-sat-tuyet-doi-4811755.html) - 12:00 04/11/2024
 - 🌮 [567 ứng viên đạt chuẩn giáo sư, phó giáo sư năm 2024](https://vnexpress.net/567-ung-vien-dat-chuan-giao-su-pho-giao-su-nam-2024-4811930.html) - 08:00 04/11/2024
 - 🔭 [Ba nghĩa khác của từ &#39;shower&#39;](https://vnexpress.net/ba-nghia-khac-cua-tu-shower-4811517.html) - 05:00 04/11/2024
 - 💡 [Du học sinh Việt tại Australia nhận lương cao nhất 59.000 USD sau tốt nghiệp](https://vnexpress.net/du-hoc-sinh-viet-tai-australia-nhan-luong-cao-nhat-59-000-usd-sau-tot-nghiep-4811686.html) - 03:00 04/11/2024
