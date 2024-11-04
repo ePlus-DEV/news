@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Ba nghĩa khác của từ &#39;shower&#39;](https://vnexpress.net/ba-nghia-khac-cua-tu-shower-4811517.html) - 05:00 04/11/2024
-- 🦆 [Du học sinh Việt tại Australia nhận lương 64.000-90.000 AUD sau tốt nghiệp](https://vnexpress.net/du-hoc-sinh-viet-tai-australia-nhan-luong-64-000-90-000-aud-sau-tot-nghiep-4811686.html) - 03:00 04/11/2024
+- 🦆 [Du học sinh Việt tại Australia nhận lương cao nhất 59.000 USD sau tốt nghiệp](https://vnexpress.net/du-hoc-sinh-viet-tai-australia-nhan-luong-cao-nhat-59-000-usd-sau-tot-nghiep-4811686.html) - 03:00 04/11/2024
 - 🦩 [Đại học &#39;trả lương&#39; cho nghiên cứu sinh tiến sĩ](https://vnexpress.net/dai-hoc-tra-luong-cho-nghien-cuu-sinh-tien-si-4809244.html) - 23:41 03/11/2024
 - 🌮 [Học văn bằng hai Sư phạm Văn hay Ngôn ngữ Trung?](https://vnexpress.net/hoc-van-bang-hai-su-pham-van-hay-ngon-ngu-trung-4811449.html) - 16:59 03/11/2024
 - 🔭 [Hàng chục nghìn trường mẫu giáo Trung Quốc đóng cửa](https://vnexpress.net/hang-chuc-nghin-truong-mau-giao-trung-quoc-dong-cua-4809316.html) - 14:26 03/11/2024
