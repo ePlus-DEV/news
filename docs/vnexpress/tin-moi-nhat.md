@@ -59,4 +59,5 @@ sidebar_position: 9
 - 💄 [Anh chỉ duy trì mối quan hệ mập mờ với em](https://vnexpress.net/anh-chi-duy-tri-moi-quan-he-map-mo-voi-em-4812067.html) - 12:00 04/11/2024
 - 🤡 [HLV Kim Sang-sik do thám Indonesia, Philippines](https://vnexpress.net/hlv-kim-sang-sik-do-tham-indonesia-philippines-4812061.html) - 11:55 04/11/2024
 - ⛽️ [Núi lửa Indonesia phun trào, thiêu rụi nhiều nhà dân](https://vnexpress.net/nui-lua-indonesia-phun-trao-thieu-rui-nhieu-nha-dan-4812084.html) - 11:33 04/11/2024
-- 🚀 [Những món ăn giúp cơ thể tăng cơ, dẻo dai](https://vnexpress.net/nhung-mon-an-giup-co-the-tang-co-deo-dai-4811848.html) - 11:30 04/11/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🚀 [Những món ăn giúp cơ thể tăng cơ, dẻo dai](https://vnexpress.net/nhung-mon-an-giup-co-the-tang-co-deo-dai-4811848.html) - 11:30 04/11/2024
+- 🌜 [OPEC+ lại hoãn kế hoạch tăng bơm dầu](https://vnexpress.net/opec-lai-hoan-ke-hoach-tang-bom-dau-4811845.html) - 11:05 04/11/2024<!-- vnexpress-tin-moi-nhat:END -->
