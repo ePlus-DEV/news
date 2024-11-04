@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [&#39;Một bộ phận cán bộ coi nhẹ việc chống lãng phí&#39;](https://vnexpress.net/mot-bo-phan-can-bo-coi-nhe-viec-chong-lang-phi-4811759.html) - 02:54 04/11/2024
+- 🦒 [&#39;Chống lãng phí chưa hiệu quả vì tư duy nhiệm kỳ&#39;](https://vnexpress.net/chong-lang-phi-chua-hieu-qua-vi-tu-duy-nhiem-ky-4811759.html) - 02:54 04/11/2024
 - 🤓 [Nam du khách bị sóng cuốn ở Phú Quý đã tử vong](https://vnexpress.net/nam-du-khach-bi-song-cuon-o-phu-quy-da-tu-vong-4811718.html) - 02:32 04/11/2024
 - ⚗️ [Tranh cãi khi xóa chữ &#39;Sơn Hải bảo hành 10 năm&#39; trên cao tốc](https://vnexpress.net/tranh-cai-khi-xoa-chu-son-hai-bao-hanh-10-nam-tren-cao-toc-4811653.html) - 17:00 03/11/2024
 - 🌊 [Bảo Lộc ngập sâu sau mưa lớn](https://vnexpress.net/tp-bao-loc-bi-ngap-4811639.html) - 11:50 03/11/2024
