@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Đại biểu Quốc hội: Lãng phí nguồn lực lớn khi dự án đầu tư rồi &#39;đắp chiếu&#39;](https://vnexpress.net/dai-bieu-quoc-hoi-lang-phi-nguon-luc-lon-khi-du-an-dau-tu-roi-dap-chieu-4811849.html) - 05:45 04/11/2024
+- ⛽️ [Đại biểu Quốc hội: Lãng phí hàng trăm nghìn tỷ đồng khi dự án đầu tư rồi &#39;đắp chiếu&#39;](https://vnexpress.net/dai-bieu-quoc-hoi-lang-phi-hang-tram-nghin-ty-dong-khi-du-an-dau-tu-roi-dap-chieu-4811849.html) - 05:45 04/11/2024
 - 🐲 [Một doanh nghiệp may lớn không có đơn hàng suốt 18 tháng](https://vnexpress.net/mot-doanh-nghiep-may-lon-khong-co-don-hang-suot-18-thang-4811828.html) - 04:54 04/11/2024
 - 🔥 [​Dịch vụ cá nhân hóa điện thoại xa xỉ](https://vnexpress.net/dich-vu-ca-nhan-hoa-dien-thoai-xa-xi-4810695.html) - 02:00 04/11/2024
 - 🐵 [Sản xuất xanh là đòn bẩy giúp dệt may vượt khó](https://vnexpress.net/san-xuat-xanh-la-don-bay-giup-det-may-vuot-kho-4809856.html) - 01:11 04/11/2024
