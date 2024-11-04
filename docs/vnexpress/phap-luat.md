@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [10 &#39;quái xế&#39; bị tạm giữ trong vụ tông chết cô gái đang chờ đèn đỏ](https://vnexpress.net/10-quai-xe-bi-tam-giu-trong-vu-tong-chet-co-gai-dang-cho-den-do-4811908.html) - 07:01 04/11/2024
+- 😎 [10 người bị tạm giữ trong vụ tông chết cô gái đang chờ đèn đỏ](https://vnexpress.net/10-nguoi-bi-tam-giu-trong-vu-tong-chet-co-gai-dang-cho-den-do-4811908.html) - 07:01 04/11/2024
 - 🥰 [Con gái cựu tổng thống Hàn Quốc bị bắt](https://vnexpress.net/con-gai-cuu-tong-thong-han-quoc-bi-bat-4811905.html) - 06:41 04/11/2024
 - 🎓 [Vai trò của bí thư, chủ tịch tỉnh trong vụ &#39;sang tay&#39; siêu dự án Đại Ninh](https://vnexpress.net/vai-tro-cua-bi-thu-chu-tich-tinh-trong-vu-sang-tay-sieu-du-an-dai-ninh-4811708.html) - 04:27 04/11/2024
 - 🤓 [Bà Trương Mỹ Lan ra tòa xin giảm án tử hình](https://vnexpress.net/ba-truong-my-lan-ra-toa-xin-giam-an-tu-hinh-4811646.html) - 00:30 04/11/2024
