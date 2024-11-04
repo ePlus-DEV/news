@@ -53,5 +53,4 @@ sidebar_position: 9
 - 👍 [5 món phái đẹp tuổi 40 nên ăn thường xuyên](https://vnexpress.net/5-mon-phai-dep-tuoi-40-nen-an-thuong-xuyen-4811707.html) - 02:00 04/11/2024
 - 🐎 [​Dịch vụ cá nhân hóa điện thoại xa xỉ](https://vnexpress.net/dich-vu-ca-nhan-hoa-dien-thoai-xa-xi-4810695.html) - 02:00 04/11/2024
 - 🏊 [Bà Harris bỏ phiếu bầu qua thư](https://vnexpress.net/ba-harris-bo-phieu-bau-qua-thu-4811710.html) - 01:36 04/11/2024
-- 🦩 [Xe máy lao ngược chiều cao tốc trong đêm](https://vnexpress.net/xe-may-lao-nguoc-chieu-cao-toc-trong-dem-4811709.html) - 01:32 04/11/2024
-- 👍 [Lý do ăn nhiều nhưng không thấy no](https://vnexpress.net/ly-do-an-nhieu-nhung-khong-thay-no-4811485.html) - 01:23 04/11/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🦩 [Xe máy lao ngược chiều cao tốc trong đêm](https://vnexpress.net/xe-may-lao-nguoc-chieu-cao-toc-trong-dem-4811709.html) - 01:32 04/11/2024<!-- vnexpress-tin-moi-nhat:END -->
