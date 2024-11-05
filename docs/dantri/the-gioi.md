@@ -5,7 +5,7 @@ sidebar_position: 17
 
 <!-- dantri-the-gioi:START -->
 - 🌋 [Những yếu tố ảnh hưởng tới thời điểm công bố kết quả bầu cử Mỹ](https://dantri.com.vn/the-gioi/nhung-yeu-to-anh-huong-toi-thoi-diem-cong-bo-ket-qua-bau-cu-my-20241103173726669.htm) - 12:55 05/11/2024
-- 🎬 [8 hạt có thể &quot;gợi ý&quot; kết quả bầu cử tổng thống Mỹ](https://dantri.com.vn/the-gioi/8-hat-co-the-goi-y-ket-qua-bau-cu-tong-thong-my-20241105171254135.htm) - 11:05 05/11/2024
+- 🎬 [Ông Trump sẽ đi bỏ phiếu trực tiếp ở Florida, an ninh được tăng cường](https://dantri.com.vn/the-gioi/ong-trump-se-di-bo-phieu-truc-tiep-o-florida-an-ninh-duoc-tang-cuong-20241105171254135.htm) - 11:05 05/11/2024
 - 🧰 [Bà Harris và cơ hội trở thành nữ tổng thống Mỹ da màu đầu tiên](https://dantri.com.vn/the-gioi/ba-harris-va-co-hoi-tro-thanh-nu-tong-thong-my-da-mau-dau-tien-20241104163422556.htm) - 10:39 05/11/2024
 - 🌋 [Nghị sĩ Ukraine kêu gọi huy động phụ nữ nhập ngũ](https://dantri.com.vn/the-gioi/nghi-si-ukraine-keu-goi-huy-dong-phu-nu-nhap-ngu-20241105171507126.htm) - 10:37 05/11/2024
 - 🗽 [Malaysia có thể sắp mở lại tìm kiếm máy bay MH370 vì manh mối mới](https://dantri.com.vn/the-gioi/malaysia-co-the-sap-mo-lai-tim-kiem-may-bay-mh370-vi-manh-moi-moi-20241105163702645.htm) - 09:48 05/11/2024
