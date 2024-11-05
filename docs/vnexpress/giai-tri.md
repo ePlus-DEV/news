@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Mỹ nhân &#39;Tình yêu trong sáng&#39; sống ở đảo sau ly hôn](https://vnexpress.net/my-nhan-tinh-yeu-trong-sang-song-o-dao-sau-ly-hon-4812394.html) - 08:07 05/11/2024
+- 🌏 [Mỹ nhân &#39;Tình yêu trong sáng&#39; ra đảo sống sau ly hôn](https://vnexpress.net/my-nhan-tinh-yeu-trong-sang-ra-dao-song-sau-ly-hon-4812394.html) - 08:07 05/11/2024
 - 💫 [Ngọc Phước - diễn viên hài được yêu thích khi thi hát](https://vnexpress.net/ngoc-phuoc-dien-vien-hai-duoc-yeu-thich-khi-thi-hat-4811836.html) - 07:43 05/11/2024
 - 🌮 [Jenny K Tran ra mắt bộ sưu tập cảm hứng hoa thiên điểu](https://vnexpress.net/jenny-k-tran-ra-mat-bo-suu-tap-cam-hung-hoa-thien-dieu-4809431.html) - 07:00 05/11/2024
 - 🧠 [10 kiểu mốt giới trẻ Việt ưa chuộng](https://vnexpress.net/10-kieu-mot-gioi-tre-viet-ua-chuong-4812333.html) - 05:31 05/11/2024
