@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Đà Nẵng cho hơn 290.000 học sinh nghỉ học vì ngập](https://vnexpress.net/da-nang-cho-hon-290-000-hoc-sinh-nghi-hoc-vi-ngap-4812343.html) - 05:15 05/11/2024
-- 🦆 [Trường công xin &#39;tự chủ&#39; vì không đủ tiền trả lương cho giáo viên](https://vnexpress.net/truong-cong-xin-tu-chu-vi-khong-du-tien-tra-luong-cho-giao-vien-4812206.html) - 04:23 05/11/2024
+- 🦆 [Trường công xin &#39;tự chủ&#39; vì không đủ tiền trả lương giáo viên](https://vnexpress.net/truong-cong-xin-tu-chu-vi-khong-du-tien-tra-luong-giao-vien-4812206.html) - 04:23 05/11/2024
 - 🦩 [Đại học Công thương TP HCM lần đầu tuyển khối C](https://vnexpress.net/dai-hoc-cong-thuong-tp-hcm-lan-dau-tuyen-khoi-c-4812089.html) - 00:22 05/11/2024
 - 🌮 [Đỉnh núi cao nhất miền Trung thuộc tỉnh nào?](https://vnexpress.net/dinh-nui-cao-nhat-mien-trung-thuoc-tinh-nao-4812051.html) - 13:26 04/11/2024
 - 🔭 [Đề xuất giảm tỷ lệ phân luồng học nghề sau lớp 9](https://vnexpress.net/de-xuat-giam-ty-le-phan-luong-hoc-nghe-sau-lop-9-4811960.html) - 12:39 04/11/2024
