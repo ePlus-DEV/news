@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Thiếu giáo viên, hàng nghìn học sinh phải nghỉ môn Tiếng Anh, Tin học](https://vnexpress.net/thieu-giao-vien-hang-nghin-hoc-sinh-phai-nghi-mon-tieng-anh-tin-hoc-4811853.html) - 09:08 05/11/2024
-- 🦆 [&#39;Nhà khoa học nhận 50 triệu đồng nghiên cứu mỗi năm&#39;](https://vnexpress.net/nha-khoa-hoc-nhan-50-trieu-dong-nghien-cuu-moi-nam-4812203.html) - 08:27 05/11/2024
+- 🦆 [&#39;Nhà khoa học nhận trung bình 50 triệu đồng nghiên cứu mỗi năm&#39;](https://vnexpress.net/nha-khoa-hoc-nhan-trung-binh-50-trieu-dong-nghien-cuu-moi-nam-4812203.html) - 08:27 05/11/2024
 - 🦩 [Đà Nẵng cho hơn 290.000 học sinh nghỉ học vì ngập](https://vnexpress.net/da-nang-cho-hon-290-000-hoc-sinh-nghi-hoc-vi-ngap-4812343.html) - 05:15 05/11/2024
 - 🌮 [Trường công xin &#39;tự chủ&#39; vì không đủ tiền trả lương giáo viên](https://vnexpress.net/truong-cong-xin-tu-chu-vi-khong-du-tien-tra-luong-giao-vien-4812206.html) - 04:23 05/11/2024
 - 🔭 [Đại học Công thương TP HCM lần đầu tuyển khối C](https://vnexpress.net/dai-hoc-cong-thuong-tp-hcm-lan-dau-tuyen-khoi-c-4812089.html) - 00:22 05/11/2024
