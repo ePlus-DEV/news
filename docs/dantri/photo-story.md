@@ -6,7 +6,7 @@ sidebar_position: 28
 <!-- dantri-photo-story:START -->
 - 💪 [Bộ đội, công an vào &quot;rốn ngập&quot; ở Đà Nẵng sơ tán dân](https://dantri.com.vn/xa-hoi/bo-doi-cong-an-vao-ron-ngap-o-da-nang-so-tan-dan-20241105093909559.htm) - 03:22 05/11/2024
 - 🧰 [Nước biển kéo sập khu nuôi trồng hải sản, 400 hộ dân bị đe dọa xâm thực](https://dantri.com.vn/xa-hoi/nuoc-bien-keo-sap-khu-nuoi-trong-hai-san-400-ho-dan-bi-de-doa-xam-thuc-20241104203017477.htm) - 23:56 04/11/2024
-- 🧰 [Rác thải phủ kín nơi dự kiến làm KĐT lấn biển Cần Giờ](https://dantri.com.vn/xa-hoi/rac-thai-phu-kin-noi-du-kien-lam-kdt-lan-bien-can-gio-20241025194111464.htm) - 23:00 04/11/2024
+- 🧰 [Hiện trạng khu đô thị lấn biển Cần Giờ sắp được khởi công](https://dantri.com.vn/xa-hoi/hien-trang-khu-do-thi-lan-bien-can-gio-sap-duoc-khoi-cong-20241025194111464.htm) - 23:00 04/11/2024
 - 😎 [Hiện trạng công trình thủy lợi hơn 5.500 tỷ đồng có 8 người bị bắt](https://dantri.com.vn/xa-hoi/hien-trang-cong-trinh-thuy-loi-hon-5500-ty-dong-co-8-nguoi-bi-bat-20241104125355197.htm) - 09:44 04/11/2024
 - 🎓 [Mang Suzuki Jimny đi off-road để thấy đây là &quot;xe ăn chơi&quot; đúng nghĩa](https://dantri.com.vn/o-to-xe-may/mang-suzuki-jimny-di-off-road-de-thay-day-la-xe-an-choi-dung-nghia-20241104114132448.htm) - 07:47 04/11/2024
 - 🙉 [Ngắm những vũ công trên sân băng](https://dantri.com.vn/the-thao/ngam-nhung-vu-cong-tren-san-bang-20241104141436705.htm) - 07:21 04/11/2024
