@@ -16,7 +16,7 @@ sidebar_position: 2
 - 🦒 [Máy bỏ phiếu bầu tổng thống Mỹ hoạt động như thế nào?](https://vnexpress.net/may-bo-phieu-bau-tong-thong-my-hoat-dong-nhu-the-nao-4811827.html) - 12:00 05/11/2024
 - 🐻 [Phát biểu khép lại chiến dịch tranh cử của Trump - Harris](https://vnexpress.net/phat-bieu-khep-lai-chien-dich-tranh-cu-cua-trump-harris-4812341.html) - 11:11 05/11/2024
 - 🚀 [Thủ tướng tặng chân dung Chủ tịch Hồ Chí Minh cho khu di tích ở Vân Nam](https://vnexpress.net/thu-tuong-tang-chan-dung-chu-tich-ho-chi-minh-cho-khu-di-tich-o-van-nam-4812512.html) - 11:08 05/11/2024
-- 🥰 [Hai điểm bỏ phiếu ở Georgia đóng cửa vì bị dọa đánh bom](https://vnexpress.net/cac-diem-bo-phieu-bau-tong-thong-tren-khap-nuoc-my-mo-cua-4812455.html) - 10:22 05/11/2024
+- 🥰 [Tỷ phú Elon Musk bỏ phiếu tại Texas](https://vnexpress.net/cac-diem-bo-phieu-bau-tong-thong-tren-khap-nuoc-my-mo-cua-4812455.html) - 10:22 05/11/2024
 - 🔥 [Vua Tây Ban Nha được ca ngợi vì đứng vững trước đám đông ném bùn](https://vnexpress.net/vua-tay-ban-nha-duoc-ca-ngoi-vi-dung-vung-truoc-dam-dong-nem-bun-4812468.html) - 10:05 05/11/2024
 - 🥳 [Ông Zelensky: Nga phóng UAV vào Ukraine nhiều gấp 10 lần năm ngoái](https://vnexpress.net/ong-zelensky-nga-phong-uav-vao-ukraine-nhieu-gap-10-lan-nam-ngoai-4812291.html) - 09:20 05/11/2024
 - 💼 [Hà mã &#39;ngôi sao&#39; của Thái Lan dự đoán ông Trump đắc cử](https://vnexpress.net/ha-ma-ngoi-sao-cua-thai-lan-du-doan-ong-trump-dac-cu-4812405.html) - 08:20 05/11/2024
