@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Những hình ảnh định hình mùa bầu cử tổng thống Mỹ](https://vnexpress.net/nhung-hinh-anh-dinh-hinh-mua-bau-cu-tong-thong-my-4812177.html) - 04:59 05/11/2024
-- 🕴 [Ba thị trấn ở Mỹ bỏ phiếu bầu tổng thống lúc nửa đêm](https://vnexpress.net/ba-thi-tran-o-my-bo-phieu-bau-cu-luc-nua-dem-4812299.html) - 04:34 05/11/2024
+- 🕴 [Ông Trump, bà Harris hòa nhau ở điểm bỏ phiếu đầu tiên](https://vnexpress.net/ba-thi-tran-o-my-bo-phieu-bau-cu-luc-nua-dem-4812299.html) - 04:34 05/11/2024
 - 🤭 [Người dẫn chương trình podcast nổi tiếng tuyên bố ủng hộ ông Trump](https://vnexpress.net/nguoi-dan-chuong-trinh-podcast-noi-tieng-tuyen-bo-ung-ho-ong-trump-4812264.html) - 04:15 05/11/2024
 - 🧑‍💻 [Ông Trump nói bà Harris &#39;nên đấu với Mike Tyson&#39;](https://vnexpress.net/ong-trump-noi-ba-harris-nen-dau-voi-mike-tyson-4812201.html) - 04:00 05/11/2024
 - 🦏 [Cách người Mỹ bỏ phiếu và kiểm đếm kết quả bầu cử](https://vnexpress.net/cach-nguoi-my-bo-phieu-va-kiem-dem-ket-qua-bau-cu-4811297.html) - 03:48 05/11/2024
