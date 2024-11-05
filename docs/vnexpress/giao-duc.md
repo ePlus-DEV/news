@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Bốn trường ở Bắc Ninh cho học sinh nghỉ thứ bảy](https://vnexpress.net/bon-truong-o-bac-ninh-cho-hoc-sinh-nghi-thu-bay-4812553.html) - 22:27 05/11/2024
-- 🦆 [Đại học đổi nội dung đào tạo với thí sinh theo chương trình mới](https://vnexpress.net/dai-hoc-doi-noi-dung-dao-tao-voi-thi-sinh-theo-chuong-trinh-moi-4812426.html) - 15:24 05/11/2024
+- 🦆 [Đại học đổi giáo trình với thí sinh theo chương trình mới](https://vnexpress.net/dai-hoc-doi-giao-trinh-voi-thi-sinh-theo-chuong-trinh-moi-4812426.html) - 15:24 05/11/2024
 - 🦩 [Người phụ nữ đầu tiên tranh cử tổng thống Mỹ là ai?](https://vnexpress.net/nguoi-phu-nu-dau-tien-tranh-cu-tong-thong-my-la-ai-4812457.html) - 14:22 05/11/2024
 - 🌮 [Thiếu giáo viên, hàng nghìn học sinh phải nghỉ môn Tiếng Anh, Tin học](https://vnexpress.net/thieu-giao-vien-hang-nghin-hoc-sinh-phai-nghi-mon-tieng-anh-tin-hoc-4811853.html) - 09:08 05/11/2024
 - 🔭 [&#39;Nhà khoa học nhận trung bình 50 triệu đồng nghiên cứu mỗi năm&#39;](https://vnexpress.net/nha-khoa-hoc-nhan-trung-binh-50-trieu-dong-nghien-cuu-moi-nam-4812203.html) - 08:27 05/11/2024
