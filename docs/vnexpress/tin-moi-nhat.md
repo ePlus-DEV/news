@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Bên trong trung tâm kiểm phiếu Florida trước &#39;giờ G&#39;](https://vnexpress.net/ben-trong-trung-tam-kiem-phieu-florida-truoc-gio-g-4812183.html) - 15:30 05/11/2024
+- 🎬 [Lý do ông Trump vẫn được bỏ phiếu dù đã bị kết tội](https://vnexpress.net/ly-do-ong-trump-van-duoc-bo-phieu-du-da-bi-ket-toi-4812551.html) - 15:59 05/11/2024
 - 🐎 [Đại học đổi nội dung đào tạo với thí sinh theo chương trình mới](https://vnexpress.net/dai-hoc-doi-noi-dung-dao-tao-voi-thi-sinh-theo-chuong-trinh-moi-4812426.html) - 15:24 05/11/2024
 - 🦍 [Tiêm kích Ấn Độ &#39;xoay như lá vàng&#39; khi rơi xuống đất](https://vnexpress.net/tiem-kich-an-do-xoay-nhu-la-vang-khi-roi-xuong-dat-4812547.html) - 15:23 05/11/2024
 - 🏊 [Hà Nội sắp đấu giá gỗ thu hồi sau bão Yagi](https://vnexpress.net/ha-noi-sap-dau-gia-go-thu-hoi-sau-bao-yagi-4812545.html) - 15:22 05/11/2024
@@ -57,4 +57,4 @@ sidebar_position: 9
 - 👍 [Toshiba đoạt giải tủ lạnh có thiết kế ấn tượng](https://vnexpress.net/toshiba-doat-giai-tu-lanh-co-thiet-ke-an-tuong-4812417.html) - 10:39 05/11/2024
 - 🔥 [20 trẻ Lai Châu nhập viện nghi ăn nhầm thuốc diệt chuột](https://vnexpress.net/20-tre-lai-chau-nhap-vien-nghi-an-nham-thuoc-diet-chuot-4812481.html) - 10:34 05/11/2024
 - 💄 [Món ngon từ tóp mỡ](https://vnexpress.net/mon-ngon-tu-top-mo-4812429.html) - 10:26 05/11/2024
-- 🤡 [Phó tướng của ông Trump đưa vợ con đi bỏ phiếu](https://vnexpress.net/cac-diem-bo-phieu-bau-tong-thong-tren-khap-nuoc-my-mo-cua-4812455.html) - 10:22 05/11/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🤡 [Sự cố phần mềm làm gián đoạn bỏ phiếu tại điểm bầu cử ở Pennsylvania](https://vnexpress.net/cac-diem-bo-phieu-bau-tong-thong-tren-khap-nuoc-my-mo-cua-4812455.html) - 10:22 05/11/2024<!-- vnexpress-tin-moi-nhat:END -->
