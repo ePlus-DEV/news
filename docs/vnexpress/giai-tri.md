@@ -12,7 +12,7 @@ sidebar_position: 5
 - ⚗️ [Tuấn Ngọc thổi sáo, đánh đàn trong MV &#39;Một vòng Việt Nam&#39;](https://vnexpress.net/tuan-ngoc-thoi-sao-danh-dan-trong-mv-mot-vong-viet-nam-4812239.html) - 04:26 05/11/2024
 - 😎 [Katy Perry, Lady Gaga hát ở buổi vận động của bà Kamala Harris](https://vnexpress.net/katy-perry-lady-gaga-hat-o-buoi-van-dong-cua-ba-kamala-harris-4812237.html) - 04:03 05/11/2024
 - 🫣 [Áo dài xuất hiện lần đầu ở Việt Nam khi nào?](https://vnexpress.net/ao-dai-xuat-hien-lan-dau-o-viet-nam-khi-nao-4812045.html) - 03:23 05/11/2024
-- 🪄 [AI &#39;không nhân tạo cũng không thông minh&#39;](https://vnexpress.net/ai-khong-nhan-tao-cung-khong-thong-minh-4812217.html) - 02:47 05/11/2024
+- 🪄 [AI &#39;không thông minh&#39;](https://vnexpress.net/ai-khong-thong-minh-4812217.html) - 02:47 05/11/2024
 - 🤓 [Nghệ sĩ Lệ Thủy hát tri ân &#39;vua vọng cổ&#39; Viễn Châu](https://vnexpress.net/nghe-si-le-thuy-hat-tri-an-vua-vong-co-vien-chau-4812113.html) - 02:23 05/11/2024
 - 🫶 [Hồ Ngọc Hà tôn chân với đồ siêu ngắn](https://vnexpress.net/ho-ngoc-ha-ton-chan-voi-do-sieu-ngan-4811793.html) - 01:53 05/11/2024
 - 🧑‍🏫 [Gemini Hùng Huỳnh dẫn đầu đề cử &#39;Mỹ nam của năm&#39;](https://vnexpress.net/gemini-hung-huynh-dan-dau-de-cu-my-nam-cua-nam-4812056.html) - 22:00 04/11/2024
