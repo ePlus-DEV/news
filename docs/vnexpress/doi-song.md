@@ -6,7 +6,7 @@ sidebar_position: 6
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Những người trẻ yêu kiểu &#39;lò vi sóng&#39;](https://vnexpress.net/nhung-nguoi-tre-yeu-kieu-lo-vi-song-4811655.html) - 23:29 04/11/2024
 - 🎓 [Vì sao một số người thích tập yoga ở nơi công cộng?](https://vnexpress.net/vi-sao-mot-so-nguoi-thich-tap-yoga-o-noi-cong-cong-4812115.html) - 23:00 04/11/2024
-- 🚦 [Niễng xào lòng gà](https://vnexpress.net/nieng-xao-long-ga-4811984.html) - 10:37 04/11/2024
+- 🚦 [Niễng xào lòng gà](https://vnexpress.net/doi-song-cooking-nieng-xao-long-ga-4811984.html) - 10:37 04/11/2024
 - 🦣 [6 &#39;cuộc chiến&#39; cha mẹ phải đối mặt sau khi có con](https://vnexpress.net/6-cuoc-chien-cha-me-phai-doi-mat-sau-khi-co-con-4812054.html) - 09:45 04/11/2024
 - 🎓 [Lý do nhà giàu Mỹ thuê nhà dù thừa tiền mua](https://vnexpress.net/ly-do-nha-giau-my-thue-nha-du-thua-tien-mua-4811879.html) - 06:46 04/11/2024
 - 🎭 [Nước mắm - gia vị &#39;gây thương nhớ&#39; của ẩm thực Việt](https://vnexpress.net/nuoc-mam-gia-vi-gay-thuong-nho-cua-am-thuc-viet-4811148.html) - 06:00 04/11/2024
