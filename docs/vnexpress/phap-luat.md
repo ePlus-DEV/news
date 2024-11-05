@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Chủ tịch Mỹ Châu Pharmacy Group và ca sĩ Quốc Kháng bị bắt](https://vnexpress.net/chu-tich-my-chau-pharmacy-group-va-ca-si-quoc-khang-bi-bat-4812486.html) - 10:03 05/11/2024
+- 😎 [Chủ tịch Mỹ Châu Pharmacy Group và nam ca sĩ bị bắt](https://vnexpress.net/chu-tich-my-chau-pharmacy-group-va-nam-ca-si-bi-bat-4812486.html) - 10:03 05/11/2024
 - 🥰 [Hàn Quốc phạt Meta 15,6 triệu USD vì bán dữ liệu nhạy cảm của gần 1 triệu người](https://vnexpress.net/han-quoc-phat-meta-15-6-trieu-usd-vi-ban-du-lieu-nhay-cam-cua-gan-1-trieu-nguoi-4812470.html) - 10:02 05/11/2024
 - 🎓 [Cựu bí thư Tỉnh ủy Lào Cai được giảm 18 tháng tù](https://vnexpress.net/cuu-bi-thu-tinh-uy-lao-cai-duoc-giam-18-thang-tu-4812415.html) - 08:33 05/11/2024
 - 🤓 [Bà Trương Mỹ Lan ôm, động viên chồng tại tòa](https://vnexpress.net/ba-truong-my-lan-om-dong-vien-chong-tai-toa-4812357.html) - 06:48 05/11/2024
