@@ -5,7 +5,7 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [Cựu Bí thư Lào Cai Nguyễn Văn Vịnh được giảm 18 tháng tù](https://dantri.com.vn/phap-luat/cuu-bi-thu-lao-cai-nguyen-van-vinh-duoc-giam-18-thang-tu-20241105174404904.htm) - 11:02 05/11/2024
-- 👨‍🏫 [Đội tuyển futsal Việt Nam thắng 14-0, chắc suất vào bán kết Đông Nam Á](https://dantri.com.vn/the-thao/doi-tuyen-futsal-viet-nam-thang-14-0-chac-suat-vao-ban-ket-dong-nam-a-20241105174344658.htm) - 10:48 05/11/2024
+- 👨‍🏫 [Đội tuyển futsal Việt Nam thắng 14-0, giành vé vào bán kết cùng Thái Lan](https://dantri.com.vn/the-thao/doi-tuyen-futsal-viet-nam-thang-14-0-gianh-ve-vao-ban-ket-cung-thai-lan-20241105174344658.htm) - 10:48 05/11/2024
 - 🌮 [Bà Trương Mỹ Lan nêu lý do vung tiền cho nhân viên](https://dantri.com.vn/phap-luat/ba-truong-my-lan-neu-ly-do-vung-tien-cho-nhan-vien-20241105170541119.htm) - 10:33 05/11/2024
 - 🕯 [&quot;Tiết kiệm tài nguyên, không để gánh nặng cho thế hệ sau&quot;](https://dantri.com.vn/xa-hoi/tiet-kiem-tai-nguyen-khong-de-ganh-nang-cho-the-he-sau-20241105160145092.htm) - 09:42 05/11/2024
 - 🪜 [Nước đang rút tại nhiều tỉnh, thành miền Trung sau đợt mưa trắng trời](https://dantri.com.vn/xa-hoi/nuoc-dang-rut-tai-nhieu-tinh-thanh-mien-trung-sau-dot-mua-trang-troi-20241105153128768.htm) - 09:21 05/11/2024
