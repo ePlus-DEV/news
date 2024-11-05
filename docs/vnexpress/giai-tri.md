@@ -4,8 +4,8 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Hoài Lâm, Hồ Văn Cường tái hợp sau 8 năm](https://vnexpress.net/hoai-lam-ho-van-cuong-tai-hop-sau-8-nam-4812430.html) - 13:39 05/11/2024
-- 💫 [Hậu duệ vua Hàm Nghi ra mắt sách về ông](https://vnexpress.net/hau-due-vua-ham-nghi-ra-mat-sach-ve-ong-4812533.html) - 13:13 05/11/2024
+- 🌏 [Hoài Lâm, Hồ Văn Cường kết hợp sau 8 năm](https://vnexpress.net/hoai-lam-ho-van-cuong-ket-hop-sau-8-nam-4812430.html) - 13:39 05/11/2024
+- 💫 [Hậu duệ ra mắt sách về vua Hàm Nghi](https://vnexpress.net/hau-due-ra-mat-sach-ve-vua-ham-nghi-4812533.html) - 13:13 05/11/2024
 - 🌮 [Kay Trần - ứng viên &#39;Mỹ nam của năm&#39;](https://vnexpress.net/kay-tran-ung-vien-my-nam-cua-nam-4812225.html) - 13:00 05/11/2024
 - 🧠 [&#39;Godzilla Minus One&#39; và loạt tác phẩm ở LHP Nhật Bản](https://vnexpress.net/godzilla-minus-one-va-loat-tac-pham-o-lhp-nhat-ban-4811727.html) - 12:00 05/11/2024
 - 👨‍🏫 [Mỹ nhân &#39;Tình yêu trong sáng&#39; ra đảo sống sau ly hôn](https://vnexpress.net/my-nhan-tinh-yeu-trong-sang-ra-dao-song-sau-ly-hon-4812394.html) - 08:07 05/11/2024
