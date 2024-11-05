@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cựu lãnh đạo SCB nói duyệt cho vay khống &#39;vì sợ ngân hàng đổ vỡ&#39;](https://vnexpress.net/cuu-lanh-dao-scb-noi-duyet-cho-vay-khong-vi-so-ngan-hang-do-vo-4812111.html) - 17:00 04/11/2024
+- 😎 [Cựu lãnh đạo SCB nói phạm tội vì &#39;sợ ngân hàng đổ vỡ&#39;](https://vnexpress.net/cuu-lanh-dao-scb-noi-pham-toi-vi-so-ngan-hang-do-vo-4812111.html) - 17:00 04/11/2024
 - 🥰 [Cô gái bị kẻ hiếp dâm giam cầm 5 năm trong phòng kín](https://vnexpress.net/5-nam-bi-ke-hiep-dam-giam-cam-trong-phong-kin-4812090.html) - 17:00 04/11/2024
 - 🎓 [Bán đất cho người nhà, cách nào an toàn, tốn ít thuế phí nhất?](https://vnexpress.net/ban-dat-cho-nguoi-nha-cach-nao-an-toan-ton-it-thue-phi-nhat-4811867.html) - 17:00 04/11/2024
 - 🤓 [Chính quyền phải bồi thường 300.000 USD vì thịt thú cưng của bé gái](https://vnexpress.net/chinh-quyen-phai-boi-thuong-300-000-usd-vi-thit-thu-cung-cua-be-gai-4812017.html) - 12:44 04/11/2024
