@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Thủ tướng tặng chân dung Chủ tịch Hồ Chí Minh cho khu di tích ở Vân Nam](https://vnexpress.net/thu-tuong-tang-chan-dung-chu-tich-ho-chi-minh-cho-khu-di-tich-o-van-nam-4812512.html) - 11:08 05/11/2024
-- 🕴 [Các điểm bỏ phiếu trên khắp nước Mỹ mở cửa](https://vnexpress.net/cac-diem-bo-phieu-tren-khap-nuoc-my-mo-cua-4812455.html) - 10:22 05/11/2024
-- 🤭 [Vua Tây Ban Nha được ca ngợi vì đứng vững trước đám đông ném bùn](https://vnexpress.net/vua-tay-ban-nha-duoc-ca-ngoi-vi-dung-vung-truoc-dam-dong-nem-bun-4812468.html) - 10:05 05/11/2024
-- 🧑‍💻 [Ông Zelensky: Nga phóng UAV vào Ukraine nhiều gấp 10 lần năm ngoái](https://vnexpress.net/ong-zelensky-nga-phong-uav-vao-ukraine-nhieu-gap-10-lan-nam-ngoai-4812291.html) - 09:20 05/11/2024
-- 🦏 [Hà mã &#39;ngôi sao&#39; của Thái Lan dự đoán ông Trump đắc cử](https://vnexpress.net/ha-ma-ngoi-sao-cua-thai-lan-du-doan-ong-trump-dac-cu-4812405.html) - 08:20 05/11/2024
-- 🦒 [Ông Trump chọn &#39;thành phố đặc biệt&#39; làm điểm vận động cuối cùng](https://vnexpress.net/ong-trump-chon-thanh-pho-dac-biet-lam-diem-van-dong-cuoi-cung-4812390.html) - 08:19 05/11/2024
-- 🌈 [Những gia đình Mỹ bất đồng quan điểm vì bầu cử tổng thống](https://vnexpress.net/nhung-gia-dinh-my-bat-dong-quan-diem-vi-bau-cu-tong-thong-4812160.html) - 07:57 05/11/2024
-- 🧑‍🏫 [UAV Lancet có thể đã tập kích hơn 2.500 mục tiêu ở Ukraine](https://vnexpress.net/uav-lancet-co-the-da-tap-kich-hon-2-500-muc-tieu-o-ukraine-4812167.html) - 07:55 05/11/2024
-- 🐲 [Những hình ảnh định hình mùa bầu cử tổng thống Mỹ](https://vnexpress.net/nhung-hinh-anh-dinh-hinh-mua-bau-cu-tong-thong-my-4812177.html) - 04:59 05/11/2024
-- 🦒 [Trump - Harris hòa nhau tại điểm bỏ phiếu đầu tiên](https://vnexpress.net/ba-thi-tran-o-my-bo-phieu-bau-cu-luc-nua-dem-4812299-tong-thuat.html) - 04:34 05/11/2024
-- 🐻 [Người dẫn chương trình podcast nổi tiếng tuyên bố ủng hộ ông Trump](https://vnexpress.net/nguoi-dan-chuong-trinh-podcast-noi-tieng-tuyen-bo-ung-ho-ong-trump-4812264.html) - 04:15 05/11/2024
-- 🚀 [Ông Trump nói bà Harris &#39;nên đấu với Mike Tyson&#39;](https://vnexpress.net/ong-trump-noi-ba-harris-nen-dau-voi-mike-tyson-4812201.html) - 04:00 05/11/2024
-- 🥰 [Cách người Mỹ bỏ phiếu và kiểm đếm kết quả bầu cử](https://vnexpress.net/cach-nguoi-my-bo-phieu-va-kiem-dem-ket-qua-bau-cu-4811297.html) - 03:48 05/11/2024
-- 🔥 [Bà Harris gõ cửa nhà dân trước giờ bầu cử](https://vnexpress.net/ba-harris-go-cua-nha-dan-truoc-gio-bau-cu-4812179.html) - 03:32 05/11/2024
-- 🥳 [Israel tuyên bố tập kích &#39;sở chỉ huy tình báo Hezbollah&#39; tại Syria](https://vnexpress.net/israel-tuyen-bo-tap-kich-so-chi-huy-tinh-bao-hezbollah-tai-syria-4812174.html) - 03:13 05/11/2024
-- 💼 [Thủ tướng Phạm Minh Chính lên đường tới Trung Quốc](https://vnexpress.net/thu-tuong-pham-minh-chinh-len-duong-toi-trung-quoc-4812119.html) - 02:21 05/11/2024
-- 🤡 [Thông điệp đối chọi của Trump và Harris khi khép lại chiến dịch](https://vnexpress.net/thong-diep-doi-choi-cua-trump-va-harris-khi-khep-lai-chien-dich-4811734.html) - 02:00 05/11/2024
-- 🌁 [Ông Trump, bà Harris vận động giờ chót trước bầu cử](https://vnexpress.net/ong-trump-ba-harris-van-dong-gio-chot-truoc-bau-cu-4812161.html) - 01:21 05/11/2024
-- 🤩 [Thẩm phán Pennsylvania cho phép Elon Musk thưởng một triệu USD cho cử tri](https://vnexpress.net/tham-phan-pennsylvania-cho-phep-elon-musk-thuong-mot-trieu-usd-cho-cu-tri-4812132.html) - 00:09 05/11/2024
+- 🎭 [Phát biểu khép lại chiến dịch tranh cử của Trump - Harris](https://vnexpress.net/phat-bieu-khep-lai-chien-dich-tranh-cu-cua-trump-harris-4812341.html) - 11:11 05/11/2024
+- 🕴 [Thủ tướng tặng chân dung Chủ tịch Hồ Chí Minh cho khu di tích ở Vân Nam](https://vnexpress.net/thu-tuong-tang-chan-dung-chu-tich-ho-chi-minh-cho-khu-di-tich-o-van-nam-4812512.html) - 11:08 05/11/2024
+- 🤭 [Các điểm bỏ phiếu trên khắp nước Mỹ mở cửa](https://vnexpress.net/cac-diem-bo-phieu-tren-khap-nuoc-my-mo-cua-4812455.html) - 10:22 05/11/2024
+- 🧑‍💻 [Vua Tây Ban Nha được ca ngợi vì đứng vững trước đám đông ném bùn](https://vnexpress.net/vua-tay-ban-nha-duoc-ca-ngoi-vi-dung-vung-truoc-dam-dong-nem-bun-4812468.html) - 10:05 05/11/2024
+- 🦏 [Ông Zelensky: Nga phóng UAV vào Ukraine nhiều gấp 10 lần năm ngoái](https://vnexpress.net/ong-zelensky-nga-phong-uav-vao-ukraine-nhieu-gap-10-lan-nam-ngoai-4812291.html) - 09:20 05/11/2024
+- 🦒 [Hà mã &#39;ngôi sao&#39; của Thái Lan dự đoán ông Trump đắc cử](https://vnexpress.net/ha-ma-ngoi-sao-cua-thai-lan-du-doan-ong-trump-dac-cu-4812405.html) - 08:20 05/11/2024
+- 🌈 [Ông Trump chọn &#39;thành phố đặc biệt&#39; làm điểm vận động cuối cùng](https://vnexpress.net/ong-trump-chon-thanh-pho-dac-biet-lam-diem-van-dong-cuoi-cung-4812390.html) - 08:19 05/11/2024
+- 🧑‍🏫 [Những gia đình Mỹ bất đồng quan điểm vì bầu cử tổng thống](https://vnexpress.net/nhung-gia-dinh-my-bat-dong-quan-diem-vi-bau-cu-tong-thong-4812160.html) - 07:57 05/11/2024
+- 🐲 [UAV Lancet có thể đã tập kích hơn 2.500 mục tiêu ở Ukraine](https://vnexpress.net/uav-lancet-co-the-da-tap-kich-hon-2-500-muc-tieu-o-ukraine-4812167.html) - 07:55 05/11/2024
+- 🦒 [Những hình ảnh định hình mùa bầu cử tổng thống Mỹ](https://vnexpress.net/nhung-hinh-anh-dinh-hinh-mua-bau-cu-tong-thong-my-4812177.html) - 04:59 05/11/2024
+- 🐻 [Trump - Harris hòa nhau tại điểm bỏ phiếu đầu tiên](https://vnexpress.net/ba-thi-tran-o-my-bo-phieu-bau-cu-luc-nua-dem-4812299-tong-thuat.html) - 04:34 05/11/2024
+- 🚀 [Người dẫn chương trình podcast nổi tiếng tuyên bố ủng hộ ông Trump](https://vnexpress.net/nguoi-dan-chuong-trinh-podcast-noi-tieng-tuyen-bo-ung-ho-ong-trump-4812264.html) - 04:15 05/11/2024
+- 🥰 [Ông Trump nói bà Harris &#39;nên đấu với Mike Tyson&#39;](https://vnexpress.net/ong-trump-noi-ba-harris-nen-dau-voi-mike-tyson-4812201.html) - 04:00 05/11/2024
+- 🔥 [Cách người Mỹ bỏ phiếu và kiểm đếm kết quả bầu cử](https://vnexpress.net/cach-nguoi-my-bo-phieu-va-kiem-dem-ket-qua-bau-cu-4811297.html) - 03:48 05/11/2024
+- 🥳 [Bà Harris gõ cửa nhà dân trước giờ bầu cử](https://vnexpress.net/ba-harris-go-cua-nha-dan-truoc-gio-bau-cu-4812179.html) - 03:32 05/11/2024
+- 💼 [Israel tuyên bố tập kích &#39;sở chỉ huy tình báo Hezbollah&#39; tại Syria](https://vnexpress.net/israel-tuyen-bo-tap-kich-so-chi-huy-tinh-bao-hezbollah-tai-syria-4812174.html) - 03:13 05/11/2024
+- 🤡 [Thủ tướng Phạm Minh Chính lên đường tới Trung Quốc](https://vnexpress.net/thu-tuong-pham-minh-chinh-len-duong-toi-trung-quoc-4812119.html) - 02:21 05/11/2024
+- 🌁 [Thông điệp đối chọi của Trump và Harris khi khép lại chiến dịch](https://vnexpress.net/thong-diep-doi-choi-cua-trump-va-harris-khi-khep-lai-chien-dich-4811734.html) - 02:00 05/11/2024
+- 🤩 [Ông Trump, bà Harris vận động giờ chót trước bầu cử](https://vnexpress.net/ong-trump-ba-harris-van-dong-gio-chot-truoc-bau-cu-4812161.html) - 01:21 05/11/2024
+- 🎉 [Thẩm phán Pennsylvania cho phép Elon Musk thưởng một triệu USD cho cử tri](https://vnexpress.net/tham-phan-pennsylvania-cho-phep-elon-musk-thuong-mot-trieu-usd-cho-cu-tri-4812132.html) - 00:09 05/11/2024
 - 🎉 [Triều Tiên phóng loạt tên lửa đạn đạo ra biển](https://vnexpress.net/trieu-tien-phong-loat-ten-lua-dan-dao-ra-bien-4812127.html) - 23:44 04/11/2024
-- 🎉 [Người nhập cư trái phép lo bị trục xuất hàng loạt nếu Trump đắc cử](https://vnexpress.net/nguoi-nhap-cu-trai-phep-lo-bi-truc-xuat-hang-loat-neu-trump-dac-cu-4811762.html) - 22:00 04/11/2024
-- 🌁 [Người Mỹ đi bầu tổng thống hôm nay](https://vnexpress.net/nguoi-my-di-bau-tong-thong-hom-nay-4811924.html) - 17:18 04/11/2024
-- 🌊 [Cuộc bầu cử định đoạt cục diện lưỡng viện quốc hội Mỹ](https://vnexpress.net/cuoc-bau-cu-dinh-doat-cuc-dien-luong-vien-quoc-hoi-my-4811722.html) - 17:00 04/11/2024
-- 🕴 [Nước Mỹ trước ngày bầu cử tổng thống](https://vnexpress.net/nuoc-my-truoc-ngay-bau-cu-tong-thong-4812102.html) - 15:02 04/11/2024
-- 🎓 [Những người Mỹ gốc Arab muốn trừng phạt bà Harris](https://vnexpress.net/nhung-nguoi-my-goc-arab-muon-trung-phat-ba-harris-4811781.html) - 13:47 04/11/2024
-- 🦩 [Hơn 74 triệu người Mỹ đã bỏ phiếu bầu tổng thống](https://vnexpress.net/hon-74-trieu-nguoi-my-da-bo-phieu-bau-tong-thong-4812094.html) - 12:29 04/11/2024
-- 🌏 [Mỹ chạy đua đảm bảo an ninh trước thềm bầu cử](https://vnexpress.net/my-chay-dua-dam-bao-an-ninh-truoc-them-bau-cu-4811714.html) - 12:00 04/11/2024
-- 🌋 [Núi lửa Indonesia phun trào, thiêu rụi nhiều nhà dân](https://vnexpress.net/nui-lua-indonesia-phun-trao-thieu-rui-nhieu-nha-dan-4812084.html) - 11:33 04/11/2024
-- 🪜 [Trực thăng chiến đấu rơi, tướng Iran thiệt mạng](https://vnexpress.net/truc-thang-chien-dau-roi-tuong-iran-thiet-mang-4811963.html) - 09:06 04/11/2024
-- 🕴 [Xe buýt lao xuống vực, ít nhất 36 người chết](https://vnexpress.net/xe-buyt-lao-xuong-vuc-it-nhat-36-nguoi-chet-4811965.html) - 08:56 04/11/2024
-- 🧑‍🏫 [Cách Milwaukee bảo vệ phiếu bầu giữa áp lực an ninh](https://vnexpress.net/cach-milwaukee-bao-ve-phieu-bau-giua-ap-luc-an-ninh-4811254.html) - 08:53 04/11/2024
-- 🌮 [Israel cắt quan hệ với cơ quan cứu trợ LHQ](https://vnexpress.net/israel-cat-quan-he-voi-co-quan-cuu-tro-lhq-4811909.html) - 07:51 04/11/2024
-- 🚦 [Điểm nhấn trong chính sách đối ngoại của bà Harris nếu đắc cử](https://vnexpress.net/diem-nhan-trong-chinh-sach-doi-ngoai-cua-ba-harris-neu-dac-cu-4810873.html) - 05:00 04/11/2024
-- 💫 [Trump nói &#39;không quan tâm&#39; nếu các nhà báo bị bắn](https://vnexpress.net/trump-noi-khong-quan-tam-neu-cac-nha-bao-bi-ban-4811777.html) - 04:34 04/11/2024
-- 🤡 [Động lực có thể thúc đẩy làn sóng &#39;xuất khẩu con nuôi&#39; ở Hàn Quốc](https://vnexpress.net/dong-luc-co-the-thuc-day-lan-song-xuat-khau-con-nuoi-o-han-quoc-4811083.html) - 03:54 04/11/2024
-- 🦣 [Hạt ở Mỹ chọn đúng ứng viên đắc cử tổng thống trong suốt 40 năm](https://vnexpress.net/hat-o-my-chon-dung-ung-vien-dac-cu-tong-thong-trong-suot-40-nam-4811717.html) - 02:50 04/11/2024
-- 🎬 [Chiến thuật ông Trump thúc đẩy để &#39;đổi màu&#39; Wisconsin](https://vnexpress.net/chien-thuat-ong-trump-thuc-day-de-doi-mau-wisconsin-4811251.html) - 02:44 04/11/2024
-- 🎉 [Tổng thống thân EU của Moldova tái đắc cử](https://vnexpress.net/tong-thong-than-eu-cua-moldova-tai-dac-cu-4811703.html) - 02:19 04/11/2024
-- 🎡 [Ông Trump cáo buộc có âm mưu gian lận bầu cử ở bang chiến trường](https://vnexpress.net/ong-trump-cao-buoc-co-am-muu-gian-lan-bau-cu-o-bang-chien-truong-4811702.html) - 02:10 04/11/2024
-- 🌜 [Bà Harris bỏ phiếu bầu qua thư](https://vnexpress.net/ba-harris-bo-phieu-bau-qua-thu-4811710.html) - 01:36 04/11/2024
-- 🎡 [UAV Lancet tập kích radar chống drone, pháo triệu USD của Ukraine](https://vnexpress.net/uav-lancet-tap-kich-radar-chong-drone-phao-trieu-usd-cua-ukraine-4811667.html) - 00:22 04/11/2024
-- 🤗 [Thổ Nhĩ Kỳ hối thúc LHQ cấm vận vũ khí với Israel](https://vnexpress.net/tho-nhi-ky-hoi-thuc-lhq-cam-van-vu-khi-voi-israel-4811698.html) - 00:09 04/11/2024
-- 🦩 [Ông Netanyahu đến biên giới, cam kết tiếp tục đẩy lùi Hezbollah](https://vnexpress.net/ong-netanyahu-den-bien-gioi-cam-ket-tiep-tuc-day-lui-hezbollah-4811693.html) - 23:44 03/11/2024
-- 🎓 [Cuộc đua đốt tiền trong bầu cử Mỹ](https://vnexpress.net/cuoc-dua-dot-tien-trong-bau-cu-my-4809565.html) - 22:00 03/11/2024
-- 🌁 [Tên lửa &#39;mạnh nhất thế giới&#39; có thể giúp Triều Tiên tăng răn đe Mỹ](https://vnexpress.net/ten-lua-manh-nhat-the-gioi-co-the-giup-trieu-tien-tang-ran-de-my-4811139.html) - 17:00 03/11/2024
-- 🤩 [Vua Tây Ban Nha bị ném bùn khi thăm vùng lũ quét](https://vnexpress.net/vua-tay-ban-nha-bi-nem-bun-khi-tham-vung-lu-quet-4811674.html) - 16:59 03/11/2024
-- 👹 [Bà Harris, ông Trump so kè trong khảo sát ở các bang chiến trường](https://vnexpress.net/ba-harris-ong-trump-so-ke-trong-khao-sat-o-cac-bang-chien-truong-4811654.html) - 14:43 03/11/2024
-- ⛽️ [Thủ tướng Phạm Minh Chính sắp công tác tại Trung Quốc](https://vnexpress.net/thu-tuong-pham-minh-chinh-sap-cong-tac-tai-trung-quoc-4811643.html) - 13:09 03/11/2024
-- 🚀 [Hungary nói châu Âu &#39;cần thay đổi chính sách Ukraine&#39; nếu Trump đắc cử](https://vnexpress.net/hungary-noi-chau-au-can-thay-doi-chinh-sach-ukraine-neu-trump-dac-cu-4811634.html) - 12:06 03/11/2024
-- 🎡 [Thủ tướng Israel củng cố vị thế trong nước bằng thành tựu quân sự](https://vnexpress.net/thu-tuong-israel-cung-co-vi-the-trong-nuoc-bang-thanh-tuu-quan-su-4807291.html) - 12:04 03/11/2024
-- 🕯 [Bà Harris xuất hiện trong chương trình hài kịch sát ngày bầu cử](https://vnexpress.net/ba-harris-xuat-hien-trong-chuong-trinh-hai-kich-sat-ngay-bau-cu-4811605.html) - 09:16 03/11/2024
-- 🐻 [Oanh tạc cơ chiến lược Mỹ diễn tập với Nhật Bản, Hàn Quốc](https://vnexpress.net/oanh-tac-co-chien-luoc-my-dien-tap-voi-nhat-ban-han-quoc-4811601.html) - 07:41 03/11/2024
-- 🚦 [Quan hệ Israel - châu Âu rạn nứt khi xung đột Trung Đông lan rộng](https://vnexpress.net/quan-he-israel-chau-au-ran-nut-khi-xung-dot-trung-dong-lan-rong-4807768.html) - 04:43 03/11/2024
-- 👍 [15.000 phụ nữ Mỹ tuần hành ủng hộ bà Harris](https://vnexpress.net/15-000-phu-nu-my-tuan-hanh-ung-ho-ba-harris-4811560.html) - 04:05 03/11/2024
-- 🚀 [Trung tâm tiêm chủng ở Gaza trúng đòn tập kích](https://vnexpress.net/trung-tam-tiem-chung-o-gaza-trung-don-tap-kich-4811541.html) - 03:10 03/11/2024
-- 🌮 [Đặc nhiệm Israel đột kích miền bắc Lebanon, bắt &#39;thành viên cấp cao Hezbollah&#39;](https://vnexpress.net/dac-nhiem-israel-dot-kich-mien-bac-lebanon-bat-thanh-vien-cap-cao-hezbollah-4811507.html) - 00:13 03/11/2024
-- 😎 [Khác biệt trong chính sách của Trump - Harris với châu Á](https://vnexpress.net/khac-biet-trong-chinh-sach-cua-trump-harris-voi-chau-a-4811289.html) - 22:00 02/11/2024
-- 🐲 [Phong trào MAGA sẵn sàng làm mọi thứ để đưa Trump vào Nhà Trắng](https://vnexpress.net/phong-trao-maga-san-sang-lam-moi-thu-de-dua-trump-vao-nha-trang-4810899.html) - 17:00 02/11/2024
-- 💫 [Tây Ban Nha điều 10.000 binh sĩ, cảnh sát cứu trợ khu vực lũ quét](https://vnexpress.net/tay-ban-nha-dieu-10-000-binh-si-canh-sat-cuu-tro-khu-vuc-lu-quet-4811472.html) - 14:42 02/11/2024
-- 👀 [Nga công bố danh tính &#39;người Mỹ nằm vùng&#39; tại Ukraine](https://vnexpress.net/nga-cong-bo-danh-tinh-nguoi-my-nam-vung-tai-ukraine-4811465.html) - 14:00 02/11/2024<!-- vnexpress-the-gioi:END -->
+- 🌁 [Người nhập cư trái phép lo bị trục xuất hàng loạt nếu Trump đắc cử](https://vnexpress.net/nguoi-nhap-cu-trai-phep-lo-bi-truc-xuat-hang-loat-neu-trump-dac-cu-4811762.html) - 22:00 04/11/2024
+- 🌊 [Người Mỹ đi bầu tổng thống hôm nay](https://vnexpress.net/nguoi-my-di-bau-tong-thong-hom-nay-4811924.html) - 17:18 04/11/2024
+- 🕴 [Cuộc bầu cử định đoạt cục diện lưỡng viện quốc hội Mỹ](https://vnexpress.net/cuoc-bau-cu-dinh-doat-cuc-dien-luong-vien-quoc-hoi-my-4811722.html) - 17:00 04/11/2024
+- 🎓 [Nước Mỹ trước ngày bầu cử tổng thống](https://vnexpress.net/nuoc-my-truoc-ngay-bau-cu-tong-thong-4812102.html) - 15:02 04/11/2024
+- 🦩 [Những người Mỹ gốc Arab muốn trừng phạt bà Harris](https://vnexpress.net/nhung-nguoi-my-goc-arab-muon-trung-phat-ba-harris-4811781.html) - 13:47 04/11/2024
+- 🌏 [Hơn 74 triệu người Mỹ đã bỏ phiếu bầu tổng thống](https://vnexpress.net/hon-74-trieu-nguoi-my-da-bo-phieu-bau-tong-thong-4812094.html) - 12:29 04/11/2024
+- 🌋 [Mỹ chạy đua đảm bảo an ninh trước thềm bầu cử](https://vnexpress.net/my-chay-dua-dam-bao-an-ninh-truoc-them-bau-cu-4811714.html) - 12:00 04/11/2024
+- 🪜 [Núi lửa Indonesia phun trào, thiêu rụi nhiều nhà dân](https://vnexpress.net/nui-lua-indonesia-phun-trao-thieu-rui-nhieu-nha-dan-4812084.html) - 11:33 04/11/2024
+- 🕴 [Trực thăng chiến đấu rơi, tướng Iran thiệt mạng](https://vnexpress.net/truc-thang-chien-dau-roi-tuong-iran-thiet-mang-4811963.html) - 09:06 04/11/2024
+- 🧑‍🏫 [Xe buýt lao xuống vực, ít nhất 36 người chết](https://vnexpress.net/xe-buyt-lao-xuong-vuc-it-nhat-36-nguoi-chet-4811965.html) - 08:56 04/11/2024
+- 🌮 [Cách Milwaukee bảo vệ phiếu bầu giữa áp lực an ninh](https://vnexpress.net/cach-milwaukee-bao-ve-phieu-bau-giua-ap-luc-an-ninh-4811254.html) - 08:53 04/11/2024
+- 🚦 [Israel cắt quan hệ với cơ quan cứu trợ LHQ](https://vnexpress.net/israel-cat-quan-he-voi-co-quan-cuu-tro-lhq-4811909.html) - 07:51 04/11/2024
+- 💫 [Điểm nhấn trong chính sách đối ngoại của bà Harris nếu đắc cử](https://vnexpress.net/diem-nhan-trong-chinh-sach-doi-ngoai-cua-ba-harris-neu-dac-cu-4810873.html) - 05:00 04/11/2024
+- 🤡 [Trump nói &#39;không quan tâm&#39; nếu các nhà báo bị bắn](https://vnexpress.net/trump-noi-khong-quan-tam-neu-cac-nha-bao-bi-ban-4811777.html) - 04:34 04/11/2024
+- 🦣 [Động lực có thể thúc đẩy làn sóng &#39;xuất khẩu con nuôi&#39; ở Hàn Quốc](https://vnexpress.net/dong-luc-co-the-thuc-day-lan-song-xuat-khau-con-nuoi-o-han-quoc-4811083.html) - 03:54 04/11/2024
+- 🎬 [Hạt ở Mỹ chọn đúng ứng viên đắc cử tổng thống trong suốt 40 năm](https://vnexpress.net/hat-o-my-chon-dung-ung-vien-dac-cu-tong-thong-trong-suot-40-nam-4811717.html) - 02:50 04/11/2024
+- 🎉 [Chiến thuật ông Trump thúc đẩy để &#39;đổi màu&#39; Wisconsin](https://vnexpress.net/chien-thuat-ong-trump-thuc-day-de-doi-mau-wisconsin-4811251.html) - 02:44 04/11/2024
+- 🎡 [Tổng thống thân EU của Moldova tái đắc cử](https://vnexpress.net/tong-thong-than-eu-cua-moldova-tai-dac-cu-4811703.html) - 02:19 04/11/2024
+- 🌜 [Ông Trump cáo buộc có âm mưu gian lận bầu cử ở bang chiến trường](https://vnexpress.net/ong-trump-cao-buoc-co-am-muu-gian-lan-bau-cu-o-bang-chien-truong-4811702.html) - 02:10 04/11/2024
+- 🎡 [Bà Harris bỏ phiếu bầu qua thư](https://vnexpress.net/ba-harris-bo-phieu-bau-qua-thu-4811710.html) - 01:36 04/11/2024
+- 🤗 [UAV Lancet tập kích radar chống drone, pháo triệu USD của Ukraine](https://vnexpress.net/uav-lancet-tap-kich-radar-chong-drone-phao-trieu-usd-cua-ukraine-4811667.html) - 00:22 04/11/2024
+- 🦩 [Thổ Nhĩ Kỳ hối thúc LHQ cấm vận vũ khí với Israel](https://vnexpress.net/tho-nhi-ky-hoi-thuc-lhq-cam-van-vu-khi-voi-israel-4811698.html) - 00:09 04/11/2024
+- 🎓 [Ông Netanyahu đến biên giới, cam kết tiếp tục đẩy lùi Hezbollah](https://vnexpress.net/ong-netanyahu-den-bien-gioi-cam-ket-tiep-tuc-day-lui-hezbollah-4811693.html) - 23:44 03/11/2024
+- 🌁 [Cuộc đua đốt tiền trong bầu cử Mỹ](https://vnexpress.net/cuoc-dua-dot-tien-trong-bau-cu-my-4809565.html) - 22:00 03/11/2024
+- 🤩 [Tên lửa &#39;mạnh nhất thế giới&#39; có thể giúp Triều Tiên tăng răn đe Mỹ](https://vnexpress.net/ten-lua-manh-nhat-the-gioi-co-the-giup-trieu-tien-tang-ran-de-my-4811139.html) - 17:00 03/11/2024
+- 👹 [Vua Tây Ban Nha bị ném bùn khi thăm vùng lũ quét](https://vnexpress.net/vua-tay-ban-nha-bi-nem-bun-khi-tham-vung-lu-quet-4811674.html) - 16:59 03/11/2024
+- ⛽️ [Bà Harris, ông Trump so kè trong khảo sát ở các bang chiến trường](https://vnexpress.net/ba-harris-ong-trump-so-ke-trong-khao-sat-o-cac-bang-chien-truong-4811654.html) - 14:43 03/11/2024
+- 🚀 [Thủ tướng Phạm Minh Chính sắp công tác tại Trung Quốc](https://vnexpress.net/thu-tuong-pham-minh-chinh-sap-cong-tac-tai-trung-quoc-4811643.html) - 13:09 03/11/2024
+- 🎡 [Hungary nói châu Âu &#39;cần thay đổi chính sách Ukraine&#39; nếu Trump đắc cử](https://vnexpress.net/hungary-noi-chau-au-can-thay-doi-chinh-sach-ukraine-neu-trump-dac-cu-4811634.html) - 12:06 03/11/2024
+- 🕯 [Thủ tướng Israel củng cố vị thế trong nước bằng thành tựu quân sự](https://vnexpress.net/thu-tuong-israel-cung-co-vi-the-trong-nuoc-bang-thanh-tuu-quan-su-4807291.html) - 12:04 03/11/2024
+- 🐻 [Bà Harris xuất hiện trong chương trình hài kịch sát ngày bầu cử](https://vnexpress.net/ba-harris-xuat-hien-trong-chuong-trinh-hai-kich-sat-ngay-bau-cu-4811605.html) - 09:16 03/11/2024
+- 🚦 [Oanh tạc cơ chiến lược Mỹ diễn tập với Nhật Bản, Hàn Quốc](https://vnexpress.net/oanh-tac-co-chien-luoc-my-dien-tap-voi-nhat-ban-han-quoc-4811601.html) - 07:41 03/11/2024
+- 👍 [Quan hệ Israel - châu Âu rạn nứt khi xung đột Trung Đông lan rộng](https://vnexpress.net/quan-he-israel-chau-au-ran-nut-khi-xung-dot-trung-dong-lan-rong-4807768.html) - 04:43 03/11/2024
+- 🚀 [15.000 phụ nữ Mỹ tuần hành ủng hộ bà Harris](https://vnexpress.net/15-000-phu-nu-my-tuan-hanh-ung-ho-ba-harris-4811560.html) - 04:05 03/11/2024
+- 🌮 [Trung tâm tiêm chủng ở Gaza trúng đòn tập kích](https://vnexpress.net/trung-tam-tiem-chung-o-gaza-trung-don-tap-kich-4811541.html) - 03:10 03/11/2024
+- 😎 [Đặc nhiệm Israel đột kích miền bắc Lebanon, bắt &#39;thành viên cấp cao Hezbollah&#39;](https://vnexpress.net/dac-nhiem-israel-dot-kich-mien-bac-lebanon-bat-thanh-vien-cap-cao-hezbollah-4811507.html) - 00:13 03/11/2024
+- 🐲 [Khác biệt trong chính sách của Trump - Harris với châu Á](https://vnexpress.net/khac-biet-trong-chinh-sach-cua-trump-harris-voi-chau-a-4811289.html) - 22:00 02/11/2024
+- 💫 [Phong trào MAGA sẵn sàng làm mọi thứ để đưa Trump vào Nhà Trắng](https://vnexpress.net/phong-trao-maga-san-sang-lam-moi-thu-de-dua-trump-vao-nha-trang-4810899.html) - 17:00 02/11/2024
+- 👀 [Tây Ban Nha điều 10.000 binh sĩ, cảnh sát cứu trợ khu vực lũ quét](https://vnexpress.net/tay-ban-nha-dieu-10-000-binh-si-canh-sat-cuu-tro-khu-vuc-lu-quet-4811472.html) - 14:42 02/11/2024<!-- vnexpress-the-gioi:END -->
