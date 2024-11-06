@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Máy bay quân sự Yak-130 rơi ở Bình Định](https://vnexpress.net/may-bay-quan-su-yak-130-roi-o-binh-dinh-4812785.html) - 06:50 06/11/2024
+- 🦒 [Nhiều đất &#39;vàng&#39; trung tâm TP HCM bị cho thuê trái quy định](https://vnexpress.net/nhieu-dat-vang-trung-tam-tp-hcm-bi-cho-thue-trai-quy-dinh-4812748.html) - 07:08 06/11/2024
 - 🤓 [Ông Trần Huy Tuấn làm Bí thư Tỉnh ủy Yên Bái](https://vnexpress.net/ong-tran-huy-tuan-lam-bi-thu-tinh-uy-yen-bai-4812806.html) - 06:47 06/11/2024
 - ⚗️ [Bão mạnh cấp 13 gần Biển Đông](https://vnexpress.net/bao-manh-cap-13-gan-bien-dong-4812765.html) - 05:01 06/11/2024
 - 🌊 [Chuyên gia bàn giải pháp thúc đẩy kinh tế xanh cho ĐBSCL](https://vnexpress.net/chuyen-gia-ban-giai-phap-thuc-day-kinh-te-xanh-cho-dbscl-4812307.html) - 04:00 06/11/2024
