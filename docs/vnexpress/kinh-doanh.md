@@ -4,9 +4,9 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Vàng nhẫn trơn giảm về quanh 88 triệu đồng](https://vnexpress.net/nhan-tron-giam-ve-vung-88-trieu-dong-4812911.html) - 09:24 06/11/2024
-- 🐲 [Chứng khoán tăng 15 điểm](https://vnexpress.net/chung-khoan-tang-15-diem-4812924.html) - 09:08 06/11/2024
-- 🔥 [Đơn hàng sản xuất phục hồi](https://vnexpress.net/don-hang-san-xuat-phuc-hoi-4812517.html) - 08:54 06/11/2024
+- ⛽️ [Tuyến đường sắt nối với Trung Quốc dự kiến khởi công vào 2025](https://vnexpress.net/tuyen-duong-sat-noi-voi-trung-quoc-du-kien-khoi-cong-vao-2025-4812976.html) - 10:32 06/11/2024
+- 🐲 [Vàng nhẫn trơn giảm về quanh 88 triệu đồng](https://vnexpress.net/nhan-tron-giam-ve-vung-88-trieu-dong-4812911.html) - 09:24 06/11/2024
+- 🔥 [Chứng khoán tăng 15 điểm](https://vnexpress.net/chung-khoan-tang-15-diem-4812924.html) - 09:08 06/11/2024
 - 🐵 [Vinhomes và VinFast là thương hiệu quốc gia](https://vnexpress.net/vinhomes-va-vinfast-la-thuong-hieu-quoc-gia-4812719.html) - 07:00 06/11/2024
 - 🦅 [VIB nhận kỷ lục về tính năng cá nhân hóa thiết kế thẻ tín dụng](https://vnexpress.net/vib-nhan-ky-luc-ve-tinh-nang-ca-nhan-hoa-thiet-ke-the-tin-dung-4812510.html) - 06:00 06/11/2024
 - 😺 [&#39;Kiểm soát quyền lực để giảm gánh nặng cho người duyệt dự án&#39;](https://vnexpress.net/kiem-soat-quyen-luc-de-giam-ganh-nang-cho-nguoi-duyet-du-an-4812645.html) - 05:33 06/11/2024
