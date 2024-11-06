@@ -23,7 +23,7 @@ sidebar_position: 2
 - 🤡 [Ông Trump áp đảo ở các bang chiến trường](https://vnexpress.net/giang-co-o-7-bang-chien-truong-dinh-doat-bau-cu-my-4810598.html) - 00:43 06/11/2024
 - 🌁 [Truyền thông Mỹ xướng tên người đắc cử thế nào](https://vnexpress.net/truyen-thong-my-xuong-ten-nguoi-dac-cu-the-nao-4811304.html) - 00:30 06/11/2024
 - 🤩 [Lý do Mỹ khó công bố người chiến thắng ngay đêm bầu cử](https://vnexpress.net/ly-do-my-kho-cong-bo-nguoi-chien-thang-ngay-dem-bau-cu-4810347.html) - 00:07 06/11/2024
-- 🎉 [Donald Trump đắc cử tổng thống Mỹ](https://vnexpress.net/my-bat-dau-kiem-phieu-bau-tong-thong-4812573.html) - 23:40 05/11/2024
+- 🎉 [Donald Trump đắc cử tổng thống Mỹ](https://vnexpress.net/my-bat-dau-kiem-phieu-bau-tong-thong-4812573-tong-thuat.html) - 23:40 05/11/2024
 - 🎉 [Người Mỹ gốc Việt nêu lý do bầu cho Trump, Harris](https://vnexpress.net/nguoi-my-goc-viet-neu-ly-do-bau-cho-trump-harris-4812306.html) - 22:00 05/11/2024
 - 🌁 [Thủ tướng Israel sa thải Bộ trưởng Quốc phòng](https://vnexpress.net/thu-tuong-israel-sa-thai-bo-truong-quoc-phong-4812574.html) - 20:07 05/11/2024
 - 🌊 [Người dân khắp thế giới theo dõi bầu cử tổng thống Mỹ](https://vnexpress.net/nguoi-dan-khap-the-gioi-theo-doi-bau-cu-tong-thong-my-4812524.html) - 19:17 05/11/2024
