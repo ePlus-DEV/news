@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [CEO Công ty Tường Việt muốn nhận lại 53 bất động sản trong vụ án Vạn Thịnh Phát](https://vnexpress.net/ceo-cong-ty-tuong-viet-muon-nhan-lai-53-bat-dong-san-trong-vu-an-van-thinh-phat-4812540.html) - 17:00 05/11/2024
-- 🥰 [10 năm vận hành web khiêu dâm &#39;Thiên địa&#39;](https://vnexpress.net/10-nam-van-hanh-web-khieu-dam-thien-dia-4812319.html) - 17:00 05/11/2024
+- 🥰 [10 năm tạo hệ lụy xấu của các bị cáo vận hành web khiêu dâm &#39;Thiên địa&#39;](https://vnexpress.net/10-nam-tao-he-luy-xau-cua-cac-bi-cao-van-hanh-web-khieu-dam-thien-dia-4812319.html) - 17:00 05/11/2024
 - 🎓 [Trẻ con làm hư đồ của người khác, cha mẹ có phải bồi thường?](https://vnexpress.net/tre-con-lam-hu-do-cua-nguoi-khac-cha-me-co-phai-boi-thuong-4812181.html) - 17:00 05/11/2024
 - 🤓 [Giáo sư chết thảm vì người tình trẻ tham tiền](https://vnexpress.net/giao-su-chet-tham-vi-tinh-tre-tham-tien-4812513.html) - 15:00 05/11/2024
 - 🎊 [Đứng chặn tàu hỏa đang chạy để tìm ba lô bỏ quên](https://vnexpress.net/dung-chan-tau-hoa-dang-chay-de-tim-balo-bo-quen-4812491.html) - 13:22 05/11/2024
