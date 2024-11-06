@@ -56,5 +56,5 @@ sidebar_position: 9
 - 🦩 [Tuyến đường sắt nối với Trung Quốc dự kiến khởi công vào 2025](https://vnexpress.net/tuyen-duong-sat-noi-voi-trung-quoc-du-kien-khoi-cong-vao-2025-4812976.html) - 10:32 06/11/2024
 - 👍 [Điện lực miền Nam vận hành loạt lưới điện trọng điểm](https://vnexpress.net/dien-luc-mien-nam-van-hanh-loat-luoi-dien-trong-diem-4812726.html) - 10:30 06/11/2024
 - 🔥 [Sứ Long Phương đạt &#39;Thương hiệu quốc gia Việt Nam 2024&#39;](https://vnexpress.net/su-long-phuong-dat-thuong-hieu-quoc-gia-viet-nam-2024-4812671.html) - 10:30 06/11/2024
-- 💄 [Quân đội tiếp cận được phi công vụ máy bay rơi ở Bình Định](https://vnexpress.net/quan-doi-tiep-can-duoc-phi-cong-vu-may-bay-roi-o-binh-dinh-4812984.html) - 10:24 06/11/2024
+- 💄 [Cứu hộ tìm thấy hai phi công vụ máy bay rơi ở Bình Định](https://vnexpress.net/cuu-ho-tim-thay-hai-phi-cong-vu-may-bay-roi-o-binh-dinh-4812984.html) - 10:24 06/11/2024
 - 🤡 [Có ba nhà Sài Gòn nhưng để con tay trắng vào đời](https://vnexpress.net/co-ba-nha-sai-gon-nhung-de-con-tay-trang-vao-doi-4812929.html) - 10:05 06/11/2024<!-- vnexpress-tin-moi-nhat:END -->
