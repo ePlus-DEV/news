@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [70 kg ma túy chất đầy chiếc ôtô chạy qua biên giới](https://vnexpress.net/70-kg-ma-tuy-chat-day-chiec-oto-chay-qua-bien-gioi-4812998.html) - 12:23 06/11/2024
-- 🥰 [Hàng trăm cảnh sát vây bắt nghi phạm giết người](https://vnexpress.net/hang-tram-canh-sat-vay-bat-nghi-pham-giet-nguoi-4813007.html) - 12:12 06/11/2024
+- 🥰 [Hơn 100 cảnh sát vây bắt nghi phạm giết người](https://vnexpress.net/hang-tram-canh-sat-vay-bat-nghi-pham-giet-nguoi-4813007.html) - 12:12 06/11/2024
 - 🎓 [Giả cảnh sát hình sự 3 lần cướp tiền cùng một người](https://vnexpress.net/gia-canh-sat-hinh-su-3-lan-cuop-tien-cung-mot-nguoi-4812999.html) - 12:02 06/11/2024
 - 🤓 [Vỏ bọc bà nội trợ của trùm mafia khét tiếng, tàn nhẫn](https://vnexpress.net/doi-nhu-phim-cua-ba-trum-mafia-khet-tieng-4812981.html) - 11:18 06/11/2024
 - 🎊 [Văn phòng Netflix tại Châu Âu bị đột kích trong cuộc điều tra gian lận thuế](https://vnexpress.net/van-phong-netflix-tai-chau-au-bi-dot-kich-trong-cuoc-dieu-tra-gian-lan-thue-4812933.html) - 10:02 06/11/2024
