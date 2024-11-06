@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Bitcoin lập kỷ lục 74.800 USD khi Trump tạm dẫn dầu](https://vnexpress.net/bitcoin-cham-71-500-usd-khi-trump-tam-dan-dau-4812646.html) - 02:59 06/11/2024
+- ⛽️ [Bitcoin lập kỷ lục 74.800 USD khi Trump tạm dẫn trước](https://vnexpress.net/bitcoin-cham-71-500-usd-khi-trump-tam-dan-dau-4812646.html) - 02:59 06/11/2024
 - 🐲 [Nvidia vượt Apple để thành công ty giá trị nhất thế giới](https://vnexpress.net/nvidia-vuot-apple-de-thanh-cong-ty-gia-tri-nhat-the-gioi-4812599.html) - 01:15 06/11/2024
 - 🔥 [Giá vàng, chứng khoán Mỹ cùng tăng trong ngày bầu cử](https://vnexpress.net/gia-vang-chung-khoan-my-cung-tang-trong-ngay-bau-cu-4812590.html) - 00:44 06/11/2024
 - 🐵 [Hải Phòng giải ngân gần 9.500 tỷ vốn đầu tư công](https://vnexpress.net/hai-phong-giai-ngan-gan-9-500-ty-von-dau-tu-cong-4812450.html) - 00:30 06/11/2024
