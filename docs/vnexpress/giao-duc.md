@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [5 từ vựng tiếng Anh về ngày bầu cử tổng thống Mỹ](https://vnexpress.net/5-tu-vung-tieng-anh-ve-ngay-bau-cu-tong-thong-my-4812733.html) - 05:02 06/11/2024
+- 🤓 [4 từ vựng tiếng Anh về ngày bầu cử tổng thống Mỹ](https://vnexpress.net/4-tu-vung-tieng-anh-ve-ngay-bau-cu-tong-thong-my-4812733.html) - 05:02 06/11/2024
 - 🦆 [10 đại học dẫn đầu Australia về tỷ lệ việc làm của du học sinh](https://vnexpress.net/10-dai-hoc-dan-dau-australia-ve-ty-le-viec-lam-cua-du-hoc-sinh-4812587.html) - 01:07 06/11/2024
 - 🦩 [Bốn trường ở Bắc Ninh cho học sinh nghỉ thứ bảy](https://vnexpress.net/bon-truong-o-bac-ninh-cho-hoc-sinh-nghi-thu-bay-4812553.html) - 22:27 05/11/2024
 - 🌮 [Đại học đổi giáo trình với thí sinh theo chương trình mới](https://vnexpress.net/dai-hoc-doi-giao-trinh-voi-thi-sinh-theo-chuong-trinh-moi-4812426.html) - 15:24 05/11/2024
