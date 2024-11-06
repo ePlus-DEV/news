@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Asics có thể ra mắt hai siêu giày đua mới năm 2025](https://vnexpress.net/asics-co-the-ra-mat-hai-sieu-giay-dua-moi-nam-2025-4812790.html) - 05:36 06/11/2024
-- 🦩 [Arne Slot bắt kịp một kỷ lục của Klopp](https://vnexpress.net/arne-slot-bat-kip-mot-ky-luc-cua-klopp-4812613.html) - 05:00 06/11/2024
+- 🦩 [Slot sớm bắt kịp kỷ lục của Klopp](https://vnexpress.net/slot-som-bat-kip-ky-luc-cua-klopp-4812613.html) - 05:00 06/11/2024
 - 🧰 [Runner ấn tượng với màu &#39;hoa phượng đỏ&#39; trên áo đấu VM Hải Phòng](https://vnexpress.net/runner-an-tuong-voi-mau-hoa-phuong-do-tren-ao-dau-vm-hai-phong-4812718.html) - 04:38 06/11/2024
 - 🤗 [Bỏ ATP Finals khiến Djokovic bất lợi ở Australia Mở rộng 2025](https://vnexpress.net/bo-atp-finals-khien-djokovic-bat-loi-o-australia-mo-rong-2025-4812739.html) - 04:20 06/11/2024
 - 🥳 [Vợ tiền vệ Real công kích Ancelotti](https://vnexpress.net/vo-tien-ve-real-cong-kich-ancelotti-4812591.html) - 03:24 06/11/2024
