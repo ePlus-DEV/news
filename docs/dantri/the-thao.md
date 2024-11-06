@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Mục tiêu của Man Utd nhấn chìm Man City, khiến Erling Haaland lu mờ](https://dantri.com.vn/the-thao/muc-tieu-cua-man-utd-nhan-chim-man-city-khien-erling-haaland-lu-mo-20241106172748731.htm) - 10:27 06/11/2024
+- 🎡 [Mục tiêu của Man Utd nhấn chìm Man City, khiến Erling Haaland bị lu mờ](https://dantri.com.vn/the-thao/muc-tieu-cua-man-utd-nhan-chim-man-city-khien-erling-haaland-bi-lu-mo-20241106172748731.htm) - 10:51 06/11/2024
 - 💯 [Lập kỷ lục khi hủy diệt Man City, Ruben Amorim được ví như Sir Alex](https://dantri.com.vn/the-thao/lap-ky-luc-khi-huy-diet-man-city-ruben-amorim-duoc-vi-nhu-sir-alex-20241106132143577.htm) - 06:21 06/11/2024
 - ⛽️ [Chủ tịch bị đình chỉ, bóng đá Hàn Quốc có nguy cơ bị FIFA cấm vận](https://dantri.com.vn/the-thao/chu-tich-bi-dinh-chi-bong-da-han-quoc-co-nguy-co-bi-fifa-cam-van-20241106105734846.htm) - 04:09 06/11/2024
 - 💃 [Thắng đậm Man City, HLV Amorim sẵn sàng cho thử thách tại Man Utd](https://dantri.com.vn/the-thao/thang-dam-man-city-hlv-amorim-san-sang-cho-thu-thach-tai-man-utd-20241106102732629.htm) - 04:08 06/11/2024
