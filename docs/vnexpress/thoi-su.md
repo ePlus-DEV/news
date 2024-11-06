@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Những đứa trẻ ở lại sau dòng chảy di cư](https://vnexpress.net/nhung-dua-tre-o-lai-sau-dong-chay-di-cu-4812377.html) - 23:00 06/11/2024
 - 🤓 [Đá hàng trăm kg nguy cơ lăn xuống đường ở Nha Trang](https://vnexpress.net/da-hang-tram-kg-nguy-co-lan-xuong-duong-o-nha-trang-4812749.html) - 22:00 06/11/2024
-- ⚗️ [&#39;Sự cố phức tạp như vậy phi công chỉ còn cách nhảy dù&#39;](https://vnexpress.net/su-co-phuc-tap-nhu-vay-phi-cong-chi-con-cach-nhay-du-4813061.html) - 20:12 06/11/2024
+- ⚗️ [&#39;Phi công phải nhảy dù vì sự cố vô cùng phức tạp&#39;](https://vnexpress.net/phi-cong-phai-nhay-du-vi-su-co-vo-cung-phuc-tap-4813061.html) - 20:12 06/11/2024
 - 🌊 [Hạ rào, đổi tên công viên Tuổi trẻ Thủ đô](https://vnexpress.net/ha-rao-doi-ten-cong-vien-tuoi-tre-thu-do-4813030.html) - 20:00 06/11/2024
 - 🎓 [Hà Nội ra mắt tổ chữa cháy và cứu nạn cứu hộ tinh nhuệ](https://vnexpress.net/ha-noi-ra-mat-to-chua-chay-va-cuu-nan-cuu-ho-tinh-nhue-4812991.html) - 19:00 06/11/2024
 - 🔥 [Nhà đầu tư cao tốc Mộc Bài phải có vốn ít nhất 1.500 tỷ đồng](https://vnexpress.net/nha-dau-tu-cao-toc-moc-bai-phai-co-von-it-nhat-1-500-ty-dong-4812985.html) - 17:00 06/11/2024
