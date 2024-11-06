@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Phi công liên lạc về đơn vị sau vụ máy bay rơi ở Bình Định](https://vnexpress.net/phi-cong-lien-lac-ve-don-vi-sau-vu-may-bay-roi-o-binh-dinh-4812984.html) - 10:24 06/11/2024
+- 🦒 [Hai phi công liên lạc về đơn vị sau vụ máy bay rơi ở Bình Định](https://vnexpress.net/hai-phi-cong-lien-lac-ve-don-vi-sau-vu-may-bay-roi-o-binh-dinh-4812984.html) - 10:24 06/11/2024
 - 🤓 [Nhiều đất &#39;vàng&#39; trung tâm TP HCM bị cho thuê trái quy định](https://vnexpress.net/nhieu-dat-vang-trung-tam-tp-hcm-bi-cho-thue-trai-quy-dinh-4812748.html) - 07:08 06/11/2024
 - ⚗️ [Máy bay quân sự rơi ở Bình Định](https://vnexpress.net/may-bay-quan-su-roi-o-binh-dinh-4812785.html) - 06:50 06/11/2024
 - 🌊 [Ông Trần Huy Tuấn làm Bí thư Tỉnh ủy Yên Bái](https://vnexpress.net/ong-tran-huy-tuan-lam-bi-thu-tinh-uy-yen-bai-4812806.html) - 06:47 06/11/2024
