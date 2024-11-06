@@ -8,10 +8,10 @@ sidebar_position: 2
 - 🕴 [Những người nhập cư Mỹ nêu lý do bầu cho ông Trump](https://vnexpress.net/nhung-nguoi-nhap-cu-my-neu-ly-do-bau-cho-ong-trump-4812571.html) - 03:30 06/11/2024
 - 🤭 [Cử tri kiện Elon Musk vì không chọn ngẫu nhiên người nhận một triệu USD](https://vnexpress.net/cu-tri-kien-elon-musk-vi-khong-chon-ngau-nhien-nguoi-nhan-mot-trieu-usd-4812603.html) - 02:22 06/11/2024
 - 🧑‍💻 [Cử tri ủng hộ ông Trump về kinh tế, bà Harris về quyền phá thai](https://vnexpress.net/cu-tri-ung-ho-ong-trump-ve-kinh-te-ba-harris-ve-quyen-pha-thai-4812584.html) - 01:11 06/11/2024
-- 🦏 [Cục diện bang chiến trường nghiêng về ông Trump](https://vnexpress.net/giang-co-o-7-bang-chien-truong-dinh-doat-bau-cu-my-4810598.html) - 00:43 06/11/2024
+- 🦏 [6 trong 7 bang chiến trường nghiêng về ông Trump](https://vnexpress.net/giang-co-o-7-bang-chien-truong-dinh-doat-bau-cu-my-4810598.html) - 00:43 06/11/2024
 - 🦒 [Truyền thông Mỹ xướng tên người đắc cử thế nào](https://vnexpress.net/truyen-thong-my-xuong-ten-nguoi-dac-cu-the-nao-4811304.html) - 00:30 06/11/2024
 - 🌈 [Lý do Mỹ khó công bố người chiến thắng ngay đêm bầu cử](https://vnexpress.net/ly-do-my-kho-cong-bo-nguoi-chien-thang-ngay-dem-bau-cu-4810347.html) - 00:07 06/11/2024
-- 🧑‍🏫 [Ông Trump thắng bang chiến trường đầu tiên, thêm 16 phiếu](https://vnexpress.net/my-bat-dau-kiem-phieu-bau-tong-thong-4812573.html) - 23:40 05/11/2024
+- 🧑‍🏫 [Bà Harris thắng Washington và California, thêm 66 phiếu](https://vnexpress.net/my-bat-dau-kiem-phieu-bau-tong-thong-4812573.html) - 23:40 05/11/2024
 - 🐲 [Người Mỹ gốc Việt nêu lý do bầu cho Trump, Harris](https://vnexpress.net/nguoi-my-goc-viet-neu-ly-do-bau-cho-trump-harris-4812306.html) - 22:00 05/11/2024
 - 🦒 [Thủ tướng Israel sa thải Bộ trưởng Quốc phòng](https://vnexpress.net/thu-tuong-israel-sa-thai-bo-truong-quoc-phong-4812574.html) - 20:07 05/11/2024
 - 🐻 [Người dân khắp thế giới theo dõi bầu cử tổng thống Mỹ](https://vnexpress.net/nguoi-dan-khap-the-gioi-theo-doi-bau-cu-tong-thong-my-4812524.html) - 19:17 05/11/2024
