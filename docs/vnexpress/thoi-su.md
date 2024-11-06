@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Ghe lật giữa đầm An Khê, vợ chồng tử vong](https://vnexpress.net/ghe-lat-giua-dam-an-khe-vo-chong-tu-vong-4812631.html) - 02:27 06/11/2024
 - 🤓 [Cháy nhà ở Vũng Tàu, hai chị em tử vong](https://vnexpress.net/chay-nha-o-vung-tau-4812623.html) - 01:42 06/11/2024
 - ⚗️ [Những chuyến rời bản không hồi kết](https://vnexpress.net/nhung-chuyen-roi-ban-khong-hoi-ket-4812021.html) - 23:00 05/11/2024
-- 🌊 [8 năm trắc trở của dự án chống ngập 10.000 tỷ ở TP HCM](https://vnexpress.net/8-nam-trac-tro-cua-du-an-chong-ngap-10-000-ty-o-tp-hcm-4811651.html) - 22:00 05/11/2024
+- 🌊 [8 năm trắc trở của siêu dự án chống ngập cho 6,5 triệu dân TP HCM](https://vnexpress.net/8-nam-trac-tro-cua-sieu-du-an-chong-ngap-cho-6-5-trieu-dan-tp-hcm-4811651.html) - 22:00 05/11/2024
 - 🎓 [Làm giàu từ cánh đồng mẫu lớn](https://vnexpress.net/lam-giau-tu-canh-dong-mau-lon-4811993.html) - 21:00 05/11/2024
 - 🔥 [&#39;Thung lũng Silicon&#39; bỏ hoang ở Đà Nẵng](https://vnexpress.net/thung-lung-silicon-bo-hoang-o-da-nang-4812077.html) - 17:32 05/11/2024
 - 🦏 [Tìm thấy du khách đi lạc ở vườn quốc gia Hoàng Liên](https://vnexpress.net/tim-thay-du-khach-di-lac-o-vuon-quoc-gia-hoang-lien-4812564.html) - 16:35 05/11/2024
