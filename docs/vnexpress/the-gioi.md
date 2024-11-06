@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Lãnh đạo thế giới chúc mừng ông Trump](https://vnexpress.net/lanh-dao-the-gioi-chuc-mung-ong-trump-4812870.html) - 09:03 06/11/2024
 - 🕴 [Người trẻ Việt hào hứng theo dõi bầu cử tổng thống Mỹ](https://vnexpress.net/nguoi-tre-viet-hao-hung-theo-doi-bau-cu-tong-thong-my-4812802.html) - 08:08 06/11/2024
-- 🤭 [Ông Trump tuyên bố &#39;làm nên lịch sử&#39;](https://vnexpress.net/ong-trump-phat-bieu-mung-chien-thang-4812824.html) - 07:26 06/11/2024
+- 🤭 [Ông Trump tuyên bố &#39;làm nên lịch sử&#39;](https://vnexpress.net/ong-trump-phat-bieu-mung-chien-thang-4812824-tong-thuat.html) - 07:26 06/11/2024
 - 🧑‍💻 [Tâm trạng người Mỹ trong lúc chờ kết quả bầu cử](https://vnexpress.net/tam-trang-nguoi-my-trong-luc-cho-ket-qua-bau-cu-4812723.html) - 05:37 06/11/2024
 - 🦏 [Đảng Cộng hòa giành đa số Thượng viện Mỹ](https://vnexpress.net/dang-cong-hoa-gianh-da-so-thuong-vien-my-4812787.html) - 05:14 06/11/2024
 - 🦒 [Barron Trump lần đầu đi bỏ phiếu](https://vnexpress.net/barron-trump-lan-dau-di-bo-phieu-4812730.html) - 05:12 06/11/2024
