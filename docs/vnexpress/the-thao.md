@@ -4,8 +4,8 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Barca phá kỷ lục ghi bàn của CLB sau 74 năm](https://vnexpress.net/barca-pha-ky-luc-ghi-ban-cua-clb-sau-74-nam-4813075.html) - 01:04 07/11/2024
-- 🦩 [Arteta đòi phạt đền cho Arsenal](https://vnexpress.net/arteta-doi-phat-den-cho-arsenal-4813092.html) - 01:00 07/11/2024
+- 🪜 [Mẹo tăng tỷ lệ ném 3 điểm thành công trong bóng rổ](https://vnexpress.net/meo-tang-ty-le-nem-3-diem-thanh-cong-trong-bong-ro-4812961.html) - 02:15 07/11/2024
+- 🦩 [Barca phá kỷ lục ghi bàn của CLB sau 74 năm](https://vnexpress.net/barca-pha-ky-luc-ghi-ban-cua-clb-sau-74-nam-4813075.html) - 01:04 07/11/2024
 - 🧰 [HLV futsal Thái Lan: &#39;Thua Việt Nam cũng tốt&#39;](https://vnexpress.net/hlv-futsal-thai-lan-thua-viet-nam-cung-tot-4813060.html) - 23:48 06/11/2024
 - 🤗 [Bayern thắng bốn trận liên tiếp sau cú sốc Barca](https://vnexpress.net/bayern-thang-bon-tran-lien-tiep-sau-cu-soc-barca-4813072.html) - 23:33 06/11/2024
 - 🥳 [Neymar nghỉ thi đấu hơn một tháng](https://vnexpress.net/neymar-nghi-thi-dau-hon-mot-thang-4813063.html) - 23:01 06/11/2024
