@@ -4,12 +4,12 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Báo Nhân dân giành giải vàng giải thưởng Truyền thông châu Á](https://vnexpress.net/bao-nhan-dan-gianh-giai-vang-giai-thuong-truyen-thong-chau-a-4813160.html) - 02:38 07/11/2024
+- 🦒 [Báo Nhân Dân giành giải vàng giải thưởng Truyền thông châu Á](https://vnexpress.net/bao-nhan-dan-gianh-giai-vang-giai-thuong-truyen-thong-chau-a-4813160.html) - 02:38 07/11/2024
 - 🤓 [Hải Dương dôi dư hơn 400 cán bộ và 28 trụ sở sau sắp xếp](https://vnexpress.net/hai-duong-doi-du-hon-400-can-bo-va-28-tru-so-sau-sap-xep-4813108.html) - 02:09 07/11/2024
 - ⚗️ [Bão Yinxing mạnh lên cấp 15, hướng vào Biển Đông](https://vnexpress.net/bao-yinxing-manh-len-cap-15-huong-vao-bien-dong-4813112.html) - 01:39 07/11/2024
 - 🌊 [Những nội dung quan trọng tại Mekong Startup 2024](https://vnexpress.net/nhung-noi-dung-quan-trong-tai-mekong-startup-2024-4812714.html) - 01:00 07/11/2024
 - 🎓 [Cục Đường bộ: &#39;Nhà thầu cố tình không xóa quảng cáo trên biển báo cao tốc&#39;](https://vnexpress.net/cuc-duong-bo-nha-thau-co-tinh-khong-xoa-quang-cao-tren-bien-bao-cao-toc-4813015.html) - 00:00 07/11/2024
-- 🔥 [Những đứa trẻ ở lại sau dòng chảy di cư](https://vnexpress.net/nhung-dua-tre-o-lai-sau-dong-chay-di-cu-4812377.html) - 23:00 06/11/2024
+- 🔥 [Tuổi thơ mất mát trong dòng chảy di cư](https://vnexpress.net/tuoi-tho-mat-mat-trong-dong-chay-di-cu-4812377.html) - 23:00 06/11/2024
 - 🦏 [Đá hàng trăm kg nguy cơ lăn xuống đường ở Nha Trang](https://vnexpress.net/da-hang-tram-kg-nguy-co-lan-xuong-duong-o-nha-trang-4812749.html) - 22:00 06/11/2024
 - 👺 [&#39;Phi công phải nhảy dù vì sự cố vô cùng phức tạp&#39;](https://vnexpress.net/phi-cong-phai-nhay-du-vi-su-co-vo-cung-phuc-tap-4813061.html) - 20:12 06/11/2024
 - 🧑‍🏫 [Hạ rào, đổi tên công viên Tuổi trẻ Thủ đô](https://vnexpress.net/ha-rao-doi-ten-cong-vien-tuoi-tre-thu-do-4813030.html) - 20:00 06/11/2024
