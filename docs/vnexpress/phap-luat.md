@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Đấm vào mặt CSGT khi vi phạm nồng độ cồn](https://vnexpress.net/dam-vao-mat-csgt-khi-vi-pham-nong-do-con-4813219.html) - 04:11 07/11/2024
 - 🥰 [Ngăn chặn nhiều vụ lừa đảo qua mạng](https://vnexpress.net/ngan-chan-nhieu-vu-lua-dao-qua-mang-4812819.html) - 03:00 07/11/2024
 - 🎓 [Ba nhân viên ngân hàng lừa tiền doanh nhân &#39;muốn có sao kê 400 tỷ đồng&#39;](https://vnexpress.net/lam-gia-sao-ke-ngan-hang-400-ty-dong-de-lua-tien-doanh-nhan-4812972.html) - 17:50 06/11/2024
-- 🤓 [Nỗ lực &#39;tìm lại hào quang&#39; của tỷ phú xinh đẹp vướng án tù](https://vnexpress.net/no-luc-tim-lai-hao-quang-cua-ty-phu-xinh-dep-vuong-an-tu-4812809.html) - 17:00 06/11/2024
+- 🤓 [Đời thăng trầm của nữ tỷ phú &#39;biểu tượng nhan sắc&#39; vướng lao lý](https://vnexpress.net/doi-thang-tram-cua-nu-ty-phu-bieu-tuong-nhan-sac-vuong-lao-ly-4812809.html) - 17:00 06/11/2024
 - 🎊 [Mắc tội nào thì bị kê biên nhà đất của gia đình?](https://vnexpress.net/mac-toi-nao-thi-bi-ke-bien-nha-dat-cua-gia-dinh-4811880.html) - 17:00 06/11/2024
 - 🙉 [Nhiều giám đốc công ty bất động sản bị bắt vì lừa bán căn hộ](https://vnexpress.net/dung-hop-dong-cho-thue-50-nam-de-lua-ban-nhieu-can-ho-chung-cu-4813011.html) - 13:42 06/11/2024
 - 🤡 [70 kg ma túy chất đầy chiếc ôtô chạy qua biên giới](https://vnexpress.net/70-kg-ma-tuy-chat-day-chiec-oto-chay-qua-bien-gioi-4812998.html) - 12:23 06/11/2024
