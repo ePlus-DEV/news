@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Mỹ nhân &#39;Tình yêu trong sáng&#39; không tái hợp chồng cũ](https://vnexpress.net/my-nhan-tinh-yeu-trong-sang-khong-tai-hop-chong-cu-4813154.html) - 03:17 07/11/2024
-- 💫 [Trang phục tôn chiều cao 1,7 m của Mono](https://vnexpress.net/trang-phuc-ton-chieu-cao-1-7-m-cua-mono-4812476.html) - 02:19 07/11/2024
+- 💫 [Trang phục tôn chiều cao của Mono](https://vnexpress.net/trang-phuc-ton-chieu-cao-cua-mono-4812476.html) - 02:19 07/11/2024
 - 🌮 [Gợi ý phối bông tai kim cương với trang phục mùa đông](https://vnexpress.net/goi-y-phoi-bong-tai-kim-cuong-voi-trang-phuc-mua-dong-4812504.html) - 02:00 07/11/2024
 - 🧠 [Hello Kitty - biểu tượng văn hóa thế giới tròn 50 tuổi](https://vnexpress.net/hello-kitty-bieu-tuong-van-hoa-the-gioi-tron-50-tuoi-4812466.html) - 20:00 06/11/2024
 - 👨‍🏫 [Quang Minh: &#39;Tôi òa khóc khi có con ở tuổi 65&#39;](https://vnexpress.net/quang-minh-toi-oa-khoc-khi-co-con-o-tuoi-65-4810834.html) - 17:00 06/11/2024
