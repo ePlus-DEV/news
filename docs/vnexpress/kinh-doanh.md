@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [Đại biểu Quốc hội: Cần khởi động lại dự án điện hạt nhân Ninh Thuận](https://vnexpress.net/dai-bieu-quoc-hoi-can-khoi-dong-lai-du-an-dien-hat-nhan-ninh-thuan-4813432.html) - 13:37 07/11/2024
 - 🐲 [Canada ra lệnh đóng cửa hoạt động của TikTok](https://vnexpress.net/canada-ra-lenh-dong-cua-hoat-dong-cua-tiktok-4813377.html) - 13:22 07/11/2024
 - 🔥 [Ngân hàng Nhà nước bán ra 13 tấn vàng trong nửa năm](https://vnexpress.net/ngan-hang-nha-nuoc-ban-13-tan-vang-trong-nua-nam-4813451.html) - 12:43 07/11/2024
-- 🐵 [Nhiều người đổ đi bán vàng khi giá giảm 6 triệu đồng](https://vnexpress.net/nhieu-nguoi-dan-do-di-ban-vang-4813420.html) - 11:32 07/11/2024
+- 🐵 [Nhiều người đi bán vàng khi giá giảm 6 triệu đồng](https://vnexpress.net/nhieu-nguoi-dan-do-di-ban-vang-4813420.html) - 11:32 07/11/2024
 - 🦅 [&#39;Không thể chấp nhận việc bù chéo trong giá điện&#39;](https://vnexpress.net/khong-the-chap-nhan-viec-bu-cheo-trong-gia-dien-4813317.html) - 11:01 07/11/2024
 - 😺 [Chứng khoán đột ngột giảm những phút cuối phiên](https://vnexpress.net/chung-khoan-hom-nay-7-11-vn-index-roi-diem-nhung-phut-cuoi-phien-4813358.html) - 08:47 07/11/2024
 - 🤩 [Giá xăng lên sát 21.000 đồng một lít](https://vnexpress.net/gia-xang-moi-nhat-hom-nay-7-11-4813287.html) - 07:34 07/11/2024
