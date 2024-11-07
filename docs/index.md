@@ -44,8 +44,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🪄 [Vỡ ruột thừa mà không biết](https://vnexpress.net/vo-ruot-thua-ma-khong-biet-4813271.html) - 06:25 07/11/2024
 - 😎 [Tỉnh nào nước ta có biệt danh là &#39;Miền gái đẹp&#39;?](https://vnexpress.net/tinh-nao-nuoc-ta-co-biet-danh-la-mien-gai-dep-4813218.html) - 06:15 07/11/2024
 - 🎊 [5 ngành học dễ xin việc ở Australia](https://vnexpress.net/5-nganh-hoc-de-xin-viec-o-australia-4812915.html) - 06:00 07/11/2024
-- ⚗️ [Có nhiều bất động sản nhưng luôn lo lắng về thu nhập](https://vnexpress.net/co-nhieu-bat-dong-san-nhung-luon-lo-lang-ve-thu-nhap-4813204.html) - 06:00 07/11/2024
-- 🫣 [Thương đi rồi biết, anh đáng để em thương](https://vnexpress.net/thuong-di-roi-biet-anh-dang-de-em-thuong-4813114.html) - 06:00 07/11/2024
+- ⚗️ [Thương đi rồi biết, anh đáng để em thương](https://vnexpress.net/thuong-di-roi-biet-anh-dang-de-em-thuong-4813114.html) - 06:00 07/11/2024
+- 🫣 [Có nhiều bất động sản nhưng luôn lo lắng về thu nhập](https://vnexpress.net/co-nhieu-bat-dong-san-nhung-luon-lo-lang-ve-thu-nhap-4813204.html) - 06:00 07/11/2024
 - 👨‍🏫 [Ống đồng Toàn Phát được vinh danh &#39;Thương hiệu quốc gia 2024&#39;](https://vnexpress.net/ong-dong-toan-phat-duoc-vinh-danh-thuong-hieu-quoc-gia-2024-4813268.html) - 06:00 07/11/2024
 - 🐻 [Cách ăn DASH tốt cho huyết áp](https://vnexpress.net/cach-an-dash-tot-cho-huyet-ap-4813203.html) - 06:00 07/11/2024
 - 😺 [Flick quên Lewandowski sắp đạt 100 bàn Champions League](https://vnexpress.net/flick-quen-lewandowski-sap-dat-100-ban-champions-league-4813122.html) - 05:53 07/11/2024
