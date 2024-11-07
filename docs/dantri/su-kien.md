@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Báo Thái Lan bình luận khi đội nhà thua sốc đội Futsal Việt Nam](https://dantri.com.vn/the-thao/bao-thai-lan-binh-luan-khi-doi-nha-thua-soc-doi-futsal-viet-nam-20241107135758613.htm) - 07:08 07/11/2024
+- 🎭 [Báo Thái Lan bình luận khi đội nhà thua sốc tuyển futsal Việt Nam](https://dantri.com.vn/the-thao/bao-thai-lan-binh-luan-khi-doi-nha-thua-soc-tuyen-futsal-viet-nam-20241107135758613.htm) - 08:15 07/11/2024
 - 👨‍🏫 [Khoanh vùng khu vực máy bay Yak-130 rơi](https://dantri.com.vn/xa-hoi/khoanh-vung-khu-vuc-may-bay-yak-130-roi-20241107080735344.htm) - 05:47 07/11/2024
 - 🌮 [Diễn biến lạ của giá vàng: Chiều thu mua giảm 3 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/dien-bien-la-cua-gia-vang-chieu-thu-mua-giam-3-trieu-dongluong-20241107032520000.htm) - 05:47 07/11/2024
 - 🕯 [Cô dâu Quảng Ninh thức trắng đêm vì hàng xóm lái ô tô đâm nát cổng cưới](https://dantri.com.vn/doi-song/co-dau-quang-ninh-thuc-trang-dem-vi-hang-xom-lai-o-to-dam-nat-cong-cuoi-20241107105619021.htm) - 04:46 07/11/2024
