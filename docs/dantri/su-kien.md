@@ -4,8 +4,8 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Tổng thống Biden lần đầu phát biểu sau khi ông Trump thắng cử](https://dantri.com.vn/the-gioi/tong-thong-biden-lan-dau-phat-bieu-sau-khi-ong-trump-thang-cu-20241107233317862.htm) - 16:33 07/11/2024
-- 👨‍🏫 [HLV Cristiano Roland: &quot;Bóng đá Việt Nam sẽ thành công sau thời HLV Park&quot;](https://dantri.com.vn/the-thao/hlv-cristiano-roland-bong-da-viet-nam-se-thanh-cong-sau-thoi-hlv-park-20241107225906677.htm) - 16:05 07/11/2024
+- 🎭 [HLV Cristiano Roland: &quot;Bóng đá Việt Nam sẽ thành công sau thời HLV Park&quot;](https://dantri.com.vn/the-thao/hlv-cristiano-roland-bong-da-viet-nam-se-thanh-cong-sau-thoi-hlv-park-20241107225906677.htm) - 17:05 07/11/2024
+- 👨‍🏫 [Tổng thống Biden lần đầu phát biểu sau khi ông Trump thắng cử](https://dantri.com.vn/the-gioi/tong-thong-biden-lan-dau-phat-bieu-sau-khi-ong-trump-thang-cu-20241107233317862.htm) - 16:33 07/11/2024
 - 🌮 [Đường sắt tốc độ cao Bắc - Nam cần thẳng nhất có thể, nhất là ga Nam Định](https://dantri.com.vn/xa-hoi/duong-sat-toc-do-cao-bac-nam-can-thang-nhat-co-the-nhat-la-ga-nam-dinh-20241107211620139.htm) - 14:26 07/11/2024
 - 🕯 [Bão Yinxing sẽ suy yếu dần khi vào Biển Đông](https://dantri.com.vn/xa-hoi/bao-yinxing-se-suy-yeu-dan-khi-vao-bien-dong-20241107210527034.htm) - 14:16 07/11/2024
 - 🪜 [Real Madrid khủng hoảng: Nội bộ kèn cựa, vợ cầu thủ &quot;mắng&quot; HLV Ancelotti](https://dantri.com.vn/the-thao/real-madrid-khung-hoang-noi-bo-ken-cua-vo-cau-thu-mang-hlv-ancelotti-20241107194329665.htm) - 13:42 07/11/2024
