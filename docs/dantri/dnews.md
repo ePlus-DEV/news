@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Tại sao giang hồ Bình &quot;Kiểm&quot; bị bắt chỉ sau 5 tháng ra tù?](https://dantri.com.vn/phap-luat/tai-sao-giang-ho-binh-kiem-bi-bat-chi-sau-5-thang-ra-tu-20241107152650799.htm) - 08:41 07/11/2024
+- 🤠 [Trùm giang hồ Bình &quot;Kiểm&quot; lên kế hoạch lừa ca sĩ, người mẫu quay clip nóng](https://dantri.com.vn/phap-luat/trum-giang-ho-binh-kiem-len-ke-hoach-lua-ca-si-nguoi-mau-quay-clip-nong-20241107152650799.htm) - 08:41 07/11/2024
 - 🌈 [Rủi ro &quot;mất tích&quot; của phi công khi cố đưa máy bay Yak-130 xa khu dân cư](https://dantri.com.vn/xa-hoi/rui-ro-mat-tich-cua-phi-cong-khi-co-dua-may-bay-yak-130-xa-khu-dan-cu-20241107113731208.htm) - 07:11 07/11/2024
 - 🐎 [Điều chưa biết về ái nữ tài năng, đẹp như siêu mẫu của ông Donald Trump](https://dantri.com.vn/giai-tri/dieu-chua-biet-ve-ai-nu-tai-nang-dep-nhu-sieu-mau-cua-ong-donald-trump-20241107123105991.htm) - 06:52 07/11/2024
 - 👹 [Vụ 10 tháng chưa có tiền Nghị quyết 08: Các BV đã được giải ngân bao nhiêu?](https://dantri.com.vn/suc-khoe/vu-10-thang-chua-co-tien-nghi-quyet-08-cac-bv-da-duoc-giai-ngan-bao-nhieu-20241107104848502.htm) - 04:10 07/11/2024
