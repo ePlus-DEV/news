@@ -4,11 +4,11 @@ sidebar_position: 5
 ---
 
 <!-- dantri-kinh-doanh:START -->
-- 🏊 [Vốn điều lệ được phù phép, đánh tráo với các nhà đầu tư ra sao?](https://dantri.com.vn/kinh-doanh/von-dieu-le-duoc-phu-phep-danh-trao-voi-cac-nha-dau-tu-ra-sao-20241107111100273.htm) - 04:47 07/11/2024
-- 🦆 [Đạm Phú Mỹ và NPK Phú Mỹ tiếp tục được công nhận là Thương hiệu quốc gia](https://dantri.com.vn/kinh-doanh/dam-phu-my-va-npk-phu-my-tiep-tuc-duoc-cong-nhan-la-thuong-hieu-quoc-gia-20241107104305624.htm) - 04:11 07/11/2024
-- 🦄 [Công ty địa ốc thua lỗ, sếp vẫn có thu nhập tiền tỷ](https://dantri.com.vn/kinh-doanh/cong-ty-dia-oc-thua-lo-sep-van-co-thu-nhap-tien-ty-20241107085431491.htm) - 03:03 07/11/2024
-- 🌝 [Nhờ ủng hộ ông Trump, tỷ phú Elon Musk có thêm gần 21 tỷ USD chỉ sau 1 ngày](https://dantri.com.vn/kinh-doanh/nho-ung-ho-ong-trump-ty-phu-elon-musk-co-them-gan-21-ty-usd-chi-sau-1-ngay-20241107002824103.htm) - 02:10 07/11/2024
-- 💃 [Giá vàng lao dốc sau bầu cử tổng thống Mỹ](https://dantri.com.vn/kinh-doanh/gia-vang-lao-doc-sau-bau-cu-tong-thong-my-20241107032520000.htm) - 00:20 07/11/2024
+- 🏊 [Diễn biến lạ của giá vàng: Chiều thu mua giảm 2 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/dien-bien-la-cua-gia-vang-chieu-thu-mua-giam-2-trieu-dongluong-20241107032520000.htm) - 05:47 07/11/2024
+- 🦆 [Vốn điều lệ được phù phép, đánh tráo với các nhà đầu tư ra sao?](https://dantri.com.vn/kinh-doanh/von-dieu-le-duoc-phu-phep-danh-trao-voi-cac-nha-dau-tu-ra-sao-20241107111100273.htm) - 04:47 07/11/2024
+- 🦄 [Đạm Phú Mỹ và NPK Phú Mỹ tiếp tục được công nhận là Thương hiệu quốc gia](https://dantri.com.vn/kinh-doanh/dam-phu-my-va-npk-phu-my-tiep-tuc-duoc-cong-nhan-la-thuong-hieu-quoc-gia-20241107104305624.htm) - 04:11 07/11/2024
+- 🌝 [Công ty địa ốc thua lỗ, sếp vẫn có thu nhập tiền tỷ](https://dantri.com.vn/kinh-doanh/cong-ty-dia-oc-thua-lo-sep-van-co-thu-nhap-tien-ty-20241107085431491.htm) - 03:03 07/11/2024
+- 💃 [Nhờ ủng hộ ông Trump, tỷ phú Elon Musk có thêm gần 21 tỷ USD chỉ sau 1 ngày](https://dantri.com.vn/kinh-doanh/nho-ung-ho-ong-trump-ty-phu-elon-musk-co-them-gan-21-ty-usd-chi-sau-1-ngay-20241107002824103.htm) - 02:10 07/11/2024
 - 🦏 [Lãnh đạo ACV: Cần thay đổi định kiến &quot;hàng hóa ở sân bay rất đắt&quot;](https://dantri.com.vn/kinh-doanh/lanh-dao-acv-can-thay-doi-dinh-kien-hang-hoa-o-san-bay-rat-dat-20241106161702346.htm) - 00:18 07/11/2024
 - 🦩 [Suýt soát 100 tỷ USD: Mỹ là thị trường xuất khẩu lớn nhất của Việt Nam](https://dantri.com.vn/kinh-doanh/suyt-soat-100-ty-usd-my-la-thi-truong-xuat-khau-lon-nhat-cua-viet-nam-20241107041914052.htm) - 23:58 06/11/2024
 - 💡 [Sau khi giành chiến thắng, ông Trump khen Elon Musk là thiên tài siêu phàm](https://dantri.com.vn/kinh-doanh/sau-khi-gianh-chien-thang-ong-trump-khen-elon-musk-la-thien-tai-sieu-pham-20241106174910645.htm) - 11:57 06/11/2024
