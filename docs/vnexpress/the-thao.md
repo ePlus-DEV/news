@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Hậu vệ Barca khâu 10 mũi trên mặt](https://vnexpress.net/hau-ve-barca-khau-10-mui-tren-mat-4813259.html) - 05:43 07/11/2024
-- 🦩 [Van Nistelrooy chưa rõ tương lai ở Man Utd](https://vnexpress.net/van-nistelrooy-chua-ro-tuong-lai-o-man-utd-4813073.html) - 05:31 07/11/2024
-- 🧰 [Valdano: &#39;Real khủng hoảng vì mất Kroos&#39;](https://vnexpress.net/valdano-real-khung-hoang-vi-mat-kroos-4812921.html) - 04:01 07/11/2024
-- 🤗 [Hỗn loạn ở thượng tầng bóng đá Hàn Quốc](https://vnexpress.net/hon-loan-o-thuong-tang-bong-da-han-quoc-4813000.html) - 03:51 07/11/2024
-- 🥳 [Runner đính số bib lên người dự New York City Marathon](https://vnexpress.net/runner-dinh-so-bib-len-nguoi-du-new-york-city-marathon-4813152.html) - 03:37 07/11/2024
-- 🦣 [Inzaghi: &#39;Inter hạ Arsenal nhờ chiều sâu đội hình&#39;](https://vnexpress.net/inzaghi-inter-ha-arsenal-nho-chieu-sau-doi-hinh-4813101.html) - 03:00 07/11/2024
-- 🌜 [Arteta ấm ức với trọng tài sau trận thua Inter](https://vnexpress.net/arteta-am-uc-voi-trong-tai-sau-tran-thua-inter-4813092.html) - 03:00 07/11/2024
-- 🫶 [Mẹo tăng tỷ lệ ném 3 điểm thành công trong bóng rổ](https://vnexpress.net/meo-tang-ty-le-nem-3-diem-thanh-cong-trong-bong-ro-4812961.html) - 02:15 07/11/2024
-- 🌜 [Barca phá kỷ lục ghi bàn của CLB sau 74 năm](https://vnexpress.net/barca-pha-ky-luc-ghi-ban-cua-clb-sau-74-nam-4813075.html) - 01:04 07/11/2024
-- 😺 [HLV futsal Thái Lan: &#39;Thua Việt Nam cũng tốt&#39;](https://vnexpress.net/hlv-futsal-thai-lan-thua-viet-nam-cung-tot-4813060.html) - 23:48 06/11/2024
-- 👍 [Bayern thắng bốn trận liên tiếp sau cú sốc Barca](https://vnexpress.net/bayern-thang-bon-tran-lien-tiep-sau-cu-soc-barca-4813072.html) - 23:33 06/11/2024
-- 🐵 [Neymar nghỉ thi đấu hơn một tháng](https://vnexpress.net/neymar-nghi-thi-dau-hon-mot-thang-4813063.html) - 23:01 06/11/2024
-- 💫 [Arsenal gục ngã trên sân Inter](https://vnexpress.net/arsenal-guc-nga-tren-san-inter-4813066.html) - 22:51 06/11/2024
-- 🦆 [PSG thua Atletico giây cuối ở Champions League](https://vnexpress.net/psg-thua-atletico-giay-cuoi-o-champions-league-4813067.html) - 22:34 06/11/2024
-- 🙉 [Barca tiếp tục thắng đậm ở Champions League](https://vnexpress.net/barca-tiep-tuc-thang-dam-o-champions-league-4813064.html) - 21:58 06/11/2024
-- 📝 [Phạt đền hiếm có khiến Aston Villa thua ở Champions League](https://vnexpress.net/phat-den-hiem-co-khien-aston-villa-thua-o-champions-league-4813062.html) - 20:41 06/11/2024
-- 💯 [New York City Marathon hủy kết quả runner thuê người đạp xe ghi hình](https://vnexpress.net/new-york-city-marathon-huy-ket-qua-runner-thue-nguoi-dap-xe-ghi-hinh-4812897.html) - 17:00 06/11/2024
-- 🌈 [Việt Nam hạ Thái Lan ở futsal AFF Cup 2024](https://vnexpress.net/viet-nam-ha-thai-lan-o-futsal-aff-cup-2024-4813047.html) - 15:50 06/11/2024
-- 🦩 [Nam Định ngược dòng ở AFC Champions League Two](https://vnexpress.net/nam-dinh-nguoc-dong-o-afc-champions-league-two-4813041.html) - 15:26 06/11/2024
-- 🐲 [&#39;Big 4&#39; tái ngộ ở tiệc chia tay Nadal](https://vnexpress.net/big-4-tai-ngo-o-tiec-chia-tay-nadal-4812973.html) - 13:13 06/11/2024
-- 🌁 [Henry chê khát khao và ý chí của Mbappe](https://vnexpress.net/henry-che-khat-khao-va-y-chi-cua-mbappe-4812963.html) - 13:09 06/11/2024
-- 💯 [HLV Inter dè chừng khả năng vùng dậy của Arsenal](https://vnexpress.net/hlv-inter-de-chung-kha-nang-vung-day-cua-arsenal-4812576.html) - 11:00 06/11/2024
-- 🌝 [Thùy Linh thua tay vợt kém 370 bậc ở giải Hàn Quốc Mở rộng](https://vnexpress.net/thuy-linh-thua-tay-vot-kem-370-bac-o-giai-han-quoc-mo-rong-4812948.html) - 09:31 06/11/2024
-- 🤖 [Nữ võ sĩ vô địch Olympic từng &#39;được xác nhận là nam giới&#39;](https://vnexpress.net/nu-vo-si-vo-dich-olympic-tung-duoc-xac-nhan-la-nam-gioi-4812887.html) - 08:31 06/11/2024
-- 🕯 [Cảnh sắc Hồ Tràm xuất hiện trong teaser DNSE Aquaman Vietnam 2024](https://vnexpress.net/canh-sac-ho-tram-xuat-hien-trong-teaser-dnse-aquaman-vietnam-2024-4812831.html) - 08:00 06/11/2024
-- 🧰 [Tiền vệ 17 tuổi thách thức Yamal](https://vnexpress.net/tien-ve-17-tuoi-thach-thuc-yamal-4812577.html) - 07:50 06/11/2024
-- 🥳 [Arteta: &#39;Arsenal tới Milan để chiến thắng&#39;](https://vnexpress.net/arteta-arsenal-toi-milan-de-chien-thang-4812579.html) - 07:39 06/11/2024
-- 👍 [Amorim: &#39;Man Utd không thể chơi giống Sporting&#39;](https://vnexpress.net/amorim-man-utd-khong-the-choi-giong-sporting-4812747.html) - 07:04 06/11/2024
-- 💪 [Buổi chia tay ý nghĩa của Amorim trước khi sang Man Utd](https://vnexpress.net/buoi-chia-tay-y-nghia-cua-amorim-truoc-khi-sang-man-utd-4812627.html) - 06:58 06/11/2024
-- 👹 [Asics có thể ra mắt hai siêu giày đua mới năm 2025](https://vnexpress.net/asics-co-the-ra-mat-hai-sieu-giay-dua-moi-nam-2025-4812790.html) - 05:36 06/11/2024
-- 🧰 [Slot sớm bắt kịp kỷ lục của Klopp](https://vnexpress.net/slot-som-bat-kip-ky-luc-cua-klopp-4812613.html) - 05:00 06/11/2024
-- 🚀 [Runner ấn tượng với màu &#39;hoa phượng đỏ&#39; trên áo đấu VM Hải Phòng](https://vnexpress.net/runner-an-tuong-voi-mau-hoa-phuong-do-tren-ao-dau-vm-hai-phong-4812718.html) - 04:38 06/11/2024
-- 🎃 [Triều Tiên thống trị bóng đá nữ trẻ sau 5 năm ẩn mình](https://vnexpress.net/trieu-tien-thong-tri-bong-da-nu-tre-sau-5-nam-an-minh-4812521.html) - 04:30 06/11/2024
-- 🧰 [Bỏ ATP Finals khiến Djokovic bất lợi ở Australia Mở rộng 2025](https://vnexpress.net/bo-atp-finals-khien-djokovic-bat-loi-o-australia-mo-rong-2025-4812739.html) - 04:20 06/11/2024
-- 👀 [Vợ tiền vệ Real công kích Ancelotti](https://vnexpress.net/vo-tien-ve-real-cong-kich-ancelotti-4812591.html) - 03:24 06/11/2024
-- 🌜 [​Các vùng chấn thương thường gặp khi chơi bóng rổ](https://vnexpress.net/cac-vung-chan-thuong-thuong-gap-khi-choi-bong-ro-4812634.html) - 03:00 06/11/2024
-- 🫶 [Runney Mỹ phá kỷ lục chạy marathon bằng dép crocs](https://vnexpress.net/runney-my-pha-ky-luc-chay-marathon-bang-dep-crocs-4812561.html) - 02:58 06/11/2024
-- 🦄 [Thùy Linh vẫn dự giải Hàn Quốc Mở rộng](https://vnexpress.net/thuy-linh-van-du-giai-han-quoc-mo-rong-4812616.html) - 01:56 06/11/2024
-- 🥳 [CĐV Man Utd đòi dựng tượng HLV Amorim](https://vnexpress.net/cdv-man-utd-doi-dung-tuong-hlv-amorim-4812588.html) - 01:28 06/11/2024
-- 🐲 [Trọng tài nhận sai ở quả phạt đền khiến Ten Hag mất việc](https://vnexpress.net/trong-tai-nhan-sai-o-qua-phat-den-khien-ten-hag-mat-viec-4812569.html) - 01:19 06/11/2024
-- 🧑‍🏫 [Bernardo Silva: &#39;Man City đang tệ nhất hơn bảy năm qua&#39;](https://vnexpress.net/bernardo-silva-man-city-dang-te-nhat-hon-bay-nam-qua-4812589.html) - 01:12 06/11/2024
-- 🤔 [Ancelotti: &#39;Real vẫn chưa tìm ra phiên bản tốt nhất&#39;](https://vnexpress.net/ancelotti-real-van-chua-tim-ra-phien-ban-tot-nhat-4812597.html) - 01:00 06/11/2024
-- 😺 [Real gục ngã trước Milan ở Champions League](https://vnexpress.net/real-guc-nga-truoc-milan-o-champions-league-4812581.html) - 22:44 05/11/2024
-- 💪 [Liverpool chiếm đỉnh bảng Champions League](https://vnexpress.net/liverpool-chiem-dinh-bang-champions-league-4812580.html) - 22:27 05/11/2024
-- 💼 [Tân HLV Man Utd giúp Sporting vùi dập Man City](https://vnexpress.net/tan-hlv-man-utd-giup-sporting-vui-dap-man-city-4812578.html) - 21:54 05/11/2024
-- 🕴 [Ronaldo ghi bàn sau ba trận im tiếng](https://vnexpress.net/ronaldo-ghi-ban-sau-ba-tran-im-tieng-4812575.html) - 20:00 05/11/2024
-- 🕯 [Djokovic bỏ ATP Finals](https://vnexpress.net/djokovic-bo-atp-finals-4812570.html) - 17:10 05/11/2024
-- 📝 [Benzema: &#39;Mbappe nên quên cánh trái của Real đi&#39;](https://vnexpress.net/benzema-mbappe-nen-quen-canh-trai-cua-real-di-4812474.html) - 13:00 05/11/2024
-- 🧐 [10 trận được chờ đợi nhất lượt bốn Champions League](https://vnexpress.net/10-tran-duoc-cho-doi-nhat-luot-bon-champions-league-4812308.html) - 07:18 05/11/2024
-- 🙉 [PSG từng lỡ cơ hội bán Mbappe với giá 220 triệu USD](https://vnexpress.net/psg-tung-lo-co-hoi-ban-mbappe-voi-gia-220-trieu-usd-4812315.html) - 07:05 05/11/2024
-- 🏊 [Guardiola: &#39;Man City được kỳ vọng thắng 5-0 mỗi trận và ăn ba mỗi mùa&#39;](https://vnexpress.net/guardiola-man-city-duoc-ky-vong-thang-5-0-moi-tran-va-an-ba-moi-mua-4812347.html) - 06:52 05/11/2024
-- 🌊 [Chiến thuật giữ sức của Djokovic](https://vnexpress.net/chien-thuat-giu-suc-cua-djokovic-4812369.html) - 06:32 05/11/2024
-- 👨‍🏫 [Lê Công Vinh chưa thấy ai xứng đáng giành Quả Bóng Vàng Việt Nam](https://vnexpress.net/le-cong-vinh-chua-thay-ai-xung-dang-gianh-qua-bong-vang-viet-nam-4812345.html) - 05:10 05/11/2024
-- 🥷 [Trận WTA Finals chỉ có 400 khán giả](https://vnexpress.net/tran-wta-finals-chi-co-400-khan-gia-4812331.html) - 04:46 05/11/2024
-- ⚗️ [Ancelotti: &#39;Vinicius không buồn vì mất Quả Bóng Vàng&#39;](https://vnexpress.net/ancelotti-vinicius-khong-buon-vi-mat-qua-bong-vang-4812241.html) - 03:52 05/11/2024
-- 🌮 [HLV Alonso háo hức tái ngộ Liverpool ở Champions League](https://vnexpress.net/hlv-alonso-hao-huc-tai-ngo-liverpool-o-champions-league-4812244.html) - 03:38 05/11/2024
-- 🤩 [Yamal vượt trội khi cùng độ tuổi với Messi](https://vnexpress.net/yamal-vuot-troi-khi-cung-do-tuoi-voi-messi-4812058.html) - 03:22 05/11/2024
-- 🏊 [Neymar lại chấn thương](https://vnexpress.net/neymar-lai-chan-thuong-4812134.html) - 01:29 05/11/2024
-- 🐎 [Cầu thủ Man Utd muốn Amorim giữ Van Nistelrooy](https://vnexpress.net/cau-thu-man-utd-muon-amorim-giu-van-nistelrooy-4812135.html) - 01:15 05/11/2024
-- 💫 [Amorim: &#39;Tôi sẽ được ví như Alex Ferguson nếu thắng Man City&#39;](https://vnexpress.net/amorim-toi-se-duoc-vi-nhu-alex-ferguson-neu-thang-man-city-4812137.html) - 01:03 05/11/2024<!-- vnexpress-the-thao:END -->
+- 🪜 [Flick quên Lewandowski sắp đạt 100 bàn Champions League](https://vnexpress.net/flick-quen-lewandowski-sap-dat-100-ban-champions-league-4813122.html) - 05:53 07/11/2024
+- 🦩 [Hậu vệ Barca khâu 10 mũi trên mặt](https://vnexpress.net/hau-ve-barca-khau-10-mui-tren-mat-4813259.html) - 05:43 07/11/2024
+- 🧰 [Van Nistelrooy chưa rõ tương lai ở Man Utd](https://vnexpress.net/van-nistelrooy-chua-ro-tuong-lai-o-man-utd-4813073.html) - 05:31 07/11/2024
+- 🤗 [Valdano: &#39;Real khủng hoảng vì mất Kroos&#39;](https://vnexpress.net/valdano-real-khung-hoang-vi-mat-kroos-4812921.html) - 04:01 07/11/2024
+- 🥳 [Hỗn loạn ở thượng tầng bóng đá Hàn Quốc](https://vnexpress.net/hon-loan-o-thuong-tang-bong-da-han-quoc-4813000.html) - 03:51 07/11/2024
+- 🦣 [Runner đính số bib lên người dự New York City Marathon](https://vnexpress.net/runner-dinh-so-bib-len-nguoi-du-new-york-city-marathon-4813152.html) - 03:37 07/11/2024
+- 🌜 [Inzaghi: &#39;Inter hạ Arsenal nhờ chiều sâu đội hình&#39;](https://vnexpress.net/inzaghi-inter-ha-arsenal-nho-chieu-sau-doi-hinh-4813101.html) - 03:00 07/11/2024
+- 🫶 [Arteta ấm ức với trọng tài sau trận thua Inter](https://vnexpress.net/arteta-am-uc-voi-trong-tai-sau-tran-thua-inter-4813092.html) - 03:00 07/11/2024
+- 🌜 [Mẹo tăng tỷ lệ ném 3 điểm thành công trong bóng rổ](https://vnexpress.net/meo-tang-ty-le-nem-3-diem-thanh-cong-trong-bong-ro-4812961.html) - 02:15 07/11/2024
+- 😺 [Barca phá kỷ lục ghi bàn của CLB sau 74 năm](https://vnexpress.net/barca-pha-ky-luc-ghi-ban-cua-clb-sau-74-nam-4813075.html) - 01:04 07/11/2024
+- 👍 [HLV futsal Thái Lan: &#39;Thua Việt Nam cũng tốt&#39;](https://vnexpress.net/hlv-futsal-thai-lan-thua-viet-nam-cung-tot-4813060.html) - 23:48 06/11/2024
+- 🐵 [Bayern thắng bốn trận liên tiếp sau cú sốc Barca](https://vnexpress.net/bayern-thang-bon-tran-lien-tiep-sau-cu-soc-barca-4813072.html) - 23:33 06/11/2024
+- 💫 [Neymar nghỉ thi đấu hơn một tháng](https://vnexpress.net/neymar-nghi-thi-dau-hon-mot-thang-4813063.html) - 23:01 06/11/2024
+- 🦆 [Arsenal gục ngã trên sân Inter](https://vnexpress.net/arsenal-guc-nga-tren-san-inter-4813066.html) - 22:51 06/11/2024
+- 🙉 [PSG thua Atletico giây cuối ở Champions League](https://vnexpress.net/psg-thua-atletico-giay-cuoi-o-champions-league-4813067.html) - 22:34 06/11/2024
+- 📝 [Barca tiếp tục thắng đậm ở Champions League](https://vnexpress.net/barca-tiep-tuc-thang-dam-o-champions-league-4813064.html) - 21:58 06/11/2024
+- 💯 [Phạt đền hiếm có khiến Aston Villa thua ở Champions League](https://vnexpress.net/phat-den-hiem-co-khien-aston-villa-thua-o-champions-league-4813062.html) - 20:41 06/11/2024
+- 🌈 [New York City Marathon hủy kết quả runner thuê người đạp xe ghi hình](https://vnexpress.net/new-york-city-marathon-huy-ket-qua-runner-thue-nguoi-dap-xe-ghi-hinh-4812897.html) - 17:00 06/11/2024
+- 🦩 [Việt Nam hạ Thái Lan ở futsal AFF Cup 2024](https://vnexpress.net/viet-nam-ha-thai-lan-o-futsal-aff-cup-2024-4813047.html) - 15:50 06/11/2024
+- 🐲 [Nam Định ngược dòng ở AFC Champions League Two](https://vnexpress.net/nam-dinh-nguoc-dong-o-afc-champions-league-two-4813041.html) - 15:26 06/11/2024
+- 🌁 [&#39;Big 4&#39; tái ngộ ở tiệc chia tay Nadal](https://vnexpress.net/big-4-tai-ngo-o-tiec-chia-tay-nadal-4812973.html) - 13:13 06/11/2024
+- 💯 [Henry chê khát khao và ý chí của Mbappe](https://vnexpress.net/henry-che-khat-khao-va-y-chi-cua-mbappe-4812963.html) - 13:09 06/11/2024
+- 🌝 [HLV Inter dè chừng khả năng vùng dậy của Arsenal](https://vnexpress.net/hlv-inter-de-chung-kha-nang-vung-day-cua-arsenal-4812576.html) - 11:00 06/11/2024
+- 🤖 [Thùy Linh thua tay vợt kém 370 bậc ở giải Hàn Quốc Mở rộng](https://vnexpress.net/thuy-linh-thua-tay-vot-kem-370-bac-o-giai-han-quoc-mo-rong-4812948.html) - 09:31 06/11/2024
+- 🕯 [Nữ võ sĩ vô địch Olympic từng &#39;được xác nhận là nam giới&#39;](https://vnexpress.net/nu-vo-si-vo-dich-olympic-tung-duoc-xac-nhan-la-nam-gioi-4812887.html) - 08:31 06/11/2024
+- 🧰 [Cảnh sắc Hồ Tràm xuất hiện trong teaser DNSE Aquaman Vietnam 2024](https://vnexpress.net/canh-sac-ho-tram-xuat-hien-trong-teaser-dnse-aquaman-vietnam-2024-4812831.html) - 08:00 06/11/2024
+- 🥳 [Tiền vệ 17 tuổi thách thức Yamal](https://vnexpress.net/tien-ve-17-tuoi-thach-thuc-yamal-4812577.html) - 07:50 06/11/2024
+- 👍 [Arteta: &#39;Arsenal tới Milan để chiến thắng&#39;](https://vnexpress.net/arteta-arsenal-toi-milan-de-chien-thang-4812579.html) - 07:39 06/11/2024
+- 💪 [Amorim: &#39;Man Utd không thể chơi giống Sporting&#39;](https://vnexpress.net/amorim-man-utd-khong-the-choi-giong-sporting-4812747.html) - 07:04 06/11/2024
+- 👹 [Buổi chia tay ý nghĩa của Amorim trước khi sang Man Utd](https://vnexpress.net/buoi-chia-tay-y-nghia-cua-amorim-truoc-khi-sang-man-utd-4812627.html) - 06:58 06/11/2024
+- 🧰 [Asics có thể ra mắt hai siêu giày đua mới năm 2025](https://vnexpress.net/asics-co-the-ra-mat-hai-sieu-giay-dua-moi-nam-2025-4812790.html) - 05:36 06/11/2024
+- 🚀 [Slot sớm bắt kịp kỷ lục của Klopp](https://vnexpress.net/slot-som-bat-kip-ky-luc-cua-klopp-4812613.html) - 05:00 06/11/2024
+- 🎃 [Runner ấn tượng với màu &#39;hoa phượng đỏ&#39; trên áo đấu VM Hải Phòng](https://vnexpress.net/runner-an-tuong-voi-mau-hoa-phuong-do-tren-ao-dau-vm-hai-phong-4812718.html) - 04:38 06/11/2024
+- 🧰 [Triều Tiên thống trị bóng đá nữ trẻ sau 5 năm ẩn mình](https://vnexpress.net/trieu-tien-thong-tri-bong-da-nu-tre-sau-5-nam-an-minh-4812521.html) - 04:30 06/11/2024
+- 👀 [Bỏ ATP Finals khiến Djokovic bất lợi ở Australia Mở rộng 2025](https://vnexpress.net/bo-atp-finals-khien-djokovic-bat-loi-o-australia-mo-rong-2025-4812739.html) - 04:20 06/11/2024
+- 🌜 [Vợ tiền vệ Real công kích Ancelotti](https://vnexpress.net/vo-tien-ve-real-cong-kich-ancelotti-4812591.html) - 03:24 06/11/2024
+- 🫶 [​Các vùng chấn thương thường gặp khi chơi bóng rổ](https://vnexpress.net/cac-vung-chan-thuong-thuong-gap-khi-choi-bong-ro-4812634.html) - 03:00 06/11/2024
+- 🦄 [Runney Mỹ phá kỷ lục chạy marathon bằng dép crocs](https://vnexpress.net/runney-my-pha-ky-luc-chay-marathon-bang-dep-crocs-4812561.html) - 02:58 06/11/2024
+- 🥳 [Thùy Linh vẫn dự giải Hàn Quốc Mở rộng](https://vnexpress.net/thuy-linh-van-du-giai-han-quoc-mo-rong-4812616.html) - 01:56 06/11/2024
+- 🐲 [CĐV Man Utd đòi dựng tượng HLV Amorim](https://vnexpress.net/cdv-man-utd-doi-dung-tuong-hlv-amorim-4812588.html) - 01:28 06/11/2024
+- 🧑‍🏫 [Trọng tài nhận sai ở quả phạt đền khiến Ten Hag mất việc](https://vnexpress.net/trong-tai-nhan-sai-o-qua-phat-den-khien-ten-hag-mat-viec-4812569.html) - 01:19 06/11/2024
+- 🤔 [Bernardo Silva: &#39;Man City đang tệ nhất hơn bảy năm qua&#39;](https://vnexpress.net/bernardo-silva-man-city-dang-te-nhat-hon-bay-nam-qua-4812589.html) - 01:12 06/11/2024
+- 😺 [Ancelotti: &#39;Real vẫn chưa tìm ra phiên bản tốt nhất&#39;](https://vnexpress.net/ancelotti-real-van-chua-tim-ra-phien-ban-tot-nhat-4812597.html) - 01:00 06/11/2024
+- 💪 [Real gục ngã trước Milan ở Champions League](https://vnexpress.net/real-guc-nga-truoc-milan-o-champions-league-4812581.html) - 22:44 05/11/2024
+- 💼 [Liverpool chiếm đỉnh bảng Champions League](https://vnexpress.net/liverpool-chiem-dinh-bang-champions-league-4812580.html) - 22:27 05/11/2024
+- 🕴 [Tân HLV Man Utd giúp Sporting vùi dập Man City](https://vnexpress.net/tan-hlv-man-utd-giup-sporting-vui-dap-man-city-4812578.html) - 21:54 05/11/2024
+- 🕯 [Ronaldo ghi bàn sau ba trận im tiếng](https://vnexpress.net/ronaldo-ghi-ban-sau-ba-tran-im-tieng-4812575.html) - 20:00 05/11/2024
+- 📝 [Djokovic bỏ ATP Finals](https://vnexpress.net/djokovic-bo-atp-finals-4812570.html) - 17:10 05/11/2024
+- 🧐 [Benzema: &#39;Mbappe nên quên cánh trái của Real đi&#39;](https://vnexpress.net/benzema-mbappe-nen-quen-canh-trai-cua-real-di-4812474.html) - 13:00 05/11/2024
+- 🙉 [10 trận được chờ đợi nhất lượt bốn Champions League](https://vnexpress.net/10-tran-duoc-cho-doi-nhat-luot-bon-champions-league-4812308.html) - 07:18 05/11/2024
+- 🏊 [PSG từng lỡ cơ hội bán Mbappe với giá 220 triệu USD](https://vnexpress.net/psg-tung-lo-co-hoi-ban-mbappe-voi-gia-220-trieu-usd-4812315.html) - 07:05 05/11/2024
+- 🌊 [Guardiola: &#39;Man City được kỳ vọng thắng 5-0 mỗi trận và ăn ba mỗi mùa&#39;](https://vnexpress.net/guardiola-man-city-duoc-ky-vong-thang-5-0-moi-tran-va-an-ba-moi-mua-4812347.html) - 06:52 05/11/2024
+- 👨‍🏫 [Chiến thuật giữ sức của Djokovic](https://vnexpress.net/chien-thuat-giu-suc-cua-djokovic-4812369.html) - 06:32 05/11/2024
+- 🥷 [Lê Công Vinh chưa thấy ai xứng đáng giành Quả Bóng Vàng Việt Nam](https://vnexpress.net/le-cong-vinh-chua-thay-ai-xung-dang-gianh-qua-bong-vang-viet-nam-4812345.html) - 05:10 05/11/2024
+- ⚗️ [Trận WTA Finals chỉ có 400 khán giả](https://vnexpress.net/tran-wta-finals-chi-co-400-khan-gia-4812331.html) - 04:46 05/11/2024
+- 🌮 [Ancelotti: &#39;Vinicius không buồn vì mất Quả Bóng Vàng&#39;](https://vnexpress.net/ancelotti-vinicius-khong-buon-vi-mat-qua-bong-vang-4812241.html) - 03:52 05/11/2024
+- 🤩 [HLV Alonso háo hức tái ngộ Liverpool ở Champions League](https://vnexpress.net/hlv-alonso-hao-huc-tai-ngo-liverpool-o-champions-league-4812244.html) - 03:38 05/11/2024
+- 🏊 [Yamal vượt trội khi cùng độ tuổi với Messi](https://vnexpress.net/yamal-vuot-troi-khi-cung-do-tuoi-voi-messi-4812058.html) - 03:22 05/11/2024
+- 🐎 [Neymar lại chấn thương](https://vnexpress.net/neymar-lai-chan-thuong-4812134.html) - 01:29 05/11/2024
+- 💫 [Cầu thủ Man Utd muốn Amorim giữ Van Nistelrooy](https://vnexpress.net/cau-thu-man-utd-muon-amorim-giu-van-nistelrooy-4812135.html) - 01:15 05/11/2024<!-- vnexpress-the-thao:END -->
