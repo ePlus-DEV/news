@@ -4,7 +4,7 @@ sidebar_position: 17
 ---
 
 <!-- dantri-the-gioi:START -->
-- 🌋 [Ông Biden lần đầu phát biểu sau khi ông Trump thắng cử](https://dantri.com.vn/the-gioi/ong-biden-lan-dau-phat-bieu-sau-khi-ong-trump-thang-cu-20241107233317862.htm) - 16:33 07/11/2024
+- 🌋 [Tổng thống Biden lần đầu phát biểu sau khi ông Trump thắng cử](https://dantri.com.vn/the-gioi/tong-thong-biden-lan-dau-phat-bieu-sau-khi-ong-trump-thang-cu-20241107233317862.htm) - 16:33 07/11/2024
 - 🎬 [10 người giàu nhất thế giới có thêm 64 tỷ USD sau khi ông Trump đắc cử](https://dantri.com.vn/the-gioi/10-nguoi-giau-nhat-the-gioi-co-them-64-ty-usd-sau-khi-ong-trump-dac-cu-20241107215318913.htm) - 15:08 07/11/2024
 - 🧰 [Ông Trump cam kết lập chính quyền &quot;không người nhà&quot;](https://dantri.com.vn/the-gioi/ong-trump-cam-ket-lap-chinh-quyen-khong-nguoi-nha-20241107214332115.htm) - 14:52 07/11/2024
 - 🌋 [Ông Zelensky: Ukraine không cần phương Tây hỗ trợ về việc đàm phán với Nga](https://dantri.com.vn/the-gioi/ong-zelensky-ukraine-khong-can-phuong-tay-ho-tro-ve-viec-dam-phan-voi-nga-20241107212726390.htm) - 14:36 07/11/2024
