@@ -49,7 +49,7 @@ sidebar_position: 9
 - 🦆 [Song Luân nhuộm da, học nhảy đóng &#39;Công tử Bạc Liêu&#39;](https://vnexpress.net/song-luan-nhuom-da-hoc-nhay-dong-cong-tu-bac-lieu-4813345.html) - 10:27 07/11/2024
 - 🎊 [VN-MemoCare: AI-Powered Solution for Enhancing Memory](https://vnexpress.net/vn-memocare-ai-powered-solution-for-enhancing-memory-4813395.html) - 10:07 07/11/2024
 - 👺 [Solution for building a 3D facial database](https://vnexpress.net/solution-for-building-a-3d-facial-database-4813378.html) - 10:07 07/11/2024
-- 🎡 [Điểm tin 21h: Nhiều người đổ đi bán vàng vì giá lao dốc | Lời kể phi công sống sót vụ máy bay rơi](https://vnexpress.net/diem-tin-21h-nhieu-nguoi-do-di-ban-vang-vi-gia-lao-doc-loi-ke-phi-cong-song-sot-vu-may-bay-roi-4813422.html) - 10:02 07/11/2024
+- 🎡 [Điểm tin 17h: Lãnh đạo Việt Nam chúc mừng ông Trump đắc cử | Mỗi lượng vàng giảm 6 triệu đồng trong ngày](https://vnexpress.net/diem-tin-17h-lanh-dao-viet-nam-chuc-mung-ong-trump-dac-cu-moi-luong-vang-giam-6-trieu-dong-trong-ngay-4813422.html) - 10:02 07/11/2024
 - 👍 [&#39;VinFuture thúc đẩy bối cảnh khoa học công bằng&#39;](https://vnexpress.net/vinfuture-thuc-day-boi-canh-khoa-hoc-cong-bang-4813357.html) - 10:00 07/11/2024
 - 🐎 [Ranh giới sáng tạo khi ra đề thi Văn bàn về &#39;lối sống phông bạt&#39;](https://vnexpress.net/ranh-gioi-sang-tao-khi-ra-de-thi-van-ban-ve-loi-song-phong-bat-4813352.html) - 10:00 07/11/2024
 - 🏊 [Có cô dâu đang chờ anh tới đón](https://vnexpress.net/co-co-dau-dang-cho-anh-toi-don-4813180.html) - 10:00 07/11/2024
