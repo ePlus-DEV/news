@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Nữ VĐV quyến rũ nhất thế giới xăm hình Olympic](https://vnexpress.net/nu-vdv-quyen-ru-nhat-the-gioi-xam-hinh-olympic-4813277.html) - 07:39 07/11/2024
+- 🪜 [Nữ VĐV quyến rũ nhất thế giới khoe hình xăm Olympic](https://vnexpress.net/nu-vdv-quyen-ru-nhat-the-gioi-khoe-hinh-xam-olympic-4813277.html) - 07:39 07/11/2024
 - 🦩 [Flick quên Lewandowski sắp đạt 100 bàn Champions League](https://vnexpress.net/flick-quen-lewandowski-sap-dat-100-ban-champions-league-4813122.html) - 05:53 07/11/2024
 - 🧰 [Hậu vệ Barca khâu 10 mũi trên mặt](https://vnexpress.net/hau-ve-barca-khau-10-mui-tren-mat-4813259.html) - 05:43 07/11/2024
 - 🤗 [Van Nistelrooy chưa rõ tương lai ở Man Utd](https://vnexpress.net/van-nistelrooy-chua-ro-tuong-lai-o-man-utd-4813073.html) - 05:31 07/11/2024
