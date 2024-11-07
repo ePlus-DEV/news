@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Phim cổ trang của Ngu Thư Hân gây sốt](https://vnexpress.net/phim-co-trang-cua-ngu-thu-han-gay-sot-4813303.html) - 09:40 07/11/2024
-- 💫 [Vé &#39;Anh trai say hi&#39; hết sau nửa ngày](https://vnexpress.net/ve-anh-trai-say-hi-het-sau-nua-ngay-4813206.html) - 08:52 07/11/2024
+- 💫 [Fan đua săn vé &#39;Anh trai say hi&#39;](https://vnexpress.net/fan-dua-san-ve-anh-trai-say-hi-4813206.html) - 08:52 07/11/2024
 - 🌮 [Taylor Swift diện màu đỏ khi cổ vũ bạn trai thi đấu](https://vnexpress.net/taylor-swift-dien-mau-do-khi-co-vu-ban-trai-thi-dau-4812954.html) - 07:45 07/11/2024
 - 🧠 [Nhà xuất bản Hà Lan dùng AI dịch tiểu thuyết](https://vnexpress.net/nha-xuat-ban-ha-lan-dung-ai-dich-tieu-thuyet-4813192.html) - 04:52 07/11/2024
 - 👨‍🏫 [Bà mẹ ba con gây chú ý tại Miss Universe](https://vnexpress.net/ba-me-ba-con-gay-chu-y-tai-miss-universe-4813190.html) - 04:29 07/11/2024
