@@ -4,8 +4,8 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Vì sao băng Bình &#39;Kiểm&#39; muốn bắt cóc, cưỡng hiếp người nổi tiếng?](https://vnexpress.net/vi-sao-bang-binh-kiem-muon-bat-coc-cuong-hiep-nguoi-noi-tieng-4813471.html) - 17:00 07/11/2024
-- 🥰 [Cuộc sống trong lồng kính của &#39;tù nhân nguy hiểm nhất nước Anh&#39;](https://vnexpress.net/cuoc-song-trong-long-kinh-cua-tu-nhan-nguy-hiem-nhat-nuoc-anh-4813426.html) - 17:00 07/11/2024
+- 😎 [Âm mưu bắt cóc người nổi tiếng của nhóm Bình &#39;Kiểm&#39; được ngăn chặn thế nào](https://vnexpress.net/vi-sao-bang-binh-kiem-muon-bat-coc-cuong-hiep-nguoi-noi-tieng-4813471.html) - 17:00 07/11/2024
+- 🥰 [Cuộc sống trong lồng kính của tù nhân nguy hiểm nhất nước Anh](https://vnexpress.net/cuoc-song-trong-long-kinh-cua-tu-nhan-nguy-hiem-nhat-nuoc-anh-4813426.html) - 17:00 07/11/2024
 - 🎓 [Muốn cho con 13 tuổi một mảnh đất, cách nào hợp lý?](https://vnexpress.net/muon-cho-con-13-tuoi-mot-manh-dat-cach-nao-hop-ly-4811894.html) - 17:00 07/11/2024
 - 🤓 [Chủ Công ty NIPPON EPC &#39;mất tích&#39; sau khi nhận 170 tỷ đồng làm các gói thầu](https://vnexpress.net/chu-cong-ty-nippon-epc-mat-tich-sau-khi-nhan-170-ty-dong-lam-cac-goi-thau-4813463.html) - 14:34 07/11/2024
 - 🎊 [Bà Trương Mỹ Lan đòi SCB trả 5.000 tỷ đồng tăng vốn điều lệ](https://vnexpress.net/ba-truong-my-lan-doi-scb-tra-5-000-ty-dong-tang-von-dieu-le-4813436.html) - 12:24 07/11/2024
