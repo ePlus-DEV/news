@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Sân Mỹ Đình khó tổ chức trận Việt Nam – Indonesia](https://vnexpress.net/san-my-dinh-kho-to-chuc-tran-viet-nam-indonesia-4813706.html) - 05:43 08/11/2024
+- 🪜 [Sân Mỹ Đình khó tổ chức trận Việt Nam - Indonesia](https://vnexpress.net/san-my-dinh-kho-to-chuc-tran-viet-nam-indonesia-4813706.html) - 05:43 08/11/2024
 - 🦩 [Lục đục ở Real Madrid](https://vnexpress.net/luc-duc-o-real-madrid-4813504.html) - 05:09 08/11/2024
 - 🧰 [Scholes: &#39;Nhiều CLB ghen tị khi Man Utd bổ nhiệm Amorim&#39;](https://vnexpress.net/scholes-nhieu-clb-ghen-ti-khi-man-utd-bo-nhiem-amorim-4813664.html) - 04:29 08/11/2024
 - 🤗 [Gyokeres - từ kẻ lang bạt ở hạng Nhất đến ngôi sao Champions League](https://vnexpress.net/gyokeres-tu-ke-lang-bat-o-hang-nhat-den-ngoi-sao-champions-league-4813497.html) - 04:18 08/11/2024
