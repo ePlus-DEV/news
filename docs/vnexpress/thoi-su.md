@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Treo thưởng cho người tìm được máy bay Yak-130 mất tích](https://vnexpress.net/treo-thuong-cho-nguoi-tim-duoc-may-bay-yak-130-mat-tich-4813638.html) - 05:03 08/11/2024
 - ⚗️ [Người dân nơm nớp lo sợ cây rơm bị đốt](https://vnexpress.net/nguoi-dan-nom-nop-lo-so-cay-rom-bi-dot-4813563.html) - 04:35 08/11/2024
 - 🌊 [Doanh nghiệp ĐBSCL hưởng ứng lộ trình nông nghiệp xanh](https://vnexpress.net/doanh-nghiep-dbscl-huong-ung-lo-trinh-nong-nghiep-xanh-4813454.html) - 04:20 08/11/2024
-- 🎓 [Xưởng sản xuất kìm hơn 1.000 m2 bị thiêu rụi](https://vnexpress.net/xuong-san-xuat-kim-hon-1-000-m2-bi-thieu-rui-4813622.html) - 04:05 08/11/2024
+- 🎓 [Xưởng sản xuất kìm hơn 10.000 m2 bị thiêu rụi](https://vnexpress.net/xuong-san-xuat-kim-hon-10-000-m2-bi-thieu-rui-4813622.html) - 04:05 08/11/2024
 - 🔥 [&#39;Tập huấn chủ đề Nông nghiệp xanh là sự kiện quan trọng&#39;](https://vnexpress.net/tap-huan-chu-de-nong-nghiep-xanh-la-su-kien-quan-trong-4813455.html) - 02:50 08/11/2024
 - 🦏 [Người có ảnh hưởng sẽ bị siết hoạt động quảng cáo](https://vnexpress.net/nguoi-co-anh-huong-se-bi-siet-hoat-dong-quang-cao-4813543.html) - 02:27 08/11/2024
 - 👺 [Bão Yinxing vào Biển Đông](https://vnexpress.net/bao-yinxing-vao-bien-dong-4813508.html) - 01:04 08/11/2024
