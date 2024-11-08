@@ -5,7 +5,7 @@ sidebar_position: 19
 
 <!-- dantri-lao-dong-viec-lam:START -->
 - ⚗️ [Lao động từ nước ngoài trở về được nhiều doanh nghiệp săn đón](https://dantri.com.vn/lao-dong-viec-lam/lao-dong-tu-nuoc-ngoai-tro-ve-duoc-nhieu-doanh-nghiep-san-don-20241108134617015.htm) - 07:07 08/11/2024
-- 🙉 [Thứ trưởng Nguyễn Văn Hồi: Tăng cường đào tạo lao động lĩnh vực điện tử](https://dantri.com.vn/lao-dong-viec-lam/thu-truong-nguyen-van-hoi-tang-cuong-dao-tao-lao-dong-linh-vuc-dien-tu-20241108131002645.htm) - 06:57 08/11/2024
+- 🙉 [Thứ trưởng Bộ LĐ-TB&amp;XH: Tăng cường đào tạo lao động lĩnh vực điện tử](https://dantri.com.vn/lao-dong-viec-lam/thu-truong-bo-ld-tbxh-tang-cuong-dao-tao-lao-dong-linh-vuc-dien-tu-20241108131002645.htm) - 06:57 08/11/2024
 - 🕴 [Gen Z cần mở lòng, ngưng kỳ vọng thế hệ khác hiểu mình](https://dantri.com.vn/lao-dong-viec-lam/gen-z-can-mo-long-ngung-ky-vong-the-he-khac-hieu-minh-20241107170027664.htm) - 03:19 08/11/2024
 - 🧐 [Giấu chồng mang 10 triệu đồng đi khởi nghiệp, người phụ nữ tạo nên kỳ tích](https://dantri.com.vn/lao-dong-viec-lam/giau-chong-mang-10-trieu-dong-di-khoi-nghiep-nguoi-phu-nu-tao-nen-ky-tich-20241108075510527.htm) - 02:43 08/11/2024
 - 🧑‍💻 [Hết thu mua ở miền Bắc, thương lái đổ về &quot;thủ phủ&quot; cau miền Tây gây sốt giá](https://dantri.com.vn/lao-dong-viec-lam/het-thu-mua-o-mien-bac-thuong-lai-do-ve-thu-phu-cau-mien-tay-gay-sot-gia-20241105163459917.htm) - 01:54 08/11/2024
