@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [Đánh bại Australia, HLV futsal Việt Nam nói điều bất ngờ](https://dantri.com.vn/the-thao/danh-bai-australia-hlv-futsal-viet-nam-noi-dieu-bat-ngo-20241108193354722.htm) - 12:34 08/11/2024
 - 💯 [Trước trận chiến sinh tử, Indonesia được khuyên làm theo tuyển Việt Nam](https://dantri.com.vn/the-thao/truoc-tran-chien-sinh-tu-indonesia-duoc-khuyen-lam-theo-tuyen-viet-nam-20241108183405452.htm) - 12:01 08/11/2024
-- ⛽️ [Tuyển futsal Việt Nam thắng kịch tính Australia, vào chung kết Đông Nam Á](https://dantri.com.vn/the-thao/tuyen-futsal-viet-nam-thang-kich-tinh-australia-vao-chung-ket-dong-nam-a-20241108175421733.htm) - 10:56 08/11/2024
+- ⛽️ [Thắng kịch tính Australia, tuyển futsal Việt Nam gặp Indonesia ở chung kết](https://dantri.com.vn/the-thao/thang-kich-tinh-australia-tuyen-futsal-viet-nam-gap-indonesia-o-chung-ket-20241108175421733.htm) - 10:56 08/11/2024
 - 💃 [Sinner, Alcaraz nằm khác bảng tại ATP Finals 2024](https://dantri.com.vn/the-thao/sinner-alcaraz-nam-khac-bang-tai-atp-finals-2024-20241108171634566.htm) - 10:17 08/11/2024
 - 🌈 [Động thái kỳ lạ của Man Utd với HLV Van Nistelrooy](https://dantri.com.vn/the-thao/dong-thai-ky-la-cua-man-utd-voi-hlv-van-nistelrooy-20241108154337312.htm) - 08:43 08/11/2024
 - 🦅 [Cơ thủ Việt Nam đánh bại huyền thoại 13 lần vô địch World Cup](https://dantri.com.vn/the-thao/co-thu-viet-nam-danh-bai-huyen-thoai-13-lan-vo-dich-world-cup-20241108134928150.htm) - 07:10 08/11/2024
