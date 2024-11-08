@@ -4,7 +4,7 @@ sidebar_position: 22
 ---
 
 <!-- dantri-du-lich:START -->
-- 🥰 [Khách xếp hàng hứng nước từ bức tượng voi trong đền cổ vì tưởng nước thiêng](https://dantri.com.vn/du-lich/khach-xep-hang-hung-nuoc-tu-buc-tuong-voi-trong-den-co-vi-tuong-nuoc-thieng-20241108150856844.htm) - 09:13 08/11/2024
+- 🥰 [Khách xếp hàng hứng nước từ điều hòa ở đền cổ vì tưởng nước thiêng](https://dantri.com.vn/du-lich/khach-xep-hang-hung-nuoc-tu-dieu-hoa-o-den-co-vi-tuong-nuoc-thieng-20241108150856844.htm) - 09:13 08/11/2024
 - 🥰 [Huế trùng tu nhà rường 110 năm tuổi ở phố cổ Bao Vinh](https://dantri.com.vn/du-lich/hue-trung-tu-nha-ruong-110-nam-tuoi-o-pho-co-bao-vinh-20241108145317619.htm) - 08:47 08/11/2024
 - 🐻 [Tour du lịch để khách mặc áo tù đeo gông là sáng tạo hay đáng bị chỉ trích?](https://dantri.com.vn/du-lich/tour-du-lich-de-khach-mac-ao-tu-deo-gong-la-sang-tao-hay-dang-bi-chi-trich-20241108111354402.htm) - 04:43 08/11/2024
 - 🤩 [Nhà cổ hơn 280 tuổi không dùng đinh, bên trong nhiều cổ vật quý](https://dantri.com.vn/du-lich/nha-co-hon-280-tuoi-khong-dung-dinh-ben-trong-nhieu-co-vat-quy-20241108072618354.htm) - 03:07 08/11/2024
