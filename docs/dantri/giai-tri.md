@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- dantri-giai-tri:START -->
 - 🤩 [Tranh cãi khi thí sinh Hoa hậu Trái đất nhờ Google dịch trả lời phỏng vấn](https://dantri.com.vn/giai-tri/tranh-cai-khi-thi-sinh-hoa-hau-trai-dat-nho-google-dich-tra-loi-phong-van-20241108103011139.htm) - 05:12 08/11/2024
 - 🔥 [Siêu mẫu Hà Anh: &quot;Kỳ Duyên có chiến lược sử dụng ngoại ngữ thông minh&quot;](https://dantri.com.vn/giai-tri/sieu-mau-ha-anh-ky-duyen-co-chien-luoc-su-dung-ngoai-ngu-thong-minh-20241107175354768.htm) - 04:44 08/11/2024
-- 🚀 [Sự thật khả năng &quot;tiên tri&quot; của ông Donald Trump qua vai diễn 22 năm trước](https://dantri.com.vn/giai-tri/su-that-kha-nang-tien-tri-cua-ong-donald-trump-qua-vai-dien-22-nam-truoc-20241108104423418.htm) - 04:27 08/11/2024
+- 🚀 [Sự thật khả năng &quot;tiên tri&quot; của ông Donald Trump qua vai diễn 32 năm trước](https://dantri.com.vn/giai-tri/su-that-kha-nang-tien-tri-cua-ong-donald-trump-qua-vai-dien-32-nam-truoc-20241108104423418.htm) - 04:27 08/11/2024
 - 🔥 [Bộ Văn hóa lý giải việc Liên hoan hát Then, đàn Tính tổ chức tại Hà Nội](https://dantri.com.vn/giai-tri/bo-van-hoa-ly-giai-viec-lien-hoan-hat-then-dan-tinh-to-chuc-tai-ha-noi-20241108015129955.htm) - 02:59 08/11/2024
 - 🌈 [Hơn 60 nam vương đến Việt Nam: Hào hứng ăn bánh mì, 7 người trục trặc visa](https://dantri.com.vn/giai-tri/hon-60-nam-vuong-den-viet-nam-hao-hung-an-banh-mi-7-nguoi-truc-trac-visa-20241108092759492.htm) - 02:58 08/11/2024
 - 📝 [Tân binh HÚH: &quot;Trong con người tôi luôn có hai nhân cách&quot;](https://dantri.com.vn/giai-tri/tan-binh-huh-trong-con-nguoi-toi-luon-co-hai-nhan-cach-20241107175244027.htm) - 02:53 08/11/2024
