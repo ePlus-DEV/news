@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Du học sinh đến Đức cao kỷ lục](https://vnexpress.net/du-hoc-sinh-den-duc-cao-ky-luc-4813478.html) - 23:26 07/11/2024
+- 🤓 [Du học sinh đến Đức đông kỷ lục](https://vnexpress.net/du-hoc-sinh-den-duc-dong-ky-luc-4813478.html) - 23:26 07/11/2024
 - 🦆 [Muốn học Hàng không nhưng lo thất nghiệp](https://vnexpress.net/muon-hoc-hang-khong-nhung-lo-that-nghiep-4813040.html) - 16:59 07/11/2024
 - 🦩 [Tỉnh nào có thác nước tự nhiên lớn nhất Đông Nam Á?](https://vnexpress.net/tinh-nao-co-thac-nuoc-tu-nhien-lon-nhat-dong-nam-a-4813450.html) - 13:02 07/11/2024
 - 🌮 [Thí sinh thấp thỏm nếu cuối năm học mới biết điểm chuẩn xét tuyển sớm](https://vnexpress.net/thi-sinh-thap-thom-neu-cuoi-nam-hoc-moi-biet-diem-chuan-xet-tuyen-som-4812268.html) - 12:19 07/11/2024
