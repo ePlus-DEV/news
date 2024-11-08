@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Sẽ không thông quan hàng mua sàn online xuyên biên giới chưa đăng ký](https://vnexpress.net/se-khong-thong-quan-hang-mua-san-online-xuyen-bien-gioi-chua-dang-ky-4813705.html) - 09:16 08/11/2024
+- ⛽️ [Sẽ không thông quan hàng mua sàn online chưa đăng ký](https://vnexpress.net/se-khong-thong-quan-hang-mua-san-online-chua-dang-ky-4813705.html) - 09:16 08/11/2024
 - 🐲 [Cổ phiếu ngân hàng, bất động sản ghìm chỉ số VN-Index](https://vnexpress.net/chung-khoan-hom-nay-8-11-co-phieu-ngan-hang-bat-dong-san-thanh-ganh-nang-4813796.html) - 09:01 08/11/2024
 - 🔥 [Đức Long Gia Lai: Sẽ tập trung trả nợ để không bị hủy niêm yết](https://vnexpress.net/duc-long-gia-lai-se-tap-trung-tra-no-de-khong-bi-huy-niem-yet-4813731.html) - 08:57 08/11/2024
 - 🐵 [Qualcomm thu 4,7 tỷ USD từ thị trường Việt Nam](https://vnexpress.net/qualcomm-thu-4-7-ty-usd-tu-thi-truong-viet-nam-4813580.html) - 07:47 08/11/2024
