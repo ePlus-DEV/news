@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Vốn hóa Tesla đạt 1.000 tỷ USD](https://vnexpress.net/von-hoa-tesla-dat-1-000-ty-usd-4814069.html) - 05:38 09/11/2024
-- 🐲 [Thủ tướng yêu cầu tăng trưởng quý IV đạt 7,5%](https://vnexpress.net/thu-tuong-yeu-cau-tang-truong-quy-iv-dat-7-5-4814068.html) - 05:14 09/11/2024
+- 🐲 [Thủ tướng: Phấn đấu quý IV tăng trưởng đạt 7,5%](https://vnexpress.net/thu-tuong-phan-dau-quy-iv-tang-truong-dat-7-5-4814068.html) - 05:14 09/11/2024
 - 🔥 [Ông Trump chuẩn bị rút Mỹ khỏi Hiệp định Paris về khí hậu](https://vnexpress.net/ong-trump-chuan-bi-rut-my-khoi-hiep-dinh-paris-ve-khi-hau-4814036.html) - 03:56 09/11/2024
 - 🐵 [Việt Nam tiềm năng với tín chỉ carbon rừng](https://vnexpress.net/viet-nam-tiem-nang-voi-tin-chi-carbon-rung-4814015.html) - 03:29 09/11/2024
 - 🦅 [Giá vàng thế giới quay đầu giảm](https://vnexpress.net/gia-vang-the-gioi-quay-dau-giam-4813970.html) - 01:35 09/11/2024
