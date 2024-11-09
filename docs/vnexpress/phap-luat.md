@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Bà Trương Mỹ Lan cam kết trả toàn bộ tiền Ngân hàng Nhà nước cho SCB vay](https://vnexpress.net/ba-truong-my-lan-cam-ket-tra-toan-bo-tien-ngan-hang-nha-nuoc-cho-scb-vay-4813901.html) - 17:00 08/11/2024
-- 🥰 [Mẹ chồng 84 tuổi thắng kiện trong vụ tranh chấp nhà đất với con dâu](https://vnexpress.net/me-chong-duoc-giu-lai-nha-trong-vu-kien-tranh-chap-dat-voi-con-dau-4813704.html) - 17:00 08/11/2024
+- 🥰 [Mẹ chồng 84 tuổi thắng kiện trong vụ chia thừa kế với con dâu](https://vnexpress.net/me-chong-duoc-giu-lai-nha-trong-vu-kien-tranh-chap-dat-voi-con-dau-4813704.html) - 17:00 08/11/2024
 - 🎓 [Vi bằng có giá trị pháp lý cao hơn biên bản có người làm chứng?](https://vnexpress.net/vi-bang-co-gia-tri-phap-ly-cao-hon-bien-ban-co-nguoi-lam-chung-4812440.html) - 17:00 08/11/2024
 - 🤓 [Bị người thuê nhà chiếm đoạt hơn một tỷ đồng](https://vnexpress.net/bi-nguoi-thue-nha-chiem-doat-hon-mot-ty-dong-4813918.html) - 15:14 08/11/2024
 - 🎊 [Hàng trăm người vây Công ty GFDI tại Đà Nẵng đòi tiền góp vốn](https://vnexpress.net/hang-tram-nguoi-vay-cong-ty-gfdi-tai-da-nang-doi-tien-gop-von-4813762.html) - 13:55 08/11/2024
