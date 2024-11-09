@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Người đàn ông nhảy dù mắc vào đường dây 110kV](https://vnexpress.net/nguoi-dan-ong-nhay-du-mac-vao-duong-day-110kv-4814161.html) - 10:50 09/11/2024
 - 🤓 [Bệnh viện Bạch Mai và Việt Đức 2 &#39;phải hoàn thiện trong 6 tháng tới&#39;](https://vnexpress.net/benh-vien-bach-mai-va-viet-duc-2-phai-hoan-thien-trong-6-thang-toi-4814132.html) - 10:20 09/11/2024
-- ⚗️ [Bò lạc vào cao tốc, dòng ôtô phải chạy chậm một tiếng](https://vnexpress.net/bo-lac-vao-cao-toc-dong-oto-phai-chay-cham-mot-tieng-4814153.html) - 10:16 09/11/2024
+- ⚗️ [Bò lạc vào cao tốc, ôtô phải chạy chậm một tiếng](https://vnexpress.net/bo-lac-vao-cao-toc-oto-phai-chay-cham-mot-tieng-4814153.html) - 10:16 09/11/2024
 - 🌊 [Vì sao khu vực Hồ Gươm được thí điểm hạn chế phương tiện ô nhiễm?](https://vnexpress.net/vi-sao-khu-vuc-ho-guom-duoc-thi-diem-han-che-phuong-tien-o-nhiem-4813925.html) - 08:45 09/11/2024
 - 🎓 [Manh mối giúp tìm thấy máy bay Yak-130 rơi ở Đăk Lăk](https://vnexpress.net/manh-moi-giup-tim-thay-may-bay-yak-130-roi-o-dak-lak-4814109.html) - 08:20 09/11/2024
 - 🔥 [Tổng Bí thư: Quy hoạch thế nào mà có nơi không có trường học?](https://vnexpress.net/tong-bi-thu-quy-hoach-the-nao-ma-co-noi-khong-co-truong-hoc-4814083.html) - 07:27 09/11/2024
