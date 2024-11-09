@@ -4,7 +4,7 @@ sidebar_position: 26
 ---
 
 <!-- dantri-ban-doc:START -->
-- 🦒 [Không phải là định kiến, thực tế hàng hóa ở sân bay rất rất đắt!](https://dantri.com.vn/ban-doc/khong-phai-la-dinh-kien-thuc-te-hang-hoa-o-san-bay-rat-rat-dat-20241109095957442.htm) - 06:00 09/11/2024
+- 🦒 [Không phải là định kiến, thực tế hàng hóa ở sân bay rất đắt!](https://dantri.com.vn/ban-doc/khong-phai-la-dinh-kien-thuc-te-hang-hoa-o-san-bay-rat-dat-20241109095957442.htm) - 06:00 09/11/2024
 - 🤓 [Tình huống pháp lý vụ xe kéo cán chết 2 người trú mưa dưới gầm xe](https://dantri.com.vn/ban-doc/tinh-huong-phap-ly-vu-xe-keo-can-chet-2-nguoi-tru-mua-duoi-gam-xe-20241109092730511.htm) - 02:38 09/11/2024
 - 🐻 [&quot;Phải tịch thu xe, đánh vào kinh tế để cha mẹ có ý thức quản lý con&quot;](https://dantri.com.vn/ban-doc/phai-tich-thu-xe-danh-vao-kinh-te-de-cha-me-co-y-thuc-quan-ly-con-20241108010529493.htm) - 01:32 08/11/2024
 - 🏊 [Con trẻ làm loạn, gây án ngoài xã hội: Lỗi lớn nhất là giáo dục gia đình](https://dantri.com.vn/ban-doc/con-tre-lam-loan-gay-an-ngoai-xa-hoi-loi-lon-nhat-la-giao-duc-gia-dinh-20241107012535583.htm) - 02:26 07/11/2024
