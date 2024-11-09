@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Gu mặc tôn cơ bắp của Hải Đăng Doo](https://vnexpress.net/gu-mac-ton-co-bap-cua-hai-dang-doo-4813932.html) - 11:00 09/11/2024
-- 💫 [Tranh do robot vẽ giá hơn 1 triệu USD](https://vnexpress.net/tranh-do-robot-ve-gia-hon-1-trieu-usd-4814089.html) - 07:49 09/11/2024
+- 💫 [Tranh do robot vẽ giá hơn một triệu USD](https://vnexpress.net/tranh-do-robot-ve-gia-hon-mot-trieu-usd-4814089.html) - 07:49 09/11/2024
 - 🌮 [H&#39;Hen Niê mua nhà sau nhiều năm ở thuê](https://vnexpress.net/h-hen-nie-mua-nha-sau-nhieu-nam-o-thue-4814076.html) - 07:29 09/11/2024
 - 🧠 [Ra mắt bộ sách &#39;Văn học miền Nam lục tỉnh&#39;](https://vnexpress.net/ra-mat-bo-sach-van-hoc-mien-nam-luc-tinh-4813960.html) - 06:34 09/11/2024
 - 👨‍🏫 [Phong cách cháu gái 17 tuổi của ông Trump](https://vnexpress.net/phong-cach-chau-gai-17-tuoi-cua-ong-trump-4813615.html) - 05:30 09/11/2024
