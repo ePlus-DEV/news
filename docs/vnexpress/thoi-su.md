@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Vì sao Hồ Gươm thí điểm hạn chế phương tiện ô nhiễm?](https://vnexpress.net/vi-sao-ho-guom-thi-diem-han-che-phuong-tien-o-nhiem-4813925.html) - 08:45 09/11/2024
+- 🦒 [Vì sao khu vực Hồ Gươm được thí điểm hạn chế phương tiện ô nhiễm?](https://vnexpress.net/vi-sao-khu-vuc-ho-guom-duoc-thi-diem-han-che-phuong-tien-o-nhiem-4813925.html) - 08:45 09/11/2024
 - 🤓 [Manh mối giúp tìm thấy máy bay Yak-130 rơi ở Đăk Lăk](https://vnexpress.net/manh-moi-giup-tim-thay-may-bay-yak-130-roi-o-dak-lak-4814109.html) - 08:20 09/11/2024
 - ⚗️ [Tổng Bí thư: Quy hoạch thế nào mà có nơi không có trường học?](https://vnexpress.net/tong-bi-thu-quy-hoach-the-nao-ma-co-noi-khong-co-truong-hoc-4814083.html) - 07:27 09/11/2024
 - 🌊 [Nổ mìn xử lý khối đá hàng chục tấn nguy cơ lăn xuống đèo Cù Hin](https://vnexpress.net/no-min-xu-ly-khoi-da-hang-chuc-tan-nguy-co-lan-xuong-deo-cu-hin-4814071.html) - 05:28 09/11/2024
