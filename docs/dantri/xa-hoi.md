@@ -4,8 +4,8 @@ sidebar_position: 1
 ---
 
 <!-- dantri-xa-hoi:START -->
-- 🫣 [Chuẩn bị hồ sơ dự án đường sắt tốc độ cao Bắc - Nam trình Quốc hội](https://dantri.com.vn/xa-hoi/chuan-bi-ho-so-du-an-duong-sat-toc-do-cao-bac-nam-trinh-quoc-hoi-20241109102404059.htm) - 03:35 09/11/2024
-- 💼 [Người đàn ông cầm cây gỗ múa võ, tấn công cán bộ công an ở TPHCM](https://dantri.com.vn/xa-hoi/nguoi-dan-ong-cam-cay-go-mua-vo-tan-cong-can-bo-cong-an-o-tphcm-20241109100329085.htm) - 03:08 09/11/2024
+- 🫣 [Đoạn đường lồi lõm như mặt trăng, làm 15 năm không xong ở trung tâm Cần Thơ](https://dantri.com.vn/xa-hoi/doan-duong-loi-lom-nhu-mat-trang-lam-15-nam-khong-xong-o-trung-tam-can-tho-20241031004054778.htm) - 04:23 09/11/2024
+- 💼 [Chuẩn bị hồ sơ dự án đường sắt tốc độ cao Bắc - Nam trình Quốc hội](https://dantri.com.vn/xa-hoi/chuan-bi-ho-so-du-an-duong-sat-toc-do-cao-bac-nam-trinh-quoc-hoi-20241109102404059.htm) - 03:35 09/11/2024
 - 🎊 [Lương nhà giáo được xếp cao nhất, tiến sĩ giáo dục có thể nghỉ hưu muộn](https://dantri.com.vn/xa-hoi/luong-nha-giao-duoc-xep-cao-nhat-tien-si-giao-duc-co-the-nghi-huu-muon-20241109091650246.htm) - 02:27 09/11/2024
 - 🙉 [Đổi mới mạnh mẽ công tác xây dựng và thi hành pháp luật để đất nước vững bước tiến vào kỷ nguyên mới](https://dantri.com.vn/xa-hoi/doi-moi-manh-me-cong-tac-xay-dung-va-thi-hanh-phap-luat-de-dat-nuoc-vung-buoc-tien-vao-ky-nguyen-moi-20241109083439165.htm) - 01:34 09/11/2024
 - 🕯 [Container đậu trong bãi xe ở Bình Dương phát nổ rồi bốc cháy](https://dantri.com.vn/xa-hoi/container-dau-trong-bai-xe-o-binh-duong-phat-no-roi-boc-chay-20241109081450402.htm) - 01:27 09/11/2024
