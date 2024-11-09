@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Tạo hình Uyển Ân trong phim Tết của Trấn Thành](https://vnexpress.net/tao-hinh-uyen-an-trong-phim-tet-cua-tran-thanh-4814140.html) - 13:25 09/11/2024
-- 💫 [&#39;Nhà làm phim Việt sợ khi động đến đề tài lịch sử&#39;](https://vnexpress.net/nha-lam-phim-viet-so-khi-dong-den-de-tai-lich-su-4814110.html) - 12:15 09/11/2024
+- 💫 [&#39;Nhà làm phim Việt sợ động đến đề tài lịch sử&#39;](https://vnexpress.net/nha-lam-phim-viet-so-dong-den-de-tai-lich-su-4814110.html) - 12:15 09/11/2024
 - 🌮 [Gu mặc tôn cơ bắp của Hải Đăng Doo](https://vnexpress.net/gu-mac-ton-co-bap-cua-hai-dang-doo-4813932.html) - 11:00 09/11/2024
 - 🧠 [Tranh do robot vẽ giá hơn một triệu USD](https://vnexpress.net/tranh-do-robot-ve-gia-hon-mot-trieu-usd-4814089.html) - 07:49 09/11/2024
 - 👨‍🏫 [H&#39;Hen Niê mua nhà sau nhiều năm ở thuê](https://vnexpress.net/h-hen-nie-mua-nha-sau-nhieu-nam-o-thue-4814076.html) - 07:29 09/11/2024
