@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Văn Quyết phá kỷ lục ghi bàn V-League](https://vnexpress.net/van-quyet-pha-ky-luc-ghi-ban-v-league-4814206.html) - 15:23 09/11/2024
 - 🦩 [Vinicius lập hat-trick, giúp Real cắt mạch thua](https://vnexpress.net/vinicius-lap-hat-trick-giup-real-cat-mach-thua-4814203.html) - 14:59 09/11/2024
 - 🧰 [Bình Dương hòa Đà Nẵng trong &#39;mưa thẻ đỏ&#39;](https://vnexpress.net/binh-duong-hoa-da-nang-trong-mua-the-do-4814198.html) - 14:49 09/11/2024
-- 🤗 [Công Phượng lu mờ trước đội Trẻ TP HCM](https://vnexpress.net/cong-phuong-lu-mo-truoc-doi-tre-tp-hcm-4814194.html) - 14:37 09/11/2024
+- 🤗 [Công Phượng im tiếng trong chiến thắng của Bình Phước](https://vnexpress.net/cong-phuong-im-tieng-trong-chien-thang-cua-binh-phuoc-4814194.html) - 14:37 09/11/2024
 - 🥳 [HLV futsal Việt Nam: &#39;Indonesia mạnh nhất AFF Cup 2024&#39;](https://vnexpress.net/hlv-futsal-viet-nam-indonesia-manh-nhat-aff-cup-2024-4814166.html) - 13:52 09/11/2024
 - 🦣 [Quyết Chiến, Phương Vinh dừng bước ở tứ kết World Cup](https://vnexpress.net/quyet-chien-phuong-vinh-dung-buoc-o-tu-ket-world-cup-4814178.html) - 13:43 09/11/2024
 - 🌜 [HAGL hạ Công an Hà Nội, trở lại dẫn đầu V-League](https://vnexpress.net/hagl-ha-cong-an-ha-noi-tro-lai-dan-dau-v-league-4814174.html) - 12:37 09/11/2024
