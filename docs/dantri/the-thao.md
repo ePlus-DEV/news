@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Công bố điểm số ở giải Quả bóng vàng 2024: Rodri thắng sát nút Vinicius](https://dantri.com.vn/the-thao/cong-bo-diem-so-o-giai-qua-bong-vang-2024-rodri-thang-sat-nut-vinicius-20241109125058662.htm) - 05:50 09/11/2024
+- 🎡 [Công bố điểm số ở giải Quả bóng vàng 2024: Rodri thắng sát nút Vinicius](https://dantri.com.vn/the-thao/cong-bo-diem-so-o-giai-qua-bong-vang-2024-rodri-thang-sat-nut-vinicius-20241109125058662.htm) - 06:01 09/11/2024
 - 💯 [Huyền thoại bóng đá Hàn Quốc gia nhập ban huấn luyện tuyển Việt Nam](https://dantri.com.vn/the-thao/huyen-thoai-bong-da-han-quoc-gia-nhap-ban-huan-luyen-tuyen-viet-nam-20241109100821361.htm) - 03:07 09/11/2024
 - ⛽️ [Indonesia tuyên bố mạnh mẽ trước trận chung kết với futsal Việt Nam](https://dantri.com.vn/the-thao/indonesia-tuyen-bo-manh-me-truoc-tran-chung-ket-voi-futsal-viet-nam-20241109095804489.htm) - 03:02 09/11/2024
 - 💃 [Ronaldo gây thất vọng trong ngày Al Nassr giành chiến thắng](https://dantri.com.vn/the-thao/ronaldo-gay-that-vong-trong-ngay-al-nassr-gianh-chien-thang-20241109105534692.htm) - 03:00 09/11/2024
