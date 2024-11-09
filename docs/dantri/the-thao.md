@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [HLV futsal Việt Nam đánh giá cao Indonesia, thừa nhận bất lợi của đội nhà](https://dantri.com.vn/the-thao/hlv-futsal-viet-nam-danh-gia-cao-indonesia-thua-nhan-bat-loi-cua-doi-nha-20241109180346501.htm) - 11:03 09/11/2024
+- 🎡 [HLV futsal Việt Nam nói thẳng về sức mạnh của Indonesia](https://dantri.com.vn/the-thao/hlv-futsal-viet-nam-noi-thang-ve-suc-manh-cua-indonesia-20241109180346501.htm) - 11:30 09/11/2024
 - 💯 [Mbappe không muốn chơi cho tuyển Pháp vì mâu thuẫn với HLV Deschamps](https://dantri.com.vn/the-thao/mbappe-khong-muon-choi-cho-tuyen-phap-vi-mau-thuan-voi-hlv-deschamps-20241109140311621.htm) - 10:01 09/11/2024
 - ⛽️ [Trước trận chia tay, Van Nistelrooy bất ngờ chỉ ra vấn đề lớn của Man Utd](https://dantri.com.vn/the-thao/truoc-tran-chia-tay-van-nistelrooy-bat-ngo-chi-ra-van-de-lon-cua-man-utd-20241109162144898.htm) - 09:21 09/11/2024
 - 💃 [Công bố điểm số ở giải Quả bóng vàng 2024: Rodri thắng sát nút Vinicius](https://dantri.com.vn/the-thao/cong-bo-diem-so-o-giai-qua-bong-vang-2024-rodri-thang-sat-nut-vinicius-20241109125058662.htm) - 06:01 09/11/2024
