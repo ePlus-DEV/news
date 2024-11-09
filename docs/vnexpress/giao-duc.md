@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Ba chính sách đáng chú ý trong dự thảo Luật Nhà giáo](https://vnexpress.net/ba-chinh-sach-dang-chu-y-trong-du-thao-luat-nha-giao-4810603.html) - 23:22 08/11/2024
+- 🤓 [Ba chính sách quan trọng trong dự thảo Luật Nhà giáo](https://vnexpress.net/ba-chinh-sach-quan-trong-trong-du-thao-luat-nha-giao-4810603.html) - 23:22 08/11/2024
 - 🦆 [Nên &#39;tất tay&#39; ôn thi tốt nghiệp hay đánh giá năng lực để vào Sư phạm?](https://vnexpress.net/nen-tat-tay-on-thi-tot-nghiep-hay-danh-gia-nang-luc-de-vao-su-pham-4813049.html) - 16:59 08/11/2024
 - 🦩 [Đại học Kinh tế - Luật bỏ hai tổ hợp xét tuyển](https://vnexpress.net/dai-hoc-kinh-te-luat-bo-hai-to-hop-xet-tuyen-4813919.html) - 14:21 08/11/2024
 - 🌮 [Trụ cáp treo cao nhất thế giới ở địa phương nào?](https://vnexpress.net/tru-cap-treo-cao-nhat-the-gioi-o-dia-phuong-nao-4813851.html) - 12:00 08/11/2024
