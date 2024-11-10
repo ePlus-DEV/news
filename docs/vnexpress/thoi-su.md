@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Hôm nay, Quốc hội chất vấn Thống đốc và Bộ trưởng Y tế](https://vnexpress.net/hom-nay-quoc-hoi-chat-van-thong-doc-va-bo-truong-y-te-4814389.html) - 17:01 10/11/2024
-- 🤓 [28 năm đưa Thừa Thiên Huế lên thành phố trực thuộc trung ương](https://vnexpress.net/28-nam-dua-thua-thien-hue-len-thanh-pho-truc-thuoc-trung-uong-4806222.html) - 17:00 10/11/2024
+- 🤓 [28 năm từ tỉnh Thừa Thiên Huế lên thành phố trực thuộc trung ương](https://vnexpress.net/28-nam-tu-tinh-thua-thien-hue-len-thanh-pho-truc-thuoc-trung-uong-4806222.html) - 17:00 10/11/2024
 - ⚗️ [1,2 tỷ đồng cho dinh dưỡng của học sinh vùng cao](https://vnexpress.net/1-2-ty-dong-cho-dinh-duong-cua-hoc-sinh-vung-cao-4804684.html) - 09:48 10/11/2024
 - 🌊 [Cơ sở gây ngộ độc 287 công nhân bị đóng cửa](https://vnexpress.net/co-so-gay-ngo-doc-287-cong-nhan-bi-dong-cua-4814316.html) - 06:02 10/11/2024
 - 🎓 [Du khách nước ngoài gặp nạn tử vong ở đảo Phú Quý](https://vnexpress.net/du-khach-nuoc-ngoai-gap-nan-tu-vong-o-dao-phu-quy-4814297.html) - 04:51 10/11/2024
