@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Futsal Việt Nam 0-1 Futsal Indonesia &lpar;h2&rpar;: Indonesia chơi thô bạo](https://dantri.com.vn/the-thao/futsal-viet-nam-0-1-futsal-indonesia-h2-indonesia-choi-tho-bao-20241110172635734.htm) - 10:26 10/11/2024
+- 🎡 [Thất bại trước Indonesia, futsal Việt Nam lỡ hẹn với chức vô địch lịch sử](https://dantri.com.vn/the-thao/that-bai-truoc-indonesia-futsal-viet-nam-lo-hen-voi-chuc-vo-dich-lich-su-20241110172635734.htm) - 10:26 10/11/2024
 - 💯 [Đội tuyển futsal Việt Nam tái ngộ cố nhân trong trận chung kết Đông Nam Á](https://dantri.com.vn/the-thao/doi-tuyen-futsal-viet-nam-tai-ngo-co-nhan-trong-tran-chung-ket-dong-nam-a-20241109230228659.htm) - 09:22 10/11/2024
 - ⛽️ [Lionel Messi ghi bàn nhưng vẫn vỡ mộng vô địch](https://dantri.com.vn/the-thao/lionel-messi-ghi-ban-nhung-van-vo-mong-vo-dich-20241110151955136.htm) - 08:19 10/11/2024
 - 💃 [Nhận định Chelsea - Arsenal: Phía trước là bầu trời, phía sau là vực thẳm](https://dantri.com.vn/the-thao/nhan-dinh-chelsea-arsenal-phia-truoc-la-bau-troi-phia-sau-la-vuc-tham-20241110121324743.htm) - 05:13 10/11/2024
