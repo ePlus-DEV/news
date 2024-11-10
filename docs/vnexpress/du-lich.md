@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [4 địa chỉ thưởng thức chè đêm tại TP HCM](https://vnexpress.net/4-dia-chi-thuong-thuc-che-dem-tai-tp-hcm-4813550.html) - 05:05 10/11/2024
-- 🪄 [30.000 khách đến Bảo tàng Lịch sử quân sự Việt Nam sáng nay](https://vnexpress.net/30-000-khach-den-bao-tang-lich-su-quan-su-viet-nam-sang-nay-4814286.html) - 04:19 10/11/2024
+- 🪄 [30.000 khách đến Bảo tàng Lịch sử Quân sự Việt Nam sáng nay](https://vnexpress.net/30-000-khach-den-bao-tang-lich-su-quan-su-viet-nam-sang-nay-4814286.html) - 04:19 10/11/2024
 - 🦅 [Bán không khí cho du khách làm quà lưu niệm](https://vnexpress.net/ban-khong-khi-cho-du-khach-lam-qua-luu-niem-4814027.html) - 03:00 10/11/2024
 - 🕴 [Món ăn từ thịt chó phổ biến ở Hàn Quốc tên gì?](https://vnexpress.net/mon-an-tu-thit-cho-pho-bien-o-han-quoc-ten-gi-4814092.html) - 02:12 10/11/2024
 - 👀 [Vietjet mở lại loạt đường bay nội địa](https://vnexpress.net/vietjet-mo-lai-loat-duong-bay-noi-dia-4814190.html) - 02:00 10/11/2024
