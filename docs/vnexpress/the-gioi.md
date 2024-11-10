@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Mẫu súng Nga được kỳ vọng sẽ thay thế &#39;AK rút gọn&#39;](https://vnexpress.net/mau-sung-nga-duoc-ky-vong-se-thay-the-ak-rut-gon-4813617.html) - 18:00 10/11/2024
+- 🎭 [Mẫu súng Nga được kỳ vọng thay thế &#39;AK rút gọn&#39;](https://vnexpress.net/mau-sung-nga-duoc-ky-vong-thay-the-ak-rut-gon-4813617.html) - 18:00 10/11/2024
 - 🕴 [Israel lần đầu xác nhận đứng sau loạt vụ nổ máy nhắn tin ở Lebanon](https://vnexpress.net/israel-lan-dau-xac-nhan-dung-sau-loat-vu-no-may-nhan-tin-o-lebanon-4814423.html) - 17:22 10/11/2024
 - 🤭 [Di sản của Tổng thống Biden đối mặt nhiều hoài nghi](https://vnexpress.net/di-san-cua-tong-thong-biden-doi-mat-nhieu-hoai-nghi-4813988.html) - 17:00 10/11/2024
 - 🧑‍💻 [Tàu hải quân Nhật Bản bốc cháy, có nguy cơ chìm](https://vnexpress.net/tau-hai-quan-nhat-ban-boc-chay-co-nguy-co-chim-4814396.html) - 15:13 10/11/2024
