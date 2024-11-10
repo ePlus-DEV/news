@@ -7,7 +7,7 @@ sidebar_position: 7
 - 🤓 [20 cách an ủi bằng tiếng Anh](https://vnexpress.net/20-cach-an-ui-bang-tieng-anh-4814334.html) - 06:02 10/11/2024
 - 🦆 [Bài luận về mẹ đưa cô gái Hải Phòng đến Harvard](https://vnexpress.net/bai-luan-ve-me-dua-co-gai-hai-phong-den-harvard-4813738.html) - 05:38 10/11/2024
 - 🦩 [Đại học top 3 Australia tạm dừng nhận du học sinh năm 2025](https://vnexpress.net/dai-hoc-top-3-australia-tam-dung-nhan-du-hoc-sinh-nam-2025-4813802.html) - 00:51 10/11/2024
-- 🌮 [Học Điện tử - Viễn thông nhưng khó, có nên bỏ?](https://vnexpress.net/hoc-dien-tu-vien-thong-nhung-kho-co-nen-bo-4812477.html) - 16:59 09/11/2024
+- 🌮 [Học Điện tử - Viễn thông thấy khó, có nên bỏ?](https://vnexpress.net/hoc-dien-tu-vien-thong-thay-kho-co-nen-bo-4812477.html) - 16:59 09/11/2024
 - 🔭 [Nghiên cứu để nhân viên trường học hưởng phụ cấp tương xứng](https://vnexpress.net/nghien-cuu-de-nhan-vien-truong-hoc-huong-phu-cap-tuong-xung-4814187.html) - 14:45 09/11/2024
 - 💡 [Nền tảng cho người dùng tự mở khóa học trực tuyến](https://vnexpress.net/nen-tang-cho-nguoi-dung-tu-mo-khoa-hoc-truc-tuyen-4814176.html) - 14:16 09/11/2024
 - 🥰 [Hồ nước mặn nào được gọi là biển?](https://vnexpress.net/ho-nuoc-man-nao-duoc-goi-la-bien-4814168.html) - 13:17 09/11/2024
