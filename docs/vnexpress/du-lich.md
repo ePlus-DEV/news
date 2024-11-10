@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Ngày kỷ lục ở Bảo tàng Lịch sử Quân sự Việt Nam](https://vnexpress.net/ngay-ky-luc-o-bao-tang-lich-su-quan-su-viet-nam-4814335.html) - 08:44 10/11/2024
+- 💂 [Ngày đón khách kỷ lục ở Bảo tàng Lịch sử Quân sự Việt Nam](https://vnexpress.net/ngay-don-khach-ky-luc-o-bao-tang-lich-su-quan-su-viet-nam-4814335.html) - 08:44 10/11/2024
 - 🪄 [Hàng nghìn người xem đua ghe ngo trên kênh Nhiêu Lộc - Thị Nghè](https://vnexpress.net/hang-nghin-nguoi-xem-dua-ghe-ngo-tren-kenh-nhieu-loc-thi-nghe-4814325.html) - 07:33 10/11/2024
 - 🦅 [4 địa chỉ thưởng thức chè đêm tại TP HCM](https://vnexpress.net/4-dia-chi-thuong-thuc-che-dem-tai-tp-hcm-4813550.html) - 05:05 10/11/2024
 - 🕴 [30.000 khách đến Bảo tàng Lịch sử Quân sự Việt Nam sáng nay](https://vnexpress.net/30-000-khach-den-bao-tang-lich-su-quan-su-viet-nam-sang-nay-4814286.html) - 04:19 10/11/2024
