@@ -5,10 +5,10 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Nhận định Chelsea - Arsenal: Phía trước là bầu trời, phía sau là vực thẳm](https://dantri.com.vn/the-thao/nhan-dinh-chelsea-arsenal-phia-truoc-la-bau-troi-phia-sau-la-vuc-tham-20241110121324743.htm) - 05:13 10/11/2024
-- 💯 [Mourinho bị phạt nặng sau khi chỉ trích trọng tài Thổ Nhĩ Kỳ](https://dantri.com.vn/the-thao/mourinho-bi-phat-nang-sau-khi-chi-trich-trong-tai-tho-nhi-ky-20241110110226130.htm) - 04:02 10/11/2024
-- ⛽️ [Nhận định Man Utd - Leicester &lpar;21h00, ngày 10/11&rpar;: Chia tay Van Nistelrooy](https://dantri.com.vn/the-thao/nhan-dinh-man-utd-leicester-21h00-ngay-1011-chia-tay-van-nistelrooy-20241110104032925.htm) - 03:41 10/11/2024
-- 💃 [HLV Pep Guardiola lập kỷ lục đáng buồn sau khi Man City thua Brighton](https://dantri.com.vn/the-thao/hlv-pep-guardiola-lap-ky-luc-dang-buon-sau-khi-man-city-thua-brighton-20241110082837513.htm) - 03:00 10/11/2024
-- 🌈 [Erling Haaland vật nhau với đối thủ, Pep Guardiola thay học trò &quot;dạy dỗ&quot;](https://dantri.com.vn/the-thao/erling-haaland-vat-nhau-voi-doi-thu-pep-guardiola-thay-hoc-tro-day-do-20241110091851135.htm) - 02:18 10/11/2024
+- 💯 [Erling Haaland vật nhau với đối thủ, Pep Guardiola thay học trò &quot;dạy dỗ&quot;](https://dantri.com.vn/the-thao/erling-haaland-vat-nhau-voi-doi-thu-pep-guardiola-thay-hoc-tro-day-do-20241110091851135.htm) - 04:18 10/11/2024
+- ⛽️ [Mourinho bị phạt nặng sau khi chỉ trích trọng tài Thổ Nhĩ Kỳ](https://dantri.com.vn/the-thao/mourinho-bi-phat-nang-sau-khi-chi-trich-trong-tai-tho-nhi-ky-20241110110226130.htm) - 04:02 10/11/2024
+- 💃 [Nhận định Man Utd - Leicester &lpar;21h00, ngày 10/11&rpar;: Chia tay Van Nistelrooy](https://dantri.com.vn/the-thao/nhan-dinh-man-utd-leicester-21h00-ngay-1011-chia-tay-van-nistelrooy-20241110104032925.htm) - 03:41 10/11/2024
+- 🌈 [HLV Pep Guardiola lập kỷ lục đáng buồn sau khi Man City thua Brighton](https://dantri.com.vn/the-thao/hlv-pep-guardiola-lap-ky-luc-dang-buon-sau-khi-man-city-thua-brighton-20241110082837513.htm) - 03:00 10/11/2024
 - 🦅 [HLV Mano Polking chỉ trích chiến thắng xấu xí của HA Gia Lai](https://dantri.com.vn/the-thao/hlv-mano-polking-chi-trich-chien-thang-xau-xi-cua-ha-gia-lai-20241110075643944.htm) - 01:05 10/11/2024
 - 🌝 [Coco Gauff vô địch WTA Finals, Alcaraz tự tin trước ATP Finals](https://dantri.com.vn/the-thao/coco-gauff-vo-dich-wta-finals-alcaraz-tu-tin-truoc-atp-finals-20241110075931196.htm) - 01:01 10/11/2024
 - 🚀 [Văn Quyết vượt qua Công Vinh, ghi dấu ấn lịch sử ở V-League](https://dantri.com.vn/the-thao/van-quyet-vuot-qua-cong-vinh-ghi-dau-an-lich-su-o-v-league-20241110082448202.htm) - 01:00 10/11/2024
