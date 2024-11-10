@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Thể Công Viettel chia điểm với HL Hà Tĩnh trong trận cầu có 2 thẻ đỏ](https://dantri.com.vn/the-thao/the-cong-viettel-chia-diem-voi-hl-ha-tinh-trong-tran-cau-co-2-the-do-20241110215414504.htm) - 15:18 10/11/2024
-- 💯 [Man Utd 2-0 Leicester City &lpar;hiệp 2&rpar;: 45 phút thuận lợi](https://dantri.com.vn/the-thao/man-utd-2-0-leicester-city-hiep-2-45-phut-thuan-loi-20241110205834667.htm) - 13:58 10/11/2024
+- 💯 [Man Utd 2-0 Leicester City &lpar;hiệp 2&rpar;: Đội khách gặp khó](https://dantri.com.vn/the-thao/man-utd-2-0-leicester-city-hiep-2-doi-khach-gap-kho-20241110205834667.htm) - 13:58 10/11/2024
 - ⛽️ [CLB Thanh Hóa lên đầu bảng V-League, CLB Bình Định đánh bại Quảng Nam](https://dantri.com.vn/the-thao/clb-thanh-hoa-len-dau-bang-v-league-clb-binh-dinh-danh-bai-quang-nam-20241110202152211.htm) - 13:34 10/11/2024
 - 💃 [Thất bại trước Indonesia, futsal Việt Nam lỡ hẹn với chức vô địch lịch sử](https://dantri.com.vn/the-thao/that-bai-truoc-indonesia-futsal-viet-nam-lo-hen-voi-chuc-vo-dich-lich-su-20241110172635734.htm) - 10:26 10/11/2024
 - 🌈 [Đội tuyển futsal Việt Nam tái ngộ cố nhân trong trận chung kết Đông Nam Á](https://dantri.com.vn/the-thao/doi-tuyen-futsal-viet-nam-tai-ngo-co-nhan-trong-tran-chung-ket-dong-nam-a-20241109230228659.htm) - 09:22 10/11/2024
