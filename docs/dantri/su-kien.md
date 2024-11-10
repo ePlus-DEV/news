@@ -5,7 +5,7 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [Hai cơn bão đang hoạt động, khả năng có thêm bão số 9](https://dantri.com.vn/xa-hoi/hai-con-bao-dang-hoat-dong-kha-nang-co-them-bao-so-9-20241110173406260.htm) - 10:50 10/11/2024
-- 👨‍🏫 [Futsal Việt Nam 0-1 Futsal Indonesia &lpar;h1&rpar;: Thịnh Phát sút trúng xà ngang](https://dantri.com.vn/the-thao/futsal-viet-nam-0-1-futsal-indonesia-h1-thinh-phat-sut-trung-xa-ngang-20241110172635734.htm) - 10:26 10/11/2024
+- 👨‍🏫 [Futsal Việt Nam 0-1 Futsal Indonesia &lpar;h2&rpar;: Indonesia chơi thô bạo](https://dantri.com.vn/the-thao/futsal-viet-nam-0-1-futsal-indonesia-h2-indonesia-choi-tho-bao-20241110172635734.htm) - 10:26 10/11/2024
 - 🌮 [Hàng vạn người đổ về tham quan Bảo tàng Lịch sử Quân sự Việt Nam](https://dantri.com.vn/xa-hoi/hang-van-nguoi-do-ve-tham-quan-bao-tang-lich-su-quan-su-viet-nam-20241110152712413.htm) - 08:44 10/11/2024
 - 🕯 [Ông Trump có thể cứng rắn hơn với Trung Quốc khi trở lại Nhà Trắng?](https://dantri.com.vn/the-gioi/ong-trump-co-the-cung-ran-hon-voi-trung-quoc-khi-tro-lai-nha-trang-20241110145656824.htm) - 08:32 10/11/2024
 - 🪜 [Thủ tướng: Nâng mức hỗ trợ, tạo phong trào xóa nhà tạm khắp cả nước](https://dantri.com.vn/an-sinh/thu-tuong-nang-muc-ho-tro-tao-phong-trao-xoa-nha-tam-khap-ca-nuoc-20241110150311510.htm) - 08:03 10/11/2024
