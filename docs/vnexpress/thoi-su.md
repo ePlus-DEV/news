@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Công việc áp lực, 43% công chức TP HCM sẽ nghỉ khi &#39;có cơ hội&#39;](https://vnexpress.net/cong-viec-ap-luc-43-cong-chuc-tp-hcm-se-nghi-khi-co-co-hoi-4814249.html) - 02:30 10/11/2024
-- 🤓 [Bão Yinxing giảm cường độ](https://vnexpress.net/bao-yinxing-giam-cuong-do-4814251.html) - 01:52 10/11/2024
+- 🤓 [Bão Yinxing giảm cấp, thêm bão mới gần Biển Đông](https://vnexpress.net/bao-yinxing-giam-cap-them-bao-moi-gan-bien-dong-4814251.html) - 01:52 10/11/2024
 - ⚗️ [Thành lập Ban chỉ đạo về tinh gọn bộ máy của Chính phủ](https://vnexpress.net/thanh-lap-ban-chi-dao-ve-tinh-gon-bo-may-cua-chinh-phu-4814231.html) - 00:27 10/11/2024
 - 🌊 [Giải pháp nào gỡ nút thắt thừa, thiếu giáo viên?](https://vnexpress.net/giai-phap-nao-go-nut-that-thua-thieu-giao-vien-4814144.html) - 21:00 09/11/2024
 - 🎓 [Hành trình sinh con của hà mã ở vườn thú Hà Nội](https://vnexpress.net/hanh-trinh-sinh-con-cua-ha-ma-o-vuon-thu-ha-noi-4812867.html) - 18:50 09/11/2024
