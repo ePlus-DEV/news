@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Man Utd 1-0 Leicester City &lpar;hiệp 1&rpar;: Siêu phẩm của Fernandes](https://dantri.com.vn/the-thao/man-utd-1-0-leicester-city-hiep-1-sieu-pham-cua-fernandes-20241110205834667.htm) - 13:58 10/11/2024
+- 🎡 [Man Utd 2-0 Leicester City &lpar;hiệp 1&rpar;:  Fernandes nhân đôi cách biệt](https://dantri.com.vn/the-thao/man-utd-2-0-leicester-city-hiep-1-fernandes-nhan-doi-cach-biet-20241110205834667.htm) - 13:58 10/11/2024
 - 💯 [CLB Thanh Hóa lên đầu bảng V-League, CLB Bình Định đánh bại Quảng Nam](https://dantri.com.vn/the-thao/clb-thanh-hoa-len-dau-bang-v-league-clb-binh-dinh-danh-bai-quang-nam-20241110202152211.htm) - 13:34 10/11/2024
 - ⛽️ [Thất bại trước Indonesia, futsal Việt Nam lỡ hẹn với chức vô địch lịch sử](https://dantri.com.vn/the-thao/that-bai-truoc-indonesia-futsal-viet-nam-lo-hen-voi-chuc-vo-dich-lich-su-20241110172635734.htm) - 10:26 10/11/2024
 - 💃 [Đội tuyển futsal Việt Nam tái ngộ cố nhân trong trận chung kết Đông Nam Á](https://dantri.com.vn/the-thao/doi-tuyen-futsal-viet-nam-tai-ngo-co-nhan-trong-tran-chung-ket-dong-nam-a-20241109230228659.htm) - 09:22 10/11/2024
