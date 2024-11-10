@@ -32,7 +32,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌏 [Xóa nhà dột nát trong năm 2025](https://vnexpress.net/xoa-nha-dot-nat-trong-nam-2025-4814422.html) - 19:00 10/11/2024
 - 🧐 [Chelsea níu chân Arsenal](https://vnexpress.net/chelsea-niu-chan-arsenal-4814430.html) - 18:26 10/11/2024
 - 💫 [&#39;Chưa có chính sách khuyến khích nghiên cứu thuốc mới&#39;](https://vnexpress.net/chua-co-chinh-sach-khuyen-khich-nghien-cuu-thuoc-moi-4814359.html) - 18:00 10/11/2024
-- 😺 [Mẫu súng Nga được kỳ vọng sẽ thay thế &#39;AK rút gọn&#39;](https://vnexpress.net/mau-sung-nga-duoc-ky-vong-se-thay-the-ak-rut-gon-4813617.html) - 18:00 10/11/2024
+- 😺 [Mẫu súng Nga được kỳ vọng thay thế &#39;AK rút gọn&#39;](https://vnexpress.net/mau-sung-nga-duoc-ky-vong-thay-the-ak-rut-gon-4813617.html) - 18:00 10/11/2024
 - 🕯 [Người trẻ Hà Nội ngồi quán xuyên đêm đón gió lạnh đầu mùa](https://vnexpress.net/nguoi-tre-ha-noi-ngoi-quan-xuyen-dem-don-gio-lanh-dau-mua-4814180.html) - 17:22 10/11/2024
 - 💃 [Israel lần đầu xác nhận đứng sau loạt vụ nổ máy nhắn tin ở Lebanon](https://vnexpress.net/israel-lan-dau-xac-nhan-dung-sau-loat-vu-no-may-nhan-tin-o-lebanon-4814423.html) - 17:22 10/11/2024
 - 💂 [Nhà ống 3 m ngang &#39;ngập nắng&#39; nhờ giải pháp lấy sáng](https://vnexpress.net/nha-ong-3-m-ngang-ngap-nang-nho-giai-phap-lay-sang-4814399.html) - 17:05 10/11/2024
