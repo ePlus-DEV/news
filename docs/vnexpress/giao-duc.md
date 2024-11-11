@@ -8,7 +8,7 @@ sidebar_position: 7
 - 🦆 [Giảng đường Đại học Đông Dương sau gần 100 năm](https://vnexpress.net/giang-duong-dai-hoc-dong-duong-sau-gan-100-nam-4814162.html) - 17:00 10/11/2024
 - 🦩 [Đề minh họa 8 môn thi V-SAT](https://vnexpress.net/de-minh-hoa-8-mon-thi-v-sat-4814407.html) - 15:23 10/11/2024
 - 🌮 [Ba trường tư đầu tiên ở Hà Nội tuyển sinh lớp 1](https://vnexpress.net/ba-truong-tu-dau-tien-o-ha-noi-tuyen-sinh-lop-1-4814214.html) - 14:48 10/11/2024
-- 🔭 [Bảo tàng Lịch sử Quân sự trưng bày mấy bảo vật quốc gia?](https://vnexpress.net/bao-tang-lich-su-quan-su-trung-bay-may-bao-vat-quoc-gia-4814349.html) - 13:00 10/11/2024
+- 🔭 [Bảo tàng Lịch sử Quân sự trưng bày bao nhiêu bảo vật quốc gia?](https://vnexpress.net/bao-tang-lich-su-quan-su-trung-bay-bao-nhieu-bao-vat-quoc-gia-4814349.html) - 13:00 10/11/2024
 - 💡 [Bộ trưởng Nguyễn Kim Sơn: Lên &#39;đại học&#39; không phải là đổi tên](https://vnexpress.net/bo-truong-nguyen-kim-son-len-dai-hoc-khong-phai-la-doi-ten-4814347.html) - 10:50 10/11/2024
 - 🥰 [20 cách an ủi bằng tiếng Anh](https://vnexpress.net/20-cach-an-ui-bang-tieng-anh-4814334.html) - 06:02 10/11/2024
 - 🐲 [Bài luận về mẹ đưa cô gái Hải Phòng đến Harvard](https://vnexpress.net/bai-luan-ve-me-dua-co-gai-hai-phong-den-harvard-4813738.html) - 05:38 10/11/2024
