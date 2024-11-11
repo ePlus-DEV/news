@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Hơn 30 trường đại học công bố lịch nghỉ Tết, cao nhất gần 30 ngày](https://dantri.com.vn/giao-duc/hon-30-truong-dai-hoc-cong-bo-lich-nghi-tet-cao-nhat-gan-30-ngay-20241111110950766.htm) - 04:23 11/11/2024
+- 🤡 [Hơn 30 trường đại học công bố lịch nghỉ Tết, dài nhất gần 30 ngày](https://dantri.com.vn/giao-duc/hon-30-truong-dai-hoc-cong-bo-lich-nghi-tet-dai-nhat-gan-30-ngay-20241111110950766.htm) - 04:23 11/11/2024
 - 🗽 [Nhiều ngành kinh doanh, kỹ thuật &quot;vợt&quot; cả thí sinh khối… C](https://dantri.com.vn/giao-duc/nhieu-nganh-kinh-doanh-ky-thuat-vot-ca-thi-sinh-khoi-c-20241111105546602.htm) - 04:13 11/11/2024
 - 🚦 [Đề thi V-SAT 2025: Thí sinh phải viết văn trên máy tính](https://dantri.com.vn/giao-duc/de-thi-v-sat-2025-thi-sinh-phai-viet-van-tren-may-tinh-20241111110404425.htm) - 04:07 11/11/2024
 - 🌋 [Đề xuất cấm giáo viên gian lận kết quả đánh giá học sinh](https://dantri.com.vn/giao-duc/de-xuat-cam-giao-vien-gian-lan-ket-qua-danh-gia-hoc-sinh-20241111092940338.htm) - 03:13 11/11/2024
