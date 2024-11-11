@@ -14,7 +14,7 @@ sidebar_position: 16
 - 🧠 [Bắt 2 người liên quan 716 viên kim cương nhập lậu qua sân bay Tân Sơn Nhất](https://dantri.com.vn/phap-luat/bat-2-nguoi-lien-quan-716-vien-kim-cuong-nhap-lau-qua-san-bay-tan-son-nhat-20241111165159559.htm) - 09:57 11/11/2024
 - 📝 [Chiến sự Nga và Ukraine đang leo thang dữ dội](https://dantri.com.vn/the-gioi/chien-su-nga-va-ukraine-dang-leo-thang-du-doi-20241111103100315.htm) - 09:51 11/11/2024
 - 🦏 [Vàng trong dân là vàng chết, không khuyến khích người dân giữ vàng](https://dantri.com.vn/kinh-doanh/vang-trong-dan-la-vang-chet-khong-khuyen-khich-nguoi-dan-giu-vang-20241111155031797.htm) - 09:29 11/11/2024
-- 🥰 [HLV Ruben Amorim lần đầu nói về tương lai Van Nistelrooy](https://dantri.com.vn/the-thao/hlv-ruben-amorim-lan-dau-noi-ve-tuong-lai-van-nistelrooy-20241111111216118.htm) - 08:33 11/11/2024
+- 🥰 [HLV Ruben Amorim lần đầu nói về tương lai Van Nistelrooy](https://dantri.com.vn/the-thao/hlv-ruben-amorim-lan-dau-noi-ve-tuong-lai-van-nistelrooy-20241111111216118.htm) - 08:34 11/11/2024
 - 🤗 [Khoảnh khắc xe Porsche lao vào đuôi xe Corolla Cross trên đường cao tốc](https://dantri.com.vn/o-to-xe-may/khoanh-khac-xe-porsche-lao-vao-duoi-xe-corolla-cross-tren-duong-cao-toc-20241111142715274.htm) - 07:40 11/11/2024
 - 🌈 [&quot;Chạy thử&quot; đường băng sân bay Long Thành trước 30/4/2025](https://dantri.com.vn/xa-hoi/chay-thu-duong-bang-san-bay-long-thanh-truoc-3042025-20241111143020277.htm) - 07:37 11/11/2024
 - 🌏 [Bộ Y tế muốn cấm thuốc lá điện tử, thuốc lá nung nóng](https://dantri.com.vn/xa-hoi/bo-y-te-muon-cam-thuoc-la-dien-tu-thuoc-la-nung-nong-20241111085632239.htm) - 07:15 11/11/2024
