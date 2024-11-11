@@ -54,13 +54,13 @@ sidebar_position: 10
 - 🪜 [Mặt như &#39;tòa nhà bị sập&#39; sau tiêm tan filler](https://vnexpress.net/mat-nhu-toa-nha-bi-sap-sau-tiem-tan-filler-4813871.html) - 22:00 08/11/2024
 - 🦣 [Nên tắm nước nóng hay lạnh sau khi tập luyện?](https://vnexpress.net/nen-tam-nuoc-nong-hay-lanh-sau-khi-tap-luyen-4813045.html) - 19:00 08/11/2024
 - 🧐 [Những dấu hiệu ở chân cảnh báo tiểu đường](https://vnexpress.net/nhung-dau-hieu-o-chan-canh-bao-tieu-duong-4813353.html) - 17:04 08/11/2024
-- 🤡 [Răng mọc lạc chỗ ở mũi](https://vnexpress.net/rang-moc-lac-cho-o-mui-4813807.html) - 12:30 08/11/2024
-- 👍 [&#39;Chuyển đổi số giúp giảm thời gian xét nghiệm xuống còn một giờ&#39;](https://vnexpress.net/chuyen-doi-so-giup-giam-thoi-gian-xet-nghiem-xuong-con-mot-gio-4813854.html) - 12:25 08/11/2024
-- 💡 [Tử vong sau khi tự điều trị ung thư vú](https://vnexpress.net/tu-vong-sau-khi-tu-dieu-tri-ung-thu-vu-4813847.html) - 10:52 08/11/2024
-- 💯 [Lý do nhiều người tỉnh giấc lúc 3-5h sáng](https://vnexpress.net/ly-do-nhieu-nguoi-tinh-giac-luc-3-5h-sang-4813338.html) - 10:00 08/11/2024
-- 🧠 [Bác sĩ Anh đầu độc bạn trai của mẹ bằng &#39;tiêm vaccine Covid giả&#39;](https://vnexpress.net/bac-si-anh-dau-doc-ban-trai-cua-me-bang-tiem-vaccine-covid-gia-4813792.html) - 08:41 08/11/2024
-- 🎡 [&#39;Đột quỵ hay bị nhầm với trúng gió&#39;](https://vnexpress.net/dot-quy-hay-bi-nham-trung-gio-lam-lo-thoi-gian-vang-4813710.html) - 06:53 08/11/2024
-- 🌏 [Vì sao con người có răng khôn?](https://vnexpress.net/vi-sao-con-nguoi-co-rang-khon-4813371.html) - 06:00 08/11/2024
-- ⚗️ [Em bé chào đời trong bọc u xơ tử cung 8 kg](https://vnexpress.net/em-be-chao-doi-trong-boc-u-xo-tu-cung-8-kg-4813453.html) - 05:30 08/11/2024
-- 👨‍🏫 [Dùng thuốc gia truyền &#39;tăng cân&#39;, trẻ suy tuyến thượng thận](https://vnexpress.net/dung-thuoc-gia-truyen-tang-can-tre-suy-tuyen-thuong-than-4813575.html) - 03:43 08/11/2024
-- 🤖 [Uốn ván nguy kịch dù cơ thể không có vết thương](https://vnexpress.net/uon-van-nguy-kich-du-co-the-khong-co-vet-thuong-4812886.html) - 01:47 08/11/2024<!-- vnexpress-suc-khoe:END -->
+- 🤡 [Xu hướng bệnh sởi toàn cầu](https://vnexpress.net/xu-huong-benh-soi-toan-cau-4813131.html) - 17:00 08/11/2024
+- 👍 [Răng mọc lạc chỗ ở mũi](https://vnexpress.net/rang-moc-lac-cho-o-mui-4813807.html) - 12:30 08/11/2024
+- 💡 [&#39;Chuyển đổi số giúp giảm thời gian xét nghiệm xuống còn một giờ&#39;](https://vnexpress.net/chuyen-doi-so-giup-giam-thoi-gian-xet-nghiem-xuong-con-mot-gio-4813854.html) - 12:25 08/11/2024
+- 💯 [Tử vong sau khi tự điều trị ung thư vú](https://vnexpress.net/tu-vong-sau-khi-tu-dieu-tri-ung-thu-vu-4813847.html) - 10:52 08/11/2024
+- 🧠 [Lý do nhiều người tỉnh giấc lúc 3-5h sáng](https://vnexpress.net/ly-do-nhieu-nguoi-tinh-giac-luc-3-5h-sang-4813338.html) - 10:00 08/11/2024
+- 🎡 [Bác sĩ Anh đầu độc bạn trai của mẹ bằng &#39;tiêm vaccine Covid giả&#39;](https://vnexpress.net/bac-si-anh-dau-doc-ban-trai-cua-me-bang-tiem-vaccine-covid-gia-4813792.html) - 08:41 08/11/2024
+- 🌏 [&#39;Đột quỵ hay bị nhầm với trúng gió&#39;](https://vnexpress.net/dot-quy-hay-bi-nham-trung-gio-lam-lo-thoi-gian-vang-4813710.html) - 06:53 08/11/2024
+- ⚗️ [Vì sao con người có răng khôn?](https://vnexpress.net/vi-sao-con-nguoi-co-rang-khon-4813371.html) - 06:00 08/11/2024
+- 👨‍🏫 [Em bé chào đời trong bọc u xơ tử cung 8 kg](https://vnexpress.net/em-be-chao-doi-trong-boc-u-xo-tu-cung-8-kg-4813453.html) - 05:30 08/11/2024
+- 🤖 [Dùng thuốc gia truyền &#39;tăng cân&#39;, trẻ suy tuyến thượng thận](https://vnexpress.net/dung-thuoc-gia-truyen-tang-can-tre-suy-tuyen-thuong-than-4813575.html) - 03:43 08/11/2024<!-- vnexpress-suc-khoe:END -->
