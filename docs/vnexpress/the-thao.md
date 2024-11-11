@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [CLB TP HCM thua đậm Nam Định ở V-League](https://vnexpress.net/clb-tp-hcm-thua-dam-nam-dinh-o-v-league-4814873.html) - 14:32 11/11/2024
+- 🪜 [CLB TP HCM sáu trận không ghi bàn ở V-League](https://vnexpress.net/clb-tp-hcm-sau-tran-khong-ghi-ban-o-v-league-4814873.html) - 14:32 11/11/2024
 - 🦩 [Thaco Auto tổ chức giải BMW Golf Cup tại Việt Nam](https://vnexpress.net/thaco-auto-to-chuc-giai-bmw-golf-cup-tai-viet-nam-4814736.html) - 12:00 11/11/2024
 - 🧰 [Lê Công Vinh trở về giúp SLNA](https://vnexpress.net/le-cong-vinh-tro-ve-giup-slna-4814853.html) - 11:40 11/11/2024
 - 🤗 [HLV Nhật Bản: &#39;Indonesia mạnh chưa từng thấy&#39;](https://vnexpress.net/hlv-nhat-ban-indonesia-manh-chua-tung-thay-4814809.html) - 11:04 11/11/2024
