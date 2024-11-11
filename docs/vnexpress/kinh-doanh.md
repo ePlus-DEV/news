@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Phó thủ tướng Hồ Đức Phớc: Sẽ xử lý tiếp ngân hàng 0 đồng](https://vnexpress.net/chat-van-thong-doc-chieu-11-11-4814678.html) - 06:59 11/11/2024
+- ⛽️ [Phó thủ tướng Hồ Đức Phớc: Sẽ xử lý tiếp ngân hàng 0 đồng](https://vnexpress.net/chat-van-thong-doc-chieu-11-11-4814678-tong-thuat.html) - 06:59 11/11/2024
 - 🐲 [Vì sao Bitcoin liên tiếp lập kỷ lục?](https://vnexpress.net/gia-bitcoin-hom-nay-11-11-vi-sao-bitcoin-lap-ky-luc-lien-tuc-4814629.html) - 06:08 11/11/2024
 - 🔥 [Mỗi lượng vàng giảm nửa triệu đồng](https://vnexpress.net/moi-luong-vang-giam-vai-tram-ngan-dong-4814619.html) - 05:31 11/11/2024
 - 🐵 [Thống đốc: Sẽ lập sàn giao dịch vàng &#39;khi phù hợp&#39;](https://vnexpress.net/thong-doc-se-lap-san-giao-dich-vang-khi-phu-hop-4814599.html) - 05:29 11/11/2024
