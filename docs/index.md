@@ -152,7 +152,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- thanhnien:START -->
 - 🤠 [Vừa đến M.U, tân HLV Amorim quyết định sốc: Không giữ lại Van Nistelrooy!](https://thanhnien.vn/vua-den-mu-tan-hlv-amorim-quyet-dinh-soc-khong-giu-lai-van-nistelrooy-185241112011744165.htm) - 18:25 11/11/2024
 - 🥸 [Giải mã hiện tượng Nottingham Forest](https://thanhnien.vn/giai-ma-hien-tuong-nottingham-forest-185241111234738115.htm) - 17:52 11/11/2024
-- 🌁 [Diến biến cực kỳ bất ngờ về vụ Công Vinh làm trợ lý HLV SLNA: ‘Tôi không thể…’](https://thanhnien.vn/dien-bien-cuc-ky-bat-ngo-ve-vu-cong-vinh-lam-tro-ly-hlv-slna-toi-khong-the-185241112001724111.htm) - 17:43 11/11/2024
+- 🌁 [Diến biến cực kỳ bất ngờ vụ Công Vinh từ chối về SLNA: ‘Tôi không thể…’](https://thanhnien.vn/dien-bien-cuc-ky-bat-ngo-ve-vu-cong-vinh-lam-tro-ly-hlv-slna-toi-khong-the-185241112001724111.htm) - 17:43 11/11/2024
 - 🤡 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 12.11.2024](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-12112024-185241110233755611.htm) - 17:38 11/11/2024
 - 🎉 [Ngày mới với tin tức sức khỏe: Nên đo huyết áp mấy lần mỗi ngày?](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-o-nha-nen-do-huyet-ap-may-lan-moi-ngay-18524111122313294.htm) - 17:10 11/11/2024
 - 🎊 [1 chén dâu tây mỗi ngày giúp giảm mỡ máu lại tốt cho tim, não](https://thanhnien.vn/1-chen-dau-tay-moi-ngay-giup-giam-mo-mau-lai-tot-cho-tim-nao-185241110173604538.htm) - 17:07 11/11/2024
