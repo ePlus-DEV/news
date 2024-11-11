@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Hai phụ nữ bị bắt vì &#39;chạy án&#39; trong vụ buôn lậu hơn 700 viên kim cương](https://vnexpress.net/hai-phu-nu-bi-bat-vi-chay-an-trong-vu-buon-lau-hon-700-vien-kim-cuong-4814838.html) - 11:12 11/11/2024
+- 😎 [Hai phụ nữ bị bắt vì &#39;chạy án&#39; vụ buôn lậu hơn 700 viên kim cương](https://vnexpress.net/hai-phu-nu-bi-bat-vi-chay-an-vu-buon-lau-hon-700-vien-kim-cuong-4814838.html) - 11:12 11/11/2024
 - 🥰 [Đột nhập công ty xổ số để tráo bóng quay thưởng, gian lận kết quả](https://vnexpress.net/dot-nhap-cong-ty-xo-so-de-trao-bong-quay-thuong-gian-lan-ket-qua-4814673.html) - 07:32 11/11/2024
 - 🎓 [Đánh chết bạn, chở thi thể đến công an tự thú](https://vnexpress.net/danh-chet-ban-cho-thi-the-den-cong-an-tu-thu-4814627.html) - 06:09 11/11/2024
 - 🤓 [5 người bị bắt cóc, tra tấn ở Campuchia](https://vnexpress.net/5-nguoi-bi-bat-coc-tra-tan-o-campuchia-4814624.html) - 06:01 11/11/2024
