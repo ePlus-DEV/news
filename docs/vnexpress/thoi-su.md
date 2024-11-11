@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [&#39;Cán bộ y tế không được quảng cáo thực phẩm chức năng&#39;](https://vnexpress.net/can-bo-y-te-khong-duoc-quang-cao-thuc-pham-chuc-nang-4814829.html) - 10:49 11/11/2024
 - 🤓 [Cà Mau có tân chủ tịch tỉnh](https://vnexpress.net/ca-mau-co-tan-chu-tich-tinh-4814822.html) - 10:16 11/11/2024
 - ⚗️ [Chủ tịch Nghệ An làm Bí thư Tỉnh ủy](https://vnexpress.net/chu-tich-nghe-an-lam-bi-thu-tinh-uy-4814511.html) - 09:00 11/11/2024
-- 🌊 [&#39;Tình trạng trộn ma túy vào thuốc lá điện tử ngày càng phức tạp&#39;](https://vnexpress.net/tinh-trang-tron-ma-tuy-vao-thuoc-la-dien-tu-ngay-cang-phuc-tap-4814659.html) - 07:29 11/11/2024
+- 🌊 [&#39;Tình trạng trộn ma túy vào thuốc lá điện tử ngày càng phức tạp&#39;](https://vnexpress.net/tinh-trang-tron-ma-tuy-vao-thuoc-la-dien-tu-ngay-cang-phuc-tap-4814659-tong-thuat.html) - 07:29 11/11/2024
 - 🎓 [Hướng tuyến đường sắt Lào Cai - Quảng Ninh](https://vnexpress.net/huong-tuyen-duong-sat-lao-cai-quang-ninh-4814535.html) - 07:06 11/11/2024
 - 🔥 [Thống đốc: Sẽ lập sàn giao dịch vàng &#39;khi phù hợp&#39;](https://vnexpress.net/thong-doc-se-lap-san-giao-dich-vang-khi-phu-hop-4814599.html) - 05:29 11/11/2024
 - 🦏 [Metro số 1 vận hành thử như chạy thương mại](https://vnexpress.net/metro-so-1-van-hanh-thu-nhu-chay-thuong-mai-4814644.html) - 05:08 11/11/2024
