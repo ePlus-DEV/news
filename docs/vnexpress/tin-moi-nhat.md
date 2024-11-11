@@ -24,7 +24,7 @@ sidebar_position: 9
 - 🤓 [Thaco Auto tổ chức giải BMW Golf Cup tại Việt Nam](https://vnexpress.net/thaco-auto-to-chuc-giai-bmw-golf-cup-tai-viet-nam-4814736.html) - 12:00 11/11/2024
 - 💪 [Lộ trình xây dựng mô hình du lịch bền vững, có trách nhiệm](https://vnexpress.net/lo-trinh-xay-dung-mo-hinh-du-lich-ben-vung-co-trach-nhiem-4814726.html) - 12:00 11/11/2024
 - 🎓 [Bảo Anh và con gái dẫn đầu hạng mục &#39;Hot Mom &amp;amp; Kid&#39;](https://vnexpress.net/bao-anh-va-con-gai-dan-dau-hang-muc-hot-mom-kid-4814494.html) - 11:45 11/11/2024
-- 🫣 [Lê Công Vinh được mời trở lại SLNA](https://vnexpress.net/le-cong-vinh-duoc-moi-tro-lai-slna-4814853.html) - 11:40 11/11/2024
+- 🫣 [Lê Công Vinh trở về giúp SLNA](https://vnexpress.net/le-cong-vinh-tro-ve-giup-slna-4814853.html) - 11:40 11/11/2024
 - 🧑‍💻 [Tel Aviv nói Hà Lan bắt quá ít nghi phạm hành hung CĐV Israel](https://vnexpress.net/tel-aviv-noi-ha-lan-bat-qua-it-nghi-pham-hanh-hung-cdv-israel-4814842.html) - 11:35 11/11/2024
 - 🐲 [Gu mặc đời thường của &#39;nữ hoàng cảnh nóng&#39; Ji Yeon](https://vnexpress.net/gu-mac-doi-thuong-cua-nu-hoang-canh-nong-ji-yeon-4814595.html) - 11:34 11/11/2024
 - 🌝 [Săn vé concert &#39;Anh trai vượt ngàn chông gai&#39; từ Techcombank](https://vnexpress.net/san-ve-concert-anh-trai-vuot-ngan-chong-gai-tu-techcombank-4814320.html) - 11:30 11/11/2024
@@ -60,5 +60,4 @@ sidebar_position: 9
 - 🤡 [Nhà cung cấp của SpaceX sẽ tăng gấp đôi vốn đầu tư ở Vĩnh Phúc](https://vnexpress.net/nha-cung-cap-cua-spacex-se-tang-gap-doi-von-dau-tu-o-vinh-phuc-4814797.html) - 09:13 11/11/2024
 - ⛽️ [10 ôtô bán ít nhất thị trường Việt Nam tháng 10](https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-ban-it-nhat-thi-truong-viet-nam-thang-10-4814694.html) - 09:10 11/11/2024
 - 🚀 [Nga tuyên bố phá âm mưu &#39;cướp trực thăng&#39;](https://vnexpress.net/nga-tuyen-bo-pha-am-muu-cuop-truc-thang-4814696.html) - 09:01 11/11/2024
-- 🌜 [Cổ phiếu ngân hàng tiếp tục giảm sâu](https://vnexpress.net/chung-khoan-hom-nay-11-11-co-phieu-ngan-hang-tiep-tuc-chiet-khau-4814765.html) - 09:01 11/11/2024
-- 🌜 [Chủ tịch Nghệ An làm Bí thư Tỉnh ủy](https://vnexpress.net/chu-tich-nghe-an-lam-bi-thu-tinh-uy-4814511.html) - 09:00 11/11/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🌜 [Cổ phiếu ngân hàng tiếp tục giảm sâu](https://vnexpress.net/chung-khoan-hom-nay-11-11-co-phieu-ngan-hang-tiep-tuc-chiet-khau-4814765.html) - 09:01 11/11/2024<!-- vnexpress-tin-moi-nhat:END -->
