@@ -4,63 +4,63 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [90 tác phẩm đoạt giải báo chí Vì sự nghiệp Đại đoàn kết dân tộc](https://vnexpress.net/90-tac-pham-doat-giai-bao-chi-vi-su-nghiep-dai-doan-ket-dan-toc-4814891.html) - 16:01 11/11/2024
-- 🤓 [Lộ trình xây dựng mô hình du lịch bền vững, có trách nhiệm](https://vnexpress.net/lo-trinh-xay-dung-mo-hinh-du-lich-ben-vung-co-trach-nhiem-4814726.html) - 12:00 11/11/2024
-- ⚗️ [&#39;Cán bộ y tế không được quảng cáo thực phẩm chức năng&#39;](https://vnexpress.net/can-bo-y-te-khong-duoc-quang-cao-thuc-pham-chuc-nang-4814829.html) - 10:49 11/11/2024
-- 🌊 [Cà Mau có tân chủ tịch tỉnh](https://vnexpress.net/ca-mau-co-tan-chu-tich-tinh-4814822.html) - 10:16 11/11/2024
-- 🎓 [Chủ tịch Nghệ An làm Bí thư Tỉnh ủy](https://vnexpress.net/chu-tich-nghe-an-lam-bi-thu-tinh-uy-4814511.html) - 09:00 11/11/2024
-- 🔥 [&#39;Tình trạng trộn ma túy vào thuốc lá điện tử ngày càng phức tạp&#39;](https://vnexpress.net/tinh-trang-tron-ma-tuy-vao-thuoc-la-dien-tu-ngay-cang-phuc-tap-4814659-tong-thuat.html) - 07:29 11/11/2024
-- 🦏 [Hướng tuyến đường sắt Lào Cai - Quảng Ninh](https://vnexpress.net/huong-tuyen-duong-sat-lao-cai-quang-ninh-4814535.html) - 07:06 11/11/2024
-- 👺 [Thống đốc: Sẽ lập sàn giao dịch vàng &#39;khi phù hợp&#39;](https://vnexpress.net/thong-doc-se-lap-san-giao-dich-vang-khi-phu-hop-4814599.html) - 05:29 11/11/2024
-- 🧑‍🏫 [Metro số 1 vận hành thử như chạy thương mại](https://vnexpress.net/metro-so-1-van-hanh-thu-nhu-chay-thuong-mai-4814644.html) - 05:08 11/11/2024
-- 🚦 [Kho hàng 28.000 m2 của nhà máy ở Long An cháy đỏ rực](https://vnexpress.net/kho-hang-28-000-m2-cua-nha-may-o-long-an-chay-do-ruc-4814576.html) - 04:10 11/11/2024
-- 🎉 [Chuỗi tọa đàm chủ đề &#39;Kết nối - vươn xa&#39; tại Mekong Startup 2024](https://vnexpress.net/chuoi-toa-dam-chu-de-ket-noi-vuon-xa-tai-mekong-startup-2024-4813452.html) - 03:30 11/11/2024
-- 🦒 [Ôtô cháy rụi sau va chạm trên cao tốc Hà Nội - Hải Phòng](https://vnexpress.net/oto-chay-rui-sau-va-cham-tren-cao-toc-ha-noi-hai-phong-4814538.html) - 03:23 11/11/2024
-- 🤗 [Bão Yinxing suy yếu nhanh, bão Toraji sắp vào Biển Đông](https://vnexpress.net/bao-yinxing-suy-yeu-nhanh-bao-toraji-sap-vao-bien-dong-4814482.html) - 02:19 11/11/2024
-- 💼 [Người nhập cư rời TP HCM](https://vnexpress.net/nguoi-nhap-cu-roi-tp-hcm-4811208.html) - 22:00 10/11/2024
-- 🤩 [Xóa nhà dột nát trong năm 2025](https://vnexpress.net/xoa-nha-dot-nat-trong-nam-2025-4814422.html) - 19:00 10/11/2024
-- 🤡 [&#39;Chưa có chính sách khuyến khích nghiên cứu thuốc mới&#39;](https://vnexpress.net/chua-co-chinh-sach-khuyen-khich-nghien-cuu-thuoc-moi-4814359.html) - 18:00 10/11/2024
-- 💯 [Hôm nay, Quốc hội chất vấn Thống đốc và Bộ trưởng Y tế](https://vnexpress.net/hom-nay-quoc-hoi-chat-van-thong-doc-va-bo-truong-y-te-4814389.html) - 17:01 10/11/2024
-- 👺 [28 năm từ tỉnh Thừa Thiên Huế lên thành phố trực thuộc trung ương](https://vnexpress.net/28-nam-tu-tinh-thua-thien-hue-len-thanh-pho-truc-thuoc-trung-uong-4806222.html) - 17:00 10/11/2024
-- 🌮 [1,2 tỷ đồng cho dinh dưỡng của học sinh vùng cao](https://vnexpress.net/1-2-ty-dong-cho-dinh-duong-cua-hoc-sinh-vung-cao-4804684.html) - 09:48 10/11/2024
-- 🥸 [Cơ sở gây ngộ độc 287 công nhân bị đóng cửa](https://vnexpress.net/co-so-gay-ngo-doc-287-cong-nhan-bi-dong-cua-4814316.html) - 06:02 10/11/2024
-- 🐻 [Du khách nước ngoài gặp nạn tử vong ở đảo Phú Quý](https://vnexpress.net/du-khach-nuoc-ngoai-gap-nan-tu-vong-o-dao-phu-quy-4814297.html) - 04:51 10/11/2024
-- 👀 [Tai nạn liên hoàn trên cao tốc Hà Nội - Hải Phòng](https://vnexpress.net/tai-nan-lien-hoan-tren-cao-toc-ha-noi-hai-phong-4814290.html) - 04:33 10/11/2024
-- 🤔 [Cứu 5 người mắc kẹt trong nhà cháy ngùn ngụt ở TP HCM](https://vnexpress.net/cuu-5-nguoi-mac-ket-trong-nha-chay-ngun-ngut-o-tp-hcm-4814301.html) - 04:17 10/11/2024
-- 🕯 [Công việc áp lực, 43% công chức TP HCM sẽ nghỉ khi &#39;có cơ hội&#39;](https://vnexpress.net/cong-viec-ap-luc-43-cong-chuc-tp-hcm-se-nghi-khi-co-co-hoi-4814249.html) - 02:30 10/11/2024
-- 😺 [Bão Yinxing giảm cấp, thêm bão mới gần Biển Đông](https://vnexpress.net/bao-yinxing-giam-cap-them-bao-moi-gan-bien-dong-4814251.html) - 01:52 10/11/2024
-- 🦆 [Thành lập Ban chỉ đạo về tinh gọn bộ máy của Chính phủ](https://vnexpress.net/thanh-lap-ban-chi-dao-ve-tinh-gon-bo-may-cua-chinh-phu-4814231.html) - 00:27 10/11/2024
+- 🦒 [Tổng Bí thư: Tinh gọn bộ máy đòi hỏi sự hy sinh của cán bộ, đảng viên](https://vnexpress.net/tong-bi-thu-tinh-gon-bo-may-doi-hoi-su-hy-sinh-cua-can-bo-dang-vien-4814901.html) - 17:06 11/11/2024
+- 🤓 [Sáng nay Bộ trưởng Thông tin và Truyền thông trả lời chất vấn](https://vnexpress.net/sang-nay-bo-truong-thong-tin-va-truyen-thong-tra-loi-chat-van-4814878.html) - 17:00 11/11/2024
+- ⚗️ [Làng đào cổ thụ mất Tết](https://vnexpress.net/lang-dao-co-thu-mat-tet-4814496.html) - 17:00 11/11/2024
+- 🌊 [TS Đinh Văn Minh: &#39;Lãng phí phổ biến và có thể gây hại hơn tham nhũng&#39;](https://vnexpress.net/ts-dinh-van-minh-lang-phi-pho-bien-va-co-the-gay-hai-hon-tham-nhung-4807683.html) - 17:00 11/11/2024
+- 🎓 [90 tác phẩm đoạt giải báo chí Vì sự nghiệp Đại đoàn kết dân tộc](https://vnexpress.net/90-tac-pham-doat-giai-bao-chi-vi-su-nghiep-dai-doan-ket-dan-toc-4814891.html) - 16:01 11/11/2024
+- 🔥 [Lộ trình xây dựng mô hình du lịch bền vững, có trách nhiệm](https://vnexpress.net/lo-trinh-xay-dung-mo-hinh-du-lich-ben-vung-co-trach-nhiem-4814726.html) - 12:00 11/11/2024
+- 🦏 [&#39;Cán bộ y tế không được quảng cáo thực phẩm chức năng&#39;](https://vnexpress.net/can-bo-y-te-khong-duoc-quang-cao-thuc-pham-chuc-nang-4814829.html) - 10:49 11/11/2024
+- 👺 [Cà Mau có tân chủ tịch tỉnh](https://vnexpress.net/ca-mau-co-tan-chu-tich-tinh-4814822.html) - 10:16 11/11/2024
+- 🧑‍🏫 [Chủ tịch Nghệ An làm Bí thư Tỉnh ủy](https://vnexpress.net/chu-tich-nghe-an-lam-bi-thu-tinh-uy-4814511.html) - 09:00 11/11/2024
+- 🚦 [&#39;Tình trạng trộn ma túy vào thuốc lá điện tử ngày càng phức tạp&#39;](https://vnexpress.net/tinh-trang-tron-ma-tuy-vao-thuoc-la-dien-tu-ngay-cang-phuc-tap-4814659-tong-thuat.html) - 07:29 11/11/2024
+- 🎉 [Hướng tuyến đường sắt Lào Cai - Quảng Ninh](https://vnexpress.net/huong-tuyen-duong-sat-lao-cai-quang-ninh-4814535.html) - 07:06 11/11/2024
+- 🦒 [Thống đốc: Sẽ lập sàn giao dịch vàng &#39;khi phù hợp&#39;](https://vnexpress.net/thong-doc-se-lap-san-giao-dich-vang-khi-phu-hop-4814599.html) - 05:29 11/11/2024
+- 🤗 [Metro số 1 vận hành thử như chạy thương mại](https://vnexpress.net/metro-so-1-van-hanh-thu-nhu-chay-thuong-mai-4814644.html) - 05:08 11/11/2024
+- 💼 [Kho hàng 28.000 m2 của nhà máy ở Long An cháy đỏ rực](https://vnexpress.net/kho-hang-28-000-m2-cua-nha-may-o-long-an-chay-do-ruc-4814576.html) - 04:10 11/11/2024
+- 🤩 [Chuỗi tọa đàm chủ đề &#39;Kết nối - vươn xa&#39; tại Mekong Startup 2024](https://vnexpress.net/chuoi-toa-dam-chu-de-ket-noi-vuon-xa-tai-mekong-startup-2024-4813452.html) - 03:30 11/11/2024
+- 🤡 [Ôtô cháy rụi sau va chạm trên cao tốc Hà Nội - Hải Phòng](https://vnexpress.net/oto-chay-rui-sau-va-cham-tren-cao-toc-ha-noi-hai-phong-4814538.html) - 03:23 11/11/2024
+- 💯 [Bão Yinxing suy yếu nhanh, bão Toraji sắp vào Biển Đông](https://vnexpress.net/bao-yinxing-suy-yeu-nhanh-bao-toraji-sap-vao-bien-dong-4814482.html) - 02:19 11/11/2024
+- 👺 [Người nhập cư rời TP HCM](https://vnexpress.net/nguoi-nhap-cu-roi-tp-hcm-4811208.html) - 22:00 10/11/2024
+- 🌮 [Xóa nhà dột nát trong năm 2025](https://vnexpress.net/xoa-nha-dot-nat-trong-nam-2025-4814422.html) - 19:00 10/11/2024
+- 🥸 [&#39;Chưa có chính sách khuyến khích nghiên cứu thuốc mới&#39;](https://vnexpress.net/chua-co-chinh-sach-khuyen-khich-nghien-cuu-thuoc-moi-4814359.html) - 18:00 10/11/2024
+- 🐻 [Hôm nay, Quốc hội chất vấn Thống đốc và Bộ trưởng Y tế](https://vnexpress.net/hom-nay-quoc-hoi-chat-van-thong-doc-va-bo-truong-y-te-4814389.html) - 17:01 10/11/2024
+- 👀 [28 năm từ tỉnh Thừa Thiên Huế lên thành phố trực thuộc trung ương](https://vnexpress.net/28-nam-tu-tinh-thua-thien-hue-len-thanh-pho-truc-thuoc-trung-uong-4806222.html) - 17:00 10/11/2024
+- 🤔 [1,2 tỷ đồng cho dinh dưỡng của học sinh vùng cao](https://vnexpress.net/1-2-ty-dong-cho-dinh-duong-cua-hoc-sinh-vung-cao-4804684.html) - 09:48 10/11/2024
+- 🕯 [Cơ sở gây ngộ độc 287 công nhân bị đóng cửa](https://vnexpress.net/co-so-gay-ngo-doc-287-cong-nhan-bi-dong-cua-4814316.html) - 06:02 10/11/2024
+- 😺 [Du khách nước ngoài gặp nạn tử vong ở đảo Phú Quý](https://vnexpress.net/du-khach-nuoc-ngoai-gap-nan-tu-vong-o-dao-phu-quy-4814297.html) - 04:51 10/11/2024
+- 🦆 [Tai nạn liên hoàn trên cao tốc Hà Nội - Hải Phòng](https://vnexpress.net/tai-nan-lien-hoan-tren-cao-toc-ha-noi-hai-phong-4814290.html) - 04:33 10/11/2024
+- 🧰 [Cứu 5 người mắc kẹt trong nhà cháy ngùn ngụt ở TP HCM](https://vnexpress.net/cuu-5-nguoi-mac-ket-trong-nha-chay-ngun-ngut-o-tp-hcm-4814301.html) - 04:17 10/11/2024
+- 🦍 [Công việc áp lực, 43% công chức TP HCM sẽ nghỉ khi &#39;có cơ hội&#39;](https://vnexpress.net/cong-viec-ap-luc-43-cong-chuc-tp-hcm-se-nghi-khi-co-co-hoi-4814249.html) - 02:30 10/11/2024
+- 🧰 [Bão Yinxing giảm cấp, thêm bão mới gần Biển Đông](https://vnexpress.net/bao-yinxing-giam-cap-them-bao-moi-gan-bien-dong-4814251.html) - 01:52 10/11/2024
+- 💃 [Thành lập Ban chỉ đạo về tinh gọn bộ máy của Chính phủ](https://vnexpress.net/thanh-lap-ban-chi-dao-ve-tinh-gon-bo-may-cua-chinh-phu-4814231.html) - 00:27 10/11/2024
 - 🧰 [Giải pháp nào gỡ nút thắt thừa, thiếu giáo viên?](https://vnexpress.net/giai-phap-nao-go-nut-that-thua-thieu-giao-vien-4814144.html) - 21:00 09/11/2024
-- 🦍 [Hành trình sinh con của hà mã ở vườn thú Hà Nội](https://vnexpress.net/hanh-trinh-sinh-con-cua-ha-ma-o-vuon-thu-ha-noi-4812867.html) - 18:50 09/11/2024
-- 🧰 [Động đất 3,3 độ ở Phú Thọ](https://vnexpress.net/dong-dat-3-3-do-o-phu-tho-4814171.html) - 11:34 09/11/2024
-- 💃 [Người đàn ông nhảy dù mắc vào đường dây 110kV](https://vnexpress.net/nguoi-dan-ong-nhay-du-mac-vao-duong-day-110kv-4814161.html) - 10:50 09/11/2024
-- 🧰 [Bệnh viện Bạch Mai và Việt Đức 2 &#39;phải hoàn thiện trong 6 tháng tới&#39;](https://vnexpress.net/benh-vien-bach-mai-va-viet-duc-2-phai-hoan-thien-trong-6-thang-toi-4814132.html) - 10:20 09/11/2024
-- 🚀 [Bò lạc vào cao tốc, dòng ôtô phải chạy chậm một tiếng](https://vnexpress.net/bo-lac-vao-cao-toc-dong-oto-phai-chay-cham-mot-tieng-4814153.html) - 10:16 09/11/2024
-- 🎊 [Vì sao khu vực Hồ Gươm được thí điểm hạn chế phương tiện ô nhiễm?](https://vnexpress.net/vi-sao-khu-vuc-ho-guom-duoc-thi-diem-han-che-phuong-tien-o-nhiem-4813925.html) - 08:45 09/11/2024
-- 🤭 [Manh mối giúp tìm thấy máy bay Yak-130 rơi ở Đăk Lăk](https://vnexpress.net/manh-moi-giup-tim-thay-may-bay-yak-130-roi-o-dak-lak-4814109.html) - 08:20 09/11/2024
-- 🤗 [Tổng Bí thư: Quy hoạch thế nào mà có nơi không có trường học?](https://vnexpress.net/tong-bi-thu-quy-hoach-the-nao-ma-co-noi-khong-co-truong-hoc-4814083.html) - 07:27 09/11/2024
-- 🌈 [Nổ mìn xử lý khối đá hàng chục tấn nguy cơ lăn xuống đèo Cù Hin](https://vnexpress.net/no-min-xu-ly-khoi-da-hang-chuc-tan-nguy-co-lan-xuong-deo-cu-hin-4814071.html) - 05:28 09/11/2024
-- 🦣 [Đề xuất bảo hiểm thất nghiệp cho người lao động có hợp đồng ngắn hạn](https://vnexpress.net/de-xuat-bao-hiem-that-nghiep-cho-nguoi-lao-dong-co-hop-dong-ngan-han-4814006.html) - 05:18 09/11/2024
-- 🎡 [Chuẩn bị xây cao tốc Nam Định - Thái Bình 4 làn xe](https://vnexpress.net/chuan-bi-xay-cao-toc-nam-dinh-thai-binh-4-lan-xe-4814041.html) - 04:33 09/11/2024
-- 🦏 [&#39;Cần chính sách đặc thù thu hút nhân tài vào ngành giáo dục&#39;](https://vnexpress.net/can-chinh-sach-dac-thu-thu-hut-nhan-tai-vao-nganh-giao-duc-4813995.html) - 04:06 09/11/2024
-- 🎊 [Bão Yinxing giữ cường độ cấp 14](https://vnexpress.net/bao-yinxing-giu-cuong-do-cap-14-4813962.html) - 01:04 09/11/2024
-- 🫶 [Cấu trúc khu trưng bày nông sản tại Mekong Startup 2024](https://vnexpress.net/cau-truc-khu-trung-bay-nong-san-tai-mekong-startup-2024-4813444.html) - 01:00 09/11/2024
+- 🚀 [Hành trình sinh con của hà mã ở vườn thú Hà Nội](https://vnexpress.net/hanh-trinh-sinh-con-cua-ha-ma-o-vuon-thu-ha-noi-4812867.html) - 18:50 09/11/2024
+- 🎊 [Động đất 3,3 độ ở Phú Thọ](https://vnexpress.net/dong-dat-3-3-do-o-phu-tho-4814171.html) - 11:34 09/11/2024
+- 🤭 [Người đàn ông nhảy dù mắc vào đường dây 110kV](https://vnexpress.net/nguoi-dan-ong-nhay-du-mac-vao-duong-day-110kv-4814161.html) - 10:50 09/11/2024
+- 🤗 [Bệnh viện Bạch Mai và Việt Đức 2 &#39;phải hoàn thiện trong 6 tháng tới&#39;](https://vnexpress.net/benh-vien-bach-mai-va-viet-duc-2-phai-hoan-thien-trong-6-thang-toi-4814132.html) - 10:20 09/11/2024
+- 🌈 [Bò lạc vào cao tốc, dòng ôtô phải chạy chậm một tiếng](https://vnexpress.net/bo-lac-vao-cao-toc-dong-oto-phai-chay-cham-mot-tieng-4814153.html) - 10:16 09/11/2024
+- 🦣 [Vì sao khu vực Hồ Gươm được thí điểm hạn chế phương tiện ô nhiễm?](https://vnexpress.net/vi-sao-khu-vuc-ho-guom-duoc-thi-diem-han-che-phuong-tien-o-nhiem-4813925.html) - 08:45 09/11/2024
+- 🎡 [Manh mối giúp tìm thấy máy bay Yak-130 rơi ở Đăk Lăk](https://vnexpress.net/manh-moi-giup-tim-thay-may-bay-yak-130-roi-o-dak-lak-4814109.html) - 08:20 09/11/2024
+- 🦏 [Tổng Bí thư: Quy hoạch thế nào mà có nơi không có trường học?](https://vnexpress.net/tong-bi-thu-quy-hoach-the-nao-ma-co-noi-khong-co-truong-hoc-4814083.html) - 07:27 09/11/2024
+- 🎊 [Nổ mìn xử lý khối đá hàng chục tấn nguy cơ lăn xuống đèo Cù Hin](https://vnexpress.net/no-min-xu-ly-khoi-da-hang-chuc-tan-nguy-co-lan-xuong-deo-cu-hin-4814071.html) - 05:28 09/11/2024
+- 🫶 [Đề xuất bảo hiểm thất nghiệp cho người lao động có hợp đồng ngắn hạn](https://vnexpress.net/de-xuat-bao-hiem-that-nghiep-cho-nguoi-lao-dong-co-hop-dong-ngan-han-4814006.html) - 05:18 09/11/2024
+- 🤔 [Chuẩn bị xây cao tốc Nam Định - Thái Bình 4 làn xe](https://vnexpress.net/chuan-bi-xay-cao-toc-nam-dinh-thai-binh-4-lan-xe-4814041.html) - 04:33 09/11/2024
+- 🤠 [&#39;Cần chính sách đặc thù thu hút nhân tài vào ngành giáo dục&#39;](https://vnexpress.net/can-chinh-sach-dac-thu-thu-hut-nhan-tai-vao-nganh-giao-duc-4813995.html) - 04:06 09/11/2024
+- 🌜 [Bão Yinxing giữ cường độ cấp 14](https://vnexpress.net/bao-yinxing-giu-cuong-do-cap-14-4813962.html) - 01:04 09/11/2024
+- 🕯 [Cấu trúc khu trưng bày nông sản tại Mekong Startup 2024](https://vnexpress.net/cau-truc-khu-trung-bay-nong-san-tai-mekong-startup-2024-4813444.html) - 01:00 09/11/2024
 - 🤔 [Kiếm tiền tỷ với mô hình trồng sầu riêng trên đất phèn](https://vnexpress.net/kiem-tien-ty-voi-mo-hinh-trong-sau-rieng-tren-dat-phen-4813515.html) - 23:00 08/11/2024
-- 🤠 [Đề xuất linh hoạt mức đóng bảo hiểm thất nghiệp](https://vnexpress.net/de-xuat-linh-hoat-muc-dong-bao-hiem-that-nghiep-4813473.html) - 23:00 08/11/2024
-- 🌜 [Lao động đi Nhật và giới chủ tiếp nhận sẽ chia sẻ chi phí xuất cảnh](https://vnexpress.net/lao-dong-di-nhat-va-gioi-chu-tiep-nhan-se-chia-se-chi-phi-xuat-canh-4813899.html) - 22:00 08/11/2024
-- 🕯 [Chim hồng hoàng quý hiếm xuất hiện ở khu dân cư](https://vnexpress.net/chim-hong-hoang-quy-hiem-xuat-hien-o-khu-dan-cu-4813885.html) - 17:00 08/11/2024
-- 🤔 [Di dời hơn 160.000 tấn rác để làm cao tốc Cần Thơ - Cà Mau](https://vnexpress.net/di-doi-hon-160-000-tan-rac-de-lam-cao-toc-can-tho-ca-mau-4813744.html) - 17:00 08/11/2024
-- 🏊 [Bão Yinxing đang ở giai đoạn mạnh nhất](https://vnexpress.net/bao-yinxing-dang-o-giai-doan-manh-nhat-4813789.html) - 11:26 08/11/2024
-- 🌮 [Hiện trường máy bay Yak-130 rơi ở Đăk Lăk](https://vnexpress.net/hien-truong-may-bay-yak-130-roi-o-dak-lak-4813837.html) - 10:18 08/11/2024
-- 🫣 [Hơn 7.000 lao động hồi hương từ Nhật, Hàn mỗi năm](https://vnexpress.net/hon-7-000-lao-dong-hoi-huong-tu-nhat-han-moi-nam-4813721.html) - 09:28 08/11/2024
-- ⚗️ [Cấm đèo Cù Hin để xử lý khối đá nguy cơ lăn xuống đường](https://vnexpress.net/cam-deo-cu-hin-de-xu-ly-khoi-da-nguy-co-lan-xuong-duong-4813813.html) - 09:24 08/11/2024
-- 🌜 [Đại biểu Quốc hội: &#39;Tôi cũng bị lừa đảo vì lộ, lọt thông tin&#39;](https://vnexpress.net/dai-bieu-quoc-hoi-toi-cung-bi-lua-dao-vi-lo-lot-thong-tin-4813729.html) - 08:05 08/11/2024
-- 🌁 [Tìm thấy máy bay Yak-130 rơi ở Đăk Lăk](https://vnexpress.net/tim-thay-may-bay-yak-130-roi-o-dak-lak-4813763.html) - 07:59 08/11/2024
-- 🐲 [Treo thưởng cho người tìm được máy bay Yak-130 mất tích](https://vnexpress.net/treo-thuong-cho-nguoi-tim-duoc-may-bay-yak-130-mat-tich-4813638.html) - 05:03 08/11/2024
-- ⛽️ [Người dân nơm nớp lo sợ cây rơm bị đốt](https://vnexpress.net/nguoi-dan-nom-nop-lo-so-cay-rom-bi-dot-4813563.html) - 04:35 08/11/2024
-- 🗽 [Xưởng sản xuất kìm hơn 10.000 m2 bị thiêu rụi](https://vnexpress.net/xuong-san-xuat-kim-hon-10-000-m2-bi-thieu-rui-4813622.html) - 04:05 08/11/2024
-- 🔥 [&#39;Người có ảnh hưởng&#39; sẽ bị siết hoạt động quảng cáo](https://vnexpress.net/nguoi-co-anh-huong-se-bi-siet-hoat-dong-quang-cao-4813543.html) - 02:27 08/11/2024
-- 💯 [Bão Yinxing mạnh cấp 14 vào Biển Đông](https://vnexpress.net/bao-yinxing-manh-cap-14-vao-bien-dong-4813508.html) - 01:04 08/11/2024
-- 🦆 [Chó dại cắn nhiều người ở Lào Cai](https://vnexpress.net/cho-dai-can-nhieu-nguoi-o-lao-cai-4813461.html) - 00:43 08/11/2024
-- 🫣 [Bỏ học vì di cư](https://vnexpress.net/bo-hoc-vi-di-cu-4812988.html) - 23:00 07/11/2024
-- 🤡 [Hà Nội dự kiến hạn chế phương tiện gây ô nhiễm ở Hồ Gươm](https://vnexpress.net/ha-noi-du-kien-han-che-phuong-tien-gay-o-nhiem-o-ho-guom-4813482.html) - 21:00 07/11/2024<!-- vnexpress-thoi-su:END -->
+- 🏊 [Đề xuất linh hoạt mức đóng bảo hiểm thất nghiệp](https://vnexpress.net/de-xuat-linh-hoat-muc-dong-bao-hiem-that-nghiep-4813473.html) - 23:00 08/11/2024
+- 🌮 [Lao động đi Nhật và giới chủ tiếp nhận sẽ chia sẻ chi phí xuất cảnh](https://vnexpress.net/lao-dong-di-nhat-va-gioi-chu-tiep-nhan-se-chia-se-chi-phi-xuat-canh-4813899.html) - 22:00 08/11/2024
+- 🫣 [Chim hồng hoàng quý hiếm xuất hiện ở khu dân cư](https://vnexpress.net/chim-hong-hoang-quy-hiem-xuat-hien-o-khu-dan-cu-4813885.html) - 17:00 08/11/2024
+- ⚗️ [Di dời hơn 160.000 tấn rác để làm cao tốc Cần Thơ - Cà Mau](https://vnexpress.net/di-doi-hon-160-000-tan-rac-de-lam-cao-toc-can-tho-ca-mau-4813744.html) - 17:00 08/11/2024
+- 🌜 [Bão Yinxing đang ở giai đoạn mạnh nhất](https://vnexpress.net/bao-yinxing-dang-o-giai-doan-manh-nhat-4813789.html) - 11:26 08/11/2024
+- 🌁 [Hiện trường máy bay Yak-130 rơi ở Đăk Lăk](https://vnexpress.net/hien-truong-may-bay-yak-130-roi-o-dak-lak-4813837.html) - 10:18 08/11/2024
+- 🐲 [Hơn 7.000 lao động hồi hương từ Nhật, Hàn mỗi năm](https://vnexpress.net/hon-7-000-lao-dong-hoi-huong-tu-nhat-han-moi-nam-4813721.html) - 09:28 08/11/2024
+- ⛽️ [Cấm đèo Cù Hin để xử lý khối đá nguy cơ lăn xuống đường](https://vnexpress.net/cam-deo-cu-hin-de-xu-ly-khoi-da-nguy-co-lan-xuong-duong-4813813.html) - 09:24 08/11/2024
+- 🗽 [Đại biểu Quốc hội: &#39;Tôi cũng bị lừa đảo vì lộ, lọt thông tin&#39;](https://vnexpress.net/dai-bieu-quoc-hoi-toi-cung-bi-lua-dao-vi-lo-lot-thong-tin-4813729.html) - 08:05 08/11/2024
+- 🔥 [Tìm thấy máy bay Yak-130 rơi ở Đăk Lăk](https://vnexpress.net/tim-thay-may-bay-yak-130-roi-o-dak-lak-4813763.html) - 07:59 08/11/2024
+- 💯 [Treo thưởng cho người tìm được máy bay Yak-130 mất tích](https://vnexpress.net/treo-thuong-cho-nguoi-tim-duoc-may-bay-yak-130-mat-tich-4813638.html) - 05:03 08/11/2024
+- 🦆 [Người dân nơm nớp lo sợ cây rơm bị đốt](https://vnexpress.net/nguoi-dan-nom-nop-lo-so-cay-rom-bi-dot-4813563.html) - 04:35 08/11/2024
+- 🫣 [Xưởng sản xuất kìm hơn 10.000 m2 bị thiêu rụi](https://vnexpress.net/xuong-san-xuat-kim-hon-10-000-m2-bi-thieu-rui-4813622.html) - 04:05 08/11/2024
+- 🤡 [&#39;Người có ảnh hưởng&#39; sẽ bị siết hoạt động quảng cáo](https://vnexpress.net/nguoi-co-anh-huong-se-bi-siet-hoat-dong-quang-cao-4813543.html) - 02:27 08/11/2024<!-- vnexpress-thoi-su:END -->
