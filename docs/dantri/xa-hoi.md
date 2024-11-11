@@ -9,7 +9,7 @@ sidebar_position: 1
 - 🎊 [Ô tô bốc cháy sau va chạm với xe container, 5 người bị thương](https://dantri.com.vn/xa-hoi/o-to-boc-chay-sau-va-cham-voi-xe-container-5-nguoi-bi-thuong-20241111151758043.htm) - 08:25 11/11/2024
 - 🙉 [Biển Đông đón nhiều cơn bão trong tháng cuối năm](https://dantri.com.vn/xa-hoi/bien-dong-don-nhieu-con-bao-trong-thang-cuoi-nam-20241111150021986.htm) - 08:15 11/11/2024
 - 🕯 [&quot;Chạy thử&quot; đường băng sân bay Long Thành trước 30/4/2025](https://dantri.com.vn/xa-hoi/chay-thu-duong-bang-san-bay-long-thanh-truoc-3042025-20241111143020277.htm) - 07:37 11/11/2024
-- 👍 [Vì sao nhà thuốc bệnh viện thiếu thuốc?](https://dantri.com.vn/xa-hoi/vi-sao-nha-thuoc-benh-vien-thieu-thuoc-20241111085632239.htm) - 07:15 11/11/2024
+- 👍 [Bộ trưởng Y tế: Có cán bộ chưa dám nghĩ, dám làm trong đấu thầu thuốc](https://dantri.com.vn/xa-hoi/bo-truong-y-te-co-can-bo-chua-dam-nghi-dam-lam-trong-dau-thau-thuoc-20241111085632239.htm) - 07:15 11/11/2024
 - 🤖 [Rác thải, cỏ cây bủa vây siêu dự án chống ngập 10.000 tỷ ở TPHCM](https://dantri.com.vn/xa-hoi/rac-thai-co-cay-bua-vay-sieu-du-an-chong-ngap-10000-ty-o-tphcm-20241110190238011.htm) - 06:34 11/11/2024
 - 🙉 [Hai người tử vong cạnh chiếc xe máy  ở Đà Nẵng](https://dantri.com.vn/xa-hoi/hai-nguoi-tu-vong-canh-chiec-xe-may-o-da-nang-20241111122815828.htm) - 06:13 11/11/2024
 - 👍 [Công bố thanh tra lĩnh vực lý lịch tư pháp ở Hà Nội](https://dantri.com.vn/xa-hoi/cong-bo-thanh-tra-linh-vuc-ly-lich-tu-phap-o-ha-noi-20241111115915408.htm) - 06:07 11/11/2024
