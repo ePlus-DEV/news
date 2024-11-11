@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Giới trẻ Trung Quốc làm &#39;mông sắt&#39; để đi du lịch giá rẻ](https://vnexpress.net/gioi-tre-trung-quoc-lam-mong-sat-de-di-du-lich-gia-re-4814525.html) - 07:51 11/11/2024
+- 💂 [Giới trẻ Trung Quốc làm &#39;mông sắt&#39; để đi du lịch](https://vnexpress.net/gioi-tre-trung-quoc-lam-mong-sat-de-di-du-lich-4814525.html) - 07:51 11/11/2024
 - 🪄 [Tour Tết tăng giá 15 %, tour nước ngoài sôi động](https://vnexpress.net/tour-tet-tang-gia-15-tour-nuoc-ngoai-soi-dong-4812715.html) - 05:18 11/11/2024
 - 🦅 [Hàng nghìn khách tham quan Bắc Bộ Phủ lần đầu mở cửa](https://vnexpress.net/hang-nghin-khach-tham-quan-bac-bo-phu-lan-dau-mo-cua-4814421.html) - 03:47 11/11/2024
 - 🕴 [Có nên đặt tour Tết sớm?](https://vnexpress.net/co-nen-dat-tour-tet-som-4813613.html) - 02:30 11/11/2024
