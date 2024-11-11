@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Lamine Yamal gặp họa, Barcelona bị &quot;lột mặt nạ&quot; phũ phàng](https://dantri.com.vn/the-thao/lamine-yamal-gap-hoa-barcelona-bi-lot-mat-na-phu-phang-20241111163533885.htm) - 09:35 11/11/2024
+- 🎡 [Lamine Yamal gặp họa, Barcelona bị &quot;lột mặt nạ&quot; phũ phàng](https://dantri.com.vn/the-thao/lamine-yamal-gap-hoa-barcelona-bi-lot-mat-na-phu-phang-20241111163533885.htm) - 11:35 11/11/2024
 - 💯 [HLV Ruben Amorim lần đầu nói về tương lai Van Nistelrooy](https://dantri.com.vn/the-thao/hlv-ruben-amorim-lan-dau-noi-ve-tuong-lai-van-nistelrooy-20241111111216118.htm) - 08:33 11/11/2024
 - ⛽️ [HLV Phạm Anh Tuấn bất ngờ từ chức HLV Sông Lam Nghệ An](https://dantri.com.vn/the-thao/hlv-pham-anh-tuan-bat-ngo-tu-chuc-hlv-song-lam-nghe-an-20241111151633933.htm) - 08:32 11/11/2024
 - 💃 [Cựu số một thế giới không thành công tại giải golf ở UAE](https://dantri.com.vn/the-thao/cuu-so-mot-the-gioi-khong-thanh-cong-tai-giai-golf-o-uae-20241111135407990.htm) - 08:30 11/11/2024
