@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Van Nistelrooy rời Man Utd: Tình yêu đẹp và những hẹn hò từ đây khép lại](https://dantri.com.vn/the-thao/van-nistelrooy-roi-man-utd-tinh-yeu-dep-va-nhung-hen-ho-tu-day-khep-lai-20241112203325636.htm) - 15:25 12/11/2024
+- 🤠 [Van Nistelrooy rời Man Utd: Tình yêu đẹp và những hẹn hò từ đây khép lại](https://dantri.com.vn/the-thao/van-nistelrooy-roi-man-utd-tinh-yeu-dep-va-nhung-hen-ho-tu-day-khep-lai-20241112203325636.htm) - 19:25 12/11/2024
 - 🌈 [Đánh giá Macbook Pro M3: Có còn đáng mua?](https://dantri.com.vn/suc-manh-so/danh-gia-macbook-pro-m3-co-con-dang-mua-20241029112301352.htm) - 03:32 12/11/2024
 - 🐎 [Người dân buôn bán khá hơn sau 5 tháng thuê vỉa hè ở trung tâm TPHCM](https://dantri.com.vn/xa-hoi/nguoi-dan-buon-ban-kha-hon-sau-5-thang-thue-via-he-o-trung-tam-tphcm-20241111214321879.htm) - 03:27 12/11/2024
 - 👹 [Làm thế nào để trúng tuyển trường đại học ông Donald Trump từng theo học?](https://dantri.com.vn/giao-duc/lam-the-nao-de-trung-tuyen-truong-dai-hoc-ong-donald-trump-tung-theo-hoc-20241111161812295.htm) - 01:28 12/11/2024
