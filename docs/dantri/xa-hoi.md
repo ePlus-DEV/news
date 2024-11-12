@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- dantri-xa-hoi:START -->
 - 🫣 [Bộ Công an &quot;gọi tên&quot; nhóm Báo chốt 141, Thông chốt kiểm soát nồng độ cồn](https://dantri.com.vn/xa-hoi/bo-cong-an-goi-ten-nhom-bao-chot-141-thong-chot-kiem-soat-nong-do-con-20241112145311073.htm) - 08:02 12/11/2024
 - 💼 [Hàng trăm học sinh nhận học bổng &quot;Nối trọn yêu thương - Nâng bước đến trường&quot;](https://dantri.com.vn/xa-hoi/hang-tram-hoc-sinh-nhan-hoc-bong-noi-tron-yeu-thuong-nang-buoc-den-truong-20241112144024179.htm) - 08:00 12/11/2024
-- 🎊 [Thủ tướng Phạm Minh Chính trả lời chất vấn](https://dantri.com.vn/xa-hoi/thu-tuong-pham-minh-chinh-tra-loi-chat-van-20241111224505617.htm) - 07:45 12/11/2024
+- 🎊 [Thủ tướng: Đang đề xuất khởi động lại dự án điện hạt nhân](https://dantri.com.vn/xa-hoi/thu-tuong-dang-de-xuat-khoi-dong-lai-du-an-dien-hat-nhan-20241111224505617.htm) - 07:45 12/11/2024
 - 🙉 [Lý do xe Porsche bốc cháy dữ dội trên cao tốc Hà Nội - Hải Phòng](https://dantri.com.vn/xa-hoi/ly-do-xe-porsche-boc-chay-du-doi-tren-cao-toc-ha-noi-hai-phong-20241112142621133.htm) - 07:34 12/11/2024
 - 🕯 [Khánh thành bia kỷ niệm Bác Hồ với cây vú sữa miền Nam](https://dantri.com.vn/xa-hoi/khanh-thanh-bia-ky-niem-bac-ho-voi-cay-vu-sua-mien-nam-20241112124413596.htm) - 07:30 12/11/2024
 - 👍 [Khi sửa Luật Báo chí sẽ dành một mục quy định về kinh tế báo chí](https://dantri.com.vn/xa-hoi/khi-sua-luat-bao-chi-se-danh-mot-muc-quy-dinh-ve-kinh-te-bao-chi-20241112132858093.htm) - 07:06 12/11/2024
