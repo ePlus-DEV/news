@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Hiệu trưởng xin đổi hoa 20/11 bằng vở, sữa cho học sinh](https://vnexpress.net/hieu-truong-xin-doi-hoa-20-11-bang-vo-sua-cho-hoc-sinh-4815352.html) - 22:59 12/11/2024
+- 🤓 [Thầy hiệu trưởng xin đổi hoa 20/11 lấy vở, sữa cho học sinh](https://vnexpress.net/thay-hieu-truong-xin-doi-hoa-20-11-lay-vo-sua-cho-hoc-sinh-4815352.html) - 22:59 12/11/2024
 - 🦆 [Nữ sinh 16 tuổi về nhì cuộc thi tiếng Trung lớn nhất thế giới](https://vnexpress.net/nu-sinh-16-tuoi-ve-nhi-cuoc-thi-tieng-trung-lon-nhat-the-gioi-4815159.html) - 17:00 12/11/2024
 - 🦩 [Vào đội tuyển Sinh nhưng không muốn học Y, Dược](https://vnexpress.net/vao-doi-tuyen-sinh-nhung-khong-muon-hoc-y-duoc-4813048.html) - 14:10 12/11/2024
 - 🌮 [Thành phố nào có đường trên cao đầu tiên ở Việt Nam?](https://vnexpress.net/thanh-pho-nao-co-duong-tren-cao-dau-tien-o-viet-nam-4815157.html) - 13:21 12/11/2024
