@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- dantri-giai-tri:START -->
 - 🤩 [Liz Kim Cương: Vóc dáng nóng bỏng, đời tư kín tiếng sau ồn ào tình cảm](https://dantri.com.vn/giai-tri/liz-kim-cuong-voc-dang-nong-bong-doi-tu-kin-tieng-sau-on-ao-tinh-cam-20241106111957403.htm) - 12:00 12/11/2024
-- 🔥 [Thanh Thủy lọt top 8 Hoa hậu Quốc tế 2024](https://dantri.com.vn/giai-tri/thanh-thuy-lot-top-8-hoa-hau-quoc-te-2024-20241112175046904.htm) - 11:12 12/11/2024
+- 🔥 [Thanh Thủy đăng quang Hoa hậu Quốc tế 2024](https://dantri.com.vn/giai-tri/thanh-thuy-dang-quang-hoa-hau-quoc-te-2024-20241112175046904.htm) - 11:12 12/11/2024
 - 🚀 [Tiết lộ bất ngờ về bức tranh vua Hàm Nghi vẽ khi bị lưu đày ở Algeria](https://dantri.com.vn/giai-tri/tiet-lo-bat-ngo-ve-buc-tranh-vua-ham-nghi-ve-khi-bi-luu-day-o-algeria-20241112164840729.htm) - 10:27 12/11/2024
 - 🔥 [Tài tử &quot;Mặt trong ôm mặt trời&quot; qua đời ở tuổi 39](https://dantri.com.vn/giai-tri/tai-tu-mat-trong-om-mat-troi-qua-doi-o-tuoi-39-20241112165942593.htm) - 10:23 12/11/2024
 - 🌈 [Hoa hậu Kỳ Duyên: &quot;Tôi sẽ học lên cao học, trau dồi tiếng Anh đến khi giỏi&quot;](https://dantri.com.vn/giai-tri/hoa-hau-ky-duyen-toi-se-hoc-len-cao-hoc-trau-doi-tieng-anh-den-khi-gioi-20241112130752886.htm) - 08:09 12/11/2024
