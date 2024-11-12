@@ -54,5 +54,4 @@ sidebar_position: 9
 - 🐎 [Anh chân thành tìm người chung tay xây dựng tổ ấm](https://vnexpress.net/anh-chan-thanh-tim-nguoi-chung-tay-xay-dung-to-am-4814958.html) - 10:00 12/11/2024
 - 🏊 [Những bệnh nam khoa thường gặp gây vô sinh](https://vnexpress.net/nhung-benh-nam-khoa-thuong-gap-gay-vo-sinh-4815220.html) - 10:00 12/11/2024
 - 🦩 [Triển lãm quy tụ 250 gian hàng nội thất thông minh](https://vnexpress.net/trien-lam-quy-tu-250-gian-hang-noi-that-thong-minh-4815193.html) - 10:00 12/11/2024
-- 👍 [Loạt đồng hồ khiến chủ tịch Patek Philippe tự hào](https://vnexpress.net/loat-dong-ho-khien-chu-tich-patek-philippe-tu-hao-4815040.html) - 10:00 12/11/2024
-- 🔥 [Ông Medvedev: Lãnh đạo châu Âu buồn bã vì ông Trump đắc cử](https://vnexpress.net/ong-medvedev-lanh-dao-chau-au-buon-ba-vi-ong-trump-dac-cu-4815206.html) - 09:56 12/11/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 👍 [Loạt đồng hồ khiến chủ tịch Patek Philippe tự hào](https://vnexpress.net/loat-dong-ho-khien-chu-tich-patek-philippe-tu-hao-4815040.html) - 10:00 12/11/2024<!-- vnexpress-tin-moi-nhat:END -->
