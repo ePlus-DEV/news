@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Israel nói cơ sở hạt nhân Iran &#39;dễ tập kích chưa từng thấy&#39;](https://vnexpress.net/israel-noi-co-so-hat-nhan-iran-de-tap-kich-chua-tung-thay-4814932.html) - 00:56 12/11/2024
-- 🕴 [Ông Biden, bà Harris lần đầu xuất hiện chung sau thất bại bầu cử](https://vnexpress.net/ong-biden-ba-harris-lan-dau-xuat-hien-chung-sau-that-bai-bau-cu-4814922.html) - 00:07 12/11/2024
-- 🤭 [Chile mong muốn tăng cường quan hệ với Việt Nam](https://vnexpress.net/chile-mong-muon-tang-cuong-quan-he-voi-viet-nam-4814923.html) - 23:52 11/11/2024
-- 🧑‍💻 [Tổng Bí thư Tô Lâm điện đàm với ông Trump](https://vnexpress.net/tong-bi-thu-to-lam-dien-dam-voi-ong-trump-4814911.html) - 21:54 11/11/2024
-- 🦏 [Cuộc đua trong dinh thự ông Trump ở Mar-a-Lago](https://vnexpress.net/cuoc-dua-trong-dinh-thu-ong-trump-o-mar-a-lago-4814743.html) - 17:00 11/11/2024
-- 🦒 [100.000 sinh viên rủ nhau đạp xe 50 km đi ăn đêm](https://vnexpress.net/100-000-sinh-vien-ru-nhau-dap-xe-50-km-di-an-dem-4814880.html) - 15:30 11/11/2024
-- 🌈 [Nghị sĩ Cộng hòa nói ông Trump không có &#39;danh sách kẻ thù&#39;](https://vnexpress.net/nghi-si-cong-hoa-noi-ong-trump-khong-co-danh-sach-ke-thu-4814724.html) - 13:41 11/11/2024
-- 🧑‍🏫 [Ông Trump chọn quan chức chuyên trục xuất vào chính quyền mới](https://vnexpress.net/ong-trump-chon-quan-chuc-chuyen-truc-xuat-vao-chinh-quyen-moi-4814858.html) - 13:02 11/11/2024
-- 🐲 [Đảng Dân chủ nguy cơ như &#39;rắn mất đầu&#39; sau thất bại bầu cử](https://vnexpress.net/dang-dan-chu-nguy-co-nhu-ran-mat-dau-sau-that-bai-bau-cu-4813996.html) - 12:05 11/11/2024
-- 🦒 [Tel Aviv nói Hà Lan bắt quá ít nghi phạm hành hung CĐV Israel](https://vnexpress.net/tel-aviv-noi-ha-lan-bat-qua-it-nghi-pham-hanh-hung-cdv-israel-4814842.html) - 11:35 11/11/2024
-- 🐻 [Điện Kremlin phủ nhận Tổng thống Putin điện đàm với ông Trump](https://vnexpress.net/dien-kremlin-phu-nhan-tong-thong-putin-dien-dam-voi-ong-trump-4814799.html) - 10:09 11/11/2024
-- 🚀 [Ông Trump chơi golf cùng cháu gái vào cuối tuần đầu tiên sau khi đắc cử](https://vnexpress.net/ong-trump-choi-golf-cung-chau-gai-vao-cuoi-tuan-dau-tien-sau-khi-dac-cu-4814791.html) - 09:57 11/11/2024
-- 🥰 [Tiêm kích Su-57 Nga bay biểu diễn tại Trung Quốc](https://vnexpress.net/tiem-kich-su-57-nga-bay-bieu-dien-tai-trung-quoc-4814782.html) - 09:42 11/11/2024
-- 🔥 [Nga tuyên bố phá âm mưu &#39;cướp trực thăng&#39;](https://vnexpress.net/nga-tuyen-bo-pha-am-muu-cuop-truc-thang-4814696.html) - 09:01 11/11/2024
-- 🥳 [Phe Dân chủ tự vấn về thảm bại bầu cử](https://vnexpress.net/phe-dan-chu-tu-van-ve-tham-bai-bau-cu-4814471.html) - 08:37 11/11/2024
-- 💼 [Con trai ông Trump đăng video chế giễu Tổng thống Ukraine](https://vnexpress.net/con-trai-ong-trump-dang-video-che-gieu-tong-thong-ukraine-4814570.html) - 08:16 11/11/2024
-- 🤡 [Ông Trump ra điều kiện với người muốn lãnh đạo Thượng viện](https://vnexpress.net/ong-trump-ra-dieu-kien-voi-nguoi-muon-lanh-dao-thuong-vien-4814488.html) - 07:50 11/11/2024
-- 🌁 [Ấn Độ có thể tự sản xuất xe phòng không Pantsir-S1](https://vnexpress.net/an-do-co-the-tu-san-xuat-xe-phong-khong-pantsir-s1-4814650.html) - 07:27 11/11/2024
-- 🤩 [Nỗi phẫn nộ của người Tây Ban Nha sau trận lũ lịch sử](https://vnexpress.net/noi-phan-no-cua-nguoi-tay-ban-nha-sau-tran-lu-lich-su-4814505.html) - 06:52 11/11/2024
-- 🎉 [Cháu gái đăng ảnh bà Harris chơi cờ, uống rượu vang sau thất bại bầu cử](https://vnexpress.net/chau-gai-dang-anh-ba-harris-choi-co-uong-ruou-vang-sau-that-bai-bau-cu-4814554.html) - 04:48 11/11/2024
-- 🎉 [Được, mất với Elon Musk khi ông Trump đắc cử](https://vnexpress.net/duoc-mat-voi-elon-musk-khi-ong-trump-dac-cu-4813964.html) - 04:28 11/11/2024
-- 🌁 [Drone cáp quang Nga tập kích &#39;xe tăng Abrams Ukraine&#39; ở Kursk](https://vnexpress.net/drone-cap-quang-nga-tap-kich-xe-tang-abrams-ukraine-o-kursk-4814561.html) - 04:27 11/11/2024
-- 🌊 [Người ủng hộ bà Harris đập phá xả stress hậu bầu cử](https://vnexpress.net/nguoi-ung-ho-ba-harris-dap-pha-xa-stress-hau-bau-cu-4814469.html) - 04:19 11/11/2024
-- 🕴 [Nga có thể sắp mở chiến dịch phản công ở tỉnh Kursk](https://vnexpress.net/nga-co-the-sap-mo-chien-dich-phan-cong-o-tinh-kursk-4814474.html) - 02:58 11/11/2024
-- 🎓 [Thách thức với Trung Quốc khi ông Trump trở lại Nhà Trắng](https://vnexpress.net/thach-thuc-voi-trung-quoc-khi-ong-trump-tro-lai-nha-trang-4813522.html) - 02:32 11/11/2024
-- 🦩 [Cựu trợ lý nêu cách để bà Harris làm tổng thống](https://vnexpress.net/cuu-tro-ly-neu-cach-de-ba-harris-lam-tong-thong-4814462.html) - 02:21 11/11/2024
-- 🌏 [Động đất kép tại Cuba](https://vnexpress.net/dong-dat-kep-tai-cuba-4814444.html) - 01:13 11/11/2024
-- 🌋 [Mỹ hứa viện trợ 6 tỷ USD cho Ukraine trước khi ông Trump nhậm chức](https://vnexpress.net/my-hua-vien-tro-6-ty-usd-cho-ukraine-truoc-khi-ong-trump-nham-chuc-4814445.html) - 00:52 11/11/2024
-- 🪜 [Israel bị tố không kích thủ đô Syria, Iran yêu cầu LHQ can thiệp](https://vnexpress.net/israel-bi-to-khong-kich-thu-do-syria-iran-yeu-cau-lhq-can-thiep-4814437.html) - 23:57 10/11/2024
-- 🕴 [Báo Mỹ nói Donald Trump đã điện đàm với ông Putin](https://vnexpress.net/bao-my-noi-donald-trump-da-dien-dam-voi-ong-putin-4814441.html) - 23:45 10/11/2024
-- 🧑‍🏫 [Mẫu súng Nga được kỳ vọng thay thế &#39;AK rút gọn&#39;](https://vnexpress.net/mau-sung-nga-duoc-ky-vong-thay-the-ak-rut-gon-4813617.html) - 18:00 10/11/2024
-- 🌮 [Israel lần đầu xác nhận đứng sau loạt vụ nổ máy nhắn tin ở Lebanon](https://vnexpress.net/israel-lan-dau-xac-nhan-dung-sau-loat-vu-no-may-nhan-tin-o-lebanon-4814423.html) - 17:22 10/11/2024
-- 🚦 [Di sản của Tổng thống Biden đối mặt nhiều hoài nghi](https://vnexpress.net/di-san-cua-tong-thong-biden-doi-mat-nhieu-hoai-nghi-4813988.html) - 17:00 10/11/2024
-- 💫 [Tàu hải quân Nhật Bản bốc cháy, có nguy cơ chìm](https://vnexpress.net/tau-hai-quan-nhat-ban-boc-chay-co-nguy-co-chim-4814396.html) - 15:13 10/11/2024
-- 🤡 [Máy bay chở 265 người bị cháy động cơ, nghi đâm phải chim](https://vnexpress.net/may-bay-cho-265-nguoi-bi-chay-dong-co-nghi-dam-phai-chim-4814398.html) - 14:05 10/11/2024
-- 🦣 [Ông Putin phê chuẩn Hiệp ước Chiến lược Toàn diện với Triều Tiên](https://vnexpress.net/ong-putin-phe-chuan-hiep-uoc-chien-luoc-toan-dien-voi-trieu-tien-4814388.html) - 12:54 10/11/2024
-- 🎬 [Chiến lược mơ hồ của ông Trump để &#39;dập lửa&#39; Trung Đông](https://vnexpress.net/chien-luoc-mo-ho-cua-ong-trump-de-dap-lua-trung-dong-4813523.html) - 12:00 10/11/2024
-- 🎉 [Nga, Ukraine phóng lượng UAV lớn kỷ lục nhằm vào nhau](https://vnexpress.net/nga-ukraine-phong-luong-uav-lon-ky-luc-nham-vao-nhau-4814381.html) - 11:46 10/11/2024
+- 🎭 [Pháp nói không nên suy đoán lập trường của ông Trump về Ukraine](https://vnexpress.net/phap-noi-khong-nen-suy-doan-lap-truong-cua-ong-trump-ve-ukraine-4814933.html) - 02:00 12/11/2024
+- 🕴 [Khoảnh khắc ông Trump gọi cha con Elon Musk vào chụp ảnh gia đình](https://vnexpress.net/khoanh-khac-ong-trump-goi-cha-con-elon-musk-vao-chup-anh-gia-dinh-4814941.html) - 01:45 12/11/2024
+- 🤭 [Israel nói cơ sở hạt nhân Iran &#39;dễ tập kích chưa từng thấy&#39;](https://vnexpress.net/israel-noi-co-so-hat-nhan-iran-de-tap-kich-chua-tung-thay-4814932.html) - 00:56 12/11/2024
+- 🧑‍💻 [Ông Biden, bà Harris lần đầu xuất hiện chung sau thất bại bầu cử](https://vnexpress.net/ong-biden-ba-harris-lan-dau-xuat-hien-chung-sau-that-bai-bau-cu-4814922.html) - 00:07 12/11/2024
+- 🦏 [Chile mong muốn tăng cường quan hệ với Việt Nam](https://vnexpress.net/chile-mong-muon-tang-cuong-quan-he-voi-viet-nam-4814923.html) - 23:52 11/11/2024
+- 🦒 [Tổng Bí thư Tô Lâm điện đàm với ông Trump](https://vnexpress.net/tong-bi-thu-to-lam-dien-dam-voi-ong-trump-4814911.html) - 21:54 11/11/2024
+- 🌈 [Cuộc đua trong dinh thự ông Trump ở Mar-a-Lago](https://vnexpress.net/cuoc-dua-trong-dinh-thu-ong-trump-o-mar-a-lago-4814743.html) - 17:00 11/11/2024
+- 🧑‍🏫 [100.000 sinh viên rủ nhau đạp xe 50 km đi ăn đêm](https://vnexpress.net/100-000-sinh-vien-ru-nhau-dap-xe-50-km-di-an-dem-4814880.html) - 15:30 11/11/2024
+- 🐲 [Nghị sĩ Cộng hòa nói ông Trump không có &#39;danh sách kẻ thù&#39;](https://vnexpress.net/nghi-si-cong-hoa-noi-ong-trump-khong-co-danh-sach-ke-thu-4814724.html) - 13:41 11/11/2024
+- 🦒 [Ông Trump chọn quan chức chuyên trục xuất vào chính quyền mới](https://vnexpress.net/ong-trump-chon-quan-chuc-chuyen-truc-xuat-vao-chinh-quyen-moi-4814858.html) - 13:02 11/11/2024
+- 🐻 [Đảng Dân chủ nguy cơ như &#39;rắn mất đầu&#39; sau thất bại bầu cử](https://vnexpress.net/dang-dan-chu-nguy-co-nhu-ran-mat-dau-sau-that-bai-bau-cu-4813996.html) - 12:05 11/11/2024
+- 🚀 [Tel Aviv nói Hà Lan bắt quá ít nghi phạm hành hung CĐV Israel](https://vnexpress.net/tel-aviv-noi-ha-lan-bat-qua-it-nghi-pham-hanh-hung-cdv-israel-4814842.html) - 11:35 11/11/2024
+- 🥰 [Điện Kremlin phủ nhận Tổng thống Putin điện đàm với ông Trump](https://vnexpress.net/dien-kremlin-phu-nhan-tong-thong-putin-dien-dam-voi-ong-trump-4814799.html) - 10:09 11/11/2024
+- 🔥 [Ông Trump chơi golf cùng cháu gái vào cuối tuần đầu tiên sau khi đắc cử](https://vnexpress.net/ong-trump-choi-golf-cung-chau-gai-vao-cuoi-tuan-dau-tien-sau-khi-dac-cu-4814791.html) - 09:57 11/11/2024
+- 🥳 [Tiêm kích Su-57 Nga bay biểu diễn tại Trung Quốc](https://vnexpress.net/tiem-kich-su-57-nga-bay-bieu-dien-tai-trung-quoc-4814782.html) - 09:42 11/11/2024
+- 💼 [Nga tuyên bố phá âm mưu &#39;cướp trực thăng&#39;](https://vnexpress.net/nga-tuyen-bo-pha-am-muu-cuop-truc-thang-4814696.html) - 09:01 11/11/2024
+- 🤡 [Phe Dân chủ tự vấn về thảm bại bầu cử](https://vnexpress.net/phe-dan-chu-tu-van-ve-tham-bai-bau-cu-4814471.html) - 08:37 11/11/2024
+- 🌁 [Con trai ông Trump đăng video chế giễu Tổng thống Ukraine](https://vnexpress.net/con-trai-ong-trump-dang-video-che-gieu-tong-thong-ukraine-4814570.html) - 08:16 11/11/2024
+- 🤩 [Ông Trump ra điều kiện với người muốn lãnh đạo Thượng viện](https://vnexpress.net/ong-trump-ra-dieu-kien-voi-nguoi-muon-lanh-dao-thuong-vien-4814488.html) - 07:50 11/11/2024
+- 🎉 [Ấn Độ có thể tự sản xuất xe phòng không Pantsir-S1](https://vnexpress.net/an-do-co-the-tu-san-xuat-xe-phong-khong-pantsir-s1-4814650.html) - 07:27 11/11/2024
+- 🎉 [Nỗi phẫn nộ của người Tây Ban Nha sau trận lũ lịch sử](https://vnexpress.net/noi-phan-no-cua-nguoi-tay-ban-nha-sau-tran-lu-lich-su-4814505.html) - 06:52 11/11/2024
+- 🌁 [Cháu gái đăng ảnh bà Harris chơi cờ, uống rượu vang sau thất bại bầu cử](https://vnexpress.net/chau-gai-dang-anh-ba-harris-choi-co-uong-ruou-vang-sau-that-bai-bau-cu-4814554.html) - 04:48 11/11/2024
+- 🌊 [Được, mất với Elon Musk khi ông Trump đắc cử](https://vnexpress.net/duoc-mat-voi-elon-musk-khi-ong-trump-dac-cu-4813964.html) - 04:28 11/11/2024
+- 🕴 [Drone cáp quang Nga tập kích &#39;xe tăng Abrams Ukraine&#39; ở Kursk](https://vnexpress.net/drone-cap-quang-nga-tap-kich-xe-tang-abrams-ukraine-o-kursk-4814561.html) - 04:27 11/11/2024
+- 🎓 [Người ủng hộ bà Harris đập phá xả stress hậu bầu cử](https://vnexpress.net/nguoi-ung-ho-ba-harris-dap-pha-xa-stress-hau-bau-cu-4814469.html) - 04:19 11/11/2024
+- 🦩 [Nga có thể sắp mở chiến dịch phản công ở tỉnh Kursk](https://vnexpress.net/nga-co-the-sap-mo-chien-dich-phan-cong-o-tinh-kursk-4814474.html) - 02:58 11/11/2024
+- 🌏 [Thách thức với Trung Quốc khi ông Trump trở lại Nhà Trắng](https://vnexpress.net/thach-thuc-voi-trung-quoc-khi-ong-trump-tro-lai-nha-trang-4813522.html) - 02:32 11/11/2024
+- 🌋 [Cựu trợ lý nêu cách để bà Harris làm tổng thống](https://vnexpress.net/cuu-tro-ly-neu-cach-de-ba-harris-lam-tong-thong-4814462.html) - 02:21 11/11/2024
+- 🪜 [Động đất kép tại Cuba](https://vnexpress.net/dong-dat-kep-tai-cuba-4814444.html) - 01:13 11/11/2024
+- 🕴 [Mỹ hứa viện trợ 6 tỷ USD cho Ukraine trước khi ông Trump nhậm chức](https://vnexpress.net/my-hua-vien-tro-6-ty-usd-cho-ukraine-truoc-khi-ong-trump-nham-chuc-4814445.html) - 00:52 11/11/2024
+- 🧑‍🏫 [Israel bị tố không kích thủ đô Syria, Iran yêu cầu LHQ can thiệp](https://vnexpress.net/israel-bi-to-khong-kich-thu-do-syria-iran-yeu-cau-lhq-can-thiep-4814437.html) - 23:57 10/11/2024
+- 🌮 [Báo Mỹ nói Donald Trump đã điện đàm với ông Putin](https://vnexpress.net/bao-my-noi-donald-trump-da-dien-dam-voi-ong-putin-4814441.html) - 23:45 10/11/2024
+- 🚦 [Mẫu súng Nga được kỳ vọng thay thế &#39;AK rút gọn&#39;](https://vnexpress.net/mau-sung-nga-duoc-ky-vong-thay-the-ak-rut-gon-4813617.html) - 18:00 10/11/2024
+- 💫 [Israel lần đầu xác nhận đứng sau loạt vụ nổ máy nhắn tin ở Lebanon](https://vnexpress.net/israel-lan-dau-xac-nhan-dung-sau-loat-vu-no-may-nhan-tin-o-lebanon-4814423.html) - 17:22 10/11/2024
+- 🤡 [Di sản của Tổng thống Biden đối mặt nhiều hoài nghi](https://vnexpress.net/di-san-cua-tong-thong-biden-doi-mat-nhieu-hoai-nghi-4813988.html) - 17:00 10/11/2024
+- 🦣 [Tàu hải quân Nhật Bản bốc cháy, có nguy cơ chìm](https://vnexpress.net/tau-hai-quan-nhat-ban-boc-chay-co-nguy-co-chim-4814396.html) - 15:13 10/11/2024
+- 🎬 [Máy bay chở 265 người bị cháy động cơ, nghi đâm phải chim](https://vnexpress.net/may-bay-cho-265-nguoi-bi-chay-dong-co-nghi-dam-phai-chim-4814398.html) - 14:05 10/11/2024
+- 🎉 [Ông Putin phê chuẩn Hiệp ước Chiến lược Toàn diện với Triều Tiên](https://vnexpress.net/ong-putin-phe-chuan-hiep-uoc-chien-luoc-toan-dien-voi-trieu-tien-4814388.html) - 12:54 10/11/2024
+- 🎡 [Chiến lược mơ hồ của ông Trump để &#39;dập lửa&#39; Trung Đông](https://vnexpress.net/chien-luoc-mo-ho-cua-ong-trump-de-dap-lua-trung-dong-4813523.html) - 12:00 10/11/2024
+- 🌜 [Nga, Ukraine phóng lượng UAV lớn kỷ lục nhằm vào nhau](https://vnexpress.net/nga-ukraine-phong-luong-uav-lon-ky-luc-nham-vao-nhau-4814381.html) - 11:46 10/11/2024
 - 🎡 [Người Tây Ban Nha biểu tình phản đối chính phủ sau trận lũ lịch sử](https://vnexpress.net/nguoi-tay-ban-nha-bieu-tinh-phan-doi-chinh-phu-sau-tran-lu-lich-su-4814354.html) - 09:30 10/11/2024
-- 🌜 [Quan chức Dân chủ gọi chiến dịch Harris là &#39;thảm họa tỷ đô&#39;](https://vnexpress.net/quan-chuc-dan-chu-goi-chien-dich-harris-la-tham-hoa-ty-do-4814339.html) - 07:25 10/11/2024
-- 🎡 [Thông điệp từ trang phục phát biểu nhận thua của bà Harris](https://vnexpress.net/thong-diep-tu-trang-phuc-phat-bieu-nhan-thua-cua-ba-harris-4813747.html) - 06:00 10/11/2024
-- 🤗 [Quân đội Israel phê bình nhóm binh sĩ đốt cờ Lebanon](https://vnexpress.net/quan-doi-israel-phe-binh-nhom-binh-si-dot-co-lebanon-4814267.html) - 04:07 10/11/2024
-- 🦩 [Ông Trump thắng toàn bộ 7 bang chiến trường](https://vnexpress.net/ong-trump-thang-toan-bo-7-bang-chien-truong-4814272.html) - 02:52 10/11/2024
-- 🎓 [Tổng thống Biden mời ông Trump tới Nhà Trắng](https://vnexpress.net/tong-thong-biden-moi-ong-trump-toi-nha-trang-4814242.html) - 01:14 10/11/2024
-- 🌁 [Những sai lầm khiến bà Harris trả giá](https://vnexpress.net/nhung-sai-lam-khien-ba-harris-tra-gia-4813536.html) - 00:27 10/11/2024
-- 🤩 [Qatar rút khỏi nỗ lực trung gian hòa giải cho xung đột Gaza](https://vnexpress.net/qatar-rut-khoi-no-luc-trung-gian-hoa-giai-cho-xung-dot-gaza-4814229.html) - 23:56 09/11/2024
-- 👹 [Trung Quốc công bố mẫu tiêm kích tàng hình mới](https://vnexpress.net/trung-quoc-cong-bo-mau-tiem-kich-tang-hinh-moi-4812624.html) - 23:44 09/11/2024
-- ⛽️ [Bản năng chính trị giúp ông Trump làm nên &#39;chiến thắng lịch sử&#39;](https://vnexpress.net/ban-nang-chinh-tri-giup-ong-trump-lam-nen-chien-thang-lich-su-4813364.html) - 17:00 09/11/2024
-- 🚀 [Iran kêu gọi ông Trump thay đổi chính sách &#39;áp lực tối đa&#39;](https://vnexpress.net/iran-keu-goi-ong-trump-thay-doi-chinh-sach-ap-luc-toi-da-4814183.html) - 15:34 09/11/2024
-- 🎡 [Ông Biden thất bại trong chương trình bảo vệ người nhập cư trái phép](https://vnexpress.net/ong-biden-that-bai-trong-chuong-trinh-bao-ve-nguoi-nhap-cu-trai-phep-4814177.html) - 14:21 09/11/2024
-- 🕯 [Ukraine tuyên bố tìm thấy linh kiện phương Tây trong UAV tàng hình Nga](https://vnexpress.net/ukraine-tuyen-bo-tim-thay-linh-kien-phuong-tay-trong-uav-tang-hinh-nga-4814012.html) - 12:35 09/11/2024
-- 🐻 [Barron - cố vấn 18 tuổi giúp ông Trump chinh phục giới trẻ](https://vnexpress.net/barron-co-van-18-tuoi-giup-ong-trump-chinh-phuc-gioi-tre-4813913.html) - 12:00 09/11/2024
-- 🚦 [Ukraine đối mặt tương lai bất định khi ông Trump nắm quyền](https://vnexpress.net/ukraine-doi-mat-tuong-lai-bat-dinh-khi-ong-trump-nam-quyen-4813385.html) - 12:00 09/11/2024
-- 👍 [Bà Pelosi đổ lỗi cho ông Biden về thất bại trong bầu cử tổng thống](https://vnexpress.net/ba-pelosi-do-loi-cho-ong-biden-ve-that-bai-trong-bau-cu-tong-thong-4814108.html) - 11:15 09/11/2024
-- 🚀 [Loạt văn phòng bầu cử Mỹ bị dọa đánh bom](https://vnexpress.net/loat-van-phong-bau-cu-my-bi-doa-danh-bom-4814131.html) - 09:09 09/11/2024
-- 🌮 [Đánh bom ga xe lửa ở Pakistan, ít nhất 24 người chết](https://vnexpress.net/danh-bom-ga-xe-lua-o-pakistan-it-nhat-24-nguoi-chet-4814102.html) - 07:35 09/11/2024
-- 😎 [Hàn Quốc cáo buộc Triều Tiên gây nhiễu tín hiệu GPS](https://vnexpress.net/han-quoc-cao-buoc-trieu-tien-gay-nhieu-tin-hieu-gps-4814090.html) - 07:14 09/11/2024
-- 🐲 [Chuông Nhà thờ Đức Bà lần đầu ngân vang 5 năm sau vụ hỏa hoạn](https://vnexpress.net/chuong-nha-tho-duc-ba-lan-dau-ngan-vang-5-nam-sau-vu-hoa-hoan-4814040.html) - 04:38 09/11/2024
-- 💫 [Houthi công bố video bắn rơi UAV 30 triệu USD của Mỹ](https://vnexpress.net/houthi-cong-bo-video-ban-roi-uav-30-trieu-usd-cua-my-4814031.html) - 04:10 09/11/2024
-- 👀 [Nga, Ukraine trao đổi 600 thi thể quân nhân tử trận](https://vnexpress.net/nga-ukraine-trao-doi-600-thi-the-quan-nhan-tu-tran-4814020.html) - 04:06 09/11/2024<!-- vnexpress-the-gioi:END -->
+- 🤗 [Quan chức Dân chủ gọi chiến dịch Harris là &#39;thảm họa tỷ đô&#39;](https://vnexpress.net/quan-chuc-dan-chu-goi-chien-dich-harris-la-tham-hoa-ty-do-4814339.html) - 07:25 10/11/2024
+- 🦩 [Thông điệp từ trang phục phát biểu nhận thua của bà Harris](https://vnexpress.net/thong-diep-tu-trang-phuc-phat-bieu-nhan-thua-cua-ba-harris-4813747.html) - 06:00 10/11/2024
+- 🎓 [Quân đội Israel phê bình nhóm binh sĩ đốt cờ Lebanon](https://vnexpress.net/quan-doi-israel-phe-binh-nhom-binh-si-dot-co-lebanon-4814267.html) - 04:07 10/11/2024
+- 🌁 [Ông Trump thắng toàn bộ 7 bang chiến trường](https://vnexpress.net/ong-trump-thang-toan-bo-7-bang-chien-truong-4814272.html) - 02:52 10/11/2024
+- 🤩 [Tổng thống Biden mời ông Trump tới Nhà Trắng](https://vnexpress.net/tong-thong-biden-moi-ong-trump-toi-nha-trang-4814242.html) - 01:14 10/11/2024
+- 👹 [Những sai lầm khiến bà Harris trả giá](https://vnexpress.net/nhung-sai-lam-khien-ba-harris-tra-gia-4813536.html) - 00:27 10/11/2024
+- ⛽️ [Qatar rút khỏi nỗ lực trung gian hòa giải cho xung đột Gaza](https://vnexpress.net/qatar-rut-khoi-no-luc-trung-gian-hoa-giai-cho-xung-dot-gaza-4814229.html) - 23:56 09/11/2024
+- 🚀 [Trung Quốc công bố mẫu tiêm kích tàng hình mới](https://vnexpress.net/trung-quoc-cong-bo-mau-tiem-kich-tang-hinh-moi-4812624.html) - 23:44 09/11/2024
+- 🎡 [Bản năng chính trị giúp ông Trump làm nên &#39;chiến thắng lịch sử&#39;](https://vnexpress.net/ban-nang-chinh-tri-giup-ong-trump-lam-nen-chien-thang-lich-su-4813364.html) - 17:00 09/11/2024
+- 🕯 [Iran kêu gọi ông Trump thay đổi chính sách &#39;áp lực tối đa&#39;](https://vnexpress.net/iran-keu-goi-ong-trump-thay-doi-chinh-sach-ap-luc-toi-da-4814183.html) - 15:34 09/11/2024
+- 🐻 [Ông Biden thất bại trong chương trình bảo vệ người nhập cư trái phép](https://vnexpress.net/ong-biden-that-bai-trong-chuong-trinh-bao-ve-nguoi-nhap-cu-trai-phep-4814177.html) - 14:21 09/11/2024
+- 🚦 [Ukraine tuyên bố tìm thấy linh kiện phương Tây trong UAV tàng hình Nga](https://vnexpress.net/ukraine-tuyen-bo-tim-thay-linh-kien-phuong-tay-trong-uav-tang-hinh-nga-4814012.html) - 12:35 09/11/2024
+- 👍 [Barron - cố vấn 18 tuổi giúp ông Trump chinh phục giới trẻ](https://vnexpress.net/barron-co-van-18-tuoi-giup-ong-trump-chinh-phuc-gioi-tre-4813913.html) - 12:00 09/11/2024
+- 🚀 [Ukraine đối mặt tương lai bất định khi ông Trump nắm quyền](https://vnexpress.net/ukraine-doi-mat-tuong-lai-bat-dinh-khi-ong-trump-nam-quyen-4813385.html) - 12:00 09/11/2024
+- 🌮 [Bà Pelosi đổ lỗi cho ông Biden về thất bại trong bầu cử tổng thống](https://vnexpress.net/ba-pelosi-do-loi-cho-ong-biden-ve-that-bai-trong-bau-cu-tong-thong-4814108.html) - 11:15 09/11/2024
+- 😎 [Loạt văn phòng bầu cử Mỹ bị dọa đánh bom](https://vnexpress.net/loat-van-phong-bau-cu-my-bi-doa-danh-bom-4814131.html) - 09:09 09/11/2024
+- 🐲 [Đánh bom ga xe lửa ở Pakistan, ít nhất 24 người chết](https://vnexpress.net/danh-bom-ga-xe-lua-o-pakistan-it-nhat-24-nguoi-chet-4814102.html) - 07:35 09/11/2024
+- 💫 [Hàn Quốc cáo buộc Triều Tiên gây nhiễu tín hiệu GPS](https://vnexpress.net/han-quoc-cao-buoc-trieu-tien-gay-nhieu-tin-hieu-gps-4814090.html) - 07:14 09/11/2024
+- 👀 [Chuông Nhà thờ Đức Bà lần đầu ngân vang 5 năm sau vụ hỏa hoạn](https://vnexpress.net/chuong-nha-tho-duc-ba-lan-dau-ngan-vang-5-nam-sau-vu-hoa-hoan-4814040.html) - 04:38 09/11/2024<!-- vnexpress-the-gioi:END -->
