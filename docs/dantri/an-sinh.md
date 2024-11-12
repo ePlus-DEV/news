@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- dantri-an-sinh:START -->
-- 👺 [Xảy ra 28 vụ đuối nước cướp đi sinh mạng 35 trẻ em](https://dantri.com.vn/an-sinh/xay-ra-28-vu-duoi-nuoc-cuop-di-sinh-mang-35-tre-em-20241112101407531.htm) - 04:23 12/11/2024
+- 👺 [28 vụ đuối nước cướp đi sinh mạng 35 trẻ em](https://dantri.com.vn/an-sinh/28-vu-duoi-nuoc-cuop-di-sinh-mang-35-tre-em-20241112101407531.htm) - 04:23 12/11/2024
 - 👀 [Lén xem camera từ xa, cô gái bật khóc vì hành động của bố dượng](https://dantri.com.vn/an-sinh/len-xem-camera-tu-xa-co-gai-bat-khoc-vi-hanh-dong-cua-bo-duong-20241112002308950.htm) - 01:16 12/11/2024
 - 💡 [Chuyện đằng sau phong bì mừng cưới 60.000 đồng của hai bé trai ở Hà Nội](https://dantri.com.vn/an-sinh/chuyen-dang-sau-phong-bi-mung-cuoi-60000-dong-cua-hai-be-trai-o-ha-noi-20241111180607017.htm) - 23:00 11/11/2024
 - 💄 [Nghệ An giao gần 18.500m2 đất ở đô thị để xây dựng nhà ở xã hội](https://dantri.com.vn/an-sinh/nghe-an-giao-gan-18500m2-dat-o-do-thi-de-xay-dung-nha-o-xa-hoi-20241111121255315.htm) - 10:52 11/11/2024
