@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Bộ trưởng Thông tin và Truyền thông tiếp tục trả lời chất vấn](https://vnexpress.net/bo-truong-thong-tin-va-truyen-thong-tiep-tuc-tra-loi-chat-van-4815119.html) - 07:00 12/11/2024
 - 🤓 [Mỏi mắt tìm lao động hồi hương giỏi tiếng Hàn](https://vnexpress.net/moi-mat-tim-lao-dong-hoi-huong-gioi-tieng-han-4814844.html) - 03:15 12/11/2024
 - ⚗️ [5 bước thực hành kinh tế xanh, tuần hoàn trong nông nghiệp](https://vnexpress.net/5-buoc-thuc-hanh-kinh-te-xanh-tuan-hoan-trong-nong-nghiep-4814855.html) - 03:00 12/11/2024
-- 🌊 [Bộ trưởng Nguyễn Mạnh Hùng: Nền tảng xuyên biên giới không tuân thủ có thể bị dừng hoạt động](https://vnexpress.net/bo-truong-nguyen-manh-hung-nen-tang-xuyen-bien-gioi-khong-tuan-thu-co-the-bi-dung-hoat-dong-4814929.html) - 01:40 12/11/2024
+- 🌊 [Bộ trưởng Nguyễn Mạnh Hùng: Nền tảng xuyên biên giới không tuân thủ có thể bị dừng hoạt động](https://vnexpress.net/bo-truong-nguyen-manh-hung-nen-tang-xuyen-bien-gioi-khong-tuan-thu-co-the-bi-dung-hoat-dong-4814929-tong-thuat.html) - 01:40 12/11/2024
 - 🎓 [Bộ trưởng Y tế: Tăng mức xử phạt hành vi lừa đảo liên quan thực phẩm chức năng](https://vnexpress.net/bo-truong-y-te-tang-muc-xu-phat-hanh-vi-lua-dao-lien-quan-thuc-pham-chuc-nang-4814928.html) - 01:00 12/11/2024
 - 🔥 [Bão Toraji vào Biển Đông](https://vnexpress.net/bao-toraji-vao-bien-dong-4814865.html) - 00:52 12/11/2024
 - 🦏 [TP HCM &#39;hụt hơi&#39; khi người nhập cư rời đi](https://vnexpress.net/tp-hcm-hut-hoi-khi-nguoi-nhap-cu-roi-di-4811649.html) - 22:00 11/11/2024
