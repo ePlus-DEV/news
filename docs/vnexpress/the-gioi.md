@@ -8,7 +8,7 @@ sidebar_position: 2
 - 🕴 [Chính trị gia Nhật gây phẫn nộ vì nêu ý tưởng cấm phụ nữ sau 25 tuổi kết hôn](https://vnexpress.net/chinh-tri-gia-nhat-gay-phan-no-vi-neu-y-tuong-cam-phu-nu-sau-25-tuoi-ket-hon-4814985.html) - 04:31 12/11/2024
 - 🤭 [Ông Trump &#39;chọn cựu đặc nhiệm làm cố vấn an ninh quốc gia&#39;](https://vnexpress.net/ong-trump-chon-cuu-dac-nhiem-lam-co-van-an-ninh-quoc-gia-4814998.html) - 04:25 12/11/2024
 - 🧑‍💻 [Người Trung Quốc chê tiêm kích tàng hình Su-57 Nga](https://vnexpress.net/nguoi-trung-quoc-che-tiem-kich-tang-hinh-su-57-nga-4815048.html) - 04:12 12/11/2024
-- 🦏 [Tương lai 4 vụ truy tố sau khi ông Trump đắc cử](https://vnexpress.net/tuong-lai-4-vu-truy-to-sau-khi-ong-trump-dac-cu-4813572.html) - 04:00 12/11/2024
+- 🦏 [4 vụ truy tố sẽ ra sao sau khi ông Trump đắc cử](https://vnexpress.net/4-vu-truy-to-se-ra-sao-sau-khi-ong-trump-dac-cu-4813572.html) - 04:00 12/11/2024
 - 🦒 [Bộ trưởng Israel ra lệnh chuẩn bị sáp nhập một phần Bờ Tây](https://vnexpress.net/bo-truong-israel-ra-lenh-chuan-bi-sap-nhap-mot-phan-bo-tay-4814945.html) - 03:23 12/11/2024
 - 🌈 [Ukraine &#39;đối mặt hàng chục nghìn quân Nga&#39; trên khắp mặt trận](https://vnexpress.net/ukraine-doi-mat-hang-chuc-nghin-quan-nga-tren-khap-mat-tran-4814952.html) - 02:44 12/11/2024
 - 🧑‍🏫 [ICC điều tra công tố viên trưởng với cáo buộc lạm dụng tình dục](https://vnexpress.net/icc-dieu-tra-cong-to-vien-truong-voi-cao-buoc-lam-dung-tinh-duc-4814967.html) - 02:41 12/11/2024
