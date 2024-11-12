@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Thầy giáo trẻ nhất được Hà Nội vinh danh](https://vnexpress.net/thay-giao-tre-nhat-duoc-ha-noi-vinh-danh-4814364.html) - 23:00 11/11/2024
+- 🤓 [Thầy Quyết &#39;đồng nát&#39; được vinh danh](https://vnexpress.net/thay-quyet-dong-nat-duoc-vinh-danh-4814364.html) - 23:00 11/11/2024
 - 🦆 [Học Tự động hóa hay Điện tử viễn thông có tương lai hơn?](https://vnexpress.net/hoc-tu-dong-hoa-hay-dien-tu-vien-thong-co-tuong-lai-hon-4814353.html) - 16:59 11/11/2024
 - 🦩 [Ký ức của những nhà giáo đi B](https://vnexpress.net/ky-uc-cua-nhung-nha-giao-di-b-4814851.html) - 16:04 11/11/2024
 - 🌮 [Sông nào chảy qua nhiều nước Đông Nam Á nhất?](https://vnexpress.net/song-nao-chay-qua-nhieu-nuoc-dong-nam-a-nhat-4814823.html) - 13:00 11/11/2024
