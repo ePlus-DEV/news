@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Thủ tướng: Một số dự án nghìn tỷ &quot;đắp chiếu&quot; đã có lãi](https://dantri.com.vn/xa-hoi/thu-tuong-mot-so-du-an-nghin-ty-dap-chieu-da-co-lai-20241111224505617.htm) - 07:45 12/11/2024
+- 🎭 [Thủ tướng: Đang đề xuất khởi động lại dự án điện hạt nhân](https://dantri.com.vn/xa-hoi/thu-tuong-dang-de-xuat-khoi-dong-lai-du-an-dien-hat-nhan-20241111224505617.htm) - 07:45 12/11/2024
 - 👨‍🏫 [Khi sửa Luật Báo chí sẽ dành một mục quy định về kinh tế báo chí](https://dantri.com.vn/xa-hoi/khi-sua-luat-bao-chi-se-danh-mot-muc-quy-dinh-ve-kinh-te-bao-chi-20241112132858093.htm) - 07:06 12/11/2024
 - 🌮 [Sự trở lại của ông Trump và những kịch bản bất lợi với Ukraine](https://dantri.com.vn/the-gioi/su-tro-lai-cua-ong-trump-va-nhung-kich-ban-bat-loi-voi-ukraine-20241112132301917.htm) - 06:38 12/11/2024
 - 🕯 [Khi bộ trưởng đi thay kính cũng phải khai tên tuổi, nghề nghiệp, địa chỉ](https://dantri.com.vn/xa-hoi/khi-bo-truong-di-thay-kinh-cung-phai-khai-ten-tuoi-nghe-nghiep-dia-chi-20241112122148763.htm) - 06:03 12/11/2024
