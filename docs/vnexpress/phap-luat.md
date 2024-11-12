@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Hơn trăm người bị lừa cho vay tiền, bắt nộp phí](https://vnexpress.net/hon-tram-nguoi-bi-lua-cho-vay-tien-bat-nop-phi-4814866.html) - 17:00 11/11/2024
 - 🥰 [Nói sai thông tin về nhà đất, người môi giới có bị phạt?](https://vnexpress.net/noi-sai-thong-tin-ve-nha-dat-ben-moi-gioi-co-bi-xu-phat-khong-4813555.html) - 17:00 11/11/2024
 - 🎓 [Em trai kiện chị gái vì dọn dẹp phòng suốt đêm](https://vnexpress.net/em-trai-kien-chi-gai-vi-don-dep-phong-suot-dem-4814843.html) - 12:50 11/11/2024
-- 🤓 [Nỗ lực tìm chứng cứ vạch mặt kẻ hiếp dâm](https://vnexpress.net/cuoc-dau-tranh-cua-thieu-nu-to-cao-ga-bo-nuoi-hiep-dam-4814847.html) - 12:35 11/11/2024
+- 🤓 [Thiếu nữ tìm chứng cứ vạch mặt bố nuôi hiếp dâm](https://vnexpress.net/cuoc-dau-tranh-cua-thieu-nu-to-cao-ga-bo-nuoi-hiep-dam-4814847.html) - 12:35 11/11/2024
 - 🎊 [Hai phụ nữ bị bắt vì &#39;chạy án&#39; vụ buôn lậu hơn 700 viên kim cương](https://vnexpress.net/hai-phu-nu-bi-bat-vi-chay-an-vu-buon-lau-hon-700-vien-kim-cuong-4814838.html) - 11:12 11/11/2024
 - 🙉 [Đột nhập công ty xổ số để tráo bóng quay thưởng, gian lận kết quả](https://vnexpress.net/dot-nhap-cong-ty-xo-so-de-trao-bong-quay-thuong-gian-lan-ket-qua-4814673.html) - 07:32 11/11/2024
 - 🤡 [Đánh chết bạn, chở thi thể đến công an tự thú](https://vnexpress.net/danh-chet-ban-cho-thi-the-den-cong-an-tu-thu-4814627.html) - 06:09 11/11/2024
