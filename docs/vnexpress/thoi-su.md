@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Cựu giám đốc Sở GD&amp;amp;ĐT Thái Bình bị cách tất cả chức vụ trong Đảng](https://vnexpress.net/cuu-giam-doc-so-gd-dt-thai-binh-bi-cach-tat-ca-chuc-vu-trong-dang-4815214.html) - 09:02 12/11/2024
-- 🤓 [Thủ tướng: Chính phủ đề xuất tái khởi động dự án điện hạt nhân](https://vnexpress.net/thu-tuong-chinh-phu-de-xuat-tai-khoi-dong-du-an-dien-hat-nhan-4815158.html) - 08:02 12/11/2024
+- 🤓 [Chính phủ đề xuất tái khởi động dự án điện hạt nhân](https://vnexpress.net/chinh-phu-de-xuat-tai-khoi-dong-du-an-dien-hat-nhan-4815158.html) - 08:02 12/11/2024
 - ⚗️ [Bộ trưởng Nguyễn Mạnh Hùng: Mạng xã hội đã đóng thuế 20.000 tỷ đồng](https://vnexpress.net/bo-truong-nguyen-manh-hung-mang-xa-hoi-da-dong-thue-20-000-ty-dong-4815119.html) - 07:00 12/11/2024
 - 🌊 [Mỏi mắt tìm lao động hồi hương giỏi tiếng Hàn](https://vnexpress.net/moi-mat-tim-lao-dong-hoi-huong-gioi-tieng-han-4814844.html) - 03:15 12/11/2024
 - 🎓 [5 bước thực hành kinh tế xanh, tuần hoàn trong nông nghiệp](https://vnexpress.net/5-buoc-thuc-hanh-kinh-te-xanh-tuan-hoan-trong-nong-nghiep-4814855.html) - 03:00 12/11/2024
