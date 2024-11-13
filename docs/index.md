@@ -44,11 +44,11 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🪄 [Cách ăn dưa chuột giúp đầu bếp Nhật giảm 11 kg](https://vnexpress.net/cach-an-dua-chuot-giup-dau-bep-nhat-giam-11-kg-4815707.html) - 12:38 13/11/2024
 - 😎 [Kế độc thủ tiêu tình địch của người đàn bà yêu đơn phương](https://vnexpress.net/ke-doc-thu-tieu-tinh-dich-cua-nguoi-dan-ba-yeu-don-phuong-4815733.html) - 12:34 13/11/2024
 - 🎊 [Mỹ mở căn cứ phòng không ở Ba Lan](https://vnexpress.net/my-mo-can-cu-phong-khong-o-ba-lan-4815728.html) - 12:32 13/11/2024
-- ⚗️ [Các nước quản lý thời gian chơi game thế nào?](https://vnexpress.net/cac-nuoc-quan-ly-thoi-gian-choi-game-the-nao-4815604.html) - 12:00 13/11/2024
-- 🫣 [Hy vọng Tết này được dẫn anh về ra mắt](https://vnexpress.net/hy-vong-tet-nay-duoc-dan-anh-ve-ra-mat-4815400.html) - 12:00 13/11/2024
-- 👨‍🏫 [Cách lãnh đạo thế giới chuẩn bị thích ứng với nhiệm kỳ của ông Trump](https://vnexpress.net/cach-lanh-dao-the-gioi-chuan-bi-thich-ung-voi-nhiem-ky-cua-ong-trump-4815387.html) - 12:00 13/11/2024
-- 🐻 [Nhà máy năng lượng tái tạo lớn nhất thế giới](https://vnexpress.net/nha-may-nang-luong-tai-tao-lon-nhat-the-gioi-4815379.html) - 12:00 13/11/2024
-- 😺 [Cách mời và chia tiền ăn trong tiếng Anh](https://vnexpress.net/cach-moi-va-chia-tien-an-trong-tieng-anh-4815687.html) - 12:00 13/11/2024
+- ⚗️ [Cách mời và chia tiền ăn trong tiếng Anh](https://vnexpress.net/cach-moi-va-chia-tien-an-trong-tieng-anh-4815687.html) - 12:00 13/11/2024
+- 🫣 [Các nước quản lý thời gian chơi game thế nào?](https://vnexpress.net/cac-nuoc-quan-ly-thoi-gian-choi-game-the-nao-4815604.html) - 12:00 13/11/2024
+- 👨‍🏫 [Hy vọng Tết này được dẫn anh về ra mắt](https://vnexpress.net/hy-vong-tet-nay-duoc-dan-anh-ve-ra-mat-4815400.html) - 12:00 13/11/2024
+- 🐻 [Cách lãnh đạo thế giới chuẩn bị thích ứng với nhiệm kỳ của ông Trump](https://vnexpress.net/cach-lanh-dao-the-gioi-chuan-bi-thich-ung-voi-nhiem-ky-cua-ong-trump-4815387.html) - 12:00 13/11/2024
+- 😺 [Nhà máy năng lượng tái tạo lớn nhất thế giới](https://vnexpress.net/nha-may-nang-luong-tai-tao-lon-nhat-the-gioi-4815379.html) - 12:00 13/11/2024
 - 🤔 [Sự sáng tạo và nhân văn của sinh viên thế hệ mới](https://vnexpress.net/su-sang-tao-va-nhan-van-cua-sinh-vien-the-he-moi-4815720.html) - 12:00 13/11/2024
 - 🌮 [Lãng xương có di truyền không?](https://vnexpress.net/lang-xuong-co-di-truyen-khong-4815626.html) - 12:00 13/11/2024
 - 🦩 [Khu đô thị Sun Group Hà Nam dự kiến vượt tiến độ thi công](https://vnexpress.net/khu-do-thi-sun-group-ha-nam-du-kien-vuot-tien-do-thi-cong-4815452.html) - 12:00 13/11/2024
