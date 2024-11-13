@@ -4,7 +4,7 @@ sidebar_position: 22
 ---
 
 <!-- dantri-du-lich:START -->
-- 🥰 [Vì sao Bảo tàng Lịch sử Quân sự Việt Nam hút lượng khách &quot;không tưởng&quot;?](https://dantri.com.vn/du-lich/vi-sao-bao-tang-lich-su-quan-su-viet-nam-hut-luong-khach-khong-tuong-20241113104155279.htm) - 07:25 13/11/2024
+- 🥰 [Vì sao Bảo tàng Lịch sử Quân sự Việt Nam hút hàng vạn khách?](https://dantri.com.vn/du-lich/vi-sao-bao-tang-lich-su-quan-su-viet-nam-hut-hang-van-khach-20241113104155279.htm) - 07:25 13/11/2024
 - 🥰 [100.000 khách đạp xe 50km đi xuyên đêm ăn bánh bao, điểm đến... vỡ trận](https://dantri.com.vn/du-lich/100000-khach-dap-xe-50km-di-xuyen-dem-an-banh-bao-diem-den-vo-tran-20241112213950392.htm) - 23:01 12/11/2024
 - 🐻 [Cơm tấm &quot;bãi rác&quot; ở TPHCM: Gần 100.000 đồng/đĩa vì sao vẫn nườm nượp khách?](https://dantri.com.vn/du-lich/com-tam-bai-rac-o-tphcm-gan-100000-dongdia-vi-sao-van-nuom-nuop-khach-20241111201317372.htm) - 23:01 12/11/2024
 - 🤩 [Kiến nghị điều chỉnh hướng, giảm âm lượng loa phát thanh công cộng](https://dantri.com.vn/du-lich/kien-nghi-dieu-chinh-huong-giam-am-luong-loa-phat-thanh-cong-cong-20241112155557321.htm) - 14:47 12/11/2024
