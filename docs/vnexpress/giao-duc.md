@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Thủ khoa Răng Hàm Mặt thành &#39;Sinh viên của năm&#39; ở Y Hà Nội](https://vnexpress.net/thu-khoa-rang-ham-mat-thanh-sinh-vien-cua-nam-o-y-ha-noi-4815611.html) - 22:00 13/11/2024
+- 🤓 [Thủ khoa ngành Răng Hàm Mặt thành &#39;Sinh viên của năm&#39; ở Y Hà Nội](https://vnexpress.net/thu-khoa-nganh-rang-ham-mat-thanh-sinh-vien-cua-nam-o-y-ha-noi-4815611.html) - 22:00 13/11/2024
 - 🦆 [Muốn học ngành Môi trường nhưng sợ lương thấp](https://vnexpress.net/muon-hoc-nganh-moi-truong-nhung-so-luong-thap-4814883.html) - 16:59 13/11/2024
 - 🦩 [Người Việt đầu tiên chế tạo máy bay là ai?](https://vnexpress.net/nguoi-viet-dau-tien-che-tao-may-bay-la-ai-4815725.html) - 13:00 13/11/2024
 - 🌮 [Cách mời và chia tiền ăn trong tiếng Anh](https://vnexpress.net/cach-moi-va-chia-tien-an-trong-tieng-anh-4815687.html) - 12:00 13/11/2024
