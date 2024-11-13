@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [HLV Ten Hag từ chối công việc đầu tiên sau khi bị Man Utd sa thải](https://dantri.com.vn/the-thao/hlv-ten-hag-tu-choi-cong-viec-dau-tien-sau-khi-bi-man-utd-sa-thai-20241113172646481.htm) - 10:27 13/11/2024
+- 🎡 [HLV Ten Hag từ chối công việc đầu tiên sau khi bị Man Utd sa thải](https://dantri.com.vn/the-thao/hlv-ten-hag-tu-choi-cong-viec-dau-tien-sau-khi-bi-man-utd-sa-thai-20241113172646481.htm) - 11:10 13/11/2024
 - 💯 [Truyền thông Pháp: &quot;Mbappe đang gặp vấn đề về tâm thần&quot;](https://dantri.com.vn/the-thao/truyen-thong-phap-mbappe-dang-gap-van-de-ve-tam-than-20241113135048586.htm) - 08:07 13/11/2024
 - ⛽️ [Ai hưởng lợi khi HLV Ruben Amorim dẫn dắt Man Utd?](https://dantri.com.vn/the-thao/ai-huong-loi-khi-hlv-ruben-amorim-dan-dat-man-utd-20241113133716429.htm) - 06:36 13/11/2024
 - 💃 [Futsal Indonesia &quot;bơi trong tiền&quot; sau chiến thắng tuyển futsal Việt Nam](https://dantri.com.vn/the-thao/futsal-indonesia-boi-trong-tien-sau-chien-thang-tuyen-futsal-viet-nam-20241113124833270.htm) - 05:47 13/11/2024
