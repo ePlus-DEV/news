@@ -30,7 +30,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧰 [Em gái chồng muốn gửi hai con cho bố mẹ chồng tôi chăm sóc](https://vnexpress.net/em-gai-chong-muon-gui-hai-con-cho-bo-me-chong-toi-cham-soc-4815487.html) - 06:00 13/11/2024
 - 🥰 [Tâm sự của chàng trai cô đơn](https://vnexpress.net/tam-su-cua-chang-trai-co-don-4815395.html) - 06:00 13/11/2024
 - 🌏 [Chuyên gia chỉ cách tránh thất lạc hành lý khi bay](https://vnexpress.net/chuyen-gia-chi-cach-tranh-that-lac-hanh-ly-khi-bay-4815100.html) - 06:00 13/11/2024
-- 🧐 [Ôtô quá tải trọng làm sập cầu ở An Giang](https://vnexpress.net/oto-qua-tai-trong-lam-sap-cau-o-an-giang-4815556.html) - 05:45 13/11/2024
+- 🧐 [Ôtô quá trọng tải làm sập cầu ở An Giang](https://vnexpress.net/oto-qua-trong-tai-lam-sap-cau-o-an-giang-4815556.html) - 05:45 13/11/2024
 - 💫 [Tiểu thuyết du hành không gian thắng giải Booker 2024](https://vnexpress.net/tieu-thuyet-du-hanh-khong-gian-thang-giai-booker-2024-4815410.html) - 05:36 13/11/2024
 - 😺 [SpaceX tiếp tục phóng tên lửa Starship tuần tới](https://vnexpress.net/spacex-tiep-tuc-phong-ten-lua-starship-tuan-toi-4815445.html) - 05:35 13/11/2024
 - 🕯 [Chim gì nặng 10 kg?](https://vnexpress.net/chim-gi-nang-10-kg-4815446.html) - 05:15 13/11/2024
@@ -71,8 +71,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚦 [Djokovic: &#39;Tiền không phải động lực thi đấu&#39;](https://vnexpress.net/djokovic-tien-khong-phai-dong-luc-thi-dau-4815480.html) - 03:57 13/11/2024
 - 🕯 [Tỉnh nào Việt Nam có tên bắt đầu bằng chữ &#39;G&#39;?](https://vnexpress.net/tinh-nao-viet-nam-co-ten-bat-dau-bang-chu-g-4814587.html) - 03:49 13/11/2024
 - 💪 [Bỏ TP HCM về quê làm công nhân lương 10 triệu đồng](https://vnexpress.net/bo-tp-hcm-ve-que-lam-cong-nhan-luong-10-trieu-dong-4815475.html) - 03:39 13/11/2024
-- 🧑‍🏫 [Người Việt tụt 5 bậc về độ thông thạo tiếng Anh](https://vnexpress.net/nguoi-viet-tut-5-bac-ve-do-thong-thao-tieng-anh-4815354.html) - 03:28 13/11/2024
-- 🎓 [Nhóm quái xế mang &#39;dao phóng lợn&#39; diễu phố bị khởi tố](https://vnexpress.net/nhom-quai-xe-mang-dao-phong-lon-dieu-pho-bi-khoi-to-4815467.html) - 03:23 13/11/2024<!-- vnexpress:END -->
+- 🧑‍🏫 [Người Việt tụt 5 bậc về độ thông thạo tiếng Anh](https://vnexpress.net/nguoi-viet-tut-5-bac-ve-do-thong-thao-tieng-anh-4815354.html) - 03:28 13/11/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
