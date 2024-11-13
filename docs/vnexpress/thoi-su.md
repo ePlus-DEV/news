@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Tàu khách trật bánh khi qua Hà Tĩnh](https://vnexpress.net/tau-khach-trat-banh-khi-qua-ha-tinh-4815678.html) - 09:38 13/11/2024
 - ⚗️ [Đề xuất xây ba hồ trữ ngọt ở Tiền Giang](https://vnexpress.net/de-xuat-xay-ba-ho-tru-ngot-o-tien-giang-4815609.html) - 08:38 13/11/2024
 - 🌊 [Bộ trưởng Nguyễn Văn Thắng: Tàu 350 km/h trên đường sắt tốc độ cao chỉ dừng ở 5 ga](https://vnexpress.net/bo-truong-nguyen-van-thang-tau-350-km-h-tren-duong-sat-toc-do-cao-chi-dung-o-5-ga-4815563.html) - 07:58 13/11/2024
-- 🎓 [Hàng nghìn chậu cúc mâm xôi Tết bị vứt bỏ vì chậm ra hoa](https://vnexpress.net/hang-nghin-chau-cuc-mam-xoi-tet-bi-vut-bo-vi-cham-ra-hoa-4815416.html) - 07:48 13/11/2024
+- 🎓 [Nhà vườn nhổ bỏ cúc mâm xôi Tết vì chậm ra hoa](https://vnexpress.net/nha-vuon-nho-bo-cuc-mam-xoi-tet-vi-cham-ra-hoa-4815416.html) - 07:48 13/11/2024
 - 🔥 [Hàng loạt công sở, bệnh viện bỏ hoang ở Ninh Bình](https://vnexpress.net/hang-loat-cong-so-benh-vien-bo-hoang-o-ninh-binh-4815459.html) - 07:34 13/11/2024
 - 🦏 [Hải Phòng chi thêm tiền xây hạ tầng dự án trung tâm hành chính](https://vnexpress.net/hai-phong-chi-them-tien-xay-ha-tang-du-an-trung-tam-hanh-chinh-4814988.html) - 07:30 13/11/2024
 - 👺 [Ôtô quá trọng tải làm sập cầu ở An Giang](https://vnexpress.net/oto-qua-trong-tai-lam-sap-cau-o-an-giang-4815556.html) - 05:45 13/11/2024
