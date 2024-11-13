@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Ôtô quá tải trọng làm sập cầu ở An Giang](https://vnexpress.net/oto-qua-tai-trong-lam-sap-cau-o-an-giang-4815556.html) - 05:45 13/11/2024
+- 🦒 [Ôtô quá trọng tải làm sập cầu ở An Giang](https://vnexpress.net/oto-qua-trong-tai-lam-sap-cau-o-an-giang-4815556.html) - 05:45 13/11/2024
 - 🤓 [&#39;Việt Nam phải nắm công nghệ sản xuất đường sắt tốc độ cao&#39;](https://vnexpress.net/viet-nam-phai-nam-cong-nghe-san-xuat-duong-sat-toc-do-cao-4815525.html) - 05:12 13/11/2024
 - ⚗️ [9 cầu đi bộ nối ga Metro Bến Thành - Suối Tiên sau khi hoàn thành](https://vnexpress.net/9-cau-di-bo-noi-ga-metro-ben-thanh-suoi-tien-sau-khi-hoan-thanh-4812543.html) - 05:00 13/11/2024
 - 🌊 [Lốc xoáy làm tốc mái hàng chục căn nhà ở Quảng Ngãi](https://vnexpress.net/loc-xoay-lam-toc-mai-hang-chuc-can-nha-o-quang-ngai-4815444.html) - 03:09 13/11/2024
