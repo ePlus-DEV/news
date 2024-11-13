@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Người Việt tụt 5 bậc về độ thông thạo tiếng Anh](https://vnexpress.net/nguoi-viet-tut-5-bac-ve-do-thong-thao-tieng-anh-4815354.html) - 03:28 13/11/2024
-- 🦆 [5 ngành học dễ xin việc nhất ở Australia với du học sinh](https://vnexpress.net/5-nganh-hoc-de-xin-viec-nhat-o-australia-voi-du-hoc-sinh-4815358.html) - 00:00 13/11/2024
+- 🦆 [5 ngành dễ xin việc nhất ở Australia với du học sinh](https://vnexpress.net/5-nganh-de-xin-viec-nhat-o-australia-voi-du-hoc-sinh-4815358.html) - 00:00 13/11/2024
 - 🦩 [Thầy hiệu trưởng xin đổi hoa 20/11 lấy vở, sữa cho học sinh](https://vnexpress.net/thay-hieu-truong-xin-doi-hoa-20-11-lay-vo-sua-cho-hoc-sinh-4815352.html) - 22:59 12/11/2024
 - 🌮 [Nữ sinh 16 tuổi về nhì cuộc thi tiếng Trung lớn nhất thế giới](https://vnexpress.net/nu-sinh-16-tuoi-ve-nhi-cuoc-thi-tieng-trung-lon-nhat-the-gioi-4815159.html) - 17:00 12/11/2024
 - 🔭 [Vào đội tuyển Sinh nhưng không muốn học Y, Dược](https://vnexpress.net/vao-doi-tuyen-sinh-nhung-khong-muon-hoc-y-duoc-4813048.html) - 14:10 12/11/2024
