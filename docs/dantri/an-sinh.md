@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- dantri-an-sinh:START -->
-- 👺 [Tài xế tông bể đầu xe Porsche 21 tỷ đồng, phản ứng nữ chủ xe gây xôn xao](https://dantri.com.vn/an-sinh/tai-xe-tong-be-dau-xe-porsche-21-ty-dong-phan-ung-nu-chu-xe-gay-xon-xao-20241113100926280.htm) - 04:51 13/11/2024
+- 👺 [Chàng trai mồ côi cả bố lẫn mẹ viết đơn tình nguyện nhập ngũ](https://dantri.com.vn/an-sinh/chang-trai-mo-coi-ca-bo-lan-me-viet-don-tinh-nguyen-nhap-ngu-20241113113347984.htm) - 05:42 13/11/2024
 - 👀 [Phó Chủ tịch Cà Mau: Hộ nào đủ điều kiện xóa nhà tạm thì làm ngay](https://dantri.com.vn/an-sinh/pho-chu-tich-ca-mau-ho-nao-du-dieu-kien-xoa-nha-tam-thi-lam-ngay-20241112152508832.htm) - 02:09 13/11/2024
 - 💡 [Đôi vợ chồng không tổ chức đám cưới, lấy 90 triệu đồng làm từ thiện](https://dantri.com.vn/an-sinh/doi-vo-chong-khong-to-chuc-dam-cuoi-lay-90-trieu-dong-lam-tu-thien-20241111234452035.htm) - 02:00 13/11/2024
 - 💄 [Hơn nửa tháng sang Lào, Đội quy tập Nghệ An tìm thấy 9 hài cốt liệt sỹ](https://dantri.com.vn/an-sinh/hon-nua-thang-sang-lao-doi-quy-tap-nghe-an-tim-thay-9-hai-cot-liet-sy-20241112155029412.htm) - 23:00 12/11/2024
