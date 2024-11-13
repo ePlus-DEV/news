@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Ủy ban Kiểm tra Trung ương kết luận vi phạm của hàng loạt cán bộ](https://dantri.com.vn/xa-hoi/uy-ban-kiem-tra-trung-uong-ket-luan-vi-pham-cua-hang-loat-can-bo-20241113142326026.htm) - 10:11 13/11/2024
+- 🎭 [Đường sắt Bắc - Nam tê liệt vì tàu khách SE7 trật bánh khỏi đường ray](https://dantri.com.vn/xa-hoi/duong-sat-bac-nam-te-liet-vi-tau-khach-se7-trat-banh-khoi-duong-ray-20241113171531739.htm) - 10:41 13/11/2024
 - 👨‍🏫 [Ngày nắng lên sau bão: Tình đồng bào làm ấm, lành những vết đau](https://dantri.com.vn/tam-long-nhan-ai/ngay-nang-len-sau-bao-tinh-dong-bao-lam-am-lanh-nhung-vet-dau-20241111165550772.htm) - 10:02 13/11/2024
 - 🌮 [Truyền thông Pháp: &quot;Mbappe đang gặp vấn đề về tâm thần&quot;](https://dantri.com.vn/the-thao/truyen-thong-phap-mbappe-dang-gap-van-de-ve-tam-than-20241113135048586.htm) - 08:07 13/11/2024
 - 🕯 [Tổng thống đắc cử Trump đến Nhà Trắng để bàn chuyển giao quyền lực](https://dantri.com.vn/the-gioi/tong-thong-dac-cu-trump-den-nha-trang-de-ban-chuyen-giao-quyen-luc-20241113141243224.htm) - 07:57 13/11/2024
