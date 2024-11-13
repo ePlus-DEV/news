@@ -11,7 +11,7 @@ sidebar_position: 1
 - 🕯 [Ông Đặng Khánh Toàn làm Bí thư Tỉnh ủy Nam Định](https://dantri.com.vn/xa-hoi/ong-dang-khanh-toan-lam-bi-thu-tinh-uy-nam-dinh-20241113182324870.htm) - 11:42 13/11/2024
 - 👍 [Đường sắt Bắc - Nam tê liệt vì tàu khách SE7 trật bánh khỏi đường ray](https://dantri.com.vn/xa-hoi/duong-sat-bac-nam-te-liet-vi-tau-khach-se7-trat-banh-khoi-duong-ray-20241113171531739.htm) - 10:41 13/11/2024
 - 🤖 [Hàng trăm người mua đất dự án thu nhập thấp hơn 13 năm vẫn chưa có sổ](https://dantri.com.vn/xa-hoi/hang-tram-nguoi-mua-dat-du-an-thu-nhap-thap-hon-13-nam-van-chua-co-so-20241113161146376.htm) - 10:35 13/11/2024
-- 🙉 [Chủ tịch VCCI Phạm Tấn Công và 3 cấp phó bị kỷ luật](https://dantri.com.vn/xa-hoi/chu-tich-vcci-pham-tan-cong-va-3-cap-pho-bi-ky-luat-20241113170257413.htm) - 10:21 13/11/2024
+- 🙉 [Chủ tịch VCCI và 3 cấp phó bị kỷ luật](https://dantri.com.vn/xa-hoi/chu-tich-vcci-va-3-cap-pho-bi-ky-luat-20241113170257413.htm) - 10:21 13/11/2024
 - 👍 [Đề nghị kỷ luật nguyên Bộ trưởng GTVT Nguyễn Văn Thể](https://dantri.com.vn/xa-hoi/de-nghi-ky-luat-nguyen-bo-truong-gtvt-nguyen-van-the-20241113143354798.htm) - 10:18 13/11/2024
 - 🗽 [Ủy ban Kiểm tra Trung ương kết luận vi phạm của hàng loạt cán bộ](https://dantri.com.vn/xa-hoi/uy-ban-kiem-tra-trung-uong-ket-luan-vi-pham-cua-hang-loat-can-bo-20241113142326026.htm) - 10:11 13/11/2024
 - 🗽 [Xuất hiện 7 sổ đỏ tư nhân trên phần đất Trại giam Đại Bình](https://dantri.com.vn/xa-hoi/xuat-hien-7-so-do-tu-nhan-tren-phan-dat-trai-giam-dai-binh-20241113161949974.htm) - 09:57 13/11/2024
