@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Philippines có thể tuân thủ nếu Interpol muốn bắt ông Duterte](https://vnexpress.net/philippines-co-the-tuan-thu-neu-interpol-muon-bat-ong-duterte-4815695.html) - 14:05 13/11/2024
+- 🎬 [Philippines sẽ tuân thủ nếu Interpol muốn bắt ông Duterte](https://vnexpress.net/philippines-se-tuan-thu-neu-interpol-muon-bat-ong-duterte-4815695.html) - 14:05 13/11/2024
 - 🐎 [Thu nhập bằng tôi nhưng chồng không chịu làm việc nhà](https://vnexpress.net/thu-nhap-bang-toi-nhung-chong-khong-chiu-lam-viec-nha-4815640.html) - 14:00 13/11/2024
 - 🦍 [Tìm cô gái chân thành và thủy chung](https://vnexpress.net/tim-co-gai-chan-thanh-va-thuy-chung-4815407.html) - 14:00 13/11/2024
 - 🏊 [FPT mở &#39;nhà máy&#39; AI tại Nhật Bản](https://vnexpress.net/fpt-mo-nha-may-ai-tai-nhat-ban-4815736.html) - 13:59 13/11/2024
@@ -22,11 +22,11 @@ sidebar_position: 9
 - 🌁 [Cách ăn dưa chuột giúp đầu bếp Nhật giảm 11 kg](https://vnexpress.net/cach-an-dua-chuot-giup-dau-bep-nhat-giam-11-kg-4815707.html) - 12:38 13/11/2024
 - 🐲 [Kế độc thủ tiêu tình địch của người đàn bà yêu đơn phương](https://vnexpress.net/ke-doc-thu-tieu-tinh-dich-cua-nguoi-dan-ba-yeu-don-phuong-4815733.html) - 12:34 13/11/2024
 - 🤓 [Mỹ mở căn cứ phòng không ở Ba Lan](https://vnexpress.net/my-mo-can-cu-phong-khong-o-ba-lan-4815728.html) - 12:32 13/11/2024
-- 💪 [Các nước quản lý thời gian chơi game thế nào?](https://vnexpress.net/cac-nuoc-quan-ly-thoi-gian-choi-game-the-nao-4815604.html) - 12:00 13/11/2024
-- 🎓 [Hy vọng Tết này được dẫn anh về ra mắt](https://vnexpress.net/hy-vong-tet-nay-duoc-dan-anh-ve-ra-mat-4815400.html) - 12:00 13/11/2024
-- 🫣 [Cách lãnh đạo thế giới chuẩn bị thích ứng với nhiệm kỳ của ông Trump](https://vnexpress.net/cach-lanh-dao-the-gioi-chuan-bi-thich-ung-voi-nhiem-ky-cua-ong-trump-4815387.html) - 12:00 13/11/2024
-- 🧑‍💻 [Nhà máy năng lượng tái tạo lớn nhất thế giới](https://vnexpress.net/nha-may-nang-luong-tai-tao-lon-nhat-the-gioi-4815379.html) - 12:00 13/11/2024
-- 🐲 [Cách mời và chia tiền ăn trong tiếng Anh](https://vnexpress.net/cach-moi-va-chia-tien-an-trong-tieng-anh-4815687.html) - 12:00 13/11/2024
+- 💪 [Cách mời và chia tiền ăn trong tiếng Anh](https://vnexpress.net/cach-moi-va-chia-tien-an-trong-tieng-anh-4815687.html) - 12:00 13/11/2024
+- 🎓 [Các nước quản lý thời gian chơi game thế nào?](https://vnexpress.net/cac-nuoc-quan-ly-thoi-gian-choi-game-the-nao-4815604.html) - 12:00 13/11/2024
+- 🫣 [Hy vọng Tết này được dẫn anh về ra mắt](https://vnexpress.net/hy-vong-tet-nay-duoc-dan-anh-ve-ra-mat-4815400.html) - 12:00 13/11/2024
+- 🧑‍💻 [Cách lãnh đạo thế giới chuẩn bị thích ứng với nhiệm kỳ của ông Trump](https://vnexpress.net/cach-lanh-dao-the-gioi-chuan-bi-thich-ung-voi-nhiem-ky-cua-ong-trump-4815387.html) - 12:00 13/11/2024
+- 🐲 [Nhà máy năng lượng tái tạo lớn nhất thế giới](https://vnexpress.net/nha-may-nang-luong-tai-tao-lon-nhat-the-gioi-4815379.html) - 12:00 13/11/2024
 - 🌝 [Sự sáng tạo và nhân văn của sinh viên thế hệ mới](https://vnexpress.net/su-sang-tao-va-nhan-van-cua-sinh-vien-the-he-moi-4815720.html) - 12:00 13/11/2024
 - 😺 [Lãng xương có di truyền không?](https://vnexpress.net/lang-xuong-co-di-truyen-khong-4815626.html) - 12:00 13/11/2024
 - 🐎 [Khu đô thị Sun Group Hà Nam dự kiến vượt tiến độ thi công](https://vnexpress.net/khu-do-thi-sun-group-ha-nam-du-kien-vuot-tien-do-thi-cong-4815452.html) - 12:00 13/11/2024
