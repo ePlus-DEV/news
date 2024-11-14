@@ -148,7 +148,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
 - 🤠 [Dòng người tập trung về Tây Ninh dự lễ 100 năm thành lập đạo Cao Đài](https://thanhnien.vn/dong-nguoi-tap-trung-ve-tay-ninh-du-le-100-nam-thanh-lap-dao-cao-dai-185241114204720793.htm) - 15:21 14/11/2024
-- 🥸 [Vụ Xuân Nam bị đánh rách môi, chảy máu: Sẽ trích xuất camera sân Thống Nhất](https://thanhnien.vn/vu-xuan-nam-bi-danh-rach-moi-chay-mau-se-trich-xuat-camera-san-thong-nhat-185241114221059351.htm) - 15:13 14/11/2024
+- 🥸 [PVF-CAND ‘Xuân Nam bị đánh’, HLV Trẻ T.HCM ‘Xuân Nam khiêu khích trước’](https://thanhnien.vn/vu-xuan-nam-bi-danh-rach-moi-chay-mau-se-trich-xuat-camera-san-thong-nhat-185241114221059351.htm) - 15:13 14/11/2024
 - 🌁 [Nối bàn tay đứt rời cho nữ bệnh nhân](https://thanhnien.vn/noi-ban-tay-dut-roi-cho-nu-benh-nhan-185241114210548737.htm) - 15:13 14/11/2024
 - 🤡 [Bảng xếp hạng vòng 8 V-League: HAGL bị lấy mất tốp 3, Bình Dương tụt dốc](https://thanhnien.vn/bang-xep-hang-vong-8-v-league-hagl-bi-lay-mat-top-3-binh-duong-tut-doc-185241114203454022.htm) - 14:57 14/11/2024
 - 🎉 [Thực hư vụ Xuân Nam bị đánh đến đổ máu ngay trước phòng thay đồ](https://thanhnien.vn/xuan-nam-bi-danh-den-do-mau-ngay-truoc-phong-thay-do-pvf-cand-to-doi-phuong-185241114215033425.htm) - 14:54 14/11/2024
