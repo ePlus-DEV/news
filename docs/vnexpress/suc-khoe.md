@@ -14,7 +14,7 @@ sidebar_position: 10
 - 👀 [Có nên chạy bộ buổi tối?](https://vnexpress.net/co-nen-chay-bo-buoi-toi-4815629.html) - 17:02 13/11/2024
 - 🌋 [Vì sao cần phòng muỗi đốt sau tiêm ngừa sốt xuất huyết?](https://vnexpress.net/vi-sao-can-phong-muoi-dot-sau-tiem-ngua-sot-xuat-huyet-4815716.html) - 13:00 13/11/2024
 - 🫶 [Cách ăn dưa chuột giúp đầu bếp Nhật giảm 11 kg](https://vnexpress.net/cach-an-dua-chuot-giup-dau-bep-nhat-giam-11-kg-4815707.html) - 12:38 13/11/2024
-- 🦆 [Lãng xương có di truyền không?](https://vnexpress.net/lang-xuong-co-di-truyen-khong-4815626.html) - 12:00 13/11/2024
+- 🦆 [Loãng xương có di truyền không?](https://vnexpress.net/loang-xuong-co-di-truyen-khong-4815626.html) - 12:00 13/11/2024
 - 🚀 [Những dưỡng chất giúp trẻ phát triển tối ưu](https://vnexpress.net/nhung-duong-chat-giup-tre-phat-trien-toi-uu-4815585.html) - 11:30 13/11/2024
 - 🌜 [Tài xế đột quỵ khi đang lái xe](https://vnexpress.net/tai-xe-dot-quy-khi-dang-lai-xe-4815709.html) - 10:13 13/11/2024
 - 🧰 [5 thói quen thúc đẩy ung thư](https://vnexpress.net/5-thoi-quen-thuc-day-ung-thu-4815550.html) - 09:30 13/11/2024
