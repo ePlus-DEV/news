@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Tài xế nghi say xỉn lái ôtô tông loạt xe máy](https://vnexpress.net/tai-xe-nghi-say-xin-lai-oto-tong-loat-xe-may-4816202.html) - 18:18 14/11/2024
+- 🎬 [Người đàn ông nghi say xỉn lái ôtô tông loạt xe máy](https://vnexpress.net/nguoi-dan-ong-nghi-say-xin-lai-oto-tong-loat-xe-may-4816202.html) - 18:18 14/11/2024
 - 🐎 [Ukraine tuyên bố chặn đơn vị Nga tại thành phố đầu mối Kupyansk](https://vnexpress.net/ukraine-tuyen-bo-chan-don-vi-nga-tai-thanh-pho-dau-moi-kupyansk-4816170.html) - 17:13 14/11/2024
 - 🦍 [Chuyển gần 58 ha đất rừng làm khu du lịch ở Bãi Thơm, Phú Quốc](https://vnexpress.net/chuyen-gan-58-ha-dat-rung-lam-khu-du-lich-o-bai-thom-phu-quoc-4816138.html) - 17:11 14/11/2024
 - 🏊 [Bệnh lưỡi bản đồ](https://vnexpress.net/benh-luoi-ban-do-4808366.html) - 17:03 14/11/2024
