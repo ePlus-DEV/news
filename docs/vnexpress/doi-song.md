@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Những người trẻ đi bar để &#39;cày deadline&#39;](https://vnexpress.net/nhung-nguoi-tre-di-bar-de-cay-deadline-4815342.html) - 23:00 13/11/2024
+- 🚀 [Những người trẻ đi bar để làm việc](https://vnexpress.net/nhung-nguoi-tre-di-bar-de-lam-viec-4815342.html) - 23:00 13/11/2024
 - 🎓 [Cách nuôi dạy con thành tài của ông Donald Trump](https://vnexpress.net/cach-nuoi-day-con-thanh-tai-cua-ong-donald-trump-4815658.html) - 17:45 13/11/2024
 - 🚦 [Cách pha nước mắm chua ngọt](https://vnexpress.net/cach-pha-nuoc-mam-cham-4815587.html) - 11:00 13/11/2024
 - 🦣 [7 lý do khiến bạn ngày càng nghèo](https://vnexpress.net/7-ly-do-khien-ban-ngay-cang-ngheo-4815079.html) - 08:46 13/11/2024
