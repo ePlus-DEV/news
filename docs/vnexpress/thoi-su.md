@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Tài xế nghi say xỉn lái ôtô tông loạt xe máy](https://vnexpress.net/tai-xe-nghi-say-xin-lai-oto-tong-loat-xe-may-4816202.html) - 18:18 14/11/2024
+- 🦒 [Người đàn ông nghi say xỉn lái ôtô tông loạt xe máy](https://vnexpress.net/nguoi-dan-ong-nghi-say-xin-lai-oto-tong-loat-xe-may-4816202.html) - 18:18 14/11/2024
 - 🤓 [Đề xuất làm trên cao 3 trục đường cửa ngõ TP HCM](https://vnexpress.net/de-xuat-lam-tren-cao-3-truc-duong-cua-ngo-tp-hcm-4816165.html) - 17:00 14/11/2024
 - ⚗️ [Đồng Tháp làm đường rộng 40 m tới làng hoa Sa Đéc](https://vnexpress.net/dong-thap-lam-duong-rong-40-m-toi-lang-hoa-sa-dec-4816122.html) - 17:00 14/11/2024
 - 🌊 [Phân vân đóng bảo hiểm tự nguyện ở tuổi trung niên](https://vnexpress.net/phan-van-dong-bao-hiem-tu-nguyen-o-tuoi-trung-nien-4813411.html) - 17:00 14/11/2024
