@@ -150,7 +150,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
 - 🤠 [Lịch thi đấu V-League hôm nay: HAGL gặp khó, &#39;tướng&#39; mới SLNA xuất trận](https://thanhnien.vn/lich-thi-dau-v-league-hom-nay-hagl-gap-kho-tuong-moi-slna-xuat-tran-185241115001838628.htm) - 17:44 14/11/2024
-- 🥸 [Vụ Xuân Nam và Văn Sơn đánh nhau đổ máu: Ban kỷ luật VFF nhận hồ sơ](https://thanhnien.vn/vu-xuan-nam-va-van-son-danh-nhau-do-mau-ban-ky-luat-vff-nhan-ho-so-185241115001638408.htm) - 17:37 14/11/2024
+- 🥸 [Vụ Xuân Nam và Văn Sơn đánh nhau đổ máu: Ban kỷ luật VFF vào cuộc](https://thanhnien.vn/vu-xuan-nam-va-van-son-danh-nhau-do-mau-ban-ky-luat-vff-nhan-ho-so-185241115001638408.htm) - 17:37 14/11/2024
 - 🌁 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 15.11.2024](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-15112024-185241112225648117.htm) - 17:22 14/11/2024
 - 🤡 [Highlight CLB Hà Nội 1-0 CLB Bình Dương | Vòng 8 V-League 2024-2025](https://thanhnien.vn/highlight-clb-ha-noi-1-0-clb-binh-duong-vong-8-v-league-2024-2025-185241115001419603.htm) - 17:14 14/11/2024
 - 🎉 [Highlight CLB Bình Định 1-0 CLB Hải Phòng | Vòng 8 V-League 2024-2025](https://thanhnien.vn/highlight-clb-binh-dinh-1-0-clb-hai-phong-vong-8-v-league-2024-2025-18524111500124447.htm) - 17:12 14/11/2024
