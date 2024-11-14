@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [4 CLB &quot;đánh hội đồng&quot;, yêu cầu Man City bồi thường hàng trăm triệu bảng](https://dantri.com.vn/the-thao/4-clb-danh-hoi-dong-yeu-cau-man-city-boi-thuong-hang-tram-trieu-bang-20241114130850377.htm) - 06:08 14/11/2024
+- 🎡 [4 CLB &quot;đánh hội đồng&quot;, yêu cầu Man City bồi thường hàng trăm triệu bảng](https://dantri.com.vn/the-thao/4-clb-danh-hoi-dong-yeu-cau-man-city-boi-thuong-hang-tram-trieu-bang-20241114130850377.htm) - 08:08 14/11/2024
 - 💯 [Vừa rời Man Utd, Van Nistelrooy đã nhận được đề nghị làm HLV](https://dantri.com.vn/the-thao/vua-roi-man-utd-van-nistelrooy-da-nhan-duoc-de-nghi-lam-hlv-20241114120223687.htm) - 05:02 14/11/2024
 - ⛽️ [Trọng tài Anh gây sốc khi hít bột trắng ở Euro 2024](https://dantri.com.vn/the-thao/trong-tai-anh-gay-soc-khi-hit-bot-trang-o-euro-2024-20241114111719922.htm) - 04:16 14/11/2024
 - 💃 [HLV Amorim lần đầu gặp gỡ các ngôi sao của Man Utd](https://dantri.com.vn/the-thao/hlv-amorim-lan-dau-gap-go-cac-ngoi-sao-cua-man-utd-20241114080453097.htm) - 01:34 14/11/2024
