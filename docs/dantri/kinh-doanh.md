@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- dantri-kinh-doanh:START -->
 - 🏊 [Chuyên gia: Doanh nghiệp nhỏ và vừa ở Mỹ cũng gặp khó với báo cáo ESG](https://dantri.com.vn/kinh-doanh/chuyen-gia-doanh-nghiep-nho-va-vua-o-my-cung-gap-kho-voi-bao-cao-esg-20241115190624995.htm) - 13:26 15/11/2024
 - 🦆 [Người trẻ học cách đầu tư từ lời khuyên của chuyên gia](https://dantri.com.vn/kinh-doanh/nguoi-tre-hoc-cach-dau-tu-tu-loi-khuyen-cua-chuyen-gia-20241115183338544.htm) - 12:37 15/11/2024
-- 🦄 [Ứng xử với thuốc lá mới: Ra nghị quyết để thí điểm quản lý hoặc sửa luật để cấm.](https://dantri.com.vn/kinh-doanh/ung-xu-voi-thuoc-la-moi-ra-nghi-quyet-de-thi-diem-quan-ly-hoac-sua-luat-de-cam-20241115182602643.htm) - 11:55 15/11/2024
+- 🦄 [Ứng xử với thuốc lá mới: Ra nghị quyết để thí điểm quản lý hoặc sửa luật để cấm](https://dantri.com.vn/kinh-doanh/ung-xu-voi-thuoc-la-moi-ra-nghi-quyet-de-thi-diem-quan-ly-hoac-sua-luat-de-cam-20241115182602643.htm) - 11:55 15/11/2024
 - 🌝 [Tìm cách tăng diện tích trồng sâm ở Việt Nam lên 21.000ha](https://dantri.com.vn/kinh-doanh/tim-cach-tang-dien-tich-trong-sam-o-viet-nam-len-21000ha-20241115143838455.htm) - 11:41 15/11/2024
 - 💃 [Tỉnh Bình Định và Vingroup ký thỏa thuận hợp tác về chuyển đổi xanh](https://dantri.com.vn/kinh-doanh/tinh-binh-dinh-va-vingroup-ky-thoa-thuan-hop-tac-ve-chuyen-doi-xanh-20241115164359566.htm) - 10:46 15/11/2024
 - 🦏 [Nên mua hay bán vàng?](https://dantri.com.vn/kinh-doanh/nen-mua-hay-ban-vang-20241115100502051.htm) - 09:43 15/11/2024
