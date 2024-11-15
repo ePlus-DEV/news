@@ -55,4 +55,5 @@ sidebar_position: 9
 - 🏊 [Triệu chứng cảm lạnh từ nhẹ đến nặng](https://vnexpress.net/trieu-chung-cam-lanh-tu-nhe-den-nang-4816380.html) - 10:00 15/11/2024
 - 🦩 [Sacombank hoàn tiền, giảm giá khi dùng thẻ dịp cuối năm](https://vnexpress.net/sacombank-hoan-tien-giam-gia-khi-dung-the-dip-cuoi-nam-4816491.html) - 09:50 15/11/2024
 - 👍 [Napas ưu đãi mua sắm khi du lịch Hàn Quốc](https://vnexpress.net/napas-uu-dai-mua-sam-khi-du-lich-han-quoc-4816492.html) - 09:45 15/11/2024
-- 🔥 [CGM - &#39;trợ thủ đắc lực&#39; trong quản lý đái tháo đường](https://vnexpress.net/cgm-tro-thu-dac-luc-trong-quan-ly-dai-thao-duong-4810212.html) - 09:45 15/11/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🔥 [CGM - &#39;trợ thủ đắc lực&#39; trong quản lý đái tháo đường](https://vnexpress.net/cgm-tro-thu-dac-luc-trong-quan-ly-dai-thao-duong-4810212.html) - 09:45 15/11/2024
+- 💄 [Sacombank trao thưởng ôtô Vinfast cho khách hàng](https://vnexpress.net/sacombank-trao-thuong-oto-vinfast-cho-khach-hang-4816510.html) - 09:40 15/11/2024<!-- vnexpress-tin-moi-nhat:END -->
