@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Treo giò 4 trận Xuân Nam, Văn Sơn, trưởng đoàn PVF-CAND bị phạt nặng](https://dantri.com.vn/the-thao/treo-gio-4-tran-xuan-nam-van-son-truong-doan-pvf-cand-bi-phat-nang-20241115161955758.htm) - 09:07 15/11/2024
+- 🎡 [Xuân Nam, Văn Sơn bị treo giò 4 trận, trưởng đoàn PVF-CAND bị phạt nặng](https://dantri.com.vn/the-thao/xuan-nam-van-son-bi-treo-gio-4-tran-truong-doan-pvf-cand-bi-phat-nang-20241115161955758.htm) - 09:07 15/11/2024
 - 💯 [Lionel Messi chỉ thẳng mặt, chửi bới trọng tài trong trận đấu cực tệ](https://dantri.com.vn/the-thao/lionel-messi-chi-thang-mat-chui-boi-trong-tai-trong-tran-dau-cuc-te-20241115132804085.htm) - 06:28 15/11/2024
 - ⛽️ [Báo chí thế giới dự đoán kết quả trận Indonesia vs Nhật Bản](https://dantri.com.vn/the-thao/bao-chi-the-gioi-du-doan-ket-qua-tran-indonesia-vs-nhat-ban-20241115115917838.htm) - 06:01 15/11/2024
 - 💃 [Thần đồng pickleball gốc Việt nhảy lên vị trí thứ 4 thế giới](https://dantri.com.vn/the-thao/than-dong-pickleball-goc-viet-nhay-len-vi-tri-thu-4-the-gioi-20241115125808253.htm) - 05:57 15/11/2024
