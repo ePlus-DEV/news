@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Trình diễn giải pháp bền vững ngành lúa gạo tại Mekong Startup 2024](https://vnexpress.net/trinh-dien-giai-phap-ben-vung-nganh-lua-gao-tai-mekong-startup-2024-4816377.html) - 09:00 15/11/2024
 - ⚗️ [Đề xuất khám chữa bệnh tại nhà được thanh toán bảo hiểm y tế](https://vnexpress.net/de-xuat-kham-chua-benh-tai-nha-duoc-thanh-toan-bao-hiem-y-te-4816415.html) - 08:35 15/11/2024
 - 🌊 [ACV bố trí đủ vốn làm đường băng thứ 2 sân bay Long Thành](https://vnexpress.net/acv-bo-tri-du-von-lam-duong-bang-thu-2-san-bay-long-thanh-4816472.html) - 08:19 15/11/2024
-- 🎓 [PGS Lê Minh Thông: &#39;Cần cách mạng về tổ chức bộ máy&#39;](https://vnexpress.net/pgs-le-minh-thong-can-cach-mang-ve-to-chuc-bo-may-4816464.html) - 07:44 15/11/2024
+- 🎓 [&#39;Thông điệp về kỷ nguyên mới của Tổng Bí thư là lời hiệu triệu&#39;](https://vnexpress.net/thong-diep-ve-ky-nguyen-moi-cua-tong-bi-thu-la-loi-hieu-trieu-4816464.html) - 07:44 15/11/2024
 - 🔥 [&#39;Chính quyền khó cạnh tranh nhân lực IT với doanh nghiệp&#39;](https://vnexpress.net/chinh-quyen-kho-canh-tranh-nhan-luc-it-voi-doanh-nghiep-4816437.html) - 07:00 15/11/2024
 - 🦏 [Ôtô cháy rụi bên đèo Con Ó](https://vnexpress.net/chay-oto-4816432.html) - 05:55 15/11/2024
 - 👺 [Tòa thánh Tây Ninh - công trình trăm năm của đạo Cao Đài](https://vnexpress.net/toa-thanh-tay-ninh-cong-trinh-tram-nam-cua-dao-cao-dai-4815774.html) - 05:35 15/11/2024
