@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Trực tiếp vòng loại ba World Cup 2026: Indonesia - Nhật Bản](https://vnexpress.net/truc-tiep-vong-loai-ba-world-cup-2026-indonesia-nhat-ban-4816609.html) - 11:11 15/11/2024
+- 🪜 [Indonesia 0-0 Nhật Bản &lpar;H1&rpar;: &#39;Samurai xanh&#39; liên tục sút xa](https://vnexpress.net/indonesia-0-0-nhat-ban-h1-samurai-xanh-lien-tuc-sut-xa-4816609.html) - 11:11 15/11/2024
 - 🦩 [Hai cầu thủ hạng Nhất đánh nhau bị cấm 4 trận](https://vnexpress.net/hai-cau-thu-hang-nhat-danh-nhau-bi-cam-4-tran-4816523.html) - 09:00 15/11/2024
 - 🧰 [Tay vợt Mỹ lỗ nặng vì nổi nóng ở Thượng Hải](https://vnexpress.net/tay-vot-my-lo-nang-vi-noi-nong-o-thuong-hai-4816503.html) - 08:18 15/11/2024
 - 🤗 [Messi chỉ mặt, quát trọng tài ở vòng loại World Cup](https://vnexpress.net/messi-chi-mat-quat-trong-tai-o-vong-loai-world-cup-4816471.html) - 08:15 15/11/2024
