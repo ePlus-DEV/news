@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Hà Tĩnh hạ HAGL ở V-League](https://vnexpress.net/ha-tinh-ha-hagl-o-v-league-4816641.html) - 14:05 15/11/2024
 - 🦩 [Bị VAR hủy hai phạt đền, Quảng Nam đòi bỏ trận V-League](https://vnexpress.net/bi-var-huy-hai-phat-den-quang-nam-doi-bo-tran-v-league-4816637.html) - 13:20 15/11/2024
-- 🧰 [Indonesia thảm bại trước Nhật Bản](https://vnexpress.net/indonesia-tham-bai-truoc-nhat-ban-4816609.html) - 11:11 15/11/2024
+- 🧰 [Indonesia thảm bại trước Nhật Bản](https://vnexpress.net/indonesia-tham-bai-truoc-nhat-ban-4816609-tong-thuat.html) - 11:11 15/11/2024
 - 🤗 [Hai cầu thủ hạng Nhất đánh nhau bị cấm 4 trận](https://vnexpress.net/hai-cau-thu-hang-nhat-danh-nhau-bi-cam-4-tran-4816523.html) - 09:00 15/11/2024
 - 🥳 [Tay vợt Mỹ lỗ nặng vì nổi nóng ở Thượng Hải](https://vnexpress.net/tay-vot-my-lo-nang-vi-noi-nong-o-thuong-hai-4816503.html) - 08:18 15/11/2024
 - 🦣 [Messi chỉ mặt, quát trọng tài ở vòng loại World Cup](https://vnexpress.net/messi-chi-mat-quat-trong-tai-o-vong-loai-world-cup-4816471.html) - 08:15 15/11/2024
