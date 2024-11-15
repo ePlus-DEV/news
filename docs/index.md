@@ -31,7 +31,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥰 [Dùng bẫy cũ dụ người mới trong chiêu trò lừa đảo đa cấp](https://vnexpress.net/dung-bay-cu-du-nguoi-moi-trong-chieu-tro-lua-dao-da-cap-4815022.html) - 23:00 15/11/2024
 - 🌏 [Phó chủ tịch Quảng Trị: &#39;Con người là điểm nghẽn của thể chế&#39;](https://vnexpress.net/pho-chu-tich-quang-tri-con-nguoi-la-diem-nghen-cua-the-che-4813251.html) - 23:00 15/11/2024
 - 🧐 [Cha đẻ game online Trung Quốc thành siêu địa chủ ở Mỹ](https://vnexpress.net/cha-de-game-online-trung-quoc-thanh-sieu-dia-chu-o-my-4816185.html) - 22:30 15/11/2024
-- 💫 [Hiện trạng Tòa thánh Tây Ninh sau gần 100 năm xây dựng](https://vnexpress.net/hien-trang-toa-thanh-tay-ninh-sau-gan-100-nam-xay-dung-4816661.html) - 22:00 15/11/2024
+- 💫 [Tòa thánh Tây Ninh gần 100 năm trước](https://vnexpress.net/toa-thanh-tay-ninh-gan-100-nam-truoc-4816661.html) - 22:00 15/11/2024
 - 😺 [Chở trẻ em trên ôtô không có thiết bị an toàn có thể bị phạt 1 triệu đồng](https://vnexpress.net/cho-tre-em-tren-oto-khong-co-thiet-bi-an-toan-co-the-bi-phat-1-trieu-dong-4816639.html) - 22:00 15/11/2024
 - 🕯 [Tulsi Gabbard - &#39;nữ tướng&#39; đổi phe trở thành trùm tình báo Mỹ](https://vnexpress.net/tulsi-gabbard-nu-tuong-doi-phe-tro-thanh-trum-tinh-bao-my-4816064.html) - 22:00 15/11/2024
 - 💃 [Việt Nam nên phát triển điện hạt nhân như thế nào](https://vnexpress.net/viet-nam-nen-phat-trien-dien-hat-nhan-nhu-the-nao-4814905.html) - 22:00 15/11/2024
