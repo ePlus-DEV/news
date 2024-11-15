@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Mike Tyson tát thẳng vào mặt Jake Paul trước đại chiến tranh cãi](https://dantri.com.vn/the-thao/mike-tyson-tat-thang-vao-mat-jake-paul-truoc-dai-chien-tranh-cai-20241115185340226.htm) - 11:52 15/11/2024
-- 💯 [Indonesia 0-0 Nhật Bản &lpar;hiệp 1&rpar;: Indonesia hưng phấn, liên tục bỏ lỡ cơ hội](https://dantri.com.vn/the-thao/indonesia-0-0-nhat-ban-hiep-1-indonesia-hung-phan-lien-tuc-bo-lo-co-hoi-20241115184050165.htm) - 11:40 15/11/2024
+- 💯 [Indonesia 0-2 Nhật Bản &lpar;hết hiệp 1&rpar;: Quá chớp nhoáng, không kịp trở tay](https://dantri.com.vn/the-thao/indonesia-0-2-nhat-ban-het-hiep-1-qua-chop-nhoang-khong-kip-tro-tay-20241115184050165.htm) - 11:40 15/11/2024
 - ⛽️ [Xuân Nam, Văn Sơn bị treo giò 4 trận, trưởng đoàn PVF-CAND bị phạt nặng](https://dantri.com.vn/the-thao/xuan-nam-van-son-bi-treo-gio-4-tran-truong-doan-pvf-cand-bi-phat-nang-20241115161955758.htm) - 09:07 15/11/2024
 - 💃 [Lionel Messi chỉ thẳng mặt, chửi bới trọng tài trong trận đấu cực tệ](https://dantri.com.vn/the-thao/lionel-messi-chi-thang-mat-chui-boi-trong-tai-trong-tran-dau-cuc-te-20241115132804085.htm) - 06:28 15/11/2024
 - 🌈 [Báo chí thế giới dự đoán kết quả trận Indonesia vs Nhật Bản](https://dantri.com.vn/the-thao/bao-chi-the-gioi-du-doan-ket-qua-tran-indonesia-vs-nhat-ban-20241115115917838.htm) - 06:01 15/11/2024
