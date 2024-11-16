@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Lãi 183 triệu USD sau 14 năm nắm giữ Bitcoin](https://vnexpress.net/lai-183-trieu-usd-sau-14-nam-nam-giu-bitcoin-4816754.html) - 04:32 16/11/2024
 - 🐲 [Dragon Capital nêu chiến lược đầu tư sớm cho người trẻ](https://vnexpress.net/dragon-capital-neu-chien-luoc-dau-tu-som-cho-nguoi-tre-4816652.html) - 01:00 16/11/2024
-- 🔥 [&#39;Đồng bằng sông Cửu Long nhiều tiềm năng bán tín chỉ carbon&#39;](https://vnexpress.net/dong-bang-song-cuu-long-nhieu-tiem-nang-ban-tin-chi-carbon-4816616.html) - 01:00 16/11/2024
+- 🔥 [Bộ trưởng Huỳnh Thành Đạt: Kinh tế xanh góp phần cho mục tiêu GDP trên 10%](https://vnexpress.net/bo-truong-huynh-thanh-dat-kinh-te-xanh-gop-phan-cho-muc-tieu-gdp-tren-10-4816616.html) - 01:00 16/11/2024
 - 🐵 [Ấn Độ tìm cách tái chế hàng triệu tấn rác thải ngành điện tái tạo](https://vnexpress.net/an-do-tim-cach-tai-che-hang-trieu-tan-rac-thai-nganh-dien-tai-tao-4816498.html) - 23:51 15/11/2024
 - 🦅 [Việt Nam nên phát triển điện hạt nhân như thế nào](https://vnexpress.net/viet-nam-nen-phat-trien-dien-hat-nhan-nhu-the-nao-4814905.html) - 22:00 15/11/2024
 - 😺 [Lợi nhuận Gelex vượt 30% kế hoạch](https://vnexpress.net/loi-nhuan-gelex-vuot-30-ke-hoach-4816625.html) - 13:00 15/11/2024
