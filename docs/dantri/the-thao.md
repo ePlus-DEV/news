@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Mike Tyson kiếm được số tiền khổng lồ dù thất bại trước Jake Paul](https://dantri.com.vn/the-thao/mike-tyson-kiem-duoc-so-tien-khong-lo-du-that-bai-truoc-jake-paul-20241116175112689.htm) - 10:51 16/11/2024
+- 🎡 [Mike Tyson kiếm được số tiền khổng lồ dù thất bại trước Jake Paul](https://dantri.com.vn/the-thao/mike-tyson-kiem-duoc-so-tien-khong-lo-du-that-bai-truoc-jake-paul-20241116175112689.htm) - 11:01 16/11/2024
 - 💯 [C.Ronaldo gây sốt với siêu phẩm xe đạp chổng ngược, CĐV ngả mũ thán phục](https://dantri.com.vn/the-thao/cronaldo-gay-sot-voi-sieu-pham-xe-dap-chong-nguoc-cdv-nga-mu-than-phuc-20241116173212279.htm) - 10:32 16/11/2024
 - ⛽️ [Lịch thi đấu chính thức AFF Cup 2024](https://dantri.com.vn/the-thao/lich-thi-dau-chinh-thuc-aff-cup-2024-20241115194826921.htm) - 09:00 16/11/2024
 - 💃 [Mike Tyson tuyên bố bất ngờ sau thất bại trước Jake Paul](https://dantri.com.vn/the-thao/mike-tyson-tuyen-bo-bat-ngo-sau-that-bai-truoc-jake-paul-20241116142348536.htm) - 07:23 16/11/2024
