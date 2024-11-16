@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [10 trang phục dân tộc nổi bật tại Miss Universe](https://vnexpress.net/10-trang-phuc-dan-toc-noi-bat-tai-miss-universe-4816851.html) - 10:21 16/11/2024
+- 🌏 [10 trang phục dân tộc đẹp tại Miss Universe](https://vnexpress.net/10-trang-phuc-dan-toc-dep-tai-miss-universe-4816851.html) - 10:21 16/11/2024
 - 💫 [Kịch về cuộc đời phóng viên chiến trường nhiễm chất độc da cam](https://vnexpress.net/kich-ve-cuoc-doi-phong-vien-chien-truong-nhiem-chat-doc-da-cam-4816796.html) - 09:22 16/11/2024
 - 🌮 [Những ứng viên nổi bật cho vương miện Miss Universe 2024](https://vnexpress.net/nhung-ung-vien-noi-bat-cho-vuong-mien-miss-universe-2024-4816769.html) - 06:51 16/11/2024
 - 🧠 [H&#39;Hen Niê diễn màn bung váy trên sàn catwalk](https://vnexpress.net/h-hen-nie-dien-man-bung-vay-tren-san-catwalk-4816792.html) - 05:54 16/11/2024
