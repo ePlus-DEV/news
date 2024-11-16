@@ -4,7 +4,7 @@ sidebar_position: 29
 ---
 
 <!-- dantri-toa-dam-truc-tuyen:START -->
-- 🪜 [Mua xe máy cho con tuổi học sinh, bố mẹ đang vô cảm với tính mạng của con](https://dantri.com.vn/xa-hoi/mua-xe-may-cho-con-tuoi-hoc-sinh-bo-me-dang-vo-cam-voi-tinh-mang-cua-con-20241115170140946.htm) - 01:33 16/11/2024
+- 🪜 [Mua xe máy cho con tuổi học sinh, cha mẹ vô cảm với chính tính mạng của con](https://dantri.com.vn/xa-hoi/mua-xe-may-cho-con-tuoi-hoc-sinh-cha-me-vo-cam-voi-chinh-tinh-mang-cua-con-20241115170140946.htm) - 01:33 16/11/2024
 - 🗽 [Đồng hồ thông minh- Lợi ích sức khỏe và những điều cần lưu ý](https://dantri.com.vn/suc-khoe/dong-ho-thong-minh-loi-ich-suc-khoe-va-nhung-dieu-can-luu-y-20241101070604676.htm) - 01:06 01/11/2024
 - 🕯 [Tọa đàm Thương mại điện tử và dược phẩm: Xu hướng, thách thức, giải pháp](https://dantri.com.vn/suc-khoe/toa-dam-thuong-mai-dien-tu-va-duoc-pham-xu-huong-thach-thuc-giai-phap-20241015213133554.htm) - 02:30 16/10/2024
 - 🫶 [Tọa đàm trực tuyến &quot;Tủ thuốc gia đình: Lá chắn bệnh tật mùa bão lũ&quot;](https://dantri.com.vn/suc-khoe/toa-dam-truc-tuyen-tu-thuoc-gia-dinh-la-chan-benh-tat-mua-bao-lu-20240929195257453.htm) - 01:00 30/09/2024
