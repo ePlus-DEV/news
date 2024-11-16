@@ -4,7 +4,7 @@ sidebar_position: 13
 ---
 
 <!-- dantri-infographic:START -->
-- 🕴 [Lịch thi đấu chính thức AFF Cup 2024](https://dantri.com.vn/the-thao/lich-thi-dau-chinh-thuc-aff-cup-2024-20241115194826921.htm) - 23:00 15/11/2024
+- 🕴 [Lịch thi đấu chính thức AFF Cup 2024](https://dantri.com.vn/the-thao/lich-thi-dau-chinh-thuc-aff-cup-2024-20241115194826921.htm) - 09:00 16/11/2024
 - 💻 [Toàn cảnh vụ án liên quan đến cựu Bí thư Thanh Hóa Trịnh Văn Chiến](https://dantri.com.vn/phap-luat/toan-canh-vu-an-lien-quan-den-cuu-bi-thu-thanh-hoa-trinh-van-chien-20241112230533139.htm) - 22:59 12/11/2024
 - 🗽 [Loạt xe bán chạy tháng 10: Xpander giảm sức tiêu thụ, CX-5 bứt phá](https://dantri.com.vn/o-to-xe-may/loat-xe-ban-chay-thang-10-xpander-giam-suc-tieu-thu-cx-5-but-pha-20241112104619982.htm) - 09:06 12/11/2024
 - 👺 [Loạt xe bán chậm tháng 10: Có mẫu giảm 220 triệu đồng vẫn &quot;ế&quot;](https://dantri.com.vn/o-to-xe-may/loat-xe-ban-cham-thang-10-co-mau-giam-220-trieu-dong-van-e-20241112000107192.htm) - 02:16 12/11/2024
