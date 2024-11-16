@@ -5,7 +5,7 @@ sidebar_position: 17
 
 <!-- dantri-the-gioi:START -->
 - 🌋 [Nga không hết tên lửa như phương Tây dự đoán, Ukraine ra sức chịu trận](https://dantri.com.vn/the-gioi/nga-khong-het-ten-lua-nhu-phuong-tay-du-doan-ukraine-ra-suc-chiu-tran-20241112144926488.htm) - 07:55 16/11/2024
-- 🎬 [Philippines sơ tán gần 200.000 dân trước siêu bão Man-Yi](https://dantri.com.vn/the-gioi/philippines-so-tan-gan-200000-dan-truoc-sieu-bao-man-yi-20241116142449548.htm) - 07:31 16/11/2024
+- 🎬 [Philippines sơ tán gần 200.000 dân trước siêu bão Man-yi](https://dantri.com.vn/the-gioi/philippines-so-tan-gan-200000-dan-truoc-sieu-bao-man-yi-20241116142449548.htm) - 07:31 16/11/2024
 - 🧰 [Chuyên gia dự đoán khả năng cầm cự của Ukraine ở Kursk](https://dantri.com.vn/the-gioi/chuyen-gia-du-doan-kha-nang-cam-cu-cua-ukraine-o-kursk-20241116134228320.htm) - 07:07 16/11/2024
 - 🌋 [Nga tăng cường gây sức ép lên châu Âu về cuộc chiến ở Ukraine](https://dantri.com.vn/the-gioi/nga-tang-cuong-gay-suc-ep-len-chau-au-ve-cuoc-chien-o-ukraine-20241116113220868.htm) - 05:27 16/11/2024
 - 🗽 [Ba nước Đông Nam Á nhận tư cách đối tác của BRICS](https://dantri.com.vn/the-gioi/ba-nuoc-dong-nam-a-nhan-tu-cach-doi-tac-cua-brics-20241116115748901.htm) - 05:26 16/11/2024
