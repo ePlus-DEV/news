@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Trăm cảnh sát vây bắt băng mua bán ma túy có vũ khí](https://vnexpress.net/tram-canh-sat-vay-bat-bang-mua-ban-ma-tuy-co-vu-khi-4816827.html) - 08:37 16/11/2024
+- 😎 [Hơn 100 cảnh sát vây bắt băng buôn ma túy có súng](https://vnexpress.net/hon-100-canh-sat-vay-bat-bang-buon-ma-tuy-co-sung-4816827.html) - 08:37 16/11/2024
 - 🥰 [Giám đốc Trung tâm Quan trắc tài nguyên môi trường Quảng Ninh bị bắt](https://vnexpress.net/giam-doc-trung-tam-quan-trac-tai-nguyen-moi-truong-quang-ninh-bi-bat-4816814.html) - 07:04 16/11/2024
 - 🎓 [8 thanh thiếu niên bị tạm giữ vì đánh võng &#39;xế độ&#39; gây náo loạn](https://vnexpress.net/8-thanh-thieu-nien-bi-tam-giu-vi-danh-vong-xe-do-gay-nao-loan-4816774.html) - 04:23 16/11/2024
 - 🤓 [Ông lão 75 tuổi bị ung thư mua ma túy về dùng](https://vnexpress.net/ong-lao-75-tuoi-bi-ung-thu-linh-an-vi-mua-ma-tuy-ve-dung-4816764.html) - 03:57 16/11/2024
