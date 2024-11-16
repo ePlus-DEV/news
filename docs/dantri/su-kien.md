@@ -25,7 +25,7 @@ sidebar_position: 16
 - 🤠 [HLV Shin Tae Yong nói thẳng sự thật sau trận thua thảm trước Nhật Bản](https://dantri.com.vn/the-thao/hlv-shin-tae-yong-noi-thang-su-that-sau-tran-thua-tham-truoc-nhat-ban-20241116005413962.htm) - 00:00 16/11/2024
 - 🎊 [Ronaldo lập siêu phẩm giúp Bồ Đào Nha thắng đậm, Tây Ban Nha hạ Đan Mạch](https://dantri.com.vn/the-thao/ronaldo-lap-sieu-pham-giup-bo-dao-nha-thang-dam-tay-ban-nha-ha-dan-mach-20241116064722790.htm) - 23:56 15/11/2024
 - 🐘 [Hà Nội: Ông bố làm việc ở nhà, lương nghìn USD, vẫn rảnh chăm con](https://dantri.com.vn/doi-song/ha-noi-ong-bo-lam-viec-o-nha-luong-nghin-usd-van-ranh-cham-con-20241115152446463.htm) - 23:47 15/11/2024
-- 💂 [Bão Manyi tiệm cận siêu bão, sắp vào Biển Đông](https://dantri.com.vn/xa-hoi/bao-manyi-tiem-can-sieu-bao-sap-vao-bien-dong-20241116063103615.htm) - 23:35 15/11/2024
+- 💂 [Bão Man-yi tiệm cận siêu bão, sắp vào Biển Đông](https://dantri.com.vn/xa-hoi/bao-man-yi-tiem-can-sieu-bao-sap-vao-bien-dong-20241116063103615.htm) - 23:35 15/11/2024
 - 👹 [Nghệ thuật truyền thống thời 4.0: Tuồng, chèo có thắng K-pop?](https://dantri.com.vn/giai-tri/nghe-thuat-truyen-thong-thoi-40-tuong-cheo-co-thang-k-pop-20241112023051398.htm) - 23:30 15/11/2024
 - 🦒 [Báo Indonesia bình luận khi thầy trò Shin Tae Yong thảm bại trước Nhật Bản](https://dantri.com.vn/the-thao/bao-indonesia-binh-luan-khi-thay-tro-shin-tae-yong-tham-bai-truoc-nhat-ban-20241116012520588.htm) - 23:01 15/11/2024
 - 🗽 [Lịch thi đấu chính thức AFF Cup 2024](https://dantri.com.vn/the-thao/lich-thi-dau-chinh-thuc-aff-cup-2024-20241115194826921.htm) - 23:00 15/11/2024
