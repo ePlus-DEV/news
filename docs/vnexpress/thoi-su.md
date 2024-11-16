@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Siêu bão Manyi gần Biển Đông](https://vnexpress.net/sieu-bao-manyi-gan-bien-dong-4816716.html) - 02:58 16/11/2024
-- 🤓 [Bộ trưởng Huỳnh Thành Đạt: Kinh tế xanh góp phần cho mục tiêu GDP trên 10%](https://vnexpress.net/bo-truong-huynh-thanh-dat-kinh-te-xanh-gop-phan-cho-muc-tieu-gdp-tren-10-4816616.html) - 01:00 16/11/2024
+- 🤓 [Bộ trưởng Huỳnh Thành Đạt: Kinh tế xanh góp phần cho mục tiêu GDP trên 10%](https://vnexpress.net/bo-truong-huynh-thanh-dat-kinh-te-xanh-gop-phan-cho-muc-tieu-gdp-tren-10-4816616-tong-thuat.html) - 01:00 16/11/2024
 - ⚗️ [Phó chủ tịch Quảng Trị: &#39;Con người là điểm nghẽn của thể chế&#39;](https://vnexpress.net/pho-chu-tich-quang-tri-con-nguoi-la-diem-nghen-cua-the-che-4813251.html) - 23:00 15/11/2024
 - 🌊 [Quá trình xây Tòa thánh Tây Ninh gần 100 năm trước](https://vnexpress.net/qua-trinh-xay-toa-thanh-tay-ninh-gan-100-nam-truoc-4816661.html) - 22:00 15/11/2024
 - 🎓 [Chở trẻ em trên ôtô không có thiết bị an toàn có thể bị phạt 1 triệu đồng](https://vnexpress.net/cho-tre-em-tren-oto-khong-co-thiet-bi-an-toan-co-the-bi-phat-1-trieu-dong-4816639.html) - 22:00 15/11/2024
