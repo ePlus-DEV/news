@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Bộ trưởng Giáo dục: Mong thầy cô ưu tú tiếp tục tự học, tỏa sáng](https://vnexpress.net/bo-truong-giao-duc-mong-thay-co-uu-tu-tiep-tuc-tu-hoc-toa-sang-4816989.html) - 04:13 17/11/2024
 - 🦆 [6 cách đáp lại lời cảm ơn trong tiếng Anh](https://vnexpress.net/6-cach-dap-lai-loi-cam-on-trong-tieng-anh-4816964.html) - 03:07 17/11/2024
-- 🦩 [Quá nửa sinh viên có IELTS 6.5-7.0, đại học dạy tiếng Anh thế nào](https://vnexpress.net/qua-nua-sinh-vien-co-ielts-6-5-7-0-dai-hoc-day-tieng-anh-the-nao-4816761.html) - 01:44 17/11/2024
+- 🦩 [Đại học thay đổi chương trình khi sinh viên có điểm đầu vào cao sẵn](https://vnexpress.net/dai-hoc-thay-doi-chuong-trinh-khi-sinh-vien-co-diem-dau-vao-cao-san-4816761.html) - 01:44 17/11/2024
 - 🌮 [Thủ khoa lớp 10 chuyên Anh đạt điểm SAT gần tuyệt đối](https://vnexpress.net/thu-khoa-lop-10-chuyen-anh-dat-diem-sat-gan-tuyet-doi-4816928.html) - 23:16 16/11/2024
 - 🔭 [Đại học cần kết nối với trường phổ thông để đào tạo nhân lực](https://vnexpress.net/dai-hoc-can-ket-noi-voi-truong-pho-thong-de-dao-tao-nhan-luc-4816692.html) - 16:06 16/11/2024
 - 💡 [Canada tăng thời gian làm thêm cho du học sinh](https://vnexpress.net/canada-tang-thoi-gian-lam-them-cho-du-hoc-sinh-4816865.html) - 14:00 16/11/2024
