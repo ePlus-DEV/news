@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Karoline Leavitt - Thư ký báo chí Nhà Trắng trẻ nhất lịch sử Mỹ](https://vnexpress.net/karoline-leavitt-thu-ky-bao-chi-nha-trang-tre-nhat-lich-su-my-4816706.html) - 05:32 17/11/2024
+- 🎭 [Karoline Leavitt - Phát ngôn viên Nhà Trắng trẻ nhất lịch sử Mỹ](https://vnexpress.net/karoline-leavitt-phat-ngon-vien-nha-trang-tre-nhat-lich-su-my-4816706.html) - 05:32 17/11/2024
 - 🕴 [Nhà riêng Thủ tướng Israel bị trúng pháo sáng](https://vnexpress.net/nha-rieng-thu-tuong-israel-bi-trung-phao-sang-4816963.html) - 04:08 17/11/2024
 - 🤭 [Mỹ - Trung nhất trí không để AI ra quyết định về vũ khí hạt nhân](https://vnexpress.net/my-trung-nhat-tri-khong-de-ai-ra-quyet-dinh-ve-vu-khi-hat-nhan-4816942.html) - 02:07 17/11/2024
 - 🧑‍💻 [Thủ tướng mong thêm nhiều người Việt sang Brazil làm việc](https://vnexpress.net/thu-tuong-mong-them-nhieu-nguoi-viet-sang-brazil-lam-viec-4816943.html) - 01:29 17/11/2024
