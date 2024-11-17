@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- dantri-xa-hoi:START -->
 - 🫣 [Siêu bão Man-yi duy trì cấp 16, giật trên cấp 17, sắp vào Biển Đông](https://dantri.com.vn/xa-hoi/sieu-bao-man-yi-duy-tri-cap-16-giat-tren-cap-17-sap-vao-bien-dong-20241117161834727.htm) - 09:35 17/11/2024
 - 💼 [Tổng Bí thư Tô Lâm dự Ngày hội Đại đoàn kết toàn dân tộc tại ấp Mũi của Cà Mau](https://dantri.com.vn/xa-hoi/tong-bi-thu-to-lam-du-ngay-hoi-dai-doan-ket-toan-dan-toc-tai-ap-mui-cua-ca-mau-20241117141206460.htm) - 07:12 17/11/2024
-- 🎊 [Cây lim gần nghìn năm tuổi, báu vật ở Vườn quốc gia Bến En](https://dantri.com.vn/xa-hoi/cay-lim-gan-nghin-nam-tuoi-bau-vat-o-vuon-quoc-gia-ben-en-20241117094545703.htm) - 06:26 17/11/2024
+- 🎊 [Cây lim gần 700 tuổi, báu vật ở Vườn quốc gia Bến En](https://dantri.com.vn/xa-hoi/cay-lim-gan-700-tuoi-bau-vat-o-vuon-quoc-gia-ben-en-20241117094545703.htm) - 06:26 17/11/2024
 - 🙉 [Hà Tĩnh chi 22 tỷ đồng sửa chữa đường ven biển chi chít &quot;ổ voi, ổ gà&quot;](https://dantri.com.vn/xa-hoi/ha-tinh-chi-22-ty-dong-sua-chua-duong-ven-bien-chi-chit-o-voi-o-ga-20241117085612063.htm) - 06:19 17/11/2024
 - 🕯 [Tổng Bí thư Tô Lâm dự Ngày hội Đại đoàn kết toàn dân tộc tại Cà Mau](https://dantri.com.vn/xa-hoi/tong-bi-thu-to-lam-du-ngay-hoi-dai-doan-ket-toan-dan-toc-tai-ca-mau-20241117113648620.htm) - 04:37 17/11/2024
 - 👍 [Chủ tịch nước gặp lãnh đạo các nền kinh tế nhân dịp dự Hội nghị Cấp cao APEC](https://dantri.com.vn/xa-hoi/chu-tich-nuoc-gap-lanh-dao-cac-nen-kinh-te-nhan-dip-du-hoi-nghi-cap-cao-apec-20241117111834466.htm) - 04:18 17/11/2024
