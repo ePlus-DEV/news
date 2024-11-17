@@ -147,7 +147,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- thanhnien:START -->
 - 🤠 [Bảo toàn cách biệt tối thiểu: CLB TP.HCM và Hà Tĩnh đâu cần câu giờ lộ liễu](https://thanhnien.vn/bao-toan-cach-biet-toi-thieu-clb-tphcm-va-ha-tinh-dau-can-cau-gio-lo-lieu-185241117123712117.htm) - 05:42 17/11/2024
 - 🥸 [Ô tô điện Volvo EC40 có giá 1,739 tỉ đồng Việt Nam](https://thanhnien.vn/o-to-dien-volvo-ec40-co-gia-1739-ti-dong-viet-nam-185241117114356814.htm) - 05:25 17/11/2024
-- 🌁 [Kỉ niệm thợ Việt cả đêm đóng bàn gỗ cho Tổng thống đắc cử Donald Trump tại Đà Nẵng](https://thanhnien.vn/ki-niem-tho-viet-ca-dem-dong-ban-go-cho-tong-thong-dac-cu-donald-trump-tai-da-nang-185241116155910486.htm) - 05:08 17/11/2024
+- 🌁 [Kỷ niệm thợ Việt cả đêm đóng bàn gỗ cho Tổng thống đắc cử Donald Trump tại Đà Nẵng](https://thanhnien.vn/ki-niem-tho-viet-ca-dem-dong-ban-go-cho-tong-thong-dac-cu-donald-trump-tai-da-nang-185241116155910486.htm) - 05:08 17/11/2024
 - 🤡 [Ra mắt máy 3R - đột phá công nghệ thay nhớt tự động](https://thanhnien.vn/ra-mat-may-3r-dot-pha-cong-nghe-thay-nhot-tu-dong-185241117113227311.htm) - 05:00 17/11/2024
 - 🎉 [Tự do sải bước, phong cách ngút ngàn với quần ống rộng](https://thanhnien.vn/thoi-trang-tre/tu-do-sai-buoc-phong-cach-ngut-ngan-voi-quan-ong-rong-185241116114715252.htm) - 05:00 17/11/2024
 - 🎊 [Xem nhanh 12h: Hết hồn chuyện ăn uống ngay trên cao tốc | Cú lừa bạc tỉ của ‘bố đơn thân’](https://thanhnien.vn/xem-nhanh-12h-het-hon-chuyen-an-uong-ngay-tren-cao-toc-cu-lua-bac-ti-cua-bo-don-than-185241117110252971.htm) - 04:58 17/11/2024
