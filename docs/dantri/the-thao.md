@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Tuyển futsal nữ Việt Nam thắng tưng bừng ở giải Đông Nam Á](https://dantri.com.vn/the-thao/tuyen-futsal-nu-viet-nam-thang-tung-bung-o-giai-dong-nam-a-20241117181548812.htm) - 11:15 17/11/2024
-- 💯 [Báo Indonesia tiến cử HLV Ten Hag thay thế Shin Tae Yong](https://dantri.com.vn/the-thao/bao-indonesia-tien-cu-hlv-ten-hag-thay-the-shin-tae-yong-20241117164550575.htm) - 09:45 17/11/2024
+- 💯 [Báo Indonesia tiến cử HLV Ten Hag thay thế Shin Tae Yong](https://dantri.com.vn/the-thao/bao-indonesia-tien-cu-hlv-ten-hag-thay-the-shin-tae-yong-20241117164550575.htm) - 11:01 17/11/2024
 - ⛽️ [Mike Tyson tiết lộ sự thật gây sốc sau trận thua trước Jake Paul](https://dantri.com.vn/the-thao/mike-tyson-tiet-lo-su-that-gay-soc-sau-tran-thua-truoc-jake-paul-20241117124248758.htm) - 06:20 17/11/2024
 - 💃 [HLV Amorim mang toàn bộ trợ lý từ Sporting sang Man Utd](https://dantri.com.vn/the-thao/hlv-amorim-mang-toan-bo-tro-ly-tu-sporting-sang-man-utd-20241117113520986.htm) - 04:36 17/11/2024
 - 🌈 [Xác định 6/8 đội lọt vào tứ kết Nations League](https://dantri.com.vn/the-thao/xac-dinh-68-doi-lot-vao-tu-ket-nations-league-20241117111333958.htm) - 04:13 17/11/2024
