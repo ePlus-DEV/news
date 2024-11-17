@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Phát ngôn viên Hezbollah có thể đã thiệt mạng trong đòn tập kích Beirut](https://vnexpress.net/phat-ngon-vien-hezbollah-co-the-da-thiet-mang-trong-don-tap-kich-beirut-4817129.html) - 16:15 17/11/2024
+- 🎭 [Phát ngôn viên Hezbollah thiệt mạng trong đòn tập kích Beirut](https://vnexpress.net/phat-ngon-vien-hezbollah-thiet-mang-trong-don-tap-kich-beirut-4817129.html) - 16:15 17/11/2024
 - 🕴 [Thủ tướng Đức nêu lý do điện đàm với Tổng thống Putin](https://vnexpress.net/thu-tuong-duc-neu-ly-do-dien-dam-voi-tong-thong-putin-4817122.html) - 14:56 17/11/2024
 - 🤭 [Ấn Độ phóng thành công tên lửa siêu vượt âm tầm xa](https://vnexpress.net/an-do-phong-thanh-cong-ten-lua-sieu-vuot-am-tam-xa-4817109.html) - 13:39 17/11/2024
 - 🧑‍💻 [Ukraine tuyên bố đánh chặn gần 10 tên lửa siêu vượt âm Nga](https://vnexpress.net/ukraine-tuyen-bo-danh-chan-gan-10-ten-lua-sieu-vuot-am-nga-4817101.html) - 12:00 17/11/2024
