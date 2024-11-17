@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [THPT Phan Đình Phùng thắng sát nút Nguyễn Bình Khiêm bán kết giải Bóng rổ trẻ 2023](https://vnexpress.net/thpt-phan-dinh-phung-thang-sat-nut-nguyen-binh-khiem-ban-ket-giai-bong-ro-tre-2023-4813620.html) - 07:52 17/11/2024
+- 🪜 [THPT Phan Đình Phùng thắng sát nút Nguyễn Bình Khiêm trong bán kết giải Bóng rổ trẻ 2023](https://vnexpress.net/thpt-phan-dinh-phung-thang-sat-nut-nguyen-binh-khiem-trong-ban-ket-giai-bong-ro-tre-2023-4813620.html) - 07:52 17/11/2024
 - 🦩 [CLB Brazil xúc phạm Neymar](https://vnexpress.net/clb-brazil-xuc-pham-neymar-4817050.html) - 07:33 17/11/2024
 - 🧰 [&#39;Nhật Bản đã dạy Indonesia một bài học bóng đá&#39;](https://vnexpress.net/nhat-ban-da-day-indonesia-mot-bai-hoc-bong-da-4817042.html) - 06:46 17/11/2024
 - 🤗 [Vì sao Hà Hậu bị xử về nhì, kém 1 giây ở UTMB Malaysia?​​​​](https://vnexpress.net/vi-sao-ha-hau-bi-xu-ve-nhi-kem-1-giay-o-utmb-malaysia-4816988.html) - 03:35 17/11/2024
