@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Vì sao Hà Hậu bị xử về nhì, kém 1 giây ở UTMB Malaysia?​​​​](https://vnexpress.net/vi-sao-ha-hau-bi-xu-ve-nhi-kem-1-giay-o-utmb-malaysia-4816988.html) - 03:35 17/11/2024
-- 🦩 [Trường Kim Liên chạm trán Vinschool Smart City trong Bán kết giải Bóng rổ trẻ 2024](https://vnexpress.net/truong-kim-lien-cham-tran-vinschool-smart-city-trong-ban-ket-giai-bong-ro-tre-2024-4813620.html) - 03:20 17/11/2024
+- 🦩 [Trường Phan Đình Phùng đọ sức Đống Đa trong Bán kết giải Bóng rổ trẻ 2024](https://vnexpress.net/truong-phan-dinh-phung-do-suc-dong-da-trong-ban-ket-giai-bong-ro-tre-2024-4813620.html) - 03:20 17/11/2024
 - 🧰 [Ring-girl gây sốt ở trận Mike Tyson - Jake Paul](https://vnexpress.net/ring-girl-gay-sot-o-tran-mike-tyson-jake-paul-4816939.html) - 02:08 17/11/2024
 - 🤗 [Jake Paul không muốn knock-out Mike Tyson](https://vnexpress.net/jake-paul-khong-muon-knock-out-mike-tyson-4816952.html) - 02:03 17/11/2024
 - 🥳 [Đức thắng 7-0 tại Nations League](https://vnexpress.net/duc-thang-7-0-tai-nations-league-4816933.html) - 23:00 16/11/2024
