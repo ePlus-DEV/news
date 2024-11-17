@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Rời Man Utd, Van Nistelrooy nộp đơn xin làm HLV đội bóng ở Anh](https://dantri.com.vn/the-thao/roi-man-utd-van-nistelrooy-nop-don-xin-lam-hlv-doi-bong-o-anh-20241117185029622.htm) - 11:50 17/11/2024
+- 🎡 [Rời Man Utd, Van Nistelrooy nộp đơn xin làm HLV đội bóng ở Anh](https://dantri.com.vn/the-thao/roi-man-utd-van-nistelrooy-nop-don-xin-lam-hlv-doi-bong-o-anh-20241117185029622.htm) - 12:10 17/11/2024
 - 💯 [Báo Indonesia tiến cử HLV Ten Hag thay thế Shin Tae Yong](https://dantri.com.vn/the-thao/bao-indonesia-tien-cu-hlv-ten-hag-thay-the-shin-tae-yong-20241117164550575.htm) - 11:16 17/11/2024
 - ⛽️ [Tuyển futsal nữ Việt Nam thắng tưng bừng ở giải Đông Nam Á](https://dantri.com.vn/the-thao/tuyen-futsal-nu-viet-nam-thang-tung-bung-o-giai-dong-nam-a-20241117181548812.htm) - 11:15 17/11/2024
 - 💃 [Mike Tyson tiết lộ sự thật gây sốc sau trận thua trước Jake Paul](https://dantri.com.vn/the-thao/mike-tyson-tiet-lo-su-that-gay-soc-sau-tran-thua-truoc-jake-paul-20241117124248758.htm) - 06:20 17/11/2024
