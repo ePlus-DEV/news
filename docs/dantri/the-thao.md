@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Mike Tyson tiết lộ sự thật gây sốc sau trận thua trước Jake Paul](https://dantri.com.vn/the-thao/mike-tyson-tiet-lo-su-that-gay-soc-sau-tran-thua-truoc-jake-paul-20241117124248758.htm) - 05:42 17/11/2024
+- 🎡 [Mike Tyson tiết lộ sự thật gây sốc sau trận thua trước Jake Paul](https://dantri.com.vn/the-thao/mike-tyson-tiet-lo-su-that-gay-soc-sau-tran-thua-truoc-jake-paul-20241117124248758.htm) - 06:20 17/11/2024
 - 💯 [HLV Amorim mang toàn bộ trợ lý từ Sporting sang Man Utd](https://dantri.com.vn/the-thao/hlv-amorim-mang-toan-bo-tro-ly-tu-sporting-sang-man-utd-20241117113520986.htm) - 04:36 17/11/2024
 - ⛽️ [Xác định 6/8 đội lọt vào tứ kết Nations League](https://dantri.com.vn/the-thao/xac-dinh-68-doi-lot-vao-tu-ket-nations-league-20241117111333958.htm) - 04:13 17/11/2024
 - 💃 [Sinner, Fritz tranh cúp vô địch ATP Finals](https://dantri.com.vn/the-thao/sinner-fritz-tranh-cup-vo-dich-atp-finals-20241117075932499.htm) - 00:59 17/11/2024
