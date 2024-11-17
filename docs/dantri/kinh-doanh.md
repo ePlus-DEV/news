@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- dantri-kinh-doanh:START -->
-- 🏊 [VinFast tách đôi, nhận vốn &quot;khủng&quot; từ tỷ phú Vượng; Võ Hà Linh thắng lớn](https://dantri.com.vn/kinh-doanh/vinfast-tach-doi-nhan-von-khung-tu-ty-phu-vuong-vo-ha-linh-thang-lon-20241117150235178.htm) - 09:30 17/11/2024
+- 🏊 [VinFast tách đôi, nhận vốn lớn từ tỷ phú Vượng; Võ Hà Linh thắng lớn](https://dantri.com.vn/kinh-doanh/vinfast-tach-doi-nhan-von-lon-tu-ty-phu-vuong-vo-ha-linh-thang-lon-20241117150235178.htm) - 09:30 17/11/2024
 - 🦆 [Hé lộ về chủ đầu tư Phương Đông Green Park được thanh tra nhắc đến](https://dantri.com.vn/bat-dong-san/he-lo-ve-chu-dau-tu-phuong-dong-green-park-duoc-thanh-tra-nhac-den-20241117150530621.htm) - 09:29 17/11/2024
 - 🦄 [HDBANK đạt 3 giải thưởng tại cuộc bình chọn &quot;Doanh nghiệp niêm yết 2024&quot;](https://dantri.com.vn/kinh-doanh/hdbank-dat-3-giai-thuong-tai-cuoc-binh-chon-doanh-nghiep-niem-yet-2024-20241117140416679.htm) - 07:04 17/11/2024
 - 🌝 [Khai trương tủ sách EVNNPC &quot;Năng lượng từ tri thức&quot;](https://dantri.com.vn/kinh-doanh/khai-truong-tu-sach-evnnpc-nang-luong-tu-tri-thuc-20241117090326547.htm) - 02:03 17/11/2024
