@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nam sinh lớp 10 đạt điểm SAT gần tuyệt đối](https://vnexpress.net/nam-sinh-lop-10-dat-diem-sat-gan-tuyet-doi-4816928.html) - 23:16 16/11/2024
+- 🤓 [Thủ khoa lớp 10 chuyên Anh đạt điểm SAT gần tuyệt đối](https://vnexpress.net/thu-khoa-lop-10-chuyen-anh-dat-diem-sat-gan-tuyet-doi-4816928.html) - 23:16 16/11/2024
 - 🦆 [Đại học cần kết nối với trường phổ thông để đào tạo nhân lực](https://vnexpress.net/dai-hoc-can-ket-noi-voi-truong-pho-thong-de-dao-tao-nhan-luc-4816692.html) - 16:06 16/11/2024
 - 🦩 [Canada tăng thời gian làm thêm cho du học sinh](https://vnexpress.net/canada-tang-thoi-gian-lam-them-cho-du-hoc-sinh-4816865.html) - 14:00 16/11/2024
 - 🌮 [Bảo tàng Sinh học đầu tiên của Đông Dương ở đâu?](https://vnexpress.net/bao-tang-sinh-hoc-dau-tien-cua-dong-duong-o-dau-4816456.html) - 13:05 16/11/2024
