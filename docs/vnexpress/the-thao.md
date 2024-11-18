@@ -4,14 +4,14 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Mùa giải lịch sử của Sinner](https://vnexpress.net/mua-giai-lich-su-cua-sinner-4817417.html) - 09:16 18/11/2024
-- 🦩 [Tuyển Việt Nam vắng Công Phượng, Quế Ngọc Hải](https://vnexpress.net/tuyen-viet-nam-vang-cong-phuong-que-ngoc-hai-4817456.html) - 09:16 18/11/2024
-- 🧰 [Runners đất cảng dồn sức tập luyện cho VnExpress Marathon Hải Phòng](https://vnexpress.net/runners-dat-cang-don-suc-tap-luyen-cho-vnexpress-marathon-hai-phong-4816563.html) - 08:00 18/11/2024
-- 🤗 [Runner phá kỷ lục marathon tại Nam Cực](https://vnexpress.net/runner-pha-ky-luc-marathon-tai-nam-cuc-4817250.html) - 07:29 18/11/2024
-- 🥳 [Vì sao võ sĩ quyền Anh nhận hàng chục triệu USD mỗi trận?](https://vnexpress.net/vi-sao-vo-si-quyen-anh-nhan-hang-chuc-trieu-usd-moi-tran-4817269.html) - 07:09 18/11/2024
-- 🦣 [Thái Lan bị chỉ trích &#39;khó vượt tầm Đông Nam Á&#39;](https://vnexpress.net/thai-lan-bi-chi-trich-kho-vuot-tam-dong-nam-a-4817363.html) - 05:43 18/11/2024
-- 🌜 [Võ sĩ MMA tái hiện điệu nhảy của Donald Trump](https://vnexpress.net/vo-si-mma-tai-hien-dieu-nhay-cua-donald-trump-4817292.html) - 05:21 18/11/2024
-- 🫶 [&#39;Hot boy&#39; 1m87 giúp THPT Nguyễn Trãi - Ba Đình vào chung kết giải Bóng rổ trẻ 2024](https://vnexpress.net/hot-boy-1m87-giup-thpt-nguyen-trai-ba-dinh-vao-chung-ket-giai-bong-ro-tre-2024-4817092.html) - 05:00 18/11/2024
+- 🪜 [Khoảnh khắc bùng nổ của khán giả trong trận bán kết Bóng rổ trẻ 2024](https://vnexpress.net/khoanh-khac-bung-no-cua-khan-gia-trong-tran-ban-ket-bong-ro-tre-2024-4817093.html) - 11:00 18/11/2024
+- 🦩 [Mùa giải lịch sử của Sinner](https://vnexpress.net/mua-giai-lich-su-cua-sinner-4817417.html) - 09:16 18/11/2024
+- 🧰 [Tuyển Việt Nam vắng Công Phượng, Quế Ngọc Hải](https://vnexpress.net/tuyen-viet-nam-vang-cong-phuong-que-ngoc-hai-4817456.html) - 09:16 18/11/2024
+- 🤗 [Runners đất cảng dồn sức tập luyện cho VnExpress Marathon Hải Phòng](https://vnexpress.net/runners-dat-cang-don-suc-tap-luyen-cho-vnexpress-marathon-hai-phong-4816563.html) - 08:00 18/11/2024
+- 🥳 [Runner phá kỷ lục marathon tại Nam Cực](https://vnexpress.net/runner-pha-ky-luc-marathon-tai-nam-cuc-4817250.html) - 07:29 18/11/2024
+- 🦣 [Vì sao võ sĩ quyền Anh nhận hàng chục triệu USD mỗi trận?](https://vnexpress.net/vi-sao-vo-si-quyen-anh-nhan-hang-chuc-trieu-usd-moi-tran-4817269.html) - 07:09 18/11/2024
+- 🌜 [Thái Lan bị chỉ trích &#39;khó vượt tầm Đông Nam Á&#39;](https://vnexpress.net/thai-lan-bi-chi-trich-kho-vuot-tam-dong-nam-a-4817363.html) - 05:43 18/11/2024
+- 🫶 [Võ sĩ MMA tái hiện điệu nhảy của Donald Trump](https://vnexpress.net/vo-si-mma-tai-hien-dieu-nhay-cua-donald-trump-4817292.html) - 05:21 18/11/2024
 - 🌜 [Ronaldo đưa Guardiola vào kế hoạch cải tổ tuyển Brazil](https://vnexpress.net/ronaldo-dua-guardiola-vao-ke-hoach-cai-to-tuyen-brazil-4817266.html) - 04:29 18/11/2024
 - 😺 [9 đề cử Runner truyền cảm hứng](https://vnexpress.net/9-de-cu-runner-truyen-cam-hung-4816805.html) - 03:58 18/11/2024
 - 👍 [HLV của Lào không chắc Thái Lan vô địch AFF Cup 2024](https://vnexpress.net/hlv-cua-lao-khong-chac-thai-lan-vo-dich-aff-cup-2024-4812334.html) - 03:50 18/11/2024
