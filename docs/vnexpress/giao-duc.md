@@ -7,7 +7,7 @@ sidebar_position: 7
 - 🤓 [Tổng Bí thư gợi mở ba vấn đề với ngành Giáo dục](https://vnexpress.net/tong-bi-thu-goi-mo-ba-van-de-voi-nganh-giao-duc-4817291.html) - 04:24 18/11/2024
 - 🦆 [Độ thông thạo tiếng Anh của người Việt được tính thế nào](https://vnexpress.net/do-thong-thao-tieng-anh-cua-nguoi-viet-duoc-tinh-the-nao-4816663.html) - 03:29 18/11/2024
 - 🦩 [Ngành Digital Marketing học gì?](https://vnexpress.net/nganh-digital-marketing-hoc-gi-4815741.html) - 01:23 18/11/2024
-- 🌮 [Bỏ trường Y theo đuổi Sư phạm, cô gái được TP HCM tuyển dụng đặc cách](https://vnexpress.net/bo-truong-y-theo-duoi-su-pham-co-gai-duoc-tp-hcm-tuyen-dung-dac-cach-4816855.html) - 23:00 17/11/2024
+- 🌮 [Cô gái 27 tuổi được TP HCM tuyển đặc cách làm giáo viên trường chuyên](https://vnexpress.net/co-gai-27-tuoi-duoc-tp-hcm-tuyen-dac-cach-lam-giao-vien-truong-chuyen-4816855.html) - 23:00 17/11/2024
 - 🔭 [10 câu tiếng Anh chúc mừng thầy cô dịp 20/11](https://vnexpress.net/10-cau-tieng-anh-chuc-mung-thay-co-dip-20-11-4817081.html) - 17:00 17/11/2024
 - 💡 [Tỉnh nào có tỷ lệ người dân sở hữu ôtô cao nhất Việt Nam?](https://vnexpress.net/tinh-nao-co-ty-le-nguoi-dan-so-huu-oto-cao-nhat-viet-nam-4816904.html) - 13:18 17/11/2024
 - 🥰 [Bộ trưởng Giáo dục: Mong thầy cô ưu tú tiếp tục tự học, tỏa sáng](https://vnexpress.net/bo-truong-giao-duc-mong-thay-co-uu-tu-tiep-tuc-tu-hoc-toa-sang-4816989.html) - 04:13 17/11/2024
