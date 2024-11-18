@@ -27,7 +27,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Quốc gia nghèo tại Trung Mỹ dẫn đầu trong cách mạng tiền số](https://vnexpress.net/quoc-gia-ngheo-tai-trung-my-dan-dau-trong-cach-mang-tien-so-4817256.html) - 21:01 18/11/2024
-- 🧰 [Nở rộ dịch vụ hướng đến &#39;kinh tế độc thân&#39;](https://vnexpress.net/no-ro-dich-vu-huong-den-kinh-te-doc-than-4817580.html) - 21:00 18/11/2024
+- 🧰 [Nở rộ dịch vụ hướng đên &#39;kinh tế độc thân&#39;](https://vnexpress.net/no-ro-dich-vu-huong-den-kinh-te-doc-than-4817580.html) - 21:00 18/11/2024
 - 🥰 [Thanh niên đi xe máy ngược chiều bị ôtô đâm bay](https://vnexpress.net/thanh-nien-di-xe-may-nguoc-chieu-bi-oto-dam-bay-4817415.html) - 20:00 18/11/2024
 - 🌏 [Thị trường địa ốc phục hồi chưa đồng đều](https://vnexpress.net/thi-truong-dia-oc-phuc-hoi-chua-dong-deu-4817427.html) - 19:00 18/11/2024
 - 🧐 [Nhồi máu cơ tim do nghiện thuốc lá](https://vnexpress.net/nhoi-mau-co-tim-do-nghien-thuoc-la-4817327.html) - 17:03 18/11/2024
