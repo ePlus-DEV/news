@@ -30,7 +30,7 @@ sidebar_position: 3
 - 🎓 [Việt Nam nên phát triển điện hạt nhân như thế nào](https://vnexpress.net/viet-nam-nen-phat-trien-dien-hat-nhan-nhu-the-nao-4814905.html) - 22:00 15/11/2024
 - 🗽 [Lợi nhuận Gelex vượt 30% kế hoạch](https://vnexpress.net/loi-nhuan-gelex-vuot-30-ke-hoach-4816625.html) - 13:00 15/11/2024
 - 🚀 [Mỹ tiếp tục xác định Việt Nam không thao túng tiền tệ](https://vnexpress.net/my-tiep-tuc-xac-dinh-viet-nam-khong-thao-tung-tien-te-4816562.html) - 10:40 15/11/2024
-- 🤗 [Petrovietnam hoàn thành các chỉ tiêu tài chính năm](https://vnexpress.net/petrovietnam-hoan-thanh-cac-chi-tieu-tai-chinh-nam-4816276.html) - 10:00 15/11/2024
+- 🤗 [Petrovietnam đặt mục tiêu hoàn thành cao nhất chỉ tiêu năm](https://vnexpress.net/petrovietnam-dat-muc-tieu-hoan-thanh-cao-nhat-chi-tieu-nam-4816276.html) - 10:00 15/11/2024
 - 🌜 [SHS công bố nhận diện thương hiệu mới](https://vnexpress.net/shs-cong-bo-nhan-dien-thuong-hieu-moi-4816254.html) - 09:30 15/11/2024
 - 👍 [Hơn 300 cổ phiếu trên sàn HoSE giảm giá](https://vnexpress.net/chung-khoan-hom-nay-15-11-hon-300-co-phieu-tren-san-hose-giam-gia-4816535.html) - 09:04 15/11/2024
 - 🤖 [Dấu ấn 50 năm văn hoá doanh nghiệp làm nên DHG Pharma](https://vnexpress.net/dau-an-50-nam-van-hoa-doanh-nghiep-lam-nen-dhg-pharma-4810661.html) - 08:00 15/11/2024
