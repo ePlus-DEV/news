@@ -51,7 +51,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😺 [Áp lực lớn nhất của giáo viên đến từ phụ huynh](https://vnexpress.net/ap-luc-lon-nhat-cua-giao-vien-den-tu-phu-huynh-4817506.html) - 12:47 18/11/2024
 - 🤔 [Vinhomes hoàn thành một nửa kế hoạch mua cổ phiếu quỹ](https://vnexpress.net/vinhomes-hoan-thanh-mot-nua-ke-hoach-mua-co-phieu-quy-4817544.html) - 12:39 18/11/2024
 - 🌮 [Chủ tịch tỉnh Hà Giang Nguyễn Văn Sơn bị cảnh cáo](https://vnexpress.net/chu-tich-tinh-ha-giang-nguyen-van-son-bi-canh-cao-4817543.html) - 12:28 18/11/2024
-- 🦩 [5 học sinh Phú Thọ mất tích khi tắm sông Hồng](https://vnexpress.net/5-hoc-sinh-phu-tho-mat-tich-khi-tam-song-hong-4817539.html) - 12:11 18/11/2024
+- 🦩 [5 học sinh Phú Thọ mất tích khi chơi ở bãi cát ven sông Hồng](https://vnexpress.net/5-hoc-sinh-phu-tho-mat-tich-khi-choi-o-bai-cat-ven-song-hong-4817539.html) - 12:11 18/11/2024
 - 📝 [Sếp Xiaomi: &#39;Ngủ trên sàn nhà máy là dàn dựng&#39;](https://vnexpress.net/sep-xiaomi-ngu-tren-san-nha-may-la-dan-dung-4817481.html) - 12:00 18/11/2024
 - 🕴 [Ileana Márquez - từ mẹ đơn thân đến á hậu Miss Universe](https://vnexpress.net/ileana-marquez-tu-me-don-than-den-a-hau-miss-universe-4817260.html) - 12:00 18/11/2024
 - 🐲 [Cô gái 23 tuổi cao 1m63, hướng nội, ưa nhìn](https://vnexpress.net/co-gai-23-tuoi-cao-1m63-huong-noi-ua-nhin-4817192.html) - 12:00 18/11/2024
