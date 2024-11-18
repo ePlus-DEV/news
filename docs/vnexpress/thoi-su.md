@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Người dân vây bắt cá sấu hơn 60 kg](https://vnexpress.net/nguoi-dan-vay-bat-ca-sau-hon-60-kg-4817525.html) - 10:43 18/11/2024
+- 🦒 [Người dân vây bắt cá sấu hơn 80 kg](https://vnexpress.net/nguoi-dan-vay-bat-ca-sau-hon-80-kg-4817525.html) - 10:43 18/11/2024
 - 🤓 [Tàu tốc độ cao 350 km/h vận hành thế nào](https://vnexpress.net/tau-toc-do-cao-350-km-h-van-hanh-the-nao-4817309.html) - 10:20 18/11/2024
 - ⚗️ [Nghệ An có tân Chủ tịch Hội đồng nhân dân](https://vnexpress.net/nghe-an-co-tan-chu-tich-hoi-dong-nhan-dan-4817348.html) - 09:18 18/11/2024
 - 🌊 [Hà Nội dự kiến chi gần 4 tỷ đồng hỗ trợ người trồng đào Nhật Tân](https://vnexpress.net/ha-noi-du-kien-chi-gan-4-ty-dong-ho-tro-nguoi-trong-dao-nhat-tan-4817383.html) - 08:53 18/11/2024
