@@ -11,7 +11,7 @@ sidebar_position: 11
 - 👀 [Hàng trăm người diễu hành cổ phục trên phố đi bộ Hà Nội](https://vnexpress.net/hang-tram-nguoi-dieu-hanh-co-phuc-tren-pho-di-bo-ha-noi-4817112.html) - 14:09 17/11/2024
 - 🎭 [Nơi gấu Bắc Cực hồi sinh cả thị trấn](https://vnexpress.net/noi-gau-bac-cuc-hoi-sinh-ca-thi-tran-4816977.html) - 05:00 17/11/2024
 - 🦒 [Mì cua lông - món phải thử khi đến Thượng Hải](https://vnexpress.net/mi-cua-long-mon-phai-thu-khi-den-thuong-hai-4815334.html) - 03:26 17/11/2024
-- 👨‍🏫 [Thành phố ngầm hơn 3.000 năm tuổi ở Thổ Nhĩ Kỳ](https://vnexpress.net/thanh-pho-ngam-hon-3-000-nam-tuoi-o-tho-nhi-ky-4816178.html) - 01:10 17/11/2024
+- 👨‍🏫 [Thành phố ngầm nằm 85 m dưới lòng đất ở Thổ Nhĩ Kỳ](https://vnexpress.net/thanh-pho-ngam-nam-85-m-duoi-long-dat-o-tho-nhi-ky-4816178.html) - 01:10 17/11/2024
 - ⚗️ [Làng rau Trà Quế nằm cạnh sông nào?](https://vnexpress.net/lang-rau-tra-que-nam-canh-song-nao-4816912.html) - 00:41 17/11/2024
 - 🥸 [Thư viện kiến trúc Pháp gần 100 tuổi ở Quy Nhơn](https://vnexpress.net/thu-vien-kien-truc-phap-gan-100-tuoi-o-quy-nhon-4814775.html) - 00:00 17/11/2024
 - 🤠 [Nhiều đôi không thích ngồi cạnh nhau trên máy bay](https://vnexpress.net/nhieu-doi-khong-thich-ngoi-canh-nhau-tren-may-bay-4815889.html) - 05:00 16/11/2024
