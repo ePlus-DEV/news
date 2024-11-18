@@ -4,7 +4,7 @@ sidebar_position: 28
 ---
 
 <!-- dantri-photo-story:START -->
-- 💪 [Hoa hậu Thanh Thủy đi xe buýt 2 tầng, người hâm mộ vẫy tay reo hò bên đường](https://dantri.com.vn/giai-tri/hoa-hau-thanh-thuy-di-xe-buyt-2-tang-nguoi-ham-mo-vay-tay-reo-ho-ben-duong-20241118124607472.htm) - 06:14 18/11/2024
+- 💪 [Hoa hậu Thanh Thủy đi xe buýt 2 tầng, người hâm mộ chạy xe máy theo reo hò](https://dantri.com.vn/giai-tri/hoa-hau-thanh-thuy-di-xe-buyt-2-tang-nguoi-ham-mo-chay-xe-may-theo-reo-ho-20241118124607472.htm) - 06:14 18/11/2024
 - 🧰 [&quot;Phố Nhật Bản&quot; giữa lòng TPHCM trước thời điểm cải tạo](https://dantri.com.vn/xa-hoi/pho-nhat-ban-giua-long-tphcm-truoc-thoi-diem-cai-tao-20241115140144261.htm) - 00:23 18/11/2024
 - 🧰 [Hà Nội: 500 người mặc cổ phục Việt diễu hành dài gần 1km trên phố](https://dantri.com.vn/xa-hoi/ha-noi-500-nguoi-mac-co-phuc-viet-dieu-hanh-dai-gan-1km-tren-pho-20241117194506704.htm) - 13:50 17/11/2024
 - 😎 [Hiện trạng 2 Bệnh viện Trung ương nghìn tỷ tại Hà Nam chậm tiến độ](https://dantri.com.vn/suc-khoe/hien-trang-2-benh-vien-trung-uong-nghin-ty-tai-ha-nam-cham-tien-do-20241116125526388.htm) - 05:47 17/11/2024
