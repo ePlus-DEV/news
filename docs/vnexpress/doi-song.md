@@ -4,8 +4,8 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Tình yêu kiểu &#39;bỏ túi&#39; của người trẻ](https://vnexpress.net/tinh-yeu-kieu-bo-tui-cua-nguoi-tre-4816785.html) - 23:00 17/11/2024
-- 🎓 [Nỗi day dứt của người cha mắc bệnh tan máu](https://vnexpress.net/noi-day-dut-cua-nguoi-cha-mac-benh-tan-mau-4816416.html) - 17:00 17/11/2024
+- 🚀 [Gen Z Singapore kén chọn việc part-time](https://vnexpress.net/gen-z-singapore-ken-chon-viec-part-time-4817062.html) - 03:21 18/11/2024
+- 🎓 [Tình yêu kiểu &#39;bỏ túi&#39; của người trẻ](https://vnexpress.net/tinh-yeu-kieu-bo-tui-cua-nguoi-tre-4816785.html) - 23:00 17/11/2024
 - 🚦 [Chăm chồng cũ đã ly hôn 20 năm](https://vnexpress.net/cham-chong-cu-da-ly-hon-20-nam-4816879.html) - 13:00 17/11/2024
 - 🦣 [Tư thế ngủ nào tốt nhất?](https://vnexpress.net/tu-the-ngu-nao-tot-nhat-4817074.html) - 12:00 17/11/2024
 - 🎓 [Mâm cơm Hà Nội ngày cuối thu](https://vnexpress.net/mam-com-ha-noi-ngay-cuoi-thu-4817037.html) - 10:23 17/11/2024
