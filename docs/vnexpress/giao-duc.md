@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Tổng Bí thư: Phấn đấu tăng hạng giáo dục Việt Nam](https://vnexpress.net/tong-bi-thu-phan-dau-tang-hang-giao-duc-viet-nam-4817291.html) - 04:24 18/11/2024
+- 🤓 [Tổng Bí thư gợi mở ba vấn đề với ngành Giáo dục](https://vnexpress.net/tong-bi-thu-goi-mo-ba-van-de-voi-nganh-giao-duc-4817291.html) - 04:24 18/11/2024
 - 🦆 [Độ thông thạo tiếng Anh của người Việt được tính thế nào](https://vnexpress.net/do-thong-thao-tieng-anh-cua-nguoi-viet-duoc-tinh-the-nao-4816663.html) - 03:29 18/11/2024
 - 🦩 [Ngành Digital Marketing học gì?](https://vnexpress.net/nganh-digital-marketing-hoc-gi-4815741.html) - 01:23 18/11/2024
 - 🌮 [Bỏ trường Y theo đuổi Sư phạm, cô gái được TP HCM tuyển dụng đặc cách](https://vnexpress.net/bo-truong-y-theo-duoi-su-pham-co-gai-duoc-tp-hcm-tuyen-dung-dac-cach-4816855.html) - 23:00 17/11/2024
