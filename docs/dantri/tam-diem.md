@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- dantri-tam-diem:START -->
-- 🚦 [Vàng sống và vàng chết](https://dantri.com.vn/tam-diem/vang-song-va-vang-chet-20241117104449497.htm) - 11:50 17/11/2024
+- 🚦 [Vàng và trí tuệ tài chính](https://dantri.com.vn/tam-diem/vang-va-tri-tue-tai-chinh-20241117104449497.htm) - 11:50 17/11/2024
 - 🫶 [Thầy dễ, thầy khó](https://dantri.com.vn/tam-diem/thay-de-thay-kho-20241117092519879.htm) - 02:25 17/11/2024
 - 🦏 [Vì sao bảo tàng này thu hút hàng chục vạn khách, bảo tàng kia lại hiu hắt?](https://dantri.com.vn/tam-diem/vi-sao-bao-tang-nay-thu-hut-hang-chuc-van-khach-bao-tang-kia-lai-hiu-hat-20241116175604400.htm) - 11:38 16/11/2024
 - 🧰 [Xung quanh chúng ta toàn là rác thải nhựa: Giải pháp nào?](https://dantri.com.vn/tam-diem/xung-quanh-chung-ta-toan-la-rac-thai-nhua-giai-phap-nao-20241116072832736.htm) - 02:07 16/11/2024
