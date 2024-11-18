@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- dantri-kinh-doanh:START -->
 - 🏊 [Sắp có tọa đàm chuyển đổi xanh theo ESG cho doanh nghiệp hạn chế nguồn lực](https://dantri.com.vn/kinh-doanh/sap-co-toa-dam-chuyen-doi-xanh-theo-esg-cho-doanh-nghiep-han-che-nguon-luc-20241115143521379.htm) - 04:02 18/11/2024
 - 🦆 [Khoản đầu tư hơn 3.000 tỷ đồng của Vicem nguy cơ mất vốn](https://dantri.com.vn/kinh-doanh/khoan-dau-tu-hon-3000-ty-dong-cua-vicem-nguy-co-mat-von-20241118083513046.htm) - 02:50 18/11/2024
-- 🦄 [Jotun ra mắt sơn mờ tại thị trường Việt Nam](https://dantri.com.vn/kinh-doanh/jotun-ra-mat-son-mo-tai-thi-truong-viet-nam-20241115155019966.htm) - 02:00 18/11/2024
+- 🦄 [Jotun ra mắt sơn mờ Majestic Đẹp Nguyên Bản tại thị trường Việt Nam](https://dantri.com.vn/kinh-doanh/jotun-ra-mat-son-mo-majestic-dep-nguyen-ban-tai-thi-truong-viet-nam-20241115155019966.htm) - 02:00 18/11/2024
 - 🌝 [Chi tiết các hạng mục vinh danh tại Giải thưởng ESG Việt Nam 2024](https://dantri.com.vn/kinh-doanh/chi-tiet-cac-hang-muc-vinh-danh-tai-giai-thuong-esg-viet-nam-2024-20241110234508501.htm) - 01:56 18/11/2024
 - 💃 [Cơ hội sở hữu iPhone 16 khi mở tài khoản Plus trên Agribank Plus](https://dantri.com.vn/kinh-doanh/co-hoi-so-huu-iphone-16-khi-mo-tai-khoan-plus-tren-agribank-plus-20241111163222357.htm) - 01:00 18/11/2024
 - 🦏 [Tương ớt Chin-su gây ấn tượng tại 2 khu phố ẩm thực sầm uất Hàn Quốc và Nhật Bản](https://dantri.com.vn/kinh-doanh/tuong-ot-chin-su-gay-an-tuong-tai-2-khu-pho-am-thuc-sam-uat-han-quoc-va-nhat-ban-20241116224203237.htm) - 01:00 18/11/2024
