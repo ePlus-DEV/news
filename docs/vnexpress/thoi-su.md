@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [TP HCM đơn phương dừng hợp đồng BOT dự án đường nối cao tốc Trung Lương](https://vnexpress.net/tp-hcm-don-phuong-dung-hop-dong-bot-du-an-duong-noi-cao-toc-trung-luong-4817237.html) - 02:49 18/11/2024
 - 🤓 [Bão Manyi vào Biển Đông](https://vnexpress.net/bao-manyi-vao-bien-dong-4817157.html) - 01:12 18/11/2024
-- ⚗️ [Nhà khoa học Việt &#39;đủ năng lực đưa đất nước vào kỷ nguyên mới&#39;](https://vnexpress.net/nha-khoa-hoc-viet-du-nang-luc-dua-dat-nuoc-vao-ky-nguyen-moi-4816752.html) - 19:00 17/11/2024
+- ⚗️ [&#39;Không thay đổi cơ chế tài chính cho khoa học, Việt Nam sẽ tụt hậu&#39;](https://vnexpress.net/khong-thay-doi-co-che-tai-chinh-cho-khoa-hoc-viet-nam-se-tut-hau-4816752.html) - 19:00 17/11/2024
 - 🌊 [Việt Nam cùng ASEAN &#39;đổi mới để bay cao&#39;](https://vnexpress.net/viet-nam-cung-asean-doi-moi-de-bay-cao-4817121.html) - 13:43 17/11/2024
 - 🎓 [Bộ đội diễn tập phòng thủ đường không, đường biển](https://vnexpress.net/bo-doi-dien-tap-phong-thu-duong-khong-duong-bien-4817089.html) - 10:52 17/11/2024
 - 🔥 [Không khí lạnh đang tràn xuống miền Bắc](https://vnexpress.net/khong-khi-lanh-dang-tran-xuong-mien-bac-4817025.html) - 05:06 17/11/2024
