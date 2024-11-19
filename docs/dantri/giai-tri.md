@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Thanh Thảo rút đơn kiện sau 13 năm: &quot;Tôi chừa đường sống cho Thúy Vinh&quot;](https://dantri.com.vn/giai-tri/thanh-thao-rut-don-kien-sau-13-nam-toi-chua-duong-song-cho-thuy-vinh-20241119091531150.htm) - 04:15 19/11/2024
+- 🤩 [Thanh Thảo rút đơn kiện Thúy Vinh sau 13 năm: &quot;Tôi muốn ngừng đấu đá&quot;](https://dantri.com.vn/giai-tri/thanh-thao-rut-don-kien-thuy-vinh-sau-13-nam-toi-muon-ngung-dau-da-20241119091531150.htm) - 04:15 19/11/2024
 - 🔥 [Song Joong Ki và Song Hye Kyo được chọn là &quot;ngôi sao hạnh phúc sau ly hôn&quot;](https://dantri.com.vn/giai-tri/song-joong-ki-va-song-hye-kyo-duoc-chon-la-ngoi-sao-hanh-phuc-sau-ly-hon-20241118110417307.htm) - 02:43 19/11/2024
 - 🚀 [Đình Toàn nói lý do ở lại Idecaf, phủ nhận chuyện muốn thay thế Thành Lộc](https://dantri.com.vn/giai-tri/dinh-toan-noi-ly-do-o-lai-idecaf-phu-nhan-chuyen-muon-thay-the-thanh-loc-20241114091328653.htm) - 00:39 19/11/2024
 - 🔥 [Cơn khát vé &quot;Anh trai&quot;: Đến thời khán giả Việt đổ tiền cho thần tượng Việt?](https://dantri.com.vn/giai-tri/con-khat-ve-anh-trai-den-thoi-khan-gia-viet-do-tien-cho-than-tuong-viet-20241117103735641.htm) - 22:41 18/11/2024
