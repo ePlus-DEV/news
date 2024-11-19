@@ -7,21 +7,21 @@ sidebar_position: 5
 - 🪜 [&#39;Neymar đẳng cấp hơn Ronaldo, nhưng tự hủy hoại&#39;](https://vnexpress.net/neymar-dang-cap-hon-ronaldo-nhung-tu-huy-hoai-4817624.html) - 07:19 19/11/2024
 - 🦩 [Tân HLV Arab Saudi tránh sai lầm của Roberto Mancini](https://vnexpress.net/tan-hlv-arab-saudi-tranh-sai-lam-cua-roberto-mancini-4817817.html) - 07:05 19/11/2024
 - 🧰 [HLV Trung Quốc bị &#39;hỏi khó&#39; trước trận Nhật Bản](https://vnexpress.net/hlv-trung-quoc-bi-hoi-kho-truoc-tran-nhat-ban-4817778.html) - 05:36 19/11/2024
-- 🤗 [Đồng đội bị cấm bảy trận vì phân biệt chủng tộc Son Heung-min](https://vnexpress.net/dong-doi-bi-cam-bay-tran-vi-phan-biet-chung-toc-son-heung-min-4817782.html) - 05:22 19/11/2024
-- 🥳 [HLV Shin Tae-yong bình thản trước chỉ trích của CĐV Indonesia](https://vnexpress.net/hlv-shin-tae-yong-binh-than-truoc-chi-trich-cua-cdv-indonesia-4817777.html) - 05:14 19/11/2024
-- 🦣 [Kane mơ được dựng tượng ngoài sân Wembley](https://vnexpress.net/kane-mo-duoc-dung-tuong-ngoai-san-wembley-4817754.html) - 04:33 19/11/2024
-- 🌜 [Ronaldo hứa làm &#39;bùng nổ Internet&#39;](https://vnexpress.net/ronaldo-hua-lam-bung-no-internet-4817735.html) - 04:15 19/11/2024
-- 🫶 [Vì sao có người bỏ 2 triệu USD để xem trận Tyson - Paul?](https://vnexpress.net/vi-sao-co-nguoi-bo-2-trieu-usd-de-xem-tran-tyson-paul-4817547.html) - 03:55 19/11/2024
-- 🌜 [Vitatree đồng hành với VnExpress Marathon Hanoi Midnight 2024](https://vnexpress.net/vitatree-dong-hanh-voi-vnexpress-marathon-hanoi-midnight-2024-4817277.html) - 03:00 19/11/2024
-- 😺 [Nadal: &#39;Kịch bản chia tay chỉ có ở phim Hollywood&#39;](https://vnexpress.net/nadal-kich-ban-chia-tay-chi-co-o-phim-hollywood-4817700.html) - 02:53 19/11/2024
-- 👍 [11 đề cử HLV chạy bộ của năm](https://vnexpress.net/11-de-cu-hlv-chay-bo-cua-nam-4816992.html) - 02:28 19/11/2024
-- 🐵 [Buổi tập đầu tiên của Man Utd dưới thời HLV Amorim](https://vnexpress.net/buoi-tap-dau-tien-cua-man-utd-duoi-thoi-hlv-amorim-4817628.html) - 01:28 19/11/2024
-- 💫 [Sinner sắp vượt cả Alcaraz và Murray](https://vnexpress.net/sinner-sap-vuot-ca-alcaraz-va-murray-4817611.html) - 01:19 19/11/2024
-- 🦆 [Đội xếp cuối bảng FIFA làm nên lịch sử tại Nations League](https://vnexpress.net/doi-xep-cuoi-bang-fifa-lam-nen-lich-su-tai-nations-league-4817604.html) - 00:51 19/11/2024
-- 🙉 [Bồ Đào Nha hòa khi vắng Ronaldo](https://vnexpress.net/bo-dao-nha-hoa-khi-vang-ronaldo-4817591.html) - 00:42 19/11/2024
-- 📝 [Tây Ban Nha thắng nhờ bàn penalty phút bù](https://vnexpress.net/tay-ban-nha-thang-nho-ban-penalty-phut-bu-4817588.html) - 00:38 19/11/2024
-- 💯 [Đội huyền thoại Barca thắng Brazil](https://vnexpress.net/doi-huyen-thoai-barca-thang-brazil-4817497.html) - 23:07 18/11/2024
-- 🌈 [Kahn: &#39;Ronaldo De Lima mới là GOAT của bóng đá&#39;](https://vnexpress.net/kahn-ronaldo-de-lima-moi-la-goat-cua-bong-da-4817436.html) - 23:02 18/11/2024
+- 🤗 [HLV Shin Tae-yong bình thản trước chỉ trích của CĐV Indonesia](https://vnexpress.net/hlv-shin-tae-yong-binh-than-truoc-chi-trich-cua-cdv-indonesia-4817777.html) - 05:14 19/11/2024
+- 🥳 [Kane mơ được dựng tượng ngoài sân Wembley](https://vnexpress.net/kane-mo-duoc-dung-tuong-ngoai-san-wembley-4817754.html) - 04:33 19/11/2024
+- 🦣 [Ronaldo hứa làm &#39;bùng nổ Internet&#39;](https://vnexpress.net/ronaldo-hua-lam-bung-no-internet-4817735.html) - 04:15 19/11/2024
+- 🌜 [Vì sao có người bỏ 2 triệu USD để xem trận Tyson - Paul?](https://vnexpress.net/vi-sao-co-nguoi-bo-2-trieu-usd-de-xem-tran-tyson-paul-4817547.html) - 03:55 19/11/2024
+- 🫶 [Vitatree đồng hành với VnExpress Marathon Hanoi Midnight 2024](https://vnexpress.net/vitatree-dong-hanh-voi-vnexpress-marathon-hanoi-midnight-2024-4817277.html) - 03:00 19/11/2024
+- 🌜 [Nadal: &#39;Kịch bản chia tay chỉ có ở phim Hollywood&#39;](https://vnexpress.net/nadal-kich-ban-chia-tay-chi-co-o-phim-hollywood-4817700.html) - 02:53 19/11/2024
+- 😺 [11 đề cử HLV chạy bộ của năm](https://vnexpress.net/11-de-cu-hlv-chay-bo-cua-nam-4816992.html) - 02:28 19/11/2024
+- 👍 [Buổi tập đầu tiên của Man Utd dưới thời HLV Amorim](https://vnexpress.net/buoi-tap-dau-tien-cua-man-utd-duoi-thoi-hlv-amorim-4817628.html) - 01:28 19/11/2024
+- 🐵 [Sinner sắp vượt cả Alcaraz và Murray](https://vnexpress.net/sinner-sap-vuot-ca-alcaraz-va-murray-4817611.html) - 01:19 19/11/2024
+- 💫 [Đội xếp cuối bảng FIFA làm nên lịch sử tại Nations League](https://vnexpress.net/doi-xep-cuoi-bang-fifa-lam-nen-lich-su-tai-nations-league-4817604.html) - 00:51 19/11/2024
+- 🦆 [Bồ Đào Nha hòa khi vắng Ronaldo](https://vnexpress.net/bo-dao-nha-hoa-khi-vang-ronaldo-4817591.html) - 00:42 19/11/2024
+- 🙉 [Tây Ban Nha thắng nhờ bàn penalty phút bù](https://vnexpress.net/tay-ban-nha-thang-nho-ban-penalty-phut-bu-4817588.html) - 00:38 19/11/2024
+- 📝 [Đội huyền thoại Barca thắng Brazil](https://vnexpress.net/doi-huyen-thoai-barca-thang-brazil-4817497.html) - 23:07 18/11/2024
+- 💯 [Kahn: &#39;Ronaldo De Lima mới là GOAT của bóng đá&#39;](https://vnexpress.net/kahn-ronaldo-de-lima-moi-la-goat-cua-bong-da-4817436.html) - 23:02 18/11/2024
+- 🌈 [Đồng đội bị cấm bảy trận vì phân biệt chủng tộc Son Heung-min](https://vnexpress.net/dong-doi-bi-cam-bay-tran-vi-phan-biet-chung-toc-son-heung-min-4817782.html) - 23:00 18/11/2024
 - 🦩 [&#39;Hot boy&#39; 1m87 giúp THPT Nguyễn Trãi - Ba Đình vào chung kết giải Bóng rổ trẻ 2024](https://vnexpress.net/hot-boy-1m87-giup-thpt-nguyen-trai-ba-dinh-vao-chung-ket-giai-bong-ro-tre-2024-4817092.html) - 15:00 18/11/2024
 - 🐲 [Khoảnh khắc bùng nổ của khán giả trong trận bán kết Bóng rổ trẻ 2024](https://vnexpress.net/khoanh-khac-bung-no-cua-khan-gia-trong-tran-ban-ket-bong-ro-tre-2024-4817093.html) - 11:00 18/11/2024
 - 🌁 [Mùa giải lịch sử của Sinner](https://vnexpress.net/mua-giai-lich-su-cua-sinner-4817417.html) - 09:16 18/11/2024
