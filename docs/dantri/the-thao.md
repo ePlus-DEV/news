@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Indonesia vs Saudi Arabia: Indonesia ở thế chân tường](https://dantri.com.vn/the-thao/indonesia-vs-saudi-arabia-indonesia-o-the-chan-tuong-20241119183156283.htm) - 11:32 19/11/2024
+- 🎡 [Indonesia 2-0 Saudi Arabia &lpar;h2&rpar;: Không thể tin nổi!](https://dantri.com.vn/the-thao/indonesia-2-0-saudi-arabia-h2-khong-the-tin-noi-20241119183156283.htm) - 11:32 19/11/2024
 - 💯 [FIFA ra phán quyết về đội tuyển Nga ở World Cup 2026](https://dantri.com.vn/the-thao/fifa-ra-phan-quyet-ve-doi-tuyen-nga-o-world-cup-2026-20241119181751580.htm) - 11:17 19/11/2024
 - ⛽️ [Chuyên gia: &quot;HLV Kim Sang Sik có lý do khi không lựa chọn Công Phượng&quot;](https://dantri.com.vn/the-thao/chuyen-gia-hlv-kim-sang-sik-co-ly-do-khi-khong-lua-chon-cong-phuong-20241119161139770.htm) - 09:58 19/11/2024
 - 💃 [Giải BIM Group IRONMAN 70.3 Phu Quoc đào tạo kỹ năng an toàn nước cho học sinh](https://dantri.com.vn/the-thao/giai-bim-group-ironman-703-phu-quoc-dao-tao-ky-nang-an-toan-nuoc-cho-hoc-sinh-20241119102708584.htm) - 08:00 19/11/2024
