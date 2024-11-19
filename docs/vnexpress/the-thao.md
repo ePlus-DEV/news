@@ -5,8 +5,8 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Hoàng Đức, Văn Lâm toàn thắng sáu trận đầu mùa](https://vnexpress.net/hoang-duc-van-lam-toan-thang-sau-tran-dau-mua-4817969.html) - 13:23 19/11/2024
-- 🦩 [Indonesia 2-0 Arab Saudi &lpar;H2&rpar;: Người hùng rời sân](https://vnexpress.net/indonesia-2-0-arab-saudi-h2-nguoi-hung-roi-san-4817937.html) - 11:41 19/11/2024
-- 🧰 [Trung Quốc 1-3 Nhật Bản &lpar;H2&rpar;: Ogawa ghi cú đúp](https://vnexpress.net/trung-quoc-vs-nhat-ban-4817987.html) - 11:32 19/11/2024
+- 🦩 [Indonesia hạ Arab Saudi ở vòng loại World Cup 2026](https://vnexpress.net/indonesia-ha-arab-saudi-o-vong-loai-world-cup-2026-4817937.html) - 11:41 19/11/2024
+- 🧰 [Nhật Bản thắng dễ Trung Quốc bằng ba bàn đánh đầu](https://vnexpress.net/trung-quoc-vs-nhat-ban-4817987-tong-thuat.html) - 11:32 19/11/2024
 - 🤗 [5 đề cử nam VĐV chuyên nghiệp tiềm năng](https://vnexpress.net/5-de-cu-nam-vdv-chuyen-nghiep-tiem-nang-4817141.html) - 08:37 19/11/2024
 - 🥳 [&#39;Neymar đẳng cấp hơn Ronaldo, nhưng tự hủy hoại&#39;](https://vnexpress.net/neymar-dang-cap-hon-ronaldo-nhung-tu-huy-hoai-4817624.html) - 07:19 19/11/2024
 - 🦣 [Tân HLV Arab Saudi tránh sai lầm của Roberto Mancini](https://vnexpress.net/tan-hlv-arab-saudi-tranh-sai-lam-cua-roberto-mancini-4817817.html) - 07:05 19/11/2024
