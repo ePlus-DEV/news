@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Nadal thất bại trong trận ra quân của tuyển Tây Ban Nha](https://dantri.com.vn/the-thao/nadal-that-bai-trong-tran-ra-quan-cua-tuyen-tay-ban-nha-20241120033422464.htm) - 20:34 19/11/2024
+- 🎡 [Nadal thất bại trong trận ra quân của tuyển Tây Ban Nha ở Davis Cup](https://dantri.com.vn/the-thao/nadal-that-bai-trong-tran-ra-quan-cua-tuyen-tay-ban-nha-o-davis-cup-20241120033422464.htm) - 20:34 19/11/2024
 - 💯 [CLB Hải Phòng thắng dễ dàng HA Gia Lai, thoát nhóm nguy cơ xuống hạng](https://dantri.com.vn/the-thao/clb-hai-phong-thang-de-dang-ha-gia-lai-thoat-nhom-nguy-co-xuong-hang-20241119220956003.htm) - 15:17 19/11/2024
 - ⛽️ [Thua Nhật Bản, đội tuyển Trung Quốc bị Indonesia vượt mặt](https://dantri.com.vn/the-thao/thua-nhat-ban-doi-tuyen-trung-quoc-bi-indonesia-vuot-mat-20241119213917224.htm) - 14:42 19/11/2024
 - 💃 [SL Nghệ An thua đậm Thể Công Viettel, Hà Nội FC hòa CLB Quảng Nam](https://dantri.com.vn/the-thao/sl-nghe-an-thua-dam-the-cong-viettel-ha-noi-fc-hoa-clb-quang-nam-20241119205443070.htm) - 14:00 19/11/2024
