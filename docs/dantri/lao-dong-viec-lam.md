@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Giáo viên giỏi ở trường khi điều động lên quản lý lương bị giảm 1/3](https://dantri.com.vn/lao-dong-viec-lam/giao-vien-gioi-o-truong-khi-dieu-dong-len-quan-ly-luong-bi-giam-13-20241120105726879.htm) - 04:38 20/11/2024
+- ⚗️ [Giáo viên giỏi ở trường khi điều động lên quản lý thì lương bị giảm 1/3](https://dantri.com.vn/lao-dong-viec-lam/giao-vien-gioi-o-truong-khi-dieu-dong-len-quan-ly-thi-luong-bi-giam-13-20241120105726879.htm) - 04:38 20/11/2024
 - 🙉 [Những trường hợp nhân viên được từ chối việc sếp giao](https://dantri.com.vn/lao-dong-viec-lam/nhung-truong-hop-nhan-vien-duoc-tu-choi-viec-sep-giao-20241119101909552.htm) - 00:47 20/11/2024
 - 🕴 [Chiếc máy may trả góp và ông chủ lớn vẫn ham kiếm tiền, khởi nghiệp](https://dantri.com.vn/lao-dong-viec-lam/chiec-may-may-tra-gop-va-ong-chu-lon-van-ham-kiem-tien-khoi-nghiep-20241119111005822.htm) - 23:00 19/11/2024
 - 🧐 [74% nhân sự Việt cảm thấy thu nhập không đủ trang trải cuộc sống](https://dantri.com.vn/lao-dong-viec-lam/74-nhan-su-viet-cam-thay-thu-nhap-khong-du-trang-trai-cuoc-song-20241119161342157.htm) - 11:50 19/11/2024
