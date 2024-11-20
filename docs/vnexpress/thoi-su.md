@@ -15,7 +15,7 @@ sidebar_position: 1
 - 🧑‍🏫 [Bãi cát nơi 5 học sinh tử nạn từng nhiều lần sụt lún](https://vnexpress.net/bai-cat-noi-5-hoc-sinh-tu-nan-tung-nhieu-lan-sut-lun-4818248.html) - 07:52 20/11/2024
 - 🚦 [TP HCM muốn xóa nợ quá hạn cho người nghèo](https://vnexpress.net/tp-hcm-muon-xoa-no-qua-han-cho-nguoi-ngheo-4818221.html) - 05:05 20/11/2024
 - 🎉 [Bác đề xuất dỡ hàng rào quảng trường trung tâm tỉnh Đồng Nai](https://vnexpress.net/bac-de-xuat-do-hang-rao-quang-truong-trung-tam-tinh-dong-nai-4818178.html) - 03:30 20/11/2024
-- 🦒 [&#39;Yêu cầu nhóm yếu học thêm là điều cần thiết&#39;](https://vnexpress.net/yeu-cau-nhom-yeu-hoc-them-la-dieu-can-thiet-4818093.html) - 03:05 20/11/2024
+- 🦒 [&#39;Yêu cầu nhóm yếu học thêm là cần thiết&#39;](https://vnexpress.net/yeu-cau-nhom-yeu-hoc-them-la-can-thiet-4818093.html) - 03:05 20/11/2024
 - 🤗 [Bộ trưởng Nguyễn Kim Sơn: &#39;Nghề giáo không được thiết kế để làm giàu&#39;](https://vnexpress.net/bo-truong-nguyen-kim-son-nghe-giao-khong-duoc-thiet-ke-de-lam-giau-4818078.html) - 01:08 20/11/2024
 - 💼 [Bão Manyi tan trên biển](https://vnexpress.net/bao-manyi-tan-tren-bien-4818060.html) - 01:03 20/11/2024
 - 🤩 [Bà Rịa - Vũng Tàu sáp nhập hai huyện](https://vnexpress.net/thanh-lap-huyen-long-dat-tinh-ba-ria-vung-tau-4817962.html) - 01:00 20/11/2024
