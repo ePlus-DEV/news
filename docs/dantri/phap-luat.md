@@ -5,7 +5,7 @@ sidebar_position: 8
 
 <!-- dantri-phap-luat:START -->
 - 🌊 [Nhiều ao cá của dân nghi bị đầu độc bằng hóa chất](https://dantri.com.vn/phap-luat/nhieu-ao-ca-cua-dan-nghi-bi-dau-doc-bang-hoa-chat-20241120124612899.htm) - 06:45 20/11/2024
-- 🐲 [Dùng nhục hình làm chết người, cựu trung úy cảnh sát lĩnh 11 năm tù](https://dantri.com.vn/phap-luat/dung-nhuc-hinh-lam-chet-nguoi-cuu-trung-uy-canh-sat-linh-11-nam-tu-20241120122904748.htm) - 06:12 20/11/2024
+- 🐲 [Dùng nhục hình làm chết người, cựu trung úy cảnh sát lĩnh án tù](https://dantri.com.vn/phap-luat/dung-nhuc-hinh-lam-chet-nguoi-cuu-trung-uy-canh-sat-linh-an-tu-20241120122904748.htm) - 06:12 20/11/2024
 - 🌁 [Cựu Giám đốc Xuyên Việt Oil bị áp giải đến tòa](https://dantri.com.vn/phap-luat/cuu-giam-doc-xuyen-viet-oil-bi-ap-giai-den-toa-20241120085229369.htm) - 05:44 20/11/2024
 - 🎃 [Bà chủ Xuyên Việt Oil cùng nhiều quan chức hầu tòa tại TPHCM](https://dantri.com.vn/phap-luat/ba-chu-xuyen-viet-oil-cung-nhieu-quan-chuc-hau-toa-tai-tphcm-20241120092117156.htm) - 05:35 20/11/2024
 - 🦅 [Chủ tịch AIC Nguyễn Thị Thanh Nhàn bị truy tố ở vụ án thứ 5](https://dantri.com.vn/phap-luat/chu-tich-aic-nguyen-thi-thanh-nhan-bi-truy-to-o-vu-an-thu-5-20241120114005616.htm) - 05:06 20/11/2024
