@@ -4,11 +4,11 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Bãi cát nơi 5 học sinh tử nạn thường xuyên sụt lún](https://vnexpress.net/bai-cat-noi-5-hoc-sinh-tu-nan-thuong-xuyen-sut-lun-4818248.html) - 07:52 20/11/2024
+- 🦒 [Bãi cát nơi 5 học sinh tử nạn từng nhiều lần sụt lún](https://vnexpress.net/bai-cat-noi-5-hoc-sinh-tu-nan-tung-nhieu-lan-sut-lun-4818248.html) - 07:52 20/11/2024
 - 🤓 [TP HCM muốn xóa nợ quá hạn cho người nghèo](https://vnexpress.net/tp-hcm-muon-xoa-no-qua-han-cho-nguoi-ngheo-4818221.html) - 05:05 20/11/2024
 - ⚗️ [Bác đề xuất dỡ hàng rào quảng trường trung tâm tỉnh Đồng Nai](https://vnexpress.net/bac-de-xuat-do-hang-rao-quang-truong-trung-tam-tinh-dong-nai-4818178.html) - 03:30 20/11/2024
 - 🌊 [&#39;Yêu cầu nhóm yếu học thêm là điều cần thiết&#39;](https://vnexpress.net/yeu-cau-nhom-yeu-hoc-them-la-dieu-can-thiet-4818093.html) - 03:05 20/11/2024
-- 🎓 [Bộ trưởng Nguyễn Kim Sơn: &#39;Điểm nghẽn với nhân lực ngành giáo dục là thu nhập&#39;](https://vnexpress.net/bo-truong-nguyen-kim-son-diem-nghen-voi-nhan-luc-nganh-giao-duc-la-thu-nhap-4818078.html) - 01:08 20/11/2024
+- 🎓 [Bộ trưởng Nguyễn Kim Sơn: &#39;Nghề giáo không được thiết kế để làm giàu&#39;](https://vnexpress.net/bo-truong-nguyen-kim-son-nghe-giao-khong-duoc-thiet-ke-de-lam-giau-4818078.html) - 01:08 20/11/2024
 - 🔥 [Bão Manyi tan trên biển](https://vnexpress.net/bao-manyi-tan-tren-bien-4818060.html) - 01:03 20/11/2024
 - 🦏 [Bà Rịa - Vũng Tàu sáp nhập hai huyện](https://vnexpress.net/thanh-lap-huyen-long-dat-tinh-ba-ria-vung-tau-4817962.html) - 01:00 20/11/2024
 - 👺 [Dự án thủy sản rộng hơn 20 ha bỏ hoang](https://vnexpress.net/du-an-thuy-san-rong-hon-20-ha-bo-hoang-4817678.html) - 18:24 19/11/2024
@@ -34,7 +34,7 @@ sidebar_position: 1
 - 🦍 [Tinh gọn bộ máy các cơ quan của Quốc hội](https://vnexpress.net/tinh-gon-bo-may-cac-co-quan-cua-quoc-hoi-4817550.html) - 15:16 18/11/2024
 - 🧰 [Bé gái 5 tuổi bị ôtô tải cán tử vong](https://vnexpress.net/be-gai-5-tuoi-bi-oto-tai-can-tu-vong-4817555.html) - 14:45 18/11/2024
 - 💃 [Chủ tịch tỉnh Hà Giang Nguyễn Văn Sơn bị cảnh cáo](https://vnexpress.net/chu-tich-tinh-ha-giang-nguyen-van-son-bi-canh-cao-4817543.html) - 12:28 18/11/2024
-- 🧰 [5 học sinh Phú Thọ mất tích khi chơi ở bãi cát ven sông Hồng](https://vnexpress.net/5-hoc-sinh-phu-tho-mat-tich-khi-choi-o-bai-cat-ven-song-hong-4817539.html) - 12:11 18/11/2024
+- 🧰 [5 học sinh mất tích do sụt cát ven sông Hồng](https://vnexpress.net/5-hoc-sinh-mat-tich-do-sut-cat-ven-song-hong-4817539.html) - 12:11 18/11/2024
 - 🚀 [Nguyên Bí thư, Chủ tịch Vĩnh Phúc bị đề nghị kỷ luật](https://vnexpress.net/nguyen-bi-thu-chu-tich-vinh-phuc-bi-de-nghi-ky-luat-4817537.html) - 11:52 18/11/2024
 - 🎊 [Người dân vây bắt cá sấu hơn 80 kg](https://vnexpress.net/nguoi-dan-vay-bat-ca-sau-hon-80-kg-4817525.html) - 10:43 18/11/2024
 - 🤭 [Ba loại tàu khách tốc độ cao Bắc Nam](https://vnexpress.net/ba-loai-tau-khach-toc-do-cao-bac-nam-4817309.html) - 10:20 18/11/2024
