@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Sự phi thường của Rafael Nadal](https://vnexpress.net/su-phi-thuong-cua-rafael-nadal-4818058.html) - 07:26 20/11/2024
 - 🦩 [HLV của Inter Miami sẽ từ chức](https://vnexpress.net/hlv-cua-inter-miami-se-tu-chuc-4818241.html) - 07:15 20/11/2024
 - 🧰 [Mike Tyson từ chối so găng lần thứ ba với Holyfield](https://vnexpress.net/mike-tyson-tu-choi-so-gang-lan-thu-ba-voi-holyfield-4818149.html) - 07:10 20/11/2024
-- 🤗 [Huyền thoại điền kinh Mo Farah bắt trộm](https://vnexpress.net/huyen-thoai-dien-kinh-mo-farah-bat-trom-4818106.html) - 07:02 20/11/2024
+- 🤗 [Huyền thoại điền kinh Mo Farah chạy nước rút bắt trộm](https://vnexpress.net/huyen-thoai-dien-kinh-mo-farah-chay-nuoc-rut-bat-trom-4818106.html) - 07:02 20/11/2024
 - 🥳 [Di Maria từng cố ý hạ gục Messi](https://vnexpress.net/di-maria-tung-co-y-ha-guc-messi-4817904.html) - 06:52 20/11/2024
 - 🦣 [Indonesia vượt thành tích của Việt Nam ở vòng loại ba World Cup](https://vnexpress.net/indonesia-vuot-thanh-tich-cua-viet-nam-o-vong-loai-ba-world-cup-4818256.html) - 06:43 20/11/2024
 - 🌜 [Robot đầu tiên chuyên chạy marathon](https://vnexpress.net/robot-dau-tien-chuyen-chay-marathon-4818176.html) - 04:51 20/11/2024
