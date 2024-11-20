@@ -4,8 +4,8 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Dàn sao ra mắt phim 18+ của Hoa hậu Thùy Tiên](https://vnexpress.net/dan-sao-ra-mat-phim-18-cua-hoa-hau-thuy-tien-4818073.html) - 02:10 20/11/2024
-- 💫 [Pedro Pascal - tài tử gốc Chile thành danh ở Hollywood](https://vnexpress.net/pedro-pascal-tai-tu-goc-chile-thanh-danh-o-hollywood-4817668.html) - 17:00 19/11/2024
+- 🌏 [Quang Linh Vlogs và dàn sao ra mắt phim 18+ của Thùy Tiên](https://vnexpress.net/quang-linh-vlogs-va-dan-sao-ra-mat-phim-18-cua-thuy-tien-4818073.html) - 02:10 20/11/2024
+- 💫 [Pedro Pascal - nhân viên nhà hàng thành tài tử Hollywood](https://vnexpress.net/pedro-pascal-nhan-vien-nha-hang-thanh-tai-tu-hollywood-4817668.html) - 17:00 19/11/2024
 - 🌮 [Trang phục dân tộc nặng 25 kg của Phạm Tuấn Ngọc](https://vnexpress.net/trang-phuc-dan-toc-nang-25-kg-cua-pham-tuan-ngoc-4818010.html) - 15:06 19/11/2024
 - 🧠 [Mốt &#39;áo xấu&#39; thập niên 2000 hot trở lại](https://vnexpress.net/mot-ao-xau-thap-nien-2000-hot-tro-lai-4817949.html) - 13:29 19/11/2024
 - 👨‍🏫 [&#39;Em bé Hà Nội&#39; Lan Hương nhận đề cử LHP quốc tế Singapore](https://vnexpress.net/em-be-ha-noi-lan-huong-nhan-de-cu-lhp-quoc-te-singapore-4817981.html) - 12:15 19/11/2024
