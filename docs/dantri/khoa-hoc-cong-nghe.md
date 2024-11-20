@@ -5,7 +5,7 @@ sidebar_position: 25
 
 <!-- dantri-khoa-hoc-cong-nghe:START -->
 - 🪄 [Hàng triệu năm trước Nam Cực là rừng rậm nhiệt đới](https://dantri.com.vn/khoa-hoc-cong-nghe/hang-trieu-nam-truoc-nam-cuc-la-rung-ram-nhiet-doi-20241119004056417.htm) - 01:54 20/11/2024
-- 🤭 [Giả thuyết của Albert Einstein được chứng minh sau hơn 1 thế kỷ](https://dantri.com.vn/khoa-hoc-cong-nghe/gia-thuyet-cua-albert-einstein-duoc-chung-minh-sau-hon-1-the-ky-20241120072248366.htm) - 01:49 20/11/2024
+- 🤭 [Giả thuyết của Albert Einstein được chứng minh sau hơn một thế kỷ](https://dantri.com.vn/khoa-hoc-cong-nghe/gia-thuyet-cua-albert-einstein-duoc-chung-minh-sau-hon-mot-the-ky-20241120072248366.htm) - 01:49 20/11/2024
 - 🐻 [Tên lửa Starship lại phóng vào không gian: Chinh phục Sao Hỏa không còn xa](https://dantri.com.vn/khoa-hoc-cong-nghe/ten-lua-starship-lai-phong-vao-khong-gian-chinh-phuc-sao-hoa-khong-con-xa-20241120064249596.htm) - 00:08 20/11/2024
 - 🥰 [Cái chết có phải là chấm hết?](https://dantri.com.vn/khoa-hoc-cong-nghe/cai-chet-co-phai-la-cham-het-20241118073451196.htm) - 17:00 19/11/2024
 - 🥳 [Ấn Độ và kế hoạch xây dựng trạm vũ trụ bay quanh Mặt Trăng](https://dantri.com.vn/khoa-hoc-cong-nghe/an-do-va-ke-hoach-xay-dung-tram-vu-tru-bay-quanh-mat-trang-20241119074307613.htm) - 04:46 19/11/2024
