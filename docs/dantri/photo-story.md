@@ -4,7 +4,7 @@ sidebar_position: 28
 ---
 
 <!-- dantri-photo-story:START -->
-- 💪 [Người nhà nghẹn ngào ôm di vật nữ sinh đuối nước](https://dantri.com.vn/xa-hoi/nguoi-nha-nghen-ngao-om-di-vat-nu-sinh-duoi-nuoc-20241120091620388.htm) - 02:41 20/11/2024
+- 💪 [Người nhà nghẹn ngào ôm di vật nữ sinh đuối nước ở Phú Thọ](https://dantri.com.vn/xa-hoi/nguoi-nha-nghen-ngao-om-di-vat-nu-sinh-duoi-nuoc-o-phu-tho-20241120091620388.htm) - 02:41 20/11/2024
 - 🧰 [Siêu máy bay vận tải Airbus Beluga XL &quot;cá voi trắng&quot; lần đầu đến Việt Nam](https://dantri.com.vn/xa-hoi/sieu-may-bay-van-tai-airbus-beluga-xl-ca-voi-trang-lan-dau-den-viet-nam-20241120075742704.htm) - 01:50 20/11/2024
 - 🧰 [&quot;Anh hùng từ thiện&quot; xây nhà nội trú giúp học sinh thoát cảnh ngủ gầm sàn](https://dantri.com.vn/an-sinh/anh-hung-tu-thien-xay-nha-noi-tru-giup-hoc-sinh-thoat-canh-ngu-gam-san-20241120062741863.htm) - 01:02 20/11/2024
 - 😎 [Hàng nghìn phương tiện kẹt cứng ở cửa ngõ sân bay Tân Sơn Nhất](https://dantri.com.vn/xa-hoi/hang-nghin-phuong-tien-ket-cung-o-cua-ngo-san-bay-tan-son-nhat-20241119220706431.htm) - 00:21 20/11/2024
