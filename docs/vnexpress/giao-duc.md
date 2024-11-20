@@ -9,7 +9,7 @@ sidebar_position: 7
 - 🦩 [Học trò tặng cua dịp 20/11 gây sốt mạng xã hội](https://vnexpress.net/hoc-tro-tang-cua-dip-20-11-gay-sot-mang-xa-hoi-4818261.html) - 07:32 20/11/2024
 - 🌮 [Cô giáo người Mông tập huấn STEM, AI cho cả huyện](https://vnexpress.net/co-giao-nguoi-mong-tap-huan-stem-ai-cho-ca-huyen-4817222.html) - 06:44 20/11/2024
 - 🔭 [1,5 triệu sinh viên tham gia &#39;Lớp học đáp vui&#39;](https://vnexpress.net/1-5-trieu-sinh-vien-tham-gia-lop-hoc-dap-vui-4817838.html) - 05:00 20/11/2024
-- 💡 [&#39;Yêu cầu nhóm yếu học thêm là điều cần thiết&#39;](https://vnexpress.net/yeu-cau-nhom-yeu-hoc-them-la-dieu-can-thiet-4818093.html) - 03:05 20/11/2024
+- 💡 [&#39;Yêu cầu nhóm yếu học thêm là cần thiết&#39;](https://vnexpress.net/yeu-cau-nhom-yeu-hoc-them-la-can-thiet-4818093.html) - 03:05 20/11/2024
 - 🥰 [Hơn 2.100 ý tưởng sáng tạo tranh tài tại cuộc thi &#39;Tiếng nói Xanh&#39;](https://vnexpress.net/hon-2-100-y-tuong-sang-tao-tranh-tai-tai-cuoc-thi-tieng-noi-xanh-4818103.html) - 03:00 20/11/2024
 - 🐲 [Áp lực bủa vây thầy cô](https://vnexpress.net/ap-luc-bua-vay-thay-co-4818002.html) - 02:04 20/11/2024
 - 🦒 [Bộ trưởng Nguyễn Kim Sơn: &#39;Nghề giáo không được thiết kế để làm giàu&#39;](https://vnexpress.net/bo-truong-nguyen-kim-son-nghe-giao-khong-duoc-thiet-ke-de-lam-giau-4818078.html) - 01:08 20/11/2024
