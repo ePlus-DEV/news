@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [&#39;Những tấm lòng cao cả&#39; - trường ca về nghề dạy học](https://vnexpress.net/nhung-tam-long-cao-ca-truong-ca-ve-nghe-day-hoc-4818101.html) - 09:07 20/11/2024
-- 💫 [Nghĩa thầy trò trong ca khúc &#39;Khi tóc thầy bạc trắng&#39;](https://vnexpress.net/nghia-thay-tro-trong-ca-khuc-khi-toc-thay-bac-trang-4817756.html) - 08:21 20/11/2024
+- 💫 [Nghĩa thầy trò trong &#39;Khi tóc thầy bạc trắng&#39;](https://vnexpress.net/nghia-thay-tro-trong-khi-toc-thay-bac-trang-4817756.html) - 08:21 20/11/2024
 - 🌮 [Mẹ chồng tặng nón lá cho Thái Trinh](https://vnexpress.net/me-chong-tang-non-la-cho-thai-trinh-4818102.html) - 07:05 20/11/2024
 - 🧠 [Họa sĩ Nguyễn Quân tặng tranh lịch sử Hà Nội cho bảo tàng](https://vnexpress.net/hoa-si-nguyen-quan-tang-tranh-lich-su-ha-noi-cho-bao-tang-4818137.html) - 05:46 20/11/2024
 - 👨‍🏫 [Taylor Swift cho Rosé lời khuyên về sự nghiệp solo](https://vnexpress.net/taylor-swift-cho-rose-loi-khuyen-ve-su-nghiep-solo-4818099.html) - 04:39 20/11/2024
