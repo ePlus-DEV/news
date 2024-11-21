@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Chợ Bến Thành, Đền thờ Đức thánh Trần là di tích cấp thành phố](https://vnexpress.net/cho-ben-thanh-den-tho-duc-thanh-tran-la-di-tich-cap-thanh-pho-4818472.html) - 22:30 20/11/2024
 - 🤓 [Bạt núi mở rộng đường đèo An Khê](https://vnexpress.net/bat-nui-mo-rong-duong-deo-an-khe-4817875.html) - 22:00 20/11/2024
 - ⚗️ [Hà Nội sẽ nâng cấp đê ngăn lũ ở ngoại thành](https://vnexpress.net/ha-noi-se-nang-cap-de-ngan-lu-o-ngoai-thanh-4818468.html) - 21:00 20/11/2024
-- 🌊 [Xe giường nằm lùa nhiều xe máy bên vỉa hè](https://vnexpress.net/xe-giuong-nam-lua-nhieu-xe-may-ben-via-he-4818473.html) - 19:39 20/11/2024
+- 🌊 [Xe giường nằm tông xe máy, một người chết](https://vnexpress.net/xe-giuong-nam-tong-xe-may-mot-nguoi-chet-4818473.html) - 19:39 20/11/2024
 - 🎓 [Lập kế hoạch bảo tồn voi](https://vnexpress.net/lap-ke-hoach-bao-ton-voi-4818467.html) - 17:30 20/11/2024
 - 🔥 [Xe tải lao xuống chân cầu](https://vnexpress.net/xe-tai-lao-xuong-chan-cau-4818446.html) - 12:02 20/11/2024
 - 🦏 [&#39;Không đặt nhiệm vụ vận chuyển hàng hóa với đường sắt tốc độ cao&#39;](https://vnexpress.net/khong-dat-nhiem-vu-van-chuyen-hang-hoa-voi-duong-sat-toc-do-cao-4818428.html) - 11:32 20/11/2024
