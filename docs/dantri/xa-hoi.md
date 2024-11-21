@@ -13,7 +13,7 @@ sidebar_position: 1
 - 🤖 [30 nguy cơ đe dọa an ninh phi truyền thống](https://dantri.com.vn/xa-hoi/30-nguy-co-de-doa-an-ninh-phi-truyen-thong-20241121110805977.htm) - 04:30 21/11/2024
 - 🙉 [Một người Hà Nội trúng đấu giá 6 ô tô cũ của Văn phòng Chính phủ](https://dantri.com.vn/xa-hoi/mot-nguoi-ha-noi-trung-dau-gia-6-o-to-cu-cua-van-phong-chinh-phu-20241121112033694.htm) - 04:30 21/11/2024
 - 👍 [Quảng Nam phê bình 12 chủ tịch cấp huyện chậm đề nghị sửa đổi bảng giá đất](https://dantri.com.vn/xa-hoi/quang-nam-phe-binh-12-chu-tich-cap-huyen-cham-de-nghi-sua-doi-bang-gia-dat-20241121100428642.htm) - 04:17 21/11/2024
-- 🗽 [TPHCM chốt giá vé metro số 1](https://dantri.com.vn/xa-hoi/tphcm-chot-gia-ve-metro-so-1-20241121110452055.htm) - 04:10 21/11/2024
+- 🗽 [TPHCM chốt giá vé Metro số 1](https://dantri.com.vn/xa-hoi/tphcm-chot-gia-ve-metro-so-1-20241121110452055.htm) - 04:10 21/11/2024
 - 🗽 [TPHCM nói việc chưa đổi tên đường Alexandre de Rhodes, Trương Vĩnh Ký](https://dantri.com.vn/xa-hoi/tphcm-noi-viec-chua-doi-ten-duong-alexandre-de-rhodes-truong-vinh-ky-20241121101133067.htm) - 03:58 21/11/2024
 - 🔥 [Xe chở rác rơi khỏi cầu ở Thừa Thiên Huế, 2 người đang mất tích](https://dantri.com.vn/xa-hoi/xe-cho-rac-roi-khoi-cau-o-thua-thien-hue-2-nguoi-dang-mat-tich-20241121092844286.htm) - 03:14 21/11/2024
 - 🦒 [Tháo dỡ 15 biệt thự xây sai phép ở Nha Trang](https://dantri.com.vn/xa-hoi/thao-do-15-biet-thu-xay-sai-phep-o-nha-trang-20241120173020079.htm) - 02:52 21/11/2024
