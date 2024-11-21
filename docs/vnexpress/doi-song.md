@@ -7,7 +7,7 @@ sidebar_position: 6
 - 🚀 [5 đồ gia dụng không hỏng cũng nên bỏ](https://vnexpress.net/5-do-gia-dung-khong-hong-cung-nen-bo-4818463.html) - 01:12 21/11/2024
 - 🎓 [Những người tìm cách trốn ô nhiễm không khí Hà Nội](https://vnexpress.net/nhung-nguoi-tim-cach-tron-o-nhiem-khong-khi-ha-noi-4816919.html) - 23:00 20/11/2024
 - 🚦 [Những ngày chạy vạy cứu con của ông bố đơn thân](https://vnexpress.net/nhung-ngay-chay-vay-cuu-con-cua-ong-bo-don-than-4817024.html) - 17:00 20/11/2024
-- 🦣 [Bắp cải cuốn thịt sốt cà chua](https://vnexpress.net/bap-cai-cuon-thit-sot-ca-chua-4818347.html) - 10:31 20/11/2024
+- 🦣 [Bắp cải cuốn thịt sốt cà chua](https://vnexpress.net/doi-song-cooking-bap-cai-cuon-thit-sot-ca-chua-4818347.html) - 10:31 20/11/2024
 - 🎓 [Dấu hiệu cảnh báo mâu thuẫn tiền bạc](https://vnexpress.net/dau-hieu-canh-bao-mau-thuan-tien-bac-4818373.html) - 08:59 20/11/2024
 - 🎭 [Người trẻ Hàn Quốc phải làm thêm mới đủ sống](https://vnexpress.net/nguoi-tre-han-quoc-phai-lam-them-moi-du-song-4818194.html) - 08:00 20/11/2024
 - 🦅 [7 thói quen nhỏ giúp bạn trở thành người thú vị](https://vnexpress.net/7-thoi-quen-nho-giup-ban-tro-thanh-nguoi-thu-vi-4817951.html) - 06:52 20/11/2024
