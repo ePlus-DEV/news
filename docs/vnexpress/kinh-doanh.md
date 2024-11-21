@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Giá xăng về sát 20.500 đồng một lít](https://vnexpress.net/gia-xang-moi-nhat-hom-nay-21-11-4818739.html) - 07:29 21/11/2024
-- 🐲 [Xuất khẩu rau quả ước đạt hơn 6,6 tỷ USD trong 11 tháng](https://vnexpress.net/xuat-khau-rau-qua-uoc-dat-hon-6-6-ty-usd-trong-11-thang-4818676.html) - 07:28 21/11/2024
+- 🐲 [Rau quả xuất khẩu hơn 6,6 tỷ USD trong 11 tháng](https://vnexpress.net/rau-qua-xuat-khau-hon-6-6-ty-usd-trong-11-thang-4818676.html) - 07:28 21/11/2024
 - 🔥 [Phố mua sắm đắt đỏ nhất thế giới](https://vnexpress.net/pho-mua-sam-dat-do-nhat-the-gioi-4818598.html) - 05:28 21/11/2024
 - 🐵 [&#39;Gỡ khó cho nhà thương mại nhưng nhiều nơi xây xong không ai ở&#39;](https://vnexpress.net/go-kho-cho-nha-thuong-mai-nhung-nhieu-noi-xay-xong-khong-ai-o-4818650.html) - 05:16 21/11/2024
 - 🦅 [Các ứng viên Bộ trưởng Tài chính của ông Trump như thế nào](https://vnexpress.net/cac-ung-vien-bo-truong-tai-chinh-cua-ong-trump-nhu-the-nao-4818257.html) - 02:42 21/11/2024
