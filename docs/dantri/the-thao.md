@@ -4,11 +4,11 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Kiên cường hạ gục Thái Lan, tuyển futsal nữ Việt Nam vô địch Đông Nam Á](https://dantri.com.vn/the-thao/kien-cuong-ha-guc-thai-lan-tuyen-futsal-nu-viet-nam-vo-dich-dong-nam-a-20241121202846398.htm) - 13:28 21/11/2024
-- 💯 [Tuyển Việt Nam không gặp Thái Lan, Syria, Li Băng ở vòng loại Asian Cup](https://dantri.com.vn/the-thao/tuyen-viet-nam-khong-gap-thai-lan-syria-li-bang-o-vong-loai-asian-cup-20241121203446698.htm) - 13:27 21/11/2024
-- ⛽️ [Báo Hà Lan kinh ngạc sau chiến thắng của Indonesia](https://dantri.com.vn/the-thao/bao-ha-lan-kinh-ngac-sau-chien-thang-cua-indonesia-20241121192809292.htm) - 12:52 21/11/2024
-- 💃 [Ban tổ chức SEA Games công bố 53 môn thi đấu: Có cả môn kéo co](https://dantri.com.vn/the-thao/ban-to-chuc-sea-games-cong-bo-53-mon-thi-dau-co-ca-mon-keo-co-20241121195153208.htm) - 12:52 21/11/2024
-- 🌈 [C.Ronaldo móc bóng sút bay tuổi già, Messi kiến tạo siêu phẩm](https://dantri.com.vn/the-thao/cronaldo-moc-bong-sut-bay-tuoi-gia-messi-kien-tao-sieu-pham-20241121182515081.htm) - 11:25 21/11/2024
+- 🎡 [C.Ronaldo móc bóng sút bay tuổi già, Messi kiến tạo siêu phẩm](https://dantri.com.vn/the-thao/cronaldo-moc-bong-sut-bay-tuoi-gia-messi-kien-tao-sieu-pham-20241121182515081.htm) - 13:29 21/11/2024
+- 💯 [Kiên cường hạ gục Thái Lan, tuyển futsal nữ Việt Nam vô địch Đông Nam Á](https://dantri.com.vn/the-thao/kien-cuong-ha-guc-thai-lan-tuyen-futsal-nu-viet-nam-vo-dich-dong-nam-a-20241121202846398.htm) - 13:28 21/11/2024
+- ⛽️ [Tuyển Việt Nam không gặp Thái Lan, Syria, Li Băng ở vòng loại Asian Cup](https://dantri.com.vn/the-thao/tuyen-viet-nam-khong-gap-thai-lan-syria-li-bang-o-vong-loai-asian-cup-20241121203446698.htm) - 13:27 21/11/2024
+- 💃 [Báo Hà Lan kinh ngạc sau chiến thắng của Indonesia](https://dantri.com.vn/the-thao/bao-ha-lan-kinh-ngac-sau-chien-thang-cua-indonesia-20241121192809292.htm) - 12:52 21/11/2024
+- 🌈 [Ban tổ chức SEA Games công bố 53 môn thi đấu: Có cả môn kéo co](https://dantri.com.vn/the-thao/ban-to-chuc-sea-games-cong-bo-53-mon-thi-dau-co-ca-mon-keo-co-20241121195153208.htm) - 12:52 21/11/2024
 - 🦅 [HLV Kim Sang Sik nhận tin vui trước ngày tuyển Việt Nam đi Hàn Quốc](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-nhan-tin-vui-truoc-ngay-tuyen-viet-nam-di-han-quoc-20241121144803433.htm) - 07:48 21/11/2024
 - 🌝 [Điều khoản đặc biệt của Pep Guardiola với Man City](https://dantri.com.vn/the-thao/dieu-khoan-dac-biet-cua-pep-guardiola-voi-man-city-20241121131352981.htm) - 06:13 21/11/2024
 - 🚀 [Báo Trung Quốc khuyên HLV Ivankovic nên thẳng tay loại đội trưởng](https://dantri.com.vn/the-thao/bao-trung-quoc-khuyen-hlv-ivankovic-nen-thang-tay-loai-doi-truong-20241121091802383.htm) - 05:18 21/11/2024
