@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Ông Putin: Nga đã tập kích Ukraine bằng tên lửa tầm trung đời mới](https://vnexpress.net/ong-putin-nga-da-tap-kich-ukraine-bang-ten-lua-tam-trung-doi-moi-4818951.html) - 17:33 21/11/2024
+- 🎭 [Ông Putin: Nga đã tập kích Ukraine bằng tên lửa tầm trung mới nhất](https://vnexpress.net/ong-putin-nga-da-tap-kich-ukraine-bang-ten-lua-tam-trung-moi-nhat-4818951.html) - 17:33 21/11/2024
 - 🕴 [Nga tuyên bố căn cứ tên lửa Mỹ ở Ba Lan là &#39;mục tiêu ưu tiên&#39;](https://vnexpress.net/nga-tuyen-bo-can-cu-ten-lua-my-o-ba-lan-la-muc-tieu-uu-tien-4818890.html) - 17:18 21/11/2024
 - 🤭 [Cuộc chiến ngầm giữa tình báo Israel và Iran](https://vnexpress.net/cuoc-chien-ngam-giua-tinh-bao-israel-va-iran-4817602.html) - 17:00 21/11/2024
 - 🧑‍💻 [&#39;Việt Nam muốn gắn kết chặt chẽ với Campuchia trong kỷ nguyên mới&#39;](https://vnexpress.net/viet-nam-muon-gan-ket-chat-che-voi-campuchia-trong-ky-nguyen-moi-4818922.html) - 16:45 21/11/2024
