@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Những nguy cơ của an ninh phi truyền thống](https://vnexpress.net/nhung-nguy-co-cua-an-ninh-phi-truyen-thong-4818678.html) - 05:05 21/11/2024
+- 😎 [Những nguy cơ đe dọa an ninh phi truyền thống](https://vnexpress.net/nhung-nguy-co-de-doa-an-ninh-phi-truyen-thong-4818678.html) - 05:05 21/11/2024
 - 🥰 [Mẹ vướng lao lý vì phạt học kém, bắt con đi bộ 3 km trên cao tốc](https://vnexpress.net/me-vuong-lao-ly-vi-phat-hoc-kem-bat-con-di-bo-3-km-tren-cao-toc-4818656.html) - 04:52 21/11/2024
 - 🎓 [Kẻ giết 14 người bằng &#39;viên thảo dược tẩm thuốc độc&#39; bị tuyên tử hình](https://vnexpress.net/ke-giet-14-nguoi-bang-vien-thao-duoc-tam-thuoc-doc-bi-tuyen-tu-hinh-4818559.html) - 03:14 21/11/2024
 - 🤓 [Bắn thủng chai hóa chất để đầu độc ao cá nhà hàng xóm](https://vnexpress.net/ban-thung-chai-hoa-chat-de-dau-doc-ao-ca-nha-hang-xom-4818502.html) - 01:37 21/11/2024
