@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Chủ tịch Quốc hội Trần Thanh Mẫn nhận huân chương Công trạng của Campuchia](https://vnexpress.net/chu-tich-quoc-hoi-tran-thanh-man-nhan-huan-chuong-cong-trang-cua-campuchia-4818903.html) - 13:08 21/11/2024
+- 🎭 [Chủ tịch Quốc hội Trần Thanh Mẫn nhận Huân chương Công trạng của Campuchia](https://vnexpress.net/chu-tich-quoc-hoi-tran-thanh-man-nhan-huan-chuong-cong-trang-cua-campuchia-4818903.html) - 13:08 21/11/2024
 - 🕴 [ICC phát lệnh bắt Thủ tướng Israel, chỉ huy Hamas](https://vnexpress.net/icc-phat-lenh-bat-thu-tuong-israel-chi-huy-hamas-4818906.html) - 12:12 21/11/2024
 - 🤭 [52% dư luận Ukraine ủng hộ đàm phán, sớm kết thúc chiến sự](https://vnexpress.net/52-du-luan-ukraine-ung-ho-dam-phan-som-ket-thuc-chien-su-4818689.html) - 11:44 21/11/2024
 - 🧑‍💻 [Khoảnh khắc &#39;tên lửa xuyên lục địa Nga&#39; lao xuống thành phố Ukraine](https://vnexpress.net/khoanh-khac-ten-lua-xuyen-luc-dia-nga-lao-xuong-thanh-pho-ukraine-4818849.html) - 10:19 21/11/2024
