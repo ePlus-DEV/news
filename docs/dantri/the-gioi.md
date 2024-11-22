@@ -5,7 +5,7 @@ sidebar_position: 17
 
 <!-- dantri-the-gioi:START -->
 - 🌋 [Hong Kong phá dường dây mại dâm liên quan nhiều sao phim khiêu dâm châu Á](https://dantri.com.vn/the-gioi/hong-kong-pha-duong-day-mai-dam-lien-quan-nhieu-sao-phim-khieu-dam-chau-a-20241122111541767.htm) - 05:08 22/11/2024
-- 🎬 [Nhật Bản phát hiện &quot;kho báu&quot; 26 tỷ USD dưới đáy biển](https://dantri.com.vn/the-gioi/nhat-ban-phat-hien-kho-bau-26-ty-usd-duoi-day-bien-20241122114244585.htm) - 04:53 22/11/2024
+- 🎬 [Nhật Bản phát hiện &quot;kho báu&quot; trị giá 26 tỷ USD dưới đáy biển](https://dantri.com.vn/the-gioi/nhat-ban-phat-hien-kho-bau-tri-gia-26-ty-usd-duoi-day-bien-20241122114244585.htm) - 04:53 22/11/2024
 - 🧰 [Chiến sự Ukraine 22/11: Quân Nga đột kích ở Kurakhove, quân Kiev tháo chạy](https://dantri.com.vn/the-gioi/chien-su-ukraine-2211-quan-nga-dot-kich-o-kurakhove-quan-kiev-thao-chay-20241122112719891.htm) - 04:37 22/11/2024
 - 🌋 [Ukraine dọa tấn công các mục tiêu quân sự trong lãnh thổ Nga](https://dantri.com.vn/the-gioi/ukraine-doa-tan-cong-cac-muc-tieu-quan-su-trong-lanh-tho-nga-20241122093727950.htm) - 04:18 22/11/2024
 - 🗽 [Hạ viện Nga duyệt ngân sách quốc phòng cao kỷ lục](https://dantri.com.vn/the-gioi/ha-vien-nga-duyet-ngan-sach-quoc-phong-cao-ky-luc-20241122105754485.htm) - 04:15 22/11/2024
