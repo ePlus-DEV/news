@@ -147,7 +147,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [UEFA Nations League: Những cuộc chạm trán rực lửa ở tứ kết](https://thanhnien.vn/uefa-nations-league-nhung-cuoc-cham-tran-ruc-lua-o-tu-ket-185241122222036318.htm) - 15:20 22/11/2024
+- 🤠 [Bốc thăm UEFA Nations League: Những cuộc chạm trán rực lửa ở tứ kết](https://thanhnien.vn/uefa-nations-league-nhung-cuoc-cham-tran-ruc-lua-o-tu-ket-185241122222036318.htm) - 15:20 22/11/2024
 - 🥸 [Chưa tốt nghiệp đại học đã được tuyển dụng](https://thanhnien.vn/chua-tot-nghiep-dai-hoc-da-duoc-tuyen-dung-185241122210720796.htm) - 15:08 22/11/2024
 - 🌁 [MG G50 giá dự kiến 550 triệu, &#39;rục rịch&#39; nhận đặt cọc tại đại lý](https://thanhnien.vn/mg-g50-gia-du-kien-550-trieu-ruc-rich-nhan-dat-coc-tai-dai-ly-185241122061041015.htm) - 14:43 22/11/2024
 - 🤡 [Trung Quốc sắp khôi phục chế độ miễn thị thực cho du khách Nhật](https://thanhnien.vn/trung-quoc-sap-khoi-phuc-che-do-mien-thi-thuc-cho-du-khach-nhat-185241122195255681.htm) - 14:09 22/11/2024
