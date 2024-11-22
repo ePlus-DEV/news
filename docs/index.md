@@ -76,8 +76,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💫 [Dùng Internet tốc độ cao có thể gây béo phì](https://vnexpress.net/dung-internet-toc-do-cao-co-the-gay-beo-phi-4818941.html) - 01:05 22/11/2024
 - 🤩 [Giá vàng thế giới tăng phiên thứ 4 liên tiếp](https://vnexpress.net/gia-vang-the-gioi-tang-phien-thu-4-lien-tiep-4818976.html) - 01:01 22/11/2024
 - 🏊 [Nhìn hình bạn có đoán được câu thành ngữ này?](https://vnexpress.net/nhin-hinh-ban-co-doan-duoc-cau-thanh-ngu-nay-4817461.html) - 01:00 22/11/2024
-- 💂 [Người dùng nói gì về dịch vụ Family Safe của VNPT](https://vnexpress.net/nguoi-dung-noi-gi-ve-dich-vu-family-safe-cua-vnpt-4818983.html) - 01:00 22/11/2024
-- 🚀 [Vietbank triển khai chương trình khuyến mại đón Tết](https://vnexpress.net/vietbank-trien-khai-chuong-trinh-khuyen-mai-don-tet-4818888.html) - 01:00 22/11/2024<!-- vnexpress:END -->
+- 💂 [Người dùng nói gì về dịch vụ Family Safe của VNPT](https://vnexpress.net/nguoi-dung-noi-gi-ve-dich-vu-family-safe-cua-vnpt-4818983.html) - 01:00 22/11/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
