@@ -4,7 +4,7 @@ sidebar_position: 21
 ---
 
 <!-- dantri-bat-dong-san:START -->
-- 🌏 [Những căn biệt thự &quot;ma&quot; bị bỏ quên hơn một thập kỷ tại TPHCM.](https://dantri.com.vn/bat-dong-san/nhung-can-biet-thu-ma-bi-bo-quen-hon-mot-thap-ky-tai-tphcm-20241120194209639.htm) - 05:00 22/11/2024
+- 🌏 [Những căn biệt thự &quot;ma&quot; bị bỏ quên hơn một thập kỷ tại TPHCM](https://dantri.com.vn/bat-dong-san/nhung-can-biet-thu-ma-bi-bo-quen-hon-mot-thap-ky-tai-tphcm-20241120194209639.htm) - 05:00 22/11/2024
 - 👹 [Đà Nẵng sẽ đấu giá khu đất hơn 13ha, xây dự án 3.500 tỷ đồng](https://dantri.com.vn/bat-dong-san/da-nang-se-dau-gia-khu-dat-hon-13ha-xay-du-an-3500-ty-dong-20241118145539687.htm) - 04:13 22/11/2024
 - 💡 [TUTA Group ra mắt dinh thự thương mại Royal Mansion](https://dantri.com.vn/bat-dong-san/tuta-group-ra-mat-dinh-thu-thuong-mai-royal-mansion-20241122105310347.htm) - 04:10 22/11/2024
 - 🌋 [Các huyện ven Hà Nội đua nhau đấu giá đất dịp cuối năm](https://dantri.com.vn/bat-dong-san/cac-huyen-ven-ha-noi-dua-nhau-dau-gia-dat-dip-cuoi-nam-20241122021133906.htm) - 01:28 22/11/2024
