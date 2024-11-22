@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Loạt cầu &#39;đắp chiếu&#39; do thiếu đường kết nối](https://vnexpress.net/loat-cau-dap-chieu-do-thieu-duong-ket-noi-4818817.html) - 22:00 21/11/2024
+- 🦒 [Loạt cầu xây xong thiếu đường kết nối](https://vnexpress.net/loat-cau-xay-xong-thieu-duong-ket-noi-4818817.html) - 22:00 21/11/2024
 - 🤓 [Chi phí vận hành đường sắt tốc độ cao khoảng 500 triệu USD mỗi năm](https://vnexpress.net/chi-phi-van-hanh-duong-sat-toc-do-cao-khoang-500-trieu-usd-moi-nam-4818818.html) - 17:51 21/11/2024
 - ⚗️ [Treo ôtô lên cổng nhà &#39;làm kỷ niệm&#39;](https://vnexpress.net/treo-oto-len-cong-nha-lam-ky-niem-4818815.html) - 13:02 21/11/2024
 - 🌊 [Hải Phòng ra mắt chính quyền số](https://vnexpress.net/hai-phong-ra-mat-chinh-quyen-so-4818895.html) - 12:15 21/11/2024
