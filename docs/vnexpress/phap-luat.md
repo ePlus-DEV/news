@@ -14,7 +14,7 @@ sidebar_position: 12
 - 🗽 [Nghịch tử vẩy xăng khiến bố mẹ chết cháy](https://vnexpress.net/nghich-tu-vay-xang-khien-bo-me-chet-chay-4819022.html) - 02:44 22/11/2024
 - 🌋 [Anh chị có quyền đòi chia đất gia đình khi em trai đã đứng tên sổ đỏ?](https://vnexpress.net/anh-chi-co-quyen-doi-chia-dat-gia-dinh-khi-em-trai-da-dung-ten-so-do-4815326.html) - 23:00 21/11/2024
 - 🎬 [Sinh viên trộm ôtô của cô giáo](https://vnexpress.net/sinh-vien-trom-oto-cua-co-giao-4818929.html) - 17:00 21/11/2024
-- 💯 [Mất hàng trăm triệu đồng vì 4 kẻ &#39;hợp lực&#39; lừa đi xuất khẩu lao động](https://vnexpress.net/bay-dang-tin-tuyen-dung-qua-facebook-lua-tien-nguoi-can-viec-lam-4818892.html) - 17:00 21/11/2024
+- 💯 [Mất hàng trăm triệu đồng vì bị 4 kẻ &#39;hợp lực giăng bẫy lừa&#39;](https://vnexpress.net/bay-dang-tin-tuyen-dung-qua-facebook-lua-tien-nguoi-can-viec-lam-4818892.html) - 17:00 21/11/2024
 - 🌏 [Âm mưu sát hại tình địch của ngôi sao phim khiêu dâm](https://vnexpress.net/am-muu-hai-chong-nguoi-tinh-cua-ngoi-sao-phim-khieu-dam-4818900.html) - 13:42 21/11/2024
 - 🌊 [Đánh bạn nhậu gần chết vì xúi giục chửi nhau](https://vnexpress.net/danh-ban-nhau-gan-chet-vi-xui-giuc-chui-nhau-4818910.html) - 13:36 21/11/2024
 - 💂 [Cựu vụ phó Bộ Công Thương: &#39;Không đòi hỏi lợi ích từ Xuyên Việt Oil&#39;](https://vnexpress.net/cuu-vu-pho-bo-cong-thuong-khong-doi-hoi-loi-ich-tu-xuyen-viet-oil-4818862.html) - 10:41 21/11/2024
