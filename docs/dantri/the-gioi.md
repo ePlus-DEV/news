@@ -4,7 +4,7 @@ sidebar_position: 17
 ---
 
 <!-- dantri-the-gioi:START -->
-- 🌋 [Nga - Mỹ &quot;ăn miếng trả miếng&quot;, Thế chiến 3 trên bờ vực bùng nổ?](https://dantri.com.vn/the-gioi/nga-my-an-mieng-tra-mieng-the-chien-3-tren-bo-vuc-bung-no-20241122125159475.htm) - 06:29 22/11/2024
+- 🌋 [Nga - Mỹ &quot;ăn miếng trả miếng&quot;, Thế chiến III trên bờ vực bùng nổ?](https://dantri.com.vn/the-gioi/nga-my-an-mieng-tra-mieng-the-chien-iii-tren-bo-vuc-bung-no-20241122125159475.htm) - 06:29 22/11/2024
 - 🎬 [Hong Kong phá dường dây mại dâm liên quan nhiều sao phim khiêu dâm châu Á](https://dantri.com.vn/the-gioi/hong-kong-pha-duong-day-mai-dam-lien-quan-nhieu-sao-phim-khieu-dam-chau-a-20241122111541767.htm) - 05:08 22/11/2024
 - 🧰 [Nhật Bản phát hiện &quot;kho báu&quot; trị giá 26 tỷ USD dưới đáy biển](https://dantri.com.vn/the-gioi/nhat-ban-phat-hien-kho-bau-tri-gia-26-ty-usd-duoi-day-bien-20241122114244585.htm) - 04:53 22/11/2024
 - 🌋 [Chiến sự Ukraine 22/11: Quân Nga đột kích ở Kurakhove, quân Kiev tháo chạy](https://dantri.com.vn/the-gioi/chien-su-ukraine-2211-quan-nga-dot-kich-o-kurakhove-quan-kiev-thao-chay-20241122112719891.htm) - 04:37 22/11/2024
