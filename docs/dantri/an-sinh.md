@@ -4,9 +4,9 @@ sidebar_position: 11
 ---
 
 <!-- dantri-an-sinh:START -->
-- 👺 [Vận động hơn 335 tỷ đồng hỗ trợ 450.000 trẻ em khó khăn, yếu thế](https://dantri.com.vn/an-sinh/van-dong-hon-335-ty-dong-ho-tro-450000-tre-em-kho-khan-yeu-the-20241122131135484.htm) - 08:25 22/11/2024
-- 👀 [Hơn 5.000 vé xe, máy bay đón Tết Ất Tỵ 2025 miễn phí tặng người lao động](https://dantri.com.vn/an-sinh/hon-5000-ve-xe-may-bay-don-tet-at-ty-2025-mien-phi-tang-nguoi-lao-dong-20241122141224325.htm) - 07:48 22/11/2024
-- 💡 [Thanh niên tông đổ xe khoai chiên và phản ứng &quot;triệu tim&quot; của chủ quán](https://dantri.com.vn/an-sinh/thanh-nien-tong-do-xe-khoai-chien-va-phan-ung-trieu-tim-cua-chu-quan-20241122134409993.htm) - 07:37 22/11/2024
+- 👺 [49 giây nhóm &quot;người hùng&quot; ở Hà Nội phá cửa, cứu ngôi nhà phát hỏa](https://dantri.com.vn/an-sinh/49-giay-nhom-nguoi-hung-o-ha-noi-pha-cua-cuu-ngoi-nha-phat-hoa-20241122164121915.htm) - 09:59 22/11/2024
+- 👀 [Vận động hơn 335 tỷ đồng hỗ trợ 450.000 trẻ em khó khăn, yếu thế](https://dantri.com.vn/an-sinh/van-dong-hon-335-ty-dong-ho-tro-450000-tre-em-kho-khan-yeu-the-20241122131135484.htm) - 08:25 22/11/2024
+- 💡 [Hơn 5.000 vé xe, máy bay đón Tết Ất Tỵ 2025 miễn phí tặng người lao động](https://dantri.com.vn/an-sinh/hon-5000-ve-xe-may-bay-don-tet-at-ty-2025-mien-phi-tang-nguoi-lao-dong-20241122141224325.htm) - 07:48 22/11/2024
 - 💄 [Fanpage mạo danh Bộ LĐ-TB&amp;XH, giả chữ ký Bộ trưởng để lừa đảo](https://dantri.com.vn/lao-dong-viec-lam/fanpage-mao-danh-bo-ld-tbxh-gia-chu-ky-bo-truong-de-lua-dao-20241122131426870.htm) - 06:24 22/11/2024
 - 🧠 [Việt Nam tiệm cận mục tiêu bao phủ bảo hiểm y tế toàn dân](https://dantri.com.vn/an-sinh/viet-nam-tiem-can-muc-tieu-bao-phu-bao-hiem-y-te-toan-dan-20241122082603395.htm) - 01:33 22/11/2024
 - 🫣 [Cụ ông tuổi 90 dỗi yêu vợ vì &quot;đi viện 9 ngày không gọi điện hỏi thăm&quot;](https://dantri.com.vn/an-sinh/cu-ong-tuoi-90-doi-yeu-vo-vi-di-vien-9-ngay-khong-goi-dien-hoi-tham-20241121174826794.htm) - 22:58 21/11/2024
