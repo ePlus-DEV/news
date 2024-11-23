@@ -23,7 +23,7 @@ sidebar_position: 9
 - 🐲 [Trung Quốc xích lại gần Brazil, chuẩn bị cho cuộc đối đầu với ông Trump](https://vnexpress.net/trung-quoc-xich-lai-gan-brazil-chuan-bi-cho-cuoc-doi-dau-voi-ong-trump-4818520.html) - 17:00 23/11/2024
 - 🤓 [Có phải hoàn trả chi phí đi lại khi tôi không mua đất của môi giới](https://vnexpress.net/co-phai-hoan-tra-chi-phi-di-lai-khi-toi-khong-mua-dat-cua-moi-gioi-4817124.html) - 17:00 23/11/2024
 - 💪 [Big Bang &#39;gây sốt&#39; khi tái hợp](https://vnexpress.net/big-bang-gay-sot-khi-tai-hop-4819636.html) - 16:39 23/11/2024
-- 🎓 [Nguyễn Văn Lai dẫn trước Kiptoo Edwin ở cự ly 42km](https://vnexpress.net/nguyen-van-lai-dan-truoc-kiptoo-edwin-o-cu-ly-42km-4819576.html) - 16:37 23/11/2024
+- 🎓 [Nguyễn Văn Lai phá kỷ lục cá nhân 42km](https://vnexpress.net/nguyen-van-lai-pha-ky-luc-ca-nhan-42km-4819576.html) - 16:37 23/11/2024
 - 🫣 [Thí sinh Puerto Rico đăng quang Mr World 2024](https://vnexpress.net/thi-sinh-puerto-rico-dang-quang-mr-world-2024-4819603.html) - 16:23 23/11/2024
 - 🧑‍💻 [7 người thoát nạn trong đám cháy nhà ở Hà Nội](https://vnexpress.net/7-nguoi-thoat-nan-trong-dam-chay-nha-o-ha-noi-4819609.html) - 15:48 23/11/2024
 - 🐲 [&#39;Chuẩn bị tinh gọn bộ máy từ trung ương xuống địa phương&#39;](https://vnexpress.net/chuan-bi-tinh-gon-bo-may-tu-trung-uong-xuong-dia-phuong-4819627.html) - 15:43 23/11/2024
