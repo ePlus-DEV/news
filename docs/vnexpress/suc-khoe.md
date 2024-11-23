@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Tỉnh ở Trung Quốc giúp phụ nữ &#39;bớt đau đớn khi sinh con&#39;](https://vnexpress.net/tinh-o-trung-quoc-giup-phu-nu-bot-dau-don-khi-sinh-con-4819357.html) - 06:00 23/11/2024
+- 🔥 [Xương cá cắm vào amidan người đàn ông](https://vnexpress.net/xuong-ca-cam-vao-amidan-nguoi-dan-ong-4819472.html) - 07:00 23/11/2024
 - 🥰 [Chạy bộ đêm mùa đông thế nào tốt cho sức khỏe](https://vnexpress.net/chay-bo-dem-mua-dong-the-nao-tot-cho-suc-khoe-4819483.html) - 06:00 23/11/2024
 - 💡 [Zona - bệnh &#39;rất đau đớn&#39; thường gặp ở người trên 50 tuổi](https://vnexpress.net/zona-benh-rat-dau-don-thuong-gap-o-nguoi-tren-50-tuoi-4819303.html) - 05:50 23/11/2024
 - 🤗 [Bé trai thừa hai ngón tay út](https://vnexpress.net/be-trai-thua-hai-ngon-tay-ut-4819411.html) - 05:00 23/11/2024
