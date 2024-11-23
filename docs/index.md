@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [350 tỷ đồng nâng cấp hạ tầng giao thông Khu kinh tế Dung Quất](https://vnexpress.net/350-ty-dong-nang-cap-ha-tang-giao-thong-khu-kinh-te-dung-quat-4819593.html) - 11:36 23/11/2024
+- 🚀 [350 tỷ đồng nâng cấp hạ tầng Khu kinh tế Dung Quất](https://vnexpress.net/350-ty-dong-nang-cap-ha-tang-khu-kinh-te-dung-quat-4819593.html) - 11:36 23/11/2024
 - 🧰 [4 công dụng bất ngờ của vỏ tỏi](https://vnexpress.net/4-cong-dung-bat-ngo-cua-vo-toi-4819587.html) - 11:36 23/11/2024
 - 🥰 [ACFC ưu đãi &#39;Black Friday&#39; loạt thương hiệu thời trang quốc tế](https://vnexpress.net/acfc-uu-dai-black-friday-loat-thuong-hieu-thoi-trang-quoc-te-4819592.html) - 11:15 23/11/2024
 - 🌏 [Hai sản phẩm của sinh viên thắng giải công nghệ sau thu hoạch](https://vnexpress.net/hai-san-pham-cua-sinh-vien-thang-giai-cong-nghe-sau-thu-hoach-4819568.html) - 11:00 23/11/2024
