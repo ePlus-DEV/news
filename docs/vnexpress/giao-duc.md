@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Kế toán, văn thư trường học mong mỏi có thêm phụ cấp](https://vnexpress.net/ke-toan-van-thu-truong-hoc-mong-moi-co-them-phu-cap-4815029.html) - 03:47 23/11/2024
+- 🤓 [Kế toán, văn thư trường học mong có thêm phụ cấp](https://vnexpress.net/ke-toan-van-thu-truong-hoc-mong-co-them-phu-cap-4815029.html) - 03:47 23/11/2024
 - 🦆 [Tầm vóc vĩ nhân của Trạng Trình Nguyễn Bỉnh Khiêm](https://vnexpress.net/tam-voc-vi-nhan-cua-trang-trinh-nguyen-binh-khiem-4819242.html) - 03:30 23/11/2024
 - 🦩 [Chuyên gia quốc tế khuyên giáo viên bỏ suy nghĩ &#39;học sinh không thể giỏi&#39;](https://vnexpress.net/chuyen-gia-quoc-te-khuyen-giao-vien-bo-suy-nghi-hoc-sinh-khong-the-gioi-4819245.html) - 00:52 23/11/2024
 - 🌮 [Tỉnh nào có thu nhập đầu người cao nhất miền Bắc?](https://vnexpress.net/tinh-nao-co-thu-nhap-dau-nguoi-cao-nhat-mien-bac-4819122.html) - 13:45 22/11/2024
