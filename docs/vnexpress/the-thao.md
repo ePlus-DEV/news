@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Arsenal thắng đậm &#39;hiện tượng&#39; Ngoại hạng Anh](https://vnexpress.net/arsenal-thang-dam-hien-tuong-ngoai-hang-anh-4819646.html) - 17:15 23/11/2024
-- 🦩 [10.000 VĐV tranh tài ở VnExpress Marathon Hanoi Midnight](https://vnexpress.net/10-000-vdv-tranh-tai-o-vnexpress-marathon-hanoi-midnight-4819576.html) - 16:37 23/11/2024
+- 🦩 [Sầm Văn Đời và Hoàng Viết Vỹ Ly cùng giật băng 10km giải chạy đêm Hà Nội](https://vnexpress.net/sam-van-doi-va-hoang-viet-vy-ly-cung-giat-bang-10km-giai-chay-dem-ha-noi-4819576.html) - 16:37 23/11/2024
 - 🧰 [Chelsea áp sát Man City](https://vnexpress.net/chelsea-ap-sat-man-city-4819624.html) - 14:34 23/11/2024
 - 🤗 [Huyền thoại Hàn Quốc bắt đầu làm việc ở tuyển Việt Nam](https://vnexpress.net/huyen-thoai-han-quoc-bat-dau-lam-viec-o-tuyen-viet-nam-4819601.html) - 12:12 23/11/2024
 - 🥳 [Runner nhí CLB điền kinh Yên Phong giành hai giải Kun Marathon](https://vnexpress.net/runner-nhi-clb-dien-kinh-yen-phong-gianh-hai-giai-kun-marathon-4819538.html) - 11:00 23/11/2024
