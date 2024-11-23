@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Đứa con trai trở về sau 50 năm mất tích](https://vnexpress.net/dua-con-trai-tro-ve-sau-50-nam-mat-tich-4818547.html) - 23:00 22/11/2024
+- 🚀 [Con trai trở về sau 50 năm mất tích](https://vnexpress.net/con-trai-tro-ve-sau-50-nam-mat-tich-4818547.html) - 23:00 22/11/2024
 - 🎓 [Nở rộ nhà ăn người già ở Trung Quốc](https://vnexpress.net/no-ro-nha-an-nguoi-gia-o-trung-quoc-4813715.html) - 22:50 22/11/2024
 - 🚦 [Chin-su mang &#39;chảo cơm có thịt khổng lồ&#39; tiếp sức thầy trò vùng cao](https://vnexpress.net/chin-su-mang-chao-com-co-thit-khong-lo-tiep-suc-thay-tro-vung-cao-4818730.html) - 11:00 22/11/2024
 - 🦣 [Người trẻ nô nức hóa thân thành &#39;người tiền sử&#39;](https://vnexpress.net/nguoi-tre-no-nuc-hoa-than-thanh-nguoi-tien-su-4818495.html) - 09:14 22/11/2024
