@@ -4,7 +4,7 @@ sidebar_position: 17
 ---
 
 <!-- dantri-the-gioi:START -->
-- 🌋 [Thông điệp Nga sau vụ tấn công Ukraine bằng tên lửa thế hệ mới](https://dantri.com.vn/the-gioi/thong-diep-nga-sau-vu-tan-cong-ukraine-bang-ten-lua-the-he-moi-20241123130832017.htm) - 06:36 23/11/2024
+- 🌋 [Thông điệp của Nga sau vụ tấn công Ukraine bằng tên lửa thế hệ mới](https://dantri.com.vn/the-gioi/thong-diep-cua-nga-sau-vu-tan-cong-ukraine-bang-ten-lua-the-he-moi-20241123130832017.htm) - 06:36 23/11/2024
 - 🎬 [Phòng không Ukraine vãi đạn, trời đêm Odessa sáng rực](https://dantri.com.vn/the-gioi/phong-khong-ukraine-vai-dan-troi-dem-odessa-sang-ruc-20241123113749883.htm) - 06:00 23/11/2024
 - 🧰 [Cựu Tổng tư lệnh Ukraine cảnh báo binh sĩ &quot;học cách không sợ chết&quot;](https://dantri.com.vn/the-gioi/cuu-tong-tu-lenh-ukraine-canh-bao-binh-si-hoc-cach-khong-so-chet-20241121105828967.htm) - 04:42 23/11/2024
 - 🌋 [Mỹ nghi Triều Tiên chuẩn bị thử hạt nhân, cảnh báo rủi ro toàn cầu](https://dantri.com.vn/the-gioi/my-nghi-trieu-tien-chuan-bi-thu-hat-nhan-canh-bao-rui-ro-toan-cau-20241123110809197.htm) - 04:24 23/11/2024
