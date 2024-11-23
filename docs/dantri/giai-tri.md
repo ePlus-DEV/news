@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Ca sĩ Puerto Rico đăng quang Nam vương Thế giới 2024](https://dantri.com.vn/giai-tri/ca-si-puerto-rico-dang-quang-nam-vuong-the-gioi-2024-20241124024616867.htm) - 23:07 23/11/2024
+- 🤩 [Ca sĩ Puerto Rico đăng quang Nam vương Thế giới 2024, Tuấn Ngọc là Á vương](https://dantri.com.vn/giai-tri/ca-si-puerto-rico-dang-quang-nam-vuong-the-gioi-2024-tuan-ngoc-la-a-vuong-20241124024616867.htm) - 23:07 23/11/2024
 - 🔥 [Thí sinh Hoa hậu Hoàn vũ 2024 tố cuộc thi thiếu minh bạch, phân biệt đối xử](https://dantri.com.vn/giai-tri/thi-sinh-hoa-hau-hoan-vu-2024-to-cuoc-thi-thieu-minh-bach-phan-biet-doi-xu-20241123131013045.htm) - 10:00 23/11/2024
 - 🚀 [&quot;Ông trùm nhạc rap&quot; Diddy tiếp tục hầu tòa, đệ đơn tại ngoại lần thứ 4](https://dantri.com.vn/giai-tri/ong-trum-nhac-rap-diddy-tiep-tuc-hau-toa-de-don-tai-ngoai-lan-thu-4-20241123111650806.htm) - 08:00 23/11/2024
 - 🔥 [Thanh Hằng gặp sự cố hy hữu khi trình diễn bộ trang phục nặng 55kg](https://dantri.com.vn/giai-tri/thanh-hang-gap-su-co-hy-huu-khi-trinh-dien-bo-trang-phuc-nang-55kg-20241123131334513.htm) - 07:08 23/11/2024
