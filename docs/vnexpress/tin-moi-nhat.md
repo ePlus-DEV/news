@@ -4,10 +4,10 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Nghệ sĩ Xuân Bắc &#39;cõng&#39; runner nhí Kun Marathon về đích](https://vnexpress.net/nghe-si-xuan-bac-cong-runner-nhi-kun-marathon-ve-dich-4819478.html) - 06:00 23/11/2024
-- 🐎 [Hoài Lâm lấy tên thật đi hát](https://vnexpress.net/hoai-lam-lay-ten-that-di-hat-4819512.html) - 06:00 23/11/2024
-- 🦍 [Guardiola: &#39;Tôi ở lại kể cả Man City xuống hạng Năm&#39;](https://vnexpress.net/guardiola-toi-o-lai-ke-ca-man-city-xuong-hang-nam-4819432.html) - 06:00 23/11/2024
-- 🏊 [Tỉnh ở Trung Quốc giúp phụ nữ &#39;bớt đau đớn khi sinh con&#39;](https://vnexpress.net/tinh-o-trung-quoc-giup-phu-nu-bot-dau-don-khi-sinh-con-4819357.html) - 06:00 23/11/2024
+- 🎬 [&#39;Thong dong với Bống&#39;: Nguồn cảm hứng của Hồng Nhung](https://vnexpress.net/thong-dong-voi-bong-nguon-cam-hung-cua-hong-nhung-4819030.html) - 06:15 23/11/2024
+- 🐎 [Nghệ sĩ Xuân Bắc &#39;cõng&#39; runner nhí Kun Marathon về đích](https://vnexpress.net/nghe-si-xuan-bac-cong-runner-nhi-kun-marathon-ve-dich-4819478.html) - 06:00 23/11/2024
+- 🦍 [Hoài Lâm lấy tên thật đi hát](https://vnexpress.net/hoai-lam-lay-ten-that-di-hat-4819512.html) - 06:00 23/11/2024
+- 🏊 [Guardiola: &#39;Tôi ở lại kể cả Man City xuống hạng Năm&#39;](https://vnexpress.net/guardiola-toi-o-lai-ke-ca-man-city-xuong-hang-nam-4819432.html) - 06:00 23/11/2024
 - 🎊 [Tỉnh nào có 14 thị trấn, nhiều nhất Tây Nguyên?](https://vnexpress.net/tinh-nao-co-14-thi-tran-nhieu-nhat-tay-nguyen-4819280.html) - 06:00 23/11/2024
 - 🎃 [SpaceSail - hãng Internet vệ tinh Trung Quốc thách thức Starlink](https://vnexpress.net/spacesail-hang-internet-ve-tinh-trung-quoc-thach-thuc-starlink-4818797.html) - 06:00 23/11/2024
 - 🧰 [Người dân lắp barie chặn xe vào ngõ](https://vnexpress.net/nguoi-dan-lap-barie-chan-xe-vao-ngo-4818179.html) - 06:00 23/11/2024
