@@ -22,7 +22,7 @@ sidebar_position: 9
 - 🌁 [Trung Quốc xích lại gần Brazil, chuẩn bị cho cuộc đối đầu với ông Trump](https://vnexpress.net/trung-quoc-xich-lai-gan-brazil-chuan-bi-cho-cuoc-doi-dau-voi-ong-trump-4818520.html) - 17:00 23/11/2024
 - 🐲 [Có phải hoàn trả chi phí đi lại khi tôi không mua đất của môi giới](https://vnexpress.net/co-phai-hoan-tra-chi-phi-di-lai-khi-toi-khong-mua-dat-cua-moi-gioi-4817124.html) - 17:00 23/11/2024
 - 🤓 [Big Bang &#39;gây sốt&#39; khi tái hợp](https://vnexpress.net/big-bang-gay-sot-khi-tai-hop-4819636.html) - 16:39 23/11/2024
-- 💪 [10.000 VĐV tranh tài ở VnExpress Marathon Hanoi Midnight](https://vnexpress.net/10-000-vdv-tranh-tai-o-vnexpress-marathon-hanoi-midnight-4819576.html) - 16:37 23/11/2024
+- 💪 [Sầm Văn Đời và Hoàng Viết Vỹ Ly cùng giật băng 10km giải chạy đêm Hà Nội](https://vnexpress.net/sam-van-doi-va-hoang-viet-vy-ly-cung-giat-bang-10km-giai-chay-dem-ha-noi-4819576.html) - 16:37 23/11/2024
 - 🎓 [Thí sinh Puerto Rico đăng quang Mr World 2024](https://vnexpress.net/thi-sinh-puerto-rico-dang-quang-mr-world-2024-4819603.html) - 16:23 23/11/2024
 - 🫣 [7 người thoát nạn trong đám cháy nhà ở Hà Nội](https://vnexpress.net/7-nguoi-thoat-nan-trong-dam-chay-nha-o-ha-noi-4819609.html) - 15:48 23/11/2024
 - 🧑‍💻 [&#39;Chuẩn bị tinh gọn bộ máy từ trung ương xuống địa phương&#39;](https://vnexpress.net/chuan-bi-tinh-gon-bo-may-tu-trung-uong-xuong-dia-phuong-4819627.html) - 15:43 23/11/2024
@@ -41,7 +41,7 @@ sidebar_position: 9
 - 🦏 [Cứu bé sinh non bị bỏ rơi toàn thân tím tái](https://vnexpress.net/cuu-be-sinh-non-bi-bo-roi-toan-than-tim-tai-4819595.html) - 13:05 23/11/2024
 - 🦩 [Tôi yêu vợ nhưng không thể kiểm soát nhu cầu bản thân](https://vnexpress.net/toi-yeu-vo-nhung-khong-the-kiem-soat-nhu-cau-ban-than-4819544.html) - 13:00 23/11/2024
 - 👺 [Tôi có đáng bị khinh thường vì vướng vào cá độ?](https://vnexpress.net/toi-co-dang-bi-khinh-thuong-vi-vuong-vao-ca-do-4818945.html) - 13:00 23/11/2024
-- 🧑‍🏫 [Xe máy tông nhau, 2 du khách nước ngoài tử vong](https://vnexpress.net/xe-may-tong-nhau-2-du-khach-nuoc-ngoai-tu-vong-4819600.html) - 12:44 23/11/2024
+- 🧑‍🏫 [Xe máy tông nhau, 2 du khách nước ngoài tử vong ở Phan Thiết](https://vnexpress.net/xe-may-tong-nhau-2-du-khach-nuoc-ngoai-tu-vong-o-phan-thiet-4819600.html) - 12:44 23/11/2024
 - 😎 [Huyền thoại Hàn Quốc bắt đầu làm việc ở tuyển Việt Nam](https://vnexpress.net/huyen-thoai-han-quoc-bat-dau-lam-viec-o-tuyen-viet-nam-4819601.html) - 12:12 23/11/2024
 - 🪄 [Trung Quốc thử nghiệm thành công khoang tàu vũ trụ bơm phồng](https://vnexpress.net/trung-quoc-thu-nghiem-thanh-cong-khoang-tau-vu-tru-bom-phong-4819549.html) - 12:00 23/11/2024
 - 🏊 [U70 Việt chi hơn 100 triệu đồng xem cây bao báp ở Madagascar](https://vnexpress.net/u70-viet-chi-hon-100-trieu-dong-xem-cay-bao-bap-o-madagascar-4819492.html) - 12:00 23/11/2024
