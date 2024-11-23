@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Tottenham thắng &quot;4 sao&quot; trước Man City tại Etihad](https://dantri.com.vn/the-thao/tottenham-thang-4-sao-truoc-man-city-tai-etihad-20241124052938858.htm) - 22:29 23/11/2024
+- 🎡 [Tottenham thắng Man City &quot;4 sao&quot; tại Etihad](https://dantri.com.vn/the-thao/tottenham-thang-man-city-4-sao-tai-etihad-20241124052938858.htm) - 22:29 23/11/2024
 - 💯 [Thắng giòn giã Nottingham, Arsenal áp sát Man City](https://dantri.com.vn/the-thao/thang-gion-gia-nottingham-arsenal-ap-sat-man-city-20241124045306592.htm) - 21:53 23/11/2024
 - ⛽️ [Enzo Fernandez tỏa sáng, Chelsea đánh bại Leicester City](https://dantri.com.vn/the-thao/enzo-fernandez-toa-sang-chelsea-danh-bai-leicester-city-20241123220118265.htm) - 15:03 23/11/2024
 - 💃 [Cầu thủ đầu tiên muốn rời Man Utd ngay khi HLV Amorim xuất hiện](https://dantri.com.vn/the-thao/cau-thu-dau-tien-muon-roi-man-utd-ngay-khi-hlv-amorim-xuat-hien-20241123194325493.htm) - 12:43 23/11/2024
