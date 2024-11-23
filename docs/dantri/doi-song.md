@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Quảng Ninh: Xúc động hình ảnh hợp sức nâng bổng ô tô cứu nạn nhân dưới gầm](https://dantri.com.vn/doi-song/quang-ninh-xuc-dong-hinh-anh-hop-suc-nang-bong-o-to-cuu-nan-nhan-duoi-gam-20241123120858498.htm) - 08:11 23/11/2024
+- 🥳 [Quảng Ninh: Người dân hợp sức nâng bổng ô tô cứu người mắc kẹt dưới gầm](https://dantri.com.vn/doi-song/quang-ninh-nguoi-dan-hop-suc-nang-bong-o-to-cuu-nguoi-mac-ket-duoi-gam-20241123120858498.htm) - 08:11 23/11/2024
 - 🌁 [Giới trẻ Hà Nội thức xuyên đêm lấy chỗ, chi gần 80 triệu đồng &quot;săn&quot; Labubu](https://dantri.com.vn/doi-song/gioi-tre-ha-noi-thuc-xuyen-dem-lay-cho-chi-gan-80-trieu-dong-san-labubu-20241121100605038.htm) - 00:36 23/11/2024
 - 👀 [Vụ thấy 150 hài cốt ở Hà Nội: Người dân quen việc đào móng gặp tiểu sành](https://dantri.com.vn/doi-song/vu-thay-150-hai-cot-o-ha-noi-nguoi-dan-quen-viec-dao-mong-gap-tieu-sanh-20241123030343656.htm) - 00:30 23/11/2024
 - 🐻 [Khi người mù học... khiêu vũ](https://dantri.com.vn/doi-song/khi-nguoi-mu-hoc-khieu-vu-20240802225332343.htm) - 23:00 22/11/2024
