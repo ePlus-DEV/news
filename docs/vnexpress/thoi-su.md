@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Xe máy tông nhau, 2 du khách nước ngoài tử vong](https://vnexpress.net/xe-may-tong-nhau-2-du-khach-nuoc-ngoai-tu-vong-4819600.html) - 12:44 23/11/2024
 - 🤓 [350 tỷ đồng nâng cấp hạ tầng Khu kinh tế Dung Quất](https://vnexpress.net/350-ty-dong-nang-cap-ha-tang-khu-kinh-te-dung-quat-4819593.html) - 11:36 23/11/2024
-- ⚗️ [Quốc hội đồng ý dùng ngân sách hồi hương cổ vật](https://vnexpress.net/quoc-hoi-dong-y-dung-ngan-sach-hoi-huong-co-vat-4819564.html) - 10:59 23/11/2024
+- ⚗️ [Dùng ngân sách hồi hương cổ vật](https://vnexpress.net/dung-ngan-sach-hoi-huong-co-vat-4819564.html) - 10:59 23/11/2024
 - 🌊 [Quốc hội yêu cầu tập trung phát triển nhà xã hội cho thuê](https://vnexpress.net/quoc-hoi-yeu-cau-tap-trung-phat-trien-nha-xa-hoi-cho-thue-4819553.html) - 09:36 23/11/2024
 - 🎓 [TP HCM thí điểm thu phí đỗ ôtô dưới lòng đường bằng công nghệ mới](https://vnexpress.net/tp-hcm-thi-diem-thu-phi-do-oto-duoi-long-duong-bang-cong-nghe-moi-4819520.html) - 07:40 23/11/2024
 - 🔥 [Người dân lắp barie chặn xe vào ngõ](https://vnexpress.net/nguoi-dan-lap-barie-chan-xe-vao-ngo-4818179.html) - 06:00 23/11/2024
