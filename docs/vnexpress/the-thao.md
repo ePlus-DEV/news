@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Chung kết nam Bóng rổ trẻ: Phan Đình Phùng vô địch](https://vnexpress.net/chung-ket-nam-bong-ro-tre-phan-dinh-phung-vo-dich-4813620.html) - 08:15 24/11/2024
+- 🪜 [Giải Bóng rổ trẻ 2024 - Cup Ziaja: Phan Đình Phùng vô địch nam, nữ](https://vnexpress.net/giai-bong-ro-tre-2024-cup-ziaja-phan-dinh-phung-vo-dich-nam-nu-4813620.html) - 10:00 24/11/2024
 - 🦩 [Tottenham nhận thẻ vàng nhanh nhất Ngoại hạng Anh](https://vnexpress.net/tottenham-nhan-the-vang-nhanh-nhat-ngoai-hang-anh-4819729.html) - 08:06 24/11/2024
 - 🧰 [Postecoglou cao tay hơn Guardiola thế nào](https://vnexpress.net/postecoglou-cao-tay-hon-guardiola-the-nao-4819719.html) - 08:04 24/11/2024
 - 🤗 [Haaland bị chấm điểm 4 trong trận thua Tottenham](https://vnexpress.net/haaland-bi-cham-diem-4-trong-tran-thua-tottenham-4819730.html) - 08:03 24/11/2024
