@@ -26,15 +26,15 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Ngô Thanh Vân, Jun Phạm kêu gọi 300.000 USD vì trẻ bệnh tim](https://vnexpress.net/ngo-thanh-van-jun-pham-keu-goi-300-000-usd-vi-tre-benh-tim-4819751.html) - 09:10 24/11/2024
-- 🧰 [Chồng đi làm bằng metro, vợ vẫn xe máy để tiện đưa con đi học](https://vnexpress.net/chong-di-lam-bang-metro-vo-van-xe-may-de-tien-dua-con-di-hoc-4819743.html) - 09:00 24/11/2024
-- 🥰 [Hàng không đua bổ sung máy bay trước cao điểm Tết](https://vnexpress.net/hang-khong-dua-bo-sung-may-bay-truoc-cao-diem-tet-4819738.html) - 09:00 24/11/2024
-- 🌏 [5 món ngon mùa thu đông từ su hào](https://vnexpress.net/5-mon-ngon-mua-thu-dong-tu-su-hao-4819794.html) - 08:56 24/11/2024
-- 🧐 [Micro không dây nhỏ gọn như tai nghe TWS của Rode](https://vnexpress.net/micro-khong-day-nho-gon-nhu-tai-nghe-tws-cua-rode-4819789.html) - 08:39 24/11/2024
-- 💫 [Dự kiến chụp ảnh người thi chứng chỉ ngoại ngữ để chống thi hộ](https://vnexpress.net/du-kien-chup-anh-nguoi-thi-chung-chi-ngoai-ngu-de-chong-thi-ho-4819726.html) - 08:37 24/11/2024
-- 😺 [Cô gái nôn ra máu sau chầu nhậu liên hoan](https://vnexpress.net/co-gai-non-ra-mau-sau-chau-nhau-lien-hoan-4819741.html) - 08:28 24/11/2024
-- 🕯 [Xe khách tăng giá vé 40-60% dịp Tết](https://vnexpress.net/xe-khach-tang-gia-ve-40-60-dip-tet-4819784.html) - 08:15 24/11/2024
-- 💃 [Chung kết nam Bóng rổ trẻ: Phan Đình Phùng lấn lướt, chiếm thế trận](https://vnexpress.net/chung-ket-nam-bong-ro-tre-phan-dinh-phung-lan-luot-chiem-the-tran-4813620.html) - 08:15 24/11/2024
+- 🚀 [&#39;Wicked&#39; lập kỷ lục toàn cầu](https://vnexpress.net/wicked-lap-ky-luc-toan-cau-4819803.html) - 09:49 24/11/2024
+- 🧰 [Ngô Thanh Vân, Jun Phạm kêu gọi 300.000 USD vì trẻ bệnh tim](https://vnexpress.net/ngo-thanh-van-jun-pham-keu-goi-300-000-usd-vi-tre-benh-tim-4819751.html) - 09:10 24/11/2024
+- 🥰 [Chồng đi làm bằng metro, vợ vẫn xe máy để tiện đưa con đi học](https://vnexpress.net/chong-di-lam-bang-metro-vo-van-xe-may-de-tien-dua-con-di-hoc-4819743.html) - 09:00 24/11/2024
+- 🌏 [Hàng không đua bổ sung máy bay trước cao điểm Tết](https://vnexpress.net/hang-khong-dua-bo-sung-may-bay-truoc-cao-diem-tet-4819738.html) - 09:00 24/11/2024
+- 🧐 [5 món ngon mùa thu đông từ su hào](https://vnexpress.net/5-mon-ngon-mua-thu-dong-tu-su-hao-4819794.html) - 08:56 24/11/2024
+- 💫 [Micro không dây nhỏ gọn như tai nghe TWS của Rode](https://vnexpress.net/micro-khong-day-nho-gon-nhu-tai-nghe-tws-cua-rode-4819789.html) - 08:39 24/11/2024
+- 😺 [Dự kiến chụp ảnh người thi chứng chỉ ngoại ngữ để chống thi hộ](https://vnexpress.net/du-kien-chup-anh-nguoi-thi-chung-chi-ngoai-ngu-de-chong-thi-ho-4819726.html) - 08:37 24/11/2024
+- 🕯 [Cô gái nôn ra máu sau chầu nhậu liên hoan](https://vnexpress.net/co-gai-non-ra-mau-sau-chau-nhau-lien-hoan-4819741.html) - 08:28 24/11/2024
+- 💃 [Xe khách tăng giá vé 40-60% dịp Tết](https://vnexpress.net/xe-khach-tang-gia-ve-40-60-dip-tet-4819784.html) - 08:15 24/11/2024
 - 💂 [Tottenham nhận thẻ vàng nhanh nhất Ngoại hạng Anh](https://vnexpress.net/tottenham-nhan-the-vang-nhanh-nhat-ngoai-hang-anh-4819729.html) - 08:06 24/11/2024
 - 🎊 [Postecoglou cao tay hơn Guardiola thế nào](https://vnexpress.net/postecoglou-cao-tay-hon-guardiola-the-nao-4819719.html) - 08:04 24/11/2024
 - 🤠 [Haaland bị chấm điểm 4 trong trận thua Tottenham](https://vnexpress.net/haaland-bi-cham-diem-4-trong-tran-thua-tottenham-4819730.html) - 08:03 24/11/2024
@@ -54,7 +54,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦩 [Nhân viên trẻ nói &#39;khó làm việc với sếp lớn tuổi&#39;](https://vnexpress.net/nhan-vien-tre-noi-kho-lam-viec-voi-sep-lon-tuoi-4819750.html) - 06:36 24/11/2024
 - 📝 [Bị đuổi việc vì ngủ gật trong giờ làm](https://vnexpress.net/bi-duoi-viec-vi-ngu-gat-trong-gio-lam-4819739.html) - 06:33 24/11/2024
 - 🕴 [Số phận trắc trở của khối ngọc lục bảo trị giá 925 triệu USD](https://vnexpress.net/vu-tranh-chap-khoi-ngoc-luc-bao-tri-gia-925-trieu-usd-4819759.html) - 06:31 24/11/2024
-- 🐲 [Tùng Dương &#39;trẻ hóa&#39;](https://vnexpress.net/tung-duong-tre-hoa-4819689.html) - 06:28 24/11/2024
+- 🐲 [Tùng Dương trẻ hóa](https://vnexpress.net/tung-duong-tre-hoa-4819689.html) - 06:28 24/11/2024
 - 🌜 [Mưu sĩ duy nhất Tam Quốc không hiến kế cho Ngụy, Thục và Ngô?](https://vnexpress.net/muu-si-duy-nhat-tam-quoc-khong-hien-ke-cho-nguy-thuc-va-ngo-4819192.html) - 06:00 24/11/2024
 - 💄 [Xe tải tông ôtô đi lùi, 10 người bị thương](https://vnexpress.net/xe-tai-tong-oto-di-lui-10-nguoi-bi-thuong-4819460.html) - 05:58 24/11/2024
 - 🌁 [Nissan Almera 2024 ra mắt tại Việt Nam 28/11](https://vnexpress.net/nissan-almera-2024-ra-mat-tai-viet-nam-28-11-4819555.html) - 05:56 24/11/2024
