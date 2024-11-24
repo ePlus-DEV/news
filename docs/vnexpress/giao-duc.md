@@ -4,8 +4,8 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nam sinh tốt nghiệp Bách khoa với điểm luận văn 9,9](https://vnexpress.net/nam-sinh-tot-nghiep-bach-khoa-voi-diem-luan-van-9-9-4819400.html) - 04:00 24/11/2024
-- 🦆 [Thủ khoa kép hiếm có của Đại học Quốc tế TP HCM](https://vnexpress.net/thu-khoa-kep-hiem-co-cua-dai-hoc-quoc-te-tp-hcm-4819632.html) - 23:15 23/11/2024
+- 🤓 [Nam sinh vào top 5 đầu ra Bách khoa TP HCM với điểm luận văn 9,9](https://vnexpress.net/nam-sinh-vao-top-5-dau-ra-bach-khoa-tp-hcm-voi-diem-luan-van-9-9-4819400.html) - 04:00 24/11/2024
+- 🦆 [Cô gái là thủ khoa kép của Đại học Quốc tế TP HCM](https://vnexpress.net/co-gai-la-thu-khoa-kep-cua-dai-hoc-quoc-te-tp-hcm-4819632.html) - 23:15 23/11/2024
 - 🦩 [Nam sinh lọt top điểm Tiếng Anh cao nhất thế giới](https://vnexpress.net/nam-sinh-lot-top-diem-tieng-anh-cao-nhat-the-gioi-4819482.html) - 14:00 23/11/2024
 - 🌮 [Nơi nào ở Hà Nội từng có tuyết?](https://vnexpress.net/noi-nao-o-ha-noi-tung-co-tuyet-4819531.html) - 13:09 23/11/2024
 - 🔭 [Ân hận vì chọn ngành Ngôn ngữ Anh](https://vnexpress.net/an-han-vi-chon-nganh-ngon-ngu-anh-4819248.html) - 08:29 23/11/2024
