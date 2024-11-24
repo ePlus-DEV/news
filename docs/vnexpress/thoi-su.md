@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [5 công trình được xếp hạng di tích ở TP HCM](https://vnexpress.net/5-cong-trinh-duoc-xep-hang-di-tich-o-tp-hcm-4819156.html) - 22:00 24/11/2024
 - 🤓 [Nhà xây trái phép trên đất quy hoạch treo](https://vnexpress.net/nha-xay-trai-phep-tren-dat-quy-hoach-treo-4819698.html) - 17:18 24/11/2024
 - ⚗️ [Gia đình ba người tử nạn dưới mương nước](https://vnexpress.net/gia-dinh-ba-nguoi-tu-nan-duoi-muong-nuoc-4819856.html) - 16:04 24/11/2024
-- 🌊 [Ngăn chặn hai xe siêu trường sắp qua đèo Hải Vân](https://vnexpress.net/ngan-chan-hai-xe-sieu-truong-sap-qua-deo-hai-van-4819848.html) - 15:32 24/11/2024
+- 🌊 [Chặn hai xe siêu trường sắp qua đèo Hải Vân](https://vnexpress.net/chan-hai-xe-sieu-truong-sap-qua-deo-hai-van-4819848.html) - 15:32 24/11/2024
 - 🎓 [Mưa lũ, sạt lở chia cắt nhiều nơi ở Quảng Ngãi, Bình Định](https://vnexpress.net/mua-lu-sat-lo-chia-cat-nhieu-noi-o-quang-ngai-binh-dinh-4819836.html) - 14:30 24/11/2024
 - 🔥 [Nhiều cơ sở làng nghề ở Bắc Ninh bị xử phạt](https://vnexpress.net/nhieu-co-so-lang-nghe-o-bac-ninh-bi-xu-phat-4819801.html) - 10:06 24/11/2024
 - 🦏 [Xe khách tăng giá vé 40-60% dịp Tết](https://vnexpress.net/xe-khach-tang-gia-ve-40-60-dip-tet-4819784.html) - 08:15 24/11/2024
