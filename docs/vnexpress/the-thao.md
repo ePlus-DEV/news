@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Chung kết nữ Bóng rổ trẻ: Kết thúc hiệp hai tỷ số 18-6 nghiêng về Phan Đình Phùng](https://vnexpress.net/chung-ket-nu-bong-ro-tre-ket-thuc-hiep-hai-ty-so-18-6-nghieng-ve-phan-dinh-phung-4813620.html) - 06:15 24/11/2024
+- 🪜 [Chung kết nữ Bóng rổ trẻ: Phan Đình Phùng sử dụng chiến thuật &#39;1 kèm 1&#39; hiệu quả](https://vnexpress.net/chung-ket-nu-bong-ro-tre-phan-dinh-phung-su-dung-chien-thuat-1-kem-1-hieu-qua-4813620.html) - 06:15 24/11/2024
 - 🦩 [Amorim được truyền cảm hứng bởi Mourinho](https://vnexpress.net/amorim-duoc-truyen-cam-hung-boi-mourinho-4819683.html) - 05:00 24/11/2024
 - 🧰 [Neville: &#39;Man City tệ chưa từng thấy dưới thời Guardiola&#39;](https://vnexpress.net/neville-man-city-te-chua-tung-thay-duoi-thoi-guardiola-4819677.html) - 03:11 24/11/2024
 - 🤗 [Arsenal cán mốc 2.000 chiến thắng tại giải VĐQG Anh](https://vnexpress.net/arsenal-can-moc-2-000-chien-thang-tai-giai-vdqg-anh-4819682.html) - 01:50 24/11/2024
