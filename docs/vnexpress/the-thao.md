@@ -4,10 +4,10 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Tottenham nhận thẻ vàng nhanh nhất Ngoại hạng Anh](https://vnexpress.net/tottenham-nhan-the-vang-nhanh-nhat-ngoai-hang-anh-4819729.html) - 08:06 24/11/2024
-- 🦩 [Postecoglou cao tay hơn Guardiola thế nào](https://vnexpress.net/postecoglou-cao-tay-hon-guardiola-the-nao-4819719.html) - 08:04 24/11/2024
-- 🧰 [Haaland bị chấm điểm 4 trong trận thua Tottenham](https://vnexpress.net/haaland-bi-cham-diem-4-trong-tran-thua-tottenham-4819730.html) - 08:03 24/11/2024
-- 🤗 [Chung kết nam Bóng rổ trẻ: Phan Đình Phùng áp đảo Nguyễn Trãi - Ba Đình](https://vnexpress.net/chung-ket-nam-bong-ro-tre-phan-dinh-phung-ap-dao-nguyen-trai-ba-dinh-4813620.html) - 08:00 24/11/2024
+- 🪜 [Chung kết nam Bóng rổ trẻ: Phan Đình Phùng vô địch](https://vnexpress.net/chung-ket-nam-bong-ro-tre-phan-dinh-phung-vo-dich-4813620.html) - 08:15 24/11/2024
+- 🦩 [Tottenham nhận thẻ vàng nhanh nhất Ngoại hạng Anh](https://vnexpress.net/tottenham-nhan-the-vang-nhanh-nhat-ngoai-hang-anh-4819729.html) - 08:06 24/11/2024
+- 🧰 [Postecoglou cao tay hơn Guardiola thế nào](https://vnexpress.net/postecoglou-cao-tay-hon-guardiola-the-nao-4819719.html) - 08:04 24/11/2024
+- 🤗 [Haaland bị chấm điểm 4 trong trận thua Tottenham](https://vnexpress.net/haaland-bi-cham-diem-4-trong-tran-thua-tottenham-4819730.html) - 08:03 24/11/2024
 - 🥳 [Flick: &#39;Barca chơi quá tệ&#39;](https://vnexpress.net/flick-barca-choi-qua-te-4819679.html) - 07:58 24/11/2024
 - 🦣 [Amorim được truyền cảm hứng bởi Mourinho](https://vnexpress.net/amorim-duoc-truyen-cam-hung-boi-mourinho-4819683.html) - 05:00 24/11/2024
 - 🌜 [Neville: &#39;Man City tệ chưa từng thấy dưới thời Guardiola&#39;](https://vnexpress.net/neville-man-city-te-chua-tung-thay-duoi-thoi-guardiola-4819677.html) - 03:11 24/11/2024
