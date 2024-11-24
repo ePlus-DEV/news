@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Mike Tyson bị tố cáo nhận tiền để thua Jake Paul](https://dantri.com.vn/the-thao/mike-tyson-bi-to-cao-nhan-tien-de-thua-jake-paul-20241124132006238.htm) - 06:20 24/11/2024
+- 🎡 [Mike Tyson bị tố cáo nhận tiền để thua Jake Paul](https://dantri.com.vn/the-thao/mike-tyson-bi-to-cao-nhan-tien-de-thua-jake-paul-20241124132006238.htm) - 06:45 24/11/2024
 - 💯 [Tệ chưa từng thấy, Man City khiến nhiều người sửng sốt](https://dantri.com.vn/the-thao/te-chua-tung-thay-man-city-khien-nhieu-nguoi-sung-sot-20241124122055339.htm) - 05:20 24/11/2024
 - ⛽️ [Nhận định Ipswich - Man Utd: Khởi đầu của Ruben Amorim](https://dantri.com.vn/the-thao/nhan-dinh-ipswich-man-utd-khoi-dau-cua-ruben-amorim-20241123224256495.htm) - 01:05 24/11/2024
 - 💃 [Pep Guardiola thừa nhận thực tế đau lòng khi Man City thua đậm Tottenham](https://dantri.com.vn/the-thao/pep-guardiola-thua-nhan-thuc-te-dau-long-khi-man-city-thua-dam-tottenham-20241124074732140.htm) - 01:04 24/11/2024
