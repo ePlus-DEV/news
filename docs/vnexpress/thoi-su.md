@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Không khí lạnh mạnh đang tràn xuống miền Bắc](https://vnexpress.net/khong-khi-lanh-manh-dang-tran-xuong-mien-bac-4819684.html) - 02:32 24/11/2024
-- 🤓 [Một đoạn cao tốc Dầu Giây - Phan Thiết bị đóng sau tai nạn](https://vnexpress.net/mot-doan-cao-toc-dau-giay-phan-thiet-bi-dong-sau-tai-nan-4819675.html) - 01:00 24/11/2024
+- 🤓 [Đóng cao tốc Dầu Giây - Phan Thiết sau tai nạn 2 ôtô tải](https://vnexpress.net/dong-cao-toc-dau-giay-phan-thiet-sau-tai-nan-2-oto-tai-4819675.html) - 01:00 24/11/2024
 - ⚗️ [Vì sao các nhà ga đường sắt tốc độ cao nằm xa trung tâm?](https://vnexpress.net/vi-sao-cac-nha-ga-duong-sat-toc-do-cao-nam-xa-trung-tam-4819571.html) - 23:00 23/11/2024
 - 🌊 [Tất bật thi công các hạng mục cuối Metro Bến Thành - Suối Tiên](https://vnexpress.net/tat-bat-thi-cong-cac-hang-muc-cuoi-metro-ben-thanh-suoi-tien-4819565.html) - 22:00 23/11/2024
 - 🎓 [Đề xuất chi 1.850 tỷ đồng xây nhà thi đấu Phan Đình Phùng](https://vnexpress.net/de-xuat-chi-1-850-ty-dong-xay-nha-thi-dau-phan-dinh-phung-4819642.html) - 17:00 23/11/2024
