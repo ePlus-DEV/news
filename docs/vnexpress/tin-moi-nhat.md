@@ -40,7 +40,7 @@ sidebar_position: 9
 - 🤖 [Liverpool bỏ cách Man City 8 điểm](https://vnexpress.net/liverpool-bo-cach-man-city-8-diem-4819860.html) - 16:06 24/11/2024
 - 🦏 [Gia đình ba người tử nạn dưới mương nước](https://vnexpress.net/gia-dinh-ba-nguoi-tu-nan-duoi-muong-nuoc-4819856.html) - 16:04 24/11/2024
 - 🦩 [Cháy khu ổ chuột ở Philippines, hơn 1.000 ngôi nhà bị thiêu rụi](https://vnexpress.net/chay-khu-o-chuot-o-philippines-hon-1-000-ngoi-nha-bi-thieu-rui-4819846.html) - 15:55 24/11/2024
-- 👺 [Ngăn chặn hai xe siêu trường sắp qua đèo Hải Vân](https://vnexpress.net/ngan-chan-hai-xe-sieu-truong-sap-qua-deo-hai-van-4819848.html) - 15:32 24/11/2024
+- 👺 [Chặn hai xe siêu trường sắp qua đèo Hải Vân](https://vnexpress.net/chan-hai-xe-sieu-truong-sap-qua-deo-hai-van-4819848.html) - 15:32 24/11/2024
 - 🧑‍🏫 [Áp lực dẫn con về quê chúc Tết](https://vnexpress.net/ap-luc-dan-con-ve-que-chuc-tet-4819799.html) - 15:00 24/11/2024
 - 😎 [&#39;Quý ông độc thân&#39; Jung Woo Sung thừa nhận có con](https://vnexpress.net/quy-ong-doc-than-jung-woo-sung-thua-nhan-co-con-4819843.html) - 14:38 24/11/2024
 - 🪄 [Mưa lũ, sạt lở chia cắt nhiều nơi ở Quảng Ngãi, Bình Định](https://vnexpress.net/mua-lu-sat-lo-chia-cat-nhieu-noi-o-quang-ngai-binh-dinh-4819836.html) - 14:30 24/11/2024
