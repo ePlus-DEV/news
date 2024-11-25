@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Indonesia công bố danh sách tham dự AFF Cup 2024: Nhiều bất ngờ](https://dantri.com.vn/the-thao/indonesia-cong-bo-danh-sach-tham-du-aff-cup-2024-nhieu-bat-ngo-20241125122253493.htm) - 05:22 25/11/2024
+- 🎡 [Indonesia công bố danh sách tham dự AFF Cup 2024: Cơ hội cho tuyển Việt Nam](https://dantri.com.vn/the-thao/indonesia-cong-bo-danh-sach-tham-du-aff-cup-2024-co-hoi-cho-tuyen-viet-nam-20241125122253493.htm) - 05:22 25/11/2024
 - 💯 [HLV Amorim đặt ra quy định khắt khe với cầu thủ Man Utd](https://dantri.com.vn/the-thao/hlv-amorim-dat-ra-quy-dinh-khat-khe-voi-cau-thu-man-utd-20241125095048690.htm) - 04:50 25/11/2024
 - ⛽️ [Bác sĩ thẩm mỹ kiện siêu sao C.Ronaldo vì &quot;bùng&quot; tiền làm đẹp](https://dantri.com.vn/the-thao/bac-si-tham-my-kien-sieu-sao-cronaldo-vi-bung-tien-lam-dep-20241125102105945.htm) - 03:22 25/11/2024
 - 💃 [HLV Ruben Amorim chỉ trích đích danh một cầu thủ Man Utd, CĐV đồng tình](https://dantri.com.vn/the-thao/hlv-ruben-amorim-chi-trich-dich-danh-mot-cau-thu-man-utd-cdv-dong-tinh-20241125093923933.htm) - 02:46 25/11/2024
