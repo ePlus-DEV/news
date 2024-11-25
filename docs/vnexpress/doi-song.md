@@ -5,7 +5,7 @@ sidebar_position: 6
 
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Jotun ra mắt bộ sưu tập sơn nội thất &#39;Sắc màu cảm xúc&#39;](https://vnexpress.net/jotun-ra-mat-bo-suu-tap-son-noi-that-sac-mau-cam-xuc-4818403.html) - 01:00 25/11/2024
-- 🎓 [Những buổi hẹn hò không chỉ để yêu](https://vnexpress.net/nhung-buoi-hen-ho-khong-chi-de-yeu-4819718.html) - 23:29 24/11/2024
+- 🎓 [Buổi gặp gỡ của những người chán ứng dụng hẹn hò](https://vnexpress.net/buoi-gap-go-cua-nhung-nguoi-chan-ung-dung-hen-ho-4819718.html) - 23:29 24/11/2024
 - 🚦 [Dân công sở học giải bài toán &#39;không có gì để mặc&#39;](https://vnexpress.net/dan-cong-so-hoc-giai-bai-toan-khong-co-gi-de-mac-4817989.html) - 23:00 24/11/2024
 - 🦣 [Ước mơ làm bác sĩ của cậu bé ung thư](https://vnexpress.net/uoc-mo-lam-bac-si-cua-cau-be-ung-thu-4818460.html) - 17:00 24/11/2024
 - 🎓 [Nỗi day dứt của người cha mắc bệnh tan máu](https://vnexpress.net/noi-day-dut-cua-nguoi-cha-mac-benh-tan-mau-4816416.html) - 17:00 24/11/2024
