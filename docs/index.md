@@ -79,9 +79,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💂 [Điểm tin 21h: Phát hiện thêm 250 bộ hài cốt ở trung tâm Hà Nội | Có thể đánh thuế mua bán nhà đất theo thời gian sở hữu](https://vnexpress.net/diem-tin-21h-phat-hien-them-250-bo-hai-cot-o-trung-tam-ha-noi-co-the-danh-thue-mua-ban-nha-dat-theo-thoi-gian-so-huu-4820236.html) - 10:00 25/11/2024
 - 🚀 [Thay khớp háng ở tuổi đôi mươi](https://vnexpress.net/thay-khop-hang-o-tuoi-doi-muoi-4820147.html) - 10:00 25/11/2024
 - 🕴 [6 mẹo đơn giản hỗ trợ hô hấp](https://vnexpress.net/6-meo-don-gian-ho-tro-ho-hap-4820106.html) - 10:00 25/11/2024
-- 🦆 [Bayer kỷ niệm 30 năm hoạt động tại Việt Nam](https://vnexpress.net/bayer-ky-niem-30-nam-hoat-dong-tai-viet-nam-4820062.html) - 10:00 25/11/2024
-- 💫 [15 năm tù cho gã hàng xóm đánh chết ông lão vì &#39;khó chịu&#39;](https://vnexpress.net/15-nam-tu-cho-ga-hang-xom-danh-chet-ong-lao-vi-kho-chiu-4820217.html) - 09:54 25/11/2024
-- 🤓 [Phát hiện thêm 250 bộ hài cốt trên phố trung tâm Hà Nội](https://vnexpress.net/phat-hien-them-250-bo-hai-cot-tren-pho-trung-tam-ha-noi-4820187.html) - 09:51 25/11/2024<!-- vnexpress:END -->
+- 🦆 [Bayer kỷ niệm 30 năm hoạt động tại Việt Nam](https://vnexpress.net/bayer-ky-niem-30-nam-hoat-dong-tai-viet-nam-4820062.html) - 10:00 25/11/2024<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
