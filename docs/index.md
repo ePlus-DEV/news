@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Nga tuyên bố bắn hạ 8 tên lửa đạn đạo Ukraine](https://vnexpress.net/nga-tuyen-bo-ban-ha-8-ten-lua-dan-dao-ukraine-4820274.html) - 15:01 25/11/2024
+- 🚀 [Cơ hội mời chuyên gia Mỹ đến giảng dạy](https://vnexpress.net/co-hoi-moi-chuyen-gia-my-den-giang-day-4818684.html) - 14:52 25/11/2024
 - 🧰 [Du khách lội nước ngắm Hội An](https://vnexpress.net/du-khach-loi-nuoc-ngam-hoi-an-4820271.html) - 14:09 25/11/2024
 - 🥰 [Học sinh THCS tranh luận về công nghệ giúp xóa bỏ ký ức](https://vnexpress.net/hoc-sinh-thcs-tranh-luan-ve-cong-nghe-giup-xoa-bo-ky-uc-4819841.html) - 14:06 25/11/2024
 - 🌏 [Chỉ cần anh yêu thương mẹ con em](https://vnexpress.net/chi-can-anh-yeu-thuong-me-con-em-4820081.html) - 14:00 25/11/2024
