@@ -511,7 +511,7 @@ tuyển sinh trình độ cao đẳng ngành Giáo dục Mầm non kèm Thông t
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Man United đánh rơi chiến thắng trong ngày Amorim ra mắt](https://muctim.tuoitre.vn/man-united-danh-roi-chien-thang-trong-ngay-amorim-ra-mat-10124112502105902.htm) - 01:16 25/11/2024
-- 🥷 [Google Doodles chào mừng Giải Vô địch Cờ vua 2024](https://muctim.tuoitre.vn/google-doodles-chao-mung-giai-vo-dich-co-vua-2024-101241125080425174.htm) - 01:15 25/11/2024
+- 🥷 [Google Doodles chào mừng Giải Vô địch Cờ vua thế giới 2024](https://muctim.tuoitre.vn/google-doodles-chao-mung-giai-vo-dich-co-vua-2024-101241125080425174.htm) - 01:15 25/11/2024
 - 🤖 [Mbappe ghi bàn giúp Real Madrid giành chiến thắng](https://muctim.tuoitre.vn/mbappe-ghi-ban-giup-real-madrid-gianh-chien-thang-101241125031102859.htm) - 01:13 25/11/2024
 - 🤓 [PSY nói tiếng Việt, Quang Hùng MasterD diễn bài hát mới toanh tại GENfest 2024](https://muctim.tuoitre.vn/psy-noi-tieng-viet-quang-hung-masterd-dien-bai-hat-moi-toanh-tai-genfest-2024-101241124212307761.htm) - 00:58 25/11/2024
 - 🎉 [Hôm nay, Thừa Thiên Huế cho học sinh nghỉ học do nước lũ dâng cao](https://muctim.tuoitre.vn/hom-nay-thua-thien-hue-cho-hoc-sinh-nghi-hoc-do-nuoc-lu-dang-cao-101241125074525991.htm) - 00:52 25/11/2024
