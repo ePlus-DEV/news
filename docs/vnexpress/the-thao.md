@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Tránh đòn bẫy hậu, Đinh dẫn Gukesh ở chung kết thế giới](https://vnexpress.net/tranh-don-bay-hau-dinh-dan-gukesh-o-chung-ket-the-gioi-4820270.html) - 13:48 25/11/2024
+- 🪜 [Đinh Lập Nhân dẫn trước người thách đấu ở chung kết cờ vua thế giới](https://vnexpress.net/dinh-lap-nhan-dan-truoc-nguoi-thach-dau-o-chung-ket-co-vua-the-gioi-4820270.html) - 13:48 25/11/2024
 - 🦩 [HLV Amorim &#39;nổi giận với bốn cầu thủ Man Utd&#39;](https://vnexpress.net/hlv-amorim-noi-gian-voi-bon-cau-thu-man-utd-4820195.html) - 11:19 25/11/2024
 - 🧰 [Phụ nữ Việt Nam đầu tiên chinh phục đỉnh Ama Dablam](https://vnexpress.net/phu-nu-viet-nam-dau-tien-chinh-phuc-dinh-ama-dablam-4820241.html) - 10:00 25/11/2024
 - 🤗 [Sinner và tư duy cách mạng của quần vợt Italy](https://vnexpress.net/sinner-va-tu-duy-cach-mang-cua-quan-vot-italy-4820159.html) - 08:28 25/11/2024
