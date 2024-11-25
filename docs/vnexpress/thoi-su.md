@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Cháy quán bar ở Hà Nội, hàng trăm người phải sơ tán](https://vnexpress.net/chay-quan-bar-o-ha-noi-hang-tram-nguoi-phai-so-tan-4820036.html) - 04:54 25/11/2024
 - 🤓 [Chủ tịch nước Lương Cường chủ trì lễ đón Tổng thống Bulgaria](https://vnexpress.net/chu-tich-nuoc-luong-cuong-chu-tri-le-don-tong-thong-bulgaria-4820039.html) - 04:52 25/11/2024
-- ⚗️ [Hội nghị Trung ương xem xét phương hướng tinh gọn bộ máy](https://vnexpress.net/hoi-nghi-trung-uong-xem-xet-phuong-huong-tinh-gon-bo-may-4820024.html) - 04:25 25/11/2024
+- ⚗️ [Xem xét phương án tinh gọn bộ máy của cả hệ thống chính trị](https://vnexpress.net/xem-xet-phuong-an-tinh-gon-bo-may-cua-ca-he-thong-chinh-tri-4820024.html) - 04:25 25/11/2024
 - 🌊 [8 người thoát nạn khi quả đồi vùi lấp nhà](https://vnexpress.net/8-nguoi-thoat-nan-khi-qua-doi-vui-lap-nha-4819936.html) - 02:32 25/11/2024
 - 🎓 [Nước lũ đổ về TP Huế trong đêm](https://vnexpress.net/nuoc-lu-do-ve-tp-hue-trong-dem-4819881.html) - 01:10 25/11/2024
 - 🔥 [5 công trình được xếp hạng di tích ở TP HCM](https://vnexpress.net/5-cong-trinh-duoc-xep-hang-di-tich-o-tp-hcm-4819156.html) - 22:00 24/11/2024
