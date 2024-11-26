@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Cặp song sinh nhà Angelina Jolie hiếm hoi xuất hiện cùng nhau](https://vnexpress.net/cap-song-sinh-nha-angelina-jolie-hiem-hoi-xuat-hien-cung-nhau-4820485.html) - 05:17 26/11/2024
+- 🌏 [Cặp song sinh nhà Angelina Jolie hiếm hoi xuất hiện](https://vnexpress.net/cap-song-sinh-nha-angelina-jolie-hiem-hoi-xuat-hien-4820485.html) - 05:17 26/11/2024
 - 💫 [Vợ chồng Bùi Tiến Dũng đón sinh nhật con trai](https://vnexpress.net/vo-chong-bui-tien-dung-don-sinh-nhat-con-trai-4820401.html) - 04:23 26/11/2024
 - 🌮 [Ông Bill Clinton xem concert của Taylor Swift](https://vnexpress.net/ong-bill-clinton-xem-concert-cua-taylor-swift-4820361.html) - 03:12 26/11/2024
 - 🧠 [Mỹ nhân gây sốt khi chơi nhạc &#39;Tây du ký&#39; bằng giày cao gót](https://vnexpress.net/my-nhan-gay-sot-khi-choi-nhac-tay-du-ky-bang-giay-cao-got-4820357.html) - 03:02 26/11/2024
