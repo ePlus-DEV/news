@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Bộ Giáo dục: Không ép dùng điểm thi tốt nghiệp để tuyển sinh](https://vnexpress.net/bo-giao-duc-khong-ep-dung-diem-thi-tot-nghiep-de-tuyen-sinh-4820291.html) - 03:11 26/11/2024
+- 🤓 [Bộ Giáo dục: Siết xét tuyển sớm để đảm bảo công bằng](https://vnexpress.net/bo-giao-duc-siet-xet-tuyen-som-de-dam-bao-cong-bang-4820291.html) - 03:11 26/11/2024
 - 🦆 [Nên học IT ở Đại học Công nghiệp, Công nghệ hay Bưu chính viễn thông?](https://vnexpress.net/nen-hoc-it-o-dai-hoc-cong-nghiep-cong-nghe-hay-buu-chinh-vien-thong-4819246.html) - 23:43 25/11/2024
 - 🦩 [Cách tìm việc ở Dubai của du học sinh Việt](https://vnexpress.net/cach-tim-viec-o-dubai-cua-du-hoc-sinh-viet-4794700.html) - 23:41 25/11/2024
 - 🌮 [Cơ hội mời chuyên gia Mỹ đến giảng dạy](https://vnexpress.net/co-hoi-moi-chuyen-gia-my-den-giang-day-4818684.html) - 15:28 25/11/2024
