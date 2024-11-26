@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Rơi từ lầu cao ở trường học, nam sinh lớp 11 tử vong](https://dantri.com.vn/giao-duc/roi-tu-lau-cao-o-truong-hoc-nam-sinh-lop-11-tu-vong-20241126220434196.htm) - 15:34 26/11/2024
+- 🤡 [Rơi từ tầng cao ở trường học, nam sinh lớp 11 tử vong](https://dantri.com.vn/giao-duc/roi-tu-tang-cao-o-truong-hoc-nam-sinh-lop-11-tu-vong-20241126220434196.htm) - 15:34 26/11/2024
 - 🗽 [BUV là trường đại học đầu tiên đạt chứng chỉ công trình xanh EDGE toàn cầu](https://dantri.com.vn/giao-duc/buv-la-truong-dai-hoc-dau-tien-dat-chung-chi-cong-trinh-xanh-edge-toan-cau-20241126163833940.htm) - 12:00 26/11/2024
 - 🚦 [Hạnh phúc trong giáo dục: Hành trình gieo mầm những nụ cười](https://dantri.com.vn/giao-duc/hanh-phuc-trong-giao-duc-hanh-trinh-gieo-mam-nhung-nu-cuoi-20241126164655011.htm) - 09:47 26/11/2024
 - 🌋 [Lời cảnh tỉnh cho giáo dục đại học: &quot;Khi tôi và Jack Ma đều học kém toán!&quot;](https://dantri.com.vn/giao-duc/loi-canh-tinh-cho-giao-duc-dai-hoc-khi-toi-va-jack-ma-deu-hoc-kem-toan-20241126161359306.htm) - 09:14 26/11/2024
