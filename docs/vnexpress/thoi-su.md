@@ -10,7 +10,7 @@ sidebar_position: 1
 - 🌊 [3 bồn chứa khí trôi dạt vào bờ biển Quảng Ngãi](https://vnexpress.net/3-bon-chua-khi-troi-dat-vao-bo-bien-quang-ngai-4820266.html) - 13:25 25/11/2024
 - 🎓 [Tổng Bí thư: Bộ máy sau sắp xếp phải hoạt động ngay](https://vnexpress.net/tong-bi-thu-bo-may-sau-sap-xep-phai-hoat-dong-ngay-4820246.html) - 11:54 25/11/2024
 - 🔥 [Thi thể hai vợ chồng tại nhà riêng](https://vnexpress.net/thi-the-hai-vo-chong-tai-nha-rieng-4820254.html) - 11:21 25/11/2024
-- 🦏 [Cà Mau xây cầu bắc qua sông Gành Hào](https://vnexpress.net/ca-mau-xay-cau-bac-qua-song-ganh-hao-4820182.html) - 10:15 25/11/2024
+- 🦏 [Cà Mau xây cầu qua sông Gành Hào](https://vnexpress.net/ca-mau-xay-cau-qua-song-ganh-hao-4820182.html) - 10:15 25/11/2024
 - 👺 [Phát hiện thêm 250 bộ hài cốt trên phố trung tâm Hà Nội](https://vnexpress.net/phat-hien-them-250-bo-hai-cot-tren-pho-trung-tam-ha-noi-4820187.html) - 09:51 25/11/2024
 - 🧑‍🏫 [&#39;Yêu cầu người nổi tiếng cam kết đã dùng sản phẩm quảng cáo là khó khả thi&#39;](https://vnexpress.net/yeu-cau-nguoi-noi-tieng-cam-ket-da-dung-san-pham-quang-cao-la-kho-kha-thi-4820124.html) - 09:45 25/11/2024
 - 🚦 [Đá lăn làm lệch cầu ở Quảng Nam](https://vnexpress.net/da-lan-lam-lech-cau-o-quang-nam-4820153.html) - 09:07 25/11/2024
