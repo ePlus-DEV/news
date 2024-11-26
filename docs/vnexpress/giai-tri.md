@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Hậu trường cảnh chiến đấu trong &#39;Gladiator II&#39;](https://vnexpress.net/hau-truong-canh-chien-dau-trong-gladiator-ii-4820037.html) - 17:00 25/11/2024
-- 💫 [Hoàng Bách: &#39;Tôi biết ơn vợ&#39;](https://vnexpress.net/hoang-bach-toi-biet-on-vo-4817639.html) - 12:00 25/11/2024
-- 🌮 [Jung Woo Sung vướng tin &#39;phản bội bạn gái&#39;](https://vnexpress.net/jung-woo-sung-vuong-tin-phan-boi-ban-gai-4820163.html) - 09:19 25/11/2024
-- 🧠 [Lisa mặc siêu ngắn](https://vnexpress.net/lisa-mac-sieu-ngan-4820032.html) - 08:52 25/11/2024
-- 👨‍🏫 [Hyun Bin động viên Son Ye Jin trở lại đóng phim](https://vnexpress.net/hyun-bin-dong-vien-son-ye-jin-tro-lai-dong-phim-4820103.html) - 08:27 25/11/2024
-- ⚗️ [Nguyễn Thị Loan diện phong cách quyến rũ](https://vnexpress.net/nguyen-thi-loan-dien-phong-cach-quyen-ru-4819991.html) - 07:50 25/11/2024
-- 😎 [Lynk Lee thi người đẹp chuyển giới](https://vnexpress.net/lynk-lee-thi-nguoi-dep-chuyen-gioi-4820078.html) - 07:08 25/11/2024
-- 🫣 [Thơ của AI được chuộng hơn thơ người viết&#39;](https://vnexpress.net/tho-cua-ai-duoc-chuong-hon-tho-nguoi-viet-4817659.html) - 06:52 25/11/2024
-- 🪄 [Mỹ nhân Hong Kong làm nông sau chia tay &#39;ông trùm sòng bạc&#39;](https://vnexpress.net/my-nhan-hong-kong-lam-nong-sau-chia-tay-ong-trum-song-bac-4820013.html) - 06:26 25/11/2024
-- 🤓 [Psy diễn hit &#39;Gangnam Style&#39; cùng hàng chục nghìn fan Việt](https://vnexpress.net/psy-dien-hit-gangnam-style-cung-hang-chuc-nghin-fan-viet-4819905.html) - 04:45 25/11/2024
-- 🫶 [Ca khúc về pickleball bị khán giả phản ứng](https://vnexpress.net/ca-khuc-ve-pickleball-bi-khan-gia-phan-ung-4818826.html) - 03:27 25/11/2024
-- 🧑‍🏫 [Lý Tử Thất được ví &#39;bước ra từ hoàng cung thời Đường&#39;](https://vnexpress.net/ly-tu-that-duoc-vi-buoc-ra-tu-hoang-cung-thoi-duong-4819894.html) - 01:58 25/11/2024
-- 🦄 [Hà Nội qua góc nhìn của 18 họa sĩ không chuyên](https://vnexpress.net/ha-noi-qua-goc-nhin-cua-18-hoa-si-khong-chuyen-4819829.html) - 01:00 25/11/2024
-- 💫 [&#39;Linh miêu&#39; - bi kịch từ niềm tin mù quáng](https://vnexpress.net/giai-tri/phim/thu-vien-phim/linh-mieu-754) - 17:00 24/11/2024
-- 🎊 [&#39;Quý ông độc thân&#39; Jung Woo Sung thừa nhận có con](https://vnexpress.net/quy-ong-doc-than-jung-woo-sung-thua-nhan-co-con-4819843.html) - 14:38 24/11/2024
-- 👹 [Vũ công gian khổ chữa trị sau tai nạn màn hình LED rơi trúng](https://vnexpress.net/vu-cong-gian-kho-chua-tri-sau-tai-nan-man-hinh-led-roi-trung-4819723.html) - 13:30 24/11/2024
-- 💻 [Cher kể chuyện &#39;hôn nhân không tình yêu&#39;](https://vnexpress.net/cher-ke-chuyen-hon-nhan-khong-tinh-yeu-4819748.html) - 12:30 24/11/2024
-- 🤡 [Video Thủ tướng Canada đi xem concert Taylor Swift gây chú ý](https://vnexpress.net/video-thu-tuong-canada-di-xem-concert-taylor-swift-gay-chu-y-4819806.html) - 11:40 24/11/2024
-- 🥰 [Huế tiếp nhận áo dài của hoàng hậu Nam Phương](https://vnexpress.net/hue-tiep-nhan-ao-dai-cua-hoang-hau-nam-phuong-4819819.html) - 10:58 24/11/2024
-- 🚀 [&#39;Wicked&#39; lập kỷ lục toàn cầu](https://vnexpress.net/wicked-lap-ky-luc-toan-cau-4819803.html) - 09:49 24/11/2024
-- 📝 [Ngô Thanh Vân, Jun Phạm kêu gọi 300.000 USD vì trẻ bệnh tim](https://vnexpress.net/ngo-thanh-van-jun-pham-keu-goi-300-000-usd-vi-tre-benh-tim-4819751.html) - 09:10 24/11/2024
-- 🐲 [Phạm Tuấn Ngọc - từ người mẫu đến á vương thế giới](https://vnexpress.net/pham-tuan-ngoc-tu-nguoi-mau-den-a-vuong-the-gioi-4819752.html) - 07:13 24/11/2024
-- 🎃 [Tùng Dương trẻ hóa](https://vnexpress.net/tung-duong-tre-hoa-4819689.html) - 06:28 24/11/2024
-- 🤠 [Thí sinh Rap Việt hát về hôn nhân thất bại](https://vnexpress.net/thi-sinh-rap-viet-hat-ve-hon-nhan-that-bai-4819732.html) - 05:06 24/11/2024
-- 🎭 [Sắc vóc Nam vương thế giới 2024](https://vnexpress.net/sac-voc-nam-vuong-the-gioi-2024-4819693.html) - 04:00 24/11/2024
-- 🧰 [Nhà văn Haruki Murakami không quan tâm sách bị chỉ trích](https://vnexpress.net/nha-van-haruki-murakami-khong-quan-tam-sach-bi-chi-trich-4819681.html) - 03:05 24/11/2024
-- 🦍 [Ba trang sức họa tiết hoa tôn phong cách mùa đông](https://vnexpress.net/ba-trang-suc-hoa-tiet-hoa-ton-phong-cach-mua-dong-4819586.html) - 02:00 24/11/2024
-- 🌝 [Minh Hằng: &#39;Tôi độc lập tài chính với chồng&#39;](https://vnexpress.net/minh-hang-toi-doc-lap-tai-chinh-voi-chong-4818850.html) - 17:00 23/11/2024
-- 🧑‍💻 [Big Bang &#39;gây sốt&#39; khi tái hợp](https://vnexpress.net/big-bang-gay-sot-khi-tai-hop-4819636.html) - 16:39 23/11/2024
-- 🥸 [Thí sinh Puerto Rico đăng quang Mr World 2024](https://vnexpress.net/thi-sinh-puerto-rico-dang-quang-mr-world-2024-4819603.html) - 16:23 23/11/2024
-- 🔥 [Dàn sao dự chung kết Nam vương thế giới](https://vnexpress.net/dan-sao-du-chung-ket-nam-vuong-the-gioi-4819588.html) - 13:28 23/11/2024
-- 🐎 [Lý Long Cơ: &#39;Trong tù, bạn gái viết thư cho tôi mỗi ngày&#39;](https://vnexpress.net/ly-long-co-trong-tu-ban-gai-viet-thu-cho-toi-moi-ngay-4819591.html) - 11:47 23/11/2024
-- 😎 [Váy áo xuyên thấu giúp Hồ Ngọc Hà thu hút](https://vnexpress.net/vay-ao-xuyen-thau-giup-ho-ngoc-ha-thu-hut-4819086.html) - 10:00 23/11/2024
-- 🦄 [Nhạc phim &#39;Độc đạo&#39; được yêu thích](https://vnexpress.net/nhac-phim-doc-dao-duoc-yeu-thich-4819307.html) - 08:00 23/11/2024
-- 🌜 [Florence Pugh kể chuyện trữ đông trứng](https://vnexpress.net/florence-pugh-ke-chuyen-tru-dong-trung-4819474.html) - 07:30 23/11/2024
-- 🚦 [Lương Triều Vỹ nhận bằng tiến sĩ danh dự](https://vnexpress.net/luong-trieu-vy-nhan-bang-tien-si-danh-du-4819516.html) - 06:42 23/11/2024
-- 🧐 [&#39;Thong dong với Bống&#39;: Nguồn cảm hứng của Hồng Nhung](https://vnexpress.net/thong-dong-voi-bong-nguon-cam-hung-cua-hong-nhung-4819030.html) - 06:15 23/11/2024
-- 🐵 [Hoài Lâm lấy tên thật đi hát](https://vnexpress.net/hoai-lam-lay-ten-that-di-hat-4819512.html) - 06:00 23/11/2024
-- ⚗️ [Vợ chồng Lâm Tâm Như cổ vũ con gái biểu diễn](https://vnexpress.net/vo-chong-lam-tam-nhu-co-vu-con-gai-bieu-dien-4819488.html) - 05:03 23/11/2024
-- 👺 [Thành Lộc, Hữu Châu đối đầu trong &#39;Công tử Bạc Liêu&#39;](https://vnexpress.net/thanh-loc-huu-chau-doi-dau-trong-cong-tu-bac-lieu-4819473.html) - 04:54 23/11/2024
-- 🌊 [Vợ chồng Tuấn Hưng nắm tay nhau catwalk](https://vnexpress.net/vo-chong-tuan-hung-nam-tay-nhau-catwalk-4819437.html) - 03:49 23/11/2024
-- 🪜 [Thanh Hằng gặp sự cố khi diễn vedette](https://vnexpress.net/thanh-hang-gap-su-co-khi-dien-vedette-4819448.html) - 03:42 23/11/2024
-- 🕴 [Ý Nhi diện mốt &#39;áo giáp&#39;](https://vnexpress.net/y-nhi-dien-mot-ao-giap-4819421.html) - 02:57 23/11/2024
-- 💃 [Áo dài cảm hứng xuân thì](https://vnexpress.net/ao-dai-cam-hung-xuan-thi-4819302.html) - 01:44 23/11/2024
-- 🦄 [Thanh Thủy và dàn mỹ nhân chưng diện trên thảm đỏ](https://vnexpress.net/thanh-thuy-va-dan-my-nhan-chung-dien-tren-tham-do-4819384.html) - 01:39 23/11/2024
-- ⛽️ [&#39;Gladiator II&#39; - đấu sĩ trỗi dậy](https://vnexpress.net/giai-tri/phim/thu-vien-phim/gladiator-ii-753) - 17:00 22/11/2024
-- 😎 [Ảnh cưới trên biển Thái Lan của Khánh Vân](https://vnexpress.net/anh-cuoi-tren-bien-thai-lan-cua-khanh-van-4819348.html) - 14:22 22/11/2024
-- 🌊 [Khát vọng tuổi trẻ trong nhạc phim &#39;Đi giữa trời rực rỡ&#39;](https://vnexpress.net/khat-vong-tuoi-tre-trong-nhac-phim-di-giua-troi-ruc-ro-4818563.html) - 13:30 22/11/2024
-- 🐲 [Hằng BingBoong kể chuyện làm mẹ đơn thân trong MV](https://vnexpress.net/hang-bingboong-ke-chuyen-lam-me-don-than-trong-mv-4818626.html) - 12:30 22/11/2024
-- 💂 [Tủ đồ bình dân của Hoa hậu Thanh Thủy](https://vnexpress.net/tu-do-binh-dan-cua-hoa-hau-thanh-thuy-4818350.html) - 11:59 22/11/2024
-- 🙉 [Hoa hậu Bảo Ngọc nói về biến đổi khí hậu tại COP 29](https://vnexpress.net/hoa-hau-bao-ngoc-noi-ve-bien-doi-khi-hau-tai-cop-29-4818706.html) - 10:18 22/11/2024
-- 💪 [Tác giả 104 tuổi được đề nghị trao giải Sách Quốc gia](https://vnexpress.net/tac-gia-104-tuoi-duoc-de-nghi-trao-giai-sach-quoc-gia-4819210.html) - 09:33 22/11/2024
-- 👍 [Angelina Jolie: Làm mẹ là điều quan trọng nhất](https://vnexpress.net/angelina-jolie-lam-me-la-dieu-quan-trong-nhat-4819128.html) - 07:33 22/11/2024
-- 💪 [Người mẫu Brazil mê áo dài, nón lá](https://vnexpress.net/nguoi-mau-brazil-me-ao-dai-non-la-4818857.html) - 06:59 22/11/2024
-- 💄 [Lý do &#39;quả chuối dán tường&#39; có giá hơn sáu triệu USD](https://vnexpress.net/ly-do-qua-chuoi-dan-tuong-co-gia-hon-sau-trieu-usd-4818970.html) - 04:34 22/11/2024
-- 🦩 [Multiverse - &#39;vũ trụ&#39; âm nhạc của Tùng Dương](https://vnexpress.net/multiverse-vu-tru-am-nhac-cua-tung-duong-4817429.html) - 03:35 22/11/2024
-- 🥸 [Tặng vé xem phim &#39;Chiến địa tử thi&#39;](https://vnexpress.net/tang-ve-xem-phim-chien-dia-tu-thi-4818349.html) - 03:11 22/11/2024
+- 🌏 [Mỹ nhân gây sốt khi chơi nhạc &#39;Tây du ký&#39; bằng giày cao gót](https://vnexpress.net/my-nhan-gay-sot-khi-choi-nhac-tay-du-ky-bang-giay-cao-got-4820357.html) - 03:02 26/11/2024
+- 💫 [Hậu trường cảnh chiến đấu trong &#39;Gladiator II&#39;](https://vnexpress.net/hau-truong-canh-chien-dau-trong-gladiator-ii-4820037.html) - 17:00 25/11/2024
+- 🌮 [Hoàng Bách: &#39;Tôi biết ơn vợ&#39;](https://vnexpress.net/hoang-bach-toi-biet-on-vo-4817639.html) - 12:00 25/11/2024
+- 🧠 [Jung Woo Sung vướng tin &#39;phản bội bạn gái&#39;](https://vnexpress.net/jung-woo-sung-vuong-tin-phan-boi-ban-gai-4820163.html) - 09:19 25/11/2024
+- 👨‍🏫 [Lisa mặc siêu ngắn](https://vnexpress.net/lisa-mac-sieu-ngan-4820032.html) - 08:52 25/11/2024
+- ⚗️ [Hyun Bin động viên Son Ye Jin trở lại đóng phim](https://vnexpress.net/hyun-bin-dong-vien-son-ye-jin-tro-lai-dong-phim-4820103.html) - 08:27 25/11/2024
+- 😎 [Nguyễn Thị Loan diện phong cách quyến rũ](https://vnexpress.net/nguyen-thi-loan-dien-phong-cach-quyen-ru-4819991.html) - 07:50 25/11/2024
+- 🫣 [Lynk Lee thi người đẹp chuyển giới](https://vnexpress.net/lynk-lee-thi-nguoi-dep-chuyen-gioi-4820078.html) - 07:08 25/11/2024
+- 🪄 [Thơ của AI được chuộng hơn thơ người viết&#39;](https://vnexpress.net/tho-cua-ai-duoc-chuong-hon-tho-nguoi-viet-4817659.html) - 06:52 25/11/2024
+- 🤓 [Mỹ nhân Hong Kong làm nông sau chia tay &#39;ông trùm sòng bạc&#39;](https://vnexpress.net/my-nhan-hong-kong-lam-nong-sau-chia-tay-ong-trum-song-bac-4820013.html) - 06:26 25/11/2024
+- 🫶 [Psy diễn hit &#39;Gangnam Style&#39; cùng hàng chục nghìn fan Việt](https://vnexpress.net/psy-dien-hit-gangnam-style-cung-hang-chuc-nghin-fan-viet-4819905.html) - 04:45 25/11/2024
+- 🧑‍🏫 [Ca khúc về pickleball bị khán giả phản ứng](https://vnexpress.net/ca-khuc-ve-pickleball-bi-khan-gia-phan-ung-4818826.html) - 03:27 25/11/2024
+- 🦄 [Lý Tử Thất được ví &#39;bước ra từ hoàng cung thời Đường&#39;](https://vnexpress.net/ly-tu-that-duoc-vi-buoc-ra-tu-hoang-cung-thoi-duong-4819894.html) - 01:58 25/11/2024
+- 💫 [Hà Nội qua góc nhìn của 18 họa sĩ không chuyên](https://vnexpress.net/ha-noi-qua-goc-nhin-cua-18-hoa-si-khong-chuyen-4819829.html) - 01:00 25/11/2024
+- 🎊 [&#39;Linh miêu&#39; - bi kịch từ niềm tin mù quáng](https://vnexpress.net/giai-tri/phim/thu-vien-phim/linh-mieu-754) - 17:00 24/11/2024
+- 👹 [&#39;Quý ông độc thân&#39; Jung Woo Sung thừa nhận có con](https://vnexpress.net/quy-ong-doc-than-jung-woo-sung-thua-nhan-co-con-4819843.html) - 14:38 24/11/2024
+- 💻 [Vũ công gian khổ chữa trị sau tai nạn màn hình LED rơi trúng](https://vnexpress.net/vu-cong-gian-kho-chua-tri-sau-tai-nan-man-hinh-led-roi-trung-4819723.html) - 13:30 24/11/2024
+- 🤡 [Cher kể chuyện &#39;hôn nhân không tình yêu&#39;](https://vnexpress.net/cher-ke-chuyen-hon-nhan-khong-tinh-yeu-4819748.html) - 12:30 24/11/2024
+- 🥰 [Video Thủ tướng Canada đi xem concert Taylor Swift gây chú ý](https://vnexpress.net/video-thu-tuong-canada-di-xem-concert-taylor-swift-gay-chu-y-4819806.html) - 11:40 24/11/2024
+- 🚀 [Huế tiếp nhận áo dài của hoàng hậu Nam Phương](https://vnexpress.net/hue-tiep-nhan-ao-dai-cua-hoang-hau-nam-phuong-4819819.html) - 10:58 24/11/2024
+- 📝 [&#39;Wicked&#39; lập kỷ lục toàn cầu](https://vnexpress.net/wicked-lap-ky-luc-toan-cau-4819803.html) - 09:49 24/11/2024
+- 🐲 [Ngô Thanh Vân, Jun Phạm kêu gọi 300.000 USD vì trẻ bệnh tim](https://vnexpress.net/ngo-thanh-van-jun-pham-keu-goi-300-000-usd-vi-tre-benh-tim-4819751.html) - 09:10 24/11/2024
+- 🎃 [Phạm Tuấn Ngọc - từ người mẫu đến á vương thế giới](https://vnexpress.net/pham-tuan-ngoc-tu-nguoi-mau-den-a-vuong-the-gioi-4819752.html) - 07:13 24/11/2024
+- 🤠 [Tùng Dương trẻ hóa](https://vnexpress.net/tung-duong-tre-hoa-4819689.html) - 06:28 24/11/2024
+- 🎭 [Thí sinh Rap Việt hát về hôn nhân thất bại](https://vnexpress.net/thi-sinh-rap-viet-hat-ve-hon-nhan-that-bai-4819732.html) - 05:06 24/11/2024
+- 🧰 [Sắc vóc Nam vương thế giới 2024](https://vnexpress.net/sac-voc-nam-vuong-the-gioi-2024-4819693.html) - 04:00 24/11/2024
+- 🦍 [Nhà văn Haruki Murakami không quan tâm sách bị chỉ trích](https://vnexpress.net/nha-van-haruki-murakami-khong-quan-tam-sach-bi-chi-trich-4819681.html) - 03:05 24/11/2024
+- 🌝 [Ba trang sức họa tiết hoa tôn phong cách mùa đông](https://vnexpress.net/ba-trang-suc-hoa-tiet-hoa-ton-phong-cach-mua-dong-4819586.html) - 02:00 24/11/2024
+- 🧑‍💻 [Minh Hằng: &#39;Tôi độc lập tài chính với chồng&#39;](https://vnexpress.net/minh-hang-toi-doc-lap-tai-chinh-voi-chong-4818850.html) - 17:00 23/11/2024
+- 🥸 [Big Bang &#39;gây sốt&#39; khi tái hợp](https://vnexpress.net/big-bang-gay-sot-khi-tai-hop-4819636.html) - 16:39 23/11/2024
+- 🔥 [Thí sinh Puerto Rico đăng quang Mr World 2024](https://vnexpress.net/thi-sinh-puerto-rico-dang-quang-mr-world-2024-4819603.html) - 16:23 23/11/2024
+- 🐎 [Dàn sao dự chung kết Nam vương thế giới](https://vnexpress.net/dan-sao-du-chung-ket-nam-vuong-the-gioi-4819588.html) - 13:28 23/11/2024
+- 😎 [Lý Long Cơ: &#39;Trong tù, bạn gái viết thư cho tôi mỗi ngày&#39;](https://vnexpress.net/ly-long-co-trong-tu-ban-gai-viet-thu-cho-toi-moi-ngay-4819591.html) - 11:47 23/11/2024
+- 🦄 [Váy áo xuyên thấu giúp Hồ Ngọc Hà thu hút](https://vnexpress.net/vay-ao-xuyen-thau-giup-ho-ngoc-ha-thu-hut-4819086.html) - 10:00 23/11/2024
+- 🌜 [Nhạc phim &#39;Độc đạo&#39; được yêu thích](https://vnexpress.net/nhac-phim-doc-dao-duoc-yeu-thich-4819307.html) - 08:00 23/11/2024
+- 🚦 [Florence Pugh kể chuyện trữ đông trứng](https://vnexpress.net/florence-pugh-ke-chuyen-tru-dong-trung-4819474.html) - 07:30 23/11/2024
+- 🧐 [Lương Triều Vỹ nhận bằng tiến sĩ danh dự](https://vnexpress.net/luong-trieu-vy-nhan-bang-tien-si-danh-du-4819516.html) - 06:42 23/11/2024
+- 🐵 [&#39;Thong dong với Bống&#39;: Nguồn cảm hứng của Hồng Nhung](https://vnexpress.net/thong-dong-voi-bong-nguon-cam-hung-cua-hong-nhung-4819030.html) - 06:15 23/11/2024
+- ⚗️ [Hoài Lâm lấy tên thật đi hát](https://vnexpress.net/hoai-lam-lay-ten-that-di-hat-4819512.html) - 06:00 23/11/2024
+- 👺 [Vợ chồng Lâm Tâm Như cổ vũ con gái biểu diễn](https://vnexpress.net/vo-chong-lam-tam-nhu-co-vu-con-gai-bieu-dien-4819488.html) - 05:03 23/11/2024
+- 🌊 [Thành Lộc, Hữu Châu đối đầu trong &#39;Công tử Bạc Liêu&#39;](https://vnexpress.net/thanh-loc-huu-chau-doi-dau-trong-cong-tu-bac-lieu-4819473.html) - 04:54 23/11/2024
+- 🪜 [Vợ chồng Tuấn Hưng nắm tay nhau catwalk](https://vnexpress.net/vo-chong-tuan-hung-nam-tay-nhau-catwalk-4819437.html) - 03:49 23/11/2024
+- 🕴 [Thanh Hằng gặp sự cố khi diễn vedette](https://vnexpress.net/thanh-hang-gap-su-co-khi-dien-vedette-4819448.html) - 03:42 23/11/2024
+- 💃 [Ý Nhi diện mốt &#39;áo giáp&#39;](https://vnexpress.net/y-nhi-dien-mot-ao-giap-4819421.html) - 02:57 23/11/2024
+- 🦄 [Áo dài cảm hứng xuân thì](https://vnexpress.net/ao-dai-cam-hung-xuan-thi-4819302.html) - 01:44 23/11/2024
+- ⛽️ [Thanh Thủy và dàn mỹ nhân chưng diện trên thảm đỏ](https://vnexpress.net/thanh-thuy-va-dan-my-nhan-chung-dien-tren-tham-do-4819384.html) - 01:39 23/11/2024
+- 😎 [&#39;Gladiator II&#39; - đấu sĩ trỗi dậy](https://vnexpress.net/giai-tri/phim/thu-vien-phim/gladiator-ii-753) - 17:00 22/11/2024
+- 🌊 [Ảnh cưới trên biển Thái Lan của Khánh Vân](https://vnexpress.net/anh-cuoi-tren-bien-thai-lan-cua-khanh-van-4819348.html) - 14:22 22/11/2024
+- 🐲 [Khát vọng tuổi trẻ trong nhạc phim &#39;Đi giữa trời rực rỡ&#39;](https://vnexpress.net/khat-vong-tuoi-tre-trong-nhac-phim-di-giua-troi-ruc-ro-4818563.html) - 13:30 22/11/2024
+- 💂 [Hằng BingBoong kể chuyện làm mẹ đơn thân trong MV](https://vnexpress.net/hang-bingboong-ke-chuyen-lam-me-don-than-trong-mv-4818626.html) - 12:30 22/11/2024
+- 🙉 [Tủ đồ bình dân của Hoa hậu Thanh Thủy](https://vnexpress.net/tu-do-binh-dan-cua-hoa-hau-thanh-thuy-4818350.html) - 11:59 22/11/2024
+- 💪 [Hoa hậu Bảo Ngọc nói về biến đổi khí hậu tại COP 29](https://vnexpress.net/hoa-hau-bao-ngoc-noi-ve-bien-doi-khi-hau-tai-cop-29-4818706.html) - 10:18 22/11/2024
+- 👍 [Tác giả 104 tuổi được đề nghị trao giải Sách Quốc gia](https://vnexpress.net/tac-gia-104-tuoi-duoc-de-nghi-trao-giai-sach-quoc-gia-4819210.html) - 09:33 22/11/2024
+- 💪 [Angelina Jolie: Làm mẹ là điều quan trọng nhất](https://vnexpress.net/angelina-jolie-lam-me-la-dieu-quan-trong-nhat-4819128.html) - 07:33 22/11/2024
+- 💄 [Người mẫu Brazil mê áo dài, nón lá](https://vnexpress.net/nguoi-mau-brazil-me-ao-dai-non-la-4818857.html) - 06:59 22/11/2024
+- 🦩 [Lý do &#39;quả chuối dán tường&#39; có giá hơn sáu triệu USD](https://vnexpress.net/ly-do-qua-chuoi-dan-tuong-co-gia-hon-sau-trieu-usd-4818970.html) - 04:34 22/11/2024
+- 🥸 [Multiverse - &#39;vũ trụ&#39; âm nhạc của Tùng Dương](https://vnexpress.net/multiverse-vu-tru-am-nhac-cua-tung-duong-4817429.html) - 03:35 22/11/2024
 - 🧰 [Hoa hậu Thanh Thủy: &#39;Tôi không áp lực phải mua nhà, lấy chồng&#39;](https://vnexpress.net/hoa-hau-thanh-thuy-toi-khong-ap-luc-phai-mua-nha-lay-chong-4818726.html) - 03:05 22/11/2024
 - 💼 [Huỳnh Hiểu Minh vật vã vì giảm cấp tốc 15 kg](https://vnexpress.net/huynh-hieu-minh-vat-va-vi-giam-cap-toc-15-kg-4819001.html) - 02:24 22/11/2024
 - 🧑‍💻 [Sao theo đuổi túi một gang tay](https://vnexpress.net/sao-theo-duoi-tui-mot-gang-tay-4818395.html) - 17:00 21/11/2024<!-- vnexpress-giai-tri:END -->
