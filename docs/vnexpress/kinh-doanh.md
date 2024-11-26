@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [SCB dừng chuyển tiền qua website](https://vnexpress.net/scb-thu-hep-nhieu-dich-vu-4820738.html) - 15:52 26/11/2024
+- ⛽️ [SCB dừng chuyển tiền qua website](https://vnexpress.net/scb-dung-chuyen-tien-qua-website-4820738.html) - 15:52 26/11/2024
 - 🐲 [Tổng thống Bulgaria mời VinFast đầu tư](https://vnexpress.net/tong-thong-bulgaria-moi-vinfast-dau-tu-4820698.html) - 15:46 26/11/2024
 - 🔥 [Trung Quốc phạt nặng doanh nghiệp thiếu kiểm định carbon](https://vnexpress.net/trung-quoc-phat-nang-doanh-nghiep-thieu-kiem-dinh-carbon-4820710.html) - 15:06 26/11/2024
 - 🐵 [BIDV nhận ba giải thưởng quốc tế về trải nghiệm khách hàng](https://vnexpress.net/bidv-nhan-ba-giai-thuong-quoc-te-ve-trai-nghiem-khach-hang-4820596.html) - 11:00 26/11/2024
