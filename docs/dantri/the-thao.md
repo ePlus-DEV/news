@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Man City rơi chiến thắng dù dẫn trước 3 bàn, Barcelona áp sát ngôi đầu](https://dantri.com.vn/the-thao/man-city-roi-chien-thang-du-dan-truoc-3-ban-barcelona-ap-sat-ngoi-dau-20241127045512749.htm) - 21:57 26/11/2024
-- 💯 [Vắng Amorim, Sporting Lisbon thua tan nát trước Arsenal](https://dantri.com.vn/the-thao/vang-amorim-sporting-lisbon-thua-tan-nat-truoc-arsenal-20241127044659917.htm) - 21:49 26/11/2024
+- 💯 [Không còn Amorim, Sporting Lisbon thua tan nát trước Arsenal](https://dantri.com.vn/the-thao/khong-con-amorim-sporting-lisbon-thua-tan-nat-truoc-arsenal-20241127044659917.htm) - 21:49 26/11/2024
 - ⛽️ [HLV Ruben Amorim đặc biệt khen ngợi một cầu thủ Man Utd](https://dantri.com.vn/the-thao/hlv-ruben-amorim-dac-biet-khen-ngoi-mot-cau-thu-man-utd-20241126201921326.htm) - 13:19 26/11/2024
 - 💃 [Báo Indonesia &quot;mừng ra mặt&quot; khi tuyển Việt Nam loại hai cầu thủ](https://dantri.com.vn/the-thao/bao-indonesia-mung-ra-mat-khi-tuyen-viet-nam-loai-hai-cau-thu-20241126185301897.htm) - 12:15 26/11/2024
 - 🌈 [Sếp bóng đá Indonesia vẫn muốn đội nhà vô địch AFF Cup](https://dantri.com.vn/the-thao/sep-bong-da-indonesia-van-muon-doi-nha-vo-dich-aff-cup-20241126132521573.htm) - 11:13 26/11/2024
