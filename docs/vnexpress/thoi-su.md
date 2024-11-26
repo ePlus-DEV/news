@@ -4,19 +4,19 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Thủ tướng đồng ý nghỉ Tết 9 ngày từ 26 tháng chạp](https://vnexpress.net/thu-tuong-dong-y-nghi-tet-9-ngay-tu-26-thang-chap-4820716.html) - 14:00 26/11/2024
-- 🤓 [Người dân 80 phường sáp nhập ở TP HCM không cần đổi giấy tờ ngay](https://vnexpress.net/nguoi-dan-80-phuong-sap-nhap-o-tp-hcm-khong-can-doi-giay-to-ngay-4820701.html) - 12:26 26/11/2024
-- ⚗️ [Voi vườn thú sổng chuồng](https://vnexpress.net/voi-vuon-thu-song-chuong-4820683.html) - 11:30 26/11/2024
-- 🌊 [Tháo gỡ khó khăn các dự án BOT thua lỗ](https://vnexpress.net/thao-go-kho-khan-cac-du-an-bot-thua-lo-4820113.html) - 10:43 26/11/2024
-- 🎓 [Thủ tục công chứng di chúc sẽ được thực hiện ngay tại nhà](https://vnexpress.net/thu-tuc-cong-chung-di-chuc-se-duoc-thuc-hien-ngay-tai-nha-4820587.html) - 10:33 26/11/2024
-- 🔥 [Tiêm kích, trực thăng luyện tập trình diễn trong triển lãm quốc phòng](https://vnexpress.net/tiem-kich-truc-thang-luyen-tap-trinh-dien-trong-trien-lam-quoc-phong-4820562.html) - 09:23 26/11/2024
-- 🦏 [Hầm chui ở cửa ngõ phía Đông TP HCM gần 8 năm dang dở](https://vnexpress.net/ham-chui-o-cua-ngo-phia-dong-tp-hcm-gan-8-nam-dang-do-4820601.html) - 09:00 26/11/2024
-- 👺 [Bà Rịa - Vũng Tàu sử dụng app dịch vụ công trên thiết bị di động](https://vnexpress.net/ba-ria-vung-tau-su-dung-app-dich-vu-cong-tren-thiet-bi-di-dong-4820218.html) - 05:00 26/11/2024
-- 🧑‍🏫 [Cửa ngõ TP HCM ùn tắc 5 km sau tai nạn](https://vnexpress.net/cua-ngo-tp-hcm-un-tac-5-km-sau-tai-nan-4820469.html) - 04:19 26/11/2024
-- 🚦 [Người đi xe máy tử vong khi va chạm máy bay phun thuốc](https://vnexpress.net/nguoi-di-xe-may-tu-vong-khi-va-cham-may-bay-phun-thuoc-4820353.html) - 04:15 26/11/2024
-- 🎉 [Bình Định xây đường băng số 2 sân bay Phù Cát](https://vnexpress.net/binh-dinh-xay-duong-bang-so-2-san-bay-phu-cat-4820399.html) - 03:44 26/11/2024
-- 🦒 [&#39;Mùa đông năm nay rét đậm rét hại xen kẽ các đợt nắng ấm&#39;](https://vnexpress.net/mua-dong-nam-nay-ret-dam-ret-hai-xen-ke-cac-dot-nang-am-4818372.html) - 00:00 26/11/2024
-- 🤗 [Bãi nuôi hàu trái phép bủa vây sông](https://vnexpress.net/bai-nuoi-hau-trai-phep-bua-vay-song-4820711.html) - 17:00 25/11/2024
+- 🦒 [Bãi nuôi hàu trái phép bủa vây sông](https://vnexpress.net/bai-nuoi-hau-trai-phep-bua-vay-song-4820711.html) - 17:00 26/11/2024
+- 🤓 [Thủ tướng đồng ý nghỉ Tết 9 ngày từ 26 tháng chạp](https://vnexpress.net/thu-tuong-dong-y-nghi-tet-9-ngay-tu-26-thang-chap-4820716.html) - 14:00 26/11/2024
+- ⚗️ [Người dân 80 phường sáp nhập ở TP HCM không cần đổi giấy tờ ngay](https://vnexpress.net/nguoi-dan-80-phuong-sap-nhap-o-tp-hcm-khong-can-doi-giay-to-ngay-4820701.html) - 12:26 26/11/2024
+- 🌊 [Voi vườn thú sổng chuồng](https://vnexpress.net/voi-vuon-thu-song-chuong-4820683.html) - 11:30 26/11/2024
+- 🎓 [Tháo gỡ khó khăn các dự án BOT thua lỗ](https://vnexpress.net/thao-go-kho-khan-cac-du-an-bot-thua-lo-4820113.html) - 10:43 26/11/2024
+- 🔥 [Thủ tục công chứng di chúc sẽ được thực hiện ngay tại nhà](https://vnexpress.net/thu-tuc-cong-chung-di-chuc-se-duoc-thuc-hien-ngay-tai-nha-4820587.html) - 10:33 26/11/2024
+- 🦏 [Tiêm kích, trực thăng luyện tập trình diễn trong triển lãm quốc phòng](https://vnexpress.net/tiem-kich-truc-thang-luyen-tap-trinh-dien-trong-trien-lam-quoc-phong-4820562.html) - 09:23 26/11/2024
+- 👺 [Hầm chui ở cửa ngõ phía Đông TP HCM gần 8 năm dang dở](https://vnexpress.net/ham-chui-o-cua-ngo-phia-dong-tp-hcm-gan-8-nam-dang-do-4820601.html) - 09:00 26/11/2024
+- 🧑‍🏫 [Bà Rịa - Vũng Tàu sử dụng app dịch vụ công trên thiết bị di động](https://vnexpress.net/ba-ria-vung-tau-su-dung-app-dich-vu-cong-tren-thiet-bi-di-dong-4820218.html) - 05:00 26/11/2024
+- 🚦 [Cửa ngõ TP HCM ùn tắc 5 km sau tai nạn](https://vnexpress.net/cua-ngo-tp-hcm-un-tac-5-km-sau-tai-nan-4820469.html) - 04:19 26/11/2024
+- 🎉 [Người đi xe máy tử vong khi va chạm máy bay phun thuốc](https://vnexpress.net/nguoi-di-xe-may-tu-vong-khi-va-cham-may-bay-phun-thuoc-4820353.html) - 04:15 26/11/2024
+- 🦒 [Bình Định xây đường băng số 2 sân bay Phù Cát](https://vnexpress.net/binh-dinh-xay-duong-bang-so-2-san-bay-phu-cat-4820399.html) - 03:44 26/11/2024
+- 🤗 [&#39;Mùa đông năm nay rét đậm rét hại xen kẽ các đợt nắng ấm&#39;](https://vnexpress.net/mua-dong-nam-nay-ret-dam-ret-hai-xen-ke-cac-dot-nang-am-4818372.html) - 00:00 26/11/2024
 - 💼 [TP HCM sẽ làm Metro Bến Thành - Tham Lương bằng vốn ngân sách](https://vnexpress.net/tp-hcm-se-lam-metro-ben-thanh-tham-luong-bang-von-ngan-sach-4820259.html) - 17:00 25/11/2024
 - 🤩 [Miền Trung tiếp tục mưa lớn](https://vnexpress.net/mien-trung-tiep-tuc-mua-lon-4820230.html) - 13:53 25/11/2024
 - 🤡 [3 bồn chứa khí trôi dạt vào bờ biển Quảng Ngãi](https://vnexpress.net/3-bon-chua-khi-troi-dat-vao-bo-bien-quang-ngai-4820266.html) - 13:25 25/11/2024
