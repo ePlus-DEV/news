@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Tài tử &#39;Ỷ Thiên Đồ Long Ký&#39; làm phục vụ ở quán ăn](https://vnexpress.net/tai-tu-y-thien-do-long-ky-lam-phuc-vu-o-quan-an-4820987.html) - 08:04 27/11/2024
-- 💫 [Minh Tuyết: &#39;Ai mà không sợ già, sợ xấu&#39;](https://vnexpress.net/minh-tuyet-ai-ma-khong-so-gia-so-xau-4818874.html) - 06:57 27/11/2024
+- 💫 [Minh Tuyết: &#39;Ai mà không sợ già, xấu&#39;](https://vnexpress.net/minh-tuyet-ai-ma-khong-so-gia-xau-4818874.html) - 06:57 27/11/2024
 - 🌮 [Bốn gương mặt &#39;Anh trai say hi&#39; lập nhóm nhạc](https://vnexpress.net/bon-guong-mat-anh-trai-say-hi-lap-nhom-nhac-4820843.html) - 06:45 27/11/2024
 - 🧠 [Angelina Jolie hài lòng với phán quyết mới về vụ &#39;Brad Pitt bạo hành&#39;](https://vnexpress.net/angelina-jolie-hai-long-voi-phan-quyet-moi-ve-vu-brad-pitt-bao-hanh-4820827.html) - 06:27 27/11/2024
 - 👨‍🏫 [Lịch sử và hư cấu trong &#39;Gladiator II&#39;](https://vnexpress.net/lich-su-va-hu-cau-trong-gladiator-ii-4820339.html) - 04:34 27/11/2024
