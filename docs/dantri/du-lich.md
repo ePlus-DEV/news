@@ -5,7 +5,7 @@ sidebar_position: 22
 
 <!-- dantri-du-lich:START -->
 - 🥰 [Mộ và Khu lưu niệm Hải Thượng Lãn Ông trở thành Di tích Quốc gia đặc biệt](https://dantri.com.vn/du-lich/mo-va-khu-luu-niem-hai-thuong-lan-ong-tro-thanh-di-tich-quoc-gia-dac-biet-20241127172306470.htm) - 11:17 27/11/2024
-- 🥰 [Quán trà đá ở Hà Nội nổi tiếng nhờ Sơn Tùng M-TP ghé qua](https://dantri.com.vn/du-lich/quan-tra-da-o-ha-noi-noi-tieng-nho-son-tung-m-tp-ghe-qua-20241127174052342.htm) - 10:53 27/11/2024
+- 🥰 [Quán trà đá Sơn Tùng M-TP ghé qua bị đóng cửa ngay khi &quot;cháy khách&quot;](https://dantri.com.vn/du-lich/quan-tra-da-son-tung-m-tp-ghe-qua-bi-dong-cua-ngay-khi-chay-khach-20241127174052342.htm) - 10:53 27/11/2024
 - 🐻 [Hà Nội: Khách hàng tố có dị vật trong bánh mì tại quán ăn vặt nổi tiếng](https://dantri.com.vn/du-lich/ha-noi-khach-hang-to-co-di-vat-trong-banh-mi-tai-quan-an-vat-noi-tieng-20241127111430077.htm) - 07:48 27/11/2024
 - 🤩 [Đến một trong những nước nghèo nhất thế giới, khách Việt gặp nhiều bất ngờ](https://dantri.com.vn/du-lich/den-mot-trong-nhung-nuoc-ngheo-nhat-the-gioi-khach-viet-gap-nhieu-bat-ngo-20241127105447009.htm) - 05:55 27/11/2024
 - 🕴 [Phú Quốc nhận được 3 giải thưởng tại World Travel Awards lần thứ 31](https://dantri.com.vn/du-lich/phu-quoc-nhan-duoc-3-giai-thuong-tai-world-travel-awards-lan-thu-31-20241127114703326.htm) - 05:06 27/11/2024
