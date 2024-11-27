@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Kashmir - nơi bánh mì cạnh tranh với Pháp](https://vnexpress.net/kashmir-noi-banh-mi-canh-tranh-voi-phap-4820722.html) - 03:45 27/11/2024
+- 💂 [Kashmir - nơi bánh mì sánh ngang với Pháp](https://vnexpress.net/kashmir-noi-banh-mi-sanh-ngang-voi-phap-4820722.html) - 03:45 27/11/2024
 - 🪄 [&#39;Tiểu Nhật Bản&#39; trong lòng Đài Loan](https://vnexpress.net/tieu-nhat-ban-trong-long-dai-loan-4819630.html) - 02:34 27/11/2024
 - 🦅 [Khách Việt &#39;lơ&#39; kỳ nghỉ Tết Dương lịch](https://vnexpress.net/khach-viet-lo-ky-nghi-tet-duong-lich-4820617.html) - 01:01 27/11/2024
 - 🕴 [Đêm đi xem rắn hổ mang ở Hà Nội](https://vnexpress.net/dem-di-xem-ran-ho-mang-o-ha-noi-4820042.html) - 00:00 27/11/2024
