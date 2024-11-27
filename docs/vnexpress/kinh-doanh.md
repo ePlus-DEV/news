@@ -4,12 +4,12 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Hanwha Life Hàn Quốc tăng cường hiện diện toàn cầu](https://vnexpress.net/hanwha-life-han-quoc-tang-cuong-hien-dien-toan-cau-4820516.html) - 01:00 27/11/2024
-- 🐲 [Nhà thuốc An Khang dứt mạch đóng cửa hàng](https://vnexpress.net/nha-thuoc-an-khang-dut-mach-dong-cua-hang-4820726.html) - 23:00 26/11/2024
-- 🔥 [Tỷ phú Ấn Độ chi 3 tỷ USD đầu tư vào khu ổ chuột lớn nhất châu Á](https://vnexpress.net/ty-phu-an-do-chi-3-ty-usd-dau-tu-vao-khu-o-chuot-lon-nhat-chau-a-4820656.html) - 22:00 26/11/2024
-- 🐵 [Hãng thép lớn nhất Đức sắp giảm 40% nhân sự](https://vnexpress.net/hang-thep-lon-nhat-duc-sap-giam-40-nhan-su-4820727.html) - 17:05 26/11/2024
-- 🦅 [SCB dừng chuyển tiền qua website](https://vnexpress.net/scb-dung-chuyen-tien-qua-website-4820738.html) - 15:52 26/11/2024
-- 😺 [Tổng thống Bulgaria mời VinFast đầu tư](https://vnexpress.net/tong-thong-bulgaria-moi-vinfast-dau-tu-4820698.html) - 15:46 26/11/2024
+- ⛽️ [Tổng thống Bulgaria mời VinFast đầu tư](https://vnexpress.net/tong-thong-bulgaria-moi-vinfast-dau-tu-4820698.html) - 02:00 27/11/2024
+- 🐲 [Hanwha Life Hàn Quốc tăng cường hiện diện toàn cầu](https://vnexpress.net/hanwha-life-han-quoc-tang-cuong-hien-dien-toan-cau-4820516.html) - 01:00 27/11/2024
+- 🔥 [Nhà thuốc An Khang dứt mạch đóng cửa hàng](https://vnexpress.net/nha-thuoc-an-khang-dut-mach-dong-cua-hang-4820726.html) - 23:00 26/11/2024
+- 🐵 [Tỷ phú Ấn Độ chi 3 tỷ USD đầu tư vào khu ổ chuột lớn nhất châu Á](https://vnexpress.net/ty-phu-an-do-chi-3-ty-usd-dau-tu-vao-khu-o-chuot-lon-nhat-chau-a-4820656.html) - 22:00 26/11/2024
+- 🦅 [Hãng thép lớn nhất Đức sắp giảm 40% nhân sự](https://vnexpress.net/hang-thep-lon-nhat-duc-sap-giam-40-nhan-su-4820727.html) - 17:05 26/11/2024
+- 😺 [SCB dừng chuyển tiền qua website](https://vnexpress.net/scb-thu-hep-nhieu-dich-vu-4820738.html) - 15:52 26/11/2024
 - 🤩 [Trung Quốc phạt nặng doanh nghiệp thiếu kiểm định carbon](https://vnexpress.net/trung-quoc-phat-nang-doanh-nghiep-thieu-kiem-dinh-carbon-4820710.html) - 15:06 26/11/2024
 - 🌮 [BIDV nhận ba giải thưởng quốc tế về trải nghiệm khách hàng](https://vnexpress.net/bidv-nhan-ba-giai-thuong-quoc-te-ve-trai-nghiem-khach-hang-4820596.html) - 11:00 26/11/2024
 - 🧰 [Prudential Việt Nam và CarePlus ký hợp tác chăm sóc sức khỏe](https://vnexpress.net/prudential-viet-nam-va-careplus-ky-hop-tac-cham-soc-suc-khoe-4819515.html) - 10:00 26/11/2024
