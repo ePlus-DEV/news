@@ -5,7 +5,7 @@ sidebar_position: 19
 
 <!-- dantri-lao-dong-viec-lam:START -->
 - ⚗️ [&quot;Trọng tâm sửa luật để tạo ra việc làm đầy đủ, chất lượng cao&quot;](https://dantri.com.vn/lao-dong-viec-lam/trong-tam-sua-luat-de-tao-ra-viec-lam-day-du-chat-luong-cao-20241127124212976.htm) - 07:09 27/11/2024
-- 🙉 [Dự kiến tuyển thêm 40.000 lao động làm việc tại các doanh nghiệp FDI](https://dantri.com.vn/lao-dong-viec-lam/du-kien-tuyen-them-40000-lao-dong-lam-viec-tai-cac-doanh-nghiep-fdi-20241127101805817.htm) - 04:52 27/11/2024
+- 🙉 [Tuyển dụng thêm 40.000 lao động làm việc tại các doanh nghiệp FDI](https://dantri.com.vn/lao-dong-viec-lam/tuyen-dung-them-40000-lao-dong-lam-viec-tai-cac-doanh-nghiep-fdi-20241127101805817.htm) - 04:52 27/11/2024
 - 🕴 [Trợ cấp thất nghiệp 2,5 triệu đồng không đủ sống, đề nghị nâng mức hưởng](https://dantri.com.vn/lao-dong-viec-lam/tro-cap-that-nghiep-25-trieu-dong-khong-du-song-de-nghi-nang-muc-huong-20241127095857961.htm) - 03:43 27/11/2024
 - 🧐 [Hà Tĩnh dôi dư hơn 250 cán bộ sau sáp nhập, sắp xếp thế nào?](https://dantri.com.vn/lao-dong-viec-lam/ha-tinh-doi-du-hon-250-can-bo-sau-sap-nhap-sap-xep-the-nao-20241127093630308.htm) - 03:39 27/11/2024
 - 🧑‍💻 [&quot;Chốt&quot; tiếp tục đóng kinh phí công đoàn 2%, kiểm toán 2 năm/lần](https://dantri.com.vn/lao-dong-viec-lam/chot-tiep-tuc-dong-kinh-phi-cong-doan-2-kiem-toan-2-namlan-20241127084006237.htm) - 01:51 27/11/2024
