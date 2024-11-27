@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-giao-duc:START -->
 - 🤡 [Kỷ luật hiệu trưởng trong vụ nam sinh lớp 8 bị đánh hội đồng bằng ghế, chổi](https://dantri.com.vn/giao-duc/ky-luat-hieu-truong-trong-vu-nam-sinh-lop-8-bi-danh-hoi-dong-bang-ghe-choi-20241127122131175.htm) - 05:39 27/11/2024
-- 🗽 [Con nghỉ Tết ít nhất từ trước đến nay, phụ huynh than: &quot;Xem như mất Tết&quot;](https://dantri.com.vn/giao-duc/con-nghi-tet-it-nhat-tu-truoc-den-nay-phu-huynh-than-xem-nhu-mat-tet-20241127095736738.htm) - 03:31 27/11/2024
+- 🗽 [Con nghỉ Tết ít nhất so mọi năm, phụ huynh lo &quot;vừa về quê lại chuẩn bị lên&quot;](https://dantri.com.vn/giao-duc/con-nghi-tet-it-nhat-so-moi-nam-phu-huynh-lo-vua-ve-que-lai-chuan-bi-len-20241127095736738.htm) - 03:31 27/11/2024
 - 🚦 [Tiết học đầu tiên ở trường mới của 174 học sinh bị tuyển sinh trái phép](https://dantri.com.vn/giao-duc/tiet-hoc-dau-tien-o-truong-moi-cua-174-hoc-sinh-bi-tuyen-sinh-trai-phep-20241127095723625.htm) - 03:10 27/11/2024
 - 🌋 [Cựu sinh viên Trường Đại học FPT làm tiến sĩ, nghiên cứu viên cao cấp tại Anh](https://dantri.com.vn/giao-duc/cuu-sinh-vien-truong-dai-hoc-fpt-lam-tien-si-nghien-cuu-vien-cao-cap-tai-anh-20241126192610430.htm) - 01:00 27/11/2024
 - 🏊 [7 năm sau cái chết của nữ sinh 14 tuổi, hoạt động điều tra vẫn tiếp tục](https://dantri.com.vn/giao-duc/7-nam-sau-cai-chet-cua-nu-sinh-14-tuoi-hoat-dong-dieu-tra-van-tiep-tuc-20241125204833638.htm) - 23:52 26/11/2024
