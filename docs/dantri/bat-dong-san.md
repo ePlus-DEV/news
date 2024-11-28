@@ -4,7 +4,7 @@ sidebar_position: 21
 ---
 
 <!-- dantri-bat-dong-san:START -->
-- 🌏 [Mẹo dọn nhà đón khách dịp cuối năm và lễ tết](https://dantri.com.vn/bat-dong-san/meo-don-nha-don-khach-dip-cuoi-nam-va-le-tet-20241128094125753.htm) - 03:17 28/11/2024
+- 🌏 [Mẹo dọn nhà đón khách dịp cuối năm và lễ, Tết](https://dantri.com.vn/bat-dong-san/meo-don-nha-don-khach-dip-cuoi-nam-va-le-tet-20241128094125753.htm) - 03:17 28/11/2024
 - 👹 [Cư dân The Beverly nhận nhà mới, sẵn sàng đón Tết](https://dantri.com.vn/bat-dong-san/cu-dan-the-beverly-nhan-nha-moi-san-sang-don-tet-20241127195521632.htm) - 13:26 27/11/2024
 - 💡 [Đồng Nai muốn đấu giá 37 khu đất, thu 18.000 tỷ đồng](https://dantri.com.vn/bat-dong-san/dong-nai-muon-dau-gia-37-khu-dat-thu-18000-ty-dong-20241127102034274.htm) - 06:38 27/11/2024
 - 🌋 [Hàng loạt khu &quot;đất vàng&quot; bị bỏ hoang tại TPHCM](https://dantri.com.vn/bat-dong-san/hang-loat-khu-dat-vang-bi-bo-hoang-tai-tphcm-20241116222227542.htm) - 03:00 27/11/2024
