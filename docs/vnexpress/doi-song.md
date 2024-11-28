@@ -5,7 +5,7 @@ sidebar_position: 6
 
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Đám cưới trang trí bằng một tấn rau củ](https://vnexpress.net/dam-cuoi-trang-tri-bang-mot-tan-rau-cu-4820725.html) - 01:17 28/11/2024
-- 🎓 [Nhu cầu làm mới thiết bị gia dụng trong gia đình](https://vnexpress.net/nhu-cau-lam-moi-thiet-bi-gia-dung-trong-gia-dinh-4821054.html) - 01:00 28/11/2024
+- 🎓 [Nhu cầu mua sắm thiết bị gia dụng làm mới nhà cuối năm​](https://vnexpress.net/nhu-cau-mua-sam-thiet-bi-gia-dung-lam-moi-nha-cuoi-nam-4821054.html) - 01:00 28/11/2024
 - 🚦 [Trạm thư tay chữa lành](https://vnexpress.net/tram-thu-tay-chua-lanh-4820525.html) - 23:00 27/11/2024
 - 🦣 [Người đàn ông U70 chăm cháu thay con](https://vnexpress.net/nguoi-dan-ong-u70-cham-chau-thay-con-4819132.html) - 17:16 27/11/2024
 - 🎓 [Chuyên gia nêu kinh nghiệm &#39;thực chiến&#39; khi sáng tạo nội dung tại iContent 2024](https://vnexpress.net/chuyen-gia-neu-kinh-nghiem-thuc-chien-khi-sang-tao-noi-dung-tai-icontent-2024-4820940.html) - 13:00 27/11/2024
