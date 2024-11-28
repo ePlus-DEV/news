@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Số ca suy thận ở Việt Nam tăng gây quá tải y tế](https://vnexpress.net/so-ca-suy-than-o-viet-nam-tang-gay-qua-tai-y-te-4821109.html) - 04:34 28/11/2024
+- 🔥 [Số người nghi ngộ độc sau ăn bánh mì ở Vũng Tàu lên hơn 290](https://vnexpress.net/ngo-doc-banh-mi-co-ba-4821426.html) - 05:10 28/11/2024
 - 🥰 [Biến chứng do tự dùng thuốc tan sỏi mật](https://vnexpress.net/bien-chung-do-tu-dung-thuoc-tan-soi-mat-4821302.html) - 04:00 28/11/2024
 - 💡 [Cách giảm nguy cơ ung thư khi sống chung người hút thuốc](https://vnexpress.net/cach-giam-nguy-co-ung-thu-khi-song-chung-nguoi-hut-thuoc-4821294.html) - 04:00 28/11/2024
 - 🤗 [Những món nên ăn khi căng thẳng](https://vnexpress.net/nhung-mon-nen-an-khi-cang-thang-4821303.html) - 03:30 28/11/2024
