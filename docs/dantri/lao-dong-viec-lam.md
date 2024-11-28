@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Đức &quot;khát&quot; lao động, Bộ trưởng cam kết đáp ứng đủ nhân lực chất lượng cao](https://dantri.com.vn/lao-dong-viec-lam/duc-khat-lao-dong-bo-truong-cam-ket-dap-ung-du-nhan-luc-chat-luong-cao-20241128134745207.htm) - 07:37 28/11/2024
+- ⚗️ [Đức &quot;khát&quot; lao động, Bộ trưởng cam kết đáp ứng đủ nhân lực chất lượng](https://dantri.com.vn/lao-dong-viec-lam/duc-khat-lao-dong-bo-truong-cam-ket-dap-ung-du-nhan-luc-chat-luong-20241128134745207.htm) - 07:37 28/11/2024
 - 🙉 [Doanh nghiệp dự kiến thưởng Tết cao hơn năm trước, khoảng 2 tháng thu nhập](https://dantri.com.vn/lao-dong-viec-lam/doanh-nghiep-du-kien-thuong-tet-cao-hon-nam-truoc-khoang-2-thang-thu-nhap-20241128132216853.htm) - 06:41 28/11/2024
 - 🕴 [Khách Tây đưa nhầm tờ 200.000 đồng, hành động của tài xế gây bất ngờ](https://dantri.com.vn/lao-dong-viec-lam/khach-tay-dua-nham-to-200000-dong-hanh-dong-cua-tai-xe-gay-bat-ngo-20241127134554256.htm) - 00:26 28/11/2024
 - 🧐 [Chàng trai chuyên kể chuyện cưới bằng hình, đầu tư thiết bị hơn nửa tỷ đồng](https://dantri.com.vn/lao-dong-viec-lam/chang-trai-chuyen-ke-chuyen-cuoi-bang-hinh-dau-tu-thiet-bi-hon-nua-ty-dong-20241127165217590.htm) - 00:00 28/11/2024
