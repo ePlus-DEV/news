@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🌏 [Mẫu áo tắm được săn lùng nhờ Song Hye Kyo](https://vnexpress.net/mau-ao-tam-duoc-san-lung-nho-song-hye-kyo-4821494.html) - 08:56 28/11/2024
 - 💫 [Minh tinh &#39;Hoàng Phi Hồng&#39;: Tình yêu là trên hết](https://vnexpress.net/minh-tinh-hoang-phi-hong-tinh-yeu-la-tren-het-4821452.html) - 07:47 28/11/2024
 - 🌮 [Imagine Dragons biểu diễn ở Hà Nội](https://vnexpress.net/imagine-dragons-bieu-dien-o-ha-noi-4821434.html) - 07:35 28/11/2024
-- 🧠 [Hoa hậu Thanh Thủy nhận học bổng toàn phần thạc sĩ](https://vnexpress.net/hoa-hau-thanh-thuy-nhan-hoc-bong-toan-phan-thac-si-4821125.html) - 07:27 28/11/2024
+- 🧠 [Hoa hậu Thanh Thủy nhận học bổng thạc sĩ](https://vnexpress.net/hoa-hau-thanh-thuy-nhan-hoc-bong-thac-si-4821125.html) - 07:27 28/11/2024
 - 👨‍🏫 [Christian Louboutin kể chuyện làm giày cho Taylor Swift](https://vnexpress.net/christian-louboutin-ke-chuyen-lam-giay-cho-taylor-swift-4821324.html) - 05:52 28/11/2024
 - ⚗️ [&#39;Giải cứu anh thầy&#39; - phim thể nghiệm về thế giới song song](https://vnexpress.net/giai-cuu-anh-thay-phim-the-nghiem-ve-the-gioi-song-song-4820490.html) - 04:33 28/11/2024
 - 😎 [Nghệ sĩ Công Ninh dựng kịch &#39;Ông già và biển cả&#39;](https://vnexpress.net/nghe-si-cong-ninh-dung-kich-ong-gia-va-bien-ca-4821116.html) - 04:23 28/11/2024
