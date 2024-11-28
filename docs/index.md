@@ -28,7 +28,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- vnexpress:START -->
 - 🚀 [Dự kiến buộc gửi điểm thi đánh giá năng lực, tư duy về Bộ Giáo dục](https://vnexpress.net/du-kien-buoc-gui-diem-thi-danh-gia-nang-luc-tu-duy-ve-bo-giao-duc-4820938.html) - 05:14 28/11/2024
 - 🧰 [Số người nghi ngộ độc sau ăn bánh mì ở Vũng Tàu lên hơn 290](https://vnexpress.net/ngo-doc-banh-mi-co-ba-4821426.html) - 05:10 28/11/2024
-- 🥰 [Cháy nhà ở TP Nha Trang, 4 người trong gia đình tử vong](https://vnexpress.net/chay-nha-o-tp-nha-trang-4-nguoi-trong-gia-dinh-tu-vong-4821429.html) - 05:10 28/11/2024
+- 🥰 [Cháy tiệm dịch vụ mai táng ở Nha Trang, 4 người chết](https://vnexpress.net/chay-tiem-dich-vu-mai-tang-o-nha-trang-4-nguoi-chet-4821429.html) - 05:10 28/11/2024
 - 🌏 [Nhiều người gốc Việt ở Mỹ có thể bị trục xuất dưới thời ông Trump](https://vnexpress.net/nhieu-nguoi-goc-viet-o-my-co-the-bi-truc-xuat-duoi-thoi-ong-trump-4813100.html) - 05:08 28/11/2024
 - 🧐 [Phó thủ tướng: Thuế thu nhập doanh nghiệp Việt Nam thấp trong ASEAN](https://vnexpress.net/pho-thu-tuong-thue-thu-nhap-doanh-nghiep-viet-nam-thap-trong-asean-4821369.html) - 05:03 28/11/2024
 - 💫 [Tỉnh nào nhỏ nhất miền Trung?](https://vnexpress.net/tinh-nao-nho-nhat-mien-trung-4820142.html) - 05:00 28/11/2024
