@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Taxi lộn nhiều vòng khi chở khách ở Đà Lạt](https://vnexpress.net/taxi-lon-nhieu-vong-khi-cho-khach-o-da-lat-4821515.html) - 09:14 28/11/2024
 - 🤓 [Người dân muốn tăng giá bồi thường dự án Vành đai 2 TP HCM](https://vnexpress.net/nguoi-dan-muon-tang-gia-boi-thuong-du-an-vanh-dai-2-tp-hcm-4821540.html) - 09:09 28/11/2024
-- ⚗️ [Hà Nội dự kiến xây dựng nhà hát sát Hồ Tây](https://vnexpress.net/ha-noi-du-kien-xay-dung-nha-hat-sat-ho-tay-4821450.html) - 08:06 28/11/2024
+- ⚗️ [Hà Nội dự kiến xây dựng nhà hát rộng 13.000 m2 sát Hồ Tây](https://vnexpress.net/ha-noi-du-kien-xay-dung-nha-hat-rong-13-000-m2-sat-ho-tay-4821450.html) - 08:06 28/11/2024
 - 🌊 [Cầu giảm ùn tắc cửa ngõ Nam TP HCM thông xe](https://vnexpress.net/cau-giam-un-tac-cua-ngo-nam-tp-hcm-thong-xe-4821453.html) - 07:29 28/11/2024
 - 🎓 [Phát hiện bom nặng hơn 1,3 tấn gần cầu Long Biên](https://vnexpress.net/phat-hien-bom-nang-hon-1-3-tan-gan-cau-long-bien-4821467.html) - 07:23 28/11/2024
 - 🔥 [Phao khí tượng dạt vào bờ biển Quảng Ngãi](https://vnexpress.net/phao-khi-tuong-dat-vao-bo-bien-quang-ngai-4821428.html) - 05:58 28/11/2024
