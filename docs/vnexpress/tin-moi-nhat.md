@@ -5,7 +5,7 @@ sidebar_position: 9
 
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Elon Musk cảnh báo &#39;sụp đổ dân số&#39; ở Hàn Quốc](https://vnexpress.net/elon-musk-canh-bao-sup-do-dan-so-o-han-quoc-4822057.html) - 14:27 29/11/2024
-- 🐎 [Học sinh học Toán, Khoa học bằng tiếng Anh tăng 5 lần](https://vnexpress.net/hoc-sinh-hoc-toan-khoa-hoc-bang-tieng-anh-tang-5-lan-4822014.html) - 14:22 29/11/2024
+- 🐎 [Học sinh học Toán, Khoa học bằng tiếng Anh tăng 50 lần](https://vnexpress.net/hoc-sinh-hoc-toan-khoa-hoc-bang-tieng-anh-tang-50-lan-4822014.html) - 14:22 29/11/2024
 - 🦍 [Cô gái tìm kiếm sự bình yên ở bạn đồng hành giữa Sài Gòn](https://vnexpress.net/co-gai-tim-kiem-su-binh-yen-o-ban-dong-hanh-giua-sai-gon-4821956.html) - 14:00 29/11/2024
 - 🏊 [Cá voi sát thủ đội xác cá hồi](https://vnexpress.net/ca-voi-sat-thu-doi-xac-ca-hoi-4821225.html) - 14:00 29/11/2024
 - 🎊 [Gần 20 gian hàng iContent sẵn sàng đón cộng đồng yêu sáng tạo](https://vnexpress.net/gan-20-gian-hang-icontent-san-sang-don-cong-dong-yeu-sang-tao-4821967.html) - 14:00 29/11/2024
