@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Vingroup sắp xây nhà máy sản xuất ôtô điện ở Hà Tĩnh](https://vnexpress.net/vingroup-sap-xay-nha-may-san-xuat-oto-dien-o-ha-tinh-4822010.html) - 10:37 29/11/2024
 - 🐲 [Khách hàng đổ đến trung tâm thương mại săn hàng hiệu giảm giá Black Friday](https://vnexpress.net/khach-hang-do-den-trung-tam-thuong-mai-san-hang-hieu-giam-gia-black-friday-4821964.html) - 10:07 29/11/2024
-- 🔥 [Chủ tịch tỉnh được quyết chủ trương đầu tư dự án dưới 5.000 tỷ đồng](https://vnexpress.net/chu-tich-tinh-duoc-quyet-chu-truong-dau-tu-du-an-duoi-5-000-ty-dong-4821971.html) - 09:31 29/11/2024
+- 🔥 [Chủ tịch tỉnh được quyết chủ trương đầu tư dự án dưới 4.600 tỷ đồng](https://vnexpress.net/chu-tich-tinh-duoc-quyet-chu-truong-dau-tu-du-an-duoi-4-600-ty-dong-4821971.html) - 09:31 29/11/2024
 - 🐵 [Nhà đầu tư cá nhân được mua trái phiếu riêng lẻ](https://vnexpress.net/nha-dau-tu-ca-nhan-duoc-mua-trai-phieu-rieng-le-4821979.html) - 09:20 29/11/2024
 - 🦅 [Giá yen lên cao nhất 6 tuần](https://vnexpress.net/gia-yen-len-cao-nhat-6-tuan-4821927.html) - 09:04 29/11/2024
 - 😺 [Sàn thương mại điện tử phải nộp thuế thay người bán từ năm sau](https://vnexpress.net/san-thuong-mai-dien-tu-phai-nop-thue-thay-nguoi-ban-tu-nam-sau-4821925.html) - 09:02 29/11/2024
