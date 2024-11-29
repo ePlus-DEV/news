@@ -4,8 +4,8 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Cảnh cáo cô giáo đánh học trò bầm tím hai chân](https://vnexpress.net/canh-cao-co-giao-danh-hoc-tro-bam-tim-hai-chan-4821945.html) - 09:03 29/11/2024
-- 🦆 [Trường tư ở TP HCM trả lương giáo viên tới 60 triệu đồng/tháng](https://vnexpress.net/truong-tu-o-tp-hcm-tra-luong-giao-vien-toi-60-trieu-dong-thang-4821843.html) - 06:58 29/11/2024
+- 🤓 [Cô giáo đánh học trò bầm tím hai chân bị cảnh cáo](https://vnexpress.net/co-giao-danh-hoc-tro-bam-tim-hai-chan-bi-canh-cao-4821945.html) - 09:03 29/11/2024
+- 🦆 [Trường tư ở TP HCM trả lương giáo viên tới 60 triệu đồng mỗi tháng](https://vnexpress.net/truong-tu-o-tp-hcm-tra-luong-giao-vien-toi-60-trieu-dong-moi-thang-4821843.html) - 06:58 29/11/2024
 - 🦩 [&#39;Dự án Vệ sinh học đường cần lan tỏa ở nhiều địa phương&#39;](https://vnexpress.net/du-an-ve-sinh-hoc-duong-can-lan-toa-o-nhieu-dia-phuong-4820654.html) - 04:30 29/11/2024
 - 🌮 [Cách dùng từ &#39;date&#39; với nghĩa &#39;hẹn hò&#39;](https://vnexpress.net/cach-dung-tu-date-voi-nghia-hen-ho-4821632.html) - 03:07 29/11/2024
 - 🔭 [Từ nam sinh trường làng đến thủ khoa Công nghệ Thông tin](https://vnexpress.net/tu-nam-sinh-truong-lang-den-thu-khoa-cong-nghe-thong-tin-4821703.html) - 01:17 29/11/2024
