@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Vinpearl Safari Phú Quốc vào top đầu vườn thú và thủy cung châu Á](https://vnexpress.net/vinpearl-safari-phu-quoc-vao-top-dau-vuon-thu-va-thuy-cung-chau-a-4821760.html) - 04:15 29/11/2024
-- 🪄 [Khách Việt &#39;phấn khích&#39; với tuyết đầu mùa ở Seoul](https://vnexpress.net/khach-viet-phan-khich-voi-tuyet-dau-mua-o-seoul-4821687.html) - 03:57 29/11/2024
+- 🪄 [Khách Việt phấn khích với tuyết đầu mùa ở Seoul](https://vnexpress.net/khach-viet-phan-khich-voi-tuyet-dau-mua-o-seoul-4821687.html) - 03:57 29/11/2024
 - 🦅 [48 giờ ở Nam Định](https://vnexpress.net/48-gio-o-nam-dinh-4821262.html) - 03:11 29/11/2024
 - 🕴 [Bể nước ngầm hơn 1.400 tuổi được ví như cung điện](https://vnexpress.net/be-nuoc-ngam-hon-1-400-tuoi-duoc-vi-nhu-cung-dien-4816656.html) - 01:00 29/11/2024
 - 👀 [Khách Việt đi Thái, Singapore cuối năm săn hàng hiệu giá rẻ](https://vnexpress.net/khach-viet-di-thai-singapore-cuoi-nam-san-hang-hieu-gia-re-4821611.html) - 00:00 29/11/2024
