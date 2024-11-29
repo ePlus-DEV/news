@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Cao tốc Cam Lâm - Vĩnh Hảo bị cắt trộm cáp ngầm](https://vnexpress.net/cao-toc-cam-lam-vinh-hao-bi-cat-trom-cap-ngam-4821750.html) - 03:40 29/11/2024
-- 🤓 [Một số nhà ở tại Hà Nội, TP HCM phải lắp thiết bị truyền tin báo cháy](https://vnexpress.net/mot-so-nha-o-tai-ha-noi-tp-hcm-phai-lap-thiet-bi-truyen-tin-bao-chay-4821754.html) - 03:28 29/11/2024
+- 🤓 [Cắt giảm thủ tục phòng cháy chữa cháy cho doanh nghiệp](https://vnexpress.net/cat-giam-thu-tuc-phong-chay-chua-chay-cho-doanh-nghiep-4821754.html) - 03:28 29/11/2024
 - ⚗️ [Ôtô bốc cháy gây kẹt xe 5 km trên cao tốc TP HCM - Long Thành](https://vnexpress.net/oto-boc-chay-gay-ket-xe-5-km-tren-cao-toc-tp-hcm-long-thanh-4821742.html) - 01:57 29/11/2024
 - 🌊 [Cầu nối Cà Mau và Bạc Liêu trước ngày hợp long](https://vnexpress.net/cau-noi-ca-mau-va-bac-lieu-truoc-ngay-hop-long-4820731.html) - 22:00 28/11/2024
 - 🎓 [Tiền hỗ trợ đóng bảo hiểm tự nguyện có thể tăng cao nhất 50%](https://vnexpress.net/tien-ho-tro-dong-bao-hiem-tu-nguyen-co-the-tang-cao-nhat-50-4821412.html) - 21:00 28/11/2024
