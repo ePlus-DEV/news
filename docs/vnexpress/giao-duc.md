@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Học sinh học Toán, Khoa học bằng tiếng Anh tăng 5 lần](https://vnexpress.net/hoc-sinh-hoc-toan-khoa-hoc-bang-tieng-anh-tang-5-lan-4822014.html) - 14:22 29/11/2024
+- 🤓 [Học sinh học Toán, Khoa học bằng tiếng Anh tăng 50 lần](https://vnexpress.net/hoc-sinh-hoc-toan-khoa-hoc-bang-tieng-anh-tang-50-lan-4822014.html) - 14:22 29/11/2024
 - 🦆 [Tỉnh, thành nào có tỷ lệ tiến sĩ cao nhất cả nước?](https://vnexpress.net/tinh-thanh-nao-co-ty-le-tien-si-cao-nhat-ca-nuoc-4822041.html) - 12:51 29/11/2024
 - 🦩 [Cô giáo đánh học trò bầm tím hai chân bị cảnh cáo](https://vnexpress.net/co-giao-danh-hoc-tro-bam-tim-hai-chan-bi-canh-cao-4821945.html) - 09:03 29/11/2024
 - 🌮 [Trường tư ở TP HCM trả lương giáo viên tới 60 triệu đồng mỗi tháng](https://vnexpress.net/truong-tu-o-tp-hcm-tra-luong-giao-vien-toi-60-trieu-dong-moi-thang-4821843.html) - 06:58 29/11/2024
