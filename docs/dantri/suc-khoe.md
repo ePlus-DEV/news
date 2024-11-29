@@ -4,7 +4,7 @@ sidebar_position: 23
 ---
 
 <!-- dantri-suc-khoe:START -->
-- 🤔 [Đình chỉ công tác Viện trưởng Viện Y Dược học dân tộc](https://dantri.com.vn/suc-khoe/dinh-chi-cong-tac-vien-truong-vien-y-duoc-hoc-dan-toc-20241129194943177.htm) - 13:44 29/11/2024
+- 🤔 [Tạm đình chỉ công tác Viện trưởng Viện Y Dược học dân tộc TPHCM](https://dantri.com.vn/suc-khoe/tam-dinh-chi-cong-tac-vien-truong-vien-y-duoc-hoc-dan-toc-tphcm-20241129194943177.htm) - 13:44 29/11/2024
 - 🚦 [Tình trạng các bệnh nhân nhận &quot;món quà sự sống&quot; của chàng trai 20 tuổi](https://dantri.com.vn/suc-khoe/tinh-trang-cac-benh-nhan-nhan-mon-qua-su-song-cua-chang-trai-20-tuoi-20241129193456697.htm) - 13:34 29/11/2024
 - 🤖 [Trái tim được hiến tặng vượt 600km đến với bệnh nhân nguy kịch](https://dantri.com.vn/suc-khoe/trai-tim-duoc-hien-tang-vuot-600km-den-voi-benh-nhan-nguy-kich-20241129151013653.htm) - 13:27 29/11/2024
 - 🐻 [Một người tử vong sau khi ăn bánh mì ở Vũng Tàu](https://dantri.com.vn/suc-khoe/mot-nguoi-tu-vong-sau-khi-an-banh-mi-o-vung-tau-20241129164622810.htm) - 11:45 29/11/2024
