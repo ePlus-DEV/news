@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Vừa mãn hạn tù về tội giả mạo, tiếp tục xưng làm ở Bộ Công An](https://vnexpress.net/vua-man-han-tu-ve-toi-gia-mao-tiep-tuc-xung-lam-o-bo-cong-an-4821921.html) - 08:14 29/11/2024
 - 🥰 [Người giúp việc mạo danh con nhà giàu, lừa gia chủ 36 tỷ đồng](https://vnexpress.net/nguoi-giup-viec-mao-danh-con-nha-giau-lua-gia-chu-36-ty-dong-4821817.html) - 06:32 29/11/2024
 - 🎓 [Nghi phạm sát hại người phụ nữ ở TP HCM bị bắt sau 3 giờ lẩn trốn](https://vnexpress.net/nghi-pham-sat-hai-nguoi-phu-nu-o-tp-hcm-bi-bat-sau-3-gio-lan-tron-4821892.html) - 06:25 29/11/2024
-- 🤓 [Cựu bí thư Bến Tre bị tuyên 28 năm tù](https://vnexpress.net/cuu-bi-thu-ben-tre-bi-tuyen-28-nam-tu-4821734.html) - 03:30 29/11/2024
+- 🤓 [Cựu bí thư Bến Tre bị tuyên 28 năm tù](https://vnexpress.net/cuu-bi-thu-ben-tre-bi-phat-28-nam-tu-4821734.html) - 03:30 29/11/2024
 - 🎊 [Trộm hơn 200 cây sâm Ngọc Linh](https://vnexpress.net/trom-hon-200-cay-sam-ngoc-linh-4821783.html) - 03:25 29/11/2024
 - 🙉 [Chồng để mẹ đứng tên sổ đỏ, vợ có được chia khi ly hôn?](https://vnexpress.net/chong-de-me-dung-ten-so-do-vo-co-duoc-chia-khi-ly-hon-4819999.html) - 23:00 28/11/2024
 - 🤡 [Lòng đố kỵ với người bạn cũ thành đạt](https://vnexpress.net/long-do-ky-voi-nguoi-ban-cu-thanh-dat-4821629.html) - 17:00 28/11/2024
