@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [&#39;Check in Vietnam&#39; đạt giải Kênh, trang, nhóm cộng đồng của năm](https://vnexpress.net/check-in-vietnam-dat-giai-kenh-trang-nhom-cong-dong-cua-nam-4822031.html) - 13:00 30/11/2024
+- 🚀 [Khoai Lang Thang nhận cú đúp giải thưởng Vietnam iContent Awards 2024](https://vnexpress.net/khoai-lang-thang-nhan-cu-dup-giai-thuong-vietnam-icontent-awards-2024-4822031.html) - 13:00 30/11/2024
 - 🎓 [Gen Z Hàn từ bỏ việc công chức](https://vnexpress.net/gen-z-han-tu-bo-viec-cong-chuc-4822271.html) - 12:00 30/11/2024
 - 🚦 [YouTube: Cải tiến hệ thống để xây môi trường số an toàn](https://vnexpress.net/youtube-cai-tien-he-thong-de-xay-moi-truong-so-an-toan-4822319.html) - 11:00 30/11/2024
 - 🦣 [ViruSs: &#39;Ai cũng có thể trở thành KOC&#39;](https://vnexpress.net/viruss-ai-cung-co-the-tro-thanh-koc-4822268.html) - 10:00 30/11/2024
