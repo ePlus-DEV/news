@@ -13,7 +13,7 @@ sidebar_position: 10
 - 🤭 [5 món ăn tối giảm mỡ nội tạng](https://vnexpress.net/5-mon-an-toi-giam-mo-noi-tang-4822173.html) - 10:00 30/11/2024
 - 👀 [Tại sao ăn đồ ngọt giúp tâm trạng tốt hơn?](https://vnexpress.net/tai-sao-an-do-ngot-giup-tam-trang-tot-hon-4822238.html) - 09:00 30/11/2024
 - 🌋 [Tranh cãi về dự luật an tử ở Anh](https://vnexpress.net/tranh-cai-ve-du-luat-an-tu-o-anh-4822228.html) - 08:46 30/11/2024
-- 🫶 [Gần 53.000 người TP HCM nhiễm HIV](https://vnexpress.net/gan-53-000-nguoi-tp-hcm-nhiem-hiv-4822196.html) - 08:20 30/11/2024
+- 🫶 [TP HCM có gần 53.000 người bệnh HIV](https://vnexpress.net/tp-hcm-co-gan-53-000-nguoi-benh-hiv-4822196.html) - 08:20 30/11/2024
 - 🦆 [Khâu cổ tử cung để mang thai an toàn](https://vnexpress.net/khau-co-tu-cung-de-mang-thai-an-toan-4822246.html) - 08:00 30/11/2024
 - 🚀 [Xét nghiệm bệnh tình dục thế nào](https://vnexpress.net/xet-nghiem-benh-tinh-duc-the-nao-4821908.html) - 08:00 30/11/2024
 - 🌜 [Lý do phụ nữ trung niên dễ tăng cân dù sống lành mạnh](https://vnexpress.net/ly-do-phu-nu-trung-nien-de-tang-can-du-song-lanh-manh-4822203.html) - 07:00 30/11/2024
