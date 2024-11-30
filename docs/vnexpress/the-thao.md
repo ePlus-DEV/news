@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [Hàng trăm VĐV bơi thử biển Hồ Tràm trước thềm DNSE Aquaman Vietnam](https://vnexpress.net/hang-tram-vdv-boi-thu-bien-ho-tram-truoc-them-dnse-aquaman-vietnam-4822212.html) - 04:10 30/11/2024
 - 🧰 [&#39;DNSE Aquaman Vietnam 2024 khơi dậy khát khao chinh phục giấc mơ&#39;](https://vnexpress.net/dnse-aquaman-vietnam-2024-khoi-day-khat-khao-chinh-phuc-giac-mo-4821780.html) - 04:00 30/11/2024
 - 🤗 [Joe Cole: &#39;Chelsea có thể đua vô địch với Liverpool&#39;](https://vnexpress.net/joe-cole-chelsea-co-the-dua-vo-dich-voi-liverpool-4822164.html) - 03:23 30/11/2024
-- 🥳 [Kình ngư 18 tuổi nuôi giấc mơ SEA Games cùng Aquaman Việt Nam](https://vnexpress.net/kinh-ngu-18-tuoi-nuoi-giac-mo-sea-games-cung-aquaman-viet-nam-4822022.html) - 03:22 30/11/2024
+- 🥳 [Chàng trai 18 tuổi nuôi giấc mơ SEA Games cùng DNSE Aquaman Việt Nam](https://vnexpress.net/chang-trai-18-tuoi-nuoi-giac-mo-sea-games-cung-dnse-aquaman-viet-nam-4822022.html) - 03:22 30/11/2024
 - 🦣 [Guardiola không loại trừ khả năng bị Man City sa thải](https://vnexpress.net/guardiola-khong-loai-tru-kha-nang-bi-man-city-sa-thai-4822170.html) - 03:05 30/11/2024
 - 🌜 [Liverpool được dự đoán thắng đậm Man City ở vòng 13 Ngoại hạng Anh](https://vnexpress.net/liverpool-duoc-du-doan-thang-dam-man-city-o-vong-13-ngoai-hang-anh-4821801.html) - 03:04 30/11/2024
 - 🫶 [Kim Cương: &#39;Tôi đạt phong độ cao nhất cho DNSE Aquaman Vietnam&#39;](https://vnexpress.net/kim-cuong-toi-dat-phong-do-cao-nhat-cho-dnse-aquaman-vietnam-4822064.html) - 02:02 30/11/2024
