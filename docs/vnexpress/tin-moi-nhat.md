@@ -15,7 +15,7 @@ sidebar_position: 9
 - 🫶 [Mưa khiến nhiều cặp chim ly hôn](https://vnexpress.net/mua-khien-nhieu-cap-chim-ly-hon-4821068.html) - 13:00 30/11/2024
 - 🪜 [Ly hôn một năm, bố mẹ chồng vẫn chửi tôi trên mạng](https://vnexpress.net/ly-hon-mot-nam-bo-me-chong-van-chui-toi-tren-mang-4821938.html) - 13:00 30/11/2024
 - 👨‍🏫 [Phỏng vấn trực tuyến về chính sách bảo hiểm y tế mới](https://vnexpress.net/phong-van-truc-tuyen-ve-chinh-sach-bao-hiem-y-te-moi-4822153.html) - 13:00 30/11/2024
-- 🎊 [Khoai Lang Thang là Nhà sáng tạo nội dung được yêu thích nhất](https://vnexpress.net/khoai-lang-thang-la-nha-sang-tao-noi-dung-duoc-yeu-thich-nhat-4822031.html) - 13:00 30/11/2024
+- 🎊 [Ninh Anh Bùi trở thành Nhà sáng tạo nội dung triển vọng](https://vnexpress.net/ninh-anh-bui-tro-thanh-nha-sang-tao-noi-dung-trien-vong-4822031.html) - 13:00 30/11/2024
 - 🎊 [Phụ huynh than lịch nghỉ Tết của học sinh ngắn](https://vnexpress.net/phu-huynh-than-lich-nghi-tet-cua-hoc-sinh-ngan-4813712.html) - 12:39 30/11/2024
 - 😺 [5 vai diễn nổi bật của Denzel Washington](https://vnexpress.net/5-vai-dien-noi-bat-cua-denzel-washington-4820522.html) - 12:37 30/11/2024
 - 🐘 [Tuyển Việt Nam thăm chùa nghìn tuổi ở Hàn Quốc](https://vnexpress.net/tuyen-viet-nam-tham-chua-nghin-tuoi-o-han-quoc-4822330.html) - 12:29 30/11/2024
