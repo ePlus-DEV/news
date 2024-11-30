@@ -451,8 +451,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Thư Viện Pháp Luật
 <!-- thuvienphapluat:START -->
-- 🕴 [Công văn 9690/BCT-TTTN năm 2024 về điều hành kinh doanh xăng dầu do Bộ Công thương ban hành](https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9690-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-633319.aspx) - 00:00 28/11/2024
-- 🎭 [Quyết định 65/2024/QĐ-UBND quy định nội dung quản lý Nhà nước về giá trên địa bàn tỉnh Lai Châu](https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Quyet-dinh-65-2024-QD-UBND-Quy-dinh-noi-dung-quan-ly-nha-nuoc-ve-gia-Lai-Chau-633409.aspx) - 00:00 28/11/2024
+- 🕴 [Quyết định 65/2024/QĐ-UBND quy định nội dung quản lý Nhà nước về giá trên địa bàn tỉnh Lai Châu](https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Quyet-dinh-65-2024-QD-UBND-Quy-dinh-noi-dung-quan-ly-nha-nuoc-ve-gia-Lai-Chau-633409.aspx) - 00:00 28/11/2024
+- 🎭 [Công văn 9690/BCT-TTTN năm 2024 về điều hành kinh doanh xăng dầu do Bộ Công thương ban hành](https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9690-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-633319.aspx) - 00:00 28/11/2024
 - 💪 [Công văn 5516/TCT-CS năm 2024 về tiền thuê đất do Tổng cục Thuế ban hành](https://thuvienphapluat.vn/cong-van/Thue-Phi-Le-Phi/Cong-van-5516-TCT-CS-2024-tien-thue-dat-633163.aspx) - 00:00 27/11/2024
 - 🚀 [Công văn 5509/TCT-CS năm 2024 về thuế giá trị gia tăng do Tổng cục Thuế ban hành](https://thuvienphapluat.vn/cong-van/Thue-Phi-Le-Phi/Cong-van-5509-TCT-CS-2024-thue-gia-tri-gia-tang-633173.aspx) - 00:00 27/11/2024
 - 🤗 [Công văn 5513/TCT-CS năm 2024 về nộp tiền sử dụng đất, tiền thuê đất đối với trường hợp đấu giá quyền sử dụng đất do Tổng cục Thuế ban hành](https://thuvienphapluat.vn/cong-van/Thue-Phi-Le-Phi/Cong-van-5513-TCT-CS-2024-nop-tien-su-dung-dat-truong-hop-dau-gia-quyen-su-dung-dat-633171.aspx) - 00:00 27/11/2024
