@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Hoa Sen, Sài Gòn Xanh đồng nhận giải Tổ chức vì cộng đồng](https://vnexpress.net/hoa-sen-sai-gon-xanh-dong-nhan-giai-to-chuc-vi-cong-dong-4822031.html) - 13:00 30/11/2024
+- 🚀 [&#39;Anh trai vượt ngàn chông gai&#39; là Chương trình truyền hình truyền cảm hứng](https://vnexpress.net/anh-trai-vuot-ngan-chong-gai-la-chuong-trinh-truyen-hinh-truyen-cam-hung-4822031.html) - 13:00 30/11/2024
 - 🎓 [Gen Z Hàn từ bỏ việc công chức](https://vnexpress.net/gen-z-han-tu-bo-viec-cong-chuc-4822271.html) - 12:00 30/11/2024
 - 🚦 [YouTube: Cải tiến hệ thống để xây môi trường số an toàn](https://vnexpress.net/youtube-cai-tien-he-thong-de-xay-moi-truong-so-an-toan-4822319.html) - 11:00 30/11/2024
 - 🦣 [ViruSs: &#39;Ai cũng có thể trở thành KOC&#39;](https://vnexpress.net/viruss-ai-cung-co-the-tro-thanh-koc-4822268.html) - 10:00 30/11/2024
