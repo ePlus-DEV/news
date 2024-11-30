@@ -150,7 +150,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
 - 🤠 [Giải mã tên gọi kỳ lạ Công Thị Tai Nơ của gấu mèo ở Thảo Cầm Viên](https://thanhnien.vn/giai-ma-ten-goi-ky-la-cong-thi-tai-no-cua-gau-meo-o-thao-cam-vien-185241130114216376.htm) - 05:12 30/11/2024
-- 🥸 [Cụ ông 71 tuổi tử vong có phải bị ngộ độc do ăn bánh mì Cô Ba?](https://thanhnien.vn/cu-ong-71-tuoi-tu-vong-co-phai-bi-ngo-doc-do-an-banh-mi-co-ba-185241130105915571.htm) - 05:09 30/11/2024
+- 🥸 [Cụ ông 71 tuổi tử vong có phải bị ngộ độc do ăn bánh mì Cô Ba Bến Đình?](https://thanhnien.vn/cu-ong-71-tuoi-tu-vong-co-phai-bi-ngo-doc-do-an-banh-mi-co-ba-185241130105915571.htm) - 05:09 30/11/2024
 - 🌁 [Yoona và Irene đẹp mãn nhãn với áo vải tweed, chuẩn visual tài phiệt](https://thanhnien.vn/thoi-trang-tre/yoona-va-irene-dep-man-nhan-voi-ao-vai-tweed-chuan-visual-tai-phiet-185241129111924763.htm) - 05:00 30/11/2024
 - 🤡 [Vé xem Việt Nam đấu Indonesia ở sân Việt Trì bao nhiêu tiền, mua như thế nào?](https://thanhnien.vn/ve-xem-viet-nam-dau-indonesia-o-san-viet-tri-bao-nhieu-tien-mua-nhu-the-nao-185241130114954549.htm) - 04:59 30/11/2024
 - 🎉 [Xem nhanh 12h: Tạm giữ 4 vệ sĩ ‘dẹp đường’ | Ca sĩ Đàm Vĩnh Hưng lên tiếng vụ kiện tụng](https://thanhnien.vn/xem-nhanh-12h-tam-giu-4-ve-si-dep-duong-ca-si-dam-vinh-hung-len-tieng-vu-kien-tung-18524113011062737.htm) - 04:58 30/11/2024
