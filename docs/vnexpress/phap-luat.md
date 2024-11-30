@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cán bộ Thanh tra Chính phủ bị Nguyễn Cao Trí mua chuộc thế nào](https://vnexpress.net/can-bo-thanh-tra-chinh-phu-bi-nguyen-cao-tri-mua-chuoc-the-nao-4822296.html) - 10:53 30/11/2024
+- 😎 [Cán bộ Thanh tra Chính phủ bị đại gia Nguyễn Cao Trí mua chuộc thế nào](https://vnexpress.net/can-bo-thanh-tra-chinh-phu-bi-nguyen-cao-tri-mua-chuoc-the-nao-4822296.html) - 10:53 30/11/2024
 - 🥰 [Cựu chủ nhiệm Văn phòng Chính phủ Mai Tiến Dũng sẽ bị xét xử tại Hà Nội](https://vnexpress.net/cuu-chu-nhiem-van-phong-chinh-phu-mai-tien-dung-se-bi-xet-xu-tai-ha-noi-4822184.html) - 06:23 30/11/2024
 - 🎓 [Giảm mức hình phạt cao nhất với người chưa thành niên phạm tội](https://vnexpress.net/giam-muc-hinh-phat-cao-nhat-voi-nguoi-chua-thanh-nien-pham-toi-4822220.html) - 05:25 30/11/2024
 - 🤓 [Nhiều bất thường trong vụ hai vợ chồng tử vong tại nhà riêng](https://vnexpress.net/nhieu-bat-thuong-trong-vu-hai-vo-chong-tu-vong-tai-nha-rieng-4822201.html) - 04:08 30/11/2024
