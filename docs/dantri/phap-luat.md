@@ -4,7 +4,7 @@ sidebar_position: 8
 ---
 
 <!-- dantri-phap-luat:START -->
-- 🌊 [Ba chữ &quot;Chuyển Vụ I&quot; khiến cựu Bộ trưởng Mai Tiến Dũng vướng vòng lao lý](https://dantri.com.vn/phap-luat/ba-chu-chuyen-vu-i-khien-cuu-bo-truong-mai-tien-dung-vuong-vong-lao-ly-20241130141113861.htm) - 08:19 30/11/2024
+- 🌊 [Ba lần bút phê &quot;Chuyển Vụ I&quot; khiến cựu Bộ trưởng Mai Tiến Dũng vướng lao lý](https://dantri.com.vn/phap-luat/ba-lan-but-phe-chuyen-vu-i-khien-cuu-bo-truong-mai-tien-dung-vuong-lao-ly-20241130141113861.htm) - 08:19 30/11/2024
 - 🐲 [Bắt đối tượng vung dao truy sát khiến công an phải nổ súng chỉ thiên](https://dantri.com.vn/phap-luat/bat-doi-tuong-vung-dao-truy-sat-khien-cong-an-phai-no-sung-chi-thien-20241130131148636.htm) - 06:48 30/11/2024
 - 🌁 [Truy tố cựu Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ Mai Tiến Dũng](https://dantri.com.vn/phap-luat/truy-to-cuu-bo-truong-chu-nhiem-van-phong-chinh-phu-mai-tien-dung-20241130124559436.htm) - 05:56 30/11/2024
 - 🎃 [Xác định 5 đối tượng trong clip nữ sinh bị đánh ở Bình Dương](https://dantri.com.vn/phap-luat/xac-dinh-5-doi-tuong-trong-clip-nu-sinh-bi-danh-o-binh-duong-20241130112822924.htm) - 05:51 30/11/2024
