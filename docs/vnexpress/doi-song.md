@@ -5,7 +5,7 @@ sidebar_position: 6
 
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Nhiều doanh nghiệp đăng ký tiêm vaccine dịp cuối năm](https://vnexpress.net/nhieu-doanh-nghiep-dang-ky-tiem-vaccine-dip-cuoi-nam-4822157.html) - 03:00 30/11/2024
-- 🎓 [Cục trưởng Lê Quang Tự Do: &#39;Sáng tạo số đạt quy mô như xã hội thu nhỏ&#39;](https://vnexpress.net/cuc-truong-le-quang-tu-do-sang-tao-so-dat-quy-mo-nhu-xa-hoi-thu-nho-4822027.html) - 02:30 30/11/2024
+- 🎓 [TikTok: 4 giây đầu tiên là thời gian &#39;vàng&#39; để hút khán giả](https://vnexpress.net/tiktok-4-giay-dau-tien-la-thoi-gian-vang-de-hut-khan-gia-4822027.html) - 02:30 30/11/2024
 - 🚦 [Người phụ nữ Australia 17 năm cứu hộ chó ở Việt Nam](https://vnexpress.net/nguoi-phu-nu-australia-17-nam-cuu-ho-cho-o-viet-nam-4818342.html) - 23:00 29/11/2024
 - 🦣 [4 đồ dùng là ổ chứa bụi bẩn trong nhà](https://vnexpress.net/4-do-dung-la-o-chua-bui-ban-trong-nha-4821714.html) - 22:33 29/11/2024
 - 🎓 [HuyMe: &#39;Khó khăn khi trở lại làm sáng tạo nội dung&#39;](https://vnexpress.net/huyme-kho-khan-khi-tro-lai-lam-sang-tao-noi-dung-4820999.html) - 17:59 29/11/2024
