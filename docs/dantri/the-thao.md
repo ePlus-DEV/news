@@ -6,10 +6,10 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [HLV Pep Guardiola tuyên bố sốc trước trận đại chiến gặp Liverpool](https://dantri.com.vn/the-thao/hlv-pep-guardiola-tuyen-bo-soc-truoc-tran-dai-chien-gap-liverpool-20241201145046672.htm) - 07:50 01/12/2024
 - 💯 [Quang Hải tiếp tục ghi bàn, tuyển Việt Nam toàn thắng cả ba trận ở Hàn Quốc](https://dantri.com.vn/the-thao/quang-hai-tiep-tuc-ghi-ban-tuyen-viet-nam-toan-thang-ca-ba-tran-o-han-quoc-20241201141106729.htm) - 07:26 01/12/2024
-- ⛽️ [Nguyễn Thị Oanh lần thứ hai phá kỷ lục marathon Việt Nam](https://dantri.com.vn/the-thao/nguyen-thi-oanh-lan-thu-hai-pha-ky-luc-marathon-viet-nam-20241201142430539.htm) - 07:24 01/12/2024
-- 💃 [Báo Indonesia nói thẳng về đội tuyển Việt Nam ở AFF Cup 2024](https://dantri.com.vn/the-thao/bao-indonesia-noi-thang-ve-doi-tuyen-viet-nam-o-aff-cup-2024-20241201115038008.htm) - 06:15 01/12/2024
-- 🌈 [Nhận định Liverpool - Man City: Khúc cua tử thần](https://dantri.com.vn/the-thao/nhan-dinh-liverpool-man-city-khuc-cua-tu-than-20241201124604040.htm) - 05:46 01/12/2024
-- 🦅 [Nhận định Man Utd - Everton: Giải tỏa cơn khát điểm](https://dantri.com.vn/the-thao/nhan-dinh-man-utd-everton-giai-toa-con-khat-diem-20241201105635227.htm) - 03:56 01/12/2024
+- ⛽️ [Nhận định Liverpool - Man City: Khúc cua tử thần](https://dantri.com.vn/the-thao/nhan-dinh-liverpool-man-city-khuc-cua-tu-than-20241201124604040.htm) - 07:25 01/12/2024
+- 💃 [Nhận định Man Utd - Everton: Giải tỏa cơn khát điểm](https://dantri.com.vn/the-thao/nhan-dinh-man-utd-everton-giai-toa-con-khat-diem-20241201105635227.htm) - 07:25 01/12/2024
+- 🌈 [Nguyễn Thị Oanh lần thứ hai phá kỷ lục marathon Việt Nam](https://dantri.com.vn/the-thao/nguyen-thi-oanh-lan-thu-hai-pha-ky-luc-marathon-viet-nam-20241201142430539.htm) - 07:24 01/12/2024
+- 🦅 [Báo Indonesia nói thẳng về đội tuyển Việt Nam ở AFF Cup 2024](https://dantri.com.vn/the-thao/bao-indonesia-noi-thang-ve-doi-tuyen-viet-nam-o-aff-cup-2024-20241201115038008.htm) - 06:15 01/12/2024
 - 🌝 [Va chạm cực mạnh, ngôi sao Barcelona nôn ra máu, rời sân bằng cáng](https://dantri.com.vn/the-thao/va-cham-cuc-manh-ngoi-sao-barcelona-non-ra-mau-roi-san-bang-cang-20241201102147811.htm) - 03:21 01/12/2024
 - 🚀 [CĐV châu Á buông lời phũ phàng và thực tế buồn của đội tuyển Việt Nam](https://dantri.com.vn/the-thao/cdv-chau-a-buong-loi-phu-phang-va-thuc-te-buon-cua-doi-tuyen-viet-nam-20241201011204553.htm) - 01:02 01/12/2024
 - 🎉 [Djokovic nhận được cảnh báo về năng lực huấn luyện của Murray](https://dantri.com.vn/the-thao/djokovic-nhan-duoc-canh-bao-ve-nang-luc-huan-luyen-cua-murray-20241201075805001.htm) - 01:00 01/12/2024
