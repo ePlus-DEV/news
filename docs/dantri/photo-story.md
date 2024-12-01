@@ -4,7 +4,7 @@ sidebar_position: 28
 ---
 
 <!-- dantri-photo-story:START -->
-- 💪 [Đất cát phủ vàng cây cầu ở TPHCM](https://dantri.com.vn/xa-hoi/dat-cat-phu-vang-cay-cau-o-tphcm-20241201101808048.htm) - 05:50 01/12/2024
+- 💪 [Đất, cát phủ vàng cây cầu ở TPHCM](https://dantri.com.vn/xa-hoi/dat-cat-phu-vang-cay-cau-o-tphcm-20241201101808048.htm) - 05:50 01/12/2024
 - 🧰 [Nhiều tuyến đường dẫn vào Đại học Quốc gia TPHCM tất bật &quot;thay áo mới&quot;](https://dantri.com.vn/xa-hoi/nhieu-tuyen-duong-dan-vao-dai-hoc-quoc-gia-tphcm-tat-bat-thay-ao-moi-20241130132826935.htm) - 02:00 01/12/2024
 - 🧰 [Ngắm dàn siêu xe mạ vàng của đại gia buôn lợn ở Hải Dương](https://dantri.com.vn/xa-hoi/ngam-dan-sieu-xe-ma-vang-cua-dai-gia-buon-lon-o-hai-duong-20241130225016734.htm) - 01:12 01/12/2024
 - 😎 [Triển lãm &quot;Tranh tối tranh sáng&quot;: Khi văn học dân gian khoác áo hiện đại](https://dantri.com.vn/giai-tri/trien-lam-tranh-toi-tranh-sang-khi-van-hoc-dan-gian-khoac-ao-hien-dai-20241201081201837.htm) - 01:12 01/12/2024
