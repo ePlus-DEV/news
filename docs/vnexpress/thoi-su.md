@@ -9,7 +9,7 @@ sidebar_position: 1
 - ⚗️ [Động đất làm đá lăn xuống gần khu dân cư](https://vnexpress.net/dong-dat-lam-da-lan-xuong-gan-khu-dan-cu-4822462.html) - 07:24 01/12/2024
 - 🌊 [Cháy khách sạn 7 tầng ở Hà Nội, 20 người thoát nạn](https://vnexpress.net/chay-khach-san-7-tang-o-ha-noi-20-nguoi-thoat-nan-4822459.html) - 07:10 01/12/2024
 - 🎓 [Thủ tướng: Tăng tốc phát triển kinh tế xã hội và sắp xếp bộ máy](https://vnexpress.net/thu-tuong-tang-toc-phat-trien-kinh-te-xa-hoi-va-sap-xep-bo-may-4822432.html) - 06:23 01/12/2024
-- 🔥 [Tổng Bí thư: Tinh gọn bộ máy sớm có lợi cho dân, cho nước](https://vnexpress.net/tong-bi-thu-tinh-gon-bo-may-som-co-loi-cho-dan-cho-nuoc-4822439.html) - 05:56 01/12/2024
+- 🔥 [Tổng Bí thư: Tinh gọn bộ máy không thể chậm trễ hơn nữa](https://vnexpress.net/tong-bi-thu-tinh-gon-bo-may-khong-the-cham-tre-hon-nua-4822439.html) - 05:56 01/12/2024
 - 🦏 [Dự kiến Chính phủ giảm 5 bộ, Quốc hội giảm 4 ủy ban](https://vnexpress.net/du-kien-chinh-phu-giam-5-bo-quoc-hoi-giam-4-uy-ban-4822418.html) - 04:22 01/12/2024
 - 👺 [Diện mạo đường rộng 10 làn quy hoạch làm Vành đai 4 TP HCM](https://vnexpress.net/dien-mao-duong-rong-10-lan-quy-hoach-lam-vanh-dai-4-tp-hcm-4820874.html) - 00:55 01/12/2024
 - 🧑‍🏫 [Trợ cấp cho người dưới 75 tuổi không lương hưu dự kiến ra sao?](https://vnexpress.net/tro-cap-cho-nguoi-duoi-75-tuoi-khong-luong-huu-du-kien-ra-sao-4822298.html) - 21:00 30/11/2024
