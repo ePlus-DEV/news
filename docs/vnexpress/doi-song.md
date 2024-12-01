@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Đạo diễn Trần Thành Trung: &#39;Tôi vui vì Vietnam iContent được khen chuyên nghiệp&#39;](https://vnexpress.net/dao-dien-tran-thanh-trung-toi-vui-vi-vietnam-icontent-duoc-khen-chuyen-nghiep-4822501.html) - 10:00 01/12/2024
+- 🚀 [Đạo diễn Trần Thành Trung: &#39;Tôi vui vì tham gia Vietnam iContent&#39;](https://vnexpress.net/dao-dien-tran-thanh-trung-toi-vui-vi-tham-gia-vietnam-icontent-4822501.html) - 10:00 01/12/2024
 - 🎓 [Vì sao cá kho ngon hơn khi nấu hai lửa?](https://vnexpress.net/vi-sao-ca-kho-ngon-hon-khi-nau-hai-lua-4822518.html) - 09:51 01/12/2024
 - 🚦 [Meta đem Threads đến gần cộng đồng sáng tạo nội dung](https://vnexpress.net/meta-dem-threads-den-gan-cong-dong-sang-tao-noi-dung-4822523.html) - 09:30 01/12/2024
 - 🦣 [ViruSs: &#39;Không trường lớp nào dạy sáng tạo nội dung&#39;](https://vnexpress.net/viruss-khong-truong-lop-nao-day-sang-tao-noi-dung-4822420.html) - 08:00 01/12/2024
