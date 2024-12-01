@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Man Utd 0-0 Everton &lpar;hiệp 1&rpar;: Hojlund dự bị](https://dantri.com.vn/the-thao/man-utd-0-0-everton-hiep-1-hojlund-du-bi-20241201202819218.htm) - 13:28 01/12/2024
+- 🎡 [Man Utd 0-0 Everton &lpar;hiệp 1&rpar;: Đội chủ nhà chơi áp đảo](https://dantri.com.vn/the-thao/man-utd-0-0-everton-hiep-1-doi-chu-nha-choi-ap-dao-20241201202819218.htm) - 13:28 01/12/2024
 - 💯 [Tay vợt 16 tuổi Phương Anh xuất sắc giành 2 HCV pickleball ở giải thế giới](https://dantri.com.vn/the-thao/tay-vot-16-tuoi-phuong-anh-xuat-sac-gianh-2-hcv-pickleball-o-giai-the-gioi-20241201191109682.htm) - 12:28 01/12/2024
 - ⛽️ [Báo Indonesia nói thẳng về đội tuyển Việt Nam ở AFF Cup 2024](https://dantri.com.vn/the-thao/bao-indonesia-noi-thang-ve-doi-tuyen-viet-nam-o-aff-cup-2024-20241201115038008.htm) - 11:15 01/12/2024
 - 💃 [HLV Pep Guardiola tuyên bố sốc trước trận đại chiến gặp Liverpool](https://dantri.com.vn/the-thao/hlv-pep-guardiola-tuyen-bo-soc-truoc-tran-dai-chien-gap-liverpool-20241201145046672.htm) - 07:50 01/12/2024
