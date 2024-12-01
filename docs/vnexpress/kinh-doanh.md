@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Thụy Sĩ vạ lây khi kinh tế Đức đi xuống](https://vnexpress.net/thuy-si-va-lay-khi-kinh-te-duc-di-xuong-4822456.html) - 08:00 01/12/2024
-- 🐲 [Thủ tướng: &#39;Năm 2025 phấn đấu tăng trưởng GDP đạt 8%&#39;](https://vnexpress.net/thu-tuong-phan-dau-tang-truong-gdp-nam-sau-dat-8-4822453.html) - 06:25 01/12/2024
+- 🐲 [Thủ tướng: &#39;Năm 2025 phấn đấu tăng trưởng GDP đạt 8%&#39;](https://vnexpress.net/thu-tuong-nam-2025-phan-dau-tang-truong-gdp-dat-8-4822453.html) - 06:25 01/12/2024
 - 🔥 [Vì sao ông Trump thích áp thuế nhập khẩu?](https://vnexpress.net/vi-sao-ong-trump-thich-ap-thue-nhap-khau-4822416.html) - 05:00 01/12/2024
 - 🐵 [Trung Quốc có thể hạ giá nhân dân tệ 10-15% để đối phó ông Trump](https://vnexpress.net/trung-quoc-co-the-ha-gia-nhan-dan-te-10-15-de-doi-pho-ong-trump-4822197.html) - 20:00 30/11/2024
 - 🦅 [&#39;Tấm ván cứu sinh&#39; cho nước nghèo thoát khủng hoảng khí hậu được mặc cả 300 tỷ USD](https://vnexpress.net/tam-van-cuu-sinh-cho-nuoc-ngheo-thoat-khung-hoang-khi-hau-duoc-mac-ca-300-ty-usd-4821569.html) - 18:14 30/11/2024
