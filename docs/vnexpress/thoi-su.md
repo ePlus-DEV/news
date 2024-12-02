@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Chàng trai biến gỗ vụn thành con vật](https://vnexpress.net/chang-trai-bien-go-vun-thanh-con-vat-4822790.html) - 17:00 02/12/2024
+- 🦒 [Chàng trai biến gỗ vụn thành mô hình con vật](https://vnexpress.net/chang-trai-bien-go-vun-thanh-mo-hinh-con-vat-4822790.html) - 17:00 02/12/2024
 - 🤓 [Thủ tướng: Vùng Đông Nam Bộ cần phấn đấu tăng trưởng 2 con số](https://vnexpress.net/thu-tuong-vung-dong-nam-bo-can-phan-dau-tang-truong-2-con-so-4822978.html) - 12:29 02/12/2024
 - ⚗️ [Ông Nguyễn Khắc Thận làm Bí thư tỉnh Thái Bình](https://vnexpress.net/ong-nguyen-khac-than-lam-bi-thu-tinh-thai-binh-4822981.html) - 11:22 02/12/2024
 - 🌊 [Núi Voi đầu nguồn Làng Nủ tiếp tục sạt lở](https://vnexpress.net/nui-voi-dau-nguon-lang-nu-tiep-tuc-sat-lo-4822952.html) - 10:34 02/12/2024
