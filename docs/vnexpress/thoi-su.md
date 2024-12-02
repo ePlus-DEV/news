@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Làm ống thép xuyên hồ Tây để bổ sung nước cho sông Tô Lịch](https://vnexpress.net/lam-ong-thep-xuyen-ho-tay-de-bo-sung-nuoc-cho-song-to-lich-4822791.html) - 07:53 02/12/2024
+- 🦒 [Làm ống dẫn nước từ sông Hồng về sông Tô Lịch](https://vnexpress.net/lam-ong-dan-nuoc-tu-song-hong-ve-song-to-lich-4822791.html) - 07:53 02/12/2024
 - 🤓 [Bình Dương ra mắt trung tâm phục vụ hành chính công một cửa](https://vnexpress.net/binh-duong-ra-mat-trung-tam-phuc-vu-hanh-chinh-cong-mot-cua-4822794.html) - 07:00 02/12/2024
 - ⚗️ [6 thanh thiếu niên chết sau hai vụ tai nạn ở Hòa Bình](https://vnexpress.net/6-thanh-thieu-nien-chet-sau-hai-vu-tai-nan-o-hoa-binh-4822643.html) - 02:29 02/12/2024
 - 🌊 [Chủ tịch tỉnh Thừa Thiên Huế: &#39;TP Huế sẽ lấy lại vị thế&#39;](https://vnexpress.net/chu-tich-tinh-thua-thien-hue-tp-hue-se-lay-lai-vi-the-4821432.html) - 17:00 01/12/2024
