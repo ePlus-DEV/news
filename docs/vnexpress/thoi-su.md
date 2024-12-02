@@ -4,8 +4,8 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [5 thanh thiếu niên chết sau hai vụ tai nạn ở Hòa Bình](https://vnexpress.net/5-thanh-thieu-nien-chet-sau-hai-vu-tai-nan-o-hoa-binh-4822643.html) - 02:29 02/12/2024
-- 🤓 [&#39;Huế sẽ lấy lại vị thế khi trở thành thành phố trực thuộc Trung ương&#39;](https://vnexpress.net/hue-se-lay-lai-vi-the-khi-tro-thanh-thanh-pho-truc-thuoc-trung-uong-4821432.html) - 17:00 01/12/2024
+- 🦒 [6 thanh thiếu niên chết sau hai vụ tai nạn ở Hòa Bình](https://vnexpress.net/6-thanh-thieu-nien-chet-sau-hai-vu-tai-nan-o-hoa-binh-4822643.html) - 02:29 02/12/2024
+- 🤓 [Chủ tịch tỉnh Thừa Thiên Huế: &#39;TP Huế sẽ lấy lại vị thế&#39;](https://vnexpress.net/chu-tich-tinh-thua-thien-hue-tp-hue-se-lay-lai-vi-the-4821432.html) - 17:00 01/12/2024
 - ⚗️ [Lạng Sơn có tân Bí thư Tỉnh ủy](https://vnexpress.net/lang-son-co-tan-bi-thu-tinh-uy-4822569.html) - 16:23 01/12/2024
 - 🌊 [Khánh thành 14 cầu Hy Vọng tại Đồng Tháp](https://vnexpress.net/khanh-thanh-14-cau-hy-vong-tai-dong-thap-4822376.html) - 16:01 01/12/2024
 - 🎓 [Cảnh sát cứu tài xế đột quỵ khi lái ôtô trên cao tốc](https://vnexpress.net/canh-sat-cuu-tai-xe-dot-quy-khi-lai-oto-tren-cao-toc-4822485.html) - 11:22 01/12/2024
