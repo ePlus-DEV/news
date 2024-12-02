@@ -4,63 +4,63 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Tại sao người Hàn Quốc mặc đồ đen dự đám cưới?](https://vnexpress.net/tai-sao-nguoi-han-quoc-mac-do-den-du-dam-cuoi-4822749.html) - 05:17 02/12/2024
-- 🎓 [Nghề cắt mí, sửa môi cho cá](https://vnexpress.net/nghe-cat-mi-sua-moi-cho-ca-4822542.html) - 05:11 02/12/2024
-- 🚦 [Loạt ưu đãi tri ân khách hàng từ FPT Long Châu trong tháng 12](https://vnexpress.net/loat-uu-dai-tri-an-khach-hang-tu-fpt-long-chau-trong-thang-12-4822465.html) - 01:00 02/12/2024
-- 🦣 [Hội chứng kiệt sức của Gen Z](https://vnexpress.net/hoi-chung-kiet-suc-cua-gen-z-4821839.html) - 23:00 01/12/2024
-- 🎓 [Kết đẹp của người mẹ trẻ hiến gan cứu con](https://vnexpress.net/ket-dep-cua-nguoi-me-tre-hien-gan-cuu-con-4822023.html) - 17:00 01/12/2024
-- 🎭 [Nghệ sĩ, nhà sáng tạo nội dung nói gì về Vietnam iContent?](https://vnexpress.net/nghe-si-nha-sang-tao-noi-dung-noi-gi-ve-vietnam-icontent-4822443.html) - 12:00 01/12/2024
-- 🦅 [Đạo diễn Trần Thành Trung: &#39;Tôi vui vì đóng góp cho Vietnam iContent&#39;](https://vnexpress.net/dao-dien-tran-thanh-trung-toi-vui-vi-dong-gop-cho-vietnam-icontent-4822501.html) - 10:00 01/12/2024
-- 🎃 [Vì sao cá kho ngon hơn khi nấu hai lửa?](https://vnexpress.net/vi-sao-ca-kho-ngon-hon-khi-nau-hai-lua-4822518.html) - 09:51 01/12/2024
-- 💪 [Meta đem Threads đến gần cộng đồng sáng tạo nội dung](https://vnexpress.net/meta-dem-threads-den-gan-cong-dong-sang-tao-noi-dung-4822523.html) - 09:30 01/12/2024
-- 🐻 [ViruSs: &#39;Không trường lớp nào dạy sáng tạo nội dung&#39;](https://vnexpress.net/viruss-khong-truong-lop-nao-day-sang-tao-noi-dung-4822420.html) - 08:00 01/12/2024
-- 🧠 [Xin ngủ nhờ suốt 5 năm để tiết kiệm tiền](https://vnexpress.net/xin-ngu-nho-suot-5-nam-de-tiet-kiem-tien-4822406.html) - 07:57 01/12/2024
-- 🐘 [Cục trưởng Lê Quang Tự Do: Nội dung &#39;sạch&#39; giúp ngành sáng tạo số bền vững](https://vnexpress.net/cuc-truong-le-quang-tu-do-noi-dung-sach-giup-nganh-sang-tao-so-ben-vung-4822322.html) - 07:00 01/12/2024
-- 👹 [H&#39;Hen Niê cùng Quyền Linh nhận giải &#39;Cá nhân vì cộng đồng&#39;](https://vnexpress.net/h-hen-nie-cung-quyen-linh-nhan-giai-ca-nhan-vi-cong-dong-4822435.html) - 05:15 01/12/2024
-- 💂 [FPT Play thắng giải &#39;Nền tảng giải trí của năm&#39;](https://vnexpress.net/fpt-play-thang-giai-nen-tang-giai-tri-cua-nam-4822365.html) - 04:00 01/12/2024
-- 🦍 [Thứ tự nêm gia vị khi nấu ăn không phải ai cũng biết](https://vnexpress.net/thu-tu-nem-gia-vi-khi-nau-an-khong-phai-ai-cung-biet-4822382.html) - 03:37 01/12/2024
-- 🧑‍🏫 [Hai show &#39;anh trai&#39; được vinh danh ở Vietnam iContent Awards 2024](https://vnexpress.net/hai-show-anh-trai-duoc-vinh-danh-o-vietnam-icontent-awards-2024-4822361.html) - 03:00 01/12/2024
-- 🧰 [Khoai Lang Thang: &#39;Cảm xúc chân thật giúp video chạm trái tim khán giả&#39;](https://vnexpress.net/khoai-lang-thang-cam-xuc-chan-that-giup-video-cham-trai-tim-khan-gia-4822360.html) - 03:00 01/12/2024
-- 🪄 [Khánh Vy, Ninh Anh Bùi thắng giải nhà sáng tạo số ở Vietnam iContent Awards 2024](https://vnexpress.net/khanh-vy-ninh-anh-bui-thang-giai-nha-sang-tao-so-o-vietnam-icontent-awards-2024-4822366.html) - 02:00 01/12/2024
-- 🐲 [Ba phẩm chất được Sài Gòn Tếu đề cao trong mỗi sáng tạo](https://vnexpress.net/ba-pham-chat-duoc-sai-gon-teu-de-cao-trong-moi-sang-tao-4822323.html) - 01:00 01/12/2024
-- 💻 [Lớp khiêu vũ của người mù](https://vnexpress.net/lop-khieu-vu-cua-nguoi-mu-4822061.html) - 23:00 30/11/2024
-- 🐘 [4 bí quyết &#39;vàng&#39; dạy con thành công](https://vnexpress.net/4-bi-quyet-vang-day-con-thanh-cong-4822066.html) - 22:36 30/11/2024
-- 🎬 [Khoai Lang Thang xúc động khi nhận cú đúp Vietnam iContent Awards 2024](https://vnexpress.net/khoai-lang-thang-xuc-dong-khi-nhan-cu-dup-vietnam-icontent-awards-2024-4822346.html) - 18:00 30/11/2024
-- 💻 [Người trẻ tụ tập xuyên đêm trên cầu vượt](https://vnexpress.net/nguoi-tre-tu-tap-xuyen-dem-tren-cau-vuot-4820697.html) - 17:22 30/11/2024
-- 🧰 [Vietnam iContent Awards 2024 trao 11 giải thưởng về sáng tạo số](https://vnexpress.net/vietnam-icontent-awards-2024-trao-11-giai-thuong-ve-sang-tao-so-4822031-tong-thuat.html) - 13:00 30/11/2024
-- 🫣 [Gen Z Hàn từ bỏ việc công chức](https://vnexpress.net/gen-z-han-tu-bo-viec-cong-chuc-4822271.html) - 12:00 30/11/2024
-- ⚗️ [YouTube: Cải tiến hệ thống để xây môi trường số an toàn](https://vnexpress.net/youtube-cai-tien-he-thong-de-xay-moi-truong-so-an-toan-4822319.html) - 11:00 30/11/2024
-- 🌊 [ViruSs: &#39;Ai cũng có thể trở thành KOC&#39;](https://vnexpress.net/viruss-ai-cung-co-the-tro-thanh-koc-4822268.html) - 10:00 30/11/2024
-- 💃 [Lòng già xào tiết](https://vnexpress.net/doi-song-cooking-long-gia-xao-tiet-4822274.html) - 09:52 30/11/2024
-- 🦆 [Hàng nghìn người trải nghiệm triển lãm sáng tạo tại Vietnam iContent 2024](https://vnexpress.net/hang-nghin-nguoi-trai-nghiem-trien-lam-sang-tao-tai-vietnam-icontent-2024-4822282.html) - 09:00 30/11/2024
-- 🎓 [Mẹo tăng gấp đôi protein trong trứng](https://vnexpress.net/doi-song-cooking-meo-tang-gap-doi-protein-trong-trung-4820770.html) - 08:00 30/11/2024
-- 💪 [Unilever: 50 triệu người có tiềm năng làm sáng tạo nội dung](https://vnexpress.net/unilever-50-trieu-nguoi-co-tiem-nang-lam-sang-tao-noi-dung-4822256.html) - 08:00 30/11/2024
-- 🤔 [Cách phân biệt đồ gia dụng thủy tinh có chứa chì](https://vnexpress.net/cach-phan-biet-do-gia-dung-thuy-tinh-co-chua-chi-4820887.html) - 05:46 30/11/2024
-- 🧰 [Nhiều doanh nghiệp đăng ký tiêm vaccine dịp cuối năm](https://vnexpress.net/nhieu-doanh-nghiep-dang-ky-tiem-vaccine-dip-cuoi-nam-4822157.html) - 03:00 30/11/2024
-- 😎 [&#39;Sáng tạo số dần bùng nổ, ảnh hưởng sâu rộng đến xã hội&#39;](https://vnexpress.net/sang-tao-so-dan-bung-no-anh-huong-sau-rong-den-xa-hoi-4822027-tong-thuat.html) - 02:30 30/11/2024
-- 🌮 [Người phụ nữ Australia 17 năm cứu hộ chó ở Việt Nam](https://vnexpress.net/nguoi-phu-nu-australia-17-nam-cuu-ho-cho-o-viet-nam-4818342.html) - 23:00 29/11/2024
-- 🧠 [4 đồ dùng là ổ chứa bụi bẩn trong nhà](https://vnexpress.net/4-do-dung-la-o-chua-bui-ban-trong-nha-4821714.html) - 22:33 29/11/2024
+- 🚀 [Người Nhật dần từ chối văn hóa rượu bia](https://vnexpress.net/nguoi-nhat-dan-tu-choi-van-hoa-ruou-bia-4822830.html) - 09:47 02/12/2024
+- 🎓 [Tại sao người Hàn Quốc mặc đồ đen dự đám cưới?](https://vnexpress.net/tai-sao-nguoi-han-quoc-mac-do-den-du-dam-cuoi-4822749.html) - 05:17 02/12/2024
+- 🚦 [Nghề cắt mí, sửa môi cho cá](https://vnexpress.net/nghe-cat-mi-sua-moi-cho-ca-4822542.html) - 05:11 02/12/2024
+- 🦣 [Loạt ưu đãi tri ân khách hàng từ FPT Long Châu trong tháng 12](https://vnexpress.net/loat-uu-dai-tri-an-khach-hang-tu-fpt-long-chau-trong-thang-12-4822465.html) - 01:00 02/12/2024
+- 🎓 [Hội chứng kiệt sức của Gen Z](https://vnexpress.net/hoi-chung-kiet-suc-cua-gen-z-4821839.html) - 23:00 01/12/2024
+- 🎭 [Kết đẹp của người mẹ trẻ hiến gan cứu con](https://vnexpress.net/ket-dep-cua-nguoi-me-tre-hien-gan-cuu-con-4822023.html) - 17:00 01/12/2024
+- 🦅 [Nghệ sĩ, nhà sáng tạo nội dung nói gì về Vietnam iContent?](https://vnexpress.net/nghe-si-nha-sang-tao-noi-dung-noi-gi-ve-vietnam-icontent-4822443.html) - 12:00 01/12/2024
+- 🎃 [Đạo diễn Trần Thành Trung: &#39;Tôi vui vì đóng góp cho Vietnam iContent&#39;](https://vnexpress.net/dao-dien-tran-thanh-trung-toi-vui-vi-dong-gop-cho-vietnam-icontent-4822501.html) - 10:00 01/12/2024
+- 💪 [Vì sao cá kho ngon hơn khi nấu hai lửa?](https://vnexpress.net/vi-sao-ca-kho-ngon-hon-khi-nau-hai-lua-4822518.html) - 09:51 01/12/2024
+- 🐻 [Meta đem Threads đến gần cộng đồng sáng tạo nội dung](https://vnexpress.net/meta-dem-threads-den-gan-cong-dong-sang-tao-noi-dung-4822523.html) - 09:30 01/12/2024
+- 🧠 [ViruSs: &#39;Không trường lớp nào dạy sáng tạo nội dung&#39;](https://vnexpress.net/viruss-khong-truong-lop-nao-day-sang-tao-noi-dung-4822420.html) - 08:00 01/12/2024
+- 🐘 [Xin ngủ nhờ suốt 5 năm để tiết kiệm tiền](https://vnexpress.net/xin-ngu-nho-suot-5-nam-de-tiet-kiem-tien-4822406.html) - 07:57 01/12/2024
+- 👹 [Cục trưởng Lê Quang Tự Do: Nội dung &#39;sạch&#39; giúp ngành sáng tạo số bền vững](https://vnexpress.net/cuc-truong-le-quang-tu-do-noi-dung-sach-giup-nganh-sang-tao-so-ben-vung-4822322.html) - 07:00 01/12/2024
+- 💂 [H&#39;Hen Niê cùng Quyền Linh nhận giải &#39;Cá nhân vì cộng đồng&#39;](https://vnexpress.net/h-hen-nie-cung-quyen-linh-nhan-giai-ca-nhan-vi-cong-dong-4822435.html) - 05:15 01/12/2024
+- 🦍 [FPT Play thắng giải &#39;Nền tảng giải trí của năm&#39;](https://vnexpress.net/fpt-play-thang-giai-nen-tang-giai-tri-cua-nam-4822365.html) - 04:00 01/12/2024
+- 🧑‍🏫 [Thứ tự nêm gia vị khi nấu ăn không phải ai cũng biết](https://vnexpress.net/thu-tu-nem-gia-vi-khi-nau-an-khong-phai-ai-cung-biet-4822382.html) - 03:37 01/12/2024
+- 🧰 [Hai show &#39;anh trai&#39; được vinh danh ở Vietnam iContent Awards 2024](https://vnexpress.net/hai-show-anh-trai-duoc-vinh-danh-o-vietnam-icontent-awards-2024-4822361.html) - 03:00 01/12/2024
+- 🪄 [Khoai Lang Thang: &#39;Cảm xúc chân thật giúp video chạm trái tim khán giả&#39;](https://vnexpress.net/khoai-lang-thang-cam-xuc-chan-that-giup-video-cham-trai-tim-khan-gia-4822360.html) - 03:00 01/12/2024
+- 🐲 [Khánh Vy, Ninh Anh Bùi thắng giải nhà sáng tạo số ở Vietnam iContent Awards 2024](https://vnexpress.net/khanh-vy-ninh-anh-bui-thang-giai-nha-sang-tao-so-o-vietnam-icontent-awards-2024-4822366.html) - 02:00 01/12/2024
+- 💻 [Ba phẩm chất được Sài Gòn Tếu đề cao trong mỗi sáng tạo](https://vnexpress.net/ba-pham-chat-duoc-sai-gon-teu-de-cao-trong-moi-sang-tao-4822323.html) - 01:00 01/12/2024
+- 🐘 [Lớp khiêu vũ của người mù](https://vnexpress.net/lop-khieu-vu-cua-nguoi-mu-4822061.html) - 23:00 30/11/2024
+- 🎬 [4 bí quyết &#39;vàng&#39; dạy con thành công](https://vnexpress.net/4-bi-quyet-vang-day-con-thanh-cong-4822066.html) - 22:36 30/11/2024
+- 💻 [Khoai Lang Thang xúc động khi nhận cú đúp Vietnam iContent Awards 2024](https://vnexpress.net/khoai-lang-thang-xuc-dong-khi-nhan-cu-dup-vietnam-icontent-awards-2024-4822346.html) - 18:00 30/11/2024
+- 🧰 [Người trẻ tụ tập xuyên đêm trên cầu vượt](https://vnexpress.net/nguoi-tre-tu-tap-xuyen-dem-tren-cau-vuot-4820697.html) - 17:22 30/11/2024
+- 🫣 [Vietnam iContent Awards 2024 trao 11 giải thưởng về sáng tạo số](https://vnexpress.net/vietnam-icontent-awards-2024-trao-11-giai-thuong-ve-sang-tao-so-4822031-tong-thuat.html) - 13:00 30/11/2024
+- ⚗️ [Gen Z Hàn từ bỏ việc công chức](https://vnexpress.net/gen-z-han-tu-bo-viec-cong-chuc-4822271.html) - 12:00 30/11/2024
+- 🌊 [YouTube: Cải tiến hệ thống để xây môi trường số an toàn](https://vnexpress.net/youtube-cai-tien-he-thong-de-xay-moi-truong-so-an-toan-4822319.html) - 11:00 30/11/2024
+- 💃 [ViruSs: &#39;Ai cũng có thể trở thành KOC&#39;](https://vnexpress.net/viruss-ai-cung-co-the-tro-thanh-koc-4822268.html) - 10:00 30/11/2024
+- 🦆 [Lòng già xào tiết](https://vnexpress.net/doi-song-cooking-long-gia-xao-tiet-4822274.html) - 09:52 30/11/2024
+- 🎓 [Hàng nghìn người trải nghiệm triển lãm sáng tạo tại Vietnam iContent 2024](https://vnexpress.net/hang-nghin-nguoi-trai-nghiem-trien-lam-sang-tao-tai-vietnam-icontent-2024-4822282.html) - 09:00 30/11/2024
+- 💪 [Mẹo tăng gấp đôi protein trong trứng](https://vnexpress.net/doi-song-cooking-meo-tang-gap-doi-protein-trong-trung-4820770.html) - 08:00 30/11/2024
+- 🤔 [Unilever: 50 triệu người có tiềm năng làm sáng tạo nội dung](https://vnexpress.net/unilever-50-trieu-nguoi-co-tiem-nang-lam-sang-tao-noi-dung-4822256.html) - 08:00 30/11/2024
+- 🧰 [Cách phân biệt đồ gia dụng thủy tinh có chứa chì](https://vnexpress.net/cach-phan-biet-do-gia-dung-thuy-tinh-co-chua-chi-4820887.html) - 05:46 30/11/2024
+- 😎 [Nhiều doanh nghiệp đăng ký tiêm vaccine dịp cuối năm](https://vnexpress.net/nhieu-doanh-nghiep-dang-ky-tiem-vaccine-dip-cuoi-nam-4822157.html) - 03:00 30/11/2024
+- 🌮 [&#39;Sáng tạo số dần bùng nổ, ảnh hưởng sâu rộng đến xã hội&#39;](https://vnexpress.net/sang-tao-so-dan-bung-no-anh-huong-sau-rong-den-xa-hoi-4822027-tong-thuat.html) - 02:30 30/11/2024
+- 🧠 [Người phụ nữ Australia 17 năm cứu hộ chó ở Việt Nam](https://vnexpress.net/nguoi-phu-nu-australia-17-nam-cuu-ho-cho-o-viet-nam-4818342.html) - 23:00 29/11/2024
+- 🎡 [4 đồ dùng là ổ chứa bụi bẩn trong nhà](https://vnexpress.net/4-do-dung-la-o-chua-bui-ban-trong-nha-4821714.html) - 22:33 29/11/2024
 - 🎡 [HuyMe: &#39;Khó khăn khi trở lại làm sáng tạo nội dung&#39;](https://vnexpress.net/huyme-kho-khan-khi-tro-lai-lam-sang-tao-noi-dung-4820999.html) - 17:59 29/11/2024
-- 🎡 [Unilever bàn cách kiến tạo nội dung số lành mạnh](https://vnexpress.net/unilever-ban-cach-kien-tao-noi-dung-so-lanh-manh-4821978.html) - 12:00 29/11/2024
-- 🌏 [&#39;Mưa&#39; minigame, quà tặng đón khách dự iContent 2024](https://vnexpress.net/mua-minigame-qua-tang-don-khach-du-icontent-2024-4821680.html) - 11:00 29/11/2024
-- 🐻 [Xôi chim ngói](https://vnexpress.net/doi-song-cooking-xoi-chim-ngoi-4821917.html) - 10:29 29/11/2024
-- 💂 [Meta bàn về ngành sáng tạo, tặng loạt quà tại Vietnam iContent 2024](https://vnexpress.net/meta-ban-ve-nganh-sang-tao-tang-loat-qua-tai-vietnam-icontent-2024-4821807.html) - 09:00 29/11/2024
-- 🥸 [Khám phá di sản 2.000 năm tại châu Âu](https://vnexpress.net/kham-pha-di-san-2-000-nam-tai-chau-au-4821133.html) - 08:00 29/11/2024
-- 🌋 [Vietnam iContent 2024 lần đầu vinh danh nhà sáng tạo nội dung](https://vnexpress.net/vietnam-icontent-2024-lan-dau-vinh-danh-nha-sang-tao-noi-dung-4821129.html) - 08:00 29/11/2024
-- 🦩 [Ngày mai diễn ra ngày hội sáng tạo nội dung số đầu tiên tại Việt Nam](https://vnexpress.net/ngay-mai-dien-ra-ngay-hoi-sang-tao-noi-dung-so-dau-tien-tai-viet-nam-4821616.html) - 05:00 29/11/2024
-- 😺 [Gen Z mệt mỏi](https://vnexpress.net/gen-z-met-moi-4821166.html) - 04:45 29/11/2024
-- 🐻 [Theanh28: Chiến lược chia nhóm giúp làm nội dung &#39;nhanh và rộng&#39;](https://vnexpress.net/theanh28-chien-luoc-chia-nhom-giup-lam-noi-dung-nhanh-va-rong-4821555.html) - 04:00 29/11/2024
-- 🎬 [Lao động Mỹ lo bị sa thải lén lút](https://vnexpress.net/lao-dong-my-lo-bi-sa-thai-len-lut-4821572.html) - 03:56 29/11/2024
-- 🎊 [ViruSs nêu cách gỡ nút thắt &#39;thương hiệu - người dùng&#39; trong quảng cáo số](https://vnexpress.net/viruss-neu-cach-go-nut-that-thuong-hieu-nguoi-dung-trong-quang-cao-so-4821337.html) - 02:00 29/11/2024
-- 💄 [Hành trình khởi nghiệp của cô dâu Việt trên đất Hàn](https://vnexpress.net/hanh-trinh-khoi-nghiep-cua-co-dau-viet-tren-dat-han-4819158.html) - 23:29 28/11/2024
-- 🏊 [&#39;Lò bánh hy vọng&#39; cho người trẻ khó khăn](https://vnexpress.net/lo-banh-hy-vong-cho-nguoi-tre-kho-khan-4821282.html) - 23:00 28/11/2024
-- 🌜 [Cuộc đời người chuyển giới đầu tiên của Trung Quốc](https://vnexpress.net/cuoc-doi-nguoi-chuyen-gioi-dau-tien-cua-trung-quoc-4820465.html) - 22:30 28/11/2024
-- 🤡 [8 năm theo đuổi nghề sáng tạo nội dung của Dino Vũ](https://vnexpress.net/8-nam-theo-duoi-nghe-sang-tao-noi-dung-cua-dino-vu-4821162.html) - 18:23 28/11/2024
-- 🥰 [3 sai lầm khiến bạn mãi không giàu](https://vnexpress.net/3-sai-lam-khien-ban-mai-khong-giau-4820780.html) - 12:32 28/11/2024
-- 🦍 [Tôm đồng rang tóp mỡ](https://vnexpress.net/doi-song-cooking-tom-dong-rang-top-mo-4821531.html) - 10:32 28/11/2024
-- 🫣 [Áp lực kế nghiệp gia đình của Gen Z](https://vnexpress.net/ap-luc-ke-nghiep-gia-dinh-cua-gen-z-4821164.html) - 07:10 28/11/2024
-- 🚦 [Bốn đồ nội thất lỗi thời](https://vnexpress.net/bon-do-noi-that-loi-thoi-4820717.html) - 06:59 28/11/2024
-- 🐘 [5 cách dưỡng tóc từ gừng](https://vnexpress.net/5-cach-duong-toc-tu-gung-4820983.html) - 04:50 28/11/2024
-- 🔥 [Đám cưới trang trí bằng một tấn rau củ](https://vnexpress.net/dam-cuoi-trang-tri-bang-mot-tan-rau-cu-4820725.html) - 01:17 28/11/2024
-- 🎃 [Trạm thư tay chữa lành](https://vnexpress.net/tram-thu-tay-chua-lanh-4820525.html) - 23:00 27/11/2024
-- 🥳 [Người đàn ông U70 chăm cháu thay con](https://vnexpress.net/nguoi-dan-ong-u70-cham-chau-thay-con-4819132.html) - 17:16 27/11/2024<!-- vnexpress-doi-song:END -->
+- 🌏 [Unilever bàn cách kiến tạo nội dung số lành mạnh](https://vnexpress.net/unilever-ban-cach-kien-tao-noi-dung-so-lanh-manh-4821978.html) - 12:00 29/11/2024
+- 🐻 [&#39;Mưa&#39; minigame, quà tặng đón khách dự iContent 2024](https://vnexpress.net/mua-minigame-qua-tang-don-khach-du-icontent-2024-4821680.html) - 11:00 29/11/2024
+- 💂 [Xôi chim ngói](https://vnexpress.net/doi-song-cooking-xoi-chim-ngoi-4821917.html) - 10:29 29/11/2024
+- 🥸 [Meta bàn về ngành sáng tạo, tặng loạt quà tại Vietnam iContent 2024](https://vnexpress.net/meta-ban-ve-nganh-sang-tao-tang-loat-qua-tai-vietnam-icontent-2024-4821807.html) - 09:00 29/11/2024
+- 🌋 [Khám phá di sản 2.000 năm tại châu Âu](https://vnexpress.net/kham-pha-di-san-2-000-nam-tai-chau-au-4821133.html) - 08:00 29/11/2024
+- 🦩 [Vietnam iContent 2024 lần đầu vinh danh nhà sáng tạo nội dung](https://vnexpress.net/vietnam-icontent-2024-lan-dau-vinh-danh-nha-sang-tao-noi-dung-4821129.html) - 08:00 29/11/2024
+- 😺 [Ngày mai diễn ra ngày hội sáng tạo nội dung số đầu tiên tại Việt Nam](https://vnexpress.net/ngay-mai-dien-ra-ngay-hoi-sang-tao-noi-dung-so-dau-tien-tai-viet-nam-4821616.html) - 05:00 29/11/2024
+- 🐻 [Gen Z mệt mỏi](https://vnexpress.net/gen-z-met-moi-4821166.html) - 04:45 29/11/2024
+- 🎬 [Theanh28: Chiến lược chia nhóm giúp làm nội dung &#39;nhanh và rộng&#39;](https://vnexpress.net/theanh28-chien-luoc-chia-nhom-giup-lam-noi-dung-nhanh-va-rong-4821555.html) - 04:00 29/11/2024
+- 🎊 [Lao động Mỹ lo bị sa thải lén lút](https://vnexpress.net/lao-dong-my-lo-bi-sa-thai-len-lut-4821572.html) - 03:56 29/11/2024
+- 💄 [ViruSs nêu cách gỡ nút thắt &#39;thương hiệu - người dùng&#39; trong quảng cáo số](https://vnexpress.net/viruss-neu-cach-go-nut-that-thuong-hieu-nguoi-dung-trong-quang-cao-so-4821337.html) - 02:00 29/11/2024
+- 🏊 [Hành trình khởi nghiệp của cô dâu Việt trên đất Hàn](https://vnexpress.net/hanh-trinh-khoi-nghiep-cua-co-dau-viet-tren-dat-han-4819158.html) - 23:29 28/11/2024
+- 🌜 [&#39;Lò bánh hy vọng&#39; cho người trẻ khó khăn](https://vnexpress.net/lo-banh-hy-vong-cho-nguoi-tre-kho-khan-4821282.html) - 23:00 28/11/2024
+- 🤡 [Cuộc đời người chuyển giới đầu tiên của Trung Quốc](https://vnexpress.net/cuoc-doi-nguoi-chuyen-gioi-dau-tien-cua-trung-quoc-4820465.html) - 22:30 28/11/2024
+- 🥰 [8 năm theo đuổi nghề sáng tạo nội dung của Dino Vũ](https://vnexpress.net/8-nam-theo-duoi-nghe-sang-tao-noi-dung-cua-dino-vu-4821162.html) - 18:23 28/11/2024
+- 🦍 [3 sai lầm khiến bạn mãi không giàu](https://vnexpress.net/3-sai-lam-khien-ban-mai-khong-giau-4820780.html) - 12:32 28/11/2024
+- 🫣 [Tôm đồng rang tóp mỡ](https://vnexpress.net/doi-song-cooking-tom-dong-rang-top-mo-4821531.html) - 10:32 28/11/2024
+- 🚦 [Áp lực kế nghiệp gia đình của Gen Z](https://vnexpress.net/ap-luc-ke-nghiep-gia-dinh-cua-gen-z-4821164.html) - 07:10 28/11/2024
+- 🐘 [Bốn đồ nội thất lỗi thời](https://vnexpress.net/bon-do-noi-that-loi-thoi-4820717.html) - 06:59 28/11/2024
+- 🔥 [5 cách dưỡng tóc từ gừng](https://vnexpress.net/5-cach-duong-toc-tu-gung-4820983.html) - 04:50 28/11/2024
+- 🎃 [Đám cưới trang trí bằng một tấn rau củ](https://vnexpress.net/dam-cuoi-trang-tri-bang-mot-tan-rau-cu-4820725.html) - 01:17 28/11/2024
+- 🥳 [Trạm thư tay chữa lành](https://vnexpress.net/tram-thu-tay-chua-lanh-4820525.html) - 23:00 27/11/2024<!-- vnexpress-doi-song:END -->
