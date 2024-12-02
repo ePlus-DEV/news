@@ -7,7 +7,7 @@ sidebar_position: 7
 - 🤓 [RMIT triển khai lối sống bền vững trên toàn trường](https://vnexpress.net/rmit-trien-khai-loi-song-ben-vung-tren-toan-truong-4822840.html) - 08:00 02/12/2024
 - 🦆 [Cô bé &#39;làm mẹ&#39; năm 9 tuổi giành học bổng du học Trung Quốc](https://vnexpress.net/co-be-lam-me-nam-9-tuoi-gianh-hoc-bong-du-hoc-trung-quoc-4822077.html) - 07:07 02/12/2024
 - 🦩 [MobiFone tổ chức giải đấu eSports cho sinh viên](https://vnexpress.net/mobifone-to-chuc-giai-dau-esports-cho-sinh-vien-4821972.html) - 05:00 02/12/2024
-- 🌮 [Thí sinh đăng ký thi đánh giá tư duy Bách khoa Hà Nội tăng gần gấp 5](https://vnexpress.net/thi-sinh-dang-ky-thi-danh-gia-tu-duy-bach-khoa-ha-noi-tang-gan-gap-5-4822765.html) - 04:55 02/12/2024
+- 🌮 [Thí sinh đăng ký kỳ thi của ĐH Bách khoa Hà Nội tăng gấp 5 lần](https://vnexpress.net/thi-sinh-dang-ky-ky-thi-cua-dh-bach-khoa-ha-noi-tang-gap-5-lan-4822765.html) - 04:55 02/12/2024
 - 🔭 [12 cách nói &#39;tuyệt vời&#39; bằng tiếng Anh](https://vnexpress.net/12-cach-noi-tuyet-voi-bang-tieng-anh-4822751.html) - 04:23 02/12/2024
 - 💡 [Đại học Singapore lần đầu đào tạo thạc sĩ y tế bền vững](https://vnexpress.net/dai-hoc-singapore-lan-dau-dao-tao-thac-si-y-te-ben-vung-4817946.html) - 04:00 02/12/2024
 - 🥰 [Hành trình đưa 20 nhà vệ sinh đạt chuẩn đến trường học vùng cao](https://vnexpress.net/hanh-trinh-dua-20-nha-ve-sinh-dat-chuan-den-truong-hoc-vung-cao-4820189.html) - 01:00 02/12/2024
