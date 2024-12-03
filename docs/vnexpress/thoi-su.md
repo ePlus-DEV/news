@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [TP HCM mù mịt sương](https://vnexpress.net/tp-hcm-mu-mit-suong-4823194.html) - 04:54 03/12/2024
-- 🤓 [Hợp long cầu vượt sông Đáy nối tỉnh Nam Định và Thái Bình](https://vnexpress.net/hop-long-cau-vuot-song-day-noi-tinh-nam-dinh-va-thai-binh-4823140.html) - 04:40 03/12/2024
+- 🤓 [Hợp long cầu vượt sông Đáy nối tỉnh Nam Định và Ninh Bình](https://vnexpress.net/hop-long-cau-vuot-song-day-noi-tinh-nam-dinh-va-ninh-binh-4823140.html) - 04:40 03/12/2024
 - ⚗️ [Bình Định tái định cư cho người dân vùng núi lở](https://vnexpress.net/binh-dinh-tai-dinh-cu-cho-nguoi-dan-vung-nui-lo-4823020.html) - 00:40 03/12/2024
 - 🌊 [&#39;Làm metro bằng ngân sách giúp TP HCM tự chủ công nghệ, nhà thầu&#39;](https://vnexpress.net/lam-metro-bang-ngan-sach-giup-tp-hcm-tu-chu-cong-nghe-nha-thau-4822798.html) - 22:00 02/12/2024
 - 🎓 [Chàng trai biến gỗ vụn thành mô hình con vật](https://vnexpress.net/chang-trai-bien-go-vun-thanh-mo-hinh-con-vat-4822790.html) - 17:00 02/12/2024
