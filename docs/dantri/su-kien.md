@@ -29,7 +29,7 @@ sidebar_position: 16
 - 👹 [Bí thư Thị ủy Cửa Lò bị kỷ luật](https://dantri.com.vn/xa-hoi/bi-thu-thi-uy-cua-lo-bi-ky-luat-20241202224326774.htm) - 23:42 02/12/2024
 - 🦒 [Điểm chung trong 12 lần nhận hối lộ của cựu Bí thư và cựu Chủ tịch Lâm Đồng](https://dantri.com.vn/phap-luat/diem-chung-trong-12-lan-nhan-hoi-lo-cua-cuu-bi-thu-va-cuu-chu-tich-lam-dong-20241202234749267.htm) - 23:16 02/12/2024
 - 🗽 [Một người tử vong sau tiếng nổ lớn ở Bắc Giang](https://dantri.com.vn/xa-hoi/mot-nguoi-tu-vong-sau-tieng-no-lon-o-bac-giang-20241203000431714.htm) - 23:06 02/12/2024
-- 💄 [Tử hình bà Trương Mỹ Lan](https://dantri.com.vn/phap-luat/tu-hinh-ba-truong-my-lan-20241202195727373.htm) - 23:06 02/12/2024
+- 💄 [Y án tử hình bà Trương Mỹ Lan](https://dantri.com.vn/phap-luat/y-an-tu-hinh-ba-truong-my-lan-20241202195727373.htm) - 23:06 02/12/2024
 - ⛽️ [Tổng thống đắc cử Mỹ Donald Trump ra tối hậu thư cho Hamas](https://dantri.com.vn/the-gioi/tong-thong-dac-cu-my-donald-trump-ra-toi-hau-thu-cho-hamas-20241203055727509.htm) - 23:04 02/12/2024
 - 🥷 [Những cây cầu sắt sắp &quot;nghỉ hưu&quot; ở TPHCM](https://dantri.com.vn/xa-hoi/nhung-cay-cau-sat-sap-nghi-huu-o-tphcm-20241130153621037.htm) - 23:00 02/12/2024
 - 🤖 [Phút nghẹt thở phụ xe buýt ở Hà Nội cõng cụ ông ngất xỉu đi cấp cứu](https://dantri.com.vn/lao-dong-viec-lam/phut-nghet-tho-phu-xe-buyt-o-ha-noi-cong-cu-ong-ngat-xiu-di-cap-cuu-20241202172401521.htm) - 23:00 02/12/2024
