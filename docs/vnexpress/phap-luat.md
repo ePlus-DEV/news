@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Khởi tố vụ vệ sĩ phân luồng cho đoàn xe sang đi đám cưới](https://vnexpress.net/khoi-to-vu-ve-si-phan-luong-cho-doan-xe-sang-di-dam-cuoi-4823069.html) - 01:15 03/12/2024
-- 🥰 [Tòa phúc thẩm: &#39;Không có cơ sở giảm án tử hình cho Trương Mỹ Lan&#39;](https://vnexpress.net/toa-phuc-tham-khong-co-co-so-giam-an-tu-hinh-cho-truong-my-lan-4822890.html) - 00:30 03/12/2024
+- 🥰 [Bà Trương Mỹ Lan bị tuyên y án tử hình](https://vnexpress.net/ba-truong-my-lan-bi-tuyen-y-an-tu-hinh-4822890.html) - 00:30 03/12/2024
 - 🎓 [Nhà sắp bị ngân hàng phát mãi, cách nào hoãn để tìm cách &#39;chuộc&#39;?](https://vnexpress.net/nha-sap-bi-ngan-hang-phat-mai-cach-nao-hoan-de-tim-cach-chuoc-4822748.html) - 22:00 02/12/2024
 - 🤓 [Ba doanh nhân triệt hạ nhau tàn độc vì ân oán tiền bạc](https://vnexpress.net/ba-dai-gia-triet-ha-nhau-vi-an-oan-tien-bac-4822976.html) - 17:00 02/12/2024
 - 🎊 [Hai vụ tai nạn khiến 6 thanh thiếu niên tử vong bị khởi tố](https://vnexpress.net/hai-vu-tai-nan-khien-6-thanh-thieu-nien-tu-vong-bi-khoi-to-4822991.html) - 12:55 02/12/2024
