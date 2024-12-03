@@ -6,7 +6,7 @@ sidebar_position: 16
 <!-- dantri-su-kien:START -->
 - 🎭 [Chi tiết lệnh thiết quân luật khẩn cấp của Hàn Quốc](https://dantri.com.vn/the-gioi/chi-tiet-lenh-thiet-quan-luat-khan-cap-cua-han-quoc-20241203222432858.htm) - 15:33 03/12/2024
 - 👨‍🏫 [Người phụ nữ làm giả thông tin ngân hàng, lừa đảo hơn 39 tỷ đồng ở TPHCM](https://dantri.com.vn/phap-luat/nguoi-phu-nu-lam-gia-thong-tin-ngan-hang-lua-dao-hon-39-ty-dong-o-tphcm-20241203200342510.htm) - 14:38 03/12/2024
-- 🌮 [Quốc hội Hàn Quốc chặn lệnh thiết quân luật, binh sĩ rời tòa nhà lập pháp](https://dantri.com.vn/the-gioi/quoc-hoi-han-quoc-chan-lenh-thiet-quan-luat-binh-si-roi-toa-nha-lap-phap-20241203211539457.htm) - 14:26 03/12/2024
+- 🌮 [Quân đội Hàn Quốc vẫn duy trì thiết quân luật](https://dantri.com.vn/the-gioi/quan-doi-han-quoc-van-duy-tri-thiet-quan-luat-20241203211539457.htm) - 14:26 03/12/2024
 - 🕯 [Hai cha con cùng bị ung thư được giúp đỡ gần 400 triệu đồng](https://dantri.com.vn/tam-long-nhan-ai/hai-cha-con-cung-bi-ung-thu-duoc-giup-do-gan-400-trieu-dong-20241203150202615.htm) - 13:25 03/12/2024
 - 🪜 [Chủ tịch Quốc hội Trần Thanh Mẫn và Phu nhân bắt đầu thăm chính thức Nhật Bản](https://dantri.com.vn/xa-hoi/chu-tich-quoc-hoi-tran-thanh-man-va-phu-nhan-bat-dau-tham-chinh-thuc-nhat-ban-20241203200718126.htm) - 13:08 03/12/2024
 - 🐘 [Sếp lớn bóng đá Indonesia tuyên bố sốc về đội tuyển Việt Nam](https://dantri.com.vn/the-thao/sep-lon-bong-da-indonesia-tuyen-bo-soc-ve-doi-tuyen-viet-nam-20241203195839828.htm) - 13:02 03/12/2024
