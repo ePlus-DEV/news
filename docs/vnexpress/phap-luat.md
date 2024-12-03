@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Ông nội tặng cháu đất, có cần đồng ý của các con?](https://vnexpress.net/ong-noi-tang-cho-chau-dat-co-can-su-dong-y-cua-cac-con-4823159.html) - 08:42 03/12/2024
+- 😎 [Giám đốc phòng giao dịch ngân hàng bị tố cáo lừa hơn 10 tỷ đồng](https://vnexpress.net/giam-doc-phong-giao-dich-ngan-hang-bi-to-cao-lua-hon-10-ty-dong-4823327.html) - 09:28 03/12/2024
 - 🥰 [SCB không được tự ý xử lý khối tài sản &#39;khủng&#39; của bà Trương Mỹ Lan](https://vnexpress.net/scb-khong-duoc-tu-y-xu-ly-khoi-tai-san-khung-cua-ba-truong-my-lan-4823291.html) - 08:38 03/12/2024
 - 🎓 [Mối thù &#39;mù quáng&#39; của kẻ giết gia đình em họ](https://vnexpress.net/moi-thu-mu-quang-cua-ke-giet-gia-dinh-em-ho-4823278.html) - 08:12 03/12/2024
 - 🤓 [Nữ sinh 15 tuổi tử vong sau ẩu đả](https://vnexpress.net/nu-sinh-15-tuoi-tu-vong-sau-au-da-4823264.html) - 07:47 03/12/2024
