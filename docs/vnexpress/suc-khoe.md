@@ -5,7 +5,7 @@ sidebar_position: 10
 
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [Bệnh viện &#39;sạch&#39; nhờ chuyển đổi số](https://vnexpress.net/benh-vien-sach-nho-chuyen-doi-so-4823783.html) - 14:35 04/12/2024
-- 🥰 [4 người mắc cúm A/H1N1 tử vong đều mắc bệnh nền](https://vnexpress.net/4-nguoi-mac-cum-a-h1n1-tu-vong-deu-mac-benh-nen-4823935.html) - 14:00 04/12/2024
+- 🥰 [4 người mắc cúm A/H1N1 tử vong đều có bệnh nền](https://vnexpress.net/4-nguoi-mac-cum-a-h1n1-tu-vong-deu-co-benh-nen-4823935.html) - 14:00 04/12/2024
 - 💡 [Cứu thai nhi 35 tuần tuổi gặp bất thường ở tim](https://vnexpress.net/cuu-thai-nhi-35-tuan-tuoi-gap-bat-thuong-o-tim-4823769.html) - 13:09 04/12/2024
 - 🤗 [Cơ thể thay đổi thế nào khi ăn kiểu Địa Trung Hải](https://vnexpress.net/co-the-thay-doi-the-nao-khi-an-kieu-dia-trung-hai-4823591.html) - 13:00 04/12/2024
 - 🪜 [Sâu răng có gây hôi miệng?](https://vnexpress.net/sau-rang-co-gay-hoi-mieng-4823781.html) - 12:00 04/12/2024
