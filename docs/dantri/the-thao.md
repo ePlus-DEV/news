@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Cầu thủ Trần Anh Khoa vĩnh viễn ra đi trong tiếc nuối ở tuổi 33](https://dantri.com.vn/the-thao/cau-thu-tran-anh-khoa-vinh-vien-ra-di-trong-tiec-nuoi-o-tuoi-33-20241204115915131.htm) - 05:02 04/12/2024
+- 🎡 [Cầu thủ Trần Anh Khoa qua đời ở tuổi 33](https://dantri.com.vn/the-thao/cau-thu-tran-anh-khoa-qua-doi-o-tuoi-33-20241204115915131.htm) - 05:02 04/12/2024
 - 💯 [HLV Shin Tae Yong đánh giá về sức mạnh của đội tuyển Việt Nam](https://dantri.com.vn/the-thao/hlv-shin-tae-yong-danh-gia-ve-suc-manh-cua-doi-tuyen-viet-nam-20241204113333173.htm) - 04:33 04/12/2024
 - ⛽️ [HLV Amorim: &quot;Arsenal đang ở vị thế khác so với Man Utd&quot;](https://dantri.com.vn/the-thao/hlv-amorim-arsenal-dang-o-vi-the-khac-so-voi-man-utd-20241204093122274.htm) - 02:36 04/12/2024
 - 💃 [Tuyển Indonesia thắng trận giao hữu, chờ đấu tuyển Việt Nam ở AFF Cup](https://dantri.com.vn/the-thao/tuyen-indonesia-thang-tran-giao-huu-cho-dau-tuyen-viet-nam-o-aff-cup-20241204085628818.htm) - 01:59 04/12/2024
