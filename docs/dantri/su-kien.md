@@ -4,15 +4,15 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Thực hư nhà trường quy định học sinh không gọi bạn là &quot;ông xã, bà xã&quot;](https://dantri.com.vn/giao-duc/thuc-hu-nha-truong-quy-dinh-hoc-sinh-khong-goi-ban-la-ong-xa-ba-xa-20241204152814464.htm) - 08:50 04/12/2024
-- 👨‍🏫 [Chủ tịch nước: Sắp xếp bộ máy làm có lý có tình vì liên quan đến con người](https://dantri.com.vn/xa-hoi/chu-tich-nuoc-sap-xep-bo-may-lam-co-ly-co-tinh-vi-lien-quan-den-con-nguoi-20241204141755895.htm) - 08:36 04/12/2024
-- 🌮 [Phương án sáp nhập các cơ quan, giảm 8 sở của TPHCM](https://dantri.com.vn/xa-hoi/phuong-an-sap-nhap-cac-co-quan-giam-8-so-cua-tphcm-20241204150959962.htm) - 08:18 04/12/2024
-- 🕯 [Chuyện gì xảy ra nếu Tổng thống Hàn Quốc bị luận tội?](https://dantri.com.vn/the-gioi/chuyen-gi-xay-ra-neu-tong-thong-han-quoc-bi-luan-toi-20241204150516761.htm) - 08:15 04/12/2024
-- 🪜 [Hai xe tải va chạm trên cao tốc Nội Bài - Lào Cai, 2 người tử vong](https://dantri.com.vn/xa-hoi/hai-xe-tai-va-cham-tren-cao-toc-noi-bai-lao-cai-2-nguoi-tu-vong-20241204142740899.htm) - 07:34 04/12/2024
-- 🐘 [Tìm giải pháp tốt nhất, nhanh nhất lấy nước sông Hồng &quot;cứu&quot; sông Tô Lịch](https://dantri.com.vn/xa-hoi/tim-giai-phap-tot-nhat-nhanh-nhat-lay-nuoc-song-hong-cuu-song-to-lich-20241204134142848.htm) - 07:00 04/12/2024
-- 🤔 [Hành động bất ngờ của cụ ông sau khi được người lạ tặng xe đạp](https://dantri.com.vn/an-sinh/hanh-dong-bat-ngo-cua-cu-ong-sau-khi-duoc-nguoi-la-tang-xe-dap-20241204112852217.htm) - 06:05 04/12/2024
-- 🧠 [Người dân Thủ đô bất lực khi ô nhiễm tiếng ồn bủa vây cuộc sống](https://dantri.com.vn/xa-hoi/nguoi-dan-thu-do-bat-luc-khi-o-nhiem-tieng-on-bua-vay-cuoc-song-20241124062347854.htm) - 06:01 04/12/2024
-- 📝 [HLV Kim Sang Sik loại 7 cầu thủ Việt Nam: Ai sẽ mất suất ở tuyển Việt Nam?](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-loai-7-cau-thu-viet-nam-ai-se-mat-suat-o-tuyen-viet-nam-20241204125054441.htm) - 05:50 04/12/2024
+- 🎭 [HLV Kim Sang Sik loại 7 cầu thủ Việt Nam: Ai sẽ mất suất ở tuyển Việt Nam?](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-loai-7-cau-thu-viet-nam-ai-se-mat-suat-o-tuyen-viet-nam-20241204125054441.htm) - 09:50 04/12/2024
+- 👨‍🏫 [Thực hư nhà trường quy định học sinh không gọi bạn là &quot;ông xã, bà xã&quot;](https://dantri.com.vn/giao-duc/thuc-hu-nha-truong-quy-dinh-hoc-sinh-khong-goi-ban-la-ong-xa-ba-xa-20241204152814464.htm) - 08:50 04/12/2024
+- 🌮 [Chủ tịch nước: Sắp xếp bộ máy làm có lý có tình vì liên quan đến con người](https://dantri.com.vn/xa-hoi/chu-tich-nuoc-sap-xep-bo-may-lam-co-ly-co-tinh-vi-lien-quan-den-con-nguoi-20241204141755895.htm) - 08:36 04/12/2024
+- 🕯 [Phương án sáp nhập các cơ quan, giảm 8 sở của TPHCM](https://dantri.com.vn/xa-hoi/phuong-an-sap-nhap-cac-co-quan-giam-8-so-cua-tphcm-20241204150959962.htm) - 08:18 04/12/2024
+- 🪜 [Chuyện gì xảy ra nếu Tổng thống Hàn Quốc bị luận tội?](https://dantri.com.vn/the-gioi/chuyen-gi-xay-ra-neu-tong-thong-han-quoc-bi-luan-toi-20241204150516761.htm) - 08:15 04/12/2024
+- 🐘 [Hai xe tải va chạm trên cao tốc Nội Bài - Lào Cai, 2 người tử vong](https://dantri.com.vn/xa-hoi/hai-xe-tai-va-cham-tren-cao-toc-noi-bai-lao-cai-2-nguoi-tu-vong-20241204142740899.htm) - 07:34 04/12/2024
+- 🤔 [Tìm giải pháp tốt nhất, nhanh nhất lấy nước sông Hồng &quot;cứu&quot; sông Tô Lịch](https://dantri.com.vn/xa-hoi/tim-giai-phap-tot-nhat-nhanh-nhat-lay-nuoc-song-hong-cuu-song-to-lich-20241204134142848.htm) - 07:00 04/12/2024
+- 🧠 [Hành động bất ngờ của cụ ông sau khi được người lạ tặng xe đạp](https://dantri.com.vn/an-sinh/hanh-dong-bat-ngo-cua-cu-ong-sau-khi-duoc-nguoi-la-tang-xe-dap-20241204112852217.htm) - 06:05 04/12/2024
+- 📝 [Người dân Thủ đô bất lực khi ô nhiễm tiếng ồn bủa vây cuộc sống](https://dantri.com.vn/xa-hoi/nguoi-dan-thu-do-bat-luc-khi-o-nhiem-tieng-on-bua-vay-cuoc-song-20241124062347854.htm) - 06:01 04/12/2024
 - 🦏 [Vụ 8 người cấp cứu sau ăn thịt chó: Chó bị bệnh nhưng tiếc của nên làm thịt](https://dantri.com.vn/suc-khoe/vu-8-nguoi-cap-cuu-sau-an-thit-cho-cho-bi-benh-nhung-tiec-cua-nen-lam-thit-20241204110659310.htm) - 05:02 04/12/2024
 - 🥰 [Cầu thủ Trần Anh Khoa qua đời ở tuổi 33](https://dantri.com.vn/the-thao/cau-thu-tran-anh-khoa-qua-doi-o-tuoi-33-20241204115915131.htm) - 05:02 04/12/2024
 - 🤗 [Hội nghị của Chính phủ triển khai sắp xếp, tinh gọn bộ máy](https://dantri.com.vn/xa-hoi/hoi-nghi-cua-chinh-phu-trien-khai-sap-xep-tinh-gon-bo-may-20241204100815004.htm) - 04:49 04/12/2024
