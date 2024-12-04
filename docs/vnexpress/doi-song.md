@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Bài học khởi nghiệp của anh giám đốc mất việc](https://vnexpress.net/bai-hoc-khoi-nghiep-cua-anh-giam-doc-mat-viec-4823188.html) - 05:11 04/12/2024
+- 🚀 [Hành trình &#39;đứng dậy&#39; của anh giám đốc mất việc ở tuổi trung niên](https://vnexpress.net/hanh-trinh-dung-day-cua-anh-giam-doc-mat-viec-o-tuoi-trung-nien-4823188.html) - 05:11 04/12/2024
 - 🎓 [Cô gái 29 tuổi bị chỉ trích vì yêu bạn thân của bố](https://vnexpress.net/co-gai-29-tuoi-bi-chi-trich-vi-yeu-ban-than-cua-bo-4823628.html) - 04:21 04/12/2024
 - 🚦 [Chiến đấu với ung thư để trở lại giảng đường](https://vnexpress.net/chien-dau-voi-ung-thu-de-tro-lai-giang-duong-4822306.html) - 23:00 03/12/2024
 - 🦣 [Bùng nổ livestream về bỏ việc](https://vnexpress.net/bung-no-livestream-ve-bo-viec-4823220.html) - 22:32 03/12/2024
