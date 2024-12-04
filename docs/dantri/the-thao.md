@@ -4,9 +4,9 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [VFF gửi lời chia buồn đến gia quyến cựu cầu thủ Trần Anh Khoa](https://dantri.com.vn/the-thao/vff-gui-loi-chia-buon-den-gia-quyen-cuu-cau-thu-tran-anh-khoa-20241204155526610.htm) - 09:42 04/12/2024
-- 💯 [Nhận định Arsenal - Man Utd: Thử thách lớn với Amorim](https://dantri.com.vn/the-thao/nhan-dinh-arsenal-man-utd-thu-thach-lon-voi-amorim-20241204133354248.htm) - 06:40 04/12/2024
-- ⛽️ [HLV Kim Sang Sik loại 7 cầu thủ Việt Nam: Ai sẽ mất suất ở tuyển Việt Nam?](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-loai-7-cau-thu-viet-nam-ai-se-mat-suat-o-tuyen-viet-nam-20241204125054441.htm) - 05:50 04/12/2024
+- 🎡 [HLV Kim Sang Sik loại 7 cầu thủ Việt Nam: Ai sẽ mất suất ở tuyển Việt Nam?](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-loai-7-cau-thu-viet-nam-ai-se-mat-suat-o-tuyen-viet-nam-20241204125054441.htm) - 09:50 04/12/2024
+- 💯 [VFF gửi lời chia buồn đến gia quyến cựu cầu thủ Trần Anh Khoa](https://dantri.com.vn/the-thao/vff-gui-loi-chia-buon-den-gia-quyen-cuu-cau-thu-tran-anh-khoa-20241204155526610.htm) - 09:42 04/12/2024
+- ⛽️ [Nhận định Arsenal - Man Utd: Thử thách lớn với Amorim](https://dantri.com.vn/the-thao/nhan-dinh-arsenal-man-utd-thu-thach-lon-voi-amorim-20241204133354248.htm) - 06:40 04/12/2024
 - 💃 [Cầu thủ Trần Anh Khoa qua đời ở tuổi 33](https://dantri.com.vn/the-thao/cau-thu-tran-anh-khoa-qua-doi-o-tuoi-33-20241204115915131.htm) - 05:02 04/12/2024
 - 🌈 [HLV Shin Tae Yong đánh giá về sức mạnh của đội tuyển Việt Nam](https://dantri.com.vn/the-thao/hlv-shin-tae-yong-danh-gia-ve-suc-manh-cua-doi-tuyen-viet-nam-20241204113333173.htm) - 04:33 04/12/2024
 - 🦅 [HLV Amorim: &quot;Arsenal đang ở vị thế khác so với Man Utd&quot;](https://dantri.com.vn/the-thao/hlv-amorim-arsenal-dang-o-vi-the-khac-so-voi-man-utd-20241204093122274.htm) - 02:36 04/12/2024
