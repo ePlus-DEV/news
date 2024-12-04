@@ -9,7 +9,7 @@ sidebar_position: 1
 - ⚗️ [Cá sấu bò vào nhà dân ở TP HCM](https://vnexpress.net/ca-sau-bo-vao-nha-dan-o-tp-hcm-4823668.html) - 04:49 04/12/2024
 - 🌊 [Tiệm bánh mì gây ngộ độc hơn 300 người ở Vũng Tàu bị phạt](https://vnexpress.net/banh-mi-co-ba-vung-tau-4823610.html) - 03:58 04/12/2024
 - 🎓 [Đồng Nai đề xuất xây hầm vượt sông thay cầu Cát Lái](https://vnexpress.net/dong-nai-de-xuat-xay-ham-vuot-song-thay-cau-cat-lai-4823589.html) - 03:57 04/12/2024
-- 🔥 [5 Phó thủ tướng chỉ đạo sắp xếp các bộ](https://vnexpress.net/5-pho-thu-tuong-chi-dao-sap-xep-cac-bo-4823574.html) - 03:54 04/12/2024
+- 🔥 [5 phó thủ tướng chỉ đạo sắp xếp các bộ](https://vnexpress.net/5-pho-thu-tuong-chi-dao-sap-xep-cac-bo-4823574.html) - 03:54 04/12/2024
 - 🦏 [Ba giai đoạn triển khai đường sắt tốc độ cao](https://vnexpress.net/ba-giai-doan-trien-khai-duong-sat-toc-do-cao-4822891.html) - 03:23 04/12/2024
 - 👺 [TP HCM lần đầu thu ngân sách vượt 500.000 tỷ đồng](https://vnexpress.net/tp-hcm-lan-dau-thu-ngan-sach-vuot-500-000-ty-dong-4823567.html) - 03:21 04/12/2024
 - 🧑‍🏫 [Hải Phòng dự kiến xây thêm cầu vượt biển dài nhất Việt Nam](https://vnexpress.net/hai-phong-du-kien-xay-them-cau-vuot-bien-dai-nhat-viet-nam-4823449.html) - 02:55 04/12/2024
