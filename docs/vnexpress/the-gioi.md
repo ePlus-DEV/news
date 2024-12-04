@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Bộ trưởng Quốc phòng Hàn Quốc xin từ chức](https://vnexpress.net/bo-truong-quoc-phong-han-quoc-xin-tu-chuc-4823857.html) - 09:47 04/12/2024
 - 🕴 [Giây phút lính Hàn Quốc cúi đầu xin lỗi khi rút khỏi quốc hội](https://vnexpress.net/giay-phut-linh-han-quoc-cui-dau-xin-loi-khi-rut-khoi-quoc-hoi-4823657.html) - 09:22 04/12/2024
-- 🤭 [Kẻ trộm xe vứt hai bé gái xuống mương](https://vnexpress.net/ke-trom-xe-vut-hai-be-gai-xuong-muong-4823797.html) - 09:08 04/12/2024
+- 🤭 [Hai bé gái sống sót sau khi bị kẻ trộm vứt xuống mương](https://vnexpress.net/hai-be-gai-song-sot-sau-khi-bi-ke-trom-vut-xuong-muong-4823797.html) - 09:08 04/12/2024
 - 🧑‍💻 [Khoảnh khắc tàu chiến Nga phóng tên lửa siêu vượt âm gần Syria](https://vnexpress.net/khoanh-khac-tau-chien-nga-phong-ten-lua-sieu-vuot-am-gan-syria-4823762.html) - 09:06 04/12/2024
 - 🦏 [Việt - Nhật sẽ thúc đẩy hợp tác an ninh, quốc phòng](https://vnexpress.net/viet-nhat-se-thuc-day-hop-tac-an-ninh-quoc-phong-4823683.html) - 08:39 04/12/2024
 - 🦒 [Con mèo biểu tượng cho quan hệ Nga - Nhật qua đời](https://vnexpress.net/con-meo-bieu-tuong-cho-quan-he-nga-nhat-qua-doi-4823662.html) - 08:03 04/12/2024
