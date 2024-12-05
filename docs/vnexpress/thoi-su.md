@@ -10,7 +10,7 @@ sidebar_position: 1
 - 🌊 [TP HCM dự tính bắn pháo hoa 3 điểm dịp Tết Dương lịch](https://vnexpress.net/tp-hcm-du-tinh-ban-phao-hoa-3-diem-dip-tet-duong-lich-4824368.html) - 11:17 05/12/2024
 - 🎓 [Dự kiến bắn 21 loạt đại bác kỷ niệm 50 năm thống nhất đất nước](https://vnexpress.net/du-kien-ban-21-loat-dai-bac-ky-niem-50-nam-thong-nhat-dat-nuoc-4824353.html) - 10:15 05/12/2024
 - 🔥 [Tổng Bí thư: Chọn công nghệ tốt nhất làm điện hạt nhân ở Ninh Thuận](https://vnexpress.net/tong-bi-thu-chon-cong-nghe-tot-nhat-lam-dien-hat-nhan-o-ninh-thuan-4824292.html) - 10:13 05/12/2024
-- 🦏 [Đề nghị cấp bằng Tổ quốc ghi công cho 12 quân nhân Quân khu 7](https://vnexpress.net/de-nghi-cap-bang-to-quoc-ghi-cong-cho-12-quan-nhan-quan-khu-7-4824174.html) - 09:58 05/12/2024
+- 🦏 [Cấp bằng Tổ quốc ghi công cho 12 quân nhân Quân khu 7](https://vnexpress.net/cap-bang-to-quoc-ghi-cong-cho-12-quan-nhan-quan-khu-7-4824174.html) - 09:58 05/12/2024
 - 👺 [Thủ tướng: Đa dạng nguồn lực để xây đường sắt đô thị Hà Nội, TP HCM](https://vnexpress.net/thu-tuong-da-dang-nguon-luc-de-xay-duong-sat-do-thi-ha-noi-tp-hcm-4824322.html) - 09:49 05/12/2024
 - 🧑‍🏫 [Nam công nhân lao mình cứu người phụ nữ nhảy cầu](https://vnexpress.net/nam-cong-nhan-lao-minh-cuu-nguoi-phu-nu-nhay-cau-4824293.html) - 09:44 05/12/2024
 - 🚦 [Nguy cơ tai nạn từ khách nước ngoài chạy xe máy ở Phan Thiết](https://vnexpress.net/nguy-co-tai-nan-tu-khach-nuoc-ngoai-chay-xe-may-o-phan-thiet-4822024.html) - 09:08 05/12/2024
