@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [1.000 tỷ đồng trái phiếu xanh của IDI được VCBS tư vấn thành công](https://vnexpress.net/1-000-ty-dong-trai-phieu-xanh-cua-idi-duoc-vcbs-tu-van-thanh-cong-4823761.html) - 01:00 05/12/2024
 - 🐲 [Masan muốn mua thêm cổ phần công ty sản xuất pin Vonfram](https://vnexpress.net/masan-muon-mua-them-co-phan-cong-ty-san-xuat-pin-vonfram-4823995.html) - 00:29 05/12/2024
-- 🔥 [Táo mật Trung Quốc từ hàng cao cấp thành bình dân giá rẻ](https://vnexpress.net/tao-mat-trung-quoc-tu-hang-cao-cap-thanh-binh-dan-gia-re-4822283.html) - 00:16 05/12/2024
+- 🔥 [Táo mật giá rẻ Trung Quốc ngập chợ](https://vnexpress.net/tao-mat-gia-re-trung-quoc-ngap-cho-4822283.html) - 00:16 05/12/2024
 - 🐵 [Xuất khẩu dự báo vượt mốc 400 tỷ USD](https://vnexpress.net/xuat-khau-du-bao-vuot-moc-400-ty-usd-4823793.html) - 17:04 04/12/2024
 - 🦅 [Việt Nam sắp bán thêm tín chỉ carbon xe điện và điện rác](https://vnexpress.net/viet-nam-sap-ban-them-tin-chi-carbon-xe-dien-va-dien-rac-4823729.html) - 17:01 04/12/2024
 - 😺 [Ứng dụng tiếng Việt của Temu dừng hoạt động](https://vnexpress.net/ung-dung-tieng-viet-cua-temu-dung-hoat-dong-4823932.html) - 13:37 04/12/2024
