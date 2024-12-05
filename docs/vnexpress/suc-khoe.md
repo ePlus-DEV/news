@@ -6,7 +6,7 @@ sidebar_position: 10
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [Dị dạng mạch máu não có nguy hiểm không?](https://vnexpress.net/di-dang-mach-mau-nao-co-nguy-hiem-khong-4824176.html) - 07:00 05/12/2024
 - 🥰 [Ở lại Việt Nam chữa ung thư thay vì ra nước ngoài](https://vnexpress.net/o-lai-viet-nam-chua-ung-thu-thay-vi-ra-nuoc-ngoai-4824145.html) - 07:00 05/12/2024
-- 💡 [41.000 ca ung thư mới tại Bệnh viện Ung bướu TP HCM](https://vnexpress.net/41-000-ca-ung-thu-moi-tai-benh-vien-ung-buou-tp-hcm-4824161.html) - 06:57 05/12/2024
+- 💡 [Ca ung thư mới tại Bệnh viện Ung bướu TP HCM tăng nhanh](https://vnexpress.net/ca-ung-thu-moi-tai-benh-vien-ung-buou-tp-hcm-tang-nhanh-4824161.html) - 06:57 05/12/2024
 - 🤗 [Điều gì xảy ra với cơ thể khi mãn kinh?](https://vnexpress.net/dieu-gi-xay-ra-voi-co-the-khi-man-kinh-4824100.html) - 06:30 05/12/2024
 - 🪜 [Chàng trai phì đại ngực như nữ](https://vnexpress.net/chang-trai-phi-dai-nguc-nhu-nu-4824069.html) - 05:00 05/12/2024
 - 🕯 [Uống bia thế nào tránh tăng cân, béo bụng?](https://vnexpress.net/uong-bia-the-nao-tranh-tang-can-beo-bung-4824072.html) - 04:30 05/12/2024
