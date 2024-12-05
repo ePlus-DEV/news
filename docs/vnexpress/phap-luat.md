@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Shark Thuỷ bị khởi tố thêm tội](https://vnexpress.net/shark-thuy-bi-khoi-to-them-toi-4824316.html) - 09:27 05/12/2024
+- 😎 [Shark Thủy bị khởi tố thêm tội](https://vnexpress.net/shark-thuy-bi-khoi-to-them-toi-4824316.html) - 09:27 05/12/2024
 - 🥰 [Từ 2025, tài xế liên quan tai nạn sẽ bị tạm giữ giấy tờ trên VNeID](https://vnexpress.net/tu-2025-tai-xe-lien-quan-tai-nan-se-bi-tam-giu-giay-to-tren-vneid-4824111.html) - 08:47 05/12/2024
 - 🎓 [Giảng viên gây tai nạn liên hoàn &#39;có nồng độ cồn do thử men vi sinh&#39;](https://vnexpress.net/giang-vien-gay-tai-nan-lien-hoan-co-nong-do-con-do-thu-men-vi-sinh-4824213.html) - 07:49 05/12/2024
 - 🤓 [Hôn nhân &#39;ngạt thở&#39; của vũ công xinh đẹp](https://vnexpress.net/hon-nhan-ngat-tho-cua-vu-cong-xinh-dep-4823905.html) - 17:00 04/12/2024
