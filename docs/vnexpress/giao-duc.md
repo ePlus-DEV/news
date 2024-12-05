@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Thuyết phục ai đó thế nào trong tiếng Anh](https://vnexpress.net/thuyet-phuc-ai-do-the-nao-trong-tieng-anh-4823821.html) - 00:01 05/12/2024
 - 🦆 [Trường nào tuyển ngành Thiết kế đồ họa bằng khối A00, A01](https://vnexpress.net/truong-nao-tuyen-nganh-thiet-ke-do-hoa-bang-khoi-a00-a01-4822351.html) - 16:59 04/12/2024
-- 🦩 [Để học sinh chọn môn từ lớp 10, làm căn cứ xét đại học là &#39;vô lý&#39;](https://vnexpress.net/de-hoc-sinh-chon-mon-tu-lop-10-lam-can-cu-xet-dai-hoc-la-vo-ly-4823851.html) - 14:54 04/12/2024
+- 🦩 [Học sinh phải chọn môn từ lớp 10, làm căn cứ xét đại học là &#39;vô lý&#39;](https://vnexpress.net/hoc-sinh-phai-chon-mon-tu-lop-10-lam-can-cu-xet-dai-hoc-la-vo-ly-4823851.html) - 14:54 04/12/2024
 - 🌮 [Người Việt đầu tiên mua máy bay tư nhân là ai?](https://vnexpress.net/nguoi-viet-dau-tien-mua-may-bay-tu-nhan-la-ai-4823796.html) - 13:25 04/12/2024
 - 🔭 [Phụ huynh, học sinh TP HCM ít hài lòng với cơ sở vật chất trường công](https://vnexpress.net/phu-huynh-hoc-sinh-tp-hcm-it-hai-long-voi-co-so-vat-chat-truong-cong-4823377.html) - 09:12 04/12/2024
 - 💡 [Giáo sư về trường Đại học Hải Phòng được hỗ trợ 500 triệu đồng](https://vnexpress.net/giao-su-ve-truong-dai-hoc-hai-phong-duoc-ho-tro-500-trieu-dong-4823644.html) - 07:02 04/12/2024
