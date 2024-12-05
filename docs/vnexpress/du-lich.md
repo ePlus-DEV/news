@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Khách Việt mua sắm vượt kỳ vọng của Nhật Bản](https://vnexpress.net/khach-viet-mua-sam-vuot-ky-vong-cua-nhat-ban-4824258.html) - 17:07 05/12/2024
+- 💂 [Khách Việt trong nhóm mua sắm nhiều nhất ở Nhật](https://vnexpress.net/khach-viet-trong-nhom-mua-sam-nhieu-nhat-o-nhat-4824258.html) - 17:07 05/12/2024
 - 🪄 [Thương hiệu nghỉ dưỡng trọn gói cao cấp Rixos có mặt tại Phú Quốc](https://vnexpress.net/thuong-hieu-nghi-duong-tron-goi-cao-cap-rixos-co-mat-tai-phu-quoc-4824374.html) - 15:15 05/12/2024
 - 🦅 [Không gian nghỉ dưỡng cao cấp tại Pullman Hai Phong Grand Hotel](https://vnexpress.net/khong-gian-nghi-duong-cao-cap-tai-pullman-hai-phong-grand-hotel-4824300.html) - 13:00 05/12/2024
 - 🕴 [Vietjet hợp tác Xanh SM ra mắt dịch vụ taxi đón sân bay](https://vnexpress.net/vietjet-hop-tac-xanh-sm-ra-mat-dich-vu-taxi-don-san-bay-4824285.html) - 09:00 05/12/2024
