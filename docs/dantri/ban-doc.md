@@ -4,7 +4,7 @@ sidebar_position: 26
 ---
 
 <!-- dantri-ban-doc:START -->
-- 🦒 [Vụ đấu giá 30 tỷ/m2 đất Sóc Sơn: Có thể xử lý tội danh nào?](https://dantri.com.vn/ban-doc/vu-dau-gia-30-tym2-dat-soc-son-co-the-xu-ly-toi-danh-nao-20241205092550630.htm) - 05:38 05/12/2024
+- 🦒 [Vụ trả giá 30 tỷ/m2 đất Sóc Sơn: Có thể xử lý tội danh nào?](https://dantri.com.vn/ban-doc/vu-tra-gia-30-tym2-dat-soc-son-co-the-xu-ly-toi-danh-nao-20241205092550630.htm) - 05:38 05/12/2024
 - 🤓 [Bí thư Bạc Liêu &quot;thúc&quot; giải quyết vụ dân chờ bồi thường đất gần 20 năm](https://dantri.com.vn/ban-doc/bi-thu-bac-lieu-thuc-giai-quyet-vu-dan-cho-boi-thuong-dat-gan-20-nam-20241204221404511.htm) - 00:48 05/12/2024
 - 🐻 [Vì sao người đàn ông tố giác thẩm phán nhận hối lộ vẫn bị khởi tố?](https://dantri.com.vn/ban-doc/vi-sao-nguoi-dan-ong-to-giac-tham-phan-nhan-hoi-lo-van-bi-khoi-to-20241204080735454.htm) - 01:11 04/12/2024
 - 🏊 [Tranh luận về lối đi ưu tiên, giá 100.000 đồng/lượt tại sân bay Đà Nẵng](https://dantri.com.vn/ban-doc/tranh-luan-ve-loi-di-uu-tien-gia-100000-dongluot-tai-san-bay-da-nang-20241202191743910.htm) - 00:55 03/12/2024
