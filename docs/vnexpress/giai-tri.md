@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Sắc vóc &#39;Người mẫu của năm&#39; Alex Consani](https://vnexpress.net/sac-voc-nguoi-mau-cua-nam-alex-consani-4823160.html) - 02:02 05/12/2024
-- 💫 [Cảnh sát công bố nguyên nhân Quỳnh Dao qua đời](https://vnexpress.net/canh-sat-cong-bo-nguyen-nhan-quynh-dao-qua-doi-4824019.html) - 02:01 05/12/2024
-- 🌮 [Canifa cập nhật thời trang nam, nữ theo mùa](https://vnexpress.net/canifa-cap-nhat-thoi-trang-nam-nu-theo-mua-4806731.html) - 02:00 05/12/2024
-- 🧠 [Con gái Thanh Thanh Hiền: &#39;Tôi mong mẹ có hạnh phúc mới&#39;](https://vnexpress.net/con-gai-thanh-thanh-hien-toi-mong-me-co-hanh-phuc-moi-4823143.html) - 23:00 04/12/2024
-- 👨‍🏫 [Quỳnh Dao mãnh liệt sống và yêu](https://vnexpress.net/quynh-dao-manh-liet-song-va-yeu-4823924.html) - 17:00 04/12/2024
-- ⚗️ [&#39;Đi về phía bình yên&#39; - tìm lại hạnh phúc](https://vnexpress.net/di-ve-phia-binh-yen-tim-lai-hanh-phuc-4823552.html) - 15:19 04/12/2024
-- 😎 [Fan đón dàn &#39;Anh trai say hi&#39; đến Hà Nội](https://vnexpress.net/fan-don-dan-anh-trai-say-hi-den-ha-noi-4823923.html) - 12:48 04/12/2024
-- 🫣 [Thủy Tiên diện mốt đồ ngủ bình dân dự sự kiện](https://vnexpress.net/thuy-tien-dien-mot-do-ngu-binh-dan-du-su-kien-4823615.html) - 12:00 04/12/2024
-- 🪄 [Triệu Vy tưởng nhớ Quỳnh Dao](https://vnexpress.net/trieu-vy-tuong-nho-quynh-dao-4823874.html) - 10:30 04/12/2024
-- 🤓 [TikToker Lê Tuấn Khang đóng phim Lý Hải](https://vnexpress.net/tiktoker-le-tuan-khang-dong-phim-ly-hai-4823854.html) - 10:05 04/12/2024
-- 🫶 [Lâm Tâm Như: &#39;Tôi có hôm nay là nhờ nữ sĩ Quỳnh Dao&#39;](https://vnexpress.net/lam-tam-nhu-toi-co-hom-nay-la-nho-nu-si-quynh-dao-4823806.html) - 09:30 04/12/2024
-- 🧑‍🏫 [Hoài Lâm nhập viện điều trị bệnh](https://vnexpress.net/hoai-lam-nhap-vien-dieu-tri-benh-4823739.html) - 09:28 04/12/2024
-- 🦄 [Những lời cuối của nữ sĩ Quỳnh Dao](https://vnexpress.net/nhung-loi-cuoi-cua-nu-si-quynh-dao-4823774.html) - 08:29 04/12/2024
-- 💫 [Nhà văn Quỳnh Dao qua đời](https://vnexpress.net/nha-van-quynh-dao-qua-doi-4823735.html) - 07:29 04/12/2024
-- 🎊 [Vợ chồng Beckham lần đầu dự quốc yến](https://vnexpress.net/vo-chong-beckham-lan-dau-du-quoc-yen-4823658.html) - 05:35 04/12/2024
-- 👹 [Đạo diễn Xuân Phượng vào top &#39;100 phụ nữ truyền cảm hứng&#39;](https://vnexpress.net/dao-dien-xuan-phuong-vao-top-100-phu-nu-truyen-cam-hung-4823677.html) - 05:16 04/12/2024
-- 💻 [Điền Nhụy Ni biết ơn chồng cùng vượt hoạn nạn](https://vnexpress.net/dien-nhuy-ni-biet-on-chong-cung-vuot-hoan-nan-4823563.html) - 03:54 04/12/2024
-- 🤡 [Beyoncé là &#39;ngôi sao pop vĩ đại nhất thế kỷ 21&#39;](https://vnexpress.net/beyonce-la-ngoi-sao-pop-vi-dai-nhat-the-ky-21-4823118.html) - 03:16 04/12/2024
-- 🥰 [Dàn hoa hậu dự thảm đỏ phim &#39;Công tử Bạc Liêu&#39;](https://vnexpress.net/dan-hoa-hau-du-tham-do-phim-cong-tu-bac-lieu-4823493.html) - 01:35 04/12/2024
-- 🚀 [Sao Việt theo cơn sốt hộp mù Baby Three](https://vnexpress.net/sao-viet-theo-con-sot-hop-mu-baby-three-4823234.html) - 17:00 03/12/2024
-- 📝 [Con gái Thanh Thanh Hiền đóng nhạc kịch về Chí Phèo](https://vnexpress.net/con-gai-thanh-thanh-hien-dong-nhac-kich-ve-chi-pheo-4823367.html) - 13:53 03/12/2024
-- 🐲 [Thái Trinh: &#39;Chồng giúp tôi lấy lại niềm tin trong tình yêu&#39;](https://vnexpress.net/thai-trinh-chong-giup-toi-lay-lai-niem-tin-trong-tinh-yeu-4822654.html) - 12:00 03/12/2024
-- 🎃 [Tác giả 104 tuổi: &#39;Tôi chạy đua với thời gian để viết sách&#39;](https://vnexpress.net/tac-gia-104-tuoi-toi-chay-dua-voi-thoi-gian-de-viet-sach-4822186.html) - 09:06 03/12/2024
-- 🤠 [Thời trang bầu của Diễm My 9x](https://vnexpress.net/thoi-trang-bau-cua-diem-my-9x-4822865.html) - 07:54 03/12/2024
-- 🎭 [Khánh Vân cùng dàn mẫu hóa &quot;nàng thơ hoa&quot;](https://vnexpress.net/khanh-van-cung-dan-mau-hoa-nang-tho-hoa-4823232.html) - 07:15 03/12/2024
-- 🧰 [Trương Nghệ Mưu chụp hình cho vợ ở dạ vũ quý tộc](https://vnexpress.net/truong-nghe-muu-chup-hinh-cho-vo-o-da-vu-quy-toc-4823137.html) - 06:51 03/12/2024
-- 🦍 [&#39;Triệu Mẫn&#39; Lê Tư khoe sắc trong váy Công Trí](https://vnexpress.net/trieu-man-le-tu-khoe-sac-trong-vay-cong-tri-4823206.html) - 06:00 03/12/2024
-- 🌝 [Diễn viên Park Min Jae qua đời ở tuổi 32](https://vnexpress.net/dien-vien-park-min-jae-qua-doi-o-tuoi-32-4823181.html) - 05:19 03/12/2024
-- 🧑‍💻 [&#39;Thiếu gia showbiz&#39; Hoàng Tử Thao kết hôn](https://vnexpress.net/thieu-gia-showbiz-hoang-tu-thao-ket-hon-4823165.html) - 05:16 03/12/2024
-- 🥸 [Gu mặc gợi cảm của Ý Nhi sau nâng ngực](https://vnexpress.net/gu-mac-goi-cam-cua-y-nhi-sau-nang-nguc-4823127.html) - 03:38 03/12/2024
-- 🔥 [Sao diện xuyên thấu, cắt xẻ ở lễ trao giải thời trang](https://vnexpress.net/sao-dien-xuyen-thau-cat-xe-o-le-trao-giai-thoi-trang-4823129.html) - 03:06 03/12/2024
-- 🐎 [Vợ chồng Will Smith cùng các con tổ chức Lễ Tạ ơn](https://vnexpress.net/vo-chong-will-smith-cung-cac-con-to-chuc-le-ta-on-4823101.html) - 02:55 03/12/2024
-- 😎 [3 mẹo phối cardigan tôn dáng](https://vnexpress.net/3-meo-phoi-cardigan-ton-dang-4822971.html) - 02:04 03/12/2024
-- 🦄 [&#39;Người gác hải đăng&#39; - khúc hát ru về tình mẫu tử](https://vnexpress.net/nguoi-gac-hai-dang-khuc-hat-ru-ve-tinh-mau-tu-4821024.html) - 00:08 03/12/2024
-- 🌜 [Áo khoác tweed gây sốt](https://vnexpress.net/ao-khoac-tweed-gay-sot-4822752.html) - 22:00 02/12/2024
-- 🚦 [Đạo diễn Kính vạn hoa: &#39;Tôi không cố vượt bản truyền hình&#39;](https://vnexpress.net/dao-dien-kinh-van-hoa-toi-khong-co-vuot-ban-truyen-hinh-4819802.html) - 17:00 02/12/2024
-- 🧐 [Những sao Hollywood nuôi tóc bạc](https://vnexpress.net/nhung-sao-hollywood-nuoi-toc-bac-4822144.html) - 13:00 02/12/2024
-- 🐵 [Hoa hậu Ý Nhi phẫu thuật thẩm mỹ](https://vnexpress.net/hoa-hau-y-nhi-phau-thuat-tham-my-4822959.html) - 11:07 02/12/2024
-- ⚗️ [Miss Cosmo được chào đón khi trở về Indonesia](https://vnexpress.net/miss-cosmo-duoc-chao-don-khi-tro-ve-indonesia-4822772.html) - 09:00 02/12/2024
-- 👺 [Lãnh đạo cuộc thi Hoa hậu Mỹ nộp đơn xin phá sản](https://vnexpress.net/lanh-dao-cuoc-thi-hoa-hau-my-nop-don-xin-pha-san-4822783.html) - 08:22 02/12/2024
-- 🌊 [Anh Tú, Bùi Công Nam hát cùng dàn sao Hàn](https://vnexpress.net/anh-tu-bui-cong-nam-hat-cung-dan-sao-han-4822622.html) - 07:27 02/12/2024
-- 🪜 [Những tiểu thư dự Dạ vũ quý tộc 2024](https://vnexpress.net/nhung-tieu-thu-du-da-vu-quy-toc-2024-4822761.html) - 05:31 02/12/2024
-- 🕴 [66 chiếc túi Hermès bị trộm ở Hong Kong](https://vnexpress.net/66-chiec-tui-hermes-bi-trom-o-hong-kong-4822679.html) - 04:17 02/12/2024
-- 💃 [Ellen DeGeneres kỷ niệm 20 năm yêu bạn đời](https://vnexpress.net/ellen-degeneres-ky-niem-20-nam-yeu-ban-doi-4822652.html) - 03:24 02/12/2024
-- 🦄 [Triển lãm ảnh phụ nữ Tây Bắc trên giấy dó](https://vnexpress.net/trien-lam-anh-phu-nu-tay-bac-tren-giay-do-4821530.html) - 02:37 02/12/2024
-- ⛽️ [Thu Minh, Vũ Thảo My đoạt quán quân &#39;Our Song&#39;](https://vnexpress.net/thu-minh-vu-thao-my-doat-quan-quan-our-song-4822591.html) - 01:06 02/12/2024
-- 😎 [&#39;Công tử Bạc Liêu&#39; cùng loạt phim Hollywood ra rạp tháng 12](https://vnexpress.net/cong-tu-bac-lieu-cung-loat-phim-hollywood-ra-rap-thang-12-4822424.html) - 17:00 01/12/2024
-- 🌊 [Cuộc sống miền núi trong &#39;Cái chết của bầy ong&#39;](https://vnexpress.net/cuoc-song-mien-nui-trong-cai-chet-cua-bay-ong-4822507.html) - 15:32 01/12/2024
-- 🐲 [Loạt tranh sơn dầu khắc họa văn hóa Huế](https://vnexpress.net/loat-tranh-son-dau-khac-hoa-van-hoa-hue-4822403.html) - 13:00 01/12/2024
-- 💂 [Phạm Băng Băng tăng gần 10 kg để đóng phim](https://vnexpress.net/pham-bang-bang-tang-gan-10-kg-de-dong-phim-4822519.html) - 10:10 01/12/2024
-- 🙉 [&#39;Wicked&#39; - tôn trọng sự khác biệt](https://vnexpress.net/giai-tri/phim/thu-vien-phim/wicked-755) - 09:14 01/12/2024
-- 💪 [Hồng Nhung tự tình về Hà Nội bằng âm nhạc](https://vnexpress.net/hong-nhung-tu-tinh-ve-ha-noi-bang-am-nhac-4822391.html) - 05:17 01/12/2024
-- 👍 [Nghệ sĩ Tả Đại Bân sau hơn 40 năm đóng Bồ Tát &#39;Tây du ký&#39;](https://vnexpress.net/nghe-si-ta-dai-ban-sau-hon-40-nam-dong-bo-tat-tay-du-ky-4822408.html) - 04:01 01/12/2024
-- 💪 [&#39;Moana 2&#39; lập kỷ lục doanh thu dịp Lễ Tạ ơn](https://vnexpress.net/moana-2-lap-ky-luc-doanh-thu-dip-le-ta-on-4822398.html) - 03:58 01/12/2024
-- 💄 [Hoàng Hải, Ngô Lan Hương khuấy động Vietnam iContent Awards 2024](https://vnexpress.net/hoang-hai-ngo-lan-huong-khuay-dong-vietnam-icontent-awards-2024-4822339.html) - 02:34 01/12/2024
-- 🦩 [Đội Mỹ Linh gây xúc động với ca khúc về mẹ](https://vnexpress.net/doi-my-linh-gay-xuc-dong-voi-ca-khuc-ve-me-4822362.html) - 02:06 01/12/2024
-- 🥸 [Chồng cảm ơn Lâm Chí Linh &#39;giúp gia đình rộn tiếng cười&#39;](https://vnexpress.net/chong-cam-on-lam-chi-linh-giup-gia-dinh-ron-tieng-cuoi-4822383.html) - 01:27 01/12/2024
-- 🧰 [Đời thăng trầm của tác giả &#39;quả chuối dán tường giá triệu USD&#39;](https://vnexpress.net/doi-thang-tram-cua-tac-gia-qua-chuoi-dan-tuong-gia-trieu-usd-4820470.html) - 17:00 30/11/2024
-- 💼 [Những cổ vật của Huế lần đầu trưng bày tại TP HCM](https://vnexpress.net/nhung-co-vat-cua-hue-lan-dau-trung-bay-tai-tp-hcm-4821835.html) - 08:01 30/11/2024
-- 🧑‍💻 [Phương Lan, Phan Đạt chia tay sau một năm cưới](https://vnexpress.net/phuong-lan-phan-dat-chia-tay-sau-mot-nam-cuoi-4822243.html) - 06:45 30/11/2024<!-- vnexpress-giai-tri:END -->
+- 🌏 [Khối tài sản trăm triệu USD của nhà văn Quỳnh Dao](https://vnexpress.net/khoi-tai-san-tram-trieu-usd-cua-nha-van-quynh-dao-4824036.html) - 04:11 05/12/2024
+- 💫 [&#39;Bên trong vỏ kén vàng&#39; nhận hai đề cử giải tiền Oscar](https://vnexpress.net/ben-trong-vo-ken-vang-nhan-hai-de-cu-giai-tien-oscar-4824015.html) - 03:27 05/12/2024
+- 🌮 [Cụm từ &#39;Bà mèo không con&#39; là trích dẫn nổi bật nhất 2024](https://vnexpress.net/cum-tu-ba-meo-khong-con-la-trich-dan-noi-bat-nhat-2024-4824018.html) - 02:58 05/12/2024
+- 🧠 [Sắc vóc &#39;Người mẫu của năm&#39; Alex Consani](https://vnexpress.net/sac-voc-nguoi-mau-cua-nam-alex-consani-4823160.html) - 02:02 05/12/2024
+- 👨‍🏫 [Cảnh sát công bố nguyên nhân Quỳnh Dao qua đời](https://vnexpress.net/canh-sat-cong-bo-nguyen-nhan-quynh-dao-qua-doi-4824019.html) - 02:01 05/12/2024
+- ⚗️ [Canifa cập nhật thời trang nam, nữ theo mùa](https://vnexpress.net/canifa-cap-nhat-thoi-trang-nam-nu-theo-mua-4806731.html) - 02:00 05/12/2024
+- 😎 [Con gái Thanh Thanh Hiền: &#39;Tôi mong mẹ có hạnh phúc mới&#39;](https://vnexpress.net/con-gai-thanh-thanh-hien-toi-mong-me-co-hanh-phuc-moi-4823143.html) - 23:00 04/12/2024
+- 🫣 [Quỳnh Dao mãnh liệt sống và yêu](https://vnexpress.net/quynh-dao-manh-liet-song-va-yeu-4823924.html) - 17:00 04/12/2024
+- 🪄 [&#39;Đi về phía bình yên&#39; - tìm lại hạnh phúc](https://vnexpress.net/di-ve-phia-binh-yen-tim-lai-hanh-phuc-4823552.html) - 15:19 04/12/2024
+- 🤓 [Fan đón dàn &#39;Anh trai say hi&#39; đến Hà Nội](https://vnexpress.net/fan-don-dan-anh-trai-say-hi-den-ha-noi-4823923.html) - 12:48 04/12/2024
+- 🫶 [Thủy Tiên diện mốt đồ ngủ bình dân dự sự kiện](https://vnexpress.net/thuy-tien-dien-mot-do-ngu-binh-dan-du-su-kien-4823615.html) - 12:00 04/12/2024
+- 🧑‍🏫 [Triệu Vy tưởng nhớ Quỳnh Dao](https://vnexpress.net/trieu-vy-tuong-nho-quynh-dao-4823874.html) - 10:30 04/12/2024
+- 🦄 [TikToker Lê Tuấn Khang đóng phim Lý Hải](https://vnexpress.net/tiktoker-le-tuan-khang-dong-phim-ly-hai-4823854.html) - 10:05 04/12/2024
+- 💫 [Lâm Tâm Như: &#39;Tôi có hôm nay là nhờ nữ sĩ Quỳnh Dao&#39;](https://vnexpress.net/lam-tam-nhu-toi-co-hom-nay-la-nho-nu-si-quynh-dao-4823806.html) - 09:30 04/12/2024
+- 🎊 [Hoài Lâm nhập viện điều trị bệnh](https://vnexpress.net/hoai-lam-nhap-vien-dieu-tri-benh-4823739.html) - 09:28 04/12/2024
+- 👹 [Những lời cuối của nữ sĩ Quỳnh Dao](https://vnexpress.net/nhung-loi-cuoi-cua-nu-si-quynh-dao-4823774.html) - 08:29 04/12/2024
+- 💻 [Nhà văn Quỳnh Dao qua đời](https://vnexpress.net/nha-van-quynh-dao-qua-doi-4823735.html) - 07:29 04/12/2024
+- 🤡 [Vợ chồng Beckham lần đầu dự quốc yến](https://vnexpress.net/vo-chong-beckham-lan-dau-du-quoc-yen-4823658.html) - 05:35 04/12/2024
+- 🥰 [Đạo diễn Xuân Phượng vào top &#39;100 phụ nữ truyền cảm hứng&#39;](https://vnexpress.net/dao-dien-xuan-phuong-vao-top-100-phu-nu-truyen-cam-hung-4823677.html) - 05:16 04/12/2024
+- 🚀 [Điền Nhụy Ni biết ơn chồng cùng vượt hoạn nạn](https://vnexpress.net/dien-nhuy-ni-biet-on-chong-cung-vuot-hoan-nan-4823563.html) - 03:54 04/12/2024
+- 📝 [Beyoncé là &#39;ngôi sao pop vĩ đại nhất thế kỷ 21&#39;](https://vnexpress.net/beyonce-la-ngoi-sao-pop-vi-dai-nhat-the-ky-21-4823118.html) - 03:16 04/12/2024
+- 🐲 [Dàn hoa hậu dự thảm đỏ phim &#39;Công tử Bạc Liêu&#39;](https://vnexpress.net/dan-hoa-hau-du-tham-do-phim-cong-tu-bac-lieu-4823493.html) - 01:35 04/12/2024
+- 🎃 [Sao Việt theo cơn sốt hộp mù Baby Three](https://vnexpress.net/sao-viet-theo-con-sot-hop-mu-baby-three-4823234.html) - 17:00 03/12/2024
+- 🤠 [Con gái Thanh Thanh Hiền đóng nhạc kịch về Chí Phèo](https://vnexpress.net/con-gai-thanh-thanh-hien-dong-nhac-kich-ve-chi-pheo-4823367.html) - 13:53 03/12/2024
+- 🎭 [Thái Trinh: &#39;Chồng giúp tôi lấy lại niềm tin trong tình yêu&#39;](https://vnexpress.net/thai-trinh-chong-giup-toi-lay-lai-niem-tin-trong-tinh-yeu-4822654.html) - 12:00 03/12/2024
+- 🧰 [Tác giả 104 tuổi: &#39;Tôi chạy đua với thời gian để viết sách&#39;](https://vnexpress.net/tac-gia-104-tuoi-toi-chay-dua-voi-thoi-gian-de-viet-sach-4822186.html) - 09:06 03/12/2024
+- 🦍 [Thời trang bầu của Diễm My 9x](https://vnexpress.net/thoi-trang-bau-cua-diem-my-9x-4822865.html) - 07:54 03/12/2024
+- 🌝 [Khánh Vân cùng dàn mẫu hóa &quot;nàng thơ hoa&quot;](https://vnexpress.net/khanh-van-cung-dan-mau-hoa-nang-tho-hoa-4823232.html) - 07:15 03/12/2024
+- 🧑‍💻 [Trương Nghệ Mưu chụp hình cho vợ ở dạ vũ quý tộc](https://vnexpress.net/truong-nghe-muu-chup-hinh-cho-vo-o-da-vu-quy-toc-4823137.html) - 06:51 03/12/2024
+- 🥸 [&#39;Triệu Mẫn&#39; Lê Tư khoe sắc trong váy Công Trí](https://vnexpress.net/trieu-man-le-tu-khoe-sac-trong-vay-cong-tri-4823206.html) - 06:00 03/12/2024
+- 🔥 [Diễn viên Park Min Jae qua đời ở tuổi 32](https://vnexpress.net/dien-vien-park-min-jae-qua-doi-o-tuoi-32-4823181.html) - 05:19 03/12/2024
+- 🐎 [&#39;Thiếu gia showbiz&#39; Hoàng Tử Thao kết hôn](https://vnexpress.net/thieu-gia-showbiz-hoang-tu-thao-ket-hon-4823165.html) - 05:16 03/12/2024
+- 😎 [Gu mặc gợi cảm của Ý Nhi sau nâng ngực](https://vnexpress.net/gu-mac-goi-cam-cua-y-nhi-sau-nang-nguc-4823127.html) - 03:38 03/12/2024
+- 🦄 [Sao diện xuyên thấu, cắt xẻ ở lễ trao giải thời trang](https://vnexpress.net/sao-dien-xuyen-thau-cat-xe-o-le-trao-giai-thoi-trang-4823129.html) - 03:06 03/12/2024
+- 🌜 [Vợ chồng Will Smith cùng các con tổ chức Lễ Tạ ơn](https://vnexpress.net/vo-chong-will-smith-cung-cac-con-to-chuc-le-ta-on-4823101.html) - 02:55 03/12/2024
+- 🚦 [3 mẹo phối cardigan tôn dáng](https://vnexpress.net/3-meo-phoi-cardigan-ton-dang-4822971.html) - 02:04 03/12/2024
+- 🧐 [&#39;Người gác hải đăng&#39; - khúc hát ru về tình mẫu tử](https://vnexpress.net/nguoi-gac-hai-dang-khuc-hat-ru-ve-tinh-mau-tu-4821024.html) - 00:08 03/12/2024
+- 🐵 [Áo khoác tweed gây sốt](https://vnexpress.net/ao-khoac-tweed-gay-sot-4822752.html) - 22:00 02/12/2024
+- ⚗️ [Đạo diễn Kính vạn hoa: &#39;Tôi không cố vượt bản truyền hình&#39;](https://vnexpress.net/dao-dien-kinh-van-hoa-toi-khong-co-vuot-ban-truyen-hinh-4819802.html) - 17:00 02/12/2024
+- 👺 [Những sao Hollywood nuôi tóc bạc](https://vnexpress.net/nhung-sao-hollywood-nuoi-toc-bac-4822144.html) - 13:00 02/12/2024
+- 🌊 [Hoa hậu Ý Nhi phẫu thuật thẩm mỹ](https://vnexpress.net/hoa-hau-y-nhi-phau-thuat-tham-my-4822959.html) - 11:07 02/12/2024
+- 🪜 [Miss Cosmo được chào đón khi trở về Indonesia](https://vnexpress.net/miss-cosmo-duoc-chao-don-khi-tro-ve-indonesia-4822772.html) - 09:00 02/12/2024
+- 🕴 [Lãnh đạo cuộc thi Hoa hậu Mỹ nộp đơn xin phá sản](https://vnexpress.net/lanh-dao-cuoc-thi-hoa-hau-my-nop-don-xin-pha-san-4822783.html) - 08:22 02/12/2024
+- 💃 [Anh Tú, Bùi Công Nam hát cùng dàn sao Hàn](https://vnexpress.net/anh-tu-bui-cong-nam-hat-cung-dan-sao-han-4822622.html) - 07:27 02/12/2024
+- 🦄 [Những tiểu thư dự Dạ vũ quý tộc 2024](https://vnexpress.net/nhung-tieu-thu-du-da-vu-quy-toc-2024-4822761.html) - 05:31 02/12/2024
+- ⛽️ [66 chiếc túi Hermès bị trộm ở Hong Kong](https://vnexpress.net/66-chiec-tui-hermes-bi-trom-o-hong-kong-4822679.html) - 04:17 02/12/2024
+- 😎 [Ellen DeGeneres kỷ niệm 20 năm yêu bạn đời](https://vnexpress.net/ellen-degeneres-ky-niem-20-nam-yeu-ban-doi-4822652.html) - 03:24 02/12/2024
+- 🌊 [Triển lãm ảnh phụ nữ Tây Bắc trên giấy dó](https://vnexpress.net/trien-lam-anh-phu-nu-tay-bac-tren-giay-do-4821530.html) - 02:37 02/12/2024
+- 🐲 [Thu Minh, Vũ Thảo My đoạt quán quân &#39;Our Song&#39;](https://vnexpress.net/thu-minh-vu-thao-my-doat-quan-quan-our-song-4822591.html) - 01:06 02/12/2024
+- 💂 [&#39;Công tử Bạc Liêu&#39; cùng loạt phim Hollywood ra rạp tháng 12](https://vnexpress.net/cong-tu-bac-lieu-cung-loat-phim-hollywood-ra-rap-thang-12-4822424.html) - 17:00 01/12/2024
+- 🙉 [Cuộc sống miền núi trong &#39;Cái chết của bầy ong&#39;](https://vnexpress.net/cuoc-song-mien-nui-trong-cai-chet-cua-bay-ong-4822507.html) - 15:32 01/12/2024
+- 💪 [Loạt tranh sơn dầu khắc họa văn hóa Huế](https://vnexpress.net/loat-tranh-son-dau-khac-hoa-van-hoa-hue-4822403.html) - 13:00 01/12/2024
+- 👍 [Phạm Băng Băng tăng gần 10 kg để đóng phim](https://vnexpress.net/pham-bang-bang-tang-gan-10-kg-de-dong-phim-4822519.html) - 10:10 01/12/2024
+- 💪 [&#39;Wicked&#39; - tôn trọng sự khác biệt](https://vnexpress.net/giai-tri/phim/thu-vien-phim/wicked-755) - 09:14 01/12/2024
+- 💄 [Hồng Nhung tự tình về Hà Nội bằng âm nhạc](https://vnexpress.net/hong-nhung-tu-tinh-ve-ha-noi-bang-am-nhac-4822391.html) - 05:17 01/12/2024
+- 🦩 [Nghệ sĩ Tả Đại Bân sau hơn 40 năm đóng Bồ Tát &#39;Tây du ký&#39;](https://vnexpress.net/nghe-si-ta-dai-ban-sau-hon-40-nam-dong-bo-tat-tay-du-ky-4822408.html) - 04:01 01/12/2024
+- 🥸 [&#39;Moana 2&#39; lập kỷ lục doanh thu dịp Lễ Tạ ơn](https://vnexpress.net/moana-2-lap-ky-luc-doanh-thu-dip-le-ta-on-4822398.html) - 03:58 01/12/2024
+- 🧰 [Đội Mỹ Linh gây xúc động với ca khúc về mẹ](https://vnexpress.net/doi-my-linh-gay-xuc-dong-voi-ca-khuc-ve-me-4822362.html) - 02:06 01/12/2024
+- 💼 [Chồng cảm ơn Lâm Chí Linh &#39;giúp gia đình rộn tiếng cười&#39;](https://vnexpress.net/chong-cam-on-lam-chi-linh-giup-gia-dinh-ron-tieng-cuoi-4822383.html) - 01:27 01/12/2024
+- 🧑‍💻 [Đời thăng trầm của tác giả &#39;quả chuối dán tường giá triệu USD&#39;](https://vnexpress.net/doi-thang-tram-cua-tac-gia-qua-chuoi-dan-tuong-gia-trieu-usd-4820470.html) - 17:00 30/11/2024<!-- vnexpress-giai-tri:END -->
