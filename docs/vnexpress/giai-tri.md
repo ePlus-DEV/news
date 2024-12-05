@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Nguyễn Nhật Ánh: &#39;Một ngày không viết, thấy mình chưa sống đủ&#39;](https://vnexpress.net/nguyen-nhat-anh-mot-ngay-khong-viet-thay-minh-chua-song-du-4824188.html) - 09:40 05/12/2024
+- 🌏 [Nguyễn Nhật Ánh: &#39;Một ngày không viết, thấy chưa sống đủ&#39;](https://vnexpress.net/nguyen-nhat-anh-mot-ngay-khong-viet-thay-chua-song-du-4824188.html) - 09:40 05/12/2024
 - 💫 [Triển lãm tranh về các loài hoa](https://vnexpress.net/trien-lam-tranh-ve-cac-loai-hoa-4823824.html) - 08:40 05/12/2024
 - 🌮 [Diễn viên &#39;Loki&#39; lâm cảnh vô gia cư](https://vnexpress.net/dien-vien-loki-lam-canh-vo-gia-cu-4824074.html) - 08:09 05/12/2024
 - 🧠 [Tài tử Sean Penn chỉ trích giải Oscar](https://vnexpress.net/tai-tu-sean-penn-chi-trich-giai-oscar-4824065.html) - 07:31 05/12/2024
