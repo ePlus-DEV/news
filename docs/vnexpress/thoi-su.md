@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [TP HCM đề xuất mức hỗ trợ hơn 1.000 nhân sự dôi dư khi sáp nhập phường](https://vnexpress.net/tp-hcm-de-xuat-muc-ho-tro-hon-1-000-nhan-su-doi-du-khi-sap-nhap-phuong-4824878.html) - 17:00 06/12/2024
-- 🤓 [Nhà thầu đón cơ hội xây dựng đường sắt tốc độ cao](https://vnexpress.net/nha-thau-don-co-hoi-xay-dung-duong-sat-toc-do-cao-4824573.html) - 17:00 06/12/2024
+- 🤓 [Nhà thầu đón đầu cơ hội xây dựng đường sắt tốc độ cao](https://vnexpress.net/nha-thau-don-dau-co-hoi-xay-dung-duong-sat-toc-do-cao-4824573.html) - 17:00 06/12/2024
 - ⚗️ [&#39;Không lấy đấu thầu làm nơi trú ẩn cho quân xanh, quân đỏ&#39;](https://vnexpress.net/khong-lay-dau-thau-lam-noi-tru-an-cho-quan-xanh-quan-do-4824853.html) - 14:14 06/12/2024
 - 🌊 [Đà Nẵng sẽ đầu tư hàng loạt công trình cho khu thương mại tự do](https://vnexpress.net/da-nang-se-dau-tu-hang-loat-cong-trinh-cho-khu-thuong-mai-tu-do-4824764.html) - 11:25 06/12/2024
 - 🎓 [Đề xuất đặt tên đại lộ Võ Nguyên Giáp cho tuyến đường Vinh - Cửa Lò](https://vnexpress.net/de-xuat-dat-ten-dai-lo-vo-nguyen-giap-cho-tuyen-duong-vinh-cua-lo-4824809.html) - 11:13 06/12/2024
