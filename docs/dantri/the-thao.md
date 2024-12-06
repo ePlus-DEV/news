@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Indonesia chốt danh sách dự AFF Cup 2024: HLV Shin Tae Yong chơi chiêu lạ](https://dantri.com.vn/the-thao/indonesia-chot-danh-sach-du-aff-cup-2024-hlv-shin-tae-yong-choi-chieu-la-20241206092222447.htm) - 02:45 06/12/2024
+- 🎡 [Indonesia chốt danh sách dự AFF Cup 2024: HLV Shin Tae Yong gây sốc](https://dantri.com.vn/the-thao/indonesia-chot-danh-sach-du-aff-cup-2024-hlv-shin-tae-yong-gay-soc-20241206092222447.htm) - 02:45 06/12/2024
 - 💯 [HLV Pau Marti bất ngờ tuyên bố chia tay tuyển Malaysia](https://dantri.com.vn/the-thao/hlv-pau-marti-bat-ngo-tuyen-bo-chia-tay-tuyen-malaysia-20241206084808328.htm) - 02:20 06/12/2024
 - ⛽️ [Salah gia hạn hợp đồng với Liverpool?](https://dantri.com.vn/the-thao/salah-gia-han-hop-dong-voi-liverpool-20241206075234353.htm) - 01:49 06/12/2024
 - 💃 [Man City đại chiến Juventus tại FIFA Club World Cup 2025](https://dantri.com.vn/the-thao/man-city-dai-chien-juventus-tai-fifa-club-world-cup-2025-20241206073043690.htm) - 01:22 06/12/2024
