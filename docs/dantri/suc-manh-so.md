@@ -5,7 +5,7 @@ sidebar_position: 9
 
 <!-- dantri-suc-manh-so:START -->
 - 🐻 [VinFuture 2024: AI mở ra cơ hội đổi mới mô hình giáo dục tại Việt Nam](https://dantri.com.vn/suc-manh-so/vinfuture-2024-ai-mo-ra-co-hoi-doi-moi-mo-hinh-giao-duc-tai-viet-nam-20241206130505600.htm) - 10:16 06/12/2024
-- 💄 [Việt Nam sẵn sàng thành Trung tâm nghiên cứu phát triển AI hàng đầu Châu Á](https://dantri.com.vn/suc-manh-so/viet-nam-san-sang-thanh-trung-tam-nghien-cuu-phat-trien-ai-hang-dau-chau-a-20241206010653787.htm) - 07:59 06/12/2024
+- 💄 [Việt Nam sẵn sàng thành Trung tâm nghiên cứu phát triển AI hàng đầu châu Á](https://dantri.com.vn/suc-manh-so/viet-nam-san-sang-thanh-trung-tam-nghien-cuu-phat-trien-ai-hang-dau-chau-a-20241206010653787.htm) - 07:59 06/12/2024
 - 🚀 [&quot;Bố già AI&quot; cảnh báo nguy cơ con người tuyệt chủng nếu sử dụng AI sai cách](https://dantri.com.vn/suc-manh-so/bo-gia-ai-canh-bao-nguy-co-con-nguoi-tuyet-chung-neu-su-dung-ai-sai-cach-20241206104946581.htm) - 07:01 06/12/2024
 - 👹 [Việt Nam thành lập Ủy ban Đạo đức AI, cam kết phát triển AI có trách nhiệm](https://dantri.com.vn/suc-manh-so/viet-nam-thanh-lap-uy-ban-dao-duc-ai-cam-ket-phat-trien-ai-co-trach-nhiem-20241206094211591.htm) - 02:46 06/12/2024
 - 🤭 [Tin vui cho người dùng chờ đợi iPhone 17 Pro Max](https://dantri.com.vn/suc-manh-so/tin-vui-cho-nguoi-dung-cho-doi-iphone-17-pro-max-20241204104930170.htm) - 01:39 06/12/2024
