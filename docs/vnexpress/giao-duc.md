@@ -8,7 +8,7 @@ sidebar_position: 7
 - 🦆 [Việt Nam rét kỷ lục vào năm nào?](https://vnexpress.net/viet-nam-ret-ky-luc-vao-nam-nao-4824792.html) - 13:33 06/12/2024
 - 🦩 [Thầy giáo thuê đồng nghiệp dạy thay hơn một năm](https://vnexpress.net/thay-giao-thue-dong-nghiep-day-thay-hon-mot-nam-4824044.html) - 12:12 06/12/2024
 - 🌮 [Hành trình &#39;tô sắc màu&#39; những mái trường khó khăn](https://vnexpress.net/hanh-trinh-to-sac-mau-nhung-mai-truong-kho-khan-4824121.html) - 12:00 06/12/2024
-- 🔭 [Đại học hàng đầu Australia mở rộng tuyển học sinh Việt Nam](https://vnexpress.net/dai-hoc-hang-dau-australia-mo-rong-tuyen-hoc-sinh-viet-nam-4824518.html) - 06:10 06/12/2024
+- 🔭 [Đại học Quốc gia Australia mở rộng tuyển học sinh Việt Nam](https://vnexpress.net/dai-hoc-quoc-gia-australia-mo-rong-tuyen-hoc-sinh-viet-nam-4824518.html) - 06:10 06/12/2024
 - 💡 [Dự kiến tăng hai ngày nghỉ Tết cho học sinh TP HCM](https://vnexpress.net/du-kien-tang-hai-ngay-nghi-tet-cho-hoc-sinh-tp-hcm-4824553.html) - 03:21 06/12/2024
 - 🥰 [5 ngành học hiếm ở đại học Mỹ](https://vnexpress.net/5-nganh-hoc-hiem-o-dai-hoc-my-4824473.html) - 02:59 06/12/2024
 - 🐲 [Cách thu hút sinh viên nước ngoài đến TP HCM](https://vnexpress.net/cach-thu-hut-sinh-vien-nuoc-ngoai-den-tp-hcm-4824165.html) - 23:07 05/12/2024
