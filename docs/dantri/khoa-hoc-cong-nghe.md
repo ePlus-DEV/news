@@ -5,7 +5,7 @@ sidebar_position: 25
 
 <!-- dantri-khoa-hoc-cong-nghe:START -->
 - 🪄 [NASA hoãn sứ mệnh đưa người lên Mặt Trăng vì sự cố bất thường](https://dantri.com.vn/khoa-hoc-cong-nghe/nasa-hoan-su-menh-dua-nguoi-len-mat-trang-vi-su-co-bat-thuong-20241206093646740.htm) - 08:04 06/12/2024
-- 🤭 [Trực tiếp Lễ trao giải VinFuture 2024, người Việt có công trình đề cử](https://dantri.com.vn/khoa-hoc-cong-nghe/truc-tiep-le-trao-giai-vinfuture-2024-nguoi-viet-co-cong-trinh-de-cu-20241206142222934.htm) - 08:02 06/12/2024
+- 🤭 [Tường thuật trực tiếp Lễ trao giải VinFuture 2024](https://dantri.com.vn/khoa-hoc-cong-nghe/tuong-thuat-truc-tiep-le-trao-giai-vinfuture-2024-20241206142222934.htm) - 08:02 06/12/2024
 - 🐻 [Cột mốc báo động: chỉ 3 năm nữa Bắc Băng Dương sẽ không còn băng](https://dantri.com.vn/khoa-hoc-cong-nghe/cot-moc-bao-dong-chi-3-nam-nua-bac-bang-duong-se-khong-con-bang-20241206005316485.htm) - 23:46 05/12/2024
 - 🥰 [Trung Quốc dự định dùng vật liệu tại chỗ để xây dựng căn cứ Mặt Trăng](https://dantri.com.vn/khoa-hoc-cong-nghe/trung-quoc-du-dinh-dung-vat-lieu-tai-cho-de-xay-dung-can-cu-mat-trang-20241206004626242.htm) - 23:30 05/12/2024
 - 🥳 [Giáo sư quốc tế hiến kế giúp Việt Nam khắc phục ô nhiễm không khí](https://dantri.com.vn/khoa-hoc-cong-nghe/giao-su-quoc-te-hien-ke-giup-viet-nam-khac-phuc-o-nhiem-khong-khi-20241205095227875.htm) - 23:26 05/12/2024
