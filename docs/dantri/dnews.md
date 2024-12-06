@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Việt Nam sẵn sàng thành Trung tâm nghiên cứu phát triển AI hàng đầu Châu Á](https://dantri.com.vn/suc-manh-so/viet-nam-san-sang-thanh-trung-tam-nghien-cuu-phat-trien-ai-hang-dau-chau-a-20241206010653787.htm) - 07:59 06/12/2024
+- 🤠 [Việt Nam sẵn sàng thành Trung tâm nghiên cứu phát triển AI hàng đầu châu Á](https://dantri.com.vn/suc-manh-so/viet-nam-san-sang-thanh-trung-tam-nghien-cuu-phat-trien-ai-hang-dau-chau-a-20241206010653787.htm) - 07:59 06/12/2024
 - 🌈 [&quot;Bố già AI&quot; cảnh báo nguy cơ con người tuyệt chủng nếu sử dụng AI sai cách](https://dantri.com.vn/suc-manh-so/bo-gia-ai-canh-bao-nguy-co-con-nguoi-tuyet-chung-neu-su-dung-ai-sai-cach-20241206104946581.htm) - 07:01 06/12/2024
 - 🐎 [Chuyên gia: &quot;Văn Lâm bị loại không bất ngờ, tuyển Việt Nam đủ sức vô địch&quot;](https://dantri.com.vn/the-thao/chuyen-gia-van-lam-bi-loai-khong-bat-ngo-tuyen-viet-nam-du-suc-vo-dich-20241205235912758.htm) - 23:23 05/12/2024
 - 👹 [Bộ Công an: &quot;3 không, 4 hơn, 5 chủ động&quot; trong chống tham nhũng, lãng phí](https://dantri.com.vn/xa-hoi/bo-cong-an-3-khong-4-hon-5-chu-dong-trong-chong-tham-nhung-lang-phi-20241205225954811.htm) - 22:50 05/12/2024
