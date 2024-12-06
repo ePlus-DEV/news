@@ -5,7 +5,7 @@ sidebar_position: 10
 
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [Gánh nặng chăm bạn đời mắc bệnh tâm thần](https://vnexpress.net/ganh-nang-cham-ban-doi-mac-benh-tam-than-4820844.html) - 23:00 05/12/2024
-- 🥰 [Hơn 200.000 người Việt đột quỵ mỗi năm](https://vnexpress.net/hon-200-000-nguoi-viet-dot-quy-moi-nam-4824386.html) - 22:48 05/12/2024
+- 🥰 [Nam giới đột quỵ nhiều gấp 4 lần nữ](https://vnexpress.net/hon-200-000-nguoi-viet-dot-quy-moi-nam-4824386.html) - 22:48 05/12/2024
 - 💡 [Thích nhai đá - dấu hiệu cảnh báo mắc bệnh](https://vnexpress.net/thich-nhai-da-dau-hieu-canh-bao-mac-benh-4824287.html) - 18:00 05/12/2024
 - 🤗 [Mẹo giữ phong độ cho nam giới làm việc ca đêm](https://vnexpress.net/meo-giu-phong-do-cho-nam-gioi-lam-viec-ca-dem-4822782.html) - 17:03 05/12/2024
 - 🪜 [Cách loại bỏ đờm nhanh](https://vnexpress.net/cach-loai-bo-dom-nhanh-4824199.html) - 13:00 05/12/2024
