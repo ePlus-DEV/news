@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Thủ tướng: Tuần tới dành thời gian ưu tiên tinh gọn bộ máy](https://vnexpress.net/thu-tuong-tuan-toi-danh-thoi-gian-uu-tien-tinh-gon-bo-may-4825093.html) - 10:25 07/12/2024
-- 🤓 [&#39;Sẽ có chính sách vượt trội để tinh giản cán bộ, công chức khi sắp xếp bộ máy&#39;](https://vnexpress.net/se-co-chinh-sach-vuot-troi-de-tinh-gian-can-bo-cong-chuc-khi-sap-xep-bo-may-4825113.html) - 10:19 07/12/2024
+- 🤓 [&#39;Sẽ có chính sách vượt trội để tinh giản cán bộ, công chức&#39;](https://vnexpress.net/se-co-chinh-sach-vuot-troi-de-tinh-gian-can-bo-cong-chuc-4825113.html) - 10:19 07/12/2024
 - ⚗️ [Tàu chở khách đắm trên vịnh Bái Tử Long, hai người mất tích](https://vnexpress.net/tau-cho-khach-dam-tren-vinh-bai-tu-long-hai-nguoi-mat-tich-4825053.html) - 06:46 07/12/2024
 - 🌊 [Hơn 3.000 tỷ đồng mở rộng cao tốc La Sơn - Hòa Liên lên 4 làn xe](https://vnexpress.net/hon-3-000-ty-dong-mo-rong-cao-toc-la-son-hoa-lien-len-4-lan-xe-4825016.html) - 05:11 07/12/2024
 - 🎓 [TP HCM đề xuất mức hỗ trợ hơn 1.000 nhân sự dôi dư khi sáp nhập phường](https://vnexpress.net/tp-hcm-de-xuat-muc-ho-tro-hon-1-000-nhan-su-doi-du-khi-sap-nhap-phuong-4824878.html) - 17:00 06/12/2024
