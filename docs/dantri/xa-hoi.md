@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- dantri-xa-hoi:START -->
-- 🫣 [Tổ chức tang lễ 12 liệt sỹ Quân khu 7 vào ngày mai 8/12](https://dantri.com.vn/xa-hoi/to-chuc-tang-le-12-liet-sy-quan-khu-7-vao-ngay-mai-812-20241207194433130.htm) - 13:31 07/12/2024
+- 🫣 [Tổ chức tang lễ 12 liệt sỹ Quân khu 7 sáng 8/12](https://dantri.com.vn/xa-hoi/to-chuc-tang-le-12-liet-sy-quan-khu-7-sang-812-20241207194433130.htm) - 13:31 07/12/2024
 - 💼 [Thời tiết ngày 8/12: Không khí lạnh bao trùm miền Bắc](https://dantri.com.vn/xa-hoi/thoi-tiet-ngay-812-khong-khi-lanh-bao-trum-mien-bac-20241207202015440.htm) - 13:28 07/12/2024
 - 🎊 [Cảnh sát cơ động Kỵ binh luyện tập chào mừng Giải Taekwondo Cảnh sát châu Á](https://dantri.com.vn/xa-hoi/canh-sat-co-dong-ky-binh-luyen-tap-chao-mung-giai-taekwondo-canh-sat-chau-a-20241207185334619.htm) - 12:15 07/12/2024
 - 🙉 [Công bố quyết định chuẩn y chức danh Bí thư Tỉnh ủy Thái Bình](https://dantri.com.vn/xa-hoi/cong-bo-quyet-dinh-chuan-y-chuc-danh-bi-thu-tinh-uy-thai-binh-20241207180743240.htm) - 11:42 07/12/2024
