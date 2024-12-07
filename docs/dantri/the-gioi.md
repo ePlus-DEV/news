@@ -6,7 +6,7 @@ sidebar_position: 17
 <!-- dantri-the-gioi:START -->
 - 🌋 [Iran cáo buộc Mỹ, Ukraine đứng sau nhóm phiến quân nổi loạn ở Syria](https://dantri.com.vn/the-gioi/iran-cao-buoc-my-ukraine-dung-sau-nhom-phien-quan-noi-loan-o-syria-20241207073206970.htm) - 01:08 07/12/2024
 - 🎬 [Hé lộ số tiền tỷ phú Elon Musk chi cho chiến dịch tranh cử của ông Trump](https://dantri.com.vn/the-gioi/he-lo-so-tien-ty-phu-elon-musk-chi-cho-chien-dich-tranh-cu-cua-ong-trump-20241207070106811.htm) - 01:01 07/12/2024
-- 🧰 [Tổng thống Hàn Quốc lần đầu xuất hiện trước công chúng sau thiết quân luật](https://dantri.com.vn/the-gioi/tong-thong-han-quoc-lan-dau-xuat-hien-truoc-cong-chung-sau-thiet-quan-luat-20241207080728949.htm) - 01:01 07/12/2024
+- 🧰 [Tổng thống Hàn Quốc xin lỗi dân, hứa không trốn tránh trách nhiệm pháp lý](https://dantri.com.vn/the-gioi/tong-thong-han-quoc-xin-loi-dan-hua-khong-tron-tranh-trach-nhiem-phap-ly-20241207080728949.htm) - 01:01 07/12/2024
 - 🌋 [Nga sẽ triển khai tên lửa &quot;không thể đánh chặn&quot; ở Belarus](https://dantri.com.vn/the-gioi/nga-se-trien-khai-ten-lua-khong-the-danh-chan-o-belarus-20241207070750119.htm) - 01:00 07/12/2024
 - 🗽 [Thủ tướng Hungary: Nga ngày càng mạnh hơn trong cuộc xung đột ở Ukraine](https://dantri.com.vn/the-gioi/thu-tuong-hungary-nga-ngay-cang-manh-hon-trong-cuoc-xung-dot-o-ukraine-20241206203413749.htm) - 23:18 06/12/2024
 - 💻 [Mỹ sắp viện trợ quân sự ồ ạt cho Ukraine](https://dantri.com.vn/the-gioi/my-sap-vien-tro-quan-su-o-at-cho-ukraine-20241207061218918.htm) - 23:15 06/12/2024
