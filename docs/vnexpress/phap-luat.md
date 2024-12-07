@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Lái xe tải &#39;hất&#39; người lên cản trước bị bắt](https://vnexpress.net/lai-xe-tai-hat-nguoi-len-can-truoc-bi-bat-4825146.html) - 12:01 07/12/2024
 - 🥰 [Sai phạm của 6 cán bộ trong vụ cháy chung cư mini 56 người chết](https://vnexpress.net/sai-pham-cua-6-can-bo-trong-vu-chay-chung-cu-mini-56-nguoi-chet-4825124.html) - 11:10 07/12/2024
 - 🎓 [Định giá hơn 400 dự án liên quan Công ty Cây xanh Công Minh](https://vnexpress.net/dinh-gia-hon-400-du-an-lien-quan-cong-ty-cay-xanh-cong-minh-4825132.html) - 10:31 07/12/2024
-- 🤓 [Phó giám đốc Sở Giao thông vận tải Đồng Nai bị bắt](https://vnexpress.net/pho-giam-doc-so-giao-thong-van-tai-dong-nai-bi-bat-4825114.html) - 10:00 07/12/2024
+- 🤓 [Phó giám đốc Sở Giao thông Vận tải Đồng Nai bị bắt](https://vnexpress.net/pho-giam-doc-so-giao-thong-van-tai-dong-nai-bi-bat-4825114.html) - 10:00 07/12/2024
 - 🎊 [TAND Hà Nội sắp xét xử vụ án &#39;chuyến bay giải cứu&#39; giai đoạn 2](https://vnexpress.net/tand-ha-noi-sap-xet-xu-vu-an-chuyen-bay-giai-cuu-giai-doan-2-4825064.html) - 07:41 07/12/2024
 - 🙉 [Bị bắt vì vu khống nhiều cán bộ ở Cần Thơ](https://vnexpress.net/bi-bat-vi-vu-khong-nhieu-can-bo-o-can-tho-4825054.html) - 06:38 07/12/2024
 - 🤡 [Người &#39;bắt đền&#39; cán bộ làm sai sổ đỏ được giảm án](https://vnexpress.net/nguoi-bat-den-can-bo-lam-sai-so-do-duoc-giam-an-4824997.html) - 05:15 07/12/2024
