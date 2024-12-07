@@ -4,11 +4,11 @@ sidebar_position: 11
 ---
 
 <!-- dantri-an-sinh:START -->
-- 👺 [Chợ ế ẩm, tiểu thương vẫn cười lớn vì hành động của bé trai bụ bẫm](https://dantri.com.vn/an-sinh/cho-e-am-tieu-thuong-van-cuoi-lon-vi-hanh-dong-cua-be-trai-bu-bam-20241206102433182.htm) - 23:00 06/12/2024
-- 👀 [Công an giải cứu bé gái 3 tuổi suýt rơi từ ban công tầng 4 trường học](https://dantri.com.vn/an-sinh/cong-an-giai-cuu-be-gai-3-tuoi-suyt-roi-tu-ban-cong-tang-4-truong-hoc-20241206182343795.htm) - 17:02 06/12/2024
-- 💡 [Nhiều cách làm hay chống xâm hại tình dục, bảo vệ trẻ em ở nông thôn](https://dantri.com.vn/an-sinh/nhieu-cach-lam-hay-chong-xam-hai-tinh-duc-bao-ve-tre-em-o-nong-thon-20241206144527142.htm) - 15:49 06/12/2024
-- 💄 [Lấy hơn 1.000 mẫu ADN tìm thân nhân liệt sỹ](https://dantri.com.vn/an-sinh/lay-hon-1000-mau-adn-tim-than-nhan-liet-sy-20241206155039783.htm) - 10:45 06/12/2024
-- 🧠 [Bộ trưởng Đào Ngọc Dung: &quot;Tinh gọn bộ máy là một cuộc cách mạng&quot;](https://dantri.com.vn/an-sinh/bo-truong-dao-ngoc-dung-tinh-gon-bo-may-la-mot-cuoc-cach-mang-20241206142944124.htm) - 08:30 06/12/2024
+- 👺 [Hàng triệu người cao tuổi ngóng tiền hưu trí xã hội mới](https://dantri.com.vn/an-sinh/hang-trieu-nguoi-cao-tuoi-ngong-tien-huu-tri-xa-hoi-moi-20241206201718030.htm) - 23:30 06/12/2024
+- 👀 [Chợ ế ẩm, tiểu thương vẫn cười lớn vì hành động của bé trai bụ bẫm](https://dantri.com.vn/an-sinh/cho-e-am-tieu-thuong-van-cuoi-lon-vi-hanh-dong-cua-be-trai-bu-bam-20241206102433182.htm) - 23:00 06/12/2024
+- 💡 [Công an giải cứu bé gái 3 tuổi suýt rơi từ ban công tầng 4 trường học](https://dantri.com.vn/an-sinh/cong-an-giai-cuu-be-gai-3-tuoi-suyt-roi-tu-ban-cong-tang-4-truong-hoc-20241206182343795.htm) - 17:02 06/12/2024
+- 💄 [Nhiều cách làm hay chống xâm hại tình dục, bảo vệ trẻ em ở nông thôn](https://dantri.com.vn/an-sinh/nhieu-cach-lam-hay-chong-xam-hai-tinh-duc-bao-ve-tre-em-o-nong-thon-20241206144527142.htm) - 15:49 06/12/2024
+- 🧠 [Lấy hơn 1.000 mẫu ADN tìm thân nhân liệt sỹ](https://dantri.com.vn/an-sinh/lay-hon-1000-mau-adn-tim-than-nhan-liet-sy-20241206155039783.htm) - 10:45 06/12/2024
 - 🫣 [Chậm đóng BHXH 1,5 tỷ đồng, doanh nghiệp bị phạt 235 triệu đồng](https://dantri.com.vn/an-sinh/cham-dong-bhxh-15-ty-dong-doanh-nghiep-bi-phat-235-trieu-dong-20241205013837024.htm) - 06:55 06/12/2024
 - 🥸 [Lập đường dây nóng bảo vệ trẻ em đến từng thôn ấp](https://dantri.com.vn/an-sinh/lap-duong-day-nong-bao-ve-tre-em-den-tung-thon-ap-20241206062138322.htm) - 01:37 06/12/2024
 - 🤭 [Thất lạc 64 năm, người anh sửng sốt vì hành động của chị em cùng ba khác mẹ](https://dantri.com.vn/an-sinh/that-lac-64-nam-nguoi-anh-sung-sot-vi-hanh-dong-cua-chi-em-cung-ba-khac-me-20241206001052730.htm) - 01:14 06/12/2024
