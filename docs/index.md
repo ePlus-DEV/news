@@ -27,12 +27,12 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Sai phạm của 6 cán bộ trong vụ cháy chung cư mini 56 người chết](https://vnexpress.net/sai-pham-cua-6-can-bo-trong-vu-chay-chung-cu-mini-56-nguoi-chet-4825124.html) - 11:10 07/12/2024
-- 🧰 [Khám phá TP HCM qua bước chạy marathon](https://vnexpress.net/kham-pha-tp-hcm-qua-buoc-chay-marathon-4825096.html) - 11:00 07/12/2024
-- 🥰 [Chồng thường cho tiền người xa lạ](https://vnexpress.net/chong-thuong-cho-tien-nguoi-xa-la-4825028.html) - 11:00 07/12/2024
-- 🌏 [Ông Trump nhún nhảy khi nhận giải &#39;Người yêu nước của năm&#39;](https://vnexpress.net/ong-trump-nhun-nhay-khi-nhan-giai-nguoi-yeu-nuoc-cua-nam-4825009.html) - 10:54 07/12/2024
-- 🧐 [Chủ nhân giải VinFuture 2024 bày tỏ cách dấn thân làm khoa học](https://vnexpress.net/chu-nhan-giai-vinfuture-2024-bay-to-cach-dan-than-lam-khoa-hoc-4825083.html) - 10:48 07/12/2024
-- 💫 [Thứ trưởng Giáo dục: Cân nhắc bỏ &#39;xét tuyển sớm&#39;](https://vnexpress.net/thu-truong-giao-duc-can-nhac-bo-xet-tuyen-som-4825121.html) - 10:34 07/12/2024
-- 😺 [Định giá hơn 400 dự án liên quan Công ty Cây xanh Công Minh](https://vnexpress.net/dinh-gia-hon-400-du-an-lien-quan-cong-ty-cay-xanh-cong-minh-4825132.html) - 10:31 07/12/2024
+- 🧰 [Chồng thường cho tiền người xa lạ](https://vnexpress.net/chong-thuong-cho-tien-nguoi-xa-la-4825028.html) - 11:00 07/12/2024
+- 🥰 [Ông Trump nhún nhảy khi nhận giải &#39;Người yêu nước của năm&#39;](https://vnexpress.net/ong-trump-nhun-nhay-khi-nhan-giai-nguoi-yeu-nuoc-cua-nam-4825009.html) - 10:54 07/12/2024
+- 🌏 [Chủ nhân giải VinFuture 2024 bày tỏ cách dấn thân làm khoa học](https://vnexpress.net/chu-nhan-giai-vinfuture-2024-bay-to-cach-dan-than-lam-khoa-hoc-4825083.html) - 10:48 07/12/2024
+- 🧐 [Thứ trưởng Giáo dục: Cân nhắc bỏ &#39;xét tuyển sớm&#39;](https://vnexpress.net/thu-truong-giao-duc-can-nhac-bo-xet-tuyen-som-4825121.html) - 10:34 07/12/2024
+- 💫 [Định giá hơn 400 dự án liên quan Công ty Cây xanh Công Minh](https://vnexpress.net/dinh-gia-hon-400-du-an-lien-quan-cong-ty-cay-xanh-cong-minh-4825132.html) - 10:31 07/12/2024
+- 😺 [Khám phá TP HCM qua bước chạy marathon](https://vnexpress.net/kham-pha-tp-hcm-qua-buoc-chay-marathon-4825096.html) - 10:30 07/12/2024
 - 🕯 [Ba chế độ ăn tốt cho người bệnh viêm khớp](https://vnexpress.net/ba-che-do-an-tot-cho-nguoi-benh-viem-khop-4824286.html) - 10:30 07/12/2024
 - 💃 [Thủ tướng: Tuần tới dành thời gian ưu tiên tinh gọn bộ máy](https://vnexpress.net/thu-tuong-tuan-toi-danh-thoi-gian-uu-tien-tinh-gon-bo-may-4825093.html) - 10:25 07/12/2024
 - 💂 [&#39;Sẽ có chính sách vượt trội để tinh giản cán bộ, công chức&#39;](https://vnexpress.net/se-co-chinh-sach-vuot-troi-de-tinh-gian-can-bo-cong-chuc-4825113.html) - 10:19 07/12/2024
@@ -44,7 +44,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🪄 [&#39;Khi điện thoại đổ chuông&#39; - phim &#39;tổng tài bá đạo&#39; của Hàn](https://vnexpress.net/giai-tri/phim/thu-vien-phim/when-the-phone-rings-756) - 10:00 07/12/2024
 - 😎 [5 thực phẩm giúp tăng khả năng đậu thai](https://vnexpress.net/5-thuc-pham-giup-tang-kha-nang-dau-thai-4825074.html) - 10:00 07/12/2024
 - 🎊 [FIFA công nhận ASEAN Cup 2024 là giải chính thức](https://vnexpress.net/fifa-cong-nhan-asean-cup-2024-la-giai-chinh-thuc-4825098.html) - 09:49 07/12/2024
-- ⚗️ [Lynk &amp;amp; Co 06 là Ôtô triển vọng của năm 2024](https://vnexpress.net/lynk-co-06-la-oto-trien-vong-cua-nam-2024-4824587.html) - 09:48 07/12/2024
+- ⚗️ [Toyota Camry là Ôtô của năm phân khúc gầm thấp cỡ D](https://vnexpress.net/toyota-camry-la-oto-cua-nam-phan-khuc-gam-thap-co-d-4824587.html) - 09:48 07/12/2024
 - 🫣 [Su hào nấu mực kiểu Hà Nội xưa](https://vnexpress.net/su-hao-nau-muc-kieu-ha-noi-xua-4824722.html) - 09:43 07/12/2024
 - 👨‍🏫 [Thanh Hóa công bố loạt cung đường trekking](https://vnexpress.net/thanh-hoa-cong-bo-loat-cung-duong-trekking-4825089.html) - 09:39 07/12/2024
 - 🐻 [Điều gì xảy ra khi nhịn hắt hơi?](https://vnexpress.net/dieu-gi-xay-ra-khi-nhin-hat-hoi-4825023.html) - 09:30 07/12/2024
