@@ -6,7 +6,7 @@ sidebar_position: 8
 <!-- dantri-phap-luat:START -->
 - 🌊 [Chém mặt người tình biến dạng vì mâu thuẫn tình cảm ở Long An](https://dantri.com.vn/phap-luat/chem-mat-nguoi-tinh-bien-dang-vi-mau-thuan-tinh-cam-o-long-an-20241207112456971.htm) - 06:26 07/12/2024
 - 🐲 [Sát hại bạn nhậu, bỏ xác lên xe lôi chở ra nghĩa trang](https://dantri.com.vn/phap-luat/sat-hai-ban-nhau-bo-xac-len-xe-loi-cho-ra-nghia-trang-20241207125826252.htm) - 06:24 07/12/2024
-- 🌁 [Ghép hình ảnh nạn nhân vào video nhạy cảm để tống tiền](https://dantri.com.vn/phap-luat/ghep-hinh-anh-nan-nhan-vao-video-nhay-cam-de-tong-tien-20241207125344641.htm) - 06:21 07/12/2024
+- 🌁 [Giả danh thám tử, cắt ghép hình ảnh nhạy cảm tống tiền hàng tỷ đồng](https://dantri.com.vn/phap-luat/gia-danh-tham-tu-cat-ghep-hinh-anh-nhay-cam-tong-tien-hang-ty-dong-20241207125344641.htm) - 06:21 07/12/2024
 - 🎃 [Sắp xét xử vụ án chuyến bay giải cứu giai đoạn 2](https://dantri.com.vn/phap-luat/sap-xet-xu-vu-an-chuyen-bay-giai-cuu-giai-doan-2-20241207131351076.htm) - 06:17 07/12/2024
 - 🦅 [Nhiều người mất hàng trăm triệu đồng vì lừa đảo cài app điện lực giả](https://dantri.com.vn/phap-luat/nhieu-nguoi-mat-hang-tram-trieu-dong-vi-lua-dao-cai-app-dien-luc-gia-20241207110742946.htm) - 06:15 07/12/2024
 - 🎭 [Bắt người đàn ông suốt 5 tháng nhắn tin vu khống cán bộ](https://dantri.com.vn/phap-luat/bat-nguoi-dan-ong-suot-5-thang-nhan-tin-vu-khong-can-bo-20241207112328553.htm) - 04:41 07/12/2024
