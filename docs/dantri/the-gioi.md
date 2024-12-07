@@ -4,7 +4,7 @@ sidebar_position: 17
 ---
 
 <!-- dantri-the-gioi:START -->
-- 🌋 [Quốc hội Hàn Quốc bắt đầu bỏ phiếu luận tội Tổng thống](https://dantri.com.vn/the-gioi/quoc-hoi-han-quoc-bat-dau-bo-phieu-luan-toi-tong-thong-20241207154452042.htm) - 08:44 07/12/2024
+- 🌋 [Đảng cầm quyền tẩy chay bỏ phiếu, Tổng thống Hàn Quốc có thể thoát luận tội](https://dantri.com.vn/the-gioi/dang-cam-quyen-tay-chay-bo-phieu-tong-thong-han-quoc-co-the-thoat-luan-toi-20241207154452042.htm) - 08:44 07/12/2024
 - 🎬 [Nhà thờ Đức Bà Paris mở cửa lại sau 5 năm](https://dantri.com.vn/the-gioi/nha-tho-duc-ba-paris-mo-cua-lai-sau-5-nam-20241207142709531.htm) - 07:43 07/12/2024
 - 🧰 [Trên chuyến tàu đặc biệt đưa lãnh đạo thế giới đến Ukraine giữa thời chiến](https://dantri.com.vn/the-gioi/tren-chuyen-tau-dac-biet-dua-lanh-dao-the-gioi-den-ukraine-giua-thoi-chien-20241207135119846.htm) - 06:54 07/12/2024
 - 🌋 [Các nước chuẩn bị thế nào trước kịch bản bị chính quyền Trump 2.0 áp thuế?](https://dantri.com.vn/the-gioi/cac-nuoc-chuan-bi-the-nao-truoc-kich-ban-bi-chinh-quyen-trump-20-ap-thue-20241202103841172.htm) - 06:16 07/12/2024
