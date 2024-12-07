@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Trận derby giữa Everton và Liverpool bị hoãn do bão](https://dantri.com.vn/the-thao/tran-derby-giua-everton-va-liverpool-bi-hoan-do-bao-20241207202200551.htm) - 13:22 07/12/2024
+- 🎡 [Trận đấu giữa Everton và Liverpool bị hoãn do bão](https://dantri.com.vn/the-thao/tran-dau-giua-everton-va-liverpool-bi-hoan-do-bao-20241207202200551.htm) - 13:22 07/12/2024
 - 💯 [FIFA có quyết định quan trọng về AFF Cup, tuyển Việt Nam hưởng lợi](https://dantri.com.vn/the-thao/fifa-co-quyet-dinh-quan-trong-ve-aff-cup-tuyen-viet-nam-huong-loi-20241207192703046.htm) - 12:27 07/12/2024
 - ⛽️ [Cơ hội vô địch của đội tuyển Việt Nam khi đối đầu Indonesia, Thái Lan](https://dantri.com.vn/the-thao/co-hoi-vo-dich-cua-doi-tuyen-viet-nam-khi-doi-dau-indonesia-thai-lan-20241207121025898.htm) - 10:46 07/12/2024
 - 💃 [Chiêm Hồng Thái dừng bước ở bán kết World Cup billiards carom 3 băng](https://dantri.com.vn/the-thao/chiem-hong-thai-dung-buoc-o-ban-ket-world-cup-billiards-carom-3-bang-20241207170928394.htm) - 10:12 07/12/2024
