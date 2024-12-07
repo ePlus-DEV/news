@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [FIFA công nhận ASEAN Cup là giải chính thức](https://vnexpress.net/fifa-cong-nhan-asean-cup-la-giai-chinh-thuc-4825098.html) - 09:49 07/12/2024
+- 🪜 [FIFA công nhận ASEAN Cup 2024 là giải chính thức](https://vnexpress.net/fifa-cong-nhan-asean-cup-2024-la-giai-chinh-thuc-4825098.html) - 09:49 07/12/2024
 - 🦩 [Steve Darby: &#39;Việt Nam nên mang đội U23 dự ASEAN Cup, U19 dự SEA Games&#39;](https://vnexpress.net/steve-darby-viet-nam-nen-mang-doi-u23-du-asean-cup-u19-du-sea-games-4825066.html) - 07:48 07/12/2024
 - 🧰 [Khai mạc giải marathon Quốc tế TP HCMTechcombank](https://vnexpress.net/khai-mac-giai-marathon-quoc-te-tp-hcmtechcombank-4825051.html) - 07:00 07/12/2024
 - 🤗 [Hải Phòng treo thưởng cao nhất nước cho VĐV thể thao](https://vnexpress.net/hai-phong-treo-thuong-cao-nhat-nuoc-cho-vdv-the-thao-4824835.html) - 06:09 07/12/2024
