@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [20.000 khán giả hòa giọng cùng Imagine Dragon](https://vnexpress.net/20-000-khan-gia-hoa-giong-cung-imagine-dragon-4825271.html) - 19:00 08/12/2024
+- 🌏 [20.000 khán giả hòa giọng cùng Imagine Dragons](https://vnexpress.net/20-000-khan-gia-hoa-giong-cung-imagine-dragons-4825271.html) - 19:00 08/12/2024
 - 💫 [Dàn diễn viên &#39;Bí thư tỉnh ủy&#39; ngày ấy, bây giờ](https://vnexpress.net/dan-dien-vien-bi-thu-tinh-uy-ngay-ay-bay-gio-4824117.html) - 17:00 08/12/2024
 - 🌮 [Ca sĩ Thái Lan qua đời ở tuổi 20](https://vnexpress.net/ca-si-thai-lan-qua-doi-o-tuoi-20-4825380.html) - 16:08 08/12/2024
 - 🧠 [Chi Pu, Soobin và dàn sao khuấy động nhạc hội 8Wonder Winter](https://vnexpress.net/chi-pu-soobin-va-dan-sao-khuay-dong-nhac-hoi-8wonder-winter-4825295.html) - 14:00 08/12/2024
