@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Timor Leste 0-4 Thái Lan &lpar;hiệp 2&rpar;: Màn hủy diệt ở Hàng Đẫy](https://dantri.com.vn/the-thao/timor-leste-0-4-thai-lan-hiep-2-man-huy-diet-o-hang-day-20241208194831280.htm) - 12:48 08/12/2024
+- 🎡 [Hủy diệt đối thủ 10-0 ở Hàng Đẫy, Thái Lan thể hiện sức mạnh khủng khiếp](https://dantri.com.vn/the-thao/huy-diet-doi-thu-10-0-o-hang-day-thai-lan-the-hien-suc-manh-khung-khiep-20241208194831280.htm) - 12:48 08/12/2024
 - 💯 [HLV Kim Sang Sik: &quot;Lào đang mạnh lên, tuyển Việt Nam vẫn quyết thắng&quot;](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-lao-dang-manh-len-tuyen-viet-nam-van-quyet-thang-20241208194746179.htm) - 12:48 08/12/2024
 - ⛽️ [HLV tuyển Lào: &quot;Chúng tôi tự tin chơi tốt trước tuyển Việt Nam&quot;](https://dantri.com.vn/the-thao/hlv-tuyen-lao-chung-toi-tu-tin-choi-tot-truoc-tuyen-viet-nam-20241208191218844.htm) - 12:13 08/12/2024
 - 💃 [Sếp lớn tại Man Utd mất việc sau trận thua Nottingham Forest](https://dantri.com.vn/the-thao/sep-lon-tai-man-utd-mat-viec-sau-tran-thua-nottingham-forest-20241208182932831.htm) - 11:32 08/12/2024
