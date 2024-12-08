@@ -4,7 +4,7 @@ sidebar_position: 8
 ---
 
 <!-- dantri-phap-luat:START -->
-- 🌊 [Luật sư nêu quan điểm vụ đoàn xe &quot;ăn bùn thải&quot; ở Đà Nẵng](https://dantri.com.vn/phap-luat/luat-su-neu-quan-diem-vu-doan-xe-an-bun-thai-o-da-nang-20241208204413645.htm) - 14:50 08/12/2024
+- 🌊 [Luật sư nêu quan điểm về vụ đoàn xe &quot;ăn bùn thải&quot; ở Đà Nẵng](https://dantri.com.vn/phap-luat/luat-su-neu-quan-diem-ve-vu-doan-xe-an-bun-thai-o-da-nang-20241208204413645.htm) - 14:50 08/12/2024
 - 🐲 [Nghi phạm khai phá trụ ATM ngân hàng ở TPHCM để trộm tiền](https://dantri.com.vn/phap-luat/nghi-pham-khai-pha-tru-atm-ngan-hang-o-tphcm-de-trom-tien-20241208180548252.htm) - 11:14 08/12/2024
 - 🌁 [Vụ thi thể trên xe lôi ở nghĩa trang: Sát hại bạn nhậu do nhận là &quot;hổ báo&quot;](https://dantri.com.vn/phap-luat/vu-thi-the-tren-xe-loi-o-nghia-trang-sat-hai-ban-nhau-do-nhan-la-ho-bao-20241208164012094.htm) - 10:45 08/12/2024
 - 🎃 [Khởi tố mẹ nuôi tạt nước sôi vào người bé gái 12 tuổi](https://dantri.com.vn/phap-luat/khoi-to-me-nuoi-tat-nuoc-soi-vao-nguoi-be-gai-12-tuoi-20241208154357269.htm) - 09:46 08/12/2024
