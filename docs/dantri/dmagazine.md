@@ -4,7 +4,7 @@ sidebar_position: 27
 ---
 
 <!-- dantri-dmagazine:START -->
-- 👨‍🏫 [Tổng quan AFF Cup 2024: Tuyển Việt Nam tranh hùng với Thái Lan, Indonesia](https://dantri.com.vn/the-thao/tong-quan-aff-cup-2024-tuyen-viet-nam-tranh-hung-voi-thai-lan-indonesia-20241207134355591.htm) - 00:45 08/12/2024
+- 👨‍🏫 [Tổng quan AFF Cup 2024: Tuyển Việt Nam tranh hùng với Thái Lan, Indonesia](https://dantri.com.vn/the-thao/tong-quan-aff-cup-2024-tuyen-viet-nam-tranh-hung-voi-thai-lan-indonesia-20241207134355591.htm) - 00:32 08/12/2024
 - 🎡 [Chồng và cháu gái bà Trương Mỹ Lan được giảm án](https://dantri.com.vn/phap-luat/chong-va-chau-gai-ba-truong-my-lan-duoc-giam-an-20241202102901256.htm) - 05:32 03/12/2024
 - 😎 [Trợ lý HLV Park: &quot;HLV Kim Sang Sik cần tránh nguy cơ như ông Troussier&quot;](https://dantri.com.vn/the-thao/tro-ly-hlv-park-hlv-kim-sang-sik-can-tranh-nguy-co-nhu-ong-troussier-20241129180702497.htm) - 23:44 29/11/2024
 - 🦍 [Đường sắt cao tốc: Cú hích đưa giao thông Việt Nam vươn tầm thế giới](https://dantri.com.vn/khoa-hoc-cong-nghe/duong-sat-cao-toc-cu-hich-dua-giao-thong-viet-nam-vuon-tam-the-gioi-20241126124451919.htm) - 23:00 27/11/2024
