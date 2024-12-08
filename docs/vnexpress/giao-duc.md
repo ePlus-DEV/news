@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nam sinh IT giành cú đúp giải nhất Olympic Vật lý sinh viên](https://vnexpress.net/nam-sinh-it-gianh-cu-dup-giai-nhat-olympic-vat-ly-sinh-vien-4824336.html) - 17:00 08/12/2024
+- 🤓 [Nam sinh IT giành hai giải nhất Vật lý sinh viên toàn quốc](https://vnexpress.net/nam-sinh-it-gianh-hai-giai-nhat-vat-ly-sinh-vien-toan-quoc-4824336.html) - 17:00 08/12/2024
 - 🦆 [Học ngành Ngôn ngữ Anh có thể đi dạy cấp 3?](https://vnexpress.net/hoc-nganh-ngon-ngu-anh-co-the-di-day-cap-3-4824025.html) - 16:59 08/12/2024
 - 🦩 [Dạy Toán không chỉ để giải phương trình, tính đạo hàm](https://vnexpress.net/day-toan-khong-chi-de-giai-phuong-trinh-tinh-dao-ham-4825354.html) - 14:59 08/12/2024
 - 🌮 [&#39;Cha đẻ&#39; của QR code là người nước nào?](https://vnexpress.net/cha-de-cua-qr-code-la-nguoi-nuoc-nao-4825189.html) - 12:00 08/12/2024
