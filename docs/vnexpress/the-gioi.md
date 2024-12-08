@@ -6,10 +6,10 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Nhà thờ Đức Bà Paris rực sáng trong ngày mở cửa trở lại](https://vnexpress.net/nha-tho-duc-ba-paris-ruc-sang-trong-ngay-mo-cua-tro-lai-4825280.html) - 06:35 08/12/2024
 - 🕴 [Châu Âu tìm cách xoa dịu ông Trump](https://vnexpress.net/chau-au-tim-cach-xoa-diu-ong-trump-4824064.html) - 04:00 08/12/2024
-- 🤭 [Phiến quân Syria tuyên bố chính quyền Tổng thống Assad sụp đổ](https://vnexpress.net/thu-do-damascus-that-thu-truoc-phien-quan-tong-thong-assad-roi-syria-4825241.html) - 02:33 08/12/2024
+- 🤭 [Phiến quân Syria tuyên bố chính quyền Tổng thống Assad sụp đổ](https://vnexpress.net/thu-do-damascus-that-thu-truoc-phien-quan-tong-thong-assad-roi-syria-4825241-tong-thuat.html) - 02:33 08/12/2024
 - 🧑‍💻 [Ông Trump gặp Tổng thống Zelensky tại Pháp](https://vnexpress.net/ong-trump-gap-tong-thong-zelensky-tai-phap-4825220.html) - 01:55 08/12/2024
 - 🦏 [Hàn Quốc bắt cựu bộ trưởng quốc phòng](https://vnexpress.net/han-quoc-bat-cuu-bo-truong-quoc-phong-4825210.html) - 00:50 08/12/2024
-- 🦒 [Phiến quân tuyên bố chiếm thành phố lớn thứ ba Syria](https://vnexpress.net/phien-quan-tuyen-bo-chiem-thanh-pho-lon-thu-ba-syria-4825205.html) - 23:49 07/12/2024
+- 🦒 [Phiến quân chiếm thành phố lớn thứ ba Syria](https://vnexpress.net/phien-quan-chiem-thanh-pho-lon-thu-ba-syria-4825205.html) - 23:49 07/12/2024
 - 🌈 [Hệ lụy tiềm ẩn nếu ông Biden ban lệnh ân xá đề phòng](https://vnexpress.net/he-luy-tiem-an-neu-ong-biden-ban-lenh-an-xa-de-phong-4824944.html) - 22:00 07/12/2024
 - 🧑‍🏫 [Thế khó của Nga khi phiến quân trỗi dậy ở Syria](https://vnexpress.net/the-kho-cua-nga-khi-phien-quan-troi-day-o-syria-4824941.html) - 17:00 07/12/2024
 - 🐲 [Ông Trump: Mỹ không nên dính líu đến xung đột Syria](https://vnexpress.net/ong-trump-my-khong-nen-dinh-liu-den-xung-dot-syria-4825182.html) - 16:18 07/12/2024
