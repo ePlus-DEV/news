@@ -27,7 +27,7 @@ sidebar_position: 9
 - 🫣 [Tại sao giun đất xuất hiện nhiều khi trời mưa?](https://vnexpress.net/tai-sao-giun-dat-xuat-hien-nhieu-khi-troi-mua-4825063.html) - 17:00 08/12/2024
 - 🧑‍💻 [Người đàn ông gần 10 năm chạy xe 0 đồng](https://vnexpress.net/nguoi-dan-ong-gan-10-nam-chay-xe-0-dong-4824369.html) - 17:00 08/12/2024
 - 🐲 [Ai quyết định lịch nghỉ Tết Âm lịch 2025 tại công ty tư nhân?](https://vnexpress.net/lich-nghi-tet-am-lich-at-ty-2025-cua-nguoi-lao-dong-tai-cong-ty-tu-nhan-4824356.html) - 17:00 08/12/2024
-- 🌝 [Nam sinh IT giành hai giải nhất Vật lý sinh viên toàn quốc](https://vnexpress.net/nam-sinh-it-gianh-hai-giai-nhat-vat-ly-sinh-vien-toan-quoc-4824336.html) - 17:00 08/12/2024
+- 🌝 [Nam sinh IT giành cú đúp giải nhất Olympic Vật lý sinh viên](https://vnexpress.net/nam-sinh-it-gianh-cu-dup-giai-nhat-olympic-vat-ly-sinh-vien-4824336.html) - 17:00 08/12/2024
 - 😺 [Dàn diễn viên &#39;Bí thư tỉnh ủy&#39; ngày ấy, bây giờ](https://vnexpress.net/dan-dien-vien-bi-thu-tinh-uy-ngay-ay-bay-gio-4824117.html) - 17:00 08/12/2024
 - 🐎 [Cơn giận mất lý trí của ông lão &#39;bẫy ngược&#39; kẻ trộm](https://vnexpress.net/con-gian-mat-ly-tri-cua-ong-lao-bay-nguoc-ke-trom-4823395.html) - 17:00 08/12/2024
 - 🎡 [Dàn ôtô tiền tỷ của Volkswagen tại Triển lãm xe bền vững Việt Nam 2024](https://vnexpress.net/dan-oto-tien-ty-cua-volkswagen-tai-trien-lam-xe-ben-vung-viet-nam-2024-4824247.html) - 17:00 08/12/2024
@@ -56,4 +56,7 @@ sidebar_position: 9
 - 🦩 [Gu mặc phá cách của cháu trai Trịnh Công Sơn](https://vnexpress.net/gu-mac-pha-cach-cua-chau-trai-trinh-cong-son-4824080.html) - 13:00 08/12/2024
 - 👍 [Người đập vỡ kính ôtô sau va chạm giao thông bị bắt](https://vnexpress.net/tai-xe-dap-vo-kinh-oto-sau-va-cham-giao-thong-bi-bat-4825353.html) - 12:44 08/12/2024
 - 🔥 [Đại sứ quán Iran ở Syria bị cướp phá](https://vnexpress.net/dai-su-quan-iran-o-syria-bi-cuop-pha-4825350.html) - 12:40 08/12/2024
-- 💄 [Mật ong bị kiến bu nhiều có phải hàng giả?](https://vnexpress.net/mat-ong-bi-kien-bu-nhieu-co-phai-hang-gia-4823452.html) - 12:28 08/12/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 💄 [Mật ong bị kiến bu nhiều có phải hàng giả?](https://vnexpress.net/mat-ong-bi-kien-bu-nhieu-co-phai-hang-gia-4823452.html) - 12:28 08/12/2024
+- 🤡 [Cảnh sát công bố nguyên nhân minh tinh Nhật qua đời](https://vnexpress.net/canh-sat-cong-bo-nguyen-nhan-minh-tinh-nhat-qua-doi-4825343.html) - 12:18 08/12/2024
+- ⛽️ [Syria trong ngày phiến quân lật đổ chính quyền Tổng thống Assad](https://vnexpress.net/syria-trong-ngay-phien-quan-lat-do-chinh-quyen-tong-thong-assad-4825346.html) - 12:14 08/12/2024
+- 🚀 [HLV Lào: &#39;Chúng tôi muốn chứng tỏ khả năng trước Việt Nam&#39;](https://vnexpress.net/hlv-lao-chung-toi-muon-chung-to-kha-nang-truoc-viet-nam-4825316.html) - 12:14 08/12/2024<!-- vnexpress-tin-moi-nhat:END -->
