@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Ông nội tặng cháu đất, có cần đồng ý của các con?](https://vnexpress.net/ong-noi-tang-cho-chau-dat-co-can-su-dong-y-cua-cac-con-4823159.html) - 02:16 08/12/2024
 - 🥰 [Rủ 2 bạn vào TP HCM chơi để lừa bán sang Campuchia](https://vnexpress.net/ru-2-ban-vao-tp-hcm-choi-de-lua-ban-sang-campuchia-4825141.html) - 17:00 07/12/2024
 - 🎓 [Phi vụ buôn tiền giả &#39;lãi 3.500 lần&#39;](https://vnexpress.net/phi-vu-buon-tien-gia-lai-3-500-lan-4825139.html) - 17:00 07/12/2024
-- 🤓 [Kỳ án khách giấu mặt thuê phòng trọ 14 năm giấu thi thể người tình](https://vnexpress.net/ky-an-thi-the-hai-me-con-giau-14-nam-trong-nha-tro-4824737.html) - 17:00 07/12/2024
+- 🤓 [Kỳ án khách &#39;không lộ mặt&#39; thuê phòng 14 năm giấu thi thể người tình](https://vnexpress.net/ky-an-thi-the-hai-me-con-giau-14-nam-trong-nha-tro-4824737.html) - 17:00 07/12/2024
 - 🎊 [Cuộc gọi mạo danh EVN yêu cầu người dân cài app lạ](https://vnexpress.net/cuoc-goi-mao-danh-evn-yeu-cau-nguoi-dan-cai-app-la-4822922.html) - 17:00 07/12/2024
 - 🙉 [Lái xe tải &#39;hất&#39; người lên cản trước bị bắt](https://vnexpress.net/lai-xe-tai-hat-nguoi-len-can-truoc-bi-bat-4825146.html) - 12:01 07/12/2024
 - 🤡 [Sai phạm của 6 cán bộ trong vụ cháy chung cư mini 56 người chết](https://vnexpress.net/sai-pham-cua-6-can-bo-trong-vu-chay-chung-cu-mini-56-nguoi-chet-4825124.html) - 11:10 07/12/2024
