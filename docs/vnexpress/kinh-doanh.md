@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Số thu thuế thu nhập cá nhân 11 tháng vượt kế hoạch cả năm 10.000 tỷ đồng](https://vnexpress.net/so-thu-thue-thu-nhap-ca-nhan-11-thang-vuot-ke-hoach-ca-nam-10-000-ty-dong-4825364.html) - 14:07 08/12/2024
+- ⛽️ [Tiền thuế thu nhập cá nhân 11 tháng vượt kế hoạch cả năm 10.000 tỷ đồng](https://vnexpress.net/tien-thue-thu-nhap-ca-nhan-11-thang-vuot-ke-hoach-ca-nam-10-000-ty-dong-4825364.html) - 14:07 08/12/2024
 - 🐲 [Giá vàng khó đột biến tuần tới](https://vnexpress.net/gia-vang-kho-dot-bien-tuan-toi-4825288.html) - 13:20 08/12/2024
 - 🔥 [Vingroup xây nhà máy sản xuất ôtô điện 7.300 tỷ đồng ở Hà Tĩnh](https://vnexpress.net/vingroup-xay-nha-may-san-xuat-oto-dien-7-300-ty-dong-o-ha-tinh-4825185.html) - 07:27 08/12/2024
 - 🐵 [Thủ tướng: Đường dây 500 kV mạch 3 cho thấy &#39;không gì là không thể&#39;](https://vnexpress.net/thu-tuong-duong-day-500-kv-mach-3-cho-thay-khong-gi-la-khong-the-4825308.html) - 07:15 08/12/2024
