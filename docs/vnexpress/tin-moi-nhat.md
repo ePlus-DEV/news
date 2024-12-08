@@ -15,7 +15,7 @@ sidebar_position: 9
 - 🫶 [Cảnh sát công bố nguyên nhân minh tinh Nhật qua đời](https://vnexpress.net/canh-sat-cong-bo-nguyen-nhan-minh-tinh-nhat-qua-doi-4825343.html) - 12:18 08/12/2024
 - 🪜 [Syria trong ngày phiến quân lật đổ chính quyền Tổng thống Assad](https://vnexpress.net/syria-trong-ngay-phien-quan-lat-do-chinh-quyen-tong-thong-assad-4825346.html) - 12:14 08/12/2024
 - 👨‍🏫 [HLV Lào: &#39;Chúng tôi muốn chứng tỏ khả năng trước Việt Nam&#39;](https://vnexpress.net/hlv-lao-chung-toi-muon-chung-to-kha-nang-truoc-viet-nam-4825316.html) - 12:14 08/12/2024
-- 🎊 [Timor Leste 0-4 Thái Lan &lpar;H1&rpar;: &#39;Mưa&#39; bàn thắng](https://vnexpress.net/truc-tiep-tran-timor-leste-vs-thai-lan-tai-vong-bang-asean-cup-2024-4825332.html) - 12:00 08/12/2024
+- 🎊 [Timor Leste 0-2 Thái Lan &lpar;H1&rpar;: Hai cầu thủ lai ghi bàn](https://vnexpress.net/truc-tiep-tran-timor-leste-vs-thai-lan-tai-vong-bang-asean-cup-2024-4825332.html) - 12:00 08/12/2024
 - 🎊 [HLV Kim Sang-sik: &#39;Việt Nam cần thắng Lào để tạo đà đấu Indonesia&#39;](https://vnexpress.net/hlv-kim-sang-sik-viet-nam-can-thang-lao-de-tao-da-dau-indonesia-4825319.html) - 12:00 08/12/2024
 - 😺 [&#39;Cha đẻ&#39; của QR code là người nước nào?](https://vnexpress.net/cha-de-cua-qr-code-la-nguoi-nuoc-nao-4825189.html) - 12:00 08/12/2024
 - 🐘 [FBI chia sẻ bí kíp đối phó lừa đảo AI](https://vnexpress.net/fbi-chia-se-bi-kip-doi-pho-lua-dao-ai-4824083.html) - 12:00 08/12/2024
