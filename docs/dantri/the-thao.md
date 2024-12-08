@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Timor Leste 0-0 Thái Lan &lpar;hiệp 1&rpar;: &quot;Voi chiến&quot; tự tin thắng đậm](https://dantri.com.vn/the-thao/timor-leste-0-0-thai-lan-hiep-1-voi-chien-tu-tin-thang-dam-20241208194831280.htm) - 12:48 08/12/2024
-- 💯 [HLV Kim Sang Sik nói gì trong lần đầu dự AFF Cup?](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-noi-gi-trong-lan-dau-du-aff-cup-20241208194746179.htm) - 12:48 08/12/2024
+- 🎡 [Timor Leste 0-2 Thái Lan &lpar;hiệp 1&rpar;: Không thể cưỡng nổi](https://dantri.com.vn/the-thao/timor-leste-0-2-thai-lan-hiep-1-khong-the-cuong-noi-20241208194831280.htm) - 12:48 08/12/2024
+- 💯 [HLV Kim Sang Sik: &quot;Tuyển Việt Nam cố gắng đạt thành tích tốt nhất&quot;](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-tuyen-viet-nam-co-gang-dat-thanh-tich-tot-nhat-20241208194746179.htm) - 12:48 08/12/2024
 - ⛽️ [HLV tuyển Lào: &quot;Chúng tôi tự tin chơi tốt trước tuyển Việt Nam&quot;](https://dantri.com.vn/the-thao/hlv-tuyen-lao-chung-toi-tu-tin-choi-tot-truoc-tuyen-viet-nam-20241208191218844.htm) - 12:13 08/12/2024
 - 💃 [Sếp lớn tại Man Utd mất việc sau trận thua Nottingham Forest](https://dantri.com.vn/the-thao/sep-lon-tai-man-utd-mat-viec-sau-tran-thua-nottingham-forest-20241208182932831.htm) - 11:32 08/12/2024
 - 🌈 [Báo châu Á: &quot;Tuyển Việt Nam thống trị, Indonesia có thể phải trả giá&quot;](https://dantri.com.vn/the-thao/bao-chau-a-tuyen-viet-nam-thong-tri-indonesia-co-the-phai-tra-gia-20241208180155241.htm) - 11:16 08/12/2024
