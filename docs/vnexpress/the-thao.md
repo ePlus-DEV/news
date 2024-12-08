@@ -6,8 +6,8 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Campuchia rơi chiến thắng trước Malaysia ở ASEAN Cup 2024](https://vnexpress.net/campuchia-roi-chien-thang-truoc-malaysia-o-asean-cup-2024-4824834.html) - 13:06 08/12/2024
 - 🦩 [HLV Lào: &#39;Chúng tôi muốn chứng tỏ khả năng trước Việt Nam&#39;](https://vnexpress.net/hlv-lao-chung-toi-muon-chung-to-kha-nang-truoc-viet-nam-4825316.html) - 12:14 08/12/2024
-- 🧰 [Timor Leste 0-4 Thái Lan &lpar;H1&rpar;: &#39;Mưa&#39; bàn thắng ở Hàng Đẫy](https://vnexpress.net/truc-tiep-tran-timor-leste-vs-thai-lan-tai-vong-bang-asean-cup-2024-4825332.html) - 12:00 08/12/2024
-- 🤗 [HLV Kim Sang-sik: &#39;Việt Nam cần thắng Lào để tạo đà đấu Indonesia&#39;](https://vnexpress.net/hlv-kim-sang-sik-viet-nam-can-thang-lao-de-tao-da-dau-indonesia-4825319.html) - 12:00 08/12/2024
+- 🧰 [Timor Leste 0-4 Thái Lan &lpar;H2&rpar;: Chờ kỷ lục ở Hàng Đẫy](https://vnexpress.net/truc-tiep-tran-timor-leste-vs-thai-lan-tai-vong-bang-asean-cup-2024-4825332.html) - 12:00 08/12/2024
+- 🤗 [HLV Kim Sang-sik: &#39;Lào cũng là một thử thách&#39;](https://vnexpress.net/hlv-kim-sang-sik-lao-cung-la-mot-thu-thach-4825319.html) - 12:00 08/12/2024
 - 🥳 [Flick phân bua sau khi bị truất quyền chỉ đạo](https://vnexpress.net/flick-phan-bua-sau-khi-bi-truat-quyen-chi-dao-4825348.html) - 11:12 08/12/2024
 - 🦣 [Báo Anh: &#39;Salah đồng ý gia hạn với Liverpool&#39;](https://vnexpress.net/bao-anh-salah-dong-y-gia-han-voi-liverpool-4825345.html) - 11:06 08/12/2024
 - 🌜 [Sao Ngoại hạng Anh nhập viện sau tai nạn giao thông](https://vnexpress.net/sao-ngoai-hang-anh-nhap-vien-sau-tai-nan-giao-thong-4825217.html) - 05:35 08/12/2024
