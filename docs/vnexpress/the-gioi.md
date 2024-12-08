@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Châu Âu tìm cách xoa dịu ông Trump](https://vnexpress.net/chau-au-tim-cach-xoa-diu-ong-trump-4824064.html) - 04:00 08/12/2024
-- 🕴 [Thủ đô Damascus thất thủ trước phiến quân, Tổng thống Assad &#39;rời Syria&#39;](https://vnexpress.net/thu-do-damascus-that-thu-truoc-phien-quan-tong-thong-assad-roi-syria-4825241.html) - 02:33 08/12/2024
+- 🕴 [Phiến quân Syria tuyên bố chính quyền Tổng thống Assad sụp đổ](https://vnexpress.net/thu-do-damascus-that-thu-truoc-phien-quan-tong-thong-assad-roi-syria-4825241.html) - 02:33 08/12/2024
 - 🤭 [Ông Trump gặp Tổng thống Zelensky tại Pháp](https://vnexpress.net/ong-trump-gap-tong-thong-zelensky-tai-phap-4825220.html) - 01:55 08/12/2024
 - 🧑‍💻 [Hàn Quốc bắt cựu bộ trưởng quốc phòng](https://vnexpress.net/han-quoc-bat-cuu-bo-truong-quoc-phong-4825210.html) - 00:50 08/12/2024
 - 🦏 [Phiến quân tuyên bố chiếm thành phố lớn thứ ba Syria](https://vnexpress.net/phien-quan-tuyen-bo-chiem-thanh-pho-lon-thu-ba-syria-4825205.html) - 23:49 07/12/2024
