@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Phiến quân Syria tiến vào thủ đô Damascus](https://vnexpress.net/phien-quan-syria-tien-vao-thu-do-damascus-4825241.html) - 02:33 08/12/2024
+- 🎭 [Phiến quân tiến vào thủ đô Damascus, Tổng thống Assad có thể đã rời Syria](https://vnexpress.net/phien-quan-tien-vao-thu-do-damascus-tong-thong-assad-co-the-da-roi-syria-4825241.html) - 02:33 08/12/2024
 - 🕴 [Ông Trump gặp Tổng thống Zelensky tại Pháp](https://vnexpress.net/ong-trump-gap-tong-thong-zelensky-tai-phap-4825220.html) - 01:55 08/12/2024
 - 🤭 [Hàn Quốc bắt cựu bộ trưởng quốc phòng](https://vnexpress.net/han-quoc-bat-cuu-bo-truong-quoc-phong-4825210.html) - 00:50 08/12/2024
 - 🧑‍💻 [Phiến quân tuyên bố chiếm thành phố lớn thứ ba Syria](https://vnexpress.net/phien-quan-tuyen-bo-chiem-thanh-pho-lon-thu-ba-syria-4825205.html) - 23:49 07/12/2024
