@@ -4,7 +4,7 @@ sidebar_position: 17
 ---
 
 <!-- dantri-the-gioi:START -->
-- 🌋 [Phiến quân nổi loạn Syria tiến vào thủ đô Damascus](https://dantri.com.vn/the-gioi/phien-quan-noi-loan-syria-tien-vao-thu-do-damascus-20241208094649325.htm) - 02:48 08/12/2024
+- 🌋 [Damascus có thể đã thất thủ, Tổng thống Assad nghi rời thủ đô](https://dantri.com.vn/the-gioi/damascus-co-the-da-that-thu-tong-thong-assad-nghi-roi-thu-do-20241208094649325.htm) - 02:48 08/12/2024
 - 🎬 [Ukraine tung vũ khí &quot;Địa ngục&quot; đe dọa phòng tuyến Nga](https://dantri.com.vn/the-gioi/ukraine-tung-vu-khi-dia-nguc-de-doa-phong-tuyen-nga-20241207074535281.htm) - 02:36 08/12/2024
 - 🧰 [Xung đột tại Syria tác động thế nào đến các bên liên quan?](https://dantri.com.vn/the-gioi/xung-dot-tai-syria-tac-dong-the-nao-den-cac-ben-lien-quan-20241208092730777.htm) - 02:28 08/12/2024
 - 🌋 [Hàn Quốc bắt cựu bộ trưởng quốc phòng](https://dantri.com.vn/the-gioi/han-quoc-bat-cuu-bo-truong-quoc-phong-20241208081140834.htm) - 01:12 08/12/2024
