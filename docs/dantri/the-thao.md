@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Tỷ phú Jim Ratcliffe: &quot;Man Utd đã trở nên tầm thường&quot;](https://dantri.com.vn/the-thao/ty-phu-jim-ratcliffe-man-utd-da-tro-nen-tam-thuong-20241208084118404.htm) - 06:36 08/12/2024
-- 💯 [Ngôi sao Man Utd có hành động gây phẫn nộ sau thất bại](https://dantri.com.vn/the-thao/ngoi-sao-man-utd-co-hanh-dong-gay-phan-no-sau-that-bai-20241208125322730.htm) - 05:53 08/12/2024
+- 🎡 [Ngôi sao Man Utd có hành động gây phẫn nộ sau thất bại](https://dantri.com.vn/the-thao/ngoi-sao-man-utd-co-hanh-dong-gay-phan-no-sau-that-bai-20241208125322730.htm) - 07:01 08/12/2024
+- 💯 [Tỷ phú Jim Ratcliffe: &quot;Man Utd đã trở nên tầm thường&quot;](https://dantri.com.vn/the-thao/ty-phu-jim-ratcliffe-man-utd-da-tro-nen-tam-thuong-20241208084118404.htm) - 06:36 08/12/2024
 - ⛽️ [HLV Guardiola: &quot;Man City không dám nghĩ đến chuyện vô địch Premier League&quot;](https://dantri.com.vn/the-thao/hlv-guardiola-man-city-khong-dam-nghi-den-chuyen-vo-dich-premier-league-20241208081727703.htm) - 01:44 08/12/2024
 - 💃 [HLV Amorim nêu nguyên nhân khiến Man Utd thua liên tiếp](https://dantri.com.vn/the-thao/hlv-amorim-neu-nguyen-nhan-khien-man-utd-thua-lien-tiep-20241208073113861.htm) - 00:42 08/12/2024
 - 🌈 [Hôm nay khai mạc AFF Cup 2024: Thái Lan và Malaysia xuất trận](https://dantri.com.vn/the-thao/hom-nay-khai-mac-aff-cup-2024-thai-lan-va-malaysia-xuat-tran-20241207234347120.htm) - 00:33 08/12/2024
