@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Arsenal thoát thua nhờ bàn việt vị](https://vnexpress.net/arsenal-thoat-thua-nho-ban-viet-vi-4825383.html) - 16:10 08/12/2024
+- 🪜 [Arsenal bị chia điểm ở Ngoại hạng Anh](https://vnexpress.net/arsenal-bi-chia-diem-o-ngoai-hang-anh-4825383.html) - 16:10 08/12/2024
 - 🦩 [Tuyển Việt Nam thoải mái trước trận ra quân ASEAN Cup 2024](https://vnexpress.net/tuyen-viet-nam-thoai-mai-truoc-tran-ra-quan-asean-cup-2024-4824440.html) - 16:07 08/12/2024
 - 🧰 [McLaren lần đầu vô địch F1 sau 26 năm](https://vnexpress.net/mclaren-lan-dau-vo-dich-f1-sau-26-nam-4825381.html) - 15:58 08/12/2024
 - 🤗 [Trung vệ Đỗ Duy Mạnh: &#39;Thắng Lào là mệnh lệnh&#39;](https://vnexpress.net/trung-ve-do-duy-manh-thang-lao-la-menh-lenh-4825368.html) - 14:26 08/12/2024
