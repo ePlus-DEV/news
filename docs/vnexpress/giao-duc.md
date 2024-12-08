@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Cha đẻ của QR code là người nước nào?](https://vnexpress.net/cha-de-cua-qr-code-la-nguoi-nuoc-nao-4825189.html) - 12:00 08/12/2024
+- 🤓 [&#39;Cha đẻ&#39; của QR code là người nước nào?](https://vnexpress.net/cha-de-cua-qr-code-la-nguoi-nuoc-nao-4825189.html) - 12:00 08/12/2024
 - 🦆 [Canada siết giấy phép lao động với du học sinh bậc cao đẳng](https://vnexpress.net/canada-siet-giay-phep-lao-dong-voi-du-hoc-sinh-bac-cao-dang-4824769.html) - 09:18 08/12/2024
 - 🦩 [5 cách nói &#39;I&#39;m sorry&#39; trong tiếng Anh](https://vnexpress.net/5-cach-noi-i-m-sorry-trong-tieng-anh-4825140.html) - 03:00 08/12/2024
 - 🌮 [Nam sinh Tuyên Quang đạt điểm SAT top 1% thế giới](https://vnexpress.net/nam-sinh-tuyen-quang-dat-diem-sat-top-1-the-gioi-4824862.html) - 00:05 08/12/2024
