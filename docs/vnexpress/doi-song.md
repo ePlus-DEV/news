@@ -4,12 +4,12 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Bốn món dưa muối cho bữa cơm ngày đông](https://vnexpress.net/bon-mon-dua-muoi-cho-bua-com-ngay-dong-4825095.html) - 08:20 08/12/2024
+- 🚀 [Bốn món dưa muối cho bữa cơm ngày đông](https://vnexpress.net/doi-song-cooking-bon-mon-dua-muoi-cho-bua-com-ngay-dong-4825095.html) - 08:20 08/12/2024
 - 🎓 [Gen Z Trung Quốc chăm sóc da bằng nước lã để tiết kiệm](https://vnexpress.net/gen-z-trung-quoc-cham-soc-da-bang-nuoc-la-de-tiet-kiem-4825123.html) - 06:35 08/12/2024
 - 🚦 [4 hối tiếc của cha mẹ có con thành đạt](https://vnexpress.net/4-hoi-tiec-cua-cha-me-co-con-thanh-dat-4825148.html) - 01:34 08/12/2024
 - 🦣 [&#39;Đứt gánh&#39; giấc mơ nhà Hà Nội, vợ chồng về xây biệt thự ở quê](https://vnexpress.net/dut-ganh-giac-mo-nha-ha-noi-vo-chong-ve-xay-biet-thu-o-que-4823675.html) - 23:00 07/12/2024
 - 🎓 [Hàng trăm người bám hàng rào &#39;đu&#39; concert Anh Trai Say Hi](https://vnexpress.net/hang-tram-nguoi-bam-hang-rao-du-concert-anh-trai-say-hi-4825179.html) - 17:00 07/12/2024
-- 🎭 [Su hào nấu mực kiểu Hà Nội xưa](https://vnexpress.net/su-hao-nau-muc-kieu-ha-noi-xua-4824722.html) - 09:43 07/12/2024
+- 🎭 [Su hào nấu mực kiểu Hà Nội xưa](https://vnexpress.net/doi-song-cooking-su-hao-nau-muc-kieu-ha-noi-xua-4824722.html) - 09:43 07/12/2024
 - 🦅 [Xếp hàng hơn 10 tiếng chờ xem concert](https://vnexpress.net/xep-hang-hon-10-tieng-cho-xem-concert-4825073.html) - 08:08 07/12/2024
 - 🎃 [Lý do phụ nữ chán chồng](https://vnexpress.net/ly-do-phu-nu-chan-chong-4824992.html) - 04:53 07/12/2024
 - 💪 [Công nghệ giữ tươi trên cháo TH true Food](https://vnexpress.net/cong-nghe-giu-tuoi-tren-chao-th-true-food-4824976.html) - 03:00 07/12/2024
@@ -22,7 +22,7 @@ sidebar_position: 6
 - 🧑‍🏫 [Hành trình tìm việc của người đàn ông thất nghiệp ở tuổi 53](https://vnexpress.net/hanh-trinh-tim-viec-cua-nguoi-dan-ong-that-nghiep-o-tuoi-53-4823682.html) - 01:57 06/12/2024
 - 🧰 [Những tiểu thương phất lên nhờ livestream](https://vnexpress.net/nhung-tieu-thuong-phat-len-nho-livestream-4823417.html) - 23:00 05/12/2024
 - 🪄 [Tìm mọi cách phòng sốt xuất huyết](https://vnexpress.net/tim-moi-cach-phong-sot-xuat-huyet-4824360.html) - 12:00 05/12/2024
-- 🐲 [Nem tôm thịt kiểu Bắc](https://vnexpress.net/nem-tom-thit-kieu-bac-4824337.html) - 10:48 05/12/2024
+- 🐲 [Nem tôm thịt kiểu Bắc](https://vnexpress.net/doi-song-cooking-nem-tom-thit-kieu-bac-4824337.html) - 10:48 05/12/2024
 - 💻 [Lý do mẹ ăn nhiều mà thai nhi không lên cân](https://vnexpress.net/ly-do-me-an-nhieu-ma-thai-nhi-khong-len-can-4824148.html) - 10:00 05/12/2024
 - 🐘 [3 sai lầm khi đề xuất tăng lương](https://vnexpress.net/3-sai-lam-khi-de-xuat-tang-luong-4824212.html) - 09:45 05/12/2024
 - 🎬 [Người Mỹ nuông chiều thú cưng quá mức](https://vnexpress.net/nguoi-my-nuong-chieu-thu-cung-qua-muc-4824253.html) - 07:59 05/12/2024
@@ -38,7 +38,7 @@ sidebar_position: 6
 - 🤔 [Chiến đấu với ung thư để trở lại giảng đường](https://vnexpress.net/chien-dau-voi-ung-thu-de-tro-lai-giang-duong-4822306.html) - 23:00 03/12/2024
 - 🧰 [Bùng nổ livestream về bỏ việc](https://vnexpress.net/bung-no-livestream-ve-bo-viec-4823220.html) - 22:32 03/12/2024
 - 😎 [CEO Benjamin Rachow: L&#39;Oréal Việt Nam tiếp tục hỗ trợ phụ nữ khó khăn](https://vnexpress.net/ceo-benjamin-rachow-l-oreal-viet-nam-tiep-tuc-ho-tro-phu-nu-kho-khan-4823345.html) - 10:00 03/12/2024
-- 🌮 [Ba chỉ luộc kèm giấm ghém kiểu cổ](https://vnexpress.net/ba-chi-luoc-kem-giam-ghem-kieu-co-4823317.html) - 09:43 03/12/2024
+- 🌮 [Ba chỉ luộc kèm giấm ghém kiểu cổ](https://vnexpress.net/doi-song-cooking-ba-chi-luoc-kem-giam-ghem-kieu-co-4823317.html) - 09:43 03/12/2024
 - 🧠 [Vì sao phụ nữ thích độc thân hơn nam giới?](https://vnexpress.net/vi-sao-phu-nu-thich-doc-than-hon-nam-gioi-4822756.html) - 04:35 03/12/2024
 - 🎡 [Trại cứu hộ 800 con chó của người đàn ông Hà Nội](https://vnexpress.net/trai-cuu-ho-800-con-cho-cua-nguoi-dan-ong-ha-noi-4821169.html) - 01:37 03/12/2024
 - 🎡 [Bốn năm đối đầu với trầm cảm của &#39;cô gái hay cười&#39;](https://vnexpress.net/bon-nam-doi-dau-voi-tram-cam-cua-co-gai-hay-cuoi-4822225.html) - 23:00 02/12/2024
@@ -50,14 +50,14 @@ sidebar_position: 6
 - 🦩 [Kết đẹp của người mẹ trẻ hiến gan cứu con](https://vnexpress.net/ket-dep-cua-nguoi-me-tre-hien-gan-cuu-con-4822023.html) - 17:00 01/12/2024
 - 😺 [Nghệ sĩ, nhà sáng tạo nội dung nói gì về Vietnam iContent?](https://vnexpress.net/nghe-si-nha-sang-tao-noi-dung-noi-gi-ve-vietnam-icontent-4822443.html) - 12:00 01/12/2024
 - 🐻 [Đạo diễn Trần Thành Trung: &#39;Tôi vui vì đóng góp cho Vietnam iContent&#39;](https://vnexpress.net/dao-dien-tran-thanh-trung-toi-vui-vi-dong-gop-cho-vietnam-icontent-4822501.html) - 10:00 01/12/2024
-- 🎬 [Vì sao cá kho ngon hơn khi nấu hai lửa?](https://vnexpress.net/vi-sao-ca-kho-ngon-hon-khi-nau-hai-lua-4822518.html) - 09:51 01/12/2024
+- 🎬 [Vì sao cá kho ngon hơn khi nấu hai lửa?](https://vnexpress.net/doi-song-cooking-vi-sao-ca-kho-ngon-hon-khi-nau-hai-lua-4822518.html) - 09:51 01/12/2024
 - 🎊 [Meta đem Threads đến gần cộng đồng sáng tạo nội dung](https://vnexpress.net/meta-dem-threads-den-gan-cong-dong-sang-tao-noi-dung-4822523.html) - 09:30 01/12/2024
 - 💄 [ViruSs: &#39;Không trường lớp nào dạy sáng tạo nội dung&#39;](https://vnexpress.net/viruss-khong-truong-lop-nao-day-sang-tao-noi-dung-4822420.html) - 08:00 01/12/2024
 - 🏊 [Xin ngủ nhờ suốt 5 năm để tiết kiệm tiền](https://vnexpress.net/xin-ngu-nho-suot-5-nam-de-tiet-kiem-tien-4822406.html) - 07:57 01/12/2024
 - 🌜 [Cục trưởng Lê Quang Tự Do: Nội dung &#39;sạch&#39; giúp ngành sáng tạo số bền vững](https://vnexpress.net/cuc-truong-le-quang-tu-do-noi-dung-sach-giup-nganh-sang-tao-so-ben-vung-4822322.html) - 07:00 01/12/2024
 - 🤡 [H&#39;Hen Niê cùng Quyền Linh nhận giải &#39;Cá nhân vì cộng đồng&#39;](https://vnexpress.net/h-hen-nie-cung-quyen-linh-nhan-giai-ca-nhan-vi-cong-dong-4822435.html) - 05:15 01/12/2024
 - 🥰 [FPT Play thắng giải &#39;Nền tảng giải trí của năm&#39;](https://vnexpress.net/fpt-play-thang-giai-nen-tang-giai-tri-cua-nam-4822365.html) - 04:00 01/12/2024
-- 🦍 [Thứ tự nêm gia vị khi nấu ăn không phải ai cũng biết](https://vnexpress.net/thu-tu-nem-gia-vi-khi-nau-an-khong-phai-ai-cung-biet-4822382.html) - 03:37 01/12/2024
+- 🦍 [Thứ tự nêm gia vị khi nấu ăn không phải ai cũng biết](https://vnexpress.net/doi-song-cooking-thu-tu-nem-gia-vi-khi-nau-an-khong-phai-ai-cung-biet-4822382.html) - 03:37 01/12/2024
 - 🫣 [Hai show &#39;anh trai&#39; được vinh danh ở Vietnam iContent Awards 2024](https://vnexpress.net/hai-show-anh-trai-duoc-vinh-danh-o-vietnam-icontent-awards-2024-4822361.html) - 03:00 01/12/2024
 - 🚦 [Khoai Lang Thang: &#39;Cảm xúc chân thật giúp video chạm trái tim khán giả&#39;](https://vnexpress.net/khoai-lang-thang-cam-xuc-chan-that-giup-video-cham-trai-tim-khan-gia-4822360.html) - 03:00 01/12/2024
 - 🐘 [Khánh Vy, Ninh Anh Bùi thắng giải nhà sáng tạo số ở Vietnam iContent Awards 2024](https://vnexpress.net/khanh-vy-ninh-anh-bui-thang-giai-nha-sang-tao-so-o-vietnam-icontent-awards-2024-4822366.html) - 02:00 01/12/2024
