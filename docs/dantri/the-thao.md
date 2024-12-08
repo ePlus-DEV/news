@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Báo châu Á: &quot;Tuyển Việt Nam thống trị, Indonesia có thể phải trả giá&quot;](https://dantri.com.vn/the-thao/bao-chau-a-tuyen-viet-nam-thong-tri-indonesia-co-the-phai-tra-gia-20241208180155241.htm) - 11:01 08/12/2024
-- 💯 [Campuchia 0-0 Malaysia &lpar;h1&rpar;: Cầu thủ Malaysia suýt đốt lưới nhà](https://dantri.com.vn/the-thao/campuchia-0-0-malaysia-h1-cau-thu-malaysia-suyt-dot-luoi-nha-20241208173437678.htm) - 10:34 08/12/2024
+- 💯 [Campuchia 0-1 Malaysia &lpar;h1&rpar;: Cú đánh đầu không thể cản phá](https://dantri.com.vn/the-thao/campuchia-0-1-malaysia-h1-cu-danh-dau-khong-the-can-pha-20241208173437678.htm) - 10:34 08/12/2024
 - ⛽️ [Báo Thái bình chọn Tiến Linh, Quang Hải là cầu thủ đáng xem ở AFF Cup 2024](https://dantri.com.vn/the-thao/bao-thai-binh-chon-tien-linh-quang-hai-la-cau-thu-dang-xem-o-aff-cup-2024-20241208160803156.htm) - 09:14 08/12/2024
 - 💃 [Ngôi sao Man Utd có hành động gây phẫn nộ sau thất bại](https://dantri.com.vn/the-thao/ngoi-sao-man-utd-co-hanh-dong-gay-phan-no-sau-that-bai-20241208125322730.htm) - 07:01 08/12/2024
 - 🌈 [Tỷ phú Jim Ratcliffe: &quot;Man Utd đã trở nên tầm thường&quot;](https://dantri.com.vn/the-thao/ty-phu-jim-ratcliffe-man-utd-da-tro-nen-tam-thuong-20241208084118404.htm) - 06:36 08/12/2024
