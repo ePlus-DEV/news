@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [20.000 khán giả hòa giọng cùng Imagine Dragon](https://vnexpress.net/20-000-khan-gia-hoa-giong-cung-imagine-dragon-4825271.html) - 19:00 08/12/2024
+- 🚀 [20.000 khán giả hòa giọng cùng Imagine Dragons](https://vnexpress.net/20-000-khan-gia-hoa-giong-cung-imagine-dragons-4825271.html) - 19:00 08/12/2024
 - 🧰 [Chelsea thắng ngược Tottenham để lên nhì bảng Ngoại hạng Anh](https://vnexpress.net/chelsea-thang-nguoc-tottenham-de-len-nhi-bang-ngoai-hang-anh-4825392.html) - 18:31 08/12/2024
 - 🥰 [Phe đối lập Syria đề xuất 18 tháng chuyển tiếp trước bầu cử](https://vnexpress.net/phe-doi-lap-syria-de-xuat-18-thang-chuyen-tiep-truoc-bau-cu-4825352.html) - 18:16 08/12/2024
 - 🌏 [Dùng bao cao su có lây bệnh tình dục không?](https://vnexpress.net/dung-bao-cao-su-co-lay-benh-tinh-duc-khong-4825268.html) - 18:00 08/12/2024
