@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [HLV Lào chia sẻ sau trận thua đậm đội tuyển Việt Nam](https://dantri.com.vn/the-thao/hlv-lao-chia-se-sau-tran-thua-dam-doi-tuyen-viet-nam-20241209220408736.htm) - 15:05 09/12/2024
+- 🎡 [HLV Lào: &quot;Đội tuyển Việt Nam có thể đạt đến trình độ Nhật Bản, Hàn Quốc&quot;](https://dantri.com.vn/the-thao/hlv-lao-doi-tuyen-viet-nam-co-the-dat-den-trinh-do-nhat-ban-han-quoc-20241209220408736.htm) - 15:05 09/12/2024
 - 💯 [HLV Kim Sang Sik trả lời họp báo sau trận thắng đậm Lào](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-tra-loi-hop-bao-sau-tran-thang-dam-lao-20241209215144875.htm) - 14:58 09/12/2024
 - ⛽️ [Báo Indonesia bình luận về đội tuyển Việt Nam ở vòng loại Asian Cup 2027](https://dantri.com.vn/the-thao/bao-indonesia-binh-luan-ve-doi-tuyen-viet-nam-o-vong-loai-asian-cup-2027-20241209184459254.htm) - 13:15 09/12/2024
 - 💃 [Tiến Linh, Văn Toàn lập công, tuyển Việt Nam thắng đậm Lào](https://dantri.com.vn/the-thao/tien-linh-van-toan-lap-cong-tuyen-viet-nam-thang-dam-lao-20241209191002213.htm) - 12:10 09/12/2024
