@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [HLV Kim Sang-sik họp báo sau trận thắng Lào](https://vnexpress.net/hlv-kim-sang-sik-hop-bao-sau-tran-thang-lao-4825810.html) - 15:30 09/12/2024
+- 🪜 [HLV Kim Sang-sik: &#39;Chúng tôi có lúc khó khăn trước Lào&#39;](https://vnexpress.net/hlv-kim-sang-sik-chung-toi-co-luc-kho-khan-truoc-lao-4825810.html) - 15:30 09/12/2024
 - 🦩 [Việt Nam thắng đậm trận ra quân ASEAN Cup](https://vnexpress.net/truc-tiep-tran-lao-vs-viet-nam-tai-bang-b-asean-cup-2024-4825765-tong-thuat.html) - 12:00 09/12/2024
 - 🧰 [Indonesia thắng trận ra quân ASEAN Cup nhờ bài ném biên](https://vnexpress.net/myanmar-vs-indonesia-4825772-tong-thuat.html) - 11:30 09/12/2024
 - 🤗 [HLV Hoàng Anh Tuấn chia tay Bình Dương](https://vnexpress.net/hlv-hoang-anh-tuan-chia-tay-binh-duong-4820888.html) - 09:00 09/12/2024
