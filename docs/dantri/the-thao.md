@@ -4,9 +4,9 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Báo Indonesia bình luận về đội tuyển Việt Nam ở vòng loại Asian Cup 2027](https://dantri.com.vn/the-thao/bao-indonesia-binh-luan-ve-doi-tuyen-viet-nam-o-vong-loai-asian-cup-2027-20241209184459254.htm) - 12:15 09/12/2024
-- 💯 [Lào 0-0 Việt Nam &lpar;hết hiệp 1&rpar;: Chưa đủ áp lực tấn công](https://dantri.com.vn/the-thao/lao-0-0-viet-nam-het-hiep-1-chua-du-ap-luc-tan-cong-20241209191002213.htm) - 12:10 09/12/2024
-- ⛽️ [Myanmar 0-0 Indonesia &lpar;Hiệp 2&rpar;: Đội khách thi đấu bế tắc](https://dantri.com.vn/the-thao/myanmar-0-0-indonesia-hiep-2-doi-khach-thi-dau-be-tac-20241209174530246.htm) - 12:00 09/12/2024
+- 🎡 [Báo Indonesia bình luận về đội tuyển Việt Nam ở vòng loại Asian Cup 2027](https://dantri.com.vn/the-thao/bao-indonesia-binh-luan-ve-doi-tuyen-viet-nam-o-vong-loai-asian-cup-2027-20241209184459254.htm) - 13:15 09/12/2024
+- 💯 [Lào 0-3 Việt Nam &lpar;hiệp 2&rpar;: Văn Toàn đặt dấu ấn](https://dantri.com.vn/the-thao/lao-0-3-viet-nam-hiep-2-van-toan-dat-dau-an-20241209191002213.htm) - 12:10 09/12/2024
+- ⛽️ [Myanmar 0-1 Indonesia &lpar;Hiệp 2&rpar;: Asnawi ghi bàn](https://dantri.com.vn/the-thao/myanmar-0-1-indonesia-hiep-2-asnawi-ghi-ban-20241209174530246.htm) - 12:00 09/12/2024
 - 💃 [HLV Hoàng Anh Tuấn chia tay CLB Bình Dương](https://dantri.com.vn/the-thao/hlv-hoang-anh-tuan-chia-tay-clb-binh-duong-20241209143451985.htm) - 07:36 09/12/2024
 - 🌈 [Đội tuyển Việt Nam đối đầu Malaysia, Lào ở vòng loại Asian Cup](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-doi-dau-malaysia-lao-o-vong-loai-asian-cup-20241209142352496.htm) - 07:24 09/12/2024
 - 🦅 [Báo chí thế giới dự đoán kết quả trận tuyển Việt Nam gặp Lào](https://dantri.com.vn/the-thao/bao-chi-the-gioi-du-doan-ket-qua-tran-tuyen-viet-nam-gap-lao-20241209121702107.htm) - 06:45 09/12/2024
