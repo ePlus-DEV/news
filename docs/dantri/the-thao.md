@@ -6,9 +6,9 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [HLV Hoàng Anh Tuấn chia tay CLB Bình Dương](https://dantri.com.vn/the-thao/hlv-hoang-anh-tuan-chia-tay-clb-binh-duong-20241209143451985.htm) - 07:36 09/12/2024
 - 💯 [Đội tuyển Việt Nam đối đầu Malaysia, Lào ở vòng loại Asian Cup](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-doi-dau-malaysia-lao-o-vong-loai-asian-cup-20241209142352496.htm) - 07:24 09/12/2024
-- ⛽️ [Anh nông dân và giấc mơ ghi tên trên bảng vàng Marathon Việt Nam](https://dantri.com.vn/the-thao/anh-nong-dan-va-giac-mo-ghi-ten-tren-bang-vang-marathon-viet-nam-20241126134224556.htm) - 06:41 09/12/2024
-- 💃 [Thắng trận đầu AFF Cup, Madam Pang sớm công bố mức thưởng cho Thái Lan](https://dantri.com.vn/the-thao/thang-tran-dau-aff-cup-madam-pang-som-cong-bo-muc-thuong-cho-thai-lan-20241209112503837.htm) - 06:03 09/12/2024
-- 🌈 [Báo chí thế giới dự đoán kết quả trận tuyển Việt Nam gặp Lào](https://dantri.com.vn/the-thao/bao-chi-the-gioi-du-doan-ket-qua-tran-tuyen-viet-nam-gap-lao-20241209121702107.htm) - 05:17 09/12/2024
+- ⛽️ [Báo chí thế giới dự đoán kết quả trận tuyển Việt Nam gặp Lào](https://dantri.com.vn/the-thao/bao-chi-the-gioi-du-doan-ket-qua-tran-tuyen-viet-nam-gap-lao-20241209121702107.htm) - 06:45 09/12/2024
+- 💃 [Anh nông dân và giấc mơ ghi tên trên bảng vàng Marathon Việt Nam](https://dantri.com.vn/the-thao/anh-nong-dan-va-giac-mo-ghi-ten-tren-bang-vang-marathon-viet-nam-20241126134224556.htm) - 06:41 09/12/2024
+- 🌈 [Thắng trận đầu AFF Cup, Madam Pang sớm công bố mức thưởng cho Thái Lan](https://dantri.com.vn/the-thao/thang-tran-dau-aff-cup-madam-pang-som-cong-bo-muc-thuong-cho-thai-lan-20241209112503837.htm) - 06:03 09/12/2024
 - 🦅 [HLV Shin Tae Yong nói điều bất ngờ trước trận ra quân AFF Cup](https://dantri.com.vn/the-thao/hlv-shin-tae-yong-noi-dieu-bat-ngo-truoc-tran-ra-quan-aff-cup-20241209104319795.htm) - 03:43 09/12/2024
 - 🌝 [Kylian Mbappe thừa nhận sự thật cay đắng ở Real Madrid](https://dantri.com.vn/the-thao/kylian-mbappe-thua-nhan-su-that-cay-dang-o-real-madrid-20241209080933393.htm) - 03:06 09/12/2024
 - 🚀 [Trận thắng 10-0 của Thái Lan có phải tỷ số đậm nhất AFF Cup?](https://dantri.com.vn/the-thao/tran-thang-10-0-cua-thai-lan-co-phai-ty-so-dam-nhat-aff-cup-20241209093840533.htm) - 02:39 09/12/2024
