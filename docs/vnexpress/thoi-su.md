@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Người đàn ông gần 10 năm chạy xe 0 đồng](https://vnexpress.net/nguoi-dan-ong-gan-10-nam-chay-xe-0-dong-4824369.html) - 17:00 08/12/2024
+- 🦒 [Người đàn ông gần 10 năm chạy xe miễn phí](https://vnexpress.net/nguoi-dan-ong-gan-10-nam-chay-xe-mien-phi-4824369.html) - 17:00 08/12/2024
 - 🤓 [Người bán rong xô xát với khách nước ngoài ở Nha Trang](https://vnexpress.net/nguoi-ban-rong-xo-xat-voi-khach-nuoc-ngoai-o-nha-trang-4825286.html) - 05:59 08/12/2024
 - ⚗️ [5 ga hàng hóa trên đường sắt tốc độ cao Bắc Nam](https://vnexpress.net/5-ga-hang-hoa-tren-duong-sat-toc-do-cao-bac-nam-4825277.html) - 05:21 08/12/2024
 - 🌊 [Tiễn biệt 12 quân nhân hy sinh khi diễn tập](https://vnexpress.net/tien-biet-12-quan-nhan-hy-sinh-khi-dien-tap-4825243.html) - 03:27 08/12/2024
