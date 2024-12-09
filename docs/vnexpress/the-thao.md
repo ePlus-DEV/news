@@ -4,8 +4,8 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Lào 0-0 Việt Nam &lpar;hết H1&rpar;: Hai Long đệm lên trời](https://vnexpress.net/truc-tiep-tran-lao-vs-viet-nam-tai-bang-b-asean-cup-2024-4825765.html) - 12:00 09/12/2024
-- 🦩 [Myanmar 0-0 Indonesia &lpar;H2&rpar;: Chủ nhà bất ngờ lấn lướt](https://vnexpress.net/myanmar-vs-indonesia-4825772.html) - 11:30 09/12/2024
+- 🪜 [Lào 0-4 Việt Nam &lpar;H2&rpar;: Văn Vĩ ghi tuyệt phẩm](https://vnexpress.net/truc-tiep-tran-lao-vs-viet-nam-tai-bang-b-asean-cup-2024-4825765.html) - 12:00 09/12/2024
+- 🦩 [Indonesia thắng trận ra quân ASEAN Cup nhờ bài ném biên](https://vnexpress.net/myanmar-vs-indonesia-4825772.html) - 11:30 09/12/2024
 - 🧰 [HLV Hoàng Anh Tuấn chia tay Bình Dương](https://vnexpress.net/hlv-hoang-anh-tuan-chia-tay-binh-duong-4820888.html) - 09:00 09/12/2024
 - 🤗 [VnExpress Runners of the Year còn bốn ngày bình chọn](https://vnexpress.net/vnexpress-runners-of-the-year-con-bon-ngay-binh-chon-4825542.html) - 07:50 09/12/2024
 - 🥳 [Việt Nam tranh vé dự Asian Cup 2027 với Malaysia, Lào](https://vnexpress.net/viet-nam-tranh-ve-du-asian-cup-2027-voi-malaysia-lao-4825645.html) - 07:33 09/12/2024
