@@ -5,8 +5,8 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Báo Indonesia bình luận về đội tuyển Việt Nam ở vòng loại Asian Cup 2027](https://dantri.com.vn/the-thao/bao-indonesia-binh-luan-ve-doi-tuyen-viet-nam-o-vong-loai-asian-cup-2027-20241209184459254.htm) - 12:15 09/12/2024
-- 💯 [Lào 0-0 Việt Nam &lpar;hiệp 1&rpar;: Nguyễn Filip dự bị](https://dantri.com.vn/the-thao/lao-0-0-viet-nam-hiep-1-nguyen-filip-du-bi-20241209191002213.htm) - 12:10 09/12/2024
-- ⛽️ [Myanmar 0-0 Indonesia &lpar;Hiệp 1&rpar;: Đội chủ nhà bỏ lỡ cơ hội](https://dantri.com.vn/the-thao/myanmar-0-0-indonesia-hiep-1-doi-chu-nha-bo-lo-co-hoi-20241209174530246.htm) - 12:00 09/12/2024
+- 💯 [Lào 0-0 Việt Nam &lpar;hiệp 1&rpar;: Chưa đủ áp lực tấn công](https://dantri.com.vn/the-thao/lao-0-0-viet-nam-hiep-1-chua-du-ap-luc-tan-cong-20241209191002213.htm) - 12:10 09/12/2024
+- ⛽️ [Myanmar 0-0 Indonesia &lpar;Hiệp 2&rpar;: HLV Shin Tae Yong nhận thẻ vàng](https://dantri.com.vn/the-thao/myanmar-0-0-indonesia-hiep-2-hlv-shin-tae-yong-nhan-the-vang-20241209174530246.htm) - 12:00 09/12/2024
 - 💃 [HLV Hoàng Anh Tuấn chia tay CLB Bình Dương](https://dantri.com.vn/the-thao/hlv-hoang-anh-tuan-chia-tay-clb-binh-duong-20241209143451985.htm) - 07:36 09/12/2024
 - 🌈 [Đội tuyển Việt Nam đối đầu Malaysia, Lào ở vòng loại Asian Cup](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-doi-dau-malaysia-lao-o-vong-loai-asian-cup-20241209142352496.htm) - 07:24 09/12/2024
 - 🦅 [Báo chí thế giới dự đoán kết quả trận tuyển Việt Nam gặp Lào](https://dantri.com.vn/the-thao/bao-chi-the-gioi-du-doan-ket-qua-tran-tuyen-viet-nam-gap-lao-20241209121702107.htm) - 06:45 09/12/2024
