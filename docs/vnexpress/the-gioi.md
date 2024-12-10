@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Xu hướng thuê trai trẻ đồng hành leo núi ở Trung Quốc](https://vnexpress.net/xu-huong-thue-trai-tre-dong-hanh-leo-nui-o-trung-quoc-4826146.html) - 12:30 10/12/2024
-- 🕴 [Từ &#39;đóa hồng sa mạc&#39; đến đệ nhất phu nhân Syria lưu vong](https://vnexpress.net/tu-doa-hong-sa-mac-den-de-nhat-phu-nhan-syria-luu-vong-4825641.html) - 12:00 10/12/2024
-- 🤭 [Ông Zelensky tuyên bố không hạ tuổi nhập ngũ để tăng quân](https://vnexpress.net/ong-zelensky-tuyen-bo-khong-ha-tuoi-nhap-ngu-de-tang-quan-4826173.html) - 10:26 10/12/2024
-- 🧑‍💻 [Đảng cầm quyền Hàn Quốc cân nhắc thời điểm ông Yoon từ chức](https://vnexpress.net/dang-cam-quyen-han-quoc-can-nhac-thoi-diem-ong-yoon-tu-chuc-4826170.html) - 10:15 10/12/2024
-- 🦏 [Thủ tướng Israel lần đầu hầu tòa](https://vnexpress.net/thu-tuong-israel-lan-dau-hau-toa-4826139.html) - 09:21 10/12/2024
-- 🦒 [Quân đội Israel &#39;cách Damascus 25 km&#39;](https://vnexpress.net/quan-doi-israel-cach-damascus-25-km-4826123.html) - 09:12 10/12/2024
-- 🌈 [Cảnh sát triệu tập Thủ tướng Hàn Quốc để thẩm vấn](https://vnexpress.net/canh-sat-trieu-tap-thu-tuong-han-quoc-de-tham-van-4826111.html) - 08:55 10/12/2024
-- 🧑‍🏫 [Nhóm người đồng tính dự tiệc ma túy trong khách sạn Thái Lan](https://vnexpress.net/nhom-nguoi-dong-tinh-du-tiec-ma-tuy-trong-khach-san-thai-lan-4826070.html) - 08:38 10/12/2024
-- 🐲 [Hàn Quốc sẽ bổ nhiệm công tố viên đặc biệt điều tra Tổng thống](https://vnexpress.net/han-quoc-se-bo-nhiem-cong-to-vien-dac-biet-dieu-tra-tong-thong-4826087.html) - 08:01 10/12/2024
-- 🦒 [Drone cáp quang Nga bắn cháy loạt Leopard 2 tối tân của Ukraine](https://vnexpress.net/drone-cap-quang-nga-ban-chay-loat-leopard-2-toi-tan-cua-ukraine-4826024.html) - 07:53 10/12/2024
-- 🐻 [5 ngày cảnh sát Mỹ truy lùng nghi phạm sát hại CEO bảo hiểm](https://vnexpress.net/5-ngay-canh-sat-my-truy-lung-nghi-pham-sat-hai-ceo-bao-hiem-4825879.html) - 07:38 10/12/2024
-- 🚀 [Quân nổi dậy lên danh sách truy nã cựu quan chức Syria](https://vnexpress.net/quan-noi-day-len-danh-sach-truy-na-cuu-quan-chuc-syria-4825959.html) - 06:54 10/12/2024
-- 🥰 [Ông Trump khen Thái tử William điển trai](https://vnexpress.net/ong-trump-khen-thai-tu-william-dien-trai-4825938.html) - 04:54 10/12/2024
-- 🔥 [Tương lai bất định của lực lượng Nga đồn trú ở Syria](https://vnexpress.net/tuong-lai-bat-dinh-cua-luc-luong-nga-don-tru-o-syria-4825464.html) - 04:53 10/12/2024
-- 🥳 [77 người đoạt giải Nobel phản đối ứng viên bộ trưởng y tế Mỹ](https://vnexpress.net/77-nguoi-doat-giai-nobel-phan-doi-ung-vien-bo-truong-y-te-my-4825906.html) - 04:34 10/12/2024
-- 💼 [Nghi phạm có thể dùng &#39;súng ma&#39; bắn CEO bảo hiểm Mỹ](https://vnexpress.net/nghi-pham-co-the-dung-sung-ma-ban-ceo-bao-hiem-my-4825943.html) - 04:29 10/12/2024
-- 🤡 [Israel không kích Syria &#39;hơn 100 lần trong một ngày&#39;](https://vnexpress.net/israel-khong-kich-syria-hon-100-lan-trong-mot-ngay-4825905.html) - 04:02 10/12/2024
-- 🌁 [Nghi phạm ám sát CEO bảo hiểm Mỹ là ai?](https://vnexpress.net/nghi-pham-am-sat-ceo-bao-hiem-my-la-ai-4825900.html) - 03:43 10/12/2024
-- 🤩 [Chiến hạm Nga rời quân cảng Syria sau khi Damascus thất thủ](https://vnexpress.net/chien-ham-nga-roi-quan-cang-syria-sau-khi-damascus-that-thu-4825869.html) - 03:06 10/12/2024
+- 🎭 [Những hành động hớ hênh khiến nghi phạm sát hại CEO sa lưới](https://vnexpress.net/nhung-hanh-dong-ho-henh-khien-nghi-pham-sat-hai-ceo-sa-luoi-4826242.html) - 13:41 10/12/2024
+- 🕴 [Xu hướng thuê trai trẻ đồng hành leo núi ở Trung Quốc](https://vnexpress.net/xu-huong-thue-trai-tre-dong-hanh-leo-nui-o-trung-quoc-4826146.html) - 12:30 10/12/2024
+- 🤭 [Từ &#39;đóa hồng sa mạc&#39; đến đệ nhất phu nhân Syria lưu vong](https://vnexpress.net/tu-doa-hong-sa-mac-den-de-nhat-phu-nhan-syria-luu-vong-4825641.html) - 12:00 10/12/2024
+- 🧑‍💻 [Ông Zelensky tuyên bố không hạ tuổi nhập ngũ để tăng quân](https://vnexpress.net/ong-zelensky-tuyen-bo-khong-ha-tuoi-nhap-ngu-de-tang-quan-4826173.html) - 10:26 10/12/2024
+- 🦏 [Đảng cầm quyền Hàn Quốc cân nhắc thời điểm ông Yoon từ chức](https://vnexpress.net/dang-cam-quyen-han-quoc-can-nhac-thoi-diem-ong-yoon-tu-chuc-4826170.html) - 10:15 10/12/2024
+- 🦒 [Thủ tướng Israel lần đầu hầu tòa](https://vnexpress.net/thu-tuong-israel-lan-dau-hau-toa-4826139.html) - 09:21 10/12/2024
+- 🌈 [Quân đội Israel &#39;cách Damascus 25 km&#39;](https://vnexpress.net/quan-doi-israel-cach-damascus-25-km-4826123.html) - 09:12 10/12/2024
+- 🧑‍🏫 [Cảnh sát triệu tập Thủ tướng Hàn Quốc để thẩm vấn](https://vnexpress.net/canh-sat-trieu-tap-thu-tuong-han-quoc-de-tham-van-4826111.html) - 08:55 10/12/2024
+- 🐲 [Nhóm người đồng tính dự tiệc ma túy trong khách sạn Thái Lan](https://vnexpress.net/nhom-nguoi-dong-tinh-du-tiec-ma-tuy-trong-khach-san-thai-lan-4826070.html) - 08:38 10/12/2024
+- 🦒 [Hàn Quốc sẽ bổ nhiệm công tố viên đặc biệt điều tra Tổng thống](https://vnexpress.net/han-quoc-se-bo-nhiem-cong-to-vien-dac-biet-dieu-tra-tong-thong-4826087.html) - 08:01 10/12/2024
+- 🐻 [Drone cáp quang Nga bắn cháy loạt Leopard 2 tối tân của Ukraine](https://vnexpress.net/drone-cap-quang-nga-ban-chay-loat-leopard-2-toi-tan-cua-ukraine-4826024.html) - 07:53 10/12/2024
+- 🚀 [5 ngày cảnh sát Mỹ truy lùng nghi phạm sát hại CEO bảo hiểm](https://vnexpress.net/5-ngay-canh-sat-my-truy-lung-nghi-pham-sat-hai-ceo-bao-hiem-4825879.html) - 07:38 10/12/2024
+- 🥰 [Quân nổi dậy lên danh sách truy nã cựu quan chức Syria](https://vnexpress.net/quan-noi-day-len-danh-sach-truy-na-cuu-quan-chuc-syria-4825959.html) - 06:54 10/12/2024
+- 🔥 [Ông Trump khen Thái tử William điển trai](https://vnexpress.net/ong-trump-khen-thai-tu-william-dien-trai-4825938.html) - 04:54 10/12/2024
+- 🥳 [Tương lai bất định của lực lượng Nga đồn trú ở Syria](https://vnexpress.net/tuong-lai-bat-dinh-cua-luc-luong-nga-don-tru-o-syria-4825464.html) - 04:53 10/12/2024
+- 💼 [77 người đoạt giải Nobel phản đối ứng viên bộ trưởng y tế Mỹ](https://vnexpress.net/77-nguoi-doat-giai-nobel-phan-doi-ung-vien-bo-truong-y-te-my-4825906.html) - 04:34 10/12/2024
+- 🤡 [Nghi phạm có thể dùng &#39;súng ma&#39; bắn CEO bảo hiểm Mỹ](https://vnexpress.net/nghi-pham-co-the-dung-sung-ma-ban-ceo-bao-hiem-my-4825943.html) - 04:29 10/12/2024
+- 🌁 [Israel không kích Syria &#39;hơn 100 lần trong một ngày&#39;](https://vnexpress.net/israel-khong-kich-syria-hon-100-lan-trong-mot-ngay-4825905.html) - 04:02 10/12/2024
+- 🤩 [Nghi phạm ám sát CEO bảo hiểm Mỹ là ai?](https://vnexpress.net/nghi-pham-am-sat-ceo-bao-hiem-my-la-ai-4825900.html) - 03:43 10/12/2024
+- 🎉 [Chiến hạm Nga rời quân cảng Syria sau khi Damascus thất thủ](https://vnexpress.net/chien-ham-nga-roi-quan-cang-syria-sau-khi-damascus-that-thu-4825869.html) - 03:06 10/12/2024
 - 🎉 [Hội đồng Bảo an họp khẩn về tình hình Syria](https://vnexpress.net/hoi-dong-bao-an-hop-khan-ve-tinh-hinh-syria-4825871.html) - 02:54 10/12/2024
-- 🎉 [Xuồng không người lái Ukraine nã đạn vào trực thăng Nga](https://vnexpress.net/xuong-khong-nguoi-lai-ukraine-na-dan-vao-truc-thang-nga-4825862.html) - 02:51 10/12/2024
-- 🌁 [Giáp Liên Xô &#39;không cứu được&#39; xe tăng Leopard, Abrams Ukraine](https://vnexpress.net/giap-lien-xo-khong-cuu-duoc-xe-tang-leopard-abrams-ukraine-4825664.html) - 02:19 10/12/2024
-- 🌊 [Ông Zelensky nêu ý tưởng binh sĩ phương Tây đến Ukraine đảm bảo an ninh](https://vnexpress.net/ong-zelensky-neu-y-tuong-binh-si-phuong-tay-den-ukraine-dam-bao-an-ninh-4825845.html) - 01:23 10/12/2024
-- 🕴 [Thủ tướng Syria đàm phán chuyển giao quyền lực với nhóm vũ trang](https://vnexpress.net/thu-tuong-syria-dam-phan-chuyen-giao-quyen-luc-voi-nhom-vu-trang-4825846.html) - 00:44 10/12/2024
-- 🎓 [Hoài nghi về ứng viên được ông Trump chọn làm giám đốc FBI](https://vnexpress.net/hoai-nghi-ve-ung-vien-duoc-ong-trump-chon-lam-giam-doc-fbi-4822613.html) - 00:22 10/12/2024
-- 🦩 [Mỹ công bố danh tính nghi phạm sát hại CEO bảo hiểm](https://vnexpress.net/my-cong-bo-danh-tinh-nghi-pham-sat-hai-ceo-bao-hiem-4825836.html) - 23:36 09/12/2024
-- 🌏 [Những ý tưởng chấm dứt xung đột Ukraine của đội ngũ ông Trump](https://vnexpress.net/nhung-y-tuong-cham-dut-xung-dot-ukraine-cua-doi-ngu-ong-trump-4824746.html) - 22:00 09/12/2024
-- 🌋 [Cảnh sát Mỹ thẩm vấn nghi can vụ ám sát CEO bảo hiểm](https://vnexpress.net/canh-sat-my-tham-van-nghi-can-vu-am-sat-ceo-bao-hiem-4825823.html) - 17:08 09/12/2024
-- 🪜 [Nửa thế kỷ gia tộc Assad trỗi dậy và sụp đổ ở Syria](https://vnexpress.net/nua-the-ky-gia-toc-assad-troi-day-va-sup-do-o-syria-4825416.html) - 17:00 09/12/2024
-- 🕴 [Ông Trump dọa bỏ tù thành viên ủy ban điều tra bạo loạn Đồi Capitol](https://vnexpress.net/ong-trump-doa-bo-tu-thanh-vien-uy-ban-dieu-tra-bao-loan-doi-capitol-4825809.html) - 15:26 09/12/2024
-- 🧑‍🏫 [Philippines bắt nhóm rao bán uranium nghèo](https://vnexpress.net/philippines-bat-nhom-rao-ban-uranium-ngheo-4825800.html) - 13:41 09/12/2024
-- 🌮 [Dinh tổng thống Syria hoang tàn trong ngày hỗn loạn](https://vnexpress.net/dinh-tong-thong-syria-hoang-tan-trong-ngay-hon-loan-4825771.html) - 12:38 09/12/2024
-- 🚦 [Tổng thống Putin cấp quy chế tị nạn cho ông Assad](https://vnexpress.net/tong-thong-putin-cap-quy-che-ti-nan-cho-ong-assad-4825767.html) - 12:10 09/12/2024
-- 💫 [Nguy cơ Syria chìm vào hỗn loạn sau khi chính quyền Assad sụp đổ](https://vnexpress.net/nguy-co-syria-chim-vao-hon-loan-sau-khi-chinh-quyen-assad-sup-do-4825406.html) - 12:00 09/12/2024
-- 🤡 [Sự phối hợp giữa ông Biden và ông Trump phía sau lệnh ngừng bắn Israel - Hezbollah](https://vnexpress.net/su-phoi-hop-giua-ong-biden-va-ong-trump-phia-sau-lenh-ngung-ban-israel-hezbollah-4821718.html) - 10:40 09/12/2024
-- 🦣 [Con dâu ông Trump cân nhắc trở thành thượng nghị sĩ](https://vnexpress.net/con-dau-ong-trump-can-nhac-tro-thanh-thuong-nghi-si-4825556.html) - 08:36 09/12/2024
-- 🎬 [Bộ sưu tập xe sang được cho là của ông Assad](https://vnexpress.net/bo-suu-tap-xe-sang-duoc-cho-la-cua-ong-assad-4825547.html) - 08:20 09/12/2024
-- 🎉 [Thổ Nhĩ Kỳ tăng ảnh hưởng ở Trung Đông sau chính biến Syria](https://vnexpress.net/tho-nhi-ky-tang-anh-huong-o-trung-dong-sau-chinh-bien-syria-4825436.html) - 07:25 09/12/2024
-- 🎡 [Phe đối lập Hàn Quốc cáo buộc đảng của ông Yoon &#39;đảo chính lần hai&#39;](https://vnexpress.net/phe-doi-lap-han-quoc-cao-buoc-dang-cua-ong-yoon-dao-chinh-lan-hai-4825487.html) - 04:45 09/12/2024
-- 🌜 [Thủ đô Damascus trong ngày quân nổi dậy tiến vào](https://vnexpress.net/thu-do-damascus-trong-ngay-quan-noi-day-tien-vao-4825445.html) - 04:38 09/12/2024
-- 🎡 [Tổng thống Hàn Quốc bị cấm xuất cảnh](https://vnexpress.net/tong-thong-han-quoc-bi-cam-xuat-canh-4825504.html) - 04:22 09/12/2024
-- 🤗 [Người Syria mừng, lo khi quân nổi dậy tiến vào Damascus](https://vnexpress.net/nguoi-syria-mung-lo-khi-quan-noi-day-tien-vao-damascus-4825455.html) - 04:13 09/12/2024
-- 🦩 [Ông Trump quảng cáo nước hoa &#39;khiến đối thủ cũng không cưỡng lại được&#39;](https://vnexpress.net/ong-trump-quang-cao-nuoc-hoa-khien-doi-thu-cung-khong-cuong-lai-duoc-4825462.html) - 03:44 09/12/2024
-- 🎓 [Mỹ oanh tạc loạt mục tiêu IS ở Syria](https://vnexpress.net/my-oanh-tac-loat-muc-tieu-is-o-syria-4825431.html) - 03:12 09/12/2024
-- 🌁 [Đặc nhiệm Hàn nói &#39;bị cựu bộ trưởng lợi dụng&#39; trong thiết quân luật](https://vnexpress.net/dac-nhiem-han-noi-bi-cuu-bo-truong-loi-dung-trong-thiet-quan-luat-4825442.html) - 02:33 09/12/2024
-- 🤩 [Bên trong nhà của ông Assad sau khi chính quyền sụp đổ](https://vnexpress.net/ben-trong-nha-cua-ong-assad-sau-khi-chinh-quyen-sup-do-4825410.html) - 02:12 09/12/2024
-- 👹 [Tổng thống Zelensky bị chỉ trích vì trang phục khi gặp ông Trump](https://vnexpress.net/tong-thong-zelensky-bi-chi-trich-vi-trang-phuc-khi-gap-ong-trump-4825403.html) - 01:21 09/12/2024
-- ⛽️ [Nga cáo buộc Ukraine từ chối đàm phán hòa bình](https://vnexpress.net/nga-cao-buoc-ukraine-tu-choi-dam-phan-hoa-binh-4825395.html) - 23:59 08/12/2024
-- 🚀 [Ông Assad có thể đã đến Moskva](https://vnexpress.net/ong-assad-co-the-da-den-moskva-4825401.html) - 23:39 08/12/2024
-- 🎡 [Thủ lĩnh nhóm Hồi giáo lật đổ chính quyền Syria là ai](https://vnexpress.net/thu-linh-nhom-hoi-giao-lat-do-chinh-quyen-syria-la-ai-4823272.html) - 22:00 08/12/2024
-- 🕯 [Phe đối lập Syria đề xuất 18 tháng chuyển tiếp trước bầu cử](https://vnexpress.net/phe-doi-lap-syria-de-xuat-18-thang-chuyen-tiep-truoc-bau-cu-4825352.html) - 18:16 08/12/2024
-- 🐻 [Ông Trump cảnh báo sẵn sàng rút Mỹ khỏi NATO](https://vnexpress.net/ong-trump-canh-bao-san-sang-rut-my-khoi-nato-4825377.html) - 16:26 08/12/2024
-- 🚦 [11 ngày phiến quân tấn công, lật đổ chính phủ Syria](https://vnexpress.net/11-ngay-phien-quan-tan-cong-lat-do-chinh-phu-syria-4825339.html) - 14:46 08/12/2024
-- 👍 [Việt Nam sẵn sàng hỗ trợ bảo hộ công dân tại Syria](https://vnexpress.net/viet-nam-san-sang-ho-tro-bao-ho-cong-dan-tai-syria-4825366.html) - 14:42 08/12/2024
-- 🚀 [Nga nói ông Assad đã từ chức, rời Syria](https://vnexpress.net/nga-noi-ong-assad-da-tu-chuc-roi-syria-4825355.html) - 13:04 08/12/2024
-- 🌮 [Đại sứ quán Iran ở Syria bị cướp phá](https://vnexpress.net/dai-su-quan-iran-o-syria-bi-cuop-pha-4825350.html) - 12:40 08/12/2024
-- 😎 [Syria trong ngày phiến quân lật đổ chính quyền Tổng thống Assad](https://vnexpress.net/syria-trong-ngay-phien-quan-lat-do-chinh-quyen-tong-thong-assad-4825346.html) - 12:14 08/12/2024
-- 🐲 [Loạt nước theo dõi sát tình hình ở Syria](https://vnexpress.net/loat-nuoc-theo-doi-sat-tinh-hinh-o-syria-4825335.html) - 10:44 08/12/2024
-- 💫 [Ông Trump: Tổng thống Ukraine sẵn sàng thiết lập thỏa thuận với Nga](https://vnexpress.net/ong-trump-tong-thong-ukraine-san-sang-thiet-lap-thoa-thuan-voi-nga-4825324.html) - 09:55 08/12/2024
-- 👀 [Quân đội Israel vào vùng đệm Cao nguyên Golan sau khi Damascus thất thủ](https://vnexpress.net/quan-doi-israel-vao-vung-dem-cao-nguyen-golan-sau-khi-damascus-that-thu-4825318.html) - 09:26 08/12/2024<!-- vnexpress-the-gioi:END -->
+- 🌁 [Xuồng không người lái Ukraine nã đạn vào trực thăng Nga](https://vnexpress.net/xuong-khong-nguoi-lai-ukraine-na-dan-vao-truc-thang-nga-4825862.html) - 02:51 10/12/2024
+- 🌊 [Giáp Liên Xô &#39;không cứu được&#39; xe tăng Leopard, Abrams Ukraine](https://vnexpress.net/giap-lien-xo-khong-cuu-duoc-xe-tang-leopard-abrams-ukraine-4825664.html) - 02:19 10/12/2024
+- 🕴 [Ông Zelensky nêu ý tưởng binh sĩ phương Tây đến Ukraine đảm bảo an ninh](https://vnexpress.net/ong-zelensky-neu-y-tuong-binh-si-phuong-tay-den-ukraine-dam-bao-an-ninh-4825845.html) - 01:23 10/12/2024
+- 🎓 [Thủ tướng Syria đàm phán chuyển giao quyền lực với nhóm vũ trang](https://vnexpress.net/thu-tuong-syria-dam-phan-chuyen-giao-quyen-luc-voi-nhom-vu-trang-4825846.html) - 00:44 10/12/2024
+- 🦩 [Hoài nghi về ứng viên được ông Trump chọn làm giám đốc FBI](https://vnexpress.net/hoai-nghi-ve-ung-vien-duoc-ong-trump-chon-lam-giam-doc-fbi-4822613.html) - 00:22 10/12/2024
+- 🌏 [Mỹ công bố danh tính nghi phạm sát hại CEO bảo hiểm](https://vnexpress.net/my-cong-bo-danh-tinh-nghi-pham-sat-hai-ceo-bao-hiem-4825836.html) - 23:36 09/12/2024
+- 🌋 [Những ý tưởng chấm dứt xung đột Ukraine của đội ngũ ông Trump](https://vnexpress.net/nhung-y-tuong-cham-dut-xung-dot-ukraine-cua-doi-ngu-ong-trump-4824746.html) - 22:00 09/12/2024
+- 🪜 [Cảnh sát Mỹ thẩm vấn nghi can vụ ám sát CEO bảo hiểm](https://vnexpress.net/canh-sat-my-tham-van-nghi-can-vu-am-sat-ceo-bao-hiem-4825823.html) - 17:08 09/12/2024
+- 🕴 [Nửa thế kỷ gia tộc Assad trỗi dậy và sụp đổ ở Syria](https://vnexpress.net/nua-the-ky-gia-toc-assad-troi-day-va-sup-do-o-syria-4825416.html) - 17:00 09/12/2024
+- 🧑‍🏫 [Ông Trump dọa bỏ tù thành viên ủy ban điều tra bạo loạn Đồi Capitol](https://vnexpress.net/ong-trump-doa-bo-tu-thanh-vien-uy-ban-dieu-tra-bao-loan-doi-capitol-4825809.html) - 15:26 09/12/2024
+- 🌮 [Philippines bắt nhóm rao bán uranium nghèo](https://vnexpress.net/philippines-bat-nhom-rao-ban-uranium-ngheo-4825800.html) - 13:41 09/12/2024
+- 🚦 [Dinh tổng thống Syria hoang tàn trong ngày hỗn loạn](https://vnexpress.net/dinh-tong-thong-syria-hoang-tan-trong-ngay-hon-loan-4825771.html) - 12:38 09/12/2024
+- 💫 [Tổng thống Putin cấp quy chế tị nạn cho ông Assad](https://vnexpress.net/tong-thong-putin-cap-quy-che-ti-nan-cho-ong-assad-4825767.html) - 12:10 09/12/2024
+- 🤡 [Nguy cơ Syria chìm vào hỗn loạn sau khi chính quyền Assad sụp đổ](https://vnexpress.net/nguy-co-syria-chim-vao-hon-loan-sau-khi-chinh-quyen-assad-sup-do-4825406.html) - 12:00 09/12/2024
+- 🦣 [Sự phối hợp giữa ông Biden và ông Trump phía sau lệnh ngừng bắn Israel - Hezbollah](https://vnexpress.net/su-phoi-hop-giua-ong-biden-va-ong-trump-phia-sau-lenh-ngung-ban-israel-hezbollah-4821718.html) - 10:40 09/12/2024
+- 🎬 [Con dâu ông Trump cân nhắc trở thành thượng nghị sĩ](https://vnexpress.net/con-dau-ong-trump-can-nhac-tro-thanh-thuong-nghi-si-4825556.html) - 08:36 09/12/2024
+- 🎉 [Bộ sưu tập xe sang được cho là của ông Assad](https://vnexpress.net/bo-suu-tap-xe-sang-duoc-cho-la-cua-ong-assad-4825547.html) - 08:20 09/12/2024
+- 🎡 [Thổ Nhĩ Kỳ tăng ảnh hưởng ở Trung Đông sau chính biến Syria](https://vnexpress.net/tho-nhi-ky-tang-anh-huong-o-trung-dong-sau-chinh-bien-syria-4825436.html) - 07:25 09/12/2024
+- 🌜 [Phe đối lập Hàn Quốc cáo buộc đảng của ông Yoon &#39;đảo chính lần hai&#39;](https://vnexpress.net/phe-doi-lap-han-quoc-cao-buoc-dang-cua-ong-yoon-dao-chinh-lan-hai-4825487.html) - 04:45 09/12/2024
+- 🎡 [Thủ đô Damascus trong ngày quân nổi dậy tiến vào](https://vnexpress.net/thu-do-damascus-trong-ngay-quan-noi-day-tien-vao-4825445.html) - 04:38 09/12/2024
+- 🤗 [Tổng thống Hàn Quốc bị cấm xuất cảnh](https://vnexpress.net/tong-thong-han-quoc-bi-cam-xuat-canh-4825504.html) - 04:22 09/12/2024
+- 🦩 [Người Syria mừng, lo khi quân nổi dậy tiến vào Damascus](https://vnexpress.net/nguoi-syria-mung-lo-khi-quan-noi-day-tien-vao-damascus-4825455.html) - 04:13 09/12/2024
+- 🎓 [Ông Trump quảng cáo nước hoa &#39;khiến đối thủ cũng không cưỡng lại được&#39;](https://vnexpress.net/ong-trump-quang-cao-nuoc-hoa-khien-doi-thu-cung-khong-cuong-lai-duoc-4825462.html) - 03:44 09/12/2024
+- 🌁 [Mỹ oanh tạc loạt mục tiêu IS ở Syria](https://vnexpress.net/my-oanh-tac-loat-muc-tieu-is-o-syria-4825431.html) - 03:12 09/12/2024
+- 🤩 [Đặc nhiệm Hàn nói &#39;bị cựu bộ trưởng lợi dụng&#39; trong thiết quân luật](https://vnexpress.net/dac-nhiem-han-noi-bi-cuu-bo-truong-loi-dung-trong-thiet-quan-luat-4825442.html) - 02:33 09/12/2024
+- 👹 [Bên trong nhà của ông Assad sau khi chính quyền sụp đổ](https://vnexpress.net/ben-trong-nha-cua-ong-assad-sau-khi-chinh-quyen-sup-do-4825410.html) - 02:12 09/12/2024
+- ⛽️ [Tổng thống Zelensky bị chỉ trích vì trang phục khi gặp ông Trump](https://vnexpress.net/tong-thong-zelensky-bi-chi-trich-vi-trang-phuc-khi-gap-ong-trump-4825403.html) - 01:21 09/12/2024
+- 🚀 [Nga cáo buộc Ukraine từ chối đàm phán hòa bình](https://vnexpress.net/nga-cao-buoc-ukraine-tu-choi-dam-phan-hoa-binh-4825395.html) - 23:59 08/12/2024
+- 🎡 [Ông Assad có thể đã đến Moskva](https://vnexpress.net/ong-assad-co-the-da-den-moskva-4825401.html) - 23:39 08/12/2024
+- 🕯 [Thủ lĩnh nhóm Hồi giáo lật đổ chính quyền Syria là ai](https://vnexpress.net/thu-linh-nhom-hoi-giao-lat-do-chinh-quyen-syria-la-ai-4823272.html) - 22:00 08/12/2024
+- 🐻 [Phe đối lập Syria đề xuất 18 tháng chuyển tiếp trước bầu cử](https://vnexpress.net/phe-doi-lap-syria-de-xuat-18-thang-chuyen-tiep-truoc-bau-cu-4825352.html) - 18:16 08/12/2024
+- 🚦 [Ông Trump cảnh báo sẵn sàng rút Mỹ khỏi NATO](https://vnexpress.net/ong-trump-canh-bao-san-sang-rut-my-khoi-nato-4825377.html) - 16:26 08/12/2024
+- 👍 [11 ngày phiến quân tấn công, lật đổ chính phủ Syria](https://vnexpress.net/11-ngay-phien-quan-tan-cong-lat-do-chinh-phu-syria-4825339.html) - 14:46 08/12/2024
+- 🚀 [Việt Nam sẵn sàng hỗ trợ bảo hộ công dân tại Syria](https://vnexpress.net/viet-nam-san-sang-ho-tro-bao-ho-cong-dan-tai-syria-4825366.html) - 14:42 08/12/2024
+- 🌮 [Nga nói ông Assad đã từ chức, rời Syria](https://vnexpress.net/nga-noi-ong-assad-da-tu-chuc-roi-syria-4825355.html) - 13:04 08/12/2024
+- 😎 [Đại sứ quán Iran ở Syria bị cướp phá](https://vnexpress.net/dai-su-quan-iran-o-syria-bi-cuop-pha-4825350.html) - 12:40 08/12/2024
+- 🐲 [Syria trong ngày phiến quân lật đổ chính quyền Tổng thống Assad](https://vnexpress.net/syria-trong-ngay-phien-quan-lat-do-chinh-quyen-tong-thong-assad-4825346.html) - 12:14 08/12/2024
+- 💫 [Loạt nước theo dõi sát tình hình ở Syria](https://vnexpress.net/loat-nuoc-theo-doi-sat-tinh-hinh-o-syria-4825335.html) - 10:44 08/12/2024
+- 👀 [Ông Trump: Tổng thống Ukraine sẵn sàng thiết lập thỏa thuận với Nga](https://vnexpress.net/ong-trump-tong-thong-ukraine-san-sang-thiet-lap-thoa-thuan-voi-nga-4825324.html) - 09:55 08/12/2024<!-- vnexpress-the-gioi:END -->
