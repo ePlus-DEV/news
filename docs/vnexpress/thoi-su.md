@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Không khí Hà Nội ở mức kém](https://vnexpress.net/khong-khi-ha-noi-o-muc-kem-4826235.html) - 14:38 10/12/2024
+- 🦒 [Không khí Hà Nội ở mức rất xấu](https://vnexpress.net/khong-khi-ha-noi-o-muc-rat-xau-4826235.html) - 14:38 10/12/2024
 - 🤓 [&#39;Nên chọn ST để xây dựng thương hiệu gạo quốc gia&#39;](https://vnexpress.net/nen-chon-st-de-xay-dung-thuong-hieu-gao-quoc-gia-4826227.html) - 11:27 10/12/2024
 - ⚗️ [Bảo hiểm Xã hội Việt Nam &#39;chỉ giữ đơn vị xương sống&#39;](https://vnexpress.net/bao-hiem-xa-hoi-viet-nam-chi-giu-don-vi-xuong-song-4826196.html) - 10:55 10/12/2024
 - 🌊 [Cầu treo nơi hai công nhân gặp nạn sẽ được xây mới](https://vnexpress.net/cau-treo-noi-hai-cong-nhan-gap-nan-se-duoc-xay-moi-4826152.html) - 10:51 10/12/2024
