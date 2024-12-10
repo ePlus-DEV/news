@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [TS Nguyễn Sĩ Dũng: Cần giám sát độc lập và đánh giá định kỳ khi sắp xếp bộ máy](https://vnexpress.net/ts-nguyen-si-dung-can-giam-sat-doc-lap-va-danh-gia-dinh-ky-khi-sap-xep-bo-may-4824783.html) - 07:00 10/12/2024
+- 🦒 [TS Nguyễn Sĩ Dũng: Cần tránh sắp xếp bộ máy ồ ạt](https://vnexpress.net/ts-nguyen-si-dung-can-tranh-sap-xep-bo-may-o-at-4824783.html) - 07:00 10/12/2024
 - 🤓 [Ông Phạm Đức Ấn làm Chủ tịch tỉnh Quảng Ninh](https://vnexpress.net/ong-pham-duc-an-lam-chu-tich-tinh-quang-ninh-4826011.html) - 05:57 10/12/2024
 - ⚗️ [Thi công trở lại Trung tâm triển lãm 800 tỷ đồng ở Thủ Thiêm](https://vnexpress.net/thi-cong-tro-lai-trung-tam-trien-lam-800-ty-dong-o-thu-thiem-4826027.html) - 05:14 10/12/2024
 - 🌊 [Hơn 1.000 nhà đất công ở TP HCM đang bỏ trống](https://vnexpress.net/hon-1-000-nha-dat-cong-o-tp-hcm-dang-bo-trong-4826025.html) - 05:06 10/12/2024
