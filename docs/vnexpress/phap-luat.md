@@ -5,10 +5,10 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Công chứng viên bị bắt vì &#39;tạo điều kiện&#39; cho nhóm lừa bán đất](https://vnexpress.net/cong-chung-vien-bi-bat-vi-tao-dieu-kien-cho-nhom-lua-ban-dat-4826178.html) - 10:50 10/12/2024
-- 🥰 [Người phụ nữ nghi bị chồng &#39;hờ&#39; sát hại](https://vnexpress.net/nguoi-phu-nu-nghi-bi-chong-ho-sat-hai-4826171.html) - 10:23 10/12/2024
+- 🥰 [Người phụ nữ bị chồng &#39;hờ&#39; sát hại](https://vnexpress.net/nguoi-phu-nu-bi-chong-ho-sat-hai-4826171.html) - 10:23 10/12/2024
 - 🎓 [Dụ nhà đầu tư tham gia sàn giao dịch ngoại hối giả](https://vnexpress.net/du-nha-dau-tu-tham-gia-san-giao-dich-ngoai-hoi-gia-4826159.html) - 10:10 10/12/2024
 - 🤓 [Đường dây nhập lậu hơn 7.300 tấn &#39;khí cười&#39; vào Việt Nam](https://vnexpress.net/duong-day-nhap-lau-hon-7-300-tan-khi-cuoi-vao-viet-nam-4826187.html) - 10:00 10/12/2024
-- 🎊 [Vì sao TikToker Mr Pips bị bắt trong đường dây lừa đầu tư chứng khoán](https://vnexpress.net/vi-sao-tiktoker-mr-pips-bi-bat-trong-duong-day-lua-dau-tu-chung-khoan-4826127.html) - 08:58 10/12/2024
+- 🎊 [Thu hơn 5.200 tỷ đồng trong đường dây TikToker Mr Pips lừa đầu tư chứng khoán](https://vnexpress.net/vi-sao-tiktoker-mr-pips-bi-bat-trong-duong-day-lua-dau-tu-chung-khoan-4826127.html) - 08:58 10/12/2024
 - 🙉 [Sếp cảnh sát Mỹ bị điều tra đóng phim khiêu dâm để trả nợ](https://vnexpress.net/pho-canh-sat-quan-bi-dieu-tra-dong-phim-khieu-dam-de-tra-no-4826076.html) - 08:25 10/12/2024
 - 🤡 [Đột nhập cửa hàng điện máy trộm 33 điện thoại](https://vnexpress.net/dot-nhap-cua-hang-dien-may-trom-33-dien-thoai-4826112.html) - 08:17 10/12/2024
 - 🗽 [Sân bay đầu tiên của Bộ Công an phục vụ huấn luyện được khởi công](https://vnexpress.net/san-bay-dau-tien-cua-bo-cong-an-phuc-vu-huan-luyen-duoc-khoi-cong-4825989.html) - 05:04 10/12/2024
