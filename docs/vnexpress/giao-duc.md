@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Việt Nam lần đầu có đại học vào top 400 trường phát triển bền vững](https://vnexpress.net/viet-nam-lan-dau-co-dai-hoc-vao-top-400-truong-phat-trien-ben-vung-4826247.html) - 14:28 10/12/2024
+- 🤓 [10 đại học Việt Nam vào bảng xếp hạng phát triển bền vững](https://vnexpress.net/10-dai-hoc-viet-nam-vao-bang-xep-hang-phat-trien-ben-vung-4826247.html) - 14:28 10/12/2024
 - 🦆 [Hà Bắc được tách thành hai tỉnh nào?](https://vnexpress.net/ha-bac-duoc-tach-thanh-hai-tinh-nao-4826132.html) - 13:25 10/12/2024
 - 🦩 [Bình Định hợp tác với VinUni](https://vnexpress.net/binh-dinh-hop-tac-voi-vinuni-4826110.html) - 10:00 10/12/2024
 - 🌮 [Đại học Công nghệ TP HCM dự kiến bỏ xét học bạ 3 kỳ](https://vnexpress.net/dai-hoc-cong-nghe-tp-hcm-du-kien-bo-xet-hoc-ba-3-ky-4826043.html) - 09:42 10/12/2024
