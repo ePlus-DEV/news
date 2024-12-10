@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Có nên cho học sinh tăng nghỉ Tết, giảm nghỉ hè?](https://vnexpress.net/co-nen-cho-hoc-sinh-tang-nghi-tet-giam-nghi-he-4824370.html) - 07:03 10/12/2024
+- 🤓 [&#39;Nên có nhiều kỳ nghỉ cho học sinh&#39;](https://vnexpress.net/nen-co-nhieu-ky-nghi-cho-hoc-sinh-4824370.html) - 07:03 10/12/2024
 - 🦆 [Toyota trao 115 suất học bổng kỹ thuật năm 2024](https://vnexpress.net/toyota-trao-115-suat-hoc-bong-ky-thuat-nam-2024-4825932.html) - 03:00 10/12/2024
 - 🦩 [Hà Nội thưởng tới 300 triệu đồng cho học sinh đạt giải quốc tế](https://vnexpress.net/ha-noi-thuong-toi-300-trieu-dong-cho-hoc-sinh-dat-giai-quoc-te-4825902.html) - 02:56 10/12/2024
 - 🌮 [Những thay đổi của 5 kỳ thi đánh giá năng lực năm 2025](https://vnexpress.net/nhung-thay-doi-cua-5-ky-thi-danh-gia-nang-luc-nam-2025-4825497.html) - 22:37 09/12/2024
