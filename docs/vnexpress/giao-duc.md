@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Thay đổi của 5 kỳ thi đánh giá năng lực năm 2025](https://vnexpress.net/thay-doi-cua-5-ky-thi-danh-gia-nang-luc-nam-2025-4825497.html) - 22:37 09/12/2024
+- 🤓 [Những thay đổi của 5 kỳ thi đánh giá năng lực năm 2025](https://vnexpress.net/nhung-thay-doi-cua-5-ky-thi-danh-gia-nang-luc-nam-2025-4825497.html) - 22:37 09/12/2024
 - 🦆 [Tờ 100.000 đồng polymer in hình danh thắng nào?](https://vnexpress.net/to-100-000-dong-polymer-in-hinh-danh-thang-nao-4825740.html) - 13:31 09/12/2024
 - 🦩 [Sinh viên học kỹ thuật ở trường kinh tế &#39;không lép vế&#39;](https://vnexpress.net/sinh-vien-hoc-ky-thuat-o-truong-kinh-te-khong-lep-ve-4825115.html) - 11:16 09/12/2024
 - 🌮 [&#39;TP HCM kiên định muốn giữ môn tiếng Anh thi vào lớp 10&#39;](https://vnexpress.net/tp-hcm-kien-dinh-muon-giu-mon-tieng-anh-thi-vao-lop-10-4825730.html) - 09:48 09/12/2024
