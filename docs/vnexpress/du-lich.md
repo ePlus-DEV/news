@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Khách sạn trong hang đá ở Thổ Nhĩ Kỳ](https://vnexpress.net/khach-san-trong-hang-da-o-tho-nhi-ky-4818942.html) - 03:40 10/12/2024
+- 💂 [Khách sạn với 17 phòng được khoét sâu trong hang đá](https://vnexpress.net/khach-san-voi-17-phong-duoc-khoet-sau-trong-hang-da-4818942.html) - 03:40 10/12/2024
 - 🪄 [Bài học trekking của gia đình khách Mỹ](https://vnexpress.net/bai-hoc-trekking-cua-gia-dinh-khach-my-4825805.html) - 00:05 10/12/2024
 - 🦅 [Những du khách gây phẫn nộ vì phá hoại di tích, cảnh quan](https://vnexpress.net/nhung-du-khach-gay-phan-no-vi-pha-hoai-di-tich-canh-quan-4825762.html) - 17:09 09/12/2024
 - 🕴 [&#39;Đừng sợ Huế quá tải khách&#39; khi lên thành phố trực thuộc trung ương](https://vnexpress.net/dung-so-hue-qua-tai-khach-khi-len-thanh-pho-truc-thuoc-trung-uong-4825334.html) - 06:41 09/12/2024
