@@ -244,66 +244,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Báo in ngày 10-12: TikToker Mr Pips cùng những góc khuất dần phơi bày](https://nld.com.vn/bao-in-ngay-10-12-tiktoker-mr-pips-cung-nhung-goc-khuat-dan-phoi-bay-196241209223229709.htm) - 17:00 09/12/2024
-- 😺 [VIDEO: 4 bàn thắng trong ngày ra quân của tuyển Việt Nam tại ASEAN Cup 2024](https://nld.com.vn/video-4-ban-thang-trong-ngay-ra-quan-cua-tuyen-viet-nam-tai-asean-cup-2024-196241209231523926.htm) - 16:24 09/12/2024
-- 👍 [VIDEO: Indonesia thắng Myanmar tại ASEAN Cup 2024 bằng &quot;vũ khí&quot; quen thuộc](https://nld.com.vn/video-indonesia-thang-myanmar-tai-asean-cup-2024-bang-vu-khi-quen-thuoc-196241209225000246.htm) - 16:06 09/12/2024
-- 🥷 [ASEAN Cup 2024: Indonesia thắng Myanmar nhờ &quot;đặc sản&quot; ném biên](https://nld.com.vn/asean-cup-2024-indonesia-thang-myanmar-nho-dac-san-nem-bien-196241209214629792.htm) - 15:04 09/12/2024
-- 🤔 [Chứng khoán ngày mai, 10-12: Thị trường có thể nới rộng đà tăng điểm](https://nld.com.vn/chung-khoan-ngay-mai-10-12-thi-truong-co-the-noi-rong-da-tang-diem-196241209172636443.htm) - 15:00 09/12/2024
-- 🌈 [Tổng thống Zelensky bất ngờ đề xuất đưa quân nước ngoài tới Ukraine](https://nld.com.vn/tong-thong-zelensky-bat-ngo-de-xuat-dua-quan-nuoc-ngoai-toi-ukraine-196241209213103802.htm) - 14:56 09/12/2024
-- 🔥 [TP HCM báo cáo Trung ương về Sở An toàn thực phẩm](https://nld.com.vn/tp-hcm-bao-cao-trung-uong-ve-so-an-toan-thuc-pham-196241209204059455.htm) - 14:13 09/12/2024
-- 🧰 [Cảnh sát TP HCM rút súng khống chế tài xế ô tô bỏ chạy](https://nld.com.vn/canh-sat-tp-hcm-rut-sung-khong-che-tai-xe-o-to-bo-chay-196241209202600043.htm) - 13:42 09/12/2024
-- 🤗 [Mỹ cũng &quot;kinh ngạc&quot; về diễn biến chớp nhoáng tại Syria](https://nld.com.vn/my-cung-kinh-ngac-ve-dien-bien-chop-nhoang-tai-syria-196241209191434578.htm) - 13:13 09/12/2024
-- 🦅 [Tuyển Việt Nam đứng đầu bảng B sau trận thắng đậm Lào ngày ra quân ASEAN Cup 2024](https://nld.com.vn/truc-tiep-tuyen-viet-nam-tuyen-lao-tien-linh-quyet-ghi-ban-1962412091949052.htm) - 12:50 09/12/2024
-- 🤩 [Bí thư tỉnh Quảng Bình: Tinh gọn bộ máy, khó nhưng cấp bách!](https://nld.com.vn/bi-thu-tinh-quang-binh-tinh-gon-bo-may-kho-nhung-cap-bach-196241209190218589.htm) - 12:16 09/12/2024
-- 🎭 [Giám đốc Công an tỉnh An Giang chỉ đạo bắt “Hiếu xì-po”](https://nld.com.vn/giam-doc-cong-an-tinh-an-giang-chi-dao-bat-hieu-xi-po-196241209191143749.htm) - 12:15 09/12/2024
-- 💄 [TP HCM: Kẻ đâm tử vong cảnh sát hình sự tiếp tục gây tranh cãi tại toà](https://nld.com.vn/tp-hcm-ke-dam-tu-vong-canh-sat-hinh-su-tiep-tuc-gay-tranh-cai-tai-toa-196241209185110663.htm) - 12:12 09/12/2024
-- 🎊 [Quận 10, TP HCM: Một trường học chưa được cấp phép hoạt động đã tuyển sinh](https://nld.com.vn/quan-10-tp-hcm-mot-truong-hoc-chua-duoc-cap-phep-hoat-dong-da-tuyen-sinh-196241209180146144.htm) - 11:34 09/12/2024
-- 🎡 [Xử lý nghiêm nhũng nhiễu, tiêu cực trong khám tuyển nghĩa vụ quân sự](https://nld.com.vn/xu-ly-nghiem-nhung-nhieu-tieu-cuc-trong-kham-tuyen-nghia-vu-quan-su-196241209175651954.htm) - 11:34 09/12/2024
-- 🎉 [Hàn Quốc: Tổng thống Yoon Suk-yeol vẫn còn cơ hội mong manh?](https://nld.com.vn/han-quoc-tong-thong-yoon-suk-yeol-van-con-co-hoi-mong-manh-196241209182853322.htm) - 11:33 09/12/2024
-- 😺 [Khẳng định chủ trương đúng đắn của Đảng về xây dựng QĐND Việt Nam](https://nld.com.vn/khang-dinh-chu-truong-dung-dan-cua-dang-ve-xay-dung-qdnd-viet-nam-196241209173216325.htm) - 11:25 09/12/2024
-- 🐻 [Khởi tố tài xế xe đầu kéo gây tai nạn liên hoàn với 7 xe ô tô trên Quốc lộ 51](https://nld.com.vn/khoi-to-tai-xe-xe-dau-keo-gay-tai-nan-lien-hoan-voi-7-xe-o-to-tren-quoc-lo-51-196241209174301511.htm) - 11:09 09/12/2024
-- 🤡 [Điện Kremlin nói về quy chế tị nạn cho ông Assad, cảnh báo rắn về căn cứ ở Syria](https://nld.com.vn/dien-kremlin-noi-ve-quy-che-ti-nan-cho-ong-assad-canh-bao-ran-ve-can-cu-o-syria-196241209174337746.htm) - 11:06 09/12/2024
-- 🚦 [Xe ô tô khách gặp tai nạn, nhiều người bị thương](https://nld.com.vn/xe-o-to-khach-gap-tai-nan-nhieu-nguoi-bi-thuong-196241209175850187.htm) - 11:05 09/12/2024
-- 🪜 [Nvidia bắt đầu tuyển dụng hàng loạt nhân sự tại Việt Nam](https://nld.com.vn/nvidia-bat-dau-tuyen-dung-hang-loat-nhan-su-tai-viet-nam-196241209174043026.htm) - 11:03 09/12/2024
-- 💫 [Tối 9-12, giá thế giới tăng vọt, vàng miếng SJC biến động bất ngờ](https://nld.com.vn/toi-9-12-gia-the-gioi-tang-vot-vang-mieng-sjc-bien-dong-bat-ngo-196241209174405008.htm) - 11:02 09/12/2024
-- 🔭 [Phú Yên sắp xếp, tinh gọn nhiều đầu mối, đơn vị](https://nld.com.vn/phu-yen-sap-xep-tinh-gon-nhieu-dau-moi-don-vi-19624120917445695.htm) - 10:48 09/12/2024
-- 🌝 [Những địa điểm có thể đón “tuyết rơi” tại TP HCM](https://nld.com.vn/nhung-dia-diem-co-the-don-tuyet-roi-tai-tp-hcm-196241209171835728.htm) - 10:47 09/12/2024
-- 💪 [Quảng Ngãi hỗ trợ gì cho các bộ dôi dư khi sắp xếp đơn vị hành chính ?](https://nld.com.vn/quang-ngai-ho-tro-gi-cho-cac-bo-doi-du-khi-sap-xep-don-vi-hanh-chinh-196241209170303918.htm) - 10:40 09/12/2024
-- 🦍 [Lãnh đạo Quảng Nam kết luận về dự án của Công ty Bách Đạt An](https://nld.com.vn/lanh-dao-quang-nam-ket-luan-ve-du-an-cua-cong-ty-bach-dat-an-196241209172246754.htm) - 10:39 09/12/2024
-- 🥷 [Vụ thi thể trong xe ôtô chìm dưới lòng hồ thủy điện: Nạn nhân là cán bộ ngân hàng](https://nld.com.vn/vu-thi-the-trong-xe-oto-chim-duoi-long-ho-thuy-dien-nan-nhan-la-can-bo-ngan-hang-196241209170022589.htm) - 10:27 09/12/2024
-- 🫶 [Đánh giá tình huống 2 ca sĩ xuất hiện trong clip quảng cáo cờ bạc](https://nld.com.vn/danh-gia-tinh-huong-2-ca-si-xuat-hien-trong-clip-quang-cao-co-bac-196241209161250633.htm) - 10:03 09/12/2024
-- 🐻 [Chan Chan và những chuyến phiêu lưu cùng âm nhạc](https://phunu.nld.com.vn/chan-chan-va-nhung-chuyen-phieu-luu-cung-am-nhac-19624120910510824.htm) - 09:49 09/12/2024
-- 🐲 [TCL mang Tết ấm đến trẻ em Cao Bằng: Gắn kết yêu thương qua công nghệ](https://nld.com.vn/tcl-mang-tet-am-den-tre-em-cao-bang-gan-ket-yeu-thuong-qua-cong-nghe-196241209162657561.htm) - 09:46 09/12/2024
-- 🧑‍💻 [Tắm nắng cho trẻ và những điều cần biết](https://phunu.nld.com.vn/tam-nang-cho-tre-va-nhung-dieu-can-biet-196241209121946727.htm) - 09:46 09/12/2024
-- 🎬 [Sẵn sàng bước chuyển mình bền vững cho ngành thủy sản Việt Nam](https://nld.com.vn/san-sang-buoc-chuyen-minh-ben-vung-cho-nganh-thuy-san-viet-nam-196241209164148519.htm) - 09:45 09/12/2024
-- 👀 [Hội nghị thế giới về thể thao cộng đồng năm 2024: Techcombank phát triển bền vững cùng cộng đồng](https://nld.com.vn/hoi-nghi-the-gioi-ve-the-thao-cong-dong-nam-2024-techcombank-phat-trien-ben-vung-cung-cong-dong-196241209162442685.htm) - 09:45 09/12/2024
-- 👍 [Lâm Đồng: Nhiều người bị điều tra vì tự ý thu tiền cấp đất nghĩa trang](https://nld.com.vn/lam-dong-nhieu-nguoi-bi-dieu-tra-vi-tu-y-thu-tien-cap-dat-nghia-trang-19624120916282283.htm) - 09:43 09/12/2024
-- 🦅 [Quảng Trị có tân Bí thư Tỉnh ủy](https://nld.com.vn/quang-tri-co-tan-bi-thu-tinh-uy-196241209161254767.htm) - 09:39 09/12/2024
-- 🦏 [Có đủ chỗ gửi xe khi đi metro số 1?](https://nld.com.vn/co-du-cho-gui-xe-khi-di-metro-so-1-196241209160418008.htm) - 09:37 09/12/2024
-- 🗽 [Mù mắt khi tự chế pháo](https://nld.com.vn/mu-mat-khi-tu-che-phao-196241209153051594.htm) - 09:35 09/12/2024
-- 🔭 [Viện Hàng không Vũ trụ Viettel nhận danh hiệu Anh hùng Lực lượng vũ trang nhân dân](https://nld.com.vn/vien-hang-khong-vu-tru-viettel-nhan-danh-hieu-anh-hung-luc-luong-vu-trang-nhan-dan-19624120915425937.htm) - 09:29 09/12/2024
-- 👍 [Người dân cần biết: TP HCM muốn đổi tên nhiều tuyến đường](https://nld.com.vn/nguoi-dan-can-biet-tp-hcm-muon-doi-ten-nhieu-tuyen-duong-196241209160424809.htm) - 09:12 09/12/2024
-- ⛽️ [Tuyển Việt Nam &quot;rộng cửa&quot; vào VCK Asian Cup 2027](https://nld.com.vn/tuyen-viet-nam-rong-cua-vao-vck-asian-cup-2027-196241209155025805.htm) - 09:12 09/12/2024
-- 🥸 [Cần Thơ có nữ Phó Chủ tịch UBND TP mới](https://nld.com.vn/can-tho-co-nu-pho-chu-tich-ubnd-tp-moi-196241209152418665.htm) - 09:08 09/12/2024
-- 🌁 [Quảng Nam tổ chức loạt sự kiện dịp 22-12](https://nld.com.vn/quang-nam-to-chuc-loat-su-kien-dip-22-12-196241209154913719.htm) - 09:07 09/12/2024
-- 🌮 [Lịch xét xử cựu bí thư Thanh Hóa Trịnh Văn Chiến](https://nld.com.vn/lich-xet-xu-cuu-bi-thu-thanh-hoa-trinh-van-chien-19624120915433305.htm) - 09:04 09/12/2024
-- 🎉 [NHCSXH quán triệt, triển khai Chỉ thị số 39-CT/TW](https://nld.com.vn/nhcsxh-quan-triet-trien-khai-chi-thi-so-39-ct-tw-196241209150044137.htm) - 09:00 09/12/2024
-- 🤔 [Đề án hợp nhất 2 Bộ Tài nguyên - Môi trường, Nông nghiệp - Phát triển nông thôn](https://nld.com.vn/de-an-hop-nhat-2-bo-tai-nguyen-moi-truong-nong-nghiep-phat-trien-nong-thon-196241209154153149.htm) - 08:54 09/12/2024
-- 🐘 [Resorts International Việt Nam được cấp đầy đủ giấy phép lữ hành](https://nld.com.vn/resorts-international-viet-nam-duoc-cap-day-du-giay-phep-lu-hanh-196241209113113422.htm) - 08:52 09/12/2024
-- 🙉 [Amway Việt Nam ra mắt máy lọc nước New eSpring](https://thitruong.nld.com.vn/amway-viet-nam-ra-mat-may-loc-nuoc-new-espring-196241209153035204.htm) - 08:51 09/12/2024
-- 🐵 [Ra mắt bao bì mới cho sản phẩm &quot;Phô mai Q-chan&quot;](https://phunu.nld.com.vn/ra-mat-bao-bi-moi-cho-san-pham-pho-mai-q-chan-196241209154223802.htm) - 08:47 09/12/2024
-- 🙉 [Huyền thoại Juventus chỉ ra khía cạnh mà Messi hơn Ronaldo](https://nld.com.vn/huyen-thoai-juventus-chi-ra-khia-canh-ma-messi-hon-ronaldo-196241209150757546.htm) - 08:37 09/12/2024
-- 💪 [Chi tiết biên chế tại 41 phường mới sau sắp xếp vừa được UBND TP HCM đề xuất](https://nld.com.vn/chi-tiet-bien-che-tai-41-phuong-moi-sau-sap-xep-vua-duoc-ubnd-tp-hcm-de-xuat-196241209152546289.htm) - 08:33 09/12/2024
-- ⛽️ [Tổng Bí thư Tô Lâm: Ban Kinh tế Trung ương luôn nhận được sự quan tâm đặc biệt](https://nld.com.vn/tong-bi-thu-to-lam-ban-kinh-te-trung-uong-luon-nhan-duoc-su-quan-tam-dac-biet-196241209151717907.htm) - 08:33 09/12/2024
-- 👺 [Định hướng mới của siêu mẫu Xuân Lan](https://nld.com.vn/dinh-huong-moi-cua-sieu-mau-xuan-lan-19624120914270089.htm) - 08:31 09/12/2024
-- 🧠 [HLV Hoàng Anh Tuấn chia tay CLB B.Bình Dương](https://nld.com.vn/hlv-hoang-anh-tuan-chia-tay-clb-bbinh-duong-196241209152850803.htm) - 08:30 09/12/2024
-- 🔭 [Chính quyền phường yêu cầu dừng, công ty vẫn tiếp tục xây công trình không phép](https://nld.com.vn/chinh-quyen-phuong-yeu-cau-dung-cong-ty-van-tiep-tuc-xay-cong-trinh-khong-phep-196241209144901941.htm) - 08:20 09/12/2024
-- 🦣 [TP HCM: Công an tạm giữ 8 người &quot;phù phép&quot; nước tiểu](https://nld.com.vn/tp-hcm-cong-an-tam-giu-8-nguoi-phu-phep-nuoc-tieu-196241209151454186.htm) - 08:17 09/12/2024
-- 🔥 [Phát hiện xe ôtô chìm dưới lòng hồ thủy điện Hòa Bình, bên trong có thi thể](https://nld.com.vn/phat-hien-xe-oto-chim-duoi-long-ho-thuy-dien-hoa-binh-ben-trong-co-thi-the-196241209150128534.htm) - 08:17 09/12/2024
-- 🌝 [Hơn 100 doanh nghiệp tìm khách mua hàng Tết tại TP HCM](https://nld.com.vn/hon-100-doanh-nghiep-tim-khach-mua-hang-tet-tai-tp-hcm-196241209145400336.htm) - 08:15 09/12/2024
-- 👍 [Bình Thuận an táng liệt sĩ hy sinh trong thực hiện nhiệm vụ diễn tập](https://nld.com.vn/binh-thuan-an-tang-liet-si-hy-sinh-trong-thuc-hien-nhiem-vu-dien-tap-196241209150336281.htm) - 08:14 09/12/2024
-- 💂 [Kết quả xổ số hôm nay, 9-12: TP HCM, Đồng Tháp, Cà Mau, Phú Yên, Hà Nội...](https://nld.com.vn/ket-qua-xo-so-hom-nay-9-12-tp-hcm-dong-thap-ca-mau-phu-yen-ha-noi-19624120915044141.htm) - 08:12 09/12/2024
-- 🤖 [Imagine Dragons và dàn sao Việt mang khoảnh khắc bùng nổ tới 8WONDER Winter](https://nld.com.vn/imagine-dragonsva-dan-sao-viet-mangkhoanh-khac-bung-no-toi-8wonder-winter-196241209150339766.htm) - 08:10 09/12/2024<!-- nld:END -->
+- 🐎 [UBND TP HCM đề xuất bao nhiêu biên chế cho năm 2025?](https://nld.com.vn/ubnd-tp-hcm-de-xuat-bao-nhieu-bien-che-cho-nam-2025-196241210095553661.htm) - 04:08 10/12/2024
+- 😺 [Nhiều sĩ quan cảnh sát ở Hà Nội được hỗ trợ từ 1,8 đến 3,6 triệu đồng/tháng](https://nld.com.vn/nhieu-si-quan-canh-sat-o-ha-noi-duoc-ho-tro-tu-18-den-36-trieu-dong-thang-19624121010381969.htm) - 04:06 10/12/2024
+- 👍 [Sắp xếp, bố trí cán bộ khi tinh gọn tổ chức bộ máy được thực hiện thế nào?](https://nld.com.vn/sap-xep-bo-tri-can-bo-khi-tinh-gon-to-chuc-bo-may-duoc-thuc-hien-the-nao-196241210090459271.htm) - 04:05 10/12/2024
+- 🥷 [Elite Travelers có điều gì khác biệt với các nền tảng booking khác?](https://phunu.nld.com.vn/elite-travelers-co-dieu-gi-khac-biet-voi-cac-nen-tang-booking-khac-196241210103533157.htm) - 03:48 10/12/2024
+- 🤔 [Bộ Công an khen vụ triệt phá băng nhóm ông trùm Bình &quot;kiểm&quot;](https://nld.com.vn/bo-cong-an-khen-vu-triet-pha-bang-nhom-ong-trum-binh-kiem-196241210101813539.htm) - 03:44 10/12/2024
+- 🌈 [Quốc hội sẽ họp vào tháng 2-2025 để sửa luật liên quan tinh gọn bộ máy](https://nld.com.vn/quoc-hoi-se-hop-vao-thang-2-2025-de-sua-luat-lien-quan-tinh-gon-bo-may-196241210094143391.htm) - 03:40 10/12/2024
+- 🔥 [Sống thọ hơn chỉ nhờ uống 3 tách cà phê mỗi ngày?](https://nld.com.vn/song-tho-hon-chi-nho-uong-3-tach-ca-phe-moi-ngay-196241210094840958.htm) - 03:17 10/12/2024
+- 🧰 [MC nhí Việt chiến thắng tại giải thưởng châu Á](https://nld.com.vn/mc-nhi-viet-chien-thang-tai-giai-thuong-chau-a-196241210093617271.htm) - 03:16 10/12/2024
+- 🤗 [Vụ người phụ nữ bạo hành bé gái gây xôn xao mạng xã hội: Tạm đình chỉ cơ sở trông giữ trẻ](https://nld.com.vn/vu-nguoi-phu-nu-bao-hanh-be-gai-gay-xon-xao-mang-xa-hoi-tam-dinh-chi-co-so-trong-giu-tre-196241210092418474.htm) - 02:55 10/12/2024
+- 🦅 [Giá vàng miếng SJC lẫn vàng nhẫn bật tăng mạnh](https://nld.com.vn/gia-vang-mieng-sjc-vang-nhan-bat-tang-manh-196241210085232908.htm) - 02:53 10/12/2024
+- 🤩 [Phát hiện 11 bộ hài cốt tiến hóa dở dang thành người hiện đại](https://nld.com.vn/phat-hien-11-bo-hai-cot-tien-hoa-do-dang-thanh-nguoi-hien-dai-19624121009251725.htm) - 02:49 10/12/2024
+- 🎭 [Real Madrid áp đảo đội hình hay nhất năm FIFPro, Ronaldo và Messi bị gạch tên](https://nld.com.vn/real-madrid-ap-dao-doi-hinh-hay-nhat-nam-fifpro-ronaldo-va-messi-bi-gach-ten-196241210094628103.htm) - 02:47 10/12/2024
+- 💄 [Cuộc sống hiện tại của ca sĩ Lương Bích Hữu](https://nld.com.vn/cuoc-song-hien-tai-cua-ca-si-luong-bich-huu-196241210091411724.htm) - 02:36 10/12/2024
+- 🎊 [Nhà tuyển dụng nào được yêu thích nhất năm 2024?](https://nld.com.vn/nha-tuyen-dung-nao-duoc-yeu-thich-nhat-nam-2024-19624120918393983.htm) - 02:33 10/12/2024
+- 🎡 [Tôn vinh nét đẹp nghệ thuật gốm tại triển lãm &quot;Gốm Văn&quot;](https://nld.com.vn/ton-vinh-net-dep-nghe-thuat-gom-tai-trien-lam-gom-van-196241210061626859.htm) - 02:32 10/12/2024
+- 🎉 [Nghi phạm bắn chết CEO bảo hiểm Mỹ bị bắt, trên người có &quot;súng ma&quot;](https://nld.com.vn/nghi-pham-ban-chet-ceo-bao-hiem-my-bi-bat-tren-nguoi-co-sung-ma-19624121009003121.htm) - 02:25 10/12/2024
+- 😺 [Syria bắt đầu tiến trình chuyển giao quyền lực cho phe nổi dậy](https://nld.com.vn/syria-bat-dau-tien-trinh-chuyen-giao-quyen-luc-cho-phe-noi-day-196241210085536595.htm) - 02:15 10/12/2024
+- 🐻 [HLV Kim Sang-sik nói gì về trận thắng đậm của tuyển Việt Nam?](https://nld.com.vn/hlv-kim-sang-sik-noi-gi-ve-tran-thang-dam-cua-tuyen-viet-nam-196241210090501474.htm) - 02:08 10/12/2024
+- 🤡 [Nâng cao chất lượng hợp tác Việt Nam - Trung Quốc](https://nld.com.vn/nang-cao-chat-luong-hop-tac-viet-nam-trung-quoc-196241209204725551.htm) - 02:07 10/12/2024
+- 🚦 [Xét xử vụ án mua bán hoá đơn khống lớn nhất từ trước đến nay ở TP HCM](https://nld.com.vn/xet-xu-vu-an-mua-ban-hoa-don-khong-lon-nhat-tu-truoc-den-nay-o-tp-hcm-196241210084858246.htm) - 02:00 10/12/2024
+- 🪜 [Vụ cho nợ tiền đấu giá 205 lô đất ở Gia Lai: Chưa thu hồi 15,1 tỉ đồng tiền cọc](https://nld.com.vn/vu-cho-no-tien-dau-gia-205-lo-dat-o-gia-lai-chua-thu-hoi-151-ti-dong-tien-coc-196241210082713284.htm) - 02:00 10/12/2024
+- 💫 [Hôm nay, xét xử vụ án mua bán hóa đơn khống quy mô lớn](https://nld.com.vn/hom-nay-xet-xu-vu-an-mua-ban-hoa-don-khong-quy-mo-lon-19624120920274321.htm) - 02:00 10/12/2024
+- 🔭 [Vũng Tàu tập trung bảo vệ cảnh quan](https://nld.com.vn/vung-tau-tap-trung-bao-ve-canh-quan-196241209190649161.htm) - 02:00 10/12/2024
+- 🌝 [Charm City tặng xe máy tri ân cư dân, khách hàng](https://thitruong.nld.com.vn/charm-city-tang-xe-may-tri-an-cu-dan-khach-hang-196241209143124932.htm) - 02:00 10/12/2024
+- 💪 [Lãi suất hôm nay 10-12: Một ngân hàng bất ngờ giảm lãi suất tiền gửi](https://nld.com.vn/lai-suat-hom-nay-10-12-mot-ngan-hang-bat-ngo-giam-lai-suat-tien-gui-196241209220856463.htm) - 01:51 10/12/2024
+- 🦍 [Bác sĩ cảnh báo từ vụ nữ ca sĩ Thái Lan tử vong khi massage cổ vai gáy](https://nld.com.vn/nu-ca-si-tu-vong-khi-massage-co-vai-gay-bac-si-canh-bao-dieu-gi-196241210080536731.htm) - 01:47 10/12/2024
+- 🥷 [ASEAN Cup hấp dẫn nhờ cầu thủ nhập tịch](https://nld.com.vn/asean-cup-hap-dan-nho-cau-thu-nhap-tich-196241209213501936.htm) - 01:38 10/12/2024
+- 🫶 [5 điều về lương tháng 13 người lao động nên biết](https://nld.com.vn/5-dieu-ve-luong-thang-13-nguoi-lao-dong-nen-biet-196241210082008351.htm) - 01:36 10/12/2024
+- 🐻 [Hành trình rời Syria đến Nga của ông Assad vẫn đầy bí ẩn](https://nld.com.vn/hanh-trinh-roi-syria-den-nga-cua-ong-assad-van-day-bi-an-196241210075050322.htm) - 01:36 10/12/2024
+- 🐲 [Cách mạng về tư duy, tổ chức bộ máy](https://nld.com.vn/cach-mang-ve-tu-duy-to-chuc-bo-may-196241209212941001.htm) - 01:36 10/12/2024
+- 🧑‍💻 [Không khí lạnh mạnh tràn về, miền Bắc rét đậm, miền Trung mưa lớn](https://nld.com.vn/khong-khi-lanh-manh-tran-ve-mien-bac-ret-dam-mien-trung-mua-lon-196241210074620465.htm) - 01:27 10/12/2024
+- 🎬 [Chứng khoán trước giờ giao dịch, 10-12: VinBrain không còn là công ty con của Vingroup](https://nld.com.vn/chung-khoan-truoc-gio-giao-dich-10-12-vinbrain-khong-con-la-cong-ty-con-cua-vingroup-196241210073235622.htm) - 01:26 10/12/2024
+- 👀 [Thời điểm chín muồi để tinh gọn bộ máy: Rõ chức năng, nhiệm vụ](https://nld.com.vn/thoi-diem-chin-muoi-de-tinh-gon-bo-may-ro-chuc-nang-nhiem-vu-19624120920234784.htm) - 01:26 10/12/2024
+- 👍 [Hiện thực hóa giấc mơ đô thị](https://nld.com.vn/hien-thuc-hoa-giac-mo-do-thi-196241209190522293.htm) - 01:23 10/12/2024
+- 🦅 [Bắt tạm giam 7 đối tượng tham ô tài sản ở Bà Rịa - Vũng Tàu](https://nld.com.vn/bat-tam-giam-7-doi-tuong-tham-o-tai-san-o-ba-ria-vung-tau-196241210043515429.htm) - 01:18 10/12/2024
+- 🦏 [Clip nhóm đối tượng &quot;đột nhập từ nóc nhà&quot; ở Đồng Nai bị bắt](https://nld.com.vn/clip-nhom-doi-tuong-dot-nhap-tu-noc-nha-o-dong-nai-bi-bat-196241210073932359.htm) - 01:14 10/12/2024
+- 🗽 [Chủ động chuẩn bị kỹ hành trang &lpar;*&rpar;](https://nld.com.vn/chu-dong-chuan-bi-ky-hanh-trang-196241209212039736.htm) - 01:00 10/12/2024
+- 🔭 [Phe đối lập nhằm vào thủ tướng Hàn Quốc](https://nld.com.vn/phe-doi-lap-nham-vao-thu-tuong-han-quoc-196241209205256787.htm) - 01:00 10/12/2024
+- 👍 [Trọng tài phỉ báng HLV Jurgen Klopp mất việc ở Ngoại hạng Anh](https://nld.com.vn/trong-tai-phi-bang-hlv-jurgen-klopp-mat-viec-o-ngoai-hang-anh-196241210071600624.htm) - 00:51 10/12/2024
+- ⛽️ [Vũ Thị Hoa đăng quang Mrs Earth International 2024](https://nld.com.vn/vu-thi-hoa-dang-quang-mrs-earth-international-2024-196241210073610475.htm) - 00:44 10/12/2024
+- 🥸 [Đường phố TP HCM lung linh đón Giáng sinh](https://nld.com.vn/duong-pho-tp-hcm-lung-linh-don-giang-sinh-196241209152717813.htm) - 00:44 10/12/2024
+- 🌁 [Israel không kích căn cứ không quân Syria, dàn quân dọc biên giới](https://nld.com.vn/israel-khong-kich-can-cu-khong-quan-syria-dan-quan-doc-bien-gioi-196241210072659711.htm) - 00:42 10/12/2024
+- 🌮 [Hàng chục ngàn khán giả Hà Nội bùng nổ cùng &quot;Say hi never say goodbye&quot;](https://nld.com.vn/hang-chuc-ngan-khan-gia-ha-noi-bung-no-cung-say-hi-never-say-goodbye-196241210070546455.htm) - 00:42 10/12/2024
+- 🎉 [Cách tính mức lương hưu hằng tháng từ 1-7-2025](https://nld.com.vn/cach-tinh-muc-luong-huu-hang-thang-tu-1-7-2025-196241209203029451.htm) - 00:42 10/12/2024
+- 🤔 [Đến lúc đánh thuế người có nhiều nhà, đất?](https://nld.com.vn/den-luc-danh-thue-nguoi-co-nhieu-nha-dat-196241209213705507.htm) - 00:38 10/12/2024
+- 🐘 [Quá liều!](https://nld.com.vn/qua-lieu-196241209202509162.htm) - 00:27 10/12/2024
+- 🙉 [Thúc đẩy môi trường làm việc công bằng](https://nld.com.vn/thuc-day-moi-truong-lam-viec-cong-bang-196241209190840232.htm) - 00:18 10/12/2024
+- 🐵 [Cộng đồng mạng đang chia sẻ clip bé trai lịch sự sau va chạm giao thông](https://nld.com.vn/cong-dong-mang-dang-chia-se-clip-be-trai-lich-su-sau-va-cham-giao-thong-196241210071227333.htm) - 00:16 10/12/2024
+- 🙉 [Giá cà phê hôm nay 10-12: Giá thế giới bật tăng, Việt Nam không lo rớt giá](https://nld.com.vn/gia-ca-phe-hom-nay-10-12-gia-the-gioi-bat-tang-viet-nam-khong-lo-rot-gia-196241210063539694.htm) - 00:14 10/12/2024
+- 💪 [Thời tiết TP HCM hôm nay, 10-12: Ngày không mưa, nhiệt độ cao nhất 30 độ C](https://nld.com.vn/thoi-tiet-tp-hcm-hom-nay-10-12-ngay-khong-mua-nhiet-do-cao-nhat-30-do-c-196241210052458152.htm) - 00:14 10/12/2024
+- ⛽️ [Đáp số cho rác thải: Ám ảnh xe &quot;nhiều không&quot;](https://nld.com.vn/dap-so-cho-rac-thai-am-anh-xe-nhieu-khong-19624120919330368.htm) - 00:14 10/12/2024
+- 👺 [Vũ Thùy Linh và &quot;Tơ đồng thánh thót&quot;](https://nld.com.vn/vu-thuy-linh-va-tieng-to-dong-thanh-thot-196241209213917758.htm) - 00:10 10/12/2024
+- 🧠 [TP HCM bàn giải pháp đột phá phát triển toàn diện](https://nld.com.vn/tp-hcm-ban-giai-phap-dot-pha-phat-trien-toan-dien-196241209215129996.htm) - 00:09 10/12/2024
+- 🔭 [Hàng Tết đến với người thu nhập thấp](https://nld.com.vn/hang-tet-den-voi-nguoi-thu-nhap-thap-196241209204607224.htm) - 00:07 10/12/2024
+- 🦣 [Còn nhiều nỗi lo ở Syria](https://nld.com.vn/con-nhieu-noi-lo-o-syria-196241209204847075.htm) - 00:05 10/12/2024
+- 🔥 [Giải Mai Vàng: Hạng mục &quot;Nam ca sĩ - Rapper&quot; và &quot;Nữ ca sĩ&quot; được yêu thích nhất: Đường đua khốc liệt!](https://nld.com.vn/giai-mai-vang-hang-muc-nam-ca-si-rapper-va-nu-ca-si-duoc-yeu-thich-nhat-duong-dua-khoc-liet-196241209220223227.htm) - 00:00 10/12/2024
+- 🌝 [Atalanta - Real Madrid: &quot;Kền kền trắng&quot; lâm nguy](https://nld.com.vn/atalanta-real-madrid-ken-ken-trang-lam-nguy-196241209211426936.htm) - 00:00 10/12/2024
+- 👍 [Nên điều chỉnh thời gian hưởng bảo hiểm thất nghiệp](https://nld.com.vn/nen-dieu-chinh-thoi-gian-huong-bao-hiem-that-nghiep-196241209191300046.htm) - 00:00 10/12/2024
+- 💂 [Tuyển dụng công việc thời vụ tăng mạnh](https://nld.com.vn/tuyen-dung-cong-viec-thoi-vu-tang-manh-196241209190959853.htm) - 00:00 10/12/2024
+- 🤖 [Điểm nóng xung đột ngày 10-12: Iran vội cứu vãn tình hình ở Syria](https://nld.com.vn/diem-nong-xung-dot-ngay-10-12-iran-voi-cuu-van-tinh-hinh-o-syria-19624120922225143.htm) - 23:59 09/12/2024<!-- nld:END -->
 
 ## Báo SGGP
 <!-- sggp:START -->
