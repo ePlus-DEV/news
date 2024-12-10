@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Hiệp đấu căng thẳng của HLV Kim trong trận ra quân ASEAN Cup 204](https://vnexpress.net/hiep-dau-cang-thang-cua-hlv-kim-trong-tran-ra-quan-asean-cup-204-4826045.html) - 05:47 10/12/2024
+- 🪜 [Hiệp đấu căng thẳng của HLV Kim trong trận ra quân ASEAN Cup 2024](https://vnexpress.net/hiep-dau-cang-thang-cua-hlv-kim-trong-tran-ra-quan-asean-cup-2024-4826045.html) - 05:47 10/12/2024
 - 🦩 [Phiên luận tội Man City kết thúc](https://vnexpress.net/phien-luan-toi-man-city-ket-thuc-4825957.html) - 04:23 10/12/2024
 - 🧰 [Xuân Son vui vẻ, HLV Park căng thẳng khi xem Việt Nam](https://vnexpress.net/xuan-son-vui-ve-hlv-park-cang-thang-khi-xem-viet-nam-4825317.html) - 01:12 10/12/2024
 - 🤗 [Odegaard: &#39;Ai cũng nghĩ Arsenal sẽ ghi bàn mỗi khi đá phạt&#39;](https://vnexpress.net/odegaard-ai-cung-nghi-arsenal-se-ghi-ban-moi-khi-da-phat-4825848.html) - 00:48 10/12/2024
