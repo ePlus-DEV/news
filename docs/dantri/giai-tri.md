@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Triệu Lệ Dĩnh vướng nghi vấn &quot;phim giả tình thật với&quot; Lâm Canh Tân](https://dantri.com.vn/giai-tri/trieu-le-dinh-vuong-nghi-van-phim-gia-tinh-that-voi-lam-canh-tan-20241210111617325.htm) - 11:00 10/12/2024
+- 🤩 [Triệu Lệ Dĩnh vướng nghi vấn &quot;phim giả tình thật&quot; với Lâm Canh Tân](https://dantri.com.vn/giai-tri/trieu-le-dinh-vuong-nghi-van-phim-gia-tinh-that-voi-lam-canh-tan-20241210111617325.htm) - 11:00 10/12/2024
 - 🔥 [Thúy Hằng hội ngộ cùng Chí Nhân sau sự cố tai nạn phải khâu 78 mũi](https://dantri.com.vn/giai-tri/thuy-hang-hoi-ngo-cung-chi-nhan-sau-su-co-tai-nan-phai-khau-78-mui-20241210140617505.htm) - 09:24 10/12/2024
 - 🚀 [Sau 10 năm bên nhau không cưới, Tạ Đình Phong chia tay &quot;đàn chị&quot; Vương Phi?](https://dantri.com.vn/giai-tri/sau-10-nam-ben-nhau-khong-cuoi-ta-dinh-phong-chia-tay-dan-chi-vuong-phi-20241210115809748.htm) - 08:00 10/12/2024
 - 🔥 [Từ cơn sốt show &quot;Anh trai&quot;: Đầu tư cho văn hóa vẫn dàn trải, thiếu đồng bộ](https://dantri.com.vn/giai-tri/tu-con-sot-show-anh-trai-dau-tu-cho-van-hoa-van-dan-trai-thieu-dong-bo-20241210123505764.htm) - 06:27 10/12/2024
