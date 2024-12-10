@@ -29,7 +29,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [KIDO sắp họp cổ đông bất thường](https://vnexpress.net/kido-sap-hop-co-dong-bat-thuong-4826124.html) - 13:44 10/12/2024
 - 🧰 [Những hành động hớ hênh khiến nghi phạm sát hại CEO sa lưới](https://vnexpress.net/nhung-hanh-dong-ho-henh-khien-nghi-pham-sat-hai-ceo-sa-luoi-4826242.html) - 13:41 10/12/2024
 - 🥰 [SBI Holdings muốn nắm 35% vốn FPT Smart Cloud Japan](https://vnexpress.net/sbi-holdings-muon-nam-35-von-fpt-smart-cloud-japan-4826245.html) - 13:39 10/12/2024
-- 🌏 [Người đánh tới tấp cô gái sau va chạm bị bắt](https://vnexpress.net/nguoi-danh-toi-tap-co-gai-sau-va-cham-bi-bat-4826064.html) - 13:35 10/12/2024
+- 🌏 [Người đánh tới tấp cô gái sau va chạm giao thông bị bắt](https://vnexpress.net/nguoi-danh-toi-tap-co-gai-sau-va-cham-giao-thong-bi-bat-4826064.html) - 13:35 10/12/2024
 - 🧐 [Hà Bắc được tách thành hai tỉnh nào?](https://vnexpress.net/ha-bac-duoc-tach-thanh-hai-tinh-nao-4826132.html) - 13:25 10/12/2024
 - 💫 [&#39;Đường gây nghiện, làm hại não&#39;](https://vnexpress.net/duong-gay-nghien-lam-hai-nao-4826176.html) - 13:13 10/12/2024
 - 😺 [Quả trứng chim lớn nhất trong lịch sử](https://vnexpress.net/qua-trung-chim-lon-nhat-trong-lich-su-4825854.html) - 13:08 10/12/2024
