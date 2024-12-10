@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Lộ danh tính trọng tài trận đội tuyển Việt Nam quyết đấu Indonesia](https://dantri.com.vn/the-thao/lo-danh-tinh-trong-tai-tran-doi-tuyen-viet-nam-quyet-dau-indonesia-20241210185226602.htm) - 12:00 10/12/2024
-- 💯 [Vết gợn trong chiến thắng đậm của đội tuyển Việt Nam](https://dantri.com.vn/the-thao/vet-gon-trong-chien-thang-dam-cua-doi-tuyen-viet-nam-20241210175403312.htm) - 11:48 10/12/2024
+- 🎡 [Vết gợn trong chiến thắng đậm của đội tuyển Việt Nam](https://dantri.com.vn/the-thao/vet-gon-trong-chien-thang-dam-cua-doi-tuyen-viet-nam-20241210175403312.htm) - 12:48 10/12/2024
+- 💯 [Lộ danh tính trọng tài trận đội tuyển Việt Nam quyết đấu Indonesia](https://dantri.com.vn/the-thao/lo-danh-tinh-trong-tai-tran-doi-tuyen-viet-nam-quyet-dau-indonesia-20241210185226602.htm) - 12:00 10/12/2024
 - ⛽️ [Nhầm lẫn hài hước của AFF trong chiến thắng của tuyển Việt Nam](https://dantri.com.vn/the-thao/nham-lan-hai-huoc-cua-aff-trong-chien-thang-cua-tuyen-viet-nam-20241210184738927.htm) - 11:47 10/12/2024
 - 💃 [Đội tuyển Việt Nam đón tin vui bất ngờ từ FIFA khi thắng đậm Lào](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-don-tin-vui-bat-ngo-tu-fifa-khi-thang-dam-lao-20241210182052783.htm) - 11:20 10/12/2024
 - 🌈 [Đội tuyển Việt Nam về nước, âm thầm chuẩn bị cho trận quyết đấu Indonesia](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-ve-nuoc-am-tham-chuan-bi-cho-tran-quyet-dau-indonesia-20241210151911449.htm) - 08:23 10/12/2024
