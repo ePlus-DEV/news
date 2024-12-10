@@ -21,7 +21,7 @@ sidebar_position: 12
 - 🎡 [Có tín ngưỡng bất thường, hai chị chồng giam lỏng em dâu](https://vnexpress.net/co-tin-nguong-bat-thuong-hai-chi-chong-giam-long-em-dau-4825774.html) - 17:00 09/12/2024
 - 🫶 [Mua nhà thế chấp ngân hàng, có nên cho gia chủ vay tiền để &#39;rút sổ&#39; ra?](https://vnexpress.net/mua-nha-the-chap-ngan-hang-co-nen-cho-gia-chu-vay-tien-de-rut-so-ra-4823247.html) - 17:00 09/12/2024
 - 🐲 [Ba ngày bắt cóc con trai của ca sĩ vĩ đại nhất thế kỷ 20](https://vnexpress.net/ba-ngay-bat-coc-con-trai-cua-ca-si-vi-dai-nhat-the-ky-20-4825567.html) - 14:05 09/12/2024
-- 🚀 [Cảnh sát triệu tập kẻ đánh tới tấp cô gái sau va chạm](https://vnexpress.net/canh-sat-trieu-tap-ke-danh-toi-tap-co-gai-sau-va-cham-4825782.html) - 11:48 09/12/2024
+- 🚀 [Cảnh sát triệu tập kẻ đánh tới tấp thanh niên sau va chạm](https://vnexpress.net/canh-sat-trieu-tap-ke-danh-toi-tap-thanh-nien-sau-va-cham-4825782.html) - 11:48 09/12/2024
 - 🎊 [Kẻ đâm chết cảnh sát hình sự bị phạt án tử hình](https://vnexpress.net/ke-dam-chet-canh-sat-hinh-su-bi-phat-an-tu-hinh-4825769.html) - 11:38 09/12/2024
 - 🤗 [Người lái xe đầu kéo trong vụ 9 ôtô tông liên hoàn bị bắt](https://vnexpress.net/nguoi-lai-xe-dau-keo-trong-vu-9-oto-tong-lien-hoan-bi-bat-4825761.html) - 10:49 09/12/2024
 - 🗽 [Hai chị em bị bắt vì chuyển 4,5 triệu USD ra nước ngoài](https://vnexpress.net/hai-chi-em-bi-bat-vi-chuyen-4-5-trieu-usd-ra-nuoc-ngoai-4825756.html) - 10:43 09/12/2024
