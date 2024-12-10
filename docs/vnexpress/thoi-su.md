@@ -34,7 +34,7 @@ sidebar_position: 1
 - 🦍 [Ông Nguyễn Tuấn Anh làm Chủ tịch tỉnh Yên Bái](https://vnexpress.net/ong-nguyen-tuan-anh-lam-chu-tich-tinh-yen-bai-4825646.html) - 07:47 09/12/2024
 - 🧰 [Phát hiện thi thể trong ôtô ở hồ Hòa Bình](https://vnexpress.net/phat-hien-thi-the-trong-oto-o-ho-hoa-binh-4825628.html) - 07:32 09/12/2024
 - 💃 [Giám đốc Sở Y tế Bạc Liêu bị kỷ luật](https://vnexpress.net/giam-doc-so-y-te-bac-lieu-bi-ky-luat-4825624.html) - 07:30 09/12/2024
-- 🧰 [Nam thanh niên bị hành hung sau va chạm giao thông](https://vnexpress.net/nam-thanh-nien-bi-hanh-hung-sau-va-cham-giao-thong-4825615.html) - 06:47 09/12/2024
+- 🧰 [Cô gái bị hành hung sau va chạm giao thông](https://vnexpress.net/co-gai-bi-hanh-hung-sau-va-cham-giao-thong-4825615.html) - 06:47 09/12/2024
 - 🚀 [Người lái xe phải thi lại lý thuyết ngay khi giấy phép hết hạn](https://vnexpress.net/nguoi-lai-xe-phai-thi-lai-ly-thuyet-ngay-khi-giay-phep-het-han-4825503.html) - 06:18 09/12/2024
 - 🎊 [Xe chở xi măng bốc cháy trên cao tốc](https://vnexpress.net/xe-cho-xi-mang-boc-chay-tren-cao-toc-4825519.html) - 05:14 09/12/2024
 - 🤭 [TP HCM dự kiến thưởng 3 triệu đồng cho phụ nữ sinh đủ hai con trước 35 tuổi](https://vnexpress.net/tp-hcm-du-kien-thuong-3-trieu-dong-cho-phu-nu-sinh-du-hai-con-truoc-35-tuoi-4825489.html) - 03:05 09/12/2024
