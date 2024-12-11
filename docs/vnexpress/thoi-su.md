@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Tài xế, tiếp viên xe buýt đánh nhau với shipper bị thôi việc](https://vnexpress.net/tai-xe-tiep-vien-xe-buyt-danh-nhau-voi-shipper-bi-thoi-viec-4826707.html) - 13:52 11/12/2024
+- 🦒 [Tài xế, tiếp viên xe buýt bị thôi việc vì đánh nhau với shipper](https://vnexpress.net/tai-xe-tiep-vien-xe-buyt-bi-thoi-viec-vi-danh-nhau-voi-shipper-4826707.html) - 13:52 11/12/2024
 - 🤓 [TP HCM nhận bàn giao gói thầu hơn 13.000 tỷ của metro Bến Thành - Suối Tiên](https://vnexpress.net/tp-hcm-nhan-ban-giao-goi-thau-hon-13-000-ty-cua-metro-ben-thanh-suoi-tien-4826696.html) - 12:29 11/12/2024
 - ⚗️ [Hà Nội lần đầu tiên thu ngân sách vượt 500.000 tỷ đồng](https://vnexpress.net/ha-noi-lan-dau-tien-thu-ngan-sach-vuot-500-000-ty-dong-4826668.html) - 12:18 11/12/2024
 - 🌊 [Phó chủ nhiệm Tổng cục Chính trị Lê Quang Minh được thăng quân hàm thượng tướng](https://vnexpress.net/pho-chu-nhiem-tong-cuc-chinh-tri-le-quang-minh-duoc-thang-quan-ham-thuong-tuong-4826690.html) - 12:14 11/12/2024
