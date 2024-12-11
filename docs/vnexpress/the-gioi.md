@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Người Syria thấp thỏm sau ngày quân nổi dậy lật đổ chính phủ](https://vnexpress.net/nguoi-syria-thap-thom-sau-ngay-quan-noi-day-lat-do-chinh-phu-4826080.html) - 07:13 11/12/2024
-- 🕴 [Biến cố có thể thổi bùng nỗi thù ghét của nghi phạm giết CEO Mỹ](https://vnexpress.net/bien-co-co-the-thoi-bung-noi-thu-ghet-cua-nghi-pham-giet-ceo-my-4826297.html) - 05:01 11/12/2024
-- 🤭 [Ông Trump chọn bạn gái cũ của con trai làm đại sứ](https://vnexpress.net/ong-trump-chon-ban-gai-cu-cua-con-trai-lam-dai-su-4826411.html) - 04:39 11/12/2024
-- 🧑‍💻 [Triều Tiên nói Hàn Quốc đang &#39;hỗn loạn&#39;](https://vnexpress.net/trieu-tien-noi-han-quoc-dang-hon-loan-4826349.html) - 04:33 11/12/2024
-- 🦏 [Nga sơ tán ông Assad khỏi Syria &#39;bằng cách an toàn nhất&#39;](https://vnexpress.net/nga-so-tan-ong-assad-khoi-syria-bang-cach-an-toan-nhat-4826318.html) - 04:11 11/12/2024
-- 🦒 [Hai lãnh đạo cảnh sát Hàn Quốc bị bắt khẩn cấp](https://vnexpress.net/hai-lanh-dao-canh-sat-han-quoc-bi-bat-khan-cap-4826316.html) - 03:42 11/12/2024
-- 🌈 [Thủ lĩnh phe nổi dậy tuyên bố sẽ chấm dứt chiến tranh ở Syria](https://vnexpress.net/thu-linh-phe-noi-day-tuyen-bo-se-cham-dut-chien-tranh-o-syria-4826320.html) - 03:29 11/12/2024
-- 🧑‍🏫 [Cựu bộ trưởng quốc phòng Hàn Quốc tự tử bất thành](https://vnexpress.net/cuu-bo-truong-quoc-phong-han-quoc-tu-tu-bat-thanh-4826402.html) - 03:13 11/12/2024
-- 🐲 [Nghị sĩ Mỹ đoán ông Biden sẽ ân xá cho em trai](https://vnexpress.net/nghi-si-my-doan-ong-biden-se-an-xa-cho-em-trai-4826326.html) - 03:07 11/12/2024
-- 🦒 [Nghi phạm sát hại CEO bảo hiểm la hét khi đến tòa](https://vnexpress.net/nghi-pham-sat-hai-ceo-bao-hiem-la-het-khi-den-toa-4826311.html) - 02:59 11/12/2024
-- 🐻 [Cảnh sát khám xét Văn phòng Tổng thống Hàn Quốc](https://vnexpress.net/canh-sat-kham-xet-van-phong-tong-thong-han-quoc-4826393.html) - 02:51 11/12/2024
-- 🚀 [Israel tuyên bố phá hủy 80% năng lực quân sự chiến lược của Syria](https://vnexpress.net/israel-tuyen-bo-pha-huy-80-nang-luc-quan-su-chien-luoc-cua-syria-4826285.html) - 02:24 11/12/2024
-- 🥰 [Houthi tấn công nhóm chiến hạm, tàu hàng Mỹ](https://vnexpress.net/houthi-tan-cong-nhom-chien-ham-tau-hang-my-4826289.html) - 01:40 11/12/2024
-- 🔥 [Nghi phạm giết CEO bảo hiểm Mỹ viết sẵn thư hé lộ động cơ](https://vnexpress.net/nghi-pham-giet-ceo-bao-hiem-my-viet-san-thu-he-lo-dong-co-4826141.html) - 00:49 11/12/2024
-- 🥳 [Ông Biden lo ngại sách lược kinh tế của ông Trump sẽ là &#39;thảm họa&#39;](https://vnexpress.net/ong-biden-lo-ngai-sach-luoc-kinh-te-cua-ong-trump-se-la-tham-hoa-4826280.html) - 00:16 11/12/2024
-- 💼 [Quân nổi dậy Syria kiểm soát thành phố miền đông Deir ez-Zor](https://vnexpress.net/quan-noi-day-syria-kiem-soat-thanh-pho-mien-dong-deir-ez-zor-4826282.html) - 23:45 10/12/2024
-- 🤡 [Những nhóm vũ trang đang cát cứ lãnh thổ Syria](https://vnexpress.net/nhung-nhom-vu-trang-dang-cat-cu-lanh-tho-syria-4825968.html) - 22:00 10/12/2024
-- 🌁 [Cách ông Trump có thể &#39;ngầm&#39; rút Mỹ khỏi NATO](https://vnexpress.net/cach-ong-trump-co-the-ngam-rut-my-khoi-nato-4825672.html) - 17:00 10/12/2024
-- 🤩 [Tòa Hàn Quốc ra lệnh bắt chính thức với cựu bộ trưởng quốc phòng](https://vnexpress.net/toa-han-quoc-ra-lenh-bat-chinh-thuc-voi-cuu-bo-truong-quoc-phong-4826263.html) - 16:41 10/12/2024
+- 🎭 [Ông Trump: Giải quyết khủng hoảng Ukraine là ưu tiên hàng đầu](https://vnexpress.net/ong-trump-giai-quyet-khung-hoang-ukraine-la-uu-tien-hang-dau-4826536.html) - 08:17 11/12/2024
+- 🕴 [Người Syria thấp thỏm sau ngày quân nổi dậy lật đổ chính phủ](https://vnexpress.net/nguoi-syria-thap-thom-sau-ngay-quan-noi-day-lat-do-chinh-phu-4826080.html) - 07:13 11/12/2024
+- 🤭 [Biến cố có thể thổi bùng nỗi thù ghét của nghi phạm giết CEO Mỹ](https://vnexpress.net/bien-co-co-the-thoi-bung-noi-thu-ghet-cua-nghi-pham-giet-ceo-my-4826297.html) - 05:01 11/12/2024
+- 🧑‍💻 [Ông Trump chọn bạn gái cũ của con trai làm đại sứ](https://vnexpress.net/ong-trump-chon-ban-gai-cu-cua-con-trai-lam-dai-su-4826411.html) - 04:39 11/12/2024
+- 🦏 [Triều Tiên nói Hàn Quốc đang &#39;hỗn loạn&#39;](https://vnexpress.net/trieu-tien-noi-han-quoc-dang-hon-loan-4826349.html) - 04:33 11/12/2024
+- 🦒 [Nga sơ tán ông Assad khỏi Syria &#39;bằng cách an toàn nhất&#39;](https://vnexpress.net/nga-so-tan-ong-assad-khoi-syria-bang-cach-an-toan-nhat-4826318.html) - 04:11 11/12/2024
+- 🌈 [Hai lãnh đạo cảnh sát Hàn Quốc bị bắt khẩn cấp](https://vnexpress.net/hai-lanh-dao-canh-sat-han-quoc-bi-bat-khan-cap-4826316.html) - 03:42 11/12/2024
+- 🧑‍🏫 [Thủ lĩnh phe nổi dậy tuyên bố sẽ chấm dứt chiến tranh ở Syria](https://vnexpress.net/thu-linh-phe-noi-day-tuyen-bo-se-cham-dut-chien-tranh-o-syria-4826320.html) - 03:29 11/12/2024
+- 🐲 [Cựu bộ trưởng quốc phòng Hàn Quốc tự tử bất thành](https://vnexpress.net/cuu-bo-truong-quoc-phong-han-quoc-tu-tu-bat-thanh-4826402.html) - 03:13 11/12/2024
+- 🦒 [Nghị sĩ Mỹ đoán ông Biden sẽ ân xá cho em trai](https://vnexpress.net/nghi-si-my-doan-ong-biden-se-an-xa-cho-em-trai-4826326.html) - 03:07 11/12/2024
+- 🐻 [Nghi phạm sát hại CEO bảo hiểm la hét khi đến tòa](https://vnexpress.net/nghi-pham-sat-hai-ceo-bao-hiem-la-het-khi-den-toa-4826311.html) - 02:59 11/12/2024
+- 🚀 [Cảnh sát khám xét Văn phòng Tổng thống Hàn Quốc](https://vnexpress.net/canh-sat-kham-xet-van-phong-tong-thong-han-quoc-4826393.html) - 02:51 11/12/2024
+- 🥰 [Israel tuyên bố phá hủy 80% năng lực quân sự chiến lược của Syria](https://vnexpress.net/israel-tuyen-bo-pha-huy-80-nang-luc-quan-su-chien-luoc-cua-syria-4826285.html) - 02:24 11/12/2024
+- 🔥 [Houthi tấn công nhóm chiến hạm, tàu hàng Mỹ](https://vnexpress.net/houthi-tan-cong-nhom-chien-ham-tau-hang-my-4826289.html) - 01:40 11/12/2024
+- 🥳 [Nghi phạm giết CEO bảo hiểm Mỹ viết sẵn thư hé lộ động cơ](https://vnexpress.net/nghi-pham-giet-ceo-bao-hiem-my-viet-san-thu-he-lo-dong-co-4826141.html) - 00:49 11/12/2024
+- 💼 [Ông Biden lo ngại sách lược kinh tế của ông Trump sẽ là &#39;thảm họa&#39;](https://vnexpress.net/ong-biden-lo-ngai-sach-luoc-kinh-te-cua-ong-trump-se-la-tham-hoa-4826280.html) - 00:16 11/12/2024
+- 🤡 [Quân nổi dậy Syria kiểm soát thành phố miền đông Deir ez-Zor](https://vnexpress.net/quan-noi-day-syria-kiem-soat-thanh-pho-mien-dong-deir-ez-zor-4826282.html) - 23:45 10/12/2024
+- 🌁 [Những nhóm vũ trang đang cát cứ lãnh thổ Syria](https://vnexpress.net/nhung-nhom-vu-trang-dang-cat-cu-lanh-tho-syria-4825968.html) - 22:00 10/12/2024
+- 🤩 [Cách ông Trump có thể &#39;ngầm&#39; rút Mỹ khỏi NATO](https://vnexpress.net/cach-ong-trump-co-the-ngam-rut-my-khoi-nato-4825672.html) - 17:00 10/12/2024
+- 🎉 [Tòa Hàn Quốc ra lệnh bắt chính thức với cựu bộ trưởng quốc phòng](https://vnexpress.net/toa-han-quoc-ra-lenh-bat-chinh-thuc-voi-cuu-bo-truong-quoc-phong-4826263.html) - 16:41 10/12/2024
 - 🎉 [Israel xác nhận phá hủy hạm đội Syria](https://vnexpress.net/israel-xac-nhan-pha-huy-ham-doi-syria-4826255.html) - 16:04 10/12/2024
-- 🎉 [Việt Nam đề nghị Trung Quốc đẩy nhanh kết nối đường sắt](https://vnexpress.net/viet-nam-de-nghi-trung-quoc-day-nhanh-ket-noi-duong-sat-4826246.html) - 14:45 10/12/2024
-- 🌁 [Phe nổi dậy Syria chọn thủ tướng lâm thời](https://vnexpress.net/phe-noi-day-syria-chon-thu-tuong-lam-thoi-4826248.html) - 14:24 10/12/2024
-- 🌊 [Những hành động hớ hênh khiến nghi phạm sát hại CEO sa lưới](https://vnexpress.net/nhung-hanh-dong-ho-henh-khien-nghi-pham-sat-hai-ceo-sa-luoi-4826242.html) - 13:41 10/12/2024
-- 🕴 [Xu hướng thuê trai trẻ đồng hành leo núi ở Trung Quốc](https://vnexpress.net/xu-huong-thue-trai-tre-dong-hanh-leo-nui-o-trung-quoc-4826146.html) - 12:30 10/12/2024
-- 🎓 [Từ &#39;đóa hồng sa mạc&#39; đến đệ nhất phu nhân Syria lưu vong](https://vnexpress.net/tu-doa-hong-sa-mac-den-de-nhat-phu-nhan-syria-luu-vong-4825641.html) - 12:00 10/12/2024
-- 🦩 [Ông Zelensky tuyên bố không hạ tuổi nhập ngũ để tăng quân](https://vnexpress.net/ong-zelensky-tuyen-bo-khong-ha-tuoi-nhap-ngu-de-tang-quan-4826173.html) - 10:26 10/12/2024
-- 🌏 [Đảng cầm quyền Hàn Quốc cân nhắc thời điểm ông Yoon từ chức](https://vnexpress.net/dang-cam-quyen-han-quoc-can-nhac-thoi-diem-ong-yoon-tu-chuc-4826170.html) - 10:15 10/12/2024
-- 🌋 [Thủ tướng Israel lần đầu hầu tòa](https://vnexpress.net/thu-tuong-israel-lan-dau-hau-toa-4826139.html) - 09:21 10/12/2024
-- 🪜 [Quân đội Israel &#39;cách Damascus 25 km&#39;](https://vnexpress.net/quan-doi-israel-cach-damascus-25-km-4826123.html) - 09:12 10/12/2024
-- 🕴 [Cảnh sát triệu tập Thủ tướng Hàn Quốc để thẩm vấn](https://vnexpress.net/canh-sat-trieu-tap-thu-tuong-han-quoc-de-tham-van-4826111.html) - 08:55 10/12/2024
-- 🧑‍🏫 [Nhóm người đồng tính dự tiệc ma túy trong khách sạn Thái Lan](https://vnexpress.net/nhom-nguoi-dong-tinh-du-tiec-ma-tuy-trong-khach-san-thai-lan-4826070.html) - 08:38 10/12/2024
-- 🌮 [Hàn Quốc sẽ bổ nhiệm công tố viên đặc biệt điều tra Tổng thống](https://vnexpress.net/han-quoc-se-bo-nhiem-cong-to-vien-dac-biet-dieu-tra-tong-thong-4826087.html) - 08:01 10/12/2024
-- 🚦 [Drone cáp quang Nga bắn cháy loạt Leopard 2 tối tân của Ukraine](https://vnexpress.net/drone-cap-quang-nga-ban-chay-loat-leopard-2-toi-tan-cua-ukraine-4826024.html) - 07:53 10/12/2024
-- 💫 [5 ngày cảnh sát Mỹ truy lùng nghi phạm sát hại CEO bảo hiểm](https://vnexpress.net/5-ngay-canh-sat-my-truy-lung-nghi-pham-sat-hai-ceo-bao-hiem-4825879.html) - 07:38 10/12/2024
-- 🤡 [Quân nổi dậy lên danh sách truy nã cựu quan chức Syria](https://vnexpress.net/quan-noi-day-len-danh-sach-truy-na-cuu-quan-chuc-syria-4825959.html) - 06:54 10/12/2024
-- 🦣 [Ông Trump khen Thái tử William điển trai](https://vnexpress.net/ong-trump-khen-thai-tu-william-dien-trai-4825938.html) - 04:54 10/12/2024
-- 🎬 [Tương lai bất định của lực lượng Nga đồn trú ở Syria](https://vnexpress.net/tuong-lai-bat-dinh-cua-luc-luong-nga-don-tru-o-syria-4825464.html) - 04:53 10/12/2024
-- 🎉 [77 người đoạt giải Nobel phản đối ứng viên bộ trưởng y tế Mỹ](https://vnexpress.net/77-nguoi-doat-giai-nobel-phan-doi-ung-vien-bo-truong-y-te-my-4825906.html) - 04:34 10/12/2024
-- 🎡 [Nghi phạm có thể dùng &#39;súng ma&#39; bắn CEO bảo hiểm Mỹ](https://vnexpress.net/nghi-pham-co-the-dung-sung-ma-ban-ceo-bao-hiem-my-4825943.html) - 04:29 10/12/2024
-- 🌜 [Israel không kích Syria &#39;hơn 100 lần trong một ngày&#39;](https://vnexpress.net/israel-khong-kich-syria-hon-100-lan-trong-mot-ngay-4825905.html) - 04:02 10/12/2024
-- 🎡 [Nghi phạm ám sát CEO bảo hiểm Mỹ là ai?](https://vnexpress.net/nghi-pham-am-sat-ceo-bao-hiem-my-la-ai-4825900.html) - 03:43 10/12/2024
-- 🤗 [Chiến hạm Nga rời quân cảng Syria sau khi Damascus thất thủ](https://vnexpress.net/chien-ham-nga-roi-quan-cang-syria-sau-khi-damascus-that-thu-4825869.html) - 03:06 10/12/2024
-- 🦩 [Hội đồng Bảo an họp khẩn về tình hình Syria](https://vnexpress.net/hoi-dong-bao-an-hop-khan-ve-tinh-hinh-syria-4825871.html) - 02:54 10/12/2024
-- 🎓 [Xuồng không người lái Ukraine nã đạn vào trực thăng Nga](https://vnexpress.net/xuong-khong-nguoi-lai-ukraine-na-dan-vao-truc-thang-nga-4825862.html) - 02:51 10/12/2024
-- 🌁 [Giáp Liên Xô &#39;không cứu được&#39; xe tăng Leopard, Abrams Ukraine](https://vnexpress.net/giap-lien-xo-khong-cuu-duoc-xe-tang-leopard-abrams-ukraine-4825664.html) - 02:19 10/12/2024
-- 🤩 [Ông Zelensky nêu ý tưởng binh sĩ phương Tây đến Ukraine đảm bảo an ninh](https://vnexpress.net/ong-zelensky-neu-y-tuong-binh-si-phuong-tay-den-ukraine-dam-bao-an-ninh-4825845.html) - 01:23 10/12/2024
-- 👹 [Thủ tướng Syria đàm phán chuyển giao quyền lực với nhóm vũ trang](https://vnexpress.net/thu-tuong-syria-dam-phan-chuyen-giao-quyen-luc-voi-nhom-vu-trang-4825846.html) - 00:44 10/12/2024
-- ⛽️ [Hoài nghi về ứng viên được ông Trump chọn làm giám đốc FBI](https://vnexpress.net/hoai-nghi-ve-ung-vien-duoc-ong-trump-chon-lam-giam-doc-fbi-4822613.html) - 00:22 10/12/2024
-- 🚀 [Mỹ công bố danh tính nghi phạm sát hại CEO bảo hiểm](https://vnexpress.net/my-cong-bo-danh-tinh-nghi-pham-sat-hai-ceo-bao-hiem-4825836.html) - 23:36 09/12/2024
-- 🎡 [Những ý tưởng chấm dứt xung đột Ukraine của đội ngũ ông Trump](https://vnexpress.net/nhung-y-tuong-cham-dut-xung-dot-ukraine-cua-doi-ngu-ong-trump-4824746.html) - 22:00 09/12/2024
-- 🕯 [Cảnh sát Mỹ thẩm vấn nghi can vụ ám sát CEO bảo hiểm](https://vnexpress.net/canh-sat-my-tham-van-nghi-can-vu-am-sat-ceo-bao-hiem-4825823.html) - 17:08 09/12/2024
-- 🐻 [Nửa thế kỷ gia tộc Assad trỗi dậy và sụp đổ ở Syria](https://vnexpress.net/nua-the-ky-gia-toc-assad-troi-day-va-sup-do-o-syria-4825416.html) - 17:00 09/12/2024
-- 🚦 [Ông Trump dọa bỏ tù thành viên ủy ban điều tra bạo loạn Đồi Capitol](https://vnexpress.net/ong-trump-doa-bo-tu-thanh-vien-uy-ban-dieu-tra-bao-loan-doi-capitol-4825809.html) - 15:26 09/12/2024
-- 👍 [Philippines bắt nhóm rao bán uranium nghèo](https://vnexpress.net/philippines-bat-nhom-rao-ban-uranium-ngheo-4825800.html) - 13:41 09/12/2024
-- 🚀 [Dinh tổng thống Syria hoang tàn trong ngày hỗn loạn](https://vnexpress.net/dinh-tong-thong-syria-hoang-tan-trong-ngay-hon-loan-4825771.html) - 12:38 09/12/2024
-- 🌮 [Tổng thống Putin cấp quy chế tị nạn cho ông Assad](https://vnexpress.net/tong-thong-putin-cap-quy-che-ti-nan-cho-ong-assad-4825767.html) - 12:10 09/12/2024
-- 😎 [Nguy cơ Syria chìm vào hỗn loạn sau khi chính quyền Assad sụp đổ](https://vnexpress.net/nguy-co-syria-chim-vao-hon-loan-sau-khi-chinh-quyen-assad-sup-do-4825406.html) - 12:00 09/12/2024
-- 🐲 [Sự phối hợp giữa ông Biden và ông Trump phía sau lệnh ngừng bắn Israel - Hezbollah](https://vnexpress.net/su-phoi-hop-giua-ong-biden-va-ong-trump-phia-sau-lenh-ngung-ban-israel-hezbollah-4821718.html) - 10:40 09/12/2024
-- 💫 [Con dâu ông Trump cân nhắc trở thành thượng nghị sĩ](https://vnexpress.net/con-dau-ong-trump-can-nhac-tro-thanh-thuong-nghi-si-4825556.html) - 08:36 09/12/2024
-- 👀 [Bộ sưu tập xe sang được cho là của ông Assad](https://vnexpress.net/bo-suu-tap-xe-sang-duoc-cho-la-cua-ong-assad-4825547.html) - 08:20 09/12/2024<!-- vnexpress-the-gioi:END -->
+- 🌁 [Việt Nam đề nghị Trung Quốc đẩy nhanh kết nối đường sắt](https://vnexpress.net/viet-nam-de-nghi-trung-quoc-day-nhanh-ket-noi-duong-sat-4826246.html) - 14:45 10/12/2024
+- 🌊 [Phe nổi dậy Syria chọn thủ tướng lâm thời](https://vnexpress.net/phe-noi-day-syria-chon-thu-tuong-lam-thoi-4826248.html) - 14:24 10/12/2024
+- 🕴 [Những hành động hớ hênh khiến nghi phạm sát hại CEO sa lưới](https://vnexpress.net/nhung-hanh-dong-ho-henh-khien-nghi-pham-sat-hai-ceo-sa-luoi-4826242.html) - 13:41 10/12/2024
+- 🎓 [Xu hướng thuê trai trẻ đồng hành leo núi ở Trung Quốc](https://vnexpress.net/xu-huong-thue-trai-tre-dong-hanh-leo-nui-o-trung-quoc-4826146.html) - 12:30 10/12/2024
+- 🦩 [Từ &#39;đóa hồng sa mạc&#39; đến đệ nhất phu nhân Syria lưu vong](https://vnexpress.net/tu-doa-hong-sa-mac-den-de-nhat-phu-nhan-syria-luu-vong-4825641.html) - 12:00 10/12/2024
+- 🌏 [Ông Zelensky tuyên bố không hạ tuổi nhập ngũ để tăng quân](https://vnexpress.net/ong-zelensky-tuyen-bo-khong-ha-tuoi-nhap-ngu-de-tang-quan-4826173.html) - 10:26 10/12/2024
+- 🌋 [Đảng cầm quyền Hàn Quốc cân nhắc thời điểm ông Yoon từ chức](https://vnexpress.net/dang-cam-quyen-han-quoc-can-nhac-thoi-diem-ong-yoon-tu-chuc-4826170.html) - 10:15 10/12/2024
+- 🪜 [Thủ tướng Israel lần đầu hầu tòa](https://vnexpress.net/thu-tuong-israel-lan-dau-hau-toa-4826139.html) - 09:21 10/12/2024
+- 🕴 [Quân đội Israel &#39;cách Damascus 25 km&#39;](https://vnexpress.net/quan-doi-israel-cach-damascus-25-km-4826123.html) - 09:12 10/12/2024
+- 🧑‍🏫 [Cảnh sát triệu tập Thủ tướng Hàn Quốc để thẩm vấn](https://vnexpress.net/canh-sat-trieu-tap-thu-tuong-han-quoc-de-tham-van-4826111.html) - 08:55 10/12/2024
+- 🌮 [Nhóm người đồng tính dự tiệc ma túy trong khách sạn Thái Lan](https://vnexpress.net/nhom-nguoi-dong-tinh-du-tiec-ma-tuy-trong-khach-san-thai-lan-4826070.html) - 08:38 10/12/2024
+- 🚦 [Hàn Quốc sẽ bổ nhiệm công tố viên đặc biệt điều tra Tổng thống](https://vnexpress.net/han-quoc-se-bo-nhiem-cong-to-vien-dac-biet-dieu-tra-tong-thong-4826087.html) - 08:01 10/12/2024
+- 💫 [Drone cáp quang Nga bắn cháy loạt Leopard 2 tối tân của Ukraine](https://vnexpress.net/drone-cap-quang-nga-ban-chay-loat-leopard-2-toi-tan-cua-ukraine-4826024.html) - 07:53 10/12/2024
+- 🤡 [5 ngày cảnh sát Mỹ truy lùng nghi phạm sát hại CEO bảo hiểm](https://vnexpress.net/5-ngay-canh-sat-my-truy-lung-nghi-pham-sat-hai-ceo-bao-hiem-4825879.html) - 07:38 10/12/2024
+- 🦣 [Quân nổi dậy lên danh sách truy nã cựu quan chức Syria](https://vnexpress.net/quan-noi-day-len-danh-sach-truy-na-cuu-quan-chuc-syria-4825959.html) - 06:54 10/12/2024
+- 🎬 [Ông Trump khen Thái tử William điển trai](https://vnexpress.net/ong-trump-khen-thai-tu-william-dien-trai-4825938.html) - 04:54 10/12/2024
+- 🎉 [Tương lai bất định của lực lượng Nga đồn trú ở Syria](https://vnexpress.net/tuong-lai-bat-dinh-cua-luc-luong-nga-don-tru-o-syria-4825464.html) - 04:53 10/12/2024
+- 🎡 [77 người đoạt giải Nobel phản đối ứng viên bộ trưởng y tế Mỹ](https://vnexpress.net/77-nguoi-doat-giai-nobel-phan-doi-ung-vien-bo-truong-y-te-my-4825906.html) - 04:34 10/12/2024
+- 🌜 [Nghi phạm có thể dùng &#39;súng ma&#39; bắn CEO bảo hiểm Mỹ](https://vnexpress.net/nghi-pham-co-the-dung-sung-ma-ban-ceo-bao-hiem-my-4825943.html) - 04:29 10/12/2024
+- 🎡 [Israel không kích Syria &#39;hơn 100 lần trong một ngày&#39;](https://vnexpress.net/israel-khong-kich-syria-hon-100-lan-trong-mot-ngay-4825905.html) - 04:02 10/12/2024
+- 🤗 [Nghi phạm ám sát CEO bảo hiểm Mỹ là ai?](https://vnexpress.net/nghi-pham-am-sat-ceo-bao-hiem-my-la-ai-4825900.html) - 03:43 10/12/2024
+- 🦩 [Chiến hạm Nga rời quân cảng Syria sau khi Damascus thất thủ](https://vnexpress.net/chien-ham-nga-roi-quan-cang-syria-sau-khi-damascus-that-thu-4825869.html) - 03:06 10/12/2024
+- 🎓 [Hội đồng Bảo an họp khẩn về tình hình Syria](https://vnexpress.net/hoi-dong-bao-an-hop-khan-ve-tinh-hinh-syria-4825871.html) - 02:54 10/12/2024
+- 🌁 [Xuồng không người lái Ukraine nã đạn vào trực thăng Nga](https://vnexpress.net/xuong-khong-nguoi-lai-ukraine-na-dan-vao-truc-thang-nga-4825862.html) - 02:51 10/12/2024
+- 🤩 [Giáp Liên Xô &#39;không cứu được&#39; xe tăng Leopard, Abrams Ukraine](https://vnexpress.net/giap-lien-xo-khong-cuu-duoc-xe-tang-leopard-abrams-ukraine-4825664.html) - 02:19 10/12/2024
+- 👹 [Ông Zelensky nêu ý tưởng binh sĩ phương Tây đến Ukraine đảm bảo an ninh](https://vnexpress.net/ong-zelensky-neu-y-tuong-binh-si-phuong-tay-den-ukraine-dam-bao-an-ninh-4825845.html) - 01:23 10/12/2024
+- ⛽️ [Thủ tướng Syria đàm phán chuyển giao quyền lực với nhóm vũ trang](https://vnexpress.net/thu-tuong-syria-dam-phan-chuyen-giao-quyen-luc-voi-nhom-vu-trang-4825846.html) - 00:44 10/12/2024
+- 🚀 [Hoài nghi về ứng viên được ông Trump chọn làm giám đốc FBI](https://vnexpress.net/hoai-nghi-ve-ung-vien-duoc-ong-trump-chon-lam-giam-doc-fbi-4822613.html) - 00:22 10/12/2024
+- 🎡 [Mỹ công bố danh tính nghi phạm sát hại CEO bảo hiểm](https://vnexpress.net/my-cong-bo-danh-tinh-nghi-pham-sat-hai-ceo-bao-hiem-4825836.html) - 23:36 09/12/2024
+- 🕯 [Những ý tưởng chấm dứt xung đột Ukraine của đội ngũ ông Trump](https://vnexpress.net/nhung-y-tuong-cham-dut-xung-dot-ukraine-cua-doi-ngu-ong-trump-4824746.html) - 22:00 09/12/2024
+- 🐻 [Cảnh sát Mỹ thẩm vấn nghi can vụ ám sát CEO bảo hiểm](https://vnexpress.net/canh-sat-my-tham-van-nghi-can-vu-am-sat-ceo-bao-hiem-4825823.html) - 17:08 09/12/2024
+- 🚦 [Nửa thế kỷ gia tộc Assad trỗi dậy và sụp đổ ở Syria](https://vnexpress.net/nua-the-ky-gia-toc-assad-troi-day-va-sup-do-o-syria-4825416.html) - 17:00 09/12/2024
+- 👍 [Ông Trump dọa bỏ tù thành viên ủy ban điều tra bạo loạn Đồi Capitol](https://vnexpress.net/ong-trump-doa-bo-tu-thanh-vien-uy-ban-dieu-tra-bao-loan-doi-capitol-4825809.html) - 15:26 09/12/2024
+- 🚀 [Philippines bắt nhóm rao bán uranium nghèo](https://vnexpress.net/philippines-bat-nhom-rao-ban-uranium-ngheo-4825800.html) - 13:41 09/12/2024
+- 🌮 [Dinh tổng thống Syria hoang tàn trong ngày hỗn loạn](https://vnexpress.net/dinh-tong-thong-syria-hoang-tan-trong-ngay-hon-loan-4825771.html) - 12:38 09/12/2024
+- 😎 [Tổng thống Putin cấp quy chế tị nạn cho ông Assad](https://vnexpress.net/tong-thong-putin-cap-quy-che-ti-nan-cho-ong-assad-4825767.html) - 12:10 09/12/2024
+- 🐲 [Nguy cơ Syria chìm vào hỗn loạn sau khi chính quyền Assad sụp đổ](https://vnexpress.net/nguy-co-syria-chim-vao-hon-loan-sau-khi-chinh-quyen-assad-sup-do-4825406.html) - 12:00 09/12/2024
+- 💫 [Sự phối hợp giữa ông Biden và ông Trump phía sau lệnh ngừng bắn Israel - Hezbollah](https://vnexpress.net/su-phoi-hop-giua-ong-biden-va-ong-trump-phia-sau-lenh-ngung-ban-israel-hezbollah-4821718.html) - 10:40 09/12/2024
+- 👀 [Con dâu ông Trump cân nhắc trở thành thượng nghị sĩ](https://vnexpress.net/con-dau-ong-trump-can-nhac-tro-thanh-thuong-nghi-si-4825556.html) - 08:36 09/12/2024<!-- vnexpress-the-gioi:END -->
