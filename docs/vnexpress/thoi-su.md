@@ -9,7 +9,7 @@ sidebar_position: 1
 - ⚗️ [Cần 54.000 tỷ đồng khắc phục hậu quả bão Yagi](https://vnexpress.net/can-54-000-ty-dong-khac-phuc-hau-qua-bao-yagi-4826232.html) - 18:15 10/12/2024
 - 🌊 [Vì sao người lái xe phải thi lại lý thuyết ngay khi giấy phép hết hạn?](https://vnexpress.net/vi-sao-nguoi-lai-xe-phai-thi-lai-ly-thuyet-ngay-khi-giay-phep-het-han-4825985.html) - 17:06 10/12/2024
 - 🎓 [Bò tót, gấu ngựa xuất hiện ở vườn quốc gia Chư Mom Ray](https://vnexpress.net/bo-tot-gau-ngua-xuat-hien-o-vuon-quoc-gia-chu-mom-ray-4826094.html) - 17:00 10/12/2024
-- 🔥 [Loạt bài viết của VnExpress được trao giải A báo chí &#39;tam nông&#39;](https://vnexpress.net/loat-bai-viet-cua-vnexpress-duoc-trao-giai-a-bao-chi-tam-nong-4826243.html) - 15:21 10/12/2024
+- 🔥 [Loạt bài viết của VnExpress đoạt giải báo chí &#39;tam nông&#39;](https://vnexpress.net/loat-bai-viet-cua-vnexpress-doat-giai-bao-chi-tam-nong-4826243.html) - 15:21 10/12/2024
 - 🦏 [Không khí Hà Nội ở mức rất xấu](https://vnexpress.net/khong-khi-ha-noi-o-muc-rat-xau-4826235.html) - 14:38 10/12/2024
 - 👺 [&#39;Nên chọn ST để xây dựng thương hiệu gạo quốc gia&#39;](https://vnexpress.net/nen-chon-st-de-xay-dung-thuong-hieu-gao-quoc-gia-4826227.html) - 11:27 10/12/2024
 - 🧑‍🏫 [Bảo hiểm Xã hội Việt Nam &#39;chỉ giữ đơn vị xương sống&#39;](https://vnexpress.net/bao-hiem-xa-hoi-viet-nam-chi-giu-don-vi-xuong-song-4826196.html) - 10:55 10/12/2024
