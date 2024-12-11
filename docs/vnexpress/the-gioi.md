@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [An ninh Hàn Quốc cản trở khám xét Văn phòng Tổng thống](https://vnexpress.net/an-ninh-han-quoc-can-tro-kham-xet-van-phong-tong-thong-4826574.html) - 09:29 11/12/2024
+- 🎭 [Lực lượng an ninh Văn phòng Tổng thống Hàn Quốc cản trở cảnh sát khám xét](https://vnexpress.net/luc-luong-an-ninh-van-phong-tong-thong-han-quoc-can-tro-canh-sat-kham-xet-4826574.html) - 09:29 11/12/2024
 - 🕴 [Từ mẹ đơn thân ở Mỹ trở thành nữ hoàng hữu nghị Ghana](https://vnexpress.net/tu-me-don-than-o-my-tro-thanh-nu-hoang-huu-nghi-ghana-4826447.html) - 09:04 11/12/2024
 - 🤭 [Ông Trump gọi đùa Thủ tướng Trudeau là &#39;Thống đốc bang Canada&#39;](https://vnexpress.net/ong-trump-goi-dua-thu-tuong-trudeau-la-thong-doc-bang-canada-4826530.html) - 08:47 11/12/2024
 - 🧑‍💻 [Ông Trump: Giải quyết khủng hoảng Ukraine là ưu tiên hàng đầu](https://vnexpress.net/ong-trump-giai-quyet-khung-hoang-ukraine-la-uu-tien-hang-dau-4826536.html) - 08:17 11/12/2024
