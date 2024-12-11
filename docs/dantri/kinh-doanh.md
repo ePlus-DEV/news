@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- dantri-kinh-doanh:START -->
-- 🏊 [Bất ngờ về danh tính công ty liên quan đến TikToker Mr. Pips Phó Đức Nam](https://dantri.com.vn/kinh-doanh/bat-ngo-ve-danh-tinh-cong-ty-lien-quan-den-tiktoker-mr-pips-pho-duc-nam-20241211114933166.htm) - 05:05 11/12/2024
+- 🏊 [Bất ngờ về danh tính công ty liên quan đến TikToker Mr Pips Phó Đức Nam](https://dantri.com.vn/kinh-doanh/bat-ngo-ve-danh-tinh-cong-ty-lien-quan-den-tiktoker-mr-pips-pho-duc-nam-20241211114933166.htm) - 05:05 11/12/2024
 - 🦆 [Giá xăng dầu dự kiến giảm nhẹ trong kỳ điều hành ngày 12/12](https://dantri.com.vn/kinh-doanh/gia-xang-dau-du-kien-giam-nhe-trong-ky-dieu-hanh-ngay-1212-20241211112453591.htm) - 05:00 11/12/2024
 - 🦄 [OceanBank sắp đổi tên, đồng thời có chủ tịch, tổng giám đốc mới](https://dantri.com.vn/kinh-doanh/oceanbank-sap-doi-ten-dong-thoi-co-chu-tich-tong-giam-doc-moi-20241211093321338.htm) - 03:13 11/12/2024
 - 🌝 [Cơ hội trúng 1 tỷ đồng khi tham gia &quot;Tiết kiệm dự thưởng&quot; của Agribank](https://dantri.com.vn/kinh-doanh/co-hoi-trung-1-ty-dong-khi-tham-gia-tiet-kiem-du-thuong-cua-agribank-20241211090815723.htm) - 02:27 11/12/2024
