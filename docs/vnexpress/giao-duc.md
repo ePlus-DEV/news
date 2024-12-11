@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Lo thí sinh chọn thi tốt nghiệp môn xã hội áp đảo tự nhiên](https://vnexpress.net/lo-thi-sinh-chon-thi-tot-nghiep-mon-xa-hoi-ap-dao-tu-nhien-4826138.html) - 22:59 10/12/2024
+- 🤓 [Thí sinh dự kiến chọn thi môn xã hội áp đảo tự nhiên](https://vnexpress.net/thi-sinh-du-kien-chon-thi-mon-xa-hoi-ap-dao-tu-nhien-4826138.html) - 22:59 10/12/2024
 - 🦆 [10 đại học Việt Nam vào bảng xếp hạng phát triển bền vững](https://vnexpress.net/10-dai-hoc-viet-nam-vao-bang-xep-hang-phat-trien-ben-vung-4826247.html) - 14:28 10/12/2024
 - 🦩 [Hà Bắc được tách thành hai tỉnh nào?](https://vnexpress.net/ha-bac-duoc-tach-thanh-hai-tinh-nao-4826132.html) - 13:25 10/12/2024
 - 🌮 [Bình Định hợp tác với VinUni](https://vnexpress.net/binh-dinh-hop-tac-voi-vinuni-4826110.html) - 10:00 10/12/2024
