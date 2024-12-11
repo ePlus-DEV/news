@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Singapore 1-0 Campuchia &lpar;h1&rpar;: Sai sót khó tin, đang hay thì đứt dây đàn](https://dantri.com.vn/the-thao/singapore-1-0-campuchia-h1-sai-sot-kho-tin-dang-hay-thi-dut-day-dan-20241211174840390.htm) - 10:55 11/12/2024
-- 💯 [Chuyện hy hữu: Đang thi đấu ở AFF Cup, hai cầu thủ bị CLB đòi về đá… 1 trận](https://dantri.com.vn/the-thao/chuyen-hy-huu-dang-thi-dau-o-aff-cup-hai-cau-thu-bi-clb-doi-ve-da-1-tran-20241211175510029.htm) - 10:55 11/12/2024
+- 🎡 [Chuyện hy hữu: Đang thi đấu ở AFF Cup, hai cầu thủ bị CLB đòi về đá… 1 trận](https://dantri.com.vn/the-thao/chuyen-hy-huu-dang-thi-dau-o-aff-cup-hai-cau-thu-bi-clb-doi-ve-da-1-tran-20241211175510029.htm) - 11:01 11/12/2024
+- 💯 [Singapore 2-0 Campuchia &lpar;h1&rpar;: Hai bàn thua khó hiểu từ trên trời rơi xuống](https://dantri.com.vn/the-thao/singapore-2-0-campuchia-h1-hai-ban-thua-kho-hieu-tu-tren-troi-roi-xuong-20241211174840390.htm) - 10:55 11/12/2024
 - ⛽️ [Lý do trọng tài bỗng dưng khóc nức nở trong trận đấu ở Champions League](https://dantri.com.vn/the-thao/ly-do-trong-tai-bong-dung-khoc-nuc-no-trong-tran-dau-o-champions-league-20241211161519937.htm) - 09:15 11/12/2024
 - 💃 [Vé xem AFF Cup 2024: Bất ngờ giữa mức giá tại Việt Nam và Indonesia](https://dantri.com.vn/the-thao/ve-xem-aff-cup-2024-bat-ngo-giua-muc-gia-tai-viet-nam-va-indonesia-20241211105506172.htm) - 08:54 11/12/2024
 - 🌈 [Sự thật ông bố Trung Quốc để con gái 6 tuổi chạy hộ cuộc thi marathon](https://dantri.com.vn/the-thao/su-that-ong-bo-trung-quoc-de-con-gai-6-tuoi-chay-ho-cuoc-thi-marathon-20241211152129812.htm) - 08:52 11/12/2024
