@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Hoàng Đức: ‘Tôi chơi không tốt trước Lào’](https://vnexpress.net/hoang-duc-toi-choi-khong-tot-truoc-lao-4826678.html) - 11:02 11/12/2024
-- 🦩 [Singapore 2-0 Campuchia &lpar;H1&rpar;: Thủ môn &#39;biếu&#39; hai bàn](https://vnexpress.net/truc-tiep-tran-singapore-vs-campuchia-tai-bang-a-asean-cup-2024-4826654.html) - 10:30 11/12/2024
+- 🦩 [&#39;Ác mộng thủ môn&#39; khiến Campuchia thua ở ASEAN Cup](https://vnexpress.net/truc-tiep-tran-singapore-vs-campuchia-tai-bang-a-asean-cup-2024-4826654-tong-thuat.html) - 10:30 11/12/2024
 - 🧰 [Guardiola: &#39;Cầu thủ Man City không cần là Messi hay Ronaldo&#39;](https://vnexpress.net/guardiola-cau-thu-man-city-khong-can-la-messi-hay-ronaldo-4826485.html) - 10:00 11/12/2024
 - 🤗 [Cựu chủ tịch LĐBĐ Malaysia muốn giật vé Asian Cup 2027 từ Việt Nam](https://vnexpress.net/cuu-chu-tich-ldbd-malaysia-muon-giat-ve-asian-cup-2027-tu-viet-nam-4826653.html) - 09:50 11/12/2024
 - 🥳 [9 đề cử đồng hồ thể thao xuất sắc](https://vnexpress.net/9-de-cu-dong-ho-the-thao-xuat-sac-4826619.html) - 09:26 11/12/2024
