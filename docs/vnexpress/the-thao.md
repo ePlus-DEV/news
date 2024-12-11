@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Tuyển Việt Nam chuẩn bị nghênh đón Indonesia](https://vnexpress.net/tuyen-viet-nam-chuan-bi-nghenh-don-indonesia-4824605.html) - 14:06 11/12/2024
+- 🪜 [Tuyển Việt Nam chuẩn bị nghênh chiến Indonesia](https://vnexpress.net/tuyen-viet-nam-chuan-bi-nghenh-chien-indonesia-4824605.html) - 14:06 11/12/2024
 - 🦩 [Hoàng Đức: ‘Tôi chơi không tốt trước Lào’](https://vnexpress.net/hoang-duc-toi-choi-khong-tot-truoc-lao-4826678.html) - 11:02 11/12/2024
 - 🧰 [&#39;Ác mộng thủ môn&#39; khiến Campuchia thua ở ASEAN Cup](https://vnexpress.net/truc-tiep-tran-singapore-vs-campuchia-tai-bang-a-asean-cup-2024-4826654-tong-thuat.html) - 10:30 11/12/2024
 - 🤗 [Guardiola: &#39;Cầu thủ Man City không cần là Messi hay Ronaldo&#39;](https://vnexpress.net/guardiola-cau-thu-man-city-khong-can-la-messi-hay-ronaldo-4826485.html) - 10:00 11/12/2024
