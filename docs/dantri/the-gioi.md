@@ -4,7 +4,7 @@ sidebar_position: 17
 ---
 
 <!-- dantri-the-gioi:START -->
-- 🌋 [Iran cáo buộc Mỹ - Israel đứng sau kế hoạch lật đổ Tổng thống Syria](https://dantri.com.vn/the-gioi/iran-cao-buoc-my-israel-dung-sau-ke-hoach-lat-do-tong-thong-syria-20241211163904165.htm) - 09:43 11/12/2024
+- 🌋 [Iran cáo buộc Mỹ, Israel đứng sau kế hoạch lật đổ Tổng thống Syria](https://dantri.com.vn/the-gioi/iran-cao-buoc-my-israel-dung-sau-ke-hoach-lat-do-tong-thong-syria-20241211163904165.htm) - 09:43 11/12/2024
 - 🎬 [Ông Trump nêu ưu tiên hàng đầu trên trường quốc tế sau khi nhậm chức](https://dantri.com.vn/the-gioi/ong-trump-neu-uu-tien-hang-dau-tren-truong-quoc-te-sau-khi-nham-chuc-20241211160514179.htm) - 09:24 11/12/2024
 - 🧰 [Ảnh vệ tinh hé lộ cuộc rút quân của Nga khỏi Syria](https://dantri.com.vn/the-gioi/anh-ve-tinh-he-lo-cuoc-rut-quan-cua-nga-khoi-syria-20241211153407504.htm) - 09:11 11/12/2024
 - 🌋 [Điểm yếu khiến Ukraine khó cản đà tiến kỷ lục của Nga ở Donbass](https://dantri.com.vn/the-gioi/diem-yeu-khien-ukraine-kho-can-da-tien-ky-luc-cua-nga-o-donbass-20241211151150627.htm) - 08:35 11/12/2024
