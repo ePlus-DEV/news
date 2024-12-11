@@ -6,7 +6,7 @@ sidebar_position: 16
 <!-- dantri-su-kien:START -->
 - 🎭 [Chủ tịch Hà Nội: Người dân sẽ được giảm giá, hỗ trợ đổi xe máy cũ](https://dantri.com.vn/xa-hoi/chu-tich-ha-noi-nguoi-dan-se-duoc-giam-gia-ho-tro-doi-xe-may-cu-20241211183833850.htm) - 11:53 11/12/2024
 - 👨‍🏫 [Xe BMW mui trần vượt ẩu, tông người đi xe máy ngã ra đường](https://dantri.com.vn/xa-hoi/xe-bmw-mui-tran-vuot-au-tong-nguoi-di-xe-may-nga-ra-duong-20241211174523911.htm) - 11:00 11/12/2024
-- 🌮 [Singapore 2-0 Campuchia &lpar;h2&rpar;: 2 bàn thua khó tin từ trên trời rơi xuống](https://dantri.com.vn/the-thao/singapore-2-0-campuchia-h2-2-ban-thua-kho-tin-tu-tren-troi-roi-xuong-20241211174840390.htm) - 10:55 11/12/2024
+- 🌮 [Singapore 2-1 Campuchia &lpar;h2&rpar;: Campuchia ép sân nghẹt thở, chờ điều thần kỳ](https://dantri.com.vn/the-thao/singapore-2-1-campuchia-h2-campuchia-ep-san-nghet-tho-cho-dieu-than-ky-20241211174840390.htm) - 10:55 11/12/2024
 - 🕯 [Lời kể của nhân viên trực tiếp massage cho nữ ca sĩ không may tử vong](https://dantri.com.vn/doi-song/loi-ke-cua-nhan-vien-truc-tiep-massage-cho-nu-ca-si-khong-may-tu-vong-20241211165354810.htm) - 10:50 11/12/2024
 - 🪜 [Vụ Vạn Thịnh Phát có khối tài sản lớn nhất lịch sử thi hành án](https://dantri.com.vn/xa-hoi/vu-van-thinh-phat-co-khoi-tai-san-lon-nhat-lich-su-thi-hanh-an-20241211173953667.htm) - 10:50 11/12/2024
 - 🐘 [Kiểm tra kê khai tài sản cán bộ diện Bộ Chính trị quản lý tại 3 tỉnh, thành](https://dantri.com.vn/xa-hoi/kiem-tra-ke-khai-tai-san-can-bo-dien-bo-chinh-tri-quan-ly-tai-3-tinh-thanh-20241211154618313.htm) - 10:19 11/12/2024
