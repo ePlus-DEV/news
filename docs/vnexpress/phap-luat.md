@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Công ty chậm công bố lịch nghỉ Tết Nguyên đán 2025, có bị phạt?](https://vnexpress.net/cong-ty-cham-cong-bo-lich-nghi-tet-nguyen-dan-2025-co-bi-phat-4825962.html) - 17:00 10/12/2024
-- 🥰 [Sự &#39;phản bội&#39; của nghịch tử với bố mẹ nuôi tốt bụng](https://vnexpress.net/am-muu-cung-me-ruot-hai-bo-me-nuoi-cua-nghich-tu-4823914.html) - 17:00 10/12/2024
+- 🥰 [Sự phản trắc của nghịch tử với bố mẹ nuôi tốt bụng](https://vnexpress.net/am-muu-cung-me-ruot-hai-bo-me-nuoi-cua-nghich-tu-4823914.html) - 17:00 10/12/2024
 - 🎓 [Người đánh tới tấp cô gái sau va chạm giao thông bị bắt](https://vnexpress.net/nguoi-danh-toi-tap-co-gai-sau-va-cham-giao-thong-bi-bat-4826064.html) - 13:35 10/12/2024
 - 🤓 [Cựu phó chủ tịch bị bắt vì nghi tiếp tay lừa đảo](https://vnexpress.net/cuu-pho-chu-tich-bi-bat-vi-nghi-tiep-tay-lua-dao-4826239.html) - 12:52 10/12/2024
 - 🎊 [Bố mẹ có quyền &#39;gạch tên&#39; con khỏi hộ khẩu vì bất đồng lối sống?](https://vnexpress.net/bo-me-co-quyen-gach-ten-con-khoi-ho-khau-vi-bat-dong-loi-song-4826230.html) - 11:49 10/12/2024
