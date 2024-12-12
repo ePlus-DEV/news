@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Dàn sao dự tiệc cưới Hoa hậu Khánh Vân](https://vnexpress.net/dan-sao-du-tiec-cuoi-hoa-hau-khanh-van-vnepre-4827138.html) - 12:18 12/12/2024
+- 🌏 [Nhã Phương và dàn sao dự tiệc cưới Khánh Vân](https://vnexpress.net/nha-phuong-va-dan-sao-du-tiec-cuoi-khanh-van-vnepre-4827138.html) - 12:18 12/12/2024
 - 💫 [Bộ sưu tập áo phông đắt đỏ của Kỳ Duyên](https://vnexpress.net/bo-suu-tap-ao-phong-dat-do-cua-ky-duyen-4826623.html) - 11:55 12/12/2024
 - 🌮 [Đỗ Bích Thúy: &#39;Viết mà không có người đọc thì buồn lắm&#39;](https://vnexpress.net/do-bich-thuy-viet-ma-khong-co-nguoi-doc-thi-buon-lam-vnepre-4825986.html) - 10:29 12/12/2024
 - 🧠 [Dàn hoa hậu quốc tế lội bùn bắt cá ở miền Tây](https://vnexpress.net/dan-hoa-hau-quoc-te-loi-bun-bat-ca-o-mien-tay-vnepre-4827046.html) - 10:15 12/12/2024
@@ -42,7 +42,7 @@ sidebar_position: 5
 - 🚦 [Sách về lịch sử ngành in ở Việt Nam](https://vnexpress.net/sach-ve-lich-su-nganh-in-o-viet-nam-4825310.html) - 03:59 10/12/2024
 - 🧐 [Châu Nhuận Phát bán biệt thự 25 triệu USD](https://vnexpress.net/chau-nhuan-phat-ban-biet-thu-25-trieu-usd-4825870.html) - 02:35 10/12/2024
 - 🐵 [&#39;Squid Game 2&#39; nhận đề cử Quả Cầu Vàng dù chưa ra mắt](https://vnexpress.net/squid-game-2-nhan-de-cu-qua-cau-vang-du-chua-ra-mat-4825847.html) - 01:37 10/12/2024
-- ⚗️ [&#39;Ánh sáng và sợi chỉ&#39; - diễn từ Nobel của Han Kang](https://vnexpress.net/anh-sang-va-soi-chi-dien-tu-nobel-cua-han-kang-4825630.html) - 18:00 09/12/2024
+- ⚗️ [&#39;Ánh sáng và sợi chỉ&#39; - diễn từ Nobel của Han Kang](https://vnexpress.net/anh-sang-va-soi-chi-dien-tu-nobel-cua-han-kang-vnepre-4825630.html) - 18:00 09/12/2024
 - 👺 [&#39;Công tử Bạc Liêu&#39; - thiếu gia học cách trưởng thành](https://vnexpress.net/giai-tri/phim/thu-vien-phim/cong-tu-bac-lieu-757) - 17:00 09/12/2024
 - 🌊 [Phim điện ảnh &#39;Kính vạn hoa&#39; gợi nhớ bản truyền hình](https://vnexpress.net/phim-dien-anh-kinh-van-hoa-goi-nho-ban-truyen-hinh-4825802.html) - 14:47 09/12/2024
 - 🪜 [4 nhà thiết kế làm trang phục tôn vinh &#39;Ngôi sao của năm&#39;](https://vnexpress.net/4-nha-thiet-ke-lam-trang-phuc-ton-vinh-ngoi-sao-cua-nam-4825736.html) - 14:00 09/12/2024
