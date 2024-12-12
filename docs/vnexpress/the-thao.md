@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [VAR giúp Philippines thoát thua Myanmar](https://vnexpress.net/var-giup-philippines-thoat-thua-myanmar-4827157.html) - 13:30 12/12/2024
 - 🦩 [Soán ngôi Đinh Lập Nhân, Gukesh trở thành Vua cờ ở tuổi 18](https://vnexpress.net/soan-ngoi-dinh-lap-nhan-gukesh-tro-thanh-vua-co-o-tuoi-18-4827162.html) - 13:05 12/12/2024
-- 🧰 [Indonesia 2-2 Lào &lpar;H2&rpar;: Chủ nhà lần thứ hai gỡ hòa](https://vnexpress.net/indonesia-vs-lao-4827152.html) - 12:44 12/12/2024
+- 🧰 [Indonesia 2-2 Lào &lpar;H2&rpar;: Thẻ đỏ cho đội chủ nhà](https://vnexpress.net/indonesia-vs-lao-4827152.html) - 12:44 12/12/2024
 - 🤗 [Tiền đạo Bùi Vĩ Hào: &#39;Phải chuẩn bị kỹ hơn khi gặp Indonesia&#39;](https://vnexpress.net/tien-dao-bui-vi-hao-phai-chuan-bi-ky-hon-khi-gap-indonesia-4827119.html) - 11:39 12/12/2024
 - 🥳 [Runner muốn tạo kỷ lục 100 sub3 ở VnExpress Marathon Hải Phòng 2024](https://vnexpress.net/runner-muon-tao-ky-luc-100-sub3-o-vnexpress-marathon-hai-phong-2024-4826652.html) - 09:45 12/12/2024
 - 🦣 [8 đề cử Tai nghe thể thao xuất sắc](https://vnexpress.net/8-de-cu-tai-nghe-the-thao-xuat-sac-4827013.html) - 09:18 12/12/2024
