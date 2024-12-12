@@ -60,7 +60,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌁 [ChatGPT sập trên toàn cầu](https://vnexpress.net/chatgpt-sap-tren-toan-cau-4826834.html) - 02:53 12/12/2024
 - 🎬 [Metro thay thế ôtô trung chuyển Bến xe Miền Đông mới](https://vnexpress.net/metro-thay-the-oto-trung-chuyen-ben-xe-mien-dong-moi-4826814.html) - 02:53 12/12/2024
 - 👨‍🏫 [Suy tim do nhồi máu cơ tim](https://vnexpress.net/suy-tim-do-nhoi-mau-co-tim-4826808.html) - 02:52 12/12/2024
-- ⚗️ [Hai thánh giá ở Nhà thờ Đức Bà Sài Gòn được mạ vàng](https://vnexpress.net/hai-thanh-gia-o-nha-tho-duc-ba-sai-gon-duoc-ma-vang-4826726.html) - 02:50 12/12/2024
+- ⚗️ [Hai Thánh giá ở Nhà thờ Đức Bà Sài Gòn được mạ vàng](https://vnexpress.net/hai-thanh-gia-o-nha-tho-duc-ba-sai-gon-duoc-ma-vang-4826726.html) - 02:50 12/12/2024
 - 😺 [Ukraine có thể đã chuyển drone cho quân nổi dậy Syria](https://vnexpress.net/ukraine-co-the-da-chuyen-drone-cho-quan-noi-day-syria-4826793.html) - 02:39 12/12/2024
 - 🔥 [Chủ tịch Nam Long: Quỹ đất vệ tinh của TP HCM sẽ sôi động 3 năm tới](https://vnexpress.net/chu-tich-nam-long-quy-dat-ve-tinh-cua-tp-hcm-se-soi-dong-3-nam-toi-4826515.html) - 02:38 12/12/2024
 - 🧰 [6 học sinh Việt giành huy chương Olympic Khoa học trẻ quốc tế](https://vnexpress.net/6-hoc-sinh-viet-gianh-huy-chuong-olympic-khoa-hoc-tre-quoc-te-4826768.html) - 02:36 12/12/2024
