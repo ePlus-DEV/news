@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Thu hoạch băng - lễ hội mở màn loạt sự kiện mùa đông ở Cáp Nhĩ Tân](https://vnexpress.net/thu-hoach-bang-le-hoi-mo-man-loat-su-kien-mua-dong-o-cap-nhi-tan-4826712.html) - 00:10 12/12/2024
+- 💂 [Lễ hội thu hoạch băng mở màn loạt sự kiện mùa đông ở Cáp Nhĩ Tân](https://vnexpress.net/le-hoi-thu-hoach-bang-mo-man-loat-su-kien-mua-dong-o-cap-nhi-tan-4826712.html) - 00:10 12/12/2024
 - 🪄 [Khám phá hai chợ đêm nổi tiếng ở Cao Hùng](https://vnexpress.net/kham-pha-hai-cho-dem-noi-tieng-o-cao-hung-4826347.html) - 17:10 11/12/2024
 - 🦅 [Du khách bị voi tấn công tử vong tại Thái Lan](https://vnexpress.net/du-khach-bi-voi-tan-cong-tu-vong-tai-thai-lan-4826674.html) - 11:01 11/12/2024
 - 🕴 [Quốc kỳ có hình dáng khác thường của Nepal](https://vnexpress.net/quoc-ky-co-hinh-dang-khac-thuong-cua-nepal-4826234.html) - 06:56 11/12/2024
