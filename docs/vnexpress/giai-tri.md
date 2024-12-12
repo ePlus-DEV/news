@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Selena Gomez đính hôn](https://vnexpress.net/selena-gomez-dinh-hon-4826934.html) - 07:01 12/12/2024
+- 🌏 [Tỷ phú Selena Gomez đính hôn](https://vnexpress.net/ty-phu-selena-gomez-dinh-hon-4826934.html) - 07:01 12/12/2024
 - 💫 [H&#39;Hen Niê, Hương Giang cùng dàn mỹ nhân diễn đầm cưới](https://vnexpress.net/h-hen-nie-huong-giang-cung-dan-my-nhan-dien-dam-cuoi-4826855.html) - 05:42 12/12/2024
 - 🌮 [Chàng trai Philippines thắng The Voice Mỹ mùa 26](https://vnexpress.net/chang-trai-philippines-thang-the-voice-my-mua-26-4826864.html) - 04:53 12/12/2024
 - 🧠 [Kỳ Duyên đóng phim Tết của Trấn Thành](https://vnexpress.net/ky-duyen-dong-phim-tet-cua-tran-thanh-4826912.html) - 04:43 12/12/2024
