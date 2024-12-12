@@ -42,7 +42,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎬 [MobiFone hợp tác VEC thúc đẩy chuyển đổi số](https://vnexpress.net/mobifone-hop-tac-vec-thuc-day-chuyen-doi-so-4827041.html) - 13:00 12/12/2024
 - 🚀 [Phương án chuyển giao GPBank, DongABank phải trình trước 20/12](https://vnexpress.net/chinh-phu-yeu-cau-som-co-phuong-an-xu-ly-voi-scb-4827126.html) - 12:59 12/12/2024
 - 🪄 [Ông Biden sắp đại xá 1.500 người](https://vnexpress.net/ong-biden-sap-dai-xa-1-500-nguoi-4827130.html) - 12:46 12/12/2024
-- 😎 [Indonesia 2-2 Lào &lpar;hết H1&rpar;: Chủ nhà lần thứ hai gỡ hòa](https://vnexpress.net/indonesia-vs-lao-4827152.html) - 12:44 12/12/2024
+- 😎 [Indonesia 2-2 Lào &lpar;H2&rpar;: Chủ nhà lần thứ hai gỡ hòa](https://vnexpress.net/indonesia-vs-lao-4827152.html) - 12:44 12/12/2024
 - 🎊 [Doanh nghiệp của Bầu Hiển tham gia thị trường hàng không](https://vnexpress.net/doanh-nghiep-cua-bau-hien-tham-gia-thi-truong-hang-khong-4827146.html) - 12:37 12/12/2024
 - ⚗️ [Trung tướng Đỗ Xuân Tụng làm Phó chủ nhiệm Tổng cục Chính trị](https://vnexpress.net/trung-tuong-do-xuan-tung-lam-pho-chu-nhiem-tong-cuc-chinh-tri-4827141.html) - 12:21 12/12/2024
 - 🫣 [Nhã Phương và dàn sao dự tiệc cưới Khánh Vân](https://vnexpress.net/nha-phuong-va-dan-sao-du-tiec-cuoi-khanh-van-vnepre-4827138.html) - 12:18 12/12/2024
