@@ -6,7 +6,7 @@ sidebar_position: 16
 <!-- dantri-su-kien:START -->
 - 🎭 [Bộ Nội vụ phản bác thông tin không chính xác về chế độ chính sách đối với cán bộ](https://dantri.com.vn/xa-hoi/bo-noi-vu-phan-bac-thong-tin-khong-chinh-xac-ve-che-do-chinh-sach-doi-voi-can-bo-20241212204113253.htm) - 13:42 12/12/2024
 - 👨‍🏫 [Đề xuất cá nhân nợ thuế 200 triệu đồng mới bị tạm hoãn xuất cảnh](https://dantri.com.vn/kinh-doanh/de-xuat-ca-nhan-no-thue-200-trieu-dong-moi-bi-tam-hoan-xuat-canh-20241212173210206.htm) - 13:15 12/12/2024
-- 🌮 [Indonesia 2-2 Lào &lpar;Hiệp 1&rpar;: Những bàn thắng chớp nhoáng](https://dantri.com.vn/the-thao/indonesia-2-2-lao-hiep-1-nhung-ban-thang-chop-nhoang-20241212194132063.htm) - 12:42 12/12/2024
+- 🌮 [Indonesia 2-2 Lào &lpar;Hết hiệp 1&rpar;: Những bàn thắng chớp nhoáng](https://dantri.com.vn/the-thao/indonesia-2-2-lao-het-hiep-1-nhung-ban-thang-chop-nhoang-20241212194132063.htm) - 12:42 12/12/2024
 - 🕯 [Chủ tịch Đà Nẵng: Cán bộ nào có ô tô nên trả lại nhà ở xã hội](https://dantri.com.vn/xa-hoi/chu-tich-da-nang-can-bo-nao-co-o-to-nen-tra-lai-nha-o-xa-hoi-20241212172208771.htm) - 11:41 12/12/2024
 - 🪜 [Truy tố ông Trần Đình Triển](https://dantri.com.vn/phap-luat/truy-to-ong-tran-dinh-trien-20241212180438513.htm) - 11:14 12/12/2024
 - 🐘 [Vụ người phụ nữ vừa lái xe vừa hát karaoke: Xe bán tải nhưng khai xe 7 chỗ](https://dantri.com.vn/phap-luat/vu-nguoi-phu-nu-vua-lai-xe-vua-hat-karaoke-xe-ban-tai-nhung-khai-xe-7-cho-20241212162653206.htm) - 11:01 12/12/2024
