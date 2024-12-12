@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Thoát thua Myanmar, Philippines còn hy vọng đua với Việt Nam, Indonesia](https://dantri.com.vn/the-thao/thoat-thua-myanmar-philippines-con-hy-vong-dua-voi-viet-nam-indonesia-20241212194703530.htm) - 12:47 12/12/2024
-- 💯 [Indonesia 2-2 Lào &lpar;Hiệp 2&rpar;: Đội chủ nhà bế tắc](https://dantri.com.vn/the-thao/indonesia-2-2-lao-hiep-2-doi-chu-nha-be-tac-20241212194132063.htm) - 12:42 12/12/2024
+- 💯 [Marselino nhận thẻ đỏ, Indonesia hòa thất vọng đội tuyển Lào](https://dantri.com.vn/the-thao/marselino-nhan-the-do-indonesia-hoa-that-vong-doi-tuyen-lao-20241212194132063.htm) - 12:42 12/12/2024
 - ⛽️ [Nguyễn Filip có hành động tranh cãi khi giải đen, CĐV lên tiếng cảnh báo](https://dantri.com.vn/the-thao/nguyen-filip-co-hanh-dong-tranh-cai-khi-giai-den-cdv-len-tieng-canh-bao-20241212174136563.htm) - 10:41 12/12/2024
 - 💃 [Báo Indonesia đặc biệt lo ngại một cầu thủ Việt Nam](https://dantri.com.vn/the-thao/bao-indonesia-dac-biet-lo-ngai-mot-cau-thu-viet-nam-20241212165235897.htm) - 10:18 12/12/2024
 - 🌈 [HLV Malaysia tiết lộ bí quyết giúp đội nhà tránh thất bại trước Timor Leste](https://dantri.com.vn/the-thao/hlv-malaysia-tiet-lo-bi-quyet-giup-doi-nha-tranh-that-bai-truoc-timor-leste-20241212131257751.htm) - 09:55 12/12/2024
