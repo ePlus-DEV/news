@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [Ronaldo: &#39;World Cup 2034 sẽ là giải đấu hay nhất&#39;](https://vnexpress.net/ronaldo-world-cup-2034-se-la-giai-dau-hay-nhat-4827185.html) - 17:13 12/12/2024
 - 🧰 [VAR giúp Philippines thoát thua Myanmar](https://vnexpress.net/var-giup-philippines-thoat-thua-myanmar-4827157.html) - 13:30 12/12/2024
 - 🤗 [Soán ngôi Đinh Lập Nhân, Gukesh trở thành Vua cờ ở tuổi 18](https://vnexpress.net/soan-ngoi-dinh-lap-nhan-gukesh-tro-thanh-vua-co-o-tuoi-18-4827162.html) - 13:05 12/12/2024
-- 🥳 [Lào cầm hòa Indonesia](https://vnexpress.net/indonesia-vs-lao-4827152-tong-thuat.html) - 12:44 12/12/2024
+- 🥳 [Lào hòa Indonesia ở ASEAN Cup 2024](https://vnexpress.net/indonesia-vs-lao-4827152-tong-thuat.html) - 12:44 12/12/2024
 - 🦣 [Tiền đạo Bùi Vĩ Hào: &#39;Phải chuẩn bị kỹ hơn khi gặp Indonesia&#39;](https://vnexpress.net/tien-dao-bui-vi-hao-phai-chuan-bi-ky-hon-khi-gap-indonesia-4827119.html) - 11:39 12/12/2024
 - 🌜 [Runner muốn tạo kỷ lục 100 sub3 ở VnExpress Marathon Hải Phòng 2024](https://vnexpress.net/runner-muon-tao-ky-luc-100-sub3-o-vnexpress-marathon-hai-phong-2024-4826652.html) - 09:45 12/12/2024
 - 🫶 [8 đề cử Tai nghe thể thao xuất sắc](https://vnexpress.net/8-de-cu-tai-nghe-the-thao-xuat-sac-4827013.html) - 09:18 12/12/2024
