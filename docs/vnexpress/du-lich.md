@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Quy Nhơn lần đầu có khách sạn 5 sao](https://vnexpress.net/quy-nhon-lan-dau-co-khach-san-5-sao-4827002.html) - 08:00 12/12/2024
-- 🪄 [Phố phường Hà Nội trang hoàng đón Giáng sinh](https://vnexpress.net/pho-phuong-ha-noi-trang-hoang-don-giang-sinh-4826906.html) - 07:56 12/12/2024
+- 🪄 [Phố phường Hà Nội tràn ngập sắc màu Giáng sinh](https://vnexpress.net/pho-phuong-ha-noi-tran-ngap-sac-mau-giang-sinh-4826906.html) - 07:56 12/12/2024
 - 🦅 [10 điểm đến khách Việt tìm kiếm nhiều nhất dịp Tết](https://vnexpress.net/10-diem-den-khach-viet-tim-kiem-nhieu-nhat-dip-tet-4826880.html) - 05:08 12/12/2024
 - 🕴 [10 thành phố khách &#39;sống ảo&#39; nhiều nhất 2024](https://vnexpress.net/10-thanh-pho-khach-song-ao-nhieu-nhat-2024-4826791.html) - 04:52 12/12/2024
 - 👀 [Lễ hội thu hoạch băng mở màn loạt sự kiện mùa đông ở Cáp Nhĩ Tân](https://vnexpress.net/le-hoi-thu-hoach-bang-mo-man-loat-su-kien-mua-dong-o-cap-nhi-tan-4826712.html) - 00:10 12/12/2024
