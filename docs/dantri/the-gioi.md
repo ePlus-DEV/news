@@ -4,7 +4,7 @@ sidebar_position: 17
 ---
 
 <!-- dantri-the-gioi:START -->
-- 🌋 [Nga tiến công nhanh kỷ lục, thành trì chiến lược Donbass bên bờ vực sụp đổ](https://dantri.com.vn/the-gioi/nga-tien-cong-nhanh-ky-luc-thanh-tri-chien-luoc-donbass-ben-bo-vuc-sup-do-20241212105756113.htm) - 04:04 12/12/2024
+- 🌋 [Nga tiến công mạnh, thành trì chiến lược Donbass bên bờ vực sụp đổ](https://dantri.com.vn/the-gioi/nga-tien-cong-manh-thanh-tri-chien-luoc-donbass-ben-bo-vuc-sup-do-20241212105756113.htm) - 04:04 12/12/2024
 - 🎬 [Báo Mỹ: Ukraine hỗ trợ phe đối lập trong chiến dịch lật đổ chính phủ Syria](https://dantri.com.vn/the-gioi/bao-my-ukraine-ho-tro-phe-doi-lap-trong-chien-dich-lat-do-chinh-phu-syria-20241212104945599.htm) - 03:58 12/12/2024
 - 🧰 [Liên hợp quốc điều thêm quân tới Golan sau khi Israel tiến vào Syria](https://dantri.com.vn/the-gioi/lien-hop-quoc-dieu-them-quan-toi-golan-sau-khi-israel-tien-vao-syria-20241212091123711.htm) - 02:36 12/12/2024
 - 🌋 [Tổng thống Hàn Quốc: Tôi sẽ chiến đấu đến phút cuối cùng](https://dantri.com.vn/the-gioi/tong-thong-han-quoc-toi-se-chien-dau-den-phut-cuoi-cung-20241212084753268.htm) - 01:49 12/12/2024
