@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- dantri-an-sinh:START -->
 - 👺 [Nắp capo &quot;đỡ&quot; bé gái 3 tuổi ngã từ tầng 4 khách sạn, thoát chết kỳ tích](https://dantri.com.vn/an-sinh/nap-capo-do-be-gai-3-tuoi-nga-tu-tang-4-khach-san-thoat-chet-ky-tich-20241212102309806.htm) - 03:56 12/12/2024
-- 👀 [Đóng bảo hiểm xã hội hơn 26 năm sẽ có tỷ lệ hưởng lương hưu ra sao?](https://dantri.com.vn/an-sinh/dong-bao-hiem-xa-hoi-hon-26-nam-se-co-ty-le-huong-luong-huu-ra-sao-20241212094122320.htm) - 03:39 12/12/2024
+- 👀 [Đóng bảo hiểm xã hội hơn 26 năm, tỷ lệ hưởng lương hưu ra sao?](https://dantri.com.vn/an-sinh/dong-bao-hiem-xa-hoi-hon-26-nam-ty-le-huong-luong-huu-ra-sao-20241212094122320.htm) - 03:39 12/12/2024
 - 💡 [Cụ ông, cụ bà tuổi 90 cưới lại nhau sau gần 50 năm ly hôn](https://dantri.com.vn/an-sinh/cu-ong-cu-ba-tuoi-90-cuoi-lai-nhau-sau-gan-50-nam-ly-hon-20241211145850793.htm) - 01:59 12/12/2024
 - 💄 [Từ ngày 1/7/2025, khám chữa bệnh tại nhà cũng được hưởng BHYT](https://dantri.com.vn/an-sinh/tu-ngay-172025-kham-chua-benh-tai-nha-cung-duoc-huong-bhyt-20241211144325896.htm) - 00:15 12/12/2024
 - 🧠 [Những người từng lầm lỗi tự tin vươn lên khi được cấp vốn làm ăn](https://dantri.com.vn/an-sinh/nhung-nguoi-tung-lam-loi-tu-tin-vuon-len-khi-duoc-cap-von-lam-an-20241210161912235.htm) - 08:09 11/12/2024
