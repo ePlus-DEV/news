@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Một doanh nghiệp bán đất bên Lào lấy vốn trồng sầu riêng](https://vnexpress.net/mot-doanh-nghiep-ban-dat-ben-lao-lay-von-trong-sau-rieng-4827575.html) - 13:14 13/12/2024
+- ⛽️ [Một doanh nghiệp bán đất ở Lào lấy vốn trồng sầu riêng](https://vnexpress.net/mot-doanh-nghiep-ban-dat-o-lao-lay-von-trong-sau-rieng-4827575.html) - 13:14 13/12/2024
 - 🐲 [Mỗi người dùng TikTok phát thải tương đương lái ôtô xăng 200 km](https://vnexpress.net/moi-nguoi-dung-tiktok-phat-thai-tuong-duong-lai-oto-xang-200-km-4827619.html) - 13:04 13/12/2024
 - 🔥 [Home Credit đồng hành chương trình hỗ trợ trẻ em khó khăn](https://vnexpress.net/home-credit-dong-hanh-chuong-trinh-ho-tro-tre-em-kho-khan-4826461.html) - 10:15 13/12/2024
 - 🐵 [Chủ tịch Bình Định: &#39;Dư địa phát triển tiếp nối, không phải ăn đong&#39;](https://vnexpress.net/chu-tich-binh-dinh-du-dia-phat-trien-tiep-noi-khong-phai-an-dong-4827535.html) - 10:00 13/12/2024
