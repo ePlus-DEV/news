@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Tìm thấy 4 hài cốt liệt sĩ trong vườn chuối](https://vnexpress.net/tim-thay-4-hai-cot-liet-si-trong-vuon-chuoi-4827525.html) - 11:30 13/12/2024
-- 🤓 [Hà Nội dự kiến giảm 5 sở](https://vnexpress.net/ha-noi-du-kien-giam-5-so-4827571.html) - 10:57 13/12/2024
+- 🤓 [Hà Nội dự kiến giảm 5 sở, Vĩnh Phúc giảm 6 sở](https://vnexpress.net/ha-noi-du-kien-giam-5-so-vinh-phuc-giam-6-so-4827571.html) - 10:57 13/12/2024
 - ⚗️ [Tông xe liên hoàn trên cầu Phú Mỹ](https://vnexpress.net/tong-xe-lien-hoan-tren-cau-phu-my-4827537.html) - 08:36 13/12/2024
 - 🌊 [Ông Nguyễn Xuân Phúc, Trương Hòa Bình và bà Trương Thị Mai bị kỷ luật](https://vnexpress.net/ong-nguyen-xuan-phuc-truong-hoa-binh-va-ba-truong-thi-mai-bi-ky-luat-4827495.html) - 07:44 13/12/2024
 - 🎓 [Hải Phòng, Nghệ An, Hà Tĩnh đề xuất hợp nhất hàng loạt sở, ngành](https://vnexpress.net/hai-phong-nghe-an-ha-tinh-de-xuat-hop-nhat-hang-loat-so-nganh-4827436.html) - 07:06 13/12/2024
