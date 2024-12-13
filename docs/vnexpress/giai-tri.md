@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Tác giả Nguyễn Đình Thi song hành thăng trầm của đất nước](https://vnexpress.net/tac-gia-nguyen-dinh-thi-song-hanh-thang-tram-cua-dat-nuoc-vnepre-4827440.html) - 10:29 13/12/2024
+- 🌏 [Tác giả Nguyễn Đình Thi song hành thăng trầm đất nước](https://vnexpress.net/tac-gia-nguyen-dinh-thi-song-hanh-thang-tram-dat-nuoc-vnepre-4827440.html) - 10:29 13/12/2024
 - 💫 [Bản thu chưa từng công bố của Michael Jackson được tìm thấy](https://vnexpress.net/ban-thu-chua-tung-cong-bo-cua-michael-jackson-duoc-tim-thay-4827355.html) - 08:30 13/12/2024
 - 🌮 [10 bức tranh đắt nhất 2024](https://vnexpress.net/10-buc-tranh-dat-nhat-2024-4826823.html) - 07:55 13/12/2024
 - 🧠 [Tạo dấu ấn riêng với nhẫn kim cương dịp cuối năm](https://vnexpress.net/tao-dau-an-rieng-voi-nhan-kim-cuong-dip-cuoi-nam-4827105.html) - 06:00 13/12/2024
