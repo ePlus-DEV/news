@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Kết quả vụ Thanh Hằng nộp đơn đề nghị Sở TT&amp;TT xử lý Hoàng Thùy](https://dantri.com.vn/giai-tri/ket-qua-vu-thanh-hang-nop-don-de-nghi-so-tttt-xu-ly-hoang-thuy-20241213120611387.htm) - 06:35 13/12/2024
+- 🤩 [Kết quả bất ngờ vụ Thanh Hằng nộp đơn đề nghị Sở TT&amp;TT xử lý Hoàng Thùy](https://dantri.com.vn/giai-tri/ket-qua-bat-ngo-vu-thanh-hang-nop-don-de-nghi-so-tttt-xu-ly-hoang-thuy-20241213120611387.htm) - 06:35 13/12/2024
 - 🔥 [Selena Gomez hạnh phúc vì tìm đúng người, nhận &quot;cơn mưa&quot; lời chúc phúc](https://dantri.com.vn/giai-tri/selena-gomez-hanh-phuc-vi-tim-dung-nguoi-nhan-con-mua-loi-chuc-phuc-20241213101430434.htm) - 05:11 13/12/2024
 - 🚀 [Triển lãm tranh về hoa cỏ và những khu vườn thơ mộng](https://dantri.com.vn/giai-tri/trien-lam-tranh-ve-hoa-co-va-nhung-khu-vuon-tho-mong-20241213081438120.htm) - 02:27 13/12/2024
 - 🔥 [Lễ cưới Hoa hậu Khánh Vân: Cô dâu khóc vì lời nhắn của chú rể hơn 17 tuổi](https://dantri.com.vn/giai-tri/le-cuoi-hoa-hau-khanh-van-co-dau-khoc-vi-loi-nhan-cua-chu-re-hon-17-tuoi-20241213064611538.htm) - 01:03 13/12/2024
