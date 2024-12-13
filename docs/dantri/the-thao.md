@@ -4,12 +4,12 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Indonesia mất điểm đáng kể trên bảng xếp hạng FIFA sau trận hòa Lào](https://dantri.com.vn/the-thao/indonesia-mat-diem-dang-ke-tren-bang-xep-hang-fifa-sau-tran-hoa-lao-20241213115753990.htm) - 07:09 13/12/2024
-- 💯 [Indonesia lộ điểm yếu lớn nhất, sợ thua tan nát trước tuyển Việt Nam](https://dantri.com.vn/the-thao/indonesia-lo-diem-yeu-lon-nhat-so-thua-tan-nat-truoc-tuyen-viet-nam-20241213131740917.htm) - 06:17 13/12/2024
-- ⛽️ [Trận Indonesia - Lào phá nhiều kỷ lục, được đánh giá là kinh điển ở AFF Cup](https://dantri.com.vn/the-thao/tran-indonesia-lao-pha-nhieu-ky-luc-duoc-danh-gia-la-kinh-dien-o-aff-cup-20241213125724849.htm) - 05:57 13/12/2024
-- 💃 [Tranh cãi gay gắt về bàn thua của Indonesia, trọng tài bị phản đối dữ dội](https://dantri.com.vn/the-thao/tranh-cai-gay-gat-ve-ban-thua-cua-indonesia-trong-tai-bi-phan-doi-du-doi-20241213114604683.htm) - 04:45 13/12/2024
-- 🌈 [CĐV Đông Nam Á: &quot;Indonesia nhận cú sốc, bóng đá Lào làm nên lịch sử&quot;](https://dantri.com.vn/the-thao/cdv-dong-nam-a-indonesia-nhan-cu-soc-bong-da-lao-lam-nen-lich-su-20241212233949443.htm) - 03:30 13/12/2024
-- 🦅 [Phản ứng của HLV Amorim khi hai ngôi sao Man Utd tranh cãi trên sân](https://dantri.com.vn/the-thao/phan-ung-cua-hlv-amorim-khi-hai-ngoi-sao-man-utd-tranh-cai-tren-san-20241213094416474.htm) - 03:05 13/12/2024
+- 🎡 [Phản ứng của HLV Amorim khi hai ngôi sao Man Utd tranh cãi trên sân](https://dantri.com.vn/the-thao/phan-ung-cua-hlv-amorim-khi-hai-ngoi-sao-man-utd-tranh-cai-tren-san-20241213094416474.htm) - 07:10 13/12/2024
+- 💯 [Indonesia mất điểm đáng kể trên bảng xếp hạng FIFA sau trận hòa Lào](https://dantri.com.vn/the-thao/indonesia-mat-diem-dang-ke-tren-bang-xep-hang-fifa-sau-tran-hoa-lao-20241213115753990.htm) - 07:09 13/12/2024
+- ⛽️ [Indonesia lộ điểm yếu lớn nhất, sợ thua tan nát trước tuyển Việt Nam](https://dantri.com.vn/the-thao/indonesia-lo-diem-yeu-lon-nhat-so-thua-tan-nat-truoc-tuyen-viet-nam-20241213131740917.htm) - 06:17 13/12/2024
+- 💃 [Trận Indonesia - Lào phá nhiều kỷ lục, được đánh giá là kinh điển ở AFF Cup](https://dantri.com.vn/the-thao/tran-indonesia-lao-pha-nhieu-ky-luc-duoc-danh-gia-la-kinh-dien-o-aff-cup-20241213125724849.htm) - 05:57 13/12/2024
+- 🌈 [Tranh cãi gay gắt về bàn thua của Indonesia, trọng tài bị phản đối dữ dội](https://dantri.com.vn/the-thao/tranh-cai-gay-gat-ve-ban-thua-cua-indonesia-trong-tai-bi-phan-doi-du-doi-20241213114604683.htm) - 04:45 13/12/2024
+- 🦅 [CĐV Đông Nam Á: &quot;Indonesia nhận cú sốc, bóng đá Lào làm nên lịch sử&quot;](https://dantri.com.vn/the-thao/cdv-dong-nam-a-indonesia-nhan-cu-soc-bong-da-lao-lam-nen-lich-su-20241212233949443.htm) - 03:30 13/12/2024
 - 🌝 [HLV Hàn Quốc chỉ ra yếu tố giúp Lào gây sốc trên sân Indonesia](https://dantri.com.vn/the-thao/hlv-han-quoc-chi-ra-yeu-to-giup-lao-gay-soc-tren-san-indonesia-20241213074143901.htm) - 01:15 13/12/2024
 - 🚀 [Báo Indonesia bình luận khi đội nhà bất ngờ bị Lào cầm hòa](https://dantri.com.vn/the-thao/bao-indonesia-binh-luan-khi-doi-nha-bat-ngo-bi-lao-cam-hoa-20241213000516679.htm) - 01:01 13/12/2024
 - 🎉 [Vào bóng triệt hạ, ngôi sao Indonesia bị cấm ra sân khi gặp tuyển Việt Nam](https://dantri.com.vn/the-thao/vao-bong-triet-ha-ngoi-sao-indonesia-bi-cam-ra-san-khi-gap-tuyen-viet-nam-20241212231741173.htm) - 00:30 13/12/2024
