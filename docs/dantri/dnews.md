@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [&quot;Dấu chân kinh tế&quot; hàng triệu USD từ cơn sốt âm nhạc &quot;Anh trai&quot;](https://dantri.com.vn/kinh-doanh/dau-chan-kinh-te-hang-trieu-usd-tu-con-sot-am-nhac-anh-trai-20241213090649897.htm) - 02:55 13/12/2024
+- 🤠 [&quot;Dấu chân kinh tế&quot; hàng nghìn tỷ đồng từ cơn sốt âm nhạc &quot;Anh trai&quot;](https://dantri.com.vn/kinh-doanh/dau-chan-kinh-te-hang-nghin-ty-dong-tu-con-sot-am-nhac-anh-trai-20241213090649897.htm) - 02:55 13/12/2024
 - 🌈 [Bất động sản chưa phục hồi đã gặp lực cản, làm sao giải bài toán an cư?](https://dantri.com.vn/bat-dong-san/bat-dong-san-chua-phuc-hoi-da-gap-luc-can-lam-sao-giai-bai-toan-an-cu-20241213074718219.htm) - 02:05 13/12/2024
 - 🐎 [Hình mẫu trong bảo tồn và phát huy giá trị di sản văn hóa Mỹ Sơn](https://dantri.com.vn/du-lich/hinh-mau-trong-bao-ton-va-phat-huy-gia-tri-di-san-van-hoa-my-son-20241212171414900.htm) - 00:56 13/12/2024
 - 👹 [Dịch bí ẩn tại Congo: Ẩn họa &quot;bệnh X&quot; và manh mối từ loài muỗi](https://dantri.com.vn/suc-khoe/dich-bi-an-tai-congo-an-hoa-benh-x-va-manh-moi-tu-loai-muoi-20241212232649771.htm) - 00:52 13/12/2024
