@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Giáo viên góp tiền sắm TV dạy học](https://vnexpress.net/giao-vien-gop-tien-sam-tv-day-hoc-4826743.html) - 07:54 13/12/2024
+- 🤓 [Thầy cô góp tiền sắm TV dạy học](https://vnexpress.net/thay-co-gop-tien-sam-tv-day-hoc-4826743.html) - 07:54 13/12/2024
 - 🦆 [Đại học Singapore ứng dụng AI để đào tạo nhân lực IT](https://vnexpress.net/dai-hoc-singapore-ung-dung-ai-de-dao-tao-nhan-luc-it-4827049.html) - 02:00 13/12/2024
 - 🦩 [Bình Định sẽ lấy cơ sở vật chất dôi dư làm trường học](https://vnexpress.net/binh-dinh-se-lay-co-so-vat-chat-doi-du-lam-truong-hoc-4827166.html) - 01:00 13/12/2024
 - 🌮 [Khó điều trị chuyện ép học thêm](https://vnexpress.net/kho-dieu-tri-chuyen-ep-hoc-them-4825598.html) - 23:38 12/12/2024
