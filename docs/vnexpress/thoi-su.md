@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Ôtô 7 chỗ tông gãy lan can cầu, lao xuống sông Đồng Nai](https://vnexpress.net/oto-7-cho-tong-gay-lan-can-cau-lao-xuong-song-dong-nai-4827897.html) - 12:47 14/12/2024
+- 🦒 [Ôtô 4 chỗ tông gãy lan can cầu, lao xuống sông Đồng Nai](https://vnexpress.net/oto-4-cho-tong-gay-lan-can-cau-lao-xuong-song-dong-nai-4827897.html) - 12:47 14/12/2024
 - 🤓 [Khánh thành nhà tưởng niệm đại tướng Võ Nguyên Giáp](https://vnexpress.net/khanh-thanh-nha-tuong-niem-dai-tuong-vo-nguyen-giap-4827830.html) - 09:02 14/12/2024
 - ⚗️ [Thủ tướng yêu cầu thúc đẩy ngoại giao bán dẫn](https://vnexpress.net/thu-tuong-yeu-cau-thuc-day-ngoai-giao-ban-dan-4827834.html) - 08:42 14/12/2024
 - 🌊 [Chủ tịch nước: Tiếp tục xây dựng Quân đội &#39;tinh, gọn, mạnh&#39;](https://vnexpress.net/chu-tich-nuoc-tiep-tuc-xay-dung-quan-doi-tinh-gon-manh-4827720.html) - 06:38 14/12/2024
