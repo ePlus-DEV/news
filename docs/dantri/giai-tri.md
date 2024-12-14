@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Khán giả hò reo, phấn khích trước hành động bất ngờ của NSND Tự Long](https://dantri.com.vn/giai-tri/khan-gia-ho-reo-phan-khich-truoc-hanh-dong-bat-ngo-cua-nsnd-tu-long-20241214232133995.htm) - 16:28 14/12/2024
+- 🤩 [Khán giả &quot;dậy sóng&quot; trước hành động bất ngờ của NSND Tự Long](https://dantri.com.vn/giai-tri/khan-gia-day-song-truoc-hanh-dong-bat-ngo-cua-nsnd-tu-long-20241214232133995.htm) - 16:28 14/12/2024
 - 🔥 [&quot;Anh trai vượt ngàn chông gai&quot;: Khu X-Vip giá 80 triệu đồng có gì đặc biệt?](https://dantri.com.vn/giai-tri/anh-trai-vuot-ngan-chong-gai-khu-x-vip-gia-80-trieu-dong-co-gi-dac-biet-20241214205337483.htm) - 14:33 14/12/2024
 - 🚀 [Độc đáo triển lãm &quot;đảo ngược&quot; tại TPHCM](https://dantri.com.vn/giai-tri/doc-dao-trien-lam-dao-nguoc-tai-tphcm-20241214185731378.htm) - 14:05 14/12/2024
 - 🔥 [Khán giả mãn nhãn với concert 2 bùng nổ của &quot;Anh trai vượt ngàn chông gai&quot;](https://dantri.com.vn/giai-tri/khan-gia-man-nhan-voi-concert-2-bung-no-cua-anh-trai-vuot-ngan-chong-gai-20241214174654128.htm) - 11:50 14/12/2024
