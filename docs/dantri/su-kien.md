@@ -5,7 +5,7 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [Hà Nội &quot;chốt&quot; thời gian sáp nhập, giải thể nhiều sở, ngành](https://dantri.com.vn/xa-hoi/ha-noi-chot-thoi-gian-sap-nhap-giai-the-nhieu-so-nganh-20241214142756748.htm) - 07:56 14/12/2024
-- 👨‍🏫 [Khách trả 40 triệu/cặp vé &quot;Anh trai&quot;, dân phe bất lực vì &quot;không có&quot;](https://dantri.com.vn/giai-tri/khach-tra-40-trieucap-ve-anh-trai-dan-phe-bat-luc-vi-khong-co-20241214141229102.htm) - 07:29 14/12/2024
+- 👨‍🏫 [Khách trả 40 triệu/cặp vé &quot;Anh trai&quot;, dân phe bất lực vì không có vé](https://dantri.com.vn/giai-tri/khach-tra-40-trieucap-ve-anh-trai-dan-phe-bat-luc-vi-khong-co-ve-20241214141229102.htm) - 07:29 14/12/2024
 - 🌮 [ISW: Nga trả đũa cứng rắn, tập kích lớn chưa từng có vào Ukraine](https://dantri.com.vn/the-gioi/isw-nga-tra-dua-cung-ran-tap-kich-lon-chua-tung-co-vao-ukraine-20241214141600526.htm) - 07:13 14/12/2024
 - 🕯 [Nghi can sát hại cô gái 19 tuổi ở TPHCM đã tử vong](https://dantri.com.vn/phap-luat/nghi-can-sat-hai-co-gai-19-tuoi-o-tphcm-da-tu-vong-20241214112919303.htm) - 06:47 14/12/2024
 - 🪜 [SU-30MK2 chao lượn trên bầu trời thỏa lòng mong mỏi của người dân Thủ đô](https://dantri.com.vn/xa-hoi/su-30mk2-chao-luon-tren-bau-troi-thoa-long-mong-moi-cua-nguoi-dan-thu-do-20241209203643449.htm) - 06:10 14/12/2024
