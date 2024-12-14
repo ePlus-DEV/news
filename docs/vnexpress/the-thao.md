@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [6 cầu thủ Indonesia đáng để Việt Nam đề phòng](https://vnexpress.net/6-cau-thu-indonesia-dang-de-viet-nam-de-phong-4827903.html) - 13:51 14/12/2024
-- 🦩 [Thái Lan 0-0 Malaysia &lpar;H2&rpar;: Aguero đá trúng xà](https://vnexpress.net/truc-tiep-thai-lan-vs-malaysia-tai-bang-a-asean-cup-2024-4827892.html) - 12:30 14/12/2024
+- 🦩 [Thái Lan 1-0 Malaysia &lpar;H2&rpar;: Thủ môn đội khách bị ví như Onana](https://vnexpress.net/truc-tiep-thai-lan-vs-malaysia-tai-bang-a-asean-cup-2024-4827892.html) - 12:30 14/12/2024
 - 🧰 [Người dân leo trèo xem buổi tập của tuyển Việt Nam](https://vnexpress.net/nguoi-dan-leo-treo-xem-buoi-tap-cua-tuyen-viet-nam-4827889.html) - 12:03 14/12/2024
 - 🤗 [Bóng hồng khuấy động không khí cuộc đua VnExpress Marathon Hải Phòng](https://vnexpress.net/bong-hong-khuay-dong-khong-khi-cuoc-dua-vnexpress-marathon-hai-phong-4827878.html) - 10:15 14/12/2024
 - 🥳 [Shin Tae-yong &#39;bóp cổ&#39; HLV thủ môn Việt Nam](https://vnexpress.net/shin-tae-yong-bop-co-hlv-thu-mon-viet-nam-4827867.html) - 09:25 14/12/2024
