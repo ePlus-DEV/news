@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- dantri-giai-tri:START -->
 - 🤩 [&quot;Anh trai vượt ngàn chông gai&quot;: Khu X-Vip giá 80 triệu đồng có gì đặc biệt?](https://dantri.com.vn/giai-tri/anh-trai-vuot-ngan-chong-gai-khu-x-vip-gia-80-trieu-dong-co-gi-dac-biet-20241214205337483.htm) - 14:33 14/12/2024
 - 🔥 [Độc đáo triển lãm &quot;đảo ngược&quot; tại TPHCM](https://dantri.com.vn/giai-tri/doc-dao-trien-lam-dao-nguoc-tai-tphcm-20241214185731378.htm) - 14:05 14/12/2024
-- 🚀 [Các anh tài hát &quot;Dạ cổ hoài lang&quot; khiến hàng chục ngàn khán giả xúc động](https://dantri.com.vn/giai-tri/cac-anh-tai-hat-da-co-hoai-lang-khien-hang-chuc-ngan-khan-gia-xuc-dong-20241214174654128.htm) - 11:50 14/12/2024
+- 🚀 [NSND Tự Long nhảy xuống sân khấu, lao lên khán đài... tìm khán giả may mắn](https://dantri.com.vn/giai-tri/nsnd-tu-long-nhay-xuong-san-khau-lao-len-khan-dai-tim-khan-gia-may-man-20241214174654128.htm) - 11:50 14/12/2024
 - 🔥 [Người trẻ khoe dáng gợi cảm bất chấp giá lạnh, xem show &quot;Anh tài&quot;](https://dantri.com.vn/giai-tri/nguoi-tre-khoe-dang-goi-cam-bat-chap-gia-lanh-xem-show-anh-tai-20241214160236560.htm) - 11:03 14/12/2024
 - 🌈 [Trăn trở của các nghệ sĩ xiếc Hà Nội khi làm &quot;Đám cưới chuột&quot;](https://dantri.com.vn/giai-tri/tran-tro-cua-cac-nghe-si-xiec-ha-noi-khi-lam-dam-cuoi-chuot-20241214004247878.htm) - 08:19 14/12/2024
 - 📝 [Kỳ Duyên: &quot;Trấn Thành rất khó tính, tôi may mắn được đóng phim Tết&quot;](https://dantri.com.vn/giai-tri/ky-duyen-tran-thanh-rat-kho-tinh-toi-may-man-duoc-dong-phim-tet-20241214121851245.htm) - 07:58 14/12/2024
