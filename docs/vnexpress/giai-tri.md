@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Nghệ sĩ mỏi tay ký tặng, giao lưu fan &#39;Anh trai vượt ngàn chông gai&#39;](https://vnexpress.net/nghe-si-moi-tay-ky-tang-giao-luu-fan-anh-trai-vuot-ngan-chong-gai-4827888.html) - 11:25 14/12/2024
+- 🌏 [Nghệ sĩ mỏi tay ký tặng fan &#39;Anh trai vượt ngàn chông gai&#39;](https://vnexpress.net/nghe-si-moi-tay-ky-tang-fan-anh-trai-vuot-ngan-chong-gai-4827888.html) - 11:25 14/12/2024
 - 💫 [Fan đổ về xem concert &#39;Anh trai vượt ngàn chông gai&#39;](https://vnexpress.net/fan-do-ve-xem-concert-anh-trai-vuot-ngan-chong-gai-4827868.html) - 10:03 14/12/2024
 - 🌮 [Tác giả Duyên Phùng bị tố cáo đạo văn](https://vnexpress.net/tac-gia-duyen-phung-bi-to-cao-dao-van-4827832.html) - 08:50 14/12/2024
 - 🧠 [Kỳ Duyên đưa bố mẹ dự tiệc cùng dàn sao](https://vnexpress.net/ky-duyen-dua-bo-me-du-tiec-cung-dan-sao-vnepre-4827825.html) - 08:18 14/12/2024
