@@ -41,7 +41,7 @@ sidebar_position: 9
 - 🦏 [Tử vong nghi do ngộ độc khí CO](https://vnexpress.net/tu-vong-nghi-do-ngo-doc-khi-co-4827712.html) - 03:52 14/12/2024
 - 🦩 [Quốc hội Hàn Quốc hôm nay tiếp tục bỏ phiếu luận tội Tổng thống](https://vnexpress.net/quoc-hoi-han-quoc-hom-nay-tiep-tuc-bo-phieu-luan-toi-tong-thong-4827737.html) - 03:50 14/12/2024
 - 👺 [Cầu thủ trẻ nhất Champions League bị cáo buộc gian lận tuổi](https://vnexpress.net/cau-thu-tre-nhat-champions-league-bi-cao-buoc-gian-lan-tuoi-4827722.html) - 03:45 14/12/2024
-- 🧑‍🏫 [Shin Tae-yong: &#39;Việt Nam mạnh nhất bảng B ASEAN Cup&#39;](https://vnexpress.net/shin-tae-yong-viet-nam-manh-nhat-bang-b-asean-cup-4827754.html) - 03:45 14/12/2024
+- 🧑‍🏫 [Shin Tae-yong: &#39;Indonesia bất lợi hơn nhiều Việt Nam&#39;](https://vnexpress.net/shin-tae-yong-indonesia-bat-loi-hon-nhieu-viet-nam-4827754.html) - 03:45 14/12/2024
 - 😎 [Nga phóng gần 300 tên lửa, UAV tập kích hạ tầng năng lượng Ukraine](https://vnexpress.net/nga-phong-gan-300-ten-lua-uav-tap-kich-ha-tang-nang-luong-ukraine-4827733.html) - 03:31 14/12/2024
 - 🪄 [Hồ ly - từ thần thú thành yêu tinh họa quốc trong văn hóa Trung Hoa](https://vnexpress.net/ho-ly-tu-than-thu-thanh-yeu-tinh-hoa-quoc-trong-van-hoa-trung-hoa-vnepre-4827409.html) - 03:30 14/12/2024
 - 🏊 [Lợi thế về vị trí của dự án condotel bên bờ biển Mỹ Khê](https://vnexpress.net/loi-the-ve-vi-tri-cua-du-an-condotel-ben-bo-bien-my-khe-4826874.html) - 03:30 14/12/2024
