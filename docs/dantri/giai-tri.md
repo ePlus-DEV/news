@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- dantri-giai-tri:START -->
 - 🤩 [Độc đáo triển lãm &quot;đảo ngược&quot; tại TPHCM](https://dantri.com.vn/giai-tri/doc-dao-trien-lam-dao-nguoc-tai-tphcm-20241214185731378.htm) - 14:05 14/12/2024
-- 🔥 [Sự xuất hiện của các &quot;Chị đẹp&quot; khiến khán giả mãn nhãn](https://dantri.com.vn/giai-tri/su-xuat-hien-cua-cac-chi-dep-khien-khan-gia-man-nhan-20241214174654128.htm) - 11:50 14/12/2024
+- 🔥 [Các anh tài hát &quot;Trống cơm&quot;, Soobin chơi đàn bầu khiến khán giả bùng nổ](https://dantri.com.vn/giai-tri/cac-anh-tai-hat-trong-com-soobin-choi-dan-bau-khien-khan-gia-bung-no-20241214174654128.htm) - 11:50 14/12/2024
 - 🚀 [Người trẻ khoe dáng gợi cảm bất chấp giá lạnh, xem show &quot;Anh trai&quot;](https://dantri.com.vn/giai-tri/nguoi-tre-khoe-dang-goi-cam-bat-chap-gia-lanh-xem-show-anh-trai-20241214160236560.htm) - 11:03 14/12/2024
 - 🔥 [Trăn trở của các nghệ sĩ xiếc Hà Nội khi làm &quot;Đám cưới chuột&quot;](https://dantri.com.vn/giai-tri/tran-tro-cua-cac-nghe-si-xiec-ha-noi-khi-lam-dam-cuoi-chuot-20241214004247878.htm) - 08:19 14/12/2024
 - 🌈 [Kỳ Duyên: &quot;Trấn Thành rất khó tính, tôi may mắn được đóng phim Tết&quot;](https://dantri.com.vn/giai-tri/ky-duyen-tran-thanh-rat-kho-tinh-toi-may-man-duoc-dong-phim-tet-20241214121851245.htm) - 07:58 14/12/2024
