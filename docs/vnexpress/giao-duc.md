@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Trường Đại học FPT bổ sung thêm phương thức tuyển sinh năm 2025](https://vnexpress.net/truong-dai-hoc-fpt-bo-sung-them-phuong-thuc-tuyen-sinh-nam-2025-4827568.html) - 07:30 14/12/2024
 - 🦆 [9 điểm Toán, Lý, Hóa có học được ngành Điện ở Bách khoa?](https://vnexpress.net/9-diem-toan-ly-hoa-co-hoc-duoc-nganh-dien-o-bach-khoa-4824029.html) - 02:40 14/12/2024
-- 🦩 [Nam sinh dẫn đầu giải bạc Olympic Khoa học trẻ quốc tế](https://vnexpress.net/nam-sinh-dan-dau-giai-bac-olympic-khoa-hoc-tre-quoc-te-vnepre-4827663.html) - 00:32 14/12/2024
+- 🦩 [Nam sinh chuyên Lý dẫn đầu giải bạc Olympic Khoa học trẻ quốc tế](https://vnexpress.net/nam-sinh-chuyen-ly-dan-dau-giai-bac-olympic-khoa-hoc-tre-quoc-te-vnepre-4827663.html) - 00:32 14/12/2024
 - 🌮 [Sở Giáo dục TP HCM yêu cầu tạo thuận lợi cho học sinh ngoại tỉnh nghỉ Tết](https://vnexpress.net/so-giao-duc-tp-hcm-yeu-cau-tao-thuan-loi-cho-hoc-sinh-ngoai-tinh-nghi-tet-4827659.html) - 23:47 13/12/2024
 - 🔭 [Tiền polymer đầu tiên ở Việt Nam có mệnh giá nào?](https://vnexpress.net/tien-polymer-dau-tien-o-viet-nam-co-menh-gia-nao-4827484.html) - 13:00 13/12/2024
 - 💡 [Phụ huynh bàng hoàng khi trường quốc tế bị cưỡng chế đất, dừng hoạt động](https://vnexpress.net/phu-huynh-bang-hoang-khi-truong-quoc-te-bi-cuong-che-dat-dung-hoat-dong-4827536.html) - 11:59 13/12/2024
