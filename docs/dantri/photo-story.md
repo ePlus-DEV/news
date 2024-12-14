@@ -4,7 +4,7 @@ sidebar_position: 28
 ---
 
 <!-- dantri-photo-story:START -->
-- 💪 [Bạn trẻ lên đồ cá tính, khoe dáng đi xem &quot;Anh trai vượt ngàn chông gai&quot;](https://dantri.com.vn/giai-tri/ban-tre-len-do-ca-tinh-khoe-dang-di-xem-anh-trai-vuot-ngan-chong-gai-20241214160236560.htm) - 11:03 14/12/2024
+- 💪 [Người trẻ khoe dáng gợi cảm bất chấp giá lạnh, xem show &quot;Anh trai&quot;](https://dantri.com.vn/giai-tri/nguoi-tre-khoe-dang-goi-cam-bat-chap-gia-lanh-xem-show-anh-trai-20241214160236560.htm) - 11:03 14/12/2024
 - 🧰 [SU-30MK2 chao lượn trên bầu trời thỏa lòng mong mỏi của người dân Thủ đô](https://dantri.com.vn/xa-hoi/su-30mk2-chao-luon-tren-bau-troi-thoa-long-mong-moi-cua-nguoi-dan-thu-do-20241209203643449.htm) - 06:10 14/12/2024
 - 🧰 [Khán giả TPHCM đội mưa xem HIEUTHUHAI tại HOZO 2024](https://dantri.com.vn/giai-tri/khan-gia-tphcm-doi-mua-xem-hieuthuhai-tai-hozo-2024-20241214072843951.htm) - 02:57 14/12/2024
 - 😎 [Vỉa hè ở Hà Nội bị xới tung những ngày cuối năm](https://dantri.com.vn/xa-hoi/via-he-o-ha-noi-bi-xoi-tung-nhung-ngay-cuoi-nam-20241214000622509.htm) - 23:31 13/12/2024
