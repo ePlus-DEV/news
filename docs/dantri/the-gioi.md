@@ -4,7 +4,7 @@ sidebar_position: 17
 ---
 
 <!-- dantri-the-gioi:START -->
-- 🌋 [Quốc hội Hàn Quốc bỏ phiếu luận tội Tổng thống](https://dantri.com.vn/the-gioi/quoc-hoi-han-quoc-bo-phieu-luan-toi-tong-thong-20241214140337945.htm) - 07:17 14/12/2024
+- 🌋 [Quốc hội Hàn Quốc ủng hộ luận tội Tổng thống](https://dantri.com.vn/the-gioi/quoc-hoi-han-quoc-ung-ho-luan-toi-tong-thong-20241214140337945.htm) - 07:17 14/12/2024
 - 🎬 [ISW: Nga trả đũa cứng rắn, tập kích lớn chưa từng có vào Ukraine](https://dantri.com.vn/the-gioi/isw-nga-tra-dua-cung-ran-tap-kich-lon-chua-tung-co-vao-ukraine-20241214141600526.htm) - 07:13 14/12/2024
 - 🧰 [Đánh bom tại lễ hội Thái Lan, hơn 40 người thương vong](https://dantri.com.vn/the-gioi/danh-bom-tai-le-hoi-thai-lan-hon-40-nguoi-thuong-vong-20241214133752179.htm) - 06:37 14/12/2024
 - 🌋 [Chiến sự Ukraine 14/12: 13.000 lính Kiev đột ngột &quot;biến mất&quot;, dấu hiệu lạ](https://dantri.com.vn/the-gioi/chien-su-ukraine-1412-13000-linh-kiev-dot-ngot-bien-mat-dau-hieu-la-20241214123810733.htm) - 05:38 14/12/2024
