@@ -21,7 +21,7 @@ sidebar_position: 5
 - 🙉 [Kim Sang-sik: &#39;Việt Nam - Indonesia là trận đấu của lòng tự tôn&#39;](https://vnexpress.net/kim-sang-sik-viet-nam-indonesia-la-tran-dau-cua-long-tu-ton-4827759.html) - 04:33 14/12/2024
 - 📝 [Nghệ sĩ Xuân Bắc và dàn sao chạy cùng 2.000 runner nhí Kun Marathon Hải Phòng](https://vnexpress.net/nghe-si-xuan-bac-va-dan-sao-chay-cung-2-000-runner-nhi-kun-marathon-hai-phong-4827721.html) - 04:30 14/12/2024
 - 💯 [Cầu thủ trẻ nhất Champions League bị cáo buộc gian lận tuổi](https://vnexpress.net/cau-thu-tre-nhat-champions-league-bi-cao-buoc-gian-lan-tuoi-4827722.html) - 03:45 14/12/2024
-- 🌈 [Shin Tae-yong: &#39;Indonesia bất lợi hơn nhiều Việt Nam&#39;](https://vnexpress.net/shin-tae-yong-indonesia-bat-loi-hon-nhieu-viet-nam-4827754.html) - 03:45 14/12/2024
+- 🌈 [Shin Tae-yong: &#39;Indonesia bất lợi hơn Việt Nam&#39;](https://vnexpress.net/shin-tae-yong-indonesia-bat-loi-hon-viet-nam-4827754.html) - 03:45 14/12/2024
 - 🦩 [Những trận đấu gây sốc nhất ASEAN Cup](https://vnexpress.net/nhung-tran-dau-gay-soc-nhat-asean-cup-4827416.html) - 02:47 14/12/2024
 - 🐲 [Tuchel: &#39;Tôi là HLV phù hợp với tuyển Anh&#39;](https://vnexpress.net/tuchel-toi-la-hlv-phu-hop-voi-tuyen-anh-4827690.html) - 02:29 14/12/2024
 - 🌁 [Chủ tịch LĐBĐ Indonesia: &#39;Hòa được Việt Nam là phi thường&#39;](https://vnexpress.net/chu-tich-ldbd-indonesia-hoa-duoc-viet-nam-la-phi-thuong-4827671.html) - 00:53 14/12/2024
