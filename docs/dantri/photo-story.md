@@ -4,7 +4,7 @@ sidebar_position: 28
 ---
 
 <!-- dantri-photo-story:START -->
-- 💪 [Hai tỉnh huy động cano tìm chiếc ô tô rơi xuống sông Đồng Nai](https://dantri.com.vn/xa-hoi/hai-tinh-huy-dong-cano-tim-chiec-o-to-roi-xuong-song-dong-nai-20241214220207759.htm) - 15:18 14/12/2024
+- 💪 [Tìm thấy thi thể nữ tài xế lái ô tô rơi xuống sông Đồng Nai](https://dantri.com.vn/xa-hoi/tim-thay-thi-the-nu-tai-xe-lai-o-to-roi-xuong-song-dong-nai-20241214220207759.htm) - 15:18 14/12/2024
 - 🧰 [Độc đáo triển lãm &quot;đảo ngược&quot; tại TPHCM](https://dantri.com.vn/giai-tri/doc-dao-trien-lam-dao-nguoc-tai-tphcm-20241214185731378.htm) - 14:05 14/12/2024
 - 🧰 [Người trẻ khoe dáng gợi cảm bất chấp giá lạnh, xem show &quot;Anh tài&quot;](https://dantri.com.vn/giai-tri/nguoi-tre-khoe-dang-goi-cam-bat-chap-gia-lanh-xem-show-anh-tai-20241214160236560.htm) - 11:03 14/12/2024
 - 😎 [SU-30MK2 chao lượn trên bầu trời thỏa lòng mong mỏi của người dân Thủ đô](https://dantri.com.vn/xa-hoi/su-30mk2-chao-luon-tren-bau-troi-thoa-long-mong-moi-cua-nguoi-dan-thu-do-20241209203643449.htm) - 06:10 14/12/2024
