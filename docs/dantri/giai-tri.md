@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Bạn trẻ lên đồ cá tính, khoe dáng đi xem &quot;Anh trai vượt ngàn chông gai&quot;](https://dantri.com.vn/giai-tri/ban-tre-len-do-ca-tinh-khoe-dang-di-xem-anh-trai-vuot-ngan-chong-gai-20241214160236560.htm) - 11:03 14/12/2024
+- 🤩 [Người trẻ khoe dáng gợi cảm bất chấp giá lạnh, xem show &quot;Anh trai&quot;](https://dantri.com.vn/giai-tri/nguoi-tre-khoe-dang-goi-cam-bat-chap-gia-lanh-xem-show-anh-trai-20241214160236560.htm) - 11:03 14/12/2024
 - 🔥 [Trăn trở của các nghệ sĩ xiếc Hà Nội khi làm &quot;Đám cưới chuột&quot;](https://dantri.com.vn/giai-tri/tran-tro-cua-cac-nghe-si-xiec-ha-noi-khi-lam-dam-cuoi-chuot-20241214004247878.htm) - 08:19 14/12/2024
 - 🚀 [Kỳ Duyên: &quot;Trấn Thành rất khó tính, tôi may mắn được đóng phim Tết&quot;](https://dantri.com.vn/giai-tri/ky-duyen-tran-thanh-rat-kho-tinh-toi-may-man-duoc-dong-phim-tet-20241214121851245.htm) - 07:58 14/12/2024
 - 🔥 [Khách trả 40 triệu/cặp vé &quot;Anh trai&quot;, dân phe bất lực vì không có vé](https://dantri.com.vn/giai-tri/khach-tra-40-trieucap-ve-anh-trai-dan-phe-bat-luc-vi-khong-co-ve-20241214141229102.htm) - 07:29 14/12/2024
