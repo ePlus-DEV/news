@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Khối Schengen kiểm soát xuất nhập cảnh bằng sinh trắc học từ tháng 1](https://vnexpress.net/khoi-schengen-kiem-soat-xuat-nhap-canh-bang-sinh-trac-hoc-tu-thang-1-4827871.html) - 11:00 14/12/2024
+- 💂 [Khối Schengen thông quan sinh trắc học từ tháng 1](https://vnexpress.net/khoi-schengen-thong-quan-sinh-trac-hoc-tu-thang-1-4827871.html) - 11:00 14/12/2024
 - 🪄 [Khách Việt lợi dụng du lịch để trốn ở Hàn Quốc thế nào](https://vnexpress.net/khach-viet-loi-dung-du-lich-de-tron-o-han-quoc-the-nao-vnepre-4823671.html) - 05:28 14/12/2024
 - 🦅 [9 truyền thống đón Giáng sinh ở Anh](https://vnexpress.net/9-truyen-thong-don-giang-sinh-o-anh-4827735.html) - 03:21 14/12/2024
 - 🕴 [5 điểm check in Mộc Châu mùa đông](https://vnexpress.net/5-diem-check-in-moc-chau-mua-dong-4826927.html) - 02:14 14/12/2024
