@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Nhân viên y tế và cán bộ bảo hiểm &#39;bắt tay&#39; trục lợi](https://vnexpress.net/nhan-vien-y-te-va-can-bo-bao-hiem-bat-tay-truc-loi-4827902.html) - 14:26 14/12/2024
-- 🥰 [Nhiều lãnh đạo cơ quan bị tội phạm ghép ảnh nhạy cảm, tống tiền](https://vnexpress.net/nhieu-nguoi-co-dia-vi-bi-toi-pham-ghep-anh-nhay-cam-tong-tien-4827848.html) - 09:23 14/12/2024
+- 🥰 [Nhiều người bị tội phạm ghép ảnh nhạy cảm, tống tiền](https://vnexpress.net/nhieu-nguoi-co-dia-vi-bi-toi-pham-ghep-anh-nhay-cam-tong-tien-4827848.html) - 09:23 14/12/2024
 - 🎓 [Đập búa, cướp tiệm vàng](https://vnexpress.net/dap-bua-cuop-tiem-vang-4827823.html) - 06:42 14/12/2024
 - 🤓 [Anh rể của cô gái bị sát hại là nghi can gây án](https://vnexpress.net/anh-re-cua-co-gai-bi-sat-hai-la-nghi-can-gay-an-4827739.html) - 04:22 14/12/2024
 - 🎊 [Hai lần đâm hàng xóm vì nghi &#39;ném mèo lên mái nhà&#39;](https://vnexpress.net/hai-lan-dam-hang-xom-vi-nghi-nem-meo-len-mai-nha-4827528.html) - 22:00 13/12/2024
