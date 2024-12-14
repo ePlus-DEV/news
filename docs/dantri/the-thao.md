@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [Thắng đậm Timor Leste, Singapore toàn thắng ở AFF Cup 2024](https://dantri.com.vn/the-thao/thang-dam-timor-leste-singapore-toan-thang-o-aff-cup-2024-20241214194458167.htm) - 12:48 14/12/2024
 - 💯 [Cổ động viên bám hàng rào, xem trộm đội tuyển Việt Nam tập luyện](https://dantri.com.vn/the-thao/co-dong-vien-bam-hang-rao-xem-trom-doi-tuyen-viet-nam-tap-luyen-20241214200600190.htm) - 12:46 14/12/2024
-- ⛽️ [Thái Lan 1-0 Malaysia &lpar;hiệp 2&rpar;: Bàn thắng từ trên trời rơi xuống](https://dantri.com.vn/the-thao/thai-lan-1-0-malaysia-hiep-2-ban-thang-tu-tren-troi-roi-xuong-20241214194524266.htm) - 12:45 14/12/2024
+- ⛽️ [Được đối thủ &quot;biếu không&quot; chiến thắng, Thái Lan rộng cửa đi tiếp](https://dantri.com.vn/the-thao/duoc-doi-thu-bieu-khong-chien-thang-thai-lan-rong-cua-di-tiep-20241214194524266.htm) - 12:45 14/12/2024
 - 💃 [Indonesia đặt mục tiêu: &quot;Hòa đội tuyển Việt Nam là phi thường lắm rồi&quot;](https://dantri.com.vn/the-thao/indonesia-dat-muc-tieu-hoa-doi-tuyen-viet-nam-la-phi-thuong-lam-roi-20241214155752284.htm) - 09:26 14/12/2024
 - 🌈 [Quang Hải: &quot;Tuyển Việt Nam biết cách thắng Indonesia&quot;](https://dantri.com.vn/the-thao/quang-hai-tuyen-viet-nam-biet-cach-thang-indonesia-20241214162553182.htm) - 09:25 14/12/2024
 - 🦅 [Khác biệt tuổi tác giúp đội tuyển Việt Nam thiện chiến hơn hẳn Indonesia](https://dantri.com.vn/the-thao/khac-biet-tuoi-tac-giup-doi-tuyen-viet-nam-thien-chien-hon-han-indonesia-20241214124723064.htm) - 09:00 14/12/2024
