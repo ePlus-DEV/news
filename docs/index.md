@@ -153,7 +153,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎊 [Thương hiệu Việt duy nhất vào chung kết Sustasia Fashion Prize 2025](https://thanhnien.vn/thoi-trang-tre/thuong-hieu-viet-duy-nhat-vao-chung-ket-sustasia-fashion-prize-2025-185241214134837852.htm) - 14:57 14/12/2024
 - 🤠 [Bế mạc Tuần Văn hóa - du lịch tỉnh Kon Tum lần thứ 5](https://thanhnien.vn/be-mac-tuan-van-hoa-du-lich-tinh-kon-tum-lan-thu-5-185241214211729685.htm) - 14:31 14/12/2024
 - 💼 [Nha Trang: Giải chạy đêm &#39;lan tỏa tình yêu biển đảo&#39;](https://thanhnien.vn/nha-trang-giai-chay-dem-lan-toa-tinh-yeu-bien-dao-185241214203620283.htm) - 14:16 14/12/2024
-- 🐻 [Ô tô 4 chỗ, rơi xuống sông Đồng Nai, nữ tài xế kẹt trong xe](https://thanhnien.vn/xe-o-to-4-cho-tong-gay-lan-can-cau-dong-nai-roi-xuong-song-185241214205723337.htm) - 14:09 14/12/2024
+- 🐻 [Ô tô 4 chỗ rơi xuống sông Đồng Nai, nữ tài xế kẹt trong xe](https://thanhnien.vn/xe-o-to-4-cho-tong-gay-lan-can-cau-dong-nai-roi-xuong-song-185241214205723337.htm) - 14:09 14/12/2024
 - 🤔 [Chặt đứt đường dây ma túy của cặp vợ chồng ở ngã ba Cai Lang](https://thanhnien.vn/chat-dut-duong-day-ma-tuy-cua-cap-vo-chong-o-nga-ba-cai-lang-185241214163452234.htm) - 13:53 14/12/2024
 - 📝 [Lan tỏa thông điệp đoàn kết thanh niên](https://thanhnien.vn/lan-toa-thong-diep-doan-ket-thanh-nien-185241214195513034.htm) - 13:51 14/12/2024
 - 🥰 [Mỹ bắt đầu quá trình chuyển 4.000 thủy quân lục chiến đến đảo Guam](https://thanhnien.vn/my-bat-dau-qua-trinh-chuyen-4000-thuy-quan-luc-chien-den-dao-guam-185241214201915174.htm) - 13:47 14/12/2024
