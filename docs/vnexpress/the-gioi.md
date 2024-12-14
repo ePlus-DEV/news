@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Quốc hội Hàn Quốc bỏ phiếu luận tội Tổng thống Yoon lần hai](https://vnexpress.net/quoc-hoi-han-quoc-bo-phieu-luan-toi-tong-thong-yoon-lan-hai-4827821.html) - 07:11 14/12/2024
+- 🎭 [Quốc hội Hàn Quốc duyệt luận tội, đình chỉ chức vụ Tổng thống Yoon](https://vnexpress.net/quoc-hoi-han-quoc-duyet-luan-toi-dinh-chi-chuc-vu-tong-thong-yoon-4827821.html) - 07:11 14/12/2024
 - 🕴 [Một năm phe nổi dậy Syria lên kế hoạch lật đổ ông Assad](https://vnexpress.net/mot-nam-phe-noi-day-syria-len-ke-hoach-lat-do-ong-assad-vnepre-4827688.html) - 04:17 14/12/2024
 - 🤭 [Quốc hội Hàn Quốc hôm nay tiếp tục bỏ phiếu luận tội Tổng thống](https://vnexpress.net/quoc-hoi-han-quoc-hom-nay-tiep-tuc-bo-phieu-luan-toi-tong-thong-4827737.html) - 03:50 14/12/2024
 - 🧑‍💻 [Nga phóng gần 300 tên lửa, UAV tập kích hạ tầng năng lượng Ukraine](https://vnexpress.net/nga-phong-gan-300-ten-lua-uav-tap-kich-ha-tang-nang-luong-ukraine-4827733.html) - 03:31 14/12/2024
