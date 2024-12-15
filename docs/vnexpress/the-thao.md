@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Lào rơi chiến thắng trước Philippines](https://vnexpress.net/lao-roi-chien-thang-truoc-philippines-4828119.html) - 13:03 15/12/2024
-- 🦩 [Việt Nam 0-0 Indonesia &lpar;H1&rpar;: Thế trận chặt chẽ](https://vnexpress.net/viet-nam-0-0-indonesia-h1-the-tran-chat-che-4828110.html) - 11:52 15/12/2024
+- 🦩 [Việt Nam 0-0 Indonesia &lpar;H2&rpar;: Chuyên gia ném biên vào sân](https://vnexpress.net/viet-nam-0-0-indonesia-h2-chuyen-gia-nem-bien-vao-san-4828110.html) - 11:52 15/12/2024
 - 🧰 [HLV Thái Lan bỏ vào phòng thay đồ vì giận Madam Pang](https://vnexpress.net/hlv-thai-lan-bo-vao-phong-thay-do-vi-gian-madam-pang-4828091.html) - 10:25 15/12/2024
 - 🤗 [Việt Nam – Indonesia: Cơ hội trút giận ở ASEAN Cup 2024](https://vnexpress.net/viet-nam-indonesia-co-hoi-trut-gian-o-asean-cup-2024-4828055.html) - 07:00 15/12/2024
 - 🥳 [Thủ môn Martinez lại cứu thua khó tin ở Ngoại hạng Anh](https://vnexpress.net/thu-mon-martinez-lai-cuu-thua-kho-tin-o-ngoai-hang-anh-4828004.html) - 06:57 15/12/2024
