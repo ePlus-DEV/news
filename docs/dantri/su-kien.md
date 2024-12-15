@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Hai xe khách tông nhau trên quốc lộ 14, ít nhất 5 người bị thương](https://dantri.com.vn/xa-hoi/hai-xe-khach-tong-nhau-tren-quoc-lo-14-it-nhat-5-nguoi-bi-thuong-20241215151902531.htm) - 08:34 15/12/2024
+- 🎭 [Hai xe khách tông nhau trên quốc lộ 14, một tài xế tử vong](https://dantri.com.vn/xa-hoi/hai-xe-khach-tong-nhau-tren-quoc-lo-14-mot-tai-xe-tu-vong-20241215151902531.htm) - 08:34 15/12/2024
 - 👨‍🏫 [Người đàn ông kể lại giây phút cứu 3 nữ sinh bị nước cuốn trôi](https://dantri.com.vn/xa-hoi/nguoi-dan-ong-ke-lai-giay-phut-cuu-3-nu-sinh-bi-nuoc-cuon-troi-20241215132814640.htm) - 08:08 15/12/2024
 - 🌮 [Báo Indonesia chỉ ra lợi thế giúp đội nhà đánh bại tuyển Việt Nam](https://dantri.com.vn/the-thao/bao-indonesia-chi-ra-loi-the-giup-doi-nha-danh-bai-tuyen-viet-nam-20241215093250246.htm) - 08:00 15/12/2024
 - 🕯 [Sau show &quot;Anh trai&quot;, Tuấn Hưng mời NSND Tự Long hát ở nhà mình](https://dantri.com.vn/giai-tri/sau-show-anh-trai-tuan-hung-moi-nsnd-tu-long-hat-o-nha-minh-20241215113837327.htm) - 07:56 15/12/2024
