@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [Cổ động viên đốt pháo sáng cổ vũ đội tuyển Việt Nam đấu Indonesia](https://dantri.com.vn/the-thao/co-dong-vien-dot-phao-sang-co-vu-doi-tuyen-viet-nam-dau-indonesia-20241215185940007.htm) - 12:06 15/12/2024
 - 💯 [Hòa Philippines, đội tuyển Lào nuôi hy vọng vào bán kết](https://dantri.com.vn/the-thao/hoa-philippines-doi-tuyen-lao-nuoi-hy-vong-vao-ban-ket-20241215172149244.htm) - 10:22 15/12/2024
-- ⛽️ [Việt Nam 0-0 Indonesia &lpar;hiệp 2&rpar;: Tấn công liên tục](https://dantri.com.vn/the-thao/viet-nam-0-0-indonesia-hiep-2-tan-cong-lien-tuc-20241215171630635.htm) - 10:18 15/12/2024
+- ⛽️ [Việt Nam 0-0 Indonesia &lpar;hiệp 2&rpar;: Văn Toàn vào sân](https://dantri.com.vn/the-thao/viet-nam-0-0-indonesia-hiep-2-van-toan-vao-san-20241215171630635.htm) - 10:18 15/12/2024
 - 💃 [Báo Indonesia chỉ ra lợi thế giúp đội nhà đánh bại tuyển Việt Nam](https://dantri.com.vn/the-thao/bao-indonesia-chi-ra-loi-the-giup-doi-nha-danh-bai-tuyen-viet-nam-20241215093250246.htm) - 08:00 15/12/2024
 - 🌈 [Mike Tyson thú nhận gây sốc sau trận thua Jake Paul](https://dantri.com.vn/the-thao/mike-tyson-thu-nhan-gay-soc-sau-tran-thua-jake-paul-20241215134431024.htm) - 06:44 15/12/2024
 - 🦅 [Báo chí thế giới dự đoán kết quả trận tuyển Việt Nam đại chiến Indonesia](https://dantri.com.vn/the-thao/bao-chi-the-gioi-du-doan-ket-qua-tran-tuyen-viet-nam-dai-chien-indonesia-20241215130634847.htm) - 06:06 15/12/2024
