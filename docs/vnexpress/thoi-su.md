@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Hai ôtô khách nát đầu, đuôi sau tai nạn trên quốc lộ 14](https://vnexpress.net/hai-oto-khach-nat-dau-duoi-sau-tai-nan-tren-quoc-lo-14-4828080.html) - 10:01 15/12/2024
-- 🤓 [Khoảng 250 người mắc kẹt do đèo Khánh Lê sạt lở](https://vnexpress.net/khoang-250-nguoi-mac-ket-do-deo-khanh-le-sat-lo-4828075.html) - 08:55 15/12/2024
+- 🤓 [Hơn 260 người mắc kẹt do đèo Khánh Lê sạt lở](https://vnexpress.net/hon-260-nguoi-mac-ket-do-deo-khanh-le-sat-lo-4828075.html) - 08:55 15/12/2024
 - ⚗️ [Thủ tướng: &#39;Đường sắt cao tốc phải về tới Cà Mau&#39;](https://vnexpress.net/thu-tuong-duong-sat-cao-toc-phai-ve-toi-ca-mau-4828060.html) - 08:40 15/12/2024
 - 🌊 [Bàn giao 40 ngôi nhà tái thiết Làng Nủ](https://vnexpress.net/ban-giao-40-ngoi-nha-tai-thiet-lang-nu-4828030.html) - 07:01 15/12/2024
 - 🎓 [Quốc Tử Giám dưới triều Nguyễn trước lúc trùng tu](https://vnexpress.net/quoc-tu-giam-duoi-trieu-nguyen-truoc-luc-trung-tu-4827769.html) - 06:27 15/12/2024
