@@ -15,7 +15,7 @@ sidebar_position: 9
 - 🫶 [Rome chuẩn bị để đón 35 triệu lượt khách](https://vnexpress.net/rome-chuan-bi-de-don-35-trieu-luot-khach-4828083.html) - 12:00 15/12/2024
 - 🪜 [10 phim doanh thu cao nhất năm 2024](https://vnexpress.net/10-phim-doanh-thu-cao-nhat-nam-2024-4828017.html) - 12:00 15/12/2024
 - 👨‍🏫 [Có nên ăn bún thừa qua đêm?](https://vnexpress.net/co-nen-an-bun-thua-qua-dem-4827765.html) - 12:00 15/12/2024
-- 🎊 [Việt Nam 0-0 Indonesia &lpar;H1&rpar;: Nhập cuộc hưng phấn](https://vnexpress.net/viet-nam-0-0-indonesia-h1-nhap-cuoc-hung-phan-4828110.html) - 11:52 15/12/2024
+- 🎊 [Việt Nam 0-0 Indonesia &lpar;H1&rpar;: Thế trận chặt chẽ](https://vnexpress.net/viet-nam-0-0-indonesia-h1-the-tran-chat-che-4828110.html) - 11:52 15/12/2024
 - 🎊 [Tìm chàng trai chân thành, ấm áp](https://vnexpress.net/tim-chang-trai-chan-thanh-am-ap-4828086.html) - 11:00 15/12/2024
 - 😺 [Hàng trăm cảnh sát bắt đường dây mua bán vũ khí quân dụng](https://vnexpress.net/hang-tram-canh-sat-bat-duong-day-mua-ban-vu-khi-quan-dung-4828094.html) - 10:41 15/12/2024
 - 🐘 [Mong mùa xuân này có anh](https://vnexpress.net/mong-mua-xuan-nay-co-anh-4828085.html) - 10:32 15/12/2024
@@ -55,5 +55,4 @@ sidebar_position: 9
 - 🏊 [Cách bốn thanh niên giúp nhóm lừa đảo luân chuyển 158 tỷ đồng](https://vnexpress.net/cach-bon-thanh-nien-giup-nhom-lua-dao-luan-chuyen-158-ty-dong-vnepre-4828045.html) - 06:54 15/12/2024
 - 🦩 [Vì sao Việt Nam có vị thế vượt trội ở ASEAN Cup 2024?](https://vnexpress.net/vi-sao-viet-nam-co-vi-the-vuot-troi-o-asean-cup-2024-4827057.html) - 06:45 15/12/2024
 - 👍 [Những khoảnh khắc đẹp trong concert &#39;Anh trai vượt ngàn chông gai&#39;](https://vnexpress.net/nhung-khoanh-khac-dep-trong-concert-anh-trai-vuot-ngan-chong-gai-4828048.html) - 06:45 15/12/2024
-- 🔥 [Học ngành Khí tượng khó kiếm việc, lương thấp?](https://vnexpress.net/hoc-nganh-khi-tuong-kho-kiem-viec-luong-thap-4827202.html) - 06:33 15/12/2024
-- 💄 [Tàu khu trục Zumwalt mang tên lửa siêu thanh mạnh thế nào?](https://vnexpress.net/tau-khu-truc-zumwalt-mang-ten-lua-sieu-thanh-manh-the-nao-4828049.html) - 06:31 15/12/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🔥 [Học ngành Khí tượng khó kiếm việc, lương thấp?](https://vnexpress.net/hoc-nganh-khi-tuong-kho-kiem-viec-luong-thap-4827202.html) - 06:33 15/12/2024<!-- vnexpress-tin-moi-nhat:END -->
