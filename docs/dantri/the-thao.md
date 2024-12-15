@@ -8,7 +8,7 @@ sidebar_position: 2
 - 💯 [Lộ diện 11 tuyển thủ Việt Nam đá chính trước Indonesia?](https://dantri.com.vn/the-thao/lo-dien-11-tuyen-thu-viet-nam-da-chinh-truoc-indonesia-20241215004406298.htm) - 05:03 15/12/2024
 - ⛽️ [Derby Manchester: Khó khăn vây chặt hai gã khổng lồ](https://dantri.com.vn/the-thao/derby-manchester-kho-khan-vay-chat-hai-ga-khong-lo-20241215111508499.htm) - 04:15 15/12/2024
 - 💃 [Báo Hàn Quốc bình luận về màn so tài giữa Kim Sang Sik và Shin Tae Yong](https://dantri.com.vn/the-thao/bao-han-quoc-binh-luan-ve-man-so-tai-giua-kim-sang-sik-va-shin-tae-yong-20241215000505308.htm) - 03:05 15/12/2024
-- 🌈 [Nhận định Man City - Man City: Tham vọng, hy vọng và nỗi lo](https://dantri.com.vn/the-thao/nhan-dinh-man-city-man-city-tham-vong-hy-vong-va-noi-lo-20241215091241882.htm) - 02:12 15/12/2024
+- 🌈 [Nhận định Man City - Man Utd: Tham vọng, hy vọng và nỗi lo](https://dantri.com.vn/the-thao/nhan-dinh-man-city-man-utd-tham-vong-hy-vong-va-noi-lo-20241215091241882.htm) - 02:12 15/12/2024
 - 🦅 [CĐV chỉ trích sai lầm của thủ môn khiến Malaysia thua Thái Lan ở AFF Cup](https://dantri.com.vn/the-thao/cdv-chi-trich-sai-lam-cua-thu-mon-khien-malaysia-thua-thai-lan-o-aff-cup-20241215084850114.htm) - 02:00 15/12/2024
 - 🌝 [Báo Indonesia lo ngại đặc biệt 4 cầu thủ Việt Nam](https://dantri.com.vn/the-thao/bao-indonesia-lo-ngai-dac-biet-4-cau-thu-viet-nam-20241215001339358.htm) - 01:51 15/12/2024
 - 🚀 [Đàn anh muốn chứng kiến Djokovic hét vào mặt Murray](https://dantri.com.vn/the-thao/dan-anh-muon-chung-kien-djokovic-het-vao-mat-murray-20241215070423149.htm) - 00:05 15/12/2024
