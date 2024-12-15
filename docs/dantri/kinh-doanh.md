@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- dantri-kinh-doanh:START -->
-- 🏊 [Ông Trần Đình Long bắt tay tỷ phú Vượng tại dự án lớn nhất Đông Nam Á](https://dantri.com.vn/kinh-doanh/ong-tran-dinh-long-bat-tay-ty-phu-vuong-tai-du-an-lon-nhat-dong-nam-a-20241215135942428.htm) - 09:59 15/12/2024
+- 🏊 [Công ty tỷ phú Long cung cấp 10.000 tấn thép vào dự án lớn nhất Đông Nam Á](https://dantri.com.vn/kinh-doanh/cong-ty-ty-phu-long-cung-cap-10000-tan-thep-vao-du-an-lon-nhat-dong-nam-a-20241215135942428.htm) - 09:59 15/12/2024
 - 🦆 [Bất ngờ về học vấn của &quot;siêu lừa&quot; Mr. Pips, vụ án 5.200 tỷ đồng rúng động](https://dantri.com.vn/kinh-doanh/bat-ngo-ve-hoc-van-cua-sieu-lua-mr-pips-vu-an-5200-ty-dong-rung-dong-20241215083520083.htm) - 03:54 15/12/2024
 - 🦄 [Bitcoin lại vượt mốc 100.000 USD, chờ phá đỉnh lịch sử](https://dantri.com.vn/kinh-doanh/bitcoin-lai-vuot-moc-100000-usd-cho-pha-dinh-lich-su-20241214164349366.htm) - 03:39 15/12/2024
 - 🌝 [Dự báo bất ngờ về vàng sau tuần biến động mạnh](https://dantri.com.vn/kinh-doanh/du-bao-bat-ngo-ve-vang-sau-tuan-bien-dong-manh-20241214223657671.htm) - 00:23 15/12/2024
