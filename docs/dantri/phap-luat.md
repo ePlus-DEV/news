@@ -4,7 +4,7 @@ sidebar_position: 8
 ---
 
 <!-- dantri-phap-luat:START -->
-- 🌊 [Cô gái bị người yêu cũ lái ô tô tông trúng tại Bà Rịa - Vũng Tàu](https://dantri.com.vn/phap-luat/co-gai-bi-nguoi-yeu-cu-lai-o-to-tong-trung-tai-ba-ria-vung-tau-20241215160442826.htm) - 09:14 15/12/2024
+- 🌊 [Công an Bình Dương bắt đối tượng truy nã đặc biệt trong ngày đầu ra quân](https://dantri.com.vn/phap-luat/cong-an-binh-duong-bat-doi-tuong-truy-na-dac-biet-trong-ngay-dau-ra-quan-20241215162209554.htm) - 10:18 15/12/2024
 - 🐲 [Vụ vệ sĩ phân luồng cho đoàn xe sang đi đám cưới: Thu hồi giấy phép công ty](https://dantri.com.vn/phap-luat/vu-ve-si-phan-luong-cho-doan-xe-sang-di-dam-cuoi-thu-hoi-giay-phep-cong-ty-20241215120429407.htm) - 05:54 15/12/2024
 - 🌁 [Chồng dọa giết cả nhà ngoại vì vợ đòi ly hôn](https://dantri.com.vn/phap-luat/chong-doa-giet-ca-nha-ngoai-vi-vo-doi-ly-hon-20241215090807823.htm) - 02:38 15/12/2024
 - 🎃 [Nghi can chết sau khi sát hại cô gái 19 tuổi, vụ án được xử lý thế nào?](https://dantri.com.vn/phap-luat/nghi-can-chet-sau-khi-sat-hai-co-gai-19-tuoi-vu-an-duoc-xu-ly-the-nao-20241214235655702.htm) - 00:44 15/12/2024
