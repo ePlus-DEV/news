@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Sạt lở đường nối Nha Trang - Đà Lạt chia cắt giao thông](https://vnexpress.net/sat-lo-duong-noi-nha-trang-da-lat-chia-cat-giao-thong-4828009.html) - 03:42 15/12/2024
 - 🤓 [Chuyên gia: &#39;Làm hầm Cát Lái thách thức hơn Thủ Thiêm&#39;](https://vnexpress.net/chuyen-gia-lam-ham-cat-lai-thach-thuc-hon-thu-thiem-4827582.html) - 23:00 14/12/2024
-- ⚗️ [Thưởng Tết cao nhất ở Bình Dương 375 triệu đồng](https://vnexpress.net/thuong-tet-cao-nhat-o-binh-duong-375-trieu-dong-4827931.html) - 17:00 14/12/2024
+- ⚗️ [Thưởng Tết cao nhất ở Long An 519 triệu đồng](https://vnexpress.net/thuong-tet-cao-nhat-o-long-an-519-trieu-dong-4827931.html) - 17:00 14/12/2024
 - 🌊 [Chín tháng khổ luyện của quân khuyển biên phòng](https://vnexpress.net/chin-thang-kho-luyen-cua-quan-khuyen-bien-phong-4827112.html) - 17:00 14/12/2024
 - 🎓 [Ôtô 4 chỗ tông gãy lan can cầu, lao xuống sông Đồng Nai](https://vnexpress.net/oto-4-cho-tong-gay-lan-can-cau-lao-xuong-song-dong-nai-4827897.html) - 12:47 14/12/2024
 - 🔥 [Khánh thành nhà tưởng niệm đại tướng Võ Nguyên Giáp](https://vnexpress.net/khanh-thanh-nha-tuong-niem-dai-tuong-vo-nguyen-giap-4827830.html) - 09:02 14/12/2024
