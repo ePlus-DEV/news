@@ -5,10 +5,10 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Thủ môn Nguyễn Filip thắng trận đầu cùng Việt Nam](https://vnexpress.net/thu-mon-nguyen-filip-thang-tran-dau-cung-viet-nam-4828143.html) - 15:23 15/12/2024
-- 🦩 [HLV Kim Sang-sik họp báo khi đả bại Indonesia](https://vnexpress.net/hlv-kim-sang-sik-hop-bao-khi-da-bai-indonesia-4828139.html) - 14:59 15/12/2024
+- 🦩 [HLV Kim Sang-sik: &#39;Ý chí chiến thắng của Việt Nam quyết định trận đấu&#39;](https://vnexpress.net/hlv-kim-sang-sik-y-chi-chien-thang-cua-viet-nam-quyet-dinh-tran-dau-4828139.html) - 14:59 15/12/2024
 - 🧰 [Shin Tae-yong: &#39;Indonesia thua Việt Nam vì chênh lệch trình độ&#39;](https://vnexpress.net/shin-tae-yong-indonesia-thua-viet-nam-vi-chenh-lech-trinh-do-4828137.html) - 14:56 15/12/2024
 - 🤗 [Lào rơi chiến thắng trước Philippines](https://vnexpress.net/lao-roi-chien-thang-truoc-philippines-4828119.html) - 13:03 15/12/2024
-- 🥳 [Quang Hải giúp Việt Nam hạ Indonesia](https://vnexpress.net/quang-hai-giup-viet-nam-ha-indonesia-4828110.html) - 11:52 15/12/2024
+- 🥳 [Quang Hải giúp Việt Nam hạ Indonesia](https://vnexpress.net/quang-hai-giup-viet-nam-ha-indonesia-4828110-tong-thuat.html) - 11:52 15/12/2024
 - 🦣 [HLV Thái Lan bỏ vào phòng thay đồ vì giận Madam Pang](https://vnexpress.net/hlv-thai-lan-bo-vao-phong-thay-do-vi-gian-madam-pang-4828091.html) - 10:25 15/12/2024
 - 🌜 [Việt Nam – Indonesia: Cơ hội trút giận ở ASEAN Cup 2024](https://vnexpress.net/viet-nam-indonesia-co-hoi-trut-gian-o-asean-cup-2024-4828055.html) - 07:00 15/12/2024
 - 🫶 [Thủ môn Martinez lại cứu thua khó tin ở Ngoại hạng Anh](https://vnexpress.net/thu-mon-martinez-lai-cuu-thua-kho-tin-o-ngoai-hang-anh-4828004.html) - 06:57 15/12/2024
