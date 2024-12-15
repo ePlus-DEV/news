@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- dantri-xa-hoi:START -->
 - 🫣 [Cá voi nặng hơn 100kg chết, dạt vào bờ biển Bình Định](https://dantri.com.vn/xa-hoi/ca-voi-nang-hon-100kg-chet-dat-vao-bo-bien-binh-dinh-20241215162404466.htm) - 10:08 15/12/2024
-- 💼 [Cô gái bị người yêu cũ lái ô tô tông ở Bà Rịa - Vũng Tàu](https://dantri.com.vn/xa-hoi/co-gai-bi-nguoi-yeu-cu-lai-o-to-tong-o-ba-ria-vung-tau-20241215160442826.htm) - 09:14 15/12/2024
+- 💼 [Cô gái bị người yêu cũ lái ô tô tông trúng tại Bà Rịa - Vũng Tàu](https://dantri.com.vn/xa-hoi/co-gai-bi-nguoi-yeu-cu-lai-o-to-tong-trung-tai-ba-ria-vung-tau-20241215160442826.htm) - 09:14 15/12/2024
 - 🎊 [Đoàn xe tải trọng lớn đo sức chịu lực cầu vượt biển từng dài nhất Việt Nam](https://dantri.com.vn/xa-hoi/doan-xe-tai-trong-lon-do-suc-chiu-luc-cau-vuot-bien-tung-dai-nhat-viet-nam-20241215152334358.htm) - 08:42 15/12/2024
 - 🙉 [Hàng chục ô tô cùng nhiều người mắc kẹt giữa 3 điểm sạt lở ở đèo Khánh Lê](https://dantri.com.vn/xa-hoi/hang-chuc-o-to-cung-nhieu-nguoi-mac-ket-giua-3-diem-sat-lo-o-deo-khanh-le-20241215151507942.htm) - 08:38 15/12/2024
 - 🕯 [Hai xe khách tông nhau trên quốc lộ 14, một tài xế tử vong](https://dantri.com.vn/xa-hoi/hai-xe-khach-tong-nhau-tren-quoc-lo-14-mot-tai-xe-tu-vong-20241215151902531.htm) - 08:34 15/12/2024
