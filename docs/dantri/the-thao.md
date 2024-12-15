@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Quang Hải: &quot;Tôi dành tặng bàn thắng cho vợ con mình&quot;](https://dantri.com.vn/the-thao/quang-hai-toi-danh-tang-ban-thang-cho-vo-con-minh-20241215222355479.htm) - 15:23 15/12/2024
-- 💯 [HLV Kim Sang Sik nói gì sau chiến thắng trước Indonesia?](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-noi-gi-sau-chien-thang-truoc-indonesia-20241215220842743.htm) - 15:08 15/12/2024
+- 💯 [HLV Kim Sang Sik tiếc vì tuyển Việt Nam không thắng đậm Indonesia](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-tiec-vi-tuyen-viet-nam-khong-thang-dam-indonesia-20241215220842743.htm) - 15:08 15/12/2024
 - ⛽️ [HLV Shin Tae Yong: &quot;Cầu thủ trẻ Indonesia đã cố gắng hết sức&quot;](https://dantri.com.vn/the-thao/hlv-shin-tae-yong-cau-thu-tre-indonesia-da-co-gang-het-suc-20241215220519375.htm) - 15:05 15/12/2024
 - 💃 [Cổ động viên đốt pháo sáng cổ vũ đội tuyển Việt Nam đấu Indonesia](https://dantri.com.vn/the-thao/co-dong-vien-dot-phao-sang-co-vu-doi-tuyen-viet-nam-dau-indonesia-20241215185940007.htm) - 12:06 15/12/2024
 - 🌈 [Hòa Philippines, đội tuyển Lào nuôi hy vọng vào bán kết](https://dantri.com.vn/the-thao/hoa-philippines-doi-tuyen-lao-nuoi-hy-vong-vao-ban-ket-20241215172149244.htm) - 10:22 15/12/2024
