@@ -5,7 +5,7 @@ sidebar_position: 17
 
 <!-- dantri-the-gioi:START -->
 - 🌋 [&quot;Lá bài&quot; nghìn tỷ USD Ukraine để dành nhằm thuyết phục ông Donald Trump](https://dantri.com.vn/the-gioi/la-bai-nghin-ty-usd-ukraine-de-danh-nham-thuyet-phuc-ong-donald-trump-20241216150517716.htm) - 08:13 16/12/2024
-- 🎬 [Ông Trump xem xét đề xuất ngừng bắn Nga, Ukraine vào Giáng sinh](https://dantri.com.vn/the-gioi/ong-trump-xem-xet-de-xuat-ngung-ban-nga-ukraine-vao-giang-sinh-20241216144917393.htm) - 07:56 16/12/2024
+- 🎬 [Ông Trump xem xét đề xuất ngừng bắn giữa Nga, Ukraine vào Giáng sinh](https://dantri.com.vn/the-gioi/ong-trump-xem-xet-de-xuat-ngung-ban-giua-nga-ukraine-vao-giang-sinh-20241216144917393.htm) - 07:56 16/12/2024
 - 🧰 [ISW chỉ ra điểm yếu trong phối hợp tác chiến giữa Nga và Triều Tiên ở Kursk](https://dantri.com.vn/the-gioi/isw-chi-ra-diem-yeu-trong-phoi-hop-tac-chien-giua-nga-va-trieu-tien-o-kursk-20241216130907534.htm) - 06:40 16/12/2024
 - 🌋 [Tòa án khởi động quy trình xét xử luận tội Tổng thống Hàn Quốc](https://dantri.com.vn/the-gioi/toa-an-khoi-dong-quy-trinh-xet-xu-luan-toi-tong-thong-han-quoc-20241216133213835.htm) - 06:35 16/12/2024
 - 🗽 [Chiến sự Ukraine 16/12: Kiev phản công, mở đường rút lui ở Kurakhove](https://dantri.com.vn/the-gioi/chien-su-ukraine-1612-kiev-phan-cong-mo-duong-rut-lui-o-kurakhove-20241216124204974.htm) - 05:52 16/12/2024
