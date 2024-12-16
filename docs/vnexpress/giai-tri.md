@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Phạm Băng Băng khiêu vũ với tỷ phú ở tiệc Giáng sinh](https://vnexpress.net/pham-bang-bang-khieu-vu-voi-ty-phu-o-tiec-giang-sinh-vnepre-4828265.html) - 05:12 16/12/2024
 - 💫 [Hồ Ngọc Hà, Chi Pu sẽ biểu diễn ở &#39;Ngôi sao của năm 2024&#39;](https://vnexpress.net/ho-ngoc-ha-chi-pu-se-bieu-dien-o-ngoi-sao-cua-nam-2024-4828237.html) - 04:21 16/12/2024
-- 🌮 [Bức Tường cùng khán giả hát tưởng nhớ Trần Lập](https://vnexpress.net/buc-tuong-cung-khan-gia-hat-tuong-nho-tran-lap-4828245.html) - 03:58 16/12/2024
+- 🌮 [Bức Tường cùng khán giả tưởng nhớ Trần Lập](https://vnexpress.net/buc-tuong-cung-khan-gia-tuong-nho-tran-lap-4828245.html) - 03:58 16/12/2024
 - 🧠 [Nét đáng yêu của con gái Kha Ly](https://vnexpress.net/net-dang-yeu-cua-con-gai-kha-ly-vnepre-4825931.html) - 03:04 16/12/2024
 - 👨‍🏫 [Tuấn Hưng và dàn &#39;anh trai&#39; hát miễn phí từ ban công](https://vnexpress.net/tuan-hung-va-dan-anh-trai-hat-mien-phi-tu-ban-cong-4828227.html) - 03:03 16/12/2024
 - ⚗️ [Trương Bá Chi xuất hiện sau tin &#39;sinh con thứ tư&#39;](https://vnexpress.net/truong-ba-chi-xuat-hien-sau-tin-sinh-con-thu-tu-vnepre-4828207.html) - 02:41 16/12/2024
