@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Ba cách quản lý nếu không cấm dạy thêm](https://vnexpress.net/ba-cach-quan-ly-neu-khong-cam-day-them-4827016.html) - 22:59 15/12/2024
+- 🤓 [Ba cách quản lý việc dạy thêm](https://vnexpress.net/ba-cach-quan-ly-viec-day-them-4827016.html) - 22:59 15/12/2024
 - 🦆 [Học văn bằng 2 có thể vào công chức không?](https://vnexpress.net/hoc-van-bang-2-co-the-vao-cong-chuc-khong-4825372.html) - 17:00 15/12/2024
 - 🦩 [&#39;Chủ tịch hội đồng trường quan trọng hơn hiệu trưởng&#39;](https://vnexpress.net/chu-tich-hoi-dong-truong-quan-trong-hon-hieu-truong-4827905.html) - 14:03 15/12/2024
 - 🌮 [Cù lao nào là khu dự trữ sinh quyển thế giới?](https://vnexpress.net/cu-lao-nao-la-khu-du-tru-sinh-quyen-the-gioi-4828101.html) - 13:06 15/12/2024
