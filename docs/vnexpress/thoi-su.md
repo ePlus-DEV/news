@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Bốn người chết do mưa lũ ở Quảng Nam](https://vnexpress.net/bon-nguoi-chet-do-mua-lu-o-quang-nam-4828380.html) - 08:57 16/12/2024
 - 🤓 [Hàng nghìn khối đất đá vùi lấp đường Nha Trang lên Đà Lạt](https://vnexpress.net/hang-nghin-khoi-dat-da-vui-lap-duong-nha-trang-len-da-lat-vnepre-4828409.html) - 08:02 16/12/2024
 - ⚗️ [Khen thưởng người cứu ba nữ sinh đuối nước](https://vnexpress.net/khen-thuong-nguoi-cuu-ba-nu-sinh-duoi-nuoc-4828356.html) - 07:51 16/12/2024
-- 🌊 [Bí thư Tỉnh ủy Vĩnh Phúc: Chọn cán bộ tâm huyết, uy tín sau tinh gọn](https://vnexpress.net/bi-thu-tinh-uy-vinh-phuc-chon-can-bo-tam-huyet-uy-tin-sau-tinh-gon-4828307.html) - 04:51 16/12/2024
+- 🌊 [&#39;Tránh chọn Lý Thông, bỏ qua Thạch Sanh khi sắp xếp bộ máy&#39;](https://vnexpress.net/tranh-chon-ly-thong-bo-qua-thach-sanh-khi-sap-xep-bo-may-4828307.html) - 04:51 16/12/2024
 - 🎓 [Phí dịch vụ thoát nước ở TP HCM tăng 5% từ 1/1/2025](https://vnexpress.net/phi-dich-vu-thoat-nuoc-o-tp-hcm-tang-5-tu-1-1-2025-4828310.html) - 04:19 16/12/2024
 - 🔥 [Va chạm với xe đầu kéo, hai mẹ con tử vong](https://vnexpress.net/va-cham-voi-xe-dau-keo-hai-me-con-tu-vong-4828291.html) - 03:56 16/12/2024
 - 🦏 [Xóm đạo ở TP HCM trang hoàng đón Giáng sinh](https://vnexpress.net/xom-dao-o-tp-hcm-trang-hoang-don-giang-sinh-4828224.html) - 03:38 16/12/2024
