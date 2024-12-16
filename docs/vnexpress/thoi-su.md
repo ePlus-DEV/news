@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Thưởng Tết khởi sắc](https://vnexpress.net/thuong-tet-khoi-sac-4827934.html) - 22:00 15/12/2024
-- 🤓 [Hồ thuỷ lợi xả lũ, nhiều nơi ở Nha Trang chìm trong nước](https://vnexpress.net/ho-thuy-loi-xa-lu-nhieu-noi-o-nha-trang-chim-trong-nuoc-4828158.html) - 18:00 15/12/2024
+- 🤓 [Hồ thủy lợi xả lũ, nhiều nơi ở Nha Trang ngập sâu](https://vnexpress.net/ho-thuy-loi-xa-lu-nhieu-noi-o-nha-trang-ngap-sau-4828158.html) - 18:00 15/12/2024
 - ⚗️ [Xe máy trên 5 năm sẽ phải kiểm định khí thải](https://vnexpress.net/xe-may-tren-5-nam-se-phai-kiem-dinh-khi-thai-4828123.html) - 17:00 15/12/2024
 - 🌊 [Máy bay cường kích A-10 và C-130 của Mỹ tại Gia Lâm](https://vnexpress.net/may-bay-cuong-kich-a-10-va-c-130-cua-my-tai-gia-lam-4828115.html) - 17:00 15/12/2024
 - 🎓 [Ôtô tông liên hoàn 3 xe máy, một người văng xuống sông](https://vnexpress.net/oto-tong-lien-hoan-3-xe-may-mot-nguoi-vang-xuong-song-4828146.html) - 15:54 15/12/2024
