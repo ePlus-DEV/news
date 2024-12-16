@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Xác lập đường hoa dài nhất Việt Nam tại hội hoa Chợ Lách](https://vnexpress.net/xac-lap-duong-hoa-dai-nhat-viet-nam-tai-hoi-hoa-cho-lach-4828446.html) - 09:22 16/12/2024
+- 💂 [Xác lập đường hoa dài nhất Việt Nam](https://vnexpress.net/xac-lap-duong-hoa-dai-nhat-viet-nam-4828446.html) - 09:22 16/12/2024
 - 🪄 [Ấn Độ trở thành &#39;Trung Quốc thứ hai&#39; của ngành du lịch](https://vnexpress.net/an-do-tro-thanh-trung-quoc-thu-hai-cua-nganh-du-lich-4828318.html) - 07:57 16/12/2024
 - 🦅 [Ác mộng chợ Giáng sinh ở Anh](https://vnexpress.net/ac-mong-cho-giang-sinh-o-anh-4827875.html) - 04:49 16/12/2024
 - 🕴 [6 nhà thờ nên ghé thăm dịp Giáng sinh ở TP HCM](https://vnexpress.net/6-nha-tho-nen-ghe-tham-dip-giang-sinh-o-tp-hcm-4828269.html) - 04:08 16/12/2024
