@@ -57,9 +57,4 @@ sidebar_position: 9
 - 👍 [Quán nướng cháy, nhiều thực khách tháo chạy](https://vnexpress.net/quan-nuong-chay-nhieu-thuc-khach-thao-chay-4828566.html) - 12:54 16/12/2024
 - 🔥 [Học thạc sĩ trái ngành có thi viên chức giáo viên được không?](https://vnexpress.net/hoc-thac-si-trai-nganh-co-thi-vien-chuc-giao-vien-duoc-khong-4828573.html) - 12:51 16/12/2024
 - 💄 [Tổn thương mắt - biến chứng của đái tháo đường, tăng huyết áp](https://vnexpress.net/ton-thuong-mat-bien-chung-cua-dai-thao-duong-tang-huyet-ap-4828564.html) - 12:45 16/12/2024
-- 🤡 [VnExpress đạt xuất sắc về mức độ trưởng thành chuyển đổi số báo chí](https://vnexpress.net/vnexpress-dat-xuat-sac-ve-muc-do-truong-thanh-chuyen-doi-so-bao-chi-4828560.html) - 12:36 16/12/2024
-- ⛽️ [Dân quân người Kurd đề xuất ngừng mọi giao tranh ở Syria](https://vnexpress.net/dan-quan-nguoi-kurd-de-xuat-ngung-moi-giao-tranh-o-syria-4828556.html) - 12:35 16/12/2024
-- 🚀 [Tài xế đánh người tới tấp trước Bệnh viện Từ Dũ bị bắt](https://vnexpress.net/tai-xe-danh-nguoi-toi-tap-truoc-benh-vien-tu-du-bi-bat-4828563.html) - 12:20 16/12/2024
-- 🌜 [Trấn Thành: &#39;Tôi không độc chiếm thị trường phim Tết&#39;](https://vnexpress.net/tran-thanh-toi-khong-doc-chiem-thi-truong-phim-tet-4828502.html) - 12:14 16/12/2024
-- 🌜 [Nỗi sợ bao trùm Congo giữa dịch bệnh lạ](https://vnexpress.net/noi-so-bao-trum-congo-giua-dich-benh-la-4828492.html) - 12:09 16/12/2024
-- 🦩 [Một công ty ngừng tuyển dụng vì &#39;AI làm được mọi việc&#39;](https://vnexpress.net/mot-cong-ty-ngung-tuyen-dung-vi-ai-lam-duoc-moi-viec-4828304.html) - 12:00 16/12/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🤡 [VnExpress đạt xuất sắc về mức độ trưởng thành chuyển đổi số báo chí](https://vnexpress.net/vnexpress-dat-xuat-sac-ve-muc-do-truong-thanh-chuyen-doi-so-bao-chi-4828560.html) - 12:36 16/12/2024<!-- vnexpress-tin-moi-nhat:END -->
