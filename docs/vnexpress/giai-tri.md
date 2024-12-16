@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Trương Quỳnh Anh: &#39;Tôi liều khi bị gãy xương sườn vẫn nhảy&#39;](https://vnexpress.net/truong-quynh-anh-toi-lieu-khi-bi-gay-xuong-suon-van-nhay-4828577.html) - 14:55 16/12/2024
-- 💫 [4 ứng viên danh hiệu &#39;Anh trai tài năng&#39; ở Ngôi sao của năm 2024](https://vnexpress.net/4-ung-vien-danh-hieu-anh-trai-tai-nang-o-ngoi-sao-cua-nam-2024-4828432.html) - 14:00 16/12/2024
+- 💫 [3 ứng viên danh hiệu &#39;Anh trai tài năng&#39; ở Ngôi sao của năm 2024](https://vnexpress.net/3-ung-vien-danh-hieu-anh-trai-tai-nang-o-ngoi-sao-cua-nam-2024-4828432.html) - 14:00 16/12/2024
 - 🌮 [Trấn Thành: &#39;Tôi không độc chiếm thị trường phim Tết&#39;](https://vnexpress.net/tran-thanh-toi-khong-doc-chiem-thi-truong-phim-tet-4828502.html) - 12:14 16/12/2024
 - 🧠 [Hùng Huỳnh ra MV sau &#39;Anh trai say hi&#39;](https://vnexpress.net/hung-huynh-ra-mv-sau-anh-trai-say-hi-4828406.html) - 09:17 16/12/2024
 - 👨‍🏫 [Minh Tú thử trang phục cho &#39;Ngôi sao của năm&#39;](https://vnexpress.net/minh-tu-thu-trang-phuc-cho-ngoi-sao-cua-nam-4828263.html) - 07:36 16/12/2024
