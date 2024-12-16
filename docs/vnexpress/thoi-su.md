@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Bốn người chết do mưa lũ ở Quảng Nam](https://vnexpress.net/bon-nguoi-chet-do-mua-lu-o-quang-nam-4828380.html) - 08:57 16/12/2024
-- 🤓 [Hàng nghìn khối đất đá vùi lấp đường Nha Trang lên Đà Lạt](https://vnexpress.net/hang-nghin-khoi-dat-da-vui-lap-duong-nha-trang-len-da-lat-4828409.html) - 08:02 16/12/2024
+- 🤓 [Hàng nghìn khối đất đá vùi lấp đường Nha Trang lên Đà Lạt](https://vnexpress.net/hang-nghin-khoi-dat-da-vui-lap-duong-nha-trang-len-da-lat-vnepre-4828409.html) - 08:02 16/12/2024
 - ⚗️ [Khen thưởng người cứu ba nữ sinh đuối nước](https://vnexpress.net/khen-thuong-nguoi-cuu-ba-nu-sinh-duoi-nuoc-4828356.html) - 07:51 16/12/2024
 - 🌊 [Bí thư Tỉnh ủy Vĩnh Phúc: Chọn cán bộ tâm huyết, uy tín sau tinh gọn](https://vnexpress.net/bi-thu-tinh-uy-vinh-phuc-chon-can-bo-tam-huyet-uy-tin-sau-tinh-gon-4828307.html) - 04:51 16/12/2024
 - 🎓 [Phí dịch vụ thoát nước ở TP HCM tăng 5% từ 1/1/2025](https://vnexpress.net/phi-dich-vu-thoat-nuoc-o-tp-hcm-tang-5-tu-1-1-2025-4828310.html) - 04:19 16/12/2024
