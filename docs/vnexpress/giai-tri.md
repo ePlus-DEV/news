@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Đạo diễn Công tử Bạc Liêu: &#39;Tôi không tô hồng nhân vật&#39;](https://vnexpress.net/dao-dien-cong-tu-bac-lieu-toi-khong-to-hong-nhan-vat-4826168.html) - 17:00 15/12/2024
+- 🌏 [Đạo diễn phim Công tử Bạc Liêu: &#39;Tôi không tô hồng nhân vật&#39;](https://vnexpress.net/dao-dien-phim-cong-tu-bac-lieu-toi-khong-to-hong-nhan-vat-4826168.html) - 17:00 15/12/2024
 - 💫 [Giới trẻ Việt diện đồ ngắn xuống phố mùa đông](https://vnexpress.net/gioi-tre-viet-dien-do-ngan-xuong-pho-mua-dong-4828108.html) - 14:00 15/12/2024
 - 🌮 [10 phim doanh thu cao nhất năm 2024](https://vnexpress.net/10-phim-doanh-thu-cao-nhat-nam-2024-4828017.html) - 12:00 15/12/2024
 - 🧠 [Mốt trang điểm băng giá bùng nổ cuối năm](https://vnexpress.net/mot-trang-diem-bang-gia-bung-no-cuoi-nam-4828081.html) - 10:02 15/12/2024
