@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Bốn người chết do mưa lũ ở Quảng Nam](https://vnexpress.net/bon-nguoi-chet-do-mua-lu-o-quang-nam-4828380.html) - 08:57 16/12/2024
-- 🤓 [Hàng nghìn khối đất đá vùi lấp đường Nha Trang lên Đà Lạt](https://vnexpress.net/hang-nghin-khoi-dat-da-vui-lap-duong-nha-trang-len-da-lat-vnepre-4828409.html) - 08:02 16/12/2024
+- 🤓 [Hàng nghìn khối đất đá vùi lấp đường Nha Trang lên Đà Lạt](https://vnexpress.net/hang-nghin-khoi-dat-da-vui-lap-duong-nha-trang-len-da-lat-4828409.html) - 08:02 16/12/2024
 - ⚗️ [Khen thưởng người cứu ba nữ sinh đuối nước](https://vnexpress.net/khen-thuong-nguoi-cuu-ba-nu-sinh-duoi-nuoc-4828356.html) - 07:51 16/12/2024
 - 🌊 [Bí thư Tỉnh ủy Vĩnh Phúc: Chọn cán bộ tâm huyết, uy tín sau tinh gọn](https://vnexpress.net/bi-thu-tinh-uy-vinh-phuc-chon-can-bo-tam-huyet-uy-tin-sau-tinh-gon-4828307.html) - 04:51 16/12/2024
 - 🎓 [Phí dịch vụ thoát nước ở TP HCM tăng 5% từ 1/1/2025](https://vnexpress.net/phi-dich-vu-thoat-nuoc-o-tp-hcm-tang-5-tu-1-1-2025-4828310.html) - 04:19 16/12/2024
@@ -27,7 +27,7 @@ sidebar_position: 1
 - 🐻 [Quốc Tử Giám dưới triều Nguyễn trước lúc trùng tu](https://vnexpress.net/quoc-tu-giam-duoi-trieu-nguyen-truoc-luc-trung-tu-4827769.html) - 06:27 15/12/2024
 - 👀 [185.000 người ở TP HCM thuê trọ diện tích dưới 4 m2](https://vnexpress.net/185-000-nguoi-o-tp-hcm-thue-tro-dien-tich-duoi-4-m2-4828044.html) - 06:13 15/12/2024
 - 🤔 [Các tỉnh thành bắt đầu công bố lương, thưởng Tết](https://vnexpress.net/cac-tinh-thanh-bat-dau-cong-bo-luong-thuong-tet-4828011.html) - 06:04 15/12/2024
-- 🕯 [&#39;Con nuôi đồn biên phòng&#39; giành giải hành động vì cộng đồng](https://vnexpress.net/con-nuoi-don-bien-phong-gianh-giai-hanh-dong-vi-cong-dong-vnepre-4827936.html) - 05:36 15/12/2024
+- 🕯 [&#39;Con nuôi đồn biên phòng&#39; giành giải hành động vì cộng đồng](https://vnexpress.net/con-nuoi-don-bien-phong-gianh-giai-hanh-dong-vi-cong-dong-4827936.html) - 05:36 15/12/2024
 - 😺 [Ba nữ sinh bị nước lũ cuốn trôi 100 m được cứu sống](https://vnexpress.net/ba-nu-sinh-bi-nuoc-lu-cuon-troi-100-m-duoc-cuu-song-4827991.html) - 05:25 15/12/2024
 - 🦆 [Không khí lạnh suy yếu, miền Bắc tăng nhiệt](https://vnexpress.net/khong-khi-lanh-suy-yeu-mien-bac-tang-nhiet-4828014.html) - 04:39 15/12/2024
 - 🧰 [Sạt lở đường nối Nha Trang - Đà Lạt chia cắt giao thông](https://vnexpress.net/sat-lo-duong-noi-nha-trang-da-lat-chia-cat-giao-thong-4828009.html) - 03:42 15/12/2024
@@ -45,7 +45,7 @@ sidebar_position: 1
 - 🦏 [Khởi công cao tốc nối TP HCM - Bình Dương - Bình Phước](https://vnexpress.net/khoi-cong-cao-toc-noi-tp-hcm-binh-duong-binh-phuoc-4827692.html) - 04:22 14/12/2024
 - 🎊 [Lốc xoáy làm hư hỏng 64 căn nhà ở Sóc Trăng](https://vnexpress.net/loc-xoay-lam-hu-hong-64-can-nha-o-soc-trang-4827725.html) - 02:44 14/12/2024
 - 🫶 [Cấm ôtô 60 ngày để sửa cầu trên quốc lộ 1](https://vnexpress.net/cam-oto-60-ngay-de-sua-cau-tren-quoc-lo-1-4827558.html) - 02:38 14/12/2024
-- 🤔 [Hiện trạng thành cổ Biên Hòa bên sông Đồng Nai](https://vnexpress.net/hien-trang-thanh-co-bien-hoa-ben-song-dong-nai-vnepre-4826174.html) - 22:00 13/12/2024
+- 🤔 [Hiện trạng thành cổ Biên Hòa bên sông Đồng Nai](https://vnexpress.net/hien-trang-thanh-co-bien-hoa-ben-song-dong-nai-4826174.html) - 22:00 13/12/2024
 - 🤠 [Đà Nẵng đề xuất lấn biển 300 ha làm khu thương mại tự do](https://vnexpress.net/da-nang-de-xuat-lan-bien-300-ha-lam-khu-thuong-mai-tu-do-4827618.html) - 14:21 13/12/2024
 - 🌜 [Tìm thấy 4 hài cốt liệt sĩ trong vườn chuối](https://vnexpress.net/tim-thay-4-hai-cot-liet-si-trong-vuon-chuoi-4827525.html) - 11:30 13/12/2024
 - 🕯 [Hà Nội dự kiến giảm 5 sở, Vĩnh Phúc giảm 6 sở](https://vnexpress.net/ha-noi-du-kien-giam-5-so-vinh-phuc-giam-6-so-4827571.html) - 10:57 13/12/2024
