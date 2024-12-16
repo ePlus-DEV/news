@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [TP HCM đề xuất miễn học phí cho toàn bộ học sinh](https://vnexpress.net/tp-hcm-de-xuat-mien-hoc-phi-cho-toan-bo-hoc-sinh-4828404.html) - 07:51 16/12/2024
-- 🦆 [Quyết tâm chinh phục 8.5 IELTS của nữ sinh Sơn Tây](https://vnexpress.net/quyet-tam-chinh-phuc-8-5-ielts-cua-nu-sinh-son-tay-vnepre-4826355.html) - 07:24 16/12/2024
+- 🦆 [Quyết tâm chinh phục 8.5 IELTS của nữ sinh Sơn Tây](https://vnexpress.net/quyet-tam-chinh-phuc-8-5-ielts-cua-nu-sinh-son-tay-4826355.html) - 07:24 16/12/2024
 - 🦩 [6 nữ sinh đánh bạn gãy đốt sống cổ bị khởi tố](https://vnexpress.net/6-nu-sinh-danh-ban-gay-dot-song-co-bi-khoi-to-4828303.html) - 03:46 16/12/2024
 - 🌮 [Ba cách quản lý việc dạy thêm](https://vnexpress.net/ba-cach-quan-ly-viec-day-them-4827016.html) - 22:59 15/12/2024
 - 🔭 [Học văn bằng 2 có thể vào công chức không?](https://vnexpress.net/hoc-van-bang-2-co-the-vao-cong-chuc-khong-4825372.html) - 17:00 15/12/2024
@@ -14,13 +14,13 @@ sidebar_position: 7
 - 🐲 [Những trường tư ở Hà Nội cho học sinh nghỉ đông](https://vnexpress.net/nhung-truong-tu-o-ha-noi-cho-hoc-sinh-nghi-dong-4824172.html) - 07:10 15/12/2024
 - 🦒 [Học ngành Khí tượng khó kiếm việc, lương thấp?](https://vnexpress.net/hoc-nganh-khi-tuong-kho-kiem-viec-luong-thap-4827202.html) - 06:33 15/12/2024
 - 🦆 [Giáo viên Mỹ bỏ dạy vì trò ngày càng hư](https://vnexpress.net/giao-vien-my-bo-day-vi-tro-ngay-cang-hu-4824727.html) - 01:53 15/12/2024
-- 🧰 [Nữ sinh Bến Tre là thủ khoa đầu ra Đại học Quốc tế](https://vnexpress.net/nu-sinh-ben-tre-la-thu-khoa-dau-ra-dai-hoc-quoc-te-vnepre-4827968.html) - 00:57 15/12/2024
+- 🧰 [Nữ sinh Bến Tre là thủ khoa đầu ra Đại học Quốc tế](https://vnexpress.net/nu-sinh-ben-tre-la-thu-khoa-dau-ra-dai-hoc-quoc-te-4827968.html) - 00:57 15/12/2024
 - 🐘 [Nam sinh 17 tuổi gây sốt sau trượt cấp ba](https://vnexpress.net/nam-sinh-17-tuoi-gay-sot-sau-truot-cap-ba-4827772.html) - 17:00 14/12/2024
 - 🤓 [Đại danh y Tuệ Tĩnh quê ở tỉnh nào?](https://vnexpress.net/dai-danh-y-tue-tinh-que-o-tinh-nao-4827852.html) - 12:00 14/12/2024
 - 🧰 [Cử nhân Trung Quốc bớt chuộng thi cao học](https://vnexpress.net/cu-nhan-trung-quoc-bot-chuong-thi-cao-hoc-4827866.html) - 09:06 14/12/2024
 - 🧑‍💻 [Trường Đại học FPT bổ sung thêm phương thức tuyển sinh năm 2025](https://vnexpress.net/truong-dai-hoc-fpt-bo-sung-them-phuong-thuc-tuyen-sinh-nam-2025-4827568.html) - 07:30 14/12/2024
 - 🫶 [9 điểm Toán, Lý, Hóa có học được ngành Điện ở Bách khoa?](https://vnexpress.net/9-diem-toan-ly-hoa-co-hoc-duoc-nganh-dien-o-bach-khoa-4824029.html) - 02:40 14/12/2024
-- 🪜 [Nam sinh chuyên Lý dẫn đầu giải bạc Olympic Khoa học trẻ quốc tế](https://vnexpress.net/nam-sinh-chuyen-ly-dan-dau-giai-bac-olympic-khoa-hoc-tre-quoc-te-vnepre-4827663.html) - 00:32 14/12/2024
+- 🪜 [Nam sinh chuyên Lý dẫn đầu giải bạc Olympic Khoa học trẻ quốc tế](https://vnexpress.net/nam-sinh-chuyen-ly-dan-dau-giai-bac-olympic-khoa-hoc-tre-quoc-te-4827663.html) - 00:32 14/12/2024
 - 🎊 [Sở Giáo dục TP HCM yêu cầu tạo thuận lợi cho học sinh ngoại tỉnh nghỉ Tết](https://vnexpress.net/so-giao-duc-tp-hcm-yeu-cau-tao-thuan-loi-cho-hoc-sinh-ngoai-tinh-nghi-tet-4827659.html) - 23:47 13/12/2024
 - 🧐 [Tiền polymer đầu tiên ở Việt Nam có mệnh giá nào?](https://vnexpress.net/tien-polymer-dau-tien-o-viet-nam-co-menh-gia-nao-4827484.html) - 13:00 13/12/2024
 - 🌈 [Phụ huynh bàng hoàng khi trường quốc tế bị cưỡng chế đất, dừng hoạt động](https://vnexpress.net/phu-huynh-bang-hoang-khi-truong-quoc-te-bi-cuong-che-dat-dung-hoat-dong-4827536.html) - 11:59 13/12/2024
