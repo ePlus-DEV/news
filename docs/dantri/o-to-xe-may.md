@@ -6,7 +6,7 @@ sidebar_position: 24
 <!-- dantri-o-to-xe-may:START -->
 - 🤡 [Kia tăng hàng loạt ưu đãi trong tháng 12, cao nhất lên đến 110 triệu đồng](https://dantri.com.vn/o-to-xe-may/kia-tang-hang-loat-uu-dai-trong-thang-12-cao-nhat-len-den-110-trieu-dong-20241216162839645.htm) - 01:00 17/12/2024
 - 🧑‍💻 [Người phụ nữ bị xe container chèn ngã vì một kiểu đi sang đường nguy hiểm](https://dantri.com.vn/o-to-xe-may/nguoi-phu-nu-bi-xe-container-chen-nga-vi-mot-kieu-di-sang-duong-nguy-hiem-20241216233220673.htm) - 01:00 17/12/2024
-- 🧑‍💻 [Kia Seltos thêm bản 1.5L tăng áp để &quot;sửa sai&quot;, đắt hơn Xforce 20 triệu đồng](https://dantri.com.vn/o-to-xe-may/kia-seltos-them-ban-15l-tang-ap-de-sua-sai-dat-hon-xforce-20-trieu-dong-20241216230101522.htm) - 23:00 16/12/2024
+- 🧑‍💻 [Kia Seltos thêm bản 1.5L tăng áp giá 659 triệu đồng](https://dantri.com.vn/o-to-xe-may/kia-seltos-them-ban-15l-tang-ap-gia-659-trieu-dong-20241216230101522.htm) - 23:00 16/12/2024
 - 🎓 [92% chủ xe điện không muốn quay về với ô tô động cơ đốt trong truyền thống](https://dantri.com.vn/o-to-xe-may/92-chu-xe-dien-khong-muon-quay-ve-voi-o-to-dong-co-dot-trong-truyen-thong-20241216183752322.htm) - 17:00 16/12/2024
 - 🌊 [Không có xe để bán, Toyota Camry bị Mazda6 vượt qua trong tháng 11](https://dantri.com.vn/o-to-xe-may/khong-co-xe-de-ban-toyota-camry-bi-mazda6-vuot-qua-trong-thang-11-20241216115711754.htm) - 11:43 16/12/2024
 - 🥷 [Xe tải phóng mất kiểm soát, đâm văng hai người đi xe đạp](https://dantri.com.vn/o-to-xe-may/xe-tai-phong-mat-kiem-soat-dam-vang-hai-nguoi-di-xe-dap-20241216153025130.htm) - 09:05 16/12/2024
