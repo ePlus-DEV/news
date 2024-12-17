@@ -59,6 +59,4 @@ sidebar_position: 9
 - 💄 [Mắc tiểu đường thai kỳ mà không biết](https://vnexpress.net/mac-tieu-duong-thai-ky-ma-khong-biet-4828493.html) - 03:00 17/12/2024
 - 🤡 [Điểm cộng của thực phẩm tiện lợi Hoa Doanh Food](https://vnexpress.net/diem-cong-cua-thuc-pham-tien-loi-hoa-doanh-food-4828402.html) - 03:00 17/12/2024
 - ⛽️ [Syria muốn Nga xem xét lại hiện diện quân sự ở nước này](https://vnexpress.net/syria-muon-nga-xem-xet-lai-hien-dien-quan-su-o-nuoc-nay-4828638.html) - 02:59 17/12/2024
-- 🚀 [Làm việc cầm chừng chờ thưởng Tết](https://vnexpress.net/lam-viec-cam-chung-cho-thuong-tet-4828595.html) - 02:57 17/12/2024
-- 🌜 [TP HCM xuống 20 độ C dịp Giáng sinh](https://vnexpress.net/tp-hcm-xuong-20-do-c-dip-giang-sinh-4828719.html) - 02:57 17/12/2024
-- 🌜 [HLV Kim Sang-sik muốn sớm đoạt vé bán kết ASEAN Cup](https://vnexpress.net/hlv-kim-sang-sik-muon-som-doat-ve-ban-ket-asean-cup-4828724.html) - 02:53 17/12/2024<!-- vnexpress-tin-moi-nhat:END -->
+- 🚀 [Làm việc cầm chừng chờ thưởng Tết](https://vnexpress.net/lam-viec-cam-chung-cho-thuong-tet-4828595.html) - 02:57 17/12/2024<!-- vnexpress-tin-moi-nhat:END -->
