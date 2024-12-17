@@ -5,8 +5,8 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Chính phủ dự kiến giảm 12 tổng cục, 500 cục](https://vnexpress.net/chinh-phu-du-kien-giam-12-tong-cuc-500-cuc-4828744.html) - 04:34 17/12/2024
-- 🤓 [Lao ôtô nổ lốp lên vỉa hè để tránh người đi đường](https://vnexpress.net/lao-oto-no-lop-len-via-he-de-tranh-nguoi-di-duong-4828753.html) - 03:56 17/12/2024
-- ⚗️ [Miền Bắc rét nhất 1 độ C](https://vnexpress.net/mien-bac-ret-nhat-1-do-c-4828688.html) - 03:09 17/12/2024
+- 🤓 [Miền Bắc rét nhất 1 độ C](https://vnexpress.net/mien-bac-ret-nhat-1-do-c-4828688.html) - 03:09 17/12/2024
+- ⚗️ [Các tỉnh thành lần lượt công bố lương, thưởng Tết](https://vnexpress.net/cac-tinh-thanh-lan-luot-cong-bo-luong-thuong-tet-4828011.html) - 03:00 17/12/2024
 - 🌊 [TP HCM xuống 20 độ C dịp Giáng sinh](https://vnexpress.net/tp-hcm-xuong-20-do-c-dip-giang-sinh-4828719.html) - 02:57 17/12/2024
 - 🎓 [Dùng mìn xử lý xong khối đá 450 tấn chắn đèo Khánh Lê](https://vnexpress.net/dung-min-xu-ly-xong-khoi-da-450-tan-chan-deo-khanh-le-4828684.html) - 02:24 17/12/2024
 - 🔥 [Ga trên cao lớn nhất Metro Số 1 trước ngày đón khách](https://vnexpress.net/ga-tren-cao-lon-nhat-metro-so-1-truoc-ngay-don-khach-4828471.html) - 22:00 16/12/2024
@@ -39,28 +39,28 @@ sidebar_position: 1
 - 🎊 [Bàn giao 40 ngôi nhà tái thiết Làng Nủ](https://vnexpress.net/ban-giao-40-ngoi-nha-tai-thiet-lang-nu-4828030.html) - 07:01 15/12/2024
 - 🤭 [Quốc Tử Giám dưới triều Nguyễn trước lúc trùng tu](https://vnexpress.net/quoc-tu-giam-duoi-trieu-nguyen-truoc-luc-trung-tu-4827769.html) - 06:27 15/12/2024
 - 🤗 [185.000 người ở TP HCM thuê trọ diện tích dưới 4 m2](https://vnexpress.net/185-000-nguoi-o-tp-hcm-thue-tro-dien-tich-duoi-4-m2-4828044.html) - 06:13 15/12/2024
-- 🌈 [Các tỉnh thành bắt đầu công bố lương, thưởng Tết](https://vnexpress.net/cac-tinh-thanh-bat-dau-cong-bo-luong-thuong-tet-4828011.html) - 06:04 15/12/2024
-- 🦣 [&#39;Con nuôi đồn biên phòng&#39; giành giải hành động vì cộng đồng](https://vnexpress.net/con-nuoi-don-bien-phong-gianh-giai-hanh-dong-vi-cong-dong-4827936.html) - 05:36 15/12/2024
-- 🎡 [Ba nữ sinh bị nước lũ cuốn trôi 100 m được cứu sống](https://vnexpress.net/ba-nu-sinh-bi-nuoc-lu-cuon-troi-100-m-duoc-cuu-song-4827991.html) - 05:25 15/12/2024
-- 🦏 [Không khí lạnh suy yếu, miền Bắc tăng nhiệt](https://vnexpress.net/khong-khi-lanh-suy-yeu-mien-bac-tang-nhiet-4828014.html) - 04:39 15/12/2024
-- 🎊 [Sạt lở đường nối Nha Trang - Đà Lạt chia cắt giao thông](https://vnexpress.net/sat-lo-duong-noi-nha-trang-da-lat-chia-cat-giao-thong-4828009.html) - 03:42 15/12/2024
-- 🫶 [Chuyên gia: &#39;Làm hầm Cát Lái thách thức hơn Thủ Thiêm&#39;](https://vnexpress.net/chuyen-gia-lam-ham-cat-lai-thach-thuc-hon-thu-thiem-4827582.html) - 23:00 14/12/2024
-- 🤔 [Thưởng Tết cao nhất ở Long An 519 triệu đồng](https://vnexpress.net/thuong-tet-cao-nhat-o-long-an-519-trieu-dong-4827931.html) - 17:00 14/12/2024
-- 🤠 [Chín tháng khổ luyện của quân khuyển biên phòng](https://vnexpress.net/chin-thang-kho-luyen-cua-quan-khuyen-bien-phong-4827112.html) - 17:00 14/12/2024
-- 🌜 [Ôtô 4 chỗ tông gãy lan can cầu, lao xuống sông Đồng Nai](https://vnexpress.net/oto-4-cho-tong-gay-lan-can-cau-lao-xuong-song-dong-nai-4827897.html) - 12:47 14/12/2024
-- 🕯 [Khánh thành nhà tưởng niệm đại tướng Võ Nguyên Giáp](https://vnexpress.net/khanh-thanh-nha-tuong-niem-dai-tuong-vo-nguyen-giap-4827830.html) - 09:02 14/12/2024
-- 🤔 [Thủ tướng yêu cầu thúc đẩy ngoại giao bán dẫn](https://vnexpress.net/thu-tuong-yeu-cau-thuc-day-ngoai-giao-ban-dan-4827834.html) - 08:42 14/12/2024
-- 🏊 [Chủ tịch nước: Tiếp tục xây dựng Quân đội &#39;tinh, gọn, mạnh&#39;](https://vnexpress.net/chu-tich-nuoc-tiep-tuc-xay-dung-quan-doi-tinh-gon-manh-4827720.html) - 06:38 14/12/2024
-- 🌮 [Bốn người mắc kẹt giữa sông](https://vnexpress.net/bon-nguoi-mac-ket-giua-song-4827806.html) - 06:09 14/12/2024
-- 🫣 [UAV chiến đấu cảm tử Việt Nam sản xuất lần đầu xuất hiện](https://vnexpress.net/uav-chien-dau-cam-tu-viet-nam-san-xuat-lan-dau-xuat-hien-4827643.html) - 06:00 14/12/2024
-- ⚗️ [6 ôtô tông liên hoàn, cửa ngõ TP HCM ùn tắc](https://vnexpress.net/6-oto-tong-lien-hoan-cua-ngo-tp-hcm-un-tac-4827817.html) - 05:49 14/12/2024
-- 🌜 [Sở Thông tin và Truyền thông TP HCM nhận Huân chương Lao động hạng Nhì](https://vnexpress.net/so-thong-tin-va-truyen-thong-tp-hcm-nhan-huan-chuong-lao-dong-hang-nhi-4827773.html) - 04:34 14/12/2024
-- 🌁 [Khởi công cao tốc nối TP HCM - Bình Dương - Bình Phước](https://vnexpress.net/khoi-cong-cao-toc-noi-tp-hcm-binh-duong-binh-phuoc-4827692.html) - 04:22 14/12/2024
-- 🐲 [Lốc xoáy làm hư hỏng 64 căn nhà ở Sóc Trăng](https://vnexpress.net/loc-xoay-lam-hu-hong-64-can-nha-o-soc-trang-4827725.html) - 02:44 14/12/2024
-- ⛽️ [Cấm ôtô 60 ngày để sửa cầu trên quốc lộ 1](https://vnexpress.net/cam-oto-60-ngay-de-sua-cau-tren-quoc-lo-1-4827558.html) - 02:38 14/12/2024
-- 🗽 [Hiện trạng thành cổ Biên Hòa bên sông Đồng Nai](https://vnexpress.net/hien-trang-thanh-co-bien-hoa-ben-song-dong-nai-4826174.html) - 22:00 13/12/2024
-- 🔥 [Đà Nẵng đề xuất lấn biển 300 ha làm khu thương mại tự do](https://vnexpress.net/da-nang-de-xuat-lan-bien-300-ha-lam-khu-thuong-mai-tu-do-4827618.html) - 14:21 13/12/2024
-- 💯 [Tìm thấy 4 hài cốt liệt sĩ trong vườn chuối](https://vnexpress.net/tim-thay-4-hai-cot-liet-si-trong-vuon-chuoi-4827525.html) - 11:30 13/12/2024
-- 🦆 [Hà Nội dự kiến giảm 5 sở, Vĩnh Phúc giảm 6 sở](https://vnexpress.net/ha-noi-du-kien-giam-5-so-vinh-phuc-giam-6-so-4827571.html) - 10:57 13/12/2024
-- 🫣 [Tông xe liên hoàn trên cầu Phú Mỹ](https://vnexpress.net/tong-xe-lien-hoan-tren-cau-phu-my-4827537.html) - 08:36 13/12/2024
-- 🤡 [Ông Nguyễn Xuân Phúc, Trương Hòa Bình và bà Trương Thị Mai bị kỷ luật](https://vnexpress.net/ong-nguyen-xuan-phuc-truong-hoa-binh-va-ba-truong-thi-mai-bi-ky-luat-4827495.html) - 07:44 13/12/2024<!-- vnexpress-thoi-su:END -->
+- 🌈 [&#39;Con nuôi đồn biên phòng&#39; giành giải hành động vì cộng đồng](https://vnexpress.net/con-nuoi-don-bien-phong-gianh-giai-hanh-dong-vi-cong-dong-4827936.html) - 05:36 15/12/2024
+- 🦣 [Ba nữ sinh bị nước lũ cuốn trôi 100 m được cứu sống](https://vnexpress.net/ba-nu-sinh-bi-nuoc-lu-cuon-troi-100-m-duoc-cuu-song-4827991.html) - 05:25 15/12/2024
+- 🎡 [Không khí lạnh suy yếu, miền Bắc tăng nhiệt](https://vnexpress.net/khong-khi-lanh-suy-yeu-mien-bac-tang-nhiet-4828014.html) - 04:39 15/12/2024
+- 🦏 [Sạt lở đường nối Nha Trang - Đà Lạt chia cắt giao thông](https://vnexpress.net/sat-lo-duong-noi-nha-trang-da-lat-chia-cat-giao-thong-4828009.html) - 03:42 15/12/2024
+- 🎊 [Chuyên gia: &#39;Làm hầm Cát Lái thách thức hơn Thủ Thiêm&#39;](https://vnexpress.net/chuyen-gia-lam-ham-cat-lai-thach-thuc-hon-thu-thiem-4827582.html) - 23:00 14/12/2024
+- 🫶 [Thưởng Tết cao nhất ở Long An 519 triệu đồng](https://vnexpress.net/thuong-tet-cao-nhat-o-long-an-519-trieu-dong-4827931.html) - 17:00 14/12/2024
+- 🤔 [Chín tháng khổ luyện của quân khuyển biên phòng](https://vnexpress.net/chin-thang-kho-luyen-cua-quan-khuyen-bien-phong-4827112.html) - 17:00 14/12/2024
+- 🤠 [Ôtô 4 chỗ tông gãy lan can cầu, lao xuống sông Đồng Nai](https://vnexpress.net/oto-4-cho-tong-gay-lan-can-cau-lao-xuong-song-dong-nai-4827897.html) - 12:47 14/12/2024
+- 🌜 [Khánh thành nhà tưởng niệm đại tướng Võ Nguyên Giáp](https://vnexpress.net/khanh-thanh-nha-tuong-niem-dai-tuong-vo-nguyen-giap-4827830.html) - 09:02 14/12/2024
+- 🕯 [Thủ tướng yêu cầu thúc đẩy ngoại giao bán dẫn](https://vnexpress.net/thu-tuong-yeu-cau-thuc-day-ngoai-giao-ban-dan-4827834.html) - 08:42 14/12/2024
+- 🤔 [Chủ tịch nước: Tiếp tục xây dựng Quân đội &#39;tinh, gọn, mạnh&#39;](https://vnexpress.net/chu-tich-nuoc-tiep-tuc-xay-dung-quan-doi-tinh-gon-manh-4827720.html) - 06:38 14/12/2024
+- 🏊 [Bốn người mắc kẹt giữa sông](https://vnexpress.net/bon-nguoi-mac-ket-giua-song-4827806.html) - 06:09 14/12/2024
+- 🌮 [UAV chiến đấu cảm tử Việt Nam sản xuất lần đầu xuất hiện](https://vnexpress.net/uav-chien-dau-cam-tu-viet-nam-san-xuat-lan-dau-xuat-hien-4827643.html) - 06:00 14/12/2024
+- 🫣 [6 ôtô tông liên hoàn, cửa ngõ TP HCM ùn tắc](https://vnexpress.net/6-oto-tong-lien-hoan-cua-ngo-tp-hcm-un-tac-4827817.html) - 05:49 14/12/2024
+- ⚗️ [Sở Thông tin và Truyền thông TP HCM nhận Huân chương Lao động hạng Nhì](https://vnexpress.net/so-thong-tin-va-truyen-thong-tp-hcm-nhan-huan-chuong-lao-dong-hang-nhi-4827773.html) - 04:34 14/12/2024
+- 🌜 [Khởi công cao tốc nối TP HCM - Bình Dương - Bình Phước](https://vnexpress.net/khoi-cong-cao-toc-noi-tp-hcm-binh-duong-binh-phuoc-4827692.html) - 04:22 14/12/2024
+- 🌁 [Lốc xoáy làm hư hỏng 64 căn nhà ở Sóc Trăng](https://vnexpress.net/loc-xoay-lam-hu-hong-64-can-nha-o-soc-trang-4827725.html) - 02:44 14/12/2024
+- 🐲 [Cấm ôtô 60 ngày để sửa cầu trên quốc lộ 1](https://vnexpress.net/cam-oto-60-ngay-de-sua-cau-tren-quoc-lo-1-4827558.html) - 02:38 14/12/2024
+- ⛽️ [Hiện trạng thành cổ Biên Hòa bên sông Đồng Nai](https://vnexpress.net/hien-trang-thanh-co-bien-hoa-ben-song-dong-nai-4826174.html) - 22:00 13/12/2024
+- 🗽 [Đà Nẵng đề xuất lấn biển 300 ha làm khu thương mại tự do](https://vnexpress.net/da-nang-de-xuat-lan-bien-300-ha-lam-khu-thuong-mai-tu-do-4827618.html) - 14:21 13/12/2024
+- 🔥 [Tìm thấy 4 hài cốt liệt sĩ trong vườn chuối](https://vnexpress.net/tim-thay-4-hai-cot-liet-si-trong-vuon-chuoi-4827525.html) - 11:30 13/12/2024
+- 💯 [Hà Nội dự kiến giảm 5 sở, Vĩnh Phúc giảm 6 sở](https://vnexpress.net/ha-noi-du-kien-giam-5-so-vinh-phuc-giam-6-so-4827571.html) - 10:57 13/12/2024
+- 🦆 [Tông xe liên hoàn trên cầu Phú Mỹ](https://vnexpress.net/tong-xe-lien-hoan-tren-cau-phu-my-4827537.html) - 08:36 13/12/2024
+- 🫣 [Ông Nguyễn Xuân Phúc, Trương Hòa Bình và bà Trương Thị Mai bị kỷ luật](https://vnexpress.net/ong-nguyen-xuan-phuc-truong-hoa-binh-va-ba-truong-thi-mai-bi-ky-luat-4827495.html) - 07:44 13/12/2024
+- 🤡 [Hải Phòng, Nghệ An, Hà Tĩnh đề xuất hợp nhất hàng loạt sở, ngành](https://vnexpress.net/hai-phong-nghe-an-ha-tinh-de-xuat-hop-nhat-hang-loat-so-nganh-4827436.html) - 07:06 13/12/2024<!-- vnexpress-thoi-su:END -->
