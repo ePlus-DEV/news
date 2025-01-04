@@ -2,7 +2,7 @@ name: "Cronjob ThuVienPhapLuat"
 on:
   workflow_run:
     workflows: ["Cronjob VnExpress"]
-    types: [in_progress]
+    types: [completed]
 jobs:
   thuvienphapluat_job:
     name: Thư Viện Pháp Luật - ${{ matrix.rand_seed }}
