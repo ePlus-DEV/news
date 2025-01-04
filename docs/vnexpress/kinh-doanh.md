@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [ACB: &#39;Lãnh đạo ngân hàng không đánh bạc hay trốn ra nước ngoài&#39;](https://vnexpress.net/acb-lanh-dao-ngan-hang-khong-danh-bac-hay-tron-ra-nuoc-ngoai-4835582.html) - 14:33 04/01/2025
+- ⛽️ [ACB: &#39;Lãnh đạo ngân hàng không đánh bạc hay chuyển tiền ra nước ngoài&#39;](https://vnexpress.net/acb-lanh-dao-ngan-hang-khong-danh-bac-hay-chuyen-tien-ra-nuoc-ngoai-4835582.html) - 14:33 04/01/2025
 - 🐲 [Thu hồi giấy phép nếu thương nhân xuất khẩu gạo không báo cáo tồn kho](https://vnexpress.net/thu-hoi-giay-phep-neu-thuong-nhan-xuat-khau-gao-khong-bao-cao-ton-kho-4835498.html) - 10:57 04/01/2025
 - 🔥 [PNJ được vinh danh &#39;Thương hiệu vàng TP HCM 2024&#39;](https://vnexpress.net/pnj-duoc-vinh-danh-thuong-hieu-vang-tp-hcm-2024-4835543.html) - 10:20 04/01/2025
 - 🐵 [Máy bay &#39;made in China&#39; muốn sớm bay sang Đông Nam Á](https://vnexpress.net/may-bay-made-in-china-muon-som-bay-sang-dong-nam-a-4835453.html) - 10:11 04/01/2025
