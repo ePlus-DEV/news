@@ -1,8 +1,6 @@
 name: "Cronjob ThanhNien"
 on:
-  workflow_run:
-    workflows: ["Cronjob DanTri"]
-    types: [completed]
+  workflow_dispatch:
 
 jobs:
   thanhnien_job:
