@@ -123,6 +123,6 @@ jobs:
             github.rest.actions.createWorkflowDispatch({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              workflow_id: 'nld.yml',
+              workflow_id: 'thanhnien.yml',
               ref: 'main',
             })
