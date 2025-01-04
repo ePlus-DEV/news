@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Trung vệ Thái Lan: &#39;Không cần tập trung vào Xuân Son&#39;](https://vnexpress.net/trung-ve-thai-lan-khong-can-tap-trung-vao-xuan-son-4835563.html) - 12:05 04/01/2025
-- 🦩 [Tuyển Việt Nam làm quen &#39;sân khấu&#39; chung kết ASEAN Cup](https://vnexpress.net/tuyen-viet-nam-lam-quen-san-khau-chung-ket-asean-cup-4835559.html) - 11:51 04/01/2025
-- 🧰 [ESPN: &#39;Xuân Son một mình giúp Việt Nam tiến gần ngôi vương&#39;](https://vnexpress.net/espn-xuan-son-mot-minh-giup-viet-nam-tien-gan-ngoi-vuong-4835053.html) - 08:02 04/01/2025
-- 🤗 [Châu Ngọc Quang: &#39;Sẽ chiến đấu tới hơi thở cuối cùng trước Thái Lan&#39;](https://vnexpress.net/chau-ngoc-quang-se-chien-dau-toi-hoi-tho-cuoi-cung-truoc-thai-lan-4835492.html) - 06:02 04/01/2025
-- 🥳 [Thủ môn Patiwat: &#39;Chúng tôi không để Cup rời Thái Lan&#39;](https://vnexpress.net/thu-mon-patiwat-chung-toi-khong-de-cup-roi-thai-lan-4835496.html) - 06:00 04/01/2025
-- 🦣 [HLV Thái Lan: &#39;Sẵn sàng đá luân lưu với Việt Nam&#39;](https://vnexpress.net/hlv-thai-lan-san-sang-da-luan-luu-voi-viet-nam-4835443.html) - 04:15 04/01/2025
-- 🌜 [HLV Kim Sang-sik: &#39;Chúng tôi đến đây để đánh bại Thái Lan&#39;](https://vnexpress.net/hlv-kim-sang-sik-chung-toi-den-day-de-danh-bai-thai-lan-4835437.html) - 03:41 04/01/2025
-- 🫶 [Đồng đội phải kéo Vinicius khỏi sân](https://vnexpress.net/dong-doi-phai-keo-vinicius-khoi-san-4835386.html) - 02:17 04/01/2025
-- 🌜 [Vinicius bị đuổi khi Real lên dẫn đầu La Liga](https://vnexpress.net/vinicius-bi-duoi-khi-real-len-dan-dau-la-liga-4835369.html) - 01:03 04/01/2025
-- 😺 [Liverpool được dự đoán thắng đậm Man Utd ở vòng 20 Ngoại hạng Anh](https://vnexpress.net/liverpool-duoc-du-doan-thang-dam-man-utd-o-vong-20-ngoai-hang-anh-4835314.html) - 00:20 04/01/2025
-- 👍 [Tình trường phức tạp của sao Man City](https://vnexpress.net/tinh-truong-phuc-tap-cua-sao-man-city-4835246.html) - 00:17 04/01/2025
-- 🐵 [Những điều đáng chờ đợi của làng golf 2025](https://vnexpress.net/nhung-dieu-dang-cho-doi-cua-lang-golf-2025-4835356.html) - 00:12 04/01/2025
-- 💫 [Swiatek, Sabalenka và những đối trọng trong quần vợt nữ 2025](https://vnexpress.net/swiatek-sabalenka-va-nhung-doi-trong-trong-quan-vot-nu-2025-4835357.html) - 00:11 04/01/2025
-- 🦆 [Amorim: &#39;Man Utd tệ hơn, nhưng có thể thắng Liverpool&#39;](https://vnexpress.net/amorim-man-utd-te-hon-nhung-co-the-thang-liverpool-4835342.html) - 00:01 04/01/2025
-- 🙉 [Dinh dưỡng quan trọng thế nào khi luyện tập và thi đấu marathon](https://vnexpress.net/dinh-duong-quan-trong-the-nao-khi-luyen-tap-va-thi-dau-marathon-4832401.html) - 00:00 04/01/2025
-- 📝 [Merson: &#39;Amorim phù hợp với Chelsea hơn Man Utd&#39;](https://vnexpress.net/merson-amorim-phu-hop-voi-chelsea-hon-man-utd-4835348.html) - 23:51 03/01/2025
-- 💯 [Arteta: &#39;Không phải cứ mua thêm cầu thủ là vô địch&#39;](https://vnexpress.net/arteta-khong-phai-cu-mua-them-cau-thu-la-vo-dich-4835333.html) - 23:47 03/01/2025
-- 🌈 [Kỳ thủ Nga bị điều tra vì ngủ quên ở giải thế giới](https://vnexpress.net/ky-thu-nga-bi-dieu-tra-vi-ngu-quen-o-giai-the-gioi-4834603.html) - 23:43 03/01/2025
-- 🦩 [Djokovic nối dài cơn khát danh hiệu](https://vnexpress.net/djokovic-noi-dai-con-khat-danh-hieu-4835339.html) - 15:49 03/01/2025
-- 🐲 [HLV Kim &#39;giảng bài&#39; cho đội hình chính tại Thái Lan](https://vnexpress.net/hlv-kim-giang-bai-cho-doi-hinh-chinh-tai-thai-lan-4835316.html) - 13:16 03/01/2025
-- 🌁 [Thái Lan đổi kế hoạch để giữ sức trước khi tái đấu Việt Nam](https://vnexpress.net/thai-lan-doi-ke-hoach-de-giu-suc-truoc-khi-tai-dau-viet-nam-4835315.html) - 12:25 03/01/2025
-- 💯 [SHB thuê máy bay đưa CĐV sang Thái Lan](https://vnexpress.net/shb-thue-may-bay-dua-cdv-sang-thai-lan-4835249.html) - 09:30 03/01/2025
-- 🌝 [Cầu thủ Thái Lan suýt gãy chân vì Xuân Son](https://vnexpress.net/cau-thu-thai-lan-suyt-gay-chan-vi-xuan-son-4835203.html) - 08:25 03/01/2025
-- 🤖 [Rashford từ chối 3 CLB Arab](https://vnexpress.net/rashford-tu-choi-3-clb-arab-4835198.html) - 08:19 03/01/2025
-- 🕯 [HLV Kim Sang-sik: &#39;Cần quên trận thắng Thái Lan&#39;](https://vnexpress.net/hlv-kim-sang-sik-can-quen-tran-thang-thai-lan-4833954.html) - 08:00 03/01/2025
-- 🧰 [Báo Thái Lan: &#39;Chất lượng cầu thủ Việt Nam vẫn thấp hơn&#39;](https://vnexpress.net/bao-thai-lan-chat-luong-cau-thu-viet-nam-van-thap-hon-4835008.html) - 07:00 03/01/2025
-- 🥳 [Chọn giày thi đấu marathon như thế nào?](https://vnexpress.net/chon-giay-thi-dau-marathon-nhu-the-nao-4832402.html) - 04:08 03/01/2025
-- 👍 [Báo Indonesia: &#39;Việt Nam đừng quá tự hào khi thắng lượt đi&#39;](https://vnexpress.net/bao-indonesia-viet-nam-dung-qua-tu-hao-khi-thang-luot-di-4835047.html) - 04:07 03/01/2025
-- 💪 [Neville lo Man Utd thảm bại trước Liverpool](https://vnexpress.net/neville-lo-man-utd-tham-bai-truoc-liverpool-4834965.html) - 04:00 03/01/2025
-- 👹 [Xuân Son được săn đón trước khi sang Thái Lan](https://vnexpress.net/xuan-son-duoc-san-don-truoc-khi-sang-thai-lan-4835009.html) - 02:34 03/01/2025
-- 🧰 [Djokovic lần thứ 20 thắng Monfils](https://vnexpress.net/djokovic-lan-thu-20-thang-monfils-4835003.html) - 01:51 03/01/2025
-- 🚀 [Trung vệ Nguyễn Thành Chung: &#39;Chưa phải lúc ăn mừng dù thắng Thái Lan&#39;](https://vnexpress.net/trung-ve-nguyen-thanh-chung-chua-phai-luc-an-mung-du-thang-thai-lan-4834952.html) - 01:48 03/01/2025
-- 🎃 [CĐV Thái Lan: &#39;Việt Nam không thể ghi bàn nếu thiếu Xuân Son&#39;](https://vnexpress.net/cdv-thai-lan-viet-nam-khong-the-ghi-ban-neu-thieu-xuan-son-4834940.html) - 23:22 02/01/2025
-- 🧰 [Rodri: &#39;Ronaldo không nên nghi ngờ việc tôi đoạt Quả Bóng Vàng&#39;](https://vnexpress.net/rodri-ronaldo-khong-nen-nghi-ngo-viec-toi-doat-qua-bong-vang-4834960.html) - 23:14 02/01/2025
-- 👀 [Hậu vệ Thái Lan xin lỗi vì để Xuân Son ghi bàn](https://vnexpress.net/hau-ve-thai-lan-xin-loi-vi-de-xuan-son-ghi-ban-4834954.html) - 23:07 02/01/2025
-- 🌜 [Tiền vệ Thái Lan: &#39;Thật tốt vì gỡ được một bàn trước Việt Nam&#39;](https://vnexpress.net/tien-ve-thai-lan-that-tot-vi-go-duoc-mot-ban-truoc-viet-nam-4834955.html) - 22:48 02/01/2025
-- 🫶 [Xuân Son không chấp câu nói mỉa mai của hậu vệ Thái Lan](https://vnexpress.net/xuan-son-khong-chap-cau-noi-mia-mai-cua-hau-ve-thai-lan-4834943.html) - 17:04 02/01/2025
-- 🦄 [Nguyễn Xuân Son - cú đấm thép giúp Việt Nam hạ Thái Lan](https://vnexpress.net/nguyen-xuan-son-cu-dam-thep-giup-viet-nam-ha-thai-lan-4834925.html) - 15:45 02/01/2025
-- 🥳 [Nguyễn Xuân Son lập kỷ lục ghi bàn của Việt Nam ở ASEAN Cup](https://vnexpress.net/nguyen-xuan-son-lap-ky-luc-ghi-ban-cua-viet-nam-o-asean-cup-4834917.html) - 15:18 02/01/2025
-- 🐲 [HLV Kim Sang-sik: &#39;Trận thắng Thái Lan là món quà năm mới&#39;](https://vnexpress.net/hlv-kim-sang-sik-tran-thang-thai-lan-la-mon-qua-nam-moi-4834915.html) - 15:08 02/01/2025
-- 🧑‍🏫 [HLV Thái Lan: &#39;Thua vì hàng thủ sai lầm khi kèm Xuân Son&#39;](https://vnexpress.net/hlv-thai-lan-thua-vi-hang-thu-sai-lam-khi-kem-xuan-son-4834914.html) - 15:04 02/01/2025
-- 🤔 [Xuân Son lập cú đúp, Việt Nam hạ Thái Lan ở lượt đi chung kết](https://vnexpress.net/vietnam-vs-thailan-4834787-tong-thuat.html) - 11:00 02/01/2025
-- 😺 [Báo Thái Lan: &#39;Chỉ lo Việt Nam chơi hung hăng&#39;](https://vnexpress.net/bao-thai-lan-chi-lo-viet-nam-choi-hung-hang-4834789.html) - 09:14 02/01/2025
-- 💪 [Djokovic và Kyrgios thua đánh đôi Brisbane International](https://vnexpress.net/djokovic-va-kyrgios-thua-danh-doi-brisbane-international-4834802.html) - 08:57 02/01/2025
-- 💼 [&#39;Cháy vé&#39; lượt về chung kết Việt Nam - Thái Lan ở ASEAN Cup](https://vnexpress.net/chay-ve-luot-ve-chung-ket-viet-nam-thai-lan-o-asean-cup-4834786.html) - 08:25 02/01/2025
-- 🕴 [Mbappe: &#39;Tôi muốn mạnh mẽ và hạnh phúc hơn ở Real&#39;](https://vnexpress.net/mbappe-toi-muon-manh-me-va-hanh-phuc-hon-o-real-4834755.html) - 07:44 02/01/2025
-- 🕯 [Barca nguy cơ mất gần 300 triệu USD vì Dani Olmo](https://vnexpress.net/barca-nguy-co-mat-gan-300-trieu-usd-vi-dani-olmo-4834733.html) - 07:17 02/01/2025
-- 📝 [Mourinho hối hận vì không nghe lời Perez](https://vnexpress.net/mourinho-hoi-han-vi-khong-nghe-loi-perez-4834687.html) - 05:25 02/01/2025
-- 🧐 [Người phụ nữ đầu tiên chạy 5km sub14](https://vnexpress.net/nguoi-phu-nu-dau-tien-chay-5km-sub14-4834593.html) - 04:26 02/01/2025
-- 🙉 [Việt Nam – Thái Lan: Món nợ phải đòi ở ASEAN Cup](https://vnexpress.net/viet-nam-thai-lan-mon-no-phai-doi-o-asean-cup-4834505.html) - 04:06 02/01/2025
-- 🏊 [Báo Thái Lan đoán đội nhà hòa Việt Nam](https://vnexpress.net/bao-thai-lan-doan-doi-nha-hoa-viet-nam-4834576.html) - 03:52 02/01/2025
-- 🌊 [Vòng 19 Ngoại hạng Anh: Man Utd nối dài thành tích bết bát](https://vnexpress.net/vong-19-ngoai-hang-anh-man-utd-noi-dai-thanh-tich-bet-bat-4834082.html) - 02:52 02/01/2025
-- 👨‍🏫 [Dàn sao thành cầu thủ tự do hè 2025](https://vnexpress.net/dan-sao-thanh-cau-thu-tu-do-he-2025-4834507.html) - 23:38 01/01/2025
-- 🥷 [Việt Nam 27 năm chưa thắng Thái Lan trên sân nhà](https://vnexpress.net/viet-nam-27-nam-chua-thang-thai-lan-tren-san-nha-4834502.html) - 23:36 01/01/2025
-- ⚗️ [Tranh cãi vụ Carlsen &#39;dàn xếp tỷ số&#39; ở chung kết cờ chớp thế giới](https://vnexpress.net/tranh-cai-vu-carlsen-dan-xep-ty-so-o-chung-ket-co-chop-the-gioi-4834467.html) - 22:59 01/01/2025
-- 🌮 [Tiền đạo Thái Lan &#39;liều mạng&#39; để đưa đội nhà vào chung kết](https://vnexpress.net/tien-dao-thai-lan-lieu-mang-de-dua-doi-nha-vao-chung-ket-4834491.html) - 22:53 01/01/2025
-- 🤩 [Arsenal trở lại nhì bảng Ngoại hạng Anh](https://vnexpress.net/arsenal-tro-lai-nhi-bang-ngoai-hang-anh-4834504.html) - 22:46 01/01/2025
-- 🏊 [Cầu thủ Việt Nam vui cười trước chung kết gặp Thái Lan](https://vnexpress.net/cau-thu-viet-nam-vui-cuoi-truoc-chung-ket-gap-thai-lan-4834490.html) - 14:40 01/01/2025
-- 🐎 [&#39;Thần đồng&#39; bóng đá Thái Lan tập trở lại để đấu Việt Nam](https://vnexpress.net/than-dong-bong-da-thai-lan-tap-tro-lai-de-dau-viet-nam-4834480.html) - 13:30 01/01/2025
-- 💫 [Hoàng Nguyên Thanh lỡ kỷ lục quốc gia vì chạy nhầm đường](https://vnexpress.net/hoang-nguyen-thanh-lo-ky-luc-quoc-gia-vi-chay-nham-duong-4834367.html) - 06:27 01/01/2025<!-- vnexpress-the-thao:END -->
+- 🪜 [Thái Lan tập muộn, luyện đá 11m trước khi đấu Việt Nam](https://vnexpress.net/thai-lan-tap-muon-luyen-da-11m-truoc-khi-dau-viet-nam-4835578.html) - 14:15 04/01/2025
+- 🦩 [Trung vệ Thái Lan: &#39;Không cần tập trung vào Xuân Son&#39;](https://vnexpress.net/trung-ve-thai-lan-khong-can-tap-trung-vao-xuan-son-4835563.html) - 12:05 04/01/2025
+- 🧰 [Tuyển Việt Nam làm quen &#39;sân khấu&#39; chung kết ASEAN Cup](https://vnexpress.net/tuyen-viet-nam-lam-quen-san-khau-chung-ket-asean-cup-4835559.html) - 11:51 04/01/2025
+- 🤗 [ESPN: &#39;Xuân Son một mình giúp Việt Nam tiến gần ngôi vương&#39;](https://vnexpress.net/espn-xuan-son-mot-minh-giup-viet-nam-tien-gan-ngoi-vuong-4835053.html) - 08:02 04/01/2025
+- 🥳 [Châu Ngọc Quang: &#39;Sẽ chiến đấu tới hơi thở cuối cùng trước Thái Lan&#39;](https://vnexpress.net/chau-ngoc-quang-se-chien-dau-toi-hoi-tho-cuoi-cung-truoc-thai-lan-4835492.html) - 06:02 04/01/2025
+- 🦣 [Thủ môn Patiwat: &#39;Chúng tôi không để Cup rời Thái Lan&#39;](https://vnexpress.net/thu-mon-patiwat-chung-toi-khong-de-cup-roi-thai-lan-4835496.html) - 06:00 04/01/2025
+- 🌜 [HLV Thái Lan: &#39;Sẵn sàng đá luân lưu với Việt Nam&#39;](https://vnexpress.net/hlv-thai-lan-san-sang-da-luan-luu-voi-viet-nam-4835443.html) - 04:15 04/01/2025
+- 🫶 [HLV Kim Sang-sik: &#39;Chúng tôi đến đây để đánh bại Thái Lan&#39;](https://vnexpress.net/hlv-kim-sang-sik-chung-toi-den-day-de-danh-bai-thai-lan-4835437.html) - 03:41 04/01/2025
+- 🌜 [Đồng đội phải kéo Vinicius khỏi sân](https://vnexpress.net/dong-doi-phai-keo-vinicius-khoi-san-4835386.html) - 02:17 04/01/2025
+- 😺 [Vinicius bị đuổi khi Real lên dẫn đầu La Liga](https://vnexpress.net/vinicius-bi-duoi-khi-real-len-dan-dau-la-liga-4835369.html) - 01:03 04/01/2025
+- 👍 [Liverpool được dự đoán thắng đậm Man Utd ở vòng 20 Ngoại hạng Anh](https://vnexpress.net/liverpool-duoc-du-doan-thang-dam-man-utd-o-vong-20-ngoai-hang-anh-4835314.html) - 00:20 04/01/2025
+- 🐵 [Tình trường phức tạp của sao Man City](https://vnexpress.net/tinh-truong-phuc-tap-cua-sao-man-city-4835246.html) - 00:17 04/01/2025
+- 💫 [Những điều đáng chờ đợi của làng golf 2025](https://vnexpress.net/nhung-dieu-dang-cho-doi-cua-lang-golf-2025-4835356.html) - 00:12 04/01/2025
+- 🦆 [Swiatek, Sabalenka và những đối trọng trong quần vợt nữ 2025](https://vnexpress.net/swiatek-sabalenka-va-nhung-doi-trong-trong-quan-vot-nu-2025-4835357.html) - 00:11 04/01/2025
+- 🙉 [Amorim: &#39;Man Utd tệ hơn, nhưng có thể thắng Liverpool&#39;](https://vnexpress.net/amorim-man-utd-te-hon-nhung-co-the-thang-liverpool-4835342.html) - 00:01 04/01/2025
+- 📝 [Dinh dưỡng quan trọng thế nào khi luyện tập và thi đấu marathon](https://vnexpress.net/dinh-duong-quan-trong-the-nao-khi-luyen-tap-va-thi-dau-marathon-4832401.html) - 00:00 04/01/2025
+- 💯 [Merson: &#39;Amorim phù hợp với Chelsea hơn Man Utd&#39;](https://vnexpress.net/merson-amorim-phu-hop-voi-chelsea-hon-man-utd-4835348.html) - 23:51 03/01/2025
+- 🌈 [Arteta: &#39;Không phải cứ mua thêm cầu thủ là vô địch&#39;](https://vnexpress.net/arteta-khong-phai-cu-mua-them-cau-thu-la-vo-dich-4835333.html) - 23:47 03/01/2025
+- 🦩 [Kỳ thủ Nga bị điều tra vì ngủ quên ở giải thế giới](https://vnexpress.net/ky-thu-nga-bi-dieu-tra-vi-ngu-quen-o-giai-the-gioi-4834603.html) - 23:43 03/01/2025
+- 🐲 [Djokovic nối dài cơn khát danh hiệu](https://vnexpress.net/djokovic-noi-dai-con-khat-danh-hieu-4835339.html) - 15:49 03/01/2025
+- 🌁 [HLV Kim &#39;giảng bài&#39; cho đội hình chính tại Thái Lan](https://vnexpress.net/hlv-kim-giang-bai-cho-doi-hinh-chinh-tai-thai-lan-4835316.html) - 13:16 03/01/2025
+- 💯 [Thái Lan đổi kế hoạch để giữ sức trước khi tái đấu Việt Nam](https://vnexpress.net/thai-lan-doi-ke-hoach-de-giu-suc-truoc-khi-tai-dau-viet-nam-4835315.html) - 12:25 03/01/2025
+- 🌝 [SHB thuê máy bay đưa CĐV sang Thái Lan](https://vnexpress.net/shb-thue-may-bay-dua-cdv-sang-thai-lan-4835249.html) - 09:30 03/01/2025
+- 🤖 [Cầu thủ Thái Lan suýt gãy chân vì Xuân Son](https://vnexpress.net/cau-thu-thai-lan-suyt-gay-chan-vi-xuan-son-4835203.html) - 08:25 03/01/2025
+- 🕯 [Rashford từ chối 3 CLB Arab](https://vnexpress.net/rashford-tu-choi-3-clb-arab-4835198.html) - 08:19 03/01/2025
+- 🧰 [HLV Kim Sang-sik: &#39;Cần quên trận thắng Thái Lan&#39;](https://vnexpress.net/hlv-kim-sang-sik-can-quen-tran-thang-thai-lan-4833954.html) - 08:00 03/01/2025
+- 🥳 [Báo Thái Lan: &#39;Chất lượng cầu thủ Việt Nam vẫn thấp hơn&#39;](https://vnexpress.net/bao-thai-lan-chat-luong-cau-thu-viet-nam-van-thap-hon-4835008.html) - 07:00 03/01/2025
+- 👍 [Chọn giày thi đấu marathon như thế nào?](https://vnexpress.net/chon-giay-thi-dau-marathon-nhu-the-nao-4832402.html) - 04:08 03/01/2025
+- 💪 [Báo Indonesia: &#39;Việt Nam đừng quá tự hào khi thắng lượt đi&#39;](https://vnexpress.net/bao-indonesia-viet-nam-dung-qua-tu-hao-khi-thang-luot-di-4835047.html) - 04:07 03/01/2025
+- 👹 [Neville lo Man Utd thảm bại trước Liverpool](https://vnexpress.net/neville-lo-man-utd-tham-bai-truoc-liverpool-4834965.html) - 04:00 03/01/2025
+- 🧰 [Xuân Son được săn đón trước khi sang Thái Lan](https://vnexpress.net/xuan-son-duoc-san-don-truoc-khi-sang-thai-lan-4835009.html) - 02:34 03/01/2025
+- 🚀 [Djokovic lần thứ 20 thắng Monfils](https://vnexpress.net/djokovic-lan-thu-20-thang-monfils-4835003.html) - 01:51 03/01/2025
+- 🎃 [Trung vệ Nguyễn Thành Chung: &#39;Chưa phải lúc ăn mừng dù thắng Thái Lan&#39;](https://vnexpress.net/trung-ve-nguyen-thanh-chung-chua-phai-luc-an-mung-du-thang-thai-lan-4834952.html) - 01:48 03/01/2025
+- 🧰 [CĐV Thái Lan: &#39;Việt Nam không thể ghi bàn nếu thiếu Xuân Son&#39;](https://vnexpress.net/cdv-thai-lan-viet-nam-khong-the-ghi-ban-neu-thieu-xuan-son-4834940.html) - 23:22 02/01/2025
+- 👀 [Rodri: &#39;Ronaldo không nên nghi ngờ việc tôi đoạt Quả Bóng Vàng&#39;](https://vnexpress.net/rodri-ronaldo-khong-nen-nghi-ngo-viec-toi-doat-qua-bong-vang-4834960.html) - 23:14 02/01/2025
+- 🌜 [Hậu vệ Thái Lan xin lỗi vì để Xuân Son ghi bàn](https://vnexpress.net/hau-ve-thai-lan-xin-loi-vi-de-xuan-son-ghi-ban-4834954.html) - 23:07 02/01/2025
+- 🫶 [Tiền vệ Thái Lan: &#39;Thật tốt vì gỡ được một bàn trước Việt Nam&#39;](https://vnexpress.net/tien-ve-thai-lan-that-tot-vi-go-duoc-mot-ban-truoc-viet-nam-4834955.html) - 22:48 02/01/2025
+- 🦄 [Xuân Son không chấp câu nói mỉa mai của hậu vệ Thái Lan](https://vnexpress.net/xuan-son-khong-chap-cau-noi-mia-mai-cua-hau-ve-thai-lan-4834943.html) - 17:04 02/01/2025
+- 🥳 [Nguyễn Xuân Son - cú đấm thép giúp Việt Nam hạ Thái Lan](https://vnexpress.net/nguyen-xuan-son-cu-dam-thep-giup-viet-nam-ha-thai-lan-4834925.html) - 15:45 02/01/2025
+- 🐲 [Nguyễn Xuân Son lập kỷ lục ghi bàn của Việt Nam ở ASEAN Cup](https://vnexpress.net/nguyen-xuan-son-lap-ky-luc-ghi-ban-cua-viet-nam-o-asean-cup-4834917.html) - 15:18 02/01/2025
+- 🧑‍🏫 [HLV Kim Sang-sik: &#39;Trận thắng Thái Lan là món quà năm mới&#39;](https://vnexpress.net/hlv-kim-sang-sik-tran-thang-thai-lan-la-mon-qua-nam-moi-4834915.html) - 15:08 02/01/2025
+- 🤔 [HLV Thái Lan: &#39;Thua vì hàng thủ sai lầm khi kèm Xuân Son&#39;](https://vnexpress.net/hlv-thai-lan-thua-vi-hang-thu-sai-lam-khi-kem-xuan-son-4834914.html) - 15:04 02/01/2025
+- 😺 [Xuân Son lập cú đúp, Việt Nam hạ Thái Lan ở lượt đi chung kết](https://vnexpress.net/vietnam-vs-thailan-4834787-tong-thuat.html) - 11:00 02/01/2025
+- 💪 [Báo Thái Lan: &#39;Chỉ lo Việt Nam chơi hung hăng&#39;](https://vnexpress.net/bao-thai-lan-chi-lo-viet-nam-choi-hung-hang-4834789.html) - 09:14 02/01/2025
+- 💼 [Djokovic và Kyrgios thua đánh đôi Brisbane International](https://vnexpress.net/djokovic-va-kyrgios-thua-danh-doi-brisbane-international-4834802.html) - 08:57 02/01/2025
+- 🕴 [&#39;Cháy vé&#39; lượt về chung kết Việt Nam - Thái Lan ở ASEAN Cup](https://vnexpress.net/chay-ve-luot-ve-chung-ket-viet-nam-thai-lan-o-asean-cup-4834786.html) - 08:25 02/01/2025
+- 🕯 [Mbappe: &#39;Tôi muốn mạnh mẽ và hạnh phúc hơn ở Real&#39;](https://vnexpress.net/mbappe-toi-muon-manh-me-va-hanh-phuc-hon-o-real-4834755.html) - 07:44 02/01/2025
+- 📝 [Barca nguy cơ mất gần 300 triệu USD vì Dani Olmo](https://vnexpress.net/barca-nguy-co-mat-gan-300-trieu-usd-vi-dani-olmo-4834733.html) - 07:17 02/01/2025
+- 🧐 [Mourinho hối hận vì không nghe lời Perez](https://vnexpress.net/mourinho-hoi-han-vi-khong-nghe-loi-perez-4834687.html) - 05:25 02/01/2025
+- 🙉 [Người phụ nữ đầu tiên chạy 5km sub14](https://vnexpress.net/nguoi-phu-nu-dau-tien-chay-5km-sub14-4834593.html) - 04:26 02/01/2025
+- 🏊 [Việt Nam – Thái Lan: Món nợ phải đòi ở ASEAN Cup](https://vnexpress.net/viet-nam-thai-lan-mon-no-phai-doi-o-asean-cup-4834505.html) - 04:06 02/01/2025
+- 🌊 [Báo Thái Lan đoán đội nhà hòa Việt Nam](https://vnexpress.net/bao-thai-lan-doan-doi-nha-hoa-viet-nam-4834576.html) - 03:52 02/01/2025
+- 👨‍🏫 [Vòng 19 Ngoại hạng Anh: Man Utd nối dài thành tích bết bát](https://vnexpress.net/vong-19-ngoai-hang-anh-man-utd-noi-dai-thanh-tich-bet-bat-4834082.html) - 02:52 02/01/2025
+- 🥷 [Dàn sao thành cầu thủ tự do hè 2025](https://vnexpress.net/dan-sao-thanh-cau-thu-tu-do-he-2025-4834507.html) - 23:38 01/01/2025
+- ⚗️ [Việt Nam 27 năm chưa thắng Thái Lan trên sân nhà](https://vnexpress.net/viet-nam-27-nam-chua-thang-thai-lan-tren-san-nha-4834502.html) - 23:36 01/01/2025
+- 🌮 [Tranh cãi vụ Carlsen &#39;dàn xếp tỷ số&#39; ở chung kết cờ chớp thế giới](https://vnexpress.net/tranh-cai-vu-carlsen-dan-xep-ty-so-o-chung-ket-co-chop-the-gioi-4834467.html) - 22:59 01/01/2025
+- 🤩 [Tiền đạo Thái Lan &#39;liều mạng&#39; để đưa đội nhà vào chung kết](https://vnexpress.net/tien-dao-thai-lan-lieu-mang-de-dua-doi-nha-vao-chung-ket-4834491.html) - 22:53 01/01/2025
+- 🏊 [Arsenal trở lại nhì bảng Ngoại hạng Anh](https://vnexpress.net/arsenal-tro-lai-nhi-bang-ngoai-hang-anh-4834504.html) - 22:46 01/01/2025
+- 🐎 [Cầu thủ Việt Nam vui cười trước chung kết gặp Thái Lan](https://vnexpress.net/cau-thu-viet-nam-vui-cuoi-truoc-chung-ket-gap-thai-lan-4834490.html) - 14:40 01/01/2025
+- 💫 [&#39;Thần đồng&#39; bóng đá Thái Lan tập trở lại để đấu Việt Nam](https://vnexpress.net/than-dong-bong-da-thai-lan-tap-tro-lai-de-dau-viet-nam-4834480.html) - 13:30 01/01/2025<!-- vnexpress-the-thao:END -->
