@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Báo Thái Lan: &#39;Việt Nam sẽ phạm lỗi và câu giờ&#39;](https://vnexpress.net/bao-thai-lan-viet-nam-se-pham-loi-va-cau-gio-4835600.html) - 03:30 05/01/2025
+- 🪜 [Báo Thái Lan dự đoán Việt Nam sẽ &#39;phạm lỗi và câu giờ&#39;](https://vnexpress.net/bao-thai-lan-du-doan-viet-nam-se-pham-loi-va-cau-gio-4835600.html) - 03:30 05/01/2025
 - 🦩 [CĐV vượt nghìn km cổ vũ tuyển Việt Nam](https://vnexpress.net/cdv-vuot-nghin-km-co-vu-tuyen-viet-nam-4835654.html) - 02:26 05/01/2025
 - 🧰 [Sân Rajamangala trước chung kết ASEAN Cup 2024](https://vnexpress.net/san-rajamangala-truoc-chung-ket-asean-cup-2024-4835568.html) - 01:24 05/01/2025
 - 🤗 [Salah thăng hoa thế nào trước khi gặp Man Utd](https://vnexpress.net/salah-thang-hoa-the-nao-truoc-khi-gap-man-utd-4835323.html) - 00:40 05/01/2025
