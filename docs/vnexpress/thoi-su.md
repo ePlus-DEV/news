@@ -4,10 +4,10 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Nhân viên cứu hộ mất tích sau nỗ lực cứu du khách](https://vnexpress.net/nhan-vien-cuu-ho-mat-tich-sau-no-luc-cuu-du-khach-4835729.html) - 07:50 05/01/2025
-- 🤓 [Diện mạo đô thị dọc metro Bến Thành - Suối Tiên thay đổi sau 10 năm](https://vnexpress.net/dien-mao-do-thi-doc-metro-ben-thanh-suoi-tien-thay-doi-sau-10-nam-4835580.html) - 07:00 05/01/2025
-- ⚗️ [Miền Bắc sắp chuyển rét ẩm](https://vnexpress.net/mien-bac-sap-chuyen-ret-am-4835715.html) - 06:25 05/01/2025
-- 🌊 [Tài xế trình báo ôtô bị đập phá sau mâu thuẫn giao thông ở TP HCM](https://vnexpress.net/tai-xe-trinh-bao-oto-bi-dap-pha-sau-mau-thuan-giao-thong-o-tp-hcm-4835709.html) - 05:40 05/01/2025
+- 🦒 [Chặn xe, đập vỡ kính ôtô sau mâu thuẫn trên đường ở TP HCM](https://vnexpress.net/chan-xe-dap-vo-kinh-oto-sau-mau-thuan-tren-duong-o-tp-hcm-4835709.html) - 08:19 05/01/2025
+- 🤓 [Nhân viên cứu hộ mất tích sau nỗ lực cứu du khách](https://vnexpress.net/nhan-vien-cuu-ho-mat-tich-sau-no-luc-cuu-du-khach-4835729.html) - 07:50 05/01/2025
+- ⚗️ [Diện mạo đô thị dọc metro Bến Thành - Suối Tiên thay đổi sau 10 năm](https://vnexpress.net/dien-mao-do-thi-doc-metro-ben-thanh-suoi-tien-thay-doi-sau-10-nam-4835580.html) - 07:00 05/01/2025
+- 🌊 [Miền Bắc sắp chuyển rét ẩm](https://vnexpress.net/mien-bac-sap-chuyen-ret-am-4835715.html) - 06:25 05/01/2025
 - 🎓 [&#39;Thay áo mới&#39; cho 12 trường học ở Hà Giang](https://vnexpress.net/thay-ao-moi-cho-12-truong-hoc-o-ha-giang-4835705.html) - 05:13 05/01/2025
 - 🔥 [TP HCM sẽ có tuyến metro từ nội đô đến Cần Giờ](https://vnexpress.net/tp-hcm-se-co-tuyen-metro-tu-noi-do-den-can-gio-4835697.html) - 04:45 05/01/2025
 - 🦏 [Nhà trong khu dân cư ở TP HCM cháy ngùn ngụt](https://vnexpress.net/nha-trong-khu-dan-cu-o-tp-hcm-chay-ngun-ngut-4835672.html) - 02:45 05/01/2025
