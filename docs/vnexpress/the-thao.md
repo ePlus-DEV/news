@@ -7,9 +7,9 @@ sidebar_position: 5
 - 🪜 [Xuân Son giành giải Cầu thủ hay nhất và Vua phá lưới](https://vnexpress.net/xuan-son-gianh-giai-cau-thu-hay-nhat-va-vua-pha-luoi-4835846.html) - 16:20 05/01/2025
 - 🦩 [Việt Nam lập nhiều kỷ lục khi vô địch ASEAN Cup](https://vnexpress.net/viet-nam-lap-nhieu-ky-luc-khi-vo-dich-asean-cup-4835767.html) - 15:40 05/01/2025
 - 🧰 [Vì sao cầu thủ Việt Nam bất bình khi Thái Lan ghi bàn?](https://vnexpress.net/vi-sao-cau-thu-viet-nam-bat-binh-khi-thai-lan-ghi-ban-4835833.html) - 15:38 05/01/2025
-- 🤗 [HLV Thái Lan họp báo sau khi thua Việt Nam](https://vnexpress.net/hlv-thai-lan-hop-bao-sau-khi-thua-viet-nam-4835818.html) - 15:26 05/01/2025
+- 🤗 [HLV Thái Lan: &#39;Việt Nam chơi tốt hơn, xứng đáng vô địch&#39;](https://vnexpress.net/hlv-thai-lan-viet-nam-choi-tot-hon-xung-dang-vo-dich-4835818.html) - 15:26 05/01/2025
 - 🥳 [HLV Kim Sang-sik họp báo sau khi vô địch ASEAN Cup 2024](https://vnexpress.net/hlv-kim-sang-sik-hop-bao-sau-khi-vo-dich-asean-cup-2024-4835817.html) - 15:19 05/01/2025
-- 🦣 [Hàng chục nghìn người xuống đường mừng tuyển Việt Nam vô địch](https://vnexpress.net/hang-chuc-nghin-nguoi-xuong-duong-mung-tuyen-viet-nam-vo-dich-4835808.html) - 15:15 05/01/2025
+- 🦣 [Hàng triệu người xuống đường mừng Việt Nam vô địch](https://vnexpress.net/hang-trieu-nguoi-xuong-duong-mung-viet-nam-vo-dich-4835808.html) - 15:15 05/01/2025
 - 🌜 [Xuân Son chấn thương nặng, bỏ dở trận chung kết ASEAN Cup](https://vnexpress.net/xuan-son-chan-thuong-nang-bo-do-tran-chung-ket-asean-cup-4835803.html) - 13:57 05/01/2025
 - 🫶 [CĐV nữ Thái Lan và Việt Nam &#39;đọ&#39; sắc tại chung kết ASEAN Cup 2024](https://vnexpress.net/cdv-nu-thai-lan-va-viet-nam-do-sac-tai-chung-ket-asean-cup-2024-4835785.html) - 12:17 05/01/2025
 - 🌜 [Thắng Thái Lan, Việt Nam vô địch ASEAN Cup 2024](https://vnexpress.net/truc-tiep-tran-thai-lan-vs-viet-nam-tai-luot-ve-chung-ket-asean-cup-2024-4835764.html) - 10:00 05/01/2025
