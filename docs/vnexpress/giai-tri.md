@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Sao cổ vũ đội tuyển Việt Nam ở chung kết ASEAN Cup](https://vnexpress.net/sao-co-vu-doi-tuyen-viet-nam-o-chung-ket-asean-cup-4835758.html) - 13:41 05/01/2025
+- 🌏 [Dàn sao cổ vũ đội tuyển Việt Nam ở chung kết ASEAN Cup](https://vnexpress.net/dan-sao-co-vu-doi-tuyen-viet-nam-o-chung-ket-asean-cup-4835758.html) - 13:41 05/01/2025
 - 💫 [Những kiểu tóc đẹp của Angelina Jolie qua thời gian](https://vnexpress.net/nhung-kieu-toc-dep-cua-angelina-jolie-qua-thoi-gian-4835762.html) - 12:00 05/01/2025
 - 🌮 [Vợ sắp cưới Jeff Bezos &#39;trẻ hóa&#39; với váy xẻ lườn](https://vnexpress.net/vo-sap-cuoi-jeff-bezos-tre-hoa-voi-vay-xe-luon-4835738.html) - 08:53 05/01/2025
 - 🧠 [Trấn Thành và dàn sao xem concert của Phan Mạnh Quỳnh](https://vnexpress.net/tran-thanh-va-dan-sao-xem-concert-cua-phan-manh-quynh-4835704.html) - 07:28 05/01/2025
