@@ -30,8 +30,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧰 [Israel cáo buộc Hezbollah vi phạm thỏa thuận ngừng bắn](https://vnexpress.net/israel-cao-buoc-hezbollah-vi-pham-thoa-thuan-ngung-ban-4835796.html) - 14:02 05/01/2025
 - 🥰 [Miình muốn tự tạo thêm duyên cho bản thân](https://vnexpress.net/miinh-muon-tu-tao-them-duyen-cho-ban-than-4835740.html) - 14:00 05/01/2025
 - 🌏 [Xuân Son chấn thương nặng, bỏ dở trận chung kết ASEAN Cup](https://vnexpress.net/xuan-son-chan-thuong-nang-bo-do-tran-chung-ket-asean-cup-4835803.html) - 13:57 05/01/2025
-- 🧐 [Khoảnh khắc CĐV reo hò với bàn gỡ hoà của Tuấn Hải](https://vnexpress.net/khoanh-khac-cdv-reo-ho-voi-ban-go-hoa-cua-tuan-hai-4835789.html) - 13:53 05/01/2025
-- 💫 [Sao cổ vũ đội tuyển Việt Nam ở chung kết ASEAN Cup](https://vnexpress.net/sao-co-vu-doi-tuyen-viet-nam-o-chung-ket-asean-cup-4835758.html) - 13:41 05/01/2025
+- 🧐 [Khoảnh khắc CĐV reo hò khi Việt Nam cân bằng tỷ số 2-2](https://vnexpress.net/khoanh-khac-cdv-reo-ho-khi-viet-nam-can-bang-ty-so-2-2-4835789.html) - 13:53 05/01/2025
+- 💫 [Dàn sao cổ vũ đội tuyển Việt Nam ở chung kết ASEAN Cup](https://vnexpress.net/dan-sao-co-vu-doi-tuyen-viet-nam-o-chung-ket-asean-cup-4835758.html) - 13:41 05/01/2025
 - 😺 [&#39;Tội phạm đường phố ở TP HCM hầu hết đều bị bắt&#39;](https://vnexpress.net/toi-pham-duong-pho-o-tp-hcm-hau-het-deu-bi-bat-4835771.html) - 13:21 05/01/2025
 - 🕯 [Lợi ích sức khỏe khi uống nước nóng](https://vnexpress.net/loi-ich-suc-khoe-khi-uong-nuoc-nong-4834686.html) - 13:00 05/01/2025
 - 💃 [Cách dạy &#39;đá con xuống đất&#39; của bố tôi khiến anh chị căm ghét ông](https://vnexpress.net/cach-day-da-con-xuong-dat-cua-bo-toi-khien-anh-chi-cam-ghet-ong-4835753.html) - 13:00 05/01/2025
@@ -50,7 +50,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐻 [&#39;Phạt nguội 5 triệu đồng tất cả những người vượt đèn đỏ&#39;](https://vnexpress.net/phat-nguoi-5-trieu-dong-tat-ca-nhung-nguoi-vuot-den-do-4835637.html) - 10:00 05/01/2025
 - 😺 [Anh mong tìm được người cùng hoàn cảnh và cố gắng](https://vnexpress.net/anh-mong-tim-duoc-nguoi-cung-hoan-canh-va-co-gang-4835623.html) - 10:00 05/01/2025
 - 🤔 [Muốn vào tập đoàn lớn nên thi IELTS hay TOEIC?](https://vnexpress.net/muon-vao-tap-doan-lon-nen-thi-ielts-hay-toeic-4835488.html) - 10:00 05/01/2025
-- 🌮 [Điểm tin 17h: Tăng gấp 10 lần mức phạt với người đi xe máy lên vỉa hè | Miền Bắc sắp chuyển rét ẩm](https://vnexpress.net/diem-tin-17h-tang-gap-10-lan-muc-phat-voi-nguoi-di-xe-may-len-via-he-mien-bac-sap-chuyen-ret-am-4835768.html) - 10:00 05/01/2025
+- 🌮 [Điểm tin 21h: Thanh niên &#39;đi bão&#39; tông gãy chân cảnh sát | Nga nói Ukraine mở cuộc phản công ở Kursk](https://vnexpress.net/diem-tin-21h-thanh-nien-di-bao-tong-gay-chan-canh-sat-nga-noi-ukraine-mo-cuoc-phan-cong-o-kursk-4835768.html) - 10:00 05/01/2025
 - 🦩 [Hàng nghìn người Hàn đội mưa tuyết biểu tình vì ông Yoon](https://vnexpress.net/hang-nghin-nguoi-han-doi-mua-tuyet-bieu-tinh-vi-ong-yoon-4835741.html) - 09:47 05/01/2025
 - 📝 [Tăng 10 lần tiền phạt với người đi xe máy lên vỉa hè, 4-6 triệu đồng](https://vnexpress.net/tang-10-lan-muc-phat-voi-nguoi-di-xe-may-len-via-he-den-6-trieu-dong-4835735.html) - 09:37 05/01/2025
 - 🕴 [Chiến thuật phân tán binh lực của Nga ở Ukraine](https://vnexpress.net/chien-thuat-phan-tan-binh-luc-cua-nga-o-ukraine-4834846.html) - 09:32 05/01/2025
