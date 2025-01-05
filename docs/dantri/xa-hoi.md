@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- dantri-xa-hoi:START -->
 - 🫣 [Biển người ăn mừng, phủ kín cờ Tổ quốc khắp các tuyến đường trung tâm TPHCM](https://dantri.com.vn/xa-hoi/bien-nguoi-an-mung-phu-kin-co-to-quoc-khap-cac-tuyen-duong-trung-tam-tphcm-20250105235256124.htm) - 16:53 05/01/2025
 - 💼 [Thủ tướng gửi thư chúc mừng đội tuyển Việt Nam, động viên cầu thủ Xuân Son](https://dantri.com.vn/xa-hoi/thu-tuong-gui-thu-chuc-mung-doi-tuyen-viet-nam-dong-vien-cau-thu-xuan-son-20250105231331863.htm) - 16:36 05/01/2025
-- 🎊 [Thú cưng, thú... nhồi bông cùng người hâm mộ &quot;đi bão&quot;](https://dantri.com.vn/xa-hoi/thu-cung-thu-nhoi-bong-cung-nguoi-ham-mo-di-bao-20250105233659512.htm) - 16:33 05/01/2025
+- 🎊 [0h đêm, đường phố vẫn đầy những người hâm mộ &quot;kỳ lạ&quot;](https://dantri.com.vn/xa-hoi/0h-dem-duong-pho-van-day-nhung-nguoi-ham-mo-ky-la-20250105233659512.htm) - 16:33 05/01/2025
 - 🙉 [Báo Dân trí đoạt giải Nhì giải Diên Hồng](https://dantri.com.vn/xa-hoi/bao-dan-tri-doat-giai-nhi-giai-dien-hong-20250105224504891.htm) - 16:31 05/01/2025
 - 🕯 [Hà Nội thưởng &quot;nóng&quot; 2 tỷ đồng cho đội tuyển Việt Nam](https://dantri.com.vn/xa-hoi/ha-noi-thuong-nong-2-ty-dong-cho-doi-tuyen-viet-nam-20250105223746065.htm) - 16:24 05/01/2025
 - 👍 [Người dân cả nước xuống đường &quot;đi bão&quot; ăn mừng tuyển Việt Nam vô địch](https://dantri.com.vn/xa-hoi/nguoi-dan-ca-nuoc-xuong-duong-di-bao-an-mung-tuyen-viet-nam-vo-dich-20250105225001896.htm) - 15:50 05/01/2025
