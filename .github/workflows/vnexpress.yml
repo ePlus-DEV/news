@@ -45,45 +45,6 @@ jobs:
           - feed_list: "https://vnexpress.net/rss/phap-luat.rss"
             readme_path: "./docs/vnexpress/phap-luat.md"
             rand_seed: "vnexpress-phap-luat"
-          # - feed_list: "https://vnexpress.net/rss/khoa-hoc.rss"
-          #   readme_path: "./docs/vnexpress/khoa-hoc.md"
-          #   rand_seed: "vnexpress-khoa-hoc"
-          # - feed_list: "https://vnexpress.net/rss/so-hoa.rss"
-          #   readme_path: "./docs/vnexpress/so-hoa.md"
-          #   rand_seed: "vnexpress-so-hoa"
-          # - feed_list: "https://vnexpress.net/rss/oto-xe-may.rss"
-          #   readme_path: "./docs/vnexpress/oto-xe-may.md"
-          #   rand_seed: "vnexpress-oto-xe-may"
-          # - feed_list: "https://vnexpress.net/rss/suc-manh-so.rss"
-          #   readme_path: "./docs/vnexpress/suc-manh-so.md"
-          #   rand_seed: "vnexpress-suc-manh-so"
-          # - feed_list: "https://vnexpress.net/rss/cuoi.rss"
-          #   readme_path: "./docs/vnexpress/cuoi.md"
-          #   rand_seed: "vnexpress-cuoi"
-          # - feed_list: "https://vnexpress.net/rss/y-kien.rss"
-          #   readme_path: "./docs/vnexpress/y-kien.md"
-          #   rand_seed: "vnexpress-y-kien"
-          # - feed_list: "https://vnexpress.net/rss/tam-su.rss"
-          #   readme_path: "./docs/vnexpress/tam-su.md"
-          #   rand_seed: "vnexpress-tam-su"
-          # - feed_list: "https://vnexpress.net/rss/cuoc-song-do-day.rss"
-          #   readme_path: "./docs/vnexpress/cuoc-song-do-day.md"
-          #   rand_seed: "vnexpress-cuoc-song-do-day"
-          # - feed_list: "https://vnexpress.net/rss/hai.rss"
-          #   readme_path: "./docs/vnexpress/hai.md"
-          #   rand_seed: "vnexpress-hai"
-          # - feed_list: "https://vnexpress.net/rss/cuoi-vui.rss"
-          #   readme_path: "./docs/vnexpress/cuoi-vui.md"
-          #   rand_seed: "vnexpress-cuoi-vui"
-          # - feed_list: "https://vnexpress.net/rss/cuoi-hay.rss"
-          #   readme_path: "./docs/vnexpress/cuoi-hay.md"
-          #   rand_seed: "vnexpress-cuoi-hay"
-          # - feed_list: "https://vnexpress.net/rss/cuoi-xuyen-viet.rss"
-          #   readme_path: "./docs/vnexpress/cuoi-xuyen-viet.md"
-          #   rand_seed: "vnexpress-cuoi-xuyen-viet"
-          # - feed_list: "https://vnexpress.net/rss/tin-xem-nhieu.rss"
-          #   readme_path: "./docs/vnexpress/tin-xem-nhieu.md"
-          #   rand_seed: "vnexpress-tin-xem-nhieu"
 
     steps:
       - name: Checkout
@@ -102,9 +63,13 @@ jobs:
           date_format: "HH:MM dd/mm/yyyy"
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) - $date"
           max_post_count: 60
-   
+
+  trigger_workflow:
+    name: Trigger Workflow
+    runs-on: ubuntu-latest
+    needs: vnexpress_job
+    steps:
       - name: Trigger Workflow
-        if: always()
         uses: actions/github-script@v7
         with:
           script: |
