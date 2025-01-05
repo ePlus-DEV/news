@@ -4,10 +4,10 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Hình ảnh tuyển Việt Nam vô địch AFF Cup 2024 đầy thuyết phục trước Thái Lan](https://dantri.com.vn/the-thao/hinh-anh-tuyen-viet-nam-vo-dich-aff-cup-2024-day-thuyet-phuc-truoc-thai-lan-20250106005007174.htm) - 17:50 05/01/2025
-- 💯 [Xuân Son bị gãy xương ống đồng, ăn mừng ngôi vô địch từ bệnh viện](https://dantri.com.vn/the-thao/xuan-son-bi-gay-xuong-ong-dong-an-mung-ngoi-vo-dich-tu-benh-vien-20250106001319977.htm) - 17:15 05/01/2025
-- ⛽️ [Tuấn Hải: &quot;Đội tuyển Việt Nam chiến đấu hết mình vì Xuân Son&quot;](https://dantri.com.vn/the-thao/tuan-hai-doi-tuyen-viet-nam-chien-dau-het-minh-vi-xuan-son-20250105232354097.htm) - 16:47 05/01/2025
-- 💃 [CĐV Đông Nam Á chỉ trích bàn thắng đáng hổ thẹn của tuyển Thái Lan](https://dantri.com.vn/the-thao/cdv-dong-nam-a-chi-trich-ban-thang-dang-ho-then-cua-tuyen-thai-lan-20250105233344929.htm) - 16:38 05/01/2025
+- 🎡 [CĐV Đông Nam Á chỉ trích bàn thắng đáng hổ thẹn của tuyển Thái Lan](https://dantri.com.vn/the-thao/cdv-dong-nam-a-chi-trich-ban-thang-dang-ho-then-cua-tuyen-thai-lan-20250105233344929.htm) - 18:38 05/01/2025
+- 💯 [Hình ảnh tuyển Việt Nam vô địch AFF Cup 2024 đầy thuyết phục trước Thái Lan](https://dantri.com.vn/the-thao/hinh-anh-tuyen-viet-nam-vo-dich-aff-cup-2024-day-thuyet-phuc-truoc-thai-lan-20250106005007174.htm) - 17:50 05/01/2025
+- ⛽️ [Xuân Son bị gãy xương ống đồng, ăn mừng ngôi vô địch từ bệnh viện](https://dantri.com.vn/the-thao/xuan-son-bi-gay-xuong-ong-dong-an-mung-ngoi-vo-dich-tu-benh-vien-20250106001319977.htm) - 17:15 05/01/2025
+- 💃 [Tuấn Hải: &quot;Đội tuyển Việt Nam chiến đấu hết mình vì Xuân Son&quot;](https://dantri.com.vn/the-thao/tuan-hai-doi-tuyen-viet-nam-chien-dau-het-minh-vi-xuan-son-20250105232354097.htm) - 16:47 05/01/2025
 - 🌈 [Xuân Son, Đình Triệu nhận giải thưởng cao quý ở AFF Cup](https://dantri.com.vn/the-thao/xuan-son-dinh-trieu-nhan-giai-thuong-cao-quy-o-aff-cup-20250105225627871.htm) - 15:56 05/01/2025
 - 🦅 [HLV Thái Lan: &quot;Đội tuyển Việt Nam xứng đáng vô địch AFF Cup&quot;](https://dantri.com.vn/the-thao/hlv-thai-lan-doi-tuyen-viet-nam-xung-dang-vo-dich-aff-cup-20250105222205933.htm) - 15:54 05/01/2025
 - 🌝 [HLV Kim Sang Sik: &quot;Chiến thắng trước tuyển Thái Lan mang ý nghĩa lịch sử&quot;](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-chien-thang-truoc-tuyen-thai-lan-mang-y-nghia-lich-su-20250105221748557.htm) - 15:52 05/01/2025
