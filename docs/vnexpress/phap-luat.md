@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Tăng gấp 10 lần mức phạt với người đi xe máy lên vỉa hè](https://vnexpress.net/tang-gap-10-lan-muc-phat-voi-nguoi-di-xe-may-len-via-he-4835735.html) - 09:37 05/01/2025
+- 😎 [Tăng 10 lần mức phạt với người đi xe máy lên vỉa hè, 4-6 triệu đồng](https://vnexpress.net/tang-10-lan-muc-phat-voi-nguoi-di-xe-may-len-via-he-den-6-trieu-dong-4835735.html) - 09:37 05/01/2025
 - 🥰 [Giả làm &#39;cán bộ tỉnh&#39; để lừa tiền](https://vnexpress.net/gia-lam-can-bo-tinh-de-lua-tien-4835717.html) - 07:10 05/01/2025
 - 🎓 [Ôtô phải có thiết bị an toàn khi chở trẻ em, từ năm 2026](https://vnexpress.net/oto-phai-co-thiet-bi-an-toan-khi-cho-tre-em-tu-nam-2026-4834677.html) - 05:30 05/01/2025
 - 🤓 [Án mạng trong cơ sở cai nghiện](https://vnexpress.net/an-mang-trong-co-so-cai-nghien-4835683.html) - 05:08 05/01/2025
