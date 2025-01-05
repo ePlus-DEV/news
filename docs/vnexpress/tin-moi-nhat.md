@@ -4,13 +4,13 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Thái Lan - Việt Nam: CĐV chờ vào sân từ 15h](https://vnexpress.net/truc-tiep-tran-thai-lan-vs-viet-nam-tai-luot-ve-chung-ket-asean-cup-2024-4835764.html) - 10:00 05/01/2025
+- 🎬 [Thái Lan - Việt Nam: CĐV vào sân từ 17h](https://vnexpress.net/truc-tiep-tran-thai-lan-vs-viet-nam-tai-luot-ve-chung-ket-asean-cup-2024-4835764.html) - 10:00 05/01/2025
 - 🐎 [&#39;Phạt nguội 5 triệu đồng tất cả những người vượt đèn đỏ&#39;](https://vnexpress.net/phat-nguoi-5-trieu-dong-tat-ca-nhung-nguoi-vuot-den-do-4835637.html) - 10:00 05/01/2025
 - 🦍 [Anh mong tìm được người cùng hoàn cảnh và cố gắng](https://vnexpress.net/anh-mong-tim-duoc-nguoi-cung-hoan-canh-va-co-gang-4835623.html) - 10:00 05/01/2025
 - 🏊 [Muốn vào tập đoàn lớn nên thi IELTS hay TOEIC?](https://vnexpress.net/muon-vao-tap-doan-lon-nen-thi-ielts-hay-toeic-4835488.html) - 10:00 05/01/2025
 - 🎊 [Điểm tin 17h: Ôtô phải có thiết bị an toàn khi chở trẻ em, từ năm 2026 | Miền Bắc sắp chuyển rét ẩm](https://vnexpress.net/diem-tin-17h-oto-phai-co-thiet-bi-an-toan-khi-cho-tre-em-tu-nam-2026-mien-bac-sap-chuyen-ret-am-4835768.html) - 10:00 05/01/2025
 - 🎃 [Hàng nghìn người Hàn đội mưa tuyết biểu tình vì ông Yoon](https://vnexpress.net/hang-nghin-nguoi-han-doi-mua-tuyet-bieu-tinh-vi-ong-yoon-4835741.html) - 09:47 05/01/2025
-- 🧰 [Tăng gấp 10 lần mức phạt với người đi xe máy lên vỉa hè](https://vnexpress.net/tang-gap-10-lan-muc-phat-voi-nguoi-di-xe-may-len-via-he-4835735.html) - 09:37 05/01/2025
+- 🧰 [Tăng 10 lần mức phạt với người đi xe máy lên vỉa hè, 4-6 triệu đồng](https://vnexpress.net/tang-10-lan-muc-phat-voi-nguoi-di-xe-may-len-via-he-den-6-trieu-dong-4835735.html) - 09:37 05/01/2025
 - 🔭 [Chiến thuật phân tán binh lực của Nga ở Ukraine](https://vnexpress.net/chien-thuat-phan-tan-binh-luc-cua-nga-o-ukraine-4834846.html) - 09:32 05/01/2025
 - 🫶 [Hợp long cầu vượt sông Hậu kết nối Trà Vinh với Sóc Trăng](https://vnexpress.net/hop-long-cau-vuot-song-hau-ket-noi-tra-vinh-voi-soc-trang-4835731.html) - 09:20 05/01/2025
 - 🪜 [Ôtô suýt bị xe container bóp nghẹt](https://vnexpress.net/oto-suyt-bi-xe-container-bop-nghet-4835752.html) - 09:10 05/01/2025
