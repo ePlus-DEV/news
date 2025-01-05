@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Xuân Son chấn thương nặng, bỏ dở trận chung kết ASEAN Cup](https://vnexpress.net/xuan-son-chan-thuong-nang-bo-do-tran-chung-ket-asean-cup-4835803.html) - 13:57 05/01/2025
 - 🦩 [CĐV nữ Thái Lan và Việt Nam &#39;đọ&#39; sắc tại chung kết ASEAN Cup 2024](https://vnexpress.net/cdv-nu-thai-lan-va-viet-nam-do-sac-tai-chung-ket-asean-cup-2024-4835785.html) - 12:17 05/01/2025
-- 🧰 [Thái Lan 2-1 Việt Nam &lpar;H2&rpar;: Supachok ghi bàn tranh cãi](https://vnexpress.net/truc-tiep-tran-thai-lan-vs-viet-nam-tai-luot-ve-chung-ket-asean-cup-2024-4835764.html) - 10:00 05/01/2025
+- 🧰 [Thái Lan 2-2 Việt Nam &lpar;H2&rpar;: Những phút cuối nghẹt thở](https://vnexpress.net/truc-tiep-tran-thai-lan-vs-viet-nam-tai-luot-ve-chung-ket-asean-cup-2024-4835764.html) - 10:00 05/01/2025
 - 🤗 [Chuyên gia Đoàn Minh Xương: &#39;Việt Nam cần vào sân với tâm lý đang thắng&#39;](https://vnexpress.net/chuyen-gia-doan-minh-xuong-viet-nam-can-vao-san-voi-tam-ly-dang-thang-4835688.html) - 07:08 05/01/2025
 - 🥳 [Ronaldo vắng mặt ở đội hình tiêu biểu Saudi Pro League 2024](https://vnexpress.net/ronaldo-vang-mat-o-doi-hinh-tieu-bieu-saudi-pro-league-2024-4835694.html) - 06:53 05/01/2025
 - 🦣 [Việt Nam – Thái Lan: Viết tiếp lịch sử ở Rajamangala](https://vnexpress.net/viet-nam-thai-lan-viet-tiep-lich-su-o-rajamangala-4835728.html) - 05:30 05/01/2025
