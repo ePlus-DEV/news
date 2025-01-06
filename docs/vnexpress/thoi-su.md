@@ -4,63 +4,63 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [&#39;Tách bạch quản lý và vốn nhà nước tại doanh nghiệp&#39;](https://vnexpress.net/tach-bach-quan-ly-va-von-nha-nuoc-tai-doanh-nghiep-4836288.html) - 17:58 06/01/2025
-- 🤓 [Tòa nhà Pháp hơn 100 tuổi &#39;lột xác&#39; thành bảo tàng](https://vnexpress.net/toa-nha-phap-hon-100-tuoi-lot-xac-thanh-bao-tang-4836234.html) - 17:58 06/01/2025
-- ⚗️ [Vụ trưởng Pháp luật Văn phòng Chính phủ làm trợ lý Thủ tướng](https://vnexpress.net/vu-truong-phap-luat-van-phong-chinh-phu-lam-tro-ly-thu-tuong-4836295.html) - 16:29 06/01/2025
-- 🌊 [Được trả lại tiền sau hai năm chuyển khoản nhầm](https://vnexpress.net/duoc-tra-lai-tien-sau-hai-nam-chuyen-khoan-nham-4836277.html) - 15:15 06/01/2025
-- 🎓 [Tài xế lái xe cứu thương đi &#39;bão&#39; bị phạt hơn 60 triệu đồng](https://vnexpress.net/tai-xe-lai-xe-cuu-thuong-di-bao-bi-phat-hon-60-trieu-dong-4836229.html) - 10:39 06/01/2025
-- 🔥 [Thủ tướng: Bóng đá Việt Nam cần nỗ lực vô địch châu Á, dự World Cup](https://vnexpress.net/thu-tuong-bong-da-viet-nam-can-no-luc-vo-dich-chau-a-du-world-cup-4836227.html) - 10:28 06/01/2025
-- 🦏 [&#39;Đủ nguồn lực giải quyết chế độ thất nghiệp cho viên chức khi tinh gọn bộ máy&#39;](https://vnexpress.net/du-nguon-luc-giai-quyet-che-do-that-nghiep-cho-vien-chuc-khi-tinh-gon-bo-may-4836179.html) - 10:15 06/01/2025
-- 👺 [Thu nhập bình quân lao động quý IV/2024 tăng lên 8,2 triệu đồng](https://vnexpress.net/thu-nhap-binh-quan-lao-dong-quy-iv-2024-tang-len-8-2-trieu-dong-4836175.html) - 09:39 06/01/2025
-- 🧑‍🏫 [Xuân Son và 5 cầu thủ nhận Huân chương Lao động](https://vnexpress.net/xuan-son-va-5-cau-thu-nhan-huan-chuong-lao-dong-4836169.html) - 08:25 06/01/2025
-- 🚦 [Hành khách đi tàu tăng kỷ lục](https://vnexpress.net/hanh-khach-di-tau-tang-ky-luc-4836123.html) - 07:49 06/01/2025
-- 🎉 [Lăng chúa Nguyễn Phúc Khoát bị đào bới](https://vnexpress.net/lang-chua-nguyen-phuc-khoat-bi-dao-boi-4836072.html) - 07:10 06/01/2025
-- 🦒 [Người dân chào đón đội tuyển Việt Nam](https://vnexpress.net/nguoi-dan-chao-don-doi-tuyen-viet-nam-4836111.html) - 07:00 06/01/2025
-- 🤗 [Ôtô giường nằm đâm xe đầu kéo, 16 người bị thương](https://vnexpress.net/oto-giuong-nam-dam-xe-dau-keo-16-nguoi-bi-thuong-4836078.html) - 05:13 06/01/2025
-- 💼 [&#39;Không để người dân bị oan khi hệ thống đèn tín hiệu trục trặc&#39;](https://vnexpress.net/khong-de-nguoi-dan-bi-oan-khi-he-thong-den-tin-hieu-truc-trac-4835994.html) - 04:35 06/01/2025
-- 🤩 [Cầu Rạch Miễu kẹt xe suốt 4 giờ](https://vnexpress.net/cau-rach-mieu-ket-xe-suot-4-gio-4835972.html) - 03:13 06/01/2025
-- 🤡 [8 nhóm tác giả giành giải A báo chí về Quốc hội và HĐND](https://vnexpress.net/8-nhom-tac-gia-gianh-giai-a-bao-chi-ve-quoc-hoi-va-hdnd-4835811.html) - 19:37 05/01/2025
-- 💯 [Bộ ngành, địa phương giảm tối thiểu 20% biên chế công chức, viên chức](https://vnexpress.net/bo-nganh-dia-phuong-giam-toi-thieu-20-bien-che-cong-chuc-vien-chuc-4835841.html) - 19:31 05/01/2025
-- 👺 [Người hâm mộ &#39;cháy&#39; suốt đêm đến sáng](https://vnexpress.net/nguoi-ham-mo-chay-suot-dem-den-sang-4835858.html) - 18:57 05/01/2025
-- 🌮 [Thủ tướng cảm ơn &#39;nỗ lực phi thường&#39; của tuyển bóng đá quốc gia Việt Nam](https://vnexpress.net/thu-tuong-cam-on-no-luc-phi-thuong-cua-tuyen-bong-da-quoc-gia-viet-nam-4835898.html) - 16:00 05/01/2025
-- 🥸 [Kỷ niệm 50 năm chiến thắng Phước Long](https://vnexpress.net/ky-niem-50-nam-chien-thang-phuoc-long-4835836.html) - 16:00 05/01/2025
-- 🐻 [Hàng triệu người xuống đường mừng Việt Nam vô địch](https://vnexpress.net/hang-trieu-nguoi-xuong-duong-mung-viet-nam-vo-dich-4835808.html) - 15:15 05/01/2025
-- 👀 [Khoảnh khắc CĐV reo hò khi Việt Nam thắng Thái Lan](https://vnexpress.net/khoanh-khac-cdv-reo-ho-khi-viet-nam-thang-thai-lan-4835789.html) - 13:53 05/01/2025
-- 🤔 [Hợp long cầu vượt sông Hậu kết nối Trà Vinh với Sóc Trăng](https://vnexpress.net/hop-long-cau-vuot-song-hau-ket-noi-tra-vinh-voi-soc-trang-4835731.html) - 09:20 05/01/2025
-- 🕯 [Chặn xe, đập vỡ kính ôtô sau mâu thuẫn trên đường ở TP HCM](https://vnexpress.net/chan-xe-dap-vo-kinh-oto-sau-mau-thuan-tren-duong-o-tp-hcm-4835709.html) - 08:19 05/01/2025
-- 😺 [Nhân viên cứu hộ mất tích sau nỗ lực cứu du khách](https://vnexpress.net/nhan-vien-cuu-ho-mat-tich-sau-no-luc-cuu-du-khach-4835729.html) - 07:50 05/01/2025
-- 🦆 [Diện mạo đô thị dọc metro Bến Thành - Suối Tiên thay đổi sau 10 năm](https://vnexpress.net/dien-mao-do-thi-doc-metro-ben-thanh-suoi-tien-thay-doi-sau-10-nam-4835580.html) - 07:00 05/01/2025
-- 🧰 [Miền Bắc sắp chuyển rét ẩm](https://vnexpress.net/mien-bac-sap-chuyen-ret-am-4835715.html) - 06:25 05/01/2025
-- 🦍 [&#39;Thay áo mới&#39; cho 12 trường học ở Hà Giang](https://vnexpress.net/thay-ao-moi-cho-12-truong-hoc-o-ha-giang-4835705.html) - 05:13 05/01/2025
-- 🧰 [TP HCM sẽ có tuyến metro từ nội đô đến Cần Giờ](https://vnexpress.net/tp-hcm-se-co-tuyen-metro-tu-noi-do-den-can-gio-4835697.html) - 04:45 05/01/2025
-- 💃 [Nhà trong khu dân cư ở TP HCM cháy ngùn ngụt](https://vnexpress.net/nha-trong-khu-dan-cu-o-tp-hcm-chay-ngun-ngut-4835672.html) - 02:45 05/01/2025
-- 🧰 [Băng giá bao phủ đỉnh Fansipan](https://vnexpress.net/bang-gia-bao-phu-dinh-fansipan-4835658.html) - 02:01 05/01/2025
-- 🚀 [Metro Bến Thành - Suối Tiên được cấp điện thế nào](https://vnexpress.net/metro-ben-thanh-suoi-tien-duoc-cap-dien-the-nao-4835565.html) - 22:00 04/01/2025
-- 🎊 [Giá vé máy bay Tết Ất Tỵ tăng trung bình 20%](https://vnexpress.net/gia-ve-may-bay-tet-at-ty-tang-trung-binh-20-4835604.html) - 17:57 04/01/2025
-- 🤭 [Hai mẹ con tử nạn dưới khe nước](https://vnexpress.net/hai-me-con-tu-nan-duoi-khe-nuoc-4835581.html) - 15:16 04/01/2025
-- 🤗 [Kết nối dữ liệu hành trình ôtô về Cục CSGT trước 25/1](https://vnexpress.net/ket-noi-du-lieu-hanh-trinh-oto-ve-cuc-csgt-truoc-25-1-4835554.html) - 13:50 04/01/2025
-- 🌈 [Thủ tướng: &#39;Cần cơ chế thu hút 5 triệu tỷ đồng đầu tư cho TP HCM&#39;](https://vnexpress.net/thu-tuong-can-co-che-thu-hut-5-trieu-ty-dong-dau-tu-cho-tp-hcm-4835550.html) - 11:18 04/01/2025
-- 🦣 [Điều trực thăng cấp cứu quân nhân bị viêm màng não](https://vnexpress.net/dieu-truc-thang-cap-cuu-quan-nhan-bi-viem-mang-nao-4835494.html) - 06:42 04/01/2025
-- 🎡 [Chở người trên nóc xe, tài xế bị trừ 6 điểm bằng lái](https://vnexpress.net/cho-nguoi-tren-noc-xe-tai-xe-bi-tru-6-diem-bang-lai-4835476.html) - 05:47 04/01/2025
-- 🦏 [Đâm vào vòng xuyến, hai người tử vong](https://vnexpress.net/dam-vao-vong-xuyen-hai-nguoi-tu-vong-4835470.html) - 05:30 04/01/2025
-- 🎊 [Cháy cửa hàng xe điện, một người tử vong](https://vnexpress.net/chay-cua-hang-xe-dien-mot-nguoi-tu-vong-4835426.html) - 03:23 04/01/2025
-- 🫶 [Cục CSGT: &#39;Sẽ sớm có cơ chế trả tiền cho người cung cấp thông tin vi phạm&#39;](https://vnexpress.net/cuc-csgt-se-som-co-co-che-tra-tien-cho-nguoi-cung-cap-thong-tin-vi-pham-4835402.html) - 02:59 04/01/2025
-- 🤔 [Dự án xi măng 5.000 tỷ đồng bỏ hoang gần hai thập kỷ](https://vnexpress.net/du-an-xi-mang-5-000-ty-dong-bo-hoang-gan-hai-thap-ky-4834664.html) - 17:00 03/01/2025
-- 🤠 [Nổ tàu chở dầu, 3 người bị thương](https://vnexpress.net/no-tau-cho-dau-3-nguoi-bi-thuong-4835243.html) - 09:20 03/01/2025
-- 🌜 [Cứu người phụ nữ mắc kẹt một ngày dưới giếng sâu 20 m](https://vnexpress.net/cuu-nguoi-phu-nu-mac-ket-mot-ngay-duoi-gieng-sau-20-m-4835209.html) - 09:17 03/01/2025
-- 🕯 [Bộ nữ trang dâng cúng nữ tướng Lê Chân trở thành bảo vật quốc gia](https://vnexpress.net/bo-nu-trang-dang-cung-nu-tuong-le-chan-tro-thanh-bao-vat-quoc-gia-4834981.html) - 08:15 03/01/2025
-- 🤔 [Khánh thành bảo tàng Tôn Đức Thắng](https://vnexpress.net/khanh-thanh-bao-tang-ton-duc-thang-4835176.html) - 07:57 03/01/2025
-- 🏊 [Nghệ An có tân Chủ tịch tỉnh](https://vnexpress.net/nghe-an-co-tan-chu-tich-tinh-4835025.html) - 07:52 03/01/2025
-- 🌮 [Hơn 1.600 tỷ đồng mở rộng đoạn quốc lộ nối cầu Rạch Miễu](https://vnexpress.net/hon-1-600-ty-dong-mo-rong-doan-quoc-lo-noi-cau-rach-mieu-4835145.html) - 05:48 03/01/2025
-- 🫣 [Ôtô tải được chạy trên đèo Prenn cửa ngõ Đà Lạt](https://vnexpress.net/oto-tai-duoc-chay-tren-deo-prenn-cua-ngo-da-lat-4835117.html) - 05:04 03/01/2025
-- ⚗️ [Hà Nội ô nhiễm không khí diện rộng, mức xấu](https://vnexpress.net/ha-noi-o-nhiem-khong-khi-dien-rong-muc-xau-4835061.html) - 03:41 03/01/2025
-- 🌜 [Đề xuất 4.800 tỷ đồng đầu tư trạm bơm nước cho ba tỉnh miền Tây](https://vnexpress.net/de-xuat-4-800-ty-dong-dau-tu-tram-bom-nuoc-cho-ba-tinh-mien-tay-4834928.html) - 02:34 03/01/2025
-- 🌁 [33 bảo vật quốc gia được công nhận](https://vnexpress.net/33-bao-vat-quoc-gia-duoc-cong-nhan-4834993.html) - 02:19 03/01/2025
-- 🐲 [Cách đi metro Bến Thành - Suối Tiên khi bắt đầu thu phí](https://vnexpress.net/cach-di-metro-ben-thanh-suoi-tien-khi-bat-dau-thu-phi-4834500.html) - 23:00 02/01/2025
-- ⛽️ [5 huyện TP HCM chưa lên thành phố trước năm 2030](https://vnexpress.net/5-huyen-tp-hcm-chua-len-thanh-pho-truoc-nam-2030-4834903.html) - 18:36 02/01/2025
-- 🗽 [Đêm không ngủ của người hâm mộ](https://vnexpress.net/dem-khong-ngu-cua-nguoi-ham-mo-4834919.html) - 18:06 02/01/2025
-- 🔥 [Phòng khám 4.500 m2 bỏ hoang](https://vnexpress.net/phong-kham-4-500-m2-bo-hoang-4834178.html) - 17:00 02/01/2025
-- 💯 [Hủy hai chuyến bay ở Lâm Đồng do sương mù](https://vnexpress.net/huy-hai-chuyen-bay-o-lam-dong-do-suong-mu-4834942.html) - 16:36 02/01/2025
-- 🦆 [Người dân xuống đường mừng Việt Nam thắng Thái Lan](https://vnexpress.net/nguoi-dan-xuong-duong-mung-viet-nam-thang-thai-lan-4834916.html) - 15:15 02/01/2025
-- 🫣 [Cục CSGT: &#39;Không xử phạt tại nút giao có đèn tín hiệu lỗi&#39;](https://vnexpress.net/cuc-csgt-khong-xu-phat-tai-nut-giao-co-den-tin-hieu-loi-4834883.html) - 12:27 02/01/2025
-- 🤡 [Xe khách lật ngang đường, 3 người bị thương](https://vnexpress.net/xe-khach-lat-ngang-duong-3-nguoi-bi-thuong-4834884.html) - 11:21 02/01/2025<!-- vnexpress-thoi-su:END -->
+- 🦒 [Lợp mái nhà ga sân bay Long Thành](https://vnexpress.net/lop-mai-nha-ga-san-bay-long-thanh-4835367.html) - 22:00 06/01/2025
+- 🤓 [&#39;Tách bạch quản lý và vốn nhà nước tại doanh nghiệp&#39;](https://vnexpress.net/tach-bach-quan-ly-va-von-nha-nuoc-tai-doanh-nghiep-4836288.html) - 17:58 06/01/2025
+- ⚗️ [Tòa nhà Pháp hơn 100 tuổi &#39;lột xác&#39; thành bảo tàng](https://vnexpress.net/toa-nha-phap-hon-100-tuoi-lot-xac-thanh-bao-tang-4836234.html) - 17:58 06/01/2025
+- 🌊 [Vụ trưởng Pháp luật Văn phòng Chính phủ làm trợ lý Thủ tướng](https://vnexpress.net/vu-truong-phap-luat-van-phong-chinh-phu-lam-tro-ly-thu-tuong-4836295.html) - 16:29 06/01/2025
+- 🎓 [Được trả lại tiền sau hai năm chuyển khoản nhầm](https://vnexpress.net/duoc-tra-lai-tien-sau-hai-nam-chuyen-khoan-nham-4836277.html) - 15:15 06/01/2025
+- 🔥 [Tài xế lái xe cứu thương đi &#39;bão&#39; bị phạt hơn 60 triệu đồng](https://vnexpress.net/tai-xe-lai-xe-cuu-thuong-di-bao-bi-phat-hon-60-trieu-dong-4836229.html) - 10:39 06/01/2025
+- 🦏 [Thủ tướng: Bóng đá Việt Nam cần nỗ lực vô địch châu Á, dự World Cup](https://vnexpress.net/thu-tuong-bong-da-viet-nam-can-no-luc-vo-dich-chau-a-du-world-cup-4836227.html) - 10:28 06/01/2025
+- 👺 [&#39;Đủ nguồn lực giải quyết chế độ thất nghiệp cho viên chức khi tinh gọn bộ máy&#39;](https://vnexpress.net/du-nguon-luc-giai-quyet-che-do-that-nghiep-cho-vien-chuc-khi-tinh-gon-bo-may-4836179.html) - 10:15 06/01/2025
+- 🧑‍🏫 [Thu nhập bình quân lao động quý IV/2024 tăng lên 8,2 triệu đồng](https://vnexpress.net/thu-nhap-binh-quan-lao-dong-quy-iv-2024-tang-len-8-2-trieu-dong-4836175.html) - 09:39 06/01/2025
+- 🚦 [Xuân Son và 5 cầu thủ nhận Huân chương Lao động](https://vnexpress.net/xuan-son-va-5-cau-thu-nhan-huan-chuong-lao-dong-4836169.html) - 08:25 06/01/2025
+- 🎉 [Hành khách đi tàu tăng kỷ lục](https://vnexpress.net/hanh-khach-di-tau-tang-ky-luc-4836123.html) - 07:49 06/01/2025
+- 🦒 [Lăng chúa Nguyễn Phúc Khoát bị đào bới](https://vnexpress.net/lang-chua-nguyen-phuc-khoat-bi-dao-boi-4836072.html) - 07:10 06/01/2025
+- 🤗 [Người dân chào đón đội tuyển Việt Nam](https://vnexpress.net/nguoi-dan-chao-don-doi-tuyen-viet-nam-4836111.html) - 07:00 06/01/2025
+- 💼 [Ôtô giường nằm đâm xe đầu kéo, 16 người bị thương](https://vnexpress.net/oto-giuong-nam-dam-xe-dau-keo-16-nguoi-bi-thuong-4836078.html) - 05:13 06/01/2025
+- 🤩 [&#39;Không để người dân bị oan khi hệ thống đèn tín hiệu trục trặc&#39;](https://vnexpress.net/khong-de-nguoi-dan-bi-oan-khi-he-thong-den-tin-hieu-truc-trac-4835994.html) - 04:35 06/01/2025
+- 🤡 [Cầu Rạch Miễu kẹt xe suốt 4 giờ](https://vnexpress.net/cau-rach-mieu-ket-xe-suot-4-gio-4835972.html) - 03:13 06/01/2025
+- 💯 [8 nhóm tác giả giành giải A báo chí về Quốc hội và HĐND](https://vnexpress.net/8-nhom-tac-gia-gianh-giai-a-bao-chi-ve-quoc-hoi-va-hdnd-4835811.html) - 19:37 05/01/2025
+- 👺 [Bộ ngành, địa phương giảm tối thiểu 20% biên chế công chức, viên chức](https://vnexpress.net/bo-nganh-dia-phuong-giam-toi-thieu-20-bien-che-cong-chuc-vien-chuc-4835841.html) - 19:31 05/01/2025
+- 🌮 [Người hâm mộ &#39;cháy&#39; suốt đêm đến sáng](https://vnexpress.net/nguoi-ham-mo-chay-suot-dem-den-sang-4835858.html) - 18:57 05/01/2025
+- 🥸 [Thủ tướng cảm ơn &#39;nỗ lực phi thường&#39; của tuyển bóng đá quốc gia Việt Nam](https://vnexpress.net/thu-tuong-cam-on-no-luc-phi-thuong-cua-tuyen-bong-da-quoc-gia-viet-nam-4835898.html) - 16:00 05/01/2025
+- 🐻 [Kỷ niệm 50 năm chiến thắng Phước Long](https://vnexpress.net/ky-niem-50-nam-chien-thang-phuoc-long-4835836.html) - 16:00 05/01/2025
+- 👀 [Hàng triệu người xuống đường mừng Việt Nam vô địch](https://vnexpress.net/hang-trieu-nguoi-xuong-duong-mung-viet-nam-vo-dich-4835808.html) - 15:15 05/01/2025
+- 🤔 [Khoảnh khắc CĐV reo hò khi Việt Nam thắng Thái Lan](https://vnexpress.net/khoanh-khac-cdv-reo-ho-khi-viet-nam-thang-thai-lan-4835789.html) - 13:53 05/01/2025
+- 🕯 [Hợp long cầu vượt sông Hậu kết nối Trà Vinh với Sóc Trăng](https://vnexpress.net/hop-long-cau-vuot-song-hau-ket-noi-tra-vinh-voi-soc-trang-4835731.html) - 09:20 05/01/2025
+- 😺 [Chặn xe, đập vỡ kính ôtô sau mâu thuẫn trên đường ở TP HCM](https://vnexpress.net/chan-xe-dap-vo-kinh-oto-sau-mau-thuan-tren-duong-o-tp-hcm-4835709.html) - 08:19 05/01/2025
+- 🦆 [Nhân viên cứu hộ mất tích sau nỗ lực cứu du khách](https://vnexpress.net/nhan-vien-cuu-ho-mat-tich-sau-no-luc-cuu-du-khach-4835729.html) - 07:50 05/01/2025
+- 🧰 [Diện mạo đô thị dọc metro Bến Thành - Suối Tiên thay đổi sau 10 năm](https://vnexpress.net/dien-mao-do-thi-doc-metro-ben-thanh-suoi-tien-thay-doi-sau-10-nam-4835580.html) - 07:00 05/01/2025
+- 🦍 [Miền Bắc sắp chuyển rét ẩm](https://vnexpress.net/mien-bac-sap-chuyen-ret-am-4835715.html) - 06:25 05/01/2025
+- 🧰 [&#39;Thay áo mới&#39; cho 12 trường học ở Hà Giang](https://vnexpress.net/thay-ao-moi-cho-12-truong-hoc-o-ha-giang-4835705.html) - 05:13 05/01/2025
+- 💃 [TP HCM sẽ có tuyến metro từ nội đô đến Cần Giờ](https://vnexpress.net/tp-hcm-se-co-tuyen-metro-tu-noi-do-den-can-gio-4835697.html) - 04:45 05/01/2025
+- 🧰 [Nhà trong khu dân cư ở TP HCM cháy ngùn ngụt](https://vnexpress.net/nha-trong-khu-dan-cu-o-tp-hcm-chay-ngun-ngut-4835672.html) - 02:45 05/01/2025
+- 🚀 [Băng giá bao phủ đỉnh Fansipan](https://vnexpress.net/bang-gia-bao-phu-dinh-fansipan-4835658.html) - 02:01 05/01/2025
+- 🎊 [Metro Bến Thành - Suối Tiên được cấp điện thế nào](https://vnexpress.net/metro-ben-thanh-suoi-tien-duoc-cap-dien-the-nao-4835565.html) - 22:00 04/01/2025
+- 🤭 [Giá vé máy bay Tết Ất Tỵ tăng trung bình 20%](https://vnexpress.net/gia-ve-may-bay-tet-at-ty-tang-trung-binh-20-4835604.html) - 17:57 04/01/2025
+- 🤗 [Hai mẹ con tử nạn dưới khe nước](https://vnexpress.net/hai-me-con-tu-nan-duoi-khe-nuoc-4835581.html) - 15:16 04/01/2025
+- 🌈 [Kết nối dữ liệu hành trình ôtô về Cục CSGT trước 25/1](https://vnexpress.net/ket-noi-du-lieu-hanh-trinh-oto-ve-cuc-csgt-truoc-25-1-4835554.html) - 13:50 04/01/2025
+- 🦣 [Thủ tướng: &#39;Cần cơ chế thu hút 5 triệu tỷ đồng đầu tư cho TP HCM&#39;](https://vnexpress.net/thu-tuong-can-co-che-thu-hut-5-trieu-ty-dong-dau-tu-cho-tp-hcm-4835550.html) - 11:18 04/01/2025
+- 🎡 [Điều trực thăng cấp cứu quân nhân bị viêm màng não](https://vnexpress.net/dieu-truc-thang-cap-cuu-quan-nhan-bi-viem-mang-nao-4835494.html) - 06:42 04/01/2025
+- 🦏 [Chở người trên nóc xe, tài xế bị trừ 6 điểm bằng lái](https://vnexpress.net/cho-nguoi-tren-noc-xe-tai-xe-bi-tru-6-diem-bang-lai-4835476.html) - 05:47 04/01/2025
+- 🎊 [Đâm vào vòng xuyến, hai người tử vong](https://vnexpress.net/dam-vao-vong-xuyen-hai-nguoi-tu-vong-4835470.html) - 05:30 04/01/2025
+- 🫶 [Cháy cửa hàng xe điện, một người tử vong](https://vnexpress.net/chay-cua-hang-xe-dien-mot-nguoi-tu-vong-4835426.html) - 03:23 04/01/2025
+- 🤔 [Cục CSGT: &#39;Sẽ sớm có cơ chế trả tiền cho người cung cấp thông tin vi phạm&#39;](https://vnexpress.net/cuc-csgt-se-som-co-co-che-tra-tien-cho-nguoi-cung-cap-thong-tin-vi-pham-4835402.html) - 02:59 04/01/2025
+- 🤠 [Dự án xi măng 5.000 tỷ đồng bỏ hoang gần hai thập kỷ](https://vnexpress.net/du-an-xi-mang-5-000-ty-dong-bo-hoang-gan-hai-thap-ky-4834664.html) - 17:00 03/01/2025
+- 🌜 [Nổ tàu chở dầu, 3 người bị thương](https://vnexpress.net/no-tau-cho-dau-3-nguoi-bi-thuong-4835243.html) - 09:20 03/01/2025
+- 🕯 [Cứu người phụ nữ mắc kẹt một ngày dưới giếng sâu 20 m](https://vnexpress.net/cuu-nguoi-phu-nu-mac-ket-mot-ngay-duoi-gieng-sau-20-m-4835209.html) - 09:17 03/01/2025
+- 🤔 [Bộ nữ trang dâng cúng nữ tướng Lê Chân trở thành bảo vật quốc gia](https://vnexpress.net/bo-nu-trang-dang-cung-nu-tuong-le-chan-tro-thanh-bao-vat-quoc-gia-4834981.html) - 08:15 03/01/2025
+- 🏊 [Khánh thành bảo tàng Tôn Đức Thắng](https://vnexpress.net/khanh-thanh-bao-tang-ton-duc-thang-4835176.html) - 07:57 03/01/2025
+- 🌮 [Nghệ An có tân Chủ tịch tỉnh](https://vnexpress.net/nghe-an-co-tan-chu-tich-tinh-4835025.html) - 07:52 03/01/2025
+- 🫣 [Hơn 1.600 tỷ đồng mở rộng đoạn quốc lộ nối cầu Rạch Miễu](https://vnexpress.net/hon-1-600-ty-dong-mo-rong-doan-quoc-lo-noi-cau-rach-mieu-4835145.html) - 05:48 03/01/2025
+- ⚗️ [Ôtô tải được chạy trên đèo Prenn cửa ngõ Đà Lạt](https://vnexpress.net/oto-tai-duoc-chay-tren-deo-prenn-cua-ngo-da-lat-4835117.html) - 05:04 03/01/2025
+- 🌜 [Hà Nội ô nhiễm không khí diện rộng, mức xấu](https://vnexpress.net/ha-noi-o-nhiem-khong-khi-dien-rong-muc-xau-4835061.html) - 03:41 03/01/2025
+- 🌁 [Đề xuất 4.800 tỷ đồng đầu tư trạm bơm nước cho ba tỉnh miền Tây](https://vnexpress.net/de-xuat-4-800-ty-dong-dau-tu-tram-bom-nuoc-cho-ba-tinh-mien-tay-4834928.html) - 02:34 03/01/2025
+- 🐲 [33 bảo vật quốc gia được công nhận](https://vnexpress.net/33-bao-vat-quoc-gia-duoc-cong-nhan-4834993.html) - 02:19 03/01/2025
+- ⛽️ [Cách đi metro Bến Thành - Suối Tiên khi bắt đầu thu phí](https://vnexpress.net/cach-di-metro-ben-thanh-suoi-tien-khi-bat-dau-thu-phi-4834500.html) - 23:00 02/01/2025
+- 🗽 [5 huyện TP HCM chưa lên thành phố trước năm 2030](https://vnexpress.net/5-huyen-tp-hcm-chua-len-thanh-pho-truoc-nam-2030-4834903.html) - 18:36 02/01/2025
+- 🔥 [Đêm không ngủ của người hâm mộ](https://vnexpress.net/dem-khong-ngu-cua-nguoi-ham-mo-4834919.html) - 18:06 02/01/2025
+- 💯 [Phòng khám 4.500 m2 bỏ hoang](https://vnexpress.net/phong-kham-4-500-m2-bo-hoang-4834178.html) - 17:00 02/01/2025
+- 🦆 [Hủy hai chuyến bay ở Lâm Đồng do sương mù](https://vnexpress.net/huy-hai-chuyen-bay-o-lam-dong-do-suong-mu-4834942.html) - 16:36 02/01/2025
+- 🫣 [Người dân xuống đường mừng Việt Nam thắng Thái Lan](https://vnexpress.net/nguoi-dan-xuong-duong-mung-viet-nam-thang-thai-lan-4834916.html) - 15:15 02/01/2025
+- 🤡 [Cục CSGT: &#39;Không xử phạt tại nút giao có đèn tín hiệu lỗi&#39;](https://vnexpress.net/cuc-csgt-khong-xu-phat-tai-nut-giao-co-den-tin-hieu-loi-4834883.html) - 12:27 02/01/2025<!-- vnexpress-thoi-su:END -->
