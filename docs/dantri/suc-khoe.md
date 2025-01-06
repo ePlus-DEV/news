@@ -4,16 +4,16 @@ sidebar_position: 23
 ---
 
 <!-- dantri-suc-khoe:START -->
-- 🤔 [Tự khám trái tuyến cấp cơ bản, người bệnh có được hưởng 100% BHYT?](https://dantri.com.vn/suc-khoe/tu-kham-trai-tuyen-cap-co-ban-nguoi-benh-co-duoc-huong-100-bhyt-20250106102059683.htm) - 04:48 06/01/2025
-- 🚦 [Chấn thương của Nguyễn Xuân Son điều trị thế nào, có trở lại được đỉnh cao?](https://dantri.com.vn/suc-khoe/chan-thuong-cua-nguyen-xuan-son-dieu-tri-the-nao-co-tro-lai-duoc-dinh-cao-20250106082224693.htm) - 01:29 06/01/2025
-- 🤖 [Người phụ nữ suýt mất chân vì đắp lá thuốc thầy lang](https://dantri.com.vn/suc-khoe/nguoi-phu-nu-suyt-mat-chan-vi-dap-la-thuoc-thay-lang-20250105111548917.htm) - 00:28 06/01/2025
-- 🐻 [Phòng khám thẩm mỹ ở TPHCM bị xử phạt 287 triệu đồng vì hàng loạt sai phạm](https://dantri.com.vn/suc-khoe/phong-kham-tham-my-o-tphcm-bi-xu-phat-287-trieu-dong-vi-hang-loat-sai-pham-20250106010027486.htm) - 00:08 06/01/2025
-- 🌏 [Một năm Hà Nội dồn lực &quot;vá&quot; khoảng trống vaccine hậu Covid-19](https://dantri.com.vn/suc-khoe/mot-nam-ha-noi-don-luc-va-khoang-trong-vaccine-hau-covid-19-20250103193733119.htm) - 23:17 05/01/2025
-- 👺 [Thực hư thông tin bùng phát dịch bệnh mới ở Trung Quốc](https://dantri.com.vn/suc-khoe/thuc-hu-thong-tin-bung-phat-dich-benh-moi-o-trung-quoc-20250105155507532.htm) - 09:12 05/01/2025
-- 🎬 [Cán bộ biên phòng làm &quot;bà đỡ&quot;, giúp sản phụ sinh con trên xe công vụ](https://dantri.com.vn/suc-khoe/can-bo-bien-phong-lam-ba-do-giup-san-phu-sinh-con-tren-xe-cong-vu-20250105085431241.htm) - 02:45 05/01/2025
-- 🌏 [Nghẹn ngào lời cuối của người cựu binh giúp 2 người mù nhìn thấy ánh sáng](https://dantri.com.vn/suc-khoe/nghen-ngao-loi-cuoi-cua-nguoi-cuu-binh-giup-2-nguoi-mu-nhin-thay-anh-sang-20250103165412969.htm) - 00:58 05/01/2025
-- 🐵 [Đi bộ bao nhiêu bước mỗi ngày là đủ?](https://dantri.com.vn/suc-khoe/di-bo-bao-nhieu-buoc-moi-ngay-la-du-20250102171815909.htm) - 00:43 05/01/2025
-- 👨‍🏫 [Sắp diễn ra tọa đàm về đột quỵ và nguy cơ tim mạch trong thể thao](https://dantri.com.vn/suc-khoe/sap-dien-ra-toa-dam-ve-dot-quy-va-nguy-co-tim-mach-trong-the-thao-20241230091738294.htm) - 09:50 04/01/2025
+- 🤔 [Tọa đàm về đột quỵ và nguy cơ tim mạch trong thể thao](https://dantri.com.vn/suc-khoe/toa-dam-ve-dot-quy-va-nguy-co-tim-mach-trong-the-thao-20241230091738294.htm) - 06:13 06/01/2025
+- 🚦 [Tự khám trái tuyến cấp cơ bản, người bệnh có được hưởng 100% BHYT?](https://dantri.com.vn/suc-khoe/tu-kham-trai-tuyen-cap-co-ban-nguoi-benh-co-duoc-huong-100-bhyt-20250106102059683.htm) - 04:48 06/01/2025
+- 🤖 [Chấn thương của Nguyễn Xuân Son điều trị thế nào, có trở lại được đỉnh cao?](https://dantri.com.vn/suc-khoe/chan-thuong-cua-nguyen-xuan-son-dieu-tri-the-nao-co-tro-lai-duoc-dinh-cao-20250106082224693.htm) - 01:29 06/01/2025
+- 🐻 [Người phụ nữ suýt mất chân vì đắp lá thuốc thầy lang](https://dantri.com.vn/suc-khoe/nguoi-phu-nu-suyt-mat-chan-vi-dap-la-thuoc-thay-lang-20250105111548917.htm) - 00:28 06/01/2025
+- 🌏 [Phòng khám thẩm mỹ ở TPHCM bị xử phạt 287 triệu đồng vì hàng loạt sai phạm](https://dantri.com.vn/suc-khoe/phong-kham-tham-my-o-tphcm-bi-xu-phat-287-trieu-dong-vi-hang-loat-sai-pham-20250106010027486.htm) - 00:08 06/01/2025
+- 👺 [Một năm Hà Nội dồn lực &quot;vá&quot; khoảng trống vaccine hậu Covid-19](https://dantri.com.vn/suc-khoe/mot-nam-ha-noi-don-luc-va-khoang-trong-vaccine-hau-covid-19-20250103193733119.htm) - 23:17 05/01/2025
+- 🎬 [Thực hư thông tin bùng phát dịch bệnh mới ở Trung Quốc](https://dantri.com.vn/suc-khoe/thuc-hu-thong-tin-bung-phat-dich-benh-moi-o-trung-quoc-20250105155507532.htm) - 09:12 05/01/2025
+- 🌏 [Cán bộ biên phòng làm &quot;bà đỡ&quot;, giúp sản phụ sinh con trên xe công vụ](https://dantri.com.vn/suc-khoe/can-bo-bien-phong-lam-ba-do-giup-san-phu-sinh-con-tren-xe-cong-vu-20250105085431241.htm) - 02:45 05/01/2025
+- 🐵 [Nghẹn ngào lời cuối của người cựu binh giúp 2 người mù nhìn thấy ánh sáng](https://dantri.com.vn/suc-khoe/nghen-ngao-loi-cuoi-cua-nguoi-cuu-binh-giup-2-nguoi-mu-nhin-thay-anh-sang-20250103165412969.htm) - 00:58 05/01/2025
+- 👨‍🏫 [Đi bộ bao nhiêu bước mỗi ngày là đủ?](https://dantri.com.vn/suc-khoe/di-bo-bao-nhieu-buoc-moi-ngay-la-du-20250102171815909.htm) - 00:43 05/01/2025
 - 🤗 [Vinamilk tạo sữa công thức có nhiều HMO cho trẻ em](https://dantri.com.vn/suc-khoe/vinamilk-tao-sua-cong-thuc-co-nhieu-hmo-cho-tre-em-20250104123633347.htm) - 08:00 04/01/2025
 - 🫶 [Giảm cân đón Tết: Cảnh giác spa &quot;đểu&quot; và các loại kẹo, thuốc trôi nổi](https://dantri.com.vn/suc-khoe/giam-can-don-tet-canh-giac-spa-deu-va-cac-loai-keo-thuoc-troi-noi-20250104102705142.htm) - 03:56 04/01/2025
 - 🙉 [Vinmec Nha Trang chào đón &quot;em bé ống nghiệm&quot; đầu tiên của viện](https://dantri.com.vn/suc-khoe/vinmec-nha-trang-chao-don-em-be-ong-nghiem-dau-tien-cua-vien-20250104084950227.htm) - 02:04 04/01/2025
