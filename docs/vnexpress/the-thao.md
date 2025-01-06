@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Indonesia bổ nhiệm cựu danh thủ Hà Lan](https://vnexpress.net/indonesia-bo-nhiem-cuu-danh-thu-ha-lan-4836254.html) - 11:33 06/01/2025
+- 🪜 [Indonesia bổ nhiệm cựu danh thủ Hà Lan làm HLV](https://vnexpress.net/indonesia-bo-nhiem-cuu-danh-thu-ha-lan-lam-hlv-4836254.html) - 11:33 06/01/2025
 - 🦩 [Keane: &#39;Alexander-Arnold phòng ngự như cầu thủ hạng Tư&#39;](https://vnexpress.net/keane-alexander-arnold-phong-ngu-nhu-cau-thu-hang-tu-4835871.html) - 11:00 06/01/2025
 - 🧰 [Supachok: &#39;Bàn thắng vào lưới Việt Nam là hiểu nhầm&#39;](https://vnexpress.net/supachok-ban-thang-vao-luoi-viet-nam-la-hieu-nham-4836238.html) - 10:41 06/01/2025
 - 🤗 [Thủ tướng: Bóng đá Việt Nam cần nỗ lực vô địch châu Á, dự World Cup](https://vnexpress.net/thu-tuong-bong-da-viet-nam-can-no-luc-vo-dich-chau-a-du-world-cup-4836227.html) - 10:28 06/01/2025
