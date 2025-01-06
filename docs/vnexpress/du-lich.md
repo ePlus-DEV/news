@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Tuyết rơi dày gây gián đoạn chuyến bay ở Anh và Đức](https://vnexpress.net/tuyet-roi-day-gay-gian-doan-chuyen-bay-o-anh-va-duc-4836144.html) - 08:23 06/01/2025
-- 🪄 [Khách quốc tế đến Việt Nam năm 2024 đạt 17,6 triệu lượt](https://vnexpress.net/khach-quoc-te-den-viet-nam-nam-2024-dat-17-6-trieu-luot-4836039.html) - 07:13 06/01/2025
+- 🪄 [Khách quốc tế đến Việt Nam năm 2024 tăng 40%](https://vnexpress.net/khach-quoc-te-den-viet-nam-nam-2024-tang-40-4836039.html) - 07:13 06/01/2025
 - 🦅 [Bảo tàng với những nhà thờ nghìn tuổi trong lòng núi đá](https://vnexpress.net/bao-tang-voi-nhung-nha-tho-nghin-tuoi-trong-long-nui-da-4831099.html) - 04:52 06/01/2025
 - 🕴 [Nhiều nước ra khuyến cáo an toàn với công dân du lịch Hàn Quốc](https://vnexpress.net/nhieu-nuoc-ra-khuyen-cao-an-toan-voi-cong-dan-du-lich-han-quoc-4835942.html) - 03:21 06/01/2025
 - 👀 [Khách nước ngoài lần đầu thử cà pháo mắm tôm](https://vnexpress.net/khach-nuoc-ngoai-lan-dau-thu-ca-phao-mam-tom-4835524.html) - 00:00 06/01/2025
