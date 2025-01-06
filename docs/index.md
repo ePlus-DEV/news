@@ -34,7 +34,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💫 [Tổng thống Azerbaijan: Nga có lỗi trong vụ bắn nhầm máy bay](https://vnexpress.net/tong-thong-azerbaijan-nga-co-loi-trong-vu-ban-nham-may-bay-4836252.html) - 11:55 06/01/2025
 - 😺 [Logistics là ngành tăng trưởng mạnh nhất TP HCM năm 2024](https://vnexpress.net/logistics-la-nganh-tang-truong-manh-nhat-tp-hcm-nam-2024-4836173.html) - 11:48 06/01/2025
 - 🕯 [Hồi ký tác giả Xuân Phượng đoạt giải Mai Vàng](https://vnexpress.net/hoi-ky-tac-gia-xuan-phuong-doat-giai-mai-vang-4836190.html) - 11:44 06/01/2025
-- 💃 [Indonesia bổ nhiệm danh thủ Hà Lan làm HLV trưởng](https://vnexpress.net/indonesia-bo-nhiem-danh-thu-ha-lan-lam-hlv-truong-4836254.html) - 11:33 06/01/2025
+- 💃 [Indonesia bổ nhiệm cựu danh thủ Hà Lan](https://vnexpress.net/indonesia-bo-nhiem-cuu-danh-thu-ha-lan-4836254.html) - 11:33 06/01/2025
 - 💂 [Nuôi dạy con như nào khi chồng hà khắc còn tôi quá yêu chúng](https://vnexpress.net/nuoi-day-con-nhu-nao-khi-chong-ha-khac-con-toi-qua-yeu-chung-4836055.html) - 11:30 06/01/2025
 - 🎊 [Người cao tuổi suy dinh dưỡng nên ăn gì?](https://vnexpress.net/nguoi-cao-tuoi-suy-dinh-duong-nen-an-gi-4836157.html) - 11:30 06/01/2025
 - 🤠 [Tốc độ tăng dân số Việt Nam giảm](https://vnexpress.net/toc-do-tang-dan-so-viet-nam-giam-4836235.html) - 11:17 06/01/2025
