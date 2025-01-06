@@ -8,7 +8,7 @@ sidebar_position: 7
 - 🦆 [Nước nào được mệnh danh là &#39;xứ sở chùa vàng&#39;?](https://vnexpress.net/nuoc-nao-duoc-menh-danh-la-xu-so-chua-vang-4835770.html) - 12:30 05/01/2025
 - 🦩 [Muốn vào tập đoàn lớn nên thi IELTS hay TOEIC?](https://vnexpress.net/muon-vao-tap-doan-lon-nen-thi-ielts-hay-toeic-4835488.html) - 10:00 05/01/2025
 - 🌮 [Đại học Thanh Hoa bác tin 80% sinh viên du học không về](https://vnexpress.net/dai-hoc-thanh-hoa-bac-tin-80-sinh-vien-du-hoc-khong-ve-4835718.html) - 06:42 05/01/2025
-- 🔭 [Vụ trưởng đại học: &#39;Xét tuyển sớm chỉ có lợi cho học sinh yếu&#39;](https://vnexpress.net/vu-truong-dai-hoc-xet-tuyen-som-chi-co-loi-cho-hoc-sinh-yeu-4835686.html) - 03:48 05/01/2025
+- 🔭 [Vụ trưởng đại học: Sẽ bỏ &#39;xét tuyển sớm&#39;](https://vnexpress.net/vu-truong-dai-hoc-se-bo-xet-tuyen-som-4835686.html) - 03:48 05/01/2025
 - 💡 [Đại học Tài chính - Marketing bắt buộc môn Toán trong xét tuyển](https://vnexpress.net/dai-hoc-tai-chinh-marketing-bat-buoc-mon-toan-trong-xet-tuyen-4835665.html) - 03:29 05/01/2025
 - 🥰 [Nên học Khoa học máy tính ở Đại học Công nghệ hay Khoa học tự nhiên?](https://vnexpress.net/nen-hoc-khoa-hoc-may-tinh-o-dai-hoc-cong-nghe-hay-khoa-hoc-tu-nhien-4835487.html) - 00:50 05/01/2025
 - 🐲 [Cậu bé lớp 6 là công dân trẻ tiêu biểu của TP HCM](https://vnexpress.net/cau-be-lop-6-la-cong-dan-tre-tieu-bieu-cua-tp-hcm-4835533.html) - 23:00 04/01/2025
