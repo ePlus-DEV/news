@@ -5,7 +5,7 @@ sidebar_position: 23
 
 <!-- dantri-suc-khoe:START -->
 - 🤔 [Mảnh xương lợn chắn ngang cổ họng nam thanh niên](https://dantri.com.vn/suc-khoe/manh-xuong-lon-chan-ngang-co-hong-nam-thanh-nien-20250106180624134.htm) - 11:47 06/01/2025
-- 🚦 [Cầu thủ Nguyễn Xuân Son tổn thương phức tạp, phẫu thuật tại BV Vinmec](https://dantri.com.vn/suc-khoe/cau-thu-nguyen-xuan-son-ton-thuong-phuc-tap-phau-thuat-tai-bv-vinmec-20250106162105115.htm) - 09:29 06/01/2025
+- 🚦 [Cầu thủ Nguyễn Xuân Son được phẫu thuật thành công tại BV Vinmec](https://dantri.com.vn/suc-khoe/cau-thu-nguyen-xuan-son-duoc-phau-thuat-thanh-cong-tai-bv-vinmec-20250106162105115.htm) - 09:29 06/01/2025
 - 🤖 [Ngừng tim, nguy kịch vì dùng loại củ, hạt có chất kịch độc để chữa bệnh](https://dantri.com.vn/suc-khoe/ngung-tim-nguy-kich-vi-dung-loai-cu-hat-co-chat-kich-doc-de-chua-benh-20250106112920685.htm) - 08:48 06/01/2025
 - 🐻 [Vì sao Nguyễn Xuân Son chấn thương nặng nhưng không mổ ngay ở Thái Lan?](https://dantri.com.vn/suc-khoe/vi-sao-nguyen-xuan-son-chan-thuong-nang-nhung-khong-mo-ngay-o-thai-lan-20250106132444418.htm) - 06:33 06/01/2025
 - 🌏 [Cấp cứu nam thanh niên với vết thương thấu ngực, dị vật cắm sâu trong phổi](https://dantri.com.vn/suc-khoe/cap-cuu-nam-thanh-nien-voi-vet-thuong-thau-nguc-di-vat-cam-sau-trong-phoi-20250106131916998.htm) - 06:22 06/01/2025
