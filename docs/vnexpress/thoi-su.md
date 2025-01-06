@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Thủ tướng: Bóng đá Việt Nam cần nỗ lực vô địch châu Á, dự World Cup](https://vnexpress.net/thu-tuong-bong-da-viet-nam-can-no-luc-vo-dich-chau-a-du-world-cup-4836227.html) - 10:28 06/01/2025
 - ⚗️ [&#39;Đủ nguồn lực giải quyết chế độ thất nghiệp cho viên chức khi tinh gọn bộ máy&#39;](https://vnexpress.net/du-nguon-luc-giai-quyet-che-do-that-nghiep-cho-vien-chuc-khi-tinh-gon-bo-may-4836179.html) - 10:15 06/01/2025
 - 🌊 [Thu nhập bình quân lao động quý IV/2024 tăng lên 8,2 triệu đồng](https://vnexpress.net/thu-nhap-binh-quan-lao-dong-quy-iv-2024-tang-len-8-2-trieu-dong-4836175.html) - 09:39 06/01/2025
-- 🎓 [Xuân Son và 5 cầu thủ được đề xuất nhận huân chương Lao động](https://vnexpress.net/xuan-son-va-5-cau-thu-duoc-de-xuat-nhan-huan-chuong-lao-dong-4836169.html) - 08:25 06/01/2025
+- 🎓 [Xuân Son và 5 cầu thủ nhận Huân chương Lao động](https://vnexpress.net/xuan-son-va-5-cau-thu-nhan-huan-chuong-lao-dong-4836169.html) - 08:25 06/01/2025
 - 🔥 [Hành khách đi tàu hỏa tăng kỷ lục](https://vnexpress.net/hanh-khach-di-tau-hoa-tang-ky-luc-4836123.html) - 07:49 06/01/2025
 - 🦏 [Lăng chúa Nguyễn Phúc Khoát bị đào bới](https://vnexpress.net/lang-chua-nguyen-phuc-khoat-bi-dao-boi-4836072.html) - 07:10 06/01/2025
 - 👺 [Người dân chào đón đội tuyển Việt Nam](https://vnexpress.net/nguoi-dan-chao-don-doi-tuyen-viet-nam-4836111.html) - 07:00 06/01/2025
