@@ -5,7 +5,7 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [Xuân Son, Đình Triệu nhận giải thưởng cao quý ở AFF Cup](https://dantri.com.vn/the-thao/xuan-son-dinh-trieu-nhan-giai-thuong-cao-quy-o-aff-cup-20250105225627871.htm) - 15:56 05/01/2025
-- 👨‍🏫 [HLV Thái Lan: &quot;Đội tuyển Việt Nam xứng đáng vô địch AFF Cup&quot;](https://dantri.com.vn/the-thao/hlv-thai-lan-doi-tuyen-viet-nam-xung-dang-vo-dich-aff-cup-20250105222205933.htm) - 15:54 05/01/2025
+- 👨‍🏫 [HLV Thái Lan khen bàn thắng của Supachok là đẹp mắt](https://dantri.com.vn/the-thao/hlv-thai-lan-khen-ban-thang-cua-supachok-la-dep-mat-20250105222205933.htm) - 15:54 05/01/2025
 - 🌮 [Trọng tài nội giải thích nguyên nhân bàn thắng của Thái Lan được công nhận](https://dantri.com.vn/the-thao/trong-tai-noi-giai-thich-nguyen-nhan-ban-thang-cua-thai-lan-duoc-cong-nhan-20250105215204053.htm) - 14:54 05/01/2025
 - 🕯 [Bắt khẩn cấp người hành hung, đốt pháo đe dọa shipper ở TPHCM](https://dantri.com.vn/phap-luat/bat-khan-cap-nguoi-hanh-hung-dot-phao-de-doa-shipper-o-tphcm-20250105210624645.htm) - 14:23 05/01/2025
 - 🪜 [Nguyễn Xuân Son nhập viện khẩn cấp sau chấn thương nặng](https://dantri.com.vn/the-thao/nguyen-xuan-son-nhap-vien-khan-cap-sau-chan-thuong-nang-20250105210740179.htm) - 14:14 05/01/2025
