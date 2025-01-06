@@ -6,7 +6,7 @@ sidebar_position: 23
 <!-- dantri-suc-khoe:START -->
 - 🤔 [Vì sao Nguyễn Xuân Son chấn thương nặng nhưng không mổ ngay ở Thái Lan?](https://dantri.com.vn/suc-khoe/vi-sao-nguyen-xuan-son-chan-thuong-nang-nhung-khong-mo-ngay-o-thai-lan-20250106132444418.htm) - 06:33 06/01/2025
 - 🚦 [Cấp cứu nam thanh niên với vết thương thấu ngực, dị vật cắm sâu trong phổi](https://dantri.com.vn/suc-khoe/cap-cuu-nam-thanh-nien-voi-vet-thuong-thau-nguc-di-vat-cam-sau-trong-phoi-20250106131916998.htm) - 06:22 06/01/2025
-- 🤖 [Tọa đàm về đột quỵ và nguy cơ tim mạch trong thể thao](https://dantri.com.vn/suc-khoe/toa-dam-ve-dot-quy-va-nguy-co-tim-mach-trong-the-thao-20241230091738294.htm) - 06:13 06/01/2025
+- 🤖 [Đang diễn ra tọa đàm về đột quỵ và nguy cơ tim mạch trong thể thao](https://dantri.com.vn/suc-khoe/dang-dien-ra-toa-dam-ve-dot-quy-va-nguy-co-tim-mach-trong-the-thao-20241230091738294.htm) - 06:13 06/01/2025
 - 🐻 [Tự khám trái tuyến cấp cơ bản, người bệnh có được hưởng 100% BHYT?](https://dantri.com.vn/suc-khoe/tu-kham-trai-tuyen-cap-co-ban-nguoi-benh-co-duoc-huong-100-bhyt-20250106102059683.htm) - 04:48 06/01/2025
 - 🌏 [Chấn thương của Nguyễn Xuân Son điều trị thế nào, có trở lại được đỉnh cao?](https://dantri.com.vn/suc-khoe/chan-thuong-cua-nguyen-xuan-son-dieu-tri-the-nao-co-tro-lai-duoc-dinh-cao-20250106082224693.htm) - 01:29 06/01/2025
 - 👺 [Người phụ nữ suýt mất chân vì đắp lá thuốc thầy lang](https://dantri.com.vn/suc-khoe/nguoi-phu-nu-suyt-mat-chan-vi-dap-la-thuoc-thay-lang-20250105111548917.htm) - 00:28 06/01/2025
