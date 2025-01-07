@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Cảnh sát giữ trật tự phiên tòa tranh chấp di sản thừa kế của Vũ Linh](https://vnexpress.net/canh-sat-giu-trat-tu-phien-toa-tranh-chap-di-san-thua-ke-cua-vu-linh-4828133.html) - 01:53 07/01/2025
-- 🥰 [Ông Lưu Bình Nhưỡng, Lê Thanh Vân có 5 luật sư bào chữa](https://vnexpress.net/ong-luu-binh-nhuong-le-thanh-van-co-5-luat-su-bao-chua-4836301.html) - 23:44 06/01/2025
+- 🥰 [Đề nghị triệu tập nhiều cựu lãnh đạo tỉnh đến phiên tòa ông Lưu Bình Nhưỡng](https://vnexpress.net/de-nghi-trieu-tap-nhieu-cuu-lanh-dao-tinh-den-phien-toa-ong-luu-binh-nhuong-4836301.html) - 23:44 06/01/2025
 - 🎓 [Đi xe của người khác có bị phạt lỗi &#39;không chính chủ&#39;?](https://vnexpress.net/lai-xe-khong-chinh-chu-co-bi-xu-phat-khong-4835960.html) - 17:02 06/01/2025
 - 🤓 [Đánh chết bạn vì nghi ngờ trộm ví](https://vnexpress.net/danh-chet-ban-vi-nghi-ngo-trom-vi-4836255.html) - 17:00 06/01/2025
 - 🎊 [Đêm cuối của vũ nữ thoát y cùng doanh nhân giàu có](https://vnexpress.net/dem-cuoi-cua-vu-nu-thoat-y-cung-doanh-nhan-giau-co-4836253.html) - 17:00 06/01/2025
