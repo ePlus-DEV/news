@@ -6,7 +6,7 @@ sidebar_position: 16
 <!-- dantri-su-kien:START -->
 - 🎭 [Hà Nội thông tin việc kỷ luật hàng chục tổ chức Đảng cùng loạt cán bộ](https://dantri.com.vn/xa-hoi/ha-noi-thong-tin-viec-ky-luat-hang-chuc-to-chuc-dang-cung-loat-can-bo-20250107154844507.htm) - 09:09 07/01/2025
 - 👨‍🏫 [Cầu thủ Nguyễn Xuân Son sẵn sàng tập phục hồi sau 2-3 ngày tới](https://dantri.com.vn/suc-khoe/cau-thu-nguyen-xuan-son-san-sang-tap-phuc-hoi-sau-2-3-ngay-toi-20250107143412853.htm) - 07:46 07/01/2025
-- 🌮 [HLV Kim Sang Sik: &quot;Trận đấu với Indonesia khó khăn nhất ở AFF Cup 2024&quot;](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-tran-dau-voi-indonesia-kho-khan-nhat-o-aff-cup-2024-20250107122116528.htm) - 07:45 07/01/2025
+- 🌮 [HLV Kim Sang Sik: &quot;Đội tuyển Việt Nam đặt mục tiêu dự World Cup 2030&quot;](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-doi-tuyen-viet-nam-dat-muc-tieu-du-world-cup-2030-20250107122116528.htm) - 07:45 07/01/2025
 - 🕯 [Nga tuyên bố kiểm soát thị trấn then chốt, Ukraine tiếp tục tấn công Kursk](https://dantri.com.vn/the-gioi/nga-tuyen-bo-kiem-soat-thi-tran-then-chot-ukraine-tiep-tuc-tan-cong-kursk-20250107104823105.htm) - 07:32 07/01/2025
 - 🪜 [Bà Hồng Loan được hưởng 85% tài sản của cố nghệ sĩ Vũ Linh](https://dantri.com.vn/phap-luat/ba-hong-loan-duoc-huong-85-tai-san-cua-co-nghe-si-vu-linh-20250107133803347.htm) - 07:29 07/01/2025
 - 🐘 [ISW: Ukraine gặt hái thắng lợi chiến thuật ở Kursk](https://dantri.com.vn/the-gioi/isw-ukraine-gat-hai-thang-loi-chien-thuat-o-kursk-20250107120956885.htm) - 06:41 07/01/2025
