@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Bộ trưởng Công an: &#39;Sớm hoàn thiện đề án tinh gọn bộ máy công an các cấp&#39;](https://vnexpress.net/bo-truong-cong-an-som-hoan-thien-de-an-tinh-gon-bo-may-cong-an-cac-cap-4836667.html) - 12:32 07/01/2025
-- 🥰 [Ông Lê Thanh Vân khai nhận tiền doanh nghiệp để &#39;cho họ vui&#39;](https://vnexpress.net/ong-le-thanh-van-khai-nhan-tien-doanh-nghiep-de-cho-ho-vui-4836655.html) - 12:08 07/01/2025
+- 🥰 [Ông Lê Thanh Vân khai &#39;nhận tiền của doanh nghiệp để họ vui&#39;](https://vnexpress.net/ong-le-thanh-van-khai-nhan-tien-cua-doanh-nghiep-de-ho-vui-4836655.html) - 12:08 07/01/2025
 - 🎓 [VKSND Tối cao có hai tân Phó viện trưởng](https://vnexpress.net/vksnd-toi-cao-co-hai-tan-pho-vien-truong-4836654.html) - 11:25 07/01/2025
 - 🤓 [Ông Lưu Bình Nhưỡng: &#39;Nhận 300.000 USD là sai lầm cuộc đời tôi&#39;](https://vnexpress.net/ong-luu-binh-nhuong-nhan-300-000-usd-la-sai-lam-cuoc-doi-toi-4836626.html) - 09:51 07/01/2025
 - 🎊 [Nữ quản giáo Mỹ lĩnh án vì clip mặn nồng với tù nhân](https://vnexpress.net/nu-quan-giao-linh-an-vi-quay-bang-sex-voi-tu-nhan-4836473.html) - 08:13 07/01/2025
