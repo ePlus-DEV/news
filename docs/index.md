@@ -74,8 +74,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧑‍🏫 [Thách thức của EU khi muốn tăng mua khí đốt Mỹ](https://vnexpress.net/thach-thuc-cua-eu-khi-muon-tang-mua-khi-dot-my-4836112.html) - 03:36 07/01/2025
 - 🎓 [Nữ y tá Mỹ bị bệnh nhân xua đuổi vì xỏ khuyên, xăm hình](https://vnexpress.net/nu-y-ta-my-bi-benh-nhan-xua-duoi-vi-xo-khuyen-xam-hinh-4836293.html) - 03:35 07/01/2025
 - 💫 [Những ni cô múa đao, luyện khí công ở Nepal](https://vnexpress.net/nhung-ni-co-mua-dao-luyen-khi-cong-o-nepal-4836183.html) - 03:34 07/01/2025
-- 🤩 [Thành phố đầu tiên của Mỹ tính phí tài xế đi vào đường tắc](https://vnexpress.net/thanh-pho-dau-tien-cua-my-tinh-phi-tai-xe-di-vao-duong-tac-4836353.html) - 03:33 07/01/2025
-- 🏊 [Van Dijk: &#39;Man Utd bị thiếu tôn trọng trước khi gặp Liverpool&#39;](https://vnexpress.net/van-dijk-man-utd-bi-thieu-ton-trong-truoc-khi-gap-liverpool-4836403.html) - 03:32 07/01/2025<!-- vnexpress:END -->
+- 🤩 [Thành phố đầu tiên của Mỹ tính phí tài xế đi vào đường tắc](https://vnexpress.net/thanh-pho-dau-tien-cua-my-tinh-phi-tai-xe-di-vao-duong-tac-4836353.html) - 03:33 07/01/2025<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
