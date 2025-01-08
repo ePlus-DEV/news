@@ -4,13 +4,13 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Diễn viên Trung Quốc bị bắt cóc: &#39;Tội phạm huấn luyện tôi cách lừa đảo&#39;](https://vnexpress.net/dien-vien-trung-quoc-bi-bat-coc-toi-pham-huan-luyen-toi-cach-lua-dao-4836957.html) - 09:48 08/01/2025
+- 🌏 [Diễn viên Trung Quốc bị bắt cóc: &#39;Tội phạm dạy tôi cách lừa đảo&#39;](https://vnexpress.net/dien-vien-trung-quoc-bi-bat-coc-toi-pham-day-toi-cach-lua-dao-4836957.html) - 09:48 08/01/2025
 - 💫 [Siu Black bức xúc vì bị dùng hình ảnh quảng cáo giảm béo](https://vnexpress.net/siu-black-buc-xuc-vi-bi-dung-hinh-anh-quang-cao-giam-beo-4836831.html) - 08:43 08/01/2025
 - 🌮 [&#39;Mưa trên cánh bướm&#39; - bi kịch ngoại tình](https://vnexpress.net/giai-tri/phim/thu-vien-phim/mua-tren-canh-buom-764) - 08:18 08/01/2025
 - 🧠 [Những kiểu mặc ấn tượng cho Year-end Party](https://vnexpress.net/nhung-kieu-mac-an-tuong-cho-year-end-party-4836612.html) - 06:56 08/01/2025
 - 👨‍🏫 [Người đẹp Mỹ diện đầm xuyên thấu của NTK Việt](https://vnexpress.net/nguoi-dep-my-dien-dam-xuyen-thau-cua-ntk-viet-4836891.html) - 06:11 08/01/2025
 - ⚗️ [Trường Giang cổ vũ Nhã Phương catwalk](https://vnexpress.net/truong-giang-co-vu-nha-phuong-catwalk-4836795.html) - 05:16 08/01/2025
-- 😎 [Phim Tết Ất Tỵ - cuộc cạnh tranh của các hoa hậu](https://vnexpress.net/phim-tet-at-ty-cuoc-canh-tranh-cua-cac-hoa-hau-4835276.html) - 04:48 08/01/2025
+- 😎 [Phim Tết Ất Tỵ - các hoa hậu lấn sân diễn xuất](https://vnexpress.net/phim-tet-at-ty-cac-hoa-hau-lan-san-dien-xuat-4835276.html) - 04:48 08/01/2025
 - 🫣 [Kaia Gerber chia tay sao &#39;Dune 2&#39;](https://vnexpress.net/kaia-gerber-chia-tay-sao-dune-2-4836771.html) - 03:25 08/01/2025
 - 🪄 [Diễn viên Trung Quốc được tìm thấy sau &#39;mất tích&#39;](https://vnexpress.net/dien-vien-trung-quoc-duoc-tim-thay-sau-mat-tich-4836758.html) - 02:48 08/01/2025
 - 🤓 [Chân dung người nổi tiếng từ những mảnh gốm vỡ](https://vnexpress.net/chan-dung-nguoi-noi-tieng-tu-nhung-manh-gom-vo-4836159.html) - 02:17 08/01/2025
