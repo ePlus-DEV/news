@@ -309,7 +309,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🔥 [Tết ấm áp với người bệnh phong](https://nld.com.vn/tet-am-ap-voi-nguoi-benh-phong-196250108111339627.htm) - 05:31 08/01/2025
 - 🌝 [Từ bàn thắng &quot;xấu xí&quot; của Supachok: Cần sớm nâng tầm ASEAN Cup](https://nld.com.vn/tu-ban-thang-xau-xi-cua-supachok-can-som-nang-tam-asean-cup-19625010812005215.htm) - 05:23 08/01/2025
 - 👍 [9 người nước ngoài nhập cảnh trái phép vào Việt Nam](https://nld.com.vn/9-nguoi-nuoc-ngoai-nhap-canh-trai-phep-vao-viet-nam-196250108114801916.htm) - 05:17 08/01/2025
-- 💂 [Kỷ niệm 30 năm Giải Mai Vàng và Lễ trao Giải Mai Vàng](https://nld.com.vn/truc-tuyen-ky-niem-30-nam-giai-mai-vang-va-le-trao-giai-mai-vang-196250108114337821.htm) - 05:06 08/01/2025
+- 💂 [Kỷ niệm 30 năm Giải Mai Vàng và Lễ trao Giải Mai Vàng](https://nld.com.vn/le-trao-giai-mai-vang-30-nam-ghi-dau-an-sau-dam-trong-long-cong-chung-196250108114337821.htm) - 05:06 08/01/2025
 - 🤖 [Phát hiện đáng lo về thứ gây ra 2,2 triệu ca tiểu đường mỗi năm](https://nld.com.vn/phat-hien-dang-lo-ve-thu-gay-ra-22-trieu-ca-tieu-duong-moi-nam-19625010811201289.htm) - 04:51 08/01/2025<!-- nld:END -->
 
 ## Báo SGGP
