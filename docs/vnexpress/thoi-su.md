@@ -55,7 +55,7 @@ sidebar_position: 1
 - 🫣 [&#39;Thay áo mới&#39; cho 12 trường học ở Hà Giang](https://vnexpress.net/thay-ao-moi-cho-12-truong-hoc-o-ha-giang-4835705.html) - 05:13 05/01/2025
 - ⚗️ [TP HCM sẽ có tuyến metro từ nội đô đến Cần Giờ](https://vnexpress.net/tp-hcm-se-co-tuyen-metro-tu-noi-do-den-can-gio-4835697.html) - 04:45 05/01/2025
 - 🌜 [Nhà trong khu dân cư ở TP HCM cháy ngùn ngụt](https://vnexpress.net/nha-trong-khu-dan-cu-o-tp-hcm-chay-ngun-ngut-4835672.html) - 02:45 05/01/2025
-- 🌁 [Băng giá bao phủ đỉnh Fansipan](https://vnexpress.net/bang-gia-bao-phu-dinh-fansipan-4835658.html) - 02:01 05/01/2025
+- 🌁 [Băng bao phủ đỉnh Fansipan](https://vnexpress.net/bang-bao-phu-dinh-fansipan-4835658.html) - 02:01 05/01/2025
 - 🐲 [Metro Bến Thành - Suối Tiên được cấp điện thế nào](https://vnexpress.net/metro-ben-thanh-suoi-tien-duoc-cap-dien-the-nao-4835565.html) - 22:00 04/01/2025
 - ⛽️ [Giá vé máy bay Tết Ất Tỵ tăng trung bình 20%](https://vnexpress.net/gia-ve-may-bay-tet-at-ty-tang-trung-binh-20-4835604.html) - 17:57 04/01/2025
 - 🗽 [Hai mẹ con tử nạn dưới khe nước](https://vnexpress.net/hai-me-con-tu-nan-duoi-khe-nuoc-4835581.html) - 15:16 04/01/2025
