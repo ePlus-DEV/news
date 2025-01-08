@@ -402,7 +402,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [10 đôi tham gia tranh tài tại DIFF 2025 với chủ đề &#39;Đà Nẵng-Kỷ nguyên mới&#39;](https://baochinhphu.vn/10-doi-tham-gia-tranh-tai-tai-diff-2025-voi-chu-de-da-nang-ky-nguyen-moi-102250108114729868.htm) - 11:50 08/01/2025
+- 💻 [10 đội tham gia tranh tài tại DIFF 2025 với chủ đề &#39;Đà Nẵng-Kỷ nguyên mới&#39;](https://baochinhphu.vn/10-doi-tham-gia-tranh-tai-tai-diff-2025-voi-chu-de-da-nang-ky-nguyen-moi-102250108114729868.htm) - 11:50 08/01/2025
 - 🌜 [Phân quyền cho địa phương thẩm định báo cáo đánh giá tác động môi trường 7 nhóm dự án](https://baochinhphu.vn/phan-quyen-cho-dia-phuong-tham-dinh-bao-cao-danh-gia-tac-dong-moi-truong-7-nhom-du-an-102250108113422852.htm) - 11:34 08/01/2025
 - 🦆 [Thị trường bất động sản Công nghiệp tiếp tục là điểm sáng](https://baochinhphu.vn/thi-truong-bat-dong-san-cong-nghiep-tiep-tuc-la-diem-sang-102250108105711049.htm) - 11:22 08/01/2025
 - 🌝 [Vietnam Airlines lọt TOP 6 hãng hàng không đúng giờ nhất châu Á - Thái Bình Dương](https://baochinhphu.vn/vietnam-airlines-lot-top-6-hang-hang-khong-dung-gio-nhat-chau-a-thai-binh-duong-102250108104605652.htm) - 11:14 08/01/2025
