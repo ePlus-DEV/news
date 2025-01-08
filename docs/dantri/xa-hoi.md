@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- dantri-xa-hoi:START -->
-- 🫣 [Nam công nhân vi phạm nồng độ cồn: &quot;Từ nay tôi không dám tái phạm nữa&quot;](https://dantri.com.vn/xa-hoi/nam-cong-nhan-vi-pham-nong-do-con-tu-nay-toi-khong-dam-tai-pham-nua-20250108220452917.htm) - 15:47 08/01/2025
+- 🫣 [Nam công nhân vi phạm nồng độ cồn: &quot;Từ nay tôi không dám tái phạm&quot;](https://dantri.com.vn/xa-hoi/nam-cong-nhan-vi-pham-nong-do-con-tu-nay-toi-khong-dam-tai-pham-20250108220452917.htm) - 15:47 08/01/2025
 - 💼 [Đại tá Phạm Quốc Việt phụ trách Công an tỉnh Sóc Trăng](https://dantri.com.vn/xa-hoi/dai-ta-pham-quoc-viet-phu-trach-cong-an-tinh-soc-trang-20250108211757357.htm) - 15:37 08/01/2025
 - 🎊 [Nhiều vùng nông thôn miền Bắc ô nhiễm không khí](https://dantri.com.vn/xa-hoi/nhieu-vung-nong-thon-mien-bac-o-nhiem-khong-khi-20250108203142651.htm) - 13:57 08/01/2025
 - 🙉 [Xe đầu kéo lấn sát lề, tông hai người phụ nữ thương vong ở Bình Dương](https://dantri.com.vn/xa-hoi/xe-dau-keo-lan-sat-le-tong-hai-nguoi-phu-nu-thuong-vong-o-binh-duong-20250108202633885.htm) - 13:46 08/01/2025
