@@ -5,7 +5,7 @@ sidebar_position: 14
 
 <!-- dantri-dnews:START -->
 - 🤠 [Những trụ cột trong kế hoạch hòa bình Ukraine của ông Trump](https://dantri.com.vn/the-gioi/nhung-tru-cot-trong-ke-hoach-hoa-binh-ukraine-cua-ong-trump-20241230164919469.htm) - 02:42 08/01/2025
-- 🌈 [Cuộc sống giản dị, bận rộn của Thảo Vân - MC yêu thích nhất &quot;Táo quân&quot;](https://dantri.com.vn/giai-tri/cuoc-song-gian-di-ban-ron-cua-thao-van-mc-yeu-thich-nhat-tao-quan-20250107165631684.htm) - 01:35 08/01/2025
+- 🌈 [Cuộc sống giản dị, bận rộn của Thảo Vân - MC được yêu thích nhất &quot;Táo quân&quot;](https://dantri.com.vn/giai-tri/cuoc-song-gian-di-ban-ron-cua-thao-van-mc-duoc-yeu-thich-nhat-tao-quan-20250107165631684.htm) - 01:35 08/01/2025
 - 🐎 [Vợ thủ môn Đình Triệu: Chồng đưa hết lương thưởng cho vợ, vẫn bị trừ 1 điểm](https://dantri.com.vn/doi-song/vo-thu-mon-dinh-trieu-chong-dua-het-luong-thuong-cho-vo-van-bi-tru-1-diem-20250107210648793.htm) - 00:44 08/01/2025
 - 👹 [Nước mắt ở phiên tòa tranh chấp di sản cố nghệ sĩ Vũ Linh](https://dantri.com.vn/phap-luat/nuoc-mat-o-phien-toa-tranh-chap-di-san-co-nghe-si-vu-linh-20250107200854248.htm) - 23:08 07/01/2025
 - 🫶 [Ngã tư ở Hà Nội &quot;2 phút có 164 xe vượt đèn đỏ&quot; sau hơn một tháng ra sao?](https://dantri.com.vn/doi-song/nga-tu-o-ha-noi-2-phut-co-164-xe-vuot-den-do-sau-hon-mot-thang-ra-sao-20250107211212080.htm) - 23:02 07/01/2025
