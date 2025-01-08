@@ -4,8 +4,8 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Bộ Giáo dục: Tuyển sinh lớp 6 bằng xét tuyển](https://vnexpress.net/bo-giao-duc-tuyen-sinh-lop-6-bang-xet-tuyen-4836876.html) - 04:58 08/01/2025
-- 🦆 [Cộng đến 1,5 điểm lớp 10 cho học sinh giỏi cấp tỉnh](https://vnexpress.net/cong-den-1-5-diem-lop-10-cho-hoc-sinh-gioi-cap-tinh-4836827.html) - 04:43 08/01/2025
+- 🤓 [Cấm thi tuyển lớp 6, kể cả trường chất lượng cao](https://vnexpress.net/cam-thi-tuyen-lop-6-ke-ca-truong-chat-luong-cao-4836876.html) - 04:58 08/01/2025
+- 🦆 [Cộng đến 1,5 điểm lớp 10 cho học sinh đạt giải tỉnh](https://vnexpress.net/cong-den-1-5-diem-lop-10-cho-hoc-sinh-dat-giai-tinh-4836827.html) - 04:43 08/01/2025
 - 🦩 [TP HCM sẽ chọn Tiếng Anh là môn thi thứ ba vào lớp 10](https://vnexpress.net/tp-hcm-se-chon-tieng-anh-la-mon-thi-thu-ba-vao-lop-10-4836836.html) - 03:44 08/01/2025
 - 🌮 [Bộ Giáo dục chốt quy chế thi lớp 10](https://vnexpress.net/bo-giao-duc-chot-quy-che-thi-lop-10-4830885.html) - 01:15 08/01/2025
 - 🔭 [Bộ Giáo dục liên tiếp bị mạo danh để lừa phụ huynh, học sinh](https://vnexpress.net/bo-giao-duc-lien-tiep-bi-mao-danh-de-lua-phu-huynh-hoc-sinh-4836709.html) - 00:40 08/01/2025
