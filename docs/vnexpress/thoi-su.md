@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [8 công trình giao thông ở TP HCM đồng loạt thông xe trước Tết](https://vnexpress.net/8-cong-trinh-giao-thong-o-tp-hcm-dong-loat-thong-xe-truoc-tet-4837247.html) - 04:11 09/01/2025
+- 🦒 [8 công trình ở TP HCM đồng loạt thông xe trước Tết](https://vnexpress.net/8-cong-trinh-o-tp-hcm-dong-loat-thong-xe-truoc-tet-4837247.html) - 04:11 09/01/2025
 - 🤓 [Hơn 76% doanh nghiệp tin rằng &#39;tất cả lao động quay lại sau Tết&#39;](https://vnexpress.net/hon-76-doanh-nghiep-tin-rang-tat-ca-lao-dong-quay-lai-sau-tet-4837072.html) - 17:00 08/01/2025
 - ⚗️ [Chế tác linh vật rắn trưng bày ở Hội An](https://vnexpress.net/che-tac-linh-vat-ran-trung-bay-o-hoi-an-4836562.html) - 17:00 08/01/2025
 - 🌊 [Nhiều vùng nông thôn ô nhiễm không khí](https://vnexpress.net/nhieu-vung-nong-thon-o-nhiem-khong-khi-4837014.html) - 12:27 08/01/2025
