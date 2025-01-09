@@ -9,7 +9,7 @@ sidebar_position: 1
 - ⚗️ [Nhiều vùng nông thôn ô nhiễm không khí](https://vnexpress.net/nhieu-vung-nong-thon-o-nhiem-khong-khi-4837014.html) - 12:27 08/01/2025
 - 🌊 [Bí thư Vĩnh Phúc Dương Văn An bị đề nghị kỷ luật](https://vnexpress.net/bi-thu-vinh-phuc-duong-van-an-bi-de-nghi-ky-luat-4837082.html) - 10:48 08/01/2025
 - 🎓 [Thưởng Tết Nguyên đán cao nhất 1,9 tỷ đồng](https://vnexpress.net/thuong-tet-nguyen-dan-cao-nhat-1-9-ty-dong-4837062.html) - 10:21 08/01/2025
-- 🔥 [TP HCM sẽ gắn biển phụ cho xe rẽ phải khi đèn đỏ](https://vnexpress.net/tp-hcm-se-gan-bien-phu-cho-xe-re-phai-khi-den-do-4837058.html) - 10:13 08/01/2025
+- 🔥 [TP HCM sẽ gắn biển cho xe rẽ phải khi đèn đỏ](https://vnexpress.net/tp-hcm-se-gan-bien-cho-xe-re-phai-khi-den-do-4837058.html) - 10:13 08/01/2025
 - 🦏 [Hai mẹ con tử vong sau va chạm với xe khách](https://vnexpress.net/hai-me-con-tu-vong-sau-va-cham-voi-xe-khach-4837015.html) - 09:28 08/01/2025
 - 👺 [Thanh tra hai dự án Bệnh viện Bạch Mai, Việt Đức cơ sở 2](https://vnexpress.net/thanh-tra-hai-du-an-benh-vien-bach-mai-viet-duc-co-so-2-4837024.html) - 09:27 08/01/2025
 - 🧑‍🏫 [Ra mắt sách của cố thượng tướng Nguyễn Chí Vịnh về lực lượng mũ nồi xanh](https://vnexpress.net/ra-mat-sach-cua-co-thuong-tuong-nguyen-chi-vinh-ve-luc-luong-mu-noi-xanh-4836944.html) - 08:55 08/01/2025
