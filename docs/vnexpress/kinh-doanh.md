@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Cổ phiếu Yeah1 nằm sàn](https://vnexpress.net/chung-khoan-hom-nay-9-1-co-phieu-yeah1-nam-san-4837446.html) - 08:54 09/01/2025
 - 🐲 [UOB nâng dự báo tăng trưởng Việt Nam](https://vnexpress.net/uob-nang-du-bao-tang-truong-viet-nam-4837305.html) - 08:42 09/01/2025
-- 🔥 [Mỹ mua kỷ lục dầu từ Canada](https://vnexpress.net/my-mua-ky-luc-dau-tu-canada-4837370.html) - 08:20 09/01/2025
+- 🔥 [Mỹ mua lượng dầu kỷ lục từ Canada](https://vnexpress.net/my-mua-luong-dau-ky-luc-tu-canada-4837370.html) - 08:20 09/01/2025
 - 🐵 [Giá xăng vượt 21.000 đồng một lít](https://vnexpress.net/gia-xang-moi-nhat-hom-nay-9-1-4837351.html) - 07:31 09/01/2025
 - 🦅 [Hanwha Life tăng hạng trong &#39;Top 500 doanh nghiệp lớn nhất Việt Nam 2024&#39;](https://vnexpress.net/hanwha-life-tang-hang-trong-top-500-doanh-nghiep-lon-nhat-viet-nam-2024-4837321.html) - 07:00 09/01/2025
 - 😺 [Đề xuất thử nghiệm sàn giao dịch tiền số tại trung tâm tài chính](https://vnexpress.net/de-xuat-thu-nghiem-san-giao-dich-tien-so-tai-trung-tam-tai-chinh-4837314.html) - 06:32 09/01/2025
