@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Phim về thất nghiệp tuổi trung niên gây xúc động](https://vnexpress.net/giai-tri/phim/thu-vien-phim/upstream-765) - 12:00 09/01/2025
+- 🌏 [Phim về thất nghiệp tuổi trung niên gây xúc động](https://vnexpress.net/phim-ve-that-nghiep-tuoi-trung-nien-gay-xuc-dong-4837403.html) - 12:00 09/01/2025
 - 💫 [&#39;Wicked&#39; dẫn đầu đề cử giải tiền Oscar](https://vnexpress.net/wicked-dan-dau-de-cu-giai-tien-oscar-4837239.html) - 10:33 09/01/2025
 - 🌮 [Jessica Alba và chồng ly thân](https://vnexpress.net/jessica-alba-va-chong-ly-than-4837330.html) - 09:23 09/01/2025
 - 🧠 [Thu Quỳnh tái xuất sàn catwalk sau sinh con](https://vnexpress.net/thu-quynh-tai-xuat-san-catwalk-sau-sinh-con-4837414.html) - 09:04 09/01/2025
