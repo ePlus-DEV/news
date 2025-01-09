@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [TP HCM đề xuất vẫn dùng bài khảo sát để tuyển lớp 6](https://vnexpress.net/tp-hcm-de-xuat-van-dung-bai-khao-sat-de-tuyen-lop-6-4837130.html) - 01:37 09/01/2025
+- 🤓 [TP HCM đề xuất vẫn tuyển lớp 6 bằng bài khảo sát](https://vnexpress.net/tp-hcm-de-xuat-van-tuyen-lop-6-bang-bai-khao-sat-4837130.html) - 01:37 09/01/2025
 - 🦆 [4 tỉnh, thành dự kiến Tiếng Anh là môn thi thứ ba vào lớp 10](https://vnexpress.net/4-tinh-thanh-du-kien-tieng-anh-la-mon-thi-thu-ba-vao-lop-10-4837070.html) - 22:00 08/01/2025
 - 🦩 [Đại học Công nghiệp Hà Nội mở hai trường mới](https://vnexpress.net/dai-hoc-cong-nghiep-ha-noi-mo-hai-truong-moi-4837102.html) - 13:27 08/01/2025
 - 🌮 [Nữ sinh lớp 7 bị đánh hội đồng, xé quần áo](https://vnexpress.net/nu-sinh-lop-7-bi-danh-hoi-dong-xe-quan-ao-4837079.html) - 12:27 08/01/2025
