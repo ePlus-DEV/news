@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Arteta bị mỉa mai vụ chê bóng Cup Liên đoàn](https://vnexpress.net/arteta-bi-mia-mai-vu-che-bong-cup-lien-doan-4837208.html) - 04:00 09/01/2025
 - 🦩 [Barca thoát hiểm vụ Dani Olmo](https://vnexpress.net/barca-thoat-hiem-vu-dani-olmo-4837254.html) - 03:51 09/01/2025
-- 🧰 [&#39;Kim Sang-sik thành công vì làm ngược lại Philippe Troussier&#39;](https://vnexpress.net/kim-sang-sik-thanh-cong-vi-lam-nguoc-lai-philippe-troussier-4836995.html) - 03:40 09/01/2025
+- 🧰 [&#39;Kim Sang-sik thành công vì làm ngược lại Philippe Troussier&#39;](https://vnexpress.net/kim-sang-sik-thanh-cong-vi-lam-nguoc-lai-philippe-troussier-vnepre-4836995.html) - 03:40 09/01/2025
 - 🤗 [Cầu thủ bóng rổ Trung Quốc bị đình chỉ vì giấu bạn gái vào vali](https://vnexpress.net/cau-thu-bong-ro-trung-quoc-bi-dinh-chi-vi-giau-ban-gai-vao-vali-4837196.html) - 03:25 09/01/2025
 - 🥳 [Van Dijk trách trọng tài sau trận thua Tottenham](https://vnexpress.net/van-dijk-trach-trong-tai-sau-tran-thua-tottenham-4837146.html) - 02:17 09/01/2025
 - 🦣 [Cột mốc lịch sử của VAR trong trận Liverpool - Tottenham](https://vnexpress.net/cot-moc-lich-su-cua-var-trong-tran-liverpool-tottenham-4837158.html) - 01:59 09/01/2025
