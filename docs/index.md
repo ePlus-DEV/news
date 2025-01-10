@@ -409,7 +409,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Cổng TTĐT Chính phủ: Sức bật tuổi 19 và công cụ chiến lược của Chính phủ](https://baochinhphu.vn/cong-ttdt-chinh-phu-suc-bat-tuoi-19-va-cong-cu-chien-luoc-cua-chinh-phu-102250110063145301.htm) - 06:31 10/01/2025
+- 💻 [Cổng Thông tin điện tử Chính phủ: Sức bật tuổi 19](https://baochinhphu.vn/cong-ttdt-chinh-phu-suc-bat-tuoi-19-va-cong-cu-chien-luoc-cua-chinh-phu-102250110063145301.htm) - 06:31 10/01/2025
 - 🌜 [Thông tin giao dịch thương mại điện tử sẽ bị thu thuế 10% là giả mạo](https://baochinhphu.vn/thong-tin-giao-dich-thuong-mai-dien-tu-se-bi-thu-thue-10-la-gia-mao-102250109231011418.htm) - 23:09 09/01/2025
 - 🦆 [Rà soát tổng thể tiến độ dự án sân bay Long Thành, lấy nhà ga hành khách làm trung tâm](https://baochinhphu.vn/ra-soat-tong-the-tien-do-du-an-san-bay-long-thanh-lay-nha-ga-hanh-khach-lam-trung-tam-102250109213707555.htm) - 21:39 09/01/2025
 - 🌝 [Đọc báo Tết trên bưu thiếp định danh, tích hợp trí tuệ nhân tạo](https://baochinhphu.vn/doc-bao-tet-tren-buu-thiep-dinh-danh-tich-hop-tri-tue-nhan-tao-102250109203629926.htm) - 21:08 09/01/2025
