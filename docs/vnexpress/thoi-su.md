@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hai năm huấn luyện &#39;gian khổ nhất đời&#39; của đặc công nước](https://vnexpress.net/hai-nam-huan-luyen-gian-kho-nhat-doi-cua-dac-cong-nuoc-4836988.html) - 17:00 10/01/2025
+- 🦒 [Hai năm huấn luyện gian khổ của đặc công nước](https://vnexpress.net/hai-nam-huan-luyen-gian-kho-cua-dac-cong-nuoc-4836988.html) - 17:00 10/01/2025
 - 🤓 [Bí thư Vĩnh Phúc Dương Văn An bị cảnh cáo](https://vnexpress.net/bi-thu-vinh-phuc-duong-van-an-bi-canh-cao-4837890.html) - 12:06 10/01/2025
 - ⚗️ [Đèn đỏ gặp sự cố, người dân dắt xe qua giao lộ ở TP HCM](https://vnexpress.net/den-do-gap-su-co-nguoi-dan-dat-xe-qua-giao-lo-o-tp-hcm-4837859.html) - 09:48 10/01/2025
 - 🌊 [TP HCM lắp loạt đèn tín hiệu cho xe rẽ phải khi đèn đỏ](https://vnexpress.net/tp-hcm-lap-loat-den-tin-hieu-cho-xe-re-phai-khi-den-do-4837855.html) - 09:35 10/01/2025
