@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Paris Hilton thăm lại ngôi nhà bị thiêu rụi do cháy rừng](https://vnexpress.net/paris-hilton-tham-lai-ngoi-nha-bi-thieu-rui-do-chay-rung-4837817.html) - 10:24 10/01/2025
+- 🌏 [Paris Hilton đau xót khi biệt thự hơn 8 triệu USD bị thiêu rụi](https://vnexpress.net/paris-hilton-dau-xot-khi-biet-thu-hon-8-trieu-usd-bi-thieu-rui-4837817.html) - 10:24 10/01/2025
 - 💫 [Giáng Son nhận hàng trăm triệu đồng từ &#39;Giấc mơ trưa&#39;](https://vnexpress.net/giang-son-nhan-hang-tram-trieu-dong-tu-giac-mo-trua-4837810.html) - 09:43 10/01/2025
 - 🌮 [Tạo hình dàn sao đóng Táo Xuân 2025](https://vnexpress.net/tao-hinh-dan-sao-dong-tao-xuan-2025-4837796.html) - 09:30 10/01/2025
 - 🧠 [Nghệ sĩ Yiruma viết nhạc cho Hà Anh Tuấn](https://vnexpress.net/nghe-si-yiruma-viet-nhac-cho-ha-anh-tuan-4837598.html) - 09:00 10/01/2025
