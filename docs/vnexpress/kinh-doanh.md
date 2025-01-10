@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Xe điện, năng lượng tái tạo sẽ hút nguồn vốn lớn nhất đến 2050](https://vnexpress.net/xe-dien-nang-luong-tai-tao-se-hut-nguon-von-lon-nhat-den-2050-4837602.html) - 03:17 10/01/2025
+- ⛽️ [Xe điện có tiềm năng hút vốn lớn nếu Việt Nam đạt Net Zero vào 2050](https://vnexpress.net/xe-dien-co-tiem-nang-hut-von-lon-neu-viet-nam-dat-net-zero-vao-2050-4837602.html) - 03:17 10/01/2025
 - 🐲 [Các biện pháp thúc đẩy kinh tế 2025 của Trung Quốc](https://vnexpress.net/cac-bien-phap-thuc-day-kinh-te-2025-cua-trung-quoc-4837411.html) - 22:00 09/01/2025
 - 🔥 [Greenland có giá trị kinh tế ra sao khiến ông Trump muốn mua?](https://vnexpress.net/greenland-co-gia-tri-kinh-te-ra-sao-khien-ong-trump-muon-mua-4837482.html) - 17:00 09/01/2025
 - 🐵 [Aeon Financial hoàn tất mua lại 100% một công ty tài chính](https://vnexpress.net/aeon-financial-hoan-tat-mua-lai-100-mot-cong-ty-tai-chinh-4837528.html) - 16:16 09/01/2025
