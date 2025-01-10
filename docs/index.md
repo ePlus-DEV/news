@@ -256,7 +256,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Báo Người Lao Động trao cờ Tổ quốc, đồng hành chương trình “Xuân biên giới”](https://nld.com.vn/bao-nguoi-lao-dong-trao-co-to-quoc-dong-hanh-chuong-trinh-xuan-bien-gioi-196250110213144491.htm) - 14:45 10/01/2025
-- 😺 [Nóng: Ông Donald Trump sắp bị tuyên án](https://nld.com.vn/nong-ong-donald-trump-sap-bi-tuyen-an-196250110212846702.htm) - 14:36 10/01/2025
+- 😺 [Nóng: Ông Donald Trump được tòa tha bổng vô điều kiện](https://nld.com.vn/nong-ong-donald-trump-sap-bi-tuyen-an-196250110212846702.htm) - 14:36 10/01/2025
 - 👍 [Tập đoàn Vingroup lập công ty nghiên cứu người máy](https://nld.com.vn/tap-doan-vingroup-lap-cong-ty-nghien-cuu-nguoi-may-196250110205352384.htm) - 14:32 10/01/2025
 - 🥷 [Ban Tuyên giáo Thành ủy TP HCM thăm và chúc Tết văn nghệ sĩ tiêu biểu](https://nld.com.vn/ban-tuyen-giao-thanh-uy-tp-hcm-tham-va-chuc-tet-van-nghe-si-tieu-bieu-196250110202341214.htm) - 13:35 10/01/2025
 - 🤔 [Đoàn đại biểu cấp cao tỉnh Champasak thăm và làm việc tại TP HCM](https://nld.com.vn/doan-dai-bieu-cap-cao-tinh-champasak-tham-va-lam-viec-tai-tp-hcm-19625011020061879.htm) - 13:33 10/01/2025
