@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Hai cựu cục trưởng Đăng kiểm Việt Nam được đề nghị giảm án](https://vnexpress.net/hai-cuu-cuc-truong-dang-kiem-viet-nam-duoc-de-nghi-giam-an-4837672.html) - 04:04 10/01/2025
-- 🥰 [Hai người bị tạm giữ trong vụ &#39;chặn đầu ôtô buýt&#39; gây tắc nghẽn giao thông](https://vnexpress.net/hai-nguoi-bi-tam-giu-trong-vu-chan-dau-oto-buyt-gay-tac-nghen-giao-thong-4837623.html) - 03:23 10/01/2025
+- 🥰 [Hai người bị tạm giữ trong vụ &#39;chặn đầu ôtô buýt&#39; gây kẹt xe](https://vnexpress.net/hai-nguoi-bi-tam-giu-trong-vu-chan-dau-oto-buyt-gay-ket-xe-4837623.html) - 03:23 10/01/2025
 - 🎓 [Cướp tiền cho người yêu](https://vnexpress.net/cuop-tien-cho-nguoi-yeu-4837628.html) - 02:56 10/01/2025
 - 🤓 [Có phải lái xe máy chở trẻ 6 tuổi trở lên ngồi phía trước sẽ bị phạt 8 triệu đồng?](https://vnexpress.net/co-phai-lai-xe-may-cho-tre-em-ngoi-phia-truoc-se-bi-phat-8-trieu-dong-4837540.html) - 22:53 09/01/2025
 - 🎊 [Người vợ ngoại tình dùng &#39;liên hoàn kế&#39; đẩy chồng lớn tuổi vào bẫy](https://vnexpress.net/lien-hoan-ke-du-chong-vao-bay-cua-nguoi-vo-ngoai-tinh-4837500.html) - 22:00 09/01/2025
