@@ -4,7 +4,7 @@ sidebar_position: 13
 ---
 
 <!-- dantri-infographic:START -->
-- 🕴 [Tổng hợp các lỗi khiến người điều khiển xe máy và ô tô bị trừ điểm bằng lái](https://dantri.com.vn/o-to-xe-may/tong-hop-cac-loi-khien-nguoi-dieu-khien-xe-may-va-o-to-bi-tru-diem-bang-lai-20250109162802966.htm) - 17:17 09/01/2025
+- 🕴 [Các lỗi khiến người điều khiển xe máy và ô tô bị trừ điểm bằng lái](https://dantri.com.vn/o-to-xe-may/cac-loi-khien-nguoi-dieu-khien-xe-may-va-o-to-bi-tru-diem-bang-lai-20250109162802966.htm) - 17:17 09/01/2025
 - 💻 [Hiện trạng các dự án cao tốc Bắc - Nam qua miền Trung](https://dantri.com.vn/xa-hoi/hien-trang-cac-du-an-cao-toc-bac-nam-qua-mien-trung-20250103221516537.htm) - 02:15 04/01/2025
 - 🗽 [Tài xế ô tô, xe máy vi phạm sẽ bị phạt như thế nào từ 1/1?](https://dantri.com.vn/xa-hoi/tai-xe-o-to-xe-may-vi-pham-se-bi-phat-nhu-the-nao-tu-11-20241231181630765.htm) - 17:16 31/12/2024
 - 👺 [Hãng xe máy được Gen Z yêu thích](https://dantri.com.vn/doi-song/hang-xe-may-duoc-gen-z-yeu-thich-20241227174358752.htm) - 12:00 27/12/2024
