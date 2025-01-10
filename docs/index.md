@@ -585,10 +585,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Những bước đi đầu tiên của tiền đạo Xuân Son sau ca mổ chân](https://tienphong.vn/nhung-buoc-di-dau-tien-cua-tien-dao-xuan-son-sau-ca-mo-chan-post1708586.tpo) - 20:44 10/01/2025
-- 🎊 [Kẹt xe kinh hoàng ở TPHCM, xe máy vẫn không dám leo lề](https://tienphong.vn/ket-xe-kinh-hoang-o-tphcm-xe-may-van-khong-dam-leo-le-post1708587.tpo) - 20:42 10/01/2025
-- 💼 [Thúc đẩy hợp tác kinh tế Việt Nam-Lào tương xứng với quan hệ đặc biệt hai nước](https://tienphong.vn/thuc-day-hop-tac-kinh-te-viet-nam-lao-tuong-xung-voi-quan-he-dac-biet-hai-nuoc-post1708605.tpo) - 20:41 10/01/2025
-- 👺 [Trung Quốc phản đối gọi HMPV là &#39;vi-rút lạ&#39;](https://tienphong.vn/trung-quoc-phan-doi-goi-hmpv-la-vi-rut-la-post1708597.tpo) - 20:34 10/01/2025
+- 💼 [Chủ tịch Quảng Nam: &#39;Sắp tới có nhiều người nghỉ hưu trước tuổi&#39;](https://tienphong.vn/chu-tich-quang-nam-sap-toi-co-nhieu-nguoi-nghi-huu-truoc-tuoi-post1708562.tpo) - 21:06 10/01/2025
+- 🎊 [Những bước đi đầu tiên của tiền đạo Xuân Son sau ca mổ chân](https://tienphong.vn/nhung-buoc-di-dau-tien-cua-tien-dao-xuan-son-sau-ca-mo-chan-post1708586.tpo) - 20:44 10/01/2025
+- 💼 [Kẹt xe kinh hoàng ở TPHCM, xe máy vẫn không dám leo lề](https://tienphong.vn/ket-xe-kinh-hoang-o-tphcm-xe-may-van-khong-dam-leo-le-post1708587.tpo) - 20:42 10/01/2025
+- 👺 [Thúc đẩy hợp tác kinh tế Việt Nam-Lào tương xứng với quan hệ đặc biệt hai nước](https://tienphong.vn/thuc-day-hop-tac-kinh-te-viet-nam-lao-tuong-xung-voi-quan-he-dac-biet-hai-nuoc-post1708605.tpo) - 20:41 10/01/2025
 - 💪 [Bắt nguyên Tổng Giám đốc Công ty cổ phần xi măng Hạ Long](https://tienphong.vn/bat-nguyen-tong-giam-doc-cong-ty-co-phan-xi-mang-ha-long-post1708588.tpo) - 20:18 10/01/2025
 - 💃 [Tuổi trẻ Sơn La mang Tết ấm đến học sinh vùng cao](https://tienphong.vn/tuoi-tre-son-la-mang-tet-am-den-hoc-sinh-vung-cao-post1708453.tpo) - 20:16 10/01/2025
 - 🦍 [Trung Quốc ra cảnh báo với sầu riêng, mít Việt Nam](https://tienphong.vn/trung-quoc-ra-canh-bao-voi-sau-rieng-mit-viet-nam-post1708557.tpo) - 20:09 10/01/2025
