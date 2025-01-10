@@ -260,7 +260,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐎 [Lời giải cho bài toán chống ùn tắc](https://nld.com.vn/loi-giai-cho-bai-toan-chong-un-tac-196250110212752067.htm) - 23:34 10/01/2025
 - 😺 [Cột mốc đáng lo của nhiệt độ toàn cầu](https://nld.com.vn/cot-moc-dang-lo-cua-nhiet-do-toan-cau-196250110213943297.htm) - 23:09 10/01/2025
 - 👍 [Thủ tướng công tác Lào: Những lần &quot;đầu tiên&quot; đặc biệt](https://nld.com.vn/thu-tuong-cong-tac-lao-nhung-lan-dau-tien-dac-biet-196250110234045726.htm) - 23:00 10/01/2025
-- 🥷 [Mai Vàng lan tỏa năng lượng tích cực](https://maivang.nld.com.vn/mai-vang-lan-toa-nang-luong-tich-cuc-196250110215848693.htm) - 23:00 10/01/2025
+- 🥷 [Mai Vàng lan tỏa năng lượng tích cực](https://nld.com.vn/mai-vang-lan-toa-nang-luong-tich-cuc-196250110215848693.htm) - 23:00 10/01/2025
 - 🤔 [Những câu nói “để đời” của HLV Kim Sang-sik](https://nld.com.vn/nhung-cau-noi-de-doi-cua-hlv-kim-sang-sik-19625011017315909.htm) - 23:00 10/01/2025
 - 🌈 [Cuộc thi viết “Lòng tốt quanh ta”: Nhà sư sống tốt đời đẹp đạo](https://nld.com.vn/cuoc-thi-viet-long-tot-quanh-ta-nha-su-song-tot-doi-dep-dao-196250110212605977.htm) - 22:13 10/01/2025
 - 🔥 [Số phận trái ngược của Amad và Rashford](https://nld.com.vn/so-phan-trai-nguoc-cua-amad-va-rashford-196250110215648438.htm) - 22:02 10/01/2025
