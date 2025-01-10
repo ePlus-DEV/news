@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Vingroup khởi động lễ hội ẩm thực - mua sắm](https://vnexpress.net/vingroup-khoi-dong-le-hoi-am-thuc-mua-sam-4837896.html) - 13:00 10/01/2025
+- 💂 [Sắp diễn ra lễ hội Xuân tại Ocean City](https://vnexpress.net/sap-dien-ra-le-hoi-xuan-tai-ocean-city-4837896.html) - 13:00 10/01/2025
 - 🪄 [Cách sống sót khi mắc kẹt trong đám cháy rừng](https://vnexpress.net/cach-song-sot-khi-mac-ket-trong-dam-chay-rung-4837694.html) - 12:00 10/01/2025
 - 🦅 [Đông khách check in linh vật rắn ở Bến Tre](https://vnexpress.net/dong-khach-check-in-linh-vat-ran-o-ben-tre-4837786.html) - 10:18 10/01/2025
 - 🕴 [Lý do hộ chiếu Singapore quyền lực nhất thế giới](https://vnexpress.net/ly-do-ho-chieu-singapore-quyen-luc-nhat-the-gioi-4837603.html) - 05:02 10/01/2025
