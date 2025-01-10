@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Tái diễn tình trạng tiếp viên hàng không tuồn hàng lậu](https://dantri.com.vn/xa-hoi/tai-dien-tinh-trang-tiep-vien-hang-khong-tuon-hang-lau-20250110001608719.htm) - 03:54 10/01/2025
+- 🤠 [&quot;Mong Dân trí bứt phá mạnh mẽ, đổi mới sáng tạo không ngừng&quot;](https://dantri.com.vn/xa-hoi/mong-dan-tri-but-pha-manh-me-doi-moi-sang-tao-khong-ngung-20250110151321619.htm) - 08:28 10/01/2025
 - 🌈 [Xe hybrid hé lộ ra mắt: Xu hướng mới trên thị trường ô tô Việt Nam?](https://dantri.com.vn/o-to-xe-may/xe-hybrid-he-lo-ra-mat-xu-huong-moi-tren-thi-truong-o-to-viet-nam-20250109130920170.htm) - 03:27 10/01/2025
 - 🐎 [Loạt robot độc, lạ và ấn tượng trình diễn tại CES 2025](https://dantri.com.vn/suc-manh-so/loat-robot-doc-la-va-an-tuong-trinh-dien-tai-ces-2025-20250110005111296.htm) - 00:30 10/01/2025
 - 👹 [Bánh cốm làm cạnh nhà vệ sinh, bim bim la liệt trên sàn nhà bụi bặm](https://dantri.com.vn/suc-khoe/banh-com-lam-canh-nha-ve-sinh-bim-bim-la-liet-tren-san-nha-bui-bam-20250109085407874.htm) - 00:08 10/01/2025
