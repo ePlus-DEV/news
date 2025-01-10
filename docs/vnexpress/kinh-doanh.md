@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Vingroup lập công ty người máy](https://vnexpress.net/vingroup-lap-cong-ty-nguoi-may-4837888.html) - 11:51 10/01/2025
+- ⛽️ [Chủ tịch Vingroup Phạm Nhật Vượng lập công ty người máy](https://vnexpress.net/chu-tich-vingroup-pham-nhat-vuong-lap-cong-ty-nguoi-may-4837888.html) - 11:51 10/01/2025
 - 🐲 [SK Investment sẽ bán gần 51 triệu cổ phiếu Vingroup](https://vnexpress.net/sk-investment-se-ban-gan-51-trieu-co-phieu-vingroup-4837876.html) - 10:38 10/01/2025
 - 🔥 [Thái Nguyên và Vingroup hợp tác toàn diện về chuyển đổi xanh](https://vnexpress.net/thai-nguyen-va-vingroup-hop-tac-toan-dien-ve-chuyen-doi-xanh-4837865.html) - 10:00 10/01/2025
 - 🐵 [Cổ phiếu Novaland thủng mệnh giá](https://vnexpress.net/co-phieu-novaland-thung-menh-gia-4837863.html) - 09:57 10/01/2025
