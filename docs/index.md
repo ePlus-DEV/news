@@ -36,9 +36,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🕯 [Chồng tẩu tán tài sản cho nhân tình](https://vnexpress.net/chong-tau-tan-tai-san-cho-nhan-tinh-4837781.html) - 13:00 11/01/2025
 - 💃 [FSEL tài trợ một triệu tài khoản cho Tháng tự học Hà Nội](https://vnexpress.net/fsel-tai-tro-mot-trieu-tai-khoan-cho-thang-tu-hoc-ha-noi-4838158.html) - 13:00 11/01/2025
 - 💂 [Mẹo bóc vỏ hành củ không bị cay mắt](https://vnexpress.net/meo-boc-vo-hanh-cu-khong-bi-cay-mat-4838143.html) - 12:00 11/01/2025
-- 🎊 [Nhan sắc bạn gái tài tử Hugh Jackman](https://vnexpress.net/nhan-sac-ban-gai-tai-tu-hugh-jackman-4838045.html) - 12:00 11/01/2025
-- 🤠 [Lý do lính cứu hỏa bất lực trước cháy rừng ở Los Angeles](https://vnexpress.net/ly-do-linh-cuu-hoa-bat-luc-truoc-chay-rung-o-los-angeles-4837970.html) - 12:00 11/01/2025
-- 🌈 [Tại sao nhiều trụ cứu hỏa ở Los Angeles cạn nước?](https://vnexpress.net/tai-sao-nhieu-tru-cuu-hoa-o-los-angeles-can-nuoc-4837964.html) - 12:00 11/01/2025
+- 🎊 [Lý do lính cứu hỏa bất lực trước cháy rừng ở Los Angeles](https://vnexpress.net/ly-do-linh-cuu-hoa-bat-luc-truoc-chay-rung-o-los-angeles-4837970.html) - 12:00 11/01/2025
+- 🤠 [Tại sao nhiều trụ cứu hỏa ở Los Angeles cạn nước?](https://vnexpress.net/tai-sao-nhieu-tru-cuu-hoa-o-los-angeles-can-nuoc-4837964.html) - 12:00 11/01/2025
+- 🌈 [Nhan sắc bạn gái tài tử Hugh Jackman](https://vnexpress.net/nhan-sac-ban-gai-tai-tu-hugh-jackman-4838045.html) - 12:00 11/01/2025
 - 🎬 [Xử lý thế nào nếu có người dùng ảnh deepfake để làm &#39;thợ săn tiền thưởng&#39;?](https://vnexpress.net/xu-ly-the-nao-neu-co-nguoi-dung-anh-deepfake-de-lam-tho-san-tien-thuong-4838059.html) - 11:57 11/01/2025
 - 🚀 [Khánh thành thêm công viên ven sông Sài Gòn](https://vnexpress.net/khanh-thanh-them-cong-vien-ven-song-sai-gon-4838150.html) - 11:55 11/01/2025
 - 🪄 [Nguyễn Filip chưa nghĩ đến việc rời Việt Nam](https://vnexpress.net/nguyen-filip-chua-nghi-den-viec-roi-viet-nam-4838167.html) - 11:54 11/01/2025
@@ -60,7 +60,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌁 [Thông xe hai đoạn cao tốc Bến Lức - Long Thành trước Tết](https://vnexpress.net/thong-xe-hai-doan-cao-toc-ben-luc-long-thanh-truoc-tet-4838148.html) - 10:08 11/01/2025
 - 🎬 [Làn sóng du học ở tuổi xế chiều](https://vnexpress.net/lan-song-du-hoc-o-tuoi-xe-chieu-4837818.html) - 10:05 11/01/2025
 - 👨‍🏫 [VinFast VF 3 bán nhiều nhất tháng 12/2024](https://vnexpress.net/oto-xe-may/v-car/doanh-so/vinfast-vf-3-ban-nhieu-nhat-thang-12-2024-4838121.html) - 10:05 11/01/2025
-- ⚗️ [Điểm tin 21h: Giá vàng lên gần 87 triệu một lượng | Hộp đen máy bay Jeju Air ngừng hoạt động 4 phút trước tai nạn](https://vnexpress.net/diem-tin-21h-gia-vang-len-gan-87-trieu-mot-luong-hop-den-may-bay-jeju-air-ngung-hoat-dong-4-phut-truoc-tai-nan-4838149.html) - 10:00 11/01/2025
+- ⚗️ [Điểm tin 21h: Thu nhập IT cao nhất các ngành trong 2024 | Lãnh đạo Greenland sẵn sàng đối thoại với ông Trump](https://vnexpress.net/diem-tin-21h-thu-nhap-it-cao-nhat-cac-nganh-trong-2024-lanh-dao-greenland-san-sang-doi-thoai-voi-ong-trump-4838149.html) - 10:00 11/01/2025
 - 😺 [Nghệ sĩ, TikToker livestream bán hàng mua vé xe tặng công nhân](https://vnexpress.net/nghe-si-tiktoker-livestream-ban-hang-mua-ve-xe-tang-cong-nhan-4838142.html) - 09:35 11/01/2025
 - 🔥 [&#39;Vua tiếng Việt&#39; mới thấy lỗi trong câu này?](https://vnexpress.net/vua-tieng-viet-moi-thay-loi-trong-cau-nay-4834125.html) - 09:19 11/01/2025
 - 🧰 [Loạt ứng dụng AI trên máy rửa chén Comfee](https://vnexpress.net/loat-ung-dung-ai-tren-may-rua-chen-comfee-4838140.html) - 09:15 11/01/2025
