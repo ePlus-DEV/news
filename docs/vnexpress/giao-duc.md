@@ -9,7 +9,7 @@ sidebar_position: 7
 - 🦩 [New Zealand cấp 45 học bổng cho học sinh Việt Nam](https://vnexpress.net/new-zealand-cap-45-hoc-bong-cho-hoc-sinh-viet-nam-4837364.html) - 13:51 10/01/2025
 - 🌮 [Tỉnh nào đắt đỏ nhất miền Nam?](https://vnexpress.net/tinh-nao-dat-do-nhat-mien-nam-4837887.html) - 13:16 10/01/2025
 - 🔭 [&#39;Vượt đèn đỏ&#39; trong tiếng Anh nói thế nào](https://vnexpress.net/vuot-den-do-trong-tieng-anh-noi-the-nao-4837568.html) - 07:03 10/01/2025
-- 💡 [Bộ Giáo dục làm rõ diện cộng điểm ưu tiên thi lớp 10](https://vnexpress.net/bo-giao-duc-lam-ro-dien-cong-diem-uu-tien-thi-lop-10-4837674.html) - 05:26 10/01/2025
+- 💡 [Bộ Giáo dục làm rõ diện cộng điểm khuyến khích thi lớp 10](https://vnexpress.net/bo-giao-duc-lam-ro-dien-cong-diem-khuyen-khich-thi-lop-10-4837674.html) - 05:26 10/01/2025
 - 🥰 [Lý do Bộ Giáo dục không cố định môn Tiếng Anh thi lớp 10](https://vnexpress.net/ly-do-bo-giao-duc-khong-co-dinh-mon-tieng-anh-thi-lop-10-4837635.html) - 03:35 10/01/2025
 - 🐲 [Bộ Giáo dục: Vẫn cho phép đánh giá năng lực vào lớp 6](https://vnexpress.net/bo-giao-duc-van-cho-phep-danh-gia-nang-luc-vao-lop-6-4837614.html) - 02:43 10/01/2025
 - 🦒 [Xét tuyển lớp 6 có thể khiến chạy đua &#39;làm đẹp&#39; học bạ](https://vnexpress.net/xet-tuyen-lop-6-co-the-khien-chay-dua-lam-dep-hoc-ba-4837480.html) - 01:21 10/01/2025
