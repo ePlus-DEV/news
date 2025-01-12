@@ -27,7 +27,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Bệnh máu khó đông](https://vnexpress.net/benh-mau-kho-dong-4837465.html) - 18:00 12/01/2025
-- 🧰 [Chơi thiếu người, Man Utd loại Arsenal ở Cup FA](https://vnexpress.net/choi-thieu-nguoi-man-utd-loai-arsenal-o-cup-fa-4838405.html) - 17:58 12/01/2025
+- 🧰 [Chơi thiếu người, Man Utd loại Arsenal trên loạt đá luân lưu](https://vnexpress.net/choi-thieu-nguoi-man-utd-loai-arsenal-tren-loat-da-luan-luu-4838405.html) - 17:58 12/01/2025
 - 🥰 [Khách Tây đến Quảng Bình trải nghiệm massage vịt](https://vnexpress.net/khach-tay-den-quang-binh-trai-nghiem-massage-vit-4837808.html) - 17:09 12/01/2025
 - 🌏 [Vô tinh bế tắc ở nam giới](https://vnexpress.net/vo-tinh-be-tac-o-nam-gioi-4836689.html) - 17:03 12/01/2025
 - 🧐 [Từ 13/1 - 19/1, 12 con giáp có gì thay đổi?](https://vnexpress.net/tu-13-1-19-1-12-con-giap-co-gi-thay-doi-4837867.html) - 17:01 12/01/2025
