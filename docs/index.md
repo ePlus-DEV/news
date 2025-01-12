@@ -591,7 +591,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💼 [Mẹ và hai con gái ở Huế cùng đăng ký hiến mô, tạng](https://tienphong.vn/me-va-hai-con-gai-o-hue-cung-dang-ky-hien-mo-tang-post1708971.tpo) - 23:09 12/01/2025
 - 🎊 [Showbiz 12/1: Văn Toàn lại nói về chuyện tình cảm với Hòa Minzy](https://tienphong.vn/showbiz-121-van-toan-lai-noi-ve-chuyen-tinh-cam-voi-hoa-minzy-post1709016.tpo) - 23:03 12/01/2025
 - 💼 [Thủ môn Văn Lâm, &#39;ông vua&#39; bắt phạt đền của bóng đá Việt Nam](https://tienphong.vn/thu-mon-van-lam-ong-vua-bat-phat-den-cua-bong-da-viet-nam-post1709010.tpo) - 21:18 12/01/2025
-- 👺 [Trực tiếp FA Cup Arsenal vs MU 1-1&lpar;H2&rpar;: Haverzt lỡ cơ hội](https://tienphong.vn/truc-tiep-fa-cup-arsenal-vs-mu-1-1h2-haverzt-lo-co-hoi-post1709011.tpo) - 21:17 12/01/2025
+- 👺 [Trực tiếp FA Cup Arsenal vs MU 1-1&lpar;Hết H2&rpar;: Hai đội đá hiệp phụ](https://tienphong.vn/truc-tiep-fa-cup-arsenal-vs-mu-1-1het-h2-hai-doi-da-hiep-phu-post1709011.tpo) - 21:17 12/01/2025
 - 💪 [Có 3 khung giờ đẹp để cúng ngày Rằm cuối cùng của năm 2024](https://tienphong.vn/co-3-khung-gio-dep-de-cung-ngay-ram-cuoi-cung-cua-nam-2024-post1708983.tpo) - 20:58 12/01/2025
 - 💃 [Nổ bình gas tại quán ăn, 9 thầy cô và học sinh bị bỏng](https://tienphong.vn/no-binh-gas-tai-quan-an-9-thay-co-va-hoc-sinh-bi-bong-post1709007.tpo) - 20:53 12/01/2025
 - 🦍 [Nhân viên ngân hàng chiếm đoạt hàng tỷ đồng của khách hàng](https://tienphong.vn/nhan-vien-ngan-hang-chiem-doat-hang-ty-dong-cua-khach-hang-post1708970.tpo) - 20:33 12/01/2025
