@@ -4,8 +4,8 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Công Phượng phá lưới HAGL trước khi thua luân lưu](https://vnexpress.net/cong-phuong-pha-luoi-hagl-truoc-khi-thua-luan-luu-4838375.html) - 13:29 12/01/2025
-- 🦩 [Đặng Văn Lâm giúp Ninh Bình thắng luân lưu hai trận liền ở Cup Quốc gia](https://vnexpress.net/dang-van-lam-giup-ninh-binh-thang-luan-luu-hai-tran-lien-o-cup-quoc-gia-4838379.html) - 12:45 12/01/2025
+- 🪜 [Công Phượng phá lưới HAGL ở Cup Quốc gia](https://vnexpress.net/cong-phuong-pha-luoi-hagl-o-cup-quoc-gia-4838375.html) - 13:29 12/01/2025
+- 🦩 [Đặng Văn Lâm lại giúp Ninh Bình thắng luân lưu ở Cup Quốc gia](https://vnexpress.net/dang-van-lam-lai-giup-ninh-binh-thang-luan-luu-o-cup-quoc-gia-4838379.html) - 12:45 12/01/2025
 - 🧰 [HAGL hòa giải với ngoại binh Dzilah](https://vnexpress.net/hagl-hoa-giai-voi-ngoai-binh-dzilah-4838361.html) - 10:11 12/01/2025
 - 🤗 [Malaysia sắp nhập tịch thêm 7 cầu thủ để đấu Việt Nam](https://vnexpress.net/malaysia-sap-nhap-tich-them-7-cau-thu-de-dau-viet-nam-4838358.html) - 09:55 12/01/2025
 - 🥳 [Huy chương mang cảm hứng vươn lên đỉnh cao của giải chạy đêm TP HCM](https://vnexpress.net/huy-chuong-mang-cam-hung-vuon-len-dinh-cao-cua-giai-chay-dem-tp-hcm-4838077.html) - 07:49 12/01/2025
