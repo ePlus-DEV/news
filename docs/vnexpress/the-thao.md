@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Chơi thiếu người, Man Utd loại Arsenal ở Cup FA](https://vnexpress.net/choi-thieu-nguoi-man-utd-loai-arsenal-o-cup-fa-4838405.html) - 17:58 12/01/2025
+- 🪜 [Chơi thiếu người, Man Utd vẫn loại Arsenal ở Cup FA](https://vnexpress.net/choi-thieu-nguoi-man-utd-van-loai-arsenal-o-cup-fa-4838405.html) - 17:58 12/01/2025
 - 🦩 [Công Phượng phá lưới HAGL ở Cup Quốc gia](https://vnexpress.net/cong-phuong-pha-luoi-hagl-o-cup-quoc-gia-4838375.html) - 13:29 12/01/2025
 - 🧰 [Đặng Văn Lâm lại giúp Ninh Bình thắng luân lưu ở Cup Quốc gia](https://vnexpress.net/dang-van-lam-lai-giup-ninh-binh-thang-luan-luu-o-cup-quoc-gia-4838379.html) - 12:45 12/01/2025
 - 🤗 [HAGL hòa giải với ngoại binh Dzilah](https://vnexpress.net/hagl-hoa-giai-voi-ngoai-binh-dzilah-4838361.html) - 10:11 12/01/2025
