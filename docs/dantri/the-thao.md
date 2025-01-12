@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Báo Hàn Quốc: &quot;AFF Cup không thể sánh bằng vòng loại World Cup&quot;](https://dantri.com.vn/the-thao/bao-han-quoc-aff-cup-khong-the-sanh-bang-vong-loai-world-cup-20250112170811899.htm) - 10:08 12/01/2025
+- 🎡 [Báo Hàn Quốc: &quot;AFF Cup không thể sánh bằng vòng loại World Cup&quot;](https://dantri.com.vn/the-thao/bao-han-quoc-aff-cup-khong-the-sanh-bang-vong-loai-world-cup-20250112170811899.htm) - 10:31 12/01/2025
 - 💯 [HLV Shin Tae Yong gửi tâm thư cho đội tuyển Indonesia](https://dantri.com.vn/the-thao/hlv-shin-tae-yong-gui-tam-thu-cho-doi-tuyen-indonesia-20250112170651644.htm) - 10:07 12/01/2025
 - ⛽️ [HLV Patrick Kluivert được chào đón khi đến Indonesia](https://dantri.com.vn/the-thao/hlv-patrick-kluivert-duoc-chao-don-khi-den-indonesia-20250112121843709.htm) - 07:14 12/01/2025
 - 💃 [HLV đội tuyển Thái Lan muốn đưa Hoàng Đức sang Nhật Bản thi đấu](https://dantri.com.vn/the-thao/hlv-doi-tuyen-thai-lan-muon-dua-hoang-duc-sang-nhat-ban-thi-dau-20250112130746960.htm) - 07:10 12/01/2025
