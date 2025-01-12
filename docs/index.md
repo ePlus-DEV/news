@@ -589,7 +589,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
 - 💼 [Thủ môn Văn Lâm, &#39;ông vua&#39; bắt phạt đền của bóng đá Việt Nam](https://tienphong.vn/thu-mon-van-lam-ong-vua-bat-phat-den-cua-bong-da-viet-nam-post1709010.tpo) - 21:18 12/01/2025
-- 🎊 [Trực tiếp FA Cup Arsenal vs MU, 22h00 ngày 12/1: Thời cơ của Quỷ đỏ](https://tienphong.vn/truc-tiep-fa-cup-arsenal-vs-mu-22h00-ngay-121-thoi-co-cua-quy-do-post1709011.tpo) - 21:17 12/01/2025
+- 🎊 [Trực tiếp FA Cup Arsenal vs MU 0-0 &lpar;H1&rpar;: Bruno nhận thẻ vàng](https://tienphong.vn/truc-tiep-fa-cup-arsenal-vs-mu-0-0-h1-bruno-nhan-the-vang-post1709011.tpo) - 21:17 12/01/2025
 - 💼 [Có 3 khung giờ đẹp để cúng ngày Rằm cuối cùng của năm 2024](https://tienphong.vn/co-3-khung-gio-dep-de-cung-ngay-ram-cuoi-cung-cua-nam-2024-post1708983.tpo) - 20:58 12/01/2025
 - 👺 [Nổ bình gas tại quán ăn, 9 thầy cô và học sinh bị bỏng](https://tienphong.vn/no-binh-gas-tai-quan-an-9-thay-co-va-hoc-sinh-bi-bong-post1709007.tpo) - 20:53 12/01/2025
 - 💪 [Nhân viên ngân hàng chiếm đoạt hàng tỷ đồng của khách hàng](https://tienphong.vn/nhan-vien-ngan-hang-chiem-doat-hang-ty-dong-cua-khach-hang-post1708970.tpo) - 20:33 12/01/2025
