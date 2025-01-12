@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Nhân viên ngân hàng &#39;nhúng chàm&#39; sau khi lỗ 20 tỷ đồng tiền ảo](https://vnexpress.net/nhan-vien-ngan-hang-nhung-cham-sau-khi-lo-20-ty-dong-tien-ao-4838320.html) - 06:56 12/01/2025
-- 🥰 [Tài xế ôtô Mercedes cầm kiếm đe dọa bảo vệ công viên](https://vnexpress.net/tai-xe-oto-mercedes-cam-kiem-de-doa-bao-ve-cong-vien-4838262.html) - 06:43 12/01/2025
+- 🥰 [Người đàn ông cầm kiếm đe dọa bảo vệ công viên](https://vnexpress.net/nguoi-dan-ong-cam-kiem-de-doa-bao-ve-cong-vien-4838262.html) - 06:43 12/01/2025
 - 🎓 [Tài xế taxi bị đánh hội đồng](https://vnexpress.net/tai-xe-taxi-bi-danh-hoi-dong-4838300.html) - 05:34 12/01/2025
 - 🤓 [Gây án mạng vì ghen](https://vnexpress.net/gay-an-mang-vi-ghen-4838299.html) - 05:01 12/01/2025
 - 🎊 [Có bắt buộc mọi trường hợp đi bộ sang đường phải vẫy tay báo hiệu?](https://vnexpress.net/co-bat-buoc-moi-truong-hop-di-bo-sang-duong-phai-vay-tay-bao-hieu-4838225.html) - 00:59 12/01/2025
