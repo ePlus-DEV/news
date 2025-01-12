@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- dantri-xa-hoi:START -->
 - 🫣 [Xem bản đồ khi lái xe, shipper, tài xế xe ôm cần làm gì để không bị phạt?](https://dantri.com.vn/xa-hoi/xem-ban-do-khi-lai-xe-shipper-tai-xe-xe-om-can-lam-gi-de-khong-bi-phat-20250112123739576.htm) - 06:31 12/01/2025
-- 💼 [Bộ Nội vụ vụ đốc thúc các bộ, ngành hoàn thiện đề án tinh gọn bộ máy](https://dantri.com.vn/xa-hoi/bo-noi-vu-vu-doc-thuc-cac-bo-nganh-hoan-thien-de-an-tinh-gon-bo-may-20250112122555079.htm) - 06:30 12/01/2025
+- 💼 [Bộ Nội vụ đốc thúc các bộ, ngành hoàn thiện đề án tinh gọn bộ máy](https://dantri.com.vn/xa-hoi/bo-noi-vu-doc-thuc-cac-bo-nganh-hoan-thien-de-an-tinh-gon-bo-may-20250112122555079.htm) - 06:30 12/01/2025
 - 🎊 [Tàu cá bị chìm khi đang neo đậu trên sông Nhật Lệ](https://dantri.com.vn/xa-hoi/tau-ca-bi-chim-khi-dang-neo-dau-tren-song-nhat-le-20250112125204087.htm) - 06:25 12/01/2025
 - 🙉 [Chủ tịch Quốc hội thăm và chúc Tết công nhân ở Hậu Giang](https://dantri.com.vn/xa-hoi/chu-tich-quoc-hoi-tham-va-chuc-tet-cong-nhan-o-hau-giang-20250112122925772.htm) - 06:23 12/01/2025
 - 🕯 [Người đàn ông đi xe sang, rút kiếm dọa nạt nhân viên môi trường ở Nha Trang](https://dantri.com.vn/xa-hoi/nguoi-dan-ong-di-xe-sang-rut-kiem-doa-nat-nhan-vien-moi-truong-o-nha-trang-20250112121239595.htm) - 06:03 12/01/2025
