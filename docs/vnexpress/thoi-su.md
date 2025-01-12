@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Nghị định 168/2024 ban hành theo trình tự rút gọn](https://vnexpress.net/nghi-dinh-168-2024-ban-hanh-theo-trinh-tu-rut-gon-4838355.html) - 11:58 12/01/2025
+- 🦒 [Cục CSGT: Nghị định 168/2024 ban hành theo trình tự rút gọn](https://vnexpress.net/cuc-csgt-nghi-dinh-168-2024-ban-hanh-theo-trinh-tu-rut-gon-4838355.html) - 11:58 12/01/2025
 - 🤓 [Miền Bắc rét cả tuần tới](https://vnexpress.net/mien-bac-ret-ca-tuan-toi-4838344.html) - 10:19 12/01/2025
 - ⚗️ [TP HCM chi gần 1.500 tỷ đồng chăm lo Tết cho người dân](https://vnexpress.net/tp-hcm-chi-gan-1-500-ty-dong-cham-lo-tet-cho-nguoi-dan-4838277.html) - 05:40 12/01/2025
 - 🌊 [Cháy rừng suốt hai ngày ở Phú Quốc](https://vnexpress.net/chay-rung-suot-hai-ngay-o-phu-quoc-4838281.html) - 05:11 12/01/2025
