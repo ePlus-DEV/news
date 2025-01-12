@@ -19,7 +19,7 @@ sidebar_position: 9
 - 🎊 [Bài toán bù lỗ Metro Bến Thành - Suối Tiên](https://vnexpress.net/bai-toan-bu-lo-metro-ben-thanh-suoi-tien-4838330.html) - 09:00 12/01/2025
 - 😺 [Khi nào 1 + 1 = 1 mà không phải tính sai?](https://vnexpress.net/khi-nao-1-1-1-ma-khong-phai-tinh-sai-4837723.html) - 08:56 12/01/2025
 - 🐘 [Trung Quốc cảnh báo với sầu riêng, mít Việt](https://vnexpress.net/trung-quoc-canh-bao-voi-sau-rieng-mit-viet-4838270.html) - 08:53 12/01/2025
-- 🌁 [Thúy Hạnh chụp hình cùng hai con gái tuổi teen](https://vnexpress.net/thuy-hanh-chup-hinh-cung-hai-con-gai-tuoi-teen-4836372.html) - 08:44 12/01/2025
+- 🌁 [Hai con gái tuổi teen của Thúy Hạnh](https://vnexpress.net/hai-con-gai-tuoi-teen-cua-thuy-hanh-4836372.html) - 08:44 12/01/2025
 - 🐲 [Huế mời đầu tư dự án nhà xã hội gần 1.800 tỷ đồng](https://vnexpress.net/hue-moi-dau-tu-du-an-nha-xa-hoi-gan-1-800-ty-dong-4838325.html) - 08:41 12/01/2025
 - 🤓 [Tìm tri kỷ để cùng viết câu chuyện cuộc đời ý nghĩa](https://vnexpress.net/tim-tri-ky-de-cung-viet-cau-chuyen-cuoc-doi-y-nghia-4838291.html) - 08:00 12/01/2025
 - 💪 [Hai vợ chồng bị chuột cắn nhiễm độc](https://vnexpress.net/hai-vo-chong-bi-chuot-can-nhiem-doc-4838276.html) - 08:00 12/01/2025
