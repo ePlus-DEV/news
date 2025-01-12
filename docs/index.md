@@ -407,7 +407,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [TỔNG THUẬT: Phiên họp trực tuyến toàn quốc lần thứ 2 Ban Chỉ đạo triển khai xoá nhà tạm, nhà dột nát trên phạm vi cả nước](https://baochinhphu.vn/tong-thuat-phien-hop-truc-tuyen-toan-quoc-lan-thu-2-ban-chi-dao-trien-khai-xoa-nha-tam-nha-dot-nat-tren-pham-vi-ca-nuoc-102250112152243187.htm) - 15:22 12/01/2025
+- 💻 [TỔNG THUẬT: Phiên họp trực tuyến toàn quốc lần thứ 2 Ban Chỉ đạo triển khai xoá nhà tạm, nhà dột nát trên phạm vi cả nước](https://baochinhphu.vn/tong-thuat-phien-hop-truc-tuyen-toan-quoc-lan-thu-2-ban-chi-dao-trien-khai-xoa-nha-tam-nha-dot-nat-tren-pham-vi-ca-nuoc-102250112152243187.htm) - 16:06 12/01/2025
 - 🌜 [Đêm Gala WeChoice Awards 2024 đã sẵn sàng](https://baochinhphu.vn/dem-gala-wechoice-awards-2024-da-san-sang-102250112143837924.htm) - 14:38 12/01/2025
 - 🦆 [Chủ tịch Quốc hội thăm, tặng quà Tết cho gia đình chính sách, người nghèo, công nhân lao động tại tỉnh Hậu Giang](https://baochinhphu.vn/chu-tich-quoc-hoi-tham-tang-qua-tet-cho-gia-dinh-chinh-sach-nguoi-ngheo-cong-nhan-lao-dong-tai-tinh-hau-giang-102250112114614086.htm) - 12:03 12/01/2025
 - 🌝 [Bà con kiều bào đón &quot;Xuân quê hương&quot; tại các nước](https://baochinhphu.vn/ba-con-kieu-bao-don-xuan-que-huong-tai-cac-nuoc-102250112110845117.htm) - 10:02 12/01/2025
