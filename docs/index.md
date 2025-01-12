@@ -520,7 +520,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Các dancer nhí bận rộn chuẩn bị tiết mục biểu diễn Tết cho em 2025](https://muctim.tuoitre.vn/cac-dancer-nhi-ban-ron-chuan-bi-tiet-muc-bieu-dien-tet-cho-em-2025-101250112123209326.htm) - 06:43 12/01/2025
+- 🤔 [Các dancer nhí hăng say tập luyện tiết mục biểu diễn Tết cho em 2025](https://muctim.tuoitre.vn/cac-dancer-nhi-ban-ron-chuan-bi-tiet-muc-bieu-dien-tet-cho-em-2025-101250112123209326.htm) - 06:43 12/01/2025
 - 🥷 [Học trò Trường THPT Hiệp Bình ‘góp chữ’, tặng người dân ‘Tết nhân ái’](https://muctim.tuoitre.vn/hoc-tro-truong-thpt-hiep-binh-gop-chu-tang-nguoi-dan-tet-nhan-ai-10125011118590909.htm) - 04:55 12/01/2025
 - 🤖 [Hành trình từ phi công trở thành huyền thoại của đại tá Nguyễn Thành Trung](https://muctim.tuoitre.vn/hanh-trinh-tu-phi-cong-tro-thanh-huyen-thoai-cua-dai-ta-nguyen-thanh-trung-10125010810313363.htm) - 04:45 12/01/2025
 - 🤓 [5 năm gắn bó cùng Khăn Quàng Đỏ của nữ sinh Trường THCS Bình Quới Tây](https://muctim.tuoitre.vn/5-nam-gan-bo-cung-khan-quang-do-cua-nu-sinh-truong-thcs-binh-quoi-tay-101250108153710543.htm) - 04:43 12/01/2025
