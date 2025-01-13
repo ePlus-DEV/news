@@ -4,7 +4,7 @@ sidebar_position: 20
 ---
 
 <!-- dantri-tam-long-nhan-ai:START -->
-- 🌝 [Giọt nước mắt chàng sĩ quan: &quot;Mong được sống tiếp để phụng sự Tổ quốc!&quot;](https://dantri.com.vn/tam-long-nhan-ai/giot-nuoc-mat-chang-si-quan-mong-duoc-song-tiep-de-phung-su-to-quoc-20250110112812204.htm) - 22:30 12/01/2025
+- 🌝 [Giọt nước mắt chàng sĩ quan, mong được sống tiếp để phụng sự Tổ quốc](https://dantri.com.vn/tam-long-nhan-ai/giot-nuoc-mat-chang-si-quan-mong-duoc-song-tiep-de-phung-su-to-quoc-20250110112812204.htm) - 22:30 12/01/2025
 - 🌜 [Gia đình nghèo ở Trà Vinh đón nhận nhà Nhân ái trước thềm Xuân](https://dantri.com.vn/tam-long-nhan-ai/gia-dinh-ngheo-o-tra-vinh-don-nhan-nha-nhan-ai-truoc-them-xuan-20250112090515889.htm) - 09:19 12/01/2025
 - 👀 [Khánh thành nhà Nhân ái dành tặng người phụ nữ cô đơn, khốn khó ở Bắc Kạn](https://dantri.com.vn/tam-long-nhan-ai/khanh-thanh-nha-nhan-ai-danh-tang-nguoi-phu-nu-co-don-khon-kho-o-bac-kan-20250111213806911.htm) - 00:39 12/01/2025
 - 🚀 [&quot;Bố mẹ khánh kiệt rồi, không còn gì để bán lấy tiền cứu con&quot;](https://dantri.com.vn/tam-long-nhan-ai/bo-me-khanh-kiet-roi-khong-con-gi-de-ban-lay-tien-cuu-con-20250103120559957.htm) - 22:30 11/01/2025
