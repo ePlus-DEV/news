@@ -4,7 +4,7 @@ sidebar_position: 23
 ---
 
 <!-- dantri-suc-khoe:START -->
-- 🤔 [Hai vợ chồng sốt đùng đùng, nhập viện vì bị chuột cắn](https://dantri.com.vn/suc-khoe/hai-vo-chong-sot-dung-dung-nhap-vien-vi-bi-chuot-can-20250113202725532.htm) - 13:27 13/01/2025
+- 🤔 [Một tuần sau khi bị chuột cắn, hai vợ chồng nhập viện cấp cứu](https://dantri.com.vn/suc-khoe/mot-tuan-sau-khi-bi-chuot-can-hai-vo-chong-nhap-vien-cap-cuu-20250113202725532.htm) - 13:27 13/01/2025
 - 🚦 [Chồng làm ăn thua lỗ, nợ nần, vợ lo lắng đến mức nhập viện tâm thần](https://dantri.com.vn/suc-khoe/chong-lam-an-thua-lo-no-nan-vo-lo-lang-den-muc-nhap-vien-tam-than-20250113171700498.htm) - 13:09 13/01/2025
 - 🤖 [Tuần kỷ lục tại Bệnh viện Việt Đức: 4 ca hiến tạng, 21 trường hợp ghép](https://dantri.com.vn/suc-khoe/tuan-ky-luc-tai-benh-vien-viet-duc-4-ca-hien-tang-21-truong-hop-ghep-20250113183713099.htm) - 11:37 13/01/2025
 - 🐻 [Công nghệ giúp tạo đột phá trong phẫu thuật thần kinh](https://dantri.com.vn/suc-khoe/cong-nghe-giup-tao-dot-pha-trong-phau-thuat-than-kinh-20250113175120997.htm) - 11:21 13/01/2025
