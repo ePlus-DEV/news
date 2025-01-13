@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Ca khúc Tết của Noo trong &#39;Gala nhạc Việt&#39; vào top thịnh hành](https://vnexpress.net/ca-khuc-tet-cua-noo-trong-gala-nhac-viet-vao-top-thinh-hanh-4838757.html) - 13:00 13/01/2025
+- 🌏 [Ca khúc Tết của Noo Phước Thịnh vào top thịnh hành](https://vnexpress.net/ca-khuc-tet-cua-noo-phuoc-thinh-vao-top-thinh-hanh-4838757.html) - 13:00 13/01/2025
 - 💫 [Phong cách gợi cảm của Phương Anh Đào](https://vnexpress.net/phong-cach-goi-cam-cua-phuong-anh-dao-4838661.html) - 12:30 13/01/2025
 - 🌮 [Meghan Markle hoãn phát sóng show mới](https://vnexpress.net/meghan-markle-hoan-phat-song-show-moi-4838685.html) - 10:51 13/01/2025
 - 🧠 [Bảo tàng trụ vững giữa cháy rừng ở California](https://vnexpress.net/bao-tang-tru-vung-giua-chay-rung-o-california-4838470.html) - 08:36 13/01/2025
