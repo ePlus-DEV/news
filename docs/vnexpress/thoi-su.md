@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Ùn tắc giao thông ở trung tâm TP HCM tăng 17%](https://vnexpress.net/un-tac-giao-thong-o-trung-tam-tp-hcm-tang-17-4838647.html) - 08:14 13/01/2025
+- 🦒 [Kẹt xe ở trung tâm TP HCM tăng 17%](https://vnexpress.net/ket-xe-o-trung-tam-tp-hcm-tang-17-4838647.html) - 08:14 13/01/2025
 - 🤓 [Băng giá xuất hiện ở vùng cao Nghệ An](https://vnexpress.net/bang-gia-xuat-hien-o-vung-cao-nghe-an-4838637.html) - 07:01 13/01/2025
 - ⚗️ [Tổng Bí thư: Khoa học công nghệ là &#39;chìa khóa vàng&#39; để thịnh vượng](https://vnexpress.net/tong-bi-thu-khoa-hoc-cong-nghe-la-chia-khoa-vang-de-thinh-vuong-4838608.html) - 06:13 13/01/2025
 - 🌊 [Cháy lớn ở UBND tỉnh Bình Phước](https://vnexpress.net/chay-lon-o-ubnd-tinh-binh-phuoc-4838630.html) - 05:43 13/01/2025
@@ -44,7 +44,7 @@ sidebar_position: 1
 - 🎡 [Hai năm huấn luyện gian khổ của đặc công nước](https://vnexpress.net/hai-nam-huan-luyen-gian-kho-cua-dac-cong-nuoc-4836988.html) - 17:00 10/01/2025
 - 🦏 [Bí thư Vĩnh Phúc Dương Văn An bị cảnh cáo](https://vnexpress.net/bi-thu-vinh-phuc-duong-van-an-bi-canh-cao-4837890.html) - 12:06 10/01/2025
 - 🎊 [Đèn đỏ gặp sự cố, người dân dắt xe qua giao lộ ở TP HCM](https://vnexpress.net/den-do-gap-su-co-nguoi-dan-dat-xe-qua-giao-lo-o-tp-hcm-4837859.html) - 09:48 10/01/2025
-- 🫶 [TP HCM lắp loạt đèn tín hiệu cho xe rẽ phải khi đèn đỏ](https://vnexpress.net/tp-hcm-lap-loat-den-tin-hieu-cho-xe-re-phai-khi-den-do-4837855.html) - 09:35 10/01/2025
+- 🫶 [TP HCM lắp loạt tín hiệu cho xe rẽ phải khi đèn đỏ](https://vnexpress.net/tp-hcm-lap-loat-tin-hieu-cho-xe-re-phai-khi-den-do-4837855.html) - 09:35 10/01/2025
 - 🤔 [Số người rút bảo hiểm xã hội một lần ở TP HCM giảm mạnh](https://vnexpress.net/so-nguoi-rut-bao-hiem-xa-hoi-mot-lan-o-tp-hcm-giam-manh-4837789.html) - 07:33 10/01/2025
 - 🤠 [Hà Nội khuyến khích người dân chuyển từ xe xăng sang xe điện](https://vnexpress.net/ha-noi-khuyen-khich-nguoi-dan-chuyen-tu-xe-xang-sang-xe-dien-4837759.html) - 07:30 10/01/2025
 - 🌜 [Điều chỉnh lịch chạy metro Bến Thành - Suối Tiên dịp Tết](https://vnexpress.net/dieu-chinh-lich-chay-metro-ben-thanh-suoi-tien-dip-tet-4837769.html) - 06:56 10/01/2025
