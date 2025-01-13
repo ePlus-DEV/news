@@ -158,7 +158,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐲 [Liệu có xảy ra kịch bản cực kỳ thú vị ở bảng C?](https://thanhnien.vn/lieu-co-xay-ra-kich-ban-la-doi-o-bang-c-185250113163413595.htm) - 12:56 13/01/2025
 - 🎃 [6 thiết bị Apple được chờ đợi nâng cấp năm nay](https://thanhnien.vn/6-thiet-bi-apple-duoc-cho-doi-nang-cap-nam-nay-185250113131558164.htm) - 12:53 13/01/2025
 - 🎬 [Thủ tướng sắp thăm Ba Lan, Czech và tham dự WEF Davos tại Thụy Sĩ](https://thanhnien.vn/thu-tuong-sap-tham-ba-lan-czech-va-tham-du-wef-davos-tai-thuy-sy-185250113192918571.htm) - 12:39 13/01/2025
-- 🌜 [Bí mật hậu trường đằng sau sự nghiệp của Song Hye Kyo](https://thanhnien.vn/bi-mat-hau-truong-dang-sau-su-nghiep-cua-song-hye-kyo-185250113154922788.htm) - 12:37 13/01/2025
+- 🌜 [Bí mật đằng sau sự nghiệp của Song Hye Kyo](https://thanhnien.vn/bi-mat-hau-truong-dang-sau-su-nghiep-cua-song-hye-kyo-185250113154922788.htm) - 12:37 13/01/2025
 - 🦆 [Jun Vũ phản hồi thông tin &#39;nhà có điều kiện, không quan tâm cát sê&#39;](https://thanhnien.vn/dien-vien-jun-vu-toi-muon-mua-gi-cung-phai-xin-me-185250113182221092.htm) - 12:29 13/01/2025
 - 🐵 [Công an tỉnh Hà Nam có nữ phó giám đốc](https://thanhnien.vn/cong-an-tinh-ha-nam-co-nu-pho-giam-doc-185250113191552164.htm) - 12:26 13/01/2025
 - 🙉 [Giá bất động sản có nơi tăng 25% so với năm 2023](https://thanhnien.vn/gia-bat-dong-san-co-noi-tang-25-so-voi-nam-2023-185250113184120124.htm) - 12:16 13/01/2025
