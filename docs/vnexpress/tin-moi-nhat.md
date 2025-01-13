@@ -56,4 +56,5 @@ sidebar_position: 9
 - 🦩 [Cố vấn của ông Trump kêu gọi Ukraine hạ tuổi nhập ngũ](https://vnexpress.net/co-van-cua-ong-trump-keu-goi-ukraine-ha-tuoi-nhap-ngu-4838445.html) - 02:39 13/01/2025
 - 👍 [Nhiều chặng &#39;cháy&#39; vé Tết dù các hãng liên tục bổ sung chuyến bay](https://vnexpress.net/nhieu-chang-chay-ve-tet-du-cac-hang-lien-tuc-bo-sung-chuyen-bay-4838226.html) - 02:38 13/01/2025
 - 🔥 [Los Angeles miễn phí, giảm giá phòng cho khách do cháy rừng](https://vnexpress.net/los-angeles-mien-phi-giam-gia-phong-cho-khach-do-chay-rung-4838449.html) - 02:29 13/01/2025
-- 💄 [Hyundai bán ôtô điện giá rẻ ở Nhật Bản](https://vnexpress.net/hyundai-ban-oto-dien-gia-re-o-nhat-ban-4838177.html) - 02:29 13/01/2025<!-- vnexpress-tin-moi-nhat:END -->
+- 💄 [Hyundai bán ôtô điện giá rẻ ở Nhật Bản](https://vnexpress.net/hyundai-ban-oto-dien-gia-re-o-nhat-ban-4838177.html) - 02:29 13/01/2025
+- 🤡 [Lễ xuất gia ở chùa Từ Hiếu](https://vnexpress.net/le-xuat-gia-o-chua-tu-hieu-4838362.html) - 02:28 13/01/2025<!-- vnexpress-tin-moi-nhat:END -->
