@@ -4,7 +4,7 @@ sidebar_position: 28
 ---
 
 <!-- dantri-photo-story:START -->
-- 💪 [Thiếu nữ xúng xính áo dài trên phố ông đồ ở TPHCM](https://dantri.com.vn/giao-duc/thieu-nu-xung-xinh-ao-dai-tren-pho-ong-do-o-tphcm-20250113181201491.htm) - 14:25 13/01/2025
+- 💪 [Thiếu nữ xúng xính áo dài trên phố ông đồ ở TPHCM](https://dantri.com.vn/xa-hoi/thieu-nu-xung-xinh-ao-dai-tren-pho-ong-do-o-tphcm-20250113181201491.htm) - 14:25 13/01/2025
 - 🧰 [Cận cảnh những khu dân cư bị thiêu rụi trong &quot;bão lửa&quot; California](https://dantri.com.vn/the-gioi/can-canh-nhung-khu-dan-cu-bi-thieu-rui-trong-bao-lua-california-20250113164418848.htm) - 10:36 13/01/2025
 - 🧰 [Hà Nội rét 10 độ C, các &quot;nàng thơ&quot; dậy từ 4h diện áo váy chụp ảnh ở hồ Gươm](https://dantri.com.vn/doi-song/ha-noi-ret-10-do-c-cac-nang-tho-day-tu-4h-dien-ao-vay-chup-anh-o-ho-guom-20250113114750198.htm) - 05:14 13/01/2025
 - 😎 [Kẹt xe &quot;không lối thoát&quot; ở TPHCM trong sáng đầu tuần](https://dantri.com.vn/xa-hoi/ket-xe-khong-loi-thoat-o-tphcm-trong-sang-dau-tuan-20250113103440923.htm) - 04:16 13/01/2025
