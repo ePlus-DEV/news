@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🌏 [Trang phục của phụ nữ các dân tộc Việt Nam qua sách du khảo](https://vnexpress.net/trang-phuc-cua-phu-nu-cac-dan-toc-viet-nam-qua-sach-du-khao-4838350.html) - 22:00 12/01/2025
 - 💫 [Chõ gốm Đông Sơn - sáng chế từ thời sơ sử](https://vnexpress.net/cho-gom-dong-son-sang-che-tu-thoi-so-su-4837289.html) - 17:00 12/01/2025
 - 🌮 [Sắc vóc bạn gái của Cruz Beckham](https://vnexpress.net/sac-voc-ban-gai-cua-cruz-beckham-4836193.html) - 14:00 12/01/2025
-- 🧠 [Cựu sao nhí qua đời trong vụ cháy ở Hollywood](https://vnexpress.net/cuu-sao-nhi-qua-doi-trong-vu-chay-o-hollywood-4838377.html) - 13:10 12/01/2025
+- 🧠 [Cựu sao nhí qua đời trong vụ cháy rừng ở Hollywood](https://vnexpress.net/cuu-sao-nhi-qua-doi-trong-vu-chay-rung-o-hollywood-4838377.html) - 13:10 12/01/2025
 - 👨‍🏫 [Mỹ nữ cổ trang được ví &#39;bước ra từ tranh&#39;](https://vnexpress.net/my-nu-co-trang-duoc-vi-buoc-ra-tu-tranh-4838341.html) - 12:00 12/01/2025
 - ⚗️ [Dàn nghệ sĩ gạo cội trở lại &#39;Táo quân 2025&#39;](https://vnexpress.net/dan-nghe-si-gao-coi-tro-lai-tao-quan-2025-4838346.html) - 09:34 12/01/2025
 - 😎 [Hai con gái tuổi teen của Thúy Hạnh](https://vnexpress.net/hai-con-gai-tuoi-teen-cua-thuy-hanh-4836372.html) - 08:44 12/01/2025
