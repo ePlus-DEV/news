@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Trải nghiệm đón giao thừa trên tàu hỏa](https://vnexpress.net/trai-nghiem-don-giao-thua-tren-tau-hoa-4838645.html) - 07:42 13/01/2025
+- 💂 [Ra mắt chuyến tàu chạy xuyên giao thừa Ất Tỵ](https://vnexpress.net/ra-mat-chuyen-tau-chay-xuyen-giao-thua-at-ty-4838645.html) - 07:42 13/01/2025
 - 🪄 [Kyoto tính đánh thuế khách sạn cao gấp 10 lần để bớt khách](https://vnexpress.net/kyoto-tinh-danh-thue-khach-san-cao-gap-10-lan-de-bot-khach-4838562.html) - 06:50 13/01/2025
 - 🦅 [Tiết canh vào danh sách 100 món tệ nhất thế giới 2025](https://vnexpress.net/tiet-canh-vao-danh-sach-100-mon-te-nhat-the-gioi-2025-4838487.html) - 04:45 13/01/2025
 - 🕴 [Các điểm du lịch TP HCM nhộn nhịp khách chụp ảnh Tết](https://vnexpress.net/cac-diem-du-lich-tp-hcm-nhon-nhip-khach-chup-anh-tet-4838357.html) - 03:20 13/01/2025
