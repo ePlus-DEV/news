@@ -24,7 +24,7 @@ sidebar_position: 3
 - 😺 [Các quỹ ESG bị rút ròng gần 16 tỷ USD, số mở mới giảm 15 lần](https://vnexpress.net/cac-quy-esg-bi-rut-rong-gan-16-ty-usd-so-mo-moi-giam-15-lan-4838230.html) - 01:14 12/01/2025
 - 🦣 [IMF: Kinh tế Mỹ &#39;tốt hơn nhiều&#39; dự kiến](https://vnexpress.net/imf-kinh-te-my-tot-hon-nhieu-du-kien-4838042.html) - 17:13 11/01/2025
 - 😺 [PV Power lãi 4 tỷ đồng mỗi ngày](https://vnexpress.net/pv-power-lai-4-ty-dong-moi-ngay-4838179.html) - 17:07 11/01/2025
-- 💼 [Lan hồ điệp công chúa &#39;ôm&#39; lũa gỗ giá vài chục triệu hút khách](https://vnexpress.net/lan-ho-diep-cong-chua-om-lua-go-gia-vai-chuc-trieu-hut-khach-4836751.html) - 17:00 11/01/2025
+- 💼 [Lan hồ điệp công chúa &#39;ôm&#39; gỗ lũa giá vài chục triệu hút khách](https://vnexpress.net/lan-ho-diep-cong-chua-om-go-lua-gia-vai-chuc-trieu-hut-khach-4836751.html) - 17:00 11/01/2025
 - 🤗 [Đề xuất chuyển MobiFone về Bộ Công an quản lý](https://vnexpress.net/de-xuat-chuyen-mobifone-ve-bo-cong-an-quan-ly-4838174.html) - 14:22 11/01/2025
 - 👀 [Dragon Capital: Đầu tư vàng không lãi như nhiều người nghĩ](https://vnexpress.net/dragon-capital-dau-tu-vang-khong-lai-nhu-nhieu-nguoi-nghi-4838130.html) - 09:00 11/01/2025
 - 🎓 [Lập Ban chỉ đạo xây dựng nhà máy điện hạt nhân](https://vnexpress.net/lap-ban-chi-dao-xay-dung-nha-may-dien-hat-nhan-4838112.html) - 08:14 11/01/2025
