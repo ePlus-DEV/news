@@ -4,8 +4,8 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Cổ phiếu chứng khoán và ngân hàng đảo chiều tăng](https://vnexpress.net/chung-khoan-hom-nay-13-1-co-phieu-chung-khoan-va-ngan-hang-dao-chieu-4838689.html) - 09:04 13/01/2025
-- 🐲 [Nghi vấn biến đổi khí hậu gây cháy rừng kỷ lục ở Los Angeles](https://vnexpress.net/nghi-van-bien-doi-khi-hau-gay-chay-rung-ky-luc-o-los-angeles-4838569.html) - 08:42 13/01/2025
+- ⛽️ [Một doanh nghiệp biến lỗ thành lãi do &#39;lỗi máy tính&#39;](https://vnexpress.net/mot-doanh-nghiep-bien-lo-thanh-lai-do-loi-may-tinh-4838749.html) - 11:12 13/01/2025
+- 🐲 [Cổ phiếu chứng khoán và ngân hàng đảo chiều tăng](https://vnexpress.net/chung-khoan-hom-nay-13-1-co-phieu-chung-khoan-va-ngan-hang-dao-chieu-4838689.html) - 09:04 13/01/2025
 - 🔥 [Trung Quốc thặng dư thương mại gần 1.000 tỷ USD](https://vnexpress.net/trung-quoc-thang-du-thuong-mai-gan-1-000-ty-usd-4838644.html) - 08:36 13/01/2025
 - 🐵 [Cổ phiếu công ty con MobiFone tăng trần](https://vnexpress.net/co-phieu-cong-ty-con-mobifone-tang-tran-4838652.html) - 08:16 13/01/2025
 - 🦅 [Dragon Capital: Chứng khoán đón nhiều triển vọng trong năm 2025](https://vnexpress.net/dragon-capital-chung-khoan-don-nhieu-trien-vong-trong-nam-2025-4837924.html) - 07:30 13/01/2025
