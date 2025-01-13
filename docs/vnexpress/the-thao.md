@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Nike và Pocari thắng giải](https://vnexpress.net/nike-va-pocari-thang-giai-4838372.html) - 07:55 13/01/2025
+- 🪜 [Trung Cường, Lê Thị Tuyết giành giải VĐV chuyên nghiệp tiềm năng](https://vnexpress.net/trung-cuong-le-thi-tuyet-gianh-giai-vdv-chuyen-nghiep-tiem-nang-4838372.html) - 07:55 13/01/2025
 - 🦩 [Tay vợt Lebanon tạo lịch sử ở Australia Mở rộng](https://vnexpress.net/tay-vot-lebanon-tao-lich-su-o-australia-mo-rong-4838535.html) - 03:53 13/01/2025
 - 🧰 [Chuyên gia nghi ngờ chuyện Djokovic ngộ độc](https://vnexpress.net/chuyen-gia-nghi-ngo-chuyen-djokovic-ngo-doc-4838520.html) - 02:50 13/01/2025
 - 🤗 [Flick: &#39;Đoàn kết là bí quyết chiến thắng của Barca&#39;](https://vnexpress.net/flick-doan-ket-la-bi-quyet-chien-thang-cua-barca-4838427.html) - 02:21 13/01/2025
