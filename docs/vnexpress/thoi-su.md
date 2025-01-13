@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [TP HCM bắn pháo hoa ở 15 điểm mừng Tết Ất Tỵ](https://vnexpress.net/tp-hcm-ban-phao-hoa-o-15-diem-mung-tet-at-ty-4838765.html) - 11:36 13/01/2025
+- 🦒 [TP HCM bắn pháo hoa 15 điểm mừng Tết Ất Tỵ](https://vnexpress.net/tp-hcm-ban-phao-hoa-15-diem-mung-tet-at-ty-4838765.html) - 11:36 13/01/2025
 - 🤓 [Đề xuất không tổ chức HĐND quận, phường ở cả nước](https://vnexpress.net/de-xuat-khong-to-chuc-hdnd-quan-phuong-o-ca-nuoc-4838741.html) - 11:08 13/01/2025
 - ⚗️ [Nhiều chặng tàu, xe kín chỗ dịp Tết](https://vnexpress.net/nhieu-chang-tau-xe-kin-cho-dip-tet-4838709.html) - 10:36 13/01/2025
 - 🌊 [Kẹt xe ở trung tâm TP HCM tăng 17% dịp cận Tết](https://vnexpress.net/ket-xe-o-trung-tam-tp-hcm-tang-17-dip-can-tet-4838647.html) - 08:14 13/01/2025
