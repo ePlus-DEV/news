@@ -317,7 +317,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Khởi tố người đàn ông vung kiếm dọa khi bị nhắc nhở hái hoa ở công viên](https://www.sggp.org.vn/khoi-to-nguoi-dan-ong-vung-kiem-doa-khi-bi-nhac-nho-hai-hoa-o-cong-vien-post777661.html) - 16:04 13/01/2025
+- 🪜 [Khởi tố, bắt tạm giam người đàn ông vung kiếm dọa nữ công nhân](https://www.sggp.org.vn/khoi-to-bat-tam-giam-nguoi-dan-ong-vung-kiem-doa-nu-cong-nhan-post777661.html) - 16:04 13/01/2025
 - 🌝 [Vòng 12 V-League, Thanh Hóa - Nam Định: Tranh chấp ngôi đầu &lpar;18g, ngày 14-1&rpar;](https://www.sggp.org.vn/vong-12-v-league-thanh-hoa-nam-dinh-tranh-chap-ngoi-dau-18g-ngay-14-1-post777663.html) - 15:55 13/01/2025
 - 💃 [Tổng Bí thư Tô Lâm thăm, làm việc và chúc tết tại Bắc Ninh](https://www.sggp.org.vn/tong-bi-thu-to-lam-tham-lam-viec-va-chuc-tet-tai-bac-ninh-post777651.html) - 14:12 13/01/2025
 - 🧑‍💻 [Tăng cường kiểm tra nhằm ngăn chặn thành viên tổ bay sử dụng chất kích thích thần kinh](https://www.sggp.org.vn/tang-cuong-kiem-tra-nham-ngan-chan-thanh-vien-to-bay-su-dung-chat-kich-thich-than-kinh-post777658.html) - 14:08 13/01/2025
