@@ -7,7 +7,7 @@ sidebar_position: 11
 - 💂 [Khách Việt phấn khích khi bắt gặp băng tuyết đầu mùa](https://vnexpress.net/khach-viet-phan-khich-khi-bat-gap-bang-tuyet-dau-mua-4838876.html) - 05:23 14/01/2025
 - 🪄 [Việc tế nhị tiếp viên phải làm ở khoang hạng nhất](https://vnexpress.net/viec-te-nhi-tiep-vien-phai-lam-o-khoang-hang-nhat-4838830.html) - 03:22 14/01/2025
 - 🦅 [Quán bar có dịch vụ đánh khách ở Nhật Bản](https://vnexpress.net/quan-bar-co-dich-vu-danh-khach-o-nhat-ban-4838368.html) - 00:00 14/01/2025
-- 🕴 [Những điểm du lịch còn và mất sau cháy rừng ở Los Angeles](https://vnexpress.net/nhung-diem-du-lich-con-va-mat-sau-chay-rung-o-los-angeles-4838772.html) - 17:09 13/01/2025
+- 🕴 [Những điểm nổi tiếng còn và mất trong cháy rừng Los Angeles](https://vnexpress.net/nhung-diem-noi-tieng-con-va-mat-trong-chay-rung-los-angeles-4838772.html) - 17:09 13/01/2025
 - 👀 [Ra mắt chuyến tàu chạy xuyên giao thừa Ất Tỵ](https://vnexpress.net/ra-mat-chuyen-tau-chay-xuyen-giao-thua-at-ty-4838645.html) - 07:42 13/01/2025
 - 🎭 [Kyoto tính đánh thuế khách sạn cao gấp 10 lần để bớt khách](https://vnexpress.net/kyoto-tinh-danh-thue-khach-san-cao-gap-10-lan-de-bot-khach-4838562.html) - 06:50 13/01/2025
 - 🦒 [Tiết canh vào danh sách 100 món tệ nhất thế giới 2025](https://vnexpress.net/tiet-canh-vao-danh-sach-100-mon-te-nhat-the-gioi-2025-4838487.html) - 04:45 13/01/2025
