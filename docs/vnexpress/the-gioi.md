@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Trung Quốc bắt đầu mùa Xuân vận với 9 tỷ lượt di chuyển](https://vnexpress.net/trung-quoc-bat-dau-mua-xuan-van-voi-9-ty-luot-di-chuyen-4839163.html) - 16:10 14/01/2025
+- 🎭 [Trung Quốc bắt đầu mùa Xuân vận](https://vnexpress.net/trung-quoc-bat-dau-mua-xuan-van-4839163.html) - 16:10 14/01/2025
 - 🕴 [Lính gác sẽ cho phép cảnh sát vào khuôn viên dinh thự Tổng thống Hàn Quốc](https://vnexpress.net/linh-gac-se-cho-phep-canh-sat-vao-khuon-vien-dinh-thu-tong-thong-han-quoc-4839173.html) - 15:18 14/01/2025
 - 🤭 [Nga sẵn sàng tham gia xây dựng ngành điện hạt nhân ở Việt Nam](https://vnexpress.net/nga-san-sang-tham-gia-xay-dung-nganh-dien-hat-nhan-o-viet-nam-4839167.html) - 14:00 14/01/2025
 - 🧑‍💻 [Tàu ngầm hạt nhân Pháp lộ lịch hoạt động vì ứng dụng tập thể dục](https://vnexpress.net/tau-ngam-hat-nhan-phap-lo-lich-hoat-dong-vi-ung-dung-tap-the-duc-4839158.html) - 13:17 14/01/2025
