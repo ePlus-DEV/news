@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Hà Nội, Thanh Hóa có nhiều học sinh đỗ Đại học Y Hà Nội nhất](https://vnexpress.net/ha-noi-thanh-hoa-co-nhieu-hoc-sinh-do-dai-hoc-y-ha-noi-nhat-4838922.html) - 04:32 14/01/2025
+- 🤓 [10 tỉnh, thành có nhiều học sinh đỗ Đại học Y Hà Nội nhất](https://vnexpress.net/10-tinh-thanh-co-nhieu-hoc-sinh-do-dai-hoc-y-ha-noi-nhat-4838922.html) - 04:32 14/01/2025
 - 🦆 [Học trường không danh tiếng có vào được công ty lớn?](https://vnexpress.net/hoc-truong-khong-danh-tieng-co-vao-duoc-cong-ty-lon-4836706.html) - 00:59 14/01/2025
 - 🦩 [Chàng trai trúng tuyển Microsoft sau 600 thư xin việc](https://vnexpress.net/chang-trai-trung-tuyen-microsoft-sau-600-thu-xin-viec-4838340.html) - 23:09 13/01/2025
 - 🌮 [Loài hoa lớn nhất thế giới có đường kính bao nhiêu?](https://vnexpress.net/loai-hoa-lon-nhat-the-gioi-co-duong-kinh-bao-nhieu-4838664.html) - 13:22 13/01/2025
