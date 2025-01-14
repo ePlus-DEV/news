@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Xem hát bội trên buýt sông Sài Gòn](https://vnexpress.net/xem-hat-boi-tren-buyt-song-sai-gon-4838584.html) - 11:12 14/01/2025
+- 💂 [Tàu Thống Nhất vào danh sách 9 đoàn tàu đáng trải nghiệm 2025](https://vnexpress.net/tau-thong-nhat-vao-danh-sach-9-doan-tau-dang-trai-nghiem-2025-4838698.html) - 12:00 14/01/2025
 - 🪄 [Khách Việt phấn khích khi bắt gặp băng tuyết đầu mùa](https://vnexpress.net/khach-viet-phan-khich-khi-bat-gap-bang-tuyet-dau-mua-4838876.html) - 05:23 14/01/2025
 - 🦅 [Việc tế nhị tiếp viên phải làm ở khoang hạng nhất](https://vnexpress.net/viec-te-nhi-tiep-vien-phai-lam-o-khoang-hang-nhat-4838830.html) - 03:22 14/01/2025
 - 🕴 [Quán bar có dịch vụ đánh khách ở Nhật Bản](https://vnexpress.net/quan-bar-co-dich-vu-danh-khach-o-nhat-ban-4838368.html) - 00:00 14/01/2025
