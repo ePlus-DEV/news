@@ -4,8 +4,8 @@ sidebar_position: 11
 ---
 
 <!-- dantri-an-sinh:START -->
-- 👺 [Phó Thủ tướng Nguyễn Hòa Bình dự chương trình &quot;Tết sum vầy - Xuân ơn Đảng&quot;](https://dantri.com.vn/an-sinh/pho-thu-tuong-nguyen-hoa-binh-du-chuong-trinh-tet-sum-vay-xuan-on-dang-20250114143311492.htm) - 08:12 14/01/2025
-- 👀 [16 năm đoàn tụ &quot;cha đẻ&quot; thất lạc lại phát hiện không cùng huyết thống](https://dantri.com.vn/an-sinh/16-nam-doan-tu-cha-de-that-lac-lai-phat-hien-khong-cung-huyet-thong-20250114104648460.htm) - 07:19 14/01/2025
+- 👺 [&quot;Ngành LĐ-TB&amp;XH đã hoàn thành sứ mệnh lịch sử 80 năm&quot;](https://dantri.com.vn/an-sinh/nganh-ld-tbxh-da-hoan-thanh-su-menh-lich-su-80-nam-20250114160116683.htm) - 09:31 14/01/2025
+- 👀 [Phó Thủ tướng Nguyễn Hòa Bình dự chương trình &quot;Tết sum vầy - Xuân ơn Đảng&quot;](https://dantri.com.vn/an-sinh/pho-thu-tuong-nguyen-hoa-binh-du-chuong-trinh-tet-sum-vay-xuan-on-dang-20250114143311492.htm) - 08:12 14/01/2025
 - 💡 [Phụ nữ nhờ mai mối tìm đàn ông cuốn hút, cần hài hước, biết làm việc nhà](https://dantri.com.vn/an-sinh/phu-nu-nho-mai-moi-tim-dan-ong-cuon-hut-can-hai-huoc-biet-lam-viec-nha-20250113115543563.htm) - 03:56 14/01/2025
 - 💄 [Ngao ngán vì sổ nợ dày cộm, chủ trọ TPHCM cố giữ chân công nhân nghèo](https://dantri.com.vn/an-sinh/ngao-ngan-vi-so-no-day-com-chu-tro-tphcm-co-giu-chan-cong-nhan-ngheo-20250113174628980.htm) - 02:19 14/01/2025
 - 🧠 [Cảnh báo tình trạng bạo lực giới trên không gian mạng](https://dantri.com.vn/an-sinh/canh-bao-tinh-trang-bao-luc-gioi-tren-khong-gian-mang-20250113194319454.htm) - 23:49 13/01/2025
