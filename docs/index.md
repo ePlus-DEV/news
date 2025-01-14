@@ -35,7 +35,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😺 [Tỉnh nào có mức sống rẻ nhất miền Bắc?](https://vnexpress.net/tinh-nao-co-muc-song-re-nhat-mien-bac-4839129.html) - 13:41 14/01/2025
 - 🕯 [Chồng nhai cơm tôi nhìn cũng thấy ghét](https://vnexpress.net/chong-nhai-com-toi-nhin-cung-thay-ghet-4839044.html) - 13:36 14/01/2025
 - 💃 [Khàn tiếng, phát hiện ung thư tuyến ức](https://vnexpress.net/khan-tieng-phat-hien-ung-thu-tuyen-uc-4838917.html) - 13:18 14/01/2025
-- 💂 [Tàu ngầm hạt nhân Pháp lộ tung tích vì ứng dụng tập thể dục](https://vnexpress.net/tau-ngam-hat-nhan-phap-lo-tung-tich-vi-ung-dung-tap-the-duc-4839158.html) - 13:17 14/01/2025
+- 💂 [Tàu ngầm hạt nhân Pháp lộ lịch hoạt động vì ứng dụng tập thể dục](https://vnexpress.net/tau-ngam-hat-nhan-phap-lo-lich-hoat-dong-vi-ung-dung-tap-the-duc-4839158.html) - 13:17 14/01/2025
 - 🎊 [55 năm Minh Long tạo &#39;cách mạng&#39; gốm sứ](https://vnexpress.net/55-nam-minh-long-tao-cach-mang-gom-su-4839166.html) - 13:00 14/01/2025
 - 🤠 [Gu mặc gợi cảm của Á hậu Phương Nhi](https://vnexpress.net/gu-mac-goi-cam-cua-a-hau-phuong-nhi-4839157.html) - 12:30 14/01/2025
 - 🌈 [Những con tàu &#39;dùng một lần&#39; khổng lồ bằng gỗ](https://vnexpress.net/nhung-con-tau-dung-mot-lan-khong-lo-bang-go-4839103.html) - 12:19 14/01/2025
