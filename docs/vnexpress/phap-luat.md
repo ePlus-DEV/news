@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Bé gái 3 tuổi bị người lạ dẫn khỏi trường mầm non được tìm thấy](https://vnexpress.net/cong-an-tim-kiem-be-3-tuoi-bi-nguoi-la-dan-khoi-truong-mam-non-4839035.html) - 08:22 14/01/2025
+- 😎 [Công an tìm kiếm bé 3 tuổi bị người lạ dẫn khỏi trường mầm non](https://vnexpress.net/cong-an-tim-kiem-be-3-tuoi-bi-nguoi-la-dan-khoi-truong-mam-non-4839035.html) - 08:22 14/01/2025
 - 🥰 [Hơn 20 người sản xuất tân dược giả ở TP HCM bị bắt](https://vnexpress.net/hon-20-nguoi-san-xuat-tan-duoc-gia-o-tp-hcm-bi-bat-4839011.html) - 07:35 14/01/2025
 - 🎓 [Cựu chủ tịch NXB Giáo dục khai tiêu hết 25 tỷ đồng nhận hối lộ](https://vnexpress.net/cuu-chu-tich-nxb-giao-duc-khai-tieu-het-25-ty-dong-nhan-hoi-lo-4838990.html) - 07:31 14/01/2025
 - 🤓 [Sát hại chị dâu vì không thể níu kéo tình cảm](https://vnexpress.net/sat-hai-chi-dau-vi-khong-the-niu-keo-tinh-cam-4839003.html) - 06:17 14/01/2025
