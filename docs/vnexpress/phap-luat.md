@@ -8,7 +8,7 @@ sidebar_position: 12
 - 🥰 [Đề xuất tăng 30 lần tiền phạt khi mang điện thoại vào khu vực cấm về phòng cháy](https://vnexpress.net/de-xuat-tang-30-lan-tien-phat-khi-mang-dien-thoai-vao-khu-vuc-cam-ve-phong-chay-4839112.html) - 11:19 14/01/2025
 - 🎓 [11 người đốt pháo, nhảy múa mừng sinh nhật bị tạm giữ](https://vnexpress.net/11-nguoi-dot-phao-nhay-mua-mung-sinh-nhat-bi-tam-giu-4839072.html) - 09:59 14/01/2025
 - 🤓 [Đường dây mua bán &#39;hàng nóng&#39; bị triệt phá](https://vnexpress.net/duong-day-mua-ban-hang-nong-bi-triet-pha-4839059.html) - 09:50 14/01/2025
-- 🎊 [Tìm thấy bé gái 3 tuổi bị người lạ dẫn khỏi trường mầm non](https://vnexpress.net/cong-an-tim-kiem-be-3-tuoi-bi-nguoi-la-dan-khoi-truong-mam-non-4839035.html) - 08:22 14/01/2025
+- 🎊 [Tìm thấy bé gái 4 tuổi bị người lạ dẫn khỏi trường mầm non](https://vnexpress.net/cong-an-tim-kiem-be-3-tuoi-bi-nguoi-la-dan-khoi-truong-mam-non-4839035.html) - 08:22 14/01/2025
 - 🙉 [Hơn 20 người sản xuất tân dược giả ở TP HCM bị bắt](https://vnexpress.net/hon-20-nguoi-san-xuat-tan-duoc-gia-o-tp-hcm-bi-bat-4839011.html) - 07:35 14/01/2025
 - 🤡 [Cựu chủ tịch NXB Giáo dục khai tiêu hết 25 tỷ đồng nhận hối lộ](https://vnexpress.net/cuu-chu-tich-nxb-giao-duc-khai-tieu-het-25-ty-dong-nhan-hoi-lo-4838990.html) - 07:31 14/01/2025
 - 🗽 [Sát hại chị dâu vì không thể níu kéo tình cảm](https://vnexpress.net/sat-hai-chi-dau-vi-khong-the-niu-keo-tinh-cam-4839003.html) - 06:17 14/01/2025
