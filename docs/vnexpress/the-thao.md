@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Slot: &#39;Nottingham Forest nhờ vung tiền&#39;](https://vnexpress.net/slot-nottingham-forest-nho-vung-tien-4839002.html) - 07:15 14/01/2025
+- 🪜 [Slot: &#39;Nottingham Forest bay cao nhờ vung tiền&#39;](https://vnexpress.net/slot-nottingham-forest-bay-cao-nho-vung-tien-4839002.html) - 07:15 14/01/2025
 - 🦩 [50 runner thi đấu dưới thời tiết -50 độ](https://vnexpress.net/50-runner-thi-dau-duoi-thoi-tiet-50-do-4838972.html) - 06:59 14/01/2025
 - 🧰 [Guardiola nhận lỗi sau khủng hoảng của Man City](https://vnexpress.net/guardiola-nhan-loi-sau-khung-hoang-cua-man-city-4838884.html) - 06:55 14/01/2025
 - 🤗 [Djokovic tiết lộ thắng ngược nhờ Murray](https://vnexpress.net/djokovic-tiet-lo-thang-nguoc-nho-murray-4838982.html) - 06:46 14/01/2025
