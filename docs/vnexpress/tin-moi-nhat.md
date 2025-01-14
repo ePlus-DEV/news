@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Kẻ lừa đảo giả danh Brad Pitt để lừa tiền phụ nữ](https://vnexpress.net/ke-lua-dao-gia-danh-brad-pitt-de-lua-tien-phu-nu-4839194.html) - 16:39 14/01/2025
+- 🎬 [Brad Pitt bị mạo danh để lừa tiền](https://vnexpress.net/brad-pitt-bi-mao-danh-de-lua-tien-4839194.html) - 16:39 14/01/2025
 - 🐎 [Vương phi Kate thăm lại bệnh viện từng chữa trị ung thư](https://vnexpress.net/vuong-phi-kate-tham-lai-benh-vien-tung-chua-tri-ung-thu-4839177.html) - 16:38 14/01/2025
 - 🦍 [Hơn 174.000 trường hợp vi phạm giao thông trong hai tuần](https://vnexpress.net/hon-174-000-truong-hop-vi-pham-giao-thong-trong-hai-tuan-4839184.html) - 16:20 14/01/2025
 - 🏊 [Trung Quốc bắt đầu mùa Xuân vận](https://vnexpress.net/trung-quoc-bat-dau-mua-xuan-van-4839163.html) - 16:10 14/01/2025
