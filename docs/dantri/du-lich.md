@@ -6,7 +6,7 @@ sidebar_position: 22
 <!-- dantri-du-lich:START -->
 - 🥰 [PGS.TS Phạm Trung Lương: &quot;Phú Quốc có nhiều ưu thế, cạnh tranh được với Bali, Phuket&quot;](https://dantri.com.vn/du-lich/pgsts-pham-trung-luong-phu-quoc-co-nhieu-uu-the-canh-tranh-duoc-voi-bali-phuket-20250115114251312.htm) - 05:12 15/01/2025
 - 🥰 [Vé máy bay Tết: Nhiều chặng từ TPHCM hết chỗ, tiền vé ngốn sạch thưởng Tết](https://dantri.com.vn/du-lich/ve-may-bay-tet-nhieu-chang-tu-tphcm-het-cho-tien-ve-ngon-sach-thuong-tet-20250114212348060.htm) - 03:06 15/01/2025
-- 🐻 [Du khách vượt hàng trăm km về Đà Lạt ngắm mai anh đào dịp cận Tết](https://dantri.com.vn/du-lich/du-khach-vuot-hang-tram-km-ve-da-lat-ngam-mai-anh-dao-dip-can-tet-20250114195311138.htm) - 01:28 15/01/2025
+- 🐻 [Du khách vượt hàng trăm km về Đà Lạt ngắm mai anh đào dịp cận Tết](https://dantri.com.vn/tet-2025/du-khach-vuot-hang-tram-km-ve-da-lat-ngam-mai-anh-dao-dip-can-tet-20250114195311138.htm) - 01:28 15/01/2025
 - 🤩 [Người dân TPHCM rủ nhau rửa mặt ở ngôi miễu có mạch nước phun trào 150 năm](https://dantri.com.vn/du-lich/nguoi-dan-tphcm-ru-nhau-rua-mat-o-ngoi-mieu-co-mach-nuoc-phun-trao-150-nam-20250103173209456.htm) - 23:02 14/01/2025
 - 🕴 [Du khách trẻ người Ireland tử vong tại &quot;hòn đảo chết&quot; ở Thái Lan](https://dantri.com.vn/du-lich/du-khach-tre-nguoi-ireland-tu-vong-tai-hon-dao-chet-o-thai-lan-20250114201007950.htm) - 14:47 14/01/2025
 - 🤩 [Nhà đầu tư quan tâm FestiShop, đón cơ hội kinh doanh ở Phú Quốc](https://dantri.com.vn/du-lich/nha-dau-tu-quan-tam-festishop-don-co-hoi-kinh-doanh-o-phu-quoc-20250114163611931.htm) - 09:51 14/01/2025
