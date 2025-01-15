@@ -48,7 +48,7 @@ sidebar_position: 1
 - 🤔 [Đề xuất Bộ Công an sát hạch, cấp giấy phép lái xe](https://vnexpress.net/de-xuat-bo-cong-an-sat-hach-cap-giay-phep-lai-xe-4838199.html) - 17:00 11/01/2025
 - 🤠 [30 ngày lặn tìm nạn nhân sập cầu Phong Châu của đặc công nước](https://vnexpress.net/30-ngay-lan-tim-nan-nhan-sap-cau-phong-chau-cua-dac-cong-nuoc-4834760.html) - 17:00 11/01/2025
 - 🌜 [Băng giá bao phủ nhiều đỉnh núi cao](https://vnexpress.net/bang-gia-bao-phu-nhieu-dinh-nui-cao-4838180.html) - 15:16 11/01/2025
-- 🕯 [5 Bộ sẽ giữ nguyên tên sau hợp nhất](https://vnexpress.net/5-bo-se-giu-nguyen-ten-sau-hop-nhat-4838172.html) - 14:20 11/01/2025
+- 🕯 [5 bộ sẽ giữ nguyên tên sau hợp nhất](https://vnexpress.net/5-bo-se-giu-nguyen-ten-sau-hop-nhat-4838172.html) - 14:20 11/01/2025
 - 🤔 [Khánh thành thêm công viên ven sông Sài Gòn](https://vnexpress.net/khanh-thanh-them-cong-vien-ven-song-sai-gon-4838150.html) - 11:55 11/01/2025
 - 🏊 [Băng giá xuất hiện ở Y Tý](https://vnexpress.net/bang-gia-xuat-hien-o-y-ty-4838163.html) - 11:48 11/01/2025
 - 🌮 [Hơn 500 người tuốt lá trên &#39;đường mai&#39; dài nhất Việt Nam](https://vnexpress.net/hon-500-nguoi-tuot-la-tren-duong-mai-dai-nhat-viet-nam-4838164.html) - 11:11 11/01/2025
