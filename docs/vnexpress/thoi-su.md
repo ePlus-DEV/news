@@ -30,7 +30,7 @@ sidebar_position: 1
 - 🕯 [Nhiều Sở được giữ nguyên tên sau hợp nhất](https://vnexpress.net/nhieu-so-duoc-giu-nguyen-ten-sau-hop-nhat-4838474.html) - 04:29 13/01/2025
 - 😺 [Ôtô tông 13 xe, lao vào khuôn viên chung cư ở TP HCM](https://vnexpress.net/oto-tong-13-xe-lao-vao-khuon-vien-chung-cu-o-tp-hcm-4838590.html) - 04:18 13/01/2025
 - 🦆 [Ôtô tông xe máy ở Hà Nội, ba người tử nạn](https://vnexpress.net/oto-tong-xe-may-o-ha-noi-ba-nguoi-tu-nan-4838512.html) - 03:05 13/01/2025
-- 🧰 [Lễ xuất gia ở chùa Từ Hiếu](https://vnexpress.net/le-xuat-gia-o-chua-tu-hieu-4838362.html) - 02:28 13/01/2025
+- 🧰 [Lễ xuất gia ở nơi thiền sư Thích Nhất Hạnh viên tịch](https://vnexpress.net/le-xuat-gia-o-noi-thien-su-thich-nhat-hanh-vien-tich-4838362.html) - 02:28 13/01/2025
 - 🦍 [Ôtô chở 5 người lao xuống biển Nha Trang](https://vnexpress.net/oto-cho-5-nguoi-lao-xuong-bien-nha-trang-4838488.html) - 02:12 13/01/2025
 - 🧰 [TP HCM xuống 19 độ C](https://vnexpress.net/tp-hcm-xuong-19-do-c-4838472.html) - 01:57 13/01/2025
 - 💃 [Tổng Bí thư: Cần giải pháp đột phá để thu hút nhân tài công nghệ](https://vnexpress.net/tong-bi-thu-can-giai-phap-dot-pha-de-thu-hut-nhan-tai-cong-nghe-4838456-tong-thuat.html) - 01:46 13/01/2025
