@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Những trải nghiệm du lịch ở đảo chìm trong bóng tối - Greenland](https://vnexpress.net/nhung-trai-nghiem-du-lich-o-dao-chim-trong-bong-toi-greenland-4839255.html) - 07:15 15/01/2025
+- 💂 [Du lịch ở đảo chìm trong bóng tối - Greenland](https://vnexpress.net/du-lich-o-dao-chim-trong-bong-toi-greenland-4839255.html) - 07:15 15/01/2025
 - 🪄 [Quán cà phê với mô hình khủng long gây chú ý ở Hà Nội](https://vnexpress.net/quan-ca-phe-voi-mo-hinh-khung-long-gay-chu-y-o-ha-noi-4839105.html) - 05:02 15/01/2025
 - 🦅 [Tranh cãi chuyện trả thêm hơn 100 USD để ăn pizza có dứa](https://vnexpress.net/tranh-cai-chuyen-tra-them-hon-100-usd-de-an-pizza-co-dua-4839303.html) - 03:41 15/01/2025
 - 🕴 [&#39;Ăn ngủ&#39; với động vật hoang dã](https://vnexpress.net/an-ngu-voi-dong-vat-hoang-da-4839045.html) - 02:16 15/01/2025
