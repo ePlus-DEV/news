@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Hướng dẫn dùng chatbot AI của Dân trí để tra cứu mức xử phạt lỗi giao thông](https://dantri.com.vn/suc-manh-so/huong-dan-dung-chatbot-ai-cua-dan-tri-de-tra-cuu-muc-xu-phat-loi-giao-thong-20250115022202951.htm) - 01:10 15/01/2025
+- 🤠 [Dân trí ra mắt chatbot AI để tra cứu mức xử phạt lỗi giao thông](https://dantri.com.vn/suc-manh-so/dan-tri-ra-mat-chatbot-ai-de-tra-cuu-muc-xu-phat-loi-giao-thong-20250115022202951.htm) - 01:10 15/01/2025
 - 🌈 [&quot;Siêu đám cưới&quot; gần 10 tỷ ở Bình Phước, cặp đôi nên duyên từ những đơn hàng](https://dantri.com.vn/doi-song/sieu-dam-cuoi-gan-10-ty-o-binh-phuoc-cap-doi-nen-duyen-tu-nhung-don-hang-20250114180323187.htm) - 23:07 14/01/2025
 - 🐎 [Mẹ cầu thủ Xuân Mạnh vay lãi, bán trâu để mua giày tập cho con](https://dantri.com.vn/doi-song/me-cau-thu-xuan-manh-vay-lai-ban-trau-de-mua-giay-tap-cho-con-20250114150001398.htm) - 23:06 14/01/2025
 - 👹 [Người dân TPHCM rủ nhau rửa mặt ở ngôi miễu có mạch nước phun trào 150 năm](https://dantri.com.vn/du-lich/nguoi-dan-tphcm-ru-nhau-rua-mat-o-ngoi-mieu-co-mach-nuoc-phun-trao-150-nam-20250103173209456.htm) - 23:02 14/01/2025
