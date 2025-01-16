@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Đại học đầu tiên nhận hồ sơ xét tuyển 2025](https://vnexpress.net/dai-hoc-dau-tien-nhan-ho-so-xet-tuyen-2025-4839501.html) - 23:13 15/01/2025
+- 🤓 [Đại học Kinh tế - Tài chính xét học bổng bằng điểm học bạ](https://vnexpress.net/dai-hoc-kinh-te-tai-chinh-xet-hoc-bong-bang-diem-hoc-ba-4839501.html) - 23:13 15/01/2025
 - 🦆 [Địa phương nào hấp dẫn khách du lịch nhất Việt Nam?](https://vnexpress.net/dia-phuong-nao-hap-dan-khach-du-lich-nhat-viet-nam-4839543.html) - 14:04 15/01/2025
 - 🦩 [VinUni nhận bằng khen của Bộ Giáo dục và Đào tạo](https://vnexpress.net/vinuni-nhan-bang-khen-cua-bo-giao-duc-va-dao-tao-4839529.html) - 11:00 15/01/2025
 - 🌮 [Thưởng Tết ngành giáo dục TP HCM cao nhất hơn 100 triệu đồng](https://vnexpress.net/thuong-tet-nganh-giao-duc-tp-hcm-cao-nhat-hon-100-trieu-dong-4839517.html) - 10:56 15/01/2025
