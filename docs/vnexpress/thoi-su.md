@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Giới thiệu Chủ tịch Cần Thơ về Ủy ban MTTQ Việt Nam](https://vnexpress.net/gioi-thieu-chu-tich-can-tho-ve-uy-ban-mttq-viet-nam-4840341.html) - 13:39 17/01/2025
-- 🤓 [Kiên Giang có tân Bí thư Tỉnh uỷ](https://vnexpress.net/kien-giang-co-tan-bi-thu-tinh-uy-4840339.html) - 13:07 17/01/2025
+- 🤓 [Kiên Giang có tân Bí thư Tỉnh ủy](https://vnexpress.net/kien-giang-co-tan-bi-thu-tinh-uy-4840339.html) - 13:07 17/01/2025
 - ⚗️ [Cách tính trợ cấp với cán bộ công chức nghỉ việc khi tinh gọn bộ máy](https://vnexpress.net/cach-tinh-tro-cap-voi-can-bo-cong-chuc-nghi-viec-khi-tinh-gon-bo-may-4840192.html) - 09:44 17/01/2025
 - 🌊 [Bí thư Kiên Giang làm Bí thư Cần Thơ](https://vnexpress.net/bi-thu-kien-giang-lam-bi-thu-can-tho-4840135.html) - 09:01 17/01/2025
 - 🎓 [Ông Nguyễn Văn Hiếu làm Phó ban Tuyên giáo Trung ương](https://vnexpress.net/ong-nguyen-van-hieu-lam-pho-ban-tuyen-giao-trung-uong-4840268.html) - 08:55 17/01/2025
