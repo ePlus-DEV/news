@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Nỗi niềm người làm truyền hình ngày đài dừng phát sóng](https://vnexpress.net/noi-niem-nguoi-lam-truyen-hinh-ngay-dai-dung-phat-song-4839123.html) - 23:00 16/01/2025
+- 🚀 [Giới giàu có Hàn Quốc thích dùng hàng &#39;nhái&#39;](https://vnexpress.net/gioi-giau-co-han-quoc-thich-dung-hang-nhai-4839909.html) - 01:41 17/01/2025
 - 🎓 [Những lời khuyên người độc thân không nên nghe](https://vnexpress.net/nhung-loi-khuyen-nguoi-doc-than-khong-nen-nghe-4839902.html) - 22:32 16/01/2025
 - 🚦 [Thịt lợn khô xé sợi](https://vnexpress.net/thit-lon-kho-xe-soi-4839864.html) - 09:49 16/01/2025
 - 🦣 [Gen Z Singapore chìm trong nợ vì mua trả góp](https://vnexpress.net/gen-z-singapore-chim-trong-no-vi-mua-tra-gop-4839423.html) - 07:39 16/01/2025
