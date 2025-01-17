@@ -4,11 +4,11 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Su hào xào mực - món cổ Tết Bát Tràng](https://vnexpress.net/su-hao-xao-muc-mon-co-tet-bat-trang-4840299.html) - 10:24 17/01/2025
+- 🚀 [Su hào xào mực - món cổ Tết Bát Tràng](https://vnexpress.net/doi-song-cooking-su-hao-xao-muc-4840299.html) - 10:24 17/01/2025
 - 🎓 [6 điều phải bỏ ngay nếu muốn giàu có](https://vnexpress.net/6-dieu-phai-bo-ngay-neu-muon-giau-co-4839962.html) - 03:51 17/01/2025
 - 🚦 [Giới giàu có Hàn Quốc thích dùng hàng &#39;nhái&#39;](https://vnexpress.net/gioi-giau-co-han-quoc-thich-dung-hang-nhai-4839909.html) - 01:41 17/01/2025
 - 🦣 [Những lời khuyên người độc thân không nên nghe](https://vnexpress.net/nhung-loi-khuyen-nguoi-doc-than-khong-nen-nghe-4839902.html) - 22:32 16/01/2025
-- 🎓 [Thịt lợn khô xé sợi](https://vnexpress.net/thit-lon-kho-xe-soi-4839864.html) - 09:49 16/01/2025
+- 🎓 [Thịt lợn khô xé sợi](https://vnexpress.net/doi-song-cooking-thit-lon-kho-xe-soi-4839864.html) - 09:49 16/01/2025
 - 🎭 [Gen Z Singapore chìm trong nợ vì mua trả góp](https://vnexpress.net/gen-z-singapore-chim-trong-no-vi-mua-tra-gop-4839423.html) - 07:39 16/01/2025
 - 🦅 [Giới trẻ Mỹ chê văn hóa rượu bia](https://vnexpress.net/gioi-tre-my-che-van-hoa-ruou-bia-4839741.html) - 07:13 16/01/2025
 - 🎃 [Kết đẹp cho người đâm vỡ đuôi ôtô trong đêm](https://vnexpress.net/ket-dep-cho-nguoi-dam-vo-duoi-oto-trong-dem-4839565.html) - 03:11 16/01/2025
