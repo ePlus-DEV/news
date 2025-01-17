@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Cách tính trợ cấp với cán bộ công chức nghỉ việc khi tinh gọn bộ máy](https://vnexpress.net/cach-tinh-tro-cap-voi-can-bo-cong-chuc-nghi-viec-khi-tinh-gon-bo-may-4840192.html) - 09:44 17/01/2025
 - 🤓 [Bí thư Kiên Giang làm Bí thư Cần Thơ](https://vnexpress.net/bi-thu-kien-giang-lam-bi-thu-can-tho-4840135.html) - 09:01 17/01/2025
 - ⚗️ [Ông Nguyễn Văn Hiếu làm Phó ban Tuyên giáo Trung ương](https://vnexpress.net/ong-nguyen-van-hieu-lam-pho-ban-tuyen-giao-trung-uong-4840268.html) - 08:55 17/01/2025
-- 🌊 [Hà Nội có thêm 3 tuyến xe buýt điện](https://vnexpress.net/ha-noi-co-them-3-tuyen-xe-buyt-dien-4840170.html) - 07:45 17/01/2025
+- 🌊 [Hà Nội có thêm ba tuyến xe buýt điện](https://vnexpress.net/ha-noi-co-them-ba-tuyen-xe-buyt-dien-4840170.html) - 07:45 17/01/2025
 - 🎓 [Tăng 130 triệu USD để xử lý dioxin sân bay Biên Hòa](https://vnexpress.net/tang-130-trieu-usd-de-xu-ly-dioxin-san-bay-bien-hoa-4840175.html) - 06:48 17/01/2025
 - 🔥 [Vì sao metro Bến Thành - Suối Tiên bị gián đoạn khi mưa lớn?](https://vnexpress.net/vi-sao-metro-ben-thanh-suoi-tien-bi-gian-doan-khi-mua-lon-vnepre-4840140.html) - 05:25 17/01/2025
 - 🦏 [Miền Bắc đón không khí lạnh mạnh dịp Tết Ất Tỵ](https://vnexpress.net/mien-bac-don-khong-khi-lanh-manh-dip-tet-at-ty-4840038.html) - 05:19 17/01/2025
