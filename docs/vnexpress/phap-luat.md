@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cựu Chủ tịch tỉnh Thanh Hóa: &#39;Tôi không nhận tội&#39;](https://vnexpress.net/cuu-chu-tich-tinh-thanh-hoa-toi-khong-nhan-toi-4840336.html) - 14:10 17/01/2025
+- 😎 [Cựu Chủ tịch tỉnh Thanh Hóa &#39;không nhận tội&#39;](https://vnexpress.net/cuu-chu-tich-tinh-thanh-hoa-khong-nhan-toi-4840336.html) - 14:10 17/01/2025
 - 🥰 [Thí điểm đấu giá tài sản vi phạm hành chính bị tịch thu trên VNeID](https://vnexpress.net/thi-diem-dau-gia-tai-san-vi-pham-hanh-chinh-bi-tich-thu-tren-vneid-4840309.html) - 12:24 17/01/2025
 - 🎓 [Luật sư: &#39;Ông Mai Tiến Dũng chỉ gây thiệt hại uy tín, không thiệt hại tài sản&#39;](https://vnexpress.net/luat-su-ong-mai-tien-dung-chi-gay-thiet-hai-uy-tin-khong-thiet-hai-tai-san-4840230.html) - 12:20 17/01/2025
 - 🤓 [4 người trong gia đình ở Hà Nội chết bất thường](https://vnexpress.net/4-nguoi-trong-gia-dinh-o-ha-noi-chet-bat-thuong-4840333.html) - 11:26 17/01/2025
