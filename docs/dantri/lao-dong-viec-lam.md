@@ -4,10 +4,10 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Thanh niên thất nghiệp chi 100.000 đồng/ngày để... ngụy trang đi làm](https://dantri.com.vn/lao-dong-viec-lam/thanh-nien-that-nghiep-chi-100000-dongngay-de-nguy-trang-di-lam-20250117103723515.htm) - 08:03 17/01/2025
-- 🙉 [Hơn 300 chậu hoa cúc Tết chết sau một đêm: Lấy mẫu nước xét nghiệm](https://dantri.com.vn/lao-dong-viec-lam/hon-300-chau-hoa-cuc-tet-chet-sau-mot-dem-lay-mau-nuoc-xet-nghiem-20250117113026601.htm) - 07:16 17/01/2025
-- 🕴 [Ngành y tế chưa được cấp tiền để trả viên chức theo mức lương cơ sở mới](https://dantri.com.vn/lao-dong-viec-lam/nganh-y-te-chua-duoc-cap-tien-de-tra-vien-chuc-theo-muc-luong-co-so-moi-20250117110846611.htm) - 07:08 17/01/2025
-- 🧐 [Ngành nghề dẫn đầu về nhu cầu tuyển dụng, lương 20 triệu đồng/tháng](https://dantri.com.vn/lao-dong-viec-lam/nganh-nghe-dan-dau-ve-nhu-cau-tuyen-dung-luong-20-trieu-dongthang-20250116214735025.htm) - 06:35 17/01/2025
+- ⚗️ [40.000 vị trí việc làm chờ lao động Nghệ An sau Tết Nguyên đán](https://dantri.com.vn/lao-dong-viec-lam/40000-vi-tri-viec-lam-cho-lao-dong-nghe-an-sau-tet-nguyen-dan-20250117144820251.htm) - 09:10 17/01/2025
+- 🙉 [Thanh niên thất nghiệp chi 100.000 đồng/ngày để... ngụy trang đi làm](https://dantri.com.vn/lao-dong-viec-lam/thanh-nien-that-nghiep-chi-100000-dongngay-de-nguy-trang-di-lam-20250117103723515.htm) - 08:03 17/01/2025
+- 🕴 [Hơn 300 chậu hoa cúc Tết chết sau một đêm: Lấy mẫu nước xét nghiệm](https://dantri.com.vn/lao-dong-viec-lam/hon-300-chau-hoa-cuc-tet-chet-sau-mot-dem-lay-mau-nuoc-xet-nghiem-20250117113026601.htm) - 07:16 17/01/2025
+- 🧐 [Ngành y tế chưa được cấp tiền để trả viên chức theo mức lương cơ sở mới](https://dantri.com.vn/lao-dong-viec-lam/nganh-y-te-chua-duoc-cap-tien-de-tra-vien-chuc-theo-muc-luong-co-so-moi-20250117110846611.htm) - 07:08 17/01/2025
 - 🧑‍💻 [Thợ cấy lúa &quot;chạy sô&quot; cuối năm, kiếm tiền triệu mỗi ngày](https://dantri.com.vn/lao-dong-viec-lam/tho-cay-lua-chay-so-cuoi-nam-kiem-tien-trieu-moi-ngay-20250116232415798.htm) - 05:01 17/01/2025
 - 🪄 [Nhiều giám đốc, phó giám đốc sở ở Quảng Trị xin nghỉ hưu trước tuổi](https://dantri.com.vn/lao-dong-viec-lam/nhieu-giam-doc-pho-giam-doc-so-o-quang-tri-xin-nghi-huu-truoc-tuoi-20250117103301050.htm) - 04:36 17/01/2025
 - 🦣 [Khách sang tay đeo đầy vàng, thó điện thoại của nhân viên tiệm bánh](https://dantri.com.vn/lao-dong-viec-lam/khach-sang-tay-deo-day-vang-tho-dien-thoai-cua-nhan-vien-tiem-banh-20250116235540134.htm) - 02:31 17/01/2025
