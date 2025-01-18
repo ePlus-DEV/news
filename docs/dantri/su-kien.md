@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Vụ xe tang tông 3 người dừng đèn đỏ ở Nghệ An: Có 2 nạn nhân sắp cưới](https://dantri.com.vn/xa-hoi/vu-xe-tang-tong-3-nguoi-dung-den-do-o-nghe-an-co-2-nan-nhan-sap-cuoi-20250118173718088.htm) - 12:18 18/01/2025
+- 🎭 [Vụ xe tang tông 3 người dừng đèn đỏ: 2 nạn nhân là vợ chồng sắp cưới](https://dantri.com.vn/xa-hoi/vu-xe-tang-tong-3-nguoi-dung-den-do-2-nan-nhan-la-vo-chong-sap-cuoi-20250118173718088.htm) - 12:18 18/01/2025
 - 👨‍🏫 [Vĩnh Phúc dẫn đầu về tỷ lệ học sinh đạt giải quốc gia, Hà Nội rời top 10](https://dantri.com.vn/giao-duc/vinh-phuc-dan-dau-ve-ty-le-hoc-sinh-dat-giai-quoc-gia-ha-noi-roi-top-10-20250118162236176.htm) - 10:20 18/01/2025
 - 🌮 [Công an thông tin vụ bắt Giám đốc Đại học Huế](https://dantri.com.vn/phap-luat/cong-an-thong-tin-vu-bat-giam-doc-dai-hoc-hue-20250118161929210.htm) - 09:38 18/01/2025
 - 🕯 [Các thủ khoa học sinh giỏi quốc gia 2024-2025 học trường nào?](https://dantri.com.vn/giao-duc/cac-thu-khoa-hoc-sinh-gioi-quoc-gia-2024-2025-hoc-truong-nao-20250118153917790.htm) - 08:45 18/01/2025
