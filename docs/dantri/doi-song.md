@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Tranh cãi 20 triệu không đủ tiêu Tết ở Hà Nội, 9X gợi ý cách &quot;tinh gọn&quot;](https://dantri.com.vn/doi-song/tranh-cai-20-trieu-khong-du-tieu-tet-o-ha-noi-9x-goi-y-cach-tinh-gon-20250117165144817.htm) - 04:06 18/01/2025
+- 🥳 [Tranh cãi 20 triệu không đủ tiêu Tết ở Hà Nội, 9X gợi ý cách tiết kiệm](https://dantri.com.vn/doi-song/tranh-cai-20-trieu-khong-du-tieu-tet-o-ha-noi-9x-goi-y-cach-tiet-kiem-20250117165144817.htm) - 04:06 18/01/2025
 - 🌁 [Cụ ông U90 ở Thái Nguyên bỗng nổi tiếng, kênh TikTok có triệu lượt xem](https://dantri.com.vn/doi-song/cu-ong-u90-o-thai-nguyen-bong-noi-tieng-kenh-tiktok-co-trieu-luot-xem-20250118093450641.htm) - 04:01 18/01/2025
 - 👀 [Tuổi trẻ bộ LĐ-TB&amp;XH với nỗ lực &quot;tiếp sức&quot; những hoàn cảnh khó khăn](https://dantri.com.vn/doi-song/tuoi-tre-bo-ld-tbxh-voi-no-luc-tiep-suc-nhung-hoan-canh-kho-khan-20250117115633317.htm) - 03:41 18/01/2025
 - 🐻 [Đi nghĩa vụ hai năm, chàng trai mang tiền về biếu mẹ 38 triệu đồng sắm Tết](https://dantri.com.vn/doi-song/di-nghia-vu-hai-nam-chang-trai-mang-tien-ve-bieu-me-38-trieu-dong-sam-tet-20250117212506767.htm) - 23:09 17/01/2025
