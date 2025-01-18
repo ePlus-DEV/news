@@ -4,8 +4,8 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Người dân đổ xô mua gạo giá rẻ](https://vnexpress.net/nguoi-dan-do-xo-mua-gao-gia-re-4840566.html) - 22:00 18/01/2025
-- 🐎 [Loạt TV kích thước lớn giảm giá mạnh trước Tết](https://vnexpress.net/loat-tv-kich-thuoc-lon-giam-gia-manh-truoc-tet-4840381.html) - 22:00 18/01/2025
+- 🎬 [Kênh VTV biến mất trên một số nền tảng truyền hình](https://vnexpress.net/kenh-vtv-bien-mat-tren-mot-so-nen-tang-truyen-hinh-4840647.html) - 22:48 18/01/2025
+- 🐎 [Người dân đổ xô mua gạo giá rẻ](https://vnexpress.net/nguoi-dan-do-xo-mua-gao-gia-re-4840566.html) - 22:00 18/01/2025
 - 🦍 [Cháu trai hiến gan cứu cậu khỏi ung thư](https://vnexpress.net/chau-trai-hien-gan-cuu-cau-khoi-ung-thu-4840284.html) - 22:00 18/01/2025
 - 🏊 [Nhiệm kỳ nhiều điều dang dở của ông Biden](https://vnexpress.net/nhiem-ky-nhieu-dieu-dang-do-cua-ong-biden-4840136.html) - 22:00 18/01/2025
 - 🎊 [Phụ nữ và hoa mùa xuân qua tranh](https://vnexpress.net/phu-nu-va-hoa-mua-xuan-qua-tranh-4838670.html) - 22:00 18/01/2025
