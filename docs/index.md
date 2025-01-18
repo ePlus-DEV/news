@@ -408,7 +408,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
 - 💻 [Đại sứ Mai Phan Dũng, Trưởng Phái đoàn tại Geneva: &#39;Việt Nam thể hiện trách nhiệm với cộng đồng quốc tế tại WEF 2025&#39;](https://baochinhphu.vn/dai-su-mai-phan-dung-truong-phai-doan-tai-geneva-viet-nam-the-hien-trach-nhiem-voi-cong-dong-quoc-te-tai-wef-2025-102250118144603832.htm) - 15:07 18/01/2025
-- 🌜 [Ông Trần Tiến Dũng giữ chức Bí thư Tỉnh ủy Vĩnh Long](https://baochinhphu.vn/ong-tran-tien-dung-giu-chuc-bi-thu-tinh-uy-vinh-long-10225011814454828.htm) - 15:06 18/01/2025
+- 🌜 [Thứ trưởng Bộ Tư pháp Trần Tiến Dũng giữ chức Bí thư Tỉnh ủy Vĩnh Long](https://baochinhphu.vn/ong-tran-tien-dung-giu-chuc-bi-thu-tinh-uy-vinh-long-10225011814454828.htm) - 15:06 18/01/2025
 - 🦆 [3,1 tỷ cổ phiếu BSR chính thức niêm yết trên HOSE](https://baochinhphu.vn/31-ty-co-phieu-bsr-chinh-thuc-niem-yet-tren-hose-102250118123332305.htm) - 13:11 18/01/2025
 - 🌝 [Chủ tịch Quốc hội Trần Thanh Mẫn dâng hương tưởng nhớ Chủ tịch Hồ Chí Minh](https://baochinhphu.vn/chu-tich-quoc-hoi-tran-thanh-man-dang-huong-tuong-nho-chu-tich-ho-chi-minh-102250118122525584.htm) - 12:33 18/01/2025
 - 🦣 [Phó Bí thư Thường trực TPHCM Nguyễn Hồ Hải giữ chức Bí thư Tỉnh uỷ Cà Mau](https://baochinhphu.vn/pho-bi-thu-thuong-truc-tphcm-nguyen-ho-hai-giu-chuc-bi-thu-tinh-uy-ca-mau-10225011812324177.htm) - 12:32 18/01/2025
