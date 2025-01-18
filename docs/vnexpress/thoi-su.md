@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Phó Bí thư TP HCM làm Bí thư Cà Mau](https://vnexpress.net/pho-bi-thu-tp-hcm-lam-bi-thu-ca-mau-4840420.html) - 02:01 18/01/2025
+- 🦒 [Phó bí thư TP HCM làm Bí thư Cà Mau](https://vnexpress.net/pho-bi-thu-tp-hcm-lam-bi-thu-ca-mau-4840420.html) - 02:01 18/01/2025
 - 🤓 [Giới thiệu Chủ tịch Cần Thơ về Ủy ban MTTQ Việt Nam](https://vnexpress.net/gioi-thieu-chu-tich-can-tho-ve-uy-ban-mttq-viet-nam-4840341.html) - 13:39 17/01/2025
 - ⚗️ [Kiên Giang có tân Bí thư Tỉnh ủy](https://vnexpress.net/kien-giang-co-tan-bi-thu-tinh-uy-4840339.html) - 13:07 17/01/2025
 - 🌊 [Cách tính trợ cấp với cán bộ công chức nghỉ việc khi tinh gọn bộ máy](https://vnexpress.net/cach-tinh-tro-cap-voi-can-bo-cong-chuc-nghi-viec-khi-tinh-gon-bo-may-4840192.html) - 09:44 17/01/2025
