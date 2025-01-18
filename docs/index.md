@@ -586,7 +586,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎊 [Anh Đào cưới ở quê](https://tienphong.vn/anh-dao-cuoi-o-que-post1710603.tpo) - 23:06 18/01/2025
 - 💼 [Kiều bào tìm hiểu tiềm năng, cơ hội đầu tư kinh doanh tại Hưng Yên](https://tienphong.vn/kieu-bao-tim-hieu-tiem-nang-co-hoi-dau-tu-kinh-doanh-tai-hung-yen-post1710599.tpo) - 22:23 18/01/2025
 - 👺 [Cơ quan tố tụng tỉnh Đắk Nông tổ chức xin lỗi người mang án oan](https://tienphong.vn/co-quan-to-tung-tinh-dak-nong-to-chuc-xin-loi-nguoi-mang-an-oan-post1710285.tpo) - 21:30 18/01/2025
-- 💪 [Trực tiếp Brentford vs Liverpool 0-1 &lpar;H2&rpar;: Nunez lập cú đúp trong 2 phút](https://tienphong.vn/truc-tiep-brentford-vs-liverpool-0-1-h2-nunez-lap-cu-dup-trong-2-phut-post1710595.tpo) - 21:20 18/01/2025
+- 💪 [Lập cú đúp phút bù giờ, Nunez giúp Liverpool vượt ải Brentford](https://tienphong.vn/lap-cu-dup-phut-bu-gio-nunez-giup-liverpool-vuot-ai-brentford-post1710595.tpo) - 21:20 18/01/2025
 - 💃 [Phá đường dây đánh bạc qua mạng 200 tỷ đồng mỗi tháng](https://tienphong.vn/pha-duong-day-danh-bac-qua-mang-200-ty-dong-moi-thang-post1710589.tpo) - 21:12 18/01/2025
 - 🦍 [Thủ tướng Phạm Minh Chính tới Prague, bắt đầu thăm chính thức Cộng hòa Séc](https://tienphong.vn/thu-tuong-pham-minh-chinh-toi-prague-bat-dau-tham-chinh-thuc-cong-hoa-sec-post1710596.tpo) - 21:10 18/01/2025
 - 👹 [Gần 400 tỷ đồng tiền tác quyền âm nhạc tại Việt Nam](https://tienphong.vn/gan-400-ty-dong-tien-tac-quyen-am-nhac-tai-viet-nam-post1710518.tpo) - 21:06 18/01/2025
