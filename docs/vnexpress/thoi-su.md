@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Nạn nhân vụ thảm sát Quảng Nam: &#39;Tôi vui vì công lý được thực thi&#39;](https://vnexpress.net/nan-nhan-vu-tham-sat-quang-nam-toi-vui-vi-cong-ly-duoc-thuc-thi-4840599.html) - 17:41 18/01/2025
+- 🦒 [Nạn nhân thảm sát Quảng Nam: &#39;Tôi vui vì công lý được thực thi&#39;](https://vnexpress.net/nan-nhan-tham-sat-quang-nam-toi-vui-vi-cong-ly-duoc-thuc-thi-4840599.html) - 17:41 18/01/2025
 - 🤓 [TP HCM đặt mục tiêu giải ngân vốn đầu tư công 95%](https://vnexpress.net/tp-hcm-dat-muc-tieu-giai-ngan-von-dau-tu-cong-95-4840509.html) - 17:00 18/01/2025
 - ⚗️ [Cháy nhà hai tầng ở Hà Nội, hai người chết](https://vnexpress.net/chay-nha-hai-tang-o-ha-noi-hai-nguoi-chet-4840629.html) - 15:53 18/01/2025
 - 🌊 [Lập tổ chỉ đạo triển khai dự án đường sắt tốc độ cao](https://vnexpress.net/lap-to-chi-dao-trien-khai-du-an-duong-sat-toc-do-cao-4840623.html) - 15:29 18/01/2025
