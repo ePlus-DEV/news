@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Man Utd 1-1 Brighton &lpar;hiệp 1&rpar;: Fernandes sút 11m thành công](https://dantri.com.vn/the-thao/man-utd-1-1-brighton-hiep-1-fernandes-sut-11m-thanh-cong-20250119210049220.htm) - 14:00 19/01/2025
+- 🎡 [Man Utd 0-1 Brighton &lpar;hiệp 1&rpar;: Minteh mở tỷ số sớm](https://dantri.com.vn/the-thao/man-utd-0-1-brighton-hiep-1-minteh-mo-ty-so-som-20250119210049220.htm) - 14:00 19/01/2025
 - 💯 [Báo nổi tiếng của Anh mượn lời Duy Mạnh chế giễu Indonesia nhập tịch ồ ạt](https://dantri.com.vn/the-thao/bao-noi-tieng-cua-anh-muon-loi-duy-manh-che-gieu-indonesia-nhap-tich-o-at-20250119190752142.htm) - 12:09 19/01/2025
 - ⛽️ [Cầu thủ đầu tiên rời khỏi Man Utd ở kỳ chuyển nhượng mùa Đông](https://dantri.com.vn/the-thao/cau-thu-dau-tien-roi-khoi-man-utd-o-ky-chuyen-nhuong-mua-dong-20250119172604270.htm) - 10:26 19/01/2025
 - 💃 [Đội tuyển futsal nữ Việt Nam dẫn đầu bảng đấu vòng loại giải châu Á](https://dantri.com.vn/the-thao/doi-tuyen-futsal-nu-viet-nam-dan-dau-bang-dau-vong-loai-giai-chau-a-20250119170415143.htm) - 10:17 19/01/2025
