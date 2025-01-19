@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Gặp lần đầu khi vợ mới 5 tuổi, người đàn ông quyết cưới và hôn nhân cổ tích](https://dantri.com.vn/doi-song/gap-lan-dau-khi-vo-moi-5-tuoi-nguoi-dan-ong-quyet-cuoi-va-hon-nhan-co-tich-20250114032843687.htm) - 01:09 19/01/2025
+- 🤠 [Gặp lần đầu khi vợ mới 5 tuổi, người đàn ông không ngờ có hôn nhân cổ tích](https://dantri.com.vn/doi-song/gap-lan-dau-khi-vo-moi-5-tuoi-nguoi-dan-ong-khong-ngo-co-hon-nhan-co-tich-20250114032843687.htm) - 01:09 19/01/2025
 - 🌈 [Thế giới động vật: &quot;Thủy quái&quot; từ dưới nước lao lên tấn công cừu để ăn thịt](https://dantri.com.vn/khoa-hoc-cong-nghe/the-gioi-dong-vat-thuy-quai-tu-duoi-nuoc-lao-len-tan-cong-cuu-de-an-thit-20250119022241585.htm) - 23:59 18/01/2025
 - 🐎 [Clip &quot;võ sư chặn đường, dạy cho tên cướp bài học nhớ đời&quot; nổi bật tuần qua](https://dantri.com.vn/suc-manh-so/clip-vo-su-chan-duong-day-cho-ten-cuop-bai-hoc-nho-doi-noi-bat-tuan-qua-20250119024054611.htm) - 23:40 18/01/2025
 - 👹 [Dự án 2 tỷ USD mở rộng cao tốc TPHCM - Mỹ Thuận có gì?](https://dantri.com.vn/xa-hoi/du-an-2-ty-usd-mo-rong-cao-toc-tphcm-my-thuan-co-gi-20250114123133515.htm) - 23:00 18/01/2025
