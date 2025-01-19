@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Đầu độc bé một tuổi để lừa tiền quyên góp](https://vnexpress.net/dau-doc-be-1-tuoi-de-lua-tien-quyen-gop-4840808.html) - 12:27 19/01/2025
+- 😎 [Nghi phạm sát hại 4 người thân bị khởi tố](https://vnexpress.net/nghi-pham-sat-hai-4-nguoi-than-bi-khoi-to-4840848.html) - 14:21 19/01/2025
 - 🥰 [Ngày mai xét xử người đánh tới tấp cô gái sau va chạm giao thông](https://vnexpress.net/ngay-mai-xet-xu-nguoi-danh-toi-tap-co-gai-sau-va-cham-giao-thong-4840805.html) - 10:16 19/01/2025
 - 🎓 [Khoảnh khắc cô gái giằng co với tên cướp có dao](https://video.vnexpress.net/khoanh-khac-co-gai-giang-co-voi-ten-cuop-co-dao-4840753.html) - 06:35 19/01/2025
 - 🤓 [Tình thương của cha già với đứa con rể tội lỗi](https://vnexpress.net/tinh-thuong-cua-cha-gia-voi-dua-con-re-toi-loi-4840723.html) - 06:12 19/01/2025
