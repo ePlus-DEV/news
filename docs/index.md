@@ -413,7 +413,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
 - 💻 [Phó Thủ tướng Thường trực Nguyễn Hòa Bình: Bảo đảm người người có Tết, nhà nhà có Tết](https://baochinhphu.vn/pho-thu-tuong-thuong-truc-nguyen-hoa-binh-bao-dam-nguoi-nguoi-co-tet-nha-nha-co-tet-102250119115425044.htm) - 12:26 19/01/2025
-- 🌜 [Chủ tịch nước Lương Cường cùng đại biểu kiều bào dâng hương tại Hoàng thành Thăng Long](https://baochinhphu.vn/chu-tich-nuoc-luong-cuong-cung-dai-bieu-kieu-bao-dang-huong-tai-hoang-thanh-thang-long-102250119102130225.htm) - 10:43 19/01/2025
+- 🌜 [Chủ tịch nước và phu nhân cùng kiều bào thực hiện nghi thức thả cá chép tại Ao cá Bác Hồ](https://baochinhphu.vn/chu-tich-nuoc-luong-cuong-cung-dai-bieu-kieu-bao-dang-huong-tai-hoang-thanh-thang-long-102250119102130225.htm) - 10:43 19/01/2025
 - 🦆 [Hậu Giang: Giảm 16 lãnh đạo cấp sở, 30 lãnh đạo cấp phòng](https://baochinhphu.vn/hau-giang-giam-16-lanh-dao-cap-so-30-lanh-dao-cap-phong-102250119095106252.htm) - 10:42 19/01/2025
 - 🌝 [Đại sứ Thụy Sĩ: Việt Nam sẽ đóng góp các giải pháp giải quyết các vấn đề mang tính toàn cầu](https://baochinhphu.vn/dai-su-thuy-si-viet-nam-se-dong-gop-cac-giai-phap-giai-quyet-cac-van-de-mang-tinh-toan-cau-10225011508505631.htm) - 09:35 19/01/2025
 - 🦣 [Giá cao su tăng cao từ xuất khẩu](https://baochinhphu.vn/gia-cao-su-tang-cao-tu-xuat-khau-102250119070001572.htm) - 09:16 19/01/2025
