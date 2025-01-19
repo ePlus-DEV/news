@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Everton đè bẹp Tottenham trong trận ra mắt David Moyes](https://vnexpress.net/everton-de-bep-tottenham-trong-tran-ra-mat-david-moyes-4840864.html) - 16:19 19/01/2025
+- 🪜 [David Moyes thắng trận đầu cùng Everton](https://vnexpress.net/david-moyes-thang-tran-dau-cung-everton-4840864.html) - 16:19 19/01/2025
 - 🦩 [Man Utd thua vì hai sai lầm của Onana](https://vnexpress.net/man-utd-thua-vi-hai-sai-lam-cua-onana-4840861.html) - 15:59 19/01/2025
 - 🧰 [Nam Định không thắng liền bốn trận](https://vnexpress.net/nam-dinh-khong-thang-lien-bon-tran-4840838.html) - 13:43 19/01/2025
 - 🤗 [Công Phượng chấn thương, Bình Phước hòa bét bảng hạng Nhất](https://vnexpress.net/cong-phuong-chan-thuong-binh-phuoc-hoa-bet-bang-hang-nhat-4840844.html) - 13:32 19/01/2025
