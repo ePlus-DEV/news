@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Kid Rock hát ở lễ nhậm chức tổng thống của ông Donald Trump](https://vnexpress.net/kid-rock-hat-o-le-nham-chuc-tong-thong-cua-ong-donald-trump-4840962.html) - 08:34 20/01/2025
+- 🌏 [Kid Rock hát ở lễ nhậm chức của ông Donald Trump](https://vnexpress.net/kid-rock-hat-o-le-nham-chuc-cua-ong-donald-trump-4840962.html) - 08:34 20/01/2025
 - 💫 [Phong cách thanh lịch của bà Usha Vance](https://vnexpress.net/phong-cach-thanh-lich-cua-ba-usha-vance-4840999.html) - 07:33 20/01/2025
 - 🌮 [Vợ ca sĩ Tuấn Hưng: &#39;Tôi biết ơn mẹ chồng&#39;](https://vnexpress.net/vo-ca-si-tuan-hung-toi-biet-on-me-chong-4840343.html) - 05:52 20/01/2025
 - 🧠 [&#39;Đèo Shiokari&#39; - sống là cho đi](https://vnexpress.net/deo-shiokari-song-la-cho-di-4840960.html) - 04:21 20/01/2025
