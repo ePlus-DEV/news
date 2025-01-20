@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Thủ khoa lớp 10 của TP HCM giành giải nhất học sinh giỏi quốc gia](https://vnexpress.net/thu-khoa-lop-10-cua-tp-hcm-gianh-giai-nhat-hoc-sinh-gioi-quoc-gia-4840680.html) - 23:12 19/01/2025
+- 🤓 [Nam sinh TP HCM 3 lần liên tiếp đạt giải quốc gia](https://vnexpress.net/nam-sinh-tp-hcm-3-lan-lien-tiep-dat-giai-quoc-gia-4840680.html) - 23:12 19/01/2025
 - 🦆 [Nước châu Âu nào có 21 con đường mang tên Chủ tịch Hồ Chí Minh?](https://vnexpress.net/nuoc-chau-au-nao-co-21-con-duong-mang-ten-chu-tich-ho-chi-minh-4840637.html) - 12:00 19/01/2025
 - 🦩 [Nam sinh lớp 11 giành ngôi thủ khoa Toán quốc gia](https://vnexpress.net/nam-sinh-lop-11-gianh-ngoi-thu-khoa-toan-quoc-gia-4840671.html) - 04:00 19/01/2025
 - 🌮 [Thủ khoa học sinh giỏi Vật lý quốc gia học 10-12 tiếng mỗi ngày](https://vnexpress.net/thu-khoa-hoc-sinh-gioi-vat-ly-quoc-gia-hoc-10-12-tieng-moi-ngay-4840627.html) - 01:05 19/01/2025
