@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Phong cách thanh lịch của Đệ nhị phu nhân Mỹ](https://vnexpress.net/phong-cach-thanh-lich-cua-de-nhi-phu-nhan-my-4840999.html) - 07:33 20/01/2025
+- 🌏 [Phong cách thanh lịch của bà Usha Vance](https://vnexpress.net/phong-cach-thanh-lich-cua-ba-usha-vance-4840999.html) - 07:33 20/01/2025
 - 💫 [Vợ ca sĩ Tuấn Hưng: &#39;Tôi biết ơn mẹ chồng&#39;](https://vnexpress.net/vo-ca-si-tuan-hung-toi-biet-on-me-chong-4840343.html) - 05:52 20/01/2025
 - 🌮 [&#39;Đèo Shiokari&#39; - sống là cho đi](https://vnexpress.net/deo-shiokari-song-la-cho-di-4840960.html) - 04:21 20/01/2025
 - 🧠 [Châu Kiệt Luân kỷ niệm 10 năm kết hôn](https://vnexpress.net/chau-kiet-luan-ky-niem-10-nam-ket-hon-4840943.html) - 03:17 20/01/2025
