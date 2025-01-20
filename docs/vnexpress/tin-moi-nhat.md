@@ -27,7 +27,7 @@ sidebar_position: 9
 - 🫣 [Lee Soon Jae - &#39;ông nội quốc dân&#39; của màn ảnh Hàn](https://vnexpress.net/lee-soon-jae-ong-noi-quoc-dan-cua-man-anh-han-4840907.html) - 17:00 20/01/2025
 - 🧑‍💻 [&#39;Năm không&#39; của quân đội Việt Nam khi bắt đầu tham gia gìn giữ hòa bình Liên Hợp Quốc](https://vnexpress.net/nam-khong-cua-quan-doi-viet-nam-khi-bat-dau-tham-gia-gin-giu-hoa-binh-lien-hop-quoc-4839041.html) - 17:00 20/01/2025
 - 🐲 [Bộ Khoa học và Công nghệ muốn xây dựng dự án nghiên cứu chung với Czech](https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-muon-xay-dung-du-an-nghien-cuu-chung-voi-czech-4841284.html) - 15:44 20/01/2025
-- 🌝 [Tổng thống Trump: Kỷ nguyên vàng của nước Mỹ bắt đầu](https://vnexpress.net/donald-trump-nham-chuc-tong-thong-my-4841287-tong-thuat.html) - 15:27 20/01/2025
+- 🌝 [Tổng thống Trump: Kỷ nguyên vàng của nước Mỹ bắt đầu](https://vnexpress.net/donald-trump-nham-chuc-tong-thong-my-4841287.html) - 15:27 20/01/2025
 - 😺 [Đường Nguyễn Xiển vẫn ùn tắc kéo dài sau phân làn](https://vnexpress.net/duong-nguyen-xien-van-un-tac-keo-dai-sau-phan-lan-4841028.html) - 15:20 20/01/2025
 - 🐎 [Ông Putin sẵn sàng đàm phán với ông Trump về &#39;hòa bình lâu dài&#39; ở Ukraine](https://vnexpress.net/ong-putin-san-sang-dam-phan-voi-ong-trump-ve-hoa-binh-lau-dai-o-ukraine-4841281.html) - 15:12 20/01/2025
 - 🎡 [Elon Musk ủng hộ Djokovic &#39;dỗi&#39; truyền thông Australia](https://vnexpress.net/elon-musk-ung-ho-djokovic-doi-truyen-thong-australia-4841273.html) - 14:44 20/01/2025
