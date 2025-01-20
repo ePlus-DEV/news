@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Nguyễn Xuân Son kém giá trị nhiều ngôi sao Indonesia, Thái Lan](https://dantri.com.vn/the-thao/nguyen-xuan-son-kem-gia-tri-nhieu-ngoi-sao-indonesia-thai-lan-20250120194937403.htm) - 13:23 20/01/2025
+- 🎡 [Nguyễn Xuân Son thua kém giá trị dàn ngôi sao Indonesia, Thái Lan](https://dantri.com.vn/the-thao/nguyen-xuan-son-thua-kem-gia-tri-dan-ngoi-sao-indonesia-thai-lan-20250120194937403.htm) - 13:31 20/01/2025
 - 💯 [HLV Shin Tae Yong có công việc mới đầy bất ngờ ở Indonesia](https://dantri.com.vn/the-thao/hlv-shin-tae-yong-co-cong-viec-moi-day-bat-ngo-o-indonesia-20250120183950732.htm) - 11:39 20/01/2025
 - ⛽️ [Top 5 VĐV nữ xuất sắc nhất ở môn pickleball](https://dantri.com.vn/the-thao/top-5-vdv-nu-xuat-sac-nhat-o-mon-pickleball-20250120174707779.htm) - 10:47 20/01/2025
 - 💃 [Sinner cần chăm sóc y tế để tiến vào tứ kết Australian Open](https://dantri.com.vn/the-thao/sinner-can-cham-soc-y-te-de-tien-vao-tu-ket-australian-open-20250120160058313.htm) - 09:05 20/01/2025
