@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Tổng thống Biden mời ông Trump tới Nhà Trắng thưởng trà trước lễ nhậm chức](https://vnexpress.net/donald-trump-nham-chuc-tong-thong-my-4841287.html) - 15:27 20/01/2025
+- 🎭 [Ông Biden, ông Trump ngồi chung xe tới lễ nhậm chức](https://vnexpress.net/donald-trump-nham-chuc-tong-thong-my-4841287.html) - 15:27 20/01/2025
 - 🕴 [Ông Putin sẵn sàng đàm phán với ông Trump về &#39;hòa bình lâu dài&#39; ở Ukraine](https://vnexpress.net/ong-putin-san-sang-dam-phan-voi-ong-trump-ve-hoa-binh-lau-dai-o-ukraine-4841281.html) - 15:12 20/01/2025
 - 🤭 [Ukraine bắt hai tướng vì để Nga chọc thủng phòng tuyến](https://vnexpress.net/ukraine-bat-hai-tuong-vi-de-nga-choc-thung-phong-tuyen-4841276.html) - 14:35 20/01/2025
 - 🧑‍💻 [Việt Nam - Czech nâng cấp quan hệ lên Đối tác Chiến lược](https://vnexpress.net/viet-nam-czech-nang-cap-quan-he-len-doi-tac-chien-luoc-4841272.html) - 14:05 20/01/2025
