@@ -10,7 +10,7 @@ sidebar_position: 17
 - 🌋 [Ông Biden bất ngờ ân xá cho loạt quan chức](https://dantri.com.vn/the-gioi/ong-biden-bat-ngo-an-xa-cho-loat-quan-chuc-20250120213142547.htm) - 14:49 20/01/2025
 - 🗽 [Ông Trump sẽ làm gì ngày đầu tiên trở lại Nhà Trắng?](https://dantri.com.vn/the-gioi/ong-trump-se-lam-gi-ngay-dau-tien-tro-lai-nha-trang-20250120174312576.htm) - 14:22 20/01/2025
 - 💻 [Báo Mỹ: Nga có thể sẽ giữ 20% lãnh thổ Ukraine trong tương lai](https://dantri.com.vn/the-gioi/bao-my-nga-co-the-se-giu-20-lanh-tho-ukraine-trong-tuong-lai-20250120203712976.htm) - 13:55 20/01/2025
-- ⛽️ [Ông Trump sắp tuyên thệ nhậm chức](https://dantri.com.vn/the-gioi/ong-trump-sap-tuyen-the-nham-chuc-20250120145232054.htm) - 13:03 20/01/2025
+- ⛽️ [Ba cựu Tổng thống Mỹ đến dự lễ nhậm chức của ông Trump](https://dantri.com.vn/the-gioi/ba-cuu-tong-thong-my-den-du-le-nham-chuc-cua-ong-trump-20250120145232054.htm) - 13:03 20/01/2025
 - 🤩 [Ukraine điều viện binh, dồn lực cho chiến dịch &quot;chưa từng có&quot; trên đất Nga](https://dantri.com.vn/the-gioi/ukraine-dieu-vien-binh-don-luc-cho-chien-dich-chua-tung-co-tren-dat-nga-20250120192205465.htm) - 12:53 20/01/2025
 - 🧐 [Ukraine lại gây bất ngờ ở Kursk, Tổng thống Putin lập tức ứng phó](https://dantri.com.vn/the-gioi/ukraine-lai-gay-bat-ngo-o-kursk-tong-thong-putin-lap-tuc-ung-pho-20250120152339856.htm) - 10:55 20/01/2025
 - 🎊 [Ông Trump: Tôi sẽ ngăn chặn Thế chiến III](https://dantri.com.vn/the-gioi/ong-trump-toi-se-ngan-chan-the-chien-iii-20250120164157925.htm) - 10:50 20/01/2025
