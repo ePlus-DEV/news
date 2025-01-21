@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [TP HCM kỷ luật 5 đảng viên do liên quan vụ án Thuận An](https://vnexpress.net/tp-hcm-ky-luat-5-dang-vien-do-lien-quan-vu-an-thuan-an-4841474.html) - 04:02 21/01/2025
+- 🦒 [TP HCM kỷ luật 5 cán bộ do liên quan vụ án Thuận An](https://vnexpress.net/tp-hcm-ky-luat-5-can-bo-do-lien-quan-vu-an-thuan-an-4841474.html) - 04:02 21/01/2025
 - 🤓 [Nghiên cứu quy hoạch sân bay Măng Đen, Vân Phong](https://vnexpress.net/nghien-cuu-quy-hoach-san-bay-mang-den-van-phong-4841448.html) - 03:58 21/01/2025
 - ⚗️ [Sân bay Tân Sơn Nhất đông nghịt người đón Việt kiều về Tết](https://vnexpress.net/san-bay-tan-son-nhat-dong-nghit-nguoi-don-viet-kieu-ve-tet-4841350.html) - 02:20 21/01/2025
 - 🌊 [Xưởng làm linh vật &#39;rắn chibi&#39; nhộn nhịp ngày cận Tết](https://vnexpress.net/xuong-lam-linh-vat-ran-chibi-nhon-nhip-ngay-can-tet-4841072.html) - 23:00 20/01/2025
