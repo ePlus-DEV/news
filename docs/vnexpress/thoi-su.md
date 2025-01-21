@@ -4,12 +4,12 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Sân bay Tân Sơn Nhất đông nghịt người đón Việt kiều trong đêm](https://vnexpress.net/san-bay-tan-son-nhat-dong-nghit-nguoi-don-viet-kieu-trong-dem-4841350.html) - 02:20 21/01/2025
+- 🦒 [Sân bay Tân Sơn Nhất đông nghịt người đón Việt kiều về Tết](https://vnexpress.net/san-bay-tan-son-nhat-dong-nghit-nguoi-don-viet-kieu-ve-tet-4841350.html) - 02:20 21/01/2025
 - 🤓 [Xưởng làm linh vật &#39;rắn chibi&#39; nhộn nhịp ngày cận Tết](https://vnexpress.net/xuong-lam-linh-vat-ran-chibi-nhon-nhip-ngay-can-tet-4841072.html) - 23:00 20/01/2025
 - ⚗️ [Ôtô tải chở rau quả cháy trên cao tốc Trung Lương](https://vnexpress.net/oto-tai-cho-rau-qua-chay-tren-cao-toc-trung-luong-4841334.html) - 22:29 20/01/2025
 - 🌊 [Lý do người rút bảo hiểm một lần ở TP HCM giảm mạnh](https://vnexpress.net/ly-do-nguoi-rut-bao-hiem-mot-lan-o-tp-hcm-giam-manh-4840572.html) - 22:00 20/01/2025
 - 🎓 [Công viên lớn nhất Thanh Hóa sau cải tạo](https://vnexpress.net/cong-vien-lon-nhat-thanh-hoa-sau-cai-tao-4841006.html) - 21:00 20/01/2025
-- 🔥 [6 tác phẩm được trao giải A Búa liềm vàng 2024](https://vnexpress.net/6-tac-pham-duoc-trao-giai-a-bua-liem-vang-2024-4841304.html) - 17:11 20/01/2025
+- 🔥 [&#39;Báo chí đóng góp to lớn vào sự nghiệp cách mạng của Đảng và đất nước&#39;](https://vnexpress.net/bao-chi-dong-gop-to-lon-vao-su-nghiep-cach-mang-cua-dang-va-dat-nuoc-4841304.html) - 17:11 20/01/2025
 - 🦏 [Metro Bến Thành - Suối Tiên thu phí](https://vnexpress.net/metro-ben-thanh-suoi-tien-thu-phi-4841104.html) - 17:00 20/01/2025
 - 👺 [&#39;Năm không&#39; của quân đội Việt Nam khi bắt đầu tham gia gìn giữ hòa bình Liên Hợp Quốc](https://vnexpress.net/nam-khong-cua-quan-doi-viet-nam-khi-bat-dau-tham-gia-gin-giu-hoa-binh-lien-hop-quoc-4839041.html) - 17:00 20/01/2025
 - 🧑‍🏫 [Đường Nguyễn Xiển vẫn ùn tắc kéo dài sau phân làn](https://vnexpress.net/duong-nguyen-xien-van-un-tac-keo-dai-sau-phan-lan-4841028.html) - 15:20 20/01/2025
