@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Tham mưu trưởng quân đội Israel thông báo kế hoạch từ chức](https://vnexpress.net/tham-muu-truong-quan-doi-israel-thong-bao-ke-hoach-tu-chuc-4841751.html) - 15:37 21/01/2025
-- 🕴 [Tổng thống Putin gọi Chủ tịch Tập là &#39;bạn tốt&#39; trong cuộc trò chuyện video](https://vnexpress.net/tong-thong-putin-goi-chu-tich-tap-la-ban-tot-trong-cuoc-tro-chuyen-video-4841698.html) - 14:03 21/01/2025
-- 🤭 [Cháy khách sạn ở Thổ Nhĩ Kỳ, 66 người chết](https://vnexpress.net/chay-khach-san-o-tho-nhi-ky-66-nguoi-chet-4841735.html) - 13:32 21/01/2025
-- 🧑‍💻 [Barron được ông Trump khen ngợi về đóng góp cho chiến dịch tranh cử](https://vnexpress.net/barron-duoc-ong-trump-khen-ngoi-ve-dong-gop-cho-chien-dich-tranh-cu-4841599.html) - 12:44 21/01/2025
-- 🦏 [Ông Trump nhún nhảy khi cầm kiếm cắt bánh kem](https://vnexpress.net/ong-trump-nhun-nhay-khi-cam-kiem-cat-banh-kem-4841657.html) - 11:55 21/01/2025
-- 🦒 [Việt Nam - Belarus miễn thị thực từ cuối tháng 1](https://vnexpress.net/viet-nam-belarus-mien-thi-thuc-tu-cuoi-thang-1-4841707.html) - 11:05 21/01/2025
-- 🌈 [Vợ chồng Tổng thống Trump khiêu vũ trong dạ hội nhậm chức](https://vnexpress.net/vo-chong-tong-thong-trump-khieu-vu-trong-da-hoi-nham-chuc-4841570.html) - 09:23 21/01/2025
-- 🧑‍🏫 [Tổng thống Panama bác tuyên bố &#39;giành lại kênh đào&#39; của ông Trump](https://vnexpress.net/tong-thong-panama-bac-tuyen-bo-gianh-lai-kenh-dao-cua-ong-trump-4841346.html) - 09:09 21/01/2025
-- 🐲 [Ông Trump sẽ sa thải hơn 1.000 viên chức](https://vnexpress.net/ong-trump-se-sa-thai-hon-1-000-vien-chuc-4841601.html) - 08:29 21/01/2025
-- 🦒 [Ông Macron kêu gọi châu Âu ngừng phụ thuộc vào vũ khí Mỹ](https://vnexpress.net/ong-macron-keu-goi-chau-au-ngung-phu-thuoc-vao-vu-khi-my-4841576.html) - 08:22 21/01/2025
-- 🐻 [Ngôn ngữ cơ thể của vợ chồng Trump tại lễ nhậm chức](https://vnexpress.net/ngon-ngu-co-the-cua-vo-chong-trump-tai-le-nham-chuc-4841424.html) - 08:17 21/01/2025
-- 🚀 [Ivanka Trump gây liên tưởng đến Công nương Diana](https://vnexpress.net/ivanka-trump-gay-lien-tuong-den-cong-nuong-diana-4841457.html) - 08:05 21/01/2025
-- 🥰 [Con tin &#39;như được tái sinh&#39; sau 471 ngày bị giam ở Gaza](https://vnexpress.net/con-tin-nhu-duoc-tai-sinh-sau-471-ngay-bi-giam-o-gaza-4841405.html) - 07:42 21/01/2025
-- 🔥 [Tổng thống Yoon lần đầu xuất hiện tại phiên xét xử luận tội](https://vnexpress.net/tong-thong-yoon-lan-dau-xuat-hien-tai-phien-xet-xu-luan-toi-4841534.html) - 07:00 21/01/2025
-- 🥳 [Biểu cảm trái ngược giữa Barron Trump và Elon Musk gây chú ý](https://vnexpress.net/bieu-cam-trai-nguoc-giua-barron-trump-va-elon-musk-gay-chu-y-4841438.html) - 04:27 21/01/2025
-- 💼 [Những khoảnh khắc đầu tiên khi ông Trump trở lại Nhà Trắng](https://vnexpress.net/nhung-khoanh-khac-dau-tien-khi-ong-trump-tro-lai-nha-trang-4841404.html) - 04:03 21/01/2025
-- 🤡 [Phát biểu nhậm chức như diễn văn chiến thắng của ông Trump](https://vnexpress.net/phat-bieu-nham-chuc-nhu-dien-van-chien-thang-cua-ong-trump-4841310.html) - 03:36 21/01/2025
-- 🌁 [Chiếc mũ gây bàn tán của bà Melania trong lễ nhậm chức](https://vnexpress.net/chiec-mu-gay-ban-tan-cua-ba-melania-trong-le-nham-chuc-4841358.html) - 03:15 21/01/2025
-- 🤩 [Tổng thống Mỹ ân xá cho 1.500 người tham gia bạo loạn Đồi Capitol](https://vnexpress.net/tong-thong-my-an-xa-cho-1-500-nguoi-tham-gia-bao-loan-doi-capitol-4841365.html) - 03:14 21/01/2025
-- 🎉 [Ông Trump nhắc từ &#39;tôi&#39; 124 lần trong diễn văn nhậm chức](https://vnexpress.net/ong-trump-nhac-tu-toi-124-lan-trong-dien-van-nham-chuc-4841384.html) - 03:09 21/01/2025
-- 🎉 [Giây phút ông Trump tìm thấy thư ông Biden để lại trong hộc bàn](https://vnexpress.net/giay-phut-ong-trump-tim-thay-thu-ong-biden-de-lai-trong-hoc-ban-4841387.html) - 02:20 21/01/2025
-- 🌁 [Ông Trump gây chú ý vì không đặt tay lên Kinh Thánh khi tuyên thệ](https://vnexpress.net/ong-trump-gay-chu-y-vi-khong-dat-tay-len-kinh-thanh-khi-tuyen-the-4841351.html) - 02:00 21/01/2025
-- 🌊 [Tổng thống Trump ký khoảng 200 văn kiện sau khi nhậm chức](https://vnexpress.net/tong-thong-trump-ky-khoang-200-van-kien-sau-khi-nham-chuc-4841389.html) - 01:59 21/01/2025
-- 🕴 [Lãnh đạo Việt Nam chúc mừng Tổng thống Trump nhậm chức](https://vnexpress.net/lanh-dao-viet-nam-chuc-mung-tong-thong-trump-nham-chuc-4841377.html) - 01:53 21/01/2025
-- 🎓 [Thượng viện Mỹ phê chuẩn thành viên nội các đầu tiên của ông Trump](https://vnexpress.net/thuong-vien-my-phe-chuan-thanh-vien-noi-cac-dau-tien-cua-ong-trump-4841352.html) - 01:43 21/01/2025
-- 🦩 [Những khoảnh khắc ấn tượng trong lễ nhậm chức của ông Trump](https://vnexpress.net/nhung-khoanh-khac-an-tuong-trong-le-nham-chuc-cua-ong-trump-4841323.html) - 01:11 21/01/2025
-- 🌏 [Ông Biden ân xá cho người thân ngay trước khi rời nhiệm sở](https://vnexpress.net/ong-biden-an-xa-cho-nguoi-than-ngay-truoc-khi-roi-nhiem-so-4841348.html) - 00:26 21/01/2025
-- 🌋 [Lãnh đạo các nước chúc mừng ông Trump nhậm chức](https://vnexpress.net/lanh-dao-cac-nuoc-chuc-mung-ong-trump-nham-chuc-4841333.html) - 00:01 21/01/2025
-- 🪜 [Thực đơn buổi tiệc đầu tiên của ông Trump ở cương vị Tổng thống](https://vnexpress.net/thuc-don-buoi-tiec-dau-tien-cua-ong-trump-o-cuong-vi-tong-thong-4841290.html) - 23:50 20/01/2025
-- 🕴 [Thủ tướng tới Thụy Sĩ dự Hội nghị WEF Davos](https://vnexpress.net/thu-tuong-toi-thuy-si-du-hoi-nghi-wef-davos-4841342.html) - 23:35 20/01/2025
-- 🧑‍🏫 [Hành trình 4 năm trở lại Nhà Trắng của ông Trump](https://vnexpress.net/hanh-trinh-4-nam-tro-lai-nha-trang-cua-ong-trump-4841034.html) - 22:00 20/01/2025
-- 🌮 [Phát biểu nhậm chức của Tổng thống Trump](https://vnexpress.net/phat-bieu-nham-chuc-cua-tong-thong-trump-4841319.html) - 21:08 20/01/2025
-- 🚦 [Những điểm nhấn trong diễn văn nhậm chức của ông Trump](https://vnexpress.net/nhung-diem-nhan-trong-dien-van-nham-chuc-cua-ong-trump-4841331.html) - 20:28 20/01/2025
-- 💫 [Barron Trump ngày ấy - bây giờ](https://vnexpress.net/barron-trump-ngay-ay-bay-gio-4841324.html) - 19:41 20/01/2025
-- 🤡 [&#39;Sóng sắc lệnh&#39; ông Trump tung ra trong ngày đầu nắm quyền](https://vnexpress.net/song-sac-lenh-ong-trump-tung-ra-trong-ngay-dau-nam-quyen-4841031.html) - 19:12 20/01/2025
-- 🦣 [Quy trình ông Biden bàn giao vali hạt nhân cho ông Trump](https://vnexpress.net/quy-trinh-ong-biden-ban-giao-vali-hat-nhan-cho-ong-trump-4840902.html) - 19:05 20/01/2025
-- 🎬 [Khoảnh khắc ông Trump tuyên thệ nhậm chức Tổng thống Mỹ](https://vnexpress.net/khoanh-khac-ong-trump-tuyen-the-nham-chuc-tong-thong-my-4841307.html) - 18:10 20/01/2025
-- 🎉 [Sự đổi thay của gia đình Trump 8 năm sau lần đầu vào Nhà Trắng](https://vnexpress.net/su-doi-thay-cua-gia-dinh-trump-8-nam-sau-lan-dau-vao-nha-trang-4841151.html) - 18:08 20/01/2025
+- 🎭 [Cách làn sóng MAGA hồi sinh trong lòng nước Mỹ](https://vnexpress.net/cach-lan-song-maga-hoi-sinh-trong-long-nuoc-my-4841422.html) - 17:00 21/01/2025
+- 🕴 [Elon Musk phản bác khi bị chỉ trích vung tay &#39;giống phát xít&#39;](https://vnexpress.net/elon-musk-phan-bac-khi-bi-chi-trich-vung-tay-giong-phat-xit-4841722.html) - 16:57 21/01/2025
+- 🤭 [Tham mưu trưởng quân đội Israel thông báo kế hoạch từ chức](https://vnexpress.net/tham-muu-truong-quan-doi-israel-thong-bao-ke-hoach-tu-chuc-4841751.html) - 15:37 21/01/2025
+- 🧑‍💻 [Tổng thống Putin gọi Chủ tịch Tập là &#39;bạn tốt&#39; trong cuộc trò chuyện video](https://vnexpress.net/tong-thong-putin-goi-chu-tich-tap-la-ban-tot-trong-cuoc-tro-chuyen-video-4841698.html) - 14:03 21/01/2025
+- 🦏 [Cháy khách sạn ở Thổ Nhĩ Kỳ, 66 người chết](https://vnexpress.net/chay-khach-san-o-tho-nhi-ky-66-nguoi-chet-4841735.html) - 13:32 21/01/2025
+- 🦒 [Barron được ông Trump khen ngợi về đóng góp cho chiến dịch tranh cử](https://vnexpress.net/barron-duoc-ong-trump-khen-ngoi-ve-dong-gop-cho-chien-dich-tranh-cu-4841599.html) - 12:44 21/01/2025
+- 🌈 [Ông Trump nhún nhảy khi cầm kiếm cắt bánh kem](https://vnexpress.net/ong-trump-nhun-nhay-khi-cam-kiem-cat-banh-kem-4841657.html) - 11:55 21/01/2025
+- 🧑‍🏫 [Việt Nam - Belarus miễn thị thực từ cuối tháng 1](https://vnexpress.net/viet-nam-belarus-mien-thi-thuc-tu-cuoi-thang-1-4841707.html) - 11:05 21/01/2025
+- 🐲 [Vợ chồng Tổng thống Trump khiêu vũ trong dạ hội nhậm chức](https://vnexpress.net/vo-chong-tong-thong-trump-khieu-vu-trong-da-hoi-nham-chuc-4841570.html) - 09:23 21/01/2025
+- 🦒 [Tổng thống Panama bác tuyên bố &#39;giành lại kênh đào&#39; của ông Trump](https://vnexpress.net/tong-thong-panama-bac-tuyen-bo-gianh-lai-kenh-dao-cua-ong-trump-4841346.html) - 09:09 21/01/2025
+- 🐻 [Ông Trump sẽ sa thải hơn 1.000 viên chức](https://vnexpress.net/ong-trump-se-sa-thai-hon-1-000-vien-chuc-4841601.html) - 08:29 21/01/2025
+- 🚀 [Ông Macron kêu gọi châu Âu ngừng phụ thuộc vào vũ khí Mỹ](https://vnexpress.net/ong-macron-keu-goi-chau-au-ngung-phu-thuoc-vao-vu-khi-my-4841576.html) - 08:22 21/01/2025
+- 🥰 [Ngôn ngữ cơ thể của vợ chồng Trump tại lễ nhậm chức](https://vnexpress.net/ngon-ngu-co-the-cua-vo-chong-trump-tai-le-nham-chuc-4841424.html) - 08:17 21/01/2025
+- 🔥 [Ivanka Trump gây liên tưởng đến Công nương Diana](https://vnexpress.net/ivanka-trump-gay-lien-tuong-den-cong-nuong-diana-4841457.html) - 08:05 21/01/2025
+- 🥳 [Con tin &#39;như được tái sinh&#39; sau 471 ngày bị giam ở Gaza](https://vnexpress.net/con-tin-nhu-duoc-tai-sinh-sau-471-ngay-bi-giam-o-gaza-4841405.html) - 07:42 21/01/2025
+- 💼 [Tổng thống Yoon lần đầu xuất hiện tại phiên xét xử luận tội](https://vnexpress.net/tong-thong-yoon-lan-dau-xuat-hien-tai-phien-xet-xu-luan-toi-4841534.html) - 07:00 21/01/2025
+- 🤡 [Biểu cảm trái ngược giữa Barron Trump và Elon Musk gây chú ý](https://vnexpress.net/bieu-cam-trai-nguoc-giua-barron-trump-va-elon-musk-gay-chu-y-4841438.html) - 04:27 21/01/2025
+- 🌁 [Những khoảnh khắc đầu tiên khi ông Trump trở lại Nhà Trắng](https://vnexpress.net/nhung-khoanh-khac-dau-tien-khi-ong-trump-tro-lai-nha-trang-4841404.html) - 04:03 21/01/2025
+- 🤩 [Phát biểu nhậm chức như diễn văn chiến thắng của ông Trump](https://vnexpress.net/phat-bieu-nham-chuc-nhu-dien-van-chien-thang-cua-ong-trump-4841310.html) - 03:36 21/01/2025
+- 🎉 [Chiếc mũ gây bàn tán của bà Melania trong lễ nhậm chức](https://vnexpress.net/chiec-mu-gay-ban-tan-cua-ba-melania-trong-le-nham-chuc-4841358.html) - 03:15 21/01/2025
+- 🎉 [Tổng thống Mỹ ân xá cho 1.500 người tham gia bạo loạn Đồi Capitol](https://vnexpress.net/tong-thong-my-an-xa-cho-1-500-nguoi-tham-gia-bao-loan-doi-capitol-4841365.html) - 03:14 21/01/2025
+- 🌁 [Ông Trump nhắc từ &#39;tôi&#39; 124 lần trong diễn văn nhậm chức](https://vnexpress.net/ong-trump-nhac-tu-toi-124-lan-trong-dien-van-nham-chuc-4841384.html) - 03:09 21/01/2025
+- 🌊 [Giây phút ông Trump tìm thấy thư ông Biden để lại trong hộc bàn](https://vnexpress.net/giay-phut-ong-trump-tim-thay-thu-ong-biden-de-lai-trong-hoc-ban-4841387.html) - 02:20 21/01/2025
+- 🕴 [Ông Trump gây chú ý vì không đặt tay lên Kinh Thánh khi tuyên thệ](https://vnexpress.net/ong-trump-gay-chu-y-vi-khong-dat-tay-len-kinh-thanh-khi-tuyen-the-4841351.html) - 02:00 21/01/2025
+- 🎓 [Tổng thống Trump ký khoảng 200 văn kiện sau khi nhậm chức](https://vnexpress.net/tong-thong-trump-ky-khoang-200-van-kien-sau-khi-nham-chuc-4841389.html) - 01:59 21/01/2025
+- 🦩 [Lãnh đạo Việt Nam chúc mừng Tổng thống Trump nhậm chức](https://vnexpress.net/lanh-dao-viet-nam-chuc-mung-tong-thong-trump-nham-chuc-4841377.html) - 01:53 21/01/2025
+- 🌏 [Thượng viện Mỹ phê chuẩn thành viên nội các đầu tiên của ông Trump](https://vnexpress.net/thuong-vien-my-phe-chuan-thanh-vien-noi-cac-dau-tien-cua-ong-trump-4841352.html) - 01:43 21/01/2025
+- 🌋 [Những khoảnh khắc ấn tượng trong lễ nhậm chức của ông Trump](https://vnexpress.net/nhung-khoanh-khac-an-tuong-trong-le-nham-chuc-cua-ong-trump-4841323.html) - 01:11 21/01/2025
+- 🪜 [Ông Biden ân xá cho người thân ngay trước khi rời nhiệm sở](https://vnexpress.net/ong-biden-an-xa-cho-nguoi-than-ngay-truoc-khi-roi-nhiem-so-4841348.html) - 00:26 21/01/2025
+- 🕴 [Lãnh đạo các nước chúc mừng ông Trump nhậm chức](https://vnexpress.net/lanh-dao-cac-nuoc-chuc-mung-ong-trump-nham-chuc-4841333.html) - 00:01 21/01/2025
+- 🧑‍🏫 [Thực đơn buổi tiệc đầu tiên của ông Trump ở cương vị Tổng thống](https://vnexpress.net/thuc-don-buoi-tiec-dau-tien-cua-ong-trump-o-cuong-vi-tong-thong-4841290.html) - 23:50 20/01/2025
+- 🌮 [Thủ tướng tới Thụy Sĩ dự Hội nghị WEF Davos](https://vnexpress.net/thu-tuong-toi-thuy-si-du-hoi-nghi-wef-davos-4841342.html) - 23:35 20/01/2025
+- 🚦 [Hành trình 4 năm trở lại Nhà Trắng của ông Trump](https://vnexpress.net/hanh-trinh-4-nam-tro-lai-nha-trang-cua-ong-trump-4841034.html) - 22:00 20/01/2025
+- 💫 [Phát biểu nhậm chức của Tổng thống Trump](https://vnexpress.net/phat-bieu-nham-chuc-cua-tong-thong-trump-4841319.html) - 21:08 20/01/2025
+- 🤡 [Những điểm nhấn trong diễn văn nhậm chức của ông Trump](https://vnexpress.net/nhung-diem-nhan-trong-dien-van-nham-chuc-cua-ong-trump-4841331.html) - 20:28 20/01/2025
+- 🦣 [Barron Trump ngày ấy - bây giờ](https://vnexpress.net/barron-trump-ngay-ay-bay-gio-4841324.html) - 19:41 20/01/2025
+- 🎬 [&#39;Sóng sắc lệnh&#39; ông Trump tung ra trong ngày đầu nắm quyền](https://vnexpress.net/song-sac-lenh-ong-trump-tung-ra-trong-ngay-dau-nam-quyen-4841031.html) - 19:12 20/01/2025
+- 🎉 [Quy trình ông Biden bàn giao vali hạt nhân cho ông Trump](https://vnexpress.net/quy-trinh-ong-biden-ban-giao-vali-hat-nhan-cho-ong-trump-4840902.html) - 19:05 20/01/2025
+- 🎡 [Khoảnh khắc ông Trump tuyên thệ nhậm chức Tổng thống Mỹ](https://vnexpress.net/khoanh-khac-ong-trump-tuyen-the-nham-chuc-tong-thong-my-4841307.html) - 18:10 20/01/2025
+- 🌜 [Sự đổi thay của gia đình Trump 8 năm sau lần đầu vào Nhà Trắng](https://vnexpress.net/su-doi-thay-cua-gia-dinh-trump-8-nam-sau-lan-dau-vao-nha-trang-4841151.html) - 18:08 20/01/2025
 - 🎡 [Điểm đặc biệt trong trang phục lễ nhậm chức của bà Melania](https://vnexpress.net/diem-dac-biet-trong-trang-phuc-le-nham-chuc-cua-ba-melania-4841295.html) - 17:08 20/01/2025
-- 🌜 [Tổng thống Trump: Kỷ nguyên vàng của nước Mỹ bắt đầu](https://vnexpress.net/donald-trump-nham-chuc-tong-thong-my-4841287-tong-thuat.html) - 15:27 20/01/2025
-- 🎡 [Ông Putin sẵn sàng đàm phán với ông Trump về &#39;hòa bình lâu dài&#39; ở Ukraine](https://vnexpress.net/ong-putin-san-sang-dam-phan-voi-ong-trump-ve-hoa-binh-lau-dai-o-ukraine-4841281.html) - 15:12 20/01/2025
-- 🤗 [Ukraine bắt hai tướng vì để Nga chọc thủng phòng tuyến](https://vnexpress.net/ukraine-bat-hai-tuong-vi-de-nga-choc-thung-phong-tuyen-4841276.html) - 14:35 20/01/2025
-- 🦩 [Việt Nam - Czech nâng cấp quan hệ lên Đối tác Chiến lược](https://vnexpress.net/viet-nam-czech-nang-cap-quan-he-len-doi-tac-chien-luoc-4841272.html) - 14:05 20/01/2025
-- 🎓 [Washington siết chặt an ninh trước ngày ông Trump nhậm chức](https://vnexpress.net/washington-siet-chat-an-ninh-truoc-ngay-ong-trump-nham-chuc-4841111.html) - 14:00 20/01/2025
-- 🌁 [Ông Biden ban loạt lệnh ân xá phút chót](https://vnexpress.net/ong-biden-ban-loat-lenh-an-xa-phut-chot-4841264.html) - 13:06 20/01/2025
-- 🤩 [Iran kỳ vọng ông Trump có chính sách &#39;thực tế&#39; với Trung Đông](https://vnexpress.net/iran-ky-vong-ong-trump-co-chinh-sach-thuc-te-voi-trung-dong-4841241.html) - 12:44 20/01/2025
-- 👹 [Khoảnh khắc cháu út ông Trump đọc &#39;Lời thề trung thành&#39; tại mít tinh](https://vnexpress.net/khoanh-khac-chau-ut-ong-trump-doc-loi-the-trung-thanh-tai-mit-tinh-4841258.html) - 12:22 20/01/2025
-- ⛽️ [Ngày làm việc cuối cùng của Tổng thống Joe Biden](https://vnexpress.net/ngay-lam-viec-cuoi-cung-cua-tong-thong-joe-biden-4841196.html) - 12:18 20/01/2025
-- 🚀 [Lễ nhậm chức của ông Trump sẽ diễn ra thế nào](https://vnexpress.net/le-nham-chuc-cua-ong-trump-se-dien-ra-the-nao-vnepre-4839609.html) - 12:00 20/01/2025
-- 🎡 [Houthi tuyên bố ngừng phong tỏa Biển Đỏ](https://vnexpress.net/houthi-tuyen-bo-ngung-phong-toa-bien-do-4841212.html) - 11:19 20/01/2025
-- 🕯 [Ivanka, Kai chia sẻ cảm xúc trước thềm lễ nhậm chức của ông Trump](https://vnexpress.net/ivanka-kai-chia-se-cam-xuc-truoc-them-le-nham-chuc-cua-ong-trump-4841174.html) - 11:16 20/01/2025
-- 🐻 [Elon Musk có thể là lãnh đạo duy nhất của ban tinh giản chính phủ Mỹ](https://vnexpress.net/elon-musk-co-the-la-lanh-dao-duy-nhat-cua-ban-tinh-gian-chinh-phu-my-4841148.html) - 11:16 20/01/2025
-- 🚦 [Nga điều tra nghi vấn quân cảnh đánh đập binh sĩ](https://vnexpress.net/nga-dieu-tra-nghi-van-quan-canh-danh-dap-binh-si-4841164.html) - 10:11 20/01/2025
-- 👍 [Thông điệp trang phục nhậm chức của các đệ nhất phu nhân Mỹ](https://vnexpress.net/thong-diep-trang-phuc-nham-chuc-cua-cac-de-nhat-phu-nhan-my-4841003.html) - 09:37 20/01/2025
-- 🚀 [Khoảnh khắc tên lửa Iskander tập kích &#39;tiểu đoàn xe tăng&#39; Ukraine](https://vnexpress.net/khoanh-khac-ten-lua-iskander-tap-kich-tieu-doan-xe-tang-ukraine-4840990.html) - 08:38 20/01/2025
-- 🌮 [Gia đình con tin Mỹ ở Dải Gaza biết ơn nhóm của ông Trump](https://vnexpress.net/gia-dinh-con-tin-my-o-dai-gaza-biet-on-nhom-cua-ong-trump-4841079.html) - 08:29 20/01/2025
-- 😎 [Cuộc đua để gia đình ông Trump dọn vào Nhà Trắng](https://vnexpress.net/cuoc-dua-de-gia-dinh-ong-trump-don-vao-nha-trang-4840876.html) - 08:10 20/01/2025
-- 🐲 [Ukraine thừa nhận không có cách chặn tên lửa Oreshnik của Nga](https://vnexpress.net/ukraine-thua-nhan-khong-co-cach-chan-ten-lua-oreshnik-cua-nga-4840939.html) - 07:49 20/01/2025
-- 💫 [Trung Quốc tử hình kẻ lái xe đâm chết 35 người](https://vnexpress.net/trung-quoc-tu-hinh-ke-lai-xe-dam-chet-35-nguoi-4841083.html) - 07:31 20/01/2025
-- 👀 [60% người Mỹ lạc quan với nhiệm kỳ mới của ông Trump](https://vnexpress.net/60-nguoi-my-lac-quan-voi-nhiem-ky-moi-cua-ong-trump-4841018.html) - 07:01 20/01/2025<!-- vnexpress-the-gioi:END -->
+- 🤗 [Tổng thống Trump: Kỷ nguyên vàng của nước Mỹ bắt đầu](https://vnexpress.net/donald-trump-nham-chuc-tong-thong-my-4841287-tong-thuat.html) - 15:27 20/01/2025
+- 🦩 [Ông Putin sẵn sàng đàm phán với ông Trump về &#39;hòa bình lâu dài&#39; ở Ukraine](https://vnexpress.net/ong-putin-san-sang-dam-phan-voi-ong-trump-ve-hoa-binh-lau-dai-o-ukraine-4841281.html) - 15:12 20/01/2025
+- 🎓 [Ukraine bắt hai tướng vì để Nga chọc thủng phòng tuyến](https://vnexpress.net/ukraine-bat-hai-tuong-vi-de-nga-choc-thung-phong-tuyen-4841276.html) - 14:35 20/01/2025
+- 🌁 [Việt Nam - Czech nâng cấp quan hệ lên Đối tác Chiến lược](https://vnexpress.net/viet-nam-czech-nang-cap-quan-he-len-doi-tac-chien-luoc-4841272.html) - 14:05 20/01/2025
+- 🤩 [Washington siết chặt an ninh trước ngày ông Trump nhậm chức](https://vnexpress.net/washington-siet-chat-an-ninh-truoc-ngay-ong-trump-nham-chuc-4841111.html) - 14:00 20/01/2025
+- 👹 [Ông Biden ban loạt lệnh ân xá phút chót](https://vnexpress.net/ong-biden-ban-loat-lenh-an-xa-phut-chot-4841264.html) - 13:06 20/01/2025
+- ⛽️ [Iran kỳ vọng ông Trump có chính sách &#39;thực tế&#39; với Trung Đông](https://vnexpress.net/iran-ky-vong-ong-trump-co-chinh-sach-thuc-te-voi-trung-dong-4841241.html) - 12:44 20/01/2025
+- 🚀 [Khoảnh khắc cháu út ông Trump đọc &#39;Lời thề trung thành&#39; tại mít tinh](https://vnexpress.net/khoanh-khac-chau-ut-ong-trump-doc-loi-the-trung-thanh-tai-mit-tinh-4841258.html) - 12:22 20/01/2025
+- 🎡 [Ngày làm việc cuối cùng của Tổng thống Joe Biden](https://vnexpress.net/ngay-lam-viec-cuoi-cung-cua-tong-thong-joe-biden-4841196.html) - 12:18 20/01/2025
+- 🕯 [Lễ nhậm chức của ông Trump sẽ diễn ra thế nào](https://vnexpress.net/le-nham-chuc-cua-ong-trump-se-dien-ra-the-nao-vnepre-4839609.html) - 12:00 20/01/2025
+- 🐻 [Houthi tuyên bố ngừng phong tỏa Biển Đỏ](https://vnexpress.net/houthi-tuyen-bo-ngung-phong-toa-bien-do-4841212.html) - 11:19 20/01/2025
+- 🚦 [Ivanka, Kai chia sẻ cảm xúc trước thềm lễ nhậm chức của ông Trump](https://vnexpress.net/ivanka-kai-chia-se-cam-xuc-truoc-them-le-nham-chuc-cua-ong-trump-4841174.html) - 11:16 20/01/2025
+- 👍 [Elon Musk có thể là lãnh đạo duy nhất của ban tinh giản chính phủ Mỹ](https://vnexpress.net/elon-musk-co-the-la-lanh-dao-duy-nhat-cua-ban-tinh-gian-chinh-phu-my-4841148.html) - 11:16 20/01/2025
+- 🚀 [Nga điều tra nghi vấn quân cảnh đánh đập binh sĩ](https://vnexpress.net/nga-dieu-tra-nghi-van-quan-canh-danh-dap-binh-si-4841164.html) - 10:11 20/01/2025
+- 🌮 [Thông điệp trang phục nhậm chức của các đệ nhất phu nhân Mỹ](https://vnexpress.net/thong-diep-trang-phuc-nham-chuc-cua-cac-de-nhat-phu-nhan-my-4841003.html) - 09:37 20/01/2025
+- 😎 [Khoảnh khắc tên lửa Iskander tập kích &#39;tiểu đoàn xe tăng&#39; Ukraine](https://vnexpress.net/khoanh-khac-ten-lua-iskander-tap-kich-tieu-doan-xe-tang-ukraine-4840990.html) - 08:38 20/01/2025
+- 🐲 [Gia đình con tin Mỹ ở Dải Gaza biết ơn nhóm của ông Trump](https://vnexpress.net/gia-dinh-con-tin-my-o-dai-gaza-biet-on-nhom-cua-ong-trump-4841079.html) - 08:29 20/01/2025
+- 💫 [Cuộc đua để gia đình ông Trump dọn vào Nhà Trắng](https://vnexpress.net/cuoc-dua-de-gia-dinh-ong-trump-don-vao-nha-trang-4840876.html) - 08:10 20/01/2025
+- 👀 [Ukraine thừa nhận không có cách chặn tên lửa Oreshnik của Nga](https://vnexpress.net/ukraine-thua-nhan-khong-co-cach-chan-ten-lua-oreshnik-cua-nga-4840939.html) - 07:49 20/01/2025<!-- vnexpress-the-gioi:END -->
