@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Giây phút ông Trump tìm thấy thư ông Biden để lại trong hộc bàn](https://vnexpress.net/giay-phut-ong-trump-tim-thay-thu-ong-biden-de-lai-trong-hoc-ban-4841387.html) - 02:20 21/01/2025
 - 🕴 [Ông Trump gây chú ý vì không đặt tay lên Kinh Thánh khi tuyên thệ](https://vnexpress.net/ong-trump-gay-chu-y-vi-khong-dat-tay-len-kinh-thanh-khi-tuyen-the-4841351.html) - 02:00 21/01/2025
-- 🤭 [Tổng thống Trump ký sắc lệnh về ân xá, rút Mỹ khỏi WHO](https://vnexpress.net/tong-thong-trump-ky-sac-lenh-ve-an-xa-rut-my-khoi-who-4841389.html) - 01:59 21/01/2025
+- 🤭 [Tổng thống Trump ban bố tình trạng khẩn cấp quốc gia ở biên giới](https://vnexpress.net/tong-thong-trump-ban-bo-tinh-trang-khan-cap-quoc-gia-o-bien-gioi-4841389.html) - 01:59 21/01/2025
 - 🧑‍💻 [Lãnh đạo Việt Nam chúc mừng Tổng thống Trump nhậm chức](https://vnexpress.net/lanh-dao-viet-nam-chuc-mung-tong-thong-trump-nham-chuc-4841377.html) - 01:53 21/01/2025
 - 🦏 [Thượng viện Mỹ phê chuẩn thành viên nội các đầu tiên của ông Trump](https://vnexpress.net/thuong-vien-my-phe-chuan-thanh-vien-noi-cac-dau-tien-cua-ong-trump-4841352.html) - 01:43 21/01/2025
 - 🦒 [Những khoảnh khắc ấn tượng trong lễ nhậm chức của ông Trump](https://vnexpress.net/nhung-khoanh-khac-an-tuong-trong-le-nham-chuc-cua-ong-trump-4841323.html) - 01:11 21/01/2025
