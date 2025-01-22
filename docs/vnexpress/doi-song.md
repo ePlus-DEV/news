@@ -6,7 +6,7 @@ sidebar_position: 6
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Tìm cách phòng bệnh cho con khi di chuyển dịp Tết](https://vnexpress.net/tim-cach-phong-benh-cho-con-khi-di-chuyen-dip-tet-4841854.html) - 03:00 22/01/2025
 - 🎓 [Người trẻ lúng túng làm lễ ông Táo](https://vnexpress.net/nguoi-tre-lung-tung-lam-le-ong-tao-4841778.html) - 01:56 22/01/2025
-- 🚦 [Những người không đi chợ Tết](https://vnexpress.net/nhung-nguoi-khong-di-cho-tet-4841308.html) - 23:28 21/01/2025
+- 🚦 [Không đi chợ Tết](https://vnexpress.net/khong-di-cho-tet-4841308.html) - 23:28 21/01/2025
 - 🦣 [Góp tiền trang trí Tết trong hẻm](https://vnexpress.net/gop-tien-trang-tri-tet-trong-hem-4841108.html) - 23:00 21/01/2025
 - 🎓 [H’Hen Niê hướng dẫn học sinh vùng cao nâng cao nhận thức giới](https://vnexpress.net/h-hen-nie-huong-dan-hoc-sinh-vung-cao-nang-cao-nhan-thuc-gioi-4841718.html) - 17:00 21/01/2025
 - 🎭 [Từ gốm sứ đến món đồ lưu giữ nếp nhà](https://vnexpress.net/tu-gom-su-den-mon-do-luu-giu-nep-nha-4841592.html) - 12:00 21/01/2025
