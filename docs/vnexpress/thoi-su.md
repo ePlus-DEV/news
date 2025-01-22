@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Người Làng Nủ ở nơi an cư mới](https://vnexpress.net/nguoi-lang-nu-o-noi-an-cu-moi-4841627.html) - 03:56 22/01/2025
 - ⚗️ [Bộ Nội vụ đề xuất giữ một số Sở đặc thù](https://vnexpress.net/bo-noi-vu-de-xuat-giu-mot-so-so-dac-thu-4841906.html) - 03:42 22/01/2025
 - 🌊 [4 ôtô tông liên hoàn trên cao tốc Long Thành](https://vnexpress.net/4-oto-tong-lien-hoan-tren-cao-toc-long-thanh-4841818.html) - 01:15 22/01/2025
-- 🎓 [Người Phú Thượng nhộn nhịp thổi xôi phục vụ Tết ông Công ông Táo](https://vnexpress.net/nguoi-phu-thuong-nhon-nhip-thoi-xoi-phuc-vu-tet-ong-cong-ong-tao-4841522.html) - 22:00 21/01/2025
+- 🎓 [Người Phú Thượng đồ xôi phục vụ Tết ông Công ông Táo](https://vnexpress.net/nguoi-phu-thuong-do-xoi-phuc-vu-tet-ong-cong-ong-tao-4841522.html) - 22:00 21/01/2025
 - 🔥 [Tướng Nguyễn Chí Vịnh &#39;chọn quân&#39; đi gìn giữ hòa bình](https://vnexpress.net/tuong-nguyen-chi-vinh-chon-quan-di-gin-giu-hoa-binh-4840098.html) - 22:00 21/01/2025
 - 🦏 [Các cơ quan Đảng giảm 119 vụ](https://vnexpress.net/cac-co-quan-dang-giam-119-vu-4841775.html) - 20:00 21/01/2025
 - 👺 [Người trồng nhất chi mai thắng lớn dịp Tết Ất Tỵ](https://vnexpress.net/nguoi-trong-nhat-chi-mai-thang-lon-dip-tet-at-ty-4841470.html) - 17:00 21/01/2025
