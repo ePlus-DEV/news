@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Gen Z - Thế hệ không coi lương là quan trọng nhất](https://vnexpress.net/gen-z-the-he-khong-coi-luong-la-quan-trong-nhat-4841989.html) - 06:33 22/01/2025
+- 🚀 [Gen Z - thế hệ không coi lương là quan trọng nhất](https://vnexpress.net/gen-z-the-he-khong-coi-luong-la-quan-trong-nhat-4841989.html) - 06:33 22/01/2025
 - 🎓 [Tìm cách phòng bệnh cho con khi di chuyển dịp Tết](https://vnexpress.net/tim-cach-phong-benh-cho-con-khi-di-chuyen-dip-tet-4841854.html) - 03:00 22/01/2025
 - 🚦 [Người trẻ lúng túng làm lễ ông Táo](https://vnexpress.net/nguoi-tre-lung-tung-lam-le-ong-tao-4841778.html) - 01:56 22/01/2025
 - 🦣 [Không đi chợ Tết](https://vnexpress.net/khong-di-cho-tet-4841308.html) - 23:28 21/01/2025
