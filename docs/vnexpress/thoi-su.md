@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cao tốc ùn ứ vì xe container bốc cháy](https://vnexpress.net/cao-toc-un-u-vi-xe-container-boc-chay-4841818.html) - 01:15 22/01/2025
+- 🦒 [4 ôtô tông liên hoàn trên cao tốc Long Thành](https://vnexpress.net/4-oto-tong-lien-hoan-tren-cao-toc-long-thanh-4841818.html) - 01:15 22/01/2025
 - 🤓 [Người Phú Thượng nhộn nhịp thổi xôi phục vụ Tết ông Công ông Táo](https://vnexpress.net/nguoi-phu-thuong-nhon-nhip-thoi-xoi-phuc-vu-tet-ong-cong-ong-tao-4841522.html) - 22:00 21/01/2025
 - ⚗️ [Tướng Nguyễn Chí Vịnh &#39;chọn quân&#39; đi gìn giữ hòa bình](https://vnexpress.net/tuong-nguyen-chi-vinh-chon-quan-di-gin-giu-hoa-binh-4840098.html) - 22:00 21/01/2025
 - 🌊 [Các cơ quan Đảng giảm 119 vụ](https://vnexpress.net/cac-co-quan-dang-giam-119-vu-4841775.html) - 20:00 21/01/2025
