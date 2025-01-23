@@ -6,7 +6,7 @@ sidebar_position: 21
 <!-- dantri-bat-dong-san:START -->
 - 🌏 [Tiến độ khu đô thị hơn 11.000 tỷ của liên danh Sun Group tại Bình Thuận](https://dantri.com.vn/bat-dong-san/tien-do-khu-do-thi-hon-11000-ty-cua-lien-danh-sun-group-tai-binh-thuan-20250122053109493.htm) - 04:44 23/01/2025
 - 👹 [Lâm Đồng có dự án phân lô bán nền gần 1.300 tỷ đồng](https://dantri.com.vn/bat-dong-san/lam-dong-co-du-an-phan-lo-ban-nen-gan-1300-ty-dong-20250121181643202.htm) - 04:42 23/01/2025
-- 💡 [Lộ diện công ty địa ốc tài sản gần 4 tỷ USD có doanh thu 4,6 tỷ đồng](https://dantri.com.vn/bat-dong-san/lo-dien-cong-ty-dia-oc-tai-san-gan-4-ty-usd-co-doanh-thu-46-ty-dong-20250123111323573.htm) - 04:41 23/01/2025
+- 💡 [Doanh thu bất ngờ của công ty địa ốc Việt có tài sản gần 4 tỷ USD](https://dantri.com.vn/bat-dong-san/doanh-thu-bat-ngo-cua-cong-ty-dia-oc-viet-co-tai-san-gan-4-ty-usd-20250123111323573.htm) - 04:41 23/01/2025
 - 🌋 [Hà Nội dự kiến thành lập, mở rộng thêm 15-20 cụm công nghiệp](https://dantri.com.vn/bat-dong-san/ha-noi-du-kien-thanh-lap-mo-rong-them-15-20-cum-cong-nghiep-20250123072407086.htm) - 02:45 23/01/2025
 - 🌜 [Gamuda Land mở rộng đầu tư, khẳng định vị thế tại thị trường bất động sản Việt Nam](https://dantri.com.vn/bat-dong-san/gamuda-land-mo-rong-dau-tu-khang-dinh-vi-the-tai-thi-truong-bat-dong-san-viet-nam-20250122190230064.htm) - 01:00 23/01/2025
 - 💃 [Công viên nước Sun World mở cửa 24/7 sẽ đổ bộ Hà Nam hè năm nay](https://dantri.com.vn/bat-dong-san/cong-vien-nuoc-sun-world-mo-cua-247-se-do-bo-ha-nam-he-nam-nay-20250122174249256.htm) - 12:00 22/01/2025
