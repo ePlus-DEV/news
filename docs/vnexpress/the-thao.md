@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Solskjaer thắng trận đầu tiên sau hơn ba năm rời Man Utd](https://vnexpress.net/solskjaer-thang-tran-dau-tien-sau-hon-ba-nam-roi-man-utd-4842314.html) - 02:44 23/01/2025
 - 🦩 [Vĩnh Phúc phủ nhận nợ tiền VĐV](https://vnexpress.net/vinh-phuc-phu-nhan-no-tien-vdv-4842228.html) - 02:39 23/01/2025
-- 🧰 [Vinicius bị treo giò do ngã vờ kiếm phạt đền](https://vnexpress.net/vinicius-bi-treo-gio-do-nga-vo-kiem-phat-den-4842259.html) - 02:10 23/01/2025
+- 🧰 [Vinicius bị treo giò do ngã vờ ở Champions League](https://vnexpress.net/vinicius-bi-treo-gio-do-nga-vo-o-champions-league-4842259.html) - 02:10 23/01/2025
 - 🤗 [Thùy Linh thắng sốc tay vợt số một Ấn Độ](https://vnexpress.net/thuy-linh-thang-soc-tay-vot-so-mot-an-do-4842266.html) - 01:30 23/01/2025
 - 🥳 [Xác định 18 đội đi tiếp ở Champions League](https://vnexpress.net/xac-dinh-18-doi-di-tiep-o-champions-league-4842247.html) - 01:04 23/01/2025
 - 🦣 [Guardiola: &#39;Man City đáng bị loại sớm ở Champions League&#39;](https://vnexpress.net/guardiola-man-city-dang-bi-loai-som-o-champions-league-4842244.html) - 00:55 23/01/2025
