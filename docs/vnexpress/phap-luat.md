@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Âm mưu phi tang xác ông chủ của gã tài xế riêng](https://vnexpress.net/am-muu-phi-tang-thi-the-cua-ke-gay-tham-an-vi-cau-chui-4842170.html) - 17:00 22/01/2025
+- 😎 [Âm mưu phi tang xác tài xế riêng của ông chủ](https://vnexpress.net/am-muu-phi-tang-thi-the-cua-ke-gay-tham-an-vi-cau-chui-4842170.html) - 17:00 22/01/2025
 - 🥰 [Lợn đi lạc vào nhà có được làm thịt?](https://vnexpress.net/lon-di-lac-vao-nha-co-duoc-lam-thit-4842125.html) - 12:35 22/01/2025
 - 🎓 [Đường dây ma túy 56 triệu USD bị lộ từ bức ảnh khoe chó cưng](https://vnexpress.net/duong-day-ma-tuy-56-trieu-usd-bi-lo-tu-buc-anh-khoe-cho-cung-4842148.html) - 11:30 22/01/2025
 - 🤓 [Hai nhà máy sản xuất hàng nghìn tấn phân bón NPK giả](https://vnexpress.net/hai-nha-may-san-xuat-hang-nghin-tan-phan-bon-npk-gia-4842160.html) - 11:20 22/01/2025
