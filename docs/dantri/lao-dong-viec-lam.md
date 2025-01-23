@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [10 thợ xay vần suốt 11 giờ, đưa &quot;rắn hạnh phúc&quot; 7 tấn lên phố đón Tết](https://dantri.com.vn/lao-dong-viec-lam/10-tho-xay-van-suot-11-gio-dua-ran-hanh-phuc-7-tan-len-pho-don-tet-20250123142857634.htm) - 08:46 23/01/2025
+- ⚗️ [10 thợ xoay vần suốt 11 giờ, đưa &quot;rắn hạnh phúc&quot; 7 tấn lên phố đón Tết](https://dantri.com.vn/lao-dong-viec-lam/10-tho-xoay-van-suot-11-gio-dua-ran-hanh-phuc-7-tan-len-pho-don-tet-20250123142857634.htm) - 08:46 23/01/2025
 - 🙉 [Hơn 700 công nhân may ngừng việc, yêu cầu lương tháng 13](https://dantri.com.vn/lao-dong-viec-lam/hon-700-cong-nhan-may-ngung-viec-yeu-cau-luong-thang-13-20250123152012440.htm) - 08:28 23/01/2025
 - 🕴 [Múa bút trên quả bòng Kỳ Đà, thầy đồ kiếm bộn tiền ngày cận Tết](https://dantri.com.vn/lao-dong-viec-lam/mua-but-tren-qua-bong-ky-da-thay-do-kiem-bon-tien-ngay-can-tet-20250122222459812.htm) - 08:00 23/01/2025
 - 🧐 [Ra khơi những ngày cận Tết, ngư dân trúng đậm hơn 300 tấn cá &quot;nhà nghèo&quot;](https://dantri.com.vn/lao-dong-viec-lam/ra-khoi-nhung-ngay-can-tet-ngu-dan-trung-dam-hon-300-tan-ca-nha-ngheo-20250123114310064.htm) - 06:00 23/01/2025
