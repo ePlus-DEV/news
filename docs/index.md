@@ -194,17 +194,17 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧐 [Review B5 PageOne có tốt không và top 3 sản phẩm được tìm mua nhiều](https://thanhnien.vn/review-b5-pageone-co-tot-khong-va-top-3-san-pham-duoc-tim-mua-nhieu-185250123175008201.htm) - 11:13 23/01/2025
 - 🌊 [Nước xả vải SPY Nature Care - Nhẹ nhàng dệt làn hương](https://thanhnien.vn/nuoc-xa-vai-spy-nature-care-nhe-nhang-det-lan-huong-185250123165628584.htm) - 11:13 23/01/2025
 - 🧑‍🏫 [Thiết kế 3D từ lụa giúp nàng nổi bật giữa mùa xuân](https://thanhnien.vn/thoi-trang-tre/thiet-ke-3d-tu-lua-giup-nang-noi-bat-giua-mua-xuan-185250123142246884.htm) - 11:08 23/01/2025
-- 🫣 [Áo sơ mi và vest, phong cách boho hiện đại của xu hướng xuân hè](https://thanhnien.vn/thoi-trang-tre/ao-so-mi-va-vest-phong-cach-boho-hien-dai-cua-xu-huong-xuan-he-185250122185412408.htm) - 11:00 23/01/2025
-- 👺 [Cận tết, bác sĩ cảnh báo nhiều trẻ uống nhầm nước tro tàu gây bỏng thực quản](https://thanhnien.vn/can-tet-bac-si-canh-bao-nhieu-tre-uong-nham-nuoc-tro-tau-gay-bong-thuc-quan-18525012317181686.htm) - 10:53 23/01/2025
-- 🧑‍🏫 [Sân bay Tân Sơn Nhất đông nghẹt khách, Cục Hàng không lên phương án giảm tải](https://thanhnien.vn/san-bay-tan-son-nhat-dong-nghet-khach-cuc-hang-khong-len-phuong-an-giam-tai-185250123173238076.htm) - 10:48 23/01/2025
-- 🌊 [Thời điểm nào công bố sắp xếp tổ chức bộ máy ở địa phương?](https://thanhnien.vn/thoi-diem-nao-cong-bo-sap-xep-to-chuc-bo-may-o-dia-phuong-185250123170433181.htm) - 10:42 23/01/2025
-- 🕯 [Nghệ An: Hơn 20.000 lượt học sinh vi phạm giao thông](https://thanhnien.vn/nghe-an-hon-20000-luot-hoc-sinh-vi-pham-giao-thong-185250123163715017.htm) - 10:38 23/01/2025
-- 🐲 [Hàng nghìn giáo viên ở Hà Nội vẫn ngóng tiền thưởng](https://thanhnien.vn/hang-nghin-giao-vien-o-ha-noi-van-ngong-tien-thuong-185250123160403808.htm) - 10:32 23/01/2025
-- ⛽️ [Tổng Bí thư: Kiện toàn Ủy ban Kiểm tra T.Ư, bổ sung ủy viên Bộ Chính trị](https://thanhnien.vn/tong-bi-thu-kien-toan-uy-ban-kiem-tra-tu-bo-sung-uy-vien-bo-chinh-tri-185250123171909154.htm) - 10:28 23/01/2025
-- 🎉 [Xuân Son được Tổng thư ký VFF lì xì, xuất viện về Nam Định đón Tết cùng vợ con](https://thanhnien.vn/xuan-son-duoc-tong-thu-ky-vff-li-xi-xuat-vien-ve-nam-dinh-don-tet-cung-vo-con-185250123171635859.htm) - 10:23 23/01/2025
-- 🎊 [Tổng Bí thư Tô Lâm trao Huân chương Hồ Chí Minh tặng ông Đinh Thế Huynh](https://thanhnien.vn/tong-bi-thu-to-lam-trao-huan-chuong-ho-chi-minh-tang-ong-dinh-the-huynh-185250123165509177.htm) - 10:14 23/01/2025
-- 🥳 [4 loại thực phẩm cần tránh để thận hoạt động tốt](https://thanhnien.vn/4-loai-thuc-pham-can-tranh-de-than-hoat-dong-tot-185250122154436605.htm) - 10:10 23/01/2025
-- 🤡 [Sâm Tam Kỳ đẹp lung linh, CLB Quảng Nam hân hoan &#39;về nhà&#39; xuân Ất Tỵ](https://thanhnien.vn/sam-tam-ky-dep-lung-linh-clb-quang-nam-han-hoan-ve-nha-xuan-at-ty-185250123170452922.htm) - 10:08 23/01/2025<!-- thanhnien:END -->
+- 🫣 [3 thông điệp từ chuyến công du thành công của Thủ tướng](https://thanhnien.vn/3-thong-diep-tu-chuyen-cong-du-thanh-cong-cua-thu-tuong-185250123213100721.htm) - 11:00 23/01/2025
+- 👺 [Áo sơ mi và vest, phong cách boho hiện đại của xu hướng xuân hè](https://thanhnien.vn/thoi-trang-tre/ao-so-mi-va-vest-phong-cach-boho-hien-dai-cua-xu-huong-xuan-he-185250122185412408.htm) - 11:00 23/01/2025
+- 🧑‍🏫 [Cận tết, bác sĩ cảnh báo nhiều trẻ uống nhầm nước tro tàu gây bỏng thực quản](https://thanhnien.vn/can-tet-bac-si-canh-bao-nhieu-tre-uong-nham-nuoc-tro-tau-gay-bong-thuc-quan-18525012317181686.htm) - 10:53 23/01/2025
+- 🌊 [Sân bay Tân Sơn Nhất đông nghẹt khách, Cục Hàng không lên phương án giảm tải](https://thanhnien.vn/san-bay-tan-son-nhat-dong-nghet-khach-cuc-hang-khong-len-phuong-an-giam-tai-185250123173238076.htm) - 10:48 23/01/2025
+- 🕯 [Thời điểm nào công bố sắp xếp tổ chức bộ máy ở địa phương?](https://thanhnien.vn/thoi-diem-nao-cong-bo-sap-xep-to-chuc-bo-may-o-dia-phuong-185250123170433181.htm) - 10:42 23/01/2025
+- 🐲 [Nghệ An: Hơn 20.000 lượt học sinh vi phạm giao thông](https://thanhnien.vn/nghe-an-hon-20000-luot-hoc-sinh-vi-pham-giao-thong-185250123163715017.htm) - 10:38 23/01/2025
+- ⛽️ [Hàng nghìn giáo viên ở Hà Nội vẫn ngóng tiền thưởng](https://thanhnien.vn/hang-nghin-giao-vien-o-ha-noi-van-ngong-tien-thuong-185250123160403808.htm) - 10:32 23/01/2025
+- 🎉 [Tổng Bí thư: Kiện toàn Ủy ban Kiểm tra T.Ư, bổ sung ủy viên Bộ Chính trị](https://thanhnien.vn/tong-bi-thu-kien-toan-uy-ban-kiem-tra-tu-bo-sung-uy-vien-bo-chinh-tri-185250123171909154.htm) - 10:28 23/01/2025
+- 🎊 [Xuân Son được Tổng thư ký VFF lì xì, xuất viện về Nam Định đón Tết cùng vợ con](https://thanhnien.vn/xuan-son-duoc-tong-thu-ky-vff-li-xi-xuat-vien-ve-nam-dinh-don-tet-cung-vo-con-185250123171635859.htm) - 10:23 23/01/2025
+- 🥳 [Tổng Bí thư Tô Lâm trao Huân chương Hồ Chí Minh tặng ông Đinh Thế Huynh](https://thanhnien.vn/tong-bi-thu-to-lam-trao-huan-chuong-ho-chi-minh-tang-ong-dinh-the-huynh-185250123165509177.htm) - 10:14 23/01/2025
+- 🤡 [4 loại thực phẩm cần tránh để thận hoạt động tốt](https://thanhnien.vn/4-loai-thuc-pham-can-tranh-de-than-hoat-dong-tot-185250122154436605.htm) - 10:10 23/01/2025<!-- thanhnien:END -->
 
 ## Báo Lao Động
 <!-- laodong:START -->
