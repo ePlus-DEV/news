@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Tiktoker &#39;Nam Birthday&#39; bị khởi tố vì chống đối cảnh sát giao thông](https://vnexpress.net/tiktoker-nam-birthday-bi-khoi-to-vi-chong-doi-canh-sat-giao-thong-4842611.html) - 11:35 23/01/2025
+- 😎 [Tiktoker &#39;Nam Birthday&#39; bị khởi tố](https://vnexpress.net/tiktoker-nam-birthday-bi-khoi-to-4842611.html) - 11:35 23/01/2025
 - 🥰 [Bà chủ xưởng bị bắt vì đổ gần 8.000 tấn chất thải ra môi trường](https://vnexpress.net/ba-chu-xuong-bi-bat-vi-do-gan-8-000-tan-chat-thai-ra-moi-truong-4842599.html) - 11:16 23/01/2025
 - 🎓 [Chủ tài khoản Facebook &#39;Đậu Thanh Tâm&#39; bị bắt](https://vnexpress.net/chu-tai-khoan-facebook-dau-thanh-tam-bi-bat-4842606.html) - 11:13 23/01/2025
 - 🤓 [Kẻ sát hại vợ cũ &#39;vì níu kéo bất thành&#39; bị phạt chung thân](https://vnexpress.net/ke-sat-hai-vo-cu-vi-niu-keo-bat-thanh-bi-phat-chung-than-4842585.html) - 10:52 23/01/2025
