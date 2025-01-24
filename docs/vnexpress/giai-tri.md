@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Triệu Nhã Chi tái hiện nhân vật Bạch Xà](https://vnexpress.net/trieu-nha-chi-tai-hien-nhan-vat-bach-xa-4842764.html) - 03:45 24/01/2025
+- 🌏 [Triệu Nhã Chi thể hiện hình ảnh Bạch Xà](https://vnexpress.net/trieu-nha-chi-the-hien-hinh-anh-bach-xa-4842764.html) - 03:45 24/01/2025
 - 💫 [Kaity Nguyễn tái hiện cảnh hôn bạn diễn](https://vnexpress.net/kaity-nguyen-tai-hien-canh-hon-ban-dien-4842680.html) - 00:51 24/01/2025
 - 🌮 [Ký ức về Sài Gòn - Chợ Lớn](https://vnexpress.net/ky-uc-ve-sai-gon-cho-lon-4841008.html) - 22:00 23/01/2025
 - 🧠 [Nghệ sĩ Việt Anh: &#39;Tôi yêu bạn gái 9x ở sự thiện lành&#39;](https://vnexpress.net/nghe-si-viet-anh-toi-yeu-ban-gai-9x-o-su-thien-lanh-4840169.html) - 17:00 23/01/2025
