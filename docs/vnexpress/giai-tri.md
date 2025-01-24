@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Grammy 2025 - cuộc &#39;đối đầu&#39; giữa Beyoncé và Taylor Swift](https://vnexpress.net/grammy-2025-cuoc-doi-dau-giua-beyonce-va-taylor-swift-4842311.html) - 05:28 24/01/2025
+- 🌏 [Grammy 2025 - Beyoncé và Taylor Swift &#39;đối đầu&#39;](https://vnexpress.net/grammy-2025-beyonce-va-taylor-swift-doi-dau-4842311.html) - 05:28 24/01/2025
 - 💫 [Triệu Nhã Chi thể hiện hình ảnh Bạch Xà](https://vnexpress.net/trieu-nha-chi-the-hien-hinh-anh-bach-xa-4842764.html) - 03:45 24/01/2025
 - 🌮 [Kaity Nguyễn tái hiện cảnh hôn bạn diễn](https://vnexpress.net/kaity-nguyen-tai-hien-canh-hon-ban-dien-4842680.html) - 00:51 24/01/2025
 - 🧠 [Ký ức về Sài Gòn - Chợ Lớn](https://vnexpress.net/ky-uc-ve-sai-gon-cho-lon-4841008.html) - 22:00 23/01/2025
