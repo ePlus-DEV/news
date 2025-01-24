@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Hàng trăm bộ đội thi gói bánh chưng](https://vnexpress.net/hang-tram-bo-doi-thi-goi-banh-chung-4842991.html) - 14:31 24/01/2025
 - 🤓 [Nguyên Bộ trưởng Y tế Nguyễn Quốc Triệu qua đời](https://vnexpress.net/nguyen-bo-truong-y-te-nguyen-quoc-trieu-qua-doi-4843049.html) - 14:17 24/01/2025
 - ⚗️ [Bí thư Phú Yên Phạm Đại Dương làm Phó ban Kinh tế Trung ương](https://vnexpress.net/bi-thu-phu-yen-pham-dai-duong-lam-pho-ban-kinh-te-trung-uong-4843041.html) - 14:01 24/01/2025
-- 🌊 [Ba công nhân tử vong khi vệ sinh lò đốt xi măng](https://vnexpress.net/ba-cong-nhan-tu-vong-khi-ve-sinh-lo-dot-xi-mang-4843033.html) - 13:15 24/01/2025
+- 🌊 [Ba công nhân tử vong khi vệ sinh bể chứa xi măng](https://vnexpress.net/ba-cong-nhan-tu-vong-khi-ve-sinh-be-chua-xi-mang-4843033.html) - 13:15 24/01/2025
 - 🎓 [Xưởng gỗ 2.000 m2 ở TP HCM cháy ngùn ngụt](https://vnexpress.net/xuong-go-2-000-m2-o-tp-hcm-chay-ngun-ngut-4843026.html) - 12:31 24/01/2025
 - 🔥 [Đường Hà Nội, TP HCM ùn ứ vì đông người về quê nghỉ Tết](https://vnexpress.net/duong-ha-noi-tp-hcm-un-u-vi-dong-nguoi-ve-que-nghi-tet-4843012.html) - 12:21 24/01/2025
 - 🦏 [Thủ phủ đào quất ở Hà Nội bung nở đón Tết](https://vnexpress.net/thu-phu-dao-quat-o-ha-noi-bung-no-don-tet-4842816.html) - 11:34 24/01/2025
