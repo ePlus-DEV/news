@@ -5,7 +5,7 @@ sidebar_position: 13
 
 <!-- dantri-infographic:START -->
 - 🕴 [Chân dung tân Bí thư Trung ương Đảng Trần Lưu Quang](https://dantri.com.vn/xa-hoi/chan-dung-tan-bi-thu-trung-uong-dang-tran-luu-quang-20250123103626669.htm) - 17:18 23/01/2025
-- 💻 [Chi tiết 30 điểm bắn pháo hoa dịp Tết Nguyên đán Ất Tỵ 2025](https://dantri.com.vn/xa-hoi/chi-tiet-30-diem-ban-phao-hoa-dip-tet-nguyen-dan-at-ty-2025-20250123223710855.htm) - 17:06 23/01/2025
+- 💻 [Chi tiết 30 điểm bắn pháo hoa ở Hà Nội dịp Tết Nguyên đán Ất Tỵ 2025](https://dantri.com.vn/xa-hoi/chi-tiet-30-diem-ban-phao-hoa-o-ha-noi-dip-tet-nguyen-dan-at-ty-2025-20250123223710855.htm) - 17:06 23/01/2025
 - 🗽 [Chân dung tân Ủy viên Bộ Chính trị Nguyễn Duy Ngọc](https://dantri.com.vn/xa-hoi/chan-dung-tan-uy-vien-bo-chinh-tri-nguyen-duy-ngoc-20250123104442241.htm) - 17:00 23/01/2025
 - 👺 [Người nghỉ hưu sớm khi tinh gọn bộ máy được hưởng những khoản hỗ trợ nào?](https://dantri.com.vn/an-sinh/nguoi-nghi-huu-som-khi-tinh-gon-bo-may-duoc-huong-nhung-khoan-ho-tro-nao-20250120112201994.htm) - 23:00 21/01/2025
 - 🤠 [Grofarm Pro: giải pháp nuôi tôm bền vững năng suất cao, chi phí thấp](https://dantri.com.vn/khoa-hoc-cong-nghe/grofarm-pro-giai-phap-nuoi-tom-ben-vung-nang-suat-cao-chi-phi-thap-20250120120632445.htm) - 08:00 20/01/2025
