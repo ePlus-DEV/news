@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [5 ôtô tông liên hoàn trên cao tốc Vĩnh Hảo - Phan Thiết](https://vnexpress.net/5-oto-tong-lien-hoan-tren-cao-toc-vinh-hao-phan-thiet-4842705.html) - 01:10 24/01/2025
+- 🦒 [5 ôtô đâm liên hoàn trên cao tốc Vĩnh Hảo - Phan Thiết](https://vnexpress.net/5-oto-dam-lien-hoan-tren-cao-toc-vinh-hao-phan-thiet-4842705.html) - 01:10 24/01/2025
 - 🤓 [Những &#39;toa tàu mùa xuân&#39; chạy xuyên Tết Ất Tỵ](https://vnexpress.net/nhung-toa-tau-mua-xuan-chay-xuyen-tet-at-ty-4842663.html) - 19:00 23/01/2025
 - ⚗️ [Chợ đào phai Sa Pa ven quốc lộ](https://vnexpress.net/cho-dao-phai-sa-pa-ven-quoc-lo-4842369.html) - 17:01 23/01/2025
 - 🌊 [Bí thư Vĩnh Long làm Phó ban Nội chính Trung ương](https://vnexpress.net/bi-thu-vinh-long-lam-pho-ban-noi-chinh-trung-uong-4842664.html) - 15:54 23/01/2025
