@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Thủ khoa thi đánh giá tư duy Bách khoa Hà Nội đạt điểm cao kỷ lục](https://vnexpress.net/thu-khoa-thi-danh-gia-tu-duy-bach-khoa-ha-noi-dat-diem-cao-ky-luc-4842372.html) - 01:43 24/01/2025
+- 🤓 [Thủ khoa thi đánh giá tư duy Bách khoa Hà Nội đạt điểm cao kỷ lục](https://vnexpress.net/pho-diem-dot-1-thi-danh-gia-tu-duy-dai-hoc-bach-khoa-ha-noi-4842372.html) - 01:43 24/01/2025
 - 🦆 [10.000 cựu sinh viên được trả lại tiền học phí thu sai](https://vnexpress.net/10-000-cuu-sinh-vien-duoc-tra-lai-tien-hoc-phi-thu-sai-4842678.html) - 00:19 24/01/2025
 - 🦩 [Giáo viên thấp thỏm đợi tiền thưởng ngày sát Tết](https://vnexpress.net/giao-vien-thap-thom-doi-tien-thuong-ngay-sat-tet-4842339.html) - 23:30 23/01/2025
 - 🌮 [Vựa cá chép đỏ lớn nhất miền Bắc thuộc tỉnh nào?](https://vnexpress.net/vua-ca-chep-do-lon-nhat-mien-bac-thuoc-tinh-nao-4842565.html) - 13:28 23/01/2025
