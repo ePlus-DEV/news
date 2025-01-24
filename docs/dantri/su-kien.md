@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Xem xét không tổ chức Công an cấp huyện, chỉ có 3 cấp &quot;bộ - tỉnh - xã&quot;](https://dantri.com.vn/xa-hoi/xem-xet-khong-to-chuc-cong-an-cap-huyen-chi-co-3-cap-bo-tinh-xa-20250124081407327.htm) - 08:54 24/01/2025
+- 🎭 [Triển khai Đề án không tổ chức Công an cấp huyện](https://dantri.com.vn/xa-hoi/trien-khai-de-an-khong-to-chuc-cong-an-cap-huyen-20250124081407327.htm) - 08:54 24/01/2025
 - 👨‍🏫 [Bán vé ngắm hoa của người khác, anh nông dân thu chục triệu mỗi ngày](https://dantri.com.vn/lao-dong-viec-lam/ban-ve-ngam-hoa-cua-nguoi-khac-anh-nong-dan-thu-chuc-trieu-moi-ngay-20250124082417712.htm) - 08:51 24/01/2025
 - 🌮 [Hết sạch vé máy bay phổ thông, khách phải chi chục triệu để về quê ăn Tết](https://dantri.com.vn/kinh-doanh/het-sach-ve-may-bay-pho-thong-khach-phai-chi-chuc-trieu-de-ve-que-an-tet-20250123212309688.htm) - 08:19 24/01/2025
 - 🕯 [Khởi tố người đàn ông hành hạ con riêng của người tình](https://dantri.com.vn/phap-luat/khoi-to-nguoi-dan-ong-hanh-ha-con-rieng-cua-nguoi-tinh-20250124144623402.htm) - 07:54 24/01/2025
