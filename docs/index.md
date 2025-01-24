@@ -407,7 +407,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Công an nhân dân gương mẫu, đi đầu thực hiện các chủ trương của Đảng, góp phần cùng cả nước vững bước vào kỷ nguyên mới](https://baochinhphu.vn/cong-an-nhan-dan-guong-mau-di-dau-thuc-hien-cac-chu-truong-cua-dang-gop-phan-cung-ca-nuoc-vung-buoc-vao-ky-nguyen-moi-102250124144339442.htm) - 14:43 24/01/2025
+- 💻 [Đề xuất mức chi tổ chức thực hiện công tác thi đua, khen thưởng](https://baochinhphu.vn/de-xuat-muc-chi-to-chuc-thuc-hien-cong-tac-thi-dua-khen-thuong-102250124142751501.htm) - 14:54 24/01/2025
 - 🌜 [4 trường hợp Cảnh sát giao thông kiểm tra giấy tờ từ 15/2](https://baochinhphu.vn/4-truong-hop-canh-sat-giao-thong-kiem-tra-giay-to-tu-15-2-102250124142114727.htm) - 14:24 24/01/2025
 - 🦆 [Nhờ Nghị định 168/2024/NĐ-CP, số ca nặng do tai nạn giao thông giảm đáng kể](https://baochinhphu.vn/nho-nghi-dinh-168-2024-nd-cp-so-ca-nang-do-tai-nan-giao-thong-giam-dang-ke-102250124131121082.htm) - 14:21 24/01/2025
 - 🌝 [Học kinh tế có được cấp chứng chỉ hành nghề quản lý dự án?](https://baochinhphu.vn/hoc-kinh-te-co-duoc-cap-chung-chi-hanh-nghe-quan-ly-du-an-102250121145736865.htm) - 14:20 24/01/2025
