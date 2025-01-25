@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Tóc Tiên chiến thắng show &#39;Chị đẹp đạp gió 2024&#39;](https://vnexpress.net/toc-tien-chien-thang-show-chi-dep-dap-gio-2024-4843297.html) - 15:05 25/01/2025
+- 🌏 [Tóc Tiên chiến thắng show &#39;Chị đẹp đạp gió&#39;](https://vnexpress.net/toc-tien-chien-thang-show-chi-dep-dap-gio-4843297.html) - 15:05 25/01/2025
 - 💫 [Triệu Lộ Tư tái xuất](https://vnexpress.net/trieu-lo-tu-tai-xuat-4843308.html) - 14:42 25/01/2025
 - 🌮 [Tóc nàng Bạch Tuyết thành mốt hot](https://vnexpress.net/toc-nang-bach-tuyet-thanh-mot-hot-4842832.html) - 12:00 25/01/2025
 - 🧠 [5 váy cưới của minh tinh Thái Lan](https://vnexpress.net/5-vay-cuoi-cua-minh-tinh-thai-lan-4843276.html) - 10:12 25/01/2025
