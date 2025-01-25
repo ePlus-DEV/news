@@ -606,7 +606,7 @@ Hùng Vương và Đức Lễ Thành hầu Nguyễn Hữu Cảnh](https://nld.co
 - 💪 [Chân dung 8 Bí thư Tỉnh ủy, Thành ủy được điều động, chỉ định trong tháng 1/2025](https://tienphong.vn/chan-dung-8-bi-thu-tinh-uy-thanh-uy-duoc-dieu-dong-chi-dinh-trong-thang-12025-post1712431.tpo) - 19:31 25/01/2025
 - 🎡 [Mai &#39;im re&#39; không nở, gió lạnh đang về khiến nhà vườn đứng ngồi không yên](https://tienphong.vn/mai-im-re-khong-no-gio-lanh-dang-ve-khien-nha-vuon-dung-ngoi-khong-yen-post1712426.tpo) - 19:28 25/01/2025
 - 😎 [Giáp Tết, ngư dân Quảng Ngãi &#39;bỏ túi&#39; tiền triệu sau một đêm ra khơi](https://tienphong.vn/giap-tet-ngu-dan-quang-ngai-bo-tui-tien-trieu-sau-mot-dem-ra-khoi-post1712400.tpo) - 19:20 25/01/2025
-- 🦄 [Cảng hàng không Gia Bình được bổ sung vào quy hoạch sân bay toàn quốc](https://tienphong.vn/cang-hang-khong-gia-binh-duoc-bo-sung-vao-quy-hoach-san-bay-toan-quoc-post1712428.tpo) - 19:15 25/01/2025
+- 🦄 [Thông tin mới về sân bay của Bộ Công an](https://tienphong.vn/thong-tin-moi-ve-san-bay-cua-bo-cong-an-post1712428.tpo) - 19:15 25/01/2025
 - 🚀 [Bất ngờ ở chợ Bình Tây ngày giáp Tết](https://tienphong.vn/bat-ngo-o-cho-binh-tay-ngay-giap-tet-post1712353.tpo) - 19:13 25/01/2025
 - 🤓 [Trung Quốc đòi treo giò tuyển thủ Hàn Quốc đến hết đời, FIFA nói không](https://tienphong.vn/trung-quoc-doi-treo-gio-tuyen-thu-han-quoc-den-het-doi-fifa-noi-khong-post1712429.tpo) - 19:05 25/01/2025
 - 💄 [Bắt đối tượng xuyên tạc, chống phá Đảng và Nhà nước](https://tienphong.vn/bat-doi-tuong-xuyen-tac-chong-pha-dang-va-nha-nuoc-post1712414.tpo) - 18:59 25/01/2025
