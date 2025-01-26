@@ -591,7 +591,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 👺 [Hình ảnh đầu tiên về lễ hội ánh sáng đêm Giao thừa](https://tienphong.vn/hinh-anh-dau-tien-ve-le-hoi-anh-sang-dem-giao-thua-post1712651.tpo) - 22:11 26/01/2025
 - 💪 [Giới trẻ TPHCM chen chân &#39;sắm đồ Tết&#39; tới nửa đêm](https://tienphong.vn/gioi-tre-tphcm-chen-chan-sam-do-tet-toi-nua-dem-post1712637.tpo) - 21:59 26/01/2025
 - 💃 [Tổng thống Hàn Quốc Yoon Suk Yeol bị truy tố](https://tienphong.vn/tong-thong-han-quoc-yoon-suk-yeol-bi-truy-to-post1712644.tpo) - 21:29 26/01/2025
-- 🦍 [Trực tiếp Tottenham vs Leicester 1-2 &lpar;H2&rpar;: Tottenham đón 2 cú sốc liên tiếp](https://tienphong.vn/truc-tiep-tottenham-vs-leicester-1-2-h2-tottenham-don-2-cu-soc-lien-tiep-post1712636.tpo) - 20:27 26/01/2025
+- 🦍 [Leicester lội ngược dòng trên sân Tottenham](https://tienphong.vn/leicester-loi-nguoc-dong-tren-san-tottenham-post1712636.tpo) - 20:27 26/01/2025
 - 👹 [Mê mẩn những vườn mai anh đào trên cao nguyên trắng Bắc Hà](https://tienphong.vn/me-man-nhung-vuon-mai-anh-dao-tren-cao-nguyen-trang-bac-ha-post1712360.tpo) - 19:54 26/01/2025
 - 🌜 [Hoãn phát sóng 4 phim Việt](https://tienphong.vn/hoan-phat-song-4-phim-viet-post1712620.tpo) - 19:46 26/01/2025
 - 🎓 [Á hậu Ngọc Hằng: &#39;Muốn biết vì sao Khánh Thi chấm 9,5 điểm&#39;](https://tienphong.vn/a-hau-ngoc-hang-muon-biet-vi-sao-khanh-thi-cham-95-diem-post1712629.tpo) - 19:43 26/01/2025
