@@ -9,7 +9,7 @@ sidebar_position: 1
 - ⚗️ [Bộ Công an sát hạch, cấp giấy phép lái xe](https://vnexpress.net/bo-cong-an-sat-hach-cap-giay-phep-lai-xe-4843525.html) - 06:28 26/01/2025
 - 🌊 [Sân bay Gia Bình được bổ sung vào quy hoạch](https://vnexpress.net/san-bay-gia-binh-duoc-bo-sung-vao-quy-hoach-4843539.html) - 06:19 26/01/2025
 - 🎓 [Cao tốc Diễn Châu - Bãi Vọt ùn tắc do nhiều tài xế chưa làm tài khoản VETC](https://vnexpress.net/cao-toc-dien-chau-bai-vot-un-tac-do-nhieu-tai-xe-chua-lam-tai-khoan-vetc-4843518.html) - 06:09 26/01/2025
-- 🔥 [Tiền Giang trưng bày rắn thật tại chợ hoa Xuân](https://vnexpress.net/tien-giang-trung-bay-ran-that-tai-cho-hoa-xuan-4843524.html) - 05:30 26/01/2025
+- 🔥 [Tiền Giang trưng bày rắn thật tại chợ hoa xuân](https://vnexpress.net/tien-giang-trung-bay-ran-that-tai-cho-hoa-xuan-4843524.html) - 05:30 26/01/2025
 - 🦏 [Tuyết rơi ở Hà Giang](https://vnexpress.net/tuyet-roi-o-ha-giang-4843494.html) - 04:36 26/01/2025
 - 👺 [Cứu du khách Nga trôi cách bờ biển Phan Thiết gần 10 km](https://vnexpress.net/cuu-du-khach-nga-troi-cach-bo-bien-phan-thiet-gan-10-km-4843493.html) - 04:23 26/01/2025
 - 🧑‍🏫 [Miền Bắc rét đến mùng 1 Tết Ất Tỵ](https://vnexpress.net/mien-bac-ret-den-mung-1-tet-at-ty-4843426.html) - 04:20 26/01/2025
