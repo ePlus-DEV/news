@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Du khách &#39;thích thú&#39; khi thấy tuyết rơi dày ở Sa Pa](https://vnexpress.net/du-khach-thich-thu-khi-thay-tuyet-roi-day-o-sa-pa-4843638.html) - 17:09 26/01/2025
+- 💂 [Du khách thích thú khi thấy tuyết rơi dày ở Sa Pa](https://vnexpress.net/du-khach-thich-thu-khi-thay-tuyet-roi-day-o-sa-pa-4843638.html) - 17:09 26/01/2025
 - 🪄 [Đồng cải vàng - điểm check in Tết ở Mộc Châu](https://vnexpress.net/dong-cai-vang-diem-check-in-tet-o-moc-chau-4842810.html) - 12:00 26/01/2025
 - 🦅 [Những ngọn núi hợp chuyến du xuân](https://vnexpress.net/nhung-ngon-nui-hop-chuyen-du-xuan-4843569.html) - 09:00 26/01/2025
 - 🕴 [Những hàng quán Hà Nội mở xuyên Tết](https://vnexpress.net/nhung-hang-quan-ha-noi-mo-xuyen-tet-4842295.html) - 05:00 26/01/2025
