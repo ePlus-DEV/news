@@ -588,7 +588,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Trực tiếp Tottenham vs Leicester, 21h00 ngày 26/1: Kỳ vọng vào Son Heung Min](https://tienphong.vn/truc-tiep-tottenham-vs-leicester-21h00-ngay-261-ky-vong-vao-son-heung-min-post1712636.tpo) - 20:27 26/01/2025
+- 💼 [Trực tiếp Tottenham vs Leicester 0-0 &lpar;H1&rpar;: Hiệp 1 bắt đầu](https://tienphong.vn/truc-tiep-tottenham-vs-leicester-0-0-h1-hiep-1-bat-dau-post1712636.tpo) - 20:27 26/01/2025
 - 🎊 [Mê mẩn những vườn mai anh đào trên cao nguyên trắng Bắc Hà](https://tienphong.vn/me-man-nhung-vuon-mai-anh-dao-tren-cao-nguyen-trang-bac-ha-post1712360.tpo) - 19:54 26/01/2025
 - 💼 [Hoãn phát sóng 4 phim Việt](https://tienphong.vn/hoan-phat-song-4-phim-viet-post1712620.tpo) - 19:46 26/01/2025
 - 👺 [Á hậu Ngọc Hằng: &#39;Muốn biết vì sao Khánh Thi chấm 9,5 điểm&#39;](https://tienphong.vn/a-hau-ngoc-hang-muon-biet-vi-sao-khanh-thi-cham-95-diem-post1712629.tpo) - 19:43 26/01/2025
