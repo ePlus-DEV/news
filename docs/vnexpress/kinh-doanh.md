@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Bài toán kinh tế với năm đầu nhiệm kỳ thứ hai của ông Trump](https://vnexpress.net/bai-toan-kinh-te-voi-nam-dau-nhiem-ky-thu-hai-cua-ong-trump-4843202.html) - 07:00 27/01/2025
+- ⛽️ [Bài toán kinh tế của ông Trump](https://vnexpress.net/bai-toan-kinh-te-cua-ong-trump-4843202.html) - 07:00 27/01/2025
 - 🐲 [Vietnam Airlines lãi trước thuế hơn 7.700 tỷ đồng năm ngoái](https://vnexpress.net/vietnam-airlines-lai-truoc-thue-hon-7-700-ty-dong-nam-ngoai-4843752.html) - 04:23 27/01/2025
 - 🔥 [Gần 2 triệu đồng một kg cherry nhập khẩu cận Tết](https://vnexpress.net/gan-2-trieu-dong-mot-kg-cherry-nhap-khau-can-tet-4843529.html) - 03:45 27/01/2025
 - 🐵 [Chuyên gia VinaCapital: Việt Nam có thể dẫn đầu &#39;cuộc đua&#39; công nghệ](https://vnexpress.net/chuyen-gia-vinacapital-viet-nam-co-the-dan-dau-cuoc-dua-cong-nghe-4842123.html) - 01:00 27/01/2025
