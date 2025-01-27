@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Tất niên dành cho chó đắt hàng](https://vnexpress.net/tat-nien-danh-cho-cho-dat-hang-4843779.html) - 09:30 27/01/2025
+- 🚀 [Tiệc tất niên cho chó cưng](https://vnexpress.net/tiec-tat-nien-cho-cho-cung-4843779.html) - 09:30 27/01/2025
 - 🎓 [Mẹo luộc gà cánh tiên làm lễ giao thừa](https://vnexpress.net/meo-luoc-ga-canh-tien-lam-le-giao-thua-4843691.html) - 04:55 27/01/2025
 - 🚦 [Bốn món canh trong cỗ Tết Hà Nội xưa](https://vnexpress.net/bon-mon-canh-trong-co-tet-ha-noi-xua-4842990.html) - 02:30 27/01/2025
 - 🦣 [Tết Việt trong mắt các chàng rể Tây](https://vnexpress.net/tet-viet-trong-mat-cac-chang-re-tay-vnepre-4843263.html) - 23:00 26/01/2025
