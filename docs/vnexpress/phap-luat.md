@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Bảo vệ quyền lợi thế nào khi mua thực phẩm giá &#39;cắt cổ&#39; vào dịp Tết?](https://vnexpress.net/bao-ve-quyen-loi-the-nao-khi-mua-thuc-pham-gia-cat-co-vao-dip-tet-4842641.html) - 17:00 27/01/2025
+- 😎 [Ông lão gây ra 63 vụ trộm để theo đuổi &#39;lối sống ngầu&#39;](https://vnexpress.net/ong-lao-gay-ra-63-vu-trom-de-theo-duoi-loi-song-ngau-4843887.html) - 18:13 27/01/2025
 - 🥰 [Cuộc trả thù của gã trộm ngông cuồng](https://vnexpress.net/cuoc-tra-thu-cua-ga-trom-khong-biet-hoi-cai-4842529.html) - 17:00 27/01/2025
 - 🎓 [Bị phạt vì vặn cổ trêu đùa đồng nghiệp](https://vnexpress.net/bi-phat-vi-massage-cho-dong-nghiep-lam-bong-gan-co-4843840.html) - 12:12 27/01/2025
 - 🤓 [Giám đốc tổ chức tiệc ma túy tất niên cho nhân viên](https://vnexpress.net/giam-doc-to-chuc-tiec-ma-tuy-tat-nien-cho-nhan-vien-4843797.html) - 10:23 27/01/2025
