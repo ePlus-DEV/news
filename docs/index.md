@@ -583,66 +583,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
+- 💼 [Châu Á rộn ràng đón năm mới Ất Tỵ](https://tienphong.vn/chau-a-ron-rang-don-nam-moi-at-ty-post1712888.tpo) - 23:09 28/01/2025
+- 🎊 [Liên tiếp 2 trẻ bị bỏng nặng trong ngày Tết vì người lớn sơ ý](https://tienphong.vn/lien-tiep-2-tre-bi-bong-nang-trong-ngay-tet-vi-nguoi-lon-so-y-post1713088.tpo) - 23:07 28/01/2025
 - 💼 [Tổng Bí thư Tô Lâm thăm, kiểm tra và chúc Tết các đơn vị Công an và Quân đội](https://tienphong.vn/tong-bi-thu-to-lam-tham-kiem-tra-va-chuc-tet-cac-don-vi-cong-an-va-quan-doi-post1713083.tpo) - 22:40 28/01/2025
-- 🎊 [Tổng Bí thư Tô Lâm thăm, chúc Tết Đảng bộ, chính quyền và Nhân dân Thủ đô Hà Nội](https://tienphong.vn/tong-bi-thu-to-lam-tham-chuc-tet-dang-bo-chinh-quyen-va-nhan-dan-thu-do-ha-noi-post1713073.tpo) - 22:23 28/01/2025
-- 💼 [Bạn trẻ &#39;cày&#39; việc xuyên Tết](https://tienphong.vn/ban-tre-cay-viec-xuyen-tet-post1712812.tpo) - 21:11 28/01/2025
-- 👺 [Tết con rắn, rồng Đà Nẵng phun lửa ra sao?](https://tienphong.vn/tet-con-ran-rong-da-nang-phun-lua-ra-sao-post1713028.tpo) - 20:47 28/01/2025
-- 💪 [Đỗ Thị Hà xắn quần dọn nhà chiều 29 Tết, Lương Thùy Linh canh nồi bánh chưng](https://tienphong.vn/do-thi-ha-xan-quan-don-nha-chieu-29-tet-luong-thuy-linh-canh-noi-banh-chung-post1713017.tpo) - 20:17 28/01/2025
-- 💃 [Lưu Diệc Phi vướng ồn ào đầu năm 2025](https://tienphong.vn/luu-diec-phi-vuong-on-ao-dau-nam-2025-post1712978.tpo) - 20:14 28/01/2025
-- 🦍 [Video Selena Gomez khóc nức nở](https://tienphong.vn/video-selena-gomez-khoc-nuc-no-post1712999.tpo) - 20:08 28/01/2025
-- 👹 [Bí thư Hà Nội: Thủ đô gương mẫu, đi đầu, cùng cả nước bước vào kỷ nguyên vươn mình của dân tộc](https://tienphong.vn/bi-thu-ha-noi-thu-do-guong-mau-di-dau-cung-ca-nuoc-buoc-vao-ky-nguyen-vuon-minh-cua-dan-toc-post1713031.tpo) - 19:53 28/01/2025
-- 🌜 [“Báu vật xanh” giữa lòng miền Tây](https://tienphong.vn/bau-vat-xanh-giua-long-mien-tay-post1713065.tpo) - 19:30 28/01/2025
-- 🎓 [Nô nức xuống phố đón giao thừa Ất Tỵ](https://tienphong.vn/no-nuc-xuong-pho-don-giao-thua-at-ty-post1712949.tpo) - 19:06 28/01/2025
-- 🦣 [Những chuyến xe cuối cùng rời bến, đưa khách về đón Tết cùng gia đình](https://tienphong.vn/nhung-chuyen-xe-cuoi-cung-roi-ben-dua-khach-ve-don-tet-cung-gia-dinh-post1713016.tpo) - 19:06 28/01/2025
-- 🤓 [Hãng con của Toyota phải đền bù 1,6 tỷ USD vì gian lận khí thải](https://tienphong.vn/hang-con-cua-toyota-phai-den-bu-16-ty-usd-vi-gian-lan-khi-thai-post1710766.tpo) - 19:03 28/01/2025
-- 🌁 [Nga, Ukraine không kích nhau dữ dội](https://tienphong.vn/nga-ukraine-khong-kich-nhau-du-doi-post1712862.tpo) - 18:37 28/01/2025
-- 🤩 [Quân đội Philippines huấn luyện binh lính với hệ thống tên lửa Typhon của Mỹ](https://tienphong.vn/quan-doi-philippines-huan-luyen-binh-linh-voi-he-thong-ten-lua-typhon-cua-my-post1713008.tpo) - 18:31 28/01/2025
-- 🫶 [Ngày thứ ba nghỉ Tết: Xử lý gần 7.000 tài xế vi phạm](https://tienphong.vn/ngay-thu-ba-nghi-tet-xu-ly-gan-7000-tai-xe-vi-pham-post1713013.tpo) - 18:12 28/01/2025
-- 🌁 [Năm nay xe điện bùng nổ, thị trường sửa chữa &#39;ăn nên làm ra&#39;?](https://tienphong.vn/nam-nay-xe-dien-bung-no-thi-truong-sua-chua-an-nen-lam-ra-post1712930.tpo) - 17:56 28/01/2025
-- 🤭 [&#39;Áo xanh&#39; mang Tết ấm áp đến công nhân xa quê](https://tienphong.vn/ao-xanh-mang-tet-am-ap-den-cong-nhan-xa-que-post1713005.tpo) - 17:54 28/01/2025
-- 💪 [Điểm du lịch nào ở Đà Nẵng mở cửa xuyên Tết?](https://tienphong.vn/diem-du-lich-nao-o-da-nang-mo-cua-xuyen-tet-post1712968.tpo) - 17:53 28/01/2025
-- 🎡 [Lái xe lỡ chuyến hàng sang Trung Quốc ăn Tết ở cửa khẩu Lạng Sơn](https://tienphong.vn/lai-xe-lo-chuyen-hang-sang-trung-quoc-an-tet-o-cua-khau-lang-son-post1712969.tpo) - 17:45 28/01/2025
-- 😎 [Sau năm bán ròng kỷ lục, khối ngoại còn nắm những cổ phiếu nào?](https://tienphong.vn/sau-nam-ban-rong-ky-luc-khoi-ngoai-con-nam-nhung-co-phieu-nao-post1712935.tpo) - 17:43 28/01/2025
-- 🦄 [Môi giới vẫn miệt mài rao bán nhà đất ngày cuối năm](https://tienphong.vn/moi-gioi-van-miet-mai-rao-ban-nha-dat-ngay-cuoi-nam-post1713000.tpo) - 17:30 28/01/2025
-- 🚀 [Chợ pháo hoa giấy lớn nhất TPHCM &#39;xả hàng&#39; chờ khách đến phút chót](https://tienphong.vn/cho-phao-hoa-giay-lon-nhat-tphcm-xa-hang-cho-khach-den-phut-chot-post1712997.tpo) - 17:24 28/01/2025
-- 🤓 [Đào, quất ế ẩm ngày cuối năm, tiểu thương nói &#39;Tết không vui nổi&#39;](https://tienphong.vn/dao-quat-e-am-ngay-cuoi-nam-tieu-thuong-noi-tet-khong-vui-noi-post1712960.tpo) - 17:16 28/01/2025
-- 💄 [Hà Nội: Tiểu thương chặt bỏ đào ế trước khi rời chợ về quê ăn Tết](https://tienphong.vn/ha-noi-tieu-thuong-chat-bo-dao-e-truoc-khi-roi-cho-ve-que-an-tet-post1713006.tpo) - 17:11 28/01/2025
-- 🌋 [Trạm dừng nghỉ tạm cao tốc Bắc Nam hoạt động ra sao dịp Tết Ất Tỵ?](https://tienphong.vn/tram-dung-nghi-tam-cao-toc-bac-nam-hoat-dong-ra-sao-dip-tet-at-ty-post1712975.tpo) - 17:05 28/01/2025
-- 🥷 [Đăng tin giả tai nạn liên hoàn ở Đà Nẵng để bán hàng Tết](https://tienphong.vn/dang-tin-gia-tai-nan-lien-hoan-o-da-nang-de-ban-hang-tet-post1712953.tpo) - 16:54 28/01/2025
-- 🦏 [Hoa hậu Thanh Thủy được đề cử Vẻ đẹp vượt thời gian](https://tienphong.vn/hoa-hau-thanh-thuy-duoc-de-cu-ve-dep-vuot-thoi-gian-post1712902.tpo) - 16:24 28/01/2025
-- 🎓 [Sau trận thua HAGL, đội bóng bầu Hiển đột ngột ra thông báo thay HLV trưởng chiều 30 Tết](https://tienphong.vn/sau-tran-thua-hagl-doi-bong-bau-hien-dot-ngot-ra-thong-bao-thay-hlv-truong-chieu-30-tet-post1712993.tpo) - 16:18 28/01/2025
-- 🐘 [&#39;Cửu vạn&#39; vất vả mưu sinh trong những ngày cuối cùng của năm](https://tienphong.vn/cuu-van-vat-va-muu-sinh-trong-nhung-ngay-cuoi-cung-cua-nam-post1712956.tpo) - 16:16 28/01/2025
-- 🎡 [Trận địa pháo hoa giao thừa xứ Huế sẵn sàng khai hỏa](https://tienphong.vn/tran-dia-phao-hoa-giao-thua-xu-hue-san-sang-khai-hoa-post1712966.tpo) - 16:14 28/01/2025
-- 🔭 [Người dân Làng Nủ quây quần gói bánh chưng đón Tết](https://tienphong.vn/nguoi-dan-lang-nu-quay-quan-goi-banh-chung-don-tet-post1712955.tpo) - 16:05 28/01/2025
-- 🧰 [TPHCM: Dãy nhà phát hỏa vào 29 Tết, cột khói đen phủ kín trời](https://tienphong.vn/tphcm-day-nha-phat-hoa-vao-29-tet-cot-khoi-den-phu-kin-troi-post1712981.tpo) - 16:05 28/01/2025
-- 💂 [Chuyến biển cuối năm, ngư dân phấn khởi trúng đậm hải sản](https://tienphong.vn/chuyen-bien-cuoi-nam-ngu-dan-phan-khoi-trung-dam-hai-san-post1712954.tpo) - 16:00 28/01/2025
-- 🦏 [Chợ trâu bò độc nhất vô nhị, mua bán dùng &#39;mật ngữ&#39;](https://tienphong.vn/cho-trau-bo-doc-nhat-vo-nhi-mua-ban-dung-mat-ngu-post1712836.tpo) - 15:38 28/01/2025
-- 🌋 [Anh Bùi Quang Huy tiếp sức người trẻ lực lượng vũ trang canh trực Tết](https://tienphong.vn/anh-bui-quang-huy-tiep-suc-nguoi-tre-luc-luong-vu-trang-canh-truc-tet-post1712950.tpo) - 15:32 28/01/2025
-- 🧰 [Ukraine lên kế hoạch sử dụng tiêm kích F-16 cho các cuộc tấn công](https://tienphong.vn/ukraine-len-ke-hoach-su-dung-tiem-kich-f-16-cho-cac-cuoc-tan-cong-post1712951.tpo) - 15:24 28/01/2025
-- 🦩 [Dinh Độc Lập, metro Bến Thành trở thành điểm check-in hot mùa Tết của hoa hậu](https://tienphong.vn/dinh-doc-lap-metro-ben-thanh-tro-thanh-diem-check-in-hot-mua-tet-cua-hoa-hau-post1712892.tpo) - 15:22 28/01/2025
-- 📝 [Mía lộc nguyên lá &#39;đổ bộ&#39; xuống phố Hà Nội chờ đón Giao thừa](https://tienphong.vn/mia-loc-nguyen-la-do-bo-xuong-pho-ha-noi-cho-don-giao-thua-post1712967.tpo) - 15:19 28/01/2025
-- 🤓 [Thời điểm hốt bạc của các nhà thiết kế](https://tienphong.vn/thoi-diem-hot-bac-cua-cac-nha-thiet-ke-post1712847.tpo) - 15:19 28/01/2025
-- 🎭 [Ronaldo tác động ban lãnh đạo giải cứu tiền vệ MU](https://tienphong.vn/ronaldo-tac-dong-ban-lanh-dao-giai-cuu-tien-ve-mu-post1712962.tpo) - 15:11 28/01/2025
-- 🐘 [MU tiến gần tân binh đầu tiên dưới triều đại Ruben Amorim](https://tienphong.vn/mu-tien-gan-tan-binh-dau-tien-duoi-trieu-dai-ruben-amorim-post1712970.tpo) - 15:09 28/01/2025
-- 😺 [Cận cảnh cầu hơn 400 tỷ vượt sông Vân, dự kiến khánh thành vào mùng 3 Tết](https://tienphong.vn/can-canh-cau-hon-400-ty-vuot-song-van-du-kien-khanh-thanh-vao-mung-3-tet-post1712945.tpo) - 15:09 28/01/2025
-- 🌁 [Vì sao nên tắm nước lá mùi già vào ngày cuối năm?](https://tienphong.vn/vi-sao-nen-tam-nuoc-la-mui-gia-vao-ngay-cuoi-nam-post1712909.tpo) - 15:09 28/01/2025
-- 💄 [Phố phường Hà Nội đỏ thắm màu cờ ngày 29 Tết](https://tienphong.vn/pho-phuong-ha-noi-do-tham-mau-co-ngay-29-tet-post1712958.tpo) - 15:07 28/01/2025
-- 🧰 [Hướng tốt, giờ đẹp và những việc nên làm trong 3 ngày đầu năm mới](https://tienphong.vn/huong-tot-gio-dep-va-nhung-viec-nen-lam-trong-3-ngay-dau-nam-moi-post1712971.tpo) - 15:05 28/01/2025
-- 🗽 [Khủng hoảng của Lee Min Ho](https://tienphong.vn/khung-hoang-cua-lee-min-ho-post1712854.tpo) - 15:04 28/01/2025
-- 📝 [Bóng đá Việt 2024, một năm đầy biến động với quá nhiều nốt trầm buồn trước khi vút bay, tiến vào kỷ nguyên mới](https://tienphong.vn/bong-da-viet-2024-mot-nam-day-bien-dong-voi-qua-nhieu-not-tram-buon-truoc-khi-vut-bay-tien-vao-ky-nguyen-moi-post1712936.tpo) - 15:00 28/01/2025
-- 🪄 [Chen chân ở chợ hoa TP Nam Định chiều 29 Tết](https://tienphong.vn/chen-chan-o-cho-hoa-tp-nam-dinh-chieu-29-tet-post1712961.tpo) - 14:23 28/01/2025
-- 🪜 [Bên trong trận địa pháo hoa tầm cao chào đón Tết Ất Tỵ 2025 ở TPHCM](https://tienphong.vn/ben-trong-tran-dia-phao-hoa-tam-cao-chao-don-tet-at-ty-2025-o-tphcm-post1712952.tpo) - 14:20 28/01/2025
-- 🤡 [Những tuổi tuyệt đối không nên xông nhà năm Ất Tỵ 2025](https://tienphong.vn/nhung-tuoi-tuyet-doi-khong-nen-xong-nha-nam-at-ty-2025-post1712914.tpo) - 14:11 28/01/2025
-- 🌮 [Golf trẻ Việt Nam: Thách thức và hành trình vươn ra biển lớn](https://tienphong.vn/golf-tre-viet-nam-thach-thuc-va-hanh-trinh-vuon-ra-bien-lon-post1712944.tpo) - 14:00 28/01/2025
-- 🕯 [Vì sao 8 năm liên tiếp không có 30 Tết ?](https://tienphong.vn/vi-sao-8-nam-lien-tiep-khong-co-30-tet-post1712933.tpo) - 13:47 28/01/2025
-- 🌜 [Công an Hà Nội huy động 100% lực lượng bảo đảm an ninh trật tự đêm giao thừa](https://tienphong.vn/cong-an-ha-noi-huy-dong-100-luc-luong-bao-dam-an-ninh-trat-tu-dem-giao-thua-post1712947.tpo) - 13:44 28/01/2025
-- 💼 [Hoa hậu Thanh Thủy òa khóc khi đến xóm chạy thận ở Đà Nẵng ngày cuối năm](https://tienphong.vn/hoa-hau-thanh-thuy-oa-khoc-khi-den-xom-chay-than-o-da-nang-ngay-cuoi-nam-post1712931.tpo) - 13:40 28/01/2025
-- 🌏 [Khắc phục tình trạng nhếch nhác trên phố ẩm thực trung tâm TP Hải Phòng](https://tienphong.vn/khac-phuc-tinh-trang-nhech-nhac-tren-pho-am-thuc-trung-tam-tp-hai-phong-post1712932.tpo) - 13:17 28/01/2025
-- 🤩 [Huyện Ứng Hòa: Nhiều cách làm mới tạo đột phá](https://tienphong.vn/huyen-ung-hoa-nhieu-cach-lam-moi-tao-dot-pha-post1706764.tpo) - 13:00 28/01/2025
-- 💯 [Nhóm lừa đảo từng bước dụ dỗ phụ huynh chuyển tiền để con tham gia &#39;cuộc thi đạp xe cho trẻ&#39;](https://tienphong.vn/nhom-lua-dao-tung-buoc-du-do-phu-huynh-chuyen-tien-de-con-tham-gia-cuoc-thi-dap-xe-cho-tre-post1712942.tpo) - 12:57 28/01/2025
-- 🤔 [Hà Nội: 60 cảnh sát chữa cháy xưởng sửa chữa ô tô ở đường Nguyễn Văn Giáp](https://tienphong.vn/ha-noi-60-canh-sat-chua-chay-xuong-sua-chua-o-to-o-duong-nguyen-van-giap-post1712946.tpo) - 12:57 28/01/2025
-- 🦏 [Ngày 29 Tết: Cứ 30 phút tiểu thương lại giảm giá cây để &#39;hút khách&#39;](https://tienphong.vn/ngay-29-tet-cu-30-phut-tieu-thuong-lai-giam-gia-cay-de-hut-khach-post1712938.tpo) - 12:47 28/01/2025
-- 🤩 [Trọng tài Ngoại hạng Anh dùng ma túy, chửi Klopp lại công khai một sự thật gây tranh cãi](https://tienphong.vn/trong-tai-ngoai-hang-anh-dung-ma-tuy-chui-klopp-lai-cong-khai-mot-su-that-gay-tranh-cai-post1712940.tpo) - 12:33 28/01/2025<!-- hoahoctro:END -->
+- 👺 [Tổng Bí thư Tô Lâm thăm, chúc Tết Đảng bộ, chính quyền và Nhân dân Thủ đô Hà Nội](https://tienphong.vn/tong-bi-thu-to-lam-tham-chuc-tet-dang-bo-chinh-quyen-va-nhan-dan-thu-do-ha-noi-post1713073.tpo) - 22:23 28/01/2025
+- 💪 [Bạn trẻ &#39;cày&#39; việc xuyên Tết](https://tienphong.vn/ban-tre-cay-viec-xuyen-tet-post1712812.tpo) - 21:11 28/01/2025
+- 💃 [Tết con rắn, rồng Đà Nẵng phun lửa ra sao?](https://tienphong.vn/tet-con-ran-rong-da-nang-phun-lua-ra-sao-post1713028.tpo) - 20:47 28/01/2025
+- 🦍 [Đỗ Thị Hà xắn quần dọn nhà chiều 29 Tết, Lương Thùy Linh canh nồi bánh chưng](https://tienphong.vn/do-thi-ha-xan-quan-don-nha-chieu-29-tet-luong-thuy-linh-canh-noi-banh-chung-post1713017.tpo) - 20:17 28/01/2025
+- 👹 [Lưu Diệc Phi vướng ồn ào đầu năm 2025](https://tienphong.vn/luu-diec-phi-vuong-on-ao-dau-nam-2025-post1712978.tpo) - 20:14 28/01/2025
+- 🌜 [Video Selena Gomez khóc nức nở](https://tienphong.vn/video-selena-gomez-khoc-nuc-no-post1712999.tpo) - 20:08 28/01/2025
+- 🎓 [Bí thư Hà Nội: Thủ đô gương mẫu, đi đầu, cùng cả nước bước vào kỷ nguyên vươn mình của dân tộc](https://tienphong.vn/bi-thu-ha-noi-thu-do-guong-mau-di-dau-cung-ca-nuoc-buoc-vao-ky-nguyen-vuon-minh-cua-dan-toc-post1713031.tpo) - 19:53 28/01/2025
+- 🦣 [“Báu vật xanh” giữa lòng miền Tây](https://tienphong.vn/bau-vat-xanh-giua-long-mien-tay-post1713065.tpo) - 19:30 28/01/2025
+- 🤓 [Nô nức xuống phố đón giao thừa Ất Tỵ](https://tienphong.vn/no-nuc-xuong-pho-don-giao-thua-at-ty-post1712949.tpo) - 19:06 28/01/2025
+- 🌁 [Những chuyến xe cuối cùng rời bến, đưa khách về đón Tết cùng gia đình](https://tienphong.vn/nhung-chuyen-xe-cuoi-cung-roi-ben-dua-khach-ve-don-tet-cung-gia-dinh-post1713016.tpo) - 19:06 28/01/2025
+- 🤩 [Hãng con của Toyota phải đền bù 1,6 tỷ USD vì gian lận khí thải](https://tienphong.vn/hang-con-cua-toyota-phai-den-bu-16-ty-usd-vi-gian-lan-khi-thai-post1710766.tpo) - 19:03 28/01/2025
+- 🫶 [Nga, Ukraine không kích nhau dữ dội](https://tienphong.vn/nga-ukraine-khong-kich-nhau-du-doi-post1712862.tpo) - 18:37 28/01/2025
+- 🌁 [Quân đội Philippines huấn luyện binh lính với hệ thống tên lửa Typhon của Mỹ](https://tienphong.vn/quan-doi-philippines-huan-luyen-binh-linh-voi-he-thong-ten-lua-typhon-cua-my-post1713008.tpo) - 18:31 28/01/2025
+- 🤭 [Ngày thứ ba nghỉ Tết: Xử lý gần 7.000 tài xế vi phạm](https://tienphong.vn/ngay-thu-ba-nghi-tet-xu-ly-gan-7000-tai-xe-vi-pham-post1713013.tpo) - 18:12 28/01/2025
+- 💪 [Năm nay xe điện bùng nổ, thị trường sửa chữa &#39;ăn nên làm ra&#39;?](https://tienphong.vn/nam-nay-xe-dien-bung-no-thi-truong-sua-chua-an-nen-lam-ra-post1712930.tpo) - 17:56 28/01/2025
+- 🎡 [&#39;Áo xanh&#39; mang Tết ấm áp đến công nhân xa quê](https://tienphong.vn/ao-xanh-mang-tet-am-ap-den-cong-nhan-xa-que-post1713005.tpo) - 17:54 28/01/2025
+- 😎 [Điểm du lịch nào ở Đà Nẵng mở cửa xuyên Tết?](https://tienphong.vn/diem-du-lich-nao-o-da-nang-mo-cua-xuyen-tet-post1712968.tpo) - 17:53 28/01/2025
+- 🦄 [Lái xe lỡ chuyến hàng sang Trung Quốc ăn Tết ở cửa khẩu Lạng Sơn](https://tienphong.vn/lai-xe-lo-chuyen-hang-sang-trung-quoc-an-tet-o-cua-khau-lang-son-post1712969.tpo) - 17:45 28/01/2025
+- 🚀 [Sau năm bán ròng kỷ lục, khối ngoại còn nắm những cổ phiếu nào?](https://tienphong.vn/sau-nam-ban-rong-ky-luc-khoi-ngoai-con-nam-nhung-co-phieu-nao-post1712935.tpo) - 17:43 28/01/2025
+- 🤓 [Môi giới vẫn miệt mài rao bán nhà đất ngày cuối năm](https://tienphong.vn/moi-gioi-van-miet-mai-rao-ban-nha-dat-ngay-cuoi-nam-post1713000.tpo) - 17:30 28/01/2025
+- 💄 [Chợ pháo hoa giấy lớn nhất TPHCM &#39;xả hàng&#39; chờ khách đến phút chót](https://tienphong.vn/cho-phao-hoa-giay-lon-nhat-tphcm-xa-hang-cho-khach-den-phut-chot-post1712997.tpo) - 17:24 28/01/2025
+- 🌋 [Đào, quất ế ẩm ngày cuối năm, tiểu thương nói &#39;Tết không vui nổi&#39;](https://tienphong.vn/dao-quat-e-am-ngay-cuoi-nam-tieu-thuong-noi-tet-khong-vui-noi-post1712960.tpo) - 17:16 28/01/2025
+- 🥷 [Hà Nội: Tiểu thương chặt bỏ đào ế trước khi rời chợ về quê ăn Tết](https://tienphong.vn/ha-noi-tieu-thuong-chat-bo-dao-e-truoc-khi-roi-cho-ve-que-an-tet-post1713006.tpo) - 17:11 28/01/2025
+- 🦏 [Trạm dừng nghỉ tạm cao tốc Bắc Nam hoạt động ra sao dịp Tết Ất Tỵ?](https://tienphong.vn/tram-dung-nghi-tam-cao-toc-bac-nam-hoat-dong-ra-sao-dip-tet-at-ty-post1712975.tpo) - 17:05 28/01/2025
+- 🎓 [Đăng tin giả tai nạn liên hoàn ở Đà Nẵng để bán hàng Tết](https://tienphong.vn/dang-tin-gia-tai-nan-lien-hoan-o-da-nang-de-ban-hang-tet-post1712953.tpo) - 16:54 28/01/2025
+- 🐘 [Hoa hậu Thanh Thủy được đề cử Vẻ đẹp vượt thời gian](https://tienphong.vn/hoa-hau-thanh-thuy-duoc-de-cu-ve-dep-vuot-thoi-gian-post1712902.tpo) - 16:24 28/01/2025
+- 🎡 [Sau trận thua HAGL, đội bóng bầu Hiển đột ngột ra thông báo thay HLV trưởng chiều 30 Tết](https://tienphong.vn/sau-tran-thua-hagl-doi-bong-bau-hien-dot-ngot-ra-thong-bao-thay-hlv-truong-chieu-30-tet-post1712993.tpo) - 16:18 28/01/2025
+- 🔭 [&#39;Cửu vạn&#39; vất vả mưu sinh trong những ngày cuối cùng của năm](https://tienphong.vn/cuu-van-vat-va-muu-sinh-trong-nhung-ngay-cuoi-cung-cua-nam-post1712956.tpo) - 16:16 28/01/2025
+- 🧰 [Trận địa pháo hoa giao thừa xứ Huế sẵn sàng khai hỏa](https://tienphong.vn/tran-dia-phao-hoa-giao-thua-xu-hue-san-sang-khai-hoa-post1712966.tpo) - 16:14 28/01/2025
+- 💂 [Người dân Làng Nủ quây quần gói bánh chưng đón Tết](https://tienphong.vn/nguoi-dan-lang-nu-quay-quan-goi-banh-chung-don-tet-post1712955.tpo) - 16:05 28/01/2025
+- 🦏 [TPHCM: Dãy nhà phát hỏa vào 29 Tết, cột khói đen phủ kín trời](https://tienphong.vn/tphcm-day-nha-phat-hoa-vao-29-tet-cot-khoi-den-phu-kin-troi-post1712981.tpo) - 16:05 28/01/2025
+- 🌋 [Chuyến biển cuối năm, ngư dân phấn khởi trúng đậm hải sản](https://tienphong.vn/chuyen-bien-cuoi-nam-ngu-dan-phan-khoi-trung-dam-hai-san-post1712954.tpo) - 16:00 28/01/2025
+- 🧰 [Chợ trâu bò độc nhất vô nhị, mua bán dùng &#39;mật ngữ&#39;](https://tienphong.vn/cho-trau-bo-doc-nhat-vo-nhi-mua-ban-dung-mat-ngu-post1712836.tpo) - 15:38 28/01/2025
+- 🦩 [Anh Bùi Quang Huy tiếp sức người trẻ lực lượng vũ trang canh trực Tết](https://tienphong.vn/anh-bui-quang-huy-tiep-suc-nguoi-tre-luc-luong-vu-trang-canh-truc-tet-post1712950.tpo) - 15:32 28/01/2025
+- 📝 [Ukraine lên kế hoạch sử dụng tiêm kích F-16 cho các cuộc tấn công](https://tienphong.vn/ukraine-len-ke-hoach-su-dung-tiem-kich-f-16-cho-cac-cuoc-tan-cong-post1712951.tpo) - 15:24 28/01/2025
+- 🤓 [Dinh Độc Lập, metro Bến Thành trở thành điểm check-in hot mùa Tết của hoa hậu](https://tienphong.vn/dinh-doc-lap-metro-ben-thanh-tro-thanh-diem-check-in-hot-mua-tet-cua-hoa-hau-post1712892.tpo) - 15:22 28/01/2025
+- 🎭 [Mía lộc nguyên lá &#39;đổ bộ&#39; xuống phố Hà Nội chờ đón Giao thừa](https://tienphong.vn/mia-loc-nguyen-la-do-bo-xuong-pho-ha-noi-cho-don-giao-thua-post1712967.tpo) - 15:19 28/01/2025
+- 🐘 [Thời điểm hốt bạc của các nhà thiết kế](https://tienphong.vn/thoi-diem-hot-bac-cua-cac-nha-thiet-ke-post1712847.tpo) - 15:19 28/01/2025
+- 😺 [Ronaldo tác động ban lãnh đạo giải cứu tiền vệ MU](https://tienphong.vn/ronaldo-tac-dong-ban-lanh-dao-giai-cuu-tien-ve-mu-post1712962.tpo) - 15:11 28/01/2025
+- 🌁 [MU tiến gần tân binh đầu tiên dưới triều đại Ruben Amorim](https://tienphong.vn/mu-tien-gan-tan-binh-dau-tien-duoi-trieu-dai-ruben-amorim-post1712970.tpo) - 15:09 28/01/2025
+- 💄 [Cận cảnh cầu hơn 400 tỷ vượt sông Vân, dự kiến khánh thành vào mùng 3 Tết](https://tienphong.vn/can-canh-cau-hon-400-ty-vuot-song-van-du-kien-khanh-thanh-vao-mung-3-tet-post1712945.tpo) - 15:09 28/01/2025
+- 🧰 [Vì sao nên tắm nước lá mùi già vào ngày cuối năm?](https://tienphong.vn/vi-sao-nen-tam-nuoc-la-mui-gia-vao-ngay-cuoi-nam-post1712909.tpo) - 15:09 28/01/2025
+- 🗽 [Phố phường Hà Nội đỏ thắm màu cờ ngày 29 Tết](https://tienphong.vn/pho-phuong-ha-noi-do-tham-mau-co-ngay-29-tet-post1712958.tpo) - 15:07 28/01/2025
+- 📝 [Hướng tốt, giờ đẹp và những việc nên làm trong 3 ngày đầu năm mới](https://tienphong.vn/huong-tot-gio-dep-va-nhung-viec-nen-lam-trong-3-ngay-dau-nam-moi-post1712971.tpo) - 15:05 28/01/2025
+- 🪄 [Khủng hoảng của Lee Min Ho](https://tienphong.vn/khung-hoang-cua-lee-min-ho-post1712854.tpo) - 15:04 28/01/2025
+- 🪜 [Bóng đá Việt 2024, một năm đầy biến động với quá nhiều nốt trầm buồn trước khi vút bay, tiến vào kỷ nguyên mới](https://tienphong.vn/bong-da-viet-2024-mot-nam-day-bien-dong-voi-qua-nhieu-not-tram-buon-truoc-khi-vut-bay-tien-vao-ky-nguyen-moi-post1712936.tpo) - 15:00 28/01/2025
+- 🤡 [Chen chân ở chợ hoa TP Nam Định chiều 29 Tết](https://tienphong.vn/chen-chan-o-cho-hoa-tp-nam-dinh-chieu-29-tet-post1712961.tpo) - 14:23 28/01/2025
+- 🌮 [Bên trong trận địa pháo hoa tầm cao chào đón Tết Ất Tỵ 2025 ở TPHCM](https://tienphong.vn/ben-trong-tran-dia-phao-hoa-tam-cao-chao-don-tet-at-ty-2025-o-tphcm-post1712952.tpo) - 14:20 28/01/2025
+- 🕯 [Những tuổi tuyệt đối không nên xông nhà năm Ất Tỵ 2025](https://tienphong.vn/nhung-tuoi-tuyet-doi-khong-nen-xong-nha-nam-at-ty-2025-post1712914.tpo) - 14:11 28/01/2025
+- 🌜 [Golf trẻ Việt Nam: Thách thức và hành trình vươn ra biển lớn](https://tienphong.vn/golf-tre-viet-nam-thach-thuc-va-hanh-trinh-vuon-ra-bien-lon-post1712944.tpo) - 14:00 28/01/2025
+- 💼 [Vì sao 8 năm liên tiếp không có 30 Tết ?](https://tienphong.vn/vi-sao-8-nam-lien-tiep-khong-co-30-tet-post1712933.tpo) - 13:47 28/01/2025
+- 🌏 [Công an Hà Nội huy động 100% lực lượng bảo đảm an ninh trật tự đêm giao thừa](https://tienphong.vn/cong-an-ha-noi-huy-dong-100-luc-luong-bao-dam-an-ninh-trat-tu-dem-giao-thua-post1712947.tpo) - 13:44 28/01/2025
+- 🤩 [Hoa hậu Thanh Thủy òa khóc khi đến xóm chạy thận ở Đà Nẵng ngày cuối năm](https://tienphong.vn/hoa-hau-thanh-thuy-oa-khoc-khi-den-xom-chay-than-o-da-nang-ngay-cuoi-nam-post1712931.tpo) - 13:40 28/01/2025
+- 💯 [Khắc phục tình trạng nhếch nhác trên phố ẩm thực trung tâm TP Hải Phòng](https://tienphong.vn/khac-phuc-tinh-trang-nhech-nhac-tren-pho-am-thuc-trung-tam-tp-hai-phong-post1712932.tpo) - 13:17 28/01/2025
+- 🤔 [Huyện Ứng Hòa: Nhiều cách làm mới tạo đột phá](https://tienphong.vn/huyen-ung-hoa-nhieu-cach-lam-moi-tao-dot-pha-post1706764.tpo) - 13:00 28/01/2025
+- 🦏 [Nhóm lừa đảo từng bước dụ dỗ phụ huynh chuyển tiền để con tham gia &#39;cuộc thi đạp xe cho trẻ&#39;](https://tienphong.vn/nhom-lua-dao-tung-buoc-du-do-phu-huynh-chuyen-tien-de-con-tham-gia-cuoc-thi-dap-xe-cho-tre-post1712942.tpo) - 12:57 28/01/2025
+- 🤩 [Hà Nội: 60 cảnh sát chữa cháy xưởng sửa chữa ô tô ở đường Nguyễn Văn Giáp](https://tienphong.vn/ha-noi-60-canh-sat-chua-chay-xuong-sua-chua-o-to-o-duong-nguyen-van-giap-post1712946.tpo) - 12:57 28/01/2025<!-- hoahoctro:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
