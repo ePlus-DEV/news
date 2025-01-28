@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [50.000 đồng một chậu mai xả hàng trưa 30 Tết](https://vnexpress.net/50-000-dong-mot-chau-mai-xa-hang-trua-30-tet-4843991.html) - 07:22 28/01/2025
+- ⛽️ [50.000 đồng một chậu mai xả hàng](https://vnexpress.net/50-000-dong-mot-chau-mai-xa-hang-4843991.html) - 07:22 28/01/2025
 - 🐲 [Ông Trump: Microsoft đang đàm phán mua TikTok](https://vnexpress.net/ong-trump-microsoft-dang-dam-phan-mua-tiktok-4843972.html) - 04:41 28/01/2025
 - 🔥 [Jensen Huang mất hơn 20 tỷ USD một ngày vì DeepSeek](https://vnexpress.net/jensen-huang-mat-hon-20-ty-usd-mot-ngay-vi-deepseek-4843931.html) - 03:58 28/01/2025
 - 🐵 [Vàng, chứng khoán Mỹ bị bán tháo](https://vnexpress.net/vang-chung-khoan-my-bi-ban-thao-4843926.html) - 01:47 28/01/2025
