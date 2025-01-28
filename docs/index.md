@@ -600,7 +600,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤓 [Video Selena Gomez khóc nức nở](https://tienphong.vn/video-selena-gomez-khoc-nuc-no-post1712999.tpo) - 20:08 28/01/2025
 - 🌁 [Bí thư Hà Nội: Thủ đô gương mẫu, đi đầu, cùng cả nước bước vào kỷ nguyên vươn mình của dân tộc](https://tienphong.vn/bi-thu-ha-noi-thu-do-guong-mau-di-dau-cung-ca-nuoc-buoc-vao-ky-nguyen-vuon-minh-cua-dan-toc-post1713031.tpo) - 19:53 28/01/2025
 - 🤩 [“Báu vật xanh” giữa lòng miền Tây](https://tienphong.vn/bau-vat-xanh-giua-long-mien-tay-post1713065.tpo) - 19:30 28/01/2025
-- 🫶 [Nô nức xuống phố đón giao thừa Ất Tỵ](https://tienphong.vn/no-nuc-xuong-pho-don-giao-thua-at-ty-post1712949.tpo) - 19:06 28/01/2025
+- 🫶 [Pháo hoa rực sáng đón năm mới Ất Tỵ an lành, thịnh vượng](https://tienphong.vn/phao-hoa-ruc-sang-don-nam-moi-at-ty-an-lanh-thinh-vuong-post1712949.tpo) - 19:06 28/01/2025
 - 🌁 [Những chuyến xe cuối cùng rời bến, đưa khách về đón Tết cùng gia đình](https://tienphong.vn/nhung-chuyen-xe-cuoi-cung-roi-ben-dua-khach-ve-don-tet-cung-gia-dinh-post1713016.tpo) - 19:06 28/01/2025
 - 🤭 [Hãng con của Toyota phải đền bù 1,6 tỷ USD vì gian lận khí thải](https://tienphong.vn/hang-con-cua-toyota-phai-den-bu-16-ty-usd-vi-gian-lan-khi-thai-post1710766.tpo) - 19:03 28/01/2025
 - 💪 [Nga, Ukraine không kích nhau dữ dội](https://tienphong.vn/nga-ukraine-khong-kich-nhau-du-doi-post1712862.tpo) - 18:37 28/01/2025
