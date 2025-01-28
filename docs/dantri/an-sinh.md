@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- dantri-an-sinh:START -->
 - 👺 [Nữ công nhân mừng vui vì &quot;có quà Tết để mang về cho mẹ&quot;](https://dantri.com.vn/an-sinh/nu-cong-nhan-mung-vui-vi-co-qua-tet-de-mang-ve-cho-me-20250127154150746.htm) - 02:34 28/01/2025
-- 👀 [Tháng kiếm hơn 10 triệu, công nhân &quot;thắt lưng buộc bụng&quot; lo toan Tết](https://dantri.com.vn/an-sinh/thang-kiem-hon-10-trieu-cong-nhan-that-lung-buoc-bung-lo-toan-tet-20250127160751637.htm) - 00:48 28/01/2025
+- 👀 [Tháng kiếm hơn 10 triệu, công nhân &quot;thắt lưng buộc bụng&quot; lo toan cho Tết](https://dantri.com.vn/an-sinh/thang-kiem-hon-10-trieu-cong-nhan-that-lung-buoc-bung-lo-toan-cho-tet-20250127160751637.htm) - 00:48 28/01/2025
 - 💡 [10 sự kiện nổi bật của ngành LĐ-TB&amp;XH TPHCM năm 2024](https://dantri.com.vn/an-sinh/10-su-kien-noi-bat-cua-nganh-ld-tbxh-tphcm-nam-2024-20250123181642443.htm) - 23:00 27/01/2025
 - 💄 [Nữ lao động quên 3 triệu đồng trên xe khách về quê ăn Tết và cái kết](https://dantri.com.vn/an-sinh/nu-lao-dong-quen-3-trieu-dong-tren-xe-khach-ve-que-an-tet-va-cai-ket-20250127172839415.htm) - 11:51 27/01/2025
 - 🧠 [Lời nguyện ước cuối cùng của chàng trai chết não hiến tạng cứu 5 người](https://dantri.com.vn/an-sinh/loi-nguyen-uoc-cuoi-cung-cua-chang-trai-chet-nao-hien-tang-cuu-5-nguoi-20250127130243038.htm) - 07:27 27/01/2025
