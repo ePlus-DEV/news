@@ -5,7 +5,7 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [Thông điệp chúc Tết Ất Tỵ của Chủ tịch nước Lương Cường](https://dantri.com.vn/xa-hoi/thong-diep-chuc-tet-at-ty-cua-chu-tich-nuoc-luong-cuong-20250128214353723.htm) - 17:06 28/01/2025
-- 👨‍🏫 [&quot;Táo&quot; Tự Long trực Tết, đón giao thừa tại cơ quan](https://dantri.com.vn/giai-tri/tao-tu-long-truc-tet-don-giao-thua-tai-co-quan-20250128231338222.htm) - 17:00 28/01/2025
+- 👨‍🏫 [&quot;Táo&quot; Tự Long trực Tết, đón Giao thừa tại cơ quan](https://dantri.com.vn/giai-tri/tao-tu-long-truc-tet-don-giao-thua-tai-co-quan-20250128231338222.htm) - 17:00 28/01/2025
 - 🌮 [Hàng nghìn người dân đổ về trung tâm TPHCM trước thời khắc giao thừa](https://dantri.com.vn/tet-2025/hang-nghin-nguoi-dan-do-ve-trung-tam-tphcm-truoc-thoi-khac-giao-thua-20250128214220174.htm) - 15:07 28/01/2025
 - 🕯 [Hàn Quốc: Máy bay chở 176 người bốc cháy](https://dantri.com.vn/the-gioi/han-quoc-may-bay-cho-176-nguoi-boc-chay-20250128214703666.htm) - 14:55 28/01/2025
 - 🪜 [Các nước châu Á rộn ràng chào đón năm mới Ất Tỵ 2025](https://dantri.com.vn/the-gioi/cac-nuoc-chau-a-ron-rang-chao-don-nam-moi-at-ty-2025-20250128215348801.htm) - 14:55 28/01/2025
