@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- dantri-xa-hoi:START -->
-- 🫣 [Người dân cả nước hân hoan, vui đón giao thừa Tết Ất Tỵ](https://dantri.com.vn/xa-hoi/nguoi-dan-ca-nuoc-han-hoan-vui-don-giao-thua-tet-at-ty-20250128134656093.htm) - 12:00 28/01/2025
+- 🫣 [Sát thời khắc giao thừa vẫn còn 500 chậu hoa Tết, người bán vội đại hạ giá](https://dantri.com.vn/xa-hoi/sat-thoi-khac-giao-thua-van-con-500-chau-hoa-tet-nguoi-ban-voi-dai-ha-gia-20250128134656093.htm) - 12:00 28/01/2025
 - 💼 [Nhìn lại công tác biên giới lãnh thổ năm 2024 và dự báo năm 2025](https://dantri.com.vn/xa-hoi/nhin-lai-cong-tac-bien-gioi-lanh-tho-nam-2024-va-du-bao-nam-2025-20250128162009701.htm) - 11:41 28/01/2025
 - 🎊 [Đất nhà nước bị người dân lấn chiếm, chuyển nhượng trái phép](https://dantri.com.vn/xa-hoi/dat-nha-nuoc-bi-nguoi-dan-lan-chiem-chuyen-nhuong-trai-phep-20250128170527081.htm) - 11:34 28/01/2025
 - 🙉 [Gần 1.900 tài xế có nồng độ cồn bị xử lý ngày 29 tháng Chạp](https://dantri.com.vn/xa-hoi/gan-1900-tai-xe-co-nong-do-con-bi-xu-ly-ngay-29-thang-chap-20250128182223565.htm) - 11:26 28/01/2025
