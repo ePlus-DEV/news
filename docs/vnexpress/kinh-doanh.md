@@ -4,9 +4,9 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Jensen Huang mất hơn 20 tỷ USD một ngày vì DeepSeek](https://vnexpress.net/jensen-huang-mat-hon-20-ty-usd-mot-ngay-vi-deepseek-4843931.html) - 03:58 28/01/2025
-- 🐲 [Vàng, chứng khoán Mỹ bị bán tháo](https://vnexpress.net/vang-chung-khoan-my-bi-ban-thao-4843926.html) - 01:47 28/01/2025
-- 🔥 [TS Lê Duy Bình: Kinh tế 2025 ở điểm xuất phát vững vàng](https://vnexpress.net/ts-le-duy-binh-kinh-te-2025-o-diem-xuat-phat-vung-vang-4842553.html) - 23:00 27/01/2025
+- ⛽️ [Ông Trump: Microsoft đang đàm phán mua TikTok](https://vnexpress.net/ong-trump-microsoft-dang-dam-phan-mua-tiktok-4843972.html) - 04:41 28/01/2025
+- 🐲 [Jensen Huang mất hơn 20 tỷ USD một ngày vì DeepSeek](https://vnexpress.net/jensen-huang-mat-hon-20-ty-usd-mot-ngay-vi-deepseek-4843931.html) - 03:58 28/01/2025
+- 🔥 [Vàng, chứng khoán Mỹ bị bán tháo](https://vnexpress.net/vang-chung-khoan-my-bi-ban-thao-4843926.html) - 01:47 28/01/2025
 - 🐵 [Sức mạnh &#39;bộ ba mới&#39; của xuất khẩu Trung Quốc](https://vnexpress.net/suc-manh-bo-ba-moi-cua-xuat-khau-trung-quoc-4842974.html) - 22:10 27/01/2025
 - 🦅 [Hoa cúc bảy màu &#39;cháy hàng&#39; dịp Tết](https://vnexpress.net/hoa-cuc-bay-mau-chay-hang-dip-tet-4843853.html) - 17:15 27/01/2025
 - 😺 [Dùng ruồi biến rác thành nhiên liệu](https://vnexpress.net/dung-ruoi-bien-rac-thanh-nhien-lieu-4843004.html) - 17:05 27/01/2025
