@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Người Hà Nội, Đà Nẵng, TP HCM đổ về trung tâm đón giao thừa](https://vnexpress.net/chao-xuan-at-ty-2025-4844050.html) - 13:00 28/01/2025
+- 🦒 [Người Hà Nội, TP HCM đổ về trung tâm đón Giao thừa](https://vnexpress.net/chao-xuan-at-ty-2025-4844050.html) - 13:00 28/01/2025
 - 🤓 [Cháy 7 căn nhà ở trung tâm TP HCM](https://vnexpress.net/chay-7-can-nha-o-trung-tam-tp-hcm-4844020.html) - 08:12 28/01/2025
 - ⚗️ [Trận địa pháo hoa sẵn sàng cho giao thừa ở Hà Nội](https://vnexpress.net/tran-dia-phao-hoa-san-sang-cho-giao-thua-o-ha-noi-4843979.html) - 06:27 28/01/2025
 - 🌊 [Đông nghịt người mua hoa giảm giá ngày 29 Tết ở TP HCM](https://vnexpress.net/dong-nghit-nguoi-mua-hoa-giam-gia-ngay-29-tet-o-tp-hcm-4843987.html) - 06:12 28/01/2025
