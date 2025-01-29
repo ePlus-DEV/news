@@ -316,56 +316,56 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Chiêm ngưỡng pháo hoa rực rỡ đón tân niên mừng Đảng - mừng Xuân 2025](https://www.sggp.org.vn/chiem-nguong-phao-hoa-ruc-ro-don-tan-nien-mung-dang-mung-xuan-2025-post779914.html) - 19:00 28/01/2025
-- 🌝 [Đêm giao thừa lặng lẽ cho Nguyễn Quốc Nguyện và Ngô Đình Nại](https://www.sggp.org.vn/dem-giao-thua-lang-le-cho-nguyen-quoc-nguyen-va-ngo-dinh-nai-post779900.html) - 17:37 28/01/2025
-- 💃 [Lãnh đạo TPHCM thăm, chúc tết các đơn vị trực đêm Giao thừa](https://www.sggp.org.vn/lanh-dao-tphcm-tham-chuc-tet-cac-don-vi-truc-dem-giao-thua-post779910.html) - 17:25 28/01/2025
-- 🧑‍💻 [Phó Chủ tịch Thường trực UBND TPHCM Dương Ngọc Hải thăm, động viên các hộ dân vụ cháy](https://www.sggp.org.vn/pho-chu-tich-thuong-truc-ubnd-tphcm-duong-ngoc-hai-tham-dong-vien-cac-ho-dan-vu-chay-post779913.html) - 17:20 28/01/2025
-- 🌊 [Chủ tịch nước Lương Cường chúc Tết Ất Tỵ 2025](https://www.sggp.org.vn/chu-tich-nuoc-luong-cuong-chuc-tet-at-ty-2025-post779902.html) - 17:15 28/01/2025
-- 🧑‍💻 [Bí thư Thành ủy TPHCM Nguyễn Văn Nên chúc tết Bộ đội Biên phòng TPHCM đêm Giao thừa](https://www.sggp.org.vn/bi-thu-thanh-uy-tphcm-nguyen-van-nen-chuc-tet-bo-doi-bien-phong-tphcm-dem-giao-thua-post779912.html) - 17:15 28/01/2025
-- ⛽️ [Tổng Bí thư Tô Lâm đề nghị TP Hà Nội tiếp tục gương mẫu đi đầu trong sắp xếp bộ máy](https://www.sggp.org.vn/tong-bi-thu-to-lam-de-nghi-tp-ha-noi-tiep-tuc-guong-mau-di-dau-trong-sap-xep-bo-may-post779907.html) - 17:09 28/01/2025
-- 😎 [Đường sắt chạy nhiều đoàn tàu phục vụ hành khách du xuân](https://www.sggp.org.vn/duong-sat-chay-nhieu-doan-tau-phuc-vu-hanh-khach-du-xuan-post779875.html) - 16:37 28/01/2025
-- 🌜 [Lãnh đạo TPHCM gõ cửa giao thừa đón mừng xuân mới với những cá nhân đặc biệt tiêu biểu](https://www.sggp.org.vn/lanh-dao-tphcm-go-cua-giao-thua-don-mung-xuan-moi-voi-nhung-ca-nhan-dac-biet-tieu-bieu-post779909.html) - 16:36 28/01/2025
-- 💻 [Thăm, chúc tết, động viên y bác sĩ, công nhân vệ sinh trực xuyên tết](https://www.sggp.org.vn/tham-chuc-tet-dong-vien-y-bac-si-cong-nhan-ve-sinh-truc-xuyen-tet-post779904.html) - 16:32 28/01/2025
-- 👍 [Sự thật cuối cùng về cơn ác mộng của Antony tại Manchester United](https://www.sggp.org.vn/su-that-cuoi-cung-ve-con-ac-mong-cua-antony-tai-manchester-united-post779890.html) - 16:29 28/01/2025
+- 🪜 [Năm câu chuyện đáng chú ý trong ngày thi đấu cuối cùng giai đoạn 1 Champions League](https://www.sggp.org.vn/nam-cau-chuyen-dang-chu-y-trong-ngay-thi-dau-cuoi-cung-giai-doan-1-champions-league-post779925.html) - 02:55 29/01/2025
+- 🌝 [Ancelotti: “Real Madrid vẫn chưa thể hiện hết khả năng”](https://www.sggp.org.vn/ancelotti-real-madrid-van-chua-the-hien-het-kha-nang-post779929.html) - 02:54 29/01/2025
+- 💃 [Khát vọng khẳng định vị thế của thể thao Việt Nam](https://www.sggp.org.vn/khat-vong-khang-dinh-vi-the-cua-the-thao-viet-nam-post779928.html) - 02:54 29/01/2025
+- 🧑‍💻 [Những tuyển thủ tuổi Tỵ được kỳ vọng của thể thao Việt Nam](https://www.sggp.org.vn/nhung-tuyen-thu-tuoi-ty-duoc-ky-vong-cua-the-thao-viet-nam-post779927.html) - 02:54 29/01/2025
+- 🌊 [Tim Merlier mở màn mùa giải 2025 với chiến thắng ở AlUla Tour](https://www.sggp.org.vn/tim-merlier-mo-man-mua-giai-2025-voi-chien-thang-o-alula-tour-post779924.html) - 02:53 29/01/2025
+- 🧑‍💻 [Lời hồi đáp sau nửa thế kỷ](https://www.sggp.org.vn/loi-hoi-dap-sau-nua-the-ky-post779901.html) - 02:01 29/01/2025
+- ⛽️ [Arsenal thắng kháng cáo thẻ đỏ của Myles Lewis-Skelly](https://www.sggp.org.vn/arsenal-thang-khang-cao-the-do-cua-myles-lewis-skelly-post779922.html) - 01:59 29/01/2025
+- 😎 [Man.City sẽ chấp nhận thử thách “trận cầu phải thắng” Brugge](https://www.sggp.org.vn/mancity-se-chap-nhan-thu-thach-tran-cau-phai-thang-brugge-post779920.html) - 01:35 29/01/2025
+- 🌜 [“Ngoại giao cây tre Việt Nam” trong Kỷ nguyên mới của dân tộc](https://www.sggp.org.vn/ngoai-giao-cay-tre-viet-nam-trong-ky-nguyen-moi-cua-dan-toc-post778851.html) - 01:23 29/01/2025
+- 💻 [Điểm báo xuân Ất Tỵ mùng 1 tết](https://www.sggp.org.vn/diem-bao-xuan-at-ty-mung-1-tet-post779857.html) - 01:00 29/01/2025
+- 👍 [Thể thao TPHCM: Hệ sinh thái sự kiện đa sắc màu](https://www.sggp.org.vn/the-thao-tphcm-he-sinh-thai-su-kien-da-sac-mau-post779374.html) - 00:03 29/01/2025
+- 🦆 [Nga muốn tiếp tục cung cấp khí đốt cho châu Âu](https://www.sggp.org.vn/nga-muon-tiep-tuc-cung-cap-khi-dot-cho-chau-au-post779908.html) - 00:00 29/01/2025
+- 🦩 [Lời chúc của các nghệ sĩ nhân dịp Tết Ất Tỵ 2025](https://www.sggp.org.vn/loi-chuc-cua-cac-nghe-si-nhan-dip-tet-at-ty-2025-post779911.html) - 00:00 29/01/2025
+- 🥰 [PSG muốn phá dớp khi quyết đấu Stuttgart](https://www.sggp.org.vn/psg-muon-pha-dop-khi-quyet-dau-stuttgart-post779889.html) - 23:57 28/01/2025
+- 🎬 [Hà Nội rực rỡ chào đón khoảnh khắc chuyển giao năm mới](https://www.sggp.org.vn/ha-noi-ruc-ro-chao-don-khoanh-khac-chuyen-giao-nam-moi-post779916.html) - 23:51 28/01/2025
+- 🦩 [Rắn trong tâm thức người Việt](https://www.sggp.org.vn/ran-trong-tam-thuc-nguoi-viet-post779235.html) - 23:44 28/01/2025
+- 🌮 [Podcast: Rắn trong tâm thức người Việt](https://www.sggp.org.vn/podcast-ran-trong-tam-thuc-nguoi-viet-post779572.html) - 23:44 28/01/2025
+- 👍 [Ẩm thực Việt thăng hoa ở trời Âu](https://www.sggp.org.vn/am-thuc-viet-thang-hoa-o-troi-au-post779243.html) - 23:43 28/01/2025
+- 🦒 [Về ngôi nhà Bác từng ở Udon*](https://www.sggp.org.vn/ve-ngoi-nha-bac-tung-o-udon-post779241.html) - 23:43 28/01/2025
+- 🤡 [Chiêm ngưỡng pháo hoa rực rỡ đón tân niên mừng Đảng - mừng Xuân 2025](https://www.sggp.org.vn/chiem-nguong-phao-hoa-ruc-ro-don-tan-nien-mung-dang-mung-xuan-2025-post779914.html) - 19:00 28/01/2025
+- 🐎 [Juventus liên lạc với Xavi dù vẫn bảo đảm tương lai cho Thiago Motta](https://www.sggp.org.vn/juventus-lien-lac-voi-xavi-du-van-bao-dam-tuong-lai-cho-thiago-motta-post779917.html) - 18:47 28/01/2025
+- 🦆 [Đêm giao thừa lặng lẽ cho Nguyễn Quốc Nguyện và Ngô Đình Nại](https://www.sggp.org.vn/dem-giao-thua-lang-le-cho-nguyen-quoc-nguyen-va-ngo-dinh-nai-post779900.html) - 17:37 28/01/2025
+- 🦅 [Lãnh đạo TPHCM thăm, chúc tết các đơn vị trực đêm Giao thừa](https://www.sggp.org.vn/lanh-dao-tphcm-tham-chuc-tet-cac-don-vi-truc-dem-giao-thua-post779910.html) - 17:25 28/01/2025
+- 🫣 [Phó Chủ tịch Thường trực UBND TPHCM Dương Ngọc Hải thăm, động viên các hộ dân vụ cháy](https://www.sggp.org.vn/pho-chu-tich-thuong-truc-ubnd-tphcm-duong-ngoc-hai-tham-dong-vien-cac-ho-dan-vu-chay-post779913.html) - 17:20 28/01/2025
+- 🎭 [Chủ tịch nước Lương Cường chúc Tết Ất Tỵ 2025](https://www.sggp.org.vn/chu-tich-nuoc-luong-cuong-chuc-tet-at-ty-2025-post779902.html) - 17:15 28/01/2025
+- 🫶 [Bí thư Thành ủy TPHCM Nguyễn Văn Nên chúc tết Bộ đội Biên phòng TPHCM đêm Giao thừa](https://www.sggp.org.vn/bi-thu-thanh-uy-tphcm-nguyen-van-nen-chuc-tet-bo-doi-bien-phong-tphcm-dem-giao-thua-post779912.html) - 17:15 28/01/2025
+- 🎓 [Tổng Bí thư Tô Lâm đề nghị TP Hà Nội tiếp tục gương mẫu đi đầu trong sắp xếp bộ máy](https://www.sggp.org.vn/tong-bi-thu-to-lam-de-nghi-tp-ha-noi-tiep-tuc-guong-mau-di-dau-trong-sap-xep-bo-may-post779907.html) - 17:09 28/01/2025
+- 🤡 [Đường sắt chạy nhiều đoàn tàu phục vụ hành khách du xuân](https://www.sggp.org.vn/duong-sat-chay-nhieu-doan-tau-phuc-vu-hanh-khach-du-xuan-post779875.html) - 16:37 28/01/2025
+- 🦅 [Lãnh đạo TPHCM gõ cửa giao thừa đón mừng xuân mới với những cá nhân đặc biệt tiêu biểu](https://www.sggp.org.vn/lanh-dao-tphcm-go-cua-giao-thua-don-mung-xuan-moi-voi-nhung-ca-nhan-dac-biet-tieu-bieu-post779909.html) - 16:36 28/01/2025
+- 🧑‍🏫 [Thăm, chúc tết, động viên y bác sĩ, công nhân vệ sinh trực xuyên tết](https://www.sggp.org.vn/tham-chuc-tet-dong-vien-y-bac-si-cong-nhan-ve-sinh-truc-xuyen-tet-post779904.html) - 16:32 28/01/2025
+- 🕴 [Sự thật cuối cùng về cơn ác mộng của Antony tại Manchester United](https://www.sggp.org.vn/su-that-cuoi-cung-ve-con-ac-mong-cua-antony-tai-manchester-united-post779890.html) - 16:29 28/01/2025
 - 🦆 [Du xuân Ất Tỵ cùng Galaxy AI Sài Gòn Terminal](https://www.sggp.org.vn/du-xuan-at-ty-cung-galaxy-ai-sai-gon-terminal-post779896.html) - 16:18 28/01/2025
-- 🦩 [Đêm Giao thừa, Cảng Cát Lái xếp dỡ gần 140.000 tấn hàng](https://www.sggp.org.vn/dem-giao-thua-cang-cat-lai-xep-do-gan-140000-tan-hang-post779903.html) - 16:07 28/01/2025
-- 🥰 [Lãnh đạo TPHCM thăm, chúc tết Bộ Tư lệnh TPHCM](https://www.sggp.org.vn/lanh-dao-tphcm-tham-chuc-tet-bo-tu-lenh-tphcm-post779898.html) - 15:55 28/01/2025
-- 🎬 [Phó Bí thư Thường trực Thành ủy TPHCM Nguyễn Thanh Nghị thăm, động viên các đơn vị trực sẵn sàng chiến đấu dịp tết](https://www.sggp.org.vn/pho-bi-thu-thuong-truc-thanh-uy-tphcm-nguyen-thanh-nghi-tham-dong-vien-cac-don-vi-truc-san-sang-chien-dau-dip-tet-post779877.html) - 15:42 28/01/2025
-- 🦩 [Bí thư Thành ủy TPHCM Nguyễn Văn Nên thăm, động viên Công an TPHCM đêm Giao thừa](https://www.sggp.org.vn/bi-thu-thanh-uy-tphcm-nguyen-van-nen-tham-dong-vien-cong-an-tphcm-dem-giao-thua-post779899.html) - 15:37 28/01/2025
-- 🌮 [Xuân biên cương ấm tình quân, dân](https://www.sggp.org.vn/xuan-bien-cuong-am-tinh-quan-dan-post779893.html) - 15:24 28/01/2025
-- 👍 [TP Vũng Tàu: Nháo nhác vì cháy nhà tối 29 Tết](https://www.sggp.org.vn/tp-vung-tau-nhao-nhac-vi-chay-nha-toi-29-tet-post779895.html) - 14:47 28/01/2025
-- 🦒 [Nhiều ca nghi mắc sởi và sốt xuất huyết trong những ngày đầu nghỉ tết](https://www.sggp.org.vn/nhieu-ca-nghi-mac-soi-va-sot-xuat-huyet-trong-nhung-ngay-dau-nghi-tet-post779879.html) - 14:44 28/01/2025
-- 🤡 [Saudi Pro và bản siêu hợp đồng cho Vinicius: 1 tỷ euro cho 5 năm](https://www.sggp.org.vn/saudi-pro-va-ban-sieu-hop-dong-cho-vinicius-1-ty-euro-cho-5-nam-post779897.html) - 14:31 28/01/2025
-- 🐎 [Thăm, động viên các hộ dân trong vụ cháy ngày 29 Tết](https://www.sggp.org.vn/tham-dong-vien-cac-ho-dan-trong-vu-chay-ngay-29-tet-post779883.html) - 14:24 28/01/2025
-- 🦆 [Người dân TPHCM nô nức chờ đón giao thừa Tết Nguyên Đán Ất Tỵ 2025](https://www.sggp.org.vn/nguoi-dan-tphcm-no-nuc-cho-don-giao-thua-tet-nguyen-dan-at-ty-2025-post779886.html) - 14:21 28/01/2025
-- 🦅 [Trợ lý AI DeepSeek “gây sốc” cộng đồng công nghệ thế giới](https://www.sggp.org.vn/tro-ly-ai-deepseek-gay-soc-cong-dong-cong-nghe-the-gioi-post779891.html) - 14:20 28/01/2025
-- 🫣 [Lãnh đạo TPHCM thăm, chúc tết Bệnh viện Nhân dân 115](https://www.sggp.org.vn/lanh-dao-tphcm-tham-chuc-tet-benh-vien-nhan-dan-115-post779887.html) - 14:16 28/01/2025
-- 🎭 [Hà Nội FC thay HLV trưởng trước thềm giao thừa](https://www.sggp.org.vn/ha-noi-fc-thay-hlv-truong-truoc-them-giao-thua-post779888.html) - 13:50 28/01/2025
-- 🫶 [Chủ tịch UBND TP Đà Nẵng thăm, chúc tết các lực lượng làm nhiệm vụ đêm giao thừa](https://www.sggp.org.vn/chu-tich-ubnd-tp-da-nang-tham-chuc-tet-cac-luc-luong-lam-nhiem-vu-dem-giao-thua-post779885.html) - 13:37 28/01/2025
-- 🎓 [Lãnh đạo quận 1 thăm, động viên các hộ dân trong vụ cháy ngày 29 Tết](https://www.sggp.org.vn/lanh-dao-quan-1-tham-dong-vien-cac-ho-dan-trong-vu-chay-ngay-29-tet-post779884.html) - 13:26 28/01/2025
-- 🤡 [Quen qua hội “Vỡ nợ làm liều” trên mạng rồi đi cướp](https://www.sggp.org.vn/quen-qua-hoi-vo-no-lam-lieu-tren-mang-roi-di-cuop-post779882.html) - 13:23 28/01/2025
-- 🦅 [Khám phá Bảo tàng Rắn lớn nhất Việt Nam](https://www.sggp.org.vn/kham-pha-bao-tang-ran-lon-nhat-viet-nam-post779864.html) - 13:23 28/01/2025
-- 🧑‍🏫 [Ứng viên Quả bóng vàng futsal Nguyễn Mạnh Dũng: Lá chắn thép hào hoa](https://www.sggp.org.vn/ung-vien-qua-bong-vang-futsal-nguyen-manh-dung-la-chan-thep-hao-hoa-post779873.html) - 13:01 28/01/2025
-- 🕴 [Một năm sau khi Jurgen Klopp tuyên bố ra đi, Liverpool đã ứng phó thế nào?](https://www.sggp.org.vn/mot-nam-sau-khi-jurgen-klopp-tuyen-bo-ra-di-liverpool-da-ung-pho-the-nao-post779874.html) - 12:54 28/01/2025
-- 🦆 [Lãnh đạo TPHCM thăm và chúc tết nhạc sĩ Lư Nhất Vũ và NSND Kim Cương](https://www.sggp.org.vn/lanh-dao-tphcm-tham-va-chuc-tet-nhac-si-lu-nhat-vu-va-nsnd-kim-cuong-post779878.html) - 12:23 28/01/2025
-- 🎃 [Quảng Nam có hai anh em sinh đôi cùng đoạt giải Nhất tại Kỳ thi Học sinh giỏi quốc gia](https://www.sggp.org.vn/quang-nam-co-hai-anh-em-sinh-doi-cung-doat-giai-nhat-tai-ky-thi-hoc-sinh-gioi-quoc-gia-post779876.html) - 12:12 28/01/2025
-- 🌮 [Chủ tịch UBND TPHCM Phan Văn Mãi thăm, chúc tết tại Bệnh viện Chợ Rẫy](https://www.sggp.org.vn/chu-tich-ubnd-tphcm-phan-van-mai-tham-chuc-tet-tai-benh-vien-cho-ray-post779880.html) - 12:05 28/01/2025
-- 🥰 [Lãnh đạo TPHCM thăm, chúc tết Báo Sài Gòn Giải Phóng](https://www.sggp.org.vn/lanh-dao-tphcm-tham-chuc-tet-bao-sai-gon-giai-phong-post779881.html) - 11:57 28/01/2025
-- 🕯 [EU bí mật thảo luận về khai thác nguyên liệu thô với Greenland](https://www.sggp.org.vn/eu-bi-mat-thao-luan-ve-khai-thac-nguyen-lieu-tho-voi-greenland-post779870.html) - 10:49 28/01/2025
-- 🙉 [Morocco và Tây Ban Nha khởi động dự án đường hầm xuyên biển](https://www.sggp.org.vn/morocco-va-tay-ban-nha-khoi-dong-du-an-duong-ham-xuyen-bien-post779867.html) - 10:24 28/01/2025
-- 💡 [Lãnh đạo quận 1 thăm, động viên các hộ dân trong vụ cháy ngày 29 Tết](https://www.sggp.org.vn/lanh-dao-quan-1-tham-dong-vien-cac-ho-dan-trong-vu-chay-ngay-29-tet-post779866.html) - 10:23 28/01/2025
-- 💫 [Cựu tuyển thủ Bỉ bị bắt trong cuộc điều tra buôn bán cocaine](https://www.sggp.org.vn/cuu-tuyen-thu-bi-bi-bat-trong-cuoc-dieu-tra-buon-ban-cocaine-post779872.html) - 10:18 28/01/2025
-- 🧑‍💻 [Man.City ký hợp đồng với hậu vệ thứ 3, chi tiêu vượt trội trong tháng Giêng](https://www.sggp.org.vn/mancity-ky-hop-dong-voi-hau-ve-thu-3-chi-tieu-vuot-troi-trong-thang-gieng-post779868.html) - 10:01 28/01/2025
-- 🎊 [Cháy nhà dân trong khu dân cư quận 1](https://www.sggp.org.vn/chay-nha-dan-trong-khu-dan-cu-quan-1-post779859.html) - 09:40 28/01/2025
-- 🤖 [Nhìn lại 2019, khi Jannik Sinner 17 tuổi đã có chiến thắng ATP đầu tiên](https://www.sggp.org.vn/nhin-lai-2019-khi-jannik-sinner-17-tuoi-da-co-chien-thang-atp-dau-tien-post779865.html) - 09:37 28/01/2025
-- 💫 [Bốc thăm Cúp bóng đá các quốc gia châu Phi](https://www.sggp.org.vn/boc-tham-cup-bong-da-cac-quoc-gia-chau-phi-post779863.html) - 09:28 28/01/2025
-- 👨‍🏫 [Kvaratskhelia không muốn bị so sánh với Mbappe](https://www.sggp.org.vn/kvaratskhelia-khong-muon-bi-so-sanh-voi-mbappe-post779847.html) - 09:03 28/01/2025
-- 🧰 [Tay vợt Nguyễn Thùy Linh tăng bậc trên xếp hạng thế giới](https://www.sggp.org.vn/tay-vot-nguyen-thuy-linh-tang-bac-tren-xep-hang-the-gioi-post779838.html) - 09:03 28/01/2025
-- 🥰 [Cua rơ Nguyễn Tuấn Vũ: Kỳ tập luyện xuyên Tết đáng nhớ](https://www.sggp.org.vn/cua-ro-nguyen-tuan-vu-ky-tap-luyen-xuyen-tet-dang-nho-post779836.html) - 09:02 28/01/2025
-- 💼 [Việt Nam không là chủ nhà giải Cúp các câu lạc bộ nữ châu Á 2025?](https://www.sggp.org.vn/viet-nam-khong-la-chu-nha-giai-cup-cac-cau-lac-bo-nu-chau-a-2025-post779833.html) - 09:02 28/01/2025
-- 🤗 [6 điểm nhấn quan trọng đáng nhớ của thể thao Việt Nam năm qua](https://www.sggp.org.vn/6-diem-nhan-quan-trong-dang-nho-cua-the-thao-viet-nam-nam-qua-post779832.html) - 09:02 28/01/2025
-- 🦩 [Wout van Aert phải bồi thường 662.000 euro cho đội đua cũ](https://www.sggp.org.vn/wout-van-aert-phai-boi-thuong-662000-euro-cho-doi-dua-cu-post779825.html) - 09:01 28/01/2025
-- 🫶 [2 ngày giáp tết, xảy ra 9 trận động đất ở Kon Tum và Quảng Nam](https://www.sggp.org.vn/2-ngay-giap-tet-xay-ra-9-tran-dong-dat-o-kon-tum-va-quang-nam-post779852.html) - 09:00 28/01/2025<!-- sggp:END -->
+- 🎃 [Đêm Giao thừa, Cảng Cát Lái xếp dỡ gần 140.000 tấn hàng](https://www.sggp.org.vn/dem-giao-thua-cang-cat-lai-xep-do-gan-140000-tan-hang-post779903.html) - 16:07 28/01/2025
+- 🌮 [Lãnh đạo TPHCM thăm, chúc tết Bộ Tư lệnh TPHCM](https://www.sggp.org.vn/lanh-dao-tphcm-tham-chuc-tet-bo-tu-lenh-tphcm-post779898.html) - 15:55 28/01/2025
+- 🥰 [Phó Bí thư Thường trực Thành ủy TPHCM Nguyễn Thanh Nghị thăm, động viên các đơn vị trực sẵn sàng chiến đấu dịp tết](https://www.sggp.org.vn/pho-bi-thu-thuong-truc-thanh-uy-tphcm-nguyen-thanh-nghi-tham-dong-vien-cac-don-vi-truc-san-sang-chien-dau-dip-tet-post779877.html) - 15:42 28/01/2025
+- 🕯 [Bí thư Thành ủy TPHCM Nguyễn Văn Nên thăm, động viên Công an TPHCM đêm Giao thừa](https://www.sggp.org.vn/bi-thu-thanh-uy-tphcm-nguyen-van-nen-tham-dong-vien-cong-an-tphcm-dem-giao-thua-post779899.html) - 15:37 28/01/2025
+- 🙉 [Xuân biên cương ấm tình quân, dân](https://www.sggp.org.vn/xuan-bien-cuong-am-tinh-quan-dan-post779893.html) - 15:24 28/01/2025
+- 💡 [TP Vũng Tàu: Nháo nhác vì cháy nhà tối 29 Tết](https://www.sggp.org.vn/tp-vung-tau-nhao-nhac-vi-chay-nha-toi-29-tet-post779895.html) - 14:47 28/01/2025
+- 💫 [Nhiều ca nghi mắc sởi và sốt xuất huyết trong những ngày đầu nghỉ tết](https://www.sggp.org.vn/nhieu-ca-nghi-mac-soi-va-sot-xuat-huyet-trong-nhung-ngay-dau-nghi-tet-post779879.html) - 14:44 28/01/2025
+- 🧑‍💻 [Saudi Pro và bản siêu hợp đồng cho Vinicius: 1 tỷ euro cho 5 năm](https://www.sggp.org.vn/saudi-pro-va-ban-sieu-hop-dong-cho-vinicius-1-ty-euro-cho-5-nam-post779897.html) - 14:31 28/01/2025
+- 🎊 [Thăm, động viên các hộ dân trong vụ cháy ngày 29 Tết](https://www.sggp.org.vn/tham-dong-vien-cac-ho-dan-trong-vu-chay-ngay-29-tet-post779883.html) - 14:24 28/01/2025
+- 🤖 [Người dân TPHCM nô nức chờ đón giao thừa Tết Nguyên Đán Ất Tỵ 2025](https://www.sggp.org.vn/nguoi-dan-tphcm-no-nuc-cho-don-giao-thua-tet-nguyen-dan-at-ty-2025-post779886.html) - 14:21 28/01/2025
+- 💫 [Trợ lý AI DeepSeek “gây sốc” cộng đồng công nghệ thế giới](https://www.sggp.org.vn/tro-ly-ai-deepseek-gay-soc-cong-dong-cong-nghe-the-gioi-post779891.html) - 14:20 28/01/2025
+- 👨‍🏫 [Lãnh đạo TPHCM thăm, chúc tết Bệnh viện Nhân dân 115](https://www.sggp.org.vn/lanh-dao-tphcm-tham-chuc-tet-benh-vien-nhan-dan-115-post779887.html) - 14:16 28/01/2025
+- 🧰 [Hà Nội FC thay HLV trưởng trước thềm giao thừa](https://www.sggp.org.vn/ha-noi-fc-thay-hlv-truong-truoc-them-giao-thua-post779888.html) - 13:50 28/01/2025
+- 🥰 [Chủ tịch UBND TP Đà Nẵng thăm, chúc tết các lực lượng làm nhiệm vụ đêm giao thừa](https://www.sggp.org.vn/chu-tich-ubnd-tp-da-nang-tham-chuc-tet-cac-luc-luong-lam-nhiem-vu-dem-giao-thua-post779885.html) - 13:37 28/01/2025
+- 💼 [Lãnh đạo quận 1 thăm, động viên các hộ dân trong vụ cháy ngày 29 Tết](https://www.sggp.org.vn/lanh-dao-quan-1-tham-dong-vien-cac-ho-dan-trong-vu-chay-ngay-29-tet-post779884.html) - 13:26 28/01/2025
+- 🤗 [Quen qua hội “Vỡ nợ làm liều” trên mạng rồi đi cướp](https://www.sggp.org.vn/quen-qua-hoi-vo-no-lam-lieu-tren-mang-roi-di-cuop-post779882.html) - 13:23 28/01/2025
+- 🦩 [Khám phá Bảo tàng Rắn lớn nhất Việt Nam](https://www.sggp.org.vn/kham-pha-bao-tang-ran-lon-nhat-viet-nam-post779864.html) - 13:23 28/01/2025
+- 🫶 [Ứng viên Quả bóng vàng futsal Nguyễn Mạnh Dũng: Lá chắn thép hào hoa](https://www.sggp.org.vn/ung-vien-qua-bong-vang-futsal-nguyen-manh-dung-la-chan-thep-hao-hoa-post779873.html) - 13:01 28/01/2025<!-- sggp:END -->
 
 ## Báo VTC
 <!-- vtc:START -->
