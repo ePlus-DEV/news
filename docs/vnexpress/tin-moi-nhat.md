@@ -20,7 +20,7 @@ sidebar_position: 9
 - 😺 [Morata quay lại với vợ sau 5 tháng chia tay](https://vnexpress.net/morata-quay-lai-voi-vo-sau-5-thang-chia-tay-4844129.html) - 01:18 29/01/2025
 - 🐘 [Táo quân 2025 nêu thông điệp &#39;tinh gọn, sáp nhập&#39;](https://vnexpress.net/tao-quan-2025-neu-thong-diep-tinh-gon-sap-nhap-4844061.html) - 01:16 29/01/2025
 - 🌁 [LĐBĐ Anh nhận sai về thẻ đỏ của hậu vệ Arsenal](https://vnexpress.net/ldbd-anh-nhan-sai-ve-the-do-cua-hau-ve-arsenal-4844140.html) - 01:15 29/01/2025
-- 🐲 [Giẫm đạp trong lễ tắm tập thể lớn nhất thế giới, ít nhất 38 người chết](https://vnexpress.net/giam-dap-trong-le-tam-tap-the-lon-nhat-the-gioi-it-nhat-38-nguoi-chet-4844145.html) - 01:15 29/01/2025
+- 🐲 [Giẫm đạp trong lễ tắm tập thể lớn nhất thế giới, hàng chục người thiệt mạng](https://vnexpress.net/giam-dap-trong-le-tam-tap-the-lon-nhat-the-gioi-hang-chuc-nguoi-thiet-mang-4844145.html) - 01:15 29/01/2025
 - 🤓 [Ông Kim Jong-un muốn Triều Tiên tăng cường năng lực hạt nhân](https://vnexpress.net/ong-kim-jong-un-muon-trieu-tien-tang-cuong-nang-luc-hat-nhan-4844135.html) - 01:00 29/01/2025
 - 💪 [DeepSeek ra mô hình AI tạo ảnh &#39;tốt hơn của OpenAI&#39;](https://vnexpress.net/deepseek-ra-mo-hinh-ai-tao-anh-tot-hon-cua-openai-4844121.html) - 01:00 29/01/2025
 - 🎓 [Tìm bạn gái ổn định công việc, vui vẻ, hiểu chuyện](https://vnexpress.net/tim-ban-gai-on-dinh-cong-viec-vui-ve-hieu-chuyen-4844096.html) - 01:00 29/01/2025
