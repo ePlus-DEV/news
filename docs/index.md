@@ -335,7 +335,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤡 [&quot;Gánh&quot; đều 2 vai](https://www.sggp.org.vn/ganh-deu-2-vai-post779434.html) - 10:46 29/01/2025
 - 🐎 [Dấn thân vì cộng đồng: Mảnh ghép nhỏ trong cuộc sống muôn màu](https://www.sggp.org.vn/dan-than-vi-cong-dong-manh-ghep-nho-trong-cuoc-song-muon-mau-post779416.html) - 10:46 29/01/2025
 - 🦆 [Huỳnh Như mặc áo bà ba, hát vè chúc Tết người hâm mộ](https://www.sggp.org.vn/huynh-nhu-mac-ao-ba-ba-hat-ve-chuc-tet-nguoi-ham-mo-post779938.html) - 10:30 29/01/2025
-- 🦅 [Đầu năm gặp gỡ nghệ sĩ tuổi rắn, nghe ước vọng mùa xuân](https://www.sggp.org.vn/dau-nam-gap-go-nghe-si-tuoi-ran-nghe-uoc-vong-mua-xuan-post779952.html) - 10:22 29/01/2025
+- 🦅 [Đầu năm gặp gỡ nghệ sĩ tuổi Tỵ, nghe ước vọng mùa xuân](https://www.sggp.org.vn/dau-nam-gap-go-nghe-si-tuoi-ty-nghe-uoc-vong-mua-xuan-post779952.html) - 10:22 29/01/2025
 - 🫣 [Nét đẹp lễ chùa đầu năm ở ĐBSCL](https://www.sggp.org.vn/net-dep-le-chua-dau-nam-o-dbscl-post779957.html) - 10:16 29/01/2025
 - 🎭 [Chủ tịch nước Lương Cường dâng hương tưởng niệm Chủ tịch Hồ Chí Minh](https://www.sggp.org.vn/chu-tich-nuoc-luong-cuong-dang-huong-tuong-niem-chu-tich-ho-chi-minh-post779947.html) - 10:03 29/01/2025
 - 🫶 [Công ty Cổ phần Nước giải khát Yến sào Khánh Hòa đẩy mạnh các hoạt động an sinh xã hội nhân dịp Tết Ất Tỵ 2025](https://www.sggp.org.vn/cong-ty-co-phan-nuoc-giai-khat-yen-sao-khanh-hoa-day-manh-cac-hoat-dong-an-sinh-xa-hoi-nhan-dip-tet-at-ty-2025-post779807.html) - 09:44 29/01/2025
