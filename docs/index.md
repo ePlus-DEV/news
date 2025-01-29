@@ -599,7 +599,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤓 [TP. Huế: Xe ô tô điện rơi xuống sông ngày mùng Một Tết](https://tienphong.vn/tp-hue-xe-o-to-dien-roi-xuong-song-ngay-mung-mot-tet-post1713213.tpo) - 18:54 29/01/2025
 - 🌁 [Góc khuất được phơi bày](https://tienphong.vn/goc-khuat-duoc-phoi-bay-post1713082.tpo) - 18:51 29/01/2025
 - 🤩 [Hàng nghìn người chiêm bái Đền Ông Hoàng Mười ngày Mùng 1 Tết](https://tienphong.vn/hang-nghin-nguoi-chiem-bai-den-ong-hoang-muoi-ngay-mung-1-tet-post1713177.tpo) - 18:38 29/01/2025
-- 🫶 [Toàn quốc, xảy ra 56 vụ tai nạn giao thông trong ngày Mồng một Tết](https://tienphong.vn/toan-quoc-xay-ra-56-vu-tai-nan-giao-thong-trong-ngay-mong-mot-tet-post1713207.tpo) - 18:37 29/01/2025
+- 🫶 [Toàn quốc xảy ra 56 vụ tai nạn giao thông trong ngày Mồng một Tết](https://tienphong.vn/toan-quoc-xay-ra-56-vu-tai-nan-giao-thong-trong-ngay-mong-mot-tet-post1713207.tpo) - 18:37 29/01/2025
 - 🌁 [Hà Nội: Nhiều tài xế bị phạt vì &#39;cốc bia chúc Tết&#39;](https://tienphong.vn/ha-noi-nhieu-tai-xe-bi-phat-vi-coc-bia-chuc-tet-post1713204.tpo) - 18:32 29/01/2025
 - 🤭 [Hoa hậu Mùng 1 Tết: Thùy Tiên đón Giao thừa cùng bố, Phương Nga chụp ảnh ngoài chuồng gà](https://tienphong.vn/hoa-hau-mung-1-tet-thuy-tien-don-giao-thua-cung-bo-phuong-nga-chup-anh-ngoai-chuong-ga-post1713201.tpo) - 18:30 29/01/2025
 - 💪 [Alibaba vội vã ra mắt ‘bom tấn’ sau sự trỗi dậy thần tốc của DeepSeek](https://tienphong.vn/alibaba-voi-va-ra-mat-bom-tan-sau-su-troi-day-than-toc-cua-deepseek-post1713206.tpo) - 18:11 29/01/2025
