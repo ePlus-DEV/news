@@ -249,66 +249,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Cháy máy bay ở Hàn Quốc: Hé lộ nghi ngờ đầu tiên, hành khách chỉ trích phi hành đoàn](https://nld.com.vn/chay-may-bay-o-han-quoc-he-lo-nghi-ngo-dau-tien-hanh-khach-chi-trich-phi-hanh-doan-196250129171800592.htm) - 10:34 29/01/2025
-- 😺 [Đà Nẵng: Chùa Linh Ứng quá tải trong ngày đầu năm mới](https://nld.com.vn/da-nang-chua-linh-ung-qua-tai-trong-ngay-dau-nam-moi-196250129171057986.htm) - 10:25 29/01/2025
-- 👍 [Khách bay qua Tân Sơn Nhất 4 ngày trước Tết tăng bao nhiêu?](https://nld.com.vn/khach-bay-qua-tan-son-nhat-4-ngay-truoc-tet-tang-bao-nhieu-196250129172059091.htm) - 10:23 29/01/2025
-- 🥷 [Tai nạn giao thông ngày mùng 1 Tết Ất Tỵ làm 17 người tử vong](https://nld.com.vn/tai-nan-giao-thong-ngay-mung-1-tet-at-ty-lam-17-nguoi-tu-vong-196250129154652549.htm) - 10:23 29/01/2025
-- 🤔 [Mùng 1 Tết, sân bay Tân Sơn Nhất vẫn đón lượng khách &quot;đông không tưởng&quot;](https://nld.com.vn/mung-1-tet-san-bay-tan-son-nhat-van-don-luong-khach-dong-khong-tuong-196250129171234981.htm) - 10:22 29/01/2025
-- 🌈 [Du khách nườm nượp trải nghiệm Tết trong Hoàng cung Huế](https://nld.com.vn/du-khach-nuom-nuop-trai-nghiem-tet-trong-hoang-cung-hue-196250129165806088.htm) - 10:12 29/01/2025
-- 🔥 [Bắt trăn khổng lồ bằng tay, 8 người khiên ra khỏi rừng](https://nld.com.vn/bat-tran-khong-lo-bang-tay-8-nguoi-khien-ra-khoi-rung-196250129163650367.htm) - 09:57 29/01/2025
-- 🧰 [Mùng 1 Tết, khách du lịch ồ ạt khởi hành du xuân trong và ngoài nước](https://nld.com.vn/mung-1-tet-khach-du-lich-o-at-khoi-hanh-du-xuan-trong-va-ngoai-nuoc-196250129163818585.htm) - 09:54 29/01/2025
-- 🤗 [Đầu năm mua muối](https://nld.com.vn/dau-nam-mua-muoi-196250129100400533.htm) - 09:53 29/01/2025
-- 🦅 [Nét đẹp ngày mùng 1 Tết](https://nld.com.vn/net-dep-ngay-mung-1-tet-196250129154353078.htm) - 09:20 29/01/2025
-- 🤩 [Thủ tướng Slovakia căng thẳng với tổng thống Ukraine](https://nld.com.vn/thu-tuong-slovakia-cang-thang-voi-tong-thong-ukraine-196250129152200739.htm) - 09:17 29/01/2025
-- 🎭 [VIDEO: Độc đáo đường hoa nghệ thuật ở Cần Thơ](https://nld.com.vn/video-doc-dao-duong-hoa-nghe-thuat-o-can-tho-196250129155948795.htm) - 09:10 29/01/2025
-- 💄 [Bình Định, Bình Thuận lì xì du khách “xông đất” đầu năm](https://nld.com.vn/binh-dinh-to-chuc-le-don-cac-du-khach-xong-dat-bang-tau-hoa-196250129155338991.htm) - 09:09 29/01/2025
-- 🎊 [&quot;Quả ngọt&quot; từ Nghị quyết 98](https://nld.com.vn/qua-ngot-tu-nghi-quyet-98-196250129150826513.htm) - 08:40 29/01/2025
-- 🎡 [Check-in Tết: Những địa điểm không thể bỏ qua tại TP HCM](https://nld.com.vn/check-in-tet-nhung-dia-diem-khong-the-bo-qua-tai-tp-hcm-196250129153640593.htm) - 08:36 29/01/2025
-- 🎉 [Kết quả xổ số hôm nay, 29-1: Đồng Nai, Cần Thơ, Sóc Trăng, Đà Nẵng, Khánh Hòa...](https://nld.com.vn/ket-qua-xo-so-hom-nay-29-1-dong-nai-can-tho-soc-trang-da-nang-khanh-hoa-196250129152956064.htm) - 08:36 29/01/2025
-- 😺 [Chiến sĩ Vùng Cảnh sát biển 3 trổ tài gói bánh chưng, chơi trò chơi dân gian](https://nld.com.vn/chien-si-vung-canh-sat-bien-3-tro-tai-goi-banh-chung-choi-tro-choi-dan-gian-196250129152608347.htm) - 08:35 29/01/2025
-- 🐻 [&quot;Khoảnh khắc Sputnik&quot; nghiền nát 1.000 tỉ USD của thị trường chứng khoán Mỹ](https://nld.com.vn/khoanh-khac-sputnik-nghien-nat-1000-ti-usd-cua-thi-truong-chung-khoan-my-196250128173443416.htm) - 08:33 29/01/2025
-- 🤡 [Thơm lừng cá thu nướng than hồng xứ Nghệ](https://nld.com.vn/thom-lung-ca-thu-nuong-than-hong-xu-nghe-196250129121317189.htm) - 08:32 29/01/2025
-- 🚦 [Mùng 1 Tết, “biển người” đổ về một khu du lịch ở Châu Đốc](https://nld.com.vn/mung-1-tet-bien-nguoi-do-ve-mot-khu-du-lich-o-chau-doc-196250129152120708.htm) - 08:31 29/01/2025
-- 🪜 [Giám đốc Trại rắn Đồng Tâm chia sẻ việc linh vật rắn Tiền Giang dẫn đầu bình chọn](https://nld.com.vn/giam-doc-trai-ran-dong-tam-chia-se-viec-linh-vat-ran-tien-giang-dan-dau-binh-chon-196250129151429833.htm) - 08:31 29/01/2025
-- 💫 [Ngôi chợ duy nhất ở Đà Nẵng nhộn nhịp khách ngày mùng 1 Tết](https://nld.com.vn/ngoi-cho-duy-nhat-o-da-nang-nhon-nhip-khach-ngay-mung-1-tet-196250129151023449.htm) - 08:14 29/01/2025
-- 🔭 [Hàng ngàn du khách &quot;xông đất&quot; Vũng Tàu](https://nld.com.vn/hang-ngan-du-khach-xong-dat-vung-tau-196250129150301601.htm) - 08:12 29/01/2025
-- 🌝 [Cuộc thi viết &quot;TẾT THỜI SỐ&quot;: Phơi và đọc sách ngày Tết](https://nld.com.vn/cuoc-thi-viet-tet-thoi-so-phoi-va-doc-sach-ngay-tet-196250128102432513.htm) - 08:01 29/01/2025
-- 💪 [Đầu năm gặp tham tán thương mại để thấy thị trường rộng mở](https://nld.com.vn/dau-nam-gap-tham-tan-thuong-mai-de-thay-thi-truong-rong-mo-196250128232452037.htm) - 08:00 29/01/2025
-- 🦍 [Người Xê Đăng lên núi hái &quot;ngọc trời&quot;](https://nld.com.vn/nguoi-xe-dang-len-nui-hai-ngoc-troi-196241219083747664.htm) - 08:00 29/01/2025
-- 🥷 [Tuyển Việt Nam và các cầu thủ, ngôi sao tuổi Tỵ](https://nld.com.vn/tuyen-viet-nam-va-cac-cau-thu-ngoi-sao-tuoi-ty-196250129143033139.htm) - 07:48 29/01/2025
-- 🫶 [Du khách đường biển, hàng không tấp nập xông đất Đà Nẵng](https://nld.com.vn/du-khach-duong-bien-hang-khong-tap-nap-xong-dat-da-nang-196250129142353065.htm) - 07:47 29/01/2025
-- 🐻 [Gỡ nút thắt tổ chức để thu hút sao ngoại đến Việt Nam](https://nld.com.vn/go-nut-that-to-chuc-de-thu-hut-sao-ngoai-den-viet-nam-196250124092942054.htm) - 07:17 29/01/2025
-- 🐲 [Khám phá hầm tận thế nguy nga của giới siêu giàu](https://nld.com.vn/kham-pha-ham-tan-the-nguy-nga-cua-gioi-sieu-giau-196250118142143746.htm) - 07:14 29/01/2025
-- 🧑‍💻 [VIDEO: Chuyện về ông chủ đoàn lô tô nổi tiếng ở miền Tây](https://nld.com.vn/video-chuyen-ve-ong-chu-doan-lo-to-noi-tieng-o-mien-tay-196250119155845947.htm) - 07:00 29/01/2025
-- 🎬 [Tăng tốc giao thông 2025: Vành Đai 3, cao tốc Mộc Bài và những kỳ vọng lớn cho TP HCM](https://nld.com.vn/tang-toc-giao-thong-2025-vanh-dai-3-cao-toc-moc-bai-va-nhung-ky-vong-lon-cho-tp-hcm-196250128214902797.htm) - 06:14 29/01/2025
-- 👀 [Những phong tục đẹp trong gia đình Việt dịp Tết](https://nld.com.vn/nhung-phong-tuc-dep-trong-gia-dinh-viet-dip-tet-196250128220257966.htm) - 06:09 29/01/2025
-- 👍 [Vẻ đẹp bình yên hiếm thấy của TP HCM ngày đầu năm](https://nld.com.vn/ve-dep-binh-yen-hiem-thay-cua-tp-hcm-ngay-dau-nam-196250129130508617.htm) - 06:04 29/01/2025
-- 🦅 [Đàn tế hơn 600 năm tuổi ở triều đại ngắn nhất Việt Nam](https://nld.com.vn/dan-te-hon-600-nam-tuoi-o-trieu-dai-ngan-nhat-viet-nam-19625012719203615.htm) - 06:00 29/01/2025
-- 🦏 [Thúy Ngân - Jun Phạm: Tết hạnh phúc bên tượng Mai Vàng.](https://nld.com.vn/thuy-ngan-jun-pham-tet-hanh-phuc-ben-tuong-mai-vang-19625012508250207.htm) - 05:44 29/01/2025
-- 🗽 [Đón Tết khác lạ trên độ cao 10.000 mét với phi hành đoàn tuổi Tỵ](https://nld.com.vn/don-tet-khac-la-tren-do-cao-10000-met-voi-phi-hanh-doan-tuoi-ty-196250129121348512.htm) - 05:38 29/01/2025
-- 🔭 [Hình ảnh phố phường TP HCM mùng 1 Tết](https://nld.com.vn/hinh-anh-pho-phuong-tp-hcm-sang-mung-1-tet-196250129115033087.htm) - 05:35 29/01/2025
-- 👍 [Cháy lớn tại công ty giầy trong đêm Giao thừa, thiệt hại nhiều tỉ đồng](https://nld.com.vn/chay-lon-tai-cong-ty-giay-trong-dem-giao-thua-thiet-hai-nhieu-ti-dong-196250129121447229.htm) - 05:33 29/01/2025
-- ⛽️ [CLIP: Nhiều người bất ngờ khi CSGT đo nồng độ cồn sáng mùng 1 Tết](https://nld.com.vn/clip-nhieu-nguoi-bat-ngo-khi-csgt-do-nong-do-con-sang-mung-1-tet-196250129115157868.htm) - 05:30 29/01/2025
-- 🥸 [2025: Nhiều thay đổi trong tuyển sinh đại học](https://nld.com.vn/2025-nhieu-thay-doi-trong-tuyen-sinh-dai-hoc-196250128233304479.htm) - 05:00 29/01/2025
-- 🌁 [Ấn Độ: Giẫm đạp tại lễ hội, ít nhất 15 người thiệt mạng](https://nld.com.vn/an-do-giam-dap-tai-le-hoi-it-nhat-15-nguoi-thiet-mang-196250129113756584.htm) - 04:54 29/01/2025
-- 🌮 [Mùng 1 đi chùa cầu an tại những ngôi chùa đặc biệt của TP HCM](https://nld.com.vn/mung-1-di-chua-cau-an-tai-nhung-ngoi-chua-dac-biet-cua-tp-hcm-196250129112857212.htm) - 04:53 29/01/2025
-- 🎉 [Patrik Lê Giang khao khát khoác áo tuyển Việt Nam](https://nld.com.vn/patrik-le-giang-khao-khat-khoac-ao-tuyen-viet-nam-196250129113110854.htm) - 04:48 29/01/2025
-- 🤔 [Quảng Ninh đón 2.500 khách du lịch &quot;xông đất&quot; trong ngày mùng 1 Tết](https://nld.com.vn/quang-ninh-don-2500-khach-du-lich-xong-dat-trong-ngay-mung-1-tet-196250129111021092.htm) - 04:40 29/01/2025
-- 🐘 [Tiền Giang, Phú Yên, Đà Nẵng gây ấn tượng với linh vật rắn đẹp](https://nld.com.vn/podcast/tien-giang-phu-yen-da-nang-gay-an-tuong-voi-linh-vat-ran-dep-196250129105824093.htm) - 04:30 29/01/2025
-- 🙉 [Bộ trưởng Phạm Thị Thanh Trà chia sẻ có những cuộc họp &quot;cân não&quot; về tinh gọn bộ máy](https://nld.com.vn/bo-truong-pham-thi-thanh-tra-chia-se-co-nhung-cuoc-hop-can-nao-ve-tinh-gon-bo-may-196250129105647155.htm) - 04:28 29/01/2025
-- 🐵 [Cái Mép - Thị Vải đón 6 tàu chở hàng &quot;xông đất&quot;](https://nld.com.vn/cai-mep-thi-vai-don-6-tau-cho-hang-xong-dat-196250129102705305.htm) - 04:25 29/01/2025
-- 🙉 [Trường ĐH Nông lâm TP HCM vẫn xét tuyển học bạ](https://nld.com.vn/truong-dh-nong-lam-tp-hcm-van-xet-tuyen-hoc-ba-196250129110104781.htm) - 04:22 29/01/2025
-- 💪 [Những người làm việc xuyên Tết](https://nld.com.vn/nhung-nguoi-lam-viec-xuyen-tet-196250129104518917.htm) - 04:14 29/01/2025
-- ⛽️ [VIDEO: Mừng năm mới với bài hát đáng yêu của các “ca sĩ” đặc biệt nhóm G4](https://nld.com.vn/video-mung-nam-moi-voi-bai-hat-dang-yeu-cua-cac-ca-si-dac-biet-nhom-g4-19625012909243099.htm) - 04:10 29/01/2025
-- 👺 [Đầu năm đi chùa cầu an](https://nld.com.vn/dau-nam-di-chua-cau-an-196250128231529111.htm) - 04:09 29/01/2025
-- 🧠 [&quot;Gặp lại&quot; những người Việt vươn lên từ thảm họa](https://nld.com.vn/gap-lai-nhung-nguoi-viet-vuon-len-tu-tham-hoa-196250126213218038.htm) - 03:53 29/01/2025
-- 🔭 [VIDEO: Thích thú với nghề đánh võng chuối bên cồn ở Cần Thơ](https://nld.com.vn/video-thich-thu-voi-nghe-danh-vong-chuoi-ben-con-o-can-tho-196250119114045109.htm) - 03:45 29/01/2025
-- 🦣 [&quot;Táo quân&quot; tết Ất Tỵ 2025 với những câu nói gây sốt mạng xã hội của Táo Giao thông](https://nld.com.vn/tao-quan-tet-at-ty-2025-voi-nhung-cau-noi-gay-sot-mang-xa-hoi-cua-tao-giao-thong-196250129101057098.htm) - 03:41 29/01/2025
-- 🔥 [VIDEO: Ngư dân thị trấn biển lớn nhất ĐBSCL phấn khởi chuyến biển đầu năm](https://nld.com.vn/video-ngu-dan-thi-tran-bien-lon-nhat-dbscl-phan-khoi-chuyen-bien-dau-nam-196250129083416687.htm) - 03:36 29/01/2025
-- 🌝 [Chủ tịch nước Lương Cường dâng hương tưởng niệm Chủ tịch Hồ Chí Minh tại Nhà 67](https://nld.com.vn/chu-tich-nuoc-luong-cuong-dang-huong-tuong-niem-chu-tich-ho-chi-minh-tai-nha-67-196250129102706414.htm) - 03:26 29/01/2025
-- 👍 [Phiên chợ không nói thách, trả giá, mỗi năm chỉ mở vào mùng 1 Tết](https://nld.com.vn/phien-cho-khong-noi-thach-tra-gia-moi-nam-chi-mo-vao-mung-1-tet-19625012909563978.htm) - 03:21 29/01/2025
-- 💂 [Chuyện bác sĩ trực Tết](https://nld.com.vn/chuyen-bac-si-truc-tet-196250128215022713.htm) - 03:15 29/01/2025
-- 🤖 [Cách nào để du lịch Việt bứt phá trong năm 2025, cạnh tranh với Thái Lan?](https://nld.com.vn/cach-nao-de-du-lich-viet-but-pha-trong-nam-2025-canh-tranh-voi-thai-lan-196250128235308359.htm) - 03:13 29/01/2025<!-- nld:END -->
+- 🐎 [Chuyến bay từ Ba Lan &quot;xông đất&quot; Khánh Hòa năm Ất Tỵ](https://nld.com.vn/chuyen-bay-tu-ba-lan-xong-dat-khanh-hoa-nam-at-ty-196250129173629882.htm) - 10:52 29/01/2025
+- 😺 [Cháy máy bay ở Hàn Quốc: Hé lộ nghi ngờ đầu tiên, hành khách chỉ trích phi hành đoàn](https://nld.com.vn/chay-may-bay-o-han-quoc-he-lo-nghi-ngo-dau-tien-hanh-khach-chi-trich-phi-hanh-doan-196250129171800592.htm) - 10:34 29/01/2025
+- 👍 [Đà Nẵng: Chùa Linh Ứng quá tải trong ngày đầu năm mới](https://nld.com.vn/da-nang-chua-linh-ung-qua-tai-trong-ngay-dau-nam-moi-196250129171057986.htm) - 10:25 29/01/2025
+- 🥷 [Khách bay qua Tân Sơn Nhất 4 ngày trước Tết tăng bao nhiêu?](https://nld.com.vn/khach-bay-qua-tan-son-nhat-4-ngay-truoc-tet-tang-bao-nhieu-196250129172059091.htm) - 10:23 29/01/2025
+- 🤔 [Tai nạn giao thông ngày mùng 1 Tết Ất Tỵ làm 17 người tử vong](https://nld.com.vn/tai-nan-giao-thong-ngay-mung-1-tet-at-ty-lam-17-nguoi-tu-vong-196250129154652549.htm) - 10:23 29/01/2025
+- 🌈 [Mùng 1 Tết, sân bay Tân Sơn Nhất vẫn đón lượng khách &quot;đông không tưởng&quot;](https://nld.com.vn/mung-1-tet-san-bay-tan-son-nhat-van-don-luong-khach-dong-khong-tuong-196250129171234981.htm) - 10:22 29/01/2025
+- 🔥 [Du khách nườm nượp trải nghiệm Tết trong Hoàng cung Huế](https://nld.com.vn/du-khach-nuom-nuop-trai-nghiem-tet-trong-hoang-cung-hue-196250129165806088.htm) - 10:12 29/01/2025
+- 🧰 [Bắt trăn khổng lồ bằng tay, 8 người khiên ra khỏi rừng](https://nld.com.vn/bat-tran-khong-lo-bang-tay-8-nguoi-khien-ra-khoi-rung-196250129163650367.htm) - 09:57 29/01/2025
+- 🤗 [Mùng 1 Tết, khách du lịch ồ ạt khởi hành du xuân trong và ngoài nước](https://nld.com.vn/mung-1-tet-khach-du-lich-o-at-khoi-hanh-du-xuan-trong-va-ngoai-nuoc-196250129163818585.htm) - 09:54 29/01/2025
+- 🦅 [Đầu năm mua muối](https://nld.com.vn/dau-nam-mua-muoi-196250129100400533.htm) - 09:53 29/01/2025
+- 🤩 [Nét đẹp ngày mùng 1 Tết](https://nld.com.vn/net-dep-ngay-mung-1-tet-196250129154353078.htm) - 09:20 29/01/2025
+- 🎭 [Thủ tướng Slovakia căng thẳng với tổng thống Ukraine](https://nld.com.vn/thu-tuong-slovakia-cang-thang-voi-tong-thong-ukraine-196250129152200739.htm) - 09:17 29/01/2025
+- 💄 [VIDEO: Độc đáo đường hoa nghệ thuật ở Cần Thơ](https://nld.com.vn/video-doc-dao-duong-hoa-nghe-thuat-o-can-tho-196250129155948795.htm) - 09:10 29/01/2025
+- 🎊 [Bình Định, Bình Thuận lì xì du khách “xông đất” đầu năm](https://nld.com.vn/binh-dinh-to-chuc-le-don-cac-du-khach-xong-dat-bang-tau-hoa-196250129155338991.htm) - 09:09 29/01/2025
+- 🎡 [&quot;Quả ngọt&quot; từ Nghị quyết 98](https://nld.com.vn/qua-ngot-tu-nghi-quyet-98-196250129150826513.htm) - 08:40 29/01/2025
+- 🎉 [Check-in Tết: Những địa điểm không thể bỏ qua tại TP HCM](https://nld.com.vn/check-in-tet-nhung-dia-diem-khong-the-bo-qua-tai-tp-hcm-196250129153640593.htm) - 08:36 29/01/2025
+- 😺 [Kết quả xổ số hôm nay, 29-1: Đồng Nai, Cần Thơ, Sóc Trăng, Đà Nẵng, Khánh Hòa...](https://nld.com.vn/ket-qua-xo-so-hom-nay-29-1-dong-nai-can-tho-soc-trang-da-nang-khanh-hoa-196250129152956064.htm) - 08:36 29/01/2025
+- 🐻 [Chiến sĩ Vùng Cảnh sát biển 3 trổ tài gói bánh chưng, chơi trò chơi dân gian](https://nld.com.vn/chien-si-vung-canh-sat-bien-3-tro-tai-goi-banh-chung-choi-tro-choi-dan-gian-196250129152608347.htm) - 08:35 29/01/2025
+- 🤡 [&quot;Khoảnh khắc Sputnik&quot; nghiền nát 1.000 tỉ USD của thị trường chứng khoán Mỹ](https://nld.com.vn/khoanh-khac-sputnik-nghien-nat-1000-ti-usd-cua-thi-truong-chung-khoan-my-196250128173443416.htm) - 08:33 29/01/2025
+- 🚦 [Thơm lừng cá thu nướng than hồng xứ Nghệ](https://nld.com.vn/thom-lung-ca-thu-nuong-than-hong-xu-nghe-196250129121317189.htm) - 08:32 29/01/2025
+- 🪜 [Mùng 1 Tết, “biển người” đổ về một khu du lịch ở Châu Đốc](https://nld.com.vn/mung-1-tet-bien-nguoi-do-ve-mot-khu-du-lich-o-chau-doc-196250129152120708.htm) - 08:31 29/01/2025
+- 💫 [Giám đốc Trại rắn Đồng Tâm chia sẻ việc linh vật rắn Tiền Giang dẫn đầu bình chọn](https://nld.com.vn/giam-doc-trai-ran-dong-tam-chia-se-viec-linh-vat-ran-tien-giang-dan-dau-binh-chon-196250129151429833.htm) - 08:31 29/01/2025
+- 🔭 [Ngôi chợ duy nhất ở Đà Nẵng nhộn nhịp khách ngày mùng 1 Tết](https://nld.com.vn/ngoi-cho-duy-nhat-o-da-nang-nhon-nhip-khach-ngay-mung-1-tet-196250129151023449.htm) - 08:14 29/01/2025
+- 🌝 [Hàng ngàn du khách &quot;xông đất&quot; Vũng Tàu](https://nld.com.vn/hang-ngan-du-khach-xong-dat-vung-tau-196250129150301601.htm) - 08:12 29/01/2025
+- 💪 [Cuộc thi viết &quot;TẾT THỜI SỐ&quot;: Phơi và đọc sách ngày Tết](https://nld.com.vn/cuoc-thi-viet-tet-thoi-so-phoi-va-doc-sach-ngay-tet-196250128102432513.htm) - 08:01 29/01/2025
+- 🦍 [Đầu năm gặp tham tán thương mại để thấy thị trường rộng mở](https://nld.com.vn/dau-nam-gap-tham-tan-thuong-mai-de-thay-thi-truong-rong-mo-196250128232452037.htm) - 08:00 29/01/2025
+- 🥷 [Người Xê Đăng lên núi hái &quot;ngọc trời&quot;](https://nld.com.vn/nguoi-xe-dang-len-nui-hai-ngoc-troi-196241219083747664.htm) - 08:00 29/01/2025
+- 🫶 [Tuyển Việt Nam và các cầu thủ, ngôi sao tuổi Tỵ](https://nld.com.vn/tuyen-viet-nam-va-cac-cau-thu-ngoi-sao-tuoi-ty-196250129143033139.htm) - 07:48 29/01/2025
+- 🐻 [Du khách đường biển, hàng không tấp nập xông đất Đà Nẵng](https://nld.com.vn/du-khach-duong-bien-hang-khong-tap-nap-xong-dat-da-nang-196250129142353065.htm) - 07:47 29/01/2025
+- 🐲 [Gỡ nút thắt tổ chức để thu hút sao ngoại đến Việt Nam](https://nld.com.vn/go-nut-that-to-chuc-de-thu-hut-sao-ngoai-den-viet-nam-196250124092942054.htm) - 07:17 29/01/2025
+- 🧑‍💻 [Khám phá hầm tận thế nguy nga của giới siêu giàu](https://nld.com.vn/kham-pha-ham-tan-the-nguy-nga-cua-gioi-sieu-giau-196250118142143746.htm) - 07:14 29/01/2025
+- 🎬 [VIDEO: Chuyện về ông chủ đoàn lô tô nổi tiếng ở miền Tây](https://nld.com.vn/video-chuyen-ve-ong-chu-doan-lo-to-noi-tieng-o-mien-tay-196250119155845947.htm) - 07:00 29/01/2025
+- 👀 [Tăng tốc giao thông 2025: Vành Đai 3, cao tốc Mộc Bài và những kỳ vọng lớn cho TP HCM](https://nld.com.vn/tang-toc-giao-thong-2025-vanh-dai-3-cao-toc-moc-bai-va-nhung-ky-vong-lon-cho-tp-hcm-196250128214902797.htm) - 06:14 29/01/2025
+- 👍 [Những phong tục đẹp trong gia đình Việt dịp Tết](https://nld.com.vn/nhung-phong-tuc-dep-trong-gia-dinh-viet-dip-tet-196250128220257966.htm) - 06:09 29/01/2025
+- 🦅 [Vẻ đẹp bình yên hiếm thấy của TP HCM ngày đầu năm](https://nld.com.vn/ve-dep-binh-yen-hiem-thay-cua-tp-hcm-ngay-dau-nam-196250129130508617.htm) - 06:04 29/01/2025
+- 🦏 [Đàn tế hơn 600 năm tuổi ở triều đại ngắn nhất Việt Nam](https://nld.com.vn/dan-te-hon-600-nam-tuoi-o-trieu-dai-ngan-nhat-viet-nam-19625012719203615.htm) - 06:00 29/01/2025
+- 🗽 [Thúy Ngân - Jun Phạm: Tết hạnh phúc bên tượng Mai Vàng.](https://nld.com.vn/thuy-ngan-jun-pham-tet-hanh-phuc-ben-tuong-mai-vang-19625012508250207.htm) - 05:44 29/01/2025
+- 🔭 [Đón Tết khác lạ trên độ cao 10.000 mét với phi hành đoàn tuổi Tỵ](https://nld.com.vn/don-tet-khac-la-tren-do-cao-10000-met-voi-phi-hanh-doan-tuoi-ty-196250129121348512.htm) - 05:38 29/01/2025
+- 👍 [Hình ảnh phố phường TP HCM mùng 1 Tết](https://nld.com.vn/hinh-anh-pho-phuong-tp-hcm-sang-mung-1-tet-196250129115033087.htm) - 05:35 29/01/2025
+- ⛽️ [Cháy lớn tại công ty giầy trong đêm Giao thừa, thiệt hại nhiều tỉ đồng](https://nld.com.vn/chay-lon-tai-cong-ty-giay-trong-dem-giao-thua-thiet-hai-nhieu-ti-dong-196250129121447229.htm) - 05:33 29/01/2025
+- 🥸 [CLIP: Nhiều người bất ngờ khi CSGT đo nồng độ cồn sáng mùng 1 Tết](https://nld.com.vn/clip-nhieu-nguoi-bat-ngo-khi-csgt-do-nong-do-con-sang-mung-1-tet-196250129115157868.htm) - 05:30 29/01/2025
+- 🌁 [2025: Nhiều thay đổi trong tuyển sinh đại học](https://nld.com.vn/2025-nhieu-thay-doi-trong-tuyen-sinh-dai-hoc-196250128233304479.htm) - 05:00 29/01/2025
+- 🌮 [Ấn Độ: Giẫm đạp tại lễ hội, ít nhất 15 người thiệt mạng](https://nld.com.vn/an-do-giam-dap-tai-le-hoi-it-nhat-15-nguoi-thiet-mang-196250129113756584.htm) - 04:54 29/01/2025
+- 🎉 [Mùng 1 đi chùa cầu an tại những ngôi chùa đặc biệt của TP HCM](https://nld.com.vn/mung-1-di-chua-cau-an-tai-nhung-ngoi-chua-dac-biet-cua-tp-hcm-196250129112857212.htm) - 04:53 29/01/2025
+- 🤔 [Patrik Lê Giang khao khát khoác áo tuyển Việt Nam](https://nld.com.vn/patrik-le-giang-khao-khat-khoac-ao-tuyen-viet-nam-196250129113110854.htm) - 04:48 29/01/2025
+- 🐘 [Quảng Ninh đón 2.500 khách du lịch &quot;xông đất&quot; trong ngày mùng 1 Tết](https://nld.com.vn/quang-ninh-don-2500-khach-du-lich-xong-dat-trong-ngay-mung-1-tet-196250129111021092.htm) - 04:40 29/01/2025
+- 🙉 [Tiền Giang, Phú Yên, Đà Nẵng gây ấn tượng với linh vật rắn đẹp](https://nld.com.vn/podcast/tien-giang-phu-yen-da-nang-gay-an-tuong-voi-linh-vat-ran-dep-196250129105824093.htm) - 04:30 29/01/2025
+- 🐵 [Bộ trưởng Phạm Thị Thanh Trà chia sẻ có những cuộc họp &quot;cân não&quot; về tinh gọn bộ máy](https://nld.com.vn/bo-truong-pham-thi-thanh-tra-chia-se-co-nhung-cuoc-hop-can-nao-ve-tinh-gon-bo-may-196250129105647155.htm) - 04:28 29/01/2025
+- 🙉 [Cái Mép - Thị Vải đón 6 tàu chở hàng &quot;xông đất&quot;](https://nld.com.vn/cai-mep-thi-vai-don-6-tau-cho-hang-xong-dat-196250129102705305.htm) - 04:25 29/01/2025
+- 💪 [Trường ĐH Nông lâm TP HCM vẫn xét tuyển học bạ](https://nld.com.vn/truong-dh-nong-lam-tp-hcm-van-xet-tuyen-hoc-ba-196250129110104781.htm) - 04:22 29/01/2025
+- ⛽️ [Những người làm việc xuyên Tết](https://nld.com.vn/nhung-nguoi-lam-viec-xuyen-tet-196250129104518917.htm) - 04:14 29/01/2025
+- 👺 [VIDEO: Mừng năm mới với bài hát đáng yêu của các “ca sĩ” đặc biệt nhóm G4](https://nld.com.vn/video-mung-nam-moi-voi-bai-hat-dang-yeu-cua-cac-ca-si-dac-biet-nhom-g4-19625012909243099.htm) - 04:10 29/01/2025
+- 🧠 [Đầu năm đi chùa cầu an](https://nld.com.vn/dau-nam-di-chua-cau-an-196250128231529111.htm) - 04:09 29/01/2025
+- 🔭 [&quot;Gặp lại&quot; những người Việt vươn lên từ thảm họa](https://nld.com.vn/gap-lai-nhung-nguoi-viet-vuon-len-tu-tham-hoa-196250126213218038.htm) - 03:53 29/01/2025
+- 🦣 [VIDEO: Thích thú với nghề đánh võng chuối bên cồn ở Cần Thơ](https://nld.com.vn/video-thich-thu-voi-nghe-danh-vong-chuoi-ben-con-o-can-tho-196250119114045109.htm) - 03:45 29/01/2025
+- 🔥 [&quot;Táo quân&quot; tết Ất Tỵ 2025 với những câu nói gây sốt mạng xã hội của Táo Giao thông](https://nld.com.vn/tao-quan-tet-at-ty-2025-voi-nhung-cau-noi-gay-sot-mang-xa-hoi-cua-tao-giao-thong-196250129101057098.htm) - 03:41 29/01/2025
+- 🌝 [VIDEO: Ngư dân thị trấn biển lớn nhất ĐBSCL phấn khởi chuyến biển đầu năm](https://nld.com.vn/video-ngu-dan-thi-tran-bien-lon-nhat-dbscl-phan-khoi-chuyen-bien-dau-nam-196250129083416687.htm) - 03:36 29/01/2025
+- 👍 [Chủ tịch nước Lương Cường dâng hương tưởng niệm Chủ tịch Hồ Chí Minh tại Nhà 67](https://nld.com.vn/chu-tich-nuoc-luong-cuong-dang-huong-tuong-niem-chu-tich-ho-chi-minh-tai-nha-67-196250129102706414.htm) - 03:26 29/01/2025
+- 💂 [Phiên chợ không nói thách, trả giá, mỗi năm chỉ mở vào mùng 1 Tết](https://nld.com.vn/phien-cho-khong-noi-thach-tra-gia-moi-nam-chi-mo-vao-mung-1-tet-19625012909563978.htm) - 03:21 29/01/2025
+- 🤖 [Chuyện bác sĩ trực Tết](https://nld.com.vn/chuyen-bac-si-truc-tet-196250128215022713.htm) - 03:15 29/01/2025<!-- nld:END -->
 
 ## Báo SGGP
 <!-- sggp:START -->
