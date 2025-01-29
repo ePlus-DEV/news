@@ -315,7 +315,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo SGGP
 <!-- sggp:START -->
 - 🪜 [Szczesny củng cố vị trí bắt chính cho Barcelona](https://www.sggp.org.vn/szczesny-cung-co-vi-tri-bat-chinh-cho-barcelona-post779953.html) - 07:06 29/01/2025
-- 🌝 [Ấn tượng tục rước lửa thiêng từ đền làng về nhà vào thời khắc giao thừa](https://www.sggp.org.vn/an-tuong-tuc-ruoc-lua-thieng-tu-den-lang-ve-nha-vao-thoi-khac-giao-thua-post779944.html) - 06:53 29/01/2025
+- 🌝 [Ấn tượng tục rước lửa thiêng từ đền làng về nhà vào thời khắc Giao thừa](https://www.sggp.org.vn/an-tuong-tuc-ruoc-lua-thieng-tu-den-lang-ve-nha-vao-thoi-khac-giao-thua-post779944.html) - 06:53 29/01/2025
 - 💃 [Cụm cảng Cái Mép - Thị Vải đón 6 tàu lớn xông đất](https://www.sggp.org.vn/cum-cang-cai-mep-thi-vai-don-6-tau-lon-xong-dat-post779941.html) - 06:45 29/01/2025
 - 🧑‍💻 [Liverpool đội hình dự bị đến PSV Eindhoven](https://www.sggp.org.vn/liverpool-doi-hinh-du-bi-den-psv-eindhoven-post779950.html) - 06:39 29/01/2025
 - 🌊 [Du khách rộn ràng &quot;xông đất&quot; các tỉnh, thành phố miền Trung ngày đầu năm mới](https://www.sggp.org.vn/du-khach-ron-rang-xong-dat-cac-tinh-thanh-pho-mien-trung-ngay-dau-nam-moi-post779939.html) - 06:39 29/01/2025
