@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Kinh tế châu Âu không tăng trưởng](https://vnexpress.net/kinh-te-chau-au-khong-tang-truong-4844461.html) - 17:05 30/01/2025
-- 🐲 [Kinh tế Mỹ tăng trưởng 2,8% năm 2024](https://vnexpress.net/kinh-te-my-tang-truong-2-8-nam-2024-4844499.html) - 16:42 30/01/2025
+- 🐲 [GDP Mỹ tăng 2,8% năm 2024](https://vnexpress.net/gdp-my-tang-2-8-nam-2024-4844499.html) - 16:42 30/01/2025
 - 🔥 [Châu Âu giảm lãi suất 0,25%](https://vnexpress.net/chau-au-giam-lai-suat-0-25-4844485.html) - 15:23 30/01/2025
 - 🐵 [Việt Nam đứng thứ hai xuất khẩu rau quả sang Trung Quốc](https://vnexpress.net/viet-nam-dung-thu-hai-xuat-khau-rau-qua-sang-trung-quoc-4844399.html) - 11:40 30/01/2025
 - 🦅 [3 tỷ phú tiền số có tài sản tăng mạnh nhất năm 2024](https://vnexpress.net/3-ty-phu-tien-so-co-tai-san-tang-manh-nhat-nam-2024-4844353.html) - 08:30 30/01/2025
