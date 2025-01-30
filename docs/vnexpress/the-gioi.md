@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Máy bay &#39;chở 64 người&#39; va chạm trực thăng, rơi xuống sông ở Mỹ](https://vnexpress.net/may-bay-cho-64-nguoi-va-cham-truc-thang-roi-xuong-song-o-my-4844393.html) - 03:59 30/01/2025
+- 🎭 [Máy bay chở 64 người va chạm trực thăng, rơi xuống sông ở Mỹ](https://vnexpress.net/may-bay-cho-64-nguoi-va-cham-truc-thang-roi-xuong-song-o-my-4844393.html) - 03:59 30/01/2025
 - 🕴 [Syria có Tổng thống lâm thời](https://vnexpress.net/syria-co-tong-thong-lam-thoi-4844357.html) - 03:02 30/01/2025
 - 🤭 [Đan Mạch sẽ chi hai tỷ USD để tăng hiện diện quân sự ở Greenland](https://vnexpress.net/dan-mach-se-chi-hai-ty-usd-de-tang-hien-dien-quan-su-o-greenland-4844346.html) - 02:18 30/01/2025
 - 🧑‍💻 [Máy bay Hàn Quốc có thể đã thoát thảm họa nhờ cất cánh trễ giờ](https://vnexpress.net/may-bay-han-quoc-co-the-da-thoat-tham-hoa-nho-cat-canh-tre-gio-4844344.html) - 01:38 30/01/2025
