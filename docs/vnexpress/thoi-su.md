@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Văn Miếu nhộn nhịp người xin chữ đầu năm](https://vnexpress.net/van-mieu-nhon-nhip-nguoi-xin-chu-dau-nam-4844445.html) - 10:58 30/01/2025
 - 🤓 [Ôtô lao xuống mương ở Nam Định, 7 người chết](https://vnexpress.net/oto-lao-xuong-muong-o-nam-dinh-7-nguoi-chet-4844453.html) - 10:11 30/01/2025
-- ⚗️ [Gyalwang Drukpa đời thứ 12 trở lại Việt Nam](https://vnexpress.net/gyalwang-drukpa-doi-thu-12-tro-lai-viet-nam-4844419.html) - 06:34 30/01/2025
+- ⚗️ [Đức Gyalwang Drukpa đời thứ 12 trở lại Việt Nam](https://vnexpress.net/duc-gyalwang-drukpa-doi-thu-12-tro-lai-viet-nam-4844419.html) - 06:34 30/01/2025
 - 🌊 [Cầu Rạch Miễu kẹt xe suốt ba giờ trưa mùng 2 Tết](https://vnexpress.net/cau-rach-mieu-ket-xe-suot-ba-gio-trua-mung-2-tet-4844423.html) - 06:14 30/01/2025
 - 🎓 [Người vùng cao xứ Nghệ đón Tết bằng tiếng sấm](https://vnexpress.net/nguoi-vung-cao-xu-nghe-don-tet-bang-tieng-sam-4843585.html) - 05:00 30/01/2025
 - 🔥 [Cháy ba cửa hàng ở trung tâm Hải Phòng](https://vnexpress.net/chay-ba-cua-hang-o-trung-tam-hai-phong-4844370.html) - 03:04 30/01/2025
