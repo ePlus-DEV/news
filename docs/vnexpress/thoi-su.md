@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Gyalwang Drukpa đời thứ 12 trở lại Việt Nam](https://vnexpress.net/gyalwang-drukpa-doi-thu-12-tro-lai-viet-nam-4844419.html) - 06:34 30/01/2025
-- 🤓 [Cầu Rạch Miễu kẹt xe suốt ba giờ trưa Mùng 2 Tết](https://vnexpress.net/cau-rach-mieu-ket-xe-suot-ba-gio-trua-mung-2-tet-4844423.html) - 06:14 30/01/2025
+- 🤓 [Cầu Rạch Miễu kẹt xe suốt ba giờ trưa mùng 2 Tết](https://vnexpress.net/cau-rach-mieu-ket-xe-suot-ba-gio-trua-mung-2-tet-4844423.html) - 06:14 30/01/2025
 - ⚗️ [Người vùng cao xứ Nghệ đón Tết bằng tiếng sấm](https://vnexpress.net/nguoi-vung-cao-xu-nghe-don-tet-bang-tieng-sam-4843585.html) - 05:00 30/01/2025
 - 🌊 [Cháy ba cửa hàng ở trung tâm Hải Phòng](https://vnexpress.net/chay-ba-cua-hang-o-trung-tam-hai-phong-4844370.html) - 03:04 30/01/2025
 - 🎓 [Diện mạo đường ven biển Bà Rịa - Vũng Tàu đang mở rộng](https://vnexpress.net/dien-mao-duong-ven-bien-ba-ria-vung-tau-dang-mo-rong-4843820.html) - 03:00 30/01/2025
