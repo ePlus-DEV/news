@@ -351,23 +351,23 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🕴 [Thời tiết Tết Ất Tỵ: Bắc bộ tiếp tục rét, Tây Nguyên và Nam bộ trời nắng](https://www.sggp.org.vn/thoi-tiet-tet-at-ty-bac-bo-tiep-tuc-ret-tay-nguyen-va-nam-bo-troi-nang-post779989.html) - 23:46 29/01/2025
 - 🦆 [Năm Tỵ nói Chuyện Rắn](https://www.sggp.org.vn/nam-ty-noi-chuyen-ran-post778225.html) - 23:18 29/01/2025
 - 🎃 [Hé lộ mức lương mới của Neymar tại Santos](https://www.sggp.org.vn/he-lo-muc-luong-moi-cua-neymar-tai-santos-post779994.html) - 17:14 29/01/2025
-- 🌮 [Chủ tịch RFEF xác nhận Florentino Perez của Real Madrid đã gây sức ép về vấn đề trọng tài](https://www.sggp.org.vn/chu-tich-rfef-xac-nhan-florentino-perez-cua-real-madrid-da-gay-suc-ep-ve-van-de-trong-tai-post779993.html) - 16:50 29/01/2025
-- 🥰 [Cristiano Ronaldo thổi bùng tin đồn kết hôn với Georgina Rodriguez bằng tin nhắn](https://www.sggp.org.vn/cristiano-ronaldo-thoi-bung-tin-don-ket-hon-voi-georgina-rodriguez-bang-tin-nhan-post779992.html) - 16:05 29/01/2025
-- 🕯 [Gần 40 người thiệt mạng do giẫm đạp tại Ấn Độ](https://www.sggp.org.vn/gan-40-nguoi-thiet-mang-do-giam-dap-tai-an-do-post779986.html) - 15:50 29/01/2025
-- 🙉 [Rơi máy bay ở Nam Sudan, 20 công nhân dầu khí thiệt mạng](https://www.sggp.org.vn/roi-may-bay-o-nam-sudan-20-cong-nhan-dau-khi-thiet-mang-post779991.html) - 15:45 29/01/2025
-- 💡 [Ngày đầu tiên của năm Ất Tỵ, 205 người nhập viện do pháo và vật liệu nổ](https://www.sggp.org.vn/ngay-dau-tien-cua-nam-at-ty-205-nguoi-nhap-vien-do-phao-va-vat-lieu-no-post779985.html) - 15:29 29/01/2025
-- 💫 [Nga để ngỏ khả năng đàm phán với Ukraine](https://www.sggp.org.vn/nga-de-ngo-kha-nang-dam-phan-voi-ukraine-post779987.html) - 14:52 29/01/2025
-- 🧑‍💻 [Tăng cường đấu tranh với tội phạm đường phố, giữ bình yên cho người dân vui xuân](https://www.sggp.org.vn/tang-cuong-dau-tranh-voi-toi-pham-duong-pho-giu-binh-yen-cho-nguoi-dan-vui-xuan-post779981.html) - 13:25 29/01/2025
-- 🎊 [Chắp cánh cho thành phố sáng tạo](https://www.sggp.org.vn/chap-canh-cho-thanh-pho-sang-tao-post779435.html) - 13:16 29/01/2025
-- 🤖 [Xuyên tết thi công bãi biển đẹp nhất Vũng Tàu](https://www.sggp.org.vn/xuyen-tet-thi-cong-bai-bien-dep-nhat-vung-tau-post779937.html) - 13:03 29/01/2025
-- 💫 [Vượt lên nghịch cảnh, đón tết sum vầy](https://www.sggp.org.vn/vuot-len-nghich-canh-don-tet-sum-vay-post779933.html) - 12:21 29/01/2025
-- 👨‍🏫 [NSƯT Võ Minh Lâm: Năm mới an vui với nhiều dự án sân khấu đặc biệt](https://www.sggp.org.vn/nsut-vo-minh-lam-nam-moi-an-vui-voi-nhieu-du-an-san-khau-dac-biet-post779951.html) - 12:13 29/01/2025
-- 🧰 [Dàn tuyển thủ Việt Nam xúng xính đón Tết Ất Tỵ 2025](https://www.sggp.org.vn/dan-tuyen-thu-viet-nam-xung-xinh-don-tet-at-ty-2025-post779966.html) - 12:11 29/01/2025
-- 🥰 [Tăng cường đảm bảo an toàn trên các công trường giao thông thi công xuyên tết](https://www.sggp.org.vn/tang-cuong-dam-bao-an-toan-tren-cac-cong-truong-giao-thong-thi-cong-xuyen-tet-post779862.html) - 12:09 29/01/2025
-- 💼 [Đầu xuân Ất Tỵ, khách tấp nập du xuân](https://www.sggp.org.vn/dau-xuan-at-ty-khach-tap-nap-du-xuan-post779972.html) - 12:07 29/01/2025
-- 🤗 [Hành trình đáng nể của Kyle Walker với 410 ra sân, 6 danh hiệu ở Premier League trong màu áo Sheffield United, Northampton, Tottenham, Queens Park Rangers, Aston Villa, Manchester City](https://www.sggp.org.vn/hanh-trinh-dang-ne-cua-kyle-walker-voi-410-ra-san-6-danh-hieu-o-premier-league-trong-mau-ao-sheffield-united-northampton-tottenham-queens-park-rangers-aston-villa-manchester-city-post779983.html) - 12:00 29/01/2025
-- 🦩 [Bình Thuận: Du khách nước ngoài bất ngờ khi nhận lì xì đầu năm mới](https://www.sggp.org.vn/binh-thuan-du-khach-nuoc-ngoai-bat-ngo-khi-nhan-li-xi-dau-nam-moi-post779975.html) - 12:00 29/01/2025
-- 🫶 [Người dân thủ đô tấp nập du xuân chiều mùng 1 Tết Ất Tỵ](https://www.sggp.org.vn/nguoi-dan-thu-do-tap-nap-du-xuan-chieu-mung-1-tet-at-ty-post779976.html) - 11:58 29/01/2025<!-- sggp:END -->
+- 🌮 [Thế đất &quot;chín rồng&quot; khát vọng tương lai](https://www.sggp.org.vn/the-dat-chin-rong-khat-vong-tuong-lai-post778212.html) - 17:00 29/01/2025
+- 🥰 [Chủ tịch RFEF xác nhận Florentino Perez của Real Madrid đã gây sức ép về vấn đề trọng tài](https://www.sggp.org.vn/chu-tich-rfef-xac-nhan-florentino-perez-cua-real-madrid-da-gay-suc-ep-ve-van-de-trong-tai-post779993.html) - 16:50 29/01/2025
+- 🕯 [Cristiano Ronaldo thổi bùng tin đồn kết hôn với Georgina Rodriguez bằng tin nhắn](https://www.sggp.org.vn/cristiano-ronaldo-thoi-bung-tin-don-ket-hon-voi-georgina-rodriguez-bang-tin-nhan-post779992.html) - 16:05 29/01/2025
+- 🙉 [Gần 40 người thiệt mạng do giẫm đạp tại Ấn Độ](https://www.sggp.org.vn/gan-40-nguoi-thiet-mang-do-giam-dap-tai-an-do-post779986.html) - 15:50 29/01/2025
+- 💡 [Rơi máy bay ở Nam Sudan, 20 công nhân dầu khí thiệt mạng](https://www.sggp.org.vn/roi-may-bay-o-nam-sudan-20-cong-nhan-dau-khi-thiet-mang-post779991.html) - 15:45 29/01/2025
+- 💫 [Ngày đầu tiên của năm Ất Tỵ, 205 người nhập viện do pháo và vật liệu nổ](https://www.sggp.org.vn/ngay-dau-tien-cua-nam-at-ty-205-nguoi-nhap-vien-do-phao-va-vat-lieu-no-post779985.html) - 15:29 29/01/2025
+- 🧑‍💻 [Nga để ngỏ khả năng đàm phán với Ukraine](https://www.sggp.org.vn/nga-de-ngo-kha-nang-dam-phan-voi-ukraine-post779987.html) - 14:52 29/01/2025
+- 🎊 [Tăng cường đấu tranh với tội phạm đường phố, giữ bình yên cho người dân vui xuân](https://www.sggp.org.vn/tang-cuong-dau-tranh-voi-toi-pham-duong-pho-giu-binh-yen-cho-nguoi-dan-vui-xuan-post779981.html) - 13:25 29/01/2025
+- 🤖 [Chắp cánh cho thành phố sáng tạo](https://www.sggp.org.vn/chap-canh-cho-thanh-pho-sang-tao-post779435.html) - 13:16 29/01/2025
+- 💫 [Xuyên tết thi công bãi biển đẹp nhất Vũng Tàu](https://www.sggp.org.vn/xuyen-tet-thi-cong-bai-bien-dep-nhat-vung-tau-post779937.html) - 13:03 29/01/2025
+- 👨‍🏫 [Vượt lên nghịch cảnh, đón tết sum vầy](https://www.sggp.org.vn/vuot-len-nghich-canh-don-tet-sum-vay-post779933.html) - 12:21 29/01/2025
+- 🧰 [NSƯT Võ Minh Lâm: Năm mới an vui với nhiều dự án sân khấu đặc biệt](https://www.sggp.org.vn/nsut-vo-minh-lam-nam-moi-an-vui-voi-nhieu-du-an-san-khau-dac-biet-post779951.html) - 12:13 29/01/2025
+- 🥰 [Dàn tuyển thủ Việt Nam xúng xính đón Tết Ất Tỵ 2025](https://www.sggp.org.vn/dan-tuyen-thu-viet-nam-xung-xinh-don-tet-at-ty-2025-post779966.html) - 12:11 29/01/2025
+- 💼 [Tăng cường đảm bảo an toàn trên các công trường giao thông thi công xuyên tết](https://www.sggp.org.vn/tang-cuong-dam-bao-an-toan-tren-cac-cong-truong-giao-thong-thi-cong-xuyen-tet-post779862.html) - 12:09 29/01/2025
+- 🤗 [Đầu xuân Ất Tỵ, khách tấp nập du xuân](https://www.sggp.org.vn/dau-xuan-at-ty-khach-tap-nap-du-xuan-post779972.html) - 12:07 29/01/2025
+- 🦩 [Hành trình đáng nể của Kyle Walker với 410 ra sân, 6 danh hiệu ở Premier League trong màu áo Sheffield United, Northampton, Tottenham, Queens Park Rangers, Aston Villa, Manchester City](https://www.sggp.org.vn/hanh-trinh-dang-ne-cua-kyle-walker-voi-410-ra-san-6-danh-hieu-o-premier-league-trong-mau-ao-sheffield-united-northampton-tottenham-queens-park-rangers-aston-villa-manchester-city-post779983.html) - 12:00 29/01/2025
+- 🫶 [Bình Thuận: Du khách nước ngoài bất ngờ khi nhận lì xì đầu năm mới](https://www.sggp.org.vn/binh-thuan-du-khach-nuoc-ngoai-bat-ngo-khi-nhan-li-xi-dau-nam-moi-post779975.html) - 12:00 29/01/2025<!-- sggp:END -->
 
 ## Báo VTC
 <!-- vtc:START -->
