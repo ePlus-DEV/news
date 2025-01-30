@@ -5,7 +5,7 @@ sidebar_position: 17
 
 <!-- dantri-the-gioi:START -->
 - 🌋 [Chiến sự Ukraine 30/1: Rộ tin Kiev thất thủ ở Chasov Yar, binh sĩ tháo chạy](https://dantri.com.vn/the-gioi/chien-su-ukraine-301-ro-tin-kiev-that-thu-o-chasov-yar-binh-si-thao-chay-20250130110806322.htm) - 04:12 30/01/2025
-- 🎬 [Máy bay chở 64 khách va chạm với trực thăng quân sự Mỹ](https://dantri.com.vn/the-gioi/may-bay-cho-64-khach-va-cham-voi-truc-thang-quan-su-my-20250130110659323.htm) - 04:10 30/01/2025
+- 🎬 [Máy bay chở 60 khách va chạm với trực thăng quân sự Mỹ](https://dantri.com.vn/the-gioi/may-bay-cho-60-khach-va-cham-voi-truc-thang-quan-su-my-20250130110659323.htm) - 04:10 30/01/2025
 - 🧰 [&quot;Đồng hồ ngày tận thế&quot; nhích thêm tới mốc thảm khốc](https://dantri.com.vn/the-gioi/dong-ho-ngay-tan-the-nhich-them-toi-moc-tham-khoc-20250130092201735.htm) - 02:32 30/01/2025
 - 🌋 [Ông Trump ra lệnh chuẩn bị cơ sở giam giữ 30.000 người nhập cư](https://dantri.com.vn/the-gioi/ong-trump-ra-lenh-chuan-bi-co-so-giam-giu-30000-nguoi-nhap-cu-20250130090419378.htm) - 02:26 30/01/2025
 - 🗽 [Máy bay Hàn Quốc chở 176 người bốc cháy dữ dội nghi vì sạc dự phòng](https://dantri.com.vn/the-gioi/may-bay-han-quoc-cho-176-nguoi-boc-chay-du-doi-nghi-vi-sac-du-phong-20250130083545087.htm) - 01:51 30/01/2025
