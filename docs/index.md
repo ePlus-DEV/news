@@ -523,66 +523,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Bảng xếp hạng Europa League: Man United thắng liền 5 trận](https://muctim.tuoitre.vn/bang-xep-hang-europa-league-man-united-thang-lien-5-tran-101250131135138279.htm) - 07:17 31/01/2025
-- 🥷 [Mùng 3 Tết, mời bạn đọc sáng tác của thầy cô về Tết](https://muctim.tuoitre.vn/mung-3-tet-moi-ban-doc-sang-tac-cua-thay-co-ve-tet-101250114130738671.htm) - 01:14 31/01/2025
-- 🤖 [Lâu đài Alnwick &lpar;Anh&rpar;- Phim trường của bộ phim Harry Potter](https://muctim.tuoitre.vn/lau-dai-alnwick-anh-phim-truong-cua-bo-phim-harry-potter-101250127065339695.htm) - 01:04 31/01/2025
-- 🤓 [Sau Tết Nguyên đán, người Việt còn đón Tết nào nữa trong năm Ất Tỵ 2025?](https://muctim.tuoitre.vn/sau-tet-nguyen-dan-nguoi-viet-con-don-tet-nao-nua-trong-nam-at-ty-2025-101250130151224986.htm) - 01:01 31/01/2025
-- 🎉 [Mùng 3 Tết của 12 cung hoàng đạo &lpar;31-1&rpar;: Xử Nữ tình cảm thăng hoa](https://muctim.tuoitre.vn/mung-3-tet-cua-12-cung-hoang-dao-31-1-xu-nu-tinh-cam-thang-hoa-101250131075916514.htm) - 00:59 31/01/2025
-- 👨‍🏫 [Thời tiết hôm nay mùng 3 Tết: Bắc Bộ rét, Trung Bộ có mưa, Nam Bộ cảnh báo triều cường](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-mung-3-tet-bac-bo-ret-trung-bo-co-mua-nam-bo-canh-bao-trieu-cuong-101250131005139975.htm) - 00:42 31/01/2025
-- 🚦 [20 lời chúc Tết ý nghĩa dành cho thầy cô giáo nhân dịp Tết Ất Tỵ 2025](https://muctim.tuoitre.vn/20-loi-chuc-tet-y-nghia-danh-cho-thay-co-giao-nhan-dip-tet-at-ty-2025-101250130221454937.htm) - 00:15 31/01/2025
-- 🤭 [Nàng tiên cá Ánh Viên muốn đi khắp Việt Nam dạy bơi cho trẻ em](https://muctim.tuoitre.vn/nang-tien-ca-anh-vien-muon-di-khap-viet-nam-day-boi-cho-tre-em-101250115150015124.htm) - 00:00 31/01/2025
-- 😺 [Cách đăng ký vé tháng đi metro dành cho học sinh, sinh viên](https://muctim.tuoitre.vn/cach-dang-ky-ve-thang-di-metro-danh-cho-hoc-sinh-sinh-vien-101250130174856.htm) - 13:55 30/01/2025
-- 😎 [Đến nhà Bạch công tử ở Tiền Giang làm bộ ảnh Tết](https://muctim.tuoitre.vn/den-nha-bach-cong-tu-o-tien-giang-lam-bo-anh-tet-101250130170752132.htm) - 13:45 30/01/2025
-- 🐎 [Còn bao nhiêu ngày nữa đến Tết Nguyên đán Bính Ngọ 2026?](https://muctim.tuoitre.vn/con-bao-nhieu-ngay-nua-den-tet-nguyen-dan-binh-ngo-2026-101250130182807143.htm) - 13:37 30/01/2025
-- 🎓 [Tết &quot;xõa hết mình&quot;, qua Tết tính tiếp, có ổn không?](https://muctim.tuoitre.vn/tet-xoa-het-minh-qua-tet-tinh-tiep-co-on-khong-101250128132414854.htm) - 12:00 30/01/2025
-- 🐎 [Chuyện kể từ gia đình &#39;đa văn hoá&#39;](https://muctim.tuoitre.vn/chuyen-ke-tu-gia-dinh-da-van-hoa-101250127183729562.htm) - 12:00 30/01/2025
-- 💃 [Tham quan Đường hoa Tiền Giang, du khách thích thú ngắm rắn thật](https://muctim.tuoitre.vn/tham-quan-duong-hoa-tien-giang-du-khach-thich-thu-ngam-ran-that-101250130142846834.htm) - 10:07 30/01/2025
-- 🪜 [Ba ơi, Tết này con đã lớn rồi!](https://muctim.tuoitre.vn/ba-oi-tet-nay-con-da-lon-roi-101250124155613569.htm) - 09:05 30/01/2025
-- 🎉 [Play-off Champions League: Nhiều cặp đấu hấp dẫn](https://muctim.tuoitre.vn/play-off-champions-league-nhieu-cap-dau-hap-dan-101250130140821436.htm) - 08:49 30/01/2025
-- 🥳 [Yêu văn hóa Việt, gen Z chọn áo dài du xuân](https://muctim.tuoitre.vn/yeu-van-hoa-viet-gen-z-chon-ao-dai-du-xuan-101250130144730863.htm) - 08:09 30/01/2025
-- 🤓 [4 phim lãng mạn không kém Love scout thích hợp xem trong Tết](https://muctim.tuoitre.vn/4-phim-lang-man-khong-kem-love-scout-thich-hop-xem-trong-tet-101250122163640194.htm) - 08:00 30/01/2025
-- 🎉 [Linh vật rắn ở Đồng bằng sông Cửu Long: tỉnh nào &quot;chất&quot; nhất?](https://muctim.tuoitre.vn/linh-vat-ran-o-dong-bang-song-cuu-long-tinh-nao-chat-nhat-101250126133028777.htm) - 04:58 30/01/2025
-- 🥳 [Tin triều cường tại TP.HCM và Nam Bộ ngày mùng 2 Tết](https://muctim.tuoitre.vn/tin-trieu-cuong-tai-tphcm-va-nam-bo-ngay-mung-2-tet-10125013009405804.htm) - 03:30 30/01/2025
-- 🎡 [Cách xem lại trọn vẹn Gặp nhau cuối năm - Táo quân 2025](https://muctim.tuoitre.vn/cach-xem-lai-tron-ven-gap-nhau-cuoi-nam-tao-quan-2025-101250130101441879.htm) - 03:27 30/01/2025
-- 👨‍🏫 [Chuyện những người trẻ vươn mình ra biển lớn](https://muctim.tuoitre.vn/chuyen-nhung-nguoi-tre-vuon-minh-ra-bien-lon-101250127192943186.htm) - 02:00 30/01/2025
-- 🧠 [Tranh x Trend x Troll: Ăn Tết bên cồn](https://muctim.tuoitre.vn/tranh-x-trend-x-troll-an-tet-ben-con-101250114144548508.htm) - 02:00 30/01/2025
-- 🥷 [Cùng check-in &#39;lấy vía&#39; may mắn với &#39;tứ quý&#39; của Thảo cầm viên dịp Tết Ất Tỵ 2025](https://muctim.tuoitre.vn/cung-check-in-lay-via-may-man-voi-tu-quy-cua-thao-cam-vien-dip-tet-at-ty-2025-101250117151101034.htm) - 01:51 30/01/2025
-- 🤔 [Tết là một sự khởi đầu, là cơ hội để bước tới](https://muctim.tuoitre.vn/tet-la-mot-su-khoi-dau-la-co-hoi-de-buoc-toi-101250124153202392.htm) - 01:19 30/01/2025
-- 🐎 [Cậu bạn Quảng Ngãi mang chổi đót vào cuộc thi hoa hậu](https://muctim.tuoitre.vn/cau-ban-quang-ngai-mang-choi-dot-vao-cuoc-thi-hoa-hau-101250127090605412.htm) - 01:05 30/01/2025
-- ⛽️ [Uyển Ân &lpar;Bộ tứ báo thủ&rpar;: Anh Trấn Thành khuyên tôi cố gắng làm việc để khán giả gọi bằng tên riêng](https://muctim.tuoitre.vn/uyen-an-bo-tu-bao-thu-anh-tran-thanh-khuyen-toi-co-gang-lam-viec-de-khan-gia-goi-bang-ten-rieng-101250129223929901.htm) - 00:53 30/01/2025
-- 🤡 [Mùng 2 của 12 cung hoàng đạo &lpar;30-1&rpar;: Ma Kết tiền vô như nước](https://muctim.tuoitre.vn/mung-2-cua-12-cung-hoang-dao-30-1-ma-ket-tien-vo-nhu-nuoc-101250130074444828.htm) - 00:44 30/01/2025
-- 🌁 [Thời tiết hôm nay mùng 2 Tết: Nam Bộ lạnh sáng sớm, nhiệt độ có nơi xuống dưới 19 độ](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-mung-2-tet-nam-bo-lanh-sang-som-nhiet-do-co-noi-xuong-duoi-19-do-101250130073205481.htm) - 00:32 30/01/2025
-- 🎓 [Bảng xếp hạng Champions League: Man City, Real Madrid phải đá play-off.](https://muctim.tuoitre.vn/bang-xep-hang-champions-league-man-city-real-madrid-phai-da-play-off-101250130054124861.htm) - 00:02 30/01/2025
-- 🦍 [Check-in ngay địa điểm chụp ảnh Tết đang hút giới trẻ tại Bến Tre](https://muctim.tuoitre.vn/check-in-ngay-dia-diem-chup-anh-tet-dang-hut-gioi-tre-tai-ben-tre-101250128152754134.htm) - 00:00 30/01/2025
-- 🤠 [Năm Ất Tỵ, thử tài hiểu biết với 5 câu thành ngữ, ca dao về rắn](https://muctim.tuoitre.vn/nam-at-ty-thu-tai-hieu-biet-voi-5-cau-thanh-ngu-ca-dao-ve-ran-101250129175818456.htm) - 13:07 29/01/2025
-- 🎬 [Truyện ngắn Mực Tím: Bao lì xì ký ức](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-bao-li-xi-ky-uc-101250114114447629.htm) - 13:00 29/01/2025
-- 🌮 [Năm mới, mình chúc bạn...](https://muctim.tuoitre.vn/nam-moi-minh-chuc-ban-101250114142701157.htm) - 12:00 29/01/2025
-- 👹 [Tết này lên Đà Lạt ngắm mai anh đào](https://muctim.tuoitre.vn/tet-nay-len-da-lat-ngam-mai-anh-dao-10125012812520758.htm) - 11:00 29/01/2025
-- 🤔 [5 phim lẻ Hàn Quốc &quot;nóng hổi&quot; thích hợp xem ngày Tết](https://muctim.tuoitre.vn/5-phim-le-han-quoc-nong-hoi-thich-hop-xem-ngay-tet-10125011709574208.htm) - 10:00 29/01/2025
-- 🏊 [Người dân du xuân tại hội hoa xuân, đường hoa Nguyễn Huệ dịp Tết Ất Tỵ](https://muctim.tuoitre.vn/nguoi-dan-du-xuan-tai-hoi-hoa-xuan-duong-hoa-nguyen-hue-dip-tet-at-ty-101250129153649717.htm) - 08:56 29/01/2025
-- 📝 [Kaity Nguyễn: Đã quen đón Tết di động nên đi cinetour chỉ là chuyện nhỏ](https://muctim.tuoitre.vn/kaity-nguyen-da-quen-don-tet-di-dong-nen-di-cinetour-chi-la-chuyen-nho-101250129144018848.htm) - 08:20 29/01/2025
-- 👺 [Mách bạn 5 ý tưởng lì xì độc đáo cho năm mới](https://muctim.tuoitre.vn/mach-ban-5-y-tuong-li-xi-doc-dao-cho-nam-moi-10125012913212569.htm) - 08:20 29/01/2025
-- 👹 [4 từ khóa năm mới dành riêng cho bạn trẻ](https://muctim.tuoitre.vn/4-tu-khoa-nam-moi-danh-rieng-cho-ban-tre-101250128191425486.htm) - 08:00 29/01/2025
-- 🎊 [Cách chơi trò chơi của Google về năm Ất Tỵ 2025](https://muctim.tuoitre.vn/cach-choi-tro-choi-cua-google-ve-nam-at-ty-2025-101250129095427538.htm) - 02:58 29/01/2025
-- 👹 [Xông đất những gen Z tài năng, nghe bật mí thói quen đầu năm mới](https://muctim.tuoitre.vn/xong-dat-nhung-gen-z-tai-nang-nghe-bat-mi-thoi-quen-dau-nam-moi-101250127211648572.htm) - 02:00 29/01/2025
-- 🎃 [Đóng chính Ngũ phúc lâm môn, Lư Dục Hiểu được khen vì điều này](https://muctim.tuoitre.vn/dong-chinh-ngu-phuc-lam-mon-lu-duc-hieu-duoc-khen-vi-dieu-nay-101250128153150817.htm) - 01:00 29/01/2025
-- 🧑‍🏫 [Bỏ túi 6 điểm check-in áo dài đậm chất Tết Hà Nội](https://muctim.tuoitre.vn/bo-tui-6-diem-check-in-ao-dai-dam-chat-tet-ha-noi-101250128233115723.htm) - 00:23 29/01/2025
-- 🎊 [Hoa hậu Đoàn Thiên Ân: Mùng 1 ăn Tết cùng ba, mùng 2 ăn Tết cùng khán giả](https://muctim.tuoitre.vn/hoa-hau-doan-thien-an-mung-1-an-tet-cung-ba-mung-2-an-tet-cung-khan-gia-10125012900303164.htm) - 00:18 29/01/2025
-- 📝 [Cách tạo thiệp chúc mừng năm mới online bằng Canva](https://muctim.tuoitre.vn/cach-tao-thiep-chuc-mung-nam-moi-online-bang-canva-101250129043518583.htm) - 00:17 29/01/2025
-- 🥳 [Gợi ý mục tiêu năm mới Tết Ất Tỵ 2025 theo 12 cung hoàng đạo](https://muctim.tuoitre.vn/goi-y-muc-tieu-nam-moi-tet-at-ty-2025-theo-12-cung-hoang-dao-101250124152341148.htm) - 00:00 29/01/2025
-- 💻 [Danh sách các quán cà phê mở xuyên Tết ở TP.HCM](https://muctim.tuoitre.vn/danh-sach-cac-quan-ca-phe-mo-xuyen-tet-o-tphcm-10125012806092618.htm) - 23:30 28/01/2025
-- 😎 [Mùng 1 Tết của 12 cung hoàng đạo &lpar;29-1&rpar;: Khởi đầu hoàn hảo cho Bạch Dương](https://muctim.tuoitre.vn/mung-1-tet-cua-12-cung-hoang-dao-29-1-khoi-dau-hoan-hao-cho-bach-duong-101250128215919273.htm) - 23:00 28/01/2025
-- 🤭 [Du xuân Tết Ất Tỵ nhớ ghé thăm 4 ngôi chùa này tại TP Thủ Đức](https://muctim.tuoitre.vn/du-xuan-tet-at-ty-nho-ghe-tham-4-ngoi-chua-nay-tai-tp-thu-duc-101250116214906108.htm) - 23:00 28/01/2025
-- 🤩 [Chiếc áo chọn mặc ngày Tết nói gì về bạn?](https://muctim.tuoitre.vn/chiec-ao-chon-mac-ngay-tet-noi-gi-ve-ban-101250103154634574.htm) - 23:00 28/01/2025
-- 🚀 [Ngắm drone và pháo hoa tuyệt đẹp tại đường hầm sông Sài Gòn](https://muctim.tuoitre.vn/ngam-drone-va-phao-hoa-tuyet-dep-tai-duong-ham-song-sai-gon-101250129002957617.htm) - 17:48 28/01/2025
-- 🕴 [Vòng quay may mắn mang đến cho bạn chữ gì đầu năm Ất Tỵ 2025?](https://muctim.tuoitre.vn/vong-quay-may-man-mang-den-cho-ban-chu-gi-dau-nam-at-ty-2025-101250128140406791.htm) - 17:00 28/01/2025
-- ⛽️ [Cả nước đón giao thừa Tết Ất Tỵ 2025](https://muctim.tuoitre.vn/ca-nuoc-don-giao-thua-tet-at-ty-2025-10125012819561631.htm) - 15:37 28/01/2025
-- 🧐 [Tết mới, hương sắc mới](https://muctim.tuoitre.vn/tet-moi-huong-sac-moi-101250124154001485.htm) - 15:25 28/01/2025
-- 🦆 [Giữ hồn Tết xưa trong nhịp sống hiện đại](https://muctim.tuoitre.vn/giu-hon-tet-xua-trong-nhip-song-hien-dai-101250124154510771.htm) - 15:10 28/01/2025
-- 🤖 [Teen ước gì trước thềm năm mới Tết Ất Tỵ 2025?](https://muctim.tuoitre.vn/teen-uoc-gi-truoc-them-nam-moi-tet-at-ty-2025-101250128181927469.htm) - 13:51 28/01/2025
-- 💃 [Bạn trẻ trả lời thế nào trước những câu hỏi thăm &#39;khó xử&#39; ngày Tết?](https://muctim.tuoitre.vn/ban-tre-tra-loi-the-nao-truoc-nhung-cau-hoi-tham-kho-xu-ngay-tet-101250127175121118.htm) - 13:11 28/01/2025
-- 🚀 [Gửi bạn loạt caption Tết ấn tượng đăng trang cá nhân](https://muctim.tuoitre.vn/gui-ban-loat-caption-tet-an-tuong-dang-trang-ca-nhan-101250128163633134.htm) - 12:45 28/01/2025
-- 🦍 [12 status chào Tết Ất Tỵ 2025 hay và ý nghĩa nhất](https://muctim.tuoitre.vn/12-status-chao-tet-at-ty-2025-hay-va-y-nghia-nhat-101250128134622838.htm) - 12:00 28/01/2025<!-- muctim:END -->
+- 🤔 [Quiz: Món ăn yêu thích ngày Tết nói lên điều gì về bạn?](https://muctim.tuoitre.vn/quiz-mon-an-yeu-thich-ngay-tet-noi-len-dieu-gi-ve-ban-101250110142307755.htm) - 11:20 31/01/2025
+- 🥷 [Bảng xếp hạng Europa League: Man United thắng liền 5 trận](https://muctim.tuoitre.vn/bang-xep-hang-europa-league-man-united-thang-lien-5-tran-101250131135138279.htm) - 07:17 31/01/2025
+- 🤖 [Mùng 3 Tết, mời bạn đọc sáng tác của thầy cô về Tết](https://muctim.tuoitre.vn/mung-3-tet-moi-ban-doc-sang-tac-cua-thay-co-ve-tet-101250114130738671.htm) - 01:14 31/01/2025
+- 🤓 [Lâu đài Alnwick &lpar;Anh&rpar;- Phim trường của bộ phim Harry Potter](https://muctim.tuoitre.vn/lau-dai-alnwick-anh-phim-truong-cua-bo-phim-harry-potter-101250127065339695.htm) - 01:04 31/01/2025
+- 🎉 [Sau Tết Nguyên đán, người Việt còn đón Tết nào nữa trong năm Ất Tỵ 2025?](https://muctim.tuoitre.vn/sau-tet-nguyen-dan-nguoi-viet-con-don-tet-nao-nua-trong-nam-at-ty-2025-101250130151224986.htm) - 01:01 31/01/2025
+- 👨‍🏫 [Mùng 3 Tết của 12 cung hoàng đạo &lpar;31-1&rpar;: Xử Nữ tình cảm thăng hoa](https://muctim.tuoitre.vn/mung-3-tet-cua-12-cung-hoang-dao-31-1-xu-nu-tinh-cam-thang-hoa-101250131075916514.htm) - 00:59 31/01/2025
+- 🚦 [Thời tiết hôm nay mùng 3 Tết: Bắc Bộ rét, Trung Bộ có mưa, Nam Bộ cảnh báo triều cường](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-mung-3-tet-bac-bo-ret-trung-bo-co-mua-nam-bo-canh-bao-trieu-cuong-101250131005139975.htm) - 00:42 31/01/2025
+- 🤭 [20 lời chúc Tết ý nghĩa dành cho thầy cô giáo nhân dịp Tết Ất Tỵ 2025](https://muctim.tuoitre.vn/20-loi-chuc-tet-y-nghia-danh-cho-thay-co-giao-nhan-dip-tet-at-ty-2025-101250130221454937.htm) - 00:15 31/01/2025
+- 😺 [Nàng tiên cá Ánh Viên muốn đi khắp Việt Nam dạy bơi cho trẻ em](https://muctim.tuoitre.vn/nang-tien-ca-anh-vien-muon-di-khap-viet-nam-day-boi-cho-tre-em-101250115150015124.htm) - 00:00 31/01/2025
+- 😎 [Cách đăng ký vé tháng đi metro dành cho học sinh, sinh viên](https://muctim.tuoitre.vn/cach-dang-ky-ve-thang-di-metro-danh-cho-hoc-sinh-sinh-vien-101250130174856.htm) - 13:55 30/01/2025
+- 🐎 [Đến nhà Bạch công tử ở Tiền Giang làm bộ ảnh Tết](https://muctim.tuoitre.vn/den-nha-bach-cong-tu-o-tien-giang-lam-bo-anh-tet-101250130170752132.htm) - 13:45 30/01/2025
+- 🎓 [Còn bao nhiêu ngày nữa đến Tết Nguyên đán Bính Ngọ 2026?](https://muctim.tuoitre.vn/con-bao-nhieu-ngay-nua-den-tet-nguyen-dan-binh-ngo-2026-101250130182807143.htm) - 13:37 30/01/2025
+- 🐎 [Tết &quot;xõa hết mình&quot;, qua Tết tính tiếp, có ổn không?](https://muctim.tuoitre.vn/tet-xoa-het-minh-qua-tet-tinh-tiep-co-on-khong-101250128132414854.htm) - 12:00 30/01/2025
+- 💃 [Chuyện kể từ gia đình &#39;đa văn hoá&#39;](https://muctim.tuoitre.vn/chuyen-ke-tu-gia-dinh-da-van-hoa-101250127183729562.htm) - 12:00 30/01/2025
+- 🪜 [Tham quan Đường hoa Tiền Giang, du khách thích thú ngắm rắn thật](https://muctim.tuoitre.vn/tham-quan-duong-hoa-tien-giang-du-khach-thich-thu-ngam-ran-that-101250130142846834.htm) - 10:07 30/01/2025
+- 🎉 [Ba ơi, Tết này con đã lớn rồi!](https://muctim.tuoitre.vn/ba-oi-tet-nay-con-da-lon-roi-101250124155613569.htm) - 09:05 30/01/2025
+- 🥳 [Play-off Champions League: Nhiều cặp đấu hấp dẫn](https://muctim.tuoitre.vn/play-off-champions-league-nhieu-cap-dau-hap-dan-101250130140821436.htm) - 08:49 30/01/2025
+- 🤓 [Yêu văn hóa Việt, gen Z chọn áo dài du xuân](https://muctim.tuoitre.vn/yeu-van-hoa-viet-gen-z-chon-ao-dai-du-xuan-101250130144730863.htm) - 08:09 30/01/2025
+- 🎉 [4 phim lãng mạn không kém Love scout thích hợp xem trong Tết](https://muctim.tuoitre.vn/4-phim-lang-man-khong-kem-love-scout-thich-hop-xem-trong-tet-101250122163640194.htm) - 08:00 30/01/2025
+- 🥳 [Linh vật rắn ở Đồng bằng sông Cửu Long: tỉnh nào &quot;chất&quot; nhất?](https://muctim.tuoitre.vn/linh-vat-ran-o-dong-bang-song-cuu-long-tinh-nao-chat-nhat-101250126133028777.htm) - 04:58 30/01/2025
+- 🎡 [Tin triều cường tại TP.HCM và Nam Bộ ngày mùng 2 Tết](https://muctim.tuoitre.vn/tin-trieu-cuong-tai-tphcm-va-nam-bo-ngay-mung-2-tet-10125013009405804.htm) - 03:30 30/01/2025
+- 👨‍🏫 [Cách xem lại trọn vẹn Gặp nhau cuối năm - Táo quân 2025](https://muctim.tuoitre.vn/cach-xem-lai-tron-ven-gap-nhau-cuoi-nam-tao-quan-2025-101250130101441879.htm) - 03:27 30/01/2025
+- 🧠 [Chuyện những người trẻ vươn mình ra biển lớn](https://muctim.tuoitre.vn/chuyen-nhung-nguoi-tre-vuon-minh-ra-bien-lon-101250127192943186.htm) - 02:00 30/01/2025
+- 🥷 [Tranh x Trend x Troll: Ăn Tết bên cồn](https://muctim.tuoitre.vn/tranh-x-trend-x-troll-an-tet-ben-con-101250114144548508.htm) - 02:00 30/01/2025
+- 🤔 [Cùng check-in &#39;lấy vía&#39; may mắn với &#39;tứ quý&#39; của Thảo cầm viên dịp Tết Ất Tỵ 2025](https://muctim.tuoitre.vn/cung-check-in-lay-via-may-man-voi-tu-quy-cua-thao-cam-vien-dip-tet-at-ty-2025-101250117151101034.htm) - 01:51 30/01/2025
+- 🐎 [Tết là một sự khởi đầu, là cơ hội để bước tới](https://muctim.tuoitre.vn/tet-la-mot-su-khoi-dau-la-co-hoi-de-buoc-toi-101250124153202392.htm) - 01:19 30/01/2025
+- ⛽️ [Cậu bạn Quảng Ngãi mang chổi đót vào cuộc thi hoa hậu](https://muctim.tuoitre.vn/cau-ban-quang-ngai-mang-choi-dot-vao-cuoc-thi-hoa-hau-101250127090605412.htm) - 01:05 30/01/2025
+- 🤡 [Uyển Ân &lpar;Bộ tứ báo thủ&rpar;: Anh Trấn Thành khuyên tôi cố gắng làm việc để khán giả gọi bằng tên riêng](https://muctim.tuoitre.vn/uyen-an-bo-tu-bao-thu-anh-tran-thanh-khuyen-toi-co-gang-lam-viec-de-khan-gia-goi-bang-ten-rieng-101250129223929901.htm) - 00:53 30/01/2025
+- 🌁 [Mùng 2 của 12 cung hoàng đạo &lpar;30-1&rpar;: Ma Kết tiền vô như nước](https://muctim.tuoitre.vn/mung-2-cua-12-cung-hoang-dao-30-1-ma-ket-tien-vo-nhu-nuoc-101250130074444828.htm) - 00:44 30/01/2025
+- 🎓 [Thời tiết hôm nay mùng 2 Tết: Nam Bộ lạnh sáng sớm, nhiệt độ có nơi xuống dưới 19 độ](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-mung-2-tet-nam-bo-lanh-sang-som-nhiet-do-co-noi-xuong-duoi-19-do-101250130073205481.htm) - 00:32 30/01/2025
+- 🦍 [Bảng xếp hạng Champions League: Man City, Real Madrid phải đá play-off.](https://muctim.tuoitre.vn/bang-xep-hang-champions-league-man-city-real-madrid-phai-da-play-off-101250130054124861.htm) - 00:02 30/01/2025
+- 🤠 [Check-in ngay địa điểm chụp ảnh Tết đang hút giới trẻ tại Bến Tre](https://muctim.tuoitre.vn/check-in-ngay-dia-diem-chup-anh-tet-dang-hut-gioi-tre-tai-ben-tre-101250128152754134.htm) - 00:00 30/01/2025
+- 🎬 [Năm Ất Tỵ, thử tài hiểu biết với 5 câu thành ngữ, ca dao về rắn](https://muctim.tuoitre.vn/nam-at-ty-thu-tai-hieu-biet-voi-5-cau-thanh-ngu-ca-dao-ve-ran-101250129175818456.htm) - 13:07 29/01/2025
+- 🌮 [Truyện ngắn Mực Tím: Bao lì xì ký ức](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-bao-li-xi-ky-uc-101250114114447629.htm) - 13:00 29/01/2025
+- 👹 [Năm mới, mình chúc bạn...](https://muctim.tuoitre.vn/nam-moi-minh-chuc-ban-101250114142701157.htm) - 12:00 29/01/2025
+- 🤔 [Tết này lên Đà Lạt ngắm mai anh đào](https://muctim.tuoitre.vn/tet-nay-len-da-lat-ngam-mai-anh-dao-10125012812520758.htm) - 11:00 29/01/2025
+- 🏊 [5 phim lẻ Hàn Quốc &quot;nóng hổi&quot; thích hợp xem ngày Tết](https://muctim.tuoitre.vn/5-phim-le-han-quoc-nong-hoi-thich-hop-xem-ngay-tet-10125011709574208.htm) - 10:00 29/01/2025
+- 📝 [Người dân du xuân tại hội hoa xuân, đường hoa Nguyễn Huệ dịp Tết Ất Tỵ](https://muctim.tuoitre.vn/nguoi-dan-du-xuan-tai-hoi-hoa-xuan-duong-hoa-nguyen-hue-dip-tet-at-ty-101250129153649717.htm) - 08:56 29/01/2025
+- 👺 [Kaity Nguyễn: Đã quen đón Tết di động nên đi cinetour chỉ là chuyện nhỏ](https://muctim.tuoitre.vn/kaity-nguyen-da-quen-don-tet-di-dong-nen-di-cinetour-chi-la-chuyen-nho-101250129144018848.htm) - 08:20 29/01/2025
+- 👹 [Mách bạn 5 ý tưởng lì xì độc đáo cho năm mới](https://muctim.tuoitre.vn/mach-ban-5-y-tuong-li-xi-doc-dao-cho-nam-moi-10125012913212569.htm) - 08:20 29/01/2025
+- 🎊 [4 từ khóa năm mới dành riêng cho bạn trẻ](https://muctim.tuoitre.vn/4-tu-khoa-nam-moi-danh-rieng-cho-ban-tre-101250128191425486.htm) - 08:00 29/01/2025
+- 👹 [Cách chơi trò chơi của Google về năm Ất Tỵ 2025](https://muctim.tuoitre.vn/cach-choi-tro-choi-cua-google-ve-nam-at-ty-2025-101250129095427538.htm) - 02:58 29/01/2025
+- 🎃 [Xông đất những gen Z tài năng, nghe bật mí thói quen đầu năm mới](https://muctim.tuoitre.vn/xong-dat-nhung-gen-z-tai-nang-nghe-bat-mi-thoi-quen-dau-nam-moi-101250127211648572.htm) - 02:00 29/01/2025
+- 🧑‍🏫 [Đóng chính Ngũ phúc lâm môn, Lư Dục Hiểu được khen vì điều này](https://muctim.tuoitre.vn/dong-chinh-ngu-phuc-lam-mon-lu-duc-hieu-duoc-khen-vi-dieu-nay-101250128153150817.htm) - 01:00 29/01/2025
+- 🎊 [Bỏ túi 6 điểm check-in áo dài đậm chất Tết Hà Nội](https://muctim.tuoitre.vn/bo-tui-6-diem-check-in-ao-dai-dam-chat-tet-ha-noi-101250128233115723.htm) - 00:23 29/01/2025
+- 📝 [Hoa hậu Đoàn Thiên Ân: Mùng 1 ăn Tết cùng ba, mùng 2 ăn Tết cùng khán giả](https://muctim.tuoitre.vn/hoa-hau-doan-thien-an-mung-1-an-tet-cung-ba-mung-2-an-tet-cung-khan-gia-10125012900303164.htm) - 00:18 29/01/2025
+- 🥳 [Cách tạo thiệp chúc mừng năm mới online bằng Canva](https://muctim.tuoitre.vn/cach-tao-thiep-chuc-mung-nam-moi-online-bang-canva-101250129043518583.htm) - 00:17 29/01/2025
+- 💻 [Gợi ý mục tiêu năm mới Tết Ất Tỵ 2025 theo 12 cung hoàng đạo](https://muctim.tuoitre.vn/goi-y-muc-tieu-nam-moi-tet-at-ty-2025-theo-12-cung-hoang-dao-101250124152341148.htm) - 00:00 29/01/2025
+- 😎 [Danh sách các quán cà phê mở xuyên Tết ở TP.HCM](https://muctim.tuoitre.vn/danh-sach-cac-quan-ca-phe-mo-xuyen-tet-o-tphcm-10125012806092618.htm) - 23:30 28/01/2025
+- 🤭 [Mùng 1 Tết của 12 cung hoàng đạo &lpar;29-1&rpar;: Khởi đầu hoàn hảo cho Bạch Dương](https://muctim.tuoitre.vn/mung-1-tet-cua-12-cung-hoang-dao-29-1-khoi-dau-hoan-hao-cho-bach-duong-101250128215919273.htm) - 23:00 28/01/2025
+- 🤩 [Du xuân Tết Ất Tỵ nhớ ghé thăm 4 ngôi chùa này tại TP Thủ Đức](https://muctim.tuoitre.vn/du-xuan-tet-at-ty-nho-ghe-tham-4-ngoi-chua-nay-tai-tp-thu-duc-101250116214906108.htm) - 23:00 28/01/2025
+- 🚀 [Chiếc áo chọn mặc ngày Tết nói gì về bạn?](https://muctim.tuoitre.vn/chiec-ao-chon-mac-ngay-tet-noi-gi-ve-ban-101250103154634574.htm) - 23:00 28/01/2025
+- 🕴 [Ngắm drone và pháo hoa tuyệt đẹp tại đường hầm sông Sài Gòn](https://muctim.tuoitre.vn/ngam-drone-va-phao-hoa-tuyet-dep-tai-duong-ham-song-sai-gon-101250129002957617.htm) - 17:48 28/01/2025
+- ⛽️ [Vòng quay may mắn mang đến cho bạn chữ gì đầu năm Ất Tỵ 2025?](https://muctim.tuoitre.vn/vong-quay-may-man-mang-den-cho-ban-chu-gi-dau-nam-at-ty-2025-101250128140406791.htm) - 17:00 28/01/2025
+- 🧐 [Cả nước đón giao thừa Tết Ất Tỵ 2025](https://muctim.tuoitre.vn/ca-nuoc-don-giao-thua-tet-at-ty-2025-10125012819561631.htm) - 15:37 28/01/2025
+- 🦆 [Tết mới, hương sắc mới](https://muctim.tuoitre.vn/tet-moi-huong-sac-moi-101250124154001485.htm) - 15:25 28/01/2025
+- 🤖 [Giữ hồn Tết xưa trong nhịp sống hiện đại](https://muctim.tuoitre.vn/giu-hon-tet-xua-trong-nhip-song-hien-dai-101250124154510771.htm) - 15:10 28/01/2025
+- 💃 [Teen ước gì trước thềm năm mới Tết Ất Tỵ 2025?](https://muctim.tuoitre.vn/teen-uoc-gi-truoc-them-nam-moi-tet-at-ty-2025-101250128181927469.htm) - 13:51 28/01/2025
+- 🚀 [Bạn trẻ trả lời thế nào trước những câu hỏi thăm &#39;khó xử&#39; ngày Tết?](https://muctim.tuoitre.vn/ban-tre-tra-loi-the-nao-truoc-nhung-cau-hoi-tham-kho-xu-ngay-tet-101250127175121118.htm) - 13:11 28/01/2025
+- 🦍 [Gửi bạn loạt caption Tết ấn tượng đăng trang cá nhân](https://muctim.tuoitre.vn/gui-ban-loat-caption-tet-an-tuong-dang-trang-ca-nhan-101250128163633134.htm) - 12:45 28/01/2025<!-- muctim:END -->
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
