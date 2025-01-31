@@ -4,12 +4,12 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Real Madrid đại chiến Man City ở vòng play-off Champions League](https://dantri.com.vn/the-thao/real-madrid-dai-chien-man-city-o-vong-play-off-champions-league-20250131182622563.htm) - 11:26 31/01/2025
-- 💯 [HLV Pep Guardiola lại tự cào rách trán, thừa nhận đáng buồn về Man City](https://dantri.com.vn/the-thao/hlv-pep-guardiola-lai-tu-cao-rach-tran-thua-nhan-dang-buon-ve-man-city-20250131130015641.htm) - 07:00 31/01/2025
-- ⛽️ [Báo Thái Lan tiết lộ HLV Kim Sang Sik sắp gọi hai cầu thủ Việt kiều](https://dantri.com.vn/the-thao/bao-thai-lan-tiet-lo-hlv-kim-sang-sik-sap-goi-hai-cau-thu-viet-kieu-20250131132819170.htm) - 06:27 31/01/2025
-- 💃 [HLV Amorim tự tin tuyên bố Man Utd đủ sức vô địch Europa League](https://dantri.com.vn/the-thao/hlv-amorim-tu-tin-tuyen-bo-man-utd-du-suc-vo-dich-europa-league-20250131085322087.htm) - 04:22 31/01/2025
-- 🌈 [Hôm nay bốc thăm vòng knock-out Champions League theo thể thức mới lạ](https://dantri.com.vn/the-thao/hom-nay-boc-tham-vong-knock-out-champions-league-theo-the-thuc-moi-la-20250130112329140.htm) - 02:23 31/01/2025
-- 🦅 [Những đối thủ mà Man Utd, Tottenham có thể đối đầu ở vòng 1/8 Europa League](https://dantri.com.vn/the-thao/nhung-doi-thu-ma-man-utd-tottenham-co-the-doi-dau-o-vong-18-europa-league-20250131081617119.htm) - 01:18 31/01/2025
+- 🎡 [Những đối thủ mà Man Utd, Tottenham có thể đối đầu ở vòng 1/8 Europa League](https://dantri.com.vn/the-thao/nhung-doi-thu-ma-man-utd-tottenham-co-the-doi-dau-o-vong-18-europa-league-20250131081617119.htm) - 12:18 31/01/2025
+- 💯 [Real Madrid đại chiến Man City ở vòng play-off Champions League](https://dantri.com.vn/the-thao/real-madrid-dai-chien-man-city-o-vong-play-off-champions-league-20250131182622563.htm) - 11:26 31/01/2025
+- ⛽️ [HLV Pep Guardiola lại tự cào rách trán, thừa nhận đáng buồn về Man City](https://dantri.com.vn/the-thao/hlv-pep-guardiola-lai-tu-cao-rach-tran-thua-nhan-dang-buon-ve-man-city-20250131130015641.htm) - 07:00 31/01/2025
+- 💃 [Báo Thái Lan tiết lộ HLV Kim Sang Sik sắp gọi hai cầu thủ Việt kiều](https://dantri.com.vn/the-thao/bao-thai-lan-tiet-lo-hlv-kim-sang-sik-sap-goi-hai-cau-thu-viet-kieu-20250131132819170.htm) - 06:27 31/01/2025
+- 🌈 [HLV Amorim tự tin tuyên bố Man Utd đủ sức vô địch Europa League](https://dantri.com.vn/the-thao/hlv-amorim-tu-tin-tuyen-bo-man-utd-du-suc-vo-dich-europa-league-20250131085322087.htm) - 04:22 31/01/2025
+- 🦅 [Hôm nay bốc thăm vòng knock-out Champions League theo thể thức mới lạ](https://dantri.com.vn/the-thao/hom-nay-boc-tham-vong-knock-out-champions-league-theo-the-thuc-moi-la-20250130112329140.htm) - 02:23 31/01/2025
 - 🌝 [Ronaldo ghi bàn thắng thứ 921 trong sự nghiệp](https://dantri.com.vn/the-thao/ronaldo-ghi-ban-thang-thu-921-trong-su-nghiep-20250131081520394.htm) - 01:16 31/01/2025
 - 🚀 [Bị la ó ở Australian Open, Novak Djokovic được đồng đội bảo vệ](https://dantri.com.vn/the-thao/bi-la-o-o-australian-open-novak-djokovic-duoc-dong-doi-bao-ve-20250131074247269.htm) - 00:45 31/01/2025
 - 🎉 [Đánh bại FCSB, Man Utd vào vòng 1/8 Europa League](https://dantri.com.vn/the-thao/danh-bai-fcsb-man-utd-vao-vong-18-europa-league-20250131064144125.htm) - 23:41 30/01/2025
