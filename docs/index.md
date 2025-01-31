@@ -591,7 +591,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
 - 💼 [Đường sắt đô thị vận chuyển an toàn hơn 31,6 triệu khách](https://tienphong.vn/duong-sat-do-thi-van-chuyen-an-toan-hon-316-trieu-khach-post1707710.tpo) - 14:00 31/01/2025
-- 🎊 [Giá nhà xã hội sẽ điều chỉnh trong 2025?](https://tienphong.vn/gia-nha-xa-hoi-se-dieu-chinh-trong-2025-post1713394.tpo) - 13:56 31/01/2025
+- 🎊 [Giá nhà xã hội sẽ điều chỉnh?](https://tienphong.vn/gia-nha-xa-hoi-se-dieu-chinh-post1713394.tpo) - 13:56 31/01/2025
 - 💼 [Gen Z và khát vọng 2025: Dám mơ, dám làm, dám bứt phá](https://tienphong.vn/gen-z-va-khat-vong-2025-dam-mo-dam-lam-dam-but-pha-post1713341.tpo) - 13:55 31/01/2025
 - 👺 [Bộ trưởng Nguyễn Kim Sơn nói về việc lớn nhất của ngành giáo dục trong năm 2025](https://tienphong.vn/bo-truong-nguyen-kim-son-noi-ve-viec-lon-nhat-cua-nganh-giao-duc-trong-nam-2025-post1713421.tpo) - 13:50 31/01/2025
 - 💪 [Tổng Bí thư Tô Lâm dự Lễ phát động Tết trồng cây &#39;Đời đời nhớ ơn Bác Hồ&#39;](https://tienphong.vn/tong-bi-thu-to-lam-du-le-phat-dong-tet-trong-cay-doi-doi-nho-on-bac-ho-post1713437.tpo) - 13:48 31/01/2025
