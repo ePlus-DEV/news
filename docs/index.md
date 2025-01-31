@@ -250,66 +250,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Kỳ lạ dòng sông nước sôi](https://nld.com.vn/ky-la-dong-song-nuoc-soi-196250117173845089.htm) - 11:31 31/01/2025
-- 😺 [Xác định danh tính tài xế lấy băng dính che biển số ô tô, gây bức xúc trên mạng xã hội](https://nld.com.vn/xac-dinh-danh-tinh-tai-xe-lay-bang-dinh-che-bien-so-o-to-gay-buc-xuc-tren-mang-xa-hoi-196250131172309098.htm) - 11:27 31/01/2025
-- 👍 [Người trẻ đón Tết tại viện dưỡng lão](https://nld.com.vn/nguoi-tre-don-tet-tai-vien-duong-lao-196250131174347323.htm) - 11:22 31/01/2025
-- 🥷 [Thông tin mới vụ ôtô lao xuống mương khiến 7 người tử vong](https://nld.com.vn/thong-tin-moi-vu-oto-lao-xuong-muong-khien-7-nguoi-tu-vong-196250131174700296.htm) - 11:11 31/01/2025
-- 🤔 [VIDEO: Bên trong Bảo tàng Văn hóa dân tộc Khmer ở Trà Vinh](https://nld.com.vn/video-ben-trong-bao-tang-van-hoa-dan-toc-khmer-o-tra-vinh-196250119181407858.htm) - 11:06 31/01/2025
-- 🌈 [Độc đáo tác phẩm điêu khắc trên gốc dầu 300 tuổi, đại gia trả 16 tỉ nhưng không bán](https://nld.com.vn/doc-dao-tac-pham-dieu-khac-tren-goc-dau-300-tuoi-dai-gia-tra-16-ti-nhung-khong-ban-196250119125249632.htm) - 11:01 31/01/2025
-- 🔥 [Cứu tài xế trong &quot;hố tử thần&quot; khủng, Nhật Bản yêu cầu 1,2 triệu người ngừng tắm giặt](https://nld.com.vn/cuu-tai-xe-trong-ho-tu-than-khung-nhat-ban-yeu-cau-12-trieu-nguoi-ngung-tam-giat-196250131173040488.htm) - 10:51 31/01/2025
-- 🧰 [Việc lề miền Tây](https://nld.com.vn/viec-le-mien-tay-196250113154844668.htm) - 10:43 31/01/2025
-- 🤗 [Trong ngày 3 Tết Ất Tỵ, xử lý hơn 4.800 trường hợp vi phạm giao thông](https://nld.com.vn/trong-ngay-3-tet-at-ty-xu-ly-hon-4800-truong-hop-vi-pham-giao-thong-196250131170800944.htm) - 10:32 31/01/2025
-- 🦅 [Công trình mang tính biểu tượng &quot;có một không hai&quot; ở Phú Quốc](https://nld.com.vn/cong-trinh-mang-tinh-bieu-tuong-co-mot-khong-hai-o-phu-quoc-19625013113070435.htm) - 10:26 31/01/2025
-- 🤩 [&quot;Xe vua vui vẻ&quot; ở Hà Tiên](https://nld.com.vn/xe-vua-vui-ve-o-ha-tien-19625013110041998.htm) - 10:22 31/01/2025
-- 🎭 [Rộ thuyết âm mưu vụ trực thăng va chạm máy bay chở khách ở Mỹ](https://nld.com.vn/ro-thuyet-am-muu-vu-truc-thang-va-cham-may-bay-cho-khach-o-my-196250131143147436.htm) - 10:12 31/01/2025
-- 💄 [Trò chơi dân gian ngày Tết: Niềm vui của tuổi thơ](https://nld.com.vn/tro-choi-dan-gian-ngay-tet-niem-vui-cua-tuoi-tho-196250131113938521.htm) - 09:42 31/01/2025
-- 🎊 [Long An hướng đến tăng trưởng xanh và phát triển bền vững](https://nld.com.vn/long-an-huong-den-tang-truong-xanh-va-phat-trien-ben-vung-196250122101809663.htm) - 09:39 31/01/2025
-- 🎡 [SEA Games 33 - 2025 và thách thức của thể thao Việt Nam](https://nld.com.vn/sea-games-33-2025-va-thach-thuc-cua-the-thao-viet-nam-196250131152654859.htm) - 09:33 31/01/2025
-- 🎉 [Rủ nhau lên rừng ăn Tết, canh giữ &quot;bảo vật Quốc gia&quot;](https://nld.com.vn/ru-nhau-len-rung-an-tet-canh-giu-bao-vat-quoc-gia-19625013116064381.htm) - 09:32 31/01/2025
-- 😺 [Hoa hậu thế nào trong phim Tết?](https://nld.com.vn/hoa-hau-the-nao-trong-phim-tet-196250131161305994.htm) - 09:30 31/01/2025
-- 🐻 [Người phụ nữ bị xương cá xuyên thủng thành ruột non](https://nld.com.vn/nguoi-phu-nu-bi-xuong-ca-xuyen-thung-thanh-ruot-non-196250131151104311.htm) - 08:57 31/01/2025
-- 🤡 [Hai gương mặt được chú ý của hoàng gia Nhật Bản](https://nld.com.vn/hai-guong-mat-duoc-chu-y-cua-hoang-gia-nhat-ban-196250124004844229.htm) - 08:55 31/01/2025
-- 🚦 [Có gì trong khu di tích Hải Thượng Lãn Ông vừa trở thành Di tích Quốc gia đặc biệt?](https://nld.com.vn/co-gi-trong-khu-di-tich-hai-thuong-lan-ong-vua-tro-thanh-di-tich-quoc-gia-dac-biet-196250126093245815.htm) - 08:54 31/01/2025
-- 🪜 [Năm bùng nổ của thị trường xe điện Việt Nam](https://nld.com.vn/nam-bung-no-cua-thi-truong-xe-dien-viet-nam-19625013019261444.htm) - 08:49 31/01/2025
-- 💫 [Tết đầy khi ta biết đủ](https://nld.com.vn/tet-day-khi-ta-biet-du-196250121153934659.htm) - 08:41 31/01/2025
-- 🔭 [Cuộc thi viết &quot;TẾT THỜI SỐ&quot;: Bất chấp những thay đổi, cảm xúc vẫn vẹn nguyên](https://nld.com.vn/cuoc-thi-viet-tet-thoi-so-bat-chap-nhung-thay-doi-cam-xuc-van-ven-nguyen-196250131152610364.htm) - 08:32 31/01/2025
-- 🌝 [Kết quả xổ số hôm nay, 31-1: Vĩnh Long, Bình Dương, Trà Vinh, Ninh Thuận, Hải Phòng...](https://nld.com.vn/ket-qua-xo-so-hom-nay-31-1-vinh-long-binh-duong-tra-vinh-ninh-thuan-hai-phong-196250131152605829.htm) - 08:27 31/01/2025
-- 💪 [Vụ máy bay va chạm trực thăng: Tháp không lưu &quot;không bình thường&quot;](https://nld.com.vn/vu-may-bay-va-cham-truc-thang-thap-khong-luu-khong-binh-thuong-196250131151237899.htm) - 08:24 31/01/2025
-- 🦍 [Hình ảnh “gia đình thú rừng” nhởn nhơ kiếm ăn trong rừng Quảng Trị](https://nld.com.vn/hinh-anh-gia-dinh-thu-rung-nhon-nho-kiem-an-trong-rung-quang-tri-19625013010041099.htm) - 08:22 31/01/2025
-- 🥷 [Kinh hãi 3 “quái xà” đã tuyệt chủng hàng triệu năm trước](https://nld.com.vn/kinh-hai-3-quai-xa-da-tuyet-chung-hang-trieu-nam-truoc-196250127085148758.htm) - 08:21 31/01/2025
-- 🫶 [Thiên thu vọng mãi tiếng đờn giọng ca](https://nld.com.vn/thien-thu-vong-mai-tieng-don-giong-ca-196250114145843617.htm) - 08:00 31/01/2025
-- 🐻 [Vinicius Junior: Từ trẻ đường phố đến vua không ngai của bóng đá thế giới](https://nld.com.vn/vinicius-junior-tu-tre-duong-pho-den-vua-khong-ngai-cua-bong-da-the-gioi-196250131143128155.htm) - 07:56 31/01/2025
-- 🐲 [Huế xử phạt hàng trăm trường hợp vi phạm giao thông trong dịp Tết](https://nld.com.vn/hue-xu-phat-hang-tram-truong-hop-vi-pham-giao-thong-trong-dip-tet-196250131143823978.htm) - 07:55 31/01/2025
-- 🧑‍💻 [&quot;12 Con giáp&quot; hội tụ những khách mời nổi tiếng](https://nld.com.vn/12-con-giap-hoi-tu-nhung-khach-moi-noi-tieng-196250131134953123.htm) - 07:55 31/01/2025
-- 🎬 [Dũng &quot;khùng&quot; bàn về mâm cỗ Tết](https://nld.com.vn/dung-khung-ban-ve-mam-co-tet-196250130071801217.htm) - 07:51 31/01/2025
-- 👀 [CSGT Bình Phước xử phạt nhiều trường hợp vi phạm nồng độ cồn trong dịp Tết](https://nld.com.vn/csgt-binh-phuoc-xu-phat-nhieu-truong-hop-vi-pham-nong-do-con-trong-dip-tet-196250131134206454.htm) - 07:20 31/01/2025
-- 👍 [100 gia đình công nhân khó khăn lần đầu du xuân tại Đường hoa Nguyễn Huệ](https://nld.com.vn/100-gia-dinh-cong-nhan-kho-khan-lan-dau-du-xuan-tai-duong-hoa-nguyen-hue-196250131135827448.htm) - 07:19 31/01/2025
-- 🦅 [VIDEO: Võ sĩ Duy Nhất đầm ấm bên gia đình đầu xuân](https://nld.com.vn/video-vo-si-duy-nhat-dam-am-ben-gia-dinh-dau-xuan-196250131132518629.htm) - 07:07 31/01/2025
-- 🦏 [Không có &quot;thần dược&quot; nào giải cơn say rượu, bia](https://nld.com.vn/khong-co-than-duoc-nao-giai-con-say-ruou-bia-196250131130012968.htm) - 07:06 31/01/2025
-- 🗽 [Điều tra vụ con trai đổ xăng đốt nhà làm mẹ ruột bị bỏng nặng](https://nld.com.vn/dieu-tra-vu-con-trai-do-xang-dot-nha-lam-me-ruot-bi-bong-nang-196250131125958795.htm) - 07:01 31/01/2025
-- 🔭 [Tuyển thủ Tuyết Ngân và ước mơ đoạt Quả bóng vàng](https://nld.com.vn/tuyen-thu-tuyet-ngan-va-mong-muon-cua-gia-dinh-ngay-tet-19625013112273071.htm) - 06:28 31/01/2025
-- 👍 [Tai nạn liên hoàn giữa 3 xe ôtô trên cao tốc, giao thông ùn tắc](https://nld.com.vn/tai-nan-lien-hoan-giua-3-xe-oto-tren-cao-toc-giao-thong-un-tac-196250131130400163.htm) - 06:24 31/01/2025
-- ⛽️ [Sân bay Phú Quốc đông nghẹt, khách ngoại bức xúc vì phải đợi hơn 2 giờ làm thủ tục](https://nld.com.vn/san-bay-phu-quoc-dong-nghet-khach-ngoai-buc-xuc-vi-phai-doi-hon-2-gio-lam-thu-tuc-196250131125924827.htm) - 06:05 31/01/2025
-- 🥸 [Quảng Nam đón lượng khách tăng kỷ lục 5 ngày Tết](https://nld.com.vn/quang-nam-don-luong-khach-tang-ky-luc-5-ngay-tet-196250131124705454.htm) - 06:03 31/01/2025
-- 🌁 [Mỹ cảnh báo nguy cơ &quot;Trung Quốc đóng cửa kênh đào Panama&quot;](https://nld.com.vn/my-canh-bao-nguy-co-trung-quoc-dong-cua-kenh-dao-panama-196250131123929009.htm) - 06:02 31/01/2025
-- 🌮 [Du lịch Đà Nẵng thu ngàn tỉ trong Tết Ất Tỵ](https://nld.com.vn/du-lich-da-nang-thu-ngan-ti-trong-tet-at-ty-196250131123302472.htm) - 05:49 31/01/2025
-- 🎉 [&quot;Bộ tứ báo thủ&quot; - bước lùi so với bản thân Trấn Thành?](https://nld.com.vn/bo-tu-bao-thu-buoc-lui-so-voi-ban-than-tran-thanh-196250131120356994.htm) - 05:48 31/01/2025
-- 🤔 [2 cháu nhỏ chết đuối trong ao chứa nước](https://nld.com.vn/2-chau-nho-chet-duoi-trong-ao-chua-nuoc-196250131122556606.htm) - 05:44 31/01/2025
-- 🐘 [Nhận tiền &quot;trên trời rơi xuống&quot;, dân làng xây nhà tiền tỉ](https://nld.com.vn/nhan-tien-tren-troi-roi-xuong-dan-lang-xay-nha-tien-ti-196250131114152314.htm) - 05:43 31/01/2025
-- 🙉 [Mâm cúng và bài khấn lễ hóa vàng tết Ất Tỵ](https://nld.com.vn/mam-cung-va-bai-khan-le-hoa-vang-tet-at-ty-196250130232954592.htm) - 05:39 31/01/2025
-- 🐵 [Những con giáp dễ phát tài trong năm 2025](https://nld.com.vn/nhung-con-giap-de-phat-tai-trong-nam-2025-196241220192254697.htm) - 05:39 31/01/2025
-- 🙉 [Tổng Bí thư Tô Lâm phát động Tết trồng cây &quot;Đời đời nhớ ơn Bác Hồ&quot;](https://nld.com.vn/tong-bi-thu-to-lam-phat-dong-tet-trong-cay-doi-doi-nho-on-bac-ho-196250131120432579.htm) - 05:38 31/01/2025
-- 💪 [Chen chân để chụp ảnh cùng đôi linh vật rắn ở Lao Bảo](https://nld.com.vn/chen-chan-de-chup-anh-cung-doi-linh-vat-ran-o-lao-bao-196250131111313643.htm) - 05:37 31/01/2025
-- ⛽️ [Khởi tố cán bộ xã chiếm đoạt tiền người mắc bệnh hiểm nghèo](https://nld.com.vn/khoi-to-can-bo-xa-chiem-doat-tien-nguoi-mac-benh-hiem-ngheo-196250131121208867.htm) - 05:36 31/01/2025
-- 👺 [Nam thanh niên bị thương nặng, dập nát 2 bàn tay do đốt pháo tự chế](https://nld.com.vn/nam-thanh-nien-bi-thuong-nang-dap-nat-2-ban-tay-do-dot-phao-tu-che-196250131115345244.htm) - 05:35 31/01/2025
-- 🧠 [Lãnh đạo Việt Nam - Triều Tiên trao đổi điện mừng](https://nld.com.vn/lanh-dao-viet-nam-trieu-tien-trao-doi-dien-mung-196250131114048097.htm) - 05:35 31/01/2025
-- 🔭 [Những món ăn ngày Tết được &quot;biến tấu&quot; trong thời hiện đại](https://nld.com.vn/nhung-mon-an-ngay-tet-duoc-bien-tau-trong-thoi-hien-dai-196250131112331992.htm) - 05:28 31/01/2025
-- 🦣 [Ly kỳ bảo vật quốc gia: Bí ẩn bộ trang sức vàng trong mộ táng](https://nld.com.vn/ly-ky-bao-vat-quoc-gia-bi-an-bo-trang-suc-vang-trong-mo-tang-196250127184654655.htm) - 05:03 31/01/2025
-- 🔥 [Trục xuất người nhập cư bằng vận tải cơ theo ý Tổng thống Trump, Mỹ tốn bộn tiền](https://nld.com.vn/truc-xuat-nguoi-nhap-cu-bang-van-tai-co-theo-y-tong-thong-trump-my-ton-bon-tien-196250131111730326.htm) - 04:45 31/01/2025
-- 🌝 [Vụ ô tô gặp nạn 7 người tử vong: Sức khỏe của 2 người bị thương ra sao?](https://nld.com.vn/podcast/vu-o-to-gap-nan-7-nguoi-tu-vong-suc-khoe-cua-2-nguoi-bi-thuong-ra-sao-196250131113804867.htm) - 04:43 31/01/2025
-- 👍 [Dẹp ngay thói lấp liếm, ngông cuồng](https://nld.com.vn/noi-thang-dep-ngay-thoi-lap-liem-ngong-cuong-196250131091600871.htm) - 04:39 31/01/2025
-- 💂 [10 xu hướng công nghệ đình đám trong năm 2025](https://nld.com.vn/10-xu-huong-cong-nghe-dinh-dam-trong-nam-2025-196250119211126058.htm) - 04:22 31/01/2025
-- 🤖 [Video: Đại sứ Anh mặc áo dài đi lễ đền Ngọc Sơn](https://nld.com.vn/video-dai-su-anh-mac-ao-dai-di-le-den-ngoc-son-19625013110363426.htm) - 04:14 31/01/2025<!-- nld:END -->
+- 🐎 [Khách nườm nượp đổ về “chợ quê giữa cánh đồng” dịp Tết](https://nld.com.vn/khach-nuom-nuop-do-ve-cho-que-giua-canh-dong-dip-tet-196250131191825716.htm) - 12:47 31/01/2025
+- 😺 [Kỳ lạ dòng sông nước sôi](https://nld.com.vn/ky-la-dong-song-nuoc-soi-196250117173845089.htm) - 11:31 31/01/2025
+- 👍 [Xác định danh tính tài xế lấy băng dính che biển số ô tô, gây bức xúc trên mạng xã hội](https://nld.com.vn/xac-dinh-danh-tinh-tai-xe-lay-bang-dinh-che-bien-so-o-to-gay-buc-xuc-tren-mang-xa-hoi-196250131172309098.htm) - 11:27 31/01/2025
+- 🥷 [Người trẻ đón Tết tại viện dưỡng lão](https://nld.com.vn/nguoi-tre-don-tet-tai-vien-duong-lao-196250131174347323.htm) - 11:22 31/01/2025
+- 🤔 [Thông tin mới vụ ôtô lao xuống mương khiến 7 người tử vong](https://nld.com.vn/thong-tin-moi-vu-oto-lao-xuong-muong-khien-7-nguoi-tu-vong-196250131174700296.htm) - 11:11 31/01/2025
+- 🌈 [VIDEO: Bên trong Bảo tàng Văn hóa dân tộc Khmer ở Trà Vinh](https://nld.com.vn/video-ben-trong-bao-tang-van-hoa-dan-toc-khmer-o-tra-vinh-196250119181407858.htm) - 11:06 31/01/2025
+- 🔥 [Độc đáo tác phẩm điêu khắc trên gốc dầu 300 tuổi, đại gia trả 16 tỉ nhưng không bán](https://nld.com.vn/doc-dao-tac-pham-dieu-khac-tren-goc-dau-300-tuoi-dai-gia-tra-16-ti-nhung-khong-ban-196250119125249632.htm) - 11:01 31/01/2025
+- 🧰 [Cứu tài xế trong &quot;hố tử thần&quot; khủng, Nhật Bản yêu cầu 1,2 triệu người ngừng tắm giặt](https://nld.com.vn/cuu-tai-xe-trong-ho-tu-than-khung-nhat-ban-yeu-cau-12-trieu-nguoi-ngung-tam-giat-196250131173040488.htm) - 10:51 31/01/2025
+- 🤗 [Việc lề miền Tây](https://nld.com.vn/viec-le-mien-tay-196250113154844668.htm) - 10:43 31/01/2025
+- 🦅 [Trong ngày 3 Tết Ất Tỵ, xử lý hơn 4.800 trường hợp vi phạm giao thông](https://nld.com.vn/trong-ngay-3-tet-at-ty-xu-ly-hon-4800-truong-hop-vi-pham-giao-thong-196250131170800944.htm) - 10:32 31/01/2025
+- 🤩 [Công trình mang tính biểu tượng &quot;có một không hai&quot; ở Phú Quốc](https://nld.com.vn/cong-trinh-mang-tinh-bieu-tuong-co-mot-khong-hai-o-phu-quoc-19625013113070435.htm) - 10:26 31/01/2025
+- 🎭 [&quot;Xe vua vui vẻ&quot; ở Hà Tiên](https://nld.com.vn/xe-vua-vui-ve-o-ha-tien-19625013110041998.htm) - 10:22 31/01/2025
+- 💄 [Rộ thuyết âm mưu vụ trực thăng va chạm máy bay chở khách ở Mỹ](https://nld.com.vn/ro-thuyet-am-muu-vu-truc-thang-va-cham-may-bay-cho-khach-o-my-196250131143147436.htm) - 10:12 31/01/2025
+- 🎊 [Trò chơi dân gian ngày Tết: Niềm vui của tuổi thơ](https://nld.com.vn/tro-choi-dan-gian-ngay-tet-niem-vui-cua-tuoi-tho-196250131113938521.htm) - 09:42 31/01/2025
+- 🎡 [Long An hướng đến tăng trưởng xanh và phát triển bền vững](https://nld.com.vn/long-an-huong-den-tang-truong-xanh-va-phat-trien-ben-vung-196250122101809663.htm) - 09:39 31/01/2025
+- 🎉 [SEA Games 33 - 2025 và thách thức của thể thao Việt Nam](https://nld.com.vn/sea-games-33-2025-va-thach-thuc-cua-the-thao-viet-nam-196250131152654859.htm) - 09:33 31/01/2025
+- 😺 [Rủ nhau lên rừng ăn Tết, canh giữ &quot;bảo vật Quốc gia&quot;](https://nld.com.vn/ru-nhau-len-rung-an-tet-canh-giu-bao-vat-quoc-gia-19625013116064381.htm) - 09:32 31/01/2025
+- 🐻 [Hoa hậu thế nào trong phim Tết?](https://nld.com.vn/hoa-hau-the-nao-trong-phim-tet-196250131161305994.htm) - 09:30 31/01/2025
+- 🤡 [Người phụ nữ bị xương cá xuyên thủng thành ruột non](https://nld.com.vn/nguoi-phu-nu-bi-xuong-ca-xuyen-thung-thanh-ruot-non-196250131151104311.htm) - 08:57 31/01/2025
+- 🚦 [Hai gương mặt được chú ý của hoàng gia Nhật Bản](https://nld.com.vn/hai-guong-mat-duoc-chu-y-cua-hoang-gia-nhat-ban-196250124004844229.htm) - 08:55 31/01/2025
+- 🪜 [Có gì trong khu di tích Hải Thượng Lãn Ông vừa trở thành Di tích Quốc gia đặc biệt?](https://nld.com.vn/co-gi-trong-khu-di-tich-hai-thuong-lan-ong-vua-tro-thanh-di-tich-quoc-gia-dac-biet-196250126093245815.htm) - 08:54 31/01/2025
+- 💫 [Năm bùng nổ của thị trường xe điện Việt Nam](https://nld.com.vn/nam-bung-no-cua-thi-truong-xe-dien-viet-nam-19625013019261444.htm) - 08:49 31/01/2025
+- 🔭 [Tết đầy khi ta biết đủ](https://nld.com.vn/tet-day-khi-ta-biet-du-196250121153934659.htm) - 08:41 31/01/2025
+- 🌝 [Cuộc thi viết &quot;TẾT THỜI SỐ&quot;: Bất chấp những thay đổi, cảm xúc vẫn vẹn nguyên](https://nld.com.vn/cuoc-thi-viet-tet-thoi-so-bat-chap-nhung-thay-doi-cam-xuc-van-ven-nguyen-196250131152610364.htm) - 08:32 31/01/2025
+- 💪 [Kết quả xổ số hôm nay, 31-1: Vĩnh Long, Bình Dương, Trà Vinh, Ninh Thuận, Hải Phòng...](https://nld.com.vn/ket-qua-xo-so-hom-nay-31-1-vinh-long-binh-duong-tra-vinh-ninh-thuan-hai-phong-196250131152605829.htm) - 08:27 31/01/2025
+- 🦍 [Vụ máy bay va chạm trực thăng: Tháp không lưu &quot;không bình thường&quot;](https://nld.com.vn/vu-may-bay-va-cham-truc-thang-thap-khong-luu-khong-binh-thuong-196250131151237899.htm) - 08:24 31/01/2025
+- 🥷 [Hình ảnh “gia đình thú rừng” nhởn nhơ kiếm ăn trong rừng Quảng Trị](https://nld.com.vn/hinh-anh-gia-dinh-thu-rung-nhon-nho-kiem-an-trong-rung-quang-tri-19625013010041099.htm) - 08:22 31/01/2025
+- 🫶 [Kinh hãi 3 “quái xà” đã tuyệt chủng hàng triệu năm trước](https://nld.com.vn/kinh-hai-3-quai-xa-da-tuyet-chung-hang-trieu-nam-truoc-196250127085148758.htm) - 08:21 31/01/2025
+- 🐻 [Thiên thu vọng mãi tiếng đờn giọng ca](https://nld.com.vn/thien-thu-vong-mai-tieng-don-giong-ca-196250114145843617.htm) - 08:00 31/01/2025
+- 🐲 [Vinicius Junior: Từ trẻ đường phố đến vua không ngai của bóng đá thế giới](https://nld.com.vn/vinicius-junior-tu-tre-duong-pho-den-vua-khong-ngai-cua-bong-da-the-gioi-196250131143128155.htm) - 07:56 31/01/2025
+- 🧑‍💻 [Huế xử phạt hàng trăm trường hợp vi phạm giao thông trong dịp Tết](https://nld.com.vn/hue-xu-phat-hang-tram-truong-hop-vi-pham-giao-thong-trong-dip-tet-196250131143823978.htm) - 07:55 31/01/2025
+- 🎬 [&quot;12 Con giáp&quot; hội tụ những khách mời nổi tiếng](https://nld.com.vn/12-con-giap-hoi-tu-nhung-khach-moi-noi-tieng-196250131134953123.htm) - 07:55 31/01/2025
+- 👀 [Dũng &quot;khùng&quot; bàn về mâm cỗ Tết](https://nld.com.vn/dung-khung-ban-ve-mam-co-tet-196250130071801217.htm) - 07:51 31/01/2025
+- 👍 [CSGT Bình Phước xử phạt nhiều trường hợp vi phạm nồng độ cồn trong dịp Tết](https://nld.com.vn/csgt-binh-phuoc-xu-phat-nhieu-truong-hop-vi-pham-nong-do-con-trong-dip-tet-196250131134206454.htm) - 07:20 31/01/2025
+- 🦅 [100 gia đình công nhân khó khăn lần đầu du xuân tại Đường hoa Nguyễn Huệ](https://nld.com.vn/100-gia-dinh-cong-nhan-kho-khan-lan-dau-du-xuan-tai-duong-hoa-nguyen-hue-196250131135827448.htm) - 07:19 31/01/2025
+- 🦏 [VIDEO: Võ sĩ Duy Nhất đầm ấm bên gia đình đầu xuân](https://nld.com.vn/video-vo-si-duy-nhat-dam-am-ben-gia-dinh-dau-xuan-196250131132518629.htm) - 07:07 31/01/2025
+- 🗽 [Không có &quot;thần dược&quot; nào giải cơn say rượu, bia](https://nld.com.vn/khong-co-than-duoc-nao-giai-con-say-ruou-bia-196250131130012968.htm) - 07:06 31/01/2025
+- 🔭 [Điều tra vụ con trai đổ xăng đốt nhà làm mẹ ruột bị bỏng nặng](https://nld.com.vn/dieu-tra-vu-con-trai-do-xang-dot-nha-lam-me-ruot-bi-bong-nang-196250131125958795.htm) - 07:01 31/01/2025
+- 👍 [Tuyển thủ Tuyết Ngân và ước mơ đoạt Quả bóng vàng](https://nld.com.vn/tuyen-thu-tuyet-ngan-va-mong-muon-cua-gia-dinh-ngay-tet-19625013112273071.htm) - 06:28 31/01/2025
+- ⛽️ [Tai nạn liên hoàn giữa 3 xe ôtô trên cao tốc, giao thông ùn tắc](https://nld.com.vn/tai-nan-lien-hoan-giua-3-xe-oto-tren-cao-toc-giao-thong-un-tac-196250131130400163.htm) - 06:24 31/01/2025
+- 🥸 [Sân bay Phú Quốc đông nghẹt, khách ngoại bức xúc vì phải đợi hơn 2 giờ làm thủ tục](https://nld.com.vn/san-bay-phu-quoc-dong-nghet-khach-ngoai-buc-xuc-vi-phai-doi-hon-2-gio-lam-thu-tuc-196250131125924827.htm) - 06:05 31/01/2025
+- 🌁 [Quảng Nam đón lượng khách tăng kỷ lục 5 ngày Tết](https://nld.com.vn/quang-nam-don-luong-khach-tang-ky-luc-5-ngay-tet-196250131124705454.htm) - 06:03 31/01/2025
+- 🌮 [Mỹ cảnh báo nguy cơ &quot;Trung Quốc đóng cửa kênh đào Panama&quot;](https://nld.com.vn/my-canh-bao-nguy-co-trung-quoc-dong-cua-kenh-dao-panama-196250131123929009.htm) - 06:02 31/01/2025
+- 🎉 [Du lịch Đà Nẵng thu ngàn tỉ trong Tết Ất Tỵ](https://nld.com.vn/du-lich-da-nang-thu-ngan-ti-trong-tet-at-ty-196250131123302472.htm) - 05:49 31/01/2025
+- 🤔 [&quot;Bộ tứ báo thủ&quot; - bước lùi so với bản thân Trấn Thành?](https://nld.com.vn/bo-tu-bao-thu-buoc-lui-so-voi-ban-than-tran-thanh-196250131120356994.htm) - 05:48 31/01/2025
+- 🐘 [2 cháu nhỏ chết đuối trong ao chứa nước](https://nld.com.vn/2-chau-nho-chet-duoi-trong-ao-chua-nuoc-196250131122556606.htm) - 05:44 31/01/2025
+- 🙉 [Nhận tiền &quot;trên trời rơi xuống&quot;, dân làng xây nhà tiền tỉ](https://nld.com.vn/nhan-tien-tren-troi-roi-xuong-dan-lang-xay-nha-tien-ti-196250131114152314.htm) - 05:43 31/01/2025
+- 🐵 [Mâm cúng và bài khấn lễ hóa vàng tết Ất Tỵ](https://nld.com.vn/mam-cung-va-bai-khan-le-hoa-vang-tet-at-ty-196250130232954592.htm) - 05:39 31/01/2025
+- 🙉 [Những con giáp dễ phát tài trong năm 2025](https://nld.com.vn/nhung-con-giap-de-phat-tai-trong-nam-2025-196241220192254697.htm) - 05:39 31/01/2025
+- 💪 [Tổng Bí thư Tô Lâm phát động Tết trồng cây &quot;Đời đời nhớ ơn Bác Hồ&quot;](https://nld.com.vn/tong-bi-thu-to-lam-phat-dong-tet-trong-cay-doi-doi-nho-on-bac-ho-196250131120432579.htm) - 05:38 31/01/2025
+- ⛽️ [Chen chân để chụp ảnh cùng đôi linh vật rắn ở Lao Bảo](https://nld.com.vn/chen-chan-de-chup-anh-cung-doi-linh-vat-ran-o-lao-bao-196250131111313643.htm) - 05:37 31/01/2025
+- 👺 [Khởi tố cán bộ xã chiếm đoạt tiền người mắc bệnh hiểm nghèo](https://nld.com.vn/khoi-to-can-bo-xa-chiem-doat-tien-nguoi-mac-benh-hiem-ngheo-196250131121208867.htm) - 05:36 31/01/2025
+- 🧠 [Nam thanh niên bị thương nặng, dập nát 2 bàn tay do đốt pháo tự chế](https://nld.com.vn/nam-thanh-nien-bi-thuong-nang-dap-nat-2-ban-tay-do-dot-phao-tu-che-196250131115345244.htm) - 05:35 31/01/2025
+- 🔭 [Lãnh đạo Việt Nam - Triều Tiên trao đổi điện mừng](https://nld.com.vn/lanh-dao-viet-nam-trieu-tien-trao-doi-dien-mung-196250131114048097.htm) - 05:35 31/01/2025
+- 🦣 [Những món ăn ngày Tết được &quot;biến tấu&quot; trong thời hiện đại](https://nld.com.vn/nhung-mon-an-ngay-tet-duoc-bien-tau-trong-thoi-hien-dai-196250131112331992.htm) - 05:28 31/01/2025
+- 🔥 [Ly kỳ bảo vật quốc gia: Bí ẩn bộ trang sức vàng trong mộ táng](https://nld.com.vn/ly-ky-bao-vat-quoc-gia-bi-an-bo-trang-suc-vang-trong-mo-tang-196250127184654655.htm) - 05:03 31/01/2025
+- 🌝 [Trục xuất người nhập cư bằng vận tải cơ theo ý Tổng thống Trump, Mỹ tốn bộn tiền](https://nld.com.vn/truc-xuat-nguoi-nhap-cu-bang-van-tai-co-theo-y-tong-thong-trump-my-ton-bon-tien-196250131111730326.htm) - 04:45 31/01/2025
+- 👍 [Vụ ô tô gặp nạn 7 người tử vong: Sức khỏe của 2 người bị thương ra sao?](https://nld.com.vn/podcast/vu-o-to-gap-nan-7-nguoi-tu-vong-suc-khoe-cua-2-nguoi-bi-thuong-ra-sao-196250131113804867.htm) - 04:43 31/01/2025
+- 💂 [Dẹp ngay thói lấp liếm, ngông cuồng](https://nld.com.vn/noi-thang-dep-ngay-thoi-lap-liem-ngong-cuong-196250131091600871.htm) - 04:39 31/01/2025
+- 🤖 [10 xu hướng công nghệ đình đám trong năm 2025](https://nld.com.vn/10-xu-huong-cong-nghe-dinh-dam-trong-nam-2025-196250119211126058.htm) - 04:22 31/01/2025<!-- nld:END -->
 
 ## Báo SGGP
 <!-- sggp:START -->
