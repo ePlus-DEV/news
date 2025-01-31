@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Tết của những gia đình 300 thành viên](https://vnexpress.net/tet-cua-nhung-gia-dinh-300-thanh-vien-4839875.html) - 23:30 30/01/2025
+- 🚀 [Tết của những gia đình 300 thành viên](https://vnexpress.net/tet-cua-nhung-gia-dinh-300-thanh-vien-vnepre-4839875.html) - 23:30 30/01/2025
 - 🎓 [Thưởng Tết kiểu &#39;đếm được bao nhiêu lấy bấy nhiêu&#39;](https://vnexpress.net/thuong-tet-kieu-dem-duoc-bao-nhieu-lay-bay-nhieu-4844336.html) - 23:00 30/01/2025
 - 🚦 [Chàng trai Mỹ ăn Tết kiểu Việt](https://vnexpress.net/chang-trai-my-an-tet-kieu-viet-4843256.html) - 17:00 30/01/2025
 - 🦣 [Canh bóng mọc son - món ngon Tết Hà Nội](https://vnexpress.net/canh-bong-moc-son-mon-ngon-tet-ha-noi-4843024.html) - 09:23 30/01/2025
