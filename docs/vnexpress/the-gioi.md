@@ -26,7 +26,7 @@ sidebar_position: 2
 - 🎉 [Bản ghi âm hé lộ phút cuối trước vụ va chạm máy bay ở thủ đô Mỹ](https://vnexpress.net/ban-ghi-am-he-lo-phut-cuoi-truoc-vu-va-cham-may-bay-o-thu-do-my-4844431.html) - 08:05 30/01/2025
 - 🎉 [Ông Trump: &#39;Vụ va chạm máy bay đáng lẽ phải được ngăn chặn&#39;](https://vnexpress.net/ong-trump-vu-va-cham-may-bay-dang-le-phai-duoc-ngan-chan-4844428.html) - 07:11 30/01/2025
 - 🌁 [Nhân chứng kể giây phút máy bay chở khách Mỹ va chạm trực thăng](https://vnexpress.net/nhan-chung-ke-giay-phut-may-bay-cho-khach-my-va-cham-truc-thang-4844414.html) - 06:17 30/01/2025
-- 🌊 [Máy bay dân dụng va chạm trực thăng ở Mỹ, 67 người chết](https://vnexpress.net/may-bay-dan-dung-va-cham-truc-thang-o-my-67-nguoi-chet-4844393.html) - 03:59 30/01/2025
+- 🌊 [Máy bay dân dụng va chạm trực thăng ở Mỹ, 67 người chết](https://vnexpress.net/may-bay-dan-dung-va-cham-truc-thang-o-my-67-nguoi-chet-4844393-tong-thuat.html) - 03:59 30/01/2025
 - 🕴 [Syria có Tổng thống lâm thời](https://vnexpress.net/syria-co-tong-thong-lam-thoi-4844357.html) - 03:02 30/01/2025
 - 🎓 [Đan Mạch sẽ chi hai tỷ USD để tăng hiện diện quân sự ở Greenland](https://vnexpress.net/dan-mach-se-chi-hai-ty-usd-de-tang-hien-dien-quan-su-o-greenland-4844346.html) - 02:18 30/01/2025
 - 🦩 [Máy bay Hàn Quốc có thể đã thoát thảm họa nhờ cất cánh trễ giờ](https://vnexpress.net/may-bay-han-quoc-co-the-da-thoat-tham-hoa-nho-cat-canh-tre-gio-4844344.html) - 01:38 30/01/2025
