@@ -410,7 +410,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
 - 💻 [Thu nhập từ hoạt động chăn nuôi có được miễn thuế?](https://baochinhphu.vn/thu-nhap-tu-hoat-dong-chan-nuoi-co-duoc-mien-thue-102250123103950897.htm) - 14:02 01/02/2025
-- 🌜 [Thủ tướng lần thứ 6 kiểm tra công trường sân bay Long Thành](https://baochinhphu.vn/thu-tuong-lan-thu-6-kiem-tra-cong-truong-san-bay-long-thanh-102250201134304419.htm) - 13:47 01/02/2025
+- 🌜 [Sáng mùng 4 Tết, Thủ tướng lần thứ 6 kiểm tra công trường sân bay Long Thành](https://baochinhphu.vn/thu-tuong-lan-thu-6-kiem-tra-cong-truong-san-bay-long-thanh-102250201134304419.htm) - 13:47 01/02/2025
 - 🦆 [Từ chỉ dẫn của Chủ tịch Hồ Chí Minh về công tác cán bộ đến cuộc cách mạng tinh gọn bộ máy Nhà nước hiện nay](https://baochinhphu.vn/tu-chi-dan-cua-chu-tich-ho-chi-minh-ve-cong-tac-can-bo-den-cuoc-cach-mang-tinh-gon-bo-may-nha-nuoc-hien-nay-102250114194047224.htm) - 13:39 01/02/2025
 - 🌝 [Thủ tướng phát lệnh khởi công cao tốc đầu tiên nối TPHCM với Bình Dương, Bình Phước, Tây Nguyên](https://baochinhphu.vn/thu-tuong-phat-lenh-khoi-cong-cao-toc-dau-tien-noi-tphcm-voi-binh-duong-binh-phuoc-tay-nguyen-102250201093131961.htm) - 10:34 01/02/2025
 - 🦣 [Đột phá thể chế: Mục tiêu gần song hành mục tiêu xa](https://baochinhphu.vn/dot-pha-the-che-muc-tieu-gan-song-hanh-muc-tieu-xa-10225020109514795.htm) - 10:09 01/02/2025
