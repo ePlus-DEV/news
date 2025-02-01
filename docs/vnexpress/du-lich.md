@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Chợ quê bên cồn hút khách chơi Tết](https://vnexpress.net/cho-que-ben-con-hut-khach-choi-tet-4844854.html) - 17:09 01/02/2025
-- 🪄 [Hàng chục nghìn khách tắm biển Vũng Tàu mùng 4 Tết](https://vnexpress.net/hang-chuc-nghin-khach-tam-bien-vung-tau-mung-4-tet-4844853.html) - 12:28 01/02/2025
+- 🪄 [Hàng chục nghìn khách tắm biển Vũng Tàu](https://vnexpress.net/hang-chuc-nghin-khach-tam-bien-vung-tau-4844853.html) - 12:28 01/02/2025
 - 🦅 [Nha Trang, Vũng Tàu đông khách, kẹt xe kéo dài](https://vnexpress.net/nha-trang-vung-tau-dong-khach-ket-xe-keo-dai-4844840.html) - 10:08 01/02/2025
 - 🕴 [Khách chật vật tìm phòng ở Hà Giang](https://vnexpress.net/khach-chat-vat-tim-phong-o-ha-giang-4844818.html) - 06:45 01/02/2025
 - 👀 [Khách Australia ví chợ Việt giống &#39;thiên đường lẫn show kinh dị&#39;](https://vnexpress.net/khach-australia-vi-cho-viet-giong-thien-duong-lan-show-kinh-di-4844503.html) - 03:00 01/02/2025
