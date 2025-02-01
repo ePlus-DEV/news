@@ -590,7 +590,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Ba kịch bản cho thị trường năm 2025](https://tienphong.vn/ba-kich-ban-cho-thi-truong-nam-2025-post1713591.tpo) - 15:07 01/02/2025
+- 💼 [Ba kịch bản cho thị trường BĐS năm 2025](https://tienphong.vn/ba-kich-ban-cho-thi-truong-bds-nam-2025-post1713591.tpo) - 15:07 01/02/2025
 - 🎊 [Đánh thức mầm xanh trên vùng đất khó](https://tienphong.vn/danh-thuc-mam-xanh-tren-vung-dat-kho-post1707582.tpo) - 15:00 01/02/2025
 - 💼 [Đưa kỹ thuật ghép thận về Đồng bằng sông Cửu Long](https://tienphong.vn/dua-ky-thuat-ghep-than-ve-dong-bang-song-cuu-long-post1707562.tpo) - 14:58 01/02/2025
 - 👺 [Áo chần bông mang Tết xưa trở lại](https://tienphong.vn/ao-chan-bong-mang-tet-xua-tro-lai-post1707270.tpo) - 14:57 01/02/2025
@@ -599,7 +599,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦍 [Biển đảo, Tổ quốc và người trẻ](https://tienphong.vn/bien-dao-to-quoc-va-nguoi-tre-post1707502.tpo) - 14:52 01/02/2025
 - 👹 [Mở &#39;hộp cát&#39;, đón sóng khởi nghiệp](https://tienphong.vn/mo-hop-cat-don-song-khoi-nghiep-post1707513.tpo) - 14:49 01/02/2025
 - 🌜 [Biển người hào hứng xem ‘dô ông đám’ tại lễ hội làng Đồng Kỵ](https://tienphong.vn/bien-nguoi-hao-hung-xem-do-ong-dam-tai-le-hoi-lang-dong-ky-post1713585.tpo) - 14:11 01/02/2025
-- 🎓 [Hàng nghìn người về đền Bà Chúa Kho &#39;vay tiền, xin lộc&#39; đầu năm](https://tienphong.vn/hang-nghin-nguoi-ve-den-ba-chua-kho-vay-tien-xin-loc-dau-nam-post1713579.tpo) - 14:07 01/02/2025
+- 🎓 [Hàng nghìn người về đền Bà Chúa Kho &#39;vay tiền&#39; đầu năm](https://tienphong.vn/hang-nghin-nguoi-ve-den-ba-chua-kho-vay-tien-dau-nam-post1713579.tpo) - 14:07 01/02/2025
 - 🦣 [Mùng 4 tết, đường phố TPHCM nhộn nhịp trở lại, metro chật kín người](https://tienphong.vn/mung-4-tet-duong-pho-tphcm-nhon-nhip-tro-lai-metro-chat-kin-nguoi-post1713587.tpo) - 14:03 01/02/2025
 - 🤓 [Thủ tướng Phạm Minh Chính kiểm tra dự án sân bay Long Thành](https://tienphong.vn/thu-tuong-pham-minh-chinh-kiem-tra-du-an-san-bay-long-thanh-post1713586.tpo) - 13:56 01/02/2025
 - 🌁 [Đông nghịt người tại các khu vui chơi, trung tâm thương mại ở TPHCM](https://tienphong.vn/dong-nghit-nguoi-tai-cac-khu-vui-choi-trung-tam-thuong-mai-o-tphcm-post1713577.tpo) - 13:54 01/02/2025
