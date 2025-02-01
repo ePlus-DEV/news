@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Quyên góp quất trưng Tết để phủ xanh đất công cộng](https://vnexpress.net/quyen-gop-quat-trung-tet-de-phu-xanh-dat-cong-cong-4844835.html) - 09:50 01/02/2025
-- 🤓 [Người dân đổ về Thủ đô, cao tốc Pháp Vân - Ninh Bình ùn ứ](https://vnexpress.net/nguoi-dan-do-ve-thu-do-cao-toc-phap-van-ninh-binh-un-u-4844829.html) - 09:16 01/02/2025
+- 🤓 [Cao tốc ùn ứ vì người dân đổ về Hà Nội, TP HCM sau Tết](https://vnexpress.net/cao-toc-un-u-vi-nguoi-dan-do-ve-ha-noi-tp-hcm-sau-tet-4844829.html) - 09:16 01/02/2025
 - ⚗️ [Không khí lạnh tăng cường xuống miền Bắc](https://vnexpress.net/khong-khi-lanh-tang-cuong-xuong-mien-bac-4844784.html) - 08:09 01/02/2025
 - 🌊 [4 ôtô tông liên hoàn, cao tốc TP HCM - Long Thành ùn tắc 5 km](https://vnexpress.net/4-oto-tong-lien-hoan-cao-toc-tp-hcm-long-thanh-un-tac-5-km-4844828.html) - 08:01 01/02/2025
 - 🎓 [Hành trình của nữ lao động xuất khẩu thành chủ công ty triệu USD](https://vnexpress.net/hanh-trinh-cua-nu-lao-dong-xuat-khau-thanh-chu-cong-ty-trieu-usd-4842124.html) - 05:00 01/02/2025
