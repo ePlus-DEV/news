@@ -589,7 +589,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
 - 💼 [Trong 8 ngày Tết: Khám, cấp cứu gần 550.000 lượt người](https://tienphong.vn/trong-8-ngay-tet-kham-cap-cuu-gan-550000-luot-nguoi-post1713644.tpo) - 21:21 01/02/2025
-- 🎊 [Trực tiếp Bournemouth vs Liverpool 0-0 &lpar;H1&rpar;: Hiệp 1 bắt đầu](https://tienphong.vn/truc-tiep-bournemouth-vs-liverpool-0-0-h1-hiep-1-bat-dau-post1713642.tpo) - 21:15 01/02/2025
+- 🎊 [Trực tiếp Bournemouth vs Liverpool 0-1 &lpar;Hết H1&rpar;: Liverpool dẫn bàn](https://tienphong.vn/truc-tiep-bournemouth-vs-liverpool-0-1-het-h1-liverpool-dan-ban-post1713642.tpo) - 21:15 01/02/2025
 - 💼 [Rạp phim ở TPHCM hút khách ngày mùng 4 Tết](https://tienphong.vn/rap-phim-o-tphcm-hut-khach-ngay-mung-4-tet-post1713628.tpo) - 20:26 01/02/2025
 - 👺 [Giá xăng dầu đồng loạt giảm, có loại giảm tới gần 1.000 đồng/lít](https://tienphong.vn/gia-xang-dau-dong-loat-giam-co-loai-giam-toi-gan-1000-donglit-post1713633.tpo) - 19:37 01/02/2025
 - 💪 [Dòng xe nối đuôi nhau ở cửa ngõ phía Đông TPHCM chiều mùng 4 Tết](https://tienphong.vn/dong-xe-noi-duoi-nhau-o-cua-ngo-phia-dong-tphcm-chieu-mung-4-tet-post1713635.tpo) - 19:32 01/02/2025
