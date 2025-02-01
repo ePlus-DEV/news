@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Học Kỹ thuật hạt nhân có dễ gặp rủi ro?](https://vnexpress.net/hoc-ky-thuat-hat-nhan-co-de-gap-rui-ro-4840825.html) - 08:00 01/02/2025
-- 🦆 [5 cách gọi tên &#39;tắc đường&#39; trong tiếng Anh](https://vnexpress.net/5-cach-goi-ten-tac-duong-trong-tieng-anh-4844706.html) - 06:00 01/02/2025
+- 🦆 [&#39;Tắc đường&#39; trong tiếng Anh nói thế nào](https://vnexpress.net/tac-duong-trong-tieng-anh-noi-the-nao-4844706.html) - 06:00 01/02/2025
 - 🦩 [Hiệu trưởng Y Hà Nội: Xếp hạng đại học là động lực để tốt hơn](https://vnexpress.net/hieu-truong-y-ha-noi-xep-hang-dai-hoc-la-dong-luc-de-tot-hon-4804362.html) - 02:00 01/02/2025
 - 🌮 [Từ giảng đường Bách khoa đến chuyên gia năng lượng ở châu Âu](https://vnexpress.net/tu-giang-duong-bach-khoa-den-chuyen-gia-nang-luong-o-chau-au-4833179.html) - 17:00 31/01/2025
 - 🔭 [Học chuyên Sinh có nên theo ngành Quản trị kinh doanh?](https://vnexpress.net/hoc-chuyen-sinh-co-nen-theo-nganh-quan-tri-kinh-doanh-4843541.html) - 16:59 31/01/2025
