@@ -5,7 +5,7 @@ sidebar_position: 14
 
 <!-- dantri-dnews:START -->
 - 🤠 [Con đường trở thành ca sĩ tỷ phú của &quot;rắn chúa&quot; Taylor Swift](https://dantri.com.vn/giai-tri/con-duong-tro-thanh-ca-si-ty-phu-cua-ran-chua-taylor-swift-20250201095501721.htm) - 10:29 01/02/2025
-- 🌈 [Tết của nghệ sĩ xiếc, chèo: Đi diễn từ mùng 2, cát-xê cao gấp đôi](https://dantri.com.vn/giai-tri/tet-cua-nghe-si-xiec-cheo-di-dien-tu-mung-2-cat-xe-cao-gap-doi-20250125005323876.htm) - 01:39 01/02/2025
+- 🌈 [Tết của nghệ sĩ xiếc, chèo: Đi diễn từ mùng 2, cát-xê cao gấp đôi](https://dantri.com.vn/tet-2025/tet-cua-nghe-si-xiec-cheo-di-dien-tu-mung-2-cat-xe-cao-gap-doi-20250125005323876.htm) - 01:39 01/02/2025
 - 🐎 [Ly kỳ huyền tích ông Cụt, ông Lành và tục thờ thần rắn ở xứ Nghệ](https://dantri.com.vn/du-lich/ly-ky-huyen-tich-ong-cut-ong-lanh-va-tuc-tho-than-ran-o-xu-nghe-20250118163353082.htm) - 23:34 31/01/2025
 - 👹 [Những kỷ vật biết nói về biệt động thành Sài Gòn - Gia Định](https://dantri.com.vn/an-sinh/nhung-ky-vat-biet-noi-ve-biet-dong-thanh-sai-gon-gia-dinh-20250128043207959.htm) - 23:30 31/01/2025
 - 🫶 [Ông Trump tham vọng phác thảo lại trật tự thế giới do phương Tây dẫn đầu?](https://dantri.com.vn/the-gioi/ong-trump-tham-vong-phac-thao-lai-trat-tu-the-gioi-do-phuong-tay-dan-dau-20250126224700050.htm) - 23:24 31/01/2025
