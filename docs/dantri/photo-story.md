@@ -4,7 +4,7 @@ sidebar_position: 28
 ---
 
 <!-- dantri-photo-story:START -->
-- 💪 [Hành khách chờ cả tiếng vẫn chưa lên được Metro số 1 ngày mùng 4 Tết](https://dantri.com.vn/xa-hoi/hanh-khach-cho-ca-tieng-van-chua-len-duoc-metro-so-1-ngay-mung-4-tet-20250201142557435.htm) - 07:51 01/02/2025
+- 💪 [Hành khách chờ cả tiếng vẫn chưa lên được Metro số 1 mùng 4 Tết](https://dantri.com.vn/xa-hoi/hanh-khach-cho-ca-tieng-van-chua-len-duoc-metro-so-1-mung-4-tet-20250201142557435.htm) - 07:51 01/02/2025
 - 🧰 [Thủ tướng thị sát, lì xì người lao động tại sân bay Long Thành đầu xuân](https://dantri.com.vn/xa-hoi/thu-tuong-thi-sat-li-xi-nguoi-lao-dong-tai-san-bay-long-thanh-dau-xuan-20250201140940820.htm) - 07:38 01/02/2025
 - 🧰 [Hà Nội trang hoàng đường phố mừng kỷ niệm 95 năm Ngày thành lập Đảng](https://dantri.com.vn/xa-hoi/ha-noi-trang-hoang-duong-pho-mung-ky-niem-95-nam-ngay-thanh-lap-dang-20250201100757508.htm) - 04:16 01/02/2025
 - 😎 [Ngắm đàn bò tót lai độc đáo ở Vườn quốc gia Phước Bình](https://dantri.com.vn/xa-hoi/ngam-dan-bo-tot-lai-doc-dao-o-vuon-quoc-gia-phuoc-binh-20250128140259000.htm) - 01:00 01/02/2025
