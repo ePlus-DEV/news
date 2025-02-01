@@ -9,7 +9,7 @@ sidebar_position: 3
 - 🔥 [Bộ trưởng Nguyễn Chí Dũng: &#39;Kinh tế Việt Nam tăng cao so với khu vực, thế giới&#39;](https://vnexpress.net/bo-truong-nguyen-chi-dung-kinh-te-viet-nam-tang-cao-so-voi-khu-vuc-the-gioi-4834999.html) - 23:08 31/01/2025
 - 🐵 [Thị phần cà phê Việt tại Mỹ sụt giảm](https://vnexpress.net/thi-phan-ca-phe-viet-tai-my-sut-giam-4844594.html) - 23:00 31/01/2025
 - 🦅 [Những doanh nghiệp Việt lãi tỷ USD](https://vnexpress.net/nhung-doanh-nghiep-viet-lai-ty-usd-vnepre-4844607.html) - 17:03 31/01/2025
-- 😺 [Nhiều rào cản với xuất khẩu nông thủy sản năm 2025](https://vnexpress.net/nhieu-rao-can-voi-xuat-khau-nong-thuy-san-nam-2025-4842092.html) - 17:02 31/01/2025
+- 😺 [Xuất khẩu nông thủy sản đối mặt nhiều thách thức năm 2025](https://vnexpress.net/xuat-khau-nong-thuy-san-doi-mat-nhieu-thach-thuc-nam-2025-4842092.html) - 17:02 31/01/2025
 - 🤩 [Bộ Tài chính: Người dân chuyển sang mua sắm tiết kiệm dịp Tết](https://vnexpress.net/bo-tai-chinh-nguoi-dan-chuyen-sang-mua-sam-tiet-kiem-dip-tet-4844691.html) - 15:00 31/01/2025
 - 🌮 [Trung Quốc rót tiền chuyển đổi năng lượng nhiều hơn EU, Mỹ, Anh cộng lại](https://vnexpress.net/trung-quoc-rot-tien-chuyen-doi-nang-luong-nhieu-hon-eu-my-anh-cong-lai-4844619.html) - 08:39 31/01/2025
 - 🧰 [Cuộc sống của cặp vợ chồng nghỉ hưu sớm từ năm 1989](https://vnexpress.net/cuoc-song-cua-cap-vo-chong-nghi-huu-som-tu-nam-1989-4843964.html) - 04:07 31/01/2025
