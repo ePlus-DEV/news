@@ -291,7 +291,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🔭 [Chưa hết Tết, người dân đổ xô trở lại TP HCM qua sân bay Tân Sơn Nhất](https://nld.com.vn/chua-het-tet-nguoi-dan-do-xo-tro-lai-tp-hcm-qua-san-bay-tan-son-nhat-196250201083724649.htm) - 01:50 01/02/2025
 - 👍 [Măng Đen đón hơn 200.000 lượt du khách dịp Tết](https://nld.com.vn/mang-den-don-hon-200000-luot-du-khach-dip-tet-196250201081820756.htm) - 01:47 01/02/2025
 - ⛽️ [Ấm áp Tết ở quê](https://nld.com.vn/am-ap-tet-o-que-196250201083942211.htm) - 01:45 01/02/2025
-- 🥸 [Nghệ sĩ Mai Vàng 30 năm dệt mùa xuân sáng tạo](https://nld.com.vn/nghe-si-mai-vang-30-nam-det-mua-xuan-sang-tao-196250114102047853.htm) - 01:44 01/02/2025
+- 🥸 [Nghệ sĩ Mai Vàng 30 năm dệt mùa xuân sáng tạo](https://maivang.nld.com.vn/nghe-si-mai-vang-30-nam-det-mua-xuan-sang-tao-196250114102047853.htm) - 01:44 01/02/2025
 - 🌁 [Ra nước ngoài làm việc, nên chọn thị trường nào?](https://nld.com.vn/ra-nuoc-ngoai-lam-viec-nen-chon-thi-truong-nao-196250201083524164.htm) - 01:39 01/02/2025
 - 🌮 [Vì sao chúng ta chưa gặp được người ngoài hành tinh?](https://nld.com.vn/vi-sao-chung-ta-chua-gap-duoc-nguoi-ngoai-hanh-tinh-196250127092413006.htm) - 01:27 01/02/2025
 - 🎉 [Xài điện từ pin laptop tái chế, 8 năm không phải trả tiền điện](https://nld.com.vn/xai-dien-tu-pin-laptop-tai-che-8-nam-khong-phai-tra-tien-dien-196250124182522212.htm) - 01:26 01/02/2025
