@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Linh vật rắn ở đường hoa Nguyễn Huệ giữ lại hết tháng 2](https://vnexpress.net/linh-vat-ran-o-duong-hoa-nguyen-hue-giu-lai-het-thang-2-4845038.html) - 12:17 02/02/2025
 - ⚗️ [Cửa ngõ Hà Nội, TP HCM ùn xe đổ về sau kỳ nghỉ Tết](https://vnexpress.net/cua-ngo-ha-noi-tp-hcm-un-xe-do-ve-sau-ky-nghi-tet-4845031.html) - 11:30 02/02/2025
 - 🌊 [Tài xế vi phạm nồng độ cồn giảm mạnh dịp Tết Ất Tỵ](https://vnexpress.net/tai-xe-vi-pham-nong-do-con-giam-manh-dip-tet-at-ty-4845020.html) - 10:17 02/02/2025
-- 🎓 [Tổng Bí thư: &#39;Sứ mệnh của Đảng hiện nay là đưa đất nước vào kỷ nguyên giàu mạnh&#39;](https://vnexpress.net/tong-bi-thu-su-menh-cua-dang-hien-nay-la-dua-dat-nuoc-vao-ky-nguyen-giau-manh-4844968.html) - 07:00 02/02/2025
+- 🎓 [&#39;Đưa đất nước vào kỷ nguyên giàu mạnh là sứ mệnh của Đảng&#39;](https://vnexpress.net/dua-dat-nuoc-vao-ky-nguyen-giau-manh-la-su-menh-cua-dang-4844968.html) - 07:00 02/02/2025
 - 🔥 [Lấy nước cầu may trong miếu cổ ở TP HCM](https://vnexpress.net/lay-nuoc-cau-may-trong-mieu-co-o-tp-hcm-4844970.html) - 06:00 02/02/2025
 - 🦏 [Cao tốc cuối cùng nối Cà Mau – TP HCM thành hình](https://vnexpress.net/cao-toc-cuoi-cung-noi-ca-mau-tp-hcm-thanh-hinh-4843909.html) - 01:00 02/02/2025
 - 👺 [Ôtô rơi xuống kênh ở TP HCM](https://vnexpress.net/oto-roi-xuong-kenh-o-tp-hcm-4844905.html) - 00:53 02/02/2025
