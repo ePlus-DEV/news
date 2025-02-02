@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Man Utd 0-0 Crystal Palace &lpar;hiệp 1&rpar;: Hojlund, Zirkzee dự bị](https://dantri.com.vn/the-thao/man-utd-0-0-crystal-palace-hiep-1-hojlund-zirkzee-du-bi-20250202205709258.htm) - 13:57 02/02/2025
+- 🎡 [Man Utd 0-0 Crystal Palace &lpar;hết hiệp 1&rpar;: Dứt điểm kém cỏi](https://dantri.com.vn/the-thao/man-utd-0-0-crystal-palace-het-hiep-1-dut-diem-kem-coi-20250202205709258.htm) - 13:57 02/02/2025
 - 💯 [HLV Shin Tae Yong bất hòa với báo chí Indonesia, cảnh cáo sẽ hé lộ sự thật](https://dantri.com.vn/the-thao/hlv-shin-tae-yong-bat-hoa-voi-bao-chi-indonesia-canh-cao-se-he-lo-su-that-20250202173106176.htm) - 12:17 02/02/2025
 - ⛽️ [Báo Trung Quốc lo ngại HLV Kim Sang Sik sắp triệu tập 2 cầu thủ Việt kiều](https://dantri.com.vn/the-thao/bao-trung-quoc-lo-ngai-hlv-kim-sang-sik-sap-trieu-tap-2-cau-thu-viet-kieu-20250202182152823.htm) - 11:31 02/02/2025
 - 💃 [HLV Kim Sang Sik chia tay 3 &quot;phó tướng&quot; ở tuyển Việt Nam](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-chia-tay-3-pho-tuong-o-tuyen-viet-nam-20250202140710933.htm) - 07:15 02/02/2025
