@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- dantri-giai-tri:START -->
 - 🤩 [Điệu múa rắn của Dương Lệ Bình gây tranh cãi vì thiếu vải, gợi cảm quá đà](https://dantri.com.vn/giai-tri/dieu-mua-ran-cua-duong-le-binh-gay-tranh-cai-vi-thieu-vai-goi-cam-qua-da-20250202110713560.htm) - 10:02 02/02/2025
-- 🔥 [Hoa hậu Thanh Thủy: &quot;Tôi vẫn được bố mẹ lì xì&quot;](https://dantri.com.vn/giai-tri/hoa-hau-thanh-thuy-toi-van-duoc-bo-me-li-xi-20250130082137877.htm) - 10:00 02/02/2025
+- 🔥 [Hoa hậu Thanh Thủy: &quot;Tôi vẫn được bố mẹ lì xì&quot;](https://dantri.com.vn/tet-2025/hoa-hau-thanh-thuy-toi-van-duoc-bo-me-li-xi-20250130082137877.htm) - 10:00 02/02/2025
 - 🚀 [Giám đốc sản xuất phim &quot;Ma da&quot; đột ngột qua đời ở tuổi 36](https://dantri.com.vn/giai-tri/giam-doc-san-xuat-phim-ma-da-dot-ngot-qua-doi-o-tuoi-36-20250202160656214.htm) - 09:14 02/02/2025
 - 🔥 [Màn trình diễn của &quot;thiên hậu&quot; Vương Phi gây sốt dù vướng nghi vấn hát nhép](https://dantri.com.vn/giai-tri/man-trinh-dien-cua-thien-hau-vuong-phi-gay-sot-du-vuong-nghi-van-hat-nhep-20250202113902541.htm) - 06:31 02/02/2025
 - 🌈 [Ê-kíp &quot;Đi giữa trời rực rỡ&quot; nói gì khi bị tố chưa trả tiền thuê bối cảnh?](https://dantri.com.vn/giai-tri/e-kip-di-giua-troi-ruc-ro-noi-gi-khi-bi-to-chua-tra-tien-thue-boi-canh-20250202121352788.htm) - 06:22 02/02/2025
@@ -38,7 +38,7 @@ sidebar_position: 7
 - 📝 [Phong cách gợi cảm của Tóc Tiên, Diệp Lâm Anh và dàn mỹ nhân tuổi Tỵ](https://dantri.com.vn/tet-2025/phong-cach-goi-cam-cua-toc-tien-diep-lam-anh-va-dan-my-nhan-tuoi-ty-20250118142509229.htm) - 23:07 29/01/2025
 - 😺 [Trấn Thành: &quot;Làm phim có thể mất 1 triệu USD trong 3 ngày&quot;](https://dantri.com.vn/giai-tri/tran-thanh-lam-phim-co-the-mat-1-trieu-usd-trong-3-ngay-20250126201030425.htm) - 23:00 29/01/2025
 - 🕯 [Ca sĩ SOOBIN: &quot;Tôi từng bị cười chê khi mang đàn bầu đi diễn, giờ khác rồi&quot;](https://dantri.com.vn/giai-tri/ca-si-soobin-toi-tung-bi-cuoi-che-khi-mang-dan-bau-di-dien-gio-khac-roi-20241225201854715.htm) - 23:00 29/01/2025
-- 🦄 [Hoa hậu Ý Nhi: Về đón Tết sau khi du học, khẳng định bạn trai luôn sát cánh](https://dantri.com.vn/tet-2025/hoa-hau-y-nhi-ve-don-tet-sau-khi-du-hoc-khang-dinh-ban-trai-luon-sat-canh-20250123213019775.htm) - 12:00 29/01/2025
+- 🦄 [Hoa hậu Ý Nhi: Về đón Tết sau khi du học, khẳng định bạn trai luôn sát cánh](https://dantri.com.vn/giai-tri/hoa-hau-y-nhi-ve-don-tet-sau-khi-du-hoc-khang-dinh-ban-trai-luon-sat-canh-20250123213019775.htm) - 12:00 29/01/2025
 - 🌜 [NSND Lan Hương và mẹ chụp ảnh Tết gây xúc động](https://dantri.com.vn/giai-tri/nsnd-lan-huong-va-me-chup-anh-tet-gay-xuc-dong-20250129110728845.htm) - 07:41 29/01/2025
 - 👹 [MC Quyền Linh: &quot;Tôi vui khi hai con gái ngày càng được khán giả yêu mến&quot;](https://dantri.com.vn/giai-tri/mc-quyen-linh-toi-vui-khi-hai-con-gai-ngay-cang-duoc-khan-gia-yeu-men-20250124173049442.htm) - 06:00 29/01/2025
 - 🚀 [Táo quân 2025: Đám giỗ bên cồn, hội thoại &quot;ngoan xinh yêu&quot; gây sốt](https://dantri.com.vn/giai-tri/tao-quan-2025-dam-gio-ben-con-hoi-thoai-ngoan-xinh-yeu-gay-sot-20250129043612536.htm) - 00:53 29/01/2025
