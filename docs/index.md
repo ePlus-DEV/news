@@ -410,10 +410,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- baochinhphu:START -->
 - 💻 [9 ngày nghỉ Tết Ất Tỵ: Tai nạn giảm mạnh](https://baochinhphu.vn/9-ngay-nghi-tet-at-ty-tai-nan-giam-manh-102250202164225605.htm) - 17:16 02/02/2025
 - 🌜 [Du lịch Ninh Bình bội thu kỳ nghỉ Tết Nguyên đán Ất Tỵ](https://baochinhphu.vn/du-lich-ninh-binh-boi-thu-ky-nghi-tet-nguyen-dan-at-ty-102250202162050493.htm) - 16:20 02/02/2025
-- 🦆 [Chế độ lương đối với người chuyên trách công tác đảng](https://baochinhphu.vn/che-do-luong-doi-voi-nguoi-chuyen-trach-cong-tac-dang-102250122101148709.htm) - 14:02 02/02/2025
-- 🌝 [RẠNG RỠ VIỆT NAM](https://baochinhphu.vn/rang-ro-viet-nam-102250202101034492.htm) - 14:00 02/02/2025
-- 🦣 [Thủ tướng dâng hương tại Nhà tưởng niệm Chủ tịch Hồ Chí Minh với chiến dịch Biên giới](https://baochinhphu.vn/thu-tuong-dang-huong-tai-nha-tuong-niem-chu-tich-ho-chi-minh-voi-chien-dich-bien-gioi-102250202134901537.htm) - 13:52 02/02/2025
-- ⛽️ [Thủ tướng thị sát dự án cao tốc Đồng Đăng &lpar;Lạng Sơn&rpar; - Trà Lĩnh &lpar;Cao Bằng&rpar;](https://baochinhphu.vn/thu-tuong-thi-sat-du-an-cao-toc-dong-dang-lang-son-tra-linh-cao-bang-102250202122429826.htm) - 13:21 02/02/2025
+- 🦆 [Thủ tướng thị sát dự án cao tốc Đồng Đăng &lpar;Lạng Sơn&rpar; - Trà Lĩnh &lpar;Cao Bằng&rpar;](https://baochinhphu.vn/thu-tuong-thi-sat-du-an-cao-toc-dong-dang-lang-son-tra-linh-cao-bang-102250202122429826.htm) - 15:21 02/02/2025
+- 🌝 [Chế độ lương đối với người chuyên trách công tác đảng](https://baochinhphu.vn/che-do-luong-doi-voi-nguoi-chuyen-trach-cong-tac-dang-102250122101148709.htm) - 14:02 02/02/2025
+- 🦣 [RẠNG RỠ VIỆT NAM](https://baochinhphu.vn/rang-ro-viet-nam-102250202101034492.htm) - 14:00 02/02/2025
+- ⛽️ [Thủ tướng dâng hương tại Nhà tưởng niệm Chủ tịch Hồ Chí Minh với chiến dịch Biên giới](https://baochinhphu.vn/thu-tuong-dang-huong-tai-nha-tuong-niem-chu-tich-ho-chi-minh-voi-chien-dich-bien-gioi-102250202134901537.htm) - 13:52 02/02/2025
 - 🎓 [Đảng ta, mùa xuân lịch sử 1930 đến mùa xuân của kỷ nguyên vươn mình](https://baochinhphu.vn/dang-ta-mua-xuan-lich-su-1930-den-mua-xuan-cua-ky-nguyen-vuon-minh-102250128220112305.htm) - 12:48 02/02/2025
 - 💡 [Không khí lạnh tăng cường gây rét đậm, rét hại](https://baochinhphu.vn/khong-khi-lanh-tang-cuong-gay-ret-dam-ret-hai-1022502020907201.htm) - 10:41 02/02/2025
 - 🌊 [Người trọn đời giữ gìn nét văn hóa tự hào của đồng bào Khmer Nam Bộ](https://baochinhphu.vn/nguoi-tron-doi-giu-gin-net-van-hoa-tu-hao-cua-dong-bao-khmer-nam-bo-102250123172405118.htm) - 10:02 02/02/2025
