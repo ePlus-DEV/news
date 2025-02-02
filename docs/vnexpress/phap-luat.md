@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Hàng nghìn cảnh sát truy bắt nhóm tra tấn, phi tang xác con bạc](https://vnexpress.net/hang-nghin-canh-sat-truy-bat-nhom-tra-tan-phi-tang-xac-con-bac-4842932.html) - 17:00 01/02/2025
-- 🥰 [Bảo vệ quyền lợi thế nào khi mua thực phẩm giá &#39;cắt cổ&#39; vào dịp Tết?](https://vnexpress.net/bao-ve-quyen-loi-the-nao-khi-mua-thuc-pham-gia-cat-co-vao-dip-tet-4842641.html) - 17:00 01/02/2025
+- 🥰 [Xử lý sao khi mua thực phẩm giá &#39;cắt cổ&#39; dịp Tết?](https://vnexpress.net/bao-ve-quyen-loi-the-nao-khi-mua-thuc-pham-gia-cat-co-vao-dip-tet-4842641.html) - 17:00 01/02/2025
 - 🎓 [Thanh niên trộm ắc-quy ngày Tết](https://video.vnexpress.net/thanh-nien-trom-ac-quy-ngay-tet-4844052.html) - 03:34 01/02/2025
 - 🤓 [Qua đêm ở phòng trọ của người yêu, có phải đăng ký lưu trú?](https://vnexpress.net/qua-dem-o-phong-tro-cua-nguoi-yeu-co-phai-dang-ky-luu-tru-4842639.html) - 01:00 01/02/2025
 - 🎊 [Người khiến vợ bị 50 đàn ông xâm hại tiếp tục bị điều tra ở nhiều vụ án](https://vnexpress.net/nguoi-khien-vo-bi-50-dan-ong-xam-hai-tiep-tuc-bi-dieu-tra-o-nhieu-vu-an-4844702.html) - 00:23 01/02/2025
