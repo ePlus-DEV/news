@@ -585,66 +585,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Đỗ Thị Hà: ‘Tôi không hoàn hảo’](https://tienphong.vn/do-thi-ha-toi-khong-hoan-hao-post1712145.tpo) - 10:14 02/02/2025
-- 🎊 [Đầu xuân đi lễ Đền Cái Lân - ngôi đền thiêng cầu được ước thấy](https://tienphong.vn/dau-xuan-di-le-den-cai-lan-ngoi-den-thieng-cau-duoc-uoc-thay-post1713630.tpo) - 10:11 02/02/2025
-- 💼 [Đi lại hơn 2.000km để check-in Hà Giang](https://tienphong.vn/di-lai-hon-2000km-de-check-in-ha-giang-post1713683.tpo) - 10:10 02/02/2025
-- 👺 [Tin mới về 21 trạm dừng nghỉ trên cao tốc Bắc - Nam](https://tienphong.vn/tin-moi-ve-21-tram-dung-nghi-tren-cao-toc-bac-nam-post1713677.tpo) - 10:04 02/02/2025
-- 💪 [Chiêm ngưỡng ngôi cổ tự 1.000 năm tuổi có cổng tam quan bằng gỗ &#39;khủng&#39;](https://tienphong.vn/chiem-nguong-ngoi-co-tu-1000-nam-tuoi-co-cong-tam-quan-bang-go-khung-post1713640.tpo) - 09:58 02/02/2025
-- 💃 [Chuyện chưa kể về đường sắt tốc độ cao Bắc - Nam; bất ngờ số tiền Kho bạc Nhà nước gửi tại 3 ngân hàng](https://tienphong.vn/chuyen-chua-ke-ve-duong-sat-toc-do-cao-bac-nam-bat-ngo-so-tien-kho-bac-nha-nuoc-gui-tai-3-ngan-hang-post1713664.tpo) - 09:57 02/02/2025
-- 🦍 [Ô tô lao xuống kênh, 1 người tử vong](https://tienphong.vn/o-to-lao-xuong-kenh-1-nguoi-tu-vong-post1713694.tpo) - 09:52 02/02/2025
-- 👹 [Nhận định Brentford vs Tottenham, 21h00 ngày 2/2: Ngày tàn của triều đại Postecoglou](https://tienphong.vn/nhan-dinh-brentford-vs-tottenham-21h00-ngay-22-ngay-tan-cua-trieu-dai-postecoglou-post1713695.tpo) - 09:50 02/02/2025
-- 🌜 [Thông tin về nơi tổ chức Hoa hậu Thế giới 2025](https://tienphong.vn/thong-tin-ve-noi-to-chuc-hoa-hau-the-gioi-2025-post1713598.tpo) - 09:44 02/02/2025
-- 🎓 [Hơn 7.800 tỷ đồng hỗ trợ, tặng quà Tết](https://tienphong.vn/hon-7800-ty-dong-ho-tro-tang-qua-tet-post1713682.tpo) - 09:42 02/02/2025
-- 🦣 [&#39;Anh hùng xạ điêu 2025&#39; thất bại thảm hại, Tiêu Chiến sụp đổ danh tiếng](https://tienphong.vn/anh-hung-xa-dieu-2025-that-bai-tham-hai-tieu-chien-sup-do-danh-tieng-post1713617.tpo) - 09:34 02/02/2025
-- 🤓 [Tội phạm và tai nạn giao thông ở Bắc Giang giảm sâu dịp Tết Nguyên đán](https://tienphong.vn/toi-pham-va-tai-nan-giao-thong-o-bac-giang-giam-sau-dip-tet-nguyen-dan-post1713680.tpo) - 09:28 02/02/2025
-- 🌁 [Phim Tết có Châu Nhuận Phát giúp mỹ nam 9X lập kỷ lục](https://tienphong.vn/phim-tet-co-chau-nhuan-phat-giup-my-nam-9x-lap-ky-luc-post1713620.tpo) - 09:27 02/02/2025
-- 🤩 [Hơn 150.000 khách đổ về sân bay Tân Sơn Nhất mùng 5 Tết](https://tienphong.vn/hon-150000-khach-do-ve-san-bay-tan-son-nhat-mung-5-tet-post1713687.tpo) - 09:18 02/02/2025
-- 🫶 [Quy định mới về dạy thêm, học thêm; Việc lớn của ngành giáo dục năm 2025](https://tienphong.vn/quy-dinh-moi-ve-day-them-hoc-them-viec-lon-cua-nganh-giao-duc-nam-2025-post1713688.tpo) - 09:18 02/02/2025
-- 🌁 [Tiểu Vy: &#39;Tôi không cần lấy chồng giàu&#39;](https://tienphong.vn/tieu-vy-toi-khong-can-lay-chong-giau-post1713553.tpo) - 09:16 02/02/2025
-- 🤭 [Tiếc cho ngọc nữ trăm tỷ](https://tienphong.vn/tiec-cho-ngoc-nu-tram-ty-post1713601.tpo) - 09:13 02/02/2025
-- 💪 [Cuộc gặp của Hà Anh Tuấn và người phụ nữ quét rác đêm Giao thừa](https://tienphong.vn/cuoc-gap-cua-ha-anh-tuan-va-nguoi-phu-nu-quet-rac-dem-giao-thua-post1713627.tpo) - 09:01 02/02/2025
-- 🎡 [Nhà Trắng phản hồi video khóc lóc của Selena Gomez](https://tienphong.vn/nha-trang-phan-hoi-video-khoc-loc-cua-selena-gomez-post1713631.tpo) - 08:51 02/02/2025
-- 😎 [Thư tuyệt mệnh dài 17 trang của nữ MC thời tiết qua đời ở tuổi 28](https://tienphong.vn/thu-tuyet-menh-dai-17-trang-cua-nu-mc-thoi-tiet-qua-doi-o-tuoi-28-post1713678.tpo) - 08:44 02/02/2025
-- 🦄 [Địa ốc 24H: Nơi giá chung cư tăng cao nhất; Kịch bản cho thị trường BĐS năm 2025](https://tienphong.vn/dia-oc-24h-noi-gia-chung-cu-tang-cao-nhat-kich-ban-cho-thi-truong-bds-nam-2025-post1713684.tpo) - 08:18 02/02/2025
-- 🚀 [Độc lạ con suối ở Bình Định, nước sôi sùng sục luộc chín trứng](https://tienphong.vn/doc-la-con-suoi-o-binh-dinh-nuoc-soi-sung-suc-luoc-chin-trung-post1713636.tpo) - 08:09 02/02/2025
-- 🤓 [STUDY4 đồng hành cùng thí sinh học và luyện thi IELTS trên máy](https://tienphong.vn/study4-dong-hanh-cung-thi-sinh-hoc-va-luyen-thi-ielts-tren-may-post1711206.tpo) - 08:00 02/02/2025
-- 💄 [Hoa mận bung nở trắng trên cao nguyên Mộc Châu ngày đầu Xuân](https://tienphong.vn/hoa-man-bung-no-trang-tren-cao-nguyen-moc-chau-ngay-dau-xuan-post1713662.tpo) - 07:38 02/02/2025
-- 🌋 [THẾ GIỚI 24H: Mỹ không kích IS ở Somalia](https://tienphong.vn/the-gioi-24h-my-khong-kich-is-o-somalia-post1713679.tpo) - 07:35 02/02/2025
-- 🥷 [Bí ẩn phiên chợ Âm Phủ chỉ họp lúc nửa đêm ở Bắc Ninh](https://tienphong.vn/bi-an-phien-cho-am-phu-chi-hop-luc-nua-dem-o-bac-ninh-post1713672.tpo) - 07:13 02/02/2025
-- 🦏 [Nhận định MU vs Crystal Palace, 21h00 ngày 2/2: Đối thủ khó chịu](https://tienphong.vn/nhan-dinh-mu-vs-crystal-palace-21h00-ngay-22-doi-thu-kho-chiu-post1713652.tpo) - 07:10 02/02/2025
-- 🎓 [Nhận định Arsenal vs Man City, 23h30 ngày 2/2: Pháo nổ đầu xuân](https://tienphong.vn/nhan-dinh-arsenal-vs-man-city-23h30-ngay-22-phao-no-dau-xuan-post1713663.tpo) - 07:07 02/02/2025
+- 💼 [Nhiều hoạt động văn hoá, thể thao tại Bộ Chỉ huy Quân sự tỉnh Nghệ An ngày đầu Xuân](https://tienphong.vn/nhieu-hoat-dong-van-hoa-the-thao-tai-bo-chi-huy-quan-su-tinh-nghe-an-ngay-dau-xuan-post1713660.tpo) - 10:49 02/02/2025
+- 🎊 [Du học sinh, sinh viên nói về Tết Thầy?](https://tienphong.vn/du-hoc-sinh-sinh-vien-noi-ve-tet-thay-post1713691.tpo) - 10:46 02/02/2025
+- 💼 [Giáo viên công lập có được điều hành hoạt động dạy thêm ngoài nhà trường?](https://tienphong.vn/giao-vien-cong-lap-co-duoc-dieu-hanh-hoat-dong-day-them-ngoai-nha-truong-post1713685.tpo) - 10:41 02/02/2025
+- 👺 [Nga tung video phá hủy xuồng tự sát của Ukraine gần Crimea](https://tienphong.vn/nga-tung-video-pha-huy-xuong-tu-sat-cua-ukraine-gan-crimea-post1713703.tpo) - 10:41 02/02/2025
+- 💪 [Nhiều trường ở Thanh Hóa gặp khó khi dạy và học môn Tin học theo chương trình mới](https://tienphong.vn/nhieu-truong-o-thanh-hoa-gap-kho-khi-day-va-hoc-mon-tin-hoc-theo-chuong-trinh-moi-post1713674.tpo) - 10:40 02/02/2025
+- 💃 [Ngay sau Tết Nguyên đán, nhiều nơi tổ chức đấu giá đất](https://tienphong.vn/ngay-sau-tet-nguyen-dan-nhieu-noi-to-chuc-dau-gia-dat-post1713689.tpo) - 10:37 02/02/2025
+- 🦍 [Tìm thấy &#39;kho báu vô giá&#39; giấu trong hốc tường](https://tienphong.vn/tim-thay-kho-bau-vo-gia-giau-trong-hoc-tuong-post1708551.tpo) - 10:34 02/02/2025
+- 👹 [Cận cảnh cú Hole in one ngoạn mục, chiến công đầu năm mới của Rory McIlroy](https://tienphong.vn/can-canh-cu-hole-in-one-ngoan-muc-chien-cong-dau-nam-moi-cua-rory-mcilroy-post1713699.tpo) - 10:26 02/02/2025
+- 🌜 [Vừa nhận tiền tấn từ Al Hilal, Neymar liền nói xấu đội bóng cũ](https://tienphong.vn/vua-nhan-tien-tan-tu-al-hilal-neymar-lien-noi-xau-doi-bong-cu-post1713698.tpo) - 10:23 02/02/2025
+- 🎓 [Vươn khơi đầu năm, ngư dân phấn khởi đón ‘lộc trời’](https://tienphong.vn/vuon-khoi-dau-nam-ngu-dan-phan-khoi-don-loc-troi-post1713693.tpo) - 10:22 02/02/2025
+- 🦣 [Tổng thống Mỹ Trump áp thuế với Mexico, Canada và Trung Quốc, bất chấp nguy cơ chiến tranh thương mại](https://tienphong.vn/tong-thong-my-trump-ap-thue-voi-mexico-canada-va-trung-quoc-bat-chap-nguy-co-chien-tranh-thuong-mai-post1713696.tpo) - 10:20 02/02/2025
+- 🤓 [Ford đẩy mạnh các dòng xe giá rẻ](https://tienphong.vn/ford-day-manh-cac-dong-xe-gia-re-post1713671.tpo) - 10:20 02/02/2025
+- 🌁 [Đỗ Thị Hà: ‘Tôi không hoàn hảo’](https://tienphong.vn/do-thi-ha-toi-khong-hoan-hao-post1712145.tpo) - 10:14 02/02/2025
+- 🤩 [Đầu xuân đi lễ Đền Cái Lân - ngôi đền thiêng cầu được ước thấy](https://tienphong.vn/dau-xuan-di-le-den-cai-lan-ngoi-den-thieng-cau-duoc-uoc-thay-post1713630.tpo) - 10:11 02/02/2025
+- 🫶 [Đi lại hơn 2.000km để check-in Hà Giang](https://tienphong.vn/di-lai-hon-2000km-de-check-in-ha-giang-post1713683.tpo) - 10:10 02/02/2025
+- 🌁 [Tin mới về 21 trạm dừng nghỉ trên cao tốc Bắc - Nam](https://tienphong.vn/tin-moi-ve-21-tram-dung-nghi-tren-cao-toc-bac-nam-post1713677.tpo) - 10:04 02/02/2025
+- 🤭 [Chiêm ngưỡng ngôi cổ tự 1.000 năm tuổi có cổng tam quan bằng gỗ &#39;khủng&#39;](https://tienphong.vn/chiem-nguong-ngoi-co-tu-1000-nam-tuoi-co-cong-tam-quan-bang-go-khung-post1713640.tpo) - 09:58 02/02/2025
+- 💪 [Chuyện chưa kể về đường sắt tốc độ cao Bắc - Nam; bất ngờ số tiền Kho bạc Nhà nước gửi tại 3 ngân hàng](https://tienphong.vn/chuyen-chua-ke-ve-duong-sat-toc-do-cao-bac-nam-bat-ngo-so-tien-kho-bac-nha-nuoc-gui-tai-3-ngan-hang-post1713664.tpo) - 09:57 02/02/2025
+- 🎡 [Ô tô lao xuống kênh, 1 người tử vong](https://tienphong.vn/o-to-lao-xuong-kenh-1-nguoi-tu-vong-post1713694.tpo) - 09:52 02/02/2025
+- 😎 [Nhận định Brentford vs Tottenham, 21h00 ngày 2/2: Ngày tàn của triều đại Postecoglou](https://tienphong.vn/nhan-dinh-brentford-vs-tottenham-21h00-ngay-22-ngay-tan-cua-trieu-dai-postecoglou-post1713695.tpo) - 09:50 02/02/2025
+- 🦄 [Thông tin về nơi tổ chức Hoa hậu Thế giới 2025](https://tienphong.vn/thong-tin-ve-noi-to-chuc-hoa-hau-the-gioi-2025-post1713598.tpo) - 09:44 02/02/2025
+- 🚀 [Hơn 7.800 tỷ đồng hỗ trợ, tặng quà Tết](https://tienphong.vn/hon-7800-ty-dong-ho-tro-tang-qua-tet-post1713682.tpo) - 09:42 02/02/2025
+- 🤓 [&#39;Anh hùng xạ điêu 2025&#39; thất bại thảm hại, Tiêu Chiến sụp đổ danh tiếng](https://tienphong.vn/anh-hung-xa-dieu-2025-that-bai-tham-hai-tieu-chien-sup-do-danh-tieng-post1713617.tpo) - 09:34 02/02/2025
+- 💄 [Tội phạm và tai nạn giao thông ở Bắc Giang giảm sâu dịp Tết Nguyên đán](https://tienphong.vn/toi-pham-va-tai-nan-giao-thong-o-bac-giang-giam-sau-dip-tet-nguyen-dan-post1713680.tpo) - 09:28 02/02/2025
+- 🌋 [Phim Tết có Châu Nhuận Phát giúp mỹ nam 9X lập kỷ lục](https://tienphong.vn/phim-tet-co-chau-nhuan-phat-giup-my-nam-9x-lap-ky-luc-post1713620.tpo) - 09:27 02/02/2025
+- 🥷 [Hơn 150.000 khách đổ về sân bay Tân Sơn Nhất mùng 5 Tết](https://tienphong.vn/hon-150000-khach-do-ve-san-bay-tan-son-nhat-mung-5-tet-post1713687.tpo) - 09:18 02/02/2025
+- 🦏 [Quy định mới về dạy thêm, học thêm; Việc lớn của ngành giáo dục năm 2025](https://tienphong.vn/quy-dinh-moi-ve-day-them-hoc-them-viec-lon-cua-nganh-giao-duc-nam-2025-post1713688.tpo) - 09:18 02/02/2025
+- 🎓 [Tiểu Vy: &#39;Tôi không cần lấy chồng giàu&#39;](https://tienphong.vn/tieu-vy-toi-khong-can-lay-chong-giau-post1713553.tpo) - 09:16 02/02/2025
+- 🐘 [Tiếc cho ngọc nữ trăm tỷ](https://tienphong.vn/tiec-cho-ngoc-nu-tram-ty-post1713601.tpo) - 09:13 02/02/2025
+- 🎡 [Cuộc gặp của Hà Anh Tuấn và người phụ nữ quét rác đêm Giao thừa](https://tienphong.vn/cuoc-gap-cua-ha-anh-tuan-va-nguoi-phu-nu-quet-rac-dem-giao-thua-post1713627.tpo) - 09:01 02/02/2025
+- 🔭 [Nhà Trắng phản hồi video khóc lóc của Selena Gomez](https://tienphong.vn/nha-trang-phan-hoi-video-khoc-loc-cua-selena-gomez-post1713631.tpo) - 08:51 02/02/2025
+- 🧰 [Thư tuyệt mệnh dài 17 trang của nữ MC thời tiết qua đời ở tuổi 28](https://tienphong.vn/thu-tuyet-menh-dai-17-trang-cua-nu-mc-thoi-tiet-qua-doi-o-tuoi-28-post1713678.tpo) - 08:44 02/02/2025
+- 💂 [Địa ốc 24H: Nơi giá chung cư tăng cao nhất; Kịch bản cho thị trường BĐS năm 2025](https://tienphong.vn/dia-oc-24h-noi-gia-chung-cu-tang-cao-nhat-kich-ban-cho-thi-truong-bds-nam-2025-post1713684.tpo) - 08:18 02/02/2025
+- 🦏 [Độc lạ con suối ở Bình Định, nước sôi sùng sục luộc chín trứng](https://tienphong.vn/doc-la-con-suoi-o-binh-dinh-nuoc-soi-sung-suc-luoc-chin-trung-post1713636.tpo) - 08:09 02/02/2025
+- 🌋 [STUDY4 đồng hành cùng thí sinh học và luyện thi IELTS trên máy](https://tienphong.vn/study4-dong-hanh-cung-thi-sinh-hoc-va-luyen-thi-ielts-tren-may-post1711206.tpo) - 08:00 02/02/2025
+- 🧰 [Hoa mận bung nở trắng trên cao nguyên Mộc Châu ngày đầu Xuân](https://tienphong.vn/hoa-man-bung-no-trang-tren-cao-nguyen-moc-chau-ngay-dau-xuan-post1713662.tpo) - 07:38 02/02/2025
+- 🦩 [THẾ GIỚI 24H: Mỹ không kích IS ở Somalia](https://tienphong.vn/the-gioi-24h-my-khong-kich-is-o-somalia-post1713679.tpo) - 07:35 02/02/2025
+- 📝 [Bí ẩn phiên chợ Âm Phủ chỉ họp lúc nửa đêm ở Bắc Ninh](https://tienphong.vn/bi-an-phien-cho-am-phu-chi-hop-luc-nua-dem-o-bac-ninh-post1713672.tpo) - 07:13 02/02/2025
+- 🤓 [Nhận định MU vs Crystal Palace, 21h00 ngày 2/2: Đối thủ khó chịu](https://tienphong.vn/nhan-dinh-mu-vs-crystal-palace-21h00-ngay-22-doi-thu-kho-chiu-post1713652.tpo) - 07:10 02/02/2025
+- 🎭 [Nhận định Arsenal vs Man City, 23h30 ngày 2/2: Pháo nổ đầu xuân](https://tienphong.vn/nhan-dinh-arsenal-vs-man-city-23h30-ngay-22-phao-no-dau-xuan-post1713663.tpo) - 07:07 02/02/2025
 - 🐘 [Bất ngờ với bến đỗ mới của Marcus Rashford sau khi rời MU](https://tienphong.vn/bat-ngo-voi-ben-do-moi-cua-marcus-rashford-sau-khi-roi-mu-post1713667.tpo) - 07:00 02/02/2025
-- 🎡 [Nhận định Barcelona vs Alaves, 20h00 ngày 2/2: Tiếp đà thăng hoa](https://tienphong.vn/nhan-dinh-barcelona-vs-alaves-20h00-ngay-22-tiep-da-thang-hoa-post1713666.tpo) - 06:59 02/02/2025
-- 🔭 [Từ đêm nay, miền Bắc chuyển rét đậm](https://tienphong.vn/tu-dem-nay-mien-bac-chuyen-ret-dam-post1713676.tpo) - 06:52 02/02/2025
-- 🧰 [Cảm thức về Người Lính](https://tienphong.vn/cam-thuc-ve-nguoi-linh-post1707514.tpo) - 06:43 02/02/2025
-- 💂 [Tam Chúc: Hành trình 10.000 năm dấu chân người Việt](https://tienphong.vn/tam-chuc-hanh-trinh-10000-nam-dau-chan-nguoi-viet-post1707918.tpo) - 06:36 02/02/2025
-- 🦏 [Đưa golf Việt vươn tầm thế giới](https://tienphong.vn/dua-golf-viet-vuon-tam-the-gioi-post1707328.tpo) - 06:29 02/02/2025
-- 🌋 [Ca sĩ Đoan Trường: Tự hào đem tà áo dài đi khắp năm châu bốn bể…](https://tienphong.vn/ca-si-doan-truong-tu-hao-dem-ta-ao-dai-di-khap-nam-chau-bon-be-post1706932.tpo) - 06:26 02/02/2025
-- 🧰 [Nhiệm kỳ truyền cảm hứng của hoa hậu Thanh Thủy](https://tienphong.vn/nhiem-ky-truyen-cam-hung-cua-hoa-hau-thanh-thuy-post1706999.tpo) - 06:17 02/02/2025
-- 🦩 [Tháo gỡ &#39;điểm nghẽn&#39; của &#39;điểm nghẽn&#39;](https://tienphong.vn/thao-go-diem-nghen-cua-diem-nghen-post1711759.tpo) - 06:17 02/02/2025
-- 📝 [‘Anh giáo gen Z’ điển trai, đa tài](https://tienphong.vn/anh-giao-gen-z-dien-trai-da-tai-post1713568.tpo) - 06:11 02/02/2025
-- 🤓 [Những chuyến bay](https://tienphong.vn/nhung-chuyen-bay-post1706927.tpo) - 06:10 02/02/2025
-- 🎭 [Xuất hiện video Ukraine thả bom JDAM-ER của Mỹ từ máy bay chiến đấu Su-27](https://tienphong.vn/xuat-hien-video-ukraine-tha-bom-jdam-er-cua-my-tu-may-bay-chien-dau-su-27-post1713650.tpo) - 06:10 02/02/2025
-- 🐘 [Hàng loạt nước Ả-rập đồng lòng bác bỏ ý tưởng của Tổng thống Mỹ Trump](https://tienphong.vn/hang-loat-nuoc-a-rap-dong-long-bac-bo-y-tuong-cua-tong-thong-my-trump-post1713654.tpo) - 06:10 02/02/2025
-- 😺 [Nga có kế hoạch sản xuất tên lửa Iskander đạt tầm bắn 1.000km](https://tienphong.vn/nga-co-ke-hoach-san-xuat-ten-lua-iskander-dat-tam-ban-1000km-post1713648.tpo) - 06:06 02/02/2025
-- 🌁 [Tham vọng của ông Trump về lá chắn phòng thủ Vòm sắt không dễ thực hiện](https://tienphong.vn/tham-vong-cua-ong-trump-ve-la-chan-phong-thu-vom-sat-khong-de-thuc-hien-post1713645.tpo) - 06:06 02/02/2025
-- 💄 [Tiết lộ số lượng tên lửa Nga phóng vào Ukraine trong ngày đầu tiên của tháng 2](https://tienphong.vn/tiet-lo-so-luong-ten-lua-nga-phong-vao-ukraine-trong-ngay-dau-tien-cua-thang-2-post1713655.tpo) - 06:00 02/02/2025
-- 🧰 [Đường nội đô và cao tốc cùng &#39;chuyển động&#39;](https://tienphong.vn/duong-noi-do-va-cao-toc-cung-chuyen-dong-post1707563.tpo) - 06:00 02/02/2025
-- 🗽 [Tiến sĩ trẻ và bước đột phá công nghệ bền vững](https://tienphong.vn/tien-si-tre-va-buoc-dot-pha-cong-nghe-ben-vung-post1711257.tpo) - 05:51 02/02/2025
-- 📝 [Tiệc tùng linh đình ngày Tết coi chừng rước bệnh vào thân](https://tienphong.vn/tiec-tung-linh-dinh-ngay-tet-coi-chung-ruoc-benh-vao-than-post1713051.tpo) - 05:01 02/02/2025
-- 🪄 [Lãnh đạo các chính đảng chúc mừng kỷ niệm 95 năm Ngày thành lập Đảng Cộng sản Việt Nam](https://tienphong.vn/lanh-dao-cac-chinh-dang-chuc-mung-ky-niem-95-nam-ngay-thanh-lap-dang-cong-san-viet-nam-post1713659.tpo) - 23:51 01/02/2025
-- 🪜 [Trong 8 ngày Tết: Khám, cấp cứu gần 550.000 lượt người](https://tienphong.vn/trong-8-ngay-tet-kham-cap-cuu-gan-550000-luot-nguoi-post1713644.tpo) - 21:21 01/02/2025
-- 🤡 [Salah đưa Liverpool vượt ải Bournemouth](https://tienphong.vn/salah-dua-liverpool-vuot-ai-bournemouth-post1713642.tpo) - 21:15 01/02/2025
-- 🌮 [Rạp phim ở TPHCM hút khách ngày mùng 4 Tết](https://tienphong.vn/rap-phim-o-tphcm-hut-khach-ngay-mung-4-tet-post1713628.tpo) - 20:26 01/02/2025
-- 🕯 [Giá xăng dầu đồng loạt giảm, có loại giảm tới gần 1.000 đồng/lít](https://tienphong.vn/gia-xang-dau-dong-loat-giam-co-loai-giam-toi-gan-1000-donglit-post1713633.tpo) - 19:37 01/02/2025
-- 🌜 [Dòng xe nối đuôi nhau ở cửa ngõ phía Đông TPHCM chiều mùng 4 Tết](https://tienphong.vn/dong-xe-noi-duoi-nhau-o-cua-ngo-phia-dong-tphcm-chieu-mung-4-tet-post1713635.tpo) - 19:32 01/02/2025
-- 💼 [Ngày đầu năm về ngôi đền nộp hơn 25 tỷ đồng tiền công đức](https://tienphong.vn/ngay-dau-nam-ve-ngoi-den-nop-hon-25-ty-dong-tien-cong-duc-post1713606.tpo) - 19:18 01/02/2025
-- 🌏 [Trung Quốc: Bé trai ném pháo xuống bể phốt gây nổ lớn, nhiều xe sang bị hư hại](https://tienphong.vn/trung-quoc-be-trai-nem-phao-xuong-be-phot-gay-no-lon-nhieu-xe-sang-bi-hu-hai-post1713637.tpo) - 19:13 01/02/2025
-- 🤩 [Người dân ‘Nam tiến’, giao thông qua Đắk Lắk ùn ứ cục bộ](https://tienphong.vn/nguoi-dan-nam-tien-giao-thong-qua-dak-lak-un-u-cuc-bo-post1713626.tpo) - 18:57 01/02/2025
-- 💯 [Mùng 4 Tết, người dân lỉnh kỉnh đồ đạc trở lại Hà Nội](https://tienphong.vn/mung-4-tet-nguoi-dan-linh-kinh-do-dac-tro-lai-ha-noi-post1713592.tpo) - 18:56 01/02/2025
-- 🤔 [Du lịch biển đảo Nha Trang hút khách dịp Tết](https://tienphong.vn/du-lich-bien-dao-nha-trang-hut-khach-dip-tet-post1713604.tpo) - 18:46 01/02/2025
-- 🦏 [Gặp những người mà &#39;Tết là mưu sinh&#39;](https://tienphong.vn/gap-nhung-nguoi-ma-tet-la-muu-sinh-post1713600.tpo) - 18:45 01/02/2025
-- 🤩 [Nga ồ ạt không kích Ukraine, Ba Lan gấp rút điều động máy bay chiến đấu](https://tienphong.vn/nga-o-at-khong-kich-ukraine-ba-lan-gap-rut-dieu-dong-may-bay-chien-dau-post1713622.tpo) - 18:29 01/02/2025<!-- hoahoctro:END -->
+- 😺 [Nhận định Barcelona vs Alaves, 20h00 ngày 2/2: Tiếp đà thăng hoa](https://tienphong.vn/nhan-dinh-barcelona-vs-alaves-20h00-ngay-22-tiep-da-thang-hoa-post1713666.tpo) - 06:59 02/02/2025
+- 🌁 [Từ đêm nay, miền Bắc chuyển rét đậm](https://tienphong.vn/tu-dem-nay-mien-bac-chuyen-ret-dam-post1713676.tpo) - 06:52 02/02/2025
+- 💄 [Cảm thức về Người Lính](https://tienphong.vn/cam-thuc-ve-nguoi-linh-post1707514.tpo) - 06:43 02/02/2025
+- 🧰 [Tam Chúc: Hành trình 10.000 năm dấu chân người Việt](https://tienphong.vn/tam-chuc-hanh-trinh-10000-nam-dau-chan-nguoi-viet-post1707918.tpo) - 06:36 02/02/2025
+- 🗽 [Đưa golf Việt vươn tầm thế giới](https://tienphong.vn/dua-golf-viet-vuon-tam-the-gioi-post1707328.tpo) - 06:29 02/02/2025
+- 📝 [Ca sĩ Đoan Trường: Tự hào đem tà áo dài đi khắp năm châu bốn bể…](https://tienphong.vn/ca-si-doan-truong-tu-hao-dem-ta-ao-dai-di-khap-nam-chau-bon-be-post1706932.tpo) - 06:26 02/02/2025
+- 🪄 [Nhiệm kỳ truyền cảm hứng của hoa hậu Thanh Thủy](https://tienphong.vn/nhiem-ky-truyen-cam-hung-cua-hoa-hau-thanh-thuy-post1706999.tpo) - 06:17 02/02/2025
+- 🪜 [Tháo gỡ &#39;điểm nghẽn&#39; của &#39;điểm nghẽn&#39;](https://tienphong.vn/thao-go-diem-nghen-cua-diem-nghen-post1711759.tpo) - 06:17 02/02/2025
+- 🤡 [‘Anh giáo gen Z’ điển trai, đa tài](https://tienphong.vn/anh-giao-gen-z-dien-trai-da-tai-post1713568.tpo) - 06:11 02/02/2025
+- 🌮 [Những chuyến bay](https://tienphong.vn/nhung-chuyen-bay-post1706927.tpo) - 06:10 02/02/2025
+- 🕯 [Xuất hiện video Ukraine thả bom JDAM-ER của Mỹ từ máy bay chiến đấu Su-27](https://tienphong.vn/xuat-hien-video-ukraine-tha-bom-jdam-er-cua-my-tu-may-bay-chien-dau-su-27-post1713650.tpo) - 06:10 02/02/2025
+- 🌜 [Hàng loạt nước Ả-rập đồng lòng bác bỏ ý tưởng của Tổng thống Mỹ Trump](https://tienphong.vn/hang-loat-nuoc-a-rap-dong-long-bac-bo-y-tuong-cua-tong-thong-my-trump-post1713654.tpo) - 06:10 02/02/2025
+- 💼 [Nga có kế hoạch sản xuất tên lửa Iskander đạt tầm bắn 1.000km](https://tienphong.vn/nga-co-ke-hoach-san-xuat-ten-lua-iskander-dat-tam-ban-1000km-post1713648.tpo) - 06:06 02/02/2025
+- 🌏 [Tham vọng của ông Trump về lá chắn phòng thủ Vòm sắt không dễ thực hiện](https://tienphong.vn/tham-vong-cua-ong-trump-ve-la-chan-phong-thu-vom-sat-khong-de-thuc-hien-post1713645.tpo) - 06:06 02/02/2025
+- 🤩 [Tiết lộ số lượng tên lửa Nga phóng vào Ukraine trong ngày đầu tiên của tháng 2](https://tienphong.vn/tiet-lo-so-luong-ten-lua-nga-phong-vao-ukraine-trong-ngay-dau-tien-cua-thang-2-post1713655.tpo) - 06:00 02/02/2025
+- 💯 [Đường nội đô và cao tốc cùng &#39;chuyển động&#39;](https://tienphong.vn/duong-noi-do-va-cao-toc-cung-chuyen-dong-post1707563.tpo) - 06:00 02/02/2025
+- 🤔 [Tiến sĩ trẻ và bước đột phá công nghệ bền vững](https://tienphong.vn/tien-si-tre-va-buoc-dot-pha-cong-nghe-ben-vung-post1711257.tpo) - 05:51 02/02/2025
+- 🦏 [Tiệc tùng linh đình ngày Tết coi chừng rước bệnh vào thân](https://tienphong.vn/tiec-tung-linh-dinh-ngay-tet-coi-chung-ruoc-benh-vao-than-post1713051.tpo) - 05:01 02/02/2025
+- 🤩 [Lãnh đạo các chính đảng chúc mừng kỷ niệm 95 năm Ngày thành lập Đảng Cộng sản Việt Nam](https://tienphong.vn/lanh-dao-cac-chinh-dang-chuc-mung-ky-niem-95-nam-ngay-thanh-lap-dang-cong-san-viet-nam-post1713659.tpo) - 23:51 01/02/2025<!-- hoahoctro:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
