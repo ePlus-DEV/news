@@ -4,8 +4,8 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Xe máy va chạm với container, một cô gái trẻ tử vong](https://dantri.com.vn/xa-hoi/xe-may-va-cham-voi-container-mot-co-gai-tre-tu-vong-20250203211410311.htm) - 14:27 03/02/2025
-- 👨‍🏫 [Hà Nội xảy ra động đất](https://dantri.com.vn/xa-hoi/ha-noi-xay-ra-dong-dat-20250203212742631.htm) - 14:26 03/02/2025
+- 🎭 [Nga lên tiếng về đề xuất đàm phán 4 bên chấm dứt xung đột Ukraine](https://dantri.com.vn/the-gioi/nga-len-tieng-ve-de-xuat-dam-phan-4-ben-cham-dut-xung-dot-ukraine-20250203201903284.htm) - 14:32 03/02/2025
+- 👨‍🏫 [Xe máy va chạm với container, một cô gái trẻ tử vong](https://dantri.com.vn/xa-hoi/xe-may-va-cham-voi-container-mot-co-gai-tre-tu-vong-20250203211410311.htm) - 14:27 03/02/2025
 - 🌮 [Ukraine liên tiếp tấn công các nhà máy lọc dầu chủ chốt của Nga](https://dantri.com.vn/the-gioi/ukraine-lien-tiep-tan-cong-cac-nha-may-loc-dau-chu-chot-cua-nga-20250203203309043.htm) - 14:16 03/02/2025
 - 🕯 [Từ Hy Viên nhập viện cấp cứu nhiều lần trước khi qua đời ở Nhật Bản](https://dantri.com.vn/giai-tri/tu-hy-vien-nhap-vien-cap-cuu-nhieu-lan-truoc-khi-qua-doi-o-nhat-ban-20250203190358386.htm) - 12:48 03/02/2025
 - 🪜 [Báo Mỹ tiết lộ bước đi của Trung Quốc sau đòn thuế của Tổng thống Trump](https://dantri.com.vn/the-gioi/bao-my-tiet-lo-buoc-di-cua-trung-quoc-sau-don-thue-cua-tong-thong-trump-20250203184036397.htm) - 12:19 03/02/2025
