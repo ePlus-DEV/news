@@ -255,7 +255,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 👍 [Hàng ngàn người tham dự Lễ khai hội Chùa Hương](https://nld.com.vn/hang-ngan-nguoi-tham-du-le-khai-hoi-chua-huong-196250203190558156.htm) - 12:58 03/02/2025
 - 🥷 [Thủ tướng: TP HCM và nhiều địa phương đạt doanh thu du lịch Tết cao](https://nld.com.vn/thu-tuong-tp-hcm-va-nhieu-dia-phuong-dat-doanh-thu-du-lich-tet-cao-196250203184320427.htm) - 12:57 03/02/2025
 - 🤔 [Cuộc thi viết &quot;TẾT THỜI SỐ&quot;: Tết thời nay từ làng lên phố](https://nld.com.vn/cuoc-thi-viet-tet-thoi-so-tet-thoi-nay-tu-lang-len-pho-196250203194433872.htm) - 12:52 03/02/2025
-- 🌈 [Tối 3-2, giá vàng miếng SJC nhảy vọt tiếp sát 90 triệu đồng](https://nld.com.vn/toi-3-2-gia-vang-mieng-sjc-nhay-vot-tiep-sat-90-trieu-dong-196250203185837246.htm) - 12:03 03/02/2025
+- 🌈 [Tối 3-2, giá vàng miếng SJC nhảy vọt tiến sát 90 triệu đồng](https://nld.com.vn/toi-3-2-gia-vang-mieng-sjc-nhay-vot-tien-sat-90-trieu-dong-196250203185837246.htm) - 12:03 03/02/2025
 - 🔥 [Người phụ nữ va chạm xe khách tử vong, bị kéo lê 20 m](https://nld.com.vn/nguoi-phu-nu-va-cham-xe-khach-bi-keo-le-20-m-va-tu-vong-196250203182522864.htm) - 11:52 03/02/2025
 - 🧰 [Thực hư “giải cứu” sầu riêng giá siêu rẻ](https://nld.com.vn/thuc-hu-giai-cuu-sau-rieng-gia-sieu-re-196250203175419758.htm) - 11:15 03/02/2025
 - 🤗 [Tổng Bí thư Tô Lâm dâng hương tưởng niệm Thủ tướng Phạm Văn Đồng](https://nld.com.vn/tong-bi-thu-to-lam-dang-huong-tuong-niem-thu-tuong-pham-van-dong-196250203180912611.htm) - 11:04 03/02/2025
