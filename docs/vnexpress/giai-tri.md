@@ -8,7 +8,7 @@ sidebar_position: 5
 - 💫 [Will Smith bị phản đối tại Grammy](https://vnexpress.net/will-smith-bi-phan-doi-tai-grammy-4845324.html) - 09:43 03/02/2025
 - 🌮 [Trấn Thành: Tôi buồn khi Bộ tứ báo thủ bị nhận xét tiêu cực](https://vnexpress.net/tran-thanh-toi-buon-khi-bo-tu-bao-thu-bi-nhan-xet-tieu-cuc-4845157.html) - 09:30 03/02/2025
 - 🧠 [Julia Fox đeo găng tay rửa bát lên thảm đỏ](https://vnexpress.net/julia-fox-deo-gang-tay-rua-bat-len-tham-do-4845278.html) - 07:37 03/02/2025
-- 👨‍🏫 [Những ngày cuối đời của Từ Hy Viên](https://vnexpress.net/nhung-ngay-cuoi-doi-cua-tu-hy-vien-4845299.html) - 07:14 03/02/2025
+- 👨‍🏫 [Những ngày cuối đời của Từ Hy Viên](https://vnexpress.net/nhung-ngay-cuoi-doi-cua-tu-hy-vien-vnepre-4845299.html) - 07:14 03/02/2025
 - ⚗️ [Chủ nghĩa khắc kỷ trỗi dậy](https://vnexpress.net/chu-nghia-khac-ky-troi-day-4844865.html) - 06:15 03/02/2025
 - 😎 [Con trai Will Smith diện phong cách lập dị ở Grammy](https://vnexpress.net/con-trai-will-smith-dien-phong-cach-lap-di-o-grammy-4845191.html) - 05:36 03/02/2025
 - 🫣 [Doãn Hải My, Đoàn Văn Hậu du xuân](https://vnexpress.net/doan-hai-my-doan-van-hau-du-xuan-4845211.html) - 05:16 03/02/2025
