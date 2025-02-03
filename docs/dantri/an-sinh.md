@@ -6,7 +6,7 @@ sidebar_position: 11
 <!-- dantri-an-sinh:START -->
 - 👺 [Tranh cãi việc sơ cứu bé trai đuối nước tại quán cà phê](https://dantri.com.vn/an-sinh/tranh-cai-viec-so-cuu-be-trai-duoi-nuoc-tai-quan-ca-phe-20250203144451468.htm) - 08:37 03/02/2025
 - 👀 [Cô gái khuyết tật bán kẹp tóc trên phố, nuôi mơ ước đưa bà đi du lịch](https://dantri.com.vn/an-sinh/co-gai-khuyet-tat-ban-kep-toc-tren-pho-nuoi-mo-uoc-dua-ba-di-du-lich-20250203142419386.htm) - 07:59 03/02/2025
-- 💡 [&quot;Tinh giản bộ máy, chọn ai là theo tiêu chuẩn công khai, minh bạch&quot;](https://dantri.com.vn/an-sinh/tinh-gian-bo-may-chon-ai-la-theo-tieu-chuan-cong-khai-minh-bach-20250203142718620.htm) - 07:57 03/02/2025
+- 💡 [&quot;Tinh giản bộ máy, chọn ai, ai là người được chọn không hề dễ dàng!&quot;](https://dantri.com.vn/an-sinh/tinh-gian-bo-may-chon-ai-ai-la-nguoi-duoc-chon-khong-he-de-dang-20250203142718620.htm) - 07:57 03/02/2025
 - 💄 [Chuyện của Quyết: Từ đứa trẻ đường phố đến cuộc gặp gỡ thay đổi số phận](https://dantri.com.vn/an-sinh/chuyen-cua-quyet-tu-dua-tre-duong-pho-den-cuoc-gap-go-thay-doi-so-phan-20250120192129276.htm) - 23:00 02/02/2025
 - 🧠 [Một phường tổ chức lễ mừng thọ cho 111 người cao tuổi](https://dantri.com.vn/an-sinh/mot-phuong-to-chuc-le-mung-tho-cho-111-nguoi-cao-tuoi-20250202173744734.htm) - 12:02 02/02/2025
 - 🫣 [Điểm mới về mức trợ cấp tuất hằng tháng năm 2025](https://dantri.com.vn/an-sinh/diem-moi-ve-muc-tro-cap-tuat-hang-thang-nam-2025-20250125061416230.htm) - 06:00 02/02/2025
