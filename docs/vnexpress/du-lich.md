@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Gần 150.000 người hành hương núi Bà Đen đầu năm](https://vnexpress.net/gan-150-000-nguoi-hanh-huong-nui-ba-den-dau-nam-4845050.html) - 01:00 03/02/2025
+- 💂 [Gần 150.000 người hành hương núi Bà Đen mùng 4 Tết](https://vnexpress.net/gan-150-000-nguoi-hanh-huong-nui-ba-den-mung-4-tet-4845050.html) - 01:00 03/02/2025
 - 🪄 [8 tỉnh thành có doanh thu du lịch nghìn tỷ dịp Tết](https://vnexpress.net/8-tinh-thanh-co-doanh-thu-du-lich-nghin-ty-dip-tet-4844989.html) - 00:00 03/02/2025
 - 🦅 [Bên trong &#39;tháp của Chúa&#39; hơn 600 tuổi ở Thổ Nhĩ Kỳ](https://vnexpress.net/ben-trong-thap-cua-chua-hon-600-tuoi-o-tho-nhi-ky-4825788.html) - 12:00 02/02/2025
 - 🕴 [Những kiểu hành khách gây ác mộng trên máy bay](https://vnexpress.net/nhung-kieu-hanh-khach-gay-ac-mong-tren-may-bay-4844870.html) - 05:00 02/02/2025
