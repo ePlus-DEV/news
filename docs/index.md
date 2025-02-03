@@ -516,7 +516,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌮 [Quyết định 174/QÐ-BVHTTDL về Chương trình thực hành tiết kiệm, chống lãng phí năm 2025 của Bộ Văn hóa, Thể thao và Du lịch](https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Quyet-dinh-174-Q%c3%90-BVHTTDL-2025-Chuong-trinh-thuc-hanh-tiet-kiem-chong-lang-phi-640736.aspx) - 00:00 21/01/2025
 - 📝 [Công văn 319/TCT-QLN năm 2025 về tiền chậm nộp do Tổng cục Thuế ban hành](https://thuvienphapluat.vn/cong-van/Thue-Phi-Le-Phi/Cong-van-319-TCT-QLN-2025-tien-cham-nop-640860.aspx) - 00:00 21/01/2025
 - 🐲 [Dự thảo Nghị định hướng dẫn Luật Bảo hiểm y tế](https://thuvienphapluat.vn/van-ban/Bao-hiem/Nghi-dinh-huong-dan-Luat-Bao-hiem-y-te-641049.aspx) - 00:00 21/01/2025
-- 🥸 [Quyết định 01/2025/QĐ-UBND quy định các yếu tố làm căn cứ xác định giá đất cụ thể trên địa bàn tỉnh Quảng Trị](https://thuvienphapluat.vn/van-ban/Bat-dong-san/Quyet-dinh-01-2025-QD-UBND-yeu-to-lam-can-cu-xac-dinh-gia-dat-cu-the-Quang-Tri-641019.aspx) - 00:00 20/01/2025<!-- thuvienphapluat:END -->
+- 🥸 [Nghị định 12/2025/NĐ-CP quy định việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng đường thủy nội địa](https://thuvienphapluat.vn/van-ban/Giao-thong-Van-tai/Nghi-dinh-12-2025-ND-CP-quan-ly-su-dung-khai-thac-tai-san-ket-cau-ha-tang-duong-thuy-noi-dia-641414.aspx) - 00:00 20/01/2025<!-- thuvienphapluat:END -->
 
 ## Báo Mực Tím
 <!-- muctim:START -->
