@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Khách Trung &#39;tố&#39; quán ăn Nha Trang tính bữa cơm hơn 20 triệu đồng](https://vnexpress.net/khach-trung-to-quan-an-nha-trang-tinh-bua-com-hon-20-trieu-dong-4845810.html) - 13:23 04/02/2025
+- 💂 [Nha Trang xác minh khách Trung &#39;tố&#39; quán ăn tính bữa cơm hơn 20 triệu đồng](https://vnexpress.net/nha-trang-xac-minh-khach-trung-to-quan-an-tinh-bua-com-hon-20-trieu-dong-4845810.html) - 13:23 04/02/2025
 - 🪄 [Khách tháo chạy khỏi thiên đường du lịch Santorini vì động đất](https://vnexpress.net/khach-thao-chay-khoi-thien-duong-du-lich-santorini-vi-dong-dat-4845809.html) - 13:09 04/02/2025
 - 🦅 [6 ngôi đền &#39;xin visa&#39; của người Ấn Độ](https://vnexpress.net/6-ngoi-den-xin-visa-cua-nguoi-an-do-4845754.html) - 09:30 04/02/2025
 - 🕴 [Thái Lan &#39;được mùa&#39; khách Trung dịp Tết](https://vnexpress.net/thai-lan-duoc-mua-khach-trung-dip-tet-4845521.html) - 06:50 04/02/2025
