@@ -4,20 +4,20 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Trung Quốc trả đũa khi thuế nhập khẩu của Mỹ có hiệu lực](https://vnexpress.net/trung-quoc-tra-dua-khi-thue-nhap-khau-cua-my-co-hieu-luc-4845642.html) - 05:29 04/02/2025
-- 🐲 [Ông Trump muốn lập quỹ đầu tư quốc gia](https://vnexpress.net/ong-trump-muon-lap-quy-dau-tu-quoc-gia-4845474.html) - 03:58 04/02/2025
-- 🔥 [Tái chế pin giúp giảm một nửa khí nhà kính so với khai thác mỏ](https://vnexpress.net/tai-che-pin-giup-giam-mot-nua-khi-nha-kinh-so-voi-khai-thac-mo-4845561.html) - 03:20 04/02/2025
-- 🐵 [Giá vàng nhẫn lập kỷ lục, vượt 90 triệu một lượng](https://vnexpress.net/gia-vang-nhan-lap-ky-luc-vuot-90-trieu-mot-luong-4845550.html) - 03:03 04/02/2025
-- 🦅 [Các kênh đầu tư sẽ diễn biến ra sao trong năm nay?](https://vnexpress.net/cac-kenh-dau-tu-se-dien-bien-ra-sao-trong-nam-nay-vnepre-4841747.html) - 02:04 04/02/2025
-- 😺 [Giá vàng thế giới tiếp tục tăng](https://vnexpress.net/gia-vang-the-gioi-tiep-tuc-tang-4845465.html) - 00:49 04/02/2025
-- 🤩 [Doanh nghiệp toàn cầu đối phó thuế của Mỹ thế nào](https://vnexpress.net/doanh-nghiep-toan-cau-doi-pho-thue-cua-my-the-nao-4845132.html) - 20:00 03/02/2025
-- 🌮 [Người Mỹ ngày càng lạc quan về kinh tế dưới thời ông Trump](https://vnexpress.net/nguoi-my-ngay-cang-lac-quan-ve-kinh-te-duoi-thoi-ong-trump-4845382.html) - 18:03 03/02/2025
-- 🧰 [Mỹ hoãn áp thuế Mexico, Canada](https://vnexpress.net/my-hoan-ap-thue-mexico-canada-4845434.html) - 16:28 03/02/2025
-- 🤔 [Thủ tướng: &#39;Không để xảy ra vụ việc tương tự SCB&#39;](https://vnexpress.net/thu-tuong-khong-de-xay-ra-vu-viec-tuong-tu-scb-4845407.html) - 13:05 03/02/2025
-- 🧑‍💻 [Doanh nghiệp sản xuất lạc quan hơn trong năm 2025](https://vnexpress.net/doanh-nghiep-san-xuat-lac-quan-hon-trong-nam-2025-4845360.html) - 10:30 03/02/2025
-- 🕴 [Khối ngoại bán ròng mạnh phiên sau Tết](https://vnexpress.net/khoi-ngoai-ban-rong-manh-phien-sau-tet-4845377.html) - 10:23 03/02/2025
-- 🦩 [Sầu riêng trái vụ giảm giá mạnh](https://vnexpress.net/sau-rieng-trai-vu-giam-gia-manh-4845245.html) - 08:25 03/02/2025
-- 👍 [Hanwha Life Hàn Quốc đẩy mạnh mở rộng thị trường quốc tế](https://vnexpress.net/hanwha-life-han-quoc-day-manh-mo-rong-thi-truong-quoc-te-4845629.html) - 06:00 03/02/2025
+- ⛽️ [Hanwha Life Hàn Quốc đẩy mạnh mở rộng thị trường quốc tế](https://vnexpress.net/hanwha-life-han-quoc-day-manh-mo-rong-thi-truong-quoc-te-4845629.html) - 06:00 04/02/2025
+- 🐲 [Trung Quốc trả đũa khi thuế nhập khẩu của Mỹ có hiệu lực](https://vnexpress.net/trung-quoc-tra-dua-khi-thue-nhap-khau-cua-my-co-hieu-luc-4845642.html) - 05:29 04/02/2025
+- 🔥 [Ông Trump muốn lập quỹ đầu tư quốc gia](https://vnexpress.net/ong-trump-muon-lap-quy-dau-tu-quoc-gia-4845474.html) - 03:58 04/02/2025
+- 🐵 [Tái chế pin giúp giảm một nửa khí nhà kính so với khai thác mỏ](https://vnexpress.net/tai-che-pin-giup-giam-mot-nua-khi-nha-kinh-so-voi-khai-thac-mo-4845561.html) - 03:20 04/02/2025
+- 🦅 [Giá vàng nhẫn lập kỷ lục, vượt 90 triệu một lượng](https://vnexpress.net/gia-vang-nhan-lap-ky-luc-vuot-90-trieu-mot-luong-4845550.html) - 03:03 04/02/2025
+- 😺 [Các kênh đầu tư sẽ diễn biến ra sao trong năm nay?](https://vnexpress.net/cac-kenh-dau-tu-se-dien-bien-ra-sao-trong-nam-nay-vnepre-4841747.html) - 02:04 04/02/2025
+- 🤩 [Giá vàng thế giới tiếp tục tăng](https://vnexpress.net/gia-vang-the-gioi-tiep-tuc-tang-4845465.html) - 00:49 04/02/2025
+- 🌮 [Doanh nghiệp toàn cầu đối phó thuế của Mỹ thế nào](https://vnexpress.net/doanh-nghiep-toan-cau-doi-pho-thue-cua-my-the-nao-4845132.html) - 20:00 03/02/2025
+- 🧰 [Người Mỹ ngày càng lạc quan về kinh tế dưới thời ông Trump](https://vnexpress.net/nguoi-my-ngay-cang-lac-quan-ve-kinh-te-duoi-thoi-ong-trump-4845382.html) - 18:03 03/02/2025
+- 🤔 [Mỹ hoãn áp thuế Mexico, Canada](https://vnexpress.net/my-hoan-ap-thue-mexico-canada-4845434.html) - 16:28 03/02/2025
+- 🧑‍💻 [Thủ tướng: &#39;Không để xảy ra vụ việc tương tự SCB&#39;](https://vnexpress.net/thu-tuong-khong-de-xay-ra-vu-viec-tuong-tu-scb-4845407.html) - 13:05 03/02/2025
+- 🕴 [Doanh nghiệp sản xuất lạc quan hơn trong năm 2025](https://vnexpress.net/doanh-nghiep-san-xuat-lac-quan-hon-trong-nam-2025-4845360.html) - 10:30 03/02/2025
+- 🦩 [Khối ngoại bán ròng mạnh phiên sau Tết](https://vnexpress.net/khoi-ngoai-ban-rong-manh-phien-sau-tet-4845377.html) - 10:23 03/02/2025
+- 👍 [Sầu riêng trái vụ giảm giá mạnh](https://vnexpress.net/sau-rieng-trai-vu-giam-gia-manh-4845245.html) - 08:25 03/02/2025
 - 🏊 [Ngân hàng lớn cuối cùng của Canada rời liên minh Net Zero](https://vnexpress.net/ngan-hang-lon-cuoi-cung-cua-canada-roi-lien-minh-net-zero-4845254.html) - 04:26 03/02/2025
 - 🤡 [Hãng tàu cao tốc ra Phú Quốc lỗ nặng nhất 3 năm](https://vnexpress.net/hang-tau-cao-toc-ra-phu-quoc-lo-nang-nhat-3-nam-4845213.html) - 04:26 03/02/2025
 - 👀 [Giá vàng nhẫn lên sát đỉnh 89 triệu đồng](https://vnexpress.net/gia-vang-nhan-tien-sat-dinh-89-trieu-dong-4845205.html) - 03:49 03/02/2025
