@@ -8,7 +8,7 @@ sidebar_position: 1
 - 💼 [Xe khách nát bét sau khi bị ủi xuống taluy](https://dantri.com.vn/xa-hoi/xe-khach-nat-bet-sau-khi-bi-ui-xuong-taluy-20250204192515926.htm) - 13:50 04/02/2025
 - 🎊 [Nhiều bằng lái gần hết hạn chưa thể cấp đổi do lỗi phần mềm](https://dantri.com.vn/xa-hoi/nhieu-bang-lai-gan-het-han-chua-the-cap-doi-do-loi-phan-mem-20250204184024418.htm) - 13:11 04/02/2025
 - 🙉 [Một công ty lớn bị chính quyền quận ở Đà Nẵng cấm đấu thầu 3 năm](https://dantri.com.vn/xa-hoi/mot-cong-ty-lon-bi-chinh-quyen-quan-o-da-nang-cam-dau-thau-3-nam-20250204172238130.htm) - 13:05 04/02/2025
-- 🕯 [Thứ trưởng Nguyễn Thị Hà thăm, chúc Tết Báo Dân trí](https://dantri.com.vn/xa-hoi/thu-truong-nguyen-thi-ha-tham-chuc-tet-bao-dan-tri-20250204185340502.htm) - 12:57 04/02/2025
+- 🕯 [Thứ trưởng Nguyễn Thị Hà thăm, chúc Tết báo Dân trí](https://dantri.com.vn/xa-hoi/thu-truong-nguyen-thi-ha-tham-chuc-tet-bao-dan-tri-20250204185340502.htm) - 12:57 04/02/2025
 - 👍 [Ngỡ ngàng nhận lại xe máy sau 4 năm bị mất cắp](https://dantri.com.vn/xa-hoi/ngo-ngang-nhan-lai-xe-may-sau-4-nam-bi-mat-cap-20250204181408339.htm) - 12:46 04/02/2025
 - 🤖 [Ken đặc người đi chợ &quot;mua may, bán rủi&quot;](https://dantri.com.vn/xa-hoi/ken-dac-nguoi-di-cho-mua-may-ban-rui-20250204182513730.htm) - 12:34 04/02/2025
 - 🙉 [Vượt đèn đỏ đưa người đi cấp cứu, tài xế ô tô được xóa lỗi phạt nguội](https://dantri.com.vn/xa-hoi/vuot-den-do-dua-nguoi-di-cap-cuu-tai-xe-o-to-duoc-xoa-loi-phat-nguoi-20250204191045368.htm) - 12:22 04/02/2025
