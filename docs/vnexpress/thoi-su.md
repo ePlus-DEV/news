@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Lo giữ việc, lao động quay lại làm việc ngay sau Tết](https://vnexpress.net/lo-giu-viec-lao-dong-quay-lai-lam-viec-ngay-sau-tet-4845838.html) - 22:00 04/02/2025
+- 🦒 [Lo giữ việc, lao động quay lại ngay sau Tết](https://vnexpress.net/lo-giu-viec-lao-dong-quay-lai-ngay-sau-tet-4845838.html) - 22:00 04/02/2025
 - 🤓 [Đồng Nai xây đường 4.300 tỷ đồng kết nối sân bay Long Thành](https://vnexpress.net/dong-nai-xay-duong-4-300-ty-dong-ket-noi-san-bay-long-thanh-4845802.html) - 17:00 04/02/2025
 - ⚗️ [Ngôi đền thờ Ngô Quyền ở cửa sông Bạch Đằng](https://vnexpress.net/ngoi-den-tho-ngo-quyen-o-cua-song-bach-dang-4842289.html) - 17:00 04/02/2025
 - 🌊 [Hội vật gần 700 năm làng Vĩnh Khê](https://vnexpress.net/hoi-vat-gan-700-nam-lang-vinh-khe-4845832.html) - 15:10 04/02/2025
