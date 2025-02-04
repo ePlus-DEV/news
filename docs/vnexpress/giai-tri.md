@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🌏 [Chồng cũ Từ Hy Viên: &#39;Vợ, anh rất nhớ em&#39;](https://vnexpress.net/chong-cu-tu-hy-vien-vo-anh-rat-nho-em-4845690.html) - 08:49 04/02/2025
 - 💫 [Lễ hỏa táng Từ Hy Viên hoàn tất tại Nhật](https://vnexpress.net/le-hoa-tang-tu-hy-vien-hoan-tat-tai-nhat-4845650.html) - 07:56 04/02/2025
 - 🌮 [Hương Giang tình tứ bên bạn trai đầu xuân](https://vnexpress.net/huong-giang-tinh-tu-ben-ban-trai-dau-xuan-4845568.html) - 07:30 04/02/2025
-- 🧠 [Jisoo &lpar;Blackpink&rpar; tổ chức họp mặt fan ở Hà Nội](https://vnexpress.net/jisoo-blackpink-to-chuc-hop-mat-fan-o-ha-noi-4845600.html) - 07:19 04/02/2025
+- 🧠 [Jisoo nhóm Blackpink sẽ họp fan ở Hà Nội](https://vnexpress.net/jisoo-nhom-blackpink-se-hop-fan-o-ha-noi-4845600.html) - 07:19 04/02/2025
 - 👨‍🏫 [Nicolas Cage phản đối AI](https://vnexpress.net/nicolas-cage-phan-doi-ai-4845484.html) - 06:28 04/02/2025
 - ⚗️ [Các hoa hậu, á hậu chụp ảnh cảm hứng từ cải lương](https://vnexpress.net/cac-hoa-hau-a-hau-chup-anh-cam-hung-tu-cai-luong-4845337.html) - 04:01 04/02/2025
 - 😎 [Sao Ukraine được khen &#39;sắc nước hương trời&#39;](https://vnexpress.net/sao-ukraine-duoc-khen-sac-nuoc-huong-troi-4843822.html) - 02:36 04/02/2025
