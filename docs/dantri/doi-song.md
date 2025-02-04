@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Hết Tết và trăn trở của những người con lập nghiệp xa quê](https://dantri.com.vn/doi-song/het-tet-va-tran-tro-cua-nhung-nguoi-con-lap-nghiep-xa-que-20250204165351595.htm) - 09:53 04/02/2025
+- 🥳 [Bên trong nhà máy sửa chữa tên lửa lớn nhất Việt Nam](https://dantri.com.vn/doi-song/ben-trong-nha-may-sua-chua-ten-lua-lon-nhat-viet-nam-20250204094235892.htm) - 07:04 04/02/2025
 - 🌁 [Cụ bà U90 lì xì các cháu cả cây vàng, lý do khiến ai cũng nghẹn lòng](https://dantri.com.vn/doi-song/cu-ba-u90-li-xi-cac-chau-ca-cay-vang-ly-do-khien-ai-cung-nghen-long-20250204103626456.htm) - 04:22 04/02/2025
 - 👀 [Người trẻ xin nghỉ làm sớm, vượt 50km đi chùa Hà cầu duyên đầu năm](https://dantri.com.vn/doi-song/nguoi-tre-xin-nghi-lam-som-vuot-50km-di-chua-ha-cau-duyen-dau-nam-20250204091306338.htm) - 03:27 04/02/2025
 - 🐻 [Chủ nhà lặng người vì tìm ra bí mật bị che giấu phía sau cánh cửa cầu thang](https://dantri.com.vn/doi-song/chu-nha-lang-nguoi-vi-tim-ra-bi-mat-bi-che-giau-phia-sau-canh-cua-cau-thang-20250203235437061.htm) - 00:13 04/02/2025
