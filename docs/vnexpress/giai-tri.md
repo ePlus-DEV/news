@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Châu Bùi: &#39;Vui khi trọn vẹn công việc lẫn tình duyên&#39;](https://vnexpress.net/chau-bui-vui-khi-tron-ven-cong-viec-lan-tinh-duyen-4842552.html) - 17:00 03/02/2025
+- 🌏 [Châu Bùi: &#39;Tôi trọn vẹn công việc lẫn tình duyên&#39;](https://vnexpress.net/chau-bui-toi-tron-ven-cong-viec-lan-tinh-duyen-4842552.html) - 17:00 03/02/2025
 - 💫 [Chồng hôn vĩnh biệt Từ Hy Viên](https://vnexpress.net/chong-hon-vinh-biet-tu-hy-vien-4845422.html) - 16:00 03/02/2025
 - 🌮 [11 câu nói thể hiện sự &#39;dám yêu, dám hận&#39; của Từ Hy Viên](https://vnexpress.net/11-cau-noi-the-hien-su-dam-yeu-dam-han-cua-tu-hy-vien-4845236.html) - 11:40 03/02/2025
 - 🧠 [Nghệ sĩ Mỹ diện đầm Đỗ Mạnh Cường ở Grammy](https://vnexpress.net/nghe-si-my-dien-dam-do-manh-cuong-o-grammy-4845370.html) - 10:20 03/02/2025
