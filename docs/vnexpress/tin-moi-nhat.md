@@ -25,7 +25,7 @@ sidebar_position: 9
 - 💪 [Con trai ông Trump bị cáo buộc săn vịt trái phép ở Italy](https://vnexpress.net/con-trai-ong-trump-bi-cao-buoc-san-vit-trai-phep-o-italy-4845827.html) - 16:21 04/02/2025
 - 🎓 [Tìm bạn cùng thiền và thưởng thức trà đạo](https://vnexpress.net/tim-ban-cung-thien-va-thuong-thuc-tra-dao-4845697.html) - 16:00 04/02/2025
 - 🫣 [Đại học Giao thông vận tải nhân đôi điểm Toán khi xét tuyển](https://vnexpress.net/dai-hoc-giao-thong-van-tai-nhan-doi-diem-toan-khi-xet-tuyen-4845804.html) - 15:38 04/02/2025
-- 🧑‍💻 [Hội vật độc lạ làng Vĩnh Khê](https://vnexpress.net/hoi-vat-doc-la-lang-vinh-khe-4845832.html) - 15:10 04/02/2025
+- 🧑‍💻 [Hội vật gần 700 năm làng Vĩnh Khê](https://vnexpress.net/hoi-vat-gan-700-nam-lang-vinh-khe-4845832.html) - 15:10 04/02/2025
 - 🐲 [Thủ tướng Đức chỉ trích ý tưởng &#39;đổi khoáng sản lấy viện trợ cho Ukraine&#39;](https://vnexpress.net/thu-tuong-duc-chi-trich-y-tuong-doi-khoang-san-lay-vien-tro-cho-ukraine-4845811.html) - 15:07 04/02/2025
 - 🌝 [Tài tử Triệu Văn Trác đưa vợ con du xuân Phú Quốc](https://vnexpress.net/tai-tu-trieu-van-trac-dua-vo-con-du-xuan-phu-quoc-4845830.html) - 14:51 04/02/2025
 - 😺 [Anh luôn cố gắng để hoàn thiện bản thân mỗi ngày](https://vnexpress.net/anh-luon-co-gang-de-hoan-thien-ban-than-moi-ngay-4845702.html) - 14:25 04/02/2025
