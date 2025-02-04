@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hai vé số trúng đặc biệt bị từ chối trả thưởng vì &#39;rách nát&#39;](https://vnexpress.net/hai-ve-so-trung-dac-biet-bi-tu-choi-tra-thuong-vi-rach-nat-4845796.html) - 12:30 04/02/2025
+- 🦒 [Hai vé số trúng đặc biệt bị từ chối trả thưởng vì rách nát](https://vnexpress.net/hai-ve-so-trung-dac-biet-bi-tu-choi-tra-thuong-vi-rach-nat-4845796.html) - 12:30 04/02/2025
 - 🤓 [&#39;Báo chí cần khơi dậy khát vọng cống hiến, xây dựng đất nước&#39;](https://vnexpress.net/bao-chi-can-khoi-day-khat-vong-cong-hien-xay-dung-dat-nuoc-4845747.html) - 10:37 04/02/2025
 - ⚗️ [Phó thủ tướng: Triển khai ngay dự án dẫn nước sông Hồng về Tô Lịch](https://vnexpress.net/pho-thu-tuong-trien-khai-ngay-du-an-dan-nuoc-song-hong-ve-to-lich-4845724.html) - 09:15 04/02/2025
 - 🌊 [Tổng Bí thư: &#39;Không ăn Tết kéo dài&#39;](https://vnexpress.net/tong-bi-thu-khong-an-tet-keo-dai-4845693.html) - 08:55 04/02/2025
