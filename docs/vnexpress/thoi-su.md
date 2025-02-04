@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Đồng Nai xây đường 4.300 tỷ đồng kết nối sân bay Long Thành](https://vnexpress.net/dong-nai-xay-duong-4-300-ty-dong-ket-noi-san-bay-long-thanh-4845802.html) - 17:00 04/02/2025
 - 🤓 [Ngôi đền thờ Ngô Quyền ở cửa sông Bạch Đằng](https://vnexpress.net/ngoi-den-tho-ngo-quyen-o-cua-song-bach-dang-4842289.html) - 17:00 04/02/2025
-- ⚗️ [Hội vật độc lạ làng Vĩnh Khê](https://vnexpress.net/hoi-vat-doc-la-lang-vinh-khe-4845832.html) - 15:10 04/02/2025
+- ⚗️ [Hội vật gần 700 năm làng Vĩnh Khê](https://vnexpress.net/hoi-vat-gan-700-nam-lang-vinh-khe-4845832.html) - 15:10 04/02/2025
 - 🌊 [Hai vé số trúng đặc biệt bị từ chối trả thưởng vì rách nát](https://vnexpress.net/hai-ve-so-trung-dac-biet-bi-tu-choi-tra-thuong-vi-rach-nat-4845796.html) - 12:30 04/02/2025
 - 🎓 [&#39;Báo chí cần khơi dậy khát vọng cống hiến, xây dựng đất nước&#39;](https://vnexpress.net/bao-chi-can-khoi-day-khat-vong-cong-hien-xay-dung-dat-nuoc-4845747.html) - 10:37 04/02/2025
 - 🔥 [Phó thủ tướng: Triển khai ngay dự án dẫn nước sông Hồng về Tô Lịch](https://vnexpress.net/pho-thu-tuong-trien-khai-ngay-du-an-dan-nuoc-song-hong-ve-to-lich-4845724.html) - 09:15 04/02/2025
