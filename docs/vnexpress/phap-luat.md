@@ -4,8 +4,8 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Xe khách đâm bẹp dúm ôtô chở gia đình 4 người](https://vnexpress.net/tai-xe-xe-khach-bi-tam-giu-vi-dam-bep-dum-oto-cho-gia-dinh-4-nguoi-4845559.html) - 03:49 04/02/2025
-- 🥰 [Cuộc truy lùng tội phạm từ hai nhóm kín trên mạng](https://vnexpress.net/cuoc-truy-lung-toi-pham-tu-hai-nhom-kin-tren-mang-4844891.html) - 03:45 04/02/2025
+- 😎 [Tài xế xe khách đâm bẹp dúm ôtô chở gia đình 4 người](https://vnexpress.net/tai-xe-xe-khach-bi-tam-giu-vi-dam-bep-dum-oto-cho-gia-dinh-4-nguoi-4845559.html) - 03:49 04/02/2025
+- 🥰 [Cuộc truy lùng tội phạm từ 2 hội nhóm kín trên mạng](https://vnexpress.net/cuoc-truy-lung-toi-pham-tu-2-hoi-nhom-kin-tren-mang-4844891.html) - 03:45 04/02/2025
 - 🎓 [Những người già Nhật Bản thích được chăm sóc miễn phí trong tù](https://vnexpress.net/nhung-nguoi-gia-nhat-ban-co-tinh-pham-phap-de-duoc-cham-soc-trong-tu-4845408.html) - 03:01 04/02/2025
 - 🤓 [Có được đăng ký thường trú trên đất không có nhà?](https://vnexpress.net/co-duoc-dang-ky-thuong-tru-tren-dat-khong-co-nha-4845179.html) - 23:00 03/02/2025
 - 🎊 [&#39;Ác phụ&#39; hơn hai năm che đậy tội ác dưới sân sau](https://vnexpress.net/ac-phu-hon-2-nam-che-day-toi-ac-duoi-san-sau-4845394.html) - 17:00 03/02/2025
