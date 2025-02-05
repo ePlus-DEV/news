@@ -406,10 +406,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Kế hoạch cải cách thủ tục hành chính trọng tâm năm 2025](https://baochinhphu.vn/ke-hoach-cai-cach-thu-tuc-hanh-chinh-trong-tam-nam-2025-102250205121819543.htm) - 14:41 05/02/2025
-- 🌜 [Ủy ban Thường vụ Quốc hội cho ý kiến về Kỳ họp Quốc hội bất thường lần thứ 9](https://baochinhphu.vn/uy-ban-thuong-vu-quoc-hoi-cho-y-kien-ve-ky-hop-quoc-hoi-bat-thuong-lan-thu-9-102250205143638619.htm) - 14:39 05/02/2025
-- 🦆 [Chủ tịch nước Lương Cường thăm và làm việc với Tỉnh ủy Lạng Sơn](https://baochinhphu.vn/chu-tich-nuoc-luong-cuong-tham-va-lam-viec-voi-tinh-uy-lang-son-102250205143210915.htm) - 14:37 05/02/2025
-- 🌝 [Thủ tướng: Đưa chi thường xuyên xuống dưới 60% tổng chi ngân sách](https://baochinhphu.vn/thu-tuong-dua-chi-thuong-xuyen-xuong-duoi-60-tong-chi-ngan-sach-102250205125411213.htm) - 13:58 05/02/2025
+- 💻 [Thủ tướng: Đưa chi thường xuyên xuống dưới 60% tổng chi ngân sách](https://baochinhphu.vn/thu-tuong-dua-chi-thuong-xuyen-xuong-duoi-60-tong-chi-ngan-sach-102250205125411213.htm) - 14:48 05/02/2025
+- 🌜 [Kế hoạch cải cách thủ tục hành chính trọng tâm năm 2025](https://baochinhphu.vn/ke-hoach-cai-cach-thu-tuc-hanh-chinh-trong-tam-nam-2025-102250205121819543.htm) - 14:41 05/02/2025
+- 🦆 [Ủy ban Thường vụ Quốc hội cho ý kiến về Kỳ họp Quốc hội bất thường lần thứ 9](https://baochinhphu.vn/uy-ban-thuong-vu-quoc-hoi-cho-y-kien-ve-ky-hop-quoc-hoi-bat-thuong-lan-thu-9-102250205143638619.htm) - 14:39 05/02/2025
+- 🌝 [Chủ tịch nước Lương Cường thăm và làm việc với Tỉnh ủy Lạng Sơn](https://baochinhphu.vn/chu-tich-nuoc-luong-cuong-tham-va-lam-viec-voi-tinh-uy-lang-son-102250205143210915.htm) - 14:37 05/02/2025
 - 🦣 [Tổng Bí thư Tô Lâm dâng hương tưởng niệm các Vua Hùng](https://baochinhphu.vn/tong-bi-thu-to-lam-dang-huong-tuong-niem-cac-vua-hung-10225020513542243.htm) - 13:56 05/02/2025
 - ⛽️ [Từ chiều 7/2, miền Bắc chuyển rét đậm, rét hại](https://baochinhphu.vn/tu-chieu-7-2-mien-bac-chuyen-ret-dam-ret-hai-102250205133858721.htm) - 13:42 05/02/2025
 - 🎓 [Đề xuất quy định quản lý, sử dụng không gian ngầm trên địa bàn Thành phố Hà Nội](https://baochinhphu.vn/de-xuat-quy-dinh-quan-ly-su-dung-khong-gian-ngam-tren-dia-ban-thanh-pho-ha-noi-102250205095521392.htm) - 13:17 05/02/2025
