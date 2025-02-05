@@ -57,10 +57,10 @@ sidebar_position: 5
 - 🏊 [Tottenham thắng trận đầu ở Ngoại hạng Anh sau tám vòng](https://vnexpress.net/tottenham-thang-tran-dau-o-ngoai-hang-anh-sau-tam-vong-4845076.html) - 16:04 02/02/2025
 - 🌊 [Man Utd tiếp tục thua trên sân Old Trafford](https://vnexpress.net/man-utd-tiep-tuc-thua-tren-san-old-trafford-4845074.html) - 15:58 02/02/2025
 - 👨‍🏫 [HLV Shin Tae-yong tức giận khi bị tố thao túng dư luận Indonesia](https://vnexpress.net/hlv-shin-tae-yong-tuc-gian-khi-bi-to-thao-tung-du-luan-indonesia-4845035.html) - 11:42 02/02/2025
-- 🥷 [Đối thủ thoát thẻ đỏ dù song phi triệt hạ Mbappe](https://vnexpress.net/doi-thu-thoat-the-do-du-song-phi-triet-ha-mbappe-4844939.html) - 05:31 02/02/2025
-- ⚗️ [Man Utd sắp cho mượn Rashford](https://vnexpress.net/man-utd-sap-cho-muon-rashford-4844899.html) - 01:10 02/02/2025
-- 🌮 [Salah vượt thành tích ghi bàn của Lampard](https://vnexpress.net/salah-vuot-thanh-tich-ghi-ban-cua-lampard-4844895.html) - 01:10 02/02/2025
-- 🤩 [Real thua sốc tại La Liga](https://vnexpress.net/real-thua-soc-tai-la-liga-4844904.html) - 23:55 01/02/2025
-- 🏊 [Kane lập kỷ lục trong chiến thắng của Bayern](https://vnexpress.net/kane-lap-ky-luc-trong-chien-thang-cua-bayern-4844892.html) - 23:30 01/02/2025
-- 🐎 [Dembele lập hai hattrick liên tiếp cho PSG](https://vnexpress.net/dembele-lap-hai-hattrick-lien-tiep-cho-psg-4844893.html) - 21:53 01/02/2025
+- 🥷 [Guardiola kêu gọi trọng tài bảo vệ Haaland](https://vnexpress.net/guardiola-keu-goi-trong-tai-bao-ve-haaland-4844969.html) - 06:00 02/02/2025
+- ⚗️ [Đối thủ thoát thẻ đỏ dù song phi triệt hạ Mbappe](https://vnexpress.net/doi-thu-thoat-the-do-du-song-phi-triet-ha-mbappe-4844939.html) - 05:31 02/02/2025
+- 🌮 [Man Utd sắp cho mượn Rashford](https://vnexpress.net/man-utd-sap-cho-muon-rashford-4844899.html) - 01:10 02/02/2025
+- 🤩 [Salah vượt thành tích ghi bàn của Lampard](https://vnexpress.net/salah-vuot-thanh-tich-ghi-ban-cua-lampard-4844895.html) - 01:10 02/02/2025
+- 🏊 [Real thua sốc tại La Liga](https://vnexpress.net/real-thua-soc-tai-la-liga-4844904.html) - 23:55 01/02/2025
+- 🐎 [Kane lập kỷ lục trong chiến thắng của Bayern](https://vnexpress.net/kane-lap-ky-luc-trong-chien-thang-cua-bayern-4844892.html) - 23:30 01/02/2025
 - 💫 [Salah giúp Liverpool giải mã hiện tượng Ngoại hạng Anh](https://vnexpress.net/salah-giup-liverpool-giai-ma-hien-tuong-ngoai-hang-anh-4844889.html) - 17:45 01/02/2025<!-- vnexpress-the-thao:END -->
