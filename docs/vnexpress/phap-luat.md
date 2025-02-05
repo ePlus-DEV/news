@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Người nước ngoài bị tình nghi &#39;ảo thuật&#39; trộm tiền](https://vnexpress.net/nguoi-nuoc-ngoai-bi-tinh-nghi-ao-thuat-trom-tien-4846208.html) - 12:56 05/02/2025
+- 😎 [Người nước ngoài bị tình nghi vờ mua hàng để trộm tiền](https://vnexpress.net/nguoi-nuoc-ngoai-bi-tinh-nghi-ao-thuat-trom-tien-4846208.html) - 12:56 05/02/2025
 - 🥰 [Công an kêu gọi người tham gia cướp trước cổng chùa ra đầu thú](https://vnexpress.net/cong-an-keu-goi-nguoi-tham-gia-cuop-truoc-cong-chua-ra-dau-thu-4846215.html) - 11:59 05/02/2025
 - 🎓 [Tòa tuyên án treo với cụ ông nhận tội giết người thay con gái](https://vnexpress.net/toa-tuyen-an-treo-voi-cu-ong-nhan-toi-giet-nguoi-thay-con-gai-4846202.html) - 10:31 05/02/2025
 - 🤓 [Thủ quỹ tự thú lấy 2,5 tỷ đồng của UBND xã chuyển cho kẻ lừa đảo](https://vnexpress.net/thu-quy-tu-thu-lay-2-5-ty-dong-cua-ubnd-xa-chuyen-cho-ke-lua-dao-4846136.html) - 09:56 05/02/2025
