@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Tranh cãi robot &quot;Thần Tài&quot; giao tiếp như người thật, giá 7 tỷ đồng](https://dantri.com.vn/doi-song/tranh-cai-robot-than-tai-giao-tiep-nhu-nguoi-that-gia-7-ty-dong-20250205095443984.htm) - 03:09 05/02/2025
+- 🥳 [Gia đình từ Kiên Giang ra Hà Nội làm thuê bị &quot;bùng&quot; việc được CSGT giúp đỡ](https://dantri.com.vn/doi-song/gia-dinh-tu-kien-giang-ra-ha-noi-lam-thue-bi-bung-viec-duoc-csgt-giup-do-20250205113127219.htm) - 05:00 05/02/2025
 - 🌁 [TikToker bị phản ứng khi ăn cam chấm mắm tôm và sự thật bất ngờ](https://dantri.com.vn/doi-song/tiktoker-bi-phan-ung-khi-an-cam-cham-mam-tom-va-su-that-bat-ngo-20250205081044103.htm) - 02:41 05/02/2025
 - 👀 [Tiết lộ về nữ doanh nhân ở Hải Dương nhảy xuống hồ cứu 3 cháu bé](https://dantri.com.vn/doi-song/tiet-lo-ve-nu-doanh-nhan-o-hai-duong-nhay-xuong-ho-cuu-3-chau-be-20250204172738122.htm) - 00:24 05/02/2025
 - 🐻 [Bi hài cảnh khui giỏ quà sau Tết: Vỏ thượng hạng châu Âu, ruột toàn giấy](https://dantri.com.vn/doi-song/bi-hai-canh-khui-gio-qua-sau-tet-vo-thuong-hang-chau-au-ruot-toan-giay-20250204144014807.htm) - 23:07 04/02/2025
