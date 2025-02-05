@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Tổng thống Yoon từ chối dự phiên điều trần của quốc hội](https://vnexpress.net/tong-thong-yoon-tu-choi-du-phien-dieu-tran-cua-quoc-hoi-4846235.html) - 15:20 05/02/2025
+- 🎭 [Tổng thống Yoon từ chối dự phiên điều trần tại quốc hội](https://vnexpress.net/tong-thong-yoon-tu-choi-du-phien-dieu-tran-tai-quoc-hoi-4846235.html) - 15:20 05/02/2025
 - 🕴 [Phản ứng trái chiều về ý tưởng &#39;Mỹ tiếp quản Gaza&#39; của ông Trump](https://vnexpress.net/phan-ung-trai-chieu-ve-y-tuong-my-tiep-quan-gaza-cua-ong-trump-4846080.html) - 14:05 05/02/2025
 - 🤭 [Nga nói lời kêu gọi đối thoại của ông Zelensky &#39;sáo rỗng&#39;](https://vnexpress.net/nga-noi-loi-keu-goi-doi-thoai-cua-ong-zelensky-sao-rong-4846222.html) - 13:26 05/02/2025
 - 🧑‍💻 [Vận tải cơ Mỹ đưa hơn 100 người nhập cư trái phép về Ấn Độ](https://vnexpress.net/van-tai-co-my-dua-hon-100-nguoi-nhap-cu-trai-phep-ve-an-do-4846217.html) - 12:09 05/02/2025
