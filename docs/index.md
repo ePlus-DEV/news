@@ -257,7 +257,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- nld:START -->
 - 🐎 [Chánh Thanh tra Bộ LĐ-TB-XH xin nghỉ hưu trước 4 năm](https://nld.com.vn/chanh-thanh-tra-bo-ld-tb-xh-xin-nghi-huu-truoc-4-nam-196250205210943315.htm) - 14:30 05/02/2025
 - 😺 [Chủ tịch Quốc hội Trần Thanh Mẫn ký các Nghị quyết về công tác cán bộ](https://nld.com.vn/chu-tich-quoc-hoi-tran-thanh-man-ky-cac-nghi-quyet-ve-cong-tac-can-bo-196250205202644076.htm) - 14:26 05/02/2025
-- 👍 [Tổng Bí thư Tô Lâm dâng hương tại Nghĩa trang liệt sĩ Quốc gia Vị Xuyên](https://nld.com.vn/tong-bi-thu-to-lam-dang-huong-tai-nghia-trang-liet-si-quoc-gia-vi-xuyen-196250205212406702.htm) - 14:23 05/02/2025
+- 👍 [Tổng Bí thư Tô Lâm dâng hương tại Nghĩa trang Liệt sĩ quốc gia Vị Xuyên](https://nld.com.vn/tong-bi-thu-to-lam-dang-huong-tai-nghia-trang-liet-si-quoc-gia-vi-xuyen-196250205212406702.htm) - 14:23 05/02/2025
 - 🥷 [Cháy cỏ trong rừng cao su, chiếc ô tô điện bị vạ lây](https://nld.com.vn/chay-co-trong-rung-cao-su-chiec-o-to-dien-bi-va-lay-196250205201811204.htm) - 14:23 05/02/2025
 - 🤔 [Bí thư Thành ủy Nguyễn Văn Nên: Năm 2025 rất quan trọng, TP HCM phải đột phá](https://nld.com.vn/bi-thu-thanh-uy-nguyen-van-nen-nam-2025-rat-quan-trong-tp-hcm-phai-dot-pha-196250205204315318.htm) - 13:59 05/02/2025
 - 🌈 [Ca sĩ Vũ Cát Tường chính thức &quot;làm lễ thành đôi&quot;](https://nld.com.vn/ca-si-vu-cat-tuong-chinh-thuc-cuoi-196250205202351542.htm) - 13:32 05/02/2025
