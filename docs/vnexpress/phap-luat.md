@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cư dân mất trộm, Ban quản lý chung cư có phải đền?](https://vnexpress.net/cu-dan-mat-trom-ban-quan-ly-chung-cu-co-phai-den-4845215.html) - 16:13 05/02/2025
+- 😎 [Mức phạt 13 lỗi điều kiện với người xe máy](https://vnexpress.net/muc-phat-13-loi-vi-pham-dieu-kien-cua-xe-may-4845991.html) - 17:00 05/02/2025
 - 🥰 [Người nước ngoài bị tình nghi vờ mua hàng để trộm tiền](https://vnexpress.net/nguoi-nuoc-ngoai-bi-tinh-nghi-ao-thuat-trom-tien-4846208.html) - 12:56 05/02/2025
 - 🎓 [Công an kêu gọi người tham gia cướp trước cổng chùa ra đầu thú](https://vnexpress.net/cong-an-keu-goi-nguoi-tham-gia-cuop-truoc-cong-chua-ra-dau-thu-4846215.html) - 11:59 05/02/2025
 - 🤓 [Tòa tuyên án treo với cụ ông nhận tội giết người thay con gái](https://vnexpress.net/toa-tuyen-an-treo-voi-cu-ong-nhan-toi-giet-nguoi-thay-con-gai-4846202.html) - 10:31 05/02/2025
