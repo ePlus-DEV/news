@@ -249,7 +249,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Ca sĩ Vũ Cát Tường chính thức cưới](https://nld.com.vn/ca-si-vu-cat-tuong-chinh-thuc-cuoi-196250205202351542.htm) - 13:32 05/02/2025
+- 🐎 [Ca sĩ Vũ Cát Tường chính thức &quot;làm lễ thành đôi&quot;](https://nld.com.vn/ca-si-vu-cat-tuong-chinh-thuc-cuoi-196250205202351542.htm) - 13:32 05/02/2025
 - 😺 [Phân định vụ 50 người dàn cảnh chen lấn để cướp giật trước cổng chùa ở An Giang](https://nld.com.vn/phan-dinh-vu-50-nguoi-dan-canh-chen-lan-de-cuop-giat-truoc-cong-chua-o-an-giang-196250205190113225.htm) - 13:01 05/02/2025
 - 👍 [Không khí lạnh mạnh tràn về, Hà Nội rét đậm 10-12 độ C](https://nld.com.vn/khong-khi-lanh-manh-tran-ve-ha-noi-ret-dam-10-12-do-c-19625020517550621.htm) - 12:14 05/02/2025
 - 🥷 [Bộ Nội vụ: Số tiền được hưởng khi nghỉ hưu trước tuổi, thôi việc của mỗi người khác nhau](https://nld.com.vn/bo-noi-vu-so-tien-duoc-huong-khi-nghi-huu-truoc-tuoi-thoi-viec-cua-moi-nguoi-khac-nhau-196250205184044701.htm) - 11:58 05/02/2025
