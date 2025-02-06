@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Phó thủ tướng yêu cầu người bán công khai, niêm yết giá bán](https://vnexpress.net/pho-thu-tuong-yeu-cau-nguoi-ban-cong-khai-niem-yet-gia-ban-4846615.html) - 14:00 06/02/2025
+- ⛽️ [Phó thủ tướng yêu cầu người bán công khai, niêm yết giá](https://vnexpress.net/pho-thu-tuong-yeu-cau-nguoi-ban-cong-khai-niem-yet-gia-4846615.html) - 14:00 06/02/2025
 - 🐲 [Đổ xô mua vàng trước ngày vía Thần Tài](https://vnexpress.net/nhon-nhip-nguoi-mua-vang-truoc-ngay-via-than-tai-4846598.html) - 13:35 06/02/2025
 - 🔥 [Săn vé số đuôi Thần Tài, Thổ Địa](https://vnexpress.net/san-ve-so-duoi-than-tai-tho-dia-4846473.html) - 09:30 06/02/2025
 - 🐵 [52.800 doanh nghiệp ngừng kinh doanh tháng đầu năm](https://vnexpress.net/52-800-doanh-nghiep-ngung-kinh-doanh-thang-dau-nam-4846544.html) - 09:09 06/02/2025
