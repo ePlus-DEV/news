@@ -4,8 +4,8 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [9 dự án quy mô hàng trăm ha được TP Thủ Đức kêu gọi đầu tư](https://vnexpress.net/9-du-an-quy-mo-hang-tram-ha-duoc-tp-thu-duc-keu-goi-dau-tu-4846481.html) - 07:30 06/02/2025
-- 🤓 [Tổng Bí thư dâng hoa tưởng nhớ Chủ tịch Hồ Chí Minh](https://vnexpress.net/tong-bi-thu-dang-hoa-tuong-nho-chu-tich-ho-chi-minh-4846447.html) - 06:25 06/02/2025
+- 🦒 [TP Thủ Đức kêu gọi đầu tư 9 dự án quy mô hàng trăm ha](https://vnexpress.net/tp-thu-duc-keu-goi-dau-tu-9-du-an-quy-mo-hang-tram-ha-4846481.html) - 07:30 06/02/2025
+- 🤓 [Tổng Bí thư dâng hương tưởng niệm liệt sĩ ở Vị Xuyên](https://vnexpress.net/tong-bi-thu-dang-huong-tuong-niem-liet-si-o-vi-xuyen-4846447.html) - 06:25 06/02/2025
 - ⚗️ [Bốn người cứu du khách Nga trôi 10 km ở biển Mũi Né được khen](https://vnexpress.net/bon-nguoi-cuu-du-khach-nga-troi-10-km-o-bien-mui-ne-duoc-khen-4846446.html) - 06:21 06/02/2025
 - 🌊 [Đề xuất 17 chính sách đặc thù cho dự án đường sắt kết nối với Trung Quốc](https://vnexpress.net/de-xuat-17-chinh-sach-dac-thu-cho-du-an-duong-sat-ket-noi-voi-trung-quoc-4846352.html) - 05:23 06/02/2025
 - 🎓 [&#39;Người có lương hưu sống thọ hơn 4 năm so với bình quân chung&#39;](https://vnexpress.net/nguoi-co-luong-huu-song-tho-hon-4-nam-so-voi-binh-quan-chung-4846401.html) - 04:38 06/02/2025
