@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [7 thanh niên ra quốc lộ chém người &#39;lấy số má&#39; bị bắt](https://vnexpress.net/7-thanh-nien-ra-quoc-lo-chem-nguoi-lay-so-ma-bi-bat-4846456.html) - 06:33 06/02/2025
 - 🥰 [Giả ni sư, cha xứ lừa tiền hàng nghìn người hảo tâm](https://vnexpress.net/gia-ni-su-cha-xu-lua-tien-hang-nghin-nguoi-hao-tam-4846399.html) - 04:42 06/02/2025
-- 🎓 [Phó công an phường bị phạt nguội từ tin báo qua app của người dân](https://vnexpress.net/https-vnexpress-net-vo-chong-pho-cong-an-phuong-bi-phat-nguoi-vi-khong-doi-mu-bao-hiem-4846312-html-4846312.html) - 02:40 06/02/2025
+- 🎓 [Phó công an phường bị phạt nguội từ tin báo qua app của người dân](https://vnexpress.net/vo-chong-pho-cong-an-phuong-bi-phat-nguoi-vi-khong-doi-mu-bao-hiem-4846312.html) - 02:40 06/02/2025
 - 🤓 [Cư dân mất trộm, Ban quản lý chung cư có phải đền?](https://vnexpress.net/cu-dan-mat-trom-ban-quan-ly-chung-cu-co-phai-den-4845215.html) - 23:13 05/02/2025
 - 🎊 [Kỳ án nữ sinh tài năng bị đầu độc trong ký túc xá](https://vnexpress.net/ky-an-nu-sinh-truong-danh-gia-bi-dau-doc-trong-ky-tuc-xa-4846245.html) - 17:19 05/02/2025
 - 🙉 [Mức phạt 13 lỗi với xe máy không đạt yêu cầu tham gia giao thông](https://vnexpress.net/muc-phat-13-loi-vi-pham-dieu-kien-cua-xe-may-4845991.html) - 17:00 05/02/2025
