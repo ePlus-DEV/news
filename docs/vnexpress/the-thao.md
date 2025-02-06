@@ -7,13 +7,13 @@ sidebar_position: 5
 - 🪜 [Đội Việt Nam được cho mượn xe đua giải châu Á](https://vnexpress.net/doi-viet-nam-duoc-cho-muon-xe-dua-giai-chau-a-4846343.html) - 02:50 06/02/2025
 - 🦩 [10 nữ VĐV chạy marathon nhanh nhất Việt Nam](https://vnexpress.net/10-nu-vdv-chay-marathon-nhanh-nhat-viet-nam-4844056.html) - 02:23 06/02/2025
 - 🧰 [Phó hiệu trưởng trường đại học chạy marathon tiệm cận sub3](https://vnexpress.net/pho-hieu-truong-truong-dai-hoc-chay-marathon-tiem-can-sub3-4846078.html) - 00:30 06/02/2025
-- 🤗 [Ngoại hạng Anh xác nhận 4 lỗi của VAR từ đầu mùa](https://vnexpress.net/ngoai-hang-anh-xac-nhan-4-loi-cua-var-tu-dau-mua-4846275.html) - 23:15 05/02/2025
-- 🥳 [Real vào bán kết sau cuộc rượt đuổi tỷ số](https://vnexpress.net/real-vao-ban-ket-sau-cuoc-ruot-duoi-ty-so-4846276.html) - 23:14 05/02/2025
+- 🤗 [VAR mắc ít lỗi hơn so với mùa trước ở Ngoại hạng Anh](https://vnexpress.net/var-mac-it-loi-hon-so-voi-mua-truoc-o-ngoai-hang-anh-4846275.html) - 23:15 05/02/2025
+- 🥳 [Real vào bán kết sau cuộc rượt đuổi ở Cup Nhà vua](https://vnexpress.net/real-vao-ban-ket-sau-cuoc-ruot-duoi-o-cup-nha-vua-4846276.html) - 23:14 05/02/2025
 - 🦣 [Đội Việt Nam bị cháy xe đạp tại Thái Lan](https://vnexpress.net/doi-viet-nam-bi-chay-xe-dap-tai-thai-lan-4846266.html) - 23:03 05/02/2025
 - 🌜 [HLV Slot muốn đăng ký thi đấu 23 cầu thủ](https://vnexpress.net/hlv-slot-muon-dang-ky-thi-dau-23-cau-thu-4846273.html) - 22:50 05/02/2025
-- 🫶 [Man City phải loại 1 tân binh khi đấu Real](https://vnexpress.net/man-city-phai-loai-1-tan-binh-khi-dau-real-4846271.html) - 22:50 05/02/2025
-- 🌜 [Hậu vệ Bayern từ chối Real bằng bài rap](https://vnexpress.net/hau-ve-bayern-tu-choi-real-bang-bai-rap-4846274.html) - 22:43 05/02/2025
-- 😺 [Al Nassr tặng bánh mừng sinh nhật Ronaldo](https://vnexpress.net/al-nassr-tang-banh-mung-sinh-nhat-ronaldo-4846270.html) - 22:35 05/02/2025
+- 🫶 [Man City phải loại một tân binh khi đấu Real](https://vnexpress.net/man-city-phai-loai-mot-tan-binh-khi-dau-real-4846271.html) - 22:50 05/02/2025
+- 🌜 [Alphonso Davies hát rap mừng gia hạn hợp đồng với Bayern](https://vnexpress.net/alphonso-davies-hat-rap-mung-gia-han-hop-dong-voi-bayern-4846274.html) - 22:43 05/02/2025
+- 😺 [Al Nassr tặng bánh mừng sinh nhật đặc biệt cho Ronaldo](https://vnexpress.net/al-nassr-tang-banh-mung-sinh-nhat-dac-biet-cho-ronaldo-4846270.html) - 22:35 05/02/2025
 - 👍 [Newcastle nhấn chìm Arsenal ở Cup Liên đoàn](https://vnexpress.net/newcastle-nhan-chim-arsenal-o-cup-lien-doan-4846277.html) - 22:30 05/02/2025
 - 🐵 [Thủ môn khiến Thanh Hóa bị loại ở Cup CLB Đông Nam Á](https://vnexpress.net/thu-mon-khien-thanh-hoa-bi-loai-o-cup-clb-dong-nam-a-4846251.html) - 15:15 05/02/2025
 - 💫 [HLV Hà Nội phàn nàn về thẻ đỏ của Tuấn Hải](https://vnexpress.net/hlv-ha-noi-phan-nan-ve-the-do-cua-tuan-hai-4846247.html) - 15:13 05/02/2025
