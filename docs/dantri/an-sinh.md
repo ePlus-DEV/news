@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- dantri-an-sinh:START -->
 - 👺 [Chánh Thanh tra Bộ LĐ-TB&amp;XH &quot;thấy toại nguyện&quot; khi xin nghỉ hưu sớm](https://dantri.com.vn/lao-dong-viec-lam/chanh-thanh-tra-bo-ld-tbxh-thay-toai-nguyen-khi-xin-nghi-huu-som-20250206132101481.htm) - 06:50 06/02/2025
-- 👀 [Người cao tuổi khấp khởi khi được giảm 5 tuổi hưởng trợ cấp hưu trí xã hội](https://dantri.com.vn/an-sinh/nguoi-cao-tuoi-khap-khoi-khi-duoc-giam-5-tuoi-huong-tro-cap-huu-tri-xa-hoi-20250206110505043.htm) - 05:32 06/02/2025
+- 👀 [Người cao tuổi khấp khởi khi được giảm 5 tuổi hưởng trợ cấp hưu trí](https://dantri.com.vn/an-sinh/nguoi-cao-tuoi-khap-khoi-khi-duoc-giam-5-tuoi-huong-tro-cap-huu-tri-20250206110505043.htm) - 05:32 06/02/2025
 - 💡 [Mẹ bỉm sữa Hưng Yên gây sốt khi vừa trông con vừa hát hay như ca sĩ](https://dantri.com.vn/an-sinh/me-bim-sua-hung-yen-gay-sot-khi-vua-trong-con-vua-hat-hay-nhu-ca-si-20250206115349005.htm) - 05:21 06/02/2025
 - 💄 [Người phụ nữ nghèo mất 1,5 triệu đồng và câu chuyện cổ tích giữa đời thực](https://dantri.com.vn/an-sinh/nguoi-phu-nu-ngheo-mat-15-trieu-dong-va-cau-chuyen-co-tich-giua-doi-thuc-20250206091036636.htm) - 03:37 06/02/2025
 - 🧠 [Chuyện cụ bà kêu cứu con cháu qua camera: &quot;Không ai ở nhà, chóng mặt lắm&quot;](https://dantri.com.vn/an-sinh/chuyen-cu-ba-keu-cuu-con-chau-qua-camera-khong-ai-o-nha-chong-mat-lam-20250206000038570.htm) - 02:59 06/02/2025
