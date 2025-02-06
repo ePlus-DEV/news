@@ -6,7 +6,7 @@ sidebar_position: 11
 <!-- vnexpress-du-lich:START -->
 - 💂 [Tour lễ chùa kết hợp du xuân hút khách Việt đầu năm](https://vnexpress.net/tour-le-chua-ket-hop-du-xuan-hut-khach-viet-dau-nam-4845941.html) - 04:30 06/02/2025
 - 🪄 [Săn mây, chạy trail tại Tam Đảo](https://vnexpress.net/san-may-chay-trail-tai-tam-dao-4842780.html) - 04:15 06/02/2025
-- 🦅 [Lý do du lịch Ninh Bình lần đầu thu nghìn tỷ dịp Tết](https://vnexpress.net/ly-do-du-lich-ninh-binh-lan-dau-thu-nghin-ty-dip-tet-4846034.html) - 02:56 06/02/2025
+- 🦅 [Lý do du lịch Ninh Bình lần đầu vào &#39;đường đua nghìn tỷ&#39; dịp Tết](https://vnexpress.net/ly-do-du-lich-ninh-binh-lan-dau-vao-duong-dua-nghin-ty-dip-tet-4846034.html) - 02:56 06/02/2025
 - 🕴 [Trải nghiệm ẩm thực Michelin tại InterContinental Phu Quoc Long Beach](https://vnexpress.net/trai-nghiem-am-thuc-michelin-tai-intercontinental-phu-quoc-long-beach-4846211.html) - 02:00 06/02/2025
 - 👀 [Du lịch Thái Lan ngày càng đắt với khách Việt](https://vnexpress.net/du-lich-thai-lan-ngay-cang-dat-voi-khach-viet-4846181.html) - 00:00 06/02/2025
 - 🎭 [Mở bán tour mừng sinh nhật Kim Jong Il tại Triều Tiên](https://vnexpress.net/mo-ban-tour-mung-sinh-nhat-kim-jong-il-tai-trieu-tien-4846111.html) - 17:09 05/02/2025
