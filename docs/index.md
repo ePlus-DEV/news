@@ -581,8 +581,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Showbiz 6/2: Đạo diễn Lê Quốc Nam tiếp tục gọi tên Minh Dự](https://tienphong.vn/showbiz-62-dao-dien-le-quoc-nam-tiep-tuc-goi-ten-minh-du-post1714900.tpo) - 20:56 06/02/2025
-- 🎊 [Xuyên đêm ở &#39;thủ phủ&#39; cá lóc nướng phục vụ ngày vía Thần tài](https://tienphong.vn/xuyen-dem-o-thu-phu-ca-loc-nuong-phuc-vu-ngay-via-than-tai-post1714925.tpo) - 20:50 06/02/2025
+- 💼 [Vận đen của Trấn Thành](https://tienphong.vn/van-den-cua-tran-thanh-post1714723.tpo) - 21:12 06/02/2025
+- 🎊 [Showbiz 6/2: Đạo diễn Lê Quốc Nam tiếp tục gọi tên Minh Dự](https://tienphong.vn/showbiz-62-dao-dien-le-quoc-nam-tiep-tuc-goi-ten-minh-du-post1714900.tpo) - 20:56 06/02/2025
 - 💼 [Minh Dự đáp trả vụ tố dùng ghế đánh đồng nghiệp](https://tienphong.vn/minh-du-dap-tra-vu-to-dung-ghe-danh-dong-nghiep-post1714907.tpo) - 20:45 06/02/2025
 - 👺 [Nhiều người thoát chết sau tai nạn liên hoàn giữa bốn ô tô ở Bình Dương](https://tienphong.vn/nhieu-nguoi-thoat-chet-sau-tai-nan-lien-hoan-giua-bon-o-to-o-binh-duong-post1714926.tpo) - 20:38 06/02/2025
 - 💪 [Bạc Liêu công bố các quyết định sắp xếp bộ máy và công tác cán bộ](https://tienphong.vn/bac-lieu-cong-bo-cac-quyet-dinh-sap-xep-bo-may-va-cong-tac-can-bo-post1714891.tpo) - 20:04 06/02/2025
