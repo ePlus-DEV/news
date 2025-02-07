@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Phù điêu đá cẩm thạch - dấu ấn tài thơ của vua Minh Mạng](https://vnexpress.net/phu-dieu-da-cam-thach-dau-an-tai-tho-cua-vua-minh-mang-4845171.html) - 17:00 06/02/2025
+- 🌏 [Dấu ấn tài thơ của vua Minh Mạng](https://vnexpress.net/dau-an-tai-tho-cua-vua-minh-mang-4845171.html) - 17:00 06/02/2025
 - 💫 [Chồng Từ Hy Viên từ bỏ quyền thừa kế tài sản của vợ](https://vnexpress.net/chong-tu-hy-vien-tu-bo-quyen-thua-ke-tai-san-cua-vo-4846635.html) - 15:17 06/02/2025
 - 🌮 [Thời trang đi làm của Hồ Ngọc Hà](https://vnexpress.net/thoi-trang-di-lam-cua-ho-ngoc-ha-4845573.html) - 13:29 06/02/2025
 - 🧠 [Phong cách unisex của Vũ Cát Tường](https://vnexpress.net/phong-cach-unisex-cua-vu-cat-tuong-4846458.html) - 12:00 06/02/2025
