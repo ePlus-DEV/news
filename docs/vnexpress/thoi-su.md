@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Hải Phòng dự chi hơn 6.000 tỷ đồng hỗ trợ người nghỉ hưu trước tuổi](https://vnexpress.net/hai-phong-du-chi-hon-6-000-ty-dong-ho-tro-nguoi-nghi-huu-truoc-tuoi-4846767.html) - 05:08 07/02/2025
 - 🤓 [Nhiều ôtô nổ lốp trên cao tốc quốc lộ 45 - Nghi Sơn](https://vnexpress.net/nhieu-oto-no-lop-tren-cao-toc-quoc-lo-45-nghi-son-4846772.html) - 04:31 07/02/2025
 - ⚗️ [Ôtô đâm dải phân cách, một người tử vong](https://vnexpress.net/oto-dam-dai-phan-cach-mot-nguoi-tu-vong-4846825.html) - 04:27 07/02/2025
-- 🌊 [Đà Nẵng, Quảng Nam thành lập Đảng bộ mới](https://vnexpress.net/da-nang-quang-nam-thanh-lap-dang-bo-moi-4846803.html) - 04:23 07/02/2025
+- 🌊 [Đà Nẵng, Quảng Nam, Khánh Hòa thành lập Đảng bộ mới](https://vnexpress.net/da-nang-quang-nam-khanh-hoa-thanh-lap-dang-bo-moi-4846803.html) - 04:23 07/02/2025
 - 🎓 [Va chạm với xe ưu tiên, tài xế bị phạt tiền và trừ 4 điểm bằng lái](https://vnexpress.net/va-cham-voi-xe-uu-tien-tai-xe-bi-phat-tien-va-tru-4-diem-bang-lai-4846783.html) - 04:05 07/02/2025
 - 🔥 [Bỏ đề xuất tăng bậc lương cho nhà giáo mới vào nghề](https://vnexpress.net/bo-de-xuat-tang-bac-luong-cho-nha-giao-moi-vao-nghe-4846716.html) - 02:42 07/02/2025
 - 🦏 [Hình dáng đường vành đai trên cao xuyên khu chung cư ở TP HCM](https://vnexpress.net/hinh-dang-duong-vanh-dai-tren-cao-xuyen-khu-chung-cu-o-tp-hcm-4846637.html) - 02:00 07/02/2025
