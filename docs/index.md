@@ -588,7 +588,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- hoahoctro:START -->
 - 💼 [Người mẹ bỏng nặng do con trai đốt nhà hôm mùng 2 Tết đã tử vong](https://tienphong.vn/nguoi-me-bong-nang-do-con-trai-dot-nha-hom-mung-2-tet-da-tu-vong-post1715194.tpo) - 22:57 07/02/2025
 - 🎊 [Showbiz 7/2: Đàm Vĩnh Hưng sắp hết thất nghiệp](https://tienphong.vn/showbiz-72-dam-vinh-hung-sap-het-that-nghiep-post1715187.tpo) - 22:56 07/02/2025
-- 💼 [Năm Trưởng phòng Công an Hải Dương xin nghỉ hưu trước tuổi](https://tienphong.vn/nam-truong-phong-cong-an-hai-duong-xin-nghi-huu-truoc-tuoi-post1715181.tpo) - 21:54 07/02/2025
+- 💼 [5 trưởng phòng Công an Hải Dương xin nghỉ hưu trước tuổi](https://tienphong.vn/5-truong-phong-cong-an-hai-duong-xin-nghi-huu-truoc-tuoi-post1715181.tpo) - 21:54 07/02/2025
 - 👺 [Tổng Bí thư Tô Lâm giao nhiệm vụ cho Văn phòng Trung ương Đảng](https://tienphong.vn/tong-bi-thu-to-lam-giao-nhiem-vu-cho-van-phong-trung-uong-dang-post1715176.tpo) - 20:42 07/02/2025
 - 💪 [Hàng nghìn người đến lễ hội chùa Ông](https://tienphong.vn/hang-nghin-nguoi-den-le-hoi-chua-ong-post1715149.tpo) - 19:56 07/02/2025
 - 💃 [Phó Thủ tướng Trần Hồng Hà tham gia trồng 1.100 cây thông ở Quảng Ninh](https://tienphong.vn/pho-thu-tuong-tran-hong-ha-tham-gia-trong-1100-cay-thong-o-quang-ninh-post1715158.tpo) - 19:54 07/02/2025
