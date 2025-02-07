@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Bi kịch của quý bà lập dị, giấu hàng triệu USD khắp nhà](https://vnexpress.net/bi-kich-cua-quy-ba-lap-di-giau-hang-trieu-usd-khap-nha-4846601.html) - 17:00 06/02/2025
-- 🥰 [Toàn bộ mức phạt với hành vi không mang giấy tờ khi lái xe](https://vnexpress.net/toan-bo-muc-phat-voi-hanh-vi-khong-mang-giay-to-khi-lai-xe-4845968.html) - 17:00 06/02/2025
+- 🥰 [Toàn bộ mức phạt với hành vi không mang giấy tờ khi lái xe](https://vnexpress.net/toan-bo-muc-phat-voi-hanh-vi-khong-mang-giay-to-khi-lai-xe-vnepre-4845968.html) - 17:00 06/02/2025
 - 🎓 [Trộm trang sức quý một triệu nhân dân tệ của mẹ, bán &#39;rẻ như cho&#39;](https://vnexpress.net/trom-trang-suc-quy-mot-trieu-nhan-dan-te-cua-me-ban-re-nhu-cho-4846621.html) - 15:35 06/02/2025
 - 🤓 [Vợ của nguyên chủ tịch Công ty Tân Tân bị khởi tố](https://vnexpress.net/vo-cua-nguyen-chu-tich-cong-ty-tan-tan-bi-khoi-to-4846610.html) - 14:02 06/02/2025
 - 🎊 [24 người bị lừa sang Campuchia làm việc được đưa về nước](https://vnexpress.net/24-nguoi-bi-lua-sang-campuchia-lam-viec-duoc-dua-ve-nuoc-4846572.html) - 11:32 06/02/2025
