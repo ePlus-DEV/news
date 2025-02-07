@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Hà Nội vắng vẻ, TP HCM đông đúc người mua vàng Thần Tài](https://vnexpress.net/ha-noi-vang-ve-tp-hcm-dong-duc-nguoi-mua-vang-than-tai-4846704.html) - 03:38 07/02/2025
-- 🐲 [Chênh lệch giá mua bán vàng ngày vía Thần Tài lên 3,5 triệu đồng](https://vnexpress.net/chenh-lech-gia-mua-ban-vang-len-cao-3-5-trieu-mot-luong-4846696.html) - 01:53 07/02/2025
+- 🐲 [Giá vàng tăng gần một triệu đồng](https://vnexpress.net/chenh-lech-gia-mua-ban-vang-len-cao-3-5-trieu-mot-luong-4846696.html) - 01:53 07/02/2025
 - 🔥 [Giá vàng ngày vía Thần Tài thế nào 10 năm qua](https://vnexpress.net/gia-vang-ngay-via-than-tai-the-nao-10-nam-qua-4846652.html) - 00:40 07/02/2025
 - 🐵 [Giá vàng thế giới quay đầu giảm](https://vnexpress.net/gia-vang-the-gioi-quay-dau-giam-4846675.html) - 00:39 07/02/2025
 - 🦅 [Thương chiến phủ bóng ngành công nghiệp ôtô](https://vnexpress.net/thuong-chien-phu-bong-nganh-cong-nghiep-oto-4846482.html) - 22:00 06/02/2025
