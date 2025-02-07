@@ -4,14 +4,14 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [48 giờ ở làng du lịch Thái Hải](https://vnexpress.net/48-gio-o-lang-du-lich-thai-hai-4846583.html) - 17:09 07/02/2025
-- 🐎 [Cách ngủ &#39;trong hai phút&#39; giúp giảm lo lắng](https://vnexpress.net/cach-ngu-trong-hai-phut-giup-giam-lo-lang-4845159.html) - 17:05 07/02/2025
-- 🦍 [Loại rừng nào ở Việt Nam bán tín chỉ carbon được giá nhất](https://vnexpress.net/loai-rung-nao-o-viet-nam-ban-tin-chi-carbon-duoc-gia-nhat-4846730.html) - 17:02 07/02/2025
-- 🏊 [Ảnh thấy đầu tiên cho biết bạn trầm lắng hay thích tạo drama?](https://vnexpress.net/trac-nghiem-tinh-cach-doan-tinh-cach-ngay-4845779.html) - 17:01 07/02/2025
-- 🎊 [Điều gì xảy ra khi đi ngủ với tâm trạng buồn?](https://vnexpress.net/dieu-gi-xay-ra-khi-di-ngu-voi-tam-trang-buon-4847027.html) - 17:00 07/02/2025
-- 🎃 [&#39;Ống tiêm tử thần&#39; của nữ y tá gây ám ảnh trong bệnh viện](https://vnexpress.net/ong-tiem-tu-than-cua-nu-y-ta-gay-am-anh-trong-benh-vien-4847021.html) - 17:00 07/02/2025
-- 🧰 [Cục thi hành án dân sự TP HCM &#39;thu giữ 78 tỷ đồng trái bản án&#39;](https://vnexpress.net/cuc-thi-hanh-an-dan-su-tp-hcm-thu-giu-78-ty-dong-trai-ban-an-4846962.html) - 17:00 07/02/2025
-- 🔭 [Kỳ án chị em sinh đôi tráo thân phận để trốn tội](https://vnexpress.net/ky-an-chi-em-sinh-doi-trao-than-phan-de-tron-toi-4846938.html) - 17:00 07/02/2025
+- 🎬 [Diễn biến tâm lý của kẻ đầu độc người tình bằng xyanua  , lao ôtô xuống vực](https://vnexpress.net/dien-bien-tam-ly-cua-nguoi-dan-ba-dau-doc-nguoi-tinh-lao-oto-xuong-vuc-4847057.html) - 17:19 07/02/2025
+- 🐎 [48 giờ ở làng du lịch Thái Hải](https://vnexpress.net/48-gio-o-lang-du-lich-thai-hai-4846583.html) - 17:09 07/02/2025
+- 🦍 [Cách ngủ &#39;trong hai phút&#39; giúp giảm lo lắng](https://vnexpress.net/cach-ngu-trong-hai-phut-giup-giam-lo-lang-4845159.html) - 17:05 07/02/2025
+- 🏊 [Loại rừng nào ở Việt Nam bán tín chỉ carbon được giá nhất](https://vnexpress.net/loai-rung-nao-o-viet-nam-ban-tin-chi-carbon-duoc-gia-nhat-4846730.html) - 17:02 07/02/2025
+- 🎊 [Ảnh thấy đầu tiên cho biết bạn trầm lắng hay thích tạo drama?](https://vnexpress.net/trac-nghiem-tinh-cach-doan-tinh-cach-ngay-4845779.html) - 17:01 07/02/2025
+- 🎃 [Điều gì xảy ra khi đi ngủ với tâm trạng buồn?](https://vnexpress.net/dieu-gi-xay-ra-khi-di-ngu-voi-tam-trang-buon-4847027.html) - 17:00 07/02/2025
+- 🧰 [&#39;Ống tiêm tử thần&#39; của nữ y tá gây ám ảnh trong bệnh viện](https://vnexpress.net/ong-tiem-tu-than-cua-nu-y-ta-gay-am-anh-trong-benh-vien-4847021.html) - 17:00 07/02/2025
+- 🔭 [Cục thi hành án dân sự TP HCM &#39;thu giữ 78 tỷ đồng trái bản án&#39;](https://vnexpress.net/cuc-thi-hanh-an-dan-su-tp-hcm-thu-giu-78-ty-dong-trai-ban-an-4846962.html) - 17:00 07/02/2025
 - 🫶 [Phép thử của Trấn Thành](https://vnexpress.net/phep-thu-cua-tran-thanh-4846789.html) - 17:00 07/02/2025
 - 🪜 [&#39;Dừng dạy thêm sẽ chỉ có lợi cho học sinh&#39;](https://vnexpress.net/dung-day-them-se-chi-co-loi-cho-hoc-sinh-4846786.html) - 17:00 07/02/2025
 - 👨‍🏫 [Tìm bạn trai kém tuổi, không tứ đổ tường, muốn lập gia đình](https://vnexpress.net/tim-ban-trai-kem-tuoi-khong-tu-do-tuong-muon-lap-gia-dinh-4846748.html) - 17:00 07/02/2025
