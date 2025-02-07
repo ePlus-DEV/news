@@ -7,7 +7,7 @@ sidebar_position: 11
 - 💂 [Trải nghiệm tại khách sạn &#39;tệ nhất thế giới&#39;](https://vnexpress.net/trai-nghiem-tai-khach-san-te-nhat-the-gioi-4846753.html) - 05:00 07/02/2025
 - 🪄 [Khách quốc tế đến Việt Nam tháng 1 tăng kỷ lục](https://vnexpress.net/khach-quoc-te-den-viet-nam-thang-1-tang-ky-luc-4846726.html) - 02:39 07/02/2025
 - 🦅 [Thăm nhà thờ Tây Ban Nha xây gần 150 năm chưa xong](https://vnexpress.net/tham-nha-tho-tay-ban-nha-xay-gan-150-nam-chua-xong-4845920.html) - 00:00 07/02/2025
-- 🕴 [Nhật Bản khởi động lễ hội tuyết truyền thống tại Sapporo](https://vnexpress.net/nhat-ban-khoi-dong-le-hoi-tuyet-truyen-thong-tai-sapporo-4846467.html) - 17:09 06/02/2025
+- 🕴 [Điêu khắc trên băng tuyết độc đáo ở lễ hội mùa đông Sapporo](https://vnexpress.net/dieu-khac-tren-bang-tuyet-doc-dao-o-le-hoi-mua-dong-sapporo-4846467.html) - 17:09 06/02/2025
 - 👀 [Kiên Giang lần đầu lọt top &#39;điểm đến thân thiện nhất thế giới&#39;](https://vnexpress.net/kien-giang-lan-dau-lot-top-diem-den-than-thien-nhat-the-gioi-4846505.html) - 12:00 06/02/2025
 - 🎭 [Khách trình báo mất một tỷ đồng vì đặt phòng ở Ninh Bình qua mạng](https://vnexpress.net/khach-trinh-bao-mat-mot-ty-dong-vi-dat-phong-o-ninh-binh-qua-mang-4846584.html) - 10:31 06/02/2025
 - 🦒 [Dân Canada tẩy chay du lịch Mỹ](https://vnexpress.net/dan-canada-tay-chay-du-lich-my-4846426.html) - 09:16 06/02/2025
