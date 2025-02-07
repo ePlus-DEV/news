@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [5 năm yêu kín tiếng của Vũ Cát Tường và bạn gái](https://vnexpress.net/5-nam-yeu-kin-tieng-cua-vu-cat-tuong-va-ban-gai-4846370.html) - 08:49 07/02/2025
-- 💫 [Thời trang du lịch mùa lạnh của Chi Pu](https://vnexpress.net/thoi-trang-du-lich-mua-lanh-cua-chi-pu-4846432.html) - 07:26 07/02/2025
-- 🌮 [Tiểu Vy phủ nhận yêu diễn viên Thái Lan](https://vnexpress.net/tieu-vy-phu-nhan-yeu-dien-vien-thai-lan-4846346.html) - 04:54 07/02/2025
-- 🧠 [Kanye West: &#39;Tôi may mắn có người vợ dũng cảm và quyến rũ&#39;](https://vnexpress.net/kanye-west-toi-may-man-co-nguoi-vo-dung-cam-va-quyen-ru-4846737.html) - 04:06 07/02/2025
-- 👨‍🏫 [Phần bảy &#39;Jurassic World&#39; tung trailer](https://vnexpress.net/phan-bay-jurassic-world-tung-trailer-4846475.html) - 03:03 07/02/2025
-- ⚗️ [Quản lý Từ Hy Viên nói Tiểu Phi &#39;dàn cảnh thê lương dưới mưa&#39;](https://vnexpress.net/quan-ly-tu-hy-vien-noi-tieu-phi-dan-canh-the-luong-duoi-mua-4846701.html) - 02:56 07/02/2025
-- 😎 [Midu - mỹ nhân tuổi Tỵ đa năng](https://vnexpress.net/midu-my-nhan-tuoi-ty-da-nang-4845599.html) - 01:00 07/02/2025
-- 🫣 [Tài thơ của vua Minh Mạng](https://vnexpress.net/tai-tho-cua-vua-minh-mang-4845171.html) - 17:00 06/02/2025
-- 🪄 [Chồng Từ Hy Viên từ bỏ quyền thừa kế tài sản của vợ](https://vnexpress.net/chong-tu-hy-vien-tu-bo-quyen-thua-ke-tai-san-cua-vo-4846635.html) - 15:17 06/02/2025
-- 🤓 [Thời trang đi làm của Hồ Ngọc Hà](https://vnexpress.net/thoi-trang-di-lam-cua-ho-ngoc-ha-4845573.html) - 13:29 06/02/2025
-- 🫶 [Phong cách unisex của Vũ Cát Tường](https://vnexpress.net/phong-cach-unisex-cua-vu-cat-tuong-4846458.html) - 12:00 06/02/2025
-- 🧑‍🏫 [Cựu binh Mỹ tham gia Ngày Thơ Việt Nam](https://vnexpress.net/cuu-binh-my-tham-gia-ngay-tho-viet-nam-4846453.html) - 09:37 06/02/2025
-- 🦄 [Phim của Thu Trang &#39;lội ngược dòng&#39;](https://vnexpress.net/phim-cua-thu-trang-loi-nguoc-dong-4846503.html) - 08:59 06/02/2025
-- 💫 [Hoạt hình &#39;Na Tra&#39; ăn khách nhất Trung Quốc mọi thời](https://vnexpress.net/hoat-hinh-na-tra-an-khach-nhat-trung-quoc-moi-thoi-4846496.html) - 07:59 06/02/2025
-- 🎊 [Phong cách thời trang của bạn gái tỷ phú Bill Gates](https://vnexpress.net/phong-cach-thoi-trang-cua-ban-gai-ty-phu-bill-gates-4845996.html) - 06:56 06/02/2025
-- 👹 [Thế giới kỳ ảo trong truyện &#39;Lục địa rồng&#39;](https://vnexpress.net/the-gioi-ky-ao-trong-truyen-luc-dia-rong-4845479.html) - 06:11 06/02/2025
-- 💻 [Cảnh sắc, con người Việt đầu thế kỷ 20 qua tranh](https://vnexpress.net/canh-sac-con-nguoi-viet-dau-the-ky-20-qua-tranh-4845633.html) - 03:40 06/02/2025
-- 🤡 [Khối tài sản của Từ Hy Viên](https://vnexpress.net/khoi-tai-san-cua-tu-hy-vien-4846324.html) - 03:10 06/02/2025
-- 🥰 [Oscar 2025 - phim nghệ thuật lên ngôi](https://vnexpress.net/oscar-2025-phim-nghe-thuat-len-ngoi-4842820.html) - 02:16 06/02/2025
-- 🚀 [Tài tử gạo cội TVB qua đời](https://vnexpress.net/tai-tu-gao-coi-tvb-qua-doi-4846301.html) - 01:51 06/02/2025
-- 📝 [Kỳ Duyên tạo ấn tượng khi đóng phản diện &#39;Bộ tứ báo thủ&#39;](https://vnexpress.net/ky-duyen-tao-an-tuong-khi-dong-phan-dien-bo-tu-bao-thu-4845803.html) - 23:00 05/02/2025
-- 🐲 [Dàn sao &#39;Vườn sao băng&#39; Đài Loan ngày ấy, bây giờ](https://vnexpress.net/dan-sao-vuon-sao-bang-dai-loan-ngay-ay-bay-gio-4845713.html) - 17:00 05/02/2025
-- 🎃 [&#39;Mã nguồn&#39; - chuyện đời tỷ phú Bill Gates](https://vnexpress.net/ma-nguon-chuyen-doi-ty-phu-bill-gates-4846039.html) - 15:13 05/02/2025
-- 🤠 [Sắc vóc Khánh Vân qua ống kính của chồng](https://vnexpress.net/sac-voc-khanh-van-qua-ong-kinh-cua-chong-4846074.html) - 15:01 05/02/2025
-- 🎭 [Vũ Cát Tường cầu hôn bạn gái](https://vnexpress.net/vu-cat-tuong-cau-hon-ban-gai-4846236.html) - 14:16 05/02/2025
-- 🧰 [Trang Nhung: &#39;Tôi vỡ òa khi mang bầu lần ba&#39;](https://vnexpress.net/trang-nhung-toi-vo-oa-khi-mang-bau-lan-ba-4846116.html) - 14:05 05/02/2025
-- 🦍 [Gu diện đồ đi biển của con gái Quyền Linh](https://vnexpress.net/gu-dien-do-di-bien-cua-con-gai-quyen-linh-4845552.html) - 13:00 05/02/2025
-- 🌝 [&#39;Bộ tứ báo thủ&#39; của Trấn Thành bị giảm suất chiếu](https://vnexpress.net/bo-tu-bao-thu-cua-tran-thanh-bi-giam-suat-chieu-4846191.html) - 10:55 05/02/2025
-- 🧑‍💻 [Tro cốt Từ Hy Viên về đến Đài Loan](https://vnexpress.net/tro-cot-tu-hy-vien-ve-den-dai-loan-4846161.html) - 09:29 05/02/2025
-- 🥸 [Lynda Trang Đài bị bắt vì tội &#39;trộm cắp vặt&#39; ở Mỹ](https://vnexpress.net/lynda-trang-dai-bi-bat-vi-toi-trom-cap-vat-o-my-4846110.html) - 08:41 05/02/2025
-- 🔥 [Thư viết cho con của Từ Hy Viên gây xúc động](https://vnexpress.net/thu-viet-cho-con-cua-tu-hy-vien-gay-xuc-dong-4846069.html) - 07:09 05/02/2025
-- 🐎 [Hoa hậu Diễm Hương cùng chồng con du xuân](https://vnexpress.net/hoa-hau-diem-huong-cung-chong-con-du-xuan-4845943.html) - 06:39 05/02/2025
-- 😎 [Bạn bè lo lắng tình trạng chồng Từ Hy Viên](https://vnexpress.net/ban-be-lo-lang-tinh-trang-chong-tu-hy-vien-4846038.html) - 05:10 05/02/2025
-- 🦄 [Song Luân ra nhạc sau &#39;Anh trai say hi&#39;](https://vnexpress.net/song-luan-ra-nhac-sau-anh-trai-say-hi-4845773.html) - 04:42 05/02/2025
-- 🌜 [Tác giả &#39;Vườn sao băng&#39; nhớ nụ cười Từ Hy Viên](https://vnexpress.net/tac-gia-vuon-sao-bang-nho-nu-cuoi-tu-hy-vien-4845964.html) - 03:55 05/02/2025
-- 🚦 [Kanye West: &#39;Vợ chồng tôi đánh bại Grammy&#39;](https://vnexpress.net/kanye-west-vo-chong-toi-danh-bai-grammy-4845917.html) - 03:52 05/02/2025
-- 🧐 [Barron Trump gây sốt với trang phục đi học](https://vnexpress.net/barron-trump-gay-sot-voi-trang-phuc-di-hoc-4845949.html) - 03:02 05/02/2025
-- 🐵 [Concert của Coldplay phá kỷ lục &#39;The Eras Tour&#39;](https://vnexpress.net/concert-cua-coldplay-pha-ky-luc-the-eras-tour-4845781.html) - 02:51 05/02/2025
-- ⚗️ [Vợ Uông Tiểu Phi: &#39;Điều tôi có thể làm là chăm sóc con của chồng&#39;](https://vnexpress.net/vo-uong-tieu-phi-dieu-toi-co-the-lam-la-cham-soc-con-cua-chong-4845931.html) - 02:47 05/02/2025
-- 👺 [Khoảnh khắc rạng rỡ cuối đời của Từ Hy Viên](https://vnexpress.net/khoanh-khac-rang-ro-cuoi-doi-cua-tu-hy-vien-4845883.html) - 02:14 05/02/2025
-- 🌊 [Vẻ đáng yêu của con gái Đỗ Mỹ Linh](https://vnexpress.net/ve-dang-yeu-cua-con-gai-do-my-linh-4845746.html) - 01:00 05/02/2025
-- 🪜 [10 phim hay nhất về đổ bộ Mặt Trăng](https://vnexpress.net/10-phim-hay-nhat-ve-do-bo-mat-trang-4841138.html) - 17:00 04/02/2025
-- 🕴 [Tài tử Triệu Văn Trác đưa vợ con du xuân Phú Quốc](https://vnexpress.net/tai-tu-trieu-van-trac-dua-vo-con-du-xuan-phu-quoc-4845830.html) - 14:51 04/02/2025
-- 💃 [Đầm dự tiệc tôn dáng của Midu](https://vnexpress.net/dam-du-tiec-ton-dang-cua-midu-4843667.html) - 13:29 04/02/2025
-- 🦄 [Hội sách Tết Ất Tỵ thu hơn 10 tỷ đồng](https://vnexpress.net/hoi-sach-tet-at-ty-thu-hon-10-ty-dong-4845596.html) - 13:00 04/02/2025
-- ⛽️ [&#39;Nụ hôn bạc tỷ&#39; - nét hài duyên về tình chị em](https://vnexpress.net/giai-tri/phim/thu-vien-phim/nu-hon-bac-ty-768) - 12:00 04/02/2025
-- 😎 [11 bộ cánh ngoạn mục nhất sàn diễn Paris](https://vnexpress.net/11-bo-canh-ngoan-muc-nhat-san-dien-paris-4845645.html) - 09:40 04/02/2025
-- 🌊 [Chồng cũ Từ Hy Viên: &#39;Vợ, anh rất nhớ em&#39;](https://vnexpress.net/chong-cu-tu-hy-vien-vo-anh-rat-nho-em-4845690.html) - 08:49 04/02/2025
-- 🐲 [Lễ hỏa táng Từ Hy Viên hoàn tất tại Nhật](https://vnexpress.net/le-hoa-tang-tu-hy-vien-hoan-tat-tai-nhat-4845650.html) - 07:56 04/02/2025
-- 💂 [Hương Giang tình tứ bên bạn trai đầu xuân](https://vnexpress.net/huong-giang-tinh-tu-ben-ban-trai-dau-xuan-4845568.html) - 07:30 04/02/2025
-- 🙉 [Jisoo nhóm Blackpink sẽ họp fan ở Hà Nội](https://vnexpress.net/jisoo-nhom-blackpink-se-hop-fan-o-ha-noi-4845600.html) - 07:19 04/02/2025
-- 💪 [Nicolas Cage phản đối AI](https://vnexpress.net/nicolas-cage-phan-doi-ai-4845484.html) - 06:28 04/02/2025
-- 👍 [Các hoa hậu, á hậu chụp ảnh cảm hứng từ cải lương](https://vnexpress.net/cac-hoa-hau-a-hau-chup-anh-cam-hung-tu-cai-luong-4845337.html) - 04:01 04/02/2025
-- 💪 [Sao Ukraine được khen &#39;sắc nước hương trời&#39;](https://vnexpress.net/sao-ukraine-duoc-khen-sac-nuoc-huong-troi-4843822.html) - 02:36 04/02/2025
-- 💄 [Dấu ấn Từ Hy Viên trên màn ảnh](https://vnexpress.net/dau-an-tu-hy-vien-tren-man-anh-4845522.html) - 17:00 03/02/2025
-- 🦩 [Châu Bùi: &#39;Tôi trọn vẹn công việc lẫn tình duyên&#39;](https://vnexpress.net/chau-bui-toi-tron-ven-cong-viec-lan-tinh-duyen-4842552.html) - 17:00 03/02/2025
-- 🥸 [Chồng hôn vĩnh biệt Từ Hy Viên](https://vnexpress.net/chong-hon-vinh-biet-tu-hy-vien-4845422.html) - 16:00 03/02/2025
-- 🧰 [Trấn Thành: Tôi buồn khi &#39;Bộ tứ báo thủ&#39; bị nhận xét tiêu cực](https://vnexpress.net/tran-thanh-toi-buon-khi-bo-tu-bao-thu-bi-nhan-xet-tieu-cuc-4845157.html) - 09:30 03/02/2025
-- 💼 [Diễn viên Từ Hy Viên qua đời ở tuổi 49](https://vnexpress.net/dien-vien-tu-hy-vien-qua-doi-o-tuoi-49-4845145.html) - 02:45 03/02/2025
-- 🧑‍💻 [Beyoncé thắng lớn, Taylor Swift &#39;trắng tay&#39; ở Grammy 2025](https://vnexpress.net/beyonce-thang-lon-taylor-swift-trang-tay-o-grammy-2025-4845095-tong-thuat.html) - 01:05 03/02/2025<!-- vnexpress-giai-tri:END -->
+- 🌏 [Demi Moore: &#39;Tôi và Bruce Willis vẫn là gia đình&#39;](https://vnexpress.net/demi-moore-toi-va-bruce-willis-van-la-gia-dinh-4846836.html) - 10:04 07/02/2025
+- 💫 [5 năm yêu kín tiếng của Vũ Cát Tường và bạn gái](https://vnexpress.net/5-nam-yeu-kin-tieng-cua-vu-cat-tuong-va-ban-gai-4846370.html) - 08:49 07/02/2025
+- 🌮 [Thời trang du lịch mùa lạnh của Chi Pu](https://vnexpress.net/thoi-trang-du-lich-mua-lanh-cua-chi-pu-4846432.html) - 07:26 07/02/2025
+- 🧠 [Tiểu Vy phủ nhận yêu diễn viên Thái Lan](https://vnexpress.net/tieu-vy-phu-nhan-yeu-dien-vien-thai-lan-4846346.html) - 04:54 07/02/2025
+- 👨‍🏫 [Kanye West: &#39;Tôi may mắn có người vợ dũng cảm và quyến rũ&#39;](https://vnexpress.net/kanye-west-toi-may-man-co-nguoi-vo-dung-cam-va-quyen-ru-4846737.html) - 04:06 07/02/2025
+- ⚗️ [Phần bảy &#39;Jurassic World&#39; tung trailer](https://vnexpress.net/phan-bay-jurassic-world-tung-trailer-4846475.html) - 03:03 07/02/2025
+- 😎 [Quản lý Từ Hy Viên nói Tiểu Phi &#39;dàn cảnh thê lương dưới mưa&#39;](https://vnexpress.net/quan-ly-tu-hy-vien-noi-tieu-phi-dan-canh-the-luong-duoi-mua-4846701.html) - 02:56 07/02/2025
+- 🫣 [Midu - mỹ nhân tuổi Tỵ đa năng](https://vnexpress.net/midu-my-nhan-tuoi-ty-da-nang-4845599.html) - 01:00 07/02/2025
+- 🪄 [Tài thơ của vua Minh Mạng](https://vnexpress.net/tai-tho-cua-vua-minh-mang-4845171.html) - 17:00 06/02/2025
+- 🤓 [Chồng Từ Hy Viên từ bỏ quyền thừa kế tài sản của vợ](https://vnexpress.net/chong-tu-hy-vien-tu-bo-quyen-thua-ke-tai-san-cua-vo-4846635.html) - 15:17 06/02/2025
+- 🫶 [Thời trang đi làm của Hồ Ngọc Hà](https://vnexpress.net/thoi-trang-di-lam-cua-ho-ngoc-ha-4845573.html) - 13:29 06/02/2025
+- 🧑‍🏫 [Phong cách unisex của Vũ Cát Tường](https://vnexpress.net/phong-cach-unisex-cua-vu-cat-tuong-4846458.html) - 12:00 06/02/2025
+- 🦄 [Cựu binh Mỹ tham gia Ngày Thơ Việt Nam](https://vnexpress.net/cuu-binh-my-tham-gia-ngay-tho-viet-nam-4846453.html) - 09:37 06/02/2025
+- 💫 [Phim của Thu Trang &#39;lội ngược dòng&#39;](https://vnexpress.net/phim-cua-thu-trang-loi-nguoc-dong-4846503.html) - 08:59 06/02/2025
+- 🎊 [Hoạt hình &#39;Na Tra&#39; ăn khách nhất Trung Quốc mọi thời](https://vnexpress.net/hoat-hinh-na-tra-an-khach-nhat-trung-quoc-moi-thoi-4846496.html) - 07:59 06/02/2025
+- 👹 [Phong cách thời trang của bạn gái tỷ phú Bill Gates](https://vnexpress.net/phong-cach-thoi-trang-cua-ban-gai-ty-phu-bill-gates-4845996.html) - 06:56 06/02/2025
+- 💻 [Thế giới kỳ ảo trong truyện &#39;Lục địa rồng&#39;](https://vnexpress.net/the-gioi-ky-ao-trong-truyen-luc-dia-rong-4845479.html) - 06:11 06/02/2025
+- 🤡 [Cảnh sắc, con người Việt đầu thế kỷ 20 qua tranh](https://vnexpress.net/canh-sac-con-nguoi-viet-dau-the-ky-20-qua-tranh-4845633.html) - 03:40 06/02/2025
+- 🥰 [Khối tài sản của Từ Hy Viên](https://vnexpress.net/khoi-tai-san-cua-tu-hy-vien-4846324.html) - 03:10 06/02/2025
+- 🚀 [Oscar 2025 - phim nghệ thuật lên ngôi](https://vnexpress.net/oscar-2025-phim-nghe-thuat-len-ngoi-4842820.html) - 02:16 06/02/2025
+- 📝 [Tài tử gạo cội TVB qua đời](https://vnexpress.net/tai-tu-gao-coi-tvb-qua-doi-4846301.html) - 01:51 06/02/2025
+- 🐲 [Kỳ Duyên tạo ấn tượng khi đóng phản diện &#39;Bộ tứ báo thủ&#39;](https://vnexpress.net/ky-duyen-tao-an-tuong-khi-dong-phan-dien-bo-tu-bao-thu-4845803.html) - 23:00 05/02/2025
+- 🎃 [Dàn sao &#39;Vườn sao băng&#39; Đài Loan ngày ấy, bây giờ](https://vnexpress.net/dan-sao-vuon-sao-bang-dai-loan-ngay-ay-bay-gio-4845713.html) - 17:00 05/02/2025
+- 🤠 [&#39;Mã nguồn&#39; - chuyện đời tỷ phú Bill Gates](https://vnexpress.net/ma-nguon-chuyen-doi-ty-phu-bill-gates-4846039.html) - 15:13 05/02/2025
+- 🎭 [Sắc vóc Khánh Vân qua ống kính của chồng](https://vnexpress.net/sac-voc-khanh-van-qua-ong-kinh-cua-chong-4846074.html) - 15:01 05/02/2025
+- 🧰 [Vũ Cát Tường cầu hôn bạn gái](https://vnexpress.net/vu-cat-tuong-cau-hon-ban-gai-4846236.html) - 14:16 05/02/2025
+- 🦍 [Trang Nhung: &#39;Tôi vỡ òa khi mang bầu lần ba&#39;](https://vnexpress.net/trang-nhung-toi-vo-oa-khi-mang-bau-lan-ba-4846116.html) - 14:05 05/02/2025
+- 🌝 [Gu diện đồ đi biển của con gái Quyền Linh](https://vnexpress.net/gu-dien-do-di-bien-cua-con-gai-quyen-linh-4845552.html) - 13:00 05/02/2025
+- 🧑‍💻 [&#39;Bộ tứ báo thủ&#39; của Trấn Thành bị giảm suất chiếu](https://vnexpress.net/bo-tu-bao-thu-cua-tran-thanh-bi-giam-suat-chieu-4846191.html) - 10:55 05/02/2025
+- 🥸 [Tro cốt Từ Hy Viên về đến Đài Loan](https://vnexpress.net/tro-cot-tu-hy-vien-ve-den-dai-loan-4846161.html) - 09:29 05/02/2025
+- 🔥 [Lynda Trang Đài bị bắt vì tội &#39;trộm cắp vặt&#39; ở Mỹ](https://vnexpress.net/lynda-trang-dai-bi-bat-vi-toi-trom-cap-vat-o-my-4846110.html) - 08:41 05/02/2025
+- 🐎 [Thư viết cho con của Từ Hy Viên gây xúc động](https://vnexpress.net/thu-viet-cho-con-cua-tu-hy-vien-gay-xuc-dong-4846069.html) - 07:09 05/02/2025
+- 😎 [Hoa hậu Diễm Hương cùng chồng con du xuân](https://vnexpress.net/hoa-hau-diem-huong-cung-chong-con-du-xuan-4845943.html) - 06:39 05/02/2025
+- 🦄 [Bạn bè lo lắng tình trạng chồng Từ Hy Viên](https://vnexpress.net/ban-be-lo-lang-tinh-trang-chong-tu-hy-vien-4846038.html) - 05:10 05/02/2025
+- 🌜 [Song Luân ra nhạc sau &#39;Anh trai say hi&#39;](https://vnexpress.net/song-luan-ra-nhac-sau-anh-trai-say-hi-4845773.html) - 04:42 05/02/2025
+- 🚦 [Tác giả &#39;Vườn sao băng&#39; nhớ nụ cười Từ Hy Viên](https://vnexpress.net/tac-gia-vuon-sao-bang-nho-nu-cuoi-tu-hy-vien-4845964.html) - 03:55 05/02/2025
+- 🧐 [Kanye West: &#39;Vợ chồng tôi đánh bại Grammy&#39;](https://vnexpress.net/kanye-west-vo-chong-toi-danh-bai-grammy-4845917.html) - 03:52 05/02/2025
+- 🐵 [Barron Trump gây sốt với trang phục đi học](https://vnexpress.net/barron-trump-gay-sot-voi-trang-phuc-di-hoc-4845949.html) - 03:02 05/02/2025
+- ⚗️ [Concert của Coldplay phá kỷ lục &#39;The Eras Tour&#39;](https://vnexpress.net/concert-cua-coldplay-pha-ky-luc-the-eras-tour-4845781.html) - 02:51 05/02/2025
+- 👺 [Vợ Uông Tiểu Phi: &#39;Điều tôi có thể làm là chăm sóc con của chồng&#39;](https://vnexpress.net/vo-uong-tieu-phi-dieu-toi-co-the-lam-la-cham-soc-con-cua-chong-4845931.html) - 02:47 05/02/2025
+- 🌊 [Khoảnh khắc rạng rỡ cuối đời của Từ Hy Viên](https://vnexpress.net/khoanh-khac-rang-ro-cuoi-doi-cua-tu-hy-vien-4845883.html) - 02:14 05/02/2025
+- 🪜 [Vẻ đáng yêu của con gái Đỗ Mỹ Linh](https://vnexpress.net/ve-dang-yeu-cua-con-gai-do-my-linh-4845746.html) - 01:00 05/02/2025
+- 🕴 [10 phim hay nhất về đổ bộ Mặt Trăng](https://vnexpress.net/10-phim-hay-nhat-ve-do-bo-mat-trang-4841138.html) - 17:00 04/02/2025
+- 💃 [Tài tử Triệu Văn Trác đưa vợ con du xuân Phú Quốc](https://vnexpress.net/tai-tu-trieu-van-trac-dua-vo-con-du-xuan-phu-quoc-4845830.html) - 14:51 04/02/2025
+- 🦄 [Đầm dự tiệc tôn dáng của Midu](https://vnexpress.net/dam-du-tiec-ton-dang-cua-midu-4843667.html) - 13:29 04/02/2025
+- ⛽️ [Hội sách Tết Ất Tỵ thu hơn 10 tỷ đồng](https://vnexpress.net/hoi-sach-tet-at-ty-thu-hon-10-ty-dong-4845596.html) - 13:00 04/02/2025
+- 😎 [&#39;Nụ hôn bạc tỷ&#39; - nét hài duyên về tình chị em](https://vnexpress.net/giai-tri/phim/thu-vien-phim/nu-hon-bac-ty-768) - 12:00 04/02/2025
+- 🌊 [11 bộ cánh ngoạn mục nhất sàn diễn Paris](https://vnexpress.net/11-bo-canh-ngoan-muc-nhat-san-dien-paris-4845645.html) - 09:40 04/02/2025
+- 🐲 [Chồng cũ Từ Hy Viên: &#39;Vợ, anh rất nhớ em&#39;](https://vnexpress.net/chong-cu-tu-hy-vien-vo-anh-rat-nho-em-4845690.html) - 08:49 04/02/2025
+- 💂 [Lễ hỏa táng Từ Hy Viên hoàn tất tại Nhật](https://vnexpress.net/le-hoa-tang-tu-hy-vien-hoan-tat-tai-nhat-4845650.html) - 07:56 04/02/2025
+- 🙉 [Hương Giang tình tứ bên bạn trai đầu xuân](https://vnexpress.net/huong-giang-tinh-tu-ben-ban-trai-dau-xuan-4845568.html) - 07:30 04/02/2025
+- 💪 [Jisoo nhóm Blackpink sẽ họp fan ở Hà Nội](https://vnexpress.net/jisoo-nhom-blackpink-se-hop-fan-o-ha-noi-4845600.html) - 07:19 04/02/2025
+- 👍 [Nicolas Cage phản đối AI](https://vnexpress.net/nicolas-cage-phan-doi-ai-4845484.html) - 06:28 04/02/2025
+- 💪 [Các hoa hậu, á hậu chụp ảnh cảm hứng từ cải lương](https://vnexpress.net/cac-hoa-hau-a-hau-chup-anh-cam-hung-tu-cai-luong-4845337.html) - 04:01 04/02/2025
+- 💄 [Sao Ukraine được khen &#39;sắc nước hương trời&#39;](https://vnexpress.net/sao-ukraine-duoc-khen-sac-nuoc-huong-troi-4843822.html) - 02:36 04/02/2025
+- 🦩 [Dấu ấn Từ Hy Viên trên màn ảnh](https://vnexpress.net/dau-an-tu-hy-vien-tren-man-anh-4845522.html) - 17:00 03/02/2025
+- 🥸 [Châu Bùi: &#39;Tôi trọn vẹn công việc lẫn tình duyên&#39;](https://vnexpress.net/chau-bui-toi-tron-ven-cong-viec-lan-tinh-duyen-4842552.html) - 17:00 03/02/2025
+- 🧰 [Chồng hôn vĩnh biệt Từ Hy Viên](https://vnexpress.net/chong-hon-vinh-biet-tu-hy-vien-4845422.html) - 16:00 03/02/2025
+- 💼 [Trấn Thành: Tôi buồn khi &#39;Bộ tứ báo thủ&#39; bị nhận xét tiêu cực](https://vnexpress.net/tran-thanh-toi-buon-khi-bo-tu-bao-thu-bi-nhan-xet-tieu-cuc-4845157.html) - 09:30 03/02/2025
+- 🧑‍💻 [Diễn viên Từ Hy Viên qua đời ở tuổi 49](https://vnexpress.net/dien-vien-tu-hy-vien-qua-doi-o-tuoi-49-4845145.html) - 02:45 03/02/2025<!-- vnexpress-giai-tri:END -->
