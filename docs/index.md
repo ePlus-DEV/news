@@ -32,8 +32,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌏 [Tổng Bí thư: &#39;Tăng cường phòng ngừa, hạn chế sai phạm trong Đảng&#39;](https://vnexpress.net/tong-bi-thu-tang-cuong-phong-ngua-han-che-sai-pham-trong-dang-4847031.html) - 13:40 07/02/2025
 - 🧐 [Viettel Global lần đầu có CEO nữ](https://vnexpress.net/viettel-global-lan-dau-co-ceo-nu-4847030.html) - 13:18 07/02/2025
 - 💫 [Khí cầu lai máy bay có thể chở 60 tấn hàng](https://vnexpress.net/khi-cau-lai-may-bay-co-the-cho-60-tan-hang-4846974.html) - 13:00 07/02/2025
-- 😺 [Bốn báu vật của đời người](https://vnexpress.net/bon-bau-vat-cua-doi-nguoi-4846282.html) - 13:00 07/02/2025
-- 🕯 [Túi hình tôm hùm trị giá 18.000 USD](https://vnexpress.net/tui-hinh-tom-hum-tri-gia-18-000-usd-4846960.html) - 13:00 07/02/2025
+- 😺 [Túi hình tôm hùm trị giá 18.000 USD](https://vnexpress.net/tui-hinh-tom-hum-tri-gia-18-000-usd-4846960.html) - 13:00 07/02/2025
+- 🕯 [Bốn báu vật của đời người](https://vnexpress.net/bon-bau-vat-cua-doi-nguoi-4846282.html) - 13:00 07/02/2025
 - 💃 [Người bệnh xơ gan nên ăn uống thế nào](https://vnexpress.net/nguoi-benh-xo-gan-nen-an-uong-the-nao-4846912.html) - 13:00 07/02/2025
 - 💂 [Mắc sùi mào gà sau khi tình dục không an toàn](https://vnexpress.net/mac-sui-mao-ga-sau-khi-tinh-duc-khong-an-toan-4846890.html) - 13:00 07/02/2025
 - 🎊 [Trang sức lấy ý tưởng từ tre của Chaumet](https://vnexpress.net/trang-suc-lay-y-tuong-tu-tre-cua-chaumet-4846533.html) - 13:00 07/02/2025
