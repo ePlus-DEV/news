@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Thứ trưởng Công an nói lý do nhiều người bị lừa đảo trực tuyến](https://vnexpress.net/thu-truong-cong-an-noi-ly-do-nhieu-nguoi-bi-lua-dao-truc-tuyen-4846861.html) - 08:00 07/02/2025
-- 🥰 [Luật sư: Chủ 2 vé số trúng đặc biệt bị rách &#39;có thể được trả thưởng&#39;](https://vnexpress.net/luat-su-chu-2-ve-so-trung-dac-biet-bi-rach-co-the-duoc-tra-thuong-4846855.html) - 07:43 07/02/2025
+- 🥰 [Luật sư: Chủ 2 vé số trúng đặc biệt bị rách &#39;có thể được trả thưởng&#39;](https://vnexpress.net/luat-su-chu-2-ve-so-trung-dac-biet-bi-rach-co-the-duoc-tra-thuong-vnepre-4846855.html) - 07:43 07/02/2025
 - 🎓 [&#39;Tội đồ&#39; khiến các tử tù Texas mất quyền ăn bữa thịnh soạn cuối cùng](https://vnexpress.net/toi-do-khien-cac-tu-tu-texas-mat-quyen-an-bua-thinh-soan-cuoi-cung-4846851.html) - 07:08 07/02/2025
 - 🤓 [Vờ quên mã PIN, nghi phạm bị cảnh sát dùng Face ID mở điện thoại](https://vnexpress.net/vo-quen-ma-pin-nghi-pham-bi-canh-sat-dung-face-id-mo-dien-thoai-4846835.html) - 06:57 07/02/2025
 - 🎊 [Người dân phục kích bắt tên trộm xe máy](https://video.vnexpress.net/nguoi-dan-phuc-kich-bat-ten-trom-xe-may-4846818.html) - 05:28 07/02/2025
