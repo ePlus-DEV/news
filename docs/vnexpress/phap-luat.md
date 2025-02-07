@@ -4,9 +4,9 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [&#39;Ống tiêm tử thần&#39; của nữ y tá gây ám ảnh trong bệnh viện](https://vnexpress.net/ong-tiem-tu-than-cua-nu-y-ta-gay-am-anh-trong-benh-vien-4847021.html) - 17:00 07/02/2025
-- 🥰 [Cục thi hành án dân sự TP HCM &#39;thu giữ 78 tỷ đồng trái bản án&#39;](https://vnexpress.net/cuc-thi-hanh-an-dan-su-tp-hcm-thu-giu-78-ty-dong-trai-ban-an-4846962.html) - 17:00 07/02/2025
-- 🎓 [Kỳ án chị em sinh đôi tráo thân phận để trốn tội](https://vnexpress.net/ky-an-chi-em-sinh-doi-trao-than-phan-de-tron-toi-4846938.html) - 17:00 07/02/2025
+- 😎 [Diễn biến tâm lý của kẻ đầu độc người tình bằng xyanua  , lao ôtô xuống vực](https://vnexpress.net/dien-bien-tam-ly-cua-nguoi-dan-ba-dau-doc-nguoi-tinh-lao-oto-xuong-vuc-4847057.html) - 17:19 07/02/2025
+- 🥰 [&#39;Ống tiêm tử thần&#39; của nữ y tá gây ám ảnh trong bệnh viện](https://vnexpress.net/ong-tiem-tu-than-cua-nu-y-ta-gay-am-anh-trong-benh-vien-4847021.html) - 17:00 07/02/2025
+- 🎓 [Cục thi hành án dân sự TP HCM &#39;thu giữ 78 tỷ đồng trái bản án&#39;](https://vnexpress.net/cuc-thi-hanh-an-dan-su-tp-hcm-thu-giu-78-ty-dong-trai-ban-an-4846962.html) - 17:00 07/02/2025
 - 🤓 [Làm gì khi con đập phá nhà vì không được cho tiền?](https://vnexpress.net/lam-gi-khi-con-dap-pha-nha-vi-khong-duoc-cho-tien-4845246.html) - 17:00 07/02/2025
 - 🎊 [Nổ nhiều phát súng trong cuộc giải quyết mâu thuẫn](https://vnexpress.net/no-nhieu-phat-sung-trong-cuoc-giai-quyet-mau-thuan-4846995.html) - 12:13 07/02/2025
 - 🙉 [Cơ cấu mới của VKSND Tối cao sau sắp xếp](https://vnexpress.net/co-cau-moi-cua-vksnd-toi-cao-sau-sap-xep-4847010.html) - 10:48 07/02/2025
