@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- dantri-xa-hoi:START -->
 - 🫣 [Hàng trăm ô tô ùn tắc trên quốc lộ 15A sau 2 vụ tai nạn liên tiếp](https://dantri.com.vn/xa-hoi/hang-tram-o-to-un-tac-tren-quoc-lo-15a-sau-2-vu-tai-nan-lien-tiep-20250208205433740.htm) - 14:28 08/02/2025
-- 💼 [Thủ tướng: &quot;Từ sân bay Chu Lai bay 5 tiếng là đủ hết 60% GDP của thế giới&quot;](https://dantri.com.vn/xa-hoi/thu-tuong-tu-san-bay-chu-lai-bay-5-tieng-la-du-het-60-gdp-cua-the-gioi-20250208211413240.htm) - 14:25 08/02/2025
+- 💼 [Thủ tướng: Cán bộ Quảng Nam mà chủ yếu ở Đà Nẵng thì ai xây dựng tỉnh?](https://dantri.com.vn/xa-hoi/thu-tuong-can-bo-quang-nam-ma-chu-yeu-o-da-nang-thi-ai-xay-dung-tinh-20250208211413240.htm) - 14:25 08/02/2025
 - 🎊 [Hà Nội: Tai nạn liên hoàn trên đường Cầu Giấy](https://dantri.com.vn/xa-hoi/ha-noi-tai-nan-lien-hoan-tren-duong-cau-giay-20250208210100395.htm) - 14:13 08/02/2025
 - 🙉 [Tài xế xe ôm công nghệ bị ô tô buýt cán tử vong ở TPHCM](https://dantri.com.vn/xa-hoi/tai-xe-xe-om-cong-nghe-bi-o-to-buyt-can-tu-vong-o-tphcm-20250208185517535.htm) - 12:13 08/02/2025
 - 🕯 [Tai nạn thảm khốc ở Phú Yên: Ám ảnh tiếng la hét, kêu cứu](https://dantri.com.vn/xa-hoi/tai-nan-tham-khoc-o-phu-yen-am-anh-tieng-la-het-keu-cuu-20250208181426017.htm) - 11:47 08/02/2025
