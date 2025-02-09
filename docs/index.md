@@ -147,7 +147,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Hòa Phát cam kết với Thủ tướng tăng trưởng 15%/năm từ nay đến 2030](https://thanhnien.vn/hoa-phat-cam-ket-voi-thu-tuong-tang-truong-15-nam-tu-nay-den-2030-185250209222201656.htm) - 15:30 09/02/2025
+- 🤠 [Hòa Phát cam kết với Thủ tướng sẽ tăng trưởng 15%/năm từ nay đến năm 2030](https://thanhnien.vn/hoa-phat-cam-ket-voi-thu-tuong-tang-truong-15-nam-tu-nay-den-2030-185250209222201656.htm) - 15:30 09/02/2025
 - 🥸 [Cả nước Sri Lanka mất điện chỉ vì một con khỉ](https://thanhnien.vn/ca-nuoc-sri-lanka-mat-dien-chi-vi-mot-con-khi-185250209212751977.htm) - 15:10 09/02/2025
 - 🌁 [Tiến Linh cán cột mốc 100 bàn thắng: Ước nguyện đặc biệt cùng CLB Bình Dương...](https://thanhnien.vn/tien-linh-can-cot-moc-100-ban-thang-uoc-nguyen-dac-biet-cung-clb-binh-duong-185250209215426372.htm) - 15:05 09/02/2025
 - 🤡 [Tạm đình chỉ công tác thiếu tá CSGT chửi người vi phạm ở TP.HCM](https://thanhnien.vn/tam-dinh-chi-cong-tac-thieu-ta-csgt-chui-nguoi-vi-pham-o-tphcm-185250209214018356.htm) - 14:48 09/02/2025
