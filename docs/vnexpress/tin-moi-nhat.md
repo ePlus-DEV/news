@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Elon Musk vạch kế hoạch thay đổi Bộ Tài chính Mỹ](https://vnexpress.net/elon-musk-vach-ke-hoach-thay-doi-bo-tai-chinh-my-4847503.html) - 14:47 09/02/2025
+- 🎬 [Elon Musk nêu loạt thay đổi tại Bộ Tài chính Mỹ](https://vnexpress.net/elon-musk-neu-loat-thay-doi-tai-bo-tai-chinh-my-4847503.html) - 14:47 09/02/2025
 - 🐎 [Người Việt học online miễn phí nhiều thứ hai thế giới](https://vnexpress.net/nguoi-viet-hoc-online-mien-phi-nhieu-thu-hai-the-gioi-4847384.html) - 14:37 09/02/2025
 - 🦍 [Giáo hoàng Francis bị khó thở, phải rút ngắn buổi cầu nguyện](https://vnexpress.net/giao-hoang-francis-bi-kho-tho-phai-rut-ngan-buoi-cau-nguyen-4847484.html) - 14:00 09/02/2025
 - 🏊 [Mỗi khi tết đến, tôi lại ám ảnh bởi những mảnh đời bất hạnh](https://vnexpress.net/moi-khi-tet-den-toi-lai-am-anh-boi-nhung-manh-doi-bat-hanh-4846719.html) - 14:00 09/02/2025
