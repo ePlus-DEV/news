@@ -4,7 +4,7 @@ sidebar_position: 21
 ---
 
 <!-- dantri-bat-dong-san:START -->
-- 🌏 [Thủ tướng phê bình 30 địa phương chưa báo cáo dự án tồn đọng](https://dantri.com.vn/bat-dong-san/thu-tuong-phe-binh-30-dia-phuong-chua-bao-cao-du-an-ton-dong-20250209203829994.htm) - 13:43 09/02/2025
+- 🌏 [Hà Nội thu hồi gần 1.000m2 đất do Công ty Him Lam trả lại](https://dantri.com.vn/bat-dong-san/ha-noi-thu-hoi-gan-1000m2-dat-do-cong-ty-him-lam-tra-lai-20250209193900239.htm) - 13:46 09/02/2025
 - 👹 [Thu nhập bao nhiêu mới đủ mua chung cư tại Hà Nội?](https://dantri.com.vn/bat-dong-san/thu-nhap-bao-nhieu-moi-du-mua-chung-cu-tai-ha-noi-20250209012702823.htm) - 02:07 09/02/2025
 - 💡 [Ocean City thu hút sự quan tâm của nhà đầu tư](https://dantri.com.vn/bat-dong-san/ocean-city-thu-hut-su-quan-tam-cua-nha-dau-tu-20250208102655988.htm) - 03:47 08/02/2025
 - 🌋 [Loạt CEO hàng đầu ngành bất động sản thế giới sắp tới Đà Lạt](https://dantri.com.vn/bat-dong-san/loat-ceo-hang-dau-nganh-bat-dong-san-the-gioi-sap-toi-da-lat-20250207234215454.htm) - 01:00 08/02/2025
