@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [6 cách phòng tránh kẻ trộm xe &#39;không cần chìa khóa&#39;](https://vnexpress.net/6-cach-phong-tranh-ke-trom-xe-khong-can-chia-khoa-4846138.html) - 06:17 09/02/2025
-- 🥰 [Nữ DJ - trùm ma túy nước vui ở TP HCM bị truy tố](https://vnexpress.net/nu-dj-trum-ma-tuy-nuoc-vui-o-tp-hcm-bi-truy-to-4847363.html) - 03:52 09/02/2025
+- 🥰 [Nữ DJ - trùm ma túy &#39;nước vui&#39; ở TP HCM bị truy tố](https://vnexpress.net/nu-dj-trum-ma-tuy-nuoc-vui-o-tp-hcm-bi-truy-to-4847363.html) - 03:52 09/02/2025
 - 🎓 [&#39;Giáo viên tiêu biểu&#39; tại Mỹ gây sốc khi nhận là tội phạm ấu dâm](https://vnexpress.net/giao-vien-tieu-bieu-tai-my-gay-soc-khi-nhan-la-toi-pham-au-dam-4847290.html) - 22:31 08/02/2025
 - 🤓 [Thuê người đóng giả chồng đại gia để lừa tiền người thân](https://vnexpress.net/thue-nguoi-dong-gia-chong-dai-gia-de-lua-tien-ca-ho-4847298.html) - 22:00 08/02/2025
 - 🎊 [Xe máy vượt ôtô trong đường làng có cần xi nhan?](https://vnexpress.net/xe-may-vuot-oto-trong-duong-lang-co-can-xi-nhan-4847271.html) - 17:14 08/02/2025
