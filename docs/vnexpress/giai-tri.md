@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Jisoo nỗ lực diễn xuất trong phim về zombie](https://vnexpress.net/jisoo-no-luc-dien-xuat-trong-phim-ve-zombie-4847367.html) - 12:16 09/02/2025
-- 💫 [Ban tổ chức Oscar đối phó AI](https://vnexpress.net/ban-to-chuc-oscar-doi-pho-ai-4847108.html) - 12:04 09/02/2025
+- 💫 [Oscar đối phó AI](https://vnexpress.net/oscar-doi-pho-ai-4847108.html) - 12:04 09/02/2025
 - 🌮 [Chồng cũ Từ Hy Viên đoạn tuyệt quan hệ với mẹ ruột](https://vnexpress.net/chong-cu-tu-hy-vien-doan-tuyet-quan-he-voi-me-ruot-4847441.html) - 08:30 09/02/2025
 - 🧠 [Ôn Bích Hà tôn eo 58 cm](https://vnexpress.net/on-bich-ha-ton-eo-58-cm-4847393.html) - 07:49 09/02/2025
 - 👨‍🏫 [Châu Nhuận Phát chinh phục half marathon](https://vnexpress.net/chau-nhuan-phat-chinh-phuc-half-marathon-4847401.html) - 05:30 09/02/2025
