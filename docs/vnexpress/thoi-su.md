@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [33 đơn vị chưa báo cáo Thủ tướng những dự án đầu tư có khó khăn](https://vnexpress.net/33-don-vi-chua-bao-cao-thu-tuong-nhung-du-an-dau-tu-co-kho-khan-4847479.html) - 12:59 09/02/2025
+- 🦒 [15 bộ và 30 địa phương bị thủ tướng phê bình](https://vnexpress.net/15-bo-va-30-dia-phuong-bi-thu-tuong-phe-binh-4847479.html) - 12:59 09/02/2025
 - 🤓 [Hàng nghìn đèn nến thắp sáng bảo tháp Kim cương thừa](https://vnexpress.net/hang-nghin-den-nen-thap-sang-bao-thap-kim-cuong-thua-4847466.html) - 11:39 09/02/2025
 - ⚗️ [Thủ tướng: Cán bộ Quảng Nam &#39;đừng về Đà Nẵng nữa&#39;](https://vnexpress.net/thu-tuong-can-bo-quang-nam-dung-ve-da-nang-nua-4847380.html) - 09:26 09/02/2025
 - 🌊 [Xe khách tông ôtô ở Khánh Hòa](https://vnexpress.net/xe-khach-tong-oto-o-khanh-hoa-4847447.html) - 08:52 09/02/2025
