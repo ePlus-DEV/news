@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Thủ tướng: Cán bộ Quảng Nam &#39;đừng về Đà Nẵng nữa&#39;](https://vnexpress.net/thu-tuong-can-bo-quang-nam-dung-ve-da-nang-nua-4847380.html) - 09:26 09/02/2025
-- 🤓 [Xe khách tông ôtô ở Khánh Hoà](https://vnexpress.net/xe-khach-tong-oto-o-khanh-hoa-4847447.html) - 08:52 09/02/2025
+- 🤓 [Xe khách tông ôtô ở Khánh Hòa](https://vnexpress.net/xe-khach-tong-oto-o-khanh-hoa-4847447.html) - 08:52 09/02/2025
 - ⚗️ [Hà Nội dự kiến thành lập các sở mới trước 20/2](https://vnexpress.net/ha-noi-du-kien-thanh-lap-cac-so-moi-truoc-20-2-4847386.html) - 08:08 09/02/2025
 - 🌊 [Lật thuyền đua, một vận động viên đuối nước](https://vnexpress.net/lat-thuyen-dua-mot-van-dong-vien-duoi-nuoc-4847406.html) - 07:13 09/02/2025
 - 🎓 [Xe máy lao vào gốc cây, ba người chết](https://vnexpress.net/xe-may-lao-vao-goc-cay-ba-nguoi-chet-4847410.html) - 06:59 09/02/2025
