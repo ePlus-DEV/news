@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Châu Nhuận Phát chinh phục đường chạy half marathon](https://vnexpress.net/chau-nhuan-phat-chinh-phuc-duong-chay-half-marathon-4847401.html) - 05:30 09/02/2025
+- 🌏 [Châu Nhuận Phát chinh phục half marathon](https://vnexpress.net/chau-nhuan-phat-chinh-phuc-half-marathon-4847401.html) - 05:30 09/02/2025
 - 💫 [Vợ chồng David Beckham dự tiệc tối của Vua Charles III](https://vnexpress.net/vo-chong-david-beckham-du-tiec-toi-cua-vua-charles-iii-4847350.html) - 03:18 09/02/2025
 - 🌮 [Hoạt hình &#39;Na Tra&#39; vượt một tỷ USD](https://vnexpress.net/hoat-hinh-na-tra-vuot-mot-ty-usd-4847335.html) - 03:13 09/02/2025
 - 🧠 [Taylor Swift giúp tăng 30% lượng fan cho đội bóng của bạn trai](https://vnexpress.net/taylor-swift-giup-tang-30-luong-fan-cho-doi-bong-cua-ban-trai-4847340.html) - 02:22 09/02/2025
