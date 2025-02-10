@@ -4,10 +4,10 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Khán giả la ó khi Taylor Swift xuất hiện ở Super Bowl](https://vnexpress.net/khan-gia-la-o-khi-taylor-swift-xuat-hien-o-super-bowl-4847672.html) - 07:00 10/02/2025
-- 💫 [Đàm Vĩnh Hưng cùng con trai đếm tiền lì xì Tết](https://video.vnexpress.net/dam-vinh-hung-cung-con-trai-dem-tien-li-xi-tet-4847731.html) - 05:52 10/02/2025
-- 🌮 [Loạt đầm tôn vòng một của Hoa hậu Pia Wurtzbach](https://vnexpress.net/loat-dam-ton-vong-mot-cua-hoa-hau-pia-wurtzbach-4843531.html) - 05:36 10/02/2025
-- 🧠 [Trấn Thành hát &#39;Die with a Smile&#39; bằng tiếng Việt](https://video.vnexpress.net/tran-thanh-hat-die-with-a-smile-bang-tieng-viet-4847737.html) - 05:22 10/02/2025
+- 🌏 [&#39;Công chúa giải trí&#39; Thái Lan dạo phố cổ Hội An](https://vnexpress.net/cong-chua-giai-tri-thai-lan-dao-pho-co-hoi-an-4847830.html) - 09:33 10/02/2025
+- 💫 [Nghệ sĩ Tự Long, Soobin hát về tình yêu](https://vnexpress.net/nghe-si-tu-long-soobin-hat-ve-tinh-yeu-4847755.html) - 09:18 10/02/2025
+- 🌮 [Khán giả la ó khi Taylor Swift xuất hiện ở Super Bowl](https://vnexpress.net/khan-gia-la-o-khi-taylor-swift-xuat-hien-o-super-bowl-4847672.html) - 07:00 10/02/2025
+- 🧠 [Loạt đầm tôn vòng một của Hoa hậu Pia Wurtzbach](https://vnexpress.net/loat-dam-ton-vong-mot-cua-hoa-hau-pia-wurtzbach-4843531.html) - 05:36 10/02/2025
 - 👨‍🏫 [10 phim hay nhất về cuộc đua vũ trụ](https://vnexpress.net/10-phim-hay-nhat-ve-cuoc-dua-vu-tru-4847444.html) - 03:45 10/02/2025
 - ⚗️ [Dàn sao Hollywood tại Super Bowl 2025](https://vnexpress.net/dan-sao-hollywood-tai-super-bowl-2025-4847552.html) - 03:21 10/02/2025
 - 😎 [Rapper Doechii - từ thất nghiệp đến đoạt giải Grammy](https://vnexpress.net/rapper-doechii-tu-that-nghiep-den-doat-giai-grammy-4847412.html) - 20:00 09/02/2025
