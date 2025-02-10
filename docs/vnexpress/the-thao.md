@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Việt Nam đem xe mới sang Thái Lan cho cua-rơ thi giải châu Á](https://vnexpress.net/viet-nam-dem-xe-moi-sang-thai-lan-cho-cua-ro-thi-giai-chau-a-4847699.html) - 04:42 10/02/2025
+- 🪜 [Việt Nam chuyển gấp xe sang Thái Lan cho cua-rơ thi giải châu Á](https://vnexpress.net/viet-nam-chuyen-gap-xe-sang-thai-lan-cho-cua-ro-thi-giai-chau-a-4847699.html) - 04:42 10/02/2025
 - 🦩 [Alcaraz lần đầu vô địch sân trong nhà](https://vnexpress.net/alcaraz-lan-dau-vo-dich-san-trong-nha-4847669.html) - 04:26 10/02/2025
 - 🧰 [Chiếc bật lửa giúp Brighton đánh bại Chelsea](https://vnexpress.net/chiec-bat-lua-giup-brighton-danh-bai-chelsea-4847562.html) - 03:19 10/02/2025
 - 🤗 [Vua cờ Gukesh không thắng 10 ván liên tiếp ở Freestyle Chess](https://vnexpress.net/vua-co-gukesh-khong-thang-10-van-lien-tiep-o-freestyle-chess-4847578.html) - 02:43 10/02/2025
@@ -55,7 +55,7 @@ sidebar_position: 5
 - 🧐 [Runner khiếm thị chạy sub3 marathon](https://vnexpress.net/runner-khiem-thi-chay-sub3-marathon-4846736.html) - 17:00 07/02/2025
 - 🙉 [Nguyễn Xuân Son hay nhất V-League tháng 1](https://vnexpress.net/nguyen-xuan-son-hay-nhat-v-league-thang-1-4846993.html) - 10:32 07/02/2025
 - 🏊 [Nadal bán học viện quần vợt Mallorca](https://vnexpress.net/nadal-ban-hoc-vien-quan-vot-mallorca-4846969.html) - 09:16 07/02/2025
-- 🌊 [Cựu kỷ lục gia Việt Nam tham dự Tokyo Marathon](https://vnexpress.net/cuu-ky-luc-gia-viet-nam-tham-du-tokyo-marathon-4846950.html) - 08:59 07/02/2025
+- 🌊 [Cựu kỷ lục gia Việt Nam dự giải major trong năm 2025](https://vnexpress.net/cuu-ky-luc-gia-viet-nam-du-giai-major-trong-nam-2025-4846950.html) - 08:59 07/02/2025
 - 👨‍🏫 [Mẹ 8 con chinh phục 7 chặng marathon trên 7 lục địa thế nào?](https://vnexpress.net/me-8-con-chinh-phuc-7-chang-marathon-tren-7-luc-dia-the-nao-4846813.html) - 07:44 07/02/2025
 - 🥷 [Van Dijk chưa hài lòng dù thắng Tottenham 4-0](https://vnexpress.net/van-dijk-chua-hai-long-du-thang-tottenham-4-0-4846903.html) - 07:39 07/02/2025
 - ⚗️ [Simona Halep giải nghệ](https://vnexpress.net/simona-halep-giai-nghe-4846889.html) - 07:28 07/02/2025
