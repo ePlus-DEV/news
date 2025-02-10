@@ -312,56 +312,56 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Sức mạnh từ sự đồng lòng, thông suốt - Bài 1: Thống nhất nhận thức, kiên trì hành động](https://www.sggp.org.vn/suc-manh-tu-su-dong-long-thong-suot-bai-1-thong-nhat-nhan-thuc-kien-tri-hanh-dong-post781188.html) - 04:01 10/02/2025
-- 🌝 [Chủ tịch UBND tỉnh Đồng Tháp Phạm Thiện Nghĩa nghỉ hưu trước tuổi theo nguyện vọng](https://www.sggp.org.vn/chu-tich-ubnd-tinh-dong-thap-pham-thien-nghia-nghi-huu-truoc-tuoi-theo-nguyen-vong-post781215.html) - 03:57 10/02/2025
-- 💃 [Chính phủ lắng nghe doanh nghiệp &quot;hiến kế&quot; để đất nước tăng trưởng 2 con số](https://www.sggp.org.vn/chinh-phu-lang-nghe-doanh-nghiep-hien-ke-de-dat-nuoc-tang-truong-2-con-so-post781212.html) - 03:39 10/02/2025
-- 🧑‍💻 [Giá vàng tiếp tục tăng mạnh ngày đầu tuần](https://www.sggp.org.vn/gia-vang-tiep-tuc-tang-manh-ngay-dau-tuan-post781213.html) - 03:27 10/02/2025
-- 🌊 [Miền Nam đề phòng mưa trái mùa do áp thấp trên Biển Đông](https://www.sggp.org.vn/mien-nam-de-phong-mua-trai-mua-do-ap-thap-tren-bien-dong-post781210.html) - 02:49 10/02/2025
-- 🧑‍💻 [Mối bận tâm không của riêng nước Đức](https://www.sggp.org.vn/moi-ban-tam-khong-cua-rieng-nuoc-duc-post781184.html) - 02:46 10/02/2025
-- ⛽️ [Bắc bộ tăng nhiệt, trưa chiều hửng nắng](https://www.sggp.org.vn/bac-bo-tang-nhiet-trua-chieu-hung-nang-post781211.html) - 02:40 10/02/2025
-- 😎 [Rực rỡ sắc màu trong triển lãm Khai Xuân 2025](https://www.sggp.org.vn/ruc-ro-sac-mau-trong-trien-lam-khai-xuan-2025-post781208.html) - 02:38 10/02/2025
-- 🌜 [Cháy chùa Vẽ hàng trăm năm tuổi ở Bắc Giang](https://www.sggp.org.vn/chay-chua-ve-hang-tram-nam-tuoi-o-bac-giang-post781207.html) - 02:32 10/02/2025
-- 💻 [Đề xuất chính sách phù hợp để Đà Nẵng phát huy tiềm lực](https://www.sggp.org.vn/de-xuat-chinh-sach-phu-hop-de-da-nang-phat-huy-tiem-luc-post781198.html) - 02:26 10/02/2025
-- 👍 [Tạm đình chỉ cảnh sát giao thông lớn tiếng quát tháo cô gái nghi vi phạm](https://www.sggp.org.vn/tam-dinh-chi-canh-sat-giao-thong-lon-tieng-quat-thao-co-gai-nghi-vi-pham-post781168.html) - 01:20 10/02/2025
-- 🦆 [Mỹ chuẩn bị công bố mức thuế mới với thép và nhôm](https://www.sggp.org.vn/my-chuan-bi-cong-bo-muc-thue-moi-voi-thep-va-nhom-post781205.html) - 01:13 10/02/2025
-- 🦩 [Xuất khẩu gạo năm 2025: Tập trung vào chất lượng và xây dựng thương hiệu](https://www.sggp.org.vn/xuat-khau-gao-nam-2025-tap-trung-vao-chat-luong-va-xay-dung-thuong-hieu-post781186.html) - 00:59 10/02/2025
-- 🥰 [Chấm dứt những biến tướng của việc dạy thêm, học thêm](https://www.sggp.org.vn/cham-dut-nhung-bien-tuong-cua-viec-day-them-hoc-them-post781190.html) - 00:59 10/02/2025
-- 🎬 [Lâm cảnh khó khăn sau tai nạn](https://www.sggp.org.vn/lam-canh-kho-khan-sau-tai-nan-post781193.html) - 00:58 10/02/2025
-- 🦩 [Chủ động “hóa giải” tác động từ cuộc chiến thương mại toàn cầu](https://www.sggp.org.vn/chu-dong-hoa-giai-tac-dong-tu-cuoc-chien-thuong-mai-toan-cau-post781195.html) - 00:57 10/02/2025
-- 🌮 [Đa dạng thị trường xuất khẩu, không bỏ trứng vào một giỏ](https://www.sggp.org.vn/da-dang-thi-truong-xuat-khau-khong-bo-trung-vao-mot-gio-post781197.html) - 00:56 10/02/2025
-- 👍 [Sân khấu TPHCM sẵn sàng cho một năm sôi động](https://www.sggp.org.vn/san-khau-tphcm-san-sang-cho-mot-nam-soi-dong-post781200.html) - 00:56 10/02/2025
-- 🦒 [Sự nghiệp cầu thủ sẽ trọn vẹn khi được xướng tên trao thưởng](https://www.sggp.org.vn/su-nghiep-cau-thu-se-tron-ven-khi-duoc-xuong-ten-trao-thuong-post781202.html) - 00:55 10/02/2025
-- 🤡 [Mối họa tiềm tàng](https://www.sggp.org.vn/moi-hoa-tiem-tang-post781203.html) - 00:55 10/02/2025
-- 🐎 [Cách tân, nhưng đừng đánh mất giá trị truyền thống](https://www.sggp.org.vn/cach-tan-nhung-dung-danh-mat-gia-tri-truyen-thong-post781201.html) - 00:54 10/02/2025
-- 🦆 [Ngăn ngừa cháy rừng ở Tây Nguyên](https://www.sggp.org.vn/ngan-ngua-chay-rung-o-tay-nguyen-post781175.html) - 00:54 10/02/2025
-- 🦅 [Arne Slot không hối tiếc vì quyết định nhân sự khiến Liverpool tan mộng “ăn 4”](https://www.sggp.org.vn/arne-slot-khong-hoi-tiec-vi-quyet-dinh-nhan-su-khien-liverpool-tan-mong-an-4-post781206.html) - 00:43 10/02/2025
-- 🫣 [Barcelona tiến sát ngôi đầu sau chiến thắng 4-1 trước Sevilla](https://www.sggp.org.vn/barcelona-tien-sat-ngoi-dau-sau-chien-thang-4-1-truoc-sevilla-post781204.html) - 00:05 10/02/2025
-- 🎭 [Tiến Linh thiết lập cột mốc cá nhân trước khi dự gala Quả bóng vàng](https://www.sggp.org.vn/tien-linh-thiet-lap-cot-moc-ca-nhan-truoc-khi-du-gala-qua-bong-vang-post781165.html) - 00:03 10/02/2025
-- 🫶 [Aston Villa hạ gục Tottenham ở vòng 4 FA Cup](https://www.sggp.org.vn/aston-villa-ha-guc-tottenham-o-vong-4-fa-cup-post781196.html) - 23:39 09/02/2025
-- 🎓 [Đàm phán giai đoạn 2 về thỏa thuận ngừng bắn ở Gaza](https://www.sggp.org.vn/dam-phan-giai-doan-2-ve-thoa-thuan-ngung-ban-o-gaza-post781183.html) - 23:17 09/02/2025
-- 🤡 [“Vòm sắt cho nước Mỹ”: Châm ngòi cuộc chạy đua vũ trang?](https://www.sggp.org.vn/vom-sat-cho-nuoc-my-cham-ngoi-cuoc-chay-dua-vu-trang-post781182.html) - 23:17 09/02/2025
-- 🦅 [Đột phá của đột phá](https://www.sggp.org.vn/dot-pha-cua-dot-pha-post781179.html) - 23:16 09/02/2025
-- 🧑‍🏫 [Chi phí rẻ](https://www.sggp.org.vn/chi-phi-re-post781185.html) - 23:15 09/02/2025
-- 🕴 [Báo Sài Gòn Giải Phóng ngày 10/2/2025](https://www.sggp.org.vn/bao-sai-gon-giai-phong-ngay-1022025-post781189.html) - 23:15 09/02/2025
-- 🦆 [Cà phê Việt... bội thu](https://www.sggp.org.vn/ca-phe-viet-boi-thu-post781178.html) - 22:34 09/02/2025
-- 🎃 [Đường cao tốc qua miền Tây tăng tốc](https://www.sggp.org.vn/duong-cao-toc-qua-mien-tay-tang-toc-post781174.html) - 22:33 09/02/2025
-- 🌮 [Rét đậm, rét hại ở các tỉnh thành phía Bắc: Người già, trẻ em nhập viện tăng](https://www.sggp.org.vn/ret-dam-ret-hai-o-cac-tinh-thanh-phia-bac-nguoi-gia-tre-em-nhap-vien-tang-post781172.html) - 22:31 09/02/2025
-- 🥰 [Vòng 4 FA Cup: “Khoảnh khắc Liverpool” của Federico Chiesa đang đến gần hơn trong kế hoạch của Slot](https://www.sggp.org.vn/vong-4-fa-cup-khoanh-khac-liverpool-cua-federico-chiesa-dang-den-gan-hon-trong-ke-hoach-cua-slot-post781151.html) - 22:31 09/02/2025
-- 🕯 [Cựu hậu vệ Madrid, Sergio Ramos trở thành cầu thủ mới của Monterrey](https://www.sggp.org.vn/cuu-hau-ve-madrid-sergio-ramos-tro-thanh-cau-thu-moi-cua-monterrey-post781171.html) - 19:14 09/02/2025
-- 🙉 [Đội đầu bảng Premier League thua choáng váng tại Cúp FA](https://www.sggp.org.vn/doi-dau-bang-premier-league-thua-choang-vang-tai-cup-fa-post781170.html) - 17:54 09/02/2025
-- 💡 [Real Madrid vinh danh Marcelo bằng lễ chia tay tại Bernabeu](https://www.sggp.org.vn/real-madrid-vinh-danh-marcelo-bang-le-chia-tay-tai-bernabeu-post781169.html) - 17:17 09/02/2025
+- 🪜 [Cháy chùa Vẽ hàng trăm năm tuổi ở Bắc Giang](https://www.sggp.org.vn/chay-chua-ve-hang-tram-nam-tuoi-o-bac-giang-post781223.html) - 04:42 10/02/2025
+- 🌝 [“Nâng tầm giá trị hạt muối” thông qua Festival nghề Muối Việt Nam - Bạc Liêu năm 2025](https://www.sggp.org.vn/nang-tam-gia-tri-hat-muoi-thong-qua-festival-nghe-muoi-viet-nam-bac-lieu-nam-2025-post781222.html) - 04:32 10/02/2025
+- 💃 [Giám đốc Sở Xây dựng Đà Nẵng làm Bí thư Quận ủy Sơn Trà](https://www.sggp.org.vn/giam-doc-so-xay-dung-da-nang-lam-bi-thu-quan-uy-son-tra-post781219.html) - 04:24 10/02/2025
+- 🧑‍💻 [Vùng đất “cái chết trắng” đã hồi sinh](https://www.sggp.org.vn/vung-dat-cai-chet-trang-da-hoi-sinh-post781192.html) - 04:02 10/02/2025
+- 🌊 [Sức mạnh từ sự đồng lòng, thông suốt - Bài 1: Thống nhất nhận thức, kiên trì hành động](https://www.sggp.org.vn/suc-manh-tu-su-dong-long-thong-suot-bai-1-thong-nhat-nhan-thuc-kien-tri-hanh-dong-post781188.html) - 04:01 10/02/2025
+- 🧑‍💻 [Chủ tịch UBND tỉnh Đồng Tháp Phạm Thiện Nghĩa nghỉ hưu trước tuổi theo nguyện vọng](https://www.sggp.org.vn/chu-tich-ubnd-tinh-dong-thap-pham-thien-nghia-nghi-huu-truoc-tuoi-theo-nguyen-vong-post781215.html) - 03:57 10/02/2025
+- ⛽️ [Chính phủ lắng nghe doanh nghiệp &quot;hiến kế&quot; để đất nước tăng trưởng 2 con số](https://www.sggp.org.vn/chinh-phu-lang-nghe-doanh-nghiep-hien-ke-de-dat-nuoc-tang-truong-2-con-so-post781212.html) - 03:39 10/02/2025
+- 😎 [Giá vàng tiếp tục tăng mạnh ngày đầu tuần](https://www.sggp.org.vn/gia-vang-tiep-tuc-tang-manh-ngay-dau-tuan-post781213.html) - 03:27 10/02/2025
+- 🌜 [Miền Nam đề phòng mưa trái mùa do áp thấp trên Biển Đông](https://www.sggp.org.vn/mien-nam-de-phong-mua-trai-mua-do-ap-thap-tren-bien-dong-post781210.html) - 02:49 10/02/2025
+- 💻 [Mối bận tâm không của riêng nước Đức](https://www.sggp.org.vn/moi-ban-tam-khong-cua-rieng-nuoc-duc-post781184.html) - 02:46 10/02/2025
+- 👍 [Bắc bộ tăng nhiệt, trưa chiều hửng nắng](https://www.sggp.org.vn/bac-bo-tang-nhiet-trua-chieu-hung-nang-post781211.html) - 02:40 10/02/2025
+- 🦆 [Rực rỡ sắc màu trong triển lãm Khai Xuân 2025](https://www.sggp.org.vn/ruc-ro-sac-mau-trong-trien-lam-khai-xuan-2025-post781208.html) - 02:38 10/02/2025
+- 🦩 [Cháy chùa Vẽ hàng trăm năm tuổi ở Bắc Giang](https://www.sggp.org.vn/chay-chua-ve-hang-tram-nam-tuoi-o-bac-giang-post781207.html) - 02:32 10/02/2025
+- 🥰 [Đề xuất chính sách phù hợp để Đà Nẵng phát huy tiềm lực](https://www.sggp.org.vn/de-xuat-chinh-sach-phu-hop-de-da-nang-phat-huy-tiem-luc-post781198.html) - 02:26 10/02/2025
+- 🎬 [Tạm đình chỉ cảnh sát giao thông lớn tiếng quát tháo cô gái nghi vi phạm](https://www.sggp.org.vn/tam-dinh-chi-canh-sat-giao-thong-lon-tieng-quat-thao-co-gai-nghi-vi-pham-post781168.html) - 01:20 10/02/2025
+- 🦩 [Mỹ chuẩn bị công bố mức thuế mới với thép và nhôm](https://www.sggp.org.vn/my-chuan-bi-cong-bo-muc-thue-moi-voi-thep-va-nhom-post781205.html) - 01:13 10/02/2025
+- 🌮 [Xuất khẩu gạo năm 2025: Tập trung vào chất lượng và xây dựng thương hiệu](https://www.sggp.org.vn/xuat-khau-gao-nam-2025-tap-trung-vao-chat-luong-va-xay-dung-thuong-hieu-post781186.html) - 00:59 10/02/2025
+- 👍 [Chấm dứt những biến tướng của việc dạy thêm, học thêm](https://www.sggp.org.vn/cham-dut-nhung-bien-tuong-cua-viec-day-them-hoc-them-post781190.html) - 00:59 10/02/2025
+- 🦒 [Lâm cảnh khó khăn sau tai nạn](https://www.sggp.org.vn/lam-canh-kho-khan-sau-tai-nan-post781193.html) - 00:58 10/02/2025
+- 🤡 [Chủ động “hóa giải” tác động từ cuộc chiến thương mại toàn cầu](https://www.sggp.org.vn/chu-dong-hoa-giai-tac-dong-tu-cuoc-chien-thuong-mai-toan-cau-post781195.html) - 00:57 10/02/2025
+- 🐎 [Đa dạng thị trường xuất khẩu, không bỏ trứng vào một giỏ](https://www.sggp.org.vn/da-dang-thi-truong-xuat-khau-khong-bo-trung-vao-mot-gio-post781197.html) - 00:56 10/02/2025
+- 🦆 [Sân khấu TPHCM sẵn sàng cho một năm sôi động](https://www.sggp.org.vn/san-khau-tphcm-san-sang-cho-mot-nam-soi-dong-post781200.html) - 00:56 10/02/2025
+- 🦅 [Sự nghiệp cầu thủ sẽ trọn vẹn khi được xướng tên trao thưởng](https://www.sggp.org.vn/su-nghiep-cau-thu-se-tron-ven-khi-duoc-xuong-ten-trao-thuong-post781202.html) - 00:55 10/02/2025
+- 🫣 [Mối họa tiềm tàng](https://www.sggp.org.vn/moi-hoa-tiem-tang-post781203.html) - 00:55 10/02/2025
+- 🎭 [Cách tân, nhưng đừng đánh mất giá trị truyền thống](https://www.sggp.org.vn/cach-tan-nhung-dung-danh-mat-gia-tri-truyen-thong-post781201.html) - 00:54 10/02/2025
+- 🫶 [Ngăn ngừa cháy rừng ở Tây Nguyên](https://www.sggp.org.vn/ngan-ngua-chay-rung-o-tay-nguyen-post781175.html) - 00:54 10/02/2025
+- 🎓 [Arne Slot không hối tiếc vì quyết định nhân sự khiến Liverpool tan mộng “ăn 4”](https://www.sggp.org.vn/arne-slot-khong-hoi-tiec-vi-quyet-dinh-nhan-su-khien-liverpool-tan-mong-an-4-post781206.html) - 00:43 10/02/2025
+- 🤡 [Barcelona tiến sát ngôi đầu sau chiến thắng 4-1 trước Sevilla](https://www.sggp.org.vn/barcelona-tien-sat-ngoi-dau-sau-chien-thang-4-1-truoc-sevilla-post781204.html) - 00:05 10/02/2025
+- 🦅 [Tiến Linh thiết lập cột mốc cá nhân trước khi dự gala Quả bóng vàng](https://www.sggp.org.vn/tien-linh-thiet-lap-cot-moc-ca-nhan-truoc-khi-du-gala-qua-bong-vang-post781165.html) - 00:03 10/02/2025
+- 🧑‍🏫 [Aston Villa hạ gục Tottenham ở vòng 4 FA Cup](https://www.sggp.org.vn/aston-villa-ha-guc-tottenham-o-vong-4-fa-cup-post781196.html) - 23:39 09/02/2025
+- 🕴 [Đàm phán giai đoạn 2 về thỏa thuận ngừng bắn ở Gaza](https://www.sggp.org.vn/dam-phan-giai-doan-2-ve-thoa-thuan-ngung-ban-o-gaza-post781183.html) - 23:17 09/02/2025
+- 🦆 [“Vòm sắt cho nước Mỹ”: Châm ngòi cuộc chạy đua vũ trang?](https://www.sggp.org.vn/vom-sat-cho-nuoc-my-cham-ngoi-cuoc-chay-dua-vu-trang-post781182.html) - 23:17 09/02/2025
+- 🎃 [Đột phá của đột phá](https://www.sggp.org.vn/dot-pha-cua-dot-pha-post781179.html) - 23:16 09/02/2025
+- 🌮 [Chi phí rẻ](https://www.sggp.org.vn/chi-phi-re-post781185.html) - 23:15 09/02/2025
+- 🥰 [Báo Sài Gòn Giải Phóng ngày 10/2/2025](https://www.sggp.org.vn/bao-sai-gon-giai-phong-ngay-1022025-post781189.html) - 23:15 09/02/2025
+- 🕯 [Cà phê Việt... bội thu](https://www.sggp.org.vn/ca-phe-viet-boi-thu-post781178.html) - 22:34 09/02/2025
+- 🙉 [Đường cao tốc qua miền Tây tăng tốc](https://www.sggp.org.vn/duong-cao-toc-qua-mien-tay-tang-toc-post781174.html) - 22:33 09/02/2025
+- 💡 [Rét đậm, rét hại ở các tỉnh thành phía Bắc: Người già, trẻ em nhập viện tăng](https://www.sggp.org.vn/ret-dam-ret-hai-o-cac-tinh-thanh-phia-bac-nguoi-gia-tre-em-nhap-vien-tang-post781172.html) - 22:31 09/02/2025
+- 💫 [Vòng 4 FA Cup: “Khoảnh khắc Liverpool” của Federico Chiesa đang đến gần hơn trong kế hoạch của Slot](https://www.sggp.org.vn/vong-4-fa-cup-khoanh-khac-liverpool-cua-federico-chiesa-dang-den-gan-hon-trong-ke-hoach-cua-slot-post781151.html) - 22:31 09/02/2025
+- 🧑‍💻 [Cựu hậu vệ Madrid, Sergio Ramos trở thành cầu thủ mới của Monterrey](https://www.sggp.org.vn/cuu-hau-ve-madrid-sergio-ramos-tro-thanh-cau-thu-moi-cua-monterrey-post781171.html) - 19:14 09/02/2025
+- 🎊 [Đội đầu bảng Premier League thua choáng váng tại Cúp FA](https://www.sggp.org.vn/doi-dau-bang-premier-league-thua-choang-vang-tai-cup-fa-post781170.html) - 17:54 09/02/2025
+- 🤖 [Real Madrid vinh danh Marcelo bằng lễ chia tay tại Bernabeu](https://www.sggp.org.vn/real-madrid-vinh-danh-marcelo-bang-le-chia-tay-tai-bernabeu-post781169.html) - 17:17 09/02/2025
 - 💫 [U19 nữ TPHCM bất phân thắng bại cùng Thái Nguyên T&amp;T](https://www.sggp.org.vn/u19-nu-tphcm-bat-phan-thang-bai-cung-thai-nguyen-tt-post781166.html) - 16:05 09/02/2025
-- 🧑‍💻 [Thủ tướng Chính phủ Phạm Minh Chính làm việc với tỉnh Quảng Ngãi](https://www.sggp.org.vn/thu-tuong-chinh-phu-pham-minh-chinh-lam-viec-voi-tinh-quang-ngai-post781163.html) - 16:02 09/02/2025
-- 🎊 [Bảng xếp hạng vòng 8 giải hạng Nhất 2024-2025](https://www.sggp.org.vn/bang-xep-hang-vong-8-giai-hang-nhat-2024-2025-post781167.html) - 16:00 09/02/2025
-- 🤖 [Văn Quyết lập cú đúp, Hà Nội tìm lại cảm giác chiến thắng](https://www.sggp.org.vn/van-quyet-lap-cu-dup-ha-noi-tim-lai-cam-giac-chien-thang-post781164.html) - 14:40 09/02/2025
-- 💫 [Hoàng Đức chấn thương, Ninh Bình thắng nhờ đối thủ phản lưới nhà](https://www.sggp.org.vn/hoang-duc-chan-thuong-ninh-binh-thang-nho-doi-thu-phan-luoi-nha-post781162.html) - 14:32 09/02/2025
-- 👨‍🏫 [Podcast bản tin tối 9-2: Kiểm tra, khắc phục hư hỏng trên tuyến đường bộ cao tốc sau vụ bung bật khe co giãn; Người dân gói 2.000 chiếc bánh chưng cung tiến tại lễ giỗ vua Mai Hắc Đế](https://www.sggp.org.vn/podcast-ban-tin-toi-9-2-kiem-tra-khac-phuc-hu-hong-tren-tuyen-duong-bo-cao-toc-sau-vu-bung-bat-khe-co-gian-nguoi-dan-goi-2000-chiec-banh-chung-cung-tien-tai-le-gio-vua-mai-hac-de-post781161.html) - 13:02 09/02/2025
-- 🧰 [Phạm Lê Xuân Lộc không hài lòng về thành tích của mình](https://www.sggp.org.vn/pham-le-xuan-loc-khong-hai-long-ve-thanh-tich-cua-minh-post781158.html) - 13:01 09/02/2025
-- 🥰 [Bản tin tối 9-2: Băng xuất hiện ở Mẫu Sơn; Làm rõ vụ clip cảnh sát giao thông lớn tiếng quát tháo với cô gái nghi vi phạm](https://www.sggp.org.vn/ban-tin-toi-9-2-bang-xuat-hien-o-mau-son-lam-ro-vu-clip-canh-sat-giao-thong-lon-tieng-quat-thao-voi-co-gai-nghi-vi-pham-post781160.html) - 13:00 09/02/2025
-- 💼 [Bến Tre: Bàn giao 4 mỏ cát cho nhà thầu khai thác theo cơ chế đặc thù](https://www.sggp.org.vn/ben-tre-ban-giao-4-mo-cat-cho-nha-thau-khai-thac-theo-co-che-dac-thu-post781156.html) - 12:37 09/02/2025
-- 🤗 [Quế Ngọc Hải giúp Bình Dương “xông đất” sân Tam Kỳ bằng chiến thắng](https://www.sggp.org.vn/que-ngoc-hai-giup-binh-duong-xong-dat-san-tam-ky-bang-chien-thang-post781159.html) - 12:29 09/02/2025
-- 🦩 [Belinda Bencic: “Mẹ một con” đầu tiên giành danh hiệu WTA Tour từ năm 2023](https://www.sggp.org.vn/belinda-bencic-me-mot-con-dau-tien-gianh-danh-hieu-wta-tour-tu-nam-2023-post781155.html) - 11:34 09/02/2025
-- 🫶 [UFC 312: Dricus du Plessis và Zhang Weili bảo vệ đai vô địch đầy thuyết phục](https://www.sggp.org.vn/ufc-312-dricus-du-plessis-va-zhang-weili-bao-ve-dai-vo-dich-day-thuyet-phuc-post781146.html) - 11:33 09/02/2025<!-- sggp:END -->
+- 👨‍🏫 [Thủ tướng Chính phủ Phạm Minh Chính làm việc với tỉnh Quảng Ngãi](https://www.sggp.org.vn/thu-tuong-chinh-phu-pham-minh-chinh-lam-viec-voi-tinh-quang-ngai-post781163.html) - 16:02 09/02/2025
+- 🧰 [Bảng xếp hạng vòng 8 giải hạng Nhất 2024-2025](https://www.sggp.org.vn/bang-xep-hang-vong-8-giai-hang-nhat-2024-2025-post781167.html) - 16:00 09/02/2025
+- 🥰 [Văn Quyết lập cú đúp, Hà Nội tìm lại cảm giác chiến thắng](https://www.sggp.org.vn/van-quyet-lap-cu-dup-ha-noi-tim-lai-cam-giac-chien-thang-post781164.html) - 14:40 09/02/2025
+- 💼 [Hoàng Đức chấn thương, Ninh Bình thắng nhờ đối thủ phản lưới nhà](https://www.sggp.org.vn/hoang-duc-chan-thuong-ninh-binh-thang-nho-doi-thu-phan-luoi-nha-post781162.html) - 14:32 09/02/2025
+- 🤗 [Podcast bản tin tối 9-2: Kiểm tra, khắc phục hư hỏng trên tuyến đường bộ cao tốc sau vụ bung bật khe co giãn; Người dân gói 2.000 chiếc bánh chưng cung tiến tại lễ giỗ vua Mai Hắc Đế](https://www.sggp.org.vn/podcast-ban-tin-toi-9-2-kiem-tra-khac-phuc-hu-hong-tren-tuyen-duong-bo-cao-toc-sau-vu-bung-bat-khe-co-gian-nguoi-dan-goi-2000-chiec-banh-chung-cung-tien-tai-le-gio-vua-mai-hac-de-post781161.html) - 13:02 09/02/2025
+- 🦩 [Phạm Lê Xuân Lộc không hài lòng về thành tích của mình](https://www.sggp.org.vn/pham-le-xuan-loc-khong-hai-long-ve-thanh-tich-cua-minh-post781158.html) - 13:01 09/02/2025
+- 🫶 [Bản tin tối 9-2: Băng xuất hiện ở Mẫu Sơn; Làm rõ vụ clip cảnh sát giao thông lớn tiếng quát tháo với cô gái nghi vi phạm](https://www.sggp.org.vn/ban-tin-toi-9-2-bang-xuat-hien-o-mau-son-lam-ro-vu-clip-canh-sat-giao-thong-lon-tieng-quat-thao-voi-co-gai-nghi-vi-pham-post781160.html) - 13:00 09/02/2025<!-- sggp:END -->
 
 ## Báo VTC
 <!-- vtc:START -->
