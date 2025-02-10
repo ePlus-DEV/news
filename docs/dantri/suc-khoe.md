@@ -4,7 +4,7 @@ sidebar_position: 23
 ---
 
 <!-- dantri-suc-khoe:START -->
-- 🤔 [Nam giới Việt ngày càng ít &quot;tinh binh&quot;, nguyên nhân từ lối sống?](https://dantri.com.vn/suc-khoe/nam-gioi-viet-ngay-cang-it-tinh-binh-nguyen-nhan-tu-loi-song-20250210214109358.htm) - 14:41 10/02/2025
+- 🤔 [Nam giới Việt ngày càng ít tinh trùng, nguyên nhân từ lối sống?](https://dantri.com.vn/suc-khoe/nam-gioi-viet-ngay-cang-it-tinh-trung-nguyen-nhan-tu-loi-song-20250210214109358.htm) - 14:41 10/02/2025
 - 🚦 [Hà Nội: Nhiều trẻ nhập viện vì cúm, có ca biến chứng viêm não](https://dantri.com.vn/suc-khoe/ha-noi-nhieu-tre-nhap-vien-vi-cum-co-ca-bien-chung-viem-nao-20250210203311577.htm) - 13:41 10/02/2025
 - 🤖 [Bác sĩ cảnh báo tăng mạnh bệnh ký sinh trùng lây từ thú cưng](https://dantri.com.vn/suc-khoe/bac-si-canh-bao-tang-manh-benh-ky-sinh-trung-lay-tu-thu-cung-20250210185143703.htm) - 13:22 10/02/2025
 - 🐻 [Làm rõ việc bác sĩ ở TPHCM tử vong sau khi điều trị sốt xuất huyết](https://dantri.com.vn/suc-khoe/lam-ro-viec-bac-si-o-tphcm-tu-vong-sau-khi-dieu-tri-sot-xuat-huyet-20250209091111346.htm) - 10:07 10/02/2025
