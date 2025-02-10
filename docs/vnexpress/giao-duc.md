@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Thầy cô tìm đường dạy thêm](https://vnexpress.net/thay-co-tim-duong-day-them-4847288.html) - 23:00 09/02/2025
+- 🤓 [Thầy cô tìm đường dạy thêm](https://vnexpress.net/giao-vien-tim-cach-day-them-tai-nha-vnepre-4847288.html) - 23:00 09/02/2025
 - 🦆 [Nam sinh &#39;không thích học thêm&#39; đạt IELTS 8.5, SAT top 1% thế giới](https://vnexpress.net/nam-sinh-khong-thich-hoc-them-dat-ielts-8-5-sat-top-1-the-gioi-4846933.html) - 17:00 09/02/2025
 - 🦩 [Người Việt học online miễn phí nhiều thứ hai thế giới](https://vnexpress.net/nguoi-viet-hoc-online-mien-phi-nhieu-thu-hai-the-gioi-4847384.html) - 14:37 09/02/2025
 - 🌮 [Tỉnh nào tăng trưởng kinh tế cao nhất cả nước năm 2024?](https://vnexpress.net/tinh-nao-tang-truong-kinh-te-cao-nhat-ca-nuoc-nam-2024-4847469.html) - 13:00 09/02/2025
