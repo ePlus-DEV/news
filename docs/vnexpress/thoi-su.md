@@ -14,7 +14,7 @@ sidebar_position: 1
 - 👺 [Ông Lại Xuân Môn và ông Phạm Tất Thắng nhận thêm nhiệm vụ mới](https://vnexpress.net/ong-lai-xuan-mon-va-ong-pham-tat-thang-nhan-them-nhiem-vu-moi-4847730.html) - 06:01 10/02/2025
 - 🧑‍🏫 [Đường 1.200 tỷ đồng nối cao tốc Bắc Nam với Vườn quốc gia Bến En](https://vnexpress.net/duong-1-200-ty-dong-noi-cao-toc-bac-nam-voi-vuon-quoc-gia-ben-en-4847616.html) - 05:51 10/02/2025
 - 🚦 [Đề xuất giảm nhiều thủ tục cấp thị thực cho chuyên gia nước ngoài](https://vnexpress.net/de-xuat-giam-nhieu-thu-tuc-cap-thi-thuc-cho-chuyen-gia-nuoc-ngoai-4847665.html) - 05:41 10/02/2025
-- 🎉 [Hai giám đốc Sở ở Đà Nẵng xin nghỉ trước tuổi](https://vnexpress.net/hai-giam-doc-so-o-da-nang-xin-nghi-truoc-tuoi-4847697.html) - 05:13 10/02/2025
+- 🎉 [Nhiều lãnh đạo Sở, ngành ở Đà Nẵng và Quảng Bình xin nghỉ hưu trước tuổi](https://vnexpress.net/nhieu-lanh-dao-so-nganh-o-da-nang-va-quang-binh-xin-nghi-huu-truoc-tuoi-4847697.html) - 05:13 10/02/2025
 - 🦒 [Trình Quốc hội xem xét khu Thương mại Tự do Đà Nẵng trong tháng 4](https://vnexpress.net/trinh-quoc-hoi-xem-xet-khu-thuong-mai-tu-do-da-nang-trong-thang-4-4847593.html) - 05:04 10/02/2025
 - 🤗 [Bạc Liêu lần đầu tổ chức Festival muối](https://vnexpress.net/bac-lieu-lan-dau-to-chuc-festival-muoi-4847577.html) - 03:17 10/02/2025
 - 💼 [Đức Gyalwang Drukpa: &#39;Năm mới nên bắt đầu bằng điều tử tế&#39;](https://vnexpress.net/duc-gyalwang-drukpa-nam-moi-nen-bat-dau-bang-dieu-tu-te-4847502.html) - 03:06 10/02/2025
