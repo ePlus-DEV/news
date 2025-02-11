@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Người mua khỉ nấu cao bị phạt 390 triệu đồng](https://vnexpress.net/nguoi-mua-khi-nau-cao-bi-phat-390-trieu-dong-4848308.html) - 11:08 11/02/2025
 - 🥰 [Nghi phạm khai &#39;bắn chim nhưng đạn lạc&#39; vào thanh niên trong phòng ngủ](https://vnexpress.net/nghi-pham-khai-ban-chim-nhung-dan-lac-vao-thanh-nien-trong-phong-ngu-4848266.html) - 09:30 11/02/2025
-- 🎓 [Cùng tình nhân lừa tiền của hai anh ruột](https://vnexpress.net/cung-tinh-nhan-lua-tien-cua-hai-anh-ruot-4848210.html) - 09:17 11/02/2025
+- 🎓 [Cùng tình nhân lừa tiền hai anh ruột](https://vnexpress.net/cung-tinh-nhan-lua-tien-cua-hai-anh-ruot-4848210.html) - 09:17 11/02/2025
 - 🤓 [7 người đột nhập, tấn công nam thanh niên đang ngủ](https://vnexpress.net/7-nguoi-dot-nhap-tan-cong-nam-thanh-nien-dang-ngu-4848242.html) - 08:43 11/02/2025
 - 🎊 [Khoảnh khắc bắt giữ nghi phạm bắn chết thanh niên ở phòng ngủ](https://video.vnexpress.net/khoanh-khac-bat-giu-nghi-pham-ban-chet-thanh-nien-o-phong-ngu-4848159.html) - 06:36 11/02/2025
 - 🙉 [Người đi ôtô đánh tới tấp nam shipper](https://vnexpress.net/nguoi-di-oto-danh-toi-tap-nam-shipper-4848149.html) - 05:26 11/02/2025
