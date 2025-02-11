@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [AI đánh bại huy chương vàng Olympic Toán quốc tế](https://vnexpress.net/ai-danh-bai-huy-chuong-vang-olympic-toan-quoc-te-4847946.html) - 17:01 10/02/2025
+- 🤓 [AI giải Toán ngang huy chương vàng Olympic Toán quốc tế](https://vnexpress.net/ai-giai-toan-ngang-huy-chuong-vang-olympic-toan-quoc-te-4847946.html) - 17:01 10/02/2025
 - 🦆 [Học ngành nào khối B nếu trượt Y Dược?](https://vnexpress.net/hoc-nganh-nao-khoi-b-neu-truot-y-duoc-4847182.html) - 15:17 10/02/2025
 - 🦩 [Người dân tới lễ hội giật chiếu ở Vĩnh Phúc để cầu gì?](https://vnexpress.net/nguoi-dan-toi-le-hoi-giat-chieu-o-vinh-phuc-de-cau-gi-4847886.html) - 13:53 10/02/2025
 - 🌮 [100 trường xét điểm thi đánh giá năng lực của Đại học Quốc gia TP HCM](https://vnexpress.net/100-truong-xet-diem-thi-danh-gia-nang-luc-cua-dai-hoc-quoc-gia-tp-hcm-4847891.html) - 11:20 10/02/2025
