@@ -406,9 +406,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Đề xuất thí điểm chính sách mới để tháo gỡ vướng mắc phát triển khoa học, công nghệ, đổi mới sáng tạo](https://baochinhphu.vn/de-xuat-thi-diem-chinh-sach-moi-de-thao-go-vuong-mac-phat-trien-khoa-hoc-cong-nghe-doi-moi-sang-tao-102250211115418739.htm) - 16:05 11/02/2025
-- 🌜 [Quy định mới về thủ tục đầu tư đặc biệt](https://baochinhphu.vn/quy-dinh-moi-ve-thu-tuc-dau-tu-dac-biet-102250211150734318.htm) - 15:52 11/02/2025
-- 🦆 [Tổng thuật: Hội nghị phát triển KHCN, đổi mới sáng tạo và nhân lực chất lượng cao thúc đẩy tăng trưởng kinh tế](https://baochinhphu.vn/tong-thuat-hoi-nghi-phat-trien-khcn-doi-moi-sang-tao-va-nhan-luc-chat-luong-cao-thuc-day-tang-truong-kinh-te-102250211141803375.htm) - 15:29 11/02/2025
+- 💻 [Tổng thuật: Hội nghị phát triển KHCN, đổi mới sáng tạo và nhân lực chất lượng cao thúc đẩy tăng trưởng kinh tế](https://baochinhphu.vn/tong-thuat-hoi-nghi-phat-trien-khcn-doi-moi-sang-tao-va-nhan-luc-chat-luong-cao-thuc-day-tang-truong-kinh-te-102250211141803375.htm) - 16:20 11/02/2025
+- 🌜 [Đề xuất thí điểm chính sách mới để tháo gỡ vướng mắc phát triển khoa học, công nghệ, đổi mới sáng tạo](https://baochinhphu.vn/de-xuat-thi-diem-chinh-sach-moi-de-thao-go-vuong-mac-phat-trien-khoa-hoc-cong-nghe-doi-moi-sang-tao-102250211115418739.htm) - 16:05 11/02/2025
+- 🦆 [Quy định mới về thủ tục đầu tư đặc biệt](https://baochinhphu.vn/quy-dinh-moi-ve-thu-tuc-dau-tu-dac-biet-102250211150734318.htm) - 15:52 11/02/2025
 - 🌝 [Petrolimex, Vinachem và VNPT hợp tác toàn diện để cùng bứt phá](https://baochinhphu.vn/petrolimex-vinachem-va-vnpt-hop-tac-toan-dien-de-cung-but-pha-102250211143217467.htm) - 15:03 11/02/2025
 - 🦣 [Ngành ngân hàng năm 2025: Tăng tốc tín dụng gắn với kiểm soát rủi ro](https://baochinhphu.vn/nganh-ngan-hang-nam-2025-tang-toc-tin-dung-gan-voi-kiem-soat-rui-ro-102250211144148725.htm) - 14:49 11/02/2025
 - ⛽️ [Phó Thủ tướng Bùi Thanh Sơn hội kiến Thủ tướng Lào](https://baochinhphu.vn/pho-thu-tuong-bui-thanh-son-hoi-kien-thu-tuong-lao-102250211145807544.htm) - 14:48 11/02/2025
