@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Lý do &#39;Na Tra: Ma đồng náo hải&#39; khuynh đảo phòng vé](https://vnexpress.net/ly-do-na-tra-ma-dong-nao-hai-khuynh-dao-phong-ve-4847620.html) - 17:00 10/02/2025
+- 🌏 [Lý do &#39;Na Tra: Ma đồng náo hải&#39; vượt một tỷ USD](https://vnexpress.net/ly-do-na-tra-ma-dong-nao-hai-vuot-mot-ty-usd-4847620.html) - 17:00 10/02/2025
 - 💫 [Vợ chồng Mark Zuckerberg diện đồ ăn ý](https://vnexpress.net/vo-chong-mark-zuckerberg-dien-do-an-y-4847702.html) - 13:30 10/02/2025
 - 🌮 [&#39;Cuốn theo chiều gió&#39; - tình yêu vượt khói lửa chiến tranh](https://vnexpress.net/cuon-theo-chieu-gio-tinh-yeu-vuot-khoi-lua-chien-tranh-4847019.html) - 12:04 10/02/2025
 - 🧠 [Devonta Smith - &#39;tín đồ&#39; suit của làng bóng bầu dục](https://vnexpress.net/devonta-smith-tin-do-suit-cua-lang-bong-bau-duc-4843986.html) - 12:00 10/02/2025
