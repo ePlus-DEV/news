@@ -7,7 +7,7 @@ sidebar_position: 6
 - 🚀 [6 cụm từ trẻ có EQ cao hay nói](https://vnexpress.net/6-cum-tu-tre-co-eq-cao-hay-noi-4847999.html) - 03:09 11/02/2025
 - 🎓 [7 quy tắc sống quan trọng nhiều người không nhận ra](https://vnexpress.net/7-quy-tac-song-quan-trong-nhieu-nguoi-khong-nhan-ra-4847993.html) - 01:11 11/02/2025
 - 🚦 [Sang đường - &#39;bài học vỡ lòng&#39; của người nước ngoài ở Việt Nam](https://vnexpress.net/sang-duong-bai-hoc-vo-long-cua-nguoi-nuoc-ngoai-o-viet-nam-4839765.html) - 23:00 10/02/2025
-- 🦣 [Cuộc sống &#39;ngừng trôi&#39; ở bản vành đai biên giới](https://vnexpress.net/cuoc-song-ngung-troi-o-ban-vanh-dai-bien-gioi-4839745.html) - 17:00 10/02/2025
+- 🦣 [Sống biệt lập ở bản vành đai biên giới](https://vnexpress.net/song-biet-lap-o-ban-vanh-dai-bien-gioi-4839745.html) - 17:00 10/02/2025
 - 🎓 [Heineken 0.0 đồng hành CSGT TP HCM tặng quà người dân đầu năm mới](https://vnexpress.net/heineken-0-0-dong-hanh-csgt-tp-hcm-tang-qua-nguoi-dan-dau-nam-moi-4846513.html) - 10:00 10/02/2025
 - 🎭 [Học sinh Bản Nghịu khai xuân tại ngôi trường mới](https://vnexpress.net/hoc-sinh-ban-nghiu-khai-xuan-tai-ngoi-truong-moi-4847752.html) - 09:52 10/02/2025
 - 🦅 [Thái thịt ngang thớ hay dọc thớ?](https://vnexpress.net/thai-thit-ngang-tho-hay-doc-tho-4847862.html) - 09:44 10/02/2025
