@@ -205,46 +205,46 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Dự báo thời tiết 10 ngày tới từ 8.2 đến 17.2 ở cả ba miền](https://laodong.vn/moi-truong/du-bao-thoi-tiet-10-ngay-toi-tu-82-den-172-o-ca-ba-mien-1459997.ldo) - 13:16 07/02/2025
-- 📝 [Bình Định yêu cầu xử lý dứt điểm nạn trộm đá ở núi Hòn Chà](https://laodong.vn/y-kien-ban-doc/binh-dinh-yeu-cau-xu-ly-dut-diem-nan-trom-da-o-nui-hon-cha-1459905.ldo) - 13:15 07/02/2025
-- 🦏 [Nhịp showbiz: Phim trăm tỉ của Trấn Thành tụt hạng liên tục](https://laodong.vn/giai-tri/nhip-showbiz-phim-tram-ti-cua-tran-thanh-tut-hang-lien-tuc-1460001.ldo) - 13:14 07/02/2025
-- 🦩 [Đi hái măng, người dân phát hiện thi thể treo cổ trong rừng](https://laodong.vn/xa-hoi/di-hai-mang-nguoi-dan-phat-hien-thi-the-treo-co-trong-rung-1460071.ldo) - 13:13 07/02/2025
-- 🦏 [Dự đoán kết quả Viettel vs HAGL V.League 2024/2025](https://laodong.vn/infographic/du-doan-ket-qua-viettel-vs-hagl-vleague-20242025-1459594.ldo) - 13:05 07/02/2025
-- 🧰 [Hà Nội khởi công đường 140 tỉ, nối hai tỉnh lộ quan trọng](https://laodong.vn/giao-thong/ha-noi-khoi-cong-duong-140-ti-noi-hai-tinh-lo-quan-trong-1460068.ldo) - 13:03 07/02/2025
-- 🌊 [Bình Định công bố thành lập 2 Đảng bộ trực thuộc Tỉnh ủy](https://laodong.vn/thoi-su/binh-dinh-cong-bo-thanh-lap-2-dang-bo-truc-thuoc-tinh-uy-1459941.ldo) - 13:00 07/02/2025
-- 🔥 [Tin 20h: Từ 2025, trường hợp nào giáo viên tiểu học được dạy thêm?](https://laodong.vn/video/tin-20h-tu-2025-truong-hop-nao-giao-vien-tieu-hoc-duoc-day-them-1459963.ldo) - 13:00 07/02/2025
-- 🦒 [3 lợi ích sức khỏe của nước kiềm](https://laodong.vn/dinh-duong-am-thuc/3-loi-ich-suc-khoe-cua-nuoc-kiem-1458203.ldo) - 13:00 07/02/2025
-- 💼 [Doanh nghiệp nợ BHXH, công an vào cuộc sẽ có tính răn đe lớn](https://laodong.vn/su-kien-binh-luan/doanh-nghiep-no-bhxh-cong-an-vao-cuoc-se-co-tinh-ran-de-lon-1459074.ldo) - 13:00 07/02/2025
-- 🤖 [Thói quen nhỏ khi qua đường sắt giúp tránh tai họa lớn](https://laodong.vn/video-xa-hoi/thoi-quen-nho-khi-qua-duong-sat-giup-tranh-tai-hoa-lon-1460054.ldo) - 13:00 07/02/2025
-- 💪 [16 chiếc xe đạp được gửi sang Thái Lan cho tuyển Việt Nam](https://laodong.vn/the-thao/16-chiec-xe-dap-duoc-gui-sang-thai-lan-cho-tuyen-viet-nam-1460066.ldo) - 12:57 07/02/2025
-- 👍 [Giỏi việc nước, đảm việc nhà gắn với chuyển đổi số](https://laodong.vn/ldld-tphn/gioi-viec-nuoc-dam-viec-nha-gan-voi-chuyen-doi-so-1459942.ldo) - 12:57 07/02/2025
-- 💂 [Chủ quán bị tố &quot;chặt chém&quot; ở Nha Trang xin rút kinh nghiệm](https://laodong.vn/xa-hoi/chu-quan-bi-to-chat-chem-o-nha-trang-xin-rut-kinh-nghiem-1460038.ldo) - 12:52 07/02/2025
-- 🧰 [Về Đà Nẵng trẩy hội đình làng Túy Loan 500 năm tuổi](https://laodong.vn/video/ve-da-nang-tray-hoi-dinh-lang-tuy-loan-500-nam-tuoi-1460044.ldo) - 12:49 07/02/2025
-- 🥷 [Lãi suất ngân hàng hôm nay: Tiếp đà tăng mạnh](https://laodong.vn/tien-te-dau-tu/lai-suat-ngan-hang-hom-nay-tiep-da-tang-manh-1460058.ldo) - 12:38 07/02/2025
-- 💫 [Giúp vòng eo thon gọn sau Tết nhờ 4 thói quen đơn giản](https://laodong.vn/suc-khoe/giup-vong-eo-thon-gon-sau-tet-nho-4-thoi-quen-don-gian-1459927.ldo) - 12:30 07/02/2025
-- 🎭 [Bản tin dự báo thời tiết đêm nay và ngày mai 8.2](https://laodong.vn/video-xa-hoi/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-82-1459958.ldo) - 12:30 07/02/2025
-- 😎 [Người phụ nữ tử vong khi rơi từ tầng cao chung cư tại Hà Nội](https://laodong.vn/xa-hoi/nguoi-phu-nu-tu-vong-khi-roi-tu-tang-cao-chung-cu-tai-ha-noi-1460062.ldo) - 12:22 07/02/2025
-- 💄 [Phim của Vương Tinh Việt và Angelababy nhận điểm thấp](https://laodong.vn/van-hoa-giai-tri/phim-cua-vuong-tinh-viet-va-angelababy-nhan-diem-thap-1460010.ldo) - 12:21 07/02/2025
-- 🫣 [Nữ chính &quot;Nụ hôn bạc tỷ&quot; nói gì về tin đồn được Thu Trang ưu ái?](https://laodong.vn/giai-tri/nu-chinh-nu-hon-bac-ty-noi-gi-ve-tin-don-duoc-thu-trang-uu-ai-1459964.ldo) - 12:18 07/02/2025
-- 🧑‍🏫 [Dự báo thời tiết ngày mai 8.2 trên cả nước](https://laodong.vn/moi-truong/du-bao-thoi-tiet-ngay-mai-82-tren-ca-nuoc-1459989.ldo) - 12:16 07/02/2025
-- 🦣 [Quảng Bình có 2 Tỉnh ủy viên xin nghỉ hưu trước tuổi](https://laodong.vn/thoi-su/quang-binh-co-2-tinh-uy-vien-xin-nghi-huu-truoc-tuoi-1460061.ldo) - 12:14 07/02/2025
-- 💫 [Du khách nước ngoài đội mưa rét trẩy hội đền Mẫu Đồng Đăng](https://laodong.vn/photo/du-khach-nuoc-ngoai-doi-mua-ret-tray-hoi-den-mau-dong-dang-1459939.ldo) - 12:13 07/02/2025
-- ⛽️ [VnDirect dự báo tăng trưởng tín dụng năm 2025 đạt 13-14%](https://laodong.vn/kinh-doanh/vndirect-du-bao-tang-truong-tin-dung-nam-2025-dat-13-14-1459978.ldo) - 12:11 07/02/2025
-- 💫 [Bàn giao công tác của Chánh Văn phòng Trung ương Đảng](https://laodong.vn/thoi-su/ban-giao-cong-tac-cua-chanh-van-phong-trung-uong-dang-1459844.ldo) - 12:11 07/02/2025
-- 🥸 [Cổ phiếu MSN của Masan Group bị khối ngoại bán ròng mạnh](https://laodong.vn/kinh-doanh/co-phieu-msn-cua-masan-group-bi-khoi-ngoai-ban-rong-manh-1460048.ldo) - 12:11 07/02/2025
-- 🐻 [Bóng chuyền Việt Nam ngày 7.2: Ngô Văn Kiều trở lại thi đấu?](https://laodong.vn/the-thao/bong-chuyen-viet-nam-ngay-72-ngo-van-kieu-tro-lai-thi-dau-1459968.ldo) - 12:10 07/02/2025
-- 🪄 [Tạm biệt làn da khô trong mùa đông với 5 lợi ích của nha đam](https://laodong.vn/lam-dep/tam-biet-lan-da-kho-trong-mua-dong-voi-5-loi-ich-cua-nha-dam-1459872.ldo) - 12:00 07/02/2025
-- 🧑‍🏫 [Nóng Sài Gòn: Hơn 600 km metro sắp phủ khắp TPHCM](https://laodong.vn/video-xa-hoi/nong-sai-gon-hon-600-km-metro-sap-phu-khap-tphcm-1459901.ldo) - 12:00 07/02/2025
-- 🌊 [Thế giới 24h: Bất ngờ kế hoạch hồi sinh Nord Stream 2 của Đức](https://laodong.vn/podcast-tin-tuc/the-gioi-24h-bat-ngo-ke-hoach-hoi-sinh-nord-stream-2-cua-duc-1459903.ldo) - 12:00 07/02/2025
-- 💻 [Xử lý theo hướng có lợi cho người dân khi đèn giao thông bị lỗi](https://laodong.vn/xa-hoi/xu-ly-theo-huong-co-loi-cho-nguoi-dan-khi-den-giao-thong-bi-loi-1460041.ldo) - 11:55 07/02/2025
-- 👨‍🏫 [Hỗ trợ miễn phí thực hiện dịch vụ công trực tuyến ở Hà Nội](https://laodong.vn/ban-doc/ho-tro-mien-phi-thuc-hien-dich-vu-cong-truc-tuyen-o-ha-noi-1459862.ldo) - 11:51 07/02/2025
-- 🌈 [Tây Bắc cuối ngày: Mùa xuân trên khu tái định cư ở Hà Giang](https://laodong.vn/video/tay-bac-cuoi-ngay-mua-xuan-tren-khu-tai-dinh-cu-o-ha-giang-1459953.ldo) - 11:48 07/02/2025
-- 🐲 [Bình Phước hợp tác Tây Ninh mở rộng các tuyến đường kết nối](https://laodong.vn/xa-hoi/binh-phuoc-hop-tac-tay-ninh-mo-rong-cac-tuyen-duong-ket-noi-1460021.ldo) - 11:48 07/02/2025
-- 🚀 [Hải Phòng đăng cai tổ chức 6 Giải thể thao quốc gia năm 2025](https://laodong.vn/the-thao/hai-phong-dang-cai-to-chuc-6-giai-the-thao-quoc-gia-nam-2025-1460046.ldo) - 11:47 07/02/2025
-- 😺 [Đầu tư công viên 13,5 tỉ đồng trong ngày ra quân đầu năm](https://laodong.vn/xa-hoi/dau-tu-cong-vien-135-ti-dong-trong-ngay-ra-quan-dau-nam-1459784.ldo) - 11:46 07/02/2025
-- 🕴 [7 món ăn giàu chất béo lành mạnh cho người tiểu đường](https://laodong.vn/dinh-duong-am-thuc/7-mon-an-giau-chat-beo-lanh-manh-cho-nguoi-tieu-duong-1459996.ldo) - 11:34 07/02/2025
-- 🌋 [TPHCM tiếp tục tổ chức Giải Billiards carom 3 băng thế giới](https://laodong.vn/the-thao/tphcm-tiep-tuc-to-chuc-giai-billiards-carom-3-bang-the-gioi-1460000.ldo) - 11:31 07/02/2025
-- 💄 [Một trại heo lớn ở Gia Lai nghi bị dịch tả lợn Châu Phi](https://laodong.vn/suc-khoe/mot-trai-heo-lon-o-gia-lai-nghi-bi-dich-ta-lon-chau-phi-1459966.ldo) - 11:31 07/02/2025<!-- laodong:END -->
+- 🗽 [Trước thềm Valentine, cửa hàng hoa tươi tại Cần Thơ chốt đơn liên tục](https://laodong.vn/kinh-doanh/truoc-them-valentine-cua-hang-hoa-tuoi-tai-can-tho-chot-don-lien-tuc-1461552.ldo) - 08:40 11/02/2025
+- 📝 [Thanh Hóa kết thúc hoạt động của 8 đảng đoàn, 3 ban cán sự đảng cấp tỉnh](https://laodong.vn/thoi-su/thanh-hoa-ket-thuc-hoat-dong-cua-8-dang-doan-3-ban-can-su-dang-cap-tinh-1461612.ldo) - 08:38 11/02/2025
+- 🦏 [Hiện trạng Bệnh viện Ung bướu Cần Thơ 8 năm vẫn dang dở, bỏ hoang](https://laodong.vn/photo/hien-trang-benh-vien-ung-buou-can-tho-8-nam-van-dang-do-bo-hoang-1461555.ldo) - 08:35 11/02/2025
+- 🦩 [Đảng viên công nhân góp phần xây dựng tổ chức Công đoàn mạnh](https://laodong.vn/su-kien-binh-luan/dang-vien-cong-nhan-gop-phan-xay-dung-to-chuc-cong-doan-manh-1461242.ldo) - 08:33 11/02/2025
+- 🦏 [Quảng Ninh đặt mục tiêu tăng trưởng cao hơn mức Thủ tướng giao](https://laodong.vn/kinh-doanh/quang-ninh-dat-muc-tieu-tang-truong-cao-hon-muc-thu-tuong-giao-1461626.ldo) - 08:33 11/02/2025
+- 🧰 [Link xem trực tiếp Man City vs Real Madrid tại Champions League](https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-man-city-vs-real-madrid-tai-champions-league-1461617.ldo) - 08:30 11/02/2025
+- 🌊 [Website Công ty Xổ số Huế không thể truy cập nhiều ngày qua](https://laodong.vn/cong-nghe/website-cong-ty-xo-so-hue-khong-the-truy-cap-nhieu-ngay-qua-1461621.ldo) - 08:29 11/02/2025
+- 🔥 [Hội An vào top điểm đến lãng mạn nhất thế giới mùa Valentine](https://laodong.vn/van-hoa-giai-tri/hoi-an-vao-top-diem-den-lang-man-nhat-the-gioi-mua-valentine-1461642.ldo) - 08:29 11/02/2025
+- 🦒 [Thêm tỉnh công bố danh sách phạt nguội xe máy tháng 1.2025](https://laodong.vn/xe/them-tinh-cong-bo-danh-sach-phat-nguoi-xe-may-thang-12025-1461568.ldo) - 08:29 11/02/2025
+- 💼 [Triệt phá ổ bạc có người cảnh giới ở TP Rạch Giá](https://laodong.vn/phap-luat/triet-pha-o-bac-co-nguoi-canh-gioi-o-tp-rach-gia-1461622.ldo) - 08:25 11/02/2025
+- 🤖 [Đông đảo người dân đến lễ chùa trước ngày Rằm tháng Giêng](https://laodong.vn/van-hoa/dong-dao-nguoi-dan-den-le-chua-truoc-ngay-ram-thang-gieng-1461562.ldo) - 08:24 11/02/2025
+- 💪 [Khởi tố đối tượng cho vay lãi suất cao gấp 31 lần quy định](https://laodong.vn/phap-luat/khoi-to-doi-tuong-cho-vay-lai-suat-cao-gap-31-lan-quy-dinh-1461610.ldo) - 08:22 11/02/2025
+- 👍 [Quy định về giá điện từ tháng 2.2025](https://laodong.vn/ban-doc/quy-dinh-ve-gia-dien-tu-thang-22025-1461603.ldo) - 08:21 11/02/2025
+- 💂 [Lãnh đạo HDBank nói về hợp đồng 48 tỉ USD với tập đoàn Mỹ](https://laodong.vn/kinh-doanh/lanh-dao-hdbank-noi-ve-hop-dong-48-ti-usd-voi-tap-doan-my-1461478.ldo) - 08:16 11/02/2025
+- 🧰 [Diễn biến mưa dông gia tăng tại khu vực Nam Bộ](https://laodong.vn/xa-hoi/dien-bien-mua-dong-gia-tang-tai-khu-vuc-nam-bo-1461600.ldo) - 08:16 11/02/2025
+- 🥷 [7 trường hợp không được cấp sổ đỏ](https://laodong.vn/bat-dong-san/7-truong-hop-khong-duoc-cap-so-do-1461607.ldo) - 08:15 11/02/2025
+- 💫 [HLV Nam Định quyết tâm tạo bất ngờ trước đội Nhật Bản](https://laodong.vn/bong-da/hlv-nam-dinh-quyet-tam-tao-bat-ngo-truoc-doi-nhat-ban-1461570.ldo) - 08:10 11/02/2025
+- 🎭 [Dự báo giá xăng dầu trong kỳ điều hành ngày 13.2](https://laodong.vn/thi-truong/du-bao-gia-xang-dau-trong-ky-dieu-hanh-ngay-132-1461594.ldo) - 08:09 11/02/2025
+- 😎 [Đà Nẵng sẽ xây dựng phòng lab AI để đột phá khoa học](https://laodong.vn/cong-nghe/da-nang-se-xay-dung-phong-lab-ai-de-dot-pha-khoa-hoc-1461587.ldo) - 08:07 11/02/2025
+- 💄 [Nhiều nơi tại TPHCM không bán thuốc Tamiflu](https://laodong.vn/suc-khoe/nhieu-noi-tai-tphcm-khong-ban-thuoc-tamiflu-1461580.ldo) - 08:07 11/02/2025
+- 🫣 [Tổ chức tốt Đại hội Đảng bộ các cấp nhiệm kỳ 2025 - 2030](https://laodong.vn/thoi-su/to-chuc-tot-dai-hoi-dang-bo-cac-cap-nhiem-ky-2025-2030-1461582.ldo) - 08:00 11/02/2025
+- 🧑‍🏫 [Bật mí cách ăn đồ ngọt không làm đường huyết tăng vọt](https://laodong.vn/ban-tin/bat-mi-cach-an-do-ngot-khong-lam-duong-huyet-tang-vot-1461540.ldo) - 08:00 11/02/2025
+- 🦣 [Viêm amidan thường dễ tái phát vào mùa đông](https://laodong.vn/suc-khoe/viem-amidan-thuong-de-tai-phat-vao-mua-dong-1460952.ldo) - 08:00 11/02/2025
+- 💫 [4 bài tập khiêu vũ vui nhộn giúp giảm mỡ bụng](https://laodong.vn/suc-khoe/4-bai-tap-khieu-vu-vui-nhon-giup-giam-mo-bung-1461439.ldo) - 08:00 11/02/2025
+- ⛽️ [Loạt dự án chung cư sắp bàn giao, giá vượt 100 triệu đồng/m2](https://laodong.vn/bat-dong-san/loat-du-an-chung-cu-sap-ban-giao-gia-vuot-100-trieu-dongm2-1461434.ldo) - 07:59 11/02/2025
+- 💫 [Một Thường vụ Tỉnh ủy Gia Lai xin nghỉ hưu trước tuổi](https://laodong.vn/thoi-su/mot-thuong-vu-tinh-uy-gia-lai-xin-nghi-huu-truoc-tuoi-1461574.ldo) - 07:53 11/02/2025
+- 🥸 [Giá nông sản hôm nay 11.2: Giá tiêu nối dài đà tăng mạnh](https://laodong.vn/video/gia-nong-san-hom-nay-112-gia-tieu-noi-dai-da-tang-manh-1461584.ldo) - 07:42 11/02/2025
+- 🐻 [Sớm ổn định tổ chức bộ máy, đi vào hoạt động ngay từ đầu năm](https://laodong.vn/thoi-su/som-on-dinh-to-chuc-bo-may-di-vao-hoat-dong-ngay-tu-dau-nam-1461549.ldo) - 07:33 11/02/2025
+- 🪄 [Phải loại bỏ phần tử xấu khỏi hệ thống ngân hàng](https://laodong.vn/kinh-doanh/phai-loai-bo-phan-tu-xau-khoi-he-thong-ngan-hang-1461366.ldo) - 07:32 11/02/2025
+- 🧑‍🏫 [USD lập đỉnh mới, ngân hàng đồng loạt tăng giá bán](https://laodong.vn/kinh-doanh/usd-lap-dinh-moi-ngan-hang-dong-loat-tang-gia-ban-1461583.ldo) - 07:30 11/02/2025
+- 🌊 [Loại nước lá tự nhiên giúp kháng virus cúm, tăng cường miễn dịch](https://laodong.vn/ban-tin/loai-nuoc-la-tu-nhien-giup-khang-virus-cum-tang-cuong-mien-dich-1461247.ldo) - 07:30 11/02/2025
+- 💻 [3 cách từ chối yêu cầu với trẻ nhỏ](https://laodong.vn/nuoi-con/3-cach-tu-choi-yeu-cau-voi-tre-nho-1461468.ldo) - 07:30 11/02/2025
+- 👨‍🏫 [Bỏ mã số thuế từ 1.7, người dân cần làm ngay điều này](https://laodong.vn/kinh-doanh/bo-ma-so-thue-tu-17-nguoi-dan-can-lam-ngay-dieu-nay-1461440.ldo) - 07:25 11/02/2025
+- 🌈 [Danh tính chồng sắp cưới của Hoa hậu H&#39;Hen Niê](https://laodong.vn/van-hoa-giai-tri/danh-tinh-chong-sap-cuoi-cua-hoa-hau-hhen-nie-1461557.ldo) - 07:24 11/02/2025
+- 🐲 [Công an Hà Nội thông tin việc sắp xếp, tinh gọn bộ máy](https://laodong.vn/thoi-su/cong-an-ha-noi-thong-tin-viec-sap-xep-tinh-gon-bo-may-1461511.ldo) - 07:23 11/02/2025
+- 🚀 [Bắc Ninh kiểm tra các dự án NOXH chậm triển khai, bàn giao](https://laodong.vn/bat-dong-san/bac-ninh-kiem-tra-cac-du-an-noxh-cham-trien-khai-ban-giao-1461419.ldo) - 07:20 11/02/2025
+- 😺 [Một bé gái bị bỏ rơi ở điếm canh đê tại Hải Dương](https://laodong.vn/xa-hoi/mot-be-gai-bi-bo-roi-o-diem-canh-de-tai-hai-duong-1461561.ldo) - 07:18 11/02/2025
+- 🕴 [Sự đối nghịch của Thu Trang và Lan Ngọc, Kaity Nguyễn](https://laodong.vn/van-hoa-giai-tri/su-doi-nghich-cua-thu-trang-va-lan-ngoc-kaity-nguyen-1461459.ldo) - 07:14 11/02/2025
+- 🌋 [Cách sử dụng tinh dầu bạc hà để giảm đau đầu](https://laodong.vn/suc-khoe/cach-su-dung-tinh-dau-bac-ha-de-giam-dau-dau-1461409.ldo) - 07:14 11/02/2025
+- 💄 [Công thức tính lương hưu khi đóng BHXH tự nguyện năm 2025](https://laodong.vn/infographic/cong-thuc-tinh-luong-huu-khi-dong-bhxh-tu-nguyen-nam-2025-1461481.ldo) - 07:12 11/02/2025<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
