@@ -20,7 +20,7 @@ sidebar_position: 1
 - 💼 [Mở rộng hai quốc lộ cửa ngõ TP HCM lên 60 m](https://vnexpress.net/mo-rong-hai-quoc-lo-cua-ngo-tp-hcm-len-60-m-4848115.html) - 04:53 11/02/2025
 - 🤩 [Hà Nội thí điểm cấm ôtô trên 16 chỗ vào phố cổ, Hồ Gươm](https://vnexpress.net/ha-noi-thi-diem-cam-oto-tren-16-cho-vao-pho-co-ho-guom-4847923.html) - 23:00 10/02/2025
 - 🤡 [Đề xuất làm đường trên cao nối TP HCM - Bình Dương](https://vnexpress.net/de-xuat-lam-duong-tren-cao-noi-tp-hcm-binh-duong-4847861.html) - 17:00 10/02/2025
-- 💯 [Đề xuất hồi sinh dự án đường sắt Yên Viên - Hạ Long](https://vnexpress.net/de-xuat-hoi-sinh-du-an-duong-sat-yen-vien-ha-long-4847701.html) - 14:20 10/02/2025
+- 💯 [Kiến nghị hồi sinh dự án đường sắt Yên Viên - Hạ Long](https://vnexpress.net/kien-nghi-hoi-sinh-du-an-duong-sat-yen-vien-ha-long-4847701.html) - 14:20 10/02/2025
 - 👺 [Thủ tướng: Sớm hoàn thành đề án bỏ thanh tra cấp huyện](https://vnexpress.net/thu-tuong-som-hoan-thanh-de-an-bo-thanh-tra-cap-huyen-4847906.html) - 12:57 10/02/2025
 - 🌮 [Đề nghị Chính phủ đánh giá hiệu quả các dự án đường sắt sắp đầu tư](https://vnexpress.net/de-nghi-chinh-phu-danh-gia-hieu-qua-cac-du-an-duong-sat-sap-dau-tu-4847793.html) - 10:48 10/02/2025
 - 🥸 [Phó chủ tịch tỉnh Hậu Giang làm phó bí thư TP Cần Thơ](https://vnexpress.net/pho-chu-tich-tinh-hau-giang-lam-pho-bi-thu-tp-can-tho-4847783.html) - 10:18 10/02/2025
