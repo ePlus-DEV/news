@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [Carlsen, Caruana toàn thắng ở tứ kết Freestyle Chess](https://vnexpress.net/carlsen-caruana-toan-thang-o-tu-ket-freestyle-chess-4847964.html) - 01:07 11/02/2025
 - 🧰 [Grealish: &#39;2024 là năm khó khăn nhất sự nghiệp của tôi&#39;](https://vnexpress.net/grealish-2024-la-nam-kho-khan-nhat-su-nghiep-cua-toi-4847952.html) - 23:52 10/02/2025
 - 🤗 [Rodri: &#39;Tôi lo lắng khi chấn thương hơn lúc trên sân&#39;](https://vnexpress.net/rodri-toi-lo-lang-khi-chan-thuong-hon-luc-tren-san-4847953.html) - 23:11 10/02/2025
-- 🥳 [Haaland và cơ hội phá dớp trước Real](https://vnexpress.net/haaland-va-co-hoi-pha-dop-truoc-real-4847949.html) - 23:04 10/02/2025
+- 🥳 [Haaland trước cơ hội phá dớp Real](https://vnexpress.net/haaland-truoc-co-hoi-pha-dop-real-4847949.html) - 23:04 10/02/2025
 - 🦣 [Guardiola: &#39;Ngăn cản 4 ngôi sao tấn công của Real là bất khả thi&#39;](https://vnexpress.net/guardiola-ngan-can-4-ngoi-sao-tan-cong-cua-real-la-bat-kha-thi-4847947.html) - 22:57 10/02/2025
 - 🌜 [Châu Nhuận Phát muốn chạy sub2 half marathon trước 80 tuổi](https://vnexpress.net/chau-nhuan-phat-muon-chay-sub2-half-marathon-truoc-80-tuoi-4847956.html) - 22:52 10/02/2025
 - 🫶 [Hà Tĩnh bất bại trận thứ 12 liên tiếp ở V-League](https://vnexpress.net/ha-tinh-bat-bai-tran-thu-12-lien-tiep-o-v-league-4847917.html) - 13:36 10/02/2025
