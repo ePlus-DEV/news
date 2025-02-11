@@ -13,7 +13,7 @@ sidebar_position: 9
 - 🧰 [Biết tôi không còn yêu chồng, tình cũ đề nghị được quay lại](https://vnexpress.net/biet-toi-khong-con-yeu-chong-tinh-cu-de-nghi-duoc-quay-lai-4848270.html) - 14:00 11/02/2025
 - 🔭 [&#39;Điểm mù động cơ&#39; khiến F-16 Mỹ lao xuống đất năm 2024](https://vnexpress.net/diem-mu-dong-co-khien-f-16-my-lao-xuong-dat-nam-2024-4848183.html) - 14:00 11/02/2025
 - 🫶 [&#39;Có mai có hạc có đào, có thêm anh nữa ngọt ngào cả năm&#39;](https://vnexpress.net/co-mai-co-hac-co-dao-co-them-anh-nua-ngot-ngao-ca-nam-4847690.html) - 14:00 11/02/2025
-- 🪜 [EU, Canada lên án thuế thép, nhôm của ông Trump](https://vnexpress.net/eu-canada-len-an-thue-thep-nhom-cua-ong-trump-4848354.html) - 13:48 11/02/2025
+- 🪜 [EU, Canada nói &#39;sẽ có biện pháp cứng rắn&#39; với thuế áp lên thép, nhôm](https://vnexpress.net/eu-canada-noi-se-co-bien-phap-cung-ran-voi-thue-ap-len-thep-nhom-4848354.html) - 13:48 11/02/2025
 - 👨‍🏫 [Ukraine để lọt loạt tên lửa Nga, cơ sở dầu khí bị hư hại](https://vnexpress.net/ukraine-de-lot-loat-ten-lua-nga-co-so-dau-khi-bi-hu-hai-4848340.html) - 13:48 11/02/2025
 - 🎊 [Núi Bà Đen hút hàng trăm nghìn du khách dịp rằm tháng Giêng](https://vnexpress.net/nui-ba-den-hut-hang-tram-nghin-du-khach-dip-ram-thang-gieng-4848350.html) - 13:40 11/02/2025
 - 🎊 [Tạo hình ngực miễn phí cho bệnh nhân ung thư vú](https://vnexpress.net/tao-hinh-nguc-mien-phi-cho-benh-nhan-ung-thu-vu-4847941.html) - 13:21 11/02/2025
