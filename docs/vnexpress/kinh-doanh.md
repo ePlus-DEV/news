@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [EU sẽ đáp trả thuế thép, nhôm của ông Trump](https://vnexpress.net/eu-se-dap-tra-thue-thep-nhom-cua-ong-trump-4848354.html) - 13:48 11/02/2025
+- ⛽️ [EU, Canada nói &#39;sẽ có biện pháp cứng rắn&#39; với thuế áp lên thép, nhôm](https://vnexpress.net/eu-canada-noi-se-co-bien-phap-cung-ran-voi-thue-ap-len-thep-nhom-4848354.html) - 13:48 11/02/2025
 - 🐲 [Người nhận Jackpot 152 tỷ đồng giấu con việc trúng số](https://vnexpress.net/nguoi-nhan-jackpot-152-ty-dong-giau-con-viec-trung-so-4848305.html) - 10:17 11/02/2025
 - 🔥 [Thủ tướng đề nghị có gói tín dụng ưu đãi nhà ở cho người không quá 35 tuổi](https://vnexpress.net/thu-tuong-de-nghi-co-goi-tin-dung-uu-dai-nha-o-cho-nguoi-khong-qua-35-tuoi-4848272.html) - 09:30 11/02/2025
 - 🐵 [Mâm cúng tạo hình hoa sen đắt khách rằm tháng Giêng](https://vnexpress.net/mam-cung-tao-hinh-hoa-sen-dat-khach-ram-thang-gieng-4848216.html) - 09:11 11/02/2025
