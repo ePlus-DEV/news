@@ -4,7 +4,7 @@ sidebar_position: 27
 ---
 
 <!-- dantri-dmagazine:START -->
-- 👨‍🏫 [Tuổi 40 của Cristiano Ronaldo và 1001 vấn đề ở Man City](https://dantri.com.vn/the-thao/tuoi-40-cua-cristiano-ronaldo-va-1001-van-de-o-man-city-20250211110122226.htm) - 21:13 11/02/2025
+- 👨‍🏫 [Tuổi 40 của Cristiano Ronaldo và 1001 vấn đề ở Man City](https://dantri.com.vn/the-thao/tuoi-40-cua-cristiano-ronaldo-va-1001-van-de-o-man-city-20250211110122226.htm) - 21:14 11/02/2025
 - 🎡 [Người nhà nước trước &quot;lưới lọc&quot; thị trường: Bứt khỏi vùng an toàn!](https://dantri.com.vn/lao-dong-viec-lam/nguoi-nha-nuoc-truoc-luoi-loc-thi-truong-but-khoi-vung-an-toan-20250210203444127.htm) - 23:00 10/02/2025
 - 😎 [Chuyện đằng sau quyết định nghỉ việc trước tuổi của vị thẩm phán nổi danh](https://dantri.com.vn/lao-dong-viec-lam/chuyen-dang-sau-quyet-dinh-nghi-viec-truoc-tuoi-cua-vi-tham-phan-noi-danh-20250206093743259.htm) - 23:00 09/02/2025
 - 🦍 [Khi không còn làm công chức, điều quan trọng là… dám hạ thấp cái tôi!](https://dantri.com.vn/lao-dong-viec-lam/khi-khong-con-lam-cong-chuc-dieu-quan-trong-la-dam-ha-thap-cai-toi-20250206162245152.htm) - 23:00 06/02/2025
