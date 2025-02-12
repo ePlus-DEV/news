@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [Gia đình Kiptum tan vỡ vì tranh chấp tài sản thừa kế](https://vnexpress.net/gia-dinh-kiptum-tan-vo-vi-tranh-chap-tai-san-thua-ke-4848620.html) - 06:58 12/02/2025
 - 🧰 [HLV Enrique khen PSG đá như Play Station](https://vnexpress.net/hlv-enrique-khen-psg-da-nhu-play-station-4848610.html) - 06:56 12/02/2025
 - 🤗 [Man City hiện tại bị chê là &#39;đội bóng tệ nhất của Guardiola&#39;](https://vnexpress.net/man-city-hien-tai-bi-che-la-doi-bong-te-nhat-cua-guardiola-4848521.html) - 06:52 12/02/2025
-- 🥳 [Nữ VĐV thể hình Việt Nam vô địch xe đạp châu Á](https://vnexpress.net/nu-vdv-the-hinh-viet-nam-vo-dich-xe-dap-chau-a-4848630.html) - 06:42 12/02/2025
+- 🥳 [Nữ VĐV thể hình đẹp nhất Việt Nam vô địch xe đạp châu Á](https://vnexpress.net/nu-vdv-the-hinh-dep-nhat-viet-nam-vo-dich-xe-dap-chau-a-4848630.html) - 06:42 12/02/2025
 - 🦣 [Việt Nam giành HC vàng bắn súng châu Á sau khi bị dẫn 10-0](https://vnexpress.net/viet-nam-gianh-hc-vang-ban-sung-chau-a-sau-khi-bi-dan-10-0-4848633.html) - 06:35 12/02/2025
 - 🌜 [Tượng đài marathon Việt Nam qua đời](https://vnexpress.net/tuong-dai-marathon-viet-nam-qua-doi-4848608.html) - 05:01 12/02/2025
 - 🫶 [Henry: &#39;Mbappe hay hơn Haaland&#39;](https://vnexpress.net/henry-mbappe-hay-hon-haaland-4848536.html) - 05:00 12/02/2025
