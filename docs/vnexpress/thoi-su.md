@@ -9,7 +9,7 @@ sidebar_position: 1
 - ⚗️ [Nhà máy &#39;đỏ mắt&#39; tìm lao động sau Tết](https://vnexpress.net/nha-may-do-mat-tim-lao-dong-sau-tet-4848055.html) - 17:00 11/02/2025
 - 🌊 [Ba ôtô tải đâm liên hoàn, 5 người bị thương](https://vnexpress.net/ba-oto-tai-dam-lien-hoan-5-nguoi-bi-thuong-4848365.html) - 14:46 11/02/2025
 - 🎓 [Phó chủ tịch TP Hải Phòng xin nghỉ công tác sớm](https://vnexpress.net/pho-chu-tich-tp-hai-phong-xin-nghi-cong-tac-som-4848339.html) - 12:44 11/02/2025
-- 🔥 [25 pho tượng ở chùa Vẽ bị cháy](https://vnexpress.net/25-pho-tuong-o-chua-ve-bi-chay-4848331.html) - 12:21 11/02/2025
+- 🔥 [25 pho tượng chùa Vẽ thiệt hại sau vụ cháy](https://vnexpress.net/25-pho-tuong-chua-ve-thiet-hai-sau-vu-chay-4848331.html) - 12:21 11/02/2025
 - 🦏 [Thành lập 22 tổ chức đảng trực thuộc Mặt trận Tổ quốc](https://vnexpress.net/thanh-lap-22-to-chuc-dang-truc-thuoc-mat-tran-to-quoc-4848283.html) - 10:37 11/02/2025
 - 👺 [Văn phòng Chủ tịch nước dự kiến giảm một vụ và 6 phòng](https://vnexpress.net/van-phong-chu-tich-nuoc-du-kien-giam-mot-vu-va-6-phong-4848302.html) - 10:34 11/02/2025
 - 🧑‍🏫 [Lãnh đạo 6 Ban Đảng Trung ương nhiệm kỳ 2021-2026 sau sắp xếp](https://vnexpress.net/interactive/2025/lanh-dao-cac-ban-dang-trung-uong-nhiem-ky-2021-2026-sau-sap-xep) - 08:18 11/02/2025
