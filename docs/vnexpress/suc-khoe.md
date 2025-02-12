@@ -17,7 +17,7 @@ sidebar_position: 10
 - 🦆 [Uống rượu không ăn, người đàn ông ngộ độc, teo não](https://vnexpress.net/uong-ruou-khong-an-nguoi-dan-ong-ngo-doc-teo-nao-4848606.html) - 07:04 12/02/2025
 - 🚀 [Làm thế nào trị sẹo rỗ do mụn trứng cá?](https://vnexpress.net/lam-the-nao-tri-seo-ro-do-mun-trung-ca-4848591.html) - 07:00 12/02/2025
 - 🌜 [Lợi ích khi ăn hạt điều thường xuyên](https://vnexpress.net/loi-ich-khi-an-hat-dieu-thuong-xuyen-4848543.html) - 07:00 12/02/2025
-- 🧰 [Vì sao dịch cúm năm nay diễn biến nghiêm trọng?](https://vnexpress.net/vi-sao-dich-cum-nam-nay-dien-bien-nghiem-trong-vnepre-4848477.html) - 06:57 12/02/2025
+- 🧰 [Vì sao dịch cúm năm nay diễn biến nghiêm trọng?](https://vnexpress.net/vi-sao-dich-cum-nam-nay-dien-bien-nghiem-trong-4848477.html) - 06:57 12/02/2025
 - 💫 [Vô sinh ở tuổi đôi mươi do rối loạn nhiễm sắc thể giới tính](https://vnexpress.net/vo-sinh-o-tuoi-doi-muoi-do-roi-loan-nhiem-sac-the-gioi-tinh-4848549.html) - 06:00 12/02/2025
 - 🌝 [Ăn thịt thế nào không tăng cholesterol?](https://vnexpress.net/an-thit-the-nao-khong-tang-cholesterol-4848484.html) - 05:00 12/02/2025
 - 🗽 [Phòng bệnh sởi cho trẻ trong mùa đông xuân](https://vnexpress.net/phong-benh-soi-cho-tre-trong-mua-dong-xuan-4848471.html) - 05:00 12/02/2025
