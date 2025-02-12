@@ -4,7 +4,7 @@ sidebar_position: 27
 ---
 
 <!-- dantri-dmagazine:START -->
-- 👨‍🏫 [Ông Bạch Ngọc Chiến: Tôi không giàu có khi từ chức, khởi nghiệp để mưu sinh](https://dantri.com.vn/xa-hoi/ong-bach-ngoc-chien-toi-khong-giau-co-khi-tu-chuc-khoi-nghiep-de-muu-sinh-20250212222054651.htm) - 17:00 12/02/2025
+- 👨‍🏫 [&quot;Tôi không có nhiều tiền bạc khi từ chức, khởi nghiệp bằng tri thức&quot;](https://dantri.com.vn/xa-hoi/toi-khong-co-nhieu-tien-bac-khi-tu-chuc-khoi-nghiep-bang-tri-thuc-20250212222054651.htm) - 17:00 12/02/2025
 - 🎡 [Tuổi 40 của Cristiano Ronaldo và 1001 vấn đề ở Man City](https://dantri.com.vn/the-thao/tuoi-40-cua-cristiano-ronaldo-va-1001-van-de-o-man-city-20250211110122226.htm) - 21:14 11/02/2025
 - 😎 [Người nhà nước trước &quot;lưới lọc&quot; thị trường: Bứt khỏi vùng an toàn!](https://dantri.com.vn/lao-dong-viec-lam/nguoi-nha-nuoc-truoc-luoi-loc-thi-truong-but-khoi-vung-an-toan-20250210203444127.htm) - 23:00 10/02/2025
 - 🦍 [Chuyện đằng sau quyết định nghỉ việc trước tuổi của vị thẩm phán nổi danh](https://dantri.com.vn/lao-dong-viec-lam/chuyen-dang-sau-quyet-dinh-nghi-viec-truoc-tuoi-cua-vi-tham-phan-noi-danh-20250206093743259.htm) - 23:00 09/02/2025
