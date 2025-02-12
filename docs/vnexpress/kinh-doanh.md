@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Giá vàng thế giới quay đầu giảm sau khi lập đỉnh mới](https://vnexpress.net/gia-vang-the-gioi-quay-dau-giam-sau-khi-lap-dinh-moi-4848401.html) - 00:48 12/02/2025
-- 🐲 [Xuất khẩu trước rủi ro thuế quan](https://vnexpress.net/xuat-khau-truoc-rui-ro-thue-quan-4848166.html) - 22:00 11/02/2025
+- 🐲 [Xuất khẩu Việt trước rủi ro thuế quan](https://vnexpress.net/xuat-khau-viet-truoc-rui-ro-thue-quan-4848166.html) - 22:00 11/02/2025
 - 🔥 [Kinh tế Mỹ ra sao nếu không còn xu 1 cent?](https://vnexpress.net/kinh-te-my-ra-sao-neu-khong-con-xu-1-cent-4848301.html) - 17:01 11/02/2025
 - 🐵 [Ông lớn xe điện Trung Quốc muốn bán tín chỉ carbon tại EU](https://vnexpress.net/ong-lon-xe-dien-trung-quoc-muon-ban-tin-chi-carbon-tai-eu-4848161.html) - 17:00 11/02/2025
 - 🦅 [EU, Canada nói &#39;sẽ có biện pháp cứng rắn&#39; với thuế áp lên thép, nhôm](https://vnexpress.net/eu-canada-noi-se-co-bien-phap-cung-ran-voi-thue-ap-len-thep-nhom-4848354.html) - 13:48 11/02/2025
