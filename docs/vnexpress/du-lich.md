@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Ném bột mì tán loạn ở lễ hội Làm Chay dù bị cấm](https://vnexpress.net/nem-bot-mi-tan-loan-o-le-hoi-lam-chay-du-bi-cam-4849214.html) - 12:14 13/02/2025
+- 💂 [&#39;Mưa bột mì&#39; ở lễ hội Làm Chay dù bị cấm](https://vnexpress.net/mua-bot-mi-o-le-hoi-lam-chay-du-bi-cam-4849214.html) - 12:14 13/02/2025
 - 🪄 [Những điểm đến thế giới có tên gọi lãng mạn](https://vnexpress.net/nhung-diem-den-the-gioi-co-ten-goi-lang-man-4849136.html) - 12:00 13/02/2025
 - 🦅 [Cẩm nang quốc tế gợi ý du khách khám phá núi Bà Đen](https://vnexpress.net/cam-nang-quoc-te-goi-y-du-khach-kham-pha-nui-ba-den-4849181.html) - 09:00 13/02/2025
 - 🕴 [Loạt trải nghiệm cho các cặp đôi dịp Valentine tại lễ hội &#39;Ánh sáng phương Đông&#39;](https://vnexpress.net/loat-trai-nghiem-cho-cac-cap-doi-dip-valentine-tai-le-hoi-anh-sang-phuong-dong-4849142.html) - 08:00 13/02/2025
