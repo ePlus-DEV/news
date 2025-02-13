@@ -16,7 +16,7 @@ sidebar_position: 5
 - 🤓 [Nhà thơ kể chuyện &#39;vượt Trường Sơn tìm chồng&#39;](https://vnexpress.net/nha-tho-ke-chuyen-vuot-truong-son-tim-chong-4848622.html) - 23:00 12/02/2025
 - 🫶 [Rosé tạo sức hút với 10 kiểu phối áo khoác đường phố](https://vnexpress.net/rose-tao-suc-hut-voi-10-kieu-phoi-ao-khoac-duong-pho-4848518.html) - 22:00 12/02/2025
 - 🧑‍🏫 [Phật giáo thời Trần: &#39;Ở đời vui đạo hãy tùy duyên&#39;](https://vnexpress.net/phat-giao-thoi-tran-o-doi-vui-dao-hay-tuy-duyen-4847966.html) - 20:00 12/02/2025
-- 🦄 [Ngọc Châu: &#39;Tôi làm 10 đồng nhưng chỉ tiêu 2&#39;](https://vnexpress.net/ngoc-chau-toi-lam-10-dong-nhung-chi-tieu-2-4842557.html) - 17:00 12/02/2025
+- 🦄 [Ngọc Châu: &#39;Tôi làm 10 đồng, chỉ tiêu 2&#39;](https://vnexpress.net/ngoc-chau-toi-lam-10-dong-chi-tieu-2-4842557.html) - 17:00 12/02/2025
 - 💫 [Khoảnh khắc đẹp trong lễ thành đôi của Vũ Cát Tường](https://vnexpress.net/khoanh-khac-dep-trong-le-thanh-doi-cua-vu-cat-tuong-4848326.html) - 15:44 12/02/2025
 - 🎊 [Phương Uyên, Thanh Hà dự tiệc cưới Vũ Cát Tường](https://vnexpress.net/phuong-uyen-thanh-ha-du-tiec-cuoi-vu-cat-tuong-4848814.html) - 12:47 12/02/2025
 - 👹 [Hôn lễ của Vũ Cát Tường](https://vnexpress.net/hon-le-cua-vu-cat-tuong-4848318.html) - 10:30 12/02/2025
