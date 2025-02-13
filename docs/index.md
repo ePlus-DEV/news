@@ -251,7 +251,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Liên minh châu Âu cảnh báo &quot;thỏa thuận bẩn&quot; về Ukraine](https://nld.com.vn/lien-minh-chau-au-canh-bao-thoa-thuan-ban-ve-ukraine-196250213221817147.htm) - 22:58 13/02/2025
+- 🐎 [Liên minh châu Âu cảnh báo &quot;thỏa thuận sau lưng&quot; về Ukraine](https://nld.com.vn/lien-minh-chau-au-canh-bao-thoa-thuan-ban-ve-ukraine-196250213221817147.htm) - 22:58 13/02/2025
 - 😺 [Điểm nóng xung đột ngày 14-2: Anh “hết lòng hết dạ” với Ukraine](https://nld.com.vn/diem-nong-xung-dot-ngay-14-2-anh-het-long-het-da-voi-ukraine-196250213212510922.htm) - 22:29 13/02/2025
 - 👍 [EU cảnh báo nhiều thực phẩm của Việt Nam](https://nld.com.vn/eu-canh-bao-nhieu-thuc-pham-cua-viet-nam-19625021320593172.htm) - 22:22 13/02/2025
 - 🥷 [Bản tin sáng 14-2: Anh em song sinh lên đường nhập ngũ, sẵn sàng bảo vệ Tổ quốc](https://nld.com.vn/ban-tin-sang-14-2-anh-em-song-sinh-len-duong-nhap-ngu-san-sang-bao-ve-to-quoc-196250213200731042.htm) - 22:00 13/02/2025
