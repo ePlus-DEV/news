@@ -4,8 +4,8 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Chủ tịch nông dân xã dùng súng cướp tài sản nhà lãnh đạo tỉnh](https://vnexpress.net/chu-tich-nong-dan-xa-dung-sung-cuop-tai-san-nha-lanh-dao-tinh-4849261.html) - 11:48 13/02/2025
-- 🥰 [Đập búa cướp tiệm vàng](https://vnexpress.net/dap-bua-cuop-tiem-vang-trong-5-giay-4849229.html) - 09:46 13/02/2025
+- 😎 [Chủ tịch hội nông dân xã dùng súng cướp tài sản nhà lãnh đạo tỉnh](https://vnexpress.net/chu-tich-nong-dan-xa-dung-sung-cuop-tai-san-nha-lanh-dao-tinh-4849261.html) - 11:48 13/02/2025
+- 🥰 [Đập vỡ tủ kính, cướp tiệm vàng](https://vnexpress.net/dap-bua-cuop-tiem-vang-trong-5-giay-4849229.html) - 09:46 13/02/2025
 - 🎓 [Johnson &amp;amp; Johnson bị kiện &#39;bán thuốc cúm không tác dụng&#39;](https://vnexpress.net/johnson-johnson-bi-kien-ban-thuoc-cum-khong-tac-dung-4849123.html) - 09:19 13/02/2025
 - 🤓 [56 nghi phạm lừa đầu tư tiền điện tử, &#39;làm nhiệm vụ TikTok&#39; bị bắt](https://vnexpress.net/56-nghi-pham-lua-dau-tu-tien-dien-tu-lam-nhiem-vu-tiktok-bi-bat-4849200.html) - 09:10 13/02/2025
 - 🎊 [Nguyên cục trưởng Thuế tỉnh Cà Mau bị khởi tố](https://vnexpress.net/nguyen-cuc-truong-thue-tinh-ca-mau-bi-khoi-to-4849143.html) - 08:07 13/02/2025
