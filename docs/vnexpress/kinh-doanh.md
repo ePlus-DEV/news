@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Jack Ma có thể dự hội nghị về kinh tế tư nhân với lãnh đạo cấp cao Trung Quốc](https://vnexpress.net/jack-ma-co-the-du-hoi-nghi-ve-kinh-te-tu-nhan-voi-lanh-dao-cap-cao-trung-quoc-4849708.html) - 13:33 14/02/2025
-- 🐲 [Tập đoàn SK muốn tham gia loạt dự án năng lượng tại Việt Nam](https://vnexpress.net/tap-doan-sk-muon-tham-gia-loat-du-an-nang-luong-tai-viet-nam-4849699.html) - 12:33 14/02/2025
+- 🐲 [Tập đoàn SK đề nghị làm loạt dự án năng lượng tại Việt Nam](https://vnexpress.net/tap-doan-sk-de-nghi-lam-loat-du-an-nang-luong-tai-viet-nam-4849699.html) - 12:33 14/02/2025
 - 🔥 [Ninh Thuận muốn thêm cơ chế đặc thù khi làm nhà máy điện hạt nhân](https://vnexpress.net/ninh-thuan-muon-them-co-che-dac-thu-khi-lam-nha-may-dien-hat-nhan-4849692.html) - 11:51 14/02/2025
 - 🐵 [Thủ tướng: Có thể phải hy sinh một phần lạm phát để đạt mục tiêu tăng trưởng cao](https://vnexpress.net/thu-tuong-co-the-phai-hy-sinh-mot-phan-lam-phat-de-dat-muc-tieu-tang-truong-cao-4849654.html) - 11:35 14/02/2025
 - 🦅 [MyVIB thêm loạt tính năng cá nhân hóa](https://vnexpress.net/myvib-them-loat-tinh-nang-ca-nhan-hoa-4849604.html) - 09:00 14/02/2025
