@@ -247,66 +247,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Cách tra cứu website lừa đảo, người có tiền cần biết](https://nld.com.vn/cach-tra-cuu-website-lua-dao-nguoi-co-tien-can-biet-196250214104131444.htm) - 03:54 14/02/2025
-- 😺 [Thợ làm đẹp TP HCM rủ nhau cắt tóc miễn phí cho tân binh](https://nld.com.vn/tho-lam-dep-tp-hcm-ru-nhau-cat-toc-mien-phi-cho-tan-binh-196250214101302313.htm) - 03:23 14/02/2025
-- 👍 [“Hạt ma quỷ” mạnh kỷ lục khuấy động ngoài khơi Sicily](https://nld.com.vn/hat-ma-quy-manh-ky-luc-khuay-dong-ngoai-khoi-sicily-196250214095503426.htm) - 03:05 14/02/2025
-- 🥷 [Vì sao metro số 1 phải chạy chậm khi trời mưa?](https://nld.com.vn/vi-sao-metro-so-1-phai-chay-cham-khi-troi-mua-196250214094717179.htm) - 03:05 14/02/2025
-- 🤔 [Bị kỷ luật, mất uy tín: Cán bộ TP HCM sẽ bị xem xét miễn nhiệm](https://nld.com.vn/bi-ky-luat-mat-uy-tin-can-bo-tp-hcm-se-bi-xem-xet-mien-nhiem-196250214095226518.htm) - 03:00 14/02/2025
-- 🌈 [Điều động Chủ tịch Ủy ban MTTQ tỉnh Quảng Bình nhận nhiệm vụ mới](https://nld.com.vn/dieu-dong-chu-tich-uy-ban-mttq-tinh-quang-binh-nhan-nhiem-vu-moi-196250214090649174.htm) - 02:56 14/02/2025
-- 🔥 [Kinh hoàng cá voi nuốt chửng người đi thuyền kayak](https://nld.com.vn/kinh-hoang-ca-voi-nuot-chung-nguoi-di-thuyen-kayak-196250214093625912.htm) - 02:50 14/02/2025
-- 🧰 [Lời khai ban đầu của đối tượng dùng súng đột nhập nhà lãnh đạo tỉnh Bình Phước, uy hiếp con tin](https://nld.com.vn/loi-khai-ban-dau-cua-doi-tuong-dung-sung-dot-nhap-nha-lanh-dao-tinh-binh-phuoc-uy-hiep-con-tin-196250214092048348.htm) - 02:44 14/02/2025
-- 🤗 [H&#39;Hen Niê lần đầu chia sẻ về màn cầu hôn gây sốt mạng xã hội](https://nld.com.vn/hhen-nie-lan-dau-chia-se-ve-man-cau-hon-gay-sot-mang-xa-hoi-196250214092151995.htm) - 02:42 14/02/2025
-- 🦅 [Đề nghị truy tố giám đốc Công ty vàng Phú Quý trong vụ buôn lậu vàng](https://nld.com.vn/de-nghi-truy-to-giam-doc-cong-ty-vang-phu-quy-trong-vu-buon-lau-vang-196250214085552966.htm) - 02:40 14/02/2025
-- 🤩 [Sanofi Việt Nam lập &quot;cú đúp&quot; chứng nhận quốc tế](https://diaoc.nld.com.vn/sanofi-viet-nam-lap-cu-dup-chung-nhan-quoc-te-196250214092728479.htm) - 02:33 14/02/2025
-- 🎭 [Sau Tết, nhu cầu chuyển phát giao nhanh và đúng hẹn vẫn cao](https://phunu.nld.com.vn/sau-tet-nhu-cau-chuyen-phat-giao-nhanh-va-dung-hen-van-cao-19625021409300707.htm) - 02:32 14/02/2025
-- 💄 [Chính phủ Nhật Bản sẽ áp dụng trần phí đối với lao động nước ngoài sang làm việc](https://nld.com.vn/chinh-phu-nhat-ban-se-ap-dung-tran-phi-doi-voi-lao-dong-nuoc-ngoai-sang-lam-viec-196250214091442361.htm) - 02:21 14/02/2025
-- 🎊 [Tổng thống Trump trấn an Ukraine về mối lo &quot;thỏa thuận sau lưng&quot; với Nga](https://nld.com.vn/tong-thong-trump-tran-an-ukraine-ve-moi-lo-thoa-thuan-sau-lung-voi-nga-196250214084051311.htm) - 02:18 14/02/2025
-- 🎡 [Quảng Bình: Chủ nhiệm Ủy ban Kiểm tra huyện Lệ Thủy xin nghỉ hưu trước tuổi](https://nld.com.vn/quang-binh-chu-nhiem-uy-ban-kiem-tra-huyen-le-thuy-xin-nghi-huu-truoc-tuoi-196250214085023401.htm) - 02:14 14/02/2025
-- 🎉 [Giá vàng miếng SJC, vàng nhẫn đồng loạt nhảy vọt](https://nld.com.vn/gia-vang-mieng-sjc-vang-nhan-dong-loat-nhay-vot-196250214085515606.htm) - 02:12 14/02/2025
-- 😺 [Soobin Hoàng Sơn nhận ba đề cử giải Cống hiến 2025](https://nld.com.vn/soobin-hoang-son-nhan-ba-de-cu-giai-cong-hien-2025-19625021407471281.htm) - 02:06 14/02/2025
-- 🐻 [Đại sứ Marc E. Knapper: Việc áp thuế của Mỹ không nhắm tới Việt Nam](https://nld.com.vn/dai-su-marc-e-knapper-viec-ap-thue-cua-my-khong-nham-toi-viet-nam-196250214084438962.htm) - 02:05 14/02/2025
-- 🤡 [Rèn luyện sức khỏe với yoga](https://phunu.nld.com.vn/ren-luyen-suc-khoe-voi-yoga-196241016111731949.htm) - 01:58 14/02/2025
-- 🚦 [Ẩn số về những viên gạch xây dựng tháp Chăm](https://diaoc.nld.com.vn/an-so-ve-nhung-vien-gach-xay-dung-thap-cham-196240827155632469.htm) - 01:57 14/02/2025
-- 🪜 [Đề xuất cơ chế chỉ định thầu để làm dự án điện hạt nhân Ninh Thuận](https://nld.com.vn/de-xuat-co-che-chi-dinh-thau-de-lam-du-an-dien-hat-nhan-ninh-thuan-196250214085205418.htm) - 01:55 14/02/2025
-- 💫 [Giá vé máy bay bao giờ giảm?](https://nld.com.vn/gia-ve-may-bay-bao-gio-giam-196250213205347008.htm) - 01:54 14/02/2025
-- 🔭 [Mặt sân thi đấu V-League kém chất lượng](https://nld.com.vn/mat-san-thi-dau-v-league-kem-chat-luong-19625021320430042.htm) - 01:54 14/02/2025
-- 🌝 [Đầu năm, giá hàng hóa vẫn cao](https://nld.com.vn/dau-nam-gia-hang-hoa-van-cao-19625021320580468.htm) - 01:53 14/02/2025
-- 💪 [Antony tạo cảm hứng, Real Betis thắng tưng bừng Conference League](https://nld.com.vn/antony-tao-cam-hung-real-betis-thang-tung-bung-conference-league-196250214073915877.htm) - 01:51 14/02/2025
-- 🦍 [Tháo gỡ điểm nghẽn, phát triển hạ tầng](https://nld.com.vn/thao-go-diem-nghen-phat-trien-ha-tang-196250213212909738.htm) - 01:49 14/02/2025
-- 🥷 [Trương Học Hữu nợ 7.000 tỉ đồng](https://nld.com.vn/truong-hoc-huu-no-7000-ti-dong-196250214082543452.htm) - 01:48 14/02/2025
-- 🫶 [Tâm điểm trên sân Thống Nhất](https://nld.com.vn/tam-diem-tren-san-thong-nhat-196250213203339967.htm) - 01:37 14/02/2025
-- 🐻 [Nhạc sĩ Trần Xuân Mai Trâm: &quot;Hát về thành phố tôi yêu&quot; tràn đầy cảm xúc](https://nld.com.vn/nhac-si-tran-xuan-mai-tram-hat-ve-thanh-pho-toi-yeu-tran-day-cam-xuc-196250213204909102.htm) - 01:34 14/02/2025
-- 🐲 [An tâm làm việc, gắn bó](https://nld.com.vn/an-tam-lam-viec-gan-bo-196250213184423961.htm) - 01:29 14/02/2025
-- 🧑‍💻 [Nâng công suất khai thác vật liệu san lấp](https://nld.com.vn/nang-cong-suat-khai-thac-vat-lieu-san-lap-196250213214007868.htm) - 01:28 14/02/2025
-- 🎬 [Nhìn lại bóng đá Việt từ ASEAN Cup 2024: Cần một kế hoạch phát triển căn cơ](https://nld.com.vn/nhin-lai-bong-da-viet-tu-asean-cup-2024-can-mot-ke-hoach-phat-trien-can-co-196250212202441904.htm) - 01:26 14/02/2025
-- 👀 [Sớm khắc phục tình trạng ngập sâu sau mưa](https://nld.com.vn/som-khac-phuc-tinh-trang-ngap-sau-sau-mua-196250213205659903.htm) - 01:23 14/02/2025
-- 👍 [Cận cảnh khu đất giá khởi điểm 900 tỉ nằm trên con đường &quot;đắt đỏ&quot; nhất Đà Nẵng](https://nld.com.vn/can-canh-khu-dat-gia-khoi-diem-900-ti-nam-tren-con-duong-dat-do-nhat-da-nang-196250214080319982.htm) - 01:20 14/02/2025
-- 🦅 [Từ TikToker triệu view đến trùm lừa đảo ngàn tỉ](https://nld.com.vn/tu-tiktoker-trieu-view-den-trum-lua-dao-ngan-ti-196250213205554649.htm) - 01:20 14/02/2025
-- 🦏 [Giá cà phê hôm nay 14-2:  Đỉnh điểm &quot;100 năm mới có 1 lần&quot;](https://nld.com.vn/gia-ca-phe-hom-nay-13-2-dinh-diem-100-nam-moi-co-1-lan-196250214080144749.htm) - 01:16 14/02/2025
-- 🗽 [Giá vàng hôm nay, 14-2: Tăng rất mạnh](https://nld.com.vn/gia-vang-hom-nay-13-2-tang-rat-manh-196250214064629461.htm) - 01:04 14/02/2025
-- 🔭 [Biến hạ tầng giao thông cũ thành không gian xanh](https://nld.com.vn/bien-ha-tang-giao-thong-cu-thanh-khong-gian-xanh-196250213205112791.htm) - 01:04 14/02/2025
-- 👍 [Tổng thống Trump công bố kế hoạch thuế đối ứng, Đông Nam Á có thể bị ảnh hưởng mạnh](https://nld.com.vn/tong-thong-trump-cong-bo-ke-hoach-thue-doi-ung-dong-nam-a-co-the-bi-anh-huong-manh-196250214071410013.htm) - 01:03 14/02/2025
-- ⛽️ [Tàu sân bay hạt nhân Mỹ va chạm tàu hàng](https://nld.com.vn/tau-san-bay-hat-nhan-my-va-cham-tau-hang-196250214072516093.htm) - 01:02 14/02/2025
-- 🥸 [EVN vào tốp đầu về chuyển đổi số](https://thitruong.nld.com.vn/evn-vao-top-dau-ve-chuyen-doi-so-1962502131546289.htm) - 01:02 14/02/2025
-- 🌁 [Hút khách du lịch siêu giàu](https://nld.com.vn/hut-khach-du-lich-sieu-giau-196250213190048039.htm) - 01:00 14/02/2025
-- 🌮 [Tổng đài thông minh không phím bấm: Bước đột phá của LPBank trong kỷ nguyên số](https://nld.com.vn/tong-dai-thong-minh-khong-phim-bam-buoc-dot-pha-cua-lpbank-trong-ky-nguyen-so-196250213164423433.htm) - 01:00 14/02/2025
-- 🎉 [Mỹ đổi chính sách về Ukraine](https://nld.com.vn/my-doi-chinh-sach-ve-ukraine-196250213210130055.htm) - 00:59 14/02/2025
-- 🤔 [Nữ bác sĩ luôn &quot;chiến đấu&quot; đến cùng với bệnh tật](https://nld.com.vn/nu-bac-si-luon-chien-dau-den-cung-voi-benh-tat-196250213202756639.htm) - 00:59 14/02/2025
-- 🐘 [Kiên Giang tăng cường thu hút du khách](https://nld.com.vn/kien-giang-tang-cuong-thu-hut-du-khach-196250213205509462.htm) - 00:57 14/02/2025
-- 🙉 [Dựng vành đai xanh ven biển](https://nld.com.vn/dung-vanh-dai-xanh-ven-bien-196250213204927321.htm) - 00:57 14/02/2025
-- 🐵 [Cạnh tranh nhân lực công nghệ khốc liệt](https://nld.com.vn/canh-tranh-nhan-luc-cong-nghe-khoc-liet-196250213184553411.htm) - 00:51 14/02/2025
-- 🙉 [8 ứng viên vòng play-off Champions League](https://nld.com.vn/8-ung-vien-vong-play-off-champions-league-196250213203120577.htm) - 00:48 14/02/2025
-- 💪 [TP HCM cải thiện tình trạng thiếu thuốc, bác sĩ](https://nld.com.vn/tp-hcm-cai-thien-tinh-trang-thieu-thuoc-bac-si-19625021321410404.htm) - 00:47 14/02/2025
-- ⛽️ [Cảnh báo lừa đảo chi trả truy thu BHXH](https://nld.com.vn/canh-bao-lua-dao-chi-tra-truy-thu-bhxh-1962502140740289.htm) - 00:46 14/02/2025
-- 👺 [Phim Việt hấp dẫn ở khung giờ mới trên VTV3](https://nld.com.vn/phim-viet-hap-dan-o-khung-gio-moi-tren-vtv3-19625021320444601.htm) - 00:44 14/02/2025
-- 🧠 [Rộn rã ngày tòng quân](https://nld.com.vn/ron-ra-ngay-tong-quan-196250213210756602.htm) - 00:32 14/02/2025
-- 🔭 [Nhận diện điểm nghẽn để tháo gỡ](https://nld.com.vn/nhan-dien-diem-nghen-de-thao-go-196250213212034858.htm) - 00:28 14/02/2025
-- 🦣 [Nỗ lực ngăn thỏa thuận ngừng bắn Gaza sụp đổ](https://nld.com.vn/no-luc-ngan-thoa-thuan-ngung-ban-gaza-sup-do-196250213210241133.htm) - 00:26 14/02/2025
-- 🔥 [Từ &quot;tai mắt&quot; iHanoi](https://nld.com.vn/tu-tai-mat-ihanoi-196250213185612282.htm) - 00:20 14/02/2025
-- 🌝 [Thời tiết TP HCM hôm nay, 14-2: Ngày nắng gián đoạn, khả năng có mưa](https://nld.com.vn/thoi-tiet-tp-hcm-hom-nay-14-2-ngay-nang-gian-doan-kha-nang-co-mua-196250214062729548.htm) - 00:17 14/02/2025
-- 👍 [Fenerbahce đè bẹp Anderlecht, đội bóng của Mourinho bay cao Europa League](https://nld.com.vn/fenerbahce-de-bep-anderlecht-doi-bong-cua-mourinho-bay-cao-europa-league-196250214065737148.htm) - 00:02 14/02/2025
-- 💂 [Khát vọng của tuổi trẻ thành phố](https://nld.com.vn/khat-vong-cua-tuoi-tre-thanh-pho-196250213205736359.htm) - 00:00 14/02/2025
-- 🤖 [Liên minh châu Âu cảnh báo &quot;thỏa thuận sau lưng&quot; về Ukraine](https://nld.com.vn/lien-minh-chau-au-canh-bao-thoa-thuan-ban-ve-ukraine-196250213221817147.htm) - 22:58 13/02/2025<!-- nld:END -->
+- 🐎 [Ngỡ ngàng lời khai của đối tượng dùng súng đột nhập nhà lãnh đạo tỉnh Bình Phước](https://nld.com.vn/podcast/ngo-ngang-loi-khai-cua-doi-tuong-dung-sung-dot-nhap-nha-lanh-dao-tinh-binh-phuoc-196250214112250762.htm) - 04:31 14/02/2025
+- 😺 [Trung tâm tranh thêu XQ nổi tiếng Đà Lạt bốc cháy trong đêm](https://nld.com.vn/trung-tam-tranh-theu-xq-noi-tieng-da-lat-boc-chay-trong-dem-196250214110810778.htm) - 04:28 14/02/2025
+- 👍 [TP HCM ban hành quy định quản lý, sử dụng biệt thự](https://nld.com.vn/tp-hcm-ban-hanh-quy-dinh-quan-ly-su-dung-biet-thu-196250214111258098.htm) - 04:22 14/02/2025
+- 🥷 [Thủ đoạn chiếm đoạt 7 tỉ đồng của nữ nhân viên ngân hàng ở TP HCM](https://nld.com.vn/thu-doan-chiem-doat-7-ti-dong-cua-nu-nhan-vien-ngan-hang-o-tp-hcm-196250214111118403.htm) - 04:20 14/02/2025
+- 🤔 [Cựu cố vấn của Tổng thống Trump: Kinh tế Trung Quốc sắp không chịu nổi!](https://nld.com.vn/cuu-co-van-cua-tong-thong-trump-kinh-te-trung-quoc-sap-khong-chiu-noi-196250214102433493.htm) - 04:17 14/02/2025
+- 🌈 [FPT mở văn phòng thứ 4 tại Hàn Quốc](https://nld.com.vn/fpt-mo-van-phong-thu-4-tai-han-quoc-196250214104323553.htm) - 04:02 14/02/2025
+- 🔥 [Bình Dương sẽ phát triển khu công nghiệp sinh thái theo tiêu chuẩn quốc tế](https://nld.com.vn/binh-duong-se-phat-trien-khu-cong-nghiep-sinh-thai-theo-tieu-chuan-quoc-te-196250214104547601.htm) - 04:01 14/02/2025
+- 🧰 [Sau thành công với Masan, Vingroup, Techcombank tiếp tục mở rộng hệ sinh thái](https://nld.com.vn/sau-thanh-cong-voi-masan-vingroup-techcombank-tiep-tuc-mo-rong-he-sinh-thai-196250214094625599.htm) - 04:01 14/02/2025
+- 🤗 [Cách tra cứu website lừa đảo, người có tiền cần biết](https://nld.com.vn/cach-tra-cuu-website-lua-dao-nguoi-co-tien-can-biet-196250214104131444.htm) - 03:54 14/02/2025
+- 🦅 [Thợ làm đẹp TP HCM rủ nhau cắt tóc miễn phí cho tân binh](https://nld.com.vn/tho-lam-dep-tp-hcm-ru-nhau-cat-toc-mien-phi-cho-tan-binh-196250214101302313.htm) - 03:23 14/02/2025
+- 🤩 [“Hạt ma quỷ” mạnh kỷ lục khuấy động ngoài khơi Sicily](https://nld.com.vn/hat-ma-quy-manh-ky-luc-khuay-dong-ngoai-khoi-sicily-196250214095503426.htm) - 03:05 14/02/2025
+- 🎭 [Vì sao metro số 1 phải chạy chậm khi trời mưa?](https://nld.com.vn/vi-sao-metro-so-1-phai-chay-cham-khi-troi-mua-196250214094717179.htm) - 03:05 14/02/2025
+- 💄 [Bị kỷ luật, mất uy tín: Cán bộ TP HCM sẽ bị xem xét miễn nhiệm](https://nld.com.vn/bi-ky-luat-mat-uy-tin-can-bo-tp-hcm-se-bi-xem-xet-mien-nhiem-196250214095226518.htm) - 03:00 14/02/2025
+- 🎊 [Điều động Chủ tịch Ủy ban MTTQ tỉnh Quảng Bình nhận nhiệm vụ mới](https://nld.com.vn/dieu-dong-chu-tich-uy-ban-mttq-tinh-quang-binh-nhan-nhiem-vu-moi-196250214090649174.htm) - 02:56 14/02/2025
+- 🎡 [Kinh hoàng cá voi nuốt chửng người đi thuyền kayak](https://nld.com.vn/kinh-hoang-ca-voi-nuot-chung-nguoi-di-thuyen-kayak-196250214093625912.htm) - 02:50 14/02/2025
+- 🎉 [Lời khai ban đầu của đối tượng dùng súng đột nhập nhà lãnh đạo tỉnh Bình Phước, uy hiếp con tin](https://nld.com.vn/loi-khai-ban-dau-cua-doi-tuong-dung-sung-dot-nhap-nha-lanh-dao-tinh-binh-phuoc-uy-hiep-con-tin-196250214092048348.htm) - 02:44 14/02/2025
+- 😺 [H&#39;Hen Niê lần đầu chia sẻ về màn cầu hôn gây sốt mạng xã hội](https://nld.com.vn/hhen-nie-lan-dau-chia-se-ve-man-cau-hon-gay-sot-mang-xa-hoi-196250214092151995.htm) - 02:42 14/02/2025
+- 🐻 [Đề nghị truy tố giám đốc Công ty vàng Phú Quý trong vụ buôn lậu vàng](https://nld.com.vn/de-nghi-truy-to-giam-doc-cong-ty-vang-phu-quy-trong-vu-buon-lau-vang-196250214085552966.htm) - 02:40 14/02/2025
+- 🤡 [Sanofi Việt Nam lập &quot;cú đúp&quot; chứng nhận quốc tế](https://diaoc.nld.com.vn/sanofi-viet-nam-lap-cu-dup-chung-nhan-quoc-te-196250214092728479.htm) - 02:33 14/02/2025
+- 🚦 [Sau Tết, nhu cầu chuyển phát giao nhanh và đúng hẹn vẫn cao](https://phunu.nld.com.vn/sau-tet-nhu-cau-chuyen-phat-giao-nhanh-va-dung-hen-van-cao-19625021409300707.htm) - 02:32 14/02/2025
+- 🪜 [Chính phủ Nhật Bản sẽ áp dụng trần phí đối với lao động nước ngoài sang làm việc](https://nld.com.vn/chinh-phu-nhat-ban-se-ap-dung-tran-phi-doi-voi-lao-dong-nuoc-ngoai-sang-lam-viec-196250214091442361.htm) - 02:21 14/02/2025
+- 💫 [Tổng thống Trump trấn an Ukraine về mối lo &quot;thỏa thuận sau lưng&quot; với Nga](https://nld.com.vn/tong-thong-trump-tran-an-ukraine-ve-moi-lo-thoa-thuan-sau-lung-voi-nga-196250214084051311.htm) - 02:18 14/02/2025
+- 🔭 [Quảng Bình: Chủ nhiệm Ủy ban Kiểm tra huyện Lệ Thủy xin nghỉ hưu trước tuổi](https://nld.com.vn/quang-binh-chu-nhiem-uy-ban-kiem-tra-huyen-le-thuy-xin-nghi-huu-truoc-tuoi-196250214085023401.htm) - 02:14 14/02/2025
+- 🌝 [Giá vàng miếng SJC, vàng nhẫn đồng loạt nhảy vọt](https://nld.com.vn/gia-vang-mieng-sjc-vang-nhan-dong-loat-nhay-vot-196250214085515606.htm) - 02:12 14/02/2025
+- 💪 [Soobin Hoàng Sơn nhận ba đề cử giải Cống hiến 2025](https://nld.com.vn/soobin-hoang-son-nhan-ba-de-cu-giai-cong-hien-2025-19625021407471281.htm) - 02:06 14/02/2025
+- 🦍 [Đại sứ Marc E. Knapper: Việc áp thuế của Mỹ không nhắm tới Việt Nam](https://nld.com.vn/dai-su-marc-e-knapper-viec-ap-thue-cua-my-khong-nham-toi-viet-nam-196250214084438962.htm) - 02:05 14/02/2025
+- 🥷 [Rèn luyện sức khỏe với yoga](https://phunu.nld.com.vn/ren-luyen-suc-khoe-voi-yoga-196241016111731949.htm) - 01:58 14/02/2025
+- 🫶 [Ẩn số về những viên gạch xây dựng tháp Chăm](https://diaoc.nld.com.vn/an-so-ve-nhung-vien-gach-xay-dung-thap-cham-196240827155632469.htm) - 01:57 14/02/2025
+- 🐻 [Đề xuất cơ chế chỉ định thầu để làm dự án điện hạt nhân Ninh Thuận](https://nld.com.vn/de-xuat-co-che-chi-dinh-thau-de-lam-du-an-dien-hat-nhan-ninh-thuan-196250214085205418.htm) - 01:55 14/02/2025
+- 🐲 [Giá vé máy bay bao giờ giảm?](https://nld.com.vn/gia-ve-may-bay-bao-gio-giam-196250213205347008.htm) - 01:54 14/02/2025
+- 🧑‍💻 [Mặt sân thi đấu V-League kém chất lượng](https://nld.com.vn/mat-san-thi-dau-v-league-kem-chat-luong-19625021320430042.htm) - 01:54 14/02/2025
+- 🎬 [Đầu năm, giá hàng hóa vẫn cao](https://nld.com.vn/dau-nam-gia-hang-hoa-van-cao-19625021320580468.htm) - 01:53 14/02/2025
+- 👀 [Antony tạo cảm hứng, Real Betis thắng tưng bừng Conference League](https://nld.com.vn/antony-tao-cam-hung-real-betis-thang-tung-bung-conference-league-196250214073915877.htm) - 01:51 14/02/2025
+- 👍 [Tháo gỡ điểm nghẽn, phát triển hạ tầng](https://nld.com.vn/thao-go-diem-nghen-phat-trien-ha-tang-196250213212909738.htm) - 01:49 14/02/2025
+- 🦅 [Trương Học Hữu nợ 7.000 tỉ đồng](https://nld.com.vn/truong-hoc-huu-no-7000-ti-dong-196250214082543452.htm) - 01:48 14/02/2025
+- 🦏 [Tâm điểm trên sân Thống Nhất](https://nld.com.vn/tam-diem-tren-san-thong-nhat-196250213203339967.htm) - 01:37 14/02/2025
+- 🗽 [Nhạc sĩ Trần Xuân Mai Trâm: &quot;Hát về thành phố tôi yêu&quot; tràn đầy cảm xúc](https://nld.com.vn/nhac-si-tran-xuan-mai-tram-hat-ve-thanh-pho-toi-yeu-tran-day-cam-xuc-196250213204909102.htm) - 01:34 14/02/2025
+- 🔭 [An tâm làm việc, gắn bó](https://nld.com.vn/an-tam-lam-viec-gan-bo-196250213184423961.htm) - 01:29 14/02/2025
+- 👍 [Nâng công suất khai thác vật liệu san lấp](https://nld.com.vn/nang-cong-suat-khai-thac-vat-lieu-san-lap-196250213214007868.htm) - 01:28 14/02/2025
+- ⛽️ [Nhìn lại bóng đá Việt từ ASEAN Cup 2024: Cần một kế hoạch phát triển căn cơ](https://nld.com.vn/nhin-lai-bong-da-viet-tu-asean-cup-2024-can-mot-ke-hoach-phat-trien-can-co-196250212202441904.htm) - 01:26 14/02/2025
+- 🥸 [Sớm khắc phục tình trạng ngập sâu sau mưa](https://nld.com.vn/som-khac-phuc-tinh-trang-ngap-sau-sau-mua-196250213205659903.htm) - 01:23 14/02/2025
+- 🌁 [Cận cảnh khu đất giá khởi điểm 900 tỉ nằm trên con đường &quot;đắt đỏ&quot; nhất Đà Nẵng](https://nld.com.vn/can-canh-khu-dat-gia-khoi-diem-900-ti-nam-tren-con-duong-dat-do-nhat-da-nang-196250214080319982.htm) - 01:20 14/02/2025
+- 🌮 [Từ TikToker triệu view đến trùm lừa đảo ngàn tỉ](https://nld.com.vn/tu-tiktoker-trieu-view-den-trum-lua-dao-ngan-ti-196250213205554649.htm) - 01:20 14/02/2025
+- 🎉 [Giá cà phê hôm nay 14-2:  Đỉnh điểm &quot;100 năm mới có 1 lần&quot;](https://nld.com.vn/gia-ca-phe-hom-nay-13-2-dinh-diem-100-nam-moi-co-1-lan-196250214080144749.htm) - 01:16 14/02/2025
+- 🤔 [Giá vàng hôm nay, 14-2: Tăng rất mạnh](https://nld.com.vn/gia-vang-hom-nay-13-2-tang-rat-manh-196250214064629461.htm) - 01:04 14/02/2025
+- 🐘 [Biến hạ tầng giao thông cũ thành không gian xanh](https://nld.com.vn/bien-ha-tang-giao-thong-cu-thanh-khong-gian-xanh-196250213205112791.htm) - 01:04 14/02/2025
+- 🙉 [Tổng thống Trump công bố kế hoạch thuế đối ứng, Đông Nam Á có thể bị ảnh hưởng mạnh](https://nld.com.vn/tong-thong-trump-cong-bo-ke-hoach-thue-doi-ung-dong-nam-a-co-the-bi-anh-huong-manh-196250214071410013.htm) - 01:03 14/02/2025
+- 🐵 [Tàu sân bay hạt nhân Mỹ va chạm tàu hàng](https://nld.com.vn/tau-san-bay-hat-nhan-my-va-cham-tau-hang-196250214072516093.htm) - 01:02 14/02/2025
+- 🙉 [EVN vào tốp đầu về chuyển đổi số](https://thitruong.nld.com.vn/evn-vao-top-dau-ve-chuyen-doi-so-1962502131546289.htm) - 01:02 14/02/2025
+- 💪 [Hút khách du lịch siêu giàu](https://nld.com.vn/hut-khach-du-lich-sieu-giau-196250213190048039.htm) - 01:00 14/02/2025
+- ⛽️ [Tổng đài thông minh không phím bấm: Bước đột phá của LPBank trong kỷ nguyên số](https://nld.com.vn/tong-dai-thong-minh-khong-phim-bam-buoc-dot-pha-cua-lpbank-trong-ky-nguyen-so-196250213164423433.htm) - 01:00 14/02/2025
+- 👺 [Mỹ đổi chính sách về Ukraine](https://nld.com.vn/my-doi-chinh-sach-ve-ukraine-196250213210130055.htm) - 00:59 14/02/2025
+- 🧠 [Nữ bác sĩ luôn &quot;chiến đấu&quot; đến cùng với bệnh tật](https://nld.com.vn/nu-bac-si-luon-chien-dau-den-cung-voi-benh-tat-196250213202756639.htm) - 00:59 14/02/2025
+- 🔭 [Kiên Giang tăng cường thu hút du khách](https://nld.com.vn/kien-giang-tang-cuong-thu-hut-du-khach-196250213205509462.htm) - 00:57 14/02/2025
+- 🦣 [Dựng vành đai xanh ven biển](https://nld.com.vn/dung-vanh-dai-xanh-ven-bien-196250213204927321.htm) - 00:57 14/02/2025
+- 🔥 [Cạnh tranh nhân lực công nghệ khốc liệt](https://nld.com.vn/canh-tranh-nhan-luc-cong-nghe-khoc-liet-196250213184553411.htm) - 00:51 14/02/2025
+- 🌝 [8 ứng viên vòng play-off Champions League](https://nld.com.vn/8-ung-vien-vong-play-off-champions-league-196250213203120577.htm) - 00:48 14/02/2025
+- 👍 [TP HCM cải thiện tình trạng thiếu thuốc, bác sĩ](https://nld.com.vn/tp-hcm-cai-thien-tinh-trang-thieu-thuoc-bac-si-19625021321410404.htm) - 00:47 14/02/2025
+- 💂 [Cảnh báo lừa đảo chi trả truy thu BHXH](https://nld.com.vn/canh-bao-lua-dao-chi-tra-truy-thu-bhxh-1962502140740289.htm) - 00:46 14/02/2025
+- 🤖 [Phim Việt hấp dẫn ở khung giờ mới trên VTV3](https://nld.com.vn/phim-viet-hap-dan-o-khung-gio-moi-tren-vtv3-19625021320444601.htm) - 00:44 14/02/2025<!-- nld:END -->
 
 ## Báo SGGP
 <!-- sggp:START -->
