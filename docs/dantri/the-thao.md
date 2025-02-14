@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Chelsea bị Brighton đè bẹp tại sân vận động Amex](https://dantri.com.vn/the-thao/chelsea-bi-brighton-de-bep-tai-san-van-dong-amex-20250215045946252.htm) - 22:00 14/02/2025
+- 🎡 [Chelsea bị Brighton vùi dập tại sân vận động Amex](https://dantri.com.vn/the-thao/chelsea-bi-brighton-vui-dap-tai-san-van-dong-amex-20250215045946252.htm) - 22:00 14/02/2025
 - 💯 [HLV Popov nhận thẻ đỏ ở sân Thống Nhất, VAR hỏng ở trận Thể Công - Đà Nẵng](https://dantri.com.vn/the-thao/hlv-popov-nhan-the-do-o-san-thong-nhat-var-hong-o-tran-the-cong-da-nang-20250214214348875.htm) - 14:59 14/02/2025
 - ⛽️ [Ngôi sao 77 triệu euro đá như lên đồng, khiến C.Ronaldo bị lu mờ](https://dantri.com.vn/the-thao/ngoi-sao-77-trieu-euro-da-nhu-len-dong-khien-cronaldo-bi-lu-mo-20250214201359833.htm) - 13:14 14/02/2025
 - 💃 [Ký siêu hợp đồng, Văn Quyết nhận lót tay lớn nhất lịch sử bóng đá Việt Nam](https://dantri.com.vn/the-thao/ky-sieu-hop-dong-van-quyet-nhan-lot-tay-lon-nhat-lich-su-bong-da-viet-nam-20250214194502353.htm) - 13:03 14/02/2025
