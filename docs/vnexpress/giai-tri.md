@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Triển lãm tranh vua Hàm Nghi tại Đại nội Huế](https://vnexpress.net/trien-lam-tranh-vua-ham-nghi-tai-dai-noi-hue-4849599.html) - 21:00 14/02/2025
-- 💫 [Phan Mạnh Quỳnh: &#39;Tôi và vợ không giận nhau quá một ngày&#39;](https://vnexpress.net/phan-manh-quynh-toi-va-vo-khong-gian-nhau-qua-mot-ngay-4848559.html) - 17:00 14/02/2025
-- 🌮 [Hồng Nhung hát tặng khán giả sau thời gian trị ung thư](https://vnexpress.net/hong-nhung-hat-tang-khan-gia-sau-thoi-gian-tri-ung-thu-4849713.html) - 14:24 14/02/2025
-- 🧠 [Sao Việt đón Valentine](https://vnexpress.net/sao-viet-don-valentine-4849596.html) - 13:33 14/02/2025
-- 👨‍🏫 [Ngọc Hân hạnh phúc khi mang thai con đầu lòng](https://vnexpress.net/ngoc-han-hanh-phuc-khi-mang-thai-con-dau-long-4849666.html) - 13:26 14/02/2025
-- ⚗️ [&#39;Còn tuổi nào cho em&#39; - tình ca Trịnh Công Sơn gửi Dao Ánh](https://vnexpress.net/con-tuoi-nao-cho-em-tinh-ca-trinh-cong-son-gui-dao-anh-4849575.html) - 12:04 14/02/2025
-- 😎 [Quan Kế Huy cảm ơn vợ &#39;đồng cam cộng khổ&#39;](https://vnexpress.net/quan-ke-huy-cam-on-vo-dong-cam-cong-kho-4849352.html) - 09:37 14/02/2025
-- 🫣 [Hồ Quỳnh Hương hát về tình yêu](https://vnexpress.net/ho-quynh-huong-hat-ve-tinh-yeu-4849408.html) - 09:20 14/02/2025
-- 🪄 [Phương Trinh Jolie mừng đầy tháng con trai](https://vnexpress.net/phuong-trinh-jolie-mung-day-thang-con-trai-4849169.html) - 09:06 14/02/2025
-- 🤓 [&#39;Bí kíp luyện rồng&#39; bản người đóng tung trailer](https://vnexpress.net/bi-kip-luyen-rong-ban-nguoi-dong-tung-trailer-4849415.html) - 08:12 14/02/2025
-- 🫶 [Trắc nghiệm về những chuyện tình kinh điển trong văn chương](https://vnexpress.net/trac-nghiem-ve-nhung-chuyen-tinh-kinh-dien-trong-van-chuong-4849265.html) - 07:23 14/02/2025
-- 🧑‍🏫 [Thời trang sánh đôi của vợ chồng Đỗ Mỹ Linh](https://vnexpress.net/thoi-trang-sanh-doi-cua-vo-chong-do-my-linh-4849424.html) - 05:25 14/02/2025
-- 🦄 [Ariana Grande diện váy hoa lan của Trần Hùng](https://vnexpress.net/ariana-grande-dien-vay-hoa-lan-cua-tran-hung-4849461.html) - 05:24 14/02/2025
-- 💫 [10 ý tưởng chọn trang phục hẹn hò ngày Valentine](https://vnexpress.net/10-y-tuong-chon-trang-phuc-hen-ho-ngay-valentine-4849022.html) - 04:39 14/02/2025
-- 🎊 [Diễn viên &#39;Chân Hoàn truyện&#39; bị bắt](https://vnexpress.net/dien-vien-chan-hoan-truyen-bi-bat-4849458.html) - 04:37 14/02/2025
-- 👹 [Cuộc hôn nhân ngọt ngào của William Shakespeare](https://vnexpress.net/cuoc-hon-nhan-ngot-ngao-cua-william-shakespeare-4849247.html) - 04:10 14/02/2025
-- 💻 [Phạm Băng Băng khoe sắc ở LHP Berlin 2025](https://vnexpress.net/pham-bang-bang-khoe-sac-o-lhp-berlin-2025-4849386.html) - 03:28 14/02/2025
-- 🤡 [&#39;Na Tra 2&#39; - cột mốc lịch sử điện ảnh Trung Quốc](https://vnexpress.net/na-tra-2-cot-moc-lich-su-dien-anh-trung-quoc-4849366.html) - 03:27 14/02/2025
-- 🥰 [Tùng Dương cạnh tranh Soobin, Sơn Tùng M-TP](https://vnexpress.net/tung-duong-canh-tranh-soobin-son-tung-m-tp-4849244.html) - 02:10 14/02/2025
-- 🚀 [H&#39;Hen Niê đăng ký kết hôn](https://vnexpress.net/h-hen-nie-dang-ky-ket-hon-4849355.html) - 01:46 14/02/2025
-- 📝 [Hàng nghìn nghệ sĩ kêu gọi hủy đấu giá tranh AI](https://vnexpress.net/hang-nghin-nghe-si-keu-goi-huy-dau-gia-tranh-ai-4848930.html) - 23:00 13/02/2025
-- 🐲 [Hoa lá bốn mùa qua tranh sơn dầu](https://vnexpress.net/hoa-la-bon-mua-qua-tranh-son-dau-4849018.html) - 23:00 13/02/2025
-- 🎃 [Hoàng Mỹ An ra nhạc Valentine](https://vnexpress.net/hoang-my-an-ra-nhac-valentine-4846888.html) - 22:00 13/02/2025
-- 🤠 [Châu Bùi: &#39;Tôi yêu Binz ở những điều nhỏ bé&#39;](https://vnexpress.net/chau-bui-toi-yeu-binz-o-nhung-dieu-nho-be-4848611.html) - 17:00 13/02/2025
-- 🎭 [10 phim lãng mạn dành cho lễ Tình nhân](https://vnexpress.net/10-phim-lang-man-danh-cho-le-tinh-nhan-4848987.html) - 12:30 13/02/2025
-- 🧰 [Người mẫu Phương Mai nộp đơn ly dị](https://vnexpress.net/nguoi-mau-phuong-mai-nop-don-ly-di-4848967.html) - 09:25 13/02/2025
-- 🦍 [Scarlett Johansson kêu gọi ban hành luật về AI](https://vnexpress.net/scarlett-johansson-keu-goi-ban-hanh-luat-ve-ai-4849076.html) - 09:14 13/02/2025
-- 🌝 [&#39;Captain America 4&#39; gây ấn tượng với dàn nhân vật chính](https://vnexpress.net/captain-america-4-gay-an-tuong-voi-dan-nhan-vat-chinh-4848900.html) - 08:10 13/02/2025
-- 🧑‍💻 [Chi Bảo, Trương Ngọc Ánh thi đấu pickleball](https://vnexpress.net/chi-bao-truong-ngoc-anh-thi-dau-pickleball-4849079.html) - 06:25 13/02/2025
-- 🥸 [Tài tử &#39;Cá mực hầm mật&#39; bị bắt](https://vnexpress.net/tai-tu-ca-muc-ham-mat-bi-bat-4849078.html) - 06:16 13/02/2025
-- 🔥 [Ngày thơ 2025 - Ninh Bình thiếu hoạt động, TP HCM nhộn nhịp](https://vnexpress.net/ngay-tho-2025-ninh-binh-thieu-hoat-dong-tp-hcm-nhon-nhip-4848891.html) - 05:37 13/02/2025
-- 🐎 [Con trai cao 1,74 m của Lệ Quyên](https://vnexpress.net/con-trai-cao-1-74-m-cua-le-quyen-4847532.html) - 02:58 13/02/2025
-- 😎 [Ba bộ váy cưới của bạn đời Vũ Cát Tường](https://vnexpress.net/ba-bo-vay-cuoi-cua-ban-doi-vu-cat-tuong-4848325.html) - 23:56 12/02/2025
-- 🦄 [Nhà thơ kể chuyện &#39;vượt Trường Sơn tìm chồng&#39;](https://vnexpress.net/nha-tho-ke-chuyen-vuot-truong-son-tim-chong-4848622.html) - 23:00 12/02/2025
-- 🌜 [Rosé tạo sức hút với 10 kiểu phối áo khoác đường phố](https://vnexpress.net/rose-tao-suc-hut-voi-10-kieu-phoi-ao-khoac-duong-pho-4848518.html) - 22:00 12/02/2025
-- 🚦 [Phật giáo thời Trần: &#39;Ở đời vui đạo hãy tùy duyên&#39;](https://vnexpress.net/phat-giao-thoi-tran-o-doi-vui-dao-hay-tuy-duyen-4847966.html) - 20:00 12/02/2025
-- 🧐 [Ngọc Châu: &#39;Tôi làm 10 đồng chỉ tiêu 2&#39;](https://vnexpress.net/ngoc-chau-toi-lam-10-dong-chi-tieu-2-4842557.html) - 17:00 12/02/2025
-- 🐵 [Khoảnh khắc đẹp trong lễ thành đôi của Vũ Cát Tường](https://vnexpress.net/khoanh-khac-dep-trong-le-thanh-doi-cua-vu-cat-tuong-4848326.html) - 15:44 12/02/2025
-- ⚗️ [Phương Uyên, Thanh Hà dự tiệc cưới Vũ Cát Tường](https://vnexpress.net/phuong-uyen-thanh-ha-du-tiec-cuoi-vu-cat-tuong-4848814.html) - 12:47 12/02/2025
-- 👺 [Hôn lễ của Vũ Cát Tường](https://vnexpress.net/hon-le-cua-vu-cat-tuong-4848318.html) - 10:30 12/02/2025
-- 🌊 [&#39;Thơ ngày nay xa rời hiện thực&#39;](https://vnexpress.net/tho-ngay-nay-xa-roi-hien-thuc-4848636.html) - 09:44 12/02/2025
-- 🪜 [Không gian lễ cưới của Vũ Cát Tường](https://vnexpress.net/khong-gian-le-cuoi-cua-vu-cat-tuong-4848546.html) - 08:13 12/02/2025
-- 🕴 [&#39;Made in Sài Gòn&#39; thời vang bóng](https://vnexpress.net/made-in-sai-gon-thoi-vang-bong-4847230.html) - 07:22 12/02/2025
-- 💃 [Tuấn Khôi - nhiếp ảnh gia sắp cưới H&#39;Hen Niê](https://vnexpress.net/tuan-khoi-nhiep-anh-gia-sap-cuoi-h-hen-nie-4848466.html) - 05:08 12/02/2025
-- 🦄 [Rapper Kanye West bị loại khỏi công ty](https://vnexpress.net/rapper-kanye-west-bi-loai-khoi-cong-ty-4848515.html) - 05:03 12/02/2025
-- ⛽️ [Phát hiện chân dung cô gái bí ẩn dưới tranh Picasso](https://vnexpress.net/phat-hien-chan-dung-co-gai-bi-an-duoi-tranh-picasso-4848193.html) - 04:49 12/02/2025
-- 😎 [7 mốt quần hot nhất năm 2025](https://vnexpress.net/7-mot-quan-hot-nhat-nam-2025-4848061.html) - 04:24 12/02/2025
-- 🌊 [Vòng tay Na Tra &#39;cháy&#39; hàng](https://vnexpress.net/vong-tay-na-tra-chay-hang-4848451.html) - 03:08 12/02/2025
-- 🐲 [Trấn Thành, Lê Tuấn Khang góp mặt trong MV của Đức Phúc](https://vnexpress.net/tran-thanh-le-tuan-khang-gop-mat-trong-mv-cua-duc-phuc-4848240.html) - 02:50 12/02/2025
-- 💂 [Bộ sưu tập lấy cảm hứng từ gai hoa hồng](https://vnexpress.net/bo-suu-tap-lay-cam-hung-tu-gai-hoa-hong-4847775.html) - 02:38 12/02/2025
-- 🙉 [Loạt lùm xùm trước thềm Oscar 2025](https://vnexpress.net/loat-lum-xum-truoc-them-oscar-2025-4847994.html) - 22:00 11/02/2025
-- 💪 [&#39;Đèn âm hồn&#39; - nội dung rời rạc, diễn xuất hạn chế](https://vnexpress.net/giai-tri/phim/thu-vien-phim/den-am-hon-770) - 17:00 11/02/2025
-- 👍 [Thanh Lam cover nhạc phim &#39;Bộ tứ báo thủ&#39;](https://vnexpress.net/thanh-lam-cover-nhac-phim-bo-tu-bao-thu-4848119.html) - 12:00 11/02/2025
-- 💪 [Nhà văn Phan Thị Vàng Anh tái xuất](https://vnexpress.net/nha-van-phan-thi-vang-anh-tai-xuat-4848212.html) - 09:04 11/02/2025
-- 💄 [Hà Phương làm show nhạc, kịch về chuyện tình của bố mẹ](https://vnexpress.net/ha-phuong-lam-show-nhac-kich-ve-chuyen-tinh-cua-bo-me-4844952.html) - 08:51 11/02/2025
-- 🦩 [&#39;Hoàng tử lofi&#39; gốc Việt làm concert tại TP HCM](https://vnexpress.net/hoang-tu-lofi-goc-viet-lam-concert-tai-tp-hcm-4847671.html) - 08:32 11/02/2025
-- 🥸 [H&#39;Hen Niê nhận lời cầu hôn](https://vnexpress.net/h-hen-nie-nhan-loi-cau-hon-4848156.html) - 05:46 11/02/2025
-- 🧰 [Lisa &#39;hóa công chúa&#39; trên thảm đỏ](https://vnexpress.net/lisa-hoa-cong-chua-tren-tham-do-4848091.html) - 04:50 11/02/2025
-- 💼 [&#39;Tiệm ăn của quỷ&#39; - series kinh dị Việt về tâm ác con người](https://vnexpress.net/giai-tri/phim/thu-vien-phim/tiem-an-cua-quy-769) - 03:49 11/02/2025
-- 🧑‍💻 [Ca sĩ Lệ Hải nhập viện mổ não](https://vnexpress.net/ca-si-le-hai-nhap-vien-mo-nao-4848021.html) - 03:42 11/02/2025<!-- vnexpress-giai-tri:END -->
+- 🌏 [&#39;Sạn&#39; trong phim Đèn âm hồn](https://vnexpress.net/san-trong-phim-den-am-hon-4846341.html) - 22:00 14/02/2025
+- 💫 [Triển lãm tranh vua Hàm Nghi tại Đại nội Huế](https://vnexpress.net/trien-lam-tranh-vua-ham-nghi-tai-dai-noi-hue-4849599.html) - 21:00 14/02/2025
+- 🌮 [Phan Mạnh Quỳnh: &#39;Tôi và vợ không giận nhau quá một ngày&#39;](https://vnexpress.net/phan-manh-quynh-toi-va-vo-khong-gian-nhau-qua-mot-ngay-4848559.html) - 17:00 14/02/2025
+- 🧠 [Hồng Nhung hát tặng khán giả sau thời gian trị ung thư](https://vnexpress.net/hong-nhung-hat-tang-khan-gia-sau-thoi-gian-tri-ung-thu-4849713.html) - 14:24 14/02/2025
+- 👨‍🏫 [Sao Việt đón Valentine](https://vnexpress.net/sao-viet-don-valentine-4849596.html) - 13:33 14/02/2025
+- ⚗️ [Ngọc Hân hạnh phúc khi mang thai con đầu lòng](https://vnexpress.net/ngoc-han-hanh-phuc-khi-mang-thai-con-dau-long-4849666.html) - 13:26 14/02/2025
+- 😎 [&#39;Còn tuổi nào cho em&#39; - tình ca Trịnh Công Sơn gửi Dao Ánh](https://vnexpress.net/con-tuoi-nao-cho-em-tinh-ca-trinh-cong-son-gui-dao-anh-4849575.html) - 12:04 14/02/2025
+- 🫣 [Quan Kế Huy cảm ơn vợ &#39;đồng cam cộng khổ&#39;](https://vnexpress.net/quan-ke-huy-cam-on-vo-dong-cam-cong-kho-4849352.html) - 09:37 14/02/2025
+- 🪄 [Hồ Quỳnh Hương hát về tình yêu](https://vnexpress.net/ho-quynh-huong-hat-ve-tinh-yeu-4849408.html) - 09:20 14/02/2025
+- 🤓 [Phương Trinh Jolie mừng đầy tháng con trai](https://vnexpress.net/phuong-trinh-jolie-mung-day-thang-con-trai-4849169.html) - 09:06 14/02/2025
+- 🫶 [&#39;Bí kíp luyện rồng&#39; bản người đóng tung trailer](https://vnexpress.net/bi-kip-luyen-rong-ban-nguoi-dong-tung-trailer-4849415.html) - 08:12 14/02/2025
+- 🧑‍🏫 [Trắc nghiệm về những chuyện tình kinh điển trong văn chương](https://vnexpress.net/trac-nghiem-ve-nhung-chuyen-tinh-kinh-dien-trong-van-chuong-4849265.html) - 07:23 14/02/2025
+- 🦄 [Thời trang sánh đôi của vợ chồng Đỗ Mỹ Linh](https://vnexpress.net/thoi-trang-sanh-doi-cua-vo-chong-do-my-linh-4849424.html) - 05:25 14/02/2025
+- 💫 [Ariana Grande diện váy hoa lan của Trần Hùng](https://vnexpress.net/ariana-grande-dien-vay-hoa-lan-cua-tran-hung-4849461.html) - 05:24 14/02/2025
+- 🎊 [10 ý tưởng chọn trang phục hẹn hò ngày Valentine](https://vnexpress.net/10-y-tuong-chon-trang-phuc-hen-ho-ngay-valentine-4849022.html) - 04:39 14/02/2025
+- 👹 [Diễn viên &#39;Chân Hoàn truyện&#39; bị bắt](https://vnexpress.net/dien-vien-chan-hoan-truyen-bi-bat-4849458.html) - 04:37 14/02/2025
+- 💻 [Cuộc hôn nhân ngọt ngào của William Shakespeare](https://vnexpress.net/cuoc-hon-nhan-ngot-ngao-cua-william-shakespeare-4849247.html) - 04:10 14/02/2025
+- 🤡 [Phạm Băng Băng khoe sắc ở LHP Berlin 2025](https://vnexpress.net/pham-bang-bang-khoe-sac-o-lhp-berlin-2025-4849386.html) - 03:28 14/02/2025
+- 🥰 [&#39;Na Tra 2&#39; - cột mốc lịch sử điện ảnh Trung Quốc](https://vnexpress.net/na-tra-2-cot-moc-lich-su-dien-anh-trung-quoc-4849366.html) - 03:27 14/02/2025
+- 🚀 [Tùng Dương cạnh tranh Soobin, Sơn Tùng M-TP](https://vnexpress.net/tung-duong-canh-tranh-soobin-son-tung-m-tp-4849244.html) - 02:10 14/02/2025
+- 📝 [H&#39;Hen Niê đăng ký kết hôn](https://vnexpress.net/h-hen-nie-dang-ky-ket-hon-4849355.html) - 01:46 14/02/2025
+- 🐲 [Hàng nghìn nghệ sĩ kêu gọi hủy đấu giá tranh AI](https://vnexpress.net/hang-nghin-nghe-si-keu-goi-huy-dau-gia-tranh-ai-4848930.html) - 23:00 13/02/2025
+- 🎃 [Hoa lá bốn mùa qua tranh sơn dầu](https://vnexpress.net/hoa-la-bon-mua-qua-tranh-son-dau-4849018.html) - 23:00 13/02/2025
+- 🤠 [Hoàng Mỹ An ra nhạc Valentine](https://vnexpress.net/hoang-my-an-ra-nhac-valentine-4846888.html) - 22:00 13/02/2025
+- 🎭 [Châu Bùi: &#39;Tôi yêu Binz ở những điều nhỏ bé&#39;](https://vnexpress.net/chau-bui-toi-yeu-binz-o-nhung-dieu-nho-be-4848611.html) - 17:00 13/02/2025
+- 🧰 [10 phim lãng mạn dành cho lễ Tình nhân](https://vnexpress.net/10-phim-lang-man-danh-cho-le-tinh-nhan-4848987.html) - 12:30 13/02/2025
+- 🦍 [Người mẫu Phương Mai nộp đơn ly dị](https://vnexpress.net/nguoi-mau-phuong-mai-nop-don-ly-di-4848967.html) - 09:25 13/02/2025
+- 🌝 [Scarlett Johansson kêu gọi ban hành luật về AI](https://vnexpress.net/scarlett-johansson-keu-goi-ban-hanh-luat-ve-ai-4849076.html) - 09:14 13/02/2025
+- 🧑‍💻 [&#39;Captain America 4&#39; gây ấn tượng với dàn nhân vật chính](https://vnexpress.net/captain-america-4-gay-an-tuong-voi-dan-nhan-vat-chinh-4848900.html) - 08:10 13/02/2025
+- 🥸 [Chi Bảo, Trương Ngọc Ánh thi đấu pickleball](https://vnexpress.net/chi-bao-truong-ngoc-anh-thi-dau-pickleball-4849079.html) - 06:25 13/02/2025
+- 🔥 [Tài tử &#39;Cá mực hầm mật&#39; bị bắt](https://vnexpress.net/tai-tu-ca-muc-ham-mat-bi-bat-4849078.html) - 06:16 13/02/2025
+- 🐎 [Ngày thơ 2025 - Ninh Bình thiếu hoạt động, TP HCM nhộn nhịp](https://vnexpress.net/ngay-tho-2025-ninh-binh-thieu-hoat-dong-tp-hcm-nhon-nhip-4848891.html) - 05:37 13/02/2025
+- 😎 [Con trai cao 1,74 m của Lệ Quyên](https://vnexpress.net/con-trai-cao-1-74-m-cua-le-quyen-4847532.html) - 02:58 13/02/2025
+- 🦄 [Ba bộ váy cưới của bạn đời Vũ Cát Tường](https://vnexpress.net/ba-bo-vay-cuoi-cua-ban-doi-vu-cat-tuong-4848325.html) - 23:56 12/02/2025
+- 🌜 [Nhà thơ kể chuyện &#39;vượt Trường Sơn tìm chồng&#39;](https://vnexpress.net/nha-tho-ke-chuyen-vuot-truong-son-tim-chong-4848622.html) - 23:00 12/02/2025
+- 🚦 [Rosé tạo sức hút với 10 kiểu phối áo khoác đường phố](https://vnexpress.net/rose-tao-suc-hut-voi-10-kieu-phoi-ao-khoac-duong-pho-4848518.html) - 22:00 12/02/2025
+- 🧐 [Phật giáo thời Trần: &#39;Ở đời vui đạo hãy tùy duyên&#39;](https://vnexpress.net/phat-giao-thoi-tran-o-doi-vui-dao-hay-tuy-duyen-4847966.html) - 20:00 12/02/2025
+- 🐵 [Ngọc Châu: &#39;Tôi làm 10 đồng chỉ tiêu 2&#39;](https://vnexpress.net/ngoc-chau-toi-lam-10-dong-chi-tieu-2-4842557.html) - 17:00 12/02/2025
+- ⚗️ [Khoảnh khắc đẹp trong lễ thành đôi của Vũ Cát Tường](https://vnexpress.net/khoanh-khac-dep-trong-le-thanh-doi-cua-vu-cat-tuong-4848326.html) - 15:44 12/02/2025
+- 👺 [Phương Uyên, Thanh Hà dự tiệc cưới Vũ Cát Tường](https://vnexpress.net/phuong-uyen-thanh-ha-du-tiec-cuoi-vu-cat-tuong-4848814.html) - 12:47 12/02/2025
+- 🌊 [Hôn lễ của Vũ Cát Tường](https://vnexpress.net/hon-le-cua-vu-cat-tuong-4848318.html) - 10:30 12/02/2025
+- 🪜 [&#39;Thơ ngày nay xa rời hiện thực&#39;](https://vnexpress.net/tho-ngay-nay-xa-roi-hien-thuc-4848636.html) - 09:44 12/02/2025
+- 🕴 [Không gian lễ cưới của Vũ Cát Tường](https://vnexpress.net/khong-gian-le-cuoi-cua-vu-cat-tuong-4848546.html) - 08:13 12/02/2025
+- 💃 [&#39;Made in Sài Gòn&#39; thời vang bóng](https://vnexpress.net/made-in-sai-gon-thoi-vang-bong-4847230.html) - 07:22 12/02/2025
+- 🦄 [Tuấn Khôi - nhiếp ảnh gia sắp cưới H&#39;Hen Niê](https://vnexpress.net/tuan-khoi-nhiep-anh-gia-sap-cuoi-h-hen-nie-4848466.html) - 05:08 12/02/2025
+- ⛽️ [Rapper Kanye West bị loại khỏi công ty](https://vnexpress.net/rapper-kanye-west-bi-loai-khoi-cong-ty-4848515.html) - 05:03 12/02/2025
+- 😎 [Phát hiện chân dung cô gái bí ẩn dưới tranh Picasso](https://vnexpress.net/phat-hien-chan-dung-co-gai-bi-an-duoi-tranh-picasso-4848193.html) - 04:49 12/02/2025
+- 🌊 [7 mốt quần hot nhất năm 2025](https://vnexpress.net/7-mot-quan-hot-nhat-nam-2025-4848061.html) - 04:24 12/02/2025
+- 🐲 [Vòng tay Na Tra &#39;cháy&#39; hàng](https://vnexpress.net/vong-tay-na-tra-chay-hang-4848451.html) - 03:08 12/02/2025
+- 💂 [Trấn Thành, Lê Tuấn Khang góp mặt trong MV của Đức Phúc](https://vnexpress.net/tran-thanh-le-tuan-khang-gop-mat-trong-mv-cua-duc-phuc-4848240.html) - 02:50 12/02/2025
+- 🙉 [Bộ sưu tập lấy cảm hứng từ gai hoa hồng](https://vnexpress.net/bo-suu-tap-lay-cam-hung-tu-gai-hoa-hong-4847775.html) - 02:38 12/02/2025
+- 💪 [Loạt lùm xùm trước thềm Oscar 2025](https://vnexpress.net/loat-lum-xum-truoc-them-oscar-2025-4847994.html) - 22:00 11/02/2025
+- 👍 [&#39;Đèn âm hồn&#39; - nội dung rời rạc, diễn xuất hạn chế](https://vnexpress.net/giai-tri/phim/thu-vien-phim/den-am-hon-770) - 17:00 11/02/2025
+- 💪 [Thanh Lam cover nhạc phim &#39;Bộ tứ báo thủ&#39;](https://vnexpress.net/thanh-lam-cover-nhac-phim-bo-tu-bao-thu-4848119.html) - 12:00 11/02/2025
+- 💄 [Nhà văn Phan Thị Vàng Anh tái xuất](https://vnexpress.net/nha-van-phan-thi-vang-anh-tai-xuat-4848212.html) - 09:04 11/02/2025
+- 🦩 [Hà Phương làm show nhạc, kịch về chuyện tình của bố mẹ](https://vnexpress.net/ha-phuong-lam-show-nhac-kich-ve-chuyen-tinh-cua-bo-me-4844952.html) - 08:51 11/02/2025
+- 🥸 [&#39;Hoàng tử lofi&#39; gốc Việt làm concert tại TP HCM](https://vnexpress.net/hoang-tu-lofi-goc-viet-lam-concert-tai-tp-hcm-4847671.html) - 08:32 11/02/2025
+- 🧰 [H&#39;Hen Niê nhận lời cầu hôn](https://vnexpress.net/h-hen-nie-nhan-loi-cau-hon-4848156.html) - 05:46 11/02/2025
+- 💼 [Lisa &#39;hóa công chúa&#39; trên thảm đỏ](https://vnexpress.net/lisa-hoa-cong-chua-tren-tham-do-4848091.html) - 04:50 11/02/2025
+- 🧑‍💻 [&#39;Tiệm ăn của quỷ&#39; - series kinh dị Việt về tâm ác con người](https://vnexpress.net/giai-tri/phim/thu-vien-phim/tiem-an-cua-quy-769) - 03:49 11/02/2025<!-- vnexpress-giai-tri:END -->
