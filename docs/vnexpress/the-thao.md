@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [VAR hỏng trong trận Thể Công suýt thua Đà Nẵng tại V-League](https://vnexpress.net/var-hong-trong-tran-the-cong-suyt-thua-da-nang-tai-v-league-4849697.html) - 13:16 14/02/2025
+- 🪜 [VAR hỏng trong trận Thể Công - Đà Nẵng](https://vnexpress.net/var-hong-trong-tran-the-cong-da-nang-4849697.html) - 13:16 14/02/2025
 - 🦩 [Thái Lan và Indonesia thua đậm ở trận ra quân U20 châu Á 2025](https://vnexpress.net/thai-lan-va-indonesia-thua-dam-o-tran-ra-quan-u20-chau-a-2025-4849679.html) - 11:46 14/02/2025
 - 🧰 [HLV Mai Đức Chung nhận danh hiệu Anh hùng lao động](https://vnexpress.net/hlv-mai-duc-chung-nhan-danh-hieu-anh-hung-lao-dong-4849676.html) - 10:34 14/02/2025
 - 🤗 [Man Utd được dự đoán thắng Tottenham ở vòng 25 Ngoại hạng Anh](https://vnexpress.net/man-utd-duoc-du-doan-thang-tottenham-o-vong-25-ngoai-hang-anh-4849523.html) - 09:16 14/02/2025
