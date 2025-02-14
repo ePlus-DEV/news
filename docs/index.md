@@ -146,7 +146,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [&#39;Trọng tài phá nát trận đấu&#39;’](https://thanhnien.vn/trong-tai-pha-nat-tran-dau-185250214221858074.htm) - 15:44 14/02/2025
+- 🤠 [&#39;Trọng tài phá nát trận đấu&#39;](https://thanhnien.vn/trong-tai-pha-nat-tran-dau-185250214221858074.htm) - 15:44 14/02/2025
 - 🥸 [Tài xế xe sang Lexus ngang nhiên đỗ xe giữa đường gây cản trở rồi bỏ đi](https://thanhnien.vn/tai-xe-xe-sang-lexus-ngang-nhien-do-xe-giua-duong-gay-can-tro-roi-bo-di-185250214164223999.htm) - 15:34 14/02/2025
 - 🌁 [Giáo hoàng Francis nhập viện điều trị viêm phế quản](https://thanhnien.vn/giao-hoang-francis-nhap-vien-dieu-tri-viem-phe-quan-185250214220806657.htm) - 15:10 14/02/2025
 - 🤡 [Những chiếc quần crop đa năng tạo phong cách lãng mạn để đi hẹn hò](https://thanhnien.vn/thoi-trang-tre/nhung-chiec-quan-crop-da-nang-tao-phong-cach-lang-man-de-di-hen-ho-185250213163206658.htm) - 15:00 14/02/2025
