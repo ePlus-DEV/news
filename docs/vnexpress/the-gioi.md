@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Tòa yêu cầu chính quyền Trump khôi phục viện trợ nước ngoài](https://vnexpress.net/toa-yeu-cau-chinh-quyen-trump-khoi-phuc-vien-tro-nuoc-ngoai-4849579.html) - 09:13 14/02/2025
-- 🕴 [Mỹ sẵn sàng đưa quân đến Ukraine nếu Nga khước từ hòa đàm](https://vnexpress.net/my-san-sang-dua-quan-den-ukraine-neu-nga-khuoc-tu-hoa-dam-4849592.html) - 08:57 14/02/2025
+- 🕴 [Mỹ xem xét phương án đưa quân đến Ukraine](https://vnexpress.net/my-xem-xet-phuong-an-dua-quan-den-ukraine-4849592.html) - 08:57 14/02/2025
 - 🤭 [Chính quyền Trump sa thải hơn 200.000 nhân viên tập sự](https://vnexpress.net/chinh-quyen-trump-sa-thai-hon-200-000-nhan-vien-tap-su-4849356.html) - 08:25 14/02/2025
 - 🧑‍💻 [Elon Musk đưa bạn gái và ba con tới gặp Thủ tướng Ấn Độ](https://vnexpress.net/elon-musk-dua-ban-gai-va-ba-con-toi-gap-thu-tuong-an-do-4849568.html) - 07:57 14/02/2025
 - 🦏 [Bác sĩ ở New York bị truy nã, phạt tiền vì kê thuốc phá thai](https://vnexpress.net/bac-si-o-new-york-bi-truy-na-phat-tien-vi-ke-thuoc-pha-thai-4849492.html) - 07:47 14/02/2025
