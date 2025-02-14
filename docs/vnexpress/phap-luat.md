@@ -6,14 +6,14 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Cựu giám đốc Trung tâm giới thiệu việc làm ở Hà Nội &#39;chi ít, báo cáo nhiều&#39;](https://vnexpress.net/cuu-giam-doc-trung-tam-gioi-thieu-viec-lam-o-ha-noi-chi-it-bao-cao-nhieu-4849473.html) - 06:20 14/02/2025
 - 🥰 [Bị can đục tường trốn khỏi nhà tạm giữ](https://vnexpress.net/bi-can-duc-tuong-tron-khoi-nha-tam-giu-4849532.html) - 05:58 14/02/2025
-- 🎓 [Ba người chặn xe, kề dao vào cổ cô gái cướp tài sản](https://video.vnexpress.net/ba-nguoi-chan-xe-ke-dao-vao-co-co-gai-cuop-tai-san-4848860.html) - 05:06 14/02/2025
+- 🎓 [Lời khai nhóm chặn xe, kề dao vào cổ cô gái cướp tài sản](https://video.vnexpress.net/loi-khai-nhom-chan-xe-ke-dao-vao-co-co-gai-cuop-tai-san-4848860.html) - 05:06 14/02/2025
 - 🤓 [Người bị đánh trước Bệnh viện Từ Dũ đòi bồi thường 250 triệu đồng](https://vnexpress.net/nguoi-bi-danh-truoc-benh-vien-tu-du-doi-boi-thuong-250-trieu-dong-4849485.html) - 05:01 14/02/2025
 - 🎊 [5 giờ đột nhập nhà lãnh đạo HĐND khống chế con tin, cướp tài sản](https://vnexpress.net/5-gio-dot-nhap-nha-lanh-dao-hdnd-khong-che-con-tin-cuop-tai-san-4849277.html) - 04:39 14/02/2025
 - 🙉 [Tài xế hành hung nam shipper ở Hà Nội bị khởi tố](https://vnexpress.net/tai-xe-hanh-hung-nam-shipper-o-ha-noi-bi-khoi-to-4849481.html) - 04:19 14/02/2025
 - 🤡 [Ba thiếu niên dí dao vào cổ người đi đường, cướp tài sản](https://vnexpress.net/ba-thieu-nien-di-dao-vao-co-nguoi-di-duong-cuop-tai-san-4849426.html) - 03:30 14/02/2025
 - 🗽 [Khoảnh khắc nhóm lừa đảo hàng trăm tỷ đồng bị bắt giữ ở sân bay](https://video.vnexpress.net/khoanh-khac-nhom-lua-dao-hang-tram-ty-dong-bi-bat-giu-o-san-bay-4849302.html) - 02:37 14/02/2025
 - 🌋 [Chủ tịch Vàng Phú Quý bỏ ngoài sổ sách hơn 2.090 tỷ đồng doanh thu](https://vnexpress.net/chu-tich-vang-phu-quy-bo-ngoai-so-sach-hon-2-090-ty-dong-doanh-thu-4849377.html) - 02:26 14/02/2025
-- 🎬 [Cựu vệ sĩ của tay đua vô địch Michael Schumacher tống tiền chủ](https://vnexpress.net/cuu-ve-si-cua-tay-dua-vo-dich-michael-schumacher-tong-tien-chu-4849308.html) - 00:37 14/02/2025
+- 🎬 [Tay đua F1 Michael Schumacher bị vệ sĩ cũ tống tiền](https://vnexpress.net/cuu-ve-si-cua-tay-dua-vo-dich-michael-schumacher-tong-tien-chu-4849308.html) - 00:37 14/02/2025
 - 💯 [Thuê người lái khi say, chủ xe có phải bồi thường nếu có tai nạn?](https://vnexpress.net/thue-nguoi-lai-khi-say-chu-xe-co-phai-boi-thuong-neu-co-tai-nan-4847683.html) - 22:00 13/02/2025
 - 🌏 [Hai lần đầu độc chồng của người đàn bà bạc tình](https://vnexpress.net/hai-lan-dau-doc-chong-cua-nguoi-dan-ba-bac-tinh-4849236.html) - 17:01 13/02/2025
 - 🌊 [Người livestream khóc &#39;bị móc túi trước cổng bệnh viện&#39; là sai sự thật](https://vnexpress.net/nguoi-livestream-khoc-bi-moc-tui-truoc-cong-benh-vien-la-sai-su-that-4849283.html) - 14:49 13/02/2025
