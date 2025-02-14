@@ -1,11 +1,7 @@
 ---
 slug: first-blog-post
 title: First Blog Post
-authors:
-  name: David Nguyen
-  title: CEO
-  url: https://github.com/hoangsvit
-  image_url: https://github.com/hoangsvit.png
+authors: david
 tags: [hola, docusaurus]
 ---
 
