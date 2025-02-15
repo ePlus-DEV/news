@@ -5,7 +5,7 @@ sidebar_position: 6
 
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Cô gái viết 200 lá thư gửi người yêu đi nghĩa vụ](https://vnexpress.net/co-gai-viet-200-la-thu-gui-nguoi-yeu-di-nghia-vu-4842751.html) - 23:28 14/02/2025
-- 🎓 [Người phụ nữ nông dân dựng nên &#39;đế chế tỷ đô&#39;](https://vnexpress.net/nguoi-phu-nu-nong-dan-dung-nen-de-che-ty-do-4849289.html) - 23:00 14/02/2025
+- 🎓 [Người phụ nữ dựng nên &#39;đế chế tỷ đô&#39; từ tương ớt](https://vnexpress.net/nguoi-phu-nu-dung-nen-de-che-ty-do-tu-tuong-ot-4849289.html) - 23:00 14/02/2025
 - 🚦 [Chuyện tình của chàng trai ghép mặt và nữ y tá xinh đẹp](https://vnexpress.net/chuyen-tinh-cua-chang-trai-ghep-mat-va-nu-y-ta-xinh-dep-4849208.html) - 07:27 14/02/2025
 - 🦣 [Viết tên người yêu cũ lên bánh cho sói ăn ngày Valentine](https://vnexpress.net/viet-ten-nguoi-yeu-cu-len-banh-cho-soi-an-ngay-valentine-4849480.html) - 06:48 14/02/2025
 - 🎓 [Phụ nữ Nhật Bản tránh né tình dục](https://vnexpress.net/phu-nu-nhat-ban-tranh-ne-tinh-duc-4849454.html) - 04:27 14/02/2025
