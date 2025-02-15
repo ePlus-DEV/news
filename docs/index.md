@@ -589,7 +589,7 @@ lạc hậu, giá rẻ](https://nld.com.vn/tong-bi-thu-to-lam-luu-y-ve-vet-xe-do
 - 💼 [17 tỷ đồng gia cố di tích Hòn Vọng Phu](https://tienphong.vn/17-ty-dong-gia-co-di-tich-hon-vong-phu-post1717371.tpo) - 21:45 15/02/2025
 - 👺 [HIGHLIGHTS CAHN 4-4 Quảng Nam: Đại tiệc hấp dẫn, kịch tính và no nê bàn thắng](https://tienphong.vn/highlights-cahn-4-4-quang-nam-dai-tiec-hap-dan-kich-tinh-va-no-ne-ban-thang-post1717418.tpo) - 21:38 15/02/2025
 - 💪 [Showbiz 15/2: Thanh Hương phủ nhận lấy chồng lần 2](https://tienphong.vn/showbiz-152-thanh-huong-phu-nhan-lay-chong-lan-2-post1717413.tpo) - 21:23 15/02/2025
-- 💃 [Trực tiếp Man City vs Newcastle 3-0 &lpar;H2&rpar;: Hiệp 2 bắt đầu](https://tienphong.vn/truc-tiep-man-city-vs-newcastle-3-0-h2-hiep-2-bat-dau-post1717411.tpo) - 21:15 15/02/2025
+- 💃 [Trực tiếp Man City vs Newcastle 3-0 &lpar;H2&rpar;: Trận đấu chậm nhịp](https://tienphong.vn/truc-tiep-man-city-vs-newcastle-3-0-h2-tran-dau-cham-nhip-post1717411.tpo) - 21:15 15/02/2025
 - 🦍 [Bộ trưởng Giao thông nói về chính sách &#39;miễn trừ trách nhiệm&#39; dễ gây hiểu nhầm](https://tienphong.vn/bo-truong-giao-thong-noi-ve-chinh-sach-mien-tru-trach-nhiem-de-gay-hieu-nham-post1717410.tpo) - 20:55 15/02/2025
 - 👹 [Khánh thành tượng đài Anh hùng Kim Đồng ở TP Hải Phòng](https://tienphong.vn/khanh-thanh-tuong-dai-anh-hung-kim-dong-o-tp-hai-phong-post1717385.tpo) - 20:21 15/02/2025
 - 🌜 [Lisa &lpar;BlackPink&rpar; và bạn trai Pháp gây sốt](https://tienphong.vn/lisa-blackpink-va-ban-trai-phap-gay-sot-post1717335.tpo) - 20:19 15/02/2025
