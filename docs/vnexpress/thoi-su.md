@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Chuyên gia: Cần chuẩn hóa, kiểm định thiết bị giám sát hành trình](https://vnexpress.net/chuyen-gia-can-chuan-hoa-kiem-dinh-thiet-bi-giam-sat-hanh-trinh-4849673.html) - 10:29 15/02/2025
+- 🦒 [Chuyên gia: Cần chuẩn hóa thiết bị giám sát hành trình](https://vnexpress.net/chuyen-gia-can-chuan-hoa-thiet-bi-giam-sat-hanh-trinh-4849673.html) - 10:29 15/02/2025
 - 🤓 [&#39;Cần chuyển từ lương tối thiểu sang lương đủ sống tối thiểu để duy trì mức sinh&#39;](https://vnexpress.net/can-chuyen-tu-luong-toi-thieu-sang-luong-du-song-toi-thieu-de-duy-tri-muc-sinh-4849923.html) - 09:13 15/02/2025
 - ⚗️ [Chủ tịch nước cày ruộng trong lễ xuống đồng của người Mường](https://vnexpress.net/chu-tich-nuoc-cay-ruong-trong-le-xuong-dong-cua-nguoi-muong-4849913.html) - 08:38 15/02/2025
 - 🌊 [Hai bà cháu bị ôtô 5 chỗ tông tử vong](https://vnexpress.net/hai-ba-chau-bi-oto-5-cho-tong-tu-vong-4849927.html) - 08:38 15/02/2025
