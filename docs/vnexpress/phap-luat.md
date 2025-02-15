@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Dựng chuyện bị bắt cóc để chiếm đoạt tiền của vợ](https://vnexpress.net/dung-chuyen-bi-bat-coc-de-chiem-doat-tien-cua-vo-4849940.html) - 10:49 15/02/2025
-- 🥰 [Nhóm gọi điện thoại từ Campuchia lừa hàng nghìn tỷ đồng bị bắt](https://vnexpress.net/nhom-goi-dien-thoai-tu-campuchia-lua-hang-nghin-ty-dong-bi-bat-4849820.html) - 08:44 15/02/2025
+- 🥰 [24 người bị bắt vì gọi điện từ Campuchia lừa hàng nghìn tỷ đồng](https://vnexpress.net/nhom-goi-dien-thoai-tu-campuchia-lua-hang-nghin-ty-dong-bi-bat-4849820.html) - 08:44 15/02/2025
 - 🎓 [Nghi can sát hại tài xế công nghệ, cướp xe SH bị bắt](https://vnexpress.net/nghi-can-sat-hai-tai-xe-cong-nghe-cuop-xe-sh-bi-bat-4849682.html) - 06:46 15/02/2025
 - 🤓 [&#39;Chiêu dại&#39; khi xin nghỉ việc vì thất tình](https://vnexpress.net/chieu-dai-khi-xin-nghi-viec-vi-that-tinh-4849736.html) - 06:44 15/02/2025
 - 🎊 [Bị đánh nhập viện sau va chạm giao thông](https://vnexpress.net/bi-danh-nhap-vien-sau-va-cham-giao-thong-4849885.html) - 06:31 15/02/2025
