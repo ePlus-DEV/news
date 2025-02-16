@@ -597,7 +597,7 @@ lạc hậu, giá rẻ](https://nld.com.vn/tong-bi-thu-to-lam-luu-y-ve-vet-xe-do
 - 🦍 [Rô cố đô](https://tienphong.vn/ro-co-do-post1717398.tpo) - 06:30 16/02/2025
 - 👹 [Cuộc đua AI giữa Trung Quốc và Mỹ](https://tienphong.vn/cuoc-dua-ai-giua-trung-quoc-va-my-post1717407.tpo) - 06:28 16/02/2025
 - 🌜 [Ông Vương Nghị: Trung Quốc không muốn xung đột với Mỹ](https://tienphong.vn/ong-vuong-nghi-trung-quoc-khong-muon-xung-dot-voi-my-post1717405.tpo) - 06:23 16/02/2025
-- 🎓 [Xung đột Nga - Ukraine ngày: Nga giành thêm sáu khu định cư ở Donetsk chỉ trong một tuần](https://tienphong.vn/xung-dot-nga-ukraine-ngay-nga-gianh-them-sau-khu-dinh-cu-o-donetsk-chi-trong-mot-tuan-post1717321.tpo) - 06:22 16/02/2025
+- 🎓 [Xung đột Nga - Ukraine: Nga giành thêm sáu khu định cư ở Donetsk chỉ trong một tuần](https://tienphong.vn/xung-dot-nga-ukraine-nga-gianh-them-sau-khu-dinh-cu-o-donetsk-chi-trong-mot-tuan-post1717321.tpo) - 06:22 16/02/2025
 - 🦣 [Các đội đua hàng đầu thế giới tiếp tục đến Bình Định tranh tài giải thuyền máy siêu tốc độ](https://tienphong.vn/cac-doi-dua-hang-dau-the-gioi-tiep-tuc-den-binh-dinh-tranh-tai-giai-thuyen-may-sieu-toc-do-post1717308.tpo) - 06:12 16/02/2025
 - 🤓 [Thông tin mới về không khí lạnh tăng cường](https://tienphong.vn/thong-tin-moi-ve-khong-khi-lanh-tang-cuong-post1717443.tpo) - 06:10 16/02/2025
 - 🌁 [Nhận định Becamex Bình Dương vs Hồng Lĩnh Hà Tĩnh, 18h00 ngày 16/2: Thủ lỏng đấu công cùn](https://tienphong.vn/nhan-dinh-becamex-binh-duong-vs-hong-linh-ha-tinh-18h00-ngay-162-thu-long-dau-cong-cun-post1717231.tpo) - 06:09 16/02/2025
