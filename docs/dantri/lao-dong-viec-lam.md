@@ -4,8 +4,8 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Su su rớt giá thê thảm, nông dân vứt đầy ruộng](https://dantri.com.vn/lao-dong-viec-lam/su-su-rot-gia-the-tham-nong-dan-vut-day-ruong-20250215085948344.htm) - 01:30 16/02/2025
-- 🙉 [Tuyết rơi dày cả mét, lao động Việt tại Nhật nghỉ làm để &quot;tìm&quot; ô tô](https://dantri.com.vn/lao-dong-viec-lam/tuyet-roi-day-ca-met-lao-dong-viet-tai-nhat-nghi-lam-de-tim-o-to-20250215172237817.htm) - 00:29 16/02/2025
+- ⚗️ [Làng tỷ phú cá tầm lao đao vì con suối duy nhất trong rừng đang khô cạn](https://dantri.com.vn/lao-dong-viec-lam/lang-ty-phu-ca-tam-lao-dao-vi-con-suoi-duy-nhat-trong-rung-dang-kho-can-20250215153822436.htm) - 03:00 16/02/2025
+- 🙉 [Su su rớt giá thê thảm, nông dân vứt đầy ruộng](https://dantri.com.vn/lao-dong-viec-lam/su-su-rot-gia-the-tham-nong-dan-vut-day-ruong-20250215085948344.htm) - 01:30 16/02/2025
 - 🕴 [Cơ hội việc làm với mức lương lên đến 60 triệu đồng/tháng](https://dantri.com.vn/lao-dong-viec-lam/co-hoi-viec-lam-voi-muc-luong-len-den-60-trieu-dongthang-20250215151609017.htm) - 00:29 16/02/2025
 - 🧐 [&quot;Đất hứa&quot; chạy nước rút để giữ chân, hút lại lao động di cư](https://dantri.com.vn/lao-dong-viec-lam/dat-hua-chay-nuoc-rut-de-giu-chan-hut-lai-lao-dong-di-cu-20250214161949915.htm) - 23:00 15/02/2025
 - 🧑‍💻 [Những ngày làm việc sau cùng đầy ý nghĩa của lãnh đạo, cán bộ Bộ LĐ-TB&amp;XH](https://dantri.com.vn/lao-dong-viec-lam/nhung-ngay-lam-viec-sau-cung-day-y-nghia-cua-lanh-dao-can-bo-bo-ld-tbxh-20250215162516963.htm) - 22:00 15/02/2025
