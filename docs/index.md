@@ -594,7 +594,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 👺 [Người đẹp có vòng eo nhỏ nhất Hoa hậu Hoàn vũ Philippines](https://tienphong.vn/nguoi-dep-co-vong-eo-nho-nhat-hoa-hau-hoan-vu-philippines-post1717495.tpo) - 20:31 16/02/2025
 - 💪 [Thủ tướng chỉ đạo về dự án cao tốc Quy Nhơn - Pleiku hơn 36.000 tỷ](https://tienphong.vn/thu-tuong-chi-dao-ve-du-an-cao-toc-quy-nhon-pleiku-hon-36000-ty-post1717486.tpo) - 20:21 16/02/2025
 - 💃 [Khách nữ bỏ quên túi xách chứa nhiều tài sản ở sân bay Nội Bài](https://tienphong.vn/khach-nu-bo-quen-tui-xach-chua-nhieu-tai-san-o-san-bay-noi-bai-post1717589.tpo) - 20:17 16/02/2025
-- 🦍 [Trực tiếp Liverpool vs Wolves 2-0 &lpar;H2&rpar;: Hiệp 2 bắt đầu](https://tienphong.vn/truc-tiep-liverpool-vs-wolves-2-0-h2-hiep-2-bat-dau-post1717579.tpo) - 20:15 16/02/2025
+- 🦍 [Trực tiếp Liverpool vs Wolves 2-1 &lpar;H2&rpar;: Cunha ghi siêu phẩm](https://tienphong.vn/truc-tiep-liverpool-vs-wolves-2-1-h2-cunha-ghi-sieu-pham-post1717579.tpo) - 20:15 16/02/2025
 - 👹 [Hà Nội: Đề xuất chi gần 709 tỷ đồng hỗ trợ đóng BHYT, BHXH cho một số nhóm đối tượng](https://tienphong.vn/ha-noi-de-xuat-chi-gan-709-ty-dong-ho-tro-dong-bhyt-bhxh-cho-mot-so-nhom-doi-tuong-post1717572.tpo) - 20:05 16/02/2025
 - 🌜 [TPHCM tạm dừng cấp đổi, cấp lại giấy phép lái xe từ 19/2](https://tienphong.vn/tphcm-tam-dung-cap-doi-cap-lai-giay-phep-lai-xe-tu-192-post1717586.tpo) - 20:03 16/02/2025
 - 🎓 [Dự định dang dở của Kim Sae Ron trước khi qua đời ở tuổi 25](https://tienphong.vn/du-dinh-dang-do-cua-kim-sae-ron-truoc-khi-qua-doi-o-tuoi-25-post1717588.tpo) - 19:52 16/02/2025
