@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [&#39;Con đường chính trực&#39; - lối sống trong cuộc đời hối hả](https://vnexpress.net/con-duong-chinh-truc-loi-song-trong-cuoc-doi-hoi-ha-4849822.html) - 15:40 16/02/2025
+- 🌏 [Sách đưa lời khuyên sống chính trực](https://vnexpress.net/sach-dua-loi-khuyen-song-chinh-truc-4849822.html) - 15:40 16/02/2025
 - 💫 [Diễn viên Hàn qua đời ở tuổi 25](https://vnexpress.net/dien-vien-han-qua-doi-o-tuoi-25-4850176.html) - 12:36 16/02/2025
 - 🌮 [Như Vân diễn trang phục &#39;Miền đá nở hoa&#39;](https://vnexpress.net/nhu-van-dien-trang-phuc-mien-da-no-hoa-4850117.html) - 12:00 16/02/2025
 - 🧠 [Emma Watson hiếm hoi xuất hiện trước công chúng](https://vnexpress.net/emma-watson-hiem-hoi-xuat-hien-truoc-cong-chung-4850118.html) - 11:05 16/02/2025
