@@ -4,13 +4,13 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Lịch thi đánh giá năng lực của Đại học Sư phạm TP HCM](https://vnexpress.net/lich-thi-danh-gia-nang-luc-cua-dai-hoc-su-pham-tp-hcm-4849745.html) - 15:16 16/02/2025
-- 🦆 [Giành học bổng hơn 6 tỷ đồng du học Mỹ sau 10 ngày làm hồ sơ](https://vnexpress.net/gianh-hoc-bong-hon-6-ty-dong-du-hoc-my-sau-10-ngay-lam-ho-so-4849906.html) - 14:50 16/02/2025
-- 🦩 [Hoa hồng đen được trồng duy nhất ở quốc gia nào?](https://vnexpress.net/hoa-hong-den-duoc-trong-duy-nhat-o-quoc-gia-nao-4850140.html) - 12:30 16/02/2025
-- 🌮 [Kinh nghiệm tìm việc ở Mỹ của cô gái Việt](https://vnexpress.net/kinh-nghiem-tim-viec-o-my-cua-co-gai-viet-4842326.html) - 06:49 16/02/2025
-- 🔭 [Nhật Bản cấp 45 học bổng toàn phần cho ứng viên Việt Nam](https://vnexpress.net/nhat-ban-cap-45-hoc-bong-toan-phan-cho-ung-vien-viet-nam-4848836.html) - 05:43 16/02/2025
-- 💡 [Phụ huynh tiểu học loay hoay khi thầy cô bị siết dạy thêm](https://vnexpress.net/phu-huynh-tieu-hoc-loay-hoay-khi-thay-co-bi-siet-day-them-4848328.html) - 02:07 16/02/2025
-- 🥰 [Gần 35 tỉnh, thành chọn Tiếng Anh là môn thứ ba thi lớp 10](https://vnexpress.net/gan-35-tinh-thanh-chon-tieng-anh-la-mon-thu-ba-thi-lop-10-4850189.html) - 23:00 15/02/2025
+- 🤓 [Trường quân đội tuyển hệ dân sự ngành Kế toán, Tài chính - Ngân hàng](https://vnexpress.net/truong-quan-doi-tuyen-he-dan-su-nganh-ke-toan-tai-chinh-ngan-hang-4850183.html) - 18:13 16/02/2025
+- 🦆 [Lịch thi đánh giá năng lực của Đại học Sư phạm TP HCM](https://vnexpress.net/lich-thi-danh-gia-nang-luc-cua-dai-hoc-su-pham-tp-hcm-4849745.html) - 15:16 16/02/2025
+- 🦩 [Giành học bổng hơn 6 tỷ đồng du học Mỹ sau 10 ngày làm hồ sơ](https://vnexpress.net/gianh-hoc-bong-hon-6-ty-dong-du-hoc-my-sau-10-ngay-lam-ho-so-4849906.html) - 14:50 16/02/2025
+- 🌮 [Hoa hồng đen được trồng duy nhất ở quốc gia nào?](https://vnexpress.net/hoa-hong-den-duoc-trong-duy-nhat-o-quoc-gia-nao-4850140.html) - 12:30 16/02/2025
+- 🔭 [Kinh nghiệm tìm việc ở Mỹ của cô gái Việt](https://vnexpress.net/kinh-nghiem-tim-viec-o-my-cua-co-gai-viet-4842326.html) - 06:49 16/02/2025
+- 💡 [Nhật Bản cấp 45 học bổng toàn phần cho ứng viên Việt Nam](https://vnexpress.net/nhat-ban-cap-45-hoc-bong-toan-phan-cho-ung-vien-viet-nam-4848836.html) - 05:43 16/02/2025
+- 🥰 [Phụ huynh tiểu học loay hoay khi thầy cô bị siết dạy thêm](https://vnexpress.net/phu-huynh-tieu-hoc-loay-hoay-khi-thay-co-bi-siet-day-them-4848328.html) - 02:07 16/02/2025
 - 🐲 [TP HCM dự kiến 3 yêu cầu với giáo viên dạy thêm](https://vnexpress.net/tp-hcm-du-kien-3-yeu-cau-voi-giao-vien-day-them-4849957.html) - 15:24 15/02/2025
 - 🦒 [Bộ Giáo dục bỏ xét tuyển sớm, siết điểm cộng ưu tiên](https://vnexpress.net/bo-giao-duc-bo-xet-tuyen-som-siet-diem-cong-uu-tien-4848237.html) - 13:30 15/02/2025
 - 🦆 [Huyện đông dân nhất cả nước thuộc tỉnh, thành nào?](https://vnexpress.net/huyen-dong-dan-nhat-ca-nuoc-thuoc-tinh-thanh-nao-4849950.html) - 13:00 15/02/2025
