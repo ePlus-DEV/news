@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- dantri-kinh-doanh:START -->
-- 🏊 [Biến động ghế chủ tịch ở công ty muốn mua 2.200 xe điện VinFast](https://dantri.com.vn/kinh-doanh/bien-dong-ghe-chu-tich-o-cong-ty-muon-mua-2200-xe-dien-vinfast-20250215164309640.htm) - 10:29 16/02/2025
+- 🏊 [Biến động ghế chủ tịch ở công ty muốn mua 2.200 xe điện](https://dantri.com.vn/kinh-doanh/bien-dong-ghe-chu-tich-o-cong-ty-muon-mua-2200-xe-dien-20250215164309640.htm) - 10:29 16/02/2025
 - 🦆 [Đài Loan gia hạn kiểm tra từng lô sầu riêng Việt](https://dantri.com.vn/kinh-doanh/dai-loan-gia-han-kiem-tra-tung-lo-sau-rieng-viet-20250216142311491.htm) - 10:27 16/02/2025
 - 🦄 [Trung Quốc vượt Mỹ thành nhà nhập khẩu tôm lớn nhất của Việt Nam](https://dantri.com.vn/kinh-doanh/trung-quoc-vuot-my-thanh-nha-nhap-khau-tom-lon-nhat-cua-viet-nam-20250216125344562.htm) - 06:48 16/02/2025
 - 🌝 [Nghỉ việc trả thù](https://dantri.com.vn/kinh-doanh/nghi-viec-tra-thu-20250216040023749.htm) - 02:54 16/02/2025
