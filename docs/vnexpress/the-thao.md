@@ -9,7 +9,7 @@ sidebar_position: 5
 - 🧰 [HLV Quảng Nam: &#39;Vấn nạn trọng tài kéo bóng đá Việt Nam đi xuống&#39;](https://vnexpress.net/hlv-quang-nam-van-nan-trong-tai-keo-bong-da-viet-nam-di-xuong-4850021.html) - 03:10 16/02/2025
 - 🤗 [Chuyên gia Anh: &#39;4 trận tới định đoạt khả năng vô địch sớm của Liverpool&#39;](https://vnexpress.net/chuyen-gia-anh-4-tran-toi-dinh-doat-kha-nang-vo-dich-som-cua-liverpool-4849606.html) - 02:39 16/02/2025
 - 🥳 [HLV Công an Hà Nội không trách Nguyễn Filip](https://vnexpress.net/hlv-cong-an-ha-noi-khong-trach-nguyen-filip-4850020.html) - 02:35 16/02/2025
-- 🦣 [Ancelotti: &#39;Real có vấn đề với trọng tài La Liga&#39;](https://vnexpress.net/ancelotti-real-co-van-de-voi-trong-tai-la-liga-4850030.html) - 02:21 16/02/2025
+- 🦣 [Ancelotti: &#39;Real gặp vấn đề với trọng tài La Liga&#39;](https://vnexpress.net/ancelotti-real-gap-van-de-voi-trong-tai-la-liga-4850030.html) - 02:21 16/02/2025
 - 🌜 [Man Utd nhận tin dữ từ Amad Diallo](https://vnexpress.net/man-utd-nhan-tin-du-tu-amad-diallo-4850052.html) - 02:12 16/02/2025
 - 🫶 [Learner Tien lại gây ấn tượng](https://vnexpress.net/learner-tien-lai-gay-an-tuong-4850025.html) - 02:01 16/02/2025
 - 🌜 [Người hùng Arsenal không muốn đá tiền đạo](https://vnexpress.net/nguoi-hung-arsenal-khong-muon-da-tien-dao-4850027.html) - 01:55 16/02/2025
