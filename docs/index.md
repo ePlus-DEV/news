@@ -312,7 +312,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo SGGP
 <!-- sggp:START -->
 - 🪜 [TPHCM: Tăng cường hiệu quả việc triển khai thực hiện Nghị định 168](https://www.sggp.org.vn/tphcm-tang-cuong-hieu-qua-viec-trien-khai-thuc-hien-nghi-dinh-168-post782255.html) - 14:59 17/02/2025
-- 🌝 [Việt Nam ủng hộ, sẵn sàng tham gia các nỗ lực trung gian hòa giải cho cuộc xung đột Nga - Ukraine](https://www.sggp.org.vn/viet-nam-ung-ho-san-sang-tham-gia-cac-no-luc-trung-gian-hoa-giai-cho-cuoc-xung-dot-nga-ukraine-post782272.html) - 14:54 17/02/2025
+- 🌝 [Việt Nam sẵn sàng tham gia các nỗ lực trung gian hòa giải cho cuộc xung đột Nga - Ukraine](https://www.sggp.org.vn/viet-nam-san-sang-tham-gia-cac-no-luc-trung-gian-hoa-giai-cho-cuoc-xung-dot-nga-ukraine-post782272.html) - 14:54 17/02/2025
 - 💃 [Tổ hợp Hóa dầu Long Sơn ký kết với 38 đối tác thực hiện an sinh xã hội](https://www.sggp.org.vn/to-hop-hoa-dau-long-son-ky-ket-voi-38-doi-tac-thuc-hien-an-sinh-xa-hoi-post782216.html) - 13:50 17/02/2025
 - 🧑‍💻 [Thủ tướng trình Quốc hội cơ cấu tổ chức và số lượng thành viên Chính phủ](https://www.sggp.org.vn/thu-tuong-trinh-quoc-hoi-co-cau-to-chuc-va-so-luong-thanh-vien-chinh-phu-post782271.html) - 13:48 17/02/2025
 - 🌊 [Bản tin tối 17-2: Truy tố tài xế ô tô đánh người trước cổng bệnh viện; Điều tra vụ trẻ tử vong ở điểm trông giữ](https://www.sggp.org.vn/ban-tin-toi-17-2-truy-to-tai-xe-o-to-danh-nguoi-truoc-cong-benh-vien-dieu-tra-vu-tre-tu-vong-o-diem-trong-giu-post782264.html) - 13:00 17/02/2025
