@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Kiev hoan nghênh lập trường của Việt Nam về xung đột Nga - Ukraine](https://vnexpress.net/kiev-hoan-nghenh-lap-truong-cua-viet-nam-ve-xung-dot-nga-ukraine-4850702.html) - 14:42 17/02/2025
-- 🕴 [Ukraine không công nhận kết quả đàm phán Nga - Mỹ ở Arab Saudi](https://vnexpress.net/ukraine-khong-cong-nhan-ket-qua-dam-phan-nga-my-o-arab-saudi-4850695.html) - 14:27 17/02/2025
+- 🎭 [Việt Nam sẵn sàng tham gia các nỗ lực trung gian hòa giải xung đột Nga - Ukraine](https://vnexpress.net/viet-nam-san-sang-tham-gia-cac-no-luc-trung-gian-hoa-giai-xung-dot-nga-ukraine-4850702.html) - 14:42 17/02/2025
+- 🕴 [Ukraine sẽ không công nhận kết quả đàm phán Nga - Mỹ ở Arab Saudi](https://vnexpress.net/ukraine-se-khong-cong-nhan-ket-qua-dam-phan-nga-my-o-arab-saudi-4850695.html) - 14:27 17/02/2025
 - 🤭 [Israel tuyên bố hạ chỉ huy Hamas ở Lebanon](https://vnexpress.net/israel-tuyen-bo-ha-chi-huy-hamas-o-lebanon-4850683.html) - 13:22 17/02/2025
 - 🧑‍💻 [Kỳ vọng và hoài nghi ở Ukraine về thỏa thuận đất hiếm với Mỹ](https://vnexpress.net/ky-vong-va-hoai-nghi-o-ukraine-ve-thoa-thuan-dat-hiem-voi-my-4850233.html) - 12:00 17/02/2025
 - 🦏 [Phái đoàn Nga - Mỹ tới Arab Saudi để đàm phán](https://vnexpress.net/phai-doan-nga-my-toi-arab-saudi-de-dam-phan-4850664.html) - 11:38 17/02/2025
