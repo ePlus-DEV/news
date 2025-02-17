@@ -27,7 +27,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Cuộc chiến của các nhà khoa học với biến đổi khí hậu](https://vnexpress.net/cuoc-chien-cua-cac-nha-khoa-hoc-voi-bien-doi-khi-hau-4850459.html) - 22:00 17/02/2025
-- 🧰 [Niềm tin của doanh nghiệp công nghệ khi &#39;được giao việc lớn&#39;](https://vnexpress.net/niem-tin-cua-doanh-nghiep-cong-nghe-khi-duoc-giao-viec-lon-4850390.html) - 22:00 17/02/2025
+- 🧰 [Doanh nghiệp công nghệ &#39;cần được giao việc lớn&#39;](https://vnexpress.net/doanh-nghiep-cong-nghe-can-duoc-giao-viec-lon-4850390.html) - 22:00 17/02/2025
 - 🥰 [Trầm cảm trong những ngày nồm ẩm](https://vnexpress.net/tram-cam-trong-nhung-ngay-nom-am-4850325.html) - 22:00 17/02/2025
 - 🌏 [Cầu Rạch Miễu 2 trước thời điểm hợp long](https://vnexpress.net/cau-rach-mieu-2-truoc-thoi-diem-hop-long-4850248.html) - 22:00 17/02/2025
 - 🧐 [10 năm Trung Quốc xây &#39;pháo đài kinh tế&#39; chống áp lực từ Mỹ](https://vnexpress.net/10-nam-trung-quoc-xay-phao-dai-kinh-te-chong-ap-luc-tu-my-4848176.html) - 22:00 17/02/2025
