@@ -29,7 +29,7 @@ sidebar_position: 9
 - 🐲 [Neville: &#39;Đội U9 cũng không đá như Man Utd&#39;](https://vnexpress.net/neville-doi-u9-cung-khong-da-nhu-man-utd-4850694.html) - 17:00 17/02/2025
 - 🌝 [Messi tính nghỉ trận mở màn mùa giải của Inter Miami](https://vnexpress.net/messi-tinh-nghi-tran-mo-man-mua-giai-cua-inter-miami-4850688.html) - 17:00 17/02/2025
 - 😺 [Adizero Evo SL - siêu giày tập gây sốt nhất năm 2025](https://vnexpress.net/adizero-evo-sl-sieu-giay-tap-gay-sot-nhat-nam-2025-4849231.html) - 17:00 17/02/2025
-- 🐎 [Có nên học Sư phạm khi dạy thêm đang bị siết?](https://vnexpress.net/co-nen-hoc-su-pham-khi-day-them-dang-bi-siet-4847722.html) - 16:59 17/02/2025
+- 🐎 [Có nên học Sư phạm khi bị siết dạy thêm?](https://vnexpress.net/co-nen-hoc-su-pham-khi-bi-siet-day-them-4847722.html) - 16:59 17/02/2025
 - 🎡 [Hàng chục cảnh sát làm việc tại Bệnh viện II Lâm Đồng](https://vnexpress.net/hang-chuc-canh-sat-lam-viec-tai-benh-vien-ii-lam-dong-4850710.html) - 15:46 17/02/2025
 - 👨‍🏫 [Trấn Thành: &#39;Người hướng nội sẽ thấy phim tôi ồn ào&#39;](https://vnexpress.net/tran-thanh-nguoi-huong-noi-se-thay-phim-toi-on-ao-4850707.html) - 15:39 17/02/2025
 - 🦆 [Vợ hết nhu cầu tình dục](https://vnexpress.net/vo-het-nhu-cau-tinh-duc-4850274.html) - 15:00 17/02/2025
