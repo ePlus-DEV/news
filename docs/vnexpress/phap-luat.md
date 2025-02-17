@@ -4,8 +4,8 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Nghịch lý khiến người phụ nữ suốt 8 năm không lấy được nhà đã mua](https://vnexpress.net/nghich-ly-khien-nguoi-phu-nu-suot-8-nam-khong-lay-duoc-nha-da-mua-4850159.html) - 07:54 17/02/2025
-- 🥰 [Dùng căn cước điện tử thay giấy tờ tùy thân trong nhiều thủ tục](https://vnexpress.net/dung-can-cuoc-dien-tu-thay-giay-to-tuy-than-trong-nhieu-thu-tuc-4850505.html) - 06:57 17/02/2025
+- 😎 [8 năm gian nan đòi nhà sau cú &#39;lật kèo&#39; của chủ đất](https://vnexpress.net/nghich-ly-khien-nguoi-phu-nu-suot-8-nam-khong-lay-duoc-nha-da-mua-4850159.html) - 07:54 17/02/2025
+- 🥰 [Thêm nhiều thủ tục cho phép dùng căn cước điện tử thay giấy tờ tùy thân](https://vnexpress.net/dung-can-cuoc-dien-tu-thay-giay-to-tuy-than-trong-nhieu-thu-tuc-4850505.html) - 06:57 17/02/2025
 - 🎓 [Nghi can cướp tiệm vàng ở Lâm Đồng bị khởi tố](https://vnexpress.net/cuop-tiem-vang-nhu-ngoc-chau-di-linh-4850522.html) - 06:48 17/02/2025
 - 🤓 [Thi thể phụ nữ không nguyên vẹn ở bờ biển Ninh Thuận](https://vnexpress.net/thi-the-phu-nu-khong-nguyen-ven-o-bo-bien-ninh-thuan-4850439.html) - 06:28 17/02/2025
 - 🎊 [Cựu bộ trưởng Mai Tiến Dũng không kháng cáo](https://vnexpress.net/cuu-bo-truong-mai-tien-dung-khong-khang-cao-4850403.html) - 04:16 17/02/2025
