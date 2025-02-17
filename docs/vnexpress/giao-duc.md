@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Có nên học Sư phạm khi dạy thêm đang bị siết?](https://vnexpress.net/co-nen-hoc-su-pham-khi-day-them-dang-bi-siet-4847722.html) - 16:59 17/02/2025
+- 🤓 [Có nên học Sư phạm khi bị siết dạy thêm?](https://vnexpress.net/co-nen-hoc-su-pham-khi-bi-siet-day-them-4847722.html) - 16:59 17/02/2025
 - 🦆 [Bao nhiêu nước có lãnh thổ nằm trong lòng quốc gia khác?](https://vnexpress.net/bao-nhieu-nuoc-co-lanh-tho-nam-trong-long-quoc-gia-khac-4850644.html) - 12:13 17/02/2025
 - 🦩 [Học viện Khoa học quân sự tuyển hệ dân sự ngành Ngôn ngữ Anh, Nga, Trung Quốc](https://vnexpress.net/hoc-vien-khoa-hoc-quan-su-tuyen-he-dan-su-nganh-ngon-ngu-anh-nga-trung-quoc-4850192.html) - 09:16 17/02/2025
 - 🌮 [Hơn 200 học sinh nhận giải thưởng sáng kiến môi trường](https://vnexpress.net/hon-200-hoc-sinh-nhan-giai-thuong-sang-kien-moi-truong-4850541.html) - 09:00 17/02/2025
