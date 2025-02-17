@@ -5,7 +5,7 @@ sidebar_position: 22
 
 <!-- dantri-du-lich:START -->
 - 🥰 [Đu trend &quot;Đại Lý&quot;, nhiều bạn trẻ bị công an mời làm việc vì tràn ra đường](https://dantri.com.vn/du-lich/du-trend-dai-ly-nhieu-ban-tre-bi-cong-an-moi-lam-viec-vi-tran-ra-duong-20250217130300471.htm) - 06:46 17/02/2025
-- 🥰 [Vụ nhiều khách rơi xuống sông ở chợ nổi Cần Thơ: Tạm dừng cơ sở kinh doanh](https://dantri.com.vn/du-lich/vu-nhieu-khach-roi-xuong-song-o-cho-noi-can-tho-tam-dung-co-so-kinh-doanh-20250217084150145.htm) - 06:36 17/02/2025
+- 🥰 [Vụ nhiều khách rơi xuống chợ nổi Cần Thơ: Tạm dừng cơ sở kinh doanh](https://dantri.com.vn/du-lich/vu-nhieu-khach-roi-xuong-cho-noi-can-tho-tam-dung-co-so-kinh-doanh-20250217084150145.htm) - 06:36 17/02/2025
 - 🐻 [Thanh niên người rừng cởi trần đóng khố sống biệt lập, lần đầu dùng bật lửa](https://dantri.com.vn/du-lich/thanh-nien-nguoi-rung-coi-tran-dong-kho-song-biet-lap-lan-dau-dung-bat-lua-20250217112423252.htm) - 04:58 17/02/2025
 - 🤩 [Xôn xao cảnh tiếp viên hàng không đứng trên cánh máy bay chụp ảnh](https://dantri.com.vn/du-lich/xon-xao-canh-tiep-vien-hang-khong-dung-tren-canh-may-bay-chup-anh-20250216083554891.htm) - 03:10 17/02/2025
 - 🕴 [Đường từ Mộc Châu về kẹt cứng, khách Hà Nội bơ phờ nhích từng chút một](https://dantri.com.vn/du-lich/duong-tu-moc-chau-ve-ket-cung-khach-ha-noi-bo-pho-nhich-tung-chut-mot-20250216182822990.htm) - 00:26 17/02/2025
