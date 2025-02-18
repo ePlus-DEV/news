@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- dantri-an-sinh:START -->
-- 👺 [Niêm phong gần 500 triệu đồng trong vụ cha ôm con &quot;cầu cứu&quot; trên Facebook](https://dantri.com.vn/an-sinh/niem-phong-gan-500-trieu-dong-trong-vu-cha-om-con-cau-cuu-tren-facebook-20250218153248892.htm) - 08:56 18/02/2025
+- 👺 [Xem xét xử lý gần 500 triệu đồng vụ cha ôm con &quot;cầu cứu&quot; trên Facebook](https://dantri.com.vn/an-sinh/xem-xet-xu-ly-gan-500-trieu-dong-vu-cha-om-con-cau-cuu-tren-facebook-20250218153248892.htm) - 08:56 18/02/2025
 - 👀 [Chế độ bảo hiểm xã hội của dân quân tự vệ từ ngày 23/3](https://dantri.com.vn/an-sinh/che-do-bao-hiem-xa-hoi-cua-dan-quan-tu-ve-tu-ngay-233-20250217113046485.htm) - 07:27 18/02/2025
 - 💡 [Chồng vừa qua đời, người phụ nữ khóc nấc vì hành động của em chồng](https://dantri.com.vn/an-sinh/chong-vua-qua-doi-nguoi-phu-nu-khoc-nac-vi-hanh-dong-cua-em-chong-20250217193918724.htm) - 05:40 18/02/2025
 - 💄 [Vụ tát người khuyết tật giữa đường: &quot;Chỉ ai rối loạn tâm thần mới làm vậy&quot;](https://dantri.com.vn/an-sinh/vu-tat-nguoi-khuyet-tat-giua-duong-chi-ai-roi-loan-tam-than-moi-lam-vay-20250217233855691.htm) - 00:12 18/02/2025
