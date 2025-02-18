@@ -8,7 +8,7 @@ sidebar_position: 17
 - 🎬 [Iran công bố kế hoạch tấn công lớn lần thứ ba vào Israel](https://dantri.com.vn/the-gioi/iran-cong-bo-ke-hoach-tan-cong-lon-lan-thu-ba-vao-israel-20250218191626910.htm) - 12:27 18/02/2025
 - 🧰 [Nga thả công dân Mỹ trước thềm đàm phán tại Ả rập Xê út](https://dantri.com.vn/the-gioi/nga-tha-cong-dan-my-truoc-them-dam-phan-tai-a-rap-xe-ut-20250218095939924.htm) - 11:37 18/02/2025
 - 🌋 [Tổng thống Putin sẵn sàng đàm phán với Tổng thống Zelensky](https://dantri.com.vn/the-gioi/tong-thong-putin-san-sang-dam-phan-voi-tong-thong-zelensky-20250218181312689.htm) - 11:24 18/02/2025
-- 🗽 [Đàm Phán Nga - Mỹ: Chốt 4 nguyên tắc quan hệ song phương và vấn đề Ukraine](https://dantri.com.vn/the-gioi/dam-phan-nga-my-chot-4-nguyen-tac-quan-he-song-phuong-va-van-de-ukraine-20250218163521118.htm) - 09:36 18/02/2025
+- 🗽 [Đàm phán Nga - Mỹ: Moscow công bố kết quả](https://dantri.com.vn/the-gioi/dam-phan-nga-my-moscow-cong-bo-ket-qua-20250218163521118.htm) - 09:36 18/02/2025
 - 💻 [Ông Trump đang giúp ông Putin khôi phục ảnh hưởng của Nga?](https://dantri.com.vn/the-gioi/ong-trump-dang-giup-ong-putin-khoi-phuc-anh-huong-cua-nga-20250217113533635.htm) - 08:36 18/02/2025
 - ⛽️ [Ukraine lần đầu hạ lá chắn S-350, chọc thủng lưới phòng thủ Nga ở Donetsk?](https://dantri.com.vn/the-gioi/ukraine-lan-dau-ha-la-chan-s-350-choc-thung-luoi-phong-thu-nga-o-donetsk-20250218144308604.htm) - 07:51 18/02/2025
 - 🤩 [Nhà Trắng nói ông Musk không phải là lãnh đạo DOGE](https://dantri.com.vn/the-gioi/nha-trang-noi-ong-musk-khong-phai-la-lanh-dao-doge-20250218143834562.htm) - 07:48 18/02/2025
