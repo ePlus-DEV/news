@@ -21,7 +21,7 @@ sidebar_position: 3
 - 🏊 [Hãng pin 65 tuổi báo lãi kỷ lục](https://vnexpress.net/pin-con-tho-hang-pin-65-tuoi-bao-lai-ky-luc-4850386.html) - 04:41 17/02/2025
 - 🤡 [TSMC và Broadcom có thể mua Intel](https://vnexpress.net/tsmc-va-broadcom-co-the-mua-intel-4850341.html) - 04:33 17/02/2025
 - 👀 [Triệu phú chỉ ra những hiểu lầm lớn nhất về nghỉ hưu sớm](https://vnexpress.net/trieu-phu-chi-ra-nhung-hieu-lam-lon-nhat-ve-nghi-huu-som-4849890.html) - 03:25 17/02/2025
-- 😺 [VIB ra mắt tài khoản với mức sinh lời 4,3% một năm](https://vnexpress.net/vib-ra-mat-tai-khoan-voi-muc-sinh-loi-4-3-mot-nam-4850161.html) - 02:00 17/02/2025
+- 😺 [VIB ra mắt tài khoản sinh lời theo ngày, lợi suất đến 4,3% một năm](https://vnexpress.net/vib-ra-mat-tai-khoan-sinh-loi-theo-ngay-loi-suat-den-4-3-mot-nam-4850161.html) - 02:00 17/02/2025
 - 🦣 [Tiểu thương bán gạo giá rẻ ven đường ở miền Tây](https://vnexpress.net/tieu-thuong-ban-gao-gia-re-ven-duong-o-mien-tay-4850106.html) - 23:00 16/02/2025
 - 😺 [Trung Quốc vượt Mỹ, dẫn đầu nhập khẩu tôm Việt](https://vnexpress.net/trung-quoc-vuot-my-dan-dau-nhap-khau-tom-viet-4850142.html) - 17:05 16/02/2025
 - 💼 [Sabeco lo nguy cơ biên lợi nhuận thu hẹp vì giá nhôm tăng](https://vnexpress.net/sabeco-lo-nguy-co-bien-loi-nhuan-thu-hep-vi-gia-nhom-tang-4850070.html) - 11:05 16/02/2025
