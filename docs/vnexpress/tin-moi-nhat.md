@@ -56,5 +56,4 @@ sidebar_position: 9
 - 🦩 [Trà trộn mô tô giấy tờ giả vào lô xe thanh lý của công an](https://vnexpress.net/tra-tron-mo-to-khong-giay-to-vao-lo-xe-thanh-ly-cua-cong-an-4851120.html) - 12:04 18/02/2025
 - 👍 [Lý do hành khách an toàn trong vụ máy bay lật ngửa ở Canada](https://vnexpress.net/ly-do-hanh-khach-an-toan-trong-vu-may-bay-lat-ngua-o-canada-4851053.html) - 12:00 18/02/2025
 - 🔥 [Với em, điều quý nhất là có người cùng sẻ chia vui buồn](https://vnexpress.net/voi-em-dieu-quy-nhat-la-co-nguoi-cung-se-chia-vui-buon-4851031.html) - 12:00 18/02/2025
-- 💄 [Giai đoạn đầu tiên của Thành phố thẳng trên sa mạc Arab Saudi](https://vnexpress.net/giai-doan-dau-tien-cua-thanh-pho-thang-tren-sa-mac-arab-saudi-4850735.html) - 12:00 18/02/2025
-- 🤡 [Tôi học giỏi, bằng cấp danh tiếng nhưng 40 tuổi vẫn &#39;trung lưu thấp&#39;](https://vnexpress.net/toi-40-tuoi-van-con-la-trung-luu-thap-trong-khi-em-ho-o-que-ngoai-30-da-giau-nho-buon-chai-xa-hoi-4851009.html) - 12:00 18/02/2025<!-- vnexpress-tin-moi-nhat:END -->
+- 💄 [Giai đoạn đầu tiên của Thành phố thẳng trên sa mạc Arab Saudi](https://vnexpress.net/giai-doan-dau-tien-cua-thanh-pho-thang-tren-sa-mac-arab-saudi-4850735.html) - 12:00 18/02/2025<!-- vnexpress-tin-moi-nhat:END -->
