@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Hiệu trưởng vào viện trao bằng tốt nghiệp cho nam sinh mắc ung thư](https://vnexpress.net/hieu-truong-vao-vien-trao-bang-tot-nghiep-cho-nam-sinh-mac-ung-thu-4851154.html) - 16:40 18/02/2025
+- 🤓 [Nam sinh mắc ung thư được trao bằng tốt nghiệp trong bệnh viện](https://vnexpress.net/nam-sinh-mac-ung-thu-duoc-trao-bang-tot-nghiep-trong-benh-vien-4851154.html) - 16:40 18/02/2025
 - 🦆 [Thành phố có tên ngắn nhất cả nước thuộc tỉnh nào?](https://vnexpress.net/thanh-pho-co-ten-ngan-nhat-ca-nuoc-thuoc-tinh-nao-4851118.html) - 13:00 18/02/2025
 - 🦩 [6 nữ sinh đánh bạn gãy cổ bị buộc thôi học một năm](https://vnexpress.net/6-nu-sinh-danh-ban-gay-co-bi-buoc-thoi-hoc-mot-nam-4851056.html) - 09:50 18/02/2025
 - 🌮 [Trung tâm dạy thêm bị đóng cửa vì dạy học sinh tiểu học](https://vnexpress.net/trung-tam-day-them-bi-dong-cua-vi-day-hoc-sinh-tieu-hoc-4851007.html) - 09:10 18/02/2025
