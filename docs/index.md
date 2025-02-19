@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Apple Store Online tạm đóng, chuẩn bị ra mắt iPhone 16E](https://vnexpress.net/apple-store-online-tam-dong-chuan-bi-ra-mat-iphone-16e-4851660.html) - 15:58 19/02/2025
+- 🚀 [iPhone 16e trình làng, giá từ 17 triệu đồng](https://vnexpress.net/iphone-16e-trinh-lang-gia-tu-17-trieu-dong-4851660.html) - 15:58 19/02/2025
 - 🧰 [Ông Putin nói lữ đoàn Nga vượt biên giới tấn công Ukraine](https://vnexpress.net/ong-putin-noi-lu-doan-nga-vuot-bien-gioi-tan-cong-ukraine-4851647.html) - 15:36 19/02/2025
 - 🥰 [Tỷ lệ ủng hộ ông Trump giảm khi người Mỹ lo lắng về kinh tế](https://vnexpress.net/ty-le-ung-ho-ong-trump-giam-khi-nguoi-my-lo-lang-ve-kinh-te-4851642.html) - 15:20 19/02/2025
 - 🌏 [Thể Công đứng đầu lượt đi V-League 2024-2025](https://vnexpress.net/the-cong-dung-dau-luot-di-v-league-2024-2025-4851644.html) - 15:01 19/02/2025
