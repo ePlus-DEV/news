@@ -6,7 +6,7 @@ sidebar_position: 9
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Đặc phái viên Mỹ tới Kiev để &#39;lắng nghe&#39; Tổng thống Ukraine](https://vnexpress.net/dac-phai-vien-my-toi-kiev-de-lang-nghe-tong-thong-ukraine-4851560.html) - 10:34 19/02/2025
 - 🐎 [Mẹo chăm sóc răng miệng cho trẻ](https://vnexpress.net/meo-cham-soc-rang-mieng-cho-tre-4851481.html) - 10:30 19/02/2025
-- 🦍 [Ông Nguyễn Văn Được làm Phó bí thư Thành ủy TP HCM](https://vnexpress.net/ong-nguyen-van-duoc-lam-pho-bi-thu-thanh-uy-tp-hcm-4846073.html) - 10:26 19/02/2025
+- 🦍 [Giới thiệu ông Nguyễn Văn Được để bầu làm Chủ tịch UBND TP HCM](https://vnexpress.net/gioi-thieu-ong-nguyen-van-duoc-de-bau-lam-chu-tich-ubnd-tp-hcm-4846073.html) - 10:26 19/02/2025
 - 🏊 [Hình thấy đầu tiên cho thấy bạn cởi mở hay kín đáo](https://vnexpress.net/trac-nghiem-tinh-cach-doan-tinh-cach-ngay-19-2-4850434.html) - 10:24 19/02/2025
 - 🎊 [Ông Putin có thể gặp ông Trump trong tháng 2](https://vnexpress.net/ong-putin-co-the-gap-ong-trump-trong-thang-2-4851549.html) - 10:04 19/02/2025
 - 🎃 [Điểm tin 17h: Không kỷ luật đảng viên sinh con thứ ba | Nghiên cứu sáp nhập một số tỉnh thành](https://vnexpress.net/diem-tin-17h-khong-ky-luat-dang-vien-sinh-con-thu-ba-nghien-cuu-sap-nhap-mot-so-tinh-thanh-4851569.html) - 10:00 19/02/2025
