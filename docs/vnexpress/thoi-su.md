@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Tài xế lo mất việc vì quá tải cấp đổi bằng lái xe](https://vnexpress.net/tai-xe-lo-mat-viec-vi-qua-tai-cap-doi-bang-lai-xe-4851166.html) - 23:00 18/02/2025
 - 🤓 [Sáng nay Quốc hội chốt mô hình chính quyền địa phương và họp phiên bế mạc](https://vnexpress.net/sang-nay-quoc-hoi-chot-mo-hinh-chinh-quyen-dia-phuong-va-hop-phien-be-mac-4851145.html) - 21:00 18/02/2025
-- ⚗️ [TP HCM chuẩn bị gần 17.000 tỷ đồng cho hơn 7.000 nhân sự diện tinh giản](https://vnexpress.net/tp-hcm-chuan-bi-gan-17-000-ty-dong-cho-hon-7-000-nhan-su-dien-tinh-gian-4851165.html) - 17:00 18/02/2025
+- ⚗️ [Cán bộ TP HCM nghỉ việc do tinh giản được hỗ trợ cao nhất gần 2,7 tỷ đồng](https://vnexpress.net/can-bo-tp-hcm-nghi-viec-do-tinh-gian-duoc-ho-tro-cao-nhat-gan-2-7-ty-dong-4851165.html) - 17:00 18/02/2025
 - 🌊 [Hàng loạt kiốt khu nhà ở công nhân bị bỏ hoang](https://vnexpress.net/hang-loat-kiot-khu-nha-o-cong-nhan-bi-bo-hoang-4850910.html) - 17:00 18/02/2025
 - 🎓 [Xe chở sắn lật chắn ngang Quốc lộ 15 D](https://vnexpress.net/xe-cho-san-lat-chan-ngang-quoc-lo-15-d-4851170.html) - 16:29 18/02/2025
 - 🔥 [Thành viên Ủy ban Thường vụ Quốc hội nhiệm kỳ 2021-2026 sau sắp xếp](https://vnexpress.net/interactive/2025/thanh-vien-uy-ban-thuong-vu-quoc-hoi-nhiem-ky-2021-2026-sau-sap-xep) - 15:55 18/02/2025
