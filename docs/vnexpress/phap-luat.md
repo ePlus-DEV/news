@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Tạt axit lần lượt 4 quản lý để trả thù &#39;bị phê bình&#39;](https://vnexpress.net/tat-axit-lan-luot-4-quan-ly-de-tra-thu-bi-phe-binh-4851451.html) - 08:23 19/02/2025
+- 😎 [Tạt axit 4 cấp trên để trả thù &#39;bị phê bình&#39;](https://vnexpress.net/tat-axit-4-cap-tren-de-tra-thu-bi-phe-binh-4851451.html) - 08:23 19/02/2025
 - 🥰 [Nhóm chuyên cướp tài sản của người đồng tính](https://vnexpress.net/nhom-chuyen-cuop-tai-san-cua-nguoi-dong-tinh-4851442.html) - 08:18 19/02/2025
 - 🎓 [Nữ sinh 17 tuổi trình báo bị đánh hội đồng suốt ba tiếng](https://vnexpress.net/nu-sinh-17-tuoi-trinh-bao-bi-danh-hoi-dong-suot-ba-tieng-4851309.html) - 08:12 19/02/2025
 - 🤓 [Tài xế tông chết ba người bị phạt 10 năm tù](https://vnexpress.net/tai-xe-tong-chet-ba-nguoi-bi-phat-10-nam-tu-4851414.html) - 07:15 19/02/2025
