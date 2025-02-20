@@ -4,11 +4,11 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Slovenia - quê hương Melania Trump yên bình trong mắt khách Việt](https://vnexpress.net/slovenia-que-huong-melania-trump-yen-binh-trong-mat-khach-viet-4851015.html) - 03:53 20/02/2025
-- 🪄 [Đóng du thuyền 100 tỷ đồng ngao du sông Mekong](https://vnexpress.net/dong-du-thuyen-100-ty-dong-ngao-du-song-mekong-4851730.html) - 02:56 20/02/2025
-- 🦅 [5 tour Trung Quốc khởi hành từ TP HCM dưới 17 triệu đồng](https://vnexpress.net/5-tour-trung-quoc-khoi-hanh-tu-tp-hcm-duoi-17-trieu-dong-4851505.html) - 00:00 20/02/2025
-- 🕴 [Bộ tộc có hàm răng nhọn như cá mập](https://vnexpress.net/bo-toc-co-ham-rang-nhon-nhu-ca-map-4851396.html) - 17:09 19/02/2025
-- 👀 [Khách Mỹ chi 250.000 USD mua quốc tịch để được đến Triều Tiên](https://vnexpress.net/khach-my-chi-250-000-usd-mua-quoc-tich-de-duoc-den-trieu-tien-4851498.html) - 12:00 19/02/2025
+- 💂 [Nam Cực mất chất vì TikTok](https://vnexpress.net/nam-cuc-mat-chat-vi-tiktok-4851906.html) - 07:03 20/02/2025
+- 🪄 [Slovenia - quê hương Melania Trump yên bình trong mắt khách Việt](https://vnexpress.net/slovenia-que-huong-melania-trump-yen-binh-trong-mat-khach-viet-4851015.html) - 03:53 20/02/2025
+- 🦅 [Đóng du thuyền 100 tỷ đồng ngao du sông Mekong](https://vnexpress.net/dong-du-thuyen-100-ty-dong-ngao-du-song-mekong-4851730.html) - 02:56 20/02/2025
+- 🕴 [5 tour Trung Quốc khởi hành từ TP HCM dưới 17 triệu đồng](https://vnexpress.net/5-tour-trung-quoc-khoi-hanh-tu-tp-hcm-duoi-17-trieu-dong-4851505.html) - 00:00 20/02/2025
+- 👀 [Bộ tộc có hàm răng nhọn như cá mập](https://vnexpress.net/bo-toc-co-ham-rang-nhon-nhu-ca-map-4851396.html) - 17:09 19/02/2025
 - 🎭 [Nạn bán hàng rong khiến Đà Lạt nhếch nhác](https://vnexpress.net/nan-ban-hang-rong-khien-da-lat-nhech-nhac-4851249.html) - 06:59 19/02/2025
 - 🦒 [Côn Đảo cháy vé, kín phòng cuối tuần](https://vnexpress.net/con-dao-chay-ve-kin-phong-cuoi-tuan-4851140.html) - 04:54 19/02/2025
 - 👨‍🏫 [Việt Nam rời top điểm đến có ẩm thực ngon thế giới 2025](https://vnexpress.net/viet-nam-roi-top-diem-den-co-am-thuc-ngon-the-gioi-2025-4851248.html) - 03:39 19/02/2025
