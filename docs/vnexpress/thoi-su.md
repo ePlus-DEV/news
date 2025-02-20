@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hà Nội mù sương](https://vnexpress.net/ha-noi-mu-suong-4851985.html) - 09:53 20/02/2025
+- 🦒 [TP HCM bổ nhiệm 7 Giám đốc Sở mới sau sắp xếp](https://vnexpress.net/tp-hcm-bo-nhiem-7-giam-doc-so-moi-sau-sap-xep-4852032.html) - 09:50 20/02/2025
 - 🤓 [UBND TP HCM có 16 cơ quan chuyên môn sau sắp xếp](https://vnexpress.net/ubnd-tp-hcm-co-16-co-quan-chuyen-mon-sau-sap-xep-4851974.html) - 08:58 20/02/2025
 - ⚗️ [Đà Nẵng kiện toàn bộ máy lãnh đạo](https://vnexpress.net/da-nang-kien-toan-bo-may-lanh-dao-4851907.html) - 08:02 20/02/2025
 - 🌊 [Bốc thăm nhận suất tái định cư tại chỗ dự án cao tốc Biên Hòa - Vũng Tàu](https://vnexpress.net/boc-tham-nhan-suat-tai-dinh-cu-tai-cho-du-an-cao-toc-bien-hoa-vung-tau-4851919.html) - 07:39 20/02/2025
