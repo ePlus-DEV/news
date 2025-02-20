@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Sân bay Vinh sẽ có hai nhà ga hành khách](https://vnexpress.net/san-bay-vinh-se-co-hai-nha-ga-hanh-khach-4851652.html) - 17:00 19/02/2025
-- 🤓 [Hàng chục công nhân la hét thất thanh trên xe khách gặp nạn](https://vnexpress.net/hang-chuc-cong-nhan-la-het-that-thanh-tren-xe-khach-gap-nan-4851636.html) - 13:59 19/02/2025
+- 🤓 [Hàng chục công nhân la hét trên xe khách gặp nạn](https://vnexpress.net/hang-chuc-cong-nhan-la-het-tren-xe-khach-gap-nan-4851636.html) - 13:59 19/02/2025
 - ⚗️ [Phát hiện hơn 6 tấn phẩm mỹ phẩm không rõ nguồn gốc](https://vnexpress.net/phat-hien-hon-6-tan-pham-my-pham-khong-ro-nguon-goc-4851589.html) - 13:10 19/02/2025
 - 🌊 [Giới thiệu Chủ tịch Hội Liên hiệp Phụ nữ tham gia đoàn Chủ tịch Mặt trận](https://vnexpress.net/gioi-thieu-chu-tich-hoi-lien-hiep-phu-nu-tham-gia-doan-chu-tich-mat-tran-4851597.html) - 11:49 19/02/2025
 - 🎓 [Giới thiệu ông Nguyễn Văn Được để bầu làm Chủ tịch UBND TP HCM](https://vnexpress.net/gioi-thieu-ong-nguyen-van-duoc-de-bau-lam-chu-tich-ubnd-tp-hcm-4846073.html) - 10:26 19/02/2025
