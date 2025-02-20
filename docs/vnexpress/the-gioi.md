@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Cố vấn Nhà Trắng nói Ukraine nên hạ giọng với Mỹ](https://vnexpress.net/co-van-nha-trang-noi-ukraine-nen-ha-giong-voi-my-4852096.html) - 14:35 20/02/2025
+- 🎭 [Cố vấn Mỹ nói Kiev nên hạ giọng với Washington](https://vnexpress.net/co-van-my-noi-kiev-nen-ha-giong-voi-washington-4852096.html) - 14:35 20/02/2025
 - 🕴 [Ai Cập nêu ý tưởng tái thiết Gaza ngược đề xuất của ông Trump](https://vnexpress.net/ai-cap-neu-y-tuong-tai-thiet-gaza-nguoc-de-xuat-cua-ong-trump-4852088.html) - 13:54 20/02/2025
 - 🤭 [Ukraine nghi để lọt toàn bộ tên lửa trong đòn tập kích của Nga](https://vnexpress.net/ukraine-nghi-de-lot-toan-bo-ten-lua-trong-don-tap-kich-cua-nga-4852057.html) - 12:37 20/02/2025
 - 🧑‍💻 [Những thanh niên trả tiền để tránh xa điện thoại](https://vnexpress.net/nhung-thanh-nien-tra-tien-de-tranh-xa-dien-thoai-4851729.html) - 12:11 20/02/2025
