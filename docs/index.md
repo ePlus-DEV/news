@@ -74,8 +74,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧑‍🏫 [Cuộc chiến để được ly hôn](https://vnexpress.net/cuoc-chien-de-duoc-ly-hon-4851445.html) - 10:34 20/02/2025
 - 🎓 [Ông Nguyễn Văn Được làm Chủ tịch UBND TP HCM](https://vnexpress.net/ong-nguyen-van-duoc-lam-chu-tich-ubnd-tp-hcm-4851388.html) - 10:29 20/02/2025
 - 💫 [Hơn 57.000 tỷ đồng mở rộng 4 trục đường cửa ngõ TP HCM](https://vnexpress.net/hon-57-000-ty-dong-mo-rong-4-truc-duong-cua-ngo-tp-hcm-4851990.html) - 10:29 20/02/2025
-- 🤩 [Cặp vợ chồng lén lút bán đất góp vốn cùng bạn bè](https://vnexpress.net/cap-vo-chong-len-lut-ban-dat-gop-von-cung-ban-be-4851961.html) - 10:28 20/02/2025
-- 🏊 [Hình thấy đầu tiên tiết lộ bạn là người tình cảm hay lý trí](https://vnexpress.net/trac-nghiem-tinh-cach-hinh-thay-dau-tien-tiet-lo-ban-la-nguoi-tinh-cam-hay-ly-tri-4851562.html) - 10:26 20/02/2025<!-- vnexpress:END -->
+- 🤩 [Cặp vợ chồng lén lút bán đất góp vốn cùng bạn bè](https://vnexpress.net/cap-vo-chong-len-lut-ban-dat-gop-von-cung-ban-be-4851961.html) - 10:28 20/02/2025<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
