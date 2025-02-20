@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Phan Thị Vàng Anh kể chuyện đời thường](https://vnexpress.net/phan-thi-vang-anh-ke-chuyen-doi-thuong-4850557.html) - 22:30 19/02/2025
 - 💫 [Loạt phim được mong đợi tại LHP Berlin 2025](https://vnexpress.net/loat-phim-duoc-mong-doi-tai-lhp-berlin-2025-4851259.html) - 22:00 19/02/2025
-- 🌮 [Đàm Vĩnh Hưng: &#39;Con trai giúp tôi đi qua tháng ngày khốn khó&#39;](https://vnexpress.net/dam-vinh-hung-con-trai-giup-toi-di-qua-thang-ngay-khon-kho-4849840.html) - 17:00 19/02/2025
+- 🌮 [Đàm Vĩnh Hưng: &#39;Con trai giúp tôi đi qua tháng ngày khốn khó&#39;](https://vnexpress.net/dam-vinh-hung-con-trai-giup-toi-di-qua-thang-ngay-khon-kho-vnepre-4849840.html) - 17:00 19/02/2025
 - 🧠 [Hoa hậu Catriona Gray và bạn trai hủy hôn](https://vnexpress.net/hoa-hau-catriona-gray-va-ban-trai-huy-hon-4851586.html) - 14:16 19/02/2025
 - 👨‍🏫 [Sở thích đồng điệu của vợ chồng H&#39;Hen Niê](https://vnexpress.net/so-thich-dong-dieu-cua-vo-chong-h-hen-nie-4851419.html) - 13:48 19/02/2025
 - ⚗️ [Ariana Grande - &#39;nấm lùn&#39; diện đồ phá cách](https://vnexpress.net/ariana-grande-nam-lun-dien-do-pha-cach-4851283.html) - 12:00 19/02/2025
