@@ -589,7 +589,7 @@ mới sau khi hợp nhất](https://baochinhphu.vn/quang-ngai-dieu-dong-bo-nhiem
 - 💼 [Phạt cô gái bịa chuyện &#39;bị đánh thuốc mê&#39; ở Đà Nẵng 7,5 triệu đồng](https://tienphong.vn/phat-co-gai-bia-chuyen-bi-danh-thuoc-me-o-da-nang-75-trieu-dong-post1718810.tpo) - 21:50 20/02/2025
 - 👺 [Thái Lan nhận cú sốc lớn, 3 đại diện cùng bị loại tại cúp châu Á](https://tienphong.vn/thai-lan-nhan-cu-soc-lon-3-dai-dien-cung-bi-loai-tai-cup-chau-a-post1718820.tpo) - 21:25 20/02/2025
 - 💪 [Duyệt xây cầu hơn 430 tỷ nối Bạc Liêu và Kiên Giang](https://tienphong.vn/duyet-xay-cau-hon-430-ty-noi-bac-lieu-va-kien-giang-post1718750.tpo) - 21:00 20/02/2025
-- 💃 [Đình chỉ giao dịch cổ phiếu từng tăng tới 700%](https://tienphong.vn/dinh-chi-giao-dich-co-phieu-tung-tang-toi-700-post1718809.tpo) - 20:58 20/02/2025
+- 💃 [&#39;Tuýt còi&#39; cổ phiếu từng tăng tới 700%](https://tienphong.vn/tuyt-coi-co-phieu-tung-tang-toi-700-post1718809.tpo) - 20:58 20/02/2025
 - 🦍 [Kiểm tra Cục Thuế Hà Nội cùng 10 đơn vị trực thuộc](https://tienphong.vn/kiem-tra-cuc-thue-ha-noi-cung-10-don-vi-truc-thuoc-post1718771.tpo) - 20:54 20/02/2025
 - 👹 [Giải thưởng Gương mặt trẻ Việt Nam 2024 bước vào vòng bình chọn trực tuyến](https://tienphong.vn/giai-thuong-guong-mat-tre-viet-nam-2024-buoc-vao-vong-binh-chon-truc-tuyen-post1718568.tpo) - 20:48 20/02/2025
 - 🌜 [Giám đốc các sở mới thành lập ở Bình Định là ai?](https://tienphong.vn/giam-doc-cac-so-moi-thanh-lap-o-binh-dinh-la-ai-post1718795.tpo) - 20:43 20/02/2025
