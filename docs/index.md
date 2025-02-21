@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Xe giường nằm đâm ôtô đầu kéo, ít nhất ba người chết](https://vnexpress.net/xe-giuong-nam-dam-oto-dau-keo-it-nhat-ba-nguoi-chet-4852572.html) - 17:12 21/02/2025
+- 🚀 [Xe giường nằm đâm ôtô đầu kéo, 6 người chết](https://vnexpress.net/xe-giuong-nam-dam-oto-dau-keo-6-nguoi-chet-4852572.html) - 17:12 21/02/2025
 - 🧰 [48 giờ sống chậm ở La Gi](https://vnexpress.net/48-gio-song-cham-o-la-gi-4851917.html) - 17:09 21/02/2025
 - 🥰 [Cách ăn uống giúp trẻ mau hồi phục khi mắc cúm](https://vnexpress.net/cach-an-uong-giup-tre-mau-hoi-phuc-khi-mac-cum-4850945.html) - 17:03 21/02/2025
 - 🌏 [Bí quyết thăng tiến sự nghiệp năm 2025 dành cho 12 cung hoàng đạo](https://vnexpress.net/bi-quyet-thang-tien-su-nghiep-nam-2025-danh-cho-12-cung-hoang-dao-4851084.html) - 17:01 21/02/2025
