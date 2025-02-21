@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Thủ tướng cảnh cáo nguyên Chủ tịch Hà Nam Nguyễn Xuân Đông](https://vnexpress.net/thu-tuong-canh-cao-nguyen-chu-tich-ha-nam-nguyen-xuan-dong-4852502.html) - 11:30 21/02/2025
-- 🤓 [Hàng chục tỉnh thành không đạt chuẩn đơn vị hành chính](https://vnexpress.net/hang-chuc-tinh-thanh-khong-dat-chuan-don-vi-hanh-chinh-4852346.html) - 10:56 21/02/2025
+- 🤓 [Hàng chục tỉnh thành không đạt tiêu chí về diện tích, dân số](https://vnexpress.net/hang-chuc-tinh-thanh-khong-dat-tieu-chi-ve-dien-tich-dan-so-4852346.html) - 10:56 21/02/2025
 - ⚗️ [Sân bay Gia Bình có thể tiếp nhận chuyên cơ](https://vnexpress.net/san-bay-gia-binh-co-the-tiep-nhan-chuyen-co-4852452.html) - 10:16 21/02/2025
 - 🌊 [Miền Bắc sẽ dứt nồm ẩm từ ngày 23/2](https://vnexpress.net/mien-bac-se-dut-nom-am-tu-ngay-23-2-4852411.html) - 09:51 21/02/2025
 - 🎓 [Đề nghị quy định rõ tiền thưởng, ăn trưa không tính đóng BHXH](https://vnexpress.net/de-nghi-quy-dinh-ro-tien-thuong-an-trua-khong-tinh-dong-bhxh-4852362.html) - 09:04 21/02/2025
