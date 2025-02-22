@@ -4,9 +4,9 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Khánh thành 2 phòng học Dân trí ở vùng khó tỉnh Kon Tum](https://dantri.com.vn/tam-long-nhan-ai/khanh-thanh-2-phong-hoc-dan-tri-o-vung-kho-tinh-kon-tum-20250222064709729.htm) - 03:00 22/02/2025
-- 🌈 [10 câu &quot;tự nhủ lòng&quot; của người thành công cha mẹ nên dạy cho con](https://dantri.com.vn/giao-duc/10-cau-tu-nhu-long-cua-nguoi-thanh-cong-cha-me-nen-day-cho-con-20250220115908683.htm) - 02:00 22/02/2025
-- 🐎 [Vòng 1/8 Champions League: Hàng rào phá bỏ, trận chung kết trong mơ](https://dantri.com.vn/the-thao/vong-18-champions-league-hang-rao-pha-bo-tran-chung-ket-trong-mo-20250222014921798.htm) - 23:56 21/02/2025
+- 🤠 [Vòng 1/8 Champions League: Hàng rào phá bỏ, trận chung kết trong mơ](https://dantri.com.vn/the-thao/vong-18-champions-league-hang-rao-pha-bo-tran-chung-ket-trong-mo-20250222014921798.htm) - 05:22 22/02/2025
+- 🌈 [Khánh thành 2 phòng học Dân trí ở vùng khó tỉnh Kon Tum](https://dantri.com.vn/tam-long-nhan-ai/khanh-thanh-2-phong-hoc-dan-tri-o-vung-kho-tinh-kon-tum-20250222064709729.htm) - 03:00 22/02/2025
+- 🐎 [10 câu &quot;tự nhủ lòng&quot; của người thành công cha mẹ nên dạy cho con](https://dantri.com.vn/giao-duc/10-cau-tu-nhu-long-cua-nguoi-thanh-cong-cha-me-nen-day-cho-con-20250220115908683.htm) - 02:00 22/02/2025
 - 👹 [Nhan nhản biển báo &quot;núp lùm&quot; ở TPHCM gây khó cho tài xế](https://dantri.com.vn/xa-hoi/nhan-nhan-bien-bao-nup-lum-o-tphcm-gay-kho-cho-tai-xe-20250214221756360.htm) - 23:50 21/02/2025
 - 🫶 [Vì sao bóng bay là món đồ chơi nguy hiểm chết người?](https://dantri.com.vn/khoa-hoc/vi-sao-bong-bay-la-mon-do-choi-nguy-hiem-chet-nguoi-20250222014849542.htm) - 23:48 21/02/2025
 - ⛽️ [Bộ máy gọn nhẹ, dân được hưởng lợi, đất nước có thêm nguồn lực phát triển](https://dantri.com.vn/xa-hoi/bo-may-gon-nhe-dan-duoc-huong-loi-dat-nuoc-co-them-nguon-luc-phat-trien-20250221231317191.htm) - 23:30 21/02/2025
