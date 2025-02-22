@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [5 bệnh nhân nặng vụ đâm xe ở Sơn La chuyển viện Việt Đức](https://vnexpress.net/5-benh-nhan-nang-vu-dam-xe-o-son-la-chuyen-vien-viet-duc-4852812.html) - 12:11 22/02/2025
+- 🔥 [Nạn nhân vụ đâm xe ở Sơn La đa chấn thương](https://vnexpress.net/nan-nhan-vu-dam-xe-o-son-la-da-chan-thuong-4852812.html) - 12:11 22/02/2025
 - 🥰 [Mắc não mô cầu không triệu chứng có lây bệnh không?](https://vnexpress.net/mac-nao-mo-cau-khong-trieu-chung-co-lay-benh-khong-4852674.html) - 12:00 22/02/2025
 - 💡 [Mất con, sản phụ tố cáo bệnh viện tắc trách](https://vnexpress.net/mat-con-san-phu-to-cao-benh-vien-tac-trach-4852804.html) - 11:10 22/02/2025
 - 🤗 [Trẻ mấy tháng tuổi được cấy ốc tai điện tử?](https://vnexpress.net/tre-may-thang-tuoi-duoc-cay-oc-tai-dien-tu-4852705.html) - 11:00 22/02/2025
