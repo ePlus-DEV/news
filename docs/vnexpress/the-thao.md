@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [Cựu HCV duathlon SEA Games tranh ngôi vô địch giải chạy đêm TP HCM](https://vnexpress.net/cuu-hcv-duathlon-sea-games-tranh-ngoi-vo-dich-giai-chay-dem-tp-hcm-4852456.html) - 08:00 22/02/2025
 - 🧰 [Duy Mạnh dắt tay các em nhỏ về đích tại Kun Marathon TP HCM](https://vnexpress.net/duy-manh-dat-tay-cac-em-nho-ve-dich-tai-kun-marathon-tp-hcm-4852625.html) - 07:00 22/02/2025
 - 🤗 [Bóng hồng khuấy động Expo giải chạy đêm TP HCM](https://vnexpress.net/bong-hong-khuay-dong-expo-giai-chay-dem-tp-hcm-4852462.html) - 06:19 22/02/2025
-- 🥳 [Cầu thủ Duy Mạnh cùng 2.000 runner nhí căng sức đua Kun Marathon](https://vnexpress.net/cau-thu-duy-manh-cung-2-000-runner-nhi-cang-suc-dua-kun-marathon-4852631.html) - 05:47 22/02/2025
+- 🥳 [Cầu thủ Duy Mạnh chạy cùng 2.000 runner Kun Marathon TP HCM](https://vnexpress.net/cau-thu-duy-manh-chay-cung-2-000-runner-kun-marathon-tp-hcm-4852631.html) - 05:47 22/02/2025
 - 🦣 [2.000 trẻ chạy đua, vượt thử thách tại Kun Marathon TP HCM](https://vnexpress.net/2-000-tre-chay-dua-vuot-thu-thach-tai-kun-marathon-tp-hcm-4852621.html) - 05:16 22/02/2025
 - 🌜 [Bình Dương Running Club áp đảo ở giải chạy đêm TP HCM](https://vnexpress.net/binh-duong-running-club-ap-dao-o-giai-chay-dem-tp-hcm-4852672.html) - 05:08 22/02/2025
 - 🫶 [Hojlund khiến Man Utd sa sút thế nào](https://vnexpress.net/hojlund-khien-man-utd-sa-sut-the-nao-4851628.html) - 05:01 22/02/2025
