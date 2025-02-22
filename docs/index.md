@@ -590,7 +590,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 👺 [Độc lạ món ngon Lạng Sơn](https://tienphong.vn/doc-la-mon-ngon-lang-son-post1719286.tpo) - 19:15 22/02/2025
 - 💪 [Hai ngư dân Bình Định rơi xuống biển mất tích](https://tienphong.vn/hai-ngu-dan-binh-dinh-roi-xuong-bien-mat-tich-post1719296.tpo) - 19:06 22/02/2025
 - 💃 [NHỊP SỐNG 24: Chiến dịch bắt muỗi đổi tiền ở Philippines](https://tienphong.vn/nhip-song-24-chien-dich-bat-muoi-doi-tien-o-philippines-post1719291.tpo) - 18:54 22/02/2025
-- 🦍 [Trực tiếp bóng đá Everton vs MU 2-0 &lpar;H2&rpar;: Hiệp 2 bắt đầu](https://tienphong.vn/truc-tiep-bong-da-everton-vs-mu-2-0-h2-hiep-2-bat-dau-post1719205.tpo) - 18:45 22/02/2025
+- 🦍 [Trực tiếp bóng đá Everton vs MU 0-2 &lpar;Hết H1&rpar;: MU thủng lưới bàn thứ 2](https://tienphong.vn/truc-tiep-bong-da-everton-vs-mu-0-2-het-h1-mu-thung-luoi-ban-thu-2-post1719205.tpo) - 18:45 22/02/2025
 - 👹 [Cách nào Đà Lạt giữ danh hiệu thành phố sáng tạo âm nhạc?](https://tienphong.vn/cach-nao-da-lat-giu-danh-hieu-thanh-pho-sang-tao-am-nhac-post1719241.tpo) - 18:28 22/02/2025
 - 🌜 [Bắt 3 lãnh đạo xã liên quan sai phạm công tác đền bù sân bay Long Thành](https://tienphong.vn/bat-3-lanh-dao-xa-lien-quan-sai-pham-cong-tac-den-bu-san-bay-long-thanh-post1719298.tpo) - 18:19 22/02/2025
 - 🎓 [Người phụ nữ loã thể và con bị sát hại: Nghi phạm đang được cấp cứu](https://tienphong.vn/nguoi-phu-nu-loa-the-va-con-bi-sat-hai-nghi-pham-dang-duoc-cap-cuu-post1719283.tpo) - 18:17 22/02/2025
