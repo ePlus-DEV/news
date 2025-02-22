@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [&#39;Kẻ phân xác&#39; bí ẩn khiến thám tử lừng danh đau đầu](https://vnexpress.net/ke-phan-xac-bi-an-khien-tham-tu-lung-danh-dau-dau-4852515.html) - 23:00 21/02/2025
 - 🥰 [Dạy thêm mà không đăng ký kinh doanh, bị phạt thế nào?](https://vnexpress.net/day-them-ma-khong-dang-ky-kinh-doanh-bi-xu-phat-the-nao-4851878.html) - 17:00 21/02/2025
-- 🎓 [Giảng viên kiện Đại học Bách Khoa TP HCM ra quyết định &#39;nhắc nhở sai&#39;](https://vnexpress.net/giang-vien-kien-dai-hoc-bach-khoa-tp-hcm-ra-quyet-dinh-nhac-nho-sai-4851005.html) - 17:00 21/02/2025
+- 🎓 [Giảng viên kiện Trường đại học Bách Khoa TP HCM ra quyết định &#39;nhắc nhở sai&#39;](https://vnexpress.net/giang-vien-kien-truong-dai-hoc-bach-khoa-tp-hcm-ra-quyet-dinh-nhac-nho-sai-4851005.html) - 17:00 21/02/2025
 - 🤓 [Bà chủ công ty địa ốc kêu oan cáo buộc lừa 21 tỷ đồng](https://vnexpress.net/ba-chu-cong-ty-dia-oc-keu-oan-cao-buoc-lua-21-ty-dong-4852551.html) - 15:29 21/02/2025
 - 🎊 [Công an gỡ &#39;mã độc&#39; trong app, giúp người bị lừa lấy lại 690 triệu đồng](https://vnexpress.net/cong-an-go-ma-doc-trong-app-giup-nguoi-bi-lua-lay-lai-690-trieu-dong-4852557.html) - 15:16 21/02/2025
 - 🙉 [Một phụ nữ Việt bị Singapore phạt tù vì livestream khiêu dâm kiếm tiền](https://vnexpress.net/nguoi-phu-nu-viet-bi-singapore-phat-tu-vi-livestream-khieu-dam-4852535.html) - 13:14 21/02/2025
