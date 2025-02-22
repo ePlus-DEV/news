@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Tác giả Mỹ giành quyền nuôi con với Elon Musk](https://vnexpress.net/tac-gia-my-gianh-quyen-nuoi-con-voi-elon-musk-4852835.html) - 16:24 22/02/2025
+- 🌏 [Tác giả Mỹ kiện Elon Musk để giành nuôi con](https://vnexpress.net/tac-gia-my-kien-elon-musk-de-gianh-nuoi-con-4852835.html) - 16:24 22/02/2025
 - 💫 [Phương Mỹ Chi: &#39;Tôi đóng phim còn non&#39;](https://vnexpress.net/phuong-my-chi-toi-dong-phim-con-non-4852418.html) - 12:17 22/02/2025
 - 🌮 [Khoảnh khắc hẹn hò của vợ chồng H&#39;Hen Niê](https://vnexpress.net/khoanh-khac-hen-ho-cua-vo-chong-h-hen-nie-4852753.html) - 08:51 22/02/2025
 - 🧠 [Mỹ Anh: &#39;Tôi muốn chinh phục khán giả quốc tế&#39;](https://vnexpress.net/my-anh-toi-muon-chinh-phuc-khan-gia-quoc-te-4852197.html) - 07:00 22/02/2025
