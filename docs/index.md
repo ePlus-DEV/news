@@ -593,7 +593,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💼 [Showbiz 23/2: Hoài Lâm có bạn gái mới](https://tienphong.vn/showbiz-232-hoai-lam-co-ban-gai-moi-post1719558.tpo) - 23:36 23/02/2025
 - 🎊 [Rapper tỷ view, dàn ca sĩ và hoa hậu, á hậu đổ bộ ngày hội tuyển sinh Hoa hậu Việt Nam](https://tienphong.vn/rapper-ty-view-dan-ca-si-va-hoa-hau-a-hau-do-bo-ngay-hoi-tuyen-sinh-hoa-hau-viet-nam-post1719496.tpo) - 23:31 23/02/2025
 - 💼 [Sập sân khấu kịch](https://tienphong.vn/sap-san-khau-kich-post1719533.tpo) - 23:24 23/02/2025
-- 👺 [Trực tiếp Man City vs Liverpool 0-2 &lpar;H2&rpar;: City suýt thua bàn thứ 3](https://tienphong.vn/truc-tiep-man-city-vs-liverpool-0-2-h2-city-suyt-thua-ban-thu-3-post1719524.tpo) - 22:30 23/02/2025
+- 👺 [Liverpool thắng toàn diện Man City, bỏ xa Arsenal 11 điểm](https://tienphong.vn/liverpool-thang-toan-dien-man-city-bo-xa-arsenal-11-diem-post1719524.tpo) - 22:30 23/02/2025
 - 💪 [Giáo hoàng Francis gửi thông điệp từ bệnh viện](https://tienphong.vn/giao-hoang-francis-gui-thong-diep-tu-benh-vien-post1719538.tpo) - 21:45 23/02/2025
 - 💃 [HIGHLIGHTS CAHN 2-1 Thể Công Viettel: Trận đấu đầy cảm xúc, thừa kịch tính với 2 bàn thắng phút bù giờ](https://tienphong.vn/highlights-cahn-2-1-the-cong-viettel-tran-dau-day-cam-xuc-thua-kich-tinh-voi-2-ban-thang-phut-bu-gio-post1719477.tpo) - 21:28 23/02/2025
 - 🦍 [HIGHLIGHTS Thanh Hóa vs Quảng Nam: Bùng nổ phút cuối](https://tienphong.vn/highlights-thanh-hoa-vs-quang-nam-bung-no-phut-cuoi-post1719532.tpo) - 21:09 23/02/2025
