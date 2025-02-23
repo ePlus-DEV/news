@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Dự kiến chế độ dành cho quân nhân nghỉ hưu trước tuổi khi tinh gọn bộ máy](https://vnexpress.net/du-kien-che-do-danh-cho-quan-nhan-nghi-huu-truoc-tuoi-khi-tinh-gon-bo-may-4852747.html) - 23:00 22/02/2025
+- 🦒 [Dự kiến chế độ cho quân nhân nghỉ hưu trước tuổi khi tinh gọn bộ máy](https://vnexpress.net/du-kien-che-do-cho-quan-nhan-nghi-huu-truoc-tuoi-khi-tinh-gon-bo-may-4852747.html) - 23:00 22/02/2025
 - 🤓 [Đấu thầu làm dự án trên hai khu đất hơn 70.000 m2 ở Nha Trang](https://vnexpress.net/dau-thau-lam-du-an-tren-hai-khu-dat-hon-70-000-m2-o-nha-trang-4852803.html) - 17:00 22/02/2025
 - ⚗️ [Hai thanh niên gặp nạn khi đi dã ngoại](https://vnexpress.net/hai-thanh-nien-gap-nan-khi-di-da-ngoai-4852818.html) - 13:28 22/02/2025
 - 🌊 [Lực lượng vũ trang TP HCM tổng duyệt lễ ra quân huấn luyện 2025](https://vnexpress.net/luc-luong-vu-trang-tp-hcm-tong-duyet-le-ra-quan-huan-luyen-2025-4852813.html) - 12:08 22/02/2025
