@@ -5,17 +5,17 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Trâu húc hai người bị thương ở TP HCM](https://vnexpress.net/trau-huc-hai-nguoi-bi-thuong-o-tp-hcm-4852989.html) - 07:44 23/02/2025
-- 🤓 [Người dân có thể đổi giấy phép lái xe qua dịch vụ công trực tuyến](https://vnexpress.net/nguoi-dan-co-the-doi-giay-phep-lai-xe-qua-dich-vu-cong-truc-tuyen-4852906.html) - 03:24 23/02/2025
-- ⚗️ [Dự kiến chế độ cho quân nhân nghỉ hưu trước tuổi khi tinh gọn bộ máy](https://vnexpress.net/du-kien-che-do-cho-quan-nhan-nghi-huu-truoc-tuoi-khi-tinh-gon-bo-may-4852747.html) - 23:00 22/02/2025
-- 🌊 [Đấu thầu làm dự án trên hai khu đất hơn 70.000 m2 ở Nha Trang](https://vnexpress.net/dau-thau-lam-du-an-tren-hai-khu-dat-hon-70-000-m2-o-nha-trang-4852803.html) - 17:00 22/02/2025
-- 🎓 [Hai thanh niên gặp nạn khi đi dã ngoại](https://vnexpress.net/hai-thanh-nien-gap-nan-khi-di-da-ngoai-4852818.html) - 13:28 22/02/2025
-- 🔥 [Lực lượng vũ trang TP HCM tổng duyệt lễ ra quân huấn luyện 2025](https://vnexpress.net/luc-luong-vu-trang-tp-hcm-tong-duyet-le-ra-quan-huan-luyen-2025-4852813.html) - 12:08 22/02/2025
-- 🦏 [Bùn vẫn trào lên do khoan ngầm dự án metro Nhổn - ga Hà Nội](https://vnexpress.net/bun-van-trao-len-do-khoan-ngam-du-an-metro-nhon-ga-ha-noi-4852797.html) - 12:02 22/02/2025
-- 👺 [Tổng Bí thư Tô Lâm trải nghiệm metro Bến Thành - Suối Tiên](https://vnexpress.net/tong-bi-thu-to-lam-trai-nghiem-metro-ben-thanh-suoi-tien-4852795.html) - 10:33 22/02/2025
-- 🧑‍🏫 [Nạn nhân vụ tông xe: Tiếng va chạm như bom nổ](https://vnexpress.net/nan-nhan-vu-tong-xe-tieng-va-cham-nhu-bom-no-4852748.html) - 09:27 22/02/2025
-- 🚦 [Khởi công tuyến đường sắt Văn Cao - Hòa Lạc trong năm 2025](https://vnexpress.net/khoi-cong-tuyen-duong-sat-van-cao-hoa-lac-trong-nam-2025-4852698.html) - 06:44 22/02/2025
-- 🎉 [Đẩy tiến độ giải phóng mặt bằng hai cao tốc qua Lạng Sơn, Cao Bằng](https://vnexpress.net/day-tien-do-giai-phong-mat-bang-hai-cao-toc-qua-lang-son-cao-bang-4852706.html) - 06:24 22/02/2025
-- 🦒 [Sửa chữa mặt đường cao tốc Nội Bài - Lào Cai](https://vnexpress.net/sua-chua-mat-duong-cao-toc-noi-bai-lao-cai-4852685.html) - 06:08 22/02/2025
+- 🤓 [Sửa chữa mặt đường cao tốc Nội Bài - Lào Cai](https://vnexpress.net/sua-chua-mat-duong-cao-toc-noi-bai-lao-cai-4852685.html) - 06:08 23/02/2025
+- ⚗️ [Người dân có thể đổi giấy phép lái xe qua dịch vụ công trực tuyến](https://vnexpress.net/nguoi-dan-co-the-doi-giay-phep-lai-xe-qua-dich-vu-cong-truc-tuyen-4852906.html) - 03:24 23/02/2025
+- 🌊 [Dự kiến chế độ cho quân nhân nghỉ hưu trước tuổi khi tinh gọn bộ máy](https://vnexpress.net/du-kien-che-do-cho-quan-nhan-nghi-huu-truoc-tuoi-khi-tinh-gon-bo-may-4852747.html) - 23:00 22/02/2025
+- 🎓 [Đấu thầu làm dự án trên hai khu đất hơn 70.000 m2 ở Nha Trang](https://vnexpress.net/dau-thau-lam-du-an-tren-hai-khu-dat-hon-70-000-m2-o-nha-trang-4852803.html) - 17:00 22/02/2025
+- 🔥 [Hai thanh niên gặp nạn khi đi dã ngoại](https://vnexpress.net/hai-thanh-nien-gap-nan-khi-di-da-ngoai-4852818.html) - 13:28 22/02/2025
+- 🦏 [Lực lượng vũ trang TP HCM tổng duyệt lễ ra quân huấn luyện 2025](https://vnexpress.net/luc-luong-vu-trang-tp-hcm-tong-duyet-le-ra-quan-huan-luyen-2025-4852813.html) - 12:08 22/02/2025
+- 👺 [Bùn vẫn trào lên do khoan ngầm dự án metro Nhổn - ga Hà Nội](https://vnexpress.net/bun-van-trao-len-do-khoan-ngam-du-an-metro-nhon-ga-ha-noi-4852797.html) - 12:02 22/02/2025
+- 🧑‍🏫 [Tổng Bí thư Tô Lâm trải nghiệm metro Bến Thành - Suối Tiên](https://vnexpress.net/tong-bi-thu-to-lam-trai-nghiem-metro-ben-thanh-suoi-tien-4852795.html) - 10:33 22/02/2025
+- 🚦 [Nạn nhân vụ tông xe: Tiếng va chạm như bom nổ](https://vnexpress.net/nan-nhan-vu-tong-xe-tieng-va-cham-nhu-bom-no-4852748.html) - 09:27 22/02/2025
+- 🎉 [Khởi công tuyến đường sắt Văn Cao - Hòa Lạc trong năm 2025](https://vnexpress.net/khoi-cong-tuyen-duong-sat-van-cao-hoa-lac-trong-nam-2025-4852698.html) - 06:44 22/02/2025
+- 🦒 [Đẩy tiến độ giải phóng mặt bằng hai cao tốc qua Lạng Sơn, Cao Bằng](https://vnexpress.net/day-tien-do-giai-phong-mat-bang-hai-cao-toc-qua-lang-son-cao-bang-4852706.html) - 06:24 22/02/2025
 - 🤗 [Phó chủ nhiệm Ủy ban Kiểm tra Trung ương làm Bí thư Long An](https://vnexpress.net/pho-chu-nhiem-uy-ban-kiem-tra-trung-uong-lam-bi-thu-long-an-4851341.html) - 01:07 22/02/2025
 - 💼 [Nghề môi giới tìm việc cho công nhân](https://vnexpress.net/nghe-moi-gioi-tim-viec-cho-cong-nhan-4852022.html) - 21:00 21/02/2025
 - 🤩 [Xe giường nằm đâm ôtô đầu kéo, 6 người chết](https://vnexpress.net/xe-giuong-nam-dam-oto-dau-keo-6-nguoi-chet-4852572.html) - 17:12 21/02/2025
