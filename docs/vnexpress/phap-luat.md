@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Bảo vệ chung cư mang nhiều ôtô của cư dân đi cầm cố](https://vnexpress.net/bao-ve-chung-cu-mang-nhieu-oto-cua-cu-dan-di-cam-co-4852790.html) - 23:00 22/02/2025
 - 🥰 [Những phi vụ của Trưởng Công an TP Phú Quốc với &#39;em gái nuôi&#39;](https://vnexpress.net/nhung-phi-vu-cua-truong-cong-an-tp-phu-quoc-voi-em-gai-nuoi-4852138.html) - 23:00 22/02/2025
 - 🎓 [Nam sinh khóc, khai lý do cướp cửa hàng điện thoại](https://vnexpress.net/nam-sinh-khoc-khai-ly-do-cuop-cua-hang-dien-thoai-4852839.html) - 17:00 22/02/2025
-- 🤓 [Cách đọc vị thủ đoạn giả công an gọi điện thoại lừa &#39;liên quan vụ án&#39;](https://vnexpress.net/cach-doc-vi-thu-doan-gia-cong-an-goi-dien-thoai-lua-lien-quan-vu-an-4852326.html) - 17:00 22/02/2025
+- 🤓 [Nhận diện thủ đoạn giả công an gọi điện thoại lừa &#39;liên quan vụ án&#39;](https://vnexpress.net/nhan-dien-thu-doan-gia-cong-an-goi-dien-thoai-lua-lien-quan-vu-an-4852326.html) - 17:00 22/02/2025
 - 🎊 [Cha mẹ cấm con yêu sớm, có phạm luật?](https://vnexpress.net/cha-me-cam-con-yeu-som-co-pham-luat-4852297.html) - 17:00 22/02/2025
 - 🙉 [Tài xế uống một lít rượu trước khi lái ôtô, kéo lê xe máy nhiều km](https://vnexpress.net/tai-xe-oto-uong-mot-lit-ruou-keo-le-xe-may-nhieu-km-4852834.html) - 15:05 22/02/2025
 - 🤡 [Hỗn chiến vì bạn gái bị &#39;đụng chạm&#39;](https://vnexpress.net/hon-chien-vi-ban-gai-bi-dung-cham-4852821.html) - 14:13 22/02/2025
