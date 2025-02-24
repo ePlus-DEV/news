@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Tiêm kích Israel bay qua lễ tang cựu thủ lĩnh Hezbollah](https://vnexpress.net/tiem-kich-israel-bay-qua-le-tang-cuu-thu-linh-hezbollah-4853394.html) - 08:33 24/02/2025
 - 🕴 [Nga muốn đạt thỏa thuận hòa bình lâu dài với Ukraine](https://vnexpress.net/nga-muon-dat-thoa-thuan-hoa-binh-lau-dai-voi-ukraine-4853352.html) - 08:28 24/02/2025
-- 🤭 [Khoảnh khắc &#39;lá chắn tên lửa đạn đạo&#39; Ukraine nổ tung vì trúng Iskander](https://vnexpress.net/khoanh-khac-la-chan-ten-lua-dan-dao-ukraine-no-tung-vi-trung-iskander-4853258.html) - 08:06 24/02/2025
+- 🤭 [&#39;Lá chắn tên lửa đạn đạo&#39; Ukraine nổ tung vì trúng Iskander](https://vnexpress.net/la-chan-ten-lua-dan-dao-ukraine-no-tung-vi-trung-iskander-4853258.html) - 08:06 24/02/2025
 - 🧑‍💻 [Ông Zelensky chỉ trích Mỹ ép dân Ukraine &#39;10 đời gánh nợ&#39;](https://vnexpress.net/ong-zelensky-chi-trich-my-ep-dan-ukraine-10-doi-ganh-no-4853318.html) - 07:42 24/02/2025
 - 🦏 [Tâm trạng người Ukraine khi ông Trump đòi 500 tỷ USD khoáng sản](https://vnexpress.net/tam-trang-nguoi-ukraine-khi-ong-trump-doi-500-ty-usd-khoang-san-4853056.html) - 07:12 24/02/2025
 - 🦒 [Hezbollah tổ chức lễ tang cho hai cựu thủ lĩnh bị Israel hạ sát](https://vnexpress.net/hezbollah-to-chuc-le-tang-cho-hai-cuu-thu-linh-bi-israel-ha-sat-4853151.html) - 04:05 24/02/2025
