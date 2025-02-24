@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [&#39;Sáp nhập giúp tỉnh thành có không gian phát triển&#39;](https://vnexpress.net/sap-nhap-giup-tinh-thanh-co-khong-gian-phat-trien-4853015.html) - 11:39 24/02/2025
 - 🤓 [Đề xuất lộ trình thu bảo hiểm bắt buộc với chủ hộ kinh doanh](https://vnexpress.net/de-xuat-lo-trinh-thu-bao-hiem-bat-buoc-voi-chu-ho-kinh-doanh-4853484.html) - 11:25 24/02/2025
-- ⚗️ [Xe đầu kéo lao xuống vực 100 m, một người tử nạn](https://vnexpress.net/xe-dau-keo-lao-xuong-vuc-100-m-mot-nguoi-tu-nan-4853504.html) - 10:45 24/02/2025
+- ⚗️ [Xe đầu kéo lao xuống vực 100 m, hai người tử nạn](https://vnexpress.net/xe-dau-keo-lao-xuong-vuc-100-m-hai-nguoi-tu-nan-4853504.html) - 10:45 24/02/2025
 - 🌊 [10 phút nỗ lực cứu 8 người mắc kẹt trong cửa hàng cháy](https://vnexpress.net/10-phut-no-luc-cuu-8-nguoi-mac-ket-trong-cua-hang-chay-4853442.html) - 10:41 24/02/2025
 - 🎓 [Xe cấp cứu vượt đèn đỏ gây tai nạn](https://vnexpress.net/xe-cap-cuu-vuot-den-do-gay-tai-nan-4853500.html) - 09:53 24/02/2025
 - 🔥 [An táng cá voi tại lễ hội Cầu Ngư](https://vnexpress.net/an-tang-ca-voi-tai-le-hoi-cau-ngu-4853463.html) - 09:53 24/02/2025
