@@ -4,7 +4,7 @@ sidebar_position: 23
 ---
 
 <!-- dantri-suc-khoe:START -->
-- 🤔 [Thủ tướng: Bệnh viện Bạch Mai là &quot;pháo đài&quot; trong chiến tranh và thời bình](https://dantri.com.vn/suc-khoe/thu-tuong-benh-vien-bach-mai-la-phao-dai-trong-chien-tranh-va-thoi-binh-20250224181840233.htm) - 11:29 24/02/2025
+- 🤔 [Bệnh viện Bạch Mai đã tháo gỡ được nhiều &quot;nút thắt&quot;](https://dantri.com.vn/suc-khoe/benh-vien-bach-mai-da-thao-go-duoc-nhieu-nut-that-20250224181840233.htm) - 11:29 24/02/2025
 - 🚦 [Khám tại  y tế cơ sở, hơn 12.000 người Hà Nội phát hiện tăng huyết áp](https://dantri.com.vn/suc-khoe/kham-tai-y-te-co-so-hon-12000-nguoi-ha-noi-phat-hien-tang-huyet-ap-20250224162315359.htm) - 09:42 24/02/2025
 - 🤖 [Tổng Bí thư Tô Lâm: Ngành y tế đang đối mặt với nhiều thách thức lớn](https://dantri.com.vn/suc-khoe/tong-bi-thu-to-lam-nganh-y-te-dang-doi-mat-voi-nhieu-thach-thuc-lon-20250224135107610.htm) - 07:06 24/02/2025
 - 🐻 [TPHCM: Phát hiện ca nhiễm não mô cầu, 2 ca khác nghi nhiễm](https://dantri.com.vn/suc-khoe/tphcm-phat-hien-ca-nhiem-nao-mo-cau-2-ca-khac-nghi-nhiem-20250224105547917.htm) - 04:37 24/02/2025
