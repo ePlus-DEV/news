@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Truy sát mẹ trong trận cãi vã](https://vnexpress.net/truy-sat-me-trong-tran-cai-va-4853403.html) - 08:34 24/02/2025
-- 🥰 [Dí mã tấu vào cổ tình địch, bắt quỳ xin lỗi trên sân bóng](https://vnexpress.net/di-ma-tau-vao-co-tinh-dich-bat-quy-xin-loi-tren-san-bong-4853349.html) - 08:15 24/02/2025
+- 🥰 [Dí mã tấu vào cổ, bắt quỳ xin lỗi trên sân bóng](https://vnexpress.net/di-ma-tau-vao-co-tinh-dich-bat-quy-xin-loi-tren-san-bong-4853349.html) - 08:15 24/02/2025
 - 🎓 [Trộm tài sản của bệnh nhân trong viện](https://video.vnexpress.net/trom-tai-san-cua-benh-nhan-trong-vien-4853322.html) - 06:54 24/02/2025
 - 🤓 [Bà chủ công ty địa ốc kêu oan bất thành](https://vnexpress.net/ba-chu-cong-ty-dia-oc-keu-oan-bat-thanh-4853313.html) - 05:38 24/02/2025
 - 🎊 [Giả công an đe dọa, đến tận nhà lấy một tỷ đồng và 5,2 cây vàng](https://vnexpress.net/gia-cong-an-de-doa-den-tan-nha-lay-mot-ty-dong-va-5-2-cay-vang-4853304.html) - 05:19 24/02/2025
