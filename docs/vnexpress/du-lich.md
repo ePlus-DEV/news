@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Những quy định mới cho du khách khi du lịch Triều Tiên](https://vnexpress.net/nhung-quy-dinh-moi-cho-du-khach-khi-du-lich-trieu-tien-4853586.html) - 02:03 25/02/2025
+- 💂 [Quy định du lịch khi Triều Tiên tái mở cửa sau 5 năm](https://vnexpress.net/quy-dinh-du-lich-khi-trieu-tien-tai-mo-cua-sau-5-nam-4853586.html) - 02:03 25/02/2025
 - 🪄 [TP HCM rực sáng trong đêm đua VnExpress Marathon](https://vnexpress.net/tp-hcm-ruc-sang-trong-dem-dua-vnexpress-marathon-4852951.html) - 01:52 25/02/2025
 - 🦅 [Đổ xô đến ga metro An Phú chụp ảnh &#39;thời thượng&#39;](https://vnexpress.net/do-xo-den-ga-metro-an-phu-chup-anh-thoi-thuong-4853400.html) - 00:00 25/02/2025
 - 🕴 [Các món ăn đường phố Việt trong top ngon nhất Đông Nam Á](https://vnexpress.net/cac-mon-an-duong-pho-viet-trong-top-ngon-nhat-dong-nam-a-4853187.html) - 17:09 24/02/2025
