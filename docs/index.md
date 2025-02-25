@@ -181,7 +181,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 👹 [Bộ máy mới của UBND tỉnh Hà Giang sau sắp xếp](https://thanhnien.vn/bo-may-moi-cua-ubnd-tinh-ha-giang-sau-sap-xep-18525022518093495.htm) - 11:59 25/02/2025
 - 🦄 [Thông tin mới vụ xe cứu thương gây tai nạn ở TP.Bảo Lộc](https://thanhnien.vn/thong-tin-moi-vu-xe-cuu-thuong-gay-tai-nan-o-tpbao-loc-185250225171514002.htm) - 11:59 25/02/2025
 - 🤔 [Vì sao tên bão Yagi bị &#39;khai tử&#39;](https://thanhnien.vn/vi-sao-ten-bao-yagi-bi-khai-tu-185250225174456798.htm) - 11:55 25/02/2025
-- 🧰 [Bí ẩn MH370 mất tích: Cuộc tìm kiếm cuối cùng?](https://thanhnien.vn/bi-an-mh370-mat-tich-cuoc-tim-kiem-cuoi-cung-185250225182248317.htm) - 11:52 25/02/2025
+- 🧰 [Bí ẩn máy bay MH370 mất tích: Cuộc tìm kiếm cuối cùng?](https://thanhnien.vn/bi-an-mh370-mat-tich-cuoc-tim-kiem-cuoi-cung-185250225182248317.htm) - 11:52 25/02/2025
 - 🌁 [Đề xuất tăng hỗ trợ đóng BHXH tự nguyện lên 2 triệu đồng/năm](https://thanhnien.vn/de-xuat-tang-ho-tro-dong-bhxh-tu-nguyen-len-2-trieu-dong-nam-185250225180201908.htm) - 11:50 25/02/2025
 - 🧐 [Kiến nghị nâng cấp Bệnh viện Q.1 và trạm y tế phường để thu hút bác sĩ về làm việc](https://thanhnien.vn/kien-nghi-nang-cap-benh-vien-q1-va-tram-y-te-phuong-de-thu-hut-bac-si-ve-lam-viec-185250225180149553.htm) - 11:49 25/02/2025
 - 🌏 [Ông Nguyễn Ngọc Cảnh làm Phó thống đốc Ngân hàng Nhà nước](https://thanhnien.vn/ong-nguyen-ngoc-canh-lam-pho-thong-doc-ngan-hang-nha-nuoc-18525022517504029.htm) - 11:45 25/02/2025
