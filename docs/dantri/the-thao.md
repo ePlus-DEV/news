@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Man City có nguy cơ bị trừ 60 đến 100 điểm](https://dantri.com.vn/the-thao/man-city-co-nguy-co-bi-tru-60-den-100-diem-20250225112847738.htm) - 04:29 25/02/2025
+- 🎡 [Man City có nguy cơ bị trừ 60 đến 100 điểm](https://dantri.com.vn/the-thao/man-city-co-nguy-co-bi-tru-60-den-100-diem-20250225112847738.htm) - 04:45 25/02/2025
 - 💯 [U22 Việt Nam chạm trán Trung Quốc, Hàn Quốc và Uzbekistan](https://dantri.com.vn/the-thao/u22-viet-nam-cham-tran-trung-quoc-han-quoc-va-uzbekistan-20250225101920938.htm) - 03:32 25/02/2025
 - ⛽️ [Sa sút phong độ, De Bruyne chấp nhận ngồi dự bị tại Man City](https://dantri.com.vn/the-thao/sa-sut-phong-do-de-bruyne-chap-nhan-ngoi-du-bi-tai-man-city-20250225091442482.htm) - 02:55 25/02/2025
 - 💃 [Man Utd công bố chính sách &quot;thắt lưng buộc bụng&quot;, 200 người mất việc](https://dantri.com.vn/the-thao/man-utd-cong-bo-chinh-sach-that-lung-buoc-bung-200-nguoi-mat-viec-20250225083604166.htm) - 01:36 25/02/2025
