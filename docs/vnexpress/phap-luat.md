@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Nhóm lừa đảo &#39;thao túng tâm lý&#39; nữ sinh để tống tiền cha mẹ](https://vnexpress.net/nhom-lua-dao-thao-tung-tam-ly-nu-sinh-de-tong-tien-cha-me-4854396.html) - 11:33 26/02/2025
+- 😎 [Giả công an &#39;thao túng tâm lý&#39; nữ sinh để tống tiền người mẹ 1,5 tỷ đồng](https://vnexpress.net/gia-cong-an-thao-tung-tam-ly-nu-sinh-de-tong-tien-nguoi-me-1-5-ty-dong-4854396.html) - 11:33 26/02/2025
 - 🥰 [Vì sao Vinafood II chuyển giao gần 8.000 m2 đất &#39;vàng&#39; cho tư nhân?](https://vnexpress.net/vi-sao-vinafood-ii-chuyen-giao-gan-8-000-m2-dat-vang-cho-tu-nhan-4853763.html) - 10:45 26/02/2025
 - 🎓 [Cựu thẩm phán bị phạt 3 năm tù vì &#39;ép&#39; đương sự chung tiền](https://vnexpress.net/cuu-tham-phan-bi-phat-3-nam-tu-vi-ep-duong-su-chung-tien-4854357.html) - 10:06 26/02/2025
 - 🤓 [Cựu chủ tịch NXB Giáo dục xin giảm án tù 12 năm](https://vnexpress.net/cuu-chu-tich-nxb-giao-duc-xin-giam-an-tu-12-nam-4854339.html) - 08:56 26/02/2025
