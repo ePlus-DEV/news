@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Nguyễn Xuân Son chống nạng dự Gala Quả Bóng Vàng](https://vnexpress.net/nguyen-xuan-son-chong-nang-du-gala-qua-bong-vang-4854441.html) - 14:28 26/02/2025
-- 🦩 [Thùy Trang đoạt Quả Bóng Vàng nữ ở tuổi 37](https://vnexpress.net/truc-tiep-le-trao-qua-bong-vang-viet-nam-2024-4854380.html) - 12:30 26/02/2025
+- 🦩 [Tiến Linh lần đầu đoạt Quả Bóng Vàng Việt Nam](https://vnexpress.net/truc-tiep-le-trao-qua-bong-vang-viet-nam-2024-4854380-tong-thuat.html) - 12:30 26/02/2025
 - 🧰 [Rublev vật lộn với trầm cảm](https://vnexpress.net/rublev-vat-lon-voi-tram-cam-4854365.html) - 11:20 26/02/2025
 - 🤗 [Bố mẹ đòi tiền trợ cấp dù bỏ rơi cựu tiền đạo Arsenal lúc 2 tuổi](https://vnexpress.net/bo-me-doi-tien-tro-cap-du-bo-roi-cuu-tien-dao-arsenal-luc-2-tuoi-4854368.html) - 11:15 26/02/2025
 - 🥳 [Man City và nguy cơ mất suất dự Champions League](https://vnexpress.net/man-city-va-nguy-co-mat-suat-du-champions-league-4854037.html) - 08:24 26/02/2025
