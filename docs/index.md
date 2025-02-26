@@ -455,10 +455,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 👺 [Việt Nam lần đầu tiên có hãng lữ hành đạt chứng nhận Travelife Certified về du lịch bền vững](https://baochinhphu.vn/viet-nam-lan-dau-tien-co-hang-lu-hanh-dat-chung-nhan-travelife-certified-ve-du-lich-ben-vung-102250226154724656.htm) - 15:47 26/02/2025
 - 🦍 [Thủ tướng Phạm Minh Chính chủ trì lễ đón Thủ tướng New Zealand thăm chính thức Việt Nam](https://baochinhphu.vn/thu-tuong-pham-minh-chinh-chu-tri-le-don-thu-tuong-new-zealand-tham-chinh-thuc-viet-nam-102250226151707578.htm) - 15:46 26/02/2025
 - 🦍 [Thủ tướng điều động, bổ nhiệm một số Thứ trưởng Bộ Xây dựng](https://baochinhphu.vn/thu-tuong-dieu-dong-bo-nhiem-mot-so-thu-truong-bo-xay-dung-102250226150329715.htm) - 15:23 26/02/2025
-- 🧐 [Ông Đỗ Hữu Huy được bầu giữ chức Chủ tịch UBND tỉnh Bình Thuận](https://baochinhphu.vn/ong-do-huu-huy-duoc-bau-giu-chuc-chu-tich-ubnd-tinh-binh-thuan-102250226150302905.htm) - 15:06 26/02/2025
-- 🕴 [Bộ Văn hóa, Thể thao và Du lịch có 2 Thứ trưởng mới](https://baochinhphu.vn/bo-van-hoa-the-thao-va-du-lich-co-2-thu-truong-moi-102250225201015697.htm) - 14:55 26/02/2025
-- 🌈 [Số lượng và danh sách thành viên Ủy ban Văn hóa và Xã hội của Quốc hội](https://baochinhphu.vn/so-luong-va-danh-sach-thanh-vien-uy-ban-van-hoa-va-xa-hoi-cua-quoc-hoi-102250226175424599.htm) - 14:53 26/02/2025
-- 🔥 [Phó Thủ tướng Thường trực Nguyễn Hòa Bình: Rất ấn tượng với tinh thần làm việc tích cực và trách nhiệm của VPCP để hoàn thành tốt nhiệm vụ được giao](https://baochinhphu.vn/pho-thu-tuong-thuong-truc-nguyen-hoa-binh-chat-luong-tham-muu-cua-vpcp-can-nang-tam-chien-luoc-hon-vi-mo-hon-co-su-vuot-troi-10225022614363221.htm) - 14:53 26/02/2025<!-- baochinhphu:END -->
+- 🧐 [Công bố nhân sự Ủy ban Công tác đại biểu của Quốc hội](https://baochinhphu.vn/cong-bo-nhan-su-uy-ban-cong-tac-dai-bieu-cua-quoc-hoi-102250227011435408.htm) - 15:13 26/02/2025
+- 🕴 [Ông Đỗ Hữu Huy được bầu giữ chức Chủ tịch UBND tỉnh Bình Thuận](https://baochinhphu.vn/ong-do-huu-huy-duoc-bau-giu-chuc-chu-tich-ubnd-tinh-binh-thuan-102250226150302905.htm) - 15:06 26/02/2025
+- 🌈 [Bộ Văn hóa, Thể thao và Du lịch có 2 Thứ trưởng mới](https://baochinhphu.vn/bo-van-hoa-the-thao-va-du-lich-co-2-thu-truong-moi-102250225201015697.htm) - 14:55 26/02/2025
+- 🔥 [Số lượng và danh sách thành viên Ủy ban Văn hóa và Xã hội của Quốc hội](https://baochinhphu.vn/so-luong-va-danh-sach-thanh-vien-uy-ban-van-hoa-va-xa-hoi-cua-quoc-hoi-102250226175424599.htm) - 14:53 26/02/2025<!-- baochinhphu:END -->
 
 ## Thư Viện Pháp Luật
 <!-- thuvienphapluat:START -->
