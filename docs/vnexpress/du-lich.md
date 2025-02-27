@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Người nước ngoài tự làm hướng dẫn viên tái diễn ở Phú Quốc](https://vnexpress.net/nguoi-nuoc-ngoai-tu-lam-huong-dan-vien-tai-dien-o-phu-quoc-4854828.html) - 17:09 27/02/2025
+- 💂 [Người nước ngoài tự ý làm hướng dẫn viên ở Phú Quốc](https://vnexpress.net/nguoi-nuoc-ngoai-tu-y-lam-huong-dan-vien-o-phu-quoc-4854828.html) - 17:09 27/02/2025
 - 🪄 [Khách Hàn so sánh món Việt ở Seoul với bản &#39;gốc&#39;](https://vnexpress.net/khach-han-so-sanh-mon-viet-o-seoul-voi-ban-goc-4854725.html) - 12:00 27/02/2025
 - 🦅 [Những hãng bay có khoang hành khách tốt nhất thế giới](https://vnexpress.net/nhung-hang-bay-co-khoang-hanh-khach-tot-nhat-the-gioi-4854451.html) - 05:00 27/02/2025
 - 🕴 [Món cá cho trải nghiệm ranh giới sống - chết](https://vnexpress.net/mon-ca-cho-trai-nghiem-ranh-gioi-song-chet-4854532.html) - 03:29 27/02/2025
