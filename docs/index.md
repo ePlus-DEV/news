@@ -202,9 +202,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐲 [Giám sát chặt việc xả lũ, xả nước của các nhà máy thủy điện trên sông Mã](https://thanhnien.vn/giam-sat-chat-viec-xa-lu-xa-nuoc-cua-cac-nha-may-thuy-dien-tren-song-ma-18525022716063209.htm) - 10:49 27/02/2025
 - ⛽️ [Hai vợ chồng diễn viên nổi tiếng Hollywood đột ngột qua đời](https://thanhnien.vn/nam-dien-vien-doat-giai-oscar-cung-vo-dot-ngot-qua-doi-185250227170955777.htm) - 10:48 27/02/2025
 - 🎉 [Ghép thận - thành tựu y khoa nổi bật tại miền Tây](https://thanhnien.vn/ghep-than-thanh-tuu-y-khoa-noi-bat-tai-mien-tay-185250227160640732.htm) - 10:48 27/02/2025
-- 🎊 [Bộ Ngoại giao lên tiếng về việc Trung Quốc tập bắn đạn thật tại vịnh Bắc bộ](https://thanhnien.vn/bo-ngoai-giao-len-tieng-ve-viec-trung-quoc-tap-ban-dan-that-tai-vinh-bac-bo-185250227172714053.htm) - 10:42 27/02/2025
-- 🥳 [VCK TNSV THACO cup 2025: Hứa hẹn gay cấn và khó quên](https://thanhnien.vn/vck-tnsv-thaco-cup-2025-hua-hen-gay-can-va-kho-quen-185250227162342815.htm) - 10:37 27/02/2025
-- 🤡 [Tập trung xử lý dứt điểm vụ án liên quan Tập đoàn Thuận An, Công ty AIC](https://thanhnien.vn/tap-trung-xu-ly-dut-diem-vu-an-lien-quan-tap-doan-thuan-an-cong-ty-aic-185250227170101404.htm) - 10:32 27/02/2025<!-- thanhnien:END -->
+- 🎊 [VCK TNSV THACO cup 2025: Hứa hẹn gay cấn và khó quên](https://thanhnien.vn/vck-tnsv-thaco-cup-2025-hua-hen-gay-can-va-kho-quen-185250227162342815.htm) - 10:37 27/02/2025
+- 🥳 [Tập trung xử lý dứt điểm vụ án liên quan Tập đoàn Thuận An, Công ty AIC](https://thanhnien.vn/tap-trung-xu-ly-dut-diem-vu-an-lien-quan-tap-doan-thuan-an-cong-ty-aic-185250227170101404.htm) - 10:32 27/02/2025
+- 🤡 [Lộ diện các bảng đấu VCK TNSV THACO cup 2025: Chủ nhà chung bảng &#39;cựu vương&#39;](https://thanhnien.vn/lo-dien-cac-bang-dau-vck-tnsv-thaco-cup-2025-chu-nha-chung-bang-cuu-vuong-185250227171358997.htm) - 10:25 27/02/2025<!-- thanhnien:END -->
 
 ## Báo Lao Động
 <!-- laodong:START -->
