@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Quang Liêm đạt độ chính xác 97% ở ván một Prague Masters](https://vnexpress.net/quang-liem-dat-do-chinh-xac-97-o-van-mot-prague-masters-4854551.html) - 02:48 27/02/2025
 - 🦩 [Guardiola móc mỉa trọng tài hủy bàn của Haaland](https://vnexpress.net/guardiola-moc-mia-trong-tai-huy-ban-cua-haaland-4854516.html) - 01:19 27/02/2025
-- 🧰 [Garnacho dỗi sau khi bị HLV Amorim thay ra](https://vnexpress.net/garnacho-doi-sau-khi-bi-hlv-amorim-thay-ra-4854481.html) - 01:04 27/02/2025
+- 🧰 [Garnacho dỗi sau khi bị Amorim thay ra](https://vnexpress.net/garnacho-doi-sau-khi-bi-amorim-thay-ra-4854481.html) - 01:04 27/02/2025
 - 🤗 [Arteta: &#39;Arsenal thiếu tia lửa để ghi bàn&#39;](https://vnexpress.net/arteta-arsenal-thieu-tia-lua-de-ghi-ban-4854488.html) - 00:52 27/02/2025
 - 🥳 [Ten Hag: &#39;Cầu thủ thời nay không chịu được chỉ trích&#39;](https://vnexpress.net/ten-hag-cau-thu-thoi-nay-khong-chiu-duoc-chi-trich-4854491.html) - 00:49 27/02/2025
 - 🦣 [PSG chạm mốc 100 bàn mùa này](https://vnexpress.net/psg-cham-moc-100-ban-mua-nay-4854495.html) - 00:47 27/02/2025
