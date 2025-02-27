@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [MobiFone được chuyển về Bộ Công an](https://vnexpress.net/mobifone-duoc-chuyen-ve-bo-cong-an-4854801.html) - 09:23 27/02/2025
-- 🐲 [Chính phủ sẽ giao chỉ tiêu tăng trưởng cho doanh nghiệp, ngân hàng vốn Nhà nước](https://vnexpress.net/chinh-phu-se-giao-chi-tieu-tang-truong-cho-doanh-nghiep-ngan-hang-von-nha-nuoc-4854770.html) - 09:09 27/02/2025
+- 🐲 [Chính phủ sẽ giao chỉ tiêu tăng trưởng cho doanh nghiệp Nhà nước](https://vnexpress.net/chinh-phu-se-giao-chi-tieu-tang-truong-cho-doanh-nghiep-nha-nuoc-4854770.html) - 09:09 27/02/2025
 - 🔥 [Cổ phiếu ngành thép hút dòng tiền](https://vnexpress.net/co-phieu-nganh-thep-hut-dong-tien-4854787.html) - 09:02 27/02/2025
 - 🐵 [5 ngân hàng có vốn Nhà nước chiếm một nửa dư nợ nền kinh tế](https://vnexpress.net/5-ngan-hang-co-von-nha-nuoc-chiem-mot-nua-du-no-nen-kinh-te-4854728.html) - 08:44 27/02/2025
 - 🦅 [Giá xăng RON 95 giảm về sát 21.000 đồng](https://vnexpress.net/gia-xang-moi-nhat-hom-nay-27-2-4854745.html) - 07:51 27/02/2025
