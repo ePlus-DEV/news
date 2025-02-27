@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nam sinh hai lần thi vượt cấp, là á khoa học sinh giỏi Tin học của Hà Nội](https://vnexpress.net/nam-sinh-hai-lan-thi-vuot-cap-la-a-khoa-hoc-sinh-gioi-tin-hoc-cua-ha-noi-4854452.html) - 08:02 27/02/2025
+- 🤓 [Nam sinh lớp 8 là á khoa thi học sinh giỏi Tin học của Hà Nội](https://vnexpress.net/nam-sinh-lop-8-la-a-khoa-thi-hoc-sinh-gioi-tin-hoc-cua-ha-noi-4854452.html) - 08:02 27/02/2025
 - 🦆 [Cựu chuyên gia tuyển sinh Stanford: Không thổi phồng hoạt động ngoại khóa khi ứng tuyển](https://vnexpress.net/cuu-chuyen-gia-tuyen-sinh-stanford-khong-thoi-phong-hoat-dong-ngoai-khoa-khi-ung-tuyen-4853565.html) - 05:00 27/02/2025
 - 🦩 [Cơ hội học và nhận bằng cử nhân Mỹ tại Việt Nam](https://vnexpress.net/co-hoi-hoc-va-nhan-bang-cu-nhan-my-tai-viet-nam-4854244.html) - 02:00 27/02/2025
 - 🌮 [Chàng trai dùng AI ôn luyện, đạt 9.0 IELTS](https://vnexpress.net/chang-trai-dung-ai-on-luyen-dat-9-0-ielts-4854271.html) - 23:09 26/02/2025
