@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Thủ tướng kêu gọi tập đoàn lớn Trung Quốc lấy Việt Nam làm cứ điểm sản xuất](https://vnexpress.net/thu-tuong-keu-goi-tap-doan-lon-trung-quoc-lay-viet-nam-lam-cu-diem-san-xuat-4855362.html) - 14:51 28/02/2025
+- ⛽️ [Thủ tướng kêu gọi tập đoàn lớn Trung Quốc tiếp tục đầu tư](https://vnexpress.net/thu-tuong-keu-goi-tap-doan-lon-trung-quoc-tiep-tuc-dau-tu-4855362.html) - 14:51 28/02/2025
 - 🐲 [Phó thống đốc: &#39;Ngân hàng đang cho vay nhiều hơn huy động&#39;](https://vnexpress.net/ngan-hang-dang-rat-manh-dan-giai-ngan-de-ho-tro-tang-truong-4855319.html) - 12:14 28/02/2025
 - 🔥 [Chủ tịch Phát Đạt: &#39;Bất động sản đang ấm dần&#39;](https://vnexpress.net/chu-tich-phat-dat-bat-dong-san-dang-am-dan-4855306.html) - 11:39 28/02/2025
 - 🐵 [Bầu Hiển đề xuất bảo trợ sinh viên khởi nghiệp](https://vnexpress.net/bau-hien-de-xuat-bao-tro-sinh-vien-khoi-nghiep-4855176.html) - 11:00 28/02/2025
