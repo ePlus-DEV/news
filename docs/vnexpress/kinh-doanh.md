@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Tiến sĩ Nguyễn Đức Khương: Chúng tôi sẵn sàng giải những bài toán lớn](https://vnexpress.net/tien-si-nguyen-duc-khuong-chung-toi-san-sang-giai-nhung-bai-toan-lon-4854896.html) - 17:03 27/02/2025
+- ⛽️ [Vàng thế giới tiếp tục giảm](https://vnexpress.net/vang-the-gioi-tiep-tuc-giam-4854947.html) - 00:19 28/02/2025
 - 🐲 [Nỗi lo suy thoái khi người Mỹ ngày càng bất an về kinh tế](https://vnexpress.net/noi-lo-suy-thoai-khi-nguoi-my-ngay-cang-bat-an-ve-kinh-te-4854636.html) - 17:01 27/02/2025
 - 🔥 [Người Anh cần giảm đi máy bay, ăn ít thịt hơn để đạt mục tiêu Net Zero](https://vnexpress.net/nguoi-anh-can-giam-di-may-bay-an-it-thit-hon-de-dat-muc-tieu-net-zero-4854672.html) - 17:00 27/02/2025
 - 🐵 [Ông Trump tuyên bố áp thêm 10% thuế với Trung Quốc](https://vnexpress.net/ong-trump-muon-ap-them-10-thue-voi-trung-quoc-4854920.html) - 16:00 27/02/2025
