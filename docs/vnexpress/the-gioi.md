@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Tổng thống Trump gặp ông Zelensky tại Nhà Trắng](https://vnexpress.net/tong-thong-trump-gap-ong-zelensky-tai-nha-trang-4855240.html) - 16:27 28/02/2025
+- 🎭 [Tổng thống Trump và ông Zelensky công khai cãi vã tại Nhà Trắng](https://vnexpress.net/tong-thong-trump-va-ong-zelensky-cong-khai-cai-va-tai-nha-trang-4855240.html) - 16:27 28/02/2025
 - 🕴 [Nga tuyên bố phá âm mưu ám sát Tổng giám mục Crimea](https://vnexpress.net/nga-tuyen-bo-pha-am-muu-am-sat-tong-giam-muc-crimea-4855331.html) - 15:39 28/02/2025
 - 🤭 [Mỹ sa thải hàng trăm chuyên gia tại cơ quan khí tượng quốc gia](https://vnexpress.net/my-sa-thai-hang-tram-chuyen-gia-tai-co-quan-khi-tuong-quoc-gia-4855368.html) - 14:54 28/02/2025
 - 🧑‍💻 [Nga đề nghị nối lại đường bay thẳng tới Mỹ](https://vnexpress.net/nga-de-nghi-noi-lai-duong-bay-thang-toi-my-4855347.html) - 12:59 28/02/2025
