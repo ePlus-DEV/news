@@ -4,8 +4,8 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Phó thống đốc: &#39;Ngân hàng cho vay nhiều hơn huy động để hỗ trợ tăng trưởng&#39;](https://vnexpress.net/ngan-hang-dang-rat-manh-dan-giai-ngan-de-ho-tro-tang-truong-4855319.html) - 12:14 28/02/2025
-- 🐲 [Chủ tịch Phát Đạt: &#39;Bất động sản năm nay khó nóng sốt&#39;](https://vnexpress.net/chu-tich-phat-dat-bat-dong-san-nam-nay-kho-nong-sot-4855306.html) - 11:39 28/02/2025
+- ⛽️ [Phó thống đốc: &#39;Ngân hàng đang cho vay nhiều hơn huy động&#39;](https://vnexpress.net/ngan-hang-dang-rat-manh-dan-giai-ngan-de-ho-tro-tang-truong-4855319.html) - 12:14 28/02/2025
+- 🐲 [Chủ tịch Phát Đạt: &#39;Bất động sản đang ấm dần&#39;](https://vnexpress.net/chu-tich-phat-dat-bat-dong-san-dang-am-dan-4855306.html) - 11:39 28/02/2025
 - 🔥 [Bầu Hiển đề xuất bảo trợ sinh viên khởi nghiệp](https://vnexpress.net/bau-hien-de-xuat-bao-tro-sinh-vien-khoi-nghiep-4855176.html) - 11:00 28/02/2025
 - 🐵 [Anh em nhà sáng lập Mixue giàu hơn tỷ phú Starbucks](https://vnexpress.net/anh-em-nha-sang-lap-mixue-giau-hon-ty-phu-starbucks-4855186.html) - 10:00 28/02/2025
 - 🦅 [Dâu tây Trung Quốc giá siêu rẻ](https://vnexpress.net/dau-tay-trung-quoc-gia-sieu-re-4853902.html) - 09:17 28/02/2025
