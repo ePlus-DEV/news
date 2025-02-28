@@ -13,7 +13,7 @@ sidebar_position: 3
 - 🤩 [Eximbank thêm gói vay mua nhà lãi suất từ 6,25% mỗi năm](https://vnexpress.net/eximbank-them-goi-vay-mua-nha-lai-suat-tu-6-25-moi-nam-4855247.html) - 09:00 28/02/2025
 - 🌮 [Cổ phiếu ngân hàng gây áp lực cho VN-Index](https://vnexpress.net/co-phieu-ngan-hang-gay-ap-luc-cho-vn-index-4855238.html) - 08:53 28/02/2025
 - 🧰 [CEO PNJ: &#39;Phân khúc nam giới rất tiềm năng&#39;](https://vnexpress.net/ceo-pnj-phan-khuc-nam-gioi-rat-tiem-nang-4855244.html) - 08:45 28/02/2025
-- 🤔 [Chủ tịch TP HCM: Cần xem lại thái độ phục vụ khi để doanh nghiệp rút lui nhiều](https://vnexpress.net/chu-tich-tp-hcm-can-xem-lai-thai-do-phuc-vu-khi-de-doanh-nghiep-rut-lui-nhieu-4855187.html) - 08:18 28/02/2025
+- 🤔 [Chủ tịch TP HCM: Cần xem lại thái độ phục vụ khi để nhiều doanh nghiệp rút lui](https://vnexpress.net/chu-tich-tp-hcm-can-xem-lai-thai-do-phuc-vu-khi-de-nhieu-doanh-nghiep-rut-lui-4855187.html) - 08:18 28/02/2025
 - 🧑‍💻 [Mỗi lượng vàng miếng giảm gần 1 triệu đồng](https://vnexpress.net/moi-luong-vang-mieng-giam-gan-1-trieu-dong-4855210.html) - 08:13 28/02/2025
 - 🕴 [Bộ Tài chính sau hợp nhất có 35 đơn vị](https://vnexpress.net/bo-tai-chinh-sau-hop-nhat-co-35-don-vi-4855181.html) - 07:29 28/02/2025
 - 🦩 [18 tập đoàn, tổng công ty được chuyển về Bộ Tài chính](https://vnexpress.net/18-tap-doan-tong-cong-ty-duoc-chuyen-ve-bo-tai-chinh-4855170.html) - 07:07 28/02/2025
