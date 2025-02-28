@@ -41,7 +41,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌈 [Em sống tử tế, chân thành, có trách nhiệm](https://vnexpress.net/em-song-tu-te-chan-thanh-co-trach-nhiem-4854881.html) - 17:00 28/02/2025
 - 🎬 [Djokovic bị xem là hết cửa giành Grand Slam](https://vnexpress.net/djokovic-bi-xem-la-het-cua-gianh-grand-slam-4855373.html) - 17:00 28/02/2025
 - 🚀 [Muốn ổn định nên học Công nghệ thông tin hay bán dẫn?](https://vnexpress.net/muon-on-dinh-nen-hoc-cong-nghe-thong-tin-hay-ban-dan-4854059.html) - 16:59 28/02/2025
-- 🪄 [Tổng thống Trump và ông Zelensky công khai cãi vã tại Nhà Trắng](https://vnexpress.net/tong-thong-trump-va-ong-zelensky-cong-khai-cai-va-tai-nha-trang-4855240.html) - 16:27 28/02/2025
+- 🪄 [Tổng thống Trump và ông Zelensky hủy họp báo, không ký thỏa thuận](https://vnexpress.net/tong-thong-trump-va-ong-zelensky-huy-hop-bao-khong-ky-thoa-thuan-4855240.html) - 16:27 28/02/2025
 - 😎 [Nga tuyên bố phá âm mưu ám sát Tổng giám mục Crimea](https://vnexpress.net/nga-tuyen-bo-pha-am-muu-am-sat-tong-giam-muc-crimea-4855331.html) - 15:39 28/02/2025
 - 🎊 [Phí tư vấn hồ sơ du học Mỹ bao nhiêu?](https://vnexpress.net/phi-tu-van-ho-so-du-hoc-my-bao-nhieu-4850830.html) - 15:29 28/02/2025
 - ⚗️ [Cặp hậu vệ trái giúp Nam Định hạ Thể Công](https://vnexpress.net/cap-hau-ve-trai-giup-nam-dinh-ha-the-cong-4855378.html) - 15:23 28/02/2025
