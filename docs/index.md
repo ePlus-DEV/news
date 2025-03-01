@@ -249,7 +249,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Thứ trưởng Bộ GTVT Nguyễn Duy Lâm làm Bí thư Tỉnh uỷ Hà Tĩnh](https://nld.com.vn/thu-truong-bo-gtvt-nguyen-duy-lam-lam-bi-thu-tinh-uy-ha-tinh-196250301172349179.htm) - 10:56 01/03/2025
+- 🐎 [Thứ trưởng Bộ GTVT Nguyễn Duy Lâm làm Bí thư Tỉnh ủy Hà Tĩnh](https://nld.com.vn/thu-truong-bo-gtvt-nguyen-duy-lam-lam-bi-thu-tinh-uy-ha-tinh-196250301172349179.htm) - 10:56 01/03/2025
 - 😺 [Tỉ phú Elon Musk chưa dừng tay, gửi tiếp email cho hàng triệu nhân viên Mỹ](https://nld.com.vn/ti-phu-elon-musk-chua-dung-tay-gui-tiep-email-cho-hang-trieu-nhan-vien-my-19625030117152991.htm) - 10:46 01/03/2025
 - 👍 [Nhà văn Nguyễn Thị Minh Ngọc chia sẻ về “Hồ nước mùa xuân”](https://nld.com.vn/nha-van-nguyen-thi-minh-ngoc-chia-se-ve-ho-nuoc-mua-xuan-196250301173941638.htm) - 10:43 01/03/2025
 - 🥷 [Nổ lớn gần trụ sở một phòng giao dịch ngân hàng](https://nld.com.vn/no-lon-gan-tru-so-mot-phong-giao-dich-ngan-hang-196250301171442211.htm) - 10:42 01/03/2025
