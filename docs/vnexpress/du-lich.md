@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Vị trí &#39;thiên đường&#39; trên các chuyến bay dài](https://vnexpress.net/vi-tri-thien-duong-tren-cac-chuyen-bay-dai-4854980.html) - 04:00 01/03/2025
-- 🪄 [1.000 người sẽ dự lễ thắp nến tại Vesak 2025 trên núi Bà Đen](https://vnexpress.net/1-000-nguoi-se-du-le-thap-nen-tai-vesak-2025-tren-nui-ba-den-4855345.html) - 03:00 01/03/2025
+- 🪄 [2.000 người sẽ dự lễ thắp nến tại Vesak 2025 trên núi Bà Đen](https://vnexpress.net/2-000-nguoi-se-du-le-thap-nen-tai-vesak-2025-tren-nui-ba-den-4855345.html) - 03:00 01/03/2025
 - 🦅 [Những trải nghiệm cho phái đẹp tại The Grand Ho Tram dịp 8/3](https://vnexpress.net/nhung-trai-nghiem-cho-phai-dep-tai-the-grand-ho-tram-dip-8-3-4853429.html) - 02:00 01/03/2025
 - 🕴 [8 lâu đài đẹp nhất châu Âu](https://vnexpress.net/8-lau-dai-dep-nhat-chau-au-4854637.html) - 01:00 01/03/2025
 - 👀 [Tháng 3 đi đâu, chơi gì?](https://vnexpress.net/thang-3-di-dau-choi-gi-4851310.html) - 00:00 01/03/2025
