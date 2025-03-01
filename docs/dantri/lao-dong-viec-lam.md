@@ -5,7 +5,7 @@ sidebar_position: 19
 
 <!-- dantri-lao-dong-viec-lam:START -->
 - ⚗️ [Ngân hàng lớn nhất Singapore sa thải 4.000 nhân viên](https://dantri.com.vn/lao-dong-viec-lam/ngan-hang-lon-nhat-singapore-sa-thai-4000-nhan-vien-20250301111720047.htm) - 06:00 01/03/2025
-- 🙉 [Nữ y tá khóc nấc, quỳ xin lỗi bệnh nhân sau sự cố y khoa](https://dantri.com.vn/lao-dong-viec-lam/nu-y-ta-khoc-nac-quy-xin-loi-benh-nhan-sau-su-co-y-khoa-20250227132610668.htm) - 05:12 01/03/2025
+- 🙉 [Nữ y tá khóc nấc, quỳ xin lỗi bệnh nhân sau sự cố nghề nghiệp](https://dantri.com.vn/lao-dong-viec-lam/nu-y-ta-khoc-nac-quy-xin-loi-benh-nhan-sau-su-co-nghe-nghiep-20250227132610668.htm) - 05:12 01/03/2025
 - 🕴 [Bảo hiểm xã hội Việt Nam hoạt động theo 3 cấp](https://dantri.com.vn/lao-dong-viec-lam/bao-hiem-xa-hoi-viet-nam-hoat-dong-theo-3-cap-20250301102539026.htm) - 05:06 01/03/2025
 - 🧐 [Hàng trăm công nhân ở Thanh Hóa ngừng việc đòi tăng lương](https://dantri.com.vn/lao-dong-viec-lam/hang-tram-cong-nhan-o-thanh-hoa-ngung-viec-doi-tang-luong-20250301110601644.htm) - 04:56 01/03/2025
 - 🧑‍💻 [Người có thẻ BHYT không phải trả tiền khi khám chữa bệnh dưới 351.000 đồng](https://dantri.com.vn/lao-dong-viec-lam/nguoi-co-the-bhyt-khong-phai-tra-tien-khi-kham-chua-benh-duoi-351000-dong-20250227102033864.htm) - 03:06 01/03/2025
