@@ -405,7 +405,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Bộ trưởng Đỗ Đức Duy nêu 9 nhiệm vụ trọng tâm của Bộ Nông nghiệp và Môi trường](https://baochinhphu.vn/bo-truong-do-duc-duy-neu-9-nhiem-vu-trong-tam-cua-bo-nong-nghiep-va-moi-truong-102250301182835117.htm) - 18:42 01/03/2025
+- 💻 [Bộ NN&amp;MT phải đổi mới tư duy xây dựng thể chế, ngắn gọn, rõ ràng, triển khai được ngay](https://baochinhphu.vn/bo-truong-do-duc-duy-neu-9-nhiem-vu-trong-tam-cua-bo-nong-nghiep-va-moi-truong-102250301182835117.htm) - 18:42 01/03/2025
 - 🌜 [Thủ tướng: Triển khai nhanh các dự án trọng điểm công nghệ cao, biểu tượng cho quan hệ Việt Nam-Nhật Bản](https://baochinhphu.vn/thu-tuong-trien-khai-nhanh-cac-du-an-trong-diem-cong-nghe-cao-bieu-tuong-cho-quan-he-viet-nam-nhat-ban-102250301140552789.htm) - 18:40 01/03/2025
 - 🦆 [Ra mắt Bộ Nội vụ mới với nhiều nhiệm vụ mang tính bước ngoặt](https://baochinhphu.vn/ra-mat-bo-noi-vu-moi-voi-nhieu-nhiem-vu-mang-tinh-buoc-ngoat-102250301180734468.htm) - 18:19 01/03/2025
 - 🌝 [Nhiều hoạt động thiết thực nhân Tháng Thanh niên 2025 tại các tỉnh Tây Nam Bộ](https://baochinhphu.vn/nhieu-hoat-dong-thiet-thuc-nhan-thang-thanh-nien-2025-tai-cac-tinh-tay-nam-bo-102250301164538392.htm) - 18:11 01/03/2025
