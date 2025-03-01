@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Thủ tướng đề nghị doanh nghiệp Mỹ coi Việt Nam là cứ điểm đầu tư lâu dài](https://vnexpress.net/thu-tuong-de-nghi-doanh-nghiep-my-coi-viet-nam-la-cu-diem-dau-tu-lau-dai-4855628.html) - 09:20 01/03/2025
+- ⛽️ [Thủ tướng đề nghị doanh nghiệp Mỹ coi Việt Nam là nơi đầu tư lâu dài](https://vnexpress.net/thu-tuong-de-nghi-doanh-nghiep-my-coi-viet-nam-la-noi-dau-tu-lau-dai-4855628.html) - 09:20 01/03/2025
 - 🐲 [Ôtô điện được miễn lệ phí trước bạ thêm 2 năm](https://vnexpress.net/oto-dien-duoc-mien-le-phi-truoc-ba-them-2-nam-4855596.html) - 07:23 01/03/2025
 - 🔥 [Cá nhân nợ thuế từ 50 triệu đồng bị tạm hoãn xuất cảnh](https://vnexpress.net/ca-nhan-no-thue-tu-50-trieu-dong-bi-tam-hoan-xuat-canh-4855487.html) - 07:09 01/03/2025
 - 🐵 [MobiFone sẽ phát triển thế nào khi về Bộ Công an](https://vnexpress.net/mobifone-se-phat-trien-the-nao-khi-ve-bo-cong-an-4854833.html) - 02:18 01/03/2025
