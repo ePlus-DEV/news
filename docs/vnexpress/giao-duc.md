@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [ĐH Quốc gia Hà Nội &#39;bắt tay&#39; trường danh tiếng nhất Trung Quốc nghiên cứu AI](https://vnexpress.net/dh-quoc-gia-ha-noi-bat-tay-truong-danh-tieng-nhat-trung-quoc-nghien-cuu-ai-4855608.html) - 09:20 01/03/2025
+- 🤓 [ĐH Quốc gia Hà Nội &#39;bắt tay&#39; ĐH Thanh Hoa nghiên cứu AI](https://vnexpress.net/dh-quoc-gia-ha-noi-bat-tay-dh-thanh-hoa-nghien-cuu-ai-4855608.html) - 09:20 01/03/2025
 - 🦆 [Bác tin học sinh bị ép vào lề đường, kéo lên xe ở Hải Phòng](https://vnexpress.net/bac-tin-hoc-sinh-bi-ep-vao-le-duong-keo-len-xe-o-hai-phong-4855619.html) - 08:55 01/03/2025
 - 🦩 [Giảm 15-17 trường đào tạo Sư phạm](https://vnexpress.net/giam-15-17-truong-dao-tao-su-pham-4855502.html) - 08:08 01/03/2025
 - 🌮 [Trường THPT đầu tiên ở TP HCM công bố chỉ tiêu lớp 10](https://vnexpress.net/truong-thpt-dau-tien-o-tp-hcm-cong-bo-chi-tieu-lop-10-4855560.html) - 07:05 01/03/2025
