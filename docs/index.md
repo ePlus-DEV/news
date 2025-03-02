@@ -40,8 +40,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤠 [Mẹ phản đối tôi yêu người phụ nữ hơn bốn tuổi và có con riêng](https://vnexpress.net/me-phan-doi-toi-yeu-nguoi-phu-nu-hon-bon-tuoi-va-co-con-rieng-4855730.html) - 17:00 02/03/2025
 - 🌈 [Tìm người đàn ông chân thành, biết quan tâm, chia sẻ](https://vnexpress.net/tim-nguoi-dan-ong-chan-thanh-biet-quan-tam-chia-se-4854876.html) - 17:00 02/03/2025
 - 🎬 [VinFast giảm giá bán lẻ tất cả các dòng ôtô](https://vnexpress.net/vinfast-giam-gia-ban-le-tat-ca-cac-dong-oto-4855843.html) - 17:00 02/03/2025
-- 🚀 [Học tiếng Nhật có tăng cơ hội vào doanh nghiệp ở Hà Nội không?](https://vnexpress.net/hoc-tieng-nhat-co-tang-co-hoi-vao-doanh-nghiep-o-ha-noi-khong-4855372.html) - 16:59 02/03/2025
-- 🪄 [Mở trung tâm dạy và thi chứng chỉ A-level đầu tiên tại TP HCM](https://vnexpress.net/mo-trung-tam-day-va-thi-chung-chi-a-level-dau-tien-tai-tp-hcm-4855904.html) - 16:59 02/03/2025
+- 🚀 [Mở trung tâm dạy và thi chứng chỉ A-level đầu tiên tại TP HCM](https://vnexpress.net/mo-trung-tam-day-va-thi-chung-chi-a-level-dau-tien-tai-tp-hcm-4855904.html) - 16:59 02/03/2025
+- 🪄 [Học tiếng Nhật có tăng cơ hội vào doanh nghiệp ở Hà Nội không?](https://vnexpress.net/hoc-tieng-nhat-co-tang-co-hoi-vao-doanh-nghiep-o-ha-noi-khong-4855372.html) - 16:59 02/03/2025
 - 😎 [Ông Trump công bố kế hoạch kho dự trữ tiền số](https://vnexpress.net/ong-trump-cong-bo-ke-hoach-kho-du-tru-tien-so-4855908.html) - 16:54 02/03/2025
 - 🎊 [Tạo 22 &#39;nhân viên ảo&#39;, lừa công ty để nhận lương suốt 8 năm](https://vnexpress.net/tao-22-nhan-vien-ao-lua-cong-ty-de-nhan-luong-suot-8-nam-4855872.html) - 15:59 02/03/2025
 - ⚗️ [Giả danh người chết để trốn truy nã 40 năm](https://vnexpress.net/gia-danh-nguoi-chet-de-tron-truy-na-40-nam-4855864.html) - 15:53 02/03/2025
