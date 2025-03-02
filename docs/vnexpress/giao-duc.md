@@ -4,8 +4,8 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Học tiếng Nhật có tăng cơ hội vào doanh nghiệp ở Hà Nội không?](https://vnexpress.net/hoc-tieng-nhat-co-tang-co-hoi-vao-doanh-nghiep-o-ha-noi-khong-4855372.html) - 16:59 02/03/2025
-- 🦆 [Mở trung tâm dạy và thi chứng chỉ A-level đầu tiên tại TP HCM](https://vnexpress.net/mo-trung-tam-day-va-thi-chung-chi-a-level-dau-tien-tai-tp-hcm-4855904.html) - 16:59 02/03/2025
+- 🤓 [Mở trung tâm dạy và thi chứng chỉ A-level đầu tiên tại TP HCM](https://vnexpress.net/mo-trung-tam-day-va-thi-chung-chi-a-level-dau-tien-tai-tp-hcm-4855904.html) - 16:59 02/03/2025
+- 🦆 [Học tiếng Nhật có tăng cơ hội vào doanh nghiệp ở Hà Nội không?](https://vnexpress.net/hoc-tieng-nhat-co-tang-co-hoi-vao-doanh-nghiep-o-ha-noi-khong-4855372.html) - 16:59 02/03/2025
 - 🦩 [Ba chàng trai &#39;vàng&#39; Olympic được đề cử Gương mặt trẻ tiêu biểu](https://vnexpress.net/ba-chang-trai-vang-olympic-duoc-de-cu-guong-mat-tre-tieu-bieu-4853992.html) - 15:36 02/03/2025
 - 🌮 [Học viện Kỹ thuật Quân sự giảm chỉ tiêu hệ quân sự](https://vnexpress.net/hoc-vien-ky-thuat-quan-su-giam-chi-tieu-he-quan-su-4855842.html) - 14:24 02/03/2025
 - 🔭 [Nước nào ở Đông Nam Á có đường sắt cao tốc đầu tiên?](https://vnexpress.net/nuoc-nao-o-dong-nam-a-co-duong-sat-cao-toc-dau-tien-4855866.html) - 12:38 02/03/2025
