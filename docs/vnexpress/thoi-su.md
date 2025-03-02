@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Hà Nội sử dụng nước thải sau xử lý để bổ cập cho Hồ Tây](https://vnexpress.net/ha-noi-su-dung-nuoc-thai-sau-xu-ly-de-bo-cap-cho-ho-tay-4855893.html) - 18:00 02/03/2025
-- 🤓 [Xe bus bị người lạ chặn đường, ném đá vỡ kính](https://vnexpress.net/xe-bus-bi-nguoi-la-chan-duong-nem-da-vo-kinh-4855894.html) - 15:36 02/03/2025
+- 🤓 [Xe buýt bị người lạ chặn đường, ném đá vỡ kính](https://vnexpress.net/xe-buyt-bi-nguoi-la-chan-duong-nem-da-vo-kinh-4855894.html) - 15:36 02/03/2025
 - ⚗️ [Xác minh nhóm thanh niên khiêng quan tài trước chợ Bến Thành](https://vnexpress.net/xac-minh-nhom-thanh-nien-khieng-quan-tai-truoc-cho-ben-thanh-4855847.html) - 10:36 02/03/2025
 - 🌊 [Thủ tướng lập 7 đoàn gỡ khó dự án giao thông trọng điểm](https://vnexpress.net/thu-tuong-lap-7-doan-go-kho-du-an-giao-thong-trong-diem-4855852.html) - 10:30 02/03/2025
 - 🎓 [Sân bay Phan Thiết và Thành Sơn được đề xuất sử dụng lưỡng dụng](https://vnexpress.net/san-bay-phan-thiet-va-thanh-son-duoc-de-xuat-su-dung-luong-dung-4855831.html) - 09:18 02/03/2025
