@@ -407,10 +407,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Nâng tầm nghiên cứu tiệm cận với trình độ công nghệ hạt nhân tiên tiến, hiện đại của thế giới](https://baochinhphu.vn/nang-tam-nghien-cuu-tiem-can-voi-trinh-do-cong-nghe-hat-nhan-tien-tien-hien-dai-cua-the-gioi-10225030216435942.htm) - 16:48 02/03/2025
-- 🌜 [Lập 7 Đoàn Kiểm tra về rà soát, tháo gỡ các khó khăn, vướng mắc liên quan đến các dự án giao thông trọng điểm](https://baochinhphu.vn/lap-7-doan-kiem-tra-ve-ra-soat-thao-go-cac-kho-khan-vuong-mac-lien-quan-den-cac-du-an-giao-thong-trong-diem-102250302115126315.htm) - 15:03 02/03/2025
-- 🦆 [Bài viết của Tổng Bí thư Tô Lâm: HỌC TẬP SUỐT ĐỜI](https://baochinhphu.vn/bai-viet-cua-tong-bi-thu-to-lam-hoc-tap-suot-doi-102250301172143439.htm) - 13:50 02/03/2025
-- 🌝 [Lễ trao danh hiệu &#39;Giáo sư danh dự&#39; Đại học Thanh Hoa tặng Thủ tướng Phạm Minh Chính](https://baochinhphu.vn/le-trao-danh-hieu-giao-su-danh-du-dai-hoc-thanh-hoa-tang-thu-tuong-pham-minh-chinh-102250302112409915.htm) - 13:18 02/03/2025
+- 💻 [Lễ trao danh hiệu &#39;Giáo sư danh dự&#39; Đại học Thanh Hoa tặng Thủ tướng Phạm Minh Chính](https://baochinhphu.vn/le-trao-danh-hieu-giao-su-danh-du-dai-hoc-thanh-hoa-tang-thu-tuong-pham-minh-chinh-102250302112409915.htm) - 17:00 02/03/2025
+- 🌜 [Nâng tầm nghiên cứu tiệm cận với trình độ công nghệ hạt nhân tiên tiến, hiện đại của thế giới](https://baochinhphu.vn/nang-tam-nghien-cuu-tiem-can-voi-trinh-do-cong-nghe-hat-nhan-tien-tien-hien-dai-cua-the-gioi-10225030216435942.htm) - 16:48 02/03/2025
+- 🦆 [Lập 7 Đoàn Kiểm tra về rà soát, tháo gỡ các khó khăn, vướng mắc liên quan đến các dự án giao thông trọng điểm](https://baochinhphu.vn/lap-7-doan-kiem-tra-ve-ra-soat-thao-go-cac-kho-khan-vuong-mac-lien-quan-den-cac-du-an-giao-thong-trong-diem-102250302115126315.htm) - 15:03 02/03/2025
+- 🌝 [Bài viết của Tổng Bí thư Tô Lâm: HỌC TẬP SUỐT ĐỜI](https://baochinhphu.vn/bai-viet-cua-tong-bi-thu-to-lam-hoc-tap-suot-doi-102250301172143439.htm) - 13:50 02/03/2025
 - 🦣 [Thủ tướng Phạm Minh Chính tiếp Bí thư Đảng ủy Đại học Thanh Hoa &lpar;Trung Quốc&rpar;](https://baochinhphu.vn/thu-tuong-pham-minh-chinh-tiep-bi-thu-dang-uy-dai-hoc-thanh-hoa-trung-quoc-10225030213281282.htm) - 13:10 02/03/2025
 - ⛽️ [Hải quan giảm 53,77% đầu mối sau khi sắp xếp](https://baochinhphu.vn/hai-quan-giam-5377-dau-moi-sau-khi-sap-xep-102250302110558078.htm) - 11:59 02/03/2025
 - 🎓 [Được miễn tập sự, tính thời gian giữ hạng thế nào?](https://baochinhphu.vn/duoc-mien-tap-su-tinh-thoi-gian-giu-hang-the-nao-102250217141407831.htm) - 07:02 02/03/2025
