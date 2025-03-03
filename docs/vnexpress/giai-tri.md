@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Halle Berry tái hiện nụ hôn 22 năm trước với đồng nghiệp](https://vnexpress.net/halle-berry-tai-hien-nu-hon-22-nam-truoc-voi-dong-nghiep-4856063.html) - 05:46 03/03/2025
-- 💫 [Tình bạn 10 năm của Hòa Minzy với cầu thủ Văn Toàn](https://vnexpress.net/tinh-ban-10-nam-cua-hoa-minzy-voi-cau-thu-van-toan-4856078.html) - 04:26 03/03/2025
+- 💫 [Tình bạn 10 năm của Hòa Minzy và cầu thủ Văn Toàn](https://vnexpress.net/tinh-ban-10-nam-cua-hoa-minzy-va-cau-thu-van-toan-4856078.html) - 04:26 03/03/2025
 - 🌮 [Lisa diễn nhạc phim 007 trên sân khấu Oscar](https://vnexpress.net/lisa-dien-nhac-phim-007-tren-san-khau-oscar-4856062.html) - 03:41 03/03/2025
 - 🧠 [Timothée Chalamet, Kylie Jenner tình tứ ở Oscar](https://vnexpress.net/timothee-chalamet-kylie-jenner-tinh-tu-o-oscar-4855977.html) - 02:09 03/03/2025
 - 👨‍🏫 [Bộ đầm đính 16.000 hạt pha lê của tỷ phú Selena Gomez](https://vnexpress.net/bo-dam-dinh-16-000-hat-pha-le-cua-ty-phu-selena-gomez-4855926.html) - 01:02 03/03/2025
