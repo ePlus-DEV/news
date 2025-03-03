@@ -4,9 +4,9 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Ông Trump sắp có bài phát biểu đầu tiên trước quốc hội khóa mới](https://vnexpress.net/ong-trump-sap-co-bai-phat-bieu-dau-tien-truoc-quoc-hoi-khoa-moi-4856374.html) - 16:27 03/03/2025
-- 🐎 [TP HCM cấm cho thuê lưu trú du lịch trong chung cư](https://vnexpress.net/tp-hcm-cam-cho-thue-luu-tru-du-lich-trong-chung-cu-4856342.html) - 15:40 03/03/2025
-- 🦍 [Hiệu trưởng cúi đầu xin lỗi học sinh](https://vnexpress.net/hieu-truong-cui-dau-xin-loi-hoc-sinh-4856361.html) - 15:28 03/03/2025
+- 🎬 [Tài xế lái xe container trên cao tốc dù người có cồn](https://vnexpress.net/tai-xe-lai-xe-container-tren-cao-toc-du-nguoi-co-con-4856368.html) - 16:44 03/03/2025
+- 🐎 [Ông Trump sắp có bài phát biểu đầu tiên trước quốc hội khóa mới](https://vnexpress.net/ong-trump-sap-co-bai-phat-bieu-dau-tien-truoc-quoc-hoi-khoa-moi-4856374.html) - 16:27 03/03/2025
+- 🦍 [TP HCM cấm cho thuê lưu trú du lịch trong chung cư](https://vnexpress.net/tp-hcm-cam-cho-thue-luu-tru-du-lich-trong-chung-cu-4856342.html) - 15:40 03/03/2025
 - 🏊 [Người tình tỷ phú Jeff Bezos cùng dàn sao dự tiệc hậu Oscar](https://vnexpress.net/nguoi-tinh-ty-phu-jeff-bezos-cung-dan-sao-du-tiec-hau-oscar-4856280.html) - 15:20 03/03/2025
 - 🎊 [Trung Quốc lên kế hoạch trả đũa thuế mới của Mỹ](https://vnexpress.net/trung-quoc-len-ke-hoach-tra-dua-thue-moi-cua-my-4856352.html) - 15:10 03/03/2025
 - 🎃 [Thủ tướng Kyrgyzstan sắp thăm Việt Nam](https://vnexpress.net/thu-tuong-kyrgyzstan-sap-tham-viet-nam-4856363.html) - 14:58 03/03/2025
