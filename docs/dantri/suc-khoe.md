@@ -4,7 +4,7 @@ sidebar_position: 23
 ---
 
 <!-- dantri-suc-khoe:START -->
-- 🤔 [Cấy ốc tai điện tử tốn 500-700 triệu đồn, ít người điếc được tiếp cận](https://dantri.com.vn/suc-khoe/cay-oc-tai-dien-tu-ton-500-700-trieu-don-it-nguoi-diec-duoc-tiep-can-20250303160251148.htm) - 11:40 03/03/2025
+- 🤔 [Cấy ốc tai điện tử tốn 500-700 triệu đồng, ít người điếc được tiếp cận](https://dantri.com.vn/suc-khoe/cay-oc-tai-dien-tu-ton-500-700-trieu-dong-it-nguoi-diec-duoc-tiep-can-20250303160251148.htm) - 11:40 03/03/2025
 - 🚦 [Bóc trọn u nang buồng trứng đường kính 25cm, bảo vệ thai nhi 16 tuần tuổi](https://dantri.com.vn/suc-khoe/boc-tron-u-nang-buong-trung-duong-kinh-25cm-bao-ve-thai-nhi-16-tuan-tuoi-20250303150822284.htm) - 10:09 03/03/2025
 - 🤖 [Nam sinh 13 tuổi dập nát bàn tay do pháo nổ](https://dantri.com.vn/suc-khoe/nam-sinh-13-tuoi-dap-nat-ban-tay-do-phao-no-20250303161205283.htm) - 09:29 03/03/2025
 - 🐻 [Sở Y tế TPHCM có Phó Giám đốc phụ trách chống tệ nạn xã hội](https://dantri.com.vn/suc-khoe/so-y-te-tphcm-co-pho-giam-doc-phu-trach-chong-te-nan-xa-hoi-20250303132050023.htm) - 06:43 03/03/2025
