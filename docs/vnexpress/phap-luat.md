@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Ba thiếu niên Nhật Ban bị bắt vì dùng Chat GPT tạo hợp đồng gian lận](https://vnexpress.net/ba-thieu-nien-nhat-ban-bi-bat-vi-dung-chat-gpt-tao-hop-dong-gian-lan-4856308.html) - 11:01 03/03/2025
+- 😎 [Ba thiếu niên Nhật Bản bị bắt vì dùng Chat GPT tạo hợp đồng gian lận](https://vnexpress.net/ba-thieu-nien-nhat-ban-bi-bat-vi-dung-chat-gpt-tao-hop-dong-gian-lan-4856308.html) - 11:01 03/03/2025
 - 🥰 [9 người liên quan vụ &#39;khiêng quan tài trước chợ Bến Thành&#39; bị bắt](https://vnexpress.net/9-nguoi-lien-quan-vu-khieng-quan-tai-truoc-cho-ben-thanh-bi-bat-4856267.html) - 09:31 03/03/2025
 - 🎓 [Trần tình của người truy sát &#39;trai lạ&#39; trong phòng ngủ của vợ](https://vnexpress.net/tran-tinh-cua-nguoi-truy-sat-trai-la-trong-phong-ngu-cua-vo-4856183.html) - 09:16 03/03/2025
 - 🤓 [Kẻ đâm cảnh sát, cố thủ nhiều giờ bị bắt](https://vnexpress.net/ke-dam-canh-sat-co-thu-nhieu-gio-bi-bat-4856218.html) - 08:21 03/03/2025
