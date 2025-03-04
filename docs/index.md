@@ -314,7 +314,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo SGGP
 <!-- sggp:START -->
 - 🪜 [Đề xuất loạt giải pháp gỡ khó thị trường lúa gạo](https://www.sggp.org.vn/de-xuat-loat-giai-phap-go-kho-thi-truong-lua-gao-post784480.html) - 09:41 04/03/2025
-- 🌝 [Quảng Trị: Dông lốc quét qua Tuyên Hóa, 37ha bắp đổ rạp](https://www.sggp.org.vn/quang-tri-dong-loc-quet-qua-tuyen-hoa-37ha-bap-do-rap-post784481.html) - 09:34 04/03/2025
+- 🌝 [Quảng Bình: Dông lốc quét qua Tuyên Hóa, 37ha bắp đổ rạp](https://www.sggp.org.vn/quang-binh-dong-loc-quet-qua-tuyen-hoa-37ha-bap-do-rap-post784481.html) - 09:34 04/03/2025
 - 💃 [Ngân hàng Lộc Phát &lpar;LPBank&rpar; và CLB CAHN ký kết hợp tác toàn diện](https://www.sggp.org.vn/ngan-hang-loc-phat-lpbank-va-clb-cahn-ky-ket-hop-tac-toan-dien-post784482.html) - 09:30 04/03/2025
 - 🧑‍💻 [Trình diễn công nghệ 3D tại lễ hội thờ Linh Lang Đại Vương](https://www.sggp.org.vn/trinh-dien-cong-nghe-3d-tai-le-hoi-tho-linh-lang-dai-vuong-post784472.html) - 09:26 04/03/2025
 - 🌊 [Du khách chi tiêu 79% số tiền vào kinh tế đêm](https://www.sggp.org.vn/du-khach-chi-tieu-79-so-tien-vao-kinh-te-dem-post784470.html) - 09:20 04/03/2025
@@ -329,7 +329,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥰 [Thiết bị giám sát hành trình mất kết nối nhiều lần, chủ tàu cá bị phạt 200 triệu đồng](https://www.sggp.org.vn/thiet-bi-giam-sat-hanh-trinh-mat-ket-noi-nhieu-lan-chu-tau-ca-bi-phat-200-trieu-dong-post784471.html) - 08:58 04/03/2025
 - 🎬 [Bộ Quốc phòng hợp luyện các lực lượng tham gia diễu binh, diễu hành](https://www.sggp.org.vn/bo-quoc-phong-hop-luyen-cac-luc-luong-tham-gia-dieu-binh-dieu-hanh-post784468.html) - 08:38 04/03/2025
 - 🦩 [Bình Dương: Nghiên cứu tiền khả thi dự án tuyến đường sắt đô thị số 1](https://www.sggp.org.vn/binh-duong-nghien-cuu-tien-kha-thi-du-an-tuyen-duong-sat-do-thi-so-1-post784473.html) - 08:38 04/03/2025
-- 🌮 [Chuẩn bị ứng phó một đợt không khí lạnh gây rét đậm và rét hại](https://www.sggp.org.vn/chuan-bi-ung-pho-mot-dot-khong-khi-lanh-gay-ret-dam-va-ret-hai-post784469.html) - 08:37 04/03/2025
+- 🌮 [Chuẩn bị ứng phó một đợt không khí lạnh gây rét đậm, rét hại](https://www.sggp.org.vn/chuan-bi-ung-pho-mot-dot-khong-khi-lanh-gay-ret-dam-ret-hai-post784469.html) - 08:37 04/03/2025
 - 👍 [Thủ tướng đề nghị doanh nghiệp Hàn Quốc coi Việt Nam là cứ điểm phát triển, mắt xích quan trọng](https://www.sggp.org.vn/thu-tuong-de-nghi-doanh-nghiep-han-quoc-coi-viet-nam-la-cu-diem-phat-trien-mat-xich-quan-trong-post784460.html) - 08:24 04/03/2025
 - 🦒 [Bộ Nông nghiệp và Môi trường tiếp nhận nhiệm vụ giảm nghèo](https://www.sggp.org.vn/bo-nong-nghiep-va-moi-truong-tiep-nhan-nhiem-vu-giam-ngheo-post784459.html) - 08:06 04/03/2025
 - 🤡 [Vụ án chuyến bay giải cứu giai đoạn 2: Có 11 bị cáo xin giảm án](https://www.sggp.org.vn/vu-an-chuyen-bay-giai-cuu-giai-doan-2-co-11-bi-cao-xin-giam-an-post784463.html) - 08:01 04/03/2025
