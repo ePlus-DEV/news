@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [ĐKVĐ Thanh Hóa bị loại ở Cup Quốc gia](https://vnexpress.net/dkvd-thanh-hoa-bi-loai-o-cup-quoc-gia-4856834.html) - 13:42 04/03/2025
+- 🪜 [ĐKVĐ Thanh Hóa bị truất ngôi ở Cup Quốc gia](https://vnexpress.net/dkvd-thanh-hoa-bi-truat-ngoi-o-cup-quoc-gia-4856834.html) - 13:42 04/03/2025
 - 🦩 [Cầu thủ nữ ghi bàn &#39;chưa từng thấy trong bóng đá&#39;](https://vnexpress.net/cau-thu-nu-ghi-ban-chua-tung-thay-trong-bong-da-4856799.html) - 13:30 04/03/2025
 - 🧰 [Khương Duy thí xe, thắng á quân U20 thế giới](https://vnexpress.net/khuong-duy-thi-xe-thang-a-quan-u20-the-gioi-4856624.html) - 09:04 04/03/2025
 - 🤗 [PSV - Arsenal: Điểm tựa hàng thủ ở Champions League](https://vnexpress.net/psv-arsenal-diem-tua-hang-thu-o-champions-league-4856597.html) - 09:00 04/03/2025
