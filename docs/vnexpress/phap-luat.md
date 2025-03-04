@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [12 công an phường tại nội thành Hà Nội được cấp biển số xe máy](https://vnexpress.net/12-cong-an-phuong-tai-noi-thanh-ha-noi-duoc-cap-bien-so-xe-may-4856791.html) - 12:47 04/03/2025
+- 😎 [12 điểm công an phường tại nội thành Hà Nội được cấp biển số xe máy](https://vnexpress.net/12-cong-an-phuong-tai-noi-thanh-ha-noi-duoc-cap-bien-so-xe-may-4856791.html) - 12:47 04/03/2025
 - 🥰 [Kiện rạp chiếu phim vì &#39;ép xem quảng cáo quá nhiều&#39;](https://vnexpress.net/kien-rap-chieu-phim-vi-ep-xem-quang-cao-qua-nhieu-4856732.html) - 10:30 04/03/2025
 - 🎓 [Cựu sếp Sở Ngoại vụ Thái Nguyên kháng cáo vụ &#39;chuyến bay giải cứu&#39;](https://vnexpress.net/cuu-sep-so-ngoai-vu-thai-nguyen-khang-cao-vu-chuyen-bay-giai-cuu-4856644.html) - 07:14 04/03/2025
 - 🤓 [Đánh nhiều người vì thấy vợ song ca với đàn ông](https://vnexpress.net/danh-nhieu-nguoi-vi-thay-vo-song-ca-voi-dan-ong-4856626.html) - 07:02 04/03/2025
