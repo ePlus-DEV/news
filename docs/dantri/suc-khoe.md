@@ -5,7 +5,7 @@ sidebar_position: 23
 
 <!-- dantri-suc-khoe:START -->
 - 🤔 [Takeda tiếp tục đổi mới vì cuộc sống tốt đẹp hơn cho bệnh nhân bệnh hiếm](https://dantri.com.vn/suc-khoe/takeda-tiep-tuc-doi-moi-vi-cuoc-song-tot-dep-hon-cho-benh-nhan-benh-hiem-20250304173929614.htm) - 11:00 04/03/2025
-- 🚦 [Thai phụ mất 2 con vì cúm, bác sĩ cảnh báo nên làm điều này khi mang thai](https://dantri.com.vn/suc-khoe/thai-phu-mat-2-con-vi-cum-bac-si-canh-bao-nen-lam-dieu-nay-khi-mang-thai-20250304171040839.htm) - 10:11 04/03/2025
+- 🚦 [Thai phụ mất 2 con vì cúm, bác sĩ cảnh báo điều dễ bị bỏ qua khi mang thai](https://dantri.com.vn/suc-khoe/thai-phu-mat-2-con-vi-cum-bac-si-canh-bao-dieu-de-bi-bo-qua-khi-mang-thai-20250304171040839.htm) - 10:11 04/03/2025
 - 🤖 [Ăn cá nóc trong bữa nhậu, 3 người nhập viện nghi bị ngộ độc](https://dantri.com.vn/suc-khoe/an-ca-noc-trong-bua-nhau-3-nguoi-nhap-vien-nghi-bi-ngo-doc-20250304130148976.htm) - 07:19 04/03/2025
 - 🐻 [Cha gạt lệ hiến tạng con cứu 5 người xuyên Việt: &quot;Rất đau lòng, nhưng...&quot;](https://dantri.com.vn/suc-khoe/cha-gat-le-hien-tang-con-cuu-5-nguoi-xuyen-viet-rat-dau-long-nhung-20250304123015074.htm) - 06:09 04/03/2025
 - 🌏 [Uống thuốc &quot;7 ngày giảm 7kg&quot; mua trên TikTok, cô gái 21 tuổi tổn thương não](https://dantri.com.vn/suc-khoe/uong-thuoc-7-ngay-giam-7kg-mua-tren-tiktok-co-gai-21-tuoi-ton-thuong-nao-20250304090946047.htm) - 02:11 04/03/2025
