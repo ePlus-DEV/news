@@ -5,8 +5,8 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Ngoại hình hot boy đóng &#39;Cha tôi, người ở lại&#39;](https://vnexpress.net/ngoai-hinh-hot-boy-dong-cha-toi-nguoi-o-lai-4856469.html) - 13:00 04/03/2025
-- 💫 [Adrien Brody: &#39;Diễn xuất là nghề bấp bênh&#39;](https://vnexpress.net/adrien-brody-dien-xuat-la-nghe-bap-benh-4856661.html) - 12:00 04/03/2025
-- 🌮 [Tăng Duy Tân lần đầu hát live &#39;Tái sinh&#39;](https://vnexpress.net/tang-duy-tan-lan-dau-hat-live-tai-sinh-4856755.html) - 12:00 04/03/2025
+- 💫 [Tăng Duy Tân lần đầu hát live &#39;Tái sinh&#39;](https://vnexpress.net/tang-duy-tan-lan-dau-hat-live-tai-sinh-4856755.html) - 12:00 04/03/2025
+- 🌮 [Adrien Brody: &#39;Diễn xuất là nghề bấp bênh&#39;](https://vnexpress.net/adrien-brody-dien-xuat-la-nghe-bap-benh-4856661.html) - 12:00 04/03/2025
 - 🧠 [Tặng vé xem phim của Kwon Sang Woo](https://vnexpress.net/tang-ve-xem-phim-cua-kwon-sang-woo-4856664.html) - 10:53 04/03/2025
 - 👨‍🏫 [Oscar 2025 - mùa giải khó đoán](https://vnexpress.net/oscar-2025-mua-giai-kho-doan-4856506.html) - 09:27 04/03/2025
 - ⚗️ [Millie Bobby Brown đáp trả khi bị nói &#39;già so với tuổi&#39;](https://vnexpress.net/millie-bobby-brown-dap-tra-khi-bi-noi-gia-so-voi-tuoi-4856479.html) - 08:42 04/03/2025
