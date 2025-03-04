@@ -10,7 +10,7 @@ sidebar_position: 3
 - 🐵 [Nhiều ngân hàng cắt giảm nhân sự](https://vnexpress.net/mot-so-ngan-hang-tinh-gon-nhan-su-4856390.html) - 23:30 03/03/2025
 - 🦅 [Giá vàng thế giới quay đầu tăng mạnh](https://vnexpress.net/gia-vang-the-gioi-quay-dau-tang-manh-4856398.html) - 23:17 03/03/2025
 - 😺 [Trung Quốc lên kế hoạch trả đũa thuế mới của Mỹ](https://vnexpress.net/trung-quoc-len-ke-hoach-tra-dua-thue-moi-cua-my-4856352.html) - 15:10 03/03/2025
-- 🤩 [Bộ Tài chính sau hợp nhất giảm gần 10.000 cấp trưởng](https://vnexpress.net/bo-tai-chinh-sau-hop-nhat-giam-gan-10-000-cap-truong-4856348.html) - 14:52 03/03/2025
+- 🤩 [Bộ Tài chính sau hợp nhất giảm 3.600 cấp trưởng](https://vnexpress.net/bo-tai-chinh-sau-hop-nhat-giam-3-600-cap-truong-4856348.html) - 14:52 03/03/2025
 - 🌮 [Con trai Chủ tịch Hóa chất Đức Giang rời chức Tổng giám đốc](https://vnexpress.net/con-trai-chu-tich-hoa-chat-duc-giang-roi-chuc-tong-giam-doc-4856333.html) - 13:14 03/03/2025
 - 🧰 [FGF đổi nhận diện thương hiệu](https://vnexpress.net/fgf-doi-nhan-dien-thuong-hieu-4856316.html) - 12:00 03/03/2025
 - 🤔 [Vingroup trở lại top 10 công ty có vốn hóa lớn nhất thị trường](https://vnexpress.net/vingroup-tro-lai-top-10-cong-ty-co-von-hoa-lon-nhat-thi-truong-4856261.html) - 10:30 03/03/2025
