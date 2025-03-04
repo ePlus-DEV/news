@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Oscar 2025 bất ngờ và khó đoán](https://vnexpress.net/oscar-2025-bat-ngo-va-kho-doan-4856506.html) - 09:27 04/03/2025
+- 🌏 [Oscar 2025 - mùa giải khó đoán](https://vnexpress.net/oscar-2025-mua-giai-kho-doan-4856506.html) - 09:27 04/03/2025
 - 💫 [Millie Bobby Brown đáp trả khi bị nói &#39;già so với tuổi&#39;](https://vnexpress.net/millie-bobby-brown-dap-tra-khi-bi-noi-gia-so-voi-tuoi-4856479.html) - 08:42 04/03/2025
 - 🌮 [Trần Hiểu xuất hiện sau ly hôn &#39;Tiểu Long Nữ&#39;](https://vnexpress.net/tran-hieu-xuat-hien-sau-ly-hon-tieu-long-nu-4856641.html) - 07:23 04/03/2025
 - 🧠 [Loạt tranh AI trên sàn đấu giá của Christie&#39;s](https://vnexpress.net/loat-tranh-ai-tren-san-dau-gia-cua-christie-s-4851879.html) - 06:56 04/03/2025
