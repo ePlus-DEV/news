@@ -461,7 +461,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Thư Viện Pháp Luật
 <!-- thuvienphapluat:START -->
-- 🕴 [Quyết định 266/2025/QĐ-CT đặc xá do Chủ tịch nước ban hành](https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Quyet-dinh-266-2025-QD-CT-dac-xa-645462.aspx) - 00:00 03/03/2025
+- 🕴 [Quyết định 266/2025/QĐ-CTN đặc xá năm 2025 do Chủ tịch nước ban hành](https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Quyet-dinh-266-2025-QD-CTN-dac-xa-645462.aspx) - 00:00 03/03/2025
 - 🎭 [Nghị định 55/2025/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ](https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-55-2025-ND-CP-chuc-nang-nhiem-vu-quyen-han-va-co-cau-to-chuc-Bo-Khoa-hoc-va-Cong-nghe-645212.aspx) - 00:00 02/03/2025
 - 💪 [Chỉ thị 05/CT-TTg về Nhiệm vụ, giải pháp trọng tâm, đột phá thúc đẩy tăng tưởng kinh tế và đẩy mạnh giải ngân vốn đầu tư công, bảo đảm mục tiêu tăng trưởng cả nước năm 2025 đạt 8% trở lên do Thủ tướng Chính phủ ban hành](https://thuvienphapluat.vn/van-ban/Dau-tu/Chi-thi-05-CT-TTg-2025-nhiem-vu-trong-tam-thuc-day-tang-tuong-kinh-te-dat-8-tro-len-645049.aspx) - 00:00 01/03/2025
 - 🚀 [Công văn 2535/BTC-CST năm 2025 thực hiện Nghị định về lệ phí trước bạ do Bộ Tài chính ban hành](https://thuvienphapluat.vn/cong-van/Thue-Phi-Le-Phi/Cong-van-2535-BTC-CST-2025-thuc-hien-Nghi-dinh-ve-le-phi-truoc-ba-645062.aspx) - 00:00 01/03/2025
