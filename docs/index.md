@@ -35,7 +35,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😺 [Tổng Bí thư: &#39;Khẩn trương ban hành danh mục công nghệ chiến lược&#39;](https://vnexpress.net/tong-bi-thu-khan-truong-ban-hanh-danh-muc-cong-nghe-chien-luoc-4856807.html) - 14:23 04/03/2025
 - 🕯 [Điện tái tạo tự dùng dư thừa được bán tối đa 10% công suất](https://vnexpress.net/dien-tai-tao-tu-dung-du-thua-duoc-ban-toi-da-10-cong-suat-4856805.html) - 14:17 04/03/2025
 - 💃 [Anh có trách nhiệm với gia đình, kinh tế ổn định](https://vnexpress.net/anh-co-trach-nhiem-voi-gia-dinh-kinh-te-on-dinh-4855987.html) - 14:00 04/03/2025
-- 💂 [ĐKVĐ Thanh Hóa bị loại ở Cup Quốc gia](https://vnexpress.net/dkvd-thanh-hoa-bi-loai-o-cup-quoc-gia-4856834.html) - 13:42 04/03/2025
+- 💂 [ĐKVĐ Thanh Hóa bị truất ngôi ở Cup Quốc gia](https://vnexpress.net/dkvd-thanh-hoa-bi-truat-ngoi-o-cup-quoc-gia-4856834.html) - 13:42 04/03/2025
 - 🎊 [Phụ huynh nộp trăm triệu đồng nhưng trường mầm non liên tục báo nghỉ](https://vnexpress.net/phu-huynh-nop-tram-trieu-dong-nhung-truong-mam-non-lien-tuc-bao-nghi-4856567.html) - 13:31 04/03/2025
 - 🤠 [Cầu thủ nữ ghi bàn &#39;chưa từng thấy trong bóng đá&#39;](https://vnexpress.net/cau-thu-nu-ghi-ban-chua-tung-thay-trong-bong-da-4856799.html) - 13:30 04/03/2025
 - 🌈 [&#39;Chưa qua tuổi 55 tôi vẫn còn nhảy việc&#39;](https://vnexpress.net/nhay-viec-tang-luong-chua-qua-tuoi-55-toi-con-nhay-viec-4856686.html) - 13:30 04/03/2025
@@ -51,15 +51,15 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😺 [Bức ảnh NASA ghi lại rào cản âm thanh bị phá vỡ](https://vnexpress.net/buc-anh-nasa-ghi-lai-rao-can-am-thanh-bi-pha-vo-4856409.html) - 12:14 04/03/2025
 - 🤔 [25 tuổi làm việc làng nhàng, 35 tuổi vào &#39;tệp bất an&#39;](https://vnexpress.net/25-tuoi-lam-viec-lang-nhang-35-tuoi-vao-tep-bat-an-4856740.html) - 12:12 04/03/2025
 - 🌮 [Tỉnh nào đông dân nhất miền Nam?](https://vnexpress.net/tinh-nao-dong-dan-nhat-mien-nam-4856765.html) - 12:06 04/03/2025
-- 🦩 [Lý do các thành phố du lịch thắt chặt cho thuê nhà ngắn hạn](https://vnexpress.net/ly-do-cac-thanh-pho-du-lich-that-chat-cho-thue-nha-ngan-han-4856535.html) - 12:00 04/03/2025
-- 📝 [Nguy cơ với Ukraine khi Mỹ cắt viện trợ quân sự](https://vnexpress.net/nguy-co-voi-ukraine-khi-my-cat-vien-tro-quan-su-vnepre-4856414.html) - 12:00 04/03/2025
-- 🕴 [Tăng Duy Tân lần đầu hát live &#39;Tái sinh&#39;](https://vnexpress.net/tang-duy-tan-lan-dau-hat-live-tai-sinh-4856755.html) - 12:00 04/03/2025
-- 🐲 [Adrien Brody: &#39;Diễn xuất là nghề bấp bênh&#39;](https://vnexpress.net/adrien-brody-dien-xuat-la-nghe-bap-benh-4856661.html) - 12:00 04/03/2025
+- 🦩 [Tăng Duy Tân lần đầu hát live &#39;Tái sinh&#39;](https://vnexpress.net/tang-duy-tan-lan-dau-hat-live-tai-sinh-4856755.html) - 12:00 04/03/2025
+- 📝 [Adrien Brody: &#39;Diễn xuất là nghề bấp bênh&#39;](https://vnexpress.net/adrien-brody-dien-xuat-la-nghe-bap-benh-4856661.html) - 12:00 04/03/2025
+- 🕴 [Lý do các thành phố du lịch thắt chặt cho thuê nhà ngắn hạn](https://vnexpress.net/ly-do-cac-thanh-pho-du-lich-that-chat-cho-thue-nha-ngan-han-4856535.html) - 12:00 04/03/2025
+- 🐲 [Nguy cơ với Ukraine khi Mỹ cắt viện trợ quân sự](https://vnexpress.net/nguy-co-voi-ukraine-khi-my-cat-vien-tro-quan-su-vnepre-4856414.html) - 12:00 04/03/2025
 - 🌜 [Đối tác phân phối Apollo Silicone thăm nhà máy ShinEtsu Thái Lan](https://vnexpress.net/doi-tac-phan-phoi-apollo-silicone-tham-nha-may-shinetsu-thai-lan-4856190.html) - 12:00 04/03/2025
 - 💄 [Cấm cho thuê lưu trú du lịch, cư dân vui, nhà đầu tư &#39;ngồi trên lửa&#39;](https://vnexpress.net/tp-hcm-cam-cho-thue-luu-tru-du-lich-trong-chung-cu-mang-lai-nhung-loi-ich-lau-dai-4856583.html) - 11:31 04/03/2025
-- 🌁 [Bị chồng bóp cổ khi nghe mẹ anh nói xấu tôi](https://vnexpress.net/bi-chong-bop-co-khi-nghe-me-anh-noi-xau-toi-4856465.html) - 11:00 04/03/2025
-- 🎬 [Làm thế nào nhận biết tràn khí, dịch màng phổi?](https://vnexpress.net/lam-the-nao-nhan-biet-tran-khi-dich-mang-phoi-4856707.html) - 11:00 04/03/2025
-- 👨‍🏫 [Điều gì xảy ra khi ăn sữa chua buổi tối?](https://vnexpress.net/dieu-gi-xay-ra-khi-an-sua-chua-buoi-toi-4856542.html) - 11:00 04/03/2025
+- 🌁 [Làm thế nào nhận biết tràn khí, dịch màng phổi?](https://vnexpress.net/lam-the-nao-nhan-biet-tran-khi-dich-mang-phoi-4856707.html) - 11:00 04/03/2025
+- 🎬 [Điều gì xảy ra khi ăn sữa chua buổi tối?](https://vnexpress.net/dieu-gi-xay-ra-khi-an-sua-chua-buoi-toi-4856542.html) - 11:00 04/03/2025
+- 👨‍🏫 [Bị chồng bóp cổ khi nghe mẹ anh nói xấu tôi](https://vnexpress.net/bi-chong-bop-co-khi-nghe-me-anh-noi-xau-toi-4856465.html) - 11:00 04/03/2025
 - ⚗️ [EU sẽ chi hơn 840 tỷ USD để tái vũ trang châu Âu](https://vnexpress.net/eu-se-chi-hon-840-ty-usd-de-tai-vu-trang-chau-au-4856749.html) - 10:55 04/03/2025
 - 😺 [Tặng vé xem phim của Kwon Sang Woo](https://vnexpress.net/tang-ve-xem-phim-cua-kwon-sang-woo-4856664.html) - 10:53 04/03/2025
 - 🔥 [Tập thể dục tác động trái tim như thế nào?](https://vnexpress.net/tap-the-duc-tac-dong-trai-tim-nhu-the-nao-4856648.html) - 10:52 04/03/2025
@@ -68,17 +68,16 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - ⛽️ [Kiện rạp chiếu phim vì &#39;ép xem quảng cáo quá nhiều&#39;](https://vnexpress.net/kien-rap-chieu-phim-vi-ep-xem-quang-cao-qua-nhieu-4856732.html) - 10:30 04/03/2025
 - 🚀 [YOLA nhân rộng phương pháp đào tạo khai phóng tiềm năng](https://vnexpress.net/yola-nhan-rong-phuong-phap-dao-tao-khai-phong-tiem-nang-4856236.html) - 10:30 04/03/2025
 - 🪜 [Pháp phản đối tịch thu tài sản bị đóng băng của Nga](https://vnexpress.net/phap-phan-doi-tich-thu-tai-san-bi-dong-bang-cua-nga-4856730.html) - 10:27 04/03/2025
-- 🚦 [Tìm cô gái trưởng thành trong suy nghĩ, biết đối nhân xử thế](https://vnexpress.net/tim-co-gai-truong-thanh-trong-suy-nghi-biet-doi-nhan-xu-the-4855985.html) - 10:00 04/03/2025
-- 🕯 [Điểm tin 21h: iPhone 16e bán dưới giá niêm yết ở Việt Nam | EU sẽ chi hơn 840 tỷ USD để tái vũ trang châu Âu](https://vnexpress.net/diem-tin-21h-iphone-16e-ban-duoi-gia-niem-yet-o-viet-nam-eu-se-chi-hon-840-ty-usd-de-tai-vu-trang-chau-au-4856780.html) - 10:00 04/03/2025
-- 💪 [Lupus ban đỏ là bệnh gì?](https://vnexpress.net/lupus-ban-do-la-benh-gi-4856727.html) - 10:00 04/03/2025
-- 🧑‍🏫 [Ba phương pháp điều trị đột quỵ xuất huyết não](https://vnexpress.net/ba-phuong-phap-dieu-tri-dot-quy-xuat-huyet-nao-4856718.html) - 10:00 04/03/2025
+- 🚦 [Điểm tin 21h: iPhone 16e bán dưới giá niêm yết ở Việt Nam | EU sẽ chi hơn 840 tỷ USD để tái vũ trang châu Âu](https://vnexpress.net/diem-tin-21h-iphone-16e-ban-duoi-gia-niem-yet-o-viet-nam-eu-se-chi-hon-840-ty-usd-de-tai-vu-trang-chau-au-4856780.html) - 10:00 04/03/2025
+- 🕯 [Lupus ban đỏ là bệnh gì?](https://vnexpress.net/lupus-ban-do-la-benh-gi-4856727.html) - 10:00 04/03/2025
+- 💪 [Ba phương pháp điều trị đột quỵ xuất huyết não](https://vnexpress.net/ba-phuong-phap-dieu-tri-dot-quy-xuat-huyet-nao-4856718.html) - 10:00 04/03/2025
+- 🧑‍🏫 [Tìm cô gái trưởng thành trong suy nghĩ, biết đối nhân xử thế](https://vnexpress.net/tim-co-gai-truong-thanh-trong-suy-nghi-biet-doi-nhan-xu-the-4855985.html) - 10:00 04/03/2025
 - 🎓 [iPhone 16e bán dưới giá niêm yết ở Việt Nam](https://vnexpress.net/iphone-16e-ban-duoi-gia-niem-yet-o-viet-nam-4856666.html) - 09:40 04/03/2025
 - 💫 [Mở lại đường bay đưa khách Nga đến Nha Trang](https://vnexpress.net/mo-lai-duong-bay-dua-khach-nga-den-nha-trang-4856739.html) - 09:36 04/03/2025
 - 🤩 [Nghị sĩ Ukraine nói ông Trump &#39;giáng đòn&#39; vào Kiev](https://vnexpress.net/nghi-si-ukraine-noi-ong-trump-giang-don-vao-kiev-4856692.html) - 09:32 04/03/2025
 - 🏊 [Hợp luyện diễu binh Kỷ niệm 50 năm thống nhất đất nước](https://vnexpress.net/hop-luyen-dieu-binh-ky-niem-50-nam-thong-nhat-dat-nuoc-4856646.html) - 09:28 04/03/2025
 - 💂 [Oscar 2025 - mùa giải khó đoán](https://vnexpress.net/oscar-2025-mua-giai-kho-doan-4856506.html) - 09:27 04/03/2025
-- 🚀 [Nhân viên ngân hàng bị sa thải tuổi 40](https://vnexpress.net/lan-song-sa-thai-nhan-su-ngan-hang-nhan-vien-ngan-hang-mat-viec-tuoi-40-4856501.html) - 09:22 04/03/2025
-- 🕴 [Giải xổ số Hàn Quốc vướng nghi vấn thao túng](https://vnexpress.net/giai-xo-so-han-quoc-vuong-nghi-van-thao-tung-4856612.html) - 09:18 04/03/2025<!-- vnexpress:END -->
+- 🚀 [Nhân viên ngân hàng bị sa thải tuổi 40](https://vnexpress.net/lan-song-sa-thai-nhan-su-ngan-hang-nhan-vien-ngan-hang-mat-viec-tuoi-40-4856501.html) - 09:22 04/03/2025<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
