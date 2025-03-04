@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Chị em sinh đôi cùng giành học bổng du học Mỹ hơn 8,7 tỷ đồng](https://vnexpress.net/chi-em-sinh-doi-cung-gianh-hoc-bong-du-hoc-my-hon-8-7-ty-dong-4856565.html) - 04:09 04/03/2025
+- 🤓 [Chị em sinh đôi giành học bổng hơn 17 tỷ đồng du học Mỹ](https://vnexpress.net/chi-em-sinh-doi-gianh-hoc-bong-hon-17-ty-dong-du-hoc-my-4856565.html) - 04:09 04/03/2025
 - 🦆 [Dùng &#39;It&#39; và &#39;Do so&#39; để tránh lặp trong tiếng Anh](https://vnexpress.net/dung-it-va-do-so-de-tranh-lap-trong-tieng-anh-4856251.html) - 02:54 04/03/2025
 - 🦩 [Thí sinh chuộng thi đánh giá năng lực, tư duy](https://vnexpress.net/thi-sinh-chuong-thi-danh-gia-nang-luc-tu-duy-4853807.html) - 00:07 04/03/2025
 - 🌮 [RMIT đồng hành cùng ngành bán dẫn Việt Nam](https://vnexpress.net/rmit-dong-hanh-cung-nganh-ban-dan-viet-nam-4856015.html) - 13:00 03/03/2025
@@ -18,8 +18,8 @@ sidebar_position: 7
 - 🐘 [Đại học Sài Gòn dự kiến mở ngành Thiết kế vi mạch](https://vnexpress.net/dai-hoc-sai-gon-du-kien-mo-nganh-thiet-ke-vi-mach-4855878.html) - 04:18 03/03/2025
 - 🤓 [Trường ĐH FPT dành 900 suất học bổng cho học sinh vùng khó khăn](https://vnexpress.net/truong-dh-fpt-danh-900-suat-hoc-bong-cho-hoc-sinh-vung-kho-khan-4855964.html) - 01:30 03/03/2025
 - 🧰 [Bài luận về tiệm sửa xe của bố giúp nam sinh đỗ học bổng hơn 9 tỷ đồng](https://vnexpress.net/bai-luan-ve-tiem-sua-xe-cua-bo-giup-nam-sinh-do-hoc-bong-hon-9-ty-dong-4855520.html) - 23:26 02/03/2025
-- 🧑‍💻 [Học tiếng Nhật có tăng cơ hội vào doanh nghiệp ở Hà Nội không?](https://vnexpress.net/hoc-tieng-nhat-co-tang-co-hoi-vao-doanh-nghiep-o-ha-noi-khong-4855372.html) - 16:59 02/03/2025
-- 🫶 [Mở trung tâm dạy và thi chứng chỉ A-level đầu tiên tại TP HCM](https://vnexpress.net/mo-trung-tam-day-va-thi-chung-chi-a-level-dau-tien-tai-tp-hcm-4855904.html) - 16:59 02/03/2025
+- 🧑‍💻 [Mở trung tâm dạy và thi chứng chỉ A-level đầu tiên tại TP HCM](https://vnexpress.net/mo-trung-tam-day-va-thi-chung-chi-a-level-dau-tien-tai-tp-hcm-4855904.html) - 16:59 02/03/2025
+- 🫶 [Học tiếng Nhật có tăng cơ hội vào doanh nghiệp ở Hà Nội không?](https://vnexpress.net/hoc-tieng-nhat-co-tang-co-hoi-vao-doanh-nghiep-o-ha-noi-khong-4855372.html) - 16:59 02/03/2025
 - 🪜 [Ba chàng trai &#39;vàng&#39; Olympic được đề cử Gương mặt trẻ tiêu biểu](https://vnexpress.net/ba-chang-trai-vang-olympic-duoc-de-cu-guong-mat-tre-tieu-bieu-4853992.html) - 15:36 02/03/2025
 - 🎊 [Học viện Kỹ thuật Quân sự giảm chỉ tiêu hệ quân sự](https://vnexpress.net/hoc-vien-ky-thuat-quan-su-giam-chi-tieu-he-quan-su-4855842.html) - 14:24 02/03/2025
 - 🧐 [Nước nào ở Đông Nam Á có đường sắt cao tốc đầu tiên?](https://vnexpress.net/nuoc-nao-o-dong-nam-a-co-duong-sat-cao-toc-dau-tien-4855866.html) - 12:38 02/03/2025
