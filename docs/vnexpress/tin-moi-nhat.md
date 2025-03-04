@@ -13,14 +13,14 @@ sidebar_position: 9
 - 🧰 [Tổng Bí thư: &#39;Khẩn trương ban hành danh mục công nghệ chiến lược&#39;](https://vnexpress.net/tong-bi-thu-khan-truong-ban-hanh-danh-muc-cong-nghe-chien-luoc-4856807.html) - 14:23 04/03/2025
 - 🔭 [Điện tái tạo tự dùng dư thừa được bán tối đa 10% công suất](https://vnexpress.net/dien-tai-tao-tu-dung-du-thua-duoc-ban-toi-da-10-cong-suat-4856805.html) - 14:17 04/03/2025
 - 🫶 [Anh có trách nhiệm với gia đình, kinh tế ổn định](https://vnexpress.net/anh-co-trach-nhiem-voi-gia-dinh-kinh-te-on-dinh-4855987.html) - 14:00 04/03/2025
-- 🪜 [ĐKVĐ Thanh Hóa bị loại ở Cup Quốc gia](https://vnexpress.net/dkvd-thanh-hoa-bi-loai-o-cup-quoc-gia-4856834.html) - 13:42 04/03/2025
+- 🪜 [ĐKVĐ Thanh Hóa bị truất ngôi ở Cup Quốc gia](https://vnexpress.net/dkvd-thanh-hoa-bi-truat-ngoi-o-cup-quoc-gia-4856834.html) - 13:42 04/03/2025
 - 👨‍🏫 [Phụ huynh nộp trăm triệu đồng nhưng trường mầm non liên tục báo nghỉ](https://vnexpress.net/phu-huynh-nop-tram-trieu-dong-nhung-truong-mam-non-lien-tuc-bao-nghi-4856567.html) - 13:31 04/03/2025
 - 🎊 [Cầu thủ nữ ghi bàn &#39;chưa từng thấy trong bóng đá&#39;](https://vnexpress.net/cau-thu-nu-ghi-ban-chua-tung-thay-trong-bong-da-4856799.html) - 13:30 04/03/2025
 - 🎊 [&#39;Chưa qua tuổi 55 tôi vẫn còn nhảy việc&#39;](https://vnexpress.net/nhay-viec-tang-luong-chua-qua-tuoi-55-toi-con-nhay-viec-4856686.html) - 13:30 04/03/2025
-- 😺 [Ngoại hình hot boy đóng &#39;Cha tôi, người ở lại&#39;](https://vnexpress.net/ngoai-hinh-hot-boy-dong-cha-toi-nguoi-o-lai-4856469.html) - 13:00 04/03/2025
-- 🐘 [Hàu Thái Bình Dương xâm chiếm biển Baltic](https://vnexpress.net/hau-thai-binh-duong-xam-chiem-bien-baltic-4856433.html) - 13:00 04/03/2025
-- 🌁 [Chồng cấm tôi hỏi đến bất cứ khoản chi tiêu nào của anh](https://vnexpress.net/chong-cam-toi-hoi-den-bat-cu-khoan-chi-tieu-nao-cua-anh-4856238.html) - 13:00 04/03/2025
-- 🐲 [Tìm kiếm một nửa yêu thương, cùng nhau xây dựng mái ấm](https://vnexpress.net/tim-kiem-mot-nua-yeu-thuong-cung-nhau-xay-dung-mai-am-4855986.html) - 13:00 04/03/2025
+- 😺 [Hàu Thái Bình Dương xâm chiếm biển Baltic](https://vnexpress.net/hau-thai-binh-duong-xam-chiem-bien-baltic-4856433.html) - 13:00 04/03/2025
+- 🐘 [Chồng cấm tôi hỏi đến bất cứ khoản chi tiêu nào của anh](https://vnexpress.net/chong-cam-toi-hoi-den-bat-cu-khoan-chi-tieu-nao-cua-anh-4856238.html) - 13:00 04/03/2025
+- 🌁 [Tìm kiếm một nửa yêu thương, cùng nhau xây dựng mái ấm](https://vnexpress.net/tim-kiem-mot-nua-yeu-thuong-cung-nhau-xay-dung-mai-am-4855986.html) - 13:00 04/03/2025
+- 🐲 [Ngoại hình hot boy đóng &#39;Cha tôi, người ở lại&#39;](https://vnexpress.net/ngoai-hinh-hot-boy-dong-cha-toi-nguoi-o-lai-4856469.html) - 13:00 04/03/2025
 - 🤓 [Nga ca ngợi việc Mỹ đình chỉ viện trợ quân sự cho Ukraine](https://vnexpress.net/nga-ca-ngoi-viec-my-dinh-chi-vien-tro-quan-su-cho-ukraine-4856798.html) - 12:57 04/03/2025
 - 💪 [12 điểm công an phường tại nội thành Hà Nội được cấp biển số xe máy](https://vnexpress.net/12-cong-an-phuong-tai-noi-thanh-ha-noi-duoc-cap-bien-so-xe-may-4856791.html) - 12:47 04/03/2025
 - 🎓 [Quảng Nam lần đầu tiên bắn pháo hoa tầm cao](https://vnexpress.net/quang-nam-lan-dau-tien-ban-phao-hoa-tam-cao-4856790.html) - 12:30 04/03/2025
@@ -55,5 +55,4 @@ sidebar_position: 9
 - 🏊 [Nghị sĩ Ukraine nói ông Trump &#39;giáng đòn&#39; vào Kiev](https://vnexpress.net/nghi-si-ukraine-noi-ong-trump-giang-don-vao-kiev-4856692.html) - 09:32 04/03/2025
 - 🦩 [Hợp luyện diễu binh Kỷ niệm 50 năm thống nhất đất nước](https://vnexpress.net/hop-luyen-dieu-binh-ky-niem-50-nam-thong-nhat-dat-nuoc-4856646.html) - 09:28 04/03/2025
 - 👍 [Oscar 2025 - mùa giải khó đoán](https://vnexpress.net/oscar-2025-mua-giai-kho-doan-4856506.html) - 09:27 04/03/2025
-- 🔥 [Nhân viên ngân hàng bị sa thải tuổi 40](https://vnexpress.net/lan-song-sa-thai-nhan-su-ngan-hang-nhan-vien-ngan-hang-mat-viec-tuoi-40-4856501.html) - 09:22 04/03/2025
-- 💄 [Giải xổ số Hàn Quốc vướng nghi vấn thao túng](https://vnexpress.net/giai-xo-so-han-quoc-vuong-nghi-van-thao-tung-4856612.html) - 09:18 04/03/2025<!-- vnexpress-tin-moi-nhat:END -->
+- 🔥 [Nhân viên ngân hàng bị sa thải tuổi 40](https://vnexpress.net/lan-song-sa-thai-nhan-su-ngan-hang-nhan-vien-ngan-hang-mat-viec-tuoi-40-4856501.html) - 09:22 04/03/2025<!-- vnexpress-tin-moi-nhat:END -->
