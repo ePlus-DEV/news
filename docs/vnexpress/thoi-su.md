@@ -4,63 +4,63 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Khu đất bên Hồ Gươm dự kiến được quy hoạch làm không gian công cộng](https://vnexpress.net/khu-dat-ben-ho-guom-du-kien-duoc-quy-hoach-lam-khong-gian-cong-cong-4857271.html) - 17:37 05/03/2025
-- 🤓 [Khu du lịch giữa hồ Trị An chưa có đánh giá tác động môi trường](https://vnexpress.net/khu-du-lich-giua-ho-tri-an-chua-co-danh-gia-tac-dong-moi-truong-4857242.html) - 17:00 05/03/2025
-- ⚗️ [6 cống ngăn mặn nghìn tỷ ở miền Tây bị &#39;treo&#39; nhiều năm](https://vnexpress.net/6-cong-ngan-man-nghin-ty-o-mien-tay-bi-treo-nhieu-nam-4857083.html) - 17:00 05/03/2025
-- 🌊 [Nghệ thuật nghi binh trong chiến dịch Tây Nguyên](https://vnexpress.net/nghe-thuat-nghi-binh-trong-chien-dich-tay-nguyen-4857319.html) - 17:00 05/03/2025
-- 🎓 [Xe tải đấu đầu, hai người tử vong](https://vnexpress.net/xe-tai-dau-dau-hai-nguoi-tu-vong-4857306.html) - 14:31 05/03/2025
-- 🔥 [Thủ tướng nêu tiêu chí sáp nhập tỉnh](https://vnexpress.net/thu-tuong-neu-tieu-chi-sap-nhap-tinh-4857301.html) - 13:31 05/03/2025
-- 🦏 [Bộ Quốc phòng tiếp tục sáp nhập một số đơn vị](https://vnexpress.net/bo-quoc-phong-tiep-tuc-sap-nhap-mot-so-don-vi-4857294.html) - 13:31 05/03/2025
-- 👺 [Đề xuất giao tư nhân làm hạ tầng Khu đô thị Thủ Thiêm](https://vnexpress.net/de-xuat-giao-tu-nhan-lam-ha-tang-khu-do-thi-thu-thiem-4857278.html) - 12:10 05/03/2025
-- 🧑‍🏫 [Ôtô tải lao vào tiệm sửa xe](https://vnexpress.net/oto-tai-lao-vao-tiem-sua-xe-4857256.html) - 10:34 05/03/2025
-- 🚦 [Người dân được làm 35 thủ tục hành chính tại công an xã](https://vnexpress.net/nguoi-dan-duoc-lam-35-thu-tuc-hanh-chinh-tai-cong-an-xa-4857204.html) - 10:01 05/03/2025
-- 🎉 [Người dân được dùng giấy hẹn trong thời gian chờ cấp đổi bằng lái](https://vnexpress.net/nguoi-dan-duoc-dung-giay-hen-trong-thoi-gian-cho-cap-doi-bang-lai-4857173.html) - 08:35 05/03/2025
-- 🦒 [Thủ tướng: &#39;Tập trung hoàn thành đề án sáp nhập một số tỉnh&#39;](https://vnexpress.net/thu-tuong-tap-trung-hoan-thanh-de-an-sap-nhap-mot-so-tinh-4857126.html) - 07:43 05/03/2025
-- 🤗 [Hà Nội nghiên cứu mở rộng không gian Hồ Gươm](https://vnexpress.net/ha-noi-nghien-cuu-mo-rong-khong-gian-ho-guom-4857064.html) - 07:27 05/03/2025
-- 💼 [Trung Quốc muốn tham gia khôi phục đường sắt Đà Lạt - Tháp Chàm](https://vnexpress.net/trung-quoc-muon-tham-gia-khoi-phuc-duong-sat-da-lat-thap-cham-4857117.html) - 07:13 05/03/2025
-- 🤩 [Cháy ở cửa khẩu Móng Cái, 4 người bị thương](https://vnexpress.net/chay-o-cua-khau-mong-cai-4-nguoi-bi-thuong-4857099.html) - 06:25 05/03/2025
-- 🤡 [Bổ sung nước cho Hồ Tây thế nào?](https://vnexpress.net/bo-sung-nuoc-cho-ho-tay-the-nao-4856709.html) - 05:03 05/03/2025
-- 💯 [TP HCM khởi công nhà máy đốt rác phát điện 3.500 tỷ đồng](https://vnexpress.net/tp-hcm-khoi-cong-nha-may-dot-rac-phat-dien-3-500-ty-dong-4857063.html) - 04:36 05/03/2025
-- 👺 [Cà Mau muốn được hỗ trợ kinh phí giải phóng mặt bằng xây cao tốc](https://vnexpress.net/ca-mau-muon-duoc-ho-tro-kinh-phi-giai-phong-mat-bang-xay-cao-toc-4856993.html) - 04:10 05/03/2025
-- 🌮 [Phát hiện bom hơn 200 kg khi nạo vét ống thoát nước](https://vnexpress.net/phat-hien-bom-hon-200-kg-khi-nao-vet-ong-thoat-nuoc-4856964.html) - 04:00 05/03/2025
-- 🥸 [5 sân bay được đầu tư nâng cấp, mở rộng](https://vnexpress.net/5-san-bay-duoc-dau-tu-nang-cap-mo-rong-4856519.html) - 21:00 04/03/2025
-- 🐻 [Chủ tịch Quốc hội: Nghiên cứu sửa một số điều của Hiến pháp trong tháng 3](https://vnexpress.net/chu-tich-quoc-hoi-nghien-cuu-sua-mot-so-dieu-cua-hien-phap-trong-thang-3-4856862.html) - 20:00 04/03/2025
-- 👀 [Hai phương án xây đường tránh TP Đà Lạt](https://vnexpress.net/hai-phuong-an-xay-duong-tranh-tp-da-lat-4856797.html) - 17:00 04/03/2025
-- 🤔 [Diện mạo cầu 2.300 tỷ đồng bắc qua sông Cấm](https://vnexpress.net/dien-mao-cau-2-300-ty-dong-bac-qua-song-cam-4856548.html) - 17:00 04/03/2025
-- 🕯 [Vụ trưởng Nông nghiệp làm Phó chủ nhiệm Văn phòng Chính phủ](https://vnexpress.net/vu-truong-nong-nghiep-lam-pho-chu-nhiem-van-phong-chinh-phu-4856835.html) - 15:05 04/03/2025
-- 😺 [Tổng Bí thư: &#39;Khẩn trương ban hành danh mục công nghệ chiến lược&#39;](https://vnexpress.net/tong-bi-thu-khan-truong-ban-hanh-danh-muc-cong-nghe-chien-luoc-4856807.html) - 14:23 04/03/2025
-- 🦆 [Quảng Nam lần đầu tiên bắn pháo hoa tầm cao](https://vnexpress.net/quang-nam-lan-dau-tien-ban-phao-hoa-tam-cao-4856790.html) - 12:30 04/03/2025
+- 🦒 [Cấm ôtô 15 ngày để sửa chữa cầu trên quốc lộ 1](https://vnexpress.net/cam-oto-15-ngay-de-sua-chua-cau-tren-quoc-lo-1-4857240.html) - 18:57 05/03/2025
+- 🤓 [Hà Nội dự kiến phá bỏ tòa nhà &#39;Hàm cá mập&#39;](https://vnexpress.net/ha-noi-du-kien-pha-bo-toa-nha-ham-ca-map-4857335.html) - 18:24 05/03/2025
+- ⚗️ [Khu đất bên Hồ Gươm dự kiến được quy hoạch làm không gian công cộng](https://vnexpress.net/khu-dat-ben-ho-guom-du-kien-duoc-quy-hoach-lam-khong-gian-cong-cong-4857271.html) - 17:37 05/03/2025
+- 🌊 [Khu du lịch giữa hồ Trị An chưa có đánh giá tác động môi trường](https://vnexpress.net/khu-du-lich-giua-ho-tri-an-chua-co-danh-gia-tac-dong-moi-truong-4857242.html) - 17:00 05/03/2025
+- 🎓 [6 cống ngăn mặn nghìn tỷ ở miền Tây bị &#39;treo&#39; nhiều năm](https://vnexpress.net/6-cong-ngan-man-nghin-ty-o-mien-tay-bi-treo-nhieu-nam-4857083.html) - 17:00 05/03/2025
+- 🔥 [Nghệ thuật nghi binh trong chiến dịch Tây Nguyên](https://vnexpress.net/nghe-thuat-nghi-binh-trong-chien-dich-tay-nguyen-4857319.html) - 17:00 05/03/2025
+- 🦏 [Xe tải đấu đầu, hai người tử vong](https://vnexpress.net/xe-tai-dau-dau-hai-nguoi-tu-vong-4857306.html) - 14:31 05/03/2025
+- 👺 [Thủ tướng nêu tiêu chí sáp nhập tỉnh](https://vnexpress.net/thu-tuong-neu-tieu-chi-sap-nhap-tinh-4857301.html) - 13:31 05/03/2025
+- 🧑‍🏫 [Bộ Quốc phòng tiếp tục sáp nhập một số đơn vị](https://vnexpress.net/bo-quoc-phong-tiep-tuc-sap-nhap-mot-so-don-vi-4857294.html) - 13:31 05/03/2025
+- 🚦 [Đề xuất giao tư nhân làm hạ tầng Khu đô thị Thủ Thiêm](https://vnexpress.net/de-xuat-giao-tu-nhan-lam-ha-tang-khu-do-thi-thu-thiem-4857278.html) - 12:10 05/03/2025
+- 🎉 [Ôtô tải lao vào tiệm sửa xe](https://vnexpress.net/oto-tai-lao-vao-tiem-sua-xe-4857256.html) - 10:34 05/03/2025
+- 🦒 [Người dân được làm 35 thủ tục hành chính tại công an xã](https://vnexpress.net/nguoi-dan-duoc-lam-35-thu-tuc-hanh-chinh-tai-cong-an-xa-4857204.html) - 10:01 05/03/2025
+- 🤗 [Người dân được dùng giấy hẹn trong thời gian chờ cấp đổi bằng lái](https://vnexpress.net/nguoi-dan-duoc-dung-giay-hen-trong-thoi-gian-cho-cap-doi-bang-lai-4857173.html) - 08:35 05/03/2025
+- 💼 [Thủ tướng: &#39;Tập trung hoàn thành đề án sáp nhập một số tỉnh&#39;](https://vnexpress.net/thu-tuong-tap-trung-hoan-thanh-de-an-sap-nhap-mot-so-tinh-4857126.html) - 07:43 05/03/2025
+- 🤩 [Hà Nội nghiên cứu mở rộng không gian Hồ Gươm](https://vnexpress.net/ha-noi-nghien-cuu-mo-rong-khong-gian-ho-guom-4857064.html) - 07:27 05/03/2025
+- 🤡 [Trung Quốc muốn tham gia khôi phục đường sắt Đà Lạt - Tháp Chàm](https://vnexpress.net/trung-quoc-muon-tham-gia-khoi-phuc-duong-sat-da-lat-thap-cham-4857117.html) - 07:13 05/03/2025
+- 💯 [Cháy ở cửa khẩu Móng Cái, 4 người bị thương](https://vnexpress.net/chay-o-cua-khau-mong-cai-4-nguoi-bi-thuong-4857099.html) - 06:25 05/03/2025
+- 👺 [Bổ sung nước cho Hồ Tây thế nào?](https://vnexpress.net/bo-sung-nuoc-cho-ho-tay-the-nao-4856709.html) - 05:03 05/03/2025
+- 🌮 [TP HCM khởi công nhà máy đốt rác phát điện 3.500 tỷ đồng](https://vnexpress.net/tp-hcm-khoi-cong-nha-may-dot-rac-phat-dien-3-500-ty-dong-4857063.html) - 04:36 05/03/2025
+- 🥸 [Cà Mau muốn được hỗ trợ kinh phí giải phóng mặt bằng xây cao tốc](https://vnexpress.net/ca-mau-muon-duoc-ho-tro-kinh-phi-giai-phong-mat-bang-xay-cao-toc-4856993.html) - 04:10 05/03/2025
+- 🐻 [Phát hiện bom hơn 200 kg khi nạo vét ống thoát nước](https://vnexpress.net/phat-hien-bom-hon-200-kg-khi-nao-vet-ong-thoat-nuoc-4856964.html) - 04:00 05/03/2025
+- 👀 [5 sân bay được đầu tư nâng cấp, mở rộng](https://vnexpress.net/5-san-bay-duoc-dau-tu-nang-cap-mo-rong-4856519.html) - 21:00 04/03/2025
+- 🤔 [Chủ tịch Quốc hội: Nghiên cứu sửa một số điều của Hiến pháp trong tháng 3](https://vnexpress.net/chu-tich-quoc-hoi-nghien-cuu-sua-mot-so-dieu-cua-hien-phap-trong-thang-3-4856862.html) - 20:00 04/03/2025
+- 🕯 [Hai phương án xây đường tránh TP Đà Lạt](https://vnexpress.net/hai-phuong-an-xay-duong-tranh-tp-da-lat-4856797.html) - 17:00 04/03/2025
+- 😺 [Diện mạo cầu 2.300 tỷ đồng bắc qua sông Cấm](https://vnexpress.net/dien-mao-cau-2-300-ty-dong-bac-qua-song-cam-4856548.html) - 17:00 04/03/2025
+- 🦆 [Vụ trưởng Nông nghiệp làm Phó chủ nhiệm Văn phòng Chính phủ](https://vnexpress.net/vu-truong-nong-nghiep-lam-pho-chu-nhiem-van-phong-chinh-phu-4856835.html) - 15:05 04/03/2025
+- 🧰 [Tổng Bí thư: &#39;Khẩn trương ban hành danh mục công nghệ chiến lược&#39;](https://vnexpress.net/tong-bi-thu-khan-truong-ban-hanh-danh-muc-cong-nghe-chien-luoc-4856807.html) - 14:23 04/03/2025
+- 🦍 [Quảng Nam lần đầu tiên bắn pháo hoa tầm cao](https://vnexpress.net/quang-nam-lan-dau-tien-ban-phao-hoa-tam-cao-4856790.html) - 12:30 04/03/2025
 - 🧰 [Hợp luyện diễu binh Kỷ niệm 50 năm thống nhất đất nước](https://vnexpress.net/hop-luyen-dieu-binh-ky-niem-50-nam-thong-nhat-dat-nuoc-4856646.html) - 09:28 04/03/2025
-- 🦍 [Bộ Khoa học và Công nghệ phân công công việc Bộ trưởng, Thứ trưởng](https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-phan-cong-cong-viec-bo-truong-thu-truong-4856717.html) - 08:44 04/03/2025
+- 💃 [Bộ Khoa học và Công nghệ phân công công việc Bộ trưởng, Thứ trưởng](https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-phan-cong-cong-viec-bo-truong-thu-truong-4856717.html) - 08:44 04/03/2025
 - 🧰 [Không khí lạnh đang tràn xuống miền Bắc](https://vnexpress.net/khong-khi-lanh-dang-tran-xuong-mien-bac-4856685.html) - 08:33 04/03/2025
-- 💃 [TP HCM tính nối dài đại lộ Đông Tây thẳng tới Long An](https://vnexpress.net/tp-hcm-tinh-noi-dai-dai-lo-dong-tay-thang-toi-long-an-4856668.html) - 07:50 04/03/2025
-- 🧰 [Du khách Hà Lan đi lạc hơn 4 km khi leo Fansipan](https://vnexpress.net/du-khach-ha-lan-di-lac-hon-4-km-khi-leo-fansipan-4856676.html) - 07:42 04/03/2025
-- 🚀 [Cháy phòng khám sức khỏe ở làng sinh viên Hacinco](https://vnexpress.net/chay-phong-kham-suc-khoe-o-lang-sinh-vien-hacinco-4856637.html) - 06:52 04/03/2025
-- 🎊 [Cháy xưởng mút xốp trong khu dân cư](https://vnexpress.net/chay-xuong-mut-xop-trong-khu-dan-cu-4856618.html) - 06:20 04/03/2025
-- 🤭 [Bảo hiểm xã hội Việt Nam thay đổi thế nào sau sắp xếp?](https://vnexpress.net/bao-hiem-xa-hoi-viet-nam-thay-doi-the-nao-sau-sap-xep-4856591.html) - 06:03 04/03/2025
-- 🤗 [Giấy phép lái xe đổi sang màu hồng, thêm mã QR](https://vnexpress.net/giay-phep-lai-xe-doi-sang-mau-hong-them-ma-qr-4856562.html) - 05:15 04/03/2025
-- 🌈 [Tài xế nghi ngủ gật lái ôtô tông đổ trụ đèn](https://vnexpress.net/tai-xe-nghi-ngu-gat-lai-oto-tong-do-tru-den-4856547.html) - 04:21 04/03/2025
-- 🦣 [Dừng dự án Trung tâm hành chính Nha Trang](https://vnexpress.net/dung-du-an-trung-tam-hanh-chinh-nha-trang-4856554.html) - 04:17 04/03/2025
-- 🎡 [Nuôi tôm công nghệ cao thu lãi 6-7 tỷ đồng mỗi năm](https://vnexpress.net/nuoi-tom-cong-nghe-cao-thu-lai-6-7-ty-dong-moi-nam-4856378.html) - 23:00 03/03/2025
-- 🦏 [Những đôi mắt canh vịnh Bắc Bộ](https://vnexpress.net/nhung-doi-mat-canh-vinh-bac-bo-4856303.html) - 17:53 03/03/2025
-- 🎊 [Đồng Nai nghiên cứu metro đi ngầm khi kết nối TP HCM](https://vnexpress.net/dong-nai-nghien-cuu-metro-di-ngam-khi-ket-noi-tp-hcm-4856341.html) - 17:00 03/03/2025
-- 🫶 [Tài xế lái xe container trên cao tốc dù người có cồn](https://vnexpress.net/tai-xe-lai-xe-container-tren-cao-toc-du-nguoi-co-con-4856368.html) - 16:44 03/03/2025
-- 🤔 [Thi lại lý thuyết, thực hành khi sát hạch lái xe trong trường hợp nào?](https://vnexpress.net/thi-lai-ly-thuyet-thuc-hanh-khi-sat-hach-lai-xe-trong-truong-hop-nao-4856281.html) - 11:50 03/03/2025
-- 🤠 [Metro Bến Thành - Tham Lương dự kiến khởi công cuối năm 2025](https://vnexpress.net/metro-ben-thanh-tham-luong-du-kien-khoi-cong-cuoi-nam-2025-4856326.html) - 11:43 03/03/2025
-- 🌜 [Người dân Cần Thơ &#39;ùn ùn&#39; đổi giấy phép lái xe](https://vnexpress.net/nguoi-dan-can-tho-un-un-doi-giay-phep-lai-xe-4856292.html) - 11:26 03/03/2025
-- 🕯 [Bộ Khoa học và Công nghệ chủ trì đề án Phát triển Hệ tri thức Việt số hóa](https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-chu-tri-de-an-phat-trien-he-tri-thuc-viet-so-hoa-4856206.html) - 10:14 03/03/2025
-- 🤔 [Bộ Khoa học và Công nghệ có 25 đầu mối](https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-co-25-dau-moi-4855858.html) - 07:47 03/03/2025
-- 🏊 [Ông Trương Quốc Huy làm Bí thư Hà Nam](https://vnexpress.net/ong-truong-quoc-huy-lam-bi-thu-ha-nam-4856170.html) - 07:15 03/03/2025
-- 🌮 [Hai người bán bánh mì trả lại 100 triệu đồng nhặt được](https://vnexpress.net/hai-nguoi-ban-banh-mi-tra-lai-100-trieu-dong-nhat-duoc-4856058.html) - 07:05 03/03/2025
-- 🫣 [Ngày đầu làm việc của các bộ ngành sau sắp xếp bộ máy](https://vnexpress.net/ngay-dau-lam-viec-cua-cac-bo-nganh-sau-sap-xep-bo-may-4856084.html) - 07:03 03/03/2025
-- ⚗️ [Máy xúc rơi xuống bờ kè, tài xế tử vong](https://vnexpress.net/may-xuc-roi-xuong-bo-ke-tai-xe-tu-vong-4856093.html) - 04:31 03/03/2025
-- 🌜 [Ban Chính sách, chiến lược Trung ương có thêm 3 Phó ban](https://vnexpress.net/ban-chinh-sach-chien-luoc-trung-uong-co-them-3-pho-ban-4856095.html) - 04:27 03/03/2025
-- 🌁 [Hai cao tốc được bổ sung vào quy hoạch](https://vnexpress.net/hai-cao-toc-duoc-bo-sung-vao-quy-hoach-4856045.html) - 04:11 03/03/2025
-- 🐲 [Đồng Tháp có quyền chủ tịch tỉnh](https://vnexpress.net/dong-thap-co-quyen-chu-tich-tinh-4856056.html) - 03:37 03/03/2025
-- ⛽️ [TP HCM lập hai ban quản lý mới, bổ nhiệm nhiều lãnh đạo đơn vị](https://vnexpress.net/tp-hcm-lap-hai-ban-quan-ly-moi-bo-nhiem-nhieu-lanh-dao-don-vi-4856050.html) - 03:37 03/03/2025
-- 🗽 [Hà Nội sử dụng nước thải sau xử lý để bổ cập cho Hồ Tây](https://vnexpress.net/ha-noi-su-dung-nuoc-thai-sau-xu-ly-de-bo-cap-cho-ho-tay-4855893.html) - 18:00 02/03/2025
-- 🔥 [Xe buýt bị người lạ chặn đường, ném đá vỡ kính](https://vnexpress.net/xe-buyt-bi-nguoi-la-chan-duong-nem-da-vo-kinh-4855894.html) - 15:36 02/03/2025
-- 💯 [Xác minh nhóm thanh niên khiêng quan tài trước chợ Bến Thành](https://vnexpress.net/xac-minh-nhom-thanh-nien-khieng-quan-tai-truoc-cho-ben-thanh-4855847.html) - 10:36 02/03/2025
-- 🦆 [Thủ tướng lập 7 đoàn gỡ khó dự án giao thông trọng điểm](https://vnexpress.net/thu-tuong-lap-7-doan-go-kho-du-an-giao-thong-trong-diem-4855852.html) - 10:30 02/03/2025
-- 🫣 [Sân bay Phan Thiết và Thành Sơn được đề xuất sử dụng lưỡng dụng](https://vnexpress.net/san-bay-phan-thiet-va-thanh-son-duoc-de-xuat-su-dung-luong-dung-4855831.html) - 09:18 02/03/2025
-- 🤡 [Người dân giao nộp trăn bạch tạng quý hiếm nặng 100 kg](https://vnexpress.net/nguoi-dan-giao-nop-tran-bach-tang-quy-hiem-nang-100-kg-4855813.html) - 09:04 02/03/2025<!-- vnexpress-thoi-su:END -->
+- 🚀 [TP HCM tính nối dài đại lộ Đông Tây thẳng tới Long An](https://vnexpress.net/tp-hcm-tinh-noi-dai-dai-lo-dong-tay-thang-toi-long-an-4856668.html) - 07:50 04/03/2025
+- 🎊 [Du khách Hà Lan đi lạc hơn 4 km khi leo Fansipan](https://vnexpress.net/du-khach-ha-lan-di-lac-hon-4-km-khi-leo-fansipan-4856676.html) - 07:42 04/03/2025
+- 🤭 [Cháy phòng khám sức khỏe ở làng sinh viên Hacinco](https://vnexpress.net/chay-phong-kham-suc-khoe-o-lang-sinh-vien-hacinco-4856637.html) - 06:52 04/03/2025
+- 🤗 [Cháy xưởng mút xốp trong khu dân cư](https://vnexpress.net/chay-xuong-mut-xop-trong-khu-dan-cu-4856618.html) - 06:20 04/03/2025
+- 🌈 [Bảo hiểm xã hội Việt Nam thay đổi thế nào sau sắp xếp?](https://vnexpress.net/bao-hiem-xa-hoi-viet-nam-thay-doi-the-nao-sau-sap-xep-4856591.html) - 06:03 04/03/2025
+- 🦣 [Giấy phép lái xe đổi sang màu hồng, thêm mã QR](https://vnexpress.net/giay-phep-lai-xe-doi-sang-mau-hong-them-ma-qr-4856562.html) - 05:15 04/03/2025
+- 🎡 [Tài xế nghi ngủ gật lái ôtô tông đổ trụ đèn](https://vnexpress.net/tai-xe-nghi-ngu-gat-lai-oto-tong-do-tru-den-4856547.html) - 04:21 04/03/2025
+- 🦏 [Dừng dự án Trung tâm hành chính Nha Trang](https://vnexpress.net/dung-du-an-trung-tam-hanh-chinh-nha-trang-4856554.html) - 04:17 04/03/2025
+- 🎊 [Nuôi tôm công nghệ cao thu lãi 6-7 tỷ đồng mỗi năm](https://vnexpress.net/nuoi-tom-cong-nghe-cao-thu-lai-6-7-ty-dong-moi-nam-4856378.html) - 23:00 03/03/2025
+- 🫶 [Những đôi mắt canh vịnh Bắc Bộ](https://vnexpress.net/nhung-doi-mat-canh-vinh-bac-bo-4856303.html) - 17:53 03/03/2025
+- 🤔 [Đồng Nai nghiên cứu metro đi ngầm khi kết nối TP HCM](https://vnexpress.net/dong-nai-nghien-cuu-metro-di-ngam-khi-ket-noi-tp-hcm-4856341.html) - 17:00 03/03/2025
+- 🤠 [Tài xế lái xe container trên cao tốc dù người có cồn](https://vnexpress.net/tai-xe-lai-xe-container-tren-cao-toc-du-nguoi-co-con-4856368.html) - 16:44 03/03/2025
+- 🌜 [Thi lại lý thuyết, thực hành khi sát hạch lái xe trong trường hợp nào?](https://vnexpress.net/thi-lai-ly-thuyet-thuc-hanh-khi-sat-hach-lai-xe-trong-truong-hop-nao-4856281.html) - 11:50 03/03/2025
+- 🕯 [Metro Bến Thành - Tham Lương dự kiến khởi công cuối năm 2025](https://vnexpress.net/metro-ben-thanh-tham-luong-du-kien-khoi-cong-cuoi-nam-2025-4856326.html) - 11:43 03/03/2025
+- 🤔 [Người dân Cần Thơ &#39;ùn ùn&#39; đổi giấy phép lái xe](https://vnexpress.net/nguoi-dan-can-tho-un-un-doi-giay-phep-lai-xe-4856292.html) - 11:26 03/03/2025
+- 🏊 [Bộ Khoa học và Công nghệ chủ trì đề án Phát triển Hệ tri thức Việt số hóa](https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-chu-tri-de-an-phat-trien-he-tri-thuc-viet-so-hoa-4856206.html) - 10:14 03/03/2025
+- 🌮 [Bộ Khoa học và Công nghệ có 25 đầu mối](https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-co-25-dau-moi-4855858.html) - 07:47 03/03/2025
+- 🫣 [Ông Trương Quốc Huy làm Bí thư Hà Nam](https://vnexpress.net/ong-truong-quoc-huy-lam-bi-thu-ha-nam-4856170.html) - 07:15 03/03/2025
+- ⚗️ [Hai người bán bánh mì trả lại 100 triệu đồng nhặt được](https://vnexpress.net/hai-nguoi-ban-banh-mi-tra-lai-100-trieu-dong-nhat-duoc-4856058.html) - 07:05 03/03/2025
+- 🌜 [Ngày đầu làm việc của các bộ ngành sau sắp xếp bộ máy](https://vnexpress.net/ngay-dau-lam-viec-cua-cac-bo-nganh-sau-sap-xep-bo-may-4856084.html) - 07:03 03/03/2025
+- 🌁 [Máy xúc rơi xuống bờ kè, tài xế tử vong](https://vnexpress.net/may-xuc-roi-xuong-bo-ke-tai-xe-tu-vong-4856093.html) - 04:31 03/03/2025
+- 🐲 [Ban Chính sách, chiến lược Trung ương có thêm 3 Phó ban](https://vnexpress.net/ban-chinh-sach-chien-luoc-trung-uong-co-them-3-pho-ban-4856095.html) - 04:27 03/03/2025
+- ⛽️ [Hai cao tốc được bổ sung vào quy hoạch](https://vnexpress.net/hai-cao-toc-duoc-bo-sung-vao-quy-hoach-4856045.html) - 04:11 03/03/2025
+- 🗽 [Đồng Tháp có quyền chủ tịch tỉnh](https://vnexpress.net/dong-thap-co-quyen-chu-tich-tinh-4856056.html) - 03:37 03/03/2025
+- 🔥 [TP HCM lập hai ban quản lý mới, bổ nhiệm nhiều lãnh đạo đơn vị](https://vnexpress.net/tp-hcm-lap-hai-ban-quan-ly-moi-bo-nhiem-nhieu-lanh-dao-don-vi-4856050.html) - 03:37 03/03/2025
+- 💯 [Hà Nội sử dụng nước thải sau xử lý để bổ cập cho Hồ Tây](https://vnexpress.net/ha-noi-su-dung-nuoc-thai-sau-xu-ly-de-bo-cap-cho-ho-tay-4855893.html) - 18:00 02/03/2025
+- 🦆 [Xe buýt bị người lạ chặn đường, ném đá vỡ kính](https://vnexpress.net/xe-buyt-bi-nguoi-la-chan-duong-nem-da-vo-kinh-4855894.html) - 15:36 02/03/2025
+- 🫣 [Xác minh nhóm thanh niên khiêng quan tài trước chợ Bến Thành](https://vnexpress.net/xac-minh-nhom-thanh-nien-khieng-quan-tai-truoc-cho-ben-thanh-4855847.html) - 10:36 02/03/2025
+- 🤡 [Thủ tướng lập 7 đoàn gỡ khó dự án giao thông trọng điểm](https://vnexpress.net/thu-tuong-lap-7-doan-go-kho-du-an-giao-thong-trong-diem-4855852.html) - 10:30 02/03/2025<!-- vnexpress-thoi-su:END -->
