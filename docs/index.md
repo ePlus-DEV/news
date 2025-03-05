@@ -250,12 +250,12 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Sĩ quan quân đội được xét thăng quân hàm cấp tướng vượt bậc, trước thời hạn khi nào?](https://nld.com.vn/si-quan-quan-doi-duoc-xet-thang-quan-ham-cap-tuong-vuot-bac-truoc-thoi-han-khi-nao-196250305190047348.htm) - 12:43 05/03/2025
-- 😺 [Công bố kết luận thanh tra 2 doanh nghiệp bán bảo hiểm nhân thọ qua ngân hàng](https://nld.com.vn/cong-bo-ket-luan-thanh-tra-2-doanh-nghiep-ban-bao-hiem-nhan-tho-qua-ngan-hang-196250305191214796.htm) - 12:41 05/03/2025
-- 👍 [Nguyên Chủ tịch HĐTV Tổng Công ty Xi măng Việt Nam bị bắt](https://nld.com.vn/nguyen-chu-tich-hdtv-tong-cong-ty-xi-mang-viet-nam-bi-bat-196250305191624189.htm) - 12:32 05/03/2025
-- 🥷 [17 cán bộ do Thành ủy Huế quản lý được nghỉ hưu trước tuổi](https://nld.com.vn/17-can-bo-do-thanh-uy-hue-quan-ly-duoc-nghi-huu-truoc-tuoi-196250305190005361.htm) - 12:19 05/03/2025
-- 🤔 [Nga lên tiếng về bức thư tổng thống Ukraine gửi cho Tổng thống Donald Trump](https://nld.com.vn/nga-len-tieng-ve-buc-thu-tong-thong-ukraine-gui-cho-tong-thong-donald-trump-196250305183547623.htm) - 12:06 05/03/2025
-- 🌈 [UBND TP HCM ra quyết định, Thảo Cầm Viên thoát hiểm](https://nld.com.vn/ubnd-tp-hcm-ra-quyet-dinh-thao-cam-vien-thoat-hiem-196250305184053269.htm) - 12:00 05/03/2025
+- 🐎 [Báo Người Lao Động trao cờ Tổ quốc, học bổng đến Quận đoàn 12](https://nld.com.vn/bao-nguoi-lao-dong-trao-co-to-quoc-hoc-bong-den-quan-doan-12-196250305201341119.htm) - 13:42 05/03/2025
+- 😺 [Sĩ quan quân đội được xét thăng quân hàm cấp tướng vượt bậc, trước thời hạn khi nào?](https://nld.com.vn/si-quan-quan-doi-duoc-xet-thang-quan-ham-cap-tuong-vuot-bac-truoc-thoi-han-khi-nao-196250305190047348.htm) - 12:43 05/03/2025
+- 👍 [Công bố kết luận thanh tra 2 doanh nghiệp bán bảo hiểm nhân thọ qua ngân hàng](https://nld.com.vn/cong-bo-ket-luan-thanh-tra-2-doanh-nghiep-ban-bao-hiem-nhan-tho-qua-ngan-hang-196250305191214796.htm) - 12:41 05/03/2025
+- 🥷 [Nguyên Chủ tịch HĐTV Tổng Công ty Xi măng Việt Nam bị bắt](https://nld.com.vn/nguyen-chu-tich-hdtv-tong-cong-ty-xi-mang-viet-nam-bi-bat-196250305191624189.htm) - 12:32 05/03/2025
+- 🤔 [17 cán bộ do Thành ủy Huế quản lý được nghỉ hưu trước tuổi](https://nld.com.vn/17-can-bo-do-thanh-uy-hue-quan-ly-duoc-nghi-huu-truoc-tuoi-196250305190005361.htm) - 12:19 05/03/2025
+- 🌈 [Nga lên tiếng về bức thư tổng thống Ukraine gửi cho Tổng thống Donald Trump](https://nld.com.vn/nga-len-tieng-ve-buc-thu-tong-thong-ukraine-gui-cho-tong-thong-donald-trump-196250305183547623.htm) - 12:06 05/03/2025
 - 🔥 [Tháo gỡ khó khăn, vướng mắc cho 1.136 dự án trên cả nước](https://nld.com.vn/thao-go-kho-khan-vuong-mac-cho-1136-du-an-tren-ca-nuoc-196250305183846334.htm) - 11:56 05/03/2025
 - 🧰 [Sáp nhập, tổ chức lại các cơ quan thuộc Bộ Quốc phòng, Bộ Tổng Tham mưu và Tổng cục Chính trị](https://nld.com.vn/sap-nhap-to-chuc-lai-cac-co-quan-thuoc-bo-quoc-phong-bo-tong-tham-muu-va-tong-cuc-chinh-tri-196250305181958422.htm) - 11:54 05/03/2025
 - 🤗 [Novaland chậm thanh toán lô trái phiếu hơn 906 tỉ đồng](https://nld.com.vn/novaland-cham-thanh-toan-lo-trai-phieu-hon-906-ti-dong-196250305172142573.htm) - 11:53 05/03/2025
