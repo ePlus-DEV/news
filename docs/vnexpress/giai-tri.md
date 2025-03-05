@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Hậu trường quay MV gây sốt của Hòa Minzy](https://vnexpress.net/hau-truong-quay-mv-gay-sot-cua-hoa-minzy-4856777.html) - 05:47 05/03/2025
+- 🌏 [Hậu trường MV &#39;Bắc Bling&#39; gây sốt của Hòa Minzy](https://vnexpress.net/hau-truong-mv-bac-bling-gay-sot-cua-hoa-minzy-4856777.html) - 05:47 05/03/2025
 - 💫 [Cảnh sắc, chân dung phụ nữ qua tranh 4 họa sĩ Việt kiều](https://vnexpress.net/canh-sac-chan-dung-phu-nu-qua-tranh-4-hoa-si-viet-kieu-4856255.html) - 04:22 05/03/2025
 - 🌮 [&#39;Nam thần&#39; TikTok Trung Quốc bị tẩy chay](https://vnexpress.net/nam-than-tiktok-trung-quoc-bi-tay-chay-4856942.html) - 03:35 05/03/2025
 - 🧠 [Thanh Lam: &#39;Chuyện tình tôi như cuốn phim có hậu&#39;](https://vnexpress.net/thanh-lam-chuyen-tinh-toi-nhu-cuon-phim-co-hau-4856843.html) - 03:24 05/03/2025
