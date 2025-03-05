@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Cháy hàng ở cửa khẩu Móng Cái, 4 người bị thương](https://vnexpress.net/chay-hang-o-cua-khau-mong-cai-4-nguoi-bi-thuong-4857099.html) - 06:25 05/03/2025
+- 🎬 [Cháy ở cửa khẩu Móng Cái, 4 người bị thương](https://vnexpress.net/chay-o-cua-khau-mong-cai-4-nguoi-bi-thuong-4857099.html) - 06:25 05/03/2025
 - 🐎 [IQ cao đoán câu thành ngữ này trong 3 giây](https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-iq-cao-doan-cau-thanh-ngu-nay-trong-3-giay-4857046.html) - 06:20 05/03/2025
 - 🦍 [Bộ xử lý lượng tử nhanh gấp triệu tỷ lần siêu máy tính](https://vnexpress.net/bo-xu-ly-luong-tu-nhanh-gap-trieu-ty-lan-sieu-may-tinh-4856901.html) - 06:05 05/03/2025
 - 🏊 [Em yêu bữa cơm gia đình, thích cảm giác chờ anh ở nhà](https://vnexpress.net/em-yeu-bua-com-gia-dinh-thich-cam-giac-cho-anh-o-nha-4856812.html) - 06:00 05/03/2025
