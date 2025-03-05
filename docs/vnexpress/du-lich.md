@@ -6,7 +6,7 @@ sidebar_position: 11
 <!-- vnexpress-du-lich:START -->
 - 💂 [Khách Hàn Quốc, Đài Loan đến Việt Nam &#39;đông nhưng ít hài lòng&#39;](https://vnexpress.net/khach-han-quoc-dai-loan-den-viet-nam-dong-nhung-it-hai-long-4856766.html) - 06:44 05/03/2025
 - 🪄 [Điểm bán đồ lưu niệm độc lạ, thời trang bản địa tại Singapore](https://vnexpress.net/diem-ban-do-luu-niem-doc-la-thoi-trang-ban-dia-tai-singapore-4848488.html) - 05:00 05/03/2025
-- 🦅 [Chùa cầu cho mắt sáng, khỏe ở Nhật Bản](https://vnexpress.net/chua-cau-cho-mat-sang-khoe-o-nhat-ban-4855822.html) - 04:10 05/03/2025
+- 🦅 [Chùa cầu cho mắt sáng ở Nhật Bản](https://vnexpress.net/chua-cau-cho-mat-sang-o-nhat-ban-4855822.html) - 04:10 05/03/2025
 - 🕴 [6 &#39;phao cứu sinh&#39; ẩn trên máy bay ít người để ý](https://vnexpress.net/6-phao-cuu-sinh-an-tren-may-bay-it-nguoi-de-y-4856489.html) - 02:09 05/03/2025
 - 👀 [Đà Nẵng miễn phí vé tại các di tích, bảo tàng dịp lễ](https://vnexpress.net/da-nang-mien-phi-ve-tai-cac-di-tich-bao-tang-dip-le-4856800.html) - 01:00 05/03/2025
 - 🎭 [Nhà hàng do người khiếm thính phục vụ ở Hà Nội](https://vnexpress.net/nha-hang-do-nguoi-khiem-thinh-phuc-vu-o-ha-noi-4856575.html) - 00:00 05/03/2025
