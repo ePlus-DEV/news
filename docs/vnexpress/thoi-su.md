@@ -4,8 +4,8 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Nhiều sân bay được đầu tư nâng cấp, mở rộng](https://vnexpress.net/nhieu-san-bay-duoc-dau-tu-nang-cap-mo-rong-4856519.html) - 21:00 04/03/2025
-- 🤓 [Chủ tịch Quốc hội: Nghiên cứu sửa một số điều của Hiến pháp](https://vnexpress.net/chu-tich-quoc-hoi-nghien-cuu-sua-mot-so-dieu-cua-hien-phap-4856862.html) - 20:00 04/03/2025
+- 🦒 [5 sân bay được đầu tư nâng cấp, mở rộng](https://vnexpress.net/5-san-bay-duoc-dau-tu-nang-cap-mo-rong-4856519.html) - 21:00 04/03/2025
+- 🤓 [Chủ tịch Quốc hội: Nghiên cứu sửa một số điều của Hiến pháp trong tháng 3](https://vnexpress.net/chu-tich-quoc-hoi-nghien-cuu-sua-mot-so-dieu-cua-hien-phap-trong-thang-3-4856862.html) - 20:00 04/03/2025
 - ⚗️ [Hai phương án xây đường tránh TP Đà Lạt](https://vnexpress.net/hai-phuong-an-xay-duong-tranh-tp-da-lat-4856797.html) - 17:00 04/03/2025
 - 🌊 [Diện mạo cầu 2.300 tỷ đồng bắc qua sông Cấm](https://vnexpress.net/dien-mao-cau-2-300-ty-dong-bac-qua-song-cam-4856548.html) - 17:00 04/03/2025
 - 🎓 [Vụ trưởng Nông nghiệp làm Phó chủ nhiệm Văn phòng Chính phủ](https://vnexpress.net/vu-truong-nong-nghiep-lam-pho-chu-nhiem-van-phong-chinh-phu-4856835.html) - 15:05 04/03/2025
