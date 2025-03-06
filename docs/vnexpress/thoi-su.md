@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Cửa ngõ TP HCM ùn tắc 5 km sau tai nạn](https://vnexpress.net/cua-ngo-tp-hcm-un-tac-5-km-sau-tai-nan-4857424.html) - 02:25 06/03/2025
-- 🤓 [Hai nam sinh tử vong sau cú ngã xe](https://vnexpress.net/hai-nam-sinh-tu-vong-sau-cu-nga-xe-4857362.html) - 01:11 06/03/2025
+- 🤓 [Hai nam sinh tử vong sau tai nạn](https://vnexpress.net/hai-nam-sinh-tu-vong-sau-tai-nan-4857362.html) - 01:11 06/03/2025
 - ⚗️ [Cầu vượt gần một km nối ga T3 Tân Sơn Nhất trước thông xe](https://vnexpress.net/cau-vuot-gan-mot-km-noi-ga-t3-tan-son-nhat-truoc-thong-xe-4857147.html) - 23:00 05/03/2025
 - 🌊 [Cấm ôtô 15 ngày để sửa chữa cầu trên quốc lộ 1](https://vnexpress.net/cam-oto-15-ngay-de-sua-chua-cau-tren-quoc-lo-1-4857240.html) - 18:57 05/03/2025
 - 🎓 [Hà Nội dự kiến phá bỏ tòa nhà &#39;Hàm cá mập&#39;](https://vnexpress.net/ha-noi-du-kien-pha-bo-toa-nha-ham-ca-map-4857335.html) - 18:24 05/03/2025
