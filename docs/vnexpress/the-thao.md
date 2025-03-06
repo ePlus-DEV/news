@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [Báo Pháp chấm Salah 3 điểm](https://vnexpress.net/bao-phap-cham-salah-3-diem-4857835.html) - 21:27 06/03/2025
 - 🧰 [FIFA nghiên cứu nâng World Cup 2030 lên 64 đội](https://vnexpress.net/fifa-nghien-cuu-nang-world-cup-2030-len-64-doi-4857824.html) - 21:18 06/03/2025
 - 🤗 [Man Utd rơi chiến thắng ở Europa League](https://vnexpress.net/man-utd-roi-chien-thang-o-europa-league-4857833.html) - 19:40 06/03/2025
-- 🥳 [Neuer chấn thương nặng khi mừng bàn của Bayern](https://vnexpress.net/neuer-chan-thuong-nang-khi-mung-ban-cua-bayern-4857807.html) - 17:00 06/03/2025
+- 🥳 [Neuer chấn thương nặng khi mừng bàn thắng của Bayern](https://vnexpress.net/neuer-chan-thuong-nang-khi-mung-ban-thang-cua-bayern-4857807.html) - 17:00 06/03/2025
 - 🦣 [Nữ VĐV 13 tuổi gây xúc động khi biểu diễn tưởng niệm bố và anh trai](https://vnexpress.net/nu-vdv-13-tuoi-gay-xuc-dong-khi-bieu-dien-tuong-niem-bo-va-anh-trai-4857772.html) - 17:00 06/03/2025
 - 🌜 [Mourinho: &#39;Cáo buộc tôi phân biệt chủng tộc là không khôn ngoan&#39;](https://vnexpress.net/mourinho-cao-buoc-toi-phan-biet-chung-toc-la-khong-khon-ngoan-4857801.html) - 17:00 06/03/2025
 - 🫶 [Golfer Việt Nam vào top 10 vòng một giải WAAP](https://vnexpress.net/golfer-viet-nam-vao-top-10-vong-mot-giai-waap-4857781.html) - 12:24 06/03/2025
