@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [5 đại học trọng điểm về kỹ thuật, công nghệ được chọn thế nào?](https://vnexpress.net/5-dai-hoc-trong-diem-ve-ky-thuat-cong-nghe-duoc-chon-the-nao-4858183.html) - 12:14 07/03/2025
+- 🤓 [Bộ Giáo dục nêu lý do chọn 5 đại học trọng điểm về kỹ thuật, công nghệ](https://vnexpress.net/bo-giao-duc-neu-ly-do-chon-5-dai-hoc-trong-diem-ve-ky-thuat-cong-nghe-4858183.html) - 12:14 07/03/2025
 - 🦆 [Đại học gây tranh cãi vì tuyển thạc sĩ làm tạp vụ](https://vnexpress.net/dai-hoc-gay-tranh-cai-vi-tuyen-thac-si-lam-tap-vu-4858168.html) - 09:33 07/03/2025
 - 🦩 [Hơn 600 người tham gia hội nghị về sức khỏe, an toàn học đường](https://vnexpress.net/hon-600-nguoi-tham-gia-hoi-nghi-ve-suc-khoe-an-toan-hoc-duong-4858156.html) - 09:00 07/03/2025
 - 🌮 [New Zealand tăng tốc cấp phép thường trú cho giáo viên nước ngoài](https://vnexpress.net/new-zealand-tang-toc-cap-phep-thuong-tru-cho-giao-vien-nuoc-ngoai-4857847.html) - 08:31 07/03/2025
