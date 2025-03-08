@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Hai thực khách bị tạm giữ vì quay clip &#39;đi tiểu vào nồi lẩu&#39;](https://vnexpress.net/hai-thuc-khach-bi-tam-giu-vi-quay-clip-di-tieu-vao-noi-lau-4858528.html) - 12:59 08/03/2025
+- 😎 [Hai thực khách bị tạm giữ vì quay clip &#39;đi tiểu vào nồi lẩu&#39;](https://vnexpress.net/hai-thuc-khach-bi-tam-giu-vi-quay-clip-tieu-vao-noi-lau-haidilao-4858528.html) - 12:59 08/03/2025
 - 🥰 [Người bênh bạn gái, đánh bảo vệ phố đi bộ Nguyễn Huệ bị khởi tố](https://vnexpress.net/nguoi-benh-ban-gai-danh-bao-ve-pho-di-bo-nguyen-hue-bi-khoi-to-4858526.html) - 10:51 08/03/2025
 - 🎓 [Tiếp viên hàng không Mỹ quay lén các bé gái trong toilet](https://vnexpress.net/tiep-vien-hang-khong-my-quay-len-cac-be-gai-trong-toilet-4858475.html) - 08:50 08/03/2025
 - 🤓 [Nhiều người cảnh giới sòng bạc bị cảnh sát khống chế](https://vnexpress.net/nhieu-nguoi-canh-gioi-song-bac-bi-canh-sat-khong-che-4858456.html) - 08:07 08/03/2025
