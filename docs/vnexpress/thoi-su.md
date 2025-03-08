@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Khởi công kéo cáp ngầm từ Sóc Trăng cấp điện cho Côn Đảo](https://vnexpress.net/khoi-cong-keo-cap-ngam-tu-soc-trang-cap-dien-cho-con-dao-4858510.html) - 09:51 08/03/2025
 - 🤓 [Hai nhà khoa học nữ được trao giải thưởng Kovalevskaia 2024](https://vnexpress.net/hai-nha-khoa-hoc-nu-duoc-trao-giai-thuong-kovalevskaia-2024-4858434.html) - 06:34 08/03/2025
 - ⚗️ [Cục CSGT: Xe điện 4 bánh nhỏ chỉ nên chạy trong các điểm du lịch](https://vnexpress.net/cuc-csgt-xe-dien-4-banh-nho-chi-nen-chay-trong-cac-diem-du-lich-4858435.html) - 05:47 08/03/2025
-- 🌊 [5 ôtô va chạm trên Quốc lộ 1A, người đi xe máy bị thương](https://vnexpress.net/5-oto-va-cham-tren-quoc-lo-1a-nguoi-di-xe-may-bi-thuong-4858431.html) - 05:40 08/03/2025
+- 🌊 [5 ôtô va chạm trên quốc lộ 1, người đi xe máy bị thương](https://vnexpress.net/5-oto-va-cham-tren-quoc-lo-1-nguoi-di-xe-may-bi-thuong-4858431.html) - 05:40 08/03/2025
 - 🎓 [Hà Nội dự kiến xây cầu cạn mở rộng đường ven Hồ Tây](https://vnexpress.net/ha-noi-du-kien-xay-cau-can-mo-rong-duong-ven-ho-tay-4858343.html) - 04:33 08/03/2025
 - 🔥 [Xây dựng phương án tinh gọn các hội quần chúng cấp tỉnh](https://vnexpress.net/xay-dung-phuong-an-tinh-gon-cac-hoi-quan-chung-cap-tinh-4858394.html) - 04:18 08/03/2025
 - 🦏 [Hải Phòng làm đường vành đai 2 gần 7.500 tỷ đồng](https://vnexpress.net/hai-phong-lam-duong-vanh-dai-2-gan-7-500-ty-dong-4858332.html) - 04:12 08/03/2025
