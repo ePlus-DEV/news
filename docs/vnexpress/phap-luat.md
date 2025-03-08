@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Chém bạn vì mâu thuẫn trả tiền hát karaoke](https://vnexpress.net/chem-ban-vi-mau-thuan-tra-tien-hat-karaoke-4858260.html) - 17:00 07/03/2025
 - 🥰 [Vợ cố diễn viên Đức Tiến kiện mẹ chồng đòi chia thừa kế](https://vnexpress.net/vo-co-dien-vien-duc-tien-kien-me-chong-doi-chia-thua-ke-4858244.html) - 17:00 07/03/2025
-- 🎓 [Lầm lỗi của người vợ ngoại tình](https://vnexpress.net/lam-loi-cua-nguoi-vo-ngoai-tinh-voi-dong-nghiep-4858206.html) - 17:00 07/03/2025
+- 🎓 [Kế hoạch &#39;loại bỏ chồng&#39; của người vợ ngoại tình](https://vnexpress.net/lam-loi-cua-nguoi-vo-ngoai-tinh-voi-dong-nghiep-4858206.html) - 17:00 07/03/2025
 - 🤓 [Mua phải kẹo rau củ nghi &#39;quảng cáo sai sự thật&#39; thì phải làm sao?](https://vnexpress.net/mua-phai-keo-rau-cu-nghi-quang-cao-sai-su-that-thi-phai-lam-sao-4857996.html) - 17:00 07/03/2025
 - 🎊 [Cảnh sát trình diễn sức mạnh, quật ngã tội phạm trên phố đi bộ Hồ Gươm](https://vnexpress.net/canh-sat-trinh-dien-suc-manh-quat-nga-toi-pham-tren-pho-di-bo-ho-guom-4858245.html) - 15:56 07/03/2025
 - 🙉 [Trinh sát quật ngã nghi phạm giết người đang trên đường chạy trốn](https://vnexpress.net/trinh-sat-quat-nga-nghi-pham-giet-nguoi-dang-tren-duong-chay-tron-4858252.html) - 15:27 07/03/2025
