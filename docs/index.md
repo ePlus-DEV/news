@@ -26,20 +26,20 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Hợp long cầu nối Đà Nẵng với Quảng Nam](https://vnexpress.net/hop-long-cau-noi-da-nang-voi-quang-nam-4858549.html) - 14:55 08/03/2025
-- 🧰 [Thí sinh thi SAT bị lỗi được thi lại](https://vnexpress.net/thi-sinh-thi-sat-bi-loi-duoc-thi-lai-4858552.html) - 14:54 08/03/2025
-- 🥰 [Quang Hải giúp Công an Hà Nội hòa Nam Định](https://vnexpress.net/quang-hai-giup-cong-an-ha-noi-hoa-nam-dinh-4858548.html) - 14:50 08/03/2025
-- 🌏 [Nữ phi hành gia Trung Quốc gửi lời chúc 8/3 từ vũ trụ](https://vnexpress.net/nu-phi-hanh-gia-trung-quoc-gui-loi-chuc-8-3-tu-vu-tru-4858546.html) - 14:41 08/03/2025
-- 🧐 [Man City gục ngã trước Nottingham](https://vnexpress.net/man-city-guc-nga-truoc-nottingham-4858560.html) - 14:40 08/03/2025
-- 💫 [Tiền đạo Tiến Linh chấn thương](https://vnexpress.net/tien-dao-tien-linh-chan-thuong-4858550.html) - 14:28 08/03/2025
-- 😺 [Đề minh họa kỳ thi riêng của Đại học Sư phạm Hà Nội 2](https://vnexpress.net/de-minh-hoa-ky-thi-rieng-cua-dai-hoc-su-pham-ha-noi-2-4858545.html) - 14:09 08/03/2025
-- 🕯 [Vợ chồng tôi sắp mất nhà khi cho con mượn sổ đỏ vay tiền](https://vnexpress.net/vo-chong-toi-sap-mat-nha-khi-cho-con-muon-so-do-vay-tien-4858399.html) - 14:00 08/03/2025
-- 💃 [Loạt xe máy bị tông ngã rạp trên quốc lộ 51](https://vnexpress.net/loat-xe-may-bi-tong-nga-rap-tren-quoc-lo-51-4858540.html) - 13:20 08/03/2025
-- 💂 [Ai là tiến sĩ đầu tiên của Nam kỳ?](https://vnexpress.net/ai-la-tien-si-dau-tien-cua-nam-ky-4858350.html) - 13:12 08/03/2025
-- 🎊 [Nga tuyên bố tái kiểm soát ba làng tại tỉnh Kursk](https://vnexpress.net/nga-tuyen-bo-tai-kiem-soat-ba-lang-tai-tinh-kursk-4858535.html) - 13:02 08/03/2025
-- 🤠 [Làm thế nào ngăn tăng huyết áp](https://vnexpress.net/lam-the-nao-ngan-tang-huyet-ap-4857087.html) - 13:00 08/03/2025
-- 🌈 [Vợ giỏi kiếm tiền hơn chồng có phải rào cản của hôn nhân?](https://vnexpress.net/vo-gioi-kiem-tien-hon-chong-co-phai-rao-can-cua-hon-nhan-4858504.html) - 13:00 08/03/2025
-- 🎬 [Hai thực khách bị tạm giữ vì quay clip &#39;đi tiểu vào nồi lẩu&#39;](https://vnexpress.net/hai-thuc-khach-bi-tam-giu-vi-quay-clip-tieu-vao-noi-lau-haidilao-4858528.html) - 12:59 08/03/2025
+- 🚀 [Bộ Chính trị đồng ý mở rộng diện hưởng chính sách nghỉ hưu trước tuổi](https://vnexpress.net/bo-chinh-tri-dong-y-mo-rong-dien-huong-chinh-sach-nghi-huu-truoc-tuoi-4858557.html) - 15:47 08/03/2025
+- 🧰 [Hợp long cầu nối Đà Nẵng với Quảng Nam](https://vnexpress.net/hop-long-cau-noi-da-nang-voi-quang-nam-4858549.html) - 14:55 08/03/2025
+- 🥰 [Thí sinh thi SAT bị lỗi được thi lại](https://vnexpress.net/thi-sinh-thi-sat-bi-loi-duoc-thi-lai-4858552.html) - 14:54 08/03/2025
+- 🌏 [Quang Hải giúp Công an Hà Nội hòa Nam Định](https://vnexpress.net/quang-hai-giup-cong-an-ha-noi-hoa-nam-dinh-4858548.html) - 14:50 08/03/2025
+- 🧐 [Nữ phi hành gia Trung Quốc gửi lời chúc 8/3 từ vũ trụ](https://vnexpress.net/nu-phi-hanh-gia-trung-quoc-gui-loi-chuc-8-3-tu-vu-tru-4858546.html) - 14:41 08/03/2025
+- 💫 [Man City gục ngã trước Nottingham](https://vnexpress.net/man-city-guc-nga-truoc-nottingham-4858560.html) - 14:40 08/03/2025
+- 😺 [Tiền đạo Tiến Linh chấn thương](https://vnexpress.net/tien-dao-tien-linh-chan-thuong-4858550.html) - 14:28 08/03/2025
+- 🕯 [Đề minh họa kỳ thi riêng của Đại học Sư phạm Hà Nội 2](https://vnexpress.net/de-minh-hoa-ky-thi-rieng-cua-dai-hoc-su-pham-ha-noi-2-4858545.html) - 14:09 08/03/2025
+- 💃 [Vợ chồng tôi sắp mất nhà khi cho con mượn sổ đỏ vay tiền](https://vnexpress.net/vo-chong-toi-sap-mat-nha-khi-cho-con-muon-so-do-vay-tien-4858399.html) - 14:00 08/03/2025
+- 💂 [Loạt xe máy bị tông ngã rạp trên quốc lộ 51](https://vnexpress.net/loat-xe-may-bi-tong-nga-rap-tren-quoc-lo-51-4858540.html) - 13:20 08/03/2025
+- 🎊 [Ai là tiến sĩ đầu tiên của Nam kỳ?](https://vnexpress.net/ai-la-tien-si-dau-tien-cua-nam-ky-4858350.html) - 13:12 08/03/2025
+- 🤠 [Nga tuyên bố tái kiểm soát ba làng tại tỉnh Kursk](https://vnexpress.net/nga-tuyen-bo-tai-kiem-soat-ba-lang-tai-tinh-kursk-4858535.html) - 13:02 08/03/2025
+- 🌈 [Làm thế nào ngăn tăng huyết áp](https://vnexpress.net/lam-the-nao-ngan-tang-huyet-ap-4857087.html) - 13:00 08/03/2025
+- 🎬 [Vợ giỏi kiếm tiền hơn chồng có phải rào cản của hôn nhân?](https://vnexpress.net/vo-gioi-kiem-tien-hon-chong-co-phai-rao-can-cua-hon-nhan-4858504.html) - 13:00 08/03/2025
 - 🚀 [Nghệ sĩ khóc trước di ảnh diễn viên Quý Bình](https://vnexpress.net/nghe-si-khoc-truoc-di-anh-dien-vien-quy-binh-4858537.html) - 12:58 08/03/2025
 - 🪄 [Demi Moore giữ gìn sắc vóc](https://vnexpress.net/demi-moore-giu-gin-sac-voc-4856531.html) - 12:33 08/03/2025
 - 😎 [Sở Giáo dục TP HCM cảnh báo chiêu lừa &#39;hoàn học phí&#39;](https://vnexpress.net/so-giao-duc-tp-hcm-canh-bao-chieu-lua-hoan-hoc-phi-4858533.html) - 12:17 08/03/2025
