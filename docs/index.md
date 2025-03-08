@@ -406,7 +406,7 @@ về gần hơn với nhân dân](https://nld.com.vn/sap-xep-to-chuc-bo-may-nham
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
 - 💻 [Sôi nổi các màn biểu diễn kỵ binh, cảnh khuyển trên đường phố Hà Nội](https://baochinhphu.vn/soi-noi-cac-man-bieu-dien-ky-binh-canh-khuyen-tren-duong-pho-ha-noi-102250308192901251.htm) - 19:36 08/03/2025
-- 🌜 [Thủ tướng: Ưng xử kịp thời, linh hoạt, hiệu quả trước những thay đổi chính sách của các nước](https://baochinhphu.vn/thu-tuong-day-manh-hop-tac-ung-xu-kip-thoi-linh-hoat-hieu-qua-truoc-nhung-thay-doi-chinh-sach-cua-cac-nuoc-102250308184206055.htm) - 18:59 08/03/2025
+- 🌜 [Thủ tướng: Đẩy mạnh hợp tác, ứng xử kịp thời, linh hoạt, hiệu quả trước những thay đổi chính sách của các nước](https://baochinhphu.vn/thu-tuong-day-manh-hop-tac-ung-xu-kip-thoi-linh-hoat-hieu-qua-truoc-nhung-thay-doi-chinh-sach-cua-cac-nuoc-102250308184206055.htm) - 18:59 08/03/2025
 - 🦆 [Ông Lê Quang Vinh làm Tổng Giám đốc Vietcombank](https://baochinhphu.vn/ong-le-quang-vinh-lam-tong-giam-doc-vietcombank-102250308174857155.htm) - 18:19 08/03/2025
 - 🌝 [Chủ thẻ NAPAS đi Metro ‘xé túi mù’ nhận quà tặng bất ngờ](https://baochinhphu.vn/chu-the-napas-di-metro-xe-tui-mu-nhan-qua-tang-bat-ngo-102250308181207296.htm) - 18:16 08/03/2025
 - 🦣 [Chuyến thăm của Tổng Bí thư: Cột mốc quan trọng trong quan hệ Việt Nam-Indonesia](https://baochinhphu.vn/chuyen-tham-cua-tong-bi-thu-cot-moc-quan-trong-trong-quan-he-viet-nam-indonesia-102250308164814734.htm) - 17:53 08/03/2025
