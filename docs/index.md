@@ -586,7 +586,7 @@ về gần hơn với nhân dân](https://nld.com.vn/sap-xep-to-chuc-bo-may-nham
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
 - 💼 [HIGHLIGHTS CAHN 1-1 Thép Xanh Nam Định: Ba lần check VAR làm nên một trận hòa](https://tienphong.vn/highlights-cahn-1-1-thep-xanh-nam-dinh-ba-lan-check-var-lam-nen-mot-tran-hoa-post1723389.tpo) - 21:39 08/03/2025
-- 🎊 [Trực tiếp Liverpool vs Southampton 0-0 &lpar;H1&rpar;: Hiệp 1 bắt đầu](https://tienphong.vn/truc-tiep-liverpool-vs-southampton-0-0-h1-hiep-1-bat-dau-post1723331.tpo) - 21:15 08/03/2025
+- 🎊 [Trực tiếp Liverpool vs Southampton 0-1 &lpar;Hết H1&rpar;: Southampton có bàn thắng bất ngờ](https://tienphong.vn/truc-tiep-liverpool-vs-southampton-0-1-het-h1-southampton-co-ban-thang-bat-ngo-post1723331.tpo) - 21:15 08/03/2025
 - 💼 [Phê chuẩn kết quả bầu, miễn nhiệm chức Phó Chủ tịch UBND tỉnh Bình Dương](https://tienphong.vn/phe-chuan-ket-qua-bau-mien-nhiem-chuc-pho-chu-tich-ubnd-tinh-binh-duong-post1723383.tpo) - 20:56 08/03/2025
 - 👺 [Khán giả đòi cấm sóng &#39;chị em rọt&#39; Quang Linh, Hằng Du Mục](https://tienphong.vn/khan-gia-doi-cam-song-chi-em-rot-quang-linh-hang-du-muc-post1723377.tpo) - 20:38 08/03/2025
 - 💪 [B.Bình Dương thua ngược Thể Công Viettel trên sân nhà phút 89](https://tienphong.vn/bbinh-duong-thua-nguoc-the-cong-viettel-tren-san-nha-phut-89-post1723370.tpo) - 20:23 08/03/2025
