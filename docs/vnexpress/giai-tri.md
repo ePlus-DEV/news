@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Nghệ sĩ khóc trước di ảnh diễn viên Quý Bình](https://vnexpress.net/nghe-si-khoc-truoc-di-anh-dien-vien-quy-binh-4858537.html) - 12:58 08/03/2025
 - 💫 [Demi Moore giữ gìn sắc vóc](https://vnexpress.net/demi-moore-giu-gin-sac-voc-4856531.html) - 12:33 08/03/2025
-- 🌮 [Khán giả, đồng nghiệp viếng nghệ sĩ Quý Bình](https://vnexpress.net/khan-gia-dong-nghiep-vieng-nghe-si-quy-binh-4858493.html) - 10:47 08/03/2025
+- 🌮 [Khán giả, đồng nghiệp ôn kỷ niệm về nghệ sĩ Quý Bình](https://vnexpress.net/khan-gia-dong-nghiep-on-ky-niem-ve-nghe-si-quy-binh-4858493.html) - 10:47 08/03/2025
 - 🧠 [&#39;Hoàng tử lofi&#39; Keshi: Việt Nam là nơi tôi muốn trở về](https://vnexpress.net/hoang-tu-lofi-keshi-viet-nam-la-noi-toi-muon-tro-ve-4858115.html) - 09:08 08/03/2025
 - 👨‍🏫 [Tiểu Vy trình diễn áo dài thổ cẩm](https://vnexpress.net/tieu-vy-trinh-dien-ao-dai-tho-cam-4858450.html) - 07:45 08/03/2025
 - ⚗️ [Celine Dion phản đối nhạc AI](https://vnexpress.net/celine-dion-phan-doi-nhac-ai-4858383.html) - 07:40 08/03/2025
