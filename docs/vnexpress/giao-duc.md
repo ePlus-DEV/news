@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Thí sinh thi SAT bị lỗi được thi lại](https://vnexpress.net/thi-sinh-thi-sat-bi-loi-duoc-thi-lai-4858552.html) - 14:54 08/03/2025
+- 🤓 [Thí sinh thi SAT bị lỗi có thể được thi lại](https://vnexpress.net/thi-sinh-thi-sat-bi-loi-co-the-duoc-thi-lai-4858552.html) - 14:54 08/03/2025
 - 🦆 [Đề minh họa kỳ thi riêng của Đại học Sư phạm Hà Nội 2](https://vnexpress.net/de-minh-hoa-ky-thi-rieng-cua-dai-hoc-su-pham-ha-noi-2-4858545.html) - 14:09 08/03/2025
 - 🦩 [Ai là tiến sĩ đầu tiên của Nam kỳ?](https://vnexpress.net/ai-la-tien-si-dau-tien-cua-nam-ky-4858350.html) - 13:12 08/03/2025
 - 🌮 [Sở Giáo dục TP HCM cảnh báo chiêu lừa &#39;hoàn học phí&#39;](https://vnexpress.net/so-giao-duc-tp-hcm-canh-bao-chieu-lua-hoan-hoc-phi-4858533.html) - 12:17 08/03/2025
