@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Cộng đồng nói gì về giải chạy áp chuẩn thành tích đầu tiên tại Việt Nam](https://vnexpress.net/cong-dong-noi-gi-ve-giai-chay-ap-chuan-thanh-tich-dau-tien-tai-viet-nam-4858134.html) - 11:31 09/03/2025
+- 🪜 [Cộng đồng nói gì về giải chạy áp chuẩn thành tích đầu tiên tại Việt Nam](https://vnexpress.net/cong-dong-noi-gi-ve-vnexpress-marathon-volvo-all-star-4858134.html) - 11:31 09/03/2025
 - 🦩 [Tân HLV Indonesia triệu tập gần 60% cầu thủ lai](https://vnexpress.net/tan-hlv-indonesia-trieu-tap-gan-60-cau-thu-lai-4858773.html) - 11:28 09/03/2025
 - 🧰 [Vì sao bài đá phạt của Arsenal không còn hiệu quả?](https://vnexpress.net/vi-sao-bai-da-phat-cua-arsenal-khong-con-hieu-qua-4858736.html) - 10:00 09/03/2025
 - 🤗 [Sân golf cho những người thích khỏa thân](https://vnexpress.net/san-golf-cho-nhung-nguoi-thich-khoa-than-4858711.html) - 08:37 09/03/2025
