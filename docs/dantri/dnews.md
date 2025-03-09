@@ -5,7 +5,7 @@ sidebar_position: 14
 
 <!-- dantri-dnews:START -->
 - 🤠 [Chủ tịch Nguyễn Văn Được: Metro số 1 là ý chí, niềm tự hào của TPHCM](https://dantri.com.vn/xa-hoi/chu-tich-nguyen-van-duoc-metro-so-1-la-y-chi-niem-tu-hao-cua-tphcm-20250308222208762.htm) - 08:04 09/03/2025
-- 🌈 [Người dân TPHCM thoát cảnh xếp hàng mua vé tàu metro nhờ thanh toán 1 chạm](https://dantri.com.vn/xa-hoi/nguoi-dan-tphcm-thoat-canh-xep-hang-mua-ve-tau-metro-nho-thanh-toan-1-cham-20250309122152985.htm) - 06:13 09/03/2025
+- 🌈 [Thoát cảnh xếp hàng mua vé tàu Metro số 1 TPHCM nhờ thanh toán 1 chạm](https://dantri.com.vn/xa-hoi/thoat-canh-xep-hang-mua-ve-tau-metro-so-1-tphcm-nho-thanh-toan-1-cham-20250309122152985.htm) - 06:13 09/03/2025
 - 🐎 [Xã nhỏ nhất Việt Nam: Kỳ vọng về một khu đô thị biển](https://dantri.com.vn/xa-hoi/xa-nho-nhat-viet-nam-ky-vong-ve-mot-khu-do-thi-bien-20250309112858215.htm) - 05:17 09/03/2025
 - 👹 [Nổi bật tuần qua: Trăn khổng lồ bất ngờ rơi xuống từ trần phòng khách](https://dantri.com.vn/khoa-hoc/noi-bat-tuan-qua-tran-khong-lo-bat-ngo-roi-xuong-tu-tran-phong-khach-20250309080706359.htm) - 01:18 09/03/2025
 - 🫶 [Bí mật ngành kinh doanh túi mù hơn 14 tỷ USD: Nhảm nhí nhưng hái ra tiền](https://dantri.com.vn/kinh-doanh/bi-mat-nganh-kinh-doanh-tui-mu-hon-14-ty-usd-nham-nhi-nhung-hai-ra-tien-20241205233453801.htm) - 00:54 09/03/2025
