@@ -590,7 +590,7 @@ ngụ Bình Thuận nói “rẽ nhầm”](https://nld.com.vn/vu-chay-nguoc-chi
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
 - 💼 [Tổng Bí thư Tô Lâm tiếp lãnh đạo các tập đoàn, doanh nghiệp lớn của Indonesia](https://tienphong.vn/tong-bi-thu-to-lam-tiep-lanh-dao-cac-tap-doan-doanh-nghiep-lon-cua-indonesia-post1723601.tpo) - 23:53 09/03/2025
-- 🎊 [Trực tiếp MU vs Arsenal 0-0 &lpar;H1&rpar;: Thế trận giằng co](https://tienphong.vn/truc-tiep-mu-vs-arsenal-0-0-h1-the-tran-giang-co-post1723585.tpo) - 22:30 09/03/2025
+- 🎊 [Trực tiếp MU vs Arsenal 1-0 &lpar;H2&rpar;: Arsenal thoát thua](https://tienphong.vn/truc-tiep-mu-vs-arsenal-1-0-h2-arsenal-thoat-thua-post1723585.tpo) - 22:30 09/03/2025
 - 💼 [&#39;Màn hô biến&#39; phố đi bộ Nguyễn Huệ](https://tienphong.vn/man-ho-bien-pho-di-bo-nguyen-hue-post1723504.tpo) - 22:28 09/03/2025
 - 👺 [Nhờ công an tìm người chuyển nhầm 100 triệu đồng](https://tienphong.vn/nho-cong-an-tim-nguoi-chuyen-nham-100-trieu-dong-post1723579.tpo) - 21:05 09/03/2025
 - 💪 [Một học sinh miền núi Quảng Nam tử vong chưa rõ nguyên nhân](https://tienphong.vn/mot-hoc-sinh-mien-nui-quang-nam-tu-vong-chua-ro-nguyen-nhan-post1723570.tpo) - 21:03 09/03/2025
