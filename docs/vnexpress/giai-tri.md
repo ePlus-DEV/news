@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Con song sinh của Sam và chồng Hàn Quốc](https://vnexpress.net/con-song-sinh-cua-sam-va-chong-han-quoc-4858714.html) - 13:30 09/03/2025
-- 💫 [Dàn sao dự đám cưới Salim](https://vnexpress.net/dan-sao-du-dam-cuoi-salim-4858780.html) - 13:03 09/03/2025
+- 💫 [Chi Pu và dàn sao dự đám cưới Salim](https://vnexpress.net/chi-pu-va-dan-sao-du-dam-cuoi-salim-4858780.html) - 13:03 09/03/2025
 - 🌮 [Dương Domic - &#39;chàng Bống khờ&#39; triệu view](https://vnexpress.net/duong-domic-chang-bong-kho-trieu-view-4858641.html) - 12:00 09/03/2025
 - 🧠 [&#39;Lửa trời đuôi cáo&#39; - những câu chuyện về Phần Lan](https://vnexpress.net/lua-troi-duoi-cao-nhung-cau-chuyen-ve-phan-lan-4858564.html) - 09:35 09/03/2025
 - 👨‍🏫 [Thanh Thảo: &#39;Tôi sống an phận hơn&#39;](https://vnexpress.net/thanh-thao-toi-song-an-phan-hon-4858626.html) - 09:21 09/03/2025
