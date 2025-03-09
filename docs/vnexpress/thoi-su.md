@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Bộ Chính trị đồng ý mở rộng diện hưởng chính sách nghỉ hưu trước tuổi](https://vnexpress.net/bo-chinh-tri-dong-y-mo-rong-dien-huong-chinh-sach-nghi-huu-truoc-tuoi-4858557.html) - 15:47 08/03/2025
 - ⚗️ [Hợp long cầu nối Đà Nẵng với Quảng Nam](https://vnexpress.net/hop-long-cau-noi-da-nang-voi-quang-nam-4858549.html) - 14:55 08/03/2025
 - 🌊 [Loạt xe máy bị tông ngã rạp trên quốc lộ 51](https://vnexpress.net/loat-xe-may-bi-tong-nga-rap-tren-quoc-lo-51-4858540.html) - 13:20 08/03/2025
-- 🎓 [Dàn khí tài hiện đại của Công an trưng bày quanh hồ Gươm](https://vnexpress.net/dan-khi-tai-hien-dai-cua-cong-an-trung-bay-quanh-ho-guom-4858502.html) - 11:59 08/03/2025
+- 🎓 [Dàn khí tài hiện đại của Công an trưng bày quanh Hồ Gươm](https://vnexpress.net/dan-khi-tai-hien-dai-cua-cong-an-trung-bay-quanh-ho-guom-4858502.html) - 11:59 08/03/2025
 - 🔥 [Khởi công kéo cáp ngầm từ Sóc Trăng cấp điện cho Côn Đảo](https://vnexpress.net/khoi-cong-keo-cap-ngam-tu-soc-trang-cap-dien-cho-con-dao-4858510.html) - 09:51 08/03/2025
 - 🦏 [Hai nhà khoa học nữ được trao giải thưởng Kovalevskaia 2024](https://vnexpress.net/hai-nha-khoa-hoc-nu-duoc-trao-giai-thuong-kovalevskaia-2024-4858434.html) - 06:34 08/03/2025
 - 👺 [Cục CSGT: Xe điện 4 bánh nhỏ chỉ nên chạy trong các điểm du lịch](https://vnexpress.net/cuc-csgt-xe-dien-4-banh-nho-chi-nen-chay-trong-cac-diem-du-lich-4858435.html) - 05:47 08/03/2025
