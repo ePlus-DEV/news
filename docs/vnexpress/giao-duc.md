@@ -4,14 +4,14 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Học ngành Năng lượng tái tạo có dễ kiếm việc không?](https://vnexpress.net/hoc-nganh-nang-luong-tai-tao-co-de-kiem-viec-khong-4857794.html) - 16:59 09/03/2025
-- 🦆 [Hàn Quốc cấp thị thực ưu tiên cho tiến sĩ đại học top 100 thế giới](https://vnexpress.net/han-quoc-cap-thi-thuc-uu-tien-cho-tien-si-dai-hoc-top-100-the-gioi-4858708.html) - 15:00 09/03/2025
-- 🦩 [Tỉnh nào có quy mô kinh tế lớn nhất cả nước?](https://vnexpress.net/tinh-nao-co-quy-mo-kinh-te-lon-nhat-ca-nuoc-4858769.html) - 13:09 09/03/2025
-- 🌮 [Phân biệt &#39;thực dụng&#39; và &#39;thực tế&#39; trong tiếng Anh](https://vnexpress.net/phan-biet-thuc-dung-va-thuc-te-trong-tieng-anh-4858682.html) - 06:15 09/03/2025
-- 🔭 [Hai trường chuyên công bố lịch thi thử lớp 10](https://vnexpress.net/hai-truong-chuyen-cong-bo-lich-thi-thu-lop-10-4858625.html) - 03:45 09/03/2025
-- 💡 [Mức học bổng tiến sĩ ở Anh tăng cao nhất 20 năm](https://vnexpress.net/muc-hoc-bong-tien-si-o-anh-tang-cao-nhat-20-nam-4854055.html) - 00:41 09/03/2025
-- 🥰 [Nam sinh 22 tuổi giành học bổng tiến sĩ 8 đại học hàng đầu Mỹ](https://vnexpress.net/nam-sinh-22-tuoi-gianh-hoc-bong-tien-si-8-dai-hoc-hang-dau-my-4858367.html) - 00:24 09/03/2025
-- 🐲 [Chàng trai đạt 9.0 IELTS sau 8 lần thi](https://vnexpress.net/chang-trai-dat-9-0-ielts-sau-8-lan-thi-4858815.html) - 23:00 08/03/2025
+- 🤓 [Chàng trai đạt 9.0 IELTS sau 8 lần thi](https://vnexpress.net/chang-trai-dat-9-0-ielts-sau-8-lan-thi-4858815.html) - 23:08 09/03/2025
+- 🦆 [Học ngành Năng lượng tái tạo có dễ kiếm việc không?](https://vnexpress.net/hoc-nganh-nang-luong-tai-tao-co-de-kiem-viec-khong-4857794.html) - 16:59 09/03/2025
+- 🦩 [Hàn Quốc cấp thị thực ưu tiên cho tiến sĩ đại học top 100 thế giới](https://vnexpress.net/han-quoc-cap-thi-thuc-uu-tien-cho-tien-si-dai-hoc-top-100-the-gioi-4858708.html) - 15:00 09/03/2025
+- 🌮 [Tỉnh nào có quy mô kinh tế lớn nhất cả nước?](https://vnexpress.net/tinh-nao-co-quy-mo-kinh-te-lon-nhat-ca-nuoc-4858769.html) - 13:09 09/03/2025
+- 🔭 [Phân biệt &#39;thực dụng&#39; và &#39;thực tế&#39; trong tiếng Anh](https://vnexpress.net/phan-biet-thuc-dung-va-thuc-te-trong-tieng-anh-4858682.html) - 06:15 09/03/2025
+- 💡 [Hai trường chuyên công bố lịch thi thử lớp 10](https://vnexpress.net/hai-truong-chuyen-cong-bo-lich-thi-thu-lop-10-4858625.html) - 03:45 09/03/2025
+- 🥰 [Mức học bổng tiến sĩ ở Anh tăng cao nhất 20 năm](https://vnexpress.net/muc-hoc-bong-tien-si-o-anh-tang-cao-nhat-20-nam-4854055.html) - 00:41 09/03/2025
+- 🐲 [Nam sinh 22 tuổi giành học bổng tiến sĩ 8 đại học hàng đầu Mỹ](https://vnexpress.net/nam-sinh-22-tuoi-gianh-hoc-bong-tien-si-8-dai-hoc-hang-dau-my-4858367.html) - 00:24 09/03/2025
 - 🦒 [Thí sinh thi SAT bị lỗi được hoàn tiền](https://vnexpress.net/thi-sinh-thi-sat-bi-loi-duoc-hoan-tien-4858552.html) - 14:54 08/03/2025
 - 🦆 [Đề minh họa kỳ thi riêng của Đại học Sư phạm Hà Nội 2](https://vnexpress.net/de-minh-hoa-ky-thi-rieng-cua-dai-hoc-su-pham-ha-noi-2-4858545.html) - 14:09 08/03/2025
 - 🧰 [Ai là tiến sĩ đầu tiên của Nam kỳ?](https://vnexpress.net/ai-la-tien-si-dau-tien-cua-nam-ky-4858350.html) - 13:12 08/03/2025
