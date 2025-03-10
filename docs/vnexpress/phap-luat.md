@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Bị hại muốn được tính thấu đáo bồi thường trong vụ cháy chung cư mini ở Khương Hạ](https://vnexpress.net/bi-hai-muon-duoc-tinh-thau-dao-boi-thuong-trong-vu-chay-chung-cu-mini-o-khuong-ha-4859352.html) - 17:00 10/03/2025
+- 😎 [Chủ chung cư mini ở Khương Hạ dự kiến phải trả 25 tỷ đồng cho 84 nạn nhân vụ cháy](https://vnexpress.net/bi-hai-muon-duoc-tinh-thau-dao-boi-thuong-trong-vu-chay-chung-cu-mini-o-khuong-ha-4859352.html) - 17:00 10/03/2025
 - 🥰 [Vỏ bọc hiền lành của nữ tử tù đầu độc ba người chồng](https://vnexpress.net/vo-boc-hien-lanh-cua-nu-tu-tu-dau-doc-ba-nguoi-chong-4859276.html) - 17:00 10/03/2025
 - 🎓 [3 người chém lìa chân đối thủ bị bắt](https://vnexpress.net/3-nguoi-chem-lia-chan-doi-thu-bi-bat-4859337.html) - 14:25 10/03/2025
 - 🤓 [Cô gái bị bắt vì không tố giác người yêu phạm tội](https://vnexpress.net/co-gai-bi-bat-vi-khong-to-giac-nguoi-yeu-pham-toi-4859295.html) - 11:32 10/03/2025
