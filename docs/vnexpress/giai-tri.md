@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Cô gái 23 tuổi làm &#39;nàng thơ&#39; mới của Châu Tinh Trì](https://vnexpress.net/co-gai-23-tuoi-lam-nang-tho-moi-cua-chau-tinh-tri-4859110.html) - 08:12 10/03/2025
+- 🌏 [&#39;Nàng thơ&#39; 23 tuổi của Châu Tinh Trì](https://vnexpress.net/nang-tho-23-tuoi-cua-chau-tinh-tri-4859110.html) - 08:12 10/03/2025
 - 💫 [Phim mới của Bong Joon Ho doanh thu kém](https://vnexpress.net/phim-moi-cua-bong-joon-ho-doanh-thu-kem-4858871.html) - 07:15 10/03/2025
 - 🌮 [Lady Gaga tổ chức concert ở Singapore](https://vnexpress.net/lady-gaga-to-chuc-concert-o-singapore-4859061.html) - 07:10 10/03/2025
 - 🧠 [Tác giả &#39;Bắc Bling&#39;: Tôi từng làm bồi bàn, lái xe tải nuôi đam mê nhạc](https://vnexpress.net/tac-gia-bac-bling-toi-tung-lam-boi-ban-lai-xe-tai-nuoi-dam-me-nhac-4858846.html) - 05:46 10/03/2025
