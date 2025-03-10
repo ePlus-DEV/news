@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Amorim: &#39;Man Utd cần nhiều Fernandes hơn&#39;](https://vnexpress.net/amorim-man-utd-can-nhieu-fernandes-hon-4858842.html) - 00:25 10/03/2025
 - 🦩 [Arteta bỏ dở phỏng vấn sau trận hòa Man Utd](https://vnexpress.net/arteta-bo-do-phong-van-sau-tran-hoa-man-utd-4858835.html) - 22:46 09/03/2025
-- 🧰 [Palmer lần đầu đá hỏng phạt đền](https://vnexpress.net/palmer-lan-dau-da-hong-phat-den-4858834.html) - 22:43 09/03/2025
+- 🧰 [Palmer lần đầu đá hỏng phạt đền ở Ngoại hạng Anh](https://vnexpress.net/palmer-lan-dau-da-hong-phat-den-o-ngoai-hang-anh-4858834.html) - 22:43 09/03/2025
 - 🤗 [Son Heung-min đá panenka cứu Tottenham](https://vnexpress.net/son-heung-min-da-panenka-cuu-tottenham-4858833.html) - 22:36 09/03/2025
 - 🥳 [Vinicius ghi tuyệt phẩm solo cho Real](https://vnexpress.net/vinicius-ghi-tuyet-pham-solo-cho-real-4858823.html) - 22:33 09/03/2025
 - 🦣 [Chelsea đẩy Man City khỏi top 4 Ngoại hạng Anh](https://vnexpress.net/chelsea-day-man-city-khoi-top-4-ngoai-hang-anh-4858831.html) - 22:28 09/03/2025
