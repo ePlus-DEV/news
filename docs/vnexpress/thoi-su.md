@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Cần cơ chế đặc biệt để doanh nghiệp Việt Nam làm chủ công nghệ đường sắt](https://vnexpress.net/can-co-che-dac-biet-de-doanh-nghiep-viet-nam-lam-chu-cong-nghe-duong-sat-4859065.html) - 05:44 10/03/2025
-- 🤓 [Bí thư TP Huế tế đàn Xã Tắc lúc rạng sáng](https://vnexpress.net/bi-thu-tp-hue-te-dan-xa-tac-luc-rang-sang-4858863.html) - 05:00 10/03/2025
+- 🤓 [Tái hiện lễ tế đàn Xã Tắc triều Nguyễn](https://vnexpress.net/tai-hien-le-te-dan-xa-tac-trieu-nguyen-4858863.html) - 05:00 10/03/2025
 - ⚗️ [Quốc hội xem xét sửa Hiến pháp tại kỳ họp tháng 5](https://vnexpress.net/quoc-hoi-xem-xet-sua-hien-phap-tai-ky-hop-thang-5-4858881.html) - 01:53 10/03/2025
 - 🌊 [Vì sao cần mở rộng không gian Hồ Gươm?](https://vnexpress.net/vi-sao-can-mo-rong-khong-gian-ho-guom-4858501.html) - 17:00 09/03/2025
 - 🎓 [Xe máy phát nổ sau tai nạn, hai người chết](https://vnexpress.net/xe-may-phat-no-sau-tai-nan-hai-nguoi-chet-4858806.html) - 16:01 09/03/2025
