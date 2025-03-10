@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Cân nhắc việc vừa ưu đãi vừa thu thuế doanh nghiệp tối thiểu toàn cầu](https://vnexpress.net/can-nhac-viec-vua-uu-dai-vua-thu-thue-doanh-nghiep-toi-thieu-toan-cau-4859311.html) - 14:47 10/03/2025
+- ⛽️ [Cân nhắc việc vừa ưu đãi vừa thu thuế tối thiểu toàn cầu](https://vnexpress.net/can-nhac-viec-vua-uu-dai-vua-thu-thue-toi-thieu-toan-cau-4859311.html) - 14:47 10/03/2025
 - 🐲 [VinFast vào top 500 doanh nghiệp tốt nhất 2025](https://vnexpress.net/vinfast-vao-top-500-doanh-nghiep-tot-nhat-2025-4859211.html) - 11:00 10/03/2025
 - 🔥 [Chứng khoán tăng ba phiên liên tiếp](https://vnexpress.net/chung-khoan-tang-ba-phien-lien-tiep-4859226.html) - 09:20 10/03/2025
 - 🐵 [&#39;Không nên đánh thuế tiêu thụ đặc biệt với xăng, điều hòa&#39;](https://vnexpress.net/khong-nen-danh-thue-tieu-thu-dac-biet-voi-xang-dieu-hoa-4859151.html) - 09:13 10/03/2025
