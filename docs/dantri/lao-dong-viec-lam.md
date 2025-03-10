@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Nữ đại gia &quot;chưa học hết lớp 5&quot; với cơ ngơi nghìn tỷ giao cho... người dưng](https://dantri.com.vn/lao-dong-viec-lam/nu-dai-gia-chua-hoc-het-lop-5-voi-co-ngoi-nghin-ty-giao-cho-nguoi-dung-20250307123906181.htm) - 23:01 09/03/2025
+- ⚗️ [Nữ tỷ phú &quot;chưa học hết lớp 5&quot; với cơ ngơi nghìn tỷ giao cho... người dưng](https://dantri.com.vn/lao-dong-viec-lam/nu-ty-phu-chua-hoc-het-lop-5-voi-co-ngoi-nghin-ty-giao-cho-nguoi-dung-20250307123906181.htm) - 23:01 09/03/2025
 - 🙉 [Thuyền của ngư dân bị lật úp sau khi trúng đậm gần 1,5 tấn cá](https://dantri.com.vn/lao-dong-viec-lam/thuyen-cua-ngu-dan-bi-lat-up-sau-khi-trung-dam-gan-15-tan-ca-20250309195753736.htm) - 15:21 09/03/2025
 - 🕴 [Tiếp viên hàng không đi bộ hơn 15.000 bước/ngày, đứng 14 tiếng trên máy bay](https://dantri.com.vn/lao-dong-viec-lam/tiep-vien-hang-khong-di-bo-hon-15000-buocngay-dung-14-tieng-tren-may-bay-20250308133914108.htm) - 05:00 09/03/2025
 - 🧐 [Nuôi loài bò sát nhìn là &quot;nổi da gà&quot;, doanh thu 4 tỷ đồng/năm](https://dantri.com.vn/lao-dong-viec-lam/nuoi-loai-bo-sat-nhin-la-noi-da-ga-doanh-thu-4-ty-dongnam-20250308072427825.htm) - 01:00 09/03/2025
