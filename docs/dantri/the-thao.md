@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [C.Ronaldo &quot;lão hóa ngược&quot;, khủng khiếp tới không ngờ](https://dantri.com.vn/the-thao/cronaldo-lao-hoa-nguoc-khung-khiep-toi-khong-ngo-20250311200724020.htm) - 13:07 11/03/2025
+- 🎡 [C.Ronaldo &quot;lão hóa ngược&quot;, hiệu suất hiếm thấy trong lịch sử](https://dantri.com.vn/the-thao/cronaldo-lao-hoa-nguoc-hieu-suat-hiem-thay-trong-lich-su-20250311200724020.htm) - 13:07 11/03/2025
 - 💯 [Vì vé dự World Cup, Indonesia tức tốc nhập tịch 3 cầu thủ ngay trong đêm](https://dantri.com.vn/the-thao/vi-ve-du-world-cup-indonesia-tuc-toc-nhap-tich-3-cau-thu-ngay-trong-dem-20250311190343924.htm) - 12:38 11/03/2025
 - ⛽️ [Tuyển Indonesia gặp tổn thất lớn trước đại chiến ở vòng loại World Cup](https://dantri.com.vn/the-thao/tuyen-indonesia-gap-ton-that-lon-truoc-dai-chien-o-vong-loai-world-cup-20250311181303970.htm) - 12:36 11/03/2025
 - 💃 [HLV U22 Việt Nam nói điều bất ngờ về hai cầu thủ Việt kiều](https://dantri.com.vn/the-thao/hlv-u22-viet-nam-noi-dieu-bat-ngo-ve-hai-cau-thu-viet-kieu-20250311193239500.htm) - 12:34 11/03/2025
