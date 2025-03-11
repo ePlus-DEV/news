@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [21 đại học, cao đẳng Mỹ đến Việt Nam tìm cơ hội hợp tác](https://vnexpress.net/21-dai-hoc-cao-dang-my-den-viet-nam-tim-co-hoi-hop-tac-4859308.html) - 15:49 10/03/2025
+- 🤓 [20 đại học Mỹ đến Việt Nam tìm cơ hội hợp tác](https://vnexpress.net/20-dai-hoc-my-den-viet-nam-tim-co-hoi-hop-tac-4859308.html) - 15:49 10/03/2025
 - 🦆 [Phân biệt Let và Let&#39;s trong tiếng Anh](https://vnexpress.net/phan-biet-let-va-let-s-trong-tieng-anh-4858856.html) - 14:33 10/03/2025
 - 🦩 [Tỉnh nào có tượng Phật nằm lớn nhất Việt Nam?](https://vnexpress.net/tinh-nao-co-tuong-phat-nam-lon-nhat-viet-nam-4858911.html) - 12:30 10/03/2025
 - 🌮 [Hơn 3.000 bài thi về an toàn giao thông của học sinh và giáo viên](https://vnexpress.net/hon-3-000-bai-thi-ve-an-toan-giao-thong-cua-hoc-sinh-va-giao-vien-4859216.html) - 11:30 10/03/2025
