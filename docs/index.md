@@ -251,7 +251,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Kết luận của Bộ Chính trị về điều chỉnh phạm vi và đối tượng](https://nld.com.vn/ket-luan-cua-bo-chinh-tri-ve-dieu-chinh-pham-vi-va-doi-tuong-196250311163450803.htm) - 09:42 11/03/2025
+- 🐎 [Kết luận của Bộ Chính trị về điều chỉnh phạm vi và đối tượng Nghị định số 178/2024/NĐ-CP](https://nld.com.vn/ket-luan-cua-bo-chinh-tri-ve-dieu-chinh-pham-vi-va-doi-tuong-196250311163450803.htm) - 09:42 11/03/2025
 - 😺 [Trung tâm tài chính quốc tế TP HCM dự kiến xây dựng trên 11 lô đất ở Thủ Thiêm](https://nld.com.vn/trung-tam-tai-chinh-quoc-te-tp-hcm-du-kien-xay-dung-tren-11-lo-dat-o-thu-thiem-196250311160604999.htm) - 09:30 11/03/2025
 - 👍 [TP HCM: Xác minh nhóm người chửi bới, đập hư gương chiếu hậu taxi](https://nld.com.vn/tp-hcm-xac-minh-nhom-nguoi-chui-boi-dap-hu-guong-chieu-hau-taxi-196250311153700502.htm) - 09:29 11/03/2025
 - 🥷 [Chủ tịch UBND TP HCM Nguyễn Văn Được: Chiến lược 1-4-1 cho TP HCM](https://nld.com.vn/chu-tich-ubnd-tp-hcm-nguyen-van-duoc-chien-luoc-1-4-1-cho-tp-hcm-196250311154205723.htm) - 09:27 11/03/2025
