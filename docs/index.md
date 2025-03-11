@@ -522,7 +522,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- muctim:START -->
 - 🤔 [Thời tiết hôm nay 11-3: Nam Bộ được cảnh báo xâm nhập mặn](https://muctim.tuoitre.vn/thoi-tiet-hom-nay-11-3-nam-bo-duoc-canh-bao-xam-nhap-man-10125031101383321.htm) - 02:17 11/03/2025
 - 🥷 [Lịch thi tuyển sinh lớp 10 năm học 2025-2026 trên cả nước](https://muctim.tuoitre.vn/lich-thi-tuyen-sinh-lop-10-nam-hoc-2025-2026-tren-ca-nuoc-101250304175756538.htm) - 02:00 11/03/2025
-- 🤖 [Rèn luyện Đội viên trực tuyến: &#39;Chiến sĩ giải phóng quân sẵn sàng đội ngũ&#39;](https://muctim.tuoitre.vn/ren-luyen-doi-vien-truc-tuyen-chien-si-giai-phong-quan-san-sang-doi-ngu-101250311064511898.htm) - 00:00 11/03/2025
+- 🤖 [Rèn luyện Đội viên trực tuyến: ‘Chiến sĩ giải phóng quân sẵn sàng đội ngũ’](https://muctim.tuoitre.vn/ren-luyen-doi-vien-truc-tuyen-chien-si-giai-phong-quan-san-sang-doi-ngu-101250311064511898.htm) - 00:00 11/03/2025
 - 🤓 [12 cung hoàng đạo hôm nay 11-3: Thiên Bình nên tin vào trực giác](https://muctim.tuoitre.vn/12-cung-hoang-dao-hom-nay-11-3-thien-binh-nen-tin-vao-truc-giac-10125031105584383.htm) - 22:58 10/03/2025
 - 🎉 [Truyện ngắn Mực Tím: Cảm ơn, vì đã ở đây](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-cam-on-vi-da-o-day-10125022815293588.htm) - 13:20 10/03/2025
 - 👨‍🏫 [Hai phim cùng biên kịch hấp dẫn không kém &#39;Khi cuộc đời cho bạn quả quýt&#39;](https://muctim.tuoitre.vn/hai-phim-cung-bien-kich-hap-dan-khong-kem-khi-cuoc-doi-cho-ban-qua-quyt-101250310163014781.htm) - 13:14 10/03/2025
