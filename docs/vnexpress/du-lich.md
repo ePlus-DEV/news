@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Lý do Cát Bà được nhà làm phim Hollywood chú ý](https://vnexpress.net/ly-do-cat-ba-duoc-nha-lam-phim-hollywood-chu-y-4860007.html) - 14:30 11/03/2025
+- 💂 [Lý do Cát Bà được nhà làm phim Hollywood lựa chọn](https://vnexpress.net/ly-do-cat-ba-duoc-nha-lam-phim-hollywood-lua-chon-4860007.html) - 14:30 11/03/2025
 - 🪄 [Đảo Cát Bà dự kiến thành bối cảnh quay phim &#39;Liên Minh Huyền Thoại&#39;](https://vnexpress.net/dao-cat-ba-du-kien-thanh-boi-canh-quay-phim-lien-minh-huyen-thoai-4859891.html) - 09:45 11/03/2025
 - 🦅 [Hoa đào nở rực ở thôn Lô Lô Chải](https://vnexpress.net/hoa-dao-no-ruc-o-thon-lo-lo-chai-4858927.html) - 06:37 11/03/2025
 - 🕴 [&#39;Canh bạc&#39; chuyển đến Thụy Sĩ của gia đình Mỹ](https://vnexpress.net/canh-bac-chuyen-den-thuy-si-cua-gia-dinh-my-4859431.html) - 04:53 11/03/2025
