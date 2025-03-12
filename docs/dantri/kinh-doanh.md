@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- dantri-kinh-doanh:START -->
 - 🏊 [Công ty đại gia Nguyễn Văn Đạt giảm kế hoạch lợi nhuận vào phút chót](https://dantri.com.vn/kinh-doanh/cong-ty-dai-gia-nguyen-van-dat-giam-ke-hoach-loi-nhuan-vao-phut-chot-20250311173733403.htm) - 03:51 12/03/2025
 - 🦆 [Ông Trump rút lại kế hoạch áp thuế 50% với thép, nhôm Canada vào phút chót](https://dantri.com.vn/kinh-doanh/ong-trump-rut-lai-ke-hoach-ap-thue-50-voi-thep-nhom-canada-vao-phut-chot-20250312083646589.htm) - 01:37 12/03/2025
-- 🦄 [Giá vàng miếng, vàng nhẫn tăng vọt trở lại](https://dantri.com.vn/kinh-doanh/gia-vang-mieng-vang-nhan-tang-vot-tro-lai-20250312071019234.htm) - 01:15 12/03/2025
+- 🦄 [Giá vàng lập kỷ lục chưa từng có, vàng nhẫn vượt 93 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/gia-vang-lap-ky-luc-chua-tung-co-vang-nhan-vuot-93-trieu-dongluong-20250312071019234.htm) - 01:15 12/03/2025
 - 🌝 [Giá xăng ngày 13/3 giảm tiếp hơn 700 đồng/lít?](https://dantri.com.vn/kinh-doanh/gia-xang-ngay-133-giam-tiep-hon-700-donglit-20250312011118819.htm) - 00:30 12/03/2025
 - 💃 [Giám đốc công ty có doanh thu nghìn tỷ xin nghỉ việc vì bị huyết áp cao](https://dantri.com.vn/kinh-doanh/giam-doc-cong-ty-co-doanh-thu-nghin-ty-xin-nghi-viec-vi-bi-huyet-ap-cao-20250312070035978.htm) - 00:29 12/03/2025
 - 🦏 [Ông Trump nâng thuế thép, nhôm Canada lên 50%](https://dantri.com.vn/kinh-doanh/ong-trump-nang-thue-thep-nhom-canada-len-50-20250311230250032.htm) - 16:07 11/03/2025
