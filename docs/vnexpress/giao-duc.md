@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Giáo viên bị truy thu, tính lãi hơn 4,6 tỷ đồng bảo hiểm](https://vnexpress.net/giao-vien-bi-truy-thu-tinh-lai-hon-4-6-ty-dong-bao-hiem-4860859.html) - 10:26 13/03/2025
 - 🦆 [VinUni liên minh chiến lược với Đại học Công nghệ Nanyang](https://vnexpress.net/vinuni-lien-minh-chien-luoc-voi-dai-hoc-cong-nghe-nanyang-4860949.html) - 09:30 13/03/2025
-- 🦩 [Phó chủ tịch Marvell: Ngoài đại học cần thêm 2-3 năm để có một kỹ sư bán dẫn](https://vnexpress.net/pho-chu-tich-marvell-ngoai-dai-hoc-can-them-2-3-nam-de-co-mot-ky-su-ban-dan-4860702.html) - 06:55 13/03/2025
+- 🦩 [Phó chủ tịch Marvell: Sinh viên bán dẫn cần 2-3 năm ở doanh nghiệp mới làm được việc](https://vnexpress.net/pho-chu-tich-marvell-sinh-vien-ban-dan-can-2-3-nam-o-doanh-nghiep-moi-lam-duoc-viec-4860702.html) - 06:55 13/03/2025
 - 🌮 [Đại học Kiến trúc TP HCM bỏ một phương thức xét tuyển](https://vnexpress.net/dai-hoc-kien-truc-tp-hcm-bo-mot-phuong-thuc-xet-tuyen-4860820.html) - 05:18 13/03/2025
 - 🔭 [Trường Đại học CMC tiếp tục tặng laptop cho 100% sinh viên](https://vnexpress.net/truong-dai-hoc-cmc-tiep-tuc-tang-laptop-cho-100-sinh-vien-4860706.html) - 05:00 13/03/2025
 - 💡 [9 đại học Việt Nam vào bảng xếp hạng thế giới theo ngành](https://vnexpress.net/9-dai-hoc-viet-nam-vao-bang-xep-hang-the-gioi-theo-nganh-4860761.html) - 03:35 13/03/2025
