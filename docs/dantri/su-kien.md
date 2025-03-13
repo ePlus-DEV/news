@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Tổng thống Putin họp kín với đặc phái viên Mỹ](https://dantri.com.vn/the-gioi/tong-thong-putin-hop-kin-voi-dac-phai-vien-my-20250313204549611.htm) - 13:56 13/03/2025
+- 🎭 [Nga - Mỹ thảo luận về con đường chiến lược mới](https://dantri.com.vn/the-gioi/nga-my-thao-luan-ve-con-duong-chien-luoc-moi-20250313204549611.htm) - 13:56 13/03/2025
 - 👨‍🏫 [Ngày mai, Bộ Chính trị quyết chủ trương bỏ cấp huyện, sáp nhập các tỉnh](https://dantri.com.vn/xa-hoi/ngay-mai-bo-chinh-tri-quyet-chu-truong-bo-cap-huyen-sap-nhap-cac-tinh-20250313204002161.htm) - 13:45 13/03/2025
 - 🌮 [Cựu CEO Google sẽ đến Việt Nam ngày mai là ai?](https://dantri.com.vn/kinh-doanh/cuu-ceo-google-se-den-viet-nam-ngay-mai-la-ai-20250313172505499.htm) - 13:30 13/03/2025
 - 🕯 [Không khí lạnh đổ bộ, miền Bắc sắp rét đậm](https://dantri.com.vn/xa-hoi/khong-khi-lanh-do-bo-mien-bac-sap-ret-dam-20250313195534559.htm) - 13:20 13/03/2025
