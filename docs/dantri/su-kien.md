@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Tổng thống Putin họp kín với đặc phái viên Mỹ](https://dantri.com.vn/the-gioi/tong-thong-putin-hop-kin-voi-dac-phai-vien-my-20250313204549611.htm) - 13:56 13/03/2025
+- 🎭 [Nga, Mỹ sắp đàm phán về xung đột Ukraine, thế giới ngóng chờ kết quả](https://dantri.com.vn/the-gioi/nga-my-sap-dam-phan-ve-xung-dot-ukraine-the-gioi-ngong-cho-ket-qua-20250313204549611.htm) - 13:56 13/03/2025
 - 👨‍🏫 [Ngày mai, Bộ Chính trị quyết chủ trương bỏ cấp huyện, sáp nhập các tỉnh](https://dantri.com.vn/xa-hoi/ngay-mai-bo-chinh-tri-quyet-chu-truong-bo-cap-huyen-sap-nhap-cac-tinh-20250313204002161.htm) - 13:45 13/03/2025
 - 🌮 [Cựu CEO Google sẽ đến Việt Nam ngày mai là ai?](https://dantri.com.vn/kinh-doanh/cuu-ceo-google-se-den-viet-nam-ngay-mai-la-ai-20250313172505499.htm) - 13:30 13/03/2025
 - 🕯 [Không khí lạnh đổ bộ, miền Bắc sắp rét đậm](https://dantri.com.vn/xa-hoi/khong-khi-lanh-do-bo-mien-bac-sap-ret-dam-20250313195534559.htm) - 13:20 13/03/2025
@@ -15,7 +15,7 @@ sidebar_position: 16
 - 📝 [Nga dồn dập tấn công Sudzha, Ukraine thất thủ ở cứ điểm lớn nhất tại Kursk](https://dantri.com.vn/the-gioi/nga-don-dap-tan-cong-sudzha-ukraine-that-thu-o-cu-diem-lon-nhat-tai-kursk-20250313162548000.htm) - 10:19 13/03/2025
 - 🦏 [Tổng Bí thư Tô Lâm kết thúc tốt đẹp chuyến thăm chính thức Singapore](https://dantri.com.vn/xa-hoi/tong-bi-thu-to-lam-ket-thuc-tot-dep-chuyen-tham-chinh-thuc-singapore-20250313165835104.htm) - 09:58 13/03/2025
 - 🥰 [NASA hé lộ rào cản khiến 2 phi hành gia &quot;bị bỏ rơi&quot; ngoài vũ trụ](https://dantri.com.vn/khoa-hoc/nasa-he-lo-rao-can-khien-2-phi-hanh-gia-bi-bo-roi-ngoai-vu-tru-20250313143619388.htm) - 09:56 13/03/2025
-- 🤗 [NSND Công Lý xin thôi vị trí Phó Giám đốc Nhà hát Kịch Hà Nội](https://dantri.com.vn/giai-tri/nsnd-cong-ly-xin-thoi-vi-tri-pho-giam-doc-nha-hat-kich-ha-noi-20250313153619535.htm) - 09:02 13/03/2025
+- 🤗 [NSND Công Lý rời vị trí Phó Giám đốc Nhà hát Kịch Hà Nội](https://dantri.com.vn/giai-tri/nsnd-cong-ly-roi-vi-tri-pho-giam-doc-nha-hat-kich-ha-noi-20250313153619535.htm) - 09:02 13/03/2025
 - 🌈 [Vụ Thùy Tiên, Quang Linh Vlogs quảng cáo kẹo rau: Sở Văn hóa lên tiếng](https://dantri.com.vn/giai-tri/vu-thuy-tien-quang-linh-vlogs-quang-cao-keo-rau-so-van-hoa-len-tieng-20250313145022201.htm) - 08:44 13/03/2025
 - 🌏 [Khách đông ngày vàng nhẫn lên gần 95 triệu đồng, tiệm cho mua tối đa 2 chỉ](https://dantri.com.vn/kinh-doanh/khach-dong-ngay-vang-nhan-len-gan-95-trieu-dong-tiem-cho-mua-toi-da-2-chi-20250313144637611.htm) - 08:06 13/03/2025
 - 💄 [Vụ vé số trúng giải 2 tỷ đồng bị từ chối trả thưởng: Chốt lịch xét xử](https://dantri.com.vn/xa-hoi/vu-ve-so-trung-giai-2-ty-dong-bi-tu-choi-tra-thuong-chot-lich-xet-xu-20250313142953234.htm) - 07:48 13/03/2025
