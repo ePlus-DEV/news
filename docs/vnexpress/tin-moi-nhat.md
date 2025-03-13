@@ -5,7 +5,7 @@ sidebar_position: 9
 
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Mong anh trưởng thành, đủ kiên nhẫn tìm hiểu em trong 3 tháng](https://vnexpress.net/mong-anh-truong-thanh-du-kien-nhan-tim-hieu-em-trong-3-thang-4860550.html) - 16:00 13/03/2025
-- 🐎 [Ông Putin: Nga ủng hộ các đề xuất nhằm chấm dứt xung đột Ukraine](https://vnexpress.net/ong-putin-nga-ung-ho-cac-de-xuat-nham-cham-dut-xung-dot-ukraine-4861075.html) - 15:54 13/03/2025
+- 🐎 [Ông Putin: Nga ủng hộ đề xuất ngừng bắn 30 ngày tại Ukraine](https://vnexpress.net/ong-putin-nga-ung-ho-de-xuat-ngung-ban-30-ngay-tai-ukraine-4861075.html) - 15:54 13/03/2025
 - 🦍 [Lập Ban Chỉ đạo của Chính phủ về phát triển khoa học công nghệ](https://vnexpress.net/lap-ban-chi-dao-cua-chinh-phu-ve-phat-trien-khoa-hoc-cong-nghe-4861067.html) - 15:27 13/03/2025
 - 🏊 [Lấy ý kiến các cơ quan về sáp nhập tỉnh thành trong tuần sau](https://vnexpress.net/lay-y-kien-cac-co-quan-ve-sap-nhap-tinh-thanh-trong-tuan-sau-4861063.html) - 15:18 13/03/2025
 - 🎊 [Israel không kích thủ đô Syria](https://vnexpress.net/israel-khong-kich-thu-do-syria-4861053.html) - 15:13 13/03/2025
