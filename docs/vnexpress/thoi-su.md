@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Kho nhựa cháy ngùn ngụt](https://vnexpress.net/kho-nhua-chay-ngun-ngut-4861045.html) - 12:09 13/03/2025
+- 🦒 [Cháy kho sản xuất nhựa ở Đồng Tháp](https://vnexpress.net/chay-kho-san-xuat-nhua-o-dong-thap-4861045.html) - 12:09 13/03/2025
 - 🤓 [Vietnam Airlines và Vietjet Air chuyển sang ga T3 Tân Sơn Nhất sau 30/4](https://vnexpress.net/vietnam-airlines-va-vietjet-air-chuyen-sang-ga-t3-tan-son-nhat-sau-30-4-4861027.html) - 11:17 13/03/2025
 - ⚗️ [Miền Bắc giảm nồm ẩm từ 15/3](https://vnexpress.net/mien-bac-giam-nom-am-tu-15-3-4861011.html) - 10:42 13/03/2025
 - 🌊 [Thủ tướng: Đảm bảo 3-5% tổng chi ngân sách cho khoa học công nghệ](https://vnexpress.net/thu-tuong-dam-bao-3-5-tong-chi-ngan-sach-cho-khoa-hoc-cong-nghe-4860943.html) - 10:21 13/03/2025
