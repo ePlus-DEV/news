@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Kế hoạch bắt cóc đại gia ở TP HCM của nhóm người Trung Quốc](https://vnexpress.net/ke-hoach-bat-coc-dai-gia-o-tp-hcm-cua-nhom-nguoi-trung-quoc-4860535.html) - 23:00 12/03/2025
+- 😎 [Kế hoạch bắt cóc đại gia ở TP HCM của nhóm người Trung Quốc](https://vnexpress.net/ke-hoach-bat-coc-dai-gia-o-tp-hcm-cua-nhom-nguoi-trung-quoc-vnepre-4860535.html) - 23:00 12/03/2025
 - 🥰 [Con gây tai nạn, mẹ bị phạt tù](https://vnexpress.net/con-gay-tai-nan-me-bi-phat-tu-4860538.html) - 17:00 12/03/2025
 - 🎓 [Đêm định mệnh của cô gái cứu bạn bị bạo hành](https://vnexpress.net/dem-dinh-menh-cua-co-gai-den-cuu-ban-bi-bao-hanh-4860532.html) - 17:00 12/03/2025
 - 🤓 [7 điều lưu ý về lệ phí trước bạ nhà, đất](https://vnexpress.net/7-dieu-can-luu-y-ve-le-phi-truoc-ba-doi-voi-nha-dat-4860038.html) - 17:00 12/03/2025
