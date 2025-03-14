@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Học phí lớp 10 trường tư ở Hà Nội phổ biến 2,6-4 triệu đồng mỗi tháng](https://vnexpress.net/hoc-phi-lop-10-truong-tu-o-ha-noi-pho-bien-2-6-4-trieu-dong-moi-thang-4860841.html) - 03:58 14/03/2025
+- 🤓 [Học phí lớp 10 trường tư cao nhất gần 90 triệu đồng mỗi tháng](https://vnexpress.net/hoc-phi-lop-10-truong-tu-cao-nhat-gan-90-trieu-dong-moi-thang-4860841.html) - 03:58 14/03/2025
 - 🦆 [Cậu học trò 10 tuổi gây sốt khi hát dân ca](https://vnexpress.net/cau-hoc-tro-10-tuoi-gay-sot-khi-hat-dan-ca-4859941.html) - 23:18 13/03/2025
 - 🦩 [&#39;Bậc tiểu học chưa cần quan tâm điểm số, thành tích&#39;](https://vnexpress.net/bac-tieu-hoc-chua-can-quan-tam-diem-so-thanh-tich-4860906.html) - 14:56 13/03/2025
 - 🌮 [Trường Đại học Mỏ - Địa chất tăng gấp đôi số tổ hợp xét tuyển](https://vnexpress.net/truong-dai-hoc-mo-dia-chat-tang-gap-doi-so-to-hop-xet-tuyen-4860804.html) - 13:47 13/03/2025
