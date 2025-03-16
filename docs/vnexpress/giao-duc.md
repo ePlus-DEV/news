@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Phụ huynh, học sinh bối rối trước mùa tuyển sinh đại học](https://vnexpress.net/phu-huynh-hoc-sinh-boi-roi-truoc-mua-tuyen-sinh-dai-hoc-4861863.html) - 07:00 16/03/2025
+- 🤓 [Học sinh lo âu trước thay đổi xét tuyển đại học](https://vnexpress.net/hoc-sinh-lo-au-truoc-thay-doi-xet-tuyen-dai-hoc-4861863.html) - 07:00 16/03/2025
 - 🦆 [Bộ Công an dự kiến xét thí sinh có IELTS 5.5, bỏ kết hợp học bạ](https://vnexpress.net/huong-dan-so-tuyen-xet-tuyen-khoi-truong-cong-an-nam-2025-4861926.html) - 04:39 16/03/2025
 - 🦩 [&#39;Yêu cầu học sinh giỏi mới được học bán dẫn sẽ gây thiếu nhân lực&#39;](https://vnexpress.net/yeu-cau-hoc-sinh-gioi-moi-duoc-hoc-ban-dan-se-gay-thieu-nhan-luc-4861721.html) - 03:12 16/03/2025
 - 🌮 [Hàng loạt sinh viên rút đơn xin visa du học Australia](https://vnexpress.net/hang-loat-sinh-vien-rut-don-xin-visa-du-hoc-australia-4861873.html) - 02:17 16/03/2025
