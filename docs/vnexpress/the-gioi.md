@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Ông Trump mặc đồ chơi golf giám sát cuộc tấn công Houthi](https://vnexpress.net/ong-trump-mac-do-choi-golf-giam-sat-cuoc-tan-cong-houthi-4861992.html) - 10:17 16/03/2025
+- 🎭 [Ông Trump mặc đồ chơi golf khi giám sát cuộc tấn công Houthi](https://vnexpress.net/ong-trump-mac-do-choi-golf-khi-giam-sat-cuoc-tan-cong-houthi-4861992.html) - 10:17 16/03/2025
 - 🕴 [Cháy hộp đêm ở Bắc Macedonia, ít nhất 50 người chết](https://vnexpress.net/chay-hop-dem-o-bac-macedonia-it-nhat-50-nguoi-chet-4861970.html) - 09:28 16/03/2025
 - 🤭 [Nga kêu gọi Mỹ ngừng không kích ở Yemen](https://vnexpress.net/nga-keu-goi-my-ngung-khong-kich-o-yemen-4861966.html) - 08:49 16/03/2025
 - 🧑‍💻 [Nga - Ukraine tập kích lẫn nhau khi triển vọng ngừng bắn mơ hồ](https://vnexpress.net/nga-ukraine-tap-kich-lan-nhau-khi-trien-vong-ngung-ban-mo-ho-4861905.html) - 07:49 16/03/2025
