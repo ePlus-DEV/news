@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [&#39;Yêu cầu học sinh giỏi mới được học bán dẫn sẽ gây thiếu nhân lực&#39;](https://vnexpress.net/yeu-cau-hoc-sinh-gioi-moi-duoc-hoc-ban-dan-se-gay-thieu-nhan-luc-4861721.html) - 03:12 16/03/2025
 - 🦆 [Hàng loạt sinh viên rút đơn xin visa du học Australia](https://vnexpress.net/hang-loat-sinh-vien-rut-don-xin-visa-du-hoc-australia-4861873.html) - 02:17 16/03/2025
-- 🦩 [Nữ sinh duy nhất là gương mặt trẻ tiêu biểu toàn quân](https://vnexpress.net/nu-sinh-duy-nhat-la-guong-mat-tre-tieu-bieu-toan-quan-4861738.html) - 23:00 15/03/2025
+- 🦩 [Nữ sinh duy nhất là gương mặt trẻ tiêu biểu của Bộ Quốc phòng](https://vnexpress.net/nu-sinh-duy-nhat-la-guong-mat-tre-tieu-bieu-cua-bo-quoc-phong-4861738.html) - 23:00 15/03/2025
 - 🌮 [Học ngành Quan hệ quốc tế ở trường nào?](https://vnexpress.net/hoc-nganh-quan-he-quoc-te-o-truong-nao-4861059.html) - 16:59 15/03/2025
 - 🔭 [Tỉnh nào ở miền Nam chỉ có 4 huyện?](https://vnexpress.net/tinh-nao-o-mien-nam-chi-co-4-huyen-4861796.html) - 13:37 15/03/2025
 - 💡 [Nữ sinh lọt top điểm Toán THCS cao nhất thế giới](https://vnexpress.net/nu-sinh-lot-top-diem-toan-thcs-cao-nhat-the-gioi-4861697.html) - 08:49 15/03/2025
