@@ -251,7 +251,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Tai nạn kinh hoàng giữa 4 ô tô ở Đắk Nông](https://nld.com.vn/tai-nan-kinh-hoang-giua-4-o-to-o-dak-nong-196250316161841608.htm) - 09:31 16/03/2025
-- 😺 [Lên kế hoạch mua sớm, vé máy bay dịp lễ 30-4 vẫn cao chót vót](https://nld.com.vn/len-ke-hoach-mua-som-ve-may-bay-dip-le-30-4-van-cao-chot-vot-196250316155440741.htm) - 09:07 16/03/2025
+- 😺 [Vé máy bay dịp lễ 30-4 cao chót vót, nhiều người tính toán đổi kế hoạch](https://nld.com.vn/len-ke-hoach-mua-som-ve-may-bay-dip-le-30-4-van-cao-chot-vot-196250316155440741.htm) - 09:07 16/03/2025
 - 👍 [Diễn viên Ngô Thành Tá tố chưa được trả thù lao](https://nld.com.vn/dien-vien-ngo-thanh-ta-to-chua-duoc-tra-thu-lao-nguoi-trong-cuoc-len-tieng-196250316131004571.htm) - 09:02 16/03/2025
 - 🥷 [Nhiều câu hỏi đặt ra với chiến dịch của Nga ở Kursk](https://nld.com.vn/nhieu-cau-hoi-dat-ra-voi-chien-dich-cua-nga-o-kursk-196250316112129918.htm) - 09:01 16/03/2025
 - 🤔 [Ngày đầu triển khai mô hình mới sau tinh gọn, hải quan tiếp nhận hơn 20,3 ngàn tờ khai](https://nld.com.vn/ngay-dau-trien-khai-mo-hinh-moi-sau-tinh-gon-hai-quan-tiep-nhan-hon-203-ngan-to-khai-196250316153651588.htm) - 08:39 16/03/2025
