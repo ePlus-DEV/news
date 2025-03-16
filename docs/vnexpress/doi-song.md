@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Những được mất của cô gái Gen Z khi &#39;bỏ phố về biển&#39;](https://vnexpress.net/nhung-duoc-mat-cua-co-gai-gen-z-khi-bo-pho-ve-bien-4860979.html) - 23:26 15/03/2025
+- 🚀 [Được, mất của cô gái Gen Z sau một năm &#39;bỏ phố về biển&#39;](https://vnexpress.net/duoc-mat-cua-co-gai-gen-z-sau-mot-nam-bo-pho-ve-bien-4860979.html) - 23:26 15/03/2025
 - 🎓 [Anh nông dân kiếm triệu USD từ &#39;vườn rau một mét&#39;](https://vnexpress.net/anh-nong-dan-kiem-trieu-usd-tu-vuon-rau-mot-met-4860842.html) - 23:00 15/03/2025
 - 🚦 [Ba tình huống cảnh báo cuộc tình không thể cứu vãn](https://vnexpress.net/ba-tinh-huong-canh-bao-cuoc-tinh-khong-the-cuu-van-4861750.html) - 11:55 15/03/2025
 - 🦣 [5 loại thực phẩm thường bị bảo quản sai](https://vnexpress.net/5-loai-thuc-pham-thuong-bi-bao-quan-sai-4861531.html) - 08:31 15/03/2025
