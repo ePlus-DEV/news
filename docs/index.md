@@ -590,7 +590,7 @@ Hospital playlist?](https://muctim.tuoitre.vn/co-gi-trong-resident-playbook-phan
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Trực tiếp Liverpool vs Newcastle, 0-2 &lpar;H2&rpar;: Isak nhân đôi cách biệt](https://tienphong.vn/truc-tiep-liverpool-vs-newcastle-0-2-h2-isak-nhan-doi-cach-biet-post1725341.tpo) - 22:30 16/03/2025
+- 💼 [Hạ đẹp Liverpool, Newcastle vô địch League Cup, chấm dứt 70 năm không danh hiệu](https://tienphong.vn/ha-dep-liverpool-newcastle-vo-dich-league-cup-cham-dut-70-nam-khong-danh-hieu-post1725341.tpo) - 22:30 16/03/2025
 - 🎊 [Khai mạc lễ hội Quán Thế Âm](https://tienphong.vn/khai-mac-le-hoi-quan-the-am-post1725511.tpo) - 22:06 16/03/2025
 - 💼 [Vì sao Huế từ chối cấp phép hội thi chim chào mào?](https://tienphong.vn/vi-sao-hue-tu-choi-cap-phep-hoi-thi-chim-chao-mao-post1725465.tpo) - 21:09 16/03/2025
 - 👺 [Top 10 tỉnh, thành phố người dân kiếm tiền giỏi nhất nước](https://tienphong.vn/top-10-tinh-thanh-pho-nguoi-dan-kiem-tien-gioi-nhat-nuoc-post1725521.tpo) - 20:57 16/03/2025
