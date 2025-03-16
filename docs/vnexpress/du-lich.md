@@ -7,7 +7,7 @@ sidebar_position: 11
 - 💂 [Lý do nhà hàng Michelin hiếm đầu bếp nữ](https://vnexpress.net/ly-do-nha-hang-michelin-hiem-dau-bep-nu-4861688.html) - 07:00 16/03/2025
 - 🪄 [Bánh gật gù gây tò mò sau video của Sơn Tùng M-TP](https://vnexpress.net/banh-gat-gu-gay-to-mo-sau-video-cua-son-tung-m-tp-4861210.html) - 05:00 16/03/2025
 - 🦅 [Gà đốt Ô Thum là đặc sản vùng nào?](https://vnexpress.net/ga-dot-o-thum-la-dac-san-vung-nao-4861766.html) - 03:00 16/03/2025
-- 🕴 [Huế đón &#39;vận hội mới&#39; với giải chạy hơn 10.000 VĐV](https://vnexpress.net/hue-don-van-hoi-moi-voi-giai-chay-hon-10-000-vdv-4861515.html) - 02:31 16/03/2025
+- 🕴 [Huế đón &#39;vận hội mới&#39; với giải chạy 12.000 VĐV](https://vnexpress.net/hue-don-van-hoi-moi-voi-giai-chay-12-000-vdv-4861515.html) - 02:31 16/03/2025
 - 👀 [Người Hà Nội, khách nước ngoài đổ đến &#39;Hàm cá mập&#39; chụp ảnh](https://vnexpress.net/nguoi-ha-noi-khach-nuoc-ngoai-do-den-ham-ca-map-chup-anh-4861799.html) - 01:22 16/03/2025
 - 🎭 [Mùa hoa gạo bên dòng sông Hương](https://vnexpress.net/mua-hoa-gao-ben-dong-song-huong-4860924.html) - 00:00 16/03/2025
 - 🦒 [Được chữa lành ở Tây Ban Nha sau bi kịch gia đình](https://vnexpress.net/duoc-chua-lanh-o-tay-ban-nha-sau-bi-kich-gia-dinh-4861800.html) - 17:09 15/03/2025
