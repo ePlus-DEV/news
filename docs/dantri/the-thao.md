@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Real Madrid dọa không ra sân, quyết kiện lên FIFA](https://dantri.com.vn/the-thao/real-madrid-doa-khong-ra-san-quyet-kien-len-fifa-20250316145314913.htm) - 07:53 16/03/2025
+- 🎡 [Real Madrid dọa không ra sân, quyết kiện lên FIFA](https://dantri.com.vn/the-thao/real-madrid-doa-khong-ra-san-quyet-kien-len-fifa-20250316145314913.htm) - 08:53 16/03/2025
 - 💯 [Sir Jim Ratcliffe bất ngờ lên tiếng dọa rời bỏ Man Utd](https://dantri.com.vn/the-thao/sir-jim-ratcliffe-bat-ngo-len-tieng-doa-roi-bo-man-utd-20250316140236248.htm) - 07:02 16/03/2025
 - ⛽️ [Cơn sốt vé xem đội tuyển Việt Nam thi đấu ở sân Bình Dương](https://dantri.com.vn/the-thao/con-sot-ve-xem-doi-tuyen-viet-nam-thi-dau-o-san-binh-duong-20250316122609575.htm) - 06:21 16/03/2025
 - 💃 [HLV Simeone: &quot;Atletico sẽ đánh bại Barcelona sau nỗi đau Champions League&quot;](https://dantri.com.vn/the-thao/hlv-simeone-atletico-se-danh-bai-barcelona-sau-noi-dau-champions-league-20250316091529047.htm) - 04:11 16/03/2025
