@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [8 điều cần biết khi quyết toán thuế thu nhập cá nhân từ tiền lương](https://vnexpress.net/8-luu-y-ve-quyet-toan-thue-thu-nhap-ca-nhan-tu-tien-luong-tien-cong-4861163.html) - 02:00 16/03/2025
 - 🥰 [Chiêu đánh bạc mới gần 88.000 tỷ đồng của đường dây bốn anh em](https://vnexpress.net/chieu-danh-bac-moi-gan-88-000-ty-dong-cua-duong-day-bon-anh-em-4861663.html) - 23:00 15/03/2025
-- 🎓 [Những lần ngược dòng lửa cứu người của thượng uý cảnh sát say nghề](https://vnexpress.net/nhung-lan-nguoc-dong-lua-cua-chien-si-chua-chay-say-nghe-4860930.html) - 17:00 15/03/2025
+- 🎓 [Những lần ngược dòng lửa cứu người của thượng úy cảnh sát say nghề](https://vnexpress.net/nhung-lan-nguoc-dong-lua-cua-chien-si-chua-chay-say-nghe-4860930.html) - 17:00 15/03/2025
 - 🤓 [Đoạt mạng người tình ở giữa đường, tự thiêu bất thành](https://vnexpress.net/doat-mang-nguoi-tinh-o-giua-duong-tu-thieu-bat-thanh-4861818.html) - 16:40 15/03/2025
 - 🎊 [Chiếm đoạt 500 triệu đồng từ thẻ tín dụng của 11 người](https://vnexpress.net/chiem-doat-500-trieu-dong-tu-the-tin-dung-cua-11-nguoi-4861819.html) - 16:25 15/03/2025
 - 🙉 [Công an tìm nạn nhân đưa tiền trong vụ án 3 cựu lãnh đạo Sen Tài Thu](https://vnexpress.net/cong-an-tim-nan-nhan-dua-tien-trong-vu-an-3-cuu-lanh-dao-sen-tai-thu-4861779.html) - 10:56 15/03/2025
