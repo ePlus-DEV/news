@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Cô gái duy nhất trong top 10 gương mặt trẻ tiêu biểu toàn quân](https://vnexpress.net/co-gai-duy-nhat-trong-top-10-guong-mat-tre-tieu-bieu-toan-quan-4861738.html) - 23:00 15/03/2025
+- 🤓 [Nữ sinh duy nhất là gương mặt trẻ tiêu biểu toàn quân](https://vnexpress.net/nu-sinh-duy-nhat-la-guong-mat-tre-tieu-bieu-toan-quan-4861738.html) - 23:00 15/03/2025
 - 🦆 [Học ngành Quan hệ quốc tế ở trường nào?](https://vnexpress.net/hoc-nganh-quan-he-quoc-te-o-truong-nao-4861059.html) - 16:59 15/03/2025
 - 🦩 [Tỉnh nào ở miền Nam chỉ có 4 huyện?](https://vnexpress.net/tinh-nao-o-mien-nam-chi-co-4-huyen-4861796.html) - 13:37 15/03/2025
 - 🌮 [Nữ sinh lọt top điểm Toán THCS cao nhất thế giới](https://vnexpress.net/nu-sinh-lot-top-diem-toan-thcs-cao-nhat-the-gioi-4861697.html) - 08:49 15/03/2025
