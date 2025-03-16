@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Cầu thủ Việt kiều mờ nhạt, U22 Việt Nam bị đội hạng Nhì cầm hòa](https://dantri.com.vn/the-thao/cau-thu-viet-kieu-mo-nhat-u22-viet-nam-bi-doi-hang-nhi-cam-hoa-20250316204603589.htm) - 13:47 16/03/2025
-- 💯 [Arsenal 1-0 Chelsea &lpar;hiệp 1&rpar;: Merino mở tỷ số](https://dantri.com.vn/the-thao/arsenal-1-0-chelsea-hiep-1-merino-mo-ty-so-20250316201621564.htm) - 13:16 16/03/2025
+- 💯 [Đánh bại Chelsea, Arsenal tiếp tục bám đuổi Liverpool](https://dantri.com.vn/the-thao/danh-bai-chelsea-arsenal-tiep-tuc-bam-duoi-liverpool-20250316201621564.htm) - 13:16 16/03/2025
 - ⛽️ [Tuyển Indonesia bị đối thủ mỉa mai, được ví như &quot;Hà Lan 2&quot;](https://dantri.com.vn/the-thao/tuyen-indonesia-bi-doi-thu-mia-mai-duoc-vi-nhu-ha-lan-2-20250316191028354.htm) - 12:10 16/03/2025
 - 💃 [Đội tuyển Việt Nam xuất sắc vào chung kết giải billiards đồng đội thế giới](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-xuat-sac-vao-chung-ket-giai-billiards-dong-doi-the-gioi-20250316185515235.htm) - 12:02 16/03/2025
 - 🌈 [Ngắm vẻ đẹp và sự sang chảnh của con gái Madam Pang](https://dantri.com.vn/the-thao/ngam-ve-dep-va-su-sang-chanh-cua-con-gai-madam-pang-20250316184119135.htm) - 12:01 16/03/2025
