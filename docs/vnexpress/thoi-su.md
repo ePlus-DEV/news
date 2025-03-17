@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Đề xuất xây cầu vượt thép ở trung tâm Nha Trang để giảm ùn tắc](https://vnexpress.net/de-xuat-xay-cau-vuot-thep-o-trung-tam-nha-trang-de-giam-un-tac-4862170.html) - 03:19 17/03/2025
 - 🤓 [Cô gái trong vụ ôtô tông 10 xe máy đã tử vong](https://vnexpress.net/co-gai-trong-vu-oto-tong-10-xe-may-da-tu-vong-4862165.html) - 02:35 17/03/2025
 - ⚗️ [Nâng chiều cao tập thể Thành Công lên 40 tầng nhưng không tăng số dân](https://vnexpress.net/nang-chieu-cao-tap-the-thanh-cong-len-40-tang-nhung-khong-tang-so-dan-4862041.html) - 22:00 16/03/2025
-- 🌊 [Số lượng đơn vị hành chính cấp tỉnh cần sáp nhập đã được xác định](https://vnexpress.net/so-luong-don-vi-hanh-chinh-cap-tinh-can-sap-nhap-da-duoc-xac-dinh-4862044.html) - 15:59 16/03/2025
+- 🌊 [Số đơn vị hành chính cấp tỉnh cần sáp nhập đã được xác định](https://vnexpress.net/so-don-vi-hanh-chinh-cap-tinh-can-sap-nhap-da-duoc-xac-dinh-4862044.html) - 15:59 16/03/2025
 - 🎓 [Ôtô tông 10 xe máy ở ngã tư Thủ Đức](https://vnexpress.net/oto-tong-10-xe-may-o-nga-tu-thu-duc-4862016.html) - 11:49 16/03/2025
 - 🔥 [Đề xuất bố trí nhà và xe công vụ cho nhà khoa học đầu ngành](https://vnexpress.net/de-xuat-bo-tri-nha-va-xe-cong-vu-cho-nha-khoa-hoc-dau-nganh-4861591.html) - 11:18 16/03/2025
 - 🦏 [Cháy khách sạn ở TP HCM, 6 người được giải cứu](https://vnexpress.net/chay-khach-san-o-tp-hcm-6-nguoi-duoc-giai-cuu-4862005.html) - 10:41 16/03/2025
