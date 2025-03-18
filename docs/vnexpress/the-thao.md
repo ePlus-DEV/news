@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Bóng đá Trung Quốc được dự báo khó đột phá trong 10 năm tới](https://vnexpress.net/bong-da-trung-quoc-duoc-du-bao-kho-dot-pha-trong-10-nam-toi-4862926.html) - 09:47 18/03/2025
-- 🦩 [HLV Kim Sang-sik: &#39;Việt Nam cẩn trọng trước Campuchia&#39;](https://vnexpress.net/hlv-kim-sang-sik-viet-nam-can-trong-truoc-campuchia-4862928.html) - 09:42 18/03/2025
+- 🦩 [HLV Kim Sang-sik: &#39;Hạ Campuchia không dễ&#39;](https://vnexpress.net/hlv-kim-sang-sik-ha-campuchia-khong-de-4862928.html) - 09:42 18/03/2025
 - 🧰 [First Stand 2025 lập đỉnh lượng người xem trực tuyến](https://vnexpress.net/first-stand-2025-lap-dinh-luong-nguoi-xem-truc-tuyen-4862320.html) - 07:23 18/03/2025
 - 🤗 [Lewandowski chạm cột mốc của Messi](https://vnexpress.net/lewandowski-cham-cot-moc-cua-messi-4862752.html) - 06:54 18/03/2025
 - 🥳 [Đội đứng thứ 200 FIFA muốn gây bất ngờ trước Thái Lan](https://vnexpress.net/doi-dung-thu-200-fifa-muon-gay-bat-ngo-truoc-thai-lan-4862768.html) - 06:47 18/03/2025
