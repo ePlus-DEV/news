@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [HLV Kim Sang Sik: &quot;Campuchia tiến bộ nhanh, nhưng tuyển Việt Nam sẽ thắng&quot;](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-campuchia-tien-bo-nhanh-nhung-tuyen-viet-nam-se-thang-20250318164751569.htm) - 09:47 18/03/2025
+- 🎡 [HLV Kim Sang Sik: &quot;Campuchia có tiến bộ nhưng tuyển Việt Nam muốn thắng&quot;](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-campuchia-co-tien-bo-nhung-tuyen-viet-nam-muon-thang-20250318164751569.htm) - 09:47 18/03/2025
 - 💯 [Đội hình Indonesia cao giá nhất Đông Nam Á, đội tuyển Việt Nam xếp thứ 4](https://dantri.com.vn/the-thao/doi-hinh-indonesia-cao-gia-nhat-dong-nam-a-doi-tuyen-viet-nam-xep-thu-4-20250318132311347.htm) - 08:06 18/03/2025
 - ⛽️ [Messi nói về sự cố khiến anh rời tuyển Argentina trước trận gặp Brazil](https://dantri.com.vn/the-thao/messi-noi-ve-su-co-khien-anh-roi-tuyen-argentina-truoc-tran-gap-brazil-20250318124915831.htm) - 06:51 18/03/2025
 - 💃 [Báo Indonesia tin tưởng đội nhà đánh bại Australia trên sân khách](https://dantri.com.vn/the-thao/bao-indonesia-tin-tuong-doi-nha-danh-bai-australia-tren-san-khach-20250318110204617.htm) - 04:41 18/03/2025
