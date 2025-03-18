@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Ý chí thống nhất - cội nguồn sức mạnh chiến thắng 1975](https://vnexpress.net/y-chi-thong-nhat-coi-nguon-suc-manh-chien-thang-1975-4862876.html) - 10:51 18/03/2025
-- 🤓 [Loạt tiêm kích tập luyện để trình diễn dịp lễ 30/4](https://vnexpress.net/loat-tiem-kich-tap-luyen-de-trinh-dien-dip-le-30-4-4862844.html) - 10:28 18/03/2025
+- 🤓 [Tiêm kích tập luyện trên bầu trời phía Nam chuẩn bị trình diễn lễ 30/4](https://vnexpress.net/tiem-kich-tap-luyen-tren-bau-troi-phia-nam-chuan-bi-trinh-dien-le-30-4-4862844.html) - 10:28 18/03/2025
 - ⚗️ [Xây dựng đề án về doanh nghiệp công nghệ chiến lược](https://vnexpress.net/xay-dung-de-an-ve-doanh-nghiep-cong-nghe-chien-luoc-4862917.html) - 10:21 18/03/2025
 - 🌊 [Hàng chục nghìn người dự lễ hội Quán Thế Âm](https://vnexpress.net/hang-chuc-nghin-nguoi-du-le-hoi-quan-the-am-4862801.html) - 09:57 18/03/2025
 - 🎓 [Hoàn thành mở rộng không gian phía đông Hồ Gươm dịp 2/9](https://vnexpress.net/hoan-thanh-mo-rong-khong-gian-phia-dong-ho-guom-dip-2-9-4862820.html) - 09:18 18/03/2025
