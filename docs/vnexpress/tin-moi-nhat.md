@@ -29,7 +29,7 @@ sidebar_position: 9
 - 🐲 [Thủ tướng muốn doanh nghiệp Mỹ tăng rót vốn vào công nghệ cao, AI ở Việt Nam](https://vnexpress.net/thu-tuong-muon-doanh-nghiep-my-tang-rot-von-vao-cong-nghe-cao-ai-o-viet-nam-4863006.html) - 16:04 18/03/2025
 - 🌝 [Nam lập trình viên vô tính tìm tri kỷ](https://vnexpress.net/nam-lap-trinh-vien-vo-tinh-tim-tri-ky-4862033.html) - 16:00 18/03/2025
 - 😺 [Được &#39;bồi thường thanh xuân&#39; cho 12 năm nghỉ làm để chăm chồng con](https://vnexpress.net/duoc-nhan-boi-thuong-thanh-xuan-cho-12-nam-o-nha-cham-chong-con-4862953.html) - 15:45 18/03/2025
-- 🐎 [Ông Putin đồng ý ngừng tấn công hạ tầng năng lượng Ukraine trong 30 ngày](https://vnexpress.net/ong-putin-dong-y-ngung-tan-cong-ha-tang-nang-luong-ukraine-trong-30-ngay-4863005.html) - 15:25 18/03/2025
+- 🐎 [Nga đồng ý ngừng tấn công hạ tầng năng lượng Ukraine trong 30 ngày](https://vnexpress.net/nga-dong-y-ngung-tan-cong-ha-tang-nang-luong-ukraine-trong-30-ngay-4863005.html) - 15:25 18/03/2025
 - 🎡 [&#39;Việt Nam muốn học kinh nghiệm phát triển khu thương mại tự do của Trung Quốc&#39;](https://vnexpress.net/viet-nam-muon-hoc-kinh-nghiem-phat-trien-khu-thuong-mai-tu-do-cua-trung-quoc-4863000.html) - 15:19 18/03/2025
 - 👨‍🏫 [Bé hai tuổi ở Cao Bằng tử vong nghi do sởi](https://vnexpress.net/be-hai-tuoi-o-cao-bang-tu-vong-nghi-do-soi-4862923.html) - 15:16 18/03/2025
 - 🦆 [Mẹ quên tắt máy sấy tóc khiến con sơ sinh bỏng nặng](https://vnexpress.net/me-quen-tat-may-say-toc-khien-con-so-sinh-bong-nang-4862960.html) - 14:53 18/03/2025
