@@ -11,7 +11,7 @@ sidebar_position: 3
 - 🦅 [Siết kiểm tra chất vàng O, xuất khẩu rau quả sang Trung Quốc giảm mạnh](https://vnexpress.net/siet-kiem-tra-chat-vang-o-xuat-khau-rau-qua-sang-trung-quoc-giam-manh-4862818.html) - 09:33 18/03/2025
 - 😺 [Tiêu thụ &#39;bia cỏ&#39; tăng nhanh](https://vnexpress.net/tieu-thu-bia-co-tang-nhanh-4862806.html) - 09:30 18/03/2025
 - 🤩 [Tiền vào chứng khoán giảm mạnh](https://vnexpress.net/tien-vao-chung-khoan-giam-manh-4862893.html) - 09:12 18/03/2025
-- 🌮 [Doanh nghiệp nhà nước lãi chủ yếu nhờ cổ tức từ Honda, Toyota, Ford](https://vnexpress.net/doanh-nghiep-nha-nuoc-lai-chu-yeu-nho-co-tuc-tu-honda-toyota-ford-4862750.html) - 08:14 18/03/2025
+- 🌮 [Một doanh nghiệp nhà nước lãi chủ yếu nhờ cổ tức từ Honda, Toyota, Ford](https://vnexpress.net/mot-doanh-nghiep-nha-nuoc-lai-chu-yeu-nho-co-tuc-tu-honda-toyota-ford-4862750.html) - 08:14 18/03/2025
 - 🧰 [Ông Lê Phước Vũ: &#39;Chúng tôi không thiếu tiền&#39;](https://vnexpress.net/ong-le-phuoc-vu-chung-toi-khong-thieu-tien-4862810.html) - 07:30 18/03/2025
 - 🤔 [Mỹ phát hiện kho đất hiếm 8,4 tỷ USD từ tro than](https://vnexpress.net/my-phat-hien-kho-dat-hiem-8-4-ty-usd-tu-tro-than-4862748.html) - 07:20 18/03/2025
 - 🧑‍💻 [Người Việt chi hơn 300 tỷ mỗi ngày để uống cà phê, trà sữa](https://vnexpress.net/nguoi-viet-chi-hon-300-ty-moi-ngay-de-uong-ca-phe-tra-sua-4862691.html) - 05:29 18/03/2025
