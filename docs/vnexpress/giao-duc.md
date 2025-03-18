@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Tỉnh, thành nào có tỷ lệ người dân sở hữu nhà ở thấp nhất cả nước?](https://vnexpress.net/tinh-thanh-nao-co-ty-le-nguoi-dan-so-huu-nha-o-thap-nhat-ca-nuoc-4862974.html) - 14:45 18/03/2025
+- 🤓 [Trường chất lượng cao ở Hà Nội tuyển lớp 6 thế nào?](https://vnexpress.net/truong-chat-luong-cao-o-ha-noi-tuyen-lop-6-the-nao-4862203.html) - 16:12 18/03/2025
 - 🦆 [Đại học Dược Hà Nội công bố 4 phương thức xét tuyển](https://vnexpress.net/dai-hoc-duoc-ha-noi-cong-bo-4-phuong-thuc-xet-tuyen-4862879.html) - 13:12 18/03/2025
 - 🦩 [Lung lay về ngành học vì lo bị AI thay thế](https://vnexpress.net/lung-lay-ve-nganh-hoc-vi-lo-bi-ai-thay-the-4862417.html) - 12:00 18/03/2025
 - 🌮 [Harvard miễn học phí cho nhóm thu nhập dưới 200.000 USD](https://vnexpress.net/harvard-mien-hoc-phi-cho-nhom-thu-nhap-duoi-200-000-usd-4862882.html) - 08:46 18/03/2025
