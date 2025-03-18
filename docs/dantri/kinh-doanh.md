@@ -4,10 +4,10 @@ sidebar_position: 5
 ---
 
 <!-- dantri-kinh-doanh:START -->
-- 🏊 [Từng nói &quot;ngu gì không làm&quot; Cà Ná, ông Lê Phước Vũ giờ bảo không làm là may](https://dantri.com.vn/kinh-doanh/tung-noi-ngu-gi-khong-lam-ca-na-ong-le-phuoc-vu-gio-bao-khong-lam-la-may-20250318122239412.htm) - 06:08 18/03/2025
-- 🦆 [Dùng xe công vượt định mức, Văn phòng Bộ Công Thương rà soát](https://dantri.com.vn/kinh-doanh/dung-xe-cong-vuot-dinh-muc-van-phong-bo-cong-thuong-ra-soat-20250318121030547.htm) - 05:56 18/03/2025
-- 🦄 [Bitcoin, lá chắn chống lạm phát hay chỉ là &quot;ru ngủ&quot;?](https://dantri.com.vn/kinh-doanh/bitcoin-la-chan-chong-lam-phat-hay-chi-la-ru-ngu-20250317131318699.htm) - 05:47 18/03/2025
-- 🌝 [Chưa từng có: Giá vàng vượt 97 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/chua-tung-co-gia-vang-vuot-97-trieu-dongluong-20250318004527449.htm) - 04:29 18/03/2025
+- 🏊 [Chưa từng có: Giá vàng nhẫn lên gần 98 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/chua-tung-co-gia-vang-nhan-len-gan-98-trieu-dongluong-20250318004527449.htm) - 08:11 18/03/2025
+- 🦆 [Từng nói &quot;ngu gì không làm&quot; Cà Ná, ông Lê Phước Vũ giờ bảo không làm là may](https://dantri.com.vn/kinh-doanh/tung-noi-ngu-gi-khong-lam-ca-na-ong-le-phuoc-vu-gio-bao-khong-lam-la-may-20250318122239412.htm) - 06:08 18/03/2025
+- 🦄 [Dùng xe công vượt định mức, Văn phòng Bộ Công Thương rà soát](https://dantri.com.vn/kinh-doanh/dung-xe-cong-vuot-dinh-muc-van-phong-bo-cong-thuong-ra-soat-20250318121030547.htm) - 05:56 18/03/2025
+- 🌝 [Bitcoin, lá chắn chống lạm phát hay chỉ là &quot;ru ngủ&quot;?](https://dantri.com.vn/kinh-doanh/bitcoin-la-chan-chong-lam-phat-hay-chi-la-ru-ngu-20250317131318699.htm) - 05:47 18/03/2025
 - 💃 [THACO Industries từng bước hình thành trung tâm sản xuất linh kiện tầm khu vực](https://dantri.com.vn/kinh-doanh/thaco-industries-tung-buoc-hinh-thanh-trung-tam-san-xuat-linh-kien-tam-khu-vuc-20250318093328490.htm) - 03:00 18/03/2025
 - 🦏 [Công ty của Hoa hậu Đỗ Thị Hà bác bỏ thông tin giải thể](https://dantri.com.vn/kinh-doanh/cong-ty-cua-hoa-hau-do-thi-ha-bac-bo-thong-tin-giai-the-20250317211441941.htm) - 02:50 18/03/2025
 - 🦩 [Baidu tuyên chiến DeepSeek: Ra mắt AI miễn phí, mạnh mẽ hơn GPT-4.5](https://dantri.com.vn/kinh-doanh/baidu-tuyen-chien-deepseek-ra-mat-ai-mien-phi-manh-me-hon-gpt-45-20250317112913231.htm) - 00:42 18/03/2025
