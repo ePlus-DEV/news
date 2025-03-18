@@ -406,8 +406,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Chỉ số MXV-Index tiến sát mốc 2.300 điểm](https://baochinhphu.vn/chi-so-mxv-index-tien-sat-moc-2300-diem-102250318100426782.htm) - 10:13 18/03/2025
-- 🌜 [CẬP NHẬT: Phiên họp thứ nhất Ban Chỉ đạo của Chính phủ về phát triển KHCN, đổi mới sáng tạo, chuyển đổi số và Đề án 06](https://baochinhphu.vn/tong-thuat-phien-hop-thu-nhat-ban-chi-dao-cua-chinh-phu-ve-phat-trien-khcn-doi-moi-sang-tao-chuyen-doi-so-va-de-an-06-102250318081628258.htm) - 10:00 18/03/2025
+- 💻 [CẬP NHẬT: Phiên họp thứ nhất Ban Chỉ đạo của Chính phủ về phát triển KHCN, đổi mới sáng tạo, chuyển đổi số và Đề án 06](https://baochinhphu.vn/tong-thuat-phien-hop-thu-nhat-ban-chi-dao-cua-chinh-phu-ve-phat-trien-khcn-doi-moi-sang-tao-chuyen-doi-so-va-de-an-06-102250318081628258.htm) - 10:21 18/03/2025
+- 🌜 [Chỉ số MXV-Index tiến sát mốc 2.300 điểm](https://baochinhphu.vn/chi-so-mxv-index-tien-sat-moc-2300-diem-102250318100426782.htm) - 10:13 18/03/2025
 - 🦆 [Thiếu vật liệu xây cao tốc, công nhân thi công &#39;cầm chừng&#39;](https://baochinhphu.vn/thieu-vat-lieu-xay-cao-toc-cong-nhan-thi-cong-cam-chung-102250318083728182.htm) - 09:33 18/03/2025
 - 🌝 [Infographics: Đẩy nhanh tiêm chủng vaccine phòng, chống bệnh Sởi](https://baochinhphu.vn/infographics-day-nhanh-tiem-chung-vaccine-phong-chong-benh-soi-102250317105925701.htm) - 09:18 18/03/2025
 - 🦣 [63 Cục Quản lý thị trường chính thức được chuyển giao về các địa phương](https://baochinhphu.vn/63-cuc-quan-ly-thi-truong-chinh-thuc-duoc-chuyen-giao-ve-cac-dia-phuong-102250318085305676.htm) - 09:11 18/03/2025
