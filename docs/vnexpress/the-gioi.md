@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Dàn tên lửa Houthi khiến tàu sân bay Mỹ phải dè chừng](https://vnexpress.net/dan-ten-lua-houthi-khien-tau-san-bay-my-phai-de-chung-4862271.html) - 18:00 18/03/2025
 - 🕴 [Cuộc chiến giữa ông Trump và các thẩm phán về quyền trục xuất](https://vnexpress.net/cuoc-chien-giua-ong-trump-va-cac-tham-phan-ve-quyen-truc-xuat-4862641.html) - 17:00 18/03/2025
-- 🤭 [Ông Putin đồng ý ngừng tấn công hạ tầng năng lượng Ukraine trong 30 ngày](https://vnexpress.net/ong-putin-dong-y-ngung-tan-cong-ha-tang-nang-luong-ukraine-trong-30-ngay-4863005.html) - 15:25 18/03/2025
+- 🤭 [Nga đồng ý ngừng tấn công hạ tầng năng lượng Ukraine trong 30 ngày](https://vnexpress.net/nga-dong-y-ngung-tan-cong-ha-tang-nang-luong-ukraine-trong-30-ngay-4863005.html) - 15:25 18/03/2025
 - 🧑‍💻 [Cảnh tang thương tại Dải Gaza sau khi Israel không kích](https://vnexpress.net/canh-tang-thuong-tai-dai-gaza-sau-khi-israel-khong-kich-4862969.html) - 12:41 18/03/2025
 - 🦏 [Điện đàm Tổng thống Mỹ - Nga có thể định đoạt chiến sự Ukraine](https://vnexpress.net/dien-dam-tong-thong-my-nga-co-the-dinh-doat-chien-su-ukraine-4862587.html) - 12:00 18/03/2025
 - 🦒 [Khoảnh khắc ông Trump nói đùa sau khi bị quệt micro vào mặt](https://vnexpress.net/khoanh-khac-ong-trump-noi-dua-sau-khi-bi-quet-micro-vao-mat-4862921.html) - 11:49 18/03/2025
