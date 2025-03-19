@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Golfer trẻ Việt Nam khởi đầu thuận lợi tại Lexus Challenge 2025](https://vnexpress.net/golfer-tre-viet-nam-khoi-dau-thuan-loi-tai-lexus-challenge-2025-4863446.html) - 12:52 19/03/2025
-- 🦩 [Việt Nam thắng sát nút Campuchia](https://vnexpress.net/viet-nam-thang-sat-nut-campuchia-4863428.html) - 11:48 19/03/2025
+- 🦩 [Việt Nam thắng sát nút Campuchia](https://vnexpress.net/viet-nam-thang-sat-nut-campuchia-4863428-tong-thuat.html) - 11:48 19/03/2025
 - 🧰 [Hậu vệ Jason Quang Vinh Pendant trở thành công dân Việt Nam](https://vnexpress.net/hau-ve-jason-quang-vinh-pendant-tro-thanh-cong-dan-viet-nam-4863417.html) - 11:23 19/03/2025
 - 🤗 [Andreeva - hơn cả một thần đồng quần vợt](https://vnexpress.net/andreeva-hon-ca-mot-than-dong-quan-vot-4863285.html) - 08:57 19/03/2025
 - 🥳 [VnExpress Marathon Quy Nhơn trở lại với vai trò mới](https://vnexpress.net/vnexpress-marathon-quy-nhon-tro-lai-voi-vai-tro-moi-4863149.html) - 08:45 19/03/2025
