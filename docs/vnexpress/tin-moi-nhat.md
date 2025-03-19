@@ -28,7 +28,7 @@ sidebar_position: 9
 - 🧑‍💻 [Ngáp nhiều có phải dấu hiệu đột quỵ?](https://vnexpress.net/ngap-nhieu-co-phai-dau-hieu-dot-quy-4863227.html) - 12:00 19/03/2025
 - 🐲 [Gây án mạng vì nhớ thù xưa](https://vnexpress.net/gay-an-mang-vi-nho-thu-xua-4863430.html) - 11:59 19/03/2025
 - 🌝 [Ôtô khách bị xe tải tông trên đèo, 7 người bị thương](https://vnexpress.net/oto-khach-bi-xe-tai-tong-tren-deo-7-nguoi-bi-thuong-4863427.html) - 11:50 19/03/2025
-- 😺 [Việt Nam 2-1 Campuchia &lpar;H2&rpar;: HLV Kim Sang-sik nổi cáu](https://vnexpress.net/viet-nam-2-1-campuchia-h2-hlv-kim-sang-sik-noi-cau-4863428.html) - 11:48 19/03/2025
+- 😺 [Việt Nam thắng sát nút Campuchia](https://vnexpress.net/viet-nam-thang-sat-nut-campuchia-4863428.html) - 11:48 19/03/2025
 - 🐎 [Nga &#39;tự bắn hạ UAV tấn công Ukraine&#39; sau điện đàm Trump - Putin](https://vnexpress.net/nga-tu-ban-ha-uav-tan-cong-ukraine-sau-dien-dam-trump-putin-4863423.html) - 11:44 19/03/2025
 - 🎡 [Phân bổ nguồn lực khoa học công nghệ dựa trên hiệu quả](https://vnexpress.net/phan-bo-nguon-luc-khoa-hoc-cong-nghe-dua-tren-hieu-qua-4863413.html) - 11:40 19/03/2025
 - 👨‍🏫 [Mở toa tàu hạng sang tuyến Hà Nội - Hải Phòng](https://vnexpress.net/mo-toa-tau-hang-sang-tuyen-ha-noi-hai-phong-4863416.html) - 11:33 19/03/2025
@@ -50,7 +50,7 @@ sidebar_position: 9
 - 🎊 [Đổ đi mua vàng khi giá lập đỉnh 100 triệu đồng](https://vnexpress.net/do-di-mua-vang-khi-gia-lap-dinh-100-trieu-dong-4863376.html) - 10:40 19/03/2025
 - 👺 [Tôm kho tàu kiểu miền Tây](https://vnexpress.net/doi-song-cooking-tom-kho-tau-kieu-mien-tay-4862728.html) - 10:31 19/03/2025
 - 🎡 [Thi thể cụ bà nhiều vết thương ở dưới ao](https://vnexpress.net/thi-the-cu-ba-nhieu-vet-thuong-o-duoi-ao-4863394.html) - 10:10 19/03/2025
-- 👍 [Điểm tin 17h: Giá vàng nhẫn lên 100 triệu đồng | Đặt 18 khẩu pháo ở công viên bến Bạch Đằng phục vụ lễ 30/4](https://vnexpress.net/diem-tin-17h-gia-vang-nhan-len-100-trieu-dong-dat-18-khau-phao-o-cong-vien-ben-bach-dang-phuc-vu-le-30-4-4863396.html) - 10:08 19/03/2025
+- 👍 [Điểm tin 21h: Lý Hoàng Nam nghỉ tennis, chuyển sang pickleball | Quận 1 muốn thí điểm kinh doanh ở chung cư](https://vnexpress.net/diem-tin-21h-ly-hoang-nam-nghi-tennis-chuyen-sang-pickleball-quan-1-muon-thi-diem-kinh-doanh-o-chung-cu-4863396.html) - 10:08 19/03/2025
 - 🐎 [Báo giấy đầu tiên thực hiện hoàn toàn bằng AI](https://vnexpress.net/bao-giay-dau-tien-thuc-hien-hoan-toan-bang-ai-4863324.html) - 10:06 19/03/2025
 - 🏊 [Người lấn chiếm hàng nghìn m2 đất dọa chém quân nhân](https://vnexpress.net/nguoi-lan-chiem-hang-nghin-m2-dat-doa-chem-quan-nhan-4863375.html) - 10:02 19/03/2025
 - 🦩 [Sai lầm chạy đua năng suất với AI khiến nhiều người mất việc](https://vnexpress.net/sai-lam-chay-dua-nang-suat-voi-ai-khien-nhieu-nguoi-mat-viec-4863279.html) - 10:00 19/03/2025
