@@ -4,63 +4,63 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Cacao tăng giá gấp đôi, lên 260.000 đồng mỗi kg](https://vnexpress.net/cacao-tang-gia-gap-doi-len-260-000-dong-moi-kg-4863501.html) - 04:27 20/03/2025
-- 🐲 [Tetra Pak ra mắt dòng bao thực phẩm chịu nhiệt trên 100 độ C](https://vnexpress.net/tetra-pak-ra-mat-dong-bao-thuc-pham-chiu-nhiet-tren-100-do-c-4862598.html) - 04:00 20/03/2025
-- 🔥 [Nhẫn trơn lên gần 101 triệu đồng](https://vnexpress.net/nhan-tron-len-gan-101-trieu-moi-luong-4863580.html) - 02:52 20/03/2025
-- 🐵 [Thẩm phán chặn chính quyền Trump đóng băng 14 tỷ USD tài trợ khí hậu](https://vnexpress.net/tham-phan-chan-chinh-quyen-trump-dong-bang-14-ty-usd-tai-tro-khi-hau-4863572.html) - 02:30 20/03/2025
-- 🦅 [Xanh SM và VinClub triển khai liên kết tài khoản tự động](https://vnexpress.net/xanh-sm-va-vinclub-trien-khai-lien-ket-tai-khoan-tu-dong-4863484.html) - 02:00 20/03/2025
-- 😺 [Giá vàng thế giới chưa dứt chuỗi tăng kỷ lục](https://vnexpress.net/gia-vang-the-gioi-chua-dut-chuoi-tang-ky-luc-4863523.html) - 01:17 20/03/2025
-- 🤩 [Chiến lược đầu tư cho Esports chuyên nghiệp của Hanwha Life](https://vnexpress.net/chien-luoc-dau-tu-cho-esports-chuyen-nghiep-cua-hanwha-life-4863443.html) - 01:00 20/03/2025
-- 🌮 [&#39;Chứng khoán khó bị bán tháo ồ ạt&#39;](https://vnexpress.net/chung-khoan-kho-bi-ban-thao-o-at-4863525.html) - 00:51 20/03/2025
-- 🧰 [Fed tiếp tục giữ nguyên lãi suất](https://vnexpress.net/fed-tiep-tuc-giu-nguyen-lai-suat-4863499.html) - 19:13 19/03/2025
-- 🤔 [Những cổ phiếu sinh lời tốt hơn vàng](https://vnexpress.net/nhung-co-phieu-sinh-loi-tot-hon-vang-4863358.html) - 17:15 19/03/2025
-- 🧑‍💻 [Kinh tế toàn cầu dự báo chậm lại](https://vnexpress.net/kinh-te-toan-cau-du-bao-cham-lai-4863406.html) - 17:02 19/03/2025
-- 🕴 [Người Việt chưa nới hầu bao](https://vnexpress.net/nguoi-viet-chua-noi-hau-bao-4862891.html) - 17:00 19/03/2025
-- 🦩 [Phó thủ tướng đề nghị Thâm Quyến chia sẻ kinh nghiệm phát triển kinh tế tư nhân](https://vnexpress.net/pho-thu-tuong-de-nghi-tham-quyen-chia-se-kinh-nghiem-phat-trien-kinh-te-tu-nhan-4863468.html) - 15:15 19/03/2025
-- 👍 [Hungary sẵn sàng giúp đào tạo 1.000 chuyên gia vận hành điện hạt nhân](https://vnexpress.net/hungary-san-sang-giup-dao-tao-1-000-chuyen-gia-van-hanh-dien-hat-nhan-4863452.html) - 14:11 19/03/2025
-- 🏊 [Bamboo Capital có chủ tịch mới sau khi người tiền nhiệm qua đời](https://vnexpress.net/bamboo-capital-co-chu-tich-moi-sau-khi-nguoi-tien-nhiem-qua-doi-4863429.html) - 11:33 19/03/2025
-- 🤡 [Chủ tịch TP HCM: Ăn nhậu ở vỉa hè không phải kinh tế đêm](https://vnexpress.net/chu-tich-tp-hcm-an-nhau-o-via-he-khong-phai-kinh-te-dem-4863412.html) - 11:23 19/03/2025
-- 👀 [Hai con gái chủ tịch OCB muốn bán gần 4% vốn ngân hàng](https://vnexpress.net/hai-con-gai-chu-tich-ocb-muon-ban-gan-4-von-ngan-hang-4863414.html) - 10:54 19/03/2025
-- 😺 [Đổ đi mua vàng khi giá lập đỉnh 100 triệu đồng](https://vnexpress.net/do-di-mua-vang-khi-gia-lap-dinh-100-trieu-dong-4863376.html) - 10:40 19/03/2025
-- 🦣 [Nhật Bản giữ nguyên lãi suất ở mức gần 0%](https://vnexpress.net/nhat-ban-giu-nguyen-lai-suat-o-muc-gan-0-4863320.html) - 09:20 19/03/2025
-- 😺 [Chứng khoán giảm phiên thứ hai liên tiếp](https://vnexpress.net/chung-khoan-giam-phien-thu-hai-lien-tiep-4863355.html) - 08:57 19/03/2025
-- 💼 [Chen chân chờ ba tiếng được mua nửa chỉ vàng](https://video.vnexpress.net/chen-chan-cho-ba-tieng-duoc-mua-nua-chi-vang-4863303.html) - 08:11 19/03/2025
-- 🤗 [Hưng Thịnh thoái vốn khỏi Vietravel](https://vnexpress.net/hung-thinh-thoai-von-khoi-vietravel-4863243.html) - 05:50 19/03/2025
-- 👀 [Ông Putin cảnh báo doanh nghiệp phương Tây khó quay lại Nga](https://vnexpress.net/ong-putin-canh-bao-doanh-nghiep-phuong-tay-kho-quay-lai-nga-4863113.html) - 05:39 19/03/2025
-- 🎓 [Phó thủ tướng muốn tập đoàn Anh đầu tư vào trung tâm tài chính quốc tế Việt Nam](https://vnexpress.net/pho-thu-tuong-muon-tap-doan-anh-dau-tu-vao-trung-tam-tai-chinh-quoc-te-viet-nam-4863214.html) - 04:55 19/03/2025
-- 🗽 [Giá tín chỉ carbon tự nguyện Trung Quốc tăng cao khi mở lại sàn giao dịch](https://vnexpress.net/gia-tin-chi-carbon-tu-nguyen-trung-quoc-tang-cao-khi-mo-lai-san-giao-dich-4863128.html) - 04:42 19/03/2025
-- 🚀 [Doanh nhân Hàn Quốc làm CEO Sunshine Homes](https://vnexpress.net/doanh-nhan-han-quoc-lam-ceo-sunshine-homes-4863114.html) - 04:15 19/03/2025
-- 🤗 [Giá vàng nhẫn lên 100 triệu đồng](https://vnexpress.net/vang-nhan-tron-gan-can-moc-100-trieu-dong-4863153.html) - 03:42 19/03/2025
-- 🌜 [Công ty mẹ Google mua startup an ninh mạng giá 32 tỷ USD](https://vnexpress.net/cong-ty-me-google-mua-startup-an-ninh-mang-gia-32-ty-usd-4863038.html) - 02:10 19/03/2025
-- 👍 [Mẹo đọc báo cáo tài chính dành cho đầu tư chứng khoán](https://vnexpress.net/meo-doc-bao-cao-tai-chinh-danh-cho-dau-tu-chung-khoan-4862943.html) - 02:00 19/03/2025
-- 🤖 [Loạt ngân hàng giảm lãi suất tiết kiệm](https://vnexpress.net/loat-ngan-hang-giam-lai-suat-tiet-kiem-4863026.html) - 23:16 18/03/2025
-- 🫣 [Audi sẽ giảm 7.500 việc làm](https://vnexpress.net/audi-se-giam-7-500-viec-lam-4862984.html) - 17:05 18/03/2025
-- 🌏 [Thủ tướng muốn doanh nghiệp Mỹ tăng rót vốn vào công nghệ cao, AI ở Việt Nam](https://vnexpress.net/thu-tuong-muon-doanh-nghiep-my-tang-rot-von-vao-cong-nghe-cao-ai-o-viet-nam-4863006.html) - 16:04 18/03/2025
-- ⚗️ [&#39;Việt Nam muốn học kinh nghiệm phát triển khu thương mại tự do của Trung Quốc&#39;](https://vnexpress.net/viet-nam-muon-hoc-kinh-nghiem-phat-trien-khu-thuong-mai-tu-do-cua-trung-quoc-4863000.html) - 15:19 18/03/2025
-- 🕯 [Giá vàng thế giới bỏ xa mốc 3.000 USD](https://vnexpress.net/gia-vang-the-gioi-bo-xa-moc-3-000-usd-4862994.html) - 14:42 18/03/2025
-- 👍 [Giá euro lên cao nhất 5 tháng](https://vnexpress.net/gia-euro-len-cao-nhat-5-thang-4862975.html) - 13:18 18/03/2025
-- 🤠 [GS25 khai trương 6 cửa hàng tại Hà Nội](https://vnexpress.net/gs25-khai-truong-6-cua-hang-tai-ha-noi-4862590.html) - 12:00 18/03/2025
-- 🌊 [MobiFone cung cấp gói cước cho học sinh](https://vnexpress.net/mobifone-cung-cap-goi-cuoc-cho-hoc-sinh-4862804.html) - 10:00 18/03/2025
-- 🌈 [Ông Tập sắp gặp nhiều CEO nước ngoài](https://vnexpress.net/ong-tap-sap-gap-nhieu-ceo-nuoc-ngoai-4862828.html) - 09:47 18/03/2025
-- 🥳 [Siết kiểm tra chất vàng O, xuất khẩu rau quả sang Trung Quốc giảm mạnh](https://vnexpress.net/siet-kiem-tra-chat-vang-o-xuat-khau-rau-qua-sang-trung-quoc-giam-manh-4862818.html) - 09:33 18/03/2025
-- 🐻 [Tiêu thụ &#39;bia cỏ&#39; tăng nhanh](https://vnexpress.net/tieu-thu-bia-co-tang-nhanh-4862806.html) - 09:30 18/03/2025
-- 💫 [Tiền vào chứng khoán giảm mạnh](https://vnexpress.net/tien-vao-chung-khoan-giam-manh-4862893.html) - 09:12 18/03/2025
-- 🤩 [Một doanh nghiệp nhà nước lãi chủ yếu nhờ cổ tức từ Honda, Toyota, Ford](https://vnexpress.net/mot-doanh-nghiep-nha-nuoc-lai-chu-yeu-nho-co-tuc-tu-honda-toyota-ford-4862750.html) - 08:14 18/03/2025
-- 💻 [Ông Lê Phước Vũ: &#39;Chúng tôi không thiếu tiền&#39;](https://vnexpress.net/ong-le-phuoc-vu-chung-toi-khong-thieu-tien-4862810.html) - 07:30 18/03/2025
-- ⚗️ [Mỹ phát hiện kho đất hiếm 8,4 tỷ USD từ tro than](https://vnexpress.net/my-phat-hien-kho-dat-hiem-8-4-ty-usd-tu-tro-than-4862748.html) - 07:20 18/03/2025
-- 🌈 [Người Việt chi hơn 300 tỷ mỗi ngày để uống cà phê, trà sữa](https://vnexpress.net/nguoi-viet-chi-hon-300-ty-moi-ngay-de-uong-ca-phe-tra-sua-4862691.html) - 05:29 18/03/2025
-- 🌝 [Trung Quốc cho phép nhập khẩu lại nhiều loại thịt lợn, gia cầm Mỹ](https://vnexpress.net/trung-quoc-cho-phep-nhap-khau-lai-nhieu-loai-thit-lon-gia-cam-my-4862669.html) - 04:50 18/03/2025
-- 🥸 [Giá vàng nhẫn tiến sát 99 triệu đồng](https://vnexpress.net/vang-nhan-tron-vuot-97-trieu-dong-mot-luong-4862627.html) - 03:19 18/03/2025
-- 🦆 [Tài sản gia đình ông Bùi Thành Nhơn giảm 92% trong 3 năm](https://vnexpress.net/tai-san-gia-dinh-ong-bui-thanh-nhon-giam-92-trong-3-nam-4862566.html) - 01:05 18/03/2025
-- 🌋 [Giá vàng thế giới lên lại mốc 3.000 USD](https://vnexpress.net/gia-vang-the-gioi-len-lai-moc-3-000-usd-4862557.html) - 01:02 18/03/2025
-- 🦍 [&#39;Kế hoạch đặc biệt&#39; để kích cầu tiêu dùng của Trung Quốc](https://vnexpress.net/ke-hoach-dac-biet-de-kich-cau-tieu-dung-cua-trung-quoc-4862408.html) - 00:34 18/03/2025
-- 🤔 [Tỷ phú giàu thứ hai Hong Kong qua đời ở tuổi 97](https://vnexpress.net/ty-phu-giau-thu-hai-hong-kong-qua-doi-o-tuoi-97-4862547.html) - 00:15 18/03/2025
-- 🧰 [Phó thủ tướng mời Standard Chartered tham gia trung tâm tài chính quốc tế tại Việt Nam](https://vnexpress.net/pho-thu-tuong-moi-standard-chartered-tham-gia-trung-tam-tai-chinh-quoc-te-tai-viet-nam-4862494.html) - 15:41 17/03/2025
-- 🌝 [&#39;Cá mập&#39; trăm tỷ USD VanEck muốn mở quỹ Bitcoin tại Việt Nam](https://vnexpress.net/ca-map-tram-ty-usd-vaneck-muon-mo-quy-bitcoin-tai-viet-nam-4862514.html) - 15:18 17/03/2025
-- 👍 [Chủ tịch Bamboo Capital đột ngột qua đời](https://vnexpress.net/chu-tich-bamboo-capital-dot-ngot-qua-doi-4862376.html) - 09:42 17/03/2025
-- 🗽 [Cổ phiếu ngân hàng, bất động sản giúp VN-Index tăng vọt](https://vnexpress.net/co-phieu-ngan-hang-bat-dong-san-giup-vn-index-tang-vot-4862382.html) - 09:09 17/03/2025
-- 🐎 [Ông Trump sẽ không áp dụng miễn trừ với thuế nhôm, thép](https://vnexpress.net/ong-trump-se-khong-ap-dung-mien-tru-voi-thue-nhom-thep-4862272.html) - 08:18 17/03/2025
-- 🪄 [Con trai ông Bùi Thành Nhơn muốn bán gần 3 triệu cổ phiếu Novaland](https://vnexpress.net/con-trai-ong-bui-thanh-nhon-muon-ban-gan-3-trieu-co-phieu-novaland-4862351.html) - 08:10 17/03/2025
-- 🎊 [Hãng thời trang giá rẻ Forever 21 nộp đơn xin phá sản](https://vnexpress.net/hang-thoi-trang-gia-re-forever-21-nop-don-xin-pha-san-4862245.html) - 06:32 17/03/2025
-- 🗽 [Giá vàng nhẫn lập kỷ lục gần 97 triệu đồng](https://vnexpress.net/vang-nhan-lap-ky-luc-gan-97-trieu-dong-4862242.html) - 04:47 17/03/2025
-- 🦩 [Bộ trưởng Tài chính Mỹ: Không loại trừ nguy cơ kinh tế suy thoái](https://vnexpress.net/bo-truong-tai-chinh-my-khong-loai-tru-nguy-co-kinh-te-suy-thoai-4862192.html) - 04:28 17/03/2025<!-- vnexpress-kinh-doanh:END -->
+- ⛽️ [Ông Trump tiếp tục giục Fed giảm lãi suất](https://vnexpress.net/ong-trump-tiep-tuc-giuc-fed-giam-lai-suat-4863593.html) - 04:50 20/03/2025
+- 🐲 [Cacao tăng giá gấp đôi, lên 260.000 đồng một kg](https://vnexpress.net/cacao-tang-gia-gap-doi-len-260-000-dong-mot-kg-4863501.html) - 04:27 20/03/2025
+- 🔥 [Tetra Pak ra mắt dòng bao thực phẩm chịu nhiệt trên 100 độ C](https://vnexpress.net/tetra-pak-ra-mat-dong-bao-thuc-pham-chiu-nhiet-tren-100-do-c-4862598.html) - 04:00 20/03/2025
+- 🐵 [Nhẫn trơn lên gần 101 triệu đồng](https://vnexpress.net/nhan-tron-len-gan-101-trieu-moi-luong-4863580.html) - 02:52 20/03/2025
+- 🦅 [Thẩm phán chặn chính quyền Trump đóng băng 14 tỷ USD tài trợ khí hậu](https://vnexpress.net/tham-phan-chan-chinh-quyen-trump-dong-bang-14-ty-usd-tai-tro-khi-hau-4863572.html) - 02:30 20/03/2025
+- 😺 [Xanh SM và VinClub triển khai liên kết tài khoản tự động](https://vnexpress.net/xanh-sm-va-vinclub-trien-khai-lien-ket-tai-khoan-tu-dong-4863484.html) - 02:00 20/03/2025
+- 🤩 [Giá vàng thế giới chưa dứt chuỗi tăng kỷ lục](https://vnexpress.net/gia-vang-the-gioi-chua-dut-chuoi-tang-ky-luc-4863523.html) - 01:17 20/03/2025
+- 🌮 [Chiến lược đầu tư cho Esports chuyên nghiệp của Hanwha Life](https://vnexpress.net/chien-luoc-dau-tu-cho-esports-chuyen-nghiep-cua-hanwha-life-4863443.html) - 01:00 20/03/2025
+- 🧰 [&#39;Chứng khoán khó bị bán tháo ồ ạt&#39;](https://vnexpress.net/chung-khoan-kho-bi-ban-thao-o-at-4863525.html) - 00:51 20/03/2025
+- 🤔 [Fed tiếp tục giữ nguyên lãi suất](https://vnexpress.net/fed-tiep-tuc-giu-nguyen-lai-suat-4863499.html) - 19:13 19/03/2025
+- 🧑‍💻 [Những cổ phiếu sinh lời tốt hơn vàng](https://vnexpress.net/nhung-co-phieu-sinh-loi-tot-hon-vang-4863358.html) - 17:15 19/03/2025
+- 🕴 [Kinh tế toàn cầu dự báo chậm lại](https://vnexpress.net/kinh-te-toan-cau-du-bao-cham-lai-4863406.html) - 17:02 19/03/2025
+- 🦩 [Người Việt chưa nới hầu bao](https://vnexpress.net/nguoi-viet-chua-noi-hau-bao-4862891.html) - 17:00 19/03/2025
+- 👍 [Phó thủ tướng đề nghị Thâm Quyến chia sẻ kinh nghiệm phát triển kinh tế tư nhân](https://vnexpress.net/pho-thu-tuong-de-nghi-tham-quyen-chia-se-kinh-nghiem-phat-trien-kinh-te-tu-nhan-4863468.html) - 15:15 19/03/2025
+- 🏊 [Hungary sẵn sàng giúp đào tạo 1.000 chuyên gia vận hành điện hạt nhân](https://vnexpress.net/hungary-san-sang-giup-dao-tao-1-000-chuyen-gia-van-hanh-dien-hat-nhan-4863452.html) - 14:11 19/03/2025
+- 🤡 [Bamboo Capital có chủ tịch mới sau khi người tiền nhiệm qua đời](https://vnexpress.net/bamboo-capital-co-chu-tich-moi-sau-khi-nguoi-tien-nhiem-qua-doi-4863429.html) - 11:33 19/03/2025
+- 👀 [Chủ tịch TP HCM: Ăn nhậu ở vỉa hè không phải kinh tế đêm](https://vnexpress.net/chu-tich-tp-hcm-an-nhau-o-via-he-khong-phai-kinh-te-dem-4863412.html) - 11:23 19/03/2025
+- 😺 [Hai con gái chủ tịch OCB muốn bán gần 4% vốn ngân hàng](https://vnexpress.net/hai-con-gai-chu-tich-ocb-muon-ban-gan-4-von-ngan-hang-4863414.html) - 10:54 19/03/2025
+- 🦣 [Đổ đi mua vàng khi giá lập đỉnh 100 triệu đồng](https://vnexpress.net/do-di-mua-vang-khi-gia-lap-dinh-100-trieu-dong-4863376.html) - 10:40 19/03/2025
+- 😺 [Nhật Bản giữ nguyên lãi suất ở mức gần 0%](https://vnexpress.net/nhat-ban-giu-nguyen-lai-suat-o-muc-gan-0-4863320.html) - 09:20 19/03/2025
+- 💼 [Chứng khoán giảm phiên thứ hai liên tiếp](https://vnexpress.net/chung-khoan-giam-phien-thu-hai-lien-tiep-4863355.html) - 08:57 19/03/2025
+- 🤗 [Chen chân chờ ba tiếng được mua nửa chỉ vàng](https://video.vnexpress.net/chen-chan-cho-ba-tieng-duoc-mua-nua-chi-vang-4863303.html) - 08:11 19/03/2025
+- 👀 [Hưng Thịnh thoái vốn khỏi Vietravel](https://vnexpress.net/hung-thinh-thoai-von-khoi-vietravel-4863243.html) - 05:50 19/03/2025
+- 🎓 [Ông Putin cảnh báo doanh nghiệp phương Tây khó quay lại Nga](https://vnexpress.net/ong-putin-canh-bao-doanh-nghiep-phuong-tay-kho-quay-lai-nga-4863113.html) - 05:39 19/03/2025
+- 🗽 [Phó thủ tướng muốn tập đoàn Anh đầu tư vào trung tâm tài chính quốc tế Việt Nam](https://vnexpress.net/pho-thu-tuong-muon-tap-doan-anh-dau-tu-vao-trung-tam-tai-chinh-quoc-te-viet-nam-4863214.html) - 04:55 19/03/2025
+- 🚀 [Giá tín chỉ carbon tự nguyện Trung Quốc tăng cao khi mở lại sàn giao dịch](https://vnexpress.net/gia-tin-chi-carbon-tu-nguyen-trung-quoc-tang-cao-khi-mo-lai-san-giao-dich-4863128.html) - 04:42 19/03/2025
+- 🤗 [Doanh nhân Hàn Quốc làm CEO Sunshine Homes](https://vnexpress.net/doanh-nhan-han-quoc-lam-ceo-sunshine-homes-4863114.html) - 04:15 19/03/2025
+- 🌜 [Giá vàng nhẫn lên 100 triệu đồng](https://vnexpress.net/vang-nhan-tron-gan-can-moc-100-trieu-dong-4863153.html) - 03:42 19/03/2025
+- 👍 [Công ty mẹ Google mua startup an ninh mạng giá 32 tỷ USD](https://vnexpress.net/cong-ty-me-google-mua-startup-an-ninh-mang-gia-32-ty-usd-4863038.html) - 02:10 19/03/2025
+- 🤖 [Mẹo đọc báo cáo tài chính dành cho đầu tư chứng khoán](https://vnexpress.net/meo-doc-bao-cao-tai-chinh-danh-cho-dau-tu-chung-khoan-4862943.html) - 02:00 19/03/2025
+- 🫣 [Loạt ngân hàng giảm lãi suất tiết kiệm](https://vnexpress.net/loat-ngan-hang-giam-lai-suat-tiet-kiem-4863026.html) - 23:16 18/03/2025
+- 🌏 [Audi sẽ giảm 7.500 việc làm](https://vnexpress.net/audi-se-giam-7-500-viec-lam-4862984.html) - 17:05 18/03/2025
+- ⚗️ [Thủ tướng muốn doanh nghiệp Mỹ tăng rót vốn vào công nghệ cao, AI ở Việt Nam](https://vnexpress.net/thu-tuong-muon-doanh-nghiep-my-tang-rot-von-vao-cong-nghe-cao-ai-o-viet-nam-4863006.html) - 16:04 18/03/2025
+- 🕯 [&#39;Việt Nam muốn học kinh nghiệm phát triển khu thương mại tự do của Trung Quốc&#39;](https://vnexpress.net/viet-nam-muon-hoc-kinh-nghiem-phat-trien-khu-thuong-mai-tu-do-cua-trung-quoc-4863000.html) - 15:19 18/03/2025
+- 👍 [Giá vàng thế giới bỏ xa mốc 3.000 USD](https://vnexpress.net/gia-vang-the-gioi-bo-xa-moc-3-000-usd-4862994.html) - 14:42 18/03/2025
+- 🤠 [Giá euro lên cao nhất 5 tháng](https://vnexpress.net/gia-euro-len-cao-nhat-5-thang-4862975.html) - 13:18 18/03/2025
+- 🌊 [GS25 khai trương 6 cửa hàng tại Hà Nội](https://vnexpress.net/gs25-khai-truong-6-cua-hang-tai-ha-noi-4862590.html) - 12:00 18/03/2025
+- 🌈 [MobiFone cung cấp gói cước cho học sinh](https://vnexpress.net/mobifone-cung-cap-goi-cuoc-cho-hoc-sinh-4862804.html) - 10:00 18/03/2025
+- 🥳 [Ông Tập sắp gặp nhiều CEO nước ngoài](https://vnexpress.net/ong-tap-sap-gap-nhieu-ceo-nuoc-ngoai-4862828.html) - 09:47 18/03/2025
+- 🐻 [Siết kiểm tra chất vàng O, xuất khẩu rau quả sang Trung Quốc giảm mạnh](https://vnexpress.net/siet-kiem-tra-chat-vang-o-xuat-khau-rau-qua-sang-trung-quoc-giam-manh-4862818.html) - 09:33 18/03/2025
+- 💫 [Tiêu thụ &#39;bia cỏ&#39; tăng nhanh](https://vnexpress.net/tieu-thu-bia-co-tang-nhanh-4862806.html) - 09:30 18/03/2025
+- 🤩 [Tiền vào chứng khoán giảm mạnh](https://vnexpress.net/tien-vao-chung-khoan-giam-manh-4862893.html) - 09:12 18/03/2025
+- 💻 [Một doanh nghiệp nhà nước lãi chủ yếu nhờ cổ tức từ Honda, Toyota, Ford](https://vnexpress.net/mot-doanh-nghiep-nha-nuoc-lai-chu-yeu-nho-co-tuc-tu-honda-toyota-ford-4862750.html) - 08:14 18/03/2025
+- ⚗️ [Ông Lê Phước Vũ: &#39;Chúng tôi không thiếu tiền&#39;](https://vnexpress.net/ong-le-phuoc-vu-chung-toi-khong-thieu-tien-4862810.html) - 07:30 18/03/2025
+- 🌈 [Mỹ phát hiện kho đất hiếm 8,4 tỷ USD từ tro than](https://vnexpress.net/my-phat-hien-kho-dat-hiem-8-4-ty-usd-tu-tro-than-4862748.html) - 07:20 18/03/2025
+- 🌝 [Người Việt chi hơn 300 tỷ mỗi ngày để uống cà phê, trà sữa](https://vnexpress.net/nguoi-viet-chi-hon-300-ty-moi-ngay-de-uong-ca-phe-tra-sua-4862691.html) - 05:29 18/03/2025
+- 🥸 [Trung Quốc cho phép nhập khẩu lại nhiều loại thịt lợn, gia cầm Mỹ](https://vnexpress.net/trung-quoc-cho-phep-nhap-khau-lai-nhieu-loai-thit-lon-gia-cam-my-4862669.html) - 04:50 18/03/2025
+- 🦆 [Giá vàng nhẫn tiến sát 99 triệu đồng](https://vnexpress.net/vang-nhan-tron-vuot-97-trieu-dong-mot-luong-4862627.html) - 03:19 18/03/2025
+- 🌋 [Tài sản gia đình ông Bùi Thành Nhơn giảm 92% trong 3 năm](https://vnexpress.net/tai-san-gia-dinh-ong-bui-thanh-nhon-giam-92-trong-3-nam-4862566.html) - 01:05 18/03/2025
+- 🦍 [Giá vàng thế giới lên lại mốc 3.000 USD](https://vnexpress.net/gia-vang-the-gioi-len-lai-moc-3-000-usd-4862557.html) - 01:02 18/03/2025
+- 🤔 [&#39;Kế hoạch đặc biệt&#39; để kích cầu tiêu dùng của Trung Quốc](https://vnexpress.net/ke-hoach-dac-biet-de-kich-cau-tieu-dung-cua-trung-quoc-4862408.html) - 00:34 18/03/2025
+- 🧰 [Tỷ phú giàu thứ hai Hong Kong qua đời ở tuổi 97](https://vnexpress.net/ty-phu-giau-thu-hai-hong-kong-qua-doi-o-tuoi-97-4862547.html) - 00:15 18/03/2025
+- 🌝 [Phó thủ tướng mời Standard Chartered tham gia trung tâm tài chính quốc tế tại Việt Nam](https://vnexpress.net/pho-thu-tuong-moi-standard-chartered-tham-gia-trung-tam-tai-chinh-quoc-te-tai-viet-nam-4862494.html) - 15:41 17/03/2025
+- 👍 [&#39;Cá mập&#39; trăm tỷ USD VanEck muốn mở quỹ Bitcoin tại Việt Nam](https://vnexpress.net/ca-map-tram-ty-usd-vaneck-muon-mo-quy-bitcoin-tai-viet-nam-4862514.html) - 15:18 17/03/2025
+- 🗽 [Chủ tịch Bamboo Capital đột ngột qua đời](https://vnexpress.net/chu-tich-bamboo-capital-dot-ngot-qua-doi-4862376.html) - 09:42 17/03/2025
+- 🐎 [Cổ phiếu ngân hàng, bất động sản giúp VN-Index tăng vọt](https://vnexpress.net/co-phieu-ngan-hang-bat-dong-san-giup-vn-index-tang-vot-4862382.html) - 09:09 17/03/2025
+- 🪄 [Ông Trump sẽ không áp dụng miễn trừ với thuế nhôm, thép](https://vnexpress.net/ong-trump-se-khong-ap-dung-mien-tru-voi-thue-nhom-thep-4862272.html) - 08:18 17/03/2025
+- 🎊 [Con trai ông Bùi Thành Nhơn muốn bán gần 3 triệu cổ phiếu Novaland](https://vnexpress.net/con-trai-ong-bui-thanh-nhon-muon-ban-gan-3-trieu-co-phieu-novaland-4862351.html) - 08:10 17/03/2025
+- 🗽 [Hãng thời trang giá rẻ Forever 21 nộp đơn xin phá sản](https://vnexpress.net/hang-thoi-trang-gia-re-forever-21-nop-don-xin-pha-san-4862245.html) - 06:32 17/03/2025
+- 🦩 [Giá vàng nhẫn lập kỷ lục gần 97 triệu đồng](https://vnexpress.net/vang-nhan-lap-ky-luc-gan-97-trieu-dong-4862242.html) - 04:47 17/03/2025<!-- vnexpress-kinh-doanh:END -->
