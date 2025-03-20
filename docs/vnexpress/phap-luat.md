@@ -11,7 +11,7 @@ sidebar_position: 12
 - 🎊 [Thợ kim hoàn chế tác vàng giả lừa hàng loạt chủ tiệm](https://vnexpress.net/tho-kim-hoan-che-tac-vang-gia-lua-hang-loat-chu-tiem-4863739.html) - 08:53 20/03/2025
 - 🙉 [Du khách đi tù vì lái xe sau khi uống 5 lon bia, gây tai nạn ở Hội An](https://vnexpress.net/du-khach-di-tu-vi-lai-xe-sau-khi-uong-5-lon-bia-gay-tai-nan-o-hoi-an-4863713.html) - 07:27 20/03/2025
 - 🤡 [Kẻ xâm hại 4 trẻ em bị phạt 17 năm tù](https://vnexpress.net/ke-xam-hai-4-tre-em-bi-phat-17-nam-tu-4863706.html) - 06:51 20/03/2025
-- 🗽 [Hướng dẫn thủ tục đăng ký đổi màu sơn xe máy](https://vnexpress.net/huong-dan-thu-tuc-dang-ky-doi-mau-son-xe-may-vnepre-4863673.html) - 06:06 20/03/2025
+- 🗽 [Hướng dẫn thủ tục đăng ký đổi màu sơn xe](https://vnexpress.net/huong-dan-thu-tuc-dang-ky-doi-mau-son-xe-vnepre-4863673.html) - 06:06 20/03/2025
 - 🌋 [Giám đốc &#39;hội yêu động vật&#39; lén giết chó, lừa tiền](https://vnexpress.net/giam-doc-hoi-yeu-dong-vat-len-giet-cho-lua-tien-4863677.html) - 06:01 20/03/2025
 - 🎬 [Lò hơi báo &#39;lỗi&#39; trước khi nổ làm 6 người chết ở Đồng Nai](https://vnexpress.net/lo-hoi-bao-loi-truoc-khi-no-lam-6-nguoi-chet-o-dong-nai-4863645.html) - 04:52 20/03/2025
 - 💯 [Vờ mua hàng để trộm tiền của cụ bà bán rau](https://vnexpress.net/vo-mua-hang-de-trom-tien-cua-cu-ba-ban-rau-4863454.html) - 22:56 19/03/2025
