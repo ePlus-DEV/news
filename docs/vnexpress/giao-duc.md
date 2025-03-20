@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nhóm sinh viên làm than nén từ vỏ tỏi &#39;đầu tiên trên thế giới&#39;](https://vnexpress.net/nhom-sinh-vien-lam-than-nen-tu-vo-toi-dau-tien-tren-the-gioi-4863854.html) - 17:00 20/03/2025
+- 🤓 [Nhóm sinh viên làm than nén từ vỏ tỏi đầu tiên trên thế giới](https://vnexpress.net/nhom-sinh-vien-lam-than-nen-tu-vo-toi-dau-tien-tren-the-gioi-4863854.html) - 17:00 20/03/2025
 - 🦆 [Có nên bỏ Kế toán để chuyển sang ngành STEM không?](https://vnexpress.net/co-nen-bo-ke-toan-de-chuyen-sang-nganh-stem-khong-4863453.html) - 16:59 20/03/2025
 - 🦩 [Thứ trưởng Giáo dục: Đưa AI vào trường phổ thông](https://vnexpress.net/thu-truong-giao-duc-dua-ai-vao-truong-pho-thong-4863910.html) - 14:41 20/03/2025
 - 🌮 [Quốc gia nào hạnh phúc nhất Đông Nam Á?](https://vnexpress.net/quoc-gia-nao-hanh-phuc-nhat-dong-nam-a-4863898.html) - 12:37 20/03/2025
