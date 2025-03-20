@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Học sinh lớp 8 chế tạo hệ thống phân loại rác bằng AI](https://vnexpress.net/hoc-sinh-lop-8-che-tao-he-thong-phan-loai-rac-bang-ai-4863391.html) - 23:42 19/03/2025
-- 🦆 [Trường học dự kiến đưa bán dẫn vào chương trình](https://vnexpress.net/truong-hoc-du-kien-dua-ban-dan-vao-chuong-trinh-4863257.html) - 15:52 19/03/2025
+- 🦆 [Trường phổ thông dự kiến đưa bán dẫn vào chương trình](https://vnexpress.net/truong-pho-thong-du-kien-dua-ban-dan-vao-chuong-trinh-4863257.html) - 15:52 19/03/2025
 - 🦩 [Trường chuyên Khoa học xã hội và Nhân văn tăng môn thi vào lớp 10](https://vnexpress.net/truong-chuyen-khoa-hoc-xa-hoi-va-nhan-van-tang-mon-thi-vao-lop-10-4863363.html) - 14:10 19/03/2025
 - 🌮 [Đại học nào từng có 6 bác sĩ người Pháp làm hiệu trưởng?](https://vnexpress.net/dai-hoc-nao-tung-co-6-bac-si-nguoi-phap-lam-hieu-truong-4863286.html) - 13:23 19/03/2025
 - 🔭 [Soobin Hoàng Sơn được vinh danh Gương mặt trẻ Việt Nam tiêu biểu](https://vnexpress.net/soobin-hoang-son-duoc-vinh-danh-guong-mat-tre-viet-nam-tieu-bieu-4863267.html) - 09:28 19/03/2025
