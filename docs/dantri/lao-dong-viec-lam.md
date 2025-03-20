@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Doanh nghiệp ở TPHCM chậm đóng bảo hiểm xã hội 48 tỷ đồng, có nơi nợ 11 năm](https://dantri.com.vn/lao-dong-viec-lam/doanh-nghiep-o-tphcm-cham-dong-bao-hiem-xa-hoi-48-ty-dong-co-noi-no-11-nam-20250320132131536.htm) - 07:53 20/03/2025
+- ⚗️ [Phát hiện mộ liệt sỹ cùng nhiều lựu đạn trong hố cà phê](https://dantri.com.vn/lao-dong-viec-lam/phat-hien-mo-liet-sy-cung-nhieu-luu-dan-trong-ho-ca-phe-20250320092744417.htm) - 04:24 20/03/2025
 - 🙉 [Từ chối nhận chế độ hộ nghèo, nông dân vươn lên thành tỷ phú](https://dantri.com.vn/lao-dong-viec-lam/tu-choi-nhan-che-do-ho-ngheo-nong-dan-vuon-len-thanh-ty-phu-20250320065459838.htm) - 04:18 20/03/2025
 - 🕴 [Lao động Việt tại Hàn Quốc chật vật xoay khi đồng won mất giá](https://dantri.com.vn/lao-dong-viec-lam/lao-dong-viet-tai-han-quoc-chat-vat-xoay-khi-dong-won-mat-gia-20250319173934570.htm) - 23:00 19/03/2025
 - 🧐 [Vừa trúng đậm cả tấn cá, ngư dân mất luôn 3 thuyền vì sóng dữ đánh chìm](https://dantri.com.vn/lao-dong-viec-lam/vua-trung-dam-ca-tan-ca-ngu-dan-mat-luon-3-thuyen-vi-song-du-danh-chim-20250319173331335.htm) - 14:07 19/03/2025
