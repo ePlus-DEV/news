@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Bách Hóa Xanh trở lại mở mới cửa hàng mỗi ngày](https://vnexpress.net/bach-hoa-xanh-tro-lai-mo-moi-cua-hang-moi-ngay-4863919.html) - 14:25 20/03/2025
 - 🐲 [Doanh nghiệp Mỹ đầu tư cao tốc từ sân bay Long Thành đến Hồ Tràm](https://vnexpress.net/doanh-nghiep-my-dau-tu-cao-toc-tu-san-bay-long-thanh-den-ho-tram-4863912.html) - 13:22 20/03/2025
-- 🔥 [Đề xuất Bộ Tài chính, Công an, Ngân hàng Nhà nước cùng quản lý sàn tiền số](https://vnexpress.net/de-xuat-bo-tai-chinh-cong-an-ngan-hang-nha-nuoc-cung-quan-ly-san-tien-so-4863897.html) - 12:20 20/03/2025
+- 🔥 [Đề xuất Bộ Tài chính, Công an, Ngân hàng Nhà nước cùng quản lý sàn giao dịch tiền mã hóa](https://vnexpress.net/de-xuat-bo-tai-chinh-cong-an-ngan-hang-nha-nuoc-cung-quan-ly-san-giao-dich-tien-ma-hoa-4863897.html) - 12:20 20/03/2025
 - 🐵 [Chuyên gia: Doanh nghiệp tư nhân cần được giao những dự án lớn](https://vnexpress.net/chuyen-gia-doanh-nghiep-tu-nhan-can-duoc-giao-nhung-du-an-lon-4863709.html) - 09:20 20/03/2025
 - 🦅 [Cổ phiếu TPBank giảm mạnh, TPS nằm sàn](https://vnexpress.net/co-phieu-tpbank-giam-manh-tps-nam-san-4863819.html) - 09:11 20/03/2025
 - 😺 [FPT Telecom đặt mục tiêu lãi kỷ lục năm 2025](https://vnexpress.net/fpt-telecom-dat-muc-tieu-lai-ky-luc-nam-2025-4863770.html) - 07:54 20/03/2025
