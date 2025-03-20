@@ -4,10 +4,10 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Australia 0-0 Indonesia &lpar;hiệp 1&rpar;: 10 cầu thủ gốc Hà Lan ra sân](https://dantri.com.vn/the-thao/australia-0-0-indonesia-hiep-1-10-cau-thu-goc-ha-lan-ra-san-20250320154327781.htm) - 08:43 20/03/2025
-- 💯 [Thủ thành Onana gây tranh cãi lớn vì bỏ khung thành lên… đá phạt](https://dantri.com.vn/the-thao/thu-thanh-onana-gay-tranh-cai-lon-vi-bo-khung-thanh-len-da-phat-20250320150744142.htm) - 08:07 20/03/2025
-- ⛽️ [U22 Việt Nam 1-0 U22 Hàn Quốc &lpar;hiệp 2&rpar;: Bàn thắng bất ngờ](https://dantri.com.vn/the-thao/u22-viet-nam-1-0-u22-han-quoc-hiep-2-ban-thang-bat-ngo-20250320142843360.htm) - 07:28 20/03/2025
-- 💃 [Chuyên gia: &quot;Đội tuyển Việt Nam thi đấu đa dạng hơn khi vắng Xuân Son&quot;](https://dantri.com.vn/the-thao/chuyen-gia-doi-tuyen-viet-nam-thi-dau-da-dang-hon-khi-vang-xuan-son-20250320134606185.htm) - 07:10 20/03/2025
+- 🎡 [Chuyên gia: &quot;Đội tuyển Việt Nam thi đấu đa dạng hơn khi vắng Xuân Son&quot;](https://dantri.com.vn/the-thao/chuyen-gia-doi-tuyen-viet-nam-thi-dau-da-dang-hon-khi-vang-xuan-son-20250320134606185.htm) - 09:00 20/03/2025
+- 💯 [Australia 3-0 Indonesia &lpar;hiệp 2&rpar;: Indonesia thua tan nát](https://dantri.com.vn/the-thao/australia-3-0-indonesia-hiep-2-indonesia-thua-tan-nat-20250320154327781.htm) - 08:43 20/03/2025
+- ⛽️ [Thủ thành Onana gây tranh cãi lớn vì bỏ khung thành lên… đá phạt](https://dantri.com.vn/the-thao/thu-thanh-onana-gay-tranh-cai-lon-vi-bo-khung-thanh-len-da-phat-20250320150744142.htm) - 08:07 20/03/2025
+- 💃 [U22 Việt Nam tuột chiến thắng trước U22 Hàn Quốc ở phút bù giờ](https://dantri.com.vn/the-thao/u22-viet-nam-tuot-chien-thang-truoc-u22-han-quoc-o-phut-bu-gio-20250320142843360.htm) - 07:28 20/03/2025
 - 🌈 [Báo chí thế giới dự đoán kết quả trận Indonesia đại chiến Australia](https://dantri.com.vn/the-thao/bao-chi-the-gioi-du-doan-ket-qua-tran-indonesia-dai-chien-australia-20250320105350734.htm) - 03:54 20/03/2025
 - 🦅 [Báo Indonesia nhầm lẫn hài hước, nói thẳng về thắng lợi của tuyển Việt Nam](https://dantri.com.vn/the-thao/bao-indonesia-nham-lan-hai-huoc-noi-thang-ve-thang-loi-cua-tuyen-viet-nam-20250320094209929.htm) - 03:01 20/03/2025
 - 🌝 [Vòng loại World Cup 2026 châu Á: Nhật Bản, Hàn Quốc, Iran tiến gần mục tiêu](https://dantri.com.vn/the-thao/vong-loai-world-cup-2026-chau-a-nhat-ban-han-quoc-iran-tien-gan-muc-tieu-20250320093219847.htm) - 02:45 20/03/2025
