@@ -4,7 +4,7 @@ sidebar_position: 20
 ---
 
 <!-- dantri-tam-long-nhan-ai:START -->
-- 🌝 [Mong ước của cô trò ở điểm trường bên dòng sông ngăn cách hai quốc gia](https://dantri.com.vn/tam-long-nhan-ai/mong-uoc-cua-co-tro-o-diem-truong-ben-dong-song-ngan-cach-hai-quoc-gia-20250318114758352.htm) - 05:30 20/03/2025
+- 🌝 [Mong ước của cô trò ở điểm trường vùng biên](https://dantri.com.vn/tam-long-nhan-ai/mong-uoc-cua-co-tro-o-diem-truong-vung-bien-20250318114758352.htm) - 05:30 20/03/2025
 - 🌜 [Cha mẹ già nuôi con trai liệt giường và cháu nội bị mẹ bỏ từ bé](https://dantri.com.vn/tam-long-nhan-ai/cha-me-gia-nuoi-con-trai-liet-giuong-va-chau-noi-bi-me-bo-tu-be-20250314145607484.htm) - 22:30 19/03/2025
 - 👀 [&quot;Cảm ơn bạn đọc và bác sĩ đã cho vợ, con em cơ hội tái sinh&quot;](https://dantri.com.vn/tam-long-nhan-ai/cam-on-ban-doc-va-bac-si-da-cho-vo-con-em-co-hoi-tai-sinh-20250318172524383.htm) - 00:55 19/03/2025
 - 🚀 [Người mẹ nuôi con trai tự kỷ được bạn đọc Dân trí hỗ trợ xây nhà mới](https://dantri.com.vn/tam-long-nhan-ai/nguoi-me-nuoi-con-trai-tu-ky-duoc-ban-doc-dan-tri-ho-tro-xay-nha-moi-20250319044949948.htm) - 00:07 19/03/2025
