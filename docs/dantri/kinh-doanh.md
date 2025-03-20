@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- dantri-kinh-doanh:START -->
 - 🏊 [Chứng khoán Mỹ tăng vọt sau khi Fed công bố lộ trình hạ lãi suất](https://dantri.com.vn/kinh-doanh/chung-khoan-my-tang-vot-sau-khi-fed-cong-bo-lo-trinh-ha-lai-suat-20250320080321225.htm) - 04:02 20/03/2025
 - 🦆 [Giá vé máy bay dịp lễ 30/4 tăng chóng mặt, nhiều chặng nóng hết chỗ](https://dantri.com.vn/kinh-doanh/gia-ve-may-bay-dip-le-304-tang-chong-mat-nhieu-chang-nong-het-cho-20250320070814483.htm) - 00:17 20/03/2025
-- 🦄 [Giá bán vàng nhẫn vượt mốc 100 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/gia-ban-vang-nhan-vuot-moc-100-trieu-dongluong-20250320011007033.htm) - 23:51 19/03/2025
+- 🦄 [Giá vàng nhẫn trơn vượt 101 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/gia-vang-nhan-tron-vuot-101-trieu-dongluong-20250320011007033.htm) - 23:51 19/03/2025
 - 🌝 [Chân dung chủ tịch mới của Bamboo Capital sau khi người tiền nhiệm qua đời](https://dantri.com.vn/kinh-doanh/chan-dung-chu-tich-moi-cua-bamboo-capital-sau-khi-nguoi-tien-nhiem-qua-doi-20250320061043868.htm) - 23:49 19/03/2025
 - 💃 [Sự trỗi dậy của &quot;đại bàng&quot; nội và động lực để Việt Nam vươn mình cất cánh](https://dantri.com.vn/kinh-doanh/su-troi-day-cua-dai-bang-noi-va-dong-luc-de-viet-nam-vuon-minh-cat-canh-20250319185644087.htm) - 23:27 19/03/2025
 - 🦏 [Giá vàng vượt 100 triệu/lượng: &quot;Cò&quot; chờ ở cửa săn mua, chuyên gia cảnh báo](https://dantri.com.vn/kinh-doanh/gia-vang-vuot-100-trieuluong-co-cho-o-cua-san-mua-chuyen-gia-canh-bao-20250319165753967.htm) - 22:49 19/03/2025
