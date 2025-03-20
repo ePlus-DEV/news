@@ -253,7 +253,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- nld:START -->
 - 🐎 [Thủ tướng yêu cầu hoàn thành sân bay Long Thành đúng tiến độ](https://nld.com.vn/thu-tuong-yeu-cau-hoan-thanh-san-bay-long-thanh-dung-tien-do-196250320213717748.htm) - 15:23 20/03/2025
 - 😺 [Máy bay Hồng Kông - Trung Quốc hạ cánh khẩn cấp vì hỏa hoạn](https://nld.com.vn/may-bay-hong-kong-trung-quoc-ha-canh-khan-cap-vi-hoa-hoan-196250320215240813.htm) - 15:17 20/03/2025
-- 👍 [NÓNG: Đang cháy lớn tại núi Tàu, nơi đồn thổi có “kho vàng 4.000 tấn”](https://nld.com.vn/nong-dang-chay-lon-tai-nui-tau-noi-don-thoi-co-kho-vang-4000-tan-196250320215800032.htm) - 15:02 20/03/2025
+- 👍 [NÓNG: Đang cháy lớn tại núi Tàu - nơi đồn thổi có “kho vàng 4.000 tấn”](https://nld.com.vn/nong-dang-chay-lon-tai-nui-tau-noi-don-thoi-co-kho-vang-4000-tan-196250320215800032.htm) - 15:02 20/03/2025
 - 🥷 [Tổng Bí thư Tô Lâm: Quan hệ Việt Nam - Mỹ là hình mẫu trong quan hệ quốc tế](https://nld.com.vn/tong-bi-thu-to-lam-quan-he-viet-nam-my-la-hinh-mau-trong-quan-he-quoc-te-196250320214254448.htm) - 14:50 20/03/2025
 - 🤔 [Triệt phá đường dây 25 kg ma túy xuyên quốc gia từ Lào qua Quảng Bình](https://nld.com.vn/triet-pha-duong-day-25-kg-ma-tuy-xuyen-quoc-gia-tu-lao-qua-quang-binh-196250320204159946.htm) - 14:18 20/03/2025
 - 🌈 [Khai thác phương thức bay mới tại sân bay quốc tế Nội Bài](https://nld.com.vn/khai-thac-phuong-thuc-bay-moi-tai-san-bay-quoc-te-noi-bai-196250320204551586.htm) - 13:58 20/03/2025
