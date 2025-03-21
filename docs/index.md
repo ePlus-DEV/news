@@ -257,7 +257,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- nld:START -->
 - 🐎 [Diễn tập phương án ứng phó sự cố tràn dầu năm 2025](https://thitruong.nld.com.vn/dien-tap-phuong-an-ung-pho-su-co-tran-dau-nam-2025-196250321191123818.htm) - 14:23 21/03/2025
 - 😺 [Thủy điện Sê San 3A vượt tiến độ công trình sửa chữa, bảo dưỡng các tổ máy](https://thitruong.nld.com.vn/thuy-dien-se-san-3a-vuot-tien-do-cong-trinh-sua-chua-bao-duong-cac-to-may-196250321184651086.htm) - 14:23 21/03/2025
-- 👍 [Vingroup góp 20% vốn lập công ty bảo hiểm nhân thọ](https://nld.com.vn/vingroup-gop-20-von-lap-cong-ty-bao-hiem-nhan-tho-196250321184246529.htm) - 14:07 21/03/2025
+- 👍 [Techcombank lập công ty bảo hiểm nhân thọ cùng đối tác](https://nld.com.vn/vingroup-gop-20-von-lap-cong-ty-bao-hiem-nhan-tho-196250321184246529.htm) - 14:07 21/03/2025
 - 🥷 [&quot;Hành trình kết nối xanh&quot; truyền cảm hứng sống xanh](https://nld.com.vn/hanh-trinh-ket-noi-xanh-truyen-cam-hung-song-xanh-196250321193130868.htm) - 13:58 21/03/2025
 - 🤔 [Việt Nam - Pháp thúc đẩy hợp tác hàng không, đường sắt cao tốc](https://nld.com.vn/viet-nam-phap-thuc-day-hop-tac-hang-khong-duong-sat-cao-toc-196250321185458363.htm) - 13:45 21/03/2025
 - 🌈 [Bắt giữ 4 thanh, thiếu niên giết người trong khu công nghiệp](https://nld.com.vn/bat-4-thanh-thieu-nien-giet-nguoi-trong-khu-cong-nghiep-196250321201205903.htm) - 13:44 21/03/2025
