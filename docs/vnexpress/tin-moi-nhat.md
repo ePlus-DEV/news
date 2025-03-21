@@ -4,20 +4,20 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Bé trai nhét bút chì 8 cm vào hậu môn](https://vnexpress.net/be-trai-nhet-but-chi-8-cm-vao-hau-mon-4864048.html) - 17:03 21/03/2025
-- 🐎 [3 con giáp có số đỏ nhất cuối tháng 2 Âm lịch](https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-3-con-giap-co-so-do-nhat-cuoi-thang-2-am-4864340.html) - 17:01 21/03/2025
-- 🦍 [Chó dữ ở chung cư](https://vnexpress.net/cho-du-o-chung-cu-4864372.html) - 17:00 21/03/2025
-- 🏊 [Gã trộm hãm hại cô gái bất thành](https://vnexpress.net/ga-trom-ham-hai-co-gai-bat-thanh-4864393.html) - 17:00 21/03/2025
-- 🎊 [Án mạng vì trò đùa trong buổi tiệc](https://vnexpress.net/an-mang-vi-tro-dua-trong-buoi-tiec-4864352.html) - 17:00 21/03/2025
-- 🎃 [Âm mưu &#39;thủ tiêu&#39; người tình đầu bằng lời gạ gẫm qua đêm](https://vnexpress.net/am-muu-thu-tieu-moi-tinh-dau-bang-loi-ga-gam-qua-dem-4864348.html) - 17:00 21/03/2025
-- 🧰 [Đề nghị kết nối 20 tuyến buýt đến khu vực ga T3 Tân Sơn Nhất](https://vnexpress.net/de-nghi-ket-noi-20-tuyen-buyt-den-khu-vuc-ga-t3-tan-son-nhat-4864337.html) - 17:00 21/03/2025
-- 🔭 [Nghiên cứu xây đường trên cao tuyến Pháp Vân - Cầu Giẽ](https://vnexpress.net/nghien-cuu-xay-duong-tren-cao-tuyen-phap-van-cau-gie-4864336.html) - 17:00 21/03/2025
-- 🫶 [&#39;Người nổi tiếng&#39; đã có người yêu vẫn chat với tôi hàng ngày](https://vnexpress.net/nguoi-noi-tieng-da-co-nguoi-yeu-van-chat-voi-toi-hang-ngay-4864283.html) - 17:00 21/03/2025
-- 🪜 [Mong anh tự chủ kinh tế](https://vnexpress.net/mong-anh-tu-chu-kinh-te-4864226.html) - 17:00 21/03/2025
-- 👨‍🏫 [Những nguyên tố nguy hiểm nhất trong bảng tuần hoàn](https://vnexpress.net/nhung-nguyen-to-nguy-hiem-nhat-trong-bang-tuan-hoan-4864031.html) - 17:00 21/03/2025
+- 🎬 [TP HCM sẽ trình diễn 10.500 drone đêm 30/4](https://vnexpress.net/tp-hcm-se-trinh-dien-10-500-drone-dem-30-4-4864408.html) - 17:45 21/03/2025
+- 🐎 [Bé trai nhét bút chì 8 cm vào hậu môn](https://vnexpress.net/be-trai-nhet-but-chi-8-cm-vao-hau-mon-4864048.html) - 17:03 21/03/2025
+- 🦍 [3 con giáp có số đỏ nhất cuối tháng 2 Âm lịch](https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-3-con-giap-co-so-do-nhat-cuoi-thang-2-am-4864340.html) - 17:01 21/03/2025
+- 🏊 [Chó dữ ở chung cư](https://vnexpress.net/cho-du-o-chung-cu-4864372.html) - 17:00 21/03/2025
+- 🎊 [Gã trộm hãm hại cô gái bất thành](https://vnexpress.net/ga-trom-ham-hai-co-gai-bat-thanh-4864393.html) - 17:00 21/03/2025
+- 🎃 [Án mạng vì trò đùa trong buổi tiệc](https://vnexpress.net/an-mang-vi-tro-dua-trong-buoi-tiec-4864352.html) - 17:00 21/03/2025
+- 🧰 [Âm mưu &#39;thủ tiêu&#39; người tình đầu bằng lời gạ gẫm qua đêm](https://vnexpress.net/am-muu-thu-tieu-moi-tinh-dau-bang-loi-ga-gam-qua-dem-4864348.html) - 17:00 21/03/2025
+- 🔭 [Đề nghị kết nối 20 tuyến buýt đến khu vực ga T3 Tân Sơn Nhất](https://vnexpress.net/de-nghi-ket-noi-20-tuyen-buyt-den-khu-vuc-ga-t3-tan-son-nhat-4864337.html) - 17:00 21/03/2025
+- 🫶 [Nghiên cứu xây đường trên cao tuyến Pháp Vân - Cầu Giẽ](https://vnexpress.net/nghien-cuu-xay-duong-tren-cao-tuyen-phap-van-cau-gie-4864336.html) - 17:00 21/03/2025
+- 🪜 [&#39;Người nổi tiếng&#39; đã có người yêu vẫn chat với tôi hàng ngày](https://vnexpress.net/nguoi-noi-tieng-da-co-nguoi-yeu-van-chat-voi-toi-hang-ngay-4864283.html) - 17:00 21/03/2025
+- 👨‍🏫 [Mong anh tự chủ kinh tế](https://vnexpress.net/mong-anh-tu-chu-kinh-te-4864226.html) - 17:00 21/03/2025
+- 🎊 [Những nguyên tố nguy hiểm nhất trong bảng tuần hoàn](https://vnexpress.net/nhung-nguyen-to-nguy-hiem-nhat-trong-bang-tuan-hoan-4864031.html) - 17:00 21/03/2025
 - 🎊 [Phương án sáp nhập xã, phường của Bình Định, Quảng Ngãi](https://vnexpress.net/phuong-an-sap-nhap-xa-phuong-cua-binh-dinh-quang-ngai-4863816.html) - 17:00 21/03/2025
-- 🎊 [Người nhận thừa kế có quyền bán nhà, nếu trong di chúc bố mẹ cấm?](https://vnexpress.net/nguoi-nhan-thua-ke-co-quyen-ban-nha-neu-trong-di-chuc-bo-me-cam-vnepre-4863699.html) - 17:00 21/03/2025
-- 😺 [Nhận &#39;quà sinh nhật&#39; qua chuyển khoản, có phải trả khi người tặng đổi ý?](https://vnexpress.net/nhan-qua-sinh-nhat-qua-chuyen-khoan-co-phai-tra-khi-nguoi-tang-doi-y-4863639.html) - 17:00 21/03/2025
+- 😺 [Người nhận thừa kế có quyền bán nhà, nếu trong di chúc bố mẹ cấm?](https://vnexpress.net/nguoi-nhan-thua-ke-co-quyen-ban-nha-neu-trong-di-chuc-bo-me-cam-vnepre-4863699.html) - 17:00 21/03/2025
 - 🐘 [Chuông Ngọ Môn - biểu tượng vương triều Nguyễn](https://vnexpress.net/chuong-ngo-mon-bieu-tuong-vuong-trieu-nguyen-4863325.html) - 17:00 21/03/2025
 - 🌁 [Cách ông Trump bảo vệ Elon Musk giữa sóng tẩy chay](https://vnexpress.net/cach-ong-trump-bao-ve-elon-musk-giua-song-tay-chay-4862564.html) - 17:00 21/03/2025
 - 🐲 [Đức thông qua khoản viện trợ quân sự hơn 3 tỷ USD cho Ukraine](https://vnexpress.net/duc-thong-qua-khoan-vien-tro-quan-su-hon-3-ty-usd-cho-ukraine-4864385.html) - 16:59 21/03/2025
