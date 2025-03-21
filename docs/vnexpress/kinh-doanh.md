@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Vingroup góp 20% vốn công ty bảo hiểm nhân thọ của Techcombank](https://vnexpress.net/vingroup-gop-20-von-cong-ty-bao-hiem-nhan-tho-cua-techcombank-4864303.html) - 09:47 21/03/2025
+- ⛽️ [Techcombank cùng đối tác lập công ty bảo hiểm nhân thọ](https://vnexpress.net/techcombank-cung-doi-tac-lap-cong-ty-bao-hiem-nhan-tho-4864303.html) - 09:47 21/03/2025
 - 🐲 [TP HCM tăng 7 bậc xếp hạng trung tâm tài chính toàn cầu](https://vnexpress.net/tp-hcm-tang-7-bac-xep-hang-trung-tam-tai-chinh-toan-cau-4864211.html) - 09:08 21/03/2025
 - 🔥 [Thanh khoản chứng khoán thấp nhất 3 tuần](https://vnexpress.net/thanh-khoan-chung-khoan-thap-nhat-3-tuan-4864289.html) - 09:02 21/03/2025
 - 🐵 [Mỗi lượng vàng đảo chiều giảm hơn 3 triệu đồng](https://vnexpress.net/moi-luong-vang-dao-chieu-giam-toi-3-trieu-4864249.html) - 08:35 21/03/2025
