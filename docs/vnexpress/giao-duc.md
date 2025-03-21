@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Chốt quy chế tuyển sinh đại học 2025](https://vnexpress.net/chot-quy-che-tuyen-sinh-dai-hoc-2025-4854295.html) - 02:18 21/03/2025
-- 🦆 [Sư thầy thủ khoa tốt nghiệp dạy tiếng Anh miễn phí](https://vnexpress.net/su-thay-thu-khoa-tot-nghiep-day-tieng-anh-mien-phi-4862043.html) - 00:06 21/03/2025
+- 🦆 [Sư thầy thủ khoa dạy tiếng Anh miễn phí](https://vnexpress.net/su-thay-thu-khoa-day-tieng-anh-mien-phi-4862043.html) - 00:06 21/03/2025
 - 🦩 [Nhóm sinh viên làm than nén từ vỏ tỏi đầu tiên trên thế giới](https://vnexpress.net/nhom-sinh-vien-lam-than-nen-tu-vo-toi-dau-tien-tren-the-gioi-4863854.html) - 17:00 20/03/2025
 - 🌮 [Có nên bỏ Kế toán để chuyển sang ngành STEM không?](https://vnexpress.net/co-nen-bo-ke-toan-de-chuyen-sang-nganh-stem-khong-4863453.html) - 16:59 20/03/2025
 - 🔭 [Thứ trưởng Giáo dục: Đưa AI vào trường phổ thông](https://vnexpress.net/thu-truong-giao-duc-dua-ai-vao-truong-pho-thong-4863910.html) - 14:41 20/03/2025
