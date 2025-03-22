@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Bộ trưởng Xây dựng yêu cầu &#39;Vicem năm nay phải có lãi&#39;](https://vnexpress.net/bo-truong-xay-dung-yeu-cau-vicem-nam-nay-phai-co-lai-4864621.html) - 12:43 22/03/2025
+- ⛽️ [Bộ trưởng Xây dựng yêu cầu &#39;Vicem năm nay phải quyết tâm có lãi&#39;](https://vnexpress.net/bo-truong-xay-dung-yeu-cau-vicem-nam-nay-phai-quyet-tam-co-lai-4864621.html) - 12:43 22/03/2025
 - 🐲 [FPT dự kiến chia thưởng cho cổ đông tổng tỷ lệ 35%](https://vnexpress.net/fpt-du-kien-chia-thuong-cho-co-dong-tong-ty-le-35-4864607.html) - 10:45 22/03/2025
 - 🔥 [Công ty liên quan ông Bùi Thành Nhơn đăng ký bán 5 triệu cổ phiếu Novaland](https://vnexpress.net/cong-ty-lien-quan-ong-bui-thanh-nhon-dang-ky-ban-5-trieu-co-phieu-novaland-4864593.html) - 09:56 22/03/2025
 - 🐵 [Dừa tươi đắt gấp đôi vì nhu cầu xuất khẩu](https://vnexpress.net/dua-tuoi-dat-gap-doi-vi-nhu-cau-xuat-khau-4864487.html) - 08:00 22/03/2025
