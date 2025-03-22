@@ -153,66 +153,67 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Giáo dục mâu thuẫn với chính mình](https://thanhnien.vn/giao-duc-mau-thuan-voi-chinh-minh-185250321220738336.htm) - 23:49 21/03/2025
-- 🥸 [TP.HCM lập trung tâm công nghệ cao đa mục tiêu ở đâu?](https://thanhnien.vn/tphcm-lap-trung-tam-cong-nghe-cao-da-muc-tieu-o-dau-185250321215254668.htm) - 23:45 21/03/2025
-- 🌁 [Theo dấu nhà báo Hải Triều: Tên tuổi Hải Triều là &#39;một vốn quý&#39;](https://thanhnien.vn/theo-dau-nha-bao-hai-trieu-ten-tuoi-hai-trieu-la-mot-von-quy-185250321214040661.htm) - 23:37 21/03/2025
-- 🤡 [Nghề lái tàu metro: Bước ngoặt cuộc đời](https://thanhnien.vn/nghe-lai-tau-metro-buoc-ngoat-cuoc-doi-185250321153330692.htm) - 23:35 21/03/2025
-- 🎉 [Đột phá chính sách nhà ở xã hội](https://thanhnien.vn/dot-pha-chinh-sach-nha-o-xa-hoi-185250321184532428.htm) - 23:15 21/03/2025
-- 🎊 [Lừa đảo trực tuyến lại biến tấu](https://thanhnien.vn/lua-dao-truc-tuyen-lai-bien-tau-185250321185248198.htm) - 23:14 21/03/2025
-- 🤠 [Sầu riêng gặp khó, xuất khẩu rau quả giảm sâu](https://thanhnien.vn/sau-rieng-gap-kho-xuat-khau-rau-qua-giam-sau-185250321201423852.htm) - 23:12 21/03/2025
-- 💼 [Tháo chốt để kinh tế tư nhân bứt phá: Doanh nghiệp nhỏ không thể lớn vì vốn](https://thanhnien.vn/thao-chot-de-kinh-te-tu-nhan-but-pha-doanh-nghiep-nho-khong-the-lon-vi-von-185250321174542701.htm) - 23:11 21/03/2025
-- 🐻 [Dệt may, da giày, gỗ vẫn sáng cửa](https://thanhnien.vn/det-may-da-giay-go-van-sang-cua-185250321214313715.htm) - 23:10 21/03/2025
-- 🤔 [Diễn biến khó đoán của giá vàng](https://thanhnien.vn/dien-bien-kho-doan-cua-gia-vang-185250321231302486.htm) - 23:07 21/03/2025
-- 📝 [NATO trước viễn cảnh &#39;tan đàn xẻ nghé&#39;](https://thanhnien.vn/nato-truoc-vien-canh-tan-dan-xe-nghe-185250321231149603.htm) - 23:06 21/03/2025
-- 🥰 [Quy đổi tương đương điểm trúng tuyển: Còn nhiều ý kiến trái chiều](https://thanhnien.vn/quy-doi-tuong-duong-diem-trung-tuyen-con-nhieu-y-kien-trai-chieu-185250321215304809.htm) - 23:06 21/03/2025
-- 🐲 [Hừng hực xung trận như ĐH Life: Chúng tôi sẽ mang cúp về nhà](https://thanhnien.vn/hung-huc-xung-tran-nhu-dh-life-chung-toi-se-mang-cup-ve-nha-185250322001118306.htm) - 23:00 21/03/2025
-- 🎃 [Sách hay: Sự tan rã âm thầm trong thế giới của Ingeborg Bachmann](https://thanhnien.vn/sach-hay-su-tan-ra-am-tham-trong-the-gioi-cua-ingeborg-bachmann-185250321213625932.htm) - 23:00 21/03/2025
-- 🎬 [Tư vấn mùa thi đến với học sinh Lâm Đồng ngay khi có quy chế tuyển sinh](https://thanhnien.vn/tu-van-mua-thi-den-voi-hoc-sinh-lam-dong-ngay-khi-co-quy-che-tuyen-sinh-185250321202828675.htm) - 22:45 21/03/2025
-- 🌜 [&#39;Quỷ nhập tràng&#39; là phim kinh dị Việt có doanh thu cao nhất](https://thanhnien.vn/quy-nhap-trangla-phim-kinh-di-viet-co-doanh-thu-cao-nhat-185250321214349543.htm) - 22:39 21/03/2025
-- 🦆 [Chỉnh trang vỉa hè tại TP.HCM, người dân mong chờ sớm hoàn thiện](https://thanhnien.vn/chinh-trang-via-he-tai-tphcm-nguoi-dan-mong-cho-som-hoan-thien-185250321115258154.htm) - 22:39 21/03/2025
-- 🐵 [Showbiz 21.3: Ngọc Huyền làm rõ phát ngôn liên quan Quý Bình; Đăng Khôi tung MV mới](https://thanhnien.vn/showbiz-213-ngoc-huyen-lam-ro-phat-ngon-lien-quan-quy-binh-dang-khoi-tung-mv-moi-185250322020537615.htm) - 22:30 21/03/2025
-- 🙉 [Lắt léo chữ nghĩa: Bàn về chữ &#39;tâm&#39;](https://thanhnien.vn/lat-leo-chu-nghia-ban-ve-chu-tam-18525032121464462.htm) - 22:23 21/03/2025
-- 🌋 [Israel căng thẳng cả trong lẫn ngoài](https://thanhnien.vn/israel-cang-thang-ca-trong-lan-ngoai-185250321230600837.htm) - 22:01 21/03/2025
-- 🐻 [Để thành lập, nhập, chia đơn vị hành chính cần đáp ứng điều kiện nào?](https://thanhnien.vn/de-thanh-lap-nhap-chia-don-vi-hanh-chinh-can-dap-ung-dieu-kien-nao-185250320182529349.htm) - 22:00 21/03/2025
-- 🧠 [TP.HCM nghĩa tình: &#39;Kỳ nữ&#39; Kim Cương sống cho người và cho thành phố hạnh phúc](https://thanhnien.vn/tphcm-nghia-tinh-ky-nu-kim-cuong-song-cho-nguoi-va-cho-thanh-pho-hanh-phuc-185250320133017204.htm) - 22:00 21/03/2025
-- 🔥 [Tổng thống Trump xóa sổ Bộ Giáo dục Mỹ](https://thanhnien.vn/tong-thong-trump-xoa-so-bo-giao-duc-my-185250321225551248.htm) - 21:51 21/03/2025
-- 🌋 [Chiến sự Ukraine ngày 1.122: Tranh cãi về nổ trạm khí đốt trước đàm phán Jeddah](https://thanhnien.vn/chien-su-ukraine-ngay-1122-tranh-cai-ve-no-tram-khi-dot-truoc-dam-phan-jeddah-185250321210157753.htm) - 21:31 21/03/2025
-- 😎 [Sống ở TP.HCM: Độc lạ 13 &#39;đường hoa&#39; nhưng rất ít trồng hoa](https://thanhnien.vn/song-o-tphcm-doc-la-13-duong-hoa-nhung-rat-it-trong-hoa-185250320215935612.htm) - 21:24 21/03/2025
-- 🥰 [Chuyện thầm kín: Nghiện mạng xã hội có ảnh hưởng ham muốn tình dục?](https://thanhnien.vn/chuyen-tham-kin-nghien-mang-xa-hoi-co-anh-huong-ham-muon-tinh-duc-185250321204430729.htm) - 21:09 21/03/2025
-- 🧑‍🏫 [Báo động tội phạm ma túy gen Z: Hàng loạt án tử hình &#39;ông trùm, bà trùm&#39;](https://thanhnien.vn/bao-dong-toi-pham-ma-tuy-gen-z-hang-chuc-an-tu-hinh-ong-trum-ba-trum-185250313164310948.htm) - 21:03 21/03/2025
-- 💄 [Huỳnh Như được &#39;tiếp lửa&#39; với bộ đôi Việt kiều và chân sút người Mỹ](https://thanhnien.vn/huynh-nhu-duoc-tiep-lua-voi-bo-doi-viet-kieu-va-chan-sut-nguoi-my-185250322005308324.htm) - 20:30 21/03/2025
-- 💯 [Ngày mới với tin tức sức khỏe: Những việc cần làm giúp phòng đột quỵ](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-nhung-viec-can-lam-giup-phong-dot-quy-185250321222403294.htm) - 17:10 21/03/2025
-- 🚀 [Bất ngờ phát hiện thuốc trị mỡ máu có khả năng chống ung thư gan](https://thanhnien.vn/bat-ngo-phat-hien-thuoc-tri-mo-mau-co-kha-nang-chong-ung-thu-gan-185250321142320965.htm) - 17:08 21/03/2025
-- 🦣 [4 dấu hiệu tiềm ẩn của thiếu vitamin không nên phớt lờ](https://thanhnien.vn/4-dau-hieu-tiem-an-cua-thieu-vitamin-khong-nen-phot-lo-185250316125417371.htm) - 17:07 21/03/2025
-- 👹 [Đằng sau cách dùng người gây tranh cãi của HLV Kim Sang-sik](https://thanhnien.vn/dang-sau-cach-dung-nguoi-gay-tranh-cai-cua-hlv-kim-sang-sik-185250321184229229.htm) - 17:00 21/03/2025
-- 🦄 [Cháy lớn 20 ha rừng tại Tuyên Quang, hàng trăm người dập lửa trong đêm](https://thanhnien.vn/chay-lon-20-ha-rung-tai-tuyen-quang-hang-tram-nguoi-dap-lua-trong-dem-185250321233637803.htm) - 16:48 21/03/2025
-- 🤔 [Trường ĐH Trà Vinh có thêm 4 chương trình đạt kiểm định chất lượng quốc tế](https://thanhnien.vn/truong-dh-tra-vinh-co-them-4-chuong-trinh-dat-kiem-dinh-chat-luong-quoc-te-185250321163147818.htm) - 16:22 21/03/2025
-- 🧰 [Cảnh sát chống khủng bố Anh điều tra vụ cháy khiến sân bay Heathrow đóng cửa](https://thanhnien.vn/canh-sat-chong-khung-bo-anh-dieu-tra-vu-chay-khien-san-bay-heathrow-dong-cua-185250321203505347.htm) - 16:16 21/03/2025
-- 🌁 [Trước giờ khai màn giải bóng đá Thanh Niên sinh viên quốc tế 2025 - cúp THACO](https://thanhnien.vn/truoc-gio-khai-man-giai-bong-da-thanh-nien-sinh-vien-quoc-te-2025-cup-thaco-185250321213710038.htm) - 15:01 21/03/2025
-- 🧐 [Đi uống cà phê, bắt được diều hoa Miến Điện quý hiếm](https://thanhnien.vn/di-uong-ca-phe-bat-duoc-dieu-hoa-mien-dien-quy-hiem-185250321205719237.htm) - 14:41 21/03/2025
-- 🌏 [Cận cảnh nhan sắc ‘lão hóa ngược’ của Đan Trường ở tuổi 49](https://thanhnien.vn/can-canh-nhan-sac-lao-hoa-nguoc-cua-dan-truong-o-tuoi-49-185250321211303815.htm) - 14:24 21/03/2025
-- 🎬 [Tiến Linh tái phát chấn thương, dấu hỏi cho trận gặp Lào](https://thanhnien.vn/tien-linh-tai-phat-chan-thuong-dau-hoi-cho-tran-gap-lao-185250321182737046.htm) - 14:22 21/03/2025
-- 🚀 [Tìm người thân bé gái sơ sinh 1 ngày tuổi bị bỏ rơi ở Củ Chi](https://thanhnien.vn/tim-nguoi-than-be-gai-so-sinh-1-ngay-tuoi-bi-bo-roi-o-cu-chi-185250321201625142.htm) - 14:08 21/03/2025
-- 🙉 [Nhiều lần ‘bất ngờ’ vì đèn đỏ, tài xế mong khôi phục đèn giao thông đếm ngược](https://thanhnien.vn/nhieu-lan-bat-ngo-vi-den-do-tai-xe-mong-khoi-phuc-den-giao-thong-dem-nguoc-18525032119165424.htm) - 13:47 21/03/2025
-- 🐵 [Mở rào công viên Thống Nhất: Tuy thoáng nhưng lo lại thêm rác](https://thanhnien.vn/mo-rao-cong-vien-thong-nhat-tuy-thoang-nhung-lo-lai-them-rac-185250321181203741.htm) - 13:47 21/03/2025
-- 🐎 [Vừa lái xe khách vừa…chơi game](https://thanhnien.vn/vua-lai-xe-khach-vuachoi-game-18525032119532012.htm) - 13:43 21/03/2025
-- 🕯 [Sản xuất thuốc bảo vệ thực vật giả, hai bị cáo lãnh 20 năm tù](https://thanhnien.vn/san-xuat-thuoc-bao-ve-thuc-vat-gia-hai-bi-cao-lanh-20-nam-tu-185250321172129876.htm) - 13:38 21/03/2025
-- 👀 [Triều Tiên nắm giữ lượng Bitcoin lớn thứ ba thế giới](https://thanhnien.vn/trieu-tien-nam-giu-luong-bitcoin-lon-thu-ba-the-gioi-185250320235914773.htm) - 13:35 21/03/2025
-- 🦒 [YouTube Premium giúp nghe nhạc &#39;chất&#39; hơn](https://thanhnien.vn/youtube-premium-giup-nghe-nhac-chat-hon-185250320214325824.htm) - 13:30 21/03/2025
-- 🧐 [Lễ hội bánh mì Việt Nam ở TP.HCM đông nghẹt thực khách](https://thanhnien.vn/le-hoi-banh-mi-viet-nam-o-tphcm-dong-nghet-thuc-khach-185250321194044386.htm) - 13:19 21/03/2025
-- 🌊 [Samsung công bố thêm 15 thiết bị Galaxy nhận được One UI 7](https://thanhnien.vn/samsung-cong-bo-them-15-thiet-bi-galaxy-nhan-duoc-one-ui-7-185250321175956915.htm) - 13:18 21/03/2025
-- 🧑‍🏫 [Long An cần lựa chọn đầu tư để phát triển bền vững](https://thanhnien.vn/long-an-can-lua-chon-dau-tu-de-phat-trien-ben-vung-185250321182627606.htm) - 13:09 21/03/2025
-- 🫣 [Bàn giao chim săn mồi bắt rắn ở cánh đồng ngô cho kiểm lâm](https://thanhnien.vn/ban-giao-chim-san-moi-bat-ran-o-canh-dong-ngo-cho-kiem-lam-185250321190722239.htm) - 13:05 21/03/2025
-- 👺 [Phát hiện bất ngờ về cách tập thể dục tốt nhất cho tuổi thọ](https://thanhnien.vn/phat-hien-bat-ngo-ve-cach-tap-the-duc-tot-nhat-cho-tuoi-tho-185250320220453481.htm) - 13:01 21/03/2025
-- 🧑‍🏫 [Xem nhanh 20h ngày 21.3: Mất an toàn khi check-in &#39;Hàm cá mập&#39; | Dàn nam thần sinh viên Singapore đổ bộ TP.HCM](https://thanhnien.vn/xem-nhanh-20h-ngay-213-mat-an-toan-khi-check-in-ham-ca-map-dan-nam-than-sinh-vien-singapore-do-bo-tphcm-185250321193837242.htm) - 13:00 21/03/2025
-- 🌊 [Hứng khởi hè sang với những mẫu váy xòe đa sắc](https://thanhnien.vn/thoi-trang-tre/hung-khoi-he-sang-voi-nhung-mau-vay-xoe-da-sac-185250321094529751.htm) - 13:00 21/03/2025
-- 🕯 [Kho dầu bị Ukraine đánh cháy rừng rực, Nga chờ xem Mỹ xử lý](https://thanhnien.vn/kho-dau-bi-ukraine-danh-chay-rung-ruc-nga-cho-xem-my-xu-ly-185250321164408902.htm) - 12:55 21/03/2025
-- 🐲 [Siêu thực phẩm - dưỡng chất chạm đỉnh cho làn da trẻ trung, khỏe đẹp](https://thanhnien.vn/sieu-thuc-pham-duong-chat-cham-dinh-cho-lan-da-tre-trung-khoe-dep-185250321174743303.htm) - 12:53 21/03/2025
-- ⛽️ [Trước thềm đối thoại Mỹ-Israel, Nga bảo vệ quyền phát triển hạt nhân của Iran](https://thanhnien.vn/truoc-them-doi-thoai-my-israel-nga-bao-ve-quyen-phat-trien-hat-nhan-cua-iran-185250321191851361.htm) - 12:51 21/03/2025
-- 🎉 [Tiền đạo Bùi Vĩ Hào nói điều bất ngờ trước ngày thầy Kim chốt nhân sự đấu Lào](https://thanhnien.vn/tien-dao-bui-vi-hao-noi-dieu-bat-ngo-truoc-ngay-thay-kim-chot-nhan-su-dau-lao-185250321194512244.htm) - 12:50 21/03/2025
-- 🎊 [&#39;Love Lies’: Yêu giả, tình thật](https://thanhnien.vn/love-lies-yeu-gia-tinh-that-185250321143319005.htm) - 12:43 21/03/2025
-- 🥳 [Kho bạc Nhà nước tiếp tục mua thêm 300 triệu USD, giá USD tăng](https://thanhnien.vn/kho-bac-nha-nuoc-tiep-tuc-mua-them-300-trieu-usd-gia-usd-tang-185250321194058761.htm) - 12:41 21/03/2025
-- 🤡 [Thời tiết dị thường ở miền Bắc](https://thanhnien.vn/thoi-tiet-di-thuong-o-mien-bac-185250321190458817.htm) - 12:36 21/03/2025<!-- thanhnien:END -->
+- 🤠 [Năm 2030 có được miễn viện phí?](https://thanhnien.vn/nam-2030-co-duoc-mien-vien-phi-185250321191742877.htm) - 01:49 22/03/2025
+- 🥸 [Ông Trump bác tin tỉ phú Musk nắm được kế hoạch chiến tranh mật của Mỹ](https://thanhnien.vn/ong-trump-bac-tin-ti-phu-musk-nam-duoc-ke-hoach-chien-tranh-mat-cua-my-185250322081302237.htm) - 01:42 22/03/2025
+- 🌁 [Khởi tố 2 bị can liên quan vụ gian lận tuổi ở Sông Lam Nghệ An](https://thanhnien.vn/khoi-to-2-bi-can-lien-quan-vu-gian-lan-tuoi-o-song-lam-nghe-an-185250322074822065.htm) - 01:34 22/03/2025
+- 🤡 [Lái xe khi xăng gần cạn bình: Thói quen gây hại động cơ phổ biến](https://thanhnien.vn/lai-xe-khi-xang-gan-can-binh-thoi-quen-gay-hai-dong-co-pho-bien-185250320183401116.htm) - 01:32 22/03/2025
+- 🎉 [Xôn xao khách Tây chở ngựa vàng mã từ Hà Nội lên Hà Giang](https://thanhnien.vn/xon-xao-khach-tay-cho-ngua-vang-ma-tu-ha-noi-len-ha-giang-185250321144712315.htm) - 01:15 22/03/2025
+- 🎊 [Những tác dụng tuyệt vời của trà kỷ tử hoa cúc ngày nóng](https://thanhnien.vn/nhung-tac-dung-tuyet-voi-cua-tra-ky-tu-hoa-cuc-ngay-nong-185250321114335955.htm) - 01:14 22/03/2025
+- 🤠 [&#39;Bóng đá truyền cảm hứng giáo dục, phát triển 
+thanh niên&#39;](https://thanhnien.vn/bong-da-truyen-cam-hung-giao-duc-phat-trien-thanh-nien-185250321201443773.htm) - 01:13 22/03/2025
+- 💼 [Bộ GD-ĐT công bố quy chế: Các trường ĐH, CĐ có điều chỉnh tuyển sinh năm 2025?](https://thanhnien.vn/bo-gd-dt-cong-bo-quy-che-cac-truong-dh-cd-co-dieu-chinh-tuyen-sinh-nam-2025-185250320221236904.htm) - 01:10 22/03/2025
+- 🐻 [Tổng thống Trump giao Boeing sản xuất tiêm kích thế hệ thứ sáu F-47 thay F-22](https://thanhnien.vn/tong-thong-trump-giao-boeing-san-xuat-tiem-kich-the-he-thu-sau-f-47-thay-f-22-185250321232133338.htm) - 01:06 22/03/2025
+- 🤔 [Ông Trump nói chuẩn bị &#39;chia lãnh thổ&#39; giữa Nga và Ukraine](https://thanhnien.vn/ong-trump-noi-chuan-bi-chia-lanh-tho-giua-nga-va-ukraine-185250322070358852.htm) - 01:05 22/03/2025
+- 📝 [Israel dọa sáp nhập Gaza để buộc Hamas thả con tin](https://thanhnien.vn/israel-doa-sap-nhap-gaza-de-buoc-hamas-tha-con-tin-185250322075600996.htm) - 01:02 22/03/2025
+- 🥰 [Đối thủ của đội tuyển Việt Nam gây sốc trước vòng loại Asian Cup 2027](https://thanhnien.vn/doi-thu-cua-doi-tuyen-viet-nam-gay-soc-truoc-vong-loai-asian-cup-2027-185250322075130542.htm) - 01:01 22/03/2025
+- 🐲 [Cặp đôi mặc đồ cô dâu, chú rể phục vụ những tô mì 0 đồng](https://thanhnien.vn/cap-doi-mac-do-co-dau-chu-re-phuc-vu-nhung-to-mi-0-dong-185250321171318794.htm) - 01:00 22/03/2025
+- 🎃 [Quang Thắng hào hứng diện trang phục dân tộc Thái tại chợ Mai Sơn](https://thanhnien.vn/quang-thang-hao-hung-dien-trang-phuc-dan-toc-thai-tai-cho-mai-son-185250321153411214.htm) - 01:00 22/03/2025
+- 🎬 [Bí quyết phối đồ chuẩn gu nữ sinh thành thị, vừa sang vừa xinh](https://thanhnien.vn/thoi-trang-tre/bi-quyet-phoi-do-chuan-gu-nu-sinh-thanh-thi-vua-sang-vua-xinh-185250321095829253.htm) - 01:00 22/03/2025
+- 🌜 [Những thiết bị Galaxy vẫn đang xếp hàng chờ One UI 7](https://thanhnien.vn/nhung-thiet-bi-galaxy-van-dang-xep-hang-cho-one-ui-7-185250321230420563.htm) - 00:52 22/03/2025
+- 🦆 [Giá heo hơi hôm nay 22.3.2025: Thị trường xa dần mốc 80.000 đồng/kg](https://thanhnien.vn/gia-heo-hoi-hom-nay-2232025-thi-truong-xa-dan-moc-80000-dong-kg-18525032207060872.htm) - 00:32 22/03/2025
+- 🐵 [Bộ Giáo dục bị ông Trump giải thể, người Mỹ sẽ bị ảnh hưởng gì?](https://thanhnien.vn/bo-giao-duc-bi-ong-trump-giai-the-nguoi-my-se-bi-anh-huong-gi-185250321163359215.htm) - 00:28 22/03/2025
+- 🙉 [Quân đội Mỹ khoe vũ khí giá rẻ chặn được mối đe dọa UAV Houthi](https://thanhnien.vn/quan-doi-my-khoe-vu-khi-gia-re-chan-duoc-moi-de-doa-uav-houthi-185250321135710979.htm) - 00:22 22/03/2025
+- 🌋 [Hồ Đức Vĩnh cùng &#39;anh tài&#39; Hồng Sơn, Tuấn Hưng đấu pickleball với Lý Hoàng Nam](https://thanhnien.vn/ho-duc-vinh-cung-anh-tai-hong-son-tuan-hung-dau-pickleball-voi-ly-hoang-nam-185250321202609612.htm) - 00:18 22/03/2025
+- 🐻 [Các anh tài bóng đá sinh viên ra mắt](https://thanhnien.vn/cac-anh-tai-bong-da-sinh-vien-ra-mat-185250321201219834.htm) - 00:09 22/03/2025
+- 🧠 [Tín hiệu tích cực từ đội tuyển U.22 Việt Nam](https://thanhnien.vn/tin-hieu-tich-cuc-tu-doi-tuyen-u22-viet-nam-18525032118472668.htm) - 00:07 22/03/2025
+- 🔥 [Điện mừng kỷ niệm 70 năm ngày thành lập Đảng Nhân dân cách mạng Lào](https://thanhnien.vn/dien-mung-ky-niem-70-nam-ngay-thanh-lap-dang-nhan-dan-cach-mang-lao-185250321220709995.htm) - 23:53 21/03/2025
+- 🌋 [Giáo dục mâu thuẫn với chính mình](https://thanhnien.vn/giao-duc-mau-thuan-voi-chinh-minh-185250321220738336.htm) - 23:49 21/03/2025
+- 😎 [TP.HCM lập trung tâm công nghệ cao đa mục tiêu ở đâu?](https://thanhnien.vn/tphcm-lap-trung-tam-cong-nghe-cao-da-muc-tieu-o-dau-185250321215254668.htm) - 23:45 21/03/2025
+- 🥰 [Theo dấu nhà báo Hải Triều: Tên tuổi Hải Triều là &#39;một vốn quý&#39;](https://thanhnien.vn/theo-dau-nha-bao-hai-trieu-ten-tuoi-hai-trieu-la-mot-von-quy-185250321214040661.htm) - 23:37 21/03/2025
+- 🧑‍🏫 [Tin tức đặc biệt trên báo in Thanh Niên 22.3.2025](https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2232025-18525032123221272.htm) - 23:35 21/03/2025
+- 💄 [Nghề lái tàu metro: Bước ngoặt cuộc đời](https://thanhnien.vn/nghe-lai-tau-metro-buoc-ngoat-cuoc-doi-185250321153330692.htm) - 23:35 21/03/2025
+- 💯 [Khuyến khích doanh nghiệp Pháp tham gia các dự án giao thông lớn](https://thanhnien.vn/khuyen-khich-doanh-nghiep-phap-tham-gia-cac-du-an-giao-thong-lon-185250321220134865.htm) - 23:15 21/03/2025
+- 🚀 [Đột phá chính sách nhà ở xã hội](https://thanhnien.vn/dot-pha-chinh-sach-nha-o-xa-hoi-185250321184532428.htm) - 23:15 21/03/2025
+- 🦣 [Lừa đảo trực tuyến lại biến tấu](https://thanhnien.vn/lua-dao-truc-tuyen-lai-bien-tau-185250321185248198.htm) - 23:14 21/03/2025
+- 👹 [Sầu riêng gặp khó, xuất khẩu rau quả giảm sâu](https://thanhnien.vn/sau-rieng-gap-kho-xuat-khau-rau-qua-giam-sau-185250321201423852.htm) - 23:12 21/03/2025
+- 🦄 [Tháo chốt để kinh tế tư nhân bứt phá: Doanh nghiệp nhỏ không thể lớn vì vốn](https://thanhnien.vn/thao-chot-de-kinh-te-tu-nhan-but-pha-doanh-nghiep-nho-khong-the-lon-vi-von-185250321174542701.htm) - 23:11 21/03/2025
+- 🤔 [Dệt may, da giày, gỗ vẫn sáng cửa](https://thanhnien.vn/det-may-da-giay-go-van-sang-cua-185250321214313715.htm) - 23:10 21/03/2025
+- 🧰 [Diễn biến khó đoán của giá vàng](https://thanhnien.vn/dien-bien-kho-doan-cua-gia-vang-185250321231302486.htm) - 23:07 21/03/2025
+- 🌁 [NATO trước viễn cảnh &#39;tan đàn xẻ nghé&#39;](https://thanhnien.vn/nato-truoc-vien-canh-tan-dan-xe-nghe-185250321231149603.htm) - 23:06 21/03/2025
+- 🧐 [Quy đổi tương đương điểm trúng tuyển: Còn nhiều ý kiến trái chiều](https://thanhnien.vn/quy-doi-tuong-duong-diem-trung-tuyen-con-nhieu-y-kien-trai-chieu-185250321215304809.htm) - 23:06 21/03/2025
+- 🌏 [Hừng hực xung trận như ĐH Life: Chúng tôi sẽ mang cúp về nhà](https://thanhnien.vn/hung-huc-xung-tran-nhu-dh-life-chung-toi-se-mang-cup-ve-nha-185250322001118306.htm) - 23:00 21/03/2025
+- 🎬 [Báo Thanh Niên trao học bổng và nhà tình nghĩa tại Cà Mau](https://thanhnien.vn/bao-thanh-nien-trao-hoc-bong-va-nha-tinh-nghia-tai-ca-mau-185250321231617509.htm) - 23:00 21/03/2025
+- 🚀 [Sách hay: Sự tan rã âm thầm trong thế giới của Ingeborg Bachmann](https://thanhnien.vn/sach-hay-su-tan-ra-am-tham-trong-the-gioi-cua-ingeborg-bachmann-185250321213625932.htm) - 23:00 21/03/2025
+- 🙉 [Tư vấn mùa thi đến với học sinh Lâm Đồng ngay khi có quy chế tuyển sinh](https://thanhnien.vn/tu-van-mua-thi-den-voi-hoc-sinh-lam-dong-ngay-khi-co-quy-che-tuyen-sinh-185250321202828675.htm) - 22:45 21/03/2025
+- 🐵 [&#39;Quỷ nhập tràng&#39; là phim kinh dị Việt có doanh thu cao nhất](https://thanhnien.vn/quy-nhap-trangla-phim-kinh-di-viet-co-doanh-thu-cao-nhat-185250321214349543.htm) - 22:39 21/03/2025
+- 🐎 [Chỉnh trang vỉa hè tại TP.HCM, người dân mong chờ sớm hoàn thiện](https://thanhnien.vn/chinh-trang-via-he-tai-tphcm-nguoi-dan-mong-cho-som-hoan-thien-185250321115258154.htm) - 22:39 21/03/2025
+- 🕯 [Showbiz 21.3: Ngọc Huyền làm rõ phát ngôn liên quan Quý Bình; Đăng Khôi tung MV mới](https://thanhnien.vn/showbiz-213-ngoc-huyen-lam-ro-phat-ngon-lien-quan-quy-binh-dang-khoi-tung-mv-moi-185250322020537615.htm) - 22:30 21/03/2025
+- 👀 [Lắt léo chữ nghĩa: Bàn về chữ &#39;tâm&#39;](https://thanhnien.vn/lat-leo-chu-nghia-ban-ve-chu-tam-18525032121464462.htm) - 22:23 21/03/2025
+- 🦒 [Israel căng thẳng cả trong lẫn ngoài](https://thanhnien.vn/israel-cang-thang-ca-trong-lan-ngoai-185250321230600837.htm) - 22:01 21/03/2025
+- 🧐 [Để thành lập, nhập, chia đơn vị hành chính cần đáp ứng điều kiện nào?](https://thanhnien.vn/de-thanh-lap-nhap-chia-don-vi-hanh-chinh-can-dap-ung-dieu-kien-nao-185250320182529349.htm) - 22:00 21/03/2025
+- 🌊 [TP.HCM nghĩa tình: &#39;Kỳ nữ&#39; Kim Cương sống cho người và cho thành phố hạnh phúc](https://thanhnien.vn/tphcm-nghia-tinh-ky-nu-kim-cuong-song-cho-nguoi-va-cho-thanh-pho-hanh-phuc-185250320133017204.htm) - 22:00 21/03/2025
+- 🧑‍🏫 [Tổng thống Trump xóa sổ Bộ Giáo dục Mỹ](https://thanhnien.vn/tong-thong-trump-xoa-so-bo-giao-duc-my-185250321225551248.htm) - 21:51 21/03/2025
+- 🫣 [Chiến sự Ukraine ngày 1.122: Tranh cãi về nổ trạm khí đốt trước đàm phán Jeddah](https://thanhnien.vn/chien-su-ukraine-ngay-1122-tranh-cai-ve-no-tram-khi-dot-truoc-dam-phan-jeddah-185250321210157753.htm) - 21:31 21/03/2025
+- 👺 [Sống ở TP.HCM: Độc lạ 13 &#39;đường hoa&#39; nhưng rất ít trồng hoa](https://thanhnien.vn/song-o-tphcm-doc-la-13-duong-hoa-nhung-rat-it-trong-hoa-185250320215935612.htm) - 21:24 21/03/2025
+- 🧑‍🏫 [Chuyện thầm kín: Nghiện mạng xã hội có ảnh hưởng ham muốn tình dục?](https://thanhnien.vn/chuyen-tham-kin-nghien-mang-xa-hoi-co-anh-huong-ham-muon-tinh-duc-185250321204430729.htm) - 21:09 21/03/2025
+- 🌊 [Báo động tội phạm ma túy gen Z: Hàng loạt án tử hình &#39;ông trùm, bà trùm&#39;](https://thanhnien.vn/bao-dong-toi-pham-ma-tuy-gen-z-hang-chuc-an-tu-hinh-ong-trum-ba-trum-185250313164310948.htm) - 21:03 21/03/2025
+- 🕯 [Huỳnh Như được &#39;tiếp lửa&#39; với bộ đôi Việt kiều và chân sút người Mỹ](https://thanhnien.vn/huynh-nhu-duoc-tiep-lua-voi-bo-doi-viet-kieu-va-chan-sut-nguoi-my-185250322005308324.htm) - 20:30 21/03/2025
+- 🐲 [Ngày mới với tin tức sức khỏe: Những việc cần làm giúp phòng đột quỵ](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-nhung-viec-can-lam-giup-phong-dot-quy-185250321222403294.htm) - 17:10 21/03/2025
+- ⛽️ [Bất ngờ phát hiện thuốc trị mỡ máu có khả năng chống ung thư gan](https://thanhnien.vn/bat-ngo-phat-hien-thuoc-tri-mo-mau-co-kha-nang-chong-ung-thu-gan-185250321142320965.htm) - 17:08 21/03/2025
+- 🎉 [4 dấu hiệu tiềm ẩn của thiếu vitamin không nên phớt lờ](https://thanhnien.vn/4-dau-hieu-tiem-an-cua-thieu-vitamin-khong-nen-phot-lo-185250316125417371.htm) - 17:07 21/03/2025
+- 🎊 [Đằng sau cách dùng người gây tranh cãi của HLV Kim Sang-sik](https://thanhnien.vn/dang-sau-cach-dung-nguoi-gay-tranh-cai-cua-hlv-kim-sang-sik-185250321184229229.htm) - 17:00 21/03/2025
+- 🥳 [Cháy lớn 20 ha rừng tại Tuyên Quang, hàng trăm người dập lửa trong đêm](https://thanhnien.vn/chay-lon-20-ha-rung-tai-tuyen-quang-hang-tram-nguoi-dap-lua-trong-dem-185250321233637803.htm) - 16:48 21/03/2025
+- 🤡 [Trường ĐH Trà Vinh có thêm 4 chương trình đạt kiểm định chất lượng quốc tế](https://thanhnien.vn/truong-dh-tra-vinh-co-them-4-chuong-trinh-dat-kiem-dinh-chat-luong-quoc-te-185250321163147818.htm) - 16:22 21/03/2025<!-- thanhnien:END -->
 
 ## Báo Lao Động
 <!-- laodong:START -->
