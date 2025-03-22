@@ -7,7 +7,7 @@ sidebar_position: 8
 - 🌊 [Bắt giữ &quot;yêu râu xanh&quot; nhiều lần hiếp dâm 2 cháu nhỏ](https://dantri.com.vn/phap-luat/bat-giu-yeu-rau-xanh-nhieu-lan-hiep-dam-2-chau-nho-20250322192014259.htm) - 12:31 22/03/2025
 - 🐲 [Nhân viên phòng khám răng bị nhóm người lao vào đánh túi bụi](https://dantri.com.vn/phap-luat/nhan-vien-phong-kham-rang-bi-nhom-nguoi-lao-vao-danh-tui-bui-20250322185014344.htm) - 12:29 22/03/2025
 - 🌁 [Công an điều tra vụ nữ sinh cấp 2 sinh con](https://dantri.com.vn/phap-luat/cong-an-dieu-tra-vu-nu-sinh-cap-2-sinh-con-20250322181253477.htm) - 11:57 22/03/2025
-- 🎃 [&quot;Cát tặc&quot; lộng hành trên sông Krông Ana](https://dantri.com.vn/phap-luat/cat-tac-long-hanh-tren-song-krong-ana-20250322180127713.htm) - 11:30 22/03/2025
+- 🎃 [Công an phát hiện 8 điểm khai thác cát lậu trên sông Krông Na](https://dantri.com.vn/phap-luat/cong-an-phat-hien-8-diem-khai-thac-cat-lau-tren-song-krong-na-20250322180127713.htm) - 11:30 22/03/2025
 - 🦅 [Công an tìm ra người nhặt iPhone 16 ở sân bay Tân Sơn Nhất](https://dantri.com.vn/phap-luat/cong-an-tim-ra-nguoi-nhat-iphone-16-o-san-bay-tan-son-nhat-20250322160118048.htm) - 09:36 22/03/2025
 - 🎭 [Công an cảnh báo trò lừa đảo &quot;đổ thạch&quot; đang sốt mạng](https://dantri.com.vn/phap-luat/cong-an-canh-bao-tro-lua-dao-do-thach-dang-sot-mang-20250322161459890.htm) - 09:33 22/03/2025
 - 🤗 [Cựu Chủ tịch FLC Trịnh Văn Quyết sắp hầu tòa phiên phúc thẩm](https://dantri.com.vn/phap-luat/cuu-chu-tich-flc-trinh-van-quyet-sap-hau-toa-phien-phuc-tham-20250322153020552.htm) - 08:47 22/03/2025
