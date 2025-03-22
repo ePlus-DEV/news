@@ -4,8 +4,8 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Pháo bị kéo vào ồn ào tình ái của ViruSs, phía nữ rapper nói gì?](https://dantri.com.vn/giai-tri/phao-bi-keo-vao-on-ao-tinh-ai-cua-viruss-phia-nu-rapper-noi-gi-20250322061235913.htm) - 00:30 22/03/2025
-- 🔥 [Lisa bị chỉ trích vì khoe da thịt ngay sau khi Jennie gặp sự cố hở bạo](https://dantri.com.vn/giai-tri/lisa-bi-chi-trich-vi-khoe-da-thit-ngay-sau-khi-jennie-gap-su-co-ho-bao-20250320182649896.htm) - 00:00 22/03/2025
+- 🤩 [Lisa bị chỉ trích vì khoe da thịt ngay sau khi Jennie gặp sự cố hở bạo](https://dantri.com.vn/giai-tri/lisa-bi-chi-trich-vi-khoe-da-thit-ngay-sau-khi-jennie-gap-su-co-ho-bao-20250320182649896.htm) - 03:00 22/03/2025
+- 🔥 [Pháo bị kéo vào ồn ào tình ái của ViruSs, phía nữ rapper nói gì?](https://dantri.com.vn/giai-tri/phao-bi-keo-vao-on-ao-tinh-ai-cua-viruss-phia-nu-rapper-noi-gi-20250322061235913.htm) - 00:30 22/03/2025
 - 🚀 [Đạo diễn loạt sân khấu tiền tỷ Hoàng Công Cường: &quot;Cô đơn là bạn đồng hành&quot;](https://dantri.com.vn/giai-tri/dao-dien-loat-san-khau-tien-ty-hoang-cong-cuong-co-don-la-ban-dong-hanh-20250321122353167.htm) - 23:47 21/03/2025
 - 🔥 [Á hậu Đào Thị Hiền phủ nhận tin đồn bị tước vương miện](https://dantri.com.vn/giai-tri/a-hau-dao-thi-hien-phu-nhan-tin-don-bi-tuoc-vuong-mien-20250321214056131.htm) - 23:02 21/03/2025
 - 🌈 [Triệu Lệ Dĩnh chấp nhận trở nên xấu xí để &quot;bước qua vùng an toàn&quot;](https://dantri.com.vn/giai-tri/trieu-le-dinh-chap-nhan-tro-nen-xau-xi-de-buoc-qua-vung-an-toan-20250321111238551.htm) - 23:00 21/03/2025
