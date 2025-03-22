@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Người Ấn Độ đón lễ Holi ở Việt Nam](https://vnexpress.net/nguoi-an-do-don-le-holi-o-viet-nam-4863125.html) - 23:31 21/03/2025
+- 🚀 [Người Ấn ở Việt Nam đón lễ Holi](https://vnexpress.net/nguoi-an-o-viet-nam-don-le-holi-4863125.html) - 23:31 21/03/2025
 - 🎓 [Xuyên đêm nấu ăn, khiêu vũ cùng người lạ](https://vnexpress.net/xuyen-dem-nau-an-khieu-vu-cung-nguoi-la-4863287.html) - 23:00 21/03/2025
 - 🚦 [Bò kho sả ớt](https://vnexpress.net/bo-kho-sa-ot-4864301.html) - 10:33 21/03/2025
 - 🦣 [Người dân mở nhà vệ sinh miễn phí cho khách qua đường](https://vnexpress.net/nguoi-dan-mo-nha-ve-sinh-mien-phi-cho-khach-qua-duong-4864291.html) - 10:27 21/03/2025
