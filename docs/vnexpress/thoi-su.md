@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Tài xế xe buýt bị đình chỉ công tác vì làm ngã nữ sinh](https://vnexpress.net/tai-xe-xe-buyt-bi-dinh-chi-cong-tac-vi-lam-nga-nu-sinh-4864493.html) - 03:29 22/03/2025
+- 🦒 [Tài xế xe buýt bị đình chỉ công việc vì làm ngã nữ sinh](https://vnexpress.net/tai-xe-xe-buyt-bi-dinh-chi-cong-viec-vi-lam-nga-nu-sinh-4864493.html) - 03:29 22/03/2025
 - 🤓 [Cháy hơn 20 ha rừng ở Tuyên Quang](https://vnexpress.net/chay-hon-20-ha-rung-o-tuyen-quang-4864450.html) - 03:16 22/03/2025
 - ⚗️ [Bà Hồ Thị Hoàng Yến làm Bí thư Bến Tre](https://vnexpress.net/ba-ho-thi-hoang-yen-lam-bi-thu-ben-tre-4863084.html) - 02:27 22/03/2025
 - 🌊 [Doanh nghiệp loay hoay đăng kiểm xe siêu trường, siêu trọng](https://vnexpress.net/doanh-nghiep-loay-hoay-dang-kiem-xe-sieu-truong-sieu-trong-4864265.html) - 00:00 22/03/2025
