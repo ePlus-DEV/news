@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Kai Đinh, NÂN khuấy động đêm hội Tắt đèn 2025](https://dantri.com.vn/giai-tri/kai-dinh-nan-khuay-dong-dem-hoi-tat-den-2025-20250322125011761.htm) - 04:06 23/03/2025
+- 🤩 [Rapper Pháo tuổi 22: Nhan sắc thăng hạng, từng để đầu đinh gây sốc](https://dantri.com.vn/giai-tri/rapper-phao-tuoi-22-nhan-sac-thang-hang-tung-de-dau-dinh-gay-soc-20250323105600594.htm) - 04:19 23/03/2025
 - 🔥 [Gia đình Kim Sae Ron dừng tung ảnh, đáp trả nghi vấn về nhân chứng giả](https://dantri.com.vn/giai-tri/gia-dinh-kim-sae-ron-dung-tung-anh-dap-tra-nghi-van-ve-nhan-chung-gia-20250323095009153.htm) - 03:41 23/03/2025
 - 🚀 [&quot;Kết tinh thầm lặng&quot; - minh chứng về sự vô giá của ký ức](https://dantri.com.vn/giai-tri/ket-tinh-tham-lang-minh-chung-ve-su-vo-gia-cua-ky-uc-20250320160901536.htm) - 02:26 23/03/2025
 - 🔥 [&quot;Anh trai chông gai&quot; lập kỷ lục Guinness, NSND Tự Long nói lý do mặc đồ cũ](https://dantri.com.vn/giai-tri/anh-trai-chong-gai-lap-ky-luc-guinness-nsnd-tu-long-noi-ly-do-mac-do-cu-20250323070050274.htm) - 02:19 23/03/2025
