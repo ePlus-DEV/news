@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [Bất ngờ rộ tin HLV Mano Polking sắp chia tay bóng đá Việt Nam](https://dantri.com.vn/the-thao/bat-ngo-ro-tin-hlv-mano-polking-sap-chia-tay-bong-da-viet-nam-20250323190412859.htm) - 12:04 23/03/2025
 - 💯 [Báo UAE ngỡ ngàng sau kỳ tích không tưởng của đội nữ TPHCM](https://dantri.com.vn/the-thao/bao-uae-ngo-ngang-sau-ky-tich-khong-tuong-cua-doi-nu-tphcm-20250323183150321.htm) - 12:01 23/03/2025
-- ⛽️ [U22 Việt Nam 0-0 U22 Uzbekistan &lpar;hiệp hai&rpar;: Quyết tâm phòng thủ](https://dantri.com.vn/the-thao/u22-viet-nam-0-0-u22-uzbekistan-hiep-hai-quyet-tam-phong-thu-20250323182432414.htm) - 11:24 23/03/2025
+- ⛽️ [Hòa U22 Uzbekistan, U22 Việt Nam đua vô địch với U22 Trung Quốc](https://dantri.com.vn/the-thao/hoa-u22-uzbekistan-u22-viet-nam-dua-vo-dich-voi-u22-trung-quoc-20250323182432414.htm) - 11:24 23/03/2025
 - 💃 [U22 Trung Quốc thắng sốc Hàn Quốc, gây sức ép lên U22 Việt Nam](https://dantri.com.vn/the-thao/u22-trung-quoc-thang-soc-han-quoc-gay-suc-ep-len-u22-viet-nam-20250323164405966.htm) - 09:44 23/03/2025
 - 🌈 [Đội bóng Trung Quốc gây bất ngờ lớn, gặp CLB nữ TPHCM ở bán kết cúp C1](https://dantri.com.vn/the-thao/doi-bong-trung-quoc-gay-bat-ngo-lon-gap-clb-nu-tphcm-o-ban-ket-cup-c1-20250323163737452.htm) - 09:41 23/03/2025
 - 🦅 [Alcaraz trải lòng về thất bại sớm tại Miami Open](https://dantri.com.vn/the-thao/alcaraz-trai-long-ve-that-bai-som-tai-miami-open-20250323132250685.htm) - 06:23 23/03/2025
