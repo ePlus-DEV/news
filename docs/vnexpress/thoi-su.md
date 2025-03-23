@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Chuyến biển định mệnh của ngư dân tàu chụp mực](https://vnexpress.net/chuyen-bien-dinh-menh-cua-ngu-dan-tau-chup-muc-4864814.html) - 11:06 23/03/2025
+- 🦒 [Chuyến đi biển định mệnh của ngư dân tàu chụp mực](https://vnexpress.net/chuyen-di-bien-dinh-menh-cua-ngu-dan-tau-chup-muc-4864814.html) - 11:06 23/03/2025
 - 🤓 [Ra mắt sách những lần tách nhập đơn vị hành chính](https://vnexpress.net/ra-mat-sach-nhung-lan-tach-nhap-don-vi-hanh-chinh-4864831.html) - 10:31 23/03/2025
 - ⚗️ [Bị phạt vì lái valy điện trên đường trung tâm TP HCM](https://vnexpress.net/bi-phat-vi-lai-valy-dien-tren-duong-trung-tam-tp-hcm-4864811.html) - 09:02 23/03/2025
 - 🌊 [Kho điện máy ở Thái Nguyên cháy rụi](https://vnexpress.net/kho-dien-may-o-thai-nguyen-chay-rui-4864807.html) - 08:31 23/03/2025
