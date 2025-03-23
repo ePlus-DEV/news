@@ -57,4 +57,5 @@ sidebar_position: 9
 - 👍 [Ba phải giả vờ thờ ơ để con không bị ngược đãi ở nhà ngoại](https://vnexpress.net/ba-phai-gia-vo-tho-o-de-con-khong-bi-nguoc-dai-o-nha-ngoai-4864727.html) - 03:37 23/03/2025
 - 🔥 [Đảng Fatah kêu gọi Hamas từ bỏ quyền lực vì &#39;tồn vong của Palestine&#39;](https://vnexpress.net/dang-fatah-keu-goi-hamas-tu-bo-quyen-luc-vi-ton-vong-cua-palestine-4864729.html) - 03:26 23/03/2025
 - 💄 [HLV Kluivert bị xem là &#39;con rối&#39; ở đội tuyển Indonesia](https://vnexpress.net/hlv-kluivert-bi-xem-la-con-roi-o-doi-tuyen-indonesia-4864713.html) - 03:23 23/03/2025
-- 🤡 [Sách về khai phá &#39;miền xuất sắc&#39; của con người](https://vnexpress.net/sach-ve-khai-pha-mien-xuat-sac-cua-con-nguoi-4864629.html) - 03:07 23/03/2025<!-- vnexpress-tin-moi-nhat:END -->
+- 🤡 [Sách về khai phá &#39;miền xuất sắc&#39; của con người](https://vnexpress.net/sach-ve-khai-pha-mien-xuat-sac-cua-con-nguoi-4864629.html) - 03:07 23/03/2025
+- ⛽️ [Hải Dương dừng xây khu hành chính tập trung](https://vnexpress.net/hai-duong-dung-xay-khu-hanh-chinh-tap-trung-4864730.html) - 03:06 23/03/2025<!-- vnexpress-tin-moi-nhat:END -->
