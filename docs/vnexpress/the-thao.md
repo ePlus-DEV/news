@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Cuộc ngược dòng khó tin của CLB nữ TP HCM](https://vnexpress.net/cuoc-nguoc-dong-kho-tin-cua-clb-nu-tp-hcm-4864737.html) - 03:46 23/03/2025
 - 🦩 [HLV Kluivert bị xem là &#39;con rối&#39; ở đội tuyển Indonesia](https://vnexpress.net/hlv-kluivert-bi-xem-la-con-roi-o-doi-tuyen-indonesia-4864713.html) - 03:23 23/03/2025
 - 🧰 [Alvarez đòi sửa luật đá 11m](https://vnexpress.net/alvarez-doi-sua-luat-da-11m-4864683.html) - 01:10 23/03/2025
-- 🤗 [Ronaldo: &#39;Hy vọng Hojlund sẽ thấy tôi mừng bàn trận tới&#39;](https://vnexpress.net/ronaldo-hy-vong-hojlund-se-thay-toi-mung-ban-tran-toi-4864686.html) - 01:09 23/03/2025
+- 🤗 [Ronaldo: &#39;Hy vọng trận tới Hojlund sẽ thấy tôi mừng bàn thắng&#39;](https://vnexpress.net/ronaldo-hy-vong-tran-toi-hojlund-se-thay-toi-mung-ban-thang-4864686.html) - 01:09 23/03/2025
 - 🥳 [Haaland giúp Na Uy ra quân đại thắng ở vòng loại World Cup](https://vnexpress.net/haaland-giup-na-uy-ra-quan-dai-thang-o-vong-loai-world-cup-4864684.html) - 01:05 23/03/2025
 - 🦣 [Alcaraz thừa nhận chơi kém vì thể chất](https://vnexpress.net/alcaraz-thua-nhan-choi-kem-vi-the-chat-4864698.html) - 01:04 23/03/2025
 - 🌜 [&#39;Pha giao cầu giành HC vàng của Việt Nam không chỉ là may mắn&#39;](https://vnexpress.net/pha-giao-cau-gianh-hc-vang-cua-viet-nam-khong-chi-la-may-man-4864638.html) - 00:58 23/03/2025
