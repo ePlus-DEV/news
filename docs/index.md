@@ -263,7 +263,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤩 [Ukraine hé lộ kế hoạch bí mật về nhà máy điện hạt nhân](https://nld.com.vn/ukraine-he-lo-ke-hoach-bi-mat-ve-nha-may-dien-hat-nhan-196250323092500415.htm) - 03:24 23/03/2025
 - 🎭 [Quảng Nam thông xe kỹ thuật cầu Sông Thu và cầu An Bình hơn 900 tỉ đồng](https://nld.com.vn/quang-nam-thong-xe-ky-thuat-cau-song-thu-va-cau-an-binh-hon-900-ti-dong-196250323100615565.htm) - 03:22 23/03/2025
 - 💄 [Diễn biến mới vụ lừa đảo, chiếm đoạt tài sản gây rúng động ở Quảng Bình](https://nld.com.vn/dien-bien-moi-vu-lua-dao-chiem-doat-tai-san-gay-rung-dong-o-quang-binh-196250323094953167.htm) - 03:20 23/03/2025
-- 🎊 [Ca sĩ Sỹ Luân mất trí sau 2 lần mổ não](https://nld.com.vn/ca-si-sy-luan-mat-tri-sau-2-lan-mo-nao-196250323093548594.htm) - 02:52 23/03/2025
+- 🎊 [Ca sĩ Sỹ Luân mất trí nhớ sau 2 lần mổ não](https://nld.com.vn/ca-si-sy-luan-mat-tri-sau-2-lan-mo-nao-196250323093548594.htm) - 02:52 23/03/2025
 - 🎡 [Hàng nghìn người dân TP HCM tham gia Ngày chạy Olympic](https://nld.com.vn/hang-nghin-nguoi-dan-tp-hcm-tham-gia-ngay-chay-olympic-196250323094647046.htm) - 02:49 23/03/2025
 - 🎉 [Ninh Bình thu hồi quyết định bổ nhiệm 3 Phó giám đốc sở](https://nld.com.vn/ninh-binh-thu-hoi-quyet-dinh-bo-nhiem-3-pho-giam-doc-so-196250323093440806.htm) - 02:42 23/03/2025
 - 😺 [Smartphone 5G giá rẻ, bảo mật an toàn](https://nld.com.vn/smartphone-5g-gia-re-bao-mat-an-toan-196250322184330216.htm) - 02:42 23/03/2025
