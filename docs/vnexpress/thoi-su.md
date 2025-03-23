@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Diện mạo Bãi Sau Vũng Tàu sau gần 5 tháng chỉnh trang](https://vnexpress.net/dien-mao-bai-sau-vung-tau-sau-gan-5-thang-chinh-trang-4864622.html) - 23:00 22/03/2025
+- 🦒 [Diện mạo Bãi Sau Vũng Tàu sau 5 tháng chỉnh trang](https://vnexpress.net/dien-mao-bai-sau-vung-tau-sau-5-thang-chinh-trang-4864622.html) - 23:00 22/03/2025
 - 🤓 [Khánh thành đập dâng nước hình chiếc lá ở Bình Định](https://vnexpress.net/khanh-thanh-dap-dang-nuoc-hinh-chiec-la-o-binh-dinh-4864627.html) - 12:22 22/03/2025
 - ⚗️ [Lộ trình sáp nhập đơn vị hành chính cấp tỉnh trên toàn quốc](https://vnexpress.net/lo-trinh-sap-nhap-don-vi-hanh-chinh-cap-tinh-tren-toan-quoc-4864585.html) - 10:40 22/03/2025
 - 🌊 [Xây thêm 4 cầu Hy Vọng ở miền Tây](https://vnexpress.net/xay-them-4-cau-hy-vong-o-mien-tay-4864504.html) - 08:57 22/03/2025
