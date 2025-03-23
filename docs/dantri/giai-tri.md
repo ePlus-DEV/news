@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Nghệ sĩ Vũ Thanh thời trẻ lầm lỡ, về già đau đớn nhìn vợ nguy kịch](https://dantri.com.vn/giai-tri/nghe-si-vu-thanh-thoi-tre-lam-lo-ve-gia-dau-don-nhin-vo-nguy-kich-20250321173615479.htm) - 23:00 23/03/2025
+- 🤩 [Nghệ sĩ Vũ Thanh thời trẻ lầm lỡ, tuổi xế chiều bất lực nhìn vợ nguy kịch](https://dantri.com.vn/giai-tri/nghe-si-vu-thanh-thoi-tre-lam-lo-tuoi-xe-chieu-bat-luc-nhin-vo-nguy-kich-20250321173615479.htm) - 23:00 23/03/2025
 - 🔥 [Bạn gái cầu thủ Ronaldo khoe dáng nóng bỏng ở Tuần lễ Thời trang Paris](https://dantri.com.vn/giai-tri/ban-gai-cau-thu-ronaldo-khoe-dang-nong-bong-o-tuan-le-thoi-trang-paris-20250321120211708.htm) - 09:29 23/03/2025
 - 🚀 [Đình Tú từng thử vai phim &quot;Độc đạo&quot;, đóng với ai người đó... lấy chồng](https://dantri.com.vn/giai-tri/dinh-tu-tung-thu-vai-phim-doc-dao-dong-voi-ai-nguoi-do-lay-chong-20250321165259916.htm) - 08:41 23/03/2025
 - 🔥 [Khán giả khóc khi xem &quot;Ngược chiều bình an&quot; của Nhà hát Kịch Việt Nam](https://dantri.com.vn/giai-tri/khan-gia-khoc-khi-xem-nguoc-chieu-binh-an-cua-nha-hat-kich-viet-nam-20250323144127113.htm) - 08:23 23/03/2025
