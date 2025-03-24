@@ -4,15 +4,15 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Fernandes mừng trước khi Ronaldo sút phạt đền hỏng](https://vnexpress.net/fernandes-mung-truoc-khi-ronaldo-sut-phat-den-hong-4865147.html) - 07:00 24/03/2025
-- 🦩 [Tay vợt Philippines tạo địa chấn ở Miami Mở rộng](https://vnexpress.net/tay-vot-philippines-tao-dia-chan-o-miami-mo-rong-4865068.html) - 06:53 24/03/2025
-- 🧰 [Yamal mừng bàn đáp trả danh thủ Hà Lan](https://vnexpress.net/yamal-mung-ban-dap-tra-danh-thu-ha-lan-4865071.html) - 06:47 24/03/2025
-- 🤗 [Tuchel chê Rashford, Foden](https://vnexpress.net/tuchel-che-rashford-foden-4865090.html) - 06:42 24/03/2025
-- 🥳 [Cộng đồng &#39;dậy sóng&#39; vì huy chương VnExpress Marathon Huế](https://vnexpress.net/cong-dong-day-song-vi-huy-chuong-vnexpress-marathon-hue-4864994.html) - 05:30 24/03/2025
-- 🦣 [Trần Thị Vui - HLV giúp cầu mây Việt Nam thâu tóm mọi danh hiệu](https://vnexpress.net/tran-thi-vui-hlv-giup-cau-may-viet-nam-thau-tom-moi-danh-hieu-4864671.html) - 04:48 24/03/2025
-- 🌜 [Juventus sa thải HLV Motta](https://vnexpress.net/juventus-sa-thai-hlv-motta-4864997.html) - 04:02 24/03/2025
-- 🫶 [Ronaldo nhận thêm kỷ lục Guinness](https://vnexpress.net/ronaldo-nhan-them-ky-luc-guinness-4865024.html) - 03:16 24/03/2025
-- 🌜 [Tiger Woods hẹn hò vợ cũ Donald Trump Junior](https://vnexpress.net/tiger-woods-hen-ho-vo-cu-donald-trump-junior-4864996.html) - 02:16 24/03/2025
+- 🪜 [CLB Thanh Hóa định chia tay HLV Popov từ Tết](https://vnexpress.net/clb-thanh-hoa-dinh-chia-tay-hlv-popov-tu-tet-4865184.html) - 07:52 24/03/2025
+- 🦩 [Fernandes mừng trước khi Ronaldo sút phạt đền hỏng](https://vnexpress.net/fernandes-mung-truoc-khi-ronaldo-sut-phat-den-hong-4865147.html) - 07:00 24/03/2025
+- 🧰 [Tay vợt Philippines tạo địa chấn ở Miami Mở rộng](https://vnexpress.net/tay-vot-philippines-tao-dia-chan-o-miami-mo-rong-4865068.html) - 06:53 24/03/2025
+- 🤗 [Yamal mừng bàn đáp trả danh thủ Hà Lan](https://vnexpress.net/yamal-mung-ban-dap-tra-danh-thu-ha-lan-4865071.html) - 06:47 24/03/2025
+- 🥳 [Tuchel chê Rashford, Foden](https://vnexpress.net/tuchel-che-rashford-foden-4865090.html) - 06:42 24/03/2025
+- 🦣 [Cộng đồng &#39;dậy sóng&#39; vì huy chương VnExpress Marathon Huế](https://vnexpress.net/cong-dong-day-song-vi-huy-chuong-vnexpress-marathon-hue-4864994.html) - 05:30 24/03/2025
+- 🌜 [Trần Thị Vui - HLV giúp cầu mây Việt Nam thâu tóm mọi danh hiệu](https://vnexpress.net/tran-thi-vui-hlv-giup-cau-may-viet-nam-thau-tom-moi-danh-hieu-4864671.html) - 04:48 24/03/2025
+- 🫶 [Juventus sa thải HLV Motta](https://vnexpress.net/juventus-sa-thai-hlv-motta-4864997.html) - 04:02 24/03/2025
+- 🌜 [Ronaldo nhận thêm kỷ lục Guinness](https://vnexpress.net/ronaldo-nhan-them-ky-luc-guinness-4865024.html) - 03:16 24/03/2025
 - 😺 [Cơ thủ Quốc Hoàng tiến gần lịch sử ở Premier League Pool](https://vnexpress.net/co-thu-quoc-hoang-tien-gan-lich-su-o-premier-league-pool-4864972.html) - 01:58 24/03/2025
 - 👍 [Djokovic xô đổ kỷ lục của Nadal](https://vnexpress.net/djokovic-xo-do-ky-luc-cua-nadal-4864958.html) - 01:06 24/03/2025
 - 🐵 [Cậu bé nhặt bóng trở thành người hùng khi Đức loại Italy](https://vnexpress.net/cau-be-nhat-bong-tro-thanh-nguoi-hung-khi-duc-loai-italy-4864949.html) - 00:59 24/03/2025
