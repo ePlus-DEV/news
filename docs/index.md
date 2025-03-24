@@ -529,7 +529,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Soi profile con trai của Ae Sun và Gwan Sik trong Khi cuộc đời cho bạn quả quýt](https://muctim.tuoitre.vn/soi-profile-con-trai-cua-ae-sun-va-gwan-sik-trong-khi-cuoc-doi-cho-ban-qua-quyt-10125032416002953.htm) - 10:44 24/03/2025
-- 🥷 [800 học sinh Trường Tiểu học Nguyễn Thái Học cùng vui khỏe - tiến bước lên Đoàn](https://muctim.tuoitre.vn/800-hoc-sinh-truong-tieu-hoc-nguyen-thai-hoc-cung-vui-khoe-tien-buoc-len-doan-101250324163731224.htm) - 10:35 24/03/2025
+- 🥷 [800 học sinh Trường tiểu học Nguyễn Thái Học cùng vui khỏe - tiến bước lên Đoàn](https://muctim.tuoitre.vn/800-hoc-sinh-truong-tieu-hoc-nguyen-thai-hoc-cung-vui-khoe-tien-buoc-len-doan-101250324163731224.htm) - 10:35 24/03/2025
 - 🤖 [Các cột mốc cần lưu ý cho kỳ thi tốt nghiệp THPT 2025](https://muctim.tuoitre.vn/cac-cot-moc-can-luu-y-cho-ky-thi-tot-nghiep-thpt-2025-101250324170640174.htm) - 10:22 24/03/2025
 - 🤓 [Bộ Giáo dục và Đào tạo công bố lịch thi tốt nghiệp THPT 2025](https://muctim.tuoitre.vn/bo-giao-duc-va-dao-tao-cong-bo-lich-thi-tot-nghiep-thpt-2025-101250324134816651.htm) - 07:04 24/03/2025
 - 🎉 [Mời bạn đón nghe số thứ 2 của Podcast Câu chuyện lịch sử trên chuyên trang Mực Tím](https://muctim.tuoitre.vn/moi-ban-don-nghe-so-thu-2-cua-podcast-cau-chuyen-lich-su-tren-chuyen-trang-muc-tim-101250324102628752.htm) - 06:03 24/03/2025
