@@ -625,7 +625,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 📝 [Hòa U22 Trung Quốc, U22 Việt Nam lỡ cơ hội vô địch CFA Team China 2025](https://tienphong.vn/hoa-u22-trung-quoc-u22-viet-nam-lo-co-hoi-vo-dich-cfa-team-china-2025-post1728077.tpo) - 18:22 25/03/2025
 - 🤓 [Vụ chuyển nhầm cho tài xế grab 71 triệu đồng: Nữ hành khách đã nhận lại tiền](https://tienphong.vn/vu-chuyen-nham-cho-tai-xe-grab-71-trieu-dong-nu-hanh-khach-da-nhan-lai-tien-post1728121.tpo) - 18:11 25/03/2025
 - 🎭 [Bản tin Hình sự: Người phụ nữ mang vàng cất giấu rồi trình báo bị trộm](https://tienphong.vn/ban-tin-hinh-su-nguoi-phu-nu-mang-vang-cat-giau-roi-trinh-bao-bi-trom-post1728134.tpo) - 17:59 25/03/2025
-- 🐘 [Cần chính sách vượt trội để thu hút nhân tài công nghệ số](https://tienphong.vn/can-chinh-sach-vuot-troi-de-thu-hut-nhan-tai-cong-nghe-so-post1728104.tpo) - 17:54 25/03/2025
+- 🐘 [Cách nào tránh ‘chảy máu’ nhân tài?](https://tienphong.vn/cach-nao-tranh-chay-mau-nhan-tai-post1728104.tpo) - 17:54 25/03/2025
 - 😺 [Cựu Chủ tịch tỉnh An Giang khai gì về 300.000 USD &#39;quà cảm ơn&#39;?](https://tienphong.vn/cuu-chu-tich-tinh-an-giang-khai-gi-ve-300000-usd-qua-cam-on-post1728063.tpo) - 17:42 25/03/2025
 - 🌁 [Học sinh tìm ra hố đen &#39;hồn ma vũ trụ&#39; lớn gấp đôi Ngân Hà](https://tienphong.vn/hoc-sinh-tim-ra-ho-den-hon-ma-vu-tru-lon-gap-doi-ngan-ha-post1727956.tpo) - 17:39 25/03/2025
 - 💄 [Công an hỗ trợ người dân nhận lại 140 triệu đồng chuyển nhầm](https://tienphong.vn/cong-an-ho-tro-nguoi-dan-nhan-lai-140-trieu-dong-chuyen-nham-post1728127.tpo) - 17:28 25/03/2025
