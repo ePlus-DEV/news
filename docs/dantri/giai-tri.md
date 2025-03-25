@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Diễn viên &quot;Mùi ngò gai&quot; giải nghệ sang Mỹ: Luôn nhớ quê, phát hiện khối u](https://dantri.com.vn/giai-tri/dien-vien-mui-ngo-gai-giai-nghe-sang-my-luon-nho-que-phat-hien-khoi-u-20250325150310170.htm) - 23:00 25/03/2025
+- 🤩 [Diễn viên &quot;Mùi ngò gai&quot; sau giải nghệ: Ở Mỹ nhớ quê, phát hiện khối u](https://dantri.com.vn/giai-tri/dien-vien-mui-ngo-gai-sau-giai-nghe-o-my-nho-que-phat-hien-khoi-u-20250325150310170.htm) - 23:00 25/03/2025
 - 🔥 [Hé lộ danh tính chồng của Kim Sae Ron, gia đình phủ nhận cô phá thai](https://dantri.com.vn/giai-tri/he-lo-danh-tinh-chong-cua-kim-sae-ron-gia-dinh-phu-nhan-co-pha-thai-20250325200225507.htm) - 13:42 25/03/2025
 - 🚀 [Doãn Hải My thu hút ánh nhìn với phong cách nữ tính](https://dantri.com.vn/giai-tri/doan-hai-my-thu-hut-anh-nhin-voi-phong-cach-nu-tinh-20250324173039479.htm) - 12:00 25/03/2025
 - 🔥 [&quot;Em gái quốc dân&quot; IU thu về hàng chục tỷ đồng từ hợp đồng quảng cáo đắt giá](https://dantri.com.vn/giai-tri/em-gai-quoc-dan-iu-thu-ve-hang-chuc-ty-dong-tu-hop-dong-quang-cao-dat-gia-20250324174554955.htm) - 09:00 25/03/2025
