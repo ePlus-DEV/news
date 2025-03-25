@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [Cung đường &#39;kiểu major&#39; của VnExpress Marathon Volvo All-Star](https://vnexpress.net/cung-duong-kieu-major-cua-vnexpress-marathon-volvo-all-star-4865663.html) - 15:59 25/03/2025
 - 🧰 [HLV Kim Sang-sik vẫn tiếc dù thắng đậm Lào](https://vnexpress.net/hlv-kim-sang-sik-van-tiec-du-thang-dam-lao-4865845.html) - 15:40 25/03/2025
 - 🤗 [Trung Quốc tan mộng giành vé trực tiếp dự World Cup 2026](https://vnexpress.net/trung-quoc-tan-mong-gianh-ve-truc-tiep-du-world-cup-2026-4865818.html) - 13:37 25/03/2025
-- 🥳 [Indonesia hạ Bahrain, sáng cửa đi tiếp ở vòng loại World Cup](https://vnexpress.net/truc-tiep-indonesia-vs-bahrain-4865767.html) - 13:18 25/03/2025
+- 🥳 [Indonesia hạ Bahrain, sáng cửa đi tiếp ở vòng loại World Cup](https://vnexpress.net/truc-tiep-indonesia-vs-bahrain-4865767-tong-thuat.html) - 13:18 25/03/2025
 - 🦣 [Việt Nam thắng dễ trận ra quân vòng loại Asian Cup](https://vnexpress.net/viet-nam-v-lao-4865664.html) - 11:57 25/03/2025
 - 🌜 [U22 Việt Nam vuột chức vô địch ở Trung Quốc](https://vnexpress.net/truc-tiep-bong-da-u22-trung-quoc-vs-u22-viet-nam-4865729-tong-thuat.html) - 11:00 25/03/2025
 - 🫶 [Tay vợt Philippines tạo lịch sử ở Miami Mở rộng](https://vnexpress.net/tay-vot-philippines-tao-lich-su-o-miami-mo-rong-4865635.html) - 06:41 25/03/2025
