@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Haaland lỡ hai cơ hội ngon trong 10 giây](https://vnexpress.net/haaland-lo-hai-co-hoi-ngon-trong-10-giay-4866035.html) - 07:53 26/03/2025
+- 🪜 [Haaland gây ức chế với hai pha bỏ lỡ trong 10 giây](https://vnexpress.net/haaland-gay-uc-che-voi-hai-pha-bo-lo-trong-10-giay-4866035.html) - 07:53 26/03/2025
 - 🦩 [Cầu thủ Argentina đếm cup, hạ nhục Rodrygo](https://vnexpress.net/cau-thu-argentina-dem-cup-ha-nhuc-rodrygo-4866082.html) - 07:00 26/03/2025
 - 🧰 [Điều kiện để Indonesia vào thẳng VCK World Cup 2026](https://vnexpress.net/dieu-kien-de-indonesia-vao-thang-vck-world-cup-2026-4865968.html) - 05:00 26/03/2025
 - 🤗 [De Paul: &#39;Argentina mạnh nhất thế giới 6 năm qua&#39;](https://vnexpress.net/de-paul-argentina-manh-nhat-the-gioi-6-nam-qua-4866038.html) - 05:00 26/03/2025
