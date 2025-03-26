@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- dantri-giao-duc:START -->
 - 🤡 [FPT đẩy mạnh đầu tư giáo dục tại Huế](https://dantri.com.vn/giao-duc/fpt-day-manh-dau-tu-giao-duc-tai-hue-20250326171903168.htm) - 12:00 26/03/2025
 - 🗽 [Nghệ An công bố lịch thi tuyển sinh vào lớp 10 năm học 2025-2026](https://dantri.com.vn/giao-duc/nghe-an-cong-bo-lich-thi-tuyen-sinh-vao-lop-10-nam-hoc-2025-2026-20250326113040544.htm) - 11:49 26/03/2025
-- 🚦 [Vụ phụ huynh tố 3 cô giáo bạo hành trẻ mần non: Xử lý cơ sở giáo dục](https://dantri.com.vn/giao-duc/vu-phu-huynh-to-3-co-giao-bao-hanh-tre-man-non-xu-ly-co-so-giao-duc-20250326182529508.htm) - 11:29 26/03/2025
+- 🚦 [Vụ phụ huynh tố 3 cô giáo bạo hành trẻ mầm non: Xử lý cơ sở giáo dục](https://dantri.com.vn/giao-duc/vu-phu-huynh-to-3-co-giao-bao-hanh-tre-mam-non-xu-ly-co-so-giao-duc-20250326182529508.htm) - 11:29 26/03/2025
 - 🌋 [Một trường sư phạm yêu cầu xét tuyển môn văn ở tất cả các ngành](https://dantri.com.vn/giao-duc/mot-truong-su-pham-yeu-cau-xet-tuyen-mon-van-o-tat-ca-cac-nganh-20250326160048747.htm) - 09:08 26/03/2025
 - 🏊 [Áp lực học thêm của học sinh Hàn Quốc lan tới... Australia](https://dantri.com.vn/giao-duc/ap-luc-hoc-them-cua-hoc-sinh-han-quoc-lan-toi-australia-20250324215841973.htm) - 09:00 26/03/2025
 - 🎃 [Từ nhà giáo tâm huyết tới giải thưởng cán bộ Đoàn tiêu biểu 2025](https://dantri.com.vn/giao-duc/tu-nha-giao-tam-huyet-toi-giai-thuong-can-bo-doan-tieu-bieu-2025-20250326153343673.htm) - 08:33 26/03/2025
