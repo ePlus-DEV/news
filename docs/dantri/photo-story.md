@@ -4,7 +4,7 @@ sidebar_position: 28
 ---
 
 <!-- dantri-photo-story:START -->
-- 💪 [Phu nhân Bích Trân mời Phu nhân Thủ tướng Singapore thưởng trà, đội nón lá](https://dantri.com.vn/xa-hoi/phu-nhan-bich-tran-moi-phu-nhan-thu-tuong-singapore-thuong-tra-doi-non-la-20250326131924936.htm) - 06:59 26/03/2025
+- 💪 [Phu nhân Bích Trân và Phu nhân Thủ tướng Singapore đội nón lá, nghe quan họ](https://dantri.com.vn/xa-hoi/phu-nhan-bich-tran-va-phu-nhan-thu-tuong-singapore-doi-non-la-nghe-quan-ho-20250326131924936.htm) - 06:59 26/03/2025
 - 🧰 [Toàn cảnh lễ đón Thủ tướng Singapore thăm chính thức Việt Nam](https://dantri.com.vn/xa-hoi/toan-canh-le-don-thu-tuong-singapore-tham-chinh-thuc-viet-nam-20250326105341961.htm) - 03:59 26/03/2025
 - 🧰 [Chàng cổ động viên khuyết tật và tình yêu cháy bỏng với bóng đá Việt Nam](https://dantri.com.vn/the-thao/chang-co-dong-vien-khuyet-tat-va-tinh-yeu-chay-bong-voi-bong-da-viet-nam-20250326083019187.htm) - 03:31 26/03/2025
 - 😎 [Cầu Rạch Miễu 2 sẽ hợp long vào lễ 30/4-1/5](https://dantri.com.vn/xa-hoi/cau-rach-mieu-2-se-hop-long-vao-le-304-15-20250323221220621.htm) - 01:44 26/03/2025
