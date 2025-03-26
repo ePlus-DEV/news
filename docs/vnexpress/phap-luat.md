@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Bà Trương Mỹ Lan: &#39;Quay cuồng với vòng xoáy tìm nguồn tiền cho SCB&#39;](https://vnexpress.net/ba-truong-my-lan-quay-cuong-voi-vong-xoay-tim-nguon-tien-cho-scb-4866243.html) - 11:36 26/03/2025
+- 😎 [Bà Trương Mỹ Lan xin tạo điều kiện khắc phục hậu quả tốt nhất](https://vnexpress.net/ba-truong-my-lan-xin-tao-dieu-kien-khac-phuc-hau-qua-tot-nhat-4866243.html) - 11:36 26/03/2025
 - 🥰 [Hiện trường vụ sản xuất ma túy &#39;tay nghề cao&#39; lớn nhất từ trước đến nay](https://vnexpress.net/hien-truong-vu-san-xuat-ma-tuy-tay-nghe-cao-lon-nhat-tu-truoc-den-nay-vnepre-4866234.html) - 10:38 26/03/2025
 - 🎓 [Thêm nghi can nhóm cướp hơn 2 triệu USD bị bắt](https://vnexpress.net/them-nghi-can-nhom-cuop-hon-2-trieu-usd-bi-bat-4866192.html) - 09:12 26/03/2025
 - 🤓 [Cựu Chủ tịch tỉnh Thanh Hóa Trịnh Văn Chiến kháng cáo](https://vnexpress.net/cuu-chu-tich-tinh-thanh-hoa-trinh-van-chien-khang-cao-4866166.html) - 08:59 26/03/2025
