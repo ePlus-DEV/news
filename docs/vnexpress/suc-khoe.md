@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Cô gái bị lừa nâng vòng một bằng collagen động vật](https://vnexpress.net/co-gai-bi-lua-nang-vong-mot-bang-collagen-dong-vat-4866340.html) - 04:05 27/03/2025
+- 🔥 [Cô gái bị lừa nâng vòng một bằng collagen động vật giá 8 tỷ](https://vnexpress.net/co-gai-bi-lua-nang-vong-mot-bang-collagen-dong-vat-gia-8-ty-4866340.html) - 04:05 27/03/2025
 - 🥰 [Cách uống cà phê không bị đầy hơi](https://vnexpress.net/cach-uong-ca-phe-khong-bi-day-hoi-4866451.html) - 04:00 27/03/2025
 - 💡 [Vì sao viêm teo niêm mạc dạ dày?](https://vnexpress.net/vi-sao-viem-teo-niem-mac-da-day-4866442.html) - 04:00 27/03/2025
 - 🤗 [Phương pháp laser điều trị quầng thâm mắt](https://vnexpress.net/phuong-phap-laser-dieu-tri-quang-tham-mat-4866413.html) - 04:00 27/03/2025
