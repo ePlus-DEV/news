@@ -28,7 +28,7 @@ sidebar_position: 9
 - 🧑‍💻 [Dự án vui chơi giải trí bỏ hoang chục năm có thể chuyển đổi thành khu đô thị](https://vnexpress.net/du-an-vui-choi-giai-tri-bo-hoang-chuc-nam-co-the-chuyen-doi-thanh-khu-do-thi-4866615.html) - 16:18 27/03/2025
 - 🐲 [Châu Âu thống nhất chưa dỡ bỏ trừng phạt Nga](https://vnexpress.net/chau-au-thong-nhat-chua-do-bo-trung-phat-nga-4866757.html) - 16:18 27/03/2025
 - 🌝 [Cô gái cô đơn mong tìm thấy tình yêu](https://vnexpress.net/co-gai-co-don-mong-tim-thay-tinh-yeu-4866292.html) - 16:00 27/03/2025
-- 😺 [Duyệt quy hoạch 1/500 khu đô thị 300 ha giữa sông Đồng Nai](https://vnexpress.net/duyet-quy-hoach-1-500-khu-do-thi-300-ha-giua-song-dong-nai-4866779.html) - 15:58 27/03/2025
+- 😺 [Duyệt nhiệm vụ quy hoạch 1/500 khu đô thị 300 ha giữa sông Đồng Nai](https://vnexpress.net/duyet-nhiem-vu-quy-hoach-1-500-khu-do-thi-300-ha-giua-song-dong-nai-4866779.html) - 15:58 27/03/2025
 - 🐎 [Thủ tướng Singapore chọn &#39;Bắc Bling&#39; làm nhạc nền video chuyến thăm Việt Nam](https://vnexpress.net/thu-tuong-singapore-chon-bac-bling-lam-nhac-nen-video-chuyen-tham-viet-nam-4866771.html) - 15:33 27/03/2025
 - 🎡 [Jackpot hơn 186 tỷ đồng tìm được chủ nhân](https://vnexpress.net/jackpot-hon-186-ty-dong-tim-duoc-chu-nhan-4866780.html) - 15:27 27/03/2025
 - 👨‍🏫 [Sửa chữa khe co giãn trên cao tốc Bắc Nam trước 30/4](https://vnexpress.net/sua-chua-khe-co-gian-tren-cao-toc-bac-nam-truoc-30-4-4866765.html) - 15:11 27/03/2025
