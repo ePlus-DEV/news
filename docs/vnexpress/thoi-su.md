@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Lương tối thiểu vùng áp dụng thế nào khi không còn cấp huyện?](https://vnexpress.net/luong-toi-thieu-vung-ap-dung-the-nao-khi-khong-con-cap-huyen-4866731.html) - 17:00 27/03/2025
+- 🦒 [Lương tối thiểu vùng nên áp dụng thế nào khi bỏ cấp huyện?](https://vnexpress.net/luong-toi-thieu-vung-nen-ap-dung-the-nao-khi-bo-cap-huyen-4866731.html) - 17:00 27/03/2025
 - 🤓 [Sửa chữa khe co giãn trên cao tốc Bắc Nam trước 30/4](https://vnexpress.net/sua-chua-khe-co-gian-tren-cao-toc-bac-nam-truoc-30-4-4866765.html) - 15:11 27/03/2025
 - ⚗️ [Đề xuất hơn 43.500 tỷ đồng xây cao tốc Quy Nhơn - Pleiku](https://vnexpress.net/de-xuat-hon-43-500-ty-dong-xay-cao-toc-quy-nhon-pleiku-4866753.html) - 14:43 27/03/2025
 - 🌊 [Đề xuất xây dựng cơ chế sàng lọc công chức](https://vnexpress.net/de-xuat-xay-dung-co-che-sang-loc-cong-chuc-4866738.html) - 12:17 27/03/2025
