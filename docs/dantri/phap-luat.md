@@ -4,7 +4,7 @@ sidebar_position: 8
 ---
 
 <!-- dantri-phap-luat:START -->
-- 🌊 [Tạm giữ một nghi can đánh nam sinh chấn thương sọ não ở Đồng Nai](https://dantri.com.vn/phap-luat/tam-giu-mot-nghi-can-danh-nam-sinh-chan-thuong-so-nao-o-dong-nai-20250327180233242.htm) - 12:16 27/03/2025
+- 🌊 [Tạm giữ 6 nghi can đánh nam sinh chấn thương sọ não ở Đồng Nai](https://dantri.com.vn/phap-luat/tam-giu-6-nghi-can-danh-nam-sinh-chan-thuong-so-nao-o-dong-nai-20250327180233242.htm) - 12:16 27/03/2025
 - 🐲 [Gã đàn ông làm chuyện đồi bại khiến con gái vợ hờ mang thai](https://dantri.com.vn/phap-luat/ga-dan-ong-lam-chuyen-doi-bai-khien-con-gai-vo-ho-mang-thai-20250327172628839.htm) - 10:56 27/03/2025
 - 🌁 [Bắt đối tượng tông xe vào đại úy CSGT khi bị kiểm tra nồng độ cồn](https://dantri.com.vn/phap-luat/bat-doi-tuong-tong-xe-vao-dai-uy-csgt-khi-bi-kiem-tra-nong-do-con-20250327170004629.htm) - 10:25 27/03/2025
 - 🎃 [Khởi tố 4 đối tượng vu cáo chính quyền trên Facebook](https://dantri.com.vn/phap-luat/khoi-to-4-doi-tuong-vu-cao-chinh-quyen-tren-facebook-20250327132155778.htm) - 09:41 27/03/2025
