@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Hoàng Thùy Linh: &#39;Tôi đối diện và chuyển hóa nỗi sợ&#39;](https://vnexpress.net/hoang-thuy-linh-toi-doi-dien-va-chuyen-hoa-noi-so-4865912.html) - 17:00 26/03/2025
-- 💫 [Dàn diễn viên gây bức xúc khi đi xe cứu thương đến sự kiện](https://vnexpress.net/dan-dien-vien-gay-buc-xuc-khi-di-xe-cuu-thuong-den-su-kien-4866322.html) - 15:37 26/03/2025
-- 🌮 [Nghệ sĩ ngâm thơ Vũ Thị Kim Dung qua đời](https://vnexpress.net/nghe-si-ngam-tho-vu-thi-kim-dung-qua-doi-4866299.html) - 15:09 26/03/2025
-- 🧠 [Người đẹp Quảng Trị gây chú ý tại Hoa hậu Việt Nam](https://vnexpress.net/nguoi-dep-quang-tri-gay-chu-y-tai-hoa-hau-viet-nam-4866228.html) - 13:27 26/03/2025
-- 👨‍🏫 [Tạp chí Nhật phát hành truyện của AI](https://vnexpress.net/tap-chi-nhat-phat-hanh-truyen-cua-ai-4866140.html) - 12:15 26/03/2025
-- ⚗️ [Vợ diễn viên Công Lý phối đồ với 5 túi hiệu](https://vnexpress.net/vo-dien-vien-cong-ly-phoi-do-voi-5-tui-hieu-4865838.html) - 12:00 26/03/2025
-- 😎 [Tiểu Vy diễn kịch về Quảng Nam](https://vnexpress.net/tieu-vy-dien-kich-ve-quang-nam-4866026.html) - 11:47 26/03/2025
-- 🫣 [Ben Affleck nói về vụ ly hôn Jennifer Lopez](https://vnexpress.net/ben-affleck-noi-ve-vu-ly-hon-jennifer-lopez-4865948.html) - 09:07 26/03/2025
-- 🪄 [&#39;Gặp nhau cuối tuần&#39; đổi mới gây tranh cãi](https://vnexpress.net/gap-nhau-cuoi-tuan-doi-moi-gay-tranh-cai-4861183.html) - 08:44 26/03/2025
-- 🤓 [Hôn nhân ngọt ngào của Chân Tử Đan](https://vnexpress.net/hon-nhan-ngot-ngao-cua-chan-tu-dan-4866126.html) - 07:57 26/03/2025
-- 🫶 [&#39;Ban mai thơm mắt nắng&#39; - bản hòa ca cuộc sống](https://vnexpress.net/ban-mai-thom-mat-nang-ban-hoa-ca-cuoc-song-4865625.html) - 06:56 26/03/2025
-- 🧑‍🏫 [Gu mặc đời thường của bạn gái Leonardo DiCaprio](https://vnexpress.net/gu-mac-doi-thuong-cua-ban-gai-leonardo-dicaprio-4865534.html) - 06:11 26/03/2025
-- 🦄 [Đạo diễn phim nỗ lực tái hiện thế giới trò chơi &#39;Minecraft&#39;](https://vnexpress.net/dao-dien-phim-no-luc-tai-hien-the-gioi-tro-choi-minecraft-4864445.html) - 06:10 26/03/2025
-- 💫 [Nghệ sĩ Thanh Tuấn nhập viện cấp cứu](https://vnexpress.net/nghe-si-thanh-tuan-nhap-vien-cap-cuu-4866001.html) - 03:28 26/03/2025
-- 🎊 [Bộ đôi Thụy Sĩ đến Việt Nam biểu diễn](https://vnexpress.net/bo-doi-thuy-si-den-viet-nam-bieu-dien-4865696.html) - 03:08 26/03/2025
-- 👹 [Kim Soo Hyun hủy sự kiện ở Đài Loan](https://vnexpress.net/kim-soo-hyun-huy-su-kien-o-dai-loan-4865940.html) - 02:26 26/03/2025
-- 💻 [Cẩm Vân: &#39;Tôi không thể hát sai nhạc Trịnh, dù chỉ một từ&#39;](https://vnexpress.net/cam-van-toi-khong-the-hat-sai-nhac-trinh-du-chi-mot-tu-4865814.html) - 00:50 26/03/2025
-- 🤡 [Phong cách năng động của Hiếu Thứ Hai](https://vnexpress.net/phong-cach-nang-dong-cua-hieu-thu-hai-4865783.html) - 20:00 25/03/2025
-- 🥰 [Võ Hoài Nam: &#39;Tôi và vợ tận hưởng hôn nhân&#39;](https://vnexpress.net/vo-hoai-nam-toi-va-vo-tan-huong-hon-nhan-4865279.html) - 17:00 25/03/2025
-- 🚀 [Đinh Hương: &#39;Tôi không cầu tiền tài&#39;](https://vnexpress.net/dinh-huong-toi-khong-cau-tien-tai-4862912.html) - 12:00 25/03/2025
-- 📝 [Triển lãm của 6 nghệ sĩ Việt tại Áo](https://vnexpress.net/trien-lam-cua-6-nghe-si-viet-tai-ao-4864833.html) - 09:54 25/03/2025
-- 🐲 [Cô gái Hải Dương thắng cuộc thi hát &#39;Bài ca thống nhất&#39;](https://vnexpress.net/co-gai-hai-duong-thang-cuoc-thi-hat-bai-ca-thong-nhat-4865626.html) - 09:31 25/03/2025
-- 🎃 [Thí sinh American Idol gây xúc động với tiết mục tưởng nhớ bố](https://vnexpress.net/thi-sinh-american-idol-gay-xuc-dong-voi-tiet-muc-tuong-nho-bo-4865558.html) - 09:15 25/03/2025
-- 🤠 [Mỹ nhân &#39;Chân Hoàn truyện&#39; ly hôn](https://vnexpress.net/my-nhan-chan-hoan-truyen-ly-hon-4865662.html) - 08:28 25/03/2025
-- 🎭 [Nguyễn Ngọc Tư: &#39;Tôi tiếc những độc giả bỏ mình đi&#39;](https://vnexpress.net/nguyen-ngoc-tu-toi-tiec-nhung-doc-gia-bo-minh-di-4865278.html) - 08:16 25/03/2025
-- 🧰 [Hoa khôi, á khôi nổi bật tại Hoa hậu Việt Nam](https://vnexpress.net/hoa-khoi-a-khoi-noi-bat-tai-hoa-hau-viet-nam-4865583.html) - 07:59 25/03/2025
-- 🦍 [Victor Vũ dùng 1.000 bộ cổ phục quay &#39;Thám tử Kiên&#39;](https://vnexpress.net/victor-vu-dung-1-000-bo-co-phuc-quay-tham-tu-kien-4865643.html) - 07:18 25/03/2025
-- 🌝 [Cổ Thiên Lạc hạ cátxê vẫn không có phim đóng](https://vnexpress.net/co-thien-lac-ha-catxe-van-khong-co-phim-dong-4865559.html) - 06:30 25/03/2025
-- 🧑‍💻 [Phim của Robert De Niro lỗ nặng](https://vnexpress.net/phim-cua-robert-de-niro-lo-nang-4865439.html) - 05:22 25/03/2025
-- 🥸 [Bạn gái Leonardo DiCaprio lần đầu kể chuyện tình](https://vnexpress.net/ban-gai-leonardo-dicaprio-lan-dau-ke-chuyen-tinh-4865473.html) - 04:58 25/03/2025
-- 🔥 [Hồng Nhung tập luyện đêm nhạc tưởng nhớ Trịnh Công Sơn](https://vnexpress.net/hong-nhung-tap-luyen-dem-nhac-tuong-nho-trinh-cong-son-4865457.html) - 04:43 25/03/2025
-- 🐎 [Thời trang sánh đôi của vợ chồng Quỳnh Lương](https://vnexpress.net/thoi-trang-sanh-doi-cua-vo-chong-quynh-luong-4864524.html) - 03:36 25/03/2025
-- 😎 [Park Bo Gum - nghệ sĩ đa tài](https://vnexpress.net/park-bo-gum-nghe-si-da-tai-4864776.html) - 02:28 25/03/2025
-- 🦄 [&#39;Adolescence&#39; gây sốt](https://vnexpress.net/adolescence-gay-sot-4865062.html) - 22:00 24/03/2025
-- 🌜 [Hôn nhân của &#39;nữ thần chiến binh&#39; Gal Gadot](https://vnexpress.net/hon-nhan-cua-nu-than-chien-binh-gal-gadot-4865034.html) - 17:00 24/03/2025
-- 🚦 [Tranh vua Hàm Nghi trưng bày tại điện Kiến Trung](https://vnexpress.net/tranh-vua-ham-nghi-trung-bay-tai-dien-kien-trung-4865359.html) - 13:50 24/03/2025
-- 🧐 [Minh tinh Nhật có nhan sắc &#39;được ngưỡng mộ nhất&#39;](https://vnexpress.net/minh-tinh-nhat-co-nhan-sac-duoc-nguong-mo-nhat-4865174.html) - 13:30 24/03/2025
-- 🐵 [&#39;Chim công&#39; Dương Lệ Bình múa trong biệt thự đầy hoa](https://vnexpress.net/chim-cong-duong-le-binh-mua-trong-biet-thu-day-hoa-4865266.html) - 12:00 24/03/2025
-- ⚗️ [Sức hút của &#39;Interstellar&#39;](https://vnexpress.net/suc-hut-cua-interstellar-4855895.html) - 10:09 24/03/2025
-- 👺 [Tặng vé xem phim Đài Loan &#39;Thiếu nữ ánh trăng&#39;](https://vnexpress.net/tang-ve-xem-phim-dai-loan-thieu-nu-anh-trang-4862106.html) - 08:18 24/03/2025
-- 🌊 [Miss Universe 2019 diện đầm NTK Việt trong lễ cưới](https://vnexpress.net/miss-universe-2019-dien-dam-ntk-viet-trong-le-cuoi-4865015.html) - 06:16 24/03/2025
-- 🪜 [Phim &#39;Nàng Bạch Tuyết&#39; nguy cơ lỗ nặng](https://vnexpress.net/phim-nang-bach-tuyet-nguy-co-lo-nang-4864963.html) - 04:46 24/03/2025
-- 🕴 [Người đàn ông bỏ việc, đi hát xẩm](https://vnexpress.net/nguoi-dan-ong-bo-viec-di-hat-xam-4863018.html) - 04:15 24/03/2025
-- 💃 [Lưu Hiểu Khánh đóng vai người yêu của tài tử kém 38 tuổi](https://vnexpress.net/luu-hieu-khanh-dong-vai-nguoi-yeu-cua-tai-tu-kem-38-tuoi-4864981.html) - 03:12 24/03/2025
-- 🦄 [AI viết truyện ngắn, văn giới xôn xao](https://vnexpress.net/ai-viet-truyen-ngan-van-gioi-xon-xao-4864370.html) - 23:00 23/03/2025
-- ⛽️ [Công cuộc xây dựng hồ thủy điện Trị An qua tranh vẽ](https://vnexpress.net/cong-cuoc-xay-dung-ho-thuy-dien-tri-an-qua-tranh-ve-4863557.html) - 17:00 23/03/2025
-- 😎 [Phong cách hài hước của tài tử Ma Dong Seok](https://vnexpress.net/phong-cach-hai-huoc-cua-tai-tu-ma-dong-seok-4864655.html) - 14:32 23/03/2025
-- 🌊 [&#39;Mùa hè có tuyết&#39; - chuyến phiêu lưu của chú mèo](https://vnexpress.net/mua-he-co-tuyet-chuyen-phieu-luu-cua-chu-meo-4864779.html) - 12:00 23/03/2025
-- 🐲 [Sắc vóc gây &#39;sốt&#39; của Kim Hye Soo](https://vnexpress.net/sac-voc-gay-sot-cua-kim-hye-soo-4864748.html) - 10:00 23/03/2025
-- 💂 [Dấu ấn cảm xúc ở concert &#39;Anh trai vượt ngàn chông gai&#39;](https://vnexpress.net/dau-an-cam-xuc-o-concert-anh-trai-vuot-ngan-chong-gai-4864765.html) - 07:44 23/03/2025
-- 🙉 [Đời sống TP HCM về đêm qua ống kính](https://vnexpress.net/doi-song-tp-hcm-ve-dem-qua-ong-kinh-4864710.html) - 06:43 23/03/2025
-- 💪 [Dàn diễn viên &#39;Địa đạo&#39; rèn thể lực](https://vnexpress.net/dan-dien-vien-dia-dao-ren-the-luc-4864740.html) - 05:07 23/03/2025
-- 👍 [Dàn sao mặc cổ phục, nhảy flashmob cùng bạn trẻ](https://vnexpress.net/dan-sao-mac-co-phuc-nhay-flashmob-cung-ban-tre-4864718.html) - 03:44 23/03/2025
-- 💪 [Sách về khai phá &#39;miền xuất sắc&#39; của con người](https://vnexpress.net/sach-ve-khai-pha-mien-xuat-sac-cua-con-nguoi-4864629.html) - 03:07 23/03/2025
-- 💄 [Concert 3 &#39;bùng cháy&#39; của Anh trai vượt ngàn chông gai](https://vnexpress.net/concert-3-bung-chay-cua-anh-trai-vuot-ngan-chong-gai-4864688.html) - 02:30 23/03/2025
-- 🦩 [Hoạt hình &#39;Doraemon&#39; hơn nửa thế kỷ chinh phục khán giả](https://vnexpress.net/hoat-hinh-doraemon-hon-nua-the-ky-chinh-phuc-khan-gia-4864199.html) - 17:00 22/03/2025
-- 🥸 [&#39;Ngọc nữ&#39; Kim So Hyun diện họa tiết hoa ở Italy](https://vnexpress.net/ngoc-nu-kim-so-hyun-dien-hoa-tiet-hoa-o-italy-4864576.html) - 13:12 22/03/2025
-- 🧰 [Hoa hậu Ý Nhi đóng MV cổ trang của Đan Trường](https://vnexpress.net/hoa-hau-y-nhi-dong-mv-co-trang-cua-dan-truong-4864415.html) - 10:15 22/03/2025
-- 💼 [Nghìn fan mặc đồ truyền thống đi xem &#39;Anh trai vượt ngàn chông gai&#39;](https://vnexpress.net/nghin-fan-mac-do-truyen-thong-di-xem-anh-trai-vuot-ngan-chong-gai-4864568.html) - 08:39 22/03/2025
-- 🧑‍💻 [Dàn Anh trai say hi &#39;bùng nổ&#39; ở concert thứ 5](https://vnexpress.net/dan-anh-trai-say-hi-bung-no-o-concert-thu-5-4864443.html) - 02:50 22/03/2025<!-- vnexpress-giai-tri:END -->
+- 🌏 [Dàn sao dự kiến dự đám cưới tỷ phú Jeff Bezos](https://vnexpress.net/dan-sao-du-kien-du-dam-cuoi-ty-phu-jeff-bezos-4866387.html) - 03:35 27/03/2025
+- 💫 [Ý Nhi bảo lưu việc học ở Australia để thi Miss World](https://vnexpress.net/y-nhi-bao-luu-viec-hoc-o-australia-de-thi-miss-world-4866300.html) - 02:59 27/03/2025
+- 🌮 [Tạ Đình Phong thu trăm triệu USD nhờ bán xúc xích](https://vnexpress.net/ta-dinh-phong-thu-tram-trieu-usd-nho-ban-xuc-xich-4866393.html) - 02:23 27/03/2025
+- 🧠 [Lynk Lee mặc xuyên thấu lên thảm đỏ cùng dàn hoa hậu](https://vnexpress.net/lynk-lee-mac-xuyen-thau-len-tham-do-cung-dan-hoa-hau-4866318.html) - 01:31 27/03/2025
+- 👨‍🏫 [Hoàng Thùy Linh: &#39;Tôi đối diện và chuyển hóa nỗi sợ&#39;](https://vnexpress.net/hoang-thuy-linh-toi-doi-dien-va-chuyen-hoa-noi-so-4865912.html) - 17:00 26/03/2025
+- ⚗️ [Dàn diễn viên gây bức xúc khi đi xe cứu thương đến sự kiện](https://vnexpress.net/dan-dien-vien-gay-buc-xuc-khi-di-xe-cuu-thuong-den-su-kien-4866322.html) - 15:37 26/03/2025
+- 😎 [Nghệ sĩ ngâm thơ Vũ Thị Kim Dung qua đời](https://vnexpress.net/nghe-si-ngam-tho-vu-thi-kim-dung-qua-doi-4866299.html) - 15:09 26/03/2025
+- 🫣 [Người đẹp Quảng Trị gây chú ý tại Hoa hậu Việt Nam](https://vnexpress.net/nguoi-dep-quang-tri-gay-chu-y-tai-hoa-hau-viet-nam-4866228.html) - 13:27 26/03/2025
+- 🪄 [Tạp chí Nhật phát hành truyện của AI](https://vnexpress.net/tap-chi-nhat-phat-hanh-truyen-cua-ai-4866140.html) - 12:15 26/03/2025
+- 🤓 [Vợ diễn viên Công Lý phối đồ với 5 túi hiệu](https://vnexpress.net/vo-dien-vien-cong-ly-phoi-do-voi-5-tui-hieu-4865838.html) - 12:00 26/03/2025
+- 🫶 [Tiểu Vy diễn kịch về Quảng Nam](https://vnexpress.net/tieu-vy-dien-kich-ve-quang-nam-4866026.html) - 11:47 26/03/2025
+- 🧑‍🏫 [Ben Affleck nói về vụ ly hôn Jennifer Lopez](https://vnexpress.net/ben-affleck-noi-ve-vu-ly-hon-jennifer-lopez-4865948.html) - 09:07 26/03/2025
+- 🦄 [&#39;Gặp nhau cuối tuần&#39; đổi mới gây tranh cãi](https://vnexpress.net/gap-nhau-cuoi-tuan-doi-moi-gay-tranh-cai-4861183.html) - 08:44 26/03/2025
+- 💫 [Hôn nhân ngọt ngào của Chân Tử Đan](https://vnexpress.net/hon-nhan-ngot-ngao-cua-chan-tu-dan-4866126.html) - 07:57 26/03/2025
+- 🎊 [&#39;Ban mai thơm mắt nắng&#39; - bản hòa ca cuộc sống](https://vnexpress.net/ban-mai-thom-mat-nang-ban-hoa-ca-cuoc-song-4865625.html) - 06:56 26/03/2025
+- 👹 [Gu mặc đời thường của bạn gái Leonardo DiCaprio](https://vnexpress.net/gu-mac-doi-thuong-cua-ban-gai-leonardo-dicaprio-4865534.html) - 06:11 26/03/2025
+- 💻 [Đạo diễn phim nỗ lực tái hiện thế giới trò chơi &#39;Minecraft&#39;](https://vnexpress.net/dao-dien-phim-no-luc-tai-hien-the-gioi-tro-choi-minecraft-4864445.html) - 06:10 26/03/2025
+- 🤡 [Nghệ sĩ Thanh Tuấn nhập viện cấp cứu](https://vnexpress.net/nghe-si-thanh-tuan-nhap-vien-cap-cuu-4866001.html) - 03:28 26/03/2025
+- 🥰 [Bộ đôi Thụy Sĩ đến Việt Nam biểu diễn](https://vnexpress.net/bo-doi-thuy-si-den-viet-nam-bieu-dien-4865696.html) - 03:08 26/03/2025
+- 🚀 [Kim Soo Hyun hủy sự kiện ở Đài Loan](https://vnexpress.net/kim-soo-hyun-huy-su-kien-o-dai-loan-4865940.html) - 02:26 26/03/2025
+- 📝 [Cẩm Vân: &#39;Tôi không thể hát sai nhạc Trịnh, dù chỉ một từ&#39;](https://vnexpress.net/cam-van-toi-khong-the-hat-sai-nhac-trinh-du-chi-mot-tu-4865814.html) - 00:50 26/03/2025
+- 🐲 [Phong cách năng động của Hiếu Thứ Hai](https://vnexpress.net/phong-cach-nang-dong-cua-hieu-thu-hai-4865783.html) - 20:00 25/03/2025
+- 🎃 [Võ Hoài Nam: &#39;Tôi và vợ tận hưởng hôn nhân&#39;](https://vnexpress.net/vo-hoai-nam-toi-va-vo-tan-huong-hon-nhan-4865279.html) - 17:00 25/03/2025
+- 🤠 [Đinh Hương: &#39;Tôi không cầu tiền tài&#39;](https://vnexpress.net/dinh-huong-toi-khong-cau-tien-tai-4862912.html) - 12:00 25/03/2025
+- 🎭 [Triển lãm của 6 nghệ sĩ Việt tại Áo](https://vnexpress.net/trien-lam-cua-6-nghe-si-viet-tai-ao-4864833.html) - 09:54 25/03/2025
+- 🧰 [Cô gái Hải Dương thắng cuộc thi hát &#39;Bài ca thống nhất&#39;](https://vnexpress.net/co-gai-hai-duong-thang-cuoc-thi-hat-bai-ca-thong-nhat-4865626.html) - 09:31 25/03/2025
+- 🦍 [Thí sinh American Idol gây xúc động với tiết mục tưởng nhớ bố](https://vnexpress.net/thi-sinh-american-idol-gay-xuc-dong-voi-tiet-muc-tuong-nho-bo-4865558.html) - 09:15 25/03/2025
+- 🌝 [Mỹ nhân &#39;Chân Hoàn truyện&#39; ly hôn](https://vnexpress.net/my-nhan-chan-hoan-truyen-ly-hon-4865662.html) - 08:28 25/03/2025
+- 🧑‍💻 [Nguyễn Ngọc Tư: &#39;Tôi tiếc những độc giả bỏ mình đi&#39;](https://vnexpress.net/nguyen-ngoc-tu-toi-tiec-nhung-doc-gia-bo-minh-di-4865278.html) - 08:16 25/03/2025
+- 🥸 [Hoa khôi, á khôi nổi bật tại Hoa hậu Việt Nam](https://vnexpress.net/hoa-khoi-a-khoi-noi-bat-tai-hoa-hau-viet-nam-4865583.html) - 07:59 25/03/2025
+- 🔥 [Victor Vũ dùng 1.000 bộ cổ phục quay &#39;Thám tử Kiên&#39;](https://vnexpress.net/victor-vu-dung-1-000-bo-co-phuc-quay-tham-tu-kien-4865643.html) - 07:18 25/03/2025
+- 🐎 [Cổ Thiên Lạc hạ cátxê vẫn không có phim đóng](https://vnexpress.net/co-thien-lac-ha-catxe-van-khong-co-phim-dong-4865559.html) - 06:30 25/03/2025
+- 😎 [Phim của Robert De Niro lỗ nặng](https://vnexpress.net/phim-cua-robert-de-niro-lo-nang-4865439.html) - 05:22 25/03/2025
+- 🦄 [Bạn gái Leonardo DiCaprio lần đầu kể chuyện tình](https://vnexpress.net/ban-gai-leonardo-dicaprio-lan-dau-ke-chuyen-tinh-4865473.html) - 04:58 25/03/2025
+- 🌜 [Hồng Nhung tập luyện đêm nhạc tưởng nhớ Trịnh Công Sơn](https://vnexpress.net/hong-nhung-tap-luyen-dem-nhac-tuong-nho-trinh-cong-son-4865457.html) - 04:43 25/03/2025
+- 🚦 [Thời trang sánh đôi của vợ chồng Quỳnh Lương](https://vnexpress.net/thoi-trang-sanh-doi-cua-vo-chong-quynh-luong-4864524.html) - 03:36 25/03/2025
+- 🧐 [Park Bo Gum - nghệ sĩ đa tài](https://vnexpress.net/park-bo-gum-nghe-si-da-tai-4864776.html) - 02:28 25/03/2025
+- 🐵 [&#39;Adolescence&#39; gây sốt](https://vnexpress.net/adolescence-gay-sot-4865062.html) - 22:00 24/03/2025
+- ⚗️ [Hôn nhân của &#39;nữ thần chiến binh&#39; Gal Gadot](https://vnexpress.net/hon-nhan-cua-nu-than-chien-binh-gal-gadot-4865034.html) - 17:00 24/03/2025
+- 👺 [Tranh vua Hàm Nghi trưng bày tại điện Kiến Trung](https://vnexpress.net/tranh-vua-ham-nghi-trung-bay-tai-dien-kien-trung-4865359.html) - 13:50 24/03/2025
+- 🌊 [Minh tinh Nhật có nhan sắc &#39;được ngưỡng mộ nhất&#39;](https://vnexpress.net/minh-tinh-nhat-co-nhan-sac-duoc-nguong-mo-nhat-4865174.html) - 13:30 24/03/2025
+- 🪜 [&#39;Chim công&#39; Dương Lệ Bình múa trong biệt thự đầy hoa](https://vnexpress.net/chim-cong-duong-le-binh-mua-trong-biet-thu-day-hoa-4865266.html) - 12:00 24/03/2025
+- 🕴 [Sức hút của &#39;Interstellar&#39;](https://vnexpress.net/suc-hut-cua-interstellar-4855895.html) - 10:09 24/03/2025
+- 💃 [Tặng vé xem phim Đài Loan &#39;Thiếu nữ ánh trăng&#39;](https://vnexpress.net/tang-ve-xem-phim-dai-loan-thieu-nu-anh-trang-4862106.html) - 08:18 24/03/2025
+- 🦄 [Miss Universe 2019 diện đầm NTK Việt trong lễ cưới](https://vnexpress.net/miss-universe-2019-dien-dam-ntk-viet-trong-le-cuoi-4865015.html) - 06:16 24/03/2025
+- ⛽️ [Phim &#39;Nàng Bạch Tuyết&#39; nguy cơ lỗ nặng](https://vnexpress.net/phim-nang-bach-tuyet-nguy-co-lo-nang-4864963.html) - 04:46 24/03/2025
+- 😎 [Người đàn ông bỏ việc, đi hát xẩm](https://vnexpress.net/nguoi-dan-ong-bo-viec-di-hat-xam-4863018.html) - 04:15 24/03/2025
+- 🌊 [Lưu Hiểu Khánh đóng vai người yêu của tài tử kém 38 tuổi](https://vnexpress.net/luu-hieu-khanh-dong-vai-nguoi-yeu-cua-tai-tu-kem-38-tuoi-4864981.html) - 03:12 24/03/2025
+- 🐲 [AI viết truyện ngắn, văn giới xôn xao](https://vnexpress.net/ai-viet-truyen-ngan-van-gioi-xon-xao-4864370.html) - 23:00 23/03/2025
+- 💂 [Công cuộc xây dựng hồ thủy điện Trị An qua tranh vẽ](https://vnexpress.net/cong-cuoc-xay-dung-ho-thuy-dien-tri-an-qua-tranh-ve-4863557.html) - 17:00 23/03/2025
+- 🙉 [Phong cách hài hước của tài tử Ma Dong Seok](https://vnexpress.net/phong-cach-hai-huoc-cua-tai-tu-ma-dong-seok-4864655.html) - 14:32 23/03/2025
+- 💪 [&#39;Mùa hè có tuyết&#39; - chuyến phiêu lưu của chú mèo](https://vnexpress.net/mua-he-co-tuyet-chuyen-phieu-luu-cua-chu-meo-4864779.html) - 12:00 23/03/2025
+- 👍 [Sắc vóc gây &#39;sốt&#39; của Kim Hye Soo](https://vnexpress.net/sac-voc-gay-sot-cua-kim-hye-soo-4864748.html) - 10:00 23/03/2025
+- 💪 [Dấu ấn cảm xúc ở concert &#39;Anh trai vượt ngàn chông gai&#39;](https://vnexpress.net/dau-an-cam-xuc-o-concert-anh-trai-vuot-ngan-chong-gai-4864765.html) - 07:44 23/03/2025
+- 💄 [Đời sống TP HCM về đêm qua ống kính](https://vnexpress.net/doi-song-tp-hcm-ve-dem-qua-ong-kinh-4864710.html) - 06:43 23/03/2025
+- 🦩 [Dàn diễn viên &#39;Địa đạo&#39; rèn thể lực](https://vnexpress.net/dan-dien-vien-dia-dao-ren-the-luc-4864740.html) - 05:07 23/03/2025
+- 🥸 [Dàn sao mặc cổ phục, nhảy flashmob cùng bạn trẻ](https://vnexpress.net/dan-sao-mac-co-phuc-nhay-flashmob-cung-ban-tre-4864718.html) - 03:44 23/03/2025
+- 🧰 [Sách về khai phá &#39;miền xuất sắc&#39; của con người](https://vnexpress.net/sach-ve-khai-pha-mien-xuat-sac-cua-con-nguoi-4864629.html) - 03:07 23/03/2025
+- 💼 [Concert 3 &#39;bùng cháy&#39; của Anh trai vượt ngàn chông gai](https://vnexpress.net/concert-3-bung-chay-cua-anh-trai-vuot-ngan-chong-gai-4864688.html) - 02:30 23/03/2025
+- 🧑‍💻 [Hoạt hình &#39;Doraemon&#39; hơn nửa thế kỷ chinh phục khán giả](https://vnexpress.net/hoat-hinh-doraemon-hon-nua-the-ky-chinh-phuc-khan-gia-4864199.html) - 17:00 22/03/2025<!-- vnexpress-giai-tri:END -->
