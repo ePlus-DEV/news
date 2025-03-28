@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Loạt đại học đổ về các tỉnh mở cơ sở mới](https://vnexpress.net/loat-dai-hoc-do-ve-cac-tinh-mo-co-so-moi-4866696.html) - 17:00 27/03/2025
+- 🤓 [Loạt đại học tỏa ra các tỉnh mở cơ sở mới](https://vnexpress.net/loat-dai-hoc-toa-ra-cac-tinh-mo-co-so-moi-4866696.html) - 17:00 27/03/2025
 - 🦆 [Học viện Ngoại giao tăng 4 tổ hợp xét tuyển](https://vnexpress.net/phuong-thuc-tuyen-sinh-hoc-vien-ngoai-giao-2025-va-cong-thuc-tinh-diem-xet-tuyen-4866750.html) - 16:48 27/03/2025
 - 🦩 [Sinh viên phản ứng vì học phí môn Giáo dục quốc phòng gần 24 triệu đồng](https://vnexpress.net/sinh-vien-phan-ung-vi-hoc-phi-mon-giao-duc-quoc-phong-gan-24-trieu-dong-4866742.html) - 14:21 27/03/2025
 - 🌮 [Tỉnh nào có tỷ lệ người dân sở hữu ôtô cao nhất cả nước?](https://vnexpress.net/tinh-nao-co-ty-le-nguoi-dan-so-huu-oto-cao-nhat-ca-nuoc-4866187.html) - 12:29 27/03/2025
