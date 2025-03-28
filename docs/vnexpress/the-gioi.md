@@ -15,7 +15,7 @@ sidebar_position: 2
 - 🐲 [Phi công F-16 Thổ Nhĩ Kỳ dùng máy tính bảng để điều khiển tên lửa](https://vnexpress.net/phi-cong-f-16-tho-nhi-ky-dung-may-tinh-bang-de-dieu-khien-ten-lua-4866950.html) - 09:04 28/03/2025
 - 🦒 [Tòa nhà đổ sập ở Bangkok vì động đất, 8 người chết](https://vnexpress.net/toa-nha-do-sap-o-bangkok-vi-dong-dat-8-nguoi-chet-4867116.html) - 08:41 28/03/2025
 - 🐻 [Brazil công nhận Việt Nam là nền kinh tế thị trường](https://vnexpress.net/brazil-cong-nhan-viet-nam-la-nen-kinh-te-thi-truong-4867040.html) - 08:09 28/03/2025
-- 🚀 [144 người thiệt mạng ở Myanmar sau động đất 7,7 độ](https://vnexpress.net/144-nguoi-thiet-mang-o-myanmar-sau-dong-dat-7-7-do-4867037.html) - 06:56 28/03/2025
+- 🚀 [144 người thiệt mạng ở Myanmar sau động đất 7,7 độ](https://vnexpress.net/144-nguoi-thiet-mang-o-myanmar-sau-dong-dat-7-7-do-4867037-tong-thuat.html) - 06:56 28/03/2025
 - 🥰 [Ông Trump trừng phạt hãng luật liên quan đến cựu công tố viên đặc biệt](https://vnexpress.net/ong-trump-trung-phat-hang-luat-lien-quan-den-cuu-cong-to-vien-dac-biet-4866870.html) - 04:48 28/03/2025
 - 🔥 [Ukraine tuyên bố phá hủy gần 100 tên lửa tại căn cứ chiến lược Nga](https://vnexpress.net/ukraine-tuyen-bo-pha-huy-gan-100-ten-lua-tai-can-cu-chien-luoc-nga-4866884.html) - 04:18 28/03/2025
 - 🥳 [Nga hạ thủy tàu ngầm đầu tiên chuyên mang tên lửa siêu vượt âm](https://vnexpress.net/nga-ha-thuy-tau-ngam-dau-tien-chuyen-mang-ten-lua-sieu-vuot-am-4866850.html) - 04:10 28/03/2025
