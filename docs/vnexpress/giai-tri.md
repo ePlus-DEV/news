@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Trương Minh Cường: &#39;Tôi chấp nhận thất bại, làm lại từ số không&#39;](https://vnexpress.net/truong-minh-cuong-toi-chap-nhan-that-bai-lam-lai-tu-so-khong-4865926.html) - 17:00 27/03/2025
+- 🌏 [Trương Minh Cường: &#39;Tôi thất bại, làm lại từ số không&#39;](https://vnexpress.net/truong-minh-cuong-toi-that-bai-lam-lai-tu-so-khong-4865926.html) - 17:00 27/03/2025
 - 💫 [Váy áo giúp Lý Nhã Kỳ &#39;ăn gian&#39; tuổi](https://vnexpress.net/vay-ao-giup-ly-nha-ky-an-gian-tuoi-4865231.html) - 14:00 27/03/2025
 - 🌮 [Sức lan tỏa của MV &#39;Bắc Bling&#39;](https://vnexpress.net/suc-lan-toa-cua-mv-bac-bling-4866569.html) - 12:45 27/03/2025
 - 🧠 [Công trình trái phép ở nhà cổ Vương Hồng Sển bị dẹp bỏ](https://vnexpress.net/cong-trinh-trai-phep-o-nha-co-vuong-hong-sen-bi-dep-bo-4866719.html) - 10:37 27/03/2025
