@@ -4,10 +4,10 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [&#39;Phải phá tảng băng dữ liệu giữa Trung ương và địa phương&#39;](https://vnexpress.net/phai-pha-tang-bang-du-lieu-giua-trung-uong-va-dia-phuong-4865856.html) - 23:00 27/03/2025
+- 🦒 [&#39;Người sống, dữ liệu phải sống&#39;](https://vnexpress.net/nguoi-song-du-lieu-phai-song-4865856.html) - 23:00 27/03/2025
 - 🤓 [Học viên phi công tốt nghiệp giỏi có thể được phong hàm đại úy](https://vnexpress.net/hoc-vien-phi-cong-tot-nghiep-gioi-co-the-duoc-phong-ham-dai-uy-4866761.html) - 19:03 27/03/2025
 - ⚗️ [Phố cổ Hội An từng suýt bị phá hủy](https://vnexpress.net/pho-co-hoi-an-tung-suyt-bi-pha-huy-4865774.html) - 18:28 27/03/2025
-- 🌊 [Lương tối thiểu vùng nên áp dụng thế nào khi bỏ cấp huyện?](https://vnexpress.net/luong-toi-thieu-vung-nen-ap-dung-the-nao-khi-bo-cap-huyen-4866731.html) - 17:00 27/03/2025
+- 🌊 [Lương tối thiểu vùng nên áp dụng thế nào khi bỏ cấp huyện?](https://vnexpress.net/luong-toi-thieu-vung-nen-ap-dung-the-nao-khi-bo-cap-huyen-vnepre-4866731.html) - 17:00 27/03/2025
 - 🎓 [Sửa chữa khe co giãn trên cao tốc Bắc Nam trước 30/4](https://vnexpress.net/sua-chua-khe-co-gian-tren-cao-toc-bac-nam-truoc-30-4-4866765.html) - 15:11 27/03/2025
 - 🔥 [Đề xuất hơn 43.500 tỷ đồng xây cao tốc Quy Nhơn - Pleiku](https://vnexpress.net/de-xuat-hon-43-500-ty-dong-xay-cao-toc-quy-nhon-pleiku-4866753.html) - 14:43 27/03/2025
 - 🦏 [Đề xuất xây dựng cơ chế sàng lọc công chức](https://vnexpress.net/de-xuat-xay-dung-co-che-sang-loc-cong-chuc-4866738.html) - 12:17 27/03/2025
