@@ -13,7 +13,7 @@ sidebar_position: 2
 - 🌈 [Cảnh hoảng loạn khi các tòa nhà sập trong động đất ở Myanmar](https://vnexpress.net/canh-hoang-loan-khi-cac-toa-nha-sap-trong-dong-dat-o-myanmar-4867133.html) - 09:38 28/03/2025
 - 🧑‍🏫 [Người Việt kể khoảnh khắc động đất rung chuyển Thái Lan](https://vnexpress.net/nguoi-viet-ke-khoanh-khac-dong-dat-rung-chuyen-thai-lan-4867144.html) - 09:24 28/03/2025
 - 🐲 [Phi công F-16 Thổ Nhĩ Kỳ dùng máy tính bảng để điều khiển tên lửa](https://vnexpress.net/phi-cong-f-16-tho-nhi-ky-dung-may-tinh-bang-de-dieu-khien-ten-lua-4866950.html) - 09:04 28/03/2025
-- 🦒 [Tòa nhà đổ sập ở Bangkok vì động đất, 81 người mắc kẹt](https://vnexpress.net/toa-nha-do-sap-o-bangkok-vi-dong-dat-81-nguoi-mac-ket-4867116.html) - 08:41 28/03/2025
+- 🦒 [Tòa nhà đổ sập ở Bangkok vì động đất, 8 người chết](https://vnexpress.net/toa-nha-do-sap-o-bangkok-vi-dong-dat-8-nguoi-chet-4867116.html) - 08:41 28/03/2025
 - 🐻 [Brazil công nhận Việt Nam là nền kinh tế thị trường](https://vnexpress.net/brazil-cong-nhan-viet-nam-la-nen-kinh-te-thi-truong-4867040.html) - 08:09 28/03/2025
 - 🚀 [144 người thiệt mạng ở Myanmar sau động đất 7,7 độ](https://vnexpress.net/144-nguoi-thiet-mang-o-myanmar-sau-dong-dat-7-7-do-4867037.html) - 06:56 28/03/2025
 - 🥰 [Ông Trump trừng phạt hãng luật liên quan đến cựu công tố viên đặc biệt](https://vnexpress.net/ong-trump-trung-phat-hang-luat-lien-quan-den-cuu-cong-to-vien-dac-biet-4866870.html) - 04:48 28/03/2025
