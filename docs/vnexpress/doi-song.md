@@ -5,7 +5,7 @@ sidebar_position: 6
 
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Chuyên gia nhân sự chỉ lỗi khi phỏng vấn xin việc](https://vnexpress.net/chuyen-gia-nhan-su-chi-loi-khi-phong-van-xin-viec-4865812.html) - 01:27 28/03/2025
-- 🎓 [Lắp camera phạt nguội người đổ rác trộm](https://vnexpress.net/lap-camera-phat-nguoi-nguoi-do-rac-trom-4866723.html) - 23:00 27/03/2025
+- 🎓 [Phố không rác khi có camera phạt nguội người đổ trộm](https://vnexpress.net/pho-khong-rac-khi-co-camera-phat-nguoi-nguoi-do-trom-4866723.html) - 23:00 27/03/2025
 - 🚦 [Xu hướng lấy vợ hơn tuổi ở Hàn Quốc](https://vnexpress.net/xu-huong-lay-vo-hon-tuoi-o-han-quoc-4866625.html) - 22:45 27/03/2025
 - 🦣 [Bún thang lươn kiểu cổ](https://vnexpress.net/bun-thang-luon-kieu-co-4866685.html) - 11:32 27/03/2025
 - 🎓 [Nỗi sợ lão hóa của người Hàn Quốc](https://vnexpress.net/noi-so-lao-hoa-cua-nguoi-han-quoc-4866190.html) - 08:13 27/03/2025
