@@ -521,7 +521,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Nhiều nơi ở TP.HCM ở rung lắc do động đất từ Myanmar](https://muctim.tuoitre.vn/nhieu-noi-o-tphcm-o-rung-lac-do-dong-dat-tu-myanmar-10125032815003257.htm) - 08:11 28/03/2025
+- 🤔 [Nhiều nơi ở TP.HCM rung lắc do động đất từ Myanmar](https://muctim.tuoitre.vn/nhieu-noi-o-tphcm-o-rung-lac-do-dong-dat-tu-myanmar-10125032815003257.htm) - 08:11 28/03/2025
 - 🥷 [Đến Ngày hội Tự tin vào lớp 10, trải nghiệm công nghệ cùng FPT PolySchool](https://muctim.tuoitre.vn/den-ngay-hoi-tu-tin-vao-lop-10-trai-nghiem-cong-nghe-cung-fpt-polyschool-101250327163456489.htm) - 07:56 28/03/2025
 - 🤖 [Trường THCS - THPT Hồng Hà mang trò chơi dân gian đến Ngày hội Tự tin vào lớp 10](https://muctim.tuoitre.vn/truong-thcs-thpt-hong-ha-mang-tro-choi-dan-gian-den-ngay-hoi-tu-tin-vao-lop-10-101250327134127558.htm) - 07:54 28/03/2025
 - 🤓 [Ngày hội Tự tin vào lớp 10: Ban tư vấn sẵn sàng giải đáp mọi thắc mắc](https://muctim.tuoitre.vn/ngay-hoi-tu-tin-vao-lop-10-ban-tu-van-san-sang-giai-dap-moi-thac-mac-10125032713064756.htm) - 07:37 28/03/2025
