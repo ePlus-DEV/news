@@ -10,7 +10,7 @@ sidebar_position: 3
 - 🐵 [UOB: Bán dẫn sẽ là động lực tăng trưởng mới cho 25 năm tới](https://vnexpress.net/uob-ban-dan-se-la-dong-luc-tang-truong-moi-cho-25-nam-toi-4867475.html) - 09:30 29/03/2025
 - 🦅 [Xuất khẩu tôm hùm sang Trung Quốc tăng mạnh](https://vnexpress.net/xuat-khau-tom-hum-sang-trung-quoc-tang-manh-4867460.html) - 08:04 29/03/2025
 - 😺 [25 năm MPE chuyển đổi số và xanh hóa sản xuất](https://vnexpress.net/25-nam-mpe-chuyen-doi-so-va-xanh-hoa-san-xuat-4867454.html) - 08:00 29/03/2025
-- 🤩 [Bầu Thụy hai năm liền không nhận lương ở LPBank](https://vnexpress.net/bau-thuy-hai-nam-lien-khong-nhan-luong-o-lpbank-4867446.html) - 07:12 29/03/2025
+- 🤩 [Ông Nguyễn Đức Thụy hai năm liền không nhận lương ở LPBank](https://vnexpress.net/ong-nguyen-duc-thuy-hai-nam-lien-khong-nhan-luong-o-lpbank-4867446.html) - 07:12 29/03/2025
 - 🌮 [Vinamilk sẽ chi hơn 9.000 tỷ trả cổ tức cao nhất 6 năm](https://vnexpress.net/vinamilk-se-chi-hon-9-000-ty-tra-co-tuc-cao-nhat-6-nam-4867447.html) - 07:01 29/03/2025
 - 🧰 [Ngân hàng thêm ưu đãi vay mua nhà &#39;thực tế hơn&#39; cho người trẻ](https://vnexpress.net/ngan-hang-them-uu-dai-vay-mua-nha-thuc-te-hon-cho-nguoi-tre-4867406.html) - 06:10 29/03/2025
 - 🤔 [CEO VinaCapital đề xuất nhà đầu tư không dùng từ &#39;chơi&#39; chứng khoán](https://vnexpress.net/ceo-vinacapital-de-xuat-nha-dau-tu-khong-dung-tu-choi-chung-khoan-4867401.html) - 05:01 29/03/2025
@@ -19,7 +19,7 @@ sidebar_position: 3
 - 🦩 [Bộ trưởng Tài chính: &#39;Vừa làm, vừa rút kinh nghiệm khi xây dựng trung tâm tài chính&#39;](https://vnexpress.net/bo-truong-tai-chinh-vua-lam-vua-rut-kinh-nghiem-khi-xay-dung-trung-tam-tai-chinh-4867250.html) - 17:06 28/03/2025
 - 👍 [TS Trần Du Lịch: Nên mở khu thương mại tự do ở Bình Định](https://vnexpress.net/ts-tran-du-lich-nen-mo-khu-thuong-mai-tu-do-o-binh-dinh-4867239.html) - 15:09 28/03/2025
 - 🏊 [Uniqlo đầu tiên ở Huế hút khách ngày khai trương](https://vnexpress.net/uniqlo-dau-tien-o-hue-hut-khach-ngay-khai-truong-4866708.html) - 12:00 28/03/2025
-- 🤡 [Cảng lớn nhất Đồng Nai &#39;chia tải&#39; hàng hóa với Cát Lái](https://vnexpress.net/cang-lon-nhat-dong-nai-chia-tai-hang-hoa-voi-cat-lai-4867203.html) - 11:49 28/03/2025
+- 🤡 [Cảng lớn nhất Đồng Nai hợp tác hàng hóa với Cát Lái](https://vnexpress.net/cang-lon-nhat-dong-nai-hop-tac-hang-hoa-voi-cat-lai-4867203.html) - 11:49 28/03/2025
 - 👀 [Doanh nghiệp FDI lo mất khả năng trả nợ nếu giá FIT bị tính lại](https://vnexpress.net/doanh-nghiep-fdi-lo-mat-kha-nang-tra-no-neu-gia-fit-bi-tinh-lai-4867099.html) - 11:39 28/03/2025
 - 😺 [Green Future cho thuê 1.000 ôtô điện tại Đà Nẵng](https://vnexpress.net/green-future-cho-thue-1-000-oto-dien-tai-da-nang-4867115.html) - 10:00 28/03/2025
 - 🦣 [Chứng khoán giảm ba phiên liên tiếp](https://vnexpress.net/chung-khoan-giam-ba-phien-lien-tiep-4867135.html) - 09:36 28/03/2025
