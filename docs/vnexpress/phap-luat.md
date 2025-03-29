@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Sống tại nước ngoài, tham gia bảo hiểm xã hội tại Việt Nam thế nào?](https://vnexpress.net/song-tai-nuoc-ngoai-tham-gia-bao-hiem-xa-hoi-tai-viet-nam-the-nao-vnepre-4866550.html) - 22:00 28/03/2025
 - 🥰 [Cảnh sát Nhật Bản &#39;vứt nhầm&#39; 20 thẻ nhớ chứa 1.000 ảnh vụ án](https://vnexpress.net/canh-sat-nhat-ban-vut-nham-20-the-nho-chua-1-000-anh-vu-an-4867264.html) - 17:09 28/03/2025
-- 🎓 [Cuộc náo loạn xuyên đêm của kẻ khống chế bé gái ở Bắc Ninh](https://vnexpress.net/cuoc-nao-loan-xuyen-dem-cua-ke-khong-che-be-gai-o-bac-ninh-4867110.html) - 17:00 28/03/2025
+- 🎓 [Cuộc náo loạn xuyên đêm của kẻ khống chế bé gái ở Bắc Ninh](https://vnexpress.net/cuoc-nao-loan-xuyen-dem-cua-ke-khong-che-be-gai-o-bac-ninh-vnepre-4867110.html) - 17:00 28/03/2025
 - 🤓 [Đôi vợ chồng lừa bán thực phẩm chức năng cho hơn 7.400 người](https://vnexpress.net/doi-vo-chong-lua-ban-thuc-pham-chuc-nang-cho-hon-7-400-nguoi-4867097.html) - 17:00 28/03/2025
 - 🎊 [Cảnh sát thoát án tù trong vụ bắn súng điện trấn áp cụ bà 95 tuổi](https://vnexpress.net/cuu-canh-sat-thoat-an-tu-trong-vu-ban-sung-dien-tran-ap-cu-ba-95-tuoi-4867263.html) - 16:48 28/03/2025
 - 🙉 [Hai anh em bị tuyên tử hình vì vận chuyển thuê ma túy](https://vnexpress.net/hai-anh-em-bi-tu-hinh-vi-van-chuyen-thue-ma-tuy-4867248.html) - 16:34 28/03/2025
