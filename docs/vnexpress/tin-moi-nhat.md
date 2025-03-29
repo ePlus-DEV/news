@@ -57,4 +57,5 @@ sidebar_position: 9
 - 👍 [Điều gì xảy ra với hệ hô hấp khi ô nhiễm không khí?](https://vnexpress.net/dieu-gi-xay-ra-voi-he-ho-hap-khi-o-nhiem-khong-khi-4867438.html) - 10:00 29/03/2025
 - 🔥 [Dấu hiệu rối loạn ăn uống](https://vnexpress.net/dau-hieu-roi-loan-an-uong-4867394.html) - 10:00 29/03/2025
 - 💄 [Sản phụ sinh con trên đường phố Bangkok vì động đất](https://vnexpress.net/san-phu-sinh-con-tren-duong-pho-bangkok-vi-dong-dat-4867490.html) - 09:48 29/03/2025
-- 🤡 [Cựu Giám đốc Trung tâm Lý lịch tư pháp quốc gia bị cáo buộc nhận 43 tỷ đồng](https://vnexpress.net/cuu-giam-doc-trung-tam-ly-lich-tu-phap-quoc-gia-bi-cao-buoc-nhan-43-ty-dong-4867513.html) - 09:48 29/03/2025<!-- vnexpress-tin-moi-nhat:END -->
+- 🤡 [Cựu Giám đốc Trung tâm Lý lịch tư pháp quốc gia bị cáo buộc nhận 43 tỷ đồng](https://vnexpress.net/cuu-giam-doc-trung-tam-ly-lich-tu-phap-quoc-gia-bi-cao-buoc-nhan-43-ty-dong-4867513.html) - 09:48 29/03/2025
+- ⛽️ [Biểu tình khắp Hàn Quốc vì trì hoãn phán xử Tổng thống](https://vnexpress.net/bieu-tinh-khap-han-quoc-vi-tri-hoan-phan-xu-tong-thong-4867468.html) - 09:44 29/03/2025<!-- vnexpress-tin-moi-nhat:END -->
