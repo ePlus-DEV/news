@@ -66,7 +66,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧰 [Xe tải lật chắn ngang cao tốc Vĩnh Hảo - Phan Thiết](https://vnexpress.net/xe-tai-lat-chan-ngang-cao-toc-vinh-hao-phan-thiet-4867324.html) - 03:27 29/03/2025
 - 🦒 [Tại sao người ta nhớ tình cũ?](https://vnexpress.net/tai-sao-nguoi-ta-nho-tinh-cu-4867360.html) - 03:26 29/03/2025
 - ⛽️ [Trinh sát cơ Nga bay thấp, áp sát tàu sân bay Mỹ](https://vnexpress.net/trinh-sat-co-nga-bay-thap-ap-sat-tau-san-bay-my-4867322.html) - 03:18 29/03/2025
-- 🚀 [Người chết do động đất ở Myanmar tăng lên gần 700](https://vnexpress.net/nguoi-chet-do-dong-dat-o-myanmar-tang-len-gan-700-4867361.html) - 03:17 29/03/2025
+- 🚀 [Người chết do động đất ở Myanmar vượt 1.000](https://vnexpress.net/nguoi-chet-do-dong-dat-o-myanmar-vuot-1-000-4867361.html) - 03:17 29/03/2025
 - 🪜 [Chelsea hủy ngày nghỉ sau khi thua đội U21](https://vnexpress.net/chelsea-huy-ngay-nghi-sau-khi-thua-doi-u21-4867349.html) - 03:08 29/03/2025
 - 🚦 [11 điểm đến tôn giáo ấn tượng tại Việt Nam](https://vnexpress.net/11-diem-den-ton-giao-an-tuong-tai-viet-nam-4865458.html) - 03:06 29/03/2025
 - 🕯 [Lý do động đất Myanmar gây thiệt hại nặng nề](https://vnexpress.net/ly-do-dong-dat-myanmar-gay-thiet-hai-nang-ne-4867286.html) - 03:05 29/03/2025
