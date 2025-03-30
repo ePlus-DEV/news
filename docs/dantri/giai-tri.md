@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [TPHCM công bố Nghệ thuật Lân sư rồng là di sản văn hóa phi vật thể quốc gia](https://dantri.com.vn/giai-tri/tphcm-cong-bo-nghe-thuat-lan-su-rong-la-di-san-van-hoa-phi-vat-the-quoc-gia-20250330112136013.htm) - 05:56 30/03/2025
+- 🤩 [TPHCM công bố Nghệ thuật Lân sư rồng là Di sản văn hóa phi vật thể quốc gia](https://dantri.com.vn/giai-tri/tphcm-cong-bo-nghe-thuat-lan-su-rong-la-di-san-van-hoa-phi-vat-the-quoc-gia-20250330112136013.htm) - 05:56 30/03/2025
 - 🔥 [Hoa hậu H&#39;Hen Niê nói gì về tin đồn mang thai con đầu lòng?](https://dantri.com.vn/giai-tri/hoa-hau-hhen-nie-noi-gi-ve-tin-don-mang-thai-con-dau-long-20250330123858056.htm) - 05:50 30/03/2025
 - 🚀 [Xuân Đức lần đầu hát &quot;Gọi em là bạn đời&quot; trước 1.000 khán giả ở Ninh Bình](https://dantri.com.vn/giai-tri/xuan-duc-lan-dau-hat-goi-em-la-ban-doi-truoc-1000-khan-gia-o-ninh-binh-20250330103846776.htm) - 04:00 30/03/2025
 - 🔥 [Bức Tường tổ chức show ở TPHCM, gây xúc động với hình ảnh tri ân Trần Lập](https://dantri.com.vn/giai-tri/buc-tuong-to-chuc-show-o-tphcm-gay-xuc-dong-voi-hinh-anh-tri-an-tran-lap-20250330083007573.htm) - 03:27 30/03/2025
