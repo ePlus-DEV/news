@@ -5,9 +5,9 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Cầu dựng đứng giữa làng chài cổ hút du khách](https://vnexpress.net/cau-dung-dung-giua-lang-chai-co-hut-du-khach-4867661.html) - 05:00 30/03/2025
-- 🪄 [Myanmar sau động đất](https://vnexpress.net/myanmar-sau-dong-dat-4867634.html) - 03:00 30/03/2025
+- 🪄 [Đền, chùa ở Myanmar sau động đất](https://vnexpress.net/den-chua-o-myanmar-sau-dong-dat-4867634.html) - 03:00 30/03/2025
 - 🦅 [Chùa nổi tiếng ở Myanmar bị phá hủy nặng sau động đất](https://vnexpress.net/chua-noi-tieng-o-myanmar-bi-pha-huy-nang-sau-dong-dat-4867314.html) - 02:13 30/03/2025
-- 🕴 [Lo ngại về ăn uống khi đi du lịch sau cái chết của con trai cầu thủ bóng chày Mỹ](https://vnexpress.net/lo-ngai-ve-an-uong-khi-di-du-lich-sau-cai-chet-cua-con-trai-cau-thu-bong-chay-my-4866979.html) - 00:00 30/03/2025
+- 🕴 [Lo ngại về ăn uống khi đi du lịch sau cái chết của du khách 14 tuổi](https://vnexpress.net/lo-ngai-ve-an-uong-khi-di-du-lich-sau-cai-chet-cua-du-khach-14-tuoi-4866979.html) - 00:00 30/03/2025
 - 👀 [Đặc sản các miền thu hút du khách TP HCM](https://vnexpress.net/dac-san-cac-mien-thu-hut-du-khach-tp-hcm-4867579.html) - 15:00 29/03/2025
 - 🎭 [Khách quốc tế kể giây phút tháo chạy trong cơn rung chấn ở Bangkok](https://vnexpress.net/khach-quoc-te-ke-giay-phut-thao-chay-trong-con-rung-chan-o-bangkok-4867561.html) - 14:04 29/03/2025
 - 🦒 [Miễn phí tour tham quan vịnh Bái Tử Long](https://vnexpress.net/mien-phi-tour-tham-quan-vinh-bai-tu-long-4867532.html) - 10:44 29/03/2025
