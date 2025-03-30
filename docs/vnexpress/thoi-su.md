@@ -41,7 +41,7 @@ sidebar_position: 1
 - 🤗 [Chủ tịch TP HCM: &#39;Sẽ mở rộng nhóm mua nhà giá rẻ&#39;](https://vnexpress.net/chu-tich-tp-hcm-se-mo-rong-nhom-mua-nha-gia-re-4867049.html) - 08:32 28/03/2025
 - 🌈 [Hai nam sinh mất tích trên sông](https://vnexpress.net/hai-nam-sinh-mat-tich-tren-song-4866966.html) - 08:25 28/03/2025
 - 🦣 [Việt Nam rung lắc sau động đất hơn 7 độ ở Myanmar](https://vnexpress.net/viet-nam-rung-lac-sau-dong-dat-hon-7-do-o-myanmar-4867036-tong-thuat.html) - 06:50 28/03/2025
-- 🎡 [Hải Phòng muốn lập Khu thương mại tự do tại ba vị trí](https://vnexpress.net/hai-phong-muon-lap-khu-thuong-mai-tu-do-tai-ba-vi-tri-4867008.html) - 06:00 28/03/2025
+- 🎡 [Hải Phòng muốn lập khu thương mại tự do tại ba vị trí](https://vnexpress.net/hai-phong-muon-lap-khu-thuong-mai-tu-do-tai-ba-vi-tri-4867008.html) - 06:00 28/03/2025
 - 🦏 [Ông Trần Trí Quang làm Chủ tịch tỉnh Đồng Tháp](https://vnexpress.net/ong-tran-tri-quang-lam-chu-tich-tinh-dong-thap-4867014.html) - 05:43 28/03/2025
 - 🎊 [Giá sắn giảm sâu, nông dân chất đầy đường chờ bán](https://vnexpress.net/gia-san-giam-sau-nong-dan-chat-day-duong-cho-ban-4866247.html) - 05:17 28/03/2025
 - 🫶 [Phương án sắp xếp phường xã ở Bình Dương, Đăk Lăk, Sóc Trăng](https://vnexpress.net/phuong-an-sap-xep-phuong-xa-o-binh-duong-dak-lak-soc-trang-4866759.html) - 04:54 28/03/2025
