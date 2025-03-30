@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Quảng Nam và Đà Nẵng dự kiến sáp nhập](https://vnexpress.net/quang-nam-va-da-nang-du-kien-sap-nhap-4867606.html) - 19:07 29/03/2025
 - ⚗️ [Cải tạo vỉa hè làm ảnh hưởng hơn 2.000 cây xanh ở TP HCM](https://vnexpress.net/cai-tao-via-he-lam-anh-huong-hon-2-000-cay-xanh-o-tp-hcm-4867451.html) - 17:00 29/03/2025
 - 🌊 [Cư dân chung cư 51 Huỳnh Thúc Kháng bốc thăm nhận nhà tái định cư](https://vnexpress.net/cu-dan-chung-cu-51-huynh-thuc-khang-boc-tham-nhan-nha-tai-dinh-cu-4866762.html) - 17:00 29/03/2025
-- 🎓 [Quân đội Việt Nam sẽ cử lực lượng cứu trợ động đất tại Myanmar](https://vnexpress.net/quan-doi-viet-nam-se-cu-luc-luong-cuu-tro-dong-dat-tai-myanmar-4867588.html) - 15:55 29/03/2025
+- 🎓 [Quân đội, Công an Việt Nam cử lực lượng cứu trợ động đất tại Myanmar](https://vnexpress.net/quan-doi-cong-an-viet-nam-cu-luc-luong-cuu-tro-dong-dat-tai-myanmar-4867588.html) - 15:55 29/03/2025
 - 🔥 [Cô gái vứt xe máy, tránh khối gỗ rơi từ ôtô](https://vnexpress.net/co-gai-vut-xe-may-tranh-khoi-go-roi-tu-oto-4867565.html) - 14:39 29/03/2025
 - 🦏 [Điểm nhấn trong chương trình nghệ thuật 50 năm giải phóng Đà Nẵng](https://vnexpress.net/diem-nhan-trong-chuong-trinh-nghe-thuat-50-nam-giai-phong-da-nang-4867552.html) - 12:30 29/03/2025
 - 👺 [Hải Phòng đề xuất được bán nhà chung cư thuộc tài sản công](https://vnexpress.net/hai-phong-de-xuat-duoc-ban-nha-chung-cu-thuoc-tai-san-cong-4867435.html) - 11:13 29/03/2025
@@ -36,7 +36,7 @@ sidebar_position: 1
 - 💃 [Hải Phòng muốn lập Khu thương mại tự do tại ba vị trí](https://vnexpress.net/hai-phong-muon-lap-khu-thuong-mai-tu-do-tai-ba-vi-tri-4867008.html) - 06:00 28/03/2025
 - 🧰 [Ông Trần Trí Quang làm Chủ tịch tỉnh Đồng Tháp](https://vnexpress.net/ong-tran-tri-quang-lam-chu-tich-tinh-dong-thap-4867014.html) - 05:43 28/03/2025
 - 🚀 [Giá sắn giảm sâu, nông dân chất đầy đường chờ bán](https://vnexpress.net/gia-san-giam-sau-nong-dan-chat-day-duong-cho-ban-4866247.html) - 05:17 28/03/2025
-- 🎊 [Phương án sắp xếp phường xã ở Bình Dương, Đăk Lăk](https://vnexpress.net/phuong-an-sap-xep-phuong-xa-o-binh-duong-dak-lak-4866759.html) - 04:54 28/03/2025
+- 🎊 [Phương án sắp xếp phường xã ở Bình Dương, Đăk Lăk, Sóc Trăng](https://vnexpress.net/phuong-an-sap-xep-phuong-xa-o-binh-duong-dak-lak-soc-trang-4866759.html) - 04:54 28/03/2025
 - 🤭 [Nữ xe ôm tử vong sau va chạm xe khách ở Hà Nội](https://vnexpress.net/nu-xe-om-tu-vong-sau-va-cham-xe-khach-o-ha-noi-4866933.html) - 04:35 28/03/2025
 - 🤗 [Mộ cổ bằng đá 2.000 năm giữa rừng cao su](https://vnexpress.net/mo-co-bang-da-2-000-nam-giua-rung-cao-su-4850682.html) - 04:07 28/03/2025
 - 🌈 [Đà Nẵng ngày giải phóng 50 năm trước](https://vnexpress.net/da-nang-ngay-giai-phong-50-nam-truoc-4866756.html) - 03:51 28/03/2025
