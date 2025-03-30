@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [VĐV Việt Nam khóc trong trận thua ngược Trung Quốc ở giải bóng rổ châu Á](https://vnexpress.net/vdv-viet-nam-khoc-trong-tran-thua-nguoc-trung-quoc-o-giai-bong-ro-chau-a-4867716.html) - 08:27 30/03/2025
+- 🪜 [VĐV bóng rổ Việt Nam khóc trong trận thua ngược Trung Quốc](https://vnexpress.net/vdv-bong-ro-viet-nam-khoc-trong-tran-thua-nguoc-trung-quoc-4867716.html) - 08:27 30/03/2025
 - 🦩 [Đỗ Quốc Luật lần thứ 11 vô địch quốc gia cự ly 10km](https://vnexpress.net/do-quoc-luat-lan-thu-11-vo-dich-quoc-gia-cu-ly-10km-4867705.html) - 07:28 30/03/2025
 - 🧰 [Djokovic – Mensik: Cột mốc 100 danh hiệu cho &#39;Nhà vua&#39;](https://vnexpress.net/djokovic-mensik-cot-moc-100-danh-hieu-cho-nha-vua-4867695.html) - 07:03 30/03/2025
 - 🤗 [Sabalenka lần đầu đoạt Miami Mở rộng](https://vnexpress.net/sabalenka-lan-dau-doat-miami-mo-rong-4867694.html) - 06:27 30/03/2025
