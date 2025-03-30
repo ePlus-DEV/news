@@ -248,7 +248,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Đội cứu hộ Việt Nam đã đến Myanmar](https://nld.com.vn/doi-cuu-ho-viet-nam-da-den-myanmar-1962503302032359.htm) - 13:40 30/03/2025
-- 😺 [Vụ xe khách 52 chỗ rơi đèo Bảo Lộc, nhiều người là hét cầu cứu: Xe mất phanh trước tai nạn?](https://nld.com.vn/vu-xe-khach-52-cho-roi-deo-bao-loc-nhieu-nguoi-la-het-cau-cuu-xe-mat-phanh-truoc-tai-nan-196250330203225885.htm) - 13:40 30/03/2025
+- 😺 [Vụ xe khách 52 chỗ rơi đèo Bảo Lộc, nhiều người la hét cầu cứu: Xe mất phanh trước tai nạn?](https://nld.com.vn/vu-xe-khach-52-cho-roi-deo-bao-loc-nhieu-nguoi-la-het-cau-cuu-xe-mat-phanh-truoc-tai-nan-196250330203225885.htm) - 13:40 30/03/2025
 - 👍 [NÓNG: Động đất mạnh 7,1 độ tấn công Tonga, cảnh báo sóng thần](https://nld.com.vn/nong-dong-dat-manh-71-do-tan-cong-tonga-canh-bao-song-than-196250330203223435.htm) - 13:35 30/03/2025
 - 🥷 [Vé số Vietlott tiếp tục trúng giải Jackpot](https://nld.com.vn/ve-so-vietlott-tiep-tuc-trung-giai-jackpot-196250330193919171.htm) - 12:46 30/03/2025
 - 🤔 [Trường Đại học VH-TT-DL Thanh Hóa vô địch Giải sinh viên quốc tế](https://nld.com.vn/truong-dai-hoc-vh-tt-dl-thanh-hoa-vo-dich-giai-sinh-vien-quoc-te-196250330193630986.htm) - 12:40 30/03/2025
