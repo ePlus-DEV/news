@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Thái Lan dự kiến mất 15% doanh thu du lịch do động đất](https://vnexpress.net/thai-lan-du-kien-mat-15-doanh-thu-du-lich-do-dong-dat-4868060.html) - 07:51 31/03/2025
+- 💂 [Thái Lan ước tính mất 15% doanh thu du lịch do động đất](https://vnexpress.net/thai-lan-uoc-tinh-mat-15-doanh-thu-du-lich-do-dong-dat-4868060.html) - 07:51 31/03/2025
 - 🪄 [Cuộc sống ở Triều Tiên trong ngày khách quốc tế trở lại](https://vnexpress.net/cuoc-song-o-trieu-tien-trong-ngay-khach-quoc-te-tro-lai-4867880.html) - 03:38 31/03/2025
 - 🦅 [Trải nghiệm du lịch cho gia đình đa thế hệ tại Singapore](https://vnexpress.net/trai-nghiem-du-lich-cho-gia-dinh-da-the-he-tai-singapore-4860954.html) - 03:00 31/03/2025
 - 🕴 [Lo lắng và kỳ vọng với du lịch sau sáp nhập tỉnh thành](https://vnexpress.net/lo-lang-va-ky-vong-voi-du-lich-sau-sap-nhap-tinh-thanh-4866702.html) - 01:05 31/03/2025
