@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Lao động gật gù xếp hàng giữa đêm đi nộp hồ sơ thi tiếng Hàn](https://dantri.com.vn/lao-dong-viec-lam/lao-dong-gat-gu-xep-hang-giua-dem-di-nop-ho-so-thi-tieng-han-20250331115857597.htm) - 05:21 31/03/2025
+- ⚗️ [Lao động gật gù xếp hàng giữa đêm đi nộp hồ sơ thi tiếng Hàn lúc 3h30](https://dantri.com.vn/lao-dong-viec-lam/lao-dong-gat-gu-xep-hang-giua-dem-di-nop-ho-so-thi-tieng-han-luc-3h30-20250331115857597.htm) - 05:21 31/03/2025
 - 🙉 [Bổ sung 2 phương pháp xác định công việc nặng nhọc, độc hại từ ngày 1/4](https://dantri.com.vn/lao-dong-viec-lam/bo-sung-2-phuong-phap-xac-dinh-cong-viec-nang-nhoc-doc-hai-tu-ngay-14-20250331004125561.htm) - 04:02 31/03/2025
 - 🕴 [Tuyển lao động Việt sang Nhật làm hộ lý, tặng 34 triệu đồng nếu về đúng hạn](https://dantri.com.vn/lao-dong-viec-lam/tuyen-lao-dong-viet-sang-nhat-lam-ho-ly-tang-34-trieu-dong-neu-ve-dung-han-20250330185714756.htm) - 01:01 31/03/2025
 - 🧐 [Bác sĩ làm việc trên xe lăn chưa được nghỉ hưu trước tuổi](https://dantri.com.vn/lao-dong-viec-lam/bac-si-lam-viec-tren-xe-lan-chua-duoc-nghi-huu-truoc-tuoi-20250330165104875.htm) - 00:48 31/03/2025
