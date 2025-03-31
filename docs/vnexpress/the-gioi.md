@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Chuyên gia Mỹ hoài nghi về năng lực &#39;máy bay mắt thần&#39; Triều Tiên](https://vnexpress.net/chuyen-gia-my-hoai-nghi-ve-nang-luc-may-bay-mat-than-trieu-tien-4867136.html) - 01:00 31/03/2025
-- 🕴 [1.700 người thiệt mạng do động đất ở Myanmar](https://vnexpress.net/1-700-nguoi-thiet-mang-do-dong-dat-o-myanmar-4867817.html) - 00:13 31/03/2025
-- 🤭 [Moskva - Washington &#39;bắt đầu bàn về hợp tác đất hiếm tại Nga&#39;](https://vnexpress.net/moskva-washington-bat-dau-ban-ve-hop-tac-dat-hiem-tai-nga-4867819.html) - 23:56 30/03/2025
-- 🧑‍💻 [Tổng thống Trump tuyên bố nghiêm túc về nắm quyền nhiệm kỳ ba](https://vnexpress.net/tong-thong-trump-tuyen-bo-nghiem-tuc-ve-nam-quyen-nhiem-ky-ba-4867804.html) - 23:34 30/03/2025
-- 🦏 [Mỹ hụt hơi trong cuộc đua đất hiếm với Trung Quốc](https://vnexpress.net/my-hut-hoi-trong-cuoc-dua-dat-hiem-voi-trung-quoc-4865665.html) - 22:00 30/03/2025
-- 🦒 [Sự cố mất điện hé lộ lỗ hổng của sân bay lớn nhất nước Anh](https://vnexpress.net/su-co-mat-dien-he-lo-lo-hong-cua-san-bay-lon-nhat-nuoc-anh-4865037.html) - 18:00 30/03/2025
-- 🌈 [Đảng Cộng hòa tìm cách tôn vinh ông Trump](https://vnexpress.net/dang-cong-hoa-tim-cach-ton-vinh-ong-trump-4865209.html) - 17:00 30/03/2025
-- 🧑‍🏫 [Ông Trump dọa &#39;sẽ ném bom&#39; nếu Iran không đạt thỏa thuận hạt nhân](https://vnexpress.net/ong-trump-doa-se-nem-bom-neu-iran-khong-dat-thoa-thuan-hat-nhan-4867790.html) - 16:38 30/03/2025
-- 🐲 [Ảnh vệ tinh Myanmar trước và sau thảm họa động đất](https://vnexpress.net/anh-ve-tinh-myanmar-truoc-va-sau-tham-hoa-dong-dat-4867765.html) - 14:42 30/03/2025
-- 🦒 [Việt Nam viện trợ 300.000 USD giúp Myanmar khắc phục hậu quả động đất](https://vnexpress.net/viet-nam-vien-tro-300-000-usd-giup-myanmar-khac-phuc-hau-qua-dong-dat-4867772.html) - 14:25 30/03/2025
-- 🐻 [Israel kêu gọi Hamas hạ vũ khí để đổi an toàn cho các chỉ huy](https://vnexpress.net/israel-keu-goi-hamas-ha-vu-khi-de-doi-an-toan-cho-cac-chi-huy-4867739.html) - 12:53 30/03/2025
-- 🚀 [Ông trùm chống fentanyl của Canada nỗ lực giải quyết sức ép từ Mỹ](https://vnexpress.net/ong-trum-chong-fentanyl-cua-canada-no-luc-giai-quyet-suc-ep-tu-my-4863240.html) - 12:00 30/03/2025
-- 🥰 [Myanmar đối mặt khủng hoảng nhân đạo sau động đất](https://vnexpress.net/myanmar-doi-mat-khung-hoang-nhan-dao-sau-dong-dat-4867740.html) - 11:40 30/03/2025
-- 🔥 [Thủ tướng Israel sẽ thăm Hungary bất chấp lệnh bắt của ICC](https://vnexpress.net/thu-tuong-israel-se-tham-hungary-bat-chap-lenh-bat-cua-icc-4867726.html) - 10:32 30/03/2025
-- 🥳 [Các Ngoại trưởng ASEAN họp khẩn về động đất ở Myanmar](https://vnexpress.net/cac-ngoai-truong-asean-hop-khan-ve-dong-dat-o-myanmar-4867706.html) - 08:13 30/03/2025
-- 💼 [Hàn Quốc điều tra người bị nghi gây cháy rừng khi tảo mộ](https://vnexpress.net/han-quoc-dieu-tra-nguoi-bi-nghi-gay-chay-rung-khi-tao-mo-4867692.html) - 07:26 30/03/2025
-- 🤡 [Máy bay Mỹ gặp sự cố, đánh rơi bia mục tiêu xuống nhà dân](https://vnexpress.net/may-bay-my-gap-su-co-danh-roi-bia-muc-tieu-xuong-nha-dan-4867395.html) - 04:20 30/03/2025
-- 🌁 [Ukraine cáo buộc Nga tập kích bệnh viện quân y ở Kharkov](https://vnexpress.net/ukraine-cao-buoc-nga-tap-kich-benh-vien-quan-y-o-kharkov-4867621.html) - 02:36 30/03/2025
-- 🤩 [Đan Mạch phản bác chỉ trích của Phó tổng thống Mỹ về Greenland](https://vnexpress.net/dan-mach-phan-bac-chi-trich-cua-pho-tong-thong-my-ve-greenland-4867613.html) - 01:28 30/03/2025
-- 🎉 [Ảnh vệ tinh tháp không lưu thủ đô Myanmar gãy đổ vì động đất](https://vnexpress.net/anh-ve-tinh-thap-khong-luu-thu-do-myanmar-gay-do-vi-dong-dat-4867587.html) - 00:06 30/03/2025
-- 🎉 [Người phụ nữ được giải cứu 30 giờ sau động đất Myanmar](https://vnexpress.net/nguoi-phu-nu-duoc-giai-cuu-30-gio-sau-dong-dat-myanmar-4867611.html) - 23:47 29/03/2025
-- 🌁 [Yếu tố khiến động đất ở Myanmar gây thương vong lớn](https://vnexpress.net/yeu-to-khien-dong-dat-o-myanmar-gay-thuong-vong-lon-vnepre-4867305.html) - 22:00 29/03/2025
-- 🌊 [Nước từ bể bơi vô cực trút như thác, cuốn phăng người đi đường](https://vnexpress.net/nuoc-tu-be-boi-vo-cuc-trut-nhu-thac-cuon-phang-nguoi-di-duong-4867562.html) - 18:00 29/03/2025
-- 🕴 [Tình thế khiến ông Trump phải rút đề cử đại sứ Mỹ tại LHQ](https://vnexpress.net/tinh-the-khien-ong-trump-phai-rut-de-cu-dai-su-my-tai-lhq-4867323.html) - 17:00 29/03/2025
-- 🎓 [Số người thiệt mạng trong động đất Myanmar tăng lên hơn 1.600](https://vnexpress.net/so-nguoi-thiet-mang-trong-dong-dat-myanmar-tang-len-hon-1-600-4867573.html) - 15:44 29/03/2025
-- 🦩 [Nga tuyên bố kiểm soát làng ở tỉnh Sumy của Ukraine](https://vnexpress.net/nga-tuyen-bo-kiem-soat-lang-o-tinh-sumy-cua-ukraine-4867555.html) - 14:43 29/03/2025
-- 🌏 [Ông Trump: &#39;Phụ nữ thông minh hơn đàn ông nhiều&#39;](https://vnexpress.net/ong-trump-phu-nu-thong-minh-hon-dan-ong-nhieu-4867489.html) - 14:10 29/03/2025
-- 🌋 [Khoảnh khắc bể bơi vô cực ở Thái Lan bị vỡ kính chắn do động đất](https://vnexpress.net/khoanh-khac-be-boi-vo-cuc-o-thai-lan-bi-vo-kinh-chan-do-dong-dat-4867546.html) - 13:02 29/03/2025
-- 🪜 [Israel thừa nhận nổ súng vào xe cứu thương tại Dải Gaza](https://vnexpress.net/israel-thua-nhan-no-sung-vao-xe-cuu-thuong-tai-dai-gaza-4867535.html) - 12:15 29/03/2025
-- 🕴 [Lý do ông Trump tha thứ cho cố vấn trong bê bối lộ nhóm chat](https://vnexpress.net/ly-do-ong-trump-tha-thu-cho-co-van-trong-be-boi-lo-nhom-chat-4866590.html) - 12:00 29/03/2025
-- 🧑‍🏫 [Biểu tình khắp Hàn Quốc vì trì hoãn phán xử Tổng thống](https://vnexpress.net/bieu-tinh-khap-han-quoc-vi-tri-hoan-phan-xu-tong-thong-4867468.html) - 09:44 29/03/2025
-- 🌮 [Động đất Myanmar mang sức mạnh như &#39;334 quả bom nguyên tử&#39;](https://vnexpress.net/dong-dat-myanmar-mang-suc-manh-nhu-334-qua-bom-nguyen-tu-4867445.html) - 09:17 29/03/2025
+- 🎭 [Nhóm người Trung Quốc lén lấy tài liệu từ tòa nhà Thái Lan bị sập trong động đất](https://vnexpress.net/nhom-nguoi-trung-quoc-len-lay-tai-lieu-tu-toa-nha-thai-lan-bi-sap-trong-dong-dat-4868057.html) - 10:07 31/03/2025
+- 🕴 [Oanh tạc cơ tàng hình Mỹ triển khai đến tiền đồn ở Ấn Độ Dương](https://vnexpress.net/oanh-tac-co-tang-hinh-my-trien-khai-den-tien-don-o-an-do-duong-4868083.html) - 09:05 31/03/2025
+- 🤭 [Nhà Trắng sẽ chặt bỏ cây cổ thụ gần 200 tuổi](https://vnexpress.net/nha-trang-se-chat-bo-cay-co-thu-gan-200-tuoi-4867959.html) - 08:56 31/03/2025
+- 🧑‍💻 [Cậu bé mắc ung thư tuyên thệ tại hơn 900 cơ quan hành pháp Mỹ](https://vnexpress.net/cau-be-mac-ung-thu-tuyen-the-tai-hon-900-co-quan-hanh-phap-my-4867952.html) - 08:54 31/03/2025
+- 🦏 [Dân sơ tán khỏi nhiều tòa nhà ở Bangkok vì nứt tường](https://vnexpress.net/dan-so-tan-khoi-nhieu-toa-nha-o-bangkok-vi-nut-tuong-4868071.html) - 08:44 31/03/2025
+- 🦒 [Hoài nghi với ý tưởng nắm quyền nhiệm kỳ ba của ông Trump](https://vnexpress.net/hoai-nghi-voi-y-tuong-nam-quyen-nhiem-ky-ba-cua-ong-trump-4867807.html) - 08:28 31/03/2025
+- 🌈 [Myanmar giải cứu nhiều người mắc kẹt gần ba ngày sau động đất](https://vnexpress.net/myanmar-giai-cuu-nhieu-nguoi-mac-ket-gan-ba-ngay-sau-dong-dat-4867964.html) - 07:36 31/03/2025
+- 🧑‍🏫 [Khoảnh khắc người sống sót được cứu từ đống đổ nát ở Myanmar](https://vnexpress.net/khoanh-khac-nguoi-song-sot-duoc-cuu-tu-dong-do-nat-o-myanmar-4868042.html) - 07:33 31/03/2025
+- 🐲 [Elon Musk tặng hai triệu USD cho hai cử tri Wisconsin](https://vnexpress.net/elon-musk-tang-hai-trieu-usd-cho-hai-cu-tri-wisconsin-4867909.html) - 07:27 31/03/2025
+- 🦒 [Mỹ muốn dùng AI để tăng hiệu quả lá chắn Vòm Vàng](https://vnexpress.net/my-muon-dung-ai-de-tang-hieu-qua-la-chan-vom-vang-4867919.html) - 04:59 31/03/2025
+- 🐻 [Đường đứt gãy khiến Myanmar hứng chịu động đất 7,7 độ](https://vnexpress.net/duong-dut-gay-khien-myanmar-hung-chiu-dong-dat-7-7-do-4867967.html) - 04:55 31/03/2025
+- 🚀 [Nỗi lo với các tòa nhà cao tầng ở Bangkok sau động đất](https://vnexpress.net/noi-lo-voi-cac-toa-nha-cao-tang-o-bangkok-sau-dong-dat-4867846.html) - 04:54 31/03/2025
+- 🥰 [Chủ tịch Quốc hội sắp dự Đại hội đồng Liên minh Nghị viện Thế giới](https://vnexpress.net/chu-tich-quoc-hoi-sap-du-dai-hoi-dong-lien-minh-nghi-vien-the-gioi-4867911.html) - 03:59 31/03/2025
+- 🔥 [Tử khí bao trùm hiện trường động đất Myanmar](https://vnexpress.net/tu-khi-bao-trum-hien-truong-dong-dat-myanmar-4867847.html) - 03:45 31/03/2025
+- 🥳 [Lãnh đạo quỹ từ thiện tố Harry &#39;bắt nạt&#39;](https://vnexpress.net/lanh-dao-quy-tu-thien-to-harry-bat-nat-4867864.html) - 03:25 31/03/2025
+- 💼 [Ông Trump &#39;rất tức giận&#39; với ông Putin](https://vnexpress.net/ong-trump-rat-tuc-gian-voi-ong-putin-4867853.html) - 03:19 31/03/2025
+- 🤡 [Mỹ điều loạt cường kích &#39;sát thủ diệt tăng&#39; đến Trung Đông](https://vnexpress.net/my-dieu-loat-cuong-kich-sat-thu-diet-tang-den-trung-dong-4867856.html) - 03:10 31/03/2025
+- 🌁 [Tân thủ hiến Greenland: Mỹ sẽ không có được hòn đảo](https://vnexpress.net/tan-thu-hien-greenland-my-se-khong-co-duoc-hon-dao-4867823.html) - 02:32 31/03/2025
+- 🤩 [Vua và Hoàng hậu Bỉ tới Việt Nam](https://vnexpress.net/vua-va-hoang-hau-bi-toi-viet-nam-4867867.html) - 02:05 31/03/2025
+- 🎉 [Ông Trump nói Ukraine muốn rút khỏi thỏa thuận khoáng sản](https://vnexpress.net/ong-trump-noi-ukraine-muon-rut-khoi-thoa-thuan-khoang-san-4867825.html) - 01:53 31/03/2025
+- 🎉 [Chuyên gia Mỹ hoài nghi về năng lực &#39;máy bay mắt thần&#39; Triều Tiên](https://vnexpress.net/chuyen-gia-my-hoai-nghi-ve-nang-luc-may-bay-mat-than-trieu-tien-4867136.html) - 01:00 31/03/2025
+- 🌁 [1.700 người thiệt mạng do động đất ở Myanmar](https://vnexpress.net/1-700-nguoi-thiet-mang-do-dong-dat-o-myanmar-4867817.html) - 00:13 31/03/2025
+- 🌊 [Moskva - Washington &#39;bắt đầu bàn về hợp tác đất hiếm tại Nga&#39;](https://vnexpress.net/moskva-washington-bat-dau-ban-ve-hop-tac-dat-hiem-tai-nga-4867819.html) - 23:56 30/03/2025
+- 🕴 [Tổng thống Trump tuyên bố nghiêm túc về nắm quyền nhiệm kỳ ba](https://vnexpress.net/tong-thong-trump-tuyen-bo-nghiem-tuc-ve-nam-quyen-nhiem-ky-ba-4867804.html) - 23:34 30/03/2025
+- 🎓 [Mỹ hụt hơi trong cuộc đua đất hiếm với Trung Quốc](https://vnexpress.net/my-hut-hoi-trong-cuoc-dua-dat-hiem-voi-trung-quoc-4865665.html) - 22:00 30/03/2025
+- 🦩 [Sự cố mất điện hé lộ lỗ hổng của sân bay lớn nhất nước Anh](https://vnexpress.net/su-co-mat-dien-he-lo-lo-hong-cua-san-bay-lon-nhat-nuoc-anh-4865037.html) - 18:00 30/03/2025
+- 🌏 [Đảng Cộng hòa tìm cách tôn vinh ông Trump](https://vnexpress.net/dang-cong-hoa-tim-cach-ton-vinh-ong-trump-4865209.html) - 17:00 30/03/2025
+- 🌋 [Ông Trump dọa &#39;sẽ ném bom&#39; nếu Iran không đạt thỏa thuận hạt nhân](https://vnexpress.net/ong-trump-doa-se-nem-bom-neu-iran-khong-dat-thoa-thuan-hat-nhan-4867790.html) - 16:38 30/03/2025
+- 🪜 [Ảnh vệ tinh Myanmar trước và sau thảm họa động đất](https://vnexpress.net/anh-ve-tinh-myanmar-truoc-va-sau-tham-hoa-dong-dat-4867765.html) - 14:42 30/03/2025
+- 🕴 [Việt Nam viện trợ 300.000 USD giúp Myanmar khắc phục hậu quả động đất](https://vnexpress.net/viet-nam-vien-tro-300-000-usd-giup-myanmar-khac-phuc-hau-qua-dong-dat-4867772.html) - 14:25 30/03/2025
+- 🧑‍🏫 [Israel kêu gọi Hamas hạ vũ khí để đổi an toàn cho các chỉ huy](https://vnexpress.net/israel-keu-goi-hamas-ha-vu-khi-de-doi-an-toan-cho-cac-chi-huy-4867739.html) - 12:53 30/03/2025
+- 🌮 [Ông trùm chống fentanyl của Canada nỗ lực giải quyết sức ép từ Mỹ](https://vnexpress.net/ong-trum-chong-fentanyl-cua-canada-no-luc-giai-quyet-suc-ep-tu-my-4863240.html) - 12:00 30/03/2025
+- 🚦 [Myanmar đối mặt khủng hoảng nhân đạo sau động đất](https://vnexpress.net/myanmar-doi-mat-khung-hoang-nhan-dao-sau-dong-dat-4867740.html) - 11:40 30/03/2025
+- 💫 [Thủ tướng Israel sẽ thăm Hungary bất chấp lệnh bắt của ICC](https://vnexpress.net/thu-tuong-israel-se-tham-hungary-bat-chap-lenh-bat-cua-icc-4867726.html) - 10:32 30/03/2025
+- 🤡 [Các Ngoại trưởng ASEAN họp khẩn về động đất ở Myanmar](https://vnexpress.net/cac-ngoai-truong-asean-hop-khan-ve-dong-dat-o-myanmar-4867706.html) - 08:13 30/03/2025
+- 🦣 [Hàn Quốc điều tra người bị nghi gây cháy rừng khi tảo mộ](https://vnexpress.net/han-quoc-dieu-tra-nguoi-bi-nghi-gay-chay-rung-khi-tao-mo-4867692.html) - 07:26 30/03/2025
+- 🎬 [Máy bay Mỹ gặp sự cố, đánh rơi bia mục tiêu xuống nhà dân](https://vnexpress.net/may-bay-my-gap-su-co-danh-roi-bia-muc-tieu-xuong-nha-dan-4867395.html) - 04:20 30/03/2025
+- 🎉 [Ukraine cáo buộc Nga tập kích bệnh viện quân y ở Kharkov](https://vnexpress.net/ukraine-cao-buoc-nga-tap-kich-benh-vien-quan-y-o-kharkov-4867621.html) - 02:36 30/03/2025
+- 🎡 [Đan Mạch phản bác chỉ trích của Phó tổng thống Mỹ về Greenland](https://vnexpress.net/dan-mach-phan-bac-chi-trich-cua-pho-tong-thong-my-ve-greenland-4867613.html) - 01:28 30/03/2025
+- 🌜 [Ảnh vệ tinh tháp không lưu thủ đô Myanmar gãy đổ vì động đất](https://vnexpress.net/anh-ve-tinh-thap-khong-luu-thu-do-myanmar-gay-do-vi-dong-dat-4867587.html) - 00:06 30/03/2025
+- 🎡 [Người phụ nữ được giải cứu 30 giờ sau động đất Myanmar](https://vnexpress.net/nguoi-phu-nu-duoc-giai-cuu-30-gio-sau-dong-dat-myanmar-4867611.html) - 23:47 29/03/2025
+- 🤗 [Yếu tố khiến động đất ở Myanmar gây thương vong lớn](https://vnexpress.net/yeu-to-khien-dong-dat-o-myanmar-gay-thuong-vong-lon-vnepre-4867305.html) - 22:00 29/03/2025
+- 🦩 [Nước từ bể bơi vô cực trút như thác, cuốn phăng người đi đường](https://vnexpress.net/nuoc-tu-be-boi-vo-cuc-trut-nhu-thac-cuon-phang-nguoi-di-duong-4867562.html) - 18:00 29/03/2025
+- 🎓 [Tình thế khiến ông Trump phải rút đề cử đại sứ Mỹ tại LHQ](https://vnexpress.net/tinh-the-khien-ong-trump-phai-rut-de-cu-dai-su-my-tai-lhq-4867323.html) - 17:00 29/03/2025
+- 🌁 [Số người thiệt mạng trong động đất Myanmar tăng lên hơn 1.600](https://vnexpress.net/so-nguoi-thiet-mang-trong-dong-dat-myanmar-tang-len-hon-1-600-4867573.html) - 15:44 29/03/2025
+- 🤩 [Nga tuyên bố kiểm soát làng ở tỉnh Sumy của Ukraine](https://vnexpress.net/nga-tuyen-bo-kiem-soat-lang-o-tinh-sumy-cua-ukraine-4867555.html) - 14:43 29/03/2025
+- 👹 [Ông Trump: &#39;Phụ nữ thông minh hơn đàn ông nhiều&#39;](https://vnexpress.net/ong-trump-phu-nu-thong-minh-hon-dan-ong-nhieu-4867489.html) - 14:10 29/03/2025
+- ⛽️ [Khoảnh khắc bể bơi vô cực ở Thái Lan bị vỡ kính chắn do động đất](https://vnexpress.net/khoanh-khac-be-boi-vo-cuc-o-thai-lan-bi-vo-kinh-chan-do-dong-dat-4867546.html) - 13:02 29/03/2025
+- 🚀 [Israel thừa nhận nổ súng vào xe cứu thương tại Dải Gaza](https://vnexpress.net/israel-thua-nhan-no-sung-vao-xe-cuu-thuong-tai-dai-gaza-4867535.html) - 12:15 29/03/2025
+- 🎡 [Lý do ông Trump tha thứ cho cố vấn trong bê bối lộ nhóm chat](https://vnexpress.net/ly-do-ong-trump-tha-thu-cho-co-van-trong-be-boi-lo-nhom-chat-4866590.html) - 12:00 29/03/2025
+- 🕯 [Biểu tình khắp Hàn Quốc vì trì hoãn phán xử Tổng thống](https://vnexpress.net/bieu-tinh-khap-han-quoc-vi-tri-hoan-phan-xu-tong-thong-4867468.html) - 09:44 29/03/2025
+- 🐻 [Động đất Myanmar mang sức mạnh như &#39;334 quả bom nguyên tử&#39;](https://vnexpress.net/dong-dat-myanmar-mang-suc-manh-nhu-334-qua-bom-nguyen-tu-4867445.html) - 09:17 29/03/2025
 - 🚦 [Hình xăm của Bộ trưởng Quốc phòng Mỹ gây tranh cãi](https://vnexpress.net/hinh-xam-cua-bo-truong-quoc-phong-my-gay-tranh-cai-4867421.html) - 07:59 29/03/2025
-- 💫 [Các đội cứu nạn quốc tế đổ tới hỗ trợ Myanmar](https://vnexpress.net/cac-doi-cuu-nan-quoc-te-do-toi-ho-tro-myanmar-4867408.html) - 07:02 29/03/2025
-- 🤡 [Tín đồ kéo tới mộ phần thiếu niên sắp được phong thánh](https://vnexpress.net/tin-do-keo-toi-mo-phan-thieu-nien-sap-duoc-phong-thanh-4867316.html) - 06:11 29/03/2025
-- 🦣 [Mẫu xe cứu kéo Mỹ không thể tự cứu mình trong đầm lầy Litva](https://vnexpress.net/mau-xe-cuu-keo-my-khong-the-tu-cuu-minh-trong-dam-lay-litva-4866998.html) - 06:00 29/03/2025
-- 🎬 [Tổng thống Brazil thăm Bảo tàng Lịch sử Quân sự Việt Nam](https://vnexpress.net/tong-thong-brazil-tham-bao-tang-lich-su-quan-su-viet-nam-4867414.html) - 05:31 29/03/2025
-- 🎉 [Thách thức chồng chất với nỗ lực cứu nạn sau động đất ở Myanmar](https://vnexpress.net/thach-thuc-chong-chat-voi-no-luc-cuu-nan-sau-dong-dat-o-myanmar-4867280.html) - 05:00 29/03/2025
-- 🎡 [Bangkok kiểm tra toàn diện công trình sau động đất](https://vnexpress.net/bangkok-kiem-tra-toan-dien-cong-trinh-sau-dong-dat-4867377.html) - 04:41 29/03/2025
-- 🌜 [Trinh sát cơ Nga bay thấp, áp sát tàu sân bay Mỹ](https://vnexpress.net/trinh-sat-co-nga-bay-thap-ap-sat-tau-san-bay-my-4867322.html) - 03:18 29/03/2025
-- 🎡 [Người chết do động đất ở Myanmar vượt 1.000](https://vnexpress.net/nguoi-chet-do-dong-dat-o-myanmar-vuot-1-000-4867361.html) - 03:17 29/03/2025
-- 🤗 [Mỹ tìm cách rút cạn đầm lầy tìm 4 binh sĩ kẹt trong thiết giáp](https://vnexpress.net/my-tim-cach-rut-can-dam-lay-tim-4-binh-si-ket-trong-thiet-giap-4867315.html) - 03:04 29/03/2025
-- 🦩 [Nước ngầm phun lên xối xả sau động đất ở Myanmar](https://vnexpress.net/nuoc-ngam-phun-len-xoi-xa-sau-dong-dat-o-myanmar-4867292.html) - 02:21 29/03/2025
-- 🎓 [Số người chết do động đất ở Myanmar có thể lên tới 100.000](https://vnexpress.net/so-nguoi-chet-do-dong-dat-o-myanmar-co-the-len-toi-100-000-4867285.html) - 01:38 29/03/2025
-- 🌁 [Chính quyền Trump thông báo thời hạn đóng cửa USAID](https://vnexpress.net/chinh-quyen-trump-thong-bao-thoi-han-dong-cua-usaid-4867287.html) - 01:18 29/03/2025
-- 🤩 [Phó tổng thống Mỹ chỉ trích Đan Mạch &#39;thiếu đầu tư&#39; cho Greenland](https://vnexpress.net/pho-tong-thong-my-chi-trich-dan-mach-thieu-dau-tu-cho-greenland-4867276.html) - 00:31 29/03/2025
-- 👹 [Trận động đất Myanmar như &#39;nhát dao cứa vào Trái Đất&#39;](https://vnexpress.net/tran-dong-dat-myanmar-nhu-nhat-dao-cua-vao-trai-dat-4867277.html) - 00:07 29/03/2025
-- ⛽️ [Trở ngại với ý tưởng đưa lực lượng châu Âu đến Ukraine](https://vnexpress.net/tro-ngai-voi-y-tuong-dua-luc-luong-chau-au-den-ukraine-4866817.html) - 22:00 28/03/2025
-- 🚀 [Người sống sót kể giây phút thoát khỏi công trình sập ở Bangkok](https://vnexpress.net/nguoi-song-sot-ke-giay-phut-thoat-khoi-cong-trinh-sap-o-bangkok-4867265.html) - 17:34 28/03/2025
-- 🎡 [Israel lần đầu tập kích ngoại ô Beirut sau khi đạt lệnh ngừng bắn với Hezbollah](https://vnexpress.net/israel-lan-dau-tap-kich-ngoai-o-beirut-sau-khi-dat-lenh-ngung-ban-voi-hezbollah-4867254.html) - 17:07 28/03/2025
-- 🕯 [Sắc lệnh của ông Trump có thể ngăn hàng triệu người Mỹ bầu cử](https://vnexpress.net/sac-lenh-cua-ong-trump-co-the-ngan-hang-trieu-nguoi-my-bau-cu-4866619.html) - 17:00 28/03/2025
-- 🐻 [Tổng thống Brazil: Việt Nam là bạn bè gần gũi, đối tác quan trọng](https://vnexpress.net/tong-thong-brazil-viet-nam-la-ban-be-gan-gui-doi-tac-quan-trong-4867233.html) - 14:36 28/03/2025
-- 🚦 [Nga tố Ukraine tập kích loạt cơ sở năng lượng bằng HIMARS, UAV](https://vnexpress.net/nga-to-ukraine-tap-kich-loat-co-so-nang-luong-bang-himars-uav-4867187.html) - 13:52 28/03/2025
-- 👍 [Chưa ghi nhận thông tin người Việt bị ảnh hưởng do động đất ở Myanmar](https://vnexpress.net/chua-ghi-nhan-thong-tin-nguoi-viet-bi-anh-huong-do-dong-dat-o-myanmar-4867194.html) - 11:19 28/03/2025
-- 🚀 [Tháp không lưu sân bay Nay Pyi Taw có thể đã sập vì động đất](https://vnexpress.net/thap-khong-luu-san-bay-nay-pyi-taw-co-the-da-sap-vi-dong-dat-4867184.html) - 11:05 28/03/2025
-- 🌮 [Tổng thống Brazil nhắc đến Xuân Son khi nói về hợp tác với Việt Nam](https://vnexpress.net/tong-thong-brazil-nhac-den-xuan-son-khi-noi-ve-hop-tac-voi-viet-nam-4867113.html) - 10:08 28/03/2025
-- 😎 [Cảnh tan hoang ở Myanmar, Thái Lan sau động đất](https://vnexpress.net/canh-tan-hoang-o-myanmar-thai-lan-sau-dong-dat-4867098.html) - 09:48 28/03/2025
-- 🐲 [Cảnh hoảng loạn khi các tòa nhà sập trong động đất ở Myanmar](https://vnexpress.net/canh-hoang-loan-khi-cac-toa-nha-sap-trong-dong-dat-o-myanmar-4867133.html) - 09:38 28/03/2025
-- 💫 [Người Việt kể khoảnh khắc động đất rung chuyển Thái Lan](https://vnexpress.net/nguoi-viet-ke-khoanh-khac-dong-dat-rung-chuyen-thai-lan-4867144.html) - 09:24 28/03/2025
-- 👀 [Phi công F-16 Thổ Nhĩ Kỳ dùng máy tính bảng để điều khiển tên lửa](https://vnexpress.net/phi-cong-f-16-tho-nhi-ky-dung-may-tinh-bang-de-dieu-khien-ten-lua-4866950.html) - 09:04 28/03/2025<!-- vnexpress-the-gioi:END -->
+- 👍 [Các đội cứu nạn quốc tế đổ tới hỗ trợ Myanmar](https://vnexpress.net/cac-doi-cuu-nan-quoc-te-do-toi-ho-tro-myanmar-4867408.html) - 07:02 29/03/2025
+- 🚀 [Tín đồ kéo tới mộ phần thiếu niên sắp được phong thánh](https://vnexpress.net/tin-do-keo-toi-mo-phan-thieu-nien-sap-duoc-phong-thanh-4867316.html) - 06:11 29/03/2025
+- 🌮 [Mẫu xe cứu kéo Mỹ không thể tự cứu mình trong đầm lầy Litva](https://vnexpress.net/mau-xe-cuu-keo-my-khong-the-tu-cuu-minh-trong-dam-lay-litva-4866998.html) - 06:00 29/03/2025
+- 😎 [Tổng thống Brazil thăm Bảo tàng Lịch sử Quân sự Việt Nam](https://vnexpress.net/tong-thong-brazil-tham-bao-tang-lich-su-quan-su-viet-nam-4867414.html) - 05:31 29/03/2025
+- 🐲 [Thách thức chồng chất với nỗ lực cứu nạn sau động đất ở Myanmar](https://vnexpress.net/thach-thuc-chong-chat-voi-no-luc-cuu-nan-sau-dong-dat-o-myanmar-4867280.html) - 05:00 29/03/2025
+- 💫 [Bangkok kiểm tra toàn diện công trình sau động đất](https://vnexpress.net/bangkok-kiem-tra-toan-dien-cong-trinh-sau-dong-dat-4867377.html) - 04:41 29/03/2025
+- 👀 [Trinh sát cơ Nga bay thấp, áp sát tàu sân bay Mỹ](https://vnexpress.net/trinh-sat-co-nga-bay-thap-ap-sat-tau-san-bay-my-4867322.html) - 03:18 29/03/2025<!-- vnexpress-the-gioi:END -->
