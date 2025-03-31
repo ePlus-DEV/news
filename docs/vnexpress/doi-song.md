@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Bi kịch &#39;cây cô đơn&#39;](https://vnexpress.net/bi-kich-cay-co-don-4867834.html) - 03:46 31/03/2025
+- 🚀 [Bi kịch cây &#39;cô đơn&#39;](https://vnexpress.net/bi-kich-cay-co-don-4867834.html) - 03:46 31/03/2025
 - 🎓 [Chiến lược khơi nguồn cảm hứng thiết kế nhà ở của Lixil Việt Nam](https://vnexpress.net/chien-luoc-khoi-nguon-cam-hung-thiet-ke-nha-o-cua-lixil-viet-nam-4862871.html) - 02:00 31/03/2025
 - 🚦 [Cuộc sống chật vật của tài xế công nghệ Singapore](https://vnexpress.net/cuoc-song-chat-vat-cua-tai-xe-cong-nghe-singapore-4865199.html) - 01:34 31/03/2025
 - 🦣 [Chuyện tình xuyên Covid của cô gái Nhật và chàng trai Việt](https://vnexpress.net/chuyen-tinh-xuyen-covid-cua-co-gai-nhat-va-chang-trai-viet-4866460.html) - 23:32 30/03/2025
