@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦆 [2/4 là &quot;ngày giải phóng&quot; hay ngày tận thế cho thương mại toàn cầu?](https://dantri.com.vn/kinh-doanh/24-la-ngay-giai-phong-hay-ngay-tan-the-cho-thuong-mai-toan-cau-20250331234303547.htm) - 01:16 01/04/2025
 - 🦄 [Bước ngoặt giúp các chủ tiệm tạp hóa tối ưu hoạt động kinh doanh](https://dantri.com.vn/kinh-doanh/buoc-ngoat-giup-cac-chu-tiem-tap-hoa-toi-uu-hoat-dong-kinh-doanh-20250331165800300.htm) - 01:00 01/04/2025
 - 🌝 [Gửi tiết kiệm ngân hàng nào nhận lãi cao nhất tháng 4?](https://dantri.com.vn/kinh-doanh/gui-tiet-kiem-ngan-hang-nao-nhan-lai-cao-nhat-thang-4-20250401013801535.htm) - 23:44 31/03/2025
-- 💃 [Giá vàng nối dài chuỗi lập kỷ lục](https://dantri.com.vn/kinh-doanh/gia-vang-noi-dai-chuoi-lap-ky-luc-20250401011018525.htm) - 23:36 31/03/2025
+- 💃 [Giá vàng vượt 102 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/gia-vang-vuot-102-trieu-dongluong-20250401011018525.htm) - 23:36 31/03/2025
 - 🦏 [Vàng lên đỉnh kỷ lục: Liệu có chạm 3.500 USD/ounce?](https://dantri.com.vn/kinh-doanh/vang-len-dinh-ky-luc-lieu-co-cham-3500-usdounce-20250331212626482.htm) - 22:18 31/03/2025
 - 🦩 [Đông khách đến hỏi mua vàng nhẫn khi giá vượt 101 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/dong-khach-den-hoi-mua-vang-nhan-khi-gia-vuot-101-trieu-dongluong-20250331181643004.htm) - 15:01 31/03/2025
 - 💡 [Chứng khoán giảm hơn 10 điểm, cổ phiếu nào tác động tiêu cực nhất?](https://dantri.com.vn/kinh-doanh/chung-khoan-giam-hon-10-diem-co-phieu-nao-tac-dong-tieu-cuc-nhat-20250331164353436.htm) - 09:54 31/03/2025
