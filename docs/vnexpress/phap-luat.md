@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Kẻ đoạt mạng tài xế từ cuốc xe 100.000 đồng bị phạt tử hình](https://vnexpress.net/ke-doat-mang-tai-xe-tu-cuoc-xe-100-000-dong-bi-phat-tu-hinh-4868725.html) - 10:59 01/04/2025
+- 😎 [Kẻ đoạt mạng tài xế từ cuốc xe 100.000 đồng bị tuyên tử hình](https://vnexpress.net/ke-doat-mang-tai-xe-tu-cuoc-xe-100-000-dong-bi-tuyen-tu-hinh-4868725.html) - 10:59 01/04/2025
 - 🥰 [Nói dối cần tiền &#39;cứu mạng&#39; để lừa hàng xóm](https://vnexpress.net/noi-doi-can-tien-cuu-mang-de-lua-hang-xom-4868688.html) - 10:00 01/04/2025
 - 🎓 [Cựu phó giám đốc Sở Nội vụ bị khởi tố sau sai phạm của cấp dưới](https://vnexpress.net/cuu-pho-giam-doc-so-noi-vu-bi-khoi-to-sau-sai-pham-cua-cap-duoi-4868681.html) - 09:46 01/04/2025
 - 🤓 [Công an truy tìm phạm nhân trốn trại ở Thanh Hóa](https://vnexpress.net/cong-an-truy-tim-pham-nhan-tron-trai-o-thanh-hoa-4868679.html) - 09:22 01/04/2025
