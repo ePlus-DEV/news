@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Danh họa Lê Thị Lựu - bậc thầy tranh lụa](https://vnexpress.net/danh-hoa-le-thi-luu-bac-thay-tranh-lua-4857526.html) - 12:00 01/04/2025
+- 🌏 [Lê Thị Lựu - bậc thầy tranh lụa](https://vnexpress.net/le-thi-luu-bac-thay-tranh-lua-4857526.html) - 12:00 01/04/2025
 - 💫 [4 tài tử hóa thân nhóm The Beatles](https://vnexpress.net/4-tai-tu-hoa-than-nhom-the-beatles-4868628.html) - 09:56 01/04/2025
 - 🌮 [Hội tác giả Anh phản đối AI vi phạm bản quyền](https://vnexpress.net/hoi-tac-gia-anh-phan-doi-ai-vi-pham-ban-quyen-4868529.html) - 09:51 01/04/2025
 - 🧠 [Hoạt động hút fan ở concert &#39;Anh trai vượt ngàn chông gai&#39;](https://vnexpress.net/hoat-dong-hut-fan-o-concert-anh-trai-vuot-ngan-chong-gai-4868221.html) - 09:00 01/04/2025
