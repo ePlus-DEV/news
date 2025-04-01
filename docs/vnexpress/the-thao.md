@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Hành trình leo hạng marathon của chủ quán nhậu](https://vnexpress.net/hanh-trinh-leo-hang-marathon-cua-chu-quan-nhau-4867522.html) - 02:00 01/04/2025
+- 🪜 [Chủ quán nhậu chạy sub2:39 sau 1 năm 7 tháng](https://vnexpress.net/chu-quan-nhau-chay-sub2-39-sau-1-nam-7-thang-4867522.html) - 02:00 01/04/2025
 - 🦩 [Fernandes bị đánh giá thấp hơn thực tế tại Ngoại hạng Anh?](https://vnexpress.net/fernandes-bi-danh-gia-thap-hon-thuc-te-tai-ngoai-hang-anh-4868243.html) - 01:45 01/04/2025
 - 🧰 [Man City nhận tin dữ về Haaland](https://vnexpress.net/man-city-nhan-tin-du-ve-haaland-4868314.html) - 01:13 01/04/2025
 - 🤗 [Làm thế nào để tránh chạy dư đường khi đi race?](https://vnexpress.net/lam-the-nao-de-tranh-chay-du-duong-khi-di-race-4868135.html) - 23:51 31/03/2025
