@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [7 sai lầm runner hay mắc phải khi chấn thương](https://vnexpress.net/7-sai-lam-runner-hay-mac-phai-khi-chan-thuong-4868788.html) - 21:00 01/04/2025
-- 🦩 [Man Utd thua trận thứ 13 ở Ngoại hạng Anh mùa này](https://vnexpress.net/man-utd-thua-tran-thu-13-o-ngoai-hang-anh-mua-nay-4868802.html) - 20:59 01/04/2025
+- 🦩 [Man Utd thua vì cầu thủ cũ bị ruồng bỏ](https://vnexpress.net/man-utd-thua-vi-cau-thu-cu-bi-ruong-bo-4868802.html) - 20:59 01/04/2025
 - 🧰 [Cựu vô địch quyền Anh đổ gục dù không có tác động](https://vnexpress.net/cuu-vo-dich-quyen-anh-do-guc-du-khong-co-tac-dong-4868764.html) - 17:00 01/04/2025
 - 🤗 [HLV bị phạt nặng vì mắng nữ trọng tài là &#39;con bò&#39;](https://vnexpress.net/hlv-bi-phat-nang-vi-mang-nu-trong-tai-la-con-bo-4868739.html) - 17:00 01/04/2025
 - 🥳 [Thế khó của Thể Công với sân Mỹ Đình](https://vnexpress.net/the-kho-cua-the-cong-voi-san-my-dinh-4868749.html) - 14:02 01/04/2025
