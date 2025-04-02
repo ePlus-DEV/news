@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Cao tốc TP HCM - Dầu Giây sẽ tăng phí](https://vnexpress.net/cao-toc-tp-hcm-dau-giay-se-tang-phi-4869204.html) - 10:06 02/04/2025
-- 🤓 [Đồng Nai đề xuất đường chạy xuyên rừng nối Bình Phước rộng 4 làn xe](https://vnexpress.net/dong-nai-de-xuat-duong-chay-xuyen-rung-noi-binh-phuoc-rong-4-lan-xe-4869192.html) - 09:57 02/04/2025
+- 🤓 [Đồng Nai đề xuất làm đường chạy xuyên rừng nối Bình Phước rộng 4 làn xe](https://vnexpress.net/dong-nai-de-xuat-lam-duong-chay-xuyen-rung-noi-binh-phuoc-rong-4-lan-xe-4869192.html) - 09:57 02/04/2025
 - ⚗️ [9 dự án đường sắt dự kiến khởi công trước năm 2030](https://vnexpress.net/9-du-an-duong-sat-du-kien-khoi-cong-truoc-nam-2030-4869178.html) - 09:01 02/04/2025
 - 🌊 [Dùng công nghệ viễn thám cảnh báo hạn hán Tây Nguyên](https://vnexpress.net/dung-cong-nghe-vien-tham-canh-bao-han-han-tay-nguyen-4869040.html) - 08:23 02/04/2025
 - 🎓 [Sắp xếp tổ chức quân sự cấp tỉnh theo đơn vị hành chính sau sáp nhập](https://vnexpress.net/sap-xep-to-chuc-quan-su-cap-tinh-theo-don-vi-hanh-chinh-sau-sap-nhap-4869048.html) - 07:29 02/04/2025
