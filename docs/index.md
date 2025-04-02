@@ -258,7 +258,7 @@ truyền hình TP.HCM](https://thanhnien.vn/cua-ro-tung-du-tour-de-france-tranh-
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Tổng thống Donald Trump công bố thuế đối ứng](https://nld.com.vn/tong-thong-donald-trump-cong-bo-thue-doi-ung-196250403053029492.htm) - 22:42 02/04/2025
+- 🐎 [Tổng thống Donald Trump công bố thuế đối ứng, Việt Nam ở mức 46%](https://nld.com.vn/tong-thong-donald-trump-cong-bo-thue-doi-ung-196250403053029492.htm) - 22:42 02/04/2025
 - 😺 [Người trẻ loay hoay tính chuyện an cư](https://nld.com.vn/nguoi-tre-loay-hoay-tinh-chuyen-an-cu-196250402211029644.htm) - 22:31 02/04/2025
 - 👍 [Đại tướng Khamtai Siphandone từ trần, Lào tổ chức quốc tang 5 ngày](https://nld.com.vn/dai-tuong-khamtai-siphandone-tu-tran-lao-to-chuc-quoc-tang-5-ngay-196250402235056535.htm) - 22:00 02/04/2025
 - 🥷 [Bản tin sáng 3-4: 31 hộ dân bên bờ vực nguy hiểm ở Lào Cai](https://nld.com.vn/ban-tin-sang-3-4-31-ho-dan-ben-bo-vuc-nguy-hiem-o-lao-cai-196250402203956768.htm) - 22:00 02/04/2025
