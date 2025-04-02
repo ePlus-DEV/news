@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Hai dự án nghìn tỷ có dấu hiệu lãng phí ở Hà Nội](https://vnexpress.net/hai-du-an-nghin-ty-co-dau-hieu-lang-phi-o-ha-noi-4867987.html) - 03:05 02/04/2025
+- 😎 [Hai dự án nghìn tỷ ở Hà Nội bị đưa vào diện theo dõi lãng phí](https://vnexpress.net/hai-du-an-nghin-ty-o-ha-noi-bi-dua-vao-dien-theo-doi-lang-phi-4867987.html) - 03:05 02/04/2025
 - 🥰 [10 thiếu niên suýt chém đối thủ vì tiếng nẹt pô](https://vnexpress.net/10-thieu-nien-suyt-chem-doi-thu-vi-tieng-net-po-4868905.html) - 03:02 02/04/2025
 - 🎓 [Vụ án thi thể trong hồ bơi hai ngày không ai phát hiện](https://vnexpress.net/vu-an-thi-the-trong-ho-boi-hai-ngay-khong-ai-phat-hien-4868726.html) - 17:00 01/04/2025
 - 🤓 [Nhà xây sau cưới đương nhiên là tài sản chung dù vợ &#39;không góp gì&#39;?](https://vnexpress.net/nha-xay-sau-cuoi-duong-nhien-la-tai-san-chung-du-vo-khong-gop-gi-4867795.html) - 17:00 01/04/2025
