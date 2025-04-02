@@ -4,7 +4,7 @@ sidebar_position: 17
 ---
 
 <!-- dantri-the-gioi:START -->
-- 🌋 [Ông Trump áp thuế đối ứng với mọi quốc gia, tuyên bố &quot;độc lập kinh tế&quot;](https://dantri.com.vn/the-gioi/ong-trump-ap-thue-doi-ung-voi-moi-quoc-gia-tuyen-bo-doc-lap-kinh-te-20250403034609577.htm) - 20:57 02/04/2025
+- 🌋 [Mỹ đánh thuế với cả thế giới, tuyên bố &quot;độc lập kinh tế&quot;](https://dantri.com.vn/the-gioi/my-danh-thue-voi-ca-the-gioi-tuyen-bo-doc-lap-kinh-te-20250403034609577.htm) - 20:57 02/04/2025
 - 🎬 [Phản ứng của Nga khi ông Trump dọa áp thuế trừng phạt](https://dantri.com.vn/the-gioi/phan-ung-cua-nga-khi-ong-trump-doa-ap-thue-trung-phat-20250402222622932.htm) - 15:30 02/04/2025
 - 🧰 [Nga sắp đánh lớn trên khắp mặt trận Ukraine?](https://dantri.com.vn/the-gioi/nga-sap-danh-lon-tren-khap-mat-tran-ukraine-20250402215047920.htm) - 14:57 02/04/2025
 - 🌋 [Điện Kremlin: Ông Putin chưa có kế hoạch gặp ông Trump](https://dantri.com.vn/the-gioi/dien-kremlin-ong-putin-chua-co-ke-hoach-gap-ong-trump-20250402205022192.htm) - 14:03 02/04/2025
