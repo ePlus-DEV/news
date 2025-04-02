@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Nhiều doanh nghiệp TP HCM gặp khó vì sức mua yếu](https://vnexpress.net/nhieu-doanh-nghiep-tp-hcm-gap-kho-vi-suc-mua-yeu-4869184.html) - 22:21 02/04/2025
+- ⛽️ [Doanh nghiệp kêu khó vì sức mua yếu](https://vnexpress.net/doanh-nghiep-keu-kho-vi-suc-mua-yeu-4869184.html) - 22:21 02/04/2025
 - 🐲 [Tôm hùm tươi Anh thâm nhập Việt Nam](https://vnexpress.net/tom-hum-tuoi-anh-tham-nhap-viet-nam-4869237.html) - 22:14 02/04/2025
 - 🔥 [Ông Trump ký sắc lệnh áp thuế đối ứng với hàng chục nền kinh tế](https://vnexpress.net/ong-trump-ky-sac-lenh-ap-thue-doi-ung-voi-hang-chuc-nen-kinh-te-4869288.html) - 21:11 02/04/2025
 - 🐵 [Nhiều nhà đầu tư chứng khoán &#39;chưa lãi bao nhiêu đã lỗ trở lại&#39;](https://vnexpress.net/nhieu-nha-dau-tu-chung-khoan-chua-lai-bao-nhieu-da-lo-tro-lai-4868363.html) - 17:09 02/04/2025
