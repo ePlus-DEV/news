@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cựu chủ tịch An Giang &#39;nâng đỡ cát tặc&#39; bị phạt 8 năm 6 tháng tù](https://vnexpress.net/cuu-chu-tich-an-giang-nang-do-cat-tac-bi-phat-8-nam-6-thang-tu-4868994.html) - 06:22 02/04/2025
+- 😎 [Cựu chủ tịch tỉnh An Giang &#39;nâng đỡ cát tặc&#39; bị phạt hơn 8 năm tù](https://vnexpress.net/cuu-chu-tich-tinh-an-giang-nang-do-cat-tac-bi-phat-hon-8-nam-tu-4868994.html) - 06:22 02/04/2025
 - 🥰 [Lỡ vay tiền qua app online với lãi suất cao, giờ phải làm sao?](https://vnexpress.net/lo-vay-tien-qua-app-online-voi-lai-suat-cao-phai-lam-sao-4868747.html) - 04:40 02/04/2025
 - 🎓 [Thi thể không nguyên vẹn dạt vào bãi biển Phú Yên](https://vnexpress.net/thi-the-khong-nguyen-ven-dat-vao-bai-bien-phu-yen-4868988.html) - 04:23 02/04/2025
 - 🤓 [Thanh niên bám theo cô gái vào ngõ cướp điện thoại](https://video.vnexpress.net/thanh-nien-bam-theo-co-gai-vao-ngo-cuop-dien-thoai-4868783.html) - 04:16 02/04/2025
