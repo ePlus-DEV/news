@@ -10,7 +10,7 @@ sidebar_position: 5
 - 🤗 [Robot tập luyện trước khi chạy half marathon ở Trung Quốc](https://vnexpress.net/robot-tap-luyen-truoc-khi-chay-half-marathon-o-trung-quoc-4868808.html) - 22:49 01/04/2025
 - 🥳 [Bayern yêu cầu Muller giải nghệ vì lương quá cao](https://vnexpress.net/bayern-yeu-cau-muller-giai-nghe-vi-luong-qua-cao-4868803.html) - 22:42 01/04/2025
 - 🦣 [Saka ghi bàn trong ngày tái xuất Ngoại hạng Anh](https://vnexpress.net/saka-ghi-ban-trong-ngay-tai-xuat-ngoai-hang-anh-4868805.html) - 22:34 01/04/2025
-- 🌜 [Man Utd thua vì cầu thủ cũ bị ruồng bỏ](https://vnexpress.net/man-utd-thua-vi-cau-thu-cu-bi-ruong-bo-4868802.html) - 20:59 01/04/2025
+- 🌜 [Người cũ gieo sầu cho Man Utd ở Ngoại hạng Anh](https://vnexpress.net/nguoi-cu-gieo-sau-cho-man-utd-o-ngoai-hang-anh-4868802.html) - 20:59 01/04/2025
 - 🫶 [Cựu vô địch quyền Anh đổ gục dù không có tác động](https://vnexpress.net/cuu-vo-dich-quyen-anh-do-guc-du-khong-co-tac-dong-4868764.html) - 17:00 01/04/2025
 - 🌜 [HLV bị cấm 6 tháng vì mắng nữ trọng tài là &#39;con bò&#39;](https://vnexpress.net/hlv-bi-cam-6-thang-vi-mang-nu-trong-tai-la-con-bo-4868739.html) - 17:00 01/04/2025
 - 😺 [Thế khó của Thể Công với sân Mỹ Đình](https://vnexpress.net/the-kho-cua-the-cong-voi-san-my-dinh-4868749.html) - 14:02 01/04/2025
