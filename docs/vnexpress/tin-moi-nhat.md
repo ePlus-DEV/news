@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [BYD tăng trưởng liên tiếp, bán ngày càng nhiều xe hybrid](https://vnexpress.net/byd-tang-truong-lien-tiep-ban-ngay-cang-nhieu-xe-hybrid-4868838.html) - 03:47 02/04/2025
+- 🎬 [BYD tăng trưởng liên tiếp, xuất khẩu xe kỷ lục](https://vnexpress.net/byd-tang-truong-lien-tiep-xuat-khau-xe-ky-luc-4868838.html) - 03:47 02/04/2025
 - 🐎 [Cháy kho nguyên liệu công ty may mặc ở Tiền Giang](https://vnexpress.net/chay-kho-nguyen-lieu-cong-ty-may-mac-o-tien-giang-4868954.html) - 03:43 02/04/2025
 - 🦍 [Nghị sĩ Mỹ phát biểu hơn 25 tiếng liên tục](https://vnexpress.net/nghi-si-my-phat-bieu-hon-25-tieng-lien-tuc-4868856.html) - 03:43 02/04/2025
 - 🏊 [Người chết trong tòa nhà sập ở Bangkok tăng lên 15](https://vnexpress.net/nguoi-chet-trong-toa-nha-sap-o-bangkok-tang-len-15-4868834.html) - 03:42 02/04/2025
