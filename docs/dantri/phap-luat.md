@@ -7,7 +7,7 @@ sidebar_position: 8
 - 🌊 [Những quy định tài xế cần lưu ý khi đi vào cao tốc](https://dantri.com.vn/phap-luat/nhung-quy-dinh-tai-xe-can-luu-y-khi-di-vao-cao-toc-20250402225340030.htm) - 17:00 02/04/2025
 - 🐲 [Phó chi cục biển, hải đảo và kiểm ngư ở Cà Mau bị bắt](https://dantri.com.vn/phap-luat/pho-chi-cuc-bien-hai-dao-va-kiem-ngu-o-ca-mau-bi-bat-20250402221935543.htm) - 16:04 02/04/2025
 - 🌁 [Tin lời bạn trai online, người phụ nữ ở Hà Nội mất gần 9 tỷ đồng](https://dantri.com.vn/phap-luat/tin-loi-ban-trai-online-nguoi-phu-nu-o-ha-noi-mat-gan-9-ty-dong-20250402224432927.htm) - 15:55 02/04/2025
-- 🎃 [Gã say xỉn dùng kéo định đâm vào đầu cán bộ cảnh sát cơ động](https://dantri.com.vn/phap-luat/ga-say-xin-dung-keo-dinh-dam-vao-dau-can-bo-canh-sat-co-dong-20250402223542581.htm) - 15:43 02/04/2025
+- 🎃 [Gã say xỉn dùng kéo định đâm cán bộ cảnh sát cơ động](https://dantri.com.vn/phap-luat/ga-say-xin-dung-keo-dinh-dam-can-bo-canh-sat-co-dong-20250402223542581.htm) - 15:43 02/04/2025
 - 🦅 [Cảnh sát nổ súng chỉ thiên, bắt giữ đối tượng bị truy nã](https://dantri.com.vn/phap-luat/canh-sat-no-sung-chi-thien-bat-giu-doi-tuong-bi-truy-na-20250402222331416.htm) - 15:27 02/04/2025
 - 🎭 [Phát lệnh truy nã phạm nhân trốn trại ở Thanh Hóa](https://dantri.com.vn/phap-luat/phat-lenh-truy-na-pham-nhan-tron-trai-o-thanh-hoa-20250402202919792.htm) - 14:08 02/04/2025
 - 🤗 [Đột nhập vào nhà vắng người, trộm cắp tài sản hơn 1 tỷ đồng](https://dantri.com.vn/phap-luat/dot-nhap-vao-nha-vang-nguoi-trom-cap-tai-san-hon-1-ty-dong-20250402195527263.htm) - 14:04 02/04/2025
