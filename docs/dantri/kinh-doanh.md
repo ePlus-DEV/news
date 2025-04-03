@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- dantri-kinh-doanh:START -->
-- 🏊 [Phó Thủ tướng Hồ Đức Phớc đi Mỹ trong bối cảnh thuế quan căng thẳng](https://dantri.com.vn/kinh-doanh/pho-thu-tuong-ho-duc-phoc-di-my-trong-boi-canh-thue-quan-cang-thang-20250403132637686.htm) - 06:33 03/04/2025
+- 🏊 [Phó Thủ tướng Hồ Đức Phớc thăm Mỹ](https://dantri.com.vn/kinh-doanh/pho-thu-tuong-ho-duc-phoc-tham-my-20250403132637686.htm) - 06:33 03/04/2025
 - 🦆 [Điều gì ẩn sau mức thuế &quot;tệ hơn cả kịch bản tồi tệ nhất&quot; của ông Trump?](https://dantri.com.vn/kinh-doanh/dieu-gi-an-sau-muc-thue-te-hon-ca-kich-ban-toi-te-nhat-cua-ong-trump-20250403103252497.htm) - 04:47 03/04/2025
 - 🦄 [Mỹ là thị trường xuất khẩu lớn nhất của Việt Nam nhiều năm qua](https://dantri.com.vn/kinh-doanh/my-la-thi-truong-xuat-khau-lon-nhat-cua-viet-nam-nhieu-nam-qua-20250403102034520.htm) - 04:42 03/04/2025
 - 🌝 [Chuyên gia: Chứng khoán giảm là bình thường, nhà đầu tư cần bình tĩnh](https://dantri.com.vn/kinh-doanh/chuyen-gia-chung-khoan-giam-la-binh-thuong-nha-dau-tu-can-binh-tinh-20250403112617046.htm) - 04:36 03/04/2025
