@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Ông Johnathan Hạnh Nguyễn: ‘Tôi còn một nhiệm vụ muốn hoàn thành’](https://vnexpress.net/ong-johnathan-hanh-nguyen-toi-con-mot-nhiem-vu-muon-hoan-thanh-4868454.html) - 23:00 03/04/2025
+- 🦒 [Ông Johnathan Hạnh Nguyễn: &#39;Tôi còn một nhiệm vụ muốn hoàn thành&#39;](https://vnexpress.net/ong-johnathan-hanh-nguyen-toi-con-mot-nhiem-vu-muon-hoan-thanh-4868454.html) - 23:00 03/04/2025
 - 🤓 [Các khối diễu binh vào Nam trên tàu Thống Nhất](https://vnexpress.net/cac-khoi-dieu-binh-vao-nam-tren-tau-thong-nhat-4869754.html) - 18:00 03/04/2025
 - ⚗️ [Trận địa phòng không đánh Mỹ ở Hàm Rồng 60 năm trước](https://vnexpress.net/tran-dia-phong-khong-danh-my-o-ham-rong-60-nam-truoc-4868591.html) - 17:00 03/04/2025
 - 🌊 [Chủ tịch Lê Văn Dũng: &#39;Quảng Nam sáp nhập với Đà Nẵng là đúng&#39;](https://vnexpress.net/chu-tich-le-van-dung-quang-nam-sap-nhap-voi-da-nang-la-dung-4869672.html) - 13:05 03/04/2025
