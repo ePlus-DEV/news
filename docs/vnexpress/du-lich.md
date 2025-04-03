@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Nhiều điểm du lịch ở Hàn Quốc đóng cửa do tổng thống ra tòa](https://vnexpress.net/nhieu-diem-du-lich-o-han-quoc-dong-cua-do-tong-thong-ra-toa-4869280.html) - 02:44 03/04/2025
+- 💂 [Nhiều điểm du lịch Hàn Quốc đóng cửa trước phán quyết về luận tội Tổng thống](https://vnexpress.net/nhieu-diem-du-lich-han-quoc-dong-cua-truoc-phan-quyet-ve-luan-toi-tong-thong-4869280.html) - 02:44 03/04/2025
 - 🪄 [Quán cà phê trang trí đồ tái chế được Vua Bỉ ghé thăm](https://vnexpress.net/quan-ca-phe-trang-tri-do-tai-che-duoc-vua-bi-ghe-tham-4869065.html) - 00:00 03/04/2025
 - 🦅 [Khách quốc tế ngày càng &#39;lộng hành&#39; ở Nhật Bản](https://vnexpress.net/khach-quoc-te-ngay-cang-long-hanh-o-nhat-ban-4869153.html) - 17:09 02/04/2025
 - 🕴 [Khách Việt đi Thái phải khai báo online trước khi đến](https://vnexpress.net/khach-viet-di-thai-phai-khai-bao-online-truoc-khi-den-4869099.html) - 12:00 02/04/2025
