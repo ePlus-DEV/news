@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Quá trình Nhà Trắng xây dựng đòn thuế cho ông Trump](https://vnexpress.net/qua-trinh-nha-trang-xay-dung-don-thue-cho-ong-trump-4869788.html) - 17:00 04/04/2025
-- 🕴 [Tổng Bí thư Tô Lâm điện đàm với Tổng thống Mỹ Trump](https://vnexpress.net/tong-bi-thu-to-lam-dien-dam-voi-tong-thong-my-trump-4870250.html) - 15:59 04/04/2025
-- 🤭 [Israel phát động chiến dịch mới ở thành phố lớn nhất Gaza](https://vnexpress.net/israel-phat-dong-chien-dich-moi-o-thanh-pho-lon-nhat-gaza-4870234.html) - 15:16 04/04/2025
-- 🧑‍💻 [Ông Trump bị kiện vì dùng đạo luật khẩn cấp để áp thuế](https://vnexpress.net/ong-trump-bi-kien-vi-dung-dao-luat-khan-cap-de-ap-thue-4870217.html) - 13:44 04/04/2025
-- 🦏 [Ông Trump muốn đối thoại trực tiếp với Iran về hạt nhân](https://vnexpress.net/ong-trump-muon-doi-thoai-truc-tiep-voi-iran-ve-hat-nhan-4870207.html) - 12:31 04/04/2025
-- 🦒 [Những đảng viên Cộng hòa bất bình về đòn thuế của ông Trump](https://vnexpress.net/nhung-dang-vien-cong-hoa-bat-binh-ve-don-thue-cua-ong-trump-4869808.html) - 12:00 04/04/2025
-- 🌈 [DOGE sa thải nhầm 2.000 nhân viên y tế](https://vnexpress.net/doge-sa-thai-nham-2-000-nhan-vien-y-te-4870090.html) - 09:57 04/04/2025
-- 🧑‍🏫 [Lãnh đạo Việt Nam viếng nguyên Chủ tịch Lào Khamtay Siphandone](https://vnexpress.net/lanh-dao-viet-nam-vieng-nguyen-chu-tich-lao-khamtay-siphandone-4870122.html) - 09:56 04/04/2025
-- 🐲 [Triều Tiên sắp có trung tâm chơi game 300 chỗ ngồi](https://vnexpress.net/trieu-tien-sap-co-trung-tam-choi-game-300-cho-ngoi-4870115.html) - 09:40 04/04/2025
-- 🦒 [Ông Trump: &#39;Mọi việc vẫn ổn, nước Mỹ sẽ nhảy vọt&#39;](https://vnexpress.net/ong-trump-moi-viec-van-on-nuoc-my-se-nhay-vot-4870097.html) - 09:37 04/04/2025
-- 🐻 [Ông Trump khoe thẻ vàng nhập cư 5 triệu USD đầu tiên](https://vnexpress.net/ong-trump-khoe-the-vang-nhap-cu-5-trieu-usd-dau-tien-4870040.html) - 09:03 04/04/2025
-- 🚀 [Lục quân Mỹ thử chiến thuật hút hỏa lực pháo binh vào mồi bẫy](https://vnexpress.net/luc-quan-my-thu-chien-thuat-hut-hoa-luc-phao-binh-vao-moi-bay-4869963.html) - 08:31 04/04/2025
-- 🥰 [Ông Yoon Suk-yeol xin lỗi sau khi bị phế truất](https://vnexpress.net/ong-yoon-suk-yeol-xin-loi-sau-khi-bi-phe-truat-4870062.html) - 08:24 04/04/2025
-- 🔥 [Tỷ lệ ủng hộ ông Trump thấp nhất từ khi nhậm chức](https://vnexpress.net/ty-le-ung-ho-ong-trump-thap-nhat-tu-khi-nham-chuc-4870053.html) - 08:18 04/04/2025
-- 🥳 [Bỏ qua tiêm kích Mỹ và Pháp, Colombia chọn phi cơ Thụy Điển](https://vnexpress.net/bo-qua-tiem-kich-my-va-phap-colombia-chon-phi-co-thuy-dien-4869998.html) - 07:49 04/04/2025
-- 💼 [Kẻ khóc người cười sau khi Tổng thống Hàn Quốc bị phế truất](https://vnexpress.net/ke-khoc-nguoi-cuoi-sau-khi-tong-thong-han-quoc-bi-phe-truat-4869980.html) - 07:08 04/04/2025
-- 🤡 [Chính quyền Trump ra điều kiện để Harvard giữ 9 tỷ USD tài trợ](https://vnexpress.net/chinh-quyen-trump-ra-dieu-kien-de-harvard-giu-9-ty-usd-tai-tro-4870019.html) - 07:04 04/04/2025
-- 🌁 [Đòn thuế ngáng đường nỗ lực trấn an NATO của Ngoại trưởng Mỹ](https://vnexpress.net/don-thue-ngang-duong-no-luc-tran-an-nato-cua-ngoai-truong-my-4869872.html) - 04:58 04/04/2025
-- 🤩 [Quân đội Đức sắp lần đầu mua UAV tự sát](https://vnexpress.net/quan-doi-duc-sap-lan-dau-mua-uav-tu-sat-4869817.html) - 04:31 04/04/2025
+- 🎭 [Gánh nặng vô hình ông Musk tạo ra cho đảng Cộng hòa](https://vnexpress.net/ganh-nang-vo-hinh-ong-musk-tao-ra-cho-dang-cong-hoa-4869873.html) - 22:00 04/04/2025
+- 🕴 [Quá trình Nhà Trắng xây dựng đòn thuế cho ông Trump](https://vnexpress.net/qua-trinh-nha-trang-xay-dung-don-thue-cho-ong-trump-4869788.html) - 17:00 04/04/2025
+- 🤭 [Tổng Bí thư Tô Lâm điện đàm với Tổng thống Mỹ Trump](https://vnexpress.net/tong-bi-thu-to-lam-dien-dam-voi-tong-thong-my-trump-4870250.html) - 15:59 04/04/2025
+- 🧑‍💻 [Israel phát động chiến dịch mới ở thành phố lớn nhất Gaza](https://vnexpress.net/israel-phat-dong-chien-dich-moi-o-thanh-pho-lon-nhat-gaza-4870234.html) - 15:16 04/04/2025
+- 🦏 [Ông Trump bị kiện vì dùng đạo luật khẩn cấp để áp thuế](https://vnexpress.net/ong-trump-bi-kien-vi-dung-dao-luat-khan-cap-de-ap-thue-4870217.html) - 13:44 04/04/2025
+- 🦒 [Ông Trump muốn đối thoại trực tiếp với Iran về hạt nhân](https://vnexpress.net/ong-trump-muon-doi-thoai-truc-tiep-voi-iran-ve-hat-nhan-4870207.html) - 12:31 04/04/2025
+- 🌈 [Những đảng viên Cộng hòa bất bình về đòn thuế của ông Trump](https://vnexpress.net/nhung-dang-vien-cong-hoa-bat-binh-ve-don-thue-cua-ong-trump-4869808.html) - 12:00 04/04/2025
+- 🧑‍🏫 [DOGE sa thải nhầm 2.000 nhân viên y tế](https://vnexpress.net/doge-sa-thai-nham-2-000-nhan-vien-y-te-4870090.html) - 09:57 04/04/2025
+- 🐲 [Lãnh đạo Việt Nam viếng nguyên Chủ tịch Lào Khamtay Siphandone](https://vnexpress.net/lanh-dao-viet-nam-vieng-nguyen-chu-tich-lao-khamtay-siphandone-4870122.html) - 09:56 04/04/2025
+- 🦒 [Triều Tiên sắp có trung tâm chơi game 300 chỗ ngồi](https://vnexpress.net/trieu-tien-sap-co-trung-tam-choi-game-300-cho-ngoi-4870115.html) - 09:40 04/04/2025
+- 🐻 [Ông Trump: &#39;Mọi việc vẫn ổn, nước Mỹ sẽ nhảy vọt&#39;](https://vnexpress.net/ong-trump-moi-viec-van-on-nuoc-my-se-nhay-vot-4870097.html) - 09:37 04/04/2025
+- 🚀 [Ông Trump khoe thẻ vàng nhập cư 5 triệu USD đầu tiên](https://vnexpress.net/ong-trump-khoe-the-vang-nhap-cu-5-trieu-usd-dau-tien-4870040.html) - 09:03 04/04/2025
+- 🥰 [Lục quân Mỹ thử chiến thuật hút hỏa lực pháo binh vào mồi bẫy](https://vnexpress.net/luc-quan-my-thu-chien-thuat-hut-hoa-luc-phao-binh-vao-moi-bay-4869963.html) - 08:31 04/04/2025
+- 🔥 [Ông Yoon Suk-yeol xin lỗi sau khi bị phế truất](https://vnexpress.net/ong-yoon-suk-yeol-xin-loi-sau-khi-bi-phe-truat-4870062.html) - 08:24 04/04/2025
+- 🥳 [Tỷ lệ ủng hộ ông Trump thấp nhất từ khi nhậm chức](https://vnexpress.net/ty-le-ung-ho-ong-trump-thap-nhat-tu-khi-nham-chuc-4870053.html) - 08:18 04/04/2025
+- 💼 [Bỏ qua tiêm kích Mỹ và Pháp, Colombia chọn phi cơ Thụy Điển](https://vnexpress.net/bo-qua-tiem-kich-my-va-phap-colombia-chon-phi-co-thuy-dien-4869998.html) - 07:49 04/04/2025
+- 🤡 [Kẻ khóc người cười sau khi Tổng thống Hàn Quốc bị phế truất](https://vnexpress.net/ke-khoc-nguoi-cuoi-sau-khi-tong-thong-han-quoc-bi-phe-truat-4869980.html) - 07:08 04/04/2025
+- 🌁 [Chính quyền Trump ra điều kiện để Harvard giữ 9 tỷ USD tài trợ](https://vnexpress.net/chinh-quyen-trump-ra-dieu-kien-de-harvard-giu-9-ty-usd-tai-tro-4870019.html) - 07:04 04/04/2025
+- 🤩 [Đòn thuế ngáng đường nỗ lực trấn an NATO của Ngoại trưởng Mỹ](https://vnexpress.net/don-thue-ngang-duong-no-luc-tran-an-nato-cua-ngoai-truong-my-4869872.html) - 04:58 04/04/2025
+- 🎉 [Quân đội Đức sắp lần đầu mua UAV tự sát](https://vnexpress.net/quan-doi-duc-sap-lan-dau-mua-uav-tu-sat-4869817.html) - 04:31 04/04/2025
 - 🎉 [Điều gì xảy ra sau khi Tổng thống Yoon bị phế truất?](https://vnexpress.net/dieu-gi-xay-ra-sau-khi-tong-thong-yoon-bi-phe-truat-4869888.html) - 04:24 04/04/2025
-- 🎉 [Ông Trump nêu điều kiện để giảm thuế](https://vnexpress.net/ong-trump-neu-dieu-kien-de-giam-thue-4869859.html) - 03:53 04/04/2025
-- 🌁 [Nhật Bản phát triển loạt tên lửa &#39;chống xâm lược&#39;](https://vnexpress.net/nhat-ban-phat-trien-loat-ten-lua-chong-xam-luoc-4869813.html) - 03:51 04/04/2025
-- 🌊 [Thượng nghị sĩ Cộng hòa đề nghị quốc hội kiểm soát công cụ thuế](https://vnexpress.net/thuong-nghi-si-cong-hoa-de-nghi-quoc-hoi-kiem-soat-cong-cu-thue-4869881.html) - 03:26 04/04/2025
-- 🕴 [Số lượng yakuza Nhật thấp kỷ lục](https://vnexpress.net/so-luong-yakuza-nhat-thap-ky-luc-4869814.html) - 02:51 04/04/2025
-- 🎓 [Đặc phái viên Nga thảo luận về hợp tác đất hiếm với Mỹ](https://vnexpress.net/dac-phai-vien-nga-thao-luan-ve-hop-tac-dat-hiem-voi-my-4869791.html) - 02:50 04/04/2025
-- 🦩 [Thủ tướng Đan Mạch: Mỹ không thể sáp nhập quốc gia khác](https://vnexpress.net/thu-tuong-dan-mach-my-khong-the-sap-nhap-quoc-gia-khac-4869790.html) - 02:17 04/04/2025
-- 🌏 [Hơn 96.000 người đăng ký cạnh tranh 20 ghế dự phiên xử ông Yoon](https://vnexpress.net/hon-96-000-nguoi-dang-ky-canh-tranh-20-ghe-du-phien-xu-ong-yoon-4869810.html) - 01:49 04/04/2025
-- 🌋 [Tổng thống Hàn Quốc Yoon Suk-yeol bị phế truất](https://vnexpress.net/tong-thong-han-quoc-yoon-suk-yeol-bi-phe-truat-4869811-tong-thuat.html) - 01:28 04/04/2025
-- 🪜 [Thiết kế giúp chiến hạm Triều Tiên có hỏa lực &#39;như một hạm đội&#39;](https://vnexpress.net/thiet-ke-giup-chien-ham-trieu-tien-co-hoa-luc-nhu-mot-ham-doi-4869467.html) - 01:00 04/04/2025
-- 🕴 [Việt Nam lấy làm tiếc trước quyết định áp thuế của Mỹ](https://vnexpress.net/viet-nam-lay-lam-tiec-truoc-quyet-dinh-ap-thue-cua-my-4869793.html) - 00:29 04/04/2025
-- 🧑‍🏫 [Ông Trump: Elon Musk có thể rời chức vụ sau vài tháng](https://vnexpress.net/ong-trump-elon-musk-co-the-roi-chuc-vu-sau-vai-thang-4869784.html) - 00:07 04/04/2025
-- 🌮 [Tổng thống Mỹ &#39;sa thải hàng loạt quan chức an ninh quốc gia&#39;](https://vnexpress.net/tong-thong-my-sa-thai-hang-loat-quan-chuc-an-ninh-quoc-gia-4869770.html) - 23:50 03/04/2025
-- 🚦 [Đòn giáng vào đảng Cộng hòa khi thua &#39;cuộc đua ủy nhiệm&#39; ở bang Wisconsin](https://vnexpress.net/don-giang-vao-dang-cong-hoa-khi-thua-cuoc-dua-uy-nhiem-o-bang-wisconsin-4868823.html) - 22:00 03/04/2025
-- 💫 [Lý do nghị sĩ Mỹ quyết tâm diễn thuyết 25 tiếng liên tục](https://vnexpress.net/ly-do-nghi-si-my-quyet-tam-dien-thuyet-25-tieng-lien-tuc-4869575.html) - 17:00 03/04/2025
-- 🤡 [Việt Nam đề nghị Armenia tạo điều kiện cho doanh nghiệp tiếp cận thị trường](https://vnexpress.net/viet-nam-de-nghi-armenia-tao-dieu-kien-cho-doanh-nghiep-tiep-can-thi-truong-4869718.html) - 16:36 03/04/2025
-- 🦣 [ICC nhắc nhở Hungary về nghĩa vụ hợp tác](https://vnexpress.net/icc-nhac-nho-hungary-ve-nghia-vu-hop-tac-4869737.html) - 16:28 03/04/2025
-- 🎬 [Nhà Trắng kêu gọi &#39;tin tưởng Tổng thống Trump&#39;](https://vnexpress.net/nha-trang-keu-goi-tin-tuong-tong-thong-trump-4869720.html) - 14:41 03/04/2025
-- 🎉 [Vua Bỉ gặp nạn nhân chất độc da cam tại TP HCM](https://vnexpress.net/vua-bi-gap-nan-nhan-chat-doc-da-cam-tai-tp-hcm-4869687.html) - 13:55 03/04/2025
-- 🎡 [Quần đảo chỉ có chim cánh cụt cũng bị Mỹ áp thuế](https://vnexpress.net/quan-dao-chi-co-chim-canh-cut-cung-bi-my-ap-thue-4869609.html) - 13:00 03/04/2025
-- 🌜 [Việt Nam để quốc tang tưởng nhớ nguyên Chủ tịch Lào Khamtay Siphandone](https://vnexpress.net/viet-nam-de-quoc-tang-tuong-nho-nguyen-chu-tich-lao-khamtay-siphandone-4869698.html) - 12:28 03/04/2025
-- 🎡 [Tổng Bí thư Tô Lâm viếng nguyên Chủ tịch Lào Khamtay Siphandone](https://vnexpress.net/tong-bi-thu-to-lam-vieng-nguyen-chu-tich-lao-khamtay-siphandone-4869689.html) - 11:59 03/04/2025
-- 🤗 [Mỹ tuyên bố sẽ không rời NATO](https://vnexpress.net/my-tuyen-bo-se-khong-roi-nato-4869682.html) - 11:25 03/04/2025
-- 🦩 [Hungary tuyên bố rút khỏi ICC](https://vnexpress.net/hungary-tuyen-bo-rut-khoi-icc-4869623.html) - 10:11 03/04/2025
-- 🎓 [Đề nghị doanh nghiệp Nhật Bản tham gia các dự án cơ sở hạ tầng chiến lược](https://vnexpress.net/de-nghi-doanh-nghiep-nhat-ban-tham-gia-cac-du-an-co-so-ha-tang-chien-luoc-4869631.html) - 10:08 03/04/2025
-- 🌁 [Đặc phái viên của ông Putin đến Mỹ đàm phán](https://vnexpress.net/dac-phai-vien-cua-ong-putin-den-my-dam-phan-4869662.html) - 10:00 03/04/2025
-- 🤩 [Israel oanh tạc dữ dội, đưa quân đột kích lãnh thổ Syria](https://vnexpress.net/israel-oanh-tac-du-doi-dua-quan-dot-kich-lanh-tho-syria-4869577.html) - 09:52 03/04/2025
-- 👹 [Bên trong vùng thảm họa động đất Mandalay](https://vnexpress.net/ben-trong-vung-tham-hoa-dong-dat-mandalay-4869431.html) - 09:25 03/04/2025
-- ⛽️ [Hòn đảo &#39;gần như chẳng xuất khẩu gì&#39; ngạc nhiên với đòn thuế của Mỹ](https://vnexpress.net/hon-dao-gan-nhu-chang-xuat-khau-gi-ngac-nhien-voi-don-thue-cua-my-4869557.html) - 09:18 03/04/2025
-- 🚀 [Bộ trưởng Tài chính Mỹ: Đừng trả đũa đòn áp thuế](https://vnexpress.net/bo-truong-tai-chinh-my-dung-tra-dua-don-ap-thue-4869578.html) - 08:56 03/04/2025
-- 🎡 [&#39;Nghị sĩ bỉm sữa&#39; chống lại sức ép từ Chủ tịch Hạ viện Mỹ](https://vnexpress.net/nghi-si-bim-sua-chong-lai-suc-ep-tu-chu-tich-ha-vien-my-4869377.html) - 08:45 03/04/2025
-- 🕯 [Người Mỹ phản ứng trái chiều với thuế đối ứng của ông Trump](https://vnexpress.net/nguoi-my-phan-ung-trai-chieu-voi-thue-doi-ung-cua-ong-trump-4869325.html) - 08:21 03/04/2025
-- 🐻 [Thủy quân lục chiến Mỹ lập đơn vị tác chiến drone](https://vnexpress.net/thuy-quan-luc-chien-my-lap-don-vi-tac-chien-drone-4869477.html) - 07:51 03/04/2025
-- 🚦 [Đình chỉ chiến dịch tìm kiếm MH370](https://vnexpress.net/dinh-chi-chien-dich-tim-kiem-mh370-4869520.html) - 07:15 03/04/2025
-- 👍 [Myanmar ghi nhận hơn 3.000 người chết do động đất](https://vnexpress.net/myanmar-ghi-nhan-hon-3-000-nguoi-chet-do-dong-dat-4869501.html) - 06:48 03/04/2025
-- 🚀 [Tiền đồn chiến lược của Mỹ &#39;không còn an toàn trước Iran&#39;](https://vnexpress.net/tien-don-chien-luoc-cua-my-khong-con-an-toan-truoc-iran-4869062.html) - 05:01 03/04/2025
-- 🌮 [Bệnh viện Nhật lập quầy tiếp nhận trẻ sơ sinh bị bỏ rơi](https://vnexpress.net/benh-vien-nhat-lap-quay-tiep-nhan-tre-so-sinh-bi-bo-roi-4869456.html) - 04:52 03/04/2025
-- 😎 [Mỹ có thể rà soát tài khoản mạng xã hội của người xin visa](https://vnexpress.net/my-co-the-ra-soat-tai-khoan-mang-xa-hoi-cua-nguoi-xin-visa-4869396.html) - 04:27 03/04/2025
-- 🐲 [Đòn thuế có thể khiến ảnh hưởng toàn cầu của Mỹ phai nhạt](https://vnexpress.net/don-thue-co-the-khien-anh-huong-toan-cau-cua-my-phai-nhat-4869316.html) - 03:58 03/04/2025
-- 💫 [Cố vấn An ninh Quốc gia Mỹ &#39;lập 20 nhóm chat&#39; trao đổi công việc](https://vnexpress.net/co-van-an-ninh-quoc-gia-my-lap-20-nhom-chat-trao-doi-cong-viec-4869339.html) - 03:28 03/04/2025
-- 👀 [Mỹ điều thêm loạt tiêm kích F-35 đến Trung Đông](https://vnexpress.net/my-dieu-them-loat-tiem-kich-f-35-den-trung-dong-4869333.html) - 02:45 03/04/2025<!-- vnexpress-the-gioi:END -->
+- 🌁 [Ông Trump nêu điều kiện để giảm thuế](https://vnexpress.net/ong-trump-neu-dieu-kien-de-giam-thue-4869859.html) - 03:53 04/04/2025
+- 🌊 [Nhật Bản phát triển loạt tên lửa &#39;chống xâm lược&#39;](https://vnexpress.net/nhat-ban-phat-trien-loat-ten-lua-chong-xam-luoc-4869813.html) - 03:51 04/04/2025
+- 🕴 [Thượng nghị sĩ Cộng hòa đề nghị quốc hội kiểm soát công cụ thuế](https://vnexpress.net/thuong-nghi-si-cong-hoa-de-nghi-quoc-hoi-kiem-soat-cong-cu-thue-4869881.html) - 03:26 04/04/2025
+- 🎓 [Số lượng yakuza Nhật thấp kỷ lục](https://vnexpress.net/so-luong-yakuza-nhat-thap-ky-luc-4869814.html) - 02:51 04/04/2025
+- 🦩 [Đặc phái viên Nga thảo luận về hợp tác đất hiếm với Mỹ](https://vnexpress.net/dac-phai-vien-nga-thao-luan-ve-hop-tac-dat-hiem-voi-my-4869791.html) - 02:50 04/04/2025
+- 🌏 [Thủ tướng Đan Mạch: Mỹ không thể sáp nhập quốc gia khác](https://vnexpress.net/thu-tuong-dan-mach-my-khong-the-sap-nhap-quoc-gia-khac-4869790.html) - 02:17 04/04/2025
+- 🌋 [Hơn 96.000 người đăng ký cạnh tranh 20 ghế dự phiên xử ông Yoon](https://vnexpress.net/hon-96-000-nguoi-dang-ky-canh-tranh-20-ghe-du-phien-xu-ong-yoon-4869810.html) - 01:49 04/04/2025
+- 🪜 [Tổng thống Hàn Quốc Yoon Suk-yeol bị phế truất](https://vnexpress.net/tong-thong-han-quoc-yoon-suk-yeol-bi-phe-truat-4869811-tong-thuat.html) - 01:28 04/04/2025
+- 🕴 [Thiết kế giúp chiến hạm Triều Tiên có hỏa lực &#39;như một hạm đội&#39;](https://vnexpress.net/thiet-ke-giup-chien-ham-trieu-tien-co-hoa-luc-nhu-mot-ham-doi-4869467.html) - 01:00 04/04/2025
+- 🧑‍🏫 [Việt Nam lấy làm tiếc trước quyết định áp thuế của Mỹ](https://vnexpress.net/viet-nam-lay-lam-tiec-truoc-quyet-dinh-ap-thue-cua-my-4869793.html) - 00:29 04/04/2025
+- 🌮 [Ông Trump: Elon Musk có thể rời chức vụ sau vài tháng](https://vnexpress.net/ong-trump-elon-musk-co-the-roi-chuc-vu-sau-vai-thang-4869784.html) - 00:07 04/04/2025
+- 🚦 [Tổng thống Mỹ &#39;sa thải hàng loạt quan chức an ninh quốc gia&#39;](https://vnexpress.net/tong-thong-my-sa-thai-hang-loat-quan-chuc-an-ninh-quoc-gia-4869770.html) - 23:50 03/04/2025
+- 💫 [Đòn giáng vào đảng Cộng hòa khi thua &#39;cuộc đua ủy nhiệm&#39; ở bang Wisconsin](https://vnexpress.net/don-giang-vao-dang-cong-hoa-khi-thua-cuoc-dua-uy-nhiem-o-bang-wisconsin-4868823.html) - 22:00 03/04/2025
+- 🤡 [Lý do nghị sĩ Mỹ quyết tâm diễn thuyết 25 tiếng liên tục](https://vnexpress.net/ly-do-nghi-si-my-quyet-tam-dien-thuyet-25-tieng-lien-tuc-4869575.html) - 17:00 03/04/2025
+- 🦣 [Việt Nam đề nghị Armenia tạo điều kiện cho doanh nghiệp tiếp cận thị trường](https://vnexpress.net/viet-nam-de-nghi-armenia-tao-dieu-kien-cho-doanh-nghiep-tiep-can-thi-truong-4869718.html) - 16:36 03/04/2025
+- 🎬 [ICC nhắc nhở Hungary về nghĩa vụ hợp tác](https://vnexpress.net/icc-nhac-nho-hungary-ve-nghia-vu-hop-tac-4869737.html) - 16:28 03/04/2025
+- 🎉 [Nhà Trắng kêu gọi &#39;tin tưởng Tổng thống Trump&#39;](https://vnexpress.net/nha-trang-keu-goi-tin-tuong-tong-thong-trump-4869720.html) - 14:41 03/04/2025
+- 🎡 [Vua Bỉ gặp nạn nhân chất độc da cam tại TP HCM](https://vnexpress.net/vua-bi-gap-nan-nhan-chat-doc-da-cam-tai-tp-hcm-4869687.html) - 13:55 03/04/2025
+- 🌜 [Quần đảo chỉ có chim cánh cụt cũng bị Mỹ áp thuế](https://vnexpress.net/quan-dao-chi-co-chim-canh-cut-cung-bi-my-ap-thue-4869609.html) - 13:00 03/04/2025
+- 🎡 [Việt Nam để quốc tang tưởng nhớ nguyên Chủ tịch Lào Khamtay Siphandone](https://vnexpress.net/viet-nam-de-quoc-tang-tuong-nho-nguyen-chu-tich-lao-khamtay-siphandone-4869698.html) - 12:28 03/04/2025
+- 🤗 [Tổng Bí thư Tô Lâm viếng nguyên Chủ tịch Lào Khamtay Siphandone](https://vnexpress.net/tong-bi-thu-to-lam-vieng-nguyen-chu-tich-lao-khamtay-siphandone-4869689.html) - 11:59 03/04/2025
+- 🦩 [Mỹ tuyên bố sẽ không rời NATO](https://vnexpress.net/my-tuyen-bo-se-khong-roi-nato-4869682.html) - 11:25 03/04/2025
+- 🎓 [Hungary tuyên bố rút khỏi ICC](https://vnexpress.net/hungary-tuyen-bo-rut-khoi-icc-4869623.html) - 10:11 03/04/2025
+- 🌁 [Đề nghị doanh nghiệp Nhật Bản tham gia các dự án cơ sở hạ tầng chiến lược](https://vnexpress.net/de-nghi-doanh-nghiep-nhat-ban-tham-gia-cac-du-an-co-so-ha-tang-chien-luoc-4869631.html) - 10:08 03/04/2025
+- 🤩 [Đặc phái viên của ông Putin đến Mỹ đàm phán](https://vnexpress.net/dac-phai-vien-cua-ong-putin-den-my-dam-phan-4869662.html) - 10:00 03/04/2025
+- 👹 [Israel oanh tạc dữ dội, đưa quân đột kích lãnh thổ Syria](https://vnexpress.net/israel-oanh-tac-du-doi-dua-quan-dot-kich-lanh-tho-syria-4869577.html) - 09:52 03/04/2025
+- ⛽️ [Bên trong vùng thảm họa động đất Mandalay](https://vnexpress.net/ben-trong-vung-tham-hoa-dong-dat-mandalay-4869431.html) - 09:25 03/04/2025
+- 🚀 [Hòn đảo &#39;gần như chẳng xuất khẩu gì&#39; ngạc nhiên với đòn thuế của Mỹ](https://vnexpress.net/hon-dao-gan-nhu-chang-xuat-khau-gi-ngac-nhien-voi-don-thue-cua-my-4869557.html) - 09:18 03/04/2025
+- 🎡 [Bộ trưởng Tài chính Mỹ: Đừng trả đũa đòn áp thuế](https://vnexpress.net/bo-truong-tai-chinh-my-dung-tra-dua-don-ap-thue-4869578.html) - 08:56 03/04/2025
+- 🕯 [&#39;Nghị sĩ bỉm sữa&#39; chống lại sức ép từ Chủ tịch Hạ viện Mỹ](https://vnexpress.net/nghi-si-bim-sua-chong-lai-suc-ep-tu-chu-tich-ha-vien-my-4869377.html) - 08:45 03/04/2025
+- 🐻 [Người Mỹ phản ứng trái chiều với thuế đối ứng của ông Trump](https://vnexpress.net/nguoi-my-phan-ung-trai-chieu-voi-thue-doi-ung-cua-ong-trump-4869325.html) - 08:21 03/04/2025
+- 🚦 [Thủy quân lục chiến Mỹ lập đơn vị tác chiến drone](https://vnexpress.net/thuy-quan-luc-chien-my-lap-don-vi-tac-chien-drone-4869477.html) - 07:51 03/04/2025
+- 👍 [Đình chỉ chiến dịch tìm kiếm MH370](https://vnexpress.net/dinh-chi-chien-dich-tim-kiem-mh370-4869520.html) - 07:15 03/04/2025
+- 🚀 [Myanmar ghi nhận hơn 3.000 người chết do động đất](https://vnexpress.net/myanmar-ghi-nhan-hon-3-000-nguoi-chet-do-dong-dat-4869501.html) - 06:48 03/04/2025
+- 🌮 [Tiền đồn chiến lược của Mỹ &#39;không còn an toàn trước Iran&#39;](https://vnexpress.net/tien-don-chien-luoc-cua-my-khong-con-an-toan-truoc-iran-4869062.html) - 05:01 03/04/2025
+- 😎 [Bệnh viện Nhật lập quầy tiếp nhận trẻ sơ sinh bị bỏ rơi](https://vnexpress.net/benh-vien-nhat-lap-quay-tiep-nhan-tre-so-sinh-bi-bo-roi-4869456.html) - 04:52 03/04/2025
+- 🐲 [Mỹ có thể rà soát tài khoản mạng xã hội của người xin visa](https://vnexpress.net/my-co-the-ra-soat-tai-khoan-mang-xa-hoi-cua-nguoi-xin-visa-4869396.html) - 04:27 03/04/2025
+- 💫 [Đòn thuế có thể khiến ảnh hưởng toàn cầu của Mỹ phai nhạt](https://vnexpress.net/don-thue-co-the-khien-anh-huong-toan-cau-cua-my-phai-nhat-4869316.html) - 03:58 03/04/2025
+- 👀 [Cố vấn An ninh Quốc gia Mỹ &#39;lập 20 nhóm chat&#39; trao đổi công việc](https://vnexpress.net/co-van-an-ninh-quoc-gia-my-lap-20-nhom-chat-trao-doi-cong-viec-4869339.html) - 03:28 03/04/2025<!-- vnexpress-the-gioi:END -->
