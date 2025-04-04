@@ -146,7 +146,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
 - 🤠 [Lịch thi đấu bán kết mới nhất: ‘Chung kết trong mơ’ ở Cúp bóng chuyền Hùng Vương?](https://thanhnien.vn/lich-thi-dau-ban-ket-moi-nhat-chung-ket-trong-mo-o-cup-bong-chuyen-hung-vuong-185250404221101118.htm) - 17:31 04/04/2025
-- 🥸 [&#39;Địa chấn&#39; tại U.17 châu Á: U.17 Indonesia quật ngã U.17 Hàn Quốc](https://thanhnien.vn/dia-chan-tai-u17-chau-a-u17-indonesia-quat-nga-u17-han-quoc-185250405001103824.htm) - 17:26 04/04/2025
+- 🥸 [&#39;Địa chấn&#39; tại giải châu Á: U.17 Indonesia kiên cường quật ngã U.17 Hàn Quốc](https://thanhnien.vn/dia-chan-tai-u17-chau-a-u17-indonesia-quat-nga-u17-han-quoc-185250405001103824.htm) - 17:26 04/04/2025
 - 🌁 [Ngày mới với tin tức sức khỏe: Đang nhịn ăn gián đoạn, có nên uống cà phê?](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-dang-nhin-an-gian-doan-co-nen-uong-ca-phe-185250404235458765.htm) - 17:10 04/04/2025
 - 🤡 [Bảng xếp hạng U.17 châu Á: Việt Nam và Úc cùng đứng đầu bảng &#39;tử thần&#39;, gặp Nhật ngày nào?](https://thanhnien.vn/bang-xep-hang-u17-chau-a-viet-nam-va-uc-cung-dung-dau-bang-tu-than-gap-nhat-ngay-nao-185250404231615463.htm) - 17:09 04/04/2025
 - 🎉 [Tin vui bất ngờ cho người yêu thích bóng đá](https://thanhnien.vn/tin-vui-bat-ngo-cho-nguoi-yeu-thich-bong-da-185250404223227779.htm) - 17:08 04/04/2025
