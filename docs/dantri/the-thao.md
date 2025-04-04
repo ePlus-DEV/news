@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [U17 Việt Nam 0-0 U17 Australia &lpar;hiệp 1&rpar;: Thế trận chủ động](https://dantri.com.vn/the-thao/u17-viet-nam-0-0-u17-australia-hiep-1-the-tran-chu-dong-20250404214142673.htm) - 14:41 04/04/2025
+- 🎡 [U17 Việt Nam 1-0 U17 Australia &lpar;hiệp 1&rpar;: Macnicol lập công chuộc lỗi](https://dantri.com.vn/the-thao/u17-viet-nam-1-0-u17-australia-hiep-1-macnicol-lap-cong-chuoc-loi-20250404214142673.htm) - 14:41 04/04/2025
 - 💯 [Ông Nguyễn Danh Hoàng Việt được bổ nhiệm làm Cục trưởng Cục TDTT Việt Nam](https://dantri.com.vn/the-thao/ong-nguyen-danh-hoang-viet-duoc-bo-nhiem-lam-cuc-truong-cuc-tdtt-viet-nam-20250404205903240.htm) - 14:00 04/04/2025
 - ⛽️ [Real Madrid nhận cú sốc lớn trước cuộc đối đầu với Arsenal](https://dantri.com.vn/the-thao/real-madrid-nhan-cu-soc-lon-truoc-cuoc-doi-dau-voi-arsenal-20250404190401612.htm) - 12:47 04/04/2025
 - 💃 [UEFA phản đối mở rộng World Cup, cơ hội của tuyển Việt Nam bị ảnh hưởng](https://dantri.com.vn/the-thao/uefa-phan-doi-mo-rong-world-cup-co-hoi-cua-tuyen-viet-nam-bi-anh-huong-20250404194227617.htm) - 12:42 04/04/2025
