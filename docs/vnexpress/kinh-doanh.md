@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [Campuchia hạ thuế hàng Mỹ từ 35% xuống 5%](https://vnexpress.net/campuchia-ha-thue-hang-my-tu-35-xuong-5-4870246.html) - 17:02 04/04/2025
 - 🐲 [Xuất khẩu Tháp báo lũ thông minh sang Philippines](https://vnexpress.net/xuat-khau-thap-bao-lu-thong-minh-sang-philippines-4870243.html) - 17:00 04/04/2025
 - 🔥 [Giá vàng thế giới lao dốc](https://vnexpress.net/gia-vang-the-gioi-lao-doc-4870235.html) - 15:23 04/04/2025
-- 🐵 [Chứng khoán Mỹ tiếp tục bị bán tháo](https://vnexpress.net/chung-khoan-my-tiep-tuc-bi-ban-thao-4870232.html) - 14:20 04/04/2025
+- 🐵 [Cổ phiếu Nike và nhiều hãng giày Mỹ tăng trở lại](https://vnexpress.net/chung-khoan-my-tiep-tuc-bi-ban-thao-4870232.html) - 14:20 04/04/2025
 - 🦅 [Ông Trump: &#39;Chính sách của tôi sẽ không bao giờ thay đổi&#39;](https://vnexpress.net/ong-trump-chinh-sach-cua-toi-se-khong-bao-gio-thay-doi-4870225.html) - 13:29 04/04/2025
 - 😺 [Việt Nam đề nghị Mỹ hoãn áp thuế 1-3 tháng để đàm phán](https://vnexpress.net/viet-nam-de-nghi-my-hoan-ap-thue-1-3-thang-de-dam-phan-4870218.html) - 12:37 04/04/2025
 - 🤩 [Merck Healthcare và Long Châu mở rộng hợp tác chiến lược](https://vnexpress.net/merck-healthcare-va-long-chau-mo-rong-hop-tac-chien-luoc-4870161.html) - 12:00 04/04/2025
