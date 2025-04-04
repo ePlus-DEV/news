@@ -5,7 +5,7 @@ sidebar_position: 9
 
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Lừa 1,3 triệu USD bằng chiêu bán &#39;bản đồ kho báu&#39;](https://vnexpress.net/lua-1-3-trieu-usd-bang-chieu-ban-ban-do-kho-bau-4870187.html) - 14:29 04/04/2025
-- 🐎 [U17 Việt Nam 0-0 Australia &lpar;H1&rpar;: Việt Nam tấn công](https://vnexpress.net/u17-viet-nam-v-u17-australia-4870233.html) - 14:26 04/04/2025
+- 🐎 [U17 Việt Nam - U17 Australia: Hai đội thực hiện nghi lễ trước trận](https://vnexpress.net/u17-viet-nam-v-u17-australia-4870233.html) - 14:26 04/04/2025
 - 🦍 [Chứng khoán Mỹ tiếp tục bị bán tháo](https://vnexpress.net/chung-khoan-my-tiep-tuc-bi-ban-thao-4870232.html) - 14:20 04/04/2025
 - 🏊 [Đi ăn uống với sếp, tôi chưa một lần phải trả tiền](https://vnexpress.net/di-an-uong-voi-sep-toi-chua-mot-lan-phai-tra-tien-4870151.html) - 14:00 04/04/2025
 - 🎊 [Cùng xây dựng tổ ấm hạnh phúc, anh nhé](https://vnexpress.net/cung-xay-dung-to-am-hanh-phuc-anh-nhe-4869857.html) - 14:00 04/04/2025
