@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [U17 Việt Nam 0-0 Australia &lpar;H1&rpar;: Đối phương hỏng 11m](https://vnexpress.net/u17-viet-nam-v-u17-australia-4870233.html) - 14:26 04/04/2025
+- 🪜 [U17 Việt Nam 1-1 Australia &lpar;H2&rpar;: Cầu thủ ghi bàn trẻ nhất V-League vào sân](https://vnexpress.net/u17-viet-nam-v-u17-australia-4870233.html) - 14:26 04/04/2025
 - 🦩 [Đồng đội của Ramos chấn thương sau tranh cãi với HLV](https://vnexpress.net/dong-doi-cua-ramos-chan-thuong-sau-tranh-cai-voi-hlv-4870165.html) - 11:55 04/04/2025
 - 🧰 [De Bruyne chia tay Man City](https://vnexpress.net/de-bruyne-chia-tay-man-city-4870200.html) - 11:10 04/04/2025
 - 🤗 [Arab Saudi 3 lần ngăn mộng World Cup của Trung Quốc](https://vnexpress.net/arab-saudi-3-lan-ngan-mong-world-cup-cua-trung-quoc-4870195.html) - 11:01 04/04/2025
