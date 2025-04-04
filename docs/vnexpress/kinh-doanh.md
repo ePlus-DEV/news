@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Chứng khoán mở cửa mất 75 điểm](https://vnexpress.net/chung-khoan-mo-cua-mat-75-diem-4869866.html) - 02:27 04/04/2025
+- ⛽️ [Chứng khoán ngày 4/4: Nhiều bluechip thoát giá sàn](https://vnexpress.net/chung-khoan-mo-cua-mat-75-diem-4869866.html) - 02:27 04/04/2025
 - 🐲 [Novaland có thể lỗ tiếp năm nay](https://vnexpress.net/novaland-co-the-lo-tiep-nam-nay-4869758.html) - 02:00 04/04/2025
 - 🔥 [DNSE nắm giữ 16,72% thị phần chứng khoán phái sinh](https://vnexpress.net/dnse-nam-giu-16-72-thi-phan-chung-khoan-phai-sinh-4869831.html) - 02:00 04/04/2025
 - 🐵 [Canada áp thuế trả đũa Mỹ](https://vnexpress.net/canada-ap-thue-tra-dua-my-4869795.html) - 01:58 04/04/2025
