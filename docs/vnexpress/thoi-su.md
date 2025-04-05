@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Đường sắt tốc độ cao Bắc Nam có thể khởi công vào cuối năm 2026](https://vnexpress.net/duong-sat-toc-do-cao-bac-nam-co-the-khoi-cong-vao-cuoi-nam-2026-4870528.html) - 13:10 05/04/2025
 - 🤓 [Ôtô tải lao khỏi taluy, tài xế tử vong](https://vnexpress.net/oto-tai-lao-khoi-taluy-tai-xe-tu-vong-4870487.html) - 10:47 05/04/2025
-- ⚗️ [Kỳ họp 9 Quốc hội khóa 15 khai mạc sớm nửa tháng](https://vnexpress.net/ky-hop-9-quoc-hoi-khoa-15-khai-mac-som-nua-thang-4870489.html) - 10:03 05/04/2025
+- ⚗️ [Kỳ họp thứ 9 Quốc hội khóa 15 khai mạc sớm nửa tháng](https://vnexpress.net/ky-hop-thu-9-quoc-hoi-khoa-15-khai-mac-som-nua-thang-4870489.html) - 10:03 05/04/2025
 - 🌊 [Cửa ngõ TP HCM ùn tắc ngày đầu nghỉ lễ](https://vnexpress.net/cua-ngo-tp-hcm-un-tac-ngay-dau-nghi-le-4870476.html) - 09:07 05/04/2025
 - 🎓 [Cuộc dội bom khiến 64 giáo viên, học sinh hy sinh hơn 50 năm trước](https://vnexpress.net/cuoc-doi-bom-khien-64-giao-vien-hoc-sinh-hy-sinh-hon-50-nam-truoc-4869152.html) - 07:01 05/04/2025
 - 🔥 [Ôtô nhích từng mét qua cầu Rạch Miễu, trạm thu phí xả 3 lần](https://vnexpress.net/oto-nhich-tung-met-qua-cau-rach-mieu-tram-thu-phi-xa-3-lan-4870425.html) - 06:33 05/04/2025
