@@ -5,7 +5,7 @@ sidebar_position: 19
 
 <!-- dantri-lao-dong-viec-lam:START -->
 - ⚗️ [Vụ hơn 300 giáo viên thành &quot;con nợ&quot;: Tìm thấy biên bản thể hiện đã nộp tiền](https://dantri.com.vn/lao-dong-viec-lam/vu-hon-300-giao-vien-thanh-con-no-tim-thay-bien-ban-the-hien-da-nop-tien-20250405120633895.htm) - 06:01 05/04/2025
-- 🙉 [Hành trình tái thiếu, từ &quot;người nhà nước&quot; ra làm... dân buôn](https://dantri.com.vn/lao-dong-viec-lam/hanh-trinh-tai-thieu-tu-nguoi-nha-nuoc-ra-lam-dan-buon-20250405114451360.htm) - 05:50 05/04/2025
+- 🙉 [Hành trình tái thiết, từ &quot;người nhà nước&quot; ra làm... dân buôn](https://dantri.com.vn/lao-dong-viec-lam/hanh-trinh-tai-thiet-tu-nguoi-nha-nuoc-ra-lam-dan-buon-20250405114451360.htm) - 05:50 05/04/2025
 - 🕴 [Thẻ bảo hiểm y tế giấy được cấp mới trong trường hợp nào?](https://dantri.com.vn/lao-dong-viec-lam/the-bao-hiem-y-te-giay-duoc-cap-moi-trong-truong-hop-nao-20250404180755761.htm) - 02:16 05/04/2025
 - 🧐 [Nghề rùng rợn, lóc xương rắn, lột xác chó nhà... bán hàng chục triệu đồng](https://dantri.com.vn/lao-dong-viec-lam/nghe-rung-ron-loc-xuong-ran-lot-xac-cho-nha-ban-hang-chuc-trieu-dong-20250404221542657.htm) - 01:16 05/04/2025
 - 🧑‍💻 [Người từ 75 tuổi không có lương hưu được hưởng trợ cấp hưu trí từ 1/7](https://dantri.com.vn/lao-dong-viec-lam/nguoi-tu-75-tuoi-khong-co-luong-huu-duoc-huong-tro-cap-huu-tri-tu-17-20250403211542804.htm) - 23:00 04/04/2025
