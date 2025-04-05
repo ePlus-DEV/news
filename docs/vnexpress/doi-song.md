@@ -7,7 +7,7 @@ sidebar_position: 6
 - 🚀 [Hàng trăm người dân xếp hàng nhận bib Kun Marathon Huế](https://vnexpress.net/hang-tram-nguoi-dan-xep-hang-nhan-bib-kun-marathon-hue-4870362.html) - 05:00 05/04/2025
 - 🎓 [Nghị lực của người đàn ông tai nạn thập tử nhất sinh](https://vnexpress.net/nghi-luc-cua-nguoi-dan-ong-tai-nan-thap-tu-nhat-sinh-4870093.html) - 03:35 05/04/2025
 - 🚦 [&#39;Mặt trời Hy vọng&#39; hướng tới hỗ trợ điều trị cho 1.000 bệnh nhi](https://vnexpress.net/mat-troi-hy-vong-huong-toi-ho-tro-dieu-tri-cho-1-000-benh-nhi-4870178.html) - 02:50 05/04/2025
-- 🦣 [Chuyện đời của &#39;cậu bé thần thái như giáo sư&#39;](https://vnexpress.net/chuyen-doi-cua-cau-be-than-thai-nhu-giao-su-4868472.html) - 23:29 04/04/2025
+- 🦣 [Điều ít biết về &#39;giáo sư nhí&#39; nổi tiếng mạng xã hội](https://vnexpress.net/dieu-it-biet-ve-giao-su-nhi-noi-tieng-mang-xa-hoi-4868472.html) - 23:29 04/04/2025
 - 🎓 [Người phụ nữ 10 năm sống không cần tiền](https://vnexpress.net/nguoi-phu-nu-10-nam-song-khong-can-tien-4870048.html) - 23:20 04/04/2025
 - 🎭 [Bi kịch đằng sau bữa ăn của người giúp việc](https://vnexpress.net/bi-kich-dang-sau-bua-an-cua-nguoi-giup-viec-4870108.html) - 23:00 04/04/2025
 - 🦅 [Đỡ đẻ cho sản phụ trở dạ bên đường](https://vnexpress.net/do-de-cho-san-phu-tro-da-ben-duong-4870204.html) - 12:49 04/04/2025
