@@ -27,7 +27,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo VnExpress
 <!-- vnexpress:START -->
 - 🚀 [Lái xe bị phạt 10 triệu đồng vì để cuộn thép 28 tấn rơi xuống đường](https://vnexpress.net/lai-xe-bi-phat-10-trieu-dong-vi-de-cuon-thep-28-tan-roi-xuong-duong-4870569.html) - 20:00 05/04/2025
-- 🧰 [Anh Khôi, Hồng Lệ dẫn đầu 42km VM Huế 2025](https://vnexpress.net/anh-khoi-hong-le-dan-dau-42km-vm-hue-2025-4870533.html) - 19:30 05/04/2025
+- 🧰 [Cự ly 21km VnExpress Marathon Huế 2025 xuất phát](https://vnexpress.net/cu-ly-21km-vnexpress-marathon-hue-2025-xuat-phat-4870533.html) - 19:30 05/04/2025
 - 🥰 [Chủ tịch xã bị đình chỉ công tác vì &#39;thiếu trách nhiệm&#39;](https://vnexpress.net/chu-tich-xa-bi-dinh-chi-cong-tac-vi-thieu-trach-nhiem-4870550.html) - 19:00 05/04/2025
 - 🌏 [&#39;Mua vàng cả đời không bằng tiền lời lô đất&#39;](https://vnexpress.net/mua-vang-ca-doi-khong-bang-tien-loi-lo-dat-4870493.html) - 18:10 05/04/2025
 - 🧐 [Ông Nguyễn Đức Thụy có thể nhận 176 tỷ đồng cổ tức từ LPBank](https://vnexpress.net/ong-nguyen-duc-thuy-co-the-nhan-176-ty-dong-co-tuc-tu-lpbank-4870576.html) - 17:52 05/04/2025
