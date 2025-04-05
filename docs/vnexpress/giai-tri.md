@@ -9,7 +9,7 @@ sidebar_position: 5
 - 🌮 [Vợ Messi phối đồ với váy áo đơn sắc](https://vnexpress.net/vo-messi-phoi-do-voi-vay-ao-don-sac-4870259.html) - 11:30 05/04/2025
 - 🧠 [Người mẫu Kỳ Hân phẫu thuật gãy xương đùi](https://vnexpress.net/nguoi-mau-ky-han-phau-thuat-gay-xuong-dui-4870407.html) - 09:19 05/04/2025
 - 👨‍🏫 [Minh tinh Thái du lịch Hà Nội](https://vnexpress.net/minh-tinh-thai-du-lich-ha-noi-4870452.html) - 08:01 05/04/2025
-- ⚗️ [Phim &#39;Địa đạo&#39; thu hơn 30 tỷ đồng ngày đầu](https://vnexpress.net/phim-dia-dao-thu-hon-30-ty-dong-ngay-dau-4870404.html) - 05:03 05/04/2025
+- ⚗️ [&#39;Địa đạo&#39; thu hơn 30 tỷ đồng sau ngày đầu công chiếu](https://vnexpress.net/dia-dao-thu-hon-30-ty-dong-sau-ngay-dau-cong-chieu-4870404.html) - 05:03 05/04/2025
 - 😎 [&#39;Khúc bi ca của gã dân quê&#39; - hồi ký Phó Tổng thống Mỹ](https://vnexpress.net/khuc-bi-ca-cua-ga-dan-que-hoi-ky-pho-tong-thong-my-4867969.html) - 03:47 05/04/2025
 - 🫣 [Tài tử &#39;Tiếu ngạo giang hồ&#39; thất vọng vì thu nhập thấp](https://vnexpress.net/tai-tu-tieu-ngao-giang-ho-that-vong-vi-thu-nhap-thap-4870344.html) - 03:31 05/04/2025
 - 🪄 [Sắc vóc cô gái Tuyên Quang thi Hoa hậu Việt Nam](https://vnexpress.net/sac-voc-co-gai-tuyen-quang-thi-hoa-hau-viet-nam-4869661.html) - 02:09 05/04/2025
