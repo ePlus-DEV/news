@@ -4,63 +4,63 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Quang Linh Vlogs xin lỗi người tin mình](https://video.vnexpress.net/quang-linh-vlogs-xin-loi-nguoi-tin-minh-4870361.html) - 04:06 05/04/2025
-- 🥰 [Bị kẻ xấu lấy thông tin cá nhân đi vay tiền, phải làm sao?](https://vnexpress.net/bi-ke-xau-lay-thong-tin-ca-nhan-di-vay-tien-phai-lam-sao-4870205.html) - 02:53 05/04/2025
-- 🎓 [Tội phạm môi trường sẽ bị phạt tiền tăng gấp 6 lần](https://vnexpress.net/toi-pham-moi-truong-se-bi-phat-tien-tang-gap-6-lan-4870262.html) - 01:24 05/04/2025
-- 🤓 [Nỗ lực sinh tồn của bé gái bị bắt cóc, diệt khẩu](https://vnexpress.net/no-luc-sinh-ton-cua-co-be-song-sot-khoi-ke-bat-coc-4870162.html) - 17:00 04/04/2025
-- 🎊 [Lĩnh 9 năm tù vì tấn công vào vùng cổ hàng xóm](https://vnexpress.net/linh-9-nam-tu-vi-tan-cong-vao-vung-co-hang-xom-4870042.html) - 17:00 04/04/2025
-- 🙉 [Lừa 1,3 triệu USD bằng chiêu bán &#39;bản đồ kho báu&#39;](https://vnexpress.net/lua-1-3-trieu-usd-bang-chieu-ban-ban-do-kho-bau-4870187.html) - 14:29 04/04/2025
-- 🤡 [Quang Linh Vlogs, Hằng Du Mục bị bắt](https://vnexpress.net/quang-linh-vlog-hang-du-muc-bi-khoi-to-4870210.html) - 11:35 04/04/2025
-- 🗽 [30 người liên quan ba vụ án ở tập đoàn Thuận An bị khởi tố](https://vnexpress.net/bo-cong-an-dieu-tra-ba-vu-an-lien-quan-tap-doan-thuan-an-4870206.html) - 11:31 04/04/2025
-- 🌋 [Dàn cảnh đánh bài ăn tiền để cướp tài sản](https://vnexpress.net/dan-canh-danh-bai-an-tien-de-cuop-tai-san-4870163.html) - 11:22 04/04/2025
-- 🎬 [Chủ tịch HĐQT Công ty Cây xanh Công Minh bị truy nã](https://vnexpress.net/chu-tich-hdqt-cong-ty-cay-xanh-cong-minh-bi-truy-na-4870192.html) - 11:12 04/04/2025
-- 💯 [Thêm 27 hành vi dù chỉ chuẩn bị phạm tội cũng có thể bị đi tù](https://vnexpress.net/them-27-hanh-vi-du-chi-chuan-bi-pham-toi-cung-co-the-bi-di-tu-4870087.html) - 10:51 04/04/2025
-- 🌏 [Đột nhập nhà hàng xóm trộm tiền](https://vnexpress.net/dot-nhap-nha-hang-xom-trom-tien-4870060.html) - 09:13 04/04/2025
-- 🌊 [Đề xuất không tổ chức cơ quan điều tra của VKSND Tối cao](https://vnexpress.net/de-xuat-khong-to-chuc-co-quan-dieu-tra-cua-vksnd-toi-cao-4870084.html) - 08:39 04/04/2025
-- 💂 [6 cựu cầu thủ Bà Rịa - Vũng Tàu bán độ như thế nào](https://vnexpress.net/6-cuu-cau-thu-ba-ria-vung-tau-ban-do-nhu-the-nao-4870023.html) - 06:36 04/04/2025
-- 🎡 [Thanh tra kiến nghị Bộ Y tế bồi thường tại dự án Bệnh viện Bạch Mai 2 và Việt Đức 2](https://vnexpress.net/thanh-tra-bo-y-te-can-boi-thuong-tai-du-an-benh-vien-bach-mai-2-va-viet-duc-2-4869983.html) - 06:01 04/04/2025
-- 🫶 [Cô gái bị phạt tù vì vu cáo người lạ hiếp dâm](https://vnexpress.net/co-gai-bi-phat-tu-vi-vu-cao-nguoi-la-hiep-dam-4869973.html) - 04:33 04/04/2025
-- 🐲 [Bộ Công an đề xuất bỏ án tử hình với 8 tội danh](https://vnexpress.net/bo-cong-an-de-xuat-bo-an-tu-hinh-voi-8-toi-danh-4869907.html) - 03:38 04/04/2025
-- 🚀 [Hai dự án Bệnh viện Bạch Mai 2 và Việt Đức 2 gây lãng phí hơn 1.253 tỷ đồng](https://vnexpress.net/hai-du-an-benh-vien-bach-mai-2-va-viet-duc-2-gay-lang-phi-hon-1-253-ty-dong-4869883.html) - 03:00 04/04/2025
-- 🎊 [Sinh viên làm thêm ngày Giỗ Tổ, trả lương bao nhiêu mới đúng?](https://vnexpress.net/luong-nhan-vien-quan-ca-phe-dip-le-gio-to-hung-vuong-la-bao-nhieu-4869513.html) - 23:00 03/04/2025
-- 🤗 [Cơn cuồng ghen khiến kẻ bất hảo thành &#39;nữ tử tù trẻ nhất Mỹ&#39;](https://vnexpress.net/con-cuong-ghen-khien-ke-bat-hao-thanh-nu-tu-tu-tre-nhat-nuoc-my-4869643.html) - 17:00 03/04/2025
-- 🗽 [Bảo vệ Bến xe Đồng Nai xô xát với hành khách](https://vnexpress.net/bao-ve-ben-xe-dong-nai-xo-xat-voi-hanh-khach-4869726.html) - 14:29 03/04/2025
-- 🕴 [Cán bộ đăng ký đất đai &#39;nhận tiền&#39; để làm thủ tục nhanh](https://vnexpress.net/can-bo-dang-ky-dat-dai-nhan-tien-de-lam-thu-tuc-nhanh-4869697.html) - 13:34 03/04/2025
-- 🌜 [Kiện bác sĩ vì &#39;ngực giả quá lớn&#39; phá hủy sự nghiệp](https://vnexpress.net/kien-bac-si-vi-nguc-gia-qua-lon-pha-huy-su-nghiep-4869684.html) - 13:20 03/04/2025
-- 🧑‍🏫 [Nhóm người xô xát khiến bé 2 tuổi chấn thương đầu bị bắt](https://vnexpress.net/nhom-nguoi-xo-xat-khien-be-2-tuoi-chan-thuong-dau-bi-bat-4869688.html) - 11:41 03/04/2025
-- 🦩 [Bị phạt vì ngủ trong ôtô đỗ ở sân nhà](https://vnexpress.net/bi-phat-vi-ngu-trong-oto-do-o-san-nha-4869601.html) - 10:38 03/04/2025
-- 💼 [Bà Trương Mỹ Lan nói muốn được &#39;giảm sâu&#39; mức án](https://vnexpress.net/ba-truong-my-lan-noi-muon-duoc-giam-sau-muc-an-4869533.html) - 08:41 03/04/2025
-- 💫 [Dùng cái chết của con 3 tuổi để lừa đảo từ thiện, lấy tiền đánh bạc](https://vnexpress.net/dung-cai-chet-cua-con-3-tuoi-de-lua-dao-tu-thien-lay-tien-danh-bac-4869523.html) - 07:03 03/04/2025
-- 🦅 [Bác sĩ thẩm mỹ dỏm bỏ mặc bệnh nhân chết não](https://vnexpress.net/bac-si-tham-my-dom-bo-mac-benh-nhan-chet-nao-4869487.html) - 06:47 03/04/2025
-- 🧑‍💻 [Phá két sắt, trộm hơn bốn cây vàng](https://vnexpress.net/pha-ket-sat-trom-hon-bon-cay-vang-4869360.html) - 03:32 03/04/2025
-- 💻 [Bà Trương Mỹ Lan được VKS đề nghị giảm án chung thân tội lừa đảo](https://vnexpress.net/ba-truong-my-lan-duoc-vks-de-nghi-giam-an-chung-than-toi-lua-dao-4869357.html) - 02:51 03/04/2025
-- 🤠 [Phạm nhân trốn trại ở Thanh Hóa bị bắt](https://vnexpress.net/pham-nhan-tron-trai-o-thanh-hoa-bi-bat-4869393.html) - 02:42 03/04/2025
-- 🧑‍🏫 [Dùng tàu ngầm vận chuyển 6,5 tấn ma túy từ Brazil sang Bồ Đào Nha](https://vnexpress.net/dung-tau-ngam-van-chuyen-6-5-tan-ma-tuy-tu-brazil-sang-bo-dao-nha-4869277.html) - 00:50 03/04/2025
-- 🌈 [Vụ giấu xác chồng vì ghen rúng động Hong Kong](https://vnexpress.net/vu-giau-xac-chong-vi-ghen-rung-dong-hong-kong-4869194.html) - 17:00 02/04/2025
-- 🌮 [Có được &#39;đuổi đi&#39; để bán nhà khi đang cho thuê dài hạn?](https://vnexpress.net/co-duoc-duoi-di-de-ban-nha-khi-dang-cho-thue-dai-han-4868484.html) - 17:00 02/04/2025
-- 🐲 [Băng nhóm lợi dụng quen biết CSGT để &#39;bảo kê xe&#39; lĩnh án](https://vnexpress.net/bang-nhom-loi-dung-quen-biet-csgt-de-bao-ke-xe-linh-an-4869210.html) - 13:05 02/04/2025
-- 🧰 [Mất 9 tỷ đồng vì tin lời &#39;bạn trai trên mạng&#39; đầu tư tiền ảo](https://vnexpress.net/mat-9-ty-dong-vi-tin-loi-ban-trai-tren-mang-dau-tu-tien-ao-4869247.html) - 12:41 02/04/2025
-- 💄 [Cảnh sát nổ súng khống chế kẻ trốn truy nã](https://vnexpress.net/canh-sat-no-sung-khong-che-ke-tron-truy-na-4869246.html) - 12:29 02/04/2025
-- ⛽️ [Phó Chi cục Biển, Hải đảo và Kiểm ngư Cà Mau bị bắt](https://vnexpress.net/pho-chi-cuc-bien-hai-dao-va-kiem-ngu-ca-mau-bi-bat-4869238.html) - 11:28 02/04/2025
-- ⛽️ [Bé trai nhập viện sau xô xát của cha mẹ với người đi đường](https://vnexpress.net/be-trai-nhap-vien-sau-xo-xat-cua-cha-me-voi-nguoi-di-duong-4869220.html) - 11:18 02/04/2025
-- 💂 [Đường dây cung cấp 5 tấn xyanua cho vàng tặc bị phát hiện](https://vnexpress.net/duong-day-cung-cap-5-tan-xyanua-cho-vang-tac-bi-phat-hien-4869141.html) - 09:17 02/04/2025
-- 🤔 [Khủng hoảng thiếu lính canh nhà tù ở New York](https://vnexpress.net/khung-hoang-thieu-linh-canh-nha-tu-o-new-york-4869063.html) - 08:38 02/04/2025
-- 🧐 [Kêu gọi 20 người liên quan vụ đánh bạc ở khách sạn Pullman ra trình diện](https://vnexpress.net/keu-goi-20-nguoi-lien-quan-vu-danh-bac-o-khach-san-pullman-ra-trinh-dien-4869100.html) - 08:03 02/04/2025
-- 🎃 [Cựu chủ tịch tỉnh An Giang &#39;nâng đỡ cát tặc&#39; bị phạt hơn 8 năm tù](https://vnexpress.net/cuu-chu-tich-tinh-an-giang-nang-do-cat-tac-bi-phat-hon-8-nam-tu-4868994.html) - 06:22 02/04/2025
-- 🤓 [Lỡ vay tiền qua app online với lãi suất cao, giờ phải làm sao?](https://vnexpress.net/lo-vay-tien-qua-app-online-voi-lai-suat-cao-phai-lam-sao-4868747.html) - 04:40 02/04/2025
-- 💃 [Thi thể không nguyên vẹn dạt vào bãi biển Phú Yên](https://vnexpress.net/thi-the-khong-nguyen-ven-dat-vao-bai-bien-phu-yen-4868988.html) - 04:23 02/04/2025
-- 🐵 [Thanh niên bám theo cô gái vào ngõ cướp điện thoại](https://video.vnexpress.net/thanh-nien-bam-theo-co-gai-vao-ngo-cuop-dien-thoai-4868783.html) - 04:16 02/04/2025
-- 🤖 [Hai dự án nghìn tỷ ở Hà Nội bị đưa vào diện theo dõi lãng phí](https://vnexpress.net/hai-du-an-nghin-ty-o-ha-noi-bi-dua-vao-dien-theo-doi-lang-phi-4867987.html) - 03:05 02/04/2025
-- ⚗️ [10 thiếu niên suýt chém đối thủ vì tiếng nẹt pô](https://vnexpress.net/10-thieu-nien-suyt-chem-doi-thu-vi-tieng-net-po-4868905.html) - 03:02 02/04/2025
-- 🌏 [Vụ án thi thể trong hồ bơi hai ngày không ai phát hiện](https://vnexpress.net/vu-an-thi-the-trong-ho-boi-hai-ngay-khong-ai-phat-hien-4868726.html) - 17:00 01/04/2025
-- 🦆 [Nhà xây sau cưới đương nhiên là tài sản chung dù vợ &#39;không góp gì&#39;?](https://vnexpress.net/nha-xay-sau-cuoi-duong-nhien-la-tai-san-chung-du-vo-khong-gop-gi-4867795.html) - 17:00 01/04/2025
-- 🐎 [Kẻ đoạt mạng tài xế từ cuốc xe 100.000 đồng bị tuyên tử hình](https://vnexpress.net/ke-doat-mang-tai-xe-tu-cuoc-xe-100-000-dong-bi-tuyen-tu-hinh-4868725.html) - 10:59 01/04/2025
-- 😎 [Nói dối cần tiền &#39;cứu mạng&#39; để lừa hàng xóm](https://vnexpress.net/noi-doi-can-tien-cuu-mang-de-lua-hang-xom-4868688.html) - 10:00 01/04/2025
-- 💪 [Cựu phó giám đốc Sở Nội vụ bị khởi tố sau sai phạm của cấp dưới](https://vnexpress.net/cuu-pho-giam-doc-so-noi-vu-bi-khoi-to-sau-sai-pham-cua-cap-duoi-4868681.html) - 09:46 01/04/2025
-- 🤡 [Công an truy tìm phạm nhân trốn trại ở Thanh Hóa](https://vnexpress.net/cong-an-truy-tim-pham-nhan-tron-trai-o-thanh-hoa-4868679.html) - 09:22 01/04/2025
-- 🌁 [Tên trộm đâm chết người truy bắt](https://vnexpress.net/ten-trom-dam-chet-nguoi-truy-bat-4868478.html) - 05:53 01/04/2025
-- 🔥 [Triệu phú tiền điện tử thành mục tiêu của tội phạm vì khoe giàu](https://vnexpress.net/cac-trieu-phu-tien-dien-tu-thanh-muc-tieu-cua-toi-pham-vi-khoe-giau-4868491.html) - 05:46 01/04/2025
-- 🔥 [Mẹ chồng, nàng dâu bị cáo buộc điều hành đường dây mại dâm](https://vnexpress.net/me-chong-nang-dau-bi-cao-buoc-dieu-hanh-duong-day-mai-dam-4868533.html) - 05:45 01/04/2025
-- 👺 [Nghi phạm sát hại 2 mẹ con ở Vĩnh Long bị bắt](https://vnexpress.net/nghi-pham-sat-hai-2-me-con-o-vinh-long-bi-bat-4868538.html) - 05:41 01/04/2025
-- 🎊 [Công an TP HCM dồn tổng lực tấn công tội phạm trong 50 ngày đêm](https://vnexpress.net/cong-an-tp-hcm-don-tong-luc-tan-cong-toi-pham-trong-50-ngay-dem-4868350.html) - 03:30 01/04/2025
-- 🎊 [Đặt cuốc taxi gian lận để chiếm đoạt tiền thanh toán trực tuyến](https://vnexpress.net/dat-cuoc-taxi-gian-lan-de-chiem-doat-tien-thanh-toan-truc-tuyen-4868404.html) - 02:59 01/04/2025<!-- vnexpress-phap-luat:END -->
+- 😎 [Cô gái dùng AI giúp cảnh sát bắt kẻ điều chế ma túy trong homestay](https://vnexpress.net/co-gai-dung-ai-giup-canh-sat-bat-ke-dieu-che-ma-tuy-trong-homestay-4870377.html) - 04:37 05/04/2025
+- 🥰 [Bốn lãnh đạo khoáng sản Thiên An Phát bị bắt](https://vnexpress.net/bon-lanh-dao-khoang-san-thien-an-phat-bi-bat-4870393.html) - 04:29 05/04/2025
+- 🎓 [Hằng Du Mục, Quang Linh Vlogs thừa nhận sai phạm tại cơ quan điều tra](https://vnexpress.net/hang-du-muc-quang-linh-vlogs-thua-nhan-sai-pham-tai-co-quan-dieu-tra-4870338.html) - 04:21 05/04/2025
+- 🤓 [Quang Linh Vlogs: &#39;Tôi nhận thức được hành vi vi phạm pháp luật&#39;](https://video.vnexpress.net/quang-linh-vlogs-toi-nhan-thuc-duoc-hanh-vi-vi-pham-phap-luat-4870361.html) - 04:06 05/04/2025
+- 🎊 [Bị kẻ xấu lấy thông tin cá nhân đi vay tiền, phải làm sao?](https://vnexpress.net/bi-ke-xau-lay-thong-tin-ca-nhan-di-vay-tien-phai-lam-sao-4870205.html) - 02:53 05/04/2025
+- 🙉 [Tội phạm môi trường sẽ bị phạt tiền tăng gấp 6 lần](https://vnexpress.net/toi-pham-moi-truong-se-bi-phat-tien-tang-gap-6-lan-4870262.html) - 01:24 05/04/2025
+- 🤡 [Nỗ lực sinh tồn của bé gái bị bắt cóc, diệt khẩu](https://vnexpress.net/no-luc-sinh-ton-cua-co-be-song-sot-khoi-ke-bat-coc-4870162.html) - 17:00 04/04/2025
+- 🗽 [Lĩnh 9 năm tù vì tấn công vào vùng cổ hàng xóm](https://vnexpress.net/linh-9-nam-tu-vi-tan-cong-vao-vung-co-hang-xom-4870042.html) - 17:00 04/04/2025
+- 🌋 [Lừa 1,3 triệu USD bằng chiêu bán &#39;bản đồ kho báu&#39;](https://vnexpress.net/lua-1-3-trieu-usd-bang-chieu-ban-ban-do-kho-bau-4870187.html) - 14:29 04/04/2025
+- 🎬 [Quang Linh Vlogs, Hằng Du Mục bị bắt](https://vnexpress.net/quang-linh-vlog-hang-du-muc-bi-khoi-to-4870210.html) - 11:35 04/04/2025
+- 💯 [30 người liên quan ba vụ án ở tập đoàn Thuận An bị khởi tố](https://vnexpress.net/bo-cong-an-dieu-tra-ba-vu-an-lien-quan-tap-doan-thuan-an-4870206.html) - 11:31 04/04/2025
+- 🌏 [Dàn cảnh đánh bài ăn tiền để cướp tài sản](https://vnexpress.net/dan-canh-danh-bai-an-tien-de-cuop-tai-san-4870163.html) - 11:22 04/04/2025
+- 🌊 [Chủ tịch HĐQT Công ty Cây xanh Công Minh bị truy nã](https://vnexpress.net/chu-tich-hdqt-cong-ty-cay-xanh-cong-minh-bi-truy-na-4870192.html) - 11:12 04/04/2025
+- 💂 [Thêm 27 hành vi dù chỉ chuẩn bị phạm tội cũng có thể bị đi tù](https://vnexpress.net/them-27-hanh-vi-du-chi-chuan-bi-pham-toi-cung-co-the-bi-di-tu-4870087.html) - 10:51 04/04/2025
+- 🎡 [Đột nhập nhà hàng xóm trộm tiền](https://vnexpress.net/dot-nhap-nha-hang-xom-trom-tien-4870060.html) - 09:13 04/04/2025
+- 🫶 [Đề xuất không tổ chức cơ quan điều tra của VKSND Tối cao](https://vnexpress.net/de-xuat-khong-to-chuc-co-quan-dieu-tra-cua-vksnd-toi-cao-4870084.html) - 08:39 04/04/2025
+- 🐲 [6 cựu cầu thủ Bà Rịa - Vũng Tàu bán độ như thế nào](https://vnexpress.net/6-cuu-cau-thu-ba-ria-vung-tau-ban-do-nhu-the-nao-4870023.html) - 06:36 04/04/2025
+- 🚀 [Thanh tra kiến nghị Bộ Y tế bồi thường tại dự án Bệnh viện Bạch Mai 2 và Việt Đức 2](https://vnexpress.net/thanh-tra-bo-y-te-can-boi-thuong-tai-du-an-benh-vien-bach-mai-2-va-viet-duc-2-4869983.html) - 06:01 04/04/2025
+- 🎊 [Cô gái bị phạt tù vì vu cáo người lạ hiếp dâm](https://vnexpress.net/co-gai-bi-phat-tu-vi-vu-cao-nguoi-la-hiep-dam-4869973.html) - 04:33 04/04/2025
+- 🤗 [Bộ Công an đề xuất bỏ án tử hình với 8 tội danh](https://vnexpress.net/bo-cong-an-de-xuat-bo-an-tu-hinh-voi-8-toi-danh-4869907.html) - 03:38 04/04/2025
+- 🗽 [Hai dự án Bệnh viện Bạch Mai 2 và Việt Đức 2 gây lãng phí hơn 1.253 tỷ đồng](https://vnexpress.net/hai-du-an-benh-vien-bach-mai-2-va-viet-duc-2-gay-lang-phi-hon-1-253-ty-dong-4869883.html) - 03:00 04/04/2025
+- 🕴 [Sinh viên làm thêm ngày Giỗ Tổ, trả lương bao nhiêu mới đúng?](https://vnexpress.net/luong-nhan-vien-quan-ca-phe-dip-le-gio-to-hung-vuong-la-bao-nhieu-4869513.html) - 23:00 03/04/2025
+- 🌜 [Cơn cuồng ghen khiến kẻ bất hảo thành &#39;nữ tử tù trẻ nhất Mỹ&#39;](https://vnexpress.net/con-cuong-ghen-khien-ke-bat-hao-thanh-nu-tu-tu-tre-nhat-nuoc-my-4869643.html) - 17:00 03/04/2025
+- 🧑‍🏫 [Bảo vệ Bến xe Đồng Nai xô xát với hành khách](https://vnexpress.net/bao-ve-ben-xe-dong-nai-xo-xat-voi-hanh-khach-4869726.html) - 14:29 03/04/2025
+- 🦩 [Cán bộ đăng ký đất đai &#39;nhận tiền&#39; để làm thủ tục nhanh](https://vnexpress.net/can-bo-dang-ky-dat-dai-nhan-tien-de-lam-thu-tuc-nhanh-4869697.html) - 13:34 03/04/2025
+- 💼 [Kiện bác sĩ vì &#39;ngực giả quá lớn&#39; phá hủy sự nghiệp](https://vnexpress.net/kien-bac-si-vi-nguc-gia-qua-lon-pha-huy-su-nghiep-4869684.html) - 13:20 03/04/2025
+- 💫 [Nhóm người xô xát khiến bé 2 tuổi chấn thương đầu bị bắt](https://vnexpress.net/nhom-nguoi-xo-xat-khien-be-2-tuoi-chan-thuong-dau-bi-bat-4869688.html) - 11:41 03/04/2025
+- 🦅 [Bị phạt vì ngủ trong ôtô đỗ ở sân nhà](https://vnexpress.net/bi-phat-vi-ngu-trong-oto-do-o-san-nha-4869601.html) - 10:38 03/04/2025
+- 🧑‍💻 [Bà Trương Mỹ Lan nói muốn được &#39;giảm sâu&#39; mức án](https://vnexpress.net/ba-truong-my-lan-noi-muon-duoc-giam-sau-muc-an-4869533.html) - 08:41 03/04/2025
+- 💻 [Dùng cái chết của con 3 tuổi để lừa đảo từ thiện, lấy tiền đánh bạc](https://vnexpress.net/dung-cai-chet-cua-con-3-tuoi-de-lua-dao-tu-thien-lay-tien-danh-bac-4869523.html) - 07:03 03/04/2025
+- 🤠 [Bác sĩ thẩm mỹ dỏm bỏ mặc bệnh nhân chết não](https://vnexpress.net/bac-si-tham-my-dom-bo-mac-benh-nhan-chet-nao-4869487.html) - 06:47 03/04/2025
+- 🧑‍🏫 [Phá két sắt, trộm hơn bốn cây vàng](https://vnexpress.net/pha-ket-sat-trom-hon-bon-cay-vang-4869360.html) - 03:32 03/04/2025
+- 🌈 [Bà Trương Mỹ Lan được VKS đề nghị giảm án chung thân tội lừa đảo](https://vnexpress.net/ba-truong-my-lan-duoc-vks-de-nghi-giam-an-chung-than-toi-lua-dao-4869357.html) - 02:51 03/04/2025
+- 🌮 [Phạm nhân trốn trại ở Thanh Hóa bị bắt](https://vnexpress.net/pham-nhan-tron-trai-o-thanh-hoa-bi-bat-4869393.html) - 02:42 03/04/2025
+- 🐲 [Dùng tàu ngầm vận chuyển 6,5 tấn ma túy từ Brazil sang Bồ Đào Nha](https://vnexpress.net/dung-tau-ngam-van-chuyen-6-5-tan-ma-tuy-tu-brazil-sang-bo-dao-nha-4869277.html) - 00:50 03/04/2025
+- 🧰 [Vụ giấu xác chồng vì ghen rúng động Hong Kong](https://vnexpress.net/vu-giau-xac-chong-vi-ghen-rung-dong-hong-kong-4869194.html) - 17:00 02/04/2025
+- 💄 [Có được &#39;đuổi đi&#39; để bán nhà khi đang cho thuê dài hạn?](https://vnexpress.net/co-duoc-duoi-di-de-ban-nha-khi-dang-cho-thue-dai-han-4868484.html) - 17:00 02/04/2025
+- ⛽️ [Băng nhóm lợi dụng quen biết CSGT để &#39;bảo kê xe&#39; lĩnh án](https://vnexpress.net/bang-nhom-loi-dung-quen-biet-csgt-de-bao-ke-xe-linh-an-4869210.html) - 13:05 02/04/2025
+- ⛽️ [Mất 9 tỷ đồng vì tin lời &#39;bạn trai trên mạng&#39; đầu tư tiền ảo](https://vnexpress.net/mat-9-ty-dong-vi-tin-loi-ban-trai-tren-mang-dau-tu-tien-ao-4869247.html) - 12:41 02/04/2025
+- 💂 [Cảnh sát nổ súng khống chế kẻ trốn truy nã](https://vnexpress.net/canh-sat-no-sung-khong-che-ke-tron-truy-na-4869246.html) - 12:29 02/04/2025
+- 🤔 [Phó Chi cục Biển, Hải đảo và Kiểm ngư Cà Mau bị bắt](https://vnexpress.net/pho-chi-cuc-bien-hai-dao-va-kiem-ngu-ca-mau-bi-bat-4869238.html) - 11:28 02/04/2025
+- 🧐 [Bé trai nhập viện sau xô xát của cha mẹ với người đi đường](https://vnexpress.net/be-trai-nhap-vien-sau-xo-xat-cua-cha-me-voi-nguoi-di-duong-4869220.html) - 11:18 02/04/2025
+- 🎃 [Đường dây cung cấp 5 tấn xyanua cho vàng tặc bị phát hiện](https://vnexpress.net/duong-day-cung-cap-5-tan-xyanua-cho-vang-tac-bi-phat-hien-4869141.html) - 09:17 02/04/2025
+- 🤓 [Khủng hoảng thiếu lính canh nhà tù ở New York](https://vnexpress.net/khung-hoang-thieu-linh-canh-nha-tu-o-new-york-4869063.html) - 08:38 02/04/2025
+- 💃 [Kêu gọi 20 người liên quan vụ đánh bạc ở khách sạn Pullman ra trình diện](https://vnexpress.net/keu-goi-20-nguoi-lien-quan-vu-danh-bac-o-khach-san-pullman-ra-trinh-dien-4869100.html) - 08:03 02/04/2025
+- 🐵 [Cựu chủ tịch tỉnh An Giang &#39;nâng đỡ cát tặc&#39; bị phạt hơn 8 năm tù](https://vnexpress.net/cuu-chu-tich-tinh-an-giang-nang-do-cat-tac-bi-phat-hon-8-nam-tu-4868994.html) - 06:22 02/04/2025
+- 🤖 [Lỡ vay tiền qua app online với lãi suất cao, giờ phải làm sao?](https://vnexpress.net/lo-vay-tien-qua-app-online-voi-lai-suat-cao-phai-lam-sao-4868747.html) - 04:40 02/04/2025
+- ⚗️ [Thi thể không nguyên vẹn dạt vào bãi biển Phú Yên](https://vnexpress.net/thi-the-khong-nguyen-ven-dat-vao-bai-bien-phu-yen-4868988.html) - 04:23 02/04/2025
+- 🌏 [Thanh niên bám theo cô gái vào ngõ cướp điện thoại](https://video.vnexpress.net/thanh-nien-bam-theo-co-gai-vao-ngo-cuop-dien-thoai-4868783.html) - 04:16 02/04/2025
+- 🦆 [Hai dự án nghìn tỷ ở Hà Nội bị đưa vào diện theo dõi lãng phí](https://vnexpress.net/hai-du-an-nghin-ty-o-ha-noi-bi-dua-vao-dien-theo-doi-lang-phi-4867987.html) - 03:05 02/04/2025
+- 🐎 [10 thiếu niên suýt chém đối thủ vì tiếng nẹt pô](https://vnexpress.net/10-thieu-nien-suyt-chem-doi-thu-vi-tieng-net-po-4868905.html) - 03:02 02/04/2025
+- 😎 [Vụ án thi thể trong hồ bơi hai ngày không ai phát hiện](https://vnexpress.net/vu-an-thi-the-trong-ho-boi-hai-ngay-khong-ai-phat-hien-4868726.html) - 17:00 01/04/2025
+- 💪 [Nhà xây sau cưới đương nhiên là tài sản chung dù vợ &#39;không góp gì&#39;?](https://vnexpress.net/nha-xay-sau-cuoi-duong-nhien-la-tai-san-chung-du-vo-khong-gop-gi-4867795.html) - 17:00 01/04/2025
+- 🤡 [Kẻ đoạt mạng tài xế từ cuốc xe 100.000 đồng bị tuyên tử hình](https://vnexpress.net/ke-doat-mang-tai-xe-tu-cuoc-xe-100-000-dong-bi-tuyen-tu-hinh-4868725.html) - 10:59 01/04/2025
+- 🌁 [Nói dối cần tiền &#39;cứu mạng&#39; để lừa hàng xóm](https://vnexpress.net/noi-doi-can-tien-cuu-mang-de-lua-hang-xom-4868688.html) - 10:00 01/04/2025
+- 🔥 [Cựu phó giám đốc Sở Nội vụ bị khởi tố sau sai phạm của cấp dưới](https://vnexpress.net/cuu-pho-giam-doc-so-noi-vu-bi-khoi-to-sau-sai-pham-cua-cap-duoi-4868681.html) - 09:46 01/04/2025
+- 🔥 [Công an truy tìm phạm nhân trốn trại ở Thanh Hóa](https://vnexpress.net/cong-an-truy-tim-pham-nhan-tron-trai-o-thanh-hoa-4868679.html) - 09:22 01/04/2025
+- 👺 [Tên trộm đâm chết người truy bắt](https://vnexpress.net/ten-trom-dam-chet-nguoi-truy-bat-4868478.html) - 05:53 01/04/2025
+- 🎊 [Triệu phú tiền điện tử thành mục tiêu của tội phạm vì khoe giàu](https://vnexpress.net/cac-trieu-phu-tien-dien-tu-thanh-muc-tieu-cua-toi-pham-vi-khoe-giau-4868491.html) - 05:46 01/04/2025
+- 🎊 [Mẹ chồng, nàng dâu bị cáo buộc điều hành đường dây mại dâm](https://vnexpress.net/me-chong-nang-dau-bi-cao-buoc-dieu-hanh-duong-day-mai-dam-4868533.html) - 05:45 01/04/2025<!-- vnexpress-phap-luat:END -->
