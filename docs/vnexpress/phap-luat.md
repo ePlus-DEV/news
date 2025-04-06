@@ -4,14 +4,14 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Âm mưu gian dối của người đàn bà trả thù chồng cũ](https://vnexpress.net/am-muu-gian-doi-cua-nguoi-dan-ba-tra-thu-chong-cu-4870785.html) - 15:12 06/04/2025
-- 🥰 [Cuộc sống bỏ mặc gia đình của người mẹ &#39;hại con vì tiền bảo hiểm&#39;](https://vnexpress.net/cuoc-song-bo-mac-gia-dinh-cua-nguoi-me-hai-con-vi-tien-bao-hiem-4870680.html) - 10:10 06/04/2025
-- 🎓 [Đề xuất tiền tối thiểu quy kết đánh bạc tăng từ 5 lên 10 triệu đồng](https://vnexpress.net/de-xuat-tien-toi-thieu-quy-ket-danh-bac-tang-tu-5-len-10-trieu-dong-4870656.html) - 09:00 06/04/2025
-- 🤓 [Vợ chồng chủ quán truy bắt hai tên cướp điện thoại](https://video.vnexpress.net/vo-chong-chu-quan-truy-bat-hai-ten-cuop-dien-thoai-4870686.html) - 05:26 06/04/2025
-- 🎊 [Mạng lưới ấu dâm có 1,8 triệu người dùng bị Europol triệt phá](https://vnexpress.net/mang-luoi-au-dam-co-1-8-trieu-nguoi-dung-bi-triet-pha-4870673.html) - 04:27 06/04/2025
-- 🙉 [Sinh viên y khoa Bỉ thoát tội hiếp dâm vì &#39;trẻ và tài năng&#39;](https://vnexpress.net/sinh-vien-y-khoa-thoat-toi-hiep-dam-vi-tre-va-tai-nang-4870631.html) - 03:36 06/04/2025
-- 🤡 [Đi vay để cho vay nhằm hưởng chênh lệch, có phạm luật?](https://vnexpress.net/di-vay-de-cho-vay-nham-huong-chenh-lech-co-pham-luat-4869119.html) - 00:36 06/04/2025
-- 🗽 [Ăn cắp hũ tro cốt của bố người tình cũ để ép &#39;yêu lại từ đầu&#39;](https://vnexpress.net/an-cap-hu-tro-cot-cua-bo-nguoi-tinh-cu-de-ep-yeu-lai-tu-dau-4870799.html) - 00:00 06/04/2025
+- 😎 [Hiện trạng không hoạt động nhiều năm tại Bệnh viện Bạch Mai 2, Việt Đức 2&#39;](https://vnexpress.net/hien-trang-khong-hoat-dong-nhieu-nam-tai-benh-vien-bach-mai-2-viet-duc-2-4870130.html) - 17:00 06/04/2025
+- 🥰 [Âm mưu gian dối của người đàn bà trả thù chồng cũ](https://vnexpress.net/am-muu-gian-doi-cua-nguoi-dan-ba-tra-thu-chong-cu-4870785.html) - 15:12 06/04/2025
+- 🎓 [Người mẹ &#39;hại con vì tiền bảo hiểm&#39; thường bỏ nhà đi biền biệt](https://vnexpress.net/nguoi-me-hai-con-vi-tien-bao-hiem-thuong-bo-nha-di-bien-biet-4870680.html) - 10:10 06/04/2025
+- 🤓 [Đề xuất tiền tối thiểu quy kết đánh bạc tăng từ 5 lên 10 triệu đồng](https://vnexpress.net/de-xuat-tien-toi-thieu-quy-ket-danh-bac-tang-tu-5-len-10-trieu-dong-4870656.html) - 09:00 06/04/2025
+- 🎊 [Vợ chồng chủ quán truy bắt hai tên cướp điện thoại](https://video.vnexpress.net/vo-chong-chu-quan-truy-bat-hai-ten-cuop-dien-thoai-4870686.html) - 05:26 06/04/2025
+- 🙉 [Mạng lưới ấu dâm có 1,8 triệu người dùng bị Europol triệt phá](https://vnexpress.net/mang-luoi-au-dam-co-1-8-trieu-nguoi-dung-bi-triet-pha-4870673.html) - 04:27 06/04/2025
+- 🤡 [Sinh viên y khoa Bỉ thoát tội hiếp dâm vì &#39;trẻ và tài năng&#39;](https://vnexpress.net/sinh-vien-y-khoa-thoat-toi-hiep-dam-vi-tre-va-tai-nang-4870631.html) - 03:36 06/04/2025
+- 🗽 [Đi vay để cho vay nhằm hưởng chênh lệch, có phạm luật?](https://vnexpress.net/di-vay-de-cho-vay-nham-huong-chenh-lech-co-pham-luat-4869119.html) - 00:36 06/04/2025
 - 🌋 [Đề xuất nâng tiền phạt gấp 6, tăng án tù với người bán &#39;thực phẩm bẩn&#39;](https://vnexpress.net/de-xuat-nang-tien-phat-tang-an-tu-toi-thieu-voi-toi-pham-an-toan-thuc-pham-4870414.html) - 23:00 05/04/2025
 - 🎬 [Vì sao Quang Linh Vlogs và Hằng Du Mục bị bắt vì lừa dối khách hàng](https://vnexpress.net/vi-sao-quang-linh-vlogs-va-hang-du-muc-bi-bat-vi-lua-doi-khach-hang-4870482.html) - 17:04 05/04/2025
 - 💯 [Gây án với con ruột 6 tuổi để lấy tiền bảo hiểm](https://vnexpress.net/gay-an-voi-con-ruot-6-tuoi-de-lay-tien-bao-hiem-4870563.html) - 16:27 05/04/2025
