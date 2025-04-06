@@ -600,7 +600,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 👺 [Thực nghiệm hiện trường vụ mẹ giết con để trục lợi bảo hiểm ở Quảng Nam](https://tienphong.vn/thuc-nghiem-hien-truong-vu-me-giet-con-de-truc-loi-bao-hiem-o-quang-nam-post1731541.tpo) - 22:34 06/04/2025
 - 💪 [Xác định đội đầu tiên rớt hạng ở Premier League](https://tienphong.vn/xac-dinh-doi-dau-tien-rot-hang-o-premier-league-post1731542.tpo) - 22:26 06/04/2025
 - 💃 [[Video] Toàn cảnh vụ mẹ giết con để trục lợi bảo hiểm gây rúng động ở Quảng Nam](https://tienphong.vn/video-toan-canh-vu-me-giet-con-de-truc-loi-bao-hiem-gay-rung-dong-o-quang-nam-post1731526.tpo) - 22:22 06/04/2025
-- 🦍 [Trực tiếp MU vs Man City 0-0 &lpar;H2&rpar;: Onana cứu thua cho MU](https://tienphong.vn/truc-tiep-mu-vs-man-city-0-0-h2-onana-cuu-thua-cho-mu-post1731528.tpo) - 21:45 06/04/2025
+- 🦍 [MU và Man City cầm chân nhau sau trận đấu tẻ nhạt](https://tienphong.vn/mu-va-man-city-cam-chan-nhau-sau-tran-dau-te-nhat-post1731528.tpo) - 21:45 06/04/2025
 - 👹 [Lai Thai đến Việt Nam](https://tienphong.vn/lai-thai-den-viet-nam-post1731519.tpo) - 21:32 06/04/2025
 - 🌜 [Showbiz 6/4: Con gái nghệ sĩ Vũ Linh đính chính](https://tienphong.vn/showbiz-64-con-gai-nghe-si-vu-linh-dinh-chinh-post1731535.tpo) - 21:27 06/04/2025
 - 🎓 [Huỳnh Như đưa Tp Hồ Chí Minh vô địch cúp Quốc gia nữ 2025 sau trận cầu kịch tính với Thái Nguyên T&amp;T](https://tienphong.vn/huynh-nhu-dua-tp-ho-chi-minh-vo-dich-cup-quoc-gia-nu-2025-sau-tran-cau-kich-tinh-voi-thai-nguyen-tt-post1731532.tpo) - 21:25 06/04/2025
