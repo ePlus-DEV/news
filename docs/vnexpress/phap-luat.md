@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Hiện trạng không hoạt động nhiều năm tại Bệnh viện Bạch Mai 2, Việt Đức 2&#39;](https://vnexpress.net/hien-trang-khong-hoat-dong-nhieu-nam-tai-benh-vien-bach-mai-2-viet-duc-2-4870130.html) - 17:00 06/04/2025
+- 😎 [Hiện trạng không hoạt động nhiều năm tại Bệnh viện Bạch Mai 2, Việt Đức 2](https://vnexpress.net/hien-trang-khong-hoat-dong-nhieu-nam-tai-benh-vien-bach-mai-2-viet-duc-2-4870130.html) - 17:00 06/04/2025
 - 🥰 [Âm mưu gian dối của người đàn bà trả thù chồng cũ](https://vnexpress.net/am-muu-gian-doi-cua-nguoi-dan-ba-tra-thu-chong-cu-4870785.html) - 15:12 06/04/2025
 - 🎓 [Người mẹ &#39;hại con vì tiền bảo hiểm&#39; thường bỏ nhà đi biền biệt](https://vnexpress.net/nguoi-me-hai-con-vi-tien-bao-hiem-thuong-bo-nha-di-bien-biet-4870680.html) - 10:10 06/04/2025
 - 🤓 [Đề xuất tiền tối thiểu quy kết đánh bạc tăng từ 5 lên 10 triệu đồng](https://vnexpress.net/de-xuat-tien-toi-thieu-quy-ket-danh-bac-tang-tu-5-len-10-trieu-dong-4870656.html) - 09:00 06/04/2025
