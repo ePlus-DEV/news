@@ -10,7 +10,7 @@ sidebar_position: 1
 - 🌊 [Chủ tịch xã bị đình chỉ công tác vì &#39;lơ là công việc&#39;](https://vnexpress.net/chu-tich-xa-bi-dinh-chi-cong-tac-vi-lo-la-cong-viec-4870550.html) - 19:00 05/04/2025
 - 🎓 [Tượng đài 64 giáo viên và học sinh hy sinh khi đắp đê sông Mã](https://vnexpress.net/tuong-dai-64-giao-vien-va-hoc-sinh-hy-sinh-khi-dap-de-song-ma-4869196.html) - 17:00 05/04/2025
 - 🔥 [Khánh thành &#39;Nhà tắm Hy vọng&#39; đầu tiên tại Bắc Kạn](https://vnexpress.net/khanh-thanh-nha-tam-hy-vong-dau-tien-tai-bac-kan-4870263.html) - 16:16 05/04/2025
-- 🦏 [Đường sắt tốc độ cao Bắc Nam có thể khởi công vào cuối năm 2026](https://vnexpress.net/duong-sat-toc-do-cao-bac-nam-co-the-khoi-cong-vao-cuoi-nam-2026-4870528.html) - 13:10 05/04/2025
+- 🦏 [Đường sắt tốc độ cao Bắc Nam có thể khởi công cuối năm 2026](https://vnexpress.net/duong-sat-toc-do-cao-bac-nam-co-the-khoi-cong-cuoi-nam-2026-4870528.html) - 13:10 05/04/2025
 - 👺 [Xe bồn lao khỏi taluy, tài xế tử vong](https://vnexpress.net/xe-bon-lao-khoi-taluy-tai-xe-tu-vong-4870487.html) - 10:47 05/04/2025
 - 🧑‍🏫 [Kỳ họp thứ 9 Quốc hội khóa 15 khai mạc sớm nửa tháng](https://vnexpress.net/ky-hop-thu-9-quoc-hoi-khoa-15-khai-mac-som-nua-thang-4870489.html) - 10:03 05/04/2025
 - 🚦 [Cửa ngõ TP HCM ùn tắc ngày đầu nghỉ lễ](https://vnexpress.net/cua-ngo-tp-hcm-un-tac-ngay-dau-nghi-le-4870476.html) - 09:07 05/04/2025
