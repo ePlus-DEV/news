@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Từng thua U17 Việt Nam, các ngôi sao Nhật Bản nói gì khi gặp lại?](https://dantri.com.vn/the-thao/tung-thua-u17-viet-nam-cac-ngoi-sao-nhat-ban-noi-gi-khi-gap-lai-20250406185337101.htm) - 11:53 06/04/2025
+- 🎡 [Từng thua U17 Việt Nam, các ngôi sao Nhật Bản nói gì khi gặp lại?](https://dantri.com.vn/the-thao/tung-thua-u17-viet-nam-cac-ngoi-sao-nhat-ban-noi-gi-khi-gap-lai-20250406185337101.htm) - 12:22 06/04/2025
 - 💯 [Thần đồng Man Utd tuyên bố mạnh mẽ khi U17 Thái Lan sắp bị loại](https://dantri.com.vn/the-thao/than-dong-man-utd-tuyen-bo-manh-me-khi-u17-thai-lan-sap-bi-loai-20250406173032082.htm) - 11:05 06/04/2025
 - ⛽️ [Chuyên gia đưa ra lời khuyên để tránh chấn thương khi chơi pickleball](https://dantri.com.vn/the-thao/chuyen-gia-dua-ra-loi-khuyen-de-tranh-chan-thuong-khi-choi-pickleball-20250406180410235.htm) - 11:04 06/04/2025
 - 💃 [Lo ngại U17 Thái Lan bị loại sớm, Madam Pang có hành động đặc biệt](https://dantri.com.vn/the-thao/lo-ngai-u17-thai-lan-bi-loai-som-madam-pang-co-hanh-dong-dac-biet-20250406125327780.htm) - 09:35 06/04/2025
