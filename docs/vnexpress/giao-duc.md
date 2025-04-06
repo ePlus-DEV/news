@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Trường Nguyễn Tất Thành tăng chỉ tiêu, giảm điểm cộng lớp 6, 10](https://vnexpress.net/truong-nguyen-tat-thanh-tang-chi-tieu-giam-diem-cong-lop-6-10-4870729.html) - 14:28 06/04/2025
-- 🦆 [Thuế ở Việt Nam có từ bao giờ?](https://vnexpress.net/thue-o-viet-nam-co-tu-bao-gio-4870716.html) - 13:20 06/04/2025
+- 🦆 [Chị Dậu trong &#39;Tắt đèn&#39; phải đóng loại thuế nào?](https://vnexpress.net/chi-dau-trong-tat-den-phai-dong-loai-thue-nao-4870716.html) - 13:20 06/04/2025
 - 🦩 [Thứ trưởng Giáo dục: Chưa thể bắt buộc dạy hai buổi mỗi ngày ở THCS, THPT](https://vnexpress.net/thu-truong-giao-duc-chua-the-bat-buoc-day-hai-buoi-moi-ngay-o-thcs-thpt-4870748.html) - 10:53 06/04/2025
 - 🌮 [Gần 80% sinh viên Ngoại thương tốt nghiệp loại giỏi, xuất sắc](https://vnexpress.net/gan-80-sinh-vien-ngoai-thuong-tot-nghiep-loai-gioi-xuat-sac-4870717.html) - 09:35 06/04/2025
 - 🔭 [7 trường công bố điểm sàn thi đánh giá năng lực, tư duy](https://vnexpress.net/7-truong-cong-bo-diem-san-thi-danh-gia-nang-luc-tu-duy-4870389.html) - 06:22 06/04/2025
