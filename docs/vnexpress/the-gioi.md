@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Elon Musk bất đồng với cố vấn của ông Trump về thương mại](https://vnexpress.net/elon-musk-bat-dong-voi-co-van-cua-ong-trump-ve-thuong-mai-4871024.html) - 15:17 07/04/2025
-- 🕴 [Họa sĩ lo sự công việc bị ảnh hưởng vì ông Trump chê tranh xấu](https://vnexpress.net/hoa-si-lo-su-cong-viec-bi-anh-huong-vi-ong-trump-che-tranh-xau-4871010.html) - 13:24 07/04/2025
+- 🕴 [Họa sĩ lo sợ công việc bị ảnh hưởng vì ông Trump chê tranh xấu](https://vnexpress.net/hoa-si-lo-so-cong-viec-bi-anh-huong-vi-ong-trump-che-tranh-xau-4871010.html) - 13:24 07/04/2025
 - 🤭 [Sai sót khiến cố vấn Mỹ thêm nhầm nhà báo vào nhóm chat tác chiến](https://vnexpress.net/sai-sot-khien-co-van-my-them-nham-nha-bao-vao-nhom-chat-tac-chien-4871007.html) - 12:36 07/04/2025
 - 🧑‍💻 [Mỹ nêu lý do áp thuế quần đảo chỉ có chim cánh cụt](https://vnexpress.net/my-neu-ly-do-ap-thue-quan-dao-chi-co-chim-canh-cut-4871000.html) - 11:49 07/04/2025
 - 🦏 [Những người Bangkok sợ ở chung cư sau động đất](https://vnexpress.net/nhung-nguoi-bangkok-so-o-chung-cu-sau-dong-dat-4870994.html) - 11:28 07/04/2025
