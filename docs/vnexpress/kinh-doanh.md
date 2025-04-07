@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Chứng khoán Mỹ đỏ lửa](https://vnexpress.net/chung-khoan-my-do-lua-4871016.html) - 13:44 07/04/2025
+- ⛽️ [Chứng khoán Mỹ biến động mạnh](https://vnexpress.net/chung-khoan-my-ngay-7-4-4871016.html) - 13:44 07/04/2025
 - 🐲 [Khối ngoại bán ròng hơn tỷ USD từ đầu năm](https://vnexpress.net/khoi-ngoai-ban-rong-hon-ty-usd-tu-dau-nam-4870522.html) - 11:03 07/04/2025
 - 🔥 [Doanh nghiệp lọc dầu Việt đầu tiên đạt chuẩn giảm thải hàng không](https://vnexpress.net/doanh-nghiep-loc-dau-viet-dau-tien-dat-chuan-giam-thai-hang-khong-4870677.html) - 08:40 07/04/2025
 - 🐵 [Xuất khẩu sầu riêng tụt hạng](https://vnexpress.net/xuat-khau-sau-rieng-tut-hang-4870900.html) - 07:00 07/04/2025
