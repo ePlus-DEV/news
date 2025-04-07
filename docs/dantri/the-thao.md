@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [U17 Việt Nam hòa U17 Nhật Bản nhờ quả phạt đền ở phút bù giờ cuối cùng](https://dantri.com.vn/the-thao/u17-viet-nam-hoa-u17-nhat-ban-nho-qua-phat-den-o-phut-bu-gio-cuoi-cung-20250407213923409.htm) - 14:40 07/04/2025
+- 🎡 [U17 Việt Nam 0-1 U17 Nhật Bản &lpar;hiệp 2&rpar;: Thời điểm bung sức](https://dantri.com.vn/the-thao/u17-viet-nam-0-1-u17-nhat-ban-hiep-2-thoi-diem-bung-suc-20250407213923409.htm) - 14:40 07/04/2025
 - 💯 [Quang Hải kiến tạo thành bàn, CLB Công an Hà Nội đánh bại SHB Đà Nẵng](https://dantri.com.vn/the-thao/quang-hai-kien-tao-thanh-ban-clb-cong-an-ha-noi-danh-bai-shb-da-nang-20250407202336548.htm) - 13:55 07/04/2025
 - ⛽️ [Inter Milan muốn chiêu mộ ngôi sao có giá 140 tỷ đồng của Indonesia](https://dantri.com.vn/the-thao/inter-milan-muon-chieu-mo-ngoi-sao-co-gia-140-ty-dong-cua-indonesia-20250407190219763.htm) - 12:15 07/04/2025
 - 💃 [HLV U17 Nhật Bản chưa nuốt trôi thất bại trước U17 Việt Nam](https://dantri.com.vn/the-thao/hlv-u17-nhat-ban-chua-nuot-troi-that-bai-truoc-u17-viet-nam-20250407182444590.htm) - 11:24 07/04/2025
