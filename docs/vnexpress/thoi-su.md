@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [18 khẩu đại bác lắp đặt ở Bến Bạch Đằng](https://vnexpress.net/18-khau-dai-bac-lap-dat-o-ben-bach-dang-4870820.html) - 22:00 06/04/2025
+- 🦒 [15 khẩu đại bác lắp đặt ở Bến Bạch Đằng](https://vnexpress.net/15-khau-dai-bac-lap-dat-o-ben-bach-dang-4870820.html) - 22:00 06/04/2025
 - 🤓 [Hơn 10% thanh niên không việc làm, không được đào tạo](https://vnexpress.net/hon-10-thanh-nien-khong-viec-lam-khong-duoc-dao-tao-4870777.html) - 21:00 06/04/2025
 - ⚗️ [Nghề làm đặc sản nhút Thanh Chương](https://vnexpress.net/nghe-lam-dac-san-nhut-thanh-chuong-4870751.html) - 17:00 06/04/2025
 - 🌊 [Bé 3 tuổi nhanh trí cứu bạn rơi xuống hố](https://vnexpress.net/be-3-tuoi-nhanh-tri-cuu-ban-roi-xuong-ho-4870793.html) - 15:36 06/04/2025
