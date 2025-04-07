@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Chàng trai nâng điểm Viết IELTS lên 9 sau một năm ôn luyện](https://vnexpress.net/chang-trai-nang-diem-viet-ielts-len-9-sau-mot-nam-on-luyen-4870613.html) - 08:00 07/04/2025
+- 🤓 [Bí quyết đạt 9 điểm Viết IELTS của chàng trai 23 tuổi](https://vnexpress.net/bi-quyet-dat-9-diem-viet-ielts-cua-chang-trai-23-tuoi-4870613.html) - 08:00 07/04/2025
 - 🦆 [Các trường học thế giới dạy mấy buổi một ngày?](https://vnexpress.net/cac-truong-hoc-the-gioi-day-may-buoi-mot-ngay-4870260.html) - 04:00 07/04/2025
 - 🦩 [Nhiều đại học đào tạo cử nhân trong 3-3,5 năm](https://vnexpress.net/nhieu-dai-hoc-dao-tao-cu-nhan-trong-3-3-5-nam-4863247.html) - 01:00 07/04/2025
 - 🌮 [Cô gái Việt chiến thắng cuộc thi khởi nghiệp của Đại học Harvard](https://vnexpress.net/co-gai-viet-chien-thang-cuoc-thi-khoi-nghiep-cua-dai-hoc-harvard-4870028.html) - 23:00 06/04/2025
