@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [U17 Việt Nam - Nhật Bản: Hai đội khởi động](https://vnexpress.net/u17-viet-nam-v-u17-nhat-ban-4871006.html) - 14:19 07/04/2025
+- 🪜 [U17 Việt Nam 0-1 Nhật Bản &lpar;H1&rpar;: Đối phương ghi bàn từ phạt góc](https://vnexpress.net/u17-viet-nam-v-u17-nhat-ban-4871006.html) - 14:19 07/04/2025
 - 🦩 [HLV Shin Tae-yong bác tin trở lại Indonesia làm việc](https://vnexpress.net/hlv-shin-tae-yong-bac-tin-tro-lai-indonesia-lam-viec-4871004.html) - 11:32 07/04/2025
 - 🧰 [Tay đua 20 tuổi thắng chặng giải xe đạp xuyên Việt](https://vnexpress.net/tay-dua-20-tuoi-thang-chang-giai-xe-dap-xuyen-viet-4870959.html) - 08:12 07/04/2025
 - 🤗 [10 điểm nhấn của vòng 31 Ngoại hạng Anh](https://vnexpress.net/10-diem-nhan-cua-vong-31-ngoai-hang-anh-4870828.html) - 08:06 07/04/2025
