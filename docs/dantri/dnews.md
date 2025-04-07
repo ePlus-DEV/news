@@ -4,14 +4,14 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [&quot;Bi kịch&quot; vì lệ thuộc vào thuốc giảm đau](https://dantri.com.vn/suc-khoe/bi-kich-vi-le-thuoc-vao-thuoc-giam-dau-20250406135919078.htm) - 03:20 07/04/2025
-- 🌈 [Chứng tích nhà thờ, nơi hơn 500 người thiệt mạng sau trận bom 53 năm trước](https://dantri.com.vn/xa-hoi/chung-tich-nha-tho-noi-hon-500-nguoi-thiet-mang-sau-tran-bom-53-nam-truoc-20250402130535088.htm) - 03:15 07/04/2025
-- 🐎 [Tuyến đường sắt răng cưa huyền thoại nối cao nguyên với biển cả](https://dantri.com.vn/xa-hoi/tuyen-duong-sat-rang-cua-huyen-thoai-noi-cao-nguyen-voi-bien-ca-20250403110114019.htm) - 03:04 07/04/2025
-- 👹 [Một ngày khám phá Hà Nội: Ăn đủ món ngon, check-in toàn ảnh đẹp](https://dantri.com.vn/du-lich/mot-ngay-kham-pha-ha-noi-an-du-mon-ngon-check-in-toan-anh-dep-20250405112514965.htm) - 03:04 07/04/2025
-- 🫶 [Sáp nhập tỉnh thành, cuộc cách mạng &quot;chưa có tiền lệ&quot;](https://dantri.com.vn/noi-vu/sap-nhap-tinh-thanh-cuoc-cach-mang-chua-co-tien-le-20250405132243534.htm) - 01:00 07/04/2025
-- ⛽️ [Giết con để lấy tiền bảo hiểm: Kịch bản &quot;như phim&quot; và sự đổ vỡ về nhân tính](https://dantri.com.vn/phap-luat/giet-con-de-lay-tien-bao-hiem-kich-ban-nhu-phim-va-su-do-vo-ve-nhan-tinh-20250406204133775.htm) - 00:30 07/04/2025
-- 🌜 [Hướng dẫn tạo ảnh hộp đồ chơi mô hình 3D đang &quot;gây sốt&quot; mạng xã hội](https://dantri.com.vn/cong-nghe/huong-dan-tao-anh-hop-do-choi-mo-hinh-3d-dang-gay-sot-mang-xa-hoi-20250407044650973.htm) - 23:46 06/04/2025
-- 💪 [Novak Djokovic hướng tới danh hiệu thứ 100: Động lực mới, thành công mới](https://dantri.com.vn/the-thao/novak-djokovic-huong-toi-danh-hieu-thu-100-dong-luc-moi-thanh-cong-moi-20250406102007155.htm) - 23:10 06/04/2025
+- 🤠 [Novak Djokovic hướng tới danh hiệu thứ 100: Động lực mới, thành công mới](https://dantri.com.vn/the-thao/novak-djokovic-huong-toi-danh-hieu-thu-100-dong-luc-moi-thanh-cong-moi-20250406102007155.htm) - 05:10 07/04/2025
+- 🌈 [&quot;Bi kịch&quot; vì lệ thuộc vào thuốc giảm đau](https://dantri.com.vn/suc-khoe/bi-kich-vi-le-thuoc-vao-thuoc-giam-dau-20250406135919078.htm) - 03:20 07/04/2025
+- 🐎 [Chứng tích nhà thờ, nơi hơn 500 người thiệt mạng sau trận bom 53 năm trước](https://dantri.com.vn/xa-hoi/chung-tich-nha-tho-noi-hon-500-nguoi-thiet-mang-sau-tran-bom-53-nam-truoc-20250402130535088.htm) - 03:15 07/04/2025
+- 👹 [Tuyến đường sắt răng cưa huyền thoại nối cao nguyên với biển cả](https://dantri.com.vn/xa-hoi/tuyen-duong-sat-rang-cua-huyen-thoai-noi-cao-nguyen-voi-bien-ca-20250403110114019.htm) - 03:04 07/04/2025
+- 🫶 [Một ngày khám phá Hà Nội: Ăn đủ món ngon, check-in toàn ảnh đẹp](https://dantri.com.vn/du-lich/mot-ngay-kham-pha-ha-noi-an-du-mon-ngon-check-in-toan-anh-dep-20250405112514965.htm) - 03:04 07/04/2025
+- ⛽️ [Sáp nhập tỉnh thành, cuộc cách mạng &quot;chưa có tiền lệ&quot;](https://dantri.com.vn/noi-vu/sap-nhap-tinh-thanh-cuoc-cach-mang-chua-co-tien-le-20250405132243534.htm) - 01:00 07/04/2025
+- 🌜 [Giết con để lấy tiền bảo hiểm: Kịch bản &quot;như phim&quot; và sự đổ vỡ về nhân tính](https://dantri.com.vn/phap-luat/giet-con-de-lay-tien-bao-hiem-kich-ban-nhu-phim-va-su-do-vo-ve-nhan-tinh-20250406204133775.htm) - 00:30 07/04/2025
+- 💪 [Hướng dẫn tạo ảnh hộp đồ chơi mô hình 3D đang &quot;gây sốt&quot; mạng xã hội](https://dantri.com.vn/cong-nghe/huong-dan-tao-anh-hop-do-choi-mo-hinh-3d-dang-gay-sot-mang-xa-hoi-20250407044650973.htm) - 23:46 06/04/2025
 - 🎊 [Người tài cần gì khi đầu quân về khu vực công?](https://dantri.com.vn/lao-dong-viec-lam/nguoi-tai-can-gi-khi-dau-quan-ve-khu-vuc-cong-20250405225415342.htm) - 23:00 06/04/2025
 - 🔥 [Nổi bật tuần qua: Chó pitbull nhảy khỏi ô tô, tấn công người đi đường](https://dantri.com.vn/khoa-hoc/noi-bat-tuan-qua-cho-pitbull-nhay-khoi-o-to-tan-cong-nguoi-di-duong-20250406142438981.htm) - 16:29 06/04/2025
 - 👀 [&quot;Đã mắt - no căng bụng&quot; khi tham quan tại lễ hội bánh lớn nhất miền Tây](https://dantri.com.vn/du-lich/da-mat-no-cang-bung-khi-tham-quan-tai-le-hoi-banh-lon-nhat-mien-tay-20250406111047689.htm) - 05:15 06/04/2025
