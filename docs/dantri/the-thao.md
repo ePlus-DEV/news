@@ -5,8 +5,8 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [U17 UAE nhận tin dữ, U17 Việt Nam thêm cơ hội dự World Cup](https://dantri.com.vn/the-thao/u17-uae-nhan-tin-du-u17-viet-nam-them-co-hoi-du-world-cup-20250408200052881.htm) - 13:00 08/04/2025
-- 💯 [Thùy Linh và cầu lông Việt Nam quyết tâm gây bất ngờ tại giải châu Á](https://dantri.com.vn/the-thao/thuy-linh-va-cau-long-viet-nam-quyet-tam-gay-bat-ngo-tai-giai-chau-a-20250408164111696.htm) - 12:42 08/04/2025
-- ⛽️ [Phản ứng của báo Đông Nam Á khi U17 Việt Nam gây sốc trước Nhật Bản](https://dantri.com.vn/the-thao/phan-ung-cua-bao-dong-nam-a-khi-u17-viet-nam-gay-soc-truoc-nhat-ban-20250408184337659.htm) - 12:00 08/04/2025
+- 💯 [Phản ứng của báo Đông Nam Á khi U17 Việt Nam gây sốc trước Nhật Bản](https://dantri.com.vn/the-thao/phan-ung-cua-bao-dong-nam-a-khi-u17-viet-nam-gay-soc-truoc-nhat-ban-20250408184337659.htm) - 12:59 08/04/2025
+- ⛽️ [Thùy Linh và cầu lông Việt Nam quyết tâm gây bất ngờ tại giải châu Á](https://dantri.com.vn/the-thao/thuy-linh-va-cau-long-viet-nam-quyet-tam-gay-bat-ngo-tai-giai-chau-a-20250408164111696.htm) - 12:42 08/04/2025
 - 💃 [Báo Indonesia dự đoán kết cục kịch tính ở bảng đấu của U17 Việt Nam](https://dantri.com.vn/the-thao/bao-indonesia-du-doan-ket-cuc-kich-tinh-o-bang-dau-cua-u17-viet-nam-20250408105424509.htm) - 11:00 08/04/2025
 - 🌈 [Ngôi sao trẻ người Mỹ giành hai chức vô địch pickleball nhờ nghe lời mẹ](https://dantri.com.vn/the-thao/ngoi-sao-tre-nguoi-my-gianh-hai-chuc-vo-dich-pickleball-nho-nghe-loi-me-20250408134945193.htm) - 09:16 08/04/2025
 - 🦅 [Báo Hàn Quốc bình luận khi U17 Nhật Bản chia điểm trước U17 Việt Nam](https://dantri.com.vn/the-thao/bao-han-quoc-binh-luan-khi-u17-nhat-ban-chia-diem-truoc-u17-viet-nam-20250408132226606.htm) - 08:16 08/04/2025
