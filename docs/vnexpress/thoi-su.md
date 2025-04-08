@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [TP HCM nghiên cứu mở đường kết nối Long An hơn 8.800 tỷ đồng](https://vnexpress.net/tp-hcm-nghien-cuu-mo-duong-ket-noi-long-an-hon-8-800-ty-dong-4871268.html) - 17:00 08/04/2025
+- 🦒 [TP HCM nghiên cứu mở đường hơn 8.800 tỷ đồng kết nối Long An](https://vnexpress.net/tp-hcm-nghien-cuu-mo-duong-hon-8-800-ty-dong-ket-noi-long-an-4871268.html) - 17:00 08/04/2025
 - 🤓 [Chặn xe, đập vỡ kính sau mâu thuẫn giao thông](https://vnexpress.net/chan-xe-dap-vo-kinh-sau-mau-thuan-giao-thong-4871540.html) - 16:11 08/04/2025
 - ⚗️ [Người đàn ông thoát chết khi bị cuốn dưới gầm xe đầu kéo](https://vnexpress.net/nguoi-dan-ong-thoat-chet-khi-bi-cuon-duoi-gam-xe-dau-keo-4871517.html) - 13:51 08/04/2025
 - 🌊 [Tổng Bí thư: Tiến tới miễn viện phí cho toàn dân](https://vnexpress.net/tong-bi-thu-tien-toi-mien-vien-phi-cho-toan-dan-4871502.html) - 13:01 08/04/2025
