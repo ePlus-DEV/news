@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Cải lương qua hơn 100 năm ở Sài Gòn - TP HCM](https://vnexpress.net/cai-luong-qua-hon-100-nam-o-sai-gon-tp-hcm-4862056.html) - 03:20 08/04/2025
+- 🌏 [Sức sống của cải lương](https://vnexpress.net/suc-song-cua-cai-luong-4862056.html) - 03:20 08/04/2025
 - 💫 [&#39;Khi cuộc đời cho bạn quả quýt&#39; dẫn đầu đề cử Baeksang](https://vnexpress.net/khi-cuoc-doi-cho-ban-qua-quyt-dan-dau-de-cu-baeksang-4871103.html) - 03:11 08/04/2025
 - 🌮 [&#39;Ngọc nữ&#39; màn ảnh Nhật bị bắt](https://vnexpress.net/ngoc-nu-man-anh-nhat-bi-bat-4871130.html) - 03:10 08/04/2025
 - 🧠 [Phim &#39;Địa đạo&#39; vượt 80 tỷ đồng sau bốn ngày](https://vnexpress.net/phim-dia-dao-vuot-80-ty-dong-sau-bon-ngay-4871047.html) - 17:05 07/04/2025
