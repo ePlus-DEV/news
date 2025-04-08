@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [18 tháng &#39;tìm đường&#39; tới Đại học Oxford của nữ sinh Việt](https://vnexpress.net/18-thang-tim-duong-toi-dai-hoc-oxford-cua-nu-sinh-viet-4870480.html) - 23:00 07/04/2025
+- 🤓 [Trúng tuyển đại học số một thế giới sau 18 tháng &#39;tìm đường&#39;](https://vnexpress.net/trung-tuyen-dai-hoc-so-mot-the-gioi-sau-18-thang-tim-duong-4870480.html) - 23:00 07/04/2025
 - 🦆 [20 công việc có nhu cầu tuyển dụng cao ở Mỹ](https://vnexpress.net/20-cong-viec-co-nhu-cau-tuyen-dung-cao-o-my-4870700.html) - 17:00 07/04/2025
 - 🦩 [Cơ hội việc làm ngành Khoa học dữ liệu trong 3-4 năm tới ra sao?](https://vnexpress.net/co-hoi-viec-lam-nganh-khoa-hoc-du-lieu-trong-3-4-nam-toi-ra-sao-4869722.html) - 16:59 07/04/2025
 - 🌮 [Địa đạo Củ Chi thuộc tỉnh, thành nào?](https://vnexpress.net/dia-dao-cu-chi-thuoc-tinh-thanh-nao-4870970.html) - 13:00 07/04/2025
