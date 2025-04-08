@@ -590,7 +590,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Lực lượng cứu hộ Quân đội nhân dân Việt Nam hoàn thành nhiệm vụ tại Myanmar, về nước an toàn](https://tienphong.vn/luc-luong-cuu-ho-quan-doi-nhan-dan-viet-nam-hoan-thanh-nhiem-vu-tai-myanmar-ve-nuoc-an-toan-post1732053.tpo) - 22:33 08/04/2025
+- 💼 [Lực lượng cứu hộ, cứu nạn Việt Nam hoàn thành nhiệm vụ tại Myanmar, về nước an toàn](https://tienphong.vn/luc-luong-cuu-ho-cuu-nan-viet-nam-hoan-thanh-nhiem-vu-tai-myanmar-ve-nuoc-an-toan-post1732053.tpo) - 22:33 08/04/2025
 - 🎊 [Chứng khoán toàn cầu thoát khỏi cú rơi lịch sử](https://tienphong.vn/chung-khoan-toan-cau-thoat-khoi-cu-roi-lich-su-post1732051.tpo) - 22:08 08/04/2025
 - 💼 [&#39;Địa đạo&#39; phải thu 100 tỷ đồng mới hòa vốn](https://tienphong.vn/dia-dao-phai-thu-100-ty-dong-moi-hoa-von-post1732045.tpo) - 22:07 08/04/2025
 - 👺 [Tổng Bí thư Tô Lâm: Tiến tới miễn viện phí cho tất cả người dân](https://tienphong.vn/tong-bi-thu-to-lam-tien-toi-mien-vien-phi-cho-tat-ca-nguoi-dan-post1732049.tpo) - 22:01 08/04/2025
