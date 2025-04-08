@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Arsenal đè bẹp Real ở Champíon League](https://vnexpress.net/arsenal-de-bep-real-o-champion-league-4871552.html) - 20:55 08/04/2025
+- 🪜 [Arsenal đè bẹp Real ở Champion League](https://vnexpress.net/arsenal-de-bep-real-o-champion-league-4871552.html) - 20:55 08/04/2025
 - 🦩 [Mijatovic: &#39;Arsenal là mối nguy thực sự với Real Madrid&#39;](https://vnexpress.net/mijatovic-arsenal-la-moi-nguy-thuc-su-voi-real-madrid-4871483.html) - 12:08 08/04/2025
 - 🧰 [Võ sĩ MMA bị đấm văng khỏi lồng bát giác sau khi hôn đối thủ](https://vnexpress.net/vo-si-mma-bi-dam-vang-khoi-long-bat-giac-sau-khi-hon-doi-thu-4871411.html) - 11:30 08/04/2025
 - 🤗 [Merson: &#39;Arsenal cần thắng Real ít nhất 2 bàn ở lượt đi&#39;](https://vnexpress.net/merson-arsenal-can-thang-real-it-nhat-2-ban-o-luot-di-4871357.html) - 11:30 08/04/2025
