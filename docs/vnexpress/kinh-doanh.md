@@ -4,8 +4,8 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Ông Trump hoãn áp thuế 90 ngày](https://vnexpress.net/ong-trump-hoan-ap-thue-90-ngay-4872033.html) - 17:35 09/04/2025
-- 🐲 [Chứng khoán Mỹ quay đầu tăng](https://vnexpress.net/chung-khoan-my-quay-dau-tang-4872005.html) - 14:41 09/04/2025
+- ⛽️ [Ông Trump hoãn áp thuế 90 ngày với các nước trừ Trung Quốc](https://vnexpress.net/ong-trump-hoan-ap-thue-90-ngay-4872033.html) - 17:35 09/04/2025
+- 🐲 [Chứng khoán Mỹ tăng vọt sau tin hoãn thuế](https://vnexpress.net/chung-khoan-my-quay-dau-tang-4872005.html) - 14:41 09/04/2025
 - 🔥 [EU trả đũa thuế nhôm, thép Mỹ](https://vnexpress.net/eu-tra-dua-thue-nhom-thep-my-4872000.html) - 14:04 09/04/2025
 - 🐵 [Giá nhân dân tệ xuống thấp nhất 17 năm](https://vnexpress.net/gia-nhan-dan-te-xuong-thap-nhat-17-nam-4871995.html) - 13:13 09/04/2025
 - 🦅 [Tập đoàn Dầu khí Việt Nam có tên mới](https://vnexpress.net/tap-doan-dau-khi-viet-nam-co-ten-moi-4871964.html) - 13:07 09/04/2025
