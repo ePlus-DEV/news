@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Đề xuất chuyển nguyên trạng thành phố thuộc tỉnh là cấp cơ sở](https://vnexpress.net/de-xuat-chuyen-nguyen-trang-thanh-pho-thuoc-tinh-la-cap-co-so-4871832.html) - 10:15 09/04/2025
+- 🦒 [&#39;Cân nhắc chuyển nguyên trạng thành phố thuộc tỉnh là cấp cơ sở&#39;](https://vnexpress.net/can-nhac-chuyen-nguyen-trang-thanh-pho-thuoc-tinh-la-cap-co-so-4871832.html) - 10:15 09/04/2025
 - 🤓 [Tổng Bí thư: Trợ cấp ưu đãi người có công sẽ ở mức cao nhất](https://vnexpress.net/tong-bi-thu-tro-cap-uu-dai-nguoi-co-cong-se-o-muc-cao-nhat-4871836.html) - 08:55 09/04/2025
 - ⚗️ [Xe tải cháy trên cầu, cao tốc TP HCM - Long Thành ùn tắc 10 km](https://vnexpress.net/xe-tai-chay-tren-cau-cao-toc-tp-hcm-long-thanh-un-tac-10-km-4871842.html) - 07:46 09/04/2025
 - 🌊 [Ôtô liên tiếp đâm hỏng gác chắn đường sắt](https://vnexpress.net/oto-lien-tiep-dam-hong-gac-chan-duong-sat-4871774.html) - 07:16 09/04/2025
