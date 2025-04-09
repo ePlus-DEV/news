@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🪜 [Barca - Dortmund: Chờ bữa tiệc bàn thắng](https://vnexpress.net/barca-dortmund-cho-bua-tiec-ban-thang-4871553.html) - 11:30 09/04/2025
 - 🦩 [PSG - Aston Villa: Tiếp đà thăng hoa](https://vnexpress.net/psg-aston-villa-tiep-da-thang-hoa-4871551.html) - 11:29 09/04/2025
 - 🧰 [Yamal: &#39;Tôi thăng tiến nhanh như trò chơi điện tử&#39;](https://vnexpress.net/yamal-toi-thang-tien-nhanh-nhu-tro-choi-dien-tu-4871873.html) - 11:00 09/04/2025
-- 🤗 [Aston Villa mong CĐV Pháp không kích động Martinez](https://vnexpress.net/aston-villa-mong-cdv-phap-khong-kich-dong-martinez-4871854.html) - 11:00 09/04/2025
+- 🤗 [CĐV Pháp được đề nghị không kích động thủ môn Martinez](https://vnexpress.net/cdv-phap-duoc-de-nghi-khong-kich-dong-thu-mon-martinez-4871854.html) - 11:00 09/04/2025
 - 🥳 [VnExpress phối hợp tổ chức giải chạy tại Nghệ An](https://vnexpress.net/vnexpress-phoi-hop-to-chuc-giai-chay-tai-nghe-an-4871884.html) - 09:50 09/04/2025
 - 🦣 [Siêu giày đua mới của adidas vô địch ngay giải ra mắt](https://vnexpress.net/sieu-giay-dua-moi-cua-adidas-vo-dich-ngay-giai-ra-mat-4871902.html) - 08:35 09/04/2025
 - 🌜 [Ai có thể đứng ngang hàng với huyền thoại Faker?](https://vnexpress.net/ai-co-the-dung-ngang-hang-voi-huyen-thoai-faker-4871830.html) - 08:06 09/04/2025
