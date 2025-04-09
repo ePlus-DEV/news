@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Dự án tiêm kích F-47 nguy cơ hứng đòn vì cuộc chiến thuế](https://vnexpress.net/du-an-tiem-kich-f-47-nguy-co-hung-don-vi-cuoc-chien-thue-4871820.html) - 18:00 09/04/2025
-- 🕴 [Ukraine nói Nga bắt đầu chiến dịch tấn công mới](https://vnexpress.net/ukraine-noi-nga-bat-dau-chien-dich-tan-cong-moi-4872019.html) - 16:43 09/04/2025
-- 🤭 [Quân đội Mỹ có thể được cấp ngân sách 1.000 tỷ USD](https://vnexpress.net/quan-doi-my-co-the-duoc-cap-ngan-sach-1-000-ty-usd-4872009.html) - 15:18 09/04/2025
-- 🧑‍💻 [Ông Trump kêu gọi bình tĩnh khi các bên trả đũa thuế](https://vnexpress.net/ong-trump-keu-goi-binh-tinh-khi-cac-ben-tra-dua-thue-4872002.html) - 15:10 09/04/2025
-- 🦏 [Tổng Bí thư: Việt Nam sẽ tăng trao đổi thương mại với Tây Ban Nha](https://vnexpress.net/tong-bi-thu-viet-nam-se-tang-trao-doi-thuong-mai-voi-tay-ban-nha-4872007.html) - 15:06 09/04/2025
-- 🦒 [Uzbekistan ký thỏa thuận khoáng sản với Mỹ](https://vnexpress.net/uzbekistan-ky-thoa-thuan-khoang-san-voi-my-4871998.html) - 14:01 09/04/2025
-- 🌈 [Những người Trung Quốc sẵn sàng từ bỏ hàng Mỹ vì thuế quan](https://vnexpress.net/nhung-nguoi-trung-quoc-san-sang-tu-bo-hang-my-vi-thue-quan-4871986.html) - 12:48 09/04/2025
-- 🧑‍🏫 [Pháp giữ nhân viên chính phủ Nga tại sân bay](https://vnexpress.net/phap-giu-nhan-vien-chinh-phu-nga-tai-san-bay-4871984.html) - 12:21 09/04/2025
-- 🐲 [Thế khó của các đối tác khi đàm phán thuế quan với ông Trump](https://vnexpress.net/the-kho-cua-cac-doi-tac-khi-dam-phan-thue-quan-voi-ong-trump-4871604.html) - 12:00 09/04/2025
-- 🦒 [Nga chỉ trích Mỹ &#39;coi thường tập quán thương mại&#39;](https://vnexpress.net/nga-chi-trich-my-coi-thuong-tap-quan-thuong-mai-4871975.html) - 11:49 09/04/2025
-- 🐻 [Thủ tướng Tây Ban Nha: Việt Nam nằm trong nhóm đối tác ưu tiên hàng đầu tại ASEAN](https://vnexpress.net/thu-tuong-tay-ban-nha-viet-nam-nam-trong-nhom-doi-tac-uu-tien-hang-dau-tai-asean-4871934.html) - 10:53 09/04/2025
-- 🚀 [Ông Tập cam kết Trung Quốc tăng cường quan hệ với láng giềng](https://vnexpress.net/ong-tap-cam-ket-trung-quoc-tang-cuong-quan-he-voi-lang-gieng-4871910.html) - 10:04 09/04/2025
-- 🥰 [Bên trong siêu nhà tù El Salvador giam những người bị Mỹ trục xuất](https://vnexpress.net/ben-trong-sieu-nha-tu-el-salvador-giam-nhung-nguoi-bi-my-truc-xuat-4871714.html) - 09:20 09/04/2025
-- 🔥 [Mỹ có thể đã khôi phục một số chương trình viện trợ nước ngoài](https://vnexpress.net/my-co-the-da-khoi-phuc-mot-so-chuong-trinh-vien-tro-nuoc-ngoai-4871855.html) - 08:55 09/04/2025
-- 🥳 [Trung Quốc tuyên bố sẽ đáp trả quyết liệt mức thuế 104% của Mỹ](https://vnexpress.net/trung-quoc-tuyen-bo-se-dap-tra-quyet-liet-muc-thue-104-cua-my-4871858.html) - 08:22 09/04/2025
-- 💼 [Nhà kinh tế Mỹ: Chính phủ đã áp dụng sai công thức tính thuế đối ứng](https://vnexpress.net/nha-kinh-te-my-chinh-phu-da-ap-dung-sai-cong-thuc-tinh-thue-doi-ung-4871762.html) - 08:14 09/04/2025
-- 🤡 [Lá bài khoáng sản trong các cuộc đàm phán của ông Trump](https://vnexpress.net/la-bai-khoang-san-trong-cac-cuoc-dam-phan-cua-ong-trump-4871099.html) - 07:44 09/04/2025
-- 🌁 [Học giả Mỹ bị bắt ở Thái Lan vì cáo buộc khi quân](https://vnexpress.net/hoc-gia-my-bi-bat-o-thai-lan-vi-cao-buoc-khi-quan-4871737.html) - 07:22 09/04/2025
-- 🤩 [Đại học Ivy League bị đóng băng hơn 1 tỷ USD tài trợ](https://vnexpress.net/dai-hoc-ivy-league-bi-dong-bang-hon-1-ty-usd-tai-tro-4871043.html) - 06:20 09/04/2025
+- 🎭 [Thông điệp &#39;không sợ hãi&#39; của Thủ tướng Singapore trước đòn thuế từ Mỹ](https://vnexpress.net/thong-diep-khong-so-hai-cua-thu-tuong-singapore-truoc-don-thue-tu-my-4871684.html) - 22:00 09/04/2025
+- 🕴 [Dự án tiêm kích F-47 nguy cơ hứng đòn vì cuộc chiến thuế](https://vnexpress.net/du-an-tiem-kich-f-47-nguy-co-hung-don-vi-cuoc-chien-thue-4871820.html) - 18:00 09/04/2025
+- 🤭 [Ukraine nói Nga bắt đầu chiến dịch tấn công mới](https://vnexpress.net/ukraine-noi-nga-bat-dau-chien-dich-tan-cong-moi-4872019.html) - 16:43 09/04/2025
+- 🧑‍💻 [Quân đội Mỹ có thể được cấp ngân sách 1.000 tỷ USD](https://vnexpress.net/quan-doi-my-co-the-duoc-cap-ngan-sach-1-000-ty-usd-4872009.html) - 15:18 09/04/2025
+- 🦏 [Ông Trump kêu gọi bình tĩnh khi các bên trả đũa thuế](https://vnexpress.net/ong-trump-keu-goi-binh-tinh-khi-cac-ben-tra-dua-thue-4872002.html) - 15:10 09/04/2025
+- 🦒 [Tổng Bí thư: Việt Nam sẽ tăng trao đổi thương mại với Tây Ban Nha](https://vnexpress.net/tong-bi-thu-viet-nam-se-tang-trao-doi-thuong-mai-voi-tay-ban-nha-4872007.html) - 15:06 09/04/2025
+- 🌈 [Uzbekistan ký thỏa thuận khoáng sản với Mỹ](https://vnexpress.net/uzbekistan-ky-thoa-thuan-khoang-san-voi-my-4871998.html) - 14:01 09/04/2025
+- 🧑‍🏫 [Những người Trung Quốc sẵn sàng từ bỏ hàng Mỹ vì thuế quan](https://vnexpress.net/nhung-nguoi-trung-quoc-san-sang-tu-bo-hang-my-vi-thue-quan-4871986.html) - 12:48 09/04/2025
+- 🐲 [Pháp giữ nhân viên chính phủ Nga tại sân bay](https://vnexpress.net/phap-giu-nhan-vien-chinh-phu-nga-tai-san-bay-4871984.html) - 12:21 09/04/2025
+- 🦒 [Thế khó của các đối tác khi đàm phán thuế quan với ông Trump](https://vnexpress.net/the-kho-cua-cac-doi-tac-khi-dam-phan-thue-quan-voi-ong-trump-4871604.html) - 12:00 09/04/2025
+- 🐻 [Nga chỉ trích Mỹ &#39;coi thường tập quán thương mại&#39;](https://vnexpress.net/nga-chi-trich-my-coi-thuong-tap-quan-thuong-mai-4871975.html) - 11:49 09/04/2025
+- 🚀 [Thủ tướng Tây Ban Nha: Việt Nam nằm trong nhóm đối tác ưu tiên hàng đầu tại ASEAN](https://vnexpress.net/thu-tuong-tay-ban-nha-viet-nam-nam-trong-nhom-doi-tac-uu-tien-hang-dau-tai-asean-4871934.html) - 10:53 09/04/2025
+- 🥰 [Ông Tập cam kết Trung Quốc tăng cường quan hệ với láng giềng](https://vnexpress.net/ong-tap-cam-ket-trung-quoc-tang-cuong-quan-he-voi-lang-gieng-4871910.html) - 10:04 09/04/2025
+- 🔥 [Bên trong siêu nhà tù El Salvador giam những người bị Mỹ trục xuất](https://vnexpress.net/ben-trong-sieu-nha-tu-el-salvador-giam-nhung-nguoi-bi-my-truc-xuat-4871714.html) - 09:20 09/04/2025
+- 🥳 [Mỹ có thể đã khôi phục một số chương trình viện trợ nước ngoài](https://vnexpress.net/my-co-the-da-khoi-phuc-mot-so-chuong-trinh-vien-tro-nuoc-ngoai-4871855.html) - 08:55 09/04/2025
+- 💼 [Trung Quốc tuyên bố sẽ đáp trả quyết liệt mức thuế 104% của Mỹ](https://vnexpress.net/trung-quoc-tuyen-bo-se-dap-tra-quyet-liet-muc-thue-104-cua-my-4871858.html) - 08:22 09/04/2025
+- 🤡 [Nhà kinh tế Mỹ: Chính phủ đã áp dụng sai công thức tính thuế đối ứng](https://vnexpress.net/nha-kinh-te-my-chinh-phu-da-ap-dung-sai-cong-thuc-tinh-thue-doi-ung-4871762.html) - 08:14 09/04/2025
+- 🌁 [Lá bài khoáng sản trong các cuộc đàm phán của ông Trump](https://vnexpress.net/la-bai-khoang-san-trong-cac-cuoc-dam-phan-cua-ong-trump-4871099.html) - 07:44 09/04/2025
+- 🤩 [Học giả Mỹ bị bắt ở Thái Lan vì cáo buộc khi quân](https://vnexpress.net/hoc-gia-my-bi-bat-o-thai-lan-vi-cao-buoc-khi-quan-4871737.html) - 07:22 09/04/2025
+- 🎉 [Đại học Ivy League bị đóng băng hơn 1 tỷ USD tài trợ](https://vnexpress.net/dai-hoc-ivy-league-bi-dong-bang-hon-1-ty-usd-tai-tro-4871043.html) - 06:20 09/04/2025
 - 🎉 [Nghi phạm ám sát ông Trump từng định mua súng chống tăng](https://vnexpress.net/nghi-pham-am-sat-ong-trump-tung-dinh-mua-sung-chong-tang-4871725.html) - 05:12 09/04/2025
-- 🎉 [Phát biểu của Thủ tướng Singapore về tác động từ đòn thuế Mỹ](https://vnexpress.net/phat-bieu-cua-thu-tuong-singapore-ve-tac-dong-tu-don-thue-my-4871685.html) - 05:02 09/04/2025
-- 🌁 [Bức bối vì khói than đá ở thủ đô lạnh giá nhất thế giới](https://vnexpress.net/buc-boi-vi-khoi-than-da-o-thu-do-lanh-gia-nhat-the-gioi-4871452.html) - 04:24 09/04/2025
-- 🌊 [Tài sản của ông Trump giảm nửa tỷ USD sau một tuần công bố thuế đối ứng](https://vnexpress.net/tai-san-cua-ong-trump-giam-nua-ty-usd-sau-mot-tuan-cong-bo-thue-doi-ung-4871696.html) - 04:23 09/04/2025
-- 🕴 [Cháy viện dưỡng lão ở Trung Quốc, 20 người chết](https://vnexpress.net/chay-vien-duong-lao-o-trung-quoc-20-nguoi-chet-4871706.html) - 04:08 09/04/2025
-- 🎓 [Trung Quốc bác cáo cuộc của Mỹ về &#39;can thiệp vào kênh đào Panama&#39;](https://vnexpress.net/trung-quoc-bac-cao-cuoc-cua-my-ve-can-thiep-vao-kenh-dao-panama-4871657.html) - 04:01 09/04/2025
-- 🦩 [Bỉ công bố gói viện trợ quân sự hơn một tỷ USD cho Ukraine](https://vnexpress.net/bi-cong-bo-goi-vien-tro-quan-su-hon-mot-ty-usd-cho-ukraine-4871698.html) - 03:48 09/04/2025
-- 🌏 [Những người Mỹ tích trữ hàng vì lo vật giá leo thang sau đòn thuế](https://vnexpress.net/nhung-nguoi-my-tich-tru-hang-vi-lo-vat-gia-leo-thang-sau-don-thue-4871680.html) - 03:27 09/04/2025
-- 🌋 [Nga tuyên bố sắp đánh bật lực lượng Ukraine khỏi Kursk](https://vnexpress.net/nga-tuyen-bo-sap-danh-bat-luc-luong-ukraine-khoi-kursk-4871600.html) - 03:10 09/04/2025
-- 🪜 [Thẩm phán yêu cầu Nhà Trắng dỡ lệnh cấm với hãng tin AP](https://vnexpress.net/tham-phan-yeu-cau-nha-trang-do-lenh-cam-voi-hang-tin-ap-4871589.html) - 03:02 09/04/2025
-- 🕴 [Thủ tướng Phạm Minh Chính chủ trì lễ đón Thủ tướng Tây Ban Nha](https://vnexpress.net/thu-tuong-pham-minh-chinh-chu-tri-le-don-thu-tuong-tay-ban-nha-4871605.html) - 03:01 09/04/2025
-- 🧑‍🏫 [Iran nêu điều kiện để đạt thỏa thuận với Mỹ](https://vnexpress.net/iran-neu-dieu-kien-de-dat-thoa-thuan-voi-my-4871576.html) - 02:12 09/04/2025
-- 🌮 [39 người Việt bị tạm giữ ở Myanmar được đưa về nước](https://vnexpress.net/39-nguoi-viet-bi-tam-giu-o-myanmar-duoc-dua-ve-nuoc-4871602.html) - 01:44 09/04/2025
-- 🚦 [Elon Musk chỉ trích gay gắt Cố vấn Thương mại Nhà Trắng](https://vnexpress.net/elon-musk-chi-trich-gay-gat-co-van-thuong-mai-nha-trang-4871570.html) - 00:58 09/04/2025
-- 💫 [Mỹ có thể rút 10.000 quân khỏi Đông Âu](https://vnexpress.net/my-co-the-rut-10-000-quan-khoi-dong-au-4871569.html) - 23:59 08/04/2025
-- 🤡 [Ông Trump: Mỹ thu hai tỷ USD mỗi ngày nhờ thuế quan](https://vnexpress.net/ong-trump-my-thu-hai-ty-usd-moi-ngay-nho-thue-quan-4871563.html) - 23:47 08/04/2025
-- 🦣 [Peter Navarro - &#39;kiến trúc sư&#39; thúc đẩy đòn thuế của ông Trump](https://vnexpress.net/peter-navarro-kien-truc-su-thuc-day-don-thue-cua-ong-trump-4871111.html) - 22:00 08/04/2025
-- 🎬 [Thủ tướng Tây Ban Nha đến Việt Nam](https://vnexpress.net/thu-tuong-tay-ban-nha-den-viet-nam-4871521.html) - 14:40 08/04/2025
-- 🎉 [Sập mái hộp đêm ở Cộng hòa Dominica, 79 người chết](https://vnexpress.net/sap-mai-hop-dem-o-cong-hoa-dominica-79-nguoi-chet-4871508.html) - 12:58 08/04/2025
-- 🎡 [Trung Quốc chỉ trích bình luận của Phó Tổng thống Mỹ](https://vnexpress.net/trung-quoc-chi-trich-binh-luan-cua-pho-tong-thong-my-4871487.html) - 12:12 08/04/2025
-- 🌜 [Hàn Quốc nổ súng cảnh cáo lính Triều Tiên](https://vnexpress.net/han-quoc-no-sung-canh-cao-linh-trieu-tien-4871474.html) - 11:46 08/04/2025
-- 🎡 [Vua và Hoàng hậu Anh đăng ảnh kỷ niệm 20 năm ngày cưới](https://vnexpress.net/vua-va-hoang-hau-anh-dang-anh-ky-niem-20-nam-ngay-cuoi-4871438.html) - 10:35 08/04/2025
-- 🤗 [Trung Quốc nêu lý do quyết đấu thuế quan với Mỹ](https://vnexpress.net/trung-quoc-neu-ly-do-quyet-dau-thue-quan-voi-my-4871350.html) - 09:33 08/04/2025
-- 🦩 [Xuất hiện video chiến đấu cơ kiểu mới của Trung Quốc](https://vnexpress.net/xuat-hien-video-chien-dau-co-kieu-moi-cua-trung-quoc-4871353.html) - 09:02 08/04/2025
-- 🎓 [Singapore thất vọng với đòn thuế của Mỹ](https://vnexpress.net/singapore-that-vong-voi-don-thue-cua-my-4871351.html) - 08:25 08/04/2025
-- 🌁 [Thành trì ủng hộ ông Trump xuất hiện vết nứt vì đòn thuế](https://vnexpress.net/thanh-tri-ung-ho-ong-trump-xuat-hien-vet-nut-vi-don-thue-4871095.html) - 06:55 08/04/2025
-- 🤩 [Xe tăng Abrams Ukraine trúng mìn, hứng đòn của drone Nga](https://vnexpress.net/xe-tang-abrams-ukraine-trung-min-hung-don-cua-drone-nga-4871229.html) - 05:17 08/04/2025
-- 👹 [Cố vấn Nhà Trắng nói Musk chỉ là &#39;người lắp ráp xe&#39;](https://vnexpress.net/co-van-nha-trang-noi-musk-chi-la-nguoi-lap-rap-xe-4871209.html) - 04:54 08/04/2025
-- ⛽️ [Mỹ bác tin sẽ tổ chức diễu binh](https://vnexpress.net/my-bac-tin-se-to-chuc-dieu-binh-4871220.html) - 04:52 08/04/2025
-- 🚀 [Nhóm yakuza lớn nhất Nhật tuyên bố dừng chiến tranh băng đảng](https://vnexpress.net/nhom-yakuza-lon-nhat-nhat-tuyen-bo-dung-chien-tranh-bang-dang-4871179.html) - 04:23 08/04/2025
-- 🎡 [Tổng thống Mỹ nói Washington đang đàm phán trực tiếp với Tehran](https://vnexpress.net/tong-thong-my-noi-washington-dang-dam-phan-truc-tiep-voi-tehran-4871180.html) - 04:00 08/04/2025
-- 🕯 [LHQ: Mỹ cắt viện trợ không khác gì &#39;án tử&#39; với hàng triệu người](https://vnexpress.net/lhq-my-cat-vien-tro-khong-khac-gi-an-tu-voi-hang-trieu-nguoi-4871132.html) - 03:55 08/04/2025
-- 🐻 [Ông Trump: &#39;Tôi chưa bao giờ khỏe hơn lúc này&#39;](https://vnexpress.net/ong-trump-toi-chua-bao-gio-khoe-hon-luc-nay-4871150.html) - 03:07 08/04/2025
-- 🚦 [Tòa án Bỉ bác đề nghị cấp phúc lợi cho em trai Vua Philippe](https://vnexpress.net/toa-an-bi-bac-de-nghi-cap-phuc-loi-cho-em-trai-vua-philippe-4871133.html) - 03:04 08/04/2025
-- 👍 [Ukraine có thể đã mất gần 3 tỷ USD vũ khí NATO tại Kursk](https://vnexpress.net/ukraine-co-the-da-mat-gan-3-ty-usd-vu-khi-nato-tai-kursk-4871125.html) - 02:18 08/04/2025
-- 🚀 [Tòa Tối cao Mỹ chặn lệnh đón người gốc El Salvador bị trục xuất nhầm](https://vnexpress.net/toa-toi-cao-my-chan-lenh-don-nguoi-goc-el-salvador-bi-truc-xuat-nham-4871088.html) - 01:36 08/04/2025
-- 🌮 [Núi lửa Philippines phun trào, nhả khói cao 4.000 m](https://vnexpress.net/nui-lua-philippines-phun-trao-nha-khoi-cao-4-000-m-4871087.html) - 00:53 08/04/2025
-- 😎 [Ông Trump bất mãn vì Nga vẫn ném bom Ukraine](https://vnexpress.net/ong-trump-bat-man-vi-nga-van-nem-bom-ukraine-4871076.html) - 00:05 08/04/2025
-- 🐲 [Ukraine tuyên bố binh sĩ đang hiện diện ở tỉnh Belgorod của Nga](https://vnexpress.net/ukraine-tuyen-bo-binh-si-dang-hien-dien-o-tinh-belgorod-cua-nga-4871073.html) - 23:52 07/04/2025
-- 💫 [Nga - Ukraine thử thách lòng kiên nhẫn của ông Trump](https://vnexpress.net/nga-ukraine-thu-thach-long-kien-nhan-cua-ong-trump-4869789.html) - 22:00 07/04/2025
-- 👀 [Elon Musk bất đồng với cố vấn của ông Trump về thương mại](https://vnexpress.net/elon-musk-bat-dong-voi-co-van-cua-ong-trump-ve-thuong-mai-4871024.html) - 15:17 07/04/2025<!-- vnexpress-the-gioi:END -->
+- 🌁 [Phát biểu của Thủ tướng Singapore về tác động từ đòn thuế Mỹ](https://vnexpress.net/phat-bieu-cua-thu-tuong-singapore-ve-tac-dong-tu-don-thue-my-4871685.html) - 05:02 09/04/2025
+- 🌊 [Bức bối vì khói than đá ở thủ đô lạnh giá nhất thế giới](https://vnexpress.net/buc-boi-vi-khoi-than-da-o-thu-do-lanh-gia-nhat-the-gioi-4871452.html) - 04:24 09/04/2025
+- 🕴 [Tài sản của ông Trump giảm nửa tỷ USD sau một tuần công bố thuế đối ứng](https://vnexpress.net/tai-san-cua-ong-trump-giam-nua-ty-usd-sau-mot-tuan-cong-bo-thue-doi-ung-4871696.html) - 04:23 09/04/2025
+- 🎓 [Cháy viện dưỡng lão ở Trung Quốc, 20 người chết](https://vnexpress.net/chay-vien-duong-lao-o-trung-quoc-20-nguoi-chet-4871706.html) - 04:08 09/04/2025
+- 🦩 [Trung Quốc bác cáo cuộc của Mỹ về &#39;can thiệp vào kênh đào Panama&#39;](https://vnexpress.net/trung-quoc-bac-cao-cuoc-cua-my-ve-can-thiep-vao-kenh-dao-panama-4871657.html) - 04:01 09/04/2025
+- 🌏 [Bỉ công bố gói viện trợ quân sự hơn một tỷ USD cho Ukraine](https://vnexpress.net/bi-cong-bo-goi-vien-tro-quan-su-hon-mot-ty-usd-cho-ukraine-4871698.html) - 03:48 09/04/2025
+- 🌋 [Những người Mỹ tích trữ hàng vì lo vật giá leo thang sau đòn thuế](https://vnexpress.net/nhung-nguoi-my-tich-tru-hang-vi-lo-vat-gia-leo-thang-sau-don-thue-4871680.html) - 03:27 09/04/2025
+- 🪜 [Nga tuyên bố sắp đánh bật lực lượng Ukraine khỏi Kursk](https://vnexpress.net/nga-tuyen-bo-sap-danh-bat-luc-luong-ukraine-khoi-kursk-4871600.html) - 03:10 09/04/2025
+- 🕴 [Thẩm phán yêu cầu Nhà Trắng dỡ lệnh cấm với hãng tin AP](https://vnexpress.net/tham-phan-yeu-cau-nha-trang-do-lenh-cam-voi-hang-tin-ap-4871589.html) - 03:02 09/04/2025
+- 🧑‍🏫 [Thủ tướng Phạm Minh Chính chủ trì lễ đón Thủ tướng Tây Ban Nha](https://vnexpress.net/thu-tuong-pham-minh-chinh-chu-tri-le-don-thu-tuong-tay-ban-nha-4871605.html) - 03:01 09/04/2025
+- 🌮 [Iran nêu điều kiện để đạt thỏa thuận với Mỹ](https://vnexpress.net/iran-neu-dieu-kien-de-dat-thoa-thuan-voi-my-4871576.html) - 02:12 09/04/2025
+- 🚦 [39 người Việt bị tạm giữ ở Myanmar được đưa về nước](https://vnexpress.net/39-nguoi-viet-bi-tam-giu-o-myanmar-duoc-dua-ve-nuoc-4871602.html) - 01:44 09/04/2025
+- 💫 [Elon Musk chỉ trích gay gắt Cố vấn Thương mại Nhà Trắng](https://vnexpress.net/elon-musk-chi-trich-gay-gat-co-van-thuong-mai-nha-trang-4871570.html) - 00:58 09/04/2025
+- 🤡 [Mỹ có thể rút 10.000 quân khỏi Đông Âu](https://vnexpress.net/my-co-the-rut-10-000-quan-khoi-dong-au-4871569.html) - 23:59 08/04/2025
+- 🦣 [Ông Trump: Mỹ thu hai tỷ USD mỗi ngày nhờ thuế quan](https://vnexpress.net/ong-trump-my-thu-hai-ty-usd-moi-ngay-nho-thue-quan-4871563.html) - 23:47 08/04/2025
+- 🎬 [Peter Navarro - &#39;kiến trúc sư&#39; thúc đẩy đòn thuế của ông Trump](https://vnexpress.net/peter-navarro-kien-truc-su-thuc-day-don-thue-cua-ong-trump-4871111.html) - 22:00 08/04/2025
+- 🎉 [Thủ tướng Tây Ban Nha đến Việt Nam](https://vnexpress.net/thu-tuong-tay-ban-nha-den-viet-nam-4871521.html) - 14:40 08/04/2025
+- 🎡 [Sập mái hộp đêm ở Cộng hòa Dominica, 79 người chết](https://vnexpress.net/sap-mai-hop-dem-o-cong-hoa-dominica-79-nguoi-chet-4871508.html) - 12:58 08/04/2025
+- 🌜 [Trung Quốc chỉ trích bình luận của Phó Tổng thống Mỹ](https://vnexpress.net/trung-quoc-chi-trich-binh-luan-cua-pho-tong-thong-my-4871487.html) - 12:12 08/04/2025
+- 🎡 [Hàn Quốc nổ súng cảnh cáo lính Triều Tiên](https://vnexpress.net/han-quoc-no-sung-canh-cao-linh-trieu-tien-4871474.html) - 11:46 08/04/2025
+- 🤗 [Vua và Hoàng hậu Anh đăng ảnh kỷ niệm 20 năm ngày cưới](https://vnexpress.net/vua-va-hoang-hau-anh-dang-anh-ky-niem-20-nam-ngay-cuoi-4871438.html) - 10:35 08/04/2025
+- 🦩 [Trung Quốc nêu lý do quyết đấu thuế quan với Mỹ](https://vnexpress.net/trung-quoc-neu-ly-do-quyet-dau-thue-quan-voi-my-4871350.html) - 09:33 08/04/2025
+- 🎓 [Xuất hiện video chiến đấu cơ kiểu mới của Trung Quốc](https://vnexpress.net/xuat-hien-video-chien-dau-co-kieu-moi-cua-trung-quoc-4871353.html) - 09:02 08/04/2025
+- 🌁 [Singapore thất vọng với đòn thuế của Mỹ](https://vnexpress.net/singapore-that-vong-voi-don-thue-cua-my-4871351.html) - 08:25 08/04/2025
+- 🤩 [Thành trì ủng hộ ông Trump xuất hiện vết nứt vì đòn thuế](https://vnexpress.net/thanh-tri-ung-ho-ong-trump-xuat-hien-vet-nut-vi-don-thue-4871095.html) - 06:55 08/04/2025
+- 👹 [Xe tăng Abrams Ukraine trúng mìn, hứng đòn của drone Nga](https://vnexpress.net/xe-tang-abrams-ukraine-trung-min-hung-don-cua-drone-nga-4871229.html) - 05:17 08/04/2025
+- ⛽️ [Cố vấn Nhà Trắng nói Musk chỉ là &#39;người lắp ráp xe&#39;](https://vnexpress.net/co-van-nha-trang-noi-musk-chi-la-nguoi-lap-rap-xe-4871209.html) - 04:54 08/04/2025
+- 🚀 [Mỹ bác tin sẽ tổ chức diễu binh](https://vnexpress.net/my-bac-tin-se-to-chuc-dieu-binh-4871220.html) - 04:52 08/04/2025
+- 🎡 [Nhóm yakuza lớn nhất Nhật tuyên bố dừng chiến tranh băng đảng](https://vnexpress.net/nhom-yakuza-lon-nhat-nhat-tuyen-bo-dung-chien-tranh-bang-dang-4871179.html) - 04:23 08/04/2025
+- 🕯 [Tổng thống Mỹ nói Washington đang đàm phán trực tiếp với Tehran](https://vnexpress.net/tong-thong-my-noi-washington-dang-dam-phan-truc-tiep-voi-tehran-4871180.html) - 04:00 08/04/2025
+- 🐻 [LHQ: Mỹ cắt viện trợ không khác gì &#39;án tử&#39; với hàng triệu người](https://vnexpress.net/lhq-my-cat-vien-tro-khong-khac-gi-an-tu-voi-hang-trieu-nguoi-4871132.html) - 03:55 08/04/2025
+- 🚦 [Ông Trump: &#39;Tôi chưa bao giờ khỏe hơn lúc này&#39;](https://vnexpress.net/ong-trump-toi-chua-bao-gio-khoe-hon-luc-nay-4871150.html) - 03:07 08/04/2025
+- 👍 [Tòa án Bỉ bác đề nghị cấp phúc lợi cho em trai Vua Philippe](https://vnexpress.net/toa-an-bi-bac-de-nghi-cap-phuc-loi-cho-em-trai-vua-philippe-4871133.html) - 03:04 08/04/2025
+- 🚀 [Ukraine có thể đã mất gần 3 tỷ USD vũ khí NATO tại Kursk](https://vnexpress.net/ukraine-co-the-da-mat-gan-3-ty-usd-vu-khi-nato-tai-kursk-4871125.html) - 02:18 08/04/2025
+- 🌮 [Tòa Tối cao Mỹ chặn lệnh đón người gốc El Salvador bị trục xuất nhầm](https://vnexpress.net/toa-toi-cao-my-chan-lenh-don-nguoi-goc-el-salvador-bi-truc-xuat-nham-4871088.html) - 01:36 08/04/2025
+- 😎 [Núi lửa Philippines phun trào, nhả khói cao 4.000 m](https://vnexpress.net/nui-lua-philippines-phun-trao-nha-khoi-cao-4-000-m-4871087.html) - 00:53 08/04/2025
+- 🐲 [Ông Trump bất mãn vì Nga vẫn ném bom Ukraine](https://vnexpress.net/ong-trump-bat-man-vi-nga-van-nem-bom-ukraine-4871076.html) - 00:05 08/04/2025
+- 💫 [Ukraine tuyên bố binh sĩ đang hiện diện ở tỉnh Belgorod của Nga](https://vnexpress.net/ukraine-tuyen-bo-binh-si-dang-hien-dien-o-tinh-belgorod-cua-nga-4871073.html) - 23:52 07/04/2025
+- 👀 [Nga - Ukraine thử thách lòng kiên nhẫn của ông Trump](https://vnexpress.net/nga-ukraine-thu-thach-long-kien-nhan-cua-ong-trump-4869789.html) - 22:00 07/04/2025<!-- vnexpress-the-gioi:END -->
