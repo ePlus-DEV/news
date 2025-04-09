@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Gặp nữ lái xe Trường Sơn từng nhét 2kg sỏi, trốn gia đình ra chiến trường](https://dantri.com.vn/doi-song/gap-nu-lai-xe-truong-son-tung-nhet-2kg-soi-tron-gia-dinh-ra-chien-truong-20250403195541404.htm) - 23:07 08/04/2025
+- 🥳 [Gặp nữ lái xe Trường Sơn từng nhét 2kg sỏi vào người, trốn gia đình ra chiến trường](https://dantri.com.vn/doi-song/gap-nu-lai-xe-truong-son-tung-nhet-2kg-soi-vao-nguoi-tron-gia-dinh-ra-chien-truong-20250403195541404.htm) - 23:07 08/04/2025
 - 🌁 [Hà Nội: Cô gái kể phút nam thanh niên vờ mua 2 lượng vàng rồi bỏ chạy](https://dantri.com.vn/doi-song/ha-noi-co-gai-ke-phut-nam-thanh-nien-vo-mua-2-luong-vang-roi-bo-chay-20250408184846429.htm) - 13:41 08/04/2025
 - 👀 [Thanh niên lẻn vào vườn ăn trộm chuối bị gia chủ đốt luôn xe máy](https://dantri.com.vn/doi-song/thanh-nien-len-vao-vuon-an-trom-chuoi-bi-gia-chu-dot-luon-xe-may-20250408135723969.htm) - 09:25 08/04/2025
 - 🐻 [Hàng nghìn người mua hàng &quot;giải cứu&quot; giúp chủ tiệm bách hóa sau vụ hỏa hoạn](https://dantri.com.vn/doi-song/hang-nghin-nguoi-mua-hang-giai-cuu-giup-chu-tiem-bach-hoa-sau-vu-hoa-hoan-20250408135929758.htm) - 07:45 08/04/2025
