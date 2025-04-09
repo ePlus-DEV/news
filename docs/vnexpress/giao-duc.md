@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Đề xuất 91.000 tỷ đồng phổ cập mầm non cho trẻ 3 tuổi](https://vnexpress.net/de-xuat-91-000-ty-dong-pho-cap-mam-non-cho-tre-3-tuoi-4871640.html) - 08:11 09/04/2025
+- 🤓 [Đề xuất 91.000 tỷ đồng phổ cập mầm non cho trẻ 3-5 tuổi](https://vnexpress.net/de-xuat-91-000-ty-dong-pho-cap-mam-non-cho-tre-3-5-tuoi-4871640.html) - 08:11 09/04/2025
 - 🦆 [Đại học Ivy League bị đóng băng hơn 1 tỷ USD tài trợ](https://vnexpress.net/dai-hoc-ivy-league-bi-dong-bang-hon-1-ty-usd-tai-tro-4871043.html) - 06:20 09/04/2025
 - 🦩 [Phu nhân cố Thủ tướng Võ Văn Kiệt qua đời](https://vnexpress.net/phu-nhan-co-thu-tuong-vo-van-kiet-qua-doi-4871753.html) - 05:05 09/04/2025
 - 🌮 [Nam sinh lớp 11 ở TP HCM đạt điểm SAT tuyệt đối](https://vnexpress.net/nam-sinh-lop-11-o-tp-hcm-dat-diem-sat-tuyet-doi-4871549.html) - 03:03 09/04/2025
