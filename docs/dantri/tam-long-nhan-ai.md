@@ -4,7 +4,7 @@ sidebar_position: 20
 ---
 
 <!-- dantri-tam-long-nhan-ai:START -->
-- 🌝 [Chồng cấp cứu, viện phí 50 triệu đồng/ngày, vợ bầu sắp sinh lo đến ngất xỉu](https://dantri.com.vn/tam-long-nhan-ai/chong-cap-cuu-vien-phi-50-trieu-dongngay-vo-bau-sap-sinh-lo-den-ngat-xiu-20250407113944454.htm) - 22:30 08/04/2025
+- 🌝 [Viện phí của chồng 50 triệu đồng/ngày, vợ bầu sắp sinh lo đến ngất xỉu](https://dantri.com.vn/tam-long-nhan-ai/vien-phi-cua-chong-50-trieu-dongngay-vo-bau-sap-sinh-lo-den-ngat-xiu-20250407113944454.htm) - 22:30 08/04/2025
 - 🌜 [Bác sĩ Bệnh viện Việt Đức kêu gọi giúp đỡ lao động chính 90 tuổi bị tai nạn](https://dantri.com.vn/tam-long-nhan-ai/bac-si-benh-vien-viet-duc-keu-goi-giup-do-lao-dong-chinh-90-tuoi-bi-tai-nan-20250331171128215.htm) - 22:30 07/04/2025
 - 👀 [Xót cảnh bố đơn thân nuôi 2 con trong lều tạm, sống chật vật cạnh chuồng dê](https://dantri.com.vn/tam-long-nhan-ai/xot-canh-bo-don-than-nuoi-2-con-trong-leu-tam-song-chat-vat-canh-chuong-de-20250401153134912.htm) - 22:30 06/04/2025
 - 🚀 [Mẹ bỏ cuộc, làm sao con sống?](https://dantri.com.vn/tam-long-nhan-ai/me-bo-cuoc-lam-sao-con-song-20250329114256638.htm) - 22:30 05/04/2025
