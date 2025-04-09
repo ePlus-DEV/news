@@ -250,12 +250,12 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Thế Giới Di Động chưa chốt được thời gian chi trả cổ tức](https://nld.com.vn/the-gioi-di-dong-chua-chot-duoc-thoi-gian-chi-tra-co-tuc-196250409165343913.htm) - 10:35 09/04/2025
-- 😺 [Văn phòng Đăng ký đất đai Nha Trang &quot;kêu oan&quot;](https://nld.com.vn/van-phong-dang-ky-dat-dai-nha-trang-keu-oan-196250409165140706.htm) - 10:35 09/04/2025
-- 👍 [Phương pháp kiểm soát mỡ máu thế hệ mới có mặt tại Việt Nam](https://thitruong.nld.com.vn/phuong-phap-kiem-soat-mo-mau-the-he-moi-co-mat-tai-viet-nam-196250409171842128.htm) - 10:34 09/04/2025
-- 🥷 [Cận cảnh dự án chỉnh trang Bãi Sau Vũng Tàu trước hạn bàn giao](https://nld.com.vn/can-canh-du-an-chinh-trang-bai-sau-vung-tau-truoc-han-ban-giao-196250409171535292.htm) - 10:34 09/04/2025
-- 🤔 [Hàng trăm người gãy tay chân, chấn thương sọ não do té ngã khi hái tiêu](https://nld.com.vn/hang-tram-nguoi-gay-tay-chan-chan-thuong-so-nao-do-te-nga-khi-hai-tieu-196250409170544975.htm) - 10:34 09/04/2025
-- 🌈 [Xóa nhà tạm, dột nát: Hết cảnh nắng nóng, mưa dột](https://nld.com.vn/xoa-nha-tam-dot-nat-het-canh-nang-nong-mua-dot-196250409153717801.htm) - 10:33 09/04/2025
+- 🐎 [Vụ cướp tiệm vàng ở TP Cam Ranh: Sau gần 2 năm vẫn bế tắc](https://nld.com.vn/vu-cuop-tiem-vang-o-tp-cam-ranh-sau-gan-2-nam-van-be-tac-196250409172823248.htm) - 10:51 09/04/2025
+- 😺 [Thế Giới Di Động chưa chốt được thời gian chi trả cổ tức](https://nld.com.vn/the-gioi-di-dong-chua-chot-duoc-thoi-gian-chi-tra-co-tuc-196250409165343913.htm) - 10:35 09/04/2025
+- 👍 [Văn phòng Đăng ký đất đai Nha Trang &quot;kêu oan&quot;](https://nld.com.vn/van-phong-dang-ky-dat-dai-nha-trang-keu-oan-196250409165140706.htm) - 10:35 09/04/2025
+- 🥷 [Phương pháp kiểm soát mỡ máu thế hệ mới có mặt tại Việt Nam](https://thitruong.nld.com.vn/phuong-phap-kiem-soat-mo-mau-the-he-moi-co-mat-tai-viet-nam-196250409171842128.htm) - 10:34 09/04/2025
+- 🤔 [Cận cảnh dự án chỉnh trang Bãi Sau Vũng Tàu trước hạn bàn giao](https://nld.com.vn/can-canh-du-an-chinh-trang-bai-sau-vung-tau-truoc-han-ban-giao-196250409171535292.htm) - 10:34 09/04/2025
+- 🌈 [Hàng trăm người gãy tay chân, chấn thương sọ não do té ngã khi hái tiêu](https://nld.com.vn/hang-tram-nguoi-gay-tay-chan-chan-thuong-so-nao-do-te-nga-khi-hai-tieu-196250409170544975.htm) - 10:34 09/04/2025
 - 🔥 [TP HCM: Bất ngờ về kết quả thanh tra của 3 trường THPT](https://nld.com.vn/tp-hcm-bat-ngo-ve-ket-qua-thanh-tra-cua-3-truong-thpt-196250409163033735.htm) - 09:52 09/04/2025
 - 🧰 [Một quyết định quan trọng về xe buýt ở TP HCM được đề xuất thay thế](https://nld.com.vn/mot-quyet-dinh-quan-trong-ve-xe-buyt-o-tp-hcm-duoc-de-xuat-thay-the-196250409161700709.htm) - 09:37 09/04/2025
 - 🤗 [Công an Đồng Nai mời tài xế xe đầu kéo tông gãy cần chắn tàu lên làm việc](https://nld.com.vn/cong-an-dong-nai-moi-tai-xe-xe-dau-keo-tong-gay-can-chan-tau-len-lam-viec-19625040916261573.htm) - 09:34 09/04/2025
