@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [U17 Việt Nam 0-0 U17 UAE &lpar;hiệp 1&rpar;: Thế trận thận trọng](https://dantri.com.vn/the-thao/u17-viet-nam-0-0-u17-uae-hiep-1-the-tran-than-trong-20250410211002483.htm) - 14:10 10/04/2025
+- 🎡 [U17 Việt Nam 1-1 U17 UAE &lpar;hiệp 2&rpar;: Phòng thủ kỷ luật](https://dantri.com.vn/the-thao/u17-viet-nam-1-1-u17-uae-hiep-2-phong-thu-ky-luat-20250410211002483.htm) - 14:10 10/04/2025
 - 💯 [HLV U17 Thái Lan bị sa thải sau khi trắng tay ở giải châu Á](https://dantri.com.vn/the-thao/hlv-u17-thai-lan-bi-sa-thai-sau-khi-trang-tay-o-giai-chau-a-20250410211758093.htm) - 14:09 10/04/2025
 - ⛽️ [Trọng tài Tây Á điều khiển trận quyết chiến của U17 Việt Nam gặp UAE](https://dantri.com.vn/the-thao/trong-tai-tay-a-dieu-khien-tran-quyet-chien-cua-u17-viet-nam-gap-uae-20250410191109594.htm) - 12:11 10/04/2025
 - 💃 [Báo Đông Nam Á phản ứng khi HLV Kim Sang Sik dẫn dắt dàn sao AFF gặp M.U](https://dantri.com.vn/the-thao/bao-dong-nam-a-phan-ung-khi-hlv-kim-sang-sik-dan-dat-dan-sao-aff-gap-mu-20250410184344456.htm) - 12:04 10/04/2025
