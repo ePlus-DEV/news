@@ -4,7 +4,7 @@ sidebar_position: 29
 ---
 
 <!-- dantri-toa-dam-truc-tuyen:START -->
-- 🪜 [&quot;Nhiều tỉnh thành không còn dư địa phát triển, từ quỹ đất tới nguồn lực&quot;](https://dantri.com.vn/noi-vu/nhieu-tinh-thanh-khong-con-du-dia-phat-trien-tu-quy-dat-toi-nguon-luc-20250409215603496.htm) - 23:00 09/04/2025
+- 🪜 [&quot;Phát triển hướng biển là một định hướng chiến lược khi sắp xếp tỉnh thành&quot;](https://dantri.com.vn/noi-vu/phat-trien-huong-bien-la-mot-dinh-huong-chien-luoc-khi-sap-xep-tinh-thanh-20250409215603496.htm) - 23:00 09/04/2025
 - 🗽 [&quot;AI không thể thay thế con người&quot;](https://dantri.com.vn/kinh-doanh/ai-khong-the-thay-the-con-nguoi-20250225164802687.htm) - 01:48 05/03/2025
 - 🕯 [Tọa đàm: Đột quỵ và nguy cơ tim mạch trong thể thao](https://dantri.com.vn/suc-khoe/toa-dam-dot-quy-va-nguy-co-tim-mach-trong-the-thao-20241230091738294.htm) - 06:13 06/01/2025
 - 🫶 [Kỷ nguyên mới của Metro TPHCM](https://dantri.com.vn/xa-hoi/ky-nguyen-moi-cua-metro-tphcm-20241219155107130.htm) - 23:40 22/12/2024
