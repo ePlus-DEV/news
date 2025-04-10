@@ -255,7 +255,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 😺 [Giáo sư Pháp &quot;tố&quot; bác sĩ Việt tự ý dịch sách, bán gần triệu đồng/cuốn](https://nld.com.vn/giao-su-phap-to-bac-si-viet-tu-y-dich-sach-ban-gan-trieu-dong-cuon-196250410214145391.htm) - 15:10 10/04/2025
 - 👍 [Tối 10-4, giá vàng bất ngờ tăng rất mạnh](https://nld.com.vn/toi-10-4-gia-vang-bat-ngo-tang-rat-manh-196250410215827363.htm) - 15:09 10/04/2025
 - 🥷 [TP HCM: Lại tai nạn liên hoàn trên cầu Phú Mỹ](https://nld.com.vn/tp-hcm-lai-tai-nan-lien-hoan-tren-cau-phu-my-196250410220655535.htm) - 15:08 10/04/2025
-- 🤔 [Trung Quốc tung tiếp đòn trả đũa thuế quan Mỹ](https://nld.com.vn/trung-quoc-tung-tiep-don-tra-dua-thue-quan-my-196250410212833193.htm) - 14:39 10/04/2025
+- 🤔 [Trung Quốc tung tiếp đòn trả đũa, Mỹ chốt thuế quan 145%](https://nld.com.vn/trung-quoc-tung-tiep-don-tra-dua-thue-quan-my-196250410212833193.htm) - 14:39 10/04/2025
 - 🌈 [Thủ tướng: Tích cực trao đổi hàng hoá với Mỹ, nhất là máy bay, khí LNG, thương mại quốc phòng](https://nld.com.vn/thu-tuong-tich-cuc-trao-doi-hang-hoa-voi-my-nhat-la-may-bay-khi-lng-thuong-mai-quoc-phong-196250410210053339.htm) - 14:19 10/04/2025
 - 🔥 [Hai mẹ con đi xe máy bị xe tải tông tử vong tại chỗ](https://nld.com.vn/hai-me-con-di-xe-may-bi-xe-tai-tong-tu-vong-tai-cho-196250410202857117.htm) - 13:59 10/04/2025
 - 🧰 [Lắp điện mặt trời, có bắt buộc dùng thiết bị chống phát ngược?](https://nld.com.vn/lap-dien-mat-troi-co-bat-buoc-dung-thiet-bi-chong-phat-nguoc-19625041020180037.htm) - 13:59 10/04/2025
