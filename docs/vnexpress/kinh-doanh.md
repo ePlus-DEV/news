@@ -14,7 +14,7 @@ sidebar_position: 3
 - 🌮 [Vì sao nhà đầu tư chứng khoán &#39;muốn mua nhưng không ai bán&#39;?](https://vnexpress.net/vi-sao-nha-dau-tu-chung-khoan-muon-mua-nhung-khong-ai-ban-4872222.html) - 04:52 10/04/2025
 - 🧰 [Ai là &#39;cá mập&#39; trên thị trường phái sinh?](https://vnexpress.net/ai-la-ca-map-tren-thi-truong-phai-sinh-4872188.html) - 04:00 10/04/2025
 - 🤔 [Giá vàng miếng lên sát 104 triệu đồng](https://vnexpress.net/gia-vang-lan-dau-vuot-103-trieu-4872144.html) - 02:45 10/04/2025
-- 🧑‍💻 [Gần 98% cổ phiếu trên sàn HoSE tăng giá](https://vnexpress.net/chung-khoan-hom-nay-10-4-thi-truong-tich-cuc-sau-tin-trump-hoan-thue-4872111.html) - 02:13 10/04/2025
+- 🧑‍💻 [Gần 98% cổ phiếu trên sàn HoSE tăng giá](https://vnexpress.net/chung-khoan-hom-nay-10-4-thi-truong-tich-cuc-sau-tin-trump-hoan-thue-4872111-tong-thuat.html) - 02:13 10/04/2025
 - 🕴 [Trung Quốc hạ giá nhân dân tệ ngày thứ 6 liên tiếp](https://vnexpress.net/trung-quoc-ha-gia-nhan-dan-te-ngay-thu-6-lien-tiep-4872095.html) - 02:06 10/04/2025
 - 🦩 [Eximbank đặt mục tiêu lãi gần 5.200 tỷ đồng](https://vnexpress.net/eximbank-dat-muc-tieu-lai-gan-5-200-ty-dong-4872104.html) - 02:00 10/04/2025
 - 👍 [&#39;Khách hàng góp phần quyết định tốc độ bồi thường bảo hiểm&#39;](https://vnexpress.net/khach-hang-gop-phan-quyet-dinh-toc-do-boi-thuong-bao-hiem-4870567.html) - 02:00 10/04/2025
