@@ -6,7 +6,7 @@ sidebar_position: 11
 <!-- vnexpress-du-lich:START -->
 - 💂 [Huế thu 221 tỷ đồng dịp VnExpress Marathon 2025](https://vnexpress.net/hue-thu-221-ty-dong-dip-vnexpress-marathon-2025-4871114.html) - 09:00 10/04/2025
 - 🪄 [Ký ức Việt Nam thời mới mở cửa du lịch của khách Tây](https://vnexpress.net/ky-uc-viet-nam-thoi-moi-mo-cua-du-lich-cua-khach-tay-4872185.html) - 08:01 10/04/2025
-- 🦅 [Sân bay Nội Bài, Đà Nẵng tăng bậc trong top 100 sân bay thế giới](https://vnexpress.net/san-bay-noi-bai-da-nang-tang-bac-trong-top-100-san-bay-the-gioi-4872255.html) - 07:19 10/04/2025
+- 🦅 [Nội Bài, Đà Nẵng tăng bậc trong top 100 sân bay thế giới](https://vnexpress.net/noi-bai-da-nang-tang-bac-trong-top-100-san-bay-the-gioi-4872255.html) - 07:19 10/04/2025
 - 🕴 [Hoa gạo nhuộm đỏ vùng quê Thái Bình](https://vnexpress.net/hoa-gao-nhuom-do-vung-que-thai-binh-4871656.html) - 04:17 10/04/2025
 - 👀 [20 sân bay tốt nhất thế giới 2025](https://vnexpress.net/20-san-bay-tot-nhat-the-gioi-2025-4872097.html) - 02:42 10/04/2025
 - 🎭 [Việt Nam có nên cấp &#39;visa vàng&#39; cho khách quốc tế?](https://vnexpress.net/viet-nam-co-nen-cap-visa-vang-cho-khach-quoc-te-4871702.html) - 01:13 10/04/2025
