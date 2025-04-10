@@ -4,7 +4,7 @@ sidebar_position: 29
 ---
 
 <!-- dantri-toa-dam-truc-tuyen:START -->
-- 🪜 [&quot;Các yếu tố để sáp nhập tỉnh thành được tính toán cho cả trăm năm&quot;](https://dantri.com.vn/noi-vu/cac-yeu-to-de-sap-nhap-tinh-thanh-duoc-tinh-toan-cho-ca-tram-nam-20250409215603496.htm) - 23:00 09/04/2025
+- 🪜 [&quot;Mường tượng tương lai tỉnh thành từ nhiều năm trước, định hướng trăm năm&quot;](https://dantri.com.vn/noi-vu/muong-tuong-tuong-lai-tinh-thanh-tu-nhieu-nam-truoc-dinh-huong-tram-nam-20250409215603496.htm) - 23:00 09/04/2025
 - 🗽 [&quot;AI không thể thay thế con người&quot;](https://dantri.com.vn/kinh-doanh/ai-khong-the-thay-the-con-nguoi-20250225164802687.htm) - 01:48 05/03/2025
 - 🕯 [Tọa đàm: Đột quỵ và nguy cơ tim mạch trong thể thao](https://dantri.com.vn/suc-khoe/toa-dam-dot-quy-va-nguy-co-tim-mach-trong-the-thao-20241230091738294.htm) - 06:13 06/01/2025
 - 🫶 [Kỷ nguyên mới của Metro TPHCM](https://dantri.com.vn/xa-hoi/ky-nguyen-moi-cua-metro-tphcm-20241219155107130.htm) - 23:40 22/12/2024
