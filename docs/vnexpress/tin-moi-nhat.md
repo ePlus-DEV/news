@@ -28,7 +28,7 @@ sidebar_position: 9
 - 🧑‍💻 [Rủ chém người sau khi bị chặn đánh](https://vnexpress.net/ru-chem-nguoi-sau-khi-bi-chan-danh-4872480.html) - 14:44 10/04/2025
 - 🐲 [Chập điện ở gác lửng khiến 4 người chết cháy](https://vnexpress.net/chap-dien-o-gac-lung-khien-4-nguoi-chet-chay-4872460.html) - 14:40 10/04/2025
 - 🌝 [8 ngày bộ đội Việt Nam tham gia cứu hộ ở Myanmar](https://vnexpress.net/8-ngay-bo-doi-viet-nam-tham-gia-cuu-ho-o-myanmar-4871373.html) - 14:28 10/04/2025
-- 😺 [U17 Việt Nam hòa UAE, lỡ World Cup](https://vnexpress.net/u17-viet-nam-v-u17-uae-4872427.html) - 14:28 10/04/2025
+- 😺 [U17 Việt Nam hòa UAE, lỡ World Cup](https://vnexpress.net/u17-viet-nam-v-u17-uae-4872427-tong-thuat.html) - 14:28 10/04/2025
 - 🐎 [Mỹ xem xét đề xuất thỏa thuận từ 15 đối tác thương mại](https://vnexpress.net/my-xem-xet-de-xuat-thoa-thuan-tu-15-doi-tac-thuong-mai-4872464.html) - 14:11 10/04/2025
 - 🎡 [Prada mua lại Versace giá gần 1,4 tỷ USD](https://vnexpress.net/prada-mua-lai-versace-gia-gan-1-4-ty-usd-4872475.html) - 14:06 10/04/2025
 - 👨‍🏫 [Uống nước vối, ăn thịt kho trứng tiết kiệm 75 nghìn tiền cà phê ăn trưa](https://vnexpress.net/dan-van-phong-chat-vat-vi-bua-trua-tang-gia-4872418.html) - 14:00 10/04/2025
