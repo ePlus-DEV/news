@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Khai mạc Hội nghị Trung ương 11 khóa 13](https://vnexpress.net/khai-mac-hoi-nghi-trung-uong-11-khoa-13-4872080.html) - 02:40 10/04/2025
 - 🤓 [Cháy nhà giữa đêm, 4 người trong gia đình tử vong](https://vnexpress.net/chay-nha-giua-dem-4-nguoi-trong-gia-dinh-tu-vong-4872098.html) - 01:39 10/04/2025
-- ⚗️ [2.000 dân chung cư Hà Nội không dám dùng nước máy vì &#39;mùi hôi tanh&#39;](https://vnexpress.net/2-000-dan-chung-cu-ha-noi-khong-dam-dung-nuoc-may-vi-mui-hoi-tanh-4871987.html) - 00:00 10/04/2025
+- ⚗️ [2.000 dân chung cư Hà Nội không dám dùng nước máy vì &#39;hôi tanh&#39;](https://vnexpress.net/2-000-dan-chung-cu-ha-noi-khong-dam-dung-nuoc-may-vi-hoi-tanh-4871987.html) - 00:00 10/04/2025
 - 🌊 [Nghiên cứu sáp nhập Hải Phòng và Hải Dương, Lào Cai và Yên Bái](https://vnexpress.net/nghien-cuu-sap-nhap-hai-phong-va-hai-duong-4872024.html) - 21:00 09/04/2025
 - 🎓 [Nghệ An xuất hiện lốc xoáy, mưa đá](https://vnexpress.net/nghe-an-xuat-hien-loc-xoay-mua-da-4872026.html) - 19:00 09/04/2025
 - 🔥 [Hàng trăm cơ sở bị đình chỉ hoạt động do không đủ điều kiện phòng cháy](https://vnexpress.net/hang-tram-co-so-bi-dinh-chi-hoat-dong-do-khong-du-dieu-kien-phong-chay-4871985.html) - 16:32 09/04/2025
