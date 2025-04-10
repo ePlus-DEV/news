@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Sancho kiến tạo hai bàn thắng cho Chelsea](https://vnexpress.net/sancho-kien-tao-hai-ban-thang-cho-chelsea-4872512.html) - 18:38 10/04/2025
-- 🦩 [U17 Việt Nam hòa UAE, lỡ World Cup](https://vnexpress.net/u17-viet-nam-v-u17-uae-4872427.html) - 14:28 10/04/2025
+- 🦩 [U17 Việt Nam hòa UAE, lỡ World Cup](https://vnexpress.net/u17-viet-nam-v-u17-uae-4872427-tong-thuat.html) - 14:28 10/04/2025
 - 🧰 [Lyon - Man Utd: &#39;Quỷ Đỏ&#39; dễ đi, khó về ở Europa League](https://vnexpress.net/lyon-man-utd-quy-do-de-di-kho-ve-o-europa-league-4872386.html) - 11:30 10/04/2025
 - 🤗 [Mbappe bị chê làm mất ổn định Real](https://vnexpress.net/mbappe-bi-che-lam-mat-on-dinh-real-4872375.html) - 11:30 10/04/2025
 - 🥳 [Ancelotti có thể bị sa thải tuần tới](https://vnexpress.net/ancelotti-co-the-bi-sa-thai-tuan-toi-4872344.html) - 11:00 10/04/2025
