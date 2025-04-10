@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Các nước Đông Nam Á khẳng định đối thoại với Mỹ về thuế nhập khẩu](https://vnexpress.net/cac-nuoc-dong-nam-a-khang-dinh-doi-thoai-voi-my-ve-thue-nhap-khau-4872316.html) - 09:34 10/04/2025
+- ⛽️ [Các nước Đông Nam Á thống nhất đối thoại với Mỹ về thuế nhập khẩu](https://vnexpress.net/cac-nuoc-dong-nam-a-thong-nhat-doi-thoai-voi-my-ve-thue-nhap-khau-4872316.html) - 09:34 10/04/2025
 - 🐲 [Việt Nam sắp có nhà máy than sinh học đầu tiên từ vỏ trấu](https://vnexpress.net/viet-nam-sap-co-nha-may-than-sinh-hoc-dau-tien-tu-vo-trau-4872362.html) - 09:24 10/04/2025
 - 🔥 [Cổ đông lớn của Phát Đạt và DIC bị bán giải chấp hàng triệu cổ phiếu](https://vnexpress.net/co-dong-lon-cua-phat-dat-va-dic-bi-ban-giai-chap-hang-trieu-co-phieu-4872373.html) - 09:01 10/04/2025
 - 🐵 [Trung Quốc nói sẵn sàng đàm phán với Mỹ](https://vnexpress.net/trung-quoc-noi-san-sang-dam-phan-voi-my-4872321.html) - 07:49 10/04/2025
