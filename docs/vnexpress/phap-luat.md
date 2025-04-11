@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Cuộc trừ khử &#39;kẻ bất tuân&#39; của ông bố kiểm soát cả gia đình](https://vnexpress.net/cuoc-tru-khu-ke-bat-tuan-cua-ong-bo-kiem-soat-ca-gia-dinh-4872447.html) - 23:00 10/04/2025
 - 🥰 [8 điều cần biết về tội lừa dối khách hàng](https://vnexpress.net/8-dieu-can-biet-ve-toi-lua-doi-khach-hang-4871950.html) - 23:00 10/04/2025
-- 🎓 [Hối lộ 7,7 tỷ đồng để &#39;mua&#39; hơn 10.000 phiếu lý lịch tư pháp](https://vnexpress.net/hoi-lo-7-7-ty-dong-de-mua-hon-10-000-phieu-ly-lich-tu-phap-4872391.html) - 17:00 10/04/2025
+- 🎓 [Cựu công an hối lộ 7,7 tỷ đồng để &#39;mua&#39; hơn 10.000 phiếu lý lịch tư pháp](https://vnexpress.net/cuu-cong-an-hoi-lo-7-7-ty-dong-de-mua-hon-10-000-phieu-ly-lich-tu-phap-4872391.html) - 17:00 10/04/2025
 - 🤓 [Rủ chém người sau khi bị chặn đánh](https://vnexpress.net/ru-chem-nguoi-sau-khi-bi-chan-danh-4872480.html) - 14:44 10/04/2025
 - 🎊 [Tiktoker &#39;Dưỡng Dướng Dường&#39; bị bắt](https://vnexpress.net/tiktoker-duong-duong-duong-bi-bat-4872463.html) - 13:06 10/04/2025
 - 🙉 [Cụ bà 80 tuổi lừa 1,1 tỷ đồng](https://vnexpress.net/cu-ba-80-tuoi-lua-1-1-ty-dong-4872450.html) - 12:37 10/04/2025
