@@ -4,16 +4,16 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Khách Việt không còn &#39;sính ngoại&#39; dịp 30/4](https://vnexpress.net/khach-viet-khong-con-sinh-ngoai-dip-30-4-4872575.html) - 05:04 11/04/2025
-- 🪄 [Quán bún mắm núp hẻm giá 130.000 đồng một tô](https://vnexpress.net/quan-bun-mam-nup-hem-gia-130-000-dong-mot-to-4871343.html) - 03:45 11/04/2025
-- 🦅 [Ba tỉnh có di sản UNESCO làm tour chung](https://vnexpress.net/ba-tinh-co-di-san-unesco-lam-tour-chung-4872436.html) - 02:32 11/04/2025
-- 🕴 [5 tour &#39;tìm về thiên nhiên&#39;](https://vnexpress.net/5-tour-tim-ve-thien-nhien-4869563.html) - 02:00 11/04/2025
-- 👀 [Quán cà phê phong cách Đông Hồ ở Hà Nội](https://vnexpress.net/quan-ca-phe-phong-cach-dong-ho-o-ha-noi-4862913.html) - 00:00 11/04/2025
-- 🎭 [Năm tour biển đảo dưới 8 triệu đồng cho dịp 30/4](https://vnexpress.net/nam-tour-bien-dao-duoi-8-trieu-dong-cho-dip-30-4-4871138.html) - 17:09 10/04/2025
-- 🦒 [Hé lộ phác thảo show jetski bắn pháo hoa 200 tỷ đồng tại Cát Bà](https://vnexpress.net/he-lo-phac-thao-show-jetski-ban-phao-hoa-200-ty-dong-tai-cat-ba-4872402.html) - 13:00 10/04/2025
-- 👨‍🏫 [Lotte World mở khu vui chơi trong nhà tại Hà Nội](https://vnexpress.net/lotte-world-mo-khu-vui-choi-trong-nha-tai-ha-noi-4872177.html) - 13:00 10/04/2025
-- ⚗️ [Lý do lươn nướng Kabayaki Nhật Bản &#39;siêu đắt&#39;](https://vnexpress.net/ly-do-luon-nuong-kabayaki-nhat-ban-sieu-dat-4872246.html) - 12:00 10/04/2025
-- 🥸 [Huế thu 221 tỷ đồng dịp VnExpress Marathon 2025](https://vnexpress.net/hue-thu-221-ty-dong-dip-vnexpress-marathon-2025-4871114.html) - 09:00 10/04/2025
+- 💂 [Huế thu 221 tỷ đồng dịp VnExpress Marathon 2025](https://vnexpress.net/hue-thu-221-ty-dong-dip-vnexpress-marathon-2025-4871114.html) - 07:00 11/04/2025
+- 🪄 [Khách Việt không còn &#39;sính ngoại&#39; dịp 30/4](https://vnexpress.net/khach-viet-khong-con-sinh-ngoai-dip-30-4-4872575.html) - 05:04 11/04/2025
+- 🦅 [Quán bún mắm núp hẻm giá 130.000 đồng một tô](https://vnexpress.net/quan-bun-mam-nup-hem-gia-130-000-dong-mot-to-4871343.html) - 03:45 11/04/2025
+- 🕴 [Ba tỉnh có di sản UNESCO làm tour chung](https://vnexpress.net/ba-tinh-co-di-san-unesco-lam-tour-chung-4872436.html) - 02:32 11/04/2025
+- 👀 [5 tour &#39;tìm về thiên nhiên&#39;](https://vnexpress.net/5-tour-tim-ve-thien-nhien-4869563.html) - 02:00 11/04/2025
+- 🎭 [Quán cà phê phong cách Đông Hồ ở Hà Nội](https://vnexpress.net/quan-ca-phe-phong-cach-dong-ho-o-ha-noi-4862913.html) - 00:00 11/04/2025
+- 🦒 [Năm tour biển đảo dưới 8 triệu đồng cho dịp 30/4](https://vnexpress.net/nam-tour-bien-dao-duoi-8-trieu-dong-cho-dip-30-4-4871138.html) - 17:09 10/04/2025
+- 👨‍🏫 [Hé lộ phác thảo show jetski bắn pháo hoa 200 tỷ đồng tại Cát Bà](https://vnexpress.net/he-lo-phac-thao-show-jetski-ban-phao-hoa-200-ty-dong-tai-cat-ba-4872402.html) - 13:00 10/04/2025
+- ⚗️ [Lotte World mở khu vui chơi trong nhà tại Hà Nội](https://vnexpress.net/lotte-world-mo-khu-vui-choi-trong-nha-tai-ha-noi-4872177.html) - 13:00 10/04/2025
+- 🥸 [Lý do lươn nướng Kabayaki Nhật Bản &#39;siêu đắt&#39;](https://vnexpress.net/ly-do-luon-nuong-kabayaki-nhat-ban-sieu-dat-4872246.html) - 12:00 10/04/2025
 - 🤠 [Ký ức Việt Nam thời mới mở cửa du lịch của khách Tây](https://vnexpress.net/ky-uc-viet-nam-thoi-moi-mo-cua-du-lich-cua-khach-tay-4872185.html) - 08:01 10/04/2025
 - 🚀 [Nội Bài, Đà Nẵng tăng bậc trong top 100 sân bay thế giới](https://vnexpress.net/noi-bai-da-nang-tang-bac-trong-top-100-san-bay-the-gioi-4872255.html) - 07:19 10/04/2025
 - 💻 [Hoa gạo nhuộm đỏ vùng quê Thái Bình](https://vnexpress.net/hoa-gao-nhuom-do-vung-que-thai-binh-4871656.html) - 04:17 10/04/2025
