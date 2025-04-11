@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [Một tuần thị trường tài chính chao đảo vì bão thuế](https://vnexpress.net/mot-tuan-thi-truong-tai-chinh-chao-dao-vi-bao-thue-4872532.html) - 04:29 11/04/2025
 - 🐲 [Cổ phiếu họ Masan hưởng ứng đà bật tăng](https://vnexpress.net/co-phieu-ho-masan-huong-ung-da-bat-tang-4872682.html) - 04:06 11/04/2025
 - 🔥 [Trung Quốc tăng giá nhân dân tệ](https://vnexpress.net/trung-quoc-tang-gia-nhan-dan-te-4872580.html) - 03:00 11/04/2025
-- 🐵 [VN-Index lấy lại mốc 1.200 điểm](https://vnexpress.net/chung-khoan-mo-cua-tang-65-diem-4872586.html) - 02:10 11/04/2025
+- 🐵 [Chứng khoán chốt phiên sáng tăng 27 điểm](https://vnexpress.net/chung-khoan-mo-cua-tang-65-diem-4872586.html) - 02:10 11/04/2025
 - 🦅 [Giá vàng miếng vượt 106 triệu đồng](https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-11-4-4872581.html) - 02:07 11/04/2025
 - 😺 [Chứng khoán châu Á, Bitcoin đi xuống](https://vnexpress.net/chung-khoan-chau-a-bitcoin-di-xuong-4872550.html) - 01:31 11/04/2025
 - 🤩 [Long Châu thắng giải đổi mới sáng tạo tại Healthcare Asia Pharma Awards](https://vnexpress.net/long-chau-thang-giai-doi-moi-sang-tao-tai-healthcare-asia-pharma-awards-4872503.html) - 01:00 11/04/2025
