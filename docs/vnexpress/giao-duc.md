@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Cô giáo mầm non dốc ngược chân, đánh trẻ giờ ngủ trưa](https://vnexpress.net/co-giao-mam-non-doc-nguoc-chan-danh-tre-gio-ngu-trua-4873027.html) - 03:39 12/04/2025
+- 🤓 [Cô giáo mầm non dốc ngược chân, chọc gậy vào miệng trẻ](https://vnexpress.net/co-giao-mam-non-doc-nguoc-chan-choc-gay-vao-mieng-tre-4873027.html) - 03:39 12/04/2025
 - 🦆 [13 đại học đào tạo Khoa học máy tính tốt nhất châu Á](https://vnexpress.net/13-dai-hoc-dao-tao-khoa-hoc-may-tinh-tot-nhat-chau-a-4870693.html) - 02:10 12/04/2025
 - 🦩 [Giao cấp xã quản lý trường học từ mầm non đến THCS](https://vnexpress.net/giao-cap-xa-quan-ly-truong-hoc-tu-mam-non-den-thcs-4872972.html) - 16:30 11/04/2025
 - 🌮 [Tỉnh, thành nào có tỷ lệ người độc thân cao nhất Việt Nam?](https://vnexpress.net/tinh-thanh-nao-co-ty-le-nguoi-doc-than-cao-nhat-viet-nam-4872948.html) - 13:50 11/04/2025
