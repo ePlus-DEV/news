@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Ông Trump miễn thuế đối ứng với smartphone, laptop, chip nhớ](https://vnexpress.net/ong-trump-mien-thue-doi-ung-voi-smartphone-laptop-chip-nho-4873251.html) - 13:56 12/04/2025
+- ⛽️ [Ông Trump miễn thuế đối ứng với smartphone, laptop](https://vnexpress.net/ong-trump-mien-thue-doi-ung-voi-smartphone-laptop-chip-nho-4873251.html) - 13:56 12/04/2025
 - 🐲 [Đội ngũ của ông Trump phải đàm phán 90 thỏa thuận trong 90 ngày](https://vnexpress.net/doi-ngu-cua-ong-trump-phai-dam-phan-90-thoa-thuan-trong-90-ngay-4873235.html) - 13:39 12/04/2025
 - 🔥 [&#39;Sức mạnh&#39; của thị trường trái phiếu khiến ông Trump hoãn thuế](https://vnexpress.net/suc-manh-cua-thi-truong-trai-phieu-khien-ong-trump-hoan-thue-4873150.html) - 11:02 12/04/2025
 - 🐵 [EuroCham: Việt Nam có &#39;át chủ bài&#39; ứng phó biến động thương mại](https://vnexpress.net/eurocham-viet-nam-co-at-chu-bai-ung-pho-bien-dong-thuong-mai-4872982.html) - 10:49 12/04/2025
