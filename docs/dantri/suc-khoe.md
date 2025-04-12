@@ -4,7 +4,7 @@ sidebar_position: 23
 ---
 
 <!-- dantri-suc-khoe:START -->
-- 🤔 [Người mẹ thoát chết nhờ được ghép tim nhân tạo, mong ngày cưới con](https://dantri.com.vn/suc-khoe/nguoi-me-thoat-chet-nho-duoc-ghep-tim-nhan-tao-mong-ngay-cuoi-con-20250412090025085.htm) - 02:11 12/04/2025
+- 🤔 [Người mẹ thoát chết nhờ được ghép tim nhân tạo, mong ngày cưới của con](https://dantri.com.vn/suc-khoe/nguoi-me-thoat-chet-nho-duoc-ghep-tim-nhan-tao-mong-ngay-cuoi-cua-con-20250412090025085.htm) - 02:11 12/04/2025
 - 🚦 [Bệnh viện thông tin sản phụ tử vong sau khi chuyển viện tuyến trên](https://dantri.com.vn/suc-khoe/benh-vien-thong-tin-san-phu-tu-vong-sau-khi-chuyen-vien-tuyen-tren-20250411221716519.htm) - 00:52 12/04/2025
 - 🤖 [Trường Y Havard: Một thay đổi trong bữa ăn giảm nguy cơ tử vong gần 20%](https://dantri.com.vn/suc-khoe/truong-y-havard-mot-thay-doi-trong-bua-an-giam-nguy-co-tu-vong-gan-20-20250411235030159.htm) - 00:36 12/04/2025
 - 🐻 [Ăn củ ấu tàu thay cơm, người phụ nữ phải đi cấp cứu](https://dantri.com.vn/suc-khoe/an-cu-au-tau-thay-com-nguoi-phu-nu-phai-di-cap-cuu-20250411221021746.htm) - 15:15 11/04/2025
