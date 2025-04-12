@@ -594,7 +594,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💼 [Cháy rừng ở Quảng Ninh, cả ngọn đồi đỏ rực như &#39;núi lửa&#39;](https://tienphong.vn/chay-rung-o-quang-ninh-ca-ngon-doi-do-ruc-nhu-nui-lua-post1733223.tpo) - 00:35 13/04/2025
 - 🎊 [Fan cuồng lao đến ôm Sơn Tùng](https://tienphong.vn/fan-cuong-lao-den-om-son-tung-post1733207.tpo) - 23:06 12/04/2025
 - 💼 [Diều Bá Dương Nội là di sản văn hoá phi vật thể quốc gia](https://tienphong.vn/dieu-ba-duong-noi-la-di-san-van-hoa-phi-vat-the-quoc-gia-post1733086.tpo) - 22:24 12/04/2025
-- 👺 [Trực tiếp Arsenal vs Brentford 1-1 &lpar;H2&rpar;: Đội khách gỡ hòa](https://tienphong.vn/truc-tiep-arsenal-vs-brentford-1-1-h2-doi-khach-go-hoa-post1733198.tpo) - 22:15 12/04/2025
+- 👺 [Hòa Brentford, Arsenal cạn hy vọng vô địch Ngoại hạng Anh](https://tienphong.vn/hoa-brentford-arsenal-can-hy-vong-vo-dich-ngoai-hang-anh-post1733198.tpo) - 22:15 12/04/2025
 - 💪 [Xây dựng hệ sinh thái số dành cho thanh niên Việt Nam toàn cầu](https://tienphong.vn/xay-dung-he-sinh-thai-so-danh-cho-thanh-nien-viet-nam-toan-cau-post1733157.tpo) - 22:10 12/04/2025
 - 💃 [Những cánh diều ‘khủng’ ở hội thi thả diều nghìn năm tuổi ở Thủ đô](https://tienphong.vn/nhung-canh-dieu-khung-o-hoi-thi-tha-dieu-nghin-nam-tuoi-o-thu-do-post1733142.tpo) - 22:03 12/04/2025
 - 🦍 [Lisa &lpar;BlackPink&rpar; bị chỉ trích](https://tienphong.vn/lisa-blackpink-bi-chi-trich-post1733180.tpo) - 22:02 12/04/2025
