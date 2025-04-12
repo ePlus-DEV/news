@@ -586,7 +586,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- hoahoctro:START -->
 - 💼 [Fan cuồng lao đến ôm Sơn Tùng](https://tienphong.vn/fan-cuong-lao-den-om-son-tung-post1733207.tpo) - 23:06 12/04/2025
 - 🎊 [Diều Bá Dương Nội là di sản văn hoá phi vật thể quốc gia](https://tienphong.vn/dieu-ba-duong-noi-la-di-san-van-hoa-phi-vat-the-quoc-gia-post1733086.tpo) - 22:24 12/04/2025
-- 💼 [Trực tiếp Arsenal vs Brentford, 23h30 hôm nay: Dưỡng sức đấu Real?](https://tienphong.vn/truc-tiep-arsenal-vs-brentford-23h30-hom-nay-duong-suc-dau-real-post1733198.tpo) - 22:15 12/04/2025
+- 💼 [Trực tiếp Arsenal vs Brentford 0-0 &lpar;H1&rpar;: Pháo thủ gây sức ép](https://tienphong.vn/truc-tiep-arsenal-vs-brentford-0-0-h1-phao-thu-gay-suc-ep-post1733198.tpo) - 22:15 12/04/2025
 - 👺 [Xây dựng hệ sinh thái số dành cho thanh niên Việt Nam toàn cầu](https://tienphong.vn/xay-dung-he-sinh-thai-so-danh-cho-thanh-nien-viet-nam-toan-cau-post1733157.tpo) - 22:10 12/04/2025
 - 💪 [Những cánh diều ‘khủng’ ở hội thi thả diều nghìn năm tuổi ở Thủ đô](https://tienphong.vn/nhung-canh-dieu-khung-o-hoi-thi-tha-dieu-nghin-nam-tuoi-o-thu-do-post1733142.tpo) - 22:03 12/04/2025
 - 💃 [Lisa &lpar;BlackPink&rpar; bị chỉ trích](https://tienphong.vn/lisa-blackpink-bi-chi-trich-post1733180.tpo) - 22:02 12/04/2025
@@ -627,7 +627,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐘 [Thanh Hóa xem xét tạm dừng thực hiện 159 dự án với hơn 2.054 tỷ đồng](https://tienphong.vn/thanh-hoa-xem-xet-tam-dung-thuc-hien-159-du-an-voi-hon-2054-ty-dong-post1732860.tpo) - 17:34 12/04/2025
 - 😺 [Bản tin Hình sự: Cảnh sát bắt quả tang 2 nhân viên massage đang kích dục, bán dâm cho khách](https://tienphong.vn/ban-tin-hinh-su-canh-sat-bat-qua-tang-2-nhan-vien-massage-dang-kich-duc-ban-dam-cho-khach-post1733126.tpo) - 17:32 12/04/2025
 - 🌁 [Khởi tố 6 đối tượng vây đánh ba người đàn ông lớn tuổi](https://tienphong.vn/khoi-to-6-doi-tuong-vay-danh-ba-nguoi-dan-ong-lon-tuoi-post1732944.tpo) - 17:31 12/04/2025
-- 💄 [Khách nam xông vào buồng lái phi công, máy bay hạ cánh khẩn cấp](https://tienphong.vn/khach-nam-xong-vao-buong-lai-phi-cong-may-bay-ha-canh-khan-cap-post1732827.tpo) - 17:29 12/04/2025
+- 💄 [Lý do khách nam tức giận xông vào buồng lái phi công](https://tienphong.vn/ly-do-khach-nam-tuc-gian-xong-vao-buong-lai-phi-cong-post1732827.tpo) - 17:29 12/04/2025
 - 🧰 [Khởi tố thêm đối tượng &#39;bảo kê&#39; vùng ven biển Kiên Giang](https://tienphong.vn/khoi-to-them-doi-tuong-bao-ke-vung-ven-bien-kien-giang-post1733124.tpo) - 17:28 12/04/2025
 - 🗽 [Tổng Bí thư Tô Lâm: Trung ương thống nhất sáp nhập còn 34 tỉnh, thành phố](https://tienphong.vn/tong-bi-thu-to-lam-trung-uong-thong-nhat-sap-nhap-con-34-tinh-thanh-pho-post1733122.tpo) - 17:27 12/04/2025
 - 📝 [Bộ Nội vụ đề xuất chấm dứt hoạt động cấp huyện, quận từ ngày 1/7](https://tienphong.vn/bo-noi-vu-de-xuat-cham-dut-hoat-dong-cap-huyen-quan-tu-ngay-17-post1733127.tpo) - 17:27 12/04/2025
