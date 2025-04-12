@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [Barcelona gia tăng khoảng cách với Real Madrid lên 7 điểm](https://dantri.com.vn/the-thao/barcelona-gia-tang-khoang-cach-voi-real-madrid-len-7-diem-20250413021513275.htm) - 21:49 12/04/2025
 - 💯 [Hàng trăm VĐV nhí tranh tài kịch tính ở giải Aqua Warriors Halong Bay 2025](https://dantri.com.vn/the-thao/hang-tram-vdv-nhi-tranh-tai-kich-tinh-o-giai-aqua-warriors-halong-bay-2025-20250413033645588.htm) - 20:36 12/04/2025
-- ⛽️ [Aqua Warriors Halong Bay 2025: Các &quot;chiến binh&quot; chuẩn bị bước vào đường đua](https://dantri.com.vn/the-thao/aqua-warriors-halong-bay-2025-cac-chien-binh-chuan-bi-buoc-vao-duong-dua-20250413025347495.htm) - 20:00 12/04/2025
+- ⛽️ [Aqua Warriors Halong Bay 2025: Các &quot;chiến binh&quot; bắt đầu tranh tài](https://dantri.com.vn/the-thao/aqua-warriors-halong-bay-2025-cac-chien-binh-bat-dau-tranh-tai-20250413025347495.htm) - 20:00 12/04/2025
 - 💃 [Arsenal chủ động &quot;giương cờ trắng&quot; trước Liverpool](https://dantri.com.vn/the-thao/arsenal-chu-dong-giuong-co-trang-truoc-liverpool-20250413020440973.htm) - 19:05 12/04/2025
 - 🌈 [Alcaraz cùng Musetti tranh cúp vô địch Monte Carlo](https://dantri.com.vn/the-thao/alcaraz-cung-musetti-tranh-cup-vo-dich-monte-carlo-20250413011409628.htm) - 18:14 12/04/2025
 - 🦅 [Man City thắng tưng bừng Crystal Palace dù bị dẫn trước 2 bàn](https://dantri.com.vn/the-thao/man-city-thang-tung-bung-crystal-palace-du-bi-dan-truoc-2-ban-20250412221158931.htm) - 15:14 12/04/2025
