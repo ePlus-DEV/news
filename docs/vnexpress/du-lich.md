@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [27 người chết vì tai nạn giao thông trong ngày đầu Tết té nước](https://vnexpress.net/27-nguoi-chet-vi-tai-nan-giao-thong-trong-ngay-dau-tet-te-nuoc-4873158.html) - 11:17 12/04/2025
-- 🪄 [60 thành viên hoàng gia Saudi Arabia sẽ du lịch Việt Nam gần một tháng](https://vnexpress.net/60-thanh-vien-hoang-gia-saudi-arabia-se-du-lich-viet-nam-gan-mot-thang-4873157.html) - 08:19 12/04/2025
+- 🪄 [Hoàng gia Saudi Arabia dự kiến du lịch Việt Nam gần một tháng](https://vnexpress.net/hoang-gia-saudi-arabia-du-kien-du-lich-viet-nam-gan-mot-thang-4873157.html) - 08:19 12/04/2025
 - 🦅 [7 trải nghiệm mạo hiểm không nên bỏ lỡ tại Việt Nam](https://vnexpress.net/7-trai-nghiem-mao-hiem-khong-nen-bo-lo-tai-viet-nam-4872395.html) - 06:00 12/04/2025
 - 🕴 [Cẩm nang du lịch Bà Nà Hills](https://vnexpress.net/cam-nang-du-lich-ba-na-hills-4866205.html) - 04:30 12/04/2025
 - 👀 [10 sân bay tốt nhất dành cho tín đồ mua sắm](https://vnexpress.net/10-san-bay-tot-nhat-danh-cho-tin-do-mua-sam-4872738.html) - 02:29 12/04/2025
