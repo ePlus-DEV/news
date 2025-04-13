@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Alcaraz: &#39;Sinner đẩy áp lực về phía tôi&#39;](https://vnexpress.net/alcaraz-sinner-day-ap-luc-ve-phia-toi-4873413.html) - 07:14 13/04/2025
+- 🪜 [Alcaraz - Musetti: Lần đầu ở Monte Carlo](https://vnexpress.net/alcaraz-musetti-lan-dau-o-monte-carlo-4873413.html) - 07:14 13/04/2025
 - 🦩 [Áo Vàng giải xe đạp xuyên Việt đổi chủ](https://vnexpress.net/ao-vang-giai-xe-dap-xuyen-viet-doi-chu-4873404.html) - 06:53 13/04/2025
 - 🧰 [Lâm Quang Nhật năm thứ ba liên tiếp phá kỷ lục quốc gia triathlon](https://vnexpress.net/lam-quang-nhat-nam-thu-ba-lien-tiep-pha-ky-luc-quoc-gia-triathlon-4873393.html) - 05:13 13/04/2025
 - 🤗 [Dấu ấn VnExpress Marathon Huế 2025](https://vnexpress.net/dau-an-vnexpress-marathon-hue-2025-4872637.html) - 04:00 13/04/2025
