@@ -589,7 +589,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎊 [Ông Nawat cấm vận một á hậu](https://tienphong.vn/ong-nawat-cam-van-mot-a-hau-post1732710.tpo) - 23:39 13/04/2025
 - 💼 [Hơn 500 người chết và bị thương trong lễ hội té nước](https://tienphong.vn/hon-500-nguoi-chet-va-bi-thuong-trong-le-hoi-te-nuoc-post1733352.tpo) - 23:22 13/04/2025
 - 👺 [Showbiz 13/4: NSƯT Chí Trung và bạn gái gặp sự cố](https://tienphong.vn/showbiz-134-nsut-chi-trung-va-ban-gai-gap-su-co-post1733422.tpo) - 22:16 13/04/2025
-- 💪 [Trực tiếp Newcastle vs MU 4-1 &lpar;H2&rpar;: Thủ môn MU &#39;biếu&#39; đối thủ thêm bàn thắng](https://tienphong.vn/truc-tiep-newcastle-vs-mu-4-1-h2-thu-mon-mu-bieu-doi-thu-them-ban-thang-post1733416.tpo) - 21:45 13/04/2025
+- 💪 [MU thua sốc trên sân Newcastle](https://tienphong.vn/mu-thua-soc-tren-san-newcastle-post1733416.tpo) - 21:45 13/04/2025
 - 💃 [Tuyển futsal Việt Nam thắng với tỷ số không tưởng trước đội thứ 7 thế giới](https://tienphong.vn/tuyen-futsal-viet-nam-thang-voi-ty-so-khong-tuong-truoc-doi-thu-7-the-gioi-post1733424.tpo) - 21:38 13/04/2025
 - 🦍 [Cảnh sát giao thông xử lý nhiều trường hợp vi phạm khi đi &#39;săn mây&#39;](https://tienphong.vn/canh-sat-giao-thong-xu-ly-nhieu-truong-hop-vi-pham-khi-di-san-may-post1733418.tpo) - 21:37 13/04/2025
 - 👹 [2 điểm huyệt, 3 bài học về tái cơ cấu ngân hàng yếu kém](https://tienphong.vn/2-diem-huyet-3-bai-hoc-ve-tai-co-cau-ngan-hang-yeu-kem-post1733296.tpo) - 21:15 13/04/2025
