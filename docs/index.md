@@ -247,7 +247,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Giải Half-marathon &quot;Tự hào Tổ quốc tôi&quot; lần 2 năm 2025: hấp dẫn, lành mạnh, ý nghĩa](https://nld.com.vn/giai-half-marathon-tu-hao-to-quoc-toi-lan-2-nam-2025-hap-dan-lanh-manh-y-nghia-196250413183606965.htm) - 11:54 13/04/2025
+- 🐎 [Giải Half-marathon &quot;Tự hào Tổ quốc tôi&quot; lần 2 năm 2025: Hấp dẫn, lành mạnh, ý nghĩa](https://nld.com.vn/giai-half-marathon-tu-hao-to-quoc-toi-lan-2-nam-2025-hap-dan-lanh-manh-y-nghia-196250413183606965.htm) - 11:54 13/04/2025
 - 😺 [Cảnh sát giao thông xử lý nhiều người bất chấp luật khi đi “săn mây&quot; ở Đắk Nông](https://nld.com.vn/canh-sat-giao-thong-xu-ly-nhieu-nguoi-bat-chap-luat-khi-di-san-may-o-dak-nong-196250413183132562.htm) - 11:54 13/04/2025
 - 👍 [Giao tranh biên giới tăng nhiệt, Nga tấn công ráo riết, Ukraine pháo kích dữ dội](https://nld.com.vn/giao-tranh-bien-gioi-tang-nhiet-nga-tan-cong-rao-riet-ukraine-phao-kich-du-doi-196250413153443305.htm) - 11:51 13/04/2025
 - 🥷 [Va chạm với xe buýt, một phụ nữ khiếm thị bị thương nặng](https://nld.com.vn/va-cham-voi-xe-buyt-mot-phu-nu-khiem-thi-bi-thuong-nang-196250413180717018.htm) - 11:25 13/04/2025
