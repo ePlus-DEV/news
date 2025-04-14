@@ -18,7 +18,7 @@ sidebar_position: 9
 - 🎊 [McGregor mất 500.000 USD vì thất bại của Chandler](https://vnexpress.net/mcgregor-mat-500-000-usd-vi-that-bai-cua-chandler-4873996.html) - 22:25 14/04/2025
 - 🎊 [Đội trưởng Newcastle chế nhạo Bruno Fernandes](https://vnexpress.net/doi-truong-newcastle-che-nhao-bruno-fernandes-4874023.html) - 22:20 14/04/2025
 - 😺 [Cách giảm tác động xấu của sóng điện thoại lên cơ thể](https://vnexpress.net/cach-giam-tac-dong-xau-cua-song-dien-thoai-len-co-the-4873890.html) - 22:00 14/04/2025
-- 🐘 [EU gặp khó với đề xuất mua 350 tỷ USD dầu khí của ông Trump](https://vnexpress.net/eu-gap-kho-voi-de-xuat-mua-350-ty-usd-dau-khi-cua-ong-trump-4873022.html) - 22:00 14/04/2025
+- 🐘 [Đề xuất 350 tỷ USD của ông Trump để châu Âu tránh đòn thuế](https://vnexpress.net/de-xuat-350-ty-usd-cua-ong-trump-de-chau-au-tranh-don-thue-4873022.html) - 22:00 14/04/2025
 - 🌁 [Mẹo phân biệt sữa thật - giả](https://vnexpress.net/meo-phan-biet-sua-that-gia-4873786.html) - 22:00 14/04/2025
 - 🐲 [Hôn nhân của Hồng Kim Bảo và hoa hậu Hong Kong](https://vnexpress.net/hon-nhan-cua-hong-kim-bao-va-hoa-hau-hong-kong-4873631.html) - 22:00 14/04/2025
 - 🤓 [Hiểu đúng về vạch mắt võng tại giao lộ](https://vnexpress.net/hieu-dung-ve-vach-mat-vong-tai-giao-lo-4873860.html) - 22:00 14/04/2025
