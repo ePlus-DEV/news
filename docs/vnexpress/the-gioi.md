@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Thủ tướng Phạm Minh Chính hội kiến Tổng Bí thư, Chủ tịch Tập Cận Bình](https://vnexpress.net/thu-tuong-pham-minh-chinh-hoi-kien-tong-bi-thu-chu-tich-tap-can-binh-4873977.html) - 14:14 14/04/2025
+- 🎭 [Thủ tướng đề nghị Việt - Trung dành ưu tiên cao cho hợp tác đường sắt](https://vnexpress.net/thu-tuong-de-nghi-viet-trung-danh-uu-tien-cao-cho-hop-tac-duong-sat-4873977.html) - 14:14 14/04/2025
 - 🕴 [Tổng Bí thư đề nghị khoa học công nghệ là điểm sáng mới trong hợp tác Việt - Trung](https://vnexpress.net/tong-bi-thu-de-nghi-khoa-hoc-cong-nghe-la-diem-sang-moi-trong-hop-tac-viet-trung-4873973.html) - 14:10 14/04/2025
 - 🤭 [Hamas nêu điều kiện thả toàn bộ con tin Israel](https://vnexpress.net/hamas-neu-dieu-kien-tha-toan-bo-con-tin-israel-4873966.html) - 13:10 14/04/2025
 - 🧑‍💻 [Nga nêu lý do tập kích tên lửa Iskander vào Sumy](https://vnexpress.net/nga-neu-ly-do-tap-kich-ten-lua-iskander-vao-sumy-4873957.html) - 12:58 14/04/2025
