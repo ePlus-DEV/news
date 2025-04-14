@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Đề xuất 350 tỷ USD của ông Trump để châu Âu tránh đòn thuế](https://vnexpress.net/de-xuat-350-ty-usd-cua-ong-trump-de-chau-au-tranh-don-thue-4873022.html) - 22:00 14/04/2025
+- 🎭 [EU gặp khó với đề xuất mua 350 tỷ USD dầu khí của ông Trump](https://vnexpress.net/eu-gap-kho-voi-de-xuat-mua-350-ty-usd-dau-khi-cua-ong-trump-4873022.html) - 22:00 14/04/2025
 - 🕴 [Mối đe dọa từ tên lửa Nga với tiêm kích F-16 Ukraine](https://vnexpress.net/moi-de-doa-tu-ten-lua-nga-voi-tiem-kich-f-16-ukraine-4873634.html) - 18:00 14/04/2025
 - 🤭 [Thủ phủ ngành ôtô Canada điêu đứng vì sóng thuế quan Mỹ](https://vnexpress.net/thu-phu-nganh-oto-canada-dieu-dung-vi-song-thue-quan-my-4873586.html) - 17:00 14/04/2025
 - 🧑‍💻 [Việt - Trung sẽ cùng xây dựng hành lang pháp lý vững chắc cho các dự án hợp tác lớn](https://vnexpress.net/viet-trung-se-cung-xay-dung-hanh-lang-phap-ly-vung-chac-cho-cac-du-an-hop-tac-lon-4874002.html) - 16:50 14/04/2025
