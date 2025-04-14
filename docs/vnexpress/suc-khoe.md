@@ -5,7 +5,7 @@ sidebar_position: 10
 
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [Phổi người đàn ông &#39;gánh&#39; nhiều bệnh mạn tính](https://vnexpress.net/phoi-nguoi-dan-ong-ganh-nhieu-benh-man-tinh-4873835.html) - 09:00 14/04/2025
-- 🥰 [Việt Nam lần đầu có trung tâm dị ứng - miễn dịch lâm sàng đạt tiêu chuẩn quốc tế](https://vnexpress.net/viet-nam-lan-dau-co-trung-tam-di-ung-mien-dich-lam-sang-dat-tieu-chuan-quoc-te-4873754.html) - 09:00 14/04/2025
+- 🥰 [Việt Nam lần đầu có trung tâm dị ứng - miễn dịch lâm sàng tiêu chuẩn quốc tế](https://vnexpress.net/viet-nam-lan-dau-co-trung-tam-di-ung-mien-dich-lam-sang-tieu-chuan-quoc-te-4873754.html) - 09:00 14/04/2025
 - 💡 [5 món bổ dưỡng trẻ nên ăn mỗi ngày](https://vnexpress.net/5-mon-bo-duong-tre-nen-an-moi-ngay-4873707.html) - 09:00 14/04/2025
 - 🤗 [TP HCM công bố thêm 19 phường hết dịch sởi](https://vnexpress.net/tp-hcm-cong-bo-them-19-phuong-het-dich-soi-4873834.html) - 08:51 14/04/2025
 - 🪜 [Lập sở chỉ huy tiền phương hỗ trợ y tế dịp đại lễ 30/4](https://vnexpress.net/lap-so-chi-huy-tien-phuong-ho-tro-y-te-dip-dai-le-30-4-4873682.html) - 08:36 14/04/2025
