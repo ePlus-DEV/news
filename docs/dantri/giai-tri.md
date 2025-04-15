@@ -4,9 +4,9 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Quyền Linh và Mái ấm gia đình Việt: 2 năm đồng hành kết thúc bằng tranh cãi](https://dantri.com.vn/giai-tri/quyen-linh-va-mai-am-gia-dinh-viet-2-nam-dong-hanh-ket-thuc-bang-tranh-cai-20250415134656431.htm) - 11:42 15/04/2025
-- 🔥 [Loạt nghệ sĩ, hoa hậu quảng cáo &quot;lố&quot;: Cục Nghệ thuật biểu diễn lên tiếng](https://dantri.com.vn/giai-tri/loat-nghe-si-hoa-hau-quang-cao-lo-cuc-nghe-thuat-bieu-dien-len-tieng-20250415153649219.htm) - 09:13 15/04/2025
-- 🚀 [&quot;Quốc bảo nhan sắc Nhật Bản&quot; có nguy cơ ngồi tù 15 năm, đánh mất sự nghiệp](https://dantri.com.vn/giai-tri/quoc-bao-nhan-sac-nhat-ban-co-nguy-co-ngoi-tu-15-nam-danh-mat-su-nghiep-20250415095340642.htm) - 08:00 15/04/2025
+- 🤩 [&quot;Quốc bảo nhan sắc Nhật Bản&quot; có nguy cơ ngồi tù 15 năm, đánh mất sự nghiệp](https://dantri.com.vn/giai-tri/quoc-bao-nhan-sac-nhat-ban-co-nguy-co-ngoi-tu-15-nam-danh-mat-su-nghiep-20250415095340642.htm) - 14:56 15/04/2025
+- 🔥 [Quyền Linh và Mái ấm gia đình Việt: 2 năm đồng hành kết thúc bằng tranh cãi](https://dantri.com.vn/giai-tri/quyen-linh-va-mai-am-gia-dinh-viet-2-nam-dong-hanh-ket-thuc-bang-tranh-cai-20250415134656431.htm) - 11:42 15/04/2025
+- 🚀 [Loạt nghệ sĩ, hoa hậu quảng cáo &quot;lố&quot;: Cục Nghệ thuật biểu diễn lên tiếng](https://dantri.com.vn/giai-tri/loat-nghe-si-hoa-hau-quang-cao-lo-cuc-nghe-thuat-bieu-dien-len-tieng-20250415153649219.htm) - 09:13 15/04/2025
 - 🔥 [NSND Trần Bình: &quot;Nhiều nghệ sĩ gạo cội hát mà không đòi cát-xê&quot;](https://dantri.com.vn/giai-tri/nsnd-tran-binh-nhieu-nghe-si-gao-coi-hat-ma-khong-doi-cat-xe-20250415004957298.htm) - 07:36 15/04/2025
 - 🌈 [Nữ lao công đẩy xe rác ở Thái Lan bỗng vụt sáng thành người mẫu nổi tiếng](https://dantri.com.vn/giai-tri/nu-lao-cong-day-xe-rac-o-thai-lan-bong-vut-sang-thanh-nguoi-mau-noi-tieng-20250415020004176.htm) - 07:09 15/04/2025
 - 📝 [Quyền Linh lên tiếng khi bị &quot;réo tên&quot; vào vụ 573 nhãn hiệu sữa giả](https://dantri.com.vn/giai-tri/quyen-linh-len-tieng-khi-bi-reo-ten-vao-vu-573-nhan-hieu-sua-gia-20250415124444360.htm) - 06:16 15/04/2025
