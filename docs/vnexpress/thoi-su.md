@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Tổng Bí thư: &#39;Việt Nam đã trở thành tâm điểm chú ý của thế giới&#39;](https://vnexpress.net/tong-bi-thu-viet-nam-da-tro-thanh-tam-diem-chu-y-cua-the-gioi-4874452.html) - 14:02 15/04/2025
 - 🤓 [26 giờ Tổng Bí thư, Chủ tịch Trung Quốc Tập Cận Bình ở Hà Nội](https://vnexpress.net/26-gio-tong-bi-thu-chu-tich-trung-quoc-tap-can-binh-o-ha-noi-4874328.html) - 13:00 15/04/2025
-- ⚗️ [Bé gái bị ôtô tông tử vong ở trạm dừng cao tốc Trung Lương](https://vnexpress.net/be-gai-bi-oto-tong-tu-vong-o-tram-dung-cao-toc-trung-luong-4874451.html) - 12:13 15/04/2025
+- ⚗️ [Ôtô tông bé gái tử vong ở trạm dừng cao tốc Trung Lương](https://vnexpress.net/oto-tong-be-gai-tu-vong-o-tram-dung-cao-toc-trung-luong-4874451.html) - 12:13 15/04/2025
 - 🌊 [Đàn voi rừng xuất hiện ở khu dân cư Đồng Nai](https://vnexpress.net/dan-voi-rung-xuat-hien-o-khu-dan-cu-dong-nai-4874398.html) - 10:53 15/04/2025
 - 🎓 [Hậu Giang đứng đầu cả nước về chỉ số thủ tục hành chính công](https://vnexpress.net/hau-giang-dung-dau-ca-nuoc-ve-chi-so-thu-tuc-hanh-chinh-cong-4874224.html) - 10:33 15/04/2025
 - 🔥 [&#39;Thế hệ trẻ Việt - Trung cần nắm bắt công nghệ mới, kiến tạo tương lai&#39;](https://vnexpress.net/the-he-tre-viet-trung-can-nam-bat-cong-nghe-moi-kien-tao-tuong-lai-4874303.html) - 09:18 15/04/2025
