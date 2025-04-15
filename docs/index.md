@@ -603,13 +603,13 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🫶 [Di chuyển, chặt hạ gần 100 cây xanh để mở đường Vành đai 1](https://tienphong.vn/di-chuyen-chat-ha-gan-100-cay-xanh-de-mo-duong-vanh-dai-1-post1733986.tpo) - 20:30 15/04/2025
 - 🌁 [Thanh niên Trung Quốc chiêm ngưỡng vẻ đẹp hùng vĩ danh thắng Tràng An](https://tienphong.vn/thanh-nien-trung-quoc-chiem-nguong-ve-dep-hung-vi-danh-thang-trang-an-post1734003.tpo) - 19:34 15/04/2025
 - 🤭 [Hòa Minzy gặp sự cố](https://tienphong.vn/hoa-minzy-gap-su-co-post1734000.tpo) - 19:29 15/04/2025
-- 💪 [Mỹ điều máy bay ném bom tập trận chung với Hàn Quốc](https://tienphong.vn/my-dieu-may-bay-nem-bom-tap-tran-chung-voi-han-quoc-post1734013.tpo) - 19:16 15/04/2025
-- 🎡 [Bộ Y tế đề nghị xử lý nghệ sĩ thổi phồng quảng cáo sữa](https://tienphong.vn/bo-y-te-de-nghi-xu-ly-nghe-si-thoi-phong-quang-cao-sua-post1733994.tpo) - 18:59 15/04/2025
-- 😎 [Nga đổi chiến thuật tấn công](https://tienphong.vn/nga-doi-chien-thuat-tan-cong-post1733998.tpo) - 18:57 15/04/2025
-- 🦄 [Giải marathon Việt Nam đầu tiên áp chuẩn thành tích đầu vào](https://tienphong.vn/giai-marathon-viet-nam-dau-tien-ap-chuan-thanh-tich-dau-vao-post1734005.tpo) - 18:51 15/04/2025
-- 🚀 [Cầu thủ Việt kiều thi nhau tỏa sáng tại châu Âu, HLV Kim Sang-sik có thêm lựa chọn cho SEA Games](https://tienphong.vn/cau-thu-viet-kieu-thi-nhau-toa-sang-tai-chau-au-hlv-kim-sang-sik-co-them-lua-chon-cho-sea-games-post1733983.tpo) - 18:46 15/04/2025
-- 🤓 [Hà Nội: Cận cảnh khu vực nhà dân có nguy cơ &#39;vào miệng hà bá&#39;](https://tienphong.vn/ha-noi-can-canh-khu-vuc-nha-dan-co-nguy-co-vao-mieng-ha-ba-post1733942.tpo) - 18:46 15/04/2025
-- 💄 [NHỊP SỐNG: Tour trải nghiệm cuộc sống như người vô gia cư hút khách](https://tienphong.vn/nhip-song-tour-trai-nghiem-cuoc-song-nhu-nguoi-vo-gia-cu-hut-khach-post1733995.tpo) - 18:28 15/04/2025
+- 💪 [NHỊP SỐNG: Chuyên gia bị &#39;tố&#39; quảng cáo cho sữa giả lên tiếng](https://tienphong.vn/nhip-song-chuyen-gia-bi-to-quang-cao-cho-sua-gia-len-tieng-post1733995.tpo) - 19:28 15/04/2025
+- 🎡 [Mỹ điều máy bay ném bom tập trận chung với Hàn Quốc](https://tienphong.vn/my-dieu-may-bay-nem-bom-tap-tran-chung-voi-han-quoc-post1734013.tpo) - 19:16 15/04/2025
+- 😎 [Bộ Y tế đề nghị xử lý nghệ sĩ thổi phồng quảng cáo sữa](https://tienphong.vn/bo-y-te-de-nghi-xu-ly-nghe-si-thoi-phong-quang-cao-sua-post1733994.tpo) - 18:59 15/04/2025
+- 🦄 [Nga đổi chiến thuật tấn công](https://tienphong.vn/nga-doi-chien-thuat-tan-cong-post1733998.tpo) - 18:57 15/04/2025
+- 🚀 [Giải marathon Việt Nam đầu tiên áp chuẩn thành tích đầu vào](https://tienphong.vn/giai-marathon-viet-nam-dau-tien-ap-chuan-thanh-tich-dau-vao-post1734005.tpo) - 18:51 15/04/2025
+- 🤓 [Cầu thủ Việt kiều thi nhau tỏa sáng tại châu Âu, HLV Kim Sang-sik có thêm lựa chọn cho SEA Games](https://tienphong.vn/cau-thu-viet-kieu-thi-nhau-toa-sang-tai-chau-au-hlv-kim-sang-sik-co-them-lua-chon-cho-sea-games-post1733983.tpo) - 18:46 15/04/2025
+- 💄 [Hà Nội: Cận cảnh khu vực nhà dân có nguy cơ &#39;vào miệng hà bá&#39;](https://tienphong.vn/ha-noi-can-canh-khu-vuc-nha-dan-co-nguy-co-vao-mieng-ha-ba-post1733942.tpo) - 18:46 15/04/2025
 - 🌋 [Thông tin bất ngờ về vụ chặn xe tung tin &#39;bắt cóc&#39; trẻ em ở Cà Mau](https://tienphong.vn/thong-tin-bat-ngo-ve-vu-chan-xe-tung-tin-bat-coc-tre-em-o-ca-mau-post1733975.tpo) - 18:18 15/04/2025
 - 🥷 [Thủ tướng Phạm Minh Chính chủ trì Lễ đón chính thức Thủ tướng Ethiopia](https://tienphong.vn/thu-tuong-pham-minh-chinh-chu-tri-le-don-chinh-thuc-thu-tuong-ethiopia-post1733980.tpo) - 18:15 15/04/2025
 - 🦏 [Thí sinh &#39;hỏi khó&#39; giám khảo Hoa hậu Việt Nam 2024](https://tienphong.vn/thi-sinh-hoi-kho-giam-khao-hoa-hau-viet-nam-2024-post1733984.tpo) - 18:05 15/04/2025
