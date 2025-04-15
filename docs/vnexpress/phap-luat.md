@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Sau khi sáp nhập tỉnh, thành: Có phải đổi lại thẻ căn cước?](https://vnexpress.net/sau-khi-sap-nhap-tinh-thanh-co-phai-doi-lai-the-can-cuoc-4873961.html) - 23:00 14/04/2025
+- 😎 [Sau khi sáp nhập tỉnh, thành, tôi có phải đổi lại thẻ căn cước?](https://vnexpress.net/sau-khi-sap-nhap-tinh-thanh-co-phai-doi-lai-the-can-cuoc-4873961.html) - 23:00 14/04/2025
 - 🥰 [Mặt tối của &#39;cặp đôi kiểu mẫu&#39; trong vụ án ba valy phi tang xác](https://vnexpress.net/mat-toi-cua-cap-doi-kieu-mau-trong-vu-an-ba-valy-phi-tang-xac-4873945.html) - 17:00 14/04/2025
 - 🎓 [Giả câm 16 năm để gian lận trợ cấp người tàn tật](https://vnexpress.net/gia-cam-16-nam-de-gian-lan-tro-cap-nguoi-tan-tat-4873997.html) - 16:08 14/04/2025
 - 🤓 [Được bồi thường 6 triệu USD vì trượt chân ngã trên vỉa hè](https://vnexpress.net/duoc-boi-thuong-6-trieu-usd-vi-truot-chan-nga-tren-via-he-4873960.html) - 13:42 14/04/2025
