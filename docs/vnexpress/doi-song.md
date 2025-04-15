@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Cô trò Y Tý nhận trường lớp mới sau bão Yagi](https://vnexpress.net/co-tro-y-ty-nhan-truong-lop-moi-sau-bao-yagi-4874019.html) - 01:34 15/04/2025
+- 🚀 [Cô trò Y Tý nhận trường lớp mới](https://vnexpress.net/co-tro-y-ty-nhan-truong-lop-moi-4874019.html) - 01:34 15/04/2025
 - 🎓 [Đạp xe từ Hà Nội vào TP HCM xem lễ diễu binh 30/4](https://vnexpress.net/dap-xe-tu-ha-noi-vao-tp-hcm-xem-le-dieu-binh-30-4-4873931.html) - 23:24 14/04/2025
 - 🚦 [10 dấu hiệu của phụ nữ cô đơn](https://vnexpress.net/10-dau-hieu-cua-phu-nu-co-don-4873932.html) - 23:00 14/04/2025
 - 🦣 [Bí quyết rán cá mòi giòn tan](https://vnexpress.net/bi-quyet-ran-ca-moi-gion-tan-4873926.html) - 10:14 14/04/2025
