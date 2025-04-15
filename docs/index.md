@@ -409,7 +409,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Tái hiện cuộc đời và những dấu son trong sự nghiệp của nhà ngoại giao kiệt xuất Nguyễn Thị](https://baochinhphu.vn/tai-hien-cuoc-doi-va-nhung-dau-son-trong-su-nghiep-cua-nha-ngoai-giao-kiet-xuat-nguyen-thi-102250415233843066.htm) - 23:38 15/04/2025
+- 💻 [Tái hiện cuộc đời và những dấu son trong sự nghiệp của nhà ngoại giao kiệt xuất Nguyễn Thị Bình](https://baochinhphu.vn/tai-hien-cuoc-doi-va-nhung-dau-son-trong-su-nghiep-cua-nha-ngoai-giao-kiet-xuat-nguyen-thi-102250415233843066.htm) - 23:38 15/04/2025
 - 🌜 [Điện chia buồn nguyên Thủ tướng Malaysia Tun Abdullah Ahmad Badawi qua đời](https://baochinhphu.vn/dien-chia-buon-nguyen-thu-tuong-malaysia-tun-abdullah-ahmad-badawi-qua-doi-102250415220711637.htm) - 23:34 15/04/2025
 - 🦆 [Thư mừng kỷ niệm 50 năm thiết lập quan hệ ngoại giao Việt Nam - Hy Lạp](https://baochinhphu.vn/thu-mung-ky-niem-50-nam-thiet-lap-quan-he-ngoai-giao-viet-nam-hy-lap-102250415225528921.htm) - 23:33 15/04/2025
 - 🌝 [Ra mắt trang web và công bố Nhà Triển lãm Việt Nam Ảo](https://baochinhphu.vn/ra-mat-trang-web-va-cong-bo-nha-trien-lam-viet-nam-ao-102250415232923502.htm) - 23:29 15/04/2025
