@@ -24,7 +24,7 @@ sidebar_position: 11
 - 🌈 [Nhà hàng phục vụ rau củ cả gốc, rễ giá 2 triệu đồng mỗi khách](https://vnexpress.net/nha-hang-phuc-vu-rau-cu-ca-goc-re-gia-2-trieu-dong-moi-khach-4871978.html) - 04:50 14/04/2025
 - ⚗️ [Loạt hoạt động xanh thu hút du khách đến Ocean City](https://vnexpress.net/loat-hoat-dong-xanh-thu-hut-du-khach-den-ocean-city-4873486.html) - 03:00 14/04/2025
 - 👀 [Nhiều nước khuyến cáo về rủi ro du lịch tới Mỹ](https://vnexpress.net/nhieu-nuoc-khuyen-cao-ve-rui-ro-du-lich-toi-my-4873513.html) - 01:01 14/04/2025
-- 👍 [Một ngày khám phá địa đạo Củ Chi](https://vnexpress.net/cam-nang-du-lich-1-ngay-kham-pha-dia-dao-cu-chi-4873164.html) - 00:00 14/04/2025
+- 👍 [Một ngày khám phá địa đạo Củ Chi](https://vnexpress.net/cam-nang-du-lich-mot-ngay-kham-pha-dia-dao-cu-chi-4873164.html) - 00:00 14/04/2025
 - 💄 [7 chuyến tàu điện ấn tượng nhất thế giới](https://vnexpress.net/7-chuyen-tau-dien-an-tuong-nhat-the-gioi-4873396.html) - 17:09 13/04/2025
 - 🥷 [Khách chốt tour trăm triệu đồng ở hội chợ du lịch](https://vnexpress.net/khach-chot-tour-tram-trieu-dong-o-hoi-cho-du-lich-4873438.html) - 09:18 13/04/2025
 - 📝 [Hàng chục nghìn du khách dự khai hội Tràng An](https://vnexpress.net/hang-chuc-nghin-du-khach-du-khai-hoi-trang-an-4873421.html) - 08:23 13/04/2025
