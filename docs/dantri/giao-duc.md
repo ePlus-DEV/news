@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Hàn Quốc: Tranh cãi học sinh chuẩn bị cho kỳ thi ĐH sinh tử từ...4 tuổi](https://dantri.com.vn/giao-duc/han-quoc-tranh-cai-hoc-sinh-chuan-bi-cho-ky-thi-dh-sinh-tu-tu4-tuoi-20250415215902137.htm) - 17:30 15/04/2025
+- 🤡 [Hàn Quốc: Tranh cãi học sinh chuẩn bị cho kỳ thi ĐH sinh tử từ...4 tuổi](https://dantri.com.vn/giao-duc/han-quoc-tranh-cai-hoc-sinh-chuan-bi-cho-ky-thi-dh-sinh-tu-tu4-tuoi-20250415215902137.htm) - 21:30 15/04/2025
 - 🗽 [Du học sinh Việt tại Nga mừng Ngày Quốc tế con người bay vào vũ trụ](https://dantri.com.vn/giao-duc/du-hoc-sinh-viet-tai-nga-mung-ngay-quoc-te-con-nguoi-bay-vao-vu-tru-20250415142902809.htm) - 17:30 15/04/2025
 - 🚦 [Trường THCS &quot;hot&quot; nhất Hà Nội bỏ xét điểm học bạ vào lớp 6](https://dantri.com.vn/giao-duc/truong-thcs-hot-nhat-ha-noi-bo-xet-diem-hoc-ba-vao-lop-6-20250415163806091.htm) - 09:50 15/04/2025
 - 🌋 [Trường THCS Năng khiếu tuyển sinh khóa đầu tiên bằng trắc nghiệm và tự luận](https://dantri.com.vn/giao-duc/truong-thcs-nang-khieu-tuyen-sinh-khoa-dau-tien-bang-trac-nghiem-va-tu-luan-20250415163416936.htm) - 09:46 15/04/2025
