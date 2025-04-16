@@ -7,7 +7,7 @@ sidebar_position: 3
 - ⛽️ [Qualcomm muốn xây trung tâm R&amp;amp;D lớn thứ ba thế giới tại Việt Nam](https://vnexpress.net/qualcomm-muon-xay-trung-tam-r-d-lon-thu-ba-the-gioi-tai-viet-nam-4874947.html) - 13:19 16/04/2025
 - 🐲 [Chính phủ duyệt Điều chỉnh Quy hoạch điện VIII](https://vnexpress.net/chinh-phu-duyet-dieu-chinh-quy-hoach-dien-viii-4874939.html) - 13:14 16/04/2025
 - 🔥 [Thương nhân Trung Quốc kêu gọi người dân mua hàng không bán được sang Mỹ](https://vnexpress.net/thuong-nhan-trung-quoc-keu-goi-nguoi-dan-mua-hang-khong-ban-duoc-sang-my-4874817.html) - 12:06 16/04/2025
-- 🐵 [Nhà Trắng nói hàng Trung Quốc phải chịu thuế 245%](https://vnexpress.net/nha-trang-noi-hang-trung-quoc-phai-chiu-thue-245-4874918.html) - 11:22 16/04/2025
+- 🐵 [Nhà Trắng nói một số hàng từ Trung Quốc phải chịu thuế 245%](https://vnexpress.net/nha-trang-noi-mot-so-hang-tu-trung-quoc-phai-chiu-thue-245-4874918.html) - 11:22 16/04/2025
 - 🦅 [Trung Quốc bổ nhiệm nhà đàm phán thương mại mới với Mỹ](https://vnexpress.net/trung-quoc-bo-nhiem-nha-dam-phan-thuong-mai-moi-voi-my-4874905.html) - 10:58 16/04/2025
 - 😺 [Tổng Bí thư: Việt Nam đang nỗ lực để phát triển &#39;vừa nhanh vừa xanh&#39;](https://vnexpress.net/tong-bi-thu-viet-nam-dang-no-luc-de-phat-trien-vua-nhanh-vua-xanh-4874904.html) - 10:39 16/04/2025
 - 🤩 [&#39;Việt Nam sẽ ưu tiên thúc đẩy startup xanh&#39;](https://vnexpress.net/viet-nam-se-uu-tien-thuc-day-startup-xanh-4874825.html) - 09:51 16/04/2025
