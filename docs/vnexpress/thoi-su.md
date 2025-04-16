@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Tham khảo kéo dài tuổi nghỉ hưu công chức một số lĩnh vực tới 70](https://vnexpress.net/tham-khao-keo-dai-tuoi-nghi-huu-cong-chuc-mot-so-linh-vuc-toi-70-4874888.html) - 11:10 16/04/2025
 - ⚗️ [TP HCM tăng chuyến metro, xe buýt phục vụ người dân lễ 30/4](https://vnexpress.net/tp-hcm-tang-chuyen-metro-xe-buyt-phuc-vu-nguoi-dan-le-30-4-4874898.html) - 10:19 16/04/2025
 - 🌊 [Cán bộ tái cử cấp ủy phải còn thời gian công tác tối thiểu 48 tháng](https://vnexpress.net/can-bo-tai-cu-cap-uy-phai-con-thoi-gian-cong-tac-toi-thieu-48-thang-4874806.html) - 10:19 16/04/2025
-- 🎓 [Hải Phòng đứng nhóm cuối về chỉ số kiểm soát tham nhũng](https://vnexpress.net/hai-phong-dung-nhom-cuoi-ve-chi-so-kiem-soat-tham-nhung-4874741.html) - 08:12 16/04/2025
+- 🎓 [5 địa phương đứng cuối về chỉ số kiểm soát tham nhũng](https://vnexpress.net/5-dia-phuong-dung-cuoi-ve-chi-so-kiem-soat-tham-nhung-4874741.html) - 08:12 16/04/2025
 - 🔥 [Tên gọi Sài Gòn, Chợ Lớn, Gia Định qua trăm năm](https://vnexpress.net/ten-goi-sai-gon-cho-lon-gia-dinh-qua-tram-nam-4874491.html) - 07:50 16/04/2025
 - 🦏 [Tổng Bí thư: &#39;Không có chỗ cho cán bộ lừng chừng, ngại đổi mới&#39;](https://vnexpress.net/tong-bi-thu-khong-co-cho-cho-can-bo-lung-chung-ngai-doi-moi-4874747.html) - 07:21 16/04/2025
 - 👺 [100% công chức cấp huyện chuyển về xã sau sáp nhập](https://vnexpress.net/100-cong-chuc-cap-huyen-chuyen-ve-xa-sau-sap-nhap-4874738.html) - 05:54 16/04/2025
