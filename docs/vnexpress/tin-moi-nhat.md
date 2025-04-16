@@ -56,7 +56,7 @@ sidebar_position: 9
 - 🦩 [Inter Milan - Bayern: Công hay gặp thủ cường](https://vnexpress.net/inter-milan-bayern-cong-hay-gap-thu-cuong-4874834.html) - 11:30 16/04/2025
 - 👍 [Ba thanh niên truy sát nhân viên quán lẩu](https://vnexpress.net/ba-thanh-nien-truy-sat-nhan-vien-quan-lau-4874931.html) - 11:29 16/04/2025
 - 🔥 [Ông Obama khen Đại học Harvard trong cuộc đối đầu với chính quyền Trump](https://vnexpress.net/ong-obama-khen-dai-hoc-harvard-trong-cuoc-doi-dau-voi-chinh-quyen-trump-4874819.html) - 11:25 16/04/2025
-- 💄 [Nhà Trắng nói hàng Trung Quốc phải chịu thuế 245%](https://vnexpress.net/nha-trang-noi-hang-trung-quoc-phai-chiu-thue-245-4874918.html) - 11:22 16/04/2025
+- 💄 [Nhà Trắng nói một số hàng từ Trung Quốc phải chịu thuế 245%](https://vnexpress.net/nha-trang-noi-mot-so-hang-tu-trung-quoc-phai-chiu-thue-245-4874918.html) - 11:22 16/04/2025
 - 🤡 [Tham khảo kéo dài tuổi nghỉ hưu công chức một số lĩnh vực tới 70](https://vnexpress.net/tham-khao-keo-dai-tuoi-nghi-huu-cong-chuc-mot-so-linh-vuc-toi-70-4874888.html) - 11:10 16/04/2025
 - ⛽️ [Ngã từ xe tập đi, bé trai chấn thương não](https://vnexpress.net/nga-tu-xe-tap-di-be-trai-chan-thuong-nao-4874826.html) - 11:08 16/04/2025
 - 🚀 [Ký sinh trùng 10 cm sống trong mắt người phụ nữ](https://vnexpress.net/ky-sinh-trung-10-cm-song-trong-mat-nguoi-phu-nu-4874823.html) - 11:05 16/04/2025
