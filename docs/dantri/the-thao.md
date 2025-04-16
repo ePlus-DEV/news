@@ -5,12 +5,12 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Nhà vô địch xinh đẹp gây sốt tại Aqua Warriors Halong Bay 2025](https://dantri.com.vn/the-thao/nha-vo-dich-xinh-dep-gay-sot-tai-aqua-warriors-halong-bay-2025-20250416000329843.htm) - 01:31 16/04/2025
-- 💯 [Cờ vua Việt Nam giành Huy chương vàng trẻ thế giới 2025](https://dantri.com.vn/the-thao/co-vua-viet-nam-gianh-huy-chuong-vang-tre-the-gioi-2025-20250416084840293.htm) - 01:30 16/04/2025
-- ⛽️ [Xác định hai đội bóng đầu tiên vào bán kết Champions League](https://dantri.com.vn/the-thao/xac-dinh-hai-doi-bong-dau-tien-vao-ban-ket-champions-league-20250416072845585.htm) - 00:29 16/04/2025
-- 💃 [Carlos Alcaraz khởi đầu thuận lợi ở Barcelona Open 2025](https://dantri.com.vn/the-thao/carlos-alcaraz-khoi-dau-thuan-loi-o-barcelona-open-2025-20250416064226495.htm) - 23:44 15/04/2025
-- 🌈 [Lập kỳ tích lịch sử, tay vợt cầu lông Thái Lan vươn lên số hai thế giới](https://dantri.com.vn/the-thao/lap-ky-tich-lich-su-tay-vot-cau-long-thai-lan-vuon-len-so-hai-the-gioi-20250415225701773.htm) - 23:43 15/04/2025
-- 🦅 [Thua Aston Villa, PSG vào bán kết Champions League đầy nghẹt thở](https://dantri.com.vn/the-thao/thua-aston-villa-psg-vao-ban-ket-champions-league-day-nghet-tho-20250416061813333.htm) - 23:25 15/04/2025
-- 🌝 [Thua Dortmund, Barcelona vẫn giành vé vào bán kết Champions League](https://dantri.com.vn/the-thao/thua-dortmund-barcelona-van-gianh-ve-vao-ban-ket-champions-league-20250416060013036.htm) - 23:00 15/04/2025
+- 💯 [Xác định hai đội bóng đầu tiên vào bán kết Champions League](https://dantri.com.vn/the-thao/xac-dinh-hai-doi-bong-dau-tien-vao-ban-ket-champions-league-20250416072845585.htm) - 00:29 16/04/2025
+- ⛽️ [Carlos Alcaraz khởi đầu thuận lợi ở Barcelona Open 2025](https://dantri.com.vn/the-thao/carlos-alcaraz-khoi-dau-thuan-loi-o-barcelona-open-2025-20250416064226495.htm) - 23:44 15/04/2025
+- 💃 [Lập kỳ tích lịch sử, tay vợt cầu lông Thái Lan vươn lên số hai thế giới](https://dantri.com.vn/the-thao/lap-ky-tich-lich-su-tay-vot-cau-long-thai-lan-vuon-len-so-hai-the-gioi-20250415225701773.htm) - 23:43 15/04/2025
+- 🌈 [Thua Aston Villa, PSG vào bán kết Champions League đầy nghẹt thở](https://dantri.com.vn/the-thao/thua-aston-villa-psg-vao-ban-ket-champions-league-day-nghet-tho-20250416061813333.htm) - 23:25 15/04/2025
+- 🦅 [Thua Dortmund, Barcelona vẫn giành vé vào bán kết Champions League](https://dantri.com.vn/the-thao/thua-dortmund-barcelona-van-gianh-ve-vao-ban-ket-champions-league-20250416060013036.htm) - 23:00 15/04/2025
+- 🌝 [Cờ vua Việt Nam giành Huy chương vàng trẻ thế giới 2025](https://dantri.com.vn/the-thao/co-vua-viet-nam-gianh-huy-chuong-vang-tre-the-gioi-2025-20250416084840293.htm) - 22:59 15/04/2025
 - 🚀 [Đội tuyển futsal Việt Nam hòa đội hạng 7 thế giới](https://dantri.com.vn/the-thao/doi-tuyen-futsal-viet-nam-hoa-doi-hang-7-the-gioi-20250415223203549.htm) - 15:39 15/04/2025
 - 🎉 [Sao Việt kiều ghi bàn ở châu Âu, có cơ hội khoác áo tuyển Việt Nam](https://dantri.com.vn/the-thao/sao-viet-kieu-ghi-ban-o-chau-au-co-co-hoi-khoac-ao-tuyen-viet-nam-20250415191223312.htm) - 12:40 15/04/2025
 - 📝 [Thủ môn hùng hục dẫn bóng lên giữa sân, gặp sự cố khó đỡ từ trọng tài](https://dantri.com.vn/the-thao/thu-mon-hung-huc-dan-bong-len-giua-san-gap-su-co-kho-do-tu-trong-tai-20250415193857231.htm) - 12:39 15/04/2025
