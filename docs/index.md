@@ -257,7 +257,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Bất ngờ với khách hàng mà đường dây sản xuất thuốc giả &quot;khủng&quot; thu lời hàng trăm tỉ đồng nhắm tới](https://nld.com.vn/bat-ngo-voi-khach-hang-ma-duong-day-san-xuat-thuoc-gia-khung-thu-loi-hang-tram-ti-dong-nham-toi-196250416235143282.htm) - 17:55 16/04/2025
+- 🐎 [Bất ngờ với thủ đoạn của đường dây sản xuất thuốc giả &quot;khủng&quot;, thu lời hàng trăm tỉ đồng](https://nld.com.vn/bat-ngo-voi-khach-hang-ma-duong-day-san-xuat-thuoc-gia-khung-thu-loi-hang-tram-ti-dong-nham-toi-196250416235143282.htm) - 17:55 16/04/2025
 - 😺 [Phú Quốc sẽ sớm có sân bay 10 triệu khách/năm](https://nld.com.vn/phu-quoc-se-som-co-san-bay-10-trieu-khach-nam-196250417000040854.htm) - 17:34 16/04/2025
 - 👍 [Điểm nóng xung đột ngày 17-4: Mỹ &quot;nhượng bộ&quot; trong thỏa thuận khoáng sản với Ukraine?](https://nld.com.vn/diem-nong-xung-dot-ngay-17-4-my-nhuong-bo-trong-thoa-thuan-khoang-san-voi-ukraine-19625041620510767.htm) - 17:33 16/04/2025
 - 🥷 [Báo in ngày 17-4: Vàng miếng SJC lại bị làm giá?](https://nld.com.vn/bao-in-ngay-17-4-vang-mieng-sjc-lai-bi-lam-gia-196250416224836704.htm) - 17:01 16/04/2025
