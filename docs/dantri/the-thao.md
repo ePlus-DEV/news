@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Xác định 48 đội tham dự World Cup U17: Chỉ có một đại diện Đông Nam Á](https://dantri.com.vn/the-thao/xac-dinh-48-doi-tham-du-world-cup-u17-chi-co-mot-dai-dien-dong-nam-a-20250416182220967.htm) - 11:22 16/04/2025
+- 🎡 [Xác định 48 đội tham dự World Cup U17: Chỉ có một đại diện Đông Nam Á](https://dantri.com.vn/the-thao/xac-dinh-48-doi-tham-du-world-cup-u17-chi-co-mot-dai-dien-dong-nam-a-20250416182220967.htm) - 12:01 16/04/2025
 - 💯 [Chủ tịch Erick Thohir khẳng định U17 Indonesia sẽ bùng nổ ở World Cup](https://dantri.com.vn/the-thao/chu-tich-erick-thohir-khang-dinh-u17-indonesia-se-bung-no-o-world-cup-20250416174956965.htm) - 11:18 16/04/2025
 - ⛽️ [HLV Kim Sang Sik có thể dẫn dắt U23 Việt Nam đối đầu Thái Lan](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-co-the-dan-dat-u23-viet-nam-doi-dau-thai-lan-20250416151725033.htm) - 08:17 16/04/2025
 - 💃 [Đạp thẳng vào chân đối thủ, Mbappe nhận án phạt trước trận gặp Arsenal](https://dantri.com.vn/the-thao/dap-thang-vao-chan-doi-thu-mbappe-nhan-an-phat-truoc-tran-gap-arsenal-20250416131618460.htm) - 06:16 16/04/2025
