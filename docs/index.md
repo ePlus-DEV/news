@@ -42,9 +42,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎬 [Qualcomm muốn xây trung tâm R&amp;amp;D lớn thứ ba thế giới tại Việt Nam](https://vnexpress.net/qualcomm-muon-xay-trung-tam-r-d-lon-thu-ba-the-gioi-tai-viet-nam-4874947.html) - 13:19 16/04/2025
 - 🚀 [Ông Trump tiết lộ điều tự hào nhất trong 100 ngày đầu nhiệm kỳ](https://vnexpress.net/ong-trump-tiet-lo-dieu-tu-hao-nhat-trong-100-ngay-dau-nhiem-ky-4874791.html) - 13:14 16/04/2025
 - 🪄 [Chính phủ duyệt Điều chỉnh Quy hoạch điện VIII](https://vnexpress.net/chinh-phu-duyet-dieu-chinh-quy-hoach-dien-viii-4874939.html) - 13:14 16/04/2025
-- 😎 [Vì sao Quyền Linh liên tục đính chính không liên quan quảng cáo sữa giả?](https://vnexpress.net/vi-sao-quyen-linh-lien-tuc-dinh-chinh-khong-lien-quan-quang-cao-sua-gia-4874932.html) - 13:00 16/04/2025
-- 🎊 [Sắc vóc Hoa hậu Mai Phương sau hai thập niên](https://vnexpress.net/sac-voc-hoa-hau-mai-phuong-sau-hai-thap-nien-4874634.html) - 13:00 16/04/2025
-- ⚗️ [Lần đầu tiên ghi hình mực khổng lồ trong tự nhiên](https://vnexpress.net/lan-dau-tien-ghi-hinh-muc-khong-lo-trong-tu-nhien-4874525.html) - 13:00 16/04/2025
+- 😎 [Sắc vóc Hoa hậu Mai Phương sau hai thập niên](https://vnexpress.net/sac-voc-hoa-hau-mai-phuong-sau-hai-thap-nien-4874634.html) - 13:00 16/04/2025
+- 🎊 [Lần đầu tiên ghi hình mực khổng lồ trong tự nhiên](https://vnexpress.net/lan-dau-tien-ghi-hinh-muc-khong-lo-trong-tu-nhien-4874525.html) - 13:00 16/04/2025
+- ⚗️ [Vì sao Quyền Linh liên tục đính chính không liên quan quảng cáo sữa giả?](https://vnexpress.net/vi-sao-quyen-linh-lien-tuc-dinh-chinh-khong-lien-quan-quang-cao-sua-gia-4874932.html) - 13:00 16/04/2025
 - 🫣 [Cựu chủ tịch LDG xin lỗi khách đã mua hàng trăm biệt thự sai phép](https://vnexpress.net/cuu-chu-tich-ldg-xin-loi-khach-da-mua-hang-tram-biet-thu-sai-phep-4874907.html) - 12:51 16/04/2025
 - 👨‍🏫 [&#39;Nữ hoàng tốc độ&#39; Lê Tú Chinh tái xuất](https://vnexpress.net/nu-hoang-toc-do-le-tu-chinh-tai-xuat-4874942.html) - 12:47 16/04/2025
 - 🐻 [Cô giáo mầm non lôi trẻ vào góc khuất đánh liên tiếp](https://vnexpress.net/co-giao-mam-non-loi-tre-vao-goc-khuat-danh-lien-tiep-4874925.html) - 12:43 16/04/2025
