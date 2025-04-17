@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Đề xuất hỗ trợ 350.000 đồng học phí, ăn trưa cho con công nhân](https://vnexpress.net/de-xuat-ho-tro-350-000-dong-hoc-phi-an-trua-cho-con-cong-nhan-4875131.html) - 06:22 17/04/2025
+- 🤓 [Đề xuất hỗ trợ học phí, ăn trưa cho con công nhân](https://vnexpress.net/de-xuat-ho-tro-hoc-phi-an-trua-cho-con-cong-nhan-4875131.html) - 06:22 17/04/2025
 - 🦆 [Nam sinh hai lần là thủ khoa thi đánh giá năng lực ĐH Quốc gia TP HCM](https://vnexpress.net/nam-sinh-hai-lan-la-thu-khoa-thi-danh-gia-nang-luc-dh-quoc-gia-tp-hcm-4875210.html) - 05:57 17/04/2025
 - 🦩 [Trường Đại học FPT hỗ trợ 1.000 tân sinh viên &#39;Học trước - Trả sau&#39;](https://vnexpress.net/truong-dai-hoc-fpt-ho-tro-1-000-tan-sinh-vien-hoc-truoc-tra-sau-4875178.html) - 05:00 17/04/2025
 - 🌮 [Học viện Kỹ thuật quân sự tuyển hệ dân sự ở 8 ngành](https://vnexpress.net/hoc-vien-ky-thuat-quan-su-tuyen-he-dan-su-bang-4-phuong-thuc-hoc-phi-bao-nhieu-4875137.html) - 03:57 17/04/2025
