@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- dantri-xa-hoi:START -->
-- 🫣 [Hà Nội: Uống cốc bia cho mát, nam tài xế bị xử phạt 9 triệu đồng](https://dantri.com.vn/xa-hoi/ha-noi-uong-coc-bia-cho-mat-nam-tai-xe-bi-xu-phat-9-trieu-dong-20250417235548274.htm) - 17:13 17/04/2025
+- 🫣 [Hà Nội: Uống cốc bia cho mát, nam tài xế bị xử phạt 2,5 triệu đồng](https://dantri.com.vn/xa-hoi/ha-noi-uong-coc-bia-cho-mat-nam-tai-xe-bi-xu-phat-25-trieu-dong-20250417235548274.htm) - 17:13 17/04/2025
 - 💼 [Miền Bắc có mưa, miền Trung nắng nóng diện rộng](https://dantri.com.vn/xa-hoi/mien-bac-co-mua-mien-trung-nang-nong-dien-rong-20250417205800775.htm) - 17:00 17/04/2025
 - 🎊 [Bám vách đá xuống vực sâu tìm thi thể du khách nước ngoài gặp nạn ở Đà Nẵng](https://dantri.com.vn/xa-hoi/bam-vach-da-xuong-vuc-sau-tim-thi-the-du-khach-nuoc-ngoai-gap-nan-o-da-nang-20250417214807692.htm) - 15:42 17/04/2025
 - 🙉 [Tập đoàn FLC nghiên cứu quy hoạch xây khu đô thị sân bay tại Bình Định](https://dantri.com.vn/xa-hoi/tap-doan-flc-nghien-cuu-quy-hoach-xay-khu-do-thi-san-bay-tai-binh-dinh-20250417205956481.htm) - 14:41 17/04/2025
