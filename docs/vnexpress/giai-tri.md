@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Trương Ngọc Ánh: &#39;Tôi mất mát nhiều vì ồn ào nợ nần&#39;](https://vnexpress.net/truong-ngoc-anh-toi-mat-mat-nhieu-vi-on-ao-no-nan-4875449.html) - 15:39 17/04/2025
+- 🌏 [Trương Ngọc Ánh: &#39;Tôi suy sụp vì ồn ào nợ nần&#39;](https://vnexpress.net/truong-ngoc-anh-toi-suy-sup-vi-on-ao-no-nan-4875449.html) - 15:39 17/04/2025
 - 💫 [&#39;Cần xử lý mạnh tay nghệ sĩ quảng cáo sai sự thật&#39;](https://vnexpress.net/can-xu-ly-manh-tay-nghe-si-quang-cao-sai-su-that-4875301.html) - 11:52 17/04/2025
 - 🌮 [Nghĩa tình người Việt trong &#39;Báu vật trời Nam - bên kia thế giới&#39;](https://vnexpress.net/nghia-tinh-nguoi-viet-trong-bau-vat-troi-nam-ben-kia-the-gioi-4873718.html) - 11:01 17/04/2025
 - 🧠 [Tạo hình Lê Tuấn Khang trong &#39;Lật mặt 8&#39;](https://vnexpress.net/tao-hinh-le-tuan-khang-trong-lat-mat-8-4875227.html) - 08:22 17/04/2025
