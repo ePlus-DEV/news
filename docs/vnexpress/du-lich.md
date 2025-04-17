@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [TP HCM năm 1996 trong ký ức du khách Anh](https://vnexpress.net/tp-hcm-nam-1996-trong-ky-uc-du-khach-anh-4874924.html) - 04:10 17/04/2025
-- 🪄 [Dê tái chanh vào top 36 món thịt dê ngon thế giới](https://vnexpress.net/de-tai-chanh-vao-top-36-mon-thit-de-ngon-the-gioi-4875072.html) - 03:05 17/04/2025
+- 🪄 [Dê tái chanh vào top các món thịt dê ngon thế giới](https://vnexpress.net/de-tai-chanh-vao-top-cac-mon-thit-de-ngon-the-gioi-4875072.html) - 03:05 17/04/2025
 - 🦅 [Những lưu ý khi đến nhà ga T3 sân bay Tân Sơn Nhất](https://vnexpress.net/nhung-luu-y-khi-den-nha-ga-t3-san-bay-tan-son-nhat-4874780.html) - 00:00 17/04/2025
 - 🕴 [Những quán cà phê check in 30/4 ở Hà Nội](https://vnexpress.net/nhung-quan-ca-phe-check-in-30-4-o-ha-noi-4874425.html) - 17:09 16/04/2025
 - 👀 [Phạt tàu để khách chơi pickleball trên boong rồi lao xuống biển](https://vnexpress.net/phat-tau-de-khach-choi-pickleball-tren-boong-roi-lao-xuong-bien-4874873.html) - 09:53 16/04/2025
