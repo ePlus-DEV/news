@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [HLV Cristiano Roland: &quot;Trình độ U17 Việt Nam không kém các thế lực châu Á&quot;](https://dantri.com.vn/the-thao/hlv-cristiano-roland-trinh-do-u17-viet-nam-khong-kem-cac-the-luc-chau-a-20250417163737432.htm) - 10:51 17/04/2025
+- 🤠 [HLV Cristiano Roland: &quot;Trình độ U17 Việt Nam không kém các đội mạnh châu Á&quot;](https://dantri.com.vn/the-thao/hlv-cristiano-roland-trinh-do-u17-viet-nam-khong-kem-cac-doi-manh-chau-a-20250417163737432.htm) - 10:51 17/04/2025
 - 🌈 [Thành Long và các nghệ sĩ bị tẩy chay vì quảng cáo sản phẩm dính bê bối](https://dantri.com.vn/giai-tri/thanh-long-va-cac-nghe-si-bi-tay-chay-vi-quang-cao-san-pham-dinh-be-boi-20250417143252554.htm) - 07:58 17/04/2025
 - 🐎 [50 năm Tổng công ty Điện lực miền Nam: Tri ân lịch sử - Tự hào tiếp bước](https://dantri.com.vn/xa-hoi/50-nam-tong-cong-ty-dien-luc-mien-nam-tri-an-lich-su-tu-hao-tiep-buoc-20250417104439494.htm) - 07:00 17/04/2025
 - 👹 [Tổng Bí thư: &quot;Ưu tiên dùng trụ sở dôi dư sau sáp nhập làm trường học&quot;](https://dantri.com.vn/xa-hoi/tong-bi-thu-uu-tien-dung-tru-so-doi-du-sau-sap-nhap-lam-truong-hoc-20250417073257179.htm) - 04:07 17/04/2025
