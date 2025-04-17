@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Tài xế lạng lách, đánh võng trên đường TP HCM bị phạt 45 triệu đồng](https://vnexpress.net/tai-xe-lang-lach-danh-vong-tren-duong-tp-hcm-bi-phat-45-trieu-dong-4875383.html) - 10:03 17/04/2025
+- 🦒 [Tài xế lạng lách trên đường TP HCM bị phạt 45 triệu đồng](https://vnexpress.net/tai-xe-lang-lach-tren-duong-tp-hcm-bi-phat-45-trieu-dong-4875383.html) - 10:03 17/04/2025
 - 🤓 [Tổng Bí thư đề nghị Hà Nội miễn phí bữa trưa cho học sinh](https://vnexpress.net/tong-bi-thu-de-nghi-ha-noi-mien-phi-bua-trua-cho-hoc-sinh-4875228.html) - 07:45 17/04/2025
 - ⚗️ [Trục vớt sà lan bị vùi dưới bãi tắm Nha Trang dự kiến 20 ngày](https://vnexpress.net/truc-vot-sa-lan-bi-vui-duoi-bai-tam-nha-trang-du-kien-20-ngay-4875211.html) - 06:57 17/04/2025
 - 🌊 [Tổng Bí thư: &#39;Việt Nam đủ sức vượt qua thách thức&#39;](https://vnexpress.net/tong-bi-thu-viet-nam-du-suc-vuot-qua-thach-thuc-4875205.html) - 06:28 17/04/2025
