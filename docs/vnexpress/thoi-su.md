@@ -23,8 +23,8 @@ sidebar_position: 1
 - 💯 [Cân nhắc sức khỏe công chức nếu muốn kéo dài tuổi nghỉ hưu tới 70](https://vnexpress.net/can-nhac-suc-khoe-cong-chuc-neu-muon-keo-dai-tuoi-nghi-huu-toi-70-4875361.html) - 03:40 18/04/2025
 - 👺 [Bình Dương đề xuất đầu tư 56.000 tỷ đồng xây metro](https://vnexpress.net/binh-duong-de-xuat-dau-tu-56-000-ty-dong-xay-metro-4875572.html) - 03:08 18/04/2025
 - 🌮 [Phương án sắp xếp và tên 102 phường, xã mới tại TP HCM](https://vnexpress.net/phuong-an-sap-xep-va-ten-102-phuong-xa-moi-tai-tp-hcm-4875543.html) - 03:00 18/04/2025
-- 🥸 [Hợp luyện diễu binh ở đường Lê Duẩn tối 18/4](https://vnexpress.net/hop-luyen-dieu-binh-o-duong-le-duan-toi-18-4-4875434.html) - 23:00 17/04/2025
-- 🐻 [GS Phan Văn Trường: &#39;Tôi như con cá hồi, ngược dòng tìm về quê hương&#39;](https://vnexpress.net/gs-phan-van-truong-toi-nhu-con-ca-hoi-nguoc-dong-tim-ve-que-huong-4875395.html) - 23:00 17/04/2025
+- 🥸 [GS Phan Văn Trường: &#39;Tôi như con cá hồi, ngược dòng tìm về quê hương&#39;](https://vnexpress.net/gs-phan-van-truong-toi-nhu-con-ca-hoi-nguoc-dong-tim-ve-que-huong-4875395.html) - 00:00 18/04/2025
+- 🐻 [Hợp luyện diễu binh ở đường Lê Duẩn tối 18/4](https://vnexpress.net/hop-luyen-dieu-binh-o-duong-le-duan-toi-18-4-4875434.html) - 23:00 17/04/2025
 - 👀 [12 công trình giao thông thay đổi diện mạo TP HCM](https://vnexpress.net/12-cong-trinh-giao-thong-thay-doi-dien-mao-tp-hcm-4874191.html) - 22:00 17/04/2025
 - 🤔 [Phương án sáp nhập của Bình Thuận, Kon Tum, Bình Định, Quảng Ngãi](https://vnexpress.net/phuong-an-sap-nhap-cua-binh-thuan-kon-tum-binh-dinh-quang-ngai-4875435.html) - 17:00 17/04/2025
 - 🕯 [Phú Yên đề xuất hỗ trợ đi lại, chỗ ở cho 1.300 cán bộ sau sáp nhập tỉnh](https://vnexpress.net/phu-yen-de-xuat-ho-tro-di-lai-cho-o-cho-1-300-can-bo-sau-sap-nhap-tinh-4875415.html) - 17:00 17/04/2025
