@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🫣 [Hà Nội: Quận Hai Bà Trưng dự kiến còn 3 đơn vị hành chính phường](https://dantri.com.vn/xa-hoi/ha-noi-quan-hai-ba-trung-du-kien-con-3-don-vi-hanh-chinh-phuong-20250419003634978.htm) - 17:41 18/04/2025
 - 💼 [Miền Bắc xuất hiện nắng nóng diện rộng, có nơi trên 37 độ C](https://dantri.com.vn/xa-hoi/mien-bac-xuat-hien-nang-nong-dien-rong-co-noi-tren-37-do-c-20250418215253762.htm) - 17:00 18/04/2025
 - 🎊 [Hơn 70km cao tốc Vân Phong - Nha Trang trước ngày thông xe](https://dantri.com.vn/xa-hoi/hon-70km-cao-toc-van-phong-nha-trang-truoc-ngay-thong-xe-20250418192939414.htm) - 17:00 18/04/2025
-- 🙉 [Hơn 10.000 người tham gia hợp luyện diễu binh lần đầu tiên ở TPHCM](https://dantri.com.vn/xa-hoi/hon-10000-nguoi-tham-gia-hop-luyen-dieu-binh-lan-dau-tien-o-tphcm-20250418171059575.htm) - 15:15 18/04/2025
+- 🙉 [Hơn 10.000 người lần đầu tham gia hợp luyện diễu binh ở TPHCM](https://dantri.com.vn/xa-hoi/hon-10000-nguoi-lan-dau-tham-gia-hop-luyen-dieu-binh-o-tphcm-20250418171059575.htm) - 15:15 18/04/2025
 - 🕯 [Hưng Yên và Thái Bình họp bàn triển khai đề án hợp nhất tỉnh](https://dantri.com.vn/xa-hoi/hung-yen-va-thai-binh-hop-ban-trien-khai-de-an-hop-nhat-tinh-20250418214716846.htm) - 14:55 18/04/2025
 - 👍 [Việt Nam và Mỹ thúc đẩy các chuyến thăm của lãnh đạo cấp cao](https://dantri.com.vn/xa-hoi/viet-nam-va-my-thuc-day-cac-chuyen-tham-cua-lanh-dao-cap-cao-20250418211032158.htm) - 14:15 18/04/2025
 - 🤖 [Vì sao Thanh Hóa giữ nguyên 18 xã biên giới, vùng cao?](https://dantri.com.vn/xa-hoi/vi-sao-thanh-hoa-giu-nguyen-18-xa-bien-gioi-vung-cao-20250418204200197.htm) - 14:13 18/04/2025
