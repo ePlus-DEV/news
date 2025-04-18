@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Hàng chục nghìn hộp thuốc giả &#39;chứa nhiều dược liệu giảm đau&#39;](https://vnexpress.net/hang-chuc-nghin-hop-thuoc-gia-chua-nhieu-duoc-lieu-giam-dau-4875638.html) - 04:11 18/04/2025
 - 🥰 [Mua 9 xe sang, dàn dựng hàng loạt tai nạn để lừa tiền bảo hiểm](https://vnexpress.net/mua-9-xe-sang-dan-dung-tai-nan-de-lua-tien-bao-hiem-4875645.html) - 03:58 18/04/2025
-- 🎓 [Truy nã kẻ buôn ma túy nổ súng vào công an](https://vnexpress.net/truy-na-ke-buon-ma-tuy-no-sung-vao-cong-an-4875583.html) - 03:20 18/04/2025
+- 🎓 [Công an tung quân truy tìm kẻ nổ súng vào thượng uý 29 tuổi](https://vnexpress.net/cong-an-tung-quan-truy-tim-ke-no-sung-vao-thuong-uy-29-tuoi-4875583.html) - 03:20 18/04/2025
 - 🤓 [Phó giám đốc Trung tâm Kiểm định khu vực II bị bắt](https://vnexpress.net/pho-giam-doc-trung-tam-kiem-dinh-khu-vuc-ii-bi-bat-4875587.html) - 03:04 18/04/2025
 - 🎊 [Thượng úy công an hy sinh khi truy bắt tội phạm ma túy](https://vnexpress.net/thuong-uy-cong-an-hy-sinh-khi-truy-bat-toi-pham-ma-tuy-4875476.html) - 00:04 18/04/2025
 - 🙉 [Người quảng cáo có phải chịu trách nhiệm về chất lượng sản phẩm?](https://vnexpress.net/nguoi-quang-cao-co-phai-chiu-trach-nhiem-ve-chat-luong-san-pham-4875369.html) - 23:00 17/04/2025
