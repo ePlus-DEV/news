@@ -5,7 +5,7 @@ sidebar_position: 6
 
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Tranh cãi chuyện trả lương bằng tiền xu](https://vnexpress.net/tranh-cai-chuyen-tra-luong-bang-tien-xu-4874883.html) - 01:39 18/04/2025
-- 🎓 [Người Hàn Quốc chuộng đồ ăn gần hết hạn](https://vnexpress.net/nguoi-han-quoc-chuong-do-an-gan-het-han-4874986.html) - 01:23 18/04/2025
+- 🎓 [Người Hàn Quốc tăng mua đồ ăn gần hết hạn](https://vnexpress.net/nguoi-han-quoc-tang-mua-do-an-gan-het-han-4874986.html) - 01:23 18/04/2025
 - 🚦 [Những phát hiện bất ngờ về Gen Z](https://vnexpress.net/nhung-phat-hien-bat-ngo-ve-gen-z-4874983.html) - 00:27 18/04/2025
 - 🦣 [Ngày đoàn tụ sau 49 năm của &#39;liệt sĩ&#39; chiến trường K](https://vnexpress.net/ngay-doan-tu-sau-49-nam-cua-liet-si-chien-truong-k-4874723.html) - 23:00 17/04/2025
 - 🎓 [Chiến dịch &#39;Yêu Việt Nam qua từng chuyến đi&#39; tạo sức hút](https://vnexpress.net/chien-dich-yeu-viet-nam-qua-tung-chuyen-di-tao-suc-hut-4874758.html) - 13:30 17/04/2025
