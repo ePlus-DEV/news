@@ -5,7 +5,7 @@ sidebar_position: 22
 
 <!-- dantri-du-lich:START -->
 - 🥰 [Người đàn ông Hà Nội chi cả tỷ đồng biến ô tô thành nhà di động](https://dantri.com.vn/du-lich/nguoi-dan-ong-ha-noi-chi-ca-ty-dong-bien-o-to-thanh-nha-di-dong-20250416081815365.htm) - 23:05 17/04/2025
-- 🥰 [Quán cà phê rực sắc cờ Tổ quốc, miễn phí 1.000 trang phục để khách chụp ảnh](https://dantri.com.vn/du-lich/quan-ca-phe-ruc-sac-co-to-quoc-mien-phi-1000-trang-phuc-de-khach-chup-anh-20250417223143856.htm) - 22:19 17/04/2025
+- 🥰 [Quán cà phê rực sắc cờ Tổ quốc, miễn phí 1.000 trang phục để khách chụp ảnh](https://dantri.com.vn/giai-tri/quan-ca-phe-ruc-sac-co-to-quoc-mien-phi-1000-trang-phuc-de-khach-chup-anh-20250417223143856.htm) - 22:19 17/04/2025
 - 🐻 [Kiên Giang lọt top điểm đến thân thiện, phòng cao cấp gần kín chỗ dịp 30/4](https://dantri.com.vn/du-lich/kien-giang-lot-top-diem-den-than-thien-phong-cao-cap-gan-kin-cho-dip-304-20250417132605010.htm) - 10:02 17/04/2025
 - 🤩 [Cô gái gốc Việt đầu tiên bay vào vũ trụ muốn ăn món Việt ngay khi trở về](https://dantri.com.vn/du-lich/co-gai-goc-viet-dau-tien-bay-vao-vu-tru-muon-an-mon-viet-ngay-khi-tro-ve-20250417121549811.htm) - 09:56 17/04/2025
 - 🕴 [Cặp đôi chụp ảnh cưới &quot;50 năm có một lần&quot; trước dàn đại bác ở TPHCM](https://dantri.com.vn/du-lich/cap-doi-chup-anh-cuoi-50-nam-co-mot-lan-truoc-dan-dai-bac-o-tphcm-20250417125625052.htm) - 08:47 17/04/2025
