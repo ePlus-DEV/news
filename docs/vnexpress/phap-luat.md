@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Có nhận tiền hoàn thuế thu nhập cá nhân khi lương dạng NET?](https://vnexpress.net/cong-ty-tra-luong-net-nguoi-lao-dong-co-duoc-nhan-tien-hoan-thue-tncn-4874912.html) - 17:00 18/04/2025
 - 🥰 [Xưởng sản xuất thuốc trừ sâu, diệt chuột giả từ nước phẩm màu bị phát hiện](https://vnexpress.net/xuong-san-xuat-thuoc-tru-sau-diet-chuot-gia-tu-nuoc-pham-mau-bi-phat-hien-4875920.html) - 16:41 18/04/2025
 - 🎓 [Chi cục trưởng quản lý đê điều của Hưng Yên bị bắt](https://vnexpress.net/chi-cuc-truong-quan-ly-de-dieu-cua-hung-yen-bi-bat-4875916.html) - 16:30 18/04/2025
-- 🤓 [Kẻ buôn ma túy nghi nổ súng khiến thiếu tá 29 tuổi hy sinh bị bắt](https://vnexpress.net/ke-buon-ma-tuy-no-sung-khien-thieu-ta-29-tuoi-hy-sinh-bi-bat-4875913.html) - 15:31 18/04/2025
+- 🤓 [Kẻ buôn ma túy trong nhóm nổ súng khiến thiếu tá 29 tuổi hy sinh bị bắt](https://vnexpress.net/ke-buon-ma-tuy-no-sung-khien-thieu-ta-29-tuoi-hy-sinh-bi-bat-4875913.html) - 15:31 18/04/2025
 - 🎊 [Đâm 3 người thân của bạn gái trong tiệc rượu](https://vnexpress.net/dam-3-nguoi-than-cua-ban-gai-trong-tiec-ruou-4875899.html) - 14:29 18/04/2025
 - 🙉 [Cựu chủ tịch công ty cấp thoát nước Kiên Giang bị bắt](https://vnexpress.net/cuu-chu-tich-cong-ty-cap-thoat-nuoc-kien-giang-bi-bat-4875883.html) - 13:29 18/04/2025
 - 🤡 [Hoang báo du thuyền có bom để ngăn bạn gái đi du lịch một mình](https://vnexpress.net/hoang-bao-du-thuyen-co-bom-de-ngan-ban-gai-di-du-lich-mot-minh-4875807.html) - 13:24 18/04/2025
