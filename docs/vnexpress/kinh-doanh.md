@@ -8,7 +8,7 @@ sidebar_position: 3
 - 🐲 [Bán hàng tươi giá rẻ, Việt Nam nhập lại kẹo cau giá hàng triệu đồng](https://vnexpress.net/ban-hang-tuoi-gia-re-viet-nam-nhap-lai-keo-cau-gia-hang-trieu-dong-4875766.html) - 08:47 19/04/2025
 - 🔥 [LPBank lãi gần 3.200 tỷ đồng quý đầu năm](https://vnexpress.net/lpbank-lai-gan-3-200-ty-dong-quy-dau-nam-4876113.html) - 06:26 19/04/2025
 - 🐵 [Người có thể được ông Trump đề cử lãnh đạo Fed](https://vnexpress.net/nguoi-co-the-duoc-ong-trump-de-cu-lanh-dao-fed-4876055.html) - 05:42 19/04/2025
-- 🦅 [Giá vàng miếng SJC giảm sâu 4 triệu đồng một lượng](https://vnexpress.net/vang-mieng-sjc-giam-sau-4-trieu-dong-mot-luong-4876050.html) - 04:03 19/04/2025
+- 🦅 [Giá vàng miếng SJC giảm sâu 6 triệu đồng một lượng](https://vnexpress.net/vang-mieng-sjc-giam-sau-4-trieu-dong-mot-luong-4876050.html) - 04:03 19/04/2025
 - 😺 [Starbucks bán cà phê tới 200.000 đồng ở mặt bằng thuê gần 2 tỷ](https://vnexpress.net/starbucks-ban-ca-phe-hon-200-000-dong-o-mat-bang-thue-gan-2-ty-4875902.html) - 02:02 19/04/2025
 - 🤩 [Bà Nguyễn Thị Mai Thanh và ba lần tiên phong &#39;làm nhiệm vụ không tưởng&#39;](https://vnexpress.net/ba-nguyen-thi-mai-thanh-va-ba-lan-tien-phong-lam-nhiem-vu-khong-tuong-4875698.html) - 00:00 19/04/2025
 - 🌮 [&#39;TP HCM cần chính sách dữ liệu rõ ràng để hút đại bàng công nghệ&#39;](https://vnexpress.net/tp-hcm-can-chinh-sach-du-lieu-ro-rang-de-hut-dai-bang-cong-nghe-4875753.html) - 19:09 18/04/2025
