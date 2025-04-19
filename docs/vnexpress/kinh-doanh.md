@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Giá vàng miếng SJC giảm sâu 4 triệu đồng một lượng](https://vnexpress.net/vang-mieng-sjc-giam-sau-4-trieu-dong-mot-luong-4876050.html) - 04:03 19/04/2025
 - 🐲 [Starbucks bán cà phê tới 200.000 đồng ở mặt bằng thuê gần 2 tỷ](https://vnexpress.net/starbucks-ban-ca-phe-hon-200-000-dong-o-mat-bang-thue-gan-2-ty-4875902.html) - 02:02 19/04/2025
-- 🔥 [Bà Nguyễn Thị Mai Thanh và ba lần tiên phong &#39;làm nhiệm vụ không tưởng&#39;](https://vnexpress.net/ba-nguyen-thi-mai-thanh-va-ba-lan-tien-phong-lam-nhiem-vu-khong-tuong-4875698.html) - 22:00 18/04/2025
+- 🔥 [Bà Nguyễn Thị Mai Thanh và ba lần tiên phong &#39;làm nhiệm vụ không tưởng&#39;](https://vnexpress.net/ba-nguyen-thi-mai-thanh-va-ba-lan-tien-phong-lam-nhiem-vu-khong-tuong-4875698.html) - 00:00 19/04/2025
 - 🐵 [&#39;TP HCM cần chính sách dữ liệu rõ ràng để hút đại bàng công nghệ&#39;](https://vnexpress.net/tp-hcm-can-chinh-sach-du-lieu-ro-rang-de-hut-dai-bang-cong-nghe-4875753.html) - 19:09 18/04/2025
 - 🦅 [PV Power lãi 78% kế hoạch chỉ sau một quý](https://vnexpress.net/pv-power-lai-78-ke-hoach-chi-sau-mot-quy-4875850.html) - 18:54 18/04/2025
 - 😺 [&#39;Ông trùm&#39; nhà ở xã hội dự tính năm nay thu 1.000 tỷ đồng](https://vnexpress.net/ong-trum-nha-o-xa-hoi-du-tinh-nam-nay-thu-1-000-ty-dong-4875911.html) - 15:28 18/04/2025
