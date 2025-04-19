@@ -4,12 +4,12 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cầu Rạch Miễu 2 ngày hợp long](https://vnexpress.net/cau-rach-mieu-2-ngay-hop-long-4875889.html) - 09:00 19/04/2025
+- 🦒 [Cầu Rạch Miễu 2 hợp long](https://vnexpress.net/cau-rach-mieu-2-hop-long-4875889.html) - 09:00 19/04/2025
 - 🤓 [Dự án giao thông tại Hà Nội, Thanh Hóa, Quảng Bình được khởi công](https://vnexpress.net/du-an-giao-thong-tai-ha-noi-thanh-hoa-quang-binh-duoc-khoi-cong-4876129.html) - 08:06 19/04/2025
 - ⚗️ [Khởi công đường gần 14.000 tỷ đồng kết nối cao tốc Biên Hòa - Vũng Tàu](https://vnexpress.net/khoi-cong-duong-gan-14-000-ty-dong-ket-noi-cao-toc-bien-hoa-vung-tau-4876029.html) - 07:12 19/04/2025
 - 🌊 [Hai tuyến đường ven biển Bình Thuận được đưa vào khai thác](https://vnexpress.net/hai-tuyen-duong-ven-bien-binh-thuan-duoc-dua-vao-khai-thac-4876062.html) - 04:53 19/04/2025
 - 🎓 [Thông xe 4 dự án cao tốc Bắc Nam](https://vnexpress.net/thong-xe-4-du-an-cao-toc-bac-nam-4876002.html) - 04:34 19/04/2025
-- 🔥 [Đường Lê Quang Đạo kéo dài ở Tây Hà Nội được thông xe](https://vnexpress.net/duong-le-quang-dao-keo-dai-o-tay-ha-noi-duoc-thong-xe-4875970.html) - 04:10 19/04/2025
+- 🔥 [Đường Lê Quang Đạo kéo dài ở Tây Hà Nội thông xe](https://vnexpress.net/duong-le-quang-dao-keo-dai-o-tay-ha-noi-thong-xe-4875970.html) - 04:10 19/04/2025
 - 🦏 [Khánh thành, khởi công 5 dự án trọng điểm ở TP HCM](https://vnexpress.net/khanh-thanh-khoi-cong-5-du-an-trong-diem-o-tp-hcm-4876018.html) - 03:31 19/04/2025
 - 👺 [Cao tốc Bùng - Vạn Ninh thông xe](https://vnexpress.net/cao-toc-bung-van-ninh-thong-xe-4875584.html) - 02:28 19/04/2025
 - 🧑‍🏫 [Khởi công dự án Khu đô thị du lịch lấn biển Cần Giờ](https://vnexpress.net/khoi-cong-du-an-khu-do-thi-du-lich-lan-bien-can-gio-4875923.html) - 23:00 18/04/2025
