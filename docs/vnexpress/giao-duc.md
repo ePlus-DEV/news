@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [&#39;Comment&#39; thường bị phát âm sai thế nào?](https://vnexpress.net/comment-thuong-bi-phat-am-sai-the-nao-4874850.html) - 07:23 19/04/2025
+- 🤓 [&#39;Comment&#39; phát âm đúng thế nào?](https://vnexpress.net/comment-phat-am-dung-the-nao-4874850.html) - 07:23 19/04/2025
 - 🦆 [Học viện Báo chí và Tuyên truyền đổi cách tính điểm xét học bạ](https://vnexpress.net/dieu-kien-xet-tuyen-hoc-ba-hoc-vien-bao-chi-va-tuyen-truyen-nam-2025-moi-nhat-4876084.html) - 06:37 19/04/2025
 - 🦩 [Đại học Y Dược TP HCM đổi cách tính điểm IELTS, SAT](https://vnexpress.net/dai-hoc-y-duoc-tp-hcm-doi-cach-tinh-diem-ielts-cong-bo-hoc-phi-2025-4875980.html) - 03:06 19/04/2025
 - 🌮 [Nam sinh trúng tuyển 7 trường Ivy League](https://vnexpress.net/nam-sinh-trung-tuyen-7-truong-ivy-league-4875895.html) - 02:00 19/04/2025
