@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Nghệ sĩ Cao Minh: &#39;Xúc động vì bạn trẻ yêu vai diễn của tôi&#39;](https://vnexpress.net/nghe-si-cao-minh-xuc-dong-vi-ban-tre-yeu-vai-dien-cua-toi-4871588.html) - 12:00 19/04/2025
+- 🌏 [Cao Minh xúc động vì bạn trẻ yêu vai diễn trong &#39;Địa đạo&#39;](https://vnexpress.net/cao-minh-xuc-dong-vi-ban-tre-yeu-vai-dien-trong-dia-dao-4871588.html) - 12:00 19/04/2025
 - 💫 [Julia Garner đóng phản diện &#39;The Fantastic Four&#39;](https://vnexpress.net/julia-garner-dong-phan-dien-the-fantastic-four-4876034.html) - 11:21 19/04/2025
 - 🌮 [4 thí sinh cao nổi bật tại Hoa hậu Việt Nam](https://vnexpress.net/4-thi-sinh-cao-noi-bat-tai-hoa-hau-viet-nam-4875769.html) - 08:52 19/04/2025
 - 🧠 [Áo dài cảm hứng từ nghề mây tre đan](https://vnexpress.net/ao-dai-cam-hung-tu-nghe-may-tre-dan-4875304.html) - 08:07 19/04/2025
