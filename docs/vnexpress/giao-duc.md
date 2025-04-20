@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Đỗ đại học top 20 Mỹ nhờ kể chuyện bò lên đỉnh núi](https://vnexpress.net/do-dai-hoc-top-20-my-nho-ke-chuyen-bo-len-dinh-nui-4876192.html) - 17:00 19/04/2025
+- 🤓 [Đỗ 16 đại học Mỹ nhờ kể chuyện bò lên đỉnh núi](https://vnexpress.net/do-16-dai-hoc-my-nho-ke-chuyen-bo-len-dinh-nui-4876192.html) - 17:00 19/04/2025
 - 🦆 [Tỉnh nào giữ nguyên trạng dù không đạt tiêu chí diện tích, dân số?](https://vnexpress.net/tinh-nao-giu-nguyen-trang-du-khong-dat-tieu-chi-dien-tich-dan-so-4876196.html) - 12:31 19/04/2025
 - 🦩 [12 trường đào tạo Khoa học máy tính Trung Quốc trong top 100 thế giới](https://vnexpress.net/du-hoc-trung-quoc-nganh-khoa-hoc-may-tinh-chon-truong-nao-4876114.html) - 11:37 19/04/2025
 - 🌮 [&#39;Comment&#39; phát âm đúng thế nào?](https://vnexpress.net/comment-phat-am-dung-the-nao-4874850.html) - 07:23 19/04/2025
