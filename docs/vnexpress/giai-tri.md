@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Doanh thu &#39;Địa đạo&#39; vượt 150 tỷ đồng](https://vnexpress.net/doanh-thu-dia-dao-vuot-150-ty-dong-4873504.html) - 18:27 20/04/2025
-- 💫 [Cuộc sống tuổi 65 của nghệ sĩ Xuân Hinh](https://vnexpress.net/cuoc-song-tuoi-65-cua-nghe-si-xuan-hinh-4871939.html) - 17:00 20/04/2025
+- 💫 [Cuộc sống năng động của nghệ sĩ Xuân Hinh](https://vnexpress.net/cuoc-song-nang-dong-cua-nghe-si-xuan-hinh-4871939.html) - 17:00 20/04/2025
 - 🌮 [Paapa Essiedu - diễn viên da màu đóng giáo sư Snape phim &#39;Harry Potter&#39;](https://vnexpress.net/paapa-essiedu-dien-vien-da-mau-dong-giao-su-snape-phim-harry-potter-4876366.html) - 14:00 20/04/2025
 - 🧠 [Trăng mật ngọt ngào của minh tinh Thái và chồng tài phiệt](https://vnexpress.net/trang-mat-ngot-ngao-cua-minh-tinh-thai-va-chong-tai-phiet-4876439.html) - 13:00 20/04/2025
 - 👨‍🏫 [&#39;Mật vụ phụ hồ&#39; - lối mòn của Jason Statham](https://vnexpress.net/giai-tri/phim/thu-vien-phim/a-working-man-796) - 12:31 20/04/2025
