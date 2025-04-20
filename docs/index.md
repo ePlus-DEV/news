@@ -259,7 +259,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐎 [Arsenal đại thắng Ipswich Town, ngăn Liverpool vô địch sớm](https://nld.com.vn/arsenal-dai-thang-ipswich-town-ngan-liverpool-vo-dich-som-196250420223305121.htm) - 15:36 20/04/2025
 - 😺 [Đông đảo người dân đến xem chương trình &quot;Đất nước trọn niềm vui&quot;](https://nld.com.vn/dong-dao-nguoi-dan-den-xem-chuong-trinh-dat-nuoc-tron-niem-vui-196250420145349938.htm) - 15:25 20/04/2025
 - 👍 [Cảm nhận nhịp điệu của Sở hữu trí tuệ](https://nld.com.vn/cam-nhan-nhip-dieu-cua-so-huu-tri-tue-196250420220309648.htm) - 15:20 20/04/2025
-- 🥷 [Chương trình nghệ thuật &quot;Đất nước trọn niềm vui&quot;: Ấn tượng, hoành tráng](https://nld.com.vn/chuong-trinh-nghe-thuat-dat-nuoc-tron-niem-vui-an-tuong-hoanh-trang-196250420161034667.htm) - 15:16 20/04/2025
+- 🥷 [Chương trình nghệ thuật &quot;Đất nước trọn niềm vui&quot;: 
+Ấn tượng, hoành tráng](https://nld.com.vn/chuong-trinh-nghe-thuat-dat-nuoc-tron-niem-vui-an-tuong-hoanh-trang-196250420161034667.htm) - 15:16 20/04/2025
 - 🤔 [21 loại thuốc giả vừa được Bộ Y tế công bố, người dân cần kiểm tra ngay](https://nld.com.vn/21-loai-thuoc-gia-vua-duoc-bo-y-te-cong-bo-nguoi-dan-can-kiem-tra-ngay-196250420213019282.htm) - 14:32 20/04/2025
 - 🌈 [Ca sĩ Lê Anh Tuấn với chương trình nghệ thuật &quot;Ánh dương soi sáng&quot;](https://nld.com.vn/ca-si-le-anh-tuan-voi-chuong-trinh-nghe-thuat-anh-duong-soi-sang-196250420203206337.htm) - 14:15 20/04/2025
 - 🔥 [Công Phượng lập cú đúp siêu phẩm, Bình Phước ngược dòng ngoạn mục](https://nld.com.vn/cong-phuong-lap-cu-dup-sieu-pham-binh-phuoc-nguoc-dong-ngoan-muc-196250420211047142.htm) - 14:13 20/04/2025
