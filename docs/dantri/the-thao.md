@@ -4,13 +4,13 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Chủ tịch LĐBĐ Indonesia tuyên bố đanh thép, muốn thắng Trung Quốc, Nhật Bản](https://dantri.com.vn/the-thao/chu-tich-ldbd-indonesia-tuyen-bo-danh-thep-muon-thang-trung-quoc-nhat-ban-20250420142442838.htm) - 07:36 20/04/2025
+- 🎡 [Chủ tịch LĐBĐ Indonesia tuyên bố đanh thép, muốn thắng Trung Quốc, Nhật Bản](https://dantri.com.vn/the-thao/chu-tich-ldbd-indonesia-tuyen-bo-danh-thep-muon-thang-trung-quoc-nhat-ban-20250420142442838.htm) - 07:25 20/04/2025
 - 💯 [HLV Amorim thực hiện nước đi táo bạo dù Man Utd vẫn có thể xuống hạng](https://dantri.com.vn/the-thao/hlv-amorim-thuc-hien-nuoc-di-tao-bao-du-man-utd-van-co-the-xuong-hang-20250420123416783.htm) - 07:12 20/04/2025
 - ⛽️ [Barcelona bất ngờ nhận cú sốc lớn, ảnh hưởng lớn tới hy vọng giành cú ăn ba](https://dantri.com.vn/the-thao/barcelona-bat-ngo-nhan-cu-soc-lon-anh-huong-lon-toi-hy-vong-gianh-cu-an-ba-20250420125207221.htm) - 05:52 20/04/2025
-- 💃 [Messi kém duyên, Inter Miami chiến thắng nhờ siêu phẩm phong cách &quot;lạ&quot;](https://dantri.com.vn/the-thao/messi-kem-duyen-inter-miami-chien-thang-nho-sieu-pham-phong-cach-la-20250420092305781.htm) - 03:23 20/04/2025
-- 🌈 [HLV Arteta nói về khả năng vô địch của Liverpool, HLV Slot chờ đợi bất ngờ](https://dantri.com.vn/the-thao/hlv-arteta-noi-ve-kha-nang-vo-dich-cua-liverpool-hlv-slot-cho-doi-bat-ngo-20250420085333394.htm) - 03:17 20/04/2025
-- 🦅 [AFC đưa ra dự đoán về trận chung kết U17 châu Á 2025](https://dantri.com.vn/the-thao/afc-dua-ra-du-doan-ve-tran-chung-ket-u17-chau-a-2025-20250420071511332.htm) - 03:11 20/04/2025
-- 🌝 [HLV CLB Bình Dương tuyên bố từ chức](https://dantri.com.vn/the-thao/hlv-clb-binh-duong-tuyen-bo-tu-chuc-20250420094838105.htm) - 03:07 20/04/2025
+- 💃 [HLV Arteta nói về khả năng vô địch của Liverpool, HLV Slot chờ đợi bất ngờ](https://dantri.com.vn/the-thao/hlv-arteta-noi-ve-kha-nang-vo-dich-cua-liverpool-hlv-slot-cho-doi-bat-ngo-20250420085333394.htm) - 03:17 20/04/2025
+- 🌈 [AFC đưa ra dự đoán về trận chung kết U17 châu Á 2025](https://dantri.com.vn/the-thao/afc-dua-ra-du-doan-ve-tran-chung-ket-u17-chau-a-2025-20250420071511332.htm) - 03:11 20/04/2025
+- 🦅 [HLV CLB Bình Dương tuyên bố từ chức](https://dantri.com.vn/the-thao/hlv-clb-binh-duong-tuyen-bo-tu-chuc-20250420094838105.htm) - 03:07 20/04/2025
+- 🌝 [Messi kém duyên, Inter Miami chiến thắng nhờ siêu phẩm phong cách &quot;lạ&quot;](https://dantri.com.vn/the-thao/messi-kem-duyen-inter-miami-chien-thang-nho-sieu-pham-phong-cach-la-20250420092305781.htm) - 02:23 20/04/2025
 - 🚀 [Alcaraz đối đầu Holger Rune ở chung kết Barcelona Open 2025](https://dantri.com.vn/the-thao/alcaraz-doi-dau-holger-rune-o-chung-ket-barcelona-open-2025-20250420073010553.htm) - 00:34 20/04/2025
 - 🎉 [Bayern Munich thắng tưng bừng sau khi bị loại khỏi Champions League](https://dantri.com.vn/the-thao/bayern-munich-thang-tung-bung-sau-khi-bi-loai-khoi-champions-league-20250420065307937.htm) - 00:05 20/04/2025
 - 📝 [Barcelona ngược dòng giành chiến thắng, tiếp tục bỏ xa Real Madrid](https://dantri.com.vn/the-thao/barcelona-nguoc-dong-gianh-chien-thang-tiep-tuc-bo-xa-real-madrid-20250420063334933.htm) - 23:33 19/04/2025
