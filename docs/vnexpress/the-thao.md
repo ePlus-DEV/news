@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Siêu phẩm phút bù giờ giúp Real bám đuổi Barca](https://vnexpress.net/sieu-pham-phut-bu-gio-giup-real-bam-duoi-barca-4876517.html) - 23:08 20/04/2025
-- 🦩 [Tiền đạo Man Utd gây phẫn nộ với lỡ cơ hội đệm cận thành](https://vnexpress.net/tien-dao-man-utd-gay-phan-no-voi-lo-co-hoi-dem-can-thanh-4876520.html) - 22:58 20/04/2025
+- 🦩 [Hojlund đệm hụt khó tin trong trận thua của Man Utd](https://vnexpress.net/hojlund-dem-hut-kho-tin-trong-tran-thua-cua-man-utd-4876520.html) - 22:58 20/04/2025
 - 🧰 [Trung Quốc mất thế thống trị ở World Cup bóng bàn](https://vnexpress.net/trung-quoc-mat-the-thong-tri-o-world-cup-bong-ban-4876513.html) - 22:52 20/04/2025
 - 🤗 [Raphinha đổ nước lên bóng trước khi sút phạt đền](https://vnexpress.net/raphinha-do-nuoc-len-bong-truoc-khi-sut-phat-den-4876514.html) - 22:48 20/04/2025
 - 🥳 [Liverpool cách chức vô địch Ngoại hạng Anh một trận thắng](https://vnexpress.net/liverpool-cach-chuc-vo-dich-ngoai-hang-anh-mot-tran-thang-4876516.html) - 22:44 20/04/2025
