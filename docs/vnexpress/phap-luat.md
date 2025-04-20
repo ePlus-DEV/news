@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Đoạt mạng đồng nghiệp để cướp dây chuyền vàng](https://vnexpress.net/doat-mang-dong-nghiep-de-cuop-day-chuyen-vang-4876359.html) - 05:14 20/04/2025
 - 🥰 [Thi thể với vết thương ở cổ được phát hiện ở Nha Trang](https://vnexpress.net/thi-the-voi-vet-thuong-o-co-duoc-phat-hien-o-nha-trang-4876312.html) - 02:56 20/04/2025
 - 🎓 [Phát hiện xác nghi can giết 2 cô cháu ở Bình Dương](https://vnexpress.net/phat-hien-xac-nghi-can-giet-2-co-chau-o-binh-duong-4876283.html) - 01:18 20/04/2025
-- 🤓 [Cách chủ tịch Tập toàn Tuấn Ân chi tiền trúng thầu tại EVN Bình Thuận](https://vnexpress.net/cach-chu-tich-tap-toan-tuan-an-chi-tien-trung-thau-tai-evn-binh-thuan-4876280.html) - 01:04 20/04/2025
+- 🤓 [Cách chủ tịch Tập đoàn Tuấn Ân chi tiền trúng thầu tại EVN Bình Thuận](https://vnexpress.net/cach-chu-tich-tap-doan-tuan-an-chi-tien-trung-thau-tai-evn-binh-thuan-4876280.html) - 01:04 20/04/2025
 - 🎊 [Tài xế bus bị cắt 84.000 USD lương hưu vì tham ô 7 USD](https://vnexpress.net/tai-xe-bus-bi-cat-84-000-usd-luong-huu-vi-tham-o-7-usd-4876186.html) - 17:00 19/04/2025
 - 🙉 [Người bị ca sĩ Quang Lập bolero &#39;chiếm giữ nhà&#39; kháng cáo](https://vnexpress.net/nguoi-bi-ca-si-quang-lap-bolero-chiem-giu-nha-khang-cao-4876176.html) - 17:00 19/04/2025
 - 🤡 [Vụ quảng cáo lố &#39;đá quý tăng cực khoái&#39; gây xôn xao nước Mỹ](https://vnexpress.net/vu-quang-cao-lo-da-quy-tang-cuc-khoai-gay-xon-xao-nuoc-my-4875693.html) - 17:00 19/04/2025
