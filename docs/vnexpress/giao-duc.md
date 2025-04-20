@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Học sinh Ams giành ngôi Á quân cuộc thi Robotics hàng đầu thế giới](https://vnexpress.net/hoc-sinh-ams-gianh-ngoi-a-quan-cuoc-thi-robotics-hang-dau-the-gioi-4876331.html) - 04:21 20/04/2025
+- 🤓 [Học sinh Ams giành ngôi Á quân giải đấu Robotics hàng đầu thế giới](https://vnexpress.net/hoc-sinh-ams-gianh-ngoi-a-quan-giai-dau-robotics-hang-dau-the-gioi-4876331.html) - 04:21 20/04/2025
 - 🦆 [Nữ sinh giành giải nhất Viết thư UPU với thư gửi James Cameron](https://vnexpress.net/nu-sinh-gianh-giai-nhat-viet-thu-upu-voi-thu-gui-james-cameron-4876140.html) - 02:34 20/04/2025
 - 🦩 [Đỗ 16 đại học Mỹ nhờ kể chuyện bò lên đỉnh núi](https://vnexpress.net/do-16-dai-hoc-my-nho-ke-chuyen-bo-len-dinh-nui-4876192.html) - 17:00 19/04/2025
 - 🌮 [Tỉnh nào giữ nguyên trạng dù không đạt tiêu chí diện tích, dân số?](https://vnexpress.net/tinh-nao-giu-nguyen-trang-du-khong-dat-tieu-chi-dien-tich-dan-so-4876196.html) - 12:31 19/04/2025
