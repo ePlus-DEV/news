@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nữ sinh 16 tuổi giành giải nhất Viết thư UPU toàn quốc](https://vnexpress.net/nu-sinh-16-tuoi-gianh-giai-nhat-viet-thu-upu-toan-quoc-4876140.html) - 02:34 20/04/2025
+- 🤓 [Nữ sinh giành giải nhất Viết thư UPU với thư gửi James Cameron](https://vnexpress.net/nu-sinh-gianh-giai-nhat-viet-thu-upu-voi-thu-gui-james-cameron-4876140.html) - 02:34 20/04/2025
 - 🦆 [Đỗ 16 đại học Mỹ nhờ kể chuyện bò lên đỉnh núi](https://vnexpress.net/do-16-dai-hoc-my-nho-ke-chuyen-bo-len-dinh-nui-4876192.html) - 17:00 19/04/2025
 - 🦩 [Tỉnh nào giữ nguyên trạng dù không đạt tiêu chí diện tích, dân số?](https://vnexpress.net/tinh-nao-giu-nguyen-trang-du-khong-dat-tieu-chi-dien-tich-dan-so-4876196.html) - 12:31 19/04/2025
 - 🌮 [12 trường đào tạo Khoa học máy tính Trung Quốc trong top 100 thế giới](https://vnexpress.net/du-hoc-trung-quoc-nganh-khoa-hoc-may-tinh-chon-truong-nao-4876114.html) - 11:37 19/04/2025
