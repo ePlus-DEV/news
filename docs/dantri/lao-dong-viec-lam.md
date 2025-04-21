@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Nghề khóc thuê, &quot;thợ&quot; khóc dập đầu 500 lần/ngày, quỳ đến chai sạn gối](https://dantri.com.vn/lao-dong-viec-lam/nghe-khoc-thue-tho-khoc-dap-dau-500-lanngay-quy-den-chai-san-goi-20250421122040973.htm) - 09:03 21/04/2025
+- ⚗️ [Nghề khóc thuê, &quot;thợ&quot; khóc dập đầu 500 lần/ngày, quỳ đến chai gối](https://dantri.com.vn/lao-dong-viec-lam/nghe-khoc-thue-tho-khoc-dap-dau-500-lanngay-quy-den-chai-goi-20250421122040973.htm) - 09:03 21/04/2025
 - 🙉 [Dịp lễ 30/4-1/5, nhiều lao động được thưởng 1 triệu đồng, nghỉ dài hạn](https://dantri.com.vn/lao-dong-viec-lam/dip-le-304-15-nhieu-lao-dong-duoc-thuong-1-trieu-dong-nghi-dai-han-20250421112525346.htm) - 05:09 21/04/2025
 - 🕴 [Giảm mức đóng đoàn phí công đoàn có lợi ra sao?](https://dantri.com.vn/lao-dong-viec-lam/giam-muc-dong-doan-phi-cong-doan-co-loi-ra-sao-20250421105439604.htm) - 05:05 21/04/2025
 - 🧐 [Doanh nghiệp cần tuyển 14.000 lao động, nhiều ưu đãi hấp dẫn](https://dantri.com.vn/lao-dong-viec-lam/doanh-nghiep-can-tuyen-14000-lao-dong-nhieu-uu-dai-hap-dan-20250421085320465.htm) - 02:06 21/04/2025
