@@ -9,7 +9,7 @@ sidebar_position: 1
 - ⚗️ [Bờ biển Cửa Đại đang được chống xói lở thế nào?](https://vnexpress.net/bo-bien-cua-dai-dang-duoc-chong-xoi-lo-the-nao-4872748.html) - 17:00 21/04/2025
 - 🌊 [Hà Nội bắn pháo hoa trong hai ngày 22 và 27/4](https://vnexpress.net/ha-noi-ban-phao-hoa-trong-hai-ngay-22-va-27-4-4876956.html) - 14:34 21/04/2025
 - 🎓 [Nhiều xe tông nhau liên hoàn trên cao tốc Nội Bài - Lào Cai](https://vnexpress.net/nhieu-xe-tong-nhau-lien-hoan-tren-cao-toc-noi-bai-lao-cai-4876942.html) - 14:21 21/04/2025
-- 🔥 [Quảng Nam bỏ cách đặt tên xã phường mới theo số](https://vnexpress.net/quang-nam-bo-cach-dat-ten-xa-phuong-moi-theo-so-4876566.html) - 12:34 21/04/2025
+- 🔥 [Quảng Nam, Quảng Trị bỏ cách đặt tên xã phường mới theo số](https://vnexpress.net/quang-nam-quang-tri-bo-cach-dat-ten-xa-phuong-moi-theo-so-4876566.html) - 12:34 21/04/2025
 - 🦏 [Gần 43% lao động đi tìm việc thuộc nhóm U40](https://vnexpress.net/gan-43-lao-dong-di-tim-viec-thuoc-nhom-u40-4876912.html) - 11:06 21/04/2025
 - 👺 [Tòa nhà &#39;Hàm cá mập&#39; bắt đầu được tháo dỡ](https://vnexpress.net/toa-nha-ham-ca-map-bat-dau-duoc-thao-do-4876849.html) - 10:22 21/04/2025
 - 🧑‍🏫 [Đàn cò quý hiếm xuất hiện ở Tây Nguyên](https://vnexpress.net/dan-co-quy-hiem-xuat-hien-o-tay-nguyen-4876859.html) - 10:17 21/04/2025
