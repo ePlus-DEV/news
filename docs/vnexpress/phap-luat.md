@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Cuộc thanh lọc những streamer &#39;giả nghèo&#39; bán hàng gian dối ở Trung Quốc](https://vnexpress.net/cuoc-thanh-loc-nhung-streamer-ban-hang-gian-doi-o-trung-quoc-4876902.html) - 17:00 21/04/2025
 - 🥰 [Ký ức về nam thiếu tá hy sinh khi bắt tội phạm ma túy](https://vnexpress.net/ky-uc-nguoi-me-ve-nam-thieu-ta-hy-sinh-khi-bat-toi-pham-ma-tuy-4876726.html) - 17:00 21/04/2025
-- 🎓 [Nhân chứng kể cảnh tên cướp đi bộ cầm balo tiền tẩu thoát](https://video.vnexpress.net/nhan-chung-ke-canh-ten-cuop-di-bo-cam-balo-tien-tau-thoat-4876949.html) - 14:58 21/04/2025
+- 🎓 [Nhân chứng kể cảnh tên cướp đi bộ cầm balô tiền tẩu thoát](https://video.vnexpress.net/nhan-chung-ke-canh-ten-cuop-di-bo-cam-balo-tien-tau-thoat-4876949.html) - 14:58 21/04/2025
 - 🤓 [Vì sao EVN bị thiệt hại 209 tỷ đồng trong thương vụ mua điện mặt trời](https://vnexpress.net/vi-sao-evn-bi-thiet-hai-209-ty-dong-trong-thuong-vu-mua-dien-mat-troi-4876348.html) - 11:43 21/04/2025
 - 🎊 [Cầm dao, cướp tiền ngân hàng ở Hà Nội](https://vnexpress.net/cam-dao-cuop-tien-o-phong-giao-dich-vietinbank-4876893.html) - 10:08 21/04/2025
 - 🙉 [Gây tai nạn khi dừng xe nghỉ giữa đường để tỉnh rượu](https://vnexpress.net/gay-tai-nan-khi-dung-xe-nghi-giua-duong-de-tinh-ruou-4876786.html) - 08:40 21/04/2025
