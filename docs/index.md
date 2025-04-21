@@ -522,7 +522,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Học sinh chính thức đăng ký thi tốt nghiệp THPT 2025 từ hôm nay 21-4](https://muctim.tuoitre.vn/hoc-sinh-chinh-thuc-dang-ky-thi-tot-nghiep-thpt-2025-tu-hom-nay-21-4-101250421092955567.htm) - 02:41 21/04/2025
-- 🥷 [Man United thua trận thứ 15 tại ngoại hạng Anh, huấn luyện viên giải thích về lý do vẫn đề cầu thủ này đá chính](https://muctim.tuoitre.vn/man-united-thua-tran-thu-15-tai-giai-ngoai-hang-anh-huan-luyen-giai-thich-ve-ly-do-van-de-cau-thu-nay-da-chinh-101250421032042069.htm) - 00:21 21/04/2025
+- 🥷 [Man United thua trận thứ 15 tại ngoại hạng Anh, huấn luyện viên giải thích về lý do vẫn để cầu thủ này đá chính](https://muctim.tuoitre.vn/man-united-thua-tran-thu-15-tai-giai-ngoai-hang-anh-huan-luyen-giai-thich-ve-ly-do-van-de-cau-thu-nay-da-chinh-101250421032042069.htm) - 00:21 21/04/2025
 - 🤖 [Hơn 150 đại biểu tham gia tập huấn cho kỳ họp Hội đồng Trẻ em TP.HCM](https://muctim.tuoitre.vn/hon-150-dai-bieu-tham-gia-tap-huan-cho-ky-hop-hoi-dong-tre-em-tphcm-101250420185906592.htm) - 00:17 21/04/2025
 - 🤓 [Bảng xếp hạng V-League vòng 19: Kịch tính đua vô địch](https://muctim.tuoitre.vn/bang-xep-hang-v-league-vong-19-kich-tinh-dua-vo-dich-101250420223754663.htm) - 00:12 21/04/2025
 - 🎉 [Học sinh Hà Nội, TP.HCM và Vĩnh Phúc đoạt giải nhất Cuộc thi Học sinh, sinh viên với ý tưởng khởi nghiệp](https://muctim.tuoitre.vn/hoc-sinh-ha-noi-tphcm-va-vinh-phuc-doat-giai-nhat-cuoc-thi-hoc-sinh-sinh-vien-voi-y-tuong-khoi-nghiep-101250420203707058.htm) - 00:11 21/04/2025
