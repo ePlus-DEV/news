@@ -4,10 +4,10 @@ sidebar_position: 5
 ---
 
 <!-- dantri-kinh-doanh:START -->
-- 🏊 [Tài khoản Siêu lợi suất của VIB tặng người dùng mới tiền thưởng không giới hạn](https://dantri.com.vn/kinh-doanh/tai-khoan-sieu-loi-suat-cua-vib-tang-nguoi-dung-moi-tien-thuong-khong-gioi-han-20250420224954065.htm) - 01:00 21/04/2025
-- 🦆 [&quot;Giấc mơ&quot; hồi sinh ngành sản xuất Mỹ của ông Trump liệu có thành hiện thực?](https://dantri.com.vn/kinh-doanh/giac-mo-hoi-sinh-nganh-san-xuat-my-cua-ong-trump-lieu-co-thanh-hien-thuc-20250414224300988.htm) - 00:09 21/04/2025
-- 🦄 [Giá vàng tụt xa khỏi đỉnh kỷ lục 120 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/gia-vang-tut-xa-khoi-dinh-ky-luc-120-trieu-dongluong-20250421065601006.htm) - 00:04 21/04/2025
-- 🌝 [Giấc mơ hồi sinh sản xuất Mỹ của ông Trump liệu có thành hiện thực?](https://dantri.com.vn/kinh-doanh/giac-mo-hoi-sinh-san-xuat-my-cua-ong-trump-lieu-co-thanh-hien-thuc-20250420101520200.htm) - 23:56 20/04/2025
+- 🏊 [Các danh vị sẽ được vinh danh Vietnam ESG Awards tại Diễn đàn lần thứ nhất](https://dantri.com.vn/kinh-doanh/cac-danh-vi-se-duoc-vinh-danh-vietnam-esg-awards-tai-dien-dan-lan-thu-nhat-20250421120910563.htm) - 05:41 21/04/2025
+- 🦆 [Giá vàng miếng đảo chiều tăng 4 triệu đồng/lượng](https://dantri.com.vn/kinh-doanh/gia-vang-mieng-dao-chieu-tang-4-trieu-dongluong-20250421065601006.htm) - 03:17 21/04/2025
+- 🦄 [Tài khoản Siêu lợi suất của VIB tặng người dùng mới tiền thưởng không giới hạn](https://dantri.com.vn/kinh-doanh/tai-khoan-sieu-loi-suat-cua-vib-tang-nguoi-dung-moi-tien-thuong-khong-gioi-han-20250420224954065.htm) - 01:00 21/04/2025
+- 🌝 [&quot;Giấc mơ&quot; hồi sinh ngành sản xuất Mỹ của ông Trump liệu có thành hiện thực?](https://dantri.com.vn/kinh-doanh/giac-mo-hoi-sinh-nganh-san-xuat-my-cua-ong-trump-lieu-co-thanh-hien-thuc-20250414224300988.htm) - 00:09 21/04/2025
 - 💃 [Chứng khoán đứng trước cơn nhiễu động, nhà đầu tư cần làm gì?](https://dantri.com.vn/kinh-doanh/chung-khoan-dung-truoc-con-nhieu-dong-nha-dau-tu-can-lam-gi-20250420081327383.htm) - 23:54 20/04/2025
 - 🦏 [Vietnam ESG Awards lần thứ nhất sẽ vinh danh các danh vị vào ngày 23/4](https://dantri.com.vn/kinh-doanh/vietnam-esg-awards-lan-thu-nhat-se-vinh-danh-cac-danh-vi-vao-ngay-234-20250331140341532.htm) - 10:06 20/04/2025
 - 🦩 [Trung Quốc tìm thấy 2 mỏ vàng khổng lồ lên tới 2.000 tấn](https://dantri.com.vn/kinh-doanh/trung-quoc-tim-thay-2-mo-vang-khong-lo-len-toi-2000-tan-20250402225647404.htm) - 09:36 20/04/2025
