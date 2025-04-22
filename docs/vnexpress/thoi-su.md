@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Xá lợi Phật sẽ đến Việt Nam bằng chuyên cơ](https://vnexpress.net/xa-loi-phat-se-den-viet-nam-bang-chuyen-co-4877419.html) - 15:10 22/04/2025
 - 🤓 [Hà Nội phân luồng giao thông dịp nghỉ lễ 30/4-1/5](https://vnexpress.net/ha-noi-phan-luong-giao-thong-dip-nghi-le-30-4-1-5-4877398.html) - 14:39 22/04/2025
 - ⚗️ [&#39;Bộ đội Tăng thiết giáp phải là lực lượng đột kích của Lục quân&#39;](https://vnexpress.net/bo-doi-tang-thiet-giap-phai-la-luc-luong-dot-kich-cua-luc-quan-4877403.html) - 14:16 22/04/2025
-- 🌊 [Quân đội Việt Nam, Lào, Campuchia hợp luyện trên đường Lê Duẩn](https://vnexpress.net/quan-doi-viet-nam-lao-campuchia-hop-luyen-tren-duong-le-duan-4877390.html) - 14:10 22/04/2025
+- 🌊 [Quân đội Việt Nam, Campuchia, Lào hợp luyện trên đường Lê Duẩn](https://vnexpress.net/quan-doi-viet-nam-campuchia-lao-hop-luyen-tren-duong-le-duan-4877390.html) - 14:10 22/04/2025
 - 🎓 [Góp ý văn kiện Đại hội 14 trên VNeID](https://vnexpress.net/gop-y-van-kien-dai-hoi-14-tren-vneid-4877372.html) - 12:13 22/04/2025
 - 🔥 [Người dân có thể nộp phạt nguội tại nơi thường trú](https://vnexpress.net/nguoi-dan-co-the-nop-phat-nguoi-tai-noi-thuong-tru-4877258.html) - 11:27 22/04/2025
 - 🦏 [Phát hiện 9 di cốt người tiền sử ở Nghệ An](https://vnexpress.net/phat-hien-9-di-cot-nguoi-tien-su-o-nghe-an-4877326.html) - 11:04 22/04/2025
