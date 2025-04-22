@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🌏 [Sắc vóc mỹ nhân đẹp nhất Hàn Quốc 2025](https://vnexpress.net/sac-voc-my-nhan-dep-nhat-han-quoc-2025-4877181.html) - 14:33 22/04/2025
 - 💫 [Hội Điện ảnh đề nghị xem xét vụ &#39;Quyền Linh bị cắt ghép quảng cáo sữa giả&#39;](https://vnexpress.net/hoi-dien-anh-de-nghi-xem-xet-vu-quyen-linh-bi-cat-ghep-quang-cao-sua-gia-4877397.html) - 12:57 22/04/2025
 - 🌮 [Hà Trúc Linh - ứng viên vương miện Hoa hậu Việt Nam](https://vnexpress.net/ha-truc-linh-ung-vien-vuong-mien-hoa-hau-viet-nam-4877212.html) - 12:00 22/04/2025
-- 🧠 [Ca sĩ Duy Mạnh kiện hãng xe](https://vnexpress.net/ca-si-duy-manh-kien-hang-xe-4877285.html) - 09:14 22/04/2025
+- 🧠 [Ca sĩ Duy Mạnh kiện Mercedes Việt Nam](https://vnexpress.net/ca-si-duy-manh-kien-mercedes-viet-nam-4877285.html) - 09:14 22/04/2025
 - 👨‍🏫 [Phim Hong Kong gây chú ý với nội dung &#39;đàn ông mang thai&#39;](https://vnexpress.net/phim-hong-kong-gay-chu-y-voi-noi-dung-dan-ong-mang-thai-4877254.html) - 08:40 22/04/2025
 - ⚗️ [Đại cảnh cuộc chiến thành cổ Quảng Trị trong phim &#39;Mưa đỏ&#39;](https://vnexpress.net/dai-canh-cuoc-chien-thanh-co-quang-tri-trong-phim-mua-do-4877174.html) - 06:24 22/04/2025
 - 😎 [9 năm hôn nhân của &#39;Bộ Kinh Vân&#39; Hà Nhuận Đông](https://vnexpress.net/9-nam-hon-nhan-cua-bo-kinh-van-ha-nhuan-dong-4877040.html) - 05:01 22/04/2025
