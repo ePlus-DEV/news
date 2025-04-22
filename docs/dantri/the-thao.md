@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Malaysia đổi kế hoạch, quyết làm khó đội tuyển Việt Nam](https://dantri.com.vn/the-thao/malaysia-doi-ke-hoach-quyet-lam-kho-doi-tuyen-viet-nam-20250421221031607.htm) - 23:01 21/04/2025
-- 💯 [HLV Amorim bật mí về cách giúp Hojlund thăng hoa](https://dantri.com.vn/the-thao/hlv-amorim-bat-mi-ve-cach-giup-hojlund-thang-hoa-20250421235750567.htm) - 16:58 21/04/2025
+- 💯 [HLV Amorim bật mí về cách giúp Hojlund thăng hoa](https://dantri.com.vn/the-thao/hlv-amorim-bat-mi-ve-cach-giup-hojlund-thang-hoa-20250421235750567.htm) - 17:58 21/04/2025
 - ⛽️ [Bóng bàn Việt Nam giành HCV đầu tiên ở giải vô địch trẻ Đông Nam Á 2025](https://dantri.com.vn/the-thao/bong-ban-viet-nam-gianh-hcv-dau-tien-o-giai-vo-dich-tre-dong-nam-a-2025-20250421213301930.htm) - 14:55 21/04/2025
 - 💃 [Ngôi sao Việt kiều đắt nhất thế giới được nhiều CLB lớn ở châu Âu theo đuổi](https://dantri.com.vn/the-thao/ngoi-sao-viet-kieu-dat-nhat-the-gioi-duoc-nhieu-clb-lon-o-chau-au-theo-duoi-20250421200048532.htm) - 13:01 21/04/2025
 - 🌈 [Giữ vai trò &quot;sếp lớn&quot; ở Hàn Quốc, HLV Park Hang Seo hỗ trợ tuyển Việt Nam](https://dantri.com.vn/the-thao/giu-vai-tro-sep-lon-o-han-quoc-hlv-park-hang-seo-ho-tro-tuyen-viet-nam-20250421175805978.htm) - 10:58 21/04/2025
