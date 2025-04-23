@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Vợ Justin Bieber bị u nang buồn trứng, buồn vì tình trạng của chồng](https://dantri.com.vn/giai-tri/vo-justin-bieber-bi-u-nang-buon-trung-buon-vi-tinh-trang-cua-chong-20250423112646591.htm) - 10:42 23/04/2025
+- 🤩 [Vợ Justin Bieber bị u nang buồng trứng, buồn vì tình trạng của chồng](https://dantri.com.vn/giai-tri/vo-justin-bieber-bi-u-nang-buong-trung-buon-vi-tinh-trang-cua-chong-20250423112646591.htm) - 10:42 23/04/2025
 - 🔥 [Sao Việt tự hào diện áo dài truyền thống đón đại lễ 30/4](https://dantri.com.vn/giai-tri/sao-viet-tu-hao-dien-ao-dai-truyen-thong-don-dai-le-304-20250423151238177.htm) - 10:39 23/04/2025
 - 🚀 [Sau Kim Soo Hyun, một đại sứ Prada bị tố ngoại tình với người có vợ con](https://dantri.com.vn/giai-tri/sau-kim-soo-hyun-mot-dai-su-prada-bi-to-ngoai-tinh-voi-nguoi-co-vo-con-20250423122209644.htm) - 07:39 23/04/2025
 - 🔥 [Mai Huê sau hơn 20 năm xa nghề: Cuộc sống hạnh phúc, tự tin làm phim](https://dantri.com.vn/giai-tri/mai-hue-sau-hon-20-nam-xa-nghe-cuoc-song-hanh-phuc-tu-tin-lam-phim-20250423124736484.htm) - 07:35 23/04/2025
