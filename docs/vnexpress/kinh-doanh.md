@@ -13,7 +13,7 @@ sidebar_position: 3
 - 🤩 [Mảng tiêu dùng bán lẻ giúp Masan tăng lợi nhuận](https://vnexpress.net/mang-tieu-dung-ban-le-giup-masan-tang-loi-nhuan-4877437.html) - 01:00 23/04/2025
 - 🌮 [Giá vàng thế giới giảm mạnh, chứng khoán Mỹ bật tăng](https://vnexpress.net/gia-vang-the-gioi-giam-manh-chung-khoan-my-bat-tang-4877473.html) - 00:59 23/04/2025
 - 🧰 [Ông Trump nói &#39;không có ý định&#39; sa thải Chủ tịch Fed](https://vnexpress.net/ong-trump-noi-khong-co-y-dinh-sa-thai-chu-tich-fed-4877461.html) - 00:10 23/04/2025
-- 🤔 [Những doanh nghiệp quốc doanh TP HCM &#39;lột xác&#39; thành công ty tỷ USD](https://vnexpress.net/nhung-doanh-nghiep-quoc-doanh-tp-hcm-lot-xac-thanh-cong-ty-ty-usd-4877384.html) - 23:00 22/04/2025
+- 🤔 [Cuộc &#39;lột xác&#39; của doanh nghiệp quốc doanh TP HCM sau Đổi mới](https://vnexpress.net/nhung-doanh-nghiep-quoc-doanh-tp-hcm-lot-xac-thanh-cong-ty-ty-usd-4877384.html) - 23:00 22/04/2025
 - 🧑‍💻 [Nhiều hàng hóa tăng giá](https://vnexpress.net/nhieu-hang-hoa-tang-gia-4876851.html) - 22:00 22/04/2025
 - 🕴 [Cách nào kích cầu thêm tiêu dùng nội địa?](https://vnexpress.net/cach-nao-kich-cau-them-tieu-dung-noi-dia-4877270.html) - 17:30 22/04/2025
 - 🦩 [Vì sao nhiều ông lớn điện tử kiện Ấn Độ về chính sách tái chế?](https://vnexpress.net/vi-sao-nhieu-ong-lon-dien-tu-kien-an-do-ve-chinh-sach-tai-che-4877028.html) - 17:00 22/04/2025
@@ -36,7 +36,7 @@ sidebar_position: 3
 - 🤖 [Eximbank đạt mức tăng trưởng tín dụng cao nhất nửa thập kỷ](https://vnexpress.net/eximbank-dat-muc-tang-truong-tin-dung-cao-nhat-nua-thap-ky-4875678.html) - 01:00 22/04/2025
 - 🫣 [Du lịch bùng nổ, trợ lực cho ngành bán lẻ](https://vnexpress.net/du-lich-bung-no-tro-luc-cho-nganh-ban-le-4873948.html) - 00:59 22/04/2025
 - 🌏 [Giá vàng vượt 3.400 USD, chứng khoán Mỹ giảm mạnh](https://vnexpress.net/gia-vang-vuot-3-400-usd-chung-khoan-my-giam-manh-4877004.html) - 00:29 22/04/2025
-- ⚗️ [Bà Phạm Chi Lan: Việt Nam cần có FTA với bạn hàng lớn nhất](https://vnexpress.net/ba-pham-chi-lan-viet-nam-can-co-fta-voi-ban-hang-lon-nhat-4876929.html) - 16:00 21/04/2025
+- ⚗️ [&#39;Việt Nam đang có thời cơ cải cách tốt nhất sau 40 năm&#39;](https://vnexpress.net/viet-nam-dang-co-thoi-co-cai-cach-tot-nhat-sau-40-nam-4876929.html) - 16:00 21/04/2025
 - 🕯 [Ông Trump giục Fed giảm lãi suất &#39;ngay lập tức&#39;](https://vnexpress.net/ong-trump-giuc-fed-giam-lai-suat-ngay-lap-tuc-4876966.html) - 15:08 21/04/2025
 - 👍 [Thị phần Tiki gần về 0 trước sức ép TikTok Shop, Shopee](https://vnexpress.net/thi-phan-tiki-gan-ve-0-truoc-suc-ep-tiktok-shop-shopee-4876826.html) - 12:34 21/04/2025
 - 🤠 [Vị thế của hệ thống Skyled Sài Gòn](https://vnexpress.net/vi-the-cua-he-thong-skyled-sai-gon-4876907.html) - 11:00 21/04/2025
