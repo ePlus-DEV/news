@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Cựu sinh viên Columbia gọi vốn 5,3 triệu USD cho AI &#39;gian lận mọi thứ&#39;](https://vnexpress.net/cuu-sinh-vien-columbia-goi-von-5-3-trieu-usd-cho-ai-gian-lan-moi-thu-4877636.html) - 08:00 23/04/2025
+- 🤓 [Sinh viên bị đuổi khỏi Ivy League gọi vốn thành công 5,3 triệu USD](https://vnexpress.net/sinh-vien-bi-duoi-khoi-ivy-league-goi-von-thanh-cong-5-3-trieu-usd-4877636.html) - 08:00 23/04/2025
 - 🦆 [Học sinh Australia dở môn Toán](https://vnexpress.net/hoc-sinh-australia-do-mon-toan-4876507.html) - 03:04 23/04/2025
 - 🦩 [Bên trong phòng thí nghiệm chip bán dẫn 5 triệu USD ở Hà Nội](https://vnexpress.net/ben-trong-phong-thi-nghiem-chip-ban-dan-5-trieu-usd-o-ha-noi-4869967.html) - 23:00 22/04/2025
 - 🌮 [Harvard - đại học nhiều tuổi hơn nước Mỹ, giàu hơn nhiều quốc gia](https://vnexpress.net/harvard-dai-hoc-nhieu-tuoi-hon-nuoc-my-giau-hon-nhieu-quoc-gia-4876774.html) - 22:00 22/04/2025
