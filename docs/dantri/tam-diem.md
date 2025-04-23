@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- dantri-tam-diem:START -->
-- 🚦 [Sữa giả… giá chát](https://dantri.com.vn/tam-diem/sua-gia-gia-chat-20250423061852631.htm) - 00:47 23/04/2025
+- 🚦 [Đắng nghét vì sữa giả… giá chát](https://dantri.com.vn/tam-diem/dang-nghet-vi-sua-gia-gia-chat-20250423061852631.htm) - 00:47 23/04/2025
 - 🫶 [Phổ cập giáo dục mầm non: Tạo nền móng vững chắc từ bậc học đầu tiên](https://dantri.com.vn/tam-diem/pho-cap-giao-duc-mam-non-tao-nen-mong-vung-chac-tu-bac-hoc-dau-tien-20250422081332478.htm) - 01:47 22/04/2025
 - 🦏 [Áo cử nhân trên vai trẻ thơ](https://dantri.com.vn/tam-diem/ao-cu-nhan-tren-vai-tre-tho-20250421150004637.htm) - 09:26 21/04/2025
 - 🧰 [Hình dung &quot;bức tranh&quot; siêu đô thị TPHCM sau sáp nhập](https://dantri.com.vn/tam-diem/hinh-dung-buc-tranh-sieu-do-thi-tphcm-sau-sap-nhap-20250420222752724.htm) - 23:23 20/04/2025
