@@ -11,7 +11,7 @@ sidebar_position: 6
 - 🎓 [Người Việt rủ nhau làm bánh chủ đề 30/4](https://vnexpress.net/nguoi-viet-ru-nhau-lam-banh-chu-de-30-4-4877283.html) - 08:07 23/04/2025
 - 🎭 [Cách muối cà pháo nén kiểu Bắc](https://vnexpress.net/cach-muoi-ca-phao-nen-kieu-bac-4877317.html) - 08:00 23/04/2025
 - 🦅 [Máy gội đầu tích hợp AI gây sốt tại Trung Quốc](https://vnexpress.net/may-goi-dau-tich-hop-ai-gay-sot-tai-trung-quoc-4877604.html) - 03:49 23/04/2025
-- 🎃 [Vinamilk tặng 500.000 hộp sữa cho trẻ dịp 50 năm giải phóng miền Nam](https://vnexpress.net/vinamilk-tang-500-000-hop-sua-cho-tre-dip-50-nam-giai-phong-mien-nam-4877503.html) - 02:00 23/04/2025
+- 🎃 [Vinamilk tặng 500.000 hộp sữa cho trẻ dịp 50 năm thống nhất đất nước](https://vnexpress.net/vinamilk-tang-500-000-hop-sua-cho-tre-dip-50-nam-thong-nhat-dat-nuoc-4877503.html) - 02:00 23/04/2025
 - 💪 [Cựu binh U80 đi xe máy 1.300 km vào TP HCM xem diễu binh](https://vnexpress.net/cuu-binh-u80-di-xe-may-1-300-km-vao-tp-hcm-xem-dieu-binh-4877423.html) - 23:00 22/04/2025
 - 🐻 [Những người chạy đua với giá vàng](https://vnexpress.net/nhung-nguoi-chay-dua-voi-gia-vang-4877269.html) - 17:04 22/04/2025
 - 🧠 [Bí quyết xua tan cô đơn trong hôn nhân](https://vnexpress.net/bi-quyet-xua-tan-co-don-trong-hon-nhan-4876159.html) - 12:30 22/04/2025
