@@ -57,7 +57,7 @@ sidebar_position: 2
 - 🕯 [Harvard - đại học nhiều tuổi hơn nước Mỹ, giàu hơn nhiều quốc gia](https://vnexpress.net/harvard-dai-hoc-nhieu-tuoi-hon-nuoc-my-giau-hon-nhieu-quoc-gia-4876774.html) - 22:00 22/04/2025
 - 🐻 [Nơi an nghỉ cuối cùng của Giáo hoàng Francis](https://vnexpress.net/noi-an-nghi-cuoi-cung-cua-giao-hoang-francis-4877018.html) - 17:00 22/04/2025
 - 🚦 [Azerbaijan sẵn sàng hợp tác với Việt Nam trong lĩnh vực năng lượng, vận tải](https://vnexpress.net/azerbaijan-san-sang-hop-tac-voi-viet-nam-trong-linh-vuc-nang-luong-van-tai-4877441.html) - 16:32 22/04/2025
-- 👍 [Xả súng tại khu nghỉ dưỡng do Ấn Độ quản lý, 26 người chết](https://vnexpress.net/xa-sung-tai-khu-nghi-duong-do-an-do-quan-ly-26-nguoi-chet-4877425.html) - 15:23 22/04/2025
+- 👍 [Xả súng tại khu nghỉ dưỡng Ấn Độ, 26 người chết](https://vnexpress.net/xa-sung-tai-khu-nghi-duong-an-do-26-nguoi-chet-4877425.html) - 15:23 22/04/2025
 - 🚀 [Những từ ngữ được ông Trump sử dụng nhiều nhất](https://vnexpress.net/nhung-tu-ngu-duoc-ong-trump-su-dung-nhieu-nhat-4877268.html) - 13:29 22/04/2025
 - 🌮 [Nam Phi mời lãnh đạo Việt Nam dự Hội nghị thượng đỉnh G20](https://vnexpress.net/nam-phi-moi-lanh-dao-viet-nam-du-hoi-nghi-thuong-dinh-g20-4877409.html) - 13:28 22/04/2025
 - 😎 [Nga nói không nên vội vã trong đàm phán về Ukraine](https://vnexpress.net/nga-noi-khong-nen-voi-va-trong-dam-phan-ve-ukraine-4877392.html) - 12:38 22/04/2025
