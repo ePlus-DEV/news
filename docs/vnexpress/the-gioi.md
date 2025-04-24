@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Mỹ - Hàn lần đầu tập ứng phó tình huống hứng đòn hạt nhân](https://vnexpress.net/my-han-lan-dau-tap-ung-pho-tinh-huong-hung-don-hat-nhan-4878087.html) - 04:46 24/04/2025
-- 🕴 [Elon Musk &#39;cãi nhau với Bộ trưởng Tài chính Mỹ&#39; trước mặt ông Trump](https://vnexpress.net/elon-musk-cai-nhau-voi-bo-truong-tai-chinh-my-truoc-mat-ong-trump-4878044.html) - 04:14 24/04/2025
-- 🤭 [Khoảnh khắc Iskander, rocket Nga tập kích &#39;lữ đoàn thép Ukraine&#39;](https://vnexpress.net/khoanh-khac-iskander-rocket-nga-tap-kich-lu-doan-thep-ukraine-4878005.html) - 03:39 24/04/2025
-- 🧑‍💻 [Vương cung Thánh đường khác nhà thờ thế nào?](https://vnexpress.net/vuong-cung-thanh-duong-khac-nha-tho-the-nao-4877734.html) - 03:15 24/04/2025
-- 🦏 [25.000 người xếp hàng chờ viếng Giáo hoàng Francis](https://vnexpress.net/25-000-nguoi-xep-hang-cho-vieng-giao-hoang-francis-4877961.html) - 02:52 24/04/2025
-- 🦒 [Đội cận vệ canh gác linh cữu Giáo hoàng Francis](https://vnexpress.net/doi-can-ve-canh-gac-linh-cuu-giao-hoang-francis-4877504.html) - 02:30 24/04/2025
-- 🌈 [Cựu tổng thống Hàn Quốc Moon Jae-in bị truy tố](https://vnexpress.net/cuu-tong-thong-han-quoc-moon-jae-in-bi-truy-to-4877968.html) - 02:24 24/04/2025
-- 🧑‍🏫 [Ông Trump và ông Zelensky khẩu chiến về Crimea](https://vnexpress.net/ong-trump-va-ong-zelensky-khau-chien-ve-crimea-4877931.html) - 01:07 24/04/2025
-- 🐲 [12 bang Mỹ kiện Tổng thống Trump vì thuế quan](https://vnexpress.net/12-bang-my-kien-tong-thong-trump-vi-thue-quan-4877945.html) - 00:52 24/04/2025
-- 🦒 [Tổng thống Palestine chỉ trích Hamas, kêu gọi thả con tin](https://vnexpress.net/tong-thong-palestine-chi-trich-hamas-keu-goi-tha-con-tin-4877938.html) - 00:40 24/04/2025
-- 🐻 [Ấn Độ trừng phạt Pakistan sau vụ xả súng ở khu nghỉ dưỡng](https://vnexpress.net/an-do-trung-phat-pakistan-sau-vu-xa-sung-o-khu-nghi-duong-4877933.html) - 23:54 23/04/2025
-- 🚀 [Nghệ thuật &#39;chốt thỏa thuận&#39; của ông Trump đối mặt thách thức](https://vnexpress.net/nghe-thuat-chot-thoa-thuan-cua-ong-trump-doi-mat-thach-thuc-4877496.html) - 22:00 23/04/2025
-- 🥰 [Sóng gió bên trong Lầu Năm Góc](https://vnexpress.net/song-gio-ben-trong-lau-nam-goc-4877488.html) - 17:00 23/04/2025
-- 🔥 [Rome lập vùng cấm bay cho tang lễ Giáo hoàng Francis](https://vnexpress.net/rome-lap-vung-cam-bay-cho-tang-le-giao-hoang-francis-4877895.html) - 16:21 23/04/2025
-- 🥳 [Sập cầu ở Bắc Kinh vì cháy dây cáp](https://vnexpress.net/sap-cau-o-bac-kinh-vi-chay-day-cap-4877900.html) - 16:00 23/04/2025
-- 💼 [Hồng y từng bị tuyên án muốn tham gia mật nghị bầu giáo hoàng](https://vnexpress.net/hong-y-tung-bi-tuyen-an-muon-tham-gia-mat-nghi-bau-giao-hoang-4877892.html) - 15:26 23/04/2025
-- 🤡 [Hơn 150 người bị thương vì nhảy khỏi nhà giữa động đất](https://vnexpress.net/hon-150-nguoi-bi-thuong-vi-nhay-khoi-nha-giua-dong-dat-4877887.html) - 14:45 23/04/2025
-- 🌁 [Ông Putin nói quân đội Nga vẫn thiếu vũ khí](https://vnexpress.net/ong-putin-noi-quan-doi-nga-van-thieu-vu-khi-4877861.html) - 13:35 23/04/2025
-- 🤩 [Sinh viên Trung Quốc ngần ngại theo đuổi &#39;giấc mơ Mỹ&#39;](https://vnexpress.net/sinh-vien-trung-quoc-ngan-ngai-theo-duoi-giac-mo-my-4877710.html) - 13:00 23/04/2025
+- 🎭 [Ông Trump định bỏ tiền túi dựng cột cờ 30 m trong Nhà Trắng](https://vnexpress.net/ong-trump-dinh-bo-tien-tui-dung-cot-co-30-m-trong-nha-trang-4877977.html) - 07:10 24/04/2025
+- 🕴 [Mỹ - Hàn lần đầu tập ứng phó tình huống hứng đòn hạt nhân](https://vnexpress.net/my-han-lan-dau-tap-ung-pho-tinh-huong-hung-don-hat-nhan-4878087.html) - 04:46 24/04/2025
+- 🤭 [Elon Musk &#39;cãi nhau với Bộ trưởng Tài chính Mỹ&#39; trước mặt ông Trump](https://vnexpress.net/elon-musk-cai-nhau-voi-bo-truong-tai-chinh-my-truoc-mat-ong-trump-4878044.html) - 04:14 24/04/2025
+- 🧑‍💻 [Khoảnh khắc Iskander, rocket Nga tập kích &#39;lữ đoàn thép Ukraine&#39;](https://vnexpress.net/khoanh-khac-iskander-rocket-nga-tap-kich-lu-doan-thep-ukraine-4878005.html) - 03:39 24/04/2025
+- 🦏 [Vương cung Thánh đường khác nhà thờ thế nào?](https://vnexpress.net/vuong-cung-thanh-duong-khac-nha-tho-the-nao-4877734.html) - 03:15 24/04/2025
+- 🦒 [25.000 người xếp hàng chờ viếng Giáo hoàng Francis](https://vnexpress.net/25-000-nguoi-xep-hang-cho-vieng-giao-hoang-francis-4877961.html) - 02:52 24/04/2025
+- 🌈 [Đội cận vệ canh gác linh cữu Giáo hoàng Francis](https://vnexpress.net/doi-can-ve-canh-gac-linh-cuu-giao-hoang-francis-4877504.html) - 02:30 24/04/2025
+- 🧑‍🏫 [Cựu tổng thống Hàn Quốc Moon Jae-in bị truy tố](https://vnexpress.net/cuu-tong-thong-han-quoc-moon-jae-in-bi-truy-to-4877968.html) - 02:24 24/04/2025
+- 🐲 [Ông Trump và ông Zelensky khẩu chiến về Crimea](https://vnexpress.net/ong-trump-va-ong-zelensky-khau-chien-ve-crimea-4877931.html) - 01:07 24/04/2025
+- 🦒 [12 bang Mỹ kiện Tổng thống Trump vì thuế quan](https://vnexpress.net/12-bang-my-kien-tong-thong-trump-vi-thue-quan-4877945.html) - 00:52 24/04/2025
+- 🐻 [Tổng thống Palestine chỉ trích Hamas, kêu gọi thả con tin](https://vnexpress.net/tong-thong-palestine-chi-trich-hamas-keu-goi-tha-con-tin-4877938.html) - 00:40 24/04/2025
+- 🚀 [Ấn Độ trừng phạt Pakistan sau vụ xả súng ở khu nghỉ dưỡng](https://vnexpress.net/an-do-trung-phat-pakistan-sau-vu-xa-sung-o-khu-nghi-duong-4877933.html) - 23:54 23/04/2025
+- 🥰 [Nghệ thuật &#39;chốt thỏa thuận&#39; của ông Trump đối mặt thách thức](https://vnexpress.net/nghe-thuat-chot-thoa-thuan-cua-ong-trump-doi-mat-thach-thuc-4877496.html) - 22:00 23/04/2025
+- 🔥 [Sóng gió bên trong Lầu Năm Góc](https://vnexpress.net/song-gio-ben-trong-lau-nam-goc-4877488.html) - 17:00 23/04/2025
+- 🥳 [Rome lập vùng cấm bay cho tang lễ Giáo hoàng Francis](https://vnexpress.net/rome-lap-vung-cam-bay-cho-tang-le-giao-hoang-francis-4877895.html) - 16:21 23/04/2025
+- 💼 [Sập cầu ở Bắc Kinh vì cháy dây cáp](https://vnexpress.net/sap-cau-o-bac-kinh-vi-chay-day-cap-4877900.html) - 16:00 23/04/2025
+- 🤡 [Hồng y từng bị tuyên án muốn tham gia mật nghị bầu giáo hoàng](https://vnexpress.net/hong-y-tung-bi-tuyen-an-muon-tham-gia-mat-nghi-bau-giao-hoang-4877892.html) - 15:26 23/04/2025
+- 🌁 [Hơn 150 người bị thương vì nhảy khỏi nhà giữa động đất](https://vnexpress.net/hon-150-nguoi-bi-thuong-vi-nhay-khoi-nha-giua-dong-dat-4877887.html) - 14:45 23/04/2025
+- 🤩 [Ông Putin nói quân đội Nga vẫn thiếu vũ khí](https://vnexpress.net/ong-putin-noi-quan-doi-nga-van-thieu-vu-khi-4877861.html) - 13:35 23/04/2025
+- 🎉 [Sinh viên Trung Quốc ngần ngại theo đuổi &#39;giấc mơ Mỹ&#39;](https://vnexpress.net/sinh-vien-trung-quoc-ngan-ngai-theo-duoi-giac-mo-my-4877710.html) - 13:00 23/04/2025
 - 🎉 [Thủ tướng Nhật Bản sắp thăm Việt Nam](https://vnexpress.net/thu-tuong-nhat-ban-sap-tham-viet-nam-4877873.html) - 12:45 23/04/2025
-- 🎉 [Lý do nhẫn quyền lực bị phá hủy sau khi Giáo hoàng qua đời](https://vnexpress.net/ly-do-nhan-quyen-luc-bi-pha-huy-sau-khi-giao-hoang-qua-doi-4877637.html) - 12:00 23/04/2025
-- 🌁 [Mỹ nêu điều kiện không từ bỏ hòa đàm Nga - Ukraine](https://vnexpress.net/my-neu-dieu-kien-khong-tu-bo-hoa-dam-nga-ukraine-4877855.html) - 11:50 23/04/2025
-- 🌊 [Nhật Bản muốn tiếp tục là &#39;điểm đến số một&#39; của lao động Việt Nam](https://vnexpress.net/nhat-ban-muon-tiep-tuc-la-diem-den-so-mot-cua-lao-dong-viet-nam-4877701.html) - 10:41 23/04/2025
-- 🕴 [Ông Tập: Thương chiến gây hại cho kinh tế toàn cầu](https://vnexpress.net/ong-tap-thuong-chien-gay-hai-cho-kinh-te-toan-cau-4877832.html) - 10:17 23/04/2025
-- 🎓 [Linh cữu Giáo hoàng Francis được đưa tới Vương cung Thánh đường Thánh Peter](https://vnexpress.net/linh-cuu-giao-hoang-francis-duoc-dua-toi-vuong-cung-thanh-duong-thanh-peter-4877733.html) - 08:48 23/04/2025
-- 🦩 [Ukraine tố drone Nga tập kích xe buýt khiến 9 người chết](https://vnexpress.net/ukraine-to-drone-nga-tap-kich-xe-buyt-khien-9-nguoi-chet-4877707.html) - 08:34 23/04/2025
-- 🌏 [Những phát biểu thể hiện lòng độ lượng của Giáo hoàng Francis](https://vnexpress.net/nhung-phat-bieu-the-hien-long-do-luong-cua-giao-hoang-francis-4876934.html) - 08:12 23/04/2025
-- 🌋 [Tập đoàn Mỹ muốn trang bị công nghệ tiêm kích thế hệ 6 cho F-35](https://vnexpress.net/tap-doan-my-muon-trang-bi-cong-nghe-tiem-kich-the-he-6-cho-f-35-4877613.html) - 07:29 23/04/2025
-- 🪜 [Loạt đại học Mỹ củng cố tài chính khi lọt tầm ngắm của ông Trump](https://vnexpress.net/loat-dai-hoc-my-cung-co-tai-chinh-khi-lot-tam-ngam-cua-ong-trump-4877612.html) - 07:01 23/04/2025
-- 🕴 [Thiết giáp siêu hiếm của Ukraine xuất hiện ở tiền tuyến](https://vnexpress.net/thiet-giap-sieu-hiem-cua-ukraine-xuat-hien-o-tien-tuyen-4877523.html) - 06:16 23/04/2025
-- 🧑‍🏫 [Mật vụ Mỹ điều tra vụ túi chứa 3.000 USD của Bộ trưởng bị lấy trộm](https://vnexpress.net/mat-vu-my-dieu-tra-vu-tui-chua-3-000-usd-cua-bo-truong-bi-lay-trom-4877621.html) - 04:36 23/04/2025
-- 🌮 [Việt kiều chật vật đối phó &#39;bão giá&#39; tại Nhật](https://vnexpress.net/viet-kieu-chat-vat-doi-pho-bao-gia-tai-nhat-4877530.html) - 04:29 23/04/2025
-- 🚦 [Lời cuối của Giáo hoàng Francis](https://vnexpress.net/loi-cuoi-cua-giao-hoang-francis-4877557.html) - 03:41 23/04/2025
-- 💫 [Nổ kho đạn gần thủ đô Nga](https://vnexpress.net/no-kho-dan-gan-thu-do-nga-4877499.html) - 02:30 23/04/2025
-- 🤡 [Ông Zelensky muốn gặp ông Trump tại tang lễ Giáo hoàng](https://vnexpress.net/ong-zelensky-muon-gap-ong-trump-tai-tang-le-giao-hoang-4877492.html) - 02:12 23/04/2025
-- 🦣 [Mỹ công bố kế hoạch tái cấu trúc Bộ Ngoại giao](https://vnexpress.net/my-cong-bo-ke-hoach-tai-cau-truc-bo-ngoai-giao-4877476.html) - 01:33 23/04/2025
-- 🎬 [Elon Musk sẽ giảm thời gian dành cho DOGE](https://vnexpress.net/elon-musk-se-giam-thoi-gian-danh-cho-doge-4877468.html) - 01:04 23/04/2025
-- 🎉 [Ukraine nêu điều kiện đàm phán trực tiếp với Nga](https://vnexpress.net/ukraine-neu-dieu-kien-dam-phan-truc-tiep-voi-nga-4877463.html) - 00:28 23/04/2025
-- 🎡 [Lãnh đạo đại học khắp nước Mỹ phản đối chính quyền Trump](https://vnexpress.net/lanh-dao-dai-hoc-khap-nuoc-my-phan-doi-chinh-quyen-trump-4877458.html) - 00:03 23/04/2025
-- 🌜 [Bên trong Vương cung Thánh đường nơi Giáo hoàng Francis an nghỉ](https://vnexpress.net/ben-trong-vuong-cung-thanh-duong-noi-giao-hoang-francis-an-nghi-4877305.html) - 00:00 23/04/2025
-- 🎡 [Harvard - đại học nhiều tuổi hơn nước Mỹ, giàu hơn nhiều quốc gia](https://vnexpress.net/harvard-dai-hoc-nhieu-tuoi-hon-nuoc-my-giau-hon-nhieu-quoc-gia-4876774.html) - 22:00 22/04/2025
-- 🤗 [Nơi an nghỉ cuối cùng của Giáo hoàng Francis](https://vnexpress.net/noi-an-nghi-cuoi-cung-cua-giao-hoang-francis-4877018.html) - 17:00 22/04/2025
-- 🦩 [Azerbaijan sẵn sàng hợp tác với Việt Nam trong lĩnh vực năng lượng, vận tải](https://vnexpress.net/azerbaijan-san-sang-hop-tac-voi-viet-nam-trong-linh-vuc-nang-luong-van-tai-4877441.html) - 16:32 22/04/2025
-- 🎓 [Xả súng tại khu nghỉ dưỡng do Ấn Độ quản lý, 26 người chết](https://vnexpress.net/xa-sung-tai-khu-nghi-duong-do-an-do-quan-ly-26-nguoi-chet-4877425.html) - 15:23 22/04/2025
-- 🌁 [Những từ ngữ được ông Trump sử dụng nhiều nhất](https://vnexpress.net/nhung-tu-ngu-duoc-ong-trump-su-dung-nhieu-nhat-4877268.html) - 13:29 22/04/2025
-- 🤩 [Nam Phi mời lãnh đạo Việt Nam dự Hội nghị thượng đỉnh G20](https://vnexpress.net/nam-phi-moi-lanh-dao-viet-nam-du-hoi-nghi-thuong-dinh-g20-4877409.html) - 13:28 22/04/2025
-- 👹 [Nga nói không nên vội vã trong đàm phán về Ukraine](https://vnexpress.net/nga-noi-khong-nen-voi-va-trong-dam-phan-ve-ukraine-4877392.html) - 12:38 22/04/2025
-- ⛽️ [Hậu trường cuộc gặp cuối giữa Phó tổng thống Mỹ với Giáo hoàng Francis](https://vnexpress.net/hau-truong-cuoc-gap-cuoi-giua-pho-tong-thong-my-voi-giao-hoang-francis-4877003.html) - 12:00 22/04/2025
-- 🚀 [Phu nhân Tổng Bí thư cùng Phó chủ tịch Quỹ Heydar Aliyev thăm Bảo tàng Mỹ thuật](https://vnexpress.net/phu-nhan-tong-bi-thu-cung-pho-chu-tich-quy-heydar-aliyev-tham-bao-tang-my-thuat-4877332.html) - 11:01 22/04/2025
-- 🎡 [Nga giành lại &#39;tu viện bị Ukraine dùng làm cứ điểm&#39; ở Kursk](https://vnexpress.net/nga-gianh-lai-tu-vien-bi-ukraine-dung-lam-cu-diem-o-kursk-4877262.html) - 10:07 22/04/2025
-- 🕯 [Lễ tang Giáo hoàng Francis sẽ được tổ chức ngày 26/4](https://vnexpress.net/le-tang-giao-hoang-francis-se-duoc-to-chuc-ngay-26-4-4877287.html) - 09:36 22/04/2025
-- 🐻 [Hơn 60.000 thí sinh Myanmar thi lại đại học vì bài thi cháy trong động đất](https://vnexpress.net/hon-60-000-thi-sinh-myanmar-thi-lai-dai-hoc-vi-bai-thi-chay-trong-dong-dat-4877250.html) - 08:55 22/04/2025
-- 🚦 [Loạt doanh nghiệp Trung Quốc hối thúc nhân viên về đúng giờ](https://vnexpress.net/loat-doanh-nghiep-trung-quoc-hoi-thuc-nhan-vien-ve-dung-gio-4874057.html) - 08:30 22/04/2025
-- 👍 [Vatican công bố ảnh di hài Giáo hoàng trong quan tài mở](https://vnexpress.net/vatican-cong-bo-anh-di-hai-giao-hoang-trong-quan-tai-mo-4877221.html) - 08:04 22/04/2025
-- 🚀 [Tiêm kích Mỹ mang cấu hình vũ khí hiếm gặp khi đối phó Houthi](https://vnexpress.net/tiem-kich-my-mang-cau-hinh-vu-khi-hiem-gap-khi-doi-pho-houthi-4877136.html) - 07:43 22/04/2025
-- 🌮 [LHQ cảnh báo nạn lừa đảo trực tuyến ở châu Á đang lan ra thế giới](https://vnexpress.net/lhq-canh-bao-nan-lua-dao-truc-tuyen-o-chau-a-dang-lan-ra-the-gioi-4877150.html) - 07:31 22/04/2025
-- 😎 [Truyền thông Mỹ nói Elon Musk sẵn sàng rời chính phủ](https://vnexpress.net/truyen-thong-my-noi-elon-musk-san-sang-roi-chinh-phu-4877168.html) - 07:25 22/04/2025
-- 🐲 [Nga lắp &#39;mắt thần&#39;, biến UAV tự sát thành phi cơ trinh sát tầm xa](https://vnexpress.net/nga-lap-mat-than-bien-uav-tu-sat-thanh-phi-co-trinh-sat-tam-xa-4877025.html) - 05:08 22/04/2025
-- 💫 [Tương lai Tòa thánh Vatican sau khi Giáo hoàng Francis qua đời](https://vnexpress.net/tuong-lai-toa-thanh-vatican-sau-khi-giao-hoang-francis-qua-doi-4876900.html) - 04:27 22/04/2025
-- 👀 [Ông Trump và bà Melania thổi còi khởi đầu cuộc đua lăn trứng Phục sinh](https://vnexpress.net/ong-trump-va-ba-melania-thoi-coi-khoi-dau-cuoc-dua-lan-trung-phuc-sinh-4877006.html) - 04:11 22/04/2025<!-- vnexpress-the-gioi:END -->
+- 🌁 [Lý do nhẫn quyền lực bị phá hủy sau khi Giáo hoàng qua đời](https://vnexpress.net/ly-do-nhan-quyen-luc-bi-pha-huy-sau-khi-giao-hoang-qua-doi-4877637.html) - 12:00 23/04/2025
+- 🌊 [Mỹ nêu điều kiện không từ bỏ hòa đàm Nga - Ukraine](https://vnexpress.net/my-neu-dieu-kien-khong-tu-bo-hoa-dam-nga-ukraine-4877855.html) - 11:50 23/04/2025
+- 🕴 [Nhật Bản muốn tiếp tục là &#39;điểm đến số một&#39; của lao động Việt Nam](https://vnexpress.net/nhat-ban-muon-tiep-tuc-la-diem-den-so-mot-cua-lao-dong-viet-nam-4877701.html) - 10:41 23/04/2025
+- 🎓 [Ông Tập: Thương chiến gây hại cho kinh tế toàn cầu](https://vnexpress.net/ong-tap-thuong-chien-gay-hai-cho-kinh-te-toan-cau-4877832.html) - 10:17 23/04/2025
+- 🦩 [Linh cữu Giáo hoàng Francis được đưa tới Vương cung Thánh đường Thánh Peter](https://vnexpress.net/linh-cuu-giao-hoang-francis-duoc-dua-toi-vuong-cung-thanh-duong-thanh-peter-4877733.html) - 08:48 23/04/2025
+- 🌏 [Ukraine tố drone Nga tập kích xe buýt khiến 9 người chết](https://vnexpress.net/ukraine-to-drone-nga-tap-kich-xe-buyt-khien-9-nguoi-chet-4877707.html) - 08:34 23/04/2025
+- 🌋 [Những phát biểu thể hiện lòng độ lượng của Giáo hoàng Francis](https://vnexpress.net/nhung-phat-bieu-the-hien-long-do-luong-cua-giao-hoang-francis-4876934.html) - 08:12 23/04/2025
+- 🪜 [Tập đoàn Mỹ muốn trang bị công nghệ tiêm kích thế hệ 6 cho F-35](https://vnexpress.net/tap-doan-my-muon-trang-bi-cong-nghe-tiem-kich-the-he-6-cho-f-35-4877613.html) - 07:29 23/04/2025
+- 🕴 [Loạt đại học Mỹ củng cố tài chính khi lọt tầm ngắm của ông Trump](https://vnexpress.net/loat-dai-hoc-my-cung-co-tai-chinh-khi-lot-tam-ngam-cua-ong-trump-4877612.html) - 07:01 23/04/2025
+- 🧑‍🏫 [Thiết giáp siêu hiếm của Ukraine xuất hiện ở tiền tuyến](https://vnexpress.net/thiet-giap-sieu-hiem-cua-ukraine-xuat-hien-o-tien-tuyen-4877523.html) - 06:16 23/04/2025
+- 🌮 [Mật vụ Mỹ điều tra vụ túi chứa 3.000 USD của Bộ trưởng bị lấy trộm](https://vnexpress.net/mat-vu-my-dieu-tra-vu-tui-chua-3-000-usd-cua-bo-truong-bi-lay-trom-4877621.html) - 04:36 23/04/2025
+- 🚦 [Việt kiều chật vật đối phó &#39;bão giá&#39; tại Nhật](https://vnexpress.net/viet-kieu-chat-vat-doi-pho-bao-gia-tai-nhat-4877530.html) - 04:29 23/04/2025
+- 💫 [Lời cuối của Giáo hoàng Francis](https://vnexpress.net/loi-cuoi-cua-giao-hoang-francis-4877557.html) - 03:41 23/04/2025
+- 🤡 [Nổ kho đạn gần thủ đô Nga](https://vnexpress.net/no-kho-dan-gan-thu-do-nga-4877499.html) - 02:30 23/04/2025
+- 🦣 [Ông Zelensky muốn gặp ông Trump tại tang lễ Giáo hoàng](https://vnexpress.net/ong-zelensky-muon-gap-ong-trump-tai-tang-le-giao-hoang-4877492.html) - 02:12 23/04/2025
+- 🎬 [Mỹ công bố kế hoạch tái cấu trúc Bộ Ngoại giao](https://vnexpress.net/my-cong-bo-ke-hoach-tai-cau-truc-bo-ngoai-giao-4877476.html) - 01:33 23/04/2025
+- 🎉 [Elon Musk sẽ giảm thời gian dành cho DOGE](https://vnexpress.net/elon-musk-se-giam-thoi-gian-danh-cho-doge-4877468.html) - 01:04 23/04/2025
+- 🎡 [Ukraine nêu điều kiện đàm phán trực tiếp với Nga](https://vnexpress.net/ukraine-neu-dieu-kien-dam-phan-truc-tiep-voi-nga-4877463.html) - 00:28 23/04/2025
+- 🌜 [Lãnh đạo đại học khắp nước Mỹ phản đối chính quyền Trump](https://vnexpress.net/lanh-dao-dai-hoc-khap-nuoc-my-phan-doi-chinh-quyen-trump-4877458.html) - 00:03 23/04/2025
+- 🎡 [Bên trong Vương cung Thánh đường nơi Giáo hoàng Francis an nghỉ](https://vnexpress.net/ben-trong-vuong-cung-thanh-duong-noi-giao-hoang-francis-an-nghi-4877305.html) - 00:00 23/04/2025
+- 🤗 [Harvard - đại học nhiều tuổi hơn nước Mỹ, giàu hơn nhiều quốc gia](https://vnexpress.net/harvard-dai-hoc-nhieu-tuoi-hon-nuoc-my-giau-hon-nhieu-quoc-gia-4876774.html) - 22:00 22/04/2025
+- 🦩 [Nơi an nghỉ cuối cùng của Giáo hoàng Francis](https://vnexpress.net/noi-an-nghi-cuoi-cung-cua-giao-hoang-francis-4877018.html) - 17:00 22/04/2025
+- 🎓 [Azerbaijan sẵn sàng hợp tác với Việt Nam trong lĩnh vực năng lượng, vận tải](https://vnexpress.net/azerbaijan-san-sang-hop-tac-voi-viet-nam-trong-linh-vuc-nang-luong-van-tai-4877441.html) - 16:32 22/04/2025
+- 🌁 [Xả súng tại khu nghỉ dưỡng do Ấn Độ quản lý, 26 người chết](https://vnexpress.net/xa-sung-tai-khu-nghi-duong-do-an-do-quan-ly-26-nguoi-chet-4877425.html) - 15:23 22/04/2025
+- 🤩 [Những từ ngữ được ông Trump sử dụng nhiều nhất](https://vnexpress.net/nhung-tu-ngu-duoc-ong-trump-su-dung-nhieu-nhat-4877268.html) - 13:29 22/04/2025
+- 👹 [Nam Phi mời lãnh đạo Việt Nam dự Hội nghị thượng đỉnh G20](https://vnexpress.net/nam-phi-moi-lanh-dao-viet-nam-du-hoi-nghi-thuong-dinh-g20-4877409.html) - 13:28 22/04/2025
+- ⛽️ [Nga nói không nên vội vã trong đàm phán về Ukraine](https://vnexpress.net/nga-noi-khong-nen-voi-va-trong-dam-phan-ve-ukraine-4877392.html) - 12:38 22/04/2025
+- 🚀 [Hậu trường cuộc gặp cuối giữa Phó tổng thống Mỹ với Giáo hoàng Francis](https://vnexpress.net/hau-truong-cuoc-gap-cuoi-giua-pho-tong-thong-my-voi-giao-hoang-francis-4877003.html) - 12:00 22/04/2025
+- 🎡 [Phu nhân Tổng Bí thư cùng Phó chủ tịch Quỹ Heydar Aliyev thăm Bảo tàng Mỹ thuật](https://vnexpress.net/phu-nhan-tong-bi-thu-cung-pho-chu-tich-quy-heydar-aliyev-tham-bao-tang-my-thuat-4877332.html) - 11:01 22/04/2025
+- 🕯 [Nga giành lại &#39;tu viện bị Ukraine dùng làm cứ điểm&#39; ở Kursk](https://vnexpress.net/nga-gianh-lai-tu-vien-bi-ukraine-dung-lam-cu-diem-o-kursk-4877262.html) - 10:07 22/04/2025
+- 🐻 [Lễ tang Giáo hoàng Francis sẽ được tổ chức ngày 26/4](https://vnexpress.net/le-tang-giao-hoang-francis-se-duoc-to-chuc-ngay-26-4-4877287.html) - 09:36 22/04/2025
+- 🚦 [Hơn 60.000 thí sinh Myanmar thi lại đại học vì bài thi cháy trong động đất](https://vnexpress.net/hon-60-000-thi-sinh-myanmar-thi-lai-dai-hoc-vi-bai-thi-chay-trong-dong-dat-4877250.html) - 08:55 22/04/2025
+- 👍 [Loạt doanh nghiệp Trung Quốc hối thúc nhân viên về đúng giờ](https://vnexpress.net/loat-doanh-nghiep-trung-quoc-hoi-thuc-nhan-vien-ve-dung-gio-4874057.html) - 08:30 22/04/2025
+- 🚀 [Vatican công bố ảnh di hài Giáo hoàng trong quan tài mở](https://vnexpress.net/vatican-cong-bo-anh-di-hai-giao-hoang-trong-quan-tai-mo-4877221.html) - 08:04 22/04/2025
+- 🌮 [Tiêm kích Mỹ mang cấu hình vũ khí hiếm gặp khi đối phó Houthi](https://vnexpress.net/tiem-kich-my-mang-cau-hinh-vu-khi-hiem-gap-khi-doi-pho-houthi-4877136.html) - 07:43 22/04/2025
+- 😎 [LHQ cảnh báo nạn lừa đảo trực tuyến ở châu Á đang lan ra thế giới](https://vnexpress.net/lhq-canh-bao-nan-lua-dao-truc-tuyen-o-chau-a-dang-lan-ra-the-gioi-4877150.html) - 07:31 22/04/2025
+- 🐲 [Truyền thông Mỹ nói Elon Musk sẵn sàng rời chính phủ](https://vnexpress.net/truyen-thong-my-noi-elon-musk-san-sang-roi-chinh-phu-4877168.html) - 07:25 22/04/2025
+- 💫 [Nga lắp &#39;mắt thần&#39;, biến UAV tự sát thành phi cơ trinh sát tầm xa](https://vnexpress.net/nga-lap-mat-than-bien-uav-tu-sat-thanh-phi-co-trinh-sat-tam-xa-4877025.html) - 05:08 22/04/2025
+- 👀 [Tương lai Tòa thánh Vatican sau khi Giáo hoàng Francis qua đời](https://vnexpress.net/tuong-lai-toa-thanh-vatican-sau-khi-giao-hoang-francis-qua-doi-4876900.html) - 04:27 22/04/2025<!-- vnexpress-the-gioi:END -->
