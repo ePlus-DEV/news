@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Kiện người tổ chức nhậu sau khi con chết vì lái xe lúc say rượu](https://vnexpress.net/kien-nguoi-to-chuc-nhau-sau-khi-con-chet-vi-lai-xe-luc-say-ruou-4878288.html) - 15:05 24/04/2025
-- 🥰 [Mỹ mất kỷ lục 16,6 tỷ USD vì lừa đảo qua mạng năm 2024](https://vnexpress.net/my-mat-ky-luc-16-6-ty-usd-vi-lua-dao-qua-mang-nam-2024-4878322.html) - 14:29 24/04/2025
+- 🥰 [Ngày càng nhiều người già là mục tiêu của tội phạm lừa qua mạng](https://vnexpress.net/ngay-cang-nhieu-nguoi-gia-la-muc-tieu-cua-toi-pham-lua-qua-mang-4878322.html) - 14:29 24/04/2025
 - 🎓 [Hàng trăm người tìm thuê trọ ở TP HCM bị lừa](https://vnexpress.net/hang-tram-nguoi-tim-thue-tro-o-tp-hcm-bi-lua-4878261.html) - 10:20 24/04/2025
 - 🤓 [Hối hận của anh em &#39;người rừng&#39; sát hại thiếu niên](https://vnexpress.net/hoi-han-cua-anh-em-nguoi-rung-sat-hai-thieu-nien-4878202.html) - 10:10 24/04/2025
 - 🎊 [Hỗn chiến sau cuộc nhậu, một thuyền viên tử vong](https://vnexpress.net/hon-chien-sau-cuoc-nhau-mot-thuyen-vien-tu-vong-4878191.html) - 09:41 24/04/2025
