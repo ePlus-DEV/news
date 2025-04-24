@@ -8,7 +8,7 @@ sidebar_position: 7
 - 🦆 [Trung Quốc thống trị bảng xếp hạng đại học châu Á](https://vnexpress.net/trung-quoc-thong-tri-bang-xep-hang-dai-hoc-chau-a-4877919.html) - 23:00 23/04/2025
 - 🦩 [Bộ Giáo dục đề nghị xác minh cơ sở dạy thêm 500 học sinh](https://vnexpress.net/bo-giao-duc-de-nghi-xac-minh-co-so-day-them-500-hoc-sinh-4877916.html) - 18:05 23/04/2025
 - 🌮 [Ngành Vật lý Y khoa có dễ tìm việc không?](https://vnexpress.net/nganh-vat-ly-y-khoa-co-de-tim-viec-khong-4877433.html) - 16:59 23/04/2025
-- 🔭 [Đề nghị thanh tra các cơ sở mầm non sau hàng loạt vụ đánh trẻ](https://vnexpress.net/de-nghi-thanh-tra-cac-co-so-mam-non-sau-hang-loat-vu-danh-tre-4877907.html) - 16:46 23/04/2025
+- 🔭 [Đề nghị Bộ Giáo dục thanh tra các cơ sở mầm non](https://vnexpress.net/de-nghi-bo-giao-duc-thanh-tra-cac-co-so-mam-non-4877907.html) - 16:46 23/04/2025
 - 💡 [Ba trường ở Thủ Đức thi lớp 6 vào ngày 24/5](https://vnexpress.net/lich-thi-lop-6-thcs-tran-quoc-toan-1-hoa-lu-binh-tho-4877875.html) - 13:31 23/04/2025
 - 🥰 [Con đường nào từng được ví như &#39;cuống rốn&#39; của Sài Gòn?](https://vnexpress.net/con-duong-nao-tung-duoc-vi-nhu-cuong-ron-cua-sai-gon-4877868.html) - 13:15 23/04/2025
 - 🐲 [TP HCM khảo sát năng lực tiếng Anh cả hiệu trưởng, hiệu phó](https://vnexpress.net/tp-hcm-khao-sat-nang-luc-tieng-anh-ca-hieu-truong-hieu-pho-4877838.html) - 12:34 23/04/2025
