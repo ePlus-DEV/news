@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Bách hóa tổng hợp và siêu thị AEON sẽ có mặt tại Ocean City](https://vnexpress.net/bach-hoa-tong-hop-va-sieu-thi-aeon-se-co-mat-tai-ocean-city-4878282.html) - 12:00 24/04/2025
-- 🐲 [Thành lập Hội đồng Tư vấn chính sách](https://vnexpress.net/thanh-lap-hoi-dong-tu-van-chinh-sach-4878300.html) - 11:47 24/04/2025
+- 🐲 [Thành lập Hội đồng Tư vấn chính sách của Thủ tướng](https://vnexpress.net/thanh-lap-hoi-dong-tu-van-chinh-sach-cua-thu-tuong-4878300.html) - 11:47 24/04/2025
 - 🔥 [Siết điều kiện phát hành trái phiếu doanh nghiệp riêng lẻ](https://vnexpress.net/siet-dieu-kien-phat-hanh-trai-phieu-doanh-nghiep-rieng-le-4878238.html) - 10:53 24/04/2025
 - 🐵 [Chủ của Bệnh viện Hoàn Mỹ lãi hơn 1,5 tỷ mỗi ngày](https://vnexpress.net/chu-cua-benh-vien-hoan-my-lai-hon-1-5-ty-moi-ngay-4878135.html) - 10:50 24/04/2025
 - 🦅 [Ông Bùi Thành Nhơn: Cổ đông hãy tin vào cổ phiếu Novaland](https://vnexpress.net/ong-bui-thanh-nhon-co-dong-hay-tin-vao-co-phieu-novaland-4878235.html) - 10:27 24/04/2025
