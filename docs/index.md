@@ -406,7 +406,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Phát huy hiệu quả gói tín dụng 500.000 tỷ đồng cho khoa học công nghệ](https://baochinhphu.vn/phat-huy-hieu-qua-goi-tin-dung-500000-ty-dong-cho-khoa-hoc-cong-nghe-102250424211105692.htm) - 21:35 24/04/2025
+- 💻 [Phát huy hiệu quả gói tín dụng 500.000 tỷ đồng](https://baochinhphu.vn/phat-huy-hieu-qua-goi-tin-dung-500000-ty-dong-cho-khoa-hoc-cong-nghe-102250424211105692.htm) - 21:35 24/04/2025
 - 🌜 [Thủ tướng Phạm Minh Chính chủ trì phiên họp với Hội đồng Tư vấn chính sách](https://baochinhphu.vn/thu-tuong-pham-minh-chinh-chu-tri-phien-hop-voi-hoi-dong-tu-van-chinh-sach-102250424191827661.htm) - 21:13 24/04/2025
 - 🦆 [Chủ tịch nước Lương Cường hội đàm với Tổng Bí thư, Chủ tịch nước Lào](https://baochinhphu.vn/chu-tich-nuoc-luong-cuong-hoi-dam-voi-tong-bi-thu-chu-tich-nuoc-lao-102250424174123695.htm) - 21:06 24/04/2025
 - 🌝 [Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ ngày 24/4/2025 &lpar;2&rpar;](https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-24-4-2025-2-10225042420391668.htm) - 20:53 24/04/2025
