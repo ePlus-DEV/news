@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [CEO Vinamilk: &#39;Nếu thuế nhập khẩu sữa Mỹ về 0%, hàng việt vẫn rẻ hơn&#39;](https://vnexpress.net/ceo-vinamilk-neu-thue-nhap-khau-sua-my-ve-0-hang-viet-van-re-hon-4878624.html) - 13:38 25/04/2025
+- ⛽️ [CEO Vinamilk: &#39;Nếu thuế nhập khẩu sữa Mỹ về 0%, hàng Việt vẫn rẻ hơn&#39;](https://vnexpress.net/ceo-vinamilk-neu-thue-nhap-khau-sua-my-ve-0-hang-viet-van-re-hon-4878624.html) - 13:38 25/04/2025
 - 🐲 [De Heus xây chuỗi cung ứng bền vững cho ngành chăn nuôi](https://vnexpress.net/de-heus-xay-chuoi-cung-ung-ben-vung-cho-nganh-chan-nuoi-4878778.html) - 13:00 25/04/2025
 - 🔥 [Bút Hoshi - tham vọng toàn cầu từ nền tảng 45 năm của Thiên Long](https://vnexpress.net/but-hoshi-tham-vong-toan-cau-tu-nen-tang-45-nam-cua-thien-long-4873791.html) - 13:00 25/04/2025
 - 🐵 [Ông Lê Viết Hải: Phát hành 200 triệu cổ phiếu để công ty dứt điểm khó khăn](https://vnexpress.net/ong-le-viet-hai-phat-hanh-200-trieu-co-phieu-de-cong-ty-dut-diem-kho-khan-4878774.html) - 12:20 25/04/2025
