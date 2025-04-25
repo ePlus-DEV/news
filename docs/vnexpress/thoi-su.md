@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Nước cống tràn vào nhà dân sau mưa ở Lâm Đồng](https://vnexpress.net/nuoc-cong-tran-vao-nha-dan-sau-mua-o-lam-dong-4878801.html) - 15:06 25/04/2025
-- 🤓 [Quân đội Việt Nam, Trung Quốc và các nước hợp luyện diễu binh dưới mưa](https://vnexpress.net/quan-doi-viet-nam-trung-quoc-va-cac-nuoc-hop-luyen-dieu-binh-duoi-mua-4878764.html) - 12:39 25/04/2025
+- 🤓 [Quân đội Việt Nam, Trung Quốc và các nước hợp luyện diễu binh trước Dinh Độc Lập](https://vnexpress.net/quan-doi-viet-nam-trung-quoc-va-cac-nuoc-hop-luyen-dieu-binh-truoc-dinh-doc-lap-4878764.html) - 12:39 25/04/2025
 - ⚗️ [Phú Quốc sẽ trở thành đảo &#39;không xe chạy xăng dầu&#39;](https://vnexpress.net/phu-quoc-se-tro-thanh-dao-khong-xe-chay-xang-dau-4878665.html) - 11:40 25/04/2025
 - 🌊 [Chính phủ đề xuất giảm 70% thời gian làm thủ tục xây nhà ở xã hội](https://vnexpress.net/chinh-phu-de-xuat-giam-70-thoi-gian-lam-thu-tuc-xay-nha-o-xa-hoi-4878740.html) - 11:24 25/04/2025
 - 🎓 [Đoàn thể, hội quần chúng địa phương sắp trực thuộc Mặt trận Tổ quốc](https://vnexpress.net/doan-the-hoi-quan-chung-dia-phuong-sap-truc-thuoc-mat-tran-to-quoc-4878741.html) - 11:09 25/04/2025
