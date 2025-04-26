@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Tro cốt diễn viên Quý Bình được rải xuống biển](https://vnexpress.net/tro-cot-dien-vien-quy-binh-duoc-rai-xuong-bien-4878606.html) - 08:52 26/04/2025
+- 🌏 [Tro cốt diễn viên Quý Bình được rải xuống biển Cần Giờ](https://vnexpress.net/tro-cot-dien-vien-quy-binh-duoc-rai-xuong-bien-can-gio-4878606.html) - 08:52 26/04/2025
 - 💫 [Phong cách của hoàng tử bé nước Anh](https://vnexpress.net/phong-cach-cua-hoang-tu-be-nuoc-anh-4878450.html) - 07:30 26/04/2025
 - 🌮 [Yeom Hye Ran - diễn viên thực lực chinh phục màn ảnh Hàn](https://vnexpress.net/yeom-hye-ran-dien-vien-thuc-luc-chinh-phuc-man-anh-han-4878507.html) - 06:00 26/04/2025
 - 🧠 [Bài học về sự thay đổi của vợ cũ Bill Gates](https://vnexpress.net/bai-hoc-ve-su-thay-doi-cua-vo-cu-bill-gates-4875635.html) - 05:47 26/04/2025
