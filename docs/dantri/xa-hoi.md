@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- dantri-xa-hoi:START -->
-- 🫣 [Không khí hào hứng khắp ngã đường TPHCM trước giờ tổng duyệt diễu binh](https://dantri.com.vn/xa-hoi/khong-khi-hao-hung-khap-nga-duong-tphcm-truoc-gio-tong-duyet-dieu-binh-20250426190146278.htm) - 21:10 26/04/2025
+- 🫣 [Không khí hào hứng khắp ngả đường TPHCM trước giờ tổng duyệt diễu binh](https://dantri.com.vn/xa-hoi/khong-khi-hao-hung-khap-nga-duong-tphcm-truoc-gio-tong-duyet-dieu-binh-20250426190146278.htm) - 21:10 26/04/2025
 - 💼 [&quot;Cắm trại&quot; xuyên đêm giữ chỗ chờ xem Tổng duyệt diễu binh ở TPHCM](https://dantri.com.vn/xa-hoi/cam-trai-xuyen-dem-giu-cho-cho-xem-tong-duyet-dieu-binh-o-tphcm-20250427033126998.htm) - 20:31 26/04/2025
 - 🎊 [Đường băng sân bay Long Thành đã hoàn thành](https://dantri.com.vn/xa-hoi/duong-bang-san-bay-long-thanh-da-hoan-thanh-20250427000001324.htm) - 18:11 26/04/2025
 - 🙉 [Thức xuyên đêm chờ xem tổng duyệt diễu binh, diễu hành ở TPHCM](https://dantri.com.vn/xa-hoi/thuc-xuyen-dem-cho-xem-tong-duyet-dieu-binh-dieu-hanh-o-tphcm-20250427004237786.htm) - 18:02 26/04/2025
