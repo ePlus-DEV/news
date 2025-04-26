@@ -11,7 +11,7 @@ sidebar_position: 1
 - 🎓 [Đà Nẵng chiếu phim lịch sử trên nền tòa nhà Pháp cổ](https://vnexpress.net/da-nang-chieu-phim-lich-su-tren-nen-toa-nha-phap-co-4879114.html) - 14:47 26/04/2025
 - 🔥 [Đông nghịt người đội mưa xem pháo hoa 30/4 ở TP HCM](https://vnexpress.net/dong-nghit-nguoi-doi-mua-xem-phao-hoa-30-4-o-tp-hcm-4879123.html) - 13:35 26/04/2025
 - 🦏 [Chuyến đi chơi Tam Đảo biến thành thảm kịch](https://vnexpress.net/chuyen-di-choi-tam-dao-bien-thanh-tham-kich-4879094.html) - 13:11 26/04/2025
-- 👺 [Cấm người, xe vào trung tâm TP HCM từ 3h ngày 27/4](https://vnexpress.net/cam-nguoi-xe-vao-trung-tam-tp-hcm-tu-3h-ngay-27-4-4879111.html) - 11:56 26/04/2025
+- 👺 [Cấm người, xe vào trung tâm TP HCM từ sáng 27/4](https://vnexpress.net/cam-nguoi-xe-vao-trung-tam-tp-hcm-tu-sang-27-4-4879111.html) - 11:56 26/04/2025
 - 🧑‍🏫 [TP HCM công bố 50 công trình tiêu biểu](https://vnexpress.net/tp-hcm-cong-bo-50-cong-trinh-tieu-bieu-4879088.html) - 11:12 26/04/2025
 - 🚦 [Tàu hàng tông nhau, gây tràn dầu ở Cần Giờ](https://vnexpress.net/tau-hang-tong-nhau-gay-tran-dau-o-can-gio-4879017.html) - 07:43 26/04/2025
 - 🎉 [Xây dựng cơ chế đặc thù cho tất cả dự án đường sắt](https://vnexpress.net/xay-dung-co-che-dac-thu-cho-tat-ca-du-an-duong-sat-4878997.html) - 07:24 26/04/2025
