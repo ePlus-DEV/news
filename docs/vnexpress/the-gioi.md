@@ -8,7 +8,7 @@ sidebar_position: 2
 - 🕴 [Nga triển khai UAV chỉ điểm cho pháo tự hành](https://vnexpress.net/nga-trien-khai-uav-chi-diem-cho-phao-tu-hanh-4879065.html) - 09:27 26/04/2025
 - 🤭 [Số thẻ fan bóng đá của Giáo hoàng Francis gây chú ý](https://vnexpress.net/so-the-fan-bong-da-cua-giao-hoang-francis-gay-chu-y-4879068.html) - 09:25 26/04/2025
 - 🧑‍💻 [Quân đội Ấn Độ, Pakistan tiếp tục đấu súng tại vùng tranh chấp](https://vnexpress.net/quan-doi-an-do-pakistan-tiep-tuc-dau-sung-tai-vung-tranh-chap-4879051.html) - 08:09 26/04/2025
-- 🦏 [Biển người dự tang lễ Giáo hoàng Francis](https://vnexpress.net/vatican-to-chuc-tang-le-giao-hoang-francis-4878999.html) - 07:24 26/04/2025
+- 🦏 [Linh cữu Giáo hoàng Francis được chuyển đến nơi an nghỉ cuối cùng](https://vnexpress.net/vatican-to-chuc-tang-le-giao-hoang-francis-4878999.html) - 07:24 26/04/2025
 - 🦒 [Giáo hoàng dốc túi làm từ thiện vài ngày trước khi qua đời](https://vnexpress.net/giao-hoang-doc-tui-lam-tu-thien-vai-ngay-truoc-khi-qua-doi-4878855.html) - 07:05 26/04/2025
 - 🌈 [250.000 người đến viếng Giáo hoàng Francis](https://vnexpress.net/250-000-nguoi-den-vieng-giao-hoang-francis-4878900.html) - 06:46 26/04/2025
 - 🧑‍🏫 [Houthi có thể đã thu được bom &#39;Xuyên bão&#39; tối tân của Mỹ](https://vnexpress.net/houthi-co-the-da-thu-duoc-bom-xuyen-bao-toi-tan-cua-my-4878882.html) - 06:44 26/04/2025
