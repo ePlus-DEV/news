@@ -588,7 +588,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
 - 💼 [Chủ tịch Quốc hội dự kỷ niệm 50 năm thống nhất đất nước tại Cần Thơ](https://tienphong.vn/chu-tich-quoc-hoi-du-ky-niem-50-nam-thong-nhat-dat-nuoc-tai-can-tho-post1737476.tpo) - 22:47 26/04/2025
-- 🎊 [Mãn nhãn xem màn diễn 3D mapping và pháo hoa rực rỡ chào mừng đại lễ 30/4](https://tienphong.vn/man-nhan-xem-man-dien-3d-mapping-va-phao-hoa-ruc-ro-chao-mung-dai-le-304-post1737485.tpo) - 22:46 26/04/2025
+- 🎊 [Mãn nhãn màn diễn 3D mapping, pháo hoa rợp trời mừng đất nước thống nhất](https://tienphong.vn/man-nhan-man-dien-3d-mapping-phao-hoa-rop-troi-mung-dat-nuoc-thong-nhat-post1737485.tpo) - 22:46 26/04/2025
 - 💼 [Khánh thành Công viên tượng đài Anh hùng Võ Thị Sáu](https://tienphong.vn/khanh-thanh-cong-vien-tuong-dai-anh-hung-vo-thi-sau-post1737298.tpo) - 22:32 26/04/2025
 - 👺 [Vatican tiễn biệt Giáo hoàng Francis bằng nghi lễ giản dị và trang trọng](https://tienphong.vn/vatican-tien-biet-giao-hoang-francis-bang-nghi-le-gian-di-va-trang-trong-post1737482.tpo) - 21:54 26/04/2025
 - 💪 [Khởi tố nữ chủ hụi ở Đà Lạt](https://tienphong.vn/khoi-to-nu-chu-hui-o-da-lat-post1737401.tpo) - 21:42 26/04/2025
