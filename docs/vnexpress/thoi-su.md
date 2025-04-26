@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Trắng đêm tới sáng chờ xem tổng duyệt diễu binh](https://vnexpress.net/trang-dem-toi-sang-cho-xem-tong-duyet-dieu-binh-4879148.html) - 21:00 26/04/2025
+- 🦒 [Người dân đổ về trung tâm TP HCM từ nửa đêm chờ xem tổng duyệt diễu binh](https://vnexpress.net/nguoi-dan-do-ve-trung-tam-tp-hcm-tu-nua-dem-cho-xem-tong-duyet-dieu-binh-4879148.html) - 21:00 26/04/2025
 - 🤓 [Hoàn thành xây dựng đường băng sân bay Long Thành](https://vnexpress.net/hoan-thanh-xay-dung-duong-bang-san-bay-long-thanh-4879139.html) - 17:00 26/04/2025
 - ⚗️ [Đà Nẵng dự kiến sử dụng trụ sở dôi dư làm trường học, nhà văn hóa](https://vnexpress.net/da-nang-du-kien-su-dung-tru-so-doi-du-lam-truong-hoc-nha-van-hoa-4879130.html) - 17:00 26/04/2025
 - 🌊 [Vinh lỡ hẹn giấc mơ &#39;thành phố biển&#39;](https://vnexpress.net/vinh-lo-hen-giac-mo-thanh-pho-bien-4876327.html) - 17:00 26/04/2025
