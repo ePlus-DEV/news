@@ -4,7 +4,7 @@ sidebar_position: 22
 ---
 
 <!-- dantri-du-lich:START -->
-- 🥰 [Đường ở khu du lịch nổi tiếng Đà Lạt tối om và bí ẩn về vụ xương người](https://dantri.com.vn/du-lich/duong-o-khu-du-lich-noi-tieng-da-lat-toi-om-va-bi-an-ve-vu-xuong-nguoi-20250425111453463.htm) - 22:59 25/04/2025
+- 🥰 [Đường khu du lịch nổi tiếng ở Đà Lạt tối om: Lắp đèn khắc phục](https://dantri.com.vn/du-lich/duong-khu-du-lich-noi-tieng-o-da-lat-toi-om-lap-den-khac-phuc-20250425111453463.htm) - 22:59 25/04/2025
 - 🥰 [Dùng thiết bị ghi hình theo dõi tội phạm trong đêm khai mạc du lịch Sầm Sơn](https://dantri.com.vn/du-lich/dung-thiet-bi-ghi-hinh-theo-doi-toi-pham-trong-dem-khai-mac-du-lich-sam-son-20250425134510949.htm) - 11:31 25/04/2025
 - 🐻 [&quot;Thiên thần nội y&quot; đội nón lá, ngồi thuyền thúng khi tới Hội An du lịch](https://dantri.com.vn/du-lich/thien-than-noi-y-doi-non-la-ngoi-thuyen-thung-khi-toi-hoi-an-du-lich-20250425160843454.htm) - 11:10 25/04/2025
 - 🤩 [Top 5 câu lạc bộ biển đáng trải nghiệm ở châu Á, Việt Nam cũng góp mặt](https://dantri.com.vn/du-lich/top-5-cau-lac-bo-bien-dang-trai-nghiem-o-chau-a-viet-nam-cung-gop-mat-20250425144515781.htm) - 07:51 25/04/2025
