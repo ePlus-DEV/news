@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Khoảnh khắc cựu chiến binh ngủ gục trên phố vì xem diễu binh gây xúc động](https://dantri.com.vn/doi-song/khoanh-khac-cuu-chien-binh-ngu-guc-tren-pho-vi-xem-dieu-binh-gay-xuc-dong-20250427143041669.htm) - 08:56 27/04/2025
+- 🥳 [Khoảnh khắc cựu chiến binh ngủ gục trên phố chờ xem diễu binh gây xúc động](https://dantri.com.vn/doi-song/khoanh-khac-cuu-chien-binh-ngu-guc-tren-pho-cho-xem-dieu-binh-gay-xuc-dong-20250427143041669.htm) - 08:56 27/04/2025
 - 🌁 [Con trai cựu Bộ trưởng Quốc phòng Mỹ đến Việt Nam tìm lý do cha thất bại](https://dantri.com.vn/doi-song/con-trai-cuu-bo-truong-quoc-phong-my-den-viet-nam-tim-ly-do-cha-that-bai-20250427011351002.htm) - 04:48 27/04/2025
 - 👀 [Gặp chiến sĩ Lê Hoàng Hiệp gây sốt, nghe đồng đội hé lộ tính cách thật](https://dantri.com.vn/doi-song/gap-chien-si-le-hoang-hiep-gay-sot-nghe-dong-doi-he-lo-tinh-cach-that-20250427103530951.htm) - 03:50 27/04/2025
 - 🐻 [Chi tiền triệu thuê nhà mặt phố xem diễu binh để khỏi... ngủ công viên](https://dantri.com.vn/doi-song/chi-tien-trieu-thue-nha-mat-pho-xem-dieu-binh-de-khoi-ngu-cong-vien-20250427092118409.htm) - 03:24 27/04/2025
