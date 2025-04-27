@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Liverpool 3-1 Tottenham &lpar;hiệp 2&rpar;: Cúp bạc đang chờ The Kop](https://dantri.com.vn/the-thao/liverpool-3-1-tottenham-hiep-2-cup-bac-dang-cho-the-kop-20250427222515138.htm) - 15:25 27/04/2025
+- 🎡 [Liverpool 5-1 Tottenham &lpar;hiệp 2&rpar;: Cúp bạc đang chờ The Kop](https://dantri.com.vn/the-thao/liverpool-5-1-tottenham-hiep-2-cup-bac-dang-cho-the-kop-20250427222515138.htm) - 15:25 27/04/2025
 - 💯 [Man Utd thoát thua Bournemouth nhờ bàn gỡ ở phút 96](https://dantri.com.vn/the-thao/man-utd-thoat-thua-bournemouth-nho-ban-go-o-phut-96-20250427214343184.htm) - 15:16 27/04/2025
 - ⛽️ [Tuấn Hải ghi bàn, Hà Nội FC quyết đua vô địch với CLB Nam Định](https://dantri.com.vn/the-thao/tuan-hai-ghi-ban-ha-noi-fc-quyet-dua-vo-dich-voi-clb-nam-dinh-20250427214027623.htm) - 14:48 27/04/2025
 - 💃 [HAGL đánh bại CLB Hải Phòng, SHB Đà Nẵng thắng CLB Thanh Hóa](https://dantri.com.vn/the-thao/hagl-danh-bai-clb-hai-phong-shb-da-nang-thang-clb-thanh-hoa-20250427202535640.htm) - 13:35 27/04/2025
