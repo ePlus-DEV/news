@@ -6,9 +6,9 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Quân đội Ấn Độ, Pakistan đấu súng ba đêm liên tiếp ở vùng tranh chấp](https://vnexpress.net/quan-doi-an-do-pakistan-dau-sung-ba-dem-lien-tiep-o-vung-tranh-chap-4879227.html) - 08:29 27/04/2025
 - 🕴 [Thủ tướng Nhật Bản đến Việt Nam](https://vnexpress.net/thu-tuong-nhat-ban-den-viet-nam-4879169.html) - 08:06 27/04/2025
-- 🤭 [Lao xe vào đám đông dự lễ hội ở Canada](https://vnexpress.net/lao-xe-vao-dam-dong-du-le-hoi-o-canada-4879232.html) - 06:38 27/04/2025
+- 🤭 [Lao xe vào đám đông dự lễ hội ở Canada, ít nhất 9 người chết](https://vnexpress.net/lao-xe-vao-dam-dong-du-le-hoi-o-canada-it-nhat-9-nguoi-chet-4879232.html) - 06:38 27/04/2025
 - 🧑‍💻 [Ngôi chùa lưu giữ xá lợi răng Phật tại Sri Lanka](https://vnexpress.net/ngoi-chua-luu-giu-xa-loi-rang-phat-tai-sri-lanka-4877134.html) - 04:43 27/04/2025
-- 🦏 [18 người chết, 800 người bị thương trong vụ nổ tại cảng ở Iran](https://vnexpress.net/18-nguoi-chet-800-nguoi-bi-thuong-trong-vu-no-tai-cang-o-iran-4879187.html) - 03:58 27/04/2025
+- 🦏 [25 người chết, 1.000 người bị thương trong vụ nổ tại cảng Iran](https://vnexpress.net/25-nguoi-chet-1-000-nguoi-bi-thuong-trong-vu-no-tai-cang-iran-4879187.html) - 03:58 27/04/2025
 - 🦒 [Vatican công bố hình ảnh an táng Giáo hoàng Francis](https://vnexpress.net/vatican-cong-bo-hinh-anh-an-tang-giao-hoang-francis-4879171.html) - 02:08 27/04/2025
 - 🌈 [Phóng viên kể về kỷ niệm khó quên với Giáo hoàng Francis](https://vnexpress.net/phong-vien-ke-ve-ky-niem-kho-quen-voi-giao-hoang-francis-4879054.html) - 01:43 27/04/2025
 - 🧑‍🏫 [Moskva bắt &#39;đặc vụ Ukraine&#39; trong vụ ám sát tướng Nga](https://vnexpress.net/moskva-bat-dac-vu-ukraine-trong-vu-am-sat-tuong-nga-4879156.html) - 00:51 27/04/2025
