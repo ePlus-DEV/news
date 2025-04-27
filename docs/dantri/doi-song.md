@@ -6,7 +6,7 @@ sidebar_position: 18
 <!-- dantri-doi-song:START -->
 - 🥳 [Con trai cựu Bộ trưởng Quốc phòng Mỹ đến Việt Nam tìm lý do cha thất bại](https://dantri.com.vn/doi-song/con-trai-cuu-bo-truong-quoc-phong-my-den-viet-nam-tim-ly-do-cha-that-bai-20250427011351002.htm) - 04:48 27/04/2025
 - 🌁 [Gặp chiến sĩ Lê Hoàng Hiệp gây sốt, nghe đồng đội hé lộ tính cách thật](https://dantri.com.vn/doi-song/gap-chien-si-le-hoang-hiep-gay-sot-nghe-dong-doi-he-lo-tinh-cach-that-20250427103530951.htm) - 03:50 27/04/2025
-- 👀 [Chi tiền triệu thuê nhà mặt phố xem diễu binh đễ khỏi... ngủ công viên](https://dantri.com.vn/doi-song/chi-tien-trieu-thue-nha-mat-pho-xem-dieu-binh-de-khoi-ngu-cong-vien-20250427092118409.htm) - 03:24 27/04/2025
+- 👀 [Chi tiền triệu thuê nhà mặt phố xem diễu binh để khỏi... ngủ công viên](https://dantri.com.vn/doi-song/chi-tien-trieu-thue-nha-mat-pho-xem-dieu-binh-de-khoi-ngu-cong-vien-20250427092118409.htm) - 03:24 27/04/2025
 - 🐻 [Cô gái được chiến sĩ tặng quà gây bão mạng: &quot;Tôi cũng mong sẽ tiến xa hơn&quot;](https://dantri.com.vn/doi-song/co-gai-duoc-chien-si-tang-qua-gay-bao-mang-toi-cung-mong-se-tien-xa-hon-20250426175618139.htm) - 23:34 26/04/2025
 - 🦅 [Những &quot;huyết thư&quot; xin ra trận và khát vọng Bắc - Nam thống nhất](https://dantri.com.vn/doi-song/nhung-huyet-thu-xin-ra-tran-va-khat-vong-bac-nam-thong-nhat-20250418094746351.htm) - 23:11 26/04/2025
 - 🦩 [Chiêm ngưỡng bộ sưu tập gốm cổ quý hiếm tại Đại nội Huế](https://dantri.com.vn/doi-song/chiem-nguong-bo-suu-tap-gom-co-quy-hiem-tai-dai-noi-hue-20250426194305914.htm) - 23:07 26/04/2025
