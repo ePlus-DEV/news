@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Lao xe vào đám đông ở Canada](https://vnexpress.net/lao-xe-vao-dam-dong-o-canada-4879232.html) - 06:38 27/04/2025
+- 🎭 [Lao xe vào đám đông dự lễ hội ở Canada](https://vnexpress.net/lao-xe-vao-dam-dong-du-le-hoi-o-canada-4879232.html) - 06:38 27/04/2025
 - 🕴 [Ngôi chùa lưu giữ xá lợi răng Phật tại Sri Lanka](https://vnexpress.net/ngoi-chua-luu-giu-xa-loi-rang-phat-tai-sri-lanka-4877134.html) - 04:43 27/04/2025
 - 🤭 [18 người chết, 800 người bị thương trong vụ nổ tại cảng ở Iran](https://vnexpress.net/18-nguoi-chet-800-nguoi-bi-thuong-trong-vu-no-tai-cang-o-iran-4879187.html) - 03:58 27/04/2025
 - 🧑‍💻 [Vatican công bố hình ảnh an táng Giáo hoàng Francis](https://vnexpress.net/vatican-cong-bo-hinh-anh-an-tang-giao-hoang-francis-4879171.html) - 02:08 27/04/2025
