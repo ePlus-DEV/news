@@ -411,16 +411,16 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Tổng Bí thư Tô Lâm hội kiến Thủ tướng Nhật Bản](https://baochinhphu.vn/tong-bi-thu-to-lam-hoi-kien-thu-tuong-nhat-ban-102250427192747776.htm) - 21:22 27/04/2025
-- 🌜 [Thu giữ hơn 200.000 sản phẩm vitamin, collagen không rõ nguồn gốc](https://baochinhphu.vn/thu-giu-hon-200000-san-pham-vitamin-collagen-khong-ro-nguon-goc-102250427201810701.htm) - 20:18 27/04/2025
-- 🦆 [Vietjet nhận tàu bay mới, đưa vào khai thác phục vụ cao điểm kỳ nghỉ lễ](https://baochinhphu.vn/vietjet-nhan-tau-bay-moi-dua-vao-khai-thac-phuc-vu-cao-diem-ky-nghi-le-10225042719571789.htm) - 20:17 27/04/2025
-- 🌝 [Các ngân hàng đẩy mạnh chuyển đổi số, chinh phục các mục tiêu tăng trưởng](https://baochinhphu.vn/cac-ngan-hang-day-manh-chuyen-doi-so-chinh-phuc-cac-muc-tieu-tang-truong-102250427193844248.htm) - 20:16 27/04/2025
-- 🦣 [Vietnam Airlines cập nhật thời gian khai thác tại nhà ga T3 Tân Sơn Nhất](https://baochinhphu.vn/vietnam-airlines-cap-nhat-thoi-gian-khai-thac-tai-nha-ga-t3-tan-son-nhat-102250427200251605.htm) - 20:11 27/04/2025
-- ⛽️ [TRỰC TIẾP: Cầu truyền hình cấp quốc gia “Vang mãi khúc khải hoàn”](https://baochinhphu.vn/truc-tiep-20h10-cau-truyen-hinh-cap-quoc-gia-vang-mai-khuc-khai-hoan-102250426094658854.htm) - 20:00 27/04/2025
-- 🎓 [Chủ tịch Quốc hội Trần Thanh Mẫn dâng hương tưởng niệm các Anh hùng liệt sĩ tại tỉnh Quảng Trị](https://baochinhphu.vn/chu-tich-quoc-hoi-tran-thanh-man-dang-huong-tuong-niem-cac-anh-hung-liet-si-tai-tinh-quang-tri-10225042719130708.htm) - 19:50 27/04/2025
-- 💡 [Điện mừng nhân dịp kỷ niệm Ngày Nhà vua Hà Lan](https://baochinhphu.vn/dien-mung-nhan-dip-ky-niem-ngay-nha-vua-ha-lan-102250427192249964.htm) - 19:48 27/04/2025
-- 🌊 [Điện mừng Quốc khánh nước Cộng hòa Nam Phi](https://baochinhphu.vn/dien-mung-quoc-khanh-nuoc-cong-hoa-nam-phi-102250427191855997.htm) - 19:48 27/04/2025
-- 💯 [Thường trực Chính phủ cho ý kiến về 4 nội dung quan trọng](https://baochinhphu.vn/thuong-truc-chinh-phu-cho-y-kien-ve-4-noi-dung-quan-trong-102250427154114945.htm) - 18:18 27/04/2025
+- 💻 [Thường trực Chính phủ cho ý kiến về 4 nội dung quan trọng](https://baochinhphu.vn/thuong-truc-chinh-phu-cho-y-kien-ve-4-noi-dung-quan-trong-102250427154114945.htm) - 21:32 27/04/2025
+- 🌜 [Tổng Bí thư Tô Lâm hội kiến Thủ tướng Nhật Bản](https://baochinhphu.vn/tong-bi-thu-to-lam-hoi-kien-thu-tuong-nhat-ban-102250427192747776.htm) - 21:22 27/04/2025
+- 🦆 [Thu giữ hơn 200.000 sản phẩm vitamin, collagen không rõ nguồn gốc](https://baochinhphu.vn/thu-giu-hon-200000-san-pham-vitamin-collagen-khong-ro-nguon-goc-102250427201810701.htm) - 20:18 27/04/2025
+- 🌝 [Vietjet nhận tàu bay mới, đưa vào khai thác phục vụ cao điểm kỳ nghỉ lễ](https://baochinhphu.vn/vietjet-nhan-tau-bay-moi-dua-vao-khai-thac-phuc-vu-cao-diem-ky-nghi-le-10225042719571789.htm) - 20:17 27/04/2025
+- 🦣 [Các ngân hàng đẩy mạnh chuyển đổi số, chinh phục các mục tiêu tăng trưởng](https://baochinhphu.vn/cac-ngan-hang-day-manh-chuyen-doi-so-chinh-phuc-cac-muc-tieu-tang-truong-102250427193844248.htm) - 20:16 27/04/2025
+- ⛽️ [Vietnam Airlines cập nhật thời gian khai thác tại nhà ga T3 Tân Sơn Nhất](https://baochinhphu.vn/vietnam-airlines-cap-nhat-thoi-gian-khai-thac-tai-nha-ga-t3-tan-son-nhat-102250427200251605.htm) - 20:11 27/04/2025
+- 🎓 [Lãnh đạo Đảng, Nhà nước dự Cầu truyền hình “Vang mãi khúc khải hoàn”](https://baochinhphu.vn/truc-tiep-20h10-cau-truyen-hinh-cap-quoc-gia-vang-mai-khuc-khai-hoan-102250426094658854.htm) - 20:00 27/04/2025
+- 💡 [Chủ tịch Quốc hội Trần Thanh Mẫn dâng hương tưởng niệm các Anh hùng liệt sĩ tại tỉnh Quảng Trị](https://baochinhphu.vn/chu-tich-quoc-hoi-tran-thanh-man-dang-huong-tuong-niem-cac-anh-hung-liet-si-tai-tinh-quang-tri-10225042719130708.htm) - 19:50 27/04/2025
+- 🌊 [Điện mừng nhân dịp kỷ niệm Ngày Nhà vua Hà Lan](https://baochinhphu.vn/dien-mung-nhan-dip-ky-niem-ngay-nha-vua-ha-lan-102250427192249964.htm) - 19:48 27/04/2025
+- 💯 [Điện mừng Quốc khánh nước Cộng hòa Nam Phi](https://baochinhphu.vn/dien-mung-quoc-khanh-nuoc-cong-hoa-nam-phi-102250427191855997.htm) - 19:48 27/04/2025
 - 🦣 [Nước Việt Nam là một, dân tộc Việt Nam là một](https://baochinhphu.vn/bai-viet-cua-tong-bi-thu-to-lam-nuoc-viet-nam-la-mot-dan-toc-viet-nam-la-mot-102250427070220544.htm) - 18:10 27/04/2025
 - 🥷 [Phó Thủ tướng Trần Hồng Hà kiểm tra tiến độ 2 dự án trọng điểm của tỉnh Quảng Trị](https://baochinhphu.vn/pho-thu-tuong-tran-hong-ha-kiem-tra-tien-do-2-du-an-trong-diem-cua-tinh-quang-tri-102250427182451956.htm) - 18:00 27/04/2025
 - 💻 [Thường trực Ban Bí thư động viên lực lượng tham gia diễu binh, diễu hành](https://baochinhphu.vn/thuong-truc-ban-bi-thu-dong-vien-luc-luong-tham-gia-dieu-binh-dieu-hanh-102250427183137892.htm) - 17:38 27/04/2025
