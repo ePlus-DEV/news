@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Việt Nam hoan nghênh lãnh đạo Lào, Campuchia đến dự lễ kỷ niệm 30/4](https://vnexpress.net/viet-nam-hoan-nghenh-lanh-dao-lao-campuchia-den-du-le-ky-niem-30-4-4880260.html) - 13:45 29/04/2025
+- 🎭 [Việt Nam hoan nghênh lãnh đạo Lào, Campuchia, Cuba đến dự lễ kỷ niệm 30/4](https://vnexpress.net/viet-nam-hoan-nghenh-lanh-dao-lao-campuchia-cuba-den-du-le-ky-niem-30-4-4880260.html) - 13:45 29/04/2025
 - 🕴 [Đóng góp của ngoại giao Việt Nam cho sự nghiệp thống nhất đất nước](https://vnexpress.net/dong-gop-cua-ngoai-giao-viet-nam-cho-su-nghiep-thong-nhat-dat-nuoc-4880247.html) - 12:54 29/04/2025
 - 🤭 [100 ngày ông Trump khuấy đảo nước Mỹ và thế giới](https://vnexpress.net/100-ngay-ong-trump-khuay-dao-nuoc-my-va-the-gioi-4880052.html) - 12:00 29/04/2025
 - 🧑‍💻 [Cháy nhà hàng ở Trung Quốc, 22 người chết](https://vnexpress.net/chay-nha-hang-o-trung-quoc-22-nguoi-chet-4880202.html) - 10:42 29/04/2025
