@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Phí visa du học Australia có thể lên 2.000 AUD](https://vnexpress.net/phi-visa-du-hoc-australia-co-the-len-2-000-aud-4879824.html) - 23:23 28/04/2025
-- 🦆 [Nữ sinh trường tư ở Hà Nội đỗ Đại học Thanh Hoa](https://vnexpress.net/nu-sinh-truong-tu-o-ha-noi-do-dai-hoc-thanh-hoa-4879663.html) - 22:25 28/04/2025
+- 🦆 [Ba năm chuẩn bị giúp nữ sinh Hà Nội đỗ Đại học Thanh Hoa](https://vnexpress.net/ba-nam-chuan-bi-giup-nu-sinh-ha-noi-do-dai-hoc-thanh-hoa-4879663.html) - 22:25 28/04/2025
 - 🦩 [Học phí ĐH Khoa học Xã hội và Nhân văn TP HCM cao nhất 72 triệu đồng](https://vnexpress.net/hoc-phi-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-tp-hcm-tat-ca-nganh-4879839.html) - 15:17 28/04/2025
 - 🌮 [Thúc đẩy dạy tiếng Nhật từ lớp 3 đến lớp 12 trên toàn quốc](https://vnexpress.net/thuc-day-day-tieng-nhat-tu-lop-3-den-lop-12-tren-toan-quoc-4879822.html) - 14:55 28/04/2025
 - 🔭 [Nước nào có hệ thống đường sắt cao tốc lớn nhất thế giới?](https://vnexpress.net/nuoc-nao-co-he-thong-duong-sat-cao-toc-lon-nhat-the-gioi-4879761.html) - 12:08 28/04/2025
