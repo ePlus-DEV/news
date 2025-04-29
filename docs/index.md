@@ -146,7 +146,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [[CẬP NHẬT] Qua rạng sáng 30.4: Phố đi bộ Nguyễn Huệ không chỗ trống, bất ngờ lời ca vang lên](https://thanhnien.vn/qua-rang-sang-304-pho-di-bo-nguyen-hue-khong-cho-trong-bat-ngo-loi-ca-vang-len-185250430005324492.htm) - 17:50 29/04/2025
+- 🤠 [[CẬP NHẬT] Đêm trắng trước lễ diễu binh 30.4: Có một TP.HCM thật lạ, đẹp vô cùng!](https://thanhnien.vn/qua-rang-sang-304-pho-di-bo-nguyen-hue-khong-cho-trong-bat-ngo-loi-ca-vang-len-185250430005324492.htm) - 17:50 29/04/2025
 - 🥸 [Ngày mới với tin tức sức khỏe: Loại đậu giúp giảm cả cholesterol và đường huyết](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-loai-dau-giup-giam-ca-cholesterol-va-duong-huyet-185250430001324044.htm) - 17:15 29/04/2025
 - 🌁 [Phát hiện sức mạnh chống ung thư từ món ăn vặt đơn giản](https://thanhnien.vn/phat-hien-suc-manh-chong-ung-thu-tu-mon-an-vat-don-gian-185250429202719729.htm) - 17:08 29/04/2025
 - 🤡 [Những cách giữ cho thận khỏe mạnh](https://thanhnien.vn/nhung-cach-giu-cho-than-khoe-manh-185250429205222046.htm) - 17:07 29/04/2025
