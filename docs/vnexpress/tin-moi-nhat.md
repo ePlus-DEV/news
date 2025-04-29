@@ -8,7 +8,7 @@ sidebar_position: 9
 - 🐎 [Hàng quán mở xuyên đêm kín khách chờ xem diễu binh 30/4](https://vnexpress.net/hang-quan-mo-xuyen-dem-kin-khach-cho-xem-dieu-binh-30-4-4880326.html) - 19:10 29/04/2025
 - 🦍 [Hàng nghìn khán giả hòa cùng &#39;Mùa xuân thống nhất&#39;](https://vnexpress.net/hang-nghin-khan-gia-hoa-cung-mua-xuan-thong-nhat-4880308.html) - 18:02 29/04/2025
 - 🏊 [Ngành đường sắt tái hiện hai đoàn tàu Thống Nhất đầu tiên](https://vnexpress.net/nganh-duong-sat-tai-hien-hai-doan-tau-thong-nhat-dau-tien-4880315.html) - 18:00 29/04/2025
-- 🎊 [Arsenal 0-1 PSG &lpar;H2&rpar;: Chủ nhà bị khước từ bàn vì lỗi việt vị](https://vnexpress.net/arsenal-v-psg-4880181.html) - 18:00 29/04/2025
+- 🎊 [Arsenal 0-1 PSG &lpar;H2&rpar;: Donnarumma cứu thua xuất thần](https://vnexpress.net/arsenal-v-psg-4880181.html) - 18:00 29/04/2025
 - 🎃 [Hội chứng &#39;trái tim tan vỡ&#39;](https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-trai-tim-tan-vo-318) - 18:00 29/04/2025
 - 🧰 [Siết chặt an ninh khu vực Dinh Độc Lập](https://vnexpress.net/siet-chat-an-ninh-khu-vuc-dinh-doc-lap-4880319.html) - 17:30 29/04/2025
 - 🔭 [Đạo diễn Thụy Điển: &#39;Chúng tôi giữ tình yêu Việt Nam trong tim&#39;](https://vnexpress.net/dao-dien-thuy-dien-chung-toi-giu-tinh-yeu-viet-nam-trong-tim-4879215.html) - 17:23 29/04/2025
