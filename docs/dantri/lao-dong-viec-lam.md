@@ -5,7 +5,7 @@ sidebar_position: 19
 
 <!-- dantri-lao-dong-viec-lam:START -->
 - ⚗️ [Nghỉ hưu trước tuổi, nguyên giám đốc sở được hỗ trợ hơn 2 tỷ đồng](https://dantri.com.vn/lao-dong-viec-lam/nghi-huu-truoc-tuoi-nguyen-giam-doc-so-duoc-ho-tro-hon-2-ty-dong-20250429114021417.htm) - 07:00 29/04/2025
-- 🙉 [Cụ ông 104 tuổi đọc vanh vách 10 lời thề danh dự của Quân đội nhân dân](https://dantri.com.vn/lao-dong-viec-lam/cu-ong-104-tuoi-doc-vanh-vach-10-loi-the-danh-du-cua-quan-doi-nhan-dan-20250429095623834.htm) - 04:01 29/04/2025
+- 🙉 [Cụ ông 104 tuổi đọc vanh vách 10 lời thề danh dự của &quot;người nhà binh&quot;](https://dantri.com.vn/lao-dong-viec-lam/cu-ong-104-tuoi-doc-vanh-vach-10-loi-the-danh-du-cua-nguoi-nha-binh-20250429095623834.htm) - 04:01 29/04/2025
 - 🕴 [Nữ chiến sĩ Biệt động Sài Gòn được mẹ lập bàn thờ khi còn sống](https://dantri.com.vn/lao-dong-viec-lam/nu-chien-si-biet-dong-sai-gon-duoc-me-lap-ban-tho-khi-con-song-20250427185022499.htm) - 02:43 29/04/2025
 - 🧐 [3,41 triệu người nhận lương hưu và trợ cấp bảo hiểm xã hội cấp tốc](https://dantri.com.vn/lao-dong-viec-lam/341-trieu-nguoi-nhan-luong-huu-va-tro-cap-bao-hiem-xa-hoi-cap-toc-20250428211705756.htm) - 00:47 29/04/2025
 - 🧑‍💻 [Đề xuất thời điểm hưởng lương hưu khi đóng BHXH tự nguyện từ 15 năm](https://dantri.com.vn/lao-dong-viec-lam/de-xuat-thoi-diem-huong-luong-huu-khi-dong-bhxh-tu-nguyen-tu-15-nam-20250428202736171.htm) - 23:00 28/04/2025
