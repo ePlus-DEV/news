@@ -78,10 +78,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🏊 [Ăn gì giàu kali tốt cho tim?](https://vnexpress.net/an-gi-giau-kali-tot-cho-tim-4880157.html) - 13:30 29/04/2025
 - 💂 [Nhóm hacker chiếm 10.000 tài khoản Facebook](https://vnexpress.net/nhom-hacker-chiem-10-000-tai-khoan-facebook-4880262.html) - 13:27 29/04/2025
 - 🚀 [Cửa ngõ Hà Nội, TP HCM ùn tắc trước kỳ nghỉ lễ 30/4](https://vnexpress.net/cua-ngo-ha-noi-tp-hcm-un-tac-truoc-ky-nghi-le-30-4-4880251.html) - 13:24 29/04/2025
-- 🕴 [Huấn luyện viên chiếm đoạt tiền chế độ của vận động viên](https://vnexpress.net/huan-luyen-vien-chiem-doat-tien-che-do-cua-van-dong-vien-4880261.html) - 13:22 29/04/2025
-- 🦆 [Cáp quang biển APG sửa xong, Internet Việt Nam ổn định](https://vnexpress.net/cap-quang-bien-apg-sua-xong-internet-viet-nam-on-dinh-4880245.html) - 13:15 29/04/2025
-- 💫 [&#39;Như có Bác trong ngày đại thắng&#39; - khúc ca ngày 30/4](https://vnexpress.net/nhu-co-bac-trong-ngay-dai-thang-khuc-ca-ngay-30-4-4880016.html) - 13:08 29/04/2025
-- 🤓 [Hủy giải nhất khoa học kỹ thuật quốc gia của nhóm học sinh bị &#39;tố&#39; sao chép](https://vnexpress.net/huy-giai-nhat-khoa-hoc-ky-thuat-quoc-gia-cua-nhom-hoc-sinh-bi-to-sao-chep-4880258.html) - 13:07 29/04/2025<!-- vnexpress:END -->
+- 🕴 [Huấn luyện viên chiếm đoạt tiền chế độ của vận động viên](https://vnexpress.net/huan-luyen-vien-chiem-doat-tien-che-do-cua-van-dong-vien-4880261.html) - 13:22 29/04/2025<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
