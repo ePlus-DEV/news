@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Arsenal 0-1 PSG &lpar;H2&rpar;: Donnarumma cứu thua xuất thần](https://vnexpress.net/arsenal-v-psg-4880181.html) - 18:00 29/04/2025
+- 🪜 [Arsenal 0-1 PSG &lpar;H2&rpar;: Kvaratskhelia sút từ giữa sân](https://vnexpress.net/arsenal-v-psg-4880181.html) - 18:00 29/04/2025
 - 🦩 [SLNA đề nghị công an điều tra trọng tài](https://vnexpress.net/slna-de-nghi-cong-an-dieu-tra-trong-tai-4880267.html) - 13:48 29/04/2025
 - 🧰 [Merino - quân bài đa năng của Arsenal trước PSG](https://vnexpress.net/merino-quan-bai-da-nang-cua-arsenal-truoc-psg-4880095.html) - 11:23 29/04/2025
 - 🤗 [Việt Nam có giải đấu PUBG Mobile cấp quốc gia](https://vnexpress.net/viet-nam-co-giai-dau-pubg-mobile-cap-quoc-gia-4880207.html) - 11:14 29/04/2025
