@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Đội của Ronaldo bị loại ở bán kết AFC Champions League](https://vnexpress.net/doi-cua-ronaldo-bi-loai-o-ban-ket-afc-champions-league-4880566.html) - 18:26 30/04/2025
-- 🦩 [Barca 2-2 Inter Milan &lpar;H2&rpar;: Dimarco sút vọt xà](https://vnexpress.net/barca-2-2-inter-milan-h2-dimarco-sut-vot-xa-4880521.html) - 18:00 30/04/2025
+- 🦩 [Barca 3-3 Inter Milan &lpar;H2&rpar;: Hai bàn trong một phút](https://vnexpress.net/barca-3-3-inter-milan-h2-hai-ban-trong-mot-phut-4880521.html) - 18:00 30/04/2025
 - 🧰 [Công an Hà Nội vào chung kết giải Đông Nam Á](https://vnexpress.net/cong-an-ha-noi-vao-chung-ket-giai-dong-nam-a-4880531.html) - 14:40 30/04/2025
 - 🤗 [10 runner bị cấm thi đấu vì tè bậy ở Trung Quốc](https://vnexpress.net/10-runner-bi-cam-thi-dau-vi-te-bay-o-trung-quoc-4880500.html) - 11:19 30/04/2025
 - 🥳 [Cựu tiền đạo Barca: &#39;Inter là đối thủ khó nhằn nhất ở bán kết&#39;](https://vnexpress.net/cuu-tien-dao-barca-inter-la-doi-thu-kho-nhan-nhat-o-ban-ket-4880496.html) - 11:15 30/04/2025
