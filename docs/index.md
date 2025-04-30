@@ -146,67 +146,67 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Hàng ngàn người tham gia trình diễn nghệ thuật cộng đồng &#39;Vũ hội khăn rằn&#39;](https://thanhnien.vn/hang-ngan-nguoi-tham-gia-trinh-dien-nghe-thuat-cong-dong-vu-hoi-khan-ran-185250430013450805.htm) - 23:24 29/04/2025
-- 🥸 [Chương trình &#39;Rạng rỡ non sông Việt Nam&#39; mừng 50 năm thống nhất đất nước](https://thanhnien.vn/chuong-trinh-rang-ro-non-song-viet-nam-mung-50-nam-thong-nhat-dat-nuoc-185250430023239048.htm) - 23:19 29/04/2025
-- 🌁 [Thanh niên sinh viên Việt Nam ở Barcelona tổ chức giải bóng đá mừng lễ 30.4](https://thanhnien.vn/thanh-nien-sinh-vien-viet-nam-o-barcelona-to-chuc-giai-bong-da-mung-le-304-185250429234327046.htm) - 23:15 29/04/2025
-- 🤡 [Cửa ngõ phía tây TP.HCM chật kín người, bãi xe quá tải](https://thanhnien.vn/cua-ngo-phia-tay-tphcm-chat-kin-nguoi-bai-xe-qua-tai-185250429195120214.htm) - 23:15 29/04/2025
-- 🎉 [Khoa học công nghệ - Chìa khóa cho một Việt Nam thịnh vượng](https://thanhnien.vn/khoa-hoc-cong-nghe-chia-khoa-cho-mot-viet-nam-thinh-vuong-185250429213430737.htm) - 23:07 29/04/2025
-- 🎊 [50 năm non sông liền một dải: Trường học đổi thay cả vùng đất](https://thanhnien.vn/50-nam-non-song-lien-mot-dai-truong-hoc-doi-thay-ca-vung-dat-185250429172911383.htm) - 23:06 29/04/2025
-- 🤠 [Hòa chung dòng chảy Việt Nam](https://thanhnien.vn/hoa-chung-dong-chay-viet-nam-185250429213543741.htm) - 23:02 29/04/2025
-- 💼 [Hòa bình đẹp lắm!: Thế hệ trẻ viết tiếp bản hùng ca dân tộc trong kỷ nguyên mới](https://thanhnien.vn/hoa-binh-dep-lam-the-he-tre-viet-tiep-ban-hung-ca-dan-toc-trong-ky-nguyen-moi-185250429205941494.htm) - 23:00 29/04/2025
-- 🐻 [Nơi ấy là Trường Sa](https://thanhnien.vn/noi-ay-la-truong-sa-185250428192147051.htm) - 23:00 29/04/2025
-- 🤔 [Nữ sinh mang theo sách vở ôn thi trước giờ diễu binh 30.4, nói một câu đầy xúc động](https://thanhnien.vn/di-xem-dieu-binh-som-10-tieng-nu-sinh-tphcm-miet-mai-on-thi-lop-10-185250430054414671.htm) - 22:58 29/04/2025
-- 📝 [Vững tin Việt Nam cường thịnh](https://thanhnien.vn/vung-tin-viet-nam-cuong-thinh-185250429213014633.htm) - 22:55 29/04/2025
-- 🥰 [Tây Ban Nha, Bồ Đào Nha khôi phục điện sau sự cố diện rộng](https://thanhnien.vn/tay-ban-nha-bo-dao-nha-khoi-phuc-dien-sau-su-co-dien-rong-185250429205325545.htm) - 22:52 29/04/2025
-- 🐲 [PGS-TS Nguyễn Thiện Tống: Giáo dục ĐH VN từng bước 
+- 🤠 [Khách sạn Hào Hoa - vở cải lương tình báo hấp dẫn](https://thanhnien.vn/khach-san-hao-hoa-vo-cai-luong-tinh-bao-hap-dan-185250429220822744.htm) - 23:47 29/04/2025
+- 🥸 [TP.HCM, xứng danh thành phố mang tên Bác](https://thanhnien.vn/tphcm-xung-danh-thanh-pho-mang-ten-bac-185250429163359659.htm) - 23:46 29/04/2025
+- 🌁 [Các khối diễu binh, diễu hành ngày 30.4 vào vị trí: Thứ tự đi như thế nào?](https://thanhnien.vn/cac-khoi-dieu-binh-dieu-hanh-ngay-304-vao-vi-tri-thu-tu-di-nhu-the-nao-185250430063916297.htm) - 23:42 29/04/2025
+- 🤡 [Những câu chuyện nhạc đỏ: Có hẹn với mặt trời](https://thanhnien.vn/nhung-cau-chuyen-nhac-do-co-hen-voi-mat-troi-185250429215350217.htm) - 23:37 29/04/2025
+- 🎉 [Xem diễu binh 30.4 &#39;cận cảnh, không chen&#39; tại quán cà phê vị trí vàng ở TP.HCM](https://thanhnien.vn/xem-dieu-binh-304-can-canh-khong-chen-tai-quan-ca-phe-vi-tri-vang-o-tphcm-185250430062031589.htm) - 23:36 29/04/2025
+- 🎊 [Hàng ngàn người tham gia trình diễn nghệ thuật cộng đồng &#39;Vũ hội khăn rằn&#39;](https://thanhnien.vn/hang-ngan-nguoi-tham-gia-trinh-dien-nghe-thuat-cong-dong-vu-hoi-khan-ran-185250430013450805.htm) - 23:24 29/04/2025
+- 🤠 [Chương trình &#39;Rạng rỡ non sông Việt Nam&#39; mừng 50 năm thống nhất đất nước](https://thanhnien.vn/chuong-trinh-rang-ro-non-song-viet-nam-mung-50-nam-thong-nhat-dat-nuoc-185250430023239048.htm) - 23:19 29/04/2025
+- 💼 [Thanh niên sinh viên Việt Nam ở Barcelona tổ chức giải bóng đá mừng lễ 30.4](https://thanhnien.vn/thanh-nien-sinh-vien-viet-nam-o-barcelona-to-chuc-giai-bong-da-mung-le-304-185250429234327046.htm) - 23:15 29/04/2025
+- 🐻 [Cửa ngõ phía tây TP.HCM chật kín người, bãi xe quá tải](https://thanhnien.vn/cua-ngo-phia-tay-tphcm-chat-kin-nguoi-bai-xe-qua-tai-185250429195120214.htm) - 23:15 29/04/2025
+- 🤔 [Khoa học công nghệ - Chìa khóa cho một Việt Nam thịnh vượng](https://thanhnien.vn/khoa-hoc-cong-nghe-chia-khoa-cho-mot-viet-nam-thinh-vuong-185250429213430737.htm) - 23:07 29/04/2025
+- 📝 [50 năm non sông liền một dải: Trường học đổi thay cả vùng đất](https://thanhnien.vn/50-nam-non-song-lien-mot-dai-truong-hoc-doi-thay-ca-vung-dat-185250429172911383.htm) - 23:06 29/04/2025
+- 🥰 [Mỹ Anh và hành trình đưa âm nhạc ra quốc tế](https://thanhnien.vn/my-anh-va-hanh-trinh-dua-am-nhac-ra-quoc-te-185250429221813022.htm) - 23:03 29/04/2025
+- 🐲 [Hòa chung dòng chảy Việt Nam](https://thanhnien.vn/hoa-chung-dong-chay-viet-nam-185250429213543741.htm) - 23:02 29/04/2025
+- 🎃 [Hòa bình đẹp lắm!: Thế hệ trẻ viết tiếp bản hùng ca dân tộc trong kỷ nguyên mới](https://thanhnien.vn/hoa-binh-dep-lam-the-he-tre-viet-tiep-ban-hung-ca-dan-toc-trong-ky-nguyen-moi-185250429205941494.htm) - 23:00 29/04/2025
+- 🎬 [Nơi ấy là Trường Sa](https://thanhnien.vn/noi-ay-la-truong-sa-185250428192147051.htm) - 23:00 29/04/2025
+- 🌜 [Nữ sinh mang theo sách vở ôn thi trước giờ diễu binh 30.4, nói một câu đầy xúc động](https://thanhnien.vn/di-xem-dieu-binh-som-10-tieng-nu-sinh-tphcm-miet-mai-on-thi-lop-10-185250430054414671.htm) - 22:58 29/04/2025
+- 🦆 [Vững tin Việt Nam cường thịnh](https://thanhnien.vn/vung-tin-viet-nam-cuong-thinh-185250429213014633.htm) - 22:55 29/04/2025
+- 🐵 [Tây Ban Nha, Bồ Đào Nha khôi phục điện sau sự cố diện rộng](https://thanhnien.vn/tay-ban-nha-bo-dao-nha-khoi-phuc-dien-sau-su-co-dien-rong-185250429205325545.htm) - 22:52 29/04/2025
+- 🙉 [PGS-TS Nguyễn Thiện Tống: Giáo dục ĐH VN từng bước 
 tiệm cận quốc tế](https://thanhnien.vn/pgs-ts-nguyen-thien-tong-giao-duc-dh-vn-tung-buoc-tiem-can-quoc-te-18525042917344417.htm) - 22:45 29/04/2025
-- 🎃 [Diễu binh 30.4: Cận cảnh dàn vũ khí, khí tài tối tân được sử dụng tại lễ kỷ niệm](https://thanhnien.vn/dieu-binh-304-can-canh-dan-vu-khi-khi-tai-toi-tan-duoc-su-dung-tai-le-ky-niem-185250430053057326.htm) - 22:43 29/04/2025
-- 🎬 [TP.HCM nghĩa tình: Gắn cả đời mình với khu phố](https://thanhnien.vn/tphcm-nghia-tinh-gan-ca-doi-minh-voi-khu-pho-185250429223904035.htm) - 22:38 29/04/2025
-- 🌜 [Phương Tây tăng sức ép lên Nga về Ukraine](https://thanhnien.vn/phuong-tay-tang-suc-ep-len-nga-ve-ukraine-185250429205118481.htm) - 22:30 29/04/2025
-- 🦆 [Tiếng vọng hòa bình qua ký ức 50 năm đất nước thống nhất](https://thanhnien.vn/tieng-vong-hoa-binh-qua-ky-uc-50-nam-dat-nuoc-thong-nhat-185250428195234946.htm) - 22:30 29/04/2025
-- 🐵 [Chiến sự Ukraine ngày 1.161: Mỹ nói sắp bước vào &#39;tuần quyết định&#39;](https://thanhnien.vn/chien-su-ukraine-ngay-1161-sap-buoc-vao-tuan-quyet-dinh-185250429214348973.htm) - 22:15 29/04/2025
-- 🙉 [Ông Trump mạnh tay trấn áp nạn nhập cư lậu](https://thanhnien.vn/ong-trump-manh-tay-tran-ap-nan-nhap-cu-lau-185250429215434421.htm) - 22:00 29/04/2025
-- 🌋 [Diễu binh 30.4: &#39;50 năm biết ơn hòa bình&#39; qua ống kính độc giả Báo Thanh Niên](https://thanhnien.vn/dieu-binh-304-50-nam-biet-on-hoa-binh-qua-ong-kinh-doc-gia-bao-thanh-nien-185250429115702848.htm) - 22:00 29/04/2025
-- 🐻 [Ký ức ngày đất nước thống nhất từ những nhân chứng lịch sử: 50 năm những hồi ức chưa quên](https://thanhnien.vn/ky-uc-ngay-dat-nuoc-thong-nhat-tu-nhung-nhan-chung-lich-su-50-nam-nhung-hoi-uc-chua-quen-185250429215833772.htm) - 21:59 29/04/2025
-- 🧠 [Mỹ sẽ giảm thuế ô tô nhập khẩu](https://thanhnien.vn/my-se-giam-thue-o-to-nhap-khau-185250429215718379.htm) - 21:55 29/04/2025
-- 🔥 [Vũ khí và khí tài tối tân tại lễ diễu binh 30.4 ở TP.HCM](https://thanhnien.vn/vu-khi-va-khi-tai-toi-tan-tai-le-dieu-binh-304-o-tphcm-185250429153419344.htm) - 21:34 29/04/2025
-- 🌋 [Mát lòng những bình nước giải khát trên đường xem diễu binh](https://thanhnien.vn/mat-long-nhung-binh-nuoc-giai-khat-tren-duong-xem-dieu-binh-185250430042138651.htm) - 21:31 29/04/2025
-- 😎 [Trước lễ diễu binh: Phóng viên Thanh Niên sẵn sàng phỏng vấn, bạn đã chuẩn bị chưa?](https://thanhnien.vn/truoc-le-dieu-binh-phong-vien-thanh-nien-san-sang-phong-van-ban-da-chuan-bi-chua-18525043002533991.htm) - 21:30 29/04/2025
-- 🥰 [Tự hào vì được diễu binh 30.4 trong vòng tay triệu triệu con tim Việt Nam](https://thanhnien.vn/tu-hao-vi-duoc-dieu-binh-304-trong-vong-tay-trieu-trieu-con-tim-viet-nam-185250428144856865.htm) - 21:18 29/04/2025
-- 🧑‍🏫 [Tuyến đường đặc biệt trước lễ diễu binh: &#39;Hàng rào xanh&#39; giữ an toàn giữa dòng người](https://thanhnien.vn/tuyen-duong-dac-biet-truoc-le-dieu-binh-hang-rao-xanh-giu-an-toan-giua-dong-nguoi-185250430034533447.htm) - 21:17 29/04/2025
-- 💄 [Đất nước đổi mới, doanh nghiệp bứt tốc](https://thanhnien.vn/dat-nuoc-doi-moi-doanh-nghiep-but-toc-185250429221729474.htm) - 21:14 29/04/2025
-- 💯 [Thời tiết ủng hộ đại lễ](https://thanhnien.vn/thoi-tiet-ung-ho-dai-le-185250429202505594.htm) - 21:12 29/04/2025
-- 🚀 [Đun nóng mật ong có tốt?](https://thanhnien.vn/dun-nong-mat-ong-co-tot-185250430005836301.htm) - 21:07 29/04/2025
-- 🦣 [[VIDEO] Lễ kỷ niệm, diễu binh, diễu hành 50 năm ngày đất nước thống nhất](https://thanhnien.vn/toan-canh-khong-khi-truoc-le-dieu-binh-dieu-hanh-304-tai-tphcm-185250430035637829.htm) - 20:54 29/04/2025
-- 👹 [Diễu binh, lịch sử hùng tráng từ Quốc khánh 2.9.1945 đến lễ 30.4.2025](https://thanhnien.vn/dieu-binh-lich-su-hung-trang-tu-quoc-khanh-291945-den-le-3042025-185250428215024107.htm) - 20:42 29/04/2025
-- 🦄 [Hành trình 30 tháng 4](https://thanhnien.vn/hanh-trinh-30-thang-4-185250429222420007.htm) - 20:37 29/04/2025
-- 🤔 [Dấu ấn 30 năm quan hệ Việt - Mỹ](https://thanhnien.vn/dau-an-30-nam-quan-he-viet-my-185250429175529659.htm) - 20:35 29/04/2025
-- 🧰 [Tin tức đặc biệt trên báo in Thanh Niên 30.4.2025](https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-3042025-185250429225423935.htm) - 20:33 29/04/2025
-- 🌁 [Đi xem diễu binh, cựu chiến binh chuẩn bị đồ đạc cho 16 tiếng ngoài trời](https://thanhnien.vn/di-xem-dieu-binh-cuu-chien-binh-chuan-bi-do-dac-cho-16-tieng-ngoai-troi-185250430013351124.htm) - 19:50 29/04/2025
-- 🧐 [Hai cô gái người Dao rực rỡ trong tà áo dài chờ xem diễu binh](https://thanhnien.vn/hai-co-gai-nguoi-dao-ruc-ro-trong-ta-ao-dai-cho-xem-dieu-binh-185250430022840139.htm) - 19:48 29/04/2025
-- 🌏 [TP.HCM sáng rực ngày 30.4: Cùng làm đẹp, cười rạng rỡ, chờ đón bình minh lễ hội!](https://thanhnien.vn/qua-rang-sang-304-pho-di-bo-nguyen-hue-khong-cho-trong-bat-ngo-loi-ca-vang-len-185250430005324492.htm) - 17:50 29/04/2025
-- 🎬 [Ngày mới với tin tức sức khỏe: Loại đậu giúp giảm cả cholesterol và đường huyết](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-loai-dau-giup-giam-ca-cholesterol-va-duong-huyet-185250430001324044.htm) - 17:15 29/04/2025
-- 🚀 [Phát hiện sức mạnh chống ung thư từ món ăn vặt đơn giản](https://thanhnien.vn/phat-hien-suc-manh-chong-ung-thu-tu-mon-an-vat-don-gian-185250429202719729.htm) - 17:08 29/04/2025
-- 🙉 [Những cách giữ cho thận khỏe mạnh](https://thanhnien.vn/nhung-cach-giu-cho-than-khoe-manh-185250429205222046.htm) - 17:07 29/04/2025
-- 🐵 [Bạn nên tập thể dục bao nhiêu phút mỗi ngày là đủ?](https://thanhnien.vn/ban-nen-tap-the-duc-bao-nhieu-phut-moi-ngay-la-du-185250429224814688.htm) - 17:06 29/04/2025
-- 🐎 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 30.4.2025](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-3042025-185250430000349799.htm) - 17:00 29/04/2025
-- 🕯 [Lê Huỳnh Đức: Chân sút huyền thoại](https://thanhnien.vn/le-huynh-duc-chan-sut-huyen-thoai-185250429174105016.htm) - 17:00 29/04/2025
-- 👀 [Nhà vô địch Olympic Hoàng Xuân Vinh: &#39;Phải biết tạc dáng hình ước mơ&#39;](https://thanhnien.vn/nha-vo-dich-olympic-hoang-xuan-vinh-phai-biet-tac-dang-hinh-uoc-mo-185250428210313639.htm) - 17:00 29/04/2025
-- 🦒 [Đêm nhạc &#39;Mùa xuân thống nhất&#39;: Hàng ngàn trái tim xúc động, tự hào](https://thanhnien.vn/dem-nhac-mua-xuan-thong-nhat-hang-ngan-trai-tim-xuc-dong-tu-hao-185250429222958562.htm) - 16:53 29/04/2025
-- 🧐 [Diễu binh 30.4 ở TP.HCM kỷ niệm 50 năm đất nước thống nhất](https://thanhnien.vn/dieu-binh-304-o-tphcm-ky-niem-50-nam-dat-nuoc-thong-nhat-185250429152729848.htm) - 16:49 29/04/2025
-- 🌊 [Cửa ngõ phía tây TP.HCM chật kín người, Bến xe Miền Tây quá tải](https://thanhnien.vn/cua-ngo-phia-tay-tphcm-chat-kin-nguoi-ben-xe-mien-tay-qua-tai-185250429223016297.htm) - 16:14 29/04/2025
-- 🧑‍🏫 [Rực rỡ đoàn tàu Thống Nhất, Bắc - Nam hội tụ trong ngày 30.4](https://thanhnien.vn/ruc-ro-doan-tau-thong-nhat-bac-nam-hoi-tu-trong-ngay-304-185250429223835195.htm) - 16:08 29/04/2025
-- 🫣 [Chủ tịch nước chủ trì tiệc chiêu đãi trưởng đoàn các nước dự lễ kỷ niệm 30.4](https://thanhnien.vn/chu-tich-nuoc-chu-tri-tiec-chieu-dai-truong-doan-cac-nuoc-du-le-ky-niem-304-185250429221408527.htm) - 15:33 29/04/2025
-- 👺 [Tổng Bí thư Tô Lâm tiếp các trưởng đoàn chính đảng các nước](https://thanhnien.vn/tong-bi-thu-to-lam-tiep-cac-truong-doan-chinh-dang-cac-nuoc-185250429215508069.htm) - 15:24 29/04/2025
-- 🧑‍🏫 [Xăng đan retro, vẻ hiện đại từ cảm hứng thời trang thập niên 70](https://thanhnien.vn/thoi-trang-tre/xang-dan-retro-ve-hien-dai-tu-cam-hung-thoi-trang-thap-nien-70-185250429022055639.htm) - 15:00 29/04/2025
-- 🌊 [Tòa châu Âu buộc Malta chấm dứt chương trình &#39;hộ chiếu vàng&#39;](https://thanhnien.vn/toa-chau-au-buoc-malta-cham-dut-chuong-trinh-ho-chieu-vang-185250429213903985.htm) - 14:57 29/04/2025
-- 🕯 [HLV Kim Sang-sik nếu thắng được người đàn ông này, bóng đá Indonesia sẽ có biến lớn](https://thanhnien.vn/hlv-kim-sang-sik-neu-thang-duoc-nguoi-dan-ong-nay-bong-da-indonesia-se-co-bien-lon-185250429152033952.htm) - 14:52 29/04/2025
-- 🐲 [Công an điều tra dự án tưới 72 tỉ hàng chục lần vỡ ống dẫn nước](https://thanhnien.vn/cong-an-dieu-tra-du-an-tuoi-72-ti-hang-chuc-lan-vo-ong-dan-nuoc-185250429181324706.htm) - 14:45 29/04/2025
-- ⛽️ [&#39;Sẽ có một Eximbank mới về hình ảnh và vị thế&#39;](https://thanhnien.vn/se-co-mot-eximbank-moi-ve-hinh-anh-va-vi-the-185250429212744546.htm) - 14:40 29/04/2025
-- 🎉 [Ngày hội du lịch, ẩm thực Phú Quốc 2025: Bước &#39;chạy đà&#39; cho APEC 2027](https://thanhnien.vn/ngay-hoi-du-lich-am-thuc-phu-quoc-2025-buoc-chay-da-cho-apec-2027-185250429211842902.htm) - 14:32 29/04/2025
-- 🎊 [Bóng chuyền nữ Việt Nam lại ra biển lớn](https://thanhnien.vn/bong-chuyen-nu-viet-nam-lai-ra-bien-lon-185250428231006068.htm) - 14:25 29/04/2025
-- 🥳 [Khối Pháp ngữ cam kết ứng phó tình trạng khẩn cấp về khí hậu](https://thanhnien.vn/khoi-phap-ngu-cam-ket-ung-pho-tinh-trang-khan-cap-ve-khi-hau-18525042919552141.htm) - 14:22 29/04/2025
-- 🤡 [Dàn xe điện Taycan, Macan giá hơn 12 tỉ đồng: Nhanh, tiện và đậm chất Porsche](https://thanhnien.vn/dan-xe-dien-taycan-macan-gia-hon-12-ti-dong-nhanh-tien-va-dam-chat-porsche-185250425145332985.htm) - 14:17 29/04/2025<!-- thanhnien:END -->
+- 🌋 [Diễu binh 30.4: Cận cảnh dàn vũ khí, khí tài tối tân được sử dụng tại lễ kỷ niệm](https://thanhnien.vn/dieu-binh-304-can-canh-dan-vu-khi-khi-tai-toi-tan-duoc-su-dung-tai-le-ky-niem-185250430053057326.htm) - 22:43 29/04/2025
+- 🐻 [TP.HCM nghĩa tình: Gắn cả đời mình với khu phố](https://thanhnien.vn/tphcm-nghia-tinh-gan-ca-doi-minh-voi-khu-pho-185250429223904035.htm) - 22:38 29/04/2025
+- 🧠 [Phương Tây tăng sức ép lên Nga về Ukraine](https://thanhnien.vn/phuong-tay-tang-suc-ep-len-nga-ve-ukraine-185250429205118481.htm) - 22:30 29/04/2025
+- 🔥 [Tiếng vọng hòa bình qua ký ức 50 năm đất nước thống nhất](https://thanhnien.vn/tieng-vong-hoa-binh-qua-ky-uc-50-nam-dat-nuoc-thong-nhat-185250428195234946.htm) - 22:30 29/04/2025
+- 🌋 [Chiến sự Ukraine ngày 1.161: Mỹ nói sắp bước vào &#39;tuần quyết định&#39;](https://thanhnien.vn/chien-su-ukraine-ngay-1161-sap-buoc-vao-tuan-quyet-dinh-185250429214348973.htm) - 22:15 29/04/2025
+- 😎 [Ông Trump mạnh tay trấn áp nạn nhập cư lậu](https://thanhnien.vn/ong-trump-manh-tay-tran-ap-nan-nhap-cu-lau-185250429215434421.htm) - 22:00 29/04/2025
+- 🥰 [Diễu binh 30.4: &#39;50 năm biết ơn hòa bình&#39; qua ống kính độc giả Báo Thanh Niên](https://thanhnien.vn/dieu-binh-304-50-nam-biet-on-hoa-binh-qua-ong-kinh-doc-gia-bao-thanh-nien-185250429115702848.htm) - 22:00 29/04/2025
+- 🧑‍🏫 [Ký ức ngày đất nước thống nhất từ những nhân chứng lịch sử: 50 năm những hồi ức chưa quên](https://thanhnien.vn/ky-uc-ngay-dat-nuoc-thong-nhat-tu-nhung-nhan-chung-lich-su-50-nam-nhung-hoi-uc-chua-quen-185250429215833772.htm) - 21:59 29/04/2025
+- 💄 [Mỹ sẽ giảm thuế ô tô nhập khẩu](https://thanhnien.vn/my-se-giam-thue-o-to-nhap-khau-185250429215718379.htm) - 21:55 29/04/2025
+- 💯 [Vũ khí và khí tài tối tân tại lễ diễu binh 30.4 ở TP.HCM](https://thanhnien.vn/vu-khi-va-khi-tai-toi-tan-tai-le-dieu-binh-304-o-tphcm-185250429153419344.htm) - 21:34 29/04/2025
+- 🚀 [Mát lòng những bình nước giải khát trên đường xem diễu binh](https://thanhnien.vn/mat-long-nhung-binh-nuoc-giai-khat-tren-duong-xem-dieu-binh-185250430042138651.htm) - 21:31 29/04/2025
+- 🦣 [Trước lễ diễu binh: Phóng viên Thanh Niên sẵn sàng phỏng vấn, bạn đã chuẩn bị chưa?](https://thanhnien.vn/truoc-le-dieu-binh-phong-vien-thanh-nien-san-sang-phong-van-ban-da-chuan-bi-chua-18525043002533991.htm) - 21:30 29/04/2025
+- 👹 [Tự hào vì được diễu binh 30.4 trong vòng tay triệu triệu con tim Việt Nam](https://thanhnien.vn/tu-hao-vi-duoc-dieu-binh-304-trong-vong-tay-trieu-trieu-con-tim-viet-nam-185250428144856865.htm) - 21:18 29/04/2025
+- 🦄 [Tuyến đường đặc biệt trước lễ diễu binh: &#39;Hàng rào xanh&#39; giữ an toàn giữa dòng người](https://thanhnien.vn/tuyen-duong-dac-biet-truoc-le-dieu-binh-hang-rao-xanh-giu-an-toan-giua-dong-nguoi-185250430034533447.htm) - 21:17 29/04/2025
+- 🤔 [Đất nước đổi mới, doanh nghiệp bứt tốc](https://thanhnien.vn/dat-nuoc-doi-moi-doanh-nghiep-but-toc-185250429221729474.htm) - 21:14 29/04/2025
+- 🧰 [Thời tiết ủng hộ đại lễ](https://thanhnien.vn/thoi-tiet-ung-ho-dai-le-185250429202505594.htm) - 21:12 29/04/2025
+- 🌁 [Đun nóng mật ong có tốt?](https://thanhnien.vn/dun-nong-mat-ong-co-tot-185250430005836301.htm) - 21:07 29/04/2025
+- 🧐 [[VIDEO] Lễ kỷ niệm, diễu binh, diễu hành 50 năm ngày đất nước thống nhất](https://thanhnien.vn/toan-canh-khong-khi-truoc-le-dieu-binh-dieu-hanh-304-tai-tphcm-185250430035637829.htm) - 20:54 29/04/2025
+- 🌏 [Diễu binh, lịch sử hùng tráng từ Quốc khánh 2.9.1945 đến lễ 30.4.2025](https://thanhnien.vn/dieu-binh-lich-su-hung-trang-tu-quoc-khanh-291945-den-le-3042025-185250428215024107.htm) - 20:42 29/04/2025
+- 🎬 [Hành trình 30 tháng 4](https://thanhnien.vn/hanh-trinh-30-thang-4-185250429222420007.htm) - 20:37 29/04/2025
+- 🚀 [Dấu ấn 30 năm quan hệ Việt - Mỹ](https://thanhnien.vn/dau-an-30-nam-quan-he-viet-my-185250429175529659.htm) - 20:35 29/04/2025
+- 🙉 [Tin tức đặc biệt trên báo in Thanh Niên 30.4.2025](https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-3042025-185250429225423935.htm) - 20:33 29/04/2025
+- 🐵 [Đi xem diễu binh, cựu chiến binh chuẩn bị đồ đạc cho 16 tiếng ngoài trời](https://thanhnien.vn/di-xem-dieu-binh-cuu-chien-binh-chuan-bi-do-dac-cho-16-tieng-ngoai-troi-185250430013351124.htm) - 19:50 29/04/2025
+- 🐎 [Hai cô gái người Dao rực rỡ trong tà áo dài chờ xem diễu binh](https://thanhnien.vn/hai-co-gai-nguoi-dao-ruc-ro-trong-ta-ao-dai-cho-xem-dieu-binh-185250430022840139.htm) - 19:48 29/04/2025
+- 🕯 [TP.HCM sáng rực ngày 30.4: Cùng làm đẹp, cười rạng rỡ, chờ đón bình minh lễ hội!](https://thanhnien.vn/qua-rang-sang-304-pho-di-bo-nguyen-hue-khong-cho-trong-bat-ngo-loi-ca-vang-len-185250430005324492.htm) - 17:50 29/04/2025
+- 👀 [Ngày mới với tin tức sức khỏe: Loại đậu giúp giảm cả cholesterol và đường huyết](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-loai-dau-giup-giam-ca-cholesterol-va-duong-huyet-185250430001324044.htm) - 17:15 29/04/2025
+- 🦒 [Phát hiện sức mạnh chống ung thư từ món ăn vặt đơn giản](https://thanhnien.vn/phat-hien-suc-manh-chong-ung-thu-tu-mon-an-vat-don-gian-185250429202719729.htm) - 17:08 29/04/2025
+- 🧐 [Những cách giữ cho thận khỏe mạnh](https://thanhnien.vn/nhung-cach-giu-cho-than-khoe-manh-185250429205222046.htm) - 17:07 29/04/2025
+- 🌊 [Bạn nên tập thể dục bao nhiêu phút mỗi ngày là đủ?](https://thanhnien.vn/ban-nen-tap-the-duc-bao-nhieu-phut-moi-ngay-la-du-185250429224814688.htm) - 17:06 29/04/2025
+- 🧑‍🏫 [Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 30.4.2025](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-3042025-185250430000349799.htm) - 17:00 29/04/2025
+- 🫣 [Lê Huỳnh Đức: Chân sút huyền thoại](https://thanhnien.vn/le-huynh-duc-chan-sut-huyen-thoai-185250429174105016.htm) - 17:00 29/04/2025
+- 👺 [Nhà vô địch Olympic Hoàng Xuân Vinh: &#39;Phải biết tạc dáng hình ước mơ&#39;](https://thanhnien.vn/nha-vo-dich-olympic-hoang-xuan-vinh-phai-biet-tac-dang-hinh-uoc-mo-185250428210313639.htm) - 17:00 29/04/2025
+- 🧑‍🏫 [Đêm nhạc &#39;Mùa xuân thống nhất&#39;: Hàng ngàn trái tim xúc động, tự hào](https://thanhnien.vn/dem-nhac-mua-xuan-thong-nhat-hang-ngan-trai-tim-xuc-dong-tu-hao-185250429222958562.htm) - 16:53 29/04/2025
+- 🌊 [Diễu binh 30.4 ở TP.HCM kỷ niệm 50 năm đất nước thống nhất](https://thanhnien.vn/dieu-binh-304-o-tphcm-ky-niem-50-nam-dat-nuoc-thong-nhat-185250429152729848.htm) - 16:49 29/04/2025
+- 🕯 [Cửa ngõ phía tây TP.HCM chật kín người, Bến xe Miền Tây quá tải](https://thanhnien.vn/cua-ngo-phia-tay-tphcm-chat-kin-nguoi-ben-xe-mien-tay-qua-tai-185250429223016297.htm) - 16:14 29/04/2025
+- 🐲 [Rực rỡ đoàn tàu Thống Nhất, Bắc - Nam hội tụ trong ngày 30.4](https://thanhnien.vn/ruc-ro-doan-tau-thong-nhat-bac-nam-hoi-tu-trong-ngay-304-185250429223835195.htm) - 16:08 29/04/2025
+- ⛽️ [Chủ tịch nước chủ trì tiệc chiêu đãi trưởng đoàn các nước dự lễ kỷ niệm 30.4](https://thanhnien.vn/chu-tich-nuoc-chu-tri-tiec-chieu-dai-truong-doan-cac-nuoc-du-le-ky-niem-304-185250429221408527.htm) - 15:33 29/04/2025
+- 🎉 [Tổng Bí thư Tô Lâm tiếp các trưởng đoàn chính đảng các nước](https://thanhnien.vn/tong-bi-thu-to-lam-tiep-cac-truong-doan-chinh-dang-cac-nuoc-185250429215508069.htm) - 15:24 29/04/2025
+- 🎊 [Xăng đan retro, vẻ hiện đại từ cảm hứng thời trang thập niên 70](https://thanhnien.vn/thoi-trang-tre/xang-dan-retro-ve-hien-dai-tu-cam-hung-thoi-trang-thap-nien-70-185250429022055639.htm) - 15:00 29/04/2025
+- 🥳 [Tòa châu Âu buộc Malta chấm dứt chương trình &#39;hộ chiếu vàng&#39;](https://thanhnien.vn/toa-chau-au-buoc-malta-cham-dut-chuong-trinh-ho-chieu-vang-185250429213903985.htm) - 14:57 29/04/2025
+- 🤡 [HLV Kim Sang-sik nếu thắng được người đàn ông này, bóng đá Indonesia sẽ có biến lớn](https://thanhnien.vn/hlv-kim-sang-sik-neu-thang-duoc-nguoi-dan-ong-nay-bong-da-indonesia-se-co-bien-lon-185250429152033952.htm) - 14:52 29/04/2025<!-- thanhnien:END -->
 
 ## Báo Lao Động
 <!-- laodong:START -->
