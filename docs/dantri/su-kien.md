@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Hầu hết đường dẫn vào trung tâm TPHCM kẹt cứng tối 30/4](https://dantri.com.vn/xa-hoi/hau-het-duong-dan-vao-trung-tam-tphcm-ket-cung-toi-304-20250430170458963.htm) - 11:40 30/04/2025
+- 🎭 [Hàng vạn người say đắm thưởng thức các chương trình nghệ thuật ở TPHCM](https://dantri.com.vn/xa-hoi/hang-van-nguoi-say-dam-thuong-thuc-cac-chuong-trinh-nghe-thuat-o-tphcm-20250430170458963.htm) - 11:40 30/04/2025
 - 👨‍🏫 [Lính Ukraine thoát trong gang tấc khi bị Nga &quot;đánh úp&quot; hỏa lực](https://dantri.com.vn/the-gioi/linh-ukraine-thoat-trong-gang-tac-khi-bi-nga-danh-up-hoa-luc-20250430175610567.htm) - 11:06 30/04/2025
 - 🌮 [TPHCM bắn pháo hoa 30 điểm, trình diễn kỵ binh, nhạc giao hưởng tối nay](https://dantri.com.vn/xa-hoi/tphcm-ban-phao-hoa-30-diem-trinh-dien-ky-binh-nhac-giao-huong-toi-nay-20250430164517267.htm) - 09:52 30/04/2025
 - 🕯 [Nữ Đại tá tiết lộ về màn xếp hình &quot;Đất nước trọn niềm vui&quot; ở lễ diễu binh](https://dantri.com.vn/giai-tri/nu-dai-ta-tiet-lo-ve-man-xep-hinh-dat-nuoc-tron-niem-vui-o-le-dieu-binh-20250430134725155.htm) - 08:55 30/04/2025
