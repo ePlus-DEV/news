@@ -4,63 +4,63 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Xe đầu kéo va chạm xe máy, hai người chết](https://vnexpress.net/xe-dau-keo-va-cham-xe-may-hai-nguoi-chet-4880494.html) - 10:25 30/04/2025
-- 🤓 [Hai đoàn tàu Thống Nhất hội ngộ ở Đà Nẵng](https://vnexpress.net/hai-doan-tau-thong-nhat-hoi-ngo-o-da-nang-4880490.html) - 10:22 30/04/2025
-- ⚗️ [Những hình ảnh nổi bật trong lễ diễu binh 50 năm thống nhất đất nước](https://vnexpress.net/nhung-hinh-anh-noi-bat-trong-le-dieu-binh-50-nam-thong-nhat-dat-nuoc-4880457.html) - 09:23 30/04/2025
-- 🌊 [Lãnh đạo các nước tại lễ kỷ niệm 50 năm thống nhất của Việt Nam](https://vnexpress.net/lanh-dao-cac-nuoc-tai-le-ky-niem-50-nam-thong-nhat-cua-viet-nam-4880353.html) - 06:12 30/04/2025
-- 🎓 [Lãnh đạo Đảng, Nhà nước tại lễ kỷ niệm 50 năm thống nhất](https://vnexpress.net/lanh-dao-dang-nha-nuoc-tai-le-ky-niem-50-nam-thong-nhat-4880349.html) - 04:54 30/04/2025
-- 🔥 [Tổng Bí thư: Khép lại quá khứ, tôn trọng khác biệt, hướng tới tương lai](https://vnexpress.net/tong-bi-thu-khep-lai-qua-khu-ton-trong-khac-biet-huong-toi-tuong-lai-4880397.html) - 04:14 30/04/2025
-- 🦏 [13.000 người diễu binh kỷ niệm 50 năm thống nhất đất nước](https://vnexpress.net/13-000-nguoi-dieu-binh-ky-niem-50-nam-thong-nhat-dat-nuoc-4880310-tong-thuat.html) - 22:00 29/04/2025
-- 👺 [Lá thư &#39;tuyệt mật&#39; đi thăm miền Nam của Chủ tịch Hồ Chí Minh](https://vnexpress.net/la-thu-tuyet-mat-di-tham-mien-nam-cua-chu-tich-ho-chi-minh-4879310.html) - 20:00 29/04/2025
-- 🧑‍🏫 [Ngành đường sắt tái hiện hai đoàn tàu Thống Nhất đầu tiên](https://vnexpress.net/nganh-duong-sat-tai-hien-hai-doan-tau-thong-nhat-dau-tien-4880315.html) - 18:00 29/04/2025
-- 🚦 [Siết chặt an ninh khu vực Dinh Độc Lập](https://vnexpress.net/siet-chat-an-ninh-khu-vuc-dinh-doc-lap-4880319.html) - 17:30 29/04/2025
-- 🎉 [Biển người chờ xem diễu binh ở trung tâm TP HCM](https://vnexpress.net/bien-nguoi-cho-xem-dieu-binh-o-trung-tam-tp-hcm-4880313.html) - 17:04 29/04/2025
-- 🦒 [Cửa ngõ Hà Nội, TP HCM ùn tắc trước kỳ nghỉ lễ 30/4](https://vnexpress.net/cua-ngo-ha-noi-tp-hcm-un-tac-truoc-ky-nghi-le-30-4-4880251.html) - 13:24 29/04/2025
-- 🤗 [Người dân ngồi kín vỉa hè trung tâm TP HCM chờ xem diễu binh](https://vnexpress.net/nguoi-dan-ngoi-kin-via-he-trung-tam-tp-hcm-cho-xem-dieu-binh-4880256.html) - 12:47 29/04/2025
-- 💼 [Metro Bến Thành - Suối Tiên miễn vé ngày 30/4 và 1/5](https://vnexpress.net/metro-ben-thanh-suoi-tien-mien-ve-ngay-30-4-va-1-5-4880259.html) - 12:46 29/04/2025
-- 🤩 [Lịch trình diễu binh, diễu hành ngày 30/4 ở TP HCM](https://vnexpress.net/lich-trinh-dieu-binh-dieu-hanh-ngay-30-4-o-tp-hcm-4880254.html) - 12:30 29/04/2025
-- 🤡 [Thanh tra dự án trung tâm hội nghị 160 tỷ đồng bỏ hoang](https://vnexpress.net/thanh-tra-du-an-trung-tam-hoi-nghi-160-ty-dong-bo-hoang-4880163.html) - 12:01 29/04/2025
-- 💯 [Bộ Nội vụ hướng dẫn xác định người hưởng chính sách nghỉ hưu trước tuổi](https://vnexpress.net/bo-noi-vu-huong-dan-xac-dinh-nguoi-huong-chinh-sach-nghi-huu-truoc-tuoi-4880206.html) - 11:57 29/04/2025
-- 👺 [Khánh thành tượng đài Công an nhân dân](https://vnexpress.net/khanh-thanh-tuong-dai-cong-an-nhan-dan-4880213.html) - 10:34 29/04/2025
-- 🌮 [Xây 37 &#39;nhà Hy Vọng&#39; ở Hà Tĩnh](https://vnexpress.net/xay-37-nha-hy-vong-o-ha-tinh-4880125.html) - 09:54 29/04/2025
-- 🥸 [Hành khách làm thủ tục hàng không bằng sinh trắc học](https://vnexpress.net/hanh-khach-lam-thu-tuc-hang-khong-bang-sinh-trac-hoc-4880147.html) - 09:43 29/04/2025
-- 🐻 [Xã phường sau sáp nhập ở Cà Mau, Bạc Liêu bỏ đánh số](https://vnexpress.net/xa-phuong-sau-sap-nhap-o-ca-mau-bac-lieu-bo-danh-so-4880101.html) - 09:43 29/04/2025
-- 👀 [Cấm xe tải nặng qua đèo Bảo Lộc dịp lễ 30/4](https://vnexpress.net/cam-xe-tai-nang-qua-deo-bao-loc-dip-le-30-4-4880161.html) - 08:48 29/04/2025
-- 🤔 [Những chuyến vượt mưa bom của đội nữ lái xe Trường Sơn](https://video.vnexpress.net/nhung-chuyen-vuot-mua-bom-cua-doi-nu-lai-xe-truong-son-4879069.html) - 08:25 29/04/2025
-- 🕯 [Tăng cường gần 30 phà chống kẹt xe dịp lễ 30/4 ở miền Tây](https://vnexpress.net/tang-cuong-gan-30-pha-chong-ket-xe-dip-le-30-4-o-mien-tay-4880138.html) - 08:21 29/04/2025
-- 😺 [Hà Nội thông qua chủ trương xây dựng cầu Ngọc Hồi kết nối với Hưng Yên](https://vnexpress.net/ha-noi-thong-qua-chu-truong-xay-dung-cau-ngoc-hoi-ket-noi-voi-hung-yen-4880075.html) - 07:30 29/04/2025
-- 🦆 [Cấm người, xe vào trung tâm TP HCM từ 3h ngày 30/4](https://vnexpress.net/cam-nguoi-xe-vao-trung-tam-tp-hcm-tu-3h-ngay-30-4-4880091.html) - 07:11 29/04/2025
-- 🧰 [Lãnh đạo Đảng, Nhà nước vào Lăng viếng Chủ tịch Hồ Chí Minh](https://vnexpress.net/lanh-dao-dang-nha-nuoc-vao-lang-vieng-chu-tich-ho-chi-minh-4879995.html) - 04:03 29/04/2025
-- 🦍 [Đề xuất làm hầm dài 4,3 km đường ven biển Nha Trang](https://vnexpress.net/de-xuat-lam-ham-dai-4-3-km-duong-ven-bien-nha-trang-4879998.html) - 04:00 29/04/2025
-- 🧰 [Thông xe 4 km đường ven kênh dài nhất TP HCM](https://vnexpress.net/thong-xe-4-km-duong-ven-kenh-dai-nhat-tp-hcm-4879989.html) - 03:44 29/04/2025
-- 💃 [Đường phố Sài Gòn ngày 30/4/1975 qua ống kính người dân](https://vnexpress.net/duong-pho-sai-gon-ngay-30-4-1975-qua-ong-kinh-nguoi-dan-4879846.html) - 03:00 29/04/2025
-- 🧰 [Sài Gòn - Ngày 30/4](https://vnexpress.net/sai-gon-ngay-30-4-4876938.html) - 22:00 28/04/2025
-- 🚀 [Doanh nghiệp vận tải thiếu lái xe khách, xe container](https://vnexpress.net/doanh-nghiep-van-tai-thieu-lai-xe-khach-xe-container-4879096.html) - 18:14 28/04/2025
-- 🎊 [Tổng Bí thư dâng hương tưởng nhớ đại tướng Võ Nguyên Giáp, Văn Tiến Dũng](https://vnexpress.net/tong-bi-thu-dang-huong-tuong-nho-dai-tuong-vo-nguyen-giap-van-tien-dung-4879854.html) - 16:29 28/04/2025
-- 🤭 [Tất cả xã phường sau sáp nhập ở Thanh Hóa bỏ đánh số](https://vnexpress.net/tat-ca-xa-phuong-sau-sap-nhap-o-thanh-hoa-bo-danh-so-4879842.html) - 16:02 28/04/2025
-- 🤗 [Hơn 3,4 triệu người nhận lương hưu, trợ cấp tháng 5 sớm](https://vnexpress.net/hon-3-4-trieu-nguoi-nhan-luong-huu-tro-cap-thang-5-som-4879818.html) - 15:04 28/04/2025
-- 🌈 [Khánh thành khu lưu niệm Lê Duẩn tại Quảng Trị](https://vnexpress.net/khanh-thanh-khu-luu-niem-le-duan-tai-quang-tri-4879611.html) - 14:50 28/04/2025
-- 🦣 [Giáo hội Phật giáo Việt Nam dừng bổ nhiệm chức danh Ban trị sự tỉnh thành](https://vnexpress.net/giao-hoi-phat-giao-viet-nam-dung-bo-nhiem-chuc-danh-ban-tri-su-tinh-thanh-4879816.html) - 14:39 28/04/2025
-- 🎡 [Hải Phòng được phong danh hiệu &#39;thành phố anh hùng&#39;](https://vnexpress.net/hai-phong-duoc-phong-danh-hieu-thanh-pho-anh-hung-4879795.html) - 12:52 28/04/2025
-- 🦏 [Hà Nội đề xuất bố trí biên chế phường xã theo đặc thù](https://vnexpress.net/ha-noi-de-xuat-bo-tri-bien-che-phuong-xa-theo-dac-thu-4879804.html) - 12:39 28/04/2025
-- 🎊 [Đà Nẵng đấu giá lại 10 xe công, giá khởi điểm từ 14 triệu đồng](https://vnexpress.net/da-nang-dau-gia-lai-10-xe-cong-gia-khoi-diem-tu-14-trieu-dong-4879643.html) - 08:15 28/04/2025
-- 🫶 [Phương án sáp nhập xã phường ở Phú Thọ, Hòa Bình, Vĩnh Phúc](https://vnexpress.net/phuong-an-sap-nhap-xa-phuong-o-phu-tho-hoa-binh-vinh-phuc-4879352.html) - 07:25 28/04/2025
-- 🤔 [Ôtô được vào 30 km cao tốc Bến Lức - Long Thành từ chiều 28/4](https://vnexpress.net/oto-duoc-vao-30-km-cao-toc-ben-luc-long-thanh-tu-chieu-28-4-4879614.html) - 07:12 28/04/2025
-- 🤠 [Tăng cường kiêm nhiệm &#39;để tinh gọn bộ máy chính quyền cấp xã&#39;](https://vnexpress.net/tang-cuong-kiem-nhiem-de-tinh-gon-bo-may-chinh-quyen-cap-xa-4879548.html) - 05:57 28/04/2025
-- 🌜 [Xá lợi trái tim Bồ tát Thích Quảng Đức được đưa về Việt Nam Quốc Tự](https://vnexpress.net/xa-loi-trai-tim-bo-tat-thich-quang-duc-duoc-dua-ve-viet-nam-quoc-tu-4879605.html) - 05:53 28/04/2025
-- 🕯 [&#39;Cấp có thẩm quyền đã xem xét cẩn thận việc bỏ thành phố thuộc tỉnh&#39;](https://vnexpress.net/cap-co-tham-quyen-da-xem-xet-can-than-viec-bo-thanh-pho-thuoc-tinh-4879595.html) - 05:16 28/04/2025
-- 🤔 [Đề xuất hơn 71.000 tỷ đồng làm đường nối sân bay Gia Bình với Hà Nội](https://vnexpress.net/de-xuat-hon-71-000-ty-dong-lam-duong-noi-san-bay-gia-binh-voi-ha-noi-4879469.html) - 04:45 28/04/2025
-- 🏊 [Cả nước dự kiến còn 3.300 xã phường](https://vnexpress.net/ca-nuoc-du-kien-con-3-300-xa-phuong-4879574.html) - 04:37 28/04/2025
-- 🌮 [Ông Y Thanh Hà Niê K&#39;đăm làm Bí thư Lâm Đồng](https://vnexpress.net/bi-thu-tinh-uy-lam-dong-y-thanh-ha-nie-kdam-4879408.html) - 03:17 28/04/2025
-- 🫣 [Đề xuất bán phương tiện vi phạm để giảm tải kho bãi](https://vnexpress.net/de-xuat-ban-phuong-tien-vi-pham-de-giam-tai-kho-bai-4879435.html) - 03:16 28/04/2025
-- ⚗️ [Lốc xoáy làm sập 24 căn nhà ở Kiên Giang](https://vnexpress.net/loc-xoay-lam-sap-24-can-nha-o-kien-giang-4879394.html) - 00:55 28/04/2025
-- 🌜 [Đông nghịt người xem pháo hoa tại công viên Thống nhất](https://vnexpress.net/dong-nghit-nguoi-xem-phao-hoa-tai-cong-vien-thong-nhat-4879371.html) - 00:06 28/04/2025
-- 🌁 [Cháy nhà ở Hà Nội, 3 người tử vong](https://vnexpress.net/chay-nha-o-ha-noi-3-nguoi-tu-vong-4879392.html) - 23:52 27/04/2025
-- 🐲 [Người chụp ảnh đường phố Sài Gòn ngày 30/4/1975](https://vnexpress.net/nguoi-chup-anh-duong-pho-sai-gon-ngay-30-4-1975-4878140.html) - 23:00 27/04/2025
-- ⛽️ [Sở Nội vụ Hà Nội: 96% người dân đồng tình tên xã phường sau sắp xếp](https://vnexpress.net/so-noi-vu-ha-noi-96-nguoi-dan-dong-tinh-ten-xa-phuong-sau-sap-xep-4879331.html) - 18:00 27/04/2025
-- 🗽 [5.000 chuyến bay đi và đến TP HCM dịp 30/4](https://vnexpress.net/5-000-chuyen-bay-di-va-den-tp-hcm-dip-30-4-4879350.html) - 17:33 27/04/2025
-- 🔥 [Miền Bắc và Trung mưa giông, miền Nam nắng dịp 30/4](https://vnexpress.net/mien-bac-va-trung-mua-giong-mien-nam-nang-dip-30-4-4879285.html) - 11:32 27/04/2025
-- 💯 [Cấp cứu ngư dân gặp nạn ở Trường Sa](https://vnexpress.net/cap-cuu-ngu-dan-gap-nan-o-truong-sa-4879302.html) - 11:10 27/04/2025
-- 🦆 [Vietnam Airlines hoãn chuyển toàn bộ chuyến bay nội địa sang ga T3 Tân Sơn Nhất](https://vnexpress.net/vietnam-airlines-hoan-chuyen-toan-bo-chuyen-bay-noi-dia-sang-ga-t3-tan-son-nhat-4879303.html) - 10:56 27/04/2025
-- 🫣 [Cấm xe vào trung tâm TP HCM tối 27/4](https://vnexpress.net/cam-xe-vao-trung-tam-tp-hcm-toi-27-4-4879262.html) - 08:21 27/04/2025
-- 🤡 [Tổng Bí thư: &#39;Không để dân tộc đánh mất cơ hội&#39;](https://vnexpress.net/tong-bi-thu-khong-de-dan-toc-danh-mat-co-hoi-4879214.html) - 06:53 27/04/2025<!-- vnexpress-thoi-su:END -->
+- 🦒 [Nam du khách gặp nạn khi đi dã ngoại](https://vnexpress.net/nam-du-khach-gap-nan-khi-di-da-ngoai-4880504.html) - 11:16 30/04/2025
+- 🤓 [Xe đầu kéo va chạm xe máy, hai người chết](https://vnexpress.net/xe-dau-keo-va-cham-xe-may-hai-nguoi-chet-4880494.html) - 10:25 30/04/2025
+- ⚗️ [Hai đoàn tàu Thống Nhất hội ngộ ở Đà Nẵng](https://vnexpress.net/hai-doan-tau-thong-nhat-hoi-ngo-o-da-nang-4880490.html) - 10:22 30/04/2025
+- 🌊 [Những hình ảnh nổi bật trong lễ diễu binh 50 năm thống nhất đất nước](https://vnexpress.net/nhung-hinh-anh-noi-bat-trong-le-dieu-binh-50-nam-thong-nhat-dat-nuoc-4880457.html) - 09:23 30/04/2025
+- 🎓 [Lãnh đạo các nước tại lễ kỷ niệm 50 năm thống nhất của Việt Nam](https://vnexpress.net/lanh-dao-cac-nuoc-tai-le-ky-niem-50-nam-thong-nhat-cua-viet-nam-4880353.html) - 06:12 30/04/2025
+- 🔥 [Lãnh đạo Đảng, Nhà nước tại lễ kỷ niệm 50 năm thống nhất](https://vnexpress.net/lanh-dao-dang-nha-nuoc-tai-le-ky-niem-50-nam-thong-nhat-4880349.html) - 04:54 30/04/2025
+- 🦏 [Tổng Bí thư: Khép lại quá khứ, tôn trọng khác biệt, hướng tới tương lai](https://vnexpress.net/tong-bi-thu-khep-lai-qua-khu-ton-trong-khac-biet-huong-toi-tuong-lai-4880397.html) - 04:14 30/04/2025
+- 👺 [13.000 người diễu binh kỷ niệm 50 năm thống nhất đất nước](https://vnexpress.net/13-000-nguoi-dieu-binh-ky-niem-50-nam-thong-nhat-dat-nuoc-4880310-tong-thuat.html) - 22:00 29/04/2025
+- 🧑‍🏫 [Lá thư &#39;tuyệt mật&#39; đi thăm miền Nam của Chủ tịch Hồ Chí Minh](https://vnexpress.net/la-thu-tuyet-mat-di-tham-mien-nam-cua-chu-tich-ho-chi-minh-4879310.html) - 20:00 29/04/2025
+- 🚦 [Ngành đường sắt tái hiện hai đoàn tàu Thống Nhất đầu tiên](https://vnexpress.net/nganh-duong-sat-tai-hien-hai-doan-tau-thong-nhat-dau-tien-4880315.html) - 18:00 29/04/2025
+- 🎉 [Siết chặt an ninh khu vực Dinh Độc Lập](https://vnexpress.net/siet-chat-an-ninh-khu-vuc-dinh-doc-lap-4880319.html) - 17:30 29/04/2025
+- 🦒 [Biển người chờ xem diễu binh ở trung tâm TP HCM](https://vnexpress.net/bien-nguoi-cho-xem-dieu-binh-o-trung-tam-tp-hcm-4880313.html) - 17:04 29/04/2025
+- 🤗 [Cửa ngõ Hà Nội, TP HCM ùn tắc trước kỳ nghỉ lễ 30/4](https://vnexpress.net/cua-ngo-ha-noi-tp-hcm-un-tac-truoc-ky-nghi-le-30-4-4880251.html) - 13:24 29/04/2025
+- 💼 [Người dân ngồi kín vỉa hè trung tâm TP HCM chờ xem diễu binh](https://vnexpress.net/nguoi-dan-ngoi-kin-via-he-trung-tam-tp-hcm-cho-xem-dieu-binh-4880256.html) - 12:47 29/04/2025
+- 🤩 [Metro Bến Thành - Suối Tiên miễn vé ngày 30/4 và 1/5](https://vnexpress.net/metro-ben-thanh-suoi-tien-mien-ve-ngay-30-4-va-1-5-4880259.html) - 12:46 29/04/2025
+- 🤡 [Lịch trình diễu binh, diễu hành ngày 30/4 ở TP HCM](https://vnexpress.net/lich-trinh-dieu-binh-dieu-hanh-ngay-30-4-o-tp-hcm-4880254.html) - 12:30 29/04/2025
+- 💯 [Thanh tra dự án trung tâm hội nghị 160 tỷ đồng bỏ hoang](https://vnexpress.net/thanh-tra-du-an-trung-tam-hoi-nghi-160-ty-dong-bo-hoang-4880163.html) - 12:01 29/04/2025
+- 👺 [Bộ Nội vụ hướng dẫn xác định người hưởng chính sách nghỉ hưu trước tuổi](https://vnexpress.net/bo-noi-vu-huong-dan-xac-dinh-nguoi-huong-chinh-sach-nghi-huu-truoc-tuoi-4880206.html) - 11:57 29/04/2025
+- 🌮 [Khánh thành tượng đài Công an nhân dân](https://vnexpress.net/khanh-thanh-tuong-dai-cong-an-nhan-dan-4880213.html) - 10:34 29/04/2025
+- 🥸 [Xây 37 &#39;nhà Hy Vọng&#39; ở Hà Tĩnh](https://vnexpress.net/xay-37-nha-hy-vong-o-ha-tinh-4880125.html) - 09:54 29/04/2025
+- 🐻 [Hành khách làm thủ tục hàng không bằng sinh trắc học](https://vnexpress.net/hanh-khach-lam-thu-tuc-hang-khong-bang-sinh-trac-hoc-4880147.html) - 09:43 29/04/2025
+- 👀 [Xã phường sau sáp nhập ở Cà Mau, Bạc Liêu bỏ đánh số](https://vnexpress.net/xa-phuong-sau-sap-nhap-o-ca-mau-bac-lieu-bo-danh-so-4880101.html) - 09:43 29/04/2025
+- 🤔 [Cấm xe tải nặng qua đèo Bảo Lộc dịp lễ 30/4](https://vnexpress.net/cam-xe-tai-nang-qua-deo-bao-loc-dip-le-30-4-4880161.html) - 08:48 29/04/2025
+- 🕯 [Những chuyến vượt mưa bom của đội nữ lái xe Trường Sơn](https://video.vnexpress.net/nhung-chuyen-vuot-mua-bom-cua-doi-nu-lai-xe-truong-son-4879069.html) - 08:25 29/04/2025
+- 😺 [Tăng cường gần 30 phà chống kẹt xe dịp lễ 30/4 ở miền Tây](https://vnexpress.net/tang-cuong-gan-30-pha-chong-ket-xe-dip-le-30-4-o-mien-tay-4880138.html) - 08:21 29/04/2025
+- 🦆 [Hà Nội thông qua chủ trương xây dựng cầu Ngọc Hồi kết nối với Hưng Yên](https://vnexpress.net/ha-noi-thong-qua-chu-truong-xay-dung-cau-ngoc-hoi-ket-noi-voi-hung-yen-4880075.html) - 07:30 29/04/2025
+- 🧰 [Cấm người, xe vào trung tâm TP HCM từ 3h ngày 30/4](https://vnexpress.net/cam-nguoi-xe-vao-trung-tam-tp-hcm-tu-3h-ngay-30-4-4880091.html) - 07:11 29/04/2025
+- 🦍 [Lãnh đạo Đảng, Nhà nước vào Lăng viếng Chủ tịch Hồ Chí Minh](https://vnexpress.net/lanh-dao-dang-nha-nuoc-vao-lang-vieng-chu-tich-ho-chi-minh-4879995.html) - 04:03 29/04/2025
+- 🧰 [Đề xuất làm hầm dài 4,3 km đường ven biển Nha Trang](https://vnexpress.net/de-xuat-lam-ham-dai-4-3-km-duong-ven-bien-nha-trang-4879998.html) - 04:00 29/04/2025
+- 💃 [Thông xe 4 km đường ven kênh dài nhất TP HCM](https://vnexpress.net/thong-xe-4-km-duong-ven-kenh-dai-nhat-tp-hcm-4879989.html) - 03:44 29/04/2025
+- 🧰 [Đường phố Sài Gòn ngày 30/4/1975 qua ống kính người dân](https://vnexpress.net/duong-pho-sai-gon-ngay-30-4-1975-qua-ong-kinh-nguoi-dan-4879846.html) - 03:00 29/04/2025
+- 🚀 [Sài Gòn - Ngày 30/4](https://vnexpress.net/sai-gon-ngay-30-4-4876938.html) - 22:00 28/04/2025
+- 🎊 [Doanh nghiệp vận tải thiếu lái xe khách, xe container](https://vnexpress.net/doanh-nghiep-van-tai-thieu-lai-xe-khach-xe-container-4879096.html) - 18:14 28/04/2025
+- 🤭 [Tổng Bí thư dâng hương tưởng nhớ đại tướng Võ Nguyên Giáp, Văn Tiến Dũng](https://vnexpress.net/tong-bi-thu-dang-huong-tuong-nho-dai-tuong-vo-nguyen-giap-van-tien-dung-4879854.html) - 16:29 28/04/2025
+- 🤗 [Tất cả xã phường sau sáp nhập ở Thanh Hóa bỏ đánh số](https://vnexpress.net/tat-ca-xa-phuong-sau-sap-nhap-o-thanh-hoa-bo-danh-so-4879842.html) - 16:02 28/04/2025
+- 🌈 [Hơn 3,4 triệu người nhận lương hưu, trợ cấp tháng 5 sớm](https://vnexpress.net/hon-3-4-trieu-nguoi-nhan-luong-huu-tro-cap-thang-5-som-4879818.html) - 15:04 28/04/2025
+- 🦣 [Khánh thành khu lưu niệm Lê Duẩn tại Quảng Trị](https://vnexpress.net/khanh-thanh-khu-luu-niem-le-duan-tai-quang-tri-4879611.html) - 14:50 28/04/2025
+- 🎡 [Giáo hội Phật giáo Việt Nam dừng bổ nhiệm chức danh Ban trị sự tỉnh thành](https://vnexpress.net/giao-hoi-phat-giao-viet-nam-dung-bo-nhiem-chuc-danh-ban-tri-su-tinh-thanh-4879816.html) - 14:39 28/04/2025
+- 🦏 [Hải Phòng được phong danh hiệu &#39;thành phố anh hùng&#39;](https://vnexpress.net/hai-phong-duoc-phong-danh-hieu-thanh-pho-anh-hung-4879795.html) - 12:52 28/04/2025
+- 🎊 [Hà Nội đề xuất bố trí biên chế phường xã theo đặc thù](https://vnexpress.net/ha-noi-de-xuat-bo-tri-bien-che-phuong-xa-theo-dac-thu-4879804.html) - 12:39 28/04/2025
+- 🫶 [Đà Nẵng đấu giá lại 10 xe công, giá khởi điểm từ 14 triệu đồng](https://vnexpress.net/da-nang-dau-gia-lai-10-xe-cong-gia-khoi-diem-tu-14-trieu-dong-4879643.html) - 08:15 28/04/2025
+- 🤔 [Phương án sáp nhập xã phường ở Phú Thọ, Hòa Bình, Vĩnh Phúc](https://vnexpress.net/phuong-an-sap-nhap-xa-phuong-o-phu-tho-hoa-binh-vinh-phuc-4879352.html) - 07:25 28/04/2025
+- 🤠 [Ôtô được vào 30 km cao tốc Bến Lức - Long Thành từ chiều 28/4](https://vnexpress.net/oto-duoc-vao-30-km-cao-toc-ben-luc-long-thanh-tu-chieu-28-4-4879614.html) - 07:12 28/04/2025
+- 🌜 [Tăng cường kiêm nhiệm &#39;để tinh gọn bộ máy chính quyền cấp xã&#39;](https://vnexpress.net/tang-cuong-kiem-nhiem-de-tinh-gon-bo-may-chinh-quyen-cap-xa-4879548.html) - 05:57 28/04/2025
+- 🕯 [Xá lợi trái tim Bồ tát Thích Quảng Đức được đưa về Việt Nam Quốc Tự](https://vnexpress.net/xa-loi-trai-tim-bo-tat-thich-quang-duc-duoc-dua-ve-viet-nam-quoc-tu-4879605.html) - 05:53 28/04/2025
+- 🤔 [&#39;Cấp có thẩm quyền đã xem xét cẩn thận việc bỏ thành phố thuộc tỉnh&#39;](https://vnexpress.net/cap-co-tham-quyen-da-xem-xet-can-than-viec-bo-thanh-pho-thuoc-tinh-4879595.html) - 05:16 28/04/2025
+- 🏊 [Đề xuất hơn 71.000 tỷ đồng làm đường nối sân bay Gia Bình với Hà Nội](https://vnexpress.net/de-xuat-hon-71-000-ty-dong-lam-duong-noi-san-bay-gia-binh-voi-ha-noi-4879469.html) - 04:45 28/04/2025
+- 🌮 [Cả nước dự kiến còn 3.300 xã phường](https://vnexpress.net/ca-nuoc-du-kien-con-3-300-xa-phuong-4879574.html) - 04:37 28/04/2025
+- 🫣 [Ông Y Thanh Hà Niê K&#39;đăm làm Bí thư Lâm Đồng](https://vnexpress.net/bi-thu-tinh-uy-lam-dong-y-thanh-ha-nie-kdam-4879408.html) - 03:17 28/04/2025
+- ⚗️ [Đề xuất bán phương tiện vi phạm để giảm tải kho bãi](https://vnexpress.net/de-xuat-ban-phuong-tien-vi-pham-de-giam-tai-kho-bai-4879435.html) - 03:16 28/04/2025
+- 🌜 [Lốc xoáy làm sập 24 căn nhà ở Kiên Giang](https://vnexpress.net/loc-xoay-lam-sap-24-can-nha-o-kien-giang-4879394.html) - 00:55 28/04/2025
+- 🌁 [Đông nghịt người xem pháo hoa tại công viên Thống nhất](https://vnexpress.net/dong-nghit-nguoi-xem-phao-hoa-tai-cong-vien-thong-nhat-4879371.html) - 00:06 28/04/2025
+- 🐲 [Cháy nhà ở Hà Nội, 3 người tử vong](https://vnexpress.net/chay-nha-o-ha-noi-3-nguoi-tu-vong-4879392.html) - 23:52 27/04/2025
+- ⛽️ [Người chụp ảnh đường phố Sài Gòn ngày 30/4/1975](https://vnexpress.net/nguoi-chup-anh-duong-pho-sai-gon-ngay-30-4-1975-4878140.html) - 23:00 27/04/2025
+- 🗽 [Sở Nội vụ Hà Nội: 96% người dân đồng tình tên xã phường sau sắp xếp](https://vnexpress.net/so-noi-vu-ha-noi-96-nguoi-dan-dong-tinh-ten-xa-phuong-sau-sap-xep-4879331.html) - 18:00 27/04/2025
+- 🔥 [5.000 chuyến bay đi và đến TP HCM dịp 30/4](https://vnexpress.net/5-000-chuyen-bay-di-va-den-tp-hcm-dip-30-4-4879350.html) - 17:33 27/04/2025
+- 💯 [Miền Bắc và Trung mưa giông, miền Nam nắng dịp 30/4](https://vnexpress.net/mien-bac-va-trung-mua-giong-mien-nam-nang-dip-30-4-4879285.html) - 11:32 27/04/2025
+- 🦆 [Cấp cứu ngư dân gặp nạn ở Trường Sa](https://vnexpress.net/cap-cuu-ngu-dan-gap-nan-o-truong-sa-4879302.html) - 11:10 27/04/2025
+- 🫣 [Vietnam Airlines hoãn chuyển toàn bộ chuyến bay nội địa sang ga T3 Tân Sơn Nhất](https://vnexpress.net/vietnam-airlines-hoan-chuyen-toan-bo-chuyen-bay-noi-dia-sang-ga-t3-tan-son-nhat-4879303.html) - 10:56 27/04/2025
+- 🤡 [Cấm xe vào trung tâm TP HCM tối 27/4](https://vnexpress.net/cam-xe-vao-trung-tam-tp-hcm-toi-27-4-4879262.html) - 08:21 27/04/2025<!-- vnexpress-thoi-su:END -->
