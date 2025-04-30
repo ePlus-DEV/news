@@ -29,7 +29,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [Đội của Ronaldo bị loại ở bán kết AFC Champions League](https://vnexpress.net/doi-cua-ronaldo-bi-loai-o-ban-ket-afc-champions-league-4880566.html) - 18:26 30/04/2025
 - 🧰 [Hợp long cầu vượt cửa biển Thuận An](https://vnexpress.net/hop-long-cau-vuot-cua-bien-thuan-an-4880564.html) - 18:24 30/04/2025
 - 🥰 [20 tháng hồi sinh đường sắt Bắc Nam sau chiến tranh](https://vnexpress.net/20-thang-hoi-sinh-duong-sat-bac-nam-sau-chien-tranh-4877794.html) - 18:07 30/04/2025
-- 🌏 [Barca - Inter Milan: Các cầu thủ khởi động](https://vnexpress.net/barca-inter-milan-cac-cau-thu-khoi-dong-4880521.html) - 18:00 30/04/2025
+- 🌏 [Barca 2-2 Inter Milan &lpar;H2&rpar;: Dimarco sút vọt xà](https://vnexpress.net/barca-2-2-inter-milan-h2-dimarco-sut-vot-xa-4880521.html) - 18:00 30/04/2025
 - 🧐 [Tổng Bí thư Tô Lâm điện đàm với Chủ tịch Hội đồng Châu Âu](https://vnexpress.net/tong-bi-thu-to-lam-dien-dam-voi-chu-tich-hoi-dong-chau-au-4880556.html) - 17:04 30/04/2025
 - 💫 [4 con giáp sự nghiệp suôn sẻ, tài chính dồi dào từ ngày 1/5](https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-4-con-giap-su-nghiep-suon-se-tai-chinh-doi-dao-tu-ngay-1-5-4878439.html) - 17:02 30/04/2025
 - 😺 [Hàng trăm người tình nguyện nhặt rác sau lễ diễu binh 30/4](https://vnexpress.net/hang-tram-nguoi-tinh-nguyen-nhat-rac-sau-le-dieu-binh-30-4-4880502.html) - 17:00 30/04/2025
