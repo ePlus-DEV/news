@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- dantri-xa-hoi:START -->
 - 🫣 [Đến suối nước ở Lâm Đồng tắm, nam du khách tử vong](https://dantri.com.vn/xa-hoi/den-suoi-nuoc-o-lam-dong-tam-nam-du-khach-tu-vong-20250430183326747.htm) - 12:37 30/04/2025
 - 💼 [Nhân dân thế giới chung tay viết tiếp câu chuyện hòa bình](https://dantri.com.vn/xa-hoi/nhan-dan-the-gioi-chung-tay-viet-tiep-cau-chuyen-hoa-binh-20250430190205117.htm) - 12:33 30/04/2025
-- 🎊 [Hầu hết đường dẫn vào trung tâm TPHCM kẹt cứng tối 30/4](https://dantri.com.vn/xa-hoi/hau-het-duong-dan-vao-trung-tam-tphcm-ket-cung-toi-304-20250430170458963.htm) - 11:40 30/04/2025
+- 🎊 [Hàng vạn người say đắm thưởng thức các chương trình nghệ thuật ở TPHCM](https://dantri.com.vn/xa-hoi/hang-van-nguoi-say-dam-thuong-thuc-cac-chuong-trinh-nghe-thuat-o-tphcm-20250430170458963.htm) - 11:40 30/04/2025
 - 🙉 [TPHCM bắn pháo hoa 30 điểm, trình diễn kỵ binh, nhạc giao hưởng tối nay](https://dantri.com.vn/xa-hoi/tphcm-ban-phao-hoa-30-diem-trinh-dien-ky-binh-nhac-giao-huong-toi-nay-20250430164517267.htm) - 09:52 30/04/2025
 - 🕯 [Doanh nghiệp tự ý giăng kẽm gai ở biển Nha Trang: Mất mỹ quan, gây phản cảm](https://dantri.com.vn/xa-hoi/doanh-nghiep-tu-y-giang-kem-gai-o-bien-nha-trang-mat-my-quan-gay-phan-cam-20250430161709519.htm) - 09:35 30/04/2025
 - 👍 [Cảm xúc đọng lại sau đại lễ kỷ niệm 50 năm thống nhất đất nước](https://dantri.com.vn/xa-hoi/cam-xuc-dong-lai-sau-dai-le-ky-niem-50-nam-thong-nhat-dat-nuoc-20250430153424098.htm) - 09:32 30/04/2025
