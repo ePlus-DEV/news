@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Tiêm kích Su-30MK2 thả bẫy nhiệt trên bầu trời TP HCM](https://vnexpress.net/tiem-kich-su-30mk2-tha-bay-nhiet-tren-bau-troi-tp-hcm-4880310.html) - 22:00 29/04/2025
+- 🦒 [Quân đội, công an diễu hành giữa biển người](https://vnexpress.net/quan-doi-cong-an-dieu-hanh-giua-bien-nguoi-4880310.html) - 22:00 29/04/2025
 - 🤓 [Lá thư &#39;tuyệt mật&#39; đi thăm miền Nam của Chủ tịch Hồ Chí Minh](https://vnexpress.net/la-thu-tuyet-mat-di-tham-mien-nam-cua-chu-tich-ho-chi-minh-4879310.html) - 20:00 29/04/2025
 - ⚗️ [Ngành đường sắt tái hiện hai đoàn tàu Thống Nhất đầu tiên](https://vnexpress.net/nganh-duong-sat-tai-hien-hai-doan-tau-thong-nhat-dau-tien-4880315.html) - 18:00 29/04/2025
 - 🌊 [Siết chặt an ninh khu vực Dinh Độc Lập](https://vnexpress.net/siet-chat-an-ninh-khu-vuc-dinh-doc-lap-4880319.html) - 17:30 29/04/2025
