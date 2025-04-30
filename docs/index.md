@@ -603,7 +603,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌁 [Du khách yêu thích, chấm điểm dàn &#39;lính mẫu&#39; ở đại lễ 30/4](https://tienphong.vn/du-khach-yeu-thich-cham-diem-dan-linh-mau-o-dai-le-304-post1738616.tpo) - 21:28 30/04/2025
 - 🤩 [Hàng nghìn người hò reo cổ vũ Cảnh sát cơ động kỵ binh biểu diễn đêm 30/4](https://tienphong.vn/hang-nghin-nguoi-ho-reo-co-vu-canh-sat-co-dong-ky-binh-bieu-dien-dem-304-post1738672.tpo) - 21:27 30/04/2025
 - 🫶 [Cuba cảm ơn lập trường kiên định, nhất quán của Việt Nam](https://tienphong.vn/cuba-cam-on-lap-truong-kien-dinh-nhat-quan-cua-viet-nam-post1738469.tpo) - 21:21 30/04/2025
-- 🌁 [Chuyến bay ngập tràn cờ đỏ sao vàng trong ngày 30/4](https://tienphong.vn/chuyen-bay-ngap-tran-co-do-sao-vang-trong-ngay-304-post1738644.tpo) - 21:19 30/04/2025
+- 🌁 [Rực rỡ cờ đỏ sao vàng trên chuyến bay đặc biệt ngày 30/4](https://tienphong.vn/ruc-ro-co-do-sao-vang-tren-chuyen-bay-dac-biet-ngay-304-post1738644.tpo) - 21:19 30/04/2025
 - 🤭 [Sao Việt rộn ràng check-in mừng đại lễ 30/4](https://tienphong.vn/sao-viet-ron-rang-check-in-mung-dai-le-304-post1738666.tpo) - 21:18 30/04/2025
 - 💪 [Tàu Hòa Bình lần đầu đưa 1.700 khách Nhật tới Hạ Long](https://tienphong.vn/tau-hoa-binh-lan-dau-dua-1700-khach-nhat-toi-ha-long-post1738645.tpo) - 21:15 30/04/2025
 - 🎡 [Việt Nam đăng cai 1 bảng Vòng loại U23 châu Á 2026, có lợi thế bốc thăm ngang Nhật Bản, Hàn Quốc](https://tienphong.vn/viet-nam-dang-cai-1-bang-vong-loai-u23-chau-a-2026-co-loi-the-boc-tham-ngang-nhat-ban-han-quoc-post1738678.tpo) - 21:14 30/04/2025
