@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Man Utd đại thắng ở bán kết Europa League](https://vnexpress.net/truc-tiep-tran-athletic-bilbao-vs-man-utd-o-luot-di-ban-ket-europa-leaguea-4880799.html) - 18:00 01/05/2025
+- 🪜 [Man Utd đại thắng ở bán kết Europa League](https://vnexpress.net/truc-tiep-tran-athletic-bilbao-vs-man-utd-o-luot-di-ban-ket-europa-leaguea-4880799-tong-thuat.html) - 18:00 01/05/2025
 - 🦩 [10 tư thế yoga đơn giản hỗ trợ hiệu quả cho chạy bộ](https://vnexpress.net/10-tu-the-yoga-don-gian-ho-tro-hieu-qua-cho-chay-bo-4880779.html) - 17:00 01/05/2025
 - 🧰 [Yamal được so với Messi thời đỉnh cao](https://vnexpress.net/yamal-duoc-so-voi-messi-thoi-dinh-cao-4880759.html) - 12:51 01/05/2025
 - 🤗 [HLV Bilbao: ‘Man Utd có thể vô địch trong 1 phút’](https://vnexpress.net/hlv-bilbao-man-utd-co-the-vo-dich-trong-1-phut-4880755.html) - 12:34 01/05/2025
