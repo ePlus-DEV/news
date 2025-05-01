@@ -5,7 +5,7 @@ sidebar_position: 9
 
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Những cầu cạn trên cao tốc Vũng Áng - Bùng](https://vnexpress.net/nhung-cau-can-tren-cao-toc-vung-ang-bung-4880613.html) - 19:00 01/05/2025
-- 🐎 [Bilbao 0-3 Man Utd &lpar;hết H1&rpar;: Hiệp đấu trong mơ với &#39;Quỷ Đỏ&#39;](https://vnexpress.net/truc-tiep-tran-athletic-bilbao-vs-man-utd-o-luot-di-ban-ket-europa-leaguea-4880799.html) - 18:00 01/05/2025
+- 🐎 [Bilbao 0-3 Man Utd &lpar;H2&rpar;: Casemiro đánh đầu dội cột](https://vnexpress.net/truc-tiep-tran-athletic-bilbao-vs-man-utd-o-luot-di-ban-ket-europa-leaguea-4880799.html) - 18:00 01/05/2025
 - 🦍 [Cựu trợ lý ông Biden kể về hậu trường chiến dịch tranh cử &#39;thảm họa&#39;](https://vnexpress.net/cuu-tro-ly-ong-biden-ke-ve-hau-truong-chien-dich-tranh-cu-tham-hoa-4876727.html) - 18:00 01/05/2025
 - 🏊 [Tinh dịch đổi màu cảnh báo ung thư?](https://vnexpress.net/tinh-dich-doi-mau-canh-bao-ung-thu-4880167.html) - 18:00 01/05/2025
 - 🎊 [Vỡ vật hang do quan hệ sai tư thế](https://vnexpress.net/vo-vat-hang-do-quan-he-sai-tu-the-4879599.html) - 18:00 01/05/2025
