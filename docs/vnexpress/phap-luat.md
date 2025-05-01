@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Vụ án bác sĩ Mỹ cưỡng bức bệnh nhân chưa tỉnh táo sau gây mê](https://vnexpress.net/vu-an-bac-si-my-cuong-buc-benh-nhan-chua-tinh-tao-sau-gay-me-4878701.html) - 17:00 01/05/2025
+- 😎 [Vụ án bác sĩ Mỹ tấn công tình dục bệnh nhân gây mê](https://vnexpress.net/vu-an-bac-si-my-tan-cong-tinh-duc-benh-nhan-gay-me-4878701.html) - 17:00 01/05/2025
 - 🥰 [Bố mẹ bị bắt vì không cho 3 con ra khỏi nhà suốt 4 năm](https://vnexpress.net/bo-me-bi-bat-vi-giam-cam-ba-con-suot-4-nam-4880765.html) - 16:00 01/05/2025
 - 🎓 [Bà chủ trường Quốc tế Mỹ Việt Nam bị bắt](https://vnexpress.net/ba-chu-truong-quoc-te-my-viet-nam-bi-bat-4880692.html) - 07:48 01/05/2025
 - 🤓 [Thi thể 3 người cùng gia đình trong căn hộ du lịch](https://vnexpress.net/thi-the-3-nguoi-cung-gia-dinh-trong-can-ho-du-lich-4880680.html) - 06:56 01/05/2025
