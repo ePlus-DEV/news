@@ -4,7 +4,7 @@ sidebar_position: 24
 ---
 
 <!-- dantri-o-to-xe-may:START -->
-- 🤡 [Hai thương hiệu mô tô Châu âu này tạm dừng hoạt động tại Việt Nam](https://dantri.com.vn/o-to-xe-may/hai-thuong-hieu-mo-to-chau-au-nay-tam-dung-hoat-dong-tai-viet-nam-20250501090535834.htm) - 12:00 01/05/2025
+- 🤡 [Hai thương hiệu mô tô châu âu này tạm dừng hoạt động tại Việt Nam](https://dantri.com.vn/o-to-xe-may/hai-thuong-hieu-mo-to-chau-au-nay-tam-dung-hoat-dong-tai-viet-nam-20250501090535834.htm) - 12:00 01/05/2025
 - 🧑‍💻 [Đối thủ của Ranger và Triton đang được &quot;xả kho&quot;, giảm gần 100 triệu đồng](https://dantri.com.vn/o-to-xe-may/doi-thu-cua-ranger-va-triton-dang-duoc-xa-kho-giam-gan-100-trieu-dong-20250430134028375.htm) - 09:12 01/05/2025
 - 🧑‍💻 [Xe bán tải lùi vào xe khác rồi tăng ga bỏ chạy](https://dantri.com.vn/o-to-xe-may/xe-ban-tai-lui-vao-xe-khac-roi-tang-ga-bo-chay-20250501110218341.htm) - 04:07 01/05/2025
 - 🎓 [VinFast và LKQ Netherlands hợp tác chiến lược về dịch vụ và hậu mãi tại Hà Lan](https://dantri.com.vn/o-to-xe-may/vinfast-va-lkq-netherlands-hop-tac-chien-luoc-ve-dich-vu-va-hau-mai-tai-ha-lan-20250501094913632.htm) - 02:49 01/05/2025
