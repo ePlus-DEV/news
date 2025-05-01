@@ -312,56 +312,56 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Điền kinh Việt Nam chuẩn bị tham dự giải vô địch châu Á 2025](https://www.sggp.org.vn/dien-kinh-viet-nam-chuan-bi-tham-du-giai-vo-dich-chau-a-2025-post793435.html) - 11:59 01/05/2025
-- 🌝 [Bóng ném Việt Nam cử đội hình mạnh nhất dự giải vô địch bãi biển châu Á 2025](https://www.sggp.org.vn/bong-nem-viet-nam-cu-doi-hinh-manh-nhat-du-giai-vo-dich-bai-bien-chau-a-2025-post793401.html) - 11:54 01/05/2025
-- 💃 [Lực sỹ K’Dương giành HCV đầu tiên cho cử tạ Việt Nam tại giải thiếu niên, trẻ thế giới 2025](https://www.sggp.org.vn/luc-sy-kduong-gianh-hcv-dau-tien-cho-cu-ta-viet-nam-tai-giai-thieu-nien-tre-the-gioi-2025-post793397.html) - 11:53 01/05/2025
-- 🧑‍💻 [2.200 cuốn Đặc san 30-4 của Báo SGGP đến với bạn đọc các tỉnh Đông Nam bộ](https://www.sggp.org.vn/2200-cuon-dac-san-30-4-cua-bao-sggp-den-voi-ban-doc-cac-tinh-dong-nam-bo-post793438.html) - 11:02 01/05/2025
-- 🌊 [Lịch thi đấu vòng 21 LP Bank V-League 2024-2025](https://www.sggp.org.vn/lich-thi-dau-vong-21-lp-bank-v-league-2024-2025-post793452.html) - 10:57 01/05/2025
-- 🧑‍💻 [TPHCM: 146 phạm nhân đủ điều kiện được hưởng đặc xá năm 2025](https://www.sggp.org.vn/tphcm-146-pham-nhan-du-dieu-kien-duoc-huong-dac-xa-nam-2025-post793434.html) - 10:56 01/05/2025
-- ⛽️ [Việt Nam và Liên bang Nga phối hợp khảo sát Biển Đông](https://www.sggp.org.vn/viet-nam-va-lien-bang-nga-phoi-hop-khao-sat-bien-dong-post793446.html) - 10:53 01/05/2025
-- 😎 [Athletic Bilbao vs Man United: Liệu Man United có thể sống sót tại San Mamés? 5 câu hỏi dành cho HLV Anorim](https://www.sggp.org.vn/athletic-bilbao-vs-man-united-lieu-man-united-co-the-song-sot-tai-san-mames-5-cau-hoi-danh-cho-hlv-anorim-post793449.html) - 10:48 01/05/2025
-- 🌜 [Tổng thống Sri Lanka sắp thăm cấp Nhà nước đến Việt Nam](https://www.sggp.org.vn/tong-thong-sri-lanka-sap-tham-cap-nha-nuoc-den-viet-nam-post793430.html) - 10:45 01/05/2025
-- 💻 [Miền Trung sôi động kỳ nghỉ lễ, du khách tìm về lịch sử và di sản](https://www.sggp.org.vn/mien-trung-soi-dong-ky-nghi-le-du-khach-tim-ve-lich-su-va-di-san-post793427.html) - 09:18 01/05/2025
-- 👍 [Một bệnh nhân bị sốc phản vệ nguy kịch sau phẫu thuật thẩm mỹ](https://www.sggp.org.vn/mot-benh-nhan-bi-soc-phan-ve-nguy-kich-sau-phau-thuat-tham-my-post793433.html) - 09:08 01/05/2025
-- 🦆 [Truy xét nhóm &quot;quái xế&quot; tông trúng người đi đường ở Nha Trang](https://www.sggp.org.vn/truy-xet-nhom-quai-xe-tong-trung-nguoi-di-duong-o-nha-trang-post793413.html) - 08:57 01/05/2025
-- 🦩 [Làm việc với chủ bãi xe “chặt chém” 100.000 đồng/xe máy xem diễu binh, diễu hành](https://www.sggp.org.vn/lam-viec-voi-chu-bai-xe-chat-chem-100000-dongxe-may-xem-dieu-binh-dieu-hanh-post793428.html) - 08:50 01/05/2025
-- 🥰 [Ngư dân trúng mùa sứa muộn](https://www.sggp.org.vn/ngu-dan-trung-mua-sua-muon-post793423.html) - 08:49 01/05/2025
-- 🎬 [Nha Trang: Nghi án chồng giết vợ, con rồi tự tử](https://www.sggp.org.vn/nha-trang-nghi-an-chong-giet-vo-con-roi-tu-tu-post793416.html) - 08:40 01/05/2025
-- 🦩 [Quyền Tổng thống Hàn Quốc Han Duck-soo từ chức](https://www.sggp.org.vn/quyen-tong-thong-han-quoc-han-duck-soo-tu-chuc-post793422.html) - 08:38 01/05/2025
-- 🌮 [NBA: Dyson Daniels giành giải Cầu thủ tiến bộ nhất trong năm khi dẫn đầu số lần cướp bóng](https://www.sggp.org.vn/nba-dyson-daniels-gianh-giai-cau-thu-tien-bo-nhat-trong-nam-khi-dan-dau-so-lan-cuop-bong-post793400.html) - 08:10 01/05/2025
-- 👍 [Ngư dân &quot;gác lễ&quot;, phấn khởi vươn khơi khai thác hải sản](https://www.sggp.org.vn/ngu-dan-gac-le-phan-khoi-vuon-khoi-khai-thac-hai-san-post793396.html) - 07:28 01/05/2025
-- 🦒 [Thi công đường cao tốc Vạn Ninh - Cam Lộ xuyên lễ giữa nắng như đổ lửa](https://www.sggp.org.vn/thi-cong-duong-cao-toc-van-ninh-cam-lo-xuyen-le-giua-nang-nhu-do-lua-post793415.html) - 07:21 01/05/2025
-- 🤡 [Ấn Độ đóng không phận với các hãng hàng không của Pakistan](https://www.sggp.org.vn/an-do-dong-khong-phan-voi-cac-hang-hang-khong-cua-pakistan-post793417.html) - 07:18 01/05/2025
-- 🐎 [Podcast bản tin trưa 1-5: Miền Bắc mưa to, miền Nam nắng nóng kèm mưa chuyển mùa](https://www.sggp.org.vn/podcast-ban-tin-trua-1-5-mien-bac-mua-to-mien-nam-nang-nong-kem-mua-chuyen-mua-post793414.html) - 07:13 01/05/2025
-- 🦆 [Tăng tốc cuối mùa](https://www.sggp.org.vn/tang-toc-cuoi-mua-post793410.html) - 06:59 01/05/2025
-- 🦅 [Bản tin trưa 1-5: Hủy trình diễn 10.500 drone | Thi công xuyên lễ các công trình trọng điểm quốc gia](https://www.sggp.org.vn/ban-tin-trua-1-5-huy-trinh-dien-10500-drone-thi-cong-xuyen-le-cac-cong-trinh-trong-diem-quoc-gia-post793412.html) - 06:00 01/05/2025
-- 🫣 [Đội tuyển futsal nữ Việt Nam lên đường tham dự VCK Futsal nữ châu Á 2025](https://www.sggp.org.vn/doi-tuyen-futsal-nu-viet-nam-len-duong-tham-du-vck-futsal-nu-chau-a-2025-post793411.html) - 05:48 01/05/2025
-- 🎭 [Phó Thủ tướng Thường trực Nguyễn Hòa Bình trao quyết định đặc xá tại Khánh Hòa](https://www.sggp.org.vn/pho-thu-tuong-thuong-truc-nguyen-hoa-binh-trao-quyet-dinh-dac-xa-tai-khanh-hoa-post793408.html) - 05:40 01/05/2025
-- 🫶 [CSGT TPHCM ghi dấu ấn trong đại lễ 30-4](https://www.sggp.org.vn/csgt-tphcm-ghi-dau-an-trong-dai-le-30-4-post793409.html) - 05:39 01/05/2025
-- 🎓 [Từ bầu trời đến mái ấm: Khoảnh khắc bình dị trong ngày hội non sông](https://www.sggp.org.vn/tu-bau-troi-den-mai-am-khoanh-khac-binh-di-trong-ngay-hoi-non-song-post793407.html) - 04:52 01/05/2025
-- 🤡 [Nhà vườn miền Tây đổ xô bán sầu riêng ở ven đường](https://www.sggp.org.vn/nha-vuon-mien-tay-do-xo-ban-sau-rieng-o-ven-duong-post793404.html) - 04:52 01/05/2025
-- 🦅 [Đặt vé bay Vietjet và làm thủ tục dễ dàng bằng sinh trắc học trên ứng dụng VNeID](https://www.sggp.org.vn/dat-ve-bay-vietjet-va-lam-thu-tuc-de-dang-bang-sinh-trac-hoc-tren-ung-dung-vneid-post793378.html) - 04:43 01/05/2025
-- 🧑‍🏫 [Cháy rừng dữ dội tại Israel, nhiều nước hỗ trợ](https://www.sggp.org.vn/chay-rung-du-doi-tai-israel-nhieu-nuoc-ho-tro-post793405.html) - 04:41 01/05/2025
-- 🕴 [12 đội bóng tranh giành chân sút hàng đầu Ligue 1](https://www.sggp.org.vn/12-doi-bong-tranh-gianh-chan-sut-hang-dau-ligue-1-post793403.html) - 03:56 01/05/2025
-- 🦆 [Xây dựng khu thương mại tự do Đà Nẵng tiên phong](https://www.sggp.org.vn/xay-dung-khu-thuong-mai-tu-do-da-nang-tien-phong-post793102.html) - 03:28 01/05/2025
-- 🎃 [Thành phố điện ảnh bên sông](https://www.sggp.org.vn/thanh-pho-dien-anh-ben-song-post793099.html) - 03:05 01/05/2025
-- 🌮 [Áo dài… kể chuyện](https://www.sggp.org.vn/ao-dai-ke-chuyen-post793100.html) - 03:05 01/05/2025
-- 🥰 [Người lao động làm chủ công nghệ mới](https://www.sggp.org.vn/nguoi-lao-dong-lam-chu-cong-nghe-moi-post793368.html) - 03:04 01/05/2025
-- 🕯 [Chặng đường dài chuyển từ thù thành bạn](https://www.sggp.org.vn/chang-duong-dai-chuyen-tu-thu-thanh-ban-post793006.html) - 03:04 01/05/2025
-- 🙉 [Xây dựng một tương lai hòa bình](https://www.sggp.org.vn/xay-dung-mot-tuong-lai-hoa-binh-post793373.html) - 03:04 01/05/2025
-- 💡 [Grigor Dimitrov vs Gabriel Diallo 7-5, 6&lpar;7&rpar; - 7&lpar;9&rpar;, 4-6: Phải mất 2 giờ 22 phút để hạ Dimitrov, Diallo chật vật giành vé Tứ kết Madrid Open 2025 gặp Lorenzo Musetti](https://www.sggp.org.vn/grigor-dimitrov-vs-gabriel-diallo-7-5-67-79-4-6-phai-mat-2-gio-22-phut-de-ha-dimitrov-diallo-chat-vat-gianh-ve-tu-ket-madrid-open-2025-gap-lorenzo-musetti-post793421.html) - 02:46 01/05/2025
+- 🪜 [65 vụ tai nạn giao thông trong ngày thứ 2 kỳ nghỉ lễ](https://www.sggp.org.vn/65-vu-tai-nan-giao-thong-trong-ngay-thu-2-ky-nghi-le-post793451.html) - 13:41 01/05/2025
+- 🌝 [Chiêm ngưỡng diều khổng lồ trên bãi biển Vũng Tàu](https://www.sggp.org.vn/chiem-nguong-dieu-khong-lo-tren-bai-bien-vung-tau-post793455.html) - 13:40 01/05/2025
+- 💃 [Podcast bản tin tối 1-5: Một bệnh nhân bị sốc phản vệ nguy kịch sau phẫu thuật thẩm mỹ; TPHCM: 146 phạm nhân đủ điều kiện được hưởng đặc xá năm 2025](https://www.sggp.org.vn/podcast-ban-tin-toi-1-5-mot-benh-nhan-bi-soc-phan-ve-nguy-kich-sau-phau-thuat-tham-my-tphcm-146-pham-nhan-du-dieu-kien-duoc-huong-dac-xa-nam-2025-post793458.html) - 13:36 01/05/2025
+- 🧑‍💻 [Bản tin tối 1-5: Làm việc với chủ bãi xe “chặt chém” 100.000 đồng/xe máy xem diễu binh, diễu hành](https://www.sggp.org.vn/ban-tin-toi-1-5-lam-viec-voi-chu-bai-xe-chat-chem-100000-dongxe-may-xem-dieu-binh-dieu-hanh-post793457.html) - 13:00 01/05/2025
+- 🌊 [Điền kinh Việt Nam chuẩn bị tham dự giải vô địch châu Á 2025](https://www.sggp.org.vn/dien-kinh-viet-nam-chuan-bi-tham-du-giai-vo-dich-chau-a-2025-post793435.html) - 11:59 01/05/2025
+- 🧑‍💻 [Bóng ném Việt Nam cử đội hình mạnh nhất dự giải vô địch bãi biển châu Á 2025](https://www.sggp.org.vn/bong-nem-viet-nam-cu-doi-hinh-manh-nhat-du-giai-vo-dich-bai-bien-chau-a-2025-post793401.html) - 11:54 01/05/2025
+- ⛽️ [Lực sỹ K’Dương giành HCV đầu tiên cho cử tạ Việt Nam tại giải thiếu niên, trẻ thế giới 2025](https://www.sggp.org.vn/luc-sy-kduong-gianh-hcv-dau-tien-cho-cu-ta-viet-nam-tai-giai-thieu-nien-tre-the-gioi-2025-post793397.html) - 11:53 01/05/2025
+- 😎 [2.200 cuốn Đặc san 30-4 của Báo SGGP đến với bạn đọc các tỉnh Đông Nam bộ](https://www.sggp.org.vn/2200-cuon-dac-san-30-4-cua-bao-sggp-den-voi-ban-doc-cac-tinh-dong-nam-bo-post793438.html) - 11:02 01/05/2025
+- 🌜 [Lịch thi đấu vòng 21 LP Bank V-League 2024-2025](https://www.sggp.org.vn/lich-thi-dau-vong-21-lp-bank-v-league-2024-2025-post793452.html) - 10:57 01/05/2025
+- 💻 [TPHCM: 146 phạm nhân đủ điều kiện được hưởng đặc xá năm 2025](https://www.sggp.org.vn/tphcm-146-pham-nhan-du-dieu-kien-duoc-huong-dac-xa-nam-2025-post793434.html) - 10:56 01/05/2025
+- 👍 [Việt Nam và Liên bang Nga phối hợp khảo sát Biển Đông](https://www.sggp.org.vn/viet-nam-va-lien-bang-nga-phoi-hop-khao-sat-bien-dong-post793446.html) - 10:53 01/05/2025
+- 🦆 [Athletic Bilbao vs Man United: Liệu Man United có thể sống sót tại San Mamés? 5 câu hỏi dành cho HLV Anorim](https://www.sggp.org.vn/athletic-bilbao-vs-man-united-lieu-man-united-co-the-song-sot-tai-san-mames-5-cau-hoi-danh-cho-hlv-anorim-post793449.html) - 10:48 01/05/2025
+- 🦩 [Tổng thống Sri Lanka sắp thăm cấp Nhà nước đến Việt Nam](https://www.sggp.org.vn/tong-thong-sri-lanka-sap-tham-cap-nha-nuoc-den-viet-nam-post793430.html) - 10:45 01/05/2025
+- 🥰 [Miền Trung sôi động kỳ nghỉ lễ, du khách tìm về lịch sử và di sản](https://www.sggp.org.vn/mien-trung-soi-dong-ky-nghi-le-du-khach-tim-ve-lich-su-va-di-san-post793427.html) - 09:18 01/05/2025
+- 🎬 [Một bệnh nhân bị sốc phản vệ nguy kịch sau phẫu thuật thẩm mỹ](https://www.sggp.org.vn/mot-benh-nhan-bi-soc-phan-ve-nguy-kich-sau-phau-thuat-tham-my-post793433.html) - 09:08 01/05/2025
+- 🦩 [Truy xét nhóm &quot;quái xế&quot; tông trúng người đi đường ở Nha Trang](https://www.sggp.org.vn/truy-xet-nhom-quai-xe-tong-trung-nguoi-di-duong-o-nha-trang-post793413.html) - 08:57 01/05/2025
+- 🌮 [Làm việc với chủ bãi xe “chặt chém” 100.000 đồng/xe máy xem diễu binh, diễu hành](https://www.sggp.org.vn/lam-viec-voi-chu-bai-xe-chat-chem-100000-dongxe-may-xem-dieu-binh-dieu-hanh-post793428.html) - 08:50 01/05/2025
+- 👍 [Ngư dân trúng mùa sứa muộn](https://www.sggp.org.vn/ngu-dan-trung-mua-sua-muon-post793423.html) - 08:49 01/05/2025
+- 🦒 [Nha Trang: Nghi án chồng giết vợ, con rồi tự tử](https://www.sggp.org.vn/nha-trang-nghi-an-chong-giet-vo-con-roi-tu-tu-post793416.html) - 08:40 01/05/2025
+- 🤡 [Quyền Tổng thống Hàn Quốc Han Duck-soo từ chức](https://www.sggp.org.vn/quyen-tong-thong-han-quoc-han-duck-soo-tu-chuc-post793422.html) - 08:38 01/05/2025
+- 🐎 [NBA: Dyson Daniels giành giải Cầu thủ tiến bộ nhất trong năm khi dẫn đầu số lần cướp bóng](https://www.sggp.org.vn/nba-dyson-daniels-gianh-giai-cau-thu-tien-bo-nhat-trong-nam-khi-dan-dau-so-lan-cuop-bong-post793400.html) - 08:10 01/05/2025
+- 🦆 [Ngư dân &quot;gác lễ&quot;, phấn khởi vươn khơi khai thác hải sản](https://www.sggp.org.vn/ngu-dan-gac-le-phan-khoi-vuon-khoi-khai-thac-hai-san-post793396.html) - 07:28 01/05/2025
+- 🦅 [Thi công đường cao tốc Vạn Ninh - Cam Lộ xuyên lễ giữa nắng như đổ lửa](https://www.sggp.org.vn/thi-cong-duong-cao-toc-van-ninh-cam-lo-xuyen-le-giua-nang-nhu-do-lua-post793415.html) - 07:21 01/05/2025
+- 🫣 [Ấn Độ đóng không phận với các hãng hàng không của Pakistan](https://www.sggp.org.vn/an-do-dong-khong-phan-voi-cac-hang-hang-khong-cua-pakistan-post793417.html) - 07:18 01/05/2025
+- 🎭 [Podcast bản tin trưa 1-5: Miền Bắc mưa to, miền Nam nắng nóng kèm mưa chuyển mùa](https://www.sggp.org.vn/podcast-ban-tin-trua-1-5-mien-bac-mua-to-mien-nam-nang-nong-kem-mua-chuyen-mua-post793414.html) - 07:13 01/05/2025
+- 🫶 [Tăng tốc cuối mùa](https://www.sggp.org.vn/tang-toc-cuoi-mua-post793410.html) - 06:59 01/05/2025
+- 🎓 [Bản tin trưa 1-5: Hủy trình diễn 10.500 drone | Thi công xuyên lễ các công trình trọng điểm quốc gia](https://www.sggp.org.vn/ban-tin-trua-1-5-huy-trinh-dien-10500-drone-thi-cong-xuyen-le-cac-cong-trinh-trong-diem-quoc-gia-post793412.html) - 06:00 01/05/2025
+- 🤡 [Đội tuyển futsal nữ Việt Nam lên đường tham dự VCK Futsal nữ châu Á 2025](https://www.sggp.org.vn/doi-tuyen-futsal-nu-viet-nam-len-duong-tham-du-vck-futsal-nu-chau-a-2025-post793411.html) - 05:48 01/05/2025
+- 🦅 [Phó Thủ tướng Thường trực Nguyễn Hòa Bình trao quyết định đặc xá tại Khánh Hòa](https://www.sggp.org.vn/pho-thu-tuong-thuong-truc-nguyen-hoa-binh-trao-quyet-dinh-dac-xa-tai-khanh-hoa-post793408.html) - 05:40 01/05/2025
+- 🧑‍🏫 [CSGT TPHCM ghi dấu ấn trong đại lễ 30-4](https://www.sggp.org.vn/csgt-tphcm-ghi-dau-an-trong-dai-le-30-4-post793409.html) - 05:39 01/05/2025
+- 🕴 [Từ bầu trời đến mái ấm: Khoảnh khắc bình dị trong ngày hội non sông](https://www.sggp.org.vn/tu-bau-troi-den-mai-am-khoanh-khac-binh-di-trong-ngay-hoi-non-song-post793407.html) - 04:52 01/05/2025
+- 🦆 [Nhà vườn miền Tây đổ xô bán sầu riêng ở ven đường](https://www.sggp.org.vn/nha-vuon-mien-tay-do-xo-ban-sau-rieng-o-ven-duong-post793404.html) - 04:52 01/05/2025
+- 🎃 [Đặt vé bay Vietjet và làm thủ tục dễ dàng bằng sinh trắc học trên ứng dụng VNeID](https://www.sggp.org.vn/dat-ve-bay-vietjet-va-lam-thu-tuc-de-dang-bang-sinh-trac-hoc-tren-ung-dung-vneid-post793378.html) - 04:43 01/05/2025
+- 🌮 [Cháy rừng dữ dội tại Israel, nhiều nước hỗ trợ](https://www.sggp.org.vn/chay-rung-du-doi-tai-israel-nhieu-nuoc-ho-tro-post793405.html) - 04:41 01/05/2025
+- 🥰 [12 đội bóng tranh giành chân sút hàng đầu Ligue 1](https://www.sggp.org.vn/12-doi-bong-tranh-gianh-chan-sut-hang-dau-ligue-1-post793403.html) - 03:56 01/05/2025
+- 🕯 [Xây dựng khu thương mại tự do Đà Nẵng tiên phong](https://www.sggp.org.vn/xay-dung-khu-thuong-mai-tu-do-da-nang-tien-phong-post793102.html) - 03:28 01/05/2025
+- 🙉 [Thành phố điện ảnh bên sông](https://www.sggp.org.vn/thanh-pho-dien-anh-ben-song-post793099.html) - 03:05 01/05/2025
+- 💡 [Áo dài… kể chuyện](https://www.sggp.org.vn/ao-dai-ke-chuyen-post793100.html) - 03:05 01/05/2025
+- 💫 [Người lao động làm chủ công nghệ mới](https://www.sggp.org.vn/nguoi-lao-dong-lam-chu-cong-nghe-moi-post793368.html) - 03:04 01/05/2025
+- 🧑‍💻 [Chặng đường dài chuyển từ thù thành bạn](https://www.sggp.org.vn/chang-duong-dai-chuyen-tu-thu-thanh-ban-post793006.html) - 03:04 01/05/2025
+- 🎊 [Xây dựng một tương lai hòa bình](https://www.sggp.org.vn/xay-dung-mot-tuong-lai-hoa-binh-post793373.html) - 03:04 01/05/2025
+- 🤖 [Grigor Dimitrov vs Gabriel Diallo 7-5, 6&lpar;7&rpar; - 7&lpar;9&rpar;, 4-6: Phải mất 2 giờ 22 phút để hạ Dimitrov, Diallo chật vật giành vé Tứ kết Madrid Open 2025 gặp Lorenzo Musetti](https://www.sggp.org.vn/grigor-dimitrov-vs-gabriel-diallo-7-5-67-79-4-6-phai-mat-2-gio-22-phut-de-ha-dimitrov-diallo-chat-vat-gianh-ve-tu-ket-madrid-open-2025-gap-lorenzo-musetti-post793421.html) - 02:46 01/05/2025
 - 💫 [Đi ngược chiều gió](https://www.sggp.org.vn/di-nguoc-chieu-gio-post793335.html) - 02:25 01/05/2025
-- 🧑‍💻 [Miền Bắc mưa to, miền Nam nắng nóng kèm mưa chuyển mùa](https://www.sggp.org.vn/mien-bac-mua-to-mien-nam-nang-nong-kem-mua-chuyen-mua-post793374.html) - 02:19 01/05/2025
-- 🎊 [Hội chợ triển lãm thành tựu kinh tế - xã hội tỉnh Long An năm 2025](https://www.sggp.org.vn/hoi-cho-trien-lam-thanh-tuu-kinh-te-xa-hoi-tinh-long-an-nam-2025-post793392.html) - 01:44 01/05/2025
-- 🤖 [Long An phát triển du lịch an toàn, thân thiện](https://www.sggp.org.vn/long-an-phat-trien-du-lich-an-toan-than-thien-post793391.html) - 01:44 01/05/2025
-- 💫 [Năm 2025, Long An phấn đấu đón 2 triệu lượt khách du lịch](https://www.sggp.org.vn/nam-2025-long-an-phan-dau-don-2-trieu-luot-khach-du-lich-post793393.html) - 01:42 01/05/2025
-- 👨‍🏫 [Đồng bằng sông Cửu Long: Thi công xuyên lễ trên các công trình trọng điểm quốc gia](https://www.sggp.org.vn/dong-bang-song-cuu-long-thi-cong-xuyen-le-tren-cac-cong-trinh-trong-diem-quoc-gia-post793366.html) - 01:41 01/05/2025
-- 🧰 [Phát triển Thành phố Hồ Chí Minh: Vai trò “hạt nhân”](https://www.sggp.org.vn/phat-trien-thanh-pho-ho-chi-minh-vai-tro-hat-nhan-post792995.html) - 01:40 01/05/2025
-- 🥰 [Kiến tạo hệ giá trị trước vận hội mới của đất nước](https://www.sggp.org.vn/kien-tao-he-gia-tri-truoc-van-hoi-moi-cua-dat-nuoc-post793011.html) - 01:40 01/05/2025
-- 💼 [Chuẩn bị nhân lực để “đầu tàu” ra khơi](https://www.sggp.org.vn/chuan-bi-nhan-luc-de-dau-tau-ra-khoi-post793013.html) - 01:40 01/05/2025
-- 🤗 [Thể thao TPHCM &amp; hành trình 50 năm tự hào](https://www.sggp.org.vn/the-thao-tphcm-hanh-trinh-50-nam-tu-hao-post793101.html) - 01:40 01/05/2025
-- 🦩 [Hãy trân trọng hòa bình, giữ gìn môi trường và phát triển đất nước một cách bền vững](https://www.sggp.org.vn/hay-tran-trong-hoa-binh-giu-gin-moi-truong-va-phat-trien-dat-nuoc-mot-cach-ben-vung-post793002.html) - 01:40 01/05/2025
-- 🫶 [Hợp tác gỡ vướng trong đầu tư hạ tầng lưới điện](https://www.sggp.org.vn/hop-tac-go-vuong-trong-dau-tu-ha-tang-luoi-dien-post793390.html) - 01:25 01/05/2025<!-- sggp:END -->
+- 👨‍🏫 [Miền Bắc mưa to, miền Nam nắng nóng kèm mưa chuyển mùa](https://www.sggp.org.vn/mien-bac-mua-to-mien-nam-nang-nong-kem-mua-chuyen-mua-post793374.html) - 02:19 01/05/2025
+- 🧰 [Hội chợ triển lãm thành tựu kinh tế - xã hội tỉnh Long An năm 2025](https://www.sggp.org.vn/hoi-cho-trien-lam-thanh-tuu-kinh-te-xa-hoi-tinh-long-an-nam-2025-post793392.html) - 01:44 01/05/2025
+- 🥰 [Long An phát triển du lịch an toàn, thân thiện](https://www.sggp.org.vn/long-an-phat-trien-du-lich-an-toan-than-thien-post793391.html) - 01:44 01/05/2025
+- 💼 [Năm 2025, Long An phấn đấu đón 2 triệu lượt khách du lịch](https://www.sggp.org.vn/nam-2025-long-an-phan-dau-don-2-trieu-luot-khach-du-lich-post793393.html) - 01:42 01/05/2025
+- 🤗 [Đồng bằng sông Cửu Long: Thi công xuyên lễ trên các công trình trọng điểm quốc gia](https://www.sggp.org.vn/dong-bang-song-cuu-long-thi-cong-xuyen-le-tren-cac-cong-trinh-trong-diem-quoc-gia-post793366.html) - 01:41 01/05/2025
+- 🦩 [Phát triển Thành phố Hồ Chí Minh: Vai trò “hạt nhân”](https://www.sggp.org.vn/phat-trien-thanh-pho-ho-chi-minh-vai-tro-hat-nhan-post792995.html) - 01:40 01/05/2025
+- 🫶 [Kiến tạo hệ giá trị trước vận hội mới của đất nước](https://www.sggp.org.vn/kien-tao-he-gia-tri-truoc-van-hoi-moi-cua-dat-nuoc-post793011.html) - 01:40 01/05/2025<!-- sggp:END -->
 
 ## Báo VTC
 <!-- vtc:START -->
