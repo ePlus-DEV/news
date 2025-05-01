@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- dantri-giai-tri:START -->
 - 🤩 [Bằng Kiều và vợ tổ chức mừng thọ mẹ 85 tuổi](https://dantri.com.vn/giai-tri/bang-kieu-va-vo-to-chuc-mung-tho-me-85-tuoi-20250501191657758.htm) - 13:20 01/05/2025
 - 🔥 [Vợ sắp cưới của Uông Tiểu Phi - chồng cũ của Từ Hy Viên - là ai?](https://dantri.com.vn/giai-tri/vo-sap-cuoi-cua-uong-tieu-phi-chong-cu-cua-tu-hy-vien-la-ai-20250501111009102.htm) - 11:00 01/05/2025
-- 🚀 [Phương Mỹ Chi nói về tiết mục gây sốt đại lễ: &quot;Đó là ký ức không thể quên&quot;](https://dantri.com.vn/giai-tri/phuong-my-chi-noi-ve-tiet-muc-gay-sot-dai-le-do-la-ky-uc-khong-the-quen-20250501154106955.htm) - 09:10 01/05/2025
+- 🚀 [Phương Mỹ Chi nói về tiết mục ở đại lễ: &quot;Đó là ký ức không thể quên&quot;](https://dantri.com.vn/giai-tri/phuong-my-chi-noi-ve-tiet-muc-o-dai-le-do-la-ky-uc-khong-the-quen-20250501154106955.htm) - 09:10 01/05/2025
 - 🔥 [Nữ ca sĩ hát hit 2 tỷ lượt xem ở đại lễ hé lộ tin nhắn từ Nguyễn Văn Chung](https://dantri.com.vn/giai-tri/nu-ca-si-hat-hit-2-ty-luot-xem-o-dai-le-he-lo-tin-nhan-tu-nguyen-van-chung-20250501123817989.htm) - 05:49 01/05/2025
 - 🌈 [BTV VTV gây sốt với màn phỏng vấn bé gái trong đại lễ 30/4 là ai?](https://dantri.com.vn/giai-tri/btv-vtv-gay-sot-voi-man-phong-van-be-gai-trong-dai-le-304-la-ai-20250501095622090.htm) - 04:40 01/05/2025
 - 📝 [&quot;50 năm đất nước trọn niềm vui&quot;: Âm nhạc và ký ức lịch sử thắp sáng Hà Nội](https://dantri.com.vn/giai-tri/50-nam-dat-nuoc-tron-niem-vui-am-nhac-va-ky-uc-lich-su-thap-sang-ha-noi-20250501103036711.htm) - 04:05 01/05/2025
