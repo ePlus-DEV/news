@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Phong cách đời thường của Phương Ly](https://vnexpress.net/phong-cach-doi-thuong-cua-phuong-ly-4879749.html) - 12:00 01/05/2025
 - 💫 [NSƯT Lê Thiện diễn lay động cảnh &#39;tìm con sau ngày thống nhất&#39;](https://vnexpress.net/nsut-le-thien-dien-lay-dong-canh-tim-con-sau-ngay-thong-nhat-4880685.html) - 10:25 01/05/2025
-- 🌮 [Phát lại giọng nữ phát thanh Việt từng gây ám ảnh lính Mỹ](https://vnexpress.net/phat-lai-giong-nu-phat-thanh-viet-tung-gay-am-anh-linh-my-4880682.html) - 07:45 01/05/2025
+- 🌮 [Giọng nữ phát thanh Việt từng gây ám ảnh lính Mỹ](https://vnexpress.net/giong-nu-phat-thanh-viet-tung-gay-am-anh-linh-my-4880682.html) - 07:45 01/05/2025
 - 🧠 [Con gái 12 tuổi của Lý Hải](https://vnexpress.net/con-gai-12-tuoi-cua-ly-hai-4880658.html) - 05:46 01/05/2025
 - 👨‍🏫 [&#39;Cánh đồng hoang&#39; - khốc liệt và trữ tình](https://vnexpress.net/canh-dong-hoang-khoc-liet-va-tru-tinh-4870998.html) - 05:19 01/05/2025
 - ⚗️ [Loạt sách kỷ niệm 50 năm thống nhất đất nước](https://vnexpress.net/loat-sach-ky-niem-50-nam-thong-nhat-dat-nuoc-4879805.html) - 03:48 01/05/2025
