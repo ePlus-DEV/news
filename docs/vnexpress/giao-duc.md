@@ -4,8 +4,8 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Giáo viên TP HCM tâm tư vì bài khảo sát tiếng Anh](https://vnexpress.net/giao-vien-tp-hcm-tam-tu-vi-bai-khao-sat-tieng-anh-4879086.html) - 22:58 01/05/2025
-- 🦆 [5 dạng câu hỏi mới trong đề minh họa tiếng Anh thi tốt nghiệp](https://vnexpress.net/5-dang-cau-hoi-moi-trong-de-minh-hoa-tieng-anh-thi-tot-nghiep-4879482.html) - 17:00 01/05/2025
+- 🤓 [Giáo viên TP HCM thấy nhiều bất cập với bài khảo sát tiếng Anh](https://vnexpress.net/giao-vien-tp-hcm-thay-nhieu-bat-cap-voi-bai-khao-sat-tieng-anh-4879086.html) - 22:58 01/05/2025
+- 🦆 [5 dạng câu hỏi mới trong đề tiếng Anh thi tốt nghiệp 2025](https://vnexpress.net/5-dang-cau-hoi-moi-trong-de-tieng-anh-thi-tot-nghiep-2025-4879482.html) - 17:00 01/05/2025
 - 🦩 [Nước Đông Nam Á nào có công trình tôn giáo lớn nhất thế giới?](https://vnexpress.net/nuoc-dong-nam-a-nao-co-cong-trinh-ton-giao-lon-nhat-the-gioi-4880714.html) - 12:55 01/05/2025
 - 🌮 [Xem xét kỷ luật sinh viên vô lễ khi xem diễu binh 30/4](https://vnexpress.net/dai-hoc-van-lang-xu-ly-sinh-vien-vo-le-voi-cuu-chien-binh-o-le-dieu-binh-30-4-4880666.html) - 06:46 01/05/2025
 - 🔭 [9 tổ hợp xét tuyển học bạ và điểm thi vào Đại học Luật Hà Nội](https://vnexpress.net/xet-tuyen-hoc-ba-dai-hoc-luat-ha-noi-2025-chinh-xac-nhat-4880485.html) - 01:12 01/05/2025
