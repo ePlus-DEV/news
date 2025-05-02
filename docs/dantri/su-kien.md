@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Ông chủ &quot;Thiền am bên bờ vũ trụ&quot; sắp bị xét xử tội loạn luân](https://dantri.com.vn/phap-luat/ong-chu-thien-am-ben-bo-vu-tru-sap-bi-xet-xu-toi-loan-luan-20250502180658105.htm) - 11:50 02/05/2025
+- 🎭 [Ông Lê Tùng Vân sắp bị xét xử tội loạn luân](https://dantri.com.vn/phap-luat/ong-le-tung-van-sap-bi-xet-xu-toi-loan-luan-20250502180658105.htm) - 11:50 02/05/2025
 - 👨‍🏫 [22 người tử vong vì tai nạn giao thông trong ngày 2/5](https://dantri.com.vn/xa-hoi/22-nguoi-tu-vong-vi-tai-nan-giao-thong-trong-ngay-25-20250502163928968.htm) - 10:22 02/05/2025
 - 🌮 [31 người Trung Quốc ngụy trang cửa hàng tiện lợi thành ổ lừa đảo ở TPHCM](https://dantri.com.vn/phap-luat/31-nguoi-trung-quoc-nguy-trang-cua-hang-tien-loi-thanh-o-lua-dao-o-tphcm-20250429133134235.htm) - 10:14 02/05/2025
 - 🕯 [Mỹ sẽ dừng &quot;đi vòng quanh thế giới&quot; để dàn xếp chiến sự Nga - Ukraine](https://dantri.com.vn/the-gioi/my-se-dung-di-vong-quanh-the-gioi-de-dan-xep-chien-su-nga-ukraine-20250502170121996.htm) - 10:12 02/05/2025
