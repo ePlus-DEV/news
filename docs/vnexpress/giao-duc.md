@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Tỉnh nào có thành phố trực thuộc muộn nhất miền Trung?](https://vnexpress.net/tinh-nao-co-thanh-pho-truc-thuoc-muon-nhat-mien-trung-4880997.html) - 13:02 02/05/2025
+- 🤓 [Ai là nguyên thủ nước ngoài đầu tiên đến Quảng Trị sau Hiệp định Paris?](https://vnexpress.net/ai-la-nguyen-thu-nuoc-ngoai-dau-tien-den-quang-tri-sau-hiep-dinh-paris-4880997.html) - 13:02 02/05/2025
 - 🦆 [Đại học Hà Nội cộng tối đa 4 điểm khuyến khích](https://vnexpress.net/dai-hoc-ha-noi-cong-toi-da-4-diem-khuyen-khich-4880932.html) - 12:02 02/05/2025
 - 🦩 [Phong cách sử dụng ngôn ngữ của Tổng thống Trump](https://vnexpress.net/phong-cach-su-dung-ngon-ngu-cua-tong-thong-trump-4880693.html) - 10:43 02/05/2025
 - 🌮 [Học phí hệ dân sự của 3 trường công an, quân đội](https://vnexpress.net/hoc-phi-he-dan-su-cua-3-truong-cong-an-quan-doi-4880599.html) - 08:19 02/05/2025
