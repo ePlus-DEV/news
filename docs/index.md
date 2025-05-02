@@ -586,10 +586,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Showbiz 2/5: &#39;Thám tử Kiên&#39; sắp chạm mốc 100 tỷ đồng](https://tienphong.vn/showbiz-25-tham-tu-kien-sap-cham-moc-100-ty-dong-post1739021.tpo) - 21:00 02/05/2025
-- 🎊 [Ga Đà Nẵng rực rỡ cờ hoa đón đoàn diễu binh, diễu hành trở về](https://tienphong.vn/ga-da-nang-ruc-ro-co-hoa-don-doan-dieu-binh-dieu-hanh-tro-ve-post1739028.tpo) - 20:43 02/05/2025
-- 💼 [Biểu tượng âm nhạc tử vong trong ngôi nhà cháy](https://tienphong.vn/bieu-tuong-am-nhac-tu-vong-trong-ngoi-nha-chay-post1739025.tpo) - 20:33 02/05/2025
-- 👺 [Lai Châu: Bé gái 7 tuổi mất tích trong khu vực đồi núi suốt hai ngày](https://tienphong.vn/lai-chau-be-gai-7-tuoi-mat-tich-trong-khu-vuc-doi-nui-suot-hai-ngay-post1739008.tpo) - 20:18 02/05/2025
+- 💼 [Bé gái 7 tuổi đi lạc 2 ngày trong rừng sâu Lai Châu](https://tienphong.vn/be-gai-7-tuoi-di-lac-2-ngay-trong-rung-sau-lai-chau-post1739008.tpo) - 21:50 02/05/2025
+- 🎊 [Showbiz 2/5: &#39;Thám tử Kiên&#39; sắp chạm mốc 100 tỷ đồng](https://tienphong.vn/showbiz-25-tham-tu-kien-sap-cham-moc-100-ty-dong-post1739021.tpo) - 21:00 02/05/2025
+- 💼 [Ga Đà Nẵng rực rỡ cờ hoa đón đoàn diễu binh, diễu hành trở về](https://tienphong.vn/ga-da-nang-ruc-ro-co-hoa-don-doan-dieu-binh-dieu-hanh-tro-ve-post1739028.tpo) - 20:43 02/05/2025
+- 👺 [Biểu tượng âm nhạc tử vong trong ngôi nhà cháy](https://tienphong.vn/bieu-tuong-am-nhac-tu-vong-trong-ngoi-nha-chay-post1739025.tpo) - 20:33 02/05/2025
 - 💪 [Thị trường nước ngoài lần đầu tiên đóng góp trên 20% doanh thu của Vinamilk](https://tienphong.vn/thi-truong-nuoc-ngoai-lan-dau-tien-dong-gop-tren-20-doanh-thu-cua-vinamilk-post1739009.tpo) - 20:05 02/05/2025
 - 💃 [Người Hà Nội đạp vịt, săn hoàng hôn đỏ rực trong dịp lễ](https://tienphong.vn/nguoi-ha-noi-dap-vit-san-hoang-hon-do-ruc-trong-dip-le-post1739015.tpo) - 19:59 02/05/2025
 - 🦍 [Phương án điều chuyển ngân sách các cấp khi tổ chức lại đơn vị hành chính tại Thanh Hóa](https://tienphong.vn/phuong-an-dieu-chuyen-ngan-sach-cac-cap-khi-to-chuc-lai-don-vi-hanh-chinh-tai-thanh-hoa-post1739006.tpo) - 19:56 02/05/2025
