@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- dantri-xa-hoi:START -->
 - 🫣 [Ba miền nắng nóng](https://dantri.com.vn/xa-hoi/ba-mien-nang-nong-20250502215636789.htm) - 17:00 02/05/2025
 - 💼 [Tổng Bí thư dự chương trình nghệ thuật kỷ niệm 80 năm Chiến thắng phát xít](https://dantri.com.vn/xa-hoi/tong-bi-thu-du-chuong-trinh-nghe-thuat-ky-niem-80-nam-chien-thang-phat-xit-20250502225504902.htm) - 15:56 02/05/2025
-- 🎊 [Tạm hoãn chiêm bái xá lợi Trái tim Bồ tát Thích Quảng Đức ngày mai](https://dantri.com.vn/xa-hoi/tam-hoan-chiem-bai-xa-loi-trai-tim-bo-tat-thich-quang-duc-ngay-mai-20250502211148285.htm) - 14:38 02/05/2025
+- 🎊 [Tạm hoãn chiêm bái xá lợi Trái tim Bồ tát Thích Quảng Đức](https://dantri.com.vn/xa-hoi/tam-hoan-chiem-bai-xa-loi-trai-tim-bo-tat-thich-quang-duc-20250502211148285.htm) - 14:38 02/05/2025
 - 🙉 [Hàng triệu Phật tử trên thế giới đang hướng về Đại lễ Vesak 2025 ở TPHCM](https://dantri.com.vn/xa-hoi/hang-trieu-phat-tu-tren-the-gioi-dang-huong-ve-dai-le-vesak-2025-o-tphcm-20250502175651759.htm) - 12:57 02/05/2025
 - 🕯 [Vì sao xảy ra nhiều vụ tai nạn giao thông trên đèo Tam Đảo?](https://dantri.com.vn/xa-hoi/vi-sao-xay-ra-nhieu-vu-tai-nan-giao-thong-tren-deo-tam-dao-20250502181102073.htm) - 11:57 02/05/2025
 - 👍 [Quảng Ninh thu hơn 1.600 tỷ đồng trong 2 ngày nghỉ lễ](https://dantri.com.vn/xa-hoi/quang-ninh-thu-hon-1600-ty-dong-trong-2-ngay-nghi-le-20250502171256707.htm) - 11:53 02/05/2025
