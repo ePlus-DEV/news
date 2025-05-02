@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Trọng tài gây phẫn nộ, bị cáo buộc thiên vị giúp Man Utd chiến thắng](https://dantri.com.vn/the-thao/trong-tai-gay-phan-no-bi-cao-buoc-thien-vi-giup-man-utd-chien-thang-20250502132603782.htm) - 06:26 02/05/2025
-- 💯 [Nghịch lý đầy mâu thuẫn biến Man Utd thành &quot;kẻ hai mặt&quot;](https://dantri.com.vn/the-thao/nghich-ly-day-mau-thuan-bien-man-utd-thanh-ke-hai-mat-20250502125811672.htm) - 06:02 02/05/2025
+- 🎡 [Nghịch lý đầy mâu thuẫn biến Man Utd thành &quot;kẻ hai mặt&quot;](https://dantri.com.vn/the-thao/nghich-ly-day-mau-thuan-bien-man-utd-thanh-ke-hai-mat-20250502125811672.htm) - 07:02 02/05/2025
+- 💯 [Trọng tài gây phẫn nộ, bị cáo buộc thiên vị giúp Man Utd chiến thắng](https://dantri.com.vn/the-thao/trong-tai-gay-phan-no-bi-cao-buoc-thien-vi-giup-man-utd-chien-thang-20250502132603782.htm) - 06:26 02/05/2025
 - ⛽️ [HLV Amorim: &quot;Man Utd chưa thể nghĩ tới trận chung kết&quot;](https://dantri.com.vn/the-thao/hlv-amorim-man-utd-chua-the-nghi-toi-tran-chung-ket-20250502104730002.htm) - 04:46 02/05/2025
 - 💃 [Ruud, Musetti và Draper tiến vào bán kết Madrid Open](https://dantri.com.vn/the-thao/ruud-musetti-va-draper-tien-vao-ban-ket-madrid-open-20250502065527969.htm) - 23:55 01/05/2025
 - 🌈 [Tottenham sáng cửa gặp Man Utd ở chung kết Europa League](https://dantri.com.vn/the-thao/tottenham-sang-cua-gap-man-utd-o-chung-ket-europa-league-20250502052005624.htm) - 22:20 01/05/2025
