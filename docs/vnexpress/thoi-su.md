@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Đường Đà Lạt về TP HCM ùn tắc sau tai nạn](https://vnexpress.net/duong-da-lat-ve-tp-hcm-un-tac-sau-tai-nan-4881287.html) - 13:58 03/05/2025
-- 🤓 [Thủ tướng: Tri ân chiến sĩ bị tù đày bằng hành động cụ thể](https://vnexpress.net/thu-tuong-tri-an-chien-si-bi-tu-day-bang-hanh-dong-cu-the-4881283.html) - 13:28 03/05/2025
+- 🤓 [Thủ tướng: Phát triển Côn Đảo hiện đại tầm quốc tế](https://vnexpress.net/thu-tuong-phat-trien-con-dao-hien-dai-tam-quoc-te-4881283.html) - 13:28 03/05/2025
 - ⚗️ [Chiêm bái xá lợi trái tim Bồ tát Thích Quảng Đức từ ngày 6/5](https://vnexpress.net/chiem-bai-xa-loi-trai-tim-bo-tat-thich-quang-duc-tu-ngay-6-5-4881271.html) - 11:37 03/05/2025
 - 🌊 [Nhân viên bảo vệ rừng bị bò tót húc tử vong](https://vnexpress.net/nhan-vien-bao-ve-rung-bi-bo-tot-huc-tu-vong-4881248.html) - 09:00 03/05/2025
 - 🎓 [Cả nước giảm gần 130.000 biên chế sau sáp nhập tỉnh, xã](https://vnexpress.net/ca-nuoc-giam-gan-130-000-bien-che-sau-sap-nhap-tinh-xa-4881225.html) - 07:58 03/05/2025
