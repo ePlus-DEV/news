@@ -4,9 +4,9 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Gây án mạng khi say rượu](https://vnexpress.net/gay-an-mang-khi-say-ruou-4881202.html) - 05:52 03/05/2025
+- 😎 [Đoạt mạng em rể sau chầu nhậu](https://vnexpress.net/doat-mang-em-re-sau-chau-nhau-4881202.html) - 05:52 03/05/2025
 - 🥰 [Diễn viên Mỹ dàn dựng bị tấn công để gây chú ý](https://vnexpress.net/dien-vien-vuong-lao-ly-vi-dan-dung-bi-tan-cong-de-gay-chu-y-4881180.html) - 05:51 03/05/2025
-- 🎓 [VKSND Tối cao: Tài xế &#39;vượt không an toàn&#39; trong vụ nữ sinh tử vong ở Vĩnh Long](https://vnexpress.net/vksnd-toi-cao-tai-xe-vuot-khong-an-toan-trong-vu-nu-sinh-tu-vong-o-vinh-long-4881203.html) - 05:46 03/05/2025
+- 🎓 [VKSND Tối cao hủy &#39;quyết định giải quyết khiếu nại&#39; vụ nữ sinh tử vong ở Vĩnh Long](https://vnexpress.net/vksnd-toi-cao-tai-xe-vuot-khong-an-toan-trong-vu-nu-sinh-tu-vong-o-vinh-long-4881203.html) - 05:46 03/05/2025
 - 🤓 [CSGT khống chế người &#39;múa dao&#39; trên đường](https://vnexpress.net/csgt-khong-che-nguoi-mua-dao-tren-duong-4881175.html) - 03:44 03/05/2025
 - 🎊 [Mối nguy từ chợ online bán súng đồ chơi có tính sát thương như súng thật](https://vnexpress.net/moi-nguy-tu-cho-online-ban-sung-do-choi-co-tinh-sat-thuong-nhu-sung-that-4879532.html) - 01:00 03/05/2025
 - 🙉 [Những trận tuyến giữa lòng Sài Gòn của nữ điệp báo An ninh T4](https://vnexpress.net/nhung-tran-tuyen-giua-long-sai-gon-cua-nu-diep-bao-an-ninh-t4-4879637.html) - 23:00 02/05/2025
