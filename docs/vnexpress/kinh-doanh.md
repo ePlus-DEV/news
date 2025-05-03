@@ -6,7 +6,7 @@ sidebar_position: 3
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Người Mỹ cần kiếm ít nhất 114.000 USD mỗi năm để mua được nhà](https://vnexpress.net/nguoi-my-can-kiem-it-nhat-114-000-usd-moi-nam-de-mua-duoc-nha-4881179.html) - 06:38 03/05/2025
 - 🐲 [Hãng tàu cao tốc ra Phú Quốc có lãi trở lại](https://vnexpress.net/hang-tau-cao-toc-ra-phu-quoc-co-lai-tro-lai-4881192.html) - 06:33 03/05/2025
-- 🔥 [Hawaii sẽ tăng thuế khách sạn để gây quỹ khí hậu từ 1/1/2016](https://vnexpress.net/hawaii-se-tang-thue-khach-san-de-gay-quy-khi-hau-tu-1-1-2016-4881200.html) - 06:26 03/05/2025
+- 🔥 [Hawaii sẽ tăng thuế khách sạn để gây quỹ khí hậu từ 1/1/2026](https://vnexpress.net/hawaii-se-tang-thue-khach-san-de-gay-quy-khi-hau-tu-1-1-2026-4881200.html) - 06:26 03/05/2025
 - 🐵 [Nike, Adidas kêu gọi ông Trump miễn thuế nhập khẩu](https://vnexpress.net/nike-adidas-keu-goi-ong-trump-mien-thue-nhap-khau-4881138.html) - 03:12 03/05/2025
 - 🦅 [Chứng khoán Mỹ có chuỗi tăng dài nhất hơn 20 năm](https://vnexpress.net/chung-khoan-my-co-chuoi-tang-dai-nhat-hon-20-nam-4881139.html) - 02:36 03/05/2025
 - 😺 [EVNHCMC hoàn thành cấp điện cho hơn 30 sự kiện lớn dịp 30/4](https://vnexpress.net/evnhcmc-hoan-thanh-cap-dien-cho-hon-30-su-kien-lon-dip-30-4-4881063.html) - 01:00 03/05/2025
