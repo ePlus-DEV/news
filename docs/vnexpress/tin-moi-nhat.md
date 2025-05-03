@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Điểm tin 17h: Việt Nam phản đối hoạt động vi phạm chủ quyền ở Trường Sa | Cả nước giảm gần 130.000 biên chế sau sáp nhập tỉnh, xã](https://vnexpress.net/diem-tin-17h-viet-nam-phan-doi-hoat-dong-vi-pham-chu-quyen-o-truong-sa-ca-nuoc-giam-gan-130-000-bien-che-sau-sap-nhap-tinh-xa-4881259.html) - 10:00 03/05/2025
+- 🎬 [Điểm tin 17h: Mỹ sẽ duyệt binh trùng ngày sinh nhật ông Trump | Mật nghị Hồng y bầu tân giáo hoàng có thể sẽ &#39;rất ngắn&#39;](https://vnexpress.net/diem-tin-17h-my-se-duyet-binh-trung-ngay-sinh-nhat-ong-trump-mat-nghi-hong-y-bau-tan-giao-hoang-co-the-se-rat-ngan-4881259.html) - 10:00 03/05/2025
 - 🐎 [Anh nhẹ nhàng, hướng nội, tìm em cùng vun đắp hạnh phúc](https://vnexpress.net/anh-nhe-nhang-huong-noi-tim-em-cung-vun-dap-hanh-phuc-4881218.html) - 10:00 03/05/2025
 - 🦍 [Không khí nhận bib tại giải chạy đầu tiên của ngành công an](https://vnexpress.net/khong-khi-nhan-bib-tai-giai-chay-dau-tien-cua-nganh-cong-an-4881235.html) - 10:00 03/05/2025
 - 🏊 [Minh tinh Nhật thừa nhận bị rối loạn lưỡng cực](https://vnexpress.net/minh-tinh-nhat-thua-nhan-bi-roi-loan-luong-cuc-4881237.html) - 09:45 03/05/2025
