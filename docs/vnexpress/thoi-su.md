@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Kỹ sư metro hiến kế để TP HCM đạt 500 km đường sắt đô thị](https://vnexpress.net/ky-su-metro-hien-ke-de-tp-hcm-dat-500-km-duong-sat-do-thi-4879757.html) - 23:00 02/05/2025
+- 🦒 [Chuyên gia: Metro Bến Thành - Tham Lương sẽ gian nan hơn tuyến số 1](https://vnexpress.net/chuyen-gia-metro-ben-thanh-tham-luong-se-gian-nan-hon-tuyen-so-1-4879757.html) - 23:00 02/05/2025
 - 🤓 [Tuyến kết nối từ đông sang tây tỉnh Cà Mau thành hình](https://vnexpress.net/tuyen-ket-noi-tu-dong-sang-tay-tinh-ca-mau-thanh-hinh-4879633.html) - 23:00 02/05/2025
 - ⚗️ [Hoãn chiêm bái Xá lợi trái tim Bồ tát Thích Quảng Đức](https://vnexpress.net/hoan-chiem-bai-xa-loi-trai-tim-bo-tat-thich-quang-duc-4881085.html) - 15:23 02/05/2025
 - 🌊 [Cháy căn hộ chung cư Mường Thanh ở Đà Nẵng](https://vnexpress.net/chay-can-ho-chung-cu-muong-thanh-o-da-nang-4881077.html) - 14:52 02/05/2025
@@ -14,7 +14,7 @@ sidebar_position: 1
 - 👺 [Người dân giúp thu gom 4.000 con vịt trên xe tải lật giữa đường](https://vnexpress.net/nguoi-dan-giup-thu-gom-4-000-con-vit-tren-xe-tai-lat-giua-duong-4880872.html) - 03:20 02/05/2025
 - 🧑‍🏫 [&#39;Đài quan sát&#39; trên cây rỏi mật 500 tuổi](https://vnexpress.net/dai-quan-sat-tren-cay-roi-mat-500-tuoi-4880470.html) - 03:14 02/05/2025
 - 🚦 [Đường kết nối TP HCM với Long An sau 4 năm khởi công](https://vnexpress.net/duong-ket-noi-tp-hcm-voi-long-an-sau-4-nam-khoi-cong-4877591.html) - 01:30 02/05/2025
-- 🎉 [Bà Tôn Nữ Thị Ninh: &#39;Đối ngoại với nước lớn phải chủ động&#39;](https://vnexpress.net/ba-ton-nu-thi-ninh-doi-ngoai-voi-nuoc-lon-phai-chu-dong-4880732.html) - 23:00 01/05/2025
+- 🎉 [Bà Tôn Nữ Thị Ninh: &#39;Đối ngoại với nước lớn phải chủ động&#39;](https://vnexpress.net/ba-ton-nu-thi-ninh-doi-ngoai-voi-nuoc-lon-phai-chu-dong-4880732.html) - 23:01 01/05/2025
 - 🦒 [Những cầu cạn trên cao tốc Vũng Áng - Bùng](https://vnexpress.net/nhung-cau-can-tren-cao-toc-vung-ang-bung-4880613.html) - 19:00 01/05/2025
 - 🤗 [Các đoàn diễu binh rời miền Nam về đơn vị](https://vnexpress.net/cac-doan-dieu-binh-roi-mien-nam-ve-don-vi-4880796.html) - 17:00 01/05/2025
 - 💼 [Tổng Bí thư làm Trưởng ban Chỉ đạo Trung ương về hoàn thiện thể chế, pháp luật](https://vnexpress.net/tong-bi-thu-lam-truong-ban-chi-dao-trung-uong-ve-hoan-thien-the-che-phap-luat-4880770.html) - 14:19 01/05/2025
