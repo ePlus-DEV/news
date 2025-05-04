@@ -26,61 +26,61 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Sáng nay Quốc hội khai mạc, bắt đầu xem xét sửa Hiến pháp](https://vnexpress.net/sang-nay-quoc-hoi-khai-mac-bat-dau-xem-xet-sua-hien-phap-4881501.html) - 17:00 04/05/2025
-- 🧰 [Ý Nhi: &#39;Tôi muốn chứng minh bản thân ở Miss World&#39;](https://vnexpress.net/y-nhi-toi-muon-chung-minh-ban-than-o-miss-world-4881485.html) - 17:00 04/05/2025
-- 🥰 [Warren Buffett: Chứng khoán biến động thời gian qua &#39;không đáng kể&#39;](https://vnexpress.net/warren-buffett-chung-khoan-bien-dong-thoi-gian-qua-khong-dang-ke-4881473.html) - 17:00 04/05/2025
-- 🌏 [Dì ruột trở mặt sau tám năm vay tiền tôi và mẹ](https://vnexpress.net/cho-nguoi-than-vay-tien-di-ruot-tro-mat-sau-tam-nam-vay-tien-toi-va-me-4881469.html) - 17:00 04/05/2025
-- 🧐 [Chung cư cấm thuê ngắn ngày](https://vnexpress.net/chung-cu-cam-thue-ngan-ngay-4881450.html) - 17:00 04/05/2025
-- 💫 [Sau 500 ngày yêu, chúng tôi có đám cưới hạnh phúc](https://vnexpress.net/sau-500-ngay-yeu-chung-toi-co-dam-cuoi-hanh-phuc-4881442.html) - 17:00 04/05/2025
-- 😺 [Giấc mơ về những mái nhà lành lặn](https://vnexpress.net/giac-mo-ve-nhung-mai-nha-lanh-lan-4878237.html) - 17:00 04/05/2025
-- 🕯 [Hải Phòng 100 năm trước](https://vnexpress.net/hai-phong-100-nam-truoc-4869373.html) - 17:00 04/05/2025
-- 💃 [Xiaomi bị phản đối vì cập nhật phần mềm làm xe điện yếu hơn](https://vnexpress.net/xiaomi-bi-phan-doi-vi-cap-nhat-phan-mem-lam-xe-dien-yeu-hon-4881527.html) - 17:00 04/05/2025
-- 💂 [Brazil phá âm mưu đánh bom nhạc hội của Lady Gaga](https://vnexpress.net/brazil-pha-am-muu-danh-bom-nhac-hoi-cua-lady-gaga-4881541.html) - 16:52 04/05/2025
-- 🎊 [Phim Lý Hải, Victor Vũ cạnh tranh sát sao dịp lễ 30/4](https://vnexpress.net/phim-ly-hai-victor-vu-canh-tranh-sat-sao-dip-le-30-4-4881536.html) - 16:13 04/05/2025
-- 🤠 [Hamas xử tử nhóm cướp bóc lương thực của người Gaza](https://vnexpress.net/hamas-xu-tu-nhom-cuop-boc-luong-thuc-cua-nguoi-gaza-4881537.html) - 15:48 04/05/2025
-- 🌈 [Xuân Son nhảy múa khi Nam Định thắng đậm Hà Nội FC](https://vnexpress.net/xuan-son-nhay-mua-khi-nam-dinh-thang-dam-ha-noi-fc-4881539.html) - 15:48 04/05/2025
-- 🎬 [Ông Trump: Tôi sẽ làm Tổng thống trong 8 năm](https://vnexpress.net/ong-trump-toi-se-lam-tong-thong-trong-8-nam-4881526.html) - 15:00 04/05/2025
-- 🚀 [Man Utd suýt giành điểm dù bị dẫn ba bàn ở Ngoại hạng Anh](https://vnexpress.net/man-utd-suyt-gianh-diem-du-bi-dan-ba-ban-o-ngoai-hang-anh-4881531.html) - 14:57 04/05/2025
-- 🪄 [Chỉ cần ở anh sự tử tế và chân thành là đủ](https://vnexpress.net/chi-can-o-anh-su-tu-te-va-chan-thanh-la-du-4881521.html) - 14:29 04/05/2025
-- 😎 [Anh có thể tìm em ở Hải Phòng không, cô gái?](https://vnexpress.net/anh-co-the-tim-em-o-hai-phong-khong-co-gai-4881522.html) - 14:28 04/05/2025
-- 🎊 [Em hướng nội, thích những điều đơn giản và bền lâu](https://vnexpress.net/em-huong-noi-thich-nhung-dieu-don-gian-va-ben-lau-4881523.html) - 14:28 04/05/2025
-- ⚗️ [99 trường xét điểm đánh thi giá năng lực Đại học Quốc gia Hà Nội](https://vnexpress.net/99-truong-xet-diem-danh-thi-gia-nang-luc-dai-hoc-quoc-gia-ha-noi-4881445.html) - 14:22 04/05/2025
-- 🫣 [Mexico khước từ đề xuất &#39;điều quân qua biên giới&#39; của ông Trump](https://vnexpress.net/mexico-khuoc-tu-de-xuat-dieu-quan-qua-bien-gioi-cua-ong-trump-4881503.html) - 14:20 04/05/2025
-- 👨‍🏫 [Mong anh là người thiện tri thức để mình cùng sống tốt mỗi ngày](https://vnexpress.net/mong-anh-la-nguoi-thien-tri-thuc-de-minh-cung-song-tot-moi-ngay-4881520.html) - 14:20 04/05/2025
-- 🐻 [Yêu anh đi, em sẽ thấy thú vị và hạnh phúc](https://vnexpress.net/yeu-anh-di-em-se-thay-thu-vi-va-hanh-phuc-4881519.html) - 14:20 04/05/2025
-- 😺 [Tìm người đàn ông có học thức, nhân hậu](https://vnexpress.net/tim-nguoi-dan-ong-co-hoc-thuc-nhan-hau-4881518.html) - 14:19 04/05/2025
-- 🤔 [Mẹ đơn thân 9x tìm bố đơn thân yêu trẻ em](https://vnexpress.net/me-don-than-9x-tim-bo-don-than-yeu-tre-em-4881524.html) - 14:19 04/05/2025
-- 🌮 [Thị trưởng Mexico bị cáo buộc cấu kết với băng đảng lập &#39;trại trừ khử&#39;](https://vnexpress.net/thi-truong-mexico-bi-cao-buoc-cau-ket-voi-bang-dang-lap-trai-tru-khu-4881488.html) - 14:11 04/05/2025
-- 🦩 [Không thể quên tình cũ dù rất thương yêu vợ con](https://vnexpress.net/khong-the-quen-tinh-cu-du-rat-thuong-yeu-vo-con-4881036.html) - 14:00 04/05/2025
-- 📝 [Mbappe lập cú đúp, Real đeo bám Barca](https://vnexpress.net/mbappe-lap-cu-dup-real-deo-bam-barca-4881504.html) - 13:55 04/05/2025
-- 🕴 [Lưới phòng không Israel thất bại trước tên lửa đạn đạo Houthi](https://vnexpress.net/luoi-phong-khong-israel-that-bai-truoc-ten-lua-dan-dao-houthi-4881474.html) - 13:48 04/05/2025
-- 🐲 [Đoàn xe doanh nhân tự ý chặn quốc lộ gây bức xúc](https://vnexpress.net/doan-xe-doanh-nhan-tu-y-chan-quoc-lo-gay-buc-xuc-4881500.html) - 13:48 04/05/2025
-- 🌜 [HAGL thua ngược đội áp chót V-League](https://vnexpress.net/hagl-thua-nguoc-doi-ap-chot-v-league-4881511.html) - 13:44 04/05/2025
-- 💄 [Việt Nam có podium đầu tiên tại giải đua Môtô châu Á 2025](https://vnexpress.net/viet-nam-co-podium-dau-tien-tai-giai-dua-moto-chau-a-2025-4881498.html) - 13:20 04/05/2025
-- 🌁 [Dấu hiệu nào cho biết thế giới có Giáo hoàng mới?](https://vnexpress.net/dau-hieu-nao-cho-biet-the-gioi-co-giao-hoang-moi-4881435.html) - 13:00 04/05/2025
-- 🎬 [Tổng thống Sri Lanka dâng hương tại chùa Bái Đính](https://vnexpress.net/tong-thong-sri-lanka-dang-huong-tai-chua-bai-dinh-4881497.html) - 12:57 04/05/2025
-- 👨‍🏫 [Lý do một người &#39;mãi không ai yêu&#39;](https://vnexpress.net/ly-do-mot-nguoi-mai-khong-ai-yeu-4881298.html) - 12:54 04/05/2025
-- ⚗️ [7 ứng viên nổi bật trước thềm Miss World](https://vnexpress.net/7-ung-vien-noi-bat-truoc-them-miss-world-4881459.html) - 12:30 04/05/2025
-- 😺 [Kế hoạch nuôi cá vược trên Mặt Trăng](https://vnexpress.net/ke-hoach-nuoi-ca-vuoc-tren-mat-trang-4881484.html) - 12:27 04/05/2025
-- 🔥 [Hàng trăm người bị say nắng khi chờ chiêm bái xá lợi Đức Phật](https://vnexpress.net/hang-tram-nguoi-bi-say-nang-khi-cho-chiem-bai-xa-loi-duc-phat-4881492.html) - 12:26 04/05/2025
-- 🧰 [Giá vàng thế giới có thể giảm tuần thứ ba liên tiếp](https://vnexpress.net/gia-vang-the-gioi-co-the-giam-tuan-thu-ba-lien-tiep-4881481.html) - 12:23 04/05/2025
-- 🦒 [Thấy chết không cứu](https://vnexpress.net/thay-chet-khong-cuu-4881496.html) - 12:17 04/05/2025
-- ⛽️ [Không tuyển được gần 60.000 biên chế giáo viên](https://vnexpress.net/khong-tuyen-duoc-gan-60-000-bien-che-giao-vien-4881466.html) - 12:15 04/05/2025
-- 🚀 [Draper đẩy Djokovic khỏi top 5 ATP](https://vnexpress.net/draper-day-djokovic-khoi-top-5-atp-4881430.html) - 12:10 04/05/2025
-- 🪜 [Bi kịch của người vợ chống lại cơn bạo hành của chồng vũ phu](https://vnexpress.net/bi-kich-cua-nguoi-vo-chong-lai-con-bao-hanh-cua-chong-vu-phu-4881468.html) - 12:04 04/05/2025
-- 🚦 [Vỡ mộng du học nghề &#39;có 100 triệu đồng gửi về nhà mỗi tháng&#39;](https://vnexpress.net/du-hoc-nghe-vo-mong-du-hoc-nghe-co-100-trieu-dong-gui-ve-nha-moi-thang-4881456.html) - 12:00 04/05/2025
-- 🕯 [Nguồn lây cúm đến từ đâu?](https://vnexpress.net/nguon-lay-cum-den-tu-dau-4881364.html) - 12:00 04/05/2025
-- 💪 [VĐV quốc tế tập luyện cho show thể thao mạo hiểm tại Cát Bà](https://vnexpress.net/vdv-quoc-te-tap-luyen-cho-show-the-thao-mao-hiem-tai-cat-ba-4881489.html) - 11:40 04/05/2025
-- 🧑‍🏫 [Đoàn Việt Nam hợp luyện duyệt binh tại Quảng trường Đỏ](https://vnexpress.net/doan-viet-nam-hop-luyen-duyet-binh-tai-quang-truong-do-4881482.html) - 11:37 04/05/2025
-- 🎓 [Cửa ngõ Hà Nội, TP HCM không ùn tắc ngày cuối nghỉ lễ](https://vnexpress.net/cua-ngo-ha-noi-tp-hcm-khong-un-tac-ngay-cuoi-nghi-le-4881462.html) - 11:30 04/05/2025
-- 💫 [Nơi đặt đại bản doanh của SpaceX được công nhận là thành phố mới](https://vnexpress.net/noi-dat-dai-ban-doanh-cua-spacex-duoc-cong-nhan-la-thanh-pho-moi-4881460.html) - 11:22 04/05/2025
-- 🤩 [Có nên từ bỏ bạn gái bị bệnh hiểm nghèo để cưới đại người gần nhà](https://vnexpress.net/co-nen-tu-bo-ban-gai-bi-benh-hiem-ngheo-de-cuoi-dai-nguoi-gan-nha-4881399.html) - 11:00 04/05/2025
-- 🏊 [8 món đồ thập niên 1990 không lỗi mốt](https://vnexpress.net/8-mon-do-thap-nien-1990-khong-loi-mot-4880937.html) - 11:00 04/05/2025
-- 💂 [Tai nạn giao thông giảm trong 5 ngày nghỉ lễ](https://vnexpress.net/tai-nan-giao-thong-giam-trong-5-ngay-nghi-le-4881467.html) - 10:51 04/05/2025
-- 🚀 [Võ sĩ Việt Nam nhận thưởng 1,3 tỷ đồng sau trận thắng đầu ở UFC](https://vnexpress.net/vo-si-viet-nam-nhan-thuong-1-3-ty-dong-sau-tran-thang-dau-o-ufc-4881483.html) - 10:51 04/05/2025
-- 🕴 [Các sân bay đón hơn 2 triệu khách dịp nghỉ lễ 30/4](https://vnexpress.net/cac-san-bay-don-hon-2-trieu-khach-dip-nghi-le-30-4-4881394.html) - 10:35 04/05/2025
-- 🦆 [Cảnh sát mở đường đưa người phụ nữ nguy kịch tới bệnh viện](https://vnexpress.net/canh-sat-mo-duong-dua-nguoi-phu-nu-nguy-kich-toi-benh-vien-4881470.html) - 10:33 04/05/2025
-- 💫 [Tổng Bí thư: Dứt khoát bỏ tư duy không quản được thì cấm](https://vnexpress.net/tong-bi-thu-dut-khoat-bo-tu-duy-khong-quan-duoc-thi-cam-4881453.html) - 10:06 04/05/2025<!-- vnexpress:END -->
+- 🚀 [Đàn ông hiếm muộn có phải do di truyền?](https://vnexpress.net/dan-ong-hiem-muon-co-phai-do-di-truyen-4881243.html) - 18:00 04/05/2025
+- 🧰 [Bộ ba tóc vàng hỗ trợ truyền thông cho ông Trump](https://vnexpress.net/bo-ba-toc-vang-ho-tro-truyen-thong-cho-ong-trump-4875168.html) - 18:00 04/05/2025
+- 🥰 [Đề xuất thu phí cao tốc Bến Lức - Long Thành 2.000 đồng/km](https://vnexpress.net/de-xuat-thu-phi-cao-toc-ben-luc-long-thanh-2-000-dong-km-4881499.html) - 17:15 04/05/2025
+- 🌏 [Tìm được &#39;quả ngọt&#39; ở nơi hạnh phúc nhất thế giới](https://vnexpress.net/tim-duoc-qua-ngot-o-noi-hanh-phuc-nhat-the-gioi-4881291.html) - 17:09 04/05/2025
+- 🧐 [4 con giáp tràn đầy phúc lành, may mắn trong tuần này](https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-4-con-giap-tran-day-phuc-lanh-may-man-trong-tuan-nay-4880189.html) - 17:03 04/05/2025
+- 💫 [Lật tàu vì mưa giông ở Trung Quốc, 14 người mất tích](https://vnexpress.net/lat-tau-vi-mua-giong-o-trung-quoc-14-nguoi-mat-tich-4881542.html) - 17:02 04/05/2025
+- 😺 [Sáng nay Quốc hội khai mạc, bắt đầu xem xét sửa Hiến pháp](https://vnexpress.net/sang-nay-quoc-hoi-khai-mac-bat-dau-xem-xet-sua-hien-phap-4881501.html) - 17:00 04/05/2025
+- 🕯 [Ý Nhi: &#39;Tôi muốn chứng minh bản thân ở Miss World&#39;](https://vnexpress.net/y-nhi-toi-muon-chung-minh-ban-than-o-miss-world-4881485.html) - 17:00 04/05/2025
+- 💃 [Warren Buffett: Chứng khoán biến động thời gian qua &#39;không đáng kể&#39;](https://vnexpress.net/warren-buffett-chung-khoan-bien-dong-thoi-gian-qua-khong-dang-ke-4881473.html) - 17:00 04/05/2025
+- 💂 [Dì ruột trở mặt sau tám năm vay tiền tôi và mẹ](https://vnexpress.net/cho-nguoi-than-vay-tien-di-ruot-tro-mat-sau-tam-nam-vay-tien-toi-va-me-4881469.html) - 17:00 04/05/2025
+- 🎊 [Sau 500 ngày yêu, chúng tôi có đám cưới hạnh phúc](https://vnexpress.net/sau-500-ngay-yeu-chung-toi-co-dam-cuoi-hanh-phuc-4881442.html) - 17:00 04/05/2025
+- 🤠 [Giấc mơ về những mái nhà lành lặn](https://vnexpress.net/giac-mo-ve-nhung-mai-nha-lanh-lan-4878237.html) - 17:00 04/05/2025
+- 🌈 [Hải Phòng 100 năm trước](https://vnexpress.net/hai-phong-100-nam-truoc-4869373.html) - 17:00 04/05/2025
+- 🎬 [Xiaomi bị phản đối vì cập nhật phần mềm làm xe điện yếu hơn](https://vnexpress.net/xiaomi-bi-phan-doi-vi-cap-nhat-phan-mem-lam-xe-dien-yeu-hon-4881527.html) - 17:00 04/05/2025
+- 🚀 [Brazil phá âm mưu đánh bom nhạc hội của Lady Gaga](https://vnexpress.net/brazil-pha-am-muu-danh-bom-nhac-hoi-cua-lady-gaga-4881541.html) - 16:52 04/05/2025
+- 🪄 [Phim Lý Hải, Victor Vũ cạnh tranh sát sao dịp lễ 30/4](https://vnexpress.net/phim-ly-hai-victor-vu-canh-tranh-sat-sao-dip-le-30-4-4881536.html) - 16:13 04/05/2025
+- 😎 [Hamas xử tử nhóm cướp bóc lương thực của người Gaza](https://vnexpress.net/hamas-xu-tu-nhom-cuop-boc-luong-thuc-cua-nguoi-gaza-4881537.html) - 15:48 04/05/2025
+- 🎊 [Xuân Son nhảy múa khi Nam Định thắng đậm Hà Nội FC](https://vnexpress.net/xuan-son-nhay-mua-khi-nam-dinh-thang-dam-ha-noi-fc-4881539.html) - 15:48 04/05/2025
+- ⚗️ [Ông Trump: Tôi sẽ làm Tổng thống trong 8 năm](https://vnexpress.net/ong-trump-toi-se-lam-tong-thong-trong-8-nam-4881526.html) - 15:00 04/05/2025
+- 🫣 [Man Utd suýt giành điểm dù bị dẫn ba bàn ở Ngoại hạng Anh](https://vnexpress.net/man-utd-suyt-gianh-diem-du-bi-dan-ba-ban-o-ngoai-hang-anh-4881531.html) - 14:57 04/05/2025
+- 👨‍🏫 [Chỉ cần ở anh sự tử tế và chân thành là đủ](https://vnexpress.net/chi-can-o-anh-su-tu-te-va-chan-thanh-la-du-4881521.html) - 14:29 04/05/2025
+- 🐻 [Anh có thể tìm em ở Hải Phòng không, cô gái?](https://vnexpress.net/anh-co-the-tim-em-o-hai-phong-khong-co-gai-4881522.html) - 14:28 04/05/2025
+- 😺 [Em hướng nội, thích những điều đơn giản và bền lâu](https://vnexpress.net/em-huong-noi-thich-nhung-dieu-don-gian-va-ben-lau-4881523.html) - 14:28 04/05/2025
+- 🤔 [99 trường xét điểm đánh thi giá năng lực Đại học Quốc gia Hà Nội](https://vnexpress.net/99-truong-xet-diem-danh-thi-gia-nang-luc-dai-hoc-quoc-gia-ha-noi-4881445.html) - 14:22 04/05/2025
+- 🌮 [Mexico khước từ đề xuất &#39;điều quân qua biên giới&#39; của ông Trump](https://vnexpress.net/mexico-khuoc-tu-de-xuat-dieu-quan-qua-bien-gioi-cua-ong-trump-4881503.html) - 14:20 04/05/2025
+- 🦩 [Mong anh là người thiện tri thức để mình cùng sống tốt mỗi ngày](https://vnexpress.net/mong-anh-la-nguoi-thien-tri-thuc-de-minh-cung-song-tot-moi-ngay-4881520.html) - 14:20 04/05/2025
+- 📝 [Yêu anh đi, em sẽ thấy thú vị và hạnh phúc](https://vnexpress.net/yeu-anh-di-em-se-thay-thu-vi-va-hanh-phuc-4881519.html) - 14:20 04/05/2025
+- 🕴 [Tìm người đàn ông có học thức, nhân hậu](https://vnexpress.net/tim-nguoi-dan-ong-co-hoc-thuc-nhan-hau-4881518.html) - 14:19 04/05/2025
+- 🐲 [Mẹ đơn thân 9x tìm bố đơn thân yêu trẻ em](https://vnexpress.net/me-don-than-9x-tim-bo-don-than-yeu-tre-em-4881524.html) - 14:19 04/05/2025
+- 🌜 [Thị trưởng Mexico bị cáo buộc cấu kết với băng đảng lập &#39;trại trừ khử&#39;](https://vnexpress.net/thi-truong-mexico-bi-cao-buoc-cau-ket-voi-bang-dang-lap-trai-tru-khu-4881488.html) - 14:11 04/05/2025
+- 💄 [Không thể quên tình cũ dù rất thương yêu vợ con](https://vnexpress.net/khong-the-quen-tinh-cu-du-rat-thuong-yeu-vo-con-4881036.html) - 14:00 04/05/2025
+- 🌁 [Mbappe lập cú đúp, Real đeo bám Barca](https://vnexpress.net/mbappe-lap-cu-dup-real-deo-bam-barca-4881504.html) - 13:55 04/05/2025
+- 🎬 [Lưới phòng không Israel thất bại trước tên lửa đạn đạo Houthi](https://vnexpress.net/luoi-phong-khong-israel-that-bai-truoc-ten-lua-dan-dao-houthi-4881474.html) - 13:48 04/05/2025
+- 👨‍🏫 [Đoàn xe doanh nhân tự ý chặn quốc lộ gây bức xúc](https://vnexpress.net/doan-xe-doanh-nhan-tu-y-chan-quoc-lo-gay-buc-xuc-4881500.html) - 13:48 04/05/2025
+- ⚗️ [HAGL thua ngược đội áp chót V-League](https://vnexpress.net/hagl-thua-nguoc-doi-ap-chot-v-league-4881511.html) - 13:44 04/05/2025
+- 😺 [Việt Nam có podium đầu tiên tại giải đua Môtô châu Á 2025](https://vnexpress.net/viet-nam-co-podium-dau-tien-tai-giai-dua-moto-chau-a-2025-4881498.html) - 13:20 04/05/2025
+- 🔥 [Dấu hiệu nào cho biết thế giới có Giáo hoàng mới?](https://vnexpress.net/dau-hieu-nao-cho-biet-the-gioi-co-giao-hoang-moi-4881435.html) - 13:00 04/05/2025
+- 🧰 [Tổng thống Sri Lanka dâng hương tại chùa Bái Đính](https://vnexpress.net/tong-thong-sri-lanka-dang-huong-tai-chua-bai-dinh-4881497.html) - 12:57 04/05/2025
+- 🦒 [Lý do một người &#39;mãi không ai yêu&#39;](https://vnexpress.net/ly-do-mot-nguoi-mai-khong-ai-yeu-4881298.html) - 12:54 04/05/2025
+- ⛽️ [7 ứng viên nổi bật trước thềm Miss World](https://vnexpress.net/7-ung-vien-noi-bat-truoc-them-miss-world-4881459.html) - 12:30 04/05/2025
+- 🚀 [Kế hoạch nuôi cá vược trên Mặt Trăng](https://vnexpress.net/ke-hoach-nuoi-ca-vuoc-tren-mat-trang-4881484.html) - 12:27 04/05/2025
+- 🪜 [Hàng trăm người bị say nắng khi chờ chiêm bái xá lợi Đức Phật](https://vnexpress.net/hang-tram-nguoi-bi-say-nang-khi-cho-chiem-bai-xa-loi-duc-phat-4881492.html) - 12:26 04/05/2025
+- 🚦 [Giá vàng thế giới có thể giảm tuần thứ ba liên tiếp](https://vnexpress.net/gia-vang-the-gioi-co-the-giam-tuan-thu-ba-lien-tiep-4881481.html) - 12:23 04/05/2025
+- 🕯 [Thấy chết không cứu](https://vnexpress.net/thay-chet-khong-cuu-4881496.html) - 12:17 04/05/2025
+- 💪 [Không tuyển được gần 60.000 biên chế giáo viên](https://vnexpress.net/khong-tuyen-duoc-gan-60-000-bien-che-giao-vien-4881466.html) - 12:15 04/05/2025
+- 🧑‍🏫 [Draper đẩy Djokovic khỏi top 5 ATP](https://vnexpress.net/draper-day-djokovic-khoi-top-5-atp-4881430.html) - 12:10 04/05/2025
+- 🎓 [Bi kịch của người vợ chống lại cơn bạo hành của chồng vũ phu](https://vnexpress.net/bi-kich-cua-nguoi-vo-chong-lai-con-bao-hanh-cua-chong-vu-phu-4881468.html) - 12:04 04/05/2025
+- 💫 [Vỡ mộng du học nghề &#39;có 100 triệu đồng gửi về nhà mỗi tháng&#39;](https://vnexpress.net/du-hoc-nghe-vo-mong-du-hoc-nghe-co-100-trieu-dong-gui-ve-nha-moi-thang-4881456.html) - 12:00 04/05/2025
+- 🤩 [Nguồn lây cúm đến từ đâu?](https://vnexpress.net/nguon-lay-cum-den-tu-dau-4881364.html) - 12:00 04/05/2025
+- 🏊 [VĐV quốc tế tập luyện cho show thể thao mạo hiểm tại Cát Bà](https://vnexpress.net/vdv-quoc-te-tap-luyen-cho-show-the-thao-mao-hiem-tai-cat-ba-4881489.html) - 11:40 04/05/2025
+- 💂 [Đoàn Việt Nam hợp luyện duyệt binh tại Quảng trường Đỏ](https://vnexpress.net/doan-viet-nam-hop-luyen-duyet-binh-tai-quang-truong-do-4881482.html) - 11:37 04/05/2025
+- 🚀 [Cửa ngõ Hà Nội, TP HCM không ùn tắc ngày cuối nghỉ lễ](https://vnexpress.net/cua-ngo-ha-noi-tp-hcm-khong-un-tac-ngay-cuoi-nghi-le-4881462.html) - 11:30 04/05/2025
+- 🕴 [Nơi đặt đại bản doanh của SpaceX được công nhận là thành phố mới](https://vnexpress.net/noi-dat-dai-ban-doanh-cua-spacex-duoc-cong-nhan-la-thanh-pho-moi-4881460.html) - 11:22 04/05/2025
+- 🦆 [Có nên từ bỏ bạn gái bị bệnh hiểm nghèo để cưới đại người gần nhà](https://vnexpress.net/co-nen-tu-bo-ban-gai-bi-benh-hiem-ngheo-de-cuoi-dai-nguoi-gan-nha-4881399.html) - 11:00 04/05/2025
+- 💫 [8 món đồ thập niên 1990 không lỗi mốt](https://vnexpress.net/8-mon-do-thap-nien-1990-khong-loi-mot-4880937.html) - 11:00 04/05/2025<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
