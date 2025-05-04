@@ -591,10 +591,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- hoahoctro:START -->
 - 💼 [HIGHLIGHTS Hà Nội FC vs Nam Định: Cú sốc tại Hàng Đẫy](https://tienphong.vn/highlights-ha-noi-fc-vs-nam-dinh-cu-soc-tai-hang-day-post1739379.tpo) - 21:53 04/05/2025
 - 🎊 [Tổng thống Sri Lanka cắt băng khánh thành khuôn viên cây Bồ đề thiêng tại chùa Bái Đính](https://tienphong.vn/tong-thong-sri-lanka-cat-bang-khanh-thanh-khuon-vien-cay-bo-de-thieng-tai-chua-bai-dinh-post1739364.tpo) - 21:52 04/05/2025
-- 💼 [Trực tiếp Chelsea vs Liverpool 1-0 &lpar;H1&rpar;: Liverpool bế tắc](https://tienphong.vn/truc-tiep-chelsea-vs-liverpool-1-0-h1-liverpool-be-tac-post1739373.tpo) - 21:45 04/05/2025
+- 💼 [Liverpool thua đậm Chelsea sau khi đã vô địch Ngoại hạng](https://tienphong.vn/liverpool-thua-dam-chelsea-sau-khi-da-vo-dich-ngoai-hang-post1739373.tpo) - 21:45 04/05/2025
 - 👺 [Tình trạng đáng lo ngại của ông nội quốc dân](https://tienphong.vn/tinh-trang-dang-lo-ngai-cua-ong-noi-quoc-dan-post1739331.tpo) - 21:40 04/05/2025
 - 💪 [Showbiz 4/5: Tiết Cương từ chối quảng cáo sữa](https://tienphong.vn/showbiz-45-tiet-cuong-tu-choi-quang-cao-sua-post1739374.tpo) - 21:32 04/05/2025
-- 💃 [Hơn 12.600 chuyến bay chở khách dịp 30/4](https://tienphong.vn/hon-12600-chuyen-bay-cho-khach-dip-304-post1739304.tpo) - 21:26 04/05/2025
+- 💃 [Bất ngờ về chuyến bay chở khách dịp 30/4](https://tienphong.vn/bat-ngo-ve-chuyen-bay-cho-khach-dip-304-post1739304.tpo) - 21:26 04/05/2025
 - 🦍 [Các địa phương đã sẵn sàng mặt bằng, vật liệu làm đường sắt tốc độ cao](https://tienphong.vn/cac-dia-phuong-da-san-sang-mat-bang-vat-lieu-lam-duong-sat-toc-do-cao-post1739377.tpo) - 21:23 04/05/2025
 - 👹 [Bộ Nội vụ lên tiếng về thông tin &#39;liệt sĩ 6 tuổi&#39;](https://tienphong.vn/bo-noi-vu-len-tieng-ve-thong-tin-liet-si-6-tuoi-post1739376.tpo) - 21:20 04/05/2025
 - 🌜 [Ngắm những bức ảnh tuyệt đẹp về &#39;Đất nước ngàn hoa&#39;](https://tienphong.vn/ngam-nhung-buc-anh-tuyet-dep-ve-dat-nuoc-ngan-hoa-post1739301.tpo) - 21:19 04/05/2025
