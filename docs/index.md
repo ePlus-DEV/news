@@ -530,7 +530,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥷 [Messi ghi bàn đẳng cấp, giúp Inter Miami thoát chuỗi thua](https://muctim.tuoitre.vn/messi-ghi-ban-dang-cap-giup-inter-miami-thoat-chuoi-thua-101250504092805993.htm) - 06:35 04/05/2025
 - 🤖 [Tỉnh nào có diện tích lớn nhất cả nước sau sáp nhập?](https://muctim.tuoitre.vn/tinh-nao-co-dien-tich-lon-nhat-ca-nuoc-sau-sap-nhap-101250503134407014.htm) - 02:09 04/05/2025
 - 🤓 [Vòng nguyệt quế Đường đến vinh quang gọi tên nam sinh Trường THPT Trương Định](https://muctim.tuoitre.vn/vong-nguyet-que-duong-den-vinh-quang-goi-ten-nam-sinh-truong-thpt-truong-dinh-10125050401592544.htm) - 02:08 04/05/2025
-- 🎉 [Nguồn năng lượng mới](https://muctim.tuoitre.vn/nguon-nang-luong-moi-101250429153234362.htm) - 01:55 04/05/2025
+- 🎉 [Quiz: Nguồn năng lượng mới](https://muctim.tuoitre.vn/nguon-nang-luong-moi-101250429153234362.htm) - 01:55 04/05/2025
 - 👨‍🏫 [Tác giả bộ ảnh lễ diễu binh 30-4 viral mạng xã hội là bạn trẻ ở TP.HCM](https://muctim.tuoitre.vn/tac-gia-bo-anh-le-dieu-binh-30-4-viral-mang-xa-hoi-la-ban-tre-o-tphcm-101250503221436549.htm) - 01:53 04/05/2025
 - 🚦 [Teen bắt nhịp kỷ nguyên số - Kỳ 2: &#39;Chill&#39; cùng AI](https://muctim.tuoitre.vn/teen-bat-nhip-ky-nguyen-so-ky-2-chill-cung-ai-101250429163514072.htm) - 13:43 03/05/2025
 - 🤭 [Đường đến chùa Thanh Tâm &lpar;chùa Phật cô đơn&rpar; chiêm bái Xá lợi Phật](https://muctim.tuoitre.vn/duong-den-chua-thanh-tam-chua-phat-co-don-chiem-bai-xa-loi-phat-101250503185607354.htm) - 13:41 03/05/2025
