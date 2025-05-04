@@ -592,7 +592,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- hoahoctro:START -->
 - 💼 [HIGHLIGHTS Hà Nội FC vs Nam Định: Cú sốc tại Hàng Đẫy](https://tienphong.vn/highlights-ha-noi-fc-vs-nam-dinh-cu-soc-tai-hang-day-post1739379.tpo) - 21:53 04/05/2025
 - 🎊 [Tổng thống Sri Lanka cắt băng khánh thành khuôn viên cây Bồ đề thiêng tại chùa Bái Đính](https://tienphong.vn/tong-thong-sri-lanka-cat-bang-khanh-thanh-khuon-vien-cay-bo-de-thieng-tai-chua-bai-dinh-post1739364.tpo) - 21:52 04/05/2025
-- 💼 [Trực tiếp Chelsea vs Liverpool, 22h30 ngày 4/5: Thách thức nhà vô địch](https://tienphong.vn/truc-tiep-chelsea-vs-liverpool-22h30-ngay-45-thach-thuc-nha-vo-dich-post1739373.tpo) - 21:45 04/05/2025
+- 💼 [Trực tiếp Chelsea vs Liverpool 1-0 &lpar;H1&rpar;: Liverpool bế tắc](https://tienphong.vn/truc-tiep-chelsea-vs-liverpool-1-0-h1-liverpool-be-tac-post1739373.tpo) - 21:45 04/05/2025
 - 👺 [Tình trạng đáng lo ngại của ông nội quốc dân](https://tienphong.vn/tinh-trang-dang-lo-ngai-cua-ong-noi-quoc-dan-post1739331.tpo) - 21:40 04/05/2025
 - 💪 [Showbiz 4/5: Tiết Cương từ chối quảng cáo sữa](https://tienphong.vn/showbiz-45-tiet-cuong-tu-choi-quang-cao-sua-post1739374.tpo) - 21:32 04/05/2025
 - 💃 [Hơn 12.600 chuyến bay chở khách dịp 30/4](https://tienphong.vn/hon-12600-chuyen-bay-cho-khach-dip-304-post1739304.tpo) - 21:26 04/05/2025
