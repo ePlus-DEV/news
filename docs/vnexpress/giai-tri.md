@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [TP HCM - muôn vị nhân gian](https://vnexpress.net/tp-hcm-muon-vi-nhan-gian-4881024.html) - 17:00 03/05/2025
-- 💫 [Victor Vũ: &#39;Tôi chê thẳng khi vợ diễn tệ&#39;](https://vnexpress.net/victor-vu-toi-che-thang-khi-vo-dien-te-4880886.html) - 17:00 03/05/2025
-- 🌮 [Khán giả khóc khi xem &#39;Lật mặt 8&#39;](https://vnexpress.net/khan-gia-khoc-khi-xem-lat-mat-8-4880986.html) - 13:00 03/05/2025
-- 🧠 [Thanh Thủy dự sự kiện bên dàn mỹ nhân Indonesia](https://vnexpress.net/thanh-thuy-du-su-kien-ben-dan-my-nhan-indonesia-4881265.html) - 12:34 03/05/2025
-- 👨‍🏫 [Minh tinh Nhật thừa nhận bị rối loạn lưỡng cực](https://vnexpress.net/minh-tinh-nhat-thua-nhan-bi-roi-loan-luong-cuc-4881237.html) - 09:45 03/05/2025
-- ⚗️ [Vẻ đẹp khỏe khoắn của nữ chính &#39;Thunderbolts&#39;](https://vnexpress.net/ve-dep-khoe-khoan-cua-nu-chinh-thunderbolts-4880912.html) - 08:11 03/05/2025
-- 😎 [Vợ Justin Bieber mặc đầm làm từ 500 dây đeo đồng hồ](https://vnexpress.net/vo-justin-bieber-mac-dam-lam-tu-500-day-deo-dong-ho-4881188.html) - 06:29 03/05/2025
-- 🫣 [Doãn Hải My, Đoàn Văn Hậu làm tiệc thôi nôi cho con trai](https://vnexpress.net/doan-hai-my-doan-van-hau-lam-tiec-thoi-noi-cho-con-trai-4881182.html) - 04:55 03/05/2025
-- 🪄 [Sắc vóc Miss Universe Philippines 2025](https://vnexpress.net/sac-voc-miss-universe-philippines-2025-4881168.html) - 04:49 03/05/2025
-- 🤓 [Triệu Hựu Đình: &#39;Cao Viên Viên không kiểm soát tiền của tôi&#39;](https://vnexpress.net/trieu-huu-dinh-cao-vien-vien-khong-kiem-soat-tien-cua-toi-4881163.html) - 03:59 03/05/2025
-- 🫶 [Quỳnh Hoa, Hương Thủy tái ngộ khi làm mẫu áo dài](https://vnexpress.net/quynh-hoa-huong-thuy-tai-ngo-khi-lam-mau-ao-dai-4880990.html) - 02:44 03/05/2025
-- 🧑‍🏫 [Vận động viên cao hơn 2 m đóng ma da trong &#39;Thám tử Kiên&#39;](https://vnexpress.net/van-dong-vien-cao-hon-2-m-dong-ma-da-trong-tham-tu-kien-4881100.html) - 02:25 03/05/2025
-- 🦄 [&#39;Mission: Impossible&#39; cùng loạt phim quốc tế ra rạp tháng 5](https://vnexpress.net/mission-impossible-cung-loat-phim-quoc-te-ra-rap-thang-5-4880919.html) - 01:08 03/05/2025
-- 💫 [Người mẫu 28 tuổi đăng quang Miss Universe Philippines](https://vnexpress.net/nguoi-mau-28-tuoi-dang-quang-miss-universe-philippines-4881107.html) - 00:54 03/05/2025
-- 🎊 [Sài Gòn - trăm năm biến thiên trong tà áo](https://vnexpress.net/sai-gon-tram-nam-bien-thien-trong-ta-ao-4878641.html) - 17:00 02/05/2025
-- 👹 [Nguyễn Hoàng Mỹ Vân - ứng viên tiềm năng tại Hoa hậu Việt Nam](https://vnexpress.net/nguyen-hoang-my-van-ung-vien-tiem-nang-tai-hoa-hau-viet-nam-4880957.html) - 13:17 02/05/2025
-- 💻 [Tiết mục &#39;Mùa xuân trên Thành phố Hồ Chí Minh&#39; được yêu thích](https://vnexpress.net/tiet-muc-mua-xuan-tren-thanh-pho-ho-chi-minh-duoc-yeu-thich-4880797.html) - 13:07 02/05/2025
-- 🤡 [Váy áo mùa hè của Tăng Thanh Hà](https://vnexpress.net/vay-ao-mua-he-cua-tang-thanh-ha-4878950.html) - 12:00 02/05/2025
-- 🥰 [Maroon 5 tung MV kết hợp Lisa](https://vnexpress.net/maroon-5-tung-mv-ket-hop-lisa-4881004.html) - 10:44 02/05/2025
-- 🚀 [Phương Mỹ Chi, Bảo Anh thi &#39;Em xinh say hi&#39;](https://vnexpress.net/phuong-my-chi-bao-anh-thi-em-xinh-say-hi-4880929.html) - 08:19 02/05/2025
-- 📝 [Hai con trai của Trương Bá Chi, Tạ Đình Phong](https://vnexpress.net/hai-con-trai-cua-truong-ba-chi-ta-dinh-phong-4880966.html) - 08:09 02/05/2025
-- 🐲 [Hồ Ngọc Hà, Noo Phước Thịnh làm mới &#39;Tình đầu quá chén&#39;](https://vnexpress.net/ho-ngoc-ha-noo-phuoc-thinh-lam-moi-tinh-dau-qua-chen-4880718.html) - 05:53 02/05/2025
-- 🎃 [&#39;Năm 1975 họ đã sống như thế&#39;](https://vnexpress.net/nam-1975-ho-da-song-nhu-the-4879501.html) - 05:31 02/05/2025
-- 🤠 [Robert De Niro ủng hộ con chuyển giới](https://vnexpress.net/robert-de-niro-ung-ho-con-chuyen-gioi-4880870.html) - 05:11 02/05/2025
-- 🎭 [Thời trang nghỉ lễ của giới trẻ Việt](https://vnexpress.net/thoi-trang-nghi-le-cua-gioi-tre-viet-4880622.html) - 04:10 02/05/2025
-- 🧰 [Lưu Thi Thi tung võ ở phim cổ trang](https://vnexpress.net/luu-thi-thi-tung-vo-o-phim-co-trang-4880866.html) - 03:01 02/05/2025
-- 🦍 [Noo Phước Thịnh hát ăn ý với Mono, Quân A.P](https://vnexpress.net/noo-phuoc-thinh-hat-an-y-voi-mono-quan-a-p-4880778.html) - 02:00 02/05/2025
-- 🌝 [&#39;Lật mặt 8&#39; của Lý Hải vượt 100 tỷ đồng](https://vnexpress.net/lat-mat-8-cua-ly-hai-vuot-100-ty-dong-4880795.html) - 01:39 02/05/2025
-- 🧑‍💻 [Dàn sao &#39;Ván bài lật ngửa&#39; ngày ấy, bây giờ](https://vnexpress.net/dan-sao-van-bai-lat-ngua-ngay-ay-bay-gio-4880577.html) - 17:00 01/05/2025
-- 🥸 [Phong cách đời thường của Phương Ly](https://vnexpress.net/phong-cach-doi-thuong-cua-phuong-ly-4879749.html) - 12:00 01/05/2025
-- 🔥 [NSƯT Lê Thiện diễn lay động cảnh &#39;tìm con sau ngày thống nhất&#39;](https://vnexpress.net/nsut-le-thien-dien-lay-dong-canh-tim-con-sau-ngay-thong-nhat-4880685.html) - 10:25 01/05/2025
-- 🐎 [Giọng nữ phát thanh Việt từng gây ám ảnh lính Mỹ](https://vnexpress.net/giong-nu-phat-thanh-viet-tung-gay-am-anh-linh-my-4880682.html) - 07:45 01/05/2025
-- 😎 [Con gái 12 tuổi của Lý Hải](https://vnexpress.net/con-gai-12-tuoi-cua-ly-hai-4880658.html) - 05:46 01/05/2025
-- 🦄 [&#39;Cánh đồng hoang&#39; - khốc liệt và trữ tình](https://vnexpress.net/canh-dong-hoang-khoc-liet-va-tru-tinh-4870998.html) - 05:19 01/05/2025
-- 🌜 [Loạt sách kỷ niệm 50 năm thống nhất đất nước](https://vnexpress.net/loat-sach-ky-niem-50-nam-thong-nhat-dat-nuoc-4879805.html) - 03:48 01/05/2025
-- 🚦 [Tín Nguyễn: &#39;Tôi từng chịu nhiều công kích&#39;](https://vnexpress.net/tin-nguyen-toi-tung-chiu-nhieu-cong-kich-4879715.html) - 03:26 01/05/2025
-- 🧐 [&#39;Bad Influence&#39; - góc khuất của các ngôi sao nhí trên Internet](https://vnexpress.net/giai-tri/phim/thu-vien-phim/bad-influence-the-dark-side-of-kidfluencing-803) - 02:13 01/05/2025
-- 🐵 [&#39;Đất nước trọn niềm vui&#39; - giai điệu khải hoàn](https://vnexpress.net/dat-nuoc-tron-niem-vui-giai-dieu-khai-hoan-4880257.html) - 02:03 01/05/2025
-- ⚗️ [&#39;Lật mặt 8&#39; - hình ảnh bắt mắt, kịch bản an toàn](https://vnexpress.net/giai-tri/phim/thu-vien-phim/lat-mat-8-vong-tay-nang-804) - 17:00 30/04/2025
-- 👺 [Noo Phước Thịnh tập luyện cho concert](https://vnexpress.net/noo-phuoc-thinh-tap-luyen-cho-concert-4880507.html) - 14:02 30/04/2025
-- 🌊 [Đạt G cầu hôn Cindy Lư](https://vnexpress.net/dat-g-cau-hon-cindy-lu-4880520.html) - 13:39 30/04/2025
-- 🪜 [The Rock hóa thân võ sĩ MMA](https://vnexpress.net/the-rock-hoa-than-vo-si-mma-4880427.html) - 13:09 30/04/2025
-- 🕴 [&#39;Nối vòng tay lớn&#39; - khúc ca đoàn kết](https://vnexpress.net/noi-vong-tay-lon-khuc-ca-doan-ket-4880382.html) - 13:00 30/04/2025
-- 💃 [LHP Cannes 2025 sẽ vinh danh Nicole Kidman](https://vnexpress.net/lhp-cannes-2025-se-vinh-danh-nicole-kidman-4880451.html) - 09:55 30/04/2025
-- 🦄 [Anh em Johnny Trí Nguyễn làm phần hai &#39;Dòng máu anh hùng&#39;](https://vnexpress.net/anh-em-johnny-tri-nguyen-lam-phan-hai-dong-mau-anh-hung-4880458.html) - 09:20 30/04/2025
-- ⛽️ [Vẻ đẹp vượt thời gian của các Mẹ Việt Nam anh hùng](https://vnexpress.net/ve-dep-vuot-thoi-gian-cua-cac-me-viet-nam-anh-hung-4880440.html) - 09:00 30/04/2025
-- 😎 [&#39;Thunderbolts&#39; của Marvel được nhận xét tích cực](https://vnexpress.net/thunderbolts-cua-marvel-duoc-nhan-xet-tich-cuc-4880379.html) - 06:32 30/04/2025
-- 🌊 [Dàn sao xuống đường xem diễu binh cùng biển người](https://vnexpress.net/dan-sao-xuong-duong-xem-dieu-binh-cung-bien-nguoi-4880419.html) - 06:15 30/04/2025
-- 🐲 [Ngày 30/4/1975 qua góc nhìn của phóng viên quốc tế](https://vnexpress.net/ngay-30-4-1975-qua-goc-nhin-cua-phong-vien-quoc-te-4880411.html) - 04:35 30/04/2025
-- 💂 [&#39;Chuyên án Miami&#39; có bản điện ảnh](https://vnexpress.net/chuyen-an-miami-co-ban-dien-anh-4880404.html) - 04:20 30/04/2025
-- 🙉 [Chương Tử Di ngã trên sân khấu](https://vnexpress.net/chuong-tu-di-nga-tren-san-khau-4880389.html) - 03:30 30/04/2025
-- 💪 [Hơn 1.000 nghệ sĩ trình diễn mở màn lễ diễu binh](https://vnexpress.net/hon-1-000-nghe-si-trinh-dien-mo-man-le-dieu-binh-4880372.html) - 02:40 30/04/2025
-- 👍 [Hoàng Thùy Linh diện loạt trang phục tôn vinh văn hóa](https://vnexpress.net/hoang-thuy-linh-dien-loat-trang-phuc-ton-vinh-van-hoa-4879959.html) - 01:42 30/04/2025
-- 💪 [Hàng nghìn khán giả hòa cùng &#39;Mùa xuân thống nhất&#39;](https://vnexpress.net/hang-nghin-khan-gia-hoa-cung-mua-xuan-thong-nhat-4880308.html) - 18:02 29/04/2025
-- 💄 [Đạo diễn Thụy Điển làm phim 30/4/1975: &#39;Tình yêu Việt Nam luôn trong tim&#39;](https://vnexpress.net/dao-dien-thuy-dien-lam-phim-30-4-1975-tinh-yeu-viet-nam-luon-trong-tim-4879215.html) - 17:23 29/04/2025
-- 🦩 [&#39;Mùa xuân thống nhất&#39; - viết tiếp câu chuyện hòa bình](https://vnexpress.net/mua-xuan-thong-nhat-viet-tiep-cau-chuyen-hoa-binh-4880277.html) - 16:13 29/04/2025
-- 🥸 [Dàn đại bác Bến Bạch Đằng - điểm đến thu hút](https://vnexpress.net/dan-dai-bac-ben-bach-dang-diem-den-thu-hut-4880220.html) - 14:59 29/04/2025
-- 🧰 [&#39;Như có Bác trong ngày đại thắng&#39; - mong ước ngày 30/4](https://vnexpress.net/nhu-co-bac-trong-ngay-dai-thang-mong-uoc-ngay-30-4-4880016.html) - 13:08 29/04/2025
-- 💼 [Lee Seung Gi đoạn tuyệt quan hệ với bố vợ](https://vnexpress.net/lee-seung-gi-doan-tuyet-quan-he-voi-bo-vo-4880173.html) - 11:00 29/04/2025
-- 🧑‍💻 [Cuộc đời nhà tình báo Phạm Ngọc Thảo qua phim tài liệu](https://vnexpress.net/cuoc-doi-nha-tinh-bao-pham-ngoc-thao-qua-phim-tai-lieu-4879375.html) - 01:09 29/04/2025<!-- vnexpress-giai-tri:END -->
+- 🌏 [&#39;Nàng thơ xứ Huế&#39; tại Hoa hậu Việt Nam](https://vnexpress.net/nang-tho-xu-hue-tai-hoa-hau-viet-nam-4881373.html) - 03:40 04/05/2025
+- 💫 [Chuyện chưa kể về những nghệ sĩ miền Nam tập kết ra Bắc](https://vnexpress.net/chuyen-chua-ke-ve-nhung-nghe-si-mien-nam-tap-ket-ra-bac-4881302.html) - 03:07 04/05/2025
+- 🌮 [Sao nhí đóng chính bản mới &#39;Ngôi nhà nhỏ trên thảo nguyên&#39;](https://vnexpress.net/sao-nhi-dong-chinh-ban-moi-ngoi-nha-nho-tren-thao-nguyen-4881342.html) - 02:59 04/05/2025
+- 🧠 [Nhà văn hóa Hữu Ngọc qua đời](https://vnexpress.net/nha-van-hoa-huu-ngoc-qua-doi-4881337.html) - 01:14 04/05/2025
+- 👨‍🏫 [TP HCM - muôn vị nhân gian](https://vnexpress.net/tp-hcm-muon-vi-nhan-gian-4881024.html) - 17:00 03/05/2025
+- ⚗️ [Victor Vũ: &#39;Tôi chê thẳng khi vợ diễn tệ&#39;](https://vnexpress.net/victor-vu-toi-che-thang-khi-vo-dien-te-4880886.html) - 17:00 03/05/2025
+- 😎 [Khán giả khóc khi xem &#39;Lật mặt 8&#39;](https://vnexpress.net/khan-gia-khoc-khi-xem-lat-mat-8-4880986.html) - 13:00 03/05/2025
+- 🫣 [Thanh Thủy dự sự kiện bên dàn mỹ nhân Indonesia](https://vnexpress.net/thanh-thuy-du-su-kien-ben-dan-my-nhan-indonesia-4881265.html) - 12:34 03/05/2025
+- 🪄 [Minh tinh Nhật thừa nhận bị rối loạn lưỡng cực](https://vnexpress.net/minh-tinh-nhat-thua-nhan-bi-roi-loan-luong-cuc-4881237.html) - 09:45 03/05/2025
+- 🤓 [Vẻ đẹp khỏe khoắn của nữ chính &#39;Thunderbolts&#39;](https://vnexpress.net/ve-dep-khoe-khoan-cua-nu-chinh-thunderbolts-4880912.html) - 08:11 03/05/2025
+- 🫶 [Vợ Justin Bieber mặc đầm làm từ 500 dây đeo đồng hồ](https://vnexpress.net/vo-justin-bieber-mac-dam-lam-tu-500-day-deo-dong-ho-4881188.html) - 06:29 03/05/2025
+- 🧑‍🏫 [Doãn Hải My, Đoàn Văn Hậu làm tiệc thôi nôi cho con trai](https://vnexpress.net/doan-hai-my-doan-van-hau-lam-tiec-thoi-noi-cho-con-trai-4881182.html) - 04:55 03/05/2025
+- 🦄 [Sắc vóc Miss Universe Philippines 2025](https://vnexpress.net/sac-voc-miss-universe-philippines-2025-4881168.html) - 04:49 03/05/2025
+- 💫 [Triệu Hựu Đình: &#39;Cao Viên Viên không kiểm soát tiền của tôi&#39;](https://vnexpress.net/trieu-huu-dinh-cao-vien-vien-khong-kiem-soat-tien-cua-toi-4881163.html) - 03:59 03/05/2025
+- 🎊 [Quỳnh Hoa, Hương Thủy tái ngộ khi làm mẫu áo dài](https://vnexpress.net/quynh-hoa-huong-thuy-tai-ngo-khi-lam-mau-ao-dai-4880990.html) - 02:44 03/05/2025
+- 👹 [Vận động viên cao hơn 2 m đóng ma da trong &#39;Thám tử Kiên&#39;](https://vnexpress.net/van-dong-vien-cao-hon-2-m-dong-ma-da-trong-tham-tu-kien-4881100.html) - 02:25 03/05/2025
+- 💻 [&#39;Mission: Impossible&#39; cùng loạt phim quốc tế ra rạp tháng 5](https://vnexpress.net/mission-impossible-cung-loat-phim-quoc-te-ra-rap-thang-5-4880919.html) - 01:08 03/05/2025
+- 🤡 [Người mẫu 28 tuổi đăng quang Miss Universe Philippines](https://vnexpress.net/nguoi-mau-28-tuoi-dang-quang-miss-universe-philippines-4881107.html) - 00:54 03/05/2025
+- 🥰 [Sài Gòn - trăm năm biến thiên trong tà áo](https://vnexpress.net/sai-gon-tram-nam-bien-thien-trong-ta-ao-4878641.html) - 17:00 02/05/2025
+- 🚀 [Nguyễn Hoàng Mỹ Vân - ứng viên tiềm năng tại Hoa hậu Việt Nam](https://vnexpress.net/nguyen-hoang-my-van-ung-vien-tiem-nang-tai-hoa-hau-viet-nam-4880957.html) - 13:17 02/05/2025
+- 📝 [Tiết mục &#39;Mùa xuân trên Thành phố Hồ Chí Minh&#39; được yêu thích](https://vnexpress.net/tiet-muc-mua-xuan-tren-thanh-pho-ho-chi-minh-duoc-yeu-thich-4880797.html) - 13:07 02/05/2025
+- 🐲 [Váy áo mùa hè của Tăng Thanh Hà](https://vnexpress.net/vay-ao-mua-he-cua-tang-thanh-ha-4878950.html) - 12:00 02/05/2025
+- 🎃 [Maroon 5 tung MV kết hợp Lisa](https://vnexpress.net/maroon-5-tung-mv-ket-hop-lisa-4881004.html) - 10:44 02/05/2025
+- 🤠 [Phương Mỹ Chi, Bảo Anh thi &#39;Em xinh say hi&#39;](https://vnexpress.net/phuong-my-chi-bao-anh-thi-em-xinh-say-hi-4880929.html) - 08:19 02/05/2025
+- 🎭 [Hai con trai của Trương Bá Chi, Tạ Đình Phong](https://vnexpress.net/hai-con-trai-cua-truong-ba-chi-ta-dinh-phong-4880966.html) - 08:09 02/05/2025
+- 🧰 [Hồ Ngọc Hà, Noo Phước Thịnh làm mới &#39;Tình đầu quá chén&#39;](https://vnexpress.net/ho-ngoc-ha-noo-phuoc-thinh-lam-moi-tinh-dau-qua-chen-4880718.html) - 05:53 02/05/2025
+- 🦍 [&#39;Năm 1975 họ đã sống như thế&#39;](https://vnexpress.net/nam-1975-ho-da-song-nhu-the-4879501.html) - 05:31 02/05/2025
+- 🌝 [Robert De Niro ủng hộ con chuyển giới](https://vnexpress.net/robert-de-niro-ung-ho-con-chuyen-gioi-4880870.html) - 05:11 02/05/2025
+- 🧑‍💻 [Thời trang nghỉ lễ của giới trẻ Việt](https://vnexpress.net/thoi-trang-nghi-le-cua-gioi-tre-viet-4880622.html) - 04:10 02/05/2025
+- 🥸 [Lưu Thi Thi tung võ ở phim cổ trang](https://vnexpress.net/luu-thi-thi-tung-vo-o-phim-co-trang-4880866.html) - 03:01 02/05/2025
+- 🔥 [Noo Phước Thịnh hát ăn ý với Mono, Quân A.P](https://vnexpress.net/noo-phuoc-thinh-hat-an-y-voi-mono-quan-a-p-4880778.html) - 02:00 02/05/2025
+- 🐎 [&#39;Lật mặt 8&#39; của Lý Hải vượt 100 tỷ đồng](https://vnexpress.net/lat-mat-8-cua-ly-hai-vuot-100-ty-dong-4880795.html) - 01:39 02/05/2025
+- 😎 [Dàn sao &#39;Ván bài lật ngửa&#39; ngày ấy, bây giờ](https://vnexpress.net/dan-sao-van-bai-lat-ngua-ngay-ay-bay-gio-4880577.html) - 17:00 01/05/2025
+- 🦄 [Phong cách đời thường của Phương Ly](https://vnexpress.net/phong-cach-doi-thuong-cua-phuong-ly-4879749.html) - 12:00 01/05/2025
+- 🌜 [NSƯT Lê Thiện diễn lay động cảnh &#39;tìm con sau ngày thống nhất&#39;](https://vnexpress.net/nsut-le-thien-dien-lay-dong-canh-tim-con-sau-ngay-thong-nhat-4880685.html) - 10:25 01/05/2025
+- 🚦 [Giọng nữ phát thanh Việt từng gây ám ảnh lính Mỹ](https://vnexpress.net/giong-nu-phat-thanh-viet-tung-gay-am-anh-linh-my-4880682.html) - 07:45 01/05/2025
+- 🧐 [Con gái 12 tuổi của Lý Hải](https://vnexpress.net/con-gai-12-tuoi-cua-ly-hai-4880658.html) - 05:46 01/05/2025
+- 🐵 [&#39;Cánh đồng hoang&#39; - khốc liệt và trữ tình](https://vnexpress.net/canh-dong-hoang-khoc-liet-va-tru-tinh-4870998.html) - 05:19 01/05/2025
+- ⚗️ [Loạt sách kỷ niệm 50 năm thống nhất đất nước](https://vnexpress.net/loat-sach-ky-niem-50-nam-thong-nhat-dat-nuoc-4879805.html) - 03:48 01/05/2025
+- 👺 [Tín Nguyễn: &#39;Tôi từng chịu nhiều công kích&#39;](https://vnexpress.net/tin-nguyen-toi-tung-chiu-nhieu-cong-kich-4879715.html) - 03:26 01/05/2025
+- 🌊 [&#39;Bad Influence&#39; - góc khuất của các ngôi sao nhí trên Internet](https://vnexpress.net/giai-tri/phim/thu-vien-phim/bad-influence-the-dark-side-of-kidfluencing-803) - 02:13 01/05/2025
+- 🪜 [&#39;Đất nước trọn niềm vui&#39; - giai điệu khải hoàn](https://vnexpress.net/dat-nuoc-tron-niem-vui-giai-dieu-khai-hoan-4880257.html) - 02:03 01/05/2025
+- 🕴 [&#39;Lật mặt 8&#39; - hình ảnh bắt mắt, kịch bản an toàn](https://vnexpress.net/giai-tri/phim/thu-vien-phim/lat-mat-8-vong-tay-nang-804) - 17:00 30/04/2025
+- 💃 [Noo Phước Thịnh tập luyện cho concert](https://vnexpress.net/noo-phuoc-thinh-tap-luyen-cho-concert-4880507.html) - 14:02 30/04/2025
+- 🦄 [Đạt G cầu hôn Cindy Lư](https://vnexpress.net/dat-g-cau-hon-cindy-lu-4880520.html) - 13:39 30/04/2025
+- ⛽️ [The Rock hóa thân võ sĩ MMA](https://vnexpress.net/the-rock-hoa-than-vo-si-mma-4880427.html) - 13:09 30/04/2025
+- 😎 [&#39;Nối vòng tay lớn&#39; - khúc ca đoàn kết](https://vnexpress.net/noi-vong-tay-lon-khuc-ca-doan-ket-4880382.html) - 13:00 30/04/2025
+- 🌊 [LHP Cannes 2025 sẽ vinh danh Nicole Kidman](https://vnexpress.net/lhp-cannes-2025-se-vinh-danh-nicole-kidman-4880451.html) - 09:55 30/04/2025
+- 🐲 [Anh em Johnny Trí Nguyễn làm phần hai &#39;Dòng máu anh hùng&#39;](https://vnexpress.net/anh-em-johnny-tri-nguyen-lam-phan-hai-dong-mau-anh-hung-4880458.html) - 09:20 30/04/2025
+- 💂 [Vẻ đẹp vượt thời gian của các Mẹ Việt Nam anh hùng](https://vnexpress.net/ve-dep-vuot-thoi-gian-cua-cac-me-viet-nam-anh-hung-4880440.html) - 09:00 30/04/2025
+- 🙉 [&#39;Thunderbolts&#39; của Marvel được nhận xét tích cực](https://vnexpress.net/thunderbolts-cua-marvel-duoc-nhan-xet-tich-cuc-4880379.html) - 06:32 30/04/2025
+- 💪 [Dàn sao xuống đường xem diễu binh cùng biển người](https://vnexpress.net/dan-sao-xuong-duong-xem-dieu-binh-cung-bien-nguoi-4880419.html) - 06:15 30/04/2025
+- 👍 [Ngày 30/4/1975 qua góc nhìn của phóng viên quốc tế](https://vnexpress.net/ngay-30-4-1975-qua-goc-nhin-cua-phong-vien-quoc-te-4880411.html) - 04:35 30/04/2025
+- 💪 [&#39;Chuyên án Miami&#39; có bản điện ảnh](https://vnexpress.net/chuyen-an-miami-co-ban-dien-anh-4880404.html) - 04:20 30/04/2025
+- 💄 [Chương Tử Di ngã trên sân khấu](https://vnexpress.net/chuong-tu-di-nga-tren-san-khau-4880389.html) - 03:30 30/04/2025
+- 🦩 [Hơn 1.000 nghệ sĩ trình diễn mở màn lễ diễu binh](https://vnexpress.net/hon-1-000-nghe-si-trinh-dien-mo-man-le-dieu-binh-4880372.html) - 02:40 30/04/2025
+- 🥸 [Hoàng Thùy Linh diện loạt trang phục tôn vinh văn hóa](https://vnexpress.net/hoang-thuy-linh-dien-loat-trang-phuc-ton-vinh-van-hoa-4879959.html) - 01:42 30/04/2025
+- 🧰 [Hàng nghìn khán giả hòa cùng &#39;Mùa xuân thống nhất&#39;](https://vnexpress.net/hang-nghin-khan-gia-hoa-cung-mua-xuan-thong-nhat-4880308.html) - 18:02 29/04/2025
+- 💼 [Đạo diễn Thụy Điển làm phim 30/4/1975: &#39;Tình yêu Việt Nam luôn trong tim&#39;](https://vnexpress.net/dao-dien-thuy-dien-lam-phim-30-4-1975-tinh-yeu-viet-nam-luon-trong-tim-4879215.html) - 17:23 29/04/2025
+- 🧑‍💻 [&#39;Như có Bác trong ngày đại thắng&#39; - mong ước ngày 30/4](https://vnexpress.net/nhu-co-bac-trong-ngay-dai-thang-mong-uoc-ngay-30-4-4880016.html) - 13:08 29/04/2025<!-- vnexpress-giai-tri:END -->
