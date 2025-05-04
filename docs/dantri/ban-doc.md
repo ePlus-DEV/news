@@ -4,10 +4,10 @@ sidebar_position: 26
 ---
 
 <!-- dantri-ban-doc:START -->
-- 🦒 [Giáo viên không thể tự bảo vệ mình!](https://dantri.com.vn/ban-doc/giao-vien-khong-the-tu-bao-ve-minh-20250503080911318.htm) - 05:09 03/05/2025
-- 🤓 [Vụ cô giáo bị tát, bắt đứng dưới mưa: Không phải cứ xin lỗi là xong](https://dantri.com.vn/ban-doc/vu-co-giao-bi-tat-bat-dung-duoi-mua-khong-phai-cu-xin-loi-la-xong-20250502195800463.htm) - 00:47 03/05/2025
-- 🐻 [Vụ giáo viên bị tát, đẩy ra đứng giữa trời mưa: Bài học đau xót!](https://dantri.com.vn/ban-doc/vu-giao-vien-bi-tat-day-ra-dung-giua-troi-mua-bai-hoc-dau-xot-20250501213510215.htm) - 14:35 01/05/2025
-- 🏊 [Lễ diễu binh kỷ niệm ngày thống nhất đất nước được bảo vệ như thế nào?](https://dantri.com.vn/xa-hoi/le-dieu-binh-ky-niem-ngay-thong-nhat-dat-nuoc-duoc-bao-ve-nhu-the-nao-20250430221740509.htm) - 23:40 30/04/2025
+- 🦒 [Từ vụ sinh viên vô lễ với cựu chiến binh: Bài học cho cả... người lớn!](https://dantri.com.vn/giao-duc/tu-vu-sinh-vien-vo-le-voi-cuu-chien-binh-bai-hoc-cho-ca-nguoi-lon-20250504074558600.htm) - 01:52 04/05/2025
+- 🤓 [Giáo viên không thể tự bảo vệ mình!](https://dantri.com.vn/ban-doc/giao-vien-khong-the-tu-bao-ve-minh-20250503080911318.htm) - 05:09 03/05/2025
+- 🐻 [Vụ cô giáo bị tát, bắt đứng dưới mưa: Không phải cứ xin lỗi là xong](https://dantri.com.vn/ban-doc/vu-co-giao-bi-tat-bat-dung-duoi-mua-khong-phai-cu-xin-loi-la-xong-20250502195800463.htm) - 00:47 03/05/2025
+- 🏊 [Vụ giáo viên bị tát, đẩy ra đứng giữa trời mưa: Bài học đau xót!](https://dantri.com.vn/ban-doc/vu-giao-vien-bi-tat-day-ra-dung-giua-troi-mua-bai-hoc-dau-xot-20250501213510215.htm) - 14:35 01/05/2025
 - 💄 [Yêu đất nước theo cách bình dị của tôi](https://dantri.com.vn/ban-doc/yeu-dat-nuoc-theo-cach-binh-di-cua-toi-20250430163850558.htm) - 09:39 30/04/2025
 - 🫣 [Khi tiền thật mua phải hàng giả](https://dantri.com.vn/ban-doc/khi-tien-that-mua-phai-hang-gia-20250429234756361.htm) - 01:32 30/04/2025
 - 🎃 [Hưởng lương ra sao nếu đi làm vào dịp nghỉ lễ 30/4 -1/5?](https://dantri.com.vn/ban-doc/huong-luong-ra-sao-neu-di-lam-vao-dip-nghi-le-304-15-20250428000429934.htm) - 04:00 29/04/2025
