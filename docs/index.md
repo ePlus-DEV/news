@@ -411,7 +411,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Chuẩn bị Lễ khởi công, khánh thành các dự án quy mô lớn và triển lãm thành tựu kinh tế - xã hội kỷ niệm 80 năm Quốc khánh](https://baochinhphu.vn/chuan-bi-le-khoi-cong-khanh-thanh-cac-du-an-quy-mo-lon-va-trien-lam-thanh-tuu-kinh-te-xa-hoi-ky-niem-80-nam-quoc-khanh-102250506001646201.htm) - 00:11 06/05/2025
+- 💻 [Chuẩn bị Lễ khởi công, khánh thành các dự án quy mô lớn và triển lãm thành tựu kinh tế - xã hội kỷ niệm 80 năm Quốc khánh](https://baochinhphu.vn/chuan-bi-le-khoi-cong-khanh-thanh-cac-du-an-quy-mo-lon-va-trien-lam-thanh-tuu-kinh-te-xa-hoi-ky-niem-80-nam-quoc-khanh-102250506001646201.htm) - 00:09 06/05/2025
 - 🌜 [Cơ chế, chính sách ưu đãi đối với Trung tâm Đổi mới sáng tạo Quốc gia](https://baochinhphu.vn/co-che-chinh-sach-uu-dai-doi-voi-trung-tam-doi-moi-sang-tao-quoc-gia-102250505202608925.htm) - 23:44 05/05/2025
 - 🦆 [Thủ tướng: Năm 2025, dự kiến quy mô kinh tế Việt Nam trên 500 tỷ USD](https://baochinhphu.vn/thu-tuong-nam-2025-du-kien-quy-mo-kinh-te-viet-nam-tren-500-ty-usd-102250505112210409.htm) - 23:42 05/05/2025
 - 🌝 [Tổng Bí thư Tô Lâm gặp gỡ cán bộ Đại sứ quán và cộng đồng người Việt Nam tại Kazakhstan](https://baochinhphu.vn/tong-bi-thu-to-lam-gap-go-can-bo-dai-su-quan-va-cong-dong-nguoi-viet-nam-tai-kazakhstan-102250505230104368.htm) - 23:39 05/05/2025
