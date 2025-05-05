@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Cầu Phước Khánh trên cao tốc Bến Lức - Long Thành thi công trở lại](https://vnexpress.net/cau-phuoc-khanh-tren-cao-toc-ben-luc-long-thanh-thi-cong-tro-lai-4881748.html) - 05:21 05/05/2025
 - 🤓 [&#39;Cần hỗ trợ công chức đi làm xa do chuyển trụ sở sau sáp nhập&#39;](https://vnexpress.net/can-ho-tro-cong-chuc-di-lam-xa-do-chuyen-tru-so-sau-sap-nhap-4881597.html) - 04:37 05/05/2025
-- ⚗️ [Ủy ban dự thảo sửa đổi Hiến pháp 2013 dự kiến có 15 thành viên](https://vnexpress.net/uy-ban-du-thao-sua-doi-hien-phap-2013-du-kien-co-15-thanh-vien-4881697.html) - 04:20 05/05/2025
+- ⚗️ [Tổng Bí thư: &#39;Kỳ đại hội sau mới tính đến sửa đổi căn bản Hiến pháp&#39;](https://vnexpress.net/tong-bi-thu-ky-dai-hoi-sau-moi-tinh-den-sua-doi-can-ban-hien-phap-4881697.html) - 04:20 05/05/2025
 - 🌊 [Nổ nhà dân ở Thái Nguyên, một người chết](https://vnexpress.net/no-nha-dan-o-thai-nguyen-mot-nguoi-chet-4881698.html) - 04:04 05/05/2025
 - 🎓 [Thủ tướng: Thông tuyến cao tốc Cao Bằng - Cà Mau vào cuối năm 2025](https://vnexpress.net/thu-tuong-thong-tuyen-cao-toc-cao-bang-ca-mau-vao-cuoi-nam-2025-4881624.html) - 03:49 05/05/2025
 - 🔥 [73% người cao tuổi không lương hưu, trợ cấp bảo hiểm](https://vnexpress.net/73-nguoi-cao-tuoi-khong-luong-huu-tro-cap-bao-hiem-4881622.html) - 03:14 05/05/2025
