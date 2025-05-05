@@ -520,66 +520,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Lịch duyệt đội ngũ và diễu hành mừng 70 năm giải phóng Hải Phòng](https://muctim.tuoitre.vn/lich-duyet-doi-ngu-va-dieu-hanh-mung-70-nam-giai-phong-hai-phong-101250505003201595.htm) - 03:24 05/05/2025
-- 🥷 [Tình hình thời tiết cả nước ngày 5 và 6-5](https://muctim.tuoitre.vn/tinh-hinh-thoi-tiet-ca-nuoc-ngay-5-va-6-5-101250505005009099.htm) - 03:12 05/05/2025
-- 🤖 [Kỳ nghỉ gần nhất sau lễ 30-4 và 1-5 là kỳ nghỉ nào?](https://muctim.tuoitre.vn/ky-nghi-gan-nhat-sau-le-30-4-va-1-5-la-ky-nghi-nao-101250425020617433.htm) - 23:00 04/05/2025
-- 🤓 [Chido Obi Martin lần đầu đá chính trong trận thua của Man United trước Brentford](https://muctim.tuoitre.vn/chido-obi-martin-lan-dau-da-chinh-trong-tran-thua-cua-man-united-truoc-brentford-101250504204706485.htm) - 15:10 04/05/2025
-- 🎉 [Truyện ngắn Mực Tím: Cho mình một ly trà bơ nữa nhé!](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-cho-minh-mot-ly-tra-bo-nua-nhe-101250416154632848.htm) - 12:51 04/05/2025
-- 👨‍🏫 [Teen bắt nhịp kỷ nguyên số - Kỳ 3: Làm chủ hay lạm dụng trí tuệ nhân tạo?](https://muctim.tuoitre.vn/teen-bat-nhip-ky-nguyen-so-ky-3-lam-chu-hay-lam-dung-tri-tue-nhan-tao-101250429165828578.htm) - 12:42 04/05/2025
-- 🚦 [Nam sinh Nghệ An toàn thắng 4 vòng Đường lên đỉnh Olympia](https://muctim.tuoitre.vn/nam-sinh-nghe-an-toan-thang-4-vong-duong-len-dinh-olympia-101250504142009649.htm) - 07:49 04/05/2025
-- 🤭 [Messi ghi bàn đẳng cấp, giúp Inter Miami thoát chuỗi thua](https://muctim.tuoitre.vn/messi-ghi-ban-dang-cap-giup-inter-miami-thoat-chuoi-thua-101250504092805993.htm) - 06:35 04/05/2025
-- 😺 [Tỉnh nào có diện tích lớn nhất cả nước sau sáp nhập?](https://muctim.tuoitre.vn/tinh-nao-co-dien-tich-lon-nhat-ca-nuoc-sau-sap-nhap-101250503134407014.htm) - 02:09 04/05/2025
-- 😎 [Vòng nguyệt quế Đường đến vinh quang gọi tên nam sinh Trường THPT Trương Định](https://muctim.tuoitre.vn/vong-nguyet-que-duong-den-vinh-quang-goi-ten-nam-sinh-truong-thpt-truong-dinh-10125050401592544.htm) - 02:08 04/05/2025
-- 🐎 [Quiz: Nguồn năng lượng mới](https://muctim.tuoitre.vn/nguon-nang-luong-moi-101250429153234362.htm) - 01:55 04/05/2025
-- 🎓 [Tác giả bộ ảnh lễ diễu binh 30-4 viral mạng xã hội là bạn trẻ ở TP.HCM](https://muctim.tuoitre.vn/tac-gia-bo-anh-le-dieu-binh-30-4-viral-mang-xa-hoi-la-ban-tre-o-tphcm-101250503221436549.htm) - 01:53 04/05/2025
-- 🐎 [Teen bắt nhịp kỷ nguyên số - Kỳ 2: &#39;Chill&#39; cùng AI](https://muctim.tuoitre.vn/teen-bat-nhip-ky-nguyen-so-ky-2-chill-cung-ai-101250429163514072.htm) - 13:43 03/05/2025
-- 💃 [Đường đến chùa Thanh Tâm &lpar;chùa Phật cô đơn&rpar; chiêm bái Xá lợi Phật](https://muctim.tuoitre.vn/duong-den-chua-thanh-tam-chua-phat-co-don-chiem-bai-xa-loi-phat-101250503185607354.htm) - 13:41 03/05/2025
-- 🪜 [HLV Inter Miami: &#39;Không thể tránh khỏi phụ thuộc Messi&#39;](https://muctim.tuoitre.vn/hlv-inter-miami-khong-the-tranh-khoi-phu-thuoc-messi-101250503144336591.htm) - 09:31 03/05/2025
-- 🎉 [Đường đến vinh quang tuần này: Vòng thi tuần thứ 2 tháng thứ 6](https://muctim.tuoitre.vn/duong-den-vinh-quang-tuan-nay-vong-thi-tuan-thu-2-thang-thu-6-101250503014525946.htm) - 07:32 03/05/2025
-- 🥳 [Vui chơi ngày 3-5 và 4-5 tại TP.HCM: đồi chong chóng, đường đèn lồng](https://muctim.tuoitre.vn/vui-choi-ngay-3-5-va-4-5-tai-tphcm-doi-chong-chong-duong-den-long-101250503105227583.htm) - 06:36 03/05/2025
-- 🤓 [Đại lễ Vesak 2025: Sự kiện văn hóa mang tầm quốc tế tổ chức tại Việt Nam](https://muctim.tuoitre.vn/dai-le-vesak-2025-su-kien-van-hoa-mang-tam-quoc-te-to-chuc-tai-viet-nam-101250502202408782.htm) - 15:28 02/05/2025
-- 🎉 [Xá lợi Đức Phật về Việt Nam được tìm thấy như thế nào?](https://muctim.tuoitre.vn/xa-loi-duc-phat-ve-viet-nam-duoc-tim-thay-nhu-the-nao-101250502194254395.htm) - 13:05 02/05/2025
-- 🥳 [Maroon 5 ra mắt MV cùng Lisa &lpar;BLACKPINK&rpar;; Jo Jung Suk tái xuất màn ảnh rộng](https://muctim.tuoitre.vn/maroon-5-ra-mat-mv-cung-lisa-blackpink-jo-jung-suk-tai-xuat-man-anh-rong-101250502171537886.htm) - 11:14 02/05/2025
-- 🎡 [Tháng 5 có những ngày lễ, ngày kỷ niệm nào?](https://muctim.tuoitre.vn/thang-5-co-nhung-ngay-le-ngay-ky-niem-nao-10125050210445209.htm) - 09:44 02/05/2025
-- 👨‍🏫 [Sân chơi Kỷ yếu 2K7: Mùa hạ đáng nhớ của lớp 12A9 Trường THPT Ea H’Leo &lpar;Đắk Lắk&rpar;](https://muctim.tuoitre.vn/san-choi-ky-yeu-2k7-mua-ha-dang-nho-cua-lop-12a9-truong-thpt-ea-hleo-dak-lak-10125042911241211.htm) - 07:18 02/05/2025
-- 🧠 [Lịch thi đấu V-League vòng 21: Hà Nội tiếp Thép Xanh Nam Định](https://muctim.tuoitre.vn/lich-thi-dau-v-league-vong-21-ha-noi-tiep-thep-xanh-nam-dinh-101250502133541349.htm) - 07:16 02/05/2025
-- 🥷 [Thí sinh TP.HCM đăng ký nguyện vọng lớp 10 từ hôm nay 2-5](https://muctim.tuoitre.vn/thi-sinh-tphcm-dang-ky-nguyen-vong-lop-10-tu-hom-nay-2-5-101250502104310807.htm) - 03:49 02/05/2025
-- 🤔 [6.000 khán giả tham dự concert của Noo Phước Thịnh](https://muctim.tuoitre.vn/6000-khan-gia-tham-du-concert-cua-noo-phuoc-thinh-101250502100318363.htm) - 03:27 02/05/2025
-- 🐎 [Phim ngắn 50 Flashes: xuyên không về TP.HCM những ngày xa xưa](https://muctim.tuoitre.vn/phim-ngan-50-flashes-xuyen-khong-ve-tphcm-nhung-ngay-xa-xua-10125042816121462.htm) - 03:23 02/05/2025
-- ⛽️ [Độc đáo nhật ký được làm từ bao bì, vỏ hộp, hóa đơn, vé xe buýt](https://muctim.tuoitre.vn/doc-dao-nhat-ky-duoc-lam-tu-bao-bi-vo-hop-hoa-don-ve-xe-buyt-101250429151856493.htm) - 03:22 02/05/2025
-- 🤡 [Gợi ý lịch trình tham quan, vui chơi ngày 2-5 tại TP.HCM](https://muctim.tuoitre.vn/goi-y-lich-trinh-tham-quan-vui-choi-ngay-2-5-tai-tphcm-101250502090543637.htm) - 02:56 02/05/2025
-- 🌁 [Rosé &lpar;BLACKPINK&rpar; ra mắt nhạc phim, &lpar;G&rpar;I-DLE đổi tên nhóm](https://muctim.tuoitre.vn/rose-blackpink-ra-mat-nhac-phim-gi-dle-doi-ten-nhom-101250502080540505.htm) - 02:07 02/05/2025
-- 🎓 [Cấm xe tải 5 tuyến đường phục vụ Đại lễ Vesak Liên hợp quốc 2025](https://muctim.tuoitre.vn/cam-xe-tai-5-tuyen-duong-phuc-vu-dai-le-vesak-lien-hop-quoc-2025-101250501211627259.htm) - 01:53 02/05/2025
-- 🦍 [Teen bắt nhịp kỷ nguyên số - kỳ 1: Học cùng AI](https://muctim.tuoitre.vn/teen-bat-nhip-ky-nguyen-so-ky-1-hoc-cung-ai-101250429160935784.htm) - 00:57 02/05/2025
-- 🤠 [Rèn luyện đội viên trực tuyến: Dinh Độc Lập được công nhân di tích quốc gia đặc biệt từ khi nào?](https://muctim.tuoitre.vn/ren-luyen-doi-vien-truc-tuyen-dinh-doc-lap-duoc-cong-nhan-di-tich-quoc-gia-dac-biet-tu-khi-nao-101250502075601097.htm) - 00:56 02/05/2025
-- 🎬 [Truyện ngắn Mực Tím: Những hạt mầm sẽ lớn](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-nhung-hat-mam-se-lon-101250416160658388.htm) - 00:37 02/05/2025
-- 🌮 [Quiz: Đám mây mách bạn điều gì?](https://muctim.tuoitre.vn/quiz-dam-may-mach-ban-dieu-gi-101250402100013293.htm) - 00:30 02/05/2025
-- 👹 [12 cung hoàng đạo hôm nay 2-5: Xử Nữ đến lúc cần được nghỉ ngơi](https://muctim.tuoitre.vn/12-cung-hoang-dao-hom-nay-2-5-xu-nu-den-luc-can-duoc-nghi-ngoi-101250502071749534.htm) - 00:17 02/05/2025
-- 🤔 [Bruno Fernandes giúp Man United giành nửa vé chung kết Europa League](https://muctim.tuoitre.vn/bruno-fernandes-giup-man-united-gianh-nua-ve-chung-ket-europa-league-10125050205044822.htm) - 22:40 01/05/2025
-- 🏊 [Cùng chúng tôi viết tiếp câu chuyện hòa bình](https://muctim.tuoitre.vn/cung-chung-toi-viet-tiep-cau-chuyen-hoa-binh-101250501105136752.htm) - 12:27 01/05/2025
-- 📝 [Thế hệ mới vươn mình tiến tới - Kỳ 4: Yêu Tổ quốc, yêu đồng bào](https://muctim.tuoitre.vn/the-he-moi-vuon-minh-tien-toi-ky-4-yeu-to-quoc-yeu-dong-bao-101250428144401508.htm) - 12:10 01/05/2025
-- 👺 [Park Bo Young, Sooyoung tái xuất đường đua phim Hàn trong tháng 5](https://muctim.tuoitre.vn/park-bo-young-sooyoung-tai-xuat-duong-dua-phim-han-trong-thang-5-101250501171729584.htm) - 12:06 01/05/2025
-- 👹 [Tối nay 1-5, TP.HCM không trình diễn drone như dự kiến](https://muctim.tuoitre.vn/toi-nay-1-5-tphcm-khong-trinh-dien-drone-nhu-du-kien-101250501094656781.htm) - 03:11 01/05/2025
-- 🎊 [Gợi ý lịch trình vui chơi ngày 1-5 tại TP.HCM](https://muctim.tuoitre.vn/goi-y-lich-trinh-vui-choi-ngay-1-5-tai-tphcm-101250430135555181.htm) - 00:26 01/05/2025
-- 👹 [Gửi bạn 10 lời chào tháng 5 ý nghĩa](https://muctim.tuoitre.vn/gui-ban-10-loi-chao-thang-5-y-nghia-101250501013255111.htm) - 00:22 01/05/2025
-- 🎃 [Thời tiết cả nước ngày Quốc tế Lao động 1-5](https://muctim.tuoitre.vn/thoi-tiet-ca-nuoc-ngay-quoc-te-lao-dong-1-5-101250501065514476.htm) - 00:21 01/05/2025
-- 🧑‍🏫 [Ronaldo cùng Al Nassr bị loại tại AFC Champions League](https://muctim.tuoitre.vn/ronaldo-cung-al-nassr-bi-loai-tai-afc-champions-league-101250501032416769.htm) - 00:20 01/05/2025
-- 🎊 [Barcelona cầm hoà Inter Milan trong trận có 6 bàn thắng tại Champions League](https://muctim.tuoitre.vn/barcelona-cam-hoa-inter-milan-trong-tran-co-6-ban-thang-tai-champions-league-101250501050147371.htm) - 00:18 01/05/2025
-- 📝 [12 cung hoàng đạo hôm nay 1-5: Sư Tử tràn đầy tự tin](https://muctim.tuoitre.vn/12-cung-hoang-dao-hom-nay-1-5-su-tu-tran-day-tu-tin-101250501071507586.htm) - 00:15 01/05/2025
-- 🥳 [Tháng 5 của 12 cung hoàng đạo: Kim Ngưu bắt đầu có những thay đổi](https://muctim.tuoitre.vn/thang-5-cua-12-cung-hoang-dao-kim-nguu-bat-dau-co-nhung-thay-doi-10125050106583275.htm) - 23:58 30/04/2025
-- 💻 [Ngày 1-5 được chọn làm Ngày Quốc tế Lao động từ năm nào?](https://muctim.tuoitre.vn/ngay-1-5-duoc-chon-lam-ngay-quoc-te-lao-dong-tu-nam-nao-101250501042727727.htm) - 23:38 30/04/2025
-- 😎 [Hôm nay, Google Doodle chào mừng Ngày Quốc tế Lao động 1-5](https://muctim.tuoitre.vn/hom-nay-google-doodle-chao-mung-ngay-quoc-te-lao-dong-1-5-101250501061131625.htm) - 23:36 30/04/2025
-- 🤭 [Pháo hoa rực sáng bầu trời TP.HCM tối 30-4](https://muctim.tuoitre.vn/phao-hoa-ruc-sang-bau-troi-tphcm-toi-30-4-1012504302228142.htm) - 15:28 30/04/2025
-- 🤩 [Hơn 200 tình nguyện viên chung tay dọn rác](https://muctim.tuoitre.vn/hon-200-tinh-nguyen-vien-chung-tay-don-rac-101250430202730447.htm) - 15:02 30/04/2025
-- 🚀 [Mãn nhãn với màn trình diễn 3D mapping đặc biệt đại lễ 30-4](https://muctim.tuoitre.vn/man-nhan-voi-man-trinh-dien-3d-mapping-dac-biet-dai-le-30-4-101250430204313341.htm) - 14:51 30/04/2025
-- 🕴 [Trung vệ lập công, Công an Hà Nội vào chung kết Shopee Cup 2025](https://muctim.tuoitre.vn/trung-ve-lap-cong-cong-an-ha-noi-vao-chung-ket-shopee-cup-2025-101250430214715077.htm) - 14:47 30/04/2025
-- ⛽️ [Truyện ngắn Mực Tím: Minh Anh](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-minh-anh-101250416155422143.htm) - 13:21 30/04/2025
-- 🧐 [Thế hệ mới vươn mình tiến tới - Kỳ 3: Hạt mầm nghĩa tình](https://muctim.tuoitre.vn/the-he-moi-vuon-minh-tien-toi-ky-3-hat-mam-nghia-tinh-10125042315450574.htm) - 13:03 30/04/2025
-- 🦆 [Trực tiếp: Bắn pháo hoa mừng đại lễ 30-4 tại TP.HCM](https://muctim.tuoitre.vn/truc-tiep-ban-phao-hoa-mung-dai-le-30-4-tai-tphcm-101250430194124393.htm) - 12:41 30/04/2025
-- 🤖 [Noo Phước Thịnh hé lộ chiếc túi mù mang tên Mono](https://muctim.tuoitre.vn/noo-phuoc-thinh-he-lo-chiec-tui-mu-mang-ten-mono-101250429144753589.htm) - 11:00 30/04/2025
-- 💃 [Lịch bắn pháo hoa tại TP.HCM và các tỉnh thành trên cả nước vào tối nay 30-4](https://muctim.tuoitre.vn/lich-ban-phao-hoa-tai-tphcm-va-cac-tinh-thanh-tren-ca-nuoc-vao-toi-nay-30-4-101250429223823835.htm) - 09:00 30/04/2025
-- 🚀 [&#39;Mini concert&#39; đặc biệt của quân và dân sáng 30-4](https://muctim.tuoitre.vn/mini-concert-dac-biet-cua-quan-va-dan-sang-30-4-101250430131615099.htm) - 08:51 30/04/2025
-- 🦍 [4 phim lãng mạn Hàn Quốc thích hợp xem trong kỳ nghỉ dài ngày](https://muctim.tuoitre.vn/4-phim-lang-man-han-quoc-thich-hop-xem-trong-ky-nghi-dai-ngay-101250420162327829.htm) - 08:00 30/04/2025<!-- muctim:END -->
+- 🤔 [Đi xe buýt nào đến tham dự Đại lễ Vesak 2025?](https://muctim.tuoitre.vn/di-xe-buyt-nao-den-tham-du-dai-le-vesak-2025-101250505102348846.htm) - 04:03 05/05/2025
+- 🥷 [Lịch duyệt đội ngũ và diễu hành mừng 70 năm giải phóng Hải Phòng](https://muctim.tuoitre.vn/lich-duyet-doi-ngu-va-dieu-hanh-mung-70-nam-giai-phong-hai-phong-101250505003201595.htm) - 03:24 05/05/2025
+- 🤖 [Tình hình thời tiết cả nước ngày 5 và 6-5](https://muctim.tuoitre.vn/tinh-hinh-thoi-tiet-ca-nuoc-ngay-5-va-6-5-101250505005009099.htm) - 03:12 05/05/2025
+- 🤓 [Kỳ nghỉ gần nhất sau lễ 30-4 và 1-5 là kỳ nghỉ nào?](https://muctim.tuoitre.vn/ky-nghi-gan-nhat-sau-le-30-4-va-1-5-la-ky-nghi-nao-101250425020617433.htm) - 23:00 04/05/2025
+- 🎉 [Chido Obi Martin lần đầu đá chính trong trận thua của Man United trước Brentford](https://muctim.tuoitre.vn/chido-obi-martin-lan-dau-da-chinh-trong-tran-thua-cua-man-united-truoc-brentford-101250504204706485.htm) - 15:10 04/05/2025
+- 👨‍🏫 [Truyện ngắn Mực Tím: Cho mình một ly trà bơ nữa nhé!](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-cho-minh-mot-ly-tra-bo-nua-nhe-101250416154632848.htm) - 12:51 04/05/2025
+- 🚦 [Teen bắt nhịp kỷ nguyên số - Kỳ 3: Làm chủ hay lạm dụng trí tuệ nhân tạo?](https://muctim.tuoitre.vn/teen-bat-nhip-ky-nguyen-so-ky-3-lam-chu-hay-lam-dung-tri-tue-nhan-tao-101250429165828578.htm) - 12:42 04/05/2025
+- 🤭 [Nam sinh Nghệ An toàn thắng 4 vòng Đường lên đỉnh Olympia](https://muctim.tuoitre.vn/nam-sinh-nghe-an-toan-thang-4-vong-duong-len-dinh-olympia-101250504142009649.htm) - 07:49 04/05/2025
+- 😺 [Messi ghi bàn đẳng cấp, giúp Inter Miami thoát chuỗi thua](https://muctim.tuoitre.vn/messi-ghi-ban-dang-cap-giup-inter-miami-thoat-chuoi-thua-101250504092805993.htm) - 06:35 04/05/2025
+- 😎 [Tỉnh nào có diện tích lớn nhất cả nước sau sáp nhập?](https://muctim.tuoitre.vn/tinh-nao-co-dien-tich-lon-nhat-ca-nuoc-sau-sap-nhap-101250503134407014.htm) - 02:09 04/05/2025
+- 🐎 [Vòng nguyệt quế Đường đến vinh quang gọi tên nam sinh Trường THPT Trương Định](https://muctim.tuoitre.vn/vong-nguyet-que-duong-den-vinh-quang-goi-ten-nam-sinh-truong-thpt-truong-dinh-10125050401592544.htm) - 02:08 04/05/2025
+- 🎓 [Quiz: Nguồn năng lượng mới](https://muctim.tuoitre.vn/nguon-nang-luong-moi-101250429153234362.htm) - 01:55 04/05/2025
+- 🐎 [Tác giả bộ ảnh lễ diễu binh 30-4 viral mạng xã hội là bạn trẻ ở TP.HCM](https://muctim.tuoitre.vn/tac-gia-bo-anh-le-dieu-binh-30-4-viral-mang-xa-hoi-la-ban-tre-o-tphcm-101250503221436549.htm) - 01:53 04/05/2025
+- 💃 [Teen bắt nhịp kỷ nguyên số - Kỳ 2: &#39;Chill&#39; cùng AI](https://muctim.tuoitre.vn/teen-bat-nhip-ky-nguyen-so-ky-2-chill-cung-ai-101250429163514072.htm) - 13:43 03/05/2025
+- 🪜 [Đường đến chùa Thanh Tâm &lpar;chùa Phật cô đơn&rpar; chiêm bái Xá lợi Phật](https://muctim.tuoitre.vn/duong-den-chua-thanh-tam-chua-phat-co-don-chiem-bai-xa-loi-phat-101250503185607354.htm) - 13:41 03/05/2025
+- 🎉 [HLV Inter Miami: &#39;Không thể tránh khỏi phụ thuộc Messi&#39;](https://muctim.tuoitre.vn/hlv-inter-miami-khong-the-tranh-khoi-phu-thuoc-messi-101250503144336591.htm) - 09:31 03/05/2025
+- 🥳 [Đường đến vinh quang tuần này: Vòng thi tuần thứ 2 tháng thứ 6](https://muctim.tuoitre.vn/duong-den-vinh-quang-tuan-nay-vong-thi-tuan-thu-2-thang-thu-6-101250503014525946.htm) - 07:32 03/05/2025
+- 🤓 [Vui chơi ngày 3-5 và 4-5 tại TP.HCM: đồi chong chóng, đường đèn lồng](https://muctim.tuoitre.vn/vui-choi-ngay-3-5-va-4-5-tai-tphcm-doi-chong-chong-duong-den-long-101250503105227583.htm) - 06:36 03/05/2025
+- 🎉 [Đại lễ Vesak 2025: Sự kiện văn hóa mang tầm quốc tế tổ chức tại Việt Nam](https://muctim.tuoitre.vn/dai-le-vesak-2025-su-kien-van-hoa-mang-tam-quoc-te-to-chuc-tai-viet-nam-101250502202408782.htm) - 15:28 02/05/2025
+- 🥳 [Xá lợi Đức Phật về Việt Nam được tìm thấy như thế nào?](https://muctim.tuoitre.vn/xa-loi-duc-phat-ve-viet-nam-duoc-tim-thay-nhu-the-nao-101250502194254395.htm) - 13:05 02/05/2025
+- 🎡 [Maroon 5 ra mắt MV cùng Lisa &lpar;BLACKPINK&rpar;; Jo Jung Suk tái xuất màn ảnh rộng](https://muctim.tuoitre.vn/maroon-5-ra-mat-mv-cung-lisa-blackpink-jo-jung-suk-tai-xuat-man-anh-rong-101250502171537886.htm) - 11:14 02/05/2025
+- 👨‍🏫 [Tháng 5 có những ngày lễ, ngày kỷ niệm nào?](https://muctim.tuoitre.vn/thang-5-co-nhung-ngay-le-ngay-ky-niem-nao-10125050210445209.htm) - 09:44 02/05/2025
+- 🧠 [Sân chơi Kỷ yếu 2K7: Mùa hạ đáng nhớ của lớp 12A9 Trường THPT Ea H’Leo &lpar;Đắk Lắk&rpar;](https://muctim.tuoitre.vn/san-choi-ky-yeu-2k7-mua-ha-dang-nho-cua-lop-12a9-truong-thpt-ea-hleo-dak-lak-10125042911241211.htm) - 07:18 02/05/2025
+- 🥷 [Lịch thi đấu V-League vòng 21: Hà Nội tiếp Thép Xanh Nam Định](https://muctim.tuoitre.vn/lich-thi-dau-v-league-vong-21-ha-noi-tiep-thep-xanh-nam-dinh-101250502133541349.htm) - 07:16 02/05/2025
+- 🤔 [Thí sinh TP.HCM đăng ký nguyện vọng lớp 10 từ hôm nay 2-5](https://muctim.tuoitre.vn/thi-sinh-tphcm-dang-ky-nguyen-vong-lop-10-tu-hom-nay-2-5-101250502104310807.htm) - 03:49 02/05/2025
+- 🐎 [6.000 khán giả tham dự concert của Noo Phước Thịnh](https://muctim.tuoitre.vn/6000-khan-gia-tham-du-concert-cua-noo-phuoc-thinh-101250502100318363.htm) - 03:27 02/05/2025
+- ⛽️ [Phim ngắn 50 Flashes: xuyên không về TP.HCM những ngày xa xưa](https://muctim.tuoitre.vn/phim-ngan-50-flashes-xuyen-khong-ve-tphcm-nhung-ngay-xa-xua-10125042816121462.htm) - 03:23 02/05/2025
+- 🤡 [Độc đáo nhật ký được làm từ bao bì, vỏ hộp, hóa đơn, vé xe buýt](https://muctim.tuoitre.vn/doc-dao-nhat-ky-duoc-lam-tu-bao-bi-vo-hop-hoa-don-ve-xe-buyt-101250429151856493.htm) - 03:22 02/05/2025
+- 🌁 [Gợi ý lịch trình tham quan, vui chơi ngày 2-5 tại TP.HCM](https://muctim.tuoitre.vn/goi-y-lich-trinh-tham-quan-vui-choi-ngay-2-5-tai-tphcm-101250502090543637.htm) - 02:56 02/05/2025
+- 🎓 [Rosé &lpar;BLACKPINK&rpar; ra mắt nhạc phim, &lpar;G&rpar;I-DLE đổi tên nhóm](https://muctim.tuoitre.vn/rose-blackpink-ra-mat-nhac-phim-gi-dle-doi-ten-nhom-101250502080540505.htm) - 02:07 02/05/2025
+- 🦍 [Cấm xe tải 5 tuyến đường phục vụ Đại lễ Vesak Liên hợp quốc 2025](https://muctim.tuoitre.vn/cam-xe-tai-5-tuyen-duong-phuc-vu-dai-le-vesak-lien-hop-quoc-2025-101250501211627259.htm) - 01:53 02/05/2025
+- 🤠 [Teen bắt nhịp kỷ nguyên số - kỳ 1: Học cùng AI](https://muctim.tuoitre.vn/teen-bat-nhip-ky-nguyen-so-ky-1-hoc-cung-ai-101250429160935784.htm) - 00:57 02/05/2025
+- 🎬 [Rèn luyện đội viên trực tuyến: Dinh Độc Lập được công nhân di tích quốc gia đặc biệt từ khi nào?](https://muctim.tuoitre.vn/ren-luyen-doi-vien-truc-tuyen-dinh-doc-lap-duoc-cong-nhan-di-tich-quoc-gia-dac-biet-tu-khi-nao-101250502075601097.htm) - 00:56 02/05/2025
+- 🌮 [Truyện ngắn Mực Tím: Những hạt mầm sẽ lớn](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-nhung-hat-mam-se-lon-101250416160658388.htm) - 00:37 02/05/2025
+- 👹 [Quiz: Đám mây mách bạn điều gì?](https://muctim.tuoitre.vn/quiz-dam-may-mach-ban-dieu-gi-101250402100013293.htm) - 00:30 02/05/2025
+- 🤔 [12 cung hoàng đạo hôm nay 2-5: Xử Nữ đến lúc cần được nghỉ ngơi](https://muctim.tuoitre.vn/12-cung-hoang-dao-hom-nay-2-5-xu-nu-den-luc-can-duoc-nghi-ngoi-101250502071749534.htm) - 00:17 02/05/2025
+- 🏊 [Bruno Fernandes giúp Man United giành nửa vé chung kết Europa League](https://muctim.tuoitre.vn/bruno-fernandes-giup-man-united-gianh-nua-ve-chung-ket-europa-league-10125050205044822.htm) - 22:40 01/05/2025
+- 📝 [Cùng chúng tôi viết tiếp câu chuyện hòa bình](https://muctim.tuoitre.vn/cung-chung-toi-viet-tiep-cau-chuyen-hoa-binh-101250501105136752.htm) - 12:27 01/05/2025
+- 👺 [Thế hệ mới vươn mình tiến tới - Kỳ 4: Yêu Tổ quốc, yêu đồng bào](https://muctim.tuoitre.vn/the-he-moi-vuon-minh-tien-toi-ky-4-yeu-to-quoc-yeu-dong-bao-101250428144401508.htm) - 12:10 01/05/2025
+- 👹 [Park Bo Young, Sooyoung tái xuất đường đua phim Hàn trong tháng 5](https://muctim.tuoitre.vn/park-bo-young-sooyoung-tai-xuat-duong-dua-phim-han-trong-thang-5-101250501171729584.htm) - 12:06 01/05/2025
+- 🎊 [Tối nay 1-5, TP.HCM không trình diễn drone như dự kiến](https://muctim.tuoitre.vn/toi-nay-1-5-tphcm-khong-trinh-dien-drone-nhu-du-kien-101250501094656781.htm) - 03:11 01/05/2025
+- 👹 [Gợi ý lịch trình vui chơi ngày 1-5 tại TP.HCM](https://muctim.tuoitre.vn/goi-y-lich-trinh-vui-choi-ngay-1-5-tai-tphcm-101250430135555181.htm) - 00:26 01/05/2025
+- 🎃 [Gửi bạn 10 lời chào tháng 5 ý nghĩa](https://muctim.tuoitre.vn/gui-ban-10-loi-chao-thang-5-y-nghia-101250501013255111.htm) - 00:22 01/05/2025
+- 🧑‍🏫 [Thời tiết cả nước ngày Quốc tế Lao động 1-5](https://muctim.tuoitre.vn/thoi-tiet-ca-nuoc-ngay-quoc-te-lao-dong-1-5-101250501065514476.htm) - 00:21 01/05/2025
+- 🎊 [Ronaldo cùng Al Nassr bị loại tại AFC Champions League](https://muctim.tuoitre.vn/ronaldo-cung-al-nassr-bi-loai-tai-afc-champions-league-101250501032416769.htm) - 00:20 01/05/2025
+- 📝 [Barcelona cầm hoà Inter Milan trong trận có 6 bàn thắng tại Champions League](https://muctim.tuoitre.vn/barcelona-cam-hoa-inter-milan-trong-tran-co-6-ban-thang-tai-champions-league-101250501050147371.htm) - 00:18 01/05/2025
+- 🥳 [12 cung hoàng đạo hôm nay 1-5: Sư Tử tràn đầy tự tin](https://muctim.tuoitre.vn/12-cung-hoang-dao-hom-nay-1-5-su-tu-tran-day-tu-tin-101250501071507586.htm) - 00:15 01/05/2025
+- 💻 [Tháng 5 của 12 cung hoàng đạo: Kim Ngưu bắt đầu có những thay đổi](https://muctim.tuoitre.vn/thang-5-cua-12-cung-hoang-dao-kim-nguu-bat-dau-co-nhung-thay-doi-10125050106583275.htm) - 23:58 30/04/2025
+- 😎 [Ngày 1-5 được chọn làm Ngày Quốc tế Lao động từ năm nào?](https://muctim.tuoitre.vn/ngay-1-5-duoc-chon-lam-ngay-quoc-te-lao-dong-tu-nam-nao-101250501042727727.htm) - 23:38 30/04/2025
+- 🤭 [Hôm nay, Google Doodle chào mừng Ngày Quốc tế Lao động 1-5](https://muctim.tuoitre.vn/hom-nay-google-doodle-chao-mung-ngay-quoc-te-lao-dong-1-5-101250501061131625.htm) - 23:36 30/04/2025
+- 🤩 [Pháo hoa rực sáng bầu trời TP.HCM tối 30-4](https://muctim.tuoitre.vn/phao-hoa-ruc-sang-bau-troi-tphcm-toi-30-4-1012504302228142.htm) - 15:28 30/04/2025
+- 🚀 [Hơn 200 tình nguyện viên chung tay dọn rác](https://muctim.tuoitre.vn/hon-200-tinh-nguyen-vien-chung-tay-don-rac-101250430202730447.htm) - 15:02 30/04/2025
+- 🕴 [Mãn nhãn với màn trình diễn 3D mapping đặc biệt đại lễ 30-4](https://muctim.tuoitre.vn/man-nhan-voi-man-trinh-dien-3d-mapping-dac-biet-dai-le-30-4-101250430204313341.htm) - 14:51 30/04/2025
+- ⛽️ [Trung vệ lập công, Công an Hà Nội vào chung kết Shopee Cup 2025](https://muctim.tuoitre.vn/trung-ve-lap-cong-cong-an-ha-noi-vao-chung-ket-shopee-cup-2025-101250430214715077.htm) - 14:47 30/04/2025
+- 🧐 [Truyện ngắn Mực Tím: Minh Anh](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-minh-anh-101250416155422143.htm) - 13:21 30/04/2025
+- 🦆 [Thế hệ mới vươn mình tiến tới - Kỳ 3: Hạt mầm nghĩa tình](https://muctim.tuoitre.vn/the-he-moi-vuon-minh-tien-toi-ky-3-hat-mam-nghia-tinh-10125042315450574.htm) - 13:03 30/04/2025
+- 🤖 [Trực tiếp: Bắn pháo hoa mừng đại lễ 30-4 tại TP.HCM](https://muctim.tuoitre.vn/truc-tiep-ban-phao-hoa-mung-dai-le-30-4-tai-tphcm-101250430194124393.htm) - 12:41 30/04/2025
+- 💃 [Noo Phước Thịnh hé lộ chiếc túi mù mang tên Mono](https://muctim.tuoitre.vn/noo-phuoc-thinh-he-lo-chiec-tui-mu-mang-ten-mono-101250429144753589.htm) - 11:00 30/04/2025
+- 🚀 [Lịch bắn pháo hoa tại TP.HCM và các tỉnh thành trên cả nước vào tối nay 30-4](https://muctim.tuoitre.vn/lich-ban-phao-hoa-tai-tphcm-va-cac-tinh-thanh-tren-ca-nuoc-vao-toi-nay-30-4-101250429223823835.htm) - 09:00 30/04/2025
+- 🦍 [&#39;Mini concert&#39; đặc biệt của quân và dân sáng 30-4](https://muctim.tuoitre.vn/mini-concert-dac-biet-cua-quan-va-dan-sang-30-4-101250430131615099.htm) - 08:51 30/04/2025<!-- muctim:END -->
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
