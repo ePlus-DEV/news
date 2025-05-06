@@ -592,7 +592,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Trực tiếp Inter Milan vs Barcelona, 02h00 ngày 7/5: Cuộc chiến giữa thép và lửa tại San Siro](https://tienphong.vn/truc-tiep-inter-milan-vs-barcelona-02h00-ngay-75-cuoc-chien-giua-thep-va-lua-tai-san-siro-post1739767.tpo) - 23:00 06/05/2025
+- 💼 [Trực tiếp Inter Milan vs Barcelona 1-0 &lpar;H1&rpar;: Barca thủng lưới](https://tienphong.vn/truc-tiep-inter-milan-vs-barcelona-1-0-h1-barca-thung-luoi-post1739767.tpo) - 23:00 06/05/2025
 - 🎊 [Showbiz 6/5: Điều chưa từng xảy ra với Lý Hải, Victor Vũ](https://tienphong.vn/showbiz-65-dieu-chua-tung-xay-ra-voi-ly-hai-victor-vu-post1739967.tpo) - 22:16 06/05/2025
 - 💼 [Ý Nhi bật khóc ở sân bay](https://tienphong.vn/y-nhi-bat-khoc-o-san-bay-post1739962.tpo) - 22:10 06/05/2025
 - 👺 [Thả 35.000 hoa đăng cầu quốc thái dân an](https://tienphong.vn/tha-35000-hoa-dang-cau-quoc-thai-dan-an-post1739957.tpo) - 22:00 06/05/2025
