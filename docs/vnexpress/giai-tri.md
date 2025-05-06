@@ -12,7 +12,7 @@ sidebar_position: 5
 - ⚗️ [Vera Wang diện đầm cắt xẻ ở Met Gala](https://vnexpress.net/vera-wang-dien-dam-cat-xe-o-met-gala-4882111.html) - 05:13 06/05/2025
 - 😎 [Chi Pu dẫn mỹ nhân Trung Quốc du lịch Việt Nam](https://vnexpress.net/chi-pu-dan-my-nhan-trung-quoc-du-lich-viet-nam-4882083.html) - 03:11 06/05/2025
 - 🫣 [Lisa gây chú ý ở Met Gala](https://vnexpress.net/lisa-gay-chu-y-o-met-gala-4882023.html) - 00:34 06/05/2025
-- 🪄 [Giáo sư Phan Văn Trường bàn về lối &#39;Tư duy dã tràng&#39;](https://vnexpress.net/giao-su-phan-van-truong-ban-ve-loi-tu-duy-da-trang-4881766.html) - 22:35 05/05/2025
+- 🪄 [Giáo sư Phan Văn Trường bàn về &#39;Tư duy dã tràng&#39;](https://vnexpress.net/giao-su-phan-van-truong-ban-ve-tu-duy-da-trang-4881766.html) - 22:35 05/05/2025
 - 🤓 [Nghệ sĩ và hoa hậu tham gia rước tượng Phật](https://vnexpress.net/nghe-si-va-hoa-hau-tham-gia-ruoc-tuong-phat-4882004.html) - 22:33 05/05/2025
 - 🫶 [6 kiểu váy mùa hè giới trẻ Việt ưa chuộng](https://vnexpress.net/6-kieu-vay-mua-he-gioi-tre-viet-ua-chuong-4874696.html) - 17:00 05/05/2025
 - 🧑‍🏫 [&#39;Khi cuộc đời cho bạn quả quýt&#39; thắng lớn ở Baeksang 2025](https://vnexpress.net/khi-cuoc-doi-cho-ban-qua-quyt-thang-lon-o-baeksang-2025-4881974.html) - 15:10 05/05/2025
