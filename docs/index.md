@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Inter - Barca](https://vnexpress.net/truc-tiep-tran-inter-vs-barca-o-luot-ve-ban-ket-champions-league-4882455.html) - 18:00 06/05/2025
+- 🚀 [Inter - Barca: Lautaro Martinez đá chính, Lewandowski dự bị](https://vnexpress.net/truc-tiep-tran-inter-vs-barca-o-luot-ve-ban-ket-champions-league-4882455.html) - 18:00 06/05/2025
 - 🧰 [Phẫu thuật trả lại giới tính cho cô gái](https://vnexpress.net/phau-thuat-tra-lai-gioi-tinh-cho-co-gai-4882027.html) - 18:00 06/05/2025
 - 🥰 [Thành phố mưa 240 ngày mỗi năm](https://vnexpress.net/thanh-pho-mua-240-ngay-moi-nam-4882231.html) - 17:09 06/05/2025
 - 🌏 [Lãi suất ngân hàng nào cao nhất?](https://vnexpress.net/sau-le-lai-suat-ngan-hang-nao-cao-nhat-4882416.html) - 17:05 06/05/2025
