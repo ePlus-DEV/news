@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Inter 2-2 Barca &lpar;H2&rpar;: Olmo gỡ hòa](https://vnexpress.net/truc-tiep-tran-inter-vs-barca-o-luot-ve-ban-ket-champions-league-4882455.html) - 18:00 06/05/2025
+- 🪜 [Inter 4-3 Barca &lpar;hiệp phụ&rpar;: Frattesi ghi bàn](https://vnexpress.net/truc-tiep-tran-inter-vs-barca-o-luot-ve-ban-ket-champions-league-4882455.html) - 18:00 06/05/2025
 - 🦩 [Cầu thủ Việt kiều tập cùng tuyển nữ Việt Nam](https://vnexpress.net/cau-thu-viet-kieu-tap-cung-tuyen-nu-viet-nam-4882440.html) - 11:25 06/05/2025
 - 🧰 [Huyền thoại Inter chỉ cách theo kèm Yamal](https://vnexpress.net/huyen-thoai-inter-chi-cach-theo-kem-yamal-4882411.html) - 11:00 06/05/2025
 - 🤗 [Chạy bộ giữ chân chiến sĩ vùng cao ở lại Thủ đô](https://vnexpress.net/chay-bo-giu-chan-chien-si-vung-cao-o-lai-thu-do-4881628.html) - 11:00 06/05/2025
