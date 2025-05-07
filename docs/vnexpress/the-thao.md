@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [PSG 1-0 Arsenal &lpar;H1&rpar;: Fabian Ruiz vô-lê mở tỷ số](https://vnexpress.net/psg-1-0-arsenal-h1-fabian-ruiz-vo-le-mo-ty-so-4882887.html) - 18:00 07/05/2025
+- 🪜 [PSG 1-0 Arsenal &lpar;H2&rpar;: Donnarumma bay người cứu thua](https://vnexpress.net/psg-1-0-arsenal-h2-donnarumma-bay-nguoi-cuu-thua-4882887.html) - 18:00 07/05/2025
 - 🦩 [Xác định đối thủ của Công an Hà Nội ở chung kết Đông Nam Á](https://vnexpress.net/xac-dinh-doi-thu-cua-cong-an-ha-noi-o-chung-ket-dong-nam-a-4882987.html) - 16:00 07/05/2025
 - 🧰 [ASEAN All-stars bổ sung cầu thủ Việt Nam đấu Man Utd](https://vnexpress.net/asean-all-stars-bo-sung-cau-thu-viet-nam-dau-man-utd-4882977.html) - 15:40 07/05/2025
 - 🤗 [Futsal nữ Việt Nam thoát hiểm ở trận ra quân giải châu Á](https://vnexpress.net/futsal-nu-viet-nam-thoat-hiem-o-tran-ra-quan-giai-chau-a-4882920.html) - 12:07 07/05/2025
