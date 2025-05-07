@@ -4,12 +4,12 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [PSG 1-0 Arsenal &lpar;H2&rpar;: Donnarumma bay người cứu thua](https://vnexpress.net/psg-1-0-arsenal-h2-donnarumma-bay-nguoi-cuu-thua-4882887.html) - 18:00 07/05/2025
+- 🪜 [PSG 2-1 Arsenal &lpar;H2&rpar;: Saka nhen nhóm hy vọng](https://vnexpress.net/psg-2-1-arsenal-h2-saka-nhen-nhom-hy-vong-4882887.html) - 18:00 07/05/2025
 - 🦩 [Xác định đối thủ của Công an Hà Nội ở chung kết Đông Nam Á](https://vnexpress.net/xac-dinh-doi-thu-cua-cong-an-ha-noi-o-chung-ket-dong-nam-a-4882987.html) - 16:00 07/05/2025
 - 🧰 [ASEAN All-stars bổ sung cầu thủ Việt Nam đấu Man Utd](https://vnexpress.net/asean-all-stars-bo-sung-cau-thu-viet-nam-dau-man-utd-4882977.html) - 15:40 07/05/2025
 - 🤗 [Futsal nữ Việt Nam thoát hiểm ở trận ra quân giải châu Á](https://vnexpress.net/futsal-nu-viet-nam-thoat-hiem-o-tran-ra-quan-giai-chau-a-4882920.html) - 12:07 07/05/2025
-- 🥳 [PSG - Arsenal: Khát vọng lật ngược thế cờ](https://vnexpress.net/psg-arsenal-khat-vong-lat-nguoc-the-co-4882441.html) - 11:00 07/05/2025
-- 🦣 [Vieira: &#39;Arsenal của Arteta có thể sánh ngang mùa giải bất bại&#39;](https://vnexpress.net/vieira-arsenal-cua-arteta-co-the-sanh-ngang-mua-giai-bat-bai-4882880.html) - 11:00 07/05/2025
+- 🥳 [Vieira: &#39;Arsenal của Arteta có thể sánh ngang mùa giải bất bại&#39;](https://vnexpress.net/vieira-arsenal-cua-arteta-co-the-sanh-ngang-mua-giai-bat-bai-4882880.html) - 11:00 07/05/2025
+- 🦣 [PSG - Arsenal: Khát vọng lật ngược thế cờ](https://vnexpress.net/psg-arsenal-khat-vong-lat-nguoc-the-co-4882441.html) - 11:00 07/05/2025
 - 🌜 [Billiards Việt Nam được dỡ lệnh cấm thi đấu quốc tế](https://vnexpress.net/billiards-viet-nam-duoc-do-lenh-cam-thi-dau-quoc-te-4882879.html) - 09:50 07/05/2025
 - 🫶 [Thái Lan gặp khó ở SEA Games 33](https://vnexpress.net/thai-lan-gap-kho-o-sea-games-33-4882885.html) - 09:48 07/05/2025
 - 🌜 [Ancelotti sẽ thông báo chia tay sau trận El Clasico](https://vnexpress.net/ancelotti-se-thong-bao-chia-tay-sau-tran-el-clasico-4882838.html) - 09:40 07/05/2025
