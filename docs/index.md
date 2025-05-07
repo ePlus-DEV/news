@@ -591,7 +591,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
 - 💼 [Sân khấu Lan Anh đóng cửa](https://tienphong.vn/san-khau-lan-anh-dong-cua-post1740300.tpo) - 23:52 07/05/2025
-- 🎊 [Trực tiếp PSG vs Arsenal, 2h00 ngày 8/5: Thử thách cực đại](https://tienphong.vn/truc-tiep-psg-vs-arsenal-2h00-ngay-85-thu-thach-cuc-dai-post1740283.tpo) - 22:50 07/05/2025
+- 🎊 [Trực tiếp PSG vs Arsenal 1-0 &lpar;H2&rpar;: Pháo thủ bế tắc](https://tienphong.vn/truc-tiep-psg-vs-arsenal-1-0-h2-phao-thu-be-tac-post1740283.tpo) - 22:50 07/05/2025
 - 💼 [Kiểm tra, lấy mẫu tại cơ sở của chuỗi quán ăn có lòng xe điếu dài 40m ở TPHCM](https://tienphong.vn/kiem-tra-lay-mau-tai-co-so-cua-chuoi-quan-an-co-long-xe-dieu-dai-40m-o-tphcm-post1740292.tpo) - 22:39 07/05/2025
 - 👺 [Phố &#39;Tây&#39; Nha Trang sôi động trở lại nhờ khách Nga](https://tienphong.vn/pho-tay-nha-trang-soi-dong-tro-lai-nho-khach-nga-post1740110.tpo) - 22:35 07/05/2025
 - 💪 [Kho rơm lớn bất ngờ bốc cháy, khói mù mịt trên quốc lộ 1](https://tienphong.vn/kho-rom-lon-bat-ngo-boc-chay-khoi-mu-mit-tren-quoc-lo-1-post1740186.tpo) - 22:33 07/05/2025
