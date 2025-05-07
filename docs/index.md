@@ -28,7 +28,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- vnexpress:START -->
 - 🚀 [Suất đầu tư cầu cạn cao tốc gần 460 tỷ đồng/km](https://vnexpress.net/suat-dau-tu-cau-can-cao-toc-gan-460-ty-dong-km-4882959.html) - 18:00 07/05/2025
 - 🧰 [Tàu khách hạng sang Hà Nội - Hải Phòng trước ngày lăn bánh](https://vnexpress.net/tau-khach-hang-sang-ha-noi-hai-phong-truoc-ngay-lan-banh-4882955.html) - 18:00 07/05/2025
-- 🥰 [PSG - Arsenal: Dembele dự bị](https://vnexpress.net/psg-arsenal-dembele-du-bi-4882887.html) - 18:00 07/05/2025
+- 🥰 [PSG 1-0 Arsenal &lpar;H2&rpar;: PSG đặt một chân vào chung kết](https://vnexpress.net/psg-1-0-arsenal-h2-psg-dat-mot-chan-vao-chung-ket-4882887.html) - 18:00 07/05/2025
 - 🌏 [Chiến dịch vĩ đại nhất của Hồng quân Liên Xô trong Thế chiến II](https://vnexpress.net/chien-dich-vi-dai-nhat-cua-hong-quan-lien-xo-trong-the-chien-ii-4879926.html) - 18:00 07/05/2025
 - 🧐 [8 thói quen không tốt cho lưng](https://vnexpress.net/8-thoi-quen-khong-tot-cho-lung-4882367.html) - 18:00 07/05/2025
 - 💫 [Bài học cho năng lượng xanh Việt Nam từ sự cố mất điện tại Tây Ban Nha](https://vnexpress.net/bai-hoc-cho-nang-luong-xanh-viet-nam-tu-su-co-mat-dien-tai-tay-ban-nha-4882985.html) - 17:29 07/05/2025
