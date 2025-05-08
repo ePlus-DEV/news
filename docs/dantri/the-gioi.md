@@ -5,7 +5,7 @@ sidebar_position: 17
 
 <!-- dantri-the-gioi:START -->
 - 🌋 [Ấn Độ đã bắn rơi tiêm kích F-16 của Pakistan?](https://dantri.com.vn/the-gioi/an-do-da-ban-roi-tiem-kich-f-16-cua-pakistan-20250508233941363.htm) - 16:45 08/05/2025
-- 🎬 [Khói trắng bốc lên, Mật nghị Hồng y đã chọn được tân Giáo hoàng](https://dantri.com.vn/the-gioi/khoi-trang-boc-len-mat-nghi-hong-y-da-chon-duoc-tan-giao-hoang-20250508231356629.htm) - 16:14 08/05/2025
+- 🎬 [Vatican công bố tân Giáo hoàng Leo XIV](https://dantri.com.vn/the-gioi/vatican-cong-bo-tan-giao-hoang-leo-xiv-20250508231356629.htm) - 16:14 08/05/2025
 - 🧰 [Ấn Độ - Pakistan đều tuyên bố chiến thắng: Đôi bên toan tính gì tiếp theo?](https://dantri.com.vn/the-gioi/an-do-pakistan-deu-tuyen-bo-chien-thang-doi-ben-toan-tinh-gi-tiep-theo-20250508163708323.htm) - 15:30 08/05/2025
 - 🌋 [Israel phát cảnh báo cứng rắn chưa từng có với Iran](https://dantri.com.vn/the-gioi/israel-phat-canh-bao-cung-ran-chua-tung-co-voi-iran-20250508215259134.htm) - 15:14 08/05/2025
 - 🗽 [Nga cam kết đầu tư vào Cuba các dự án trị giá hơn 1 tỷ USD](https://dantri.com.vn/the-gioi/nga-cam-ket-dau-tu-vao-cuba-cac-du-an-tri-gia-hon-1-ty-usd-20250508213501592.htm) - 14:59 08/05/2025
