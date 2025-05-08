@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Đại học Ngoại ngữ xét 42 tổ hợp, quy đổi IELTS từ 5.5](https://vnexpress.net/to-hop-xet-tuyen-bang-quy-doi-diem-ielts-dai-hoc-ngoai-ngu-ulis-4882974.html) - 04:49 08/05/2025
-- 🦆 [Thí sinh đăng ký thi đánh giá năng lực tăng hơn 130%](https://vnexpress.net/thi-sinh-dang-ky-thi-danh-gia-nang-luc-tang-hon-130-4883117.html) - 04:20 08/05/2025
+- 🦆 [Hơn 97.000 thí sinh đăng ký thi đánh giá năng lực đợt 2](https://vnexpress.net/hon-97-000-thi-sinh-dang-ky-thi-danh-gia-nang-luc-dot-2-4883117.html) - 04:20 08/05/2025
 - 🦩 [Sinh viên ngành Truyền thông RMIT tự thiết kế chương trình học](https://vnexpress.net/sinh-vien-nganh-truyen-thong-rmit-tu-thiet-ke-chuong-trinh-hoc-4882972.html) - 02:00 08/05/2025
 - 🌮 [133 học sinh được miễn thi tốt nghiệp và tuyển thẳng đại học 2025](https://vnexpress.net/133-hoc-sinh-duoc-mien-thi-tot-nghiep-va-tuyen-thang-dai-hoc-2025-4882967.html) - 01:34 08/05/2025
 - 🔭 [ILA ra mắt trại hè dành cho gen Alpha](https://vnexpress.net/ila-ra-mat-trai-he-danh-cho-gen-alpha-4882971.html) - 01:00 08/05/2025
