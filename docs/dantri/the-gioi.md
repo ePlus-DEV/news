@@ -4,10 +4,10 @@ sidebar_position: 17
 ---
 
 <!-- dantri-the-gioi:START -->
-- 🌋 [Không chiến giữa Ấn Độ và Pakistan: J-10C tạm dẫn trước Rafale](https://dantri.com.vn/the-gioi/khong-chien-giua-an-do-va-pakistan-j-10c-tam-dan-truoc-rafale-20250508165419594.htm) - 10:00 08/05/2025
-- 🎬 [Ông Trump: Cần sớm ra quyết định về tiến trình hòa giải Nga - Ukraine](https://dantri.com.vn/the-gioi/ong-trump-can-som-ra-quyet-dinh-ve-tien-trinh-hoa-giai-nga-ukraine-20250508160327455.htm) - 09:18 08/05/2025
-- 🧰 [Pakistan bắn rơi 12 UAV cảm tử của Ấn Độ, không quân cảnh giác cao độ](https://dantri.com.vn/the-gioi/pakistan-ban-roi-12-uav-cam-tu-cua-an-do-khong-quan-canh-giac-cao-do-20250508154609038.htm) - 08:52 08/05/2025
-- 🌋 [Khói đen bốc lên từ nhà nguyện Vatican, vẫn chưa bầu được Giáo hoàng mới](https://dantri.com.vn/the-gioi/khoi-den-boc-len-tu-nha-nguyen-vatican-van-chua-bau-duoc-giao-hoang-moi-20250508150851212.htm) - 08:37 08/05/2025
+- 🌋 [Khói đen bốc lên từ nhà nguyện Vatican, vẫn chưa bầu được Giáo hoàng mới](https://dantri.com.vn/the-gioi/khoi-den-boc-len-tu-nha-nguyen-vatican-van-chua-bau-duoc-giao-hoang-moi-20250508150851212.htm) - 10:30 08/05/2025
+- 🎬 [Không chiến giữa Ấn Độ và Pakistan: J-10C tạm dẫn trước Rafale](https://dantri.com.vn/the-gioi/khong-chien-giua-an-do-va-pakistan-j-10c-tam-dan-truoc-rafale-20250508165419594.htm) - 10:00 08/05/2025
+- 🧰 [Ông Trump: Cần sớm ra quyết định về tiến trình hòa giải Nga - Ukraine](https://dantri.com.vn/the-gioi/ong-trump-can-som-ra-quyet-dinh-ve-tien-trinh-hoa-giai-nga-ukraine-20250508160327455.htm) - 09:18 08/05/2025
+- 🌋 [Pakistan bắn rơi 12 UAV cảm tử của Ấn Độ, không quân cảnh giác cao độ](https://dantri.com.vn/the-gioi/pakistan-ban-roi-12-uav-cam-tu-cua-an-do-khong-quan-canh-giac-cao-do-20250508154609038.htm) - 08:52 08/05/2025
 - 🗽 [Nước Nga thay đổi thế nào sau 25 năm ông Putin nắm quyền?](https://dantri.com.vn/the-gioi/nuoc-nga-thay-doi-the-nao-sau-25-nam-ong-putin-nam-quyen-20250508145515661.htm) - 08:11 08/05/2025
 - 💻 [Tiêm kích Nga hộ tống máy bay chở ông Tập Cận Bình thăm Moscow](https://dantri.com.vn/the-gioi/tiem-kich-nga-ho-tong-may-bay-cho-ong-tap-can-binh-tham-moscow-20250508145636298.htm) - 08:02 08/05/2025
 - ⛽️ [Mỹ sắp công bố thỏa thuận thương mại đầu tiên sau khi áp thuế toàn cầu](https://dantri.com.vn/the-gioi/my-sap-cong-bo-thoa-thuan-thuong-mai-dau-tien-sau-khi-ap-thue-toan-cau-20250508142026660.htm) - 07:23 08/05/2025
