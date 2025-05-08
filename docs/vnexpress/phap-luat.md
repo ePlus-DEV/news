@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [1.000 người mất tiền vì chiêu lừa cắt đá tìm ngọc quý](https://vnexpress.net/1-000-nguoi-mat-tien-vi-chieu-lua-cat-da-tim-ngoc-quy-4883473.html) - 13:28 08/05/2025
 - 🥰 [Ba lãnh đạo Công ty Quản lý công trình đô thị Bắc Giang bị bắt](https://vnexpress.net/ba-lanh-dao-cong-ty-quan-ly-cong-trinh-do-thi-bac-giang-bi-bat-4883465.html) - 12:23 08/05/2025
-- 🎓 [Thẩm phán Mỹ nghẹn lời khi xử vụ cố tình bỏ đói để con &#39;chết từ từ&#39;](https://vnexpress.net/tham-phan-my-nghen-loi-khi-xu-vu-co-tinh-bo-doi-de-con-chet-tu-tu-4883387.html) - 12:15 08/05/2025
+- 🎓 [Thẩm phán Mỹ nghẹn lời khi xử vụ cha mẹ cố tình bỏ con chết đói](https://vnexpress.net/tham-phan-my-nghen-loi-khi-xu-vu-cha-me-co-tinh-bo-con-chet-doi-4883387.html) - 12:15 08/05/2025
 - 🤓 [Một người Đà Nẵng trong đường dây lừa đảo của TikToker Mr Pips lĩnh án](https://vnexpress.net/mot-nguoi-da-nang-trong-duong-day-lua-dao-cua-tiktoker-mr-pips-linh-an-4883440.html) - 11:53 08/05/2025
 - 🎊 [Công an tìm nạn nhân của Tiktoker Lê Việt Hùng](https://vnexpress.net/cong-an-tim-nan-nhan-cua-tiktoker-le-viet-hung-4883434.html) - 10:16 08/05/2025
 - 🙉 [Lừa bán phế liệu để cưỡng bức phụ nữ](https://vnexpress.net/lua-ban-phe-lieu-de-cuong-buc-phu-nu-4883368.html) - 09:19 08/05/2025
