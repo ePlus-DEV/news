@@ -33,10 +33,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧐 [Tổng Bí thư Tô Lâm bắt đầu thăm chính thức Nga](https://vnexpress.net/tong-bi-thu-to-lam-bat-dau-tham-chinh-thuc-nga-4883207.html) - 14:39 08/05/2025
 - 💫 [Phó thủ tướng: TP HCM cần sớm có hạ tầng, nhân sự cho trung tâm tài chính](https://vnexpress.net/pho-thu-tuong-tp-hcm-can-som-co-ha-tang-nhan-su-cho-trung-tam-tai-chinh-4883476.html) - 14:35 08/05/2025
 - 😺 [Học sinh TP HCM chọn môn thi tốt nghiệp ngược chiều cả nước](https://vnexpress.net/hoc-sinh-tp-hcm-chon-mon-thi-tot-nghiep-nguoc-chieu-ca-nuoc-4883457.html) - 14:29 08/05/2025
-- 🕯 [Thời trang xa xỉ của con gái tỷ phú giàu nhất châu Á](https://vnexpress.net/thoi-trang-xa-xi-cua-con-gai-ty-phu-giau-nhat-chau-a-4883143.html) - 14:00 08/05/2025
-- 💃 [Ngủ đông - kỹ thuật giữ mạng sống cho bệnh nhân ngừng tim](https://vnexpress.net/ngu-dong-ky-thuat-giu-mang-song-cho-benh-nhan-ngung-tim-4883393.html) - 14:00 08/05/2025
-- 💂 [Bài toán lương bác sĩ 5 năm đầu sau ra trường](https://vnexpress.net/bai-toan-luong-bac-si-5-nam-dau-sau-ra-truong-4883420.html) - 14:00 08/05/2025
-- 🎊 [JW Marriott Saigon tổ chức triển lãm cưới &#39;Blooming Love&#39;](https://vnexpress.net/jw-marriott-saigon-to-chuc-trien-lam-cuoi-blooming-love-4883480.html) - 14:00 08/05/2025
+- 🕯 [JW Marriott Saigon tổ chức triển lãm cưới &#39;Blooming Love&#39;](https://vnexpress.net/jw-marriott-saigon-to-chuc-trien-lam-cuoi-blooming-love-4883480.html) - 14:00 08/05/2025
+- 💃 [Bài toán lương bác sĩ 5 năm đầu sau ra trường](https://vnexpress.net/bai-toan-luong-bac-si-5-nam-dau-sau-ra-truong-4883420.html) - 14:00 08/05/2025
+- 💂 [Ngủ đông - kỹ thuật giữ mạng sống cho bệnh nhân ngừng tim](https://vnexpress.net/ngu-dong-ky-thuat-giu-mang-song-cho-benh-nhan-ngung-tim-4883393.html) - 14:00 08/05/2025
+- 🎊 [Thời trang xa xỉ của con gái tỷ phú giàu nhất châu Á](https://vnexpress.net/thoi-trang-xa-xi-cua-con-gai-ty-phu-giau-nhat-chau-a-4883143.html) - 14:00 08/05/2025
 - 🤠 [Thái Lan đình chỉ hai bác sĩ tham gia điều trị cho ông Thaksin](https://vnexpress.net/thai-lan-dinh-chi-hai-bac-si-tham-gia-dieu-tri-cho-ong-thaksin-4883458.html) - 13:56 08/05/2025
 - 🌈 [Ông Trump gọi Chủ tịch Fed là &#39;kẻ ngốc&#39;](https://vnexpress.net/ong-trump-goi-chu-tich-fed-la-ke-ngoc-4883472.html) - 13:39 08/05/2025
 - 🎬 [Lần đầu tiên kiến trúc sư Việt Nam đoạt giải kiến trúc bền vững toàn cầu](https://vnexpress.net/lan-dau-tien-kien-truc-su-viet-nam-doat-giai-kien-truc-ben-vung-toan-cau-4883453.html) - 13:34 08/05/2025
@@ -46,9 +46,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎊 [Nước nào có đỉnh núi cao nhất thế giới chưa ai chạm tới?](https://vnexpress.net/nuoc-nao-co-dinh-nui-cao-nhat-the-gioi-chua-ai-cham-toi-4883444.html) - 13:10 08/05/2025
 - ⚗️ [Ấn Độ nêu lý do tập kích UAV nhằm vào Pakistan](https://vnexpress.net/an-do-neu-ly-do-tap-kich-uav-nham-vao-pakistan-4883442.html) - 13:10 08/05/2025
 - 🫣 [Bé gái trắng xóa phổi do sốc biến chứng sởi](https://vnexpress.net/be-gai-trang-xoa-phoi-do-soc-bien-chung-soi-4883412.html) - 13:00 08/05/2025
-- 👨‍🏫 [Thương mại toàn cầu giảm mạnh nhất hai năm](https://vnexpress.net/thuong-mai-toan-cau-giam-manh-nhat-hai-nam-4883246.html) - 13:00 08/05/2025
-- 🐻 [Chồng không đưa tiền cũng không phụ tôi bất cứ việc gì](https://vnexpress.net/chong-khong-dua-tien-cung-khong-phu-toi-bat-cu-viec-gi-4883382.html) - 13:00 08/05/2025
-- 😺 [LCP 2025 - cơ hội bứt phá cho Liên minh huyền thoại Việt Nam](https://vnexpress.net/lcp-2025-co-hoi-but-pha-cho-lien-minh-huyen-thoai-viet-nam-4883315.html) - 13:00 08/05/2025
+- 👨‍🏫 [Chồng không đưa tiền cũng không phụ tôi bất cứ việc gì](https://vnexpress.net/chong-khong-dua-tien-cung-khong-phu-toi-bat-cu-viec-gi-4883382.html) - 13:00 08/05/2025
+- 🐻 [LCP 2025 - cơ hội bứt phá cho Liên minh huyền thoại Việt Nam](https://vnexpress.net/lcp-2025-co-hoi-but-pha-cho-lien-minh-huyen-thoai-viet-nam-4883315.html) - 13:00 08/05/2025
+- 😺 [Thương mại toàn cầu giảm mạnh nhất hai năm](https://vnexpress.net/thuong-mai-toan-cau-giam-manh-nhat-hai-nam-4883246.html) - 13:00 08/05/2025
 - 🤔 [Bên trong nhà máy sản xuất sữa Vinamilk đạt chuẩn tinh khiết Mỹ](https://vnexpress.net/ben-trong-nha-may-san-xuat-sua-vinamilk-dat-chuan-tinh-khiet-my-4882268.html) - 13:00 08/05/2025
 - 🌮 [Soobin, Anh Tú hát mừng 70 năm giải phóng Hải Phòng](https://vnexpress.net/soobin-anh-tu-hat-mung-70-nam-giai-phong-hai-phong-4883436.html) - 12:45 08/05/2025
 - 🦩 [Rashford tự ứng cử với Barca](https://vnexpress.net/rashford-tu-ung-cu-voi-barca-4883463.html) - 12:42 08/05/2025
@@ -60,13 +60,13 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌁 [Ba lãnh đạo Công ty Quản lý công trình đô thị Bắc Giang bị bắt](https://vnexpress.net/ba-lanh-dao-cong-ty-quan-ly-cong-trinh-do-thi-bac-giang-bi-bat-4883465.html) - 12:23 08/05/2025
 - 🎬 [Máy ép mía cuốn quần bé trai làm tổn thương bộ phận sinh dục](https://vnexpress.net/may-ep-mia-cuon-quan-be-trai-lam-ton-thuong-bo-phan-sinh-duc-4883111.html) - 12:18 08/05/2025
 - 👨‍🏫 [Thẩm phán Mỹ nghẹn lời khi xử vụ cha mẹ cố tình bỏ con chết đói](https://vnexpress.net/tham-phan-my-nghen-loi-khi-xu-vu-cha-me-co-tinh-bo-con-chet-doi-4883387.html) - 12:15 08/05/2025
-- ⚗️ [Fan hát &#39;Ánh trăng nói hộ lòng tôi&#39; ở mộ phần Đặng Lệ Quân](https://vnexpress.net/fan-hat-anh-trang-noi-ho-long-toi-o-mo-phan-dang-le-quan-4883312.html) - 12:00 08/05/2025
-- 😺 [Ông chủ Facebook: &#39;Đa số bạn bè của người dùng sẽ là AI&#39;](https://vnexpress.net/ong-chu-facebook-da-so-ban-be-cua-nguoi-dung-se-la-ai-4883167.html) - 12:00 08/05/2025
-- 🔥 [Chưa thể phá băng du lịch Triều Tiên](https://vnexpress.net/chua-the-pha-bang-du-lich-trieu-tien-4883162.html) - 12:00 08/05/2025
-- 🧰 [Tân Thủ tướng được kỳ vọng giúp Đức khôi phục vị thế ở châu Âu](https://vnexpress.net/tan-thu-tuong-duoc-ky-vong-giup-duc-khoi-phuc-vi-the-o-chau-au-4882556.html) - 12:00 08/05/2025
-- 🦒 [Số phận ghế massage &#39;gốc 48 triệu giảm còn 25 triệu&#39; bố tôi chốt đơn](https://vnexpress.net/so-phan-ghe-massage-goc-48-trieu-giam-con-25-trieu-bo-toi-chot-don-4883433.html) - 12:00 08/05/2025
-- ⛽️ [Phẫu thuật kép điều trị vô sinh nam](https://vnexpress.net/phau-thuat-kep-dieu-tri-vo-sinh-nam-4883428.html) - 12:00 08/05/2025
-- 🚀 [Nên rửa mặt bao nhiêu lần mỗi ngày?](https://vnexpress.net/nen-rua-mat-bao-nhieu-lan-moi-ngay-4883155.html) - 12:00 08/05/2025
+- ⚗️ [Số phận ghế massage &#39;gốc 48 triệu giảm còn 25 triệu&#39; bố tôi chốt đơn](https://vnexpress.net/so-phan-ghe-massage-goc-48-trieu-giam-con-25-trieu-bo-toi-chot-don-4883433.html) - 12:00 08/05/2025
+- 😺 [Phẫu thuật kép điều trị vô sinh nam](https://vnexpress.net/phau-thuat-kep-dieu-tri-vo-sinh-nam-4883428.html) - 12:00 08/05/2025
+- 🔥 [Fan hát &#39;Ánh trăng nói hộ lòng tôi&#39; ở mộ phần Đặng Lệ Quân](https://vnexpress.net/fan-hat-anh-trang-noi-ho-long-toi-o-mo-phan-dang-le-quan-4883312.html) - 12:00 08/05/2025
+- 🧰 [Ông chủ Facebook: &#39;Đa số bạn bè của người dùng sẽ là AI&#39;](https://vnexpress.net/ong-chu-facebook-da-so-ban-be-cua-nguoi-dung-se-la-ai-4883167.html) - 12:00 08/05/2025
+- 🦒 [Chưa thể phá băng du lịch Triều Tiên](https://vnexpress.net/chua-the-pha-bang-du-lich-trieu-tien-4883162.html) - 12:00 08/05/2025
+- ⛽️ [Nên rửa mặt bao nhiêu lần mỗi ngày?](https://vnexpress.net/nen-rua-mat-bao-nhieu-lan-moi-ngay-4883155.html) - 12:00 08/05/2025
+- 🚀 [Tân Thủ tướng được kỳ vọng giúp Đức khôi phục vị thế ở châu Âu](https://vnexpress.net/tan-thu-tuong-duoc-ky-vong-giup-duc-khoi-phuc-vi-the-o-chau-au-4882556.html) - 12:00 08/05/2025
 - 🪜 [Khánh thành Phòng lưu niệm Chủ tịch Hồ Chí Minh với ngành dầu khí Việt Nam - Azerbaijan](https://vnexpress.net/khanh-thanh-phong-luu-niem-chu-tich-ho-chi-minh-voi-nganh-dau-khi-viet-nam-azerbaijan-4883452.html) - 11:59 08/05/2025
 - 🚦 [Một người Đà Nẵng trong đường dây lừa đảo của TikToker Mr Pips lĩnh án](https://vnexpress.net/mot-nguoi-da-nang-trong-duong-day-lua-dao-cua-tiktoker-mr-pips-linh-an-4883440.html) - 11:53 08/05/2025
 - 🕯 [TP HCM sẽ hỗ trợ chủ trọ vay lãi suất ưu đãi để cải tạo nhà](https://vnexpress.net/tp-hcm-se-ho-tro-chu-tro-vay-lai-suat-uu-dai-de-cai-tao-nha-4883353.html) - 11:51 08/05/2025
@@ -78,11 +78,11 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🏊 [&#39;Mới thông tin kiểm tra lòng se điếu, khắp nơi đã báo hết hàng&#39;](https://vnexpress.net/moi-thong-tin-kiem-tra-long-se-dieu-khap-noi-da-bao-het-hang-4883407.html) - 11:09 08/05/2025
 - 💂 [Người trẻ Hàn Quốc tăng quan tâm đến Phật giáo](https://vnexpress.net/nguoi-tre-han-quoc-tang-quan-tam-den-phat-giao-4882200.html) - 11:05 08/05/2025
 - 🚀 [Sở Tài chính: Kinh tế tư nhân đóng góp tăng trưởng lớn cho TP HCM](https://vnexpress.net/so-tai-chinh-kinh-te-tu-nhan-dong-gop-tang-truong-lon-cho-tp-hcm-4883425.html) - 11:03 08/05/2025
-- 🕴 [Điều hòa loại nhỏ có thể không bị áp thuế tiêu thụ đặc biệt](https://vnexpress.net/dieu-hoa-loai-nho-co-the-khong-bi-ap-thue-tieu-thu-dac-biet-4883381.html) - 11:00 08/05/2025
-- 🦆 [Petit: &#39;Dembele đã có tên trên Quả Bóng Vàng&#39;](https://vnexpress.net/petit-dembele-da-co-ten-tren-qua-bong-vang-4883341.html) - 11:00 08/05/2025
-- 💫 [Chicilon Media chiếm hơn 90% thị phần quảng cáo thang máy](https://vnexpress.net/chicilon-media-chiem-hon-90-thi-phan-quang-cao-thang-may-4883447.html) - 11:00 08/05/2025
-- 🤓 [5 công nghệ làm việc nhà thông minh của Samsung Bespoke AI](https://vnexpress.net/5-cong-nghe-lam-viec-nha-thong-minh-cua-samsung-bespoke-ai-4883391.html) - 11:00 08/05/2025
-- 🤡 [10 đội hình leo hạng mạnh nhất Đấu trường chấn lý 14.3](https://vnexpress.net/10-doi-hinh-leo-hang-manh-nhat-dau-truong-chan-ly-14-3-4883374.html) - 11:00 08/05/2025<!-- vnexpress:END -->
+- 🕴 [Chicilon Media chiếm hơn 90% thị phần quảng cáo thang máy](https://vnexpress.net/chicilon-media-chiem-hon-90-thi-phan-quang-cao-thang-may-4883447.html) - 11:00 08/05/2025
+- 🦆 [5 công nghệ làm việc nhà thông minh của Samsung Bespoke AI](https://vnexpress.net/5-cong-nghe-lam-viec-nha-thong-minh-cua-samsung-bespoke-ai-4883391.html) - 11:00 08/05/2025
+- 💫 [Điều hòa loại nhỏ có thể không bị áp thuế tiêu thụ đặc biệt](https://vnexpress.net/dieu-hoa-loai-nho-co-the-khong-bi-ap-thue-tieu-thu-dac-biet-4883381.html) - 11:00 08/05/2025
+- 🤓 [10 đội hình leo hạng mạnh nhất Đấu trường chấn lý 14.3](https://vnexpress.net/10-doi-hinh-leo-hang-manh-nhat-dau-truong-chan-ly-14-3-4883374.html) - 11:00 08/05/2025
+- 🤡 [Petit: &#39;Dembele đã có tên trên Quả Bóng Vàng&#39;](https://vnexpress.net/petit-dembele-da-co-ten-tren-qua-bong-vang-4883341.html) - 11:00 08/05/2025<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
