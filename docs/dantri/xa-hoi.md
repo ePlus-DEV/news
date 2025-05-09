@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- dantri-xa-hoi:START -->
-- 🫣 [Hàng nghìn người tham gia &quot;Đêm hội hoa đăng&quot; ở chùa Pháp Hoa](https://dantri.com.vn/giao-duc/hang-nghin-nguoi-tham-gia-dem-hoi-hoa-dang-o-chua-phap-hoa-20250509161155401.htm) - 14:13 09/05/2025
+- 🫣 [Hàng nghìn người tham gia &quot;Đêm hội hoa đăng&quot; ở chùa Pháp Hoa](https://dantri.com.vn/xa-hoi/hang-nghin-nguoi-tham-gia-dem-hoi-hoa-dang-o-chua-phap-hoa-20250509161155401.htm) - 14:13 09/05/2025
 - 💼 [Bàn giao chức vụ Tư lệnh Quân đoàn 34](https://dantri.com.vn/xa-hoi/ban-giao-chuc-vu-tu-lenh-quan-doan-34-20250509204231470.htm) - 14:06 09/05/2025
 - 🎊 [Nam shipper bị sét đánh bất tỉnh khi đang chạy xe máy trên đường](https://dantri.com.vn/xa-hoi/nam-shipper-bi-set-danh-bat-tinh-khi-dang-chay-xe-may-tren-duong-20250509193200963.htm) - 13:44 09/05/2025
 - 🙉 [Tổng Bí thư Tô Lâm hội kiến Chủ tịch Hội đồng Liên bang, Quốc hội LB Nga](https://dantri.com.vn/xa-hoi/tong-bi-thu-to-lam-hoi-kien-chu-tich-hoi-dong-lien-bang-quoc-hoi-lb-nga-20250509204134806.htm) - 13:41 09/05/2025
