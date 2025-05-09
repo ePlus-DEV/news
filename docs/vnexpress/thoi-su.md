@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hành khách bỏ quên ví tiền trên tàu](https://vnexpress.net/hanh-khach-bo-quen-vi-tien-tren-tau-4883633.html) - 03:43 09/05/2025
+- 🦒 [Nhiều hành khách bỏ quên hành lý trên tàu](https://vnexpress.net/nhieu-hanh-khach-bo-quen-hanh-ly-tren-tau-4883633.html) - 03:43 09/05/2025
 - 🤓 [Đường 1.500 tỷ đồng dang dở sau 4 năm thi công](https://vnexpress.net/duong-1-500-ty-dong-dang-do-sau-4-nam-thi-cong-4883459.html) - 02:51 09/05/2025
 - ⚗️ [Hôm nay Quốc hội thảo luận về phát triển trí tuệ nhân tạo](https://vnexpress.net/hom-nay-quoc-hoi-thao-luan-ve-phat-trien-tri-tue-nhan-tao-4883482.html) - 21:00 08/05/2025
 - 🌊 [Cải tạo khu tập thể Vĩnh Hồ thành các tòa nhà 40 tầng](https://vnexpress.net/cai-tao-khu-tap-the-vinh-ho-thanh-cac-toa-nha-40-tang-4883344.html) - 17:13 08/05/2025
