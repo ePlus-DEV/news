@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Giáo viên lo bỏ đình chỉ học sẽ &#39;không đủ răn đe&#39; học sinh](https://vnexpress.net/giao-vien-lo-bo-dinh-chi-hoc-se-khong-du-ran-de-hoc-sinh-4883529.html) - 14:01 09/05/2025
+- 🤓 [Lo khó răn đe học trò ngỗ nghịch nếu bỏ đình chỉ học](https://vnexpress.net/lo-kho-ran-de-hoc-tro-ngo-nghich-neu-bo-dinh-chi-hoc-4883529.html) - 14:01 09/05/2025
 - 🦆 [Quốc gia duy nhất nào có ba thủ đô?](https://vnexpress.net/quoc-gia-duy-nhat-nao-co-ba-thu-do-4883785.html) - 12:00 09/05/2025
 - 🦩 [Đại học Sư phạm Kỹ thuật TP HCM nhân đôi điểm môn chính](https://vnexpress.net/cac-cong-thuc-xet-tuyen-dai-hoc-su-pham-ky-thuat-tp-hcm-2025-chinh-xac-nhat-4883744.html) - 09:03 09/05/2025
 - 🌮 [&#39;Giọt nước tràn ly&#39; nói thế nào trong tiếng Anh?](https://vnexpress.net/giot-nuoc-tran-ly-noi-the-nao-trong-tieng-anh-4883419.html) - 06:30 09/05/2025
