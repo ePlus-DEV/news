@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Giá điện tăng 4,8% lên hơn 2.200 đồng/kWh từ ngày mai](https://vnexpress.net/gia-dien-tang-4-8-len-hon-2-200-dong-kwh-tu-ngay-mai-4883770.html) - 09:07 09/05/2025
+- ⛽️ [Giá điện tăng 4,8% lên hơn 2.200 đồng một kWh từ ngày mai](https://vnexpress.net/gia-dien-tang-4-8-len-hon-2-200-dong-mot-kwh-tu-ngay-mai-4883770.html) - 09:07 09/05/2025
 - 🐲 [Cổ phiếu bất động sản tạo gánh nặng cho thị trường](https://vnexpress.net/chung-khoan-hom-nay-9-5-co-phieu-bat-dong-san-tao-ganh-nang-cho-thi-truong-4883796.html) - 08:36 09/05/2025
 - 🔥 [Xuất khẩu của Trung Quốc tăng mạnh](https://vnexpress.net/xuat-khau-cua-trung-quoc-tang-manh-4883786.html) - 08:26 09/05/2025
 - 🐵 [Chính phủ yêu cầu nghiên cứu chính sách ứng phó biến đổi khí hậu](https://vnexpress.net/chinh-phu-yeu-cau-nghien-cuu-chinh-sach-ung-pho-bien-doi-khi-hau-4883750.html) - 07:41 09/05/2025
