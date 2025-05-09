@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Brad Pitt xuất hiện trong MV của Rosé](https://vnexpress.net/brad-pitt-xuat-hien-trong-mv-cua-rose-4883501.html) - 17:32 08/05/2025
-- 💫 [Ngô Thanh Vân đấu Charlie Theron trong &#39;The Old Guard 2&#39;](https://vnexpress.net/ngo-thanh-van-dau-charlie-theron-trong-the-old-guard-2-4883502.html) - 17:24 08/05/2025
+- 💫 [Ngô Thanh Vân đấu Charlize Theron trong &#39;The Old Guard 2&#39;](https://vnexpress.net/ngo-thanh-van-dau-charlize-theron-trong-the-old-guard-2-4883502.html) - 17:24 08/05/2025
 - 🌮 [Duyên Quỳnh: &#39;Tôi từng muốn bỏ nghề vì đi hát không đủ sống&#39;](https://vnexpress.net/duyen-quynh-toi-tung-muon-bo-nghe-vi-di-hat-khong-du-song-4881637.html) - 17:00 08/05/2025
 - 🧠 [Thời trang xa xỉ của con gái tỷ phú giàu nhất châu Á](https://vnexpress.net/thoi-trang-xa-xi-cua-con-gai-ty-phu-giau-nhat-chau-a-4883143.html) - 14:00 08/05/2025
 - 👨‍🏫 [Soobin, Anh Tú hát mừng 70 năm giải phóng Hải Phòng](https://vnexpress.net/soobin-anh-tu-hat-mung-70-nam-giai-phong-hai-phong-4883436.html) - 12:45 08/05/2025
