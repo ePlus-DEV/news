@@ -4,9 +4,9 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [9 ngân hàng tính chi 33.000 tỷ đồng chia cổ tức tiền mặt](https://vnexpress.net/9-ngan-hang-chia-co-tuc-tien-mat-nam-nay-4883306.html) - 23:00 08/05/2025
+- ⛽️ [9 ngân hàng tính chi 33.000 tỷ đồng trả cổ tức tiền mặt](https://vnexpress.net/9-ngan-hang-chia-co-tuc-tien-mat-nam-nay-4883306.html) - 23:00 08/05/2025
 - 🐲 [Cách Temu, Shein tồn tại ở Mỹ khi không được miễn thuế hàng nhỏ](https://vnexpress.net/cach-temu-shein-ton-tai-o-my-khi-khong-duoc-mien-thue-hang-nho-4882901.html) - 22:10 08/05/2025
-- 🔥 [Bitcoin trở lại mốc 100.000 USD sau 3 tháng](https://vnexpress.net/bitcoin-tro-lai-moc-100-000-usd-sau-3-thang-4883497.html) - 17:02 08/05/2025
+- 🔥 [Bitcoin trở lại mốc 100.000 USD sau 3 tháng](https://vnexpress.net/gia-bitcoin-hom-nay-btc-tro-lai-moc-100-000-usd-sau-3-thang-4883497.html) - 17:02 08/05/2025
 - 🐵 [Bộ trưởng Tài chính: Doanh nghiệp Việt muốn tăng đầu tư tại Mỹ](https://vnexpress.net/bo-truong-tai-chinh-doanh-nghiep-viet-muon-tang-dau-tu-tai-my-4883492.html) - 17:01 08/05/2025
 - 🦅 [Thủ tướng: Phải có cơ chế để doanh nghiệp tư nhân &#39;phát triển không giới hạn&#39;](https://vnexpress.net/thu-tuong-phai-co-co-che-de-doanh-nghiep-tu-nhan-phat-trien-khong-gioi-han-4883483.html) - 15:00 08/05/2025
 - 😺 [Phó thủ tướng: TP HCM cần sớm có hạ tầng, nhân sự cho trung tâm tài chính](https://vnexpress.net/pho-thu-tuong-tp-hcm-can-som-co-ha-tang-nhan-su-cho-trung-tam-tai-chinh-4883476.html) - 14:35 08/05/2025
