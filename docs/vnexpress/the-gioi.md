@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Nga - Trung phản đối hạn chế tự do thương mại đơn phương](https://vnexpress.net/nga-trung-phan-doi-han-che-tu-do-thuong-mai-don-phuong-4883595.html) - 07:24 09/05/2025
-- 🕴 [Nga tổ chức Duyệt binh Chiến thắng trên Quảng trường Đỏ](https://vnexpress.net/nga-sap-duyet-binh-chien-thang-tren-quang-truong-do-4883605.html) - 06:33 09/05/2025
+- 🕴 [Đoàn Việt Nam tiến qua lễ đài Duyệt binh Chiến thắng](https://vnexpress.net/nga-sap-duyet-binh-chien-thang-tren-quang-truong-do-4883605.html) - 06:33 09/05/2025
 - 🤭 [Ý nghĩa tông hiệu Leo XIV của tân Giáo hoàng](https://vnexpress.net/y-nghia-tong-hieu-leo-xiv-cua-tan-giao-hoang-4883541.html) - 04:59 09/05/2025
 - 🧑‍💻 [Ông Trump bổ nhiệm MC Fox News làm quyền công tố viên liên bang](https://vnexpress.net/ong-trump-bo-nhiem-mc-fox-news-lam-quyen-cong-to-vien-lien-bang-4883620.html) - 04:45 09/05/2025
 - 🦏 [Bill Gates tặng cá voi nhồi bông cho mèo của Tổng thống Indonesia](https://vnexpress.net/bill-gates-tang-ca-voi-nhoi-bong-cho-meo-cua-tong-thong-indonesia-4883543.html) - 04:30 09/05/2025
