@@ -588,7 +588,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎊 [NHỊP SỐNG 24: Kỳ lạ khách nước ngoài ôm gà đi khắp nơi](https://tienphong.vn/nhip-song-24-ky-la-khach-nuoc-ngoai-om-ga-di-khap-noi-post1740830.tpo) - 18:59 09/05/2025
 - 💼 [Sắp tổ chức &#39;Nha Trang say Hi&#39; tại Khánh Hòa](https://tienphong.vn/sap-to-chuc-nha-trang-say-hi-tai-khanh-hoa-post1740687.tpo) - 18:50 09/05/2025
 - 👺 [Thông tin chi tiết đợt mưa lớn ở miền Bắc](https://tienphong.vn/thong-tin-chi-tiet-dot-mua-lon-o-mien-bac-post1740846.tpo) - 18:45 09/05/2025
-- 💪 [Trực tiếp Công an Hà Nội vs Hồng Lĩnh Hà Tĩnh &lpar;19h15 ngày 9/5&rpar;: Nhiệm vụ gian nan](https://tienphong.vn/truc-tiep-cong-an-ha-noi-vs-hong-linh-ha-tinh-19h15-ngay-95-nhiem-vu-gian-nan-post1740849.tpo) - 18:44 09/05/2025
+- 💪 [Trực tiếp Công an Hà Nội vs Hồng Lĩnh Hà Tĩnh 0-0 &lpar;H1&rpar;: Hiệp 1 bắt đầu](https://tienphong.vn/truc-tiep-cong-an-ha-noi-vs-hong-linh-ha-tinh-0-0-h1-hiep-1-bat-dau-post1740849.tpo) - 18:44 09/05/2025
 - 💃 [Nhiều dự án ở Quảng Trị nguy cơ chậm tiến độ](https://tienphong.vn/nhieu-du-an-o-quang-tri-nguy-co-cham-tien-do-post1740689.tpo) - 18:29 09/05/2025
 - 🦍 [Không thể ngờ về cổ tức doanh nghiệp mai táng duy nhất trên sàn](https://tienphong.vn/khong-the-ngo-ve-co-tuc-doanh-nghiep-mai-tang-duy-nhat-tren-san-post1740801.tpo) - 18:24 09/05/2025
 - 👹 [Đối thủ cũ của Thanh Thủy gây chú ý ở Hoa hậu Thế giới](https://tienphong.vn/doi-thu-cu-cua-thanh-thuy-gay-chu-y-o-hoa-hau-the-gioi-post1740779.tpo) - 18:21 09/05/2025
