@@ -6,7 +6,7 @@ sidebar_position: 17
 <!-- dantri-the-gioi:START -->
 - 🌋 [Vũ khí &quot;sát thủ&quot; giúp Ấn Độ vô hiệu hóa lá chắn phòng không Pakistan](https://dantri.com.vn/the-gioi/vu-khi-sat-thu-giup-an-do-vo-hieu-hoa-la-chan-phong-khong-pakistan-20250509113546431.htm) - 06:17 09/05/2025
 - 🎬 [Chiến sĩ QĐND Việt Nam dùng súng gì duyệt binh ở Quảng trường Đỏ ngày 9/5?](https://dantri.com.vn/the-gioi/chien-si-qdnd-viet-nam-dung-sung-gi-duyet-binh-o-quang-truong-do-ngay-95-20250509104337705.htm) - 05:58 09/05/2025
-- 🧰 [Nga sẵn sàng cho lễ duyệt binh Ngày Chiến thắng](https://dantri.com.vn/the-gioi/nga-san-sang-cho-le-duyet-binh-ngay-chien-thang-20250509091400187.htm) - 05:08 09/05/2025
+- 🧰 [Nga bắt đầu lễ duyệt binh Ngày Chiến thắng trên Quảng trường Đỏ](https://dantri.com.vn/the-gioi/nga-bat-dau-le-duyet-binh-ngay-chien-thang-tren-quang-truong-do-20250509091400187.htm) - 05:08 09/05/2025
 - 🌋 [Pakistan tấn công dồn dập toàn tuyến biên giới Ấn Độ](https://dantri.com.vn/the-gioi/pakistan-tan-cong-don-dap-toan-tuyen-bien-gioi-an-do-20250509114105874.htm) - 04:42 09/05/2025
 - 🗽 [Trợ lý Điện Kremlin: Mỹ bắt đầu hiểu lập trường của Nga về Ukraine](https://dantri.com.vn/the-gioi/tro-ly-dien-kremlin-my-bat-dau-hieu-lap-truong-cua-nga-ve-ukraine-20250509104609950.htm) - 04:09 09/05/2025
 - 💻 [Nga thảo luận với Mỹ về nối lại xuất khẩu khí đốt tới châu Âu?](https://dantri.com.vn/the-gioi/nga-thao-luan-voi-my-ve-noi-lai-xuat-khau-khi-dot-toi-chau-au-20250509104202084.htm) - 03:54 09/05/2025
