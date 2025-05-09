@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Cách làm món đậu cô ve xào thịt bò](https://vnexpress.net/cach-lam-mon-dau-co-ve-xao-thit-bo-4883405.html) - 08:30 09/05/2025
+- 🚀 [Cách làm món đậu cô ve xào thịt bò](https://vnexpress.net/doi-song-cooking-dau-xao-thit-bo-4883405.html) - 08:30 09/05/2025
 - 🎓 [14 y tá sản khoa Mỹ cùng mang thai](https://vnexpress.net/14-y-ta-san-khoa-my-cung-mang-thai-4883691.html) - 06:08 09/05/2025
 - 🚦 [Hơn 50% người Hàn Quốc &#39;oán trách cuộc sống&#39;](https://vnexpress.net/hon-50-nguoi-han-quoc-oan-trach-cuoc-song-4883650.html) - 05:45 09/05/2025
 - 🦣 [Chuyện tình bệnh nhân bại não và chàng bác sĩ](https://vnexpress.net/chuyen-tinh-benh-nhan-bai-nao-va-chang-bac-si-4883127.html) - 03:25 09/05/2025
@@ -14,7 +14,7 @@ sidebar_position: 6
 - 🎃 [Bên trong nhà máy sản xuất sữa Vinamilk đạt chuẩn tinh khiết Mỹ](https://vnexpress.net/ben-trong-nha-may-san-xuat-sua-vinamilk-dat-chuan-tinh-khiet-my-4882268.html) - 13:00 08/05/2025
 - 💪 [Nhà khoa học chia sẻ 4 thói quen giúp sống thọ khỏe mạnh](https://vnexpress.net/nha-khoa-hoc-chia-se-4-thoi-quen-giup-song-tho-khoe-manh-4882991.html) - 12:30 08/05/2025
 - 🐻 [5 công nghệ làm việc nhà thông minh của Samsung Bespoke AI](https://vnexpress.net/5-cong-nghe-lam-viec-nha-thong-minh-cua-samsung-bespoke-ai-4883391.html) - 11:00 08/05/2025
-- 🧠 [Nên chần xương, thịt bằng nước lạnh hay sôi?](https://vnexpress.net/nen-chan-xuong-thit-bang-nuoc-lanh-hay-soi-4883351.html) - 08:23 08/05/2025
+- 🧠 [Nên chần xương, thịt bằng nước lạnh hay sôi?](https://vnexpress.net/doi-song-cooking-chan-xuong-thit-bang-nuoc-lanh-hay-soi-4883351.html) - 08:23 08/05/2025
 - 🐘 [Mặc váy cưới chạy marathon tưởng nhớ chồng đã mất](https://vnexpress.net/mac-vay-cuoi-chay-marathon-tuong-nho-chong-da-mat-4883221.html) - 08:02 08/05/2025
 - 👹 [Cả thị trấn say thuốc vì cảnh sát tiêu hủy cần sa](https://vnexpress.net/ca-thi-tran-say-thuoc-vi-canh-sat-tieu-huy-can-sa-4883118.html) - 03:39 08/05/2025
 - 💂 [Làm nhân tượng để ăn xin](https://vnexpress.net/lam-nhan-tuong-de-an-xin-4882996.html) - 01:32 08/05/2025
