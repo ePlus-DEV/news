@@ -246,14 +246,14 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Đối tượng trong vụ giết nhầm người gây rúng động ở An Giang đã ra đầu thú](https://nld.com.vn/doi-tuong-trong-vu-giet-nham-nguoi-gay-rung-dong-o-an-giang-da-ra-dau-thu-196250510155106666.htm) - 08:59 10/05/2025
-- 😺 [Phát hiện người đàn ông tử vong trên đường ở TP Thủ Đức](https://nld.com.vn/phat-hien-nguoi-dan-ong-tu-vong-tren-duong-o-tp-thu-duc-196250510154638873.htm) - 08:56 10/05/2025
-- 👍 [Thủ tướng yêu cầu khắc phục nhanh sự cố dột mái nhà ga T3 Tân Sơn Nhất](https://nld.com.vn/thu-tuong-yeu-cau-khac-phuc-nhanh-su-co-dot-mai-nha-ga-t3-tan-son-nhat-196250510151603353.htm) - 08:55 10/05/2025
-- 🥷 [PGS-TS Phạm Văn Tình đột ngột qua đời](https://nld.com.vn/pgs-ts-pham-van-tinh-dot-ngot-qua-doi-196250510152225549.htm) - 08:53 10/05/2025
-- 🤔 [Sau cú sốc thuế quan Mỹ, doanh nghiệp nên làm gì?](https://nld.com.vn/sau-cu-soc-thue-quan-my-doanh-nghiep-nen-lam-gi-196250510151929723.htm) - 08:53 10/05/2025
-- 🌈 [Mỹ nhân &quot;Lâu đài tham vọng&quot; ly hôn đạo diễn](https://nld.com.vn/my-nhan-lau-dai-tham-vong-ly-hon-dao-dien-196250510154447659.htm) - 08:52 10/05/2025
-- 🔥 [Đề xuất mới về địa bàn áp dụng mức lương tối thiểu vùng](https://nld.com.vn/de-xuat-moi-ve-dia-ban-ap-dung-muc-luong-toi-thieu-vung-196250510151903729.htm) - 08:52 10/05/2025
-- 🧰 [30 đảng viên và 2 tổ chức đảng ở An Giang bị xem xét kiểm điểm, kỷ luật](https://nld.com.vn/30-dang-vien-va-2-to-chuc-dang-o-an-giang-bi-xem-xet-kiem-diem-ky-luat-196250510152722444.htm) - 08:43 10/05/2025
+- 🐎 [Sáp nhập tỉnh, xã, ngân sách tiết kiệm hơn 190.000 tỉ đồng trong 5 năm](https://nld.com.vn/de-xuat-moi-ve-dia-ban-ap-dung-muc-luong-toi-thieu-vung-196250510151903729.htm) - 09:22 10/05/2025
+- 😺 [Đối tượng trong vụ giết nhầm người gây rúng động ở An Giang đã ra đầu thú](https://nld.com.vn/doi-tuong-trong-vu-giet-nham-nguoi-gay-rung-dong-o-an-giang-da-ra-dau-thu-196250510155106666.htm) - 08:59 10/05/2025
+- 👍 [Phát hiện người đàn ông tử vong trên đường ở TP Thủ Đức](https://nld.com.vn/phat-hien-nguoi-dan-ong-tu-vong-tren-duong-o-tp-thu-duc-196250510154638873.htm) - 08:56 10/05/2025
+- 🥷 [Thủ tướng yêu cầu khắc phục nhanh sự cố dột mái nhà ga T3 Tân Sơn Nhất](https://nld.com.vn/thu-tuong-yeu-cau-khac-phuc-nhanh-su-co-dot-mai-nha-ga-t3-tan-son-nhat-196250510151603353.htm) - 08:55 10/05/2025
+- 🤔 [PGS-TS Phạm Văn Tình đột ngột qua đời](https://nld.com.vn/pgs-ts-pham-van-tinh-dot-ngot-qua-doi-196250510152225549.htm) - 08:53 10/05/2025
+- 🌈 [Sau cú sốc thuế quan Mỹ, doanh nghiệp nên làm gì?](https://nld.com.vn/sau-cu-soc-thue-quan-my-doanh-nghiep-nen-lam-gi-196250510151929723.htm) - 08:53 10/05/2025
+- 🔥 [Mỹ nhân Kim Bo-ra ly hôn sau gần 1 năm cưới](https://nld.com.vn/my-nhan-kim-bo-ra-ly-hon-sau-gan-1-nam-cuoi-196250510154447659.htm) - 08:52 10/05/2025
+- 🧰 [Nguyên Chủ tịch UBND tỉnh An Giang vi phạm quy định về những điều đảng viên không được làm](https://nld.com.vn/nguyen-chu-tich-ubnd-tinh-an-giang-vi-pham-quy-dinh-ve-nhung-dieu-dang-vien-khong-duoc-lam-196250510152722444.htm) - 08:43 10/05/2025
 - 🤗 [Lãnh đạo 4 nước châu Âu đến Ukraine, Điện Kremlin lên tiếng](https://nld.com.vn/lanh-dao-4-nuoc-chau-au-den-ukraine-dien-kremlin-len-tieng-196250510151711945.htm) - 08:33 10/05/2025
 - 🦅 [Sinh viên TP HCM đội mưa đi ứng tuyển việc làm](https://nld.com.vn/sinh-vien-tp-hcm-doi-mua-di-ung-tuyen-viec-lam-196250510150855681.htm) - 08:30 10/05/2025
 - 🤩 [Vì sao khu vực chợ Thủ Đức thường xuyên ngập nặng?](https://nld.com.vn/vi-sao-khu-vuc-cho-thu-duc-thuong-xuyen-ngap-nang-196250510150539574.htm) - 08:25 10/05/2025
