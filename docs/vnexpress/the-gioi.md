@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Tương lai mờ mịt của Harvard khi đối đầu chính quyền Trump](https://vnexpress.net/tuong-lai-mo-mit-cua-harvard-khi-doi-dau-chinh-quyen-trump-4883592.html) - 22:00 09/05/2025
-- 🕴 [Tổng Bí thư Tô Lâm gặp Tổng Bí thư, Chủ tịch Trung Quốc Tập Cận Bình](https://vnexpress.net/tong-bi-thu-to-lam-gap-tong-bi-thu-chu-tich-trung-quoc-tap-can-binh-4883945.html) - 17:44 09/05/2025
-- 🤭 [Người Mỹ bất ngờ và hân hoan với tân Giáo hoàng đến từ Chicago](https://vnexpress.net/nguoi-my-bat-ngo-va-han-hoan-voi-tan-giao-hoang-den-tu-chicago-4883528.html) - 17:00 09/05/2025
-- 🧑‍💻 [Thủ tướng đề nghị Việt - Trung ưu tiên hợp tác đường sắt](https://vnexpress.net/thu-tuong-de-nghi-viet-trung-uu-tien-hop-tac-duong-sat-4883936.html) - 16:31 09/05/2025
-- 🦏 [Đan Mạch lo ngại Mỹ thu thập tin tình báo về Greenland](https://vnexpress.net/dan-mach-lo-ngai-my-thu-thap-tin-tinh-bao-ve-greenland-4883929.html) - 16:19 09/05/2025
-- 🦒 [Pakistan cảnh báo &#39;đối đầu trên toàn bộ ranh giới&#39; với Ấn Độ](https://vnexpress.net/pakistan-canh-bao-doi-dau-tren-toan-bo-ranh-gioi-voi-an-do-4883883.html) - 14:09 09/05/2025
-- 🌈 [Lễ nhậm chức của Giáo hoàng Leo XIV sẽ diễn ra vào 18/5](https://vnexpress.net/le-nham-chuc-cua-giao-hoang-leo-xiv-se-dien-ra-vao-18-5-4883897.html) - 13:29 09/05/2025
-- 🧑‍🏫 [Lễ kỷ niệm 80 năm Ngày Chiến thắng trên Quảng trường Đỏ](https://vnexpress.net/le-ky-niem-80-nam-ngay-chien-thang-tren-quang-truong-do-4883873.html) - 13:28 09/05/2025
-- 🐲 [Thực đơn ông Putin chiêu đãi các lãnh đạo quốc tế](https://vnexpress.net/thuc-don-ong-putin-chieu-dai-cac-lanh-dao-quoc-te-4883885.html) - 13:00 09/05/2025
-- 🦒 [Cố vấn an ninh Thụy Điển từ chức 12 tiếng sau khi được bổ nhiệm](https://vnexpress.net/co-van-an-ninh-thuy-dien-tu-chuc-12-tieng-sau-khi-duoc-bo-nhiem-4883868.html) - 12:34 09/05/2025
-- 🐻 [Hành trình người Công giáo trở thành linh mục](https://vnexpress.net/hanh-trinh-nguoi-cong-giao-tro-thanh-linh-muc-4751698.html) - 12:00 09/05/2025
-- 🚀 [Những đội hình quân nhân duyệt binh Chiến thắng trên Quảng trường Đỏ](https://vnexpress.net/nhung-doi-hinh-quan-nhan-duyet-binh-chien-thang-tren-quang-truong-do-4883850.html) - 11:30 09/05/2025
-- 🥰 [Nga sẽ điều xe tăng duyệt binh tại Moskva ra chiến trường](https://vnexpress.net/nga-se-dieu-xe-tang-duyet-binh-tai-moskva-ra-chien-truong-4883891.html) - 11:18 09/05/2025
-- 🔥 [Tân Giáo hoàng Leo XIV lần đầu chủ trì thánh lễ](https://vnexpress.net/tan-giao-hoang-leo-xiv-lan-dau-chu-tri-thanh-le-4883845.html) - 11:15 09/05/2025
-- 🥳 [Giây phút quân nhân Việt Nam duyệt binh trên Quảng trường Đỏ](https://vnexpress.net/giay-phut-quan-nhan-viet-nam-duyet-binh-tren-quang-truong-do-4883814.html) - 10:36 09/05/2025
-- 💼 [Ông Kim Jong-un và con gái thăm đại sứ quán Nga](https://vnexpress.net/ong-kim-jong-un-va-con-gai-tham-dai-su-quan-nga-4883798.html) - 09:32 09/05/2025
-- 🤡 [Quân đội Mỹ loại ngũ 1.000 binh sĩ chuyển giới](https://vnexpress.net/quan-doi-my-loai-ngu-1-000-binh-si-chuyen-gioi-4883653.html) - 09:04 09/05/2025
-- 🌁 [Tổng Bí thư Tô Lâm dự lễ duyệt binh Ngày Chiến thắng tại Nga](https://vnexpress.net/tong-bi-thu-to-lam-du-le-duyet-binh-ngay-chien-thang-tai-nga-4883800.html) - 09:04 09/05/2025
-- 🤩 [Tòa Thái Lan không cho ông Thaksin tới Qatar gặp ông Trump](https://vnexpress.net/toa-thai-lan-khong-cho-ong-thaksin-toi-qatar-gap-ong-trump-4883766.html) - 08:22 09/05/2025
-- 🎉 [Nga - Trung phản đối hạn chế tự do thương mại đơn phương](https://vnexpress.net/nga-trung-phan-doi-han-che-tu-do-thuong-mai-don-phuong-4883595.html) - 07:24 09/05/2025
-- 🎉 [11.000 quân nhân tham gia Duyệt binh Chiến thắng trên Quảng trường Đỏ](https://vnexpress.net/nga-sap-duyet-binh-chien-thang-tren-quang-truong-do-4883605-tong-thuat.html) - 06:33 09/05/2025
-- 🌁 [Ý nghĩa tông hiệu Leo XIV của tân Giáo hoàng](https://vnexpress.net/y-nghia-tong-hieu-leo-xiv-cua-tan-giao-hoang-4883541.html) - 04:59 09/05/2025
-- 🌊 [Ông Trump bổ nhiệm MC Fox News làm quyền công tố viên liên bang](https://vnexpress.net/ong-trump-bo-nhiem-mc-fox-news-lam-quyen-cong-to-vien-lien-bang-4883620.html) - 04:45 09/05/2025
-- 🕴 [Bill Gates tặng cá voi nhồi bông cho mèo của Tổng thống Indonesia](https://vnexpress.net/bill-gates-tang-ca-voi-nhoi-bong-cho-meo-cua-tong-thong-indonesia-4883543.html) - 04:30 09/05/2025
-- 🎓 [Ông Vance: Xung đột Ấn Độ - Pakistan không phải việc của Mỹ](https://vnexpress.net/ong-vance-xung-dot-an-do-pakistan-khong-phai-viec-cua-my-4883568.html) - 04:14 09/05/2025
-- 🦩 [Ông Putin dẫn ông Tập tham quan Điện Kremlin, cùng thưởng trà](https://vnexpress.net/ong-putin-dan-ong-tap-tham-quan-dien-kremlin-cung-thuong-tra-4883609.html) - 03:47 09/05/2025
-- 🌏 [Cách Nga đảm bảo an ninh cho Duyệt binh Chiến thắng](https://vnexpress.net/cach-nga-dam-bao-an-ninh-cho-duyet-binh-chien-thang-4883664.html) - 03:38 09/05/2025
-- 🌋 [Hạ viện Mỹ thông qua dự luật đổi tên Vịnh Mexico](https://vnexpress.net/ha-vien-my-thong-qua-du-luat-doi-ten-vinh-mexico-4883485.html) - 03:25 09/05/2025
-- 🪜 [Lễ Duyệt binh Chiến thắng trên Quảng trường Đỏ diễn ra thế nào](https://vnexpress.net/le-duyet-binh-chien-thang-tren-quang-truong-do-dien-ra-the-nao-4882056.html) - 03:00 09/05/2025
-- 🕴 [Ấn Độ tuyên bố phá hủy tổ hợp phòng không Pakistan](https://vnexpress.net/an-do-tuyen-bo-pha-huy-to-hop-phong-khong-pakistan-4883560.html) - 02:46 09/05/2025
-- 🧑‍🏫 [Hai ngày mật nghị Hồng y bầu ra Giáo hoàng Leo XIV](https://vnexpress.net/hai-ngay-mat-nghi-hong-y-bau-ra-giao-hoang-leo-xiv-4883538.html) - 02:29 09/05/2025
-- 🌮 [Tân Giáo hoàng Leo XIV được kỳ vọng hàn gắn Giáo hội](https://vnexpress.net/tan-giao-hoang-leo-xiv-duoc-ky-vong-han-gan-giao-hoi-4883512.html) - 02:26 09/05/2025
-- 🚦 [Iran dọa &#39;mở cửa địa ngục&#39; nếu bị Mỹ, Israel tấn công](https://vnexpress.net/iran-doa-mo-cua-dia-nguc-neu-bi-my-israel-tan-cong-4883517.html) - 01:49 09/05/2025
-- 💫 [Bill Gates cam kết cho đi 200 tỷ USD](https://vnexpress.net/bill-gates-cam-ket-cho-di-200-ty-usd-4883523.html) - 01:39 09/05/2025
-- 🤡 [Nga hôm nay tổ chức Duyệt binh Chiến thắng](https://vnexpress.net/nga-hom-nay-to-chuc-duyet-binh-chien-thang-4883431.html) - 01:00 09/05/2025
-- 🦣 [Tổng Bí thư: Việt Nam đặc biệt coi trọng quan hệ truyền thống với Nga](https://vnexpress.net/tong-bi-thu-viet-nam-dac-biet-coi-trong-quan-he-truyen-thong-voi-nga-4883515.html) - 00:00 09/05/2025
-- 🎬 [Lãnh đạo thế giới chúc mừng tân Giáo hoàng Leo XIV](https://vnexpress.net/lanh-dao-the-gioi-chuc-mung-tan-giao-hoang-leo-xiv-4883506.html) - 23:29 08/05/2025
-- 🎉 [Hạn chế ngăn F-16 Pakistan giao chiến với tiêm kích Ấn Độ](https://vnexpress.net/han-che-ngan-f-16-pakistan-giao-chien-voi-tiem-kich-an-do-4883350.html) - 22:00 08/05/2025
-- 🎡 [Cách thức tân Giáo hoàng chọn tông hiệu](https://vnexpress.net/cach-thuc-tan-giao-hoang-chon-tong-hieu-4882326.html) - 18:10 08/05/2025
-- 🌜 [Chiến dịch của Liên Xô đập tan sào huyệt phát xít Đức năm 1945](https://vnexpress.net/chien-dich-cua-lien-xo-dap-tan-sao-huyet-phat-xit-duc-nam-1945-4878228.html) - 18:00 08/05/2025
-- 🎡 [Nữ tỷ phú trong vòng xoáy căng thẳng giữa Harvard và ông Trump](https://vnexpress.net/nu-ty-phu-trong-vong-xoay-cang-thang-giua-harvard-va-ong-trump-4883054.html) - 17:00 08/05/2025
-- 🤗 [Phòng Nước mắt - nơi đầu tiên tân Giáo hoàng đặt chân đến](https://vnexpress.net/phong-nuoc-mat-noi-dau-tien-tan-giao-hoang-dat-chan-den-4883034.html) - 16:13 08/05/2025
-- 🦩 [Tân Giáo hoàng Leo XIV ra mắt](https://vnexpress.net/mat-nghi-hong-y-bau-duoc-tan-giao-hoang-4883083-tong-thuat.html) - 16:10 08/05/2025
-- 🎓 [Tương quan sức mạnh không quân Ấn Độ - Pakistan](https://vnexpress.net/tuong-quan-suc-manh-khong-quan-an-do-pakistan-4883343.html) - 15:58 08/05/2025
-- 🌁 [Tổng Bí thư Tô Lâm bắt đầu thăm chính thức Nga](https://vnexpress.net/tong-bi-thu-to-lam-bat-dau-tham-chinh-thuc-nga-4883207.html) - 14:39 08/05/2025
-- 🤩 [Thái Lan đình chỉ hai bác sĩ tham gia điều trị cho ông Thaksin](https://vnexpress.net/thai-lan-dinh-chi-hai-bac-si-tham-gia-dieu-tri-cho-ong-thaksin-4883458.html) - 13:56 08/05/2025
-- 👹 [Ấn Độ nêu lý do tập kích UAV nhằm vào Pakistan](https://vnexpress.net/an-do-neu-ly-do-tap-kich-uav-nham-vao-pakistan-4883442.html) - 13:10 08/05/2025
-- ⛽️ [Tân Thủ tướng được kỳ vọng giúp Đức khôi phục vị thế ở châu Âu](https://vnexpress.net/tan-thu-tuong-duoc-ky-vong-giup-duc-khoi-phuc-vi-the-o-chau-au-4882556.html) - 12:00 08/05/2025
-- 🚀 [Khánh thành Phòng lưu niệm Chủ tịch Hồ Chí Minh với ngành dầu khí Việt Nam - Azerbaijan](https://vnexpress.net/khanh-thanh-phong-luu-niem-chu-tich-ho-chi-minh-voi-nganh-dau-khi-viet-nam-azerbaijan-4883452.html) - 11:59 08/05/2025
-- 🎡 [Ấn Độ lần đầu lên tiếng về thông tin &#39;loạt tiêm kích bị Pakistan hạ&#39;](https://vnexpress.net/an-do-lan-dau-len-tieng-ve-thong-tin-loat-tiem-kich-bi-pakistan-ha-4883423.html) - 11:16 08/05/2025
-- 🕯 [Người trẻ Hàn Quốc tăng quan tâm đến Phật giáo](https://vnexpress.net/nguoi-tre-han-quoc-tang-quan-tam-den-phat-giao-4882200.html) - 11:05 08/05/2025
-- 🐻 [Ông Putin hoan nghênh Trung Quốc chuyển giao công nghệ đến Nga](https://vnexpress.net/ong-putin-hoan-nghenh-trung-quoc-chuyen-giao-cong-nghe-den-nga-4883319.html) - 10:08 08/05/2025
-- 🚦 [Tổng thống Trump nêu ý tưởng Nga dự World Cup 2026 ở Mỹ](https://vnexpress.net/tong-thong-trump-neu-y-tuong-nga-du-world-cup-2026-o-my-4883135.html) - 10:01 08/05/2025
-- 👍 [Israel dọa ra tay với Iran](https://vnexpress.net/israel-doa-ra-tay-voi-iran-4883298.html) - 08:56 08/05/2025
-- 🚀 [Quan chức Pháp: &#39;Pakistan đã hạ được tiêm kích Rafale Ấn Độ&#39;](https://vnexpress.net/quan-chuc-phap-pakistan-da-ha-duoc-tiem-kich-rafale-an-do-4883295.html) - 08:33 08/05/2025
-- 🌮 [Pakistan tuyên bố tiếp tục bắn rơi 12 UAV Ấn Độ](https://vnexpress.net/pakistan-tuyen-bo-tiep-tuc-ban-roi-12-uav-an-do-4883303.html) - 08:30 08/05/2025
-- 😎 [Ông Trump &#39;sẵn sàng giúp đỡ&#39; để Ấn Độ - Pakistan hạ nhiệt](https://vnexpress.net/ong-trump-san-sang-giup-do-de-an-do-pakistan-ha-nhiet-4883184.html) - 08:18 08/05/2025
-- 🐲 [Ông Trump nói về tình yêu bóng đá của Barron](https://vnexpress.net/ong-trump-noi-ve-tinh-yeu-bong-da-cua-barron-4883132.html) - 08:08 08/05/2025
-- 💫 [Ảnh vệ tinh các địa điểm Pakistan hứng đòn tập kích của Ấn Độ](https://vnexpress.net/anh-ve-tinh-cac-dia-diem-pakistan-hung-don-tap-kich-cua-an-do-4883196.html) - 07:56 08/05/2025
-- 👀 [Iran phản đối đổi tên Vịnh Ba Tư](https://vnexpress.net/iran-phan-doi-doi-ten-vinh-ba-tu-4883247.html) - 07:42 08/05/2025<!-- vnexpress-the-gioi:END -->
+- 🎭 [Pakistan tuyên bố trả đũa, phá hủy kho tên lửa BrahMos Ấn Độ](https://vnexpress.net/pakistan-tuyen-bo-tra-dua-pha-huy-kho-ten-lua-brahmos-an-do-4883973.html) - 00:49 10/05/2025
+- 🕴 [Tổng Bí thư: Việt Nam sẵn sàng hợp tác để nâng tầm quan hệ với Nga](https://vnexpress.net/tong-bi-thu-viet-nam-san-sang-hop-tac-de-nang-tam-quan-he-voi-nga-4883960.html) - 00:27 10/05/2025
+- 🤭 [Ấn Độ bị tố tập kích căn cứ không quân chủ chốt của Pakistan](https://vnexpress.net/an-do-bi-to-tap-kich-can-cu-khong-quan-chu-chot-cua-pakistan-4883958.html) - 00:06 10/05/2025
+- 🧑‍💻 [Tương lai mờ mịt của Harvard khi đối đầu chính quyền Trump](https://vnexpress.net/tuong-lai-mo-mit-cua-harvard-khi-doi-dau-chinh-quyen-trump-4883592.html) - 22:00 09/05/2025
+- 🦏 [Tổng Bí thư Tô Lâm gặp Tổng Bí thư, Chủ tịch Trung Quốc Tập Cận Bình](https://vnexpress.net/tong-bi-thu-to-lam-gap-tong-bi-thu-chu-tich-trung-quoc-tap-can-binh-4883945.html) - 17:44 09/05/2025
+- 🦒 [Người Mỹ bất ngờ và hân hoan với tân Giáo hoàng đến từ Chicago](https://vnexpress.net/nguoi-my-bat-ngo-va-han-hoan-voi-tan-giao-hoang-den-tu-chicago-4883528.html) - 17:00 09/05/2025
+- 🌈 [Thủ tướng đề nghị Việt - Trung ưu tiên hợp tác đường sắt](https://vnexpress.net/thu-tuong-de-nghi-viet-trung-uu-tien-hop-tac-duong-sat-4883936.html) - 16:31 09/05/2025
+- 🧑‍🏫 [Đan Mạch lo ngại Mỹ thu thập tin tình báo về Greenland](https://vnexpress.net/dan-mach-lo-ngai-my-thu-thap-tin-tinh-bao-ve-greenland-4883929.html) - 16:19 09/05/2025
+- 🐲 [Pakistan cảnh báo &#39;đối đầu trên toàn bộ ranh giới&#39; với Ấn Độ](https://vnexpress.net/pakistan-canh-bao-doi-dau-tren-toan-bo-ranh-gioi-voi-an-do-4883883.html) - 14:09 09/05/2025
+- 🦒 [Lễ nhậm chức của Giáo hoàng Leo XIV sẽ diễn ra vào 18/5](https://vnexpress.net/le-nham-chuc-cua-giao-hoang-leo-xiv-se-dien-ra-vao-18-5-4883897.html) - 13:29 09/05/2025
+- 🐻 [Lễ kỷ niệm 80 năm Ngày Chiến thắng trên Quảng trường Đỏ](https://vnexpress.net/le-ky-niem-80-nam-ngay-chien-thang-tren-quang-truong-do-4883873.html) - 13:28 09/05/2025
+- 🚀 [Thực đơn ông Putin chiêu đãi các lãnh đạo quốc tế](https://vnexpress.net/thuc-don-ong-putin-chieu-dai-cac-lanh-dao-quoc-te-4883885.html) - 13:00 09/05/2025
+- 🥰 [Cố vấn an ninh Thụy Điển từ chức 12 tiếng sau khi được bổ nhiệm](https://vnexpress.net/co-van-an-ninh-thuy-dien-tu-chuc-12-tieng-sau-khi-duoc-bo-nhiem-4883868.html) - 12:34 09/05/2025
+- 🔥 [Hành trình người Công giáo trở thành linh mục](https://vnexpress.net/hanh-trinh-nguoi-cong-giao-tro-thanh-linh-muc-4751698.html) - 12:00 09/05/2025
+- 🥳 [Những đội hình quân nhân duyệt binh Chiến thắng trên Quảng trường Đỏ](https://vnexpress.net/nhung-doi-hinh-quan-nhan-duyet-binh-chien-thang-tren-quang-truong-do-4883850.html) - 11:30 09/05/2025
+- 💼 [Nga sẽ điều xe tăng duyệt binh tại Moskva ra chiến trường](https://vnexpress.net/nga-se-dieu-xe-tang-duyet-binh-tai-moskva-ra-chien-truong-4883891.html) - 11:18 09/05/2025
+- 🤡 [Tân Giáo hoàng Leo XIV lần đầu chủ trì thánh lễ](https://vnexpress.net/tan-giao-hoang-leo-xiv-lan-dau-chu-tri-thanh-le-4883845.html) - 11:15 09/05/2025
+- 🌁 [Giây phút quân nhân Việt Nam duyệt binh trên Quảng trường Đỏ](https://vnexpress.net/giay-phut-quan-nhan-viet-nam-duyet-binh-tren-quang-truong-do-4883814.html) - 10:36 09/05/2025
+- 🤩 [Ông Kim Jong-un và con gái thăm đại sứ quán Nga](https://vnexpress.net/ong-kim-jong-un-va-con-gai-tham-dai-su-quan-nga-4883798.html) - 09:32 09/05/2025
+- 🎉 [Quân đội Mỹ loại ngũ 1.000 binh sĩ chuyển giới](https://vnexpress.net/quan-doi-my-loai-ngu-1-000-binh-si-chuyen-gioi-4883653.html) - 09:04 09/05/2025
+- 🎉 [Tổng Bí thư Tô Lâm dự lễ duyệt binh Ngày Chiến thắng tại Nga](https://vnexpress.net/tong-bi-thu-to-lam-du-le-duyet-binh-ngay-chien-thang-tai-nga-4883800.html) - 09:04 09/05/2025
+- 🌁 [Tòa Thái Lan không cho ông Thaksin tới Qatar gặp ông Trump](https://vnexpress.net/toa-thai-lan-khong-cho-ong-thaksin-toi-qatar-gap-ong-trump-4883766.html) - 08:22 09/05/2025
+- 🌊 [Nga - Trung phản đối hạn chế tự do thương mại đơn phương](https://vnexpress.net/nga-trung-phan-doi-han-che-tu-do-thuong-mai-don-phuong-4883595.html) - 07:24 09/05/2025
+- 🕴 [11.000 quân nhân tham gia Duyệt binh Chiến thắng trên Quảng trường Đỏ](https://vnexpress.net/nga-sap-duyet-binh-chien-thang-tren-quang-truong-do-4883605-tong-thuat.html) - 06:33 09/05/2025
+- 🎓 [Ý nghĩa tông hiệu Leo XIV của tân Giáo hoàng](https://vnexpress.net/y-nghia-tong-hieu-leo-xiv-cua-tan-giao-hoang-4883541.html) - 04:59 09/05/2025
+- 🦩 [Ông Trump bổ nhiệm MC Fox News làm quyền công tố viên liên bang](https://vnexpress.net/ong-trump-bo-nhiem-mc-fox-news-lam-quyen-cong-to-vien-lien-bang-4883620.html) - 04:45 09/05/2025
+- 🌏 [Bill Gates tặng cá voi nhồi bông cho mèo của Tổng thống Indonesia](https://vnexpress.net/bill-gates-tang-ca-voi-nhoi-bong-cho-meo-cua-tong-thong-indonesia-4883543.html) - 04:30 09/05/2025
+- 🌋 [Ông Vance: Xung đột Ấn Độ - Pakistan không phải việc của Mỹ](https://vnexpress.net/ong-vance-xung-dot-an-do-pakistan-khong-phai-viec-cua-my-4883568.html) - 04:14 09/05/2025
+- 🪜 [Ông Putin dẫn ông Tập tham quan Điện Kremlin, cùng thưởng trà](https://vnexpress.net/ong-putin-dan-ong-tap-tham-quan-dien-kremlin-cung-thuong-tra-4883609.html) - 03:47 09/05/2025
+- 🕴 [Cách Nga đảm bảo an ninh cho Duyệt binh Chiến thắng](https://vnexpress.net/cach-nga-dam-bao-an-ninh-cho-duyet-binh-chien-thang-4883664.html) - 03:38 09/05/2025
+- 🧑‍🏫 [Hạ viện Mỹ thông qua dự luật đổi tên Vịnh Mexico](https://vnexpress.net/ha-vien-my-thong-qua-du-luat-doi-ten-vinh-mexico-4883485.html) - 03:25 09/05/2025
+- 🌮 [Lễ Duyệt binh Chiến thắng trên Quảng trường Đỏ diễn ra thế nào](https://vnexpress.net/le-duyet-binh-chien-thang-tren-quang-truong-do-dien-ra-the-nao-4882056.html) - 03:00 09/05/2025
+- 🚦 [Ấn Độ tuyên bố phá hủy tổ hợp phòng không Pakistan](https://vnexpress.net/an-do-tuyen-bo-pha-huy-to-hop-phong-khong-pakistan-4883560.html) - 02:46 09/05/2025
+- 💫 [Hai ngày mật nghị Hồng y bầu ra Giáo hoàng Leo XIV](https://vnexpress.net/hai-ngay-mat-nghi-hong-y-bau-ra-giao-hoang-leo-xiv-4883538.html) - 02:29 09/05/2025
+- 🤡 [Tân Giáo hoàng Leo XIV được kỳ vọng hàn gắn Giáo hội](https://vnexpress.net/tan-giao-hoang-leo-xiv-duoc-ky-vong-han-gan-giao-hoi-4883512.html) - 02:26 09/05/2025
+- 🦣 [Iran dọa &#39;mở cửa địa ngục&#39; nếu bị Mỹ, Israel tấn công](https://vnexpress.net/iran-doa-mo-cua-dia-nguc-neu-bi-my-israel-tan-cong-4883517.html) - 01:49 09/05/2025
+- 🎬 [Bill Gates cam kết cho đi 200 tỷ USD](https://vnexpress.net/bill-gates-cam-ket-cho-di-200-ty-usd-4883523.html) - 01:39 09/05/2025
+- 🎉 [Nga hôm nay tổ chức Duyệt binh Chiến thắng](https://vnexpress.net/nga-hom-nay-to-chuc-duyet-binh-chien-thang-4883431.html) - 01:00 09/05/2025
+- 🎡 [Tổng Bí thư: Việt Nam đặc biệt coi trọng quan hệ truyền thống với Nga](https://vnexpress.net/tong-bi-thu-viet-nam-dac-biet-coi-trong-quan-he-truyen-thong-voi-nga-4883515.html) - 00:00 09/05/2025
+- 🌜 [Lãnh đạo thế giới chúc mừng tân Giáo hoàng Leo XIV](https://vnexpress.net/lanh-dao-the-gioi-chuc-mung-tan-giao-hoang-leo-xiv-4883506.html) - 23:29 08/05/2025
+- 🎡 [Hạn chế ngăn F-16 Pakistan giao chiến với tiêm kích Ấn Độ](https://vnexpress.net/han-che-ngan-f-16-pakistan-giao-chien-voi-tiem-kich-an-do-4883350.html) - 22:00 08/05/2025
+- 🤗 [Cách thức tân Giáo hoàng chọn tông hiệu](https://vnexpress.net/cach-thuc-tan-giao-hoang-chon-tong-hieu-4882326.html) - 18:10 08/05/2025
+- 🦩 [Chiến dịch của Liên Xô đập tan sào huyệt phát xít Đức năm 1945](https://vnexpress.net/chien-dich-cua-lien-xo-dap-tan-sao-huyet-phat-xit-duc-nam-1945-4878228.html) - 18:00 08/05/2025
+- 🎓 [Nữ tỷ phú trong vòng xoáy căng thẳng giữa Harvard và ông Trump](https://vnexpress.net/nu-ty-phu-trong-vong-xoay-cang-thang-giua-harvard-va-ong-trump-4883054.html) - 17:00 08/05/2025
+- 🌁 [Phòng Nước mắt - nơi đầu tiên tân Giáo hoàng đặt chân đến](https://vnexpress.net/phong-nuoc-mat-noi-dau-tien-tan-giao-hoang-dat-chan-den-4883034.html) - 16:13 08/05/2025
+- 🤩 [Tân Giáo hoàng Leo XIV ra mắt](https://vnexpress.net/mat-nghi-hong-y-bau-duoc-tan-giao-hoang-4883083-tong-thuat.html) - 16:10 08/05/2025
+- 👹 [Tương quan sức mạnh không quân Ấn Độ - Pakistan](https://vnexpress.net/tuong-quan-suc-manh-khong-quan-an-do-pakistan-4883343.html) - 15:58 08/05/2025
+- ⛽️ [Tổng Bí thư Tô Lâm bắt đầu thăm chính thức Nga](https://vnexpress.net/tong-bi-thu-to-lam-bat-dau-tham-chinh-thuc-nga-4883207.html) - 14:39 08/05/2025
+- 🚀 [Thái Lan đình chỉ hai bác sĩ tham gia điều trị cho ông Thaksin](https://vnexpress.net/thai-lan-dinh-chi-hai-bac-si-tham-gia-dieu-tri-cho-ong-thaksin-4883458.html) - 13:56 08/05/2025
+- 🎡 [Ấn Độ nêu lý do tập kích UAV nhằm vào Pakistan](https://vnexpress.net/an-do-neu-ly-do-tap-kich-uav-nham-vao-pakistan-4883442.html) - 13:10 08/05/2025
+- 🕯 [Tân Thủ tướng được kỳ vọng giúp Đức khôi phục vị thế ở châu Âu](https://vnexpress.net/tan-thu-tuong-duoc-ky-vong-giup-duc-khoi-phuc-vi-the-o-chau-au-4882556.html) - 12:00 08/05/2025
+- 🐻 [Khánh thành Phòng lưu niệm Chủ tịch Hồ Chí Minh với ngành dầu khí Việt Nam - Azerbaijan](https://vnexpress.net/khanh-thanh-phong-luu-niem-chu-tich-ho-chi-minh-voi-nganh-dau-khi-viet-nam-azerbaijan-4883452.html) - 11:59 08/05/2025
+- 🚦 [Ấn Độ lần đầu lên tiếng về thông tin &#39;loạt tiêm kích bị Pakistan hạ&#39;](https://vnexpress.net/an-do-lan-dau-len-tieng-ve-thong-tin-loat-tiem-kich-bi-pakistan-ha-4883423.html) - 11:16 08/05/2025
+- 👍 [Người trẻ Hàn Quốc tăng quan tâm đến Phật giáo](https://vnexpress.net/nguoi-tre-han-quoc-tang-quan-tam-den-phat-giao-4882200.html) - 11:05 08/05/2025
+- 🚀 [Ông Putin hoan nghênh Trung Quốc chuyển giao công nghệ đến Nga](https://vnexpress.net/ong-putin-hoan-nghenh-trung-quoc-chuyen-giao-cong-nghe-den-nga-4883319.html) - 10:08 08/05/2025
+- 🌮 [Tổng thống Trump nêu ý tưởng Nga dự World Cup 2026 ở Mỹ](https://vnexpress.net/tong-thong-trump-neu-y-tuong-nga-du-world-cup-2026-o-my-4883135.html) - 10:01 08/05/2025
+- 😎 [Israel dọa ra tay với Iran](https://vnexpress.net/israel-doa-ra-tay-voi-iran-4883298.html) - 08:56 08/05/2025
+- 🐲 [Quan chức Pháp: &#39;Pakistan đã hạ được tiêm kích Rafale Ấn Độ&#39;](https://vnexpress.net/quan-chuc-phap-pakistan-da-ha-duoc-tiem-kich-rafale-an-do-4883295.html) - 08:33 08/05/2025
+- 💫 [Pakistan tuyên bố tiếp tục bắn rơi 12 UAV Ấn Độ](https://vnexpress.net/pakistan-tuyen-bo-tiep-tuc-ban-roi-12-uav-an-do-4883303.html) - 08:30 08/05/2025
+- 👀 [Ông Trump &#39;sẵn sàng giúp đỡ&#39; để Ấn Độ - Pakistan hạ nhiệt](https://vnexpress.net/ong-trump-san-sang-giup-do-de-an-do-pakistan-ha-nhiet-4883184.html) - 08:18 08/05/2025<!-- vnexpress-the-gioi:END -->
