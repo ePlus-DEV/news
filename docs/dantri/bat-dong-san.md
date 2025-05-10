@@ -6,7 +6,7 @@ sidebar_position: 21
 <!-- dantri-bat-dong-san:START -->
 - 🌏 [Ba Đình - Từ đất thiêng nghìn năm đến biểu tượng thời đại mới](https://dantri.com.vn/bat-dong-san/ba-dinh-tu-dat-thieng-nghin-nam-den-bieu-tuong-thoi-dai-moi-20250510161048721.htm) - 10:40 10/05/2025
 - 👹 [&quot;Ông trùm&quot; Hoàng Quân nói về thách thức làm 40.000 căn nhà ở xã hội](https://dantri.com.vn/bat-dong-san/ong-trum-hoang-quan-noi-ve-thach-thuc-lam-40000-can-nha-o-xa-hoi-20250510132828607.htm) - 08:58 10/05/2025
-- 💡 [Công ty Nam Long bị phạt 500 triệu đồng vì chậm xây trường học tại Ehome 3](https://dantri.com.vn/xa-hoi/cong-ty-nam-long-bi-phat-500-trieu-dong-vi-cham-xay-truong-hoc-tai-ehome-3-20250510132629376.htm) - 06:52 10/05/2025
+- 💡 [Công ty Nam Long bị phạt 500 triệu đồng vì chậm xây trường học tại Ehome 3](https://dantri.com.vn/bat-dong-san/cong-ty-nam-long-bi-phat-500-trieu-dong-vi-cham-xay-truong-hoc-tai-ehome-3-20250510132629376.htm) - 06:52 10/05/2025
 - 🌋 [Vincom Mega Mall Ocean City - Điểm đến của những thương hiệu](https://dantri.com.vn/bat-dong-san/vincom-mega-mall-ocean-city-diem-den-cua-nhung-thuong-hieu-20250510103121901.htm) - 03:45 10/05/2025
 - 🌜 [Đề xuất đánh thuế 20% lợi nhuận bất động sản: Lo giá nhà tăng?](https://dantri.com.vn/bat-dong-san/de-xuat-danh-thue-20-loi-nhuan-bat-dong-san-lo-gia-nha-tang-20250507152456941.htm) - 03:01 10/05/2025
 - 💃 [Nhà trong ngõ vùng ven ít giao dịch, giá rao 200 triệu/m2, người mua sốc](https://dantri.com.vn/bat-dong-san/nha-trong-ngo-vung-ven-it-giao-dich-gia-rao-200-trieum2-nguoi-mua-soc-20250509171434221.htm) - 23:32 09/05/2025
