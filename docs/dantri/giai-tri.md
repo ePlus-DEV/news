@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- dantri-giai-tri:START -->
 - 🤩 [Fan đội mưa xuyên đêm, nằm vạ vật chờ xem &quot;Anh trai say hi&quot;](https://dantri.com.vn/giai-tri/fan-doi-mua-xuyen-dem-nam-va-vat-cho-xem-anh-trai-say-hi-20250510120924122.htm) - 05:36 10/05/2025
 - 🔥 [Chào Show - Trải nghiệm văn hóa Việt duy nhất tại TPHCM](https://dantri.com.vn/giai-tri/chao-show-trai-nghiem-van-hoa-viet-duy-nhat-tai-tphcm-20250510102001126.htm) - 05:17 10/05/2025
-- 🚀 [&quot;Cha đẻ&quot; bản hit 4 tỷ lượt xem dùng doanh thu ca khúc tặng cựu chiến binh](https://dantri.com.vn/giai-tri/cha-de-ban-hit-4-ty-luot-xem-dung-doanh-thu-ca-khuc-tang-cuu-chien-binh-20250510114345228.htm) - 04:54 10/05/2025
+- 🚀 [Tác giả bản hit 4 tỷ lượt xem dùng doanh thu ca khúc tặng cựu chiến binh](https://dantri.com.vn/giai-tri/tac-gia-ban-hit-4-ty-luot-xem-dung-doanh-thu-ca-khuc-tang-cuu-chien-binh-20250510114345228.htm) - 04:54 10/05/2025
 - 🔥 [Họa sĩ Hùng Lân - cha đẻ truyện &quot;Dũng sĩ Hesman&quot; - qua đời](https://dantri.com.vn/giai-tri/hoa-si-hung-lan-cha-de-truyen-dung-si-hesman-qua-doi-20250510111723818.htm) - 04:28 10/05/2025
 - 🌈 [BLV lễ duyệt binh tại Quảng trường Đỏ: &quot;Tôi tự chấm mình 8 điểm&quot;](https://dantri.com.vn/giai-tri/blv-le-duyet-binh-tai-quang-truong-do-toi-tu-cham-minh-8-diem-20250510032842990.htm) - 00:58 10/05/2025
 - 📝 [Người phanh phui bê bối của Kim Soo Hyun bị tố nói dối, dùng bằng chứng giả](https://dantri.com.vn/giai-tri/nguoi-phanh-phui-be-boi-cua-kim-soo-hyun-bi-to-noi-doi-dung-bang-chung-gia-20250509192730113.htm) - 23:00 09/05/2025
