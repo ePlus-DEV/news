@@ -408,8 +408,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [TP Cần Thơ chỉ đạo hoàn thành triển khai kết luận của Thanh tra Chính phủ trong tháng 6](https://baochinhphu.vn/tp-can-tho-chi-dao-hoan-thanh-trien-khai-ket-luan-cua-thanh-tra-chinh-phu-trong-thang-6-102250511100607354.htm) - 10:00 11/05/2025
-- 🌜 [TỔNG THUẬT: Thủ tướng chủ trì phiên họp thứ 4 Ban chỉ đạo Trung ương về xóa nhà tạm, nhà dột nát](https://baochinhphu.vn/tong-thuat-thu-tuong-chu-tri-phien-hop-thu-4-ban-chi-dao-trung-uong-ve-xoa-nha-tam-nha-dot-nat-102250511074908778.htm) - 10:00 11/05/2025
+- 💻 [TỔNG THUẬT: Thủ tướng chủ trì phiên họp thứ 4 Ban chỉ đạo Trung ương về xóa nhà tạm, nhà dột nát](https://baochinhphu.vn/tong-thuat-thu-tuong-chu-tri-phien-hop-thu-4-ban-chi-dao-trung-uong-ve-xoa-nha-tam-nha-dot-nat-102250511074908778.htm) - 12:00 11/05/2025
+- 🌜 [TP Cần Thơ chỉ đạo hoàn thành triển khai kết luận của Thanh tra Chính phủ trong tháng 6](https://baochinhphu.vn/tp-can-tho-chi-dao-hoan-thanh-trien-khai-ket-luan-cua-thanh-tra-chinh-phu-trong-thang-6-102250511100607354.htm) - 10:00 11/05/2025
 - 🦆 [Nỗ lực sớm tiếp cận vắc xin ung thư tiềm năng đưa về Việt Nam](https://baochinhphu.vn/no-luc-som-tiep-can-vac-xin-ung-thu-tiem-nang-dua-ve-viet-nam-102250511094532205.htm) - 09:48 11/05/2025
 - 🌝 [Yêu cầu đẩy mạnh kê đơn thuốc điện tử, liên thông đơn thuốc và bán thuốc theo đơn](https://baochinhphu.vn/yeu-cau-day-manh-ke-don-thuoc-dien-tu-lien-thong-don-thuoc-va-ban-thuoc-theo-don-102250511080510956.htm) - 09:46 11/05/2025
 - 🦣 [Có được nâng lương trước hạn khi nghỉ hưu theo Nghị định 178?](https://baochinhphu.vn/co-duoc-nang-luong-truoc-han-khi-nghi-huu-theo-nghi-dinh-178-102250507100351853.htm) - 08:02 11/05/2025
