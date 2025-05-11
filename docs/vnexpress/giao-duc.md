@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Đề xuất bỏ bằng tốt nghiệp THCS](https://vnexpress.net/de-xuat-bo-bang-tot-nghiep-thcs-4884483.html) - 17:00 11/05/2025
+- 🤓 [Đề xuất xóa sổ bằng tốt nghiệp THCS](https://vnexpress.net/de-xuat-xoa-so-bang-tot-nghiep-thcs-4884483.html) - 17:00 11/05/2025
 - 🦆 [4 tỉnh, thành siết giờ dạy thêm](https://vnexpress.net/4-tinh-thanh-siet-gio-day-them-4882351.html) - 14:05 11/05/2025
 - 🦩 [Quốc gia châu Á nào có số triệu phú USD tăng nhanh nhất thế giới?](https://vnexpress.net/quoc-gia-chau-a-nao-co-so-trieu-phu-usd-tang-nhanh-nhat-the-gioi-4884432.html) - 12:55 11/05/2025
 - 🌮 [Học phí lớp 6 trường công ở Hà Nội cao nhất gần 5,8 triệu đồng](https://vnexpress.net/hoc-phi-lop-6-truong-cong-o-ha-noi-cao-nhat-gan-5-8-trieu-dong-4884257.html) - 12:00 11/05/2025
