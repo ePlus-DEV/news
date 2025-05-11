@@ -529,7 +529,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- muctim:START -->
 - 🤔 [Harry Kane lần đầu nâng đĩa bạc Bundesliga](https://muctim.tuoitre.vn/harry-kane-lan-dau-nang-dia-bac-bundesliga-1012505110354323.htm) - 23:00 10/05/2025
 - 🥷 [Chuyện về trí nhớ siêu phàm của nhà bác học Lê Quý Đôn](https://muctim.tuoitre.vn/chuyen-ve-tri-nho-sieu-pham-cua-nha-bac-hoc-le-quy-don-101250510212514375.htm) - 22:59 10/05/2025
-- 🤖 [Sáng 11-5, 680 thí sinh thi chung kết giải Lê Quý Đôn](https://muctim.tuoitre.vn/sang-11-5-680-thi-sinh-thi-chung-ket-giai-le-quy-don-101250510170821136.htm) - 22:59 10/05/2025
+- 🤖 [Sáng 11-5, 680 thí sinh thi chung kết Giải Lê Quý Đôn](https://muctim.tuoitre.vn/sang-11-5-680-thi-sinh-thi-chung-ket-giai-le-quy-don-101250510170821136.htm) - 22:59 10/05/2025
 - 🤓 [Những điều độc lạ dễ thương tại Trường THCS-THPT Hồng Hà](https://muctim.tuoitre.vn/nhung-dieu-doc-la-de-thuong-tai-truong-thcs-thpt-hong-ha-101250510193531287.htm) - 16:01 10/05/2025
 - 🎉 [Khi nào TP.HCM công bố tỷ lệ chọi tuyển sinh lớp 10 năm 2025?](https://muctim.tuoitre.vn/khi-nao-tphcm-cong-bo-ty-le-choi-tuyen-sinh-lop-10-nam-2025-101250510194434315.htm) - 14:28 10/05/2025
 - 👨‍🏫 [Ca sĩ Hiền Thục khóc nghẹn trong buổi ra mắt sách](https://muctim.tuoitre.vn/ca-si-hien-thuc-khoc-nghen-trong-buoi-ra-mat-sach-101250510193759261.htm) - 14:25 10/05/2025
