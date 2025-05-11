@@ -8,8 +8,8 @@ sidebar_position: 1
 - 🤓 [Hà Nội định hướng lựa chọn bí thư phường, xã mới](https://vnexpress.net/ha-noi-dinh-huong-lua-chon-bi-thu-phuong-xa-moi-4884344.html) - 05:36 11/05/2025
 - ⚗️ [Tôn trí xá lợi trái tim Bồ tát Thích Quảng Đức ở tháp cao 63 m](https://vnexpress.net/ton-tri-xa-loi-trai-tim-bo-tat-thich-quang-duc-o-thap-cao-63-m-4884366.html) - 04:21 11/05/2025
 - 🌊 [Miền Bắc giảm mưa và chuyển nắng từ ngày mai](https://vnexpress.net/mien-bac-giam-mua-va-chuyen-nang-tu-ngay-mai-4884356.html) - 03:50 11/05/2025
-- 🎓 [Đường mới khánh thành sụt lún &#39;nuốt&#39; ôtô, xe máy](https://vnexpress.net/duong-moi-khanh-thanh-sut-lun-nuot-oto-xe-may-4884318.html) - 02:05 11/05/2025
-- 🔥 [3.000 người diễu hành mừng 70 năm giải phóng Hải Phòng](https://vnexpress.net/3-000-nguoi-dieu-hanh-mung-70-nam-giai-phong-hai-phong-4884156.html) - 01:30 11/05/2025
+- 🎓 [3.000 người diễu hành mừng 70 năm giải phóng Hải Phòng](https://vnexpress.net/3-000-nguoi-dieu-hanh-mung-70-nam-giai-phong-hai-phong-4884156.html) - 03:30 11/05/2025
+- 🔥 [Đường mới khánh thành sụt lún &#39;nuốt&#39; ôtô, xe máy](https://vnexpress.net/duong-moi-khanh-thanh-sut-lun-nuot-oto-xe-may-4884318.html) - 02:05 11/05/2025
 - 🦏 [Ủy viên Thường vụ, Thành ủy viên có thể làm bí thư xã, phường ở TP HCM](https://vnexpress.net/uy-vien-thuong-vu-thanh-uy-vien-co-the-lam-bi-thu-xa-phuong-o-tp-hcm-4884206.html) - 17:00 10/05/2025
 - 👺 [Hồ nước ngọt lớn nhất Cà Mau chưa thể vận hành sau một năm hoàn thành](https://vnexpress.net/ho-nuoc-ngot-lon-nhat-ca-mau-chua-the-van-hanh-sau-mot-nam-hoan-thanh-4884116.html) - 17:00 10/05/2025
 - 🧑‍🏫 [Di vật của Bồ tát Thích Quảng Đức trong chùa Thiên Mụ](https://vnexpress.net/di-vat-cua-bo-tat-thich-quang-duc-trong-chua-thien-mu-4882979.html) - 17:00 10/05/2025
