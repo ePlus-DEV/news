@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [Nam Định hạ Thanh Hóa, thêm gần ngôi vương V-League](https://vnexpress.net/nam-dinh-ha-thanh-hoa-them-gan-ngoi-vuong-v-league-4884473.html) - 14:22 11/05/2025
 - 🧰 [Tiến Linh từ chối yêu cầu thay người của HLV Nguyễn Anh Đức](https://vnexpress.net/tien-linh-tu-choi-yeu-cau-thay-nguoi-cua-hlv-nguyen-anh-duc-4884470.html) - 14:12 11/05/2025
 - 🤗 [HAGL hạ Thể Công bằng bàn thắng ở phút bù thứ 9](https://vnexpress.net/hagl-ha-the-cong-bang-ban-thang-o-phut-bu-thu-9-4884466.html) - 13:40 11/05/2025
-- 🥳 [Barca thắng ngược Real, chạm tay vào chức vô địch La Liga](https://vnexpress.net/barca-v-realmadrid-4879999.html) - 13:29 11/05/2025
+- 🥳 [Barca thắng ngược Real, chạm tay vào chức vô địch La Liga](https://vnexpress.net/barca-v-realmadrid-4879999-tong-thuat.html) - 13:29 11/05/2025
 - 🦣 [Newcastle đẩy Chelsea xuống thứ năm](https://vnexpress.net/newcastle-day-chelsea-xuong-thu-nam-4884451.html) - 13:00 11/05/2025
 - 🌜 [Tào Nham Lỗi vô địch siêu giải cờ tướng Ngũ Dương](https://vnexpress.net/tao-nham-loi-vo-dich-sieu-giai-co-tuong-ngu-duong-4884445.html) - 11:23 11/05/2025
 - 🫶 [Việt Nam hòa nhạt Iran ở futsal nữ châu Á](https://vnexpress.net/viet-nam-hoa-nhat-iran-o-futsal-nu-chau-a-4884440.html) - 10:19 11/05/2025
