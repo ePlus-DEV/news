@@ -593,7 +593,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎊 [Ngư dân Nghệ An trúng đậm mẻ cá thu, cá kìm trị giá 700 triệu đồng](https://tienphong.vn/ngu-dan-nghe-an-trung-dam-me-ca-thu-ca-kim-tri-gia-700-trieu-dong-post1741333.tpo) - 00:05 12/05/2025
 - 💼 [Công an điều tra vụ đường dẫn lên cầu ở Tây Ninh vừa khánh thành đã sụt lún](https://tienphong.vn/cong-an-dieu-tra-vu-duong-dan-len-cau-o-tay-ninh-vua-khanh-thanh-da-sut-lun-post1741347.tpo) - 22:49 11/05/2025
 - 👺 [Siêu dự án bò sữa của TH true MILK tại Nga chính thức có thành phẩm ra thị trường](https://tienphong.vn/sieu-du-an-bo-sua-cua-th-true-milk-tai-nga-chinh-thuc-co-thanh-pham-ra-thi-truong-post1741335.tpo) - 22:10 11/05/2025
-- 💪 [Trực tiếp Liverpool vs Arsenal 2-2 &lpar;H2&rpar;: Merino ghi bàn](https://tienphong.vn/truc-tiep-liverpool-vs-arsenal-2-2-h2-merino-ghi-ban-post1741325.tpo) - 21:45 11/05/2025
+- 💪 [Liverpool và Arsenal bất phân thắng bại](https://tienphong.vn/liverpool-va-arsenal-bat-phan-thang-bai-post1741325.tpo) - 21:45 11/05/2025
 - 💃 [Thí sinh Hoa hậu Việt Nam 2024 trình diễn váy dạ hội](https://tienphong.vn/thi-sinh-hoa-hau-viet-nam-2024-trinh-dien-vay-da-hoi-post1735701.tpo) - 21:42 11/05/2025
 - 🦍 [Khán giả gặp Nguyễn Nhật Ánh](https://tienphong.vn/khan-gia-gap-nguyen-nhat-anh-post1741249.tpo) - 21:41 11/05/2025
 - 👹 [Showbiz 11/5: Duy Mạnh rút đơn kiện Mercedes, Lệ Quyên gây tranh luận](https://tienphong.vn/showbiz-115-duy-manh-rut-don-kien-mercedes-le-quyen-gay-tranh-luan-post1741327.tpo) - 21:34 11/05/2025
