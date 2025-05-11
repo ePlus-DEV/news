@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Barcelona 0-0 Real Madrid &lpar;Hiệp 1&rpar;: Yamal đọ tài với Mbappe](https://dantri.com.vn/the-thao/barcelona-0-0-real-madrid-hiep-1-yamal-do-tai-voi-mbappe-20250511210634185.htm) - 14:06 11/05/2025
+- 🎡 [Barcelona 1-2 Real Madrid &lpar;Hiệp 1&rpar;: Cú đúp của Mbappe, thế trận nghẹt thở](https://dantri.com.vn/the-thao/barcelona-1-2-real-madrid-hiep-1-cu-dup-cua-mbappe-the-tran-nghet-tho-20250511210634185.htm) - 14:06 11/05/2025
 - 💯 [HAGL khiến Thể Công Viettel tan mộng vô địch, Bình Dương hòa CLB Quảng Nam](https://dantri.com.vn/the-thao/hagl-khien-the-cong-viettel-tan-mong-vo-dich-binh-duong-hoa-clb-quang-nam-20250511210011833.htm) - 14:02 11/05/2025
 - ⛽️ [Gục ngã trước Newcastle, Chelsea có nguy cơ mất suất dự Champions League](https://dantri.com.vn/the-thao/guc-nga-truoc-newcastle-chelsea-co-nguy-co-mat-suat-du-champions-league-20250511204457548.htm) - 13:45 11/05/2025
 - 💃 [Đội tuyển Indonesia bị FIFA phạt, ảnh hưởng lớn đến trận gặp Trung Quốc](https://dantri.com.vn/the-thao/doi-tuyen-indonesia-bi-fifa-phat-anh-huong-lon-den-tran-gap-trung-quoc-20250511154548473.htm) - 11:32 11/05/2025
