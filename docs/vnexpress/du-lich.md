@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Cách chọn chỗ ngồi thể hiện tính cách của du khách](https://vnexpress.net/cach-chon-cho-ngoi-the-hien-tinh-cach-cua-du-khach-4884579.html) - 12:00 12/05/2025
+- 💂 [Cách chọn chỗ ngồi thể hiện cá tính của du khách](https://vnexpress.net/cach-chon-cho-ngoi-the-hien-ca-tinh-cua-du-khach-4884579.html) - 12:00 12/05/2025
 - 🪄 [Vì sao Hạ Long là điểm đến lý tưởng cho lần đầu chạy giải](https://vnexpress.net/vi-sao-ha-long-la-diem-den-ly-tuong-cho-lan-dau-chay-giai-4884799.html) - 09:30 12/05/2025
 - 🦅 [Khu du lịch cho khách ngủ trên vách núi](https://vnexpress.net/khu-du-lich-cho-khach-ngu-tren-vach-nui-4884734.html) - 08:34 12/05/2025
 - 🕴 [Phim có Lisa không tạo sức bật cho du lịch Thái Lan như kỳ vọng](https://vnexpress.net/phim-co-lisa-khong-tao-suc-bat-cho-du-lich-thai-lan-nhu-ky-vong-4884645.html) - 07:32 12/05/2025
