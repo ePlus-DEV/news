@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Công tố viên Hàn Quốc muốn thẩm vấn cựu đệ nhất phu nhân](https://vnexpress.net/cong-to-vien-han-quoc-muon-tham-van-cuu-de-nhat-phu-nhan-4884827.html) - 09:37 12/05/2025
-- 🕴 [Việt Nam hoan nghênh việc Nga đề xuất đàm phán trực tiếp với Ukraine](https://vnexpress.net/viet-nam-hoan-nghenh-viec-nga-de-xuat-dam-phan-truc-tiep-voi-ukraine-4884846.html) - 09:04 12/05/2025
-- 🤭 [Argentina tìm thấy 83 thùng tài liệu của phát xít Đức](https://vnexpress.net/argentina-tim-thay-83-thung-tai-lieu-cua-phat-xit-duc-4884806.html) - 08:52 12/05/2025
-- 🧑‍💻 [Quan điểm chọn vợ của Warren Buffett](https://vnexpress.net/quan-diem-chon-vo-cua-warren-buffett-4883390.html) - 08:36 12/05/2025
-- 🦏 [Thông điệp của Nga từ lễ Duyệt binh Chiến thắng](https://vnexpress.net/thong-diep-cua-nga-tu-le-duyet-binh-chien-thang-4884783.html) - 08:36 12/05/2025
-- 🦒 [Lỗ hổng khiến lao động Việt kỹ năng cao ở Nhật gặp khó](https://vnexpress.net/lo-hong-khien-lao-dong-viet-ky-nang-cao-o-nhat-gap-kho-4884682.html) - 08:34 12/05/2025
-- 🌈 [Đảng Công nhân người Kurd giải tán, kết thúc 4 thập kỷ đối đầu với Thổ Nhĩ Kỳ](https://vnexpress.net/dang-cong-nhan-nguoi-kurd-giai-tan-ket-thuc-4-thap-ky-doi-dau-voi-tho-nhi-ky-4884753.html) - 07:54 12/05/2025
-- 🧑‍🏫 [Ấn Độ mở cơ sở sản xuất tên lửa BrahMos thế hệ mới](https://vnexpress.net/an-do-mo-co-so-san-xuat-ten-lua-brahmos-the-he-moi-4884660.html) - 06:48 12/05/2025
-- 🐲 [Vai trò của chó robot trong cuộc sống ở Singapore](https://vnexpress.net/vai-tro-cua-cho-robot-trong-cuoc-song-o-singapore-4884606.html) - 04:59 12/05/2025
-- 🦒 [Cuộc giằng co bên trong mật nghị bầu tân Giáo hoàng Leo XIV](https://vnexpress.net/cuoc-giang-co-ben-trong-mat-nghi-bau-tan-giao-hoang-leo-xiv-4884554.html) - 04:53 12/05/2025
-- 🐻 [Thủ tướng Thái Lan sắp thăm Việt Nam](https://vnexpress.net/thu-tuong-thai-lan-sap-tham-viet-nam-4884597.html) - 04:50 12/05/2025
-- 🚀 [Mỹ diễn tập &#39;Voi đi bộ&#39; lớn chưa từng có ở Nhật Bản](https://vnexpress.net/my-dien-tap-voi-di-bo-lon-chua-tung-co-o-nhat-ban-4884635.html) - 04:18 12/05/2025
-- 🥰 [Ấn Độ điều tàu sân bay, tàu ngầm tới gần Pakistan](https://vnexpress.net/an-do-dieu-tau-san-bay-tau-ngam-toi-gan-pakistan-4884548.html) - 03:34 12/05/2025
-- 🔥 [Đức ngừng công khai lượng vũ khí viện trợ Ukraine](https://vnexpress.net/duc-ngung-cong-khai-luong-vu-khi-vien-tro-ukraine-4884585.html) - 03:12 12/05/2025
-- 🥳 [Hàn Quốc cải tiến tiêm kích giá rẻ cạnh tranh với F-16 Mỹ](https://vnexpress.net/han-quoc-cai-tien-tiem-kich-gia-re-canh-tranh-voi-f-16-my-4884496.html) - 03:00 12/05/2025
-- 💼 [Chính quyền Trump dọa bắt nhóm nghị sĩ tham gia biểu tình chống trục xuất](https://vnexpress.net/chinh-quyen-trump-doa-bat-nhom-nghi-si-tham-gia-bieu-tinh-chong-truc-xuat-4884578.html) - 02:59 12/05/2025
-- 🤡 [Hàng nghìn người Đức biểu tình phản đối đảng cực hữu](https://vnexpress.net/hang-nghin-nguoi-duc-bieu-tinh-phan-doi-dang-cuc-huu-4884550.html) - 02:12 12/05/2025
-- 🌁 [Taliban bắt 14 người vì chơi nhạc cụ, hát hò](https://vnexpress.net/taliban-bat-14-nguoi-vi-choi-nhac-cu-hat-ho-4884552.html) - 01:48 12/05/2025
-- 🤩 [Chính quyền Trump có thể nhận chuyên cơ &#39;cung điện bay&#39; từ Qatar](https://vnexpress.net/chinh-quyen-trump-co-the-nhan-chuyen-co-cung-dien-bay-tu-qatar-4884524.html) - 01:29 12/05/2025
+- 🎭 [Anh sẽ nâng yêu cầu về ngôn ngữ với mọi tuyến nhập cư](https://vnexpress.net/anh-se-nang-yeu-cau-ve-ngon-ngu-voi-moi-tuyen-nhap-cu-4884654.html) - 10:48 12/05/2025
+- 🕴 [Công tố viên Hàn Quốc muốn thẩm vấn cựu đệ nhất phu nhân](https://vnexpress.net/cong-to-vien-han-quoc-muon-tham-van-cuu-de-nhat-phu-nhan-4884827.html) - 09:37 12/05/2025
+- 🤭 [Việt Nam hoan nghênh việc Nga đề xuất đàm phán trực tiếp với Ukraine](https://vnexpress.net/viet-nam-hoan-nghenh-viec-nga-de-xuat-dam-phan-truc-tiep-voi-ukraine-4884846.html) - 09:04 12/05/2025
+- 🧑‍💻 [Argentina tìm thấy 83 thùng tài liệu của phát xít Đức](https://vnexpress.net/argentina-tim-thay-83-thung-tai-lieu-cua-phat-xit-duc-4884806.html) - 08:52 12/05/2025
+- 🦏 [Quan điểm chọn vợ của Warren Buffett](https://vnexpress.net/quan-diem-chon-vo-cua-warren-buffett-4883390.html) - 08:36 12/05/2025
+- 🦒 [Thông điệp của Nga từ lễ Duyệt binh Chiến thắng](https://vnexpress.net/thong-diep-cua-nga-tu-le-duyet-binh-chien-thang-4884783.html) - 08:36 12/05/2025
+- 🌈 [Lỗ hổng khiến lao động Việt kỹ năng cao ở Nhật gặp khó](https://vnexpress.net/lo-hong-khien-lao-dong-viet-ky-nang-cao-o-nhat-gap-kho-4884682.html) - 08:34 12/05/2025
+- 🧑‍🏫 [Đảng Công nhân người Kurd giải tán, kết thúc 4 thập kỷ đối đầu với Thổ Nhĩ Kỳ](https://vnexpress.net/dang-cong-nhan-nguoi-kurd-giai-tan-ket-thuc-4-thap-ky-doi-dau-voi-tho-nhi-ky-4884753.html) - 07:54 12/05/2025
+- 🐲 [Ấn Độ mở cơ sở sản xuất tên lửa BrahMos thế hệ mới](https://vnexpress.net/an-do-mo-co-so-san-xuat-ten-lua-brahmos-the-he-moi-4884660.html) - 06:48 12/05/2025
+- 🦒 [Vai trò của chó robot trong cuộc sống ở Singapore](https://vnexpress.net/vai-tro-cua-cho-robot-trong-cuoc-song-o-singapore-4884606.html) - 04:59 12/05/2025
+- 🐻 [Cuộc giằng co bên trong mật nghị bầu tân Giáo hoàng Leo XIV](https://vnexpress.net/cuoc-giang-co-ben-trong-mat-nghi-bau-tan-giao-hoang-leo-xiv-4884554.html) - 04:53 12/05/2025
+- 🚀 [Thủ tướng Thái Lan sắp thăm Việt Nam](https://vnexpress.net/thu-tuong-thai-lan-sap-tham-viet-nam-4884597.html) - 04:50 12/05/2025
+- 🥰 [Mỹ diễn tập &#39;Voi đi bộ&#39; lớn chưa từng có ở Nhật Bản](https://vnexpress.net/my-dien-tap-voi-di-bo-lon-chua-tung-co-o-nhat-ban-4884635.html) - 04:18 12/05/2025
+- 🔥 [Ấn Độ điều tàu sân bay, tàu ngầm tới gần Pakistan](https://vnexpress.net/an-do-dieu-tau-san-bay-tau-ngam-toi-gan-pakistan-4884548.html) - 03:34 12/05/2025
+- 🥳 [Đức ngừng công khai lượng vũ khí viện trợ Ukraine](https://vnexpress.net/duc-ngung-cong-khai-luong-vu-khi-vien-tro-ukraine-4884585.html) - 03:12 12/05/2025
+- 💼 [Hàn Quốc cải tiến tiêm kích giá rẻ cạnh tranh với F-16 Mỹ](https://vnexpress.net/han-quoc-cai-tien-tiem-kich-gia-re-canh-tranh-voi-f-16-my-4884496.html) - 03:00 12/05/2025
+- 🤡 [Chính quyền Trump dọa bắt nhóm nghị sĩ tham gia biểu tình chống trục xuất](https://vnexpress.net/chinh-quyen-trump-doa-bat-nhom-nghi-si-tham-gia-bieu-tinh-chong-truc-xuat-4884578.html) - 02:59 12/05/2025
+- 🌁 [Hàng nghìn người Đức biểu tình phản đối đảng cực hữu](https://vnexpress.net/hang-nghin-nguoi-duc-bieu-tinh-phan-doi-dang-cuc-huu-4884550.html) - 02:12 12/05/2025
+- 🤩 [Taliban bắt 14 người vì chơi nhạc cụ, hát hò](https://vnexpress.net/taliban-bat-14-nguoi-vi-choi-nhac-cu-hat-ho-4884552.html) - 01:48 12/05/2025
+- 🎉 [Chính quyền Trump có thể nhận chuyên cơ &#39;cung điện bay&#39; từ Qatar](https://vnexpress.net/chinh-quyen-trump-co-the-nhan-chuyen-co-cung-dien-bay-tu-qatar-4884524.html) - 01:29 12/05/2025
 - 🎉 [Iran tuyên bố &#39;không thỏa hiệp&#39; về làm giàu uranium](https://vnexpress.net/iran-tuyen-bo-khong-thoa-hiep-ve-lam-giau-uranium-4884525.html) - 00:48 12/05/2025
-- 🎉 [Hamas sắp thả con tin Mỹ](https://vnexpress.net/hamas-sap-tha-con-tin-my-4884517.html) - 23:58 11/05/2025
-- 🌁 [Ông Zelensky đề nghị gặp mặt ông Putin](https://vnexpress.net/ong-zelensky-de-nghi-gap-mat-ong-putin-4884514.html) - 23:42 11/05/2025
-- 🌊 [Dấu ấn từ con rể với chính sách Trung Đông của ông Trump](https://vnexpress.net/dau-an-tu-con-re-voi-chinh-sach-trung-dong-cua-ong-trump-4883998.html) - 22:00 11/05/2025
-- 🕴 [Làn sóng người New Zealand rời khỏi đất nước](https://vnexpress.net/lan-song-nguoi-new-zealand-roi-khoi-dat-nuoc-4883740.html) - 17:00 11/05/2025
-- 🎓 [Giáo hoàng Leo XIV kêu gọi &#39;ngừng chiến tranh&#39;](https://vnexpress.net/giao-hoang-leo-xiv-keu-goi-ngung-chien-tranh-4884492.html) - 16:54 11/05/2025
-- 🦩 [Tổng Bí thư Tô Lâm bắt đầu thăm cấp nhà nước đến Belarus](https://vnexpress.net/tong-bi-thu-to-lam-bat-dau-tham-cap-nha-nuoc-den-belarus-4884477.html) - 15:49 11/05/2025
-- 🌏 [Ấn Độ tuyên bố chiến dịch không kích Pakistan &#39;đã thành công&#39;](https://vnexpress.net/an-do-tuyen-bo-chien-dich-khong-kich-pakistan-da-thanh-cong-4884461.html) - 15:20 11/05/2025
-- 🌋 [Tổng Bí thư gặp cộng đồng người Việt, chuyên gia Nga từng giúp Việt Nam](https://vnexpress.net/tong-bi-thu-gap-cong-dong-nguoi-viet-chuyen-gia-nga-tung-giup-viet-nam-4884455.html) - 14:07 11/05/2025
-- 🪜 [Tuyên bố chung Việt Nam - Nga](https://vnexpress.net/tuyen-bo-chung-viet-nam-nga-4884442.html) - 13:03 11/05/2025
-- 🕴 [Đệ nhị phu nhân Mỹ chia sẻ về vai trò làm mẹ](https://vnexpress.net/de-nhi-phu-nhan-my-chia-se-ve-vai-tro-lam-me-4884435.html) - 11:34 11/05/2025
-- 🧑‍🏫 [Người dân Kashmir thở phào sau thỏa thuận ngừng bắn Ấn Độ - Pakistan](https://vnexpress.net/nguoi-dan-kashmir-tho-phao-sau-thoa-thuan-ngung-ban-an-do-pakistan-4884422.html) - 11:11 11/05/2025
-- 🌮 [Ông Zelensky: Ukraine sẵn sàng đối thoại trực tiếp với Nga](https://vnexpress.net/ong-zelensky-ukraine-san-sang-doi-thoai-truc-tiep-voi-nga-4884425.html) - 10:22 11/05/2025
-- 🚦 [Cựu thủ tướng Hàn Quốc ngừng tranh cử tổng thống](https://vnexpress.net/cuu-thu-tuong-han-quoc-ngung-tranh-cu-tong-thong-4884412.html) - 09:35 11/05/2025
-- 💫 [Sống sót sau 55 ngày trôi dạt trên Thái Bình Dương](https://vnexpress.net/song-sot-sau-55-ngay-troi-dat-tren-thai-binh-duong-4884411.html) - 08:54 11/05/2025
-- 🤡 [Ấn Độ, Pakistan cáo buộc nhau vi phạm lệnh ngừng bắn](https://vnexpress.net/an-do-pakistan-cao-buoc-nhau-vi-pham-lenh-ngung-ban-4884347.html) - 05:35 11/05/2025
-- 🦣 [Giáo hoàng Leo XIV thăm mộ Giáo hoàng Francis](https://vnexpress.net/giao-hoang-leo-xiv-tham-mo-giao-hoang-francis-4884340.html) - 04:13 11/05/2025
-- 🎬 [Cháy kho hóa chất, 160.000 người phải ở trong nhà](https://vnexpress.net/chay-kho-hoa-chat-160-000-nguoi-phai-o-trong-nha-4884328.html) - 03:21 11/05/2025
-- 🎉 [Mỹ hối thúc Ấn Độ, Pakistan ngừng bắn vì &#39;tin tình báo đáng báo động&#39;](https://vnexpress.net/my-hoi-thuc-an-do-pakistan-ngung-ban-vi-tin-tinh-bao-dang-bao-dong-4884294.html) - 02:17 11/05/2025
-- 🎡 [Ông Putin đề xuất Nga - Ukraine đàm phán trực tiếp vào tuần sau](https://vnexpress.net/ong-putin-de-xuat-nga-ukraine-dam-phan-truc-tiep-vao-tuan-sau-4884287.html) - 01:04 11/05/2025
-- 🌜 [Tổng Bí thư Tô Lâm hội đàm với Tổng thống Nga Vladimir Putin](https://vnexpress.net/tong-bi-thu-to-lam-hoi-dam-voi-tong-thong-nga-vladimir-putin-4884289.html) - 23:58 10/05/2025
-- 🎡 [Mẫu tiêm kích giúp không quân Pakistan phô diễn uy lực](https://vnexpress.net/mau-tiem-kich-giup-khong-quan-pakistan-pho-dien-uy-luc-4883555.html) - 22:00 10/05/2025
-- 🤗 [Lý do Hồng y Prevost được bầu làm tân Giáo hoàng](https://vnexpress.net/ly-do-hong-y-prevost-duoc-bau-lam-tan-giao-hoang-4883546.html) - 17:00 10/05/2025
-- 🦩 [Tân Giáo hoàng muốn tiếp nối di sản của người tiền nhiệm](https://vnexpress.net/tan-giao-hoang-muon-tiep-noi-di-san-cua-nguoi-tien-nhiem-4884240.html) - 16:39 10/05/2025
-- 🎓 [4 nước châu Âu kêu gọi Nga - Ukraine ngừng bắn 30 ngày từ tuần sau](https://vnexpress.net/4-nuoc-chau-au-keu-goi-nga-ukraine-ngung-ban-30-ngay-tu-tuan-sau-4884205.html) - 15:15 10/05/2025
-- 🌁 [Ông Trump ký lệnh chi tiền cho người nhập cư tự trục xuất](https://vnexpress.net/ong-trump-ky-lenh-chi-tien-cho-nguoi-nhap-cu-tu-truc-xuat-4884080.html) - 14:28 10/05/2025
-- 🤩 [Tổng Bí thư nhận danh hiệu &#39;Giáo sư danh dự&#39; của Học viện Tổng thống Nga](https://vnexpress.net/tong-bi-thu-nhan-danh-hieu-giao-su-danh-du-cua-hoc-vien-tong-thong-nga-4884220.html) - 14:11 10/05/2025
-- 👹 [Bên trong nhà máy sản xuất tên lửa bằng robot của Trung Quốc](https://vnexpress.net/ben-trong-nha-may-san-xuat-ten-lua-bang-robot-cua-trung-quoc-4884161.html) - 13:40 10/05/2025
-- ⛽️ [Ấn Độ - Pakistan đạt thỏa thuận ngừng bắn toàn diện](https://vnexpress.net/an-do-pakistan-dat-thoa-thuan-ngung-ban-toan-dien-4884209.html) - 12:11 10/05/2025
-- 🚀 [Thông điệp của Pakistan khi tập kích Ấn Độ](https://vnexpress.net/thong-diep-cua-pakistan-khi-tap-kich-an-do-4884207.html) - 12:00 10/05/2025
-- 🎡 [Việt - Nga sẽ hoàn thiện khung pháp lý cho tăng cường hợp tác](https://vnexpress.net/viet-nga-se-hoan-thien-khung-phap-ly-cho-tang-cuong-hop-tac-4884173.html) - 10:44 10/05/2025
-- 🕯 [Việt Nam chúc mừng tân Giáo hoàng](https://vnexpress.net/viet-nam-chuc-mung-tan-giao-hoang-4884178.html) - 10:25 10/05/2025
-- 🐻 [Động lực thúc đẩy Mỹ - Trung đàm phán thương mại](https://vnexpress.net/dong-luc-thuc-day-my-trung-dam-phan-thuong-mai-4883974.html) - 09:30 10/05/2025
-- 🚦 [Đảng cầm quyền Hàn Quốc loại ứng viên tổng thống](https://vnexpress.net/dang-cam-quyen-han-quoc-loai-ung-vien-tong-thong-4884137.html) - 08:52 10/05/2025
-- 👍 [Ấn Độ nói Pakistan huy động tiêm kích tấn công trong đêm](https://vnexpress.net/an-do-noi-pakistan-huy-dong-tiem-kich-tan-cong-trong-dem-4884112.html) - 08:09 10/05/2025
-- 🚀 [Washington có thể đưa Greenland vào khu vực phòng thủ Bắc Mỹ](https://vnexpress.net/washington-co-the-dua-greenland-vao-khu-vuc-phong-thu-bac-my-4884098.html) - 07:39 10/05/2025
-- 🌮 [Phát ngôn viên Gen Z của Nhà Trắng vừa bế con nhỏ vừa làm việc](https://vnexpress.net/phat-ngon-vien-gen-z-cua-nha-trang-vua-be-con-nho-vua-lam-viec-4884073.html) - 05:05 10/05/2025
-- 😎 [Ông Trump ủng hộ tăng thuế với giới nhà giàu](https://vnexpress.net/ong-trump-ung-ho-tang-thue-voi-gioi-nha-giau-4884068.html) - 04:45 10/05/2025
-- 🐲 [Giá ngôi nhà thời thơ ấu của tân Giáo hoàng tăng vọt](https://vnexpress.net/gia-ngoi-nha-thoi-tho-au-cua-tan-giao-hoang-tang-vot-4884025.html) - 04:38 10/05/2025
-- 💫 [Ấn Độ thu được tên lửa hiện đại do Trung Quốc sản xuất](https://vnexpress.net/an-do-thu-duoc-ten-lua-hien-dai-do-trung-quoc-san-xuat-4884065.html) - 04:24 10/05/2025
-- 👀 [Phụ nữ Canada chắt bóp làm đẹp trong nỗi lo suy thoái](https://vnexpress.net/phu-nu-canada-chat-bop-lam-dep-trong-noi-lo-suy-thoai-4882680.html) - 03:42 10/05/2025<!-- vnexpress-the-gioi:END -->
+- 🌁 [Hamas sắp thả con tin Mỹ](https://vnexpress.net/hamas-sap-tha-con-tin-my-4884517.html) - 23:58 11/05/2025
+- 🌊 [Ông Zelensky đề nghị gặp mặt ông Putin](https://vnexpress.net/ong-zelensky-de-nghi-gap-mat-ong-putin-4884514.html) - 23:42 11/05/2025
+- 🕴 [Dấu ấn từ con rể với chính sách Trung Đông của ông Trump](https://vnexpress.net/dau-an-tu-con-re-voi-chinh-sach-trung-dong-cua-ong-trump-4883998.html) - 22:00 11/05/2025
+- 🎓 [Làn sóng người New Zealand rời khỏi đất nước](https://vnexpress.net/lan-song-nguoi-new-zealand-roi-khoi-dat-nuoc-4883740.html) - 17:00 11/05/2025
+- 🦩 [Giáo hoàng Leo XIV kêu gọi &#39;ngừng chiến tranh&#39;](https://vnexpress.net/giao-hoang-leo-xiv-keu-goi-ngung-chien-tranh-4884492.html) - 16:54 11/05/2025
+- 🌏 [Tổng Bí thư Tô Lâm bắt đầu thăm cấp nhà nước đến Belarus](https://vnexpress.net/tong-bi-thu-to-lam-bat-dau-tham-cap-nha-nuoc-den-belarus-4884477.html) - 15:49 11/05/2025
+- 🌋 [Ấn Độ tuyên bố chiến dịch không kích Pakistan &#39;đã thành công&#39;](https://vnexpress.net/an-do-tuyen-bo-chien-dich-khong-kich-pakistan-da-thanh-cong-4884461.html) - 15:20 11/05/2025
+- 🪜 [Tổng Bí thư gặp cộng đồng người Việt, chuyên gia Nga từng giúp Việt Nam](https://vnexpress.net/tong-bi-thu-gap-cong-dong-nguoi-viet-chuyen-gia-nga-tung-giup-viet-nam-4884455.html) - 14:07 11/05/2025
+- 🕴 [Tuyên bố chung Việt Nam - Nga](https://vnexpress.net/tuyen-bo-chung-viet-nam-nga-4884442.html) - 13:03 11/05/2025
+- 🧑‍🏫 [Đệ nhị phu nhân Mỹ chia sẻ về vai trò làm mẹ](https://vnexpress.net/de-nhi-phu-nhan-my-chia-se-ve-vai-tro-lam-me-4884435.html) - 11:34 11/05/2025
+- 🌮 [Người dân Kashmir thở phào sau thỏa thuận ngừng bắn Ấn Độ - Pakistan](https://vnexpress.net/nguoi-dan-kashmir-tho-phao-sau-thoa-thuan-ngung-ban-an-do-pakistan-4884422.html) - 11:11 11/05/2025
+- 🚦 [Ông Zelensky: Ukraine sẵn sàng đối thoại trực tiếp với Nga](https://vnexpress.net/ong-zelensky-ukraine-san-sang-doi-thoai-truc-tiep-voi-nga-4884425.html) - 10:22 11/05/2025
+- 💫 [Cựu thủ tướng Hàn Quốc ngừng tranh cử tổng thống](https://vnexpress.net/cuu-thu-tuong-han-quoc-ngung-tranh-cu-tong-thong-4884412.html) - 09:35 11/05/2025
+- 🤡 [Sống sót sau 55 ngày trôi dạt trên Thái Bình Dương](https://vnexpress.net/song-sot-sau-55-ngay-troi-dat-tren-thai-binh-duong-4884411.html) - 08:54 11/05/2025
+- 🦣 [Ấn Độ, Pakistan cáo buộc nhau vi phạm lệnh ngừng bắn](https://vnexpress.net/an-do-pakistan-cao-buoc-nhau-vi-pham-lenh-ngung-ban-4884347.html) - 05:35 11/05/2025
+- 🎬 [Giáo hoàng Leo XIV thăm mộ Giáo hoàng Francis](https://vnexpress.net/giao-hoang-leo-xiv-tham-mo-giao-hoang-francis-4884340.html) - 04:13 11/05/2025
+- 🎉 [Cháy kho hóa chất, 160.000 người phải ở trong nhà](https://vnexpress.net/chay-kho-hoa-chat-160-000-nguoi-phai-o-trong-nha-4884328.html) - 03:21 11/05/2025
+- 🎡 [Mỹ hối thúc Ấn Độ, Pakistan ngừng bắn vì &#39;tin tình báo đáng báo động&#39;](https://vnexpress.net/my-hoi-thuc-an-do-pakistan-ngung-ban-vi-tin-tinh-bao-dang-bao-dong-4884294.html) - 02:17 11/05/2025
+- 🌜 [Ông Putin đề xuất Nga - Ukraine đàm phán trực tiếp vào tuần sau](https://vnexpress.net/ong-putin-de-xuat-nga-ukraine-dam-phan-truc-tiep-vao-tuan-sau-4884287.html) - 01:04 11/05/2025
+- 🎡 [Tổng Bí thư Tô Lâm hội đàm với Tổng thống Nga Vladimir Putin](https://vnexpress.net/tong-bi-thu-to-lam-hoi-dam-voi-tong-thong-nga-vladimir-putin-4884289.html) - 23:58 10/05/2025
+- 🤗 [Mẫu tiêm kích giúp không quân Pakistan phô diễn uy lực](https://vnexpress.net/mau-tiem-kich-giup-khong-quan-pakistan-pho-dien-uy-luc-4883555.html) - 22:00 10/05/2025
+- 🦩 [Lý do Hồng y Prevost được bầu làm tân Giáo hoàng](https://vnexpress.net/ly-do-hong-y-prevost-duoc-bau-lam-tan-giao-hoang-4883546.html) - 17:00 10/05/2025
+- 🎓 [Tân Giáo hoàng muốn tiếp nối di sản của người tiền nhiệm](https://vnexpress.net/tan-giao-hoang-muon-tiep-noi-di-san-cua-nguoi-tien-nhiem-4884240.html) - 16:39 10/05/2025
+- 🌁 [4 nước châu Âu kêu gọi Nga - Ukraine ngừng bắn 30 ngày từ tuần sau](https://vnexpress.net/4-nuoc-chau-au-keu-goi-nga-ukraine-ngung-ban-30-ngay-tu-tuan-sau-4884205.html) - 15:15 10/05/2025
+- 🤩 [Ông Trump ký lệnh chi tiền cho người nhập cư tự trục xuất](https://vnexpress.net/ong-trump-ky-lenh-chi-tien-cho-nguoi-nhap-cu-tu-truc-xuat-4884080.html) - 14:28 10/05/2025
+- 👹 [Tổng Bí thư nhận danh hiệu &#39;Giáo sư danh dự&#39; của Học viện Tổng thống Nga](https://vnexpress.net/tong-bi-thu-nhan-danh-hieu-giao-su-danh-du-cua-hoc-vien-tong-thong-nga-4884220.html) - 14:11 10/05/2025
+- ⛽️ [Bên trong nhà máy sản xuất tên lửa bằng robot của Trung Quốc](https://vnexpress.net/ben-trong-nha-may-san-xuat-ten-lua-bang-robot-cua-trung-quoc-4884161.html) - 13:40 10/05/2025
+- 🚀 [Ấn Độ - Pakistan đạt thỏa thuận ngừng bắn toàn diện](https://vnexpress.net/an-do-pakistan-dat-thoa-thuan-ngung-ban-toan-dien-4884209.html) - 12:11 10/05/2025
+- 🎡 [Thông điệp của Pakistan khi tập kích Ấn Độ](https://vnexpress.net/thong-diep-cua-pakistan-khi-tap-kich-an-do-4884207.html) - 12:00 10/05/2025
+- 🕯 [Việt - Nga sẽ hoàn thiện khung pháp lý cho tăng cường hợp tác](https://vnexpress.net/viet-nga-se-hoan-thien-khung-phap-ly-cho-tang-cuong-hop-tac-4884173.html) - 10:44 10/05/2025
+- 🐻 [Việt Nam chúc mừng tân Giáo hoàng](https://vnexpress.net/viet-nam-chuc-mung-tan-giao-hoang-4884178.html) - 10:25 10/05/2025
+- 🚦 [Động lực thúc đẩy Mỹ - Trung đàm phán thương mại](https://vnexpress.net/dong-luc-thuc-day-my-trung-dam-phan-thuong-mai-4883974.html) - 09:30 10/05/2025
+- 👍 [Đảng cầm quyền Hàn Quốc loại ứng viên tổng thống](https://vnexpress.net/dang-cam-quyen-han-quoc-loai-ung-vien-tong-thong-4884137.html) - 08:52 10/05/2025
+- 🚀 [Ấn Độ nói Pakistan huy động tiêm kích tấn công trong đêm](https://vnexpress.net/an-do-noi-pakistan-huy-dong-tiem-kich-tan-cong-trong-dem-4884112.html) - 08:09 10/05/2025
+- 🌮 [Washington có thể đưa Greenland vào khu vực phòng thủ Bắc Mỹ](https://vnexpress.net/washington-co-the-dua-greenland-vao-khu-vuc-phong-thu-bac-my-4884098.html) - 07:39 10/05/2025
+- 😎 [Phát ngôn viên Gen Z của Nhà Trắng vừa bế con nhỏ vừa làm việc](https://vnexpress.net/phat-ngon-vien-gen-z-cua-nha-trang-vua-be-con-nho-vua-lam-viec-4884073.html) - 05:05 10/05/2025
+- 🐲 [Ông Trump ủng hộ tăng thuế với giới nhà giàu](https://vnexpress.net/ong-trump-ung-ho-tang-thue-voi-gioi-nha-giau-4884068.html) - 04:45 10/05/2025
+- 💫 [Giá ngôi nhà thời thơ ấu của tân Giáo hoàng tăng vọt](https://vnexpress.net/gia-ngoi-nha-thoi-tho-au-cua-tan-giao-hoang-tang-vot-4884025.html) - 04:38 10/05/2025
+- 👀 [Ấn Độ thu được tên lửa hiện đại do Trung Quốc sản xuất](https://vnexpress.net/an-do-thu-duoc-ten-lua-hien-dai-do-trung-quoc-san-xuat-4884065.html) - 04:24 10/05/2025<!-- vnexpress-the-gioi:END -->
