@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Futsal nữ Việt Nam gặp khó, Thái Lan rộng cửa tới World Cup](https://dantri.com.vn/the-thao/futsal-nu-viet-nam-gap-kho-thai-lan-rong-cua-toi-world-cup-20250512200614388.htm) - 13:35 12/05/2025
-- 💯 [Xác định thời điểm HLV Xabi Alonso dẫn dắt Real Madrid](https://dantri.com.vn/the-thao/xac-dinh-thoi-diem-hlv-xabi-alonso-dan-dat-real-madrid-20250512203355233.htm) - 13:34 12/05/2025
+- 🎡 [Xác định thời điểm HLV Xabi Alonso dẫn dắt Real Madrid](https://dantri.com.vn/the-thao/xac-dinh-thoi-diem-hlv-xabi-alonso-dan-dat-real-madrid-20250512203355233.htm) - 14:00 12/05/2025
+- 💯 [Futsal nữ Việt Nam gặp khó, Thái Lan rộng cửa tới World Cup](https://dantri.com.vn/the-thao/futsal-nu-viet-nam-gap-kho-thai-lan-rong-cua-toi-world-cup-20250512200614388.htm) - 13:35 12/05/2025
 - ⛽️ [Ngôi sao trẻ ở giải Anh mong đợi được khoác áo đội tuyển Việt Nam](https://dantri.com.vn/the-thao/ngoi-sao-tre-o-giai-anh-mong-doi-duoc-khoac-ao-doi-tuyen-viet-nam-20250512122107080.htm) - 09:00 12/05/2025
 - 💃 [Tuyển futsal nữ Việt Nam sẵn sàng đối đầu Nhật Bản ở tứ kết giải châu Á](https://dantri.com.vn/the-thao/tuyen-futsal-nu-viet-nam-san-sang-doi-dau-nhat-ban-o-tu-ket-giai-chau-a-20250512143626239.htm) - 07:57 12/05/2025
 - 🌈 [Lamine Yamal gây sốt khi ăn mừng chế giễu C.Ronaldo và Mbappe](https://dantri.com.vn/the-thao/lamine-yamal-gay-sot-khi-an-mung-che-gieu-cronaldo-va-mbappe-20250512144936008.htm) - 07:49 12/05/2025
