@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-giao-duc:START -->
 - 🤡 [34 giáo viên hợp đồng lâu năm tại Buôn Ma Thuột sẽ được tuyển dụng đặc cách](https://dantri.com.vn/giao-duc/34-giao-vien-hop-dong-lau-nam-tai-buon-ma-thuot-se-duoc-tuyen-dung-dac-cach-20250512130934618.htm) - 07:07 12/05/2025
-- 🗽 [Đề xuất lạ về &quot;tiếq Việt&quot; của PGS Bùi Hiền từng gây &quot;sục sôi&quot; thế nào?](https://dantri.com.vn/giao-duc/de-xuat-la-ve-tieq-viet-cua-pgs-bui-hien-tung-gay-suc-soi-the-nao-20250512103513591.htm) - 04:04 12/05/2025
+- 🗽 [Đề xuất lạ về &quot;tiếq Việt&quot; của PGS Bùi Hiền từng gây sục sôi thế nào?](https://dantri.com.vn/giao-duc/de-xuat-la-ve-tieq-viet-cua-pgs-bui-hien-tung-gay-suc-soi-the-nao-20250512103513591.htm) - 04:04 12/05/2025
 - 🚦 [11 lần chuyển trường, 10 lần chuyển nhà, nam sinh giành học bổng toàn phần](https://dantri.com.vn/giao-duc/11-lan-chuyen-truong-10-lan-chuyen-nha-nam-sinh-gianh-hoc-bong-toan-phan-20250511225535952.htm) - 03:00 12/05/2025
 - 🌋 [Đề xuất bỏ bằng tốt nghiệp THCS, hiệu trưởng được cấp bằng tốt nghiệp THPT](https://dantri.com.vn/giao-duc/de-xuat-bo-bang-tot-nghiep-thcs-hieu-truong-duoc-cap-bang-tot-nghiep-thpt-20250512093416201.htm) - 02:36 12/05/2025
 - 🏊 [PGS.TS Bùi Hiền, cha đẻ bộ đề xuất cải tiến &quot;tiếq Việt&quot;, qua đời](https://dantri.com.vn/giao-duc/pgsts-bui-hien-cha-de-bo-de-xuat-cai-tien-tieq-viet-qua-doi-20250512091355257.htm) - 02:15 12/05/2025
