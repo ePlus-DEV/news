@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [ĐH Quốc gia Hà Nội bắt tay hợp tác với 4 đại học hàng đầu Liên bang Nga](https://dantri.com.vn/giao-duc/dh-quoc-gia-ha-noi-bat-tay-hop-tac-voi-4-dai-hoc-hang-dau-lien-bang-nga-20250513220310147.htm) - 22:00 13/05/2025
-- 🗽 [Lý giải tại sao &quot;con nhà tông không giống lông cũng giống cánh&quot;](https://dantri.com.vn/giao-duc/ly-giai-tai-sao-con-nha-tong-khong-giong-long-cung-giong-canh-20250513212539039.htm) - 22:00 13/05/2025
+- 🤡 [Lý giải tại sao &quot;con nhà tông không giống lông cũng giống cánh&quot;](https://dantri.com.vn/giao-duc/ly-giai-tai-sao-con-nha-tong-khong-giong-long-cung-giong-canh-20250513212539039.htm) - 23:00 13/05/2025
+- 🗽 [ĐH Quốc gia Hà Nội bắt tay hợp tác với 4 đại học hàng đầu Liên bang Nga](https://dantri.com.vn/giao-duc/dh-quoc-gia-ha-noi-bat-tay-hop-tac-voi-4-dai-hoc-hang-dau-lien-bang-nga-20250513220310147.htm) - 22:00 13/05/2025
 - 🚦 [Tin vui cho giáo viên mầm non: Phụ cấp có thể tăng đến 80%](https://dantri.com.vn/giao-duc/tin-vui-cho-giao-vien-mam-non-phu-cap-co-the-tang-den-80-20250513204319960.htm) - 13:52 13/05/2025
 - 🌋 [Tỷ lệ lên đến 25 &quot;chọi&quot; 1 cho suất vào lớp 10 chuyên Trung ở Hà Nội](https://dantri.com.vn/giao-duc/ty-le-len-den-25-choi-1-cho-suat-vao-lop-10-chuyen-trung-o-ha-noi-20250513195216523.htm) - 12:59 13/05/2025
 - 🏊 [Khu vực tuyển sinh &quot;gắt&quot; nhất Hà Nội trong kỳ thi lớp 10 công lập 2025](https://dantri.com.vn/giao-duc/khu-vuc-tuyen-sinh-gat-nhat-ha-noi-trong-ky-thi-lop-10-cong-lap-2025-20250513191341774.htm) - 12:17 13/05/2025
