@@ -248,7 +248,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Cung nghinh xá lợi Đức Phật nhiễu quanh hồ Hoàn Kiếm](https://nld.com.vn/cung-nghinh-xa-loi-duc-phat-nhieu-quanh-ho-hoan-kiem-196250513214044858.htm) - 14:55 13/05/2025
+- 🐎 [Cung rước xá lợi Đức Phật quanh Hồ Hoàn Kiếm](https://nld.com.vn/cung-nghinh-xa-loi-duc-phat-nhieu-quanh-ho-hoan-kiem-196250513214044858.htm) - 14:55 13/05/2025
 - 😺 [Thái Lan kết thúc tìm kiếm tại tòa nhà sập do động đất, tìm được 89 thi thể](https://nld.com.vn/thai-lan-ket-thuc-tim-kiem-tai-toa-nha-sap-do-dong-dat-tim-duoc-89-thi-the-19625051320462781.htm) - 14:55 13/05/2025
 - 👍 [Giải futsal nữ châu Á 2025: Thái Lan thành lá cờ đầu Đông Nam Á ở bán kết](https://nld.com.vn/giai-futsal-nu-chau-a-2025-thai-lan-thanh-la-co-dau-dong-nam-a-o-ban-ket-196250513211259427.htm) - 14:34 13/05/2025
 - 🥷 [Đề xuất tăng phụ cấp với giáo viên mầm non lên đến 80%](https://nld.com.vn/de-xuat-tang-phu-cap-voi-giao-vien-mam-non-len-den-80-196250513205801685.htm) - 14:25 13/05/2025
