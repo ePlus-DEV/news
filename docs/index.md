@@ -526,7 +526,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Hòa Minzy, SooBin, Phương Mỹ Chi... được tuyên dương tại Đại hội Thanh niên tiên tiến làm theo lời Bác](https://muctim.tuoitre.vn/ngoai-hoa-minzy-nghe-si-tre-nao-se-duoc-tuyen-duong-tai-dai-hoi-thanh-nien-tien-tien-lam-theo-loi-bac-2025-101250513123812123.htm) - 07:45 13/05/2025
+- 🤔 [Hòa Minzy, Soobin, Phương Mỹ Chi... được tuyên dương tại Đại hội Thanh niên tiên tiến làm theo lời Bác](https://muctim.tuoitre.vn/ngoai-hoa-minzy-nghe-si-tre-nao-se-duoc-tuyen-duong-tai-dai-hoi-thanh-nien-tien-tien-lam-theo-loi-bac-2025-101250513123812123.htm) - 07:45 13/05/2025
 - 🥷 [Kaity Nguyễn tái ngộ Thái Hòa, nhưng lần này hai cha con căng cực](https://muctim.tuoitre.vn/kaity-nguyen-tai-ngo-thai-hoa-nhung-lan-nay-hai-cha-con-cang-cuc-101250513090721753.htm) - 03:00 13/05/2025
 - 🤖 [Tom Cruise tham gia chương trình của Jin &lpar;BTS&rpar;; Suzy đàm phán phim mới](https://muctim.tuoitre.vn/tom-cruise-tham-gia-chuong-trinh-cua-jin-bts-suzy-dam-phan-phim-moi-101250513081727387.htm) - 02:30 13/05/2025
 - 🤓 [8 phim Việt nào vượt mốc doanh thu 200 tỷ?](https://muctim.tuoitre.vn/8-phim-viet-nao-vuot-moc-doanh-thu-200-ty-101250513030452406.htm) - 02:28 13/05/2025
