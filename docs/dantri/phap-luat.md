@@ -5,7 +5,7 @@ sidebar_position: 8
 
 <!-- dantri-phap-luat:START -->
 - 🌊 [Giám đốc chiếm đoạt hơn 2 tỷ đồng của đối tác và khách hàng ở Bình Dương](https://dantri.com.vn/phap-luat/giam-doc-chiem-doat-hon-2-ty-dong-cua-doi-tac-va-khach-hang-o-binh-duong-20250513121959949.htm) - 06:26 13/05/2025
-- 🐲 [Cách Thuận An &quot;nhúng tay&quot; vào cao tốc Tuyên Quang - Phú Thọ](https://dantri.com.vn/phap-luat/cach-thuan-an-nhung-tay-vao-cao-toc-tuyen-quang-phu-tho-20250513124514646.htm) - 06:00 13/05/2025
+- 🐲 [Cách Thuận An &quot;nhúng tay&quot; vào dự án cao tốc Tuyên Quang - Phú Thọ](https://dantri.com.vn/phap-luat/cach-thuan-an-nhung-tay-vao-du-an-cao-toc-tuyen-quang-phu-tho-20250513124514646.htm) - 06:00 13/05/2025
 - 🌁 [Sáng cho vay 1 tỷ, chiều thu lãi 150 triệu đồng](https://dantri.com.vn/phap-luat/sang-cho-vay-1-ty-chieu-thu-lai-150-trieu-dong-20250513111701027.htm) - 05:13 13/05/2025
 - 🎃 [Công an thông tin về vụ đối tượng cướp ngân hàng ở Lâm Đồng](https://dantri.com.vn/phap-luat/cong-an-thong-tin-ve-vu-doi-tuong-cuop-ngan-hang-o-lam-dong-20250513113054455.htm) - 04:58 13/05/2025
 - 🦅 [Kẻ nhập lậu thuốc nhúng làm chín sầu riêng: Xây nhà lầu, sắm ô tô](https://dantri.com.vn/phap-luat/ke-nhap-lau-thuoc-nhung-lam-chin-sau-rieng-xay-nha-lau-sam-o-to-20250513110700766.htm) - 04:39 13/05/2025
