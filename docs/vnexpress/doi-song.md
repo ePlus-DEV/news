@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [40 thư viện điện tử cho trường học vùng cao](https://vnexpress.net/40-thu-vien-dien-tu-cho-truong-hoc-vung-cao-4885690.html) - 02:55 14/05/2025
+- 🚀 [50 thư viện điện tử cho trường học vùng cao](https://vnexpress.net/50-thu-vien-dien-tu-cho-truong-hoc-vung-cao-4885690.html) - 02:55 14/05/2025
 - 🎓 [Nghề muối cà hơn 300 năm tuổi của ngôi làng Hà Nội](https://vnexpress.net/nghe-muoi-ca-hon-300-nam-tuoi-cua-ngoi-lang-ha-noi-4884625.html) - 23:00 13/05/2025
 - 🚦 [Người già Hong Kong cô độc](https://vnexpress.net/nguoi-gia-hong-kong-co-doc-4885518.html) - 22:34 13/05/2025
 - 🦣 [Xuyên đêm xếp hàng chờ chiêm bái xá lợi Phật ở chùa Quán Sứ](https://vnexpress.net/xuyen-dem-xep-hang-cho-chiem-bai-xa-loi-phat-o-chua-quan-su-4885569.html) - 18:39 13/05/2025
