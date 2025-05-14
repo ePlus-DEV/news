@@ -58,7 +58,7 @@ sidebar_position: 9
 - 🔥 [Nga lên tiếng về ý tưởng Pháp &#39;giương ô hạt nhân&#39; ở châu Âu](https://vnexpress.net/nga-len-tieng-ve-y-tuong-phap-giuong-o-hat-nhan-o-chau-au-4886034.html) - 12:09 14/05/2025
 - 💄 [Lập tổ công tác đặc biệt, mở đợt truy quét buôn lậu, hàng giả](https://vnexpress.net/lap-to-cong-tac-dac-biet-mo-dot-truy-quet-buon-lau-hang-gia-4886041.html) - 12:04 14/05/2025
 - 🤡 [Hiện trạng hai sân khấu 30 năm tuổi tại TP HCM](https://vnexpress.net/hien-trang-hai-san-khau-30-nam-tuoi-tai-tp-hcm-4885976.html) - 12:00 14/05/2025
-- ⛽️ [Hồ nước thải có thể cung cấp 40 triệu tấn đất hiếm mỗi năm](https://vnexpress.net/ho-nuoc-thai-co-the-cung-cap-40-trieu-tan-dat-hiem-moi-nam-4885604.html) - 12:00 14/05/2025
+- ⛽️ [Hồ nước thải có thể cung cấp 40 tấn đất hiếm mỗi năm](https://vnexpress.net/ho-nuoc-thai-co-the-cung-cap-40-tan-dat-hiem-moi-nam-4885604.html) - 12:00 14/05/2025
 - 🚀 [8 tháng chăm con, tôi chỉ stress vì mẹ chồng](https://vnexpress.net/8-thang-cham-con-toi-chi-stress-vi-me-chong-4884770.html) - 12:00 14/05/2025
 - 🌜 [4 động tác tăng cơ không cần tạ](https://vnexpress.net/4-dong-tac-tang-co-khong-can-ta-4885933.html) - 12:00 14/05/2025
 - 🌜 [OCB phát triển giải pháp tài chính cho doanh nghiệp](https://vnexpress.net/ocb-phat-trien-giai-phap-tai-chinh-cho-doanh-nghiep-4885245.html) - 12:00 14/05/2025
