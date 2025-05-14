@@ -4,7 +4,7 @@ sidebar_position: 20
 ---
 
 <!-- dantri-tam-long-nhan-ai:START -->
-- 🌝 [Bi kịch liên tiếp: Chồng tai biến, con gặp nạn nghiêm trọng](https://dantri.com.vn/tam-long-nhan-ai/bi-kich-lien-tiep-chong-tai-bien-con-gap-nan-nghiem-trong-20250512122949458.htm) - 22:30 13/05/2025
+- 🌝 [Bi kịch tiếp nối: &quot;Chồng vừa đỡ tai biến cũng là lúc con tôi gặp nạn&quot;](https://dantri.com.vn/tam-long-nhan-ai/bi-kich-tiep-noi-chong-vua-do-tai-bien-cung-la-luc-con-toi-gap-nan-20250512122949458.htm) - 22:30 13/05/2025
 - 🌜 [Xây nhà Nhân ái tặng người mẹ bán cả đàn bò để cứu con](https://dantri.com.vn/tam-long-nhan-ai/xay-nha-nhan-ai-tang-nguoi-me-ban-ca-dan-bo-de-cuu-con-20250513170232993.htm) - 11:23 13/05/2025
 - 👀 [Thông báo kết chuyển Nhân ái tuần 1 tháng 5/2025](https://dantri.com.vn/tam-long-nhan-ai/thong-bao-ket-chuyen-nhan-ai-tuan-1-thang-52025-20250513170612741.htm) - 11:06 13/05/2025
 - 🚀 [Danh sách bạn đọc ủng hộ tuần 1 tháng 5/2025](https://dantri.com.vn/tam-long-nhan-ai/danh-sach-ban-doc-ung-ho-tuan-1-thang-52025-20250513170134703.htm) - 11:05 13/05/2025
