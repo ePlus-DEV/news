@@ -528,7 +528,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Pháo thích thú khi được khán giả khen giống Pháp Kiều](https://muctim.tuoitre.vn/phao-thich-thu-khi-duoc-khan-gia-khen-giong-phap-kieu-10125051422072014.htm) - 15:51 14/05/2025
+- 🤔 [Rapper Pháo thích thú khi được khán giả khen giống Pháp Kiều](https://muctim.tuoitre.vn/phao-thich-thu-khi-duoc-khan-gia-khen-giong-phap-kieu-10125051422072014.htm) - 15:51 14/05/2025
 - 🥷 [Ngắm nhìn thành phố qua ống kính nhiếp ảnh gia nhí](https://muctim.tuoitre.vn/ngam-nhin-thanh-pho-qua-ong-kinh-nhiep-anh-gia-nhi-101250513165341071.htm) - 12:45 14/05/2025
 - 🤖 [Jung Hae In tái xuất màn ảnh nhỏ, Shin Se Kyung sánh đôi cùng Jin &lpar;BTS&rpar;](https://muctim.tuoitre.vn/jung-hae-in-tai-xuat-man-anh-nho-shin-se-kyung-sanh-doi-cung-jin-bts-101250514172403097.htm) - 12:42 14/05/2025
 - 🤓 [Bạn đã check-in với hoa muồng đào tại Vườn Quốc gia Cát Tiên chưa?](https://muctim.tuoitre.vn/ban-da-check-in-voi-hoa-muong-dao-tai-vuon-quoc-gia-cat-tien-chua-10125051417271321.htm) - 12:35 14/05/2025
