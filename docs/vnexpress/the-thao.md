@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Công An Hà Nội - Buriram: Quang Hải đá chính](https://vnexpress.net/cong-an-ha-noi-buriram-quang-hai-da-chinh-4885916.html) - 11:30 14/05/2025
+- 🪜 [Công An Hà Nội 0-0 Buriram &lpar;H1&rpar;: Quang Hải bỏ lỡ](https://vnexpress.net/cong-an-ha-noi-0-0-buriram-h1-quang-hai-bo-lo-4885916.html) - 11:30 14/05/2025
 - 🦩 [Kroos: &#39;Mbappe không có lỗi trong mùa giải thất bại của Real&#39;](https://vnexpress.net/kroos-mbappe-khong-co-loi-trong-mua-giai-that-bai-cua-real-4885696.html) - 08:40 14/05/2025
 - 🧰 [Romario: &#39;Antony đủ sức giúp Brazil tại World Cup 2026&#39;](https://vnexpress.net/romario-antony-du-suc-giup-brazil-tai-world-cup-2026-4885764.html) - 08:14 14/05/2025
 - 🤗 [Sự bền bỉ của ngôi sao Nam Phi phá kỷ lục của Usain Bolt](https://vnexpress.net/su-ben-bi-cua-ngoi-sao-nam-phi-pha-ky-luc-cua-usain-bolt-4885820.html) - 07:21 14/05/2025
