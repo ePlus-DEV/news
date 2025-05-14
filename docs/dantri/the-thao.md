@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [HLV Malaysia &quot;tuyên chiến&quot; với tuyển Việt Nam trước trận quyết đấu](https://dantri.com.vn/the-thao/hlv-malaysia-tuyen-chien-voi-tuyen-viet-nam-truoc-tran-quyet-dau-20250514201602993.htm) - 13:16 14/05/2025
-- 💯 [CLB Công an Hà Nội 2-2 Buriram &lpar;hiệp 2&rpar;: Zulj gỡ hòa cho đội khách](https://dantri.com.vn/the-thao/clb-cong-an-ha-noi-2-2-buriram-hiep-2-zulj-go-hoa-cho-doi-khach-20250514191927382.htm) - 12:19 14/05/2025
+- 💯 [Hai lần dẫn trước, CLB Công an Hà Nội vẫn tuột chiến thắng trước Buriram](https://dantri.com.vn/the-thao/hai-lan-dan-truoc-clb-cong-an-ha-noi-van-tuot-chien-thang-truoc-buriram-20250514191927382.htm) - 12:19 14/05/2025
 - ⛽️ [Bất mãn với Kylian Mbappe, ngôi sao Real Madrid muốn ra đi](https://dantri.com.vn/the-thao/bat-man-voi-kylian-mbappe-ngoi-sao-real-madrid-muon-ra-di-20250514180102122.htm) - 12:01 14/05/2025
 - 💃 [AFC thán phục đội trưởng 35 tuổi của tuyển futsal nữ Việt Nam](https://dantri.com.vn/the-thao/afc-than-phuc-doi-truong-35-tuoi-cua-tuyen-futsal-nu-viet-nam-20250514115744415.htm) - 09:01 14/05/2025
 - 🌈 [Con trai C.Ronaldo gây sốt khi mặc áo số 7, ra mắt đội U15 Bồ Đào Nha](https://dantri.com.vn/the-thao/con-trai-cronaldo-gay-sot-khi-mac-ao-so-7-ra-mat-doi-u15-bo-dao-nha-20250514141839472.htm) - 07:18 14/05/2025
