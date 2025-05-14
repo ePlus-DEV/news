@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Tỷ lệ chọi vào lớp 10 của 108 trường ở TP HCM](https://vnexpress.net/ty-le-choi-vao-lop-10-cong-lap-cua-108-truong-thpt-o-tp-hcm-4885836.html) - 05:19 14/05/2025
+- 🤓 [Tỷ lệ chọi vào lớp 10 của 109 trường ở TP HCM](https://vnexpress.net/ty-le-choi-vao-lop-10-cong-lap-cua-108-truong-thpt-o-tp-hcm-4885836.html) - 05:19 14/05/2025
 - 🦆 [Cô bé 14 tuổi tốt nghiệp đại học](https://vnexpress.net/co-be-14-tuoi-tot-nghiep-dai-hoc-4885670.html) - 05:04 14/05/2025
 - 🦩 [Học sinh chưa chắc đỗ lớp 10 dù tỷ lệ chọi dưới 1](https://vnexpress.net/nguyen-tac-xet-tuyen-lop-10-o-ha-noi-4885708.html) - 04:03 14/05/2025
 - 🌮 [6 cách nói &#39;tôi không thích&#39; trong tiếng Anh](https://vnexpress.net/6-cach-noi-toi-khong-thich-trong-tieng-anh-4885397.html) - 01:10 14/05/2025
