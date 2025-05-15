@@ -5,7 +5,7 @@ sidebar_position: 8
 
 <!-- dantri-phap-luat:START -->
 - 🌊 [Đột nhập trụ sở phường trộm hơn 200 triệu đồng](https://dantri.com.vn/phap-luat/dot-nhap-tru-so-phuong-trom-hon-200-trieu-dong-20250515210348906.htm) - 15:16 15/05/2025
-- 🐲 [Cựu chủ tịch huyện Quảng Xương Trần Văn Công lĩnh án 5 năm tù](https://dantri.com.vn/phap-luat/cuu-chu-tich-huyen-quang-xuong-tran-van-cong-linh-an-5-nam-tu-20250515213047566.htm) - 14:42 15/05/2025
+- 🐲 [Cựu Chủ tịch huyện Quảng Xương Trần Văn Công lĩnh án 5 năm tù](https://dantri.com.vn/phap-luat/cuu-chu-tich-huyen-quang-xuong-tran-van-cong-linh-an-5-nam-tu-20250515213047566.htm) - 14:42 15/05/2025
 - 🌁 [Đình chỉ điều tra ba bị can trong vụ án đưa hối lộ tại Đắk Nông](https://dantri.com.vn/phap-luat/dinh-chi-dieu-tra-ba-bi-can-trong-vu-an-dua-hoi-lo-tai-dak-nong-20250515195824779.htm) - 13:25 15/05/2025
 - 🎃 [Khởi tố cặp vợ chồng lừa đảo chiếm đoạt tài sản dưới hình thức chơi hụi](https://dantri.com.vn/phap-luat/khoi-to-cap-vo-chong-lua-dao-chiem-doat-tai-san-duoi-hinh-thuc-choi-hui-20250515195548817.htm) - 13:03 15/05/2025
 - 🦅 [Gần 2.000m2 rừng phòng hộ bị tàn phá ở Quảng Trị](https://dantri.com.vn/phap-luat/gan-2000m2-rung-phong-ho-bi-tan-pha-o-quang-tri-20250515191235523.htm) - 12:57 15/05/2025
