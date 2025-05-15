@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Phim &#39;Trạng Quỳnh&#39; tung cảnh đại chiến với Cửu Vĩ Hồ](https://vnexpress.net/phim-trang-quynh-tung-canh-dai-chien-voi-cuu-vi-ho-4886497.html) - 11:12 15/05/2025
-- 💫 [Hồ Quỳnh Hương công khai có con ở lễ cưới](https://vnexpress.net/ho-quynh-huong-cong-khai-co-con-o-le-cuoi-4886507.html) - 10:46 15/05/2025
+- 💫 [Hồ Quỳnh Hương công khai có con trai hai tuổi](https://vnexpress.net/ho-quynh-huong-cong-khai-co-con-trai-hai-tuoi-4886507.html) - 10:46 15/05/2025
 - 🌮 [Mỹ nhân &#39;Gia đình là số một&#39; bị cáo buộc biển thủ 4,3 tỷ won](https://vnexpress.net/my-nhan-gia-dinh-la-so-mot-bi-cao-buoc-bien-thu-4-3-ty-won-4886439.html) - 10:09 15/05/2025
 - 🧠 [Đường Yên, Chompoo Araya khoe sắc ở Cannes](https://vnexpress.net/duong-yen-chompoo-araya-khoe-sac-o-cannes-4886455.html) - 09:53 15/05/2025
 - 👨‍🏫 [Hồ Quỳnh Hương dùng 5 tấn hoa tươi trang trí tiệc cưới](https://vnexpress.net/ho-quynh-huong-dung-5-tan-hoa-tuoi-trang-tri-tiec-cuoi-4886158.html) - 09:30 15/05/2025
