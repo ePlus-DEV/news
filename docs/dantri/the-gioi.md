@@ -5,7 +5,7 @@ sidebar_position: 17
 
 <!-- dantri-the-gioi:START -->
 - 🌋 [Ông Trump đề xuất Mỹ tiếp quản, biến Gaza thành &quot;vùng tự do&quot;](https://dantri.com.vn/the-gioi/ong-trump-de-xuat-my-tiep-quan-bien-gaza-thanh-vung-tu-do-20250515213610651.htm) - 14:46 15/05/2025
-- 🎬 [Đàm phán trực tiếp với Ukraine: Nga tuyên bố sẵn sàng thỏa hiệp](https://dantri.com.vn/the-gioi/dam-phan-truc-tiep-voi-ukraine-nga-tuyen-bo-san-sang-thoa-hiep-20250515180025565.htm) - 14:29 15/05/2025
+- 🎬 [Đàm phán trực tiếp: Tổng thống Trump gây áp lực lên Ukraine nhiều hơn Nga](https://dantri.com.vn/the-gioi/dam-phan-truc-tiep-tong-thong-trump-gay-ap-luc-len-ukraine-nhieu-hon-nga-20250515180025565.htm) - 14:29 15/05/2025
 - 🧰 [Mỹ đưa ra điều kiện mới để dàn xếp xung đột Nga - Ukraine?](https://dantri.com.vn/the-gioi/my-dua-ra-dieu-kien-moi-de-dan-xep-xung-dot-nga-ukraine-20250515211406751.htm) - 14:21 15/05/2025
 - 🌋 [Ông Trump tới UAE thúc đẩy tham vọng AI của quốc gia vùng Vịnh](https://dantri.com.vn/the-gioi/ong-trump-toi-uae-thuc-day-tham-vong-ai-cua-quoc-gia-vung-vinh-20250515211557825.htm) - 14:16 15/05/2025
 - 🗽 [Tiết lộ cuộc họp giờ chót của ông Putin trước đàm phán với Ukraine](https://dantri.com.vn/the-gioi/tiet-lo-cuoc-hop-gio-chot-cua-ong-putin-truoc-dam-phan-voi-ukraine-20250515205220014.htm) - 14:01 15/05/2025
