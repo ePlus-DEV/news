@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Giảng viên kỹ thuật quân sự nhảy dancesport gây sốt ở Nga](https://vnexpress.net/giang-vien-ky-thuat-quan-su-nhay-dancesport-gay-sot-o-nga-4885851.html) - 23:00 14/05/2025
+- 🤓 [Giảng viên HV Kỹ thuật quân sự nhảy dancesport gây sốt ở Nga](https://vnexpress.net/giang-vien-hv-ky-thuat-quan-su-nhay-dancesport-gay-sot-o-nga-4885851.html) - 23:00 14/05/2025
 - 🦆 [Tổng Bí thư: Tập trung giáo dục STEM, ngoại ngữ, kỹ năng số](https://vnexpress.net/tong-bi-thu-tap-trung-giao-duc-stem-ngoai-ngu-ky-nang-so-4886071.html) - 14:32 14/05/2025
 - 🦩 [Nước nào giữ kỷ lục nóng nhất thế giới?](https://vnexpress.net/nuoc-nao-giu-ky-luc-nong-nhat-the-gioi-4886049.html) - 13:33 14/05/2025
 - 🌮 [Biến động ở top 10 tỷ lệ chọi cao nhất TP HCM](https://vnexpress.net/bien-dong-10-truong-co-ty-le-choi-lop-10-cao-nhat-tp-hcm-4885908.html) - 09:28 14/05/2025
