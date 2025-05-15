@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Suối nước vàng tạo bọt quanh năm trong rừng đặc dụng](https://vnexpress.net/suoi-nuoc-vang-tao-bot-quanh-nam-trong-rung-dac-dung-4886061.html) - 04:41 15/05/2025
+- 💂 [Suối nước vàng, tạo bọt quanh năm trong rừng đặc dụng](https://vnexpress.net/suoi-nuoc-vang-tao-bot-quanh-nam-trong-rung-dac-dung-4886061.html) - 04:41 15/05/2025
 - 🪄 [4 điểm ngắm và chơi diều ở TP HCM dịp hè](https://vnexpress.net/4-diem-ngam-va-choi-dieu-o-tp-hcm-dip-he-4886028.html) - 03:08 15/05/2025
 - 🦅 [Mặt tối của cà phê chồn](https://vnexpress.net/mat-toi-cua-ca-phe-chon-4885923.html) - 02:06 15/05/2025
 - 🕴 [Khách Tây mê mẩn trải nghiệm sông ở Phong Nha - Kẻ Bàng](https://vnexpress.net/khach-tay-me-man-trai-nghiem-song-o-phong-nha-ke-bang-4885890.html) - 00:00 15/05/2025
