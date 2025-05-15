@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Quốc hội xem xét tăng mức phạt hành chính trên nhiều lĩnh vực](https://vnexpress.net/quoc-hoi-xem-xet-tang-muc-phat-hanh-chinh-tren-nhieu-linh-vuc-4886073.html) - 17:28 14/05/2025
+- 🦒 [Đề xuất chuyển thẩm quyền xử phạt từ trưởng công an huyện sang trưởng công an xã](https://vnexpress.net/de-xuat-chuyen-tham-quyen-xu-phat-tu-truong-cong-an-huyen-sang-truong-cong-an-xa-4886073.html) - 17:28 14/05/2025
 - 🤓 [Tri thức dân gian sâm Ngọc Linh là di sản văn hóa quốc gia](https://vnexpress.net/tri-thuc-dan-gian-sam-ngoc-linh-la-di-san-van-hoa-quoc-gia-4886074.html) - 16:02 14/05/2025
 - ⚗️ [6 hầm đường bộ trên cao tốc Bắc Nam được đầu tư hoàn chỉnh](https://vnexpress.net/6-ham-duong-bo-tren-cao-toc-bac-nam-duoc-dau-tu-hoan-chinh-4886075.html) - 15:06 14/05/2025
 - 🌊 [Bộ trưởng Nội vụ: Xây dựng KPI cho công chức theo vị trí việc làm](https://vnexpress.net/bo-truong-noi-vu-xay-dung-kpi-cho-cong-chuc-theo-vi-tri-viec-lam-4885947.html) - 11:47 14/05/2025
