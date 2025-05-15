@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Đàm phán trực tiếp với Ukraine: Nga tuyên bố sẵn sàng thỏa hiệp](https://dantri.com.vn/the-gioi/dam-phan-truc-tiep-voi-ukraine-nga-tuyen-bo-san-sang-thoa-hiep-20250515180025565.htm) - 14:29 15/05/2025
+- 🎭 [Đàm phán trực tiếp: Tổng thống Trump gây áp lực lên Ukraine nhiều hơn Nga](https://dantri.com.vn/the-gioi/dam-phan-truc-tiep-tong-thong-trump-gay-ap-luc-len-ukraine-nhieu-hon-nga-20250515180025565.htm) - 14:29 15/05/2025
 - 👨‍🏫 [Hội nghị 3 tỉnh Hà Nam, Ninh Bình, Nam Định xây dựng phương án nhân sự](https://dantri.com.vn/xa-hoi/hoi-nghi-3-tinh-ha-nam-ninh-binh-nam-dinh-xay-dung-phuong-an-nhan-su-20250515201557775.htm) - 13:59 15/05/2025
 - 🌮 [Diễn biến bất ngờ vụ người phụ nữ đi xe máy đuổi theo đập vỡ kính ô tô](https://dantri.com.vn/xa-hoi/dien-bien-bat-ngo-vu-nguoi-phu-nu-di-xe-may-duoi-theo-dap-vo-kinh-o-to-20250515200033943.htm) - 13:51 15/05/2025
 - 🕯 [Phản ứng của Madam Pang khi đội nhà giành vé dự World Cup](https://dantri.com.vn/the-thao/phan-ung-cua-madam-pang-khi-doi-nha-gianh-ve-du-world-cup-20250515203700948.htm) - 13:37 15/05/2025
