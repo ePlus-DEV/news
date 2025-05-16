@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Đại học tuyển hơn 550.000 sinh viên một năm là &#39;bất hợp lý&#39;](https://vnexpress.net/dai-hoc-tuyen-hon-550-000-sinh-vien-mot-nam-la-bat-hop-ly-4886861.html) - 08:48 16/05/2025
-- 🦆 [Phụ huynh sốc vì trung tâm Anh ngữ ở TP HCM đóng cửa](https://vnexpress.net/phu-huynh-soc-vi-trung-tam-anh-ngu-o-tp-hcm-dong-cua-4886841.html) - 07:14 16/05/2025
+- 🦆 [Phụ huynh lo lắng vì trung tâm Anh ngữ ở TP HCM đóng cửa](https://vnexpress.net/phu-huynh-lo-lang-vi-trung-tam-anh-ngu-o-tp-hcm-dong-cua-4886841.html) - 07:14 16/05/2025
 - 🦩 [Chuyên gia bàn 10 xu thế nghề nghiệp định hình kỷ 5.0](https://vnexpress.net/chuyen-gia-ban-10-xu-the-nghe-nghiep-dinh-hinh-ky-5-0-4886125.html) - 07:00 16/05/2025
 - 🌮 [Học sinh chuộng nghề ôtô, điện, công nghệ thông tin](https://vnexpress.net/hoc-sinh-chuong-nghe-oto-dien-cong-nghe-thong-tin-4886655.html) - 04:13 16/05/2025
 - 🔭 [Học viện Công nghệ Bưu chính Viễn thông xét học bạ kết hợp IELTS từ 5.5](https://vnexpress.net/hoc-vien-cong-nghe-buu-chinh-vien-thong-xet-hoc-ba-ket-hop-ielts-tu-5-5-4886533.html) - 02:02 16/05/2025
