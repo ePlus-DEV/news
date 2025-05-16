@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Người dân và cảnh sát truy bắt cướp](https://vnexpress.net/nguoi-dan-va-canh-sat-truy-bat-cuop-4886959.html) - 10:33 16/05/2025
 - 🥰 [Cựu tổng biên tập Đồng Xuân Thụ bị cáo buộc liên quan &#39;82 vụ cưỡng đoạt tài sản&#39;](https://vnexpress.net/cuu-tong-bien-tap-dong-xuan-thu-bi-cao-buoc-lien-quan-82-vu-cuong-doat-tai-san-4886943.html) - 10:25 16/05/2025
-- 🎓 [Ra giá một triệu USD chạy án trốn thuế](https://vnexpress.net/ra-gia-mot-trieu-usd-chay-an-tron-thue-4886945.html) - 10:08 16/05/2025
+- 🎓 [Lừa &#39;chạy án&#39; một triệu USD](https://vnexpress.net/lua-chay-an-mot-trieu-usd-4886945.html) - 10:08 16/05/2025
 - 🤓 [Trồng hơn 300 cây cần sa trong nhà](https://vnexpress.net/trong-hon-300-cay-can-sa-trong-nha-4886836.html) - 09:45 16/05/2025
 - 🎊 [Phóng hỏa nhà em gái vì bị đòi nợ](https://vnexpress.net/phong-hoa-nha-em-gai-vi-bi-doi-no-4886884.html) - 08:20 16/05/2025
 - 🙉 [Ông Lưu Bình Nhưỡng được giảm một năm tù](https://vnexpress.net/ong-luu-binh-nhuong-duoc-giam-mot-nam-tu-4886479.html) - 07:04 16/05/2025
