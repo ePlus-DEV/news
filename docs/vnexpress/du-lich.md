@@ -4,63 +4,63 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Venice đang &#39;chết&#39;](https://vnexpress.net/venice-dang-chet-4886684.html) - 04:45 16/05/2025
-- 🪄 [Du khách chiêm ngưỡng ôtô chở Bồ tát Thích Quảng Đức](https://vnexpress.net/du-khach-chiem-nguong-oto-cho-bo-tat-thich-quang-duc-4884882.html) - 03:34 16/05/2025
-- 🦅 [Lý do khách Trung Quốc đến Việt Nam tăng vượt bậc](https://vnexpress.net/ly-do-khach-trung-quoc-den-viet-nam-tang-vuot-bac-4886343.html) - 01:12 16/05/2025
-- 🕴 [Trung Quốc tiếp tục tạo cơn sốt du lịch hè với khách Việt](https://vnexpress.net/trung-quoc-tiep-tuc-tao-con-sot-du-lich-he-voi-khach-viet-4886274.html) - 00:00 16/05/2025
-- 👀 [Lịch trình tham quan Cúc Phương mùa bướm và đom đóm](https://vnexpress.net/lich-trinh-tham-quan-cuc-phuong-mua-buom-va-dom-dom-4885673.html) - 17:09 15/05/2025
-- 🎭 [9 món &#39;cơm nhà&#39; kiểu Thái khách du lịch ít biết](https://vnexpress.net/9-mon-com-nha-kieu-thai-khach-du-lich-it-biet-4884593.html) - 12:00 15/05/2025
-- 🦒 [Hạ Long đặt mục tiêu đón 11,5 triệu lượt du khách](https://vnexpress.net/ha-long-dat-muc-tieu-don-11-5-trieu-luot-du-khach-4886354.html) - 11:00 15/05/2025
-- 👨‍🏫 [Khu ổ chuột &#39;Venice của châu Phi&#39;](https://vnexpress.net/khu-o-chuot-venice-cua-chau-phi-4883886.html) - 07:57 15/05/2025
-- ⚗️ [Suối nước vàng, tạo bọt quanh năm trong rừng đặc dụng](https://vnexpress.net/suoi-nuoc-vang-tao-bot-quanh-nam-trong-rung-dac-dung-4886061.html) - 04:41 15/05/2025
-- 🥸 [4 điểm ngắm và chơi diều ở TP HCM dịp hè](https://vnexpress.net/4-diem-ngam-va-choi-dieu-o-tp-hcm-dip-he-4886028.html) - 03:08 15/05/2025
-- 🤠 [Mặt tối của cà phê chồn](https://vnexpress.net/mat-toi-cua-ca-phe-chon-4885923.html) - 02:06 15/05/2025
-- 🚀 [Khách Tây mê mẩn trải nghiệm sông ở Phong Nha - Kẻ Bàng](https://vnexpress.net/khach-tay-me-man-trai-nghiem-song-o-phong-nha-ke-bang-4885890.html) - 00:00 15/05/2025
-- 💻 [Cháo lòng vào top món cháo ngon nhất châu Á](https://vnexpress.net/chao-long-vao-top-mon-chao-ngon-nhat-chau-a-4885911.html) - 17:09 14/05/2025
-- 💼 [Video Bill Gates ăn sầu riêng gây chú ý](https://vnexpress.net/video-bill-gates-an-sau-rieng-gay-chu-y-4886063.html) - 14:16 14/05/2025
-- 🤡 [Chùa Tam Chúc miễn phí vé xe và suất ăn cho khách chiêm bái xá lợi Phật](https://vnexpress.net/chua-tam-chuc-mien-phi-ve-xe-va-suat-an-cho-khach-chiem-bai-xa-loi-phat-4886008.html) - 10:00 14/05/2025
-- 🐵 [Mỹ là nước duy nhất khiến ngành du lịch thất thu](https://vnexpress.net/my-la-nuoc-duy-nhat-khien-nganh-du-lich-that-thu-4885664.html) - 08:01 14/05/2025
-- 😺 [&#39;Show Jetski bắn pháo hoa tại Cát Bà sẽ thu hút quốc tế&#39;](https://vnexpress.net/show-jetski-ban-phao-hoa-tai-cat-ba-se-thu-hut-quoc-te-4885880.html) - 07:30 14/05/2025
-- 🌈 [Vườn Lộc Uyển - nơi Đức Phật thuyết pháp lần đầu](https://vnexpress.net/vuon-loc-uyen-noi-duc-phat-thuyet-phap-lan-dau-4885425.html) - 06:00 14/05/2025
-- ⚗️ [Du lịch Thái Lan lao dốc](https://vnexpress.net/du-lich-thai-lan-lao-doc-4885665.html) - 04:45 14/05/2025
-- 👀 [Nhà hàng phở gây tranh cãi ở Thượng Hải được chấm quán Việt ngon nhất](https://vnexpress.net/nha-hang-pho-gay-tranh-cai-o-thuong-hai-duoc-cham-quan-viet-ngon-nhat-4885571.html) - 03:53 14/05/2025
-- 👍 [Vịnh Bái Tử Long - lựa chọn mới cho du lịch kết hợp chạy bộ](https://vnexpress.net/vinh-bai-tu-long-lua-chon-moi-cho-du-lich-ket-hop-chay-bo-4885488.html) - 03:30 14/05/2025
-- 💄 [Bánh mì Việt khiến người Australia mê mẩn](https://vnexpress.net/banh-mi-viet-khien-nguoi-australia-me-man-4885500.html) - 02:32 14/05/2025
-- 🥷 [Cây phượng &#39;cô đơn&#39; nở rộ giữa cánh đồng ven TP HCM](https://vnexpress.net/cay-phuong-co-don-no-ro-giua-canh-dong-ven-tp-hcm-4884839.html) - 00:00 14/05/2025
-- 📝 [5 quán chay gần chùa Quán Sứ cho Phật tử chiêm bái xá lợi](https://vnexpress.net/5-quan-chay-gan-chua-quan-su-cho-phat-tu-chiem-bai-xa-loi-4885152.html) - 17:09 13/05/2025
-- 🌜 [Nơi cả làng cùng sống trên một con đường](https://vnexpress.net/noi-ca-lang-cung-song-tren-mot-con-duong-4885391.html) - 12:00 13/05/2025
-- 📝 [Món bánh mì gây sốt vì tên gọi &#39;bạn trai cũ&#39;](https://vnexpress.net/mon-banh-mi-gay-sot-vi-ten-goi-ban-trai-cu-4885356.html) - 07:46 13/05/2025
-- 🧰 [Biển hoa rực rỡ dưới chân núi Phú Sĩ](https://vnexpress.net/bien-hoa-ruc-ro-duoi-chan-nui-phu-si-4885259.html) - 04:45 13/05/2025
-- 🎬 [Thái Lan truy quét loạt công ty lữ hành và hướng dẫn viên &#39;chui&#39;](https://vnexpress.net/thai-lan-truy-quet-loat-cong-ty-lu-hanh-va-huong-dan-vien-chui-4885217.html) - 03:46 13/05/2025
-- 🧐 [Bánh mì 12.000 đồng ở phố cổ Hà Nội](https://vnexpress.net/banh-mi-12-000-dong-o-pho-co-ha-noi-4883293.html) - 02:35 13/05/2025
-- 👨‍🏫 [Công viên nước chủ đề múa rối nước tại Hà Nam có gì?](https://vnexpress.net/cong-vien-nuoc-chu-de-mua-roi-nuoc-tai-ha-nam-co-gi-4884831.html) - 02:30 13/05/2025
-- 🦣 [Bồ Đề Đạo Tràng - nơi đạo Phật bắt đầu](https://vnexpress.net/bo-de-dao-trang-noi-dao-phat-bat-dau-4884796.html) - 00:00 13/05/2025
-- 🌋 [4 kiểu du lịch thịnh hành trong giới nhà giàu](https://vnexpress.net/4-kieu-du-lich-thinh-hanh-trong-gioi-nha-giau-4884684.html) - 17:09 12/05/2025
-- 🦄 [Cách chọn chỗ ngồi thể hiện cá tính của du khách](https://vnexpress.net/cach-chon-cho-ngoi-the-hien-ca-tinh-cua-du-khach-4884579.html) - 12:00 12/05/2025
-- 💡 [Vì sao Hạ Long là điểm đến lý tưởng cho lần đầu chạy giải](https://vnexpress.net/vi-sao-ha-long-la-diem-den-ly-tuong-cho-lan-dau-chay-giai-4884799.html) - 09:30 12/05/2025
-- 🌏 [Khu du lịch cho khách ngủ trên vách núi](https://vnexpress.net/khu-du-lich-cho-khach-ngu-tren-vach-nui-4884734.html) - 08:34 12/05/2025
-- 💂 [Phim có Lisa không tạo sức bật cho du lịch Thái Lan như kỳ vọng](https://vnexpress.net/phim-co-lisa-khong-tao-suc-bat-cho-du-lich-thai-lan-nhu-ky-vong-4884645.html) - 07:32 12/05/2025
-- 🤩 [Bên trong &#39;khách sạn của Giáo hoàng&#39;](https://vnexpress.net/ben-trong-khach-san-cua-giao-hoang-4884616.html) - 05:25 12/05/2025
-- 💪 [Du lịch Quảng Ngãi muốn đuổi kịp Đà Nẵng sau sáp nhập](https://vnexpress.net/du-lich-quang-ngai-muon-duoi-kip-da-nang-sau-sap-nhap-4884603.html) - 04:26 12/05/2025
-- 💻 [8 món mắm nổi tiếng ba miền](https://vnexpress.net/8-mon-mam-noi-tieng-ba-mien-4884519.html) - 03:10 12/05/2025
-- 🧑‍💻 [Mùa dâu da trên núi Cấm](https://vnexpress.net/mua-dau-da-tren-nui-cam-4882774.html) - 00:00 12/05/2025
-- 🎭 [6 mẹo để ăn ngon ở Nhật Bản](https://vnexpress.net/6-meo-de-an-ngon-o-nhat-ban-4884000.html) - 17:09 11/05/2025
-- 🧐 [Tiệm cà phê trăm tuổi đóng cửa vì &#39;không đu nổi trend&#39;](https://vnexpress.net/tiem-ca-phe-tram-tuoi-dong-cua-vi-khong-du-noi-trend-4884378.html) - 12:00 11/05/2025
-- 💡 [Vinpearl ký hợp tác với 4 hãng lữ hành Nga](https://vnexpress.net/vinpearl-ky-hop-tac-voi-4-hang-lu-hanh-nga-4884420.html) - 09:40 11/05/2025
-- 🌊 [Khách dự tiệc sinh nhật và chia tay hổ nghỉ hưu ở Thảo Cầm Viên Sài Gòn](https://vnexpress.net/khach-du-tiec-sinh-nhat-va-chia-tay-ho-nghi-huu-o-thao-cam-vien-sai-gon-4884371.html) - 06:27 11/05/2025
-- 🎃 [Hai người cùng mất bạn đời thành đôi bạn đi chu du thế giới](https://vnexpress.net/hai-nguoi-cung-mat-ban-doi-thanh-doi-ban-di-chu-du-the-gioi-4884139.html) - 06:00 11/05/2025
-- 🧠 [5 quán chay cho mùa Phật đản tại TP HCM](https://vnexpress.net/5-quan-chay-cho-mua-phat-dan-tai-tp-hcm-4883606.html) - 04:00 11/05/2025
-- 💄 [Nha Trang có bến du thuyền chuẩn quốc tế đầu tiên tại Việt Nam](https://vnexpress.net/nha-trang-co-ben-du-thuyen-chuan-quoc-te-dau-tien-tai-viet-nam-4884241.html) - 02:08 11/05/2025
-- 🎬 [Tân Giáo hoàng đến đâu đầu tiên sau nhậm chức?](https://vnexpress.net/tan-giao-hoang-den-dau-dau-tien-sau-nham-chuc-4884070.html) - 01:00 11/05/2025
-- 🐻 [Thăm vườn gốm thủ công bên sông Sài Gòn](https://vnexpress.net/tham-vuon-gom-thu-cong-ben-song-sai-gon-4883356.html) - 17:09 10/05/2025
-- 🌝 [Khách Việt vỡ òa khi chứng kiến tân Giáo hoàng ra mắt](https://vnexpress.net/khach-viet-vo-oa-khi-chung-kien-tan-giao-hoang-ra-mat-4884119.html) - 10:56 10/05/2025
-- 🤩 [Bánh cà rốt nhưng không có cà rốt ở Singapore](https://vnexpress.net/banh-ca-rot-nhung-khong-co-ca-rot-o-singapore-4883708.html) - 06:00 10/05/2025
-- 🎬 [Ga Hải Phòng thành điểm du lịch](https://vnexpress.net/ga-hai-phong-thanh-diem-du-lich-4884043.html) - 03:36 10/05/2025
-- 🦩 [Khám phá du thuyền đầu tiên khởi hành từ cảng Phú Mỹ](https://vnexpress.net/kham-pha-du-thuyen-dau-tien-khoi-hanh-tu-cang-phu-my-4883398.html) - 02:01 10/05/2025
-- 🦍 [Khách Việt choáng ngợp khi thăm cây bồ đề nơi Phật đắc đạo](https://vnexpress.net/khach-viet-choang-ngop-khi-tham-cay-bo-de-noi-phat-dac-dao-4883322.html) - 00:00 10/05/2025
-- 👀 [Cửa hàng Nhật Bản cung cấp dịch vụ &#39;tắm tiện lợi&#39;](https://vnexpress.net/cua-hang-nhat-ban-cung-cap-dich-vu-tam-tien-loi-4883846.html) - 17:09 09/05/2025
-- 🧰 [Nhật Bản bị khách chê vì nhập cảnh tại sân bay quá lâu](https://vnexpress.net/nhat-ban-bi-khach-che-vi-nhap-canh-tai-san-bay-qua-lau-4883742.html) - 12:00 09/05/2025
-- 🕯 [Khách đến Đà Nẵng chịu chi nhất dịp 30/4](https://vnexpress.net/khach-den-da-nang-chiu-chi-nhat-dip-30-4-4883569.html) - 06:49 09/05/2025
-- 👍 [Khách Tây dắt gà cưng đi khắp Hà Giang](https://vnexpress.net/khach-tay-dat-ga-cung-di-khap-ha-giang-4883581.html) - 05:11 09/05/2025
-- 😎 [48 giờ sống chậm ở đảo Cái Chiên](https://vnexpress.net/48-gio-song-cham-o-dao-cai-chien-4882815.html) - 02:39 09/05/2025
-- 🐘 [Lý do Thanh Hóa dẫn đầu lượng khách và doanh thu mỗi kỳ nghỉ](https://vnexpress.net/ly-do-thanh-hoa-dan-dau-luong-khach-va-doanh-thu-moi-ky-nghi-4883125.html) - 00:00 09/05/2025<!-- vnexpress-du-lich:END -->
+- 💂 [48 giờ khám phá đảo Lý Sơn](https://vnexpress.net/48-gio-kham-pha-dao-ly-son-4886665.html) - 07:22 16/05/2025
+- 🪄 [Venice đang &#39;chết&#39;](https://vnexpress.net/venice-dang-chet-4886684.html) - 04:45 16/05/2025
+- 🦅 [Du khách chiêm ngưỡng ôtô chở Bồ tát Thích Quảng Đức](https://vnexpress.net/du-khach-chiem-nguong-oto-cho-bo-tat-thich-quang-duc-4884882.html) - 03:34 16/05/2025
+- 🕴 [Lý do khách Trung Quốc đến Việt Nam tăng vượt bậc](https://vnexpress.net/ly-do-khach-trung-quoc-den-viet-nam-tang-vuot-bac-4886343.html) - 01:12 16/05/2025
+- 👀 [Trung Quốc tiếp tục tạo cơn sốt du lịch hè với khách Việt](https://vnexpress.net/trung-quoc-tiep-tuc-tao-con-sot-du-lich-he-voi-khach-viet-4886274.html) - 00:00 16/05/2025
+- 🎭 [Lịch trình tham quan Cúc Phương mùa bướm và đom đóm](https://vnexpress.net/lich-trinh-tham-quan-cuc-phuong-mua-buom-va-dom-dom-4885673.html) - 17:09 15/05/2025
+- 🦒 [9 món &#39;cơm nhà&#39; kiểu Thái khách du lịch ít biết](https://vnexpress.net/9-mon-com-nha-kieu-thai-khach-du-lich-it-biet-4884593.html) - 12:00 15/05/2025
+- 👨‍🏫 [Hạ Long đặt mục tiêu đón 11,5 triệu lượt du khách](https://vnexpress.net/ha-long-dat-muc-tieu-don-11-5-trieu-luot-du-khach-4886354.html) - 11:00 15/05/2025
+- ⚗️ [Khu ổ chuột &#39;Venice của châu Phi&#39;](https://vnexpress.net/khu-o-chuot-venice-cua-chau-phi-4883886.html) - 07:57 15/05/2025
+- 🥸 [Suối nước vàng, tạo bọt quanh năm trong rừng đặc dụng](https://vnexpress.net/suoi-nuoc-vang-tao-bot-quanh-nam-trong-rung-dac-dung-4886061.html) - 04:41 15/05/2025
+- 🤠 [4 điểm ngắm và chơi diều ở TP HCM dịp hè](https://vnexpress.net/4-diem-ngam-va-choi-dieu-o-tp-hcm-dip-he-4886028.html) - 03:08 15/05/2025
+- 🚀 [Mặt tối của cà phê chồn](https://vnexpress.net/mat-toi-cua-ca-phe-chon-4885923.html) - 02:06 15/05/2025
+- 💻 [Khách Tây mê mẩn trải nghiệm sông ở Phong Nha - Kẻ Bàng](https://vnexpress.net/khach-tay-me-man-trai-nghiem-song-o-phong-nha-ke-bang-4885890.html) - 00:00 15/05/2025
+- 💼 [Cháo lòng vào top món cháo ngon nhất châu Á](https://vnexpress.net/chao-long-vao-top-mon-chao-ngon-nhat-chau-a-4885911.html) - 17:09 14/05/2025
+- 🤡 [Video Bill Gates ăn sầu riêng gây chú ý](https://vnexpress.net/video-bill-gates-an-sau-rieng-gay-chu-y-4886063.html) - 14:16 14/05/2025
+- 🐵 [Chùa Tam Chúc miễn phí vé xe và suất ăn cho khách chiêm bái xá lợi Phật](https://vnexpress.net/chua-tam-chuc-mien-phi-ve-xe-va-suat-an-cho-khach-chiem-bai-xa-loi-phat-4886008.html) - 10:00 14/05/2025
+- 😺 [Mỹ là nước duy nhất khiến ngành du lịch thất thu](https://vnexpress.net/my-la-nuoc-duy-nhat-khien-nganh-du-lich-that-thu-4885664.html) - 08:01 14/05/2025
+- 🌈 [&#39;Show Jetski bắn pháo hoa tại Cát Bà sẽ thu hút quốc tế&#39;](https://vnexpress.net/show-jetski-ban-phao-hoa-tai-cat-ba-se-thu-hut-quoc-te-4885880.html) - 07:30 14/05/2025
+- ⚗️ [Vườn Lộc Uyển - nơi Đức Phật thuyết pháp lần đầu](https://vnexpress.net/vuon-loc-uyen-noi-duc-phat-thuyet-phap-lan-dau-4885425.html) - 06:00 14/05/2025
+- 👀 [Du lịch Thái Lan lao dốc](https://vnexpress.net/du-lich-thai-lan-lao-doc-4885665.html) - 04:45 14/05/2025
+- 👍 [Nhà hàng phở gây tranh cãi ở Thượng Hải được chấm quán Việt ngon nhất](https://vnexpress.net/nha-hang-pho-gay-tranh-cai-o-thuong-hai-duoc-cham-quan-viet-ngon-nhat-4885571.html) - 03:53 14/05/2025
+- 💄 [Vịnh Bái Tử Long - lựa chọn mới cho du lịch kết hợp chạy bộ](https://vnexpress.net/vinh-bai-tu-long-lua-chon-moi-cho-du-lich-ket-hop-chay-bo-4885488.html) - 03:30 14/05/2025
+- 🥷 [Bánh mì Việt khiến người Australia mê mẩn](https://vnexpress.net/banh-mi-viet-khien-nguoi-australia-me-man-4885500.html) - 02:32 14/05/2025
+- 📝 [Cây phượng &#39;cô đơn&#39; nở rộ giữa cánh đồng ven TP HCM](https://vnexpress.net/cay-phuong-co-don-no-ro-giua-canh-dong-ven-tp-hcm-4884839.html) - 00:00 14/05/2025
+- 🌜 [5 quán chay gần chùa Quán Sứ cho Phật tử chiêm bái xá lợi](https://vnexpress.net/5-quan-chay-gan-chua-quan-su-cho-phat-tu-chiem-bai-xa-loi-4885152.html) - 17:09 13/05/2025
+- 📝 [Nơi cả làng cùng sống trên một con đường](https://vnexpress.net/noi-ca-lang-cung-song-tren-mot-con-duong-4885391.html) - 12:00 13/05/2025
+- 🧰 [Món bánh mì gây sốt vì tên gọi &#39;bạn trai cũ&#39;](https://vnexpress.net/mon-banh-mi-gay-sot-vi-ten-goi-ban-trai-cu-4885356.html) - 07:46 13/05/2025
+- 🎬 [Biển hoa rực rỡ dưới chân núi Phú Sĩ](https://vnexpress.net/bien-hoa-ruc-ro-duoi-chan-nui-phu-si-4885259.html) - 04:45 13/05/2025
+- 🧐 [Thái Lan truy quét loạt công ty lữ hành và hướng dẫn viên &#39;chui&#39;](https://vnexpress.net/thai-lan-truy-quet-loat-cong-ty-lu-hanh-va-huong-dan-vien-chui-4885217.html) - 03:46 13/05/2025
+- 👨‍🏫 [Bánh mì 12.000 đồng ở phố cổ Hà Nội](https://vnexpress.net/banh-mi-12-000-dong-o-pho-co-ha-noi-4883293.html) - 02:35 13/05/2025
+- 🦣 [Công viên nước chủ đề múa rối nước tại Hà Nam có gì?](https://vnexpress.net/cong-vien-nuoc-chu-de-mua-roi-nuoc-tai-ha-nam-co-gi-4884831.html) - 02:30 13/05/2025
+- 🌋 [Bồ Đề Đạo Tràng - nơi đạo Phật bắt đầu](https://vnexpress.net/bo-de-dao-trang-noi-dao-phat-bat-dau-4884796.html) - 00:00 13/05/2025
+- 🦄 [4 kiểu du lịch thịnh hành trong giới nhà giàu](https://vnexpress.net/4-kieu-du-lich-thinh-hanh-trong-gioi-nha-giau-4884684.html) - 17:09 12/05/2025
+- 💡 [Cách chọn chỗ ngồi thể hiện cá tính của du khách](https://vnexpress.net/cach-chon-cho-ngoi-the-hien-ca-tinh-cua-du-khach-4884579.html) - 12:00 12/05/2025
+- 🌏 [Vì sao Hạ Long là điểm đến lý tưởng cho lần đầu chạy giải](https://vnexpress.net/vi-sao-ha-long-la-diem-den-ly-tuong-cho-lan-dau-chay-giai-4884799.html) - 09:30 12/05/2025
+- 💂 [Khu du lịch cho khách ngủ trên vách núi](https://vnexpress.net/khu-du-lich-cho-khach-ngu-tren-vach-nui-4884734.html) - 08:34 12/05/2025
+- 🤩 [Phim có Lisa không tạo sức bật cho du lịch Thái Lan như kỳ vọng](https://vnexpress.net/phim-co-lisa-khong-tao-suc-bat-cho-du-lich-thai-lan-nhu-ky-vong-4884645.html) - 07:32 12/05/2025
+- 💪 [Bên trong &#39;khách sạn của Giáo hoàng&#39;](https://vnexpress.net/ben-trong-khach-san-cua-giao-hoang-4884616.html) - 05:25 12/05/2025
+- 💻 [Du lịch Quảng Ngãi muốn đuổi kịp Đà Nẵng sau sáp nhập](https://vnexpress.net/du-lich-quang-ngai-muon-duoi-kip-da-nang-sau-sap-nhap-4884603.html) - 04:26 12/05/2025
+- 🧑‍💻 [8 món mắm nổi tiếng ba miền](https://vnexpress.net/8-mon-mam-noi-tieng-ba-mien-4884519.html) - 03:10 12/05/2025
+- 🎭 [Mùa dâu da trên núi Cấm](https://vnexpress.net/mua-dau-da-tren-nui-cam-4882774.html) - 00:00 12/05/2025
+- 🧐 [6 mẹo để ăn ngon ở Nhật Bản](https://vnexpress.net/6-meo-de-an-ngon-o-nhat-ban-4884000.html) - 17:09 11/05/2025
+- 💡 [Tiệm cà phê trăm tuổi đóng cửa vì &#39;không đu nổi trend&#39;](https://vnexpress.net/tiem-ca-phe-tram-tuoi-dong-cua-vi-khong-du-noi-trend-4884378.html) - 12:00 11/05/2025
+- 🌊 [Vinpearl ký hợp tác với 4 hãng lữ hành Nga](https://vnexpress.net/vinpearl-ky-hop-tac-voi-4-hang-lu-hanh-nga-4884420.html) - 09:40 11/05/2025
+- 🎃 [Khách dự tiệc sinh nhật và chia tay hổ nghỉ hưu ở Thảo Cầm Viên Sài Gòn](https://vnexpress.net/khach-du-tiec-sinh-nhat-va-chia-tay-ho-nghi-huu-o-thao-cam-vien-sai-gon-4884371.html) - 06:27 11/05/2025
+- 🧠 [Hai người cùng mất bạn đời thành đôi bạn đi chu du thế giới](https://vnexpress.net/hai-nguoi-cung-mat-ban-doi-thanh-doi-ban-di-chu-du-the-gioi-4884139.html) - 06:00 11/05/2025
+- 💄 [5 quán chay cho mùa Phật đản tại TP HCM](https://vnexpress.net/5-quan-chay-cho-mua-phat-dan-tai-tp-hcm-4883606.html) - 04:00 11/05/2025
+- 🎬 [Nha Trang có bến du thuyền chuẩn quốc tế đầu tiên tại Việt Nam](https://vnexpress.net/nha-trang-co-ben-du-thuyen-chuan-quoc-te-dau-tien-tai-viet-nam-4884241.html) - 02:08 11/05/2025
+- 🐻 [Tân Giáo hoàng đến đâu đầu tiên sau nhậm chức?](https://vnexpress.net/tan-giao-hoang-den-dau-dau-tien-sau-nham-chuc-4884070.html) - 01:00 11/05/2025
+- 🌝 [Thăm vườn gốm thủ công bên sông Sài Gòn](https://vnexpress.net/tham-vuon-gom-thu-cong-ben-song-sai-gon-4883356.html) - 17:09 10/05/2025
+- 🤩 [Khách Việt vỡ òa khi chứng kiến tân Giáo hoàng ra mắt](https://vnexpress.net/khach-viet-vo-oa-khi-chung-kien-tan-giao-hoang-ra-mat-4884119.html) - 10:56 10/05/2025
+- 🎬 [Bánh cà rốt nhưng không có cà rốt ở Singapore](https://vnexpress.net/banh-ca-rot-nhung-khong-co-ca-rot-o-singapore-4883708.html) - 06:00 10/05/2025
+- 🦩 [Ga Hải Phòng thành điểm du lịch](https://vnexpress.net/ga-hai-phong-thanh-diem-du-lich-4884043.html) - 03:36 10/05/2025
+- 🦍 [Khám phá du thuyền đầu tiên khởi hành từ cảng Phú Mỹ](https://vnexpress.net/kham-pha-du-thuyen-dau-tien-khoi-hanh-tu-cang-phu-my-4883398.html) - 02:01 10/05/2025
+- 👀 [Khách Việt choáng ngợp khi thăm cây bồ đề nơi Phật đắc đạo](https://vnexpress.net/khach-viet-choang-ngop-khi-tham-cay-bo-de-noi-phat-dac-dao-4883322.html) - 00:00 10/05/2025
+- 🧰 [Cửa hàng Nhật Bản cung cấp dịch vụ &#39;tắm tiện lợi&#39;](https://vnexpress.net/cua-hang-nhat-ban-cung-cap-dich-vu-tam-tien-loi-4883846.html) - 17:09 09/05/2025
+- 🕯 [Nhật Bản bị khách chê vì nhập cảnh tại sân bay quá lâu](https://vnexpress.net/nhat-ban-bi-khach-che-vi-nhap-canh-tai-san-bay-qua-lau-4883742.html) - 12:00 09/05/2025
+- 👍 [Khách đến Đà Nẵng chịu chi nhất dịp 30/4](https://vnexpress.net/khach-den-da-nang-chiu-chi-nhat-dip-30-4-4883569.html) - 06:49 09/05/2025
+- 😎 [Khách Tây dắt gà cưng đi khắp Hà Giang](https://vnexpress.net/khach-tay-dat-ga-cung-di-khap-ha-giang-4883581.html) - 05:11 09/05/2025
+- 🐘 [48 giờ sống chậm ở đảo Cái Chiên](https://vnexpress.net/48-gio-song-cham-o-dao-cai-chien-4882815.html) - 02:39 09/05/2025<!-- vnexpress-du-lich:END -->
