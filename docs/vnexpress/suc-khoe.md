@@ -4,8 +4,8 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Thu hồi kem chống nắng chỉ số SPF 2,4 nhưng nhãn ghi 50](https://vnexpress.net/thu-hoi-kem-chong-nang-chi-so-spf-2-4-nhung-nhan-ghi-50-4887051.html) - 22:24 16/05/2025
-- 🥰 [Miễn viện phí hơn 100 triệu dân sẽ triển khai như thế nào](https://vnexpress.net/mien-vien-phi-hon-100-trieu-dan-se-trien-khai-nhu-the-nao-4885930.html) - 22:00 16/05/2025
+- 🔥 [Tưởng thiếu máu hóa ung thư](https://vnexpress.net/tuong-thieu-mau-hoa-ung-thu-4886519.html) - 23:00 16/05/2025
+- 🥰 [Thu hồi kem chống nắng chỉ số SPF 2,4 nhưng nhãn ghi 50](https://vnexpress.net/thu-hoi-kem-chong-nang-chi-so-spf-2-4-nhung-nhan-ghi-50-4887051.html) - 22:24 16/05/2025
 - 💡 [Xem phim sex có gây rối loạn sinh lý?](https://vnexpress.net/xem-phim-sex-co-gay-roi-loan-sinh-ly-4883286.html) - 19:00 16/05/2025
 - 🤗 [Viêm gan C có lây truyền qua đường tình dục?](https://vnexpress.net/viem-gan-c-co-lay-truyen-qua-duong-tinh-duc-4886262.html) - 18:02 16/05/2025
 - 🪜 [Sổ khám bệnh giấy &#39;hết thời&#39;](https://vnexpress.net/so-kham-benh-giay-het-thoi-4885270.html) - 17:02 16/05/2025
