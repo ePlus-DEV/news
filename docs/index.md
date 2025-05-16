@@ -252,7 +252,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Khởi tố nhiều người xài chứng chỉ hành nghề y giả](https://nld.com.vn/khoi-to-nhieu-nguoi-xai-chung-chi-hanh-nghe-y-gia-196250516225520233.htm) - 16:08 16/05/2025
-- 😺 [Kết quả đầu tiên của đám phán Nga - Ukraine tại Thổ Nhĩ Kỳ](https://nld.com.vn/ket-qua-dau-tien-cua-dam-phan-nga-ukraine-tai-tho-nhi-ky-196250516221115827.htm) - 15:53 16/05/2025
+- 😺 [Kết quả đầu tiên của đàm phán Nga - Ukraine tại Thổ Nhĩ Kỳ](https://nld.com.vn/ket-qua-dau-tien-cua-dam-phan-nga-ukraine-tai-tho-nhi-ky-196250516221115827.htm) - 15:53 16/05/2025
 - 👍 [Tập đoàn CJ  mở rộng vùng nguyên liệu ớt tại Ninh Thuận](https://phunu.nld.com.vn/tap-doan-cj-mo-rong-vung-nguyen-lieu-ot-tai-ninh-thuan-196250516163057734.htm) - 15:53 16/05/2025
 - 🥷 [Rock Bay Echo Retreat: Không gian &quot;sống chậm&quot; lý tưởng](https://phunu.nld.com.vn/rock-bay-echo-retreat-khong-gian-song-cham-ly-tuong-196250516102559164.htm) - 15:52 16/05/2025
 - 🤔 [Thủ tướng Thái Lan kết thúc chuyến thăm Việt Nam](https://nld.com.vn/thu-tuong-thai-lan-ket-thuc-chuyen-tham-viet-nam-196250516221637009.htm) - 15:18 16/05/2025
