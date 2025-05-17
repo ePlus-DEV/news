@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Thái Lan tuột chức vô địch futsal nữ châu Á 2025](https://vnexpress.net/thai-lan-tuot-chuc-vo-dich-futsal-nu-chau-a-2025-4887315.html) - 16:17 17/05/2025
-- 🦩 [Man City 0-1 Crystal Palace &lpar;Hết H1&rpar;: Bất ngờ tại Wembley](https://vnexpress.net/truc-tiep-chung-ket-cup-fa-4887291.html) - 15:15 17/05/2025
+- 🦩 [Man City 0-1 Crystal Palace &lpar;H2&rpar;: Guardiola chưa thay đổi](https://vnexpress.net/truc-tiep-chung-ket-cup-fa-4887291.html) - 15:15 17/05/2025
 - 🧰 [HLV Văn Sỹ Sơn xin thôi dẫn dắt Quảng Nam](https://vnexpress.net/hlv-van-sy-son-xin-thoi-dan-dat-quang-nam-4887301.html) - 15:08 17/05/2025
 - 🤗 [Đội bóng của Công Phượng sáng cửa đá play-off lên V-League](https://vnexpress.net/doi-bong-cua-cong-phuong-sang-cua-da-play-off-len-v-league-4887300.html) - 15:02 17/05/2025
 - 🥳 [Đà Nẵng bị thẻ đỏ nhanh nhất V-League](https://vnexpress.net/da-nang-bi-the-do-nhanh-nhat-v-league-4887286.html) - 13:43 17/05/2025
