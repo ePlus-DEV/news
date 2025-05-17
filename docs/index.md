@@ -270,7 +270,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💄 [Tràn ngập khuyến mãi tại chương trình &quot;Tôn vinh cà phê, trà Việt&quot;](https://nld.com.vn/tran-ngap-khuyen-mai-tai-chuong-trinh-ton-vinh-ca-phe-tra-viet-196250517154625195.htm) - 14:06 17/05/2025
 - 🎊 [Huyền Chi: Gắn kết cộng đồng, lan tỏa yêu thương](https://phunu.nld.com.vn/huyen-chi-gan-ket-cong-dong-lan-toa-yeu-thuong-196250517201114435.htm) - 13:38 17/05/2025
 - 🎡 [Trao giải cuộc thi Thiết kế vi mạch cho đô thị thông minh](https://nld.com.vn/trao-giai-cuoc-thi-thiet-ke-vi-mach-cho-do-thi-thong-minh-196250517174534362.htm) - 13:32 17/05/2025
-- 🎉 [Điện Kremlin: Hai nhà lãnh đạo Nga và Ukraina có thể gặp nhau](https://nld.com.vn/dien-kremlin-hai-nha-lanh-dao-nga-va-ukraina-co-the-gap-nhau-196250517194331945.htm) - 13:23 17/05/2025
+- 🎉 [Điện Kremlin: Hai nhà lãnh đạo Nga và Ukraine có thể gặp nhau](https://nld.com.vn/dien-kremlin-hai-nha-lanh-dao-nga-va-ukraina-co-the-gap-nhau-196250517194331945.htm) - 13:23 17/05/2025
 - 😺 [Tổng Bí thư Tô Lâm chỉ rõ những bất cập 
 của Luật Đấu thầu làm chậm sự phát triển](https://nld.com.vn/tong-bi-thu-to-lam-chi-ro-nhung-bat-cap-cua-luat-dau-thau-lam-cham-su-phat-trien-196250517182934896.htm) - 13:21 17/05/2025
 - 🐻 [TP HCM mang nghĩa tình đến với Trường Sa và nhà giàn DK1](https://nld.com.vn/tp-hcm-mang-nghia-tinh-den-voi-truong-sa-va-nha-gian-dk1-196250511084301438.htm) - 13:18 17/05/2025
