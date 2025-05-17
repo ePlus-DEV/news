@@ -5,7 +5,7 @@ sidebar_position: 8
 
 <!-- dantri-phap-luat:START -->
 - 🌊 [Công ty Sơn Lâm &quot;tuồn&quot; thuốc vào những bệnh viện nào?](https://dantri.com.vn/phap-luat/cong-ty-son-lam-tuon-thuoc-vao-nhung-benh-vien-nao-20250517134328161.htm) - 06:54 17/05/2025
-- 🐲 [Hết tình, người yêu cũ đòi &quot;hot boy&quot; Tống Đông Khuê trả gần 44 tỷ đồng](https://dantri.com.vn/phap-luat/het-tinh-nguoi-yeu-cu-doi-hot-boy-tong-dong-khue-tra-gan-44-ty-dong-20250517111215457.htm) - 05:25 17/05/2025
+- 🐲 [Người yêu cũ đòi &quot;hot boy&quot; Tống Đông Khuê trả gần 44 tỷ đồng](https://dantri.com.vn/phap-luat/nguoi-yeu-cu-doi-hot-boy-tong-dong-khue-tra-gan-44-ty-dong-20250517111215457.htm) - 05:25 17/05/2025
 - 🌁 [Vụ khởi tố 4 bác sĩ, 1 công an: Đề nghị bệnh viện cung cấp hồ sơ](https://dantri.com.vn/phap-luat/vu-khoi-to-4-bac-si-1-cong-an-de-nghi-benh-vien-cung-cap-ho-so-20250517114910905.htm) - 05:10 17/05/2025
 - 🎃 [Chi 71 tỷ đồng &quot;bôi trơn&quot; để tuồn thuốc vào nhiều viện y học cổ truyền](https://dantri.com.vn/phap-luat/chi-71-ty-dong-boi-tron-de-tuon-thuoc-vao-nhieu-vien-y-hoc-co-truyen-20250517114648981.htm) - 05:09 17/05/2025
 - 🦅 [Khởi tố 4 bác sĩ, 1 công an vụ chi hàng trăm triệu &quot;chạy&quot; chứng chỉ nghề y](https://dantri.com.vn/phap-luat/khoi-to-4-bac-si-1-cong-an-vu-chi-hang-tram-trieu-chay-chung-chi-nghe-y-20250517090401740.htm) - 03:14 17/05/2025
