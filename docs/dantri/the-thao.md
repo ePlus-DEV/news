@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Đánh bại Man City, Crystal Palace vô địch FA Cup](https://dantri.com.vn/the-thao/danh-bai-man-city-crystal-palace-vo-dich-fa-cup-20250518003417665.htm) - 17:34 17/05/2025
+- 🎡 [Đánh bại Man City, Crystal Palace lần đầu vô địch FA Cup](https://dantri.com.vn/the-thao/danh-bai-man-city-crystal-palace-lan-dau-vo-dich-fa-cup-20250518003417665.htm) - 17:34 17/05/2025
 - 💯 [Thắng kịch tính Thái Lan, tuyển futsal nữ Nhật Bản lần đầu vô địch châu Á](https://dantri.com.vn/the-thao/thang-kich-tinh-thai-lan-tuyen-futsal-nu-nhat-ban-lan-dau-vo-dich-chau-a-20250517220111413.htm) - 15:03 17/05/2025
 - ⛽️ [CLB Quảng Nam thua SHB Đà Nẵng, HLV Văn Sỹ Sơn xin từ chức](https://dantri.com.vn/the-thao/clb-quang-nam-thua-shb-da-nang-hlv-van-sy-son-xin-tu-chuc-20250517221000946.htm) - 15:00 17/05/2025
 - 💃 [SHB Đà Nẵng thắng CLB Quảng Nam dù thiếu người, SL Nghệ An đánh bại Hà Tĩnh](https://dantri.com.vn/the-thao/shb-da-nang-thang-clb-quang-nam-du-thieu-nguoi-sl-nghe-an-danh-bai-ha-tinh-20250517210714265.htm) - 14:19 17/05/2025
