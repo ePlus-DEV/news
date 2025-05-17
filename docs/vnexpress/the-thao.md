@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [Alcaraz đấu Sinner ở chung kết Rome Masters](https://vnexpress.net/alcaraz-dau-sinner-o-chung-ket-rome-masters-4887136.html) - 02:52 17/05/2025
 - 🧰 [4 điểm nóng ở chung kết Cup FA](https://vnexpress.net/4-diem-nong-o-chung-ket-cup-fa-4887055.html) - 02:00 17/05/2025
 - 🤗 [Trụ cột Barca ngã nhào trên xe bus diễu hành mừng 3 danh hiệu](https://vnexpress.net/tru-cot-barca-nga-nhao-tren-xe-bus-dieu-hanh-mung-3-danh-hieu-4887097.html) - 01:18 17/05/2025
-- 🥳 [Tranh cãi tình huống Maguire mất bàn vì lỗi việt vị](https://vnexpress.net/tranh-cai-tinh-huong-maguire-mat-ban-vi-loi-viet-vi-4887067.html) - 01:09 17/05/2025
+- 🥳 [Tranh cãi tình huống Maguire mất bàn thắng vì lỗi việt vị](https://vnexpress.net/tranh-cai-tinh-huong-maguire-mat-ban-thang-vi-loi-viet-vi-4887067.html) - 01:09 17/05/2025
 - 🦣 [Guardiola chỉ trích lịch thi đấu của Ngoại hạng Anh](https://vnexpress.net/guardiola-chi-trich-lich-thi-dau-cua-ngoai-hang-anh-4887069.html) - 01:02 17/05/2025
 - 🌜 [Aston Villa đẩy Man City khỏi top 5 Ngoại hạng Anh](https://vnexpress.net/aston-villa-day-man-city-khoi-top-5-ngoai-hang-anh-4887061.html) - 23:01 16/05/2025
 - 🫶 [Yamal: &#39;Messi hay nhất lịch sử, nhưng tôi muốn có câu chuyện riêng&#39;](https://vnexpress.net/yamal-messi-hay-nhat-lich-su-nhung-toi-muon-co-cau-chuyen-rieng-4886918.html) - 22:43 16/05/2025
