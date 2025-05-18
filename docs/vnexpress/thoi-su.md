@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Trung tâm giới thiệu nghề đúc đồng thành nơi nhốt bò](https://vnexpress.net/trung-tam-gioi-thieu-nghe-duc-dong-thanh-noi-nhot-bo-4887168.html) - 23:00 17/05/2025
-- 🤓 [Hơn 11.000 tỷ đồng mở đường song hành quốc lộ 62](https://vnexpress.net/hon-11-000-ty-dong-mo-duong-song-hanh-quoc-lo-62-4887265.html) - 17:00 17/05/2025
+- 🤓 [Long An làm đường 10 làn song hành quốc lộ 62](https://vnexpress.net/long-an-lam-duong-10-lan-song-hanh-quoc-lo-62-4887265.html) - 17:00 17/05/2025
 - ⚗️ [Tuổi 20 của những quân nhân lần đầu duyệt binh ở Nga](https://vnexpress.net/tuoi-20-cua-nhung-quan-nhan-lan-dau-duyet-binh-o-nga-4886528.html) - 17:00 17/05/2025
 - 🌊 [Thủ tướng: Sớm miễn phí khám chữa bệnh cho trẻ em](https://vnexpress.net/thu-tuong-som-mien-phi-kham-chua-benh-cho-tre-em-4887302.html) - 15:29 17/05/2025
 - 🎓 [Hai bố con gặp nạn dưới giếng sâu 35 m](https://vnexpress.net/hai-bo-con-gap-nan-duoi-gieng-sau-35-m-4887285.html) - 13:43 17/05/2025
