@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [&quot;Nhiều tỉnh phát triển nhờ xin ngân sách T.Ư, không thể phụ thuộc thế được&quot;](https://dantri.com.vn/xa-hoi/nhieu-tinh-phat-trien-nho-xin-ngan-sach-tu-khong-the-phu-thuoc-the-duoc-20250518121425116.htm) - 05:23 18/05/2025
+- 🤠 [&quot;Nhiều tỉnh phát triển nhờ xin ngân sách Trung ương, không thể phụ thuộc thế được&quot;](https://dantri.com.vn/xa-hoi/nhieu-tinh-phat-trien-nho-xin-ngan-sach-trung-uong-khong-the-phu-thuoc-the-duoc-20250518121425116.htm) - 05:23 18/05/2025
 - 🌈 [Xây dựng quê hương Kim Liên xứng đáng với lời căn dặn của Bác Hồ](https://dantri.com.vn/xa-hoi/xay-dung-que-huong-kim-lien-xung-dang-voi-loi-can-dan-cua-bac-ho-20250518103457604.htm) - 04:44 18/05/2025
 - 🐎 [Tràng pháo tay vang dội khi Thủ tướng nhắc điểm đột phá cho kinh tế tư nhân](https://dantri.com.vn/xa-hoi/trang-phao-tay-vang-doi-khi-thu-tuong-nhac-diem-dot-pha-cho-kinh-te-tu-nhan-20250518101649036.htm) - 03:29 18/05/2025
 - 👹 [Hoa cúc thiếu cánh của G-Dragon có gì đặc biệt khiến giới trẻ phát sốt?](https://dantri.com.vn/giai-tri/hoa-cuc-thieu-canh-cua-g-dragon-co-gi-dac-biet-khien-gioi-tre-phat-sot-20250517180058348.htm) - 23:56 17/05/2025
