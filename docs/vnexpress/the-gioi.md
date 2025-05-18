@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Vatican công bố chiếc nhẫn quyền lực của Giáo hoàng Leo XIV](https://vnexpress.net/vatican-cong-bo-chiec-nhan-quyen-luc-cua-giao-hoang-leo-xiv-4887446.html) - 08:44 18/05/2025
 - 🕴 [Nga phóng gần 300 UAV vào Ukraine, nghi nhắm tới căn cứ F-16](https://vnexpress.net/nga-phong-gan-300-uav-vao-ukraine-nghi-nham-toi-can-cu-f-16-4887433.html) - 08:03 18/05/2025
-- 🤭 [Vatican tổ chức lễ nhậm chức của Giáo hoàng Leo XIV](https://vnexpress.net/truc-tiep-le-nham-chuc-cua-giao-hoang-leo-xiv-4887437.html) - 07:41 18/05/2025
+- 🤭 [150.000 người dự lễ nhậm chức của Giáo hoàng Leo XIV](https://vnexpress.net/truc-tiep-le-nham-chuc-cua-giao-hoang-leo-xiv-4887437.html) - 07:41 18/05/2025
 - 🧑‍💻 [Lý do ông Duterte đắc cử thị trưởng dù đang bị giam](https://vnexpress.net/ly-do-ong-duterte-dac-cu-thi-truong-du-dang-bi-giam-4885476.html) - 04:31 18/05/2025
 - 🦏 [Tàu hải quân Mexico đâm vào cầu ở Mỹ](https://vnexpress.net/tau-hai-quan-mexico-dam-vao-cau-o-my-4887366.html) - 03:34 18/05/2025
 - 🦒 [Nổ bom bên ngoài phòng khám ở Mỹ, một người chết](https://vnexpress.net/no-bom-ben-ngoai-phong-kham-o-my-mot-nguoi-chet-4887360.html) - 03:01 18/05/2025
