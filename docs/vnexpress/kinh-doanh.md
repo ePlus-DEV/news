@@ -5,7 +5,7 @@ sidebar_position: 3
 
 <!-- vnexpress-kinh-doanh:START -->
 - ⛽️ [Cho thuê, mượn tài khoản ngân hàng có thể bị phạt tới 200 triệu đồng](https://vnexpress.net/cho-thue-muon-tai-khoan-ngan-hang-co-the-bi-phat-toi-200-trieu-dong-4887485.html) - 12:19 18/05/2025
-- 🐲 [Hoàn thành giảm 30% điều kiện kinh doanh ngay năm nay](https://vnexpress.net/hoan-thanh-giam-30-dieu-kien-kinh-doanh-ngay-nam-nay-4887475.html) - 11:16 18/05/2025
+- 🐲 [Giảm 30% điều kiện kinh doanh ngay năm nay](https://vnexpress.net/giam-30-dieu-kien-kinh-doanh-ngay-nam-nay-4887475.html) - 11:16 18/05/2025
 - 🔥 [Chuyên gia dự báo giá vàng giảm tuần tới](https://vnexpress.net/chuyen-gia-du-bao-gia-vang-giam-tuan-toi-4887411.html) - 10:16 18/05/2025
 - 🐵 [TP HCM định chuyển đổi toàn bộ xe máy công nghệ sang điện](https://vnexpress.net/tp-hcm-dinh-chuyen-doi-toan-bo-xe-may-cong-nghe-sang-dien-4887362.html) - 08:30 18/05/2025
 - 🦅 [Anh vượt Trung Quốc thành chủ nợ nước ngoài lớn thứ hai của Mỹ](https://vnexpress.net/anh-vuot-trung-quoc-thanh-chu-no-nuoc-ngoai-lon-thu-hai-cua-my-4887342.html) - 07:36 18/05/2025
