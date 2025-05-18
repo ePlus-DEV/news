@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- dantri-xa-hoi:START -->
-- 🫣 [Giấy chứng đặc biệt có ký tự in chìm của người tham gia xây dựng Lăng Bác](https://dantri.com.vn/xa-hoi/giay-chung-dac-biet-co-ky-tu-in-chim-cua-nguoi-tham-gia-xay-dung-lang-bac-20250517130448355.htm) - 23:31 17/05/2025
+- 🫣 [Giấy chứng nhận đặc biệt có ký tự in chìm của người tham gia xây dựng Lăng Bác](https://dantri.com.vn/xa-hoi/giay-chung-nhan-dac-biet-co-ky-tu-in-chim-cua-nguoi-tham-gia-xay-dung-lang-bac-20250517130448355.htm) - 23:31 17/05/2025
 - 💼 [Doanh nghiệp tư hưởng loạt cơ chế đặc thù: &quot;Thời khắc phá băng lịch sử&quot;](https://dantri.com.vn/xa-hoi/doanh-nghiep-tu-huong-loat-co-che-dac-thu-thoi-khac-pha-bang-lich-su-20250517084609088.htm) - 23:00 17/05/2025
 - 🎊 [Cận cảnh tuyến đường kết nối quốc lộ 51 vào dự án sân bay lớn nhất Việt Nam](https://dantri.com.vn/xa-hoi/can-canh-tuyen-duong-ket-noi-quoc-lo-51-vao-du-an-san-bay-lon-nhat-viet-nam-20250516200604916.htm) - 23:00 17/05/2025
 - 🙉 [&quot;Ngân hàng đổ vỡ thì không có trách nhiệm gì với dân à, không thể được&quot;](https://dantri.com.vn/xa-hoi/ngan-hang-do-vo-thi-khong-co-trach-nhiem-gi-voi-dan-a-khong-the-duoc-20250517233747855.htm) - 22:36 17/05/2025
@@ -17,7 +17,7 @@ sidebar_position: 1
 - 🗽 [Hai thanh niên tử vong sau vụ va chạm xe máy](https://dantri.com.vn/xa-hoi/hai-thanh-nien-tu-vong-sau-vu-va-cham-xe-may-20250517161024144.htm) - 09:24 17/05/2025
 - 🔥 [Xưởng điêu khắc gỗ ở Lâm Đồng bốc cháy suốt nhiều giờ](https://dantri.com.vn/xa-hoi/xuong-dieu-khac-go-o-lam-dong-boc-chay-suot-nhieu-gio-20250517154959576.htm) - 09:20 17/05/2025
 - 🦒 [Vụ 9 người chết và mất tích trên biển: Một năm chưa trục vớt được tàu](https://dantri.com.vn/xa-hoi/vu-9-nguoi-chet-va-mat-tich-tren-bien-mot-nam-chua-truc-vot-duoc-tau-20250517154513243.htm) - 09:10 17/05/2025
-- 🧐 [Tài xế cán chết nữ sinh 14 tuổi: Liệt nửa người, còn vỏ đạn li ti trong não](https://dantri.com.vn/xa-hoi/tai-xe-can-chet-nu-sinh-14-tuoi-liet-nua-nguoi-con-vo-dan-li-ti-trong-nao-20250517151807854.htm) - 08:53 17/05/2025
+- 🧐 [Tài xế cán chết nữ sinh 14 tuổi ở Vĩnh Long: Còn mảnh đạn li ti trong não](https://dantri.com.vn/xa-hoi/tai-xe-can-chet-nu-sinh-14-tuoi-o-vinh-long-con-manh-dan-li-ti-trong-nao-20250517151807854.htm) - 08:53 17/05/2025
 - ⛽️ [Rạch Xuyên Tâm sắp được &quot;thay áo mới&quot; sau 20 năm trì hoãn](https://dantri.com.vn/xa-hoi/rach-xuyen-tam-sap-duoc-thay-ao-moi-sau-20-nam-tri-hoan-20250517142423769.htm) - 08:30 17/05/2025
 - 🚀 [Tổng rà soát tài khoản ngân hàng, sim điện thoại để ngăn lừa đảo trực tuyến](https://dantri.com.vn/xa-hoi/tong-ra-soat-tai-khoan-ngan-hang-sim-dien-thoai-de-ngan-lua-dao-truc-tuyen-20250517141922974.htm) - 07:47 17/05/2025
 - 🦒 [Vụ sạt lở ở Lai Châu: Tìm thấy 2 nạn nhân cuối cùng](https://dantri.com.vn/xa-hoi/vu-sat-lo-o-lai-chau-tim-thay-2-nan-nhan-cuoi-cung-20250517144056211.htm) - 07:46 17/05/2025
