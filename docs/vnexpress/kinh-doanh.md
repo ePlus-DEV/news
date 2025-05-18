@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Thủ tướng: Xóa bỏ định kiến, coi doanh nhân là chiến sĩ trên mặt trận kinh tế](https://vnexpress.net/thu-tuong-xoa-bo-dinh-kien-coi-doanh-nhan-la-chien-si-tren-mat-tran-kinh-te-4887399.html) - 05:52 18/05/2025
+- ⛽️ [Thủ tướng: Sẽ phát động phong trào cả nước làm giàu](https://vnexpress.net/thu-tuong-se-phat-dong-phong-trao-ca-nuoc-lam-giau-4887399.html) - 05:52 18/05/2025
 - 🐲 [Ông Trump khuyên Walmart &#39;tự chịu thuế nhập khẩu&#39;](https://vnexpress.net/ong-trump-khuyen-walmart-tu-chiu-thue-nhap-khau-4887339.html) - 03:39 18/05/2025
 - 🔥 [Các nước làm đường sắt tốc độ cao thế nào](https://vnexpress.net/cac-nuoc-lam-duong-sat-toc-do-cao-the-nao-4887206.html) - 00:00 18/05/2025
 - 🐵 [Công ty Mỹ xây nhà máy tái chế polyester và cotton đầu tiên trên thế giới](https://vnexpress.net/cong-ty-my-xay-nha-may-tai-che-polyester-va-cotton-dau-tien-tren-the-gioi-4887293.html) - 17:20 17/05/2025
