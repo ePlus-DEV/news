@@ -6,7 +6,7 @@ sidebar_position: 6
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Món thịt bọc sả nướng](https://vnexpress.net/mon-thit-boc-sa-nuong-4887953.html) - 09:31 19/05/2025
 - 🎓 [Video giới thiệu pin, cơ khí tạo sức hút trên TikTok](https://vnexpress.net/video-gioi-thieu-pin-co-khi-tao-suc-hut-tren-tiktok-4887861.html) - 08:00 19/05/2025
-- 🚦 [Tình yêu của cô gái 2,2 mét](https://vnexpress.net/tinh-yeu-cua-co-gai-2-2-met-4887733.html) - 06:45 19/05/2025
+- 🚦 [Tình yêu của cô gái cao 2,2 mét](https://vnexpress.net/tinh-yeu-cua-co-gai-cao-2-2-met-4887733.html) - 06:45 19/05/2025
 - 🦣 [Sống trong ô nhiễm không khí](https://vnexpress.net/song-trong-o-nhiem-khong-khi-4887482.html) - 04:30 19/05/2025
 - 🎓 [Những thói quen gây tốn điện khi dùng điều hòa](https://vnexpress.net/nhung-thoi-quen-gay-ton-dien-khi-dung-dieu-hoa-4887526.html) - 03:00 19/05/2025
 - 🎭 [Lý do sữa cần thiết với phát triển của trẻ](https://vnexpress.net/ly-do-sua-can-thiet-voi-phat-trien-cua-tre-4885002.html) - 03:00 19/05/2025
