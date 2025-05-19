@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Kiến nghị lập tòa án chuyên biệt thuộc Trung tâm Tài chính quốc tế](https://vnexpress.net/kien-nghi-lap-toa-an-chuyen-biet-thuoc-trung-tam-tai-chinh-quoc-te-4887818.html) - 07:18 19/05/2025
+- 😎 [Đại biểu kiến nghị lập tòa chuyên biệt thuộc Trung tâm Tài chính quốc tế](https://vnexpress.net/dai-bieu-kien-nghi-lap-toa-chuyen-biet-thuoc-trung-tam-tai-chinh-quoc-te-4887818.html) - 07:18 19/05/2025
 - 🥰 [Trộm hàng loạt mũ bảo hiểm &#39;vì thất tình&#39;](https://vnexpress.net/trom-hang-loat-mu-bao-hiem-vi-that-tinh-4887617.html) - 02:46 19/05/2025
 - 🎓 [TAND Tối cao đề xuất không bỏ quy định chánh án trả lời chất vấn](https://vnexpress.net/tand-toi-cao-de-xuat-khong-bo-quy-dinh-chanh-an-tra-loi-chat-van-4887644.html) - 02:39 19/05/2025
 - 🤓 [Thầy giáo Trung Quốc bị tạm giữ vì dọa ném học sinh từ tầng 3](https://vnexpress.net/thay-giao-trung-quoc-bi-tam-giu-vi-doa-nem-hoc-sinh-tu-tang-3-4887370.html) - 02:32 19/05/2025
