@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Ông Trump bắt đầu điện đàm với ông Putin](https://vnexpress.net/ong-trump-bat-dau-dien-dam-voi-ong-putin-4888012.html) - 14:39 19/05/2025
+- 🎭 [Ông Trump điện đàm với ông Putin](https://vnexpress.net/ong-trump-dien-dam-voi-ong-putin-4888012.html) - 14:39 19/05/2025
 - 🕴 [Ông Biden đăng ảnh sau khi mắc ung thư ác tính](https://vnexpress.net/ong-biden-dang-anh-sau-khi-mac-ung-thu-ac-tinh-4888005.html) - 13:21 19/05/2025
 - 🤭 [Truyền thông Trung Quốc nêu lý do tiêm kích J-10 chiếm ưu thế trước Rafale](https://vnexpress.net/truyen-thong-trung-quoc-neu-ly-do-tiem-kich-j-10-chiem-uu-the-truoc-rafale-4887877.html) - 12:53 19/05/2025
 - 🧑‍💻 [Trung Quốc ủng hộ chủ quyền của Đan Mạch với Greenland](https://vnexpress.net/trung-quoc-ung-ho-chu-quyen-cua-dan-mach-voi-greenland-4887996.html) - 12:30 19/05/2025
