@@ -408,11 +408,11 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Sáp nhập xã, công chức có được thôi việc theo Nghị định 178?](https://baochinhphu.vn/sap-nhap-xa-cong-chuc-co-duoc-thoi-viec-theo-nghi-dinh-178-102250515114154087.htm) - 11:02 20/05/2025
-- 🌜 [Quản lý vật tư nông nghiệp cần có sự chung tay của người nông dân](https://baochinhphu.vn/quan-ly-vat-tu-nong-nghiep-can-co-su-chung-tay-cua-nguoi-nong-dan-102250520100405672.htm) - 11:00 20/05/2025
-- 🦆 [Hòa Phát &#39;lấn sân&#39; sản xuất ván sàn cao cấp](https://baochinhphu.vn/hoa-phat-lan-san-san-xuat-van-san-cao-cap-102250520094424093.htm) - 10:20 20/05/2025
-- 🌝 [Nhập khẩu thép khổ rộng tăng đột biến trong 4 tháng đầu năm](https://baochinhphu.vn/nhap-khau-thep-kho-rong-tang-dot-bien-trong-4-thang-dau-nam-10225052009372001.htm) - 10:11 20/05/2025
-- 🦣 [TỔNG THUẬT Tọa đàm: Giải pháp thanh toán thông minh phục vụ giao thông hiện đại](https://baochinhphu.vn/10h-toa-dam-giai-phap-thanh-toan-thong-minh-phuc-vu-giao-thong-hien-dai-102250520083918195.htm) - 10:09 20/05/2025
+- 💻 [TỔNG THUẬT Tọa đàm: Giải pháp thanh toán thông minh phục vụ giao thông hiện đại](https://baochinhphu.vn/10h-toa-dam-giai-phap-thanh-toan-thong-minh-phuc-vu-giao-thong-hien-dai-102250520083918195.htm) - 11:09 20/05/2025
+- 🌜 [Sáp nhập xã, công chức có được thôi việc theo Nghị định 178?](https://baochinhphu.vn/sap-nhap-xa-cong-chuc-co-duoc-thoi-viec-theo-nghi-dinh-178-102250515114154087.htm) - 11:02 20/05/2025
+- 🦆 [Quản lý vật tư nông nghiệp cần có sự chung tay của người nông dân](https://baochinhphu.vn/quan-ly-vat-tu-nong-nghiep-can-co-su-chung-tay-cua-nguoi-nong-dan-102250520100405672.htm) - 11:00 20/05/2025
+- 🌝 [Hòa Phát &#39;lấn sân&#39; sản xuất ván sàn cao cấp](https://baochinhphu.vn/hoa-phat-lan-san-san-xuat-van-san-cao-cap-102250520094424093.htm) - 10:20 20/05/2025
+- 🦣 [Nhập khẩu thép khổ rộng tăng đột biến trong 4 tháng đầu năm](https://baochinhphu.vn/nhap-khau-thep-kho-rong-tang-dot-bien-trong-4-thang-dau-nam-10225052009372001.htm) - 10:11 20/05/2025
 - ⛽️ [Việt Nam – Hoa Kỳ bước vào phiên đàm phán thứ 2 Hiệp định song phương về Thương mại đối ứng](https://baochinhphu.vn/viet-nam-hoa-ky-buoc-vao-phien-dam-phan-thu-2-hiep-dinh-song-phuong-ve-thuong-mai-doi-ung-102250520092801535.htm) - 10:00 20/05/2025
 - 🎓 [Đào Duy Tùng - nhà lý luận xuất sắc, con người đổi mới của Đảng](https://baochinhphu.vn/dao-duy-tung-nha-ly-luan-xuat-sac-con-nguoi-doi-moi-cua-dan-102250520095601449.htm) - 09:55 20/05/2025
 - 💡 [Thí sinh đăng ký nguyện vọng xét tuyển đại học, cao đẳng từ ngày 16/7/2025](https://baochinhphu.vn/thi-sinh-dang-ky-nguyen-vong-xet-tuyen-dai-hoc-cao-dang-tu-ngay-16-7-2025-10225052008513064.htm) - 09:29 20/05/2025
