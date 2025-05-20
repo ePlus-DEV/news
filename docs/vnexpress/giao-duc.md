@@ -26,7 +26,7 @@ sidebar_position: 7
 - 🌈 [Nam sinh chế drone siêu nhẹ bay hơn 340 km/h](https://vnexpress.net/nam-sinh-che-drone-sieu-nhe-bay-hon-340-km-h-4886855.html) - 15:00 18/05/2025
 - 🥰 [&#39;Việt Nam cần gấp đôi nhân lực khoa học công nghệ&#39;](https://vnexpress.net/viet-nam-can-gap-doi-nhan-luc-khoa-hoc-cong-nghe-4887488.html) - 13:30 18/05/2025
 - 🎡 [Nữ thủ tướng đầu tiên của Thái Lan là ai?](https://vnexpress.net/nu-thu-tuong-dau-tien-cua-thai-lan-la-ai-4887464.html) - 12:36 18/05/2025
-- 🎊 [Giáo sư hóa học Trung Quốc giàu nhất tỉnh](https://vnexpress.net/giao-su-hoa-hoc-trung-quoc-giau-nhat-tinh-4887392.html) - 12:05 18/05/2025
+- 🎊 [Giáo sư hóa học Trung Quốc sáng lập đế chế hơn 10 tỷ USD](https://vnexpress.net/giao-su-hoa-hoc-trung-quoc-sang-lap-de-che-hon-10-ty-usd-4887392.html) - 12:05 18/05/2025
 - 🌏 [&#39;Sinh viên cần trang bị kỹ năng số và học suốt đời&#39;](https://vnexpress.net/sinh-vien-can-trang-bi-ky-nang-so-va-hoc-suot-doi-4886126.html) - 11:30 18/05/2025
 - 🥸 [Có nên chuyển sang ngành xuất nhập khẩu và logistics?](https://vnexpress.net/co-nen-chuyen-sang-nganh-xuat-nhap-khau-va-logistics-4884942.html) - 08:00 18/05/2025
 - 🕴 [Lo ngại nếu Bộ Giáo dục thêm &#39;giấy phép con&#39; mở ngành đại học](https://vnexpress.net/lo-ngai-neu-bo-giao-duc-them-giay-phep-con-mo-nganh-dai-hoc-4886660.html) - 04:00 18/05/2025
