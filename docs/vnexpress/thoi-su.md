@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Cầu Nhơn Trạch lớn nhất Vành đai 3 TP HCM trước thời điểm khai thác](https://vnexpress.net/cau-nhon-trach-lon-nhat-vanh-dai-3-tp-hcm-truoc-thoi-diem-khai-thac-4888388.html) - 23:00 20/05/2025
 - 🤓 [Trung tâm Hội chợ triển lãm quốc gia sắp hoàn thành](https://vnexpress.net/trung-tam-hoi-cho-trien-lam-quoc-gia-sap-hoan-thanh-4888465.html) - 18:28 20/05/2025
 - ⚗️ [Trình Quốc hội việc sắp xếp các tổ chức trong Mặt trận Tổ quốc](https://vnexpress.net/trinh-quoc-hoi-viec-sap-xep-cac-to-chuc-trong-mat-tran-to-quoc-4888474.html) - 17:00 20/05/2025
-- 🌊 [Thủ tướng yêu cầu nghiên cứu đề xuất xây đường sắt tốc độ cao của Vinspeed](https://vnexpress.net/thu-tuong-yeu-cau-nghien-cuu-de-xuat-xay-duong-sat-toc-do-cao-cua-vinspeed-4888496.html) - 16:24 20/05/2025
+- 🌊 [Thủ tướng yêu cầu nghiên cứu đề xuất xây đường sắt tốc độ cao của VinSpeed](https://vnexpress.net/thu-tuong-yeu-cau-nghien-cuu-de-xuat-xay-duong-sat-toc-do-cao-cua-vinspeed-4888496.html) - 16:24 20/05/2025
 - 🎓 [Hơn một tấn nội tạng trâu bò bốc mùi trên xe tải](https://vnexpress.net/hon-mot-tan-noi-tang-trau-bo-boc-mui-tren-xe-tai-4888494.html) - 16:07 20/05/2025
 - 🔥 [Thúc đẩy tiến độ dự án đường sắt Lào Cai - Hà Nội - Hải Phòng](https://vnexpress.net/thuc-day-tien-do-du-an-duong-sat-lao-cai-ha-noi-hai-phong-4888488.html) - 15:56 20/05/2025
 - 🦏 [Khởi công thư viện mới cho học sinh Tân Trào](https://vnexpress.net/khoi-cong-thu-vien-moi-cho-hoc-sinh-tan-trao-4888373.html) - 11:20 20/05/2025
