@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Chặng đường mới của chàng trai nhặt ve chai đỗ Đại học Thanh Hoa](https://vnexpress.net/chang-duong-moi-cua-chang-trai-nhat-ve-chai-do-dai-hoc-thanh-hoa-4888670.html) - 07:08 21/05/2025
+- 🤓 [Bước tiến của cậu bé nhặt ve chai đỗ Đại học Thanh Hoa](https://vnexpress.net/buoc-tien-cua-cau-be-nhat-ve-chai-do-dai-hoc-thanh-hoa-4888670.html) - 07:08 21/05/2025
 - 🦆 [Đại học Công nghiệp TP HCM xét học bạ từ 21 điểm](https://vnexpress.net/dai-hoc-cong-nghiep-tp-hcm-xet-hoc-ba-tu-21-diem-4888716.html) - 05:52 21/05/2025
 - 🦩 [Chuẩn bị gì cho hồ sơ thạc sĩ vào đại học quốc gia Singapore](https://vnexpress.net/chuan-bi-gi-cho-ho-so-thac-si-vao-dai-hoc-quoc-gia-singapore-4887432.html) - 04:00 21/05/2025
 - 🌮 [Trường Đại học Hùng Vương TP HCM số hóa mô hình giảng dạy](https://vnexpress.net/truong-dai-hoc-hung-vuong-tp-hcm-so-hoa-mo-hinh-giang-day-4886894.html) - 03:00 21/05/2025
