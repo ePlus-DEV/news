@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [AFF Cup 2026 thay đổi lớn, cúp C1 Đông Nam Á tiếp tục được tổ chức](https://dantri.com.vn/the-thao/aff-cup-2026-thay-doi-lon-cup-c1-dong-nam-a-tiep-tuc-duoc-to-chuc-20250522001301065.htm) - 17:16 21/05/2025
-- 💯 [Tottenham 0-0 Man Utd &lpar;hiệp 1&rpar;: Trận đấu sôi động](https://dantri.com.vn/the-thao/tottenham-0-0-man-utd-hiep-1-tran-dau-soi-dong-20250521170438983.htm) - 16:03 21/05/2025
+- 💯 [Tottenham 1-0 Man Utd &lpar;hiệp 2&rpar;: Johnson ghi bàn dễ dàng](https://dantri.com.vn/the-thao/tottenham-1-0-man-utd-hiep-2-johnson-ghi-ban-de-dang-20250521170438983.htm) - 16:03 21/05/2025
 - ⛽️ [Thắng nghẹt thở trước CLB Công an Hà Nội, Buriram vô địch giải Đông Nam Á](https://dantri.com.vn/the-thao/thang-nghet-tho-truoc-clb-cong-an-ha-noi-buriram-vo-dich-giai-dong-nam-a-20250521165550910.htm) - 12:00 21/05/2025
 - 💃 [CLB nữ TPHCM thua đội bóng Trung Quốc ở bán kết giải châu Á](https://dantri.com.vn/the-thao/clb-nu-tphcm-thua-doi-bong-trung-quoc-o-ban-ket-giai-chau-a-20250521173827189.htm) - 10:49 21/05/2025
 - 🌈 [Vận động viên mang bầu truyền cảm hứng tại giải đấu pickleball ở Mỹ](https://dantri.com.vn/the-thao/van-dong-vien-mang-bau-truyen-cam-hung-tai-giai-dau-pickleball-o-my-20250521151921347.htm) - 10:00 21/05/2025
