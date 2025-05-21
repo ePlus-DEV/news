@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Ronaldo sút hỏng và ghi bàn phạt đền trong cùng một trận](https://vnexpress.net/ronaldo-sut-hong-va-ghi-ban-phat-den-trong-cung-mot-tran-4888986.html) - 18:08 21/05/2025
-- 🦩 [Tottenham 1-0 Man Utd &lpar;H2&rpar;: Johnson ghi bàn](https://vnexpress.net/truc-tiep-tottenham-vs-man-utd-4888962.html) - 18:00 21/05/2025
+- 🦩 [Tottenham 1-0 Man Utd &lpar;H2&rpar;: Cứu thua trên vạch vôi](https://vnexpress.net/truc-tiep-tottenham-vs-man-utd-4888962.html) - 18:00 21/05/2025
 - 🧰 [Ronaldo xin gia nhập CLB châu Phi](https://vnexpress.net/ronaldo-xin-gia-nhap-clb-chau-phi-4888984.html) - 17:42 21/05/2025
 - 🤗 [Amorim và kỳ vọng về triều đại mới từ chung kết Europa League](https://vnexpress.net/amorim-va-ky-vong-ve-trieu-dai-moi-tu-chung-ket-europa-league-4888730.html) - 13:45 21/05/2025
 - 🥳 [Ám ảnh kim tiền phía sau chung kết Man Utd - Tottenham](https://vnexpress.net/am-anh-kim-tien-phia-sau-chung-ket-man-utd-tottenham-4888783.html) - 13:43 21/05/2025
