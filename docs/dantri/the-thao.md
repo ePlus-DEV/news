@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Buriram 0-1 CLB Công an Hà Nội &lpar;hiệp 1&rpar;: Cao Pendant  Quang Vinh mở tỷ số](https://dantri.com.vn/the-thao/buriram-0-1-clb-cong-an-ha-noi-hiep-1-cao-pendant-quang-vinh-mo-ty-so-20250521165550910.htm) - 12:00 21/05/2025
+- 🎡 [Buriram 2-2 CLB Công an Hà Nội &lpar;hiệp phụ&rpar;: Tiếp tục chiến đấu](https://dantri.com.vn/the-thao/buriram-2-2-clb-cong-an-ha-noi-hiep-phu-tiep-tuc-chien-dau-20250521165550910.htm) - 12:00 21/05/2025
 - 💯 [CLB nữ TPHCM thua đội bóng Trung Quốc ở bán kết giải châu Á](https://dantri.com.vn/the-thao/clb-nu-tphcm-thua-doi-bong-trung-quoc-o-ban-ket-giai-chau-a-20250521173827189.htm) - 10:49 21/05/2025
 - ⛽️ [Vận động viên mang bầu truyền cảm hứng tại giải đấu pickleball ở Mỹ](https://dantri.com.vn/the-thao/van-dong-vien-mang-bau-truyen-cam-hung-tai-giai-dau-pickleball-o-my-20250521151921347.htm) - 10:00 21/05/2025
 - 💃 [U22 Việt Nam nhận ưu thế cực lớn trước SEA Games 33](https://dantri.com.vn/the-thao/u22-viet-nam-nhan-uu-the-cuc-lon-truoc-sea-games-33-20250521143730988.htm) - 07:55 21/05/2025
