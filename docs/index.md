@@ -28,7 +28,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- vnexpress:START -->
 - 🚀 [Nước cốt chanh &#39;liều cao&#39; giúp trị viêm nhiễm?](https://vnexpress.net/nuoc-cot-chanh-lieu-cao-giup-tri-viem-nhiem-4885875.html) - 19:00 21/05/2025
 - 🧰 [Ronaldo sút hỏng và ghi bàn phạt đền trong cùng một trận](https://vnexpress.net/ronaldo-sut-hong-va-ghi-ban-phat-den-trong-cung-mot-tran-4888986.html) - 18:08 21/05/2025
-- 🥰 [Tottenham 1-0 Man Utd &lpar;H2&rpar;: Cứu thua trên vạch vôi](https://vnexpress.net/truc-tiep-tottenham-vs-man-utd-4888962.html) - 18:00 21/05/2025
+- 🥰 [Tottenham 1-0 Man Utd &lpar;H2&rpar;: Son vào sân](https://vnexpress.net/truc-tiep-tottenham-vs-man-utd-4888962.html) - 18:00 21/05/2025
 - 🌏 [Nguyên nhân gây khó ngủ](https://vnexpress.net/nguyen-nhan-gay-kho-ngu-4886933.html) - 18:00 21/05/2025
 - 🧐 [Những cô giáo một mình dạy học vùng biên](https://vnexpress.net/nhung-co-giao-mot-minh-day-hoc-vung-bien-4887486.html) - 17:50 21/05/2025
 - 💫 [Ronaldo xin gia nhập CLB châu Phi](https://vnexpress.net/ronaldo-xin-gia-nhap-clb-chau-phi-4888984.html) - 17:42 21/05/2025
