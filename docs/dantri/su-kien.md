@@ -5,7 +5,7 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [Miền Bắc mưa lớn đến hết tuần, nhiều tỉnh nguy cơ lũ quét, sạt lở](https://dantri.com.vn/xa-hoi/mien-bac-mua-lon-den-het-tuan-nhieu-tinh-nguy-co-lu-quet-sat-lo-20250521220045174.htm) - 17:00 21/05/2025
-- 👨‍🏫 [Tottenham 0-0 Man Utd &lpar;hiệp 1&rpar;: Trận đấu sôi động](https://dantri.com.vn/the-thao/tottenham-0-0-man-utd-hiep-1-tran-dau-soi-dong-20250521170438983.htm) - 16:03 21/05/2025
+- 👨‍🏫 [Tottenham 1-0 Man Utd &lpar;hiệp 2&rpar;: Johnson ghi bàn dễ dàng](https://dantri.com.vn/the-thao/tottenham-1-0-man-utd-hiep-2-johnson-ghi-ban-de-dang-20250521170438983.htm) - 16:03 21/05/2025
 - 🌮 [Vụ nổ lớn tại Công ty SGI Vina: Lời kể của nữ công nhân](https://dantri.com.vn/xa-hoi/vu-no-lon-tai-cong-ty-sgi-vina-loi-ke-cua-nu-cong-nhan-20250521205855745.htm) - 14:40 21/05/2025
 - 🕯 [Bộ Quốc phòng sắp xếp lực lượng quân sự phù hợp bộ máy chính quyền 2 cấp](https://dantri.com.vn/xa-hoi/bo-quoc-phong-sap-xep-luc-luong-quan-su-phu-hop-bo-may-chinh-quyen-2-cap-20250521192009338.htm) - 13:18 21/05/2025
 - 🪜 [Nguyên Chủ tịch nước Trần Đức Lương từ trần](https://dantri.com.vn/xa-hoi/nguyen-chu-tich-nuoc-tran-duc-luong-tu-tran-20250520225448209.htm) - 12:20 21/05/2025
