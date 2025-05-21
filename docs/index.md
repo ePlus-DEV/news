@@ -256,7 +256,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- nld:START -->
 - 🐎 [Khẩu trang đắt hàng sau khi số ca COVID-19 tăng](https://nld.com.vn/khau-trang-dat-hang-sau-khi-so-ca-covid-19-tang-196250521215119187.htm) - 15:03 21/05/2025
 - 😺 [Nhờ &quot;trưởng phòng quân nhu&quot; mua ô tô giá rẻ, cặp vợ chồng nhận &quot;quả đắng&quot;](https://nld.com.vn/nho-truong-phong-quan-nhu-mua-o-to-gia-re-cap-vo-chong-nhan-qua-dang-196250521205530699.htm) - 14:17 21/05/2025
-- 👍 [&quot;Xây dựng mô hình Chủ nghĩa xã hội gắn với con người Xã hội chủ nghĩa tại TP Hải Phòng](https://nld.com.vn/xay-dung-mo-hinh-chu-nghia-xa-hoi-gan-voi-con-nguoi-xa-hoi-chu-nghia-tai-tp-hai-phong-196250521202718115.htm) - 14:04 21/05/2025
+- 👍 [Xây dựng mô hình Chủ nghĩa xã hội gắn với con người Xã hội chủ nghĩa tại TP Hải Phòng](https://nld.com.vn/xay-dung-mo-hinh-chu-nghia-xa-hoi-gan-voi-con-nguoi-xa-hoi-chu-nghia-tai-tp-hai-phong-196250521202718115.htm) - 14:04 21/05/2025
 - 🥷 [Kiểm tra dự án sân bay Long Thành, Bộ trưởng Xây dựng chỉ đạo &quot;nóng&quot;](https://nld.com.vn/kiem-tra-du-an-san-bay-long-thanh-bo-truong-xay-dung-chi-dao-nong-196250521201615292.htm) - 14:02 21/05/2025
 - 🤔 [Rủ nhau suối tắm, 7 học sinh bị đuối nước, 1 em tử vong, 3 em mất tích](https://nld.com.vn/ru-nhau-suoi-tam-7-hoc-sinh-bi-duoi-nuoc-1-em-tu-vong-3-em-mat-tich-196250521204432803.htm) - 13:53 21/05/2025
 - 🌈 [TP HCM ưu tiên bố trí cán bộ, công chức dôi dư](https://nld.com.vn/tp-hcm-uu-tien-bo-tri-can-bo-cong-chuc-doi-du-196250521202128274.htm) - 13:47 21/05/2025
