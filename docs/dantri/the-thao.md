@@ -4,9 +4,9 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Không thể theo kèm Quang Hải, Theerathon đổ lỗi do chấn thương](https://dantri.com.vn/the-thao/khong-the-theo-kem-quang-hai-theerathon-do-loi-do-chan-thuong-20250522192644276.htm) - 12:40 22/05/2025
-- 💯 [Roy Keane chỉ trích thất bại của Man Utd ở chung kết Europa League](https://dantri.com.vn/the-thao/roy-keane-chi-trich-that-bai-cua-man-utd-o-chung-ket-europa-league-20250522165140183.htm) - 12:19 22/05/2025
-- ⛽️ [HLV Amorim mắc sai lầm chết người, Man Utd mất chức vô địch](https://dantri.com.vn/the-thao/hlv-amorim-mac-sai-lam-chet-nguoi-man-utd-mat-chuc-vo-dich-20250522154319108.htm) - 11:01 22/05/2025
+- 🎡 [HLV Amorim mắc sai lầm chết người, Man Utd mất chức vô địch](https://dantri.com.vn/the-thao/hlv-amorim-mac-sai-lam-chet-nguoi-man-utd-mat-chuc-vo-dich-20250522154319108.htm) - 13:01 22/05/2025
+- 💯 [Roy Keane chỉ trích thất bại của Man Utd ở chung kết Europa League](https://dantri.com.vn/the-thao/roy-keane-chi-trich-that-bai-cua-man-utd-o-chung-ket-europa-league-20250522165140183.htm) - 12:45 22/05/2025
+- ⛽️ [Không thể theo kèm Quang Hải, Theerathon đổ lỗi do chấn thương](https://dantri.com.vn/the-thao/khong-the-theo-kem-quang-hai-theerathon-do-loi-do-chan-thuong-20250522192644276.htm) - 12:40 22/05/2025
 - 💃 [Báo Đông Nam Á bất ngờ khi Buriram ngược dòng thắng CLB Công an Hà Nội](https://dantri.com.vn/the-thao/bao-dong-nam-a-bat-ngo-khi-buriram-nguoc-dong-thang-clb-cong-an-ha-noi-20250522105239633.htm) - 10:00 22/05/2025
 - 🌈 [CLB Công an Hà Nội có thể sớm &quot;đòi nợ&quot; Buriram ở cúp C1 Đông Nam Á](https://dantri.com.vn/the-thao/clb-cong-an-ha-noi-co-the-som-doi-no-buriram-o-cup-c1-dong-nam-a-20250522135207562.htm) - 09:00 22/05/2025
 - 🦅 [Thành viên Buriram chơi xấu với CLB CAHN và nhận cái kết đắng](https://dantri.com.vn/the-thao/thanh-vien-buriram-choi-xau-voi-clb-cahn-va-nhan-cai-ket-dang-20250522144813536.htm) - 08:10 22/05/2025
