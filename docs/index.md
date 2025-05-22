@@ -415,8 +415,8 @@ của Ủy ban Kiểm tra Trung ương](https://nld.com.vn/tong-bi-thu-to-lam-da
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Những nút thắt cần tháo gỡ trong đầu tư công](https://baochinhphu.vn/nhung-nut-that-can-thao-go-trong-dau-tu-cong-102250523061713674.htm) - 05:45 23/05/2025
-- 🌜 [Thủ tướng yêu cầu 100% TTHC liên quan đến doanh nghiệp được thực hiện trực tuyến](https://baochinhphu.vn/thu-tuong-yeu-cau-100-tthc-lien-quan-den-doanh-nghiep-duoc-thuc-hien-truc-tuyen-102250523001200589.htm) - 23:57 22/05/2025
+- 💻 [Thủ tướng yêu cầu 100% TTHC liên quan đến doanh nghiệp được thực hiện trực tuyến](https://baochinhphu.vn/thu-tuong-yeu-cau-100-tthc-lien-quan-den-doanh-nghiep-duoc-thuc-hien-truc-tuyen-102250523001200589.htm) - 06:11 23/05/2025
+- 🌜 [Những nút thắt cần tháo gỡ trong đầu tư công](https://baochinhphu.vn/nhung-nut-that-can-thao-go-trong-dau-tu-cong-102250523061713674.htm) - 05:45 23/05/2025
 - 🦆 [Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ ngày 22/5/2025](https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-22-5-2025-102250522224354834.htm) - 22:43 22/05/2025
 - 🌝 [Khu vực kinh tế tư nhân cần đi đầu trong chuyển đổi xanh bằng đòn bẩy tín dụng](https://baochinhphu.vn/khu-vuc-kinh-te-tu-nhan-can-di-dau-trong-chuyen-doi-xanh-bang-don-bay-tin-dung-102250522180502734.htm) - 20:33 22/05/2025
 - 🦣 [Hội nhập và phát triển thương hiệu quốc gia về văn hóa](https://baochinhphu.vn/hoi-nhap-va-phat-trien-thuong-hieu-quoc-gia-ve-van-hoa-102250523012014094.htm) - 20:26 22/05/2025
