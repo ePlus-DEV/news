@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [HLV Kim Sang Sik chốt danh sách U22 Việt Nam, có tân binh Việt kiều](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-chot-danh-sach-u22-viet-nam-co-tan-binh-viet-kieu-20250522121608572.htm) - 05:18 22/05/2025
+- 🎡 [HLV Kim Sang Sik công bố danh sách U22 Việt Nam, có tân binh Việt kiều](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-cong-bo-danh-sach-u22-viet-nam-co-tan-binh-viet-kieu-20250522121608572.htm) - 05:18 22/05/2025
 - 💯 [Báo Đông Nam Á bất ngờ khi Buriram ngược dòng thắng CLB Công an Hà Nội](https://dantri.com.vn/the-thao/bao-dong-nam-a-bat-ngo-khi-buriram-nguoc-dong-thang-clb-cong-an-ha-noi-20250522105239633.htm) - 04:31 22/05/2025
 - ⛽️ [HLV Amorim sẵn sàng ra đi, Man Utd chốt xong tương lai](https://dantri.com.vn/the-thao/hlv-amorim-san-sang-ra-di-man-utd-chot-xong-tuong-lai-20250522110217444.htm) - 04:02 22/05/2025
 - 💃 [Djokovic tiến vào tứ kết Geneva Open, Zverev chia tay Hamburg Open](https://dantri.com.vn/the-thao/djokovic-tien-vao-tu-ket-geneva-open-zverev-chia-tay-hamburg-open-20250522085517511.htm) - 01:56 22/05/2025
