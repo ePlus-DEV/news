@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cán bộ, công chức TP HCM nghỉ việc do tinh giản ngóng tiền hỗ trợ](https://vnexpress.net/can-bo-cong-chuc-tp-hcm-nghi-viec-do-tinh-gian-ngong-tien-ho-tro-4888458.html) - 23:00 21/05/2025
+- 🦒 [Cán bộ, công chức TP HCM ngóng tiền hỗ trợ sau tinh giản](https://vnexpress.net/can-bo-cong-chuc-tp-hcm-ngong-tien-ho-tro-sau-tinh-gian-4888458.html) - 23:00 21/05/2025
 - 🤓 [Học sinh Quảng Bình sắp có thêm 21 nhà vệ sinh, nhà tắm mới](https://vnexpress.net/hoc-sinh-quang-binh-sap-co-them-21-nha-ve-sinh-nha-tam-moi-4888970.html) - 23:00 21/05/2025
 - ⚗️ [Trình Quốc hội phổ cập giáo dục mầm non cho trẻ 3-5 tuổi](https://vnexpress.net/trinh-quoc-hoi-pho-cap-giao-duc-mam-non-cho-tre-3-5-tuoi-4888954.html) - 22:00 21/05/2025
 - 🌊 [Xây lại nút giao 7 năm dở dang trên cao tốc Đà Nẵng - Quảng Ngãi](https://vnexpress.net/xay-lai-nut-giao-7-nam-do-dang-tren-cao-toc-da-nang-quang-ngai-4888733.html) - 17:00 21/05/2025
