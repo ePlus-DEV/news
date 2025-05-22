@@ -4,8 +4,8 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [&#39;Hoa hậu đẹp nhất thế giới&#39; lộng lẫy trên thảm đỏ Cannes](https://vnexpress.net/hoa-hau-dep-nhat-the-gioi-long-lay-tren-tham-do-cannes-4889067.html) - 06:19 22/05/2025
-- 💫 [Duy Mạnh xin lỗi vì quảng cáo &#39;lố&#39;](https://vnexpress.net/duy-manh-xin-loi-vi-quang-cao-lo-4889172.html) - 05:08 22/05/2025
+- 🌏 [&#39;Hoa hậu đẹp nhất thế giới&#39; trên thảm đỏ Cannes](https://vnexpress.net/hoa-hau-dep-nhat-the-gioi-tren-tham-do-cannes-4889067.html) - 06:19 22/05/2025
+- 💫 [Duy Mạnh từng &#39;quảng cáo lố&#39; thực phẩm chức năng](https://vnexpress.net/duy-manh-tung-quang-cao-lo-thuc-pham-chuc-nang-4889172.html) - 05:08 22/05/2025
 - 🌮 [Kieran Culkin và dàn sao đóng phần mới &#39;The Hunger Games&#39;](https://vnexpress.net/kieran-culkin-va-dan-sao-dong-phan-moi-the-hunger-games-4889062.html) - 05:02 22/05/2025
 - 🧠 [Giáo sư Trần Văn Thọ ra sách &#39;Hồi ức đến tương lai&#39;](https://vnexpress.net/giao-su-tran-van-tho-ra-sach-hoi-uc-den-tuong-lai-4888753.html) - 05:00 22/05/2025
 - 👨‍🏫 [Vở cải lương &#39;Gánh cỏ sông Hàn&#39; tái diễn sau 40 năm](https://vnexpress.net/vo-cai-luong-ganh-co-song-han-tai-dien-sau-40-nam-4888348.html) - 04:24 22/05/2025
