@@ -247,7 +247,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- nld:START -->
 - 🐎 [Thủ tướng: Phát triển đồng tiền số phù hợp điều kiện Việt Nam](https://nld.com.vn/thu-tuong-phat-trien-dong-tien-so-phu-hop-dieu-kien-viet-nam-196250522205928198.htm) - 14:40 22/05/2025
 - 😺 [Máy bay lao xuống khu dân cư ở bang California - Mỹ, nhiều nhà và ô tô bốc cháy](https://nld.com.vn/may-bay-lao-xuong-khu-dan-cu-o-bang-california-my-nhieu-nha-va-o-to-boc-chay-196250522204950972.htm) - 14:14 22/05/2025
-- 👍 [Danh sách Ban Lễ tang nguyên Chủ tịch nước Trần Đức Lương](https://nld.com.vn/danh-sach-ban-le-tang-nguyen-chu-tich-nuoc-tran-duc-luong-196250522200258761.htm) - 14:10 22/05/2025
+- 👍 [Danh sách Ban Lễ tang nguyên Chủ tịch nước 
+Trần Đức Lương](https://nld.com.vn/danh-sach-ban-le-tang-nguyen-chu-tich-nuoc-tran-duc-luong-196250522200258761.htm) - 14:10 22/05/2025
 - 🥷 [Tổng Bí thư Tô Lâm đánh giá cao sự thẳng thắn 
 của Ủy ban Kiểm tra Trung ương](https://nld.com.vn/tong-bi-thu-to-lam-danh-gia-cao-su-thang-than-cua-uy-ban-kiem-tra-trung-uong-196250522111807589.htm) - 13:24 22/05/2025
 - 🤔 [Tang lễ nguyên Chủ tịch nước Trần Đức Lương 
