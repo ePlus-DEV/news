@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Đề xuất chuyển trường THPT về xã quản lý](https://vnexpress.net/de-xuat-chuyen-truong-thpt-ve-xa-quan-ly-4889848.html) - 12:47 23/05/2025
+- 🤓 [Tăng quyền quản lý trường học cho cấp xã](https://vnexpress.net/tang-quyen-quan-ly-truong-hoc-cho-cap-xa-4889848.html) - 12:47 23/05/2025
 - 🦆 [Bảng quy đổi điểm chuẩn tham khảo của Đại học Quốc gia Hà Nội](https://vnexpress.net/bang-quy-doi-diem-chuan-hsa-cua-dai-hoc-quoc-gia-ha-noi-4889754.html) - 11:09 23/05/2025
 - 🦩 [Trao bằng kỹ sư loại giỏi cho nữ sinh mất vì tai nạn](https://vnexpress.net/trao-bang-ky-su-loai-gioi-cho-nu-sinh-mat-vi-tai-nan-4889668.html) - 08:41 23/05/2025
 - 🌮 [Có nên học thạc sĩ ngay sau khi tốt nghiệp đại học?](https://vnexpress.net/co-nen-hoc-thac-si-ngay-sau-khi-tot-nghiep-dai-hoc-4887664.html) - 07:45 23/05/2025
