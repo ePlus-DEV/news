@@ -4,9 +4,9 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Luka Modric thông báo thời điểm chia tay Real Madrid](https://dantri.com.vn/the-thao/luka-modric-thong-bao-thoi-diem-chia-tay-real-madrid-20250523130340545.htm) - 06:03 23/05/2025
-- 💯 [UEFA lên tiếng về vụ thiếu huy chương của Son Heung Min](https://dantri.com.vn/the-thao/uefa-len-tieng-ve-vu-thieu-huy-chuong-cua-son-heung-min-20250523121536615.htm) - 05:47 23/05/2025
-- ⛽️ [Malaysia giấu kín &quot;vũ khí bí mật&quot; lợi hại trước trận gặp tuyển Việt Nam](https://dantri.com.vn/the-thao/malaysia-giau-kin-vu-khi-bi-mat-loi-hai-truoc-tran-gap-tuyen-viet-nam-20250523113757059.htm) - 04:38 23/05/2025
+- 🎡 [Malaysia giấu kín &quot;vũ khí bí mật&quot; lợi hại trước trận gặp tuyển Việt Nam](https://dantri.com.vn/the-thao/malaysia-giau-kin-vu-khi-bi-mat-loi-hai-truoc-tran-gap-tuyen-viet-nam-20250523113757059.htm) - 07:38 23/05/2025
+- 💯 [Luka Modric thông báo thời điểm chia tay Real Madrid](https://dantri.com.vn/the-thao/luka-modric-thong-bao-thoi-diem-chia-tay-real-madrid-20250523130340545.htm) - 06:03 23/05/2025
+- ⛽️ [UEFA lên tiếng về vụ thiếu huy chương của Son Heung Min](https://dantri.com.vn/the-thao/uefa-len-tieng-ve-vu-thieu-huy-chuong-cua-son-heung-min-20250523121536615.htm) - 05:47 23/05/2025
 - 💃 [Man Utd trắng tay mùa giải này: Sự thật tàn khốc hay phước lành ngụy trang](https://dantri.com.vn/the-thao/man-utd-trang-tay-mua-giai-nay-su-that-tan-khoc-hay-phuoc-lanh-nguy-trang-20250523015200601.htm) - 02:29 23/05/2025
 - 🌈 [Man Utd rao bán toàn bộ đội hình sau thất bại cay đắng ở Europa League](https://dantri.com.vn/the-thao/man-utd-rao-ban-toan-bo-doi-hinh-sau-that-bai-cay-dang-o-europa-league-20250523080414474.htm) - 01:18 23/05/2025
 - 🦅 [Sinner cùng nhánh đấu bán kết với Djokovic, Zverev ở Roland Garrros](https://dantri.com.vn/the-thao/sinner-cung-nhanh-dau-ban-ket-voi-djokovic-zverev-o-roland-garrros-20250523061703232.htm) - 23:20 22/05/2025
