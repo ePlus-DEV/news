@@ -4,7 +4,7 @@ sidebar_position: 19
 ---
 
 <!-- dantri-lao-dong-viec-lam:START -->
-- ⚗️ [Biến thách thức thành cơ hội với ngành hàng tỷ đô](https://dantri.com.vn/lao-dong-viec-lam/bien-thach-thuc-thanh-co-hoi-voi-nganh-hang-ty-do-20250524174218652.htm) - 11:13 24/05/2025
+- ⚗️ [Biến thách thức thành cơ hội với loại quả &quot;tỷ đô&quot;](https://dantri.com.vn/lao-dong-viec-lam/bien-thach-thuc-thanh-co-hoi-voi-loai-qua-ty-do-20250524174218652.htm) - 11:13 24/05/2025
 - 🙉 [53 người nghỉ hưu trước tuổi, nghỉ thôi việc được chi trả hơn 60 tỷ đồng](https://dantri.com.vn/noi-vu/53-nguoi-nghi-huu-truoc-tuoi-nghi-thoi-viec-duoc-chi-tra-hon-60-ty-dong-20250524145622203.htm) - 08:09 24/05/2025
 - 🕴 [Đan Mạch nâng tuổi nghỉ hưu lên 70, cao nhất châu Âu](https://dantri.com.vn/lao-dong-viec-lam/dan-mach-nang-tuoi-nghi-huu-len-70-cao-nhat-chau-au-20250524143206178.htm) - 07:41 24/05/2025
 - 🧐 [Khám chữa bệnh dưới 351.000 sẽ được miễn phí](https://dantri.com.vn/lao-dong-viec-lam/kham-chua-benh-duoi-351000-se-duoc-mien-phi-20250523143136312.htm) - 03:17 24/05/2025
