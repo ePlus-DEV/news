@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- dantri-kinh-doanh:START -->
-- 🏊 [Hạ đặt thành công thiết bị nặng 100 tấn tại dự án Thủy điện Hòa Bình mở rộng](https://dantri.com.vn/kinh-doanh/ha-dat-thanh-cong-thiet-bi-nang-100-tan-tai-du-an-thuy-dien-hoa-binh-mo-rong-20250524165915480.htm) - 09:59 24/05/2025
+- 🏊 [Hạ đặt thành công thiết bị nặng 110 tấn tại dự án Thủy điện Hòa Bình mở rộng](https://dantri.com.vn/kinh-doanh/ha-dat-thanh-cong-thiet-bi-nang-110-tan-tai-du-an-thuy-dien-hoa-binh-mo-rong-20250524165915480.htm) - 09:59 24/05/2025
 - 🦆 [Thủ tướng chia sẻ về dấu hiệu tích cực trong đàm phán thương mại với Mỹ](https://dantri.com.vn/kinh-doanh/thu-tuong-chia-se-ve-dau-hieu-tich-cuc-trong-dam-phan-thuong-mai-voi-my-20250524155722856.htm) - 09:31 24/05/2025
 - 🦄 [Thủ tướng có chỉ đạo &quot;nóng&quot; về xuất khẩu sầu riêng](https://dantri.com.vn/kinh-doanh/thu-tuong-co-chi-dao-nong-ve-xuat-khau-sau-rieng-20250524130332084.htm) - 09:29 24/05/2025
 - 🌝 [Bỏ đại học, gen Z Mỹ đi làm thợ thu nhập vẫn &quot;khủng&quot;](https://dantri.com.vn/kinh-doanh/bo-dai-hoc-gen-z-my-di-lam-tho-thu-nhap-van-khung-20250520132448960.htm) - 05:39 24/05/2025
