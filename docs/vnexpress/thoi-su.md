@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Mưa lớn cuốn trôi bé gái 10 tuổi](https://vnexpress.net/mua-lon-cuon-troi-be-gai-10-tuoi-4890084.html) - 09:39 24/05/2025
+- 🦒 [Bé gái 10 tuổi bị nước cuốn xuống suối ở TP Biên Hòa](https://vnexpress.net/be-gai-10-tuoi-bi-nuoc-cuon-xuong-suoi-o-tp-bien-hoa-4890084.html) - 09:39 24/05/2025
 - 🤓 [&#39;Giá nhà xã hội thấp vẫn vượt quá khả năng của người lao động&#39;](https://vnexpress.net/gia-nha-xa-hoi-thap-van-vuot-qua-kha-nang-cua-nguoi-lao-dong-4890066.html) - 08:12 24/05/2025
 - ⚗️ [Thả lưới bắt ghẹ trên sông Trường Giang](https://vnexpress.net/tha-luoi-bat-ghe-tren-song-truong-giang-4889666.html) - 07:17 24/05/2025
 - 🌊 [TP HCM đề nghị tạo &#39;luồng xanh&#39; cho sà lan chở cát làm Vành đai 3](https://vnexpress.net/tp-hcm-de-nghi-tao-luong-xanh-cho-sa-lan-cho-cat-lam-vanh-dai-3-4890046.html) - 06:22 24/05/2025
