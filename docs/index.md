@@ -410,8 +410,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Việt Nam, Lào, Campuchia ưu tiên tăng cường hợp tác kết nối ba nền kinh tế](https://baochinhphu.vn/viet-nam-lao-campuchia-uu-tien-tang-cuong-hop-tac-ket-noi-ba-nen-kinh-te-102250525182039953.htm) - 18:32 25/05/2025
-- 🌜 [Thủ tướng Malaysia: Việt Nam đang trải qua những bước tiến lịch sử về kinh tế](https://baochinhphu.vn/thu-tuong-malaysia-viet-nam-dang-trai-qua-nhung-buoc-tien-lich-su-ve-kinh-te-102250525162524988.htm) - 18:25 25/05/2025
+- 💻 [Thủ tướng Malaysia: Việt Nam đang trải qua những bước tiến lịch sử về kinh tế](https://baochinhphu.vn/thu-tuong-malaysia-viet-nam-dang-trai-qua-nhung-buoc-tien-lich-su-ve-kinh-te-102250525162524988.htm) - 18:50 25/05/2025
+- 🌜 [Việt Nam, Lào, Campuchia ưu tiên tăng cường hợp tác kết nối ba nền kinh tế](https://baochinhphu.vn/viet-nam-lao-campuchia-uu-tien-tang-cuong-hop-tac-ket-noi-ba-nen-kinh-te-102250525182039953.htm) - 18:32 25/05/2025
 - 🦆 [Tiếp tục khẳng định sự phát triển mạnh mẽ của quan hệ giữa Pháp và Việt Nam](https://baochinhphu.vn/tiep-tuc-khang-dinh-su-phat-trien-manh-me-cua-quan-he-giua-phap-va-viet-nam-10225052323320122.htm) - 18:20 25/05/2025
 - 🌝 [Việt Nam, Philippines nhất trí tăng cường vai trò trung tâm của ASEAN](https://baochinhphu.vn/viet-nam-philippines-nhat-tri-tang-cuong-vai-tro-trung-tam-cua-asean-102250525174705623.htm) - 18:19 25/05/2025
 - 🦣 [Lời cảm ơn của Ban Lễ tang và gia đình nguyên Chủ tịch nước Trần Đức Lương](https://baochinhphu.vn/loi-cam-on-cua-ban-le-tang-va-gia-dinh-nguyen-chu-tich-nuoc-tran-duc-luong-102250525171050298.htm) - 18:19 25/05/2025
