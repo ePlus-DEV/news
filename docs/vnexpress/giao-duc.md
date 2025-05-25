@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nam sinh tốt nghiệp thủ khoa HV Công nghệ Bưu chính Viễn thông](https://vnexpress.net/cach-hoc-cua-thu-khoa-hoc-vien-cong-nghe-buu-chinh-vien-thong-2025-4889230.html) - 23:11 24/05/2025
+- 🤓 [Thủ khoa HV Công nghệ Bưu chính Viễn thông trúng tuyển Viettel trước tốt nghiệp](https://vnexpress.net/cach-hoc-cua-thu-khoa-hoc-vien-cong-nghe-buu-chinh-vien-thong-2025-4889230.html) - 23:11 24/05/2025
 - 🦆 [Nước nào tiêu thụ ôtô nhiều nhất thế giới?](https://vnexpress.net/nuoc-nao-tieu-thu-oto-nhieu-nhat-the-gioi-4890080.html) - 13:00 24/05/2025
 - 🦩 [Hơn 100 giáo viên bỗng bị đẩy xuống bậc lương thấp nhất](https://vnexpress.net/hon-100-giao-vien-bong-bi-day-xuong-bac-luong-thap-nhat-4889853.html) - 12:00 24/05/2025
 - 🌮 [Đề Văn thi lớp 10 Phổ thông Năng khiếu hỏi quan điểm về công nghệ](https://vnexpress.net/de-van-thi-lop-10-pho-thong-nang-khieu-hoi-quan-diem-ve-cong-nghe-4890057.html) - 10:03 24/05/2025
