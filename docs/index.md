@@ -595,7 +595,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 👺 [Hậu Giang phê duyệt dự án khu công nghệ số 400 tỷ đồng](https://tienphong.vn/hau-giang-phe-duyet-du-an-khu-cong-nghe-so-400-ty-dong-post1745395.tpo) - 21:53 25/05/2025
 - 💪 [NSND Kim Liên qua đời](https://tienphong.vn/nsnd-kim-lien-qua-doi-post1745419.tpo) - 21:51 25/05/2025
 - 💃 [Showbiz 25/5: Hoa hậu Ngô Phương Lan gặp sự cố](https://tienphong.vn/showbiz-255-hoa-hau-ngo-phuong-lan-gap-su-co-post1745422.tpo) - 21:39 25/05/2025
-- 🦍 [Trực tiếp MU vs Aston Villa 0-0 &lpar;Hết H1&rpar;: Martinez nhận thẻ đỏ trực tiếp](https://tienphong.vn/truc-tiep-mu-vs-aston-villa-0-0-het-h1-martinez-nhan-the-do-truc-tiep-post1745411.tpo) - 21:15 25/05/2025
+- 🦍 [Trực tiếp MU vs Aston Villa 0-0 &lpar;H2&rpar;: MU bị từ chối bàn thắng](https://tienphong.vn/truc-tiep-mu-vs-aston-villa-0-0-h2-mu-bi-tu-choi-ban-thang-post1745411.tpo) - 21:15 25/05/2025
 - 👹 [Thủ tướng Phạm Minh Chính được vinh danh là nhà lãnh đạo ASEAN tiêu biểu](https://tienphong.vn/thu-tuong-pham-minh-chinh-duoc-vinh-danh-la-nha-lanh-dao-asean-tieu-bieu-post1745384.tpo) - 20:53 25/05/2025
 - 🌜 [Thủ tướng Việt Nam - Malaysia nhất trí hạn chế áp rào cản thương mại](https://tienphong.vn/thu-tuong-viet-nam-malaysia-nhat-tri-han-che-ap-rao-can-thuong-mai-post1745417.tpo) - 20:27 25/05/2025
 - 🎓 [Từ ngày 1/7, nhà tập thể, chung cư 5 tầng phải mua bảo hiểm cháy nổ bắt buộc](https://tienphong.vn/tu-ngay-17-nha-tap-the-chung-cu-5-tang-phai-mua-bao-hiem-chay-no-bat-buoc-post1745386.tpo) - 20:01 25/05/2025
