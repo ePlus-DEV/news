@@ -527,7 +527,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Trường THCS-THPT Trần Đại Nghĩa mở link đăng ký tham dự khảo sát tuyển sinh lớp 6](https://muctim.tuoitre.vn/truong-thcs-thpt-tran-dai-nghia-mo-link-dang-ky-tham-du-khao-sat-tuyen-sinh-lop-6-101250525153257457.htm) - 09:14 25/05/2025
-- 🥷 [Nữ sinh gây xúc động với lời tri ân &quot;em không muốn đơn độc nữa&quot; nhận học bổng Tiếp sức đến trường](https://muctim.tuoitre.vn/nu-sinh-gay-xuc-dong-voi-loi-tri-an-em-khong-muon-don-doc-nua-nhan-hoc-bong-tiep-suc-den-truong-101250525150548264.htm) - 08:39 25/05/2025
+- 🥷 [Nữ sinh gây xúc động với lời tri ân &#39;em không muốn đơn độc nữa&#39; nhận học bổng Tiếp sức đến trường](https://muctim.tuoitre.vn/nu-sinh-gay-xuc-dong-voi-loi-tri-an-em-khong-muon-don-doc-nua-nhan-hoc-bong-tiep-suc-den-truong-101250525150548264.htm) - 08:39 25/05/2025
 - 🤖 [Khi nào công bố điểm thi lớp 10 Trường Phổ thông Năng khiếu?](https://muctim.tuoitre.vn/khi-nao-cong-bo-diem-thi-lop-10-truong-pho-thong-nang-khieu-101250525082243554.htm) - 08:28 25/05/2025
 - 🤓 [Học bổng Vì tương lai Việt Nam: Vun vén cho tương lai bằng nghị lực và niềm tin vào bản thân](https://muctim.tuoitre.vn/hoc-bong-vi-tuong-lai-viet-nam-vun-ven-cho-tuong-lai-bang-nghi-luc-va-niem-tin-vao-ban-than-101250525132749442.htm) - 06:37 25/05/2025
 - 🎉 [Thi lớp 10 Trường Phổ thông Năng khiếu: thí sinh nói đề sinh học vừa sức](https://muctim.tuoitre.vn/thi-lop-10-truong-pho-thong-nang-khieu-thi-sinh-noi-de-sinh-hoc-vua-suc-101250525124655836.htm) - 06:02 25/05/2025
