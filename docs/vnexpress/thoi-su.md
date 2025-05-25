@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cháy nóc chung cư 15 tầng ở Xuân Đỉnh](https://vnexpress.net/chay-noc-chung-cu-15-tang-o-xuan-dinh-4890353.html) - 14:07 25/05/2025
+- 🦒 [Cháy chung cư 26 tầng ở Xuân Đỉnh](https://vnexpress.net/chay-chung-cu-26-tang-o-xuan-dinh-4890353.html) - 14:07 25/05/2025
 - 🤓 [Hà Tĩnh thiệt hại nặng sau mưa lũ đầu mùa](https://vnexpress.net/ha-tinh-thiet-hai-nang-sau-mua-lu-dau-mua-4890308.html) - 12:26 25/05/2025
 - ⚗️ [Tìm thấy thi thể bé gái bị nước cuốn trôi ở Đồng Nai](https://vnexpress.net/tim-thay-thi-the-be-gai-bi-nuoc-cuon-troi-o-dong-nai-4890316.html) - 10:47 25/05/2025
 - 🌊 [Xe địa hình lao xuống hồ Bàu Trắng, nữ du khách tử vong](https://vnexpress.net/xe-dia-hinh-lao-xuong-ho-bau-trang-nu-du-khach-tu-vong-4890285.html) - 09:06 25/05/2025
