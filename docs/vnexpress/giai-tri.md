@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Ocean Vuong: &#39;Đạo Phật giúp tôi vượt qua áp lực danh vọng&#39;](https://vnexpress.net/ocean-vuong-dao-phat-giup-toi-vuot-qua-ap-luc-danh-vong-4887882.html) - 09:04 25/05/2025
+- 🌏 [Ocean Vuong: Đạo Phật giúp tôi vượt qua áp lực danh vọng](https://vnexpress.net/ocean-vuong-dao-phat-giup-toi-vuot-qua-ap-luc-danh-vong-4887882.html) - 09:04 25/05/2025
 - 💫 [Đại Nghĩa, Đình Toàn đối đầu trong kịch &#39;Ngày xửa ngày xưa 36&#39;](https://vnexpress.net/dai-nghia-dinh-toan-doi-dau-trong-kich-ngay-xua-ngay-xua-36-4890266.html) - 08:35 25/05/2025
 - 🌮 [Hậu trường hóa trang trong phim kinh dị &#39;Dưới đáy hồ&#39;](https://vnexpress.net/hau-truong-hoa-trang-trong-phim-kinh-di-duoi-day-ho-4890234.html) - 05:20 25/05/2025
 - 🧠 [Giá trị lịch sử của ngai vàng triều Nguyễn vừa bị đập gãy](https://vnexpress.net/gia-tri-lich-su-cua-ngai-vang-trieu-nguyen-vua-bi-dap-gay-4890228.html) - 04:56 25/05/2025
