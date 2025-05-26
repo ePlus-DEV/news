@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Jack nộp đơn tố cáo Thiên An đăng thông tin sai sự thật](https://dantri.com.vn/giai-tri/jack-nop-don-to-cao-thien-an-dang-thong-tin-sai-su-that-20250526220751699.htm) - 15:27 26/05/2025
+- 🤩 [Jack nộp đơn tố cáo Thiên An, phủ nhận &quot;bỏ rơi con&quot;](https://dantri.com.vn/giai-tri/jack-nop-don-to-cao-thien-an-phu-nhan-bo-roi-con-20250526220751699.htm) - 15:27 26/05/2025
 - 🔥 [Hoàng Thùy gây sốt với pha xử lý sự cố khi catwalk trên giày cao 20cm](https://dantri.com.vn/giai-tri/hoang-thuy-gay-sot-voi-pha-xu-ly-su-co-khi-catwalk-tren-giay-cao-20cm-20250526152403423.htm) - 14:23 26/05/2025
 - 🚀 [Brooklyn Beckham tuyên bố &quot;luôn chọn vợ&quot; giữa ồn ào rạn nứt với cha mẹ](https://dantri.com.vn/giai-tri/brooklyn-beckham-tuyen-bo-luon-chon-vo-giua-on-ao-ran-nut-voi-cha-me-20250526120716177.htm) - 13:00 26/05/2025
 - 🔥 [Giới trẻ mặc váy cưới, hóa trang thành… quả chuối tại concert SOOBIN](https://dantri.com.vn/giai-tri/gioi-tre-mac-vay-cuoi-hoa-trang-thanh-qua-chuoi-tai-concert-soobin-20250526191837126.htm) - 12:59 26/05/2025
