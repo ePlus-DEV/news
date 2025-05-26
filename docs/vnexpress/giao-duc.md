@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Học sinh tái chế pin để làm sạch nước thải](https://vnexpress.net/nhom-hoc-sinh-viet-duc-gianh-giai-nhi-thi-isef-2025-4888894.html) - 23:00 25/05/2025
+- 🤓 [Học sinh làm sạch nước thải từ pin cũ, giành giải nhì quốc tế](https://vnexpress.net/nhom-hoc-sinh-viet-duc-gianh-giai-nhi-thi-isef-2025-4888894.html) - 23:00 25/05/2025
 - 🦆 [Thị thực du học nghề Australia của người Việt giảm đột biến](https://vnexpress.net/thi-thuc-du-hoc-nghe-australia-cua-nguoi-viet-giam-dot-bien-4886645.html) - 15:11 25/05/2025
 - 🦩 [Loại quả nào dẫn đầu xuất khẩu rau quả năm 2024?](https://vnexpress.net/loai-qua-nao-dan-dau-xuat-khau-rau-qua-nam-2024-4890313.html) - 13:00 25/05/2025
 - 🌮 [Trường Đại học FPT hợp tác với 5 doanh nghiệp logistics](https://vnexpress.net/truong-dai-hoc-fpt-hop-tac-voi-5-doanh-nghiep-logistics-4890332.html) - 13:00 25/05/2025
