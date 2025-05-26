@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [HLV Xabi Alonso tuyên bố hùng hồn trong ngày ra mắt Real Madrid](https://dantri.com.vn/the-thao/hlv-xabi-alonso-tuyen-bo-hung-hon-trong-ngay-ra-mat-real-madrid-20250526212124900.htm) - 14:00 26/05/2025
-- 💯 [Hàng trăm người hâm mộ chào đón Man Utd đến Đông Nam Á](https://dantri.com.vn/the-thao/hang-tram-nguoi-ham-mo-chao-don-man-utd-den-dong-nam-a-20250526202105966.htm) - 13:59 26/05/2025
+- 💯 [Hàng trăm người hâm mộ chào đón Man Utd đến khách sạn ở Malaysia](https://dantri.com.vn/the-thao/hang-tram-nguoi-ham-mo-chao-don-man-utd-den-khach-san-o-malaysia-20250526202105966.htm) - 13:59 26/05/2025
 - ⛽️ [Đánh bại SL Nghệ An, CLB Nam Định tiến sát ngôi vương V-League](https://dantri.com.vn/the-thao/danh-bai-sl-nghe-an-clb-nam-dinh-tien-sat-ngoi-vuong-v-league-20250526203319490.htm) - 13:39 26/05/2025
 - 💃 [Malaysia loại 7 cầu thủ trước khi gặp tuyển Việt Nam](https://dantri.com.vn/the-thao/malaysia-loai-7-cau-thu-truoc-khi-gap-tuyen-viet-nam-20250526194706550.htm) - 13:26 26/05/2025
 - 🌈 [Hà Nội FC chiến thắng trong thế 10 người, ngăn CLB Nam Định vô địch sớm](https://dantri.com.vn/the-thao/ha-noi-fc-chien-thang-trong-the-10-nguoi-ngan-clb-nam-dinh-vo-dich-som-20250526191141579.htm) - 12:11 26/05/2025
