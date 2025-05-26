@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Ôtô lao vào nhà dân, tông nhiều người ở Quảng Ngãi](https://vnexpress.net/oto-lao-vao-nha-dan-tong-nhieu-nguoi-o-quang-ngai-4890501.html) - 03:05 26/05/2025
-- 🤓 [Chìm tàu ở Vũng Áng, 10 người mất tích](https://vnexpress.net/chim-tau-o-vung-ang-10-nguoi-mat-tich-4890474.html) - 02:39 26/05/2025
+- 🤓 [Chìm tàu ở Vũng Áng, 10 người gặp nạn](https://vnexpress.net/chim-tau-o-vung-ang-10-nguoi-gap-nan-4890474.html) - 02:39 26/05/2025
 - ⚗️ [Hai công nhân tử vong nghi ngộ độc khí CO](https://vnexpress.net/hai-cong-nhan-tu-vong-nghi-ngo-doc-khi-co-4890422.html) - 01:15 26/05/2025
 - 🌊 [Cháy 4 nhà ở Bắc Giang](https://vnexpress.net/chay-4-nha-o-bac-giang-4890415.html) - 01:04 26/05/2025
 - 🎓 [TP HCM sẽ làm gì để chuyển 400.000 xe xăng sang xe điện?](https://vnexpress.net/tp-hcm-se-lam-gi-de-chuyen-400-000-xe-xang-sang-xe-dien-4890097.html) - 23:00 25/05/2025
