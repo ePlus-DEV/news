@@ -593,7 +593,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- hoahoctro:START -->
 - 💼 [Người đẹp đăng quang hoa hậu sau khi bạn trai qua đời](https://tienphong.vn/nguoi-dep-dang-quang-hoa-hau-sau-khi-ban-trai-qua-doi-post1745610.tpo) - 22:22 26/05/2025
 - 🎊 [Tống Tổ Nhi trở lại khiến trật tự tiểu hoa đán đảo lộn](https://tienphong.vn/tong-to-nhi-tro-lai-khien-trat-tu-tieu-hoa-dan-dao-lon-post1745685.tpo) - 22:18 26/05/2025
-- 💼 [Bộ trưởng Tài chính: &#39;Nơi nào làm tốt và hiệu quả nhất thì giao quyền&#39;](https://tienphong.vn/bo-truong-tai-chinh-noi-nao-lam-tot-va-hieu-qua-nhat-thi-giao-quyen-post1745755.tpo) - 22:10 26/05/2025
+- 💼 [Sắp chuyển 75 thẩm quyền của Bộ trưởng Tài chính về địa phương?](https://tienphong.vn/sap-chuyen-75-tham-quyen-cua-bo-truong-tai-chinh-ve-dia-phuong-post1745755.tpo) - 22:10 26/05/2025
 - 👺 [Jack đáp trả vụ bỏ rơi con với Thiên An](https://tienphong.vn/jack-dap-tra-vu-bo-roi-con-voi-thien-an-post1745764.tpo) - 22:10 26/05/2025
 - 💪 [Nghệ sĩ Việt cứ lên tivi… là mắc bệnh](https://tienphong.vn/nghe-si-viet-cu-len-tivi-la-mac-benh-post1745705.tpo) - 22:05 26/05/2025
 - 💃 [Báo Tiền Phong ký kết hợp tác với Đại học Giao thông vận tải TPHCM](https://tienphong.vn/bao-tien-phong-ky-ket-hop-tac-voi-dai-hoc-giao-thong-van-tai-tphcm-post1745744.tpo) - 21:42 26/05/2025
