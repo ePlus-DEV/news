@@ -213,46 +213,46 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Chuyện tình cổ tích giữa đời thường của người mẹ đơn thân - Phần 2](https://laodong.vn/gio-thu-9/chuyen-tinh-co-tich-giua-doi-thuong-cua-nguoi-me-don-than-phan-2-1510861.ldo) - 13:00 25/05/2025
-- 📝 [Lịch cắt điện ở Quảng Bình ngày 26-28.5](https://laodong.vn/ban-doc/lich-cat-dien-o-quang-binh-ngay-26-285-1512627.ldo) - 13:00 25/05/2025
-- 🦏 [Tin 20h: Danh tính kẻ bẻ gãy ngai vàng tại điện Thái Hòa](https://laodong.vn/video/tin-20h-danh-tinh-ke-be-gay-ngai-vang-tai-dien-thai-hoa-1512654.ldo) - 13:00 25/05/2025
-- 🦩 [Một ngày 6 vụ vận chuyển xúc xích lậu, hơn 4 tấn tại biên giới Móng Cái](https://laodong.vn/phap-luat/mot-ngay-6-vu-van-chuyen-xuc-xich-lau-hon-4-tan-tai-bien-gioi-mong-cai-1512694.ldo) - 12:58 25/05/2025
-- 🦏 [Dự báo thời tiết ngày mai 26.5 trên cả nước](https://laodong.vn/moi-truong/du-bao-thoi-tiet-ngay-mai-265-tren-ca-nuoc-1512625.ldo) - 12:56 25/05/2025
-- 🧰 [Mưa lũ dồn dập ở Hà Tĩnh vượt kỷ lục](https://laodong.vn/moi-truong/mua-lu-don-dap-o-ha-tinh-vuot-ky-luc-1512685.ldo) - 12:37 25/05/2025
-- 🌊 [Loại trái cây mùa hè người khó ngủ nên ăn thường xuyên](https://laodong.vn/chuyen-nha-minh/loai-trai-cay-mua-he-nguoi-kho-ngu-nen-an-thuong-xuyen-1512690.ldo) - 12:32 25/05/2025
-- 🔥 [Bản tin dự báo thời tiết đêm nay và ngày mai 26.5](https://laodong.vn/video-xa-hoi/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-265-1512607.ldo) - 12:30 25/05/2025
-- 🦒 [Lý do không nâng lương cho công chức nghỉ hưu trước tuổi theo Nghị định 178](https://laodong.vn/ban-doc/ly-do-khong-nang-luong-cho-cong-chuc-nghi-huu-truoc-tuoi-theo-nghi-dinh-178-1512693.ldo) - 12:28 25/05/2025
-- 💼 [Link xem trực tiếp bóng đá Nottingham Forest vs Chelsea](https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-nottingham-forest-vs-chelsea-1512683.ldo) - 12:07 25/05/2025
-- 🤖 [Cập nhật giá vàng chốt phiên 25.5: Lỗ nặng khi lướt sóng](https://laodong.vn/tien-te-dau-tu/cap-nhat-gia-vang-chot-phien-255-lo-nang-khi-luot-song-1512648.ldo) - 12:07 25/05/2025
-- 💪 [Đề xuất Trạm Y tế xã như bệnh viện thu nhỏ, có cả chánh văn phòng, trưởng khoa, phó khoa](https://laodong.vn/y-te/de-xuat-tram-y-te-xa-nhu-benh-vien-thu-nho-co-ca-chanh-van-phong-truong-khoa-pho-khoa-1512211.ldo) - 12:06 25/05/2025
-- 👍 [Bộ Y tế trả lời về mức hưởng phụ cấp nghề đối với viên chức y tế](https://laodong.vn/suc-khoe/bo-y-te-tra-loi-ve-muc-huong-phu-cap-nghe-doi-voi-vien-chuc-y-te-1512215.ldo) - 12:06 25/05/2025
-- 💂 [Việt Nam - Malaysia trở thành hình mẫu hợp tác khu vực](https://laodong.vn/thoi-su/viet-nam-malaysia-tro-thanh-hinh-mau-hop-tac-khu-vuc-1512684.ldo) - 12:03 25/05/2025
-- 🧰 [Thế giới 24h: Rộ tin EU sẽ cấm vĩnh viễn Nord Stream](https://laodong.vn/podcast-tin-tuc/the-gioi-24h-ro-tin-eu-se-cam-vinh-vien-nord-stream-1512682.ldo) - 12:01 25/05/2025
-- 🥷 [Trước Ý Nhi, nhiều mỹ nhân Việt đã lọt Top Model thuyết phục ở Miss World](https://laodong.vn/giai-tri/truoc-y-nhi-nhieu-my-nhan-viet-da-lot-top-model-thuyet-phuc-o-miss-world-1512450.ldo) - 12:00 25/05/2025
-- 💫 [Nóng Sài Gòn: Dự báo đợt mưa to giảm dần ở Nam Bộ từ ngày mai](https://laodong.vn/video-xa-hoi/nong-sai-gon-du-bao-dot-mua-to-giam-dan-o-nam-bo-tu-ngay-mai-1512598.ldo) - 12:00 25/05/2025
-- 🎭 [Mức trợ cấp thất nghiệp dưới 3 triệu đồng khó đảm bảo cuộc sống](https://laodong.vn/cong-doan/muc-tro-cap-that-nghiep-duoi-3-trieu-dong-kho-dam-bao-cuoc-song-1512674.ldo) - 11:55 25/05/2025
-- 😎 [Ngư dân Bình Định chôn cất cá voi theo phong tục](https://laodong.vn/xa-hoi/ngu-dan-binh-dinh-chon-cat-ca-voi-theo-phong-tuc-1512679.ldo) - 11:52 25/05/2025
-- 💄 [Nga - Ukraina thay đổi cách tác chiến, Mỹ buộc phải học gấp](https://laodong.vn/the-gioi/nga-ukraina-thay-doi-cach-tac-chien-my-buoc-phai-hoc-gap-1512666.ldo) - 11:50 25/05/2025
-- 🫣 [Quy định về thành phần Ban Chỉ huy quân sự cơ quan, tổ chức](https://laodong.vn/ban-doc/quy-dinh-ve-thanh-phan-ban-chi-huy-quan-su-co-quan-to-chuc-1512647.ldo) - 11:45 25/05/2025
-- 🧑‍🏫 [Tìm thấy thi thể bé gái 11 tuổi bị nước cuốn trôi trong cơn mưa lớn ở Đồng Nai](https://laodong.vn/xa-hoi/tim-thay-thi-the-be-gai-11-tuoi-bi-nuoc-cuon-troi-trong-con-mua-lon-o-dong-nai-1512680.ldo) - 11:45 25/05/2025
-- 🦣 [Xác minh vụ Hiệu phó trường mầm non ở Phú Quốc bị giáo viên đánh nhập viện](https://laodong.vn/giao-duc/xac-minh-vu-hieu-pho-truong-mam-non-o-phu-quoc-bi-giao-vien-danh-nhap-vien-1512681.ldo) - 11:43 25/05/2025
-- 💫 [Hạm đội Biển Đen Nga tiêu diệt căn cứ Ukraina tại vùng Sumy](https://laodong.vn/ban-tin/ham-doi-bien-den-nga-tieu-diet-can-cu-ukraina-tai-vung-sumy-1512652.ldo) - 11:32 25/05/2025
-- ⛽️ [Lamine Yamal - nét vẽ thiên tài cho giấc mơ Barca sống lại](https://laodong.vn/lao-dong-cuoi-tuan/lamine-yamal-net-ve-thien-tai-cho-giac-mo-barca-song-lai-1510274.ldo) - 11:30 25/05/2025
-- 💫 [Sáp nhập Bộ Chỉ huy quân sự 4 tỉnh thuộc Quân khu 2](https://laodong.vn/thoi-su/sap-nhap-bo-chi-huy-quan-su-4-tinh-thuoc-quan-khu-2-1512672.ldo) - 11:29 25/05/2025
-- 🥸 [Link xem trực tiếp bóng đá Man United vs Aston Villa](https://laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-man-united-vs-aston-villa-1512670.ldo) - 11:25 25/05/2025
-- 🐻 [Cập nhật giá vàng hôm nay, vàng nhẫn, vàng SJC 25.5.2025](https://laodong.vn/infographic/cap-nhat-gia-vang-hom-nay-vang-nhan-vang-sjc-2552025-1512678.ldo) - 11:23 25/05/2025
-- 🪄 [Lên đường cùng môtô phân khối lớn](https://laodong.vn/xe/len-duong-cung-moto-phan-khoi-lon-1512668.ldo) - 11:21 25/05/2025
-- 🧑‍🏫 [Quảng Ninh đón Xá lợi Đức Phật - quốc bảo Ấn Độ](https://laodong.vn/xa-hoi/quang-ninh-don-xa-loi-duc-phat-quoc-bao-an-do-1512658.ldo) - 11:16 25/05/2025
-- 🌊 [Định hình lối chơi của Florian Wirtz tại Liverpool](https://laodong.vn/bong-da-quoc-te/dinh-hinh-loi-choi-cua-florian-wirtz-tai-liverpool-1512646.ldo) - 11:07 25/05/2025
-- 💻 [Dự báo tình trạng hạn hán, thiếu nước từ nay tới cuối tháng 5](https://laodong.vn/moi-truong/du-bao-tinh-trang-han-han-thieu-nuoc-tu-nay-toi-cuoi-thang-5-1512662.ldo) - 11:00 25/05/2025
-- 👨‍🏫 [Lịch cắt điện tại 11 quận, huyện của Hà Nội ngày mai 26.5](https://laodong.vn/ban-doc/lich-cat-dien-tai-11-quan-huyen-cua-ha-noi-ngay-mai-265-1512441.ldo) - 11:00 25/05/2025
-- 🌈 [Đừng gội đầu bằng nước nóng nếu chưa biết những điều này](https://laodong.vn/suc-khoe/dung-goi-dau-bang-nuoc-nong-neu-chua-biet-nhung-dieu-nay-1511353.ldo) - 11:00 25/05/2025
-- 🐲 [Cách sử dụng vitamin A để chăm sóc mái tóc](https://laodong.vn/lam-dep/cach-su-dung-vitamin-a-de-cham-soc-mai-toc-1512109.ldo) - 11:00 25/05/2025
-- 🚀 [Chi tiết mẫu xe huấn luyện viên Kim Sang-sik được tặng](https://laodong.vn/xe/chi-tiet-mau-xe-huan-luyen-vien-kim-sang-sik-duoc-tang-1512616.ldo) - 10:59 25/05/2025
-- 😺 [Dự báo bất ngờ thị trường văn phòng tại Hà Nội trong thời gian tới](https://laodong.vn/bat-dong-san/du-bao-bat-ngo-thi-truong-van-phong-tai-ha-noi-trong-thoi-gian-toi-1512392.ldo) - 10:56 25/05/2025
-- 🕴 [Đình Triệu gửi lời yêu thương đến con gái trước ngày lên tuyển](https://laodong.vn/nuoi-con/dinh-trieu-gui-loi-yeu-thuong-den-con-gai-truoc-ngay-len-tuyen-1512660.ldo) - 10:53 25/05/2025
-- 🌋 [Cuộc sống trong biệt thự sang trọng của ca sĩ Đan Trường](https://laodong.vn/bat-dong-san/cuoc-song-trong-biet-thu-sang-trong-cua-ca-si-dan-truong-1512596.ldo) - 10:52 25/05/2025
-- 💄 [Thủy điện Hòa Bình mùa nước cạn](https://laodong.vn/xa-hoi/thuy-dien-hoa-binh-mua-nuoc-can-1512600.ldo) - 10:49 25/05/2025<!-- laodong:END -->
+- 🗽 [Nghệ An tri ân người có công nhân 78 năm Ngày Thương binh – Liệt sĩ](https://laodong.vn/cong-doan/nghe-an-tri-an-nguoi-co-cong-nhan-78-nam-ngay-thuong-binh--liet-si-1512730.ldo) - 00:02 26/05/2025
+- 📝 [Lý do đường huyết tăng khi ăn rau lá xanh](https://laodong.vn/chuyen-nha-minh/ly-do-duong-huyet-tang-khi-an-rau-la-xanh-1512764.ldo) - 00:00 26/05/2025
+- 🦏 [Hiểu đúng quy định mới về thuốc kê đơn](https://laodong.vn/trac-nghiem/hieu-dung-quy-dinh-moi-ve-thuoc-ke-don-1507392.ldo) - 00:00 26/05/2025
+- 🦩 [6 đặc điểm chính trên khuôn mặt báo hiệu tiểu đường](https://laodong.vn/cac-loai-benh/6-dac-diem-chinh-tren-khuon-mat-bao-hieu-tieu-duong-1510357.ldo) - 00:00 26/05/2025
+- 🦏 [Thải độc gan tự nhiên bằng rau gia vị quen thuộc](https://laodong.vn/dinh-duong-am-thuc/thai-doc-gan-tu-nhien-bang-rau-gia-vi-quen-thuoc-1511744.ldo) - 00:00 26/05/2025
+- 🧰 [Quy định tuổi của Bí thư xã mới nhiệm kỳ 2025-2030](https://laodong.vn/ban-tin/quy-dinh-tuoi-cua-bi-thu-xa-moi-nhiem-ky-2025-2030-1512671.ldo) - 00:00 26/05/2025
+- 🌊 [Tin sáng 26.5: Chỉ đạo mới về Nhà ga T3 của ACV sau loạt khiếm khuyết](https://laodong.vn/podcast-tin-tuc/tin-sang-265-chi-dao-moi-ve-nha-ga-t3-cua-acv-sau-loat-khiem-khuyet-1512675.ldo) - 00:00 26/05/2025
+- 🔥 [Xuất hiện áp thấp gần Trường Sa, gây mưa lớn, có thể mạnh lên](https://laodong.vn/the-gioi/xuat-hien-ap-thap-gan-truong-sa-gay-mua-lon-co-the-manh-len-1512767.ldo) - 23:47 25/05/2025
+- 🦒 [Công nhân nghĩ đủ cách quản lý con cái dịp nghỉ hè](https://laodong.vn/cong-doan/cong-nhan-nghi-du-cach-quan-ly-con-cai-dip-nghi-he-1512702.ldo) - 23:47 25/05/2025
+- 💼 [Tiêm kích Su-25 Nga tập kích, phá hủy phương tiện chiến đấu của Ukraina](https://laodong.vn/ban-tin/tiem-kich-su-25-nga-tap-kich-pha-huy-phuong-tien-chien-dau-cua-ukraina-1512746.ldo) - 23:47 25/05/2025
+- 🤖 [Làm rõ nhóm 11 thanh thiếu niên mang hung khí chạy xe gây rối ở Huế](https://laodong.vn/an-ninh-hinh-su/lam-ro-nhom-11-thanh-thieu-nien-mang-hung-khi-chay-xe-gay-roi-o-hue-1512770.ldo) - 23:46 25/05/2025
+- 💪 [11 thanh thiếu niên mang hung khí náo loạn phố Huế bị tạm giữ](https://laodong.vn/ban-tin/11-thanh-thieu-nien-mang-hung-khi-nao-loan-pho-hue-bi-tam-giu-1512774.ldo) - 23:44 25/05/2025
+- 👍 [Chủ tịch UBND xã sẽ có quyền cho phép sáp nhập, giải thể quỹ trong phạm vi xã](https://laodong.vn/thoi-su/chu-tich-ubnd-xa-se-co-quyen-cho-phep-sap-nhap-giai-the-quy-trong-pham-vi-xa-1512716.ldo) - 23:30 25/05/2025
+- 💂 [Đường bãi biển Hải Tiến, nơi thẳng tắp, nơi cong như con rắn](https://laodong.vn/xa-hoi/duong-bai-bien-hai-tien-noi-thang-tap-noi-cong-nhu-con-ran-1512494.ldo) - 23:30 25/05/2025
+- 🧰 [Hoa hậu Ý Nhi và màn đặt cược - được ăn cả, ngã về không](https://laodong.vn/van-hoa-giai-tri/hoa-hau-y-nhi-va-man-dat-cuoc-duoc-an-ca-nga-ve-khong-1512622.ldo) - 23:30 25/05/2025
+- 🥷 [Thời tiết hôm nay 26.5: Bắc Bộ mưa rải rác, Nam Bộ chiều có nơi mưa to](https://laodong.vn/ban-tin/thoi-tiet-hom-nay-265-bac-bo-mua-rai-rac-nam-bo-chieu-co-noi-mua-to-1512635.ldo) - 23:30 25/05/2025
+- 💫 [Thổ Nhĩ Kỳ cao tay né trừng phạt Mỹ, vẫn trả được hàng tỉ USD tiền khí đốt Nga](https://laodong.vn/the-gioi/tho-nhi-ky-cao-tay-ne-trung-phat-my-van-tra-duoc-hang-ti-usd-tien-khi-dot-nga-1512553.ldo) - 23:29 25/05/2025
+- 🎭 [Dự báo mùa bão 2025 đảo lộn toàn diện vì El Nino, La Nina](https://laodong.vn/the-gioi/du-bao-mua-bao-2025-dao-lon-toan-dien-vi-el-nino-la-nina-1512673.ldo) - 23:15 25/05/2025
+- 😎 [TPHCM sắp xây nút giao gần 400 tỉ đồng gỡ nút thắt kẹt xe cửa ngõ Tây Bắc](https://laodong.vn/xa-hoi/tphcm-sap-xay-nut-giao-gan-400-ti-dong-go-nut-that-ket-xe-cua-ngo-tay-bac-1512655.ldo) - 23:15 25/05/2025
+- 💄 [Không nên ăn mận hậu với muối ớt để tốt cho huyết áp và giảm mỡ máu](https://laodong.vn/dinh-duong-am-thuc/khong-nen-an-man-hau-voi-muoi-ot-de-tot-cho-huyet-ap-va-giam-mo-mau-1512747.ldo) - 23:13 25/05/2025
+- 🫣 [Những trường hợp người dân xây nhà bắt buộc phải mua bảo hiểm cháy, nổ](https://laodong.vn/bat-dong-san/nhung-truong-hop-nguoi-dan-xay-nha-bat-buoc-phai-mua-bao-hiem-chay-no-1512723.ldo) - 23:00 25/05/2025
+- 🧑‍🏫 [Hình ảnh hầm chui gần 800 tỉ đồng sắp hoàn thành ở Hà Nội](https://laodong.vn/xa-hoi/hinh-anh-ham-chui-gan-800-ti-dong-sap-hoan-thanh-o-ha-noi-1512602.ldo) - 23:00 25/05/2025
+- 🦣 [Mẹo xử lý hạ đường huyết nhanh và hiệu quả](https://laodong.vn/ban-tin/meo-xu-ly-ha-duong-huyet-nhanh-va-hieu-qua-1512657.ldo) - 23:00 25/05/2025
+- 💫 [Lao động sẵn sàng rời bỏ công ty nếu môi trường làm việc không tốt](https://laodong.vn/cong-doan/lao-dong-san-sang-roi-bo-cong-ty-neu-moi-truong-lam-viec-khong-tot-1512669.ldo) - 23:00 25/05/2025
+- ⛽️ [Dàn siêu xe gần 400 tỉ đồng di chuyển trên đèo Prenn](https://laodong.vn/xu-huong-xe/dan-sieu-xe-gan-400-ti-dong-di-chuyen-tren-deo-prenn-1512651.ldo) - 23:00 25/05/2025
+- 💫 [Cách ăn rau muống không làm tăng axit uric trong máu vợ đảm nên biết](https://laodong.vn/gia-dinh-hon-nhan/cach-an-rau-muong-khong-lam-tang-axit-uric-trong-mau-vo-dam-nen-biet-1511839.ldo) - 23:00 25/05/2025
+- 🥸 [Tiêu chuẩn làm Chủ tịch Ủy ban Mặt trận Tổ quốc xã, phường](https://laodong.vn/tu-van-phap-luat/tieu-chuan-lam-chu-tich-uy-ban-mat-tran-to-quoc-xa-phuong-1512421.ldo) - 23:00 25/05/2025
+- 🐻 [Ăn nhiều chất xơ có thể giúp giảm hóa chất vĩnh cửu PFAS trong cơ thể](https://laodong.vn/dinh-duong-am-thuc/an-nhieu-chat-xo-co-the-giup-giam-hoa-chat-vinh-cuu-pfas-trong-co-the-1511346.ldo) - 23:00 25/05/2025
+- 🪄 [Lịch cúp nước ở TPHCM ngày 26 và 27.5](https://laodong.vn/ban-doc/lich-cup-nuoc-o-tphcm-ngay-26-va-275-1512599.ldo) - 22:30 25/05/2025
+- 🧑‍🏫 [Cháy chợ ở thị trấn Đông Khê, Cao Bằng](https://laodong.vn/xa-hoi/chay-cho-o-thi-tran-dong-khe-cao-bang-1512743.ldo) - 16:08 25/05/2025
+- 🌊 [Phó Thủ tướng yêu cầu xử lý vụ việc bảo vật quốc gia Ngai vua triều Nguyễn bị phá](https://laodong.vn/van-hoa-giai-tri/pho-thu-tuong-yeu-cau-xu-ly-vu-viec-bao-vat-quoc-gia-ngai-vua-trieu-nguyen-bi-pha-1512744.ldo) - 16:05 25/05/2025
+- 💻 [Bộ Xây dựng tiếp tục phân cấp tối thiểu 50% trên tổng số nhiệm vụ còn giữ lại](https://laodong.vn/xa-hoi/bo-xay-dung-tiep-tuc-phan-cap-toi-thieu-50-tren-tong-so-nhiem-vu-con-giu-lai-1512709.ldo) - 16:03 25/05/2025
+- 👨‍🏫 [Chuyên cơ chở ông Putin lọt giữa đợt UAV Ukraina tấn công](https://laodong.vn/the-gioi/chuyen-co-cho-ong-putin-lot-giua-dot-uav-ukraina-tan-cong-1512739.ldo) - 15:53 25/05/2025
+- 🌈 [Dự báo số ca mắc COVID-19 tăng trong thời gian tới](https://laodong.vn/suc-khoe/du-bao-so-ca-mac-covid-19-tang-trong-thoi-gian-toi-1512732.ldo) - 15:53 25/05/2025
+- 🐲 [Tổng thống Pháp và Phu nhân đến Hà Nội, bắt đầu thăm Việt Nam](https://laodong.vn/the-gioi/tong-thong-phap-va-phu-nhan-den-ha-noi-bat-dau-tham-viet-nam-1512714.ldo) - 15:35 25/05/2025
+- 🚀 [Bóng chuyền Việt Nam ngày  25.5: Tuyển nữ thận trọng ở AVC Nations Cup](https://laodong.vn/the-thao/bong-chuyen-viet-nam-ngay-255-tuyen-nu-than-trong-o-avc-nations-cup-1512688.ldo) - 15:28 25/05/2025
+- 😺 [Dập tắt vụ cháy tại tầng 27 chung cư C2 Xuân Đỉnh trong 45 phút](https://laodong.vn/xa-hoi/dap-tat-vu-chay-tai-tang-27-chung-cu-c2-xuan-dinh-trong-45-phut-1512727.ldo) - 15:21 25/05/2025
+- 🕴 [Tai nạn trên Quốc lộ 12B, 3 trẻ nhỏ ở Hòa Bình bị thương](https://laodong.vn/giao-thong/tai-nan-tren-quoc-lo-12b-3-tre-nho-o-hoa-binh-bi-thuong-1512697.ldo) - 14:34 25/05/2025
+- 🌋 [Nhịp showbiz: Đàn em thân thiết hủy theo dõi Thùy Tiên](https://laodong.vn/giai-tri/nhip-showbiz-dan-em-than-thiet-huy-theo-doi-thuy-tien-1512699.ldo) - 14:33 25/05/2025
+- 💄 [Bắt giữ đối tượng đâm kim tiêm vào đùi 5 học sinh để thỏa mãn thú vui](https://laodong.vn/phap-luat/bat-giu-doi-tuong-dam-kim-tiem-vao-dui-5-hoc-sinh-de-thoa-man-thu-vui-1512713.ldo) - 14:31 25/05/2025<!-- laodong:END -->
 
 ## Báo Người Lao Động
 <!-- nld:START -->
