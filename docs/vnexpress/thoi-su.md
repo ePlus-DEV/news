@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Phút sinh tử trên biển Vũng Áng của thuyền viên tàu chở than](https://vnexpress.net/phut-sinh-tu-tren-bien-vung-ang-cua-thuyen-vien-tau-cho-than-4890761.html) - 13:41 26/05/2025
+- 🦒 [Phút sinh tử của thuyền viên tàu chở than](https://vnexpress.net/phut-sinh-tu-cua-thuyen-vien-tau-cho-than-4890761.html) - 13:41 26/05/2025
 - 🤓 [Cô giáo lao xuống sông cứu nữ sinh](https://vnexpress.net/co-giao-lao-xuong-song-cuu-nu-sinh-4890671.html) - 09:16 26/05/2025
 - ⚗️ [Phấn đấu hoàn thành sáp nhập tỉnh trước 15/8](https://vnexpress.net/phan-dau-hoan-thanh-sap-nhap-tinh-truoc-15-8-4890616.html) - 07:51 26/05/2025
 - 🌊 [CSGT Hà Nội ghi hình phạt nguội xe máy trên 8 tuyến đường](https://vnexpress.net/csgt-ha-noi-ghi-hinh-phat-nguoi-xe-may-tren-8-tuyen-duong-4890606.html) - 07:46 26/05/2025
