@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Hoàn tất thi hành án vụ ông Đinh La Thăng](https://vnexpress.net/hoan-tat-thi-hanh-an-vu-ong-dinh-la-thang-4890726.html) - 10:24 26/05/2025
+- 😎 [Hoàn tất thu hồi tài sản vụ án ông Đinh La Thăng tại TP HCM](https://vnexpress.net/hoan-tat-thu-hoi-tai-san-vu-an-ong-dinh-la-thang-tai-tp-hcm-4890726.html) - 10:24 26/05/2025
 - 🥰 [Bị phạt vì buộc cá 40 kg lên ôtô khoe khắp thành phố](https://vnexpress.net/bi-phat-vi-buoc-ca-40-kg-len-oto-khoe-khap-thanh-pho-4890682.html) - 10:24 26/05/2025
 - 🎓 [Chủ tịch Công ty Sona bị bắt vì ép người lao động nộp nhiều khoản phí](https://vnexpress.net/chu-tich-cong-ty-sona-bi-bat-vi-ep-nguoi-lao-dong-nop-nhieu-khoan-phi-4890721.html) - 09:57 26/05/2025
 - 🤓 [Người chạy xe máy có &#39;CSGT bám trên yên&#39; bị bắt](https://vnexpress.net/nguoi-chay-xe-may-co-csgt-bam-tren-yen-bi-bat-4890669.html) - 08:52 26/05/2025
