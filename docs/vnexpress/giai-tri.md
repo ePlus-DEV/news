@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🌏 [Người Sài Gòn xem hát bội, múa lân hơn 100 năm trước](https://vnexpress.net/nguoi-sai-gon-xem-hat-boi-mua-lan-hon-100-nam-truoc-4890204.html) - 17:00 25/05/2025
 - 💫 [Khương Ngọc làm phim &#39;Cục vàng của ngoại&#39;](https://vnexpress.net/khuong-ngoc-lam-phim-cuc-vang-cua-ngoai-4890290.html) - 12:56 25/05/2025
 - 🌮 [Thời trẻ cơ cực của nghệ sĩ Quang Thắng](https://vnexpress.net/thoi-tre-co-cuc-cua-nghe-si-quang-thang-4887744.html) - 12:02 25/05/2025
-- 🧠 [Ocean Vuong: Đạo Phật giúp tôi vượt qua áp lực danh vọng](https://vnexpress.net/ocean-vuong-dao-phat-giup-toi-vuot-qua-ap-luc-danh-vong-4887882.html) - 09:04 25/05/2025
+- 🧠 [Ocean Vuong: Đạo Phật giúp tôi vượt áp lực danh vọng](https://vnexpress.net/ocean-vuong-dao-phat-giup-toi-vuot-ap-luc-danh-vong-4887882.html) - 09:04 25/05/2025
 - 👨‍🏫 [Đại Nghĩa, Đình Toàn đối đầu trong kịch &#39;Ngày xửa ngày xưa 36&#39;](https://vnexpress.net/dai-nghia-dinh-toan-doi-dau-trong-kich-ngay-xua-ngay-xua-36-4890266.html) - 08:35 25/05/2025
 - ⚗️ [Hậu trường hóa trang trong phim kinh dị &#39;Dưới đáy hồ&#39;](https://vnexpress.net/hau-truong-hoa-trang-trong-phim-kinh-di-duoi-day-ho-4890234.html) - 05:20 25/05/2025
 - 😎 [Giá trị lịch sử của ngai vàng triều Nguyễn vừa bị đập gãy](https://vnexpress.net/gia-tri-lich-su-cua-ngai-vang-trieu-nguyen-vua-bi-dap-gay-4890228.html) - 04:56 25/05/2025
