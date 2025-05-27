@@ -4,7 +4,7 @@ sidebar_position: 27
 ---
 
 <!-- dantri-dmagazine:START -->
-- 👨‍🏫 [Lamine Yamal ở tuổi 17: Cá tính Ronaldo và kỹ năng siêu đẳng của Messi](https://dantri.com.vn/the-thao/lamine-yamal-o-tuoi-17-ca-tinh-ronaldo-va-ky-nang-sieu-dang-cua-messi-20250520155027159.htm) - 08:15 27/05/2025
+- 👨‍🏫 [Lamine Yamal ở tuổi 17: Cá tính Ronaldo và kỹ năng siêu đẳng của Messi](https://dantri.com.vn/the-thao/lamine-yamal-o-tuoi-17-ca-tinh-ronaldo-va-ky-nang-sieu-dang-cua-messi-20250520155027159.htm) - 11:00 27/05/2025
 - 🎡 [Khám phá robot và các &quot;siêu máy&quot; AI mổ cột sống, thần kinh tiên phong tại Việt Nam](https://dantri.com.vn/suc-khoe/kham-pha-robot-va-cac-sieu-may-ai-mo-cot-song-than-kinh-tien-phong-tai-viet-nam-20250521133757492.htm) - 01:00 22/05/2025
 - 😎 [Khu đô thị Hồng Hạc City - Dấu ấn tiên phong mới của Phú Mỹ Hưng tại Bắc Ninh](https://dantri.com.vn/bat-dong-san/khu-do-thi-hong-hac-city-dau-an-tien-phong-moi-cua-phu-my-hung-tai-bac-ninh-20250518230233503.htm) - 03:00 19/05/2025
 - 🦍 [&quot;Bà mụ&quot; 18 năm bám bản: Không tin mình còn sống sau bao lần vượt đèo đỡ đẻ](https://dantri.com.vn/suc-khoe/ba-mu-18-nam-bam-ban-khong-tin-minh-con-song-sau-bao-lan-vuot-deo-do-de-20250516122341750.htm) - 21:44 18/05/2025
