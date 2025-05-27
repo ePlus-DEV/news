@@ -47,7 +47,7 @@ sidebar_position: 11
 - 🎭 [Ngôi chùa với hàng trăm cây thốt nốt cổ thụ](https://vnexpress.net/ngoi-chua-voi-hang-tram-cay-thot-not-co-thu-4888833.html) - 17:09 21/05/2025
 - 🧐 [Tháp 650 năm ở Trung Quốc sập mái khi đang đón khách](https://vnexpress.net/thap-650-nam-o-trung-quoc-sap-mai-khi-dang-don-khach-4888941.html) - 13:38 21/05/2025
 - 💡 [Trà sữa Thái - món bình dân gây &#39;bùng nổ&#39;](https://vnexpress.net/tra-sua-thai-mon-binh-dan-gay-bung-no-4888705.html) - 12:00 21/05/2025
-- 🌊 [Hà Nội, Bangkok vào danh sách điểm đến dễ gặp &#39;bẫy du lịch&#39;](https://vnexpress.net/ha-noi-bangkok-vao-danh-sach-diem-den-de-gap-bay-du-lich-4888596.html) - 08:45 21/05/2025
+- 🌊 [Hà Nội, Bangkok nhận nhiều cảnh báo về &#39;bẫy du lịch&#39;](https://vnexpress.net/ha-noi-bangkok-nhan-nhieu-canh-bao-ve-bay-du-lich-4888596.html) - 08:45 21/05/2025
 - 🎃 [Những điểm mới ở Lễ hội pháo hoa Đà Nẵng 2025](https://vnexpress.net/nhung-diem-moi-o-le-hoi-phao-hoa-da-nang-2025-4887814.html) - 07:00 21/05/2025
 - 🧠 [Gợi ý ăn ở, đi lại và khám phá cho runner đến Hạ Long](https://vnexpress.net/goi-y-an-o-di-lai-va-kham-pha-cho-runner-den-ha-long-4888555.html) - 06:00 21/05/2025
 - 💄 [Quán cà phê &#39;bãi biển&#39; hút khách tại TP HCM](https://vnexpress.net/quan-ca-phe-bai-bien-hut-khach-tai-tp-hcm-4888114.html) - 04:40 21/05/2025
