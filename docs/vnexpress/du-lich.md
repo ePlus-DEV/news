@@ -4,12 +4,12 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Hà Nội mở tour đêm &#39;Tiếng chuông Trấn Vũ&#39;](https://vnexpress.net/ha-noi-mo-tour-dem-tieng-chuong-tran-vu-4890951.html) - 03:56 27/05/2025
-- 🪄 [Trung Quốc kỳ vọng tàu liên vận Hà Nội - Nam Ninh hút thêm khách](https://vnexpress.net/trung-quoc-ky-vong-tau-lien-van-ha-noi-nam-ninh-hut-them-khach-4890916.html) - 03:39 27/05/2025
-- 🦅 [Chùa Chuông - danh lam phố Hiến trước ngày đón xá lợi Phật](https://vnexpress.net/chua-chuong-danh-lam-pho-hien-truoc-ngay-don-xa-loi-phat-4890589.html) - 00:00 27/05/2025
-- 🕴 [Cùng đầu bếp thử quán chè 25 năm ở phố cổ Hà Nội](https://vnexpress.net/cung-dau-bep-thu-quan-che-25-nam-o-pho-co-ha-noi-4890110.html) - 17:09 26/05/2025
-- 👀 [8 cách các bảo tàng trên thế giới bảo vệ cổ vật](https://vnexpress.net/8-cach-cac-bao-tang-tren-the-gioi-bao-ve-co-vat-4890674.html) - 12:30 26/05/2025
-- 🎭 [Bộ vật phẩm miễn phí cho người tham dự giải marathon Quy Nhơn](https://vnexpress.net/bo-vat-pham-mien-phi-cho-nguoi-tham-du-giai-marathon-quy-nhon-4890525.html) - 12:00 26/05/2025
+- 💂 [Mở tuyến tàu du lịch Quy Nhơn - Diêu Trì](https://vnexpress.net/mo-tuyen-tau-du-lich-quy-nhon-dieu-tri-4891136.html) - 09:01 27/05/2025
+- 🪄 [Hà Nội mở tour đêm &#39;Tiếng chuông Trấn Vũ&#39;](https://vnexpress.net/ha-noi-mo-tour-dem-tieng-chuong-tran-vu-4890951.html) - 03:56 27/05/2025
+- 🦅 [Trung Quốc kỳ vọng tàu liên vận Hà Nội - Nam Ninh hút thêm khách](https://vnexpress.net/trung-quoc-ky-vong-tau-lien-van-ha-noi-nam-ninh-hut-them-khach-4890916.html) - 03:39 27/05/2025
+- 🕴 [Chùa Chuông - danh lam phố Hiến trước ngày đón xá lợi Phật](https://vnexpress.net/chua-chuong-danh-lam-pho-hien-truoc-ngay-don-xa-loi-phat-4890589.html) - 00:00 27/05/2025
+- 👀 [Cùng đầu bếp thử quán chè 25 năm ở phố cổ Hà Nội](https://vnexpress.net/cung-dau-bep-thu-quan-che-25-nam-o-pho-co-ha-noi-4890110.html) - 17:09 26/05/2025
+- 🎭 [8 cách các bảo tàng trên thế giới bảo vệ cổ vật](https://vnexpress.net/8-cach-cac-bao-tang-tren-the-gioi-bao-ve-co-vat-4890674.html) - 12:30 26/05/2025
 - 🦒 [Nơi nghỉ hưu của voi bị bóc lột ở Thái Lan](https://vnexpress.net/noi-nghi-huu-cua-voi-bi-boc-lot-o-thai-lan-4890475.html) - 08:47 26/05/2025
 - 👨‍🏫 [Loạt trải nghiệm tại Da Nang Downtown dịp sinh nhật một tuổi](https://vnexpress.net/loat-trai-nghiem-tai-da-nang-downtown-dip-sinh-nhat-mot-tuoi-4890587.html) - 06:00 26/05/2025
 - ⚗️ [Nỗi lo của du khách Mỹ](https://vnexpress.net/noi-lo-cua-du-khach-my-4890519.html) - 05:00 26/05/2025
