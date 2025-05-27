@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Tài xế xe ba gác đi ngược chiều chặn đầu ôtô bị phạt 33,5 triệu đồng](https://vnexpress.net/tai-xe-xe-ba-gac-di-nguoc-chieu-chan-dau-oto-bi-phat-33-5-trieu-dong-4891245.html) - 10:30 27/05/2025
+- 🦒 [Đi ngược chiều chặn đầu ôtô, tài xế xe ba gác bị phạt](https://vnexpress.net/di-nguoc-chieu-chan-dau-oto-tai-xe-xe-ba-gac-bi-phat-4891245.html) - 10:30 27/05/2025
 - 🤓 [Bùn tràn ra phố từ dự án metro Nhổn - ga Hà Nội](https://vnexpress.net/bun-tran-ra-pho-tu-du-an-metro-nhon-ga-ha-noi-4891216.html) - 10:27 27/05/2025
 - ⚗️ [Xây thêm cầu nối Bình Dương với Đồng Nai](https://vnexpress.net/xay-them-cau-noi-binh-duong-voi-dong-nai-4891207.html) - 09:43 27/05/2025
 - 🌊 [Nhà nước khuyến khích tư nhân tham gia dự án đường sắt](https://vnexpress.net/nha-nuoc-khuyen-khich-tu-nhan-tham-gia-du-an-duong-sat-4891208.html) - 09:41 27/05/2025
