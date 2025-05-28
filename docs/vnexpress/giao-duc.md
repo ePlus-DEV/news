@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Cô gái giành học bổng Mỹ bằng hồ sơ &#39;không tên tuổi lớn&#39;](https://vnexpress.net/co-gai-gianh-hoc-bong-my-bang-ho-so-khong-ten-tuoi-lon-4891316.html) - 22:00 28/05/2025
+- 🤓 [Cô gái giành học bổng MBA ở Mỹ bằng hồ sơ &#39;không tên tuổi lớn&#39;](https://vnexpress.net/co-gai-gianh-hoc-bong-mba-o-my-bang-ho-so-khong-ten-tuoi-lon-4891316.html) - 22:00 28/05/2025
 - 🦆 [Du học sinh cần làm gì khi Mỹ có thể dừng phỏng vấn visa?](https://vnexpress.net/du-hoc-sinh-can-lam-gi-khi-my-co-the-dung-phong-van-visa-4891399.html) - 17:00 28/05/2025
 - 🦩 [Thêm một trường đại học được đào tạo bác sĩ Răng-Hàm-Mặt](https://vnexpress.net/them-mot-truong-dai-hoc-duoc-dao-tao-bac-si-rang-ham-mat-4891698.html) - 14:39 28/05/2025
 - 🌮 [Nước nào có mức sinh thấp nhất Đông Nam Á?](https://vnexpress.net/nuoc-nao-co-muc-sinh-thap-nhat-dong-nam-a-4891684.html) - 13:01 28/05/2025
