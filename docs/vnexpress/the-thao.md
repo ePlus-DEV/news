@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Nhi Yến giành HC đồng 100m châu Á](https://vnexpress.net/nhi-yen-gianh-hc-dong-100m-chau-a-4891711.html) - 13:06 28/05/2025
 - 🦩 [Dàn elite giữ nhịp tập để tranh bục VM Hạ Long](https://vnexpress.net/dan-elite-giu-nhip-tap-de-tranh-buc-vm-ha-long-4891579.html) - 13:00 28/05/2025
-- 🧰 [ASEAN All-stars 0-0 Man Utd &lpar;H1&rpar;: Khách suýt mở tỷ số](https://vnexpress.net/asean-all-stars-v-mu-4891704.html) - 12:01 28/05/2025
+- 🧰 [ASEAN All-stars đánh bại Man Utd](https://vnexpress.net/asean-all-stars-v-mu-4891704.html) - 12:01 28/05/2025
 - 🤗 [Henry: &#39;Man Utd đã chơi 5 trận chung kết, Arsenal thì không&#39;](https://vnexpress.net/henry-man-utd-da-choi-5-tran-chung-ket-arsenal-thi-khong-4891638.html) - 09:39 28/05/2025
 - 🥳 [Zidane: &#39;Tôi chưa từng thấy cầu thủ nào như Yamal&#39;](https://vnexpress.net/zidane-toi-chua-tung-thay-cau-thu-nao-nhu-yamal-4891184.html) - 09:35 28/05/2025
 - 🦣 [Heineken đưa fan Việt đến Munich xem chung kết Champions League](https://vnexpress.net/heineken-dua-fan-viet-den-munich-xem-chung-ket-champions-league-4891605.html) - 09:00 28/05/2025
