@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Đi xe địa hình ở sa mạc Dubai &#39;phê mà không sợ&#39;](https://vnexpress.net/di-xe-dia-hinh-o-sa-mac-dubai-phe-ma-khong-so-4891102.html) - 12:00 28/05/2025
+- 💂 [Khách Việt kể trải nghiệm vượt sa mạc &#39;phê mà không sợ&#39; ở Dubai](https://vnexpress.net/khach-viet-ke-trai-nghiem-vuot-sa-mac-phe-ma-khong-so-o-dubai-4891102.html) - 12:00 28/05/2025
 - 🪄 [Du khách bị cuốn lên độ cao máy bay khi chơi dù lượn](https://vnexpress.net/du-khach-bi-cuon-len-do-cao-may-bay-khi-choi-du-luon-4891634.html) - 10:11 28/05/2025
 - 🦅 [Cuộc sống không như mơ ở &#39;thiên đường&#39;](https://vnexpress.net/cuoc-song-khong-nhu-mo-o-thien-duong-4891434.html) - 05:35 28/05/2025
 - 🕴 [Việt Nam trong top điểm đến có nhiều review du lịch &#39;ảo&#39;](https://vnexpress.net/viet-nam-trong-top-diem-den-co-nhieu-review-du-lich-ao-4891159.html) - 03:14 28/05/2025
