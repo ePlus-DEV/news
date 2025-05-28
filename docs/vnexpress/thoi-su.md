@@ -9,7 +9,7 @@ sidebar_position: 1
 - ⚗️ [Đà Nẵng đề nghị Quảng Nam phối hợp bình ổn giá cát xây dựng](https://vnexpress.net/da-nang-de-nghi-quang-nam-phoi-hop-binh-on-gia-cat-xay-dung-4891308.html) - 17:00 27/05/2025
 - 🌊 [Tổng Bí thư: Công tác cán bộ phải có tầm nhìn xa](https://vnexpress.net/tong-bi-thu-cong-tac-can-bo-phai-co-tam-nhin-xa-4891310.html) - 16:29 27/05/2025
 - 🎓 [Ôtô tông hai xe máy, 4 người bị thương](https://vnexpress.net/oto-tong-hai-xe-may-4-nguoi-bi-thuong-4891306.html) - 15:48 27/05/2025
-- 🔥 [Người đàn ông tử vong do bị lốp xe tải văng trúng](https://vnexpress.net/nguoi-dan-ong-tu-vong-do-bi-lop-xe-tai-vang-trung-4891298.html) - 14:21 27/05/2025
+- 🔥 [Người đàn ông tử vong do lốp xe tải văng trúng](https://vnexpress.net/nguoi-dan-ong-tu-vong-do-lop-xe-tai-vang-trung-4891298.html) - 14:21 27/05/2025
 - 🦏 [Đi ngược chiều chặn đầu ôtô, tài xế xe ba gác bị phạt](https://vnexpress.net/di-nguoc-chieu-chan-dau-oto-tai-xe-xe-ba-gac-bi-phat-4891245.html) - 10:30 27/05/2025
 - 👺 [Bùn tràn ra phố từ dự án metro Nhổn - ga Hà Nội](https://vnexpress.net/bun-tran-ra-pho-tu-du-an-metro-nhon-ga-ha-noi-4891216.html) - 10:27 27/05/2025
 - 🧑‍🏫 [Xây thêm cầu nối Bình Dương với Đồng Nai](https://vnexpress.net/xay-them-cau-noi-binh-duong-voi-dong-nai-4891207.html) - 09:43 27/05/2025
