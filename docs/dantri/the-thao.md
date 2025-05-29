@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [U23 Việt Nam may mắn rơi vào bảng đấu nhẹ ký tại vòng loại giải châu Á](https://dantri.com.vn/the-thao/u23-viet-nam-may-man-roi-vao-bang-dau-nhe-ky-tai-vong-loai-giai-chau-a-20250529150512874.htm) - 08:09 29/05/2025
-- 💯 [Báo quốc tế đánh giá cao cầu thủ Việt Nam sau khi rực sáng trước Man Utd](https://dantri.com.vn/the-thao/bao-quoc-te-danh-gia-cao-cau-thu-viet-nam-sau-khi-ruc-sang-truoc-man-utd-20250529125249102.htm) - 05:52 29/05/2025
+- 🎡 [Báo quốc tế đánh giá cao cầu thủ Việt Nam sau khi rực sáng trước Man Utd](https://dantri.com.vn/the-thao/bao-quoc-te-danh-gia-cao-cau-thu-viet-nam-sau-khi-ruc-sang-truoc-man-utd-20250529125249102.htm) - 09:02 29/05/2025
+- 💯 [U23 Việt Nam may mắn rơi vào bảng đấu nhẹ ký tại vòng loại giải châu Á](https://dantri.com.vn/the-thao/u23-viet-nam-may-man-roi-vao-bang-dau-nhe-ky-tai-vong-loai-giai-chau-a-20250529150512874.htm) - 08:09 29/05/2025
 - ⛽️ [Hoàng Đức: &quot;Tôi luôn quan sát Bruno Fernandes để học hỏi&quot;](https://dantri.com.vn/the-thao/hoang-duc-toi-luon-quan-sat-bruno-fernandes-de-hoc-hoi-20250529133912048.htm) - 05:51 29/05/2025
 - 💃 [Chuyên gia: “Man Utd nên thắng ở trận đấu họ kiếm được nhiều tiền&quot;](https://dantri.com.vn/the-thao/chuyen-gia-man-utd-nen-thang-o-tran-dau-ho-kiem-duoc-nhieu-tien-20250529121017821.htm) - 05:45 29/05/2025
 - 🌈 [Quang Dương bị đình chỉ ở giải đấu pickleball tại Mỹ](https://dantri.com.vn/the-thao/quang-duong-bi-dinh-chi-o-giai-dau-pickleball-tai-my-20250529103415306.htm) - 03:49 29/05/2025
