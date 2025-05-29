@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Tuyển thủ Việt Nam săn Bruno Fernandes, nâng cup trước Man Utd](https://vnexpress.net/tuyen-thu-viet-nam-san-bruno-fernandes-nang-cup-truoc-man-utd-4891997.html) - 05:27 29/05/2025
+- 🪜 [Tuyển thủ Việt Nam săn Bruno, nâng Cup trước Man Utd](https://vnexpress.net/tuyen-thu-viet-nam-san-bruno-nang-cup-truoc-man-utd-4891997.html) - 05:00 29/05/2025
 - 🦩 [Hai Long nhận điểm cao bậc nhất đội Các ngôi sao Đông Nam Á](https://vnexpress.net/hai-long-nhan-diem-cao-bac-nhat-doi-cac-ngoi-sao-dong-nam-a-4891932.html) - 04:18 29/05/2025
 - 🧰 [Thủ tướng Malaysia chúc Man Utd trụ hạng mùa sau](https://vnexpress.net/thu-tuong-malaysia-chuc-man-utd-tru-hang-mua-sau-4891872.html) - 03:27 29/05/2025
 - 🤗 [Swiatek thắng 10 set liên tiếp trước Raducanu](https://vnexpress.net/swiatek-thang-10-set-lien-tiep-truoc-raducanu-4891854.html) - 02:47 29/05/2025
