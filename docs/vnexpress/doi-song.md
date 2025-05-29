@@ -4,8 +4,8 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Nên làm gì trong Tết Đoan ngọ?](https://vnexpress.net/nen-lam-gi-trong-tet-doan-ngo-4891672.html) - 01:00 29/05/2025
-- 🎓 [Gen Z overthinking vì tin nhắn](https://vnexpress.net/gen-z-overthinking-vi-tin-nhan-4889217.html) - 23:28 28/05/2025
+- 🚀 [Căng thẳng vì đoán cảm xúc qua tin nhắn](https://vnexpress.net/cang-thang-vi-doan-cam-xuc-qua-tin-nhan-4889217.html) - 02:15 29/05/2025
+- 🎓 [Nên làm gì trong Tết Đoan ngọ?](https://vnexpress.net/nen-lam-gi-trong-tet-doan-ngo-4891672.html) - 01:00 29/05/2025
 - 🚦 [Những kiểu người thích và không thích đi họp lớp](https://vnexpress.net/nhung-kieu-nguoi-thich-va-khong-thich-di-hop-lop-4607816.html) - 23:06 28/05/2025
 - 🦣 [8 lý do quyết định bạn giàu hay nghèo](https://vnexpress.net/8-ly-do-quyet-dinh-ban-giau-hay-ngheo-4610587.html) - 12:56 28/05/2025
 - 🎓 [Tắm thế nào đúng cách?](https://vnexpress.net/tam-the-nao-dung-cach-4608330.html) - 12:00 28/05/2025
