@@ -9,7 +9,7 @@ sidebar_position: 1
 - ⚗️ [Khởi công mở rộng cao tốc xuyên vườn quốc gia Bạch Mã](https://vnexpress.net/khoi-cong-mo-rong-cao-toc-xuyen-vuon-quoc-gia-bach-ma-4891939.html) - 04:41 29/05/2025
 - 🌊 [Tổng Bí thư: Không quốc gia nào hùng cường khi khoa học công nghệ yếu kém](https://vnexpress.net/tong-bi-thu-khong-quoc-gia-nao-hung-cuong-khi-khoa-hoc-cong-nghe-yeu-kem-4891941.html) - 04:29 29/05/2025
 - 🎓 [Lũ quét tàn phá xã biên giới Nghệ An](https://vnexpress.net/lu-quet-tan-pha-xa-bien-gioi-nghe-an-4891936.html) - 04:10 29/05/2025
-- 🔥 [Đầu taxi găm chặt đuôi xe tải, tài xế tử vong](https://vnexpress.net/dau-taxi-gam-chat-duoi-xe-tai-tai-xe-tu-vong-4891928.html) - 04:04 29/05/2025
+- 🔥 [Ôtô tông loạt xe máy ở Lào Cai](https://vnexpress.net/oto-tong-loat-xe-may-o-lao-cai-4891928.html) - 04:04 29/05/2025
 - 🦏 [Dừng hút nước tìm kiếm nạn nhân mất tích ở &#39;hố tử thần&#39;](https://vnexpress.net/dung-hut-nuoc-tim-kiem-nan-nhan-mat-tich-o-ho-tu-than-4891850.html) - 03:15 29/05/2025
 - 👺 [Hàng chục người la hét trên xe khách gặp nạn](https://vnexpress.net/hang-chuc-nguoi-la-het-tren-xe-khach-gap-nan-4891856.html) - 02:46 29/05/2025
 - 🧑‍🏫 [Hiện trạng Trường đua Phú Thọ sẽ mở 5 đường xuyên qua](https://vnexpress.net/hien-trang-truong-dua-phu-tho-se-mo-5-duong-xuyen-qua-4891716.html) - 23:00 28/05/2025
