@@ -4,12 +4,12 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Cầu thủ Inter muốn phục hận ở chung kết Champions League](https://vnexpress.net/cau-thu-inter-muon-phuc-han-o-chung-ket-champions-league-4892074.html) - 09:29 29/05/2025
-- 🦩 [Cơ hội trong mơ với các VĐV tại giải bóng rổ trẻ VnExpress - Cup Ziaja](https://vnexpress.net/co-hoi-trong-mo-voi-cac-vdv-tai-giai-bong-ro-tre-vnexpress-cup-ziaja-4892111.html) - 09:00 29/05/2025
-- 🧰 [Platini: &#39;Đừng bắt Mbappe chơi như Messi hay Zidane&#39;](https://vnexpress.net/platini-dung-bat-mbappe-choi-nhu-messi-hay-zidane-4891677.html) - 08:55 29/05/2025
-- 🤗 [Việt Nam vào bảng nhẹ ở vòng loại U23 châu Á 2026](https://vnexpress.net/viet-nam-vao-bang-nhe-o-vong-loai-u23-chau-a-2026-4892122.html) - 08:50 29/05/2025
-- 🥳 [Flavio Cobolli - từ sân bóng AS Roma đến hy vọng quần vợt Italy](https://vnexpress.net/flavio-cobolli-tu-san-bong-as-roma-den-hy-vong-quan-vot-italy-4890852.html) - 08:45 29/05/2025
-- 🦣 [VnExpress Marathon lần đầu đến miền Tây](https://vnexpress.net/vnexpress-marathon-lan-dau-den-mien-tay-4883617.html) - 08:00 29/05/2025
+- 🪜 [Những lưu ý khi chạy bộ dưới mưa lớn](https://vnexpress.net/nhung-luu-y-khi-chay-bo-duoi-mua-lon-4892090.html) - 11:00 29/05/2025
+- 🦩 [Cầu thủ Inter muốn phục hận ở chung kết Champions League](https://vnexpress.net/cau-thu-inter-muon-phuc-han-o-chung-ket-champions-league-4892074.html) - 09:29 29/05/2025
+- 🧰 [Cơ hội trong mơ với các VĐV tại giải bóng rổ trẻ VnExpress - Cup Ziaja](https://vnexpress.net/co-hoi-trong-mo-voi-cac-vdv-tai-giai-bong-ro-tre-vnexpress-cup-ziaja-4892111.html) - 09:00 29/05/2025
+- 🤗 [Platini: &#39;Đừng bắt Mbappe chơi như Messi hay Zidane&#39;](https://vnexpress.net/platini-dung-bat-mbappe-choi-nhu-messi-hay-zidane-4891677.html) - 08:55 29/05/2025
+- 🥳 [Việt Nam vào bảng nhẹ ở vòng loại U23 châu Á 2026](https://vnexpress.net/viet-nam-vao-bang-nhe-o-vong-loai-u23-chau-a-2026-4892122.html) - 08:50 29/05/2025
+- 🦣 [Flavio Cobolli - từ sân bóng AS Roma đến hy vọng quần vợt Italy](https://vnexpress.net/flavio-cobolli-tu-san-bong-as-roma-den-hy-vong-quan-vot-italy-4890852.html) - 08:45 29/05/2025
 - 🌜 [Bên trong mùa giải tệ hại của Man Utd](https://vnexpress.net/ben-trong-mua-giai-te-hai-cua-man-utd-4891113.html) - 07:47 29/05/2025
 - 🫶 [Vua cờ Gukesh đả bại kỳ thủ số hai thế giới](https://vnexpress.net/vua-co-gukesh-da-bai-ky-thu-so-hai-the-gioi-4891961.html) - 07:30 29/05/2025
 - 🌜 [Tuyển thủ Việt Nam săn Bruno, nâng Cup trước Man Utd](https://vnexpress.net/tuyen-thu-viet-nam-san-bruno-nang-cup-truoc-man-utd-4891997.html) - 05:00 29/05/2025
