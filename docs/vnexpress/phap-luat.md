@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Cảnh sát truy tìm ông chủ người Việt của công ty ở Campuchia](https://vnexpress.net/canh-sat-truy-tim-ong-chu-nguoi-viet-cua-cong-ty-o-campuchia-4892440.html) - 06:07 30/05/2025
 - 🥰 [Nam sinh đánh cắp hàng chục triệu thông tin cá nhân](https://vnexpress.net/nam-sinh-danh-cap-hang-chuc-trieu-thong-tin-ca-nhan-4892140.html) - 06:02 30/05/2025
-- 🎓 [Ông Trần Đình Triển từ chối 15 luật sư bào chữa](https://vnexpress.net/ong-tran-dinh-trien-tu-choi-15-luat-su-bao-chua-4892432.html) - 05:57 30/05/2025
+- 🎓 [Ông Trần Đình Triển muốn tự bào chữa](https://vnexpress.net/ong-tran-dinh-trien-muon-tu-bao-chua-4892432.html) - 05:57 30/05/2025
 - 🤓 [300 cảnh sát vây bắt nhóm đập phá quán phở](https://vnexpress.net/300-canh-sat-vay-bat-nhom-dap-pha-quan-pho-4892279.html) - 03:26 30/05/2025
 - 🎊 [Cuộc trốn chạy 32 năm dẫn chị dâu đi cùng](https://vnexpress.net/32-nam-tron-chay-cung-chi-dau-cua-ke-gay-tham-an-4892183.html) - 17:00 29/05/2025
 - 🙉 [Từ 1/7, trường hợp nào sẽ được làm thủ tục công chứng tại nhà?](https://vnexpress.net/tu-1-7-truong-hop-nao-cong-chung-khong-phai-den-van-phong-cong-chung-4891261.html) - 17:00 29/05/2025
