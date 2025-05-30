@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Nghệ sĩ Kiều Minh Hiếu làm Giám đốc Nhà hát Kịch Việt Nam](https://vnexpress.net/nghe-si-kieu-minh-hieu-lam-giam-doc-nha-hat-kich-viet-nam-4892305.html) - 02:23 30/05/2025
-- 💫 [Charlie Nguyễn: món nợ 20 năm &#39;đánh cược&#39; với điện ảnh Việt](https://vnexpress.net/charlie-nguyen-mon-no-20-nam-danh-cuoc-voi-dien-anh-viet-4891945.html) - 23:00 29/05/2025
+- 💫 [Charlie Nguyễn: Món nợ 20 năm &#39;đánh cược&#39; với điện ảnh Việt](https://vnexpress.net/charlie-nguyen-mon-no-20-nam-danh-cuoc-voi-dien-anh-viet-4891945.html) - 23:00 29/05/2025
 - 🌮 [&#39;Mission: Impossible 8&#39; - đối đầu hiểm họa AI](https://vnexpress.net/giai-tri/phim/thu-vien-phim/mission-impossible-the-final-reckoning-809) - 17:00 29/05/2025
 - 🧠 [Dàn sao đóng phim ngắn &#39;Hoàn Châu cách cách&#39;](https://vnexpress.net/dan-sao-dong-phim-ngan-hoan-chau-cach-cach-4892066.html) - 13:00 29/05/2025
 - 👨‍🏫 [Nhà sản xuất &#39;Dế Mèn&#39; không áp lực đối đầu &#39;Doraemon&#39;](https://vnexpress.net/nha-san-xuat-de-men-khong-ap-luc-doi-dau-doraemon-4892138.html) - 12:31 29/05/2025
