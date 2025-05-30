@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Tổng rà soát công tác trưng bày, bảo vệ bảo vật quốc gia](https://vnexpress.net/tong-ra-soat-cong-tac-trung-bay-bao-ve-bao-vat-quoc-gia-4892308.html) - 03:07 30/05/2025
+- 🦒 [Khoảng 85.000 công chức nghỉ hưu trước tuổi](https://vnexpress.net/khoang-85-000-cong-chuc-nghi-huu-truoc-tuoi-4892337.html) - 05:00 30/05/2025
 - 🤓 [Biên giới Nghệ An lại xuất hiện lũ quét](https://vnexpress.net/bien-gioi-nghe-an-lai-xuat-hien-lu-quet-4892331.html) - 03:05 30/05/2025
 - ⚗️ [4 xe tông liên hoàn trên cao tốc TP HCM - Long Thành](https://vnexpress.net/4-xe-tong-lien-hoan-tren-cao-toc-tp-hcm-long-thanh-4892340.html) - 02:57 30/05/2025
 - 🌊 [Giá thu gom rác của hộ gia đình TP HCM tăng ra sao từ 1/6](https://vnexpress.net/gia-thu-gom-rac-cua-ho-gia-dinh-tp-hcm-tang-ra-sao-tu-1-6-4892155.html) - 22:00 29/05/2025
