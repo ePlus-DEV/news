@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Đội bóng của Theerathon hoàn tất cú ăn 4 lịch sử của bóng đá Thái Lan](https://dantri.com.vn/the-thao/doi-bong-cua-theerathon-hoan-tat-cu-an-4-lich-su-cua-bong-da-thai-lan-20250531221026895.htm) - 15:31 31/05/2025
-- 💯 [Chung kết Champions League: CĐV hai đội bắt đầu vào sân](https://dantri.com.vn/the-thao/chung-ket-champions-league-cdv-hai-doi-bat-dau-vao-san-20250531204822404.htm) - 13:48 31/05/2025
+- 💯 [Chung kết Champions League: Nóng rực trước giờ khai cuộc](https://dantri.com.vn/the-thao/chung-ket-champions-league-nong-ruc-truoc-gio-khai-cuoc-20250531204822404.htm) - 13:48 31/05/2025
 - ⛽️ [Ngôi sao Việt kiều Bùi Alex tích cực tập luyện cùng U22 Việt Nam](https://dantri.com.vn/the-thao/ngoi-sao-viet-kieu-bui-alex-tich-cuc-tap-luyen-cung-u22-viet-nam-20250531192315287.htm) - 12:50 31/05/2025
 - 💃 [Báo chí thế giới dự đoán kết quả chung kết Champions League Inter - PSG](https://dantri.com.vn/the-thao/bao-chi-the-gioi-du-doan-ket-qua-chung-ket-champions-league-inter-psg-20250531131635855.htm) - 09:17 31/05/2025
 - 🌈 [Tuyển Việt Nam liên tiếp nhận tin dữ trước trận quyết chiến với Malaysia](https://dantri.com.vn/the-thao/tuyen-viet-nam-lien-tiep-nhan-tin-du-truoc-tran-quyet-chien-voi-malaysia-20250531120548059.htm) - 09:05 31/05/2025
