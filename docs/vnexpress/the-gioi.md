@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Thái Lan tăng 4 lần mức phạt không đội mũ bảo hiểm](https://vnexpress.net/thai-lan-tang-4-lan-muc-phat-khong-doi-mu-bao-hiem-4892863.html) - 09:54 31/05/2025
 - 🕴 [Mỹ có thể siết thẩm định hồ sơ xin visa liên quan Đại học Harvard](https://vnexpress.net/my-co-the-siet-tham-dinh-ho-so-xin-visa-lien-quan-dai-hoc-harvard-4892841.html) - 09:44 31/05/2025
-- 🤭 [Hoàng gia Nhật xác nhận cựu công chúa Maka sinh con đầu lòng](https://vnexpress.net/hoang-gia-nhat-xac-nhan-cuu-cong-chua-maka-sinh-con-dau-long-4892835.html) - 09:12 31/05/2025
+- 🤭 [Hoàng gia Nhật xác nhận cựu công chúa Mako sinh con đầu lòng](https://vnexpress.net/hoang-gia-nhat-xac-nhan-cuu-cong-chua-mako-sinh-con-dau-long-4892835.html) - 09:12 31/05/2025
 - 🧑‍💻 [Nga nêu hai điều kiện để cân nhắc thỏa thuận ngừng bắn](https://vnexpress.net/nga-neu-hai-dieu-kien-de-can-nhac-thoa-thuan-ngung-ban-4892831.html) - 08:38 31/05/2025
 - 🦏 [Bộ trưởng Quốc phòng Mỹ so sánh ông Trump với ông Lý Quang Diệu](https://vnexpress.net/bo-truong-quoc-phong-my-so-sanh-ong-trump-voi-ong-ly-quang-dieu-4892815.html) - 08:18 31/05/2025
 - 🦒 [Ông Trump trấn an sinh viên Trung Quốc tại Mỹ](https://vnexpress.net/ong-trump-tran-an-sinh-vien-trung-quoc-tai-my-4892748.html) - 04:57 31/05/2025
