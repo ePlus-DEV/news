@@ -7,7 +7,7 @@ sidebar_position: 5
 - 🌏 [Ý Nhi dừng chân ở top 40 Miss World](https://vnexpress.net/y-nhi-dung-chan-o-top-40-miss-world-4892753.html) - 15:56 31/05/2025
 - 💫 [Ký ức về &#39;Ông già Nam Bộ&#39; Sơn Nam](https://vnexpress.net/ky-uc-ve-ong-gia-nam-bo-son-nam-4892876.html) - 13:43 31/05/2025
 - 🌮 [Hậu trường H&#39;Hen Niê quay MV](https://vnexpress.net/hau-truong-h-hen-nie-quay-mv-4892813.html) - 13:27 31/05/2025
-- 🧠 [Người đẹp Thái Lan đăng quang Miss World](https://vnexpress.net/chung-ket-miss-world-lan-thu-72-4892837.html) - 12:47 31/05/2025
+- 🧠 [Người đẹp Thái Lan Opal Suchata đăng quang Miss World 2025](https://vnexpress.net/chung-ket-miss-world-lan-thu-72-4892837.html) - 12:47 31/05/2025
 - 👨‍🏫 [Báo chí là &#39;kiến trúc sư&#39; cho văn hóa](https://vnexpress.net/bao-chi-la-kien-truc-su-cho-van-hoa-4892822.html) - 12:29 31/05/2025
 - ⚗️ [Thời trang nghỉ dưỡng của Lương Thùy Linh](https://vnexpress.net/thoi-trang-nghi-duong-cua-luong-thuy-linh-4892657.html) - 10:36 31/05/2025
 - 😎 [&#39;Ác nhân&#39; màn ảnh Hong Kong qua đời](https://vnexpress.net/ac-nhan-man-anh-hong-kong-qua-doi-4892830.html) - 09:00 31/05/2025
