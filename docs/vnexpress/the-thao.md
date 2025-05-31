@@ -4,8 +4,8 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Trực tiếp VnExpress Marathon Hạ Long 2025](https://vnexpress.net/truc-tiep-vnexpress-marathon-ha-long-2025-4892880.html) - 19:00 31/05/2025
-- 🦩 [PSG 2-0 Inter &lpar;H1&rpar;: Doue nhân đôi cách biệt](https://vnexpress.net/truc-tiep-tran-psg-vs-inter-o-chung-ket-champions-league-2025-4892934.html) - 18:00 31/05/2025
+- 🪜 [Anh Khôi, Quốc Lượng, Kento tranh top đầu VM Hạ Long](https://vnexpress.net/anh-khoi-quoc-luong-kento-tranh-top-dau-vm-ha-long-4892880.html) - 19:00 31/05/2025
+- 🦩 [PSG 2-0 Inter &lpar;H2&rpar;: Kvaratskhelia bỏ lỡ liên tiếp](https://vnexpress.net/truc-tiep-tran-psg-vs-inter-o-chung-ket-champions-league-2025-4892934.html) - 18:00 31/05/2025
 - 🧰 [Không khí lễ hội trước chung kết Champions League](https://vnexpress.net/khong-khi-le-hoi-truoc-chung-ket-champions-league-4892818.html) - 15:30 31/05/2025
 - 🤗 [Xem trực tiếp VnExpress Marathon Hạ Long 2025 từ 2h30 ngày 1/6](https://vnexpress.net/xem-truc-tiep-vnexpress-marathon-ha-long-2025-tu-2h30-ngay-1-6-4892897.html) - 14:00 31/05/2025
 - 🥳 [Runner Nhật Bản xem cầu Bãi Cháy là lợi thế đua vô địch VM Hạ Long](https://vnexpress.net/runner-nhat-ban-xem-cau-bai-chay-la-loi-the-dua-vo-dich-vm-ha-long-4892888.html) - 12:00 31/05/2025
