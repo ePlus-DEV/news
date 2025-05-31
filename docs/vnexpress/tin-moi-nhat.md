@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Bốn VĐV so kè ở nhóm đầu 21km VM Hạ Long](https://vnexpress.net/bon-vdv-so-ke-o-nhom-dau-21km-vm-ha-long-4892880.html) - 19:00 31/05/2025
+- 🎬 [Cự ly 21km VM Hạ Long xuất phát](https://vnexpress.net/cu-ly-21km-vm-ha-long-xuat-phat-4892880.html) - 19:00 31/05/2025
 - 🐎 [Việt Nam tranh tài với Phần Lan trong đêm mở màn lễ hội pháo hoa](https://vnexpress.net/viet-nam-tranh-tai-voi-phan-lan-trong-dem-mo-man-le-hoi-phao-hoa-4892967.html) - 18:00 31/05/2025
 - 🦍 [Thắng Inter 5-0, PSG lần đầu vô địch Champions League](https://vnexpress.net/truc-tiep-tran-psg-vs-inter-o-chung-ket-champions-league-2025-4892934.html) - 18:00 31/05/2025
 - 🏊 [&#39;Phòng thí nghiệm bay&#39; bí ẩn nhất của Không quân Mỹ](https://vnexpress.net/phong-thi-nghiem-bay-bi-an-nhat-cua-khong-quan-my-4892926.html) - 18:00 31/05/2025
