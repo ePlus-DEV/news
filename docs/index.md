@@ -593,7 +593,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Trực tiếp chung kết Champions League 2024/25, PSG vs Inter, 2-0 &lpar;H2&rpar;: Chờ câu trả lời của Inter](https://tienphong.vn/truc-tiep-chung-ket-champions-league-202425-psg-vs-inter-2-0-h2-cho-cau-tra-loi-cua-inter-post1747213.tpo) - 00:08 01/06/2025
+- 💼 [PSG lần đầu vô địch sau chiến thắng đậm nhất lịch sử chung kết Champions League](https://tienphong.vn/psg-lan-dau-vo-dich-sau-chien-thang-dam-nhat-lich-su-chung-ket-champions-league-post1747213.tpo) - 00:08 01/06/2025
 - 🎊 [Thái Lan đăng quang Hoa hậu Thế giới, Ý Nhi dừng chân ở top 40](https://tienphong.vn/thai-lan-dang-quang-hoa-hau-the-gioi-y-nhi-dung-chan-o-top-40-post1747302.tpo) - 23:19 31/05/2025
 - 💼 [Thị trường Việt đón mẫu xe tay ga phân khối lớn mới](https://tienphong.vn/thi-truong-viet-don-mau-xe-tay-ga-phan-khoi-lon-moi-post1747292.tpo) - 21:23 31/05/2025
 - 👺 [Thiếu nhi TPHCM hòa vào Kids Fest, không gian lễ hội hấp dẫn đầu kỳ nghỉ hè](https://tienphong.vn/thieu-nhi-tphcm-hoa-vao-kids-fest-khong-gian-le-hoi-hap-dan-dau-ky-nghi-he-post1747266.tpo) - 21:16 31/05/2025
