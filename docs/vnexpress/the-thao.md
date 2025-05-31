@@ -4,8 +4,8 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Bóng hồng hâm nóng đường chạy VnExpress Marathon Hạ Long 2025](https://vnexpress.net/bong-hong-ham-nong-duong-chay-vnexpress-marathon-ha-long-2025-4892774.html) - 13:15 31/05/2025
-- 🦩 [Đông nghịt runner chờ lấy bib trước giờ xuất phát VM Hạ Long 2025](https://vnexpress.net/dong-nghit-runner-cho-lay-bib-truoc-gio-xuat-phat-vm-ha-long-2025-4892887.html) - 12:30 31/05/2025
+- 🪜 [Xem trực tiếp VnExpress Marathon Hạ Long 2025 từ 2h30 ngày 1/6](https://vnexpress.net/xem-truc-tiep-vnexpress-marathon-ha-long-2025-tu-2h30-ngay-1-6-4892897.html) - 14:00 31/05/2025
+- 🦩 [Bóng hồng hâm nóng đường chạy VnExpress Marathon Hạ Long 2025](https://vnexpress.net/bong-hong-ham-nong-duong-chay-vnexpress-marathon-ha-long-2025-4892774.html) - 13:15 31/05/2025
 - 🧰 [Runner Nhật Bản xem cầu Bãi Cháy là lợi thế đua vô địch VM Hạ Long](https://vnexpress.net/runner-nhat-ban-xem-cau-bai-chay-la-loi-the-dua-vo-dich-vm-ha-long-4892888.html) - 12:00 31/05/2025
 - 🤗 [Chủ tịch Inter: &#39;Giàu có không đồng nghĩa với hợp lý&#39;](https://vnexpress.net/chu-tich-inter-giau-co-khong-dong-nghia-voi-hop-ly-4892728.html) - 11:30 31/05/2025
 - 🥳 [HLV Kim Sang-sik cho Quang Hải, Công Phượng nghỉ tập](https://vnexpress.net/hlv-kim-sang-sik-cho-quang-hai-cong-phuong-nghi-tap-4892916.html) - 11:27 31/05/2025
