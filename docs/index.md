@@ -530,7 +530,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [50 mẫu nhí biểu diễn thời trang tại Lễ hội Thiếu nhi TP.HCM Kids Fest 2025](https://muctim.tuoitre.vn/50-mau-nhi-bieu-dien-thoi-trang-tai-le-hoi-thieu-nhi-tphcm-kids-fest-2025-101250531200957956.htm) - 15:02 31/05/2025
-- 🥷 [Trực tiếp chung kết Miss World 2025: ai sẽ đăng quang?](https://muctim.tuoitre.vn/truc-tiep-chung-ket-miss-world-2025-ai-se-dang-quang-101250531200921758.htm) - 13:19 31/05/2025
+- 🥷 [Đại diện Thái Lan đăng quang Miss World 2025, Huỳnh Trần Ý Nhi vào top 40](https://muctim.tuoitre.vn/truc-tiep-chung-ket-miss-world-2025-ai-se-dang-quang-101250531200921758.htm) - 13:19 31/05/2025
 - 🤖 [Đi chơi đâu, ăn gì ngon ở thành phố Mỹ Tho, tỉnh Tiền Giang?](https://muctim.tuoitre.vn/di-choi-dau-an-gi-ngon-o-thanh-pho-my-tho-tinh-tien-giang-101250531144651754.htm) - 12:30 31/05/2025
 - 🤓 [Sáng 1-6 diễn ra Chương trình Khai mạc hè và ra quân Chiến dịch tình nguyện Hoa phượng đỏ](https://muctim.tuoitre.vn/sang-1-6-dien-ra-chuong-trinh-khai-mac-he-va-ra-quan-chien-dich-tinh-nguyen-hoa-phuong-do-101250531170434021.htm) - 12:27 31/05/2025
 - 🎉 [Vui chơi 1-6: Đi xem kịch thiếu nhi ở đâu?](https://muctim.tuoitre.vn/vui-choi-1-6-di-xem-kich-thieu-nhi-o-dau-101250531184837478.htm) - 12:26 31/05/2025
