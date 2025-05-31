@@ -5,7 +5,7 @@ sidebar_position: 20
 
 <!-- dantri-tam-long-nhan-ai:START -->
 - 🌝 [Bé gái ngất xỉu giữa giờ học, chẩn đoán u não khiến ông bà thắt lòng](https://dantri.com.vn/tam-long-nhan-ai/be-gai-ngat-xiu-giua-gio-hoc-chan-doan-u-nao-khien-ong-ba-that-long-20250529003314644.htm) - 22:30 30/05/2025
-- 🌜 [Lên núi khám sức khỏe miễn phí cho người dân Cao Bằng](https://dantri.com.vn/tam-long-nhan-ai/len-nui-kham-suc-khoe-mien-phi-cho-nguoi-dan-cao-bang-20250530130047937.htm) - 22:05 30/05/2025
+- 🌜 [&quot;Tư vấn sức khoẻ như món quà quý đối với những gia đình còn khó khăn”](https://dantri.com.vn/tam-long-nhan-ai/tu-van-suc-khoe-nhu-mon-qua-quy-doi-voi-nhung-gia-dinh-con-kho-khan-20250530130047937.htm) - 22:05 30/05/2025
 - 👀 [Tiền bạn đọc ủng hộ giúp giữ mảnh vườn để người phụ nữ khốn khổ mưu sinh](https://dantri.com.vn/tam-long-nhan-ai/tien-ban-doc-ung-ho-giup-giu-manh-vuon-de-nguoi-phu-nu-khon-kho-muu-sinh-20250530152459465.htm) - 22:00 30/05/2025
 - 🚀 [Bé trai ở Đà Lạt bị ung thư máu được bạn đọc hỗ trợ hơn 260 triệu đồng](https://dantri.com.vn/tam-long-nhan-ai/be-trai-o-da-lat-bi-ung-thu-mau-duoc-ban-doc-ho-tro-hon-260-trieu-dong-20250530165933828.htm) - 14:59 30/05/2025
 - 🦅 [Xót xa cảnh vợ chồng ngờ nghệch chật vật nuôi 3 con giữa rừng](https://dantri.com.vn/tam-long-nhan-ai/xot-xa-canh-vo-chong-ngo-nghech-chat-vat-nuoi-3-con-giua-rung-20250507225651282.htm) - 06:00 30/05/2025
