@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Thời trang nghỉ dưỡng của Lương Thùy Linh](https://vnexpress.net/thoi-trang-nghi-duong-cua-luong-thuy-linh-4892657.html) - 10:36 31/05/2025
-- 💫 [&#39;Ác nhân&#39; màn ảnh Hong Kong qua đời](https://vnexpress.net/ac-nhan-man-anh-hong-kong-qua-doi-4892830.html) - 09:00 31/05/2025
-- 🌮 [Chuyên viên công nghệ nổi bật tại Hoa hậu Hoàn vũ Việt Nam](https://vnexpress.net/chuyen-vien-cong-nghe-noi-bat-tai-hoa-hau-hoan-vu-viet-nam-4891953.html) - 08:18 31/05/2025
-- 🧠 [Bảo Thy và chồng thi đấu pickleball](https://vnexpress.net/bao-thy-va-chong-thi-dau-pickleball-4892775.html) - 08:16 31/05/2025
-- 👨‍🏫 [Đối thủ châu Á của Ý Nhi tại Miss World](https://vnexpress.net/doi-thu-chau-a-cua-y-nhi-tai-miss-world-4892724.html) - 04:55 31/05/2025
-- ⚗️ [Taylor Swift mua lại toàn bộ bản quyền nhạc của cô](https://vnexpress.net/taylor-swift-mua-lai-toan-bo-ban-quyen-nhac-cua-co-4892697.html) - 04:35 31/05/2025
-- 😎 [Ý Nhi: &#39;Tập trung cao độ cho chung kết Miss World&#39;](https://vnexpress.net/y-nhi-tap-trung-cao-do-cho-chung-ket-miss-world-4892518.html) - 03:09 31/05/2025
-- 🫣 [Phụ nữ săn lùng áo bèo nhún](https://vnexpress.net/phu-nu-san-lung-ao-beo-nhun-4888897.html) - 01:24 31/05/2025
-- 🪄 [Hayley Atwell - đả nữ của &#39;Mission: Impossible 8&#39;](https://vnexpress.net/hayley-atwell-da-nu-cua-mission-impossible-8-4891844.html) - 17:00 30/05/2025
-- 🤓 [&#39;Cuộc chiến kim loại hiếm&#39; - góc khuất cách mạng công nghệ xanh](https://vnexpress.net/cuoc-chien-kim-loai-hiem-goc-khuat-cach-mang-cong-nghe-xanh-4888228.html) - 14:03 30/05/2025
-- 🫶 [H&#39;Hen Niê mang thai con đầu lòng](https://vnexpress.net/h-hen-nie-mang-thai-con-dau-long-4891611.html) - 13:54 30/05/2025
-- 🧑‍🏫 [Hà Anh Tuấn, rapper Đen trồng cây cùng khán giả](https://vnexpress.net/ha-anh-tuan-rapper-den-trong-cay-cung-khan-gia-4892474.html) - 10:50 30/05/2025
-- 🦄 [Hùng Thuận &#39;Đất phương Nam&#39; sắp cưới](https://vnexpress.net/hung-thuan-dat-phuong-nam-sap-cuoi-4892549.html) - 09:39 30/05/2025
-- 💫 [&#39;Đường Tăng&#39; La Gia Anh chữa bệnh ung thư](https://vnexpress.net/duong-tang-la-gia-anh-chua-benh-ung-thu-4892500.html) - 08:49 30/05/2025
-- 🎊 [Lisa thực hiện phim tài liệu](https://vnexpress.net/lisa-thuc-hien-phim-tai-lieu-4892326.html) - 06:09 30/05/2025
-- 👹 [Cuộc sống độc thân của &#39;ni cô đẹp nhất Tiếu ngạo giang hồ&#39;](https://vnexpress.net/cuoc-song-doc-than-cua-ni-co-dep-nhat-tieu-ngao-giang-ho-4892324.html) - 04:39 30/05/2025
-- 💻 [Brad Pitt tạo dáng ngầu](https://vnexpress.net/brad-pitt-tao-dang-ngau-4892374.html) - 04:16 30/05/2025
-- 🤡 [Nghệ sĩ Kiều Minh Hiếu làm Giám đốc Nhà hát Kịch Việt Nam](https://vnexpress.net/nghe-si-kieu-minh-hieu-lam-giam-doc-nha-hat-kich-viet-nam-4892305.html) - 02:23 30/05/2025
-- 🥰 [Charlie Nguyễn: Món nợ 20 năm &#39;đánh cược&#39; với điện ảnh Việt](https://vnexpress.net/charlie-nguyen-mon-no-20-nam-danh-cuoc-voi-dien-anh-viet-4891945.html) - 23:00 29/05/2025
-- 🚀 [&#39;Mission: Impossible 8&#39; - đối đầu hiểm họa AI](https://vnexpress.net/giai-tri/phim/thu-vien-phim/mission-impossible-the-final-reckoning-809) - 17:00 29/05/2025
-- 📝 [Dàn sao đóng phim ngắn &#39;Hoàn Châu cách cách&#39;](https://vnexpress.net/dan-sao-dong-phim-ngan-hoan-chau-cach-cach-4892066.html) - 13:00 29/05/2025
-- 🐲 [Nhà sản xuất &#39;Dế Mèn&#39; không áp lực đối đầu &#39;Doraemon&#39;](https://vnexpress.net/nha-san-xuat-de-men-khong-ap-luc-doi-dau-doraemon-4892138.html) - 12:31 29/05/2025
-- 🎃 [Con gái Quyền Linh nói về việc &#39;sinh ra ở vạch đích&#39;](https://vnexpress.net/con-gai-quyen-linh-noi-ve-viec-sinh-ra-o-vach-dich-4891488.html) - 11:00 29/05/2025
-- 🤠 [Rà soát việc trưng bày bảo vật sau vụ ngai vàng bị đập gãy](https://vnexpress.net/ra-soat-viec-trung-bay-bao-vat-sau-vu-ngai-vang-bi-dap-gay-4892160.html) - 10:08 29/05/2025
-- 🎭 [Hồi ký Michelle Obama: Sống là luôn chuẩn bị sẵn sàng](https://vnexpress.net/hoi-ky-michelle-obama-song-la-luon-chuan-bi-san-sang-4891176.html) - 09:30 29/05/2025
-- 🧰 [Văn Mai Hương hát ở diễn đàn kinh tế](https://vnexpress.net/van-mai-huong-hat-o-dien-dan-kinh-te-4891882.html) - 08:42 29/05/2025
-- 🦍 [Con trai Đàm Vĩnh Hưng đóng MV](https://vnexpress.net/con-trai-dam-vinh-hung-dong-mv-4891930.html) - 08:02 29/05/2025
-- 🌝 [Vợ Justin Bieber bán hãng mỹ phẩm với giá một tỷ USD](https://vnexpress.net/vo-justin-bieber-ban-hang-my-pham-voi-gia-mot-ty-usd-4891990.html) - 07:33 29/05/2025
-- 🧑‍💻 [Trương Học Hữu phải hủy liveshow vì trùng kỳ thi đại học](https://vnexpress.net/truong-hoc-huu-phai-huy-liveshow-vi-trung-ky-thi-dai-hoc-4891902.html) - 06:33 29/05/2025
-- 🥸 [Êkíp &#39;Khi cuộc đời cho bạn quả quýt&#39; bị tố cáo bắt nạt diễn viên](https://vnexpress.net/ekip-khi-cuoc-doi-cho-ban-qua-quyt-bi-to-cao-bat-nat-dien-vien-4891845.html) - 04:15 29/05/2025
-- 🔥 [Nghệ sĩ Việt Anh bán đồ ăn online](https://vnexpress.net/nghe-si-viet-anh-ban-do-an-online-4891675.html) - 04:05 29/05/2025
-- 🐎 [Brad Pitt lần đầu nói về việc ly hôn Angelina Jolie](https://vnexpress.net/brad-pitt-lan-dau-noi-ve-viec-ly-hon-angelina-jolie-4891846.html) - 03:54 29/05/2025
-- 😎 [Chủ tịch nước Lương Cường tặng đàn bầu cho phu nhân Tổng thống Hungary](https://vnexpress.net/chu-tich-nuoc-luong-cuong-tang-dan-bau-cho-phu-nhan-tong-thong-hungary-4891820.html) - 02:33 29/05/2025
-- 🦄 [BST trang sức kỷ niệm 78 năm LHP Cannes của Chopard](https://vnexpress.net/bst-trang-suc-ky-niem-78-nam-lhp-cannes-cua-chopard-4891048.html) - 02:00 29/05/2025
-- 🌜 [5 cuốn hồi ký yêu thích của tỷ phú Bill Gates](https://vnexpress.net/5-cuon-hoi-ky-yeu-thich-cua-ty-phu-bill-gates-4891406.html) - 01:04 29/05/2025
-- 🚦 [Phong cách công chúa Campuchia ở tuổi 13](https://vnexpress.net/phong-cach-cong-chua-campuchia-o-tuoi-13-4891648.html) - 17:00 28/05/2025
-- 🧐 [Bí quyết giúp phu nhân Tổng thống Pháp giữ dáng](https://vnexpress.net/bi-quyet-giup-phu-nhan-tong-thong-phap-giu-dang-4891466.html) - 13:53 28/05/2025
-- 🐵 [Đồng nghiệp ủng hộ Đàm Vĩnh Hưng tái xuất](https://vnexpress.net/dong-nghiep-ung-ho-dam-vinh-hung-tai-xuat-4891700.html) - 13:18 28/05/2025
-- ⚗️ [Nhạc sĩ Phạm Tuyên nhận giải Hiệp sĩ Dế Mèn](https://vnexpress.net/nhac-si-pham-tuyen-nhan-giai-hiep-si-de-men-4891707.html) - 12:30 28/05/2025
-- 👺 [Ca khúc &#39;Phép màu&#39; được học trò cuối cấp yêu thích](https://vnexpress.net/ca-khuc-phep-mau-duoc-hoc-tro-cuoi-cap-yeu-thich-4890924.html) - 10:52 28/05/2025
-- 🌊 [Lý Tử Thất gây chú ý sau nửa năm ở ẩn](https://vnexpress.net/ly-tu-that-gay-chu-y-sau-nua-nam-o-an-4891619.html) - 08:58 28/05/2025
-- 🪜 [Miss Grand International 2024 từ bỏ vương miện](https://vnexpress.net/miss-grand-international-2024-tu-bo-vuong-mien-4891574.html) - 08:25 28/05/2025
-- 🕴 [&#39;Viết tiếp câu chuyện hòa bình&#39; được dịch sang ba thứ tiếng](https://vnexpress.net/viet-tiep-cau-chuyen-hoa-binh-duoc-dich-sang-ba-thu-tieng-4891478.html) - 07:36 28/05/2025
-- 💃 [&#39;Bài văn về trứng vịt lộn&#39; - trân trọng mọi khác biệt](https://vnexpress.net/bai-van-ve-trung-vit-lon-tran-trong-moi-khac-biet-4891140.html) - 07:03 28/05/2025
-- 🦄 [Mỹ nhân Malaysia dự sự kiện cùng dàn sao Việt](https://vnexpress.net/my-nhan-malaysia-du-su-kien-cung-dan-sao-viet-4891459.html) - 06:44 28/05/2025
-- ⛽️ [Vợ &#39;Người sói&#39; Hugh Jackman đệ đơn ly hôn](https://vnexpress.net/vo-nguoi-soi-hugh-jackman-de-don-ly-hon-4891484.html) - 05:31 28/05/2025
-- 😎 [Mỹ nhân Ấn Độ nổi bật trên sân nhà Miss World](https://vnexpress.net/my-nhan-an-do-noi-bat-tren-san-nha-miss-world-4891249.html) - 04:23 28/05/2025
-- 🌊 [Bà Ngô Phương Lan nhận Huân chương bậc sĩ quan Pháp](https://vnexpress.net/ba-ngo-phuong-lan-nhan-huan-chuong-bac-si-quan-phap-4891420.html) - 04:07 28/05/2025
-- 🐲 [Hồi ký Michelle Obama &lpar;kỳ 2&rpar;: Gập ghềnh của hôn nhân](https://vnexpress.net/hoi-ky-michelle-obama-ky-2-gap-ghenh-cua-hon-nhan-4891169.html) - 03:23 28/05/2025
-- 💂 [Humberto Campana nói về cảm hứng du hành trong BST hợp tác Louis Vuitton](https://vnexpress.net/humberto-campana-noi-ve-cam-hung-du-hanh-trong-bst-hop-tac-louis-vuitton-4889293.html) - 03:00 28/05/2025
-- 🙉 [Vợ Lý Á Bằng: &#39;Chưa mua được nhà, ở trọ cũng không sao&#39;](https://vnexpress.net/vo-ly-a-bang-chua-mua-duoc-nha-o-tro-cung-khong-sao-4891418.html) - 02:43 28/05/2025
-- 💪 [&#39;Harry Potter&#39; bản truyền hình công bố ba diễn viên chính](https://vnexpress.net/harry-potter-ban-truyen-hinh-cong-bo-ba-dien-vien-chinh-4891345.html) - 01:34 28/05/2025
-- 👍 [Cô gái được ví &#39;tiên nữ hạ phàm&#39;](https://vnexpress.net/co-gai-duoc-vi-tien-nu-ha-pham-4891181.html) - 17:00 27/05/2025
-- 💪 [Mốt mũ len móc](https://vnexpress.net/mot-mu-len-moc-4890959.html) - 13:24 27/05/2025
-- 💄 [Fan chưng diện xem concert Soobin](https://vnexpress.net/fan-chung-dien-xem-concert-soobin-4891258.html) - 11:05 27/05/2025
-- 🦩 [Hồi ký Michelle Obama &lpar;kỳ một&rpar;: Hóa giải nỗi sợ](https://vnexpress.net/hoi-ky-michelle-obama-ky-mot-hoa-giai-noi-so-4890886.html) - 09:47 27/05/2025
-- 🥸 [Tài tử Choi Jung Woo qua đời](https://vnexpress.net/tai-tu-choi-jung-woo-qua-doi-4891103.html) - 08:07 27/05/2025
-- 🧰 [Phong cách thời trang của Đệ nhất phu nhân Pháp](https://vnexpress.net/phong-cach-thoi-trang-cua-de-nhat-phu-nhan-phap-4890696.html) - 03:59 27/05/2025
-- 💼 [Soobin nhảy múa, hát xẩm trong concert](https://vnexpress.net/soobin-nhay-mua-hat-xam-trong-concert-4890850.html) - 00:47 27/05/2025
-- 🧑‍💻 [Hoạt hình Việt trỗi dậy mùa phim hè](https://vnexpress.net/hoat-hinh-viet-troi-day-mua-phim-he-4885035.html) - 17:00 26/05/2025<!-- vnexpress-giai-tri:END -->
+- 🌏 [Ký ức về &#39;Ông già Nam Bộ&#39; Sơn Nam](https://vnexpress.net/ky-uc-ve-ong-gia-nam-bo-son-nam-4892876.html) - 13:43 31/05/2025
+- 💫 [Hậu trường H&#39;Hen Niê quay MV](https://vnexpress.net/hau-truong-h-hen-nie-quay-mv-4892813.html) - 13:27 31/05/2025
+- 🌮 [Chung kết Miss World: Ý Nhi dừng chân](https://vnexpress.net/chung-ket-miss-world-lan-thu-72-4892837.html) - 12:47 31/05/2025
+- 🧠 [Báo chí là &#39;kiến trúc sư&#39; cho văn hóa](https://vnexpress.net/bao-chi-la-kien-truc-su-cho-van-hoa-4892822.html) - 12:29 31/05/2025
+- 👨‍🏫 [Thời trang nghỉ dưỡng của Lương Thùy Linh](https://vnexpress.net/thoi-trang-nghi-duong-cua-luong-thuy-linh-4892657.html) - 10:36 31/05/2025
+- ⚗️ [&#39;Ác nhân&#39; màn ảnh Hong Kong qua đời](https://vnexpress.net/ac-nhan-man-anh-hong-kong-qua-doi-4892830.html) - 09:00 31/05/2025
+- 😎 [Chuyên viên công nghệ nổi bật tại Hoa hậu Hoàn vũ Việt Nam](https://vnexpress.net/chuyen-vien-cong-nghe-noi-bat-tai-hoa-hau-hoan-vu-viet-nam-4891953.html) - 08:18 31/05/2025
+- 🫣 [Bảo Thy và chồng thi đấu pickleball](https://vnexpress.net/bao-thy-va-chong-thi-dau-pickleball-4892775.html) - 08:16 31/05/2025
+- 🪄 [Đối thủ châu Á của Ý Nhi tại Miss World](https://vnexpress.net/doi-thu-chau-a-cua-y-nhi-tai-miss-world-4892724.html) - 04:55 31/05/2025
+- 🤓 [Taylor Swift mua lại toàn bộ bản quyền nhạc của cô](https://vnexpress.net/taylor-swift-mua-lai-toan-bo-ban-quyen-nhac-cua-co-4892697.html) - 04:35 31/05/2025
+- 🫶 [Ý Nhi: &#39;Tập trung cao độ cho chung kết Miss World&#39;](https://vnexpress.net/y-nhi-tap-trung-cao-do-cho-chung-ket-miss-world-4892518.html) - 03:09 31/05/2025
+- 🧑‍🏫 [Phụ nữ săn lùng áo bèo nhún](https://vnexpress.net/phu-nu-san-lung-ao-beo-nhun-4888897.html) - 01:24 31/05/2025
+- 🦄 [Hayley Atwell - đả nữ của &#39;Mission: Impossible 8&#39;](https://vnexpress.net/hayley-atwell-da-nu-cua-mission-impossible-8-4891844.html) - 17:00 30/05/2025
+- 💫 [&#39;Cuộc chiến kim loại hiếm&#39; - góc khuất cách mạng công nghệ xanh](https://vnexpress.net/cuoc-chien-kim-loai-hiem-goc-khuat-cach-mang-cong-nghe-xanh-4888228.html) - 14:03 30/05/2025
+- 🎊 [H&#39;Hen Niê mang thai con đầu lòng](https://vnexpress.net/h-hen-nie-mang-thai-con-dau-long-4891611.html) - 13:54 30/05/2025
+- 👹 [Hà Anh Tuấn, rapper Đen trồng cây cùng khán giả](https://vnexpress.net/ha-anh-tuan-rapper-den-trong-cay-cung-khan-gia-4892474.html) - 10:50 30/05/2025
+- 💻 [Hùng Thuận &#39;Đất phương Nam&#39; sắp cưới](https://vnexpress.net/hung-thuan-dat-phuong-nam-sap-cuoi-4892549.html) - 09:39 30/05/2025
+- 🤡 [&#39;Đường Tăng&#39; La Gia Anh chữa bệnh ung thư](https://vnexpress.net/duong-tang-la-gia-anh-chua-benh-ung-thu-4892500.html) - 08:49 30/05/2025
+- 🥰 [Lisa thực hiện phim tài liệu](https://vnexpress.net/lisa-thuc-hien-phim-tai-lieu-4892326.html) - 06:09 30/05/2025
+- 🚀 [Cuộc sống độc thân của &#39;ni cô đẹp nhất Tiếu ngạo giang hồ&#39;](https://vnexpress.net/cuoc-song-doc-than-cua-ni-co-dep-nhat-tieu-ngao-giang-ho-4892324.html) - 04:39 30/05/2025
+- 📝 [Brad Pitt tạo dáng ngầu](https://vnexpress.net/brad-pitt-tao-dang-ngau-4892374.html) - 04:16 30/05/2025
+- 🐲 [Nghệ sĩ Kiều Minh Hiếu làm Giám đốc Nhà hát Kịch Việt Nam](https://vnexpress.net/nghe-si-kieu-minh-hieu-lam-giam-doc-nha-hat-kich-viet-nam-4892305.html) - 02:23 30/05/2025
+- 🎃 [Charlie Nguyễn: Món nợ 20 năm &#39;đánh cược&#39; với điện ảnh Việt](https://vnexpress.net/charlie-nguyen-mon-no-20-nam-danh-cuoc-voi-dien-anh-viet-4891945.html) - 23:00 29/05/2025
+- 🤠 [&#39;Mission: Impossible 8&#39; - đối đầu hiểm họa AI](https://vnexpress.net/giai-tri/phim/thu-vien-phim/mission-impossible-the-final-reckoning-809) - 17:00 29/05/2025
+- 🎭 [Dàn sao đóng phim ngắn &#39;Hoàn Châu cách cách&#39;](https://vnexpress.net/dan-sao-dong-phim-ngan-hoan-chau-cach-cach-4892066.html) - 13:00 29/05/2025
+- 🧰 [Nhà sản xuất &#39;Dế Mèn&#39; không áp lực đối đầu &#39;Doraemon&#39;](https://vnexpress.net/nha-san-xuat-de-men-khong-ap-luc-doi-dau-doraemon-4892138.html) - 12:31 29/05/2025
+- 🦍 [Con gái Quyền Linh nói về việc &#39;sinh ra ở vạch đích&#39;](https://vnexpress.net/con-gai-quyen-linh-noi-ve-viec-sinh-ra-o-vach-dich-4891488.html) - 11:00 29/05/2025
+- 🌝 [Rà soát việc trưng bày bảo vật sau vụ ngai vàng bị đập gãy](https://vnexpress.net/ra-soat-viec-trung-bay-bao-vat-sau-vu-ngai-vang-bi-dap-gay-4892160.html) - 10:08 29/05/2025
+- 🧑‍💻 [Hồi ký Michelle Obama: Sống là luôn chuẩn bị sẵn sàng](https://vnexpress.net/hoi-ky-michelle-obama-song-la-luon-chuan-bi-san-sang-4891176.html) - 09:30 29/05/2025
+- 🥸 [Văn Mai Hương hát ở diễn đàn kinh tế](https://vnexpress.net/van-mai-huong-hat-o-dien-dan-kinh-te-4891882.html) - 08:42 29/05/2025
+- 🔥 [Con trai Đàm Vĩnh Hưng đóng MV](https://vnexpress.net/con-trai-dam-vinh-hung-dong-mv-4891930.html) - 08:02 29/05/2025
+- 🐎 [Vợ Justin Bieber bán hãng mỹ phẩm với giá một tỷ USD](https://vnexpress.net/vo-justin-bieber-ban-hang-my-pham-voi-gia-mot-ty-usd-4891990.html) - 07:33 29/05/2025
+- 😎 [Trương Học Hữu phải hủy liveshow vì trùng kỳ thi đại học](https://vnexpress.net/truong-hoc-huu-phai-huy-liveshow-vi-trung-ky-thi-dai-hoc-4891902.html) - 06:33 29/05/2025
+- 🦄 [Êkíp &#39;Khi cuộc đời cho bạn quả quýt&#39; bị tố cáo bắt nạt diễn viên](https://vnexpress.net/ekip-khi-cuoc-doi-cho-ban-qua-quyt-bi-to-cao-bat-nat-dien-vien-4891845.html) - 04:15 29/05/2025
+- 🌜 [Nghệ sĩ Việt Anh bán đồ ăn online](https://vnexpress.net/nghe-si-viet-anh-ban-do-an-online-4891675.html) - 04:05 29/05/2025
+- 🚦 [Brad Pitt lần đầu nói về việc ly hôn Angelina Jolie](https://vnexpress.net/brad-pitt-lan-dau-noi-ve-viec-ly-hon-angelina-jolie-4891846.html) - 03:54 29/05/2025
+- 🧐 [Chủ tịch nước Lương Cường tặng đàn bầu cho phu nhân Tổng thống Hungary](https://vnexpress.net/chu-tich-nuoc-luong-cuong-tang-dan-bau-cho-phu-nhan-tong-thong-hungary-4891820.html) - 02:33 29/05/2025
+- 🐵 [BST trang sức kỷ niệm 78 năm LHP Cannes của Chopard](https://vnexpress.net/bst-trang-suc-ky-niem-78-nam-lhp-cannes-cua-chopard-4891048.html) - 02:00 29/05/2025
+- ⚗️ [5 cuốn hồi ký yêu thích của tỷ phú Bill Gates](https://vnexpress.net/5-cuon-hoi-ky-yeu-thich-cua-ty-phu-bill-gates-4891406.html) - 01:04 29/05/2025
+- 👺 [Phong cách công chúa Campuchia ở tuổi 13](https://vnexpress.net/phong-cach-cong-chua-campuchia-o-tuoi-13-4891648.html) - 17:00 28/05/2025
+- 🌊 [Bí quyết giúp phu nhân Tổng thống Pháp giữ dáng](https://vnexpress.net/bi-quyet-giup-phu-nhan-tong-thong-phap-giu-dang-4891466.html) - 13:53 28/05/2025
+- 🪜 [Đồng nghiệp ủng hộ Đàm Vĩnh Hưng tái xuất](https://vnexpress.net/dong-nghiep-ung-ho-dam-vinh-hung-tai-xuat-4891700.html) - 13:18 28/05/2025
+- 🕴 [Nhạc sĩ Phạm Tuyên nhận giải Hiệp sĩ Dế Mèn](https://vnexpress.net/nhac-si-pham-tuyen-nhan-giai-hiep-si-de-men-4891707.html) - 12:30 28/05/2025
+- 💃 [Ca khúc &#39;Phép màu&#39; được học trò cuối cấp yêu thích](https://vnexpress.net/ca-khuc-phep-mau-duoc-hoc-tro-cuoi-cap-yeu-thich-4890924.html) - 10:52 28/05/2025
+- 🦄 [Lý Tử Thất gây chú ý sau nửa năm ở ẩn](https://vnexpress.net/ly-tu-that-gay-chu-y-sau-nua-nam-o-an-4891619.html) - 08:58 28/05/2025
+- ⛽️ [Miss Grand International 2024 từ bỏ vương miện](https://vnexpress.net/miss-grand-international-2024-tu-bo-vuong-mien-4891574.html) - 08:25 28/05/2025
+- 😎 [&#39;Viết tiếp câu chuyện hòa bình&#39; được dịch sang ba thứ tiếng](https://vnexpress.net/viet-tiep-cau-chuyen-hoa-binh-duoc-dich-sang-ba-thu-tieng-4891478.html) - 07:36 28/05/2025
+- 🌊 [&#39;Bài văn về trứng vịt lộn&#39; - trân trọng mọi khác biệt](https://vnexpress.net/bai-van-ve-trung-vit-lon-tran-trong-moi-khac-biet-4891140.html) - 07:03 28/05/2025
+- 🐲 [Mỹ nhân Malaysia dự sự kiện cùng dàn sao Việt](https://vnexpress.net/my-nhan-malaysia-du-su-kien-cung-dan-sao-viet-4891459.html) - 06:44 28/05/2025
+- 💂 [Vợ &#39;Người sói&#39; Hugh Jackman đệ đơn ly hôn](https://vnexpress.net/vo-nguoi-soi-hugh-jackman-de-don-ly-hon-4891484.html) - 05:31 28/05/2025
+- 🙉 [Mỹ nhân Ấn Độ nổi bật trên sân nhà Miss World](https://vnexpress.net/my-nhan-an-do-noi-bat-tren-san-nha-miss-world-4891249.html) - 04:23 28/05/2025
+- 💪 [Bà Ngô Phương Lan nhận Huân chương bậc sĩ quan Pháp](https://vnexpress.net/ba-ngo-phuong-lan-nhan-huan-chuong-bac-si-quan-phap-4891420.html) - 04:07 28/05/2025
+- 👍 [Hồi ký Michelle Obama &lpar;kỳ 2&rpar;: Gập ghềnh của hôn nhân](https://vnexpress.net/hoi-ky-michelle-obama-ky-2-gap-ghenh-cua-hon-nhan-4891169.html) - 03:23 28/05/2025
+- 💪 [Humberto Campana nói về cảm hứng du hành trong BST hợp tác Louis Vuitton](https://vnexpress.net/humberto-campana-noi-ve-cam-hung-du-hanh-trong-bst-hop-tac-louis-vuitton-4889293.html) - 03:00 28/05/2025
+- 💄 [Vợ Lý Á Bằng: &#39;Chưa mua được nhà, ở trọ cũng không sao&#39;](https://vnexpress.net/vo-ly-a-bang-chua-mua-duoc-nha-o-tro-cung-khong-sao-4891418.html) - 02:43 28/05/2025
+- 🦩 [&#39;Harry Potter&#39; bản truyền hình công bố ba diễn viên chính](https://vnexpress.net/harry-potter-ban-truyen-hinh-cong-bo-ba-dien-vien-chinh-4891345.html) - 01:34 28/05/2025
+- 🥸 [Cô gái được ví &#39;tiên nữ hạ phàm&#39;](https://vnexpress.net/co-gai-duoc-vi-tien-nu-ha-pham-4891181.html) - 17:00 27/05/2025
+- 🧰 [Fan chưng diện xem concert Soobin](https://vnexpress.net/fan-chung-dien-xem-concert-soobin-4891258.html) - 11:05 27/05/2025
+- 💼 [Tài tử Choi Jung Woo qua đời](https://vnexpress.net/tai-tu-choi-jung-woo-qua-doi-4891103.html) - 08:07 27/05/2025
+- 🧑‍💻 [Phong cách thời trang của Đệ nhất phu nhân Pháp](https://vnexpress.net/phong-cach-thoi-trang-cua-de-nhat-phu-nhan-phap-4890696.html) - 03:59 27/05/2025<!-- vnexpress-giai-tri:END -->
