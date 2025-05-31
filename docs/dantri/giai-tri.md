@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Hoa hậu Ý Nhi trượt top 20 Hoa hậu Thế giới 2025](https://dantri.com.vn/giai-tri/hoa-hau-y-nhi-truot-top-20-hoa-hau-the-gioi-2025-20250531201920167.htm) - 14:38 31/05/2025
+- 🤩 [Người đẹp Thái Lan đăng quang, Ý Nhi dừng chân ở top 40](https://dantri.com.vn/giai-tri/nguoi-dep-thai-lan-dang-quang-y-nhi-dung-chan-o-top-40-20250531201920167.htm) - 14:38 31/05/2025
 - 🔥 [Ca sĩ Hồng Ngọc 19 năm viên mãn bên chồng doanh nhân](https://dantri.com.vn/giai-tri/ca-si-hong-ngoc-19-nam-vien-man-ben-chong-doanh-nhan-20250531092957663.htm) - 10:19 31/05/2025
 - 🚀 [Những ứng viên sáng giá cho danh hiệu Hoa hậu Thế giới 2025 trước giờ G](https://dantri.com.vn/giai-tri/nhung-ung-vien-sang-gia-cho-danh-hieu-hoa-hau-the-gioi-2025-truoc-gio-g-20250531130604699.htm) - 08:00 31/05/2025
 - 🔥 [Thương vụ ước tính hàng trăm triệu USD của &quot;rắn chúa&quot; Taylor Swift](https://dantri.com.vn/giai-tri/thuong-vu-uoc-tinh-hang-tram-trieu-usd-cua-ran-chua-taylor-swift-20250531100025449.htm) - 05:18 31/05/2025
