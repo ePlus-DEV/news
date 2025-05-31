@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [PSG 4-0 Inter Milan &lpar;hiệp 2&rpar;: Doue lập cú đúp](https://dantri.com.vn/the-thao/psg-4-0-inter-milan-hiep-2-doue-lap-cu-dup-20250601000746206.htm) - 17:08 31/05/2025
+- 🎡 [Đại thắng 5-0 trước Inter Milan, PSG lần đầu vô địch Champions League](https://dantri.com.vn/the-thao/dai-thang-5-0-truoc-inter-milan-psg-lan-dau-vo-dich-champions-league-20250601000746206.htm) - 17:08 31/05/2025
 - 💯 [Đội bóng của Theerathon hoàn tất cú ăn 4 lịch sử của bóng đá Thái Lan](https://dantri.com.vn/the-thao/doi-bong-cua-theerathon-hoan-tat-cu-an-4-lich-su-cua-bong-da-thai-lan-20250531221026895.htm) - 15:31 31/05/2025
 - ⛽️ [Bầu không khí nóng rực trước thềm trận chung kết Champions League](https://dantri.com.vn/the-thao/bau-khong-khi-nong-ruc-truoc-them-tran-chung-ket-champions-league-20250531204822404.htm) - 13:48 31/05/2025
 - 💃 [Ngôi sao Việt kiều Bùi Alex tích cực tập luyện cùng U22 Việt Nam](https://dantri.com.vn/the-thao/ngoi-sao-viet-kieu-bui-alex-tich-cuc-tap-luyen-cung-u22-viet-nam-20250531192315287.htm) - 12:50 31/05/2025
