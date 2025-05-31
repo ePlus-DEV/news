@@ -4,8 +4,8 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Thasco phân phối men vi sinh Optibac tại Việt Nam](https://vnexpress.net/thasco-phan-phoi-men-vi-sinh-optibac-tai-viet-nam-4892862.html) - 09:00 31/05/2025
-- 🐲 [TP HCM cho thuê đất công ngắn hạn tối đa 5 năm](https://vnexpress.net/tp-hcm-cho-thue-dat-cong-ngan-han-toi-da-5-nam-4892649.html) - 02:47 31/05/2025
+- ⛽️ [Thủ tướng: &#39;Không cần đòi hỏi kinh nghiệm nếu nhà đầu tư có tiềm lực tài chính&#39;](https://vnexpress.net/thu-tuong-khong-can-doi-hoi-kinh-nghiem-neu-nha-dau-tu-co-tiem-luc-tai-chinh-4892920.html) - 12:09 31/05/2025
+- 🐲 [Thasco phân phối men vi sinh Optibac tại Việt Nam](https://vnexpress.net/thasco-phan-phoi-men-vi-sinh-optibac-tai-viet-nam-4892862.html) - 09:00 31/05/2025
 - 🔥 [Ông Trump nói các hãng xe phải sản xuất hoàn toàn tại Mỹ](https://vnexpress.net/ong-trump-noi-cac-hang-xe-phai-san-xuat-hoan-toan-tai-my-4892672.html) - 01:53 31/05/2025
 - 🐵 [Những rào cản chính trên bàn đàm phán Mỹ - châu Âu](https://vnexpress.net/nhung-rao-can-chinh-tren-ban-dam-phan-my-chau-au-4891457.html) - 00:40 31/05/2025
 - 🦅 [Chủ tịch TP HCM làm tổ trưởng chống hàng giả](https://vnexpress.net/chu-tich-tp-hcm-lam-to-truong-chong-hang-gia-4892647.html) - 00:11 31/05/2025
