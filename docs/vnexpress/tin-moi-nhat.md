@@ -4,9 +4,9 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Trực tiếp VnExpress Marathon Hạ Long 2025](https://vnexpress.net/truc-tiep-vnexpress-marathon-ha-long-2025-4892880.html) - 19:00 31/05/2025
+- 🎬 [Anh Khôi tranh top đầu VM Hạ Long với runner Nhật Bản](https://vnexpress.net/anh-khoi-tranh-top-dau-vm-ha-long-voi-runner-nhat-ban-4892880.html) - 19:00 31/05/2025
 - 🐎 [Việt Nam tranh tài với Phần Lan trong đêm mở màn lễ hội pháo hoa](https://vnexpress.net/viet-nam-tranh-tai-voi-phan-lan-trong-dem-mo-man-le-hoi-phao-hoa-4892967.html) - 18:00 31/05/2025
-- 🦍 [PSG 2-0 Inter &lpar;H1&rpar;: Doue nhân đôi cách biệt](https://vnexpress.net/truc-tiep-tran-psg-vs-inter-o-chung-ket-champions-league-2025-4892934.html) - 18:00 31/05/2025
+- 🦍 [PSG 4-0 Inter &lpar;H2&rpar;: Dấu chấm hết ở chung kết Champions League](https://vnexpress.net/truc-tiep-tran-psg-vs-inter-o-chung-ket-champions-league-2025-4892934.html) - 18:00 31/05/2025
 - 🏊 [&#39;Phòng thí nghiệm bay&#39; bí ẩn nhất của Không quân Mỹ](https://vnexpress.net/phong-thi-nghiem-bay-bi-an-nhat-cua-khong-quan-my-4892926.html) - 18:00 31/05/2025
 - 🎊 [Tết thiếu nhi của những em bé bệnh &#39;thập tử nhất sinh&#39;](https://vnexpress.net/tet-thieu-nhi-cua-nhung-em-be-benh-thap-tu-nhat-sinh-4892891.html) - 18:00 31/05/2025
 - 🎃 [Đề xuất lập hai trung tâm năng lượng tái tạo liên vùng](https://vnexpress.net/de-xuat-lap-hai-trung-tam-nang-luong-tai-tao-lien-vung-4892937.html) - 17:30 31/05/2025
