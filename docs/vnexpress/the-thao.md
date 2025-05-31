@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Cự ly 5km VM Hạ Long xuất phát](https://vnexpress.net/cu-ly-5km-vm-ha-long-xuat-phat-4892880.html) - 19:00 31/05/2025
+- 🪜 [Cựu kỷ lục gia marathon Việt Nam vô địch VM Hạ Long 2025](https://vnexpress.net/cuu-ky-luc-gia-marathon-viet-nam-vo-dich-vm-ha-long-2025-4892880.html) - 19:00 31/05/2025
 - 🦩 [Thắng Inter 5-0, PSG lần đầu vô địch Champions League](https://vnexpress.net/truc-tiep-tran-psg-vs-inter-o-chung-ket-champions-league-2025-4892934-tong-thuat.html) - 18:00 31/05/2025
 - 🧰 [Không khí lễ hội trước chung kết Champions League](https://vnexpress.net/khong-khi-le-hoi-truoc-chung-ket-champions-league-4892818.html) - 15:30 31/05/2025
 - 🤗 [Xem trực tiếp VnExpress Marathon Hạ Long 2025 từ 2h30 ngày 1/6](https://vnexpress.net/xem-truc-tiep-vnexpress-marathon-ha-long-2025-tu-2h30-ngay-1-6-4892897.html) - 14:00 31/05/2025
