@@ -412,9 +412,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Giải pháp thực hiện Kế hoạch phát triển KTXH, dự toán ngân sách nhà nước mục tiêu tăng trưởng 8% trở lên](https://baochinhphu.vn/giai-phap-thuc-hien-ke-hoach-phat-trien-ktxh-du-toan-ngan-sach-nha-nuoc-muc-tieu-tang-truong-8-tro-len-102250531195248193.htm) - 20:21 31/05/2025
-- 🌜 [Doanh nghiệp tư nhân trong giai đoạn bản lề phát triển đất nước](https://baochinhphu.vn/doanh-nghiep-tu-nhan-trong-giai-doan-ban-le-phat-trien-dat-nuoc-102250531185245699.htm) - 19:38 31/05/2025
-- 🦆 [Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ ngày 31/5/2025](https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-31-5-2025-102250531185332896.htm) - 18:55 31/05/2025
+- 💻 [Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ ngày 31/5/2025](https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-31-5-2025-102250531185332896.htm) - 20:50 31/05/2025
+- 🌜 [Giải pháp thực hiện Kế hoạch phát triển KTXH, dự toán ngân sách nhà nước mục tiêu tăng trưởng 8% trở lên](https://baochinhphu.vn/giai-phap-thuc-hien-ke-hoach-phat-trien-ktxh-du-toan-ngan-sach-nha-nuoc-muc-tieu-tang-truong-8-tro-len-102250531195248193.htm) - 19:40 31/05/2025
+- 🦆 [Doanh nghiệp tư nhân trong giai đoạn bản lề phát triển đất nước](https://baochinhphu.vn/doanh-nghiep-tu-nhan-trong-giai-doan-ban-le-phat-trien-dat-nuoc-102250531185245699.htm) - 19:38 31/05/2025
 - 🌝 [Hoàn thiện dự thảo Đề án tổ chức Triển lãm thành tựu KT-XH nhân kỷ niệm 80 năm  Ngày Quốc khánh](https://baochinhphu.vn/hoan-thien-du-thao-de-an-to-chuc-trien-lam-thanh-tuu-kt-xh-nhan-ky-niem-80-nam-ngay-quoc-khanh-102250531182314224.htm) - 18:39 31/05/2025
 - 🦣 [Thủ tướng: Giải quyết xong các yêu cầu, khó khăn của doanh nghiệp trong vòng 2 tuần](https://baochinhphu.vn/thu-tuong-giai-quyet-xong-cac-yeu-cau-kho-khan-cua-doanh-nghiep-trong-vong-2-tuan-102250531132527922.htm) - 18:23 31/05/2025
 - ⛽️ [Thành lập Ban Chỉ đạo quốc gia triển khai Nghị quyết số 68-NQ/TW về phát triển kinh tế tư nhân](https://baochinhphu.vn/thanh-lap-ban-chi-dao-quoc-gia-trien-khai-nghi-quyet-so-68-nq-tw-ve-phat-trien-kinh-te-tu-nhan-102250531174924472.htm) - 18:22 31/05/2025
