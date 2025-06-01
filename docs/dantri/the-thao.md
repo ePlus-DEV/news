@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [U16 Việt Nam 1-1 U16 Saudi Arabia &lpar;hiệp 2&rpar;: U16 Việt Nam gỡ hòa đẹp mắt](https://dantri.com.vn/the-thao/u16-viet-nam-1-1-u16-saudi-arabia-hiep-2-u16-viet-nam-go-hoa-dep-mat-20250601125114000.htm) - 05:51 01/06/2025
+- 🎡 [Thi đấu quả cảm dưới nắng nóng, U16 Việt Nam đánh bại Saudi Arabia](https://dantri.com.vn/the-thao/thi-dau-qua-cam-duoi-nang-nong-u16-viet-nam-danh-bai-saudi-arabia-20250601125114000.htm) - 05:51 01/06/2025
 - 💯 [Người hùng PSG khiến bóng đá châu Âu phát cuồng, CĐV quên Mbappe](https://dantri.com.vn/the-thao/nguoi-hung-psg-khien-bong-da-chau-au-phat-cuong-cdv-quen-mbappe-20250601120911549.htm) - 05:09 01/06/2025
 - ⛽️ [Ngôi sao PSG gây phẫn nộ vì hành động lạ sau khi ghi bàn](https://dantri.com.vn/the-thao/ngoi-sao-psg-gay-phan-no-vi-hanh-dong-la-sau-khi-ghi-ban-20250601110747018.htm) - 04:08 01/06/2025
 - 💃 [Mbappe phản ứng khi PSG giành chức vô địch Champions League](https://dantri.com.vn/the-thao/mbappe-phan-ung-khi-psg-gianh-chuc-vo-dich-champions-league-20250601084905174.htm) - 02:13 01/06/2025
