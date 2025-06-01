@@ -406,10 +406,10 @@ thịnh vượng](https://nld.com.vn/tong-bi-thu-to-lam-tiet-kiem-la-tru-cot-de-
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Phó Thủ tướng Bùi Thanh Sơn tiếp đoàn chuyên gia, nhà khoa học Việt Nam ở nước ngoài](https://baochinhphu.vn/pho-thu-tuong-bui-thanh-son-tiep-doan-chuyen-gia-nha-khoa-hoc-viet-nam-o-nuoc-ngoai-102250601195225343.htm) - 19:56 01/06/2025
-- 🌜 [FPT khởi công xây Trường Phổ thông liên cấp FPT Sóc Trăng](https://baochinhphu.vn/fpt-khoi-cong-xay-truong-pho-thong-lien-cap-fpt-soc-trang-102250601183723715.htm) - 19:28 01/06/2025
-- 🦆 [Cục Thuế chỉ đạo triển khai Thông tư mới về quản lý tem và hóa đơn điện tử](https://baochinhphu.vn/cuc-thue-chi-dao-trien-khai-thong-tu-moi-ve-quan-ly-tem-va-hoa-don-dien-tu-102250601174410871.htm) - 18:20 01/06/2025
-- 🌝 [Thủ tướng Phạm Minh Chính dự khởi công Tổ hợp không gian sáng tạo CMC](https://baochinhphu.vn/thu-tuong-pham-minh-chinh-du-khoi-cong-to-hop-khong-gian-sang-tao-cmc-102250601173304105.htm) - 17:39 01/06/2025
+- 💻 [Thủ tướng Phạm Minh Chính dự khởi công Tổ hợp không gian sáng tạo CMC](https://baochinhphu.vn/thu-tuong-pham-minh-chinh-du-khoi-cong-to-hop-khong-gian-sang-tao-cmc-102250601173304105.htm) - 20:17 01/06/2025
+- 🌜 [Phó Thủ tướng Bùi Thanh Sơn tiếp đoàn chuyên gia, nhà khoa học Việt Nam ở nước ngoài](https://baochinhphu.vn/pho-thu-tuong-bui-thanh-son-tiep-doan-chuyen-gia-nha-khoa-hoc-viet-nam-o-nuoc-ngoai-102250601195225343.htm) - 19:56 01/06/2025
+- 🦆 [FPT khởi công xây Trường Phổ thông liên cấp FPT Sóc Trăng](https://baochinhphu.vn/fpt-khoi-cong-xay-truong-pho-thong-lien-cap-fpt-soc-trang-102250601183723715.htm) - 19:28 01/06/2025
+- 🌝 [Cục Thuế chỉ đạo triển khai Thông tư mới về quản lý tem và hóa đơn điện tử](https://baochinhphu.vn/cuc-thue-chi-dao-trien-khai-thong-tu-moi-ve-quan-ly-tem-va-hoa-don-dien-tu-102250601174410871.htm) - 18:20 01/06/2025
 - 🦣 [Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ ngày 01/6/2025](https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-01-6-2025-102250601171611872.htm) - 17:19 01/06/2025
 - ⛽️ [Tổng Bí thư Tô Lâm thăm hai trường học chuyên biệt tại Hà Nội](https://baochinhphu.vn/tong-bi-thu-to-lam-tham-hai-truong-hoc-chuyen-biet-tai-ha-noi-102250601165858675.htm) - 16:37 01/06/2025
 - 🎓 [Đầu tư mở rộng Cảng hàng không quốc tế Phú Quốc](https://baochinhphu.vn/dau-tu-mo-rong-cang-hang-khong-quoc-te-phu-quoc-102250601155809715.htm) - 16:23 01/06/2025
