@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Những &#39;vết rạch, lỗ thủng&#39; triệu USD](https://vnexpress.net/nhung-vet-rach-lo-thung-trieu-usd-4892548.html) - 14:02 02/06/2025
-- 💫 [Mạc Văn Khoa sợ bị chê khi từ diễn hài sang đóng phim kinh dị](https://vnexpress.net/mac-van-khoa-so-bi-che-khi-tu-dien-hai-sang-dong-phim-kinh-di-4893612.html) - 12:45 02/06/2025
+- 💫 [Mạc Văn Khoa sợ bị chê](https://vnexpress.net/mac-van-khoa-so-bi-che-4893612.html) - 12:45 02/06/2025
 - 🌮 [Tô Hữu Bằng, Cổ Cự Cơ đánh thức kỷ niệm khán giả](https://vnexpress.net/to-huu-bang-co-cu-co-danh-thuc-ky-niem-khan-gia-4893460.html) - 12:29 02/06/2025
 - 🧠 [Pax Thiên loạng choạng trên phố](https://vnexpress.net/pax-thien-loang-choang-tren-pho-4893588.html) - 10:46 02/06/2025
 - 👨‍🏫 [Nét tươi trẻ của dàn &#39;Em xinh say hi&#39;](https://vnexpress.net/net-tuoi-tre-cua-dan-em-xinh-say-hi-4893469.html) - 09:44 02/06/2025
