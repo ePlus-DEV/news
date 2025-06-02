@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Liên đoàn Cờ vua Thế giới chế giễu Carlsen](https://vnexpress.net/lien-doan-co-vua-the-gioi-che-gieu-carlsen-4893256.html) - 03:34 02/06/2025
+- 🪜 [Liên đoàn cờ vua thế giới chế giễu Carlsen](https://vnexpress.net/lien-doan-co-vua-the-gioi-che-gieu-carlsen-4893256.html) - 03:34 02/06/2025
 - 🦩 [Alcaraz nhường điểm cho đối thủ](https://vnexpress.net/alcaraz-nhuong-diem-cho-doi-thu-4893309.html) - 03:01 02/06/2025
 - 🧰 [Fan Việt tìm cách săn vé xem FIFA Club World Cup 2025](https://vnexpress.net/fan-viet-tim-cach-san-ve-xem-fifa-club-world-cup-2025-4893241.html) - 02:00 02/06/2025
 - 🤗 [Truyền thông Italy quay lưng với HLV Inzaghi](https://vnexpress.net/truyen-thong-italy-quay-lung-voi-hlv-inzaghi-4893255.html) - 01:52 02/06/2025
