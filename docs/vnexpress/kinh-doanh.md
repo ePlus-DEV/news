@@ -36,7 +36,7 @@ sidebar_position: 3
 - 🤖 [Ông Trump sẽ tăng thuế thép nhập khẩu lên 50%](https://vnexpress.net/ong-trump-se-tang-thue-thep-nhap-khau-len-50-4892653.html) - 23:33 30/05/2025
 - 🫣 [Giá bán lẻ điện sinh hoạt cao nhất gần 4.000 đồng một kWh](https://vnexpress.net/gia-ban-le-dien-sinh-hoat-cao-nhat-gan-4-000-dong-mot-kwh-4892648.html) - 17:46 30/05/2025
 - 🌏 [Đà Nẵng kêu gọi đầu tư Bến cảng khí hóa lỏng 5.400 tỷ đồng](https://vnexpress.net/da-nang-keu-goi-dau-tu-ben-cang-khi-hoa-long-5-400-ty-dong-4892454.html) - 17:01 30/05/2025
-- ⚗️ [Cửa hàng kinh doanh thịt heo C.P. ở Sóc Trăng bị kiểm tra](https://vnexpress.net/cua-hang-kinh-doanh-thit-heo-c-p-o-soc-trang-bi-kiem-tra-4892607.html) - 15:41 30/05/2025
+- ⚗️ [Cửa hàng kinh doanh thịt heo C.P ở Sóc Trăng bị kiểm tra](https://vnexpress.net/cua-hang-kinh-doanh-thit-heo-c-p-o-soc-trang-bi-kiem-tra-4892607.html) - 15:41 30/05/2025
 - 🕯 [Công bố kết luận thanh tra kinh doanh vàng tại bốn doanh nghiệp, hai ngân hàng](https://vnexpress.net/xu-phat-6-ong-lon-kinh-doanh-vang-4892620.html) - 14:39 30/05/2025
 - 👍 [Chủ tịch Vietjet: Mong tiếp tục là cầu nối tăng trưởng giữa Việt Nam và thế giới](https://vnexpress.net/chu-tich-vietjet-mong-tiep-tuc-la-cau-noi-tang-truong-giua-viet-nam-va-the-gioi-4892605.html) - 11:47 30/05/2025
 - 🤠 [Chủ tịch Viglacera xin từ nhiệm](https://vnexpress.net/chu-tich-viglacera-xin-tu-nhiem-4892591.html) - 11:00 30/05/2025
