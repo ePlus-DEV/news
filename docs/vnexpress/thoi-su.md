@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Đã trục vớt tàu chìm ở Lý Sơn khiến 4 người chết, 5 nạn nhân mất tích](https://vnexpress.net/da-truc-vot-tau-chim-o-ly-son-khien-4-nguoi-chet-5-nan-nhan-mat-tich-4893523.html) - 09:09 02/06/2025
+- 🦒 [Tàu chìm ở Lý Sơn khiến 4 người chết đã được trục vớt](https://vnexpress.net/tau-chim-o-ly-son-khien-4-nguoi-chet-da-duoc-truc-vot-4893523.html) - 09:09 02/06/2025
 - 🤓 [Xe giường nằm cháy rụi trên cao tốc](https://vnexpress.net/xe-giuong-nam-chay-rui-tren-cao-toc-4893473.html) - 08:16 02/06/2025
 - ⚗️ [Hạn chế xe qua cầu Mỹ Thuận một tháng để sửa chữa](https://vnexpress.net/han-che-xe-qua-cau-my-thuan-mot-thang-de-sua-chua-4893376.html) - 04:41 02/06/2025
 - 🌊 [Địa phương được duy trì nhiều trụ sở làm việc giai đoạn đầu sáp nhập](https://vnexpress.net/dia-phuong-duoc-duy-tri-nhieu-tru-so-lam-viec-giai-doan-dau-sap-nhap-4893333.html) - 04:28 02/06/2025
