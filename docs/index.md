@@ -407,7 +407,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Chủ tịch Hà Nội yêu cầu kiểm tra, xử lý việc đưa thông tin sai sự thật về Vietjet](https://baochinhphu.vn/chu-tich-ha-noi-yeu-cau-kiem-tra-xu-ly-viec-dua-thong-tin-sai-su-that-ve-vietjet-102250602212109476.htm) - 21:30 02/06/2025
+- 💻 [Yêu cầu xử lý các tài khoản mạng xã hội đưa thông tin không đúng sự thật, gây ảnh hưởng cho Vietjet](https://baochinhphu.vn/chu-tich-ha-noi-yeu-cau-kiem-tra-xu-ly-viec-dua-thong-tin-sai-su-that-ve-vietjet-102250602212109476.htm) - 21:30 02/06/2025
 - 🌜 [Từ nông thôn đến thành thị: Hành trình số hóa bền vững của Agribank](https://baochinhphu.vn/tu-nong-thon-den-thanh-thi-hanh-trinh-so-hoa-ben-vung-cua-agribank-102250602210716139.htm) - 21:16 02/06/2025
 - 🦆 [Cần có chính sách cho giáo viên, bác sĩ, quân nhân ở biên giới, hải đảo... được mua nhà ở xã hội](https://baochinhphu.vn/can-co-chinh-sach-cho-giao-vien-bac-si-quan-nhan-o-bien-gioi-hai-dao-duoc-mua-nha-o-xa-hoi-102250602204020507.htm) - 21:12 02/06/2025
 - 🌝 [Đẩy nhanh tiến độ giải ngân tín dụng nhà ở xã hội](https://baochinhphu.vn/day-nhanh-tien-do-giai-ngan-tin-dung-nha-o-xa-hoi-102250602203833584.htm) - 21:06 02/06/2025
