@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [&#39;Vá&#39; lổ thủng ga tàu điện Cát Linh - Hà Đông](https://vnexpress.net/va-lo-thung-ga-tau-dien-cat-linh-ha-dong-4893659.html) - 15:13 02/06/2025
+- 🦒 [&#39;Vá&#39; lỗ thủng ga tàu điện Cát Linh - Hà Đông](https://vnexpress.net/va-lo-thung-ga-tau-dien-cat-linh-ha-dong-4893659.html) - 15:13 02/06/2025
 - 🤓 [Tường rào sập đè chết hai bà cháu](https://vnexpress.net/tuong-rao-sap-de-chet-hai-ba-chau-4893665.html) - 14:20 02/06/2025
 - ⚗️ [Giảm thủ tục cấp phép xây dựng tại khu vực đã có quy hoạch chi tiết](https://vnexpress.net/giam-thu-tuc-cap-phep-xay-dung-tai-khu-vuc-da-co-quy-hoach-chi-tiet-4893647.html) - 14:02 02/06/2025
 - 🌊 [Xá lợi Đức Phật Thích Ca Mâu Ni rời Việt Nam](https://vnexpress.net/xa-loi-duc-phat-thich-ca-mau-ni-roi-viet-nam-4893653.html) - 13:39 02/06/2025
