@@ -8,7 +8,7 @@ sidebar_position: 3
 - 🐲 [Chuyên gia: Việt Nam nên cân nhắc đánh thuế căn nhà thứ hai](https://vnexpress.net/chuyen-gia-viet-nam-nen-can-nhac-danh-thue-can-nha-thu-hai-4893968.html) - 10:58 03/06/2025
 - 🔥 [Gần 112.000 gói măng lậu trên xe khách](https://vnexpress.net/gan-112-000-goi-mang-lau-tren-xe-khach-4894090.html) - 10:16 03/06/2025
 - 🐵 [Bến xe miền Đông lãi hơn 13 tỷ đồng](https://vnexpress.net/ben-xe-mien-dong-lai-hon-13-ty-dong-4894007.html) - 09:53 03/06/2025
-- 🦅 [OECD hạ dự báo tăng trưởng toàn cầu](https://vnexpress.net/oecd-ha-du-bao-tang-truong-toan-cau-4893980.html) - 09:37 03/06/2025
+- 🦅 [OECD hạ dự báo tăng trưởng Mỹ, Trung Quốc và toàn cầu](https://vnexpress.net/oecd-ha-du-bao-tang-truong-my-trung-quoc-va-toan-cau-4893980.html) - 09:37 03/06/2025
 - 😺 [Công ty bầu Đức muốn phát hành 210 triệu cổ phiếu để hoán đổi nợ](https://vnexpress.net/cong-ty-bau-duc-muon-phat-hanh-210-trieu-co-phieu-de-hoan-doi-no-4894024.html) - 09:28 03/06/2025
 - 🤩 [Quảng Trị phát hiện 9 con lợn chết trước lò giết mổ](https://vnexpress.net/quang-tri-phat-hien-9-con-lon-chet-truoc-lo-giet-mo-4894030.html) - 08:48 03/06/2025
 - 🌮 [VN-Index lập đỉnh 3 năm](https://vnexpress.net/vn-index-lap-dinh-3-nam-4894029.html) - 08:38 03/06/2025
