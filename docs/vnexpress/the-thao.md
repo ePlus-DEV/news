@@ -4,11 +4,11 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Simone Inzaghi dẫn dắt Al Hilal](https://vnexpress.net/simone-inzaghi-dan-dat-al-hilal-4893914.html) - 15:34 03/06/2025
-- 🦩 [Chờ màn ra mắt của Alonso tại FIFA Club World Cup 2025](https://vnexpress.net/cho-man-ra-mat-cua-alonso-tai-fifa-club-world-cup-2025-4894151.html) - 14:00 03/06/2025
-- 🧰 [Công An Hà Nội lên thứ ba V-League](https://vnexpress.net/cong-an-ha-noi-len-thu-ba-v-league-4894158.html) - 13:40 03/06/2025
-- 🤗 [Kỷ lục gia cờ tướng Trềnh A Sáng qua đời](https://vnexpress.net/ky-luc-gia-co-tuong-trenh-a-sang-qua-doi-4894150.html) - 12:55 03/06/2025
-- 🥳 [Chạy chân trần dưới cái nóng 35 độ C ở Hạ Long](https://vnexpress.net/chay-chan-tran-duoi-cai-nong-35-do-c-o-ha-long-4893795.html) - 12:00 03/06/2025
+- 🪜 [Malaysia thua đậm trước khi đấu Việt Nam](https://vnexpress.net/malaysia-thua-dam-truoc-khi-dau-viet-nam-4894194.html) - 16:05 03/06/2025
+- 🦩 [Simone Inzaghi dẫn dắt Al Hilal](https://vnexpress.net/simone-inzaghi-dan-dat-al-hilal-4893914.html) - 15:34 03/06/2025
+- 🧰 [Chờ màn ra mắt của Alonso tại FIFA Club World Cup 2025](https://vnexpress.net/cho-man-ra-mat-cua-alonso-tai-fifa-club-world-cup-2025-4894151.html) - 14:00 03/06/2025
+- 🤗 [Công An Hà Nội lên thứ ba V-League](https://vnexpress.net/cong-an-ha-noi-len-thu-ba-v-league-4894158.html) - 13:40 03/06/2025
+- 🥳 [Kỷ lục gia cờ tướng Trềnh A Sáng qua đời](https://vnexpress.net/ky-luc-gia-co-tuong-trenh-a-sang-qua-doi-4894150.html) - 12:55 03/06/2025
 - 🦣 [Nữ Việt kiều muốn về nước thi đấu sau khi tốt nghiệp đại học](https://vnexpress.net/nu-viet-kieu-muon-ve-nuoc-thi-dau-sau-khi-tot-nghiep-dai-hoc-4894129.html) - 11:57 03/06/2025
 - 🌜 [Hoàng Đức: &#39;Trận đấu Malaysia quan trọng nhất năm 2025&#39;](https://vnexpress.net/hoang-duc-tran-dau-malaysia-quan-trong-nhat-nam-2025-4894141.html) - 11:51 03/06/2025
 - 🫶 [Chelsea nộp phạt để trả Sancho về Man Utd](https://vnexpress.net/chelsea-nop-phat-de-tra-sancho-ve-man-utd-4894127.html) - 11:17 03/06/2025
