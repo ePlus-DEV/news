@@ -4,63 +4,63 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Học phí trường Đại học Công nghệ cao nhất 40 triệu đồng](https://vnexpress.net/hoc-phi-dai-hoc-cong-nghe-nam-2025-2026-4894143.html) - 14:03 03/06/2025
-- 🦆 [Tỉnh nào có mức sống rẻ nhất cả nước?](https://vnexpress.net/tinh-nao-co-muc-song-re-nhat-ca-nuoc-4893975.html) - 13:00 03/06/2025
-- 🦩 [Lời giải đề thi lớp 10 chuyên Toán của Vĩnh Phúc](https://vnexpress.net/dap-an-de-thi-lop-10-chuyen-toan-truong-chuyen-vinh-phuc-nam-2025-4894138.html) - 11:17 03/06/2025
-- 🌮 [Gần 950 học sinh TP HCM được tuyển thẳng vào lớp 10 công lập](https://vnexpress.net/gan-950-hoc-sinh-tp-hcm-duoc-tuyen-thang-vao-lop-10-cong-lap-4894089.html) - 09:47 03/06/2025
-- 🔭 [Hà Nội sắp có ba trường THPT công lập mới](https://vnexpress.net/ba-truong-thpt-moi-o-ha-noi-tuyen-hang-nghin-suat-hoc-lop-10-4893933.html) - 07:40 03/06/2025
-- 💡 [Một trung tâm tiếng Anh tại TP HCM bị đình chỉ hoạt động](https://vnexpress.net/mot-trung-tam-tieng-anh-tai-tp-hcm-bi-dinh-chi-hoat-dong-4893830.html) - 06:32 03/06/2025
-- 🥰 [Nhiều học sinh trường chuyên chọn học bổng đại học quốc tế](https://vnexpress.net/nhieu-hoc-sinh-truong-chuyen-chon-hoc-bong-dai-hoc-quoc-te-4892033.html) - 06:00 03/06/2025
-- 🐲 [FPT khởi công trường liên cấp tại Sóc Trăng](https://vnexpress.net/fpt-khoi-cong-truong-lien-cap-tai-soc-trang-4893839.html) - 04:15 03/06/2025
-- 🦒 [5 thay đổi với học sinh thi lớp 10 ở Hà Nội](https://vnexpress.net/so-giao-duc-luu-y-10-diem-moi-trong-ky-thi-lop-10-o-ha-noi-nam-2025-4893761.html) - 03:49 03/06/2025
-- 🦆 [Sẽ dạy tiếng Lào trong trường phổ thông](https://vnexpress.net/se-day-tieng-lao-trong-truong-pho-thong-4893675.html) - 01:34 03/06/2025
-- 🧰 [30 đại học ở Hà Nội công bố &#39;điểm sàn&#39; SAT, ACT](https://vnexpress.net/30-dai-hoc-o-ha-noi-cong-bo-diem-san-sat-act-4893615.html) - 23:00 02/06/2025
-- 🐘 [Trường tư ở TP HCM tuyển gần 19.500 học sinh lớp 10](https://vnexpress.net/danh-sach-truong-tu-thuc-tuyen-sinh-lop-10-o-tp-hcm-4893621.html) - 11:16 02/06/2025
-- 🤓 [Lời giải đề thi lớp 10 môn Toán của Vĩnh Phúc](https://vnexpress.net/loi-giai-de-thi-lop-10-mon-toan-cua-vinh-phuc-4893622.html) - 10:38 02/06/2025
-- 🧰 [Nam sinh Đà Nẵng vô địch Olympic AI toàn quốc](https://vnexpress.net/nam-sinh-da-nang-vo-dich-olympic-ai-toan-quoc-4893345.html) - 07:22 02/06/2025
-- 🧑‍💻 [Người mẹ giúp con bại não lấy bằng thạc sĩ Harvard](https://vnexpress.net/nguoi-me-giup-con-bai-nao-lay-bang-thac-si-harvard-4893239.html) - 06:18 02/06/2025
-- 🫶 [Thí sinh kêu mất 30 phút thi đánh giá năng lực vì giám thị](https://vnexpress.net/thi-sinh-keu-mat-30-phut-thi-danh-gia-nang-luc-vi-giam-thi-4893315.html) - 05:25 02/06/2025
-- 🪜 [Hàng nghìn học sinh chinh phục lập trình AI tại FPTU AI &amp;amp; Robotics Challenge](https://vnexpress.net/hang-nghin-hoc-sinh-chinh-phuc-lap-trinh-ai-tai-fptu-ai-robotics-challenge-4893378.html) - 04:30 02/06/2025
-- 🎊 [Lời giải đề Toán vòng 2 thi lớp 10 chuyên Khoa học Tự nhiên](https://vnexpress.net/loi-giai-de-toan-vong-2-thi-lop-10-chuyen-khoa-hoc-tu-nhien-4893368.html) - 04:04 02/06/2025
-- 🧐 [Bách khoa Hà Nội công bố top thí sinh theo điểm thi đánh giá tư duy](https://vnexpress.net/bach-khoa-ha-noi-cong-bo-top-thi-sinh-theo-diem-thi-danh-gia-tu-duy-4893295.html) - 03:38 02/06/2025
-- 🌈 [Đề các môn chuyên thi lớp 10 chuyên Khoa học Tự nhiên](https://vnexpress.net/de-toan-vong-2-thi-lop-10-truong-thpt-chuyen-khoa-hoc-tu-nhien-2025-4893257.html) - 03:28 02/06/2025
-- 🥰 [Nam sinh 1m82 dẫn dắt THPT Marie Curie vô địch giải bóng rổ trẻ](https://vnexpress.net/nam-sinh-1m82-dan-dat-thpt-marie-curie-vo-dich-giai-bong-ro-tre-4893157.html) - 22:56 01/06/2025
-- 🎡 [Cách giúp thí sinh giải Bóng rổ trẻ vừa học tốt, vừa thể thao giỏi](https://vnexpress.net/cach-giup-thi-sinh-giai-bong-ro-tre-vua-hoc-tot-vua-the-thao-gioi-4893087.html) - 15:16 01/06/2025
-- 🎊 [Đại học Sư phạm TP HCM tăng chỉ tiêu](https://vnexpress.net/cac-phuong-thuc-xet-tuyen-dai-hoc-su-pham-tp-hcm-2025-4892978.html) - 14:30 01/06/2025
-- 🌏 [&#39;Đại học trong đại học&#39; ở Việt Nam giống và khác thế giới ra sao?](https://vnexpress.net/dai-hoc-trong-dai-hoc-o-viet-nam-giong-va-khac-the-gioi-ra-sao-4892412.html) - 14:00 01/06/2025
-- 🥸 [Nước nào có đường sắt bao quanh sa mạc đầu tiên trên thế giới?](https://vnexpress.net/nuoc-nao-co-duong-sat-bao-quanh-sa-mac-dau-tien-tren-the-gioi-4893176.html) - 12:32 01/06/2025
-- 🕴 [Hai xu hướng quan trọng của thị trường việc làm](https://vnexpress.net/hai-xu-huong-quan-trong-cua-thi-truong-viec-lam-4892686.html) - 11:30 01/06/2025
-- 💂 [Lời giải đề Toán vòng 1 thi lớp 10 chuyên Khoa học Tự nhiên](https://vnexpress.net/dap-an-de-toan-vong-1-thi-lop-10-chuyen-khoa-hoc-tu-nhien-2025-4893169.html) - 11:25 01/06/2025
-- 🕴 [Nữ sinh 17 tuổi đoạt giải xuất sắc giải Bóng rổ trẻ 2025](https://vnexpress.net/nu-sinh-17-tuoi-doat-giai-xuat-sac-giai-bong-ro-tre-2025-4893124.html) - 09:39 01/06/2025
-- 🌋 [Trung Quốc cấm học sinh tiểu học tự ý dùng AI giải bài tập](https://vnexpress.net/trung-quoc-cam-hoc-sinh-tieu-hoc-tu-y-dung-ai-giai-bai-tap-4892805.html) - 07:34 01/06/2025
-- 🪜 [Cô gái cận 15 diop giành học bổng toàn phần đại học](https://vnexpress.net/co-gai-can-15-diop-gianh-hoc-bong-toan-phan-dai-hoc-4891855.html) - 06:00 01/06/2025
-- 🕴 [Phan Đình Phùng và Marie Curie Hà Nội lên ngôi ở giải bóng rổ trẻ VnExpress - Ziaja Cup 2025](https://vnexpress.net/phan-dinh-phung-va-marie-curie-ha-noi-len-ngoi-o-giai-bong-ro-tre-vnexpress-ziaja-cup-2025-4893081.html) - 05:00 01/06/2025
-- 🎃 [Đề thi Toán, Văn, Anh vào lớp 10 trường chuyên Khoa học Tự nhiên](https://vnexpress.net/de-thi-vao-lop-10-truong-chuyen-khoa-hoc-tu-nhien-2025-4893024.html) - 03:04 01/06/2025
-- 🦏 [Hơn 67.600 thí sinh thi lại để tăng điểm vào đại học](https://vnexpress.net/ky-thi-danh-gia-nang-luc-dot-2-dai-hoc-quoc-gia-tp-hcm-4892977.html) - 02:12 01/06/2025
-- 🧑‍🏫 [Gần 6.400 học sinh tranh suất lớp 10 chuyên ở Hà Nội](https://vnexpress.net/gan-6-400-hoc-sinh-tranh-suat-lop-10-chuyen-o-ha-noi-4892963.html) - 01:30 01/06/2025
-- 💡 [THPT Marie Curie vô địch giải Bóng rổ trẻ 2025](https://vnexpress.net/thpt-marie-curie-vo-dich-giai-bong-ro-tre-2025-4892879.html) - 01:00 01/06/2025
-- 🐎 [Thầy cô e ngại vì học trò dùng AI giải Toán, làm Văn](https://vnexpress.net/thay-co-e-ngai-vi-hoc-tro-dung-ai-giai-toan-lam-van-4885964.html) - 23:00 31/05/2025
-- 🧰 [Nam sinh cao 1m82 là linh hồn tuyển bóng rổ chuyên Trần Đại Nghĩa](https://vnexpress.net/nam-sinh-cao-1m82-la-linh-hon-tuyen-bong-ro-chuyen-tran-dai-nghia-4892921.html) - 14:00 31/05/2025
-- 🙉 [Nước châu Á nào có tới 130 núi lửa đang hoạt động?](https://vnexpress.net/nuoc-chau-a-nao-co-toi-130-nui-lua-dang-hoat-dong-4892872.html) - 13:18 31/05/2025
-- ⚗️ [Nước mắt tiếc nuối ở hai trận bán kết nữ Cup Ziaja](https://vnexpress.net/nuoc-mat-tiec-nuoi-o-hai-tran-ban-ket-nu-cup-ziaja-4892885.html) - 13:00 31/05/2025
-- 🌝 [Đang học Tự động hóa trường Bách khoa có nên chuyển sang nghề Marketing?](https://vnexpress.net/dang-hoc-tu-dong-hoa-truong-bach-khoa-co-nen-chuyen-sang-nghe-marketing-4892770.html) - 12:27 31/05/2025
-- ⛽️ [Những khoảnh khắc đẹp sau hai ngày diễn ra giải bóng rổ học đường](https://vnexpress.net/nhung-khoanh-khac-dep-sau-hai-ngay-dien-ra-giai-bong-ro-hoc-duong-4892886.html) - 10:15 31/05/2025
-- 🌜 [Bán kết nghẹt thở tại giải bóng rổ trẻ VnExpress - Ziaja Cup 2025](https://vnexpress.net/ban-ket-nghet-tho-tai-giai-bong-ro-tre-vnexpress-ziaja-cup-2025-4892871.html) - 09:30 31/05/2025
-- ⚗️ [Làn sóng trở về của nhân tài gốc Trung Quốc](https://vnexpress.net/lan-song-tro-ve-cua-nhan-tai-goc-trung-quoc-4892806.html) - 08:00 31/05/2025
-- 🧰 [Vượt gần 2.000 km theo con vào Nam thi đấu bóng rổ](https://vnexpress.net/vuot-gan-2-000-km-theo-con-vao-nam-thi-dau-bong-ro-4892803.html) - 08:00 31/05/2025
-- 🤗 [Trường Luật của ĐH Quốc gia Hà Nội bỏ tổ hợp C00, tăng học phí](https://vnexpress.net/to-hop-xet-tuyen-hoc-phi-truong-dai-hoc-luat-dai-hoc-quoc-gia-ha-noi-4892814.html) - 07:27 31/05/2025
-- 🔥 [&#39;Don&#39;t get me wrong&#39; nghĩa là gì?](https://vnexpress.net/don-t-get-me-wrong-nghia-la-gi-4892137.html) - 03:00 31/05/2025
-- 💪 [1 chọi 18 vào lớp 6 trường &#39;hot&#39; ở Hà Nội](https://vnexpress.net/1-choi-18-vao-lop-6-truong-hot-o-ha-noi-4892631.html) - 00:30 31/05/2025
-- 💂 [Hà Nội góp phần lớn đại diện ở bán kết giải bóng rổ học đường hai miền](https://vnexpress.net/ha-noi-gop-phan-lon-dai-dien-o-ban-ket-giai-bong-ro-hoc-duong-hai-mien-4892671.html) - 00:30 31/05/2025
-- 🌮 [Thành phố nào là &#39;Thung lũng Silicon của châu Á&#39;?](https://vnexpress.net/thanh-pho-nao-la-thung-lung-silicon-cua-chau-a-4892434.html) - 15:18 30/05/2025
-- 🪄 [Thanh Hóa chi 22 tỷ đồng dạy thêm trong trường](https://vnexpress.net/muc-chi-day-them-trong-truong-cua-tinh-thanh-hoa-chi-tiet-nhat-4892608.html) - 14:15 30/05/2025
-- 🎡 [Thí sinh đi nhầm điểm thi 60 km](https://vnexpress.net/thi-sinh-di-nham-diem-thi-60-km-4892595.html) - 12:59 30/05/2025
-- 🌈 [Nam sinh đạt 1600 SAT sau ba lần thi](https://vnexpress.net/nam-sinh-dat-1600-sat-sau-ba-lan-thi-4892131.html) - 12:00 30/05/2025
-- 🎊 [&#39;Bóng rổ học đường tạo bệ phóng cho tài năng quốc gia&#39;](https://vnexpress.net/bong-ro-hoc-duong-tao-be-phong-cho-tai-nang-quoc-gia-4892553.html) - 09:30 30/05/2025
-- ⚗️ [Học viện Tài chính công bố công thức tính điểm xét tuyển](https://vnexpress.net/hoc-vien-tai-chinh-cong-bo-cong-thuc-tinh-diem-xet-tuyen-4892334.html) - 08:45 30/05/2025
-- 🌁 [Niềm vui vỡ òa ở những giây cuối tại giải bóng rổ trẻ VnExpress - Cup Ziaja](https://vnexpress.net/niem-vui-vo-oa-o-nhung-giay-cuoi-tai-giai-bong-ro-tre-vnexpress-cup-ziaja-4892489.html) - 08:00 30/05/2025
-- 🦏 [1 chọi 14 vào lớp 6 THCS-THPT Trần Đại Nghĩa](https://vnexpress.net/1-choi-14-vao-lop-6-thcs-thpt-tran-dai-nghia-4892418.html) - 05:43 30/05/2025
-- 👍 [Lời giải đề thi môn Toán vào lớp 10 ở Bình Dương](https://vnexpress.net/dap-an-de-thi-lop-10-mon-toan-tinh-binh-duong-2025-4892317.html) - 02:44 30/05/2025
-- 🌈 [Hơn 50 đại học công bố mức quy đổi điểm IELTS](https://vnexpress.net/muc-quy-doi-diem-ielts-cua-hon-50-dai-hoc-4892060.html) - 23:00 29/05/2025
-- 🕴 [Nên chọn FTU hay UEH?](https://vnexpress.net/nen-chon-ftu-hay-ueh-4890668.html) - 16:59 29/05/2025
-- 🧰 [Đề xuất chỉ hai trường đào tạo gần 4.000 nhân lực điện hạt nhân](https://vnexpress.net/de-xuat-chi-hai-truong-dao-tao-gan-4-000-nhan-luc-dien-hat-nhan-4892189.html) - 15:36 29/05/2025<!-- vnexpress-giao-duc:END -->
+- 🤓 [Học sinh Việt giành ba huy chương vàng Hóa học quốc tế](https://vnexpress.net/hoc-sinh-viet-gianh-ba-huy-chuong-vang-hoa-hoc-quoc-te-4894200.html) - 17:31 03/06/2025
+- 🦆 [Học phí trường Đại học Công nghệ cao nhất 40 triệu đồng](https://vnexpress.net/hoc-phi-dai-hoc-cong-nghe-nam-2025-2026-4894143.html) - 14:03 03/06/2025
+- 🦩 [Tỉnh nào có mức sống rẻ nhất cả nước?](https://vnexpress.net/tinh-nao-co-muc-song-re-nhat-ca-nuoc-4893975.html) - 13:00 03/06/2025
+- 🌮 [Lời giải đề thi lớp 10 chuyên Toán của Vĩnh Phúc](https://vnexpress.net/dap-an-de-thi-lop-10-chuyen-toan-truong-chuyen-vinh-phuc-nam-2025-4894138.html) - 11:17 03/06/2025
+- 🔭 [Gần 950 học sinh TP HCM được tuyển thẳng vào lớp 10 công lập](https://vnexpress.net/gan-950-hoc-sinh-tp-hcm-duoc-tuyen-thang-vao-lop-10-cong-lap-4894089.html) - 09:47 03/06/2025
+- 💡 [Hà Nội sắp có ba trường THPT công lập mới](https://vnexpress.net/ba-truong-thpt-moi-o-ha-noi-tuyen-hang-nghin-suat-hoc-lop-10-4893933.html) - 07:40 03/06/2025
+- 🥰 [Một trung tâm tiếng Anh tại TP HCM bị đình chỉ hoạt động](https://vnexpress.net/mot-trung-tam-tieng-anh-tai-tp-hcm-bi-dinh-chi-hoat-dong-4893830.html) - 06:32 03/06/2025
+- 🐲 [Nhiều học sinh trường chuyên chọn học bổng đại học quốc tế](https://vnexpress.net/nhieu-hoc-sinh-truong-chuyen-chon-hoc-bong-dai-hoc-quoc-te-4892033.html) - 06:00 03/06/2025
+- 🦒 [FPT khởi công trường liên cấp tại Sóc Trăng](https://vnexpress.net/fpt-khoi-cong-truong-lien-cap-tai-soc-trang-4893839.html) - 04:15 03/06/2025
+- 🦆 [5 thay đổi với học sinh thi lớp 10 ở Hà Nội](https://vnexpress.net/so-giao-duc-luu-y-10-diem-moi-trong-ky-thi-lop-10-o-ha-noi-nam-2025-4893761.html) - 03:49 03/06/2025
+- 🧰 [Sẽ dạy tiếng Lào trong trường phổ thông](https://vnexpress.net/se-day-tieng-lao-trong-truong-pho-thong-4893675.html) - 01:34 03/06/2025
+- 🐘 [30 đại học ở Hà Nội công bố &#39;điểm sàn&#39; SAT, ACT](https://vnexpress.net/30-dai-hoc-o-ha-noi-cong-bo-diem-san-sat-act-4893615.html) - 23:00 02/06/2025
+- 🤓 [Trường tư ở TP HCM tuyển gần 19.500 học sinh lớp 10](https://vnexpress.net/danh-sach-truong-tu-thuc-tuyen-sinh-lop-10-o-tp-hcm-4893621.html) - 11:16 02/06/2025
+- 🧰 [Lời giải đề thi lớp 10 môn Toán của Vĩnh Phúc](https://vnexpress.net/loi-giai-de-thi-lop-10-mon-toan-cua-vinh-phuc-4893622.html) - 10:38 02/06/2025
+- 🧑‍💻 [Nam sinh Đà Nẵng vô địch Olympic AI toàn quốc](https://vnexpress.net/nam-sinh-da-nang-vo-dich-olympic-ai-toan-quoc-4893345.html) - 07:22 02/06/2025
+- 🫶 [Người mẹ giúp con bại não lấy bằng thạc sĩ Harvard](https://vnexpress.net/nguoi-me-giup-con-bai-nao-lay-bang-thac-si-harvard-4893239.html) - 06:18 02/06/2025
+- 🪜 [Thí sinh kêu mất 30 phút thi đánh giá năng lực vì giám thị](https://vnexpress.net/thi-sinh-keu-mat-30-phut-thi-danh-gia-nang-luc-vi-giam-thi-4893315.html) - 05:25 02/06/2025
+- 🎊 [Hàng nghìn học sinh chinh phục lập trình AI tại FPTU AI &amp;amp; Robotics Challenge](https://vnexpress.net/hang-nghin-hoc-sinh-chinh-phuc-lap-trinh-ai-tai-fptu-ai-robotics-challenge-4893378.html) - 04:30 02/06/2025
+- 🧐 [Lời giải đề Toán vòng 2 thi lớp 10 chuyên Khoa học Tự nhiên](https://vnexpress.net/loi-giai-de-toan-vong-2-thi-lop-10-chuyen-khoa-hoc-tu-nhien-4893368.html) - 04:04 02/06/2025
+- 🌈 [Bách khoa Hà Nội công bố top thí sinh theo điểm thi đánh giá tư duy](https://vnexpress.net/bach-khoa-ha-noi-cong-bo-top-thi-sinh-theo-diem-thi-danh-gia-tu-duy-4893295.html) - 03:38 02/06/2025
+- 🥰 [Đề các môn chuyên thi lớp 10 chuyên Khoa học Tự nhiên](https://vnexpress.net/de-toan-vong-2-thi-lop-10-truong-thpt-chuyen-khoa-hoc-tu-nhien-2025-4893257.html) - 03:28 02/06/2025
+- 🎡 [Nam sinh 1m82 dẫn dắt THPT Marie Curie vô địch giải bóng rổ trẻ](https://vnexpress.net/nam-sinh-1m82-dan-dat-thpt-marie-curie-vo-dich-giai-bong-ro-tre-4893157.html) - 22:56 01/06/2025
+- 🎊 [Cách giúp thí sinh giải Bóng rổ trẻ vừa học tốt, vừa thể thao giỏi](https://vnexpress.net/cach-giup-thi-sinh-giai-bong-ro-tre-vua-hoc-tot-vua-the-thao-gioi-4893087.html) - 15:16 01/06/2025
+- 🌏 [Đại học Sư phạm TP HCM tăng chỉ tiêu](https://vnexpress.net/cac-phuong-thuc-xet-tuyen-dai-hoc-su-pham-tp-hcm-2025-4892978.html) - 14:30 01/06/2025
+- 🥸 [&#39;Đại học trong đại học&#39; ở Việt Nam giống và khác thế giới ra sao?](https://vnexpress.net/dai-hoc-trong-dai-hoc-o-viet-nam-giong-va-khac-the-gioi-ra-sao-4892412.html) - 14:00 01/06/2025
+- 🕴 [Nước nào có đường sắt bao quanh sa mạc đầu tiên trên thế giới?](https://vnexpress.net/nuoc-nao-co-duong-sat-bao-quanh-sa-mac-dau-tien-tren-the-gioi-4893176.html) - 12:32 01/06/2025
+- 💂 [Hai xu hướng quan trọng của thị trường việc làm](https://vnexpress.net/hai-xu-huong-quan-trong-cua-thi-truong-viec-lam-4892686.html) - 11:30 01/06/2025
+- 🕴 [Lời giải đề Toán vòng 1 thi lớp 10 chuyên Khoa học Tự nhiên](https://vnexpress.net/dap-an-de-toan-vong-1-thi-lop-10-chuyen-khoa-hoc-tu-nhien-2025-4893169.html) - 11:25 01/06/2025
+- 🌋 [Nữ sinh 17 tuổi đoạt giải xuất sắc giải Bóng rổ trẻ 2025](https://vnexpress.net/nu-sinh-17-tuoi-doat-giai-xuat-sac-giai-bong-ro-tre-2025-4893124.html) - 09:39 01/06/2025
+- 🪜 [Trung Quốc cấm học sinh tiểu học tự ý dùng AI giải bài tập](https://vnexpress.net/trung-quoc-cam-hoc-sinh-tieu-hoc-tu-y-dung-ai-giai-bai-tap-4892805.html) - 07:34 01/06/2025
+- 🕴 [Cô gái cận 15 diop giành học bổng toàn phần đại học](https://vnexpress.net/co-gai-can-15-diop-gianh-hoc-bong-toan-phan-dai-hoc-4891855.html) - 06:00 01/06/2025
+- 🎃 [Phan Đình Phùng và Marie Curie Hà Nội lên ngôi ở giải bóng rổ trẻ VnExpress - Ziaja Cup 2025](https://vnexpress.net/phan-dinh-phung-va-marie-curie-ha-noi-len-ngoi-o-giai-bong-ro-tre-vnexpress-ziaja-cup-2025-4893081.html) - 05:00 01/06/2025
+- 🦏 [Đề thi Toán, Văn, Anh vào lớp 10 trường chuyên Khoa học Tự nhiên](https://vnexpress.net/de-thi-vao-lop-10-truong-chuyen-khoa-hoc-tu-nhien-2025-4893024.html) - 03:04 01/06/2025
+- 🧑‍🏫 [Hơn 67.600 thí sinh thi lại để tăng điểm vào đại học](https://vnexpress.net/ky-thi-danh-gia-nang-luc-dot-2-dai-hoc-quoc-gia-tp-hcm-4892977.html) - 02:12 01/06/2025
+- 💡 [Gần 6.400 học sinh tranh suất lớp 10 chuyên ở Hà Nội](https://vnexpress.net/gan-6-400-hoc-sinh-tranh-suat-lop-10-chuyen-o-ha-noi-4892963.html) - 01:30 01/06/2025
+- 🐎 [THPT Marie Curie vô địch giải Bóng rổ trẻ 2025](https://vnexpress.net/thpt-marie-curie-vo-dich-giai-bong-ro-tre-2025-4892879.html) - 01:00 01/06/2025
+- 🧰 [Thầy cô e ngại vì học trò dùng AI giải Toán, làm Văn](https://vnexpress.net/thay-co-e-ngai-vi-hoc-tro-dung-ai-giai-toan-lam-van-4885964.html) - 23:00 31/05/2025
+- 🙉 [Nam sinh cao 1m82 là linh hồn tuyển bóng rổ chuyên Trần Đại Nghĩa](https://vnexpress.net/nam-sinh-cao-1m82-la-linh-hon-tuyen-bong-ro-chuyen-tran-dai-nghia-4892921.html) - 14:00 31/05/2025
+- ⚗️ [Nước châu Á nào có tới 130 núi lửa đang hoạt động?](https://vnexpress.net/nuoc-chau-a-nao-co-toi-130-nui-lua-dang-hoat-dong-4892872.html) - 13:18 31/05/2025
+- 🌝 [Nước mắt tiếc nuối ở hai trận bán kết nữ Cup Ziaja](https://vnexpress.net/nuoc-mat-tiec-nuoi-o-hai-tran-ban-ket-nu-cup-ziaja-4892885.html) - 13:00 31/05/2025
+- ⛽️ [Đang học Tự động hóa trường Bách khoa có nên chuyển sang nghề Marketing?](https://vnexpress.net/dang-hoc-tu-dong-hoa-truong-bach-khoa-co-nen-chuyen-sang-nghe-marketing-4892770.html) - 12:27 31/05/2025
+- 🌜 [Những khoảnh khắc đẹp sau hai ngày diễn ra giải bóng rổ học đường](https://vnexpress.net/nhung-khoanh-khac-dep-sau-hai-ngay-dien-ra-giai-bong-ro-hoc-duong-4892886.html) - 10:15 31/05/2025
+- ⚗️ [Bán kết nghẹt thở tại giải bóng rổ trẻ VnExpress - Ziaja Cup 2025](https://vnexpress.net/ban-ket-nghet-tho-tai-giai-bong-ro-tre-vnexpress-ziaja-cup-2025-4892871.html) - 09:30 31/05/2025
+- 🧰 [Làn sóng trở về của nhân tài gốc Trung Quốc](https://vnexpress.net/lan-song-tro-ve-cua-nhan-tai-goc-trung-quoc-4892806.html) - 08:00 31/05/2025
+- 🤗 [Vượt gần 2.000 km theo con vào Nam thi đấu bóng rổ](https://vnexpress.net/vuot-gan-2-000-km-theo-con-vao-nam-thi-dau-bong-ro-4892803.html) - 08:00 31/05/2025
+- 🔥 [Trường Luật của ĐH Quốc gia Hà Nội bỏ tổ hợp C00, tăng học phí](https://vnexpress.net/to-hop-xet-tuyen-hoc-phi-truong-dai-hoc-luat-dai-hoc-quoc-gia-ha-noi-4892814.html) - 07:27 31/05/2025
+- 💪 [&#39;Don&#39;t get me wrong&#39; nghĩa là gì?](https://vnexpress.net/don-t-get-me-wrong-nghia-la-gi-4892137.html) - 03:00 31/05/2025
+- 💂 [1 chọi 18 vào lớp 6 trường &#39;hot&#39; ở Hà Nội](https://vnexpress.net/1-choi-18-vao-lop-6-truong-hot-o-ha-noi-4892631.html) - 00:30 31/05/2025
+- 🌮 [Hà Nội góp phần lớn đại diện ở bán kết giải bóng rổ học đường hai miền](https://vnexpress.net/ha-noi-gop-phan-lon-dai-dien-o-ban-ket-giai-bong-ro-hoc-duong-hai-mien-4892671.html) - 00:30 31/05/2025
+- 🪄 [Thành phố nào là &#39;Thung lũng Silicon của châu Á&#39;?](https://vnexpress.net/thanh-pho-nao-la-thung-lung-silicon-cua-chau-a-4892434.html) - 15:18 30/05/2025
+- 🎡 [Thanh Hóa chi 22 tỷ đồng dạy thêm trong trường](https://vnexpress.net/muc-chi-day-them-trong-truong-cua-tinh-thanh-hoa-chi-tiet-nhat-4892608.html) - 14:15 30/05/2025
+- 🌈 [Thí sinh đi nhầm điểm thi 60 km](https://vnexpress.net/thi-sinh-di-nham-diem-thi-60-km-4892595.html) - 12:59 30/05/2025
+- 🎊 [Nam sinh đạt 1600 SAT sau ba lần thi](https://vnexpress.net/nam-sinh-dat-1600-sat-sau-ba-lan-thi-4892131.html) - 12:00 30/05/2025
+- ⚗️ [&#39;Bóng rổ học đường tạo bệ phóng cho tài năng quốc gia&#39;](https://vnexpress.net/bong-ro-hoc-duong-tao-be-phong-cho-tai-nang-quoc-gia-4892553.html) - 09:30 30/05/2025
+- 🌁 [Học viện Tài chính công bố công thức tính điểm xét tuyển](https://vnexpress.net/hoc-vien-tai-chinh-cong-bo-cong-thuc-tinh-diem-xet-tuyen-4892334.html) - 08:45 30/05/2025
+- 🦏 [Niềm vui vỡ òa ở những giây cuối tại giải bóng rổ trẻ VnExpress - Cup Ziaja](https://vnexpress.net/niem-vui-vo-oa-o-nhung-giay-cuoi-tai-giai-bong-ro-tre-vnexpress-cup-ziaja-4892489.html) - 08:00 30/05/2025
+- 👍 [1 chọi 14 vào lớp 6 THCS-THPT Trần Đại Nghĩa](https://vnexpress.net/1-choi-14-vao-lop-6-thcs-thpt-tran-dai-nghia-4892418.html) - 05:43 30/05/2025
+- 🌈 [Lời giải đề thi môn Toán vào lớp 10 ở Bình Dương](https://vnexpress.net/dap-an-de-thi-lop-10-mon-toan-tinh-binh-duong-2025-4892317.html) - 02:44 30/05/2025
+- 🕴 [Hơn 50 đại học công bố mức quy đổi điểm IELTS](https://vnexpress.net/muc-quy-doi-diem-ielts-cua-hon-50-dai-hoc-4892060.html) - 23:00 29/05/2025
+- 🧰 [Nên chọn FTU hay UEH?](https://vnexpress.net/nen-chon-ftu-hay-ueh-4890668.html) - 16:59 29/05/2025<!-- vnexpress-giao-duc:END -->
