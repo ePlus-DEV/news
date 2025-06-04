@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Giám thị bị đình chỉ vì phụ huynh tố &#39;xem thường thí sinh&#39;](https://vnexpress.net/giam-thi-bi-dinh-chi-vi-phu-huynh-to-xem-thuong-thi-sinh-4894489.html) - 10:37 04/06/2025
+- 🤓 [Giám thị bị dừng coi thi vì phụ huynh tố &#39;xem thường thí sinh&#39;](https://vnexpress.net/giam-thi-bi-dung-coi-thi-vi-phu-huynh-to-xem-thuong-thi-sinh-4894489.html) - 10:37 04/06/2025
 - 🦆 [ĐH Khoa học Xã hội và Nhân văn quy đổi IELTS 7.0 thành 10 điểm](https://vnexpress.net/dh-khoa-hoc-xa-hoi-va-nhan-van-quy-doi-ielts-7-0-thanh-10-diem-4894398.html) - 10:08 04/06/2025
 - 🦩 [Gần 180 sinh viên Bách khoa kêu đau bụng sau bữa trưa](https://vnexpress.net/gan-180-sinh-vien-bach-khoa-keu-dau-bung-sau-bua-trua-4894435.html) - 08:15 04/06/2025
 - 🌮 [Trường Đại học FPT ra mắt chuyên ngành Chuyển đổi số](https://vnexpress.net/truong-dai-hoc-fpt-ra-mat-chuyen-nganh-chuyen-doi-so-4894438.html) - 08:00 04/06/2025
