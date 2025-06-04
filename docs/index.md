@@ -411,10 +411,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Họp báo Chính phủ thường kỳ tháng 5/2025](https://baochinhphu.vn/hop-bao-chinh-phu-thuong-ky-thang-5-2025-102250604143908565.htm) - 15:00 04/06/2025
-- 🌜 [Trà Vinh: Kiến nghị thu hồi trên 7,88 tỷ đồng sau thanh tra](https://baochinhphu.vn/tra-vinh-kien-nghi-thu-hoi-tren-788-ty-dong-sau-thanh-tra-102250604143405562.htm) - 14:54 04/06/2025
-- 🦆 [Bổ sung 235 định mức xây dựng](https://baochinhphu.vn/bo-sung-235-dinh-muc-xay-dung-102250604145134155.htm) - 14:53 04/06/2025
-- 🌝 [Bộ Xây dựng rút kinh nghiệm sau sự cố &quot;dột&quot; mái nhà ga T3 Tân Sơn Nhất](https://baochinhphu.vn/bo-xay-dung-rut-kinh-nghiem-sau-su-co-dot-mai-nha-ga-t3-tan-son-nhat-102250604143729187.htm) - 14:52 04/06/2025
+- 💻 [Quy định mới về xây dựng và cập nhật cơ sở dữ liệu tài liệu lưu trữ](https://baochinhphu.vn/quy-dinh-moi-ve-xay-dung-va-cap-nhat-co-so-du-lieu-tai-lieu-luu-tru-102250604143306212.htm) - 15:47 04/06/2025
+- 🌜 [Họp báo Chính phủ thường kỳ tháng 5/2025: Tình hình phát triển KTXH nổi bật với 8 điểm sáng](https://baochinhphu.vn/hop-bao-chinh-phu-thuong-ky-thang-5-2025-102250604143908565.htm) - 15:34 04/06/2025
+- 🦆 [Trà Vinh: Kiến nghị thu hồi trên 7,88 tỷ đồng sau thanh tra](https://baochinhphu.vn/tra-vinh-kien-nghi-thu-hoi-tren-788-ty-dong-sau-thanh-tra-102250604143405562.htm) - 14:54 04/06/2025
+- 🌝 [Bổ sung 235 định mức xây dựng](https://baochinhphu.vn/bo-sung-235-dinh-muc-xay-dung-102250604145134155.htm) - 14:53 04/06/2025
 - 🦣 [EVNCPC chủ động, sáng tạo trong sử dụng năng lượng tiết kiệm và hiệu quả](https://baochinhphu.vn/evncpc-chu-dong-sang-tao-trong-su-dung-nang-luong-tiet-kiem-va-hieu-qua-102250604142717866.htm) - 14:39 04/06/2025
 - ⛽️ [Lãnh đạo Đảng, Nhà nước gửi Điện mừng tân Tổng thống Hàn Quốc](https://baochinhphu.vn/lanh-dao-dang-nha-nuoc-gui-dien-mung-tan-tong-thong-han-quoc-102250604135205875.htm) - 14:08 04/06/2025
 - 🎓 [Tân Tổng thống Hàn Quốc công bố những đường hướng chính sách đầu tiên](https://baochinhphu.vn/tan-tong-thong-han-quoc-cong-bo-nhung-duong-huong-chinh-sach-dau-tien-102250604140320974.htm) - 14:05 04/06/2025
