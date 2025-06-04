@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Nhận định Indonesia – Trung Quốc &lpar;20h45 hôm nay&rpar;: Cuộc chiến định số phận](https://dantri.com.vn/the-thao/nhan-dinh-indonesia-trung-quoc-20h45-hom-nay-cuoc-chien-dinh-so-phan-20250604233057388.htm) - 23:12 04/06/2025
+- 🎡 [Nhận định Indonesia - Trung Quốc &lpar;20h45 hôm nay&rpar;: Cuộc chiến định số phận](https://dantri.com.vn/the-thao/nhan-dinh-indonesia-trung-quoc-20h45-hom-nay-cuoc-chien-dinh-so-phan-20250604233057388.htm) - 23:12 04/06/2025
 - 💯 [Ronaldo ghi bàn, Bồ Đào Nha đánh bại Đức ở bán kết Nations League](https://dantri.com.vn/the-thao/ronaldo-ghi-ban-bo-dao-nha-danh-bai-duc-o-ban-ket-nations-league-20250605054529941.htm) - 22:45 04/06/2025
 - ⛽️ [Đội tuyển Việt Nam thắng U22 Việt Nam trong trận đấu tập nội bộ](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-thang-u22-viet-nam-trong-tran-dau-tap-noi-bo-20250604215838450.htm) - 15:00 04/06/2025
 - 💃 [Cầu thủ nhập tịch bị nghi ngờ gốc gác, Malaysia có thể bị FIFA phạt nặng](https://dantri.com.vn/the-thao/cau-thu-nhap-tich-bi-nghi-ngo-goc-gac-malaysia-co-the-bi-fifa-phat-nang-20250604192533113.htm) - 12:25 04/06/2025
