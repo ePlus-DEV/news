@@ -5,7 +5,7 @@ sidebar_position: 14
 
 <!-- dantri-dnews:START -->
 - 🤠 [Nữ sinh khủng hoảng vì ảnh cá nhân bỗng nhiên lên web khiêu dâm](https://dantri.com.vn/giao-duc/nu-sinh-khung-hoang-vi-anh-ca-nhan-bong-nhien-len-web-khieu-dam-20250603121313120.htm) - 11:00 04/06/2025
-- 🌈 [Yêu cầu lớn với thương hiệu lớn trong nước về đào tạo nguồn nhân lực](https://dantri.com.vn/noi-vu/yeu-cau-lon-voi-thuong-hieu-lon-trong-nuoc-ve-dao-tao-nguon-nhan-luc-20250604141224916.htm) - 08:46 04/06/2025
+- 🌈 [Yêu cầu cao đối với thương hiệu lớn trong nước về đào tạo nguồn nhân lực](https://dantri.com.vn/noi-vu/yeu-cau-cao-doi-voi-thuong-hieu-lon-trong-nuoc-ve-dao-tao-nguon-nhan-luc-20250604141224916.htm) - 08:46 04/06/2025
 - 🐎 [Báo động toàn cầu: Rác thải nhựa  ở đại dương sắp nhiều hơn cá](https://dantri.com.vn/khoa-hoc/bao-dong-toan-cau-rac-thai-nhua-o-dai-duong-sap-nhieu-hon-ca-20250604105230766.htm) - 07:12 04/06/2025
 - 👹 [Các ngân hàng đang làm gì với vàng?](https://dantri.com.vn/kinh-doanh/cac-ngan-hang-dang-lam-gi-voi-vang-20250604002103568.htm) - 03:26 04/06/2025
 - 🫶 [Đấu thầu xe buýt TPHCM: Cuộc cạnh tranh gay cấn](https://dantri.com.vn/xa-hoi/dau-thau-xe-buyt-tphcm-cuoc-canh-tranh-gay-can-20250604054053013.htm) - 00:44 04/06/2025
