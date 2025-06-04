@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [4 cầu thủ gốc Nam Mỹ lên tuyển Malaysia để đấu Việt Nam](https://vnexpress.net/4-cau-thu-goc-nam-my-len-tuyen-malaysia-de-dau-viet-nam-4894577.html) - 10:37 04/06/2025
+- 🪜 [Malaysia tăng cường 4 cầu thủ gốc Nam Mỹ đấu Việt Nam](https://vnexpress.net/malaysia-tang-cuong-4-cau-thu-goc-nam-my-dau-viet-nam-4894577.html) - 10:37 04/06/2025
 - 🦩 [Đức - Bồ Đào Nha: Chờ Ronaldo phá dớp](https://vnexpress.net/duc-bo-dao-nha-cho-ronaldo-pha-dop-4894559.html) - 10:02 04/06/2025
 - 🧰 [Không khí lễ hội trên đường đua VnExpress Marathon Hạ Long](https://vnexpress.net/khong-khi-le-hoi-tren-duong-dua-vnexpress-marathon-ha-long-4894057.html) - 10:00 04/06/2025
 - 🤗 [Man City mua cầu thủ gốc Indonesia thay De Bruyne](https://vnexpress.net/man-city-mua-cau-thu-goc-indonesia-thay-de-bruyne-4894519.html) - 09:45 04/06/2025
