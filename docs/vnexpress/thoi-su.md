@@ -9,7 +9,7 @@ sidebar_position: 1
 - ⚗️ [Có thể miễn giấy phép xây dựng tại khu vực đã có quy hoạch 1/500](https://vnexpress.net/co-the-mien-giay-phep-xay-dung-tai-khu-vuc-da-co-quy-hoach-1-500-4894508.html) - 09:22 04/06/2025
 - 🌊 [Ngân sách dành thêm 20.000 tỷ đồng cho khoa học công nghệ](https://vnexpress.net/ngan-sach-danh-them-20-000-ty-dong-cho-khoa-hoc-cong-nghe-4894483.html) - 08:40 04/06/2025
 - 🎓 [Xây dựng trợ lý ảo giải đáp về chính quyền địa phương 2 cấp](https://vnexpress.net/xay-dung-tro-ly-ao-giai-dap-ve-chinh-quyen-dia-phuong-2-cap-4894425.html) - 08:11 04/06/2025
-- 🔥 [Lái môtô đâm sập tường, nam thanh niên nước ngoài tử vong](https://vnexpress.net/lai-moto-dam-sap-tuong-nam-thanh-nien-nuoc-ngoai-tu-vong-4894424.html) - 07:05 04/06/2025
+- 🔥 [Lái môtô đâm sập tường, thanh niên nước ngoài tử vong](https://vnexpress.net/lai-moto-dam-sap-tuong-thanh-nien-nuoc-ngoai-tu-vong-4894424.html) - 07:05 04/06/2025
 - 🦏 [&#39;Cần quản lý rủi ro khi người dân mua sắm theo thần tượng&#39;](https://vnexpress.net/can-quan-ly-rui-ro-khi-nguoi-dan-mua-sam-theo-than-tuong-4894393.html) - 05:42 04/06/2025
 - 👺 [Đà Nẵng tái thiết khu dân cư &#39;cứ mưa là ngập&#39;](https://vnexpress.net/da-nang-tai-thiet-khu-dan-cu-cu-mua-la-ngap-4894362.html) - 05:31 04/06/2025
 - 🧑‍🏫 [Hai người bị lũ cuốn](https://vnexpress.net/hai-nguoi-bi-lu-cuon-4894326.html) - 05:09 04/06/2025
