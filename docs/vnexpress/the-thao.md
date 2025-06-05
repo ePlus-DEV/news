@@ -4,8 +4,8 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Deschamps: &#39;100% Dembele giành Quả Bóng Vàng&#39;](https://vnexpress.net/deschamps-100-dembele-gianh-qua-bong-vang-4894715.html) - 05:00 05/06/2025
-- 🦩 [5 cách phục hồi nhanh sau race nắng nóng](https://vnexpress.net/5-cach-phuc-hoi-nhanh-sau-race-nang-nong-4894640.html) - 05:00 05/06/2025
+- 🪜 [Kịch bản nào để Indonesia vượt qua vòng loại ba World Cup 2026?](https://vnexpress.net/kich-ban-nao-de-indonesia-vuot-qua-vong-loai-ba-world-cup-2026-4894892.html) - 06:34 05/06/2025
+- 🦩 [Deschamps: &#39;Yamal ở đẳng cấp khác thường, không thể khắc chế&#39;](https://vnexpress.net/deschamps-yamal-o-dang-cap-khac-thuong-khong-the-khac-che-4894715.html) - 05:00 05/06/2025
 - 🧰 [Pacquiao bỏ chính trị, tái xuất quyền Anh](https://vnexpress.net/pacquiao-bo-chinh-tri-tai-xuat-quyen-anh-4894785.html) - 04:59 05/06/2025
 - 🤗 [5 thách thức chờ HLV Ancelotti trước trận ra mắt tuyển Brazil](https://vnexpress.net/5-thach-thuc-cho-hlv-ancelotti-truoc-tran-ra-mat-tuyen-brazil-4894811.html) - 04:55 05/06/2025
 - 🥳 [Chelsea hoàn tất vụ hớt tay trên Man Utd](https://vnexpress.net/chelsea-hoan-tat-vu-hot-tay-tren-man-utd-4894670.html) - 04:46 05/06/2025
