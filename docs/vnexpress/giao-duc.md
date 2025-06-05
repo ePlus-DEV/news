@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Đề Toán chuyên thi lớp 10 gây xôn xao vì &#39;không thể chứng minh&#39;](https://vnexpress.net/de-toan-chuyen-thi-lop-10-gay-xon-xao-vi-khong-the-chung-minh-4894924.html) - 13:55 05/06/2025
+- 🤓 [Đề Toán chuyên gây xôn xao vì &#39;không thể chứng minh&#39;](https://vnexpress.net/de-toan-chuyen-vinh-phuc-gay-xon-xao-vi-khong-the-chung-minh-4894924.html) - 13:55 05/06/2025
 - 🦆 [Tỉnh nào dẫn đầu về điểm thi tốt nghiệp THPT hai năm qua?](https://vnexpress.net/tinh-nao-dan-dau-ve-diem-thi-tot-nghiep-thpt-hai-nam-qua-4895079.html) - 13:27 05/06/2025
 - 🦩 [Học phí Học viện Hàng không Việt Nam cao nhất hơn 3 tỷ đồng](https://vnexpress.net/hoc-phi-hoc-vien-hang-khong-viet-nam-cao-nhat-hon-3-ty-dong-4894940.html) - 12:46 05/06/2025
 - 🌮 [TOEFL iBT đổi thang điểm, tăng tốc trả kết quả](https://vnexpress.net/toefl-ibt-doi-thang-diem-tang-toc-tra-ket-qua-4895058.html) - 12:00 05/06/2025
