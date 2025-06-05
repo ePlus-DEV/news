@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Michelin năm thứ ba trao giải cho các nhà hàng Việt Nam](https://vnexpress.net/michelin-nam-thu-ba-trao-giai-cho-cac-nha-hang-viet-nam-4894994.html) - 09:45 05/06/2025
+- 💂 [Michelin năm thứ ba vinh danh các nhà hàng Việt Nam](https://vnexpress.net/michelin-nam-thu-ba-vinh-danh-cac-nha-hang-viet-nam-4894994.html) - 09:45 05/06/2025
 - 🪄 [Hà Giang khiến nhiều khách nước ngoài bật khóc sau chuyến đi](https://vnexpress.net/ha-giang-khien-nhieu-khach-nuoc-ngoai-bat-khoc-sau-chuyen-di-4894855.html) - 07:10 05/06/2025
 - 🦅 [5 ngôi làng đẹp nhất Italy](https://vnexpress.net/5-ngoi-lang-dep-nhat-italy-4894632.html) - 02:33 05/06/2025
 - 🕴 [Xem show kỷ lục thế giới tại Cát Bà với giá từ 550.000 đồng](https://vnexpress.net/xem-show-ky-luc-the-gioi-tai-cat-ba-voi-gia-tu-550-000-dong-4894499.html) - 01:00 05/06/2025
