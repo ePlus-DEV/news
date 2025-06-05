@@ -4,7 +4,7 @@ sidebar_position: 8
 ---
 
 <!-- dantri-phap-luat:START -->
-- 🌊 [Tạm giữ hình sự nhóm siêu trộm ở Kiên Giang](https://dantri.com.vn/phap-luat/tam-giu-hinh-su-nhom-sieu-trom-o-kien-giang-20250605170311106.htm) - 12:02 05/06/2025
+- 🌊 [Tạm giữ hình sự nhóm &quot;siêu trộm&quot; ở Kiên Giang](https://dantri.com.vn/phap-luat/tam-giu-hinh-su-nhom-sieu-trom-o-kien-giang-20250605170311106.htm) - 12:02 05/06/2025
 - 🐲 [Ông ngoại đi vắng, bé gái 9 tuổi bị hàng xóm hiếp dâm](https://dantri.com.vn/phap-luat/ong-ngoai-di-vang-be-gai-9-tuoi-bi-hang-xom-hiep-dam-20250605180822890.htm) - 11:42 05/06/2025
 - 🌁 [Bắt đối tượng truy nã trong đường dây làm hồ sơ để hợp thức hóa gỗ lậu](https://dantri.com.vn/phap-luat/bat-doi-tuong-truy-na-trong-duong-day-lam-ho-so-de-hop-thuc-hoa-go-lau-20250605174513662.htm) - 11:09 05/06/2025
 - 🎃 [Xét xử 31 bị cáo lừa đảo chiếm đoạt tài sản ở đặc khu kinh tế Tam giác Vàng](https://dantri.com.vn/phap-luat/xet-xu-31-bi-cao-lua-dao-chiem-doat-tai-san-o-dac-khu-kinh-te-tam-giac-vang-20250605172544186.htm) - 10:36 05/06/2025
