@@ -588,7 +588,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- hoahoctro:START -->
 - 💼 [Mãn nhãn hình ảnh tổng duyệt chương trình Vinh quang Công an Nhân dân Việt Nam](https://tienphong.vn/man-nhan-hinh-anh-tong-duyet-chuong-trinh-vinh-quang-cong-an-nhan-dan-viet-nam-post1748705.tpo) - 22:02 05/06/2025
 - 🎊 [Hợp tác Việt Nam – Estonia còn nhiều tiềm năng để khai thác](https://tienphong.vn/hop-tac-viet-nam-estonia-con-nhieu-tiem-nang-de-khai-thac-post1748723.tpo) - 21:51 05/06/2025
-- 💼 [Ngày mai thi vào lớp 10 ở TPHCM, thời tiết ra sao?](https://tienphong.vn/ngay-mai-thi-vao-lop-10-o-tphcm-thoi-tiet-ra-sao-post1748720.tpo) - 21:33 05/06/2025
+- 💼 [Thời tiết TPHCM trong 2 ngày diễn ra kỳ thi vào lớp 10](https://tienphong.vn/thoi-tiet-tphcm-trong-2-ngay-dien-ra-ky-thi-vao-lop-10-post1748720.tpo) - 21:33 05/06/2025
 - 👺 [Sở Văn hóa TPHCM thông tin vụ sân khấu Lan Anh, Trống Đồng đóng cửa](https://tienphong.vn/so-van-hoa-tphcm-thong-tin-vu-san-khau-lan-anh-trong-dong-dong-cua-post1748711.tpo) - 21:21 05/06/2025
 - 💪 [Lãnh đạo Mỹ - Trung điện đàm giữa bế tắc đàm phán](https://tienphong.vn/lanh-dao-my-trung-dien-dam-giua-be-tac-dam-phan-post1748717.tpo) - 21:16 05/06/2025
 - 💃 [Vụ Hoài DJ cầm đầu đường dây ma túy: Bị cáo khai cách thức điều chế nước vui](https://tienphong.vn/vu-hoai-dj-cam-dau-duong-day-ma-tuy-bi-cao-khai-cach-thuc-dieu-che-nuoc-vui-post1748696.tpo) - 21:09 05/06/2025
