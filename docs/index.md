@@ -413,8 +413,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [THỰC HÀNH TIẾT KIỆM – Ý THỨC VÀ VĂN HÓA](https://baochinhphu.vn/thuc-hanh-tiet-kiem-y-thuc-va-van-hoa-102250604142732691.htm) - 06:00 05/06/2025
-- 🌜 [Thủ tướng chỉ đạo tiếp tục đẩy mạnh cao điểm đấu tranh ngăn chặn, đẩy lùi buôn lậu, gian lận thương mại](https://baochinhphu.vn/thu-tuong-chi-dao-tiep-tuc-day-manh-cao-diem-dau-tranh-ngan-chan-day-lui-buon-lau-gian-lan-thuong-mai-102250604184402608.htm) - 05:01 05/06/2025
+- 💻 [Thủ tướng chỉ đạo tiếp tục đẩy mạnh cao điểm đấu tranh ngăn chặn, đẩy lùi buôn lậu, gian lận thương mại](https://baochinhphu.vn/thu-tuong-chi-dao-tiep-tuc-day-manh-cao-diem-dau-tranh-ngan-chan-day-lui-buon-lau-gian-lan-thuong-mai-102250604184402608.htm) - 06:19 05/06/2025
+- 🌜 [THỰC HÀNH TIẾT KIỆM – Ý THỨC VÀ VĂN HÓA](https://baochinhphu.vn/thuc-hanh-tiet-kiem-y-thuc-va-van-hoa-102250604142732691.htm) - 06:00 05/06/2025
 - 🦆 [Thủ tướng lên đường bắt đầu chuyến công tác tại châu Âu](https://baochinhphu.vn/thu-tuong-len-duong-bat-dau-chuyen-cong-tac-tai-chau-au-102250604194558368.htm) - 01:00 05/06/2025
 - 🌝 [Không để thiếu điện trong bất cứ trường hợp nào](https://baochinhphu.vn/khong-de-thieu-dien-trong-bat-cu-truong-hop-nao-10225060416531097.htm) - 22:56 04/06/2025
 - 🦣 [Hải quan Cửa khẩu sân bay quốc tế Nội Bài phối hợp bắt giữ 5,3 kg ma túy](https://baochinhphu.vn/hai-quan-cua-khau-san-bay-quoc-te-noi-bai-phoi-hop-bat-giu-53-kg-ma-tuy-102250604174835497.htm) - 21:10 04/06/2025
