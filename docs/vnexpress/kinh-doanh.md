@@ -9,7 +9,7 @@ sidebar_position: 3
 - 🔥 [KIDO muốn làm các dự án thương mại hàng chục nghìn tỷ đồng](https://vnexpress.net/kido-muon-lam-cac-du-an-thuong-mai-hang-chuc-nghin-ty-dong-4894877.html) - 08:07 05/06/2025
 - 🐵 [Cách lọc cổ phiếu theo phương pháp đầu tư 4M](https://vnexpress.net/cach-loc-co-phieu-theo-phuong-phap-dau-tu-4m-4894849.html) - 08:00 05/06/2025
 - 🦅 [Giá xăng, dầu cùng tăng](https://vnexpress.net/gia-xang-moi-nhat-hom-nay-5-6-4894922.html) - 07:33 05/06/2025
-- 😺 [Nhiều tiểu thương các chợ lớn đóng cửa](https://vnexpress.net/nhieu-tieu-thuong-cac-cho-lon-dong-cua-4894662.html) - 04:57 05/06/2025
+- 😺 [Nhiều tiểu thương chợ lớn đóng cửa](https://vnexpress.net/nhieu-tieu-thuong-cac-cho-lon-dong-cua-4894662.html) - 04:57 05/06/2025
 - 🤩 [Nghệ An phát hiện 1,3 tấn nội tạng động vật biến chất](https://vnexpress.net/nghe-an-phat-hien-1-3-tan-noi-tang-dong-vat-bien-chat-4894818.html) - 04:54 05/06/2025
 - 🌮 [Canada chuẩn bị phương án trả đũa thuế nhôm, thép Mỹ](https://vnexpress.net/canada-chuan-bi-phuong-an-tra-dua-thue-nhom-thep-my-4894821.html) - 04:11 05/06/2025
 - 🧰 [Yêu cầu chấn chỉnh hoạt động giết mổ động vật trên cả nước](https://vnexpress.net/yeu-cau-chan-chinh-hoat-dong-giet-mo-dong-vat-tren-ca-nuoc-4894732.html) - 02:46 05/06/2025
