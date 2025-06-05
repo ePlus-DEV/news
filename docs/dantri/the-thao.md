@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Indonesia 1-0 Trung Quốc &lpar;hết hiệp 1&rpar;: Bàn thắng bất ngờ, khán đài nổ tung](https://dantri.com.vn/the-thao/indonesia-1-0-trung-quoc-het-hiep-1-ban-thang-bat-ngo-khan-dai-no-tung-20250605202903458.htm) - 13:29 05/06/2025
+- 🎡 [Đánh bại Trung Quốc, Indonesia rộng cửa đi tiếp ở vòng loại World Cup](https://dantri.com.vn/the-thao/danh-bai-trung-quoc-indonesia-rong-cua-di-tiep-o-vong-loai-world-cup-20250605202903458.htm) - 13:29 05/06/2025
 - 💯 [Lamine Yamal được định giá cao nhất thế giới, gấp đôi Mbappe](https://dantri.com.vn/the-thao/lamine-yamal-duoc-dinh-gia-cao-nhat-the-gioi-gap-doi-mbappe-20250605183217458.htm) - 13:02 05/06/2025
 - ⛽️ [Báo Malaysia chỉ ra điểm lợi hại của tuyển Việt Nam trước trận quyết chiến](https://dantri.com.vn/the-thao/bao-malaysia-chi-ra-diem-loi-hai-cua-tuyen-viet-nam-truoc-tran-quyet-chien-20250605194026463.htm) - 13:01 05/06/2025
 - 💃 [Malaysia xuất hiện 3 cầu thủ hàng triệu euro, tuyển Việt Nam gặp khó](https://dantri.com.vn/the-thao/malaysia-xuat-hien-3-cau-thu-hang-trieu-euro-tuyen-viet-nam-gap-kho-20250605130117973.htm) - 09:48 05/06/2025
