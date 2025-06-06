@@ -400,9 +400,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Phó Thủ tướng Lê Thành Long: Thúc đẩy mạnh mẽ, toàn diện chuyển đổi số y tế](https://baochinhphu.vn/pho-thu-tuong-le-thanh-long-thuc-day-manh-me-toan-dien-chuyen-doi-so-y-te-102250606111724377.htm) - 11:18 06/06/2025
-- 🌜 [Nam Phi kết luận sơ bộ điều tra chống lẩn tránh thuế chống bán phá giá lốp xe nhập từ Việt Nam](https://baochinhphu.vn/nam-phi-ket-luan-so-bo-dieu-tra-chong-lan-tranh-thue-chong-ban-pha-gia-lop-xe-nhap-tu-viet-nam-102250606090943743.htm) - 10:31 06/06/2025
-- 🦆 [Thúc đẩy tiềm năng hợp tác kinh tế-thương mại Việt Nam-Pháp](https://baochinhphu.vn/thuc-day-tiem-nang-hop-tac-kinh-te-thuong-mai-viet-nam-phap-102250606095542442.htm) - 10:29 06/06/2025
+- 💻 [Trên 280 triệu lượt ý kiến góp ý vào dự thảo Nghị quyết sửa đổi Hiến pháp năm 2013](https://baochinhphu.vn/tren-280-trieu-luot-y-kien-gop-y-vao-du-thao-nghi-quyet-sua-doi-hien-phap-nam-2013-102250606110105076.htm) - 11:22 06/06/2025
+- 🌜 [Phó Thủ tướng Lê Thành Long: Thúc đẩy mạnh mẽ, toàn diện chuyển đổi số y tế](https://baochinhphu.vn/pho-thu-tuong-le-thanh-long-thuc-day-manh-me-toan-dien-chuyen-doi-so-y-te-102250606111724377.htm) - 11:18 06/06/2025
+- 🦆 [Nam Phi kết luận sơ bộ điều tra chống lẩn tránh thuế chống bán phá giá lốp xe nhập từ Việt Nam](https://baochinhphu.vn/nam-phi-ket-luan-so-bo-dieu-tra-chong-lan-tranh-thue-chong-ban-pha-gia-lop-xe-nhap-tu-viet-nam-102250606090943743.htm) - 10:31 06/06/2025
 - 🌝 [Việt Nam - Hoa Kỳ: Tăng cường giao thương nông sản và phát triển năng lực sản xuất](https://baochinhphu.vn/viet-nam-hoa-ky-tang-cuong-giao-thuong-nong-san-va-phat-trien-nang-luc-san-xuat-102250606093115845.htm) - 10:24 06/06/2025
 - 🦣 [Đột phá thể chế cho giấc mơ an cư](https://baochinhphu.vn/dot-pha-the-che-cho-giac-mo-an-cu-102250606094251392.htm) - 09:42 06/06/2025
 - ⛽️ [Hộ lý có được chuyển lên Bác sĩ hạng III?](https://baochinhphu.vn/ho-ly-co-duoc-chuyen-len-bac-si-hang-iii-102250528150054181.htm) - 09:02 06/06/2025
