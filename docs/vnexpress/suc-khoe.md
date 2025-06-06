@@ -6,7 +6,7 @@ sidebar_position: 10
 <!-- vnexpress-suc-khoe:START -->
 - 🔥 [Viêm da cơ địa ở môi](https://vnexpress.net/viem-da-co-dia-o-moi-4895483.html) - 09:00 06/06/2025
 - 🥰 [Long Châu và Boehringer Ingelheim tầm soát sớm bệnh thận mạn miễn phí](https://vnexpress.net/long-chau-va-boehringer-ingelheim-tam-soat-som-benh-than-man-mien-phi-4894911.html) - 08:40 06/06/2025
-- 💡 [Sỏi mật - quả bom nổ chậm](https://vnexpress.net/soi-mat-qua-bom-no-cham-4894971.html) - 08:31 06/06/2025
+- 💡 [Sỏi mật - quả bom nổ chậm](https://vnexpress.net/suc-khoe-cam-nang-soi-mat-qua-bom-no-cham-4894971.html) - 08:31 06/06/2025
 - 🤗 [5 thực phẩm giúp hệ tiêu hóa khỏe trong mùa mưa](https://vnexpress.net/5-thuc-pham-giup-he-tieu-hoa-khoe-trong-mua-mua-4895409.html) - 08:00 06/06/2025
 - 🪜 [Những thói quen khiến đường ruột lão hóa](https://vnexpress.net/nhung-thoi-quen-khien-duong-ruot-lao-hoa-4895344.html) - 07:29 06/06/2025
 - 🕯 [Xương cá đâm thủng ruột bé hai tuổi](https://vnexpress.net/xuong-ca-dam-thung-ruot-be-hai-tuoi-4895366.html) - 07:01 06/06/2025
