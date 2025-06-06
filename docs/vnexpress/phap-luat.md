@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Dàn khí tài hiện đại của công an tại phố đi bộ Nguyễn Huệ](https://vnexpress.net/dan-khi-tai-hien-dai-cua-cong-an-tai-pho-di-bo-nguyen-hue-4895485.html) - 09:14 06/06/2025
+- 😎 [Dàn khí tài hiện đại của công an trên phố đi bộ Nguyễn Huệ](https://vnexpress.net/dan-khi-tai-hien-dai-cua-cong-an-tren-pho-di-bo-nguyen-hue-4895485.html) - 09:14 06/06/2025
 - 🥰 [Nữ DJ cầm đầu đường dây ma túy: &#39;Chỉ biết trách bản thân&#39;](https://vnexpress.net/nu-dj-cam-dau-duong-day-ma-tuy-chi-biet-trach-ban-than-4895430.html) - 08:36 06/06/2025
 - 🎓 [Cựu giám đốc Trung tâm lý lịch tư pháp bị xét xử tại TP HCM](https://vnexpress.net/cuu-giam-doc-trung-tam-ly-lich-tu-phap-bi-xet-xu-tai-tp-hcm-4895358.html) - 05:01 06/06/2025
 - 🤓 [Có được miễn tiền chuyển mục đích sử dụng đất nông nghiệp trong khu dân cư?](https://vnexpress.net/co-duoc-mien-tien-chuyen-muc-dich-su-dung-dat-nong-nghiep-trong-khu-dan-cu-4894517.html) - 03:38 06/06/2025
