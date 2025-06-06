@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Giây phút ông Trump bày tỏ thất vọng về Elon Musk](https://vnexpress.net/giay-phut-ong-trump-bay-to-that-vong-ve-elon-musk-4895222.html) - 02:54 06/06/2025
-- 🕴 [Mỹ có thể chi 400 triệu USD hoán cải máy bay Qatar thành Không lực Một](https://vnexpress.net/my-co-the-chi-400-trieu-usd-hoan-cai-may-bay-qatar-thanh-khong-luc-mot-4895230.html) - 02:40 06/06/2025
-- 🤭 [Bill Clinton đặt câu hỏi về lịch trình của ông Biden khi tại nhiệm](https://vnexpress.net/bill-clinton-dat-cau-hoi-ve-lich-trinh-cua-ong-biden-khi-tai-nhiem-4895201.html) - 02:09 06/06/2025
-- 🧑‍💻 [Đức trao cho Tổng thống Trump bản sao giấy khai sinh của ông nội](https://vnexpress.net/duc-trao-cho-tong-thong-trump-ban-sao-giay-khai-sinh-cua-ong-noi-4895180.html) - 01:53 06/06/2025
-- 🦏 [Ông Trump: Hãy để Nga - Ukraine đánh nhau thêm một lúc](https://vnexpress.net/ong-trump-hay-de-nga-ukraine-danh-nhau-them-mot-luc-4895175.html) - 01:37 06/06/2025
-- 🦒 [Mỹ trừng phạt 4 thẩm phán ICC](https://vnexpress.net/my-trung-phat-4-tham-phan-icc-4895172.html) - 01:27 06/06/2025
-- 🌈 [Geert Wilders - &#39;Trump của Hà Lan&#39; khiến chính phủ sụp đổ](https://vnexpress.net/geert-wilders-trump-cua-ha-lan-khien-chinh-phu-sup-do-4894359.html) - 01:00 06/06/2025
-- 🧑‍🏫 [Harvard kiện lệnh cấm cấp visa của ông Trump](https://vnexpress.net/harvard-kien-lenh-cam-cap-visa-cua-ong-trump-4895167.html) - 00:17 06/06/2025
-- 🐲 [Triều Tiên cứu hộ thành công chiến hạm 5.000 tấn](https://vnexpress.net/trieu-tien-cuu-ho-thanh-cong-chien-ham-5-000-tan-4895165.html) - 23:55 05/06/2025
-- 🦒 [Ukraine tuyên bố đánh trúng bệ phóng Iskander của Nga](https://vnexpress.net/ukraine-tuyen-bo-danh-trung-be-phong-iskander-cua-nga-4895041.html) - 23:35 05/06/2025
-- 🐻 [Tổng thống Trump và Elon Musk đấu khẩu gay gắt](https://vnexpress.net/tong-thong-trump-va-elon-musk-dau-khau-gay-gat-4895161.html) - 23:14 05/06/2025
-- 🚀 [Tân Tổng thống theo đuổi đường lối thực dụng của Hàn Quốc](https://vnexpress.net/tan-tong-thong-theo-duoi-duong-loi-thuc-dung-cua-han-quoc-4894511.html) - 22:00 05/06/2025
-- 🥰 [NATO thấp thỏm với mối đe dọa từ drone sát thủ](https://vnexpress.net/nato-thap-thom-voi-moi-de-doa-tu-drone-sat-thu-4894688.html) - 17:00 05/06/2025
-- 🔥 [Thủ tướng tìm hiểu mô hình phát triển cảng biển ở Estonia](https://vnexpress.net/thu-tuong-tim-hieu-mo-hinh-phat-trien-cang-bien-o-estonia-4895134.html) - 16:49 05/06/2025
-- 🥳 [&#39;Chính phủ mới của Hàn Quốc tiếp tục coi Việt Nam là đối tác trọng tâm&#39;](https://vnexpress.net/chinh-phu-moi-cua-han-quoc-tiep-tuc-coi-viet-nam-la-doi-tac-trong-tam-4895095.html) - 13:41 05/06/2025
-- 💼 [Trung Quốc nói Mỹ &#39;tự gây tổn hại hình ảnh&#39; khi cấm cấp visa du học](https://vnexpress.net/trung-quoc-noi-my-tu-gay-ton-hai-hinh-anh-khi-cam-cap-visa-du-hoc-4895087.html) - 13:13 05/06/2025
-- 🤡 [Ông Trump và ông Tập điện đàm](https://vnexpress.net/ong-trump-va-ong-tap-dien-dam-4895111.html) - 13:04 05/06/2025
-- 🌁 [Nga tuyên bố sẽ trả đũa Ukraine &#39;vào thời điểm phù hợp&#39;](https://vnexpress.net/nga-tuyen-bo-se-tra-dua-ukraine-vao-thoi-diem-phu-hop-4895054.html) - 12:26 05/06/2025
-- 🤩 [Lý do ông Trump cấm công dân 12 nước nhập cảnh](https://vnexpress.net/ly-do-ong-trump-cam-cong-dan-12-nuoc-nhap-canh-4894691.html) - 12:00 05/06/2025
-- 🎉 [Trung Quốc khoe ICBM mạnh tương đương hàng triệu tấn TNT](https://vnexpress.net/trung-quoc-khoe-icbm-manh-tuong-duong-hang-trieu-tan-tnt-4894948.html) - 09:46 05/06/2025
-- 🎉 [Mỹ nhận định Ukraine đánh trúng được 20 máy bay Nga](https://vnexpress.net/my-nhan-dinh-ukraine-danh-trung-duoc-20-may-bay-nga-4894944.html) - 09:34 05/06/2025
-- 🌁 [Ông Hegseth: Các nước NATO không thể phụ thuộc vào Mỹ](https://vnexpress.net/ong-hegseth-cac-nuoc-nato-khong-the-phu-thuoc-vao-my-4894972.html) - 09:31 05/06/2025
-- 🌊 [Số ca sinh ở Nhật xuống thấp kỷ lục](https://vnexpress.net/so-ca-sinh-o-nhat-xuong-thap-ky-luc-4894937.html) - 09:08 05/06/2025
-- 🕴 [Máy bay gặp vùng nhiễu động, 9 hành khách bị thương](https://vnexpress.net/may-bay-gap-vung-nhieu-dong-9-hanh-khach-bi-thuong-4894899.html) - 08:57 05/06/2025
-- 🎓 [Nghị sĩ bị đình chỉ công tác vì nhảy haka giữa Hạ viện New Zealand](https://vnexpress.net/nghi-si-bi-dinh-chi-cong-tac-vi-nhay-haka-giua-ha-vien-new-zealand-4894946.html) - 08:46 05/06/2025
-- 🦩 [Chiến dịch &#39;Mạng nhện&#39; của Ukraine phơi bày lỗ hổng an ninh Nga](https://vnexpress.net/chien-dich-mang-nhen-cua-ukraine-phoi-bay-lo-hong-an-ninh-nga-4893660.html) - 08:24 05/06/2025
-- 🌏 [Bộ trưởng Giáo dục Mỹ kêu gọi Harvard đàm phán với Nhà Trắng](https://vnexpress.net/bo-truong-giao-duc-my-keu-goi-harvard-dam-phan-voi-nha-trang-4894826.html) - 08:20 05/06/2025
-- 🌋 [Thao trường lục quân Ukraine trúng tên lửa Nga](https://vnexpress.net/thao-truong-luc-quan-ukraine-trung-ten-lua-nga-4894793.html) - 08:04 05/06/2025
-- 🪜 [Đức sơ tán 20.000 dân để gỡ bom từ thời Thế chiến II](https://vnexpress.net/duc-so-tan-20-000-dan-de-go-bom-tu-thoi-the-chien-ii-4894857.html) - 07:36 05/06/2025
-- 🕴 [Ukraine đăng thêm video drone tập kích loạt máy bay Nga](https://vnexpress.net/ukraine-dang-them-video-drone-tap-kich-loat-may-bay-nga-4894803.html) - 07:17 05/06/2025
-- 🧑‍🏫 [Harvard nói lệnh cấm cấp visa của ông Trump &#39;bất hợp pháp&#39;](https://vnexpress.net/harvard-noi-lenh-cam-cap-visa-cua-ong-trump-bat-hop-phap-4894854.html) - 05:11 05/06/2025
-- 🌮 [Anh cam kết cấp 100.000 drone cho Ukraine](https://vnexpress.net/anh-cam-ket-cap-100-000-drone-cho-ukraine-4894752.html) - 05:02 05/06/2025
-- 🚦 [Đại tá Ukraine: Moskva muốn chặn đường ra Biển Đen của Kiev](https://vnexpress.net/dai-ta-ukraine-moskva-muon-chan-duong-ra-bien-den-cua-kiev-4894750.html) - 04:46 05/06/2025
-- 💫 [Hệ quả khi ông Trump nhắm vào sinh viên quốc tế ở Mỹ](https://vnexpress.net/he-qua-khi-ong-trump-nham-vao-sinh-vien-quoc-te-o-my-4894026.html) - 04:33 05/06/2025
-- 🤡 [Tướng Mỹ muốn lá chắn Vòm Vàng chặn được drone tự sát](https://vnexpress.net/tuong-my-muon-la-chan-vom-vang-chan-duoc-drone-tu-sat-4894749.html) - 04:22 05/06/2025
-- 🦣 [Ông Zelensky: Ukraine sẽ không tiếp tục đàm phán cấp thấp với Nga](https://vnexpress.net/ong-zelensky-ukraine-se-khong-tiep-tuc-dam-phan-cap-thap-voi-nga-4894764.html) - 04:06 05/06/2025
-- 🎬 [Mỹ chặn nghị quyết của Hội đồng Bảo an về ngừng bắn ở Gaza](https://vnexpress.net/my-chan-nghi-quyet-cua-hoi-dong-bao-an-ve-ngung-ban-o-gaza-4894659.html) - 04:02 05/06/2025
-- 🎉 [Cặp nam nữ bị phạt 200 roi vì ngoại tình](https://vnexpress.net/cap-nam-nu-bi-phat-200-roi-vi-ngoai-tinh-4894702.html) - 03:49 05/06/2025
-- 🎡 [Lãnh tụ tối cao Iran bác yêu cầu của Mỹ về làm giàu uranium](https://vnexpress.net/lanh-tu-toi-cao-iran-bac-yeu-cau-cua-my-ve-lam-giau-uranium-4894723.html) - 03:26 05/06/2025
-- 🌜 [Cựu phát ngôn viên Nhà Trắng cáo buộc đảng Dân chủ &#39;phản bội&#39; ông Biden](https://vnexpress.net/cuu-phat-ngon-vien-nha-trang-cao-buoc-dang-dan-chu-phan-boi-ong-biden-4894686.html) - 03:09 05/06/2025
-- 🎡 [Ông Trump muốn điều tra &#39;âm mưu che giấu bệnh tình của ông Biden&#39;](https://vnexpress.net/ong-trump-muon-dieu-tra-am-muu-che-giau-benh-tinh-cua-ong-biden-4894734.html) - 02:55 05/06/2025
-- 🤗 [Triều Tiên lần đầu đưa tin về bầu cử tổng thống bất thường ở Hàn Quốc](https://vnexpress.net/trieu-tien-lan-dau-dua-tin-ve-bau-cu-tong-thong-bat-thuong-o-han-quoc-4894701.html) - 02:40 05/06/2025
-- 🦩 [Mỹ cấm cấp visa cho du học sinh muốn theo học Harvard](https://vnexpress.net/my-cam-cap-visa-cho-du-hoc-sinh-muon-theo-hoc-harvard-4894669.html) - 01:44 05/06/2025
-- 🎓 [Triều Tiên cam kết ủng hộ Nga vô điều kiện về vấn đề Ukraine](https://vnexpress.net/trieu-tien-cam-ket-ung-ho-nga-vo-dieu-kien-ve-van-de-ukraine-4894650.html) - 01:20 05/06/2025
-- 🌁 [Ông Trump lệnh cấm nhập cảnh với công dân 12 nước](https://vnexpress.net/ong-trump-lenh-cam-nhap-canh-voi-cong-dan-12-nuoc-4894657.html) - 00:42 05/06/2025
-- 🤩 [Tổng thống Putin lần đầu điện đàm với Giáo hoàng Leo XIV](https://vnexpress.net/tong-thong-putin-lan-dau-dien-dam-voi-giao-hoang-leo-xiv-4894654.html) - 23:59 04/06/2025
-- 👹 [Khoảnh khắc Iskander-M tập kích &#39;lá chắn IRIS-T của Ukraine&#39;](https://vnexpress.net/khoanh-khac-iskander-m-tap-kich-la-chan-iris-t-cua-ukraine-4894606.html) - 23:37 04/06/2025
-- ⛽️ [Thủ tướng Phạm Minh Chính lên đường công du châu Âu](https://vnexpress.net/thu-tuong-pham-minh-chinh-len-duong-cong-du-chau-au-4894450.html) - 23:16 04/06/2025
-- 🚀 [Ông Trump: Tổng thống Putin tuyên bố sẽ trả đũa vụ Ukraine tấn công sân bay](https://vnexpress.net/ong-trump-tong-thong-putin-tuyen-bo-se-tra-dua-vu-ukraine-tan-cong-san-bay-4894634.html) - 17:40 04/06/2025
-- 🎡 [Hiệp ước có thể đã khiến oanh tạc cơ Nga phơi mình trước drone Ukraine](https://vnexpress.net/hiep-uoc-co-the-da-khien-oanh-tac-co-nga-phoi-minh-truoc-drone-ukraine-4894494.html) - 17:00 04/06/2025
-- 🕯 [Mỹ lo nguy cơ leo thang sau vụ Ukraine tập kích loạt căn cứ Nga](https://vnexpress.net/my-lo-nguy-co-leo-thang-sau-vu-ukraine-tap-kich-loat-can-cu-nga-4894596.html) - 13:57 04/06/2025
-- 🐻 [Thái Lan trấn an người dân sau khi đình chỉ chương trình phát tiền](https://vnexpress.net/thai-lan-tran-an-nguoi-dan-sau-khi-dinh-chi-chuong-trinh-phat-tien-4893726.html) - 12:58 04/06/2025
-- 🚦 [Voi chui vào cửa hàng tạp hóa tìm đồ ăn](https://vnexpress.net/voi-chui-vao-cua-hang-tap-hoa-tim-do-an-4894583.html) - 12:44 04/06/2025
-- 👍 [Lập trường không thỏa hiệp của Nga trong điều khoản hòa bình gửi Ukraine](https://vnexpress.net/lap-truong-khong-thoa-hiep-cua-nga-trong-dieu-khoan-hoa-binh-gui-ukraine-4894233.html) - 12:09 04/06/2025
-- 🚀 [Ukraine nói Nga bắt đầu dùng bom lượn tầm bay gần 100 km](https://vnexpress.net/ukraine-noi-nga-bat-dau-dung-bom-luon-tam-bay-gan-100-km-4894447.html) - 12:02 04/06/2025
-- 🌮 [Chủ tịch Hạ viện Mỹ thất vọng vì Elon Musk chỉ trích siêu dự luật](https://vnexpress.net/chu-tich-ha-vien-my-that-vong-vi-elon-musk-chi-trich-sieu-du-luat-4894495.html) - 11:20 04/06/2025
-- 😎 [Khói cháy rừng bao phủ nhiều khu vực ở Mỹ, Canada, lan sang châu Âu](https://vnexpress.net/khoi-chay-rung-bao-phu-nhieu-khu-vuc-o-my-canada-lan-sang-chau-au-4894462.html) - 10:46 04/06/2025
-- 🐲 [Hai người Trung Quốc bị cáo buộc mang vào Mỹ loại nấm &#39;khủng bố nông nghiệp&#39;](https://vnexpress.net/hai-nguoi-trung-quoc-bi-cao-buoc-mang-vao-my-loai-nam-khung-bo-nong-nghiep-4894347.html) - 09:50 04/06/2025
-- 💫 [Tokyo phát động chiến dịch chống sàm sỡ trên tàu điện](https://vnexpress.net/tokyo-phat-dong-chien-dich-chong-sam-so-tren-tau-dien-4894299.html) - 09:13 04/06/2025
-- 👀 [Quan chức Ukraine: Nên coi F-16 bị bắn hạ là điều bình thường](https://vnexpress.net/quan-chuc-ukraine-nen-coi-f-16-bi-ban-ha-la-dieu-binh-thuong-4894432.html) - 08:25 04/06/2025<!-- vnexpress-the-gioi:END -->
+- 🎭 [Mỹ &#39;ngừng chuyển vũ khí chống UAV then chốt&#39; cho Ukraine](https://vnexpress.net/my-ngung-chuyen-vu-khi-chong-uav-then-chot-cho-ukraine-4894975.html) - 05:30 06/06/2025
+- 🕴 [Nhà Trắng lên tiếng về mâu thuẫn giữa ông Trump và Elon Musk](https://vnexpress.net/nha-trang-len-tieng-ve-mau-thuan-giua-ong-trump-va-elon-musk-4895353.html) - 05:11 06/06/2025
+- 🤭 [Siêu dự luật khiến quan hệ Trump - Musk tan vỡ](https://vnexpress.net/sieu-du-luat-khien-quan-he-trump-musk-tan-vo-4895195.html) - 05:01 06/06/2025
+- 🧑‍💻 [Thẩm phán chặn lệnh cấm cấp visa cho du học sinh vào Harvard](https://vnexpress.net/tham-phan-chan-lenh-cam-cap-visa-cho-du-hoc-sinh-vao-harvard-4895269.html) - 04:24 06/06/2025
+- 🦏 [Lính Nga thu xe tăng Abrams, xe cứu kéo Challenger của Ukraine](https://vnexpress.net/linh-nga-thu-xe-tang-abrams-xe-cuu-keo-challenger-cua-ukraine-4895241.html) - 04:13 06/06/2025
+- 🦒 [Cách ngụy trang không bảo vệ được đội oanh tạc cơ chiến lược Nga](https://vnexpress.net/cach-nguy-trang-khong-bao-ve-duoc-doi-oanh-tac-co-chien-luoc-nga-4894999.html) - 04:03 06/06/2025
+- 🌈 [Mỹ truy quét lao động nhập cư trong tiệm nail ở Georgia](https://vnexpress.net/my-truy-quet-lao-dong-nhap-cu-trong-tiem-nail-o-georgia-4895232.html) - 03:41 06/06/2025
+- 🧑‍🏫 [Hoàng hậu Hà Lan tặng chuông đúc từ mảnh đạn pháo Nga](https://vnexpress.net/hoang-hau-ha-lan-tang-chuong-duc-tu-manh-dan-phao-nga-4895238.html) - 03:23 06/06/2025
+- 🐲 [Giây phút ông Trump bày tỏ thất vọng về Elon Musk](https://vnexpress.net/giay-phut-ong-trump-bay-to-that-vong-ve-elon-musk-4895222.html) - 02:54 06/06/2025
+- 🦒 [Mỹ có thể chi 400 triệu USD hoán cải máy bay Qatar thành Không lực Một](https://vnexpress.net/my-co-the-chi-400-trieu-usd-hoan-cai-may-bay-qatar-thanh-khong-luc-mot-4895230.html) - 02:40 06/06/2025
+- 🐻 [Bill Clinton đặt câu hỏi về lịch trình của ông Biden khi tại nhiệm](https://vnexpress.net/bill-clinton-dat-cau-hoi-ve-lich-trinh-cua-ong-biden-khi-tai-nhiem-4895201.html) - 02:09 06/06/2025
+- 🚀 [Đức trao cho Tổng thống Trump bản sao giấy khai sinh của ông nội](https://vnexpress.net/duc-trao-cho-tong-thong-trump-ban-sao-giay-khai-sinh-cua-ong-noi-4895180.html) - 01:53 06/06/2025
+- 🥰 [Ông Trump: Hãy để Nga - Ukraine đánh nhau thêm một lúc](https://vnexpress.net/ong-trump-hay-de-nga-ukraine-danh-nhau-them-mot-luc-4895175.html) - 01:37 06/06/2025
+- 🔥 [Mỹ trừng phạt 4 thẩm phán ICC](https://vnexpress.net/my-trung-phat-4-tham-phan-icc-4895172.html) - 01:27 06/06/2025
+- 🥳 [Geert Wilders - &#39;Trump của Hà Lan&#39; khiến chính phủ sụp đổ](https://vnexpress.net/geert-wilders-trump-cua-ha-lan-khien-chinh-phu-sup-do-4894359.html) - 01:00 06/06/2025
+- 💼 [Harvard kiện lệnh cấm cấp visa của ông Trump](https://vnexpress.net/harvard-kien-lenh-cam-cap-visa-cua-ong-trump-4895167.html) - 00:17 06/06/2025
+- 🤡 [Triều Tiên cứu hộ thành công chiến hạm 5.000 tấn](https://vnexpress.net/trieu-tien-cuu-ho-thanh-cong-chien-ham-5-000-tan-4895165.html) - 23:55 05/06/2025
+- 🌁 [Ukraine tuyên bố đánh trúng bệ phóng Iskander của Nga](https://vnexpress.net/ukraine-tuyen-bo-danh-trung-be-phong-iskander-cua-nga-4895041.html) - 23:35 05/06/2025
+- 🤩 [Tổng thống Trump và Elon Musk đấu khẩu gay gắt](https://vnexpress.net/tong-thong-trump-va-elon-musk-dau-khau-gay-gat-4895161.html) - 23:14 05/06/2025
+- 🎉 [Tân Tổng thống theo đuổi đường lối thực dụng của Hàn Quốc](https://vnexpress.net/tan-tong-thong-theo-duoi-duong-loi-thuc-dung-cua-han-quoc-4894511.html) - 22:00 05/06/2025
+- 🎉 [NATO thấp thỏm với mối đe dọa từ drone sát thủ](https://vnexpress.net/nato-thap-thom-voi-moi-de-doa-tu-drone-sat-thu-4894688.html) - 17:00 05/06/2025
+- 🌁 [Thủ tướng tìm hiểu mô hình phát triển cảng biển ở Estonia](https://vnexpress.net/thu-tuong-tim-hieu-mo-hinh-phat-trien-cang-bien-o-estonia-4895134.html) - 16:49 05/06/2025
+- 🌊 [&#39;Chính phủ mới của Hàn Quốc tiếp tục coi Việt Nam là đối tác trọng tâm&#39;](https://vnexpress.net/chinh-phu-moi-cua-han-quoc-tiep-tuc-coi-viet-nam-la-doi-tac-trong-tam-4895095.html) - 13:41 05/06/2025
+- 🕴 [Trung Quốc nói Mỹ &#39;tự gây tổn hại hình ảnh&#39; khi cấm cấp visa du học](https://vnexpress.net/trung-quoc-noi-my-tu-gay-ton-hai-hinh-anh-khi-cam-cap-visa-du-hoc-4895087.html) - 13:13 05/06/2025
+- 🎓 [Ông Trump và ông Tập điện đàm](https://vnexpress.net/ong-trump-va-ong-tap-dien-dam-4895111.html) - 13:04 05/06/2025
+- 🦩 [Nga tuyên bố sẽ trả đũa Ukraine &#39;vào thời điểm phù hợp&#39;](https://vnexpress.net/nga-tuyen-bo-se-tra-dua-ukraine-vao-thoi-diem-phu-hop-4895054.html) - 12:26 05/06/2025
+- 🌏 [Lý do ông Trump cấm công dân 12 nước nhập cảnh](https://vnexpress.net/ly-do-ong-trump-cam-cong-dan-12-nuoc-nhap-canh-4894691.html) - 12:00 05/06/2025
+- 🌋 [Trung Quốc khoe ICBM mạnh tương đương hàng triệu tấn TNT](https://vnexpress.net/trung-quoc-khoe-icbm-manh-tuong-duong-hang-trieu-tan-tnt-4894948.html) - 09:46 05/06/2025
+- 🪜 [Mỹ nhận định Ukraine đánh trúng được 20 máy bay Nga](https://vnexpress.net/my-nhan-dinh-ukraine-danh-trung-duoc-20-may-bay-nga-4894944.html) - 09:34 05/06/2025
+- 🕴 [Ông Hegseth: Các nước NATO không thể phụ thuộc vào Mỹ](https://vnexpress.net/ong-hegseth-cac-nuoc-nato-khong-the-phu-thuoc-vao-my-4894972.html) - 09:31 05/06/2025
+- 🧑‍🏫 [Số ca sinh ở Nhật xuống thấp kỷ lục](https://vnexpress.net/so-ca-sinh-o-nhat-xuong-thap-ky-luc-4894937.html) - 09:08 05/06/2025
+- 🌮 [Máy bay gặp vùng nhiễu động, 9 hành khách bị thương](https://vnexpress.net/may-bay-gap-vung-nhieu-dong-9-hanh-khach-bi-thuong-4894899.html) - 08:57 05/06/2025
+- 🚦 [Nghị sĩ bị đình chỉ công tác vì nhảy haka giữa Hạ viện New Zealand](https://vnexpress.net/nghi-si-bi-dinh-chi-cong-tac-vi-nhay-haka-giua-ha-vien-new-zealand-4894946.html) - 08:46 05/06/2025
+- 💫 [Chiến dịch &#39;Mạng nhện&#39; của Ukraine phơi bày lỗ hổng an ninh Nga](https://vnexpress.net/chien-dich-mang-nhen-cua-ukraine-phoi-bay-lo-hong-an-ninh-nga-4893660.html) - 08:24 05/06/2025
+- 🤡 [Bộ trưởng Giáo dục Mỹ kêu gọi Harvard đàm phán với Nhà Trắng](https://vnexpress.net/bo-truong-giao-duc-my-keu-goi-harvard-dam-phan-voi-nha-trang-4894826.html) - 08:20 05/06/2025
+- 🦣 [Thao trường lục quân Ukraine trúng tên lửa Nga](https://vnexpress.net/thao-truong-luc-quan-ukraine-trung-ten-lua-nga-4894793.html) - 08:04 05/06/2025
+- 🎬 [Đức sơ tán 20.000 dân để gỡ bom từ thời Thế chiến II](https://vnexpress.net/duc-so-tan-20-000-dan-de-go-bom-tu-thoi-the-chien-ii-4894857.html) - 07:36 05/06/2025
+- 🎉 [Ukraine đăng thêm video drone tập kích loạt máy bay Nga](https://vnexpress.net/ukraine-dang-them-video-drone-tap-kich-loat-may-bay-nga-4894803.html) - 07:17 05/06/2025
+- 🎡 [Harvard nói lệnh cấm cấp visa của ông Trump &#39;bất hợp pháp&#39;](https://vnexpress.net/harvard-noi-lenh-cam-cap-visa-cua-ong-trump-bat-hop-phap-4894854.html) - 05:11 05/06/2025
+- 🌜 [Anh cam kết cấp 100.000 drone cho Ukraine](https://vnexpress.net/anh-cam-ket-cap-100-000-drone-cho-ukraine-4894752.html) - 05:02 05/06/2025
+- 🎡 [Đại tá Ukraine: Moskva muốn chặn đường ra Biển Đen của Kiev](https://vnexpress.net/dai-ta-ukraine-moskva-muon-chan-duong-ra-bien-den-cua-kiev-4894750.html) - 04:46 05/06/2025
+- 🤗 [Hệ quả khi ông Trump nhắm vào sinh viên quốc tế ở Mỹ](https://vnexpress.net/he-qua-khi-ong-trump-nham-vao-sinh-vien-quoc-te-o-my-4894026.html) - 04:33 05/06/2025
+- 🦩 [Tướng Mỹ muốn lá chắn Vòm Vàng chặn được drone tự sát](https://vnexpress.net/tuong-my-muon-la-chan-vom-vang-chan-duoc-drone-tu-sat-4894749.html) - 04:22 05/06/2025
+- 🎓 [Ông Zelensky: Ukraine sẽ không tiếp tục đàm phán cấp thấp với Nga](https://vnexpress.net/ong-zelensky-ukraine-se-khong-tiep-tuc-dam-phan-cap-thap-voi-nga-4894764.html) - 04:06 05/06/2025
+- 🌁 [Mỹ chặn nghị quyết của Hội đồng Bảo an về ngừng bắn ở Gaza](https://vnexpress.net/my-chan-nghi-quyet-cua-hoi-dong-bao-an-ve-ngung-ban-o-gaza-4894659.html) - 04:02 05/06/2025
+- 🤩 [Cặp nam nữ bị phạt 200 roi vì ngoại tình](https://vnexpress.net/cap-nam-nu-bi-phat-200-roi-vi-ngoai-tinh-4894702.html) - 03:49 05/06/2025
+- 👹 [Lãnh tụ tối cao Iran bác yêu cầu của Mỹ về làm giàu uranium](https://vnexpress.net/lanh-tu-toi-cao-iran-bac-yeu-cau-cua-my-ve-lam-giau-uranium-4894723.html) - 03:26 05/06/2025
+- ⛽️ [Cựu phát ngôn viên Nhà Trắng cáo buộc đảng Dân chủ &#39;phản bội&#39; ông Biden](https://vnexpress.net/cuu-phat-ngon-vien-nha-trang-cao-buoc-dang-dan-chu-phan-boi-ong-biden-4894686.html) - 03:09 05/06/2025
+- 🚀 [Ông Trump muốn điều tra &#39;âm mưu che giấu bệnh tình của ông Biden&#39;](https://vnexpress.net/ong-trump-muon-dieu-tra-am-muu-che-giau-benh-tinh-cua-ong-biden-4894734.html) - 02:55 05/06/2025
+- 🎡 [Triều Tiên lần đầu đưa tin về bầu cử tổng thống bất thường ở Hàn Quốc](https://vnexpress.net/trieu-tien-lan-dau-dua-tin-ve-bau-cu-tong-thong-bat-thuong-o-han-quoc-4894701.html) - 02:40 05/06/2025
+- 🕯 [Mỹ cấm cấp visa cho du học sinh muốn theo học Harvard](https://vnexpress.net/my-cam-cap-visa-cho-du-hoc-sinh-muon-theo-hoc-harvard-4894669.html) - 01:44 05/06/2025
+- 🐻 [Triều Tiên cam kết ủng hộ Nga vô điều kiện về vấn đề Ukraine](https://vnexpress.net/trieu-tien-cam-ket-ung-ho-nga-vo-dieu-kien-ve-van-de-ukraine-4894650.html) - 01:20 05/06/2025
+- 🚦 [Ông Trump lệnh cấm nhập cảnh với công dân 12 nước](https://vnexpress.net/ong-trump-lenh-cam-nhap-canh-voi-cong-dan-12-nuoc-4894657.html) - 00:42 05/06/2025
+- 👍 [Tổng thống Putin lần đầu điện đàm với Giáo hoàng Leo XIV](https://vnexpress.net/tong-thong-putin-lan-dau-dien-dam-voi-giao-hoang-leo-xiv-4894654.html) - 23:59 04/06/2025
+- 🚀 [Khoảnh khắc Iskander-M tập kích &#39;lá chắn IRIS-T của Ukraine&#39;](https://vnexpress.net/khoanh-khac-iskander-m-tap-kich-la-chan-iris-t-cua-ukraine-4894606.html) - 23:37 04/06/2025
+- 🌮 [Thủ tướng Phạm Minh Chính lên đường công du châu Âu](https://vnexpress.net/thu-tuong-pham-minh-chinh-len-duong-cong-du-chau-au-4894450.html) - 23:16 04/06/2025
+- 😎 [Ông Trump: Tổng thống Putin tuyên bố sẽ trả đũa vụ Ukraine tấn công sân bay](https://vnexpress.net/ong-trump-tong-thong-putin-tuyen-bo-se-tra-dua-vu-ukraine-tan-cong-san-bay-4894634.html) - 17:40 04/06/2025
+- 🐲 [Hiệp ước có thể đã khiến oanh tạc cơ Nga phơi mình trước drone Ukraine](https://vnexpress.net/hiep-uoc-co-the-da-khien-oanh-tac-co-nga-phoi-minh-truoc-drone-ukraine-4894494.html) - 17:00 04/06/2025
+- 💫 [Mỹ lo nguy cơ leo thang sau vụ Ukraine tập kích loạt căn cứ Nga](https://vnexpress.net/my-lo-nguy-co-leo-thang-sau-vu-ukraine-tap-kich-loat-can-cu-nga-4894596.html) - 13:57 04/06/2025
+- 👀 [Thái Lan trấn an người dân sau khi đình chỉ chương trình phát tiền](https://vnexpress.net/thai-lan-tran-an-nguoi-dan-sau-khi-dinh-chi-chuong-trinh-phat-tien-4893726.html) - 12:58 04/06/2025<!-- vnexpress-the-gioi:END -->
