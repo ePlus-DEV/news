@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Kylian Mbappe từng cân nhắc giã từ đội tuyển Pháp](https://dantri.com.vn/the-thao/kylian-mbappe-tung-can-nhac-gia-tu-doi-tuyen-phap-20250607172041782.htm) - 10:20 07/06/2025
+- 🎡 [Kylian Mbappe từng cân nhắc giã từ đội tuyển Pháp](https://dantri.com.vn/the-thao/kylian-mbappe-tung-can-nhac-gia-tu-doi-tuyen-phap-20250607172041782.htm) - 11:01 07/06/2025
 - 💯 [Báo Malaysia dự đoán bất ngờ về trận đấu đội nhà gặp tuyển Việt Nam](https://dantri.com.vn/the-thao/bao-malaysia-du-doan-bat-ngo-ve-tran-dau-doi-nha-gap-tuyen-viet-nam-20250607162402106.htm) - 10:01 07/06/2025
 - ⛽️ [Tay vợt pickleball có lối chơi độc đáo, được ví như siêu nhân](https://dantri.com.vn/the-thao/tay-vot-pickleball-co-loi-choi-doc-dao-duoc-vi-nhu-sieu-nhan-20250607163559727.htm) - 09:58 07/06/2025
 - 💃 [Madam Pang đàm phán thất bại, U22 Thái Lan bất lợi ở SEA Games 33](https://dantri.com.vn/the-thao/madam-pang-dam-phan-that-bai-u22-thai-lan-bat-loi-o-sea-games-33-20250607140101445.htm) - 09:00 07/06/2025
