@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-giao-duc:START -->
 - 🤡 [Gợi ý đáp án môn tiếng Anh thi vào lớp 10 năm 2025 của Hà Nội](https://dantri.com.vn/giao-duc/goi-y-dap-an-mon-tieng-anh-thi-vao-lop-10-nam-2025-cua-ha-noi-20250607081354293.htm) - 08:15 07/06/2025
-- 🗽 [Đề thi môn tiếng Anh vào lớp 10 Hà Nội năm 2025, thí sinh tự tin](https://dantri.com.vn/giao-duc/de-thi-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025-thi-sinh-tu-tin-20250606224937347.htm) - 08:00 07/06/2025
+- 🗽 [Đề thi môn tiếng Anh vào lớp 10 Hà Nội 2025: Thí sinh khoe &quot;dễ thở&quot;](https://dantri.com.vn/giao-duc/de-thi-mon-tieng-anh-vao-lop-10-ha-noi-2025-thi-sinh-khoe-de-tho-20250606224937347.htm) - 08:00 07/06/2025
 - 🚦 [Giáo viên lý giải đề toán lớp 10 ở THCM gây “khóc cười”](https://dantri.com.vn/giao-duc/giao-vien-ly-giai-de-toan-lop-10-o-thcm-gay-khoc-cuoi-20250607135947168.htm) - 07:28 07/06/2025
 - 🌋 [“Dù kết quả thi ra sao, con vẫn luôn có gia đình đồng hành&quot;](https://dantri.com.vn/giao-duc/du-ket-qua-thi-ra-sao-con-van-luon-co-gia-dinh-dong-hanh-20250607120848218.htm) - 05:33 07/06/2025
 - 🏊 [Đề và đáp án 3 môn thi vào lớp 10 tỉnh Long An](https://dantri.com.vn/giao-duc/de-va-dap-an-3-mon-thi-vao-lop-10-tinh-long-an-20250606150432701.htm) - 05:31 07/06/2025
