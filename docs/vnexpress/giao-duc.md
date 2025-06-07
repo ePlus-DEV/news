@@ -9,7 +9,7 @@ sidebar_position: 7
 - 🦩 [Đề Tiếng Anh thi vào lớp 10 ở Hà Nội](https://vnexpress.net/24-ma-de-tieng-anh-thi-lop-10-o-ha-noi-nam-2025-4895703.html) - 08:07 07/06/2025
 - 🌮 [Huy động nghệ sĩ, vận động viên tham gia dạy học ở phổ thông](https://vnexpress.net/chi-thi-cua-thu-tuong-ve-day-hoc-hai-buoi-moi-ngay-4895747.html) - 05:49 07/06/2025
 - 🔭 [Đề Toán TP HCM giảm tải, có thể phá &#39;dớp&#39; hơn 50% dưới điểm 5](https://vnexpress.net/du-doan-pho-diem-de-thi-toan-lop-10-cua-tp-hcm-nam-2025-4895636.html) - 05:08 07/06/2025
-- 💡 [Đề thi Văn lớp 10 được khen &#39;thực tế&#39;, dự đoán nhiều điểm 6,5](https://vnexpress.net/pho-diem-mon-van-thi-lop-10-cua-ha-noi-nam-2025-se-ra-sao-4895742.html) - 04:48 07/06/2025
+- 💡 [Giáo viên dự đoán phổ điểm Văn thi lớp 10 Hà Nội phổ biến 6,5-7](https://vnexpress.net/pho-diem-mon-van-thi-lop-10-cua-ha-noi-nam-2025-se-ra-sao-4895742.html) - 04:48 07/06/2025
 - 🥰 [Gợi ý đáp án đề Văn thi lớp 10 ở Hà Nội](https://vnexpress.net/dap-an-de-thi-mon-van-vao-lop-10-o-ha-noi-2025-4895619.html) - 03:18 07/06/2025
 - 🐲 [Gợi ý đáp án đề thi Toán lớp 10 của TP HCM](https://vnexpress.net/dap-an-de-thi-toan-lop-10-tp-hcm-nam-2025-4895622.html) - 03:14 07/06/2025
 - 🦒 [Đề Văn thi lớp 10 của Hà Nội về chủ đề &#39;hạnh phúc&#39;](https://vnexpress.net/de-van-thi-lop-10-cua-ha-noi-nam-2025-4895618.html) - 03:09 07/06/2025
