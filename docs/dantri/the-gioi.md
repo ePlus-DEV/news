@@ -4,7 +4,7 @@ sidebar_position: 17
 ---
 
 <!-- dantri-the-gioi:START -->
-- 🌋 [Quan chức Đức dánh giá tổn thất của Nga sau chiến dịch Mạng nhện từ Ukraine](https://dantri.com.vn/the-gioi/quan-chuc-duc-danh-gia-ton-that-cua-nga-sau-chien-dich-mang-nhen-tu-ukraine-20250607195831935.htm) - 13:25 07/06/2025
+- 🌋 [Quan chức Đức đánh giá tổn thất của Nga sau chiến dịch Mạng nhện từ Ukraine](https://dantri.com.vn/the-gioi/quan-chuc-duc-danh-gia-ton-that-cua-nga-sau-chien-dich-mang-nhen-tu-ukraine-20250607195831935.htm) - 13:25 07/06/2025
 - 🎬 [Thế trận Nga - Ukraine khi “vừa đánh, vừa đàm”](https://dantri.com.vn/the-gioi/the-tran-nga-ukraine-khi-vua-danh-vua-dam-20250607193813788.htm) - 12:57 07/06/2025
 - 🧰 [Ukraine tuyên bố bắn hạ máy bay chiến đấu Su-35 của Nga](https://dantri.com.vn/the-gioi/ukraine-tuyen-bo-ban-ha-may-bay-chien-dau-su-35-cua-nga-20250607182255565.htm) - 11:36 07/06/2025
 - 🌋 [Cha ông Elon Musk cảnh báo con trai &quot;chắc chắn thua&quot; trước Tổng thống Trump](https://dantri.com.vn/the-gioi/cha-ong-elon-musk-canh-bao-con-trai-chac-chan-thua-truoc-tong-thong-trump-20250607164657415.htm) - 10:23 07/06/2025
