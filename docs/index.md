@@ -144,66 +144,66 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Sĩ tử mong không &#39;gục ngã&#39;, &#39;bật khóc&#39; sau giờ thi toán lớp 10 TP.HCM](https://thanhnien.vn/si-tu-mong-khong-guc-nga-bat-khoc-sau-gio-thi-toan-lop-10-tphcm-18525060621395059.htm) - 23:33 06/06/2025
-- 🥸 [Cơ hội cho Indonesia giành vé World Cup 2026](https://thanhnien.vn/co-hoi-cho-indonesia-gianh-ve-world-cup-2026-185250606213328967.htm) - 23:24 06/06/2025
+- 🤠 [Giá USD hôm nay 7.6.2025: Tiếp tục giảm sau khi vươn lên mốc kỉ lục](https://thanhnien.vn/gia-usd-hom-nay-762025-tiep-tuc-giam-tu-moc-ki-luc-185250607090049252.htm) - 02:06 07/06/2025
+- 🥸 [Giá vàng hôm nay 7.6.2025: &#39;Bốc hơi&#39; hơn 1 triệu đồng khiến người mua lỗ nặng](https://thanhnien.vn/gia-vang-hom-nay-762025-boc-hoi-hon-1-trieu-dong-khien-nguoi-mua-lo-nang-185250607070754727.htm) - 02:03 07/06/2025
+- 🌁 [Ông ngoại 76 tuổi đưa cháu đi thi cấp 3 để &#39;được vía tốt&#39;](https://thanhnien.vn/ong-ngoai-76-tuoi-dua-chau-di-thi-cap-3-de-duoc-via-tot-185250607083801087.htm) - 02:01 07/06/2025
+- 🤡 [Dai-ichi Life Việt Nam - ‘Hơn 5 triệu khách hàng, trọn vẹn một niềm tin’](https://thanhnien.vn/dai-ichi-life-viet-nam-hon-5-trieu-khach-hang-tron-ven-mot-niem-tin-185250607074336707.htm) - 02:00 07/06/2025
+- 🎉 [Chủ động nhận biết sốt xuất huyết Dengue qua những dấu hiệu quen thuộc](https://thanhnien.vn/chu-dong-nhan-biet-sot-xuat-huyet-dengue-qua-nhung-dau-hieu-quen-thuoc-185250606224529894.htm) - 02:00 07/06/2025
+- 🎊 [HD SAISON triển khai gói vay học phí giúp sinh viên đầu tư cho tương lai](https://thanhnien.vn/hd-saison-trien-khai-goi-vay-hoc-phi-giup-sinh-vien-dau-tu-cho-tuong-lai-185250606173803038.htm) - 02:00 07/06/2025
+- 🤠 [Kia New Seltos ưu đãi đặc biệt 55 triệu đồng, giá chỉ từ 569 triệu đồng](https://thanhnien.vn/kia-new-seltos-uu-dai-dac-biet-55-trieu-dong-gia-chi-tu-569-trieu-dong-185250606162755726.htm) - 02:00 07/06/2025
+- 💼 [Samsung &#39;lỡ tay&#39; xác nhận Galaxy Z Flip 7 và Fold 7](https://thanhnien.vn/samsung-lo-tay-xac-nhan-galaxy-z-flip-7-va-fold-7-1852506062127439.htm) - 01:56 07/06/2025
+- 🐻 [Cầu thủ Malaysia đang chơi tại V-League ‘nội soi&#39; đội tuyển Việt Nam: ‘Tôi đã mách nước cho…’](https://thanhnien.vn/cau-thu-malaysia-dang-choi-tai-v-league-noi-soi-doi-tuyen-viet-nam-toi-da-mach-nuoc-cho-185250606183550921.htm) - 01:53 07/06/2025
+- 🤔 [‘Trời sinh một cặp’ U.70, U.80 với hành trình đạp xe thể thao có một không hai](https://thanhnien.vn/troi-sinh-mot-cap-u70-u80-voi-hanh-trinh-dap-xe-the-thao-co-mot-khong-hai-185250606223923764.htm) - 01:50 07/06/2025
+- 📝 [Indonesia đại nhảy vọt trên bảng xếp hạng FIFA, đội tuyển Việt Nam và Thái Lan thế nào?](https://thanhnien.vn/indonesia-dai-nhay-vot-tren-bang-xep-hang-fifa-doi-tuyen-viet-nam-va-thai-lan-the-nao-185250607083531423.htm) - 01:45 07/06/2025
+- 🥰 [Nữ thiếu úy hoãn cưới để ra miền Bắc thực hiện nhiệm vụ A80](https://thanhnien.vn/nu-thieu-uy-hoan-cuoi-de-ra-mien-bac-thuc-hien-nhiem-vu-a80-185250607020332963.htm) - 01:43 07/06/2025
+- 🐲 [Tòa án tối cao ra phán quyết ủng hộ chính sách của Tổng thống Trump](https://thanhnien.vn/toa-an-toi-cao-ra-phan-quyet-ung-ho-chinh-sach-cua-tong-thong-trump-185250607073131802.htm) - 01:30 07/06/2025
+- 🎃 [Ông Trump không muốn nói chuyện với tỉ phú Elon Musk, CEO Tesla dịu giọng](https://thanhnien.vn/ong-trump-khong-muon-noi-chuyen-voi-ti-phu-elon-musk-ceo-tesla-diu-giong-185250607074129464.htm) - 01:27 07/06/2025
+- 🎬 [Giá heo hơi hôm nay 7.6.2025: Neo cao, nhiều nơi tăng đàn](https://thanhnien.vn/gia-heo-hoi-hom-nay-762025-neo-cao-nhieu-noi-tang-dan-185250607071223171.htm) - 01:24 07/06/2025
+- 🌜 [Những điểm đến trên thế giới giống nhau đến ngỡ ngàng, trong đó có vịnh Hạ Long](https://thanhnien.vn/nhung-diem-den-tren-the-gioi-giong-nhau-den-ngo-ngang-trong-do-co-vinh-ha-long-18525052814050326.htm) - 01:17 07/06/2025
+- 🦆 [Uống dầu cá mỗi ngày có làm tăng cholesterol trong máu?](https://thanhnien.vn/uong-dau-ca-moi-ngay-co-lam-tang-cholesterol-trong-mau-18525060613301697.htm) - 01:09 07/06/2025
+- 🐵 [Meta bị tố theo dõi duyệt web của người dùng Android](https://thanhnien.vn/meta-bi-to-theo-doi-duyet-web-cua-nguoi-dung-android-185250606171819857.htm) - 01:07 07/06/2025
+- 🙉 [Các thói quen không ngờ gây bệnh thận, suy thận](https://thanhnien.vn/cac-thoi-quen-khong-ngo-gay-benh-than-suy-than-185250607010353187.htm) - 01:03 07/06/2025
+- 🌋 [Đời có bao nhiêu ngày vui](https://thanhnien.vn/doi-co-bao-nhieu-ngay-vui-185250606183314501.htm) - 01:00 07/06/2025
+- 🐻 [Đầm sơ mi, lựa chọn hoàn hảo cho quý cô công sở](https://thanhnien.vn/thoi-trang-tre/dam-so-mi-lua-chon-hoan-hao-cho-quy-co-cong-so-185250605102631218.htm) - 01:00 07/06/2025
+- 🧠 [Yêu cầu Nam Định hạn chế để người dân khiếu nại lên T.Ư](https://thanhnien.vn/yeu-cau-nam-dinh-han-che-de-nguoi-dan-khieu-nai-len-tu-185250607005504938.htm) - 00:58 07/06/2025
+- 🔥 [Bóng ma bị loại World Cup lại ám ảnh người Ý: Thua Na Uy với tỷ số khó tin!](https://thanhnien.vn/bong-ma-bi-loai-world-cup-lai-am-anh-nguoi-y-thua-na-uy-voi-ty-so-kho-tin-185250607072814119.htm) - 00:53 07/06/2025
+- 🌋 [Thúc đẩy triển khai các dự án của Estonia tại Việt Nam](https://thanhnien.vn/thuc-day-trien-khai-cac-du-an-cua-estonia-tai-viet-nam-185250606235954679.htm) - 00:45 07/06/2025
+- 😎 [Nam Định &#39;chốt&#39; chủ trương xây tuyến đường 29.000 tỉ nối với Ninh Bình](https://thanhnien.vn/nam-dinh-chot-chu-truong-xay-tuyen-duong-29000-ti-noi-voi-ninh-binh-185250607004423437.htm) - 00:42 07/06/2025
+- 🥰 [Đội tuyển Việt Nam: Tự tin &#39;vào hang săn hổ&#39;](https://thanhnien.vn/doi-tuyen-viet-nam-tu-tin-vao-hang-san-ho-185250606214147349.htm) - 00:36 07/06/2025
+- 🧑‍🏫 [Showbiz 6.6: Quang Thắng đón tin vui; Lý do Mai Thiên Vân không giận Quang Lê](https://thanhnien.vn/showbiz-66-quang-thang-don-tin-vui-ly-do-mai-thien-van-khong-gian-quang-le-185250606210442509.htm) - 00:26 07/06/2025
+- 💄 [CSGT xử lý phạt nguội giúp xã hội văn minh, hiện đại](https://thanhnien.vn/csgt-xu-ly-phat-nguoi-giup-xa-hoi-van-minh-hien-dai-185250606222258699.htm) - 00:24 07/06/2025
+- 💯 [Phi Thanh Vân lên chức Phó viện trưởng](https://thanhnien.vn/phi-thanh-van-len-chuc-pho-vien-truong-185250606235559073.htm) - 00:20 07/06/2025
+- 🚀 [Thời trang may đo cao cấp Việt hướng chuẩn quốc tế](https://thanhnien.vn/thoi-trang-tre/thoi-trang-may-do-cao-cap-viet-huong-chuan-quoc-te-18525060622434098.htm) - 00:17 07/06/2025
+- 🦣 [Jun Phạm, Bùi Công Nam làm nông dân trong show thực tế](https://thanhnien.vn/jun-pham-bui-cong-nam-lam-nong-dan-trong-show-thuc-te-185250606224659058.htm) - 00:16 07/06/2025
+- 👹 [Tin tức đặc biệt trên báo in Thanh Niên 7.6.2025](https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-762025-185250606235359611.htm) - 00:00 07/06/2025
+- 🦄 [Kỹ sư phần mềm kể chuyện học cách thích nghi khi du học](https://thanhnien.vn/ky-su-phan-mem-ke-chuyen-hoc-cach-thich-nghi-khi-du-hoc-185250606183026287.htm) - 00:00 07/06/2025
+- 🤔 [Sĩ tử mong không &#39;gục ngã&#39;, &#39;bật khóc&#39; sau giờ thi toán lớp 10 TP.HCM](https://thanhnien.vn/si-tu-mong-khong-guc-nga-bat-khoc-sau-gio-thi-toan-lop-10-tphcm-18525060621395059.htm) - 23:33 06/06/2025
+- 🧰 [Cơ hội cho Indonesia giành vé World Cup 2026](https://thanhnien.vn/co-hoi-cho-indonesia-gianh-ve-world-cup-2026-185250606213328967.htm) - 23:24 06/06/2025
 - 🌁 [Vinh quang Công an nhân dân: Xem trọn vẹn màn biểu diễn bảo vệ yếu nhân](https://thanhnien.vn/vinh-quang-cong-an-nhan-dan-xem-tron-ven-man-bieu-dien-bao-ve-yeu-nhan-185250607022217158.htm) - 23:21 06/06/2025
-- 🤡 [Bình Phước: Người đàn ông tử vong sau va chạm với xe khách giường nằm](https://thanhnien.vn/binh-phuoc-nguoi-dan-ong-tu-vong-sau-va-cham-voi-xe-khach-giuong-nam-185250606215002906.htm) - 23:18 06/06/2025
-- 🎉 [Đề thi lớp 10 môn toán của TP.HCM sáng nay tập trung vào kiến thức nào?](https://thanhnien.vn/de-thi-lop-10-mon-toan-cua-tphcm-sang-nay-tap-trung-vao-kien-thuc-nao-185250606184323402.htm) - 23:06 06/06/2025
-- 🎊 [Cần gỡ khó nộp phạt nguội](https://thanhnien.vn/can-go-kho-nop-phat-nguoi-185250606222913384.htm) - 23:05 06/06/2025
-- 🤠 [Cân bằng lợi ích trong tuyển sinh](https://thanhnien.vn/can-bang-loi-ich-trong-tuyen-sinh-185250606220859794.htm) - 23:00 06/06/2025
-- 💼 [Phở Hòa Pasteur vắng mặt trong Michelin Guide 2025: Quán nổi tiếng giờ ra sao?](https://thanhnien.vn/pho-hoa-pasteur-vang-mat-trong-michelin-guide-2025-quan-noi-tieng-gio-ra-sao-185250606131332613.htm) - 23:00 06/06/2025
-- 🐻 [Xung đột Nga - Ukraine thêm khó lường](https://thanhnien.vn/xung-dot-nga-ukraine-them-kho-luong-185250606233622435.htm) - 22:40 06/06/2025
-- 🤔 [Đề hỏi &#39;ngụy tạo thông tin&#39;, thí sinh dẫn chứng ca sĩ Jack, hoa hậu Thùy Tiên](https://thanhnien.vn/de-hoi-nguy-tao-thong-tin-thi-sinh-dan-chung-ca-si-jack-hoa-hau-thuy-tien-185250606215848174.htm) - 22:32 06/06/2025
-- 📝 [Nhà thờ do cậu Nam Phương hoàng hậu xây và chiếc túi lạ treo tượng thánh](https://thanhnien.vn/nha-tho-do-cau-nam-phuong-hoang-hau-xay-va-chiec-tui-la-treo-tuong-thanh-185250603234152156.htm) - 22:25 06/06/2025
-- 🥰 [Ngắm xe bọc thép &#39;hầm hố&#39;, xe phun nước chống bạo loạn của ngành công an](https://thanhnien.vn/ngam-xe-boc-thep-ham-ho-xe-phun-nuoc-chong-bao-loan-cua-nganh-cong-an-185250607012204417.htm) - 22:24 06/06/2025
-- 🐲 [SIM rác vẫn tràn lan, làm sao dẹp?](https://thanhnien.vn/sim-rac-van-tran-lan-lam-sao-dep-185250606183508415.htm) - 22:20 06/06/2025
-- 🎃 [Đề thi lớp 10 hay, hiện đại và phân hóa tốt](https://thanhnien.vn/de-thi-lop-10-hay-hien-dai-va-phan-hoa-tot-185250606221430283.htm) - 22:19 06/06/2025
-- 🎬 [Tên phường xã mới sáp nhập ở TP.HCM: Phường Gia Định, tên &#39;sống dậy&#39; sau 50 năm](https://thanhnien.vn/ten-phuong-xa-moi-sap-nhap-o-tphcm-phuong-gia-dinh-ten-song-day-sau-50-nam-185250602122648061.htm) - 22:18 06/06/2025
-- 🌜 [Israel tấn công Li Băng](https://thanhnien.vn/israel-tan-cong-li-bang-185250606233905222.htm) - 22:17 06/06/2025
-- 🦆 [Từ 1.7, ví điện tử là phương tiện thanh toán tương đương tiền mặt, thẻ ngân hàng](https://thanhnien.vn/tu-17-vi-dien-tu-la-phuong-tien-thanh-toan-tuong-duong-tien-mat-the-ngan-hang-185250605091912587.htm) - 22:14 06/06/2025
-- 🐵 [Ám ảnh &#39;Vùng sương phủ, hầm sâu và đảo vắng&#39;](https://thanhnien.vn/am-anh-vung-suong-phu-ham-sau-va-dao-vang-185250606223506031.htm) - 22:12 06/06/2025
-- 🙉 [Nguồn cung nhà ở tại TP.HCM sẽ tăng vọt](https://thanhnien.vn/nguon-cung-nha-o-tai-tphcm-se-tang-vot-185250606184307366.htm) - 22:12 06/06/2025
-- 🌋 [Tờ báo cách mạng đầu tiên phát hành công khai](https://thanhnien.vn/to-bao-cach-mang-dau-tien-phat-hanh-cong-khai-185250606225940268.htm) - 22:11 06/06/2025
-- 🐻 [Nhận định trận Việt Nam - Malaysia: Thử thách cho HLV Kim Sang-sik trước dàn cầu thủ nhập tịch](https://thanhnien.vn/nhan-dinh-tran-viet-nam-malaysia-thu-thach-cho-hlv-kim-sang-sik-truoc-dan-cau-thu-nhap-tich-185250606184159489.htm) - 22:11 06/06/2025
-- 🧠 [Nông sản Mỹ vào Việt Nam tăng vọt](https://thanhnien.vn/nong-san-my-vao-viet-nam-tang-vot-185250606181728167.htm) - 22:11 06/06/2025
-- 🔥 [Sức mua yếu, giá vàng giảm](https://thanhnien.vn/suc-mua-yeu-gia-vang-giam-185250606211410352.htm) - 22:10 06/06/2025
-- 🌋 [Hàng ngàn hộp, lọ, vỉ thuốc, thực phẩm chức năng bị đổ trộm ở Bình Chánh](https://thanhnien.vn/hang-ngan-hop-lo-vi-thuoc-thuc-pham-chuc-nang-bi-do-trom-o-binh-chanh-185250606210908386.htm) - 22:04 06/06/2025
-- 😎 [Căng thẳng kịch tính giữa Tổng thống Trump và tỉ phú Musk](https://thanhnien.vn/cang-thang-kich-tinh-giua-tong-thong-trump-va-ti-phu-musk-185250606221558711.htm) - 22:00 06/06/2025
-- 🥰 [TP.HCM: Qua khảo sát, cán bộ, công chức sẵn sàng rời khu vực công tương đối cao](https://thanhnien.vn/tphcm-qua-khao-sat-can-bo-cong-chuc-san-sang-roi-khu-vuc-cong-tuong-doi-cao-185250606220036279.htm) - 22:00 06/06/2025
-- 🧑‍🏫 [Hộ kinh doanh đóng cửa để né thuế?](https://thanhnien.vn/ho-kinh-doanh-dong-cua-de-ne-thue-185250606210334189.htm) - 22:00 06/06/2025
-- 💄 [Người dân ‘choáng ngợp’ khi xem khí tài CAND](https://thanhnien.vn/nguoi-dan-choang-ngop-khi-xem-khi-tai-cand-185250606194413441.htm) - 22:00 06/06/2025
-- 💯 [Tình người miền biển: Những người hùng bình dị](https://thanhnien.vn/tinh-nguoi-mien-bien-nhung-nguoi-hung-binh-di-185250606190257081.htm) - 22:00 06/06/2025
-- 🚀 [Có những người trẻ… &#39;trì hoãn trưởng thành&#39;](https://thanhnien.vn/co-nhung-nguoi-tre-tri-hoan-truong-thanh-185250606182635506.htm) - 22:00 06/06/2025
-- 🦣 [Tử vi hằng ngày – Xem tử vi vui 12 con giáp ngày 7.6.2025](https://thanhnien.vn/tu-vi-hang-ngay-xem-tu-vi-vui-12-con-giap-ngay-762025-185250606181509983.htm) - 22:00 06/06/2025
-- 👹 [Thùy Tiên ‘ngã ngựa’, hoa hậu và á hậu thi nhau trả vương miện, chuyện gì đang xảy ra với Miss Grand International?](https://thanhnien.vn/thuy-tien-nga-ngua-hoa-hau-va-a-hau-thi-nhau-tra-vuong-mien-chuyen-gi-dang-xay-ra-voi-miss-grand-international-185250606173155297.htm) - 22:00 06/06/2025
-- 🦄 [Lâm Đồng sẽ trở thành thủ phủ của sâm Việt Nam?](https://thanhnien.vn/lam-dong-se-tro-thanh-thu-phu-cua-sam-viet-nam-185250606113843982.htm) - 22:00 06/06/2025
-- 🤔 [Những giao dịch nhà đất nào buộc phải công chứng?](https://thanhnien.vn/nhung-giao-dich-nha-dat-nao-buoc-phai-cong-chung-185250605204805786.htm) - 21:46 06/06/2025
-- 🧰 [Chiến sự Ukraine ngày 1.199: Nga trả đũa dồn dập, lại mất thêm trực thăng?](https://thanhnien.vn/chien-su-ukraine-ngay-1199-nga-tra-dua-don-dap-lai-mat-them-truc-thang-185250606132115796.htm) - 21:28 06/06/2025
-- 🌁 [Tác dụng an thần, hỗ trợ trị mất ngủ của lá sen, lá vông](https://thanhnien.vn/tac-dung-an-than-ho-tro-tri-mat-ngu-cua-la-sen-la-vong-185250606160120905.htm) - 21:18 06/06/2025
-- 🧐 [Ngày mới với tin tức sức khỏe: Uống omega-3 có làm tăng cholesterol?](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-uong-omega-3-co-lam-tang-cholesterol-185250606234653578.htm) - 17:10 06/06/2025
-- 🌏 [Loại hạt &#39;nhỏ mà có võ&#39; bảo vệ tim, gan, thận, não, da](https://thanhnien.vn/loai-hat-nho-ma-co-vo-bao-ve-tim-gan-than-nao-da-185250606205850611.htm) - 17:09 06/06/2025
-- 🎬 [Giải mã bí mật: Tại sao cà phê quán &#39;ngon&#39; hơn cà phê nhà?](https://thanhnien.vn/giai-ma-bi-mat-tai-sao-ca-phe-quan-ngon-hon-ca-phe-nha-185250606232812901.htm) - 17:08 06/06/2025
-- 🚀 [Đường dây nhớt giả hàng chục tỉ đồng bị Công an TP.HCM triệt phá](https://thanhnien.vn/duong-day-nhot-gia-hang-chuc-ti-dong-bi-cong-an-tphcm-triet-pha-185250606234939215.htm) - 17:02 06/06/2025
-- 🙉 [Đội tuyển Việt Nam: Quang Hải sẽ đá chính ở Malaysia?](https://thanhnien.vn/doi-tuyen-viet-nam-quang-hai-se-da-chinh-o-malaysia-185250606190558857.htm) - 17:00 06/06/2025
-- 🐵 [Hai Long: Đội tuyển Việt Nam quyết đánh bại Malaysia, không ra về tay trắng](https://thanhnien.vn/hai-long-doi-tuyen-viet-nam-quyet-danh-bai-malaysia-khong-ra-ve-tay-trang-185250606230305703.htm) - 15:32 06/06/2025
-- 🐎 [FPT Long Châu: Từ hiệu thuốc đến hệ sinh thái y tế số](https://thanhnien.vn/fpt-long-chau-tu-hieu-thuoc-den-he-sinh-thai-y-te-so-18525060622282822.htm) - 15:28 06/06/2025
-- 🕯 [TP.HCM: Nghẹt thở xem nữ cảnh sát biểu diễn kề dao vào cổ kéo ô tô](https://thanhnien.vn/tphcm-nghet-tho-xem-nu-canh-sat-bieu-dien-ke-dao-vao-co-keo-o-to-185250606201843651.htm) - 15:22 06/06/2025
-- 👀 [Campuchia bác đề xuất rút quân của Thái Lan sau vụ đấu súng](https://thanhnien.vn/campuchia-bac-de-xuat-rut-quan-cua-thai-lan-sau-vu-dau-sung-185250606210830299.htm) - 15:12 06/06/2025
-- 🦒 [Ngày đầu thi lớp 10 TP.HCM: Nhẹ nhõm, bớt đi một phần gánh nặng](https://thanhnien.vn/ngay-dau-thi-lop-10-tphcm-nhe-nhom-bot-di-mot-phan-ganh-nang-185250606212734912.htm) - 15:09 06/06/2025
-- 🧐 [Cận cảnh hàng ngàn người dân TP.HCM xem công an biểu diễn trấn áp tội phạm](https://thanhnien.vn/can-canh-hang-ngan-nguoi-dan-tphcm-xem-cong-an-bieu-dien-tran-ap-toi-pham-185250606204027434.htm) - 14:46 06/06/2025
-- 🌊 [Gom 8,2 tấn vỏ bao bì thuốc bảo vệ thực vật đổi 1.850 cây xanh](https://thanhnien.vn/gom-82-tan-vo-bao-bi-thuoc-bao-ve-thuc-vat-doi-1850-cay-xanh-1852506061926493.htm) - 14:18 06/06/2025
-- 🧑‍🏫 [Nhiều người chờ gặp thượng úy Lê Hoàng Hiệp, quân đội phải mở lối đi](https://thanhnien.vn/nhieu-nguoi-cho-gap-thuong-uy-le-hoang-hiep-quan-doi-phai-mo-loi-di-185250606205120344.htm) - 14:09 06/06/2025
-- 🫣 [Phó thủ tướng Nguyễn Hòa Bình: Không vì tiến độ mà lơ là chất lượng cao tốc](https://thanhnien.vn/pho-thu-tuong-nguyen-hoa-binh-khong-vi-tien-do-ma-lo-la-chat-luong-cao-toc-185250606203546753.htm) - 14:09 06/06/2025
-- 👺 [Mở rộng danh mục thuốc bảo hiểm y tế tại y tế xã, huyện](https://thanhnien.vn/mo-rong-danh-muc-thuoc-bao-hiem-y-te-tai-y-te-xa-huyen-185250606203352094.htm) - 14:09 06/06/2025
-- 🧑‍🏫 [Hà Nội phá đường dây bán loa, tai nghe, đồng hồ giả cực lớn](https://thanhnien.vn/ha-noi-pha-duong-day-ban-loa-tai-nghe-dong-ho-gia-cuc-lon-185250606192715008.htm) - 14:07 06/06/2025
-- 🌊 [Nghị sĩ Mỹ kỳ vọng Việt - Mỹ đạt thỏa thuận thuế đối ứng công bằng](https://thanhnien.vn/nghi-si-my-ky-vong-viet-my-dat-thoa-thuan-thue-doi-ung-cong-bang-185250606195250528.htm) - 14:06 06/06/2025
-- 🕯 [Rạng sáng 7.6 mưa sao băng ban ngày mạnh nhất, có thể nhìn thấy bằng mắt thường?](https://thanhnien.vn/rang-sang-76-mua-sao-bang-ban-ngay-manh-nhat-co-the-nhin-thay-bang-mat-thuong-185250606150048902.htm) - 14:00 06/06/2025
-- 🐲 [Những cuộc hôn nhân chóng vánh của loạt sao Hàn đình đám](https://thanhnien.vn/nhung-cuoc-hon-nhan-chong-vanh-cua-loat-sao-han-dinh-dam-185250606174950402.htm) - 13:50 06/06/2025
-- ⛽️ [6 mẹo hay giúp &#39;thổi bay&#39; phiền nhiễu khi xem YouTube](https://thanhnien.vn/6-meo-hay-giup-thoi-bay-phien-nhieu-khi-xem-youtube-18525060216350172.htm) - 13:49 06/06/2025
-- 🎉 [Đài Loan tố cáo Trung Quốc điều hơn 20 máy bay quân sự &#39;quấy rối&#39;](https://thanhnien.vn/dai-loan-to-cao-trung-quoc-dieu-hon-20-may-bay-quan-su-quay-roi-18525060620244255.htm) - 13:38 06/06/2025
-- 🎊 [Sự công nhận muộn màng dành cho Marilyn Monroe](https://thanhnien.vn/su-cong-nhan-muon-mang-danh-cho-marilyn-monroe-185250606175739865.htm) - 13:37 06/06/2025
-- 🥳 [Lan tỏa văn hóa, kết nối cộng đồng tại Lễ hội sách Khánh Hòa 2025](https://thanhnien.vn/lan-toa-van-hoa-ket-noi-cong-dong-tai-le-hoi-sach-khanh-hoa-2025-185250606190743632.htm) - 13:32 06/06/2025
-- 🤡 [BÍ QUYẾT ÔN THI THPT 2025 | Môn sinh học | Chuyên đề 8 | Một số lưu ý về phần tiến hóa](https://thanhnien.vn/bi-quyet-on-thi-thpt-2025-mon-sinh-hoc-chuyen-de-8-mot-so-luu-y-ve-phan-tien-hoa-18525053110241129.htm) - 13:30 06/06/2025<!-- thanhnien:END -->
+- 🧐 [Bình Phước: Người đàn ông tử vong sau va chạm với xe khách giường nằm](https://thanhnien.vn/binh-phuoc-nguoi-dan-ong-tu-vong-sau-va-cham-voi-xe-khach-giuong-nam-185250606215002906.htm) - 23:18 06/06/2025
+- 🌏 [Đề thi lớp 10 môn toán của TP.HCM sáng nay tập trung vào kiến thức nào?](https://thanhnien.vn/de-thi-lop-10-mon-toan-cua-tphcm-sang-nay-tap-trung-vao-kien-thuc-nao-185250606184323402.htm) - 23:06 06/06/2025
+- 🎬 [Cần gỡ khó nộp phạt nguội](https://thanhnien.vn/can-go-kho-nop-phat-nguoi-185250606222913384.htm) - 23:05 06/06/2025
+- 🚀 [Cân bằng lợi ích trong tuyển sinh](https://thanhnien.vn/can-bang-loi-ich-trong-tuyen-sinh-185250606220859794.htm) - 23:00 06/06/2025
+- 🙉 [Phở Hòa Pasteur vắng mặt trong Michelin Guide 2025: Quán nổi tiếng giờ ra sao?](https://thanhnien.vn/pho-hoa-pasteur-vang-mat-trong-michelin-guide-2025-quan-noi-tieng-gio-ra-sao-185250606131332613.htm) - 23:00 06/06/2025
+- 🐵 [Xung đột Nga - Ukraine thêm khó lường](https://thanhnien.vn/xung-dot-nga-ukraine-them-kho-luong-185250606233622435.htm) - 22:40 06/06/2025
+- 🐎 [Đề hỏi &#39;ngụy tạo thông tin&#39;, thí sinh dẫn chứng ca sĩ Jack, hoa hậu Thùy Tiên](https://thanhnien.vn/de-hoi-nguy-tao-thong-tin-thi-sinh-dan-chung-ca-si-jack-hoa-hau-thuy-tien-185250606215848174.htm) - 22:32 06/06/2025
+- 🕯 [Nhà thờ do cậu Nam Phương hoàng hậu xây và chiếc túi lạ treo tượng thánh](https://thanhnien.vn/nha-tho-do-cau-nam-phuong-hoang-hau-xay-va-chiec-tui-la-treo-tuong-thanh-185250603234152156.htm) - 22:25 06/06/2025
+- 👀 [Ngắm xe bọc thép &#39;hầm hố&#39;, xe phun nước chống bạo loạn của ngành công an](https://thanhnien.vn/ngam-xe-boc-thep-ham-ho-xe-phun-nuoc-chong-bao-loan-cua-nganh-cong-an-185250607012204417.htm) - 22:24 06/06/2025
+- 🦒 [SIM rác vẫn tràn lan, làm sao dẹp?](https://thanhnien.vn/sim-rac-van-tran-lan-lam-sao-dep-185250606183508415.htm) - 22:20 06/06/2025
+- 🧐 [Đề thi lớp 10 hay, hiện đại và phân hóa tốt](https://thanhnien.vn/de-thi-lop-10-hay-hien-dai-va-phan-hoa-tot-185250606221430283.htm) - 22:19 06/06/2025
+- 🌊 [Tên phường xã mới sáp nhập ở TP.HCM: Phường Gia Định, tên &#39;sống dậy&#39; sau 50 năm](https://thanhnien.vn/ten-phuong-xa-moi-sap-nhap-o-tphcm-phuong-gia-dinh-ten-song-day-sau-50-nam-185250602122648061.htm) - 22:18 06/06/2025
+- 🧑‍🏫 [Israel tấn công Li Băng](https://thanhnien.vn/israel-tan-cong-li-bang-185250606233905222.htm) - 22:17 06/06/2025
+- 🫣 [Từ 1.7, ví điện tử là phương tiện thanh toán tương đương tiền mặt, thẻ ngân hàng](https://thanhnien.vn/tu-17-vi-dien-tu-la-phuong-tien-thanh-toan-tuong-duong-tien-mat-the-ngan-hang-185250605091912587.htm) - 22:14 06/06/2025
+- 👺 [Ám ảnh &#39;Vùng sương phủ, hầm sâu và đảo vắng&#39;](https://thanhnien.vn/am-anh-vung-suong-phu-ham-sau-va-dao-vang-185250606223506031.htm) - 22:12 06/06/2025
+- 🧑‍🏫 [Nguồn cung nhà ở tại TP.HCM sẽ tăng vọt](https://thanhnien.vn/nguon-cung-nha-o-tai-tphcm-se-tang-vot-185250606184307366.htm) - 22:12 06/06/2025
+- 🌊 [Tờ báo cách mạng đầu tiên phát hành công khai](https://thanhnien.vn/to-bao-cach-mang-dau-tien-phat-hanh-cong-khai-185250606225940268.htm) - 22:11 06/06/2025
+- 🕯 [Nhận định trận Việt Nam - Malaysia: Thử thách cho HLV Kim Sang-sik trước dàn cầu thủ nhập tịch](https://thanhnien.vn/nhan-dinh-tran-viet-nam-malaysia-thu-thach-cho-hlv-kim-sang-sik-truoc-dan-cau-thu-nhap-tich-185250606184159489.htm) - 22:11 06/06/2025
+- 🐲 [Nông sản Mỹ vào Việt Nam tăng vọt](https://thanhnien.vn/nong-san-my-vao-viet-nam-tang-vot-185250606181728167.htm) - 22:11 06/06/2025
+- ⛽️ [Sức mua yếu, giá vàng giảm](https://thanhnien.vn/suc-mua-yeu-gia-vang-giam-185250606211410352.htm) - 22:10 06/06/2025
+- 🎉 [Hàng ngàn hộp, lọ, vỉ thuốc, thực phẩm chức năng bị đổ trộm ở Bình Chánh](https://thanhnien.vn/hang-ngan-hop-lo-vi-thuoc-thuc-pham-chuc-nang-bi-do-trom-o-binh-chanh-185250606210908386.htm) - 22:04 06/06/2025
+- 🎊 [Căng thẳng kịch tính giữa Tổng thống Trump và tỉ phú Musk](https://thanhnien.vn/cang-thang-kich-tinh-giua-tong-thong-trump-va-ti-phu-musk-185250606221558711.htm) - 22:00 06/06/2025
+- 🥳 [TP.HCM: Qua khảo sát, cán bộ, công chức sẵn sàng rời khu vực công tương đối cao](https://thanhnien.vn/tphcm-qua-khao-sat-can-bo-cong-chuc-san-sang-roi-khu-vuc-cong-tuong-doi-cao-185250606220036279.htm) - 22:00 06/06/2025
+- 🤡 [Hộ kinh doanh đóng cửa để né thuế?](https://thanhnien.vn/ho-kinh-doanh-dong-cua-de-ne-thue-185250606210334189.htm) - 22:00 06/06/2025<!-- thanhnien:END -->
 
 ## Báo Lao Động
 <!-- laodong:START -->
