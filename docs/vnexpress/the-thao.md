@@ -4,9 +4,9 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Ronaldo: &#39;Tôi rất yêu mến Messi, từng phiên dịch cho cậu ấy&#39;](https://vnexpress.net/ronaldo-toi-rat-yeu-men-messi-tung-phien-dich-cho-cau-ay-4895889.html) - 11:43 07/06/2025
-- 🦩 [Trận Tây Ban Nha - Pháp gây thảm họa cho nhà cái](https://vnexpress.net/tran-tay-ban-nha-phap-gay-tham-hoa-cho-nha-cai-4895705.html) - 09:37 07/06/2025
-- 🧰 [Đối phó nắng nóng trong lúc chạy giải](https://vnexpress.net/doi-pho-nang-nong-trong-luc-chay-giai-4895318.html) - 06:00 07/06/2025
+- 🪜 [Garnacho rời Man Utd](https://vnexpress.net/garnacho-roi-man-utd-4895935.html) - 15:39 07/06/2025
+- 🦩 [Ronaldo: &#39;Tôi rất yêu mến Messi, từng phiên dịch cho cậu ấy&#39;](https://vnexpress.net/ronaldo-toi-rat-yeu-men-messi-tung-phien-dich-cho-cau-ay-4895889.html) - 11:43 07/06/2025
+- 🧰 [Trận Tây Ban Nha - Pháp gây thảm họa cho nhà cái](https://vnexpress.net/tran-tay-ban-nha-phap-gay-tham-hoa-cho-nha-cai-4895705.html) - 09:37 07/06/2025
 - 🤗 [Boris Becker: &#39;Djokovic sáng cửa đoạt Wimbledon&#39;](https://vnexpress.net/boris-becker-djokovic-sang-cua-doat-wimbledon-4895727.html) - 04:34 07/06/2025
 - 🥳 [Italy nguy cơ vắng mặt ba World Cup liên tiếp](https://vnexpress.net/italy-nguy-co-vang-mat-ba-world-cup-lien-tiep-4895725.html) - 04:32 07/06/2025
 - 🦣 [Carlsen: &#39;Cú đập bàn của tôi tốt cho cờ vua&#39;](https://vnexpress.net/carlsen-cu-dap-ban-cua-toi-tot-cho-co-vua-4895708.html) - 03:39 07/06/2025
