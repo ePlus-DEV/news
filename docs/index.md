@@ -595,7 +595,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
 - 💼 [Hàng nghìn người theo dõi gala âm nhạc vinh quang Công an Nhân dân Việt Nam](https://tienphong.vn/hang-nghin-nguoi-theo-doi-gala-am-nhac-vinh-quang-cong-an-nhan-dan-viet-nam-post1749455.tpo) - 00:08 09/06/2025
-- 🎊 [Chung kết Nations League 2024/25, Bồ Đào Nha vs Tây Ban Nha 2-2 &lpar;HP2&rpar;: Không có penalty cho Bồ Đào Nha](https://tienphong.vn/chung-ket-nations-league-202425-bo-dao-nha-vs-tay-ban-nha-2-2-hp2-khong-co-penalty-cho-bo-dao-nha-post1749499.tpo) - 23:50 08/06/2025
+- 🎊 [Đánh bại Tây Ban Nha trên chấm luân lưu, Ronaldo và đồng đội lần thứ 2 đăng quang Nations League 2024/25](https://tienphong.vn/danh-bai-tay-ban-nha-tren-cham-luan-luu-ronaldo-va-dong-doi-lan-thu-2-dang-quang-nations-league-202425-post1749499.tpo) - 23:50 08/06/2025
 - 💼 [Mbappe tỏa sáng khiến Đức nối dài ác mộng trước tuyển Pháp](https://tienphong.vn/mbappe-toa-sang-khien-duc-noi-dai-ac-mong-truoc-tuyen-phap-post1749506.tpo) - 22:43 08/06/2025
 - 👺 [Thủ tướng: Kết nối liên lục địa, hình thành các &#39;cực tăng trưởng biển xanh&#39;](https://tienphong.vn/thu-tuong-ket-noi-lien-luc-dia-hinh-thanh-cac-cuc-tang-truong-bien-xanh-post1749503.tpo) - 22:29 08/06/2025
 - 💪 [Tuổi trẻ Nghệ An ra quân Chiến dịch Kỳ nghỉ hồng 2025](https://tienphong.vn/tuoi-tre-nghe-an-ra-quan-chien-dich-ky-nghi-hong-2025-post1749427.tpo) - 22:03 08/06/2025
