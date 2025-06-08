@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Chung kết Roland Garros: Sinner 6-4, 7-6&lpar;4&rpar;, 4-6, 6-7&lpar;3&rpar;, 1-2 Alcaraz](https://dantri.com.vn/the-thao/chung-ket-roland-garros-sinner-6-4-7-64-4-6-6-73-1-2-alcaraz-20250608200640928.htm) - 13:06 08/06/2025
+- 🎡 [Chung kết Roland Garros: Sinner 6-4, 7-6&lpar;4&rpar;, 4-6, 6-7&lpar;3&rpar;, 6-6 Alcaraz](https://dantri.com.vn/the-thao/chung-ket-roland-garros-sinner-6-4-7-64-4-6-6-73-6-6-alcaraz-20250608200640928.htm) - 13:06 08/06/2025
 - 💯 [Indonesia gây sức ép lên FIFA và AFC để hưởng lợi](https://dantri.com.vn/the-thao/indonesia-gay-suc-ep-len-fifa-va-afc-de-huong-loi-20250608185934721.htm) - 11:59 08/06/2025
 - ⛽️ [Võ sĩ Việt Nam thua nhà vô địch thế giới, lỡ hẹn với đai WBO châu Á](https://dantri.com.vn/the-thao/vo-si-viet-nam-thua-nha-vo-dich-the-gioi-lo-hen-voi-dai-wbo-chau-a-20250608182530817.htm) - 11:26 08/06/2025
 - 💃 [Ế vé ở sân Bukit Jalil, đội tuyển Việt Nam đỡ áp lực](https://dantri.com.vn/the-thao/e-ve-o-san-bukit-jalil-doi-tuyen-viet-nam-do-ap-luc-20250608160635626.htm) - 09:42 08/06/2025
