@@ -532,7 +532,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Hát vang những khúc ca tự hào tại đêm gala Vinh quang Công an nhân dân Việt Nam](https://muctim.tuoitre.vn/hat-vang-nhung-khuc-ca-tu-hao-tai-dem-gala-vinh-quang-cong-an-nhan-dan-viet-nam-101250609003008593.htm) - 19:15 08/06/2025
-- 🥷 [Trực tiếp Bồ Đào Nha - Tây Ban Nha tranh chung kết Nations League](https://muctim.tuoitre.vn/truc-tiep-bo-dao-nha-tay-ban-nha-tranh-chung-ket-nations-league-10125060900190813.htm) - 19:02 08/06/2025
+- 🥷 [Ronaldo ghi bàn, Bồ Đào Nha đánh bại Tây Ban Nha để lần thứ hai vô địch Nations League](https://muctim.tuoitre.vn/truc-tiep-bo-dao-nha-tay-ban-nha-tranh-chung-ket-nations-league-10125060900190813.htm) - 19:02 08/06/2025
 - 🤖 [Truyện ngắn Mực Tím: Mùa đi qua](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-mua-di-qua-101250523152752294.htm) - 15:26 08/06/2025
 - 🤓 [Quiz: Nếu là một cơn mưa, bạn sẽ rơi xuống đâu?](https://muctim.tuoitre.vn/quiz-neu-la-mot-con-mua-ban-se-roi-xuong-dau-101250521102756078.htm) - 15:23 08/06/2025
 - 🎉 [Phố đi bộ Nguyễn Huệ nhộn nhịp trước đêm gala Vinh quang Công an nhân dân Việt Nam](https://muctim.tuoitre.vn/pho-di-bo-nguyen-hue-nhon-nhip-truoc-dem-gala-vinh-quang-cong-an-nhan-dan-viet-nam-101250608195712476.htm) - 13:09 08/06/2025
