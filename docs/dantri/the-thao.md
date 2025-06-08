@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Nhận định Bồ Đào Nha - Tây Ban Nha &lpar;2h ngày 9/6&rpar;: Gừng già và tre non](https://dantri.com.vn/the-thao/nhan-dinh-bo-dao-nha-tay-ban-nha-2h-ngay-96-gung-gia-va-tre-non-20250608122544278.htm) - 05:26 08/06/2025
+- 🎡 [Nhận định Bồ Đào Nha - Tây Ban Nha &lpar;2h ngày 9/6&rpar;: Gừng già và tre non](https://dantri.com.vn/the-thao/nhan-dinh-bo-dao-nha-tay-ban-nha-2h-ngay-96-gung-gia-va-tre-non-20250608122544278.htm) - 05:50 08/06/2025
 - 💯 [Bị nghi ngờ gian lận trước trận gặp tuyển Việt Nam, Malaysia nói gì?](https://dantri.com.vn/the-thao/bi-nghi-ngo-gian-lan-truoc-tran-gap-tuyen-viet-nam-malaysia-noi-gi-20250608105120301.htm) - 04:00 08/06/2025
 - ⛽️ [Đánh bại tay vợt số một thế giới, Coco Gauff vô địch Roland Garros](https://dantri.com.vn/the-thao/danh-bai-tay-vot-so-mot-the-gioi-coco-gauff-vo-dich-roland-garros-20250608083116872.htm) - 01:32 08/06/2025
 - 💃 [Garnacho đạt thoả thuận rời Man Utd](https://dantri.com.vn/the-thao/garnacho-dat-thoa-thuan-roi-man-utd-20250608081051315.htm) - 01:20 08/06/2025
