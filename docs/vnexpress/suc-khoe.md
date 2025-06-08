@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Hôn mê, tổn thương não do dùng phải cồn sát trùng giả](https://vnexpress.net/hon-me-ton-thuong-nao-do-dung-phai-con-sat-trung-gia-4896100.html) - 12:00 08/06/2025
+- 🔥 [Hôn mê do dùng phải cồn sát trùng giả](https://vnexpress.net/hon-me-do-dung-phai-con-sat-trung-gia-4896100.html) - 12:00 08/06/2025
 - 🥰 [Bệnh nhân Mỹ thoát &#39;cực hình&#39; sau ca mổ niệu đạo tại Việt Nam](https://vnexpress.net/benh-nhan-my-thoat-cuc-hinh-sau-ca-mo-nieu-dao-tai-viet-nam-4896096.html) - 11:45 08/06/2025
 - 💡 [Thay cùng lúc hai van tim chỉ với vết mổ 5 cm](https://vnexpress.net/thay-cung-luc-hai-van-tim-chi-voi-vet-mo-5-cm-4896091.html) - 09:26 08/06/2025
 - 🤗 [Tìm ra cách tiềm năng chữa khỏi HIV vĩnh viễn](https://vnexpress.net/tim-ra-cach-tiem-nang-chua-khoi-hiv-vinh-vien-4896012.html) - 06:00 08/06/2025
