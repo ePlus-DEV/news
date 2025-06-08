@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [14 hải quan sắp ra tòa trong vụ thông quan 13.000 container hàng lậu](https://vnexpress.net/14-hai-quan-sap-ra-toa-trong-vu-thong-quan-13-000-container-hang-lau-4896041.html) - 04:56 08/06/2025
-- 🥰 [Vụ án bác phụ khoa xâm hại 94 bệnh nhân gây chấn động Nauy](https://vnexpress.net/bac-si-phu-khoa-bi-phat-tu-vi-xam-hai-94-benh-nhan-nu-4896038.html) - 04:05 08/06/2025
+- 🥰 [Vụ án bác sĩ phụ khoa xâm hại 94 bệnh nhân gây chấn động Na Uy](https://vnexpress.net/vu-an-bac-si-phu-khoa-xam-hai-94-benh-nhan-gay-chan-dong-na-uy-4896038.html) - 04:05 08/06/2025
 - 🎓 [Hai phạm nhân đục tường trốn trại giam Thanh Xuân](https://vnexpress.net/hai-pham-nhan-duc-tuong-tron-trai-giam-thanh-xuan-4896000.html) - 01:55 08/06/2025
 - 🤓 [Bán hàng online phải nộp những loại thuế gì?](https://vnexpress.net/ban-hang-online-phai-nop-nhung-loai-thue-gi-4895911.html) - 01:00 08/06/2025
 - 🎊 [Sếp và nhân viên đổ tội trong vụ sản xuất 3 tấn nhôm giả](https://vnexpress.net/sep-va-nhan-vien-do-toi-trong-vu-san-xuat-3-tan-nhom-gia-4895304.html) - 23:00 07/06/2025
