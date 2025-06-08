@@ -150,7 +150,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Alcaraz vô địch Roland Garros 2025: Cú lội ngược dòng kinh điển](https://thanhnien.vn/alcaraz-vo-dich-roland-garros-2025-cu-loi-nguoc-dong-kinh-dien-185250608220040467.htm) - 19:09 08/06/2025
+- 🤠 [Alcaraz vô địch Roland Garros 2025: Cú lội ngược dòng kinh điển, thắng nghẹt thở Sinner](https://thanhnien.vn/alcaraz-vo-dich-roland-garros-2025-cu-loi-nguoc-dong-kinh-dien-185250608220040467.htm) - 19:09 08/06/2025
 - 🥸 [Ngày mới với tin tức sức khỏe: 4 điều cần làm để có cột sống khỏe mạnh](https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-4-dieu-can-lam-de-co-cot-song-khoe-manh-185250605143132724.htm) - 17:12 08/06/2025
 - 🌁 [Nước tiểu nổi bọt có phải dấu hiệu suy thận?](https://thanhnien.vn/nuoc-tieu-noi-bot-co-phai-dau-hieu-suy-than-185250607070354819.htm) - 17:09 08/06/2025
 - 🤡 [Mặc quần áo ướt sau khi đi mưa gây hại gì?](https://thanhnien.vn/mac-quan-ao-uot-sau-khi-di-mua-gay-hai-gi-185250607221013268.htm) - 17:07 08/06/2025
