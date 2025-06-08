@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Ôtô 4 chỗ bẹp rúm sau va chạm liên hoàn với xe khách](https://vnexpress.net/oto-4-cho-bep-rum-sau-va-cham-lien-hoan-voi-xe-khach-4896080.html) - 08:42 08/06/2025
+- 🦒 [Ôtô 4 chỗ bẹp dúm sau va chạm liên hoàn với xe khách](https://vnexpress.net/oto-4-cho-bep-dum-sau-va-cham-lien-hoan-voi-xe-khach-4896080.html) - 08:42 08/06/2025
 - 🤓 [&#39;Cha đẻ&#39; gạo ngon nhất thế giới làm nông nghiệp kiểu xưa](https://vnexpress.net/cha-de-gao-ngon-nhat-the-gioi-lam-nong-nghiep-kieu-xua-4895131.html) - 05:45 08/06/2025
 - ⚗️ [Tuần sau miền Bắc ngày nắng, chiều tối mưa giông](https://vnexpress.net/tuan-sau-mien-bac-ngay-nang-chieu-toi-mua-giong-4896040.html) - 05:03 08/06/2025
 - 🌊 [Thả gần 420.000 cá, tôm giống xuống vịnh Nha Trang](https://vnexpress.net/tha-gan-420-000-ca-tom-giong-xuong-vinh-nha-trang-4896047.html) - 04:41 08/06/2025
