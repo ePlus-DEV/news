@@ -5,7 +5,7 @@ sidebar_position: 8
 
 <!-- dantri-phap-luat:START -->
 - 🌊 [Cảnh sát Việt Nam phối hợp với Lào phá chuyên án ma túy](https://dantri.com.vn/phap-luat/canh-sat-viet-nam-phoi-hop-voi-lao-pha-chuyen-an-ma-tuy-20250609160504837.htm) - 09:18 09/06/2025
-- 🐲 [Bán hơn 17 tấn cà phê giả, chủ cơ sở tự nguyện nộp 590 triệu đồng khắc phục](https://dantri.com.vn/phap-luat/ban-hon-17-tan-ca-phe-gia-chu-co-so-tu-nguyen-nop-590-trieu-dong-khac-phuc-20250609154113906.htm) - 09:11 09/06/2025
+- 🐲 [Khởi tố nữ doanh nhân thương hiệu cà phê Dạ Thảo](https://dantri.com.vn/phap-luat/khoi-to-nu-doanh-nhan-thuong-hieu-ca-phe-da-thao-20250609154113906.htm) - 09:11 09/06/2025
 - 🌁 [Chiêu thức lừa đảo tinh vi của nhóm đối tượng tại khu tự trị Campuchia](https://dantri.com.vn/phap-luat/chieu-thuc-lua-dao-tinh-vi-cua-nhom-doi-tuong-tai-khu-tu-tri-campuchia-20250609153921160.htm) - 08:55 09/06/2025
 - 🎃 [Môi giới &quot;chạy án&quot;, kiểm sát viên, phó chánh án, luật sư bị đề nghị truy tố](https://dantri.com.vn/phap-luat/moi-gioi-chay-an-kiem-sat-vien-pho-chanh-an-luat-su-bi-de-nghi-truy-to-20250609145654133.htm) - 08:43 09/06/2025
 - 🦅 [Bắt giữ nhóm người gây bất an cho du khách ở Đà Nẵng](https://dantri.com.vn/phap-luat/bat-giu-nhom-nguoi-gay-bat-an-cho-du-khach-o-da-nang-20250609145805752.htm) - 08:16 09/06/2025
