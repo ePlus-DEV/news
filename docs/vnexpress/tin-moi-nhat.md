@@ -8,7 +8,7 @@ sidebar_position: 9
 - 🐎 [Biến đổi nhà ống hướng Tây thành không gian mở xanh mát](https://vnexpress.net/bien-doi-nha-ong-huong-tay-thanh-khong-gian-mo-xanh-mat-4896671.html) - 18:09 09/06/2025
 - 🦍 [Đột tử](https://vnexpress.net/suc-khoe/cam-nang/dot-tu-334) - 18:03 09/06/2025
 - 🏊 [Địa ốc Hoàng Quân thay tổng giám đốc](https://vnexpress.net/dia-oc-hoang-quan-thay-tong-giam-doc-4896649.html) - 18:01 09/06/2025
-- 🎊 [Apple giới thiệu hệ điều hành &#39;26&#39;](https://vnexpress.net/apple-gioi-thieu-he-dieu-hanh-26-4896680.html) - 17:36 09/06/2025
+- 🎊 [Apple giới thiệu loạt hệ điều hành &#39;26&#39;](https://vnexpress.net/apple-gioi-thieu-loat-he-dieu-hanh-26-4896680.html) - 17:36 09/06/2025
 - 🎃 [Thủ tướng nêu định hướng về bảo tồn, sử dụng bền vững đại dương](https://vnexpress.net/thu-tuong-neu-dinh-huong-ve-bao-ton-su-dung-ben-vung-dai-duong-4896679.html) - 17:27 09/06/2025
 - 🧰 [Du lịch bằng xe tự lái khám phá bãi biển dọc miền Trung](https://vnexpress.net/du-lich-bang-xe-tu-lai-kham-pha-bai-bien-doc-mien-trung-4895732.html) - 17:08 09/06/2025
 - 🔭 [3 con giáp nữ định sẵn số giàu có, thịnh vượng](https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-3-con-giap-nu-dinh-san-so-giau-co-thinh-vuong-4896564.html) - 17:02 09/06/2025
