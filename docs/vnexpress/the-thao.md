@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Sinner: &#39;Thất bại này thật cay đắng&#39;](https://vnexpress.net/sinner-that-bai-nay-that-cay-dang-4896317.html) - 03:54 09/06/2025
-- 🦩 [HLV Kim Sang-sik: &#39;Việt Nam sẽ vận dụng hết năng lực để thắng Malaysia&#39;](https://vnexpress.net/hlv-kim-sang-sik-viet-nam-se-van-dung-het-nang-luc-de-thang-malaysia-4896356.html) - 03:19 09/06/2025
+- 🦩 [HLV Kim: &#39;Gặp Malaysia là trận khó nhất vòng loại Asian Cup&#39;](https://vnexpress.net/hlv-kim-gap-malaysia-la-tran-kho-nhat-vong-loai-asian-cup-4896356.html) - 03:19 09/06/2025
 - 🧰 [Kết hợp chạy bộ và tập gym để tăng thể lực toàn diện](https://vnexpress.net/ket-hop-chay-bo-va-tap-gym-de-tang-the-luc-toan-dien-4896151.html) - 03:00 09/06/2025
 - 🤗 [Alcaraz nghĩ về Nadal khi cận kề thất bại](https://vnexpress.net/alcaraz-nghi-ve-nadal-khi-can-ke-that-bai-4896247.html) - 01:57 09/06/2025
 - 🥳 [Hậu vệ Bồ Đào Nha tự hào &#39;bắt chết&#39; Yamal](https://vnexpress.net/hau-ve-bo-dao-nha-tu-hao-bat-chet-yamal-4896206.html) - 00:38 09/06/2025
