@@ -9,7 +9,7 @@ sidebar_position: 11
 - 🦅 [4 tour tàu hỏa hạng sang dọc ba miền dịp hè](https://vnexpress.net/4-tour-tau-hoa-hang-sang-doc-ba-mien-dip-he-4889882.html) - 07:26 10/06/2025
 - 🕴 [Thái Lan - nơi tài xế ít khi bấm còi](https://vnexpress.net/thai-lan-noi-tai-xe-it-khi-bam-coi-4896798.html) - 04:00 10/06/2025
 - 👀 [Bún bò lò củi 60 năm tại Huế](https://vnexpress.net/bun-bo-lo-cui-60-nam-tai-hue-4896515.html) - 03:00 10/06/2025
-- 🎭 [Nỗi lo của du khách đến Mỹ](https://vnexpress.net/noi-lo-cua-du-khach-den-my-4896675.html) - 01:57 10/06/2025
+- 🎭 [Nỗi lo trục xuất của du khách đến Mỹ](https://vnexpress.net/noi-lo-truc-xuat-cua-du-khach-den-my-4896675.html) - 01:57 10/06/2025
 - 🦒 [Lợi ích Michelin Guide mang đến cho ẩm thực Việt](https://vnexpress.net/loi-ich-michelin-guide-mang-den-cho-am-thuc-viet-4896166.html) - 00:00 10/06/2025
 - 👨‍🏫 [Du lịch bằng xe tự lái khám phá bãi biển dọc miền Trung](https://vnexpress.net/du-lich-bang-xe-tu-lai-kham-pha-bai-bien-doc-mien-trung-4895732.html) - 17:08 09/06/2025
 - ⚗️ [Hai ngày ăn chơi dịp Lễ hội Văn hóa - Du lịch biển Nha Trang](https://vnexpress.net/hai-ngay-an-choi-dip-le-hoi-van-hoa-du-lich-bien-nha-trang-4896626.html) - 12:02 09/06/2025
