@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Liverpool phá hàng loạt kỷ lục để mua Florian Wirtz](https://vnexpress.net/liverpool-pha-hang-loat-ky-luc-de-mua-florian-wirtz-4897202.html) - 22:58 10/06/2025
-- 🦩 [Jorge Mas muốn Messi giải nghệ tại Inter Miami](https://vnexpress.net/jorge-mas-muon-messi-giai-nghe-tai-inter-miami-4897168.html) - 22:11 10/06/2025
+- 🦩 [Messi được đề nghị chơi cho Inter Miami đến khi giải nghệ](https://vnexpress.net/messi-duoc-de-nghi-choi-cho-inter-miami-den-khi-giai-nghe-4897168.html) - 22:11 10/06/2025
 - 🧰 [Huyền thoại nhạc rock muốn phá kỷ lục 100m ở tuổi 80](https://vnexpress.net/huyen-thoai-nhac-rock-muon-pha-ky-luc-100m-o-tuoi-80-4897145.html) - 22:00 10/06/2025
 - 🤗 [Thái Lan thua sốc ở vòng loại Asian Cup](https://vnexpress.net/thai-lan-thua-soc-o-vong-loai-asian-cup-4897195.html) - 17:38 10/06/2025
 - 🥳 [HLV Malaysia đã dự tính ghi được ba bàn trước Việt Nam](https://vnexpress.net/hlv-malaysia-da-du-tinh-ghi-duoc-ba-ban-truoc-viet-nam-4897194.html) - 17:10 10/06/2025
