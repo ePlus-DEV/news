@@ -4,63 +4,63 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Du lịch bằng xe tự lái khám phá bãi biển dọc miền Trung](https://vnexpress.net/du-lich-bang-xe-tu-lai-kham-pha-bai-bien-doc-mien-trung-4895732.html) - 17:08 09/06/2025
-- 🪄 [Hai ngày ăn chơi dịp Lễ hội Văn hóa - Du lịch biển Nha Trang](https://vnexpress.net/hai-ngay-an-choi-dip-le-hoi-van-hoa-du-lich-bien-nha-trang-4896626.html) - 12:02 09/06/2025
-- 🦅 [Món thịt lợn chiên &#39;nhắm mắt mới dám ăn&#39; ở Trung Quốc](https://vnexpress.net/mon-thit-lon-chien-nham-mat-moi-dam-an-o-trung-quoc-4896258.html) - 04:28 09/06/2025
-- 🕴 [Làng Thụy Sĩ tặng 24.000 USD cho khách chuyển đến ở](https://vnexpress.net/lang-thuy-si-tang-24-000-usd-cho-khach-chuyen-den-o-4896232.html) - 02:31 09/06/2025
-- 👀 [Thái Lan tìm cách vực dậy du lịch nửa cuối năm](https://vnexpress.net/thai-lan-tim-cach-vuc-day-du-lich-nua-cuoi-nam-4895816.html) - 01:39 09/06/2025
-- 🎭 [6 địa chỉ ẩm thực Sài Gòn lần đầu được Michelin gọi tên](https://vnexpress.net/6-dia-chi-am-thuc-sai-gon-lan-dau-duoc-michelin-goi-ten-4895643.html) - 17:00 08/06/2025
-- 🦒 [Hơn 1.000 người diễu hành cổ phục quanh kinh thành Huế](https://vnexpress.net/hon-1-000-nguoi-dieu-hanh-co-phuc-quanh-kinh-thanh-hue-4896132.html) - 15:56 08/06/2025
-- 👨‍🏫 [Saigontourist Group đưa 50 món Việt đến lễ hội ẩm thực tại Osaka, Nhật Bản](https://vnexpress.net/saigontourist-group-dua-50-mon-viet-den-le-hoi-am-thuc-tai-osaka-nhat-ban-4895829.html) - 08:30 08/06/2025
-- ⚗️ [Tác giả Việt thắng giải ảnh ẩm thực quốc tế](https://vnexpress.net/tac-gia-viet-thang-giai-anh-am-thuc-quoc-te-4896023.html) - 05:57 08/06/2025
-- 🥸 [Món chân ếch gây tranh cãi của người Pháp](https://vnexpress.net/mon-chan-ech-gay-tranh-cai-cua-nguoi-phap-4895937.html) - 05:54 08/06/2025
-- 🤠 [Nơi nào có nhiệt độ cao nhất thế giới?](https://vnexpress.net/noi-nao-co-nhiet-do-cao-nhat-the-gioi-4895927.html) - 02:00 08/06/2025
-- 🚀 [6 điểm đến Việt Nam được báo Anh gợi ý](https://vnexpress.net/6-diem-den-viet-nam-duoc-bao-anh-goi-y-4895837.html) - 01:00 08/06/2025
-- 💻 [5 quán Michelin &#39;ngon, giá phải chăng&#39; mới ở Hà Nội](https://vnexpress.net/5-quan-michelin-ngon-gia-phai-chang-moi-o-ha-noi-4894717.html) - 17:00 07/06/2025
-- 💼 [Du khách đổ xô đến Malaysia ăn buffet sầu riêng](https://vnexpress.net/du-khach-do-xo-den-malaysia-an-buffet-sau-rieng-4895805.html) - 12:37 07/06/2025
-- 🤡 [12 vườn hồng hút khách check in tại Nhật Bản](https://vnexpress.net/12-vuon-hong-hut-khach-check-in-tai-nhat-ban-4895743.html) - 05:37 07/06/2025
-- 🐵 [Lý do khách dễ nổi cáu khi di chuyển bằng máy bay](https://vnexpress.net/ly-do-khach-de-noi-cau-khi-di-chuyen-bang-may-bay-4895698.html) - 02:32 07/06/2025
-- 😺 [4 nhà hàng ngon, rẻ ở Đà Nẵng mới được Michelin vinh danh](https://vnexpress.net/4-nha-hang-ngon-re-o-da-nang-moi-duoc-michelin-vinh-danh-4894969.html) - 17:00 06/06/2025
-- 🌈 [Khám phá động Phong Nha với tour Quảng Bình của Sovaba Travel](https://vnexpress.net/kham-pha-dong-phong-nha-voi-tour-quang-binh-cua-sovaba-travel-4894869.html) - 13:00 06/06/2025
-- ⚗️ [Chủ nhà hàng Việt sốc vì bị loại khỏi Michelin dù khách vẫn đông](https://vnexpress.net/chu-nha-hang-viet-soc-vi-bi-loai-khoi-michelin-du-khach-van-dong-4895371.html) - 07:20 06/06/2025
-- 👀 [Trung Quốc mở thử nghiệm tàu hỏa phục vụ khách Việt](https://vnexpress.net/trung-quoc-mo-thu-nghiem-tau-hoa-phuc-vu-khach-viet-4895360.html) - 06:25 06/06/2025
-- 👍 [Khách quốc tế đến Việt Nam tháng 5 cao kỷ lục](https://vnexpress.net/khach-quoc-te-den-viet-nam-thang-5-cao-ky-luc-4895363.html) - 06:21 06/06/2025
-- 💄 [9 nhà hàng một sao Michelin ở Việt Nam](https://vnexpress.net/9-nha-hang-mot-sao-michelin-o-viet-nam-4895154.html) - 02:50 06/06/2025
-- 🥷 [48 giờ mua sắm, khám phá ẩm thực Tokyo](https://vnexpress.net/48-gio-mua-sam-kham-pha-am-thuc-tokyo-4894592.html) - 02:00 06/06/2025
-- 📝 [&#39;Tránh nóng&#39; tại Sun World Sầm Sơn với giá vé từ 199.000 đồng](https://vnexpress.net/tranh-nong-tai-sun-world-sam-son-voi-gia-ve-tu-199-000-dong-4895053.html) - 01:00 06/06/2025
-- 🌜 [Colline Dalat - khách sạn view toàn cảnh Đà Lạt](https://vnexpress.net/colline-dalat-khach-san-view-toan-canh-da-lat-4887936.html) - 01:00 06/06/2025
-- 📝 [Nhà hàng TP HCM nhận một sao Michelin sau 7 tháng mở cửa](https://vnexpress.net/nha-hang-tp-hcm-nhan-mot-sao-michelin-sau-7-thang-mo-cua-4895151.html) - 00:00 06/06/2025
-- 🧰 [Loạt món kết hợp với yến sào tại lễ hội ẩm thực Nha Trang](https://vnexpress.net/loat-mon-ket-hop-voi-yen-sao-tai-le-hoi-am-thuc-nha-trang-4895110.html) - 17:00 05/06/2025
-- 🎬 [Mỹ cân nhắc thu 1.000 USD phỏng vấn nhanh visa du lịch](https://vnexpress.net/my-can-nhac-thu-1-000-usd-phong-van-nhanh-visa-du-lich-4895091.html) - 14:22 05/06/2025
-- 🧐 [Michelin trao sao cho 9 nhà hàng Việt Nam](https://vnexpress.net/michelin-trao-sao-cho-9-nha-hang-viet-nam-4894994.html) - 09:45 05/06/2025
-- 👨‍🏫 [Hà Giang khiến nhiều khách nước ngoài bật khóc sau chuyến đi](https://vnexpress.net/ha-giang-khien-nhieu-khach-nuoc-ngoai-bat-khoc-sau-chuyen-di-4894855.html) - 07:10 05/06/2025
-- 🦣 [5 ngôi làng đẹp nhất Italy](https://vnexpress.net/5-ngoi-lang-dep-nhat-italy-4894632.html) - 02:33 05/06/2025
-- 🌋 [Xem show kỷ lục thế giới tại Cát Bà với giá từ 550.000 đồng](https://vnexpress.net/xem-show-ky-luc-the-gioi-tai-cat-ba-voi-gia-tu-550-000-dong-4894499.html) - 01:00 05/06/2025
-- 🦄 [Ba hàng &#39;bít tết kiểu ta&#39; phục vụ nhiều thế hệ khách Hà Nội](https://vnexpress.net/ba-hang-bit-tet-kieu-ta-phuc-vu-nhieu-the-he-khach-ha-noi-4894356.html) - 00:00 05/06/2025
-- 💡 [Ruộng bậc thang Y Tý mùa nước đổ](https://vnexpress.net/ruong-bac-thang-y-ty-mua-nuoc-do-4894308.html) - 17:00 04/06/2025
-- 🌏 [Đêm nhạc sôi động sẽ mở màn lễ hội du lịch hè Bình Định](https://vnexpress.net/dem-nhac-soi-dong-se-mo-man-le-hoi-du-lich-he-binh-dinh-4894598.html) - 13:00 04/06/2025
-- 💂 [Việt Nam trong top 5 điểm khách châu Âu thích nhất hè](https://vnexpress.net/viet-nam-trong-top-5-diem-khach-chau-au-thich-nhat-he-4894579.html) - 11:32 04/06/2025
-- 🤩 [Một năm ghi dấu ấn của Học viện cưỡi ngựa Vinpearl Vũ Yên](https://vnexpress.net/mot-nam-ghi-dau-an-cua-hoc-vien-cuoi-ngua-vinpearl-vu-yen-4894528.html) - 10:30 04/06/2025
-- 💪 [Vì sao Nhật Bản ít thùng rác công cộng mà vẫn sạch?](https://vnexpress.net/vi-sao-nhat-ban-it-thung-rac-cong-cong-ma-van-sach-4894490.html) - 10:06 04/06/2025
-- 💻 [5 tour quốc tế dịp hè &#39;sang chảnh&#39; cho gia đình có trẻ nhỏ](https://vnexpress.net/5-tour-quoc-te-dip-he-sang-chanh-cho-gia-dinh-co-tre-nho-4894251.html) - 05:00 04/06/2025
-- 🧑‍💻 [Giải mã sự nổi tiếng của ẩm thực Nhật Bản](https://vnexpress.net/giai-ma-su-noi-tieng-cua-am-thuc-nhat-ban-4894286.html) - 03:30 04/06/2025
-- 🎭 [Thấy gì từ những chuyến dạo Hồ Gươm của các lãnh đạo thế giới?](https://vnexpress.net/thay-gi-tu-nhung-chuyen-dao-ho-guom-cua-cac-lanh-dao-the-gioi-4893950.html) - 02:26 04/06/2025
-- 🧐 [Ba ngày ăn chơi Đà Nẵng dịp lễ hội pháo hoa](https://vnexpress.net/ba-ngay-an-choi-da-nang-dip-le-hoi-phao-hoa-4893768.html) - 17:00 03/06/2025
-- 💡 [Khách Việt có thể xin e-visa khi đến Thổ Nhĩ Kỳ](https://vnexpress.net/khach-viet-co-the-xin-e-visa-khi-den-tho-nhi-ky-4894112.html) - 11:40 03/06/2025
-- 🌊 [Các khách sạn 5 sao mới mở cho mùa du lịch hè 2025](https://vnexpress.net/cac-khach-san-5-sao-moi-mo-cho-mua-du-lich-he-2025-4888886.html) - 06:54 03/06/2025
-- 🎃 [Loại nấm độc có thể gây chết người nhưng được yêu thích](https://vnexpress.net/loai-nam-doc-co-the-gay-chet-nguoi-nhung-duoc-yeu-thich-4887987.html) - 04:15 03/06/2025
-- 🧠 [Báo Anh nêu những điểm khiến du lịch Việt Nam hơn Thái Lan](https://vnexpress.net/bao-anh-neu-nhung-diem-khien-du-lich-viet-nam-hon-thai-lan-4893719.html) - 02:56 03/06/2025
-- 💄 [7 món nhất định thử khi đến Hong Kong](https://vnexpress.net/7-mon-nhat-dinh-thu-khi-den-hong-kong-4893632.html) - 02:00 03/06/2025
+- 💂 [Thái Lan - nơi tài xế ít khi bấm còi](https://vnexpress.net/thai-lan-noi-tai-xe-it-khi-bam-coi-4896798.html) - 04:00 10/06/2025
+- 🪄 [Bún bò lò củi 60 năm tại Huế](https://vnexpress.net/bun-bo-lo-cui-60-nam-tai-hue-4896515.html) - 03:00 10/06/2025
+- 🦅 [Nỗi lo của du khách đến Mỹ](https://vnexpress.net/noi-lo-cua-du-khach-den-my-4896675.html) - 01:57 10/06/2025
+- 🕴 [Lợi ích Michelin Guide mang đến cho ẩm thực Việt](https://vnexpress.net/loi-ich-michelin-guide-mang-den-cho-am-thuc-viet-4896166.html) - 00:00 10/06/2025
+- 👀 [Du lịch bằng xe tự lái khám phá bãi biển dọc miền Trung](https://vnexpress.net/du-lich-bang-xe-tu-lai-kham-pha-bai-bien-doc-mien-trung-4895732.html) - 17:08 09/06/2025
+- 🎭 [Hai ngày ăn chơi dịp Lễ hội Văn hóa - Du lịch biển Nha Trang](https://vnexpress.net/hai-ngay-an-choi-dip-le-hoi-van-hoa-du-lich-bien-nha-trang-4896626.html) - 12:02 09/06/2025
+- 🦒 [Món thịt lợn chiên &#39;nhắm mắt mới dám ăn&#39; ở Trung Quốc](https://vnexpress.net/mon-thit-lon-chien-nham-mat-moi-dam-an-o-trung-quoc-4896258.html) - 04:28 09/06/2025
+- 👨‍🏫 [Làng Thụy Sĩ tặng 24.000 USD cho khách chuyển đến ở](https://vnexpress.net/lang-thuy-si-tang-24-000-usd-cho-khach-chuyen-den-o-4896232.html) - 02:31 09/06/2025
+- ⚗️ [Thái Lan tìm cách vực dậy du lịch nửa cuối năm](https://vnexpress.net/thai-lan-tim-cach-vuc-day-du-lich-nua-cuoi-nam-4895816.html) - 01:39 09/06/2025
+- 🥸 [6 địa chỉ ẩm thực Sài Gòn lần đầu được Michelin gọi tên](https://vnexpress.net/6-dia-chi-am-thuc-sai-gon-lan-dau-duoc-michelin-goi-ten-4895643.html) - 17:00 08/06/2025
+- 🤠 [Hơn 1.000 người diễu hành cổ phục quanh kinh thành Huế](https://vnexpress.net/hon-1-000-nguoi-dieu-hanh-co-phuc-quanh-kinh-thanh-hue-4896132.html) - 15:56 08/06/2025
+- 🚀 [Saigontourist Group đưa 50 món Việt đến lễ hội ẩm thực tại Osaka, Nhật Bản](https://vnexpress.net/saigontourist-group-dua-50-mon-viet-den-le-hoi-am-thuc-tai-osaka-nhat-ban-4895829.html) - 08:30 08/06/2025
+- 💻 [Tác giả Việt thắng giải ảnh ẩm thực quốc tế](https://vnexpress.net/tac-gia-viet-thang-giai-anh-am-thuc-quoc-te-4896023.html) - 05:57 08/06/2025
+- 💼 [Món chân ếch gây tranh cãi của người Pháp](https://vnexpress.net/mon-chan-ech-gay-tranh-cai-cua-nguoi-phap-4895937.html) - 05:54 08/06/2025
+- 🤡 [Nơi nào có nhiệt độ cao nhất thế giới?](https://vnexpress.net/noi-nao-co-nhiet-do-cao-nhat-the-gioi-4895927.html) - 02:00 08/06/2025
+- 🐵 [6 điểm đến Việt Nam được báo Anh gợi ý](https://vnexpress.net/6-diem-den-viet-nam-duoc-bao-anh-goi-y-4895837.html) - 01:00 08/06/2025
+- 😺 [5 quán Michelin &#39;ngon, giá phải chăng&#39; mới ở Hà Nội](https://vnexpress.net/5-quan-michelin-ngon-gia-phai-chang-moi-o-ha-noi-4894717.html) - 17:00 07/06/2025
+- 🌈 [Du khách đổ xô đến Malaysia ăn buffet sầu riêng](https://vnexpress.net/du-khach-do-xo-den-malaysia-an-buffet-sau-rieng-4895805.html) - 12:37 07/06/2025
+- ⚗️ [12 vườn hồng hút khách check in tại Nhật Bản](https://vnexpress.net/12-vuon-hong-hut-khach-check-in-tai-nhat-ban-4895743.html) - 05:37 07/06/2025
+- 👀 [Lý do khách dễ nổi cáu khi di chuyển bằng máy bay](https://vnexpress.net/ly-do-khach-de-noi-cau-khi-di-chuyen-bang-may-bay-4895698.html) - 02:32 07/06/2025
+- 👍 [4 nhà hàng ngon, rẻ ở Đà Nẵng mới được Michelin vinh danh](https://vnexpress.net/4-nha-hang-ngon-re-o-da-nang-moi-duoc-michelin-vinh-danh-4894969.html) - 17:00 06/06/2025
+- 💄 [Khám phá động Phong Nha với tour Quảng Bình của Sovaba Travel](https://vnexpress.net/kham-pha-dong-phong-nha-voi-tour-quang-binh-cua-sovaba-travel-4894869.html) - 13:00 06/06/2025
+- 🥷 [Chủ nhà hàng Việt sốc vì bị loại khỏi Michelin dù khách vẫn đông](https://vnexpress.net/chu-nha-hang-viet-soc-vi-bi-loai-khoi-michelin-du-khach-van-dong-4895371.html) - 07:20 06/06/2025
+- 📝 [Trung Quốc mở thử nghiệm tàu hỏa phục vụ khách Việt](https://vnexpress.net/trung-quoc-mo-thu-nghiem-tau-hoa-phuc-vu-khach-viet-4895360.html) - 06:25 06/06/2025
+- 🌜 [Khách quốc tế đến Việt Nam tháng 5 cao kỷ lục](https://vnexpress.net/khach-quoc-te-den-viet-nam-thang-5-cao-ky-luc-4895363.html) - 06:21 06/06/2025
+- 📝 [9 nhà hàng một sao Michelin ở Việt Nam](https://vnexpress.net/9-nha-hang-mot-sao-michelin-o-viet-nam-4895154.html) - 02:50 06/06/2025
+- 🧰 [48 giờ mua sắm, khám phá ẩm thực Tokyo](https://vnexpress.net/48-gio-mua-sam-kham-pha-am-thuc-tokyo-4894592.html) - 02:00 06/06/2025
+- 🎬 [&#39;Tránh nóng&#39; tại Sun World Sầm Sơn với giá vé từ 199.000 đồng](https://vnexpress.net/tranh-nong-tai-sun-world-sam-son-voi-gia-ve-tu-199-000-dong-4895053.html) - 01:00 06/06/2025
+- 🧐 [Colline Dalat - khách sạn view toàn cảnh Đà Lạt](https://vnexpress.net/colline-dalat-khach-san-view-toan-canh-da-lat-4887936.html) - 01:00 06/06/2025
+- 👨‍🏫 [Nhà hàng TP HCM nhận một sao Michelin sau 7 tháng mở cửa](https://vnexpress.net/nha-hang-tp-hcm-nhan-mot-sao-michelin-sau-7-thang-mo-cua-4895151.html) - 00:00 06/06/2025
+- 🦣 [Loạt món kết hợp với yến sào tại lễ hội ẩm thực Nha Trang](https://vnexpress.net/loat-mon-ket-hop-voi-yen-sao-tai-le-hoi-am-thuc-nha-trang-4895110.html) - 17:00 05/06/2025
+- 🌋 [Mỹ cân nhắc thu 1.000 USD phỏng vấn nhanh visa du lịch](https://vnexpress.net/my-can-nhac-thu-1-000-usd-phong-van-nhanh-visa-du-lich-4895091.html) - 14:22 05/06/2025
+- 🦄 [Michelin trao sao cho 9 nhà hàng Việt Nam](https://vnexpress.net/michelin-trao-sao-cho-9-nha-hang-viet-nam-4894994.html) - 09:45 05/06/2025
+- 💡 [Hà Giang khiến nhiều khách nước ngoài bật khóc sau chuyến đi](https://vnexpress.net/ha-giang-khien-nhieu-khach-nuoc-ngoai-bat-khoc-sau-chuyen-di-4894855.html) - 07:10 05/06/2025
+- 🌏 [5 ngôi làng đẹp nhất Italy](https://vnexpress.net/5-ngoi-lang-dep-nhat-italy-4894632.html) - 02:33 05/06/2025
+- 💂 [Xem show kỷ lục thế giới tại Cát Bà với giá từ 550.000 đồng](https://vnexpress.net/xem-show-ky-luc-the-gioi-tai-cat-ba-voi-gia-tu-550-000-dong-4894499.html) - 01:00 05/06/2025
+- 🤩 [Ba hàng &#39;bít tết kiểu ta&#39; phục vụ nhiều thế hệ khách Hà Nội](https://vnexpress.net/ba-hang-bit-tet-kieu-ta-phuc-vu-nhieu-the-he-khach-ha-noi-4894356.html) - 00:00 05/06/2025
+- 💪 [Ruộng bậc thang Y Tý mùa nước đổ](https://vnexpress.net/ruong-bac-thang-y-ty-mua-nuoc-do-4894308.html) - 17:00 04/06/2025
+- 💻 [Đêm nhạc sôi động sẽ mở màn lễ hội du lịch hè Bình Định](https://vnexpress.net/dem-nhac-soi-dong-se-mo-man-le-hoi-du-lich-he-binh-dinh-4894598.html) - 13:00 04/06/2025
+- 🧑‍💻 [Việt Nam trong top 5 điểm khách châu Âu thích nhất hè](https://vnexpress.net/viet-nam-trong-top-5-diem-khach-chau-au-thich-nhat-he-4894579.html) - 11:32 04/06/2025
+- 🎭 [Một năm ghi dấu ấn của Học viện cưỡi ngựa Vinpearl Vũ Yên](https://vnexpress.net/mot-nam-ghi-dau-an-cua-hoc-vien-cuoi-ngua-vinpearl-vu-yen-4894528.html) - 10:30 04/06/2025
+- 🧐 [Vì sao Nhật Bản ít thùng rác công cộng mà vẫn sạch?](https://vnexpress.net/vi-sao-nhat-ban-it-thung-rac-cong-cong-ma-van-sach-4894490.html) - 10:06 04/06/2025
+- 💡 [5 tour quốc tế dịp hè &#39;sang chảnh&#39; cho gia đình có trẻ nhỏ](https://vnexpress.net/5-tour-quoc-te-dip-he-sang-chanh-cho-gia-dinh-co-tre-nho-4894251.html) - 05:00 04/06/2025
+- 🌊 [Giải mã sự nổi tiếng của ẩm thực Nhật Bản](https://vnexpress.net/giai-ma-su-noi-tieng-cua-am-thuc-nhat-ban-4894286.html) - 03:30 04/06/2025
+- 🎃 [Thấy gì từ những chuyến dạo Hồ Gươm của các lãnh đạo thế giới?](https://vnexpress.net/thay-gi-tu-nhung-chuyen-dao-ho-guom-cua-cac-lanh-dao-the-gioi-4893950.html) - 02:26 04/06/2025
+- 🧠 [Ba ngày ăn chơi Đà Nẵng dịp lễ hội pháo hoa](https://vnexpress.net/ba-ngay-an-choi-da-nang-dip-le-hoi-phao-hoa-4893768.html) - 17:00 03/06/2025
+- 💄 [Khách Việt có thể xin e-visa khi đến Thổ Nhĩ Kỳ](https://vnexpress.net/khach-viet-co-the-xin-e-visa-khi-den-tho-nhi-ky-4894112.html) - 11:40 03/06/2025
+- 🎬 [Các khách sạn 5 sao mới mở cho mùa du lịch hè 2025](https://vnexpress.net/cac-khach-san-5-sao-moi-mo-cho-mua-du-lich-he-2025-4888886.html) - 06:54 03/06/2025
+- 🐻 [Loại nấm độc có thể gây chết người nhưng được yêu thích](https://vnexpress.net/loai-nam-doc-co-the-gay-chet-nguoi-nhung-duoc-yeu-thich-4887987.html) - 04:15 03/06/2025
+- 🌝 [Báo Anh nêu những điểm khiến du lịch Việt Nam hơn Thái Lan](https://vnexpress.net/bao-anh-neu-nhung-diem-khien-du-lich-viet-nam-hon-thai-lan-4893719.html) - 02:56 03/06/2025
+- 🤩 [7 món nhất định thử khi đến Hong Kong](https://vnexpress.net/7-mon-nhat-dinh-thu-khi-den-hong-kong-4893632.html) - 02:00 03/06/2025
 - 🎬 [Hàng bánh dừa 30 năm chỉ dân địa phương mới biết ở Phú Yên](https://vnexpress.net/hang-banh-dua-30-nam-chi-dan-dia-phuong-moi-biet-o-phu-yen-4893567.html) - 00:08 03/06/2025
-- 🐻 [Tân Cương tính rộng cửa đón khách nước ngoài](https://vnexpress.net/tan-cuong-tinh-rong-cua-don-khach-nuoc-ngoai-4893487.html) - 17:08 02/06/2025
-- 🌝 [Đà Nẵng đón hơn 300 khách đầu tiên của Emirates bằng nón lá](https://vnexpress.net/da-nang-don-hon-300-khach-dau-tien-cua-emirates-bang-non-la-4893669.html) - 15:37 02/06/2025
-- 🤩 [Cột cờ Lũng Cú dừng đón khách](https://vnexpress.net/cot-co-lung-cu-dung-don-khach-4893662.html) - 14:20 02/06/2025
-- 🎬 [Du khách bị hổ tấn công trong vườn thú Thái Lan](https://vnexpress.net/du-khach-bi-ho-tan-cong-trong-vuon-thu-thai-lan-4893603.html) - 12:18 02/06/2025
-- 🦩 [Bí mật về sự xa xỉ của tôm hùm](https://vnexpress.net/bi-mat-ve-su-xa-xi-cua-tom-hum-4893408.html) - 12:00 02/06/2025
-- 🦍 [Lau Pa Sat - thiên đường ẩm thực Singapore nơi Tổng thống Pháp ghé ăn tối](https://vnexpress.net/lau-pa-sat-thien-duong-am-thuc-singapore-noi-tong-thong-phap-ghe-an-toi-4893264.html) - 07:26 02/06/2025
-- 👀 [Thu hồi thẻ của tài xế xích lô &#39;giật tiền&#39; khách nước ngoài](https://vnexpress.net/thu-hoi-the-cua-tai-xe-xich-lo-giat-tien-khach-nuoc-ngoai-4893415.html) - 05:22 02/06/2025
-- 🧰 [Chuyến du lịch giúp khách sống sang chảnh như Kim Kardashian](https://vnexpress.net/chuyen-du-lich-giup-khach-song-sang-chanh-nhu-kim-kardashian-4893286.html) - 03:29 02/06/2025
-- 🕯 [Bên trong nhà hàng Tổng thống Pháp tới thưởng thức tại Hà Nội](https://vnexpress.net/ben-trong-nha-hang-tong-thong-phap-toi-thuong-thuc-tai-ha-noi-4892540.html) - 00:02 02/06/2025
-- 👍 [Điểm đến &#39;đáng đồng tiền bát gạo&#39; nhất châu Âu dịp hè](https://vnexpress.net/diem-den-dang-dong-tien-bat-gao-nhat-chau-au-dip-he-4892952.html) - 17:09 01/06/2025
-- 😎 [Thủ đô nóng nhất châu Âu tìm cách chống lại nắng hè](https://vnexpress.net/thu-do-nong-nhat-chau-au-tim-cach-chong-lai-nang-he-4893048.html) - 08:46 01/06/2025
-- 🐘 [Vú sữa Lò Rèn là đặc sản tỉnh nào?](https://vnexpress.net/vu-sua-lo-ren-la-dac-san-tinh-nao-4893045.html) - 04:59 01/06/2025<!-- vnexpress-du-lich:END -->
+- 🦩 [Tân Cương tính rộng cửa đón khách nước ngoài](https://vnexpress.net/tan-cuong-tinh-rong-cua-don-khach-nuoc-ngoai-4893487.html) - 17:08 02/06/2025
+- 🦍 [Đà Nẵng đón hơn 300 khách đầu tiên của Emirates bằng nón lá](https://vnexpress.net/da-nang-don-hon-300-khach-dau-tien-cua-emirates-bang-non-la-4893669.html) - 15:37 02/06/2025
+- 👀 [Cột cờ Lũng Cú dừng đón khách](https://vnexpress.net/cot-co-lung-cu-dung-don-khach-4893662.html) - 14:20 02/06/2025
+- 🧰 [Du khách bị hổ tấn công trong vườn thú Thái Lan](https://vnexpress.net/du-khach-bi-ho-tan-cong-trong-vuon-thu-thai-lan-4893603.html) - 12:18 02/06/2025
+- 🕯 [Bí mật về sự xa xỉ của tôm hùm](https://vnexpress.net/bi-mat-ve-su-xa-xi-cua-tom-hum-4893408.html) - 12:00 02/06/2025
+- 👍 [Lau Pa Sat - thiên đường ẩm thực Singapore nơi Tổng thống Pháp ghé ăn tối](https://vnexpress.net/lau-pa-sat-thien-duong-am-thuc-singapore-noi-tong-thong-phap-ghe-an-toi-4893264.html) - 07:26 02/06/2025
+- 😎 [Thu hồi thẻ của tài xế xích lô &#39;giật tiền&#39; khách nước ngoài](https://vnexpress.net/thu-hoi-the-cua-tai-xe-xich-lo-giat-tien-khach-nuoc-ngoai-4893415.html) - 05:22 02/06/2025
+- 🐘 [Chuyến du lịch giúp khách sống sang chảnh như Kim Kardashian](https://vnexpress.net/chuyen-du-lich-giup-khach-song-sang-chanh-nhu-kim-kardashian-4893286.html) - 03:29 02/06/2025<!-- vnexpress-du-lich:END -->
