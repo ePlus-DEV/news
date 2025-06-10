@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [HLV Malaysia nói gì sau khi đội nhà thắng đậm tuyển Việt Nam?](https://dantri.com.vn/the-thao/hlv-malaysia-noi-gi-sau-khi-doi-nha-thang-dam-tuyen-viet-nam-20250610221717970.htm) - 15:17 10/06/2025
-- 💯 [HLV Kim Sang Sik trả lời họp báo sau trận thua đậm Malaysia](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-tra-loi-hop-bao-sau-tran-thua-dam-malaysia-20250610220835567.htm) - 15:09 10/06/2025
+- 🎡 [HLV Malaysia: &quot;Chúng tôi đang mơ về vòng chung kết Asian Cup 2027&quot;](https://dantri.com.vn/the-thao/hlv-malaysia-chung-toi-dang-mo-ve-vong-chung-ket-asian-cup-2027-20250610221717970.htm) - 15:17 10/06/2025
+- 💯 [HLV Kim Sang Sik: &quot;Tôi bất ngờ về chất lượng cầu thủ nhập tịch Malaysia&quot;](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-toi-bat-ngo-ve-chat-luong-cau-thu-nhap-tich-malaysia-20250610220835567.htm) - 15:09 10/06/2025
 - ⛽️ [Hàn Quốc lập kỷ lục, Trung Quốc tránh được vị trí cuối bảng](https://dantri.com.vn/the-thao/han-quoc-lap-ky-luc-trung-quoc-tranh-duoc-vi-tri-cuoi-bang-20250610205644993.htm) - 14:11 10/06/2025
 - 💃 [Đội tuyển Việt Nam thua 0-4 trên sân Malaysia](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-thua-0-4-tren-san-malaysia-20250610190823499.htm) - 12:08 10/06/2025
 - 🌈 [Tỷ phú Roman Abramovich bất ngờ lên tiếng sau 3 năm bán Chelsea](https://dantri.com.vn/the-thao/ty-phu-roman-abramovich-bat-ngo-len-tieng-sau-3-nam-ban-chelsea-20250610172052966.htm) - 11:01 10/06/2025
