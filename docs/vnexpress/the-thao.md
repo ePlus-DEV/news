@@ -6,8 +6,8 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Thái Lan thua sốc ở vòng loại Asian Cup](https://vnexpress.net/thai-lan-thua-soc-o-vong-loai-asian-cup-4897195.html) - 17:38 10/06/2025
 - 🦩 [HLV Malaysia đã dự tính ghi được ba bàn trước Việt Nam](https://vnexpress.net/hlv-malaysia-da-du-tinh-ghi-duoc-ba-ban-truoc-viet-nam-4897194.html) - 17:10 10/06/2025
-- 🧰 [Quang Vinh Pendant: &#39;Tuyển Việt Nam không bỏ cuộc&#39;](https://vnexpress.net/quang-vinh-pendant-tuyen-viet-nam-khong-bo-cuoc-4897182.html) - 16:07 10/06/2025
-- 🤗 [Việt Nam thất bại đậm nhất lịch sử trước Malaysia](https://vnexpress.net/viet-nam-that-bai-dam-nhat-lich-su-truoc-malaysia-4897147.html) - 15:36 10/06/2025
+- 🧰 [Quang Vinh Pendant: &#39;Đội tuyển Việt Nam không bỏ cuộc&#39;](https://vnexpress.net/quang-vinh-pendant-doi-tuyen-viet-nam-khong-bo-cuoc-4897182.html) - 16:07 10/06/2025
+- 🤗 [Việt Nam thua đậm nhất lịch sử trước Malaysia](https://vnexpress.net/viet-nam-thua-dam-nhat-lich-su-truoc-malaysia-4897147.html) - 15:36 10/06/2025
 - 🥳 [HLV Kim Sang-sik xin lỗi người hâm mộ Việt Nam](https://vnexpress.net/hlv-kim-sang-sik-xin-loi-nguoi-ham-mo-viet-nam-4897169.html) - 15:08 10/06/2025
 - 🦣 [Indonesia thảm bại 0-6 trước Nhật Bản](https://vnexpress.net/indonesia-tham-bai-0-6-truoc-nhat-ban-4897127.html) - 12:50 10/06/2025
 - 🌜 [Việt Nam thua Malaysia 0-4 ở vòng loại Asian Cup](https://vnexpress.net/truc-tiep-tran-malaysia-vs-viet-nam-o-vong-loai-asian-cup-4897094-tong-thuat.html) - 12:00 10/06/2025
