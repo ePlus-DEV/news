@@ -256,7 +256,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🥷 [TP HCM tiếp tục mưa lớn, ngập nhiều nơi](https://nld.com.vn/tp-hcm-tiep-tuc-mua-lon-ngap-nhieu-noi-196250609163146003.htm) - 13:48 10/06/2025
 - 🤔 [Đội Nhật Bản thắng đậm tuyển Indonesia 6 bàn không gỡ](https://nld.com.vn/doi-nhat-ban-thang-dam-tuyen-indonesia-6-ban-khong-go-196250610195206215.htm) - 13:09 10/06/2025
 - 🌈 [Hai vé số Vietlott cùng trúng giải Jackpot 2](https://nld.com.vn/hai-ve-so-vietlott-cung-trung-giai-jackpot-2-196250610192621143.htm) - 12:48 10/06/2025
-- 🔥 [Malaysia 3-0 Việt Nam: Filip Nguyễn lần thứ 3 vào lưới nhặt bóng](https://nld.com.vn/malaysia-viet-nam-thu-mon-filip-pendant-quang-vinh-thi-dau-tu-dau-196250610180420751.htm) - 12:32 10/06/2025
+- 🔥 [Malaysia lấy lại niềm vui trước Việt Nam sau 11 năm](https://nld.com.vn/malaysia-viet-nam-thu-mon-filip-pendant-quang-vinh-thi-dau-tu-dau-196250610180420751.htm) - 12:32 10/06/2025
 - 🧰 [Áo: Xả súng ở trường học, ít nhất 9 người thiệt mạng](https://nld.com.vn/ao-xa-sung-o-truong-hoc-it-nhat-9-nguoi-thiet-mang-196250610190707224.htm) - 12:13 10/06/2025
 - 🤗 [TP HCM mưa lớn giờ tan tầm, đường ngập, kẹt xe](https://nld.com.vn/tp-hcm-mua-lon-gio-tan-tam-duong-ngap-ket-xe-196250610183629162.htm) - 11:55 10/06/2025
 - 🦅 [Áp thấp nhiệt đới khả năng mạnh lên thành bão, miền Trung mưa lớn](https://nld.com.vn/ap-thap-nhiet-doi-kha-nang-manh-len-thanh-bao-mien-trung-mua-lon-196250610183158912.htm) - 11:51 10/06/2025
