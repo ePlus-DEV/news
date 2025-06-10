@@ -407,8 +407,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Chủ động ứng phó với áp thấp nhiệt đới có khả năng mạnh lên thành bão](https://baochinhphu.vn/chu-dong-ung-pho-voi-ap-thap-nhiet-doi-co-kha-nang-manh-len-thanh-bao-102250610192035534.htm) - 20:14 10/06/2025
-- 🌜 [Thủ tướng Phạm Minh Chính gặp Thủ tướng Bồ Đào Nha](https://baochinhphu.vn/thu-tuong-pham-minh-chinh-gap-thu-tuong-bo-dao-nha-102250610195723222.htm) - 20:00 10/06/2025
+- 💻 [Thủ tướng Phạm Minh Chính gặp Thủ tướng Bồ Đào Nha](https://baochinhphu.vn/thu-tuong-pham-minh-chinh-gap-thu-tuong-bo-dao-nha-102250610195723222.htm) - 20:28 10/06/2025
+- 🌜 [Chủ động ứng phó với áp thấp nhiệt đới có khả năng mạnh lên thành bão](https://baochinhphu.vn/chu-dong-ung-pho-voi-ap-thap-nhiet-doi-co-kha-nang-manh-len-thanh-bao-102250610192035534.htm) - 20:14 10/06/2025
 - 🦆 [Chủ động, trách nhiệm cao, bám sát định hướng chỉ đạo của cấp có thẩm quyền](https://baochinhphu.vn/chu-dong-trach-nhiem-cao-bam-sat-dinh-huong-chi-dao-cua-cap-co-tham-quyen-102250610191542269.htm) - 19:32 10/06/2025
 - 🌝 [Tập đoàn Qualcomm cam kết sẽ tiếp tục đầu tư thêm vào Việt Nam](https://baochinhphu.vn/tap-doan-qualcomm-cam-ket-se-tiep-tuc-dau-tu-them-vao-viet-nam-102250610190751801.htm) - 19:17 10/06/2025
 - 🦣 [Ban Tuyên giáo và Dân vận Trung ương: Đổi mới tư duy nhận thức, hành động, nâng cao chất lượng tham mưu](https://baochinhphu.vn/ban-tuyen-giao-va-dan-van-trung-uong-doi-moi-tu-duy-nhan-thuc-hanh-dong-nang-cao-chat-luong-tham-muu-102250610184800059.htm) - 19:10 10/06/2025
