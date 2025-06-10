@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Indonesia thảm bại 0-6 trước Nhật Bản](https://vnexpress.net/indonesia-tham-bai-0-6-truoc-nhat-ban-4897127.html) - 12:50 10/06/2025
-- 🦩 [Malaysia 0-0 Việt Nam &lpar;H1&rpar;: Ngọc Quang bỏ lỡ](https://vnexpress.net/truc-tiep-tran-malaysia-vs-viet-nam-o-vong-loai-asian-cup-4897094.html) - 12:00 10/06/2025
+- 🦩 [Malaysia 3-0 Việt Nam &lpar;H2&rpar;: Tiến Linh suýt ghi bàn](https://vnexpress.net/truc-tiep-tran-malaysia-vs-viet-nam-o-vong-loai-asian-cup-4897094.html) - 12:00 10/06/2025
 - 🧰 [Tottenham đạt thỏa thuận với HLV Thomas Frank](https://vnexpress.net/tottenham-dat-thoa-thuan-voi-hlv-thomas-frank-4897047.html) - 09:27 10/06/2025
 - 🤗 [Abramovich lần đầu nói về việc phải bán Chelsea](https://vnexpress.net/abramovich-lan-dau-noi-ve-viec-phai-ban-chelsea-4896991.html) - 09:23 10/06/2025
 - 🥳 [Giáo án half marathon kết hợp gym và chạy bộ](https://vnexpress.net/giao-an-half-marathon-ket-hop-gym-va-chay-bo-4896161.html) - 09:00 10/06/2025
