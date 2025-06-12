@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Phút cuối trước khi máy bay Ấn Độ lao xuống đất](https://vnexpress.net/phut-cuoi-truoc-khi-may-bay-an-do-lao-xuong-dat-4898182.html) - 17:08 12/06/2025
 - 🕴 [&#39;Ốc đảo yên bình&#39; của Ukraine trong hơn ba năm chiến sự](https://vnexpress.net/oc-dao-yen-binh-cua-ukraine-trong-hon-ba-nam-chien-su-4897701.html) - 17:00 12/06/2025
-- 🤭 [Nhân chứng kể phút kinh hoàng khi phi cơ Ấn Độ lao xuống đất](https://vnexpress.net/nhan-chung-ke-phut-kinh-hoang-khi-phi-co-an-do-lao-xuong-dat-4898164.html) - 16:14 12/06/2025
+- 🤭 [Nhân chứng vụ rơi máy bay: &#39;Mọi thứ rung chuyển như động đất&#39;](https://vnexpress.net/nhan-chung-vu-roi-may-bay-moi-thu-rung-chuyen-nhu-dong-dat-4898164.html) - 16:14 12/06/2025
 - 🧑‍💻 [Một hành khách sống sót trong vụ rơi máy bay ở Ấn Độ](https://vnexpress.net/mot-hanh-khach-song-sot-trong-vu-roi-may-bay-o-an-do-4898171.html) - 14:58 12/06/2025
 - 🦏 [Mỹ mở trang web đăng ký thẻ vàng nhập cư](https://vnexpress.net/my-mo-trang-web-dang-ky-the-vang-nhap-cu-4898094.html) - 13:23 12/06/2025
 - 🦒 [Hiện trường vụ rơi máy bay chở 242 người ở Ấn Độ](https://vnexpress.net/hien-truong-vu-roi-may-bay-cho-242-nguoi-o-an-do-4898123.html) - 12:32 12/06/2025
