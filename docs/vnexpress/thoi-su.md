@@ -17,7 +17,7 @@ sidebar_position: 1
 - 🎉 [Giông lốc làm cây xanh, cổng chào ngã đổ ở nhiều tỉnh thành](https://vnexpress.net/giong-loc-lam-cay-xanh-cong-chao-nga-do-o-nhieu-tinh-thanh-4897870.html) - 04:47 12/06/2025
 - 🦒 [Dừng tìm kiếm người mất tích ở &#39;hố tử thần&#39; Bắc Kạn](https://vnexpress.net/dung-tim-kiem-nguoi-mat-tich-o-ho-tu-than-bac-kan-4897854.html) - 04:45 12/06/2025
 - 🤗 [Đồng Tháp vận hành thử nghiệm xã, phường mới từ 16/6](https://vnexpress.net/dong-thap-van-hanh-thu-nghiem-xa-phuong-moi-tu-16-6-4897718.html) - 04:00 12/06/2025
-- 💼 [Sau sáp nhập tỉnh thành: Người dân có thể dùng giấy tờ cũ đến khi hết hạn](https://vnexpress.net/sau-sap-nhap-tinh-thanh-nguoi-dan-co-the-dung-giay-to-cu-den-khi-het-han-4897779.html) - 03:39 12/06/2025
+- 💼 [Người dân vẫn được dùng giấy tờ cũ sau sáp nhập tỉnh thành](https://vnexpress.net/nguoi-dan-van-duoc-dung-giay-to-cu-sau-sap-nhap-tinh-thanh-4897779.html) - 03:39 12/06/2025
 - 🤩 [Tàu hỏa tông hai người tử vong](https://vnexpress.net/tau-hoa-tong-hai-nguoi-tu-vong-4897813.html) - 03:32 12/06/2025
 - 🤡 [Quốc hội chốt cả nước còn 34 tỉnh, thành phố](https://vnexpress.net/quoc-hoi-chot-ca-nuoc-con-34-tinh-thanh-pho-4897740.html) - 02:28 12/06/2025
 - 💯 [Bão Wutip gây mưa lớn ở miền Trung](https://vnexpress.net/bao-wutip-gay-mua-lon-o-mien-trung-4897748.html) - 02:22 12/06/2025
