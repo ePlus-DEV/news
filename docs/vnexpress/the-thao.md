@@ -4,9 +4,9 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Thần đồng 17 tuổi tiếp tục đả bại kỳ thủ số một cờ tướng](https://vnexpress.net/than-dong-17-tuoi-tiep-tuc-da-bai-ky-thu-so-mot-co-tuong-4898188.html) - 22:00 12/06/2025
-- 🦩 [Trọng tài tát cầu thủ trẻ ở Brazil](https://vnexpress.net/trong-tai-tat-cau-thu-tre-o-brazil-4898186.html) - 21:00 12/06/2025
-- 🧰 [Học sinh trung học mất huy chương vì ném gậy tiếp sức](https://vnexpress.net/hoc-sinh-trung-hoc-mat-huy-chuong-vi-nem-gay-tiep-suc-4897663.html) - 21:00 12/06/2025
+- 🪜 [Chủ tịch LĐBĐ Trung Quốc tự chỉ trích bóng đá nước nhà](https://vnexpress.net/chu-tich-ldbd-trung-quoc-tu-chi-trich-bong-da-nuoc-nha-4898135.html) - 22:21 12/06/2025
+- 🦩 [Thần đồng 17 tuổi tiếp tục đả bại kỳ thủ số một cờ tướng](https://vnexpress.net/than-dong-17-tuoi-tiep-tuc-da-bai-ky-thu-so-mot-co-tuong-4898188.html) - 22:00 12/06/2025
+- 🧰 [Trọng tài tát cầu thủ trẻ ở Brazil](https://vnexpress.net/trong-tai-tat-cau-thu-tre-o-brazil-4898186.html) - 21:00 12/06/2025
 - 🤗 [&#39;44% người Pháp tin Dembele giành Quả Bóng Vàng&#39;](https://vnexpress.net/44-nguoi-phap-tin-dembele-gianh-qua-bong-vang-4898047.html) - 19:00 12/06/2025
 - 🥳 [Alexander-Arnold: &#39;Tôi sẽ luôn được chào đón trở lại Liverpool&#39;](https://vnexpress.net/alexander-arnold-toi-se-luon-duoc-chao-don-tro-lai-liverpool-4898184.html) - 17:00 12/06/2025
 - 🦣 [Truyền thông Anh đòi sa thải Tuchel](https://vnexpress.net/truyen-thong-anh-doi-sa-thai-tuchel-4898151.html) - 17:00 12/06/2025
