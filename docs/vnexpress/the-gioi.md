@@ -13,7 +13,7 @@ sidebar_position: 2
 - 🌈 [Bệnh nhân ung thư 3 lần trúng số độc đắc trong 9 tháng](https://vnexpress.net/benh-nhan-ung-thu-3-lan-trung-so-doc-dac-trong-9-thang-4897994.html) - 09:08 12/06/2025
 - 🧑‍🏫 [Nga có thể đã chuyển oanh tạc cơ hiện đại nhất tới Viễn Đông](https://vnexpress.net/nga-co-the-da-chuyen-oanh-tac-co-hien-dai-nhat-toi-vien-dong-4897942.html) - 09:02 12/06/2025
 - 🐲 [Người Hàn đổ xô tham quan Nhà Xanh trước khi tân Tổng thống chuyển vào](https://vnexpress.net/nguoi-han-do-xo-tham-quan-nha-xanh-truoc-khi-tan-tong-thong-chuyen-vao-4897939.html) - 08:56 12/06/2025
-- 🦒 [Máy bay chở 242 người rơi ở Ấn Độ, ít nhất 200 người chết](https://vnexpress.net/roi-may-bay-cho-hon-240-nguoi-o-an-do-4898027.html) - 08:47 12/06/2025
+- 🦒 [Máy bay chở 242 người rơi ở Ấn Độ, ít nhất 200 người chết](https://vnexpress.net/roi-may-bay-cho-hon-240-nguoi-o-an-do-4898027-tong-thuat.html) - 08:47 12/06/2025
 - 🐻 [Cuộc sống trong hang của người đàn ông &#39;bỏ phố&#39;](https://vnexpress.net/cuoc-song-trong-hang-cua-nguoi-dan-ong-bo-pho-4897922.html) - 08:39 12/06/2025
 - 🚀 [Hàn Quốc luôn coi Việt Nam là đối tác quan trọng tại khu vực](https://vnexpress.net/han-quoc-luon-coi-viet-nam-la-doi-tac-quan-trong-tai-khu-vuc-4897928.html) - 08:01 12/06/2025
 - 🥰 [Tiêm kích Trung Quốc bị tố cắt mặt trinh sát cơ Nhật Bản](https://vnexpress.net/tiem-kich-trung-quoc-bi-to-cat-mat-trinh-sat-co-nhat-ban-4897864.html) - 07:41 12/06/2025
