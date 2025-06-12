@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Địa phương nào có mật độ dân số cao nhất sau sáp nhập?](https://vnexpress.net/dia-phuong-nao-co-mat-do-dan-so-cao-nhat-sau-sap-nhap-4898033.html) - 13:00 12/06/2025
+- 🤓 [Tỉnh nào thưa dân nhất sau sáp nhập?](https://vnexpress.net/tinh-nao-thua-dan-nhat-sau-sap-nhap-4898033.html) - 13:00 12/06/2025
 - 🦆 [ĐH Y Hà Nội tuyển thẳng tới 40%, lần đầu xét tổ hợp A00](https://vnexpress.net/dh-y-ha-noi-tuyen-thang-toi-40-lan-dau-xet-to-hop-a00-4898134.html) - 12:11 12/06/2025
 - 🦩 [Đại học Quốc gia TP HCM công bố top thí sinh theo điểm thi đánh giá năng lực](https://vnexpress.net/phan-vi-diem-thi-danh-gia-nang-luc-dai-hoc-quoc-gia-tp-hcm-2025-4898024.html) - 09:45 12/06/2025
 - 🌮 [Thủ khoa đánh giá năng lực Đại học Quốc gia TP HCM đạt 1.122 điểm](https://vnexpress.net/pho-diem-thi-danh-gia-nang-luc-nam-2025-cua-dai-hoc-quoc-gia-tp-hcm-4897966.html) - 08:24 12/06/2025
