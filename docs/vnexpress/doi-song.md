@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Đi chợ thời lo lắng](https://vnexpress.net/di-cho-thoi-lo-lang-4897144.html) - 23:00 11/06/2025
+- 🚀 [Đi chợ thời lo âu](https://vnexpress.net/di-cho-thoi-lo-au-4897144.html) - 23:00 11/06/2025
 - 🎓 [Cộng đồng những người bị sa thải](https://vnexpress.net/cong-dong-nhung-nguoi-bi-sa-thai-4897658.html) - 22:45 11/06/2025
 - 🚦 [Vợ vui hôn nhân mới hạnh phúc](https://vnexpress.net/vo-vui-hon-nhan-moi-hanh-phuc-4896182.html) - 09:15 11/06/2025
 - 🦣 [Bí quyết luộc tai heo giòn bằng nước đá](https://vnexpress.net/bi-quyet-luoc-tai-heo-gion-bang-nuoc-da-4896944.html) - 08:30 11/06/2025
