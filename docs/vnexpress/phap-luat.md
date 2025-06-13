@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Thảm án gia đình 7 người trong đêm](https://vnexpress.net/tham-an-gia-dinh-7-nguoi-trong-giac-ngu-4898604.html) - 17:00 13/06/2025
+- 😎 [Thảm án sát hại gia đình 7 người trong đêm](https://vnexpress.net/tham-an-sat-hai-gia-dinh-7-nguoi-trong-dem-4898604.html) - 17:00 13/06/2025
 - 🥰 [Người đàn bà chuyên cướp vé số](https://vnexpress.net/nguoi-dan-ba-chuyen-cuop-ve-so-4898609.html) - 12:46 13/06/2025
 - 🎓 [Giữ quyền chất vấn Chánh án, Viện trưởng VKS của đại biểu HĐND](https://vnexpress.net/giu-quyen-chat-van-chanh-an-vien-truong-vks-cua-dai-bieu-hdnd-4898612.html) - 12:12 13/06/2025
 - 🤓 [Nghệ An có tân Giám đốc công an](https://vnexpress.net/nghe-an-co-tan-giam-doc-cong-an-4898593.html) - 11:45 13/06/2025
