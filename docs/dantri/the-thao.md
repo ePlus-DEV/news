@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Chuyên gia tuyên bố gây sốc khi đội tuyển Malaysia nhập tịch ồ ạt](https://dantri.com.vn/the-thao/chuyen-gia-tuyen-bo-gay-soc-khi-doi-tuyen-malaysia-nhap-tich-o-at-20250613131459842.htm) - 06:17 13/06/2025
+- 🎡 [Chuyên gia tuyên bố gây sốc khi đội tuyển Malaysia nhập tịch ồ ạt](https://dantri.com.vn/the-thao/chuyen-gia-tuyen-bo-gay-soc-khi-doi-tuyen-malaysia-nhap-tich-o-at-20250613131459842.htm) - 07:30 13/06/2025
 - 💯 [Biến căng nhà Beckham: Cậu cả cắt đứt liên lạc với gia đình](https://dantri.com.vn/the-thao/bien-cang-nha-beckham-cau-ca-cat-dut-lien-lac-voi-gia-dinh-20250613130228974.htm) - 06:02 13/06/2025
 - ⛽️ [Những điều luật, công nghệ mới được áp dụng ở FIFA Club World Cup](https://dantri.com.vn/the-thao/nhung-dieu-luat-cong-nghe-moi-duoc-ap-dung-o-fifa-club-world-cup-20250613111440289.htm) - 04:14 13/06/2025
 - 💃 [Các vận động viên háo hức chờ đón giải Aqua Warriors Quảng Bình 2025](https://dantri.com.vn/the-thao/cac-van-dong-vien-hao-huc-cho-don-giai-aqua-warriors-quang-binh-2025-20250612232508769.htm) - 02:10 13/06/2025
