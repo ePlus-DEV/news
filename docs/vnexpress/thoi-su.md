@@ -6,12 +6,12 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Bản đồ 34 tỉnh, thành sau sáp nhập](https://vnexpress.net/ban-do-34-tinh-thanh-sau-sap-nhap-4898576.html) - 10:37 13/06/2025
 - 🤓 [Hà Nội và TP HCM được tăng thêm 10 phó giám đốc sở](https://vnexpress.net/ha-noi-va-tp-hcm-duoc-tang-them-10-pho-giam-doc-so-4898451.html) - 10:10 13/06/2025
-- ⚗️ [Đào mương xả nước đen từ công trường ra biển Vũng Tàu](https://vnexpress.net/dao-muong-xa-nuoc-den-tu-cong-truong-ra-bien-vung-tau-4898438.html) - 09:56 13/06/2025
+- ⚗️ [Nước đen từ công trường ra biển Vũng Tàu](https://vnexpress.net/nuoc-den-tu-cong-truong-ra-bien-vung-tau-4898438.html) - 09:56 13/06/2025
 - 🌊 [Thanh niên cầm đá chặn xe trên cao tốc Vân Phong - Nha Trang](https://vnexpress.net/thanh-nien-cam-da-chan-xe-tren-cao-toc-van-phong-nha-trang-4898537.html) - 09:43 13/06/2025
 - 🎓 [Quảng Ninh dừng đầu tư bệnh viện 4.200 tỷ đồng](https://vnexpress.net/quang-ninh-dung-dau-tu-benh-vien-4-200-ty-dong-4898119.html) - 09:21 13/06/2025
 - 🔥 [Bỏ mô hình thành phố thuộc tỉnh để phân tách rõ đô thị và nông thôn](https://vnexpress.net/bo-mo-hinh-thanh-pho-thuoc-tinh-de-phan-tach-ro-do-thi-va-nong-thon-4898478.html) - 08:25 13/06/2025
 - 🦏 [Phá vỡ đê quai, 500.000 m3 nước tràn xuống hạ du](https://vnexpress.net/pha-vo-de-quai-500-000-m3-nuoc-tran-xuong-ha-du-4898416.html) - 07:27 13/06/2025
-- 👺 [Bốn người mất tích do mưa lũ](https://vnexpress.net/bon-nguoi-mat-tich-do-mua-lu-4898404.html) - 05:24 13/06/2025
+- 👺 [Hai người chết, bốn người mất tích do mưa lũ](https://vnexpress.net/hai-nguoi-chet-bon-nguoi-mat-tich-do-mua-lu-4898404.html) - 05:24 13/06/2025
 - 🧑‍🏫 [Đạp ngã người đi xe máy vì mâu thuẫn giao thông](https://vnexpress.net/dap-nga-nguoi-di-xe-may-vi-mau-thuan-giao-thong-4898407.html) - 05:08 13/06/2025
 - 🚦 [Bão lên cấp 11, ven biển Quảng Ninh - Hải Phòng gió mạnh](https://vnexpress.net/bao-len-cap-11-ven-bien-quang-ninh-hai-phong-gio-manh-4898390.html) - 04:57 13/06/2025
 - 🎉 [Nối lại cầu phao Phong Châu](https://vnexpress.net/noi-lai-cau-phao-phong-chau-4898379.html) - 04:38 13/06/2025
