@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Những người thoát chết trong gang tấc khi máy bay Ấn Độ rơi](https://vnexpress.net/nhung-nguoi-thoat-chet-trong-gang-tac-khi-may-bay-an-do-roi-4898582.html) - 12:30 13/06/2025
-- 🕴 [Nguyên nhân có thể khiến phi cơ Ấn Độ rơi ngay sau khi cất cánh](https://vnexpress.net/nguyen-nhan-co-the-khien-phi-co-an-do-roi-ngay-sau-khi-cat-canh-4898189.html) - 12:00 13/06/2025
-- 🤭 [Israel tiếp tục tấn công Iran](https://vnexpress.net/israel-tiep-tuc-tan-cong-iran-4898611.html) - 11:54 13/06/2025
-- 🧑‍💻 [Ông Trump kêu gọi Iran chấp nhận thỏa thuận trước khi &#39;không còn gì cả&#39;](https://vnexpress.net/ong-trump-keu-goi-iran-chap-nhan-thoa-thuan-truoc-khi-khong-con-gi-ca-4898585.html) - 11:49 13/06/2025
-- 🦏 [Iran treo &#39;cờ máu báo thù&#39; sau vụ Israel không kích](https://vnexpress.net/iran-treo-co-mau-bao-thu-sau-vu-israel-khong-kich-4898560.html) - 10:18 13/06/2025
-- 🦒 [Lãnh đạo thế giới kêu gọi Israel - Iran hạ nhiệt căng thẳng](https://vnexpress.net/lanh-dao-the-gioi-keu-goi-israel-iran-ha-nhiet-cang-thang-4898477.html) - 09:57 13/06/2025
-- 🌈 [Ông Trump biết trước về chiến dịch không kích Iran của Israel](https://vnexpress.net/ong-trump-biet-truoc-ve-chien-dich-khong-kich-iran-cua-israel-4898471.html) - 09:05 13/06/2025
-- 🧑‍🏫 [Vùng trời Trung Đông vắng tanh khi Iran, Israel tập kích nhau](https://vnexpress.net/vung-troi-trung-dong-vang-tanh-khi-iran-israel-tap-kich-nhau-4898482.html) - 08:48 13/06/2025
-- 🐲 [Giá gạo cao - chủ đề sôi sục khắp Nhật Bản](https://vnexpress.net/gia-gao-cao-chu-de-soi-suc-khap-nhat-ban-4898012.html) - 08:43 13/06/2025
-- 🦒 [Đặc phái viên Mỹ: &#39;Đòn đáp trả của Iran vào Israel sẽ thảm khốc&#39;](https://vnexpress.net/dac-phai-vien-my-don-dap-tra-cua-iran-vao-israel-se-tham-khoc-4898354.html) - 08:42 13/06/2025
-- 🐻 [Thiên tài Trung Quốc từ nhỏ đã giải trí bằng sách Toán](https://vnexpress.net/thien-tai-trung-quoc-tu-nho-da-giai-tri-bang-sach-toan-4898104.html) - 08:06 13/06/2025
-- 🚀 [Israel đã triển khai hơn 200 chiến đấu cơ cho chiến dịch phủ đầu Iran](https://vnexpress.net/israel-da-trien-khai-hon-200-chien-dau-co-cho-chien-dich-phu-dau-iran-4898420.html) - 07:46 13/06/2025
-- 🥰 [Bị dọa đánh bom, máy bay Ấn Độ hạ cánh khẩn ở Thái Lan](https://vnexpress.net/bi-doa-danh-bom-may-bay-an-do-ha-canh-khan-o-thai-lan-4898431.html) - 07:32 13/06/2025
-- 🔥 [Việt Nam khuyến cáo công dân ở Iran, Israel lên phương án sơ tán](https://vnexpress.net/viet-nam-khuyen-cao-cong-dan-o-iran-israel-len-phuong-an-so-tan-4898437.html) - 07:27 13/06/2025
-- 🥳 [Khói lửa tại Iran sau đòn không kích phủ đầu của Israel](https://vnexpress.net/khoi-lua-tai-iran-sau-don-khong-kich-phu-dau-cua-israel-4898327.html) - 07:24 13/06/2025
-- 💼 [Campuchia cắt Internet từ Thái Lan, yêu cầu quân đội &#39;cảnh giác cao độ&#39;](https://vnexpress.net/campuchia-cat-internet-tu-thai-lan-yeu-cau-quan-doi-canh-giac-cao-do-4898426.html) - 07:22 13/06/2025
-- 🤡 [Tổng tham mưu trưởng quân đội Iran thiệt mạng trong đòn không kích của Israel](https://vnexpress.net/tong-tham-muu-truong-quan-doi-iran-thiet-mang-trong-don-khong-kich-cua-israel-4898389.html) - 06:54 13/06/2025
-- 🌁 [Những vũ khí Iran có thể dùng để đáp trả Israel](https://vnexpress.net/nhung-vu-khi-iran-co-the-dung-de-dap-tra-israel-4898395.html) - 06:54 13/06/2025
-- 🤩 [Israel nói Iran bắt đầu trả đũa](https://vnexpress.net/iran-tan-cong-tra-dua-israel-4898412-tong-thuat.html) - 05:26 13/06/2025
-- 🎉 [Tư lệnh cứng rắn của Iran bị Israel nhắm tới trong đòn không kích](https://vnexpress.net/tu-lenh-cung-ran-cua-iran-bi-israel-nham-toi-trong-don-khong-kich-4898308.html) - 04:59 13/06/2025
-- 🎉 [Thủ tướng hội kiến Công chúa kế vị Thụy Điển](https://vnexpress.net/thu-tuong-hoi-kien-cong-chua-ke-vi-thuy-dien-4898250.html) - 04:51 13/06/2025
-- 🌁 [Lãnh tụ Iran cảnh báo sẽ &#39;trừng phạt mạnh tay&#39; Israel](https://vnexpress.net/lanh-tu-iran-canh-bao-se-trung-phat-manh-tay-israel-4898364.html) - 04:34 13/06/2025
-- 🌊 [Hành khách thoát nạn vì lỡ chuyến bay Ấn Độ](https://vnexpress.net/hanh-khach-thoat-nan-vi-lo-chuyen-bay-an-do-4898230.html) - 04:16 13/06/2025
-- 🕴 [Ông Putin tuyên bố thành lập binh chủng drone](https://vnexpress.net/ong-putin-tuyen-bo-thanh-lap-binh-chung-drone-4898259.html) - 03:59 13/06/2025
-- 🎓 [Lời cuối của phi công trên máy bay Ấn Độ gặp nạn](https://vnexpress.net/loi-cuoi-cua-phi-cong-tren-may-bay-an-do-gap-nan-4898298.html) - 03:34 13/06/2025
-- 🦩 [Yếu tố giúp hành khách Anh thoát chết trong tai nạn máy bay Ấn Độ](https://vnexpress.net/yeu-to-giup-hanh-khach-anh-thoat-chet-trong-tai-nan-may-bay-an-do-4898212.html) - 03:29 13/06/2025
-- 🌏 [Thủ tướng Israel tuyên bố &#39;tung đòn vào trái tim hạt nhân&#39; Iran](https://vnexpress.net/thu-tuong-israel-tuyen-bo-tung-don-vao-trai-tim-hat-nhan-iran-4898262.html) - 03:23 13/06/2025
-- 🌋 [Tòa án Mỹ nói ông Trump điều động Vệ binh Quốc gia California trái luật](https://vnexpress.net/toa-an-my-noi-ong-trump-dieu-dong-ve-binh-quoc-gia-california-trai-luat-4898244.html) - 03:11 13/06/2025
-- 🪜 [Lý do Israel tung đòn không kích phủ đầu Iran](https://vnexpress.net/ly-do-israel-tung-don-khong-kich-phu-dau-iran-4898219.html) - 03:06 13/06/2025
-- 🕴 [Thượng nghị sĩ bị còng tay trong cuộc họp báo của Bộ trưởng Mỹ](https://vnexpress.net/thuong-nghi-si-bi-cong-tay-trong-cuoc-hop-bao-cua-bo-truong-my-4898235.html) - 02:20 13/06/2025
-- 🧑‍🏫 [Tư lệnh hàng đầu Iran thiệt mạng trong đòn không kích của Israel](https://vnexpress.net/tu-lenh-hang-dau-iran-thiet-mang-trong-don-khong-kich-cua-israel-4898271.html) - 02:13 13/06/2025
-- 🌮 [Bên trong một cuộc truy tìm người nhập cư trái phép của giới chức Mỹ](https://vnexpress.net/ben-trong-mot-cuoc-truy-tim-nguoi-nhap-cu-trai-phep-cua-gioi-chuc-my-4897285.html) - 01:00 13/06/2025
-- 🚦 [Israel không kích phủ đầu Iran, cơ sở hạt nhân của Tehran &#39;chìm trong biển lửa&#39;](https://vnexpress.net/israel-tan-cong-phu-dau-iran-4898216.html) - 00:19 13/06/2025
-- 💫 [Số người chết trong vụ rơi máy bay Ấn Độ tăng lên 265](https://vnexpress.net/so-nguoi-chet-trong-vu-roi-may-bay-an-do-tang-len-265-4898205.html) - 00:10 13/06/2025
-- 🤡 [Ông Trump ca ngợi quân đội giúp Los Angeles &#39;yên bình&#39;](https://vnexpress.net/ong-trump-ca-ngoi-quan-doi-giup-los-angeles-yen-binh-4898198.html) - 23:59 12/06/2025
-- 🦣 [Triều Tiên hạ thủy thành công chiến hạm 5.000 tấn thứ hai](https://vnexpress.net/trieu-tien-ha-thuy-thanh-cong-chien-ham-5-000-tan-thu-hai-4898197.html) - 23:29 12/06/2025
-- 🎬 [Tính toán của Los Angeles khi áp lệnh giới nghiêm](https://vnexpress.net/tinh-toan-cua-los-angeles-khi-ap-lenh-gioi-nghiem-4897682.html) - 22:00 12/06/2025
-- 🎉 [Phút cuối trước khi máy bay Ấn Độ lao xuống đất](https://vnexpress.net/phut-cuoi-truoc-khi-may-bay-an-do-lao-xuong-dat-4898182.html) - 17:08 12/06/2025
-- 🎡 [&#39;Ốc đảo yên bình&#39; của Ukraine trong hơn ba năm chiến sự](https://vnexpress.net/oc-dao-yen-binh-cua-ukraine-trong-hon-ba-nam-chien-su-4897701.html) - 17:00 12/06/2025
-- 🌜 [Nhân chứng vụ rơi máy bay: &#39;Mọi thứ rung chuyển như động đất&#39;](https://vnexpress.net/nhan-chung-vu-roi-may-bay-moi-thu-rung-chuyen-nhu-dong-dat-4898164.html) - 16:14 12/06/2025
-- 🎡 [Một hành khách sống sót trong vụ rơi máy bay ở Ấn Độ](https://vnexpress.net/mot-hanh-khach-song-sot-trong-vu-roi-may-bay-o-an-do-4898171.html) - 14:58 12/06/2025
-- 🤗 [Mỹ mở trang web đăng ký thẻ vàng nhập cư](https://vnexpress.net/my-mo-trang-web-dang-ky-the-vang-nhap-cu-4898094.html) - 13:23 12/06/2025
-- 🦩 [Hiện trường vụ rơi máy bay chở 242 người ở Ấn Độ](https://vnexpress.net/hien-truong-vu-roi-may-bay-cho-242-nguoi-o-an-do-4898123.html) - 12:32 12/06/2025
-- 🎓 [Mỹ huy động UAV &#39;mắt thần&#39; giám sát biểu tình Los Angeles](https://vnexpress.net/my-huy-dong-uav-mat-than-giam-sat-bieu-tinh-los-angeles-4898038.html) - 10:41 12/06/2025
-- 🌁 [Mỹ xem xét lại thỏa thuận tàu ngầm AUKUS](https://vnexpress.net/my-xem-xet-lai-thoa-thuan-tau-ngam-aukus-4898086.html) - 10:40 12/06/2025
-- 🤩 [Khoảnh khắc máy bay Ấn Độ chở 242 người lao xuống đất](https://vnexpress.net/khoanh-khac-may-bay-an-do-cho-242-nguoi-lao-xuong-dat-4898069.html) - 10:08 12/06/2025
-- 👹 [Litva coi Việt Nam là đối tác hàng đầu ở Đông Nam Á](https://vnexpress.net/litva-coi-viet-nam-la-doi-tac-hang-dau-o-dong-nam-a-4897997.html) - 09:39 12/06/2025
-- ⛽️ [Bệnh nhân ung thư 3 lần trúng số độc đắc trong 9 tháng](https://vnexpress.net/benh-nhan-ung-thu-3-lan-trung-so-doc-dac-trong-9-thang-4897994.html) - 09:08 12/06/2025
-- 🚀 [Nga có thể đã chuyển oanh tạc cơ hiện đại nhất tới Viễn Đông](https://vnexpress.net/nga-co-the-da-chuyen-oanh-tac-co-hien-dai-nhat-toi-vien-dong-4897942.html) - 09:02 12/06/2025
-- 🎡 [Người Hàn đổ xô tham quan Nhà Xanh trước khi tân Tổng thống chuyển vào](https://vnexpress.net/nguoi-han-do-xo-tham-quan-nha-xanh-truoc-khi-tan-tong-thong-chuyen-vao-4897939.html) - 08:56 12/06/2025
-- 🕯 [Máy bay chở 242 người rơi ở Ấn Độ, ít nhất 200 người chết](https://vnexpress.net/roi-may-bay-cho-hon-240-nguoi-o-an-do-4898027-tong-thuat.html) - 08:47 12/06/2025
-- 🐻 [Cuộc sống trong hang của người đàn ông &#39;bỏ phố&#39;](https://vnexpress.net/cuoc-song-trong-hang-cua-nguoi-dan-ong-bo-pho-4897922.html) - 08:39 12/06/2025
-- 🚦 [Hàn Quốc luôn coi Việt Nam là đối tác quan trọng tại khu vực](https://vnexpress.net/han-quoc-luon-coi-viet-nam-la-doi-tac-quan-trong-tai-khu-vuc-4897928.html) - 08:01 12/06/2025
-- 👍 [Tiêm kích Trung Quốc bị tố cắt mặt trinh sát cơ Nhật Bản](https://vnexpress.net/tiem-kich-trung-quoc-bi-to-cat-mat-trinh-sat-co-nhat-ban-4897864.html) - 07:41 12/06/2025
-- 🚀 [Ông Trump đi xem kịch &#39;Những người cùng khổ&#39; với bà Melania](https://vnexpress.net/ong-trump-di-xem-kich-nhung-nguoi-cung-kho-voi-ba-melania-4897818.html) - 07:32 12/06/2025
-- 🌮 [Tính năng &#39;vũ khí then chốt&#39; từng giúp Ukraine đối phó UAV Nga](https://vnexpress.net/tinh-nang-vu-khi-then-chot-tung-giup-ukraine-doi-pho-uav-nga-4897586.html) - 07:02 12/06/2025
-- 😎 [Khoảnh khắc tên lửa Iskander, UAV Nga tập kích căn cứ drone Ukraine](https://vnexpress.net/khoanh-khac-ten-lua-iskander-uav-nga-tap-kich-can-cu-drone-ukraine-4897809.html) - 05:29 12/06/2025
-- 🐲 [Dàn xe tăng, thiết giáp Mỹ chuẩn bị duyệt binh tại Washington](https://vnexpress.net/dan-xe-tang-thiet-giap-my-chuan-bi-duyet-binh-tai-washington-4897619.html) - 05:02 12/06/2025
-- 💫 [Những phụ nữ cùng nhau cai rượu bia ở Nhật Bản](https://vnexpress.net/nhung-phu-nu-cung-nhau-cai-ruou-bia-o-nhat-ban-4897815.html) - 05:00 12/06/2025
-- 👀 [Hàn Quốc nói Triều Tiên ngừng phát tiếng ồn lạ ở biên giới](https://vnexpress.net/han-quoc-noi-trieu-tien-ngung-phat-tieng-on-la-o-bien-gioi-4897802.html) - 04:44 12/06/2025<!-- vnexpress-the-gioi:END -->
+- 🎭 [Quan chức Israel tiết lộ cách tiến hành chiến dịch tấn công Iran](https://vnexpress.net/quan-chuc-israel-tiet-lo-cach-tien-hanh-chien-dich-tan-cong-iran-4898517.html) - 13:57 13/06/2025
+- 🕴 [Iran nói cuộc không kích của Israel là &#39;lời tuyên bố chiến tranh&#39;](https://vnexpress.net/iran-noi-cuoc-khong-kich-cua-israel-la-loi-tuyen-bo-chien-tranh-4898548.html) - 12:59 13/06/2025
+- 🤭 [Việt Nam kêu gọi các bên ở Trung Đông kiềm chế](https://vnexpress.net/viet-nam-keu-goi-cac-ben-o-trung-dong-kiem-che-4898622.html) - 12:48 13/06/2025
+- 🧑‍💻 [Những người thoát chết trong gang tấc khi máy bay Ấn Độ rơi](https://vnexpress.net/nhung-nguoi-thoat-chet-trong-gang-tac-khi-may-bay-an-do-roi-4898582.html) - 12:30 13/06/2025
+- 🦏 [Nguyên nhân có thể khiến phi cơ Ấn Độ rơi ngay sau khi cất cánh](https://vnexpress.net/nguyen-nhan-co-the-khien-phi-co-an-do-roi-ngay-sau-khi-cat-canh-4898189.html) - 12:00 13/06/2025
+- 🦒 [Hội đồng Bảo an LHQ sắp họp về xung đột Israel - Iran](https://vnexpress.net/israel-tiep-tuc-tan-cong-iran-4898611.html) - 11:54 13/06/2025
+- 🌈 [Ông Trump kêu gọi Iran chấp nhận thỏa thuận trước khi &#39;không còn gì cả&#39;](https://vnexpress.net/ong-trump-keu-goi-iran-chap-nhan-thoa-thuan-truoc-khi-khong-con-gi-ca-4898585.html) - 11:49 13/06/2025
+- 🧑‍🏫 [Iran treo &#39;cờ máu báo thù&#39; sau vụ Israel không kích](https://vnexpress.net/iran-treo-co-mau-bao-thu-sau-vu-israel-khong-kich-4898560.html) - 10:18 13/06/2025
+- 🐲 [Lãnh đạo thế giới kêu gọi Israel - Iran hạ nhiệt căng thẳng](https://vnexpress.net/lanh-dao-the-gioi-keu-goi-israel-iran-ha-nhiet-cang-thang-4898477.html) - 09:57 13/06/2025
+- 🦒 [Ông Trump biết trước về chiến dịch không kích Iran của Israel](https://vnexpress.net/ong-trump-biet-truoc-ve-chien-dich-khong-kich-iran-cua-israel-4898471.html) - 09:05 13/06/2025
+- 🐻 [Vùng trời Trung Đông vắng tanh khi Iran, Israel tập kích nhau](https://vnexpress.net/vung-troi-trung-dong-vang-tanh-khi-iran-israel-tap-kich-nhau-4898482.html) - 08:48 13/06/2025
+- 🚀 [Giá gạo cao - chủ đề sôi sục khắp Nhật Bản](https://vnexpress.net/gia-gao-cao-chu-de-soi-suc-khap-nhat-ban-4898012.html) - 08:43 13/06/2025
+- 🥰 [Đặc phái viên Mỹ: &#39;Đòn đáp trả của Iran vào Israel sẽ thảm khốc&#39;](https://vnexpress.net/dac-phai-vien-my-don-dap-tra-cua-iran-vao-israel-se-tham-khoc-4898354.html) - 08:42 13/06/2025
+- 🔥 [Thiên tài Trung Quốc từ nhỏ đã giải trí bằng sách Toán](https://vnexpress.net/thien-tai-trung-quoc-tu-nho-da-giai-tri-bang-sach-toan-4898104.html) - 08:06 13/06/2025
+- 🥳 [Israel đã triển khai hơn 200 chiến đấu cơ cho chiến dịch phủ đầu Iran](https://vnexpress.net/israel-da-trien-khai-hon-200-chien-dau-co-cho-chien-dich-phu-dau-iran-4898420.html) - 07:46 13/06/2025
+- 💼 [Bị dọa đánh bom, máy bay Ấn Độ hạ cánh khẩn ở Thái Lan](https://vnexpress.net/bi-doa-danh-bom-may-bay-an-do-ha-canh-khan-o-thai-lan-4898431.html) - 07:32 13/06/2025
+- 🤡 [Việt Nam khuyến cáo công dân ở Iran, Israel lên phương án sơ tán](https://vnexpress.net/viet-nam-khuyen-cao-cong-dan-o-iran-israel-len-phuong-an-so-tan-4898437.html) - 07:27 13/06/2025
+- 🌁 [Khói lửa tại Iran sau đòn không kích phủ đầu của Israel](https://vnexpress.net/khoi-lua-tai-iran-sau-don-khong-kich-phu-dau-cua-israel-4898327.html) - 07:24 13/06/2025
+- 🤩 [Campuchia cắt Internet từ Thái Lan, yêu cầu quân đội &#39;cảnh giác cao độ&#39;](https://vnexpress.net/campuchia-cat-internet-tu-thai-lan-yeu-cau-quan-doi-canh-giac-cao-do-4898426.html) - 07:22 13/06/2025
+- 🎉 [Tổng tham mưu trưởng quân đội Iran thiệt mạng trong đòn không kích của Israel](https://vnexpress.net/tong-tham-muu-truong-quan-doi-iran-thiet-mang-trong-don-khong-kich-cua-israel-4898389.html) - 06:54 13/06/2025
+- 🎉 [Những vũ khí Iran có thể dùng để đáp trả Israel](https://vnexpress.net/nhung-vu-khi-iran-co-the-dung-de-dap-tra-israel-4898395.html) - 06:54 13/06/2025
+- 🌁 [Israel nói Iran bắt đầu trả đũa](https://vnexpress.net/iran-tan-cong-tra-dua-israel-4898412-tong-thuat.html) - 05:26 13/06/2025
+- 🌊 [Tư lệnh cứng rắn của Iran bị Israel nhắm tới trong đòn không kích](https://vnexpress.net/tu-lenh-cung-ran-cua-iran-bi-israel-nham-toi-trong-don-khong-kich-4898308.html) - 04:59 13/06/2025
+- 🕴 [Thủ tướng hội kiến Công chúa kế vị Thụy Điển](https://vnexpress.net/thu-tuong-hoi-kien-cong-chua-ke-vi-thuy-dien-4898250.html) - 04:51 13/06/2025
+- 🎓 [Lãnh tụ Iran cảnh báo sẽ &#39;trừng phạt mạnh tay&#39; Israel](https://vnexpress.net/lanh-tu-iran-canh-bao-se-trung-phat-manh-tay-israel-4898364.html) - 04:34 13/06/2025
+- 🦩 [Hành khách thoát nạn vì lỡ chuyến bay Ấn Độ](https://vnexpress.net/hanh-khach-thoat-nan-vi-lo-chuyen-bay-an-do-4898230.html) - 04:16 13/06/2025
+- 🌏 [Ông Putin tuyên bố thành lập binh chủng drone](https://vnexpress.net/ong-putin-tuyen-bo-thanh-lap-binh-chung-drone-4898259.html) - 03:59 13/06/2025
+- 🌋 [Lời cuối của phi công trên máy bay Ấn Độ gặp nạn](https://vnexpress.net/loi-cuoi-cua-phi-cong-tren-may-bay-an-do-gap-nan-4898298.html) - 03:34 13/06/2025
+- 🪜 [Yếu tố giúp hành khách Anh thoát chết trong tai nạn máy bay Ấn Độ](https://vnexpress.net/yeu-to-giup-hanh-khach-anh-thoat-chet-trong-tai-nan-may-bay-an-do-4898212.html) - 03:29 13/06/2025
+- 🕴 [Thủ tướng Israel tuyên bố &#39;tung đòn vào trái tim hạt nhân&#39; Iran](https://vnexpress.net/thu-tuong-israel-tuyen-bo-tung-don-vao-trai-tim-hat-nhan-iran-4898262.html) - 03:23 13/06/2025
+- 🧑‍🏫 [Tòa án Mỹ nói ông Trump điều động Vệ binh Quốc gia California trái luật](https://vnexpress.net/toa-an-my-noi-ong-trump-dieu-dong-ve-binh-quoc-gia-california-trai-luat-4898244.html) - 03:11 13/06/2025
+- 🌮 [Lý do Israel tung đòn không kích phủ đầu Iran](https://vnexpress.net/ly-do-israel-tung-don-khong-kich-phu-dau-iran-4898219.html) - 03:06 13/06/2025
+- 🚦 [Thượng nghị sĩ bị còng tay trong cuộc họp báo của Bộ trưởng Mỹ](https://vnexpress.net/thuong-nghi-si-bi-cong-tay-trong-cuoc-hop-bao-cua-bo-truong-my-4898235.html) - 02:20 13/06/2025
+- 💫 [Tư lệnh hàng đầu Iran thiệt mạng trong đòn không kích của Israel](https://vnexpress.net/tu-lenh-hang-dau-iran-thiet-mang-trong-don-khong-kich-cua-israel-4898271.html) - 02:13 13/06/2025
+- 🤡 [Bên trong một cuộc truy tìm người nhập cư trái phép của giới chức Mỹ](https://vnexpress.net/ben-trong-mot-cuoc-truy-tim-nguoi-nhap-cu-trai-phep-cua-gioi-chuc-my-4897285.html) - 01:00 13/06/2025
+- 🦣 [Israel không kích phủ đầu Iran, cơ sở hạt nhân của Tehran &#39;chìm trong biển lửa&#39;](https://vnexpress.net/israel-tan-cong-phu-dau-iran-4898216.html) - 00:19 13/06/2025
+- 🎬 [Số người chết trong vụ rơi máy bay Ấn Độ tăng lên 265](https://vnexpress.net/so-nguoi-chet-trong-vu-roi-may-bay-an-do-tang-len-265-4898205.html) - 00:10 13/06/2025
+- 🎉 [Ông Trump ca ngợi quân đội giúp Los Angeles &#39;yên bình&#39;](https://vnexpress.net/ong-trump-ca-ngoi-quan-doi-giup-los-angeles-yen-binh-4898198.html) - 23:59 12/06/2025
+- 🎡 [Triều Tiên hạ thủy thành công chiến hạm 5.000 tấn thứ hai](https://vnexpress.net/trieu-tien-ha-thuy-thanh-cong-chien-ham-5-000-tan-thu-hai-4898197.html) - 23:29 12/06/2025
+- 🌜 [Tính toán của Los Angeles khi áp lệnh giới nghiêm](https://vnexpress.net/tinh-toan-cua-los-angeles-khi-ap-lenh-gioi-nghiem-4897682.html) - 22:00 12/06/2025
+- 🎡 [Phút cuối trước khi máy bay Ấn Độ lao xuống đất](https://vnexpress.net/phut-cuoi-truoc-khi-may-bay-an-do-lao-xuong-dat-4898182.html) - 17:08 12/06/2025
+- 🤗 [&#39;Ốc đảo yên bình&#39; của Ukraine trong hơn ba năm chiến sự](https://vnexpress.net/oc-dao-yen-binh-cua-ukraine-trong-hon-ba-nam-chien-su-4897701.html) - 17:00 12/06/2025
+- 🦩 [Nhân chứng vụ rơi máy bay: &#39;Mọi thứ rung chuyển như động đất&#39;](https://vnexpress.net/nhan-chung-vu-roi-may-bay-moi-thu-rung-chuyen-nhu-dong-dat-4898164.html) - 16:14 12/06/2025
+- 🎓 [Một hành khách sống sót trong vụ rơi máy bay ở Ấn Độ](https://vnexpress.net/mot-hanh-khach-song-sot-trong-vu-roi-may-bay-o-an-do-4898171.html) - 14:58 12/06/2025
+- 🌁 [Mỹ mở trang web đăng ký thẻ vàng nhập cư](https://vnexpress.net/my-mo-trang-web-dang-ky-the-vang-nhap-cu-4898094.html) - 13:23 12/06/2025
+- 🤩 [Hiện trường vụ rơi máy bay chở 242 người ở Ấn Độ](https://vnexpress.net/hien-truong-vu-roi-may-bay-cho-242-nguoi-o-an-do-4898123.html) - 12:32 12/06/2025
+- 👹 [Mỹ huy động UAV &#39;mắt thần&#39; giám sát biểu tình Los Angeles](https://vnexpress.net/my-huy-dong-uav-mat-than-giam-sat-bieu-tinh-los-angeles-4898038.html) - 10:41 12/06/2025
+- ⛽️ [Mỹ xem xét lại thỏa thuận tàu ngầm AUKUS](https://vnexpress.net/my-xem-xet-lai-thoa-thuan-tau-ngam-aukus-4898086.html) - 10:40 12/06/2025
+- 🚀 [Khoảnh khắc máy bay Ấn Độ chở 242 người lao xuống đất](https://vnexpress.net/khoanh-khac-may-bay-an-do-cho-242-nguoi-lao-xuong-dat-4898069.html) - 10:08 12/06/2025
+- 🎡 [Litva coi Việt Nam là đối tác hàng đầu ở Đông Nam Á](https://vnexpress.net/litva-coi-viet-nam-la-doi-tac-hang-dau-o-dong-nam-a-4897997.html) - 09:39 12/06/2025
+- 🕯 [Bệnh nhân ung thư 3 lần trúng số độc đắc trong 9 tháng](https://vnexpress.net/benh-nhan-ung-thu-3-lan-trung-so-doc-dac-trong-9-thang-4897994.html) - 09:08 12/06/2025
+- 🐻 [Nga có thể đã chuyển oanh tạc cơ hiện đại nhất tới Viễn Đông](https://vnexpress.net/nga-co-the-da-chuyen-oanh-tac-co-hien-dai-nhat-toi-vien-dong-4897942.html) - 09:02 12/06/2025
+- 🚦 [Người Hàn đổ xô tham quan Nhà Xanh trước khi tân Tổng thống chuyển vào](https://vnexpress.net/nguoi-han-do-xo-tham-quan-nha-xanh-truoc-khi-tan-tong-thong-chuyen-vao-4897939.html) - 08:56 12/06/2025
+- 👍 [Máy bay chở 242 người rơi ở Ấn Độ, ít nhất 200 người chết](https://vnexpress.net/roi-may-bay-cho-hon-240-nguoi-o-an-do-4898027-tong-thuat.html) - 08:47 12/06/2025
+- 🚀 [Cuộc sống trong hang của người đàn ông &#39;bỏ phố&#39;](https://vnexpress.net/cuoc-song-trong-hang-cua-nguoi-dan-ong-bo-pho-4897922.html) - 08:39 12/06/2025
+- 🌮 [Hàn Quốc luôn coi Việt Nam là đối tác quan trọng tại khu vực](https://vnexpress.net/han-quoc-luon-coi-viet-nam-la-doi-tac-quan-trong-tai-khu-vuc-4897928.html) - 08:01 12/06/2025
+- 😎 [Tiêm kích Trung Quốc bị tố cắt mặt trinh sát cơ Nhật Bản](https://vnexpress.net/tiem-kich-trung-quoc-bi-to-cat-mat-trinh-sat-co-nhat-ban-4897864.html) - 07:41 12/06/2025
+- 🐲 [Ông Trump đi xem kịch &#39;Những người cùng khổ&#39; với bà Melania](https://vnexpress.net/ong-trump-di-xem-kich-nhung-nguoi-cung-kho-voi-ba-melania-4897818.html) - 07:32 12/06/2025
+- 💫 [Tính năng &#39;vũ khí then chốt&#39; từng giúp Ukraine đối phó UAV Nga](https://vnexpress.net/tinh-nang-vu-khi-then-chot-tung-giup-ukraine-doi-pho-uav-nga-4897586.html) - 07:02 12/06/2025
+- 👀 [Khoảnh khắc tên lửa Iskander, UAV Nga tập kích căn cứ drone Ukraine](https://vnexpress.net/khoanh-khac-ten-lua-iskander-uav-nga-tap-kich-can-cu-drone-ukraine-4897809.html) - 05:29 12/06/2025<!-- vnexpress-the-gioi:END -->
