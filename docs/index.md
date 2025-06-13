@@ -599,7 +599,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦍 [Người Hà Nội mê mẩn check-in hoàng hôn Hồ Tây tuyệt đẹp](https://tienphong.vn/nguoi-ha-noi-me-man-check-in-hoang-hon-ho-tay-tuyet-dep-post1750999.tpo) - 20:16 13/06/2025
 - 👹 [Showbiz 13/6: Mạc Anh Thư nói về tin tái hợp Huy Khánh](https://tienphong.vn/showbiz-136-mac-anh-thu-noi-ve-tin-tai-hop-huy-khanh-post1751001.tpo) - 20:11 13/06/2025
 - 🌜 [Chung kết Hoa hậu Việt Nam là sự kiện rất quan trọng với Huế](https://tienphong.vn/chung-ket-hoa-hau-viet-nam-la-su-kien-rat-quan-trong-voi-hue-post1750993.tpo) - 20:01 13/06/2025
-- 🎓 [Trao hàng chục máy tính cho học trò vùng cao](https://tienphong.vn/trao-hang-chuc-may-tinh-cho-hoc-tro-vung-cao-post1750919.tpo) - 20:00 13/06/2025
+- 🎓 [Phòng tin học khang trang cho học trò vùng cao](https://tienphong.vn/phong-tin-hoc-khang-trang-cho-hoc-tro-vung-cao-post1750919.tpo) - 20:00 13/06/2025
 - 🦣 [Cà Mau: Vờ hỏi mua rồi cầm nhẫn 5 chỉ vàng của tiệm bỏ chạy](https://tienphong.vn/ca-mau-vo-hoi-mua-roi-cam-nhan-5-chi-vang-cua-tiem-bo-chay-post1750929.tpo) - 19:50 13/06/2025
 - 🤓 [Thanh Thủy trước khi trao lại vương miện](https://tienphong.vn/thanh-thuy-truoc-khi-trao-lai-vuong-mien-post1750974.tpo) - 19:48 13/06/2025
 - 🌁 [Nghệ An có tân giám đốc Công an tỉnh](https://tienphong.vn/nghe-an-co-tan-giam-doc-cong-an-tinh-post1750983.tpo) - 19:37 13/06/2025
