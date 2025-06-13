@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Báo Malaysia nói điều phũ phàng về đội tuyển Việt Nam](https://dantri.com.vn/the-thao/bao-malaysia-noi-dieu-phu-phang-ve-doi-tuyen-viet-nam-20250613200254666.htm) - 13:15 13/06/2025
+- 🎡 [Báo Malaysia nói thắng về vị thế của đội tuyển Việt Nam](https://dantri.com.vn/the-thao/bao-malaysia-noi-thang-ve-vi-the-cua-doi-tuyen-viet-nam-20250613200254666.htm) - 13:30 13/06/2025
 - 💯 [Đội tuyển nữ Indonesia tràn ngập cầu thủ nhập tịch gốc Hà Lan](https://dantri.com.vn/the-thao/doi-tuyen-nu-indonesia-tran-ngap-cau-thu-nhap-tich-goc-ha-lan-20250613171708374.htm) - 12:51 13/06/2025
 - ⛽️ [Vì sao Liverpool, Barcelona không được dự FIFA Club World Cup?](https://dantri.com.vn/the-thao/vi-sao-liverpool-barcelona-khong-duoc-du-fifa-club-world-cup-20250613185020917.htm) - 11:50 13/06/2025
 - 💃 [Chuyên gia tuyên bố gây sốc khi đội tuyển Malaysia nhập tịch ồ ạt](https://dantri.com.vn/the-thao/chuyen-gia-tuyen-bo-gay-soc-khi-doi-tuyen-malaysia-nhap-tich-o-at-20250613131459842.htm) - 07:30 13/06/2025
