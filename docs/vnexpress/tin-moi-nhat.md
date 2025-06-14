@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [VnExpress Marathon Quy Nhơn 2025 khởi tranh](https://vnexpress.net/vnexpress-marathon-quy-nhon-2025-khoi-tranh-4898920.html) - 19:00 14/06/2025
+- 🎬 [Anh Khôi so kè chân chạy Kenya tại VM Quy Nhơn](https://vnexpress.net/anh-khoi-so-ke-chan-chay-kenya-tai-vm-quy-nhon-4898920.html) - 19:00 14/06/2025
 - 🐎 [Đua mở mới khách sạn ven biển](https://vnexpress.net/dua-mo-moi-khach-san-ven-bien-4897541.html) - 18:17 14/06/2025
 - 🦍 [Tham vọng Net Zero của Shein - hãng thời trang phát thải nhiều nhất thế giới](https://vnexpress.net/tham-vong-net-zero-cua-shein-hang-thoi-trang-phat-thai-nhieu-nhat-the-gioi-4897891.html) - 18:14 14/06/2025
 - 🏊 [Việt Nam sắp có đường bay thẳng tới Italy](https://vnexpress.net/viet-nam-sap-co-duong-bay-thang-toi-italy-4898918.html) - 18:02 14/06/2025
