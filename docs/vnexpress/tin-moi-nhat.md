@@ -8,7 +8,7 @@ sidebar_position: 9
 - 🐎 [Nữ tài xế nổi tiếng sau pha lùi xe đầu kéo](https://vnexpress.net/nu-tai-xe-noi-tieng-sau-pha-lui-xe-dau-keo-4898910.html) - 22:00 14/06/2025
 - 🦍 [4 vấn đề về đường ruột khi cơ thể già đi](https://vnexpress.net/suc-khoe-cam-nang-van-de-ve-duong-ruot-4897074.html) - 20:49 14/06/2025
 - 🏊 [Các virus có thể gây ung thư](https://vnexpress.net/cac-virus-co-the-gay-ung-thu-4897479.html) - 20:48 14/06/2025
-- 🎊 [&#39;Hoa khôi&#39; chạy bộ Trần Duyên vô địch VM Quy Nhơn 2025](https://vnexpress.net/truc-tiep-vnexpress-marathon-quy-nhon-2025-4898920.html) - 19:00 14/06/2025
+- 🎊 [Chân chạy Kenya vô địch VM Quy Nhơn 2025 sau màn so kè Huỳnh Anh Khôi](https://vnexpress.net/truc-tiep-vnexpress-marathon-quy-nhon-2025-4898920.html) - 19:00 14/06/2025
 - 🎃 [Đua mở mới khách sạn ven biển](https://vnexpress.net/dua-mo-moi-khach-san-ven-bien-4897541.html) - 18:17 14/06/2025
 - 🧰 [Tham vọng Net Zero của Shein - hãng thời trang phát thải nhiều nhất thế giới](https://vnexpress.net/tham-vong-net-zero-cua-shein-hang-thoi-trang-phat-thai-nhieu-nhat-the-gioi-4897891.html) - 18:14 14/06/2025
 - 🔭 [Việt Nam sắp có đường bay thẳng tới Italy](https://vnexpress.net/viet-nam-sap-co-duong-bay-thang-toi-italy-4898918.html) - 18:02 14/06/2025
