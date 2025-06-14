@@ -4,9 +4,9 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Ngôi sao gốc Việt tăng giá phi mã, cao gấp 4 lần Xuân Son](https://dantri.com.vn/the-thao/ngoi-sao-goc-viet-tang-gia-phi-ma-cao-gap-4-lan-xuan-son-20250614134115705.htm) - 08:41 14/06/2025
-- 💯 [FIFA Club World Cup: Nén bạc đâm toạc tranh cãi, không phải giải đấu bỏ đi](https://dantri.com.vn/the-thao/fifa-club-world-cup-nen-bac-dam-toac-tranh-cai-khong-phai-giai-dau-bo-di-20250614121445439.htm) - 05:16 14/06/2025
-- ⛽️ [Xem trực tiếp giải đấu tỷ USD FIFA Club World Cup ở đâu?](https://dantri.com.vn/the-thao/xem-truc-tiep-giai-dau-ty-usd-fifa-club-world-cup-o-dau-20250614101130667.htm) - 03:11 14/06/2025
+- 🎡 [Xem trực tiếp giải đấu tỷ USD FIFA Club World Cup ở đâu?](https://dantri.com.vn/the-thao/xem-truc-tiep-giai-dau-ty-usd-fifa-club-world-cup-o-dau-20250614101130667.htm) - 11:17 14/06/2025
+- 💯 [Ngôi sao gốc Việt tăng giá phi mã, cao gấp 4 lần Xuân Son](https://dantri.com.vn/the-thao/ngoi-sao-goc-viet-tang-gia-phi-ma-cao-gap-4-lan-xuan-son-20250614134115705.htm) - 08:41 14/06/2025
+- ⛽️ [FIFA Club World Cup: Nén bạc đâm toạc tranh cãi, không phải giải đấu bỏ đi](https://dantri.com.vn/the-thao/fifa-club-world-cup-nen-bac-dam-toac-tranh-cai-khong-phai-giai-dau-bo-di-20250614121445439.htm) - 05:16 14/06/2025
 - 💃 [Djokovic có thể tránh được Sinner, Alcaraz ở tứ kết Wimbledon 2025](https://dantri.com.vn/the-thao/djokovic-co-the-tranh-duoc-sinner-alcaraz-o-tu-ket-wimbledon-2025-20250614104044113.htm) - 03:10 14/06/2025
 - 🌈 [Nội bộ tuyển Malaysia chia rẽ vì nhập tịch ồ ạt, HLV thừa nhận sự thật](https://dantri.com.vn/the-thao/noi-bo-tuyen-malaysia-chia-re-vi-nhap-tich-o-at-hlv-thua-nhan-su-that-20250613234539717.htm) - 01:01 14/06/2025
 - 🦅 [Đội tuyển Indonesia nhận tin không vui ở vòng loại thứ 4 World Cup 2026](https://dantri.com.vn/the-thao/doi-tuyen-indonesia-nhan-tin-khong-vui-o-vong-loai-thu-4-world-cup-2026-20250613225009219.htm) - 23:40 13/06/2025
