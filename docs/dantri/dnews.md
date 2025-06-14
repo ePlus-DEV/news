@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [&quot;Xã mới sẽ là bộ não vận hành tại địa phương&quot;](https://dantri.com.vn/noi-vu/xa-moi-se-la-bo-nao-van-hanh-tai-dia-phuong-20250614173345171.htm) - 10:57 14/06/2025
+- 🤠 [Chính quyền xã mới là cam kết chính trị của Nhà nước đối với nhân dân](https://dantri.com.vn/noi-vu/chinh-quyen-xa-moi-la-cam-ket-chinh-tri-cua-nha-nuoc-doi-voi-nhan-dan-20250614173345171.htm) - 10:57 14/06/2025
 - 🌈 [Bộ trưởng Nội vụ: Mỗi cấp chính quyền đều là trung tâm kiến tạo phát triển](https://dantri.com.vn/noi-vu/bo-truong-noi-vu-moi-cap-chinh-quyen-deu-la-trung-tam-kien-tao-phat-trien-20250614144629191.htm) - 08:08 14/06/2025
 - 🐎 [Loài rắn vô hại nhưng thường bị chết oan vì giống rắn độc](https://dantri.com.vn/khoa-hoc/loai-ran-vo-hai-nhung-thuong-bi-chet-oan-vi-giong-ran-doc-20250607044719064.htm) - 05:12 14/06/2025
 - 👹 [Đánh giá Asus Zenbook 14: Mỏng nhẹ, hiệu năng vừa phải](https://dantri.com.vn/cong-nghe/danh-gia-asus-zenbook-14-mong-nhe-hieu-nang-vua-phai-20250613231416290.htm) - 04:13 14/06/2025
