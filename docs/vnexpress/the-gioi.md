@@ -63,4 +63,4 @@ sidebar_position: 2
 - 😎 [Thượng nghị sĩ bị còng tay trong cuộc họp báo của Bộ trưởng Mỹ](https://vnexpress.net/thuong-nghi-si-bi-cong-tay-trong-cuoc-hop-bao-cua-bo-truong-my-4898235.html) - 02:20 13/06/2025
 - 🐲 [Tư lệnh hàng đầu Iran thiệt mạng trong đòn không kích của Israel](https://vnexpress.net/tu-lenh-hang-dau-iran-thiet-mang-trong-don-khong-kich-cua-israel-4898271.html) - 02:13 13/06/2025
 - 💫 [Bên trong một cuộc truy tìm người nhập cư trái phép của giới chức Mỹ](https://vnexpress.net/ben-trong-mot-cuoc-truy-tim-nguoi-nhap-cu-trai-phep-cua-gioi-chuc-my-4897285.html) - 01:00 13/06/2025
-- 👀 [Israel không kích phủ đầu Iran, cơ sở hạt nhân của Tehran &#39;chìm trong biển lửa&#39;](https://vnexpress.net/israel-tan-cong-phu-dau-iran-4898216.html) - 00:19 13/06/2025<!-- vnexpress-the-gioi:END -->
+- 👀 [Israel không kích phủ đầu Iran, cơ sở hạt nhân của Tehran &#39;chìm trong biển lửa&#39;](https://vnexpress.net/israel-tan-cong-phu-dau-iran-4898216-tong-thuat.html) - 00:19 13/06/2025<!-- vnexpress-the-gioi:END -->
