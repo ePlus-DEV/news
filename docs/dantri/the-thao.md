@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Ngôi sao gốc Việt tăng giá phi mã, cao gấp 4 lần Xuân Son](https://dantri.com.vn/the-thao/ngoi-sao-goc-viet-tang-gia-phi-ma-cao-gap-4-lan-xuan-son-20250614134115705.htm) - 06:41 14/06/2025
+- 🎡 [Ngôi sao gốc Việt tăng giá phi mã, cao gấp 4 lần Xuân Son](https://dantri.com.vn/the-thao/ngoi-sao-goc-viet-tang-gia-phi-ma-cao-gap-4-lan-xuan-son-20250614134115705.htm) - 08:41 14/06/2025
 - 💯 [FIFA Club World Cup: Nén bạc đâm toạc tranh cãi, không phải giải đấu bỏ đi](https://dantri.com.vn/the-thao/fifa-club-world-cup-nen-bac-dam-toac-tranh-cai-khong-phai-giai-dau-bo-di-20250614121445439.htm) - 05:16 14/06/2025
 - ⛽️ [Xem trực tiếp giải đấu tỷ USD FIFA Club World Cup ở đâu?](https://dantri.com.vn/the-thao/xem-truc-tiep-giai-dau-ty-usd-fifa-club-world-cup-o-dau-20250614101130667.htm) - 03:11 14/06/2025
 - 💃 [Djokovic có thể tránh được Sinner, Alcaraz ở tứ kết Wimbledon 2025](https://dantri.com.vn/the-thao/djokovic-co-the-tranh-duoc-sinner-alcaraz-o-tu-ket-wimbledon-2025-20250614104044113.htm) - 03:10 14/06/2025
