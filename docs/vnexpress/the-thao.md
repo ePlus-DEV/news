@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [&#39;Hoa khôi&#39; chạy bộ Trần Duyên vô địch VM Quy Nhơn 2025](https://vnexpress.net/truc-tiep-vnexpress-marathon-quy-nhon-2025-4898920.html) - 19:00 14/06/2025
+- 🪜 [Chân chạy Kenya vô địch VM Quy Nhơn 2025 sau màn so kè Huỳnh Anh Khôi](https://vnexpress.net/truc-tiep-vnexpress-marathon-quy-nhon-2025-4898920.html) - 19:00 14/06/2025
 - 🦩 [Bóng hồng truyền năng lượng trước giờ xuất phát VM Quy Nhơn 2025](https://vnexpress.net/bong-hong-truyen-nang-luong-truoc-gio-xuat-phat-vm-quy-nhon-2025-4898895.html) - 13:00 14/06/2025
 - 🧰 [Kỳ thủ Việt Nam tự đập vào đầu khi thua ở giải thế giới](https://vnexpress.net/ky-thu-viet-nam-tu-dap-vao-dau-khi-thua-o-giai-the-gioi-4898866.html) - 09:11 14/06/2025
 - 🤗 [HLV tuyển Trung Quốc sắp mất việc](https://vnexpress.net/hlv-tuyen-trung-quoc-sap-mat-viec-4898863.html) - 08:40 14/06/2025
