@@ -57,10 +57,10 @@ sidebar_position: 11
 - 🤩 [Món chân ếch gây tranh cãi của người Pháp](https://vnexpress.net/mon-chan-ech-gay-tranh-cai-cua-nguoi-phap-4895937.html) - 05:54 08/06/2025
 - 🎬 [Nơi nào có nhiệt độ cao nhất thế giới?](https://vnexpress.net/noi-nao-co-nhiet-do-cao-nhat-the-gioi-4895927.html) - 02:00 08/06/2025
 - 🦩 [6 điểm đến Việt Nam được báo Anh gợi ý](https://vnexpress.net/6-diem-den-viet-nam-duoc-bao-anh-goi-y-4895837.html) - 01:00 08/06/2025
-- 🦍 [5 quán Michelin &#39;ngon, giá phải chăng&#39; mới ở Hà Nội](https://vnexpress.net/5-quan-michelin-ngon-gia-phai-chang-moi-o-ha-noi-4894717.html) - 17:00 07/06/2025
-- 👀 [Du khách đổ xô đến Malaysia ăn buffet sầu riêng](https://vnexpress.net/du-khach-do-xo-den-malaysia-an-buffet-sau-rieng-4895805.html) - 12:37 07/06/2025
-- 🧰 [12 vườn hồng hút khách check in tại Nhật Bản](https://vnexpress.net/12-vuon-hong-hut-khach-check-in-tai-nhat-ban-4895743.html) - 05:37 07/06/2025
-- 🕯 [Lý do khách dễ nổi cáu khi di chuyển bằng máy bay](https://vnexpress.net/ly-do-khach-de-noi-cau-khi-di-chuyen-bang-may-bay-4895698.html) - 02:32 07/06/2025
-- 👍 [4 nhà hàng ngon, rẻ ở Đà Nẵng mới được Michelin vinh danh](https://vnexpress.net/4-nha-hang-ngon-re-o-da-nang-moi-duoc-michelin-vinh-danh-4894969.html) - 17:00 06/06/2025
-- 😎 [Chủ nhà hàng Việt sốc vì bị loại khỏi Michelin dù khách vẫn đông](https://vnexpress.net/chu-nha-hang-viet-soc-vi-bi-loai-khoi-michelin-du-khach-van-dong-4895371.html) - 07:20 06/06/2025
-- 🐘 [Trung Quốc mở thử nghiệm tàu hỏa phục vụ khách Việt](https://vnexpress.net/trung-quoc-mo-thu-nghiem-tau-hoa-phuc-vu-khach-viet-4895360.html) - 06:25 06/06/2025<!-- vnexpress-du-lich:END -->
+- 🦍 [9 thành phố châu Âu nên đến mùa hè này](https://vnexpress.net/9-thanh-pho-chau-au-nen-den-mua-he-nay-4897782.html) - 00:00 08/06/2025
+- 👀 [5 quán Michelin &#39;ngon, giá phải chăng&#39; mới ở Hà Nội](https://vnexpress.net/5-quan-michelin-ngon-gia-phai-chang-moi-o-ha-noi-4894717.html) - 17:00 07/06/2025
+- 🧰 [Du khách đổ xô đến Malaysia ăn buffet sầu riêng](https://vnexpress.net/du-khach-do-xo-den-malaysia-an-buffet-sau-rieng-4895805.html) - 12:37 07/06/2025
+- 🕯 [12 vườn hồng hút khách check in tại Nhật Bản](https://vnexpress.net/12-vuon-hong-hut-khach-check-in-tai-nhat-ban-4895743.html) - 05:37 07/06/2025
+- 👍 [Lý do khách dễ nổi cáu khi di chuyển bằng máy bay](https://vnexpress.net/ly-do-khach-de-noi-cau-khi-di-chuyen-bang-may-bay-4895698.html) - 02:32 07/06/2025
+- 😎 [4 nhà hàng ngon, rẻ ở Đà Nẵng mới được Michelin vinh danh](https://vnexpress.net/4-nha-hang-ngon-re-o-da-nang-moi-duoc-michelin-vinh-danh-4894969.html) - 17:00 06/06/2025
+- 🐘 [Chủ nhà hàng Việt sốc vì bị loại khỏi Michelin dù khách vẫn đông](https://vnexpress.net/chu-nha-hang-viet-soc-vi-bi-loai-khoi-michelin-du-khach-van-dong-4895371.html) - 07:20 06/06/2025<!-- vnexpress-du-lich:END -->
