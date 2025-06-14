@@ -4,8 +4,8 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Bóng hồng truyền năng lượng trước giờ xuất phát VM Quy Nhơn 2025](https://vnexpress.net/bong-hong-truyen-nang-luong-truoc-gio-xuat-phat-vm-quy-nhon-2025-4898895.html) - 13:00 14/06/2025
-- 🦩 [Chân chạy Kenya muốn đăng quang ở Việt Nam sau hai lần lỡ hẹn](https://vnexpress.net/chan-chay-kenya-muon-dang-quang-o-viet-nam-sau-hai-lan-lo-hen-4898860.html) - 11:00 14/06/2025
+- 🪜 [VnExpress Marathon Quy Nhơn 2025 khởi tranh](https://vnexpress.net/vnexpress-marathon-quy-nhon-2025-khoi-tranh-4898920.html) - 19:00 14/06/2025
+- 🦩 [Bóng hồng truyền năng lượng trước giờ xuất phát VM Quy Nhơn 2025](https://vnexpress.net/bong-hong-truyen-nang-luong-truoc-gio-xuat-phat-vm-quy-nhon-2025-4898895.html) - 13:00 14/06/2025
 - 🧰 [Kỳ thủ Việt Nam tự đập vào đầu khi thua ở giải thế giới](https://vnexpress.net/ky-thu-viet-nam-tu-dap-vao-dau-khi-thua-o-giai-the-gioi-4898866.html) - 09:11 14/06/2025
 - 🤗 [HLV tuyển Trung Quốc sắp mất việc](https://vnexpress.net/hlv-tuyen-trung-quoc-sap-mat-viec-4898863.html) - 08:40 14/06/2025
 - 🥳 [Mascherano: &#39;Ảnh hưởng của Messi vượt qua thể thao&#39;](https://vnexpress.net/mascherano-anh-huong-cua-messi-vuot-qua-the-thao-4898783.html) - 08:31 14/06/2025
