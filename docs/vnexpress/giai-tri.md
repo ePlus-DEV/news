@@ -6,13 +6,13 @@ sidebar_position: 5
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Lan Khuê mặc đầm gợi cảm diễn vedette](https://vnexpress.net/lan-khue-mac-dam-goi-cam-dien-vedette-4898872.html) - 13:48 14/06/2025
 - 💫 [Fan đội nắng chờ xem concert &#39;Anh trai vượt ngàn chông gai&#39;](https://vnexpress.net/fan-doi-nang-cho-xem-concert-anh-trai-vuot-ngan-chong-gai-4898919.html) - 13:40 14/06/2025
-- 🌮 [Hàng nghìn fan đón Hoa hậu Thế giới Opal Suchata về nước](https://vnexpress.net/hang-nghin-fan-don-hoa-hau-the-gioi-opal-suchata-ve-nuoc-4898893.html) - 11:54 14/06/2025
+- 🌮 [Hàng nghìn người đón Miss World Opal Suchata về nước](https://vnexpress.net/hang-nghin-nguoi-don-miss-world-opal-suchata-ve-nuoc-4898893.html) - 11:54 14/06/2025
 - 🧠 [&#39;Hollywood tuột dốc vì nghiện hào quang cũ&#39;](https://vnexpress.net/hollywood-tuot-doc-vi-nghien-hao-quang-cu-4898825.html) - 10:38 14/06/2025
 - 👨‍🏫 [TVB quay bản mới &#39;Tiếu ngạo giang hồ&#39;](https://vnexpress.net/tvb-quay-ban-moi-tieu-ngao-giang-ho-4898858.html) - 08:31 14/06/2025
 - ⚗️ [The Rock chống chọi bệnh tật nhiều năm](https://vnexpress.net/the-rock-chong-choi-benh-tat-nhieu-nam-4898755.html) - 08:29 14/06/2025
 - 😎 [Hậu trường kỹ xảo 3D của &#39;Trạng Quỳnh nhí&#39;](https://vnexpress.net/hau-truong-ky-xao-3d-cua-trang-quynh-nhi-4898345.html) - 06:23 14/06/2025
 - 🫣 [Thủy Tiên - người mẫu cao 1,8 m tại Hoa hậu Hoàn vũ Việt Nam](https://vnexpress.net/thuy-tien-nguoi-mau-cao-1-8-m-tai-hoa-hau-hoan-vu-viet-nam-4898428.html) - 04:25 14/06/2025
-- 🪄 [Tác giả gen Z thắng giải thưởng Văn học Kim Đồng](https://vnexpress.net/tac-gia-gen-z-thang-giai-thuong-van-hoc-kim-dong-4898475.html) - 04:01 14/06/2025
+- 🪄 [Tác giả gen Z thắng giải Văn học Kim Đồng](https://vnexpress.net/tac-gia-gen-z-thang-giai-van-hoc-kim-dong-4898475.html) - 04:01 14/06/2025
 - 🤓 [Kanye West đến tòa ủng hộ &#39;trùm nhạc rap&#39; Diddy](https://vnexpress.net/kanye-west-den-toa-ung-ho-trum-nhac-rap-diddy-4898726.html) - 03:03 14/06/2025
 - 🫶 [Lương Triều Vỹ bẽn lẽn bên Lưu Gia Linh](https://vnexpress.net/luong-trieu-vy-ben-len-ben-luu-gia-linh-4898752.html) - 02:59 14/06/2025
 - 🧑‍🏫 [Hoa hậu, á hậu mặc trang phục đơn sắc dự show](https://vnexpress.net/hoa-hau-a-hau-mac-trang-phuc-don-sac-du-show-4898712.html) - 02:35 14/06/2025
