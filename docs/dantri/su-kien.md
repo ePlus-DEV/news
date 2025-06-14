@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [&quot;Xã mới sẽ là bộ não vận hành tại địa phương&quot;](https://dantri.com.vn/noi-vu/xa-moi-se-la-bo-nao-van-hanh-tai-dia-phuong-20250614173345171.htm) - 10:57 14/06/2025
+- 🎭 [Chính quyền xã mới là cam kết chính trị của Nhà nước đối với nhân dân](https://dantri.com.vn/noi-vu/chinh-quyen-xa-moi-la-cam-ket-chinh-tri-cua-nha-nuoc-doi-voi-nhan-dan-20250614173345171.htm) - 10:57 14/06/2025
 - 👨‍🏫 [Những dòng điều hòa nào sẽ vào diện chịu thuế tiêu thụ đặc biệt?](https://dantri.com.vn/cong-nghe/nhung-dong-dieu-hoa-nao-se-vao-dien-chiu-thue-tieu-thu-dac-biet-20250614142513644.htm) - 10:40 14/06/2025
 - 🌮 [Bộ trưởng Israel: Tehran sẽ bị thiêu rụi nếu Iran không dừng lại](https://dantri.com.vn/the-gioi/bo-truong-israel-tehran-se-bi-thieu-rui-neu-iran-khong-dung-lai-20250614171119523.htm) - 10:16 14/06/2025
 - 🕯 [Brazil tuyên bố Việt Nam chính thức trở thành &quot;quốc gia đối tác&quot; của BRICS](https://dantri.com.vn/kinh-doanh/brazil-tuyen-bo-viet-nam-chinh-thuc-tro-thanh-quoc-gia-doi-tac-cua-brics-20250614150854267.htm) - 08:44 14/06/2025
