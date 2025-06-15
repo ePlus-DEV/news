@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Sập mái sân pickleball, nhiều người tháo chạy](https://vnexpress.net/sap-mai-san-pickleball-nhieu-nguoi-thao-chay-4899132.html) - 13:10 15/06/2025
-- 🤓 [Ôtô tông liên hoàn ở TP HCM, hai mẹ con tử vong](https://vnexpress.net/oto-tong-lien-hoan-o-tp-hcm-hai-me-con-tu-vong-4899130.html) - 12:40 15/06/2025
+- 🤓 [Ôtô tông 7 xe máy ở TP HCM, hai mẹ con tử vong](https://vnexpress.net/oto-tong-7-xe-may-o-tp-hcm-hai-me-con-tu-vong-4899130.html) - 12:40 15/06/2025
 - ⚗️ [&#39;Cần xóa bỏ định kiến khi sáp nhập tỉnh thành&#39;](https://vnexpress.net/can-xoa-bo-dinh-kien-khi-sap-nhap-tinh-thanh-4899084.html) - 10:03 15/06/2025
 - 🌊 [Cháy cửa hàng bán nhân sâm ở TP HCM](https://vnexpress.net/chay-cua-hang-ban-nhan-sam-o-tp-hcm-4899100.html) - 09:27 15/06/2025
 - 🎓 [Miền Bắc tuần tới ngày nắng, đêm mưa giông](https://vnexpress.net/mien-bac-tuan-toi-ngay-nang-dem-mua-giong-4899061.html) - 09:07 15/06/2025
