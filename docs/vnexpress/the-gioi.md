@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Ông Trump dọa đáp trả toàn lực nếu Iran tấn công lực lượng Mỹ](https://vnexpress.net/ong-trump-doa-dap-tra-toan-luc-neu-iran-tan-cong-luc-luong-my-4899069.html) - 07:09 15/06/2025
-- 🕴 [Đội hình quân nhân, khí tài tại lễ duyệt binh lớn nhất 30 năm ở Mỹ](https://vnexpress.net/doi-hinh-quan-nhan-khi-tai-tai-le-duyet-binh-lon-nhat-30-nam-o-my-4898998.html) - 04:03 15/06/2025
-- 🤭 [Ông Netanyahu: Tiêm kích Israel sẽ sớm bay trên bầu trời Tehran](https://vnexpress.net/ong-netanyahu-tiem-kich-israel-se-som-bay-tren-bau-troi-tehran-4899019.html) - 03:47 15/06/2025
-- 🧑‍💻 [Tác động lan rộng từ chiến dịch tập kích của Israel - Iran](https://vnexpress.net/tac-dong-lan-rong-tu-chien-dich-tap-kich-cua-israel-iran-4898983.html) - 02:27 15/06/2025
-- 🦏 [Hàng trăm nghìn người biểu tình khắp nước Mỹ](https://vnexpress.net/hang-tram-nghin-nguoi-bieu-tinh-khap-nuoc-my-4898990.html) - 01:59 15/06/2025
-- 🦒 [Israel không kích trụ sở Bộ Quốc phòng Iran, Tehran đáp trả](https://vnexpress.net/israel-khong-kich-tru-so-bo-quoc-phong-iran-4898969.html) - 23:15 14/06/2025
-- 🌈 [Người dân Israel vừa mừng vừa lo về chiến dịch tấn công Iran](https://vnexpress.net/nguoi-dan-israel-vua-mung-vua-lo-ve-chien-dich-tan-cong-iran-4898823.html) - 18:00 14/06/2025
-- 🧑‍🏫 [Ông Putin điện đàm với ông Trump về tình hình Trung Đông](https://vnexpress.net/ong-putin-dien-dam-voi-ong-trump-ve-tinh-hinh-trung-dong-4898953.html) - 17:15 14/06/2025
-- 🐲 [Binh sĩ, xe tăng Mỹ duyệt binh ở Washington](https://vnexpress.net/my-sap-to-chuc-duyet-binh-o-washington-4898960-tong-thuat.html) - 17:02 14/06/2025
-- 🦒 [Lý do nhiều người biểu tình ở Los Angeles vẫy cờ Mexico](https://vnexpress.net/ly-do-nhieu-nguoi-bieu-tinh-o-los-angeles-vay-co-mexico-4897716.html) - 17:00 14/06/2025
-- 🐻 [Lệnh cấm nhập cảnh của Mỹ phủ bóng tầm nhìn World Cup của FIFA](https://vnexpress.net/lenh-cam-nhap-canh-cua-my-phu-bong-tam-nhin-world-cup-cua-fifa-4897262.html) - 17:00 14/06/2025
-- 🚀 [Chính trị gia đảng Dân chủ Mỹ bị bắn chết tại nhà riêng](https://vnexpress.net/chinh-tri-gia-dang-dan-chu-my-bi-ban-chet-tai-nha-rieng-4898938.html) - 15:37 14/06/2025
-- 🥰 [Việt Nam trở thành Nước Đối tác của BRICS](https://vnexpress.net/viet-nam-tro-thanh-nuoc-doi-tac-cua-brics-4898945.html) - 15:28 14/06/2025
-- 🔥 [Mẫu chiến đấu cơ được Israel dùng để tập kích Iran](https://vnexpress.net/mau-chien-dau-co-duoc-israel-dung-de-tap-kich-iran-4898939.html) - 15:14 14/06/2025
-- 🥳 [Israel tuyên bố tiêm kích &#39;tự do hoạt động&#39; tại một phần không phận Iran](https://vnexpress.net/israel-tuyen-bo-tiem-kich-tu-do-hoat-dong-tai-mot-phan-khong-phan-iran-4898922.html) - 14:52 14/06/2025
-- 💼 [Ukraine nhận thêm 1.200 thi thể từ Nga](https://vnexpress.net/ukraine-nhan-them-1-200-thi-the-tu-nga-4898913.html) - 13:31 14/06/2025
-- 🤡 [Tính toán của Israel khi tiến hành chiến dịch &#39;Sư tử Trỗi dậy&#39; với Iran](https://vnexpress.net/tinh-toan-cua-israel-khi-tien-hanh-chien-dich-su-tu-troi-day-voi-iran-4898718.html) - 12:30 14/06/2025
-- 🌁 [Bộ trưởng Quốc phòng Israel đe dọa &#39;thiêu rụi&#39; thủ đô Iran](https://vnexpress.net/bo-truong-quoc-phong-israel-de-doa-thieu-rui-thu-do-iran-4898882.html) - 10:42 14/06/2025
-- 🤩 [Cảnh đổ nát ở Israel sau đòn trả đũa của Iran](https://vnexpress.net/canh-do-nat-o-israel-sau-don-tra-dua-cua-iran-4898875.html) - 09:59 14/06/2025
+- 🎭 [Mỹ xác định nghi phạm bắn chết nghị sĩ Dân chủ tại nhà riêng](https://vnexpress.net/my-xac-dinh-nghi-pham-ban-chet-nghi-si-dan-chu-tai-nha-rieng-4899075.html) - 08:16 15/06/2025
+- 🕴 [Ông Trump dọa đáp trả toàn lực nếu Iran tấn công lực lượng Mỹ](https://vnexpress.net/ong-trump-doa-dap-tra-toan-luc-neu-iran-tan-cong-luc-luong-my-4899069.html) - 07:09 15/06/2025
+- 🤭 [Đội hình quân nhân, khí tài tại lễ duyệt binh lớn nhất 30 năm ở Mỹ](https://vnexpress.net/doi-hinh-quan-nhan-khi-tai-tai-le-duyet-binh-lon-nhat-30-nam-o-my-4898998.html) - 04:03 15/06/2025
+- 🧑‍💻 [Ông Netanyahu: Tiêm kích Israel sẽ sớm bay trên bầu trời Tehran](https://vnexpress.net/ong-netanyahu-tiem-kich-israel-se-som-bay-tren-bau-troi-tehran-4899019.html) - 03:47 15/06/2025
+- 🦏 [Tác động lan rộng từ chiến dịch tập kích của Israel - Iran](https://vnexpress.net/tac-dong-lan-rong-tu-chien-dich-tap-kich-cua-israel-iran-4898983.html) - 02:27 15/06/2025
+- 🦒 [Hàng trăm nghìn người biểu tình khắp nước Mỹ](https://vnexpress.net/hang-tram-nghin-nguoi-bieu-tinh-khap-nuoc-my-4898990.html) - 01:59 15/06/2025
+- 🌈 [Israel không kích trụ sở Bộ Quốc phòng Iran, Tehran đáp trả](https://vnexpress.net/israel-khong-kich-tru-so-bo-quoc-phong-iran-4898969.html) - 23:15 14/06/2025
+- 🧑‍🏫 [Người dân Israel vừa mừng vừa lo về chiến dịch tấn công Iran](https://vnexpress.net/nguoi-dan-israel-vua-mung-vua-lo-ve-chien-dich-tan-cong-iran-4898823.html) - 18:00 14/06/2025
+- 🐲 [Ông Putin điện đàm với ông Trump về tình hình Trung Đông](https://vnexpress.net/ong-putin-dien-dam-voi-ong-trump-ve-tinh-hinh-trung-dong-4898953.html) - 17:15 14/06/2025
+- 🦒 [Binh sĩ, xe tăng Mỹ duyệt binh ở Washington](https://vnexpress.net/my-sap-to-chuc-duyet-binh-o-washington-4898960-tong-thuat.html) - 17:02 14/06/2025
+- 🐻 [Lý do nhiều người biểu tình ở Los Angeles vẫy cờ Mexico](https://vnexpress.net/ly-do-nhieu-nguoi-bieu-tinh-o-los-angeles-vay-co-mexico-4897716.html) - 17:00 14/06/2025
+- 🚀 [Lệnh cấm nhập cảnh của Mỹ phủ bóng tầm nhìn World Cup của FIFA](https://vnexpress.net/lenh-cam-nhap-canh-cua-my-phu-bong-tam-nhin-world-cup-cua-fifa-4897262.html) - 17:00 14/06/2025
+- 🥰 [Chính trị gia đảng Dân chủ Mỹ bị bắn chết tại nhà riêng](https://vnexpress.net/chinh-tri-gia-dang-dan-chu-my-bi-ban-chet-tai-nha-rieng-4898938.html) - 15:37 14/06/2025
+- 🔥 [Việt Nam trở thành Nước Đối tác của BRICS](https://vnexpress.net/viet-nam-tro-thanh-nuoc-doi-tac-cua-brics-4898945.html) - 15:28 14/06/2025
+- 🥳 [Mẫu chiến đấu cơ được Israel dùng để tập kích Iran](https://vnexpress.net/mau-chien-dau-co-duoc-israel-dung-de-tap-kich-iran-4898939.html) - 15:14 14/06/2025
+- 💼 [Israel tuyên bố tiêm kích &#39;tự do hoạt động&#39; tại một phần không phận Iran](https://vnexpress.net/israel-tuyen-bo-tiem-kich-tu-do-hoat-dong-tai-mot-phan-khong-phan-iran-4898922.html) - 14:52 14/06/2025
+- 🤡 [Ukraine nhận thêm 1.200 thi thể từ Nga](https://vnexpress.net/ukraine-nhan-them-1-200-thi-the-tu-nga-4898913.html) - 13:31 14/06/2025
+- 🌁 [Tính toán của Israel khi tiến hành chiến dịch &#39;Sư tử Trỗi dậy&#39; với Iran](https://vnexpress.net/tinh-toan-cua-israel-khi-tien-hanh-chien-dich-su-tu-troi-day-voi-iran-4898718.html) - 12:30 14/06/2025
+- 🤩 [Bộ trưởng Quốc phòng Israel đe dọa &#39;thiêu rụi&#39; thủ đô Iran](https://vnexpress.net/bo-truong-quoc-phong-israel-de-doa-thieu-rui-thu-do-iran-4898882.html) - 10:42 14/06/2025
+- 🎉 [Cảnh đổ nát ở Israel sau đòn trả đũa của Iran](https://vnexpress.net/canh-do-nat-o-israel-sau-don-tra-dua-cua-iran-4898875.html) - 09:59 14/06/2025
 - 🎉 [Thêm hai tướng Iran thiệt mạng trong đòn không kích của Israel](https://vnexpress.net/them-hai-tuong-iran-thiet-mang-trong-don-khong-kich-cua-israel-4898855.html) - 09:10 14/06/2025
-- 🎉 [Dịch vụ &#39;trai đẹp&#39; dùng xe sang đưa phụ nữ đi hóng gió](https://vnexpress.net/dich-vu-trai-dep-dung-xe-sang-dua-phu-nu-di-hong-gio-4898725.html) - 07:43 14/06/2025
-- 🌁 [Số người chết trong vụ rơi máy bay Ấn Độ tăng lên 279](https://vnexpress.net/so-nguoi-chet-trong-vu-roi-may-bay-an-do-tang-len-279-4898840.html) - 07:36 14/06/2025
-- 🌊 [&#39;Mắt thần&#39; 16 triệu USD của tiêm kích Mỹ liên tục trục trặc](https://vnexpress.net/mat-than-16-trieu-usd-cua-tiem-kich-my-lien-tuc-truc-trac-4898074.html) - 05:51 14/06/2025
-- 🕴 [Khoảnh khắc tên lửa Iran xuyên thủng lưới phòng không Israel](https://vnexpress.net/khoanh-khac-ten-lua-iran-xuyen-thung-luoi-phong-khong-israel-4898782.html) - 04:30 14/06/2025
-- 🎓 [Tình báo Israel lên kế hoạch không kích Iran thế nào](https://vnexpress.net/tinh-bao-israel-len-ke-hoach-khong-kich-iran-the-nao-4898682.html) - 04:29 14/06/2025
-- 🦩 [Dân quân thân Iran yêu cầu lính Mỹ rút khỏi Iraq](https://vnexpress.net/dan-quan-than-iran-yeu-cau-linh-my-rut-khoi-iraq-4898709.html) - 04:27 14/06/2025
-- 🌏 [Tên lửa Iran có thể đã đánh trúng trụ sở Bộ Quốc phòng Israel](https://vnexpress.net/ten-lua-iran-co-the-da-danh-trung-tru-so-bo-quoc-phong-israel-4898746.html) - 03:21 14/06/2025
-- 🌋 [Ấn Độ tập trung điều tra động cơ, cánh tà của máy bay rơi](https://vnexpress.net/an-do-tap-trung-dieu-tra-dong-co-canh-ta-cua-may-bay-roi-4898700.html) - 02:55 14/06/2025
-- 🪜 [Tổ hợp phòng không, chiến hạm Mỹ tham gia chặn tên lửa Iran](https://vnexpress.net/to-hop-phong-khong-chien-ham-my-tham-gia-chan-ten-lua-iran-4898708.html) - 02:41 14/06/2025
-- 🕴 [Israel, Iran đấu khẩu tại Liên Hợp Quốc](https://vnexpress.net/israel-iran-dau-khau-tai-lien-hop-quoc-4898687.html) - 02:10 14/06/2025
-- 🧑‍🏫 [Iran tuyên bố bắn hạ hai tiêm kích F-35, Israel bác bỏ](https://vnexpress.net/iran-tuyen-bo-ban-ha-hai-tiem-kich-f-35-israel-bac-bo-4898689.html) - 01:20 14/06/2025
-- 🌮 [Ông Trump nói vẫn còn cơ hội đạt thỏa thuận với Iran](https://vnexpress.net/ong-trump-noi-van-con-co-hoi-dat-thoa-thuan-voi-iran-4898675.html) - 00:24 14/06/2025
-- 🚦 [Hệ quả nếu xung đột Israel - Iran lan rộng](https://vnexpress.net/he-qua-neu-xung-dot-israel-iran-lan-rong-4898599.html) - 23:51 13/06/2025
-- 💫 [Iran phóng tên lửa đạn đạo trả đũa Israel](https://vnexpress.net/iran-tuyen-bo-phong-hang-tram-ten-lua-tra-dua-israel-4898669-tong-thuat.html) - 22:59 13/06/2025
-- 🤡 [Rủi ro khi Israel tập kích cơ sở hạt nhân Iran](https://vnexpress.net/rui-ro-khi-israel-tap-kich-co-so-hat-nhan-iran-4898434.html) - 22:00 13/06/2025
-- 🦣 [Người Iran giận dữ, sợ hãi sau đòn không kích của Israel](https://vnexpress.net/nguoi-iran-gian-du-so-hai-sau-don-khong-kich-cua-israel-4898557.html) - 18:00 13/06/2025
-- 🎬 [Vệ binh, thủy quân lục chiến Mỹ làm gì ở Los Angeles?](https://vnexpress.net/ve-binh-thuy-quan-luc-chien-my-lam-gi-o-los-angeles-4897757.html) - 17:00 13/06/2025
-- 🎉 [Ukraine nhận 1.200 thi thể từ Nga](https://vnexpress.net/ukraine-nhan-1-200-thi-the-tu-nga-4898645.html) - 15:38 13/06/2025
-- 🎡 [Việt Nam - Thụy Điển trở thành Đối tác chiến lược lĩnh vực khoa học công nghệ](https://vnexpress.net/viet-nam-thuy-dien-tro-thanh-doi-tac-chien-luoc-linh-vuc-khoa-hoc-cong-nghe-4898633.html) - 14:45 13/06/2025
-- 🌜 [Quan chức Israel tiết lộ cách tiến hành chiến dịch tấn công Iran](https://vnexpress.net/quan-chuc-israel-tiet-lo-cach-tien-hanh-chien-dich-tan-cong-iran-4898517.html) - 13:57 13/06/2025
-- 🎡 [Iran nói cuộc không kích của Israel là &#39;lời tuyên bố chiến tranh&#39;](https://vnexpress.net/iran-noi-cuoc-khong-kich-cua-israel-la-loi-tuyen-bo-chien-tranh-4898548.html) - 12:59 13/06/2025
-- 🤗 [Việt Nam kêu gọi các bên ở Trung Đông kiềm chế](https://vnexpress.net/viet-nam-keu-goi-cac-ben-o-trung-dong-kiem-che-4898622.html) - 12:48 13/06/2025
-- 🦩 [Những người thoát chết trong gang tấc khi máy bay Ấn Độ rơi](https://vnexpress.net/nhung-nguoi-thoat-chet-trong-gang-tac-khi-may-bay-an-do-roi-4898582.html) - 12:30 13/06/2025
-- 🎓 [Nguyên nhân có thể khiến phi cơ Ấn Độ rơi ngay sau khi cất cánh](https://vnexpress.net/nguyen-nhan-co-the-khien-phi-co-an-do-roi-ngay-sau-khi-cat-canh-4898189.html) - 12:00 13/06/2025
-- 🌁 [Israel tiếp tục không kích Iran](https://vnexpress.net/israel-tiep-tuc-tan-cong-iran-4898611-tong-thuat.html) - 11:54 13/06/2025
-- 🤩 [Ông Trump kêu gọi Iran chấp nhận thỏa thuận trước khi &#39;không còn gì cả&#39;](https://vnexpress.net/ong-trump-keu-goi-iran-chap-nhan-thoa-thuan-truoc-khi-khong-con-gi-ca-4898585.html) - 11:49 13/06/2025
-- 👹 [Iran treo &#39;cờ máu báo thù&#39; sau vụ Israel không kích](https://vnexpress.net/iran-treo-co-mau-bao-thu-sau-vu-israel-khong-kich-4898560.html) - 10:18 13/06/2025
-- ⛽️ [Lãnh đạo thế giới kêu gọi Israel - Iran hạ nhiệt căng thẳng](https://vnexpress.net/lanh-dao-the-gioi-keu-goi-israel-iran-ha-nhiet-cang-thang-4898477.html) - 09:57 13/06/2025
-- 🚀 [Ông Trump biết trước về chiến dịch không kích Iran của Israel](https://vnexpress.net/ong-trump-biet-truoc-ve-chien-dich-khong-kich-iran-cua-israel-4898471.html) - 09:05 13/06/2025
-- 🎡 [Vùng trời Trung Đông vắng tanh khi Iran, Israel tập kích nhau](https://vnexpress.net/vung-troi-trung-dong-vang-tanh-khi-iran-israel-tap-kich-nhau-4898482.html) - 08:48 13/06/2025
-- 🕯 [Giá gạo cao - chủ đề sôi sục khắp Nhật Bản](https://vnexpress.net/gia-gao-cao-chu-de-soi-suc-khap-nhat-ban-4898012.html) - 08:43 13/06/2025
-- 🐻 [Đặc phái viên Mỹ: &#39;Đòn đáp trả của Iran vào Israel sẽ thảm khốc&#39;](https://vnexpress.net/dac-phai-vien-my-don-dap-tra-cua-iran-vao-israel-se-tham-khoc-4898354.html) - 08:42 13/06/2025
-- 🚦 [Thiên tài Trung Quốc từ nhỏ đã giải trí bằng sách Toán](https://vnexpress.net/thien-tai-trung-quoc-tu-nho-da-giai-tri-bang-sach-toan-4898104.html) - 08:06 13/06/2025
-- 👍 [Israel đã triển khai hơn 200 chiến đấu cơ cho chiến dịch phủ đầu Iran](https://vnexpress.net/israel-da-trien-khai-hon-200-chien-dau-co-cho-chien-dich-phu-dau-iran-4898420.html) - 07:46 13/06/2025
-- 🚀 [Bị dọa đánh bom, máy bay Ấn Độ hạ cánh khẩn ở Thái Lan](https://vnexpress.net/bi-doa-danh-bom-may-bay-an-do-ha-canh-khan-o-thai-lan-4898431.html) - 07:32 13/06/2025
-- 🌮 [Việt Nam khuyến cáo công dân ở Iran, Israel lên phương án sơ tán](https://vnexpress.net/viet-nam-khuyen-cao-cong-dan-o-iran-israel-len-phuong-an-so-tan-4898437.html) - 07:27 13/06/2025
-- 😎 [Khói lửa tại Iran sau đòn không kích phủ đầu của Israel](https://vnexpress.net/khoi-lua-tai-iran-sau-don-khong-kich-phu-dau-cua-israel-4898327.html) - 07:24 13/06/2025
-- 🐲 [Campuchia cắt Internet từ Thái Lan, yêu cầu quân đội &#39;cảnh giác cao độ&#39;](https://vnexpress.net/campuchia-cat-internet-tu-thai-lan-yeu-cau-quan-doi-canh-giac-cao-do-4898426.html) - 07:22 13/06/2025
-- 💫 [Tổng tham mưu trưởng quân đội Iran thiệt mạng trong đòn không kích của Israel](https://vnexpress.net/tong-tham-muu-truong-quan-doi-iran-thiet-mang-trong-don-khong-kich-cua-israel-4898389.html) - 06:54 13/06/2025
-- 👀 [Những vũ khí Iran có thể dùng để đáp trả Israel](https://vnexpress.net/nhung-vu-khi-iran-co-the-dung-de-dap-tra-israel-4898395.html) - 06:54 13/06/2025<!-- vnexpress-the-gioi:END -->
+- 🌁 [Dịch vụ &#39;trai đẹp&#39; dùng xe sang đưa phụ nữ đi hóng gió](https://vnexpress.net/dich-vu-trai-dep-dung-xe-sang-dua-phu-nu-di-hong-gio-4898725.html) - 07:43 14/06/2025
+- 🌊 [Số người chết trong vụ rơi máy bay Ấn Độ tăng lên 279](https://vnexpress.net/so-nguoi-chet-trong-vu-roi-may-bay-an-do-tang-len-279-4898840.html) - 07:36 14/06/2025
+- 🕴 [&#39;Mắt thần&#39; 16 triệu USD của tiêm kích Mỹ liên tục trục trặc](https://vnexpress.net/mat-than-16-trieu-usd-cua-tiem-kich-my-lien-tuc-truc-trac-4898074.html) - 05:51 14/06/2025
+- 🎓 [Khoảnh khắc tên lửa Iran xuyên thủng lưới phòng không Israel](https://vnexpress.net/khoanh-khac-ten-lua-iran-xuyen-thung-luoi-phong-khong-israel-4898782.html) - 04:30 14/06/2025
+- 🦩 [Tình báo Israel lên kế hoạch không kích Iran thế nào](https://vnexpress.net/tinh-bao-israel-len-ke-hoach-khong-kich-iran-the-nao-4898682.html) - 04:29 14/06/2025
+- 🌏 [Dân quân thân Iran yêu cầu lính Mỹ rút khỏi Iraq](https://vnexpress.net/dan-quan-than-iran-yeu-cau-linh-my-rut-khoi-iraq-4898709.html) - 04:27 14/06/2025
+- 🌋 [Tên lửa Iran có thể đã đánh trúng trụ sở Bộ Quốc phòng Israel](https://vnexpress.net/ten-lua-iran-co-the-da-danh-trung-tru-so-bo-quoc-phong-israel-4898746.html) - 03:21 14/06/2025
+- 🪜 [Ấn Độ tập trung điều tra động cơ, cánh tà của máy bay rơi](https://vnexpress.net/an-do-tap-trung-dieu-tra-dong-co-canh-ta-cua-may-bay-roi-4898700.html) - 02:55 14/06/2025
+- 🕴 [Tổ hợp phòng không, chiến hạm Mỹ tham gia chặn tên lửa Iran](https://vnexpress.net/to-hop-phong-khong-chien-ham-my-tham-gia-chan-ten-lua-iran-4898708.html) - 02:41 14/06/2025
+- 🧑‍🏫 [Israel, Iran đấu khẩu tại Liên Hợp Quốc](https://vnexpress.net/israel-iran-dau-khau-tai-lien-hop-quoc-4898687.html) - 02:10 14/06/2025
+- 🌮 [Iran tuyên bố bắn hạ hai tiêm kích F-35, Israel bác bỏ](https://vnexpress.net/iran-tuyen-bo-ban-ha-hai-tiem-kich-f-35-israel-bac-bo-4898689.html) - 01:20 14/06/2025
+- 🚦 [Ông Trump nói vẫn còn cơ hội đạt thỏa thuận với Iran](https://vnexpress.net/ong-trump-noi-van-con-co-hoi-dat-thoa-thuan-voi-iran-4898675.html) - 00:24 14/06/2025
+- 💫 [Hệ quả nếu xung đột Israel - Iran lan rộng](https://vnexpress.net/he-qua-neu-xung-dot-israel-iran-lan-rong-4898599.html) - 23:51 13/06/2025
+- 🤡 [Iran phóng tên lửa đạn đạo trả đũa Israel](https://vnexpress.net/iran-tuyen-bo-phong-hang-tram-ten-lua-tra-dua-israel-4898669-tong-thuat.html) - 22:59 13/06/2025
+- 🦣 [Rủi ro khi Israel tập kích cơ sở hạt nhân Iran](https://vnexpress.net/rui-ro-khi-israel-tap-kich-co-so-hat-nhan-iran-4898434.html) - 22:00 13/06/2025
+- 🎬 [Người Iran giận dữ, sợ hãi sau đòn không kích của Israel](https://vnexpress.net/nguoi-iran-gian-du-so-hai-sau-don-khong-kich-cua-israel-4898557.html) - 18:00 13/06/2025
+- 🎉 [Vệ binh, thủy quân lục chiến Mỹ làm gì ở Los Angeles?](https://vnexpress.net/ve-binh-thuy-quan-luc-chien-my-lam-gi-o-los-angeles-4897757.html) - 17:00 13/06/2025
+- 🎡 [Ukraine nhận 1.200 thi thể từ Nga](https://vnexpress.net/ukraine-nhan-1-200-thi-the-tu-nga-4898645.html) - 15:38 13/06/2025
+- 🌜 [Việt Nam - Thụy Điển trở thành Đối tác chiến lược lĩnh vực khoa học công nghệ](https://vnexpress.net/viet-nam-thuy-dien-tro-thanh-doi-tac-chien-luoc-linh-vuc-khoa-hoc-cong-nghe-4898633.html) - 14:45 13/06/2025
+- 🎡 [Quan chức Israel tiết lộ cách tiến hành chiến dịch tấn công Iran](https://vnexpress.net/quan-chuc-israel-tiet-lo-cach-tien-hanh-chien-dich-tan-cong-iran-4898517.html) - 13:57 13/06/2025
+- 🤗 [Iran nói cuộc không kích của Israel là &#39;lời tuyên bố chiến tranh&#39;](https://vnexpress.net/iran-noi-cuoc-khong-kich-cua-israel-la-loi-tuyen-bo-chien-tranh-4898548.html) - 12:59 13/06/2025
+- 🦩 [Việt Nam kêu gọi các bên ở Trung Đông kiềm chế](https://vnexpress.net/viet-nam-keu-goi-cac-ben-o-trung-dong-kiem-che-4898622.html) - 12:48 13/06/2025
+- 🎓 [Những người thoát chết trong gang tấc khi máy bay Ấn Độ rơi](https://vnexpress.net/nhung-nguoi-thoat-chet-trong-gang-tac-khi-may-bay-an-do-roi-4898582.html) - 12:30 13/06/2025
+- 🌁 [Nguyên nhân có thể khiến phi cơ Ấn Độ rơi ngay sau khi cất cánh](https://vnexpress.net/nguyen-nhan-co-the-khien-phi-co-an-do-roi-ngay-sau-khi-cat-canh-4898189.html) - 12:00 13/06/2025
+- 🤩 [Israel tiếp tục không kích Iran](https://vnexpress.net/israel-tiep-tuc-tan-cong-iran-4898611-tong-thuat.html) - 11:54 13/06/2025
+- 👹 [Ông Trump kêu gọi Iran chấp nhận thỏa thuận trước khi &#39;không còn gì cả&#39;](https://vnexpress.net/ong-trump-keu-goi-iran-chap-nhan-thoa-thuan-truoc-khi-khong-con-gi-ca-4898585.html) - 11:49 13/06/2025
+- ⛽️ [Iran treo &#39;cờ máu báo thù&#39; sau vụ Israel không kích](https://vnexpress.net/iran-treo-co-mau-bao-thu-sau-vu-israel-khong-kich-4898560.html) - 10:18 13/06/2025
+- 🚀 [Lãnh đạo thế giới kêu gọi Israel - Iran hạ nhiệt căng thẳng](https://vnexpress.net/lanh-dao-the-gioi-keu-goi-israel-iran-ha-nhiet-cang-thang-4898477.html) - 09:57 13/06/2025
+- 🎡 [Ông Trump biết trước về chiến dịch không kích Iran của Israel](https://vnexpress.net/ong-trump-biet-truoc-ve-chien-dich-khong-kich-iran-cua-israel-4898471.html) - 09:05 13/06/2025
+- 🕯 [Vùng trời Trung Đông vắng tanh khi Iran, Israel tập kích nhau](https://vnexpress.net/vung-troi-trung-dong-vang-tanh-khi-iran-israel-tap-kich-nhau-4898482.html) - 08:48 13/06/2025
+- 🐻 [Giá gạo cao - chủ đề sôi sục khắp Nhật Bản](https://vnexpress.net/gia-gao-cao-chu-de-soi-suc-khap-nhat-ban-4898012.html) - 08:43 13/06/2025
+- 🚦 [Đặc phái viên Mỹ: &#39;Đòn đáp trả của Iran vào Israel sẽ thảm khốc&#39;](https://vnexpress.net/dac-phai-vien-my-don-dap-tra-cua-iran-vao-israel-se-tham-khoc-4898354.html) - 08:42 13/06/2025
+- 👍 [Thiên tài Trung Quốc từ nhỏ đã giải trí bằng sách Toán](https://vnexpress.net/thien-tai-trung-quoc-tu-nho-da-giai-tri-bang-sach-toan-4898104.html) - 08:06 13/06/2025
+- 🚀 [Israel đã triển khai hơn 200 chiến đấu cơ cho chiến dịch phủ đầu Iran](https://vnexpress.net/israel-da-trien-khai-hon-200-chien-dau-co-cho-chien-dich-phu-dau-iran-4898420.html) - 07:46 13/06/2025
+- 🌮 [Bị dọa đánh bom, máy bay Ấn Độ hạ cánh khẩn ở Thái Lan](https://vnexpress.net/bi-doa-danh-bom-may-bay-an-do-ha-canh-khan-o-thai-lan-4898431.html) - 07:32 13/06/2025
+- 😎 [Việt Nam khuyến cáo công dân ở Iran, Israel lên phương án sơ tán](https://vnexpress.net/viet-nam-khuyen-cao-cong-dan-o-iran-israel-len-phuong-an-so-tan-4898437.html) - 07:27 13/06/2025
+- 🐲 [Khói lửa tại Iran sau đòn không kích phủ đầu của Israel](https://vnexpress.net/khoi-lua-tai-iran-sau-don-khong-kich-phu-dau-cua-israel-4898327.html) - 07:24 13/06/2025
+- 💫 [Campuchia cắt Internet từ Thái Lan, yêu cầu quân đội &#39;cảnh giác cao độ&#39;](https://vnexpress.net/campuchia-cat-internet-tu-thai-lan-yeu-cau-quan-doi-canh-giac-cao-do-4898426.html) - 07:22 13/06/2025
+- 👀 [Tổng tham mưu trưởng quân đội Iran thiệt mạng trong đòn không kích của Israel](https://vnexpress.net/tong-tham-muu-truong-quan-doi-iran-thiet-mang-trong-don-khong-kich-cua-israel-4898389.html) - 06:54 13/06/2025<!-- vnexpress-the-gioi:END -->
