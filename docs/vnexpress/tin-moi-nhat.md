@@ -58,5 +58,4 @@ sidebar_position: 9
 - 🔥 [Bạn gái chọn rời xa vì sợ là gánh nặng cho tôi trong tương lai](https://vnexpress.net/ban-gai-chon-roi-xa-vi-so-la-ganh-nang-cho-toi-trong-tuong-lai-4896591.html) - 11:00 15/06/2025
 - 💄 [Giây phút &#39;mưa tên lửa Iran&#39; dội xuống thành phố Israel](https://vnexpress.net/giay-phut-mua-ten-lua-iran-doi-xuong-thanh-pho-israel-4899109.html) - 10:43 15/06/2025
 - 🤡 [Muôn mặt cuộc đời qua truyện Ma Văn Kháng](https://vnexpress.net/muon-mat-cuoc-doi-qua-truyen-ma-van-khang-4899085.html) - 10:38 15/06/2025
-- ⛽️ [Hồ sơ FIFA Club World Cup: Bayern](https://vnexpress.net/ho-so-fifa-club-world-cup-bayern-4899096.html) - 10:19 15/06/2025
-- 🚀 [Hồ sơ FIFA Club World Cup: Porto](https://vnexpress.net/ho-so-fifa-club-world-cup-porto-4899103.html) - 10:18 15/06/2025<!-- vnexpress-tin-moi-nhat:END -->
+- ⛽️ [Hồ sơ FIFA Club World Cup: Bayern](https://vnexpress.net/ho-so-fifa-club-world-cup-bayern-4899096.html) - 10:19 15/06/2025<!-- vnexpress-tin-moi-nhat:END -->
