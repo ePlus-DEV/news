@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- vnexpress-the-gioi:START -->
 - 🎭 [Ông Trump: Israel và Iran sẽ sớm hòa bình](https://vnexpress.net/ong-trump-israel-va-iran-se-som-hoa-binh-4899148.html) - 15:40 15/06/2025
-- 🕴 [Iran lần đầu phóng tên lửa tấn công Israel vào ban ngày](https://vnexpress.net/iran-phong-ten-lua-dan-dao-israel-phat-bao-dong-4899135.html) - 13:23 15/06/2025
+- 🕴 [Iran lần đầu phóng tên lửa tấn công Israel vào ban ngày](https://vnexpress.net/iran-phong-ten-lua-dan-dao-israel-phat-bao-dong-4899135-tong-thuat.html) - 13:23 15/06/2025
 - 🤭 [&#39;Linh cảm kỳ lạ&#39; của hành khách trước vụ rơi máy bay ở Ấn Độ](https://vnexpress.net/linh-cam-ky-la-cua-hanh-khach-truoc-vu-roi-may-bay-o-an-do-4899121.html) - 13:19 15/06/2025
 - 🧑‍💻 [Luyện thi từ mẫu giáo ở Hàn Quốc](https://vnexpress.net/luyen-thi-tu-mau-giao-o-han-quoc-4897747.html) - 12:00 15/06/2025
 - 🦏 [Ukraine tuyên bố chặn loạt tên lửa Kinzhal, Kalibr của Nga](https://vnexpress.net/ukraine-tuyen-bo-chan-loat-ten-lua-kinzhal-kalibr-cua-nga-4899112.html) - 11:35 15/06/2025
