@@ -149,7 +149,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Những diễn biến mới nhất cuộc đối đầu trực diện Israel - Iran](https://thanhnien.vn/nhung-dien-bien-moi-nhat-cuoc-doi-dau-truc-dien-israel-iran-185250615221608509.htm) - 16:00 15/06/2025
+- 🤠 [Billiards: Trần Quyết Chiến thua tiếc nuối &#39;ông vua trận chung kết&#39;, giành ngôi á quân World Cup Ankara](https://thanhnien.vn/billiards-tran-quyet-chien-thua-tiec-nuoi-ong-vua-tran-chung-ket-gianh-ngoi-a-quan-world-cup-ankara-185250615230255322.htm) - 16:07 15/06/2025
 - 🥸 [Xe Jeep tông nhiều xe máy trên đường Kinh Dương Vương, hai mẹ con tử vong](https://thanhnien.vn/xe-jeep-tong-nhieu-xe-may-tren-duong-kinh-duong-vuong-hai-me-con-tu-vong-185250615224310463.htm) - 15:50 15/06/2025
 - 🌁 [Buổi chơi pickleball bất ổn: Giông lốc thổi bay mái sân, nhiều người tháo chạy](https://thanhnien.vn/buoi-choi-pickleball-bat-on-giong-loc-thoi-bay-mai-san-nhieu-nguoi-thao-chay-18525061522414599.htm) - 15:42 15/06/2025
 - 🤡 [Ngành thuế lên tiếng về việc hộ kinh doanh đóng cửa hàng loạt](https://thanhnien.vn/nganh-thue-len-tieng-ve-viec-ho-kinh-doanh-dong-cua-hang-loat-185250615220131973.htm) - 15:21 15/06/2025
