@@ -589,7 +589,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Trực tiếp Palmeiras vs Porto, 05h00 ngày 16/6: Chờ đợi mưa bàn thắng](https://tienphong.vn/truc-tiep-palmeiras-vs-porto-05h00-ngay-166-cho-doi-mua-ban-thang-post1751455.tpo) - 04:15 16/06/2025
+- 💼 [Trực tiếp Palmeiras vs Porto 0-0 &lpar;H1&rpar;: Porto gặp khó](https://tienphong.vn/truc-tiep-palmeiras-vs-porto-0-0-h1-porto-gap-kho-post1751455.tpo) - 04:15 16/06/2025
 - 🎊 [Hàng trăm &#39;quái xế&#39; tụ tập, la hét náo loạn cả tuyến phố trung tâm Hải Phòng](https://tienphong.vn/hang-tram-quai-xe-tu-tap-la-het-nao-loan-ca-tuyen-pho-trung-tam-hai-phong-post1751456.tpo) - 22:40 15/06/2025
 - 💼 [Phát hiện hố &#39;tử thần&#39; miệng sâu hoắm trong vườn nhà dân ở Quảng Trị](https://tienphong.vn/phat-hien-ho-tu-than-mieng-sau-hoam-trong-vuon-nha-dan-o-quang-tri-post1751454.tpo) - 22:32 15/06/2025
 - 👺 [Sân chơi Pickleball rộng hàng trăm m2 đổ sập trong cơn mưa giông ở Hà Nội](https://tienphong.vn/san-choi-pickleball-rong-hang-tram-m2-do-sap-trong-con-mua-giong-o-ha-noi-post1751453.tpo) - 22:22 15/06/2025
