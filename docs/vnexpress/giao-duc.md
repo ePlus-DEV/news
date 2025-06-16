@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Đại học Bách khoa TP HCM cho thí sinh lựa chọn tổ hợp xét tuyển](https://vnexpress.net/dai-hoc-bach-khoa-tp-hcm-cho-thi-sinh-lua-chon-to-hop-xet-tuyen-4899445.html) - 07:43 16/06/2025
+- 🤓 [Đại học Bách khoa TP HCM đổi công thức tính điểm xét tuyển](https://vnexpress.net/dai-hoc-bach-khoa-tp-hcm-doi-cong-thuc-tinh-diem-xet-tuyen-4899445.html) - 07:43 16/06/2025
 - 🦆 [Thủ khoa đa tài của THPT chuyên Phan Bội Châu](https://vnexpress.net/thu-khoa-da-tai-cua-thpt-chuyen-phan-boi-chau-4899409.html) - 06:30 16/06/2025
 - 🦩 [Ôn luyện 2-3 năm để tranh suất lớp 6 trường &#39;hot&#39; nhất TP HCM](https://vnexpress.net/on-luyen-2-3-nam-de-tranh-suat-lop-6-truong-hot-nhat-tp-hcm-4899229.html) - 03:08 16/06/2025
 - 🌮 [Kỷ lục gia Olympic Toán quốc tế: AI chưa thể thay thế nhà Toán học](https://vnexpress.net/ky-luc-gia-olympic-toan-quoc-te-ai-chua-the-thay-the-nha-toan-hoc-4898315.html) - 23:00 15/06/2025
