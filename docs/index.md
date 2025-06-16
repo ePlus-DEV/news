@@ -142,7 +142,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Báo Thanh Niên nhận 3 giải cao của Giải báo chí Hải Triều lần thứ 6](https://thanhnien.vn/bao-thanh-nien-nhan-3-giai-cao-cua-giai-bao-chi-hai-trieu-lan-thu-6-185250616154353656.htm) - 14:39 16/06/2025
+- 🤠 [Báo Thanh Niên nhận Giải báo chí Hải Triều lần thứ 6](https://thanhnien.vn/bao-thanh-nien-nhan-3-giai-cao-cua-giai-bao-chi-hai-trieu-lan-thu-6-185250616154353656.htm) - 14:39 16/06/2025
 - 🥸 [Thót tim cảnh dù lượn rơi thẳng xuống biển giữa hàng trăm du khách ở Hạ Long](https://thanhnien.vn/thot-tim-canh-du-luon-roi-thang-xuong-bien-giua-hang-tram-du-khach-o-ha-long-185250616212953647.htm) - 14:37 16/06/2025
 - 🌁 [Đà Lạt: Đổ trộm hàng trăm chai mỹ phẩm, thực phẩm chức năng ở bãi rác bên đường](https://thanhnien.vn/da-lat-do-trom-hang-tram-chai-my-pham-thuc-pham-chuc-nang-o-bai-rac-ben-duong-185250616202628249.htm) - 14:36 16/06/2025
 - 🤡 [Cổng tra cứu điểm thi năng lực ĐH Quốc gia TP.HCM bị nghẽn nhiều giờ](https://thanhnien.vn/cong-tra-cuu-diem-thi-nang-luc-dh-quoc-gia-tphcm-bi-nghen-nhieu-gio-18525061621161189.htm) - 14:32 16/06/2025
