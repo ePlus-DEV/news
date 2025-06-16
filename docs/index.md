@@ -521,7 +521,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Nữ sinh Trung học Thực hành Đại học Sư phạm đoạt giải nhì thiết kế đồ họa cấp quốc gia](https://muctim.tuoitre.vn/nu-sinh-trung-hoc-thuc-hanh-dai-hoc-su-pham-doat-giai-nhi-thiet-ke-do-hoa-cap-quoc-gia-101250616142711568.htm) - 11:25 16/06/2025
-- 🥷 [Heo xanh Pig Bang lời chúc tất thắng 2k7 Trường THPT Bùi Thị Xuân tự gửi đến chính mình](https://muctim.tuoitre.vn/heo-xanh-pig-bang-loi-chuc-tat-thang-2k7-truong-thpt-bui-thi-xuan-tu-gui-den-chinh-minh-101250616161621451.htm) - 11:16 16/06/2025
+- 🥷 [Heo xanh Pig Bang: lời chúc tất thắng 2k7 Trường THPT Bùi Thị Xuân tự gửi đến chính mình](https://muctim.tuoitre.vn/heo-xanh-pig-bang-loi-chuc-tat-thang-2k7-truong-thpt-bui-thi-xuan-tu-gui-den-chinh-minh-101250616161621451.htm) - 11:16 16/06/2025
 - 🤖 [Cách tra cứu điểm thi, điểm chuẩn lớp 10 Trường THPT chuyên Ngoại ngữ Hà Nội](https://muctim.tuoitre.vn/cach-tra-cuu-diem-thi-diem-chuan-lop-10-truong-thpt-chuyen-ngoai-ngu-ha-noi-101250616180447749.htm) - 11:14 16/06/2025
 - 🤓 [Nam Định công bố điểm chuẩn tuyển sinh lớp 10 dự kiến](https://muctim.tuoitre.vn/nam-dinh-cong-bo-diem-chuan-tuyen-sinh-lop-10-du-kien-101250616173233647.htm) - 11:03 16/06/2025
 - 🎉 [Thủ khoa chuyên Anh Trường Phổ thông Năng khiếu thích thể thao, mê văn nghệ](https://muctim.tuoitre.vn/thu-khoa-chuyen-anh-truong-pho-thong-nang-khieu-thich-the-thao-me-van-nghe-101250610181916467.htm) - 10:27 16/06/2025
