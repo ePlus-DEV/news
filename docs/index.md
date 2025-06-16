@@ -257,7 +257,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🔥 [Giám đốc Đại học Duy Tân: Có kiến thức chuyên môn vững mới làm chủ được AI](https://nld.com.vn/giam-doc-dai-hoc-duy-tan-co-kien-thuc-chuyen-mon-vung-moi-lam-chu-duoc-ai-196250616203051822.htm) - 13:51 16/06/2025
 - 🧰 [Đề xuất mô hình tổ hợp báo chí, giữ lại những tờ báo có thương hiệu lớn](https://nld.com.vn/de-xuat-mo-hinh-to-hop-bao-chi-giu-lai-nhung-to-bao-co-thuong-hieu-lon-196250616202140342.htm) - 13:36 16/06/2025
 - 🤗 [Nữ sinh 13 tuổi đột quỵ trong lúc tập văn nghệ](https://nld.com.vn/nu-sinh-13-tuoi-dot-quy-trong-luc-tap-van-nghe-196250616201118033.htm) - 13:22 16/06/2025
-- 🦅 [Chi tiết 126 phường, xã ở Hà Nội sau sáp nhập](https://nld.com.vn/chi-tiet-126-phuong-xa-o-ha-noi-sau-sap-nhap-196250616193322249.htm) - 13:01 16/06/2025
+- 🦅 [Tên gọi mới của 126 phường, xã ở Hà Nội sau sáp nhập thế nào?](https://nld.com.vn/chi-tiet-126-phuong-xa-o-ha-noi-sau-sap-nhap-196250616193322249.htm) - 13:01 16/06/2025
 - 🤩 [TAND TP Bạc Liêu bàn giao hồ sơ vụ bị can Dương Tấn Thiện cho VKSND](https://nld.com.vn/tand-tp-bac-lieu-ban-giao-ho-so-vu-bi-can-duong-tan-thien-cho-vksnd-196250616194237806.htm) - 12:51 16/06/2025
 - 🎭 [Đà Lạt: Đi câu cá trong mưa lớn, 1 người bị nước cuốn](https://nld.com.vn/da-lat-di-cau-ca-trong-mua-lon-1-nguoi-bi-nuoc-cuon-196250616192812972.htm) - 12:43 16/06/2025
 - 💄 [Nỗi lo của hộ kinh doanh chợ Tân Định](https://nld.com.vn/noi-lo-cua-ho-kinh-doanh-cho-tan-dinh-196250616191928483.htm) - 12:37 16/06/2025
