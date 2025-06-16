@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Trường THPT chuyên Ngoại ngữ sắp công bố điểm chuẩn](https://dantri.com.vn/giao-duc/truong-thpt-chuyen-ngoai-ngu-sap-cong-bo-diem-chuan-20250615095218953.htm) - 08:57 16/06/2025
+- 🤡 [Điểm thi, điểm chuẩn Trường THPT chuyên Ngoại ngữ](https://dantri.com.vn/giao-duc/diem-thi-diem-chuan-truong-thpt-chuyen-ngoai-ngu-20250615095218953.htm) - 08:57 16/06/2025
 - 🗽 [Trường đại học dùng phương thức “lạ” tuyển sinh, thí sinh tự chọn tổ hợp](https://dantri.com.vn/giao-duc/truong-dai-hoc-dung-phuong-thuc-la-tuyen-sinh-thi-sinh-tu-chon-to-hop-20250616154414182.htm) - 08:46 16/06/2025
 - 🚦 [Ba học sinh trường huyện tạo bất ngờ trong kỳ thi vào lớp 10 ở Nghệ An](https://dantri.com.vn/giao-duc/ba-hoc-sinh-truong-huyen-tao-bat-ngo-trong-ky-thi-vao-lop-10-o-nghe-an-20250616131716286.htm) - 07:39 16/06/2025
 - 🌋 [Thí sinh than không xem được điểm thi đánh giá năng lực ĐH Quốc gia TPHCM](https://dantri.com.vn/giao-duc/thi-sinh-than-khong-xem-duoc-diem-thi-danh-gia-nang-luc-dh-quoc-gia-tphcm-20250616124300865.htm) - 05:48 16/06/2025
