@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [Thắng Indonesia, U19 nữ Việt Nam gặp Thái Lan ở trận chung kết](https://dantri.com.vn/the-thao/thang-indonesia-u19-nu-viet-nam-gap-thai-lan-o-tran-chung-ket-20250616215941613.htm) - 14:59 16/06/2025
 - 💯 [Man Utd tự tin đánh bại Tottenham trong thương vụ Bryan Mbeumo](https://dantri.com.vn/the-thao/man-utd-tu-tin-danh-bai-tottenham-trong-thuong-vu-bryan-mbeumo-20250616211349181.htm) - 14:14 16/06/2025
-- ⛽️ [Báo Malaysia lo ngại tuyển Việt Nam nhập tịch ồ ạt để phục hận](https://dantri.com.vn/the-thao/bao-malaysia-lo-ngai-tuyen-viet-nam-nhap-tich-o-at-de-phuc-han-20250616195121369.htm) - 12:53 16/06/2025
+- ⛽️ [Báo Malaysia lo ngại tuyển Việt Nam nhập tịch ồ ạt để phục hận](https://dantri.com.vn/the-thao/bao-malaysia-lo-ngai-tuyen-viet-nam-nhap-tich-o-at-de-phuc-han-20250616195121369.htm) - 13:30 16/06/2025
 - 💃 [HLV Kim Sang Sik chỉ ra đối thủ lớn nhất của U23 Việt Nam](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-chi-ra-doi-thu-lon-nhat-cua-u23-viet-nam-20250616191603022.htm) - 12:17 16/06/2025
 - 🌈 [J.J. Spaun vô địch giải golf US Open 2025](https://dantri.com.vn/the-thao/jj-spaun-vo-dich-giai-golf-us-open-2025-20250616143912046.htm) - 12:00 16/06/2025
 - 🦅 [Chuyên gia tuyên bố bất ngờ về việc tuyển Malaysia nhập tịch ồ ạt](https://dantri.com.vn/the-thao/chuyen-gia-tuyen-bo-bat-ngo-ve-viec-tuyen-malaysia-nhap-tich-o-at-20250616134013783.htm) - 06:40 16/06/2025
