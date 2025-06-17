@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Hơn 100.000 lượt khách trải nghiệm lễ hội ẩm thực Saigontourist tại Nhật Bản](https://vnexpress.net/hon-100-000-luot-khach-trai-nghiem-le-hoi-am-thuc-saigontourist-tai-nhat-ban-4899613.html) - 08:00 17/06/2025
-- 🪄 [Israel - nơi 40.000 du khách đang bị mắc kẹt](https://vnexpress.net/israel-noi-40-000-du-khach-dang-bi-mac-ket-4899795.html) - 07:59 17/06/2025
+- 🪄 [40.000 du khách đang bị mắc kẹt ở Israel](https://vnexpress.net/40-000-du-khach-dang-bi-mac-ket-o-israel-4899795.html) - 07:59 17/06/2025
 - 🦅 [Khinh khí cầu chở khách du lịch rơi liên tiếp ở Thổ Nhĩ Kỳ](https://vnexpress.net/khinh-khi-cau-cho-khach-du-lich-roi-lien-tiep-o-tho-nhi-ky-4899893.html) - 07:40 17/06/2025
 - 🕴 [9 thành phố châu Âu nên đến mùa hè này](https://vnexpress.net/9-thanh-pho-chau-au-nen-den-mua-he-nay-4897782.html) - 06:00 17/06/2025
 - 👀 [Du khách quốc tế kể chuyện &#39;vượt nắng, ngâm đá&#39; ở giải chạy Quy Nhơn](https://vnexpress.net/du-khach-quoc-te-ke-chuyen-vuot-nang-ngam-da-o-giai-chay-quy-nhon-4899066.html) - 06:00 17/06/2025
