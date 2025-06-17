@@ -4,8 +4,8 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Chủ kênh Tiktok &#39;Gia đình Hải Sen&#39; bị bắt vì bán hàng giả](https://vnexpress.net/chu-kenh-tiktok-gia-dinh-hai-sen-bi-bat-vi-ban-hang-gia-4899873.html) - 05:07 17/06/2025
-- 🥰 [Dùng AI tạo &#39;cơn lốc sinh viên ma&#39; để gian lận hàng triệu USD hỗ trợ tài chính](https://vnexpress.net/ke-lua-dao-dung-ai-tao-sinh-vien-ma-danh-cap-hang-trieu-usd-4899603.html) - 04:40 17/06/2025
+- 😎 [500 kg ma tuý được tiêu huỷ bằng lò thiêu](https://vnexpress.net/500-kg-ma-tuy-duoc-tieu-huy-bang-lo-thieu-4899918.html) - 07:16 17/06/2025
+- 🥰 [Chủ kênh Tiktok &#39;Gia đình Hải Sen&#39; bị bắt vì bán hàng giả](https://vnexpress.net/chu-kenh-tiktok-gia-dinh-hai-sen-bi-bat-vi-ban-hang-gia-4899873.html) - 05:07 17/06/2025
 - 🎓 [Tòa phúc thẩm xét đơn xin giảm án của ba anh em ông Trịnh Văn Quyết](https://vnexpress.net/toa-phuc-tham-xet-khang-cao-cua-ong-trinh-van-quyet-4899677.html) - 00:55 17/06/2025
 - 🤓 [Bi kịch của thiếu nữ muốn bỏ nhà đi cùng bạn trai](https://vnexpress.net/bi-kich-cua-thieu-nu-muon-bo-tron-cung-ban-trai-4899577.html) - 17:00 16/06/2025
 - 🎊 [&#39;Người cũ&#39; từ chối đứng tên trên giấy khai sinh của con tôi](https://vnexpress.net/nguoi-cu-tu-choi-dung-ten-tren-giay-khai-sinh-cua-con-toi-4898363.html) - 17:00 16/06/2025
