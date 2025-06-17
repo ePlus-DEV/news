@@ -11,7 +11,7 @@ sidebar_position: 3
 - 🦅 [Mỹ - Anh công bố chi tiết thỏa thuận thương mại](https://vnexpress.net/my-anh-cong-bo-chi-tiet-thoa-thuan-thuong-mai-4899778.html) - 03:49 17/06/2025
 - 😺 [Xăng dầu được giảm 2% thuế VAT tới hết 2026](https://vnexpress.net/xang-dau-duoc-giam-2-thue-vat-toi-het-2026-4899718.html) - 02:33 17/06/2025
 - 🤩 [Siết điều kiện phát hành trái phiếu riêng lẻ của doanh nghiệp](https://vnexpress.net/siet-dieu-kien-phat-hanh-trai-phieu-rieng-le-cua-doanh-nghiep-4899703.html) - 02:02 17/06/2025
-- 🌮 [Phó cục trưởng Cục Thuế trả lời &#39;hộ kinh doanh có bị truy thu thuế hay không&#39;](https://vnexpress.net/vnexpress-tu-van-truc-tuyen-cho-ho-kinh-doanh-bo-thue-khoan-4899123.html) - 02:00 17/06/2025
+- 🌮 [Phó cục trưởng Cục Thuế: Hộ kinh doanh không bị truy thu thuế khoán](https://vnexpress.net/vnexpress-tu-van-truc-tuyen-cho-ho-kinh-doanh-bo-thue-khoan-4899123.html) - 02:00 17/06/2025
 - 🧰 [PNJ vào top 500 Fortune Đông Nam Á nhờ tăng trưởng bền vững](https://vnexpress.net/pnj-vao-top-500-fortune-dong-nam-a-nho-tang-truong-ben-vung-4898580.html) - 23:00 16/06/2025
 - 🤔 [Nhà hàng đầu tiên tại Mexico vận hành không rác thải](https://vnexpress.net/nha-hang-dau-tien-tai-mexico-van-hanh-khong-rac-thai-4899387.html) - 17:56 16/06/2025
 - 🧑‍💻 [Hơn 3.100 vụ vi phạm bị xử lý sau một tháng truy quét hàng giả](https://vnexpress.net/hon-3-100-vu-vi-pham-bi-xu-ly-sau-mot-thang-truy-quet-hang-gia-4899625.html) - 17:30 16/06/2025
