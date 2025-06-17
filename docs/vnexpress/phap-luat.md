@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Tòa phúc thẩm xét kháng cáo xin giảm án của ông Trịnh Văn Quyết](https://vnexpress.net/toa-phuc-tham-xet-khang-cao-cua-ong-trinh-van-quyet-4899677.html) - 00:55 17/06/2025
+- 😎 [Tòa phúc thẩm xét đơn xin giảm án của ba anh em ông Trịnh Văn Quyết](https://vnexpress.net/toa-phuc-tham-xet-khang-cao-cua-ong-trinh-van-quyet-4899677.html) - 00:55 17/06/2025
 - 🥰 [Bi kịch của thiếu nữ muốn bỏ nhà đi cùng bạn trai](https://vnexpress.net/bi-kich-cua-thieu-nu-muon-bo-tron-cung-ban-trai-4899577.html) - 17:00 16/06/2025
 - 🎓 [&#39;Người cũ&#39; từ chối đứng tên trên giấy khai sinh của con tôi](https://vnexpress.net/nguoi-cu-tu-choi-dung-ten-tren-giay-khai-sinh-cua-con-toi-4898363.html) - 17:00 16/06/2025
 - 🤓 [Lời khai của tài xế xe Jeep tông 2 mẹ con tử vong](https://vnexpress.net/loi-khai-cua-tai-xe-xe-jeep-tong-2-me-con-tu-vong-4899648.html) - 16:16 16/06/2025
