@@ -6,9 +6,9 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [HLV Shin Tae-yong sẵn lòng dẫn dắt tuyển Trung Quốc](https://vnexpress.net/hlv-shin-tae-yong-san-long-dan-dat-tuyen-trung-quoc-4902948.html) - 20:06 17/06/2025
 - 🦩 [HLV Toni Nadal: &#39;Alcaraz may không gặp Federer, Djokovic&#39;](https://vnexpress.net/hlv-toni-nadal-alcaraz-may-khong-gap-federer-djokovic-4902940.html) - 19:41 17/06/2025
-- 🧰 [Đội HLV Park Hang-seo làm cố vấn lên hạng](https://vnexpress.net/doi-hlv-park-hang-seo-lam-co-van-len-hang-4902971.html) - 14:53 17/06/2025
+- 🧰 [Đội bóng của HLV Park Hang-seo lên hạng](https://vnexpress.net/doi-bong-cua-hlv-park-hang-seo-len-hang-4902971.html) - 14:53 17/06/2025
 - 🤗 [Hành trình 8.000 km vô địch VM Quy Nhơn của runner Kenya](https://vnexpress.net/hanh-trinh-8-000-km-vo-dich-vm-quy-nhon-cua-runner-kenya-4899691.html) - 11:00 17/06/2025
-- 🥳 [Giám đốc Man Utd muốn vô địch Ngoại hạng Anh 2028](https://vnexpress.net/giam-doc-man-utd-muon-vo-dich-ngoai-hang-anh-2028-4902899.html) - 10:46 17/06/2025
+- 🥳 [Lãnh đạo Man Utd muốn vô địch Ngoại hạng Anh 2028](https://vnexpress.net/lanh-dao-man-utd-muon-vo-dich-ngoai-hang-anh-2028-4902899.html) - 10:46 17/06/2025
 - 🦣 [Chủ tịch VFF: &#39;Việt Nam không thể nhập tịch ồ ạt như Malaysia, Indonesia&#39;](https://vnexpress.net/chu-tich-vff-viet-nam-khong-the-nhap-tich-o-at-nhu-malaysia-indonesia-4902889.html) - 09:37 17/06/2025
 - 🌜 [Nỗi lo sau núi tiền thưởng của FIFA Club World Cup](https://vnexpress.net/noi-lo-sau-nui-tien-thuong-cua-fifa-club-world-cup-4899457.html) - 08:58 17/06/2025
 - 🫶 [Neymar không muốn bị so sánh với Messi](https://vnexpress.net/neymar-khong-muon-bi-so-sanh-voi-messi-4899874.html) - 07:06 17/06/2025
