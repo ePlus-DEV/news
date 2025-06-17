@@ -588,9 +588,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Trực tiếp Dortmund vs Fluminense, 23h00 ngày 17/6: Vàng thử lửa](https://tienphong.vn/truc-tiep-dortmund-vs-fluminense-23h00-ngay-176-vang-thu-lua-post1752211.tpo) - 22:18 17/06/2025
+- 💼 [Trực tiếp Dortmund vs Fluminense 0-0 &lpar;H1&rpar;: Thế trận giằng co](https://tienphong.vn/truc-tiep-dortmund-vs-fluminense-0-0-h1-the-tran-giang-co-post1752211.tpo) - 22:18 17/06/2025
 - 🎊 [Cận cảnh hiện trường vụ nổ khiến 2 người tử vong ở Hà Nội](https://tienphong.vn/can-canh-hien-truong-vu-no-khien-2-nguoi-tu-vong-o-ha-noi-post1752205.tpo) - 22:13 17/06/2025
-- 💼 [Nhà máy rác duy nhất Cà Mau tạm đóng cửa](https://tienphong.vn/nha-may-rac-duy-nhat-ca-mau-tam-dong-cua-post1752193.tpo) - 22:03 17/06/2025
+- 💼 [Nhà máy rác duy nhất ở Cà Mau tạm đóng cửa](https://tienphong.vn/nha-may-rac-duy-nhat-o-ca-mau-tam-dong-cua-post1752193.tpo) - 22:03 17/06/2025
 - 👺 [Hà Nội yêu cầu &#39;khóa sổ&#39; 3 lĩnh vực hành chính cấp huyện trong ngày 30/6](https://tienphong.vn/ha-noi-yeu-cau-khoa-so-3-linh-vuc-hanh-chinh-cap-huyen-trong-ngay-306-post1752187.tpo) - 22:02 17/06/2025
 - 💪 [Lời khai của người đàn ông đạp nữ tài xế xe ôm ngã nhào ở Bình Dương](https://tienphong.vn/loi-khai-cua-nguoi-dan-ong-dap-nu-tai-xe-xe-om-nga-nhao-o-binh-duong-post1752204.tpo) - 21:59 17/06/2025
 - 💃 [Tài xế taxi &#39;chặt chém&#39; khách 4,2 triệu đồng bị tạm giữ hình sự](https://tienphong.vn/tai-xe-taxi-chat-chem-khach-42-trieu-dong-bi-tam-giu-hinh-su-post1752190.tpo) - 21:38 17/06/2025
