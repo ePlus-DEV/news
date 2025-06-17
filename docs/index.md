@@ -590,7 +590,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- hoahoctro:START -->
 - 💼 [Thân hình &#39;da bọc xương&#39; của con gái Choi Jin Sil](https://tienphong.vn/than-hinh-da-boc-xuong-cua-con-gai-choi-jin-sil-post1752137.tpo) - 23:48 17/06/2025
 - 🎊 [Cảnh không thể tưởng tượng nổi ở bảo tàng](https://tienphong.vn/canh-khong-the-tuong-tuong-noi-o-bao-tang-post1752144.tpo) - 23:43 17/06/2025
-- 💼 [Trực tiếp Dortmund vs Fluminense 0-0 &lpar;H2&rpar;: Hiệp 2 bắt đầu](https://tienphong.vn/truc-tiep-dortmund-vs-fluminense-0-0-h2-hiep-2-bat-dau-post1752211.tpo) - 22:18 17/06/2025
+- 💼 [Fluminense khiến Dortmund &#39;im tiếng&#39;](https://tienphong.vn/fluminense-khien-dortmund-im-tieng-post1752211.tpo) - 22:18 17/06/2025
 - 👺 [Cận cảnh hiện trường vụ nổ khiến 2 người tử vong ở Hà Nội](https://tienphong.vn/can-canh-hien-truong-vu-no-khien-2-nguoi-tu-vong-o-ha-noi-post1752205.tpo) - 22:13 17/06/2025
 - 💪 [Nhà máy rác duy nhất ở Cà Mau tạm đóng cửa](https://tienphong.vn/nha-may-rac-duy-nhat-o-ca-mau-tam-dong-cua-post1752193.tpo) - 22:03 17/06/2025
 - 💃 [Hà Nội yêu cầu &#39;khóa sổ&#39; 3 lĩnh vực hành chính cấp huyện trong ngày 30/6](https://tienphong.vn/ha-noi-yeu-cau-khoa-so-3-linh-vuc-hanh-chinh-cap-huyen-trong-ngay-306-post1752187.tpo) - 22:02 17/06/2025
