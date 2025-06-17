@@ -22,7 +22,7 @@ sidebar_position: 1
 - 🤡 [Tổng cục Công nghiệp quốc phòng được vinh danh &#39;Vinh quang Việt Nam&#39;](https://vnexpress.net/tong-cuc-cong-nghiep-quoc-phong-duoc-vinh-danh-vinh-quang-viet-nam-4899559.html) - 12:43 16/06/2025
 - 💯 [Hải Phòng dùng ngân sách &#39;giải cứu&#39; đường ven biển thi công dang dở](https://vnexpress.net/hai-phong-dung-ngan-sach-giai-cuu-duong-ven-bien-thi-cong-dang-do-4899289.html) - 12:09 16/06/2025
 - 👺 [Mỹ phẩm bị vứt thành đống ven đường ở Đà Lạt](https://vnexpress.net/my-pham-bi-vut-thanh-dong-ven-duong-o-da-lat-4899604.html) - 11:50 16/06/2025
-- 🌮 [‘Việt Nam đi muộn nhưng không đi sau trong gìn giữ hòa bình Liên Hợp Quốc’](https://vnexpress.net/viet-nam-di-muon-nhung-khong-di-sau-trong-gin-giu-hoa-binh-lien-hop-quoc-4899565.html) - 11:26 16/06/2025
+- 🌮 [&#39;Việt Nam đi muộn nhưng không đi sau trong gìn giữ hòa bình Liên Hợp Quốc&#39;](https://vnexpress.net/viet-nam-di-muon-nhung-khong-di-sau-trong-gin-giu-hoa-binh-lien-hop-quoc-4899565.html) - 11:26 16/06/2025
 - 🥸 [Thành lập Khu thương mại tự do Đà Nẵng](https://vnexpress.net/thanh-lap-khu-thuong-mai-tu-do-da-nang-4899521.html) - 10:16 16/06/2025
 - 🐻 [Ôtô tải lật đè hai xe máy](https://vnexpress.net/oto-tai-lat-de-hai-xe-may-4899537.html) - 09:23 16/06/2025
 - 👀 [Đà Lạt ngập sau mưa lớn](https://vnexpress.net/da-lat-ngap-sau-mua-lon-4899505.html) - 08:57 16/06/2025
