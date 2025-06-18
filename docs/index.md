@@ -411,7 +411,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Thủ tướng chỉ thị thực hiện các giải pháp xúc tiến thương mại](https://baochinhphu.vn/thu-tuong-chi-thi-thuc-hien-cac-giai-phap-xuc-tien-thuong-mai-102250619005823498.htm) - 00:42 19/06/2025
+- 💻 [Thủ tướng chỉ thị thực hiện các giải pháp xúc tiến thương mại trong và ngoài nước](https://baochinhphu.vn/thu-tuong-chi-thi-thuc-hien-cac-giai-phap-xuc-tien-thuong-mai-102250619005823498.htm) - 00:42 19/06/2025
 - 🌜 [Thủ tướng: Tạo thuận lợi nhất cho mỗi thí sinh, tổ chức kỳ thi THPT thực sự là &#39;ngày hội&#39;](https://baochinhphu.vn/thu-tuong-tao-thuan-loi-nhat-cho-moi-thi-sinh-to-chuc-ky-thi-thpt-thuc-su-la-ngay-hoi-102250618190852566.htm) - 22:01 18/06/2025
 - 🦆 [Nhà báo trẻ phải luôn giữ vững phẩm chất cốt lõi của nền báo chí cách mạng](https://baochinhphu.vn/nha-bao-tre-phai-luon-giu-vung-pham-chat-cot-loi-cua-nen-bao-chi-cach-mang-102250618212441116.htm) - 22:00 18/06/2025
 - 🌝 [Cà Mau hoàn thành xóa nhà tạm, nhà dột nát](https://baochinhphu.vn/ca-mau-hoan-thanh-xoa-nha-tam-nha-dot-nat-102250618210033329.htm) - 21:16 18/06/2025
