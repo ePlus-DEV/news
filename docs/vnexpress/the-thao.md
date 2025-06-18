@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Real bị CLB mạnh nhất châu Á cầm hòa ở FIFA Club World Cup](https://vnexpress.net/real-bi-clb-manh-nhat-chau-a-cam-hoa-o-fifa-club-world-cup-4903474.html) - 21:07 18/06/2025
+- 🪜 [Real bị đội mạnh nhất châu Á cầm hòa ở FIFA Club World Cup](https://vnexpress.net/real-bi-doi-manh-nhat-chau-a-cam-hoa-o-fifa-club-world-cup-4903474.html) - 21:07 18/06/2025
 - 🦩 [Man City thắng trận ra quân Club World Cup dù chịu thẻ đỏ](https://vnexpress.net/man-city-thang-tran-ra-quan-club-world-cup-du-chiu-the-do-4903472.html) - 17:59 18/06/2025
 - 🧰 [Việt Nam thua Thái Lan ở chung kết U19 nữ Đông Nam Á](https://vnexpress.net/viet-nam-thua-thai-lan-o-chung-ket-u19-nu-dong-nam-a-4903458.html) - 15:10 18/06/2025
 - 🤗 [Chạy interval theo cách của HLV ba môn phối hợp](https://vnexpress.net/chay-interval-theo-cach-cua-hlv-ba-mon-phoi-hop-4903169.html) - 12:00 18/06/2025
