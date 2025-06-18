@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Một đại học bị đình chỉ đào tạo](https://vnexpress.net/mot-dai-hoc-bi-dinh-chi-dao-tao-4903286.html) - 08:03 18/06/2025
+- 🤓 [Đại học Hà Hoa Tiên bị đình chỉ đào tạo](https://vnexpress.net/dai-hoc-ha-hoa-tien-bi-dinh-chi-dao-tao-4903286.html) - 08:03 18/06/2025
 - 🦆 [Bảng quy đổi điểm tham khảo của Đại học Sư phạm Hà Nội](https://vnexpress.net/bang-quy-doi-diem-tham-khao-cua-dai-hoc-su-pham-ha-noi-4903256.html) - 06:51 18/06/2025
 - 🦩 [16 đại học Việt Nam vào bảng xếp hạng tầm ảnh hưởng](https://vnexpress.net/16-dai-hoc-viet-nam-vao-bang-xep-hang-tam-anh-huong-4903047.html) - 02:39 18/06/2025
 - 🌮 [FPTU xếp thứ 80 đại học toàn cầu về việc làm, tăng trưởng kinh tế](https://vnexpress.net/fptu-xep-thu-80-dai-hoc-toan-cau-ve-viec-lam-tang-truong-kinh-te-4903041.html) - 01:30 18/06/2025
