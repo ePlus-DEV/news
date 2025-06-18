@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Hàng nghìn thực phẩm chức năng bị vứt ở bãi rác](https://vnexpress.net/hang-nghin-thuc-pham-chuc-nang-bi-vut-o-bai-rac-4903189.html) - 05:18 18/06/2025
+- 🦒 [Hàng nghìn hộp thực phẩm chức năng bị vứt ở bãi rác](https://vnexpress.net/hang-nghin-hop-thuc-pham-chuc-nang-bi-vut-o-bai-rac-4903189.html) - 05:18 18/06/2025
 - 🤓 [Khách Trung Quốc nhận lại 365 triệu đồng bỏ quên trên taxi](https://vnexpress.net/khach-trung-quoc-nhan-lai-365-trieu-dong-bo-quen-tren-taxi-4903144.html) - 05:03 18/06/2025
 - ⚗️ [TP HCM đề xuất giữ lại toàn bộ nguồn thu từ đất để làm hạ tầng](https://vnexpress.net/tp-hcm-de-xuat-giu-lai-toan-bo-nguon-thu-tu-dat-de-lam-ha-tang-4903181.html) - 04:25 18/06/2025
 - 🌊 [Bộ trưởng Y tế: &#39;Thuốc giả không có trong bệnh viện công lập&#39;](https://vnexpress.net/bo-truong-y-te-thuoc-gia-khong-co-trong-benh-vien-cong-lap-4903138.html) - 04:24 18/06/2025
