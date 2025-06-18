@@ -598,7 +598,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌜 [Trình chiếu nghệ thuật đa giác quan cạnh nhà ga Bến Thành](https://tienphong.vn/trinh-chieu-nghe-thuat-da-giac-quan-canh-nha-ga-ben-thanh-post1752263.tpo) - 19:06 18/06/2025
 - 🎓 [Thủ tướng tạm đình chỉ công tác Thứ trưởng Bộ Nội vụ Nguyễn Bá Hoan](https://tienphong.vn/thu-tuong-tam-dinh-chi-cong-tac-thu-truong-bo-noi-vu-nguyen-ba-hoan-post1752495.tpo) - 19:03 18/06/2025
 - 🦣 [Hà Nội: Hỗ trợ 25 triệu đồng cho gia đình nạn nhân vụ nổ ở Khu đô thị Văn Phú](https://tienphong.vn/ha-noi-ho-tro-25-trieu-dong-cho-gia-dinh-nan-nhan-vu-no-o-khu-do-thi-van-phu-post1752497.tpo) - 19:01 18/06/2025
-- 🤓 [Cô gái có gương mặt đẹp nhất Hoa hậu Hoàn vũ Việt Nam](https://tienphong.vn/co-gai-co-guong-mat-dep-nhat-hoa-hau-hoan-vu-viet-nam-post1752319.tpo) - 18:41 18/06/2025
+- 🤓 [Cô gái giành giải gương mặt đẹp nhất Hoa hậu Hoàn vũ Việt Nam](https://tienphong.vn/co-gai-gianh-giai-guong-mat-dep-nhat-hoa-hau-hoan-vu-viet-nam-post1752319.tpo) - 18:41 18/06/2025
 - 🌁 [Iran kêu gọi người dân xóa WhatsApp vì lo lộ dữ liệu cho Israel](https://tienphong.vn/iran-keu-goi-nguoi-dan-xoa-whatsapp-vi-lo-lo-du-lieu-cho-israel-post1752488.tpo) - 18:38 18/06/2025
 - 🤩 [Hai tàu chở dầu đâm nhau, nghi liên quan xung đột Israel – Iran](https://tienphong.vn/hai-tau-cho-dau-dam-nhau-nghi-lien-quan-xung-dot-israel-iran-post1752479.tpo) - 18:36 18/06/2025
 - 🫶 [Khi xem FIFA Club World Cup là một &#39;trải nghiệm nguy hiểm&#39;](https://tienphong.vn/khi-xem-fifa-club-world-cup-la-mot-trai-nghiem-nguy-hiem-post1752421.tpo) - 18:30 18/06/2025
