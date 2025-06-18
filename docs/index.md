@@ -148,7 +148,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
 - 🤠 [Vé số độc đắc 7.300 tỉ đồng, kỷ lục của EuroMillions đã có chủ](https://thanhnien.vn/ve-so-doc-dac-7300-ti-dong-ky-luc-cua-euromillions-da-co-chu-185250618203524436.htm) - 14:38 18/06/2025
-- 🥸 [Chật vật vì ùn tắc sau sự cố khách suýt lật](https://thanhnien.vn/chat-vat-vi-un-tac-sau-su-co-khach-suyt-lat-185250618203112376.htm) - 14:25 18/06/2025
+- 🥸 [Chật vật vì ùn tắc sau sự cố xe khách suýt lật](https://thanhnien.vn/chat-vat-vi-un-tac-sau-su-co-khach-suyt-lat-185250618203112376.htm) - 14:25 18/06/2025
 - 🌁 [Vì sao có biểu tượng bốn chấm trên thanh trạng thái iPhone?](https://thanhnien.vn/vi-sao-co-bieu-tuong-bon-cham-tren-thanh-trang-thai-iphone-185250616172749692.htm) - 13:47 18/06/2025
 - 🤡 [U.19 Việt Nam á quân giải Đông Nam Á: 3 lần thất bại trước Thái Lan](https://thanhnien.vn/u19-viet-nam-a-quan-giai-dong-nam-a-3-lan-that-bai-truoc-thai-lan-185250618203319452.htm) - 13:44 18/06/2025
 - 🎉 [Mỹ chuyển giao tàu cảnh sát biển thứ 3 cho Việt Nam](https://thanhnien.vn/my-chuyen-giao-tau-canh-sat-bien-thu-3-cho-viet-nam-18525061820223303.htm) - 13:39 18/06/2025
