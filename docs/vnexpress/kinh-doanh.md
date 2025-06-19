@@ -4,8 +4,8 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Bộ trưởng Tài chính: Không phát triển khu công nghiệp bằng mọi giá](https://vnexpress.net/quoc-hoi-chat-van-bo-truong-tai-chinh-sang-19-6-4903504.html) - 01:00 19/06/2025
-- 🐲 [Bán tạp hóa và rau củ thế nào thì lên công ty?](https://vnexpress.net/ban-tap-hoa-va-rau-cu-the-nao-thi-len-cong-ty-4903118.html) - 00:11 19/06/2025
+- ⛽️ [Bộ trưởng Tài chính: Đảm bảo hộ kinh doanh không bị áp lực khi chuyển đổi sang doanh nghiệp](https://vnexpress.net/quoc-hoi-chat-van-bo-truong-tai-chinh-sang-19-6-4903504.html) - 01:00 19/06/2025
+- 🐲 [Bán tạp hóa và rau củ nên chuyển đổi thành doanh nghiệp khi nào?](https://vnexpress.net/ban-tap-hoa-va-rau-cu-nen-chuyen-doi-thanh-doanh-nghiep-khi-nao-4903118.html) - 00:11 19/06/2025
 - 🔥 [Việt Nam mua 8 triệu tấn đậu nành Mỹ một năm](https://vnexpress.net/viet-nam-mua-8-trieu-tan-dau-nanh-my-mot-nam-4903424.html) - 23:54 18/06/2025
 - 🐵 [Fed giữ nguyên lãi suất, cảnh báo lạm phát &#39;đáng kể&#39; sắp xuất hiện](https://vnexpress.net/fed-giu-nguyen-lai-suat-canh-bao-lam-phat-dang-ke-sap-xuat-hien-4903476.html) - 21:49 18/06/2025
 - 🦅 [Hôm nay Quốc hội chất vấn Bộ trưởng Tài chính, Giáo dục và Đào tạo](https://vnexpress.net/hom-nay-quoc-hoi-chat-van-bo-truong-tai-chinh-giao-duc-va-dao-tao-4903273.html) - 17:01 18/06/2025
