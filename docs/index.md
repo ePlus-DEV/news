@@ -145,9 +145,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
-- 🤠 [Xác định đối thủ &#39;khủng&#39; của đội tuyển bóng chuyền Việt Nam ở tứ kết AVC Nations Cup 2025](https://thanhnien.vn/xac-dinh-doi-thu-khung-cua-doi-tuyen-bong-chuyen-viet-nam-o-tu-ket-avc-nations-cup-2025-185250619222546439.htm) - 15:27 19/06/2025
-- 🥸 [Báo chí không thể làm bản sao của mạng xã hội](https://thanhnien.vn/bao-chi-khong-the-lam-ban-sao-cua-mang-xa-hoi-18525061921440309.htm) - 15:12 19/06/2025
-- 🌁 [Vụ sữa Hiup giả: BTV Quang Minh cho rằng mình bị lừa, sẽ khởi kiện nhãn hàng](https://thanhnien.vn/vu-sua-hiup-gia-btv-quang-minh-cho-rang-minh-bi-lua-se-khoi-kien-nhan-hang-185250619212048792.htm) - 15:06 19/06/2025
+- 🤠 [Đại tướng Phan Văn Giang tiết lộ lực lượng diễu binh trên biển dịp Quốc khánh 2.9](https://thanhnien.vn/dai-tuong-phan-van-giang-tiet-lo-luc-luong-dieu-binh-tren-bien-dip-quoc-khanh-29-185250619221436725.htm) - 15:49 19/06/2025
+- 🥸 [Xác định đối thủ &#39;khủng&#39; của đội tuyển bóng chuyền Việt Nam ở tứ kết AVC Nations Cup 2025](https://thanhnien.vn/xac-dinh-doi-thu-khung-cua-doi-tuyen-bong-chuyen-viet-nam-o-tu-ket-avc-nations-cup-2025-185250619222546439.htm) - 15:27 19/06/2025
+- 🌁 [Báo chí không thể làm bản sao của mạng xã hội](https://thanhnien.vn/bao-chi-khong-the-lam-ban-sao-cua-mang-xa-hoi-18525061921440309.htm) - 15:12 19/06/2025
 - 🤡 [Iran vẫn cung cấp dầu đều đặn, Israel nối lại xuất khẩu khí đốt](https://thanhnien.vn/iran-van-cung-cap-dau-deu-dan-israel-noi-lai-xuat-khau-khi-dot-185250619211716041.htm) - 15:04 19/06/2025
 - 🎉 [Thức ăn này có thể giảm cholesterol, bảo vệ tim, chống tiểu đường](https://thanhnien.vn/thuc-an-nay-co-the-giam-cholesterol-bao-ve-tim-chong-tieu-duong-185250619212131394.htm) - 14:52 19/06/2025
 - 🎊 [Đổi thay từ những cây cầu](https://thanhnien.vn/doi-thay-tu-nhung-cay-cau-185250617202051091.htm) - 14:52 19/06/2025
