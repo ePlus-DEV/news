@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Tiền đạo gốc Việt thi đấu ở Anh được tiến cử với HLV Kim Sang Sik](https://dantri.com.vn/the-thao/tien-dao-goc-viet-thi-dau-o-anh-duoc-tien-cu-voi-hlv-kim-sang-sik-20250619195144622.htm) - 12:51 19/06/2025
+- 🎡 [Tiền đạo gốc Việt thi đấu ở Anh được tiến cử với HLV Kim Sang Sik](https://dantri.com.vn/the-thao/tien-dao-goc-viet-thi-dau-o-anh-duoc-tien-cu-voi-hlv-kim-sang-sik-20250619195144622.htm) - 13:04 19/06/2025
 - 💯 [Tuyển Indonesia phát tín hiệu báo động, nhiều cầu thủ nhập tịch thất nghiệp](https://dantri.com.vn/the-thao/tuyen-indonesia-phat-tin-hieu-bao-dong-nhieu-cau-thu-nhap-tich-that-nghiep-20250619181959494.htm) - 12:43 19/06/2025
 - ⛽️ [Gây sốt khi thắng tuyển Việt Nam, Malaysia tham dự giải đấu danh giá](https://dantri.com.vn/the-thao/gay-sot-khi-thang-tuyen-viet-nam-malaysia-tham-du-giai-dau-danh-gia-20250619191559299.htm) - 12:31 19/06/2025
 - 💃 [Đòi xem VAR, cựu sao Man Utd nhận cái kết cực đắng từ FIFA](https://dantri.com.vn/the-thao/doi-xem-var-cuu-sao-man-utd-nhan-cai-ket-cuc-dang-tu-fifa-20250619160651906.htm) - 09:07 19/06/2025
