@@ -6,7 +6,7 @@ sidebar_position: 6
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Phụ nữ căng thẳng vì chồng hơn con cái](https://vnexpress.net/phu-nu-cang-thang-vi-chong-hon-con-cai-4903185.html) - 01:11 19/06/2025
 - 🎓 [Lợi thế của thế hệ Alpha](https://vnexpress.net/loi-the-cua-the-he-alpha-4903510.html) - 00:59 19/06/2025
-- 🚦 [Những kẻ lừa đảo &#39;thao túng tâm lý&#39; nạn nhân thế nào?](https://vnexpress.net/nhung-ke-lua-dao-thao-tung-tam-ly-nan-nhan-the-nao-4902901.html) - 23:00 18/06/2025
+- 🚦 [Những kẻ lừa đảo &#39;thao túng tâm lý&#39; nạn nhân thế nào](https://vnexpress.net/nhung-ke-lua-dao-thao-tung-tam-ly-nan-nhan-the-nao-4902901.html) - 23:00 18/06/2025
 - 🦣 [Nhìn thói quen ăn uống đoán tính cách](https://vnexpress.net/nhin-thoi-quen-an-uong-doan-tinh-cach-4903358.html) - 10:30 18/06/2025
 - 🎓 [Vì sao nên vò rau ngót trước khi nấu?](https://vnexpress.net/vi-sao-nen-vo-rau-ngot-truoc-khi-nau-4903307.html) - 08:31 18/06/2025
 - 🎭 [Những &#39;người chuột&#39; bị bỏ quên ở Philippines](https://vnexpress.net/nhung-nguoi-chuot-bi-bo-quen-o-philippines-4899877.html) - 08:09 18/06/2025
