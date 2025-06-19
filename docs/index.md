@@ -598,7 +598,7 @@ các dự án trọng điểm về quân sự, quốc phòng](https://nld.com.vn
 - 🌜 [NHỊP SỐNG 24: Rắn bò trong điều hòa ra cắn bé gái: Tại sao rắn hay chui vào điều hòa?](https://tienphong.vn/nhip-song-24-ran-bo-trong-dieu-hoa-ra-can-be-gai-tai-sao-ran-hay-chui-vao-dieu-hoa-post1752810.tpo) - 19:58 19/06/2025
 - 🎓 [Chuyển cơ quan công an điều tra 23.000 sản phẩm yến chưng](https://tienphong.vn/chuyen-co-quan-cong-an-dieu-tra-23000-san-pham-yen-chung-post1752754.tpo) - 19:57 19/06/2025
 - 🦣 [Lộ diện chủ đầu tư dự án sân bay Phú Quốc gần 22.000 tỷ](https://tienphong.vn/lo-dien-chu-dau-tu-du-an-san-bay-phu-quoc-gan-22000-ty-post1752778.tpo) - 19:51 19/06/2025
-- 🤓 [Nhiều chuyến bay đến Tân Sơn Nhất không thể hạ cánh](https://tienphong.vn/nhieu-chuyen-bay-den-tan-son-nhat-khong-the-ha-canh-post1752789.tpo) - 19:48 19/06/2025
+- 🤓 [Nhiều chuyến bay không thể hạ cánh Tân Sơn Nhất](https://tienphong.vn/nhieu-chuyen-bay-khong-the-ha-canh-tan-son-nhat-post1752789.tpo) - 19:48 19/06/2025
 - 🌁 [TPHCM mưa lớn kéo dài, người dân vất vả vì nhiều nơi ngập sâu](https://tienphong.vn/tphcm-mua-lon-keo-dai-nguoi-dan-vat-va-vi-nhieu-noi-ngap-sau-post1752804.tpo) - 19:25 19/06/2025
 - 🤩 [Một phụ nữ bán cơm ở Long An trúng 11 tờ vé số độc đắc](https://tienphong.vn/mot-phu-nu-ban-com-o-long-an-trung-11-to-ve-so-doc-dac-post1752803.tpo) - 19:21 19/06/2025
 - 🫶 [Hanbin &lpar;Tempest&rpar; – hình mẫu dám đam mê dám thực hiện của thế hệ Gen Z](https://tienphong.vn/hanbin-tempest-hinh-mau-dam-dam-me-dam-thuc-hien-cua-the-he-gen-z-post1752744.tpo) - 19:17 19/06/2025
@@ -642,7 +642,7 @@ các dự án trọng điểm về quân sự, quốc phòng](https://nld.com.vn
 - 🌜 [Phi công Air India hoảng loạn sau vụ tai nạn máy bay khiến 279 người thiệt mạng](https://tienphong.vn/phi-cong-air-india-hoang-loan-sau-vu-tai-nan-may-bay-khien-279-nguoi-thiet-mang-post1752714.tpo) - 15:55 19/06/2025
 - 💼 [Người đẹp Ấn Độ sau khi từ bỏ vương miện Hoa hậu Hòa bình](https://tienphong.vn/nguoi-dep-an-do-sau-khi-tu-bo-vuong-mien-hoa-hau-hoa-binh-post1752702.tpo) - 15:51 19/06/2025
 - 🌏 [Nhận định Seattle Sounders vs Atletico Madrid, 5h00 ngày 20/6: Atletico trút giận](https://tienphong.vn/nhan-dinh-seattle-sounders-vs-atletico-madrid-5h00-ngay-206-atletico-trut-gian-post1752728.tpo) - 15:51 19/06/2025
-- 🤩 [Tuyến tàu hỏa Thống Nhất của Việt Nam đẹp nhất hành tinh](https://tienphong.vn/tuyen-tau-hoa-thong-nhat-cua-viet-nam-dep-nhat-hanh-tinh-post1752609.tpo) - 15:50 19/06/2025
+- 🤩 [Tuyến tàu hỏa Việt Nam đẹp nhất hành tinh](https://tienphong.vn/tuyen-tau-hoa-viet-nam-dep-nhat-hanh-tinh-post1752609.tpo) - 15:50 19/06/2025
 - 💯 [Tài chính, bất động sản, vàng phản ánh &#39;sức khỏe&#39; nền kinh tế](https://tienphong.vn/tai-chinh-bat-dong-san-vang-phan-anh-suc-khoe-nen-kinh-te-post1752704.tpo) - 15:47 19/06/2025
 - 🤔 [Xu hướng mới ở phân khúc SUV phổ thông](https://tienphong.vn/xu-huong-moi-o-phan-khuc-suv-pho-thong-post1752703.tpo) - 15:46 19/06/2025
 - 🦏 [Lào Cai hoàn thành xóa nhà tạm, nhà dột nát trước thời hạn Chính phủ giao](https://tienphong.vn/lao-cai-hoan-thanh-xoa-nha-tam-nha-dot-nat-truoc-thoi-han-chinh-phu-giao-post1752699.tpo) - 15:44 19/06/2025
