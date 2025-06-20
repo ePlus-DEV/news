@@ -4,8 +4,8 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Khách Việt nhập cảnh Đài Loan bắt buộc khai báo trực tuyến từ 1/10](https://vnexpress.net/khach-viet-nhap-canh-dai-loan-bat-buoc-khai-bao-truc-tuyen-tu-1-10-4904090.html) - 06:35 20/06/2025
-- 🪄 [Đà Nẵng đẩy mạnh kinh tế đêm để phục vụ du lịch](https://vnexpress.net/da-nang-day-manh-kinh-te-dem-de-phuc-vu-du-lich-4903700.html) - 06:00 20/06/2025
+- 💂 [Gây tranh cãi vì mang món ăn bốc mùi lên máy bay](https://vnexpress.net/gay-tranh-cai-vi-mang-mon-an-boc-mui-len-may-bay-4903629.html) - 09:20 20/06/2025
+- 🪄 [Khách Việt nhập cảnh Đài Loan bắt buộc khai báo trực tuyến từ 1/10](https://vnexpress.net/khach-viet-nhap-canh-dai-loan-bat-buoc-khai-bao-truc-tuyen-tu-1-10-4904090.html) - 06:35 20/06/2025
 - 🦅 [5 khách sạn được tạp chí Mỹ vinh danh &#39;tốt nhất Việt Nam 2025&#39;](https://vnexpress.net/5-khach-san-duoc-tap-chi-my-vinh-danh-tot-nhat-viet-nam-2025-4903904.html) - 05:36 20/06/2025
 - 🕴 [Đơn vị dù lượn lao vào khách ở Bãi Cháy bị phạt 21 triệu đồng](https://vnexpress.net/don-vi-du-luon-lao-vao-khach-o-bai-chay-bi-phat-21-trieu-dong-4904044.html) - 05:13 20/06/2025
 - 👀 [48 giờ đạp xe lang thang Thượng Hải](https://vnexpress.net/48-gio-dap-xe-lang-thang-thuong-hai-4903759.html) - 02:40 20/06/2025
