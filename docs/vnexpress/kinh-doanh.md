@@ -8,7 +8,7 @@ sidebar_position: 3
 - 🐲 [TikTok gỡ 500.000 tài khoản vi phạm mỗi năm](https://vnexpress.net/tiktok-go-500-000-tai-khoan-vi-pham-moi-nam-4904297.html) - 12:50 20/06/2025
 - 🔥 [Phó thủ tướng muốn các tập đoàn Nga mở rộng đầu tư tại Việt Nam](https://vnexpress.net/pho-thu-tuong-muon-cac-tap-doan-nga-mo-rong-dau-tu-tai-viet-nam-4904333.html) - 11:17 20/06/2025
 - 🐵 [F88 ra mắt cửa hàng tài chính số 888](https://vnexpress.net/f88-ra-mat-cua-hang-tai-chinh-so-888-4904245.html) - 11:01 20/06/2025
-- 🦅 [Những hướng đi giúp báo chí thêm nguồn thu ngoài quảng cáo](https://vnexpress.net/nhung-huong-di-giup-bao-chi-them-nguon-thu-ngoai-quang-cao-4904139.html) - 10:47 20/06/2025
+- 🦅 [Cách nào giúp báo chí thêm nguồn thu ngoài quảng cáo?](https://vnexpress.net/cach-nao-giup-bao-chi-them-nguon-thu-ngoai-quang-cao-4904139.html) - 10:47 20/06/2025
 - 😺 [Tập đoàn HP muốn mở rộng chuỗi cung ứng ở Việt Nam](https://vnexpress.net/tap-doan-hp-muon-mo-rong-chuoi-cung-ung-o-viet-nam-4904278.html) - 09:26 20/06/2025
 - 🤩 [Cổ phiếu ngành cá tra ngược dòng thị trường](https://vnexpress.net/chung-khoan-hom-nay-20-6-co-phieu-ca-tra-nguoc-dong-thi-truong-4904275.html) - 09:17 20/06/2025
 - 🌮 [Mỏ cát ở Quảng Nam được trả gấp 105 lần mức khởi điểm sau đấu giá](https://vnexpress.net/mo-cat-o-quang-nam-duoc-tra-gap-105-lan-muc-khoi-diem-sau-dau-gia-4904050.html) - 09:05 20/06/2025
