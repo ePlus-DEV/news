@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Phó thủ tướng Nguyễn Hòa Bình: Không có vùng cấm trong xử lý hàng giả](https://vnexpress.net/pho-thu-tuong-nguyen-hoa-binh-khong-co-vung-cam-trong-xu-ly-hang-gia-4904019.html) - 03:21 20/06/2025
+- 🦒 [Phó thủ tướng Nguyễn Hòa Bình: Giải quyết xong các vụ khiếu kiện kéo dài trước 30/6](https://vnexpress.net/pho-thu-tuong-nguyen-hoa-binh-giai-quyet-xong-cac-vu-khieu-kien-keo-dai-truoc-30-6-4904019.html) - 03:21 20/06/2025
 - 🤓 [Bộ trưởng Y tế Đào Hồng Lan trả lời về thực phẩm trường học](https://vnexpress.net/bo-truong-y-te-dao-hong-lan-tra-loi-ve-thuc-pham-truong-hoc-4904015.html) - 02:48 20/06/2025
 - ⚗️ [Hà Nội sử dụng loạt xe vệ sinh môi trường mới](https://vnexpress.net/ha-noi-su-dung-loat-xe-ve-sinh-moi-truong-moi-4903980.html) - 02:27 20/06/2025
 - 🌊 [&#39;Người lớn không đánh nhau thì không còn bạo lực học đường&#39;](https://vnexpress.net/nguoi-lon-khong-danh-nhau-thi-khong-con-bao-luc-hoc-duong-4903893.html) - 00:49 20/06/2025
