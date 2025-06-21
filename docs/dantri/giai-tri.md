@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Chung kết Hoa hậu Hoàn vũ Việt Nam 2025: 43 người đẹp diễn bikini bắt mắt](https://dantri.com.vn/giai-tri/chung-ket-hoa-hau-hoan-vu-viet-nam-2025-43-nguoi-dep-dien-bikini-bat-mat-20250621202649351.htm) - 13:41 21/06/2025
+- 🤩 [Chung kết Hoa hậu Hoàn vũ Việt Nam 2025: Top 20 trình diễn bikini nóng bỏng](https://dantri.com.vn/giai-tri/chung-ket-hoa-hau-hoan-vu-viet-nam-2025-top-20-trinh-dien-bikini-nong-bong-20250621202649351.htm) - 13:41 21/06/2025
 - 🔥 [Công bố hình ảnh 200 chai dầu trẻ em được tìm thấy tại biệt thự của Diddy](https://dantri.com.vn/giai-tri/cong-bo-hinh-anh-200-chai-dau-tre-em-duoc-tim-thay-tai-biet-thu-cua-diddy-20250621132835874.htm) - 12:00 21/06/2025
 - 🚀 [Gái xinh, trai đẹp &quot;lên đồ&quot;, làm tóc, móng tiền triệu đi gặp G-Dragon](https://dantri.com.vn/giai-tri/gai-xinh-trai-dep-len-do-lam-toc-mong-tien-trieu-di-gap-g-dragon-20250621155357501.htm) - 09:48 21/06/2025
 - 🔥 [Giá vé show G-Dragon: Buổi trưa mặc cả không đồng ý, chiều bán vội nửa giá](https://dantri.com.vn/giai-tri/gia-ve-show-g-dragon-buoi-trua-mac-ca-khong-dong-y-chieu-ban-voi-nua-gia-20250621145024012.htm) - 08:19 21/06/2025
