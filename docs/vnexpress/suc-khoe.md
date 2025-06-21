@@ -15,7 +15,7 @@ sidebar_position: 10
 - 🌋 [Công nghệ IPL có triệt lông nách vĩnh viễn không?](https://vnexpress.net/cong-nghe-ipl-co-triet-long-nach-vinh-vien-khong-4904504.html) - 08:00 21/06/2025
 - 🫶 [Ngủ ngáy cảnh báo bệnh gì?](https://vnexpress.net/ngu-ngay-canh-bao-benh-gi-4904488.html) - 07:00 21/06/2025
 - 🦆 [7 loại quả bổ dưỡng nên ăn để có sức khỏe tốt](https://vnexpress.net/7-loai-qua-bo-duong-nen-an-de-co-suc-khoe-tot-4904437.html) - 07:00 21/06/2025
-- 🚀 [8 thói quen âm thầm hủy hoại thận](https://vnexpress.net/8-thoi-quen-am-tham-huy-hoai-than-4904407.html) - 05:00 21/06/2025
+- 🚀 [8 thói quen âm thầm hủy hoại thận](https://vnexpress.net/suc-khoe-cam-nang-8-thoi-quen-am-tham-huy-hoai-than-4904407.html) - 05:00 21/06/2025
 - 🌜 [Nguyên nhân chuyển phôi thụ tinh ống nghiệm ngày 5 thất bại](https://vnexpress.net/nguyen-nhan-chuyen-phoi-thu-tinh-ong-nghiem-ngay-5-that-bai-4904435.html) - 04:00 21/06/2025
 - 🧰 [5 món người bệnh trĩ nên ăn thường xuyên](https://vnexpress.net/5-mon-nguoi-benh-tri-nen-an-thuong-xuyen-4904424.html) - 03:30 21/06/2025
 - 💫 [Phân biệt yến sào thật - giả](https://vnexpress.net/phan-biet-yen-sao-that-gia-4899640.html) - 03:00 21/06/2025
