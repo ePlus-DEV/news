@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [CLB Bình Định rớt hạng](https://vnexpress.net/clb-binh-dinh-rot-hang-4904806.html) - 12:30 22/06/2025
+- 🪜 [Á quân Bình Định rớt hạng](https://vnexpress.net/a-quan-binh-dinh-rot-hang-4904806.html) - 12:30 22/06/2025
 - 🦩 [Dòng người xếp hàng vào sân chờ mở hội mừng Nam Định vô địch V-League](https://vnexpress.net/dong-nguoi-xep-hang-vao-san-cho-mo-hoi-mung-nam-dinh-vo-dich-v-league-4904762.html) - 09:41 22/06/2025
 - 🧰 [Đội nào sẽ xuống hạng ở V-League 2024-2025?](https://vnexpress.net/doi-nao-se-xuong-hang-o-v-league-2024-2025-4904725.html) - 05:48 22/06/2025
 - 🤗 [Giải mật thể thao: Vì sao Alexander-Arnold đổi thành &#39;Trent&#39; trên áo đấu Real?](https://vnexpress.net/giai-mat-the-thao-vi-sao-alexander-arnold-doi-thanh-trent-tren-ao-dau-real-4904722.html) - 05:29 22/06/2025
