@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Đà Nẵng dự kiến tăng giá đất cao nhất lên 340 triệu đồng một m2](https://vnexpress.net/da-nang-du-kien-tang-gia-dat-cao-nhat-len-340-trieu-dong-mot-m2-4904807.html) - 15:45 22/06/2025
+- 🚀 [Mỹ công bố chi tiết về chiến dịch Búa Đêm nhằm vào Iran](https://vnexpress.net/my-cong-bo-chi-tiet-ve-chien-dich-bua-dem-nham-vao-iran-4904810.html) - 15:49 22/06/2025
 - 🧰 [Ngô Thanh Vân mở tiệc đón con sắp chào đời](https://vnexpress.net/ngo-thanh-van-mo-tiec-don-con-sap-chao-doi-4904826.html) - 15:35 22/06/2025
 - 🥰 [Bộ xương người trong bồn nước trên mái nhà](https://vnexpress.net/bo-xuong-nguoi-trong-bon-nuoc-tren-mai-nha-4904829.html) - 15:28 22/06/2025
 - 🌏 [Hai sân bay lớn nhất nước thuộc quản lý của Hải quan khu vực XV](https://vnexpress.net/hai-san-bay-lon-nhat-nuoc-thuoc-quan-ly-cua-hai-quan-khu-vuc-xv-4904733.html) - 15:26 22/06/2025
