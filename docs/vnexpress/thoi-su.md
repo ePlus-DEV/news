@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Nguy cơ mất an toàn hàng không từ vật thể bay](https://vnexpress.net/nguy-co-mat-an-toan-hang-khong-tu-vat-the-bay-4902895.html) - 17:00 22/06/2025
+- 🦒 [Nguy cơ mất an toàn hàng không từ vật thể bay không người lái](https://vnexpress.net/nguy-co-mat-an-toan-hang-khong-tu-vat-the-bay-khong-nguoi-lai-4902895.html) - 17:00 22/06/2025
 - 🤓 [Dùng ma túy khi lái xe, tài xế gây tai nạn liên hoàn](https://vnexpress.net/dung-ma-tuy-khi-lai-xe-tai-xe-gay-tai-nan-lien-hoan-4904802.html) - 12:40 22/06/2025
 - ⚗️ [Tuần tới miền Bắc giảm mưa](https://vnexpress.net/tuan-toi-mien-bac-giam-mua-4904778.html) - 11:11 22/06/2025
 - 🌊 [Đà Nẵng mở rộng khu thương mại tự do sau sáp nhập](https://vnexpress.net/da-nang-mo-rong-khu-thuong-mai-tu-do-sau-sap-nhap-4904753.html) - 08:48 22/06/2025
