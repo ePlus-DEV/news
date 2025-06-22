@@ -646,10 +646,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💼 [Công an Việt - Trung chung tay phòng chống tội phạm qua biên giới](https://tienphong.vn/cong-an-viet-trung-chung-tay-phong-chong-toi-pham-qua-bien-gioi-post1753372.tpo) - 15:54 22/06/2025
 - 🌏 [Cần Thơ cần 140 nhà ở công vụ sau sáp nhập](https://tienphong.vn/can-tho-can-140-nha-o-cong-vu-sau-sap-nhap-post1753445.tpo) - 15:31 22/06/2025
 - 🤩 [Trễ hẹn 1 năm, dự án đường đi bộ ven sông hơn 260 tỷ tại Huế giờ ra sao?](https://tienphong.vn/tre-hen-1-nam-du-an-duong-di-bo-ven-song-hon-260-ty-tai-hue-gio-ra-sao-post1753413.tpo) - 15:29 22/06/2025
-- 💯 [Nhà đầu tư kỳ cựu bất ngờ trước 8 giá trị chỉ có tại Noble Place Tay Thang Long](https://tienphong.vn/nha-dau-tu-ky-cuu-bat-ngo-truoc-8-gia-tri-chi-co-tai-noble-place-tay-thang-long-post1753446.tpo) - 15:23 22/06/2025
-- 🤔 [Dự báo mưa to, Bộ trưởng Bộ GD&amp;ĐT Nguyễn Kim Sơn yêu cầu đảm bảo an toàn cho thí sinh và đề thi, bài thi](https://tienphong.vn/du-bao-mua-to-bo-truong-bo-gddt-nguyen-kim-son-yeu-cau-dam-bao-an-toan-cho-thi-sinh-va-de-thi-bai-thi-post1753440.tpo) - 15:13 22/06/2025
-- 🦏 [Nổ bình gas mini, 8 người đang ăn giỗ phải nhập viện](https://tienphong.vn/no-binh-gas-mini-8-nguoi-dang-an-gio-phai-nhap-vien-post1753454.tpo) - 14:58 22/06/2025
-- 🤩 [Thái Lan, Campuchia có động thái mới ở khu vực biên giới](https://tienphong.vn/thai-lan-campuchia-co-dong-thai-moi-o-khu-vuc-bien-gioi-post1753441.tpo) - 14:54 22/06/2025<!-- hoahoctro:END -->
+- 💯 [Dự báo mưa to, Bộ trưởng Bộ GD&amp;ĐT Nguyễn Kim Sơn yêu cầu đảm bảo an toàn cho thí sinh và đề thi, bài thi](https://tienphong.vn/du-bao-mua-to-bo-truong-bo-gddt-nguyen-kim-son-yeu-cau-dam-bao-an-toan-cho-thi-sinh-va-de-thi-bai-thi-post1753440.tpo) - 15:13 22/06/2025
+- 🤔 [Nổ bình gas mini, 8 người đang ăn giỗ phải nhập viện](https://tienphong.vn/no-binh-gas-mini-8-nguoi-dang-an-gio-phai-nhap-vien-post1753454.tpo) - 14:58 22/06/2025
+- 🦏 [Thái Lan, Campuchia có động thái mới ở khu vực biên giới](https://tienphong.vn/thai-lan-campuchia-co-dong-thai-moi-o-khu-vuc-bien-gioi-post1753441.tpo) - 14:54 22/06/2025
+- 🤩 [Iran bác tin nhà máy hạt nhân Fordow bị xóa sổ, nói Mỹ tấn công &#39;khá hời hợt&#39;](https://tienphong.vn/iran-bac-tin-nha-may-hat-nhan-fordow-bi-xoa-so-noi-my-tan-cong-kha-hoi-hot-post1753433.tpo) - 14:52 22/06/2025<!-- hoahoctro:END -->
 
 <div align="right">
     Update by <a target="_blank" href="https://github.com/ePlus-DEV/blog-post-workflow">ePlus-DEV/blog-post-workflow</a>
