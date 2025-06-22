@@ -4,7 +4,7 @@ sidebar_position: 26
 ---
 
 <!-- dantri-ban-doc:START -->
-- 🦒 [Một phụ nữ mất 2,7 tỷ đồng vì đăng ký sinh hoạt hè cho con qua mạng](https://dantri.com.vn/phap-luat/mot-phu-nu-mat-27-ty-dong-vi-dang-ky-sinh-hoat-he-cho-con-qua-mang-20250622111014950.htm) - 04:25 22/06/2025
+- 🦒 [Đừng để cánh cửa vào lớp 10 là cuộc thi sinh tử](https://dantri.com.vn/ban-doc/dung-de-canh-cua-vao-lop-10-la-cuoc-thi-sinh-tu-20250622171016984.htm) - 10:10 22/06/2025
 - 🤓 [Xe khách tông xe đầu kéo làm 11 người thương vong: Xử lý 2 tài xế ra sao?](https://dantri.com.vn/ban-doc/xe-khach-tong-xe-dau-keo-lam-11-nguoi-thuong-vong-xu-ly-2-tai-xe-ra-sao-20250621080354547.htm) - 03:12 21/06/2025
 - 🐻 [Trịnh Văn Quyết bồi thường, khi nào bị hại được nhận lại tiền?](https://dantri.com.vn/ban-doc/trinh-van-quyet-boi-thuong-khi-nao-bi-hai-duoc-nhan-lai-tien-20250620014112585.htm) - 01:05 20/06/2025
 - 🏊 [Trịnh Văn Quyết xin chuyển án phạt tiền: Pháp luật quy định ra sao?](https://dantri.com.vn/ban-doc/trinh-van-quyet-xin-chuyen-an-phat-tien-phap-luat-quy-dinh-ra-sao-20250618183915969.htm) - 04:49 19/06/2025
