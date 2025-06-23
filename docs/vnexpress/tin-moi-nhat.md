@@ -59,5 +59,5 @@ sidebar_position: 9
 - 💄 [Xưởng sản xuất kem giả làm trắng da bị phát hiện](https://vnexpress.net/xuong-san-xuat-kem-gia-lam-trang-da-bi-phat-hien-4905291.html) - 12:18 23/06/2025
 - 🤡 [Phương án bố trí trụ sở trung tâm hành chính mới của Hải Phòng](https://vnexpress.net/phuong-an-bo-tri-tru-so-trung-tam-hanh-chinh-moi-cua-hai-phong-4905228.html) - 12:16 23/06/2025
 - ⛽️ [Thu nhập nhân viên công ty mẹ Viettel hơn 50 triệu mỗi tháng](https://vnexpress.net/thu-nhap-nhan-vien-cong-ty-me-viettel-hon-50-trieu-moi-thang-4905152.html) - 12:10 23/06/2025
-- 🚀 [Bắn laser trị hết sẹo trên mặt](https://vnexpress.net/ban-laser-tri-het-seo-tren-mat-4905259.html) - 12:00 23/06/2025
-- 🌜 [Bỏ dở chuyến du lịch vì bị thú cưng cào, cắn](https://vnexpress.net/bo-do-chuyen-du-lich-vi-bi-thu-cung-cao-can-4905248.html) - 12:00 23/06/2025<!-- vnexpress-tin-moi-nhat:END -->
+- 🚀 [Tìm một người phụ nữ chân thành, sống có tình có nghĩa](https://vnexpress.net/tim-mot-nguoi-phu-nu-chan-thanh-song-co-tinh-co-nghia-4904949.html) - 12:00 23/06/2025
+- 🌜 [Nỗi phẫn nộ của người Iran sau khi Mỹ tập kích](https://vnexpress.net/noi-phan-no-cua-nguoi-iran-sau-khi-my-tap-kich-4904881.html) - 12:00 23/06/2025<!-- vnexpress-tin-moi-nhat:END -->
