@@ -520,7 +520,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Xin vía điểm 10 môn Văn tốt nghiệp THPT từ hai cô bạn tài năng](https://muctim.tuoitre.vn/xin-via-diem-10-mon-van-tot-nghiep-thpt-tu-hai-co-ban-tai-nang-101250619235246307.htm) - 11:09 24/06/2025
+- 🤔 [Xin &#39;vía&#39; điểm 10 môn văn tốt nghiệp THPT từ hai cô bạn tài năng](https://muctim.tuoitre.vn/xin-via-diem-10-mon-van-tot-nghiep-thpt-tu-hai-co-ban-tai-nang-101250619235246307.htm) - 11:09 24/06/2025
 - 🥷 [Nam sinh 2k8 xây dựng dự án Ổ Ba Chấu, giúp teen tự học hiệu quả](https://muctim.tuoitre.vn/nam-sinh-2k8-xay-dung-du-an-o-ba-chau-giup-teen-tu-hoc-hieu-qua-101250623143310072.htm) - 11:08 24/06/2025
 - 🤖 [Cập nhật lịch thi chi tiết, quy chế thi tốt nghiệp THPT 2025](https://muctim.tuoitre.vn/cap-nhat-lich-thi-chi-tiet-quy-che-thi-tot-nghiep-thpt-2025-101250624152813023.htm) - 11:07 24/06/2025
 - 🤓 [Nhìn thấy gì qua sự lên ngôi của nữ chính phim Hàn thời gian gần đây?](https://muctim.tuoitre.vn/nhin-thay-gi-qua-su-len-ngoi-cua-nu-chinh-phim-han-thoi-gian-gan-day-101250623183740078.htm) - 08:36 24/06/2025
