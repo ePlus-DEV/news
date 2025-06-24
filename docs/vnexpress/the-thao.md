@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Cầu thủ PSG gạt tình bạn vì muốn thắng Messi](https://vnexpress.net/cau-thu-psg-gat-tinh-ban-vi-muon-thang-messi-4905831.html) - 22:42 24/06/2025
+- 🪜 [Các cầu thủ PSG muốn đánh bại Messi](https://vnexpress.net/cac-cau-thu-psg-muon-danh-bai-messi-4905831.html) - 22:42 24/06/2025
 - 🦩 [VĐV Olympic mất nhà tài trợ vì ít người theo dõi](https://vnexpress.net/vdv-olympic-mat-nha-tai-tro-vi-it-nguoi-theo-doi-4905829.html) - 22:22 24/06/2025
 - 🧰 [Mourinho muốn &#39;giải cứu&#39; Sancho](https://vnexpress.net/mourinho-muon-giai-cuu-sancho-4905830.html) - 22:12 24/06/2025
 - 🤗 [Bayern tránh gặp Chelsea ở vòng 1/8 FIFA Club World Cup](https://vnexpress.net/bayern-tranh-gap-chelsea-o-vong-1-8-fifa-club-world-cup-4905833.html) - 22:06 24/06/2025
