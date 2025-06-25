@@ -53,5 +53,5 @@ sidebar_position: 9
 - 👍 [Lý do bạn nên ăn dứa thường xuyên](https://vnexpress.net/ly-do-ban-nen-an-dua-thuong-xuyen-4906001.html) - 11:00 25/06/2025
 - 🐎 [Tổ chức tàu cho công chức đi làm chặng Quảng Bình - Quảng Trị](https://vnexpress.net/to-chuc-tau-cho-cong-chuc-di-lam-chang-quang-binh-quang-tri-4906230.html) - 10:47 25/06/2025
 - 🏊 [Ivanka Trump tới Venice dự lễ cưới của tỷ phú Amazon](https://vnexpress.net/ivanka-trump-toi-venice-du-le-cuoi-cua-ty-phu-amazon-4906224.html) - 10:41 25/06/2025
-- 🦩 [Cựu bí thư Vĩnh Phúc: Vợ mắc bệnh hiểm nghèo nên không từ chối quà 2 tỷ](https://vnexpress.net/cuu-bi-thu-vinh-phuc-vo-mac-benh-hiem-ngheo-nen-khong-tu-choi-qua-2-ty-4906161.html) - 10:38 25/06/2025
+- 🦩 [Cựu Bí thư Vĩnh Phúc nhận quà 2 tỷ đồng của Hậu &#39;Pháo&#39; chữa bệnh cho vợ](https://vnexpress.net/cuu-bi-thu-vinh-phuc-nhan-qua-2-ty-dong-cua-hau-phao-chua-benh-cho-vo-4906161.html) - 10:38 25/06/2025
 - 👍 [Đà Nẵng muốn hỗ trợ 300 triệu đồng cho xã, phường khi sáp nhập](https://vnexpress.net/da-nang-muon-ho-tro-300-trieu-dong-cho-xa-phuong-khi-sap-nhap-4906196.html) - 10:34 25/06/2025<!-- vnexpress-tin-moi-nhat:END -->
