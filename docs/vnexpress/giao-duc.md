@@ -4,63 +4,63 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nam sinh cụt tứ chi muốn tự viết bài thi tốt nghiệp dù được miễn](https://vnexpress.net/nam-sinh-cut-tu-chi-muon-tu-viet-bai-thi-tot-nghiep-du-duoc-mien-4906294.html) - 14:47 25/06/2025
-- 🦆 [Gần 10.000 thí sinh bỏ làm thủ tục thi tốt nghiệp THPT](https://vnexpress.net/gan-10-000-thi-sinh-bo-lam-thu-tuc-thi-tot-nghiep-thpt-4906175.html) - 11:59 25/06/2025
-- 🦩 [Thí sinh tự tin trước kỳ thi tốt nghiệp THPT 2025](https://vnexpress.net/thi-sinh-tu-tin-truoc-ky-thi-tot-nghiep-thpt-2025-4906085.html) - 08:45 25/06/2025
-- 🌮 [TP HCM công bố điểm chuẩn lớp 10 vào tối 26/6](https://vnexpress.net/tp-hcm-cong-bo-diem-chuan-lop-10-vao-toi-26-6-4906147.html) - 08:15 25/06/2025
-- 🔭 [Anh em sinh đôi giành ngôi thủ khoa và á khoa chuyên Lý](https://vnexpress.net/anh-em-sinh-doi-gianh-ngoi-thu-khoa-va-a-khoa-chuyen-ly-4905423.html) - 06:49 25/06/2025
-- 💡 [Bốn lưu ý với thí sinh thi tốt nghiệp THPT 2025](https://vnexpress.net/nhung-van-dung-bi-cam-mang-vao-phong-thi-tot-nghiep-thpt-4905570.html) - 04:12 25/06/2025
-- 🥰 [Cả nước sẵn sàng trước giờ thi tốt nghiệp THPT 2025](https://vnexpress.net/ca-nuoc-san-sang-truoc-gio-thi-tot-nghiep-thpt-2025-4905523.html) - 03:04 25/06/2025
-- 🐲 [Thủ khoa ĐH Thương mại có việc làm trước tốt nghiệp một năm](https://vnexpress.net/thu-khoa-dh-thuong-mai-co-viec-lam-truoc-tot-nghiep-mot-nam-4905617.html) - 23:00 24/06/2025
-- 🦒 [Cách điền phiếu trắc nghiệm thi tốt nghiệp THPT](https://vnexpress.net/huong-dan-dien-phieu-tra-loi-trac-nghiem-thi-tot-nghiep-thpt-2025-4905055.html) - 17:00 24/06/2025
-- 🦆 [Các mốc quan trọng thi tốt nghiệp THPT và tuyển sinh đại học 2025](https://vnexpress.net/lich-thi-tot-nghiep-thpt-2025-va-tuyen-sinh-dai-hoc-chinh-xac-nhat-4867545.html) - 14:59 24/06/2025
-- 🧰 [Ba trường hợp được đặc cách tốt nghiệp THPT](https://vnexpress.net/ba-truong-hop-duoc-dac-cach-tot-nghiep-thpt-4905209.html) - 13:00 24/06/2025
-- 🐘 [Dự kiến thi cấp phép hành nghề Y bằng hình thức trắc nghiệm](https://vnexpress.net/du-kien-thi-cap-phep-hanh-nghe-y-bang-hinh-thuc-trac-nghiem-4905406.html) - 11:50 24/06/2025
-- 🤓 [Hai cán bộ ĐH Vinh bị điều chuyển vì nữ sinh tố &#39;ôm eo&#39;, &#39;gạ gẫm&#39;](https://vnexpress.net/hai-can-bo-dh-vinh-bi-dieu-chuyen-vi-nu-sinh-to-om-eo-ga-gam-4905588.html) - 08:47 24/06/2025
-- 🧰 [8 dạng câu hỏi &#39;bẫy điểm&#39; trong đề thi Tiếng Anh tốt nghiệp THPT](https://vnexpress.net/8-dang-cau-hoi-bay-diem-trong-de-thi-tieng-anh-tot-nghiep-thpt-4904939.html) - 08:09 24/06/2025
-- 🧑‍💻 [Thủ khoa lớp 10 TP HCM thức đến 2h để luyện đề](https://vnexpress.net/thu-khoa-lop-10-tp-hcm-thuc-den-2h-de-luyen-de-4905539.html) - 07:25 24/06/2025
-- 🫶 [&#39;Nên dùng AI để khám phá không gian phát triển sự nghiệp&#39;](https://vnexpress.net/nen-dung-ai-de-kham-pha-khong-gian-phat-trien-su-nghiep-4904240.html) - 07:00 24/06/2025
-- 🪜 [Top 10 thí sinh điểm cao nhất kỳ thi lớp 10 THPT chuyên Sư phạm](https://vnexpress.net/top-10-thi-sinh-diem-cao-nhat-moi-lop-vao-truong-thpt-chuyen-su-pham-2025-4905400.html) - 02:15 24/06/2025
-- 🎊 [Những lỗi khiến thí sinh bị trừ điểm thi tốt nghiệp THPT 2025](https://vnexpress.net/nhung-loi-bi-tru-diem-thi-tot-nghiep-thpt-2025-4904503.html) - 00:27 24/06/2025
-- 🧐 [Điểm chuẩn lớp 10 TP HCM có thể tăng 0,5-1,5 ở trường top đầu](https://vnexpress.net/diem-chuan-lop-10-tp-hcm-co-the-tang-0-5-1-5-o-truong-top-dau-4905341.html) - 23:59 23/06/2025
-- 🌈 [Nữ sinh đỗ thủ khoa thi lớp 10 với điểm Toán tuyệt đối](https://vnexpress.net/nu-sinh-do-thu-khoa-thi-lop-10-voi-diem-toan-tuyet-doi-4905310.html) - 17:00 23/06/2025
-- 🥰 [Trường THCS Ngoại ngữ công bố điểm chuẩn lớp 6](https://vnexpress.net/diem-chuan-lop-6-thcs-ngoai-ngu-nam-2025-4905317.html) - 15:42 23/06/2025
-- 🎡 [Tỉnh nào có quy mô kinh tế lớn nhất cả nước sau sáp nhập?](https://vnexpress.net/tinh-nao-co-quy-mo-kinh-te-lon-nhat-ca-nuoc-sau-sap-nhap-4905241.html) - 12:52 23/06/2025
-- 🎊 [Hai thủ khoa thi lớp 10 ở TP HCM đạt điểm Toán tuyệt đối](https://vnexpress.net/hai-thu-khoa-thi-lop-10-o-tp-hcm-dat-diem-toan-tuyet-doi-4904850.html) - 10:30 23/06/2025
-- 🌏 [Điểm chuẩn lớp 6 trường Trần Đại Nghĩa tăng](https://vnexpress.net/diem-chuan-lop-6-thcs-thpt-tran-dai-nghia-nam-2025-4904799.html) - 09:45 23/06/2025
-- 🥸 [Nam sinh giành &#39;cú đúp&#39; thủ khoa lớp 10 chuyên Toán](https://vnexpress.net/nam-sinh-gianh-cu-dup-thu-khoa-lop-10-chuyen-toan-4905013.html) - 06:06 23/06/2025
-- 🕴 [Điểm chuẩn lớp 10 chuyên Sư phạm cao nhất 21/30](https://vnexpress.net/diem-chuan-lop-10-chuyen-su-pham-cao-nhat-21-30-4904942.html) - 05:15 23/06/2025
-- 💂 [Lọt top xét tuyển tài năng Bách khoa với SAT tuyệt đối, IELTS 8.0](https://vnexpress.net/lot-top-xet-tuyen-tai-nang-bach-khoa-voi-sat-tuyet-doi-ielts-8-0-4904911.html) - 04:56 23/06/2025
-- 🕴 [Điểm chuẩn lớp 10 chuyên TP HCM cao nhất 37,5](https://vnexpress.net/diem-chuan-lop-10-chuyen-tp-hcm-nam-2025-4904796.html) - 03:37 23/06/2025
-- 🌋 [Nữ sinh bốn lần liên tiếp đạt điểm tuyệt đối Đọc - Viết ở bài thi SAT](https://vnexpress.net/nu-sinh-bon-lan-lien-tiep-dat-diem-tuyet-doi-doc-viet-o-bai-thi-sat-4904843.html) - 02:04 23/06/2025
-- 🪜 [Phổ điểm Toán, Văn, Tiếng Anh thi lớp 10 của TP HCM](https://vnexpress.net/pho-diem-toan-van-tieng-anh-thi-lop-10-cua-tp-hcm-4904849.html) - 00:41 23/06/2025
-- 🕴 [Chàng trai tốt nghiệp Sư phạm Hà Nội với điểm gần tuyệt đối](https://vnexpress.net/chang-trai-tot-nghiep-su-pham-ha-noi-voi-diem-gan-tuyet-doi-4904445.html) - 23:00 22/06/2025
-- 🎃 [TP HCM công bố điểm thi lớp 10](https://vnexpress.net/tra-cuu-diem-thi-lop-10-tp-hcm-nam-2025-chinh-xac-nhat-4904774.html) - 17:00 22/06/2025
-- 🦏 [Nước nào sản xuất nhiều ôtô nhiều nhất thế giới?](https://vnexpress.net/nuoc-nao-san-xuat-nhieu-oto-nhieu-nhat-the-gioi-4904769.html) - 13:39 22/06/2025
-- 🧑‍🏫 [Giành học bổng trường top 4 Mỹ với điểm đại học trung bình khá](https://vnexpress.net/gianh-hoc-bong-truong-top-4-my-voi-diem-dai-hoc-trung-binh-kha-4904616.html) - 06:00 22/06/2025
-- 💡 [Loạt thí sinh đăng ký vào Bách khoa Hà Nội với điểm chứng chỉ tuyệt đối](https://vnexpress.net/loat-thi-sinh-dang-ky-vao-bach-khoa-ha-noi-voi-diem-chung-chi-tuyet-doi-4904668.html) - 02:59 22/06/2025
-- 🐎 [Đề thi Toán lớp 10 tăng thực tế, &#39;bớt kỹ thuật&#39;](https://vnexpress.net/de-thi-toan-lop-10-tang-thuc-te-bot-ky-thuat-4903104.html) - 01:24 22/06/2025
-- 🧰 [10 đại học tốt nhất thế giới năm 2026](https://vnexpress.net/10-dai-hoc-tot-nhat-the-gioi-nam-2026-4904119.html) - 17:00 21/06/2025
-- 🙉 [Thủ khoa lập kỷ lục điểm thi lớp 10 trường chuyên Võ Nguyên Giáp](https://vnexpress.net/thu-khoa-lap-ky-luc-diem-thi-lop-10-truong-chuyen-vo-nguyen-giap-4904077.html) - 13:36 21/06/2025
-- ⚗️ [Công trình tôn giáo lớn nhất thế giới ở Campuchia tên là gì?](https://vnexpress.net/cong-trinh-ton-giao-lon-nhat-the-gioi-o-campuchia-ten-la-gi-4904541.html) - 12:44 21/06/2025
-- 🌝 [DTP cùng trường ĐH Hoa Sen triển khai chứng chỉ tiếng Anh LanguageCert](https://vnexpress.net/dtp-cung-truong-dh-hoa-sen-trien-khai-chung-chi-tieng-anh-languagecert-4904069.html) - 07:00 21/06/2025
-- ⛽️ [20 đại học Mỹ nhận nhiều sinh viên quốc tế nhất](https://vnexpress.net/20-dai-hoc-my-nhan-nhieu-sinh-vien-quoc-te-nhat-4903390.html) - 06:59 21/06/2025
-- 🌜 [Sinh viên 4 ngành của Đại học Quy Nhơn được vay học phí không lãi suất](https://vnexpress.net/sinh-vien-4-nganh-cua-dai-hoc-quy-nhon-duoc-vay-hoc-phi-khong-lai-suat-4904111.html) - 06:30 21/06/2025
-- ⚗️ [16 đại học tuyển ngành Y khoa bằng tổ hợp có Tiếng Anh](https://vnexpress.net/16-dai-hoc-tuyen-nganh-y-khoa-bang-to-hop-co-tieng-anh-4899484.html) - 04:03 21/06/2025
-- 🧰 [Sakura Montessori ra mắt bộ nhận diện thương hiệu và khai trương cơ sở mới](https://vnexpress.net/sakura-montessori-ra-mat-bo-nhan-dien-thuong-hieu-va-khai-truong-co-so-moi-4903099.html) - 03:00 21/06/2025
-- 🤗 [Giành ngôi thủ khoa chuyên Lam Sơn với hai điểm 10](https://vnexpress.net/gianh-ngoi-thu-khoa-chuyen-lam-son-voi-hai-diem-10-4904307.html) - 02:06 21/06/2025
-- 🔥 [Tỉnh nào có đường bờ biển dài nhất sau sáp nhập?](https://vnexpress.net/tinh-nao-co-duong-bo-bien-dai-nhat-sau-sap-nhap-4904314.html) - 13:18 20/06/2025
-- 💪 [&#39;Câu hỏi nghề nào hot không còn phù hợp thời AI&#39;](https://vnexpress.net/cau-hoi-nghe-nao-hot-khong-con-phu-hop-thoi-ai-4904241.html) - 11:00 20/06/2025
-- 💂 [Bộ trưởng GD&amp;amp;ĐT: Xem xét bỏ tỷ lệ 40% học sinh THCS vào trường nghề](https://vnexpress.net/bo-truong-gd-dt-xem-xet-bo-ty-le-40-hoc-sinh-thcs-vao-truong-nghe-4904302.html) - 10:19 20/06/2025
-- 🌮 [TP HCM công bố điểm thi lớp 10 sáng 23/6](https://vnexpress.net/tp-hcm-cong-bo-diem-thi-lop-10-sang-23-6-4904290.html) - 09:34 20/06/2025
-- 🪄 [Sinh viên truyền thông nhận lương tháng 9-17 triệu đồng sau tốt nghiệp](https://vnexpress.net/sinh-vien-truyen-thong-nhan-luong-thang-9-17-trieu-dong-sau-tot-nghiep-4898321.html) - 08:27 20/06/2025
-- 🎡 [Đề xuất hỗ trợ 3,6 triệu/tháng cho sinh viên kỹ thuật, công nghệ](https://vnexpress.net/de-xuat-ho-tro-3-6-trieu-thang-cho-sinh-vien-ky-thuat-cong-nghe-4904010.html) - 07:28 20/06/2025
-- 🌈 [Học viện Tài chính xét tuyển kết hợp với 3 nhóm học sinh giỏi](https://vnexpress.net/hoc-vien-tai-chinh-xet-tuyen-ket-hop-voi-3-nhom-hoc-sinh-gioi-4903453.html) - 04:51 20/06/2025
-- 🎊 [19 sinh viên ngành Trí tuệ nhân tạo tốt nghiệp sớm một năm](https://vnexpress.net/19-sinh-vien-nganh-tri-tue-nhan-tao-tot-nghiep-som-mot-nam-4903649.html) - 23:24 19/06/2025
-- ⚗️ [Đề, đáp án khảo sát lớp 6 trường THCS-THPT Trần Đại Nghĩa](https://vnexpress.net/de-dap-an-khao-sat-lop-6-truong-thcs-thpt-tran-dai-nghia-4903890.html) - 15:34 19/06/2025
-- 🌁 [Nữ sinh trường làng thành thủ khoa chuyên Toán](https://vnexpress.net/nu-sinh-truong-lang-thanh-thu-khoa-chuyen-toan-4903177.html) - 12:00 19/06/2025
-- 🦏 [Hạ khen thưởng hàng trăm giáo viên vụ không nộp quỹ từ thiện](https://vnexpress.net/ha-khen-thuong-hang-tram-giao-vien-vu-khong-nop-quy-tu-thien-4903732.html) - 09:17 19/06/2025
-- 👍 [Khoảng 1/3 sinh viên Luật làm đúng ngành sau tốt nghiệp](https://vnexpress.net/khoang-1-3-sinh-vien-luat-lam-dung-nganh-sau-tot-nghiep-4903608.html) - 07:52 19/06/2025
-- 🌈 [Mỹ nối lại phỏng vấn visa cho du học sinh](https://vnexpress.net/my-noi-lai-phong-van-visa-cho-du-hoc-sinh-4903667.html) - 05:09 19/06/2025
-- 🕴 [Số thí sinh đăng ký xét tuyển nhóm trường quân đội tăng](https://vnexpress.net/so-thi-sinh-dang-ky-xet-tuyen-nhom-truong-quan-doi-tang-4903587.html) - 04:49 19/06/2025
-- 🧰 [Loạt đại học Việt Nam nhảy vọt trên bảng xếp hạng thế giới](https://vnexpress.net/loat-dai-hoc-viet-nam-nhay-vot-tren-bang-xep-hang-the-gioi-4903574.html) - 03:07 19/06/2025<!-- vnexpress-giao-duc:END -->
+- 🤓 [Hai nữ sinh đạt điểm Văn gần tuyệt đối ở TP HCM](https://vnexpress.net/hai-nu-sinh-dat-diem-van-gan-tuyet-doi-o-tp-hcm-4906273.html) - 17:01 25/06/2025
+- 🦆 [Nam sinh cụt tứ chi muốn tự viết bài thi tốt nghiệp dù được miễn](https://vnexpress.net/nam-sinh-cut-tu-chi-muon-tu-viet-bai-thi-tot-nghiep-du-duoc-mien-4906294.html) - 14:47 25/06/2025
+- 🦩 [Gần 10.000 thí sinh bỏ làm thủ tục thi tốt nghiệp THPT](https://vnexpress.net/gan-10-000-thi-sinh-bo-lam-thu-tuc-thi-tot-nghiep-thpt-4906175.html) - 11:59 25/06/2025
+- 🌮 [Thí sinh tự tin trước kỳ thi tốt nghiệp THPT 2025](https://vnexpress.net/thi-sinh-tu-tin-truoc-ky-thi-tot-nghiep-thpt-2025-4906085.html) - 08:45 25/06/2025
+- 🔭 [TP HCM công bố điểm chuẩn lớp 10 vào tối 26/6](https://vnexpress.net/tp-hcm-cong-bo-diem-chuan-lop-10-vao-toi-26-6-4906147.html) - 08:15 25/06/2025
+- 💡 [Anh em sinh đôi giành ngôi thủ khoa và á khoa chuyên Lý](https://vnexpress.net/anh-em-sinh-doi-gianh-ngoi-thu-khoa-va-a-khoa-chuyen-ly-4905423.html) - 06:49 25/06/2025
+- 🥰 [Bốn lưu ý với thí sinh thi tốt nghiệp THPT 2025](https://vnexpress.net/nhung-van-dung-bi-cam-mang-vao-phong-thi-tot-nghiep-thpt-4905570.html) - 04:12 25/06/2025
+- 🐲 [Cả nước sẵn sàng trước giờ thi tốt nghiệp THPT 2025](https://vnexpress.net/ca-nuoc-san-sang-truoc-gio-thi-tot-nghiep-thpt-2025-4905523.html) - 03:04 25/06/2025
+- 🦒 [Thủ khoa ĐH Thương mại có việc làm trước tốt nghiệp một năm](https://vnexpress.net/thu-khoa-dh-thuong-mai-co-viec-lam-truoc-tot-nghiep-mot-nam-4905617.html) - 23:00 24/06/2025
+- 🦆 [Cách điền phiếu trắc nghiệm thi tốt nghiệp THPT](https://vnexpress.net/huong-dan-dien-phieu-tra-loi-trac-nghiem-thi-tot-nghiep-thpt-2025-4905055.html) - 17:00 24/06/2025
+- 🧰 [Các mốc quan trọng thi tốt nghiệp THPT và tuyển sinh đại học 2025](https://vnexpress.net/lich-thi-tot-nghiep-thpt-2025-va-tuyen-sinh-dai-hoc-chinh-xac-nhat-4867545.html) - 14:59 24/06/2025
+- 🐘 [Ba trường hợp được đặc cách tốt nghiệp THPT](https://vnexpress.net/ba-truong-hop-duoc-dac-cach-tot-nghiep-thpt-4905209.html) - 13:00 24/06/2025
+- 🤓 [Dự kiến thi cấp phép hành nghề Y bằng hình thức trắc nghiệm](https://vnexpress.net/du-kien-thi-cap-phep-hanh-nghe-y-bang-hinh-thuc-trac-nghiem-4905406.html) - 11:50 24/06/2025
+- 🧰 [Hai cán bộ ĐH Vinh bị điều chuyển vì nữ sinh tố &#39;ôm eo&#39;, &#39;gạ gẫm&#39;](https://vnexpress.net/hai-can-bo-dh-vinh-bi-dieu-chuyen-vi-nu-sinh-to-om-eo-ga-gam-4905588.html) - 08:47 24/06/2025
+- 🧑‍💻 [8 dạng câu hỏi &#39;bẫy điểm&#39; trong đề thi Tiếng Anh tốt nghiệp THPT](https://vnexpress.net/8-dang-cau-hoi-bay-diem-trong-de-thi-tieng-anh-tot-nghiep-thpt-4904939.html) - 08:09 24/06/2025
+- 🫶 [Thủ khoa lớp 10 TP HCM thức đến 2h để luyện đề](https://vnexpress.net/thu-khoa-lop-10-tp-hcm-thuc-den-2h-de-luyen-de-4905539.html) - 07:25 24/06/2025
+- 🪜 [&#39;Nên dùng AI để khám phá không gian phát triển sự nghiệp&#39;](https://vnexpress.net/nen-dung-ai-de-kham-pha-khong-gian-phat-trien-su-nghiep-4904240.html) - 07:00 24/06/2025
+- 🎊 [Top 10 thí sinh điểm cao nhất kỳ thi lớp 10 THPT chuyên Sư phạm](https://vnexpress.net/top-10-thi-sinh-diem-cao-nhat-moi-lop-vao-truong-thpt-chuyen-su-pham-2025-4905400.html) - 02:15 24/06/2025
+- 🧐 [Những lỗi khiến thí sinh bị trừ điểm thi tốt nghiệp THPT 2025](https://vnexpress.net/nhung-loi-bi-tru-diem-thi-tot-nghiep-thpt-2025-4904503.html) - 00:27 24/06/2025
+- 🌈 [Điểm chuẩn lớp 10 TP HCM có thể tăng 0,5-1,5 ở trường top đầu](https://vnexpress.net/diem-chuan-lop-10-tp-hcm-co-the-tang-0-5-1-5-o-truong-top-dau-4905341.html) - 23:59 23/06/2025
+- 🥰 [Nữ sinh đỗ thủ khoa thi lớp 10 với điểm Toán tuyệt đối](https://vnexpress.net/nu-sinh-do-thu-khoa-thi-lop-10-voi-diem-toan-tuyet-doi-4905310.html) - 17:00 23/06/2025
+- 🎡 [Trường THCS Ngoại ngữ công bố điểm chuẩn lớp 6](https://vnexpress.net/diem-chuan-lop-6-thcs-ngoai-ngu-nam-2025-4905317.html) - 15:42 23/06/2025
+- 🎊 [Tỉnh nào có quy mô kinh tế lớn nhất cả nước sau sáp nhập?](https://vnexpress.net/tinh-nao-co-quy-mo-kinh-te-lon-nhat-ca-nuoc-sau-sap-nhap-4905241.html) - 12:52 23/06/2025
+- 🌏 [Hai thủ khoa thi lớp 10 ở TP HCM đạt điểm Toán tuyệt đối](https://vnexpress.net/hai-thu-khoa-thi-lop-10-o-tp-hcm-dat-diem-toan-tuyet-doi-4904850.html) - 10:30 23/06/2025
+- 🥸 [Điểm chuẩn lớp 6 trường Trần Đại Nghĩa tăng](https://vnexpress.net/diem-chuan-lop-6-thcs-thpt-tran-dai-nghia-nam-2025-4904799.html) - 09:45 23/06/2025
+- 🕴 [Nam sinh giành &#39;cú đúp&#39; thủ khoa lớp 10 chuyên Toán](https://vnexpress.net/nam-sinh-gianh-cu-dup-thu-khoa-lop-10-chuyen-toan-4905013.html) - 06:06 23/06/2025
+- 💂 [Điểm chuẩn lớp 10 chuyên Sư phạm cao nhất 21/30](https://vnexpress.net/diem-chuan-lop-10-chuyen-su-pham-cao-nhat-21-30-4904942.html) - 05:15 23/06/2025
+- 🕴 [Lọt top xét tuyển tài năng Bách khoa với SAT tuyệt đối, IELTS 8.0](https://vnexpress.net/lot-top-xet-tuyen-tai-nang-bach-khoa-voi-sat-tuyet-doi-ielts-8-0-4904911.html) - 04:56 23/06/2025
+- 🌋 [Điểm chuẩn lớp 10 chuyên TP HCM cao nhất 37,5](https://vnexpress.net/diem-chuan-lop-10-chuyen-tp-hcm-nam-2025-4904796.html) - 03:37 23/06/2025
+- 🪜 [Nữ sinh bốn lần liên tiếp đạt điểm tuyệt đối Đọc - Viết ở bài thi SAT](https://vnexpress.net/nu-sinh-bon-lan-lien-tiep-dat-diem-tuyet-doi-doc-viet-o-bai-thi-sat-4904843.html) - 02:04 23/06/2025
+- 🕴 [Phổ điểm Toán, Văn, Tiếng Anh thi lớp 10 của TP HCM](https://vnexpress.net/pho-diem-toan-van-tieng-anh-thi-lop-10-cua-tp-hcm-4904849.html) - 00:41 23/06/2025
+- 🎃 [Chàng trai tốt nghiệp Sư phạm Hà Nội với điểm gần tuyệt đối](https://vnexpress.net/chang-trai-tot-nghiep-su-pham-ha-noi-voi-diem-gan-tuyet-doi-4904445.html) - 23:00 22/06/2025
+- 🦏 [TP HCM công bố điểm thi lớp 10](https://vnexpress.net/tra-cuu-diem-thi-lop-10-tp-hcm-nam-2025-chinh-xac-nhat-4904774.html) - 17:00 22/06/2025
+- 🧑‍🏫 [Nước nào sản xuất nhiều ôtô nhiều nhất thế giới?](https://vnexpress.net/nuoc-nao-san-xuat-nhieu-oto-nhieu-nhat-the-gioi-4904769.html) - 13:39 22/06/2025
+- 💡 [Giành học bổng trường top 4 Mỹ với điểm đại học trung bình khá](https://vnexpress.net/gianh-hoc-bong-truong-top-4-my-voi-diem-dai-hoc-trung-binh-kha-4904616.html) - 06:00 22/06/2025
+- 🐎 [Loạt thí sinh đăng ký vào Bách khoa Hà Nội với điểm chứng chỉ tuyệt đối](https://vnexpress.net/loat-thi-sinh-dang-ky-vao-bach-khoa-ha-noi-voi-diem-chung-chi-tuyet-doi-4904668.html) - 02:59 22/06/2025
+- 🧰 [Đề thi Toán lớp 10 tăng thực tế, &#39;bớt kỹ thuật&#39;](https://vnexpress.net/de-thi-toan-lop-10-tang-thuc-te-bot-ky-thuat-4903104.html) - 01:24 22/06/2025
+- 🙉 [10 đại học tốt nhất thế giới năm 2026](https://vnexpress.net/10-dai-hoc-tot-nhat-the-gioi-nam-2026-4904119.html) - 17:00 21/06/2025
+- ⚗️ [Thủ khoa lập kỷ lục điểm thi lớp 10 trường chuyên Võ Nguyên Giáp](https://vnexpress.net/thu-khoa-lap-ky-luc-diem-thi-lop-10-truong-chuyen-vo-nguyen-giap-4904077.html) - 13:36 21/06/2025
+- 🌝 [Công trình tôn giáo lớn nhất thế giới ở Campuchia tên là gì?](https://vnexpress.net/cong-trinh-ton-giao-lon-nhat-the-gioi-o-campuchia-ten-la-gi-4904541.html) - 12:44 21/06/2025
+- ⛽️ [DTP cùng trường ĐH Hoa Sen triển khai chứng chỉ tiếng Anh LanguageCert](https://vnexpress.net/dtp-cung-truong-dh-hoa-sen-trien-khai-chung-chi-tieng-anh-languagecert-4904069.html) - 07:00 21/06/2025
+- 🌜 [20 đại học Mỹ nhận nhiều sinh viên quốc tế nhất](https://vnexpress.net/20-dai-hoc-my-nhan-nhieu-sinh-vien-quoc-te-nhat-4903390.html) - 06:59 21/06/2025
+- ⚗️ [Sinh viên 4 ngành của Đại học Quy Nhơn được vay học phí không lãi suất](https://vnexpress.net/sinh-vien-4-nganh-cua-dai-hoc-quy-nhon-duoc-vay-hoc-phi-khong-lai-suat-4904111.html) - 06:30 21/06/2025
+- 🧰 [16 đại học tuyển ngành Y khoa bằng tổ hợp có Tiếng Anh](https://vnexpress.net/16-dai-hoc-tuyen-nganh-y-khoa-bang-to-hop-co-tieng-anh-4899484.html) - 04:03 21/06/2025
+- 🤗 [Sakura Montessori ra mắt bộ nhận diện thương hiệu và khai trương cơ sở mới](https://vnexpress.net/sakura-montessori-ra-mat-bo-nhan-dien-thuong-hieu-va-khai-truong-co-so-moi-4903099.html) - 03:00 21/06/2025
+- 🔥 [Giành ngôi thủ khoa chuyên Lam Sơn với hai điểm 10](https://vnexpress.net/gianh-ngoi-thu-khoa-chuyen-lam-son-voi-hai-diem-10-4904307.html) - 02:06 21/06/2025
+- 💪 [Tỉnh nào có đường bờ biển dài nhất sau sáp nhập?](https://vnexpress.net/tinh-nao-co-duong-bo-bien-dai-nhat-sau-sap-nhap-4904314.html) - 13:18 20/06/2025
+- 💂 [&#39;Câu hỏi nghề nào hot không còn phù hợp thời AI&#39;](https://vnexpress.net/cau-hoi-nghe-nao-hot-khong-con-phu-hop-thoi-ai-4904241.html) - 11:00 20/06/2025
+- 🌮 [Bộ trưởng GD&amp;amp;ĐT: Xem xét bỏ tỷ lệ 40% học sinh THCS vào trường nghề](https://vnexpress.net/bo-truong-gd-dt-xem-xet-bo-ty-le-40-hoc-sinh-thcs-vao-truong-nghe-4904302.html) - 10:19 20/06/2025
+- 🪄 [TP HCM công bố điểm thi lớp 10 sáng 23/6](https://vnexpress.net/tp-hcm-cong-bo-diem-thi-lop-10-sang-23-6-4904290.html) - 09:34 20/06/2025
+- 🎡 [Sinh viên truyền thông nhận lương tháng 9-17 triệu đồng sau tốt nghiệp](https://vnexpress.net/sinh-vien-truyen-thong-nhan-luong-thang-9-17-trieu-dong-sau-tot-nghiep-4898321.html) - 08:27 20/06/2025
+- 🌈 [Đề xuất hỗ trợ 3,6 triệu/tháng cho sinh viên kỹ thuật, công nghệ](https://vnexpress.net/de-xuat-ho-tro-3-6-trieu-thang-cho-sinh-vien-ky-thuat-cong-nghe-4904010.html) - 07:28 20/06/2025
+- 🎊 [Học viện Tài chính xét tuyển kết hợp với 3 nhóm học sinh giỏi](https://vnexpress.net/hoc-vien-tai-chinh-xet-tuyen-ket-hop-voi-3-nhom-hoc-sinh-gioi-4903453.html) - 04:51 20/06/2025
+- ⚗️ [19 sinh viên ngành Trí tuệ nhân tạo tốt nghiệp sớm một năm](https://vnexpress.net/19-sinh-vien-nganh-tri-tue-nhan-tao-tot-nghiep-som-mot-nam-4903649.html) - 23:24 19/06/2025
+- 🌁 [Đề, đáp án khảo sát lớp 6 trường THCS-THPT Trần Đại Nghĩa](https://vnexpress.net/de-dap-an-khao-sat-lop-6-truong-thcs-thpt-tran-dai-nghia-4903890.html) - 15:34 19/06/2025
+- 🦏 [Nữ sinh trường làng thành thủ khoa chuyên Toán](https://vnexpress.net/nu-sinh-truong-lang-thanh-thu-khoa-chuyen-toan-4903177.html) - 12:00 19/06/2025
+- 👍 [Hạ khen thưởng hàng trăm giáo viên vụ không nộp quỹ từ thiện](https://vnexpress.net/ha-khen-thuong-hang-tram-giao-vien-vu-khong-nop-quy-tu-thien-4903732.html) - 09:17 19/06/2025
+- 🌈 [Khoảng 1/3 sinh viên Luật làm đúng ngành sau tốt nghiệp](https://vnexpress.net/khoang-1-3-sinh-vien-luat-lam-dung-nganh-sau-tot-nghiep-4903608.html) - 07:52 19/06/2025
+- 🕴 [Mỹ nối lại phỏng vấn visa cho du học sinh](https://vnexpress.net/my-noi-lai-phong-van-visa-cho-du-hoc-sinh-4903667.html) - 05:09 19/06/2025
+- 🧰 [Số thí sinh đăng ký xét tuyển nhóm trường quân đội tăng](https://vnexpress.net/so-thi-sinh-dang-ky-xet-tuyen-nhom-truong-quan-doi-tang-4903587.html) - 04:49 19/06/2025<!-- vnexpress-giao-duc:END -->
