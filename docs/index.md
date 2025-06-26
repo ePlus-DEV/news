@@ -589,7 +589,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Xuất hiện tin &#39;lọt&#39; đề thi môn Toán, Bộ Giáo dục chuyển Bộ Công an xác minh](https://tienphong.vn/xuat-hien-tin-lot-de-thi-mon-toan-bo-giao-duc-chuyen-bo-cong-an-xac-minh-post1755001.tpo) - 22:49 26/06/2025
+- 💼 [Bộ Giáo dục: Thông tin đề thi tốt nghiệp THPT bị lọt là &#39;không chính xác&#39;](https://tienphong.vn/bo-giao-duc-thong-tin-de-thi-tot-nghiep-thpt-bi-lot-la-khong-chinh-xac-post1755001.tpo) - 22:49 26/06/2025
 - 🎊 [Khủng hoảng tồi tệ nhất trong 21 năm của điện ảnh Hàn Quốc](https://tienphong.vn/khung-hoang-toi-te-nhat-trong-21-nam-cua-dien-anh-han-quoc-post1754273.tpo) - 22:44 26/06/2025
 - 💼 [Mạng xã hội chia rẽ vì Jimin và Jungkook &lpar;BTS&rpar; đến Đà Nẵng](https://tienphong.vn/mang-xa-hoi-chia-re-vi-jimin-va-jungkook-bts-den-da-nang-post1754898.tpo) - 22:35 26/06/2025
 - 👺 [Hà Nội: Công an làm việc với UBND phường về hàng loạt tài liệu bị đốt bên cạnh trụ sở trước ngày sáp nhập](https://tienphong.vn/ha-noi-cong-an-lam-viec-voi-ubnd-phuong-ve-hang-loat-tai-lieu-bi-dot-ben-canh-tru-so-truoc-ngay-sap-nhap-post1754993.tpo) - 22:09 26/06/2025
