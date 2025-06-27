@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Ông Hun Sen cáo buộc Thủ tướng Thái Lan &#39;khi quân&#39;](https://vnexpress.net/ong-hun-sen-cao-buoc-thu-tuong-thai-lan-khi-quan-4907134.html) - 08:39 27/06/2025
+- 🎭 [Ông Hun Sen livestream hơn ba giờ về quan hệ Campuchia - Thái Lan](https://vnexpress.net/ong-hun-sen-livestream-hon-ba-gio-ve-quan-he-campuchia-thai-lan-4907134.html) - 08:39 27/06/2025
 - 🕴 [Thủ tướng Hungary nêu lý do phản đối Ukraine gia nhập EU](https://vnexpress.net/thu-tuong-hungary-neu-ly-do-phan-doi-ukraine-gia-nhap-eu-4907103.html) - 08:25 27/06/2025
 - 🤭 [Đan Mạch muốn cho người dân đăng ký bản quyền đặc điểm nhận dạng](https://vnexpress.net/dan-mach-muon-cho-nguoi-dan-dang-ky-ban-quyen-dac-diem-nhan-dang-4907027.html) - 08:14 27/06/2025
 - 🧑‍💻 [Ukraine để lọt toàn bộ tên lửa Kinzhal trong đòn tập kích của Nga](https://vnexpress.net/ukraine-de-lot-toan-bo-ten-lua-kinzhal-trong-don-tap-kich-cua-nga-4907109.html) - 08:06 27/06/2025
