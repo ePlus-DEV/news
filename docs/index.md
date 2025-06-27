@@ -524,7 +524,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Trực tiếp play-off SHB Đà Nẵng và Trường Tươi Bình Phước](https://muctim.tuoitre.vn/v-league-2025-2026-truc-tiep-play-off-shb-da-nang-va-truong-tuoi-binh-phuoc-101250627180234051.htm) - 11:27 27/06/2025
+- 🤔 [Thủ môn Bùi Tiến Dũng ngăn Công Phượng ghi bàn trên chấm phạt đền, SHB Đà Nẵng trụ lại V-League 1](https://muctim.tuoitre.vn/v-league-2025-2026-truc-tiep-play-off-shb-da-nang-va-truong-tuoi-binh-phuoc-101250627180234051.htm) - 11:27 27/06/2025
 - 🥷 [Tạm biệt mùa thi tốt nghiệp THPT 2025: Mùa thi đong đầy cảm xúc](https://muctim.tuoitre.vn/tam-biet-mua-thi-tot-nghiep-thpt-2025-mua-thi-dong-day-cam-xuc-101250627135624827.htm) - 10:07 27/06/2025
 - 🤖 [Sinh viên Công nghệ thông tin HUTECH trưởng thành từ môi trường học thật, làm thật](https://muctim.tuoitre.vn/sinh-vien-cong-nghe-thong-tin-hutech-truong-thanh-tu-moi-truong-hoc-that-lam-that-101250627152903922.htm) - 10:03 27/06/2025
 - 🤓 [Ra mắt ở vị trí hạng 2 Boys Planet, Sung Hanbin vẫn toả sáng nhờ điều này](https://muctim.tuoitre.vn/ra-mat-o-vi-tri-hang-2-boys-planet-sung-hanbin-van-toa-sang-nho-dieu-nay-101250627094657067.htm) - 09:13 27/06/2025
