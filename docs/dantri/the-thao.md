@@ -4,11 +4,11 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Alcaraz đứng trước cơ hội đi vào lịch sử Grand Slam](https://dantri.com.vn/the-thao/alcaraz-dung-truoc-co-hoi-di-vao-lich-su-grand-slam-20250627132410930.htm) - 06:24 27/06/2025
-- 💯 [CLB châu Á duy nhất gây ấn tượng mạnh ở FIFA Club World Cup](https://dantri.com.vn/the-thao/clb-chau-a-duy-nhat-gay-an-tuong-manh-o-fifa-club-world-cup-20250627132116146.htm) - 06:21 27/06/2025
-- ⛽️ [Mbappe cáo buộc PSG quấy rối đạo đức](https://dantri.com.vn/the-thao/mbappe-cao-buoc-psg-quay-roi-dao-duc-20250627125238490.htm) - 05:53 27/06/2025
-- 💃 [Đãi ngộ “vua chúa” của Ronaldo: Một ngày lương bằng nhiều người làm cả đời](https://dantri.com.vn/the-thao/dai-ngo-vua-chua-cua-ronaldo-mot-ngay-luong-bang-nhieu-nguoi-lam-ca-doi-20250627110538146.htm) - 04:06 27/06/2025
-- 🌈 [Xác định 8 cặp đấu và phân nhánh ở vòng 1/8 FIFA Club World Cup 2025](https://dantri.com.vn/the-thao/xac-dinh-8-cap-dau-va-phan-nhanh-o-vong-18-fifa-club-world-cup-2025-20250627102122462.htm) - 03:21 27/06/2025
+- 🎡 [Xác định 8 cặp đấu và phân nhánh ở vòng 1/8 FIFA Club World Cup 2025](https://dantri.com.vn/the-thao/xac-dinh-8-cap-dau-va-phan-nhanh-o-vong-18-fifa-club-world-cup-2025-20250627102122462.htm) - 07:21 27/06/2025
+- 💯 [Alcaraz đứng trước cơ hội đi vào lịch sử Grand Slam](https://dantri.com.vn/the-thao/alcaraz-dung-truoc-co-hoi-di-vao-lich-su-grand-slam-20250627132410930.htm) - 06:24 27/06/2025
+- ⛽️ [CLB châu Á duy nhất gây ấn tượng mạnh ở FIFA Club World Cup](https://dantri.com.vn/the-thao/clb-chau-a-duy-nhat-gay-an-tuong-manh-o-fifa-club-world-cup-20250627132116146.htm) - 06:21 27/06/2025
+- 💃 [Mbappe cáo buộc PSG quấy rối đạo đức](https://dantri.com.vn/the-thao/mbappe-cao-buoc-psg-quay-roi-dao-duc-20250627125238490.htm) - 05:53 27/06/2025
+- 🌈 [Đãi ngộ “vua chúa” của Ronaldo: Một ngày lương bằng nhiều người làm cả đời](https://dantri.com.vn/the-thao/dai-ngo-vua-chua-cua-ronaldo-mot-ngay-luong-bang-nhieu-nguoi-lam-ca-doi-20250627110538146.htm) - 04:06 27/06/2025
 - 🦅 [Thắng đậm Salzburg, Real Madrid gặp Juventus ở FIFA Club World Cup 2025](https://dantri.com.vn/the-thao/thang-dam-salzburg-real-madrid-gap-juventus-o-fifa-club-world-cup-2025-20250627101826538.htm) - 03:18 27/06/2025
 - 🌝 [Haaland cán mốc 300 bàn thắng, nhanh hơn hẳn Messi, Ronaldo](https://dantri.com.vn/the-thao/haaland-can-moc-300-ban-thang-nhanh-hon-han-messi-ronaldo-20250627083653681.htm) - 01:39 27/06/2025
 - 🚀 [Ronaldo quyết định gắn bó với Al-Nassr thêm 2 năm](https://dantri.com.vn/the-thao/ronaldo-quyet-dinh-gan-bo-voi-al-nassr-them-2-nam-20250627073826401.htm) - 00:38 27/06/2025
