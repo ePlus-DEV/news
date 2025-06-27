@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- dantri-giai-tri:START -->
 - 🤩 [Anna Wintour bất ngờ rời vị trí Tổng biên tập Vogue Mỹ sau 37 năm](https://dantri.com.vn/giai-tri/anna-wintour-bat-ngo-roi-vi-tri-tong-bien-tap-vogue-my-sau-37-nam-20250627152336977.htm) - 12:08 27/06/2025
 - 🔥 [Tỷ phú Jeff Bezos và MC nóng bỏng đã kết hôn, ký hợp đồng tiền hôn nhân](https://dantri.com.vn/giai-tri/ty-phu-jeff-bezos-va-mc-nong-bong-da-ket-hon-ky-hop-dong-tien-hon-nhan-20250627140647528.htm) - 08:19 27/06/2025
-- 🚀 [Lộ diện top 3 Hoa hậu Việt Nam 2024](https://dantri.com.vn/giai-tri/lo-dien-top-3-hoa-hau-viet-nam-2024-20250627142040528.htm) - 07:43 27/06/2025
+- 🚀 [Hà Trúc Linh đăng quang Hoa hậu Việt Nam 2024](https://dantri.com.vn/giai-tri/ha-truc-linh-dang-quang-hoa-hau-viet-nam-2024-20250627142040528.htm) - 07:43 27/06/2025
 - 🔥 [Dàn sao &quot;Săn bắt cướp&quot;: Người lên Phó giám đốc, người lấy vợ nhờ gói trà ấm](https://dantri.com.vn/giai-tri/dan-sao-san-bat-cuop-nguoi-len-pho-giam-doc-nguoi-lay-vo-nho-goi-tra-am-20250625013705933.htm) - 07:22 27/06/2025
 - 🌈 [Áo choàng tắm, nón lá giá vài triệu đồng của G-Dragon bất ngờ &quot;cháy hàng&quot;](https://dantri.com.vn/giai-tri/ao-choang-tam-non-la-gia-vai-trieu-dong-cua-g-dragon-bat-ngo-chay-hang-20250627103110354.htm) - 06:16 27/06/2025
 - 📝 [Kim Kardashian và dàn sao hào hứng dự đám cưới tỷ phú Jeff Bezos](https://dantri.com.vn/giai-tri/kim-kardashian-va-dan-sao-hao-hung-du-dam-cuoi-ty-phu-jeff-bezos-20250627123113575.htm) - 06:06 27/06/2025
