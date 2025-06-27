@@ -5,7 +5,7 @@ sidebar_position: 20
 
 <!-- dantri-tam-long-nhan-ai:START -->
 - 🌝 [Khởi công 2 ngôi nhà Nhân ái tặng gia đình khó khăn tại Quảng Bình](https://dantri.com.vn/tam-long-nhan-ai/khoi-cong-2-ngoi-nha-nhan-ai-tang-gia-dinh-kho-khan-tai-quang-binh-20250627123444580.htm) - 11:48 27/06/2025
-- 🌜 [Hơn 600 triệu đồng từ bạn đọc Dân trí giúp 5 hộ nghèo Điện Biên an cư](https://dantri.com.vn/tam-long-nhan-ai/hon-600-trieu-dong-tu-ban-doc-dan-tri-giup-5-ho-ngheo-dien-bien-an-cu-20250627133156437.htm) - 09:02 27/06/2025
+- 🌜 [Hàng trăm triệu đồng từ bạn đọc Dân trí giúp 5 hộ nghèo Điện Biên an cư](https://dantri.com.vn/tam-long-nhan-ai/hang-tram-trieu-dong-tu-ban-doc-dan-tri-giup-5-ho-ngheo-dien-bien-an-cu-20250627133156437.htm) - 09:02 27/06/2025
 - 👀 [Người mẹ góa 3 lần mổ ung thư, khẩn cầu được sống để nuôi 2 con nhỏ](https://dantri.com.vn/tam-long-nhan-ai/nguoi-me-goa-3-lan-mo-ung-thu-khan-cau-duoc-song-de-nuoi-2-con-nho-20250616124243780.htm) - 06:30 27/06/2025
 - 🚀 [Người mẹ mắc bệnh động kinh, một mình nuôi 3 con trong cảnh khốn khó](https://dantri.com.vn/tam-long-nhan-ai/nguoi-me-mac-benh-dong-kinh-mot-minh-nuoi-3-con-trong-canh-khon-kho-20250625165209923.htm) - 22:30 26/06/2025
 - 🦅 [Người mẹ nghèo nuôi 3 con bệnh tật: “Căn nhà trong mơ đã thành hiện thực”](https://dantri.com.vn/tam-long-nhan-ai/nguoi-me-ngheo-nuoi-3-con-benh-tat-can-nha-trong-mo-da-thanh-hien-thuc-20250626145300528.htm) - 22:00 26/06/2025
