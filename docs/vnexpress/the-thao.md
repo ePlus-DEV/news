@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Công Phượng: &#39;Tôi sẽ chiến đấu cho giấc mơ còn dang dở&#39;](https://vnexpress.net/cong-phuong-toi-se-chien-dau-cho-giac-mo-con-dang-do-4907586.html) - 15:19 28/06/2025
+- 🪜 [Djokovic: &#39;Trình độ của Alcaraz và Sinner quá cao&#39;](https://vnexpress.net/djokovic-trinh-do-cua-alcaraz-va-sinner-qua-cao-4907560.html) - 15:21 28/06/2025
 - 🦩 [Xe đua F2 lộn một vòng trên xe đối thủ](https://vnexpress.net/xe-dua-f2-lon-mot-vong-tren-xe-doi-thu-4907584.html) - 14:29 28/06/2025
 - 🧰 [Quả Bóng Vàng nữ 2024 nhập viện vì viêm màng não](https://vnexpress.net/qua-bong-vang-nu-2024-nhap-vien-vi-viem-mang-nao-4907558.html) - 10:43 28/06/2025
 - 🤗 [VĐV chuyên nghiệp phân phối sức thế nào khi đua marathon](https://vnexpress.net/vdv-chuyen-nghiep-phan-phoi-suc-the-nao-khi-dua-marathon-4907154.html) - 10:13 28/06/2025
