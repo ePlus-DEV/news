@@ -590,7 +590,7 @@ bất ngờ về nước sớm](https://nld.com.vn/fan-man-united-hut-hang-khi-p
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
 - 💼 [Siêu xe triệu USD của Mercedes bị triệu hồi do nguy cơ cháy](https://tienphong.vn/sieu-xe-trieu-usd-cua-mercedes-bi-trieu-hoi-do-nguy-co-chay-post1755505.tpo) - 00:54 29/06/2025
-- 🎊 [Hoa hậu Trúc Linh, Á hậu Châu Anh và Vân Nhi sau đêm đăng quang](https://tienphong.vn/hoa-hau-truc-linh-a-hau-chau-anh-va-van-nhi-sau-dem-dang-quang-post1755478.tpo) - 23:48 28/06/2025
+- 🎊 [Hoa hậu Hà Trúc Linh, Á hậu Châu Anh và Vân Nhi sau đêm đăng quang](https://tienphong.vn/hoa-hau-ha-truc-linh-a-hau-chau-anh-va-van-nhi-sau-dem-dang-quang-post1755478.tpo) - 23:48 28/06/2025
 - 💼 [Thí sinh Hoa hậu Việt Nam lộng lẫy](https://tienphong.vn/thi-sinh-hoa-hau-viet-nam-long-lay-post1755633.tpo) - 23:17 28/06/2025
 - 👺 [Nhan sắc phát sáng của Á hậu quân nhân Trần Ngọc Châu Anh](https://tienphong.vn/nhan-sac-phat-sang-cua-a-hau-quan-nhan-tran-ngoc-chau-anh-post1755640.tpo) - 22:58 28/06/2025
 - 💪 [Paulinho đưa Palmeras vào tứ kết FIFA Club World Cup](https://tienphong.vn/paulinho-dua-palmeras-vao-tu-ket-fifa-club-world-cup-post1755634.tpo) - 22:25 28/06/2025
