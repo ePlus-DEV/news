@@ -4,12 +4,12 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Đương kim Quả bóng vàng nữ thế giới bị mắc bệnh viêm màng não](https://dantri.com.vn/the-thao/duong-kim-qua-bong-vang-nu-the-gioi-bi-mac-benh-viem-mang-nao-20250628183012101.htm) - 11:30 28/06/2025
-- 💯 [Công Phượng và CLB Bình Phước lỡ vé V-League: Tiền không phải điều kiện đủ](https://dantri.com.vn/the-thao/cong-phuong-va-clb-binh-phuoc-lo-ve-v-league-tien-khong-phai-dieu-kien-du-20250628134715875.htm) - 11:27 28/06/2025
-- ⛽️ [Dự đoán đội vô địch Club World Cup: Real Madrid bị đánh giá thấp khó tin](https://dantri.com.vn/the-thao/du-doan-doi-vo-dich-club-world-cup-real-madrid-bi-danh-gia-thap-kho-tin-20250628180239123.htm) - 11:15 28/06/2025
-- 💃 [HLV Mai Đức Chung lý giải việc chia tay cầu thủ Việt kiều Nam Mi](https://dantri.com.vn/the-thao/hlv-mai-duc-chung-ly-giai-viec-chia-tay-cau-thu-viet-kieu-nam-mi-20250628153141947.htm) - 08:34 28/06/2025
-- 🌈 [Nhận định Benfica vs Chelsea &lpar;3h ngày 29/6&rpar;: Hiểm nguy rình rập](https://dantri.com.vn/the-thao/nhan-dinh-benfica-vs-chelsea-3h-ngay-296-hiem-nguy-rinh-rap-20250628115742655.htm) - 07:01 28/06/2025
-- 🦅 [C.Ronaldo tuyên bố đanh thép sau khi nhận “núi tiền” từ Al Nassr](https://dantri.com.vn/the-thao/cronaldo-tuyen-bo-danh-thep-sau-khi-nhan-nui-tien-tu-al-nassr-20250628113417585.htm) - 04:34 28/06/2025
+- 🎡 [C.Ronaldo tuyên bố đanh thép sau khi nhận “núi tiền” từ Al Nassr](https://dantri.com.vn/the-thao/cronaldo-tuyen-bo-danh-thep-sau-khi-nhan-nui-tien-tu-al-nassr-20250628113417585.htm) - 12:34 28/06/2025
+- 💯 [Đương kim Quả bóng vàng nữ thế giới bị mắc bệnh viêm màng não](https://dantri.com.vn/the-thao/duong-kim-qua-bong-vang-nu-the-gioi-bi-mac-benh-viem-mang-nao-20250628183012101.htm) - 11:30 28/06/2025
+- ⛽️ [Công Phượng và CLB Bình Phước lỡ vé V-League: Tiền không phải điều kiện đủ](https://dantri.com.vn/the-thao/cong-phuong-va-clb-binh-phuoc-lo-ve-v-league-tien-khong-phai-dieu-kien-du-20250628134715875.htm) - 11:27 28/06/2025
+- 💃 [Dự đoán đội vô địch Club World Cup: Real Madrid bị đánh giá thấp khó tin](https://dantri.com.vn/the-thao/du-doan-doi-vo-dich-club-world-cup-real-madrid-bi-danh-gia-thap-kho-tin-20250628180239123.htm) - 11:15 28/06/2025
+- 🌈 [HLV Mai Đức Chung lý giải việc chia tay cầu thủ Việt kiều Nam Mi](https://dantri.com.vn/the-thao/hlv-mai-duc-chung-ly-giai-viec-chia-tay-cau-thu-viet-kieu-nam-mi-20250628153141947.htm) - 08:34 28/06/2025
+- 🦅 [Nhận định Benfica vs Chelsea &lpar;3h ngày 29/6&rpar;: Hiểm nguy rình rập](https://dantri.com.vn/the-thao/nhan-dinh-benfica-vs-chelsea-3h-ngay-296-hiem-nguy-rinh-rap-20250628115742655.htm) - 07:01 28/06/2025
 - 🌝 [Tái xuất sau hơn một năm rời tuyển Việt Nam, HLV Troussier chịu thất bại](https://dantri.com.vn/the-thao/tai-xuat-sau-hon-mot-nam-roi-tuyen-viet-nam-hlv-troussier-chiu-that-bai-20250628091316871.htm) - 02:15 28/06/2025
 - 🚀 [Áp dụng công nghệ VAR hiện đại nhất ở giải pickleball của báo Dân trí](https://dantri.com.vn/the-thao/ap-dung-cong-nghe-var-hien-dai-nhat-o-giai-pickleball-cua-bao-dan-tri-20250627233517768.htm) - 00:22 28/06/2025
 - 🎉 [Bùi Tiến Dũng chơi trận hay nhất sự nghiệp giúp SHB Đà Nẵng trụ hạng](https://dantri.com.vn/the-thao/bui-tien-dung-choi-tran-hay-nhat-su-nghiep-giup-shb-da-nang-tru-hang-20250627224753917.htm) - 00:02 28/06/2025
