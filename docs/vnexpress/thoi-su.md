@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cháy lớn tại xưởng nấu nhôm ở Hưng Yên, nhiều người nghi mắc kẹt](https://vnexpress.net/chay-lon-tai-xuong-nau-nhom-o-hung-yen-nhieu-nguoi-nghi-mac-ket-4907556.html) - 10:43 28/06/2025
+- 🦒 [Cháy lớn tại xưởng nấu nhôm ở Hưng Yên, 4 người chết](https://vnexpress.net/chay-lon-tai-xuong-nau-nhom-o-hung-yen-4-nguoi-chet-4907556.html) - 10:43 28/06/2025
 - 🤓 [Trung tâm triển lãm lớn nhất Đông Nam Á sẵn sàng hoạt động](https://vnexpress.net/trung-tam-trien-lam-lon-nhat-dong-nam-a-san-sang-hoat-dong-4907516.html) - 09:42 28/06/2025
 - ⚗️ [Hiện trường siêu thị điện máy cháy rụi ở Đồng Nai](https://vnexpress.net/hien-truong-sieu-thi-dien-may-chay-rui-o-dong-nai-4907512.html) - 09:03 28/06/2025
 - 🌊 [Phường tự ý chặt hàng loạt cổ thụ, bán 8 triệu đồng](https://vnexpress.net/phuong-tu-y-chat-hang-loat-co-thu-ban-8-trieu-dong-4907480.html) - 07:19 28/06/2025
