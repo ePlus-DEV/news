@@ -527,7 +527,7 @@ bất ngờ về nước sớm](https://nld.com.vn/fan-man-united-hut-hang-khi-p
 <!-- muctim:START -->
 - 🤔 [Liên hoan phim sinh viên Nhân văn 2025: Khi giới trẻ chạm đến những &#39;góc khuất&#39;](https://muctim.tuoitre.vn/lien-hoan-phim-sinh-vien-nhan-van-2025-khi-gioi-tre-cham-den-nhung-goc-khuat-101250628200735285.htm) - 15:54 28/06/2025
 - 🥷 [Trực tiếp FIFA Club World Cup: Palmeiras đấu Botafogo](https://muctim.tuoitre.vn/truc-tiep-fifa-club-world-cup-palmeiras-dau-botafogo-101250628172531198.htm) - 15:26 28/06/2025
-- 🤖 [Chung kết Hoa hậu Trái đất Miss Earth Vietnam 2025](https://muctim.tuoitre.vn/chung-ket-hoa-hau-trai-dat-miss-earth-vietnam-2025-101250628202236571.htm) - 14:12 28/06/2025
+- 🤖 [Ngô Thị Trâm Anh là tân hoa hậu Trái đất Miss Earth Vietnam 2025](https://muctim.tuoitre.vn/chung-ket-hoa-hau-trai-dat-miss-earth-vietnam-2025-101250628202236571.htm) - 14:12 28/06/2025
 - 🤓 [Điểm chuẩn lớp 10 Bình Phước: trường chuyên cao nhất 38,81 điểm](https://muctim.tuoitre.vn/diem-chuan-lop-10-binh-phuoc-truong-chuyen-cao-nhat-3881-diem-101250628204625392.htm) - 14:03 28/06/2025
 - 🎉 [OSI Vietnam chắp cánh ước mơ cho người tiên phong trẻ tuổi tại Việt Nam](https://muctim.tuoitre.vn/osi-vietnam-chap-canh-uoc-mo-cho-nguoi-tien-phong-tre-tuoi-tai-viet-nam-1012506281911245.htm) - 13:16 28/06/2025
 - 👨‍🏫 [Trực tiếp: Xem ngay Lễ hội pháo hoa quốc tế Đà Nẵng 2025 đêm thứ năm](https://muctim.tuoitre.vn/truc-tiep-xem-ngay-le-hoi-phao-hoa-quoc-te-da-nang-2025-dem-thu-nam-10125062819370925.htm) - 12:42 28/06/2025
