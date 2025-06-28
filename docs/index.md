@@ -591,7 +591,7 @@ bất ngờ về nước sớm](https://nld.com.vn/fan-man-united-hut-hang-khi-p
 - 💼 [Hoa hậu Trúc Linh, Á hậu Châu Anh và Vân Nhi sau đêm đăng quang](https://tienphong.vn/hoa-hau-truc-linh-a-hau-chau-anh-va-van-nhi-sau-dem-dang-quang-post1755478.tpo) - 23:48 28/06/2025
 - 🎊 [Thí sinh Hoa hậu Việt Nam lộng lẫy](https://tienphong.vn/thi-sinh-hoa-hau-viet-nam-long-lay-post1755633.tpo) - 23:17 28/06/2025
 - 💼 [Nhan sắc phát sáng của Á hậu quân nhân Trần Ngọc Châu Anh](https://tienphong.vn/nhan-sac-phat-sang-cua-a-hau-quan-nhan-tran-ngoc-chau-anh-post1755640.tpo) - 22:58 28/06/2025
-- 👺 [Trực tiếp Palmeiras vs Botafogo 0-0 &lpar;Hết H1&rpar;: Đôi công quyết liệt](https://tienphong.vn/truc-tiep-palmeiras-vs-botafogo-0-0-het-h1-doi-cong-quyet-liet-post1755634.tpo) - 22:25 28/06/2025
+- 👺 [Trực tiếp Palmeiras vs Botafogo 0-0 &lpar;H2&rpar;: Palmeras bị từ chối bàn thắng](https://tienphong.vn/truc-tiep-palmeiras-vs-botafogo-0-0-h2-palmeras-bi-tu-choi-ban-thang-post1755634.tpo) - 22:25 28/06/2025
 - 💪 [Buôn lậu lô hàng 54 triệu đồng, bị phạt 50 triệu](https://tienphong.vn/buon-lau-lo-hang-54-trieu-dong-bi-phat-50-trieu-post1755599.tpo) - 21:30 28/06/2025
 - 💃 [Đại tá Bùi Quang Bình làm Giám đốc Công an Hải Phòng](https://tienphong.vn/dai-ta-bui-quang-binh-lam-giam-doc-cong-an-hai-phong-post1755638.tpo) - 21:21 28/06/2025
 - 🦍 [Nhóm đối tượng đánh hội đồng, dùng tua vít đâm học sinh lớp 9](https://tienphong.vn/nhom-doi-tuong-danh-hoi-dong-dung-tua-vit-dam-hoc-sinh-lop-9-post1755581.tpo) - 21:15 28/06/2025
