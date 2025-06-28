@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Tình tiết kịch tính vụ nam sinh thi nhờ tốt nghiệp](https://vnexpress.net/tinh-tiet-kich-tinh-vu-nam-sinh-thi-nho-tot-nghiep-4907452.html) - 07:51 28/06/2025
+- 🤓 [Tình tiết kịch tính vụ nam sinh thi nhờ tốt nghiệp vì hỏng xe](https://vnexpress.net/tinh-tiet-kich-tinh-vu-nam-sinh-thi-nho-tot-nghiep-vi-hong-xe-4907452.html) - 07:51 28/06/2025
 - 🦆 [Cô gái Việt ứng dụng AI ở hãng hàng không Mỹ](https://vnexpress.net/co-gai-viet-ung-dung-ai-o-hang-hang-khong-my-4902875.html) - 03:51 28/06/2025
 - 🦩 [USTH trao học bổng cho sinh viên ngành khoa học, công nghệ](https://vnexpress.net/usth-trao-hoc-bong-cho-sinh-vien-nganh-khoa-hoc-cong-nghe-4907402.html) - 03:00 28/06/2025
 - 🌮 [FPT Shop tiếp sức sĩ tử tại hơn 400 điểm thi toàn quốc](https://vnexpress.net/fpt-shop-tiep-suc-si-tu-tai-hon-400-diem-thi-toan-quoc-4907296.html) - 14:00 27/06/2025
