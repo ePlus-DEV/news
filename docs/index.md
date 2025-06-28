@@ -409,12 +409,12 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [TỔNG THUẬT: Thủ tướng Chính phủ chủ trì tọa đàm với doanh nghiệp Anh quốc](https://baochinhphu.vn/tong-thuat-thu-tuong-chinh-phu-chu-tri-toa-dam-voi-dn-anh-quoc-102250628074127344.htm) - 08:41 28/06/2025
-- 🌜 [Đề thi phân hóa mạnh, Bộ GD&amp;ĐT nói gì về điểm số và tuyển sinh?](https://baochinhphu.vn/de-thi-phan-hoa-manh-bo-gddt-noi-gi-ve-diem-so-va-tuyen-sinh-102250627223705385.htm) - 08:33 28/06/2025
-- 🦆 [Lễ hội 100 năm nước mắm Phú Quốc: &#39;Hồn túy&#39; đảo ngọc](https://baochinhphu.vn/le-hoi-100-nam-nuoc-mam-phu-quoc-hon-tuy-dao-ngoc-102250627165530296.htm) - 08:32 28/06/2025
-- 🌝 [Dịch vụ kỹ thuật &#39;cấy chỉ&#39; có được BHYT chi trả?](https://baochinhphu.vn/dich-vu-ky-thuat-cay-chi-co-duoc-bhyt-chi-tra-102250623101305289.htm) - 08:02 28/06/2025
-- 🦣 [Các phong trào thi đua góp phần tích cực vào cải cách và hiện đại hóa ngành Hải quan](https://baochinhphu.vn/cac-phong-trao-thi-dua-gop-phan-tich-cuc-vao-cai-cach-va-hien-dai-hoa-nganh-hai-quan-102250627211401249.htm) - 07:52 28/06/2025
-- ⛽️ [Ủy ban Thường vụ Quốc hội chỉ định Chủ tịch, Phó Chủ tịch HĐND các tỉnh, thành phố](https://baochinhphu.vn/uy-ban-thuong-vu-quoc-hoi-chi-dinh-chu-tich-pho-chu-tich-hdnd-cac-tinh-thanh-pho-102250628074549561.htm) - 07:45 28/06/2025
+- 💻 [TỔNG THUẬT: Thủ tướng Chính phủ chủ trì tọa đàm với doanh nghiệp Anh quốc](https://baochinhphu.vn/tong-thuat-thu-tuong-chinh-phu-chu-tri-toa-dam-voi-dn-anh-quoc-102250628074127344.htm) - 10:21 28/06/2025
+- 🌜 [Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ nổi bật tuần từ 21-27/6/2025](https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-noi-bat-tuan-tu-21-27-6-2025-102250627153304103.htm) - 10:16 28/06/2025
+- 🦆 [Đề thi phân hóa mạnh, Bộ GD&amp;ĐT nói gì về điểm số và tuyển sinh?](https://baochinhphu.vn/de-thi-phan-hoa-manh-bo-gddt-noi-gi-ve-diem-so-va-tuyen-sinh-102250627223705385.htm) - 08:33 28/06/2025
+- 🌝 [Lễ hội 100 năm nước mắm Phú Quốc: &#39;Hồn túy&#39; đảo ngọc](https://baochinhphu.vn/le-hoi-100-nam-nuoc-mam-phu-quoc-hon-tuy-dao-ngoc-102250627165530296.htm) - 08:32 28/06/2025
+- 🦣 [Dịch vụ kỹ thuật &#39;cấy chỉ&#39; có được BHYT chi trả?](https://baochinhphu.vn/dich-vu-ky-thuat-cay-chi-co-duoc-bhyt-chi-tra-102250623101305289.htm) - 08:02 28/06/2025
+- ⛽️ [Các phong trào thi đua góp phần tích cực vào cải cách và hiện đại hóa ngành Hải quan](https://baochinhphu.vn/cac-phong-trao-thi-dua-gop-phan-tich-cuc-vao-cai-cach-va-hien-dai-hoa-nganh-hai-quan-102250627211401249.htm) - 07:52 28/06/2025
 - 🎓 [Kinh tế biển: Động lực mới cho phát triển bền vững ĐBSCL](https://baochinhphu.vn/kinh-te-bien-dong-luc-moi-cho-phat-trien-ben-vung-dbscl-10225062722330054.htm) - 07:29 28/06/2025
 - 💡 [Dạy tiểu học cần có văn bằng gì?](https://baochinhphu.vn/day-tieu-hoc-can-co-van-bang-gi-102250613090936133.htm) - 07:02 28/06/2025
 - 🌊 [Thủ tướng đôn đốc bộ ngành địa phương bảo đảm vận hành mô hình chính quyền địa phương 2 cấp thông suốt](https://baochinhphu.vn/thu-tuong-don-doc-bo-nganh-dia-phuong-bao-dam-van-hanh-mo-hinh-chinh-quyen-dia-phuong-2-cap-thong-suot-102250628021935759.htm) - 02:09 28/06/2025
