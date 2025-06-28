@@ -249,7 +249,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Người Lao Động
 <!-- nld:START -->
-- 🐎 [Trụ sở phường, xã của tỉnh có diện tích chưa đạt nhưng không thực hiện sáp nhập](https://nld.com.vn/tru-so-phuong-xa-cua-tinh-co-dien-tich-chua-dat-nhung-khong-sap-nhap-196250628174551516.htm) - 15:40 28/06/2025
+- 🐎 [Trụ sở phường, xã của tỉnh có diện tích chưa đạt nhưng không thực hiện sáp nhập](https://nld.com.vn/tru-so-phuong-xa-cua-tinh-co-dien-tich-chua-dat-nhung-khong-thuc-hien-sap-nhap-196250628174551516.htm) - 15:40 28/06/2025
 - 😺 [Chương trình tưởng niệm - nghệ thuật “Trần Văn Khê - Một đời với âm nhạc dân tộc”](https://nld.com.vn/chuong-trinh-tuong-niem-nghe-thuat-tran-van-khe-mot-doi-voi-am-nhac-dan-toc-196250628212519694.htm) - 15:09 28/06/2025
 - 👍 [Fan Man United hụt hẫng khi Paul Scholes, Ryan Giggs
 bất ngờ về nước sớm](https://nld.com.vn/fan-man-united-hut-hang-khi-paul-scholes-ryan-giggsbat-ngo-ve-nuoc-som-196250628210609429.htm) - 15:07 28/06/2025
