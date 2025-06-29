@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [PSG - Inter Miami: Messi, Suarez, Busquets đá chính](https://vnexpress.net/psg-inter-miami-messi-suarez-busquets-da-chinh-4907836.html) - 15:02 29/06/2025
+- 🪜 [PSG - Inter Miami: Messi lần đầu gặp CLB cũ](https://vnexpress.net/psg-inter-miami-messi-lan-dau-gap-clb-cu-4907836.html) - 15:02 29/06/2025
 - 🦩 [Nữ Việt Nam thắng 7-0 ở vòng loại châu Á](https://vnexpress.net/nu-viet-nam-thang-7-0-o-vong-loai-chau-a-4907832.html) - 14:18 29/06/2025
 - 🧰 [Chủ tịch Real giàu thứ 9 ở Tây Ban Nha](https://vnexpress.net/chu-tich-real-giau-thu-9-o-tay-ban-nha-4907660.html) - 12:24 29/06/2025
 - 🤗 [Klopp: &#39;FIFA Club World Cup là ý tưởng tồi tệ nhất của bóng đá&#39;](https://vnexpress.net/klopp-fifa-club-world-cup-la-y-tuong-toi-te-nhat-cua-bong-da-4907620.html) - 11:22 29/06/2025
