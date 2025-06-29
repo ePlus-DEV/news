@@ -522,7 +522,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Trực tiếp FIFA World Cup 2025: PSG - Inter Miami 4-0 &lpar;hiệp 2&rpar;](https://muctim.tuoitre.vn/truc-tiep-fifa-club-world-cup-2025-psg-dau-inter-miami-tranh-ve-vao-tu-ket-101250629222426202.htm) - 15:24 29/06/2025
+- 🤔 [FIFA World Cup 2025: PSG &#39;hạ đẹp&#39; Inter Miami 4-0, vào tứ kết](https://muctim.tuoitre.vn/truc-tiep-fifa-club-world-cup-2025-psg-dau-inter-miami-tranh-ve-vao-tu-ket-101250629222426202.htm) - 15:24 29/06/2025
 - 🥷 [Bóng chuyền VTV Cup 2025: Việt Nam thắng Philippines 3-0](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-vtv-cup-29-6-viet-nam-gap-philippines-101250629170011988.htm) - 12:13 29/06/2025
 - 🤖 [Vòng loại Asian Cup nữ 2026: Việt Nam đánh bại Maldives 7-0](https://muctim.tuoitre.vn/truc-tiep-vong-loai-asian-cup-nu-2026-viet-nam-maldives-101250629180406916.htm) - 11:18 29/06/2025
 - 🤓 [Công An Hà Nội vô địch Cúp quốc gia sau chiến thắng 5-0 trước Sông Lam Nghệ An](https://muctim.tuoitre.vn/chung-ket-cup-quoc-gia-2025-song-lam-nghe-an-dau-cong-an-ha-noi-101250629180658331.htm) - 11:07 29/06/2025
