@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Vợ chồng Midu kỷ niệm ngày cưới trên biển](https://vnexpress.net/vo-chong-midu-ky-niem-ngay-cuoi-tren-bien-4907827.html) - 14:53 29/06/2025
-- 💫 [Ái nữ của &#39;Vua sòng bạc&#39; phối đồ tươi trẻ](https://vnexpress.net/ai-nu-cua-vua-song-bac-phoi-do-tuoi-tre-4906656.html) - 13:30 29/06/2025
-- 🌮 [Tác giả Thế Hùng ôn kỷ niệm về Trịnh Công Sơn, Trần Tiến](https://vnexpress.net/tac-gia-the-hung-on-ky-niem-ve-trinh-cong-son-tran-tien-4907705.html) - 12:15 29/06/2025
-- 🧠 [Nghệ sĩ Việt, Hàn dự khai mạc LHP châu Á Đà Nẵng](https://vnexpress.net/nghe-si-viet-han-du-khai-mac-lhp-chau-a-da-nang-4907805.html) - 12:14 29/06/2025
-- 👨‍🏫 [Tăng Duy Tân, Bích Phương gây chú ý ở &#39;Em xinh say hi&#39;](https://vnexpress.net/tang-duy-tan-bich-phuong-gay-chu-y-o-em-xinh-say-hi-4907609.html) - 12:00 29/06/2025
-- ⚗️ [&#39;Bông hồng Pháp&#39; Marion Cotillard chia tay mối tình 18 năm](https://vnexpress.net/bong-hong-phap-marion-cotillard-chia-tay-moi-tinh-18-nam-4907753.html) - 10:25 29/06/2025
-- 😎 [Bút ký Hữu Châu &lpar;kỳ 2&rpar;: Khi nghệ sĩ thờ Tổ theo &#39;trào lưu&#39;](https://vnexpress.net/but-ky-huu-chau-ky-2-khi-nghe-si-tho-to-theo-trao-luu-4907105.html) - 09:55 29/06/2025
-- 🫣 [Nhóm The Men tái xuất sau 5 năm](https://vnexpress.net/nhom-the-men-tai-xuat-sau-5-nam-4907725.html) - 09:49 29/06/2025
-- 🪄 [Đức Trí kể hậu trường viết nhạc phim](https://vnexpress.net/duc-tri-ke-hau-truong-viet-nhac-phim-4907662.html) - 09:13 29/06/2025
-- 🤓 [Khán giả Trung Quốc &#39;nổi da gà&#39; vì tiếng hát Phương Mỹ Chi](https://vnexpress.net/khan-gia-trung-quoc-noi-da-ga-vi-tieng-hat-phuong-my-chi-4907746.html) - 09:09 29/06/2025
-- 🫶 [Dàn sao diện mốt đồ ngủ đến tiệc cưới tỷ phủ Jeff Bezos](https://vnexpress.net/dan-sao-dien-mot-do-ngu-den-tiec-cuoi-ty-phu-jeff-bezos-4907681.html) - 06:26 29/06/2025
-- 🧑‍🏫 [Nhạc kịch gửi thông điệp tôn trọng sự khác biệt](https://vnexpress.net/nhac-kich-gui-thong-diep-ton-trong-su-khac-biet-4907700.html) - 05:16 29/06/2025
-- 🦄 [Mỹ nữ Tân Cương hóa &#39;nữ thần mây trắng&#39;](https://vnexpress.net/my-nu-tan-cuong-hoa-nu-than-may-trang-4907683.html) - 04:27 29/06/2025
-- 💫 [&#39;Squid Game 3&#39; gây thất vọng](https://vnexpress.net/squid-game-3-gay-that-vong-4907663.html) - 04:23 29/06/2025
-- 🎊 [Chiếu loạt tác phẩm Hàn ở Liên hoan phim châu Á Đà Nẵng](https://vnexpress.net/chieu-loat-tac-pham-han-o-lien-hoan-phim-chau-a-da-nang-4907387.html) - 03:55 29/06/2025
-- 👹 [Châu Anh - thiếu úy là Á hậu Việt Nam](https://vnexpress.net/chau-anh-thieu-uy-la-a-hau-viet-nam-4907174.html) - 03:30 29/06/2025
-- 💻 [Tỷ phú Jeff Bezos khép lại chuỗi tiệc cưới](https://vnexpress.net/ty-phu-jeff-bezos-khep-lai-chuoi-tiec-cuoi-4907631.html) - 02:04 29/06/2025
-- 🤡 [Nghệ sĩ Hữu Châu: &#39;Tôi biết ơn anh Thành Lộc&#39;](https://vnexpress.net/nghe-si-huu-chau-toi-biet-on-anh-thanh-loc-4907507.html) - 01:41 29/06/2025
-- 🥰 [6 ca sĩ bị loại khỏi &#39;Em xinh say hi&#39;](https://vnexpress.net/6-ca-si-bi-loai-khoi-em-xinh-say-hi-4907601.html) - 00:26 29/06/2025
-- 🚀 [Công ty quý tộc đứng sau đám cưới của tỷ phú Jeff Bezos](https://vnexpress.net/cong-ty-quy-toc-dung-sau-dam-cuoi-cua-ty-phu-jeff-bezos-4907405.html) - 17:00 28/06/2025
-- 📝 [Jason Derulo hủy show ở Việt Nam](https://vnexpress.net/jason-derulo-huy-show-o-viet-nam-4907580.html) - 14:34 28/06/2025
-- 🐲 [Váy áo mùa hè của &#39;Mỹ nhân đẹp nhất Philippines&#39;](https://vnexpress.net/vay-ao-mua-he-cua-my-nhan-dep-nhat-philippines-4906460.html) - 14:00 28/06/2025
-- 🎃 [Bốn tiết mục gây sốt của Phương Mỹ Chi tại &#39;Sing! Asia&#39;](https://vnexpress.net/bon-tiet-muc-gay-sot-cua-phuong-my-chi-tai-sing-asia-4907449.html) - 12:00 28/06/2025
-- 🤠 [Hòa Minzy dự tiệc cùng gia đình cầu thủ Văn Toàn](https://vnexpress.net/hoa-minzy-du-tiec-cung-gia-dinh-cau-thu-van-toan-4907479.html) - 11:18 28/06/2025
-- 🎭 [Tọa đàm về Phật hoàng Trần Nhân Tông](https://vnexpress.net/toa-dam-ve-phat-hoang-tran-nhan-tong-4907509.html) - 09:48 28/06/2025
-- 🧰 [Vợ chồng Thanh Hằng sánh đôi dự tiệc](https://vnexpress.net/vo-chong-thanh-hang-sanh-doi-du-tiec-4907497.html) - 09:35 28/06/2025
-- 🦍 [&#39;28 Years Later&#39; - bi kịch hậu tận thế](https://vnexpress.net/giai-tri/phim/thu-vien-phim/28-years-later-813) - 08:00 28/06/2025
-- 🌝 [Dàn thí sinh Hoa hậu Việt Nam đua sắc với áo tắm](https://vnexpress.net/dan-thi-sinh-hoa-hau-viet-nam-dua-sac-voi-ao-tam-4907435.html) - 06:33 28/06/2025
-- 🧑‍💻 [Hoài Linh thu hoạch sầu riêng đãi Mạc Văn Khoa](https://vnexpress.net/hoai-linh-thu-hoach-sau-rieng-dai-mac-van-khoa-4906676.html) - 06:30 28/06/2025
-- 🥸 [Diễn viên &#39;Biên thành lãng tử&#39; làm shipper mưu sinh](https://vnexpress.net/dien-vien-bien-thanh-lang-tu-lam-shipper-muu-sinh-4907430.html) - 04:13 28/06/2025
-- 🔥 [Top 15 Hoa hậu Việt Nam diễn đầm dạ hội](https://vnexpress.net/top-15-hoa-hau-viet-nam-dien-dam-da-hoi-4907334.html) - 04:00 28/06/2025
-- 🐎 [Thanh Thủy diện đầm cảm hứng hoa đào](https://vnexpress.net/thanh-thuy-dien-dam-cam-hung-hoa-dao-4907391.html) - 03:39 28/06/2025
-- 😎 [Váy cưới &#39;nàng tiên cá&#39; của vợ tỷ phú Jeff Bezos](https://vnexpress.net/vay-cuoi-nang-tien-ca-cua-vo-ty-phu-jeff-bezos-4907338.html) - 03:10 28/06/2025
-- 🦄 [Tỷ phú Bill Gates và bạn gái diện đồ đôi dự cưới Jeff Bezos](https://vnexpress.net/ty-phu-bill-gates-va-ban-gai-dien-do-doi-du-cuoi-jeff-bezos-4907375.html) - 02:18 28/06/2025
-- 🌜 [Ivanka Trump thu hút giữa dàn khách dự cưới tỷ phú Jeff Bezos](https://vnexpress.net/ivanka-trump-thu-hut-giua-dan-khach-du-cuoi-ty-phu-jeff-bezos-4907350.html) - 01:12 28/06/2025
-- 🚦 [Nhan sắc đời thường của Hoa hậu Hà Trúc Linh](https://vnexpress.net/nhan-sac-doi-thuong-cua-hoa-hau-ha-truc-linh-4907331.html) - 01:06 28/06/2025
-- 🧐 [Lễ thành hôn của tỷ phú Jeff Bezos](https://vnexpress.net/le-thanh-hon-cua-ty-phu-jeff-bezos-4907335.html) - 00:34 28/06/2025
-- 🐵 [Bút ký Hữu Châu &lpar;kỳ một&rpar;: Cú sốc &#39;má Ba&#39; Thanh Nga qua đời](https://vnexpress.net/but-ky-huu-chau-ky-mot-cu-soc-ma-ba-thanh-nga-qua-doi-4906759.html) - 19:36 27/06/2025
-- ⚗️ [Bố Hà Trúc Linh: &#39;Tôi cho con hơn một triệu đồng đi thi hoa hậu&#39;](https://vnexpress.net/bo-ha-truc-linh-toi-cho-con-hon-mot-trieu-dong-di-thi-hoa-hau-4907326.html) - 18:42 27/06/2025
-- 👺 [Mạc Văn Khoa: &#39;Vợ đồng cam cộng khổ với tôi&#39;](https://vnexpress.net/mac-van-khoa-vo-dong-cam-cong-kho-voi-toi-4905669.html) - 18:06 27/06/2025
-- 🌊 [Vẻ ngọt ngào tuổi 20 của hoa hậu Hà Trúc Linh](https://vnexpress.net/ve-ngot-ngao-tuoi-20-cua-hoa-hau-ha-truc-linh-4907324.html) - 18:05 27/06/2025
-- 🪜 [Victoria Beckham động viên chồng sau ca phẫu thuật](https://vnexpress.net/victoria-beckham-dong-vien-chong-sau-ca-phau-thuat-4907297.html) - 14:42 27/06/2025
-- 🕴 [Dàn người đẹp trên thảm đỏ chung kết Hoa hậu Việt Nam](https://vnexpress.net/dan-nguoi-dep-tren-tham-do-chung-ket-hoa-hau-viet-nam-4907286.html) - 13:21 27/06/2025
-- 💃 [Phương Mỹ Chi chiến thắng tứ kết &#39;Sing! Asia&#39;](https://vnexpress.net/phuong-my-chi-chien-thang-tu-ket-sing-asia-4906889.html) - 13:00 27/06/2025
-- 🦄 [Hà Trúc Linh đăng quang Hoa hậu Việt Nam](https://vnexpress.net/ha-truc-linh-dang-quang-hoa-hau-viet-nam-4906826-tong-thuat.html) - 12:42 27/06/2025
-- ⛽️ [&#39;Đệ nhất phong lưu Hong Kong&#39; nặng lòng với phở Việt](https://vnexpress.net/de-nhat-phong-luu-hong-kong-nang-long-voi-pho-viet-4907181.html) - 10:40 27/06/2025
-- 😎 [Nhà soạn nhạc phim &#39;Mission: Impossible&#39; qua đời](https://vnexpress.net/nha-soan-nhac-phim-mission-impossible-qua-doi-4907167.html) - 09:30 27/06/2025
-- 🌊 [&#39;Đệ nhất phong lưu Hong Kong&#39; qua đời](https://vnexpress.net/de-nhat-phong-luu-hong-kong-qua-doi-4907156.html) - 08:40 27/06/2025
-- 🐲 [Hôn nhân của diễn viên hài Duy Nam](https://vnexpress.net/hon-nhan-cua-dien-vien-hai-duy-nam-4906045.html) - 07:54 27/06/2025
-- 💂 [&#39;Mỹ vị yêu đương&#39; - tình yêu từ căn bếp](https://vnexpress.net/giai-tri/phim/thu-vien-phim/tastefully-yours-815) - 07:10 27/06/2025
-- 🙉 [Tác giả bài thơ &#39;Nếp nghĩ&#39;: Đề văn THPT 2025 thể hiện sự đổi mới](https://vnexpress.net/tac-gia-bai-tho-nep-nghi-de-van-thpt-2025-the-hien-su-doi-moi-4906927.html) - 05:58 27/06/2025
-- 💪 [Nhà của Brad Pitt bị trộm](https://vnexpress.net/nha-cua-brad-pitt-bi-trom-4906899.html) - 04:53 27/06/2025
-- 👍 [Ivanka Trump mặc gợi cảm ở tiệc mừng cưới tỷ phú Jeff Bezos](https://vnexpress.net/ivanka-trump-mac-goi-cam-o-tiec-mung-cuoi-ty-phu-jeff-bezos-4906951.html) - 04:23 27/06/2025
-- 💪 [&#39;Sao đẹp nhất Nhật Bản&#39; không nguôi nỗi đau chồng ngoại tình](https://vnexpress.net/sao-dep-nhat-nhat-ban-khong-nguoi-noi-dau-chong-ngoai-tinh-4906935.html) - 03:38 27/06/2025
-- 💄 [Nghệ sĩ Cuba diễn ballet &#39;Hồ Thiên Nga&#39;](https://vnexpress.net/nghe-si-cuba-dien-ballet-ho-thien-nga-4906839.html) - 03:26 27/06/2025
-- 🦩 [Nhan sắc hai cô gái Thanh Hóa thi Hoa hậu Việt Nam](https://vnexpress.net/nhan-sac-hai-co-gai-thanh-hoa-thi-hoa-hau-viet-nam-4906363.html) - 02:16 27/06/2025
-- 🥸 [Dàn sao dự tiệc trước hôn lễ tỷ phú Jeff Bezos](https://vnexpress.net/dan-sao-du-tiec-truoc-hon-le-ty-phu-jeff-bezos-4906829.html) - 01:02 27/06/2025
-- 🧰 [Vợ tỷ phú Jeff Bezos diện đầm bó eo trước lễ cưới](https://vnexpress.net/vo-ty-phu-jeff-bezos-dien-dam-bo-eo-truoc-le-cuoi-4906830.html) - 00:16 27/06/2025
-- 💼 [Nhà vườn ngập sắc hoa của danh họa Claude Monet](https://vnexpress.net/nha-vuon-ngap-sac-hoa-cua-danh-hoa-claude-monet-4906437.html) - 22:00 26/06/2025
+- 🌏 [&#39;Định hướng DANAFF thành liên hoan phim quốc tế uy tín&#39;](https://vnexpress.net/dinh-huong-danaff-thanh-lien-hoan-phim-quoc-te-uy-tin-4907824.html) - 15:40 29/06/2025
+- 💫 [Vợ chồng Midu kỷ niệm ngày cưới trên biển](https://vnexpress.net/vo-chong-midu-ky-niem-ngay-cuoi-tren-bien-4907827.html) - 14:53 29/06/2025
+- 🌮 [Ái nữ của &#39;Vua sòng bạc&#39; phối đồ tươi trẻ](https://vnexpress.net/ai-nu-cua-vua-song-bac-phoi-do-tuoi-tre-4906656.html) - 13:30 29/06/2025
+- 🧠 [Tác giả Thế Hùng ôn kỷ niệm về Trịnh Công Sơn, Trần Tiến](https://vnexpress.net/tac-gia-the-hung-on-ky-niem-ve-trinh-cong-son-tran-tien-4907705.html) - 12:15 29/06/2025
+- 👨‍🏫 [Nghệ sĩ Việt, Hàn dự khai mạc LHP châu Á Đà Nẵng](https://vnexpress.net/nghe-si-viet-han-du-khai-mac-lhp-chau-a-da-nang-4907805.html) - 12:14 29/06/2025
+- ⚗️ [Tăng Duy Tân, Bích Phương gây chú ý ở &#39;Em xinh say hi&#39;](https://vnexpress.net/tang-duy-tan-bich-phuong-gay-chu-y-o-em-xinh-say-hi-4907609.html) - 12:00 29/06/2025
+- 😎 [&#39;Bông hồng Pháp&#39; Marion Cotillard chia tay mối tình 18 năm](https://vnexpress.net/bong-hong-phap-marion-cotillard-chia-tay-moi-tinh-18-nam-4907753.html) - 10:25 29/06/2025
+- 🫣 [Bút ký Hữu Châu &lpar;kỳ 2&rpar;: Khi nghệ sĩ thờ Tổ theo &#39;trào lưu&#39;](https://vnexpress.net/but-ky-huu-chau-ky-2-khi-nghe-si-tho-to-theo-trao-luu-4907105.html) - 09:55 29/06/2025
+- 🪄 [Nhóm The Men tái xuất sau 5 năm](https://vnexpress.net/nhom-the-men-tai-xuat-sau-5-nam-4907725.html) - 09:49 29/06/2025
+- 🤓 [Đức Trí kể hậu trường viết nhạc phim](https://vnexpress.net/duc-tri-ke-hau-truong-viet-nhac-phim-4907662.html) - 09:13 29/06/2025
+- 🫶 [Khán giả Trung Quốc &#39;nổi da gà&#39; vì tiếng hát Phương Mỹ Chi](https://vnexpress.net/khan-gia-trung-quoc-noi-da-ga-vi-tieng-hat-phuong-my-chi-4907746.html) - 09:09 29/06/2025
+- 🧑‍🏫 [Dàn sao diện mốt đồ ngủ đến tiệc cưới tỷ phủ Jeff Bezos](https://vnexpress.net/dan-sao-dien-mot-do-ngu-den-tiec-cuoi-ty-phu-jeff-bezos-4907681.html) - 06:26 29/06/2025
+- 🦄 [Nhạc kịch gửi thông điệp tôn trọng sự khác biệt](https://vnexpress.net/nhac-kich-gui-thong-diep-ton-trong-su-khac-biet-4907700.html) - 05:16 29/06/2025
+- 💫 [Mỹ nữ Tân Cương hóa &#39;nữ thần mây trắng&#39;](https://vnexpress.net/my-nu-tan-cuong-hoa-nu-than-may-trang-4907683.html) - 04:27 29/06/2025
+- 🎊 [&#39;Squid Game 3&#39; gây thất vọng](https://vnexpress.net/squid-game-3-gay-that-vong-4907663.html) - 04:23 29/06/2025
+- 👹 [Chiếu loạt tác phẩm Hàn ở Liên hoan phim châu Á Đà Nẵng](https://vnexpress.net/chieu-loat-tac-pham-han-o-lien-hoan-phim-chau-a-da-nang-4907387.html) - 03:55 29/06/2025
+- 💻 [Châu Anh - thiếu úy là Á hậu Việt Nam](https://vnexpress.net/chau-anh-thieu-uy-la-a-hau-viet-nam-4907174.html) - 03:30 29/06/2025
+- 🤡 [Tỷ phú Jeff Bezos khép lại chuỗi tiệc cưới](https://vnexpress.net/ty-phu-jeff-bezos-khep-lai-chuoi-tiec-cuoi-4907631.html) - 02:04 29/06/2025
+- 🥰 [Nghệ sĩ Hữu Châu: &#39;Tôi biết ơn anh Thành Lộc&#39;](https://vnexpress.net/nghe-si-huu-chau-toi-biet-on-anh-thanh-loc-4907507.html) - 01:41 29/06/2025
+- 🚀 [6 ca sĩ bị loại khỏi &#39;Em xinh say hi&#39;](https://vnexpress.net/6-ca-si-bi-loai-khoi-em-xinh-say-hi-4907601.html) - 00:26 29/06/2025
+- 📝 [Công ty quý tộc đứng sau đám cưới của tỷ phú Jeff Bezos](https://vnexpress.net/cong-ty-quy-toc-dung-sau-dam-cuoi-cua-ty-phu-jeff-bezos-4907405.html) - 17:00 28/06/2025
+- 🐲 [Jason Derulo hủy show ở Việt Nam](https://vnexpress.net/jason-derulo-huy-show-o-viet-nam-4907580.html) - 14:34 28/06/2025
+- 🎃 [Váy áo mùa hè của &#39;Mỹ nhân đẹp nhất Philippines&#39;](https://vnexpress.net/vay-ao-mua-he-cua-my-nhan-dep-nhat-philippines-4906460.html) - 14:00 28/06/2025
+- 🤠 [Bốn tiết mục gây sốt của Phương Mỹ Chi tại &#39;Sing! Asia&#39;](https://vnexpress.net/bon-tiet-muc-gay-sot-cua-phuong-my-chi-tai-sing-asia-4907449.html) - 12:00 28/06/2025
+- 🎭 [Hòa Minzy dự tiệc cùng gia đình cầu thủ Văn Toàn](https://vnexpress.net/hoa-minzy-du-tiec-cung-gia-dinh-cau-thu-van-toan-4907479.html) - 11:18 28/06/2025
+- 🧰 [Tọa đàm về Phật hoàng Trần Nhân Tông](https://vnexpress.net/toa-dam-ve-phat-hoang-tran-nhan-tong-4907509.html) - 09:48 28/06/2025
+- 🦍 [Vợ chồng Thanh Hằng sánh đôi dự tiệc](https://vnexpress.net/vo-chong-thanh-hang-sanh-doi-du-tiec-4907497.html) - 09:35 28/06/2025
+- 🌝 [&#39;28 Years Later&#39; - bi kịch hậu tận thế](https://vnexpress.net/giai-tri/phim/thu-vien-phim/28-years-later-813) - 08:00 28/06/2025
+- 🧑‍💻 [Dàn thí sinh Hoa hậu Việt Nam đua sắc với áo tắm](https://vnexpress.net/dan-thi-sinh-hoa-hau-viet-nam-dua-sac-voi-ao-tam-4907435.html) - 06:33 28/06/2025
+- 🥸 [Hoài Linh thu hoạch sầu riêng đãi Mạc Văn Khoa](https://vnexpress.net/hoai-linh-thu-hoach-sau-rieng-dai-mac-van-khoa-4906676.html) - 06:30 28/06/2025
+- 🔥 [Diễn viên &#39;Biên thành lãng tử&#39; làm shipper mưu sinh](https://vnexpress.net/dien-vien-bien-thanh-lang-tu-lam-shipper-muu-sinh-4907430.html) - 04:13 28/06/2025
+- 🐎 [Top 15 Hoa hậu Việt Nam diễn đầm dạ hội](https://vnexpress.net/top-15-hoa-hau-viet-nam-dien-dam-da-hoi-4907334.html) - 04:00 28/06/2025
+- 😎 [Thanh Thủy diện đầm cảm hứng hoa đào](https://vnexpress.net/thanh-thuy-dien-dam-cam-hung-hoa-dao-4907391.html) - 03:39 28/06/2025
+- 🦄 [Váy cưới &#39;nàng tiên cá&#39; của vợ tỷ phú Jeff Bezos](https://vnexpress.net/vay-cuoi-nang-tien-ca-cua-vo-ty-phu-jeff-bezos-4907338.html) - 03:10 28/06/2025
+- 🌜 [Tỷ phú Bill Gates và bạn gái diện đồ đôi dự cưới Jeff Bezos](https://vnexpress.net/ty-phu-bill-gates-va-ban-gai-dien-do-doi-du-cuoi-jeff-bezos-4907375.html) - 02:18 28/06/2025
+- 🚦 [Ivanka Trump thu hút giữa dàn khách dự cưới tỷ phú Jeff Bezos](https://vnexpress.net/ivanka-trump-thu-hut-giua-dan-khach-du-cuoi-ty-phu-jeff-bezos-4907350.html) - 01:12 28/06/2025
+- 🧐 [Nhan sắc đời thường của Hoa hậu Hà Trúc Linh](https://vnexpress.net/nhan-sac-doi-thuong-cua-hoa-hau-ha-truc-linh-4907331.html) - 01:06 28/06/2025
+- 🐵 [Lễ thành hôn của tỷ phú Jeff Bezos](https://vnexpress.net/le-thanh-hon-cua-ty-phu-jeff-bezos-4907335.html) - 00:34 28/06/2025
+- ⚗️ [Bút ký Hữu Châu &lpar;kỳ một&rpar;: Cú sốc &#39;má Ba&#39; Thanh Nga qua đời](https://vnexpress.net/but-ky-huu-chau-ky-mot-cu-soc-ma-ba-thanh-nga-qua-doi-4906759.html) - 19:36 27/06/2025
+- 👺 [Bố Hà Trúc Linh: &#39;Tôi cho con hơn một triệu đồng đi thi hoa hậu&#39;](https://vnexpress.net/bo-ha-truc-linh-toi-cho-con-hon-mot-trieu-dong-di-thi-hoa-hau-4907326.html) - 18:42 27/06/2025
+- 🌊 [Mạc Văn Khoa: &#39;Vợ đồng cam cộng khổ với tôi&#39;](https://vnexpress.net/mac-van-khoa-vo-dong-cam-cong-kho-voi-toi-4905669.html) - 18:06 27/06/2025
+- 🪜 [Vẻ ngọt ngào tuổi 20 của hoa hậu Hà Trúc Linh](https://vnexpress.net/ve-ngot-ngao-tuoi-20-cua-hoa-hau-ha-truc-linh-4907324.html) - 18:05 27/06/2025
+- 🕴 [Victoria Beckham động viên chồng sau ca phẫu thuật](https://vnexpress.net/victoria-beckham-dong-vien-chong-sau-ca-phau-thuat-4907297.html) - 14:42 27/06/2025
+- 💃 [Dàn người đẹp trên thảm đỏ chung kết Hoa hậu Việt Nam](https://vnexpress.net/dan-nguoi-dep-tren-tham-do-chung-ket-hoa-hau-viet-nam-4907286.html) - 13:21 27/06/2025
+- 🦄 [Phương Mỹ Chi chiến thắng tứ kết &#39;Sing! Asia&#39;](https://vnexpress.net/phuong-my-chi-chien-thang-tu-ket-sing-asia-4906889.html) - 13:00 27/06/2025
+- ⛽️ [Hà Trúc Linh đăng quang Hoa hậu Việt Nam](https://vnexpress.net/ha-truc-linh-dang-quang-hoa-hau-viet-nam-4906826-tong-thuat.html) - 12:42 27/06/2025
+- 😎 [&#39;Đệ nhất phong lưu Hong Kong&#39; nặng lòng với phở Việt](https://vnexpress.net/de-nhat-phong-luu-hong-kong-nang-long-voi-pho-viet-4907181.html) - 10:40 27/06/2025
+- 🌊 [Nhà soạn nhạc phim &#39;Mission: Impossible&#39; qua đời](https://vnexpress.net/nha-soan-nhac-phim-mission-impossible-qua-doi-4907167.html) - 09:30 27/06/2025
+- 🐲 [&#39;Đệ nhất phong lưu Hong Kong&#39; qua đời](https://vnexpress.net/de-nhat-phong-luu-hong-kong-qua-doi-4907156.html) - 08:40 27/06/2025
+- 💂 [Hôn nhân của diễn viên hài Duy Nam](https://vnexpress.net/hon-nhan-cua-dien-vien-hai-duy-nam-4906045.html) - 07:54 27/06/2025
+- 🙉 [&#39;Mỹ vị yêu đương&#39; - tình yêu từ căn bếp](https://vnexpress.net/giai-tri/phim/thu-vien-phim/tastefully-yours-815) - 07:10 27/06/2025
+- 💪 [Tác giả bài thơ &#39;Nếp nghĩ&#39;: Đề văn THPT 2025 thể hiện sự đổi mới](https://vnexpress.net/tac-gia-bai-tho-nep-nghi-de-van-thpt-2025-the-hien-su-doi-moi-4906927.html) - 05:58 27/06/2025
+- 👍 [Nhà của Brad Pitt bị trộm](https://vnexpress.net/nha-cua-brad-pitt-bi-trom-4906899.html) - 04:53 27/06/2025
+- 💪 [Ivanka Trump mặc gợi cảm ở tiệc mừng cưới tỷ phú Jeff Bezos](https://vnexpress.net/ivanka-trump-mac-goi-cam-o-tiec-mung-cuoi-ty-phu-jeff-bezos-4906951.html) - 04:23 27/06/2025
+- 💄 [&#39;Sao đẹp nhất Nhật Bản&#39; không nguôi nỗi đau chồng ngoại tình](https://vnexpress.net/sao-dep-nhat-nhat-ban-khong-nguoi-noi-dau-chong-ngoai-tinh-4906935.html) - 03:38 27/06/2025
+- 🦩 [Nghệ sĩ Cuba diễn ballet &#39;Hồ Thiên Nga&#39;](https://vnexpress.net/nghe-si-cuba-dien-ballet-ho-thien-nga-4906839.html) - 03:26 27/06/2025
+- 🥸 [Nhan sắc hai cô gái Thanh Hóa thi Hoa hậu Việt Nam](https://vnexpress.net/nhan-sac-hai-co-gai-thanh-hoa-thi-hoa-hau-viet-nam-4906363.html) - 02:16 27/06/2025
+- 🧰 [Dàn sao dự tiệc trước hôn lễ tỷ phú Jeff Bezos](https://vnexpress.net/dan-sao-du-tiec-truoc-hon-le-ty-phu-jeff-bezos-4906829.html) - 01:02 27/06/2025
+- 💼 [Vợ tỷ phú Jeff Bezos diện đầm bó eo trước lễ cưới](https://vnexpress.net/vo-ty-phu-jeff-bezos-dien-dam-bo-eo-truoc-le-cuoi-4906830.html) - 00:16 27/06/2025
 - 🧑‍💻 [10 ứng viên cho danh hiệu Hoa hậu Việt Nam](https://vnexpress.net/10-ung-vien-cho-danh-hieu-hoa-hau-viet-nam-4897853.html) - 17:00 26/06/2025<!-- vnexpress-giai-tri:END -->
