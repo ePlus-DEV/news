@@ -586,7 +586,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
 - 💼 [Nhà xưởng công ty bao bì chìm trong biển lửa ở Bình Dương](https://tienphong.vn/nha-xuong-cong-ty-bao-bi-chim-trong-bien-lua-o-binh-duong-post1755899.tpo) - 22:52 29/06/2025
-- 🎊 [Trực tiếp PSG vs Inter Miami 4-0 &lpar;Hết H1&rpar;: Chủ nhà vỡ trận](https://tienphong.vn/truc-tiep-psg-vs-inter-miami-4-0-het-h1-chu-nha-vo-tran-post1755900.tpo) - 22:38 29/06/2025
+- 🎊 [Trực tiếp PSG vs Inter Miami 4-0 &lpar;H2&rpar;: Messi &#39;bất lực&#39;](https://tienphong.vn/truc-tiep-psg-vs-inter-miami-4-0-h2-messi-bat-luc-post1755900.tpo) - 22:38 29/06/2025
 - 💼 [HIGHLIGHTS ĐT nữ Việt Nam 7-0 Maldives: Khởi đầu mãn nhãn](https://tienphong.vn/highlights-dt-nu-viet-nam-7-0-maldives-khoi-dau-man-nhan-post1755895.tpo) - 22:06 29/06/2025
 - 👺 [Một người vừa trúng Vietlott hơn 127 tỷ đồng](https://tienphong.vn/mot-nguoi-vua-trung-vietlott-hon-127-ty-dong-post1755888.tpo) - 21:13 29/06/2025
 - 💪 [Phó Chủ tịch UBND TP. Cần Thơ Nguyễn Ngọc Hè nghỉ hưu trước tuổi](https://tienphong.vn/pho-chu-tich-ubnd-tp-can-tho-nguyen-ngoc-he-nghi-huu-truoc-tuoi-post1755886.tpo) - 21:07 29/06/2025
