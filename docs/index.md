@@ -586,7 +586,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
 - 💼 [Nhà xưởng công ty bao bì chìm trong biển lửa ở Bình Dương](https://tienphong.vn/nha-xuong-cong-ty-bao-bi-chim-trong-bien-lua-o-binh-duong-post1755899.tpo) - 22:52 29/06/2025
-- 🎊 [Trực tiếp PSG vs Inter Miami 0-0 &lpar;H1&rpar;: Chủ nhà phòng ngự chặt](https://tienphong.vn/truc-tiep-psg-vs-inter-miami-0-0-h1-chu-nha-phong-ngu-chat-post1755900.tpo) - 22:38 29/06/2025
+- 🎊 [Trực tiếp PSG vs Inter Miami 4-0 &lpar;Hết H1&rpar;: Chủ nhà vỡ trận](https://tienphong.vn/truc-tiep-psg-vs-inter-miami-4-0-het-h1-chu-nha-vo-tran-post1755900.tpo) - 22:38 29/06/2025
 - 💼 [HIGHLIGHTS ĐT nữ Việt Nam 7-0 Maldives: Khởi đầu mãn nhãn](https://tienphong.vn/highlights-dt-nu-viet-nam-7-0-maldives-khoi-dau-man-nhan-post1755895.tpo) - 22:06 29/06/2025
 - 👺 [Một người vừa trúng Vietlott hơn 127 tỷ đồng](https://tienphong.vn/mot-nguoi-vua-trung-vietlott-hon-127-ty-dong-post1755888.tpo) - 21:13 29/06/2025
 - 💪 [Phó Chủ tịch UBND TP. Cần Thơ Nguyễn Ngọc Hè nghỉ hưu trước tuổi](https://tienphong.vn/pho-chu-tich-ubnd-tp-can-tho-nguyen-ngoc-he-nghi-huu-truoc-tuoi-post1755886.tpo) - 21:07 29/06/2025
@@ -624,7 +624,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🦩 [Bỏ việc lương khá, chàng trai về quê giúp hàng chục hộ nông dân phát triển kinh tế](https://tienphong.vn/bo-viec-luong-kha-chang-trai-ve-que-giup-hang-chuc-ho-nong-dan-phat-trien-kinh-te-post1755806.tpo) - 17:13 29/06/2025
 - 📝 [Bắt đối tượng biển thủ tiền bảo hiểm y tế của hơn 300 học sinh](https://tienphong.vn/bat-doi-tuong-bien-thu-tien-bao-hiem-y-te-cua-hon-300-hoc-sinh-post1755825.tpo) - 17:10 29/06/2025
 - 🤓 [Mưa bàn thắng ở sân Vinh, CAHN đăng quang Cúp Quốc gia](https://tienphong.vn/mua-ban-thang-o-san-vinh-cahn-dang-quang-cup-quoc-gia-post1755820.tpo) - 17:10 29/06/2025
-- 🎭 [Cách nào &#39;hạ nhiệt&#39; giá nhà?](https://tienphong.vn/cach-nao-ha-nhiet-gia-nha-post1755807.tpo) - 17:09 29/06/2025
+- 🎭 [Giải pháp nào để ổn định thị trường bất động sản?](https://tienphong.vn/giai-phap-nao-de-on-dinh-thi-truong-bat-dong-san-post1755807.tpo) - 17:09 29/06/2025
 - 🐘 [Tuổi trẻ Bến Tre chung tay xóa nhà tạm, hỗ trợ giảm nghèo bền vững](https://tienphong.vn/tuoi-tre-ben-tre-chung-tay-xoa-nha-tam-ho-tro-giam-ngheo-ben-vung-post1755793.tpo) - 17:06 29/06/2025
 - 😺 [Lộ diện tuyến đường có giá đất đắt đỏ nhất Đà Nẵng](https://tienphong.vn/lo-dien-tuyen-duong-co-gia-dat-dat-do-nhat-da-nang-post1755795.tpo) - 17:05 29/06/2025
 - 🌁 [Từ 1/7, người dân thực hiện đăng ký xe như thế nào?](https://tienphong.vn/tu-17-nguoi-dan-thuc-hien-dang-ky-xe-nhu-the-nao-post1755824.tpo) - 16:57 29/06/2025
