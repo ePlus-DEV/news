@@ -4,10 +4,10 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Djokovic đặt hết kỳ vọng vào Wimbledon](https://dantri.com.vn/the-thao/djokovic-dat-het-ky-vong-vao-wimbledon-20250629142026223.htm) - 07:21 29/06/2025
-- 💯 [Nhận định PSG vs Inter Miami &lpar;23h ngày 29/6&rpar;: Vết thương lòng của Messi](https://dantri.com.vn/the-thao/nhan-dinh-psg-vs-inter-miami-23h-ngay-296-vet-thuong-long-cua-messi-20250629125542599.htm) - 05:55 29/06/2025
-- ⛽️ [Ronaldo quyết định huấn luyện viên tiếp theo cho Al Nassr](https://dantri.com.vn/the-thao/ronaldo-quyet-dinh-huan-luyen-vien-tiep-theo-cho-al-nassr-20250629091800028.htm) - 05:26 29/06/2025
-- 💃 [Xác định cặp tứ kết đầu tiên ở FIFA Club World Cup](https://dantri.com.vn/the-thao/xac-dinh-cap-tu-ket-dau-tien-o-fifa-club-world-cup-20250629111225294.htm) - 04:31 29/06/2025
+- 🎡 [Xác định cặp tứ kết đầu tiên ở FIFA Club World Cup](https://dantri.com.vn/the-thao/xac-dinh-cap-tu-ket-dau-tien-o-fifa-club-world-cup-20250629111225294.htm) - 07:31 29/06/2025
+- 💯 [Djokovic đặt hết kỳ vọng vào Wimbledon](https://dantri.com.vn/the-thao/djokovic-dat-het-ky-vong-vao-wimbledon-20250629142026223.htm) - 07:21 29/06/2025
+- ⛽️ [Nhận định PSG vs Inter Miami &lpar;23h ngày 29/6&rpar;: Vết thương lòng của Messi](https://dantri.com.vn/the-thao/nhan-dinh-psg-vs-inter-miami-23h-ngay-296-vet-thuong-long-cua-messi-20250629125542599.htm) - 05:55 29/06/2025
+- 💃 [Ronaldo quyết định huấn luyện viên tiếp theo cho Al Nassr](https://dantri.com.vn/the-thao/ronaldo-quyet-dinh-huan-luyen-vien-tiep-theo-cho-al-nassr-20250629091800028.htm) - 05:26 29/06/2025
 - 🌈 [Ronaldo buông lời cay đắng với FIFA Club World Cup](https://dantri.com.vn/the-thao/ronaldo-buong-loi-cay-dang-voi-fifa-club-world-cup-20250629074422219.htm) - 02:10 29/06/2025
 - 🦅 [Chelsea đánh bại Benfica sau gần 5 tiếng thi đấu, chờ đợi](https://dantri.com.vn/the-thao/chelsea-danh-bai-benfica-sau-gan-5-tieng-thi-dau-cho-doi-20250629081009313.htm) - 01:10 29/06/2025
 - 🌝 [Chuyên gia: “Sinner và Alcaraz sẽ đối đầu trong trận chung kết Wimbledon”](https://dantri.com.vn/the-thao/chuyen-gia-sinner-va-alcaraz-se-doi-dau-trong-tran-chung-ket-wimbledon-20250629003026214.htm) - 23:36 28/06/2025
