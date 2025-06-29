@@ -524,7 +524,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Trực tiếp bóng chuyền VTV Cup 29-6: Việt Nam gặp Philippines](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-vtv-cup-29-6-viet-nam-gap-philippines-101250629170011988.htm) - 12:13 29/06/2025
-- 🥷 [Trực tiếp vòng loại Asian Cup nữ 2026: Huỳnh Như, Hải Yến vào sân &lpar;hiệp 2&rpar;](https://muctim.tuoitre.vn/truc-tiep-vong-loai-asian-cup-nu-2026-viet-nam-maldives-101250629180406916.htm) - 11:18 29/06/2025
+- 🥷 [Trực tiếp vòng loại Asian Cup nữ 2026: Hải Yến lập công, Việt Nam - Maldives 7-0 &lpar;hiệp 2&rpar;](https://muctim.tuoitre.vn/truc-tiep-vong-loai-asian-cup-nu-2026-viet-nam-maldives-101250629180406916.htm) - 11:18 29/06/2025
 - 🤖 [Công An Hà Nội vô địch Cúp quốc gia sau chiến thắng 5-0 trước Sông Lam Nghệ An](https://muctim.tuoitre.vn/chung-ket-cup-quoc-gia-2025-song-lam-nghe-an-dau-cong-an-ha-noi-101250629180658331.htm) - 11:07 29/06/2025
 - 🤓 [Nam sinh Khánh Hòa là chủ nhân vòng nguyệt quế Đường lên đỉnh Olympia tuần này](https://muctim.tuoitre.vn/nam-sinh-khanh-hoa-la-chu-nhan-vong-nguyet-que-duong-len-dinh-olympia-tuan-nay-101250629141522036.htm) - 07:46 29/06/2025
 - 🎉 [FIFA Club World Cup: Flamengo vs Bayern Munich: Lịch trực tiếp, đội hình dự kiến](https://muctim.tuoitre.vn/fifa-club-world-cup-flamengo-vs-bayern-munich-lich-truc-tiep-doi-hinh-du-kien-101250629135123631.htm) - 07:15 29/06/2025
