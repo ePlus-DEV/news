@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [PSG 4-0 Inter Miami &lpar;hết hiệp 1&rpar;: Vỡ vụn trong 45 phút](https://dantri.com.vn/the-thao/psg-4-0-inter-miami-het-hiep-1-vo-vun-trong-45-phut-20250629224200575.htm) - 15:42 29/06/2025
+- 🎡 [PSG 4-0 Inter Miami &lpar;hiệp 2&rpar;: Vỡ vụn trong 45 phút](https://dantri.com.vn/the-thao/psg-4-0-inter-miami-hiep-2-vo-vun-trong-45-phut-20250629224200575.htm) - 15:42 29/06/2025
 - 💯 [HLV Polking nói điều đặc biệt khi CLB Công an Hà Nội đoạt Cúp Quốc gia](https://dantri.com.vn/the-thao/hlv-polking-noi-dieu-dac-biet-khi-clb-cong-an-ha-noi-doat-cup-quoc-gia-20250629213333838.htm) - 14:34 29/06/2025
 - ⛽️ [Đánh bại SL Nghệ An 5-0, CLB Công an Hà Nội đoạt Cúp Quốc gia](https://dantri.com.vn/the-thao/danh-bai-sl-nghe-an-5-0-clb-cong-an-ha-noi-doat-cup-quoc-gia-20250629202213879.htm) - 13:24 29/06/2025
 - 💃 [C.Ronaldo tuyên bố bất ngờ về lý do ở lại nhận &quot;núi tiền&quot; tại Al Nassr](https://dantri.com.vn/the-thao/cronaldo-tuyen-bo-bat-ngo-ve-ly-do-o-lai-nhan-nui-tien-tai-al-nassr-20250629191637790.htm) - 12:16 29/06/2025
