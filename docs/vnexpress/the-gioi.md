@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Một đêm sống dưới &#39;mưa tên lửa&#39; ở Kiev](https://vnexpress.net/mot-dem-song-duoi-mua-ten-lua-o-kiev-4907367.html) - 22:00 29/06/2025
-- 🕴 [Mẫu vũ khí là &#39;ông tổ&#39; của súng trường tấn công hiện đại](https://vnexpress.net/mau-vu-khi-la-ong-to-cua-sung-truong-tan-cong-hien-dai-4903734.html) - 18:00 29/06/2025
-- 🤭 [Ông Zelensky ký lệnh rút Ukraine khỏi hiệp ước cấm mìn chống bộ binh](https://vnexpress.net/ong-zelensky-ky-lenh-rut-ukraine-khoi-hiep-uoc-cam-min-chong-bo-binh-4907835.html) - 16:48 29/06/2025
-- 🧑‍💻 [Cố vấn lãnh tụ Iran kể khoảnh khắc bị Israel không kích](https://vnexpress.net/co-van-lanh-tu-iran-ke-khoanh-khac-bi-israel-khong-kich-4907819.html) - 15:56 29/06/2025
-- 🦏 [Tòa án Israel hoãn phiên xử Thủ tướng Netanyahu](https://vnexpress.net/toa-an-israel-hoan-phien-xu-thu-tuong-netanyahu-4907817.html) - 14:47 29/06/2025
-- 🦒 [Trùm tình báo Nga nhất trí &#39;duy trì liên lạc mọi lúc&#39; với giám đốc CIA](https://vnexpress.net/trum-tinh-bao-nga-nhat-tri-duy-tri-lien-lac-moi-luc-voi-giam-doc-cia-4907788.html) - 13:35 29/06/2025
-- 🌈 [Tướng hàng đầu Iran hoài nghi cam kết ngừng bắn của Israel](https://vnexpress.net/tuong-hang-dau-iran-hoai-nghi-cam-ket-ngung-ban-cua-israel-4907792.html) - 12:06 29/06/2025
-- 🧑‍🏫 [Tù nhân thành &#39;đặc vụ Israel&#39; chỉ huy băng vũ trang ở Gaza](https://vnexpress.net/tu-nhan-thanh-dac-vu-israel-chi-huy-bang-vu-trang-o-gaza-4897634.html) - 12:00 29/06/2025
-- 🐲 [Nga phóng loạt tên lửa Kinzhal, Iskander vào mục tiêu ở Ukraine](https://vnexpress.net/nga-phong-loat-ten-lua-kinzhal-iskander-vao-muc-tieu-o-ukraine-4907747.html) - 11:17 29/06/2025
-- 🦒 [Iran có thể nối lại làm giàu uranium &#39;trong vài tháng tới&#39;](https://vnexpress.net/iran-co-the-noi-lai-lam-giau-uranium-trong-vai-thang-toi-4907767.html) - 10:24 29/06/2025
-- 🐻 [Cô gái chạy bộ xuyên Australia để ủng hộ nạn nhân bạo lực gia đình](https://vnexpress.net/co-gai-chay-bo-xuyen-australia-de-ung-ho-nan-nhan-bao-luc-gia-dinh-4907735.html) - 08:11 29/06/2025
-- 🚀 [Tiêm kích F-16 Ukraine rơi khi chặn đòn tập kích của Nga](https://vnexpress.net/tiem-kich-f-16-ukraine-roi-khi-chan-don-tap-kich-cua-nga-4907720.html) - 06:05 29/06/2025
-- 🥰 [Cuộc truy bắt trùm ma túy vượt ngục khét tiếng nhất Ecuador](https://vnexpress.net/cuoc-truy-bat-trum-ma-tuy-vuot-nguc-khet-tieng-nhat-ecuador-4907357.html) - 05:00 29/06/2025
-- 🔥 [Siêu bom xuyên phá của Mỹ &#39;bất lực&#39; trước cơ sở hạt nhân Iran](https://vnexpress.net/sieu-bom-xuyen-pha-cua-my-bat-luc-truoc-co-so-hat-nhan-iran-4907647.html) - 04:17 29/06/2025
-- 🥳 [Tư lệnh Ukraine: Nga đẩy mạnh tấn công thành phố chiến lược ở Donetsk](https://vnexpress.net/tu-lenh-ukraine-nga-day-manh-tan-cong-thanh-pho-chien-luoc-o-donetsk-4907627.html) - 01:30 29/06/2025
-- 💼 [Elon Musk chỉ trích gay gắt dự luật ngân sách của Thượng viện Mỹ](https://vnexpress.net/elon-musk-chi-trich-gay-gat-du-luat-ngan-sach-cua-thuong-vien-my-4907618.html) - 00:04 29/06/2025
-- 🤡 [Xung đột Israel - Iran xoay chuyển tính toán của các nước Arab](https://vnexpress.net/xung-dot-israel-iran-xoay-chuyen-tinh-toan-cua-cac-nuoc-arab-4907374.html) - 22:00 28/06/2025
-- 🌁 [Người trẻ ở New York tuyệt vọng tìm thuê nhà](https://vnexpress.net/nguoi-tre-o-new-york-tuyet-vong-tim-thue-nha-4907088.html) - 17:00 28/06/2025
-- 🤩 [Biển người Iran dự quốc tang các chỉ huy bị Israel hạ sát](https://vnexpress.net/bien-nguoi-iran-du-quoc-tang-cac-chi-huy-bi-israel-ha-sat-4907574.html) - 14:20 28/06/2025
+- 🎭 [Iran muốn Mỹ, Israel bồi thường tổn thất trong xung đột 12 ngày](https://vnexpress.net/iran-muon-my-israel-boi-thuong-ton-that-trong-xung-dot-12-ngay-4907862.html) - 23:31 29/06/2025
+- 🕴 [Một đêm sống dưới &#39;mưa tên lửa&#39; ở Kiev](https://vnexpress.net/mot-dem-song-duoi-mua-ten-lua-o-kiev-4907367.html) - 22:00 29/06/2025
+- 🤭 [Mẫu vũ khí là &#39;ông tổ&#39; của súng trường tấn công hiện đại](https://vnexpress.net/mau-vu-khi-la-ong-to-cua-sung-truong-tan-cong-hien-dai-4903734.html) - 18:00 29/06/2025
+- 🧑‍💻 [Ông Zelensky ký lệnh rút Ukraine khỏi hiệp ước cấm mìn chống bộ binh](https://vnexpress.net/ong-zelensky-ky-lenh-rut-ukraine-khoi-hiep-uoc-cam-min-chong-bo-binh-4907835.html) - 16:48 29/06/2025
+- 🦏 [Cố vấn lãnh tụ Iran kể khoảnh khắc bị Israel không kích](https://vnexpress.net/co-van-lanh-tu-iran-ke-khoanh-khac-bi-israel-khong-kich-4907819.html) - 15:56 29/06/2025
+- 🦒 [Tòa án Israel hoãn phiên xử Thủ tướng Netanyahu](https://vnexpress.net/toa-an-israel-hoan-phien-xu-thu-tuong-netanyahu-4907817.html) - 14:47 29/06/2025
+- 🌈 [Trùm tình báo Nga nhất trí &#39;duy trì liên lạc mọi lúc&#39; với giám đốc CIA](https://vnexpress.net/trum-tinh-bao-nga-nhat-tri-duy-tri-lien-lac-moi-luc-voi-giam-doc-cia-4907788.html) - 13:35 29/06/2025
+- 🧑‍🏫 [Tướng hàng đầu Iran hoài nghi cam kết ngừng bắn của Israel](https://vnexpress.net/tuong-hang-dau-iran-hoai-nghi-cam-ket-ngung-ban-cua-israel-4907792.html) - 12:06 29/06/2025
+- 🐲 [Tù nhân thành &#39;đặc vụ Israel&#39; chỉ huy băng vũ trang ở Gaza](https://vnexpress.net/tu-nhan-thanh-dac-vu-israel-chi-huy-bang-vu-trang-o-gaza-4897634.html) - 12:00 29/06/2025
+- 🦒 [Nga phóng loạt tên lửa Kinzhal, Iskander vào mục tiêu ở Ukraine](https://vnexpress.net/nga-phong-loat-ten-lua-kinzhal-iskander-vao-muc-tieu-o-ukraine-4907747.html) - 11:17 29/06/2025
+- 🐻 [Iran có thể nối lại làm giàu uranium &#39;trong vài tháng tới&#39;](https://vnexpress.net/iran-co-the-noi-lai-lam-giau-uranium-trong-vai-thang-toi-4907767.html) - 10:24 29/06/2025
+- 🚀 [Cô gái chạy bộ xuyên Australia để ủng hộ nạn nhân bạo lực gia đình](https://vnexpress.net/co-gai-chay-bo-xuyen-australia-de-ung-ho-nan-nhan-bao-luc-gia-dinh-4907735.html) - 08:11 29/06/2025
+- 🥰 [Tiêm kích F-16 Ukraine rơi khi chặn đòn tập kích của Nga](https://vnexpress.net/tiem-kich-f-16-ukraine-roi-khi-chan-don-tap-kich-cua-nga-4907720.html) - 06:05 29/06/2025
+- 🔥 [Cuộc truy bắt trùm ma túy vượt ngục khét tiếng nhất Ecuador](https://vnexpress.net/cuoc-truy-bat-trum-ma-tuy-vuot-nguc-khet-tieng-nhat-ecuador-4907357.html) - 05:00 29/06/2025
+- 🥳 [Siêu bom xuyên phá của Mỹ &#39;bất lực&#39; trước cơ sở hạt nhân Iran](https://vnexpress.net/sieu-bom-xuyen-pha-cua-my-bat-luc-truoc-co-so-hat-nhan-iran-4907647.html) - 04:17 29/06/2025
+- 💼 [Tư lệnh Ukraine: Nga đẩy mạnh tấn công thành phố chiến lược ở Donetsk](https://vnexpress.net/tu-lenh-ukraine-nga-day-manh-tan-cong-thanh-pho-chien-luoc-o-donetsk-4907627.html) - 01:30 29/06/2025
+- 🤡 [Elon Musk chỉ trích gay gắt dự luật ngân sách của Thượng viện Mỹ](https://vnexpress.net/elon-musk-chi-trich-gay-gat-du-luat-ngan-sach-cua-thuong-vien-my-4907618.html) - 00:04 29/06/2025
+- 🌁 [Xung đột Israel - Iran xoay chuyển tính toán của các nước Arab](https://vnexpress.net/xung-dot-israel-iran-xoay-chuyen-tinh-toan-cua-cac-nuoc-arab-4907374.html) - 22:00 28/06/2025
+- 🤩 [Người trẻ ở New York tuyệt vọng tìm thuê nhà](https://vnexpress.net/nguoi-tre-o-new-york-tuyet-vong-tim-thue-nha-4907088.html) - 17:00 28/06/2025
+- 🎉 [Biển người Iran dự quốc tang các chỉ huy bị Israel hạ sát](https://vnexpress.net/bien-nguoi-iran-du-quoc-tang-cac-chi-huy-bi-israel-ha-sat-4907574.html) - 14:20 28/06/2025
 - 🎉 [Chiến dịch hạ sát gây sốc của Israel ở Iran](https://vnexpress.net/chien-dich-ha-sat-gay-soc-cua-israel-o-iran-4906860.html) - 12:00 28/06/2025
-- 🎉 [Hàng nghìn người Thái Lan biểu tình yêu cầu Thủ tướng từ chức](https://vnexpress.net/hang-nghin-nguoi-thai-lan-bieu-tinh-yeu-cau-thu-tuong-tu-chuc-4907562.html) - 11:55 28/06/2025
-- 🌁 [Ông Trump nói đùa khi khen nữ phóng viên xinh đẹp](https://vnexpress.net/ong-trump-noi-dua-khi-khen-nu-phong-vien-xinh-dep-4907525.html) - 10:37 28/06/2025
-- 🌊 [Pháp cấm hút thuốc ở bãi biển, công viên](https://vnexpress.net/phap-cam-hut-thuoc-o-bai-bien-cong-vien-4907502.html) - 07:56 28/06/2025
-- 🕴 [Ukraine tuyên bố tập kích sân bay, phá hủy Su-34 Nga](https://vnexpress.net/ukraine-tuyen-bo-tap-kich-san-bay-pha-huy-su-34-nga-4907461.html) - 06:12 28/06/2025
-- 🎓 [Mỹ &#39;dùng hết 20% kho tên lửa THAAD&#39; trong 11 ngày bảo vệ Israel](https://vnexpress.net/my-dung-het-20-kho-ten-lua-thaad-trong-11-ngay-bao-ve-israel-4907404.html) - 05:46 28/06/2025
-- 🦩 [Con riêng của Thái tử phi Na Uy bị cáo buộc cưỡng bức nhiều người](https://vnexpress.net/con-rieng-cua-thai-tu-phi-na-uy-bi-cao-buoc-cuong-buc-nhieu-nguoi-4907454.html) - 05:05 28/06/2025
-- 🌏 [Bất đồng nội bộ cản đường siêu dự luật của đảng Cộng hòa](https://vnexpress.net/bat-dong-noi-bo-can-duong-sieu-du-luat-cua-dang-cong-hoa-4906865.html) - 05:00 28/06/2025
-- 🌋 [Vòng vây của Israel bóp nghẹt nguồn sống cho trẻ sơ sinh Gaza](https://vnexpress.net/vong-vay-cua-israel-bop-nghet-nguon-song-cho-tre-so-sinh-gaza-4907053.html) - 04:48 28/06/2025
-- 🪜 [Ông Trump chứng kiến hai nước châu Phi ký thỏa thuận hòa bình](https://vnexpress.net/ong-trump-chung-kien-hai-nuoc-chau-phi-ky-thoa-thuan-hoa-binh-4907413.html) - 04:07 28/06/2025
-- 🕴 [Hiệu trưởng Đại học Virginia từ chức để tránh đối đầu chính quyền Trump](https://vnexpress.net/hieu-truong-dai-hoc-virginia-tu-chuc-de-tranh-doi-dau-chinh-quyen-trump-4907407.html) - 03:56 28/06/2025
-- 🧑‍🏫 [Tướng Mỹ: Patriot khai hỏa nhiều chưa từng thấy để chặn tên lửa Iran](https://vnexpress.net/tuong-my-patriot-khai-hoa-nhieu-chua-tung-thay-de-chan-ten-lua-iran-4907219.html) - 03:27 28/06/2025
-- 🌮 [Những phụ nữ Ukraine sẵn sàng ra trận](https://vnexpress.net/nhung-phu-nu-ukraine-san-sang-ra-tran-4907149.html) - 03:24 28/06/2025
-- 🚦 [Israel &#39;sắp hoàn thành mục tiêu&#39; kiểm soát 75% Gaza](https://vnexpress.net/israel-sap-hoan-thanh-muc-tieu-kiem-soat-75-gaza-4907409.html) - 02:53 28/06/2025
-- 💫 [Ông Putin ca ngợi nỗ lực ngoại giao của ông Trump](https://vnexpress.net/ong-putin-ca-ngoi-no-luc-ngoai-giao-cua-ong-trump-4907356.html) - 01:49 28/06/2025
-- 🤡 [Moskva - Berlin căng thẳng vì cáo buộc &#39;tịch thu hộ chiếu&#39;](https://vnexpress.net/moskva-berlin-cang-thang-vi-cao-buoc-tich-thu-ho-chieu-4907349.html) - 01:22 28/06/2025
-- 🦣 [Ông Trump kể cuộc trò chuyện &#39;huyền thoại&#39; với nữ bồi bàn](https://vnexpress.net/ong-trump-ke-cuoc-tro-chuyen-huyen-thoai-voi-nu-boi-ban-4907222.html) - 01:00 28/06/2025
-- 🎬 [Bí ẩn kho uranium Iran sau đòn không kích của Mỹ](https://vnexpress.net/bi-an-kho-uranium-iran-sau-don-khong-kich-cua-my-4906870.html) - 01:00 28/06/2025
-- 🎉 [Tổng thống Mỹ nói sắp có thỏa thuận ngừng bắn ở Dải Gaza](https://vnexpress.net/tong-thong-my-noi-sap-co-thoa-thuan-ngung-ban-o-dai-gaza-4907344.html) - 00:34 28/06/2025
-- 🎡 [Ông Trump dọa tiếp tục không kích Iran](https://vnexpress.net/ong-trump-doa-tiep-tuc-khong-kich-iran-4907345.html) - 23:59 27/06/2025
-- 🌜 [Phó thủ tướng Ukraine bị điều tra tham nhũng](https://vnexpress.net/pho-thu-tuong-ukraine-bi-dieu-tra-tham-nhung-4907317.html) - 23:32 27/06/2025
-- 🎡 [Cách tướng Mỹ giành lòng tin của ông Trump bằng chiến dịch tập kích Iran](https://vnexpress.net/cach-tuong-my-gianh-long-tin-cua-ong-trump-bang-chien-dich-tap-kich-iran-4906856.html) - 22:00 27/06/2025
-- 🤗 [Các mũi tiến công Nga có thể đẩy mạnh trong mùa hè 2025](https://vnexpress.net/cac-mui-tien-cong-nga-co-the-day-manh-trong-mua-he-2025-4899943.html) - 18:00 27/06/2025
-- 🦩 [Ông Putin: Đề xuất hòa bình của Nga và Ukraine &#39;hoàn toàn trái ngược&#39;](https://vnexpress.net/ong-putin-de-xuat-hoa-binh-cua-nga-va-ukraine-hoan-toan-trai-nguoc-4907314.html) - 17:26 27/06/2025
-- 🎓 [Ông Trump giành thắng lợi lớn về pháp lý](https://vnexpress.net/ong-trump-gianh-thang-loi-lon-ve-phap-ly-4907306.html) - 16:33 27/06/2025
-- 🌁 [Cú bắt tay gây chú ý giữa ông Macron và ông Erdogan](https://vnexpress.net/cu-bat-tay-gay-chu-y-giua-ong-macron-va-ong-erdogan-4907128.html) - 15:34 27/06/2025
-- 🤩 [Việt Nam đề nghị UNESCO ủng hộ ghi danh quần thể Yên Tử](https://vnexpress.net/viet-nam-de-nghi-unesco-ung-ho-ghi-danh-quan-the-yen-tu-4907300.html) - 15:04 27/06/2025
-- 👹 [Nhóm người đột nhập căn cứ Anh bị bắt](https://vnexpress.net/nhom-nguoi-dot-nhap-can-cu-anh-bi-bat-4907298.html) - 14:37 27/06/2025
-- ⛽️ [Quy định an toàn khiến tiểu đội Israel thiệt mạng trong thiết giáp](https://vnexpress.net/quy-dinh-an-toan-khien-tieu-doi-israel-thiet-mang-trong-thiet-giap-4907169.html) - 13:00 27/06/2025
-- 🚀 [Israel nói đã hạ 11 nhà khoa học, 30 quan chức cấp cao Iran](https://vnexpress.net/israel-noi-da-ha-11-nha-khoa-hoc-30-quan-chuc-cap-cao-iran-4907279.html) - 12:54 27/06/2025
-- 🎡 [Israel tuyên bố oanh tạc cơ sở của Hezbollah ở Lebanon](https://vnexpress.net/israel-tuyen-bo-oanh-tac-co-so-cua-hezbollah-o-lebanon-4907264.html) - 11:53 27/06/2025
-- 🕯 [Hành trình trở thành luật sư của một cựu yakuza](https://vnexpress.net/hanh-trinh-tro-thanh-luat-su-cua-mot-cuu-yakuza-4907106.html) - 10:28 27/06/2025
-- 🐻 [Ông Hun Sen livestream hơn ba giờ về quan hệ Campuchia - Thái Lan](https://vnexpress.net/ong-hun-sen-livestream-hon-ba-gio-ve-quan-he-campuchia-thai-lan-4907134.html) - 08:39 27/06/2025
-- 🚦 [Thủ tướng Hungary nêu lý do phản đối Ukraine gia nhập EU](https://vnexpress.net/thu-tuong-hungary-neu-ly-do-phan-doi-ukraine-gia-nhap-eu-4907103.html) - 08:25 27/06/2025
-- 👍 [Đan Mạch muốn cho người dân đăng ký bản quyền đặc điểm nhận dạng](https://vnexpress.net/dan-mach-muon-cho-nguoi-dan-dang-ky-ban-quyen-dac-diem-nhan-dang-4907027.html) - 08:14 27/06/2025
-- 🚀 [Ukraine để lọt toàn bộ tên lửa Kinzhal trong đòn tập kích của Nga](https://vnexpress.net/ukraine-de-lot-toan-bo-ten-lua-kinzhal-trong-don-tap-kich-cua-nga-4907109.html) - 08:06 27/06/2025
-- 🌮 [Phó tổng thống Vance kể giây phút ông Trump nói đùa về &#39;nút hạt nhân&#39;](https://vnexpress.net/pho-tong-thong-vance-ke-giay-phut-ong-trump-noi-dua-ve-nut-hat-nhan-4906933.html) - 07:15 27/06/2025
-- 😎 [Mỹ khoe uy lực bom xuyên hầm dùng trong cuộc không kích Iran](https://vnexpress.net/my-khoe-uy-luc-bom-xuyen-ham-dung-trong-cuoc-khong-kich-iran-4906971.html) - 04:53 27/06/2025
-- 🐲 [Mỹ có thể dùng gói đầu tư 30 tỷ USD để kéo Iran trở lại đàm phán](https://vnexpress.net/my-co-the-dung-goi-dau-tu-30-ty-usd-de-keo-iran-tro-lai-dam-phan-4906938.html) - 04:47 27/06/2025
-- 💫 [Nhà Trắng bác tuyên bố &#39;Mỹ không đạt được gì&#39; của lãnh tụ Iran](https://vnexpress.net/nha-trang-bac-tuyen-bo-my-khong-dat-duoc-gi-cua-lanh-tu-iran-4906849.html) - 04:25 27/06/2025
-- 👀 [Phóng viên Mỹ đấu khẩu với Bộ trưởng Quốc phòng Hegseth](https://vnexpress.net/phong-vien-my-dau-khau-voi-bo-truong-quoc-phong-hegseth-4906894.html) - 04:06 27/06/2025<!-- vnexpress-the-gioi:END -->
+- 🌁 [Hàng nghìn người Thái Lan biểu tình yêu cầu Thủ tướng từ chức](https://vnexpress.net/hang-nghin-nguoi-thai-lan-bieu-tinh-yeu-cau-thu-tuong-tu-chuc-4907562.html) - 11:55 28/06/2025
+- 🌊 [Ông Trump nói đùa khi khen nữ phóng viên xinh đẹp](https://vnexpress.net/ong-trump-noi-dua-khi-khen-nu-phong-vien-xinh-dep-4907525.html) - 10:37 28/06/2025
+- 🕴 [Pháp cấm hút thuốc ở bãi biển, công viên](https://vnexpress.net/phap-cam-hut-thuoc-o-bai-bien-cong-vien-4907502.html) - 07:56 28/06/2025
+- 🎓 [Ukraine tuyên bố tập kích sân bay, phá hủy Su-34 Nga](https://vnexpress.net/ukraine-tuyen-bo-tap-kich-san-bay-pha-huy-su-34-nga-4907461.html) - 06:12 28/06/2025
+- 🦩 [Mỹ &#39;dùng hết 20% kho tên lửa THAAD&#39; trong 11 ngày bảo vệ Israel](https://vnexpress.net/my-dung-het-20-kho-ten-lua-thaad-trong-11-ngay-bao-ve-israel-4907404.html) - 05:46 28/06/2025
+- 🌏 [Con riêng của Thái tử phi Na Uy bị cáo buộc cưỡng bức nhiều người](https://vnexpress.net/con-rieng-cua-thai-tu-phi-na-uy-bi-cao-buoc-cuong-buc-nhieu-nguoi-4907454.html) - 05:05 28/06/2025
+- 🌋 [Bất đồng nội bộ cản đường siêu dự luật của đảng Cộng hòa](https://vnexpress.net/bat-dong-noi-bo-can-duong-sieu-du-luat-cua-dang-cong-hoa-4906865.html) - 05:00 28/06/2025
+- 🪜 [Vòng vây của Israel bóp nghẹt nguồn sống cho trẻ sơ sinh Gaza](https://vnexpress.net/vong-vay-cua-israel-bop-nghet-nguon-song-cho-tre-so-sinh-gaza-4907053.html) - 04:48 28/06/2025
+- 🕴 [Ông Trump chứng kiến hai nước châu Phi ký thỏa thuận hòa bình](https://vnexpress.net/ong-trump-chung-kien-hai-nuoc-chau-phi-ky-thoa-thuan-hoa-binh-4907413.html) - 04:07 28/06/2025
+- 🧑‍🏫 [Hiệu trưởng Đại học Virginia từ chức để tránh đối đầu chính quyền Trump](https://vnexpress.net/hieu-truong-dai-hoc-virginia-tu-chuc-de-tranh-doi-dau-chinh-quyen-trump-4907407.html) - 03:56 28/06/2025
+- 🌮 [Tướng Mỹ: Patriot khai hỏa nhiều chưa từng thấy để chặn tên lửa Iran](https://vnexpress.net/tuong-my-patriot-khai-hoa-nhieu-chua-tung-thay-de-chan-ten-lua-iran-4907219.html) - 03:27 28/06/2025
+- 🚦 [Những phụ nữ Ukraine sẵn sàng ra trận](https://vnexpress.net/nhung-phu-nu-ukraine-san-sang-ra-tran-4907149.html) - 03:24 28/06/2025
+- 💫 [Israel &#39;sắp hoàn thành mục tiêu&#39; kiểm soát 75% Gaza](https://vnexpress.net/israel-sap-hoan-thanh-muc-tieu-kiem-soat-75-gaza-4907409.html) - 02:53 28/06/2025
+- 🤡 [Ông Putin ca ngợi nỗ lực ngoại giao của ông Trump](https://vnexpress.net/ong-putin-ca-ngoi-no-luc-ngoai-giao-cua-ong-trump-4907356.html) - 01:49 28/06/2025
+- 🦣 [Moskva - Berlin căng thẳng vì cáo buộc &#39;tịch thu hộ chiếu&#39;](https://vnexpress.net/moskva-berlin-cang-thang-vi-cao-buoc-tich-thu-ho-chieu-4907349.html) - 01:22 28/06/2025
+- 🎬 [Ông Trump kể cuộc trò chuyện &#39;huyền thoại&#39; với nữ bồi bàn](https://vnexpress.net/ong-trump-ke-cuoc-tro-chuyen-huyen-thoai-voi-nu-boi-ban-4907222.html) - 01:00 28/06/2025
+- 🎉 [Bí ẩn kho uranium Iran sau đòn không kích của Mỹ](https://vnexpress.net/bi-an-kho-uranium-iran-sau-don-khong-kich-cua-my-4906870.html) - 01:00 28/06/2025
+- 🎡 [Tổng thống Mỹ nói sắp có thỏa thuận ngừng bắn ở Dải Gaza](https://vnexpress.net/tong-thong-my-noi-sap-co-thoa-thuan-ngung-ban-o-dai-gaza-4907344.html) - 00:34 28/06/2025
+- 🌜 [Ông Trump dọa tiếp tục không kích Iran](https://vnexpress.net/ong-trump-doa-tiep-tuc-khong-kich-iran-4907345.html) - 23:59 27/06/2025
+- 🎡 [Phó thủ tướng Ukraine bị điều tra tham nhũng](https://vnexpress.net/pho-thu-tuong-ukraine-bi-dieu-tra-tham-nhung-4907317.html) - 23:32 27/06/2025
+- 🤗 [Cách tướng Mỹ giành lòng tin của ông Trump bằng chiến dịch tập kích Iran](https://vnexpress.net/cach-tuong-my-gianh-long-tin-cua-ong-trump-bang-chien-dich-tap-kich-iran-4906856.html) - 22:00 27/06/2025
+- 🦩 [Các mũi tiến công Nga có thể đẩy mạnh trong mùa hè 2025](https://vnexpress.net/cac-mui-tien-cong-nga-co-the-day-manh-trong-mua-he-2025-4899943.html) - 18:00 27/06/2025
+- 🎓 [Ông Putin: Đề xuất hòa bình của Nga và Ukraine &#39;hoàn toàn trái ngược&#39;](https://vnexpress.net/ong-putin-de-xuat-hoa-binh-cua-nga-va-ukraine-hoan-toan-trai-nguoc-4907314.html) - 17:26 27/06/2025
+- 🌁 [Ông Trump giành thắng lợi lớn về pháp lý](https://vnexpress.net/ong-trump-gianh-thang-loi-lon-ve-phap-ly-4907306.html) - 16:33 27/06/2025
+- 🤩 [Cú bắt tay gây chú ý giữa ông Macron và ông Erdogan](https://vnexpress.net/cu-bat-tay-gay-chu-y-giua-ong-macron-va-ong-erdogan-4907128.html) - 15:34 27/06/2025
+- 👹 [Việt Nam đề nghị UNESCO ủng hộ ghi danh quần thể Yên Tử](https://vnexpress.net/viet-nam-de-nghi-unesco-ung-ho-ghi-danh-quan-the-yen-tu-4907300.html) - 15:04 27/06/2025
+- ⛽️ [Nhóm người đột nhập căn cứ Anh bị bắt](https://vnexpress.net/nhom-nguoi-dot-nhap-can-cu-anh-bi-bat-4907298.html) - 14:37 27/06/2025
+- 🚀 [Quy định an toàn khiến tiểu đội Israel thiệt mạng trong thiết giáp](https://vnexpress.net/quy-dinh-an-toan-khien-tieu-doi-israel-thiet-mang-trong-thiet-giap-4907169.html) - 13:00 27/06/2025
+- 🎡 [Israel nói đã hạ 11 nhà khoa học, 30 quan chức cấp cao Iran](https://vnexpress.net/israel-noi-da-ha-11-nha-khoa-hoc-30-quan-chuc-cap-cao-iran-4907279.html) - 12:54 27/06/2025
+- 🕯 [Israel tuyên bố oanh tạc cơ sở của Hezbollah ở Lebanon](https://vnexpress.net/israel-tuyen-bo-oanh-tac-co-so-cua-hezbollah-o-lebanon-4907264.html) - 11:53 27/06/2025
+- 🐻 [Hành trình trở thành luật sư của một cựu yakuza](https://vnexpress.net/hanh-trinh-tro-thanh-luat-su-cua-mot-cuu-yakuza-4907106.html) - 10:28 27/06/2025
+- 🚦 [Ông Hun Sen livestream hơn ba giờ về quan hệ Campuchia - Thái Lan](https://vnexpress.net/ong-hun-sen-livestream-hon-ba-gio-ve-quan-he-campuchia-thai-lan-4907134.html) - 08:39 27/06/2025
+- 👍 [Thủ tướng Hungary nêu lý do phản đối Ukraine gia nhập EU](https://vnexpress.net/thu-tuong-hungary-neu-ly-do-phan-doi-ukraine-gia-nhap-eu-4907103.html) - 08:25 27/06/2025
+- 🚀 [Đan Mạch muốn cho người dân đăng ký bản quyền đặc điểm nhận dạng](https://vnexpress.net/dan-mach-muon-cho-nguoi-dan-dang-ky-ban-quyen-dac-diem-nhan-dang-4907027.html) - 08:14 27/06/2025
+- 🌮 [Ukraine để lọt toàn bộ tên lửa Kinzhal trong đòn tập kích của Nga](https://vnexpress.net/ukraine-de-lot-toan-bo-ten-lua-kinzhal-trong-don-tap-kich-cua-nga-4907109.html) - 08:06 27/06/2025
+- 😎 [Phó tổng thống Vance kể giây phút ông Trump nói đùa về &#39;nút hạt nhân&#39;](https://vnexpress.net/pho-tong-thong-vance-ke-giay-phut-ong-trump-noi-dua-ve-nut-hat-nhan-4906933.html) - 07:15 27/06/2025
+- 🐲 [Mỹ khoe uy lực bom xuyên hầm dùng trong cuộc không kích Iran](https://vnexpress.net/my-khoe-uy-luc-bom-xuyen-ham-dung-trong-cuoc-khong-kich-iran-4906971.html) - 04:53 27/06/2025
+- 💫 [Mỹ có thể dùng gói đầu tư 30 tỷ USD để kéo Iran trở lại đàm phán](https://vnexpress.net/my-co-the-dung-goi-dau-tu-30-ty-usd-de-keo-iran-tro-lai-dam-phan-4906938.html) - 04:47 27/06/2025
+- 👀 [Nhà Trắng bác tuyên bố &#39;Mỹ không đạt được gì&#39; của lãnh tụ Iran](https://vnexpress.net/nha-trang-bac-tuyen-bo-my-khong-dat-duoc-gi-cua-lanh-tu-iran-4906849.html) - 04:25 27/06/2025<!-- vnexpress-the-gioi:END -->
