@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Ilia Topuria thành nhà vô địch hạng nhẹ UFC](https://vnexpress.net/ilia-topuria-thanh-nha-vo-dich-hang-nhe-ufc-4907741.html) - 17:00 29/06/2025
 - 🦩 [Trung Quốc chốt hai kỳ thủ dự giải cờ tướng thế giới](https://vnexpress.net/trung-quoc-chot-hai-ky-thu-du-giai-co-tuong-the-gioi-4907806.html) - 17:00 29/06/2025
-- 🧰 [PSG thắng Inter Miami 4-0 ở FIFA Club World Cup](https://vnexpress.net/psg-thang-inter-miami-4-0-o-fifa-club-world-cup-4907836.html) - 15:02 29/06/2025
+- 🧰 [PSG thắng Inter Miami 4-0 ở FIFA Club World Cup](https://vnexpress.net/psg-thang-inter-miami-4-0-o-fifa-club-world-cup-4907836-tong-thuat.html) - 15:02 29/06/2025
 - 🤗 [Nữ Việt Nam thắng 7-0 ở vòng loại châu Á](https://vnexpress.net/nu-viet-nam-thang-7-0-o-vong-loai-chau-a-4907832.html) - 14:18 29/06/2025
 - 🥳 [Chủ tịch Real giàu thứ 9 ở Tây Ban Nha](https://vnexpress.net/chu-tich-real-giau-thu-9-o-tay-ban-nha-4907660.html) - 12:24 29/06/2025
 - 🦣 [Klopp: &#39;FIFA Club World Cup là ý tưởng tồi tệ nhất của bóng đá&#39;](https://vnexpress.net/klopp-fifa-club-world-cup-la-y-tuong-toi-te-nhat-cua-bong-da-4907620.html) - 11:22 29/06/2025
