@@ -410,8 +410,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Phó Thủ tướng Chính phủ Hồ Đức Phớc gặp Thủ tướng Tây Ban Nha](https://baochinhphu.vn/pho-thu-tuong-chinh-phu-ho-duc-phoc-gap-thu-tuong-tay-ban-nha-102250701002548123.htm) - 04:19 01/07/2025
-- 🌜 [Tăng cường kết nối, chia sẻ dữ liệu giữa cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành](https://baochinhphu.vn/tang-cuong-ket-noi-chia-se-du-lieu-giua-co-so-du-lieu-quoc-gia-co-so-du-lieu-chuyen-nganh-102250701024000585.htm) - 02:39 01/07/2025
+- 💻 [Tăng cường kết nối, chia sẻ dữ liệu giữa cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành](https://baochinhphu.vn/tang-cuong-ket-noi-chia-se-du-lieu-giua-co-so-du-lieu-quoc-gia-co-so-du-lieu-chuyen-nganh-102250701024000585.htm) - 04:24 01/07/2025
+- 🌜 [Phó Thủ tướng Chính phủ Hồ Đức Phớc gặp Thủ tướng Tây Ban Nha](https://baochinhphu.vn/pho-thu-tuong-chinh-phu-ho-duc-phoc-gap-thu-tuong-tay-ban-nha-102250701002548123.htm) - 04:19 01/07/2025
 - 🦆 [Tiếp tục chăm lo tốt đời sống người có công với cách mạng](https://baochinhphu.vn/tiep-tuc-cham-lo-tot-doi-song-nguoi-co-cong-voi-cach-mang-102250701014240687.htm) - 01:38 01/07/2025
 - 🌝 [Sửa đổi một số quy định về lệ phí trước bạ](https://baochinhphu.vn/sua-doi-mot-so-quy-dinh-ve-le-phi-truoc-ba-102250630231632764.htm) - 00:19 01/07/2025
 - 🦣 [Phó Thủ tướng Hồ Đức Phớc tiếp Bộ trưởng Ngoại thương và Phát triển Phần Lan; thăm cơ sở sản xuất máy bay Airbus](https://baochinhphu.vn/pho-thu-tuong-ho-duc-phoc-tiep-bo-truong-ngoai-thuong-va-phat-trien-phan-lan-102250701001357827.htm) - 00:13 01/07/2025
