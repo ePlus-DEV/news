@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Trộm 8 ôtô lái về nhà vì tiếc tiền vé máy bay](https://vnexpress.net/trom-8-oto-tu-lai-di-du-lich-vi-tiec-tien-ve-may-bay-4908019.html) - 03:52 30/06/2025
 - 🥰 [Nam sinh ăn trộm trang sức, xô đẩy khiến bà nội tử vong](https://vnexpress.net/nam-sinh-an-trom-trang-suc-xo-day-khien-ba-noi-tu-vong-4907902.html) - 03:21 30/06/2025
-- 🎓 [Tài xế bị khởi tố vì chèn ép hai xe tải trên cao tốc](https://vnexpress.net/tai-xe-bi-khoi-to-vi-chen-ep-hai-xe-tai-tren-cao-toc-4907914.html) - 01:36 30/06/2025
+- 🎓 [Tài xế bị khởi tố khi chèn ép hai xe tải trên cao tốc](https://vnexpress.net/tai-xe-bi-khoi-to-vi-chen-ep-hai-xe-tai-tren-cao-toc-4907914.html) - 01:36 30/06/2025
 - 🤓 [Tôi có phải trả tiền khi thẻ visa bị kẻ trộm sử dụng?](https://vnexpress.net/toi-co-phai-tra-tien-khi-the-visa-bi-ke-trom-su-dung-4907684.html) - 22:00 29/06/2025
 - 🎊 [Uẩn khúc sau vụ án giấu thi thể trong tủ quần áo](https://vnexpress.net/uan-khuc-sau-vu-an-thi-the-giau-trong-tu-quan-ao-4907847.html) - 17:00 29/06/2025
 - 🙉 [Thiếu tướng Nguyễn Hữu Hợp làm Giám đốc Công an Đà Nẵng](https://vnexpress.net/thieu-tuong-nguyen-huu-hop-lam-giam-doc-cong-an-da-nang-4907838.html) - 15:36 29/06/2025
