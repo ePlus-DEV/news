@@ -313,56 +313,56 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [“El Matador” Ilia Topuria: Nhà vô địch hạng cân nhẹ thứ 13 của UFC](https://www.sggp.org.vn/el-matador-ilia-topuria-nha-vo-dich-hang-can-nhe-thu-13-cua-ufc-post801748.html) - 04:57 30/06/2025
-- 🌝 [Phú Thọ đứng trước cơ hội trở thành cực tăng trưởng của vùng trung du Bắc bộ](https://www.sggp.org.vn/phu-tho-dung-truoc-co-hoi-tro-thanh-cuc-tang-truong-cua-vung-trung-du-bac-bo-post801772.html) - 04:56 30/06/2025
-- 💃 [Danh sách phó chủ tịch UBND các tỉnh, thành sau hợp nhất](https://www.sggp.org.vn/danh-sach-pho-chu-tich-ubnd-cac-tinh-thanh-sau-hop-nhat-post801768.html) - 04:31 30/06/2025
-- 🧑‍💻 [TP Cần Thơ &lpar;mới&rpar; phải định vị rõ vai trò trung tâm kinh tế, dẫn dắt ĐBSCL phát triển](https://www.sggp.org.vn/tp-can-tho-moi-phai-dinh-vi-ro-vai-tro-trung-tam-kinh-te-dan-dat-dbscl-phat-trien-post801758.html) - 04:29 30/06/2025
-- 🌊 [Chủ tịch nước Lương Cường dự Lễ công bố nghị quyết, quyết định tại Hà Nội](https://www.sggp.org.vn/chu-tich-nuoc-luong-cuong-du-le-cong-bo-nghi-quyet-quyet-dinh-tai-ha-noi-post801761.html) - 04:17 30/06/2025
-- 🧑‍💻 [Thư cảm ơn](https://www.sggp.org.vn/thu-cam-on-post801766.html) - 04:12 30/06/2025
-- ⛽️ [Danh sách bí thư 34 tỉnh ủy, thành ủy](https://www.sggp.org.vn/danh-sach-bi-thu-34-tinh-uy-thanh-uy-post801770.html) - 04:09 30/06/2025
-- 😎 [Công bố các lãnh đạo, nhân sự chủ chốt của tỉnh Gia Lai mới](https://www.sggp.org.vn/cong-bo-cac-lanh-dao-nhan-su-chu-chot-cua-tinh-gia-lai-moi-post801769.html) - 04:02 30/06/2025
-- 🌜 [Danh sách chủ tịch UBND các tỉnh, thành mới](https://www.sggp.org.vn/danh-sach-chu-tich-ubnd-cac-tinh-thanh-moi-post801767.html) - 04:01 30/06/2025
-- 💻 [Công chứng vào guồng “số hóa”](https://www.sggp.org.vn/cong-chung-vao-guong-so-hoa-post801747.html) - 03:50 30/06/2025
-- 👍 [Sôi nổi các hoạt động Ngày hội Gia đình tại Công ty Nhiệt điện Vĩnh Tân](https://www.sggp.org.vn/soi-noi-cac-hoat-dong-ngay-hoi-gia-dinh-tai-cong-ty-nhiet-dien-vinh-tan-post801756.html) - 03:49 30/06/2025
-- 🦆 [Danh sách trưởng đoàn, phó trưởng đoàn phụ trách 34 đoàn đại biểu Quốc hội](https://www.sggp.org.vn/danh-sach-truong-doan-pho-truong-doan-phu-trach-34-doan-dai-bieu-quoc-hoi-post801759.html) - 03:49 30/06/2025
-- 🦩 [Masterise Homes ghi dấu ấn vị thế tại diễn đàn Branded Residences Forum Asia 2025](https://www.sggp.org.vn/masterise-homes-ghi-dau-an-vi-the-tai-dien-dan-branded-residences-forum-asia-2025-post801741.html) - 03:42 30/06/2025
+- 🪜 [Triển lãm về Văn Miếu - Quốc Tử Giám](https://www.sggp.org.vn/trien-lam-ve-van-mieu-quoc-tu-giam-post801800.html) - 07:51 30/06/2025
+- 🌝 [Đồng chí Võ Văn Dũng làm Chủ nhiệm Ủy ban Kiểm tra Thành ủy TPHCM nhiệm kỳ 2020-2025](https://www.sggp.org.vn/dong-chi-vo-van-dung-lam-chu-nhiem-uy-ban-kiem-tra-thanh-uy-tphcm-nhiem-ky-2020-2025-post801799.html) - 07:48 30/06/2025
+- 💃 [Danh sách Ban Thường vụ Thành ủy TPHCM nhiệm kỳ 2020–2025](https://www.sggp.org.vn/danh-sach-ban-thuong-vu-thanh-uy-tphcm-nhiem-ky-20202025-post801795.html) - 07:23 30/06/2025
+- 🧑‍💻 [Bí thư Thành ủy TPHCM Nguyễn Văn Nên nêu những việc cần làm ngay](https://www.sggp.org.vn/bi-thu-thanh-uy-tphcm-nguyen-van-nen-neu-nhung-viec-can-lam-ngay-post801793.html) - 07:22 30/06/2025
+- 🌊 [Tỉnh Tây Ninh mới có đường biên giới dài nhất với Campuchia](https://www.sggp.org.vn/tinh-tay-ninh-moi-co-duong-bien-gioi-dai-nhat-voi-campuchia-post801780.html) - 07:22 30/06/2025
+- 🧑‍💻 [Phấn khởi lễ công bố thành lập các phường mới tại TPHCM](https://www.sggp.org.vn/phan-khoi-le-cong-bo-thanh-lap-cac-phuong-moi-tai-tphcm-post801787.html) - 07:16 30/06/2025
+- ⛽️ [Công bố quyết định của Trung ương về sáp nhập các tỉnh ở miền Trung](https://www.sggp.org.vn/cong-bo-quyet-dinh-cua-trung-uong-ve-sap-nhap-cac-tinh-o-mien-trung-post801743.html) - 07:05 30/06/2025
+- 😎 [Đội tuyển U20 nữ Việt Nam chuẩn bị tham dự giải châu Á 2026](https://www.sggp.org.vn/doi-tuyen-u20-nu-viet-nam-chuan-bi-tham-du-giai-chau-a-2026-post801798.html) - 07:05 30/06/2025
+- 🌜 [Công bố quyết định thành lập Ủy ban MTTQ Việt Nam TPHCM](https://www.sggp.org.vn/cong-bo-quyet-dinh-thanh-lap-uy-ban-mttq-viet-nam-tphcm-post801797.html) - 06:56 30/06/2025
+- 💻 [Đồng chí Ngô Chí Cường làm Bí thư Tỉnh ủy Vĩnh Long mới](https://www.sggp.org.vn/dong-chi-ngo-chi-cuong-lam-bi-thu-tinh-uy-vinh-long-moi-post801791.html) - 06:55 30/06/2025
+- 👍 [Cúp Becamex Group: Nơi người lao động được tôn vinh qua bóng đá](https://www.sggp.org.vn/cup-becamex-group-noi-nguoi-lao-dong-duoc-ton-vinh-qua-bong-da-post801660.html) - 06:48 30/06/2025
+- 🦆 [Các đội bóng chuyền Thái Bình, Vĩnh Long, Trà Vinh ổn định tinh thần tập luyện](https://www.sggp.org.vn/cac-doi-bong-chuyen-thai-binh-vinh-long-tra-vinh-on-dinh-tinh-than-tap-luyen-post801515.html) - 06:44 30/06/2025
+- 🦩 [Hành trình 35 năm kiến tạo hệ sinh thái hàng Việt](https://www.sggp.org.vn/hanh-trinh-35-nam-kien-tao-he-sinh-thai-hang-viet-post801773.html) - 06:33 30/06/2025
+- 🥰 [Hành trình trở về từ những mảng màu ký ức của Nguyễn Như Đức](https://www.sggp.org.vn/hanh-trinh-tro-ve-tu-nhung-mang-mau-ky-uc-cua-nguyen-nhu-duc-post801782.html) - 06:32 30/06/2025
+- 🎬 [Xếp hàng xuyên đêm chờ nộp hồ sơ mua nhà ở xã hội tại Đà Nẵng](https://www.sggp.org.vn/xep-hang-xuyen-dem-cho-nop-ho-so-mua-nha-o-xa-hoi-tai-da-nang-post801771.html) - 06:32 30/06/2025
+- 🦩 [Ông Trần Văn Lâu giữ chức Chủ tịch UBND TP Cần Thơ mới](https://www.sggp.org.vn/ong-tran-van-lau-giu-chuc-chu-tich-ubnd-tp-can-tho-moi-post801755.html) - 06:32 30/06/2025
+- 🌮 [Guardiola vẫn bảo vệ FIFA Club World Cup](https://www.sggp.org.vn/guardiola-van-bao-ve-fifa-club-world-cup-post801796.html) - 06:31 30/06/2025
+- 👍 [Quảng Ninh: Công bố 52 đơn vị hành chính xã, phường và 2 đặc khu](https://www.sggp.org.vn/quang-ninh-cong-bo-52-don-vi-hanh-chinh-xa-phuong-va-2-dac-khu-post801778.html) - 06:28 30/06/2025
+- 🦒 [Quả bóng vàng futsal Việt Nam tham dự khóa học HLV futsal](https://www.sggp.org.vn/qua-bong-vang-futsal-viet-nam-tham-du-khoa-hoc-hlv-futsal-post801794.html) - 06:24 30/06/2025
+- 🤡 [Tổng Bí thư Tô Lâm: TPHCM mới vươn xa, vươn cao](https://www.sggp.org.vn/tong-bi-thu-to-lam-tphcm-moi-vuon-xa-vuon-cao-post801786.html) - 06:00 30/06/2025
+- 🐎 [Bản tin trưa 30-6: Công bố thành lập TPHCM mới; Thái Nguyên: Đường phố thành… sông](https://www.sggp.org.vn/ban-tin-trua-30-6-cong-bo-thanh-lap-tphcm-moi-thai-nguyen-duong-pho-thanh-song-post801788.html) - 06:00 30/06/2025
+- 🦆 [Podcast bản tin trưa 30-6: Bắc bộ mưa lớn diện rộng, cảnh báo gió giật mạnh trên biển](https://www.sggp.org.vn/podcast-ban-tin-trua-30-6-bac-bo-mua-lon-dien-rong-canh-bao-gio-giat-manh-tren-bien-post801789.html) - 05:49 30/06/2025
+- 🦅 [Cam kết hành động vì lợi ích người dân](https://www.sggp.org.vn/cam-ket-hanh-dong-vi-loi-ich-nguoi-dan-post801784.html) - 05:45 30/06/2025
+- 🫣 [Kình ngư Trần Hưng Nguyên lỡ hẹn với giải vô địch thế giới 2025](https://www.sggp.org.vn/kinh-ngu-tran-hung-nguyen-lo-hen-voi-giai-vo-dich-the-gioi-2025-post801764.html) - 05:39 30/06/2025
+- 🎭 [Một chuyến bay đi Cam Ranh phải hạ cánh khẩn cấp xuống Đà Nẵng](https://www.sggp.org.vn/mot-chuyen-bay-di-cam-ranh-phai-ha-canh-khan-cap-xuong-da-nang-post801781.html) - 05:32 30/06/2025
+- 🫶 [Vùng đất rừng ngập mặn Cần Giờ sẵn sàng tâm thế bước vào giai đoạn mới](https://www.sggp.org.vn/vung-dat-rung-ngap-man-can-gio-san-sang-tam-the-buoc-vao-giai-doan-moi-post801774.html) - 05:31 30/06/2025
+- 🎓 [Công bố các lãnh đạo, nhân sự chủ chốt của tỉnh Khánh Hòa mới](https://www.sggp.org.vn/cong-bo-cac-lanh-dao-nhan-su-chu-chot-cua-tinh-khanh-hoa-moi-post801752.html) - 05:25 30/06/2025
+- 🤡 [Công bố các quyết định nhân sự tỉnh Đắk Lắk mới](https://www.sggp.org.vn/cong-bo-cac-quyet-dinh-nhan-su-tinh-dak-lak-moi-post801777.html) - 05:24 30/06/2025
+- 🦅 [Đồng chí Nguyễn Hồ Hải làm Bí thư Tỉnh ủy Cà Mau mới](https://www.sggp.org.vn/dong-chi-nguyen-ho-hai-lam-bi-thu-tinh-uy-ca-mau-moi-post801785.html) - 05:24 30/06/2025
+- 🧑‍🏫 [Phạt nữ tài xế chạy ngược chiều trên đường cao tốc Liên Khương - Prenn](https://www.sggp.org.vn/phat-nu-tai-xe-chay-nguoc-chieu-tren-duong-cao-toc-lien-khuong-prenn-post801779.html) - 05:24 30/06/2025
+- 🕴 [An Giang hình thành 3 đặc khu hành chính sau hợp nhất](https://www.sggp.org.vn/an-giang-hinh-thanh-3-dac-khu-hanh-chinh-sau-hop-nhat-post801783.html) - 05:24 30/06/2025
+- 🦆 [Hưng Yên hướng đến trở thành cực tăng trưởng mới của Vùng Thủ đô](https://www.sggp.org.vn/hung-yen-huong-den-tro-thanh-cuc-tang-truong-moi-cua-vung-thu-do-post801776.html) - 05:11 30/06/2025
+- 🎃 [“El Matador” Ilia Topuria: Nhà vô địch hạng cân nhẹ thứ 13 của UFC](https://www.sggp.org.vn/el-matador-ilia-topuria-nha-vo-dich-hang-can-nhe-thu-13-cua-ufc-post801748.html) - 04:57 30/06/2025
+- 🌮 [Phú Thọ đứng trước cơ hội trở thành cực tăng trưởng của vùng trung du Bắc bộ](https://www.sggp.org.vn/phu-tho-dung-truoc-co-hoi-tro-thanh-cuc-tang-truong-cua-vung-trung-du-bac-bo-post801772.html) - 04:56 30/06/2025
+- 🥰 [Danh sách phó chủ tịch UBND các tỉnh, thành sau hợp nhất](https://www.sggp.org.vn/danh-sach-pho-chu-tich-ubnd-cac-tinh-thanh-sau-hop-nhat-post801768.html) - 04:31 30/06/2025
+- 🕯 [TP Cần Thơ &lpar;mới&rpar; phải định vị rõ vai trò trung tâm kinh tế, dẫn dắt ĐBSCL phát triển](https://www.sggp.org.vn/tp-can-tho-moi-phai-dinh-vi-ro-vai-tro-trung-tam-kinh-te-dan-dat-dbscl-phat-trien-post801758.html) - 04:29 30/06/2025
+- 🙉 [Chủ tịch nước Lương Cường dự Lễ công bố nghị quyết, quyết định tại Hà Nội](https://www.sggp.org.vn/chu-tich-nuoc-luong-cuong-du-le-cong-bo-nghi-quyet-quyet-dinh-tai-ha-noi-post801761.html) - 04:17 30/06/2025
+- 💡 [Thư cảm ơn](https://www.sggp.org.vn/thu-cam-on-post801766.html) - 04:12 30/06/2025
+- 💫 [Danh sách bí thư 34 tỉnh ủy, thành ủy](https://www.sggp.org.vn/danh-sach-bi-thu-34-tinh-uy-thanh-uy-post801770.html) - 04:09 30/06/2025
+- 🧑‍💻 [Công bố các lãnh đạo, nhân sự chủ chốt của tỉnh Gia Lai mới](https://www.sggp.org.vn/cong-bo-cac-lanh-dao-nhan-su-chu-chot-cua-tinh-gia-lai-moi-post801769.html) - 04:02 30/06/2025
+- 🎊 [Danh sách chủ tịch UBND các tỉnh, thành mới](https://www.sggp.org.vn/danh-sach-chu-tich-ubnd-cac-tinh-thanh-moi-post801767.html) - 04:01 30/06/2025
+- 🤖 [Công chứng vào guồng “số hóa”](https://www.sggp.org.vn/cong-chung-vao-guong-so-hoa-post801747.html) - 03:50 30/06/2025
+- 💫 [Sôi nổi các hoạt động Ngày hội Gia đình tại Công ty Nhiệt điện Vĩnh Tân](https://www.sggp.org.vn/soi-noi-cac-hoat-dong-ngay-hoi-gia-dinh-tai-cong-ty-nhiet-dien-vinh-tan-post801756.html) - 03:49 30/06/2025
+- 👨‍🏫 [Danh sách trưởng đoàn, phó trưởng đoàn phụ trách 34 đoàn đại biểu Quốc hội](https://www.sggp.org.vn/danh-sach-truong-doan-pho-truong-doan-phu-trach-34-doan-dai-bieu-quoc-hoi-post801759.html) - 03:49 30/06/2025
+- 🧰 [Masterise Homes ghi dấu ấn vị thế tại diễn đàn Branded Residences Forum Asia 2025](https://www.sggp.org.vn/masterise-homes-ghi-dau-an-vi-the-tai-dien-dan-branded-residences-forum-asia-2025-post801741.html) - 03:42 30/06/2025
 - 🥰 [Công bố 168 Bí thư phường, xã, đặc khu của TPHCM](https://www.sggp.org.vn/cong-bo-168-bi-thu-phuong-xa-dac-khu-cua-tphcm-post801753.html) - 03:25 30/06/2025
-- 🎬 [Chỉ định Chủ tịch, các Phó Chủ tịch HĐND TPHCM mới](https://www.sggp.org.vn/chi-dinh-chu-tich-cac-pho-chu-tich-hdnd-tphcm-moi-post801757.html) - 03:25 30/06/2025
-- 🦩 [Thủ tướng Phạm Minh Chính dự Lễ công bố nghị quyết, quyết định của Trung ương tại TP Hải Phòng](https://www.sggp.org.vn/thu-tuong-pham-minh-chinh-du-le-cong-bo-nghi-quyet-quyet-dinh-cua-trung-uong-tai-tp-hai-phong-post801751.html) - 03:08 30/06/2025
-- 🌮 [Thành lập tỉnh Lâm Đồng mới có diện tích lớn nhất cả nước](https://www.sggp.org.vn/thanh-lap-tinh-lam-dong-moi-co-dien-tich-lon-nhat-ca-nuoc-post801750.html) - 03:02 30/06/2025
-- 👍 [Công bố các quyết định nhân sự tỉnh Đồng Nai mới](https://www.sggp.org.vn/cong-bo-cac-quyet-dinh-nhan-su-tinh-dong-nai-moi-post801754.html) - 03:02 30/06/2025
-- 🦒 [Thủ tướng chỉ định Chủ tịch và 6 Phó Chủ tịch UBND TPHCM mới](https://www.sggp.org.vn/thu-tuong-chi-dinh-chu-tich-va-6-pho-chu-tich-ubnd-tphcm-moi-post801749.html) - 02:41 30/06/2025
-- 🤡 [Chỉ định đồng chí Nguyễn Văn Nên giữ chức Bí thư Thành ủy TPHCM mới](https://www.sggp.org.vn/chi-dinh-dong-chi-nguyen-van-nen-giu-chuc-bi-thu-thanh-uy-tphcm-moi-post801746.html) - 02:33 30/06/2025
-- 🐎 [107 đồng chí Ban Chấp hành Đảng bộ TPHCM nhiệm kỳ 2020-2025](https://www.sggp.org.vn/107-dong-chi-ban-chap-hanh-dang-bo-tphcm-nhiem-ky-2020-2025-post801745.html) - 02:10 30/06/2025
-- 🦆 [Thành lập TPHCM mới](https://www.sggp.org.vn/thanh-lap-tphcm-moi-post801737.html) - 02:01 30/06/2025
-- 🦅 [Bộ Chính trị chỉ định Ban Thường vụ Đảng bộ TPHCM &lpar;mới&rpar;, nhiệm kỳ 2020-2025](https://www.sggp.org.vn/bo-chinh-tri-chi-dinh-ban-thuong-vu-dang-bo-tphcm-moi-nhiem-ky-2020-2025-post801696.html) - 02:01 30/06/2025
-- 🫣 [Người dân TPHCM kỳ vọng: Bộ máy mới hoạt động hiệu quả, phục vụ người dân thật tốt](https://www.sggp.org.vn/nguoi-dan-tphcm-ky-vong-bo-may-moi-hoat-dong-hieu-qua-phuc-vu-nguoi-dan-that-tot-post801740.html) - 01:59 30/06/2025
-- 🎭 [Thí sinh bất an khi sử dụng tổ hợp có môn Toán, Tiếng Anh để xét tuyển đại học](https://www.sggp.org.vn/thi-sinh-bat-an-khi-su-dung-to-hop-co-mon-toan-tieng-anh-de-xet-tuyen-dai-hoc-post801744.html) - 01:43 30/06/2025
-- 🫶 [Trưa nay 30-6, thông xe nhánh hầm HC1-01 nút giao An Phú](https://www.sggp.org.vn/trua-nay-30-6-thong-xe-nhanh-ham-hc1-01-nut-giao-an-phu-post801733.html) - 01:31 30/06/2025
-- 🎓 [Thái Nguyên: Đường phố thành… sông](https://www.sggp.org.vn/thai-nguyen-duong-pho-thanh-song-post801730.html) - 01:19 30/06/2025
-- 🤡 [Tổng Bí thư Tô Lâm dự Lễ công bố thành lập TPHCM mới](https://www.sggp.org.vn/tong-bi-thu-to-lam-du-le-cong-bo-thanh-lap-tphcm-moi-post801735.html) - 01:19 30/06/2025
-- 🦅 [Inter Miami đã hoàn thành nhiệm vụ và không hối tiếc](https://www.sggp.org.vn/inter-miami-da-hoan-thanh-nhiem-vu-va-khong-hoi-tiec-post801738.html) - 01:18 30/06/2025
-- 🧑‍🏫 [Lễ công bố các nghị quyết, quyết định thành lập TPHCM, Đảng bộ và chỉ định nhân sự lãnh đạo TPHCM](https://www.sggp.org.vn/le-cong-bo-cac-nghi-quyet-quyet-dinh-thanh-lap-tphcm-dang-bo-va-chi-dinh-nhan-su-lanh-dao-tphcm-post801736.html) - 01:15 30/06/2025
-- 🕴 [Căng thẳng vẫn âm ỉ tại Trung Đông](https://www.sggp.org.vn/cang-thang-van-am-i-tai-trung-dong-post801734.html) - 01:14 30/06/2025
-- 🦆 [Không để gián đoạn thủ tục hành chính](https://www.sggp.org.vn/khong-de-gian-doan-thu-tuc-hanh-chinh-post801732.html) - 00:38 30/06/2025
-- 🎃 [CÔNG TY LIÊN DOANH BÔNG SEN](https://www.sggp.org.vn/cong-ty-lien-doanh-bong-sen-post801399.html) - 00:30 30/06/2025
-- 🌮 [PSG hùng mạnh sẵn sàng hoàn thành mùa giải lịch sử](https://www.sggp.org.vn/psg-hung-manh-san-sang-hoan-thanh-mua-giai-lich-su-post801731.html) - 00:27 30/06/2025
-- 🥰 [FIFA Club World Cup: Harry Kane tỏa sáng đưa Bayern Munich vào tứ kết](https://www.sggp.org.vn/fifa-club-world-cup-harry-kane-toa-sang-dua-bayern-munich-vao-tu-ket-post801728.html) - 23:36 29/06/2025
-- 🕯 [Cơn sốt Messi biến Miami thành thành phố bóng đá của Mỹ](https://www.sggp.org.vn/con-sot-messi-bien-miami-thanh-thanh-pho-bong-da-cua-my-post801692.html) - 23:36 29/06/2025
-- 🙉 [Ronaldo xác nhận từ chối tham dự Club World Cup để tập trung hồi phục](https://www.sggp.org.vn/ronaldo-xac-nhan-tu-choi-tham-du-club-world-cup-de-tap-trung-hoi-phuc-post801726.html) - 23:33 29/06/2025
-- 💡 [Báo Sài Gòn Giải Phóng ngày 30/6/2025](https://www.sggp.org.vn/bao-sai-gon-giai-phong-ngay-3062025-post801723.html) - 23:32 29/06/2025
-- 💫 [FIFA Club World Cup: PSG thắng đậm Inter Miami trong ngày tái ngộ Messi](https://www.sggp.org.vn/fifa-club-world-cup-psg-thang-dam-inter-miami-trong-ngay-tai-ngo-messi-post801727.html) - 23:32 29/06/2025
-- 🧑‍💻 [Chelsea tăng cường tiền đạo Joao Pedro cho FIFA Club World Cup](https://www.sggp.org.vn/chelsea-tang-cuong-tien-dao-joao-pedro-cho-fifa-club-world-cup-post801725.html) - 23:32 29/06/2025
-- 🎊 [Vận hành thử nghiệm chính quyền địa phương 2 cấp: Cuộc “tổng duyệt” cho sự phát triển mới](https://www.sggp.org.vn/van-hanh-thu-nghiem-chinh-quyen-dia-phuong-2-cap-cuoc-tong-duyet-cho-su-phat-trien-moi-post801724.html) - 23:31 29/06/2025
-- 🤖 [Kỳ vọng về một siêu đô thị đáng sống](https://www.sggp.org.vn/ky-vong-ve-mot-sieu-do-thi-dang-song-post801722.html) - 23:31 29/06/2025
-- 💫 [Tài năng trẻ Hoàng Thị Ngọc Anh khát khao được tham dự SEA Games 33](https://www.sggp.org.vn/tai-nang-tre-hoang-thi-ngoc-anh-khat-khao-duoc-tham-du-sea-games-33-post801529.html) - 23:28 29/06/2025
-- 👨‍🏫 [Thành phố Hồ Chí Minh - Thành phố đáng sống, vươn mình trong kỷ nguyên mới](https://www.sggp.org.vn/thanh-pho-ho-chi-minh-thanh-pho-dang-song-vuon-minh-trong-ky-nguyen-moi-post801658.html) - 23:10 29/06/2025
-- 🧰 [Tâm thế mới cho nhiệm vụ mới](https://www.sggp.org.vn/tam-the-moi-cho-nhiem-vu-moi-post801721.html) - 23:04 29/06/2025
-- 🥰 [8 giờ sáng nay 30-6: Đồng loạt TPHCM và cả nước công bố Nghị quyết, Quyết định về sáp nhập đơn vị hành chính cấp tỉnh, cấp xã](https://www.sggp.org.vn/8-gio-sang-nay-30-6-dong-loat-tphcm-va-ca-nuoc-cong-bo-nghi-quyet-quyet-dinh-ve-sap-nhap-don-vi-hanh-chinh-cap-tinh-cap-xa-post801720.html) - 23:03 29/06/2025
-- 💼 [HLV Mai Đức Chung khen ngợi Ngọc Minh Chuyên sau trận thắng Maldives](https://www.sggp.org.vn/hlv-mai-duc-chung-khen-ngoi-ngoc-minh-chuyen-sau-tran-thang-maldives-post801716.html) - 22:53 29/06/2025
-- 🤗 [Giải Teqball vô địch TPHCM làm tiền đề cho SEA Games 33](https://www.sggp.org.vn/giai-teqball-vo-dich-tphcm-lam-tien-de-cho-sea-games-33-post801708.html) - 22:52 29/06/2025
-- 🦩 [Bộ máy chính quyền cấp xã ở TPHCM: Sẵn sàng trước giờ G](https://www.sggp.org.vn/bo-may-chinh-quyen-cap-xa-o-tphcm-san-sang-truoc-gio-g-post801719.html) - 22:51 29/06/2025
-- 🫶 [Đồng thuận hướng đến phát triển phồn vinh](https://www.sggp.org.vn/dong-thuan-huong-den-phat-trien-phon-vinh-post801718.html) - 22:46 29/06/2025<!-- sggp:END -->
+- 💼 [Chỉ định Chủ tịch, các Phó Chủ tịch HĐND TPHCM mới](https://www.sggp.org.vn/chi-dinh-chu-tich-cac-pho-chu-tich-hdnd-tphcm-moi-post801757.html) - 03:25 30/06/2025
+- 🤗 [Thủ tướng Phạm Minh Chính dự Lễ công bố nghị quyết, quyết định của Trung ương tại TP Hải Phòng](https://www.sggp.org.vn/thu-tuong-pham-minh-chinh-du-le-cong-bo-nghi-quyet-quyet-dinh-cua-trung-uong-tai-tp-hai-phong-post801751.html) - 03:08 30/06/2025
+- 🦩 [Thành lập tỉnh Lâm Đồng mới có diện tích lớn nhất cả nước](https://www.sggp.org.vn/thanh-lap-tinh-lam-dong-moi-co-dien-tich-lon-nhat-ca-nuoc-post801750.html) - 03:02 30/06/2025
+- 🫶 [Công bố các quyết định nhân sự tỉnh Đồng Nai mới](https://www.sggp.org.vn/cong-bo-cac-quyet-dinh-nhan-su-tinh-dong-nai-moi-post801754.html) - 03:02 30/06/2025<!-- sggp:END -->
 
 ## Báo VTC
 <!-- vtc:START -->
