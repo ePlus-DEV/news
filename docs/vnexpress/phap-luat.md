@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Cướp dây chuyền của bé gái đang đi bộ](https://vnexpress.net/cuop-giat-o-lam-dong-4908912.html) - 13:17 01/07/2025
+- 😎 [Cướp dây chuyền của bé gái đang đi bộ](https://vnexpress.net/cuop-day-chuyen-cua-be-gai-dang-di-bo-4908912.html) - 13:17 01/07/2025
 - 🥰 [Giám đốc Trung tâm Pháp y tâm thần miền núi phía Bắc bị bắt](https://vnexpress.net/giam-doc-trung-tam-phap-y-tam-than-mien-nui-phia-bac-bi-bat-4908844.html) - 10:11 01/07/2025
 - 🎓 [Bộ Công an quản lý quỹ nghìn tỷ phát triển dữ liệu quốc gia](https://vnexpress.net/bo-cong-an-quan-ly-quy-nghin-ty-phat-trien-du-lieu-quoc-gia-4908788.html) - 09:39 01/07/2025
 - 🤓 [Hai cựu công an dùng ôtô biển xanh chở ma túy bị đề nghị tử hình](https://vnexpress.net/hai-cuu-cong-an-dung-oto-bien-xanh-cho-ma-tuy-bi-de-nghi-tu-hinh-4908723.html) - 09:13 01/07/2025
