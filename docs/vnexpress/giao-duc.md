@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Giáo viên thấy đề tiếng Anh thi tốt nghiệp THPT khó thế nào?](https://vnexpress.net/giao-vien-thay-de-tieng-anh-thi-tot-nghiep-thpt-kho-the-nao-4908014.html) - 14:11 01/07/2025
+- 🤓 [Đề Tiếng Anh thi tốt nghiệp &#39;vượt chuẩn&#39;](https://vnexpress.net/de-tieng-anh-thi-tot-nghiep-vuot-chuan-4908014.html) - 14:11 01/07/2025
 - 🦆 [Ba tỉnh nào rộng nhất Việt Nam sau sáp nhập?](https://vnexpress.net/ba-tinh-nao-rong-nhat-viet-nam-sau-sap-nhap-4908874.html) - 12:00 01/07/2025
 - 🦩 [Hà Nội dự kiến công bố điểm chuẩn lớp 10 ngày 4/7](https://vnexpress.net/ha-noi-du-kien-cong-bo-diem-chuan-lop-10-ngay-4-7-4908744.html) - 08:02 01/07/2025
 - 🌮 [Sinh viên U40 tốt nghiệp thủ khoa ngành An ninh mạng tại FPT Jetking](https://vnexpress.net/sinh-vien-u40-tot-nghiep-thu-khoa-nganh-an-ninh-mang-tai-fpt-jetking-4908666.html) - 07:00 01/07/2025
