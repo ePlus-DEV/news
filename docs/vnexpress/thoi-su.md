@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Tương lai ‘siêu đô thị’ TP HCM sau sáp nhập](https://vnexpress.net/tuong-lai-sieu-do-thi-tp-hcm-sau-sap-nhap-4906730.html) - 23:00 30/06/2025
+- 🦒 [Tương lai &#39;siêu đô thị&#39; TP HCM sau sáp nhập](https://vnexpress.net/tuong-lai-sieu-do-thi-tp-hcm-sau-sap-nhap-4906730.html) - 23:00 30/06/2025
 - 🤓 [Thiết kế công viên bờ sông và quảng trường Thủ Thiêm](https://vnexpress.net/thiet-ke-cong-vien-bo-song-va-quang-truong-thu-thiem-4907823.html) - 22:00 30/06/2025
 - ⚗️ [Pháo hoa rực sáng mừng ngày &#39;sắp xếp lại giang sơn&#39;](https://vnexpress.net/phao-hoa-ruc-sang-mung-ngay-sap-xep-lai-giang-son-4908425.html) - 17:31 30/06/2025
 - 🌊 [Metro Bến Thành - Suối Tiên tăng tần suất chạy tàu](https://vnexpress.net/metro-ben-thanh-suoi-tien-tang-tan-suat-chay-tau-4908430.html) - 17:00 30/06/2025
