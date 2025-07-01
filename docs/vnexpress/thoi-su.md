@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [TP HCM chỉ định 14 lãnh đạo sở, ngành sau sáp nhập](https://vnexpress.net/tp-hcm-chi-dinh-14-lanh-dao-so-nganh-sau-sap-nhap-4908821.html) - 09:37 01/07/2025
+- 🦒 [TP HCM bổ nhiệm 14 lãnh đạo sở, ngành sau sáp nhập](https://vnexpress.net/tp-hcm-bo-nhiem-14-lanh-dao-so-nganh-sau-sap-nhap-4908821.html) - 09:37 01/07/2025
 - 🤓 [Phó chủ tịch Bắc Ninh livestream bán 54 tấn vải trong 6 giờ](https://vnexpress.net/pho-chu-tich-bac-ninh-livestream-ban-54-tan-vai-trong-6-gio-4908525.html) - 05:48 01/07/2025
 - ⚗️ [Xe tải lật trên đường dẫn cao tốc, hai người tử vong](https://vnexpress.net/xe-tai-lat-tren-duong-dan-cao-toc-hai-nguoi-tu-vong-4908664.html) - 05:28 01/07/2025
 - 🌊 [Ngày đầu đưa đón công chức đi làm sau sáp nhập tỉnh, thành](https://vnexpress.net/ngay-dau-dua-don-cong-chuc-di-lam-sau-sap-nhap-tinh-thanh-4908517.html) - 04:20 01/07/2025
