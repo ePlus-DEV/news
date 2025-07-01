@@ -589,7 +589,7 @@ Sân chơi cho sinh viên mê livestream bán hàng](https://nld.com.vn/khoi-don
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [FIFA Club World Cup Real Madrid vs Juventus 1-0 &lpar;H2&rpar;: Real Madrid mở tỷ số](https://tienphong.vn/fifa-club-world-cup-real-madrid-vs-juventus-1-0-h2-real-madrid-mo-ty-so-post1756603.tpo) - 00:08 02/07/2025
+- 💼 [Real Madrid loại Juventus khỏi FIFA Club World Cup 2025](https://tienphong.vn/real-madrid-loai-juventus-khoi-fifa-club-world-cup-2025-post1756603.tpo) - 00:08 02/07/2025
 - 🎊 [Nữ diễn viên đột ngột qua đời ở tuổi 43](https://tienphong.vn/nu-dien-vien-dot-ngot-qua-doi-o-tuoi-43-post1756626.tpo) - 23:55 01/07/2025
 - 💼 [Phó Chủ tịch nước Võ Thị Ánh Xuân dự khai trương đường bay thẳng đầu tiên Việt Nam - Ý](https://tienphong.vn/pho-chu-tich-nuoc-vo-thi-anh-xuan-du-khai-truong-duong-bay-thang-dau-tien-viet-nam-y-post1756616.tpo) - 23:48 01/07/2025
 - 👺 [Hoa hậu Trúc Linh và 2 á hậu về nơi khai sinh ra cuộc thi Hoa hậu Việt Nam](https://tienphong.vn/hoa-hau-truc-linh-va-2-a-hau-ve-noi-khai-sinh-ra-cuoc-thi-hoa-hau-viet-nam-post1756608.tpo) - 23:06 01/07/2025
