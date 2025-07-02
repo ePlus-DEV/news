@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Những điểm du lịch ít người biết ở Đà Nẵng](https://vnexpress.net/nhung-diem-du-lich-it-nguoi-biet-o-da-nang-4909013.html) - 11:00 02/07/2025
+- 🪜 [5 cầu thủ Indonesia được đề cử đội hình tiêu biểu vòng loại World Cup](https://vnexpress.net/5-cau-thu-indonesia-duoc-de-cu-doi-hinh-tieu-bieu-vong-loai-world-cup-4909348.html) - 13:06 02/07/2025
 - 🦩 [Draper và điểm tựa từ đội ngũ hỗ trợ tại Wimbledon](https://vnexpress.net/draper-va-diem-tua-tu-doi-ngu-ho-tro-tai-wimbledon-4909324.html) - 10:55 02/07/2025
 - 🧰 [Carlsen, Gukesh dự siêu giải Grand Chess Tour](https://vnexpress.net/carlsen-gukesh-du-sieu-giai-grand-chess-tour-4909257.html) - 09:19 02/07/2025
 - 🤗 [Fritz bức xúc vì giờ giới nghiêm Wimbledon](https://vnexpress.net/fritz-buc-xuc-vi-gio-gioi-nghiem-wimbledon-4909252.html) - 08:38 02/07/2025
