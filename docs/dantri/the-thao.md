@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Bốc thăm chia cặp đấu giải pickleball &quot;Dân trí 20 năm - Rực rỡ ngày mới&quot;](https://dantri.com.vn/the-thao/boc-tham-chia-cap-dau-giai-pickleball-dan-tri-20-nam-ruc-ro-ngay-moi-20250702141715807.htm) - 07:17 02/07/2025
+- 🎡 [Kết quả bốc thăm giải pickleball &quot;Dân trí 20 năm - Rực rỡ ngày mới&quot;](https://dantri.com.vn/the-thao/ket-qua-boc-tham-giai-pickleball-dan-tri-20-nam-ruc-ro-ngay-moi-20250702141715807.htm) - 07:17 02/07/2025
 - 💯 [Quang Tri International Marathon 2025 công bố áo thi đấu và áo Finisher](https://dantri.com.vn/the-thao/quang-tri-international-marathon-2025-cong-bo-ao-thi-dau-va-ao-finisher-20250702115606575.htm) - 05:05 02/07/2025
 - ⛽️ [Xác định 4 cặp tứ kết FIFA Club World Cup](https://dantri.com.vn/the-thao/xac-dinh-4-cap-tu-ket-fifa-club-world-cup-20250702100204136.htm) - 03:02 02/07/2025
 - 💃 [Thể Công Viettel lên tiếng về việc Đức Chiến chia tay đội bóng](https://dantri.com.vn/the-thao/the-cong-viettel-len-tieng-ve-viec-duc-chien-chia-tay-doi-bong-20250702095023396.htm) - 02:54 02/07/2025
