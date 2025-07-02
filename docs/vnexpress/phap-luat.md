@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Kỳ án bộ đồ da người mắc trong chân vịt tàu](https://vnexpress.net/ky-an-bo-do-da-nguoi-mac-trong-chan-vit-tau-4908891.html) - 23:00 01/07/2025
 - 🥰 [Nợ thuế, xin &#39;trả dần&#39; như thế nào?](https://vnexpress.net/no-thue-xin-tra-dan-nhu-the-nao-4908651.html) - 23:00 01/07/2025
 - 🎓 [Bác sĩ hầu tòa vì xâm hại, quay phim 4 nữ bệnh nhân khi gây mê](https://vnexpress.net/bac-si-hau-toa-vi-xam-hai-quay-phim-4-nu-benh-nhan-khi-gay-me-4908932.html) - 17:00 01/07/2025
-- 🤓 [Danh sách giám đốc công an của 34 tỉnh, thành](https://vnexpress.net/danh-sach-giam-doc-cong-an-cua-34-tinh-thanh-4908619.html) - 17:00 01/07/2025
+- 🤓 [Danh sách giám đốc công an 34 tỉnh, thành](https://vnexpress.net/danh-sach-giam-doc-cong-an-34-tinh-thanh-4908619.html) - 17:00 01/07/2025
 - 🎊 [Cướp dây chuyền của bé gái đang đi bộ](https://vnexpress.net/cuop-day-chuyen-cua-be-gai-dang-di-bo-4908912.html) - 13:17 01/07/2025
 - 🙉 [Giám đốc Trung tâm Pháp y tâm thần miền núi phía Bắc bị bắt](https://vnexpress.net/giam-doc-trung-tam-phap-y-tam-than-mien-nui-phia-bac-bi-bat-4908844.html) - 10:11 01/07/2025
 - 🤡 [Bộ Công an quản lý quỹ nghìn tỷ phát triển dữ liệu quốc gia](https://vnexpress.net/bo-cong-an-quan-ly-quy-nghin-ty-phat-trien-du-lieu-quoc-gia-4908788.html) - 09:39 01/07/2025
