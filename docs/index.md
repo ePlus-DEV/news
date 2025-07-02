@@ -522,7 +522,7 @@ TP HCM](https://nld.com.vn/cong-bo-chu-tich-va-cac-pho-chu-tich-uy-ban-mttq-tp-h
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Trực tiếp vòng loại Asian Cup nữ 2026: Việt Nam - UAE](https://muctim.tuoitre.vn/truc-tiep-vong-loai-asian-cup-nu-2026-viet-nam-uae-101250702164851372.htm) - 11:18 02/07/2025
+- 🤔 [Việt Nam - UAE &lpar;hiệp 1&rpar; 1-0: Tuyển nữ Việt Nam sớm ghi bàn](https://muctim.tuoitre.vn/truc-tiep-vong-loai-asian-cup-nu-2026-viet-nam-uae-101250702164851372.htm) - 11:18 02/07/2025
 - 🥷 [Dở khóc dở cười với tình huống khó đỡ khi bắt trend Google Maps thăm nhà nhiều năm trước](https://muctim.tuoitre.vn/do-khoc-do-cuoi-voi-tinh-huong-kho-do-khi-bat-trend-google-maps-tham-nha-nhieu-nam-truoc-101250702161447262.htm) - 10:08 02/07/2025
 - 🤖 [Ngày mai 3-7, đóng cổng đăng ký nguyện vọng thử, thí sinh cần lưu ý điều gì?](https://muctim.tuoitre.vn/ngay-mai-3-7-dong-cong-dang-ky-nguyen-vong-thu-thi-sinh-can-luu-y-dieu-gi-101250702145917429.htm) - 08:20 02/07/2025
 - 🤓 [Dù debut đã 10 năm, Tzuyu &lpar;TWICE&rpar; vẫn khiến fan choáng ngợp vì nhan sắc](https://muctim.tuoitre.vn/du-debut-da-10-nam-tzuyu-twice-van-khien-fan-choang-ngop-vi-nhan-sac-101250702111500266.htm) - 07:14 02/07/2025
