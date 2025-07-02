@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Doanh nghiệp vận tải &#39;lao đao&#39; vì chậm phát hiện phạt nguội](https://vnexpress.net/doanh-nghiep-van-tai-lao-dao-vi-cham-phat-hien-phat-nguoi-4907680.html) - 23:00 01/07/2025
-- 🤓 [Sổ bảo hiểm điện tử tích hợp trên VNeID, cấp chậm nhất ngày 1/1/2026](https://vnexpress.net/so-bao-hiem-dien-tu-tich-hop-tren-vneid-cap-cham-nhat-ngay-1-1-2026-4908889.html) - 21:00 01/07/2025
+- 🤓 [Sổ bảo hiểm điện tử tích hợp trên VNeID](https://vnexpress.net/so-bao-hiem-dien-tu-tich-hop-tren-vneid-4908889.html) - 21:00 01/07/2025
 - ⚗️ [Bộ máy lãnh đạo TP Huế và 40 xã, phường sau sắp xếp](https://vnexpress.net/bo-may-lanh-dao-tp-hue-va-40-xa-phuong-sau-sap-xep-4908819.html) - 18:05 01/07/2025
 - 🌊 [Cá voi xuất hiện ở vùng biển Gia Lai, Đăk Lăk](https://vnexpress.net/ca-voi-xuat-hien-o-vung-bien-gia-lai-dak-lak-4908938.html) - 17:00 01/07/2025
 - 🎓 [Bộ máy lãnh đạo TP Cần Thơ sau sáp nhập Hậu Giang, Sóc Trăng](https://vnexpress.net/bo-may-lanh-dao-tp-can-tho-sau-sap-nhap-hau-giang-soc-trang-4908914.html) - 17:00 01/07/2025
