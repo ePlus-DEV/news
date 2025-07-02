@@ -61,5 +61,4 @@ sidebar_position: 9
 - ⛽️ [Ông Trump nói con dâu là ứng viên sáng giá cho ghế Thượng viện](https://vnexpress.net/ong-trump-noi-con-dau-la-ung-vien-sang-gia-cho-ghe-thuong-vien-4909206.html) - 12:03 02/07/2025
 - 🚀 [Nhà hàng fine dining ở nơi xa xôi bậc nhất hành tinh](https://vnexpress.net/nha-hang-fine-dining-o-noi-xa-xoi-bac-nhat-hanh-tinh-4909254.html) - 12:00 02/07/2025
 - 🌜 [Sốc phản vệ sau uống thuốc chữa đau xương khớp](https://vnexpress.net/soc-phan-ve-sau-uong-thuoc-chua-dau-xuong-khop-4909219.html) - 12:00 02/07/2025
-- 🌜 [Tuyết sa mạc vô hiệu hóa kính viễn vọng mạnh nhất thế giới](https://vnexpress.net/tuyet-sa-mac-vo-hieu-hoa-kinh-vien-vong-manh-nhat-the-gioi-4908965.html) - 12:00 02/07/2025
-- 🦩 [Bệnh viện Tâm Anh có thêm máy CT chụp siêu nhanh toàn thân](https://vnexpress.net/benh-vien-tam-anh-co-them-may-ct-chup-sieu-nhanh-toan-than-4909334.html) - 12:00 02/07/2025<!-- vnexpress-tin-moi-nhat:END -->
+- 🌜 [Tuyết sa mạc vô hiệu hóa kính viễn vọng mạnh nhất thế giới](https://vnexpress.net/tuyet-sa-mac-vo-hieu-hoa-kinh-vien-vong-manh-nhat-the-gioi-4908965.html) - 12:00 02/07/2025<!-- vnexpress-tin-moi-nhat:END -->
