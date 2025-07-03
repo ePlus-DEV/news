@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Đạo diễn Na Tra 2 thoát nghèo thành triệu phú](https://vnexpress.net/dao-dien-na-tra-2-thoat-ngheo-thanh-trieu-phu-4909031.html) - 17:00 02/07/2025
+- 🌏 [Đạo diễn &#39;Na Tra 2&#39; thoát nghèo thành triệu phú](https://vnexpress.net/dao-dien-na-tra-2-thoat-ngheo-thanh-trieu-phu-4909031.html) - 17:00 02/07/2025
 - 💫 [Nhà nghỉ dưỡng trên đất 10.000 m2 của Hoàng Mập](https://vnexpress.net/nha-nghi-duong-tren-dat-10-000-m2-cua-hoang-map-4909177.html) - 15:00 02/07/2025
 - 🌮 [Vera Wang diện đồ tôn eo 58 cm](https://vnexpress.net/vera-wang-dien-do-ton-eo-58-cm-4909280.html) - 13:30 02/07/2025
 - 🧠 [Rạp Việt vượt 3.000 tỷ đồng nửa đầu năm](https://vnexpress.net/rap-viet-vuot-3-000-ty-dong-nua-dau-nam-4908621.html) - 10:12 02/07/2025
