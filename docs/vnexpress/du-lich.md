@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Khách nước ngoài bị tài xế chặt chém 1,5 triệu đồng cho 300 m](https://vnexpress.net/khach-nuoc-ngoai-bi-tai-xe-chat-chem-1-5-trieu-dong-cho-300-m-4908789.html) - 06:21 03/07/2025
+- 💂 [Khách nước ngoài bị tài xế taxi chặt chém ở Hà Nội](https://vnexpress.net/khach-nuoc-ngoai-bi-tai-xe-taxi-chat-chem-o-ha-noi-4908789.html) - 06:21 03/07/2025
 - 🪄 [&#39;Săn&#39; ảnh cá voi săn mồi ở Đề Gi](https://vnexpress.net/san-anh-ca-voi-san-moi-o-de-gi-4909584.html) - 05:18 03/07/2025
 - 🦅 [Tăng khách hủy bay đến Nhật trước ngày tiên đoán thảm họa từ truyện tranh](https://vnexpress.net/tang-khach-huy-bay-den-nhat-truoc-ngay-tien-doan-tham-hoa-tu-truyen-tranh-4909433.html) - 02:48 03/07/2025
 - 🕴 [Hái và thưởng thức vải tại vườn ở Lục Ngạn](https://vnexpress.net/hai-va-thuong-thuc-vai-tai-vuon-o-luc-ngan-4908603.html) - 00:36 03/07/2025
