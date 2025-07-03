@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Ông Putin điện đàm với ông Trump](https://vnexpress.net/ong-putin-dien-dam-voi-ong-trump-4909824.html) - 15:52 03/07/2025
+- 🎬 [Ông Putin điện đàm với ông Trump, tuyên bố &#39;không từ bỏ mục tiêu ở Ukraine&#39;](https://vnexpress.net/ong-putin-dien-dam-voi-ong-trump-4909824.html) - 15:52 03/07/2025
 - 🐎 [Diogo Jota - ngôi sao tài hoa, bạc mệnh](https://vnexpress.net/diogo-jota-ngoi-sao-tai-hoa-bac-menh-4909819.html) - 15:41 03/07/2025
 - 🦍 [Thủ tướng yêu cầu sớm bỏ hạn mức tăng trưởng tín dụng](https://vnexpress.net/thu-tuong-yeu-cau-som-bo-han-muc-tang-truong-tin-dung-4909834.html) - 15:11 03/07/2025
 - 🏊 [Na Uy muốn hỗ trợ Việt Nam thử nghiệm hệ thống cọc tiền chai nhựa](https://vnexpress.net/na-uy-muon-ho-tro-viet-nam-thu-nghiem-he-thong-coc-tien-chai-nhua-4909761.html) - 14:31 03/07/2025
