@@ -54,5 +54,4 @@ sidebar_position: 9
 - 🐎 [Sản phụ băng huyết nguy kịch sau hai tuần sinh con](https://vnexpress.net/san-phu-bang-huyet-nguy-kich-sau-hai-tuan-sinh-con-4909508.html) - 12:00 03/07/2025
 - 🏊 [Thách thức với Thái Lan giữa biến động chính trị](https://vnexpress.net/thach-thuc-voi-thai-lan-giua-bien-dong-chinh-tri-4909422.html) - 12:00 03/07/2025
 - 🦩 [Chuyên gia bàn cách tìm học bổng, học tiếng Anh hiệu quả](https://vnexpress.net/chuyen-gia-ban-cach-tim-hoc-bong-hoc-tieng-anh-hieu-qua-4909703.html) - 12:00 03/07/2025
-- 👍 [Ôtô lao xuống sông, bốn người thoát nạn](https://vnexpress.net/oto-lao-xuong-song-bon-nguoi-thoat-nan-4909799.html) - 11:39 03/07/2025
-- 🔥 [Ăn khoai lang thế nào tốt cho người đái tháo đường](https://vnexpress.net/an-khoai-lang-the-nao-tot-cho-nguoi-dai-thao-duong-4909121.html) - 11:37 03/07/2025<!-- vnexpress-tin-moi-nhat:END -->
+- 👍 [Ôtô lao xuống sông, bốn người thoát nạn](https://vnexpress.net/oto-lao-xuong-song-bon-nguoi-thoat-nan-4909799.html) - 11:39 03/07/2025<!-- vnexpress-tin-moi-nhat:END -->
