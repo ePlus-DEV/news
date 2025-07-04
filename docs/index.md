@@ -262,7 +262,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🔥 [Quả cầu lửa khổng lồ làm rung chuyển Rome - Ý](https://nld.com.vn/qua-cau-lua-khong-lo-lam-rung-chuyen-rome-y-196250704184847061.htm) - 11:59 04/07/2025
 - 🧰 [Du khách &quot;tố&quot; bị &quot;chặt chém&quot; ăn 5 suất bún, cháo hết 810.000 đồng ở Bãi Cháy](https://nld.com.vn/du-khach-to-bi-chat-chem-an-5-suat-bun-chao-het-810000-dong-o-bai-chay-196250704184621131.htm) - 11:54 04/07/2025
 - 🤗 [Bộ Chính trị, Ban Bí thư: Sửa đổi, bổ sung các quy định về tiền lương, phụ cấp trách nhiệm](https://nld.com.vn/bo-chinh-tri-ban-bi-thu-sua-doi-bo-sung-cac-quy-dinh-ve-tien-luong-phu-cap-trach-nhiem-196250704182234917.htm) - 11:47 04/07/2025
-- 🦅 [TP HCM: Người phụ nữ tuổi tử vong sau va chạm giao thông nghiêm trọng](https://nld.com.vn/tp-hcm-nguoi-phu-nu-tuoi-tu-vong-sau-va-cham-giao-thong-nghiem-trong-196250704182505158.htm) - 11:41 04/07/2025
+- 🦅 [TP HCM: Người phụ nữ 30 tuổi tử vong sau tai nạn giao thông nghiêm trọng](https://nld.com.vn/tp-hcm-nguoi-phu-nu-tuoi-tu-vong-sau-va-cham-giao-thong-nghiem-trong-196250704182505158.htm) - 11:41 04/07/2025
 - 🤩 [Tổng Bí thư Tô Lâm: Tăng cường kiểm tra, kịp thời 
 tháo gỡ khó khăn khi vận hành bộ máy mới](https://nld.com.vn/tong-bi-thu-to-lam-tang-cuong-kiem-tra-kip-thoi-thao-go-kho-khan-khi-van-hanh-bo-may-moi-196250704172611765.htm) - 11:40 04/07/2025
 - 🎭 [Hiệp hội Ẩm thực TP HCM vươn mình cùng kỷ nguyên mới](https://phunu.nld.com.vn/hiep-hoi-am-thuc-tp-hcm-vuon-minh-cung-ky-nguyen-moi-196250704104825779.htm) - 11:38 04/07/2025
