@@ -403,8 +403,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Báo cáo cập nhật mới nhất KTXH: GDP quý II/2025 tăng trưởng 7,96%](https://baochinhphu.vn/bao-cao-cap-nhat-moi-nhat-ktxh-gdp-quy-ii-2025-tang-truong-796-102250705102426244.htm) - 10:32 05/07/2025
-- 🌜 [Một vùng đất mới, ba miền nhớ thương, cùng viết tiếp khát vọng phát triển](https://baochinhphu.vn/mot-vung-dat-moi-ba-mien-nho-thuong-cung-viet-tiep-khat-vong-phat-trien-102250704182244765.htm) - 08:20 05/07/2025
+- 💻 [Một vùng đất mới, ba miền nhớ thương, cùng viết tiếp khát vọng phát triển](https://baochinhphu.vn/mot-vung-dat-moi-ba-mien-nho-thuong-cung-viet-tiep-khat-vong-phat-trien-102250705114456139.htm) - 11:44 05/07/2025
+- 🌜 [Báo cáo cập nhật mới nhất KTXH: GDP quý II/2025 tăng trưởng 7,96%](https://baochinhphu.vn/bao-cao-cap-nhat-moi-nhat-ktxh-gdp-quy-ii-2025-tang-truong-796-102250705102426244.htm) - 10:32 05/07/2025
 - 🦆 [Ethipoian Airlines chuẩn bị khai trương đường bay Addis Ababa – Hà Nội](https://baochinhphu.vn/ethipoian-airlines-chuan-bi-khai-truong-duong-bay-addis-ababa-ha-noi-102250705081328124.htm) - 08:13 05/07/2025
 - 🌝 [Có được chuyển đất trồng lúa sang đất ở?](https://baochinhphu.vn/co-duoc-chuyen-dat-trong-lua-sang-dat-o-102250702105920313.htm) - 08:00 05/07/2025
 - 🦣 [Tăng cường quản lý xuất xứ thể hiện trên nhãn hàng hóa](https://baochinhphu.vn/tang-cuong-quan-ly-xuat-xu-the-hien-tren-nhan-hang-hoa-102250701152053985.htm) - 07:00 05/07/2025
