@@ -584,7 +584,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Trực tiếp FIFA Club World Cup Real Madrid vs Dortmund &lpar;03h00 ngày 6/7&rpar;: So tài đỉnh cao](https://tienphong.vn/truc-tiep-fifa-club-world-cup-real-madrid-vs-dortmund-03h00-ngay-67-so-tai-dinh-cao-post1757773.tpo) - 01:30 06/07/2025
+- 💼 [Trực tiếp FIFA Club World Cup Real Madrid vs Dortmund 0-0 &lpar;H1&rpar;: Hiệp 1 bắt đầu](https://tienphong.vn/truc-tiep-fifa-club-world-cup-real-madrid-vs-dortmund-0-0-h1-hiep-1-bat-dau-post1757773.tpo) - 01:30 06/07/2025
 - 🎊 [Bae Yong Joon ở tuổi 53](https://tienphong.vn/bae-yong-joon-o-tuoi-53-post1757768.tpo) - 23:22 05/07/2025
 - 💼 [Á hậu Hòa bình từ bỏ danh hiệu](https://tienphong.vn/a-hau-hoa-binh-tu-bo-danh-hieu-post1757623.tpo) - 23:16 05/07/2025
 - 👺 [Câu trả lời ứng xử gây tranh cãi](https://tienphong.vn/cau-tra-loi-ung-xu-gay-tranh-cai-post1757611.tpo) - 23:13 05/07/2025
