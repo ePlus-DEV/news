@@ -18,7 +18,7 @@ sidebar_position: 9
 - 🎊 [&#39;Chị dâu&#39; đại thắng Liên hoan phim châu Á Đà Nẵng](https://vnexpress.net/chi-dau-dai-thang-lien-hoan-phim-chau-a-da-nang-4910596.html) - 15:44 05/07/2025
 - 🎊 [Việt Nam áp thuế chống bán phá giá thép cán nóng từ Trung Quốc](https://vnexpress.net/viet-nam-ap-thue-chong-ban-pha-gia-thep-can-nong-tu-trung-quoc-4910640.html) - 15:36 05/07/2025
 - 😺 [Thái Lan công bố UAV tự sát nội địa](https://vnexpress.net/thai-lan-cong-bo-uav-tu-sat-noi-dia-4910637.html) - 15:24 05/07/2025
-- 🐘 [PSG 0-0 Bayern &lpar;H2&rpar;: Musiala chấn thương nặng](https://vnexpress.net/truc-tiep-psg-vs-bayern-4910599.html) - 15:15 05/07/2025
+- 🐘 [PSG 1-0 Bayern &lpar;H2&rpar;: Doue mở tỷ số](https://vnexpress.net/truc-tiep-psg-vs-bayern-4910599.html) - 15:15 05/07/2025
 - 🌁 [Blackpink &#39;bùng nổ&#39; ở concert tái xuất](https://vnexpress.net/blackpink-bung-no-o-concert-tai-xuat-4910615.html) - 15:08 05/07/2025
 - 🐲 [5 lớp học đỗ chuyên 100% ở Hà Nội](https://vnexpress.net/5-lop-hoc-do-chuyen-100-o-ha-noi-4910492.html) - 15:02 05/07/2025
 - 🤓 [Những trang sách về Sài Gòn - Gia Định - Chợ Lớn](https://vnexpress.net/nhung-trang-sach-ve-sai-gon-gia-dinh-cho-lon-4910139.html) - 14:37 05/07/2025
