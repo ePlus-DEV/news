@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [PSG 0-0 Bayern Munich &lpar;hiệp 2&rpar;: Bayern Munich nhận tin sốc](https://dantri.com.vn/the-thao/psg-0-0-bayern-munich-hiep-2-bayern-munich-nhan-tin-soc-20250705223933032.htm) - 15:40 05/07/2025
+- 🎡 [PSG 0-0 Bayern Munich &lpar;hiệp 2&rpar;: Bỏ lỡ không thể tin nổi](https://dantri.com.vn/the-thao/psg-0-0-bayern-munich-hiep-2-bo-lo-khong-the-tin-noi-20250705223933032.htm) - 15:40 05/07/2025
 - 💯 [Chung kết nội dung Open pickleball Dân trí: Đẳng cấp lên ngôi](https://dantri.com.vn/the-thao/chung-ket-noi-dung-open-pickleball-dan-tri-dang-cap-len-ngoi-20250705233602021.htm) - 15:38 05/07/2025
 - ⛽️ [Lý do bất ngờ khiến C.Ronaldo không dự lễ tang của Diogo Jota](https://dantri.com.vn/the-thao/ly-do-bat-ngo-khien-cronaldo-khong-du-le-tang-cua-diogo-jota-20250705220041015.htm) - 15:00 05/07/2025
 - 💃 [Đội tuyển nữ Việt Nam thắng đậm Guam, dễ dàng vào vòng chung kết châu Á](https://dantri.com.vn/the-thao/doi-tuyen-nu-viet-nam-thang-dam-guam-de-dang-vao-vong-chung-ket-chau-a-20250705213417931.htm) - 14:36 05/07/2025
