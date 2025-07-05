@@ -518,7 +518,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Trực tiếp PSG đấu Bayern Munich: Dembele dự bị &lpar;cập nhật&rpar;](https://muctim.tuoitre.vn/truc-tiep-tu-ket-fifa-club-world-cup-2025-psg-dau-bayern-munich-101250705200612055.htm) - 15:00 05/07/2025
-- 🥷 [Trực tiếp chung kết VTV Cup 2025: Việt Nam đấu Korabelka](https://muctim.tuoitre.vn/truc-tiep-chung-ket-vtv-cup-2025-viet-nam-dau-korabelka-10125070512123389.htm) - 12:29 05/07/2025
+- 🥷 [Chung kết VTV Cup 2025: Tuyển bóng chuyền nữ Việt Nam thua đáng tiếc trước CLB Korabelka &lpar;Nga&rpar;](https://muctim.tuoitre.vn/truc-tiep-chung-ket-vtv-cup-2025-viet-nam-dau-korabelka-10125070512123389.htm) - 12:29 05/07/2025
 - 🤖 [Gặp gỡ 4 thí sinh Đường đến vinh quang tuần này](https://muctim.tuoitre.vn/gap-go-4-thi-sinh-duong-den-vinh-quang-tuan-nay-101250705165509198.htm) - 10:16 05/07/2025
 - 🤓 [Nam sinh mê toán bất ngờ khi là thủ khoa chuyên tin lớp 10 Hà Nội](https://muctim.tuoitre.vn/nam-sinh-me-toan-bat-ngo-khi-la-thu-khoa-chuyen-tin-lop-10-ha-noi-101250705131954031.htm) - 10:14 05/07/2025
 - 🎉 [Bích Thùy lập cú đúp, tuyển bóng đá nữ Việt Nam thắng Guam 4-0, dự vòng chung kết ASIAN Cup 2026](https://muctim.tuoitre.vn/truc-tiep-vong-loai-asian-cup-nu-2026-viet-nam-guam-cho-ve-du-vong-chung-ket-101250705170829764.htm) - 10:13 05/07/2025
