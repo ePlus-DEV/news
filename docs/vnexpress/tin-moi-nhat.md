@@ -14,7 +14,7 @@ sidebar_position: 9
 - 🔭 [Tôi tình cờ biết mình có con riêng hơn một tuổi](https://vnexpress.net/toi-tinh-co-biet-minh-co-con-rieng-hon-mot-tuoi-4910167.html) - 17:00 05/07/2025
 - 🫶 [Bí mật hóa học khiến mật ong để lâu không hỏng](https://vnexpress.net/bi-mat-hoa-hoc-khien-mat-ong-de-lau-khong-hong-4909886.html) - 17:00 05/07/2025
 - 🪜 [Hồng Nhung: &#39;Tôi cố gắng vượt qua ung thư&#39;](https://vnexpress.net/hong-nhung-toi-co-gang-vuot-qua-ung-thu-4906524.html) - 17:00 05/07/2025
-- 👨‍🏫 [Tuyển nữ Việt Nam dự Asian Cup 10 lần liên tiếp](https://vnexpress.net/tuyen-nu-viet-nam-du-asian-cup-10-lan-lien-tiep-4910649.html) - 16:59 05/07/2025
+- 👨‍🏫 [Việt Nam lập kỷ lục Đông Nam Á với 10 lần liền dự Asian Cup nữ](https://vnexpress.net/viet-nam-lap-ky-luc-dong-nam-a-voi-10-lan-lien-du-asian-cup-nu-4910649.html) - 16:59 05/07/2025
 - 🎊 [&#39;Chị dâu&#39; đại thắng Liên hoan phim châu Á Đà Nẵng](https://vnexpress.net/chi-dau-dai-thang-lien-hoan-phim-chau-a-da-nang-4910596.html) - 15:44 05/07/2025
 - 🎊 [Việt Nam áp thuế chống bán phá giá thép cán nóng từ Trung Quốc](https://vnexpress.net/viet-nam-ap-thue-chong-ban-pha-gia-thep-can-nong-tu-trung-quoc-4910640.html) - 15:36 05/07/2025
 - 😺 [Thái Lan công bố UAV tự sát nội địa](https://vnexpress.net/thai-lan-cong-bo-uav-tu-sat-noi-dia-4910637.html) - 15:24 05/07/2025
