@@ -4,8 +4,8 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Tuyển nữ Việt Nam dự Asian Cup 10 lần liên tiếp](https://vnexpress.net/tuyen-nu-viet-nam-du-asian-cup-10-lan-lien-tiep-4910649.html) - 16:59 05/07/2025
-- 🦩 [PSG 0-0 Bayern &lpar;hết H1&rpar;: Musiala chấn thương nặng](https://vnexpress.net/truc-tiep-psg-vs-bayern-4910599.html) - 15:15 05/07/2025
+- 🪜 [Việt Nam lập kỷ lục Đông Nam Á với 10 lần liền dự Asian Cup nữ](https://vnexpress.net/viet-nam-lap-ky-luc-dong-nam-a-voi-10-lan-lien-du-asian-cup-nu-4910649.html) - 16:59 05/07/2025
+- 🦩 [PSG thắng Bayern dù bị đuổi hai người](https://vnexpress.net/truc-tiep-psg-vs-bayern-4910599.html) - 15:15 05/07/2025
 - 🧰 [Gukesh: &#39;Carlsen quá sai khi gọi tôi là kỳ thủ yếu&#39;](https://vnexpress.net/gukesh-carlsen-qua-sai-khi-goi-toi-la-ky-thu-yeu-4910603.html) - 13:11 05/07/2025
 - 🤗 [Bạn bè, người thân tiễn đưa Diogo Jota chặng đường cuối](https://vnexpress.net/tang-le-diogo-jota-4910592.html) - 11:38 05/07/2025
 - 🥳 [Liverpool trả lương còn lại trong hợp đồng cho gia đình Diogo Jota](https://vnexpress.net/liverpool-tra-luong-con-lai-trong-hop-dong-cho-gia-dinh-diogo-jota-4910586.html) - 10:18 05/07/2025
