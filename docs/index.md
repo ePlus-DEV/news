@@ -151,8 +151,8 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Thanh Niên
 <!-- thanhnien:START -->
 - 🤠 [Trương Vinh Hiển thắng lớn ở giải pickleball Việt Nam 2025](https://thanhnien.vn/truong-vinh-hien-thang-lon-o-giai-pickleball-viet-nam-2025-185250706213103255.htm) - 14:34 06/07/2025
-- 🥸 [Công an Lâm Đồng bắt 3 đối tượng hành hung 2 thiếu niên ở TP.HCM](https://thanhnien.vn/cong-an-lam-dong-bat-3-doi-tuong-hanh-hung-2-thieu-nien-o-tphcm-185250706205206684.htm) - 14:34 06/07/2025
-- 🌁 [U.16 Hà Nội thắng đậm Vĩnh Phức, cơ hội đăng quang đến gần](https://thanhnien.vn/u16-ha-noi-thang-dam-vinh-phuc-co-hoi-dang-quang-den-gan-185250706211124097.htm) - 14:11 06/07/2025
+- 🥸 [Công an Lâm Đồng bắt 3 đối tượng liên quan vụ hành hung 2 thiếu niên ở TP.HCM](https://thanhnien.vn/cong-an-lam-dong-bat-3-doi-tuong-hanh-hung-2-thieu-nien-o-tphcm-185250706205206684.htm) - 14:34 06/07/2025
+- 🌁 [U.16 Hà Nội thắng đậm Vĩnh Phúc, cơ hội đăng quang đến gần](https://thanhnien.vn/u16-ha-noi-thang-dam-vinh-phuc-co-hoi-dang-quang-den-gan-185250706211124097.htm) - 14:11 06/07/2025
 - 🤡 [Hương vị quê hương: Ăn khoai chà &#39;tám&#39; chuyện cũ](https://thanhnien.vn/huong-vi-que-huong-an-khoai-cha-tam-chuyen-cu-185250705234459716.htm) - 14:00 06/07/2025
 - 🎉 [Nhạc sĩ &#39;lão làng&#39; của miền Trung Nguyễn Duy Khoái qua đời vì trọng bệnh](https://thanhnien.vn/nhac-si-lao-lang-cua-mien-trung-nguyen-duy-khoai-qua-doi-vi-trong-benh-185250706203611925.htm) - 13:55 06/07/2025
 - 🎊 [35 năm phòng chống HIV/AIDS: &#39;Sự tiến bộ rõ rệt của ngành y và toàn xã hội&#39;](https://thanhnien.vn/35-nam-phong-chong-hiv-aids-su-tien-bo-ro-ret-cua-nganh-y-va-toan-xa-hoi-185250704084731526.htm) - 13:51 06/07/2025
