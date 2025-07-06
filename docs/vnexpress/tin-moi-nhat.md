@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Cháy chung cư ở TP HCM, nhiều người nhập viện](https://vnexpress.net/chay-chung-cu-o-tp-hcm-nhieu-nguoi-nhap-vien-4910867.html) - 19:47 06/07/2025
+- 🎬 [Cháy cư xá ở TP HCM, 8 người chết](https://vnexpress.net/chay-cu-xa-o-tp-hcm-8-nguoi-chet-4910867.html) - 19:47 06/07/2025
 - 🐎 [6 thực phẩm nên hạn chế để phòng thận yếu](https://vnexpress.net/6-thuc-pham-nen-han-che-de-phong-than-yeu-4910499.html) - 18:00 06/07/2025
 - 🦍 [300 triệu đồng, có nên hùn vốn với người quen đầu tư đất ven TP HCM?](https://vnexpress.net/300-trieu-dong-co-nen-hun-von-voi-nguoi-quen-dau-tu-dat-ven-tp-hcm-4910807.html) - 17:10 06/07/2025
 - 🏊 [Chủ tiệm game đánh tới tấp 2 thiếu niên bị bắt](https://vnexpress.net/chu-tiem-game-danh-toi-tap-2-thieu-nien-bi-bat-4910856.html) - 17:02 06/07/2025
