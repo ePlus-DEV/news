@@ -7,7 +7,7 @@ sidebar_position: 12
 - 😎 [Bênh mẹ, nam thanh niên đạp cha tử vong](https://vnexpress.net/benh-me-nam-thanh-nien-dap-cha-tu-vong-4910727.html) - 04:17 06/07/2025
 - 🥰 [Tài xế buồn ngủ trên cao tốc, đỗ xe sai luật gây tai nạn 2 người chết](https://vnexpress.net/tai-xe-buon-ngu-tren-cao-toc-do-xe-sai-luat-gay-tai-nan-2-nguoi-chet-4910729.html) - 04:00 06/07/2025
 - 🎓 [Ba cơ sở bị phát hiện ngâm rau chuối vào chất tẩy trắng, hàn the](https://vnexpress.net/ba-co-so-bi-phat-hien-ngam-rau-chuoi-vao-chat-tay-trang-han-the-4910718.html) - 03:37 06/07/2025
-- 🤓 [Doanh nhân, ca sĩ thua hàng triệu USD tại khách sạn Pullman như thế nào](https://vnexpress.net/doanh-nhan-ca-si-thua-hang-trieu-usd-tai-khach-san-pullman-nhu-the-nao-4910513.html) - 03:11 06/07/2025
+- 🤓 [Doanh nhân, ca sĩ thua hàng triệu USD tại King Club như thế nào](https://vnexpress.net/doanh-nhan-ca-si-thua-hang-trieu-usd-tai-king-club-nhu-the-nao-4910513.html) - 03:11 06/07/2025
 - 🎊 [Bị phạt tù vì đăng 450 bài lăng mạ diễn viên Hàn Quốc](https://vnexpress.net/bi-phat-tu-vi-viet-450-bai-lang-ma-dien-vien-han-quoc-4910652.html) - 02:30 06/07/2025
 - 🙉 [Cựu siêu sao thể thao Ireland giả bệnh ung thư lừa tiền hàng nghìn người](https://vnexpress.net/huyen-thoai-the-thao-ireland-gia-benh-ung-thu-lua-tien-hang-nghin-nguoi-4910627.html) - 14:35 05/07/2025
 - 🤡 [Du khách bị phạt vì &#39;phản ánh sai&#39; về du lịch Nha Trang](https://vnexpress.net/du-khach-bi-phat-vi-phan-anh-sai-ve-du-lich-nha-trang-4910617.html) - 13:40 05/07/2025
