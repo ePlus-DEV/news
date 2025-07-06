@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cháy chung cư ở TP HCM, nhiều người nhập viện](https://vnexpress.net/chay-chung-cu-o-tp-hcm-nhieu-nguoi-nhap-vien-4910867.html) - 19:47 06/07/2025
+- 🦒 [Cháy cư xá ở TP HCM, 8 người chết](https://vnexpress.net/chay-cu-xa-o-tp-hcm-8-nguoi-chet-4910867.html) - 19:47 06/07/2025
 - 🤓 [TP HCM xây mới cầu sắt hơn 50 năm tuổi ở cửa ngõ phía nam](https://vnexpress.net/tp-hcm-xay-moi-cau-sat-hon-50-nam-tuoi-o-cua-ngo-phia-nam-4910773.html) - 08:30 06/07/2025
 - ⚗️ [Miền Bắc oi nóng trước khi mưa diện rộng](https://vnexpress.net/mien-bac-oi-nong-truoc-khi-mua-dien-rong-4910744.html) - 08:11 06/07/2025
 - 🌊 [Ôtô cháy trơ khung trên cao tốc TP HCM - Trung Lương](https://vnexpress.net/oto-chay-tro-khung-tren-cao-toc-tp-hcm-trung-luong-4910770.html) - 07:43 06/07/2025
