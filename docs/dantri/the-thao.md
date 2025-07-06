@@ -4,10 +4,10 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Hai nữ VĐV xinh đẹp vỡ oà cảm xúc khi vô địch giải pickleball Dân trí](https://dantri.com.vn/the-thao/hai-nu-vdv-xinh-dep-vo-oa-cam-xuc-khi-vo-dich-giai-pickleball-dan-tri-20250706162017795.htm) - 09:25 06/07/2025
-- 💯 [Lộ diện chủ nhân của chức vô địch nội dung Dân trí &amp; Friends](https://dantri.com.vn/the-thao/lo-dien-chu-nhan-cua-chuc-vo-dich-noi-dung-dan-tri-friends-20250706155105180.htm) - 08:51 06/07/2025
-- ⛽️ [C.Ronaldo có hành động đặc biệt khi không dự đám tang Diogo Jota](https://dantri.com.vn/the-thao/cronaldo-co-hanh-dong-dac-biet-khi-khong-du-dam-tang-diogo-jota-20250706124426145.htm) - 08:26 06/07/2025
-- 💃 [Xác định 2 cặp bán kết FIFA Club World Cup](https://dantri.com.vn/the-thao/xac-dinh-2-cap-ban-ket-fifa-club-world-cup-20250706122705878.htm) - 06:45 06/07/2025
+- 🎡 [Xác định 2 cặp đấu bán kết FIFA Club World Cup 2025](https://dantri.com.vn/the-thao/xac-dinh-2-cap-dau-ban-ket-fifa-club-world-cup-2025-20250706122705878.htm) - 09:45 06/07/2025
+- 💯 [Nữ VĐV xinh đẹp vỡ oà cảm xúc khi vô địch giải pickleball Dân trí](https://dantri.com.vn/the-thao/nu-vdv-xinh-dep-vo-oa-cam-xuc-khi-vo-dich-giai-pickleball-dan-tri-20250706162017795.htm) - 09:25 06/07/2025
+- ⛽️ [Lộ diện chủ nhân của chức vô địch nội dung Dân trí &amp; Friends](https://dantri.com.vn/the-thao/lo-dien-chu-nhan-cua-chuc-vo-dich-noi-dung-dan-tri-friends-20250706155105180.htm) - 08:51 06/07/2025
+- 💃 [C.Ronaldo có hành động đặc biệt khi không dự đám tang Diogo Jota](https://dantri.com.vn/the-thao/cronaldo-co-hanh-dong-dac-biet-khi-khong-du-dam-tang-diogo-jota-20250706124426145.htm) - 08:26 06/07/2025
 - 🌈 [Báo Đông Nam Á bình luận việc Malaysia không bị xử thua tuyển Việt Nam](https://dantri.com.vn/the-thao/bao-dong-nam-a-binh-luan-viec-malaysia-khong-bi-xu-thua-tuyen-viet-nam-20250705222615787.htm) - 06:15 06/07/2025
 - 🦅 [VĐV Phương Anh: &quot;Giải pickleball báo Dân trí hấp dẫn và quá khốc liệt&quot;](https://dantri.com.vn/the-thao/vdv-phuong-anh-giai-pickleball-bao-dan-tri-hap-dan-va-qua-khoc-liet-20250706125952233.htm) - 06:10 06/07/2025
 - 🌝 [Dàn á hậu, diễn viên, ca sĩ nổi tiếng hâm nóng giải pickleball Dân trí](https://dantri.com.vn/the-thao/dan-a-hau-dien-vien-ca-si-noi-tieng-ham-nong-giai-pickleball-dan-tri-20250706105645880.htm) - 04:02 06/07/2025
