@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Khởi tố vụ án sai phạm ở Bệnh viện Bạch Mai 2 và Việt Đức 2](https://vnexpress.net/5-nguoi-bi-khoi-to-do-lien-quan-vu-an-tai-benh-vien-bach-mai-2-va-viet-duc-2-4911198.html) - 09:04 07/07/2025
+- 😎 [Khởi tố vụ án &#39;lãng phí&#39; ở Bệnh viện Bạch Mai 2 và Việt Đức 2](https://vnexpress.net/5-nguoi-bi-khoi-to-do-lien-quan-vu-an-tai-benh-vien-bach-mai-2-va-viet-duc-2-4911198.html) - 09:04 07/07/2025
 - 🥰 [Thêm 6 vụ sai phạm bị đưa vào diện Ban Chỉ đạo Trung ương theo dõi](https://vnexpress.net/them-6-vu-sai-pham-bi-dua-vao-dien-ban-chi-dao-trung-uong-theo-doi-4911169.html) - 08:42 07/07/2025
 - 🎓 [Diễn viên Mỹ kiện chủ tòa nhà với lý do &#39;cửa sổ kính không ngăn tia UV&#39;](https://vnexpress.net/kien-chu-toa-nha-vi-can-ho-6-trieu-usd-co-cua-so-gay-ung-thu-da-4911061.html) - 05:03 07/07/2025
 - 🤓 [Đôi vợ chồng &#39;tâm thần&#39; thua 11,4 tỷ đồng sau 100 lần đánh bạc tại King Club](https://vnexpress.net/doi-vo-chong-tam-than-thua-11-4-ty-dong-sau-100-lan-danh-bac-tai-king-club-o-khach-san-pullman-4911044.html) - 04:54 07/07/2025
