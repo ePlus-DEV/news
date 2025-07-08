@@ -589,7 +589,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Trực tiếp bán kết FIFA Club World Cup Chelsea vs Fluminense 2h00 ngày 9/7: Viết tiếp giấc mơ](https://tienphong.vn/truc-tiep-ban-ket-fifa-club-world-cup-chelsea-vs-fluminense-2h00-ngay-97-viet-tiep-giac-mo-post1758625.tpo) - 00:08 09/07/2025
+- 💼 [Trực tiếp bán kết FIFA Club World Cup Chelsea vs Fluminense 0-0 &lpar;H1&rpar;: Trận đấu bắt đầu](https://tienphong.vn/truc-tiep-ban-ket-fifa-club-world-cup-chelsea-vs-fluminense-0-0-h1-tran-dau-bat-dau-post1758625.tpo) - 00:08 09/07/2025
 - 🎊 [Giang hồ mạng Tiến &#39;bịp&#39; bị bắt](https://tienphong.vn/giang-ho-mang-tien-bip-bi-bat-post1758619.tpo) - 23:01 08/07/2025
 - 💼 [Diogo Jota bị kết luận lái xe quá tốc độ dẫn tới tai nạn](https://tienphong.vn/diogo-jota-bi-ket-luan-lai-xe-qua-toc-do-dan-toi-tai-nan-post1758616.tpo) - 22:20 08/07/2025
 - 👺 [Nguyễn Anh Minh đánh -2 vòng mở màn Singapore Open Amateur Championship 2025](https://tienphong.vn/nguyen-anh-minh-danh-2-vong-mo-man-singapore-open-amateur-championship-2025-post1758613.tpo) - 21:59 08/07/2025
