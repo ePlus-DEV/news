@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Trực thăng va chạm drone khi cứu trợ lũ lụt ở Texas](https://vnexpress.net/truc-thang-va-cham-drone-khi-cuu-tro-lu-lut-o-texas-4911442.html) - 03:38 08/07/2025
-- 🕴 [Bang Florida sắp có tuyến đường mang tên Tổng thống Trump](https://vnexpress.net/bang-florida-sap-co-tuyen-duong-mang-ten-tong-thong-trump-4911366.html) - 03:11 08/07/2025
-- 🤭 [Ông Putin ký luật cho người nước ngoài nhập ngũ](https://vnexpress.net/ong-putin-ky-luat-cho-nguoi-nuoc-ngoai-nhap-ngu-4911362.html) - 02:42 08/07/2025
-- 🧑‍💻 [Ông Trump: Mỹ sẽ chuyển thêm vũ khí phòng thủ cho Ukraine](https://vnexpress.net/ong-trump-my-se-chuyen-them-vu-khi-phong-thu-cho-ukraine-4911349.html) - 01:40 08/07/2025
-- 🦏 [Thủ tướng Israel đề cử Tổng thống Trump cho giải Nobel Hòa bình](https://vnexpress.net/thu-tuong-israel-de-cu-tong-thong-trump-cho-giai-nobel-hoa-binh-4911344.html) - 00:27 08/07/2025
-- 🦒 [Tướng Nga bị bắt vì cáo buộc tham nhũng](https://vnexpress.net/tuong-nga-bi-bat-vi-cao-buoc-tham-nhung-4911343.html) - 00:10 08/07/2025
-- 🌈 [Hơn 100 người chết trong lũ quét ở Texas](https://vnexpress.net/hon-100-nguoi-chet-trong-lu-quet-o-texas-4911336.html) - 23:46 07/07/2025
-- 🧑‍🏫 [Đảng của Elon Musk có thể đe dọa phe Cộng hòa thế nào](https://vnexpress.net/dang-cua-elon-musk-co-the-de-doa-phe-cong-hoa-the-nao-4910918.html) - 22:00 07/07/2025
-- 🐲 [Phòng tuyến tỷ USD của Ukraine bất lực trước quân đội Nga](https://vnexpress.net/phong-tuyen-ty-usd-cua-ukraine-bat-luc-truoc-quan-doi-nga-4911021.html) - 17:00 07/07/2025
-- 🦒 [Tổng thống Iran: Israel từng tìm cách ám sát tôi](https://vnexpress.net/tong-thong-iran-israel-tung-tim-cach-am-sat-toi-4911312.html) - 16:34 07/07/2025
-- 🐻 [Cựu bộ trưởng Nga tự sát vài giờ sau khi bị cách chức](https://vnexpress.net/cuu-bo-truong-nga-tu-sat-vai-gio-sau-khi-bi-cach-chuc-4911305.html) - 14:49 07/07/2025
-- 🚀 [Elon Musk mỉa mai việc &#39;chưa ai bị bắt&#39; trong vụ tỷ phú ấu dâm Epstein](https://vnexpress.net/elon-musk-mia-mai-viec-chua-ai-bi-bat-trong-vu-ty-phu-au-dam-epstein-4911289.html) - 13:53 07/07/2025
-- 🥰 [Hệ thống cảnh báo gây tranh cãi trong thảm kịch lũ quét ở Texas](https://vnexpress.net/he-thong-canh-bao-gay-tranh-cai-trong-tham-kich-lu-quet-o-texas-4911031.html) - 12:38 07/07/2025
-- 🔥 [Triều Tiên mở dịch vụ ăn uống trên sông](https://vnexpress.net/trieu-tien-mo-dich-vu-an-uong-tren-song-4911277.html) - 12:07 07/07/2025
-- 🥳 [UAV Nga tập kích hai trung tâm tuyển quân Ukraine](https://vnexpress.net/uav-nga-tap-kich-hai-trung-tam-tuyen-quan-ukraine-4911236.html) - 11:13 07/07/2025
-- 💼 [Hàn Quốc sẽ hồi hương 6 người Triều Tiên](https://vnexpress.net/han-quoc-se-hoi-huong-6-nguoi-trieu-tien-4911159.html) - 10:38 07/07/2025
-- 🤡 [Loạt căn cứ Israel nghi trúng tên lửa Iran trong xung đột 12 ngày](https://vnexpress.net/loat-can-cu-israel-nghi-trung-ten-lua-iran-trong-xung-dot-12-ngay-4911148.html) - 10:08 07/07/2025
-- 🌁 [Thủ tướng nêu ba đề xuất tại Phiên thảo luận cấp cao BRICS mở rộng](https://vnexpress.net/thu-tuong-neu-ba-de-xuat-tai-phien-thao-luan-cap-cao-brics-mo-rong-4911220.html) - 09:49 07/07/2025
-- 🤩 [BRICS ra tuyên bố chung, kêu gọi cải cách thể chế toàn cầu](https://vnexpress.net/brics-ra-tuyen-bo-chung-keu-goi-cai-cach-the-che-toan-cau-4911122.html) - 08:09 07/07/2025
-- 🎉 [Nỗ lực cứu học sinh tại trại hè bị lũ quét tấn công ở Texas](https://vnexpress.net/no-luc-cuu-hoc-sinh-tai-trai-he-bi-lu-quet-tan-cong-o-texas-4911069.html) - 07:48 07/07/2025
-- 🎉 [Sân bay lắp máy phục vụ miễn phí món canh đặc sản](https://vnexpress.net/san-bay-lap-may-phuc-vu-mien-phi-mon-canh-dac-san-4911116.html) - 07:16 07/07/2025
-- 🌁 [Dàn drone được ví như &#39;đội quân Lego&#39; của Ukraine](https://vnexpress.net/dan-drone-duoc-vi-nhu-doi-quan-lego-cua-ukraine-4910927.html) - 07:04 07/07/2025
-- 🌊 [Đêm kinh hoàng trong trận lũ quét ở Texas](https://vnexpress.net/dem-kinh-hoang-trong-tran-lu-quet-o-texas-4910900.html) - 05:40 07/07/2025
+- 🎭 [&#39;Bẫy tử thần&#39; rình rập người Gaza trên hành trình tìm thức ăn](https://vnexpress.net/bay-tu-than-rinh-rap-nguoi-gaza-tren-hanh-trinh-tim-thuc-an-4911212.html) - 05:00 08/07/2025
+- 🕴 [UAV Nga chỉ điểm cho tên lửa Iskander tập kích căn cứ Ukraine](https://vnexpress.net/uav-nga-chi-diem-cho-ten-lua-iskander-tap-kich-can-cu-ukraine-4911388.html) - 04:29 08/07/2025
+- 🤭 [Ukraine chăng lưới bảo vệ các tuyến đường tới Donetsk](https://vnexpress.net/ukraine-chang-luoi-bao-ve-cac-tuyen-duong-toi-donetsk-4911506.html) - 04:25 08/07/2025
+- 🧑‍💻 [Ba Lan điều 700 quân ngăn người vượt biên từ Đức](https://vnexpress.net/ba-lan-dieu-700-quan-ngan-nguoi-vuot-bien-tu-duc-4911403.html) - 03:58 08/07/2025
+- 🦏 [Thú vui khám phá nhà bỏ hoang ở Trung Quốc](https://vnexpress.net/nha-bo-hoang-trung-quoc-4911192.html) - 03:57 08/07/2025
+- 🦒 [Thái Lan hoãn trao trả cổ vật cho Campuchia](https://vnexpress.net/thai-lan-hoan-trao-tra-co-vat-cho-campuchia-4911364.html) - 03:55 08/07/2025
+- 🌈 [Trực thăng va chạm drone khi cứu trợ lũ lụt ở Texas](https://vnexpress.net/truc-thang-va-cham-drone-khi-cuu-tro-lu-lut-o-texas-4911442.html) - 03:38 08/07/2025
+- 🧑‍🏫 [Bang Florida sắp có tuyến đường mang tên Tổng thống Trump](https://vnexpress.net/bang-florida-sap-co-tuyen-duong-mang-ten-tong-thong-trump-4911366.html) - 03:11 08/07/2025
+- 🐲 [Ông Putin ký luật cho người nước ngoài nhập ngũ](https://vnexpress.net/ong-putin-ky-luat-cho-nguoi-nuoc-ngoai-nhap-ngu-4911362.html) - 02:42 08/07/2025
+- 🦒 [Ông Trump: Mỹ sẽ chuyển thêm vũ khí phòng thủ cho Ukraine](https://vnexpress.net/ong-trump-my-se-chuyen-them-vu-khi-phong-thu-cho-ukraine-4911349.html) - 01:40 08/07/2025
+- 🐻 [Thủ tướng Israel đề cử Tổng thống Trump cho giải Nobel Hòa bình](https://vnexpress.net/thu-tuong-israel-de-cu-tong-thong-trump-cho-giai-nobel-hoa-binh-4911344.html) - 00:27 08/07/2025
+- 🚀 [Tướng Nga bị bắt vì cáo buộc tham nhũng](https://vnexpress.net/tuong-nga-bi-bat-vi-cao-buoc-tham-nhung-4911343.html) - 00:10 08/07/2025
+- 🥰 [Hơn 100 người chết trong lũ quét ở Texas](https://vnexpress.net/hon-100-nguoi-chet-trong-lu-quet-o-texas-4911336.html) - 23:46 07/07/2025
+- 🔥 [Đảng của Elon Musk có thể đe dọa phe Cộng hòa thế nào](https://vnexpress.net/dang-cua-elon-musk-co-the-de-doa-phe-cong-hoa-the-nao-4910918.html) - 22:00 07/07/2025
+- 🥳 [Phòng tuyến tỷ USD của Ukraine bất lực trước quân đội Nga](https://vnexpress.net/phong-tuyen-ty-usd-cua-ukraine-bat-luc-truoc-quan-doi-nga-4911021.html) - 17:00 07/07/2025
+- 💼 [Tổng thống Iran: Israel từng tìm cách ám sát tôi](https://vnexpress.net/tong-thong-iran-israel-tung-tim-cach-am-sat-toi-4911312.html) - 16:34 07/07/2025
+- 🤡 [Cựu bộ trưởng Nga tự sát vài giờ sau khi bị cách chức](https://vnexpress.net/cuu-bo-truong-nga-tu-sat-vai-gio-sau-khi-bi-cach-chuc-4911305.html) - 14:49 07/07/2025
+- 🌁 [Elon Musk mỉa mai việc &#39;chưa ai bị bắt&#39; trong vụ tỷ phú ấu dâm Epstein](https://vnexpress.net/elon-musk-mia-mai-viec-chua-ai-bi-bat-trong-vu-ty-phu-au-dam-epstein-4911289.html) - 13:53 07/07/2025
+- 🤩 [Hệ thống cảnh báo gây tranh cãi trong thảm kịch lũ quét ở Texas](https://vnexpress.net/he-thong-canh-bao-gay-tranh-cai-trong-tham-kich-lu-quet-o-texas-4911031.html) - 12:38 07/07/2025
+- 🎉 [Triều Tiên mở dịch vụ ăn uống trên sông](https://vnexpress.net/trieu-tien-mo-dich-vu-an-uong-tren-song-4911277.html) - 12:07 07/07/2025
+- 🎉 [UAV Nga tập kích hai trung tâm tuyển quân Ukraine](https://vnexpress.net/uav-nga-tap-kich-hai-trung-tam-tuyen-quan-ukraine-4911236.html) - 11:13 07/07/2025
+- 🌁 [Hàn Quốc sẽ hồi hương 6 người Triều Tiên](https://vnexpress.net/han-quoc-se-hoi-huong-6-nguoi-trieu-tien-4911159.html) - 10:38 07/07/2025
+- 🌊 [Loạt căn cứ Israel nghi trúng tên lửa Iran trong xung đột 12 ngày](https://vnexpress.net/loat-can-cu-israel-nghi-trung-ten-lua-iran-trong-xung-dot-12-ngay-4911148.html) - 10:08 07/07/2025
+- 🕴 [Thủ tướng nêu ba đề xuất tại Phiên thảo luận cấp cao BRICS mở rộng](https://vnexpress.net/thu-tuong-neu-ba-de-xuat-tai-phien-thao-luan-cap-cao-brics-mo-rong-4911220.html) - 09:49 07/07/2025
+- 🎓 [BRICS ra tuyên bố chung, kêu gọi cải cách thể chế toàn cầu](https://vnexpress.net/brics-ra-tuyen-bo-chung-keu-goi-cai-cach-the-che-toan-cau-4911122.html) - 08:09 07/07/2025
+- 🦩 [Nỗ lực cứu học sinh tại trại hè bị lũ quét tấn công ở Texas](https://vnexpress.net/no-luc-cuu-hoc-sinh-tai-trai-he-bi-lu-quet-tan-cong-o-texas-4911069.html) - 07:48 07/07/2025
+- 🌏 [Sân bay lắp máy phục vụ miễn phí món canh đặc sản](https://vnexpress.net/san-bay-lap-may-phuc-vu-mien-phi-mon-canh-dac-san-4911116.html) - 07:16 07/07/2025
+- 🌋 [Dàn drone được ví như &#39;đội quân Lego&#39; của Ukraine](https://vnexpress.net/dan-drone-duoc-vi-nhu-doi-quan-lego-cua-ukraine-4910927.html) - 07:04 07/07/2025
+- 🪜 [Đêm kinh hoàng trong trận lũ quét ở Texas](https://vnexpress.net/dem-kinh-hoang-trong-tran-lu-quet-o-texas-4910900.html) - 05:40 07/07/2025
 - 🕴 [Texas chạy đua tìm kiếm nạn nhân vụ lũ quét](https://vnexpress.net/texas-chay-dua-tim-kiem-nan-nhan-vu-lu-quet-4911011.html) - 04:59 07/07/2025
-- 🎓 [95% lãnh đạo Hamas có thể đã thiệt mạng](https://vnexpress.net/95-lanh-dao-hamas-co-the-da-thiet-mang-4910954.html) - 04:53 07/07/2025
-- 🦩 [Quyết định tức thời giúp cứu 70 người ở trại hè trước lũ quét Texas](https://vnexpress.net/quyet-dinh-tuc-thoi-giup-cuu-70-nguoi-o-trai-he-truoc-lu-quet-texas-4910908.html) - 04:25 07/07/2025
-- 🌏 [Lý do lũ quét ở Texas khiến ít nhất 82 người chết](https://vnexpress.net/ly-do-lu-quet-o-texas-khien-it-nhat-82-nguoi-chet-4910858.html) - 03:40 07/07/2025
-- 🌋 [Bộ trưởng Mỹ khuyên Elon Musk tập trung vào kinh doanh thay vì chính trị](https://vnexpress.net/bo-truong-my-khuyen-elon-musk-tap-trung-vao-kinh-doanh-thay-vi-chinh-tri-4910917.html) - 03:32 07/07/2025
-- 🪜 [Cảnh tượng lũ Texas nhấn chìm đường trong vài phút](https://vnexpress.net/canh-tuong-lu-texas-nhan-chim-duong-trong-vai-phut-4910929.html) - 02:24 07/07/2025
-- 🕴 [Những người mẹ Ukraine mòn mỏi chờ tin con](https://vnexpress.net/nhung-nguoi-me-ukraine-mon-moi-cho-tin-con-4910257.html) - 02:00 07/07/2025
-- 🧑‍🏫 [Chủ nuôi sư tử bị bắt sau vụ thú cưng tấn công người ở Pakistan](https://vnexpress.net/chu-nuoi-su-tu-bi-bat-sau-vu-thu-cung-tan-cong-nguoi-o-pakistan-4910928.html) - 01:38 07/07/2025
-- 🌮 [82 người thiệt mạng do lũ quét ở Texas](https://vnexpress.net/82-nguoi-thiet-mang-do-lu-quet-o-texas-4910888.html) - 00:47 07/07/2025
-- 🚦 [Tàu hàng trúng đòn tập kích trên Biển Đỏ, buộc thủy thủ sơ tán](https://vnexpress.net/tau-hang-trung-don-tap-kich-tren-bien-do-buoc-thuy-thu-so-tan-4910891.html) - 00:29 07/07/2025
-- 💫 [Ông Trump chỉ trích ý tưởng lập đảng mới của Musk &#39;lố bịch&#39;](https://vnexpress.net/ong-trump-chi-trich-y-tuong-lap-dang-moi-cua-musk-lo-bich-4910880.html) - 23:58 06/07/2025
-- 🤡 [Israel không kích loạt mục tiêu ở Yemen để trả đũa Houthi](https://vnexpress.net/israel-khong-kich-loat-muc-tieu-o-yemen-de-tra-dua-houthi-4910886.html) - 23:40 06/07/2025
-- 🦣 [Mỹ từng gieo mầm cho chương trình hạt nhân Iran thế nào](https://vnexpress.net/my-tung-gieo-mam-cho-chuong-trinh-hat-nhan-iran-the-nao-4905837.html) - 22:00 06/07/2025
-- 🎬 [Tòa án Hiến pháp - trọng tài quyền lực ở Thái Lan](https://vnexpress.net/toa-an-hien-phap-trong-tai-quyen-luc-o-thai-lan-4909697.html) - 17:00 06/07/2025
-- 🎉 [Người chết do lũ ở Texas tăng lên 67, ông Trump ban bố tình trạng thảm họa](https://vnexpress.net/nguoi-chet-do-lu-o-texas-tang-len-67-ong-trump-ban-bo-tinh-trang-tham-hoa-4910855.html) - 16:55 06/07/2025
-- 🎡 [Ông Putin: Drone của tình nguyện viên Nga khiến Ukraine tổn thất 2 tỷ USD](https://vnexpress.net/ong-putin-drone-cua-tinh-nguyen-vien-nga-khien-ukraine-ton-that-2-ty-usd-4910844.html) - 15:45 06/07/2025
-- 🌜 [Công tố viên Hàn Quốc đề nghị bắt ông Yoon Suk-yeol](https://vnexpress.net/cong-to-vien-han-quoc-de-nghi-bat-ong-yoon-suk-yeol-4910827.html) - 14:16 06/07/2025
-- 🎡 [Nhân chứng lũ quét Texas: &#39;Không gì thảm khốc hơn thế này&#39;](https://vnexpress.net/nhan-chung-lu-quet-texas-khong-gi-tham-khoc-hon-the-nay-4910811.html) - 12:39 06/07/2025
-- 🤗 [Houthi tuyên bố tập kích sân bay Israel bằng tên lửa siêu vượt âm](https://vnexpress.net/houthi-tuyen-bo-tap-kich-san-bay-israel-bang-ten-lua-sieu-vuot-am-4910805.html) - 11:21 06/07/2025
-- 🦩 [Cảnh tan hoang tại trại hè Texas bị lũ quét tấn công](https://vnexpress.net/canh-tan-hoang-tai-trai-he-texas-bi-lu-quet-tan-cong-4910781.html) - 09:56 06/07/2025
-- 🎓 [Tiêm kích F-16 chặn máy bay gần sân golf của ông Trump](https://vnexpress.net/tiem-kich-f-16-chan-may-bay-gan-san-golf-cua-ong-trump-4910766.html) - 07:58 06/07/2025
-- 🌁 [Israel đồng ý đàm phán ngừng bắn ở Gaza](https://vnexpress.net/israel-dong-y-dam-phan-ngung-ban-o-gaza-4910689.html) - 05:28 06/07/2025
-- 🤩 [Bị lũ cuốn trôi 32 km, cô gái sống sót nhờ bám vào cây](https://vnexpress.net/bi-lu-cuon-troi-32-km-co-gai-song-sot-nho-bam-vao-cay-4910698.html) - 03:30 06/07/2025
-- 👹 [Cơ hội cho đảng Dân chủ từ &#39;Đạo luật to đẹp&#39; của ông Trump](https://vnexpress.net/co-hoi-cho-dang-dan-chu-tu-dao-luat-to-dep-cua-ong-trump-4910429.html) - 02:00 06/07/2025
-- ⛽️ [Người chết do lũ quét ở Texas tăng lên 51](https://vnexpress.net/nguoi-chet-do-lu-quet-o-texas-tang-len-51-4910678.html) - 01:55 06/07/2025
+- 🧑‍🏫 [95% lãnh đạo Hamas có thể đã thiệt mạng](https://vnexpress.net/95-lanh-dao-hamas-co-the-da-thiet-mang-4910954.html) - 04:53 07/07/2025
+- 🌮 [Quyết định tức thời giúp cứu 70 người ở trại hè trước lũ quét Texas](https://vnexpress.net/quyet-dinh-tuc-thoi-giup-cuu-70-nguoi-o-trai-he-truoc-lu-quet-texas-4910908.html) - 04:25 07/07/2025
+- 🚦 [Lý do lũ quét ở Texas khiến ít nhất 82 người chết](https://vnexpress.net/ly-do-lu-quet-o-texas-khien-it-nhat-82-nguoi-chet-4910858.html) - 03:40 07/07/2025
+- 💫 [Bộ trưởng Mỹ khuyên Elon Musk tập trung vào kinh doanh thay vì chính trị](https://vnexpress.net/bo-truong-my-khuyen-elon-musk-tap-trung-vao-kinh-doanh-thay-vi-chinh-tri-4910917.html) - 03:32 07/07/2025
+- 🤡 [Cảnh tượng lũ Texas nhấn chìm đường trong vài phút](https://vnexpress.net/canh-tuong-lu-texas-nhan-chim-duong-trong-vai-phut-4910929.html) - 02:24 07/07/2025
+- 🦣 [Những người mẹ Ukraine mòn mỏi chờ tin con](https://vnexpress.net/nhung-nguoi-me-ukraine-mon-moi-cho-tin-con-4910257.html) - 02:00 07/07/2025
+- 🎬 [Chủ nuôi sư tử bị bắt sau vụ thú cưng tấn công người ở Pakistan](https://vnexpress.net/chu-nuoi-su-tu-bi-bat-sau-vu-thu-cung-tan-cong-nguoi-o-pakistan-4910928.html) - 01:38 07/07/2025
+- 🎉 [82 người thiệt mạng do lũ quét ở Texas](https://vnexpress.net/82-nguoi-thiet-mang-do-lu-quet-o-texas-4910888.html) - 00:47 07/07/2025
+- 🎡 [Tàu hàng trúng đòn tập kích trên Biển Đỏ, buộc thủy thủ sơ tán](https://vnexpress.net/tau-hang-trung-don-tap-kich-tren-bien-do-buoc-thuy-thu-so-tan-4910891.html) - 00:29 07/07/2025
+- 🌜 [Ông Trump chỉ trích ý tưởng lập đảng mới của Musk &#39;lố bịch&#39;](https://vnexpress.net/ong-trump-chi-trich-y-tuong-lap-dang-moi-cua-musk-lo-bich-4910880.html) - 23:58 06/07/2025
+- 🎡 [Israel không kích loạt mục tiêu ở Yemen để trả đũa Houthi](https://vnexpress.net/israel-khong-kich-loat-muc-tieu-o-yemen-de-tra-dua-houthi-4910886.html) - 23:40 06/07/2025
+- 🤗 [Mỹ từng gieo mầm cho chương trình hạt nhân Iran thế nào](https://vnexpress.net/my-tung-gieo-mam-cho-chuong-trinh-hat-nhan-iran-the-nao-4905837.html) - 22:00 06/07/2025
+- 🦩 [Tòa án Hiến pháp - trọng tài quyền lực ở Thái Lan](https://vnexpress.net/toa-an-hien-phap-trong-tai-quyen-luc-o-thai-lan-4909697.html) - 17:00 06/07/2025
+- 🎓 [Người chết do lũ ở Texas tăng lên 67, ông Trump ban bố tình trạng thảm họa](https://vnexpress.net/nguoi-chet-do-lu-o-texas-tang-len-67-ong-trump-ban-bo-tinh-trang-tham-hoa-4910855.html) - 16:55 06/07/2025
+- 🌁 [Ông Putin: Drone của tình nguyện viên Nga khiến Ukraine tổn thất 2 tỷ USD](https://vnexpress.net/ong-putin-drone-cua-tinh-nguyen-vien-nga-khien-ukraine-ton-that-2-ty-usd-4910844.html) - 15:45 06/07/2025
+- 🤩 [Công tố viên Hàn Quốc đề nghị bắt ông Yoon Suk-yeol](https://vnexpress.net/cong-to-vien-han-quoc-de-nghi-bat-ong-yoon-suk-yeol-4910827.html) - 14:16 06/07/2025
+- 👹 [Nhân chứng lũ quét Texas: &#39;Không gì thảm khốc hơn thế này&#39;](https://vnexpress.net/nhan-chung-lu-quet-texas-khong-gi-tham-khoc-hon-the-nay-4910811.html) - 12:39 06/07/2025
+- ⛽️ [Houthi tuyên bố tập kích sân bay Israel bằng tên lửa siêu vượt âm](https://vnexpress.net/houthi-tuyen-bo-tap-kich-san-bay-israel-bang-ten-lua-sieu-vuot-am-4910805.html) - 11:21 06/07/2025
+- 🚀 [Cảnh tan hoang tại trại hè Texas bị lũ quét tấn công](https://vnexpress.net/canh-tan-hoang-tai-trai-he-texas-bi-lu-quet-tan-cong-4910781.html) - 09:56 06/07/2025
+- 🎡 [Tiêm kích F-16 chặn máy bay gần sân golf của ông Trump](https://vnexpress.net/tiem-kich-f-16-chan-may-bay-gan-san-golf-cua-ong-trump-4910766.html) - 07:58 06/07/2025
+- 🕯 [Israel đồng ý đàm phán ngừng bắn ở Gaza](https://vnexpress.net/israel-dong-y-dam-phan-ngung-ban-o-gaza-4910689.html) - 05:28 06/07/2025
+- 🐻 [Bị lũ cuốn trôi 32 km, cô gái sống sót nhờ bám vào cây](https://vnexpress.net/bi-lu-cuon-troi-32-km-co-gai-song-sot-nho-bam-vao-cay-4910698.html) - 03:30 06/07/2025
+- 🚦 [Cơ hội cho đảng Dân chủ từ &#39;Đạo luật to đẹp&#39; của ông Trump](https://vnexpress.net/co-hoi-cho-dang-dan-chu-tu-dao-luat-to-dep-cua-ong-trump-4910429.html) - 02:00 06/07/2025
+- 👍 [Người chết do lũ quét ở Texas tăng lên 51](https://vnexpress.net/nguoi-chet-do-lu-quet-o-texas-tang-len-51-4910678.html) - 01:55 06/07/2025
 - 🚀 [Việt Nam, Brazil thúc đẩy hợp tác bóng đá](https://vnexpress.net/viet-nam-brazil-thuc-day-hop-tac-bong-da-4910672.html) - 01:23 06/07/2025
-- 🎡 [Elon Musk tuyên bố lập đảng mới ở Mỹ](https://vnexpress.net/elon-musk-tuyen-bo-lap-dang-moi-o-my-4910668.html) - 23:58 05/07/2025
-- 🕯 [Lãnh tụ tối cao Iran lần đầu xuất hiện công khai sau xung đột với Israel](https://vnexpress.net/lanh-tu-toi-cao-iran-lan-dau-xuat-hien-cong-khai-sau-xung-dot-voi-israel-4910666.html) - 23:34 05/07/2025
-- 🐻 [Quân đội Anh lúng túng với tiêm kích F-35 mắc kẹt ở Ấn Độ](https://vnexpress.net/quan-doi-anh-lung-tung-voi-tiem-kich-f-35-mac-ket-o-an-do-4910294.html) - 22:00 05/07/2025
-- 🚦 [Chiến thuật phòng thủ khiến phi công F-16 Ukraine mạo hiểm tính mạng](https://vnexpress.net/chien-thuat-phong-thu-khien-phi-cong-f-16-ukraine-mao-hiem-tinh-mang-4910272.html) - 18:00 05/07/2025
-- 👍 [Thái Lan công bố UAV tự sát nội địa](https://vnexpress.net/thai-lan-cong-bo-uav-tu-sat-noi-dia-4910637.html) - 15:24 05/07/2025
-- 🚀 [20 nữ sinh mất tích khi lũ quét tấn công trại hè Mỹ](https://vnexpress.net/20-nu-sinh-mat-tich-khi-lu-quet-tan-cong-trai-he-my-4910608.html) - 12:57 05/07/2025
-- 🌮 [Thách thức với Elon Musk nếu lập đảng mới đối đầu ông Trump](https://vnexpress.net/thach-thuc-voi-elon-musk-neu-lap-dang-moi-doi-dau-ong-trump-4910400.html) - 12:00 05/07/2025
-- 😎 [Phi công B-2 không kích Iran được mời tới Nhà Trắng](https://vnexpress.net/phi-cong-b-2-khong-kich-iran-duoc-moi-toi-nha-trang-4910474.html) - 09:17 05/07/2025
-- 🐲 [Mexico phát hiện gần 400 thi thể chất đống trong lò hỏa táng](https://vnexpress.net/mexico-phat-hien-gan-400-thi-the-chat-dong-trong-lo-hoa-tang-4910554.html) - 08:35 05/07/2025
-- 💫 [Ông Trump đề cập khả năng siết lệnh trừng phạt Nga](https://vnexpress.net/ong-trump-de-cap-kha-nang-siet-lenh-trung-phat-nga-4910537.html) - 07:30 05/07/2025
-- 👀 [Những người tị nạn Ukraine làm giàu cho kinh tế Ba Lan](https://vnexpress.net/nhung-nguoi-ti-nan-ukraine-lam-giau-cho-kinh-te-ba-lan-4909938.html) - 05:05 05/07/2025<!-- vnexpress-the-gioi:END -->
+- 🌮 [Elon Musk tuyên bố lập đảng mới ở Mỹ](https://vnexpress.net/elon-musk-tuyen-bo-lap-dang-moi-o-my-4910668.html) - 23:58 05/07/2025
+- 😎 [Lãnh tụ tối cao Iran lần đầu xuất hiện công khai sau xung đột với Israel](https://vnexpress.net/lanh-tu-toi-cao-iran-lan-dau-xuat-hien-cong-khai-sau-xung-dot-voi-israel-4910666.html) - 23:34 05/07/2025
+- 🐲 [Quân đội Anh lúng túng với tiêm kích F-35 mắc kẹt ở Ấn Độ](https://vnexpress.net/quan-doi-anh-lung-tung-voi-tiem-kich-f-35-mac-ket-o-an-do-4910294.html) - 22:00 05/07/2025
+- 💫 [Chiến thuật phòng thủ khiến phi công F-16 Ukraine mạo hiểm tính mạng](https://vnexpress.net/chien-thuat-phong-thu-khien-phi-cong-f-16-ukraine-mao-hiem-tinh-mang-4910272.html) - 18:00 05/07/2025
+- 👀 [Thái Lan công bố UAV tự sát nội địa](https://vnexpress.net/thai-lan-cong-bo-uav-tu-sat-noi-dia-4910637.html) - 15:24 05/07/2025<!-- vnexpress-the-gioi:END -->
