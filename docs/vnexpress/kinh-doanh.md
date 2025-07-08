@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Ông Trump sắp áp thuế 50% lên đồng nhập khẩu](https://vnexpress.net/ong-trump-sap-ap-thue-50-len-dong-nhap-khau-4911814.html) - 21:30 08/07/2025
+- ⛽️ [Mỹ sắp áp thuế 50% lên đồng nhập khẩu](https://vnexpress.net/my-sap-ap-thue-50-len-dong-nhap-khau-4911814.html) - 21:30 08/07/2025
 - 🐲 [ShopeeFood, GrabFood nắm hơn 90% thị trường giao đồ ăn](https://vnexpress.net/shopeefood-grabfood-nam-hon-90-thi-truong-giao-do-an-4911752.html) - 17:05 08/07/2025
 - 🔥 [Châu Âu muốn phát hành &#39;tín chỉ thiên nhiên&#39;](https://vnexpress.net/chau-au-muon-phat-hanh-tin-chi-thien-nhien-4911613.html) - 17:00 08/07/2025
 - 🐵 [Đề xuất hãng xe vượt trần tiêu thụ nhiên liệu phải mua tín chỉ bù trừ](https://vnexpress.net/de-xuat-hang-xe-vuot-tran-tieu-thu-nhien-lieu-phai-mua-tin-chi-bu-tru-4911615.html) - 14:23 08/07/2025
