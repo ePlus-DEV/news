@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [10 dấu hiệu dễ nhận ra ở người EQ thấp](https://vnexpress.net/10-dau-hieu-de-nhan-ra-o-nguoi-eq-thap-4911446.html) - 04:25 08/07/2025
+- 🚀 [10 dấu hiệu dễ nhận ra ở người IQ thấp](https://vnexpress.net/10-dau-hieu-de-nhan-ra-o-nguoi-iq-thap-4911446.html) - 04:25 08/07/2025
 - 🎓 [Ba cách tiền bạc có thể hủy hoại cuộc sống](https://vnexpress.net/ba-cach-tien-bac-co-the-huy-hoai-cuoc-song-4911313.html) - 02:59 08/07/2025
 - 🚦 [Người nước ngoài đổ xô theo trend &#39;Vietnam is calling&#39;](https://vnexpress.net/nguoi-nuoc-ngoai-do-xo-theo-trend-vietnam-is-calling-4910806.html) - 23:26 07/07/2025
 - 🦣 [Hành trình chàng trai mù trở thành triệu phú](https://vnexpress.net/hanh-trinh-chang-trai-mu-tro-thanh-trieu-phu-4911310.html) - 23:00 07/07/2025
