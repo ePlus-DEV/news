@@ -16,7 +16,7 @@ sidebar_position: 12
 - 🎬 [Cảnh sát khống chế kẻ giật vé số của cụ ông](https://vnexpress.net/canh-sat-khong-che-ke-giat-ve-so-cua-cu-ong-4911292.html) - 13:19 07/07/2025
 - 💯 [Vợ &#39;Mr Hunter&#39; Lê Khắc Ngọ bị bắt ở Thái Lan](https://vnexpress.net/vo-mr-hunter-le-khac-ngo-bi-bat-o-thai-lan-4911283.html) - 12:34 07/07/2025
 - 🌏 [5 người bị điều tra gây lãng phí 770 tỷ ở dự án Bệnh viện Bạch Mai 2 và Việt Đức 2](https://vnexpress.net/5-nguoi-bi-dieu-tra-gay-lang-phi-770-ty-dong-o-du-an-benh-vien-bach-mai-2-va-viet-duc-2-4910990.html) - 11:38 07/07/2025
-- 🌊 [Cựu phó chủ tịch TPBank Đỗ Anh Tú bị khởi tố](https://vnexpress.net/cuu-pho-chu-tich-tpbank-do-anh-tu-bi-khoi-to-4910982.html) - 11:15 07/07/2025
+- 🌊 [Cựu chủ tịch Chứng khoán Tiên Phong Đỗ Anh Tú bị khởi tố](https://vnexpress.net/cuu-pho-chu-tich-tpbank-do-anh-tu-bi-khoi-to-4910982.html) - 11:15 07/07/2025
 - 💂 [Hai cựu tổng giám đốc bảo hiểm PJICO bị bắt](https://vnexpress.net/hai-cuu-tong-giam-doc-bao-hiem-pjico-va-nhieu-nguoi-bi-bat-4910980.html) - 11:14 07/07/2025
 - 🎡 [Công bố quyết định đặc xá dịp 2/9 của Chủ tịch nước](https://vnexpress.net/cong-bo-quyet-dinh-dac-xa-dip-2-9-cua-chu-tich-nuoc-4911226.html) - 10:54 07/07/2025
 - 🫶 [Khởi tố vụ án &#39;lãng phí&#39; ở Bệnh viện Bạch Mai 2 và Việt Đức 2](https://vnexpress.net/5-nguoi-bi-khoi-to-do-lien-quan-vu-an-tai-benh-vien-bach-mai-2-va-viet-duc-2-4911198.html) - 09:04 07/07/2025
