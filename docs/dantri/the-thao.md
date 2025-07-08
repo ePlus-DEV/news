@@ -6,7 +6,7 @@ sidebar_position: 2
 <!-- dantri-the-thao:START -->
 - 🎡 [Lần đầu tiên, sự kiện &quot;Multi-sport&quot; quy mô lớn diễn ra tại Quảng Trị](https://dantri.com.vn/the-thao/lan-dau-tien-su-kien-multi-sport-quy-mo-lon-dien-ra-tai-quang-tri-20250708151107349.htm) - 09:10 08/07/2025
 - 💯 [VĐV lên tiếng sau pha bóng đặc biệt tại giải pickleball báo Dân trí](https://dantri.com.vn/the-thao/vdv-len-tieng-sau-pha-bong-dac-biet-tai-giai-pickleball-bao-dan-tri-20250708134749206.htm) - 08:45 08/07/2025
-- ⛽️ [Nhận định Fluminense vs Chelsea &lpar;2h ngày 9/4&rpar;: Vé chung kết đầu tiên](https://dantri.com.vn/the-thao/nhan-dinh-fluminense-vs-chelsea-2h-ngay-94-ve-chung-ket-dau-tien-20250708131549320.htm) - 06:17 08/07/2025
+- ⛽️ [Nhận định Fluminense vs Chelsea &lpar;2h ngày 9/7&rpar;: Vé chung kết đầu tiên](https://dantri.com.vn/the-thao/nhan-dinh-fluminense-vs-chelsea-2h-ngay-97-ve-chung-ket-dau-tien-20250708131549320.htm) - 06:17 08/07/2025
 - 💃 [Fluminense muốn &quot;chơi cờ vua&quot; với Chelsea](https://dantri.com.vn/the-thao/fluminense-muon-choi-co-vua-voi-chelsea-20250708122401902.htm) - 05:28 08/07/2025
 - 🌈 [CĐV PSG nổi giận, nghi ngờ FIFA “chống lưng” cho Real Madrid](https://dantri.com.vn/the-thao/cdv-psg-noi-gian-nghi-ngo-fifa-chong-lung-cho-real-madrid-20250708115943823.htm) - 05:01 08/07/2025
 - 🦅 [Cựu tuyển thủ Malaysia qua đời vì đột quỵ trên sân](https://dantri.com.vn/the-thao/cuu-tuyen-thu-malaysia-qua-doi-vi-dot-quy-tren-san-20250708091447008.htm) - 02:36 08/07/2025
