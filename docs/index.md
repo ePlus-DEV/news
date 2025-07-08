@@ -250,7 +250,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- nld:START -->
 - 🐎 [3 tổ công tác của Công an TP HCM đồng loạt khám xét 3 địa điểm](https://nld.com.vn/3-to-cong-tac-cua-cong-an-tp-hcm-dong-loat-kham-xet-3-dia-diem-19625070822262524.htm) - 15:35 08/07/2025
 - 😺 [Án mạng đau lòng ở Cà Mau](https://nld.com.vn/an-mang-dau-long-o-ca-mau-196250708201137561.htm) - 14:04 08/07/2025
-- 👍 [Vụ một người &quot;bị hút vào động cơ máy bay&quot; có ảnh hưởng đến chuyến bay của Việt Nam đi Ý?](https://nld.com.vn/vu-mot-nguoi-bi-hut-vao-dong-co-may-bay-co-anh-huong-den-chuyen-bay-cua-viet-nam-di-y-196250708210019134.htm) - 14:03 08/07/2025
+- 👍 [Vụ một người &quot;bị hút vào động cơ máy bay&quot; tại Ý có ảnh hưởng đến chuyến bay của Việt Nam?](https://nld.com.vn/vu-mot-nguoi-bi-hut-vao-dong-co-may-bay-co-anh-huong-den-chuyen-bay-cua-viet-nam-di-y-196250708210019134.htm) - 14:03 08/07/2025
 - 🥷 [2 cháu nhỏ 6 và 7 tuổi gặp nạn khi tắm biển Sầm Sơn](https://nld.com.vn/2-chau-nho-6-va-7-tuoi-gap-nan-khi-tam-bien-sam-son-196250708203924531.htm) - 13:57 08/07/2025
 - 🤔 [Hai người đàn ông &quot;may mắn&quot; sau khi bỏ quên tài sản ở TP HCM](https://nld.com.vn/hai-nguoi-dan-ong-may-man-sau-khi-bo-quen-tai-san-o-tp-hcm-196250703194822472.htm) - 13:35 08/07/2025
 - 🌈 [Đợt đặc xá dịp 2-9 có ý nghĩa đặc biệt, diện đối tượng được xem xét mở rộng hơn](https://nld.com.vn/dot-dac-xa-dip-2-9-co-y-nghia-dac-biet-dien-doi-tuong-duoc-xem-xet-mo-rong-hon-196250708202425632.htm) - 13:29 08/07/2025
