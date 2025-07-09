@@ -5,13 +5,13 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Thắng Real Madrid 4-0, PSG tiến vào chung kết FIFA Club World Cup 2025](https://dantri.com.vn/the-thao/thang-real-madrid-4-0-psg-tien-vao-chung-ket-fifa-club-world-cup-2025-20250710054059192.htm) - 22:41 09/07/2025
-- 💯 [Khai mạc Giải bóng đá Công an, Cảnh sát các nước ASEAN mở rộng 2025](https://dantri.com.vn/the-thao/khai-mac-giai-bong-da-cong-an-canh-sat-cac-nuoc-asean-mo-rong-2025-20250709222740793.htm) - 15:48 09/07/2025
-- ⛽️ [Sau đội tuyển nam, bóng đá nữ Malaysia muốn nhập tịch cầu thủ ồ ạt](https://dantri.com.vn/the-thao/sau-doi-tuyen-nam-bong-da-nu-malaysia-muon-nhap-tich-cau-thu-o-at-20250709150150722.htm) - 12:58 09/07/2025
-- 💃 [Bị Man Utd đối xử phũ phàng, Rashford có hành động bất ngờ](https://dantri.com.vn/the-thao/bi-man-utd-doi-xu-phu-phang-rashford-co-hanh-dong-bat-ngo-20250709193457166.htm) - 12:35 09/07/2025
-- 🌈 [Hướng dẫn cách VĐV tìm ảnh bằng khuôn mặt ở giải pickleball báo Dân trí](https://dantri.com.vn/the-thao/huong-dan-cach-vdv-tim-anh-bang-khuon-mat-o-giai-pickleball-bao-dan-tri-20250709160341857.htm) - 12:04 09/07/2025
-- 🦅 [Mbappe sụt cân đầy thảm thương, Real Madrid đưa ra yêu sách](https://dantri.com.vn/the-thao/mbappe-sut-can-day-tham-thuong-real-madrid-dua-ra-yeu-sach-20250709164208672.htm) - 12:01 09/07/2025
-- 🌝 [Sứ mệnh phụng sự của bầu Hiển](https://dantri.com.vn/the-thao/su-menh-phung-su-cua-bau-hien-20250709170302952.htm) - 10:19 09/07/2025
-- 🚀 [VĐV tài năng, xinh đẹp tiết lộ bí quyết vô địch giải pickleball Dân trí](https://dantri.com.vn/the-thao/vdv-tai-nang-xinh-dep-tiet-lo-bi-quyet-vo-dich-giai-pickleball-dan-tri-20250709140118550.htm) - 07:38 09/07/2025
+- 💯 [VĐV tài năng, xinh đẹp tiết lộ bí quyết vô địch giải pickleball Dân trí](https://dantri.com.vn/the-thao/vdv-tai-nang-xinh-dep-tiet-lo-bi-quyet-vo-dich-giai-pickleball-dan-tri-20250709140118550.htm) - 17:38 09/07/2025
+- ⛽️ [Khai mạc Giải bóng đá Công an, Cảnh sát các nước ASEAN mở rộng 2025](https://dantri.com.vn/the-thao/khai-mac-giai-bong-da-cong-an-canh-sat-cac-nuoc-asean-mo-rong-2025-20250709222740793.htm) - 15:48 09/07/2025
+- 💃 [Sau đội tuyển nam, bóng đá nữ Malaysia muốn nhập tịch cầu thủ ồ ạt](https://dantri.com.vn/the-thao/sau-doi-tuyen-nam-bong-da-nu-malaysia-muon-nhap-tich-cau-thu-o-at-20250709150150722.htm) - 12:58 09/07/2025
+- 🌈 [Bị Man Utd đối xử phũ phàng, Rashford có hành động bất ngờ](https://dantri.com.vn/the-thao/bi-man-utd-doi-xu-phu-phang-rashford-co-hanh-dong-bat-ngo-20250709193457166.htm) - 12:35 09/07/2025
+- 🦅 [Hướng dẫn cách VĐV tìm ảnh bằng khuôn mặt ở giải pickleball báo Dân trí](https://dantri.com.vn/the-thao/huong-dan-cach-vdv-tim-anh-bang-khuon-mat-o-giai-pickleball-bao-dan-tri-20250709160341857.htm) - 12:04 09/07/2025
+- 🌝 [Mbappe sụt cân đầy thảm thương, Real Madrid đưa ra yêu sách](https://dantri.com.vn/the-thao/mbappe-sut-can-day-tham-thuong-real-madrid-dua-ra-yeu-sach-20250709164208672.htm) - 12:01 09/07/2025
+- 🚀 [Sứ mệnh phụng sự của bầu Hiển](https://dantri.com.vn/the-thao/su-menh-phung-su-cua-bau-hien-20250709170302952.htm) - 10:19 09/07/2025
 - 🎉 [Nhận định PSG vs Real Madrid &lpar;2h ngày 10/7&rpar;: Mbappe liệu có “sáng mắt”?](https://dantri.com.vn/the-thao/nhan-dinh-psg-vs-real-madrid-2h-ngay-107-mbappe-lieu-co-sang-mat-20250709121619498.htm) - 05:18 09/07/2025
 - 📝 [Cảnh sát tiết lộ tình tiết quan trọng về cái chết thương tâm của Diogo Jota](https://dantri.com.vn/the-thao/canh-sat-tiet-lo-tinh-tiet-quan-trong-ve-cai-chet-thuong-tam-cua-diogo-jota-20250709114716239.htm) - 05:00 09/07/2025
 - 🦄 [Trọng tài bẻ còi từ chối phạt đền gây phẫn nộ trong chiến thắng của Chelsea](https://dantri.com.vn/the-thao/trong-tai-be-coi-tu-choi-phat-den-gay-phan-no-trong-chien-thang-cua-chelsea-20250709092353349.htm) - 02:23 09/07/2025
