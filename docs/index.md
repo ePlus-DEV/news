@@ -33,7 +33,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧐 [Loại virus có thể làm tăng 5 lần nguy cơ ung thư](https://vnexpress.net/loai-virus-co-the-lam-tang-5-lan-nguy-co-ung-thu-4912157.html) - 19:00 09/07/2025
 - 💫 [Hà Nội chi 3.000 tỷ đồng hỗ trợ bữa trưa cho học sinh tiểu học](https://vnexpress.net/ha-noi-chi-3-000-ty-dong-ho-tro-bua-trua-cho-hoc-sinh-tieu-hoc-4912215.html) - 18:18 09/07/2025
 - 😺 [6 món nên hạn chế khi axit uric cao](https://vnexpress.net/suc-khoe-cam-nang-6-mon-nen-han-che-khi-axit-uric-cao-4911567.html) - 18:01 09/07/2025
-- 🕯 [PSG vùi dập Real ở bán kết FIFA Club World Cup](https://vnexpress.net/truc-tiep-tran-psg-vs-real-madrid-tai-ban-ket-fifa-club-world-cup-2025-4912222.html) - 18:00 09/07/2025
+- 🕯 [PSG vùi dập Real ở bán kết FIFA Club World Cup](https://vnexpress.net/truc-tiep-tran-psg-vs-real-madrid-tai-ban-ket-fifa-club-world-cup-2025-4912222-tong-thuat.html) - 18:00 09/07/2025
 - 💃 [Đưa bếp vào trung tâm căn hộ 61 m2 với 200 triệu đồng](https://vnexpress.net/dua-bep-vao-trung-tam-can-ho-61-m2-voi-200-trieu-dong-4912219.html) - 17:41 09/07/2025
 - 💂 [Hà Nội miễn tiền thuê đất đến 30 năm cho nhiều dự án sản xuất](https://vnexpress.net/ha-noi-mien-tien-thue-dat-den-30-nam-cho-nhieu-du-an-san-xuat-4912225.html) - 17:30 09/07/2025
 - 🎊 [Vốn hóa Nvidia cán mốc 4.000 tỷ USD](https://vnexpress.net/von-hoa-nvidia-can-moc-4-000-ty-usd-4912235.html) - 17:15 09/07/2025
