@@ -12,7 +12,7 @@ sidebar_position: 5
 - 🦣 [Tiền đạo La Liga hai lần thắng ung thư](https://vnexpress.net/tien-dao-la-liga-hai-lan-thang-ung-thu-4911827.html) - 01:11 09/07/2025
 - 🌜 [Bale tán dương &#39;người hùng&#39; của Chelsea](https://vnexpress.net/bale-tan-duong-nguoi-hung-cua-chelsea-4911824.html) - 01:03 09/07/2025
 - 🫶 [Khi đường chạy trở thành sàn diễn tại Tuần lễ Thời trang Paris](https://vnexpress.net/khi-duong-chay-tro-thanh-san-dien-tai-tuan-le-thoi-trang-paris-4911788.html) - 22:48 08/07/2025
-- 🌜 [Xe của Diogo Jota chạy quá tốc độ trước khi tử nạn](https://vnexpress.net/nguyen-nhan-tai-nan-khien-diogo-jota-tu-vong-4911820.html) - 22:43 08/07/2025
+- 🌜 [Xe của Diogo Jota chạy quá tốc độ trước khi gặp nạn](https://vnexpress.net/nguyen-nhan-tai-nan-khien-diogo-jota-tu-vong-4911820.html) - 22:43 08/07/2025
 - 😺 [Tổng thống Trump sẽ dự khán chung kết FIFA Club World Cup](https://vnexpress.net/tong-thong-trump-se-du-khan-chung-ket-fifa-club-world-cup-4911818.html) - 22:35 08/07/2025
 - 👍 [Võ sĩ Myanmar gây sốt tại UFC](https://vnexpress.net/vo-si-myanmar-gay-sot-tai-ufc-4911792.html) - 22:16 08/07/2025
 - 🐵 [Federer gặp riêng Djokovic tại Wimbledon](https://vnexpress.net/federer-gap-rieng-djokovic-tai-wimbledon-4911812.html) - 22:09 08/07/2025
