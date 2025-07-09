@@ -530,7 +530,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Trực tiếp bán kết FIFA Club World Cup 2025: PSG đấu Real Madrid](https://muctim.tuoitre.vn/truc-tiep-ban-ket-fifa-club-world-cup-2025-psg-dau-real-madrid-101250709214854617.htm) - 18:35 09/07/2025
+- 🤔 [Trực tiếp bán kết FIFA Club World Cup 2025: PSG vs Real Madrid 3-0 &lpar;hiệp 2&rpar;](https://muctim.tuoitre.vn/truc-tiep-ban-ket-fifa-club-world-cup-2025-psg-dau-real-madrid-101250709214854617.htm) - 18:35 09/07/2025
 - 🥷 [Món quà tặng ngoại từ thủ khoa lớp 10 Trường THPT Phước Kiển](https://muctim.tuoitre.vn/mon-qua-tang-ngoai-tu-thu-khoa-lop-10-truong-thpt-phuoc-kien-101250709173737423.htm) - 15:26 09/07/2025
 - 🤖 [YoonA sánh đôi Ahn Bo Hyun; Han So Hee ra mắt light stick](https://muctim.tuoitre.vn/yoona-sanh-doi-ahn-bo-hyun-han-so-hee-ra-mat-light-stick-101250709173434746.htm) - 13:58 09/07/2025
 - 🤓 [Tuyển bóng chuyền nam Việt Nam thua Philippines tại SEA V.League 2025](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nam-sea-vleague-2025-viet-nam-philippines-101250709153658308.htm) - 10:55 09/07/2025
