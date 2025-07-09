@@ -215,7 +215,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp bóng đá PSG 3-0 Real Madrid: Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-psg-3-0-real-madrid-hiep-2-1537790.ldo) - 17:27 09/07/2025
+- 🗽 [PSG thắng đậm Real Madrid, vào chung kết FIFA Club World Cup 2025](https://laodong.vn/bong-da-quoc-te/psg-thang-dam-real-madrid-vao-chung-ket-fifa-club-world-cup-2025-1537790.ldo) - 17:27 09/07/2025
 - 📝 [Giám đốc Công an Hà Nội ra yêu cầu với Công an cấp xã mới](https://laodong.vn/thoi-su/giam-doc-cong-an-ha-noi-ra-yeu-cau-voi-cong-an-cap-xa-moi-1537776.ldo) - 16:23 09/07/2025
 - 🦏 [Bộ trưởng Bộ Quốc phòng chủ trì Hội nghị bàn giao chức vụ Tư lệnh Quân khu 7](https://laodong.vn/thoi-su/bo-truong-bo-quoc-phong-chu-tri-hoi-nghi-ban-giao-chuc-vu-tu-lenh-quan-khu-7-1537768.ldo) - 16:21 09/07/2025
 - 🦩 [Đội CAND Việt Nam II thắng Australia 10-3 ở giải bóng đá Công an, Cảnh sát ASEAN](https://laodong.vn/bong-da/doi-cand-viet-nam-ii-thang-australia-10-3-o-giai-bong-da-cong-an-canh-sat-asean-1537766.ldo) - 15:53 09/07/2025
