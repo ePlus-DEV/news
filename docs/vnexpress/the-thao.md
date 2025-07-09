@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [PSG 0-0 Real &lpar;H1&rpar;: Thế trận đôi công](https://vnexpress.net/truc-tiep-tran-psg-vs-real-madrid-tai-ban-ket-fifa-club-world-cup-2025-4912222.html) - 18:00 09/07/2025
+- 🪜 [PSG 2-0 Real &lpar;H1&rpar;: Hai bàn thắng chóng vánh](https://vnexpress.net/truc-tiep-tran-psg-vs-real-madrid-tai-ban-ket-fifa-club-world-cup-2025-4912222.html) - 18:00 09/07/2025
 - 🦩 [Đồ ăn hỏng khiến Mbappe nhập viện và sụt 5 kg](https://vnexpress.net/do-an-hong-khien-mbappe-nhap-vien-va-sut-5-kg-4912153.html) - 13:25 09/07/2025
 - 🧰 [Ousmane Dembele và những &#39;tiền đạo cánh ảo&#39; của Luis Enrique](https://vnexpress.net/ousmane-dembele-va-nhung-tien-dao-canh-ao-cua-luis-enrique-4911574.html) - 13:22 09/07/2025
 - 🤗 [Giải mật thể thao: Sự biến ảo của Real dưới thời Xabi Alonso](https://vnexpress.net/giai-mat-the-thao-su-bien-ao-cua-real-duoi-thoi-xabi-alonso-4912208.html) - 13:00 09/07/2025
