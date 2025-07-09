@@ -521,7 +521,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Trực tiếp bóng chuyền nam SEA V.League 2025: Việt Nam - Philippines](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nam-sea-vleague-2025-viet-nam-philippines-101250709153658308.htm) - 10:55 09/07/2025
+- 🤔 [Tuyển bóng chuyền nam Việt Nam thua Philippines tại SEA V.League 2025](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nam-sea-vleague-2025-viet-nam-philippines-101250709153658308.htm) - 10:55 09/07/2025
 - 🥷 [Lịch thi đấu U23 Việt Nam tại Giải U23 Đông Nam Á 2025](https://muctim.tuoitre.vn/lich-thi-dau-u23-viet-nam-tai-giai-u23-dong-nam-a-2025-101250709140301277.htm) - 09:06 09/07/2025
 - 🤖 [Mùa hè tưng bừng của đội viên, thiếu nhi thành phố](https://muctim.tuoitre.vn/mua-he-tung-bung-cua-doi-vien-thieu-nhi-thanh-pho-101250708103933602.htm) - 07:04 09/07/2025
 - 🤓 [Nhóm học sinh Trường THCS &amp; THPT Trần Đại Nghĩa sáng tạo phần mềm giúp người khiếm thị học tập](https://muctim.tuoitre.vn/nhom-hoc-sinh-truong-thcs-thpt-tran-dai-nghia-sang-tao-phan-mem-giup-nguoi-khiem-thi-hoc-tap-101250708154003794.htm) - 06:41 09/07/2025
