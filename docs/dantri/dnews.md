@@ -4,10 +4,10 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Chủ tịch Cần Thơ chia sẻ về “người kể chuyện tử tế” giữa đời thường](https://dantri.com.vn/xa-hoi/chu-tich-can-tho-chia-se-ve-nguoi-ke-chuyen-tu-te-giua-doi-thuong-20250620130636328.htm) - 22:00 09/07/2025
-- 🌈 [Samsung tung ra cùng lúc 3 điện thoại màn hình gập](https://dantri.com.vn/cong-nghe/samsung-tung-ra-cung-luc-3-dien-thoai-man-hinh-gap-20250709191202574.htm) - 14:59 09/07/2025
-- 🐎 [Hợp luyện diễu binh: Mẹ nấu chè tiếp sức cho con, người dân đội nắng xem](https://dantri.com.vn/doi-song/hop-luyen-dieu-binh-me-nau-che-tiep-suc-cho-con-nguoi-dan-doi-nang-xem-20250709151813170.htm) - 08:22 09/07/2025
-- 👹 [VĐV tài năng, xinh đẹp tiết lộ bí quyết vô địch giải pickleball Dân trí](https://dantri.com.vn/the-thao/vdv-tai-nang-xinh-dep-tiet-lo-bi-quyet-vo-dich-giai-pickleball-dan-tri-20250709140118550.htm) - 07:38 09/07/2025
+- 🤠 [Phó Bí thư Cần Thơ chia sẻ về “người kể chuyện tử tế” giữa đời thường](https://dantri.com.vn/xa-hoi/pho-bi-thu-can-tho-chia-se-ve-nguoi-ke-chuyen-tu-te-giua-doi-thuong-20250620130636328.htm) - 22:00 09/07/2025
+- 🌈 [VĐV tài năng, xinh đẹp tiết lộ bí quyết vô địch giải pickleball Dân trí](https://dantri.com.vn/the-thao/vdv-tai-nang-xinh-dep-tiet-lo-bi-quyet-vo-dich-giai-pickleball-dan-tri-20250709140118550.htm) - 17:38 09/07/2025
+- 🐎 [Samsung tung ra cùng lúc 3 điện thoại màn hình gập](https://dantri.com.vn/cong-nghe/samsung-tung-ra-cung-luc-3-dien-thoai-man-hinh-gap-20250709191202574.htm) - 14:59 09/07/2025
+- 👹 [Hợp luyện diễu binh: Mẹ nấu chè tiếp sức cho con, người dân đội nắng xem](https://dantri.com.vn/doi-song/hop-luyen-dieu-binh-me-nau-che-tiep-suc-cho-con-nguoi-dan-doi-nang-xem-20250709151813170.htm) - 08:22 09/07/2025
 - 🫶 [Nhóm dự án &quot;cầm đèn đỏ&quot; trong cuộc đua 3.000km cao tốc cuối năm nay](https://dantri.com.vn/xa-hoi/nhom-du-an-cam-den-do-trong-cuoc-dua-3000km-cao-toc-cuoi-nam-nay-20250627112546302.htm) - 05:58 09/07/2025
 - ⛽️ [Bí quyết của 4 thầy cô chủ nhiệm có 100% học sinh đỗ chuyên ở Hà Nội](https://dantri.com.vn/giao-duc/bi-quyet-cua-4-thay-co-chu-nhiem-co-100-hoc-sinh-do-chuyen-o-ha-noi-20250709071904912.htm) - 02:47 09/07/2025
 - 🌜 [Giấc mơ điện xanh phủ bóng xám: Gỡ vướng ra sao?](https://dantri.com.vn/kinh-doanh/giac-mo-dien-xanh-phu-bong-xam-go-vuong-ra-sao-20250707201311825.htm) - 01:09 09/07/2025
