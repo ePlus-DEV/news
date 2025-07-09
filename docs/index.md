@@ -257,7 +257,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [TP HCM sẽ đổi tên 24 bệnh viện](https://nld.com.vn/tp-hcm-se-doi-ten-24-benh-vien-19625070921171128.htm) - 14:53 09/07/2025
-- 😺 [Cuộc hội ngộ của nước mắt của ca sĩ Quang Bình và Phương Giao](https://nld.com.vn/cuoc-hoi-ngo-cua-nuoc-mat-cua-ca-si-quang-binh-va-phuong-giao-196250709190037849.htm) - 13:49 09/07/2025
+- 😺 [Cuộc hội ngộ đầy nước mắt của ca sĩ Quang Bình và Phương Giao](https://nld.com.vn/cuoc-hoi-ngo-day-nuoc-mat-cua-ca-si-quang-binh-va-phuong-giao-196250709190037849.htm) - 13:49 09/07/2025
 - 👍 [Sức khỏe 2 nạn nhân vụ tai nạn trên tuyến cao tốc Vĩnh Hảo - Dầu Giây](https://nld.com.vn/suc-khoe-2-nan-nhan-vu-tai-nan-tren-tuyen-cao-toc-vinh-hao-dau-giay-196250709192629184.htm) - 13:48 09/07/2025
 - 🥷 [Tập đoàn Hòa Phát đầu tư KCN gần 3.400 tỉ đồng tại Hải Phòng](https://nld.com.vn/tap-doan-hoa-phat-dau-tu-kcn-gan-3400-ti-dong-tai-hai-phong-196250709185949412.htm) - 13:31 09/07/2025
 - 🤔 [Tạo đột phá, nâng tầm du lịch Quảng Ngãi sau sáp nhập](https://nld.com.vn/tao-dot-pha-nang-tam-du-lich-quang-ngai-sau-sap-nhap-196250709192021042.htm) - 13:28 09/07/2025
