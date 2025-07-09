@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Phương Linh: &#39;Tôi rèn được sự bền bỉ khi du học Mỹ&#39;](https://vnexpress.net/phuong-linh-toi-ren-duoc-su-ben-bi-khi-du-hoc-my-4908069.html) - 17:00 08/07/2025
+- 🌏 [Hoa hậu Phương Linh: &#39;Tôi rèn được sự bền bỉ khi du học Mỹ&#39;](https://vnexpress.net/hoa-hau-phuong-linh-toi-ren-duoc-su-ben-bi-khi-du-hoc-my-4908069.html) - 17:00 08/07/2025
 - 💫 [Phong cách &#39;xa xỉ lười biếng&#39;](https://vnexpress.net/phong-cach-xa-xi-luoi-bieng-4911518.html) - 13:39 08/07/2025
 - 🌮 [&#39;The Old Guard 2&#39; - dấu ấn Hollywood của Ngô Thanh Vân](https://vnexpress.net/giai-tri/phim/thu-vien-phim/the-old-guard-2-820) - 12:00 08/07/2025
 - 🧠 [Tài tử 75 tuổi đón bạn gái ra tù](https://vnexpress.net/tai-tu-75-tuoi-don-ban-gai-ra-tu-4911584.html) - 08:42 08/07/2025
