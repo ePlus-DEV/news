@@ -592,7 +592,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Hoa Học Trò
 <!-- hoahoctro:START -->
-- 💼 [Trực tiếp bán kết FIFA Club World Cup PSG vs Real Madrid 0-0 &lpar;H1&rpar;: Hiệp 1 bắt đầu](https://tienphong.vn/truc-tiep-ban-ket-fifa-club-world-cup-psg-vs-real-madrid-0-0-h1-hiep-1-bat-dau-post1758932.tpo) - 00:09 10/07/2025
+- 💼 [Trực tiếp bán kết FIFA Club World Cup PSG vs Real Madrid 3-0 &lpar;Hết H1&rpar;: Fabian lập cú &quot;đúp&quot;!](https://tienphong.vn/truc-tiep-ban-ket-fifa-club-world-cup-psg-vs-real-madrid-3-0-het-h1-fabian-lap-cu-dup-post1758932.tpo) - 00:09 10/07/2025
 - 🎊 [Xây tượng đài tri ân quân nhân nước ngoài, mời 5 nước diễu binh dịp 2/9](https://tienphong.vn/xay-tuong-dai-tri-an-quan-nhan-nuoc-ngoai-moi-5-nuoc-dieu-binh-dip-29-post1758934.tpo) - 22:26 09/07/2025
 - 💼 [Diva Hồng Nhung: &#39;Đi qua biến cố, tôi thành người khác&#39;](https://tienphong.vn/diva-hong-nhung-di-qua-bien-co-toi-thanh-nguoi-khac-post1758931.tpo) - 22:16 09/07/2025
 - 👺 [Đại tướng Phan Văn Giang chủ trì lễ bàn giao chức vụ Tư lệnh Quân khu 7](https://tienphong.vn/dai-tuong-phan-van-giang-chu-tri-le-ban-giao-chuc-vu-tu-lenh-quan-khu-7-post1758930.tpo) - 21:52 09/07/2025
