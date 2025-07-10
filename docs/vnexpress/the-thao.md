@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Báo Tây Ban Nha: &#39;Mbappe, Vinicus gặp vấn đề&#39;](https://vnexpress.net/bao-tay-ban-nha-mbappe-vinicus-gap-van-de-4912617.html) - 09:53 10/07/2025
+- 🪜 [Báo Tây Ban Nha: &#39;Mbappe, Vinicius gặp vấn đề&#39;](https://vnexpress.net/bao-tay-ban-nha-mbappe-vinicius-gap-van-de-4912617.html) - 09:53 10/07/2025
 - 🦩 [Lyon trở lại Ligue 1 sau hai tuần bị đánh tụt hạng](https://vnexpress.net/lyon-tro-lai-ligue-1-sau-hai-tuan-bi-danh-tut-hang-4912560.html) - 09:39 10/07/2025
 - 🧰 [Mẹ một con tranh vé chung kết Wimbledon](https://vnexpress.net/me-mot-con-tranh-ve-chung-ket-wimbledon-4912616.html) - 09:38 10/07/2025
 - 🤗 [Thanh Hóa đàm phán với cựu trợ lý tuyển Việt Nam](https://vnexpress.net/thanh-hoa-dam-phan-voi-cuu-tro-ly-tuyen-viet-nam-4912557.html) - 08:33 10/07/2025
