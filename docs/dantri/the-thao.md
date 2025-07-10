@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Đội tuyển Việt Nam đón tin buồn từ FIFA](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-don-tin-buon-tu-fifa-20250710181427952.htm) - 11:14 10/07/2025
+- 🎡 [Đội tuyển Việt Nam đón tin buồn từ FIFA, rơi vào tình cảnh đáng lo](https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-don-tin-buon-tu-fifa-roi-vao-tinh-canh-dang-lo-20250710181427952.htm) - 11:30 10/07/2025
 - 💯 [Xuất hiện nhân chứng lật ngược tuyên bố của cảnh sát ở vụ Jota qua đời](https://dantri.com.vn/the-thao/xuat-hien-nhan-chung-lat-nguoc-tuyen-bo-cua-canh-sat-o-vu-jota-qua-doi-20250710133957565.htm) - 07:09 10/07/2025
 - ⛽️ [VĐV xe đạp từ chối lên bục nhận huy chương vì lý do đặc biệt](https://dantri.com.vn/the-thao/vdv-xe-dap-tu-choi-len-buc-nhan-huy-chuong-vi-ly-do-dac-biet-20250710125032016.htm) - 05:50 10/07/2025
 - 💃 [“Gã khổng lồ” bóng đá Pháp thoát xuống hạng thần kỳ, PSG vung tiền cứu vớt?](https://dantri.com.vn/the-thao/ga-khong-lo-bong-da-phap-thoat-xuong-hang-than-ky-psg-vung-tien-cuu-vot-20250710102330644.htm) - 03:23 10/07/2025
