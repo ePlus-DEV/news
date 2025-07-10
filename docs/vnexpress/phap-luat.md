@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Lĩnh hơn 10 năm tù vì lén làm tình nhân sảy thai](https://vnexpress.net/linh-10-nam-tu-vi-len-lam-tinh-nhan-say-thai-4912425.html) - 08:16 10/07/2025
+- 😎 [Lĩnh hơn 10 năm tù vì lén làm tình nhân sảy thai](https://vnexpress.net/linh-hon-10-nam-tu-vi-len-lam-tinh-nhan-say-thai-4912425.html) - 08:16 10/07/2025
 - 🥰 [Bị phạt hơn 12 triệu đồng vì dùng gậy đánh vợ](https://vnexpress.net/bi-phat-hon-12-trieu-dong-vi-dung-gay-danh-vo-4912529.html) - 08:15 10/07/2025
 - 🎓 [Bắt đường dây sản xuất pháo lậu liên tỉnh](https://video.vnexpress.net/bat-duong-day-san-xuat-phao-lau-lien-tinh-4912503.html) - 07:38 10/07/2025
 - 🤓 [Ca sĩ thần tượng NCT bị phạt tù về tội hiếp dâm](https://vnexpress.net/ca-si-than-tuong-nct-taeil-bi-phat-tu-vi-toi-hiep-dam-4912481.html) - 07:25 10/07/2025
