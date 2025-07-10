@@ -4,7 +4,7 @@ sidebar_position: 12
 ---
 
 <!-- vnexpress-phap-luat:START -->
-- 😎 [Vụ bê bối hai MC giả Thái tử Anh gọi điện thoại tới bệnh viện](https://vnexpress.net/vu-be-boi-hai-mc-gia-thai-tu-anh-goi-dien-thoai-toi-benh-vien-4912610.html) - 10:50 10/07/2025
+- 😎 [Vụ bê bối MC giả Thái tử Anh gọi điện thoại tới bệnh viện](https://vnexpress.net/vu-be-boi-mc-gia-thai-tu-anh-goi-dien-thoai-toi-benh-vien-4912610.html) - 10:50 10/07/2025
 - 🥰 [Lĩnh hơn 10 năm tù vì lén làm tình nhân sảy thai](https://vnexpress.net/linh-hon-10-nam-tu-vi-len-lam-tinh-nhan-say-thai-4912425.html) - 08:16 10/07/2025
 - 🎓 [Bị phạt hơn 12 triệu đồng vì dùng gậy đánh vợ](https://vnexpress.net/bi-phat-hon-12-trieu-dong-vi-dung-gay-danh-vo-4912529.html) - 08:15 10/07/2025
 - 🤓 [Bắt đường dây sản xuất pháo lậu liên tỉnh](https://video.vnexpress.net/bat-duong-day-san-xuat-phao-lau-lien-tinh-4912503.html) - 07:38 10/07/2025
