@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Giải VĐQG Malaysia bị nghi ưu ái đội giàu khi dùng 15 ngoại binh](https://vnexpress.net/giai-vdqg-malaysia-bi-nghi-uu-ai-doi-giau-khi-dung-15-ngoai-binh-4913114.html) - 17:00 11/07/2025
-- 🦩 [Sinner thắng dễ Djokovic ở bán kết Wimbledon](https://vnexpress.net/truc-tiep-djokovic-vs-sinner-4913181.html) - 15:30 11/07/2025
+- 🦩 [Sinner thắng dễ Djokovic ở bán kết Wimbledon](https://vnexpress.net/ket-qua-djokovic-vs-sinner-4913181.html) - 15:30 11/07/2025
 - 🧰 [Kỷ lục 3.000 người đăng ký 42km tại VM Hải Phòng](https://vnexpress.net/ky-luc-3-000-nguoi-dang-ky-42km-tai-vm-hai-phong-4912788.html) - 09:30 11/07/2025
 - 🤗 [Modric chọn Champions League 2014 quan trọng nhất sự nghiệp](https://vnexpress.net/modric-chon-champions-league-2014-quan-trong-nhat-su-nghiep-4913011.html) - 09:27 11/07/2025
 - 🥳 [Alcaraz được HLV đánh giá có mùa giải phi thường](https://vnexpress.net/alcaraz-duoc-hlv-danh-gia-co-mua-giai-phi-thuong-4913065.html) - 09:21 11/07/2025
