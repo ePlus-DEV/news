@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Hàng loạt hộ dân dỡ &#39;chuồng cọp&#39; ở cư xá sau vụ cháy làm 8 người chết](https://vnexpress.net/hang-loat-ho-dan-do-chuong-cop-o-cu-xa-sau-vu-chay-lam-8-nguoi-chet-4912699.html) - 23:00 10/07/2025
-- 🤓 [&#39;Đánh giá công chức bằng KPI nâng cao hiệu quả công việc&#39;](https://vnexpress.net/danh-gia-cong-chuc-bang-kpi-nang-cao-hieu-qua-cong-viec-4903721.html) - 22:00 10/07/2025
+- 🤓 [&#39;Phá điểm nghẽn đánh giá cán bộ khi áp dụng KPI&#39;](https://vnexpress.net/pha-diem-nghen-danh-gia-can-bo-khi-ap-dung-kpi-4903721.html) - 22:00 10/07/2025
 - ⚗️ [Thủ tướng yêu cầu tạo điều kiện tốt nhất cho nhà ngoại giao nữ cống hiến](https://vnexpress.net/thu-tuong-yeu-cau-tao-dieu-kien-tot-nhat-cho-nha-ngoai-giao-nu-cong-hien-4912724.html) - 18:49 10/07/2025
 - 🌊 [Ước mơ sum vầy của nữ sinh không nhà](https://vnexpress.net/uoc-mo-sum-vay-cua-nu-sinh-khong-nha-4910681.html) - 17:25 10/07/2025
 - 🎓 [Tháp bà Ponagar là di tích quốc gia đặc biệt](https://vnexpress.net/thap-ba-ponagar-la-di-tich-quoc-gia-dac-biet-4912700.html) - 17:00 10/07/2025
