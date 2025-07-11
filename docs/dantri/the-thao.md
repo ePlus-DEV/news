@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Alcaraz năm thứ 3 liên tiếp vào chung kết Wimbledon](https://dantri.com.vn/the-thao/alcaraz-nam-thu-3-lien-tiep-vao-chung-ket-wimbledon-20250711230124418.htm) - 16:01 11/07/2025
+- 🎡 [Alcaraz năm thứ 3 liên tiếp vào chung kết Wimbledon](https://dantri.com.vn/the-thao/alcaraz-nam-thu-3-lien-tiep-vao-chung-ket-wimbledon-20250711230124418.htm) - 18:01 11/07/2025
 - 💯 [Nhà vô địch giải pickleball Dân trí tiết lộ bí quyết hạ hai ngôi sao lớn](https://dantri.com.vn/the-thao/nha-vo-dich-giai-pickleball-dan-tri-tiet-lo-bi-quyet-ha-hai-ngoi-sao-lon-20250711113242700.htm) - 11:08 11/07/2025
 - ⛽️ [FIFA Club World Cup: PSG giống như “ngáo ộp”, sự thật phũ phàng về Mbappe](https://dantri.com.vn/the-thao/fifa-club-world-cup-psg-giong-nhu-ngao-op-su-that-phu-phang-ve-mbappe-20250710230944700.htm) - 05:00 11/07/2025
 - 💃 [Báo Đông Nam Á bình luận việc đội tuyển Việt Nam tụt hạng FIFA](https://dantri.com.vn/the-thao/bao-dong-nam-a-binh-luan-viec-doi-tuyen-viet-nam-tut-hang-fifa-20250710225454784.htm) - 04:11 11/07/2025
