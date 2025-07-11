@@ -25,7 +25,7 @@ sidebar_position: 9
 - 💪 [Xông vào nhà đâm chết gia chủ](https://vnexpress.net/xong-vao-nha-dam-chet-gia-chu-4913214.html) - 15:52 11/07/2025
 - 🎓 [Phương Mỹ Chi đưa điệu vọng cổ lên sân khấu &#39;Sing! Asia&#39;](https://vnexpress.net/phuong-my-chi-dua-dieu-vong-co-len-san-khau-sing-asia-4912889.html) - 15:39 11/07/2025
 - 🫣 [Thủ tướng: Việt Nam đang và sẽ cải cách hơn nữa](https://vnexpress.net/thu-tuong-viet-nam-dang-va-se-cai-cach-hon-nua-4913202.html) - 15:35 11/07/2025
-- 🧑‍💻 [Djokovic 3-6, 3-6, 3-4* Sinner &lpar;set 3&rpar;: Nole thua liền bốn game](https://vnexpress.net/truc-tiep-djokovic-vs-sinner-4913181.html) - 15:30 11/07/2025
+- 🧑‍💻 [Sinner thắng dễ Djokovic ở bán kết Wimbledon](https://vnexpress.net/truc-tiep-djokovic-vs-sinner-4913181.html) - 15:30 11/07/2025
 - 🐲 [Việt Nam hỗ trợ 350.000 USD cho người Palestine](https://vnexpress.net/viet-nam-ho-tro-350-000-usd-cho-nguoi-palestine-4913201.html) - 15:19 11/07/2025
 - 🌝 [Nhà máy đồ uống đầu tiên tại Việt Nam đạt chuẩn xanh LEED Gold](https://vnexpress.net/nha-may-do-uong-dau-tien-tai-viet-nam-dat-chuan-xanh-leed-gold-4913085.html) - 15:15 11/07/2025
 - 😺 [Cán bộ thiếu tiêu chuẩn lý luận vẫn được làm lãnh đạo xã](https://vnexpress.net/can-bo-thieu-tieu-chuan-ly-luan-van-duoc-lam-lanh-dao-xa-4913190.html) - 15:03 11/07/2025
