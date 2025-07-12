@@ -4,59 +4,59 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Tiến Truyển lần đầu tham gia Tuần thời trang cao cấp Paris](https://vnexpress.net/tien-truyen-lan-dau-tham-gia-tuan-thoi-trang-cao-cap-paris-4913328.html) - 03:08 12/07/2025
-- 💫 [&#39;Superman&#39; - siêu anh hùng vấp ngã](https://vnexpress.net/giai-tri/phim/thu-vien-phim/superman-822) - 02:39 12/07/2025
-- 🌮 [Phong cách minh tinh &#39;Bến Thượng Hải&#39;](https://vnexpress.net/phong-cach-minh-tinh-ben-thuong-hai-4913080.html) - 01:47 12/07/2025
-- 🧠 [Hồng Đào áy náy vì làm Tuấn Trần bị thương khi diễn](https://vnexpress.net/hong-dao-ay-nay-vi-lam-tuan-tran-bi-thuong-khi-dien-4912965.html) - 00:58 12/07/2025
-- 👨‍🏫 [Tuổi già bình lặng của nghệ sĩ Văn Toản](https://vnexpress.net/tuoi-gia-binh-lang-cua-nghe-si-van-toan-4910461.html) - 17:00 11/07/2025
-- ⚗️ [Phương Mỹ Chi đưa điệu vọng cổ lên sân khấu &#39;Sing! Asia&#39;](https://vnexpress.net/phuong-my-chi-dua-dieu-vong-co-len-san-khau-sing-asia-4912889.html) - 15:39 11/07/2025
-- 😎 [Mẫu &#39;áo tắm Tôn Ngộ Không&#39; cháy hàng](https://vnexpress.net/mau-ao-tam-ton-ngo-khong-chay-hang-4912896.html) - 13:00 11/07/2025
-- 🫣 [BST trang sức lấy cảm hứng từ thiên nhiên của Chaumet](https://vnexpress.net/bst-trang-suc-lay-cam-hung-tu-thien-nhien-cua-chaumet-4912644.html) - 12:00 11/07/2025
-- 🪄 [Mỹ nhân &#39;Reply 1988&#39; đến TP HCM](https://vnexpress.net/my-nhan-reply-1988-den-tp-hcm-4913146.html) - 11:56 11/07/2025
-- 🤓 [Ra mắt phần hai sách &#39;Totto-chan bên cửa sổ&#39;](https://vnexpress.net/ra-mat-phan-hai-sach-totto-chan-ben-cua-so-4912846.html) - 10:09 11/07/2025
-- 🫶 [Ca sĩ Kiều Nga hôn mê sâu](https://vnexpress.net/ca-si-kieu-nga-hon-me-sau-4913038.html) - 09:42 11/07/2025
-- 🧑‍🏫 [Ivanka Trump, vợ chồng Jeff Bezos dự &#39;trại hè tỷ phú&#39;](https://vnexpress.net/ivanka-trump-vo-chong-jeff-bezos-du-trai-he-ty-phu-4912928.html) - 08:11 11/07/2025
-- 🦄 [Phan Hiển, Thu Hương đoạt 3 HCV dancesport Đông Nam Á](https://vnexpress.net/phan-hien-thu-huong-doat-3-hcv-dancesport-dong-nam-a-4912796.html) - 07:06 11/07/2025
-- 💫 [Túi Hermès giá hơn 10 triệu USD](https://vnexpress.net/tui-hermes-gia-hon-10-trieu-usd-4912836.html) - 04:55 11/07/2025
-- 🎊 [Brad Pitt vào top 50 sao Hollywood &#39;quyến rũ nhất mọi thời&#39;](https://vnexpress.net/brad-pitt-vao-top-50-sao-hollywood-quyen-ru-nhat-moi-thoi-4912839.html) - 04:53 11/07/2025
-- 👹 [Đồ đệ của Lý Liên Kiệt gây chú ý khi mặc bra top, xuyên thấu](https://vnexpress.net/do-de-cua-ly-lien-kiet-gay-chu-y-khi-mac-bra-top-xuyen-thau-4912804.html) - 04:17 11/07/2025
-- 💻 [Nghệ sĩ Thanh Hoa: &#39;Tôi hạnh phúc nhờ sống vô tư&#39;](https://vnexpress.net/nghe-si-thanh-hoa-toi-hanh-phuc-nho-song-vo-tu-4908502.html) - 04:11 11/07/2025
-- 🤡 [&#39;Án mạng giữa không trung&#39; - phá án trên chuyến bay](https://vnexpress.net/an-mang-giua-khong-trung-pha-an-tren-chuyen-bay-4904988.html) - 03:48 11/07/2025
-- 🥰 [Kiểu &#39;túi đi chợ&#39; gây sốt](https://vnexpress.net/kieu-tui-di-cho-gay-sot-4912146.html) - 03:12 11/07/2025
-- 🚀 [Chaumet - thương hiệu chế tác vương miện cho giới quý tộc](https://vnexpress.net/chaumet-thuong-hieu-che-tac-vuong-mien-cho-gioi-quy-toc-4912645.html) - 03:00 11/07/2025
-- 📝 [Lữ Tụng Hiền - Lệnh Hồ Xung kinh điển màn ảnh](https://vnexpress.net/lu-tung-hien-lenh-ho-xung-kinh-dien-man-anh-4911995.html) - 02:07 11/07/2025
-- 🐲 [Hoa hậu Hà Trúc Linh: &#39;Thích bạn trai giỏi hơn tôi&#39;](https://vnexpress.net/hoa-hau-ha-truc-linh-thich-ban-trai-gioi-hon-toi-4911970.html) - 17:00 10/07/2025
-- 🎃 [Phim Việt tuổi mới lớn gây tranh cãi vì tình tiết 18+](https://vnexpress.net/phim-viet-tuoi-moi-lon-gay-tranh-cai-vi-tinh-tiet-18-4912030.html) - 14:16 10/07/2025
-- 🤠 [Những vai diễn đa sắc màu của Lương Thu Trang](https://vnexpress.net/nhung-vai-dien-da-sac-mau-cua-luong-thu-trang-4912118.html) - 13:00 10/07/2025
-- 🎭 [Tác giả Mỹ: &#39;Một bộ phận gen Z đọc sách để làm màu&#39;](https://vnexpress.net/tac-gia-my-mot-bo-phan-gen-z-doc-sach-de-lam-mau-4911563.html) - 12:10 10/07/2025
-- 🧰 [&#39;Materialists&#39; - thực dụng khi yêu](https://vnexpress.net/giai-tri/phim/thu-vien-phim/materialists-821) - 12:00 10/07/2025
-- 🦍 [&#39;Thần đồng&#39; Lamine Yamal được tặng trang sức 400.000 USD](https://vnexpress.net/than-dong-lamine-yamal-duoc-tang-trang-suc-400-000-usd-4912643.html) - 10:26 10/07/2025
-- 🌝 [Thuở bé đáng yêu của con gái út nhà Beckham](https://vnexpress.net/thuo-be-dang-yeu-cua-con-gai-ut-nha-beckham-4912494.html) - 08:56 10/07/2025
-- 🧑‍💻 [Thời trang năng động của sao &#39;Em xinh say hi&#39;](https://vnexpress.net/thoi-trang-nang-dong-cua-sao-em-xinh-say-hi-4912109.html) - 07:35 10/07/2025
-- 🥸 [Thúy Ngân, Võ Cảnh đóng cảnh yêu đương](https://vnexpress.net/thuy-ngan-vo-canh-dong-canh-yeu-duong-4912358.html) - 06:43 10/07/2025
-- 🔥 [Hoàng Hà: &#39;Vai khó tôi càng thích&#39;](https://vnexpress.net/hoang-ha-vai-kho-toi-cang-thich-4909620.html) - 05:51 10/07/2025
-- 🐎 [Brad Pitt yêu cầu xem tin nhắn riêng của Angelina Jolie](https://vnexpress.net/brad-pitt-yeu-cau-xem-tin-nhan-rieng-cua-angelina-jolie-4912322.html) - 04:36 10/07/2025
-- 😎 [Manga &#39;tiên tri&#39; động đất ở Nhật](https://vnexpress.net/manga-tien-tri-dong-dat-o-nhat-4911640.html) - 04:23 10/07/2025
-- 🦄 [Vợ tỷ phú Jeff Bezos xách túi &#39;cốc cà phê&#39; gần 6.000 USD](https://vnexpress.net/vo-ty-phu-jeff-bezos-xach-tui-coc-ca-phe-gan-6-000-usd-4912355.html) - 03:36 10/07/2025
-- 🌜 [Chae Rim: &#39;Chờ con lớn, tôi cân nhắc kết hôn&#39;](https://vnexpress.net/chae-rim-cho-con-lon-toi-can-nhac-ket-hon-4912290.html) - 03:03 10/07/2025
-- 🚦 [Tài tử gây sốt với sách ẩm thực Hàn Quốc](https://vnexpress.net/tai-tu-gay-sot-voi-sach-am-thuc-han-quoc-4911768.html) - 00:47 10/07/2025
-- 🧐 [Phong cách nghỉ dưỡng của Messi và dàn sao bóng đá](https://vnexpress.net/phong-cach-nghi-duong-cua-messi-va-dan-sao-bong-da-4911879.html) - 00:38 10/07/2025
-- 🐵 [Hồng Nhung: &#39;Tôi hát với lòng biết ơn&#39;](https://vnexpress.net/hong-nhung-toi-hat-voi-long-biet-on-4911975.html) - 17:00 09/07/2025
-- ⚗️ [Sắc vóc tuổi 35 của &#39;nữ thần Kpop&#39; Yoona](https://vnexpress.net/sac-voc-tuoi-35-cua-nu-than-kpop-yoona-4912147.html) - 13:59 09/07/2025
-- 👺 [Những kiểu mặc sao Việt chuộng ngày hè](https://vnexpress.net/nhung-kieu-mac-sao-viet-chuong-ngay-he-4911981.html) - 12:00 09/07/2025
-- 🌊 [Xoài Non gửi lời yêu Gil Lê](https://vnexpress.net/xoai-non-gui-loi-yeu-gil-le-4911930.html) - 09:34 09/07/2025
-- 🪜 [&#39;Superman&#39; được khen](https://vnexpress.net/superman-duoc-khen-4911875.html) - 09:07 09/07/2025
-- 🕴 [Rima Thanh Vy đóng cặp tài tử Thái](https://vnexpress.net/rima-thanh-vy-dong-cap-tai-tu-thai-4911722.html) - 08:07 09/07/2025
-- 💃 [Sách về chân dung điệp viên Nguyễn Tiến Nhẫn](https://vnexpress.net/sach-ve-chan-dung-diep-vien-nguyen-tien-nhan-4905070.html) - 07:09 09/07/2025
-- 🦄 [Khương Ngọc: &#39;Tôi từng sống vô tâm&#39;](https://vnexpress.net/khuong-ngoc-toi-tung-song-vo-tam-4911658.html) - 05:47 09/07/2025
-- ⛽️ [Hôn nhân sóng gió của &#39;Nữ hoàng gợi cảm Đài Loan&#39;](https://vnexpress.net/hon-nhan-song-gio-cua-nu-hoang-goi-cam-dai-loan-4911678.html) - 03:00 09/07/2025
-- 😎 [May đo cá nhân hóa - cuộc cách mạng thời AI](https://vnexpress.net/may-do-ca-nhan-hoa-cuoc-cach-mang-thoi-ai-4911746.html) - 02:16 09/07/2025
-- 🌊 [Hoa hậu Phương Linh: &#39;Tôi rèn sự bền bỉ khi du học&#39;](https://vnexpress.net/hoa-hau-phuong-linh-toi-ren-su-ben-bi-khi-du-hoc-4908069.html) - 17:00 08/07/2025
-- 🐲 [Phong cách &#39;xa xỉ lười biếng&#39;](https://vnexpress.net/phong-cach-xa-xi-luoi-bieng-4911518.html) - 13:39 08/07/2025
-- 💂 [&#39;The Old Guard 2&#39; - dấu ấn Hollywood của Ngô Thanh Vân](https://vnexpress.net/giai-tri/phim/thu-vien-phim/the-old-guard-2-820) - 12:00 08/07/2025
-- 🙉 [Tài tử 75 tuổi đón bạn gái ra tù](https://vnexpress.net/tai-tu-75-tuoi-don-ban-gai-ra-tu-4911584.html) - 08:42 08/07/2025
-- 💪 [My Chemical Romance tổ chức tour Đông Nam Á](https://vnexpress.net/my-chemical-romance-to-chuc-tour-dong-nam-a-4911060.html) - 07:59 08/07/2025
-- 👍 [Rhyder, cầu thủ Hoàng Đức kể chuyện bứt phá trong MV mới](https://vnexpress.net/rhyder-cau-thu-hoang-duc-ke-chuyen-but-pha-trong-mv-moi-4909262.html) - 07:00 08/07/2025
+- 🌏 [Justin Bieber trả nợ hơn 30 triệu USD cho quản lý cũ](https://vnexpress.net/justin-bieber-tra-no-hon-30-trieu-usd-cho-quan-ly-cu-4913283.html) - 03:53 12/07/2025
+- 💫 [Tiến Truyển lần đầu tham gia Tuần thời trang cao cấp Paris](https://vnexpress.net/tien-truyen-lan-dau-tham-gia-tuan-thoi-trang-cao-cap-paris-4913328.html) - 03:08 12/07/2025
+- 🌮 [&#39;Superman&#39; - siêu anh hùng vấp ngã](https://vnexpress.net/giai-tri/phim/thu-vien-phim/superman-822) - 02:39 12/07/2025
+- 🧠 [Phong cách minh tinh &#39;Bến Thượng Hải&#39;](https://vnexpress.net/phong-cach-minh-tinh-ben-thuong-hai-4913080.html) - 01:47 12/07/2025
+- 👨‍🏫 [Hồng Đào áy náy vì làm Tuấn Trần bị thương khi diễn](https://vnexpress.net/hong-dao-ay-nay-vi-lam-tuan-tran-bi-thuong-khi-dien-4912965.html) - 00:58 12/07/2025
+- ⚗️ [Tuổi già bình lặng của nghệ sĩ Văn Toản](https://vnexpress.net/tuoi-gia-binh-lang-cua-nghe-si-van-toan-4910461.html) - 17:00 11/07/2025
+- 😎 [Phương Mỹ Chi đưa điệu vọng cổ lên sân khấu &#39;Sing! Asia&#39;](https://vnexpress.net/phuong-my-chi-dua-dieu-vong-co-len-san-khau-sing-asia-4912889.html) - 15:39 11/07/2025
+- 🫣 [Mẫu &#39;áo tắm Tôn Ngộ Không&#39; cháy hàng](https://vnexpress.net/mau-ao-tam-ton-ngo-khong-chay-hang-4912896.html) - 13:00 11/07/2025
+- 🪄 [BST trang sức lấy cảm hứng từ thiên nhiên của Chaumet](https://vnexpress.net/bst-trang-suc-lay-cam-hung-tu-thien-nhien-cua-chaumet-4912644.html) - 12:00 11/07/2025
+- 🤓 [Mỹ nhân &#39;Reply 1988&#39; đến TP HCM](https://vnexpress.net/my-nhan-reply-1988-den-tp-hcm-4913146.html) - 11:56 11/07/2025
+- 🫶 [Ra mắt phần hai sách &#39;Totto-chan bên cửa sổ&#39;](https://vnexpress.net/ra-mat-phan-hai-sach-totto-chan-ben-cua-so-4912846.html) - 10:09 11/07/2025
+- 🧑‍🏫 [Ca sĩ Kiều Nga hôn mê sâu](https://vnexpress.net/ca-si-kieu-nga-hon-me-sau-4913038.html) - 09:42 11/07/2025
+- 🦄 [Ivanka Trump, vợ chồng Jeff Bezos dự &#39;trại hè tỷ phú&#39;](https://vnexpress.net/ivanka-trump-vo-chong-jeff-bezos-du-trai-he-ty-phu-4912928.html) - 08:11 11/07/2025
+- 💫 [Phan Hiển, Thu Hương đoạt 3 HCV dancesport Đông Nam Á](https://vnexpress.net/phan-hien-thu-huong-doat-3-hcv-dancesport-dong-nam-a-4912796.html) - 07:06 11/07/2025
+- 🎊 [Túi Hermès giá hơn 10 triệu USD](https://vnexpress.net/tui-hermes-gia-hon-10-trieu-usd-4912836.html) - 04:55 11/07/2025
+- 👹 [Brad Pitt vào top 50 sao Hollywood &#39;quyến rũ nhất mọi thời&#39;](https://vnexpress.net/brad-pitt-vao-top-50-sao-hollywood-quyen-ru-nhat-moi-thoi-4912839.html) - 04:53 11/07/2025
+- 💻 [Đồ đệ của Lý Liên Kiệt gây chú ý khi mặc bra top, xuyên thấu](https://vnexpress.net/do-de-cua-ly-lien-kiet-gay-chu-y-khi-mac-bra-top-xuyen-thau-4912804.html) - 04:17 11/07/2025
+- 🤡 [Nghệ sĩ Thanh Hoa: &#39;Tôi hạnh phúc nhờ sống vô tư&#39;](https://vnexpress.net/nghe-si-thanh-hoa-toi-hanh-phuc-nho-song-vo-tu-4908502.html) - 04:11 11/07/2025
+- 🥰 [&#39;Án mạng giữa không trung&#39; - phá án trên chuyến bay](https://vnexpress.net/an-mang-giua-khong-trung-pha-an-tren-chuyen-bay-4904988.html) - 03:48 11/07/2025
+- 🚀 [Kiểu &#39;túi đi chợ&#39; gây sốt](https://vnexpress.net/kieu-tui-di-cho-gay-sot-4912146.html) - 03:12 11/07/2025
+- 📝 [Chaumet - thương hiệu chế tác vương miện cho giới quý tộc](https://vnexpress.net/chaumet-thuong-hieu-che-tac-vuong-mien-cho-gioi-quy-toc-4912645.html) - 03:00 11/07/2025
+- 🐲 [Lữ Tụng Hiền - Lệnh Hồ Xung kinh điển màn ảnh](https://vnexpress.net/lu-tung-hien-lenh-ho-xung-kinh-dien-man-anh-4911995.html) - 02:07 11/07/2025
+- 🎃 [Hoa hậu Hà Trúc Linh: &#39;Thích bạn trai giỏi hơn tôi&#39;](https://vnexpress.net/hoa-hau-ha-truc-linh-thich-ban-trai-gioi-hon-toi-4911970.html) - 17:00 10/07/2025
+- 🤠 [Phim Việt tuổi mới lớn gây tranh cãi vì tình tiết 18+](https://vnexpress.net/phim-viet-tuoi-moi-lon-gay-tranh-cai-vi-tinh-tiet-18-4912030.html) - 14:16 10/07/2025
+- 🎭 [Những vai diễn đa sắc màu của Lương Thu Trang](https://vnexpress.net/nhung-vai-dien-da-sac-mau-cua-luong-thu-trang-4912118.html) - 13:00 10/07/2025
+- 🧰 [Tác giả Mỹ: &#39;Một bộ phận gen Z đọc sách để làm màu&#39;](https://vnexpress.net/tac-gia-my-mot-bo-phan-gen-z-doc-sach-de-lam-mau-4911563.html) - 12:10 10/07/2025
+- 🦍 [&#39;Materialists&#39; - thực dụng khi yêu](https://vnexpress.net/giai-tri/phim/thu-vien-phim/materialists-821) - 12:00 10/07/2025
+- 🌝 [&#39;Thần đồng&#39; Lamine Yamal được tặng trang sức 400.000 USD](https://vnexpress.net/than-dong-lamine-yamal-duoc-tang-trang-suc-400-000-usd-4912643.html) - 10:26 10/07/2025
+- 🧑‍💻 [Thuở bé đáng yêu của con gái út nhà Beckham](https://vnexpress.net/thuo-be-dang-yeu-cua-con-gai-ut-nha-beckham-4912494.html) - 08:56 10/07/2025
+- 🥸 [Thời trang năng động của sao &#39;Em xinh say hi&#39;](https://vnexpress.net/thoi-trang-nang-dong-cua-sao-em-xinh-say-hi-4912109.html) - 07:35 10/07/2025
+- 🔥 [Thúy Ngân, Võ Cảnh đóng cảnh yêu đương](https://vnexpress.net/thuy-ngan-vo-canh-dong-canh-yeu-duong-4912358.html) - 06:43 10/07/2025
+- 🐎 [Hoàng Hà: &#39;Vai khó tôi càng thích&#39;](https://vnexpress.net/hoang-ha-vai-kho-toi-cang-thich-4909620.html) - 05:51 10/07/2025
+- 😎 [Brad Pitt yêu cầu xem tin nhắn riêng của Angelina Jolie](https://vnexpress.net/brad-pitt-yeu-cau-xem-tin-nhan-rieng-cua-angelina-jolie-4912322.html) - 04:36 10/07/2025
+- 🦄 [Manga &#39;tiên tri&#39; động đất ở Nhật](https://vnexpress.net/manga-tien-tri-dong-dat-o-nhat-4911640.html) - 04:23 10/07/2025
+- 🌜 [Vợ tỷ phú Jeff Bezos xách túi &#39;cốc cà phê&#39; gần 6.000 USD](https://vnexpress.net/vo-ty-phu-jeff-bezos-xach-tui-coc-ca-phe-gan-6-000-usd-4912355.html) - 03:36 10/07/2025
+- 🚦 [Chae Rim: &#39;Chờ con lớn, tôi cân nhắc kết hôn&#39;](https://vnexpress.net/chae-rim-cho-con-lon-toi-can-nhac-ket-hon-4912290.html) - 03:03 10/07/2025
+- 🧐 [Tài tử gây sốt với sách ẩm thực Hàn Quốc](https://vnexpress.net/tai-tu-gay-sot-voi-sach-am-thuc-han-quoc-4911768.html) - 00:47 10/07/2025
+- 🐵 [Phong cách nghỉ dưỡng của Messi và dàn sao bóng đá](https://vnexpress.net/phong-cach-nghi-duong-cua-messi-va-dan-sao-bong-da-4911879.html) - 00:38 10/07/2025
+- ⚗️ [Hồng Nhung: &#39;Tôi hát với lòng biết ơn&#39;](https://vnexpress.net/hong-nhung-toi-hat-voi-long-biet-on-4911975.html) - 17:00 09/07/2025
+- 👺 [Sắc vóc tuổi 35 của &#39;nữ thần Kpop&#39; Yoona](https://vnexpress.net/sac-voc-tuoi-35-cua-nu-than-kpop-yoona-4912147.html) - 13:59 09/07/2025
+- 🌊 [Những kiểu mặc sao Việt chuộng ngày hè](https://vnexpress.net/nhung-kieu-mac-sao-viet-chuong-ngay-he-4911981.html) - 12:00 09/07/2025
+- 🪜 [Xoài Non gửi lời yêu Gil Lê](https://vnexpress.net/xoai-non-gui-loi-yeu-gil-le-4911930.html) - 09:34 09/07/2025
+- 🕴 [&#39;Superman&#39; được khen](https://vnexpress.net/superman-duoc-khen-4911875.html) - 09:07 09/07/2025
+- 💃 [Rima Thanh Vy đóng cặp tài tử Thái](https://vnexpress.net/rima-thanh-vy-dong-cap-tai-tu-thai-4911722.html) - 08:07 09/07/2025
+- 🦄 [Sách về chân dung điệp viên Nguyễn Tiến Nhẫn](https://vnexpress.net/sach-ve-chan-dung-diep-vien-nguyen-tien-nhan-4905070.html) - 07:09 09/07/2025
+- ⛽️ [Khương Ngọc: &#39;Tôi từng sống vô tâm&#39;](https://vnexpress.net/khuong-ngoc-toi-tung-song-vo-tam-4911658.html) - 05:47 09/07/2025
+- 😎 [Hôn nhân sóng gió của &#39;Nữ hoàng gợi cảm Đài Loan&#39;](https://vnexpress.net/hon-nhan-song-gio-cua-nu-hoang-goi-cam-dai-loan-4911678.html) - 03:00 09/07/2025
+- 🌊 [May đo cá nhân hóa - cuộc cách mạng thời AI](https://vnexpress.net/may-do-ca-nhan-hoa-cuoc-cach-mang-thoi-ai-4911746.html) - 02:16 09/07/2025
+- 🐲 [Hoa hậu Phương Linh: &#39;Tôi rèn sự bền bỉ khi du học&#39;](https://vnexpress.net/hoa-hau-phuong-linh-toi-ren-su-ben-bi-khi-du-hoc-4908069.html) - 17:00 08/07/2025
+- 💂 [Phong cách &#39;xa xỉ lười biếng&#39;](https://vnexpress.net/phong-cach-xa-xi-luoi-bieng-4911518.html) - 13:39 08/07/2025
+- 🙉 [&#39;The Old Guard 2&#39; - dấu ấn Hollywood của Ngô Thanh Vân](https://vnexpress.net/giai-tri/phim/thu-vien-phim/the-old-guard-2-820) - 12:00 08/07/2025
+- 💪 [Tài tử 75 tuổi đón bạn gái ra tù](https://vnexpress.net/tai-tu-75-tuoi-don-ban-gai-ra-tu-4911584.html) - 08:42 08/07/2025
+- 👍 [My Chemical Romance tổ chức tour Đông Nam Á](https://vnexpress.net/my-chemical-romance-to-chuc-tour-dong-nam-a-4911060.html) - 07:59 08/07/2025
 - 💪 [Peach Pachara - người thừa kế gia tộc giàu thứ năm Thái Lan](https://vnexpress.net/peach-pachara-nguoi-thua-ke-gia-toc-giau-thu-nam-thai-lan-4911492.html) - 06:22 08/07/2025
 - 💄 [Trang phục đơn sắc của &#39;Mỹ nhân cười đẹp nhất Hàn Quốc&#39;](https://vnexpress.net/trang-phuc-don-sac-cua-my-nhan-cuoi-dep-nhat-han-quoc-4911261.html) - 04:00 08/07/2025
 - 🦩 [Sách về Hà Nội đoạt giải ở Trung Quốc](https://vnexpress.net/sach-ve-ha-noi-doat-giai-o-trung-quoc-4911286.html) - 03:54 08/07/2025
