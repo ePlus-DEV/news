@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [HLV Kim Sang Sik chốt danh sách U23 Việt Nam dự giải Đông Nam Á](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-chot-danh-sach-u23-viet-nam-du-giai-dong-nam-a-20250712160602381.htm) - 09:08 12/07/2025
-- 💯 [CLB Anh bất ngờ bị tước quyền tham dự Europa League vì lý do đặc biệt](https://dantri.com.vn/the-thao/clb-anh-bat-ngo-bi-tuoc-quyen-tham-du-europa-league-vi-ly-do-dac-biet-20250712151716239.htm) - 08:18 12/07/2025
+- 🎡 [CLB Anh bất ngờ bị tước quyền tham dự Europa League vì lý do đặc biệt](https://dantri.com.vn/the-thao/clb-anh-bat-ngo-bi-tuoc-quyen-tham-du-europa-league-vi-ly-do-dac-biet-20250712151716239.htm) - 12:18 12/07/2025
+- 💯 [HLV Kim Sang Sik chốt danh sách U23 Việt Nam dự giải Đông Nam Á](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-chot-danh-sach-u23-viet-nam-du-giai-dong-nam-a-20250712160602381.htm) - 09:08 12/07/2025
 - ⛽️ [Cú sốc làng thể thao: Nữ VĐV bị cha ruột bắn tử vong](https://dantri.com.vn/the-thao/cu-soc-lang-the-thao-nu-vdv-bi-cha-ruot-ban-tu-vong-20250712144131500.htm) - 07:41 12/07/2025
 - 💃 [Indonesia gặp bất lợi cực lớn trên hành trình săn vé World Cup](https://dantri.com.vn/the-thao/indonesia-gap-bat-loi-cuc-lon-tren-hanh-trinh-san-ve-world-cup-20250712083016439.htm) - 01:30 12/07/2025
 - 🌈 [Liverpool treo vĩnh viễn áo số 20 để tưởng nhớ Diogo Jota](https://dantri.com.vn/the-thao/liverpool-treo-vinh-vien-ao-so-20-de-tuong-nho-diogo-jota-20250712081429886.htm) - 01:14 12/07/2025
