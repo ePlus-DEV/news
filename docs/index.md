@@ -410,7 +410,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Ba phương diện thành công của Hội nghị Bộ trưởng Ngoại giao ASEAN](https://baochinhphu.vn/ba-phuong-dien-thanh-cong-cua-hoi-nghi-bo-truong-ngoai-giao-asean-102250712194333427.htm) - 19:57 12/07/2025
+- 💻 [AMM-58 khẳng định mạnh mẽ về giá trị trường tồn của tinh thần đoàn kết ASEAN](https://baochinhphu.vn/ba-phuong-dien-thanh-cong-cua-hoi-nghi-bo-truong-ngoai-giao-asean-102250712194333427.htm) - 19:57 12/07/2025
 - 🌜 [Quần thể di tích, danh thắng Yên Tử - Vĩnh Nghiêm, Côn Sơn, Kiếp Bạc là Di sản Văn hóa thế giới](https://baochinhphu.vn/quan-the-di-tich-danh-thang-yen-tu-vinh-nghiem-con-son-kiep-bac-la-di-san-van-hoa-the-gioi-102250712192551047.htm) - 19:25 12/07/2025
 - 🦆 [Tự chủ đại học: Đến lúc vượt khỏi cái bóng “xin – cho”](https://baochinhphu.vn/tu-chu-dai-hoc-den-luc-vuot-khoi-cai-bong-xin-cho-102250712135554258.htm) - 14:43 12/07/2025
 - 🌝 [Điều kiện chuyển giao chất thải rắn công nghiệp thông thường](https://baochinhphu.vn/dieu-kien-chuyen-giao-chat-thai-ran-cong-nghiep-thong-thuong-10225071114574677.htm) - 14:00 12/07/2025
