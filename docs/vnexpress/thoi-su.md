@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Quần thể Yên Tử - Vĩnh Nghiêm - Côn Sơn, Kiếp Bạc được công nhận Di sản Văn hóa Thế giới](https://vnexpress.net/quan-the-yen-tu-vinh-nghiem-con-son-kiep-bac-duoc-cong-nhan-di-san-van-hoa-the-gioi-4913203.html) - 11:31 12/07/2025
 - 🤓 [Gia Lai không cho 650 tàu cá vi phạm ra khơi](https://vnexpress.net/gia-lai-khong-cho-650-tau-ca-vi-pham-ra-khoi-4913453.html) - 11:00 12/07/2025
-- ⚗️ [Hà Nội cấm xe chạy xăng dầu trong Vành đai 1 từ tháng 7/2026](https://vnexpress.net/ha-noi-cam-xe-chay-xang-dau-trong-vanh-dai-1-tu-thang-7-2026-4913460.html) - 10:41 12/07/2025
+- ⚗️ [Hà Nội cấm xe máy chạy xăng dầu trong Vành đai 1 từ tháng 7/2026](https://vnexpress.net/ha-noi-cam-xe-may-chay-xang-dau-trong-vanh-dai-1-tu-thang-7-2026-4913460.html) - 10:41 12/07/2025
 - 🌊 [Chủ tịch Đồng Tháp: &#39;Vướng đâu, gỡ đó&#39; để đẩy nhanh tiến độ công trình](https://vnexpress.net/chu-tich-dong-thap-vuong-dau-go-do-de-day-nhanh-tien-do-cong-trinh-4913159.html) - 10:00 12/07/2025
 - 🎓 [Hy vọng của nhiều gia đình liệt sĩ từ tập hồ sơ Mỹ cung cấp](https://vnexpress.net/hy-vong-cua-nhieu-gia-dinh-liet-si-tu-tap-ho-so-my-cung-cap-4913089.html) - 09:01 12/07/2025
 - 🔥 [Thông xe kỹ thuật Vành đai 3 TP HCM đoạn qua Tây Ninh trước 19/12](https://vnexpress.net/thong-xe-ky-thuat-vanh-dai-3-tp-hcm-doan-qua-tay-ninh-truoc-19-12-4913413.html) - 05:42 12/07/2025
