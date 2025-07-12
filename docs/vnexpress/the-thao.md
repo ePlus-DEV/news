@@ -4,16 +4,16 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [HLV Chelsea xem trận chung kết gặp PSG như &#39;ván cờ vua&#39;](https://vnexpress.net/hlv-chelsea-xem-tran-chung-ket-gap-psg-nhu-van-co-vua-4913255.html) - 22:40 11/07/2025
-- 🦩 [VĐV nữ đi bộ 14 tiếng rồi vô địch giải ultramarathon](https://vnexpress.net/vdv-nu-di-bo-14-tieng-roi-vo-dich-giai-ultramarathon-4913259.html) - 22:34 11/07/2025
-- 🧰 [Djokovic: &#39;Tôi chưa muốn dừng lại ở Wimbledon&#39;](https://vnexpress.net/djokovic-toi-chua-muon-dung-lai-o-wimbledon-4913258.html) - 22:22 11/07/2025
-- 🤗 [Tiền vệ Chelsea chóng mặt vì nhiệt độ cao tại FIFA Club World Cup](https://vnexpress.net/tien-ve-chelsea-chong-mat-vi-nhiet-do-cao-tai-fifa-club-world-cup-4913257.html) - 22:17 11/07/2025
-- 🥳 [Liverpool treo áo số 20 của Diogo Jota](https://vnexpress.net/liverpool-treo-ao-so-20-cua-diogo-jota-4913254.html) - 22:11 11/07/2025
-- 🦣 [Crystal Palace bị tước quyền dự Europa League](https://vnexpress.net/crystal-palace-bi-tuoc-quyen-du-europa-league-4913231.html) - 22:05 11/07/2025
-- 🌜 [Giải VĐQG Malaysia bị nghi ưu ái đội giàu khi dùng 15 ngoại binh](https://vnexpress.net/giai-vdqg-malaysia-bi-nghi-uu-ai-doi-giau-khi-dung-15-ngoai-binh-4913114.html) - 17:00 11/07/2025
-- 🫶 [Xác định hai trận bán kết giải bóng đá Công an, Cảnh sát Đông Nam Á](https://vnexpress.net/xac-dinh-hai-tran-ban-ket-giai-bong-da-cong-an-canh-sat-dong-nam-a-4913219.html) - 17:00 11/07/2025
-- 🌜 [Sinner thắng dễ Djokovic ở bán kết Wimbledon](https://vnexpress.net/ket-qua-djokovic-vs-sinner-4913181.html) - 15:30 11/07/2025
-- 😺 [Kỷ lục 3.000 người đăng ký 42km tại VM Hải Phòng](https://vnexpress.net/ky-luc-3-000-nguoi-dang-ky-42km-tai-vm-hai-phong-4912788.html) - 09:30 11/07/2025
+- 🪜 [Những lời khai bất thường trong vụ tay vợt nữ Ấn Độ bị bố bắn chết](https://vnexpress.net/nhung-loi-khai-bat-thuong-trong-vu-tay-vot-nu-an-do-bi-bo-ban-chet-4913054.html) - 23:24 11/07/2025
+- 🦩 [HLV Chelsea xem trận chung kết gặp PSG như &#39;ván cờ vua&#39;](https://vnexpress.net/hlv-chelsea-xem-tran-chung-ket-gap-psg-nhu-van-co-vua-4913255.html) - 22:40 11/07/2025
+- 🧰 [Đi bộ 14 tiếng rồi vô địch giải ultramarathon](https://vnexpress.net/di-bo-14-tieng-roi-vo-dich-giai-ultramarathon-4913259.html) - 22:34 11/07/2025
+- 🤗 [Djokovic: &#39;Tôi chưa muốn dừng lại ở Wimbledon&#39;](https://vnexpress.net/djokovic-toi-chua-muon-dung-lai-o-wimbledon-4913258.html) - 22:22 11/07/2025
+- 🥳 [Tiền vệ Chelsea chóng mặt vì nhiệt độ cao tại FIFA Club World Cup](https://vnexpress.net/tien-ve-chelsea-chong-mat-vi-nhiet-do-cao-tai-fifa-club-world-cup-4913257.html) - 22:17 11/07/2025
+- 🦣 [Liverpool treo áo số 20 của Diogo Jota](https://vnexpress.net/liverpool-treo-ao-so-20-cua-diogo-jota-4913254.html) - 22:11 11/07/2025
+- 🌜 [Crystal Palace bị tước quyền dự Europa League](https://vnexpress.net/crystal-palace-bi-tuoc-quyen-du-europa-league-4913231.html) - 22:05 11/07/2025
+- 🫶 [Malaysia gây tranh cãi vì dùng 15 ngoại binh ở giải VĐQG](https://vnexpress.net/malaysia-gay-tranh-cai-vi-dung-15-ngoai-binh-o-giai-vdqg-4913114.html) - 17:00 11/07/2025
+- 🌜 [Xác định hai trận bán kết giải bóng đá Công an, Cảnh sát Đông Nam Á](https://vnexpress.net/xac-dinh-hai-tran-ban-ket-giai-bong-da-cong-an-canh-sat-dong-nam-a-4913219.html) - 17:00 11/07/2025
+- 😺 [Sinner thắng dễ Djokovic ở bán kết Wimbledon](https://vnexpress.net/ket-qua-djokovic-vs-sinner-4913181.html) - 15:30 11/07/2025
 - 👍 [Modric chọn Champions League 2014 quan trọng nhất sự nghiệp](https://vnexpress.net/modric-chon-champions-league-2014-quan-trong-nhat-su-nghiep-4913011.html) - 09:27 11/07/2025
 - 🐵 [Alcaraz được HLV đánh giá có mùa giải phi thường](https://vnexpress.net/alcaraz-duoc-hlv-danh-gia-co-mua-giai-phi-thuong-4913065.html) - 09:21 11/07/2025
 - 💫 [Vũ khí bí mật của Alcaraz tại Wimbledon](https://vnexpress.net/vu-khi-bi-mat-cua-alcaraz-tai-wimbledon-4913074.html) - 09:18 11/07/2025
