@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Hòa Minzy, Bùi Lan Hương và các nghệ sĩ hòa giọng khép lại Rực rỡ ngày mới](https://dantri.com.vn/giai-tri/hoa-minzy-bui-lan-huong-va-cac-nghe-si-hoa-giong-khep-lai-ruc-ro-ngay-moi-20250713155450145.htm) - 10:30 13/07/2025
+- 🤩 [Hòa Minzy, Hương Tràm và dàn nghệ sĩ bùng nổ cảm xúc tại &quot;Rực rỡ ngày mới&quot;](https://dantri.com.vn/giai-tri/hoa-minzy-huong-tram-va-dan-nghe-si-bung-no-cam-xuc-tai-ruc-ro-ngay-moi-20250713155450145.htm) - 10:30 13/07/2025
 - 🔥 [Bùi Lan Hương lần đầu kết hợp Double2T trong hòa nhạc 20 năm Dân trí](https://dantri.com.vn/giai-tri/bui-lan-huong-lan-dau-ket-hop-double2t-trong-hoa-nhac-20-nam-dan-tri-20250713144930543.htm) - 09:39 13/07/2025
 - 🚀 [Hương Tràm và dàn nghệ sĩ tổng duyệt trước đêm nhạc &quot;Rực rỡ ngày mới&quot;](https://dantri.com.vn/giai-tri/huong-tram-va-dan-nghe-si-tong-duyet-truoc-dem-nhac-ruc-ro-ngay-moi-20250713142350791.htm) - 08:17 13/07/2025
 - 🔥 [Cuộc sống kín tiếng gây tò mò của tài tử “Bản tình ca mùa đông”](https://dantri.com.vn/giai-tri/cuoc-song-kin-tieng-gay-to-mo-cua-tai-tu-ban-tinh-ca-mua-dong-20250710142225267.htm) - 06:00 13/07/2025
