@@ -4,12 +4,12 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Nhận định Chelsea vs PSG &lpar;2h ngày 14/7&rpar;: Điều không ngờ tới](https://dantri.com.vn/the-thao/nhan-dinh-chelsea-vs-psg-2h-ngay-147-dieu-khong-ngo-toi-20250713141802357.htm) - 07:18 13/07/2025
-- 💯 [Lionel Messi sút phạt tuyệt đỉnh, tạo nên kỷ lục không tưởng](https://dantri.com.vn/the-thao/lionel-messi-sut-phat-tuyet-dinh-tao-nen-ky-luc-khong-tuong-20250713103155893.htm) - 03:32 13/07/2025
-- ⛽️ [Real Madrid đưa ra yêu sách, La Liga đáp trả phũ phàng](https://dantri.com.vn/the-thao/real-madrid-dua-ra-yeu-sach-la-liga-dap-tra-phu-phang-20250713090920025.htm) - 02:09 13/07/2025
-- 💃 [Chung kết Wimbledon: Vinh quang gọi tên Sinner hay Alcaraz?](https://dantri.com.vn/the-thao/chung-ket-wimbledon-vinh-quang-goi-ten-sinner-hay-alcaraz-20250713081628868.htm) - 01:26 13/07/2025
-- 🌈 [Swiatek thắng tuyệt đối trong trận chung kết Wimbledon](https://dantri.com.vn/the-thao/swiatek-thang-tuyet-doi-trong-tran-chung-ket-wimbledon-20250713062255816.htm) - 23:23 12/07/2025
-- 🦅 [Chung kết FIFA Club World Cup: Con quái vật hung bạo và kẻ không cam chịu](https://dantri.com.vn/the-thao/chung-ket-fifa-club-world-cup-con-quai-vat-hung-bao-va-ke-khong-cam-chiu-20250713011651622.htm) - 23:23 12/07/2025
+- 🎡 [Chung kết Wimbledon: Vinh quang gọi tên Sinner hay Alcaraz?](https://dantri.com.vn/the-thao/chung-ket-wimbledon-vinh-quang-goi-ten-sinner-hay-alcaraz-20250713081628868.htm) - 09:00 13/07/2025
+- 💯 [Chung kết FIFA Club World Cup: Con quái vật hung bạo và kẻ không cam chịu](https://dantri.com.vn/the-thao/chung-ket-fifa-club-world-cup-con-quai-vat-hung-bao-va-ke-khong-cam-chiu-20250713011651622.htm) - 07:41 13/07/2025
+- ⛽️ [Nhận định Chelsea vs PSG &lpar;2h ngày 14/7&rpar;: Điều không ngờ tới](https://dantri.com.vn/the-thao/nhan-dinh-chelsea-vs-psg-2h-ngay-147-dieu-khong-ngo-toi-20250713141802357.htm) - 07:18 13/07/2025
+- 💃 [Lionel Messi sút phạt tuyệt đỉnh, tạo nên kỷ lục không tưởng](https://dantri.com.vn/the-thao/lionel-messi-sut-phat-tuyet-dinh-tao-nen-ky-luc-khong-tuong-20250713103155893.htm) - 03:32 13/07/2025
+- 🌈 [Real Madrid đưa ra yêu sách, La Liga đáp trả phũ phàng](https://dantri.com.vn/the-thao/real-madrid-dua-ra-yeu-sach-la-liga-dap-tra-phu-phang-20250713090920025.htm) - 02:09 13/07/2025
+- 🦅 [Swiatek thắng tuyệt đối trong trận chung kết Wimbledon](https://dantri.com.vn/the-thao/swiatek-thang-tuyet-doi-trong-tran-chung-ket-wimbledon-20250713062255816.htm) - 23:23 12/07/2025
 - 🌝 [Võ sĩ Việt Nam đánh bại đối thủ Trung Quốc ở MMA Championship 24](https://dantri.com.vn/the-thao/vo-si-viet-nam-danh-bai-doi-thu-trung-quoc-o-mma-championship-24-20250713064602228.htm) - 22:45 12/07/2025
 - 🚀 [CLB Anh bất ngờ bị tước quyền tham dự Europa League vì lý do đặc biệt](https://dantri.com.vn/the-thao/clb-anh-bat-ngo-bi-tuoc-quyen-tham-du-europa-league-vi-ly-do-dac-biet-20250712151716239.htm) - 12:18 12/07/2025
 - 🎉 [HLV Kim Sang Sik chốt danh sách U23 Việt Nam dự giải Đông Nam Á](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-chot-danh-sach-u23-viet-nam-du-giai-dong-nam-a-20250712160602381.htm) - 09:08 12/07/2025
