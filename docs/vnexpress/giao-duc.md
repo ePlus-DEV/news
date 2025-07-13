@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Thủ khoa trường chuyên đạt chứng chỉ tiếng Nhật bậc cao từ lớp 5](https://vnexpress.net/thu-khoa-truong-chuyen-dat-chung-chi-tieng-nhat-bac-cao-tu-lop-5-4913407.html) - 22:00 12/07/2025
+- 🤓 [Thủ khoa trường chuyên đạt chứng chỉ tiếng Nhật N2 từ lớp 5](https://vnexpress.net/thu-khoa-truong-chuyen-dat-chung-chi-tieng-nhat-n2-tu-lop-5-4913407.html) - 22:00 12/07/2025
 - 🦆 [Phụ huynh, giáo viên mong cấm điện thoại trong trường](https://vnexpress.net/phu-huynh-giao-vien-mong-cam-dien-thoai-trong-truong-4912867.html) - 14:18 12/07/2025
 - 🦩 [3 tỉnh nào từng hai lần được sáp nhập làm một?](https://vnexpress.net/3-tinh-nao-tung-hai-lan-duoc-sap-nhap-lam-mot-4913477.html) - 13:00 12/07/2025
 - 🌮 [9% sinh viên tốt nghiệp xuất sắc Đại học Sư phạm TP HCM](https://vnexpress.net/9-sinh-vien-tot-nghiep-xuat-sac-dai-hoc-su-pham-tp-hcm-4913211.html) - 12:17 12/07/2025
