@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Tai nạn liên hoàn, ôtô 5 chỗ lao xuống sông](https://vnexpress.net/tai-nan-lien-hoan-oto-5-cho-lao-xuong-song-4913712.html) - 13:37 13/07/2025
+- 🦒 [Tai nạn liên hoàn, hai người tử vong](https://vnexpress.net/tai-nan-lien-hoan-hai-nguoi-tu-vong-4913712.html) - 13:37 13/07/2025
 - 🤓 [Ra mắt sổ tay hướng dẫn thủ tục đất đai cho chính quyền hai cấp](https://vnexpress.net/ra-mat-so-tay-huong-dan-thu-tuc-dat-dai-cho-chinh-quyen-hai-cap-4913702.html) - 12:08 13/07/2025
 - ⚗️ [Danh tính 29 người lính trong tập hồ sơ phía Mỹ trao lại](https://vnexpress.net/danh-tinh-29-nguoi-linh-trong-tap-ho-so-phia-my-trao-lai-4913667.html) - 11:46 13/07/2025
 - 🌊 [Dự án đường ở Cần Thơ bị tính dư hơn 3.000 tỷ đồng](https://vnexpress.net/du-an-duong-o-can-tho-bi-tinh-du-hon-3-000-ty-dong-4913661.html) - 08:12 13/07/2025
