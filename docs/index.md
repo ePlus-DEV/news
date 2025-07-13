@@ -212,7 +212,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Lao Động
 <!-- laodong:START -->
-- 🗽 [Trực tiếp bóng đá Chelsea 3-0 PSG: Hiệp 2](https://laodong.vn/bong-da-quoc-te/truc-tiep-bong-da-chelsea-3-0-psg-hiep-2-1539641.ldo) - 17:15 13/07/2025
+- 🗽 [Chelsea vô địch FIFA Club World Cup 2025](https://laodong.vn/bong-da-quoc-te/chelsea-vo-dich-fifa-club-world-cup-2025-1539641.ldo) - 17:15 13/07/2025
 - 📝 [Huy động lực lượng cứu người bị vùi lấp trong đêm ở xã vùng cao Lào Cai](https://laodong.vn/xa-hoi/huy-dong-luc-luong-cuu-nguoi-bi-vui-lap-trong-dem-o-xa-vung-cao-lao-cai-1539648.ldo) - 17:01 13/07/2025
 - 🦏 [Kết quả bóng chuyền U23 Quốc gia 2025 ngày 13.7](https://laodong.vn/the-thao/ket-qua-bong-chuyen-u23-quoc-gia-2025-ngay-137-1539640.ldo) - 16:58 13/07/2025
 - 🦩 [3 bài tập hàng ngày để duy trì sức khỏe sau 60 tuổi](https://laodong.vn/suc-khoe/3-bai-tap-hang-ngay-de-duy-tri-suc-khoe-sau-60-tuoi-1539287.ldo) - 15:30 13/07/2025
