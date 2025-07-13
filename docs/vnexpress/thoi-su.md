@@ -6,7 +6,7 @@ sidebar_position: 1
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Dự án đường ở Cần Thơ bị tính dư hơn 3.000 tỷ đồng](https://vnexpress.net/du-an-duong-o-can-tho-bi-tinh-du-hon-3-000-ty-dong-4913661.html) - 08:12 13/07/2025
 - 🤓 [Cứu hai người đi xe máy rơi xuống vực 25 m ở Ba Vì](https://vnexpress.net/cuu-hai-nguoi-di-xe-may-roi-xuong-vuc-25-m-o-ba-vi-4913648.html) - 07:12 13/07/2025
-- ⚗️ [Bánh xe container văng ra tông tử vong người đàn ông](https://vnexpress.net/banh-xe-container-vang-ra-tong-tu-vong-nguoi-dan-ong-4913638.html) - 06:03 13/07/2025
+- ⚗️ [Bánh xe container văng ra tông tử vong người đi bộ](https://vnexpress.net/banh-xe-container-vang-ra-tong-tu-vong-nguoi-di-bo-4913638.html) - 06:03 13/07/2025
 - 🌊 [Đề xuất tăng phụ cấp cho bộ trưởng, bí thư tỉnh ủy lên 2,7 triệu đồng](https://vnexpress.net/de-xuat-tang-phu-cap-cho-bo-truong-bi-thu-tinh-uy-len-2-7-trieu-dong-4913606.html) - 05:51 13/07/2025
 - 🎓 [Hai xe buýt ép nhau gây tai nạn ở TP HCM](https://vnexpress.net/hai-xe-buyt-ep-nhau-gay-tai-nan-o-tp-hcm-4913632.html) - 05:23 13/07/2025
 - 🔥 [Khí tài hiện đại nhất của Không quân Việt Nam sẽ tham gia diễu binh dịp 2/9](https://vnexpress.net/khi-tai-hien-dai-nhat-cua-khong-quan-viet-nam-se-tham-gia-dieu-binh-dip-2-9-4913589.html) - 03:31 13/07/2025
