@@ -28,7 +28,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- vnexpress:START -->
 - 🚀 [Lý do khiến bạn tỉnh giấc ngay trước chuông báo thức](https://vnexpress.net/ly-do-khien-ban-tinh-giac-ngay-truoc-chuong-bao-thuc-4912709.html) - 19:00 13/07/2025
 - 🧰 [8 năm thực hiện chủ trương cấm xe máy ở Hà Nội](https://vnexpress.net/8-nam-thuc-hien-chu-truong-cam-xe-may-o-ha-noi-4913737.html) - 18:24 13/07/2025
-- 🥰 [Chelsea 3-0 PSG &lpar;hết H1&rpar;: Cú sốc ở chung kết](https://vnexpress.net/chelsea-3-0-psg-het-h1-cu-soc-o-chung-ket-4913711.html) - 18:00 13/07/2025
+- 🥰 [Chelsea 3-0 PSG &lpar;H2&rpar;: Sanchez cứu thua xuất thần](https://vnexpress.net/chelsea-3-0-psg-h2-sanchez-cuu-thua-xuat-than-4913711.html) - 18:00 13/07/2025
 - 🌏 [6 điều cần tránh sau 5h chiều để kiểm soát đường huyết](https://vnexpress.net/6-dieu-can-tranh-sau-5h-chieu-de-kiem-soat-duong-huyet-4913457.html) - 18:00 13/07/2025
 - 🧐 [5 di tích ở Quảng Ninh trong quần thể di sản thế giới mới](https://vnexpress.net/5-di-tich-o-quang-ninh-trong-quan-the-di-san-the-gioi-moi-4913454.html) - 17:15 13/07/2025
 - 💫 [Cách giúp hành lý ký gửi ra băng chuyền sớm nhất](https://vnexpress.net/cach-giup-hanh-ly-ky-gui-ra-bang-chuyen-som-nhat-4911464.html) - 17:09 13/07/2025
