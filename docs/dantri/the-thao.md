@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Chung kết Wimbledon: Sinner 4-6, 4-3 Alcaraz](https://dantri.com.vn/the-thao/chung-ket-wimbledon-sinner-4-6-4-3-alcaraz-20250713220020223.htm) - 15:00 13/07/2025
+- 🎡 [Chung kết Wimbledon: Sinner 4-6, 6-4 Alcaraz](https://dantri.com.vn/the-thao/chung-ket-wimbledon-sinner-4-6-6-4-alcaraz-20250713220020223.htm) - 15:00 13/07/2025
 - 💯 [HLV Hà Lan muốn đội nhà “lật đổ” ngôi vương của U23 Việt Nam](https://dantri.com.vn/the-thao/hlv-ha-lan-muon-doi-nha-lat-do-ngoi-vuong-cua-u23-viet-nam-20250713181702008.htm) - 11:17 13/07/2025
 - ⛽️ [Chung kết Wimbledon: Vinh quang gọi tên Sinner hay Alcaraz?](https://dantri.com.vn/the-thao/chung-ket-wimbledon-vinh-quang-goi-ten-sinner-hay-alcaraz-20250713081628868.htm) - 09:00 13/07/2025
 - 💃 [Chung kết FIFA Club World Cup: Con quái vật hung bạo và kẻ không cam chịu](https://dantri.com.vn/the-thao/chung-ket-fifa-club-world-cup-con-quai-vat-hung-bao-va-ke-khong-cam-chiu-20250713011651622.htm) - 07:41 13/07/2025
