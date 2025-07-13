@@ -4,8 +4,8 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Chelsea - PSG: Joao Pedro, Dembele đá chính](https://vnexpress.net/chelsea-psg-joao-pedro-dembele-da-chinh-4913711.html) - 18:00 13/07/2025
-- 🦩 [Sinner 4-6, 6-4, 6-4, *3-2 Alcaraz &lpar;set 4&rpar;: Thế trận đảo chiều](https://vnexpress.net/truc-tiep-sinner-vs-alcaraz-4913725.html) - 14:31 13/07/2025
+- 🪜 [Chelsea 3-0 PSG &lpar;H2&rpar;: Cú sốc ở chung kết](https://vnexpress.net/chelsea-3-0-psg-h2-cu-soc-o-chung-ket-4913711.html) - 18:00 13/07/2025
+- 🦩 [Sinner thắng Alcaraz ở chung kết Wimbledon 2025](https://vnexpress.net/truc-tiep-sinner-vs-alcaraz-4913725-tong-thuat.html) - 14:31 13/07/2025
 - 🧰 [Lại Lý Huynh thua đậm kỳ vương cờ tướng Trung Quốc](https://vnexpress.net/lai-ly-huynh-thua-dam-ky-vuong-co-tuong-trung-quoc-4913700.html) - 12:00 13/07/2025
 - 🤗 [Ferdinand chỉ trích CĐV Arsenal thiếu tôn trọng Madueke](https://vnexpress.net/ferdinand-chi-trich-cdv-arsenal-thieu-ton-trong-madueke-4913662.html) - 11:05 13/07/2025
 - 🥳 [HLV Thái Lan hứa từ chức nếu không vô địch SEA Games 33](https://vnexpress.net/hlv-thai-lan-hua-tu-chuc-neu-khong-vo-dich-sea-games-33-4913701.html) - 11:02 13/07/2025
