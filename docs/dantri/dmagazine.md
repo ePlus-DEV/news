@@ -4,7 +4,7 @@ sidebar_position: 27
 ---
 
 <!-- dantri-dmagazine:START -->
-- 👨‍🏫 [Báo Dân trí đăng tải nhiều nội dung hấp dẫn, đặc sắc, thu hút độc giả](https://dantri.com.vn/xa-hoi/bao-dan-tri-dang-tai-nhieu-noi-dung-hap-dan-dac-sac-thu-hut-doc-gia-20250615000759409.htm) - 23:13 12/07/2025
+- 👨‍🏫 [Khi độc giả đã “chán” tin tiêu cực, báo chí phải trở lại bằng cảm hứng và niềm tin](https://dantri.com.vn/xa-hoi/khi-doc-gia-da-chan-tin-tieu-cuc-bao-chi-phai-tro-lai-bang-cam-hung-va-niem-tin-20250615000759409.htm) - 23:13 12/07/2025
 - 🎡 [Hành trình 20 năm - Những dấu ấn khác biệt tạo nên thương hiệu Dân trí](https://dantri.com.vn/xa-hoi/hanh-trinh-20-nam-nhung-dau-an-khac-biet-tao-nen-thuong-hieu-dan-tri-20250605193746990.htm) - 23:06 10/07/2025
 - 😎 [Bỏ phố lên Bản Liền: Một ngày làm nông dân, bắt cá, hái chè cùng người Tày](https://dantri.com.vn/du-lich/bo-pho-len-ban-lien-mot-ngay-lam-nong-dan-bat-ca-hai-che-cung-nguoi-tay-20250707161225243.htm) - 23:05 08/07/2025
 - 🦍 [Điện sạch hậu &quot;cơn sốt&quot;: Hàng nghìn tỷ đồng kẹt giữa rào cản chính sách?](https://dantri.com.vn/kinh-doanh/dien-sach-hau-con-sot-hang-nghin-ty-dong-ket-giua-rao-can-chinh-sach-20250704205328007.htm) - 00:14 07/07/2025
