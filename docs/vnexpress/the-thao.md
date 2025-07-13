@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Sinner 4-6, *1-0 Alcaraz &lpar;set 1&rpar;: Thắng liền bốn game](https://vnexpress.net/truc-tiep-sinner-vs-alcaraz-4913725.html) - 14:31 13/07/2025
+- 🪜 [Sinner 4-6, *4-3 Alcaraz &lpar;set 2&rpar;: Diễn biến khó lường](https://vnexpress.net/truc-tiep-sinner-vs-alcaraz-4913725.html) - 14:31 13/07/2025
 - 🦩 [Lại Lý Huynh thua đậm kỳ vương cờ tướng Trung Quốc](https://vnexpress.net/lai-ly-huynh-thua-dam-ky-vuong-co-tuong-trung-quoc-4913700.html) - 12:00 13/07/2025
 - 🧰 [Ferdinand chỉ trích CĐV Arsenal thiếu tôn trọng Madueke](https://vnexpress.net/ferdinand-chi-trich-cdv-arsenal-thieu-ton-trong-madueke-4913662.html) - 11:05 13/07/2025
 - 🤗 [HLV Thái Lan hứa từ chức nếu không vô địch SEA Games 33](https://vnexpress.net/hlv-thai-lan-hua-tu-chuc-neu-khong-vo-dich-sea-games-33-4913701.html) - 11:02 13/07/2025
