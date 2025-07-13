@@ -6,7 +6,7 @@ sidebar_position: 9
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Lý do khiến bạn tỉnh giấc ngay trước chuông báo thức](https://vnexpress.net/ly-do-khien-ban-tinh-giac-ngay-truoc-chuong-bao-thuc-4912709.html) - 19:00 13/07/2025
 - 🐎 [8 năm thực hiện chủ trương cấm xe máy ở Hà Nội](https://vnexpress.net/8-nam-thuc-hien-chu-truong-cam-xe-may-o-ha-noi-4913737.html) - 18:24 13/07/2025
-- 🦍 [Chelsea 0-0 PSG &lpar;H1&rpar;: Palmer suýt mở tỷ số](https://vnexpress.net/chelsea-0-0-psg-h1-palmer-suyt-mo-ty-so-4913711.html) - 18:00 13/07/2025
+- 🦍 [Chelsea 3-0 PSG &lpar;hết H1&rpar;: Cú sốc ở chung kết](https://vnexpress.net/chelsea-3-0-psg-het-h1-cu-soc-o-chung-ket-4913711.html) - 18:00 13/07/2025
 - 🏊 [6 điều cần tránh sau 5h chiều để kiểm soát đường huyết](https://vnexpress.net/6-dieu-can-tranh-sau-5h-chieu-de-kiem-soat-duong-huyet-4913457.html) - 18:00 13/07/2025
 - 🎊 [5 di tích ở Quảng Ninh trong quần thể di sản thế giới mới](https://vnexpress.net/5-di-tich-o-quang-ninh-trong-quan-the-di-san-the-gioi-moi-4913454.html) - 17:15 13/07/2025
 - 🎃 [Cách giúp hành lý ký gửi ra băng chuyền sớm nhất](https://vnexpress.net/cach-giup-hanh-ly-ky-gui-ra-bang-chuyen-som-nhat-4911464.html) - 17:09 13/07/2025
@@ -27,7 +27,7 @@ sidebar_position: 9
 - 🫣 [Tên lửa Israel trượt mục tiêu, khiến nhiều trẻ em Palestine thiệt mạng](https://vnexpress.net/ten-lua-israel-truot-muc-tieu-khien-nhieu-tre-em-palestine-thiet-mang-4913728.html) - 15:17 13/07/2025
 - 🧑‍💻 [Tiktoker Tiến &#39;Bịp&#39; bị khởi tố](https://vnexpress.net/tiktoker-tien-bip-bi-khoi-to-4913729.html) - 15:15 13/07/2025
 - 🐲 [Khi yêu anh &#39;cuồng nhiệt&#39;, sau cưới chỉ ôm tôi ngủ](https://vnexpress.net/sex-thieu-chuyen-ay-khi-yeu-anh-cuong-nhiet-sau-cuoi-chong-chi-om-toi-ngu-4912601.html) - 15:00 13/07/2025
-- 🌝 [Sinner thắng Alcaraz ở chung kết Wimbledon 2025](https://vnexpress.net/truc-tiep-sinner-vs-alcaraz-4913725.html) - 14:31 13/07/2025
+- 🌝 [Sinner thắng Alcaraz ở chung kết Wimbledon 2025](https://vnexpress.net/truc-tiep-sinner-vs-alcaraz-4913725-tong-thuat.html) - 14:31 13/07/2025
 - 😺 [Tai nạn liên hoàn, hai người tử vong](https://vnexpress.net/tai-nan-lien-hoan-hai-nguoi-tu-vong-4913712.html) - 13:37 13/07/2025
 - 🐎 [Chi Pu và dàn sao dự tiệc cưới Đạt G](https://vnexpress.net/chi-pu-va-dan-sao-du-tiec-cuoi-dat-g-4913696.html) - 13:37 13/07/2025
 - 🎡 [Ukraine tuyên bố hạ nghi phạm ám sát đại tá tình báo](https://vnexpress.net/ukraine-tuyen-bo-ha-nghi-pham-am-sat-dai-ta-tinh-bao-4913713.html) - 13:13 13/07/2025
