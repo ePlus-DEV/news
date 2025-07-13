@@ -525,7 +525,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Trực tiếp PSG đấu Chelsea &lpar;0-3, hiệp 1&rpar;: Cole Palmer kiến tạo, Joao Pedro lập công](https://muctim.tuoitre.vn/truc-tiep-chung-ket-fifa-club-world-cup-2025-psg-dau-chelsea-101250713215915185.htm) - 18:00 13/07/2025
+- 🤔 [Trực tiếp PSG đấu Chelsea &lpar;0-3, hiệp 1&rpar;: Show diễn hoàn hảo của Cole Palmer](https://muctim.tuoitre.vn/truc-tiep-chung-ket-fifa-club-world-cup-2025-psg-dau-chelsea-101250713215915185.htm) - 18:00 13/07/2025
 - 🥷 [Trắc nghiệm: Tỉnh Bắc Ninh được sáp nhập từ tỉnh nào?](https://muctim.tuoitre.vn/trac-nghiem-tinh-bac-ninh-duoc-sap-nhap-tu-tinh-nao-101250708232826244.htm) - 14:00 13/07/2025
 - 🤖 [Số tiền thưởng &#39;khủng&#39; dành cho nhà vô địch FIFA Club World Cup 2025](https://muctim.tuoitre.vn/so-tien-thuong-khung-danh-cho-nha-vo-dich-fifa-club-world-cup-2025-101250713204128275.htm) - 13:41 13/07/2025
 - 🤓 [Truyện ngắn Mực Tím: Ngày bỗng êm ru](https://muctim.tuoitre.vn/truyen-ngan-muc-tim-ngay-bong-em-ru-101250604161104349.htm) - 12:27 13/07/2025
