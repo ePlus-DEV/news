@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Cơ thủ Đài Loan đột tử ở khách sạn](https://vnexpress.net/co-thu-dai-loan-dot-tu-o-khach-san-4914261.html) - 14:29 14/07/2025
+- 🪜 [Cơ thủ đột tử khi tham dự giải đấu ở Indonesia](https://vnexpress.net/co-thu-dot-tu-khi-tham-du-giai-dau-o-indonesia-4914261.html) - 14:29 14/07/2025
 - 🦩 [HLV Enrique đứt &#39;chuỗi trận Vàng&#39;](https://vnexpress.net/hlv-enrique-dut-chuoi-tran-vang-4913953.html) - 13:15 14/07/2025
 - 🧰 [V-League không để 4 ngoại binh thi đấu cùng lúc](https://vnexpress.net/v-league-khong-de-4-ngoai-binh-thi-dau-cung-luc-4914232.html) - 12:05 14/07/2025
 - 🤗 [Xuân Trường tái hợp Công Phượng](https://vnexpress.net/xuan-truong-tai-hop-cong-phuong-4914233.html) - 12:00 14/07/2025
