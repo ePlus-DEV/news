@@ -5,8 +5,8 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [FIFA làm sai luật trong trận chung kết Club World Cup](https://dantri.com.vn/the-thao/fifa-lam-sai-luat-trong-tran-chung-ket-club-world-cup-20250714203102658.htm) - 13:31 14/07/2025
-- 💯 [Bốc thăm V-League 2025-2026: Một số CLB có tên gọi mới](https://dantri.com.vn/the-thao/boc-tham-v-league-2025-2026-mot-so-clb-co-ten-goi-moi-20250714192208353.htm) - 12:44 14/07/2025
-- ⛽️ [Chelsea “bơi trong tiền” sau khi vô địch FIFA Club World Cup](https://dantri.com.vn/the-thao/chelsea-boi-trong-tien-sau-khi-vo-dich-fifa-club-world-cup-20250714184455875.htm) - 12:01 14/07/2025
+- 💯 [Chelsea “bơi trong tiền” sau khi vô địch FIFA Club World Cup](https://dantri.com.vn/the-thao/chelsea-boi-trong-tien-sau-khi-vo-dich-fifa-club-world-cup-20250714184455875.htm) - 12:45 14/07/2025
+- ⛽️ [Bốc thăm V-League 2025-2026: Một số CLB có tên gọi mới](https://dantri.com.vn/the-thao/boc-tham-v-league-2025-2026-mot-so-clb-co-ten-goi-moi-20250714192208353.htm) - 12:44 14/07/2025
 - 💃 [HLV Mano Polking: “Muốn dự World Cup, cầu thủ Việt Nam nên ra nước ngoài”](https://dantri.com.vn/the-thao/hlv-mano-polking-muon-du-world-cup-cau-thu-viet-nam-nen-ra-nuoc-ngoai-20250714143752303.htm) - 11:00 14/07/2025
 - 🌈 [U23 Việt Nam đến Indonesia, háo hức trước giờ xung trận](https://dantri.com.vn/the-thao/u23-viet-nam-den-indonesia-hao-huc-truoc-gio-xung-tran-20250714174255388.htm) - 10:58 14/07/2025
 - 🦅 [HLV Luis Enrique đối diện với đòn trừng phạt của FIFA vì tát đối thủ](https://dantri.com.vn/the-thao/hlv-luis-enrique-doi-dien-voi-don-trung-phat-cua-fifa-vi-tat-doi-thu-20250714145651919.htm) - 08:04 14/07/2025
