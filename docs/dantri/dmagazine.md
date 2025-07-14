@@ -4,7 +4,7 @@ sidebar_position: 27
 ---
 
 <!-- dantri-dmagazine:START -->
-- 👨‍🏫 [&quot;Báo Dân trí góp phần kiến tạo không gian thông tin tích cực, thắp lửa khát vọng Việt&quot;](https://dantri.com.vn/xa-hoi/bao-dan-tri-gop-phan-kien-tao-khong-gian-thong-tin-tich-cuc-thap-lua-khat-vong-viet-20250625212333669.htm) - 00:06 14/07/2025
+- 👨‍🏫 [&quot;Báo chí thắp sáng niềm tin, hun đúc khát vọng phát triển hùng cường&quot;](https://dantri.com.vn/xa-hoi/bao-chi-thap-sang-niem-tin-hun-duc-khat-vong-phat-trien-hung-cuong-20250625212333669.htm) - 00:06 14/07/2025
 - 🎡 [Khi độc giả đã “chán” tin tiêu cực, báo chí phải trở lại bằng cảm hứng và niềm tin](https://dantri.com.vn/xa-hoi/khi-doc-gia-da-chan-tin-tieu-cuc-bao-chi-phai-tro-lai-bang-cam-hung-va-niem-tin-20250615000759409.htm) - 23:13 12/07/2025
 - 😎 [Hành trình 20 năm - Những dấu ấn khác biệt tạo nên thương hiệu Dân trí](https://dantri.com.vn/xa-hoi/hanh-trinh-20-nam-nhung-dau-an-khac-biet-tao-nen-thuong-hieu-dan-tri-20250605193746990.htm) - 23:06 10/07/2025
 - 🦍 [Bỏ phố lên Bản Liền: Một ngày làm nông dân, bắt cá, hái chè cùng người Tày](https://dantri.com.vn/du-lich/bo-pho-len-ban-lien-mot-ngay-lam-nong-dan-bat-ca-hai-che-cung-nguoi-tay-20250707161225243.htm) - 23:05 08/07/2025
