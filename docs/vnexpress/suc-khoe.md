@@ -4,54 +4,54 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Khí cười gây ảo giác thế nào](https://vnexpress.net/khi-cuoi-gay-ao-giac-the-nao-4914338.html) - 18:00 15/07/2025
-- 🥰 [Ăn như &#39;trẻ nhỏ&#39; vẫn tăng cân, máu nhiễm mỡ](https://vnexpress.net/an-nhu-tre-nho-van-tang-can-mau-nhiem-mo-4913805.html) - 17:03 15/07/2025
-- 💡 [5 đồ uống tưởng vô hại song khiến thận tổn thương](https://vnexpress.net/5-do-uong-tuong-vo-hai-song-khien-than-ton-thuong-4914138.html) - 17:02 15/07/2025
-- 🤗 [Đề xuất chi 650 tỷ đồng hỗ trợ phụ nữ sinh đủ 2 con trước 35 tuổi](https://vnexpress.net/de-xuat-chi-650-ty-dong-ho-tro-phu-nu-sinh-du-2-con-truoc-35-tuoi-4914625.html) - 13:02 15/07/2025
-- 🪜 [Người bệnh xương khớp dễ gặp biến chứng do zona thần kinh](https://vnexpress.net/nguoi-benh-xuong-khop-de-gap-bien-chung-do-zona-than-kinh-4914644.html) - 12:00 15/07/2025
-- 🕯 [Chăm sóc trẻ thế nào sau cắt bao quy đầu](https://vnexpress.net/cham-soc-tre-the-nao-sau-cat-bao-quy-dau-4914603.html) - 12:00 15/07/2025
-- 🤭 [Phẫu thuật chữa tinh hoàn ẩn và sa trực tràng cho trẻ](https://vnexpress.net/phau-thuat-chua-tinh-hoan-an-va-sa-truc-trang-cho-tre-4914367.html) - 12:00 15/07/2025
-- 👀 [Sau mổ ung thư tuyến giáp có nên kiêng muối iốt?](https://vnexpress.net/sau-mo-ung-thu-tuyen-giap-co-nen-kieng-muoi-iot-4914656.html) - 11:00 15/07/2025
-- 🌋 [Dấu hiệu thường gặp cảnh báo huyết áp thấp](https://vnexpress.net/dau-hieu-thuong-gap-canh-bao-huyet-ap-thap-4914578.html) - 11:00 15/07/2025
-- 🫶 [5 thực phẩm giúp giảm tạo sỏi thận](https://vnexpress.net/5-thuc-pham-giup-giam-tao-soi-than-4914405.html) - 10:00 15/07/2025
-- 🦆 [Hà Nội ghi nhận ca viêm não Nhật Bản đầu tiên trong năm](https://vnexpress.net/benh-truyen-nhiem-ha-noi-ghi-nhan-ca-viem-nao-nhat-ban-dau-tien-trong-nam-4914649.html) - 09:42 15/07/2025
-- 🚀 [Ăn cơm nguội có làm tăng đường huyết chậm hơn cơm nóng?](https://vnexpress.net/an-com-nguoi-co-lam-tang-duong-huyet-cham-hon-com-nong-4914472.html) - 09:30 15/07/2025
-- 🌜 [6 vitamin, khoáng chất nếu thiếu dễ mắc bệnh hô hấp](https://vnexpress.net/6-vitamin-khoang-chat-neu-thieu-de-mac-benh-ho-hap-4914590.html) - 09:00 15/07/2025
-- 🧰 [Người đàn ông nặng 120 kg mắc đa bệnh lý](https://vnexpress.net/nguoi-dan-ong-nang-120-kg-mac-da-benh-ly-4914530.html) - 09:00 15/07/2025
-- 💫 [Sốt xuất huyết rình rập từ ổ đọng nước quanh nhà](https://vnexpress.net/sot-xuat-huyet-rinh-rap-tu-o-dong-nuoc-quanh-nha-4914543.html) - 08:48 15/07/2025
-- 🌝 [Hai khối u não chèn ép dây thần kinh người phụ nữ](https://vnexpress.net/hai-khoi-u-nao-chen-ep-day-than-kinh-nguoi-phu-nu-4914538.html) - 08:00 15/07/2025
-- 🗽 [Người bệnh tiểu đường ăn sầu riêng thế nào](https://vnexpress.net/nguoi-benh-tieu-duong-an-sau-rieng-the-nao-4914537.html) - 07:30 15/07/2025
-- 🕯 [5 lưu ý chăm sóc da khi đi du lịch](https://vnexpress.net/5-luu-y-cham-soc-da-khi-di-du-lich-4914506.html) - 07:00 15/07/2025
-- 🦅 [Bé sơ sinh nguy kịch vì gia đình dùng dao lam &#39;giải bệnh&#39;](https://vnexpress.net/be-so-sinh-nguy-kich-vi-gia-dinh-dung-dao-lam-giai-benh-4914513.html) - 06:42 15/07/2025
-- 🦆 [5 món tốt cho gan trong mùa hè](https://vnexpress.net/5-mon-tot-cho-gan-trong-mua-he-4914412.html) - 05:30 15/07/2025
-- 🎊 [Bi kịch của &#39;ngôi làng một thận&#39;](https://vnexpress.net/bi-kich-cua-ngoi-lang-mot-than-4914483.html) - 05:15 15/07/2025
-- 🏊 [Tuổi trung niên mới lần đầu làm mẹ](https://vnexpress.net/tuoi-trung-nien-moi-lan-dau-lam-me-4914344.html) - 05:00 15/07/2025
-- 📝 [Cứng khớp ngón tay khi ngủ dậy là bệnh gì?](https://vnexpress.net/cung-khop-ngon-tay-khi-ngu-day-la-benh-gi-4914377.html) - 03:00 15/07/2025
-- 💯 [Triệt căn ung thư nhờ phát hiện sớm](https://vnexpress.net/triet-can-ung-thu-nho-phat-hien-som-4914359.html) - 03:00 15/07/2025
-- 🌊 [Gây tê mổ u cho người bệnh sốc thuốc mê](https://vnexpress.net/gay-te-mo-u-cho-nguoi-benh-soc-thuoc-me-4914319.html) - 03:00 15/07/2025
-- 🚀 [Số ca tiểu đường tăng gấp 3, hơn một nửa chưa được chẩn đoán](https://vnexpress.net/so-ca-tieu-duong-tang-gap-3-hon-mot-nua-chua-duoc-chan-doan-4914282.html) - 02:40 15/07/2025
-- 🕴 [Ai mắc sốt xuất huyết dễ trở nặng](https://vnexpress.net/ai-mac-sot-xuat-huyet-de-tro-nang-4914278.html) - 02:00 15/07/2025
-- 🗽 [Thuốc ung thư do AI thiết kế sắp thử nghiệm trên người](https://vnexpress.net/thuoc-ung-thu-do-ai-thiet-ke-sap-thu-nghiem-tren-nguoi-4914223.html) - 01:05 15/07/2025
-- 🎡 [Bé gái 11 tuổi có 81 chiếc răng](https://vnexpress.net/be-gai-11-tuoi-co-81-chiec-rang-4914231.html) - 01:03 15/07/2025
-- ⛽️ [5 thói quen làm tăng độ cận thị](https://vnexpress.net/5-thoi-quen-lam-tang-do-can-thi-4914200.html) - 01:00 15/07/2025
-- 🦆 [Tưởng bệnh tuổi già hóa đục thủy tinh thể](https://vnexpress.net/tuong-benh-tuoi-gia-hoa-duc-thuy-tinh-the-4914175.html) - 01:00 15/07/2025
-- 🤩 [Ba thói quen ăn uống tàn phá thận ở người trẻ](https://vnexpress.net/ba-thoi-quen-an-uong-tan-pha-than-o-nguoi-tre-4913631.html) - 23:02 14/07/2025
-- 🦒 [7 thực phẩm giúp hạ men gan tự nhiên](https://vnexpress.net/7-thuc-pham-giup-ha-men-gan-tu-nhien-4914433.html) - 23:00 14/07/2025
-- 💫 [TP HCM đưa 274 bác sĩ trẻ về trạm y tế, bao gồm Côn Đảo](https://vnexpress.net/tp-hcm-dua-274-bac-si-tre-ve-tram-y-te-bao-gom-con-dao-4914246.html) - 22:06 14/07/2025
-- 🐘 [Căn bệnh khiến ca sĩ nhóm Backstreet Boys thay đổi giọng hát](https://vnexpress.net/can-benh-khien-ca-si-nhom-backstreet-boys-thay-doi-giong-hat-4913986.html) - 22:00 14/07/2025
-- 🚀 [Vì sao nam giới có hiện tượng ngực to như phụ nữ?](https://vnexpress.net/vi-sao-nam-gioi-co-hien-tuong-nguc-to-nhu-phu-nu-4913731.html) - 17:02 14/07/2025
-- 🕯 [67 ngày cứu chữa bé trai bị nhánh cây rơi trúng đầu](https://vnexpress.net/67-ngay-cuu-chua-be-trai-bi-nhanh-cay-roi-trung-dau-4914126.html) - 13:00 14/07/2025
-- 🦏 [Những hành vi khiến sốt xuất huyết trở nặng](https://vnexpress.net/nhung-hanh-vi-khien-sot-xuat-huyet-tro-nang-4914206.html) - 12:00 14/07/2025
-- 🦄 [Dấu hiệu nhận biết vỡ phình mạch não](https://vnexpress.net/dau-hieu-nhan-biet-vo-phinh-mach-nao-4914188.html) - 12:00 14/07/2025
-- 🦒 [Những thói quen thường gặp khiến trẻ khó ngủ](https://vnexpress.net/nhung-thoi-quen-thuong-gap-khien-tre-kho-ngu-4914099.html) - 12:00 14/07/2025
-- 👨‍🏫 [Chơi kéo dây thun, bé trai bị bóng tennis đập vào mắt dập nhãn cầu](https://vnexpress.net/choi-keo-day-thun-be-trai-bi-bong-tennis-dap-vao-mat-dap-nhan-cau-4914102.html) - 11:00 14/07/2025
-- 🌜 [Điều gì xảy ra khi thở bằng miệng vào ban đêm?](https://vnexpress.net/dieu-gi-xay-ra-khi-tho-bang-mieng-vao-ban-dem-4913968.html) - 11:00 14/07/2025
-- 🚀 [Lợi ích khi người tiểu đường nên ăn sữa chua mỗi ngày](https://vnexpress.net/loi-ich-khi-nguoi-tieu-duong-nen-an-sua-chua-moi-ngay-4913798.html) - 10:00 14/07/2025
-- 💃 [Tại sao ngồi nhiều không tốt cho tim mạch?](https://vnexpress.net/tai-sao-ngoi-nhieu-khong-tot-cho-tim-mach-4913900.html) - 09:30 14/07/2025
-- 💯 [Polyp tử cung - nguyên nhân tiềm ẩn gây vô sinh](https://vnexpress.net/polyp-tu-cung-nguyen-nhan-tiem-an-gay-vo-sinh-4914122.html) - 09:00 14/07/2025
-- 🤔 [Phát hiện mắc hai loại ung thư từ dấu hiệu sụt cân](https://vnexpress.net/phat-hien-mac-hai-loai-ung-thu-tu-dau-hieu-sut-can-4914090.html) - 08:36 14/07/2025
-- 🎬 [Bị gan nhiễm mỡ có cần kiêng dầu mỡ?](https://vnexpress.net/bi-gan-nhiem-mo-co-can-kieng-dau-mo-4914075.html) - 08:30 14/07/2025
-- 🪜 [Xóa xăm &#39;chân mày tài lộc&#39; bằng laser](https://vnexpress.net/xoa-xam-chan-may-tai-loc-bang-laser-4914048.html) - 08:00 14/07/2025
+- 🔥 [Tiểu ra máu vì ba thói quen nguy hiểm](https://vnexpress.net/tieu-ra-mau-vi-ba-thoi-quen-nguy-hiem-4914337.html) - 19:00 15/07/2025
+- 🥰 [Khí cười gây ảo giác thế nào](https://vnexpress.net/khi-cuoi-gay-ao-giac-the-nao-4914338.html) - 18:00 15/07/2025
+- 💡 [Ăn như &#39;trẻ nhỏ&#39; vẫn tăng cân, máu nhiễm mỡ](https://vnexpress.net/an-nhu-tre-nho-van-tang-can-mau-nhiem-mo-4913805.html) - 17:03 15/07/2025
+- 🤗 [5 đồ uống tưởng vô hại song khiến thận tổn thương](https://vnexpress.net/5-do-uong-tuong-vo-hai-song-khien-than-ton-thuong-4914138.html) - 17:02 15/07/2025
+- 🪜 [Đề xuất chi 650 tỷ đồng hỗ trợ phụ nữ sinh đủ 2 con trước 35 tuổi](https://vnexpress.net/de-xuat-chi-650-ty-dong-ho-tro-phu-nu-sinh-du-2-con-truoc-35-tuoi-4914625.html) - 13:02 15/07/2025
+- 🕯 [Người bệnh xương khớp dễ gặp biến chứng do zona thần kinh](https://vnexpress.net/nguoi-benh-xuong-khop-de-gap-bien-chung-do-zona-than-kinh-4914644.html) - 12:00 15/07/2025
+- 🤭 [Chăm sóc trẻ thế nào sau cắt bao quy đầu](https://vnexpress.net/cham-soc-tre-the-nao-sau-cat-bao-quy-dau-4914603.html) - 12:00 15/07/2025
+- 👀 [Phẫu thuật chữa tinh hoàn ẩn và sa trực tràng cho trẻ](https://vnexpress.net/phau-thuat-chua-tinh-hoan-an-va-sa-truc-trang-cho-tre-4914367.html) - 12:00 15/07/2025
+- 🌋 [Sau mổ ung thư tuyến giáp có nên kiêng muối iốt?](https://vnexpress.net/sau-mo-ung-thu-tuyen-giap-co-nen-kieng-muoi-iot-4914656.html) - 11:00 15/07/2025
+- 🫶 [Dấu hiệu thường gặp cảnh báo huyết áp thấp](https://vnexpress.net/dau-hieu-thuong-gap-canh-bao-huyet-ap-thap-4914578.html) - 11:00 15/07/2025
+- 🦆 [5 thực phẩm giúp giảm tạo sỏi thận](https://vnexpress.net/5-thuc-pham-giup-giam-tao-soi-than-4914405.html) - 10:00 15/07/2025
+- 🚀 [Hà Nội ghi nhận ca viêm não Nhật Bản đầu tiên trong năm](https://vnexpress.net/benh-truyen-nhiem-ha-noi-ghi-nhan-ca-viem-nao-nhat-ban-dau-tien-trong-nam-4914649.html) - 09:42 15/07/2025
+- 🌜 [Ăn cơm nguội có làm tăng đường huyết chậm hơn cơm nóng?](https://vnexpress.net/an-com-nguoi-co-lam-tang-duong-huyet-cham-hon-com-nong-4914472.html) - 09:30 15/07/2025
+- 🧰 [6 vitamin, khoáng chất nếu thiếu dễ mắc bệnh hô hấp](https://vnexpress.net/6-vitamin-khoang-chat-neu-thieu-de-mac-benh-ho-hap-4914590.html) - 09:00 15/07/2025
+- 💫 [Người đàn ông nặng 120 kg mắc đa bệnh lý](https://vnexpress.net/nguoi-dan-ong-nang-120-kg-mac-da-benh-ly-4914530.html) - 09:00 15/07/2025
+- 🌝 [Sốt xuất huyết rình rập từ ổ đọng nước quanh nhà](https://vnexpress.net/sot-xuat-huyet-rinh-rap-tu-o-dong-nuoc-quanh-nha-4914543.html) - 08:48 15/07/2025
+- 🗽 [Hai khối u não chèn ép dây thần kinh người phụ nữ](https://vnexpress.net/hai-khoi-u-nao-chen-ep-day-than-kinh-nguoi-phu-nu-4914538.html) - 08:00 15/07/2025
+- 🕯 [Người bệnh tiểu đường ăn sầu riêng thế nào](https://vnexpress.net/nguoi-benh-tieu-duong-an-sau-rieng-the-nao-4914537.html) - 07:30 15/07/2025
+- 🦅 [5 lưu ý chăm sóc da khi đi du lịch](https://vnexpress.net/5-luu-y-cham-soc-da-khi-di-du-lich-4914506.html) - 07:00 15/07/2025
+- 🦆 [Bé sơ sinh nguy kịch vì gia đình dùng dao lam &#39;giải bệnh&#39;](https://vnexpress.net/be-so-sinh-nguy-kich-vi-gia-dinh-dung-dao-lam-giai-benh-4914513.html) - 06:42 15/07/2025
+- 🎊 [5 món tốt cho gan trong mùa hè](https://vnexpress.net/5-mon-tot-cho-gan-trong-mua-he-4914412.html) - 05:30 15/07/2025
+- 🏊 [Bi kịch của &#39;ngôi làng một thận&#39;](https://vnexpress.net/bi-kich-cua-ngoi-lang-mot-than-4914483.html) - 05:15 15/07/2025
+- 📝 [Tuổi trung niên mới lần đầu làm mẹ](https://vnexpress.net/tuoi-trung-nien-moi-lan-dau-lam-me-4914344.html) - 05:00 15/07/2025
+- 💯 [Cứng khớp ngón tay khi ngủ dậy là bệnh gì?](https://vnexpress.net/cung-khop-ngon-tay-khi-ngu-day-la-benh-gi-4914377.html) - 03:00 15/07/2025
+- 🌊 [Triệt căn ung thư nhờ phát hiện sớm](https://vnexpress.net/triet-can-ung-thu-nho-phat-hien-som-4914359.html) - 03:00 15/07/2025
+- 🚀 [Gây tê mổ u cho người bệnh sốc thuốc mê](https://vnexpress.net/gay-te-mo-u-cho-nguoi-benh-soc-thuoc-me-4914319.html) - 03:00 15/07/2025
+- 🕴 [Số ca tiểu đường tăng gấp 3, hơn một nửa chưa được chẩn đoán](https://vnexpress.net/so-ca-tieu-duong-tang-gap-3-hon-mot-nua-chua-duoc-chan-doan-4914282.html) - 02:40 15/07/2025
+- 🗽 [Ai mắc sốt xuất huyết dễ trở nặng](https://vnexpress.net/ai-mac-sot-xuat-huyet-de-tro-nang-4914278.html) - 02:00 15/07/2025
+- 🎡 [Thuốc ung thư do AI thiết kế sắp thử nghiệm trên người](https://vnexpress.net/thuoc-ung-thu-do-ai-thiet-ke-sap-thu-nghiem-tren-nguoi-4914223.html) - 01:05 15/07/2025
+- ⛽️ [Bé gái 11 tuổi có 81 chiếc răng](https://vnexpress.net/be-gai-11-tuoi-co-81-chiec-rang-4914231.html) - 01:03 15/07/2025
+- 🦆 [5 thói quen làm tăng độ cận thị](https://vnexpress.net/5-thoi-quen-lam-tang-do-can-thi-4914200.html) - 01:00 15/07/2025
+- 🤩 [Tưởng bệnh tuổi già hóa đục thủy tinh thể](https://vnexpress.net/tuong-benh-tuoi-gia-hoa-duc-thuy-tinh-the-4914175.html) - 01:00 15/07/2025
+- 🦒 [Ba thói quen ăn uống tàn phá thận ở người trẻ](https://vnexpress.net/ba-thoi-quen-an-uong-tan-pha-than-o-nguoi-tre-4913631.html) - 23:02 14/07/2025
+- 💫 [7 thực phẩm giúp hạ men gan tự nhiên](https://vnexpress.net/7-thuc-pham-giup-ha-men-gan-tu-nhien-4914433.html) - 23:00 14/07/2025
+- 🐘 [TP HCM đưa 274 bác sĩ trẻ về trạm y tế, bao gồm Côn Đảo](https://vnexpress.net/tp-hcm-dua-274-bac-si-tre-ve-tram-y-te-bao-gom-con-dao-4914246.html) - 22:06 14/07/2025
+- 🚀 [Căn bệnh khiến ca sĩ nhóm Backstreet Boys thay đổi giọng hát](https://vnexpress.net/can-benh-khien-ca-si-nhom-backstreet-boys-thay-doi-giong-hat-4913986.html) - 22:00 14/07/2025
+- 🕯 [Vì sao nam giới có hiện tượng ngực to như phụ nữ?](https://vnexpress.net/vi-sao-nam-gioi-co-hien-tuong-nguc-to-nhu-phu-nu-4913731.html) - 17:02 14/07/2025
+- 🦏 [67 ngày cứu chữa bé trai bị nhánh cây rơi trúng đầu](https://vnexpress.net/67-ngay-cuu-chua-be-trai-bi-nhanh-cay-roi-trung-dau-4914126.html) - 13:00 14/07/2025
+- 🦄 [Những hành vi khiến sốt xuất huyết trở nặng](https://vnexpress.net/nhung-hanh-vi-khien-sot-xuat-huyet-tro-nang-4914206.html) - 12:00 14/07/2025
+- 🦒 [Dấu hiệu nhận biết vỡ phình mạch não](https://vnexpress.net/dau-hieu-nhan-biet-vo-phinh-mach-nao-4914188.html) - 12:00 14/07/2025
+- 👨‍🏫 [Những thói quen thường gặp khiến trẻ khó ngủ](https://vnexpress.net/nhung-thoi-quen-thuong-gap-khien-tre-kho-ngu-4914099.html) - 12:00 14/07/2025
+- 🌜 [Chơi kéo dây thun, bé trai bị bóng tennis đập vào mắt dập nhãn cầu](https://vnexpress.net/choi-keo-day-thun-be-trai-bi-bong-tennis-dap-vao-mat-dap-nhan-cau-4914102.html) - 11:00 14/07/2025
+- 🚀 [Điều gì xảy ra khi thở bằng miệng vào ban đêm?](https://vnexpress.net/dieu-gi-xay-ra-khi-tho-bang-mieng-vao-ban-dem-4913968.html) - 11:00 14/07/2025
+- 💃 [Lợi ích khi người tiểu đường nên ăn sữa chua mỗi ngày](https://vnexpress.net/loi-ich-khi-nguoi-tieu-duong-nen-an-sua-chua-moi-ngay-4913798.html) - 10:00 14/07/2025
+- 💯 [Tại sao ngồi nhiều không tốt cho tim mạch?](https://vnexpress.net/tai-sao-ngoi-nhieu-khong-tot-cho-tim-mach-4913900.html) - 09:30 14/07/2025
+- 🤔 [Polyp tử cung - nguyên nhân tiềm ẩn gây vô sinh](https://vnexpress.net/polyp-tu-cung-nguyen-nhan-tiem-an-gay-vo-sinh-4914122.html) - 09:00 14/07/2025
+- 🎬 [Phát hiện mắc hai loại ung thư từ dấu hiệu sụt cân](https://vnexpress.net/phat-hien-mac-hai-loai-ung-thu-tu-dau-hieu-sut-can-4914090.html) - 08:36 14/07/2025
+- 🪜 [Bị gan nhiễm mỡ có cần kiêng dầu mỡ?](https://vnexpress.net/bi-gan-nhiem-mo-co-can-kieng-dau-mo-4914075.html) - 08:30 14/07/2025
 - 🦣 [24 giờ từ &#39;giống cảm cúm&#39; đến tử vong nhanh của não mô cầu](https://vnexpress.net/24-gio-tu-giong-cam-cum-den-tu-vong-nhanh-cua-nao-mo-cau-4913603.html) - 07:23 14/07/2025
 - 🧐 [Nên đeo khẩu trang màu sáng hay tối?](https://vnexpress.net/nen-deo-khau-trang-mau-sang-hay-toi-4913623.html) - 07:00 14/07/2025
 - 🤡 [Thực phẩm chứa hàn the, chất tẩy trắng - bom hẹn giờ cho sức khỏe](https://vnexpress.net/thuc-pham-chua-han-the-chat-tay-trang-bom-hen-gio-cho-suc-khoe-4913866.html) - 04:45 14/07/2025
