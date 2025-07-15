@@ -8,7 +8,7 @@ sidebar_position: 5
 - 🦩 [Sinner thu hẹp cách biệt &#39;danh hiệu lớn&#39; với Alcaraz](https://vnexpress.net/sinner-thu-hep-cach-biet-danh-hieu-lon-voi-alcaraz-4914296.html) - 23:33 14/07/2025
 - 🧰 [Real Madrid mua hậu vệ thứ ba trong hè 2025](https://vnexpress.net/real-madrid-mua-hau-ve-thu-ba-trong-he-2025-4914298.html) - 23:32 14/07/2025
 - 🤗 [Yamal bị lên án vì thuê người lùn biểu diễn](https://vnexpress.net/yamal-bi-len-an-vi-thue-nguoi-lun-bieu-dien-4914212.html) - 17:00 14/07/2025
-- 🥳 [Cơ thủ đột tử khi tham dự giải đấu ở Indonesia](https://vnexpress.net/co-thu-dot-tu-khi-tham-du-giai-dau-o-indonesia-4914261.html) - 14:29 14/07/2025
+- 🥳 [Cựu vô địch billiards thế giới đột tử khi dự giải đấu ở Indonesia](https://vnexpress.net/cuu-vo-dich-billiards-the-gioi-dot-tu-khi-du-giai-dau-o-indonesia-4914261.html) - 14:29 14/07/2025
 - 🦣 [HLV Enrique đứt &#39;chuỗi trận Vàng&#39;](https://vnexpress.net/hlv-enrique-dut-chuoi-tran-vang-4913953.html) - 13:15 14/07/2025
 - 🌜 [V-League không để 4 ngoại binh thi đấu cùng lúc](https://vnexpress.net/v-league-khong-de-4-ngoai-binh-thi-dau-cung-luc-4914232.html) - 12:05 14/07/2025
 - 🫶 [Xuân Trường tái hợp Công Phượng](https://vnexpress.net/xuan-truong-tai-hop-cong-phuong-4914233.html) - 12:00 14/07/2025
