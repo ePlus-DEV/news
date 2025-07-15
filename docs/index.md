@@ -26,59 +26,57 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Điểm tin 17h: Phổ điểm 12 môn thi tốt nghiệp THPT 2025 | Người Việt có thể dùng Internet vệ tinh Starlink trong năm nay](https://vnexpress.net/diem-tin-17h-pho-diem-12-mon-thi-tot-nghiep-thpt-2025-nguoi-viet-co-the-dung-internet-ve-tinh-starlink-trong-nam-nay-4914677.html) - 10:06 15/07/2025
-- 🧰 [VPBank ưu đãi tới 2 triệu đồng cho khách hàng mở thẻ VPBiz](https://vnexpress.net/vpbank-uu-dai-toi-2-trieu-dong-cho-khach-hang-mo-the-vpbiz-4914675.html) - 10:00 15/07/2025
-- 🥰 [5 thực phẩm giúp giảm tạo sỏi thận](https://vnexpress.net/5-thuc-pham-giup-giam-tao-soi-than-4914405.html) - 10:00 15/07/2025
-- 🌏 [Ninh Bình dẫn đầu điểm Toán thi tốt nghiệp THPT 2025](https://vnexpress.net/ninh-binh-dan-dau-diem-toan-thi-tot-nghiep-thpt-2025-4914432.html) - 09:56 15/07/2025
-- 🧐 [Phổ điểm môn Giáo dục kinh tế pháp luật thi tốt nghiệp THPT 2025](https://vnexpress.net/pho-diem-mon-giao-duc-kinh-te-phap-luat-thi-tot-nghiep-thpt-2025-4914607.html) - 09:46 15/07/2025
-- 💫 [Gyokeres: &#39;Tôi sẽ trở lại Ngoại hạng Anh để báo thù&#39;](https://vnexpress.net/gyokeres-toi-se-tro-lai-ngoai-hang-anh-de-bao-thu-4914619.html) - 09:44 15/07/2025
-- 😺 [Hà Nội ghi nhận ca viêm não Nhật Bản đầu tiên trong năm](https://vnexpress.net/benh-truyen-nhiem-ha-noi-ghi-nhan-ca-viem-nao-nhat-ban-dau-tien-trong-nam-4914649.html) - 09:42 15/07/2025
-- 🕯 [Hơn 930 thí sinh bị điểm liệt, môn Toán đông nhất](https://vnexpress.net/hon-930-thi-sinh-bi-diem-liet-mon-toan-dong-nhat-4914655.html) - 09:42 15/07/2025
-- 💃 [&#39;Cần giúp người dân tự tin mua tiền số như mua vàng&#39;](https://vnexpress.net/can-giup-nguoi-dan-tu-tin-mua-tien-so-nhu-mua-vang-4914613.html) - 09:36 15/07/2025
-- 💂 [Ăn cơm nguội có làm tăng đường huyết chậm hơn cơm nóng?](https://vnexpress.net/an-com-nguoi-co-lam-tang-duong-huyet-cham-hon-com-nong-4914472.html) - 09:30 15/07/2025
-- 🎊 [Cô gái dễ thương, hay cười tìm anh](https://vnexpress.net/co-gai-de-thuong-hay-cuoi-tim-anh-4914643.html) - 09:28 15/07/2025
-- 🤠 [Top 10 tỉnh, thành có điểm trung bình môn Văn thi tốt nghiệp cao nhất](https://vnexpress.net/top-10-tinh-thanh-co-diem-trung-binh-mon-van-thi-tot-nghiep-cao-nhat-4914621.html) - 09:22 15/07/2025
-- 🌈 [Nhân viên hàng không Mỹ hiến thận cho khách quen](https://vnexpress.net/nhan-vien-hang-khong-my-hien-than-cho-khach-quen-4914427.html) - 09:22 15/07/2025
-- 🎬 [Trái tim em luôn rộng mở đón chờ một người chân thành](https://vnexpress.net/trai-tim-em-luon-rong-mo-don-cho-mot-nguoi-chan-thanh-4914620.html) - 09:20 15/07/2025
-- 🚀 [Nếu em tin vào sự tử tế, mình có thể bắt đầu bằng một lời chào](https://vnexpress.net/neu-em-tin-vao-su-tu-te-minh-co-the-bat-dau-bang-mot-loi-chao-4914531.html) - 09:18 15/07/2025
-- 🪄 [Hơn 500 điểm 10 môn Toán - &#39;đề khó không hạ được học sinh giỏi&#39;](https://vnexpress.net/tra-cuu-diem-thi-toan-tot-nghiep-2025-diem-mon-toan-2025-pho-diem-mon-toan-2025-4914615.html) - 09:17 15/07/2025
-- 😎 [Phổ điểm môn Công nghệ thi tốt nghiệp THPT 2025](https://vnexpress.net/pho-diem-mon-cong-nghe-thi-tot-nghiep-thpt-2025-4914612.html) - 09:16 15/07/2025
-- 🎊 [HLV Kim Sang-sik chịu áp lực lập hat-trick vô địch U23 Đông Nam Á](https://vnexpress.net/hlv-kim-sang-sik-chiu-ap-luc-lap-hat-trick-vo-dich-u23-dong-nam-a-4914626.html) - 09:15 15/07/2025
-- ⚗️ [Phổ điểm môn Tin học thi tốt nghiệp THPT 2025](https://vnexpress.net/pho-diem-mon-tin-hoc-thi-tot-nghiep-thpt-2025-4914604.html) - 09:12 15/07/2025
-- 🫣 [Hà Nội soán ngôi TP HCM về điểm thi Tiếng Anh tốt nghiệp THPT](https://vnexpress.net/xep-hang-top-10-tinh-thanh-ve-diem-tieng-anh-thi-tot-nghiep-thpt-2025-4914422.html) - 09:12 15/07/2025
-- 👨‍🏫 [Giải cứu bà chủ tiệm tạp hóa bị kẻ ngáo đá khống chế](https://vnexpress.net/giai-cuu-ba-chu-tiem-tap-hoa-bi-ke-ngao-da-khong-che-4914623.html) - 09:10 15/07/2025
-- 🐻 [Hơn 15.300 bài thi tốt nghiệp THPT đạt điểm 10](https://vnexpress.net/hon-15-300-bai-thi-tot-nghiep-thpt-dat-diem-10-4914369.html) - 09:09 15/07/2025
-- 😺 [Vừa vào thi đã mất 15 điểm, tôi vẫn đậu bằng lái xe B2](https://vnexpress.net/sat-hach-lai-xe-sat-hach-b2-sat-hach-lai-xe-bo-cong-an-mat-15-diem-sau-ba-bai-thi-dau-tien-toi-van-dau-bang-lai-b2-4914599.html) - 09:08 15/07/2025
-- 🤔 [Anh mong bạn đời vui vẻ, khỏe mạnh](https://vnexpress.net/anh-mong-ban-doi-vui-ve-khoe-manh-4914527.html) - 09:03 15/07/2025
-- 🌮 [Cửa hàng bán sản phẩm giả Gucci, Chanel bị phạt hơn 100 triệu đồng](https://vnexpress.net/cua-hang-ban-san-pham-gia-gucci-chanel-bi-phat-hon-100-trieu-dong-4914601.html) - 09:00 15/07/2025
-- 🦩 [Mẹo rang nhộng tằm tránh dị ứng](https://vnexpress.net/meo-rang-nhong-tam-tranh-di-ung-4914434.html) - 09:00 15/07/2025
-- 📝 [6 vitamin, khoáng chất nếu thiếu dễ mắc bệnh hô hấp](https://vnexpress.net/6-vitamin-khoang-chat-neu-thieu-de-mac-benh-ho-hap-4914590.html) - 09:00 15/07/2025
-- 🕴 [VNGGames phát hành Vong Xuyên Phong Hoa Lục ra thị trường Đông Nam Á](https://vnexpress.net/vnggames-phat-hanh-vong-xuyen-phong-hoa-luc-ra-thi-truong-dong-nam-a-4914589.html) - 09:00 15/07/2025
-- 🐲 [Người đàn ông nặng 120 kg mắc đa bệnh lý](https://vnexpress.net/nguoi-dan-ong-nang-120-kg-mac-da-benh-ly-4914530.html) - 09:00 15/07/2025
-- 🌜 [Vingroup thông xe cầu Hoàng Gia tại Hải Phòng](https://vnexpress.net/vingroup-thong-xe-cau-hoang-gia-tai-hai-phong-4914464.html) - 09:00 15/07/2025
-- 💄 [FedEx sẽ tăng phụ phí giao hành từ cuối tháng 9](https://vnexpress.net/fedex-se-tang-phu-phi-giao-hanh-tu-cuoi-thang-9-4912899.html) - 09:00 15/07/2025
-- 🌁 [9 tài tử ghi dấu ấn với vai Superman](https://vnexpress.net/9-tai-tu-ghi-dau-an-voi-vai-superman-4913919.html) - 08:55 15/07/2025
-- 🎬 [Em đừng lo, anh chưa từng làm gì có lỗi với vợ tương lai đâu](https://vnexpress.net/em-dung-lo-anh-chua-tung-lam-gi-co-loi-voi-vo-tuong-lai-dau-4914441.html) - 08:55 15/07/2025
-- 👨‍🏫 [Ông Medvedev: Nga không quan tâm tối hậu thư của ông Trump](https://vnexpress.net/ong-medvedev-nga-khong-quan-tam-toi-hau-thu-cua-ong-trump-4914520.html) - 08:53 15/07/2025
-- ⚗️ [Mong bạn gái cao trên 1,6 m và ưa nhìn](https://vnexpress.net/mong-ban-gai-cao-tren-1-6-m-va-ua-nhin-4914529.html) - 08:51 15/07/2025
-- 😺 [Tôi mất người yêu, mất con chỉ vì thói quen đăng ảnh mạng xã hội](https://vnexpress.net/ban-gai-mang-thai-ban-gai-bo-thai-vo-cu-toi-mat-nguoi-yeu-mat-con-chi-vi-thoi-quen-dang-anh-mang-xa-hoi-4912590.html) - 08:50 15/07/2025
-- 🔥 [Chứng khoán đảo chiều giảm mạnh](https://vnexpress.net/chung-khoan-dao-chieu-giam-manh-4914592.html) - 08:49 15/07/2025
-- 🧰 [Sốt xuất huyết rình rập từ ổ đọng nước quanh nhà](https://vnexpress.net/sot-xuat-huyet-rinh-rap-tu-o-dong-nuoc-quanh-nha-4914543.html) - 08:48 15/07/2025
-- 🦒 [Phổ điểm Sinh học thi tốt nghiệp THPT 2025](https://vnexpress.net/pho-diem-sinh-hoc-thi-tot-nghiep-thpt-2025-4914263.html) - 08:47 15/07/2025
-- ⛽️ [Phổ điểm môn Lịch sử thi tốt nghiệp THPT 2025](https://vnexpress.net/pho-diem-mon-su-thi-tot-nghiep-thpt-2025-4914234.html) - 08:46 15/07/2025
-- 🚀 [Phổ điểm Tiếng Anh thi tốt nghiệp THPT 2025](https://vnexpress.net/pho-diem-tieng-anh-thi-tot-nghiep-thpt-2025-4914255.html) - 08:45 15/07/2025
-- 🪜 [Phổ điểm môn Địa lý thi tốt nghiệp THPT 2025](https://vnexpress.net/pho-diem-mon-dia-ly-thi-tot-nghiep-thpt-2025-4914237.html) - 08:44 15/07/2025
-- 🚦 [Căn cứ Anh phong tỏa vì thủy thủ đùa có bom trên tàu ngầm chiến lược](https://vnexpress.net/can-cu-anh-phong-toa-vi-thuy-thu-dua-co-bom-tren-tau-ngam-chien-luoc-4914556.html) - 08:36 15/07/2025
-- 🕯 [Phổ điểm 12 môn thi tốt nghiệp THPT 2025](https://vnexpress.net/pho-diem-12-mon-thi-tot-nghiep-thpt-2025-4914180.html) - 08:36 15/07/2025
-- 💪 [Phổ điểm môn Hóa thi tốt nghiệp THPT 2025](https://vnexpress.net/pho-diem-mon-hoa-thi-tot-nghiep-thpt-2025-4914159.html) - 08:34 15/07/2025
-- 🧑‍🏫 [Điểm 10 môn Vật lý thi tốt nghiệp THPT 2025 tăng đột biến](https://vnexpress.net/pho-diem-vat-ly-thi-tot-nghiep-thpt-2025-4914207.html) - 08:33 15/07/2025
-- 🎓 [Phổ điểm môn Văn thi tốt nghiệp THPT 2025](https://vnexpress.net/pho-diem-van-thi-tot-nghiep-thpt-2025-4914193.html) - 08:28 15/07/2025
-- 💫 [Chàng kỹ sư chung thủy tìm cô gái vui vẻ, chân thành](https://vnexpress.net/chang-ky-su-chung-thuy-tim-co-gai-vui-ve-chan-thanh-4914439.html) - 08:26 15/07/2025
-- 🤩 [Hơn 500 điểm 10 môn Toán thi tốt nghiệp THPT 2025](https://vnexpress.net/hon-500-diem-10-mon-toan-thi-tot-nghiep-thpt-2025-4914196.html) - 08:25 15/07/2025
-- 🏊 [&#39;Đi xe máy nguy hiểm gấp mười&#39;](https://vnexpress.net/di-xe-may-nguy-hiem-gap-muoi-4914565.html) - 08:11 15/07/2025
-- 💂 [UAV Nga tập kích kép, khiến radar phòng không Ukraine bốc cháy](https://vnexpress.net/uav-nga-tap-kich-kep-khien-radar-phong-khong-ukraine-boc-chay-4914550.html) - 08:01 15/07/2025
-- 🚀 [Cầu thủ Chelsea: &#39;Club World Cup sẽ lớn hơn Champions League&#39;](https://vnexpress.net/cau-thu-chelsea-club-world-cup-se-lon-hon-champions-league-4914496.html) - 08:01 15/07/2025
-- 🕴 [HorecFex 2025 tạo lực đẩy mới cho ngành khách sạn - nhà hàng](https://vnexpress.net/horecfex-2025-tao-luc-day-moi-cho-nganh-khach-san-nha-hang-4914567.html) - 08:00 15/07/2025<!-- vnexpress:END -->
+- 🚀 [Angelina Jolie cổ vũ con trai đấu Muay Thái](https://vnexpress.net/angelina-jolie-co-vu-con-trai-dau-muay-thai-4914627.html) - 11:00 15/07/2025
+- 🧰 [Người vợ tài giỏi đã ngoại tình với bạn tôi](https://vnexpress.net/ngoai-tinh-vo-ngoai-tinh-vo-tai-gioi-nguoi-vo-tai-gioi-da-ngoai-tinh-voi-ban-toi-4912585.html) - 11:00 15/07/2025
+- 🥰 [Sau mổ ung thư tuyến giáp có nên kiêng muối iốt?](https://vnexpress.net/sau-mo-ung-thu-tuyen-giap-co-nen-kieng-muoi-iot-4914656.html) - 11:00 15/07/2025
+- 🌏 [Dấu hiệu thường gặp cảnh báo huyết áp thấp](https://vnexpress.net/dau-hieu-thuong-gap-canh-bao-huyet-ap-thap-4914578.html) - 11:00 15/07/2025
+- 🧐 [VĐV marathon cao tuổi nhất thế giới qua đời vì tai nạn giao thông](https://vnexpress.net/vdv-marathon-cao-tuoi-nhat-the-gioi-qua-doi-vi-tai-nan-giao-thong-4914658.html) - 10:51 15/07/2025
+- 💫 [Cà Mau thuê khách sạn cho cán bộ từ Bạc Liêu đến làm việc](https://vnexpress.net/ca-mau-thue-khach-san-cho-can-bo-tu-bac-lieu-den-lam-viec-4914680.html) - 10:41 15/07/2025
+- 😺 [Xe máy xăng gây ô nhiễm không khí cho Hà Nội như thế nào](https://vnexpress.net/xe-may-xang-gay-o-nhiem-khong-khi-cho-ha-noi-nhu-the-nao-4914462.html) - 10:32 15/07/2025
+- 🕯 [Sun Group mang tiêu chuẩn khách sạn 6 sao vào dự án ở Hà Nội](https://vnexpress.net/sun-group-mang-tieu-chuan-khach-san-6-sao-vao-du-an-o-ha-noi-4914467.html) - 10:30 15/07/2025
+- 💃 [Cơ sở giáo dục nghề nghiệp có thể được ưu đãi để nghiên cứu khoa học](https://vnexpress.net/co-so-giao-duc-nghe-nghiep-co-the-duoc-uu-dai-de-nghien-cuu-khoa-hoc-4914387.html) - 10:24 15/07/2025
+- 💂 [Con trai Ronaldo: &#39;Yamal chưa giành được gì&#39;](https://vnexpress.net/con-trai-ronaldo-yamal-chua-gianh-duoc-gi-4914641.html) - 10:22 15/07/2025
+- 🎊 [Điểm tin 17h: Phổ điểm 12 môn thi tốt nghiệp THPT 2025 | Người Việt có thể dùng Internet vệ tinh Starlink trong năm nay](https://vnexpress.net/diem-tin-17h-pho-diem-12-mon-thi-tot-nghiep-thpt-2025-nguoi-viet-co-the-dung-internet-ve-tinh-starlink-trong-nam-nay-4914677.html) - 10:06 15/07/2025
+- 🤠 [VPBank ưu đãi tới 2 triệu đồng cho khách hàng mở thẻ VPBiz](https://vnexpress.net/vpbank-uu-dai-toi-2-trieu-dong-cho-khach-hang-mo-the-vpbiz-4914675.html) - 10:00 15/07/2025
+- 🌈 [5 thực phẩm giúp giảm tạo sỏi thận](https://vnexpress.net/5-thuc-pham-giup-giam-tao-soi-than-4914405.html) - 10:00 15/07/2025
+- 🎬 [Ninh Bình dẫn đầu điểm Toán thi tốt nghiệp THPT 2025](https://vnexpress.net/ninh-binh-dan-dau-diem-toan-thi-tot-nghiep-thpt-2025-4914432.html) - 09:56 15/07/2025
+- 🚀 [Phổ điểm môn Giáo dục kinh tế pháp luật thi tốt nghiệp THPT 2025](https://vnexpress.net/pho-diem-mon-giao-duc-kinh-te-phap-luat-thi-tot-nghiep-thpt-2025-4914607.html) - 09:46 15/07/2025
+- 🪄 [Gyokeres: &#39;Tôi sẽ trở lại Ngoại hạng Anh để báo thù&#39;](https://vnexpress.net/gyokeres-toi-se-tro-lai-ngoai-hang-anh-de-bao-thu-4914619.html) - 09:44 15/07/2025
+- 😎 [Hà Nội ghi nhận ca viêm não Nhật Bản đầu tiên trong năm](https://vnexpress.net/benh-truyen-nhiem-ha-noi-ghi-nhan-ca-viem-nao-nhat-ban-dau-tien-trong-nam-4914649.html) - 09:42 15/07/2025
+- 🎊 [Hơn 930 thí sinh bị điểm liệt, môn Toán đông nhất](https://vnexpress.net/hon-930-thi-sinh-bi-diem-liet-mon-toan-dong-nhat-4914655.html) - 09:42 15/07/2025
+- ⚗️ [&#39;Cần giúp người dân tự tin mua tiền số như mua vàng&#39;](https://vnexpress.net/can-giup-nguoi-dan-tu-tin-mua-tien-so-nhu-mua-vang-4914613.html) - 09:36 15/07/2025
+- 🫣 [Ăn cơm nguội có làm tăng đường huyết chậm hơn cơm nóng?](https://vnexpress.net/an-com-nguoi-co-lam-tang-duong-huyet-cham-hon-com-nong-4914472.html) - 09:30 15/07/2025
+- 👨‍🏫 [Cô gái dễ thương, hay cười tìm anh](https://vnexpress.net/co-gai-de-thuong-hay-cuoi-tim-anh-4914643.html) - 09:28 15/07/2025
+- 🐻 [Top 10 tỉnh, thành có điểm trung bình môn Văn thi tốt nghiệp cao nhất](https://vnexpress.net/top-10-tinh-thanh-co-diem-trung-binh-mon-van-thi-tot-nghiep-cao-nhat-4914621.html) - 09:22 15/07/2025
+- 😺 [Nhân viên hàng không Mỹ hiến thận cho khách quen](https://vnexpress.net/nhan-vien-hang-khong-my-hien-than-cho-khach-quen-4914427.html) - 09:22 15/07/2025
+- 🤔 [Trái tim em luôn rộng mở đón chờ một người chân thành](https://vnexpress.net/trai-tim-em-luon-rong-mo-don-cho-mot-nguoi-chan-thanh-4914620.html) - 09:20 15/07/2025
+- 🌮 [Nếu em tin vào sự tử tế, mình có thể bắt đầu bằng một lời chào](https://vnexpress.net/neu-em-tin-vao-su-tu-te-minh-co-the-bat-dau-bang-mot-loi-chao-4914531.html) - 09:18 15/07/2025
+- 🦩 [Hơn 500 điểm 10 môn Toán - &#39;đề khó không hạ được học sinh giỏi&#39;](https://vnexpress.net/tra-cuu-diem-thi-toan-tot-nghiep-2025-diem-mon-toan-2025-pho-diem-mon-toan-2025-4914615.html) - 09:17 15/07/2025
+- 📝 [Phổ điểm môn Công nghệ thi tốt nghiệp THPT 2025](https://vnexpress.net/pho-diem-mon-cong-nghe-thi-tot-nghiep-thpt-2025-4914612.html) - 09:16 15/07/2025
+- 🕴 [HLV Kim Sang-sik chịu áp lực lập hat-trick vô địch U23 Đông Nam Á](https://vnexpress.net/hlv-kim-sang-sik-chiu-ap-luc-lap-hat-trick-vo-dich-u23-dong-nam-a-4914626.html) - 09:15 15/07/2025
+- 🐲 [Phổ điểm môn Tin học thi tốt nghiệp THPT 2025](https://vnexpress.net/pho-diem-mon-tin-hoc-thi-tot-nghiep-thpt-2025-4914604.html) - 09:12 15/07/2025
+- 🌜 [Hà Nội soán ngôi TP HCM về điểm thi Tiếng Anh tốt nghiệp THPT](https://vnexpress.net/xep-hang-top-10-tinh-thanh-ve-diem-tieng-anh-thi-tot-nghiep-thpt-2025-4914422.html) - 09:12 15/07/2025
+- 💄 [Giải cứu bà chủ tiệm tạp hóa bị kẻ ngáo đá khống chế](https://vnexpress.net/giai-cuu-ba-chu-tiem-tap-hoa-bi-ke-ngao-da-khong-che-4914623.html) - 09:10 15/07/2025
+- 🌁 [Hơn 15.300 bài thi tốt nghiệp THPT đạt điểm 10](https://vnexpress.net/hon-15-300-bai-thi-tot-nghiep-thpt-dat-diem-10-4914369.html) - 09:09 15/07/2025
+- 🎬 [Vừa vào thi đã mất 15 điểm, tôi vẫn đậu bằng lái xe B2](https://vnexpress.net/sat-hach-lai-xe-sat-hach-b2-sat-hach-lai-xe-bo-cong-an-mat-15-diem-sau-ba-bai-thi-dau-tien-toi-van-dau-bang-lai-b2-4914599.html) - 09:08 15/07/2025
+- 👨‍🏫 [Anh mong bạn đời vui vẻ, khỏe mạnh](https://vnexpress.net/anh-mong-ban-doi-vui-ve-khoe-manh-4914527.html) - 09:03 15/07/2025
+- ⚗️ [Cửa hàng bán sản phẩm giả Gucci, Chanel bị phạt hơn 100 triệu đồng](https://vnexpress.net/cua-hang-ban-san-pham-gia-gucci-chanel-bi-phat-hon-100-trieu-dong-4914601.html) - 09:00 15/07/2025
+- 😺 [Mẹo rang nhộng tằm tránh dị ứng](https://vnexpress.net/meo-rang-nhong-tam-tranh-di-ung-4914434.html) - 09:00 15/07/2025
+- 🔥 [6 vitamin, khoáng chất nếu thiếu dễ mắc bệnh hô hấp](https://vnexpress.net/6-vitamin-khoang-chat-neu-thieu-de-mac-benh-ho-hap-4914590.html) - 09:00 15/07/2025
+- 🧰 [VNGGames phát hành Vong Xuyên Phong Hoa Lục ra thị trường Đông Nam Á](https://vnexpress.net/vnggames-phat-hanh-vong-xuyen-phong-hoa-luc-ra-thi-truong-dong-nam-a-4914589.html) - 09:00 15/07/2025
+- 🦒 [Người đàn ông nặng 120 kg mắc đa bệnh lý](https://vnexpress.net/nguoi-dan-ong-nang-120-kg-mac-da-benh-ly-4914530.html) - 09:00 15/07/2025
+- ⛽️ [Vingroup thông xe cầu Hoàng Gia tại Hải Phòng](https://vnexpress.net/vingroup-thong-xe-cau-hoang-gia-tai-hai-phong-4914464.html) - 09:00 15/07/2025
+- 🚀 [FedEx sẽ tăng phụ phí giao hành từ cuối tháng 9](https://vnexpress.net/fedex-se-tang-phu-phi-giao-hanh-tu-cuoi-thang-9-4912899.html) - 09:00 15/07/2025
+- 🪜 [9 tài tử ghi dấu ấn với vai Superman](https://vnexpress.net/9-tai-tu-ghi-dau-an-voi-vai-superman-4913919.html) - 08:55 15/07/2025
+- 🚦 [Em đừng lo, anh chưa từng làm gì có lỗi với vợ tương lai đâu](https://vnexpress.net/em-dung-lo-anh-chua-tung-lam-gi-co-loi-voi-vo-tuong-lai-dau-4914441.html) - 08:55 15/07/2025
+- 🕯 [Ông Medvedev: Nga không quan tâm tối hậu thư của ông Trump](https://vnexpress.net/ong-medvedev-nga-khong-quan-tam-toi-hau-thu-cua-ong-trump-4914520.html) - 08:53 15/07/2025
+- 💪 [Mong bạn gái cao trên 1,6 m và ưa nhìn](https://vnexpress.net/mong-ban-gai-cao-tren-1-6-m-va-ua-nhin-4914529.html) - 08:51 15/07/2025
+- 🧑‍🏫 [Tôi mất người yêu, mất con chỉ vì thói quen đăng ảnh mạng xã hội](https://vnexpress.net/ban-gai-mang-thai-ban-gai-bo-thai-vo-cu-toi-mat-nguoi-yeu-mat-con-chi-vi-thoi-quen-dang-anh-mang-xa-hoi-4912590.html) - 08:50 15/07/2025
+- 🎓 [Chứng khoán đảo chiều giảm mạnh](https://vnexpress.net/chung-khoan-dao-chieu-giam-manh-4914592.html) - 08:49 15/07/2025
+- 💫 [Sốt xuất huyết rình rập từ ổ đọng nước quanh nhà](https://vnexpress.net/sot-xuat-huyet-rinh-rap-tu-o-dong-nuoc-quanh-nha-4914543.html) - 08:48 15/07/2025
+- 🤩 [Phổ điểm Sinh học thi tốt nghiệp THPT 2025](https://vnexpress.net/pho-diem-sinh-hoc-thi-tot-nghiep-thpt-2025-4914263.html) - 08:47 15/07/2025
+- 🏊 [Phổ điểm môn Lịch sử thi tốt nghiệp THPT 2025](https://vnexpress.net/pho-diem-mon-su-thi-tot-nghiep-thpt-2025-4914234.html) - 08:46 15/07/2025
+- 💂 [Phổ điểm Tiếng Anh thi tốt nghiệp THPT 2025](https://vnexpress.net/pho-diem-tieng-anh-thi-tot-nghiep-thpt-2025-4914255.html) - 08:45 15/07/2025<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
