@@ -518,7 +518,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [8h ngày 16-7 công bố điểm thi tốt nghiệp THPT 2025, thí sinh tra cứu theo mã tỉnh mới hay cũ?](https://muctim.tuoitre.vn/8h-ngay-16-7-cong-bo-diem-thi-tot-nghiep-thpt-2025-thi-sinh-tra-cuu-theo-ma-tinh-moi-hay-cu-101250715121743804.htm) - 05:21 15/07/2025
+- 🤔 [Chính thức: Link tra cứu điểm thi tốt nghiệp THPT 2025 trên toàn quốc](https://muctim.tuoitre.vn/chinh-thuc-link-tra-cuu-diem-thi-tot-nghiep-thpt-2025-tren-toan-quoc-101250715121743804.htm) - 05:21 15/07/2025
 - 🥷 [Thủ khoa kép Trường đại học Sư phạm TP.HCM tốt nghiệp với GPA gần tuyệt đối](https://muctim.tuoitre.vn/thu-khoa-kep-truong-dai-hoc-su-pham-tphcm-tot-nghiep-voi-gpa-gan-tuyet-doi-101250714183621067.htm) - 05:20 15/07/2025
 - 🤖 [Hôm nay 15-7, Google tôn vinh cà phê sữa đường thốt nốt Indonesia bằng Doodle đặc biệt](https://muctim.tuoitre.vn/hom-nay-15-7-google-ton-vinh-ca-phe-sua-duong-thot-not-indonesia-bang-doodle-dac-biet-101250715100045622.htm) - 03:20 15/07/2025
 - 🤓 [Vì sao dàn cast Đấu trường gia tốc gọi HURRYKNG là &#39;vua trò chơi&#39;?](https://muctim.tuoitre.vn/vi-sao-dan-cast-dau-truong-gia-toc-goi-hurrykng-la-vua-tro-choi-101250715041334656.htm) - 02:59 15/07/2025
