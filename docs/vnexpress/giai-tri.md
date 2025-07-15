@@ -4,53 +4,53 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [9 tài tử ghi dấu ấn với vai Superman](https://vnexpress.net/9-tai-tu-ghi-dau-an-voi-vai-superman-4913919.html) - 08:55 15/07/2025
-- 💫 [Mẫu giày &#39;chân đất&#39; gây sốt](https://vnexpress.net/mau-giay-chan-dat-gay-sot-4914407.html) - 06:51 15/07/2025
-- 🌮 [AI có thể kết thúc thời đại &#39;đọc nhiều là trí tuệ&#39;](https://vnexpress.net/ai-co-the-ket-thuc-thoi-dai-doc-nhieu-la-tri-tue-4911533.html) - 05:15 15/07/2025
-- 🧠 [Cô gái gây chú ý vì giống Trương Bá Chi](https://vnexpress.net/co-gai-gay-chu-y-vi-giong-truong-ba-chi-4914431.html) - 04:19 15/07/2025
-- 👨‍🏫 [Căn bệnh giày vò Van Gogh ngày cuối đời](https://vnexpress.net/can-benh-giay-vo-van-gogh-ngay-cuoi-doi-4912951.html) - 03:45 15/07/2025
-- ⚗️ [Hồng Ánh tái xuất điện ảnh](https://vnexpress.net/hong-anh-tai-xuat-dien-anh-4914284.html) - 03:29 15/07/2025
-- 😎 [Tạo hình Harry Potter mới](https://vnexpress.net/tao-hinh-harry-potter-moi-4914335.html) - 02:52 15/07/2025
-- 🫣 [Người thân, bạn bè tiễn biệt vợ chồng diễn viên Tuyết Ni](https://vnexpress.net/nguoi-than-ban-be-tien-biet-vo-chong-dien-vien-tuyet-ni-4914339.html) - 02:07 15/07/2025
-- 🪄 [Ca sĩ Kiều Nga - &#39;nữ hoàng New Wave&#39; một thuở](https://vnexpress.net/ca-si-kieu-nga-nu-hoang-new-wave-mot-thuo-4913988.html) - 17:00 14/07/2025
-- 🤓 [Đạt G ra album viết vợ con](https://vnexpress.net/dat-g-ra-album-viet-vo-con-4914056.html) - 15:16 14/07/2025
-- 🫶 [Nicholas Hoult - &#39;sát thủ thời trang&#39;](https://vnexpress.net/nicholas-hoult-sat-thu-thoi-trang-4913677.html) - 12:30 14/07/2025
-- 🧑‍🏫 [Tượng &#39;như người thật&#39;](https://vnexpress.net/tuong-nhu-nguoi-that-4914134.html) - 10:45 14/07/2025
-- 🦄 [Backstreet Boys gây choáng ngợp với &#39;sân khấu vũ trụ&#39;](https://vnexpress.net/backstreet-boys-gay-choang-ngop-voi-san-khau-vu-tru-4914054.html) - 08:55 14/07/2025
-- 💫 [Phạm Băng Băng thu trăm triệu USD nhờ kinh doanh làm đẹp](https://vnexpress.net/pham-bang-bang-thu-tram-trieu-usd-nho-kinh-doanh-lam-dep-4914072.html) - 08:00 14/07/2025
-- 🎊 [Truyện tranh đình đám bị &#39;khai tử&#39; vì đạo nhái](https://vnexpress.net/truyen-tranh-dinh-dam-bi-khai-tu-vi-dao-nhai-4913882.html) - 07:43 14/07/2025
-- 👹 [Hoa hậu Olivia Culpo sinh con đầu lòng](https://vnexpress.net/hoa-hau-olivia-culpo-sinh-con-dau-long-4913863.html) - 05:05 14/07/2025
-- 💻 [&#39;Cò&#39; Phùng Ngọc chia tay vợ](https://vnexpress.net/co-phung-ngoc-chia-tay-vo-4913942.html) - 05:02 14/07/2025
-- 🤡 [Ca sĩ Kiều Nga qua đời](https://vnexpress.net/ca-si-kieu-nga-qua-doi-4913945.html) - 04:12 14/07/2025
-- 🥰 [&#39;Superman&#39; bùng nổ doanh thu Bắc Mỹ](https://vnexpress.net/superman-bung-no-doanh-thu-bac-my-4913806.html) - 04:00 14/07/2025
-- 🚀 [Jennifer Aniston hẹn hò](https://vnexpress.net/jennifer-aniston-hen-ho-4913795.html) - 02:44 14/07/2025
-- 📝 [Nguyễn Hồng Nhung kết hôn lần hai](https://vnexpress.net/nguyen-hong-nhung-ket-hon-lan-hai-4913759.html) - 00:40 14/07/2025
-- 🐲 [10 bộ đầm đẹp nhất trên sàn diễn Paris](https://vnexpress.net/10-bo-dam-dep-nhat-tren-san-dien-paris-4913672.html) - 17:00 13/07/2025
-- 🎃 [Chi Pu và dàn sao dự tiệc cưới Đạt G](https://vnexpress.net/chi-pu-va-dan-sao-du-tiec-cuoi-dat-g-4913696.html) - 13:37 13/07/2025
-- 🤠 [Triệu Vy kiện vì bị tung tin &#39;dính vào đường dây lừa đảo&#39;](https://vnexpress.net/trieu-vy-kien-vi-bi-tung-tin-dinh-vao-duong-day-lua-dao-4913706.html) - 11:29 13/07/2025
-- 🎭 [Ảnh cưới của rapper Đạt G - Cindy Lư](https://vnexpress.net/anh-cuoi-cua-rapper-dat-g-cindy-lu-4913599.html) - 08:35 13/07/2025
-- 🧰 [&#39;Thằng Cò&#39; Phùng Ngọc: Đời tôi chưa bớt vất vả](https://vnexpress.net/thang-co-phung-ngoc-doi-toi-chua-bot-vat-va-4913646.html) - 06:41 13/07/2025
-- 🦍 [Phương Mỹ Chi và đồng nghiệp hát về &#39;vượt tự ti&#39;](https://vnexpress.net/phuong-my-chi-va-dong-nghiep-hat-ve-vuot-tu-ti-4913574.html) - 05:22 13/07/2025
-- 🌝 [Thời trang của Leonardo DiCaprio và dàn sao ở Wimbledon](https://vnexpress.net/thoi-trang-cua-leonardo-dicaprio-va-dan-sao-o-wimbledon-4913592.html) - 04:23 13/07/2025
-- 🧑‍💻 [Bài học từ 10 cuộc &#39;Đại địa chấn kinh tế&#39;](https://vnexpress.net/bai-hoc-tu-10-cuoc-dai-dia-chan-kinh-te-4911194.html) - 02:00 13/07/2025
-- 🥸 [&#39;Jurassic World 7&#39; - câu chuyện nhạt về khủng long](https://vnexpress.net/giai-tri/phim/thu-vien-phim/jurassic-world-rebirth-824) - 23:00 12/07/2025
-- 🔥 [Hùng Thuận: &#39;Cuộc đời tôi sang trang&#39;](https://vnexpress.net/hung-thuan-cuoc-doi-toi-sang-trang-4913522.html) - 16:16 12/07/2025
-- 🐎 [Cường &#39;Đôla&#39; và dàn sao dự đám cưới Hùng Thuận](https://vnexpress.net/cuong-dola-va-dan-sao-du-dam-cuoi-hung-thuan-4913495.html) - 12:53 12/07/2025
-- 😎 [Gu mặc đời thường của &#39;Sao đẹp nhất Nhật Bản&#39;](https://vnexpress.net/gu-mac-doi-thuong-cua-sao-dep-nhat-nhat-ban-4913047.html) - 11:00 12/07/2025
-- 🦄 [Ngô Thanh Vân: &#39;Tôi chuẩn bị kinh tế tốt nhất cho con&#39;](https://vnexpress.net/ngo-thanh-van-toi-chuan-bi-kinh-te-tot-nhat-cho-con-4913399.html) - 08:54 12/07/2025
-- 🌜 [10 cuốn sách nổi bật của Margaret Atwood](https://vnexpress.net/10-cuon-sach-noi-bat-cua-margaret-atwood-4893440.html) - 07:59 12/07/2025
-- 🚦 [10 phim hay nhất của Scarlett Johansson](https://vnexpress.net/10-phim-hay-nhat-cua-scarlett-johansson-4913358.html) - 07:30 12/07/2025
-- 🧐 [Ảnh cưới tối giản của Đình Tú - Ngọc Huyền](https://vnexpress.net/anh-cuoi-toi-gian-cua-dinh-tu-ngoc-huyen-4913425.html) - 06:09 12/07/2025
-- 🐵 [Khánh Thi: &#39;Tôi không giàu có&#39;](https://vnexpress.net/khanh-thi-toi-khong-giau-co-4912402.html) - 05:33 12/07/2025
-- ⚗️ [Justin Bieber trả nợ hơn 30 triệu USD cho quản lý cũ](https://vnexpress.net/justin-bieber-tra-no-hon-30-trieu-usd-cho-quan-ly-cu-4913283.html) - 03:53 12/07/2025
-- 👺 [Tiến Truyển lần đầu tham gia Tuần thời trang cao cấp Paris](https://vnexpress.net/tien-truyen-lan-dau-tham-gia-tuan-thoi-trang-cao-cap-paris-4913328.html) - 03:08 12/07/2025
-- 🌊 [&#39;Superman&#39; - siêu anh hùng vấp ngã](https://vnexpress.net/giai-tri/phim/thu-vien-phim/superman-822) - 02:39 12/07/2025
-- 🪜 [Phong cách minh tinh &#39;Bến Thượng Hải&#39;](https://vnexpress.net/phong-cach-minh-tinh-ben-thuong-hai-4913080.html) - 01:47 12/07/2025
-- 🕴 [Hồng Đào áy náy vì làm Tuấn Trần bị thương khi diễn](https://vnexpress.net/hong-dao-ay-nay-vi-lam-tuan-tran-bi-thuong-khi-dien-4912965.html) - 00:58 12/07/2025
-- 💃 [Tuổi già bình lặng của nghệ sĩ Văn Toản](https://vnexpress.net/tuoi-gia-binh-lang-cua-nghe-si-van-toan-4910461.html) - 17:00 11/07/2025
-- 🦄 [Phương Mỹ Chi đưa điệu vọng cổ lên sân khấu &#39;Sing! Asia&#39;](https://vnexpress.net/phuong-my-chi-dua-dieu-vong-co-len-san-khau-sing-asia-4912889.html) - 15:39 11/07/2025
-- ⛽️ [Mẫu &#39;áo tắm Tôn Ngộ Không&#39; cháy hàng](https://vnexpress.net/mau-ao-tam-ton-ngo-khong-chay-hang-4912896.html) - 13:00 11/07/2025
-- 😎 [BST trang sức lấy cảm hứng từ thiên nhiên của Chaumet](https://vnexpress.net/bst-trang-suc-lay-cam-hung-tu-thien-nhien-cua-chaumet-4912644.html) - 12:00 11/07/2025
+- 🌏 [Angelina Jolie cổ vũ con trai đấu Muay Thái](https://vnexpress.net/angelina-jolie-co-vu-con-trai-dau-muay-thai-4914627.html) - 11:00 15/07/2025
+- 💫 [9 tài tử ghi dấu ấn với vai Superman](https://vnexpress.net/9-tai-tu-ghi-dau-an-voi-vai-superman-4913919.html) - 08:55 15/07/2025
+- 🌮 [Mẫu giày &#39;chân đất&#39; gây sốt](https://vnexpress.net/mau-giay-chan-dat-gay-sot-4914407.html) - 06:51 15/07/2025
+- 🧠 [AI có thể kết thúc thời đại &#39;đọc nhiều là trí tuệ&#39;](https://vnexpress.net/ai-co-the-ket-thuc-thoi-dai-doc-nhieu-la-tri-tue-4911533.html) - 05:15 15/07/2025
+- 👨‍🏫 [Cô gái gây chú ý vì giống Trương Bá Chi](https://vnexpress.net/co-gai-gay-chu-y-vi-giong-truong-ba-chi-4914431.html) - 04:19 15/07/2025
+- ⚗️ [Căn bệnh giày vò Van Gogh ngày cuối đời](https://vnexpress.net/can-benh-giay-vo-van-gogh-ngay-cuoi-doi-4912951.html) - 03:45 15/07/2025
+- 😎 [Hồng Ánh tái xuất điện ảnh](https://vnexpress.net/hong-anh-tai-xuat-dien-anh-4914284.html) - 03:29 15/07/2025
+- 🫣 [Tạo hình Harry Potter mới](https://vnexpress.net/tao-hinh-harry-potter-moi-4914335.html) - 02:52 15/07/2025
+- 🪄 [Người thân, bạn bè tiễn biệt vợ chồng diễn viên Tuyết Ni](https://vnexpress.net/nguoi-than-ban-be-tien-biet-vo-chong-dien-vien-tuyet-ni-4914339.html) - 02:07 15/07/2025
+- 🤓 [Ca sĩ Kiều Nga - &#39;nữ hoàng New Wave&#39; một thuở](https://vnexpress.net/ca-si-kieu-nga-nu-hoang-new-wave-mot-thuo-4913988.html) - 17:00 14/07/2025
+- 🫶 [Đạt G ra album viết vợ con](https://vnexpress.net/dat-g-ra-album-viet-vo-con-4914056.html) - 15:16 14/07/2025
+- 🧑‍🏫 [Nicholas Hoult - &#39;sát thủ thời trang&#39;](https://vnexpress.net/nicholas-hoult-sat-thu-thoi-trang-4913677.html) - 12:30 14/07/2025
+- 🦄 [Tượng &#39;như người thật&#39;](https://vnexpress.net/tuong-nhu-nguoi-that-4914134.html) - 10:45 14/07/2025
+- 💫 [Backstreet Boys gây choáng ngợp với &#39;sân khấu vũ trụ&#39;](https://vnexpress.net/backstreet-boys-gay-choang-ngop-voi-san-khau-vu-tru-4914054.html) - 08:55 14/07/2025
+- 🎊 [Phạm Băng Băng thu trăm triệu USD nhờ kinh doanh làm đẹp](https://vnexpress.net/pham-bang-bang-thu-tram-trieu-usd-nho-kinh-doanh-lam-dep-4914072.html) - 08:00 14/07/2025
+- 👹 [Truyện tranh đình đám bị &#39;khai tử&#39; vì đạo nhái](https://vnexpress.net/truyen-tranh-dinh-dam-bi-khai-tu-vi-dao-nhai-4913882.html) - 07:43 14/07/2025
+- 💻 [Hoa hậu Olivia Culpo sinh con đầu lòng](https://vnexpress.net/hoa-hau-olivia-culpo-sinh-con-dau-long-4913863.html) - 05:05 14/07/2025
+- 🤡 [&#39;Cò&#39; Phùng Ngọc chia tay vợ](https://vnexpress.net/co-phung-ngoc-chia-tay-vo-4913942.html) - 05:02 14/07/2025
+- 🥰 [Ca sĩ Kiều Nga qua đời](https://vnexpress.net/ca-si-kieu-nga-qua-doi-4913945.html) - 04:12 14/07/2025
+- 🚀 [&#39;Superman&#39; bùng nổ doanh thu Bắc Mỹ](https://vnexpress.net/superman-bung-no-doanh-thu-bac-my-4913806.html) - 04:00 14/07/2025
+- 📝 [Jennifer Aniston hẹn hò](https://vnexpress.net/jennifer-aniston-hen-ho-4913795.html) - 02:44 14/07/2025
+- 🐲 [Nguyễn Hồng Nhung kết hôn lần hai](https://vnexpress.net/nguyen-hong-nhung-ket-hon-lan-hai-4913759.html) - 00:40 14/07/2025
+- 🎃 [10 bộ đầm đẹp nhất trên sàn diễn Paris](https://vnexpress.net/10-bo-dam-dep-nhat-tren-san-dien-paris-4913672.html) - 17:00 13/07/2025
+- 🤠 [Chi Pu và dàn sao dự tiệc cưới Đạt G](https://vnexpress.net/chi-pu-va-dan-sao-du-tiec-cuoi-dat-g-4913696.html) - 13:37 13/07/2025
+- 🎭 [Triệu Vy kiện vì bị tung tin &#39;dính vào đường dây lừa đảo&#39;](https://vnexpress.net/trieu-vy-kien-vi-bi-tung-tin-dinh-vao-duong-day-lua-dao-4913706.html) - 11:29 13/07/2025
+- 🧰 [Ảnh cưới của rapper Đạt G - Cindy Lư](https://vnexpress.net/anh-cuoi-cua-rapper-dat-g-cindy-lu-4913599.html) - 08:35 13/07/2025
+- 🦍 [&#39;Thằng Cò&#39; Phùng Ngọc: Đời tôi chưa bớt vất vả](https://vnexpress.net/thang-co-phung-ngoc-doi-toi-chua-bot-vat-va-4913646.html) - 06:41 13/07/2025
+- 🌝 [Phương Mỹ Chi và đồng nghiệp hát về &#39;vượt tự ti&#39;](https://vnexpress.net/phuong-my-chi-va-dong-nghiep-hat-ve-vuot-tu-ti-4913574.html) - 05:22 13/07/2025
+- 🧑‍💻 [Thời trang của Leonardo DiCaprio và dàn sao ở Wimbledon](https://vnexpress.net/thoi-trang-cua-leonardo-dicaprio-va-dan-sao-o-wimbledon-4913592.html) - 04:23 13/07/2025
+- 🥸 [Bài học từ 10 cuộc &#39;Đại địa chấn kinh tế&#39;](https://vnexpress.net/bai-hoc-tu-10-cuoc-dai-dia-chan-kinh-te-4911194.html) - 02:00 13/07/2025
+- 🔥 [&#39;Jurassic World 7&#39; - câu chuyện nhạt về khủng long](https://vnexpress.net/giai-tri/phim/thu-vien-phim/jurassic-world-rebirth-824) - 23:00 12/07/2025
+- 🐎 [Hùng Thuận: &#39;Cuộc đời tôi sang trang&#39;](https://vnexpress.net/hung-thuan-cuoc-doi-toi-sang-trang-4913522.html) - 16:16 12/07/2025
+- 😎 [Cường &#39;Đôla&#39; và dàn sao dự đám cưới Hùng Thuận](https://vnexpress.net/cuong-dola-va-dan-sao-du-dam-cuoi-hung-thuan-4913495.html) - 12:53 12/07/2025
+- 🦄 [Gu mặc đời thường của &#39;Sao đẹp nhất Nhật Bản&#39;](https://vnexpress.net/gu-mac-doi-thuong-cua-sao-dep-nhat-nhat-ban-4913047.html) - 11:00 12/07/2025
+- 🌜 [Ngô Thanh Vân: &#39;Tôi chuẩn bị kinh tế tốt nhất cho con&#39;](https://vnexpress.net/ngo-thanh-van-toi-chuan-bi-kinh-te-tot-nhat-cho-con-4913399.html) - 08:54 12/07/2025
+- 🚦 [10 cuốn sách nổi bật của Margaret Atwood](https://vnexpress.net/10-cuon-sach-noi-bat-cua-margaret-atwood-4893440.html) - 07:59 12/07/2025
+- 🧐 [10 phim hay nhất của Scarlett Johansson](https://vnexpress.net/10-phim-hay-nhat-cua-scarlett-johansson-4913358.html) - 07:30 12/07/2025
+- 🐵 [Ảnh cưới tối giản của Đình Tú - Ngọc Huyền](https://vnexpress.net/anh-cuoi-toi-gian-cua-dinh-tu-ngoc-huyen-4913425.html) - 06:09 12/07/2025
+- ⚗️ [Khánh Thi: &#39;Tôi không giàu có&#39;](https://vnexpress.net/khanh-thi-toi-khong-giau-co-4912402.html) - 05:33 12/07/2025
+- 👺 [Justin Bieber trả nợ hơn 30 triệu USD cho quản lý cũ](https://vnexpress.net/justin-bieber-tra-no-hon-30-trieu-usd-cho-quan-ly-cu-4913283.html) - 03:53 12/07/2025
+- 🌊 [Tiến Truyển lần đầu tham gia Tuần thời trang cao cấp Paris](https://vnexpress.net/tien-truyen-lan-dau-tham-gia-tuan-thoi-trang-cao-cap-paris-4913328.html) - 03:08 12/07/2025
+- 🪜 [&#39;Superman&#39; - siêu anh hùng vấp ngã](https://vnexpress.net/giai-tri/phim/thu-vien-phim/superman-822) - 02:39 12/07/2025
+- 🕴 [Phong cách minh tinh &#39;Bến Thượng Hải&#39;](https://vnexpress.net/phong-cach-minh-tinh-ben-thuong-hai-4913080.html) - 01:47 12/07/2025
+- 💃 [Hồng Đào áy náy vì làm Tuấn Trần bị thương khi diễn](https://vnexpress.net/hong-dao-ay-nay-vi-lam-tuan-tran-bi-thuong-khi-dien-4912965.html) - 00:58 12/07/2025
+- 🦄 [Tuổi già bình lặng của nghệ sĩ Văn Toản](https://vnexpress.net/tuoi-gia-binh-lang-cua-nghe-si-van-toan-4910461.html) - 17:00 11/07/2025
+- ⛽️ [Phương Mỹ Chi đưa điệu vọng cổ lên sân khấu &#39;Sing! Asia&#39;](https://vnexpress.net/phuong-my-chi-dua-dieu-vong-co-len-san-khau-sing-asia-4912889.html) - 15:39 11/07/2025
+- 😎 [Mẫu &#39;áo tắm Tôn Ngộ Không&#39; cháy hàng](https://vnexpress.net/mau-ao-tam-ton-ngo-khong-chay-hang-4912896.html) - 13:00 11/07/2025
 - 🌊 [Mỹ nhân &#39;Reply 1988&#39; đến TP HCM](https://vnexpress.net/my-nhan-reply-1988-den-tp-hcm-4913146.html) - 11:56 11/07/2025
 - 🐲 [Ra mắt phần hai sách &#39;Totto-chan bên cửa sổ&#39;](https://vnexpress.net/ra-mat-phan-hai-sach-totto-chan-ben-cua-so-4912846.html) - 10:09 11/07/2025
 - 💂 [Ca sĩ Kiều Nga hôn mê sâu](https://vnexpress.net/ca-si-kieu-nga-hon-me-sau-4913038.html) - 09:42 11/07/2025
