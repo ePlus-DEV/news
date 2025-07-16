@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Đóng một phần cao tốc TP HCM - Long Thành trong một tháng](https://vnexpress.net/dong-mot-phan-cao-toc-tp-hcm-long-thanh-trong-mot-thang-4914847.html) - 02:35 16/07/2025
+- 🦒 [Đóng một phần cao tốc TP HCM - Long Thành trong 30 ngày](https://vnexpress.net/dong-mot-phan-cao-toc-tp-hcm-long-thanh-trong-30-ngay-4914847.html) - 02:35 16/07/2025
 - 🤓 [Hành động tổng lực chống ô nhiễm môi trường từ năm 2025](https://vnexpress.net/hanh-dong-tong-luc-chong-o-nhiem-moi-truong-tu-nam-2025-4914558.html) - 00:00 16/07/2025
 - ⚗️ [Thiết kế tháp Tam Thắng - điểm nhấn kiến trúc ở biển Vũng Tàu](https://vnexpress.net/thiet-ke-thap-tam-thang-diem-nhan-kien-truc-o-bien-vung-tau-4914502.html) - 23:00 15/07/2025
 - 🌊 [Thách thức khi Hà Nội loại bỏ xe máy xăng](https://vnexpress.net/thach-thuc-khi-ha-noi-loai-bo-xe-may-xang-4913915.html) - 21:00 15/07/2025
