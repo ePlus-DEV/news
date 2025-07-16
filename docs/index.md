@@ -77,8 +77,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤩 [Ông Thaksin trình diện tòa về cáo buộc khi quân](https://vnexpress.net/ong-thaksin-trinh-dien-toa-ve-cao-buoc-khi-quan-4915038.html) - 10:27 16/07/2025
 - 🏊 [Nhiều người Hàn Quốc bức xúc vì du khách Hàn đánh người ở Hà Nội](https://vnexpress.net/nhieu-nguoi-han-quoc-buc-xuc-vi-du-khach-han-danh-nguoi-o-ha-noi-4915109.html) - 10:07 16/07/2025
 - 💂 [Điểm tin 17h: Các ông lớn đua thâu tóm dự án bất động sản | Chứng khoán tăng vọt](https://vnexpress.net/diem-tin-17h-cac-ong-lon-dua-thau-tom-du-an-bat-dong-san-chung-khoan-tang-vot-4915153.html) - 10:05 16/07/2025
-- 🚀 [Bạn tôi liên tục bị bạn trai cũ quấy rối](https://vnexpress.net/tinh-cong-so-dong-nghiep-quay-roi-quay-roi-cong-so-ban-toi-lien-tuc-bi-ban-trai-cu-quay-roi-4914940.html) - 10:00 16/07/2025
-- 🕴 [Mỹ Linh làm show ở Nhật Bản, Hàn Quốc](https://vnexpress.net/my-linh-lam-show-o-nhat-ban-han-quoc-4914495.html) - 10:00 16/07/2025<!-- vnexpress:END -->
+- 🚀 [Bạn tôi liên tục bị bạn trai cũ quấy rối](https://vnexpress.net/tinh-cong-so-dong-nghiep-quay-roi-quay-roi-cong-so-ban-toi-lien-tuc-bi-ban-trai-cu-quay-roi-4914940.html) - 10:00 16/07/2025<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
