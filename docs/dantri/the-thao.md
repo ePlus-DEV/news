@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [U23 Timor Leste tạo địa chấn trong trận cầu “điên rồ” với 8 bàn thắng](https://dantri.com.vn/the-thao/u23-timor-leste-tao-dia-chan-trong-tran-cau-dien-ro-voi-8-ban-thang-20250716224945062.htm) - 15:49 16/07/2025
+- 🎡 [U23 Timor Leste tạo địa chấn trong trận cầu “điên rồ” với 8 bàn thắng](https://dantri.com.vn/the-thao/u23-timor-leste-tao-dia-chan-trong-tran-cau-dien-ro-voi-8-ban-thang-20250716224945062.htm) - 16:03 16/07/2025
 - 💯 [U23 Campuchia chia điểm với Lào, U23 Việt Nam hưởng lợi](https://dantri.com.vn/the-thao/u23-campuchia-chia-diem-voi-lao-u23-viet-nam-huong-loi-20250716203114489.htm) - 13:31 16/07/2025
 - ⛽️ [Không gọi được dàn sao nhập tịch, Malaysia đưa ra quyết định gây sốc](https://dantri.com.vn/the-thao/khong-goi-duoc-dan-sao-nhap-tich-malaysia-dua-ra-quyet-dinh-gay-soc-20250716200941745.htm) - 13:09 16/07/2025
 - 💃 [AFF đưa ra cảnh báo đặc biệt với U23 Việt Nam](https://dantri.com.vn/the-thao/aff-dua-ra-canh-bao-dac-biet-voi-u23-viet-nam-20250716183201783.htm) - 11:32 16/07/2025
