@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Sân bay Liên Khương đóng cửa để nâng cấp vào tháng 3/2026](https://vnexpress.net/san-bay-lien-khuong-dong-cua-de-nang-cap-vao-thang-3-2026-4915222.html) - 17:00 16/07/2025
-- 🤓 [Ôtô tông hàng loạt xe ở Hà Nội, một người tử vong](https://vnexpress.net/oto-tong-hang-loat-xe-o-ha-noi-mot-nguoi-tu-vong-4915228.html) - 15:15 16/07/2025
+- 🤓 [Ôtô tông loạt xe trên phố Hà Nội, một người tử vong](https://vnexpress.net/oto-tong-loat-xe-tren-pho-ha-noi-mot-nguoi-tu-vong-4915228.html) - 15:15 16/07/2025
 - ⚗️ [Ba người mắc kẹt trên ốc đảo giữa sông Đồng Nai](https://vnexpress.net/ba-nguoi-mac-ket-tren-oc-dao-giua-song-dong-nai-4915208.html) - 13:34 16/07/2025
 - 🌊 [Hà Nội dự kiến hỗ trợ tối đa 3 triệu đồng mỗi người để đổi xe máy điện](https://vnexpress.net/ha-noi-du-kien-ho-tro-toi-da-3-trieu-dong-moi-nguoi-de-doi-xe-may-dien-4915178.html) - 11:45 16/07/2025
 - 🎓 [Lâm Đồng hỗ trợ 5 triệu đồng đi lại, chỗ ở cho cán bộ sau sáp nhập](https://vnexpress.net/lam-dong-ho-tro-5-trieu-dong-di-lai-cho-o-cho-can-bo-sau-sap-nhap-4915187.html) - 11:19 16/07/2025
