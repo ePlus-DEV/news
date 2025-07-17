@@ -319,7 +319,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- sggp:START -->
 - 🪜 [Xây dựng thị trường chứng khoán công bằng, minh bạch và hiệu quả](https://www.sggp.org.vn/xay-dung-thi-truong-chung-khoan-cong-bang-minh-bach-va-hieu-qua-post804230.html) - 13:58 17/07/2025
 - 🌝 [Gắn biển 2 công trình Trạm biến áp 110kV tại ĐBSCL](https://www.sggp.org.vn/gan-bien-2-cong-trinh-tram-bien-ap-110kv-tai-dbscl-post804206.html) - 13:55 17/07/2025
-- 💃 [Quốc hội Việt Nam ủng hộ việc Kiểm toán Nhà nước Việt Nam và Lào tăng cường hợp tác](https://www.sggp.org.vn/quoc-hoi-viet-nam-ung-ho-viec-kiem-toan-nha-nuoc-viet-nam-va-lao-tang-cuong-hop-tac-post804231.html) - 13:51 17/07/2025
+- 💃 [Kiểm toán Nhà nước Việt Nam và Lào tăng cường hợp tác](https://www.sggp.org.vn/kiem-toan-nha-nuoc-viet-nam-va-lao-tang-cuong-hop-tac-post804231.html) - 13:51 17/07/2025
 - 🧑‍💻 [Rộn ràng giải bóng đá dành cho Sinh viên khu vực Đồng Bằng Sông Cửu Long](https://www.sggp.org.vn/ron-rang-giai-bong-da-danh-cho-sinh-vien-khu-vuc-dong-bang-song-cuu-long-post804201.html) - 13:50 17/07/2025
 - 🌊 [Tuyết Ngân vào bệnh viện phẫu thuật khi tập trung đội tuyển nữ Việt Nam](https://www.sggp.org.vn/tuyet-ngan-vao-benh-vien-phau-thuat-khi-tap-trung-doi-tuyen-nu-viet-nam-post804237.html) - 13:50 17/07/2025
 - 🧑‍💻 [Thanh Nhàn chia tay sớm với giải U23 Đông Nam Á 2025](https://www.sggp.org.vn/thanh-nhan-chia-tay-som-voi-giai-u23-dong-nam-a-2025-post804234.html) - 13:49 17/07/2025
