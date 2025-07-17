@@ -5,7 +5,7 @@ sidebar_position: 12
 
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Tài xế gây tai nạn liên hoàn ở Hà Nội khai &#39;buồn ngủ sau uống rượu&#39;](https://vnexpress.net/tai-xe-khai-buon-ngu-sau-uong-ruou-nen-gay-tai-nan-lien-hoan-o-ha-noi-4915380.html) - 03:34 17/07/2025
-- 🥰 [Hai đường đạn từ xa bắn chết người đang ở nhà](https://vnexpress.net/hai-duong-dan-tu-xa-ban-chet-nguoi-dang-o-nha-4915246.html) - 23:05 16/07/2025
+- 🥰 [Bất ngờ trúng đạn khi đang ở nhà](https://vnexpress.net/bat-ngo-trung-dan-khi-dang-o-nha-4915246.html) - 23:05 16/07/2025
 - 🎓 [Cảnh sát cơ động kỵ binh tập luyện ở thao trường](https://vnexpress.net/canh-sat-co-dong-ky-binh-tap-luyen-o-thao-truong-4914170.html) - 17:00 16/07/2025
 - 🤓 [Thủ đoạn tiêu diệt chướng ngại của gã cảnh sát cuồng ghen](https://vnexpress.net/thu-doan-tieu-diet-chuong-ngai-cua-ga-canh-sat-cuong-ghen-4915192.html) - 17:00 16/07/2025
 - 🎊 [Tiền đóng BHYT theo hộ gia đình từ ngày 1/7 là bao nhiêu?](https://vnexpress.net/so-tien-dong-bhyt-theo-ho-gia-dinh-tu-ngay-1-7-la-bao-nhieu-4915180.html) - 17:00 16/07/2025
