@@ -4,63 +4,63 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Dừng đổi tên trường chuyên Bắc Giang và chuyên Bắc Ninh](https://vnexpress.net/dung-doi-ten-truong-chuyen-bac-giang-va-chuyen-bac-ninh-4915620.html) - 09:57 17/07/2025
-- 🦆 [Dự đoán điểm chuẩn Đại học Kinh tế - Luật giảm 0,5-1,5 điểm](https://vnexpress.net/du-kien-diem-chuan-dai-hoc-kinh-te-luat-tp-hcm-2025-4915361.html) - 09:27 17/07/2025
-- 🦩 [Điểm sàn và dự báo điểm chuẩn 2025 của trường Đại học CMC](https://vnexpress.net/diem-san-va-du-bao-diem-chuan-2025-cua-truong-dai-hoc-cmc-4915489.html) - 08:00 17/07/2025
-- 🌮 [Điểm sàn Đại học Khoa học Tự nhiên TP HCM thấp nhất 16](https://vnexpress.net/diem-san-dai-hoc-khoa-hoc-tu-nhien-tp-hcm-thap-nhat-16-4915410.html) - 04:58 17/07/2025
-- 🔭 [Điểm chuẩn Đại học Kinh tế Quốc dân có thể giảm](https://vnexpress.net/du-doan-diem-chuan-dai-hoc-kinh-te-quoc-dan-2025-4915392.html) - 04:46 17/07/2025
-- 💡 [VNUK mở rộng chương trình đào tạo ngành công nghệ, kỹ thuật](https://vnexpress.net/vnuk-mo-rong-chuong-trinh-dao-tao-nganh-cong-nghe-ky-thuat-4914564.html) - 02:00 17/07/2025
-- 🥰 [Biến động điểm chuẩn Đại học Y Hà Nội ba năm gần đây](https://vnexpress.net/diem-chuan-dai-hoc-y-ha-noi-ba-nam-2022-2024-4915073.html) - 17:07 16/07/2025
-- 🐲 [Thủ khoa toàn quốc &#39;cày&#39; 6 đề mỗi ngày](https://vnexpress.net/thu-khoa-toan-quoc-cay-6-de-moi-ngay-4915046.html) - 17:00 16/07/2025
-- 🦒 [Điểm chuẩn Đại học Công nghiệp Hà Nội ba năm qua cao nhất 26,15](https://vnexpress.net/diem-chuan-dai-hoc-cong-nghiep-ha-noi-ba-nam-qua-cao-nhat-26-15-4915004.html) - 14:12 16/07/2025
-- 🦆 [Nửa năm bứt phá đưa nam sinh đến ngôi thủ khoa A00 toàn quốc](https://vnexpress.net/nua-nam-but-pha-dua-nam-sinh-den-ngoi-thu-khoa-a00-toan-quoc-4915136.html) - 12:35 16/07/2025
-- 🧰 [&#39;Không nên tư duy chọn nghề một lần cho cả đời&#39;](https://vnexpress.net/khong-nen-tu-duy-chon-nghe-mot-lan-cho-ca-doi-4915154.html) - 12:00 16/07/2025
-- 🐘 [Điểm sàn Đại học Công thương TP HCM giảm 2-4](https://vnexpress.net/diem-san-dai-hoc-cong-thuong-tp-hcm-giam-2-4-4915191.html) - 11:59 16/07/2025
-- 🤓 [15 trường THPT có điểm thi tốt nghiệp cao nhất Hà Nội](https://vnexpress.net/top-15-truong-co-diem-thi-tot-nghiep-thpt-cao-nhat-ha-noi-nam-2025-4915097.html) - 11:06 16/07/2025
-- 🧰 [Điểm trung bình môn Văn của 34 tỉnh, thành](https://vnexpress.net/xep-hang-tinh-thanh-ve-diem-van-thi-tot-nghiep-thpt-2025-4914752.html) - 09:54 16/07/2025
-- 🧑‍💻 [Đại học Tài chính - Marketing lấy điểm sàn thấp kỷ lục](https://vnexpress.net/diem-san-dai-hoc-tai-chinh-marketing-la-15-4915132.html) - 09:40 16/07/2025
-- 🫶 [Điểm sàn Đại học Hoa Sen từ 15 đến 17](https://vnexpress.net/diem-san-dai-hoc-hoa-sen-tu-15-den-17-4915103.html) - 09:01 16/07/2025
-- 🪜 [Điểm sàn Đại học Kinh tế - Tài chính TP HCM giảm](https://vnexpress.net/diem-san-dai-hoc-kinh-te-tai-chinh-tp-hcm-uef-nam-2025-4914999.html) - 08:45 16/07/2025
-- 🎊 [Xếp hạng 34 tỉnh, thành theo điểm trung bình môn Tiếng Anh](https://vnexpress.net/xep-hang-34-tinh-thanh-theo-diem-trung-binh-mon-tieng-anh-4914575.html) - 07:58 16/07/2025
-- 🧐 [Chủ nhiệm Ủy ban Văn hóa và Xã hội: &#39;Dạy - học không chỉ vì thành tích thi cử&#39;](https://vnexpress.net/chu-nhiem-uy-ban-van-hoa-va-xa-hoi-day-hoc-khong-chi-vi-thanh-tich-thi-cu-4883713.html) - 07:54 16/07/2025
-- 🌈 [Thủ khoa A00 ở Ninh Bình muốn làm dược sĩ](https://vnexpress.net/thu-khoa-a00-o-ninh-binh-muon-lam-duoc-si-4914921.html) - 07:34 16/07/2025
-- 🥰 [Trường Đại học FPT công bố điểm chuẩn xét tuyển 2025](https://vnexpress.net/truong-dai-hoc-fpt-cong-bo-diem-chuan-xet-tuyen-2025-4915009.html) - 07:30 16/07/2025
-- 🎡 [FPTU hướng sinh viên trải nghiệm giáo dục toàn cầu qua &#39;học đa điểm&#39;](https://vnexpress.net/fptu-huong-sinh-vien-trai-nghiem-giao-duc-toan-cau-qua-hoc-da-diem-4914995.html) - 07:00 16/07/2025
-- 🎊 [Xếp hạng điểm Toán thi tốt nghiệp THPT của 34 tỉnh, thành](https://vnexpress.net/xep-hang-diem-toan-thi-tot-nghiep-thpt-cua-34-tinh-thanh-4914746.html) - 06:51 16/07/2025
-- 🌏 [TP HCM dự kiến tuyển sinh lớp 10 bằng xét học bạ và điểm thi](https://vnexpress.net/tp-hcm-du-kien-tuyen-sinh-lop-10-bang-xet-hoc-ba-va-diem-thi-4914962.html) - 06:13 16/07/2025
-- 🥸 [Nữ sinh bật khóc khi thành thủ khoa khối C00 toàn quốc](https://vnexpress.net/nu-sinh-nghe-an-la-thu-khoa-khoi-c00-nam-2025-4914883.html) - 05:08 16/07/2025
-- 🕴 [Top 200 thí sinh có tổng điểm thi tốt nghiệp cao nhất](https://vnexpress.net/top-200-thi-sinh-co-tong-diem-thi-tot-nghiep-thpt-2025-cao-nhat-4914930.html) - 04:38 16/07/2025
-- 💂 [Phổ điểm tổ hợp B00 xét tuyển đại học 2025](https://vnexpress.net/pho-diem-to-hop-a00-xet-tuyen-dai-hoc-2025-nhu-the-nao-4914270.html) - 04:11 16/07/2025
-- 🕴 [Phổ điểm xét tuyển đại học khối C00](https://vnexpress.net/pho-diem-xet-tuyen-dai-hoc-khoi-c00-4914249.html) - 04:05 16/07/2025
-- 🌋 [Nữ sinh chuyên Hóa là thủ khoa toàn quốc khối A00](https://vnexpress.net/thu-khoa-tai-sac-ven-toan-khoi-a00-thi-tot-nghiep-thpt-2025-4914913.html) - 03:54 16/07/2025
-- 🪜 [Phổ điểm tổ hợp A01 xét tuyển đại học 2025](https://vnexpress.net/pho-diem-to-hop-a01-xet-tuyen-dai-hoc-2025-4914413.html) - 03:39 16/07/2025
-- 🕴 [Phổ điểm tổ hợp A00 xét tuyển đại học 2025](https://vnexpress.net/pho-diem-to-hop-a00-xet-tuyen-dai-hoc-2025-4914397.html) - 03:35 16/07/2025
-- 🎃 [Phổ điểm tổ hợp D01 theo điểm thi tốt nghiệp THPT 2025](https://vnexpress.net/pho-diem-to-hop-d01-thi-tot-nghiep-thpt-2025-chi-tiet-nhat-4914285.html) - 03:32 16/07/2025
-- 🦏 [Thủ khoa thi đánh giá năng lực đạt 3 điểm 10 khối A00](https://vnexpress.net/thu-khoa-thi-danh-gia-nang-luc-dat-3-diem-10-khoi-a00-4914789.html) - 03:27 16/07/2025
-- 🧑‍🏫 [Nghệ An dẫn đầu 34 tỉnh, thành về điểm thi tốt nghiệp](https://vnexpress.net/xep-hang-tinh-thanh-theo-diem-thi-tot-nghiep-thpt-2025-4914747.html) - 03:15 16/07/2025
-- 💡 [Phổ điểm 5 tổ hợp xét tuyển đại học 2025](https://vnexpress.net/pho-diem-cac-khoi-xet-tuyen-dai-hoc-2025-chi-tiet-nhat-4914268.html) - 03:02 16/07/2025
-- 🐎 [Thủ khoa B00 với điểm tuyệt đối từng học nội trú ba ca mỗi ngày](https://vnexpress.net/thu-khoa-khoi-b00-thi-tot-nghiep-thpt-2025-4914868.html) - 02:40 16/07/2025
-- 🧰 [Nam sinh Hà Nội là thủ khoa toàn quốc, dẫn đầu 4 khối xét tuyển đại học](https://vnexpress.net/nam-sinh-ha-noi-la-thu-khoa-toan-quoc-dan-dau-4-khoi-xet-tuyen-dai-hoc-4914837.html) - 02:20 16/07/2025
-- 🙉 [Top 200 thí sinh điểm cao nhất ở 5 tổ hợp xét tuyển đại học](https://vnexpress.net/top-200-thi-sinh-diem-cao-nhat-to-hop-a00-a01-b00-c00-d01-nam-2025-4914844.html) - 02:03 16/07/2025
-- ⚗️ [Gia Lai sẽ có trung tâm đào tạo năng lượng tái tạo tiêu chuẩn quốc tế](https://vnexpress.net/gia-lai-se-co-trung-tam-dao-tao-nang-luong-tai-tao-tieu-chuan-quoc-te-4914430.html) - 01:48 16/07/2025
-- 🌝 [9 thủ khoa đạt điểm tuyệt đối 30/30](https://vnexpress.net/thu-khoa-cac-khoi-xet-tuyen-dai-hoc-2025-4914734.html) - 01:27 16/07/2025
-- ⛽️ [Đại học Quy Nhơn đào tạo nhân lực bán dẫn, AI](https://vnexpress.net/dai-hoc-quy-nhon-dao-tao-nhan-luc-ban-dan-ai-4914368.html) - 00:50 16/07/2025
-- 🌜 [Điểm chuẩn thi tốt nghiệp của Đại học Ngoại thương ba năm qua](https://vnexpress.net/diem-chuan-thi-tot-nghiep-cua-dai-hoc-ngoai-thuong-ba-nam-qua-4914042.html) - 00:41 16/07/2025
-- ⚗️ [Thí sinh làm gì sau khi biết điểm thi tốt nghiệp THPT 2025?](https://vnexpress.net/thi-sinh-lam-gi-sau-khi-biet-diem-thi-tot-nghiep-thpt-2025-4913908.html) - 00:38 16/07/2025
-- 🧰 [Biến động điểm chuẩn Đại học Kinh tế Quốc dân](https://vnexpress.net/bien-dong-diem-chuan-dai-hoc-kinh-te-quoc-dan-4914365.html) - 23:13 15/07/2025
-- 🤗 [Bộ Giáo dục công bố điểm thi tốt nghiệp THPT 2025](https://vnexpress.net/tra-cuu-diem-thi-tot-nghiep-thpt-2025-chinh-xac-nhat-4914533.html) - 22:59 15/07/2025
-- 🔥 [Điểm chuẩn Học viện Tài chính ba năm gần đây](https://vnexpress.net/diem-chuan-hoc-vien-tai-chinh-2022-2024-4914374.html) - 22:00 15/07/2025
-- 💪 [Link tra cứu điểm thi tốt nghiệp THPT của 34 tỉnh, thành](https://vnexpress.net/link-tra-cuu-diem-thi-tot-nghiep-thpt-2025-cua-34-tinh-thanh-chinh-xac-nhat-4914507.html) - 17:14 15/07/2025
-- 💂 [Tra cứu điểm thi tốt nghiệp THPT 2025](https://vnexpress.net/tra-cuu-diem-thi-tot-nghiep-thpt-2025-4914078.html) - 17:00 15/07/2025
-- 🌮 [Hơn 270 thí sinh trúng tuyển thẳng Đại học Y Hà Nội](https://vnexpress.net/danh-sach-272-thi-sinh-trung-tuyen-thang-dai-hoc-y-ha-noi-nam-2025-4914741.html) - 15:51 15/07/2025
-- 🪄 [Biến động điểm chuẩn Đại học Bách khoa Hà Nội ba năm qua](https://vnexpress.net/bien-dong-diem-chuan-dai-hoc-bach-khoa-ha-noi-ba-nam-qua-4914544.html) - 14:31 15/07/2025
-- 🎡 [Điểm chuẩn đại học 2025 có thể giảm 2-3 điểm](https://vnexpress.net/du-doan-diem-chuan-dai-hoc-2025-chi-tiet-4914597.html) - 14:00 15/07/2025
-- 🌈 [Phổ điểm Toán, Tiếng Anh thi tốt nghiệp &#39;đẹp bất ngờ&#39;](https://vnexpress.net/pho-diem-toan-tieng-anh-thi-tot-nghiep-dep-bat-ngo-4914700.html) - 12:24 15/07/2025
-- 🎊 [Trường Đại học Cần Thơ lên đại học](https://vnexpress.net/truong-dai-hoc-can-tho-len-dai-hoc-4914573.html) - 12:16 15/07/2025
-- ⚗️ [Điểm trung bình Toán, Hóa thi tốt nghiệp THPT giảm mạnh nhất](https://vnexpress.net/bien-dong-diem-thi-tot-nghiep-thpt-2025-cac-mon-4914416.html) - 12:03 15/07/2025
-- 🌁 [Điểm sàn Đại học Công nghệ TP HCM giảm đến 4 điểm](https://vnexpress.net/diem-san-cong-thuc-quy-doi-diem-chuan-dai-hoc-cong-nghe-tp-hcm-2025-4914708.html) - 11:54 15/07/2025
-- 🦏 [Ninh Bình dẫn đầu điểm Toán thi tốt nghiệp THPT 2025](https://vnexpress.net/ninh-binh-dan-dau-diem-toan-thi-tot-nghiep-thpt-2025-4914432.html) - 09:56 15/07/2025
-- 👍 [Phổ điểm môn Giáo dục kinh tế pháp luật thi tốt nghiệp THPT 2025](https://vnexpress.net/pho-diem-mon-giao-duc-kinh-te-phap-luat-thi-tot-nghiep-thpt-2025-4914607.html) - 09:46 15/07/2025
-- 🌈 [Hơn 930 thí sinh bị điểm liệt, môn Toán đông nhất](https://vnexpress.net/hon-930-thi-sinh-bi-diem-liet-mon-toan-dong-nhat-4914655.html) - 09:42 15/07/2025
-- 🕴 [Top 10 tỉnh, thành có điểm trung bình môn Văn thi tốt nghiệp cao nhất](https://vnexpress.net/top-10-tinh-thanh-co-diem-trung-binh-mon-van-thi-tot-nghiep-cao-nhat-4914621.html) - 09:22 15/07/2025
-- 🧰 [Phổ điểm môn Công nghệ thi tốt nghiệp THPT 2025](https://vnexpress.net/pho-diem-mon-cong-nghe-thi-tot-nghiep-thpt-2025-4914612.html) - 09:16 15/07/2025<!-- vnexpress-giao-duc:END -->
+- 🤓 [&#39;Diêm dân&#39; là người làm nghề gì?](https://vnexpress.net/diem-dan-la-nguoi-lam-nghe-gi-4915653.html) - 13:09 17/07/2025
+- 🦆 [Dừng đổi tên trường chuyên Bắc Giang và chuyên Bắc Ninh](https://vnexpress.net/dung-doi-ten-truong-chuyen-bac-giang-va-chuyen-bac-ninh-4915620.html) - 09:57 17/07/2025
+- 🦩 [Dự đoán điểm chuẩn Đại học Kinh tế - Luật giảm 0,5-1,5 điểm](https://vnexpress.net/du-kien-diem-chuan-dai-hoc-kinh-te-luat-tp-hcm-2025-4915361.html) - 09:27 17/07/2025
+- 🌮 [Điểm sàn và dự báo điểm chuẩn 2025 của trường Đại học CMC](https://vnexpress.net/diem-san-va-du-bao-diem-chuan-2025-cua-truong-dai-hoc-cmc-4915489.html) - 08:00 17/07/2025
+- 🔭 [Điểm sàn Đại học Khoa học Tự nhiên TP HCM thấp nhất 16](https://vnexpress.net/diem-san-dai-hoc-khoa-hoc-tu-nhien-tp-hcm-thap-nhat-16-4915410.html) - 04:58 17/07/2025
+- 💡 [Điểm chuẩn Đại học Kinh tế Quốc dân có thể giảm](https://vnexpress.net/du-doan-diem-chuan-dai-hoc-kinh-te-quoc-dan-2025-4915392.html) - 04:46 17/07/2025
+- 🥰 [VNUK mở rộng chương trình đào tạo ngành công nghệ, kỹ thuật](https://vnexpress.net/vnuk-mo-rong-chuong-trinh-dao-tao-nganh-cong-nghe-ky-thuat-4914564.html) - 02:00 17/07/2025
+- 🐲 [Biến động điểm chuẩn Đại học Y Hà Nội ba năm gần đây](https://vnexpress.net/diem-chuan-dai-hoc-y-ha-noi-ba-nam-2022-2024-4915073.html) - 17:07 16/07/2025
+- 🦒 [Thủ khoa toàn quốc &#39;cày&#39; 6 đề mỗi ngày](https://vnexpress.net/thu-khoa-toan-quoc-cay-6-de-moi-ngay-4915046.html) - 17:00 16/07/2025
+- 🦆 [Điểm chuẩn Đại học Công nghiệp Hà Nội ba năm qua cao nhất 26,15](https://vnexpress.net/diem-chuan-dai-hoc-cong-nghiep-ha-noi-ba-nam-qua-cao-nhat-26-15-4915004.html) - 14:12 16/07/2025
+- 🧰 [Nửa năm bứt phá đưa nam sinh đến ngôi thủ khoa A00 toàn quốc](https://vnexpress.net/nua-nam-but-pha-dua-nam-sinh-den-ngoi-thu-khoa-a00-toan-quoc-4915136.html) - 12:35 16/07/2025
+- 🐘 [&#39;Không nên tư duy chọn nghề một lần cho cả đời&#39;](https://vnexpress.net/khong-nen-tu-duy-chon-nghe-mot-lan-cho-ca-doi-4915154.html) - 12:00 16/07/2025
+- 🤓 [Điểm sàn Đại học Công thương TP HCM giảm 2-4](https://vnexpress.net/diem-san-dai-hoc-cong-thuong-tp-hcm-giam-2-4-4915191.html) - 11:59 16/07/2025
+- 🧰 [15 trường THPT có điểm thi tốt nghiệp cao nhất Hà Nội](https://vnexpress.net/top-15-truong-co-diem-thi-tot-nghiep-thpt-cao-nhat-ha-noi-nam-2025-4915097.html) - 11:06 16/07/2025
+- 🧑‍💻 [Điểm trung bình môn Văn của 34 tỉnh, thành](https://vnexpress.net/xep-hang-tinh-thanh-ve-diem-van-thi-tot-nghiep-thpt-2025-4914752.html) - 09:54 16/07/2025
+- 🫶 [Đại học Tài chính - Marketing lấy điểm sàn thấp kỷ lục](https://vnexpress.net/diem-san-dai-hoc-tai-chinh-marketing-la-15-4915132.html) - 09:40 16/07/2025
+- 🪜 [Điểm sàn Đại học Hoa Sen từ 15 đến 17](https://vnexpress.net/diem-san-dai-hoc-hoa-sen-tu-15-den-17-4915103.html) - 09:01 16/07/2025
+- 🎊 [Điểm sàn Đại học Kinh tế - Tài chính TP HCM giảm](https://vnexpress.net/diem-san-dai-hoc-kinh-te-tai-chinh-tp-hcm-uef-nam-2025-4914999.html) - 08:45 16/07/2025
+- 🧐 [Xếp hạng 34 tỉnh, thành theo điểm trung bình môn Tiếng Anh](https://vnexpress.net/xep-hang-34-tinh-thanh-theo-diem-trung-binh-mon-tieng-anh-4914575.html) - 07:58 16/07/2025
+- 🌈 [Chủ nhiệm Ủy ban Văn hóa và Xã hội: &#39;Dạy - học không chỉ vì thành tích thi cử&#39;](https://vnexpress.net/chu-nhiem-uy-ban-van-hoa-va-xa-hoi-day-hoc-khong-chi-vi-thanh-tich-thi-cu-4883713.html) - 07:54 16/07/2025
+- 🥰 [Thủ khoa A00 ở Ninh Bình muốn làm dược sĩ](https://vnexpress.net/thu-khoa-a00-o-ninh-binh-muon-lam-duoc-si-4914921.html) - 07:34 16/07/2025
+- 🎡 [Trường Đại học FPT công bố điểm chuẩn xét tuyển 2025](https://vnexpress.net/truong-dai-hoc-fpt-cong-bo-diem-chuan-xet-tuyen-2025-4915009.html) - 07:30 16/07/2025
+- 🎊 [FPTU hướng sinh viên trải nghiệm giáo dục toàn cầu qua &#39;học đa điểm&#39;](https://vnexpress.net/fptu-huong-sinh-vien-trai-nghiem-giao-duc-toan-cau-qua-hoc-da-diem-4914995.html) - 07:00 16/07/2025
+- 🌏 [Xếp hạng điểm Toán thi tốt nghiệp THPT của 34 tỉnh, thành](https://vnexpress.net/xep-hang-diem-toan-thi-tot-nghiep-thpt-cua-34-tinh-thanh-4914746.html) - 06:51 16/07/2025
+- 🥸 [TP HCM dự kiến tuyển sinh lớp 10 bằng xét học bạ và điểm thi](https://vnexpress.net/tp-hcm-du-kien-tuyen-sinh-lop-10-bang-xet-hoc-ba-va-diem-thi-4914962.html) - 06:13 16/07/2025
+- 🕴 [Nữ sinh bật khóc khi thành thủ khoa khối C00 toàn quốc](https://vnexpress.net/nu-sinh-nghe-an-la-thu-khoa-khoi-c00-nam-2025-4914883.html) - 05:08 16/07/2025
+- 💂 [Top 200 thí sinh có tổng điểm thi tốt nghiệp cao nhất](https://vnexpress.net/top-200-thi-sinh-co-tong-diem-thi-tot-nghiep-thpt-2025-cao-nhat-4914930.html) - 04:38 16/07/2025
+- 🕴 [Phổ điểm tổ hợp B00 xét tuyển đại học 2025](https://vnexpress.net/pho-diem-to-hop-a00-xet-tuyen-dai-hoc-2025-nhu-the-nao-4914270.html) - 04:11 16/07/2025
+- 🌋 [Phổ điểm xét tuyển đại học khối C00](https://vnexpress.net/pho-diem-xet-tuyen-dai-hoc-khoi-c00-4914249.html) - 04:05 16/07/2025
+- 🪜 [Nữ sinh chuyên Hóa là thủ khoa toàn quốc khối A00](https://vnexpress.net/thu-khoa-tai-sac-ven-toan-khoi-a00-thi-tot-nghiep-thpt-2025-4914913.html) - 03:54 16/07/2025
+- 🕴 [Phổ điểm tổ hợp A01 xét tuyển đại học 2025](https://vnexpress.net/pho-diem-to-hop-a01-xet-tuyen-dai-hoc-2025-4914413.html) - 03:39 16/07/2025
+- 🎃 [Phổ điểm tổ hợp A00 xét tuyển đại học 2025](https://vnexpress.net/pho-diem-to-hop-a00-xet-tuyen-dai-hoc-2025-4914397.html) - 03:35 16/07/2025
+- 🦏 [Phổ điểm tổ hợp D01 theo điểm thi tốt nghiệp THPT 2025](https://vnexpress.net/pho-diem-to-hop-d01-thi-tot-nghiep-thpt-2025-chi-tiet-nhat-4914285.html) - 03:32 16/07/2025
+- 🧑‍🏫 [Thủ khoa thi đánh giá năng lực đạt 3 điểm 10 khối A00](https://vnexpress.net/thu-khoa-thi-danh-gia-nang-luc-dat-3-diem-10-khoi-a00-4914789.html) - 03:27 16/07/2025
+- 💡 [Nghệ An dẫn đầu 34 tỉnh, thành về điểm thi tốt nghiệp](https://vnexpress.net/xep-hang-tinh-thanh-theo-diem-thi-tot-nghiep-thpt-2025-4914747.html) - 03:15 16/07/2025
+- 🐎 [Phổ điểm 5 tổ hợp xét tuyển đại học 2025](https://vnexpress.net/pho-diem-cac-khoi-xet-tuyen-dai-hoc-2025-chi-tiet-nhat-4914268.html) - 03:02 16/07/2025
+- 🧰 [Thủ khoa B00 với điểm tuyệt đối từng học nội trú ba ca mỗi ngày](https://vnexpress.net/thu-khoa-khoi-b00-thi-tot-nghiep-thpt-2025-4914868.html) - 02:40 16/07/2025
+- 🙉 [Nam sinh Hà Nội là thủ khoa toàn quốc, dẫn đầu 4 khối xét tuyển đại học](https://vnexpress.net/nam-sinh-ha-noi-la-thu-khoa-toan-quoc-dan-dau-4-khoi-xet-tuyen-dai-hoc-4914837.html) - 02:20 16/07/2025
+- ⚗️ [Top 200 thí sinh điểm cao nhất ở 5 tổ hợp xét tuyển đại học](https://vnexpress.net/top-200-thi-sinh-diem-cao-nhat-to-hop-a00-a01-b00-c00-d01-nam-2025-4914844.html) - 02:03 16/07/2025
+- 🌝 [Gia Lai sẽ có trung tâm đào tạo năng lượng tái tạo tiêu chuẩn quốc tế](https://vnexpress.net/gia-lai-se-co-trung-tam-dao-tao-nang-luong-tai-tao-tieu-chuan-quoc-te-4914430.html) - 01:48 16/07/2025
+- ⛽️ [9 thủ khoa đạt điểm tuyệt đối 30/30](https://vnexpress.net/thu-khoa-cac-khoi-xet-tuyen-dai-hoc-2025-4914734.html) - 01:27 16/07/2025
+- 🌜 [Đại học Quy Nhơn đào tạo nhân lực bán dẫn, AI](https://vnexpress.net/dai-hoc-quy-nhon-dao-tao-nhan-luc-ban-dan-ai-4914368.html) - 00:50 16/07/2025
+- ⚗️ [Điểm chuẩn thi tốt nghiệp của Đại học Ngoại thương ba năm qua](https://vnexpress.net/diem-chuan-thi-tot-nghiep-cua-dai-hoc-ngoai-thuong-ba-nam-qua-4914042.html) - 00:41 16/07/2025
+- 🧰 [Thí sinh làm gì sau khi biết điểm thi tốt nghiệp THPT 2025?](https://vnexpress.net/thi-sinh-lam-gi-sau-khi-biet-diem-thi-tot-nghiep-thpt-2025-4913908.html) - 00:38 16/07/2025
+- 🤗 [Biến động điểm chuẩn Đại học Kinh tế Quốc dân](https://vnexpress.net/bien-dong-diem-chuan-dai-hoc-kinh-te-quoc-dan-4914365.html) - 23:13 15/07/2025
+- 🔥 [Bộ Giáo dục công bố điểm thi tốt nghiệp THPT 2025](https://vnexpress.net/tra-cuu-diem-thi-tot-nghiep-thpt-2025-chinh-xac-nhat-4914533.html) - 22:59 15/07/2025
+- 💪 [Điểm chuẩn Học viện Tài chính ba năm gần đây](https://vnexpress.net/diem-chuan-hoc-vien-tai-chinh-2022-2024-4914374.html) - 22:00 15/07/2025
+- 💂 [Link tra cứu điểm thi tốt nghiệp THPT của 34 tỉnh, thành](https://vnexpress.net/link-tra-cuu-diem-thi-tot-nghiep-thpt-2025-cua-34-tinh-thanh-chinh-xac-nhat-4914507.html) - 17:14 15/07/2025
+- 🌮 [Tra cứu điểm thi tốt nghiệp THPT 2025](https://vnexpress.net/tra-cuu-diem-thi-tot-nghiep-thpt-2025-4914078.html) - 17:00 15/07/2025
+- 🪄 [Hơn 270 thí sinh trúng tuyển thẳng Đại học Y Hà Nội](https://vnexpress.net/danh-sach-272-thi-sinh-trung-tuyen-thang-dai-hoc-y-ha-noi-nam-2025-4914741.html) - 15:51 15/07/2025
+- 🎡 [Biến động điểm chuẩn Đại học Bách khoa Hà Nội ba năm qua](https://vnexpress.net/bien-dong-diem-chuan-dai-hoc-bach-khoa-ha-noi-ba-nam-qua-4914544.html) - 14:31 15/07/2025
+- 🌈 [Điểm chuẩn đại học 2025 có thể giảm 2-3 điểm](https://vnexpress.net/du-doan-diem-chuan-dai-hoc-2025-chi-tiet-4914597.html) - 14:00 15/07/2025
+- 🎊 [Phổ điểm Toán, Tiếng Anh thi tốt nghiệp &#39;đẹp bất ngờ&#39;](https://vnexpress.net/pho-diem-toan-tieng-anh-thi-tot-nghiep-dep-bat-ngo-4914700.html) - 12:24 15/07/2025
+- ⚗️ [Trường Đại học Cần Thơ lên đại học](https://vnexpress.net/truong-dai-hoc-can-tho-len-dai-hoc-4914573.html) - 12:16 15/07/2025
+- 🌁 [Điểm trung bình Toán, Hóa thi tốt nghiệp THPT giảm mạnh nhất](https://vnexpress.net/bien-dong-diem-thi-tot-nghiep-thpt-2025-cac-mon-4914416.html) - 12:03 15/07/2025
+- 🦏 [Điểm sàn Đại học Công nghệ TP HCM giảm đến 4 điểm](https://vnexpress.net/diem-san-cong-thuc-quy-doi-diem-chuan-dai-hoc-cong-nghe-tp-hcm-2025-4914708.html) - 11:54 15/07/2025
+- 👍 [Ninh Bình dẫn đầu điểm Toán thi tốt nghiệp THPT 2025](https://vnexpress.net/ninh-binh-dan-dau-diem-toan-thi-tot-nghiep-thpt-2025-4914432.html) - 09:56 15/07/2025
+- 🌈 [Phổ điểm môn Giáo dục kinh tế pháp luật thi tốt nghiệp THPT 2025](https://vnexpress.net/pho-diem-mon-giao-duc-kinh-te-phap-luat-thi-tot-nghiep-thpt-2025-4914607.html) - 09:46 15/07/2025
+- 🕴 [Hơn 930 thí sinh bị điểm liệt, môn Toán đông nhất](https://vnexpress.net/hon-930-thi-sinh-bi-diem-liet-mon-toan-dong-nhat-4914655.html) - 09:42 15/07/2025
+- 🧰 [Top 10 tỉnh, thành có điểm trung bình môn Văn thi tốt nghiệp cao nhất](https://vnexpress.net/top-10-tinh-thanh-co-diem-trung-binh-mon-van-thi-tot-nghiep-cao-nhat-4914621.html) - 09:22 15/07/2025<!-- vnexpress-giao-duc:END -->
