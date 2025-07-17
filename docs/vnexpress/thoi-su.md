@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Lộ trình chuyển đổi 400.000 xe xăng sang điện của TP HCM](https://vnexpress.net/lo-trinh-chuyen-doi-400-000-xe-xang-sang-dien-cua-tp-hcm-4915223.html) - 23:00 16/07/2025
+- 🦒 [Đề xuất lộ trình chuyển đổi 400.000 xe xăng sang điện của TP HCM](https://vnexpress.net/de-xuat-lo-trinh-chuyen-doi-400-000-xe-xang-sang-dien-cua-tp-hcm-4915223.html) - 23:00 16/07/2025
 - 🤓 [Di dời nhà máy ở khu công nghiệp lâu đời nhất Việt Nam](https://vnexpress.net/di-doi-nha-may-o-khu-cong-nghiep-lau-doi-nhat-viet-nam-4915188.html) - 22:00 16/07/2025
 - ⚗️ [Sân bay Liên Khương đóng cửa để nâng cấp vào tháng 3/2026](https://vnexpress.net/san-bay-lien-khuong-dong-cua-de-nang-cap-vao-thang-3-2026-4915222.html) - 17:00 16/07/2025
 - 🌊 [Ôtô tông loạt xe trên phố Hà Nội, một người tử vong](https://vnexpress.net/oto-tong-loat-xe-tren-pho-ha-noi-mot-nguoi-tu-vong-4915228.html) - 15:15 16/07/2025
