@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Liên đoàn bóng đá Trung Á phản bác lý do bỏ giải của Malaysia](https://dantri.com.vn/the-thao/lien-doan-bong-da-trung-a-phan-bac-ly-do-bo-giai-cua-malaysia-20250717194132995.htm) - 12:51 17/07/2025
-- 💯 [Báo Malaysia bình luận khi đội nhà bỏ giải vì không có cầu thủ nhập tịch](https://dantri.com.vn/the-thao/bao-malaysia-binh-luan-khi-doi-nha-bo-giai-vi-khong-co-cau-thu-nhap-tich-20250717194536894.htm) - 12:45 17/07/2025
+- 🎡 [Báo Malaysia bình luận khi đội nhà bỏ giải vì không có cầu thủ nhập tịch](https://dantri.com.vn/the-thao/bao-malaysia-binh-luan-khi-doi-nha-bo-giai-vi-khong-co-cau-thu-nhap-tich-20250717194536894.htm) - 13:10 17/07/2025
+- 💯 [Liên đoàn bóng đá Trung Á phản bác lý do bỏ giải của Malaysia](https://dantri.com.vn/the-thao/lien-doan-bong-da-trung-a-phan-bac-ly-do-bo-giai-cua-malaysia-20250717194132995.htm) - 12:51 17/07/2025
 - ⛽️ [U23 Việt Nam nhận tin dữ trước thềm giải U23 Đông Nam Á](https://dantri.com.vn/the-thao/u23-viet-nam-nhan-tin-du-truoc-them-giai-u23-dong-nam-a-20250717174710774.htm) - 11:27 17/07/2025
 - 💃 [Xác định đối thủ của Indonesia ở vòng loại thứ 4 World Cup](https://dantri.com.vn/the-thao/xac-dinh-doi-thu-cua-indonesia-o-vong-loai-thu-4-world-cup-20250717172711362.htm) - 10:27 17/07/2025
 - 🌈 [Báo Đông Nam Á phản ứng khi đội tuyển Malaysia bỏ giải quốc tế](https://dantri.com.vn/the-thao/bao-dong-nam-a-phan-ung-khi-doi-tuyen-malaysia-bo-giai-quoc-te-20250717124447413.htm) - 10:05 17/07/2025
