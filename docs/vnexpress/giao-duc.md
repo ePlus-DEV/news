@@ -7,7 +7,7 @@ sidebar_position: 7
 - 🤓 [Hai trường công lập mới tuyển 900 học sinh trượt lớp 10](https://vnexpress.net/hai-truong-cong-lap-moi-tuyen-900-hoc-sinh-truot-lop-10-4916083.html) - 10:07 18/07/2025
 - 🦆 [8 trường ở Hà Nội hạ điểm chuẩn lớp 10, hai trường tuyển &#39;tràn tuyến&#39;](https://vnexpress.net/8-truong-o-ha-noi-ha-diem-chuan-lop-10-hai-truong-tuyen-tran-tuyen-4915360.html) - 09:33 18/07/2025
 - 🦩 [Đại học Quốc gia Hà Nội công bố điểm sàn là 19](https://vnexpress.net/diem-san-dai-hoc-quoc-gia-ha-noi-nam-2025-4916046.html) - 09:08 18/07/2025
-- 🌮 [GS Ngô Bảo Châu: Toán học Việt Nam cần hướng tới giải thưởng Fields](https://vnexpress.net/gs-ngo-bao-chau-toan-hoc-viet-nam-can-huong-toi-giai-thuong-fields-4915795.html) - 08:03 18/07/2025
+- 🌮 [Bộ Giáo dục: Đưa Toán học Việt Nam vào top đầu thế giới](https://vnexpress.net/bo-giao-duc-dua-toan-hoc-viet-nam-vao-top-dau-the-gioi-4915795.html) - 08:03 18/07/2025
 - 🔭 [Điểm chuẩn Đại học Ngoại ngữ dự kiến giảm 1,5-3 điểm](https://vnexpress.net/diem-chuan-dai-hoc-ngoai-ngu-du-kien-giam-1-5-3-diem-4915787.html) - 04:56 18/07/2025
 - 💡 [Điểm sàn trường Đại học Công nghệ từ 22 đến 24](https://vnexpress.net/diem-san-truong-dai-hoc-cong-nghe-tu-22-den-24-4915774.html) - 03:56 18/07/2025
 - 🥰 [Trở thành kỹ sư Google sau nửa năm phỏng vấn và ghép đội](https://vnexpress.net/tro-thanh-ky-su-google-sau-nua-nam-phong-van-va-ghep-doi-4913879.html) - 03:00 18/07/2025
