@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Bộ Giáo dục lần đầu quy định chi tiết nội dung dạy ở trường chuyên](https://vnexpress.net/bo-giao-duc-lan-dau-quy-dinh-chi-tiet-noi-dung-day-o-truong-chuyen-4916157.html) - 17:04 18/07/2025
+- 🤓 [Bộ Giáo dục dự kiến quy định chi tiết nội dung 15 môn chuyên](https://vnexpress.net/bo-giao-duc-du-kien-quy-dinh-chi-tiet-noi-dung-15-mon-chuyen-4916157.html) - 17:04 18/07/2025
 - 🦆 [Loạt đại học phía Nam lấy điểm sàn từ 15](https://vnexpress.net/loat-dai-hoc-phia-nam-lay-diem-san-tu-15-4915826.html) - 13:04 18/07/2025
 - 🦩 [Nữ sinh đỗ học bổng Đại học Bắc Kinh và Thanh Hoa](https://vnexpress.net/nu-sinh-do-hoc-bong-dai-hoc-bac-kinh-va-thanh-hoa-4915226.html) - 13:00 18/07/2025
 - 🌮 [Tỉnh, thành nào có nhiều trường học nhất sau sáp nhập?](https://vnexpress.net/tinh-thanh-nao-co-nhieu-truong-hoc-nhat-sau-sap-nhap-4915941.html) - 12:00 18/07/2025
