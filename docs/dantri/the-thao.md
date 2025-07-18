@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Dàn sao của PSG tăng giá nhanh chóng mặt, vượt mốc 1 tỷ euro](https://dantri.com.vn/the-thao/dan-sao-cua-psg-tang-gia-nhanh-chong-mat-vuot-moc-1-ty-euro-20250718163205828.htm) - 09:32 18/07/2025
+- 🎡 [Dàn sao của PSG tăng giá nhanh chóng mặt, vượt mốc 1 tỷ euro](https://dantri.com.vn/the-thao/dan-sao-cua-psg-tang-gia-nhanh-chong-mat-vuot-moc-1-ty-euro-20250718163205828.htm) - 11:32 18/07/2025
 - 💯 [Chuyên gia nói thẳng về việc Malaysia bỏ giải vì mất dàn sao nhập tịch](https://dantri.com.vn/the-thao/chuyen-gia-noi-thang-ve-viec-malaysia-bo-giai-vi-mat-dan-sao-nhap-tich-20250718133439712.htm) - 06:34 18/07/2025
 - ⛽️ [Tottenham bất ngờ ra giá bán Son Heung Min](https://dantri.com.vn/the-thao/tottenham-bat-ngo-ra-gia-ban-son-heung-min-20250718095330488.htm) - 03:15 18/07/2025
 - 💃 [Cổ động viên Man Utd bị bắt nhiều nhất ở mùa giải 2024-25](https://dantri.com.vn/the-thao/co-dong-vien-man-utd-bi-bat-nhieu-nhat-o-mua-giai-2024-25-20250718082312270.htm) - 03:10 18/07/2025
