@@ -9,7 +9,7 @@ sidebar_position: 1
 - ⚗️ [Nguyên nhân dự án đường ở Cần Thơ bị tính dư hơn 3.000 tỷ đồng](https://vnexpress.net/nguyen-nhan-du-an-duong-o-can-tho-bi-tinh-du-hon-3-000-ty-dong-4915449.html) - 17:00 17/07/2025
 - 🌊 [Thủ tướng: Không để sai chồng sai khi gỡ vướng dự án tồn đọng](https://vnexpress.net/thu-tuong-khong-de-sai-chong-sai-khi-go-vuong-du-an-ton-dong-4915695.html) - 16:00 17/07/2025
 - 🎓 [Thu mua 72 con heo dịch bệnh bán cho cơ sở &#39;làm lạp xưởng&#39;](https://vnexpress.net/thu-mua-72-con-heo-dich-benh-ban-cho-co-so-lam-lap-xuong-4915682.html) - 14:34 17/07/2025
-- 🔥 [Ca nô chở 26 người lật trên biển](https://vnexpress.net/ca-no-cho-26-nguoi-lat-tren-bien-4915671.html) - 14:00 17/07/2025
+- 🔥 [Canô chở 26 người lật trên biển](https://vnexpress.net/cano-cho-26-nguoi-lat-tren-bien-4915671.html) - 14:00 17/07/2025
 - 🦏 [Việt Nam có thể học hỏi gì từ các nước về xây trạm sạc xe điện?](https://vnexpress.net/viet-nam-co-the-hoc-hoi-gi-tu-cac-nuoc-ve-xay-tram-sac-xe-dien-4915370.html) - 10:25 17/07/2025
 - 👺 [61 khối diễu binh Quân đội, Công an tổng hợp luyện](https://vnexpress.net/61-khoi-dieu-binh-quan-doi-cong-an-tong-hop-luyen-4915493.html) - 09:57 17/07/2025
 - 🧑‍🏫 [Tài xế &#39;chôn chân&#39; nhiều giờ chờ vào cao tốc TP HCM - Long Thành](https://vnexpress.net/tai-xe-chon-chan-nhieu-gio-cho-vao-cao-toc-tp-hcm-long-thanh-4915492.html) - 08:27 17/07/2025
