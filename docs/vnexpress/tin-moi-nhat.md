@@ -4,52 +4,50 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [HLV Hà Nội FC: ‘Nhiều cầu thủ Việt Nam quá thỏa mãn với hiện tại’](https://vnexpress.net/hlv-ha-noi-fc-nhieu-cau-thu-viet-nam-qua-thoa-man-voi-hien-tai-4915957.html) - 05:31 18/07/2025
-- 🐎 [Toyota Land Cruiser bị lấy trộm nhiều nhất Nhật Bản](https://vnexpress.net/toyota-land-cruiser-bi-lay-trom-nhieu-nhat-nhat-ban-4915759.html) - 05:05 18/07/2025
-- 🦍 [Greg Norman - &#39;cá mập trắng&#39; làng golf giúp quảng bá du lịch Việt](https://vnexpress.net/greg-norman-ca-map-trang-lang-golf-giup-quang-ba-du-lich-viet-4915811.html) - 05:04 18/07/2025
-- 🏊 [Nọc độc ong vò vẽ khiến người phụ nữ suy đa tạng](https://vnexpress.net/noc-doc-ong-vo-ve-khien-nguoi-phu-nu-suy-da-tang-4915853.html) - 05:01 18/07/2025
-- 🎊 [6 món người ung thư gan nên ăn hoặc kiêng](https://vnexpress.net/6-mon-nguoi-ung-thu-gan-nen-an-hoac-kieng-4915833.html) - 05:00 18/07/2025
-- 🎃 [AIA Việt Nam giới thiệu bộ đôi sản phẩm mới](https://vnexpress.net/aia-viet-nam-gioi-thieu-bo-doi-san-pham-moi-4915282.html) - 05:00 18/07/2025
-- 🧰 [Mỹ yêu cầu nhà ngoại giao không bình luận về bầu cử nước ngoài](https://vnexpress.net/my-yeu-cau-nha-ngoai-giao-khong-binh-luan-ve-bau-cu-nuoc-ngoai-4915809.html) - 04:58 18/07/2025
-- 🔭 [Bị bắt vì phát tán video đánh nhau lên mạng](https://vnexpress.net/bi-bat-vi-phat-tan-video-danh-nhau-len-mang-4915932.html) - 04:56 18/07/2025
-- 🫶 [Điểm chuẩn Đại học Ngoại ngữ dự kiến giảm 1,5-3 điểm](https://vnexpress.net/diem-chuan-dai-hoc-ngoai-ngu-du-kien-giam-1-5-3-diem-4915787.html) - 04:56 18/07/2025
-- 🪜 [Lê Thiết Cương một đời đi tìm cái đẹp](https://vnexpress.net/le-thiet-cuong-mot-doi-di-tim-cai-dep-4915632.html) - 04:49 18/07/2025
-- 👨‍🏫 [Hai người đào tẩu Triều Tiên tham gia nhóm nhạc ở Hàn Quốc](https://vnexpress.net/hai-nguoi-dao-tau-trieu-tien-tham-gia-nhom-nhac-o-han-quoc-4915900.html) - 04:45 18/07/2025
-- 🎊 [Bốn cung hoàng đạo tài chính dồi dào nhất tháng 7](https://vnexpress.net/van-may-12-cung-hoang-dao-van-may-hom-nay-van-may-ngay-18-7-bon-cung-hoang-dao-tai-chinh-doi-dao-nhat-thang-7-4915919.html) - 04:43 18/07/2025
-- 🎊 [Nam sinh 19 tuổi sát hại hàng xóm U60 vì không được &#39;yêu&#39;](https://vnexpress.net/nam-sinh-19-tuoi-sat-hai-hang-xom-u60-vi-khong-duoc-yeu-4915878.html) - 04:40 18/07/2025
-- 😺 [Nỗi nơm nớp của người lao động chui ở Đài Loan](https://vnexpress.net/noi-nom-nop-cua-nguoi-lao-dong-chui-o-dai-loan-4912622.html) - 04:39 18/07/2025
-- 🐘 [Mỹ &#39;hoãn chuyển Patriot&#39; cho Thụy Sĩ để giúp các nước viện trợ Ukraine](https://vnexpress.net/my-hoan-chuyen-patriot-cho-thuy-si-de-giup-cac-nuoc-vien-tro-ukraine-4915810.html) - 04:37 18/07/2025
-- 🌁 [TP HCM hai năm liên tiếp không có căn hộ giá dưới 40 triệu đồng mỗi m2](https://vnexpress.net/tp-hcm-hai-nam-lien-tiep-khong-co-can-ho-gia-duoi-40-trieu-dong-moi-m2-4914969.html) - 04:37 18/07/2025
-- 🐲 [Mất ôtô khi đi rửa xe](https://vnexpress.net/mat-oto-khi-di-rua-xe-4915914.html) - 04:32 18/07/2025
-- 🤓 [Mạng lưới &#39;sạc mọi nơi&#39; cho xe máy điện ở Trung Quốc](https://vnexpress.net/mang-luoi-sac-moi-noi-cho-xe-may-dien-o-trung-quoc-4915824.html) - 04:32 18/07/2025
-- 💪 [Những dòng sông ngắn nhất thế giới](https://vnexpress.net/nhung-dong-song-ngan-nhat-the-gioi-4914318.html) - 04:31 18/07/2025
-- 🎓 [Tử khí bao trùm thành phố miền nam Syria](https://vnexpress.net/tu-khi-bao-trum-thanh-pho-mien-nam-syria-4915837.html) - 04:23 18/07/2025
-- 🫣 [Cô gái lừa gần 18 tỷ đồng bằng chiêu góp vốn mua đất](https://vnexpress.net/co-gai-lua-gan-18-ty-dong-bang-chieu-gop-von-mua-dat-4915909.html) - 04:18 18/07/2025
-- 🧑‍💻 [Đề xuất đổi tên 17 bệnh viện TP HCM sau sáp nhập](https://vnexpress.net/de-xuat-doi-ten-17-benh-vien-tp-hcm-sau-sap-nhap-4915670.html) - 04:17 18/07/2025
-- 🐲 [Israel tuyên bố sẽ quét sạch quân đội Syria khỏi phía nam Damascus](https://vnexpress.net/israel-tuyen-bo-se-quet-sach-quan-doi-syria-khoi-phia-nam-damascus-4915785.html) - 04:17 18/07/2025
-- 🌝 [Sàn giao dịch carbon dự kiến vận hành thử nghiệm vào cuối 2025](https://vnexpress.net/san-giao-dich-carbon-du-kien-van-hanh-thu-nghiem-vao-cuoi-2025-4915882.html) - 04:17 18/07/2025
-- 😺 [Tom Cruise liên tục vướng tin hẹn hò &#39;Bond girl&#39; Ana de Armas](https://vnexpress.net/tom-cruise-lien-tuc-vuong-tin-hen-ho-bond-girl-ana-de-armas-4915782.html) - 04:15 18/07/2025
-- 🐎 [Giải mật thể thao: Chuyện về đội tuyển duy nhất không được FIFA xếp hạng](https://vnexpress.net/giai-mat-the-thao-chuyen-ve-doi-tuyen-duy-nhat-khong-duoc-fifa-xep-hang-4915908.html) - 04:08 18/07/2025
-- 🎡 [Bão Wipha sắp vào Biển Đông](https://vnexpress.net/bao-wipha-sap-vao-bien-dong-4915753.html) - 04:04 18/07/2025
-- 👨‍🏫 [Chứng khoán không giữ được mốc 1.500](https://vnexpress.net/chung-khoan-hom-nay-18-7-vn-index-vuot-1-500-diem-4915903.html) - 04:02 18/07/2025
-- 🦆 [&#39;Chuyển 400.000 xe xăng sang điện là cú hích cho hơn 8 triệu xe sạch ở TP HCM&#39;](https://vnexpress.net/chuyen-400-000-xe-xang-sang-dien-la-cu-hich-cho-hon-8-trieu-xe-sach-o-tp-hcm-4915822.html) - 04:00 18/07/2025
-- 🚦 [Khó giảm cân sau sinh](https://vnexpress.net/kho-giam-can-sau-sinh-4915821.html) - 04:00 18/07/2025
-- 💫 [Trẻ nổi hạch cổ sau viêm họng có nguy hiểm?](https://vnexpress.net/tre-noi-hach-co-sau-viem-hong-co-nguy-hiem-4915812.html) - 04:00 18/07/2025
-- 🎉 [Thận và niệu quản người đàn ông nhiều sỏi](https://vnexpress.net/than-va-nieu-quan-nguoi-dan-ong-nhieu-soi-4915794.html) - 04:00 18/07/2025
-- 🌋 [Lựa chọn Kia Carnival máy dầu hay hybrid?](https://vnexpress.net/lua-chon-kia-carnival-may-dau-hay-hybrid-4915581.html) - 04:00 18/07/2025
-- 🤖 [Danh thần nào phò tá 3 đời vua Trần, thuộc dòng họ hiếm ở Việt Nam?](https://vnexpress.net/crossword-giai-o-chu-o-chu-dong-ho-nao-chua-den-1-dan-so-co-danh-than-pho-ta-3-doi-vua-tran-4913947.html) - 03:56 18/07/2025
-- 🦏 [Điểm sàn trường Đại học Công nghệ từ 22 đến 24](https://vnexpress.net/diem-san-truong-dai-hoc-cong-nghe-tu-22-den-24-4915774.html) - 03:56 18/07/2025
-- 🦩 [Xe container lao xuống vực 70 m, tài xế mắc kẹt gần 9 giờ](https://vnexpress.net/xe-container-lao-xuong-vuc-70-m-tai-xe-mac-ket-gan-9-gio-4915802.html) - 03:52 18/07/2025
-- 👺 [Em sẽ là bạn đồng hành dịu dàng và thấu hiểu](https://vnexpress.net/em-se-la-ban-dong-hanh-diu-dang-va-thau-hieu-4914853.html) - 03:49 18/07/2025
-- 🧑‍🏫 [Kyrgios: &#39;Tôi khinh thường Nadal&#39;](https://vnexpress.net/kyrgios-toi-khinh-thuong-nadal-4915792.html) - 03:49 18/07/2025
-- 😎 [Nguồn cung Bitcoin đang xuống thấp](https://vnexpress.net/nguon-cung-bitcoin-dang-xuong-thap-4915862.html) - 03:48 18/07/2025
-- 🪄 [Sẵn sàng đón nhận mối quan hệ tử tế nếu đủ chân thành](https://vnexpress.net/san-sang-don-nhan-moi-quan-he-tu-te-neu-du-chan-thanh-4914854.html) - 03:47 18/07/2025
-- 🏊 [Phim của Nolan &#39;cháy vé&#39; trước một năm phát hành](https://vnexpress.net/phim-cua-nolan-chay-ve-truoc-mot-nam-phat-hanh-4915768.html) - 03:45 18/07/2025
-- 💃 [Bộ quy tắc vàng giúp thay đổi cuộc sống](https://vnexpress.net/bo-quy-tac-vang-giup-thay-doi-cuoc-song-4915875.html) - 03:38 18/07/2025
-- 🦆 [&#39;Nhân sự Trung ương khóa 14 phải có tư duy đổi mới, hành động quyết liệt&#39;](https://vnexpress.net/nhan-su-trung-uong-khoa-14-phai-co-tu-duy-doi-moi-hanh-dong-quyet-liet-4915817.html) - 03:31 18/07/2025
-- 🎊 [&#39;Nhiều doanh nghiệp trả lương cao gấp đôi cho nhân sự biết tiếng Trung&#39;](https://vnexpress.net/nhieu-doanh-nghiep-tra-luong-cao-gap-doi-cho-nhan-su-biet-tieng-trung-4915872.html) - 03:30 18/07/2025
-- 👺 [Weibo cấm 81 tài khoản sau vụ Hoàng Dương Điền Điềm](https://vnexpress.net/weibo-cam-81-tai-khoan-sau-vu-hoang-duong-dien-diem-4915830.html) - 03:29 18/07/2025
-- 🎡 [Tối hậu thư của ông Trump có thể trao cơ hội cho Nga](https://vnexpress.net/toi-hau-thu-cua-ong-trump-co-the-trao-co-hoi-cho-nga-4915330.html) - 03:26 18/07/2025
-- 👍 [Đề xuất token hóa ETF, có thể mua bằng Bitcoin](https://vnexpress.net/de-xuat-token-hoa-etf-co-the-mua-bang-bitcoin-4915365.html) - 03:18 18/07/2025
-- 🐎 [​Triệu phú Australia trở thành tân đại sứ du lịch Việt Nam](https://vnexpress.net/trieu-phu-australia-tro-thanh-tan-dai-su-du-lich-viet-nam-4915807.html) - 03:18 18/07/2025
-- 🏊 [Lính Nga dùng tay không vô hiệu hóa drone Ukraine](https://vnexpress.net/linh-nga-dung-tay-khong-vo-hieu-hoa-drone-ukraine-4915834.html) - 03:18 18/07/2025<!-- vnexpress-tin-moi-nhat:END -->
+- 🎬 [Ông Trần Đức Thắng được giao quyền Bộ trưởng Nông nghiệp và Môi trường](https://vnexpress.net/ong-tran-duc-thang-duoc-giao-quyen-bo-truong-nong-nghiep-va-moi-truong-4915401.html) - 09:40 18/07/2025
+- 🐎 [Sức nóng ngày phát bib VnExpress Marathon Đà Nẵng 2025](https://vnexpress.net/suc-nong-ngay-phat-bib-vnexpress-marathon-da-nang-2025-4915970.html) - 09:35 18/07/2025
+- 🦍 [8 trường ở Hà Nội hạ điểm chuẩn lớp 10, hai trường tuyển &#39;tràn tuyến&#39;](https://vnexpress.net/8-truong-o-ha-noi-ha-diem-chuan-lop-10-hai-truong-tuyen-tran-tuyen-4915360.html) - 09:33 18/07/2025
+- 🏊 [Đề xuất lộ trình chuyển đổi từ thuế khoán sang kê khai với hộ kinh doanh](https://vnexpress.net/de-xuat-lo-trinh-chuyen-doi-tu-thue-khoan-sang-ke-khai-voi-ho-kinh-doanh-4915930.html) - 09:31 18/07/2025
+- 🎊 [Khám phá không gian vui chơi được thiết kế từ Trẻ Em Việt](https://vnexpress.net/kham-pha-khong-gian-vui-choi-duoc-thiet-ke-tu-tre-em-viet-4916023.html) - 09:30 18/07/2025
+- 🎃 [Vô sinh bởi đa dị tật cơ quan sinh sản](https://vnexpress.net/vo-sinh-boi-da-di-tat-co-quan-sinh-san-4916016.html) - 09:30 18/07/2025
+- 🧰 [Ba giai đoạn bệnh vảy nến](https://vnexpress.net/ba-giai-doan-benh-vay-nen-4915368.html) - 09:30 18/07/2025
+- 🔭 [Đề xuất tăng lương tối thiểu vùng cao nhất 350.000 đồng](https://vnexpress.net/de-xuat-tang-luong-toi-thieu-vung-cao-nhat-350-000-dong-4915938.html) - 09:29 18/07/2025
+- 🫶 [Quản trị minh bạch giúp Nam Long nhận giải thưởng bền vững](https://vnexpress.net/quan-tri-minh-bach-giup-nam-long-nhan-giai-thuong-ben-vung-4916045.html) - 09:15 18/07/2025
+- 🪜 [Đại học Quốc gia Hà Nội công bố điểm sàn là 19](https://vnexpress.net/diem-san-dai-hoc-quoc-gia-ha-noi-nam-2025-4916046.html) - 09:08 18/07/2025
+- 👨‍🏫 [EU nhất trí áp gói trừng phạt thứ 18 đối với Nga](https://vnexpress.net/eu-nhat-tri-ap-goi-trung-phat-thu-18-doi-voi-nga-4915966.html) - 09:04 18/07/2025
+- 🎊 [Lý Liên Kiệt: &#39;Trân trọng mỗi ngày được sống&#39;](https://vnexpress.net/ly-lien-kiet-tran-trong-moi-ngay-duoc-song-4915986.html) - 09:02 18/07/2025
+- 🎊 [Dự án The Aspira bước vào giai đoạn phân phối](https://vnexpress.net/du-an-the-aspira-buoc-vao-giai-doan-phan-phoi-4916032.html) - 09:00 18/07/2025
+- 😺 [Chủ tịch Yến Helen: &#39;Tôi muốn thế giới biết tới yến Việt Nam&#39;](https://vnexpress.net/chu-tich-yen-helen-toi-muon-the-gioi-biet-toi-yen-viet-nam-4915997.html) - 09:00 18/07/2025
+- 🐘 [TikTok Beauty Fest đưa trải nghiệm người dùng thành chiến lược thương hiệu](https://vnexpress.net/tiktok-beauty-fest-dua-trai-nghiem-nguoi-dung-thanh-chien-luoc-thuong-hieu-4915870.html) - 09:00 18/07/2025
+- 🌁 [Vì sao Pacquiao tái xuất quyền Anh ở tuổi 46?](https://vnexpress.net/vi-sao-pacquiao-tai-xuat-quyen-anh-o-tuoi-46-4915861.html) - 08:54 18/07/2025
+- 🐲 [Tên trộm xâm hại tình dục bé gái 9 tuổi](https://vnexpress.net/ten-trom-xam-hai-tinh-duc-be-gai-9-tuoi-4915993.html) - 08:54 18/07/2025
+- 🤓 [Cổ phiếu FPT Telecom tăng mạnh sau khi Bộ Công an nhận chuyển giao vốn](https://vnexpress.net/co-phieu-fpt-telecom-tang-manh-sau-khi-bo-cong-an-nhan-chuyen-giao-von-4916025.html) - 08:50 18/07/2025
+- 💪 [&#39;Thải độc&#39; bằng chanh muối, người phụ nữ hoại tử ruột](https://vnexpress.net/thai-doc-bang-chanh-muoi-nguoi-phu-nu-hoai-tu-ruot-4916030.html) - 08:50 18/07/2025
+- 🎓 [Triều Tiên ngừng đón khách nước ngoài tới khu nghỉ dưỡng hạng sang](https://vnexpress.net/trieu-tien-ngung-don-khach-nuoc-ngoai-toi-khu-nghi-duong-hang-sang-4916011.html) - 08:50 18/07/2025
+- 🫣 [Cherry Mỹ về Việt Nam giá rẻ kỷ lục](https://vnexpress.net/cherry-my-ve-viet-nam-gia-re-ky-luc-4915505.html) - 08:43 18/07/2025
+- 🧑‍💻 [5 lần tái phát ung thư gan do nghiện rượu](https://vnexpress.net/5-lan-tai-phat-ung-thu-gan-do-nghien-ruou-4916001.html) - 08:30 18/07/2025
+- 🐲 [Mâm cơm dân dã kiểu Bắc Bộ trong ngày hè](https://vnexpress.net/mam-com-dan-da-kieu-bac-bo-trong-ngay-he-4916021.html) - 08:29 18/07/2025
+- 🌝 [&#39;Nghệ sĩ&#39; robot vẽ Vua Charles III](https://vnexpress.net/nghe-si-robot-ve-vua-charles-iii-4915951.html) - 08:28 18/07/2025
+- 😺 [Golfer Thái Lan và cảm hứng thần thánh từ Phật giáo](https://vnexpress.net/golfer-thai-lan-va-cam-hung-than-thanh-tu-phat-giao-4916029.html) - 08:24 18/07/2025
+- 🐎 [Chiếc cốc nào nhận cà phê đầu tiên?](https://vnexpress.net/cau-do-iq-thu-tai-suy-luan-chiec-coc-nao-nhan-ca-phe-nong-dau-tien-4915481.html) - 08:20 18/07/2025
+- 🎡 [Chủ công ty địa ốc khai dùng &#39;chim mồi&#39; dụ hàng trăm người mua dự án dỏm](https://vnexpress.net/chu-cong-ty-dia-oc-khai-dung-chim-moi-du-hang-tram-nguoi-mua-du-an-dom-4915963.html) - 08:19 18/07/2025
+- 👨‍🏫 [Subaru ra mắt crossover thuần điện Uncharted](https://vnexpress.net/subaru-ra-mat-crossover-thuan-dien-uncharted-4915871.html) - 08:13 18/07/2025
+- 🦆 [Ông Thaksin đề xuất Thái Lan triển khai chương trình &#39;thị thực vàng&#39; 500 tỷ USD](https://vnexpress.net/ong-thaksin-de-xuat-thai-lan-trien-khai-chuong-trinh-thi-thuc-vang-500-ty-usd-4915913.html) - 08:04 18/07/2025
+- 🚦 [GS Ngô Bảo Châu: Toán học Việt Nam cần hướng tới giải thưởng Fields](https://vnexpress.net/gs-ngo-bao-chau-toan-hoc-viet-nam-can-huong-toi-giai-thuong-fields-4915795.html) - 08:03 18/07/2025
+- 💫 [Truyền hình - Internet SCTV phát sóng trọn vẹn giải U23 Đông Nam Á 2025](https://vnexpress.net/truyen-hinh-internet-sctv-phat-song-tron-ven-giai-u23-dong-nam-a-2025-4915840.html) - 08:00 18/07/2025
+- 🎉 [Tôi khó chịu mỗi khi bạn trai qua nhà vợ cũ để gặp con](https://vnexpress.net/dan-ong-ly-di-con-rieng-ban-trai-toi-kho-chiu-moi-khi-ban-trai-qua-nha-vo-cu-de-gap-con-4915999.html) - 08:00 18/07/2025
+- 🌋 [Sắp diễn ra ngày hội công nghệ Blockchain và AI tại TP HCM](https://vnexpress.net/sap-dien-ra-ngay-hoi-cong-nghe-blockchain-va-ai-tai-tp-hcm-4915994.html) - 08:00 18/07/2025
+- 🤖 [Người trẻ thích thú trải nghiệm mua cà phê trên xe tại Highlands](https://vnexpress.net/nguoi-tre-thich-thu-trai-nghiem-mua-ca-phe-tren-xe-tai-highlands-4915991.html) - 08:00 18/07/2025
+- 🦏 [Gia Lai đề xuất hỗ trợ 6 triệu đồng cho cán bộ sau sáp nhập](https://vnexpress.net/gia-lai-de-xuat-ho-tro-6-trieu-dong-cho-can-bo-sau-sap-nhap-4915975.html) - 08:00 18/07/2025
+- 🦩 [Chi tiền triệu khám sức khỏe trước kết hôn](https://vnexpress.net/chi-tien-trieu-kham-suc-khoe-truoc-ket-hon-4915968.html) - 08:00 18/07/2025
+- 👺 [7 trái cây giúp giảm lão hóa](https://vnexpress.net/7-trai-cay-giup-giam-lao-hoa-4915949.html) - 08:00 18/07/2025
+- 🧑‍🏫 [Người tiêu dùng chuyển dịch nhu cầu mua điều hòa](https://vnexpress.net/nguoi-tieu-dung-chuyen-dich-nhu-cau-mua-dieu-hoa-4914477.html) - 08:00 18/07/2025
+- 😎 [Tên lửa Iskander, phi cơ Geran tập kích trận địa UAV Ukraine](https://vnexpress.net/ten-lua-iskander-phi-co-geran-tap-kich-tran-dia-uav-ukraine-4915940.html) - 07:59 18/07/2025
+- 🪄 [Mẹo lau sàn gỗ sạch được cả tháng](https://vnexpress.net/meo-lau-san-go-sach-duoc-ca-thang-4915723.html) - 07:35 18/07/2025
+- 🏊 [BHYT 100%, vì sao người bệnh vẫn phải đóng thêm tiền?](https://vnexpress.net/bhyt-100-vi-sao-nguoi-benh-van-phai-dong-them-tien-4915685.html) - 07:34 18/07/2025
+- 💃 [Chương trình tiếng Anh gắn với thực tiễn cho Gen Z](https://vnexpress.net/chuong-trinh-tieng-anh-gan-voi-thuc-tien-cho-gen-z-4915983.html) - 07:30 18/07/2025
+- 🦆 [Khối thoát vị đĩa đệm lấp kín ống sống người đàn ông](https://vnexpress.net/khoi-thoat-vi-dia-dem-lap-kin-ong-song-nguoi-dan-ong-4915976.html) - 07:30 18/07/2025
+- 🎊 [Hậu trường phim về cuộc chiến thành cổ Quảng Trị](https://vnexpress.net/hau-truong-phim-ve-cuoc-chien-thanh-co-quang-tri-4915780.html) - 07:28 18/07/2025
+- 👺 [Tại sao nên đặt tờ giấy vào cửa tủ lạnh khi trời nắng nóng?](https://vnexpress.net/tai-sao-nen-dat-to-giay-vao-cua-tu-lanh-khi-troi-nang-nong-4915854.html) - 07:26 18/07/2025
+- 🎡 [Hungary kêu gọi Mỹ - Nga gặp thượng đỉnh để chấm dứt chiến sự Ukraine](https://vnexpress.net/hungary-keu-goi-my-nga-gap-thuong-dinh-de-cham-dut-chien-su-ukraine-4915860.html) - 07:10 18/07/2025
+- 👍 [Xuất khẩu chuối, chanh dây kỳ vọng đạt tỷ USD](https://vnexpress.net/xuat-khau-chuoi-chanh-day-ky-vong-dat-ty-usd-4915946.html) - 07:09 18/07/2025<!-- vnexpress-tin-moi-nhat:END -->
