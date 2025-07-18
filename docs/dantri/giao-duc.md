@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-giao-duc:START -->
 - 🤡 [Trường ĐH Sư phạm Kỹ thuật TPHCM hợp tác EMG tổ chức thi chứng chỉ PEIC cho sinh viên](https://dantri.com.vn/giao-duc/truong-dh-su-pham-ky-thuat-tphcm-hop-tac-emg-to-chuc-thi-chung-chi-peic-cho-sinh-vien-20250718173226150.htm) - 11:00 18/07/2025
-- 🗽 [Đặt mục tiêu toán học vào nhóm dẫn đầu thế giới, hướng tới Fields, Nobel](https://dantri.com.vn/giao-duc/dat-muc-tieu-toan-hoc-vao-nhom-dan-dau-the-gioi-huong-toi-fields-nobel-20250718172209830.htm) - 10:28 18/07/2025
+- 🗽 [Tạo điều kiện chuyên gia Việt ở nước ngoài được làm việc ngay khi về nước](https://dantri.com.vn/giao-duc/tao-dieu-kien-chuyen-gia-viet-o-nuoc-ngoai-duoc-lam-viec-ngay-khi-ve-nuoc-20250718172209830.htm) - 10:28 18/07/2025
 - 🚦 [Điểm sàn xét tuyển của Đại học Quốc gia Hà Nội là 19](https://dantri.com.vn/giao-duc/diem-san-xet-tuyen-cua-dai-hoc-quoc-gia-ha-noi-la-19-20250718165240855.htm) - 09:54 18/07/2025
 - 🌋 [Hà Nội hạ điểm chuẩn lớp 10 công lập của 8 trường, có THPT Yên Hòa](https://dantri.com.vn/giao-duc/ha-noi-ha-diem-chuan-lop-10-cong-lap-cua-8-truong-co-thpt-yen-hoa-20250717111952726.htm) - 09:27 18/07/2025
 - 🏊 [Chàng trai Hà Nhì tốt nghiệp thủ khoa Học viện Hành chính và Quản trị công](https://dantri.com.vn/giao-duc/chang-trai-ha-nhi-tot-nghiep-thu-khoa-hoc-vien-hanh-chinh-va-quan-tri-cong-20250718144800856.htm) - 08:00 18/07/2025
