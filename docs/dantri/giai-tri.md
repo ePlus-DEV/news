@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- dantri-giai-tri:START -->
 - 🤩 [Mỹ nhân &quot;Chiếc lá cuốn bay&quot; bất ngờ được trao danh phận thời trang mới](https://dantri.com.vn/giai-tri/my-nhan-chiec-la-cuon-bay-bat-ngo-duoc-trao-danh-phan-thoi-trang-moi-20250717173124635.htm) - 00:23 18/07/2025
-- 🔥 [Hoa hậu Ngọc Hân nhớ tiếng chửi của Lê Thiết Cương, sốc trong lần đầu gặp](https://dantri.com.vn/giai-tri/hoa-hau-ngoc-han-nho-tieng-chui-cua-le-thiet-cuong-soc-trong-lan-dau-gap-20250718040748813.htm) - 00:14 18/07/2025
+- 🔥 [Hoa hậu Ngọc Hân kể kỷ niệm xúc động với họa sĩ Lê Thiết Cương](https://dantri.com.vn/giai-tri/hoa-hau-ngoc-han-ke-ky-niem-xuc-dong-voi-hoa-si-le-thiet-cuong-20250718040748813.htm) - 00:14 18/07/2025
 - 🚀 [Họa sĩ Lê Thiết Cương cá tính mạnh, trước cái chết cũng không sợ hãi](https://dantri.com.vn/giai-tri/hoa-si-le-thiet-cuong-ca-tinh-manh-truoc-cai-chet-cung-khong-so-hai-20250718014311404.htm) - 23:50 17/07/2025
 - 🔥 [Lý do Tạ Hoàng Long được đặc cách vào top 13 &quot;Tân binh toàn năng&quot;](https://dantri.com.vn/giai-tri/ly-do-ta-hoang-long-duoc-dac-cach-vao-top-13-tan-binh-toan-nang-20250717192454995.htm) - 14:53 17/07/2025
 - 🌈 [Họa sĩ Lê Thiết Cương qua đời ở tuổi 63](https://dantri.com.vn/giai-tri/hoa-si-le-thiet-cuong-qua-doi-o-tuoi-63-20250717202319992.htm) - 13:34 17/07/2025
