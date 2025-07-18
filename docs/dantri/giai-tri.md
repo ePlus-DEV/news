@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Hai tân hoa hậu trở về quê hương](https://dantri.com.vn/giai-tri/hai-tan-hoa-hau-tro-ve-que-huong-20250718133800065.htm) - 09:26 18/07/2025
+- 🤩 [Hoa hậu Trúc Linh sẽ dành thời gian quảng bá du lịch Đắk Lắk](https://dantri.com.vn/giai-tri/hoa-hau-truc-linh-se-danh-thoi-gian-quang-ba-du-lich-dak-lak-20250718133800065.htm) - 09:26 18/07/2025
 - 🔥 [Angelina Jolie lo lắng khi con gái Shiloh ra ở riêng với bạn gái tin đồn](https://dantri.com.vn/giai-tri/angelina-jolie-lo-lang-khi-con-gai-shiloh-ra-o-rieng-voi-ban-gai-tin-don-20250718154011891.htm) - 09:07 18/07/2025
 - 🚀 [Ồn ào về vụ cặp đôi bị &quot;bắt quả tang&quot; ngoại tình tại đêm nhạc của Coldplay](https://dantri.com.vn/giai-tri/on-ao-ve-vu-cap-doi-bi-bat-qua-tang-ngoai-tinh-tai-dem-nhac-cua-coldplay-20250718103639068.htm) - 05:05 18/07/2025
 - 🔥 [Thương hiệu nổi tiếng 8 năm đóng cửa: Nhà sáng lập thừa nhận 7 sai lầm](https://dantri.com.vn/giai-tri/thuong-hieu-noi-tieng-8-nam-dong-cua-nha-sang-lap-thua-nhan-7-sai-lam-20250718093005790.htm) - 04:58 18/07/2025
