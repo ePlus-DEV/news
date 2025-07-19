@@ -5,7 +5,7 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [Câu chuyện món quà 9 bắp ngô và nghĩa tình không thể đong đếm](https://dantri.com.vn/tam-long-nhan-ai/cau-chuyen-mon-qua-9-bap-ngo-va-nghia-tinh-khong-the-dong-dem-20250618181436960.htm) - 07:09 19/07/2025
-- 👨‍🏫 [Cầu Dân trí vững chãi sau lũ dữ, địa phương khẩn trương tu sửa lối vào](https://dantri.com.vn/tam-long-nhan-ai/cau-dan-tri-vung-chai-sau-lu-du-dia-phuong-khan-truong-tu-sua-loi-vao-20250719113011775.htm) - 06:57 19/07/2025
+- 👨‍🏫 [Cầu Dân trí ở Lào Cai vững chãi sau lũ dữ, chính quyền khẩn trương tu sửa lối vào](https://dantri.com.vn/tam-long-nhan-ai/cau-dan-tri-o-lao-cai-vung-chai-sau-lu-du-chinh-quyen-khan-truong-tu-sua-loi-vao-20250719113011775.htm) - 06:57 19/07/2025
 - 🌮 [Nga dồn quân đến mặt trận nóng nhất, Ukraine phản công dữ dội](https://dantri.com.vn/the-gioi/nga-don-quan-den-mat-tran-nong-nhat-ukraine-phan-cong-du-doi-20250719083832841.htm) - 06:28 19/07/2025
 - 🕯 [Chiến sự Ukraine 19/7: Kiev liên tiếp nhận tin xấu, gặp khó ở Pokrovsk](https://dantri.com.vn/the-gioi/chien-su-ukraine-197-kiev-lien-tiep-nhan-tin-xau-gap-kho-o-pokrovsk-20250719105302205.htm) - 04:57 19/07/2025
 - 🪜 [Một lao động tử vong tại Campuchia sau 3 tháng mất liên lạc](https://dantri.com.vn/lao-dong-viec-lam/mot-lao-dong-tu-vong-tai-campuchia-sau-3-thang-mat-lien-lac-20250719100529698.htm) - 04:46 19/07/2025
