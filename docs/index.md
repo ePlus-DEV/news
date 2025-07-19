@@ -52,7 +52,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤔 [Hành trình làm mới cuộc sống của những &#39;newbie&#39; chạy bộ](https://vnexpress.net/hanh-trinh-lam-moi-cuoc-song-cua-nhung-newbie-chay-bo-4916430.html) - 14:30 19/07/2025
 - 🌮 [Barca mượn được Rashford từ Man Utd](https://vnexpress.net/barca-muon-duoc-rashford-tu-man-utd-4916446.html) - 14:24 19/07/2025
 - 🦩 [Người Hà Nội cứu giúp nhau trong giông lốc](https://vnexpress.net/nguoi-ha-noi-cuu-giup-nhau-trong-giong-loc-4916443.html) - 14:19 19/07/2025
-- 📝 [Thông báo hội nghị lần thứ 12 Ban chấp hành Trung ương Đảng khóa 13](https://vnexpress.net/thong-bao-hoi-nghi-lan-thu-12-ban-chap-hanh-trung-uong-dang-khoa-13-4916415.html) - 14:00 19/07/2025
+- 📝 [Thông báo hội nghị lần thứ 12 Ban Chấp hành Trung ương Đảng khóa 13](https://vnexpress.net/thong-bao-hoi-nghi-lan-thu-12-ban-chap-hanh-trung-uong-dang-khoa-13-4916415.html) - 14:00 19/07/2025
 - 🕴 [Lo sợ &#39;xa thơm gần thối&#39; nếu mua nhà phố gần chị chồng](https://vnexpress.net/vay-tien-nha-chong-song-gan-nha-chong-lo-so-xa-thom-gan-thoi-khi-song-gan-nha-chi-chong-4916393.html) - 14:00 19/07/2025
 - 🐲 [Bão Wipha mạnh lên gần cấp 11, hướng vào Bắc Bộ](https://vnexpress.net/bao-wipha-manh-len-gan-cap-11-huong-vao-bac-bo-4916439.html) - 13:44 19/07/2025
 - 🌜 [Thủ khoa mồ côi, làm thuê để ăn học](https://vnexpress.net/thu-khoa-mo-coi-lam-thue-de-an-hoc-4916124.html) - 13:42 19/07/2025
