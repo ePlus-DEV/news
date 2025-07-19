@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Ông Nguyễn Xuân Phúc, Võ Văn Thưởng, Vương Đình Huệ bị cách tất cả chức vụ trong Đảng](https://vnexpress.net/ong-nguyen-xuan-phuc-vo-van-thuong-vuong-dinh-hue-bi-cach-tat-ca-chuc-vu-trong-dang-4915980.html) - 09:06 19/07/2025
+- 🦒 [Bài phát biểu của Tổng Bí thư Tô Lâm tại phiên bế mạc Hội nghị Trung ương 12 khóa 13](https://vnexpress.net/bai-phat-bieu-cua-tong-bi-thu-to-lam-tai-phien-be-mac-hoi-nghi-trung-uong-12-khoa-13-4915980.html) - 09:06 19/07/2025
 - 🤓 [&#39;Bộ Nông nghiệp và Môi trường không trực tiếp tham gia dự án dễ phát sinh sai phạm&#39;](https://vnexpress.net/bo-nong-nghiep-va-moi-truong-khong-truc-tiep-tham-gia-du-an-de-phat-sinh-sai-pham-4916348.html) - 08:55 19/07/2025
 - ⚗️ [Xây chuồng trại chờ đền bù dự án đường sắt tốc độ cao Bắc Nam](https://vnexpress.net/xay-chuong-trai-cho-den-bu-du-an-duong-sat-toc-do-cao-bac-nam-4915982.html) - 03:34 19/07/2025
 - 🌊 [Lũ miền Tây dự báo nhỏ](https://vnexpress.net/lu-mien-tay-du-bao-nho-4916200.html) - 03:30 19/07/2025
