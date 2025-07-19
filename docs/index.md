@@ -406,7 +406,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Chạy đua với thời gian&quot; cứu hộ vụ đắm tàu du lịch trên Vịnh Hạ Long](https://baochinhphu.vn/chay-dua-voi-thoi-gian-cuu-ho-vu-dam-tau-du-lich-tren-vinh-ha-long-10225071921391127.htm) - 21:44 19/07/2025
+- 💻 [Chạy đua với thời gian cứu hộ vụ đắm tàu du lịch trên Vịnh Hạ Long](https://baochinhphu.vn/chay-dua-voi-thoi-gian-cuu-ho-vu-dam-tau-du-lich-tren-vinh-ha-long-10225071921391127.htm) - 21:44 19/07/2025
 - 🌜 [Doanh nhân trẻ Quảng Ninh hỗ trợ thân nhân người bị nạn vụ đắm tàu du lịch](https://baochinhphu.vn/doanh-nhan-tre-quang-ninh-ho-tro-than-nhan-nguoi-bi-nan-vu-dam-tau-du-lich-102250719214155268.htm) - 21:41 19/07/2025
 - 🦆 [Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ ngày 19/7/2025 &lpar;2&rpar;](https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-19-7-2025-2-102250719203555789.htm) - 20:38 19/07/2025
 - 🌝 [Vụ lật tàu tại Quảng Ninh: Thủ tướng yêu cầu khẩn trương tìm kiếm cứu nạn, khắc phục hậu quả](https://baochinhphu.vn/vu-lat-tau-tai-quang-ninh-thu-tuong-yeu-cau-khan-truong-tim-kiem-cuu-nan-khac-phuc-hau-qua-102250719195623048.htm) - 19:52 19/07/2025
