@@ -8,7 +8,7 @@ sidebar_position: 1
 - 🤓 [Biến loài cá bị vứt bỏ thành đặc sản](https://vnexpress.net/bien-loai-ca-bi-vut-bo-thanh-dac-san-4916351.html) - 17:00 19/07/2025
 - ⚗️ [Cầu dây văng đầu tiên bắc qua sông Thương](https://vnexpress.net/cau-day-vang-dau-tien-bac-qua-song-thuong-4915912.html) - 17:00 19/07/2025
 - 🌊 [Miền Bắc hứng chịu siêu giông hiếm gặp](https://vnexpress.net/mien-bac-hung-chiu-sieu-giong-hiem-gap-4916444.html) - 15:05 19/07/2025
-- 🎓 [Thông báo hội nghị lần thứ 12 Ban chấp hành Trung ương Đảng khóa 13](https://vnexpress.net/thong-bao-hoi-nghi-lan-thu-12-ban-chap-hanh-trung-uong-dang-khoa-13-4916415.html) - 14:00 19/07/2025
+- 🎓 [Thông báo hội nghị lần thứ 12 Ban Chấp hành Trung ương Đảng khóa 13](https://vnexpress.net/thong-bao-hoi-nghi-lan-thu-12-ban-chap-hanh-trung-uong-dang-khoa-13-4916415.html) - 14:00 19/07/2025
 - 🔥 [Bão Wipha mạnh lên gần cấp 11, hướng vào Bắc Bộ](https://vnexpress.net/bao-wipha-manh-len-gan-cap-11-huong-vao-bac-bo-4916439.html) - 13:44 19/07/2025
 - 🦏 [Ông Đỗ Đức Duy thôi nhiệm vụ đại biểu Quốc hội](https://vnexpress.net/ong-do-duc-duy-thoi-nhiem-vu-dai-bieu-quoc-hoi-4916431.html) - 13:31 19/07/2025
 - 👺 [Bế mạc Hội nghị Trung ương 12 khóa 13](https://vnexpress.net/be-mac-hoi-nghi-trung-uong-12-khoa-13-4916373.html) - 13:16 19/07/2025
