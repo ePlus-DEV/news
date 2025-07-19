@@ -5,7 +5,7 @@ sidebar_position: 11
 
 <!-- vnexpress-du-lich:START -->
 - 💂 [Khách nữ gây sốt vì tóm gọn kẻ móc túi ở Paris](https://vnexpress.net/khach-nu-gay-sot-vi-tom-gon-ke-moc-tui-o-paris-4916382.html) - 10:23 19/07/2025
-- 🪄 [Du khách quốc tế hào hứng với giải marathon tại Đà Nẵng](https://vnexpress.net/du-khach-quoc-te-hao-hung-voi-giai-marathon-tai-da-nang-4916334.html) - 09:00 19/07/2025
+- 🪄 [Du khách quốc tế hào hứng trước giải marathon tại Đà Nẵng](https://vnexpress.net/du-khach-quoc-te-hao-hung-truoc-giai-marathon-tai-da-nang-4916334.html) - 09:00 19/07/2025
 - 🦅 [&#39;Thánh liêm&#39; của vua đầu bếp Mỹ ăn cơm tấm, uống cà phê ở TP HCM](https://vnexpress.net/thanh-liem-cua-vua-dau-bep-my-an-com-tam-uong-ca-phe-o-tp-hcm-4915434.html) - 08:50 19/07/2025
 - 🕴 [Hòn đảo Tổng thống Trump muốn biến thành nhà tù bất khả xâm phạm](https://vnexpress.net/hon-dao-tong-thong-trump-muon-bien-thanh-nha-tu-bat-kha-xam-pham-4916304.html) - 08:42 19/07/2025
 - 👀 [Cựu thủ tướng Thaksin hiến kế cứu du lịch Thái Lan](https://vnexpress.net/cuu-thu-tuong-thaksin-hien-ke-cuu-du-lich-thai-lan-4916293.html) - 06:59 19/07/2025
