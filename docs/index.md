@@ -317,7 +317,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo SGGP
 <!-- sggp:START -->
 - 🪜 [Đám cháy bùng phát thiêu rụi hơn 2ha rừng sản xuất ở Đà Nẵng](https://www.sggp.org.vn/dam-chay-bung-phat-thieu-rui-hon-2ha-rung-san-xuat-o-da-nang-post804519.html) - 16:02 19/07/2025
-- 🌝 [Vụ lật tàu du lịch trên vịnh Hạ Long: Đến 22 giờ 40, tìm thấy 34 thi thể, cứu 12 người](https://www.sggp.org.vn/vu-lat-tau-du-lich-tren-vinh-ha-long-den-22-gio-40-tim-thay-34-thi-the-cuu-12-nguoi-post804518.html) - 15:58 19/07/2025
+- 🌝 [Vụ lật tàu du lịch trên vịnh Hạ Long: Tìm thấy 34 thi thể, cứu 12 người](https://www.sggp.org.vn/vu-lat-tau-du-lich-tren-vinh-ha-long-tim-thay-34-thi-the-cuu-12-nguoi-post804518.html) - 15:58 19/07/2025
 - 💃 [Dốc toàn lực tìm kiếm các nạn nhân trong vụ lật tàu du lịch trên vịnh Hạ Long](https://www.sggp.org.vn/doc-toan-luc-tim-kiem-cac-nan-nhan-trong-vu-lat-tau-du-lich-tren-vinh-ha-long-post804517.html) - 15:33 19/07/2025
 - 🧑‍💻 [Bảng xếp hạng bảng B giải U23 Đông Nam Á 2025](https://www.sggp.org.vn/bang-xep-hang-bang-b-giai-u23-dong-nam-a-2025-post804514.html) - 14:49 19/07/2025
 - 🌊 [HLV Kim Sang-sik đánh giá cao U23 Indonesia](https://www.sggp.org.vn/hlv-kim-sang-sik-danh-gia-cao-u23-indonesia-post804515.html) - 14:49 19/07/2025
