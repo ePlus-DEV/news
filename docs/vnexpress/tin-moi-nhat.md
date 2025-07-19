@@ -9,7 +9,7 @@ sidebar_position: 9
 - 🦍 [Cơn mất ngủ đằng đẵng của những người mẹ Israel có con tham chiến ở Gaza](https://vnexpress.net/con-mat-ngu-dang-dang-cua-nhung-nguoi-me-israel-co-con-tham-chien-o-gaza-4915756.html) - 22:00 19/07/2025
 - 🏊 [Toyota Vios bỏ xa các đối thủ trong nửa đầu 2025](https://vnexpress.net/toyota-vios-bo-xa-cac-doi-thu-trong-nua-dau-2025-4916276.html) - 21:56 19/07/2025
 - 🎊 [Thí điểm xây 100 trường học nội trú ở các xã biên giới trong năm 2025](https://vnexpress.net/thi-diem-xay-100-truong-hoc-noi-tru-o-cac-xa-bien-gioi-trong-nam-2025-4916367.html) - 20:00 19/07/2025
-- 🎃 [Trực tiếp VM Đà Nẵng 2025: Vòng Vành Long đánh bại Kiptoo để vô địch 21km](https://vnexpress.net/vnexpress-marathon-da-nang-2025-4916433.html) - 19:15 19/07/2025
+- 🎃 [Trực tiếp VM Đà Nẵng 2025: Yến Thư &#39;lết&#39; về đích 42km nữ](https://vnexpress.net/vnexpress-marathon-da-nang-2025-4916433.html) - 19:15 19/07/2025
 - 🧰 [Tóc bạc từ tuổi 30 có phải do yếu sinh lý?](https://vnexpress.net/toc-bac-tu-tuoi-30-co-phai-do-yeu-sinh-ly-4916265.html) - 19:00 19/07/2025
 - 🔭 [Man Utd hòa đội vừa trở lại Ngoại hạng Anh](https://vnexpress.net/man-utd-hoa-doi-vua-tro-lai-ngoai-hang-anh-4916474.html) - 17:22 19/07/2025
 - 🫶 [Bali lo ngại thành &#39;đấu trường thanh trừng&#39; của tội phạm nước ngoài](https://vnexpress.net/bali-lo-ngai-thanh-dau-truong-thanh-trung-cua-toi-pham-nuoc-ngoai-4916323.html) - 17:10 19/07/2025
