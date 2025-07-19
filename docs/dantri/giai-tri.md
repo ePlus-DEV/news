@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Sập sân khấu hòa nhạc có &quot;anh tài, chị đẹp&quot; ở Hạ Long vì mưa bão](https://dantri.com.vn/giai-tri/sap-san-khau-hoa-nhac-co-anh-tai-chi-dep-o-ha-long-vi-mua-bao-20250719170406170.htm) - 11:03 19/07/2025
+- 🤩 [Sập sân khấu hòa nhạc có &quot;anh tài, chị đẹp&quot; ở Hạ Long, BTC nói gì?](https://dantri.com.vn/giai-tri/sap-san-khau-hoa-nhac-co-anh-tai-chi-dep-o-ha-long-btc-noi-gi-20250719170406170.htm) - 11:03 19/07/2025
 - 🔥 [Bình An và những vai “trai đểu” gây ức chế trên màn ảnh VTV](https://dantri.com.vn/giai-tri/binh-an-va-nhung-vai-trai-deu-gay-uc-che-tren-man-anh-vtv-20250719124149508.htm) - 07:20 19/07/2025
 - 🚀 [MC Phương Mai sau khi ly hôn chồng Tây: &quot;Tôi cảm thấy mình sống lại&quot;](https://dantri.com.vn/giai-tri/mc-phuong-mai-sau-khi-ly-hon-chong-tay-toi-cam-thay-minh-song-lai-20250718115525785.htm) - 05:52 19/07/2025
 - 🔥 [Phương Mỹ Chi thắng áp đảo thí sinh Trung Quốc, chính thức vào chung kết](https://dantri.com.vn/giai-tri/phuong-my-chi-thang-ap-dao-thi-sinh-trung-quoc-chinh-thuc-vao-chung-ket-20250719061519773.htm) - 02:15 19/07/2025
