@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Sao nhập tịch Indonesia gặp họa vì bức hình tranh cãi, phải rối rít xin lỗi](https://dantri.com.vn/the-thao/sao-nhap-tich-indonesia-gap-hoa-vi-buc-hinh-tranh-cai-phai-roi-rit-xin-loi-20250719132439484.htm) - 06:24 19/07/2025
+- 🎡 [Sao nhập tịch Indonesia gặp họa vì bức hình tranh cãi, phải rối rít xin lỗi](https://dantri.com.vn/the-thao/sao-nhap-tich-indonesia-gap-hoa-vi-buc-hinh-tranh-cai-phai-roi-rit-xin-loi-20250719132439484.htm) - 08:24 19/07/2025
 - 💯 [Xem trực tiếp trận U23 Việt Nam gặp U23 Lào ở đâu?](https://dantri.com.vn/the-thao/xem-truc-tiep-tran-u23-viet-nam-gap-u23-lao-o-dau-20250719120729744.htm) - 05:30 19/07/2025
 - ⛽️ [Tottenham lên tiếng về việc rao bán Son Heung Min](https://dantri.com.vn/the-thao/tottenham-len-tieng-ve-viec-rao-ban-son-heung-min-20250719095653024.htm) - 03:15 19/07/2025
 - 💃 [Arsenal chiêu mộ ngôi sao trị giá 52 triệu bảng từ Chelsea](https://dantri.com.vn/the-thao/arsenal-chieu-mo-ngoi-sao-tri-gia-52-trieu-bang-tu-chelsea-20250719095949581.htm) - 03:14 19/07/2025
