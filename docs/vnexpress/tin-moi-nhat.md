@@ -5,7 +5,7 @@ sidebar_position: 9
 
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Thí điểm xây 100 trường học nội trú ở các xã biên giới trong năm 2025](https://vnexpress.net/thi-diem-xay-100-truong-hoc-noi-tru-o-cac-xa-bien-gioi-trong-nam-2025-4916367.html) - 20:00 19/07/2025
-- 🐎 [Trực tiếp VM Đà Nẵng 2025: Cự ly 21km chuẩn bị xuất phát](https://vnexpress.net/vnexpress-marathon-da-nang-2025-4916433.html) - 19:08 19/07/2025
+- 🐎 [Trực tiếp: Huỳnh Anh Khôi dẫn đầu 42km VM Đà Nẵng 2025](https://vnexpress.net/vnexpress-marathon-da-nang-2025-4916433.html) - 19:08 19/07/2025
 - 🦍 [Tóc bạc từ tuổi 30 có phải do yếu sinh lý?](https://vnexpress.net/toc-bac-tu-tuoi-30-co-phai-do-yeu-sinh-ly-4916265.html) - 19:00 19/07/2025
 - 🏊 [Man Utd hòa đội vừa trở lại Ngoại hạng Anh](https://vnexpress.net/man-utd-hoa-doi-vua-tro-lai-ngoai-hang-anh-4916474.html) - 17:22 19/07/2025
 - 🎊 [Bali lo ngại thành &#39;đấu trường thanh trừng&#39; của tội phạm nước ngoài](https://vnexpress.net/bali-lo-ngai-thanh-dau-truong-thanh-trung-cua-toi-pham-nuoc-ngoai-4916323.html) - 17:10 19/07/2025
