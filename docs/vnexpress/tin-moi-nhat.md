@@ -5,7 +5,7 @@ sidebar_position: 9
 
 <!-- vnexpress-tin-moi-nhat:START -->
 - 🎬 [Thí điểm xây 100 trường học nội trú ở các xã biên giới trong năm 2025](https://vnexpress.net/thi-diem-xay-100-truong-hoc-noi-tru-o-cac-xa-bien-gioi-trong-nam-2025-4916367.html) - 20:00 19/07/2025
-- 🐎 [Trực tiếp: Huỳnh Anh Khôi dẫn đầu 42km VM Đà Nẵng 2025](https://vnexpress.net/vnexpress-marathon-da-nang-2025-4916433.html) - 19:08 19/07/2025
+- 🐎 [Trực tiếp VM Đà Nẵng 2025: Ewin Kiptoo bám đuổi các runner Việt](https://vnexpress.net/vnexpress-marathon-da-nang-2025-4916433.html) - 19:08 19/07/2025
 - 🦍 [Tóc bạc từ tuổi 30 có phải do yếu sinh lý?](https://vnexpress.net/toc-bac-tu-tuoi-30-co-phai-do-yeu-sinh-ly-4916265.html) - 19:00 19/07/2025
 - 🏊 [Man Utd hòa đội vừa trở lại Ngoại hạng Anh](https://vnexpress.net/man-utd-hoa-doi-vua-tro-lai-ngoai-hang-anh-4916474.html) - 17:22 19/07/2025
 - 🎊 [Bali lo ngại thành &#39;đấu trường thanh trừng&#39; của tội phạm nước ngoài](https://vnexpress.net/bali-lo-ngai-thanh-dau-truong-thanh-trung-cua-toi-pham-nuoc-ngoai-4916323.html) - 17:10 19/07/2025
@@ -28,7 +28,7 @@ sidebar_position: 9
 - 🧑‍💻 [Thái Lan thắng nhàn Timor Leste ở giải U23 Đông Nam Á 2025](https://vnexpress.net/thai-lan-thang-nhan-timor-leste-o-giai-u23-dong-nam-a-2025-4916464.html) - 15:27 19/07/2025
 - 🐲 [Miền Bắc hứng chịu siêu giông hiếm gặp](https://vnexpress.net/mien-bac-hung-chiu-sieu-giong-hiem-gap-4916444.html) - 15:05 19/07/2025
 - 🌝 [Trung Quốc khởi công siêu đập thủy điện ở Tây Tạng](https://vnexpress.net/trung-quoc-khoi-cong-sieu-dap-thuy-dien-o-tay-tang-4916422.html) - 14:57 19/07/2025
-- 😺 [Ái Phương: &#39;Chạy bộ là thiền động, giúp tôi xả stress&#39;](https://vnexpress.net/ai-phuong-chay-bo-la-thien-dong-giup-toi-xa-stress-4916400.html) - 14:40 19/07/2025
+- 😺 [Ái Phương: &#39;Chạy bộ là thiền động giúp tôi cân bằng tinh thần&#39;](https://vnexpress.net/ai-phuong-chay-bo-la-thien-dong-giup-toi-can-bang-tinh-than-4916400.html) - 14:40 19/07/2025
 - 🐎 [HLV Kim Sang-sik thận trọng sau trận thắng dễ ở giải U23 Đông Nam Á](https://vnexpress.net/hlv-kim-sang-sik-than-trong-sau-tran-thang-de-o-giai-u23-dong-nam-a-4916450.html) - 14:33 19/07/2025
 - 🎡 [Hành trình làm mới cuộc sống của những &#39;newbie&#39; chạy bộ](https://vnexpress.net/hanh-trinh-lam-moi-cuoc-song-cua-nhung-newbie-chay-bo-4916430.html) - 14:30 19/07/2025
 - 👨‍🏫 [Barca mượn được Rashford từ Man Utd](https://vnexpress.net/barca-muon-duoc-rashford-tu-man-utd-4916446.html) - 14:24 19/07/2025
