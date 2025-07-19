@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [U23 Việt Nam 0-0 Lào &lpar;H1&rpar;: Đoàn quân Kim lấn sân](https://vnexpress.net/truc-tiep-tran-u23-viet-nam-vs-u23-lao-tai-giai-u23-dong-nam-a-4916375.html) - 09:30 19/07/2025
+- 🪜 [U23 Việt Nam 1-0 Lào &lpar;H2&rpar;: Viktor Lê vào sân](https://vnexpress.net/truc-tiep-tran-u23-viet-nam-vs-u23-lao-tai-giai-u23-dong-nam-a-4916375.html) - 09:30 19/07/2025
 - 🦩 [Thể dục dụng cụ - bí quyết lạ của Dubois trước đại chiến hạng nặng](https://vnexpress.net/the-duc-dung-cu-bi-quyet-la-cua-dubois-truoc-dai-chien-hang-nang-4915680.html) - 09:02 19/07/2025
 - 🧰 [Nghi vấn từ bê bối doping của kỷ lục gia marathon nữ](https://vnexpress.net/nghi-van-tu-be-boi-doping-cua-ky-luc-gia-marathon-nu-4916307.html) - 09:00 19/07/2025
 - 🤗 [Cựu danh thủ Anh ám chỉ Arsenal có thể bán Saka](https://vnexpress.net/cuu-danh-thu-anh-am-chi-arsenal-co-the-ban-saka-4916313.html) - 08:57 19/07/2025
