@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 <!-- vnexpress-tin-moi-nhat:START -->
-- 🎬 [Nữ sinh chuyên Anh đỗ Đại học Thanh Hoa](https://vnexpress.net/nu-sinh-chuyen-anh-do-dai-hoc-thanh-hoa-4915978.html) - 06:47 19/07/2025
+- 🎬 [Nữ sinh chuyên Anh giành học bổng Đại học Thanh Hoa](https://vnexpress.net/nu-sinh-chuyen-anh-gianh-hoc-bong-dai-hoc-thanh-hoa-4915978.html) - 06:47 19/07/2025
 - 🐎 [&#39;12 năm học sinh giỏi nhưng thi tốt nghiệp THPT 7 điểm Toán, 6 điểm Tiếng Anh&#39;](https://vnexpress.net/tra-cuu-diem-thi-thpt-2025-diem-thi-tot-nghiep-thpt-12-nam-hoc-sinh-gioi-nhung-thi-tot-nghiep-thpt-7-diem-toan-6-diem-tieng-anh-4916271.html) - 06:34 19/07/2025
 - 🦍 [Anh có đủ bao dung, sẵn sàng bước đến bên em không?](https://vnexpress.net/anh-co-du-bao-dung-san-sang-buoc-den-ben-em-khong-4916234.html) - 06:30 19/07/2025
 - 🏊 [Uống trà sữa thế nào không hại thận](https://vnexpress.net/uong-tra-sua-the-nao-khong-hai-than-4916305.html) - 06:30 19/07/2025
