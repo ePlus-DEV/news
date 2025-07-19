@@ -411,10 +411,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Chính Phủ
 <!-- baochinhphu:START -->
-- 💻 [Vụ lật tàu tại Quảng Ninh: Cố gắng tìm kiếm hết các nạn nhân, cẩu, lai dắt tàu gặp nạn vào bờ ngay trong đêm](https://baochinhphu.vn/vu-lat-tau-tai-quang-ninh-co-gang-tim-kiem-het-cac-nan-nhan-cau-lai-dat-tau-gap-nan-vao-bo-ngay-trong-dem-102250720004538288.htm) - 00:39 20/07/2025
-- 🌜 [THUẾ QUAN HOA KỲ: Lần thứ 8 Bộ trưởng Nhật Bản sang Mỹ đàm phán](https://baochinhphu.vn/thue-quan-hoa-ky-lan-thu-8-bo-truong-nhat-ban-sang-my-dam-phan-102250719230906509.htm) - 23:19 19/07/2025
-- 🦆 [Lý giải nguyên nhân mưa dông mạnh tại Bắc Bộ](https://baochinhphu.vn/ly-giai-nguyen-nhan-mua-dong-manh-tai-bac-bo-102250719225518511.htm) - 22:54 19/07/2025
-- 🌝 [CẬP NHẬT: Chạy đua với thời gian cứu hộ vụ đắm tàu du lịch trên Vịnh Hạ Long](https://baochinhphu.vn/chay-dua-voi-thoi-gian-cuu-ho-vu-dam-tau-du-lich-tren-vinh-ha-long-10225071921391127.htm) - 22:40 19/07/2025
+- 💻 [CẬP NHẬT: Trục vớt thành công tàu du lịch bị lật trên Vịnh Hạ Long](https://baochinhphu.vn/chay-dua-voi-thoi-gian-cuu-ho-vu-dam-tau-du-lich-tren-vinh-ha-long-10225071921391127.htm) - 02:00 20/07/2025
+- 🌜 [Vụ lật tàu tại Quảng Ninh: Cố gắng tìm kiếm hết các nạn nhân, cẩu, lai dắt tàu gặp nạn vào bờ ngay trong đêm](https://baochinhphu.vn/vu-lat-tau-tai-quang-ninh-co-gang-tim-kiem-het-cac-nan-nhan-cau-lai-dat-tau-gap-nan-vao-bo-ngay-trong-dem-102250720004538288.htm) - 00:39 20/07/2025
+- 🦆 [THUẾ QUAN HOA KỲ: Lần thứ 8 Bộ trưởng Nhật Bản sang Mỹ đàm phán](https://baochinhphu.vn/thue-quan-hoa-ky-lan-thu-8-bo-truong-nhat-ban-sang-my-dam-phan-102250719230906509.htm) - 23:19 19/07/2025
+- 🌝 [Lý giải nguyên nhân mưa dông mạnh tại Bắc Bộ](https://baochinhphu.vn/ly-giai-nguyen-nhan-mua-dong-manh-tai-bac-bo-102250719225518511.htm) - 22:54 19/07/2025
 - 🦣 [Đảm bảo an toàn cho khách du lịch, ứng phó kịp thời với bão số 3](https://baochinhphu.vn/dam-bao-an-toan-cho-khach-du-lich-ung-pho-kip-thoi-voi-bao-so-3-102250719223850927.htm) - 22:38 19/07/2025
 - ⛽️ [Cấp cứu, điều trị kịp thời các nạn nhân vụ đắm tàu du lịch tại Quảng Ninh](https://baochinhphu.vn/cap-cuu-dieu-tri-kip-thoi-cac-nan-nhan-vu-dam-tau-du-lich-tai-quang-ninh-102250719223346044.htm) - 22:19 19/07/2025
 - 🎓 [Bộ Xây dựng: Ứng trực 24/24h tại các vị trí xung yếu, sẵn sàng phương tiện cứu hộ cứu nạn](https://baochinhphu.vn/bo-xay-dung-ung-truc-24-24h-tai-cac-vi-tri-xung-yeu-san-sang-phuong-tien-cuu-ho-cuu-nan-102250719221358684.htm) - 22:11 19/07/2025
