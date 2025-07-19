@@ -5,7 +5,7 @@ sidebar_position: 20
 
 <!-- dantri-tam-long-nhan-ai:START -->
 - 🌝 [Câu chuyện món quà 9 bắp ngô và nghĩa tình không thể đong đếm](https://dantri.com.vn/tam-long-nhan-ai/cau-chuyen-mon-qua-9-bap-ngo-va-nghia-tinh-khong-the-dong-dem-20250618181436960.htm) - 07:09 19/07/2025
-- 🌜 [Cầu Dân trí vững chãi sau lũ dữ, địa phương khẩn trương tu sửa lối vào](https://dantri.com.vn/tam-long-nhan-ai/cau-dan-tri-vung-chai-sau-lu-du-dia-phuong-khan-truong-tu-sua-loi-vao-20250719113011775.htm) - 06:57 19/07/2025
+- 🌜 [Cầu Dân trí ở Lào Cai vững chãi sau lũ dữ, chính quyền khẩn trương tu sửa lối vào](https://dantri.com.vn/tam-long-nhan-ai/cau-dan-tri-o-lao-cai-vung-chai-sau-lu-du-chinh-quyen-khan-truong-tu-sua-loi-vao-20250719113011775.htm) - 06:57 19/07/2025
 - 👀 [Lời khẩn cầu từ người đàn bà khuyết tật sống cô độc giữa núi rừng](https://dantri.com.vn/tam-long-nhan-ai/loi-khan-cau-tu-nguoi-dan-ba-khuyet-tat-song-co-doc-giua-nui-rung-20250710165516991.htm) - 22:30 18/07/2025
 - 🚀 [Hoạt động Nhân ái và khái niệm “cần câu”, “con cá”](https://dantri.com.vn/tam-long-nhan-ai/hoat-dong-nhan-ai-va-khai-niem-can-cau-con-ca-20250622130825045.htm) - 22:00 18/07/2025
 - 🦅 [Chuyển hết tiền cho vợ để đi vào tâm sạt lở, mang yêu thương đến đồng bào](https://dantri.com.vn/tam-long-nhan-ai/chuyen-het-tien-cho-vo-de-di-vao-tam-sat-lo-mang-yeu-thuong-den-dong-bao-20250625004717718.htm) - 21:55 18/07/2025
