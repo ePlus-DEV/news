@@ -525,7 +525,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Vụ lật tàu du lịch ở vịnh Hạ Long: cứu được 11 người, có bạn nhỏ 14 tuổi](https://muctim.tuoitre.vn/vu-lat-tau-du-lich-o-vinh-ha-long-cuu-duoc-11-nguoi-co-ban-nho-14-tuoi-101250719211042564.htm) - 15:23 19/07/2025
+- 🤔 [Vụ lật tàu du lịch ở vịnh Hạ Long: cứu được 10 người, có bạn nhỏ 14 tuổi](https://muctim.tuoitre.vn/vu-lat-tau-du-lich-o-vinh-ha-long-cuu-duoc-11-nguoi-co-ban-nho-14-tuoi-101250719211042564.htm) - 15:23 19/07/2025
 - 🥷 [Cris Phan và Rhyder, cặp bài trùng phá đảo Đấu trường gia tốc](https://muctim.tuoitre.vn/cris-phan-va-rhyder-cap-bai-trung-pha-dao-dau-truong-gia-toc-101250719183806673.htm) - 14:47 19/07/2025
 - 🤖 [Đại diện Bộ Giáo dục và Đào tạo giải đáp vấn đề điểm quy đổi, chuyển ngành](https://muctim.tuoitre.vn/dai-dien-bo-giao-duc-va-dao-tao-giai-dap-van-de-diem-quy-doi-chuyen-nganh-10125071920491533.htm) - 14:06 19/07/2025
 - 🤓 [Bạn nhỏ hào hứng khám phá nghề báo tại CLB Phóng viên nhí Khăn Quàng Đỏ](https://muctim.tuoitre.vn/ban-nho-hao-hung-kham-pha-nghe-bao-tai-clb-phong-vien-nhi-khan-quang-do-101250719190744186.htm) - 12:59 19/07/2025
