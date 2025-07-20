@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Tướng Đức: Nga có thể sẽ dùng đồng thời 2.000 UAV tập kích Ukraine](https://vnexpress.net/tuong-duc-nga-co-the-se-dung-dong-thoi-2-000-uav-tap-kich-ukraine-4916654.html) - 15:50 20/07/2025
+- 🚀 [Tướng Đức: Nga có thể dùng 2.000 UAV cho mỗi lần tập kích Ukraine](https://vnexpress.net/tuong-duc-nga-co-the-dung-2-000-uav-cho-moi-lan-tap-kich-ukraine-4916654.html) - 15:50 20/07/2025
 - 🧰 [19 người ngộ độc sau ăn đám giỗ](https://vnexpress.net/19-nguoi-ngo-doc-sau-an-dam-gio-4916650.html) - 15:03 20/07/2025
 - 🥰 [Anh điềm đạm, hiền lành và chân thành](https://vnexpress.net/anh-diem-dam-hien-lanh-va-chan-thanh-4915886.html) - 15:00 20/07/2025
 - 🌏 [Iran tuyên bố phục hồi lưới phòng không sau xung đột với Israel](https://vnexpress.net/iran-tuyen-bo-phuc-hoi-luoi-phong-khong-sau-xung-dot-voi-israel-4916646.html) - 14:46 20/07/2025
