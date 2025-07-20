@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Tướng Đức: Nga có thể sẽ dùng đồng thời 2.000 UAV tập kích Ukraine](https://vnexpress.net/tuong-duc-nga-co-the-se-dung-dong-thoi-2-000-uav-tap-kich-ukraine-4916654.html) - 15:50 20/07/2025
+- 🎭 [Tướng Đức: Nga có thể dùng 2.000 UAV cho mỗi lần tập kích Ukraine](https://vnexpress.net/tuong-duc-nga-co-the-dung-2-000-uav-cho-moi-lan-tap-kich-ukraine-4916654.html) - 15:50 20/07/2025
 - 🕴 [Iran tuyên bố phục hồi lưới phòng không sau xung đột với Israel](https://vnexpress.net/iran-tuyen-bo-phuc-hoi-luoi-phong-khong-sau-xung-dot-voi-israel-4916646.html) - 14:46 20/07/2025
 - 🤭 [Người Mỹ đổ xô tích trữ mỹ phẩm Hàn vì lo thuế quan mới](https://vnexpress.net/nguoi-my-do-xo-tich-tru-my-pham-han-vi-lo-thue-quan-moi-4916221.html) - 13:19 20/07/2025
 - 🧑‍💻 [Nga thông báo chặn hơn 170 UAV của Ukraine](https://vnexpress.net/nga-tuyen-bo-danh-chan-hon-170-uav-cua-ukraine-4916627.html) - 12:28 20/07/2025
