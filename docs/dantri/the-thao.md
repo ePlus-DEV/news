@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Báo châu Á nói một điều về U23 Việt Nam sau chiến thắng đậm](https://dantri.com.vn/the-thao/bao-chau-a-noi-mot-dieu-ve-u23-viet-nam-sau-chien-thang-dam-20250720121327067.htm) - 05:16 20/07/2025
+- 🎡 [Báo châu Á nói một điều về U23 Việt Nam sau chiến thắng đậm](https://dantri.com.vn/the-thao/bao-chau-a-noi-mot-dieu-ve-u23-viet-nam-sau-chien-thang-dam-20250720121327067.htm) - 07:16 20/07/2025
 - 💯 [AFF vinh danh Văn Khang, Hiểu Minh sau chiến thắng đậm của U23 Việt Nam](https://dantri.com.vn/the-thao/aff-vinh-danh-van-khang-hieu-minh-sau-chien-thang-dam-cua-u23-viet-nam-20250720084527976.htm) - 03:58 20/07/2025
 - ⛽️ [Lionel Messi rực sáng, Inter Miami đại thắng trong trận cầu 6 bàn](https://dantri.com.vn/the-thao/lionel-messi-ruc-sang-inter-miami-dai-thang-trong-tran-cau-6-ban-20250720100235873.htm) - 03:02 20/07/2025
 - 💃 [Djokovic bị nghi ngờ về khả năng giành Grand Slam thứ 25](https://dantri.com.vn/the-thao/djokovic-bi-nghi-ngo-ve-kha-nang-gianh-grand-slam-thu-25-20250720080253367.htm) - 01:07 20/07/2025
