@@ -23,7 +23,7 @@ sidebar_position: 1
 - 💯 [Bão Wipha có dấu hiệu mạnh trở lại khi vào vịnh Bắc Bộ](https://vnexpress.net/bao-wipha-co-dau-hieu-manh-tro-lai-khi-vao-vinh-bac-bo-4916705.html) - 01:53 21/07/2025
 - 👺 [Nhiều chuyến bay bị hủy do bão Wipha](https://vnexpress.net/nhieu-chuyen-bay-bi-huy-do-bao-wipha-4916695.html) - 01:04 21/07/2025
 - 🌮 [Quốc lộ 19 &#39;vá&#39; chằng chịt sau 7 tháng nâng cấp](https://vnexpress.net/quoc-lo-19-va-chang-chit-sau-7-thang-nang-cap-4916607.html) - 17:00 20/07/2025
-- 🥸 [Bão Wipha mạnh cấp 11, tiến vào Vịnh Bắc Bộ](https://vnexpress.net/bao-wipha-manh-cap-11-tien-vao-vinh-bac-bo-4916631.html) - 14:27 20/07/2025
+- 🥸 [Bão Wipha mạnh cấp 11, tiến vào vịnh Bắc Bộ](https://vnexpress.net/bao-wipha-manh-cap-11-tien-vao-vinh-bac-bo-4916631.html) - 14:27 20/07/2025
 - 🐻 [Cá sấu xuất hiện dưới kênh ở TP HCM](https://vnexpress.net/ca-sau-xuat-hien-duoi-kenh-o-tp-hcm-4916613.html) - 10:36 20/07/2025
 - 👀 [Nhiều tỉnh cấm biển, sơ tán dân ứng phó bão Wipha](https://vnexpress.net/nhieu-tinh-cam-bien-so-tan-dan-ung-pho-bao-wipha-4916601.html) - 10:20 20/07/2025
 - 🤔 [Nhiều nhà tốc mái, cây gãy đổ khi giông lốc quét qua Nam Bộ](https://vnexpress.net/nhieu-nha-toc-mai-cay-gay-do-khi-giong-loc-quet-qua-nam-bo-4916589.html) - 08:56 20/07/2025
