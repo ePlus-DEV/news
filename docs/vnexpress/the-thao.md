@@ -4,9 +4,9 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Đội pickleball Mỹ chiêu mộ tay vợt số một thế giới thay Quang Dương](https://vnexpress.net/doi-pickleball-my-chieu-mo-tay-vot-so-mot-the-gioi-thay-quang-duong-4917037.html) - 11:51 21/07/2025
-- 🦩 [Liverpool mua tiền đạo 93 triệu USD](https://vnexpress.net/liverpool-mua-tien-dao-93-trieu-usd-4917089.html) - 11:49 21/07/2025
-- 🧰 [Khoảnh khắc bùng nổ ở vạch đích của runner VM Đà Nẵng](https://vnexpress.net/khoanh-khac-bung-no-o-vach-dich-cua-runner-vm-da-nang-4916938.html) - 11:00 21/07/2025
+- 🪜 [Indonesia loại Malaysia khỏi giải U23 Đông Nam Á 2025](https://vnexpress.net/indonesia-loai-malaysia-khoi-giai-u23-dong-nam-a-2025-4917155.html) - 15:15 21/07/2025
+- 🦩 [Đội pickleball Mỹ chiêu mộ tay vợt số một thế giới thay Quang Dương](https://vnexpress.net/doi-pickleball-my-chieu-mo-tay-vot-so-mot-the-gioi-thay-quang-duong-4917037.html) - 11:51 21/07/2025
+- 🧰 [Liverpool mua tiền đạo 93 triệu USD](https://vnexpress.net/liverpool-mua-tien-dao-93-trieu-usd-4917089.html) - 11:49 21/07/2025
 - 🤗 [Sáp nhập đội Quảng Nam và Đà Nẵng](https://vnexpress.net/sap-nhap-doi-quang-nam-va-da-nang-4917093.html) - 10:47 21/07/2025
 - 🥳 [Vì sao Liverpool &#39;phóng tay&#39; trên sàn chuyển nhượng?](https://vnexpress.net/vi-sao-liverpool-phong-tay-tren-san-chuyen-nhuong-4915268.html) - 08:02 21/07/2025
 - 🦣 [Yamal có cần gương mẫu hơn VĐV khác?](https://vnexpress.net/yamal-co-can-guong-mau-hon-vdv-khac-4916973.html) - 07:49 21/07/2025
