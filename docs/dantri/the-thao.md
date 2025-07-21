@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Báo Malaysia nói thẳng thực tế đau lòng của đội nhà](https://dantri.com.vn/the-thao/bao-malaysia-noi-thang-thuc-te-dau-long-cua-doi-nha-20250721200900983.htm) - 13:09 21/07/2025
-- 💯 [U23 Indonesia 0-0 U23 Malaysia &lpar;Hiệp 1&rpar;: Thế trận căng thẳng](https://dantri.com.vn/the-thao/u23-indonesia-0-0-u23-malaysia-hiep-1-the-tran-cang-thang-20250721194909896.htm) - 12:49 21/07/2025
+- 💯 [U23 Indonesia 0-0 U23 Malaysia &lpar;Hiệp 2&rpar;: Đội chủ nhà bỏ lỡ cơ hội](https://dantri.com.vn/the-thao/u23-indonesia-0-0-u23-malaysia-hiep-2-doi-chu-nha-bo-lo-co-hoi-20250721194909896.htm) - 12:49 21/07/2025
 - ⛽️ [Amad Diallo tiết lộ mục tiêu khiêm tốn của Man Utd ở Premier League](https://dantri.com.vn/the-thao/amad-diallo-tiet-lo-muc-tieu-khiem-ton-cua-man-utd-o-premier-league-20250721150925423.htm) - 12:38 21/07/2025
 - 💃 [Đánh bại Messi, C.Ronaldo được chọn là Cầu thủ vĩ đại nhất lịch sử](https://dantri.com.vn/the-thao/danh-bai-messi-cronaldo-duoc-chon-la-cau-thu-vi-dai-nhat-lich-su-20250721191405064.htm) - 12:14 21/07/2025
 - 🌈 [CLB Quảng Nam bỏ giải V-League, đội bóng của Công Phượng sáng cửa thay thế](https://dantri.com.vn/the-thao/clb-quang-nam-bo-giai-v-league-doi-bong-cua-cong-phuong-sang-cua-thay-the-20250721174427552.htm) - 10:46 21/07/2025
