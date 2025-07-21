@@ -4,19 +4,19 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Bên trong tàu siêu tốc như đến từ tương lai của Trung Quốc](https://vnexpress.net/ben-trong-tau-sieu-toc-nhu-den-tu-tuong-lai-cua-trung-quoc-4915820.html) - 01:00 21/07/2025
-- 🪄 [Mì Quảng - món 400 năm mang đậm tình quê](https://vnexpress.net/mi-quang-mon-400-nam-mang-dam-tinh-que-4915556.html) - 00:00 21/07/2025
-- 🦅 [Khách Việt ngắm Mặt Trời nửa đêm giữa những tảng băng trôi khổng lồ](https://vnexpress.net/khach-viet-ngam-mat-troi-nua-dem-giua-nhung-tang-bang-troi-khong-lo-4915945.html) - 17:09 20/07/2025
-- 🕴 [Loạt video giả vụ lật tàu &#39;gây thiệt hại cho du lịch vịnh Hạ Long&#39;](https://vnexpress.net/loat-video-gia-vu-lat-tau-gay-thiet-hai-cho-du-lich-vinh-ha-long-4916602.html) - 12:00 20/07/2025
-- 👀 [Tranh cãi việc hai du thuyền ở Hạ Long bắn pháo hoa sau vụ lật tàu](https://vnexpress.net/tranh-cai-viec-hai-du-thuyen-o-ha-long-ban-phao-hoa-sau-vu-lat-tau-4916600.html) - 10:51 20/07/2025
-- 🎭 [Những lưu ý an toàn không thể bỏ qua khi đi tàu du lịch](https://vnexpress.net/nhung-luu-y-an-toan-khong-the-bo-qua-khi-di-tau-du-lich-4916506.html) - 06:41 20/07/2025
-- 🦒 [Giải chạy góp phần định vị Đà Nẵng thành điểm đến du lịch chất lượng cao](https://vnexpress.net/giai-chay-gop-phan-dinh-vi-da-nang-thanh-diem-den-du-lich-chat-luong-cao-4914915.html) - 04:00 20/07/2025
-- 👨‍🏫 [Khách sạn miễn phí ăn ở cho thân nhân vụ lật tàu Hạ Long](https://vnexpress.net/khach-san-mien-phi-an-o-cho-than-nhan-vu-lat-tau-ha-long-4916526.html) - 03:58 20/07/2025
-- ⚗️ [Săn mây trái mùa ở Tà Xùa](https://vnexpress.net/san-may-trai-mua-o-ta-xua-4915456.html) - 02:09 20/07/2025
-- 🥸 [6 đại sứ du lịch Việt Nam](https://vnexpress.net/6-dai-su-du-lich-viet-nam-4915971.html) - 00:00 20/07/2025
-- 🤠 [Bali lo ngại thành &#39;đấu trường thanh trừng&#39; của tội phạm nước ngoài](https://vnexpress.net/bali-lo-ngai-thanh-dau-truong-thanh-trung-cua-toi-pham-nuoc-ngoai-4916323.html) - 17:10 19/07/2025
-- 🚀 [Khách nữ gây sốt vì tóm gọn kẻ móc túi ở Paris](https://vnexpress.net/khach-nu-gay-sot-vi-tom-gon-ke-moc-tui-o-paris-4916382.html) - 10:23 19/07/2025
-- 💻 [Du khách quốc tế hào hứng trước giải marathon tại Đà Nẵng](https://vnexpress.net/du-khach-quoc-te-hao-hung-truoc-giai-marathon-tai-da-nang-4916334.html) - 09:00 19/07/2025
+- 💂 [Khách đến Mỹ du lịch phải trả thêm 250 USD](https://vnexpress.net/khach-den-my-du-lich-phai-tra-them-250-usd-4916744.html) - 04:06 21/07/2025
+- 🪄 [Sun World Sam Son áp dụng giá vé 250.000 đồng](https://vnexpress.net/sun-world-sam-son-ap-dung-gia-ve-250-000-dong-4916432.html) - 02:00 21/07/2025
+- 🦅 [Bên trong tàu siêu tốc như đến từ tương lai của Trung Quốc](https://vnexpress.net/ben-trong-tau-sieu-toc-nhu-den-tu-tuong-lai-cua-trung-quoc-4915820.html) - 01:00 21/07/2025
+- 🕴 [Mì Quảng - món 400 năm mang đậm tình quê](https://vnexpress.net/mi-quang-mon-400-nam-mang-dam-tinh-que-4915556.html) - 00:00 21/07/2025
+- 👀 [Khách Việt ngắm Mặt Trời nửa đêm giữa những tảng băng trôi khổng lồ](https://vnexpress.net/khach-viet-ngam-mat-troi-nua-dem-giua-nhung-tang-bang-troi-khong-lo-4915945.html) - 17:09 20/07/2025
+- 🎭 [Loạt video giả vụ lật tàu &#39;gây thiệt hại cho du lịch vịnh Hạ Long&#39;](https://vnexpress.net/loat-video-gia-vu-lat-tau-gay-thiet-hai-cho-du-lich-vinh-ha-long-4916602.html) - 12:00 20/07/2025
+- 🦒 [Tranh cãi việc hai du thuyền ở Hạ Long bắn pháo hoa sau vụ lật tàu](https://vnexpress.net/tranh-cai-viec-hai-du-thuyen-o-ha-long-ban-phao-hoa-sau-vu-lat-tau-4916600.html) - 10:51 20/07/2025
+- 👨‍🏫 [Những lưu ý an toàn không thể bỏ qua khi đi tàu du lịch](https://vnexpress.net/nhung-luu-y-an-toan-khong-the-bo-qua-khi-di-tau-du-lich-4916506.html) - 06:41 20/07/2025
+- ⚗️ [Khách sạn miễn phí ăn ở cho thân nhân vụ lật tàu Hạ Long](https://vnexpress.net/khach-san-mien-phi-an-o-cho-than-nhan-vu-lat-tau-ha-long-4916526.html) - 03:58 20/07/2025
+- 🥸 [Săn mây trái mùa ở Tà Xùa](https://vnexpress.net/san-may-trai-mua-o-ta-xua-4915456.html) - 02:09 20/07/2025
+- 🤠 [6 đại sứ du lịch Việt Nam](https://vnexpress.net/6-dai-su-du-lich-viet-nam-4915971.html) - 00:00 20/07/2025
+- 🚀 [Bali lo ngại thành &#39;đấu trường thanh trừng&#39; của tội phạm nước ngoài](https://vnexpress.net/bali-lo-ngai-thanh-dau-truong-thanh-trung-cua-toi-pham-nuoc-ngoai-4916323.html) - 17:10 19/07/2025
+- 💻 [Khách nữ gây sốt vì tóm gọn kẻ móc túi ở Paris](https://vnexpress.net/khach-nu-gay-sot-vi-tom-gon-ke-moc-tui-o-paris-4916382.html) - 10:23 19/07/2025
 - 💼 [&#39;Thánh liêm&#39; của vua đầu bếp Mỹ ăn cơm tấm, uống cà phê ở TP HCM](https://vnexpress.net/thanh-liem-cua-vua-dau-bep-my-an-com-tam-uong-ca-phe-o-tp-hcm-4915434.html) - 08:50 19/07/2025
 - 🤡 [Hòn đảo Tổng thống Trump muốn biến thành nhà tù bất khả xâm phạm](https://vnexpress.net/hon-dao-tong-thong-trump-muon-bien-thanh-nha-tu-bat-kha-xam-pham-4916304.html) - 08:42 19/07/2025
 - 🐵 [Cựu thủ tướng Thaksin hiến kế cứu du lịch Thái Lan](https://vnexpress.net/cuu-thu-tuong-thaksin-hien-ke-cuu-du-lich-thai-lan-4916293.html) - 06:59 19/07/2025
