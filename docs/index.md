@@ -151,7 +151,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- thanhnien:START -->
 - 🤠 [Ứng phó bão số 3 &lpar;Wipha&rpar;, làm sao tránh vùng có sạt lở, lũ quét?](https://thanhnien.vn/ung-pho-bao-so-3-wipha-lam-sao-tranh-vung-co-sat-lo-lu-quet-185250721212108054.htm) - 15:27 21/07/2025
 - 🥸 [Thêm một trường ở Hà Nội thông báo mức chênh điểm thi với học bạ](https://thanhnien.vn/them-mot-truong-o-ha-noi-thong-bao-muc-chenh-diem-thi-voi-hoc-ba-185250721215453493.htm) - 15:26 21/07/2025
-- 🌁 [Highlight U.23 Indonesia 0-0 U.23 Indonesia: Đội khách dừng bước](https://thanhnien.vn/highlight-u23-indonesia-0-0-u23-indonesia-doi-khach-dung-buoc-185250721222427611.htm) - 15:24 21/07/2025
+- 🌁 [Highlight U.23 Indonesia 0-0 U.23 Malaysia: Đội khách dừng bước](https://thanhnien.vn/highlight-u23-indonesia-0-0-u23-indonesia-doi-khach-dung-buoc-185250721222427611.htm) - 15:24 21/07/2025
 - 🤡 [Đình Bắc đủ sức ra sân gặp U.23 Campuchia, HLV Kim có cất ‘ngọc quý’ cho bán kết?](https://thanhnien.vn/dinh-bac-du-suc-ra-san-gap-u23-campuchia-hlv-kim-co-cat-ngoc-quy-cho-ban-ket-185250721220814859.htm) - 15:08 21/07/2025
 - 🎉 [U.23 Malaysia sớm bị loại, chủ nhà Indonesia đi tiếp: U.23 Việt Nam dễ đấu ai ở bán kết?](https://thanhnien.vn/u23-malaysia-som-bi-loai-chu-nha-indonesia-di-tiep-u23-viet-nam-de-dau-ai-o-ban-ket-185250721210527415.htm) - 15:04 21/07/2025
 - 🎊 [Hoa hậu Tiểu Vy làm vedette show thời trang ở cảng sông Hàn Đà Nẵng](https://thanhnien.vn/thoi-trang-tre/hoa-hau-tieu-vy-lam-vedette-show-thoi-trang-o-cang-song-han-da-nang-185250721203230202.htm) - 15:02 21/07/2025
