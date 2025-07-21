@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Người trở về sau thảm họa lật tàu Hạ Long: Gánh nặng tâm hồn không dễ nguôi](https://dantri.com.vn/doi-song/nguoi-tro-ve-sau-tham-hoa-lat-tau-ha-long-ganh-nang-tam-hon-khong-de-nguoi-20250721154809896.htm) - 22:17 21/07/2025
+- 🥳 [Người sống sót vụ lật tàu Hạ Long: Tiếng khóc lặng dần, nỗi đau mới bắt đầu](https://dantri.com.vn/doi-song/nguoi-song-sot-vu-lat-tau-ha-long-tieng-khoc-lang-dan-noi-dau-moi-bat-dau-20250721154809896.htm) - 22:17 21/07/2025
 - 🌁 [Giấu xe sang vào container, quấn chăn cho ô tô, xếp lốp lên mái chống bão](https://dantri.com.vn/doi-song/giau-xe-sang-vao-container-quan-chan-cho-o-to-xep-lop-len-mai-chong-bao-20250721203647526.htm) - 14:12 21/07/2025
 - 👀 [Hình ảnh đám mây đen khổng lồ như vòi rồng ở Quảng Ninh](https://dantri.com.vn/doi-song/hinh-anh-dam-may-den-khong-lo-nhu-voi-rong-o-quang-ninh-20250721194927100.htm) - 13:12 21/07/2025
 - 🐻 [Bảo hiểm Bảo Việt triển khai tạm ứng bồi thường khách hàng trên tàu Vịnh Xanh 58](https://dantri.com.vn/doi-song/bao-hiem-bao-viet-trien-khai-tam-ung-boi-thuong-khach-hang-tren-tau-vinh-xanh-58-20250721180916410.htm) - 12:05 21/07/2025
