@@ -17,11 +17,11 @@ sidebar_position: 1
 - 🎉 [Cần Thơ thay người giữ chức Trưởng ban Tuyên giáo và Dân vận](https://vnexpress.net/can-tho-thay-nguoi-giu-chuc-truong-ban-tuyen-giao-va-dan-van-4917400.html) - 06:45 22/07/2025
 - 🦒 [Cháy kiốt ở Thái Nguyên, giám đốc một công ty tử vong](https://vnexpress.net/chay-kiot-o-thai-nguyen-giam-doc-mot-cong-ty-tu-vong-4917352.html) - 05:39 22/07/2025
 - 🤗 [Ôtô nổ lốp lao vào xe đầu kéo](https://vnexpress.net/oto-no-lop-lao-vao-xe-dau-keo-4917392.html) - 05:36 22/07/2025
-- 💼 [Cầu treo đứt cáp, ôtô chở cán bộ xã đi chống bão rơi xuống sông](https://vnexpress.net/cau-treo-dut-cap-oto-cho-can-bo-xa-di-chong-bao-roi-xuong-song-4917263.html) - 05:31 22/07/2025
+- 💼 [Cầu treo đứt cáp, ôtô chở cán bộ đi chống bão rơi xuống sông](https://vnexpress.net/cau-treo-dut-cap-oto-cho-can-bo-di-chong-bao-roi-xuong-song-4917263.html) - 05:31 22/07/2025
 - 🤩 [Việt Nam - Singapore thúc đẩy hợp tác quốc phòng toàn diện](https://vnexpress.net/viet-nam-singapore-thuc-day-hop-tac-quoc-phong-toan-dien-4917347.html) - 04:43 22/07/2025
 - 🤡 [Phố phường Hà Nội thưa vắng ngày bão Wipha đổ bộ](https://vnexpress.net/pho-phuong-ha-noi-thua-vang-ngay-bao-wipha-do-bo-4917278.html) - 03:28 22/07/2025
 - 💯 [Người đàn ông hôn mê trong bãi cỏ sau 4 ngày mất tích](https://vnexpress.net/nguoi-dan-ong-hon-me-trong-bai-co-sau-4-ngay-mat-tich-4917241.html) - 02:58 22/07/2025
-- 👺 [7 tiếng bão Wipha đổ bộ miền Bắc](https://vnexpress.net/truc-tiep-bao-wipha-4917181-tong-thuat.html) - 01:00 22/07/2025
+- 👺 [9 tiếng bão Wipha đổ bộ miền Bắc](https://vnexpress.net/truc-tiep-bao-wipha-4917181-tong-thuat.html) - 01:00 22/07/2025
 - 🌮 [Bão sẽ đổ bộ Hưng Yên - Ninh Bình sáng nay](https://vnexpress.net/bao-se-do-bo-hung-yen-ninh-binh-sang-nay-4917173.html) - 23:21 21/07/2025
 - 🥸 [Hà Nội di dân khỏi chung cư nguy hiểm](https://vnexpress.net/ha-noi-di-dan-khoi-chung-cu-nguy-hiem-4917157.html) - 17:55 21/07/2025
 - 🐻 [Chính phủ ra Nghị quyết gỡ vướng hai dự án trọng điểm ở TP HCM](https://vnexpress.net/chinh-phu-ra-nghi-quyet-go-vuong-hai-du-an-trong-diem-o-tp-hcm-4917144.html) - 17:00 21/07/2025
