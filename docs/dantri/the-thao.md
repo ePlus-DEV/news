@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [U23 Việt Nam - U23 Campuchia &lpar;20h hôm nay&rpar;: Quyết tâm toàn thắng](https://dantri.com.vn/the-thao/u23-viet-nam-u23-campuchia-20h-hom-nay-quyet-tam-toan-thang-20250722195050381.htm) - 12:51 22/07/2025
-- 💯 [HLV U23 Indonesia thẳng thắn nhận xét về U23 Việt Nam](https://dantri.com.vn/the-thao/hlv-u23-indonesia-thang-than-nhan-xet-ve-u23-viet-nam-20250722193535798.htm) - 12:45 22/07/2025
+- 🎡 [HLV U23 Indonesia thẳng thắn nhận xét về U23 Việt Nam](https://dantri.com.vn/the-thao/hlv-u23-indonesia-thang-than-nhan-xet-ve-u23-viet-nam-20250722193535798.htm) - 13:01 22/07/2025
+- 💯 [U23 Việt Nam 1-0 U23 Campuchia &lpar;hiệp 1&rpar;: Lý Đức đánh đầu ghi bàn](https://dantri.com.vn/the-thao/u23-viet-nam-1-0-u23-campuchia-hiep-1-ly-duc-danh-dau-ghi-ban-20250722195050381.htm) - 12:51 22/07/2025
 - ⛽️ [HLV Kim Sang Sik nhận tin vui trước trận U23 Việt Nam đối đầu U23 Campuchia](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-nhan-tin-vui-truoc-tran-u23-viet-nam-doi-dau-u23-campuchia-20250722153302762.htm) - 08:39 22/07/2025
 - 💃 [FIFA &quot;án binh bất động&quot; về vụ cầu thủ nhập tịch Malaysia bị tố gian lận](https://dantri.com.vn/the-thao/fifa-an-binh-bat-dong-ve-vu-cau-thu-nhap-tich-malaysia-bi-to-gian-lan-20250722134045997.htm) - 07:39 22/07/2025
 - 🌈 [AFC lên tiếng về vụ tuyển Malaysia có thể bị cấm thi đấu quốc tế](https://dantri.com.vn/the-thao/afc-len-tieng-ve-vu-tuyen-malaysia-co-the-bi-cam-thi-dau-quoc-te-20250722141950843.htm) - 07:20 22/07/2025
