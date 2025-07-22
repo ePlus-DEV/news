@@ -18,7 +18,7 @@ sidebar_position: 1
 - 🦒 [Việt Nam - Singapore thúc đẩy hợp tác quốc phòng toàn diện](https://vnexpress.net/viet-nam-singapore-thuc-day-hop-tac-quoc-phong-toan-dien-4917347.html) - 04:43 22/07/2025
 - 🤗 [Phố phường Hà Nội thưa vắng ngày bão Wipha đổ bộ](https://vnexpress.net/pho-phuong-ha-noi-thua-vang-ngay-bao-wipha-do-bo-4917278.html) - 03:28 22/07/2025
 - 💼 [Người đàn ông hôn mê trong bãi cỏ sau 4 ngày mất tích](https://vnexpress.net/nguoi-dan-ong-hon-me-trong-bai-co-sau-4-ngay-mat-tich-4917241.html) - 02:58 22/07/2025
-- 🤩 [Bão Wipha có thể gây giông lốc lớn ở Hà Nội](https://vnexpress.net/truc-tiep-bao-wipha-4917181.html) - 01:00 22/07/2025
+- 🤩 [7 tiếng bão Wipha đổ bộ miền Bắc](https://vnexpress.net/truc-tiep-bao-wipha-4917181.html) - 01:00 22/07/2025
 - 🤡 [Bão sẽ đổ bộ Hưng Yên - Ninh Bình sáng nay](https://vnexpress.net/bao-se-do-bo-hung-yen-ninh-binh-sang-nay-4917173.html) - 23:21 21/07/2025
 - 💯 [Hà Nội di dân khỏi chung cư nguy hiểm](https://vnexpress.net/ha-noi-di-dan-khoi-chung-cu-nguy-hiem-4917157.html) - 17:55 21/07/2025
 - 👺 [Chính phủ ra Nghị quyết gỡ vướng hai dự án trọng điểm ở TP HCM](https://vnexpress.net/chinh-phu-ra-nghi-quyet-go-vuong-hai-du-an-trong-diem-o-tp-hcm-4917144.html) - 17:00 21/07/2025
