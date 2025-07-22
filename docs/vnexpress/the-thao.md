@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Arsenal mua tiền đạo gần 90 triệu USD](https://vnexpress.net/arsenal-mua-tien-dao-gan-90-trieu-usd-4917630.html) - 14:16 22/07/2025
-- 🦩 [U23 Việt Nam 1-1 Campuchia &lpar;H2&rpar;: Phung phí nhiều cơ hội](https://vnexpress.net/u23-viet-nam-v-u23-campuchia-4917544.html) - 12:33 22/07/2025
+- 🦩 [Hạ Campuchia, Việt Nam vào bán kết U23 Đông Nam Á 2025](https://vnexpress.net/u23-viet-nam-v-u23-campuchia-4917544.html) - 12:33 22/07/2025
 - 🧰 [Yến Thư: &#39;Tôi không sợ và cũng không nản lòng&#39;](https://vnexpress.net/yen-thu-toi-khong-so-va-cung-khong-nan-long-4917210.html) - 10:30 22/07/2025
 - 🤗 [Những diễn biến bất ngờ tại VnExpress Marathon Đà Nẵng 2025](https://vnexpress.net/dien-bien-vm-da-nang-2025-4917398.html) - 09:00 22/07/2025
 - 🥳 [Tuổi 45 kiên cường của Venus Williams](https://vnexpress.net/tuoi-45-kien-cuong-cua-venus-williams-4917473.html) - 08:30 22/07/2025
