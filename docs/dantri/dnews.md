@@ -4,7 +4,7 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Người trở về sau thảm họa lật tàu Hạ Long: Gánh nặng tâm hồn không dễ nguôi](https://dantri.com.vn/doi-song/nguoi-tro-ve-sau-tham-hoa-lat-tau-ha-long-ganh-nang-tam-hon-khong-de-nguoi-20250721154809896.htm) - 22:17 21/07/2025
+- 🤠 [Người sống sót vụ lật tàu Hạ Long: Tiếng khóc lặng dần, nỗi đau mới bắt đầu](https://dantri.com.vn/doi-song/nguoi-song-sot-vu-lat-tau-ha-long-tieng-khoc-lang-dan-noi-dau-moi-bat-dau-20250721154809896.htm) - 22:17 21/07/2025
 - 🌈 [Lo sợ &quot;kịch bản Yagi&quot;, người dân Hải Phòng vội đi tránh bão](https://dantri.com.vn/xa-hoi/lo-so-kich-ban-yagi-nguoi-dan-hai-phong-voi-di-tranh-bao-20250721230741626.htm) - 16:49 21/07/2025
 - 🐎 [Phó Thủ tướng Nguyễn Hòa Bình thăm, tặng quà người có công tại Thanh Hóa](https://dantri.com.vn/lao-dong-viec-lam/pho-thu-tuong-nguyen-hoa-binh-tham-tang-qua-nguoi-co-cong-tai-thanh-hoa-20250721222038690.htm) - 16:17 21/07/2025
 - 👹 [Thường trực Ban Bí thư thăm, tặng quà người có công tại Đà Nẵng](https://dantri.com.vn/lao-dong-viec-lam/thuong-truc-ban-bi-thu-tham-tang-qua-nguoi-co-cong-tai-da-nang-20250721174326007.htm) - 11:33 21/07/2025
