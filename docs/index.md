@@ -26,7 +26,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo VnExpress
 <!-- vnexpress:START -->
-- 🚀 [Cháy kho phế liệu rộng 1.000 m2 ở TP HCM](https://vnexpress.net/chay-kho-phe-lieu-rong-1-000-m2-o-tp-hcm-4917644.html) - 15:34 22/07/2025
+- 🚀 [Cháy kho phế liệu trong khu dân cư ở TP HCM](https://vnexpress.net/chay-kho-phe-lieu-trong-khu-dan-cu-o-tp-hcm-4917644.html) - 15:34 22/07/2025
 - 🧰 [Bộ trưởng Giáo dục Thái Lan gây tranh cãi vì mặc quần jean rách](https://vnexpress.net/bo-truong-giao-duc-thai-lan-gay-tranh-cai-vi-mac-quan-jean-rach-4917600.html) - 15:20 22/07/2025
 - 🥰 [Công chức sẽ được trả lương theo vị trí việc làm trước tháng 7/2027](https://vnexpress.net/cong-chuc-se-duoc-tra-luong-theo-vi-tri-viec-lam-truoc-thang-7-2027-4917625.html) - 15:17 22/07/2025
 - 🌏 [Phi cơ Ấn Độ cháy máy phát điện khi vừa hạ cánh](https://vnexpress.net/phi-co-an-do-chay-may-phat-dien-khi-vua-ha-canh-4917626.html) - 15:07 22/07/2025
