@@ -5,8 +5,8 @@ sidebar_position: 16
 
 <!-- dantri-su-kien:START -->
 - 🎭 [Bão số 4 có tên Cỏ May hình thành trên Biển Đông](https://dantri.com.vn/xa-hoi/bao-so-4-co-ten-co-may-hinh-thanh-tren-bien-dong-20250723204707190.htm) - 13:55 23/07/2025
-- 👨‍🏫 [Ukraine công bố thương vong của Nga trong chiến dịch Kursk](https://dantri.com.vn/the-gioi/ukraine-cong-bo-thuong-vong-cua-nga-trong-chien-dich-kursk-20250723200553047.htm) - 13:13 23/07/2025
-- 🌮 [Giám đốc Công an TPHCM Mai Hoàng được thăng hàm Trung tướng](https://dantri.com.vn/xa-hoi/giam-doc-cong-an-tphcm-mai-hoang-duoc-thang-ham-trung-tuong-20250723183327619.htm) - 13:00 23/07/2025
+- 👨‍🏫 [Chủ tịch UBND TPHCM thăm thương, bệnh binh, người có công với cách mạng](https://dantri.com.vn/xa-hoi/chu-tich-ubnd-tphcm-tham-thuong-benh-binh-nguoi-co-cong-voi-cach-mang-20250723202312257.htm) - 13:32 23/07/2025
+- 🌮 [Ukraine công bố thương vong của Nga trong chiến dịch Kursk](https://dantri.com.vn/the-gioi/ukraine-cong-bo-thuong-vong-cua-nga-trong-chien-dich-kursk-20250723200553047.htm) - 13:13 23/07/2025
 - 🕯 [Uống nước nhớ nguồn](https://dantri.com.vn/xa-hoi/uong-nuoc-nho-nguon-20250723195553103.htm) - 12:56 23/07/2025
 - 🪜 [Người dân Nhôn Mai sau lũ quét, sạt lở: &quot;Không còn đường về nhà nữa rồi&quot;](https://dantri.com.vn/xa-hoi/nguoi-dan-nhon-mai-sau-lu-quet-sat-lo-khong-con-duong-ve-nha-nua-roi-20250723183126863.htm) - 12:15 23/07/2025
 - 🐘 [Thêm nhiều trường công bố điểm sàn, có ngành &quot;hot&quot; thấp bất ngờ](https://dantri.com.vn/giao-duc/them-nhieu-truong-cong-bo-diem-san-co-nganh-hot-thap-bat-ngo-20250723184908346.htm) - 11:50 23/07/2025
