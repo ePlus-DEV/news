@@ -247,7 +247,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Công an TP HCM bắt nhà thiết kế  Nguyễn Công Trí](https://nld.com.vn/cong-an-tp-hcm-bat-nha-thiet-ke-nguyen-cong-tri-196250723143445223.htm) - 07:44 23/07/2025
-- 😺 [Công an Gia Lai khám xét nhiều địa điểm, bắt giữ 8 đối tượng](https://nld.com.vn/cong-an-gia-lai-kham-xet-nhieu-dia-diem-bat-giu-8-doi-tuong-196250723135742654.htm) - 07:42 23/07/2025
+- 😺 [Công an khám xét nhiều địa điểm, bắt giữ 8 đối tượng ở Gia Lai](https://nld.com.vn/cong-an-gia-lai-kham-xet-nhieu-dia-diem-bat-giu-8-doi-tuong-196250723135742654.htm) - 07:42 23/07/2025
 - 👍 [Kết quả xổ số hôm nay, 23-7: Đồng Nai, Cần Thơ, Sóc Trăng, Đà Nẵng, Khánh Hòa...](https://nld.com.vn/ket-qua-xo-so-hom-nay-23-7-dong-nai-can-tho-soc-trang-da-nang-khanh-hoa-196250723140558865.htm) - 07:39 23/07/2025
 - 🥷 [Messi dự World Cup 2026, LĐBĐ Argentina mở rộng tầm ảnh hưởng toàn cầu](https://nld.com.vn/messi-du-world-cup-2026-ldbd-argentina-mo-rong-tam-anh-huong-toan-cau-196250723133145254.htm) - 07:27 23/07/2025
 - 🤔 [Chiều 24-7, tư vấn trực tuyến: Điều chỉnh nguyện vọng để không trượt oan](https://nld.com.vn/chieu-24-7-tu-van-truc-tuyen-dieu-chinh-nguyen-vong-de-khong-truot-oan-196250723134243695.htm) - 06:53 23/07/2025
