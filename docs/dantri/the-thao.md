@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [U23 Malaysia bất ngờ bị tố cáo gian lận tuổi ở giải U23 Đông Nam Á](https://dantri.com.vn/the-thao/u23-malaysia-bat-ngo-bi-to-cao-gian-lan-tuoi-o-giai-u23-dong-nam-a-20250723190533596.htm) - 12:05 23/07/2025
+- 🎡 [U23 Malaysia bất ngờ bị tố cáo gian lận tuổi ở giải U23 Đông Nam Á](https://dantri.com.vn/the-thao/u23-malaysia-bat-ngo-bi-to-cao-gian-lan-tuoi-o-giai-u23-dong-nam-a-20250723190533596.htm) - 13:05 23/07/2025
 - 💯 [Dự kiến hơn 3.500 vận động viên tham gia sự kiện &quot;Multi-sport&quot; đầu tiên ở Quảng Trị](https://dantri.com.vn/the-thao/du-kien-hon-3500-van-dong-vien-tham-gia-su-kien-multi-sport-dau-tien-o-quang-tri-20250723181214821.htm) - 12:00 23/07/2025
 - ⛽️ [Nguyễn Thùy Linh lập cột mốc mới cho cầu lông Việt Nam](https://dantri.com.vn/the-thao/nguyen-thuy-linh-lap-cot-moc-moi-cho-cau-long-viet-nam-20250723180401038.htm) - 11:31 23/07/2025
 - 💃 [U23 Việt Nam bị phát hiện “do thám” đội chủ nhà U23 Indonesia](https://dantri.com.vn/the-thao/u23-viet-nam-bi-phat-hien-do-tham-doi-chu-nha-u23-indonesia-20250723160425893.htm) - 09:11 23/07/2025
