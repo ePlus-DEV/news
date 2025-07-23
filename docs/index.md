@@ -49,7 +49,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 👨‍🏫 [Nên chọn ghế lối đi hay cửa sổ trên máy bay?](https://vnexpress.net/nen-chon-ghe-loi-di-hay-cua-so-tren-may-bay-4917736.html) - 17:00 23/07/2025
 - 🐻 [Dàn sao phim &#39;Hà Nội mùa đông năm 46&#39; ngày ấy, bây giờ](https://vnexpress.net/dan-sao-phim-ha-noi-mua-dong-nam-46-ngay-ay-bay-gio-4917490.html) - 17:00 23/07/2025
 - 😺 [&#39;Chuyên Toán mà trượt đại học&#39;](https://vnexpress.net/chuyen-toan-ma-truot-dai-hoc-4917342.html) - 17:00 23/07/2025
-- 🤔 [Đồng loạt dỡ nhà để chỉnh trang bờ bắc kênh Đôi ở TP HCM](https://vnexpress.net/dong-loat-do-nha-de-chinh-trang-bo-bac-kenh-doi-o-tp-hcm-4917235.html) - 17:00 23/07/2025
+- 🤔 [Đồng loạt dỡ nhà để chỉnh trang bờ kênh Đôi ở TP HCM](https://vnexpress.net/dong-loat-do-nha-de-chinh-trang-bo-kenh-doi-o-tp-hcm-4917235.html) - 17:00 23/07/2025
 - 🌮 [Cung văn hóa thiếu nhi hiện đại nhất Thanh Hóa](https://vnexpress.net/cung-van-hoa-thieu-nhi-hien-dai-nhat-thanh-hoa-4915650.html) - 17:00 23/07/2025
 - 🦩 [Sneijder: &#39;Real sẽ bất khả chiến bại nếu hy sinh cái tôi&#39;](https://vnexpress.net/sneijder-real-se-bat-kha-chien-bai-neu-hy-sinh-cai-toi-4918031.html) - 17:00 23/07/2025
 - 📝 [Nữ diễn viên tăng 13 kg để hóa thân thành huyền thoại quyền Anh](https://vnexpress.net/nu-dien-vien-tang-13-kg-de-hoa-than-thanh-huyen-thoai-quyen-anh-4918094.html) - 17:00 23/07/2025
