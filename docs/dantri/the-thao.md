@@ -4,8 +4,8 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [HLV Mourinho dự đoán gây sốc về cuộc đua Quả bóng vàng](https://dantri.com.vn/the-thao/hlv-mourinho-du-doan-gay-soc-ve-cuoc-dua-qua-bong-vang-20250724200516138.htm) - 13:05 24/07/2025
-- 💯 [Báo Hàn Quốc nói điều bất ngờ về HLV Kim Sang Sik khi U23 Việt Nam đi tiếp](https://dantri.com.vn/the-thao/bao-han-quoc-noi-dieu-bat-ngo-ve-hlv-kim-sang-sik-khi-u23-viet-nam-di-tiep-20250724191028196.htm) - 12:10 24/07/2025
+- 🎡 [Báo Hàn Quốc nói điều bất ngờ về HLV Kim Sang Sik khi U23 Việt Nam đi tiếp](https://dantri.com.vn/the-thao/bao-han-quoc-noi-dieu-bat-ngo-ve-hlv-kim-sang-sik-khi-u23-viet-nam-di-tiep-20250724191028196.htm) - 13:10 24/07/2025
+- 💯 [HLV Mourinho dự đoán gây sốc về cuộc đua Quả bóng vàng](https://dantri.com.vn/the-thao/hlv-mourinho-du-doan-gay-soc-ve-cuoc-dua-qua-bong-vang-20250724200516138.htm) - 13:05 24/07/2025
 - ⛽️ [Chuyên gia: “U23 Việt Nam chưa thể hiện hết sức mạnh ở vòng bảng”](https://dantri.com.vn/the-thao/chuyen-gia-u23-viet-nam-chua-the-hien-het-suc-manh-o-vong-bang-20250724003518104.htm) - 12:00 24/07/2025
 - 💃 [Báo Philippines kỳ vọng vào đội nhà ở trận bán kết gặp U23 Việt Nam](https://dantri.com.vn/the-thao/bao-philippines-ky-vong-vao-doi-nha-o-tran-ban-ket-gap-u23-viet-nam-20250724124040850.htm) - 11:34 24/07/2025
 - 🌈 [Các đội MLP phản đối thương vụ Ben Johns thay thế Quang Dương](https://dantri.com.vn/the-thao/cac-doi-mlp-phan-doi-thuong-vu-ben-johns-thay-the-quang-duong-20250724155309502.htm) - 11:32 24/07/2025
