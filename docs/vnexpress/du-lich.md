@@ -6,7 +6,7 @@ sidebar_position: 11
 <!-- vnexpress-du-lich:START -->
 - 💂 [Thái Lan đóng các điểm du lịch gần biên giới Campuchia](https://vnexpress.net/thai-lan-dong-cac-diem-du-lich-gan-bien-gioi-campuchia-4918424.html) - 10:19 24/07/2025
 - 🪄 [Chả giò, chạo tôm trong danh sách &#39;món ăn vặt ngon nhất Việt Nam&#39;](https://vnexpress.net/cha-gio-chao-tom-trong-danh-sach-mon-an-vat-ngon-nhat-viet-nam-4918379.html) - 07:46 24/07/2025
-- 🦅 [Nguồn gốc hàng nghìn năm của cuốn hộ chiếu](https://vnexpress.net/nguon-goc-hang-nghin-nam-cua-cuon-ho-chieu-4918254.html) - 07:38 24/07/2025
+- 🦅 [Nguồn gốc hàng nghìn năm của hộ chiếu](https://vnexpress.net/nguon-goc-hang-nghin-nam-cua-ho-chieu-4918254.html) - 07:38 24/07/2025
 - 🕴 [Lễ hội tình dục ở Anh gây bức xúc](https://vnexpress.net/le-hoi-tinh-duc-o-anh-gay-buc-xuc-4918252.html) - 05:12 24/07/2025
 - 👀 [Khách hủy, hoãn thăm vịnh sau vụ lật tàu Hạ Long](https://vnexpress.net/khach-huy-hoan-tham-vinh-sau-vu-lat-tau-ha-long-4917698.html) - 04:56 24/07/2025
 - 🎭 [Thái Lan công bố chiến lược &#39;phục thù&#39; du lịch năm 2026](https://vnexpress.net/thai-lan-cong-bo-chien-luoc-phuc-thu-du-lich-nam-2026-4917944.html) - 03:06 24/07/2025
