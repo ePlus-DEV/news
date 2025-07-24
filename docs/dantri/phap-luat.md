@@ -5,7 +5,7 @@ sidebar_position: 8
 
 <!-- dantri-phap-luat:START -->
 - 🌊 [Sát hại anh vợ sau cuộc nhậu](https://dantri.com.vn/phap-luat/sat-hai-anh-vo-sau-cuoc-nhau-20250724180254048.htm) - 11:19 24/07/2025
-- 🐲 [Tin tưởng &quot;đánh đâu thắng đó&quot;, 2 nhà đầu tư bị lừa 15 tỷ đồng.](https://dantri.com.vn/phap-luat/tin-tuong-danh-dau-thang-do-2-nha-dau-tu-bi-lua-15-ty-dong-20250724181420230.htm) - 11:17 24/07/2025
+- 🐲 [Tin tưởng &quot;đánh đâu thắng đó&quot;, 2 nhà đầu tư bị lừa 15 tỷ đồng](https://dantri.com.vn/phap-luat/tin-tuong-danh-dau-thang-do-2-nha-dau-tu-bi-lua-15-ty-dong-20250724181420230.htm) - 11:17 24/07/2025
 - 🌁 [Người phụ nữ ở Hà Nội mất 1,5 tỷ đồng khi thanh toán món hàng 10.000 đồng](https://dantri.com.vn/phap-luat/nguoi-phu-nu-o-ha-noi-mat-15-ty-dong-khi-thanh-toan-mon-hang-10000-dong-20250724180756501.htm) - 11:11 24/07/2025
 - 🎃 [Cựu Phó chủ tịch UBND tỉnh Đồng Nai Võ Văn Chánh lĩnh 2 năm tù](https://dantri.com.vn/phap-luat/cuu-pho-chu-tich-ubnd-tinh-dong-nai-vo-van-chanh-linh-2-nam-tu-20250724171523003.htm) - 10:45 24/07/2025
 - 🦅 [Vợ phát hiện chồng tử vong tại công trình làm đường ở TPHCM](https://dantri.com.vn/phap-luat/vo-phat-hien-chong-tu-vong-tai-cong-trinh-lam-duong-o-tphcm-20250724164804678.htm) - 10:03 24/07/2025
