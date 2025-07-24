@@ -4,12 +4,12 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [HLV U23 Philippines tuyên bố đã “bắt bài” U23 Việt Nam](https://dantri.com.vn/the-thao/hlv-u23-philippines-tuyen-bo-da-bat-bai-u23-viet-nam-20250724141610577.htm) - 07:56 24/07/2025
-- 💯 [HLV Kim Sang Sik nhận diện U23 Philippines, tuyên bố U23 Việt Nam sẽ thắng](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-nhan-dien-u23-philippines-tuyen-bo-u23-viet-nam-se-thang-20250724134628392.htm) - 06:49 24/07/2025
-- ⛽️ [HLV Malaysia tuyên bố mạnh mẽ về cáo buộc đội nhà nhập tịch trái phép](https://dantri.com.vn/the-thao/hlv-malaysia-tuyen-bo-manh-me-ve-cao-buoc-doi-nha-nhap-tich-trai-phep-20250724120757951.htm) - 05:13 24/07/2025
-- 💃 [Câu lạc bộ Bowling cho người khuyết tật đầu tiên tại Việt Nam](https://dantri.com.vn/the-thao/cau-lac-bo-bowling-cho-nguoi-khuyet-tat-dau-tien-tai-viet-nam-20250718184041524.htm) - 05:00 24/07/2025
-- 🌈 [Bất ngờ với CLB bán vé đắt nhất ở giải Ngoại hạng Anh](https://dantri.com.vn/the-thao/bat-ngo-voi-clb-ban-ve-dat-nhat-o-giai-ngoai-hang-anh-20250724100016429.htm) - 03:01 24/07/2025
-- 🦅 [Chuyên gia: “U23 Việt Nam chưa thể hiện hết sức mạnh ở vòng bảng”](https://dantri.com.vn/the-thao/chuyen-gia-u23-viet-nam-chua-the-hien-het-suc-manh-o-vong-bang-20250724003518104.htm) - 03:00 24/07/2025
+- 🎡 [Chuyên gia: “U23 Việt Nam chưa thể hiện hết sức mạnh ở vòng bảng”](https://dantri.com.vn/the-thao/chuyen-gia-u23-viet-nam-chua-the-hien-het-suc-manh-o-vong-bang-20250724003518104.htm) - 08:00 24/07/2025
+- 💯 [HLV U23 Philippines tuyên bố đã “bắt bài” U23 Việt Nam](https://dantri.com.vn/the-thao/hlv-u23-philippines-tuyen-bo-da-bat-bai-u23-viet-nam-20250724141610577.htm) - 07:56 24/07/2025
+- ⛽️ [HLV Kim Sang Sik nhận diện U23 Philippines, tuyên bố U23 Việt Nam sẽ thắng](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-nhan-dien-u23-philippines-tuyen-bo-u23-viet-nam-se-thang-20250724134628392.htm) - 06:49 24/07/2025
+- 💃 [HLV Malaysia tuyên bố mạnh mẽ về cáo buộc đội nhà nhập tịch trái phép](https://dantri.com.vn/the-thao/hlv-malaysia-tuyen-bo-manh-me-ve-cao-buoc-doi-nha-nhap-tich-trai-phep-20250724120757951.htm) - 05:13 24/07/2025
+- 🌈 [Câu lạc bộ Bowling cho người khuyết tật đầu tiên tại Việt Nam](https://dantri.com.vn/the-thao/cau-lac-bo-bowling-cho-nguoi-khuyet-tat-dau-tien-tai-viet-nam-20250718184041524.htm) - 05:00 24/07/2025
+- 🦅 [Bất ngờ với CLB bán vé đắt nhất ở giải Ngoại hạng Anh](https://dantri.com.vn/the-thao/bat-ngo-voi-clb-ban-ve-dat-nhat-o-giai-ngoai-hang-anh-20250724100016429.htm) - 03:01 24/07/2025
 - 🌝 [Carlos Alcaraz thể hiện quyết tâm vô địch US Open 2025](https://dantri.com.vn/the-thao/carlos-alcaraz-the-hien-quyet-tam-vo-dich-us-open-2025-20250724084036005.htm) - 01:44 24/07/2025
 - 🚀 [Marcus Rashford được trao số áo của huyền thoại Thierry Henry ở Barcelona](https://dantri.com.vn/the-thao/marcus-rashford-duoc-trao-so-ao-cua-huyen-thoai-thierry-henry-o-barcelona-20250724082954079.htm) - 01:37 24/07/2025
 - 🎉 [U23 Việt Nam lọt vào bán kết: Sự thật phũ phàng, nặng gánh âu lo](https://dantri.com.vn/the-thao/u23-viet-nam-lot-vao-ban-ket-su-that-phu-phang-nang-ganh-au-lo-20250723233756541.htm) - 23:17 23/07/2025
