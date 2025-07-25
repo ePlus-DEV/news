@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [41.000 người đã nhận tiền trợ cấp thôi việc do tinh gọn bộ máy](https://vnexpress.net/41-000-nguoi-da-nhan-tien-tro-cap-thoi-viec-do-tinh-gon-bo-may-4918665.html) - 07:04 25/07/2025
-- 🤓 [Hiện trường vụ lật xe khách khiến 10 người tử vong](https://vnexpress.net/hien-truong-vu-lat-xe-khach-khien-10-nguoi-tu-vong-4918781.html) - 04:43 25/07/2025
+- 🤓 [Hiện trường vụ lật xe khách khiến 10 người tử vong](https://vnexpress.net/hien-truong-xe-khach-lat-khien-10-nguoi-tu-vong-4918781.html) - 04:43 25/07/2025
 - ⚗️ [Đề xuất tổng công trình sư hưởng lương tương đương bộ trưởng](https://vnexpress.net/de-xuat-tong-cong-trinh-su-huong-luong-tuong-duong-bo-truong-4918711.html) - 04:26 25/07/2025
 - 🌊 [Cây cao 20 m bật rễ, chực đổ vào nhà dân ở TP HCM](https://vnexpress.net/cay-cao-20-m-bat-re-chuc-do-vao-nha-dan-o-tp-hcm-4918697.html) - 02:48 25/07/2025
 - 🎓 [Khởi động cuộc thi Vietnam Vibes: dấu ấn Việt Nam qua ảnh và video](https://vnexpress.net/khoi-dong-cuoc-thi-vietnam-vibes-dau-an-viet-nam-qua-anh-va-video-4916277.html) - 01:07 25/07/2025
@@ -13,7 +13,7 @@ sidebar_position: 1
 - 🦏 [Xác lợn trôi trên sông ở Quảng Trị](https://vnexpress.net/xac-lon-troi-tren-song-o-quang-tri-4918537.html) - 00:00 25/07/2025
 - 👺 [Đường ven sông đi qua nhà cổ sau 5 năm xây dựng](https://vnexpress.net/duong-ven-song-di-qua-nha-co-sau-5-nam-xay-dung-4917634.html) - 23:00 24/07/2025
 - 🧑‍🏫 [Hai kỹ sư dành gần 10 năm tìm kiếm hài cốt liệt sĩ](https://vnexpress.net/hai-ky-su-danh-gan-10-nam-tim-kiem-hai-cot-liet-si-4918614.html) - 22:30 24/07/2025
-- 🚦 [Nhiều ngôi nhà bị cuốn trôi do sạt lở đất](https://vnexpress.net/nhieu-ngoi-nha-bi-cuon-troi-do-sat-lo-dat-4918589.html) - 17:00 24/07/2025
+- 🚦 [Lở núi vùi lấp nhiều nhà dân](https://vnexpress.net/lo-nui-vui-lap-nhieu-nha-dan-4918589.html) - 17:00 24/07/2025
 - 🎉 [Cứu du khách nước ngoài đi lạc trên núi ở Khánh Hòa](https://vnexpress.net/cuu-du-khach-nuoc-ngoai-di-lac-tren-nui-o-khanh-hoa-4918607.html) - 15:55 24/07/2025
 - 🦒 [Ôtô chở 19 sinh viên bị lật](https://vnexpress.net/oto-cho-19-sinh-vien-bi-lat-4918605.html) - 15:41 24/07/2025
 - 🤗 [Thanh niên ở Huế được tuyên dương vì cứu người đuối nước](https://vnexpress.net/thanh-nien-o-hue-duoc-tuyen-duong-vi-cuu-nguoi-duoi-nuoc-4918596.html) - 15:03 24/07/2025
