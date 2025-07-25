@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Hai ngày căng thẳng ở biên giới Campuchia - Thái Lan](https://vnexpress.net/hai-ngay-cang-thang-o-bien-gioi-campuchia-thai-lan-4919003.html) - 12:31 25/07/2025
+- 🎭 [Hai ngày hỗn loạn ở biên giới Campuchia - Thái Lan](https://vnexpress.net/hai-ngay-hon-loan-o-bien-gioi-campuchia-thai-lan-4919003.html) - 12:31 25/07/2025
 - 🕴 [Vai trò của ASEAN trong tìm giải pháp cho xung đột Campuchia - Thái Lan](https://vnexpress.net/vai-tro-cua-asean-trong-tim-giai-phap-cho-xung-dot-campuchia-thai-lan-4918654.html) - 12:00 25/07/2025
 - 🤭 [Việt Nam bàn giao hài cốt lính Mỹ](https://vnexpress.net/viet-nam-ban-giao-hai-cot-linh-my-4919024.html) - 11:21 25/07/2025
 - 🧑‍💻 [Việt Nam khuyến cáo công dân về căng thẳng Campuchia - Thái Lan](https://vnexpress.net/viet-nam-khuyen-cao-cong-dan-ve-cang-thang-campuchia-thai-lan-4918982.html) - 09:53 25/07/2025
