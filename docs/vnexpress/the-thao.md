@@ -9,7 +9,7 @@ sidebar_position: 5
 - 🧰 [HLV Kim: &#39;U23 Việt Nam sẽ vô địch, dù đối thủ là ai&#39;](https://vnexpress.net/hlv-kim-u23-viet-nam-se-vo-dich-du-doi-thu-la-ai-4919052.html) - 13:05 25/07/2025
 - 🤗 [Việt Nam thắng Thái Lan, vào chung kết cầu mây thế giới](https://vnexpress.net/viet-nam-thang-thai-lan-vao-chung-ket-cau-may-the-gioi-4919050.html) - 12:46 25/07/2025
 - 🥳 [HLV Kim quỳ gối khi cầu thủ Việt Nam phung phí cơ hội](https://vnexpress.net/hlv-kim-quy-goi-khi-cau-thu-viet-nam-phung-phi-co-hoi-4919047.html) - 12:24 25/07/2025
-- 🦣 [Indonesia 0-1 Thái Lan &lpar;H2&rpar;: Phản công sắc nét](https://vnexpress.net/truc-tiep-u23-indonesia-vs-thai-lan-4919051.html) - 12:23 25/07/2025
+- 🦣 [Indonesia 1-1 Thái Lan &lpar;hiệp phụ 2&rpar;: Hai đội thận trọng](https://vnexpress.net/truc-tiep-u23-indonesia-vs-thai-lan-4919051.html) - 12:23 25/07/2025
 - 🌜 [Pirlo kiếm được việc mới ở UAE](https://vnexpress.net/pirlo-kiem-duoc-viec-moi-o-uae-4918976.html) - 11:41 25/07/2025
 - 🫶 [Tác phẩm bằng AI về Messi có giá gần 2 triệu USD](https://vnexpress.net/tac-pham-bang-ai-ve-messi-co-gia-gan-2-trieu-usd-4918945.html) - 08:51 25/07/2025
 - 🌜 [Việt Nam lần thứ ba liên tiếp vào chung kết U23 Đông Nam Á](https://vnexpress.net/u23-viet-nam-v-u23-philippines-4918928.html) - 08:31 25/07/2025
