@@ -4,63 +4,63 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Phương Mỹ Chi so tài cùng ba ca sĩ châu Á](https://vnexpress.net/phuong-my-chi-so-tai-cung-ba-ca-si-chau-a-4918335.html) - 06:11 25/07/2025
-- 💫 [AI gây chia rẽ giới xuất bản](https://vnexpress.net/ai-gay-chia-re-gioi-xuat-ban-4917906.html) - 04:43 25/07/2025
-- 🌮 [Váy áo tôn đường cong của con gái Steve Jobs](https://vnexpress.net/vay-ao-ton-duong-cong-cua-con-gai-steve-jobs-4918294.html) - 02:56 25/07/2025
-- 🧠 [Biểu tượng thỏ #FR2 trên đồng hồ Franck Muller Vanguard Beach](https://vnexpress.net/bieu-tuong-tho-fr2-tren-dong-ho-franck-muller-vanguard-beach-4917191.html) - 02:00 25/07/2025
-- 👨‍🏫 [&#39;Conan&#39; - sức hút qua ba thập niên](https://vnexpress.net/conan-suc-hut-qua-ba-thap-nien-4917212.html) - 17:00 24/07/2025
-- ⚗️ [Diễn viên Lan Phương ly thân chồng](https://vnexpress.net/dien-vien-lan-phuong-ly-than-chong-4918585.html) - 14:59 24/07/2025
-- 😎 [Dustin Nguyễn tái xuất màn ảnh rộng](https://vnexpress.net/dustin-nguyen-tai-xuat-man-anh-rong-4918510.html) - 13:14 24/07/2025
-- 🫣 [Người tình kể về đêm Lý Tiểu Long qua đời](https://vnexpress.net/nguoi-tinh-ke-ve-dem-ly-tieu-long-qua-doi-4918437.html) - 13:00 24/07/2025
-- 🪄 [&#39;Kiss Cam ở concert Coldplay&#39; dấy lên vấn đề quyền riêng tư](https://vnexpress.net/kiss-cam-o-concert-coldplay-day-len-van-de-quyen-rieng-tu-4917837.html) - 12:00 24/07/2025
-- 🤓 [Truyện ngắn về nỗi đau thời hậu chiến đoạt giải báo Văn Nghệ](https://vnexpress.net/truyen-ngan-ve-noi-dau-thoi-hau-chien-doat-giai-bao-van-nghe-4918369.html) - 12:00 24/07/2025
-- 🫶 [Binz, Mono tham gia show nhập vai chiến sĩ công an](https://vnexpress.net/binz-mono-tham-gia-show-nhap-vai-chien-si-cong-an-4918481.html) - 09:28 24/07/2025
-- 🧑‍🏫 [&#39;Bài học môn hóa&#39; - nội trợ là công việc phi thường](https://vnexpress.net/bai-hoc-mon-hoa-noi-tro-la-cong-viec-phi-thuong-4913887.html) - 09:14 24/07/2025
-- 🦄 [10 nhà thiết kế làm trang phục cảm hứng yêu nước](https://vnexpress.net/10-nha-thiet-ke-lam-trang-phuc-cam-hung-yeu-nuoc-4914660.html) - 08:31 24/07/2025
-- 💫 [Con gái 15 tuổi của Triệu Vy](https://vnexpress.net/con-gai-15-tuoi-cua-trieu-vy-4918395.html) - 07:30 24/07/2025
-- 🎊 [Á hậu Châu Anh: &#39;Tôi rèn sống kỷ luật&#39;](https://vnexpress.net/a-hau-chau-anh-toi-ren-song-ky-luat-4914705.html) - 04:55 24/07/2025
-- 👹 [Cô gái 18 tuổi đóng chính phim của Thư Kỳ](https://vnexpress.net/co-gai-18-tuoi-dong-chinh-phim-cua-thu-ky-4918280.html) - 04:15 24/07/2025
-- 💻 [Mỹ nam Trung Quốc xin lỗi vì &#39;bắt cá hai tay&#39;](https://vnexpress.net/my-nam-trung-quoc-xin-loi-vi-bat-ca-hai-tay-4918234.html) - 03:44 24/07/2025
-- 🤡 [Dàn sao xem 400 cổ vật gốm của Chi Bảo](https://vnexpress.net/dan-sao-xem-400-co-vat-gom-cua-chi-bao-4917632.html) - 03:09 24/07/2025
-- 🥰 [Cựu binh khóc khi xem phim về cuộc chiến Quảng Trị](https://vnexpress.net/cuu-binh-khoc-khi-xem-phim-ve-cuoc-chien-quang-tri-4918147.html) - 02:16 24/07/2025
-- 🚀 [Hồng Diễm - gương mặt chuyên đóng vai khổ](https://vnexpress.net/hong-diem-guong-mat-chuyen-dong-vai-kho-4916376.html) - 01:06 24/07/2025
-- 📝 [Dàn sao phim &#39;Hà Nội mùa đông năm 46&#39; ngày ấy, bây giờ](https://vnexpress.net/dan-sao-phim-ha-noi-mua-dong-nam-46-ngay-ay-bay-gio-4917490.html) - 17:00 23/07/2025
-- 🐲 [Chuyện tình mỹ nam Hàn và người vợ Nhật](https://vnexpress.net/chuyen-tinh-my-nam-han-va-nguoi-vo-nhat-4918105.html) - 14:45 23/07/2025
-- 🎃 [Sắc vóc &#39;Cô nàng lắm chiêu&#39; Lindsay Lohan](https://vnexpress.net/sac-voc-co-nang-lam-chieu-lindsay-lohan-4916942.html) - 13:30 23/07/2025
-- 🤠 [Fan ngạc nhiên khi thấy Angelina Jolie đi máy bay thương mại](https://vnexpress.net/fan-ngac-nhien-khi-thay-angelina-jolie-di-may-bay-thuong-mai-4918073.html) - 12:02 23/07/2025
-- 🎭 [Vẻ rạng rỡ của &#39;Hoàng Dung&#39; Chu Nhân](https://vnexpress.net/ve-rang-ro-cua-hoang-dung-chu-nhan-4917847.html) - 08:00 23/07/2025
-- 🧰 [Đỗ Mỹ Linh cùng chồng &#39;nắm tay đi muôn nơi&#39;](https://vnexpress.net/do-my-linh-cung-chong-nam-tay-di-muon-noi-4916815.html) - 03:37 23/07/2025
-- 🦍 [Huyền thoại rock Ozzy Osbourne qua đời](https://vnexpress.net/huyen-thoai-rock-ozzy-osbourne-qua-doi-4917700.html) - 02:11 23/07/2025
-- 🌝 [Phim đầu tay của Thư Kỳ tranh giải LHP Venice](https://vnexpress.net/phim-dau-tay-cua-thu-ky-tranh-giai-lhp-venice-4917701.html) - 01:40 23/07/2025
-- 🧑‍💻 [Diện mạo rạp xiếc và biểu diễn đa năng gần 1.400 tỷ đồng](https://vnexpress.net/dien-mao-rap-xiec-va-bieu-dien-da-nang-gan-1-400-ty-dong-4917558.html) - 22:00 22/07/2025
-- 🥸 [Huỳnh Văn Nghệ - &#39;thi tướng rừng xanh&#39;](https://vnexpress.net/huynh-van-nghe-thi-tuong-rung-xanh-4917511.html) - 17:05 22/07/2025
-- 🔥 [Ảnh khắc họa Sài Gòn - Chợ Lớn 100 năm trước](https://vnexpress.net/anh-khac-hoa-sai-gon-cho-lon-100-nam-truoc-4917543.html) - 17:00 22/07/2025
-- 🐎 [Thời trang mùa hè của Dakota Johnson](https://vnexpress.net/thoi-trang-mua-he-cua-dakota-johnson-4917320.html) - 13:30 22/07/2025
-- 😎 [Kho túi xa xỉ của vợ tỷ phú Jeff Bezos](https://vnexpress.net/kho-tui-xa-xi-cua-vo-ty-phu-jeff-bezos-4917417.html) - 12:00 22/07/2025
-- 🦄 [Trung Quốc cấm phim lịch sử &#39;tung võ như thần&#39;](https://vnexpress.net/trung-quoc-cam-phim-lich-su-tung-vo-nhu-than-4917475.html) - 09:45 22/07/2025
-- 🌜 [Katie Holmes tái ngộ tình đầu](https://vnexpress.net/katie-holmes-tai-ngo-tinh-dau-4917333.html) - 08:36 22/07/2025
-- 🚦 [Vẻ đẹp bóng hồng phim Lý Liên Kiệt qua thời gian](https://vnexpress.net/ve-dep-bong-hong-phim-ly-lien-kiet-qua-thoi-gian-4917412.html) - 08:33 22/07/2025
-- 🧐 [Váy áo họa tiết hoa muống biển, pháo hoa](https://vnexpress.net/vay-ao-hoa-tiet-hoa-muong-bien-phao-hoa-4917152.html) - 04:03 22/07/2025
-- 🐵 [Netflix lần đầu dùng AI sản xuất phim](https://vnexpress.net/netflix-lan-dau-dung-ai-san-xuat-phim-4917033.html) - 03:27 22/07/2025
-- ⚗️ [Tài tử &#39;Đường Bá Hổ điểm Thu Hương&#39; ốm đau, cô độc](https://vnexpress.net/tai-tu-duong-ba-ho-diem-thu-huong-om-dau-co-doc-4917236.html) - 02:46 22/07/2025
-- 👺 [Trọng Hiếu ra MV phong cách thập niên 2000](https://vnexpress.net/trong-hieu-ra-mv-phong-cach-thap-nien-2000-4916122.html) - 02:38 22/07/2025
-- 🌊 [Vần thơ tưởng nhớ nghệ sĩ Lê Thiết Cương](https://vnexpress.net/van-tho-tuong-nho-nghe-si-le-thiet-cuong-4917150.html) - 00:58 22/07/2025
-- 🪜 [&#39;Hai Lúa&#39; Thanh Nam làm giám khảo &#39;Chuông vàng vọng cổ&#39;](https://vnexpress.net/hai-lua-thanh-nam-lam-giam-khao-chuong-vang-vong-co-4917126.html) - 23:56 21/07/2025
-- 🕴 [Lee Byung Hun - tài năng xóa nhòa tai tiếng](https://vnexpress.net/lee-byung-hun-tai-nang-xoa-nhoa-tai-tieng-4915828.html) - 17:00 21/07/2025
-- 💃 [Dàn diễn viên &#39;Vua bãi rác&#39; ngày ấy, bây giờ](https://vnexpress.net/dan-dien-vien-vua-bai-rac-ngay-ay-bay-gio-4913998.html) - 13:51 21/07/2025
-- 🦄 [Nhan sắc thời trẻ của siêu mẫu giàu nhất thế giới](https://vnexpress.net/nhan-sac-thoi-tre-cua-sieu-mau-giau-nhat-the-gioi-4916812.html) - 12:00 21/07/2025
-- ⛽️ [&#39;Quách Tương đẹp nhất Thần điêu đại hiệp&#39; không ngại nếp nhăn](https://vnexpress.net/quach-tuong-dep-nhat-than-dieu-dai-hiep-khong-ngai-nep-nhan-4916935.html) - 08:36 21/07/2025
-- 😎 [Sao diện đầm sắc xanh dự show bên bờ sông Hàn](https://vnexpress.net/sao-dien-dam-sac-xanh-du-show-ben-bo-song-han-4916799.html) - 07:51 21/07/2025
-- 🌊 [&#39;Superman&#39; giúp hãng DC lấy lại vị thế phòng vé](https://vnexpress.net/superman-giup-hang-dc-lay-lai-vi-the-phong-ve-4916715.html) - 07:21 21/07/2025
-- 🐲 [Tiễn biệt nghệ sĩ Lê Thiết Cương](https://vnexpress.net/tien-biet-nghe-si-le-thiet-cuong-4916903.html) - 05:44 21/07/2025
-- 💂 [Selena Gomez đón sinh nhật cùng Taylor Swift](https://vnexpress.net/selena-gomez-don-sinh-nhat-cung-taylor-swift-4916737.html) - 04:37 21/07/2025
-- 🙉 [Phương Ly - ca sĩ đa màu sắc](https://vnexpress.net/phuong-ly-ca-si-da-mau-sac-4916425.html) - 04:15 21/07/2025
-- 💪 [Huỳnh Dịch trăn trở vì con gái muốn làm idol](https://vnexpress.net/huynh-dich-tran-tro-vi-con-gai-muon-lam-idol-4916746.html) - 03:00 21/07/2025
-- 👍 [Tình tri kỷ của nghệ sĩ Thành Lộc, Hữu Châu](https://vnexpress.net/tinh-tri-ky-cua-nghe-si-thanh-loc-huu-chau-4916616.html) - 17:00 20/07/2025
-- 💪 [Gu mặc thanh lịch của Kim Ji Won khi ra sân bay](https://vnexpress.net/gu-mac-thanh-lich-cua-kim-ji-won-khi-ra-san-bay-4916476.html) - 14:24 20/07/2025
-- 💄 [Bình An - từ trai ngoan tới đểu cáng trên màn ảnh](https://vnexpress.net/binh-an-tu-trai-ngoan-toi-deu-cang-tren-man-anh-4915075.html) - 13:00 20/07/2025
-- 🦩 [Thủ lĩnh Coldplay trêu fan sau vụ &#39;Kiss Cam lộ chuyện ngoại tình&#39;](https://vnexpress.net/thu-linh-coldplay-treu-fan-sau-vu-kiss-cam-lo-chuyen-ngoai-tinh-4916594.html) - 11:03 20/07/2025
-- 🥸 [Video &#39;Katy Perry suýt rơi từ trên cao trong concert&#39; gây chú ý](https://vnexpress.net/video-katy-perry-suyt-roi-tu-tren-cao-trong-concert-gay-chu-y-4916566.html) - 10:25 20/07/2025
-- 🧰 [Phim hoạt hình Conan thu gần 40 tỷ đồng khi chiếu sớm](https://vnexpress.net/phim-hoat-hinh-conan-thu-gan-40-ty-dong-khi-chieu-som-4916560.html) - 09:31 20/07/2025
-- 💼 [Rachel Brosnahan - mỹ nhân đóng &#39;Superman&#39;](https://vnexpress.net/rachel-brosnahan-my-nhan-dong-superman-4914622.html) - 07:25 20/07/2025
+- 🌏 [Meryl Streep,  Anne Hathaway đóng &#39;The Devil Wears Prada 2&#39;](https://vnexpress.net/meryl-streep-anne-hathaway-dong-the-devil-wears-prada-2-4918936.html) - 09:38 25/07/2025
+- 💫 [Hoa hậu, á hậu catwalk với áo dài đính kết](https://vnexpress.net/hoa-hau-a-hau-catwalk-voi-ao-dai-dinh-ket-4918905.html) - 08:37 25/07/2025
+- 🌮 [Hậu trường Địch Lệ Nhiệt Ba đóng nữ quỷ](https://vnexpress.net/hau-truong-dich-le-nhiet-ba-dong-nu-quy-4918889.html) - 07:55 25/07/2025
+- 🧠 [Jessica Alba hẹn hò](https://vnexpress.net/jessica-alba-hen-ho-4918773.html) - 06:50 25/07/2025
+- 👨‍🏫 [Phương Mỹ Chi so tài cùng ba ca sĩ châu Á](https://vnexpress.net/phuong-my-chi-so-tai-cung-ba-ca-si-chau-a-4918335.html) - 06:11 25/07/2025
+- ⚗️ [AI gây chia rẽ giới xuất bản](https://vnexpress.net/ai-gay-chia-re-gioi-xuat-ban-4917906.html) - 04:43 25/07/2025
+- 😎 [Váy áo tôn đường cong của con gái Steve Jobs](https://vnexpress.net/vay-ao-ton-duong-cong-cua-con-gai-steve-jobs-4918294.html) - 02:56 25/07/2025
+- 🫣 [Biểu tượng thỏ #FR2 trên đồng hồ Franck Muller Vanguard Beach](https://vnexpress.net/bieu-tuong-tho-fr2-tren-dong-ho-franck-muller-vanguard-beach-4917191.html) - 02:00 25/07/2025
+- 🪄 [&#39;Conan&#39; - sức hút qua ba thập niên](https://vnexpress.net/conan-suc-hut-qua-ba-thap-nien-4917212.html) - 17:00 24/07/2025
+- 🤓 [Diễn viên Lan Phương ly thân chồng](https://vnexpress.net/dien-vien-lan-phuong-ly-than-chong-4918585.html) - 14:59 24/07/2025
+- 🫶 [Dustin Nguyễn tái xuất màn ảnh rộng](https://vnexpress.net/dustin-nguyen-tai-xuat-man-anh-rong-4918510.html) - 13:14 24/07/2025
+- 🧑‍🏫 [Người tình kể về đêm Lý Tiểu Long qua đời](https://vnexpress.net/nguoi-tinh-ke-ve-dem-ly-tieu-long-qua-doi-4918437.html) - 13:00 24/07/2025
+- 🦄 [&#39;Kiss Cam ở concert Coldplay&#39; dấy lên vấn đề quyền riêng tư](https://vnexpress.net/kiss-cam-o-concert-coldplay-day-len-van-de-quyen-rieng-tu-4917837.html) - 12:00 24/07/2025
+- 💫 [Truyện ngắn về nỗi đau thời hậu chiến đoạt giải báo Văn Nghệ](https://vnexpress.net/truyen-ngan-ve-noi-dau-thoi-hau-chien-doat-giai-bao-van-nghe-4918369.html) - 12:00 24/07/2025
+- 🎊 [Binz, Mono tham gia show nhập vai chiến sĩ công an](https://vnexpress.net/binz-mono-tham-gia-show-nhap-vai-chien-si-cong-an-4918481.html) - 09:28 24/07/2025
+- 👹 [&#39;Bài học môn hóa&#39; - nội trợ là công việc phi thường](https://vnexpress.net/bai-hoc-mon-hoa-noi-tro-la-cong-viec-phi-thuong-4913887.html) - 09:14 24/07/2025
+- 💻 [10 nhà thiết kế làm trang phục cảm hứng yêu nước](https://vnexpress.net/10-nha-thiet-ke-lam-trang-phuc-cam-hung-yeu-nuoc-4914660.html) - 08:31 24/07/2025
+- 🤡 [Con gái 15 tuổi của Triệu Vy](https://vnexpress.net/con-gai-15-tuoi-cua-trieu-vy-4918395.html) - 07:30 24/07/2025
+- 🥰 [Á hậu Châu Anh: &#39;Tôi rèn sống kỷ luật&#39;](https://vnexpress.net/a-hau-chau-anh-toi-ren-song-ky-luat-4914705.html) - 04:55 24/07/2025
+- 🚀 [Cô gái 18 tuổi đóng chính phim của Thư Kỳ](https://vnexpress.net/co-gai-18-tuoi-dong-chinh-phim-cua-thu-ky-4918280.html) - 04:15 24/07/2025
+- 📝 [Mỹ nam Trung Quốc xin lỗi vì &#39;bắt cá hai tay&#39;](https://vnexpress.net/my-nam-trung-quoc-xin-loi-vi-bat-ca-hai-tay-4918234.html) - 03:44 24/07/2025
+- 🐲 [Dàn sao xem 400 cổ vật gốm của Chi Bảo](https://vnexpress.net/dan-sao-xem-400-co-vat-gom-cua-chi-bao-4917632.html) - 03:09 24/07/2025
+- 🎃 [Cựu binh khóc khi xem phim về cuộc chiến Quảng Trị](https://vnexpress.net/cuu-binh-khoc-khi-xem-phim-ve-cuoc-chien-quang-tri-4918147.html) - 02:16 24/07/2025
+- 🤠 [Hồng Diễm - gương mặt chuyên đóng vai khổ](https://vnexpress.net/hong-diem-guong-mat-chuyen-dong-vai-kho-4916376.html) - 01:06 24/07/2025
+- 🎭 [Dàn sao phim &#39;Hà Nội mùa đông năm 46&#39; ngày ấy, bây giờ](https://vnexpress.net/dan-sao-phim-ha-noi-mua-dong-nam-46-ngay-ay-bay-gio-4917490.html) - 17:00 23/07/2025
+- 🧰 [Chuyện tình mỹ nam Hàn và người vợ Nhật](https://vnexpress.net/chuyen-tinh-my-nam-han-va-nguoi-vo-nhat-4918105.html) - 14:45 23/07/2025
+- 🦍 [Sắc vóc &#39;Cô nàng lắm chiêu&#39; Lindsay Lohan](https://vnexpress.net/sac-voc-co-nang-lam-chieu-lindsay-lohan-4916942.html) - 13:30 23/07/2025
+- 🌝 [Fan ngạc nhiên khi thấy Angelina Jolie đi máy bay thương mại](https://vnexpress.net/fan-ngac-nhien-khi-thay-angelina-jolie-di-may-bay-thuong-mai-4918073.html) - 12:02 23/07/2025
+- 🧑‍💻 [Vẻ rạng rỡ của &#39;Hoàng Dung&#39; Chu Nhân](https://vnexpress.net/ve-rang-ro-cua-hoang-dung-chu-nhan-4917847.html) - 08:00 23/07/2025
+- 🥸 [Đỗ Mỹ Linh cùng chồng &#39;nắm tay đi muôn nơi&#39;](https://vnexpress.net/do-my-linh-cung-chong-nam-tay-di-muon-noi-4916815.html) - 03:37 23/07/2025
+- 🔥 [Huyền thoại rock Ozzy Osbourne qua đời](https://vnexpress.net/huyen-thoai-rock-ozzy-osbourne-qua-doi-4917700.html) - 02:11 23/07/2025
+- 🐎 [Phim đầu tay của Thư Kỳ tranh giải LHP Venice](https://vnexpress.net/phim-dau-tay-cua-thu-ky-tranh-giai-lhp-venice-4917701.html) - 01:40 23/07/2025
+- 😎 [Diện mạo rạp xiếc và biểu diễn đa năng gần 1.400 tỷ đồng](https://vnexpress.net/dien-mao-rap-xiec-va-bieu-dien-da-nang-gan-1-400-ty-dong-4917558.html) - 22:00 22/07/2025
+- 🦄 [Huỳnh Văn Nghệ - &#39;thi tướng rừng xanh&#39;](https://vnexpress.net/huynh-van-nghe-thi-tuong-rung-xanh-4917511.html) - 17:05 22/07/2025
+- 🌜 [Ảnh khắc họa Sài Gòn - Chợ Lớn 100 năm trước](https://vnexpress.net/anh-khac-hoa-sai-gon-cho-lon-100-nam-truoc-4917543.html) - 17:00 22/07/2025
+- 🚦 [Thời trang mùa hè của Dakota Johnson](https://vnexpress.net/thoi-trang-mua-he-cua-dakota-johnson-4917320.html) - 13:30 22/07/2025
+- 🧐 [Kho túi xa xỉ của vợ tỷ phú Jeff Bezos](https://vnexpress.net/kho-tui-xa-xi-cua-vo-ty-phu-jeff-bezos-4917417.html) - 12:00 22/07/2025
+- 🐵 [Trung Quốc cấm phim lịch sử &#39;tung võ như thần&#39;](https://vnexpress.net/trung-quoc-cam-phim-lich-su-tung-vo-nhu-than-4917475.html) - 09:45 22/07/2025
+- ⚗️ [Katie Holmes tái ngộ tình đầu](https://vnexpress.net/katie-holmes-tai-ngo-tinh-dau-4917333.html) - 08:36 22/07/2025
+- 👺 [Vẻ đẹp bóng hồng phim Lý Liên Kiệt qua thời gian](https://vnexpress.net/ve-dep-bong-hong-phim-ly-lien-kiet-qua-thoi-gian-4917412.html) - 08:33 22/07/2025
+- 🌊 [Váy áo họa tiết hoa muống biển, pháo hoa](https://vnexpress.net/vay-ao-hoa-tiet-hoa-muong-bien-phao-hoa-4917152.html) - 04:03 22/07/2025
+- 🪜 [Netflix lần đầu dùng AI sản xuất phim](https://vnexpress.net/netflix-lan-dau-dung-ai-san-xuat-phim-4917033.html) - 03:27 22/07/2025
+- 🕴 [Tài tử &#39;Đường Bá Hổ điểm Thu Hương&#39; ốm đau, cô độc](https://vnexpress.net/tai-tu-duong-ba-ho-diem-thu-huong-om-dau-co-doc-4917236.html) - 02:46 22/07/2025
+- 💃 [Trọng Hiếu ra MV phong cách thập niên 2000](https://vnexpress.net/trong-hieu-ra-mv-phong-cach-thap-nien-2000-4916122.html) - 02:38 22/07/2025
+- 🦄 [Vần thơ tưởng nhớ nghệ sĩ Lê Thiết Cương](https://vnexpress.net/van-tho-tuong-nho-nghe-si-le-thiet-cuong-4917150.html) - 00:58 22/07/2025
+- ⛽️ [&#39;Hai Lúa&#39; Thanh Nam làm giám khảo &#39;Chuông vàng vọng cổ&#39;](https://vnexpress.net/hai-lua-thanh-nam-lam-giam-khao-chuong-vang-vong-co-4917126.html) - 23:56 21/07/2025
+- 😎 [Lee Byung Hun - tài năng xóa nhòa tai tiếng](https://vnexpress.net/lee-byung-hun-tai-nang-xoa-nhoa-tai-tieng-4915828.html) - 17:00 21/07/2025
+- 🌊 [Dàn diễn viên &#39;Vua bãi rác&#39; ngày ấy, bây giờ](https://vnexpress.net/dan-dien-vien-vua-bai-rac-ngay-ay-bay-gio-4913998.html) - 13:51 21/07/2025
+- 🐲 [Nhan sắc thời trẻ của siêu mẫu giàu nhất thế giới](https://vnexpress.net/nhan-sac-thoi-tre-cua-sieu-mau-giau-nhat-the-gioi-4916812.html) - 12:00 21/07/2025
+- 💂 [&#39;Quách Tương đẹp nhất Thần điêu đại hiệp&#39; không ngại nếp nhăn](https://vnexpress.net/quach-tuong-dep-nhat-than-dieu-dai-hiep-khong-ngai-nep-nhan-4916935.html) - 08:36 21/07/2025
+- 🙉 [Sao diện đầm sắc xanh dự show bên bờ sông Hàn](https://vnexpress.net/sao-dien-dam-sac-xanh-du-show-ben-bo-song-han-4916799.html) - 07:51 21/07/2025
+- 💪 [&#39;Superman&#39; giúp hãng DC lấy lại vị thế phòng vé](https://vnexpress.net/superman-giup-hang-dc-lay-lai-vi-the-phong-ve-4916715.html) - 07:21 21/07/2025
+- 👍 [Tiễn biệt nghệ sĩ Lê Thiết Cương](https://vnexpress.net/tien-biet-nghe-si-le-thiet-cuong-4916903.html) - 05:44 21/07/2025
+- 💪 [Selena Gomez đón sinh nhật cùng Taylor Swift](https://vnexpress.net/selena-gomez-don-sinh-nhat-cung-taylor-swift-4916737.html) - 04:37 21/07/2025
+- 💄 [Phương Ly - ca sĩ đa màu sắc](https://vnexpress.net/phuong-ly-ca-si-da-mau-sac-4916425.html) - 04:15 21/07/2025
+- 🦩 [Huỳnh Dịch trăn trở vì con gái muốn làm idol](https://vnexpress.net/huynh-dich-tran-tro-vi-con-gai-muon-lam-idol-4916746.html) - 03:00 21/07/2025
+- 🥸 [Tình tri kỷ của nghệ sĩ Thành Lộc, Hữu Châu](https://vnexpress.net/tinh-tri-ky-cua-nghe-si-thanh-loc-huu-chau-4916616.html) - 17:00 20/07/2025
+- 🧰 [Gu mặc thanh lịch của Kim Ji Won khi ra sân bay](https://vnexpress.net/gu-mac-thanh-lich-cua-kim-ji-won-khi-ra-san-bay-4916476.html) - 14:24 20/07/2025
+- 💼 [Thủ lĩnh Coldplay trêu fan sau vụ &#39;Kiss Cam lộ chuyện ngoại tình&#39;](https://vnexpress.net/thu-linh-coldplay-treu-fan-sau-vu-kiss-cam-lo-chuyen-ngoai-tinh-4916594.html) - 11:03 20/07/2025
 - 🧑‍💻 [Ca sĩ JSol: &#39;Tôi không chỉ có mác điển trai&#39;](https://vnexpress.net/ca-si-jsol-toi-khong-chi-co-mac-dien-trai-4916248.html) - 04:17 20/07/2025<!-- vnexpress-giai-tri:END -->
