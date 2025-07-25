@@ -5,7 +5,7 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [HLV U23 Philippines: &quot;U23 Việt Nam quá mạnh so với tôi hình dung&quot;](https://dantri.com.vn/the-thao/hlv-u23-philippines-u23-viet-nam-qua-manh-so-voi-toi-hinh-dung-20250725194446351.htm) - 13:36 25/07/2025
-- 💯 [U23 Indonesia 1-1 U23 Thái Lan &lpar;hiệp phụ&rpar;: Cơ hội chia đều](https://dantri.com.vn/the-thao/u23-indonesia-1-1-u23-thai-lan-hiep-phu-co-hoi-chia-deu-20250725195748041.htm) - 12:58 25/07/2025
+- 💯 [U23 Indonesia 1-1 U23 Thái Lan: Thi đấu sút luân lưu](https://dantri.com.vn/the-thao/u23-indonesia-1-1-u23-thai-lan-thi-dau-sut-luan-luu-20250725195748041.htm) - 12:58 25/07/2025
 - ⛽️ [Thắng U23 Philippines, HLV Kim Sang Sik tuyên bố sẽ vô địch U23 Đông Nam Á](https://dantri.com.vn/the-thao/thang-u23-philippines-hlv-kim-sang-sik-tuyen-bo-se-vo-dich-u23-dong-nam-a-20250725191959285.htm) - 12:22 25/07/2025
 - 💃 [HLV Kim Sang Sik nổi giận với trọng tài và bị trừng phạt](https://dantri.com.vn/the-thao/hlv-kim-sang-sik-noi-gian-voi-trong-tai-va-bi-trung-phat-20250725190253558.htm) - 12:20 25/07/2025
 - 🌈 [Xuất sắc ngược dòng hạ Philippines, U23 Việt Nam giành quyền vào chung kết](https://dantri.com.vn/the-thao/xuat-sac-nguoc-dong-ha-philippines-u23-viet-nam-gianh-quyen-vao-chung-ket-20250725152142400.htm) - 08:21 25/07/2025
