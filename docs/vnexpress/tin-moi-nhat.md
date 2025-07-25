@@ -41,7 +41,7 @@ sidebar_position: 9
 - 🦏 [Mắc hai loại giun sán từ thói quen nuôi thú cưng, ăn rau sống](https://vnexpress.net/mac-hai-loai-giun-san-tu-thoi-quen-nuoi-thu-cung-an-rau-song-4918895.html) - 08:50 25/07/2025
 - 🦩 [Cách nấu bún vịt măng chua](https://vnexpress.net/cach-nau-bun-vit-mang-chua-4918915.html) - 08:47 25/07/2025
 - 👺 [Hoa hậu, á hậu catwalk với áo dài đính kết](https://vnexpress.net/hoa-hau-a-hau-catwalk-voi-ao-dai-dinh-ket-4918905.html) - 08:37 25/07/2025
-- 🧑‍🏫 [U23 Việt Nam 2-1 Philippines &lpar;H2&rpar;: Xuân Bắc đánh đầu ghi bàn](https://vnexpress.net/u23-viet-nam-v-u23-philippines-4918928.html) - 08:31 25/07/2025
+- 🧑‍🏫 [U23 Việt Nam 2-1 Philippines &lpar;H2&rpar;: Đình Bắc, Công Phương, Văn Khang rời sân](https://vnexpress.net/u23-viet-nam-v-u23-philippines-4918928.html) - 08:31 25/07/2025
 - 😎 [Tineco đoạt giải máy lau nhà khô ướt được yêu thích nhất](https://vnexpress.net/tineco-doat-giai-may-lau-nha-kho-uot-duoc-yeu-thich-nhat-4918924.html) - 08:30 25/07/2025
 - 🪄 [Những học viên &#39;thiên tài&#39; khiến thầy dạy lái xe rụng rời](https://vnexpress.net/thu-gian-video-hai-nhung-hoc-vien-thien-tai-khien-thay-day-lai-xe-rung-roi-4918912.html) - 08:24 25/07/2025
 - 🏊 [Ấn Độ điều tra cáo buộc về hàng trăm vụ chôn xác ở ngôi đền thiêng](https://vnexpress.net/an-do-dieu-tra-cao-buoc-ve-hang-tram-vu-chon-xac-o-ngoi-den-thieng-4918543.html) - 08:22 25/07/2025
