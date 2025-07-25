@@ -525,7 +525,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 <!-- muctim:START -->
 - 🤔 [Antony chỉ muốn tới Real Betis, Man United gặp khó](https://muctim.tuoitre.vn/antony-chi-muon-toi-real-betis-man-united-gap-kho-101250725150533565.htm) - 08:21 25/07/2025
 - 🥷 [Trường nào đào tạo ngành Khoa học máy tính? Điểm chuẩn năm 2024 thế nào?](https://muctim.tuoitre.vn/truong-nao-dao-tao-nganh-khoa-hoc-may-tinh-diem-chuan-nam-2024-the-nao-10125072511453664.htm) - 08:10 25/07/2025
-- 🤖 [Trực tiếp bán kết U23 Đông Nam Á: U23 Việt Nam - U23 Philippines](https://muctim.tuoitre.vn/truc-tiep-ban-ket-u23-dong-nam-a-u23-viet-nam-u23-philippines-101250725142915042.htm) - 08:03 25/07/2025
+- 🤖 [Đánh bại U23 Philippines 2-1, U23 Việt Nam lần thứ 3 vào chung kết U23 Đông Nam Á](https://muctim.tuoitre.vn/truc-tiep-ban-ket-u23-dong-nam-a-u23-viet-nam-u23-philippines-101250725142915042.htm) - 08:03 25/07/2025
 - 🤓 [Đón đọc Khăn Quàng Đỏ 31, phát hành 30-7: Xin chào thành phố thân yêu!](https://muctim.tuoitre.vn/don-doc-khan-quang-do-31-phat-hanh-30-7-xin-chao-thanh-pho-than-yeu-101250725100345627.htm) - 07:43 25/07/2025
 - 🎉 [Vi vu mùa hè qua 3 quyển sách thú vị](https://muctim.tuoitre.vn/vi-vu-mua-he-qua-3-quyen-sach-thu-vi-101250721154421536.htm) - 07:40 25/07/2025
 - 👨‍🏫 [Xúc động phim về tình mẫu tử của nhóm sinh viên Văn Lang](https://muctim.tuoitre.vn/xuc-dong-phim-ve-tinh-mau-tu-cua-nhom-sinh-vien-van-lang-101250725101209322.htm) - 06:43 25/07/2025
