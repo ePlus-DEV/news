@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Tác phẩm bằng AI về Messi có giá gần 2 triệu USD](https://vnexpress.net/tac-pham-bang-ai-ve-messi-co-gia-gan-2-trieu-usd-4918945.html) - 08:51 25/07/2025
-- 🦩 [U23 Việt Nam 1-1 Philippines &lpar;Hết H1&rpar;: Đình Bắc cứu đội nhà](https://vnexpress.net/u23-viet-nam-v-u23-philippines-4918928.html) - 08:31 25/07/2025
+- 🦩 [U23 Việt Nam 2-1 Philippines &lpar;H2&rpar;: HLV Kim quỳ gối khi học trò bỏ lỡ bàn thắng](https://vnexpress.net/u23-viet-nam-v-u23-philippines-4918928.html) - 08:31 25/07/2025
 - 🧰 [vRace khởi động giải chạy Việt Nam Hùng Cường mùa 3 dịp Quốc khánh](https://vnexpress.net/vrace-khoi-dong-giai-chay-viet-nam-hung-cuong-mua-3-dip-quoc-khanh-4918883.html) - 08:00 25/07/2025
 - 🤗 [Rủi ro và cơ hội từ chạy xuống dốc khi đua marathon](https://vnexpress.net/rui-ro-va-co-hoi-tu-chay-xuong-doc-khi-dua-marathon-4918171.html) - 05:10 25/07/2025
 - 🥳 [CĐV xôn xao vì &#39;nữ cầu thủ đẹp nhất thế giới&#39; mới](https://vnexpress.net/cdv-xon-xao-vi-nu-cau-thu-dep-nhat-the-gioi-moi-4918699.html) - 04:21 25/07/2025
