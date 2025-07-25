@@ -8,11 +8,11 @@ sidebar_position: 5
 - 🦩 [Trọng tài đuổi nhầm cầu thủ trận Việt Nam thắng Philippines](https://vnexpress.net/trong-tai-duoi-nham-cau-thu-tran-viet-nam-thang-philippines-4919057.html) - 13:14 25/07/2025
 - 🧰 [HLV Kim: &#39;U23 Việt Nam sẽ vô địch, dù đối thủ là ai&#39;](https://vnexpress.net/hlv-kim-u23-viet-nam-se-vo-dich-du-doi-thu-la-ai-4919052.html) - 13:05 25/07/2025
 - 🤗 [Việt Nam thắng Thái Lan, vào chung kết cầu mây thế giới](https://vnexpress.net/viet-nam-thang-thai-lan-vao-chung-ket-cau-may-the-gioi-4919050.html) - 12:46 25/07/2025
-- 🥳 [HLV Kim quỳ gối khi cầu thủ Việt Nam phung phí cơ hội](https://vnexpress.net/hlv-kim-quy-goi-khi-cau-thu-viet-nam-phung-phi-co-hoi-4919047.html) - 12:24 25/07/2025
+- 🥳 [HLV Kim quỳ gối khi cầu thủ Việt Nam phung phí](https://vnexpress.net/hlv-kim-quy-goi-khi-cau-thu-viet-nam-phung-phi-4919047.html) - 12:24 25/07/2025
 - 🦣 [Indonesia đấu Việt Nam ở chung kết U23 Đông Nam Á](https://vnexpress.net/ket-qua-u23-indonesia-vs-thai-lan-4919051.html) - 12:23 25/07/2025
 - 🌜 [Pirlo kiếm được việc mới ở UAE](https://vnexpress.net/pirlo-kiem-duoc-viec-moi-o-uae-4918976.html) - 11:41 25/07/2025
 - 🫶 [Tác phẩm bằng AI về Messi có giá gần 2 triệu USD](https://vnexpress.net/tac-pham-bang-ai-ve-messi-co-gia-gan-2-trieu-usd-4918945.html) - 08:51 25/07/2025
-- 🌜 [Việt Nam lần thứ ba liên tiếp vào chung kết U23 Đông Nam Á](https://vnexpress.net/u23-viet-nam-v-u23-philippines-4918928.html) - 08:31 25/07/2025
+- 🌜 [Việt Nam lần thứ ba liên tiếp vào chung kết U23 Đông Nam Á](https://vnexpress.net/u23-viet-nam-v-u23-philippines-4918928-tong-thuat.html) - 08:31 25/07/2025
 - 😺 [vRace khởi động giải chạy Việt Nam Hùng Cường mùa 3 dịp Quốc khánh](https://vnexpress.net/vrace-khoi-dong-giai-chay-viet-nam-hung-cuong-mua-3-dip-quoc-khanh-4918883.html) - 08:00 25/07/2025
 - 👍 [Rủi ro và cơ hội từ chạy xuống dốc khi đua marathon](https://vnexpress.net/rui-ro-va-co-hoi-tu-chay-xuong-doc-khi-dua-marathon-4918171.html) - 05:10 25/07/2025
 - 🐵 [CĐV xôn xao vì &#39;nữ cầu thủ đẹp nhất thế giới&#39; mới](https://vnexpress.net/cdv-xon-xao-vi-nu-cau-thu-dep-nhat-the-gioi-moi-4918699.html) - 04:21 25/07/2025
