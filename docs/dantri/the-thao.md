@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [U23 Việt Nam 0-0 U23 Philippines &lpar;hiệp 1&rpar;: Cột dọc 2 lần cứu Philippines](https://dantri.com.vn/the-thao/u23-viet-nam-0-0-u23-philippines-hiep-1-cot-doc-2-lan-cuu-philippines-20250725152142400.htm) - 08:21 25/07/2025
+- 🎡 [U23 Việt Nam 2-1 U23 Philippines &lpar;hiệp 2&rpar;: U23 Việt Nam lỡ cơ hội kết liễu](https://dantri.com.vn/the-thao/u23-viet-nam-2-1-u23-philippines-hiep-2-u23-viet-nam-lo-co-hoi-ket-lieu-20250725152142400.htm) - 08:21 25/07/2025
 - 💯 [Báo châu Á nói thẳng điểm yếu lớn nhất của U23 Việt Nam](https://dantri.com.vn/the-thao/bao-chau-a-noi-thang-diem-yeu-lon-nhat-cua-u23-viet-nam-20250725131408717.htm) - 07:14 25/07/2025
 - ⛽️ [Báo Indonesia dự đoán kết quả trận U23 Việt Nam gặp U23 Philippines](https://dantri.com.vn/the-thao/bao-indonesia-du-doan-ket-qua-tran-u23-viet-nam-gap-u23-philippines-20250725111403217.htm) - 05:14 25/07/2025
 - 💃 [Văn Khang đắt giá nhất giải U23 Đông Nam Á, ngang sao nhập tịch Indonesia](https://dantri.com.vn/the-thao/van-khang-dat-gia-nhat-giai-u23-dong-nam-a-ngang-sao-nhap-tich-indonesia-20250725103911799.htm) - 03:45 25/07/2025
