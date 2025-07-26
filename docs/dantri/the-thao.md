@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Lionel Messi bất ngờ nhận án phạt, báo hại Inter Miami](https://dantri.com.vn/the-thao/lionel-messi-bat-ngo-nhan-an-phat-bao-hai-inter-miami-20250726124240563.htm) - 05:42 26/07/2025
+- 🎡 [Lionel Messi bất ngờ nhận án phạt, báo hại Inter Miami](https://dantri.com.vn/the-thao/lionel-messi-bat-ngo-nhan-an-phat-bao-hai-inter-miami-20250726124240563.htm) - 06:08 26/07/2025
 - 💯 [HLV U23 Indonesia gặp sự cố khó đỡ, trợ lý nói thẳng về U23 Việt Nam](https://dantri.com.vn/the-thao/hlv-u23-indonesia-gap-su-co-kho-do-tro-ly-noi-thang-ve-u23-viet-nam-20250726104231460.htm) - 04:12 26/07/2025
 - ⛽️ [Báo Indonesia thừa nhận sức mạnh của U23 Việt Nam trước trận chung kết](https://dantri.com.vn/the-thao/bao-indonesia-thua-nhan-suc-manh-cua-u23-viet-nam-truoc-tran-chung-ket-20250726023618499.htm) - 02:00 26/07/2025
 - 💃 [Trận chung kết giữa U23 Việt Nam và U23 Indonesia diễn ra khi nào, ở đâu?](https://dantri.com.vn/the-thao/tran-chung-ket-giua-u23-viet-nam-va-u23-indonesia-dien-ra-khi-nao-o-dau-20250726084521453.htm) - 01:45 26/07/2025
