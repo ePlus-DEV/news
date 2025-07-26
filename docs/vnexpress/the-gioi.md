@@ -8,7 +8,7 @@ sidebar_position: 2
 - 🕴 [Đạn pháo từ giao tranh Campuchia - Thái Lan rơi xuống đất Lào](https://vnexpress.net/dan-phao-tu-giao-tranh-campuchia-thai-lan-roi-xuong-dat-lao-4919254.html) - 08:05 26/07/2025
 - 🤭 [Dân biên giới Thái Lan choáng váng khi xung đột leo thang](https://vnexpress.net/dan-bien-gioi-thai-lan-choang-vang-khi-xung-dot-leo-thang-4919232.html) - 07:43 26/07/2025
 - 🧑‍💻 [Thái Lan dùng đạn chùm để tập kích mục tiêu Campuchia](https://vnexpress.net/thai-lan-dung-dan-chum-de-tap-kich-muc-tieu-campuchia-4919182.html) - 04:11 26/07/2025
-- 🦏 [Tình cảnh &#39;vật vờ như xác sống&#39; vì đói ăn ở Gaza](https://vnexpress.net/tinh-canh-vat-vo-nhu-xac-song-vi-doi-an-o-gaza-4918790.html) - 04:06 26/07/2025
+- 🦏 [Thảm cảnh đói ăn ở Gaza](https://vnexpress.net/tham-canh-doi-an-o-gaza-4918790.html) - 04:06 26/07/2025
 - 🦒 [Campuchia - Thái Lan cáo buộc nhau tấn công qua lãnh thổ](https://vnexpress.net/campuchia-thai-lan-cao-buoc-nhau-tan-cong-qua-lanh-tho-4919180.html) - 03:52 26/07/2025
 - 🌈 [Mỹ có thể đã tốn 5 tỷ USD để chặn tên lửa Iran nhắm vào Israel](https://vnexpress.net/my-co-the-da-ton-5-ty-usd-de-chan-ten-lua-iran-nham-vao-israel-4919171.html) - 03:33 26/07/2025
 - 🧑‍🏫 [Ông Trump chỉ trích turbine gió khi thăm sân golf ở Scotland](https://vnexpress.net/ong-trump-chi-trich-turbine-gio-khi-tham-san-golf-o-scotland-4919160.html) - 03:30 26/07/2025
