@@ -4,22 +4,22 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Cô bé 4 tuổi cover nhạc Lady Gaga](https://vnexpress.net/co-be-4-tuoi-cover-nhac-lady-gaga-4919170.html) - 14:13 26/07/2025
-- 💫 [Nhà vườn hàng nghìn m2 của &#39;Hoàng tử trong mơ&#39; Thái Lan](https://vnexpress.net/nha-vuon-hang-nghin-m2-cua-hoang-tu-trong-mo-thai-lan-4919082.html) - 12:00 26/07/2025
-- 🌮 [Gwyneth Paltrow làm việc cho công ty vướng vụ Kiss Cam](https://vnexpress.net/gwyneth-paltrow-lam-viec-cho-cong-ty-vuong-vu-kiss-cam-4919218.html) - 10:00 26/07/2025
-- 🧠 [Tranh cãi quanh truyện ngắn đoạt giải báo Văn Nghệ](https://vnexpress.net/tranh-cai-quanh-truyen-ngan-doat-giai-bao-van-nghe-4918978.html) - 08:20 26/07/2025
-- 👨‍🏫 [Phim Việt về không tặc hé lộ cảnh cao trào](https://vnexpress.net/phim-viet-ve-khong-tac-he-lo-canh-cao-trao-4919233.html) - 07:17 26/07/2025
-- ⚗️ [Công chúa Campuchia diện đầm của nhà mốt Việt](https://vnexpress.net/cong-chua-campuchia-dien-dam-cua-nha-mot-viet-4919199.html) - 07:03 26/07/2025
-- 😎 [Hồ Hạnh Nhi nghỉ hè cùng chồng con](https://vnexpress.net/ho-hanh-nhi-nghi-he-cung-chong-con-4919210.html) - 06:44 26/07/2025
-- 🫣 [&#39;The Fantastic Four&#39; - gia đình là điểm tựa](https://vnexpress.net/giai-tri/phim/thu-vien-phim/the-fantastic-four-first-steps-825) - 06:00 26/07/2025
-- 🪄 [Kỳ nghỉ của Taylor Swift và bạn trai](https://vnexpress.net/ky-nghi-cua-taylor-swift-va-ban-trai-4918662.html) - 05:00 26/07/2025
-- 🤓 [Đêm tôn vinh gia tài nghệ thuật của nhạc sĩ Hoàng Vân](https://vnexpress.net/dem-ton-vinh-gia-tai-nghe-thuat-cua-nhac-si-hoang-van-4919151.html) - 03:35 26/07/2025
-- 🫶 [Lindsay Lohan thu hút khi ra mắt phim mới](https://vnexpress.net/lindsay-lohan-thu-hut-khi-ra-mat-phim-moi-4918876.html) - 03:15 26/07/2025
-- 🧑‍🏫 [Nghệ sĩ Xuân Hinh: &#39;Tôi là người đàn ông viên mãn&#39;](https://vnexpress.net/nghe-si-xuan-hinh-toi-la-nguoi-dan-ong-vien-man-4918526.html) - 02:07 26/07/2025
-- 🦄 [4 đôi sneakers hot được nhiều người săn lùng](https://vnexpress.net/4-doi-sneakers-hot-duoc-nhieu-nguoi-san-lung-4917800.html) - 01:38 26/07/2025
-- 💫 [Khi robot biết catwalk](https://vnexpress.net/khi-robot-biet-catwalk-4918859.html) - 00:00 26/07/2025
-- 🎊 [Đời sống Hà Nội thập niên 1950 qua ống kính người nước ngoài](https://vnexpress.net/doi-song-ha-noi-thap-nien-1950-qua-ong-kinh-nguoi-nuoc-ngoai-4918981.html) - 17:00 25/07/2025
-- 👹 [Vanessa Kirby - &#39;bóng hồng&#39; của Vũ trụ Điện ảnh Marvel](https://vnexpress.net/vanessa-kirby-bong-hong-cua-vu-tru-dien-anh-marvel-4918674.html) - 17:00 25/07/2025
+- 🌏 [Vanessa Kirby - &#39;bóng hồng&#39; của Vũ trụ Điện ảnh Marvel](https://vnexpress.net/vanessa-kirby-bong-hong-cua-vu-tru-dien-anh-marvel-4918674.html) - 17:16 26/07/2025
+- 💫 [Cô bé 4 tuổi cover nhạc Lady Gaga](https://vnexpress.net/co-be-4-tuoi-cover-nhac-lady-gaga-4919170.html) - 14:13 26/07/2025
+- 🌮 [Nhà vườn hàng nghìn m2 của &#39;Hoàng tử trong mơ&#39; Thái Lan](https://vnexpress.net/nha-vuon-hang-nghin-m2-cua-hoang-tu-trong-mo-thai-lan-4919082.html) - 12:00 26/07/2025
+- 🧠 [Gwyneth Paltrow làm việc cho công ty vướng vụ Kiss Cam](https://vnexpress.net/gwyneth-paltrow-lam-viec-cho-cong-ty-vuong-vu-kiss-cam-4919218.html) - 10:00 26/07/2025
+- 👨‍🏫 [Tranh cãi quanh truyện ngắn đoạt giải báo Văn Nghệ](https://vnexpress.net/tranh-cai-quanh-truyen-ngan-doat-giai-bao-van-nghe-4918978.html) - 08:20 26/07/2025
+- ⚗️ [Phim Việt về không tặc hé lộ cảnh cao trào](https://vnexpress.net/phim-viet-ve-khong-tac-he-lo-canh-cao-trao-4919233.html) - 07:17 26/07/2025
+- 😎 [Công chúa Campuchia diện đầm của nhà mốt Việt](https://vnexpress.net/cong-chua-campuchia-dien-dam-cua-nha-mot-viet-4919199.html) - 07:03 26/07/2025
+- 🫣 [Hồ Hạnh Nhi nghỉ hè cùng chồng con](https://vnexpress.net/ho-hanh-nhi-nghi-he-cung-chong-con-4919210.html) - 06:44 26/07/2025
+- 🪄 [&#39;The Fantastic Four&#39; - gia đình là điểm tựa](https://vnexpress.net/giai-tri/phim/thu-vien-phim/the-fantastic-four-first-steps-825) - 06:00 26/07/2025
+- 🤓 [Kỳ nghỉ của Taylor Swift và bạn trai](https://vnexpress.net/ky-nghi-cua-taylor-swift-va-ban-trai-4918662.html) - 05:00 26/07/2025
+- 🫶 [Đêm tôn vinh gia tài nghệ thuật của nhạc sĩ Hoàng Vân](https://vnexpress.net/dem-ton-vinh-gia-tai-nghe-thuat-cua-nhac-si-hoang-van-4919151.html) - 03:35 26/07/2025
+- 🧑‍🏫 [Lindsay Lohan thu hút khi ra mắt phim mới](https://vnexpress.net/lindsay-lohan-thu-hut-khi-ra-mat-phim-moi-4918876.html) - 03:15 26/07/2025
+- 🦄 [Nghệ sĩ Xuân Hinh: &#39;Tôi là người đàn ông viên mãn&#39;](https://vnexpress.net/nghe-si-xuan-hinh-toi-la-nguoi-dan-ong-vien-man-4918526.html) - 02:07 26/07/2025
+- 💫 [4 đôi sneakers hot được nhiều người săn lùng](https://vnexpress.net/4-doi-sneakers-hot-duoc-nhieu-nguoi-san-lung-4917800.html) - 01:38 26/07/2025
+- 🎊 [Khi robot biết catwalk](https://vnexpress.net/khi-robot-biet-catwalk-4918859.html) - 00:00 26/07/2025
+- 👹 [Đời sống Hà Nội thập niên 1950 qua ống kính người nước ngoài](https://vnexpress.net/doi-song-ha-noi-thap-nien-1950-qua-ong-kinh-nguoi-nuoc-ngoai-4918981.html) - 17:00 25/07/2025
 - 💻 [Gu mặc đời thường của &#39;Nữ hoàng nước mắt&#39; Choi Ji Woo](https://vnexpress.net/gu-mac-doi-thuong-cua-nu-hoang-nuoc-mat-choi-ji-woo-4918083.html) - 12:00 25/07/2025
 - 🤡 [Meryl Streep,  Anne Hathaway đóng &#39;The Devil Wears Prada 2&#39;](https://vnexpress.net/meryl-streep-anne-hathaway-dong-the-devil-wears-prada-2-4918936.html) - 09:38 25/07/2025
 - 🥰 [Hoa hậu, á hậu catwalk với áo dài đính kết](https://vnexpress.net/hoa-hau-a-hau-catwalk-voi-ao-dai-dinh-ket-4918905.html) - 08:37 25/07/2025
