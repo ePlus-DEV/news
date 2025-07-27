@@ -4,10 +4,10 @@ sidebar_position: 14
 ---
 
 <!-- dantri-dnews:START -->
-- 🤠 [Báo Dân trí tiếp nhận hơn 272 triệu đồng giúp người dân vùng lũ ở Nghệ An](https://dantri.com.vn/tam-long-nhan-ai/bao-dan-tri-tiep-nhan-hon-272-trieu-dong-giup-nguoi-dan-vung-lu-o-nghe-an-20250727152710156.htm) - 09:48 27/07/2025
-- 🌈 [&quot;Lời thề thứ sáu&quot; đo danh dự người lính sau song sắt](https://dantri.com.vn/lao-dong-viec-lam/loi-the-thu-sau-do-danh-du-nguoi-linh-sau-song-sat-20250727114732556.htm) - 05:29 27/07/2025
-- 🐎 [Chuyện tình ở lại nơi mái nhà điều dưỡng](https://dantri.com.vn/xa-hoi/chuyen-tinh-o-lai-noi-mai-nha-dieu-duong-20250726180716581.htm) - 05:04 27/07/2025
-- 👹 [U23 Việt Nam tiến vào chung kết: Vấn đề báo động, sẵn sàng vút bay](https://dantri.com.vn/the-thao/u23-viet-nam-tien-vao-chung-ket-van-de-bao-dong-san-sang-vut-bay-20250727000933220.htm) - 05:00 27/07/2025
+- 🤠 [U23 Việt Nam tiến vào chung kết: Vấn đề báo động, sẵn sàng vút bay](https://dantri.com.vn/the-thao/u23-viet-nam-tien-vao-chung-ket-van-de-bao-dong-san-sang-vut-bay-20250727000933220.htm) - 12:00 27/07/2025
+- 🌈 [Báo Dân trí tiếp nhận hơn 272 triệu đồng giúp người dân vùng lũ ở Nghệ An](https://dantri.com.vn/tam-long-nhan-ai/bao-dan-tri-tiep-nhan-hon-272-trieu-dong-giup-nguoi-dan-vung-lu-o-nghe-an-20250727152710156.htm) - 09:48 27/07/2025
+- 🐎 [&quot;Lời thề thứ sáu&quot; đo danh dự người lính sau song sắt](https://dantri.com.vn/lao-dong-viec-lam/loi-the-thu-sau-do-danh-du-nguoi-linh-sau-song-sat-20250727114732556.htm) - 05:29 27/07/2025
+- 👹 [Chuyện tình ở lại nơi mái nhà điều dưỡng](https://dantri.com.vn/xa-hoi/chuyen-tinh-o-lai-noi-mai-nha-dieu-duong-20250726180716581.htm) - 05:04 27/07/2025
 - 🫶 [Chiến sĩ Thành cổ Quảng Trị &quot;cười tươi rói để gia đình biết mình còn sống&quot;](https://dantri.com.vn/lao-dong-viec-lam/chien-si-thanh-co-quang-tri-cuoi-tuoi-roi-de-gia-dinh-biet-minh-con-song-20250726213907279.htm) - 01:00 27/07/2025
 - ⛽️ [Sự nghiệp thăng hoa của nữ tiến sĩ toán từng bị chỉ trích chỉ vì... quá đẹp](https://dantri.com.vn/giao-duc/su-nghiep-thang-hoa-cua-nu-tien-si-toan-tung-bi-chi-trich-chi-vi-qua-dep-20250726170613924.htm) - 01:00 27/07/2025
 - 🌜 [Nổi bật tuần qua: Sư tử con liều lĩnh bơi qua sông đầy cá sấu để hội ngộ mẹ](https://dantri.com.vn/khoa-hoc/noi-bat-tuan-qua-su-tu-con-lieu-linh-boi-qua-song-day-ca-sau-de-hoi-ngo-me-20250727004744386.htm) - 23:55 26/07/2025
