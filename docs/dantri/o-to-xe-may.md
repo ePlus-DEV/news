@@ -4,7 +4,7 @@ sidebar_position: 24
 ---
 
 <!-- dantri-o-to-xe-may:START -->
-- 🤡 [Loạt xe máy điện có tầm hoạt động xa tại Việt Nam, có mẫu đi tới 285 km](https://dantri.com.vn/o-to-xe-may/loat-xe-may-dien-co-tam-hoat-dong-xa-tai-viet-nam-co-mau-di-toi-285-km-20250727024058348.htm) - 09:34 27/07/2025
+- 🤡 [Loạt xe máy điện có tầm hoạt động xa tại Việt Nam, có mẫu đi tới 285km](https://dantri.com.vn/o-to-xe-may/loat-xe-may-dien-co-tam-hoat-dong-xa-tai-viet-nam-co-mau-di-toi-285km-20250727024058348.htm) - 09:34 27/07/2025
 - 🧑‍💻 [Mitsubishi chính thức rút khỏi thị trường Trung Quốc](https://dantri.com.vn/o-to-xe-may/mitsubishi-chinh-thuc-rut-khoi-thi-truong-trung-quoc-20250727011940698.htm) - 06:37 27/07/2025
 - 🧑‍💻 [SUV điện Toyota ngang cỡ Yaris Cross: Dùng pin BYD, đi gần 430 km/lần sạc](https://dantri.com.vn/o-to-xe-may/suv-dien-toyota-ngang-co-yaris-cross-dung-pin-byd-di-gan-430-kmlan-sac-20250727113159467.htm) - 04:32 27/07/2025
 - 🎓 [Nỗ lực của VinFast trong việc khởi xướng chiến dịch hỗ trợ chuyển đổi xanh](https://dantri.com.vn/o-to-xe-may/no-luc-cua-vinfast-trong-viec-khoi-xuong-chien-dich-ho-tro-chuyen-doi-xanh-20250727090858491.htm) - 03:12 27/07/2025
