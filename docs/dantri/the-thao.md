@@ -5,11 +5,11 @@ sidebar_position: 2
 
 <!-- dantri-the-thao:START -->
 - 🎡 [Đội trưởng U23 Indonesia thừa nhận &quot;tử huyệt&quot; trước khi gặp U23 Việt Nam](https://dantri.com.vn/the-thao/doi-truong-u23-indonesia-thua-nhan-tu-huyet-truoc-khi-gap-u23-viet-nam-20250727083634380.htm) - 05:04 27/07/2025
-- 💯 [Báo Indonesia tuyên bố thẳng thắn khi đội nhà quyết chiến với U23 Việt Nam](https://dantri.com.vn/the-thao/bao-indonesia-tuyen-bo-thang-than-khi-doi-nha-quyet-chien-voi-u23-viet-nam-20250727110630687.htm) - 04:14 27/07/2025
-- ⛽️ [Fernandes lập cú đúp giúp Man Utd hạ West Ham](https://dantri.com.vn/the-thao/fernandes-lap-cu-dup-giup-man-utd-ha-west-ham-20250727094324482.htm) - 02:43 27/07/2025
-- 💃 [Chuyên gia bóng đá Indonesia tự tin đội nhà sẽ thắng U23 Việt Nam](https://dantri.com.vn/the-thao/chuyen-gia-bong-da-indonesia-tu-tin-doi-nha-se-thang-u23-viet-nam-20250727083108072.htm) - 02:20 27/07/2025
-- 🌈 [Chủ tịch PSSI: “Đừng để U23 Việt Nam chà đạp tại sân nhà của Indonesia”](https://dantri.com.vn/the-thao/chu-tich-pssi-dung-de-u23-viet-nam-cha-dap-tai-san-nha-cua-indonesia-20250727075928646.htm) - 01:00 27/07/2025
-- 🦅 [U23 Việt Nam tiến vào chung kết: Vấn đề báo động, sẵn sàng vút bay](https://dantri.com.vn/the-thao/u23-viet-nam-tien-vao-chung-ket-van-de-bao-dong-san-sang-vut-bay-20250727000933220.htm) - 00:56 27/07/2025
+- 💯 [U23 Việt Nam tiến vào chung kết: Vấn đề báo động, sẵn sàng vút bay](https://dantri.com.vn/the-thao/u23-viet-nam-tien-vao-chung-ket-van-de-bao-dong-san-sang-vut-bay-20250727000933220.htm) - 05:00 27/07/2025
+- ⛽️ [Báo Indonesia tuyên bố thẳng thắn khi đội nhà quyết chiến với U23 Việt Nam](https://dantri.com.vn/the-thao/bao-indonesia-tuyen-bo-thang-than-khi-doi-nha-quyet-chien-voi-u23-viet-nam-20250727110630687.htm) - 04:14 27/07/2025
+- 💃 [Fernandes lập cú đúp giúp Man Utd hạ West Ham](https://dantri.com.vn/the-thao/fernandes-lap-cu-dup-giup-man-utd-ha-west-ham-20250727094324482.htm) - 02:43 27/07/2025
+- 🌈 [Chuyên gia bóng đá Indonesia tự tin đội nhà sẽ thắng U23 Việt Nam](https://dantri.com.vn/the-thao/chuyen-gia-bong-da-indonesia-tu-tin-doi-nha-se-thang-u23-viet-nam-20250727083108072.htm) - 02:20 27/07/2025
+- 🦅 [Chủ tịch PSSI: “Đừng để U23 Việt Nam chà đạp tại sân nhà của Indonesia”](https://dantri.com.vn/the-thao/chu-tich-pssi-dung-de-u23-viet-nam-cha-dap-tai-san-nha-cua-indonesia-20250727075928646.htm) - 01:00 27/07/2025
 - 🌝 [U23 Indonesia bất ngờ nhận tin dữ trước trận gặp U23 Việt Nam](https://dantri.com.vn/the-thao/u23-indonesia-bat-ngo-nhan-tin-du-truoc-tran-gap-u23-viet-nam-20250727003956004.htm) - 00:01 27/07/2025
 - 🚀 [U23 Việt Nam nhận tin cực vui trước trận chung kết U23 Đông Nam Á 2025](https://dantri.com.vn/the-thao/u23-viet-nam-nhan-tin-cuc-vui-truoc-tran-chung-ket-u23-dong-nam-a-2025-20250726231522337.htm) - 23:49 26/07/2025
 - 🎉 [Đội tuyển cầu mây nữ Việt Nam giành Huy chương bạc giải thế giới](https://dantri.com.vn/the-thao/doi-tuyen-cau-may-nu-viet-nam-gianh-huy-chuong-bac-giai-the-gioi-20250726234202670.htm) - 23:47 26/07/2025
