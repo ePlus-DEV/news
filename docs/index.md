@@ -313,7 +313,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Công an làm việc với người tung tin đập thủy điện Bản Vẽ bị vỡ](https://www.sggp.org.vn/cong-an-lam-viec-voi-nguoi-tung-tin-dap-thuy-dien-ban-ve-bi-vo-post805733.html) - 16:09 27/07/2025
+- 🪜 [Công an làm việc với người tung tin thất thiệt về đập thủy điện Bản Vẽ bị vỡ](https://www.sggp.org.vn/cong-an-lam-viec-voi-nguoi-tung-tin-that-thiet-ve-dap-thuy-dien-ban-ve-bi-vo-post805733.html) - 16:09 27/07/2025
 - 🌝 [Giúp dân ổn định cuộc sống sau lũ](https://www.sggp.org.vn/giup-dan-on-dinh-cuoc-song-sau-lu-post805719.html) - 14:54 27/07/2025
 - 💃 [Truy tìm người tung tin đồn đập thủy điện Bản Vẽ bị vỡ](https://www.sggp.org.vn/truy-tim-nguoi-tung-tin-don-dap-thuy-dien-ban-ve-bi-vo-post805730.html) - 14:13 27/07/2025
 - 🧑‍💻 [Thủ tướng yêu cầu tập trung khắc phục hậu quả lũ quét, sạt lở đất tại tỉnh Sơn La](https://www.sggp.org.vn/thu-tuong-yeu-cau-tap-trung-khac-phuc-hau-qua-lu-quet-sat-lo-dat-tai-tinh-son-la-post805727.html) - 13:26 27/07/2025
