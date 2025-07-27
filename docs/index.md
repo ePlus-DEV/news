@@ -32,7 +32,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🌏 [Trụ trì Thiếu Lâm Tự bị điều tra](https://vnexpress.net/tru-tri-thieu-lam-tu-bi-dieu-tra-4919539.html) - 14:16 27/07/2025
 - 🧐 [Bác tin đồn &#39;vỡ đập thủy điện Bản Vẽ&#39;](https://vnexpress.net/bac-tin-don-vo-dap-thuy-dien-ban-ve-4919534.html) - 14:15 27/07/2025
 - 💫 [Cô gái trả lại 45 triệu đồng nhặt được](https://vnexpress.net/co-gai-tra-lai-45-trieu-dong-nhat-duoc-4919532.html) - 13:52 27/07/2025
-- 😺 [Rashford góp công vào bàn thắng của Barca](https://vnexpress.net/rashford-gop-cong-vao-ban-thang-cua-barca-4919533.html) - 13:38 27/07/2025
+- 😺 [Barca đại thắng trong trận đầu của Rashford](https://vnexpress.net/barca-dai-thang-trong-tran-dau-cua-rashford-4919533.html) - 13:38 27/07/2025
 - 🕯 [Vẻ đẹp hoa sen trên gốm](https://vnexpress.net/ve-dep-hoa-sen-tren-gom-4919518.html) - 13:30 27/07/2025
 - 💃 [Chi hơn 14 tỷ đồng &#39;thải độc&#39; tại tiệm tóc, người đàn ông gặp biến chứng sức khỏe](https://vnexpress.net/chi-hon-14-ty-dong-thai-doc-tai-tiem-toc-nguoi-dan-ong-gap-bien-chung-suc-khoe-4919479.html) - 13:26 27/07/2025
 - 💂 [Các tỷ phú Việt đều giàu lên trong tháng 7](https://vnexpress.net/cac-ty-phu-viet-deu-giau-len-trong-thang-7-4919449.html) - 13:03 27/07/2025
