@@ -34,7 +34,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 💫 [Tìm anh, người đàn ông trưởng thành và thấu hiểu](https://vnexpress.net/tim-anh-nguoi-dan-ong-truong-thanh-va-thau-hieu-4919381.html) - 05:39 27/07/2025
 - 😺 [Người đi xe máy chửi tôi &#39;muốn chết à&#39; sau va chạm](https://vnexpress.net/va-cham-giao-thong-danh-nhau-danh-nguoi-sau-va-cham-giao-thong-nguoi-di-xe-may-chui-toi-muon-chet-a-sau-va-cham-4919450.html) - 05:39 27/07/2025
 - 🕯 [Con gái Angelina Jolie hẹn hò đồng tính](https://vnexpress.net/con-gai-angelina-jolie-hen-ho-dong-tinh-4919377.html) - 05:05 27/07/2025
-- 💃 [Thế Giới Di Động báo lãi quý II cao kỷ lục](https://vnexpress.net/the-gioi-di-dong-bao-lai-quy-ii-cao-ky-luc-4919378.html) - 05:04 27/07/2025
+- 💃 [Thế Giới Di Động báo doanh thu quý II cao kỷ lục](https://vnexpress.net/the-gioi-di-dong-bao-doanh-thu-quy-ii-cao-ky-luc-4919378.html) - 05:04 27/07/2025
 - 💂 [Long Thành được dự báo thành siêu sân bay thập kỷ tới](https://vnexpress.net/long-thanh-duoc-du-bao-thanh-sieu-san-bay-thap-ky-toi-4919408.html) - 05:02 27/07/2025
 - 🎊 [Đường bay thẳng Moskva - Bình Nhưỡng mở lại sau nhiều thập kỷ](https://vnexpress.net/duong-bay-thang-moskva-binh-nhuong-mo-lai-sau-nhieu-thap-ky-4919414.html) - 05:01 27/07/2025
 - 🤠 [Bị người nhà chồng chửi và đánh sau khi cho họ mượn xe](https://vnexpress.net/nha-chong-ghe-gom-nha-chong-bat-nat-bi-nguoi-nha-chong-chui-va-danh-sau-khi-cho-ho-muon-xe-4919358.html) - 05:00 27/07/2025
