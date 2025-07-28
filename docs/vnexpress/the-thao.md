@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Chân sút chủ lực của U23 Indonesia gây tò mò](https://vnexpress.net/chan-sut-chu-luc-cua-u23-indonesia-gay-to-mo-4919960.html) - 13:53 28/07/2025
 - 🦩 [CLB Quảng Nam vẫn dự V-League](https://vnexpress.net/clb-quang-nam-van-du-v-league-4919955.html) - 12:57 28/07/2025
-- 🧰 [Philippines 0-1 Thái Lan &lpar;H2&rpar;: Trọng tài bỏ qua phạt đền](https://vnexpress.net/truc-tiep-tran-philippines-vs-thai-lan-o-giai-u23-dong-nam-a-4919903.html) - 12:30 28/07/2025
+- 🧰 [Philippines 1-3 Thái Lan &lpar;H2&rpar;: Seksan ghi bàn ở chạm đầu tiên](https://vnexpress.net/truc-tiep-tran-philippines-vs-thai-lan-o-giai-u23-dong-nam-a-4919903.html) - 12:30 28/07/2025
 - 🤗 [Người lạ leo nóc khán đài theo dõi U23 Việt Nam](https://vnexpress.net/nguoi-la-leo-noc-khan-dai-theo-doi-u23-viet-nam-4919952.html) - 12:09 28/07/2025
 - 🥳 [HLV Indonesia: &#39;Không ngán đá luân lưu với Việt Nam&#39;](https://vnexpress.net/hlv-indonesia-khong-ngan-da-luan-luu-voi-viet-nam-4919906.html) - 09:54 28/07/2025
 - 🦣 [Thái Lan không thể cấm Campuchia dự SEA Games 33](https://vnexpress.net/thai-lan-khong-the-cam-campuchia-du-sea-games-33-4919848.html) - 08:48 28/07/2025
