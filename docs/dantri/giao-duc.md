@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-giao-duc:START -->
-- 🤡 [Giảm 5.000 đồng/nguyện vọng xét tuyển đại học 2025, tiết kiệm hơn 38 tỷ](https://dantri.com.vn/giao-duc/giam-5000-dongnguyen-vong-xet-tuyen-dai-hoc-2025-tiet-kiem-hon-38-ty-20250728201550268.htm) - 13:21 28/07/2025
+- 🤡 [Giảm 5.000 đồng/nguyện vọng xét tuyển đại học, tiết kiệm hơn 38 tỷ đồng](https://dantri.com.vn/giao-duc/giam-5000-dongnguyen-vong-xet-tuyen-dai-hoc-tiet-kiem-hon-38-ty-dong-20250728201550268.htm) - 13:21 28/07/2025
 - 🗽 [Hướng dẫn nộp lệ phí xét tuyển đại học, cao đẳng theo tỉnh thành sáp nhập](https://dantri.com.vn/giao-duc/huong-dan-nop-le-phi-xet-tuyen-dai-hoc-cao-dang-theo-tinh-thanh-sap-nhap-20250728193617157.htm) - 12:38 28/07/2025
 - 🚦 [Trung bình mỗi thí sinh chọn khoảng 9 nguyện vọng xét tuyển ĐH, CĐ](https://dantri.com.vn/giao-duc/trung-binh-moi-thi-sinh-chon-khoang-9-nguyen-vong-xet-tuyen-dh-cd-20250728180757674.htm) - 12:17 28/07/2025
 - 🌋 [Đại học Khoa học tự nhiên TPHCM công bố quy đổi điểm, bổ sung tiêu chí](https://dantri.com.vn/giao-duc/dai-hoc-khoa-hoc-tu-nhien-tphcm-cong-bo-quy-doi-diem-bo-sung-tieu-chi-20250728164845439.htm) - 09:59 28/07/2025
