@@ -5,7 +5,7 @@ sidebar_position: 17
 
 <!-- dantri-the-gioi:START -->
 - 🌋 [Thái Lan - Campuchia hoãn họp chỉ huy quân sự sau thông tin vẫn có súng nổ](https://dantri.com.vn/the-gioi/thai-lan-campuchia-hoan-hop-chi-huy-quan-su-sau-thong-tin-van-co-sung-no-20250729113801042.htm) - 04:48 29/07/2025
-- 🎬 [Chiến sự Ukraine 28/7: Phòng tuyến Kiev quanh Pokrovsk nhanh chóng sụp đổ](https://dantri.com.vn/the-gioi/chien-su-ukraine-287-phong-tuyen-kiev-quanh-pokrovsk-nhanh-chong-sup-do-20250729111527633.htm) - 04:27 29/07/2025
+- 🎬 [Chiến sự Ukraine 29/7: Phòng tuyến Kiev quanh Pokrovsk nhanh chóng sụp đổ](https://dantri.com.vn/the-gioi/chien-su-ukraine-297-phong-tuyen-kiev-quanh-pokrovsk-nhanh-chong-sup-do-20250729111527633.htm) - 04:27 29/07/2025
 - 🧰 [Nổ súng bên trong nhà chọc trời ở New York: 4 người chết, nghi phạm tự sát](https://dantri.com.vn/the-gioi/no-sung-ben-trong-nha-choc-troi-o-new-york-4-nguoi-chet-nghi-pham-tu-sat-20250729111900428.htm) - 04:21 29/07/2025
 - 🌋 [Ngoại trưởng Lavrov: Lần đầu tiên Nga phải đơn độc đối đầu phương Tây](https://dantri.com.vn/the-gioi/ngoai-truong-lavrov-lan-dau-tien-nga-phai-don-doc-doi-dau-phuong-tay-20250729101031121.htm) - 04:00 29/07/2025
 - 🗽 [Nhà sản xuất nước ngoài đầu tiên tới Ukraine thử nghiệm vũ khí](https://dantri.com.vn/the-gioi/nha-san-xuat-nuoc-ngoai-dau-tien-toi-ukraine-thu-nghiem-vu-khi-20250729092521057.htm) - 03:34 29/07/2025
