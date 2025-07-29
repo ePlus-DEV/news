@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Nhà đầu tư cần làm gì sau phiên chứng khoán giảm mạnh?](https://vnexpress.net/du-bao-chung-khoan-ngay-30-7-nha-dau-tu-can-lam-gi-sau-phien-vn-index-giam-manh-4920429.html) - 17:00 29/07/2025
+- ⛽️ [Nhà đầu tư cần tránh &#39;đoán đáy&#39; sau phiên chứng khoán giảm mạnh](https://vnexpress.net/nha-dau-tu-can-tranh-doan-day-sau-phien-chung-khoan-giam-manh-4920429.html) - 17:00 29/07/2025
 - 🐲 [Đề xuất thí điểm điện hóa ngành thép, dệt may, nhựa tại TP HCM](https://vnexpress.net/de-xuat-thi-diem-dien-hoa-nganh-thep-det-may-nhua-tai-tp-hcm-4920326.html) - 14:32 29/07/2025
 - 🔥 [VPBank nhận khoản vay hợp vốn 350 triệu USD](https://vnexpress.net/vpbank-nhan-khoan-vay-hop-von-350-trieu-usd-4920394.html) - 12:00 29/07/2025
 - 🐵 [Vì sao chứng khoán giảm 64 điểm?](https://vnexpress.net/vi-sao-chung-khoan-giam-64-diem-4920384.html) - 11:50 29/07/2025
