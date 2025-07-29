@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Việt Nam 1-0 Indonesia &lpar;H2&rpar;: Hai đội lao vào nhau](https://vnexpress.net/truc-tiep-viet-nam-vs-indonesia-4920399.html) - 12:15 29/07/2025
+- 🪜 [Việt Nam 1-0 Indonesia &lpar;H2&rpar;: Phòng ngự chặt chẽ](https://vnexpress.net/truc-tiep-viet-nam-vs-indonesia-4920399.html) - 12:15 29/07/2025
 - 🦩 [Cannavaro, Polking là ứng viên dẫn dắt tuyển Singapore](https://vnexpress.net/cannavaro-polking-la-ung-vien-dan-dat-tuyen-singapore-4920413.html) - 12:06 29/07/2025
 - 🧰 [Việt Nam tái ngộ Nhật Bản ở vòng bảng Asian Cup nữ 2026](https://vnexpress.net/viet-nam-tai-ngo-nhat-ban-o-vong-bang-asian-cup-nu-2026-4920401.html) - 11:16 29/07/2025
 - 🤗 [FPT hợp tác Cục Thể dục Thể thao tổ chức sự kiện, chuyển đổi số](https://vnexpress.net/fpt-hop-tac-cuc-the-duc-the-thao-to-chuc-su-kien-chuyen-doi-so-4920052.html) - 10:33 29/07/2025
