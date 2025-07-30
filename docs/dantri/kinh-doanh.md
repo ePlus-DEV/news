@@ -4,11 +4,11 @@ sidebar_position: 5
 ---
 
 <!-- dantri-kinh-doanh:START -->
-- 🏊 [Start up làm ứng dụng hẹn hò từ cơn sốt pickleball](https://dantri.com.vn/kinh-doanh/start-up-lam-ung-dung-hen-ho-tu-con-sot-pickleball-20250730124005659.htm) - 07:18 30/07/2025
-- 🦆 [Lực đẩy mới góp phần thay đổi diện mạo hạ tầng và đô thị Việt Nam](https://dantri.com.vn/kinh-doanh/luc-day-moi-gop-phan-thay-doi-dien-mao-ha-tang-va-do-thi-viet-nam-20250730134751537.htm) - 07:00 30/07/2025
-- 🦄 [Chứng khoán vừa giảm sâu, hôm nay sẽ ra sao?](https://dantri.com.vn/kinh-doanh/chung-khoan-vua-giam-sau-hom-nay-se-ra-sao-20250730101352358.htm) - 04:37 30/07/2025
-- 🌝 [Chuyên gia Thung lũng Silicon nói cách để Việt Nam tăng trưởng nhảy vọt](https://dantri.com.vn/kinh-doanh/chuyen-gia-thung-lung-silicon-noi-cach-de-viet-nam-tang-truong-nhay-vot-20250730111351649.htm) - 04:35 30/07/2025
-- 💃 [Chứng khoán hồi phục mạnh mẽ sau phiên &quot;rơi&quot; 64 điểm](https://dantri.com.vn/kinh-doanh/chung-khoan-hoi-phuc-manh-me-sau-phien-roi-64-diem-20250730102936184.htm) - 04:29 30/07/2025
+- 🏊 [Chứng khoán bật tăng trở lại, cổ phiếu ngân hàng nổi sóng](https://dantri.com.vn/kinh-doanh/chung-khoan-bat-tang-tro-lai-co-phieu-ngan-hang-noi-song-20250730102936184.htm) - 09:06 30/07/2025
+- 🦆 [Start up làm ứng dụng hẹn hò từ cơn sốt pickleball](https://dantri.com.vn/kinh-doanh/start-up-lam-ung-dung-hen-ho-tu-con-sot-pickleball-20250730124005659.htm) - 07:18 30/07/2025
+- 🦄 [Lực đẩy mới góp phần thay đổi diện mạo hạ tầng và đô thị Việt Nam](https://dantri.com.vn/kinh-doanh/luc-day-moi-gop-phan-thay-doi-dien-mao-ha-tang-va-do-thi-viet-nam-20250730134751537.htm) - 07:00 30/07/2025
+- 🌝 [Chứng khoán vừa giảm sâu, hôm nay sẽ ra sao?](https://dantri.com.vn/kinh-doanh/chung-khoan-vua-giam-sau-hom-nay-se-ra-sao-20250730101352358.htm) - 04:37 30/07/2025
+- 💃 [Chuyên gia Thung lũng Silicon nói cách để Việt Nam tăng trưởng nhảy vọt](https://dantri.com.vn/kinh-doanh/chuyen-gia-thung-lung-silicon-noi-cach-de-viet-nam-tang-truong-nhay-vot-20250730111351649.htm) - 04:35 30/07/2025
 - 🦏 [Giá USD lập kỷ lục mới, chuyên gia nói gì về áp lực tỷ giá?](https://dantri.com.vn/kinh-doanh/gia-usd-lap-ky-luc-moi-chuyen-gia-noi-gi-ve-ap-luc-ty-gia-20250729170712179.htm) - 04:28 30/07/2025
 - 🦩 [Nhà máy cọc lớn hàng đầu Đông Nam Á của AMACCAO chuẩn bị vận hành](https://dantri.com.vn/kinh-doanh/nha-may-coc-lon-hang-dau-dong-nam-a-cua-amaccao-chuan-bi-van-hanh-20250730105014520.htm) - 03:56 30/07/2025
 - 💡 [Nhiệt điện Quảng Trạch 1: Nhà máy tiên phong ứng dụng công nghệ trên siêu tới hạn](https://dantri.com.vn/kinh-doanh/nhiet-dien-quang-trach-1-nha-may-tien-phong-ung-dung-cong-nghe-tren-sieu-toi-han-20250730102205929.htm) - 03:27 30/07/2025
