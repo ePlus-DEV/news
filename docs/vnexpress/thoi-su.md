@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Nhiều doanh nghiệp đề xuất là tổng thầu xây dựng metro tại TP HCM](https://vnexpress.net/nhieu-doanh-nghiep-de-xuat-la-tong-thau-xay-dung-metro-tai-tp-hcm-4920744.html) - 05:02 31/07/2025
 - 🤓 [Thêm hơn 400 xe buýt điện vận hành tại TP HCM](https://vnexpress.net/them-hon-400-xe-buyt-dien-van-hanh-tai-tp-hcm-4921089.html) - 04:27 31/07/2025
 - ⚗️ [Chó dại cắn 5 người dân ở Đà Nẵng](https://vnexpress.net/cho-dai-can-5-nguoi-dan-o-da-nang-4921033.html) - 04:19 31/07/2025
-- 🌊 [Hai bố con chèo thuyền kayak bị sóng đánh trôi trên biển 13 tiếng](https://vnexpress.net/hai-bo-con-cheo-thuyen-kayak-bi-song-danh-troi-tren-bien-13-tieng-4921030.html) - 03:14 31/07/2025
+- 🌊 [Hai bố con trôi dạt 13 tiếng khi chèo sup trên biển](https://vnexpress.net/hai-bo-con-troi-dat-13-tieng-khi-cheo-sup-tren-bien-4921030.html) - 03:14 31/07/2025
 - 🎓 [Thanh Hóa sẽ điều động hàng loạt công chức lên miền núi](https://vnexpress.net/thanh-hoa-se-dieu-dong-hang-loat-cong-chuc-len-mien-nui-4920884.html) - 01:07 31/07/2025
 - 🔥 [Chơi trong khuôn viên cơ sở y tế, bé 3 tuổi bị ôtô tông](https://vnexpress.net/choi-trong-khuon-vien-co-so-y-te-be-3-tuoi-bi-oto-tong-4920906.html) - 15:23 30/07/2025
 - 🦏 [Vỡ hố chôn lấp rác ở Quảng Ngãi](https://vnexpress.net/vo-ho-chon-lap-rac-o-quang-ngai-4920917.html) - 14:12 30/07/2025
