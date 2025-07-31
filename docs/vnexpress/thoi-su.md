@@ -16,7 +16,7 @@ sidebar_position: 1
 - 🚦 [Câu chuyện xúc động trong lễ gặp mặt của Tổng Bí thư với tướng lĩnh quân đội](https://vnexpress.net/cau-chuyen-xuc-dong-trong-le-gap-mat-cua-tong-bi-thu-voi-tuong-linh-quan-doi-4921198.html) - 10:30 31/07/2025
 - 🎉 [Cao tốc Bắc Nam sẽ được mở rộng theo phương thức PPP](https://vnexpress.net/cao-toc-bac-nam-se-duoc-mo-rong-theo-phuong-thuc-ppp-4921230.html) - 09:40 31/07/2025
 - 🦒 [Miền Bắc chấm dứt nắng nóng](https://vnexpress.net/mien-bac-cham-dut-nang-nong-4921142.html) - 08:28 31/07/2025
-- 🤗 [Hình dáng các trạm dịch vụ công cộng ở biển Bãi Sau Vũng Tàu](https://vnexpress.net/hinh-dang-cac-tram-dich-vu-cong-cong-o-bien-bai-sau-vung-tau-4921127.html) - 08:09 31/07/2025
+- 🤗 [Hình dáng các trạm dịch vụ công cộng ở Bãi Sau Vũng Tàu](https://vnexpress.net/hinh-dang-cac-tram-dich-vu-cong-cong-o-bai-sau-vung-tau-4921127.html) - 08:09 31/07/2025
 - 💼 [Tổng Bí thư: Trung ương khóa mới dự kiến có 200 ủy viên](https://vnexpress.net/tong-bi-thu-trung-uong-khoa-moi-du-kien-co-200-uy-vien-4921143.html) - 07:53 31/07/2025
 - 🤩 [Đào tạo, tuyển dụng bộ đội xuất ngũ làm tài xế](https://vnexpress.net/dao-tao-tuyen-dung-bo-doi-xuat-ngu-lam-tai-xe-4921084.html) - 07:00 31/07/2025
 - 🤡 [Nhiều doanh nghiệp đề xuất là tổng thầu xây dựng metro tại TP HCM](https://vnexpress.net/nhieu-doanh-nghiep-de-xuat-la-tong-thau-xay-dung-metro-tai-tp-hcm-4920744.html) - 05:02 31/07/2025
