@@ -5,7 +5,7 @@ sidebar_position: 5
 
 <!-- vnexpress-giai-tri:START -->
 - 🌏 [Quân A.P kết hợp Pháp Kiều](https://vnexpress.net/quan-a-p-ket-hop-phap-kieu-4920730.html) - 13:20 31/07/2025
-- 💫 [Tom Cruise &#39;kín kẽ&#39; chuyện tình cảm](https://vnexpress.net/tom-cruise-kin-ke-chuyen-tinh-cam-4920566.html) - 13:00 31/07/2025
+- 💫 [Tom Cruise kín kẽ chuyện tình cảm](https://vnexpress.net/tom-cruise-kin-ke-chuyen-tinh-cam-4920566.html) - 13:00 31/07/2025
 - 🌮 [Ed Sheeran triển lãm tranh đầu tay](https://vnexpress.net/ed-sheeran-trien-lam-tranh-dau-tay-4921238.html) - 12:00 31/07/2025
 - 🧠 [AI chỉnh sửa phim &#39;Phù thủy xứ Oz&#39;](https://vnexpress.net/ai-chinh-sua-phim-phu-thuy-xu-oz-4921045.html) - 11:30 31/07/2025
 - 👨‍🏫 [Hậu vệ Héctor Bellerín: &#39;Văn chương thay đổi cuộc đời tôi&#39;](https://vnexpress.net/hau-ve-hector-bellerin-van-chuong-thay-doi-cuoc-doi-toi-4920768.html) - 11:01 31/07/2025
