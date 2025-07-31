@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 
 <!-- vnexpress-suc-khoe:START -->
-- 🔥 [Uống nước mía trị đái tháo đường, người phụ nguy kịch](https://vnexpress.net/uong-nuoc-mia-tri-dai-thao-duong-nguoi-phu-nguy-kich-4921255.html) - 14:01 31/07/2025
+- 🔥 [Uống nước mía trị đái tháo đường, người phụ nữ nguy kịch](https://vnexpress.net/uong-nuoc-mia-tri-dai-thao-duong-nguoi-phu-nu-nguy-kich-4921255.html) - 14:01 31/07/2025
 - 🥰 [Bị són tiểu sau sinh có chữa được không?](https://vnexpress.net/bi-son-tieu-sau-sinh-co-chua-duoc-khong-4920361.html) - 13:00 31/07/2025
 - 💡 [Ngừng tim đột ngột - mối đe dọa kể cả với người khỏe mạnh](https://vnexpress.net/ngung-tim-dot-ngot-moi-de-doa-ke-ca-voi-nguoi-khoe-manh-4921291.html) - 12:16 31/07/2025
 - 🤗 [Làm cha ở tuổi U70 sau nối ống dẫn tinh thất bại](https://vnexpress.net/lam-cha-o-tuoi-u70-sau-noi-ong-dan-tinh-that-bai-4921092.html) - 12:00 31/07/2025
