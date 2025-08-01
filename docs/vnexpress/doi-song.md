@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Chuyện tình cô gái Việt ở Facebook](https://vnexpress.net/chuyen-tinh-co-gai-viet-o-facebook-4918819.html) - 23:00 01/08/2025
+- 🚀 [Chuyện tình của cô gái Việt làm ở Facebook](https://vnexpress.net/chuyen-tinh-cua-co-gai-viet-lam-o-facebook-4918819.html) - 23:00 01/08/2025
 - 🎓 [Vì sao nên để lạc &#39;nghỉ&#39; sau khi rang?](https://vnexpress.net/vi-sao-nen-de-lac-nghi-sau-khi-rang-4921656.html) - 08:31 01/08/2025
 - 🚦 [Nepal đã trở thành &#39;thủ phủ xe điện&#39; như thế nào](https://vnexpress.net/nepal-da-tro-thanh-thu-phu-xe-dien-nhu-the-nao-4921468.html) - 07:40 01/08/2025
 - 🦣 [14 năm bám trụ &#39;vùng đất chết&#39; Fukushima](https://vnexpress.net/14-nam-bam-tru-vung-dat-chet-fukushima-4921545.html) - 05:49 01/08/2025
