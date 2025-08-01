@@ -4,63 +4,63 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Cuộc đua xây phòng tuyến của Ukraine nhằm kìm chân Nga](https://vnexpress.net/cuoc-dua-xay-phong-tuyen-cua-ukraine-nham-kim-chan-nga-4921137.html) - 22:00 31/07/2025
-- 🕴 [Thất bại an ninh trong vụ xả súng tòa văn phòng ở New York](https://vnexpress.net/that-bai-an-ninh-trong-vu-xa-sung-toa-van-phong-o-new-york-4920953.html) - 17:00 31/07/2025
-- 🤭 [Người Campuchia cảm ơn ông Trump trên mạng xã hội](https://vnexpress.net/nguoi-campuchia-cam-on-ong-trump-tren-mang-xa-hoi-4921321.html) - 16:02 31/07/2025
-- 🧑‍💻 [Tiến sĩ dược ở Mỹ bỏ việc để khởi nghiệp với cà phê Việt](https://vnexpress.net/tien-si-duoc-o-my-bo-viec-de-khoi-nghiep-voi-ca-phe-viet-4920972.html) - 14:00 31/07/2025
-- 🦏 [Ông Zelensky khôi phục tự chủ cho cơ quan chống tham nhũng](https://vnexpress.net/ong-zelensky-khoi-phuc-tu-chu-cho-co-quan-chong-tham-nhung-4921298.html) - 13:44 31/07/2025
-- 🦒 [Bắc Kinh thừa nhận thiếu sót trong ứng phó &#39;mưa lũ tử thần&#39;](https://vnexpress.net/bac-kinh-thua-nhan-thieu-sot-trong-ung-pho-mua-lu-tu-than-4921290.html) - 12:37 31/07/2025
-- 🌈 [Vòng phong tỏa của Israel đẩy Gaza vào nạn đói](https://vnexpress.net/vong-phong-toa-cua-israel-day-gaza-vao-nan-doi-4920977.html) - 12:00 31/07/2025
-- 🧑‍🏫 [Ông Trump, ông Medvedev đấu khẩu trên mạng xã hội](https://vnexpress.net/ong-trump-ong-medvedev-dau-khau-tren-mang-xa-hoi-4921262.html) - 11:53 31/07/2025
-- 🐲 [Thủ tướng Litva từ chức](https://vnexpress.net/thu-tuong-litva-tu-chuc-4921247.html) - 11:22 31/07/2025
-- 🦒 [Chủ tịch nước sắp thăm Ai Cập, Angola](https://vnexpress.net/chu-tich-nuoc-sap-tham-ai-cap-angola-4921273.html) - 11:02 31/07/2025
-- 🐻 [Việt Nam xử lý công dân Nigeria cư trú trái phép, vi phạm pháp luật](https://vnexpress.net/viet-nam-xu-ly-cong-dan-nigeria-cu-tru-trai-phep-vi-pham-phap-luat-4921241.html) - 10:43 31/07/2025
-- 🚀 [Việt Nam sẽ phối hợp điều tra vụ công dân bị cáo buộc giết người ở Nhật](https://vnexpress.net/viet-nam-se-phoi-hop-dieu-tra-vu-cong-dan-bi-cao-buoc-giet-nguoi-o-nhat-4921220.html) - 09:22 31/07/2025
-- 🥰 [Thái Lan từ chối sớm trao trả quân nhân cho Campuchia](https://vnexpress.net/thai-lan-tu-choi-som-trao-tra-quan-nhan-cho-campuchia-4921158.html) - 09:13 31/07/2025
-- 🔥 [Xu hướng nuôi sư tử làm thú cưng ở Thái Lan](https://vnexpress.net/xu-huong-nuoi-su-tu-lam-thu-cung-o-thai-lan-4921048.html) - 08:49 31/07/2025
-- 🥳 [Tiêm kích F-35 Mỹ rơi, bốc cháy dữ dội](https://vnexpress.net/tiem-kich-f-35-my-roi-boc-chay-du-doi-4921145.html) - 08:26 31/07/2025
-- 💼 [Nga tuyên bố kiểm soát thành trì chiến lược Chasov Yar](https://vnexpress.net/nga-tuyen-bo-kiem-soat-thanh-tri-chien-luoc-chasov-yar-4921149.html) - 07:35 31/07/2025
-- 🤡 [Ông Trump khen tài đánh golf của cháu gái 11 tuổi](https://vnexpress.net/ong-trump-khen-tai-danh-golf-cua-chau-gai-11-tuoi-4920980.html) - 07:21 31/07/2025
-- 🌁 [Nữ phi công gốc Việt từng bay vòng quanh thế giới tử nạn tại Mỹ](https://vnexpress.net/nu-phi-cong-goc-viet-tung-bay-vong-quanh-the-gioi-tu-nan-tai-my-4921104.html) - 06:57 31/07/2025
-- 🤩 [Nga phóng loạt tên lửa, UAV làm rung chuyển Kiev](https://vnexpress.net/nga-phong-loat-ten-lua-uav-lam-rung-chuyen-kiev-4921098.html) - 06:55 31/07/2025
-- 🎉 [Israel có thể dọa sáp nhập một phần Dải Gaza](https://vnexpress.net/israel-co-the-doa-sap-nhap-mot-phan-dai-gaza-4921036.html) - 04:14 31/07/2025
-- 🎉 [Đại học Mỹ chi 50 triệu USD để dàn xếp với chính quyền Trump](https://vnexpress.net/dai-hoc-my-chi-50-trieu-usd-de-dan-xep-voi-chinh-quyen-trump-4921015.html) - 03:42 31/07/2025
-- 🌁 [Nhật muốn giới hạn mức phí lao động phải trả cho công ty phái cử](https://vnexpress.net/nhat-muon-gioi-han-muc-phi-lao-dong-phai-tra-cho-cong-ty-phai-cu-4920903.html) - 02:49 31/07/2025
-- 🌊 [Thái Lan bắt nhóm binh sĩ Campuchia sau lệnh ngừng bắn](https://vnexpress.net/thai-lan-bat-nhom-binh-si-campuchia-sau-lenh-ngung-ban-4920995.html) - 02:37 31/07/2025
-- 🕴 [Bà Harris sẽ không tranh cử thống đốc California](https://vnexpress.net/ba-harris-se-khong-tranh-cu-thong-doc-california-4920967.html) - 02:05 31/07/2025
-- 🎓 [Rơi máy bay quân sự ở Venezuela, 7 người chết](https://vnexpress.net/roi-may-bay-quan-su-o-venezuela-7-nguoi-chet-4920951.html) - 01:12 31/07/2025
-- 🦩 [Chile sơ tán 1,4 triệu dân vì nguy cơ sóng thần](https://vnexpress.net/chile-so-tan-1-4-trieu-dan-vi-nguy-co-song-than-4920949.html) - 00:42 31/07/2025
-- 🌏 [Nga &#39;triển khai loạt UAV phản lực&#39; tập kích Ukraine](https://vnexpress.net/nga-trien-khai-loat-uav-phan-luc-tap-kich-ukraine-4920842.html) - 00:39 31/07/2025
-- 🌋 [Ukraine tuyên bố phát hiện gián điệp chỉ điểm vị trí F-16 cho Nga](https://vnexpress.net/ukraine-tuyen-bo-phat-hien-gian-diep-chi-diem-vi-tri-f-16-cho-nga-4920950.html) - 00:03 31/07/2025
-- 🪜 [Canada sắp công nhận Nhà nước Palestine](https://vnexpress.net/canada-sap-cong-nhan-nha-nuoc-palestine-4920946.html) - 23:49 30/07/2025
-- 🕴 [Lý do thúc đẩy Anh, Pháp công nhận Nhà nước Palestine](https://vnexpress.net/ly-do-thuc-day-anh-phap-cong-nhan-nha-nuoc-palestine-4920495.html) - 17:00 30/07/2025
-- 🧑‍🏫 [Việt Nam sẵn sàng tham gia cơ chế đảm bảo lệnh ngừng bắn Campuchia - Thái Lan](https://vnexpress.net/viet-nam-san-sang-tham-gia-co-che-dam-bao-lenh-ngung-ban-campuchia-thai-lan-4920930.html) - 15:59 30/07/2025
-- 🌮 [LHQ kêu gọi Campuchia, Thái Lan tuân thủ lệnh ngừng bắn](https://vnexpress.net/lhq-keu-goi-campuchia-thai-lan-tuan-thu-lenh-ngung-ban-4920915.html) - 15:24 30/07/2025
-- 🚦 [Nga nêu lý do không có thương vong trong động đất, sóng thần](https://vnexpress.net/nga-neu-ly-do-khong-co-thuong-vong-trong-dong-dat-song-than-4920907.html) - 14:20 30/07/2025
-- 💫 [Nga, Nhật Bản gỡ cảnh báo sóng thần](https://vnexpress.net/nga-nhat-ban-go-canh-bao-song-than-4920891.html) - 13:16 30/07/2025
-- 🤡 [Xe khách gặp nạn trong mưa lớn ở Trung Quốc, ít nhất 10 người chết](https://vnexpress.net/xe-khach-gap-nan-trong-mua-lon-o-trung-quoc-it-nhat-10-nguoi-chet-4920898.html) - 12:49 30/07/2025
-- 🦣 [Thách thức với Campuchia - Thái Lan sau lệnh ngừng bắn](https://vnexpress.net/thach-thuc-voi-campuchia-thai-lan-sau-lenh-ngung-ban-4920536.html) - 12:00 30/07/2025
-- 🎬 [Một người Việt thiệt mạng khi tắm biển tại Nhật Bản](https://vnexpress.net/mot-nguoi-viet-thiet-mang-khi-tam-bien-tai-nhat-ban-4920865.html) - 11:44 30/07/2025
-- 🎉 [Thượng Hải sơ tán gần 283.000 người vì bão](https://vnexpress.net/thuong-hai-so-tan-gan-283-000-nguoi-vi-bao-4920881.html) - 11:34 30/07/2025
-- 🎡 [Harvard có thể tốn hàng trăm triệu USD để dàn xếp loạt điều tra](https://vnexpress.net/harvard-co-the-ton-hang-tram-trieu-usd-de-dan-xep-loat-dieu-tra-4920654.html) - 11:19 30/07/2025
-- 🌜 [Khoảnh khắc tên lửa Iskander tập kích kép vào thao trường Ukraine](https://vnexpress.net/khoanh-khac-ten-lua-iskander-tap-kich-kep-vao-thao-truong-ukraine-4920802.html) - 11:10 30/07/2025
-- 🎡 [Bác sĩ Nga ôm chặt bệnh nhân giữa động đất 8,8 độ](https://vnexpress.net/bac-si-nga-om-chat-benh-nhan-giua-dong-dat-8-8-do-4920859.html) - 10:33 30/07/2025
-- 🤗 [Truy đuổi xuồng cao tốc chở 1,5 tấn ma túy suốt 12 giờ liên tục](https://vnexpress.net/truy-duoi-xuong-cao-toc-cho-1-5-tan-ma-tuy-suot-12-gio-lien-tuc-4920764.html) - 09:46 30/07/2025
-- 🦩 [Sóng thần đổ bộ loạt bờ biển sau trận động đất 8,8 độ](https://vnexpress.net/song-than-do-bo-loat-bo-bien-sau-tran-dong-dat-8-8-do-4920799.html) - 08:51 30/07/2025
-- 🎓 [Giây phút sóng thần cuốn trôi nhà cửa ở thị trấn Nga](https://vnexpress.net/giay-phut-song-than-cuon-troi-nha-cua-o-thi-tran-nga-4920761.html) - 08:30 30/07/2025
-- 🌁 [Chủ tịch Quốc hội mong Campuchia - Thái Lan gác lại bất đồng](https://vnexpress.net/chu-tich-quoc-hoi-mong-campuchia-thai-lan-gac-lai-bat-dong-4920743.html) - 08:23 30/07/2025
-- 🤩 [Thái Lan cảnh báo &#39;hành động quyết liệt&#39; nếu súng vẫn nổ ở biên giới](https://vnexpress.net/thai-lan-canh-bao-hanh-dong-quyet-liet-neu-sung-van-no-o-bien-gioi-4920759.html) - 08:23 30/07/2025
-- 👹 [Ông Trump ấn định tối hậu thư mới với Nga](https://vnexpress.net/ong-trump-an-dinh-toi-hau-thu-moi-voi-nga-4920696.html) - 07:46 30/07/2025
-- ⛽️ [Nổ nhà máy pháo hoa Thái Lan, 9 người chết](https://vnexpress.net/no-nha-may-phao-hoa-thai-lan-9-nguoi-chet-4920729.html) - 07:20 30/07/2025
-- 🚀 [Ukraine đăng video đổ quân lên đảo ở Kherson](https://vnexpress.net/ukraine-dang-video-do-quan-len-dao-o-kherson-4920652.html) - 07:04 30/07/2025
-- 🎡 [Lực lượng Ukraine đối mặt nguy cơ bị bao vây ở thành trì Pokrovsk](https://vnexpress.net/luc-luong-ukraine-doi-mat-nguy-co-bi-bao-vay-o-thanh-tri-pokrovsk-4920646.html) - 05:04 30/07/2025
-- 🕯 [Một giờ kinh hoàng khi kẻ xả súng tấn công tháp văn phòng New York](https://vnexpress.net/mot-gio-kinh-hoang-khi-ke-xa-sung-tan-cong-thap-van-phong-new-york-4920478.html) - 04:59 30/07/2025
-- 🐻 [&#39;Thủ phủ mùa đông&#39; Nhật Bản đẩy mạnh lắp điều hòa cho lớp học](https://vnexpress.net/thu-phu-mua-dong-nhat-ban-day-manh-lap-dieu-hoa-cho-lop-hoc-4920559.html) - 04:49 30/07/2025
-- 🚦 [Thái Lan lại cáo buộc Campuchia vi phạm thỏa thuận ngừng bắn](https://vnexpress.net/thai-lan-lai-cao-buoc-campuchia-vi-pham-thoa-thuan-ngung-ban-4920592.html) - 04:25 30/07/2025
-- 👍 [Belarus lần đầu hạ UAV tự sát trên bầu trời thủ đô](https://vnexpress.net/belarus-lan-dau-ha-uav-tu-sat-tren-bau-troi-thu-do-4920604.html) - 03:46 30/07/2025
-- 🚀 [Kẻ xả súng trong tòa nhà New York để lại thư tuyệt mệnh](https://vnexpress.net/ke-xa-sung-trong-toa-nha-new-york-de-lai-thu-tuyet-menh-4920533.html) - 03:01 30/07/2025
-- 🌮 [Chile bàn giao lô đồng hồ bị lấy cắp của Keanu Reeves cho FBI](https://vnexpress.net/chile-ban-giao-lo-dong-ho-bi-lay-cap-cua-keanu-reeves-cho-fbi-4920513.html) - 02:43 30/07/2025
-- 😎 [Khoảnh khắc nhà cửa rung chuyển trong động đất 8,8 độ ở Nga](https://vnexpress.net/khoanh-khac-nha-cua-rung-chuyen-trong-dong-dat-8-8-do-o-nga-4920524.html) - 02:16 30/07/2025
-- 🐲 [Malaysia lập nhóm giám sát lệnh ngừng bắn Thái Lan - Campuchia](https://vnexpress.net/malaysia-lap-nhom-giam-sat-lenh-ngung-ban-thai-lan-campuchia-4920497.html) - 02:11 30/07/2025
-- 💫 [Ông Trump kể về nỗi bức xúc với tỷ phú Epstein](https://vnexpress.net/ong-trump-ke-ve-noi-buc-xuc-voi-ty-phu-epstein-4920477.html) - 01:07 30/07/2025
-- 👀 [Động đất 8,8 độ ngoài khơi Nga, sóng thần đe dọa loạt quốc gia](https://vnexpress.net/dong-dat-8-7-do-ngoai-khoi-nga-loat-nuoc-phat-canh-bao-song-than-4920490.html) - 00:42 30/07/2025<!-- vnexpress-the-gioi:END -->
+- 🎭 [Mỹ phá dỡ trinh sát cơ hơn 170 triệu USD bị trượt xuống biển](https://vnexpress.net/my-pha-do-trinh-sat-co-hon-170-trieu-usd-bi-truot-xuong-bien-4921467.html) - 04:56 01/08/2025
+- 🕴 [Lính Ukraine dùng drone thả xe điện, giúp đồng đội thoát vây](https://vnexpress.net/linh-ukraine-dung-drone-tha-xe-dien-giup-dong-doi-thoat-vay-4921357.html) - 04:30 01/08/2025
+- 🤭 [El Salvador bỏ giới hạn nhiệm kỳ tổng thống](https://vnexpress.net/el-salvador-bo-gioi-han-nhiem-ky-tong-thong-4921437.html) - 04:10 01/08/2025
+- 🧑‍💻 [Trung Quốc tìm cách đối phó vệ tinh Starlink của Elon Musk](https://vnexpress.net/trung-quoc-tim-cach-doi-pho-ve-tinh-starlink-cua-elon-musk-4921204.html) - 03:52 01/08/2025
+- 🦏 [Thái Lan tuyên bố đạt 99% mục tiêu trong xung đột với Campuchia](https://vnexpress.net/thai-lan-tuyen-bo-dat-99-muc-tieu-trong-xung-dot-voi-campuchia-4921400.html) - 03:27 01/08/2025
+- 🦒 [Cuộc gọi của ông Trump &#39;khiến Thái Lan đổi ý&#39; về xung đột với Campuchia](https://vnexpress.net/cuoc-goi-cua-ong-trump-khien-thai-lan-doi-y-ve-xung-dot-voi-campuchia-4921393.html) - 03:04 01/08/2025
+- 🌈 [Myanmar dỡ bỏ tình trạng khẩn cấp, chuẩn bị bầu cử](https://vnexpress.net/myanmar-do-bo-tinh-trang-khan-cap-chuan-bi-bau-cu-4921376.html) - 02:23 01/08/2025
+- 🧑‍🏫 [Ấn Độ hồi hương hơn 300 di vật của Đức Phật](https://vnexpress.net/an-do-hoi-huong-hon-300-di-vat-cua-duc-phat-4921366.html) - 02:04 01/08/2025
+- 🐲 [Máy bay Mỹ gặp nhiễu động mạnh, 25 người nhập viện](https://vnexpress.net/may-bay-my-gap-nhieu-dong-manh-25-nguoi-nhap-vien-4921352.html) - 01:39 01/08/2025
+- 🦒 [Hai bang Mỹ ban bố tình trạng khẩn cấp vì lũ quét](https://vnexpress.net/hai-bang-my-ban-bo-tinh-trang-khan-cap-vi-lu-quet-4921343.html) - 01:15 01/08/2025
+- 🐻 [Thêm quốc gia EU có thể công nhận Nhà nước Palestine](https://vnexpress.net/them-quoc-gia-eu-co-the-cong-nhan-nha-nuoc-palestine-4921344.html) - 00:45 01/08/2025
+- 🚀 [Tổng thống Mỹ chỉ trích Nga sau cuộc tập kích Kiev](https://vnexpress.net/tong-thong-my-chi-trich-nga-sau-cuoc-tap-kich-kiev-4921338.html) - 23:57 31/07/2025
+- 🥰 [Ông Trump muốn xây phòng khiêu vũ 200 triệu USD tại Nhà Trắng](https://vnexpress.net/ong-trump-muon-xay-phong-khieu-vu-200-trieu-usd-tai-nha-trang-4921337.html) - 23:40 31/07/2025
+- 🔥 [Cuộc đua xây phòng tuyến của Ukraine nhằm kìm chân Nga](https://vnexpress.net/cuoc-dua-xay-phong-tuyen-cua-ukraine-nham-kim-chan-nga-4921137.html) - 22:00 31/07/2025
+- 🥳 [Thất bại an ninh trong vụ xả súng tòa văn phòng ở New York](https://vnexpress.net/that-bai-an-ninh-trong-vu-xa-sung-toa-van-phong-o-new-york-4920953.html) - 17:00 31/07/2025
+- 💼 [Người Campuchia cảm ơn ông Trump trên mạng xã hội](https://vnexpress.net/nguoi-campuchia-cam-on-ong-trump-tren-mang-xa-hoi-4921321.html) - 16:02 31/07/2025
+- 🤡 [Tiến sĩ dược ở Mỹ bỏ việc để khởi nghiệp với cà phê Việt](https://vnexpress.net/tien-si-duoc-o-my-bo-viec-de-khoi-nghiep-voi-ca-phe-viet-4920972.html) - 14:00 31/07/2025
+- 🌁 [Ông Zelensky khôi phục tự chủ cho cơ quan chống tham nhũng](https://vnexpress.net/ong-zelensky-khoi-phuc-tu-chu-cho-co-quan-chong-tham-nhung-4921298.html) - 13:44 31/07/2025
+- 🤩 [Bắc Kinh thừa nhận thiếu sót trong ứng phó &#39;mưa lũ tử thần&#39;](https://vnexpress.net/bac-kinh-thua-nhan-thieu-sot-trong-ung-pho-mua-lu-tu-than-4921290.html) - 12:37 31/07/2025
+- 🎉 [Vòng phong tỏa của Israel đẩy Gaza vào nạn đói](https://vnexpress.net/vong-phong-toa-cua-israel-day-gaza-vao-nan-doi-4920977.html) - 12:00 31/07/2025
+- 🎉 [Ông Trump, ông Medvedev đấu khẩu trên mạng xã hội](https://vnexpress.net/ong-trump-ong-medvedev-dau-khau-tren-mang-xa-hoi-4921262.html) - 11:53 31/07/2025
+- 🌁 [Thủ tướng Litva từ chức](https://vnexpress.net/thu-tuong-litva-tu-chuc-4921247.html) - 11:22 31/07/2025
+- 🌊 [Chủ tịch nước sắp thăm Ai Cập, Angola](https://vnexpress.net/chu-tich-nuoc-sap-tham-ai-cap-angola-4921273.html) - 11:02 31/07/2025
+- 🕴 [Việt Nam xử lý công dân Nigeria cư trú trái phép, vi phạm pháp luật](https://vnexpress.net/viet-nam-xu-ly-cong-dan-nigeria-cu-tru-trai-phep-vi-pham-phap-luat-4921241.html) - 10:43 31/07/2025
+- 🎓 [Việt Nam sẽ phối hợp điều tra vụ công dân bị cáo buộc giết người ở Nhật](https://vnexpress.net/viet-nam-se-phoi-hop-dieu-tra-vu-cong-dan-bi-cao-buoc-giet-nguoi-o-nhat-4921220.html) - 09:22 31/07/2025
+- 🦩 [Thái Lan từ chối sớm trao trả quân nhân cho Campuchia](https://vnexpress.net/thai-lan-tu-choi-som-trao-tra-quan-nhan-cho-campuchia-4921158.html) - 09:13 31/07/2025
+- 🌏 [Xu hướng nuôi sư tử làm thú cưng ở Thái Lan](https://vnexpress.net/xu-huong-nuoi-su-tu-lam-thu-cung-o-thai-lan-4921048.html) - 08:49 31/07/2025
+- 🌋 [Tiêm kích F-35 Mỹ rơi, bốc cháy dữ dội](https://vnexpress.net/tiem-kich-f-35-my-roi-boc-chay-du-doi-4921145.html) - 08:26 31/07/2025
+- 🪜 [Nga tuyên bố kiểm soát thành trì chiến lược Chasov Yar](https://vnexpress.net/nga-tuyen-bo-kiem-soat-thanh-tri-chien-luoc-chasov-yar-4921149.html) - 07:35 31/07/2025
+- 🕴 [Ông Trump khen tài đánh golf của cháu gái 11 tuổi](https://vnexpress.net/ong-trump-khen-tai-danh-golf-cua-chau-gai-11-tuoi-4920980.html) - 07:21 31/07/2025
+- 🧑‍🏫 [Nữ phi công gốc Việt từng bay vòng quanh thế giới tử nạn tại Mỹ](https://vnexpress.net/nu-phi-cong-goc-viet-tung-bay-vong-quanh-the-gioi-tu-nan-tai-my-4921104.html) - 06:57 31/07/2025
+- 🌮 [Nga phóng loạt tên lửa, UAV làm rung chuyển Kiev](https://vnexpress.net/nga-phong-loat-ten-lua-uav-lam-rung-chuyen-kiev-4921098.html) - 06:55 31/07/2025
+- 🚦 [Israel có thể dọa sáp nhập một phần Dải Gaza](https://vnexpress.net/israel-co-the-doa-sap-nhap-mot-phan-dai-gaza-4921036.html) - 04:14 31/07/2025
+- 💫 [Đại học Mỹ chi 50 triệu USD để dàn xếp với chính quyền Trump](https://vnexpress.net/dai-hoc-my-chi-50-trieu-usd-de-dan-xep-voi-chinh-quyen-trump-4921015.html) - 03:42 31/07/2025
+- 🤡 [Nhật muốn giới hạn mức phí lao động phải trả cho công ty phái cử](https://vnexpress.net/nhat-muon-gioi-han-muc-phi-lao-dong-phai-tra-cho-cong-ty-phai-cu-4920903.html) - 02:49 31/07/2025
+- 🦣 [Thái Lan bắt nhóm binh sĩ Campuchia sau lệnh ngừng bắn](https://vnexpress.net/thai-lan-bat-nhom-binh-si-campuchia-sau-lenh-ngung-ban-4920995.html) - 02:37 31/07/2025
+- 🎬 [Bà Harris sẽ không tranh cử thống đốc California](https://vnexpress.net/ba-harris-se-khong-tranh-cu-thong-doc-california-4920967.html) - 02:05 31/07/2025
+- 🎉 [Rơi máy bay quân sự ở Venezuela, 7 người chết](https://vnexpress.net/roi-may-bay-quan-su-o-venezuela-7-nguoi-chet-4920951.html) - 01:12 31/07/2025
+- 🎡 [Chile sơ tán 1,4 triệu dân vì nguy cơ sóng thần](https://vnexpress.net/chile-so-tan-1-4-trieu-dan-vi-nguy-co-song-than-4920949.html) - 00:42 31/07/2025
+- 🌜 [Nga &#39;triển khai loạt UAV phản lực&#39; tập kích Ukraine](https://vnexpress.net/nga-trien-khai-loat-uav-phan-luc-tap-kich-ukraine-4920842.html) - 00:39 31/07/2025
+- 🎡 [Ukraine tuyên bố phát hiện gián điệp chỉ điểm vị trí F-16 cho Nga](https://vnexpress.net/ukraine-tuyen-bo-phat-hien-gian-diep-chi-diem-vi-tri-f-16-cho-nga-4920950.html) - 00:03 31/07/2025
+- 🤗 [Canada sắp công nhận Nhà nước Palestine](https://vnexpress.net/canada-sap-cong-nhan-nha-nuoc-palestine-4920946.html) - 23:49 30/07/2025
+- 🦩 [Lý do thúc đẩy Anh, Pháp công nhận Nhà nước Palestine](https://vnexpress.net/ly-do-thuc-day-anh-phap-cong-nhan-nha-nuoc-palestine-4920495.html) - 17:00 30/07/2025
+- 🎓 [Việt Nam sẵn sàng tham gia cơ chế đảm bảo lệnh ngừng bắn Campuchia - Thái Lan](https://vnexpress.net/viet-nam-san-sang-tham-gia-co-che-dam-bao-lenh-ngung-ban-campuchia-thai-lan-4920930.html) - 15:59 30/07/2025
+- 🌁 [LHQ kêu gọi Campuchia, Thái Lan tuân thủ lệnh ngừng bắn](https://vnexpress.net/lhq-keu-goi-campuchia-thai-lan-tuan-thu-lenh-ngung-ban-4920915.html) - 15:24 30/07/2025
+- 🤩 [Nga nêu lý do không có thương vong trong động đất, sóng thần](https://vnexpress.net/nga-neu-ly-do-khong-co-thuong-vong-trong-dong-dat-song-than-4920907.html) - 14:20 30/07/2025
+- 👹 [Nga, Nhật Bản gỡ cảnh báo sóng thần](https://vnexpress.net/nga-nhat-ban-go-canh-bao-song-than-4920891.html) - 13:16 30/07/2025
+- ⛽️ [Xe khách gặp nạn trong mưa lớn ở Trung Quốc, ít nhất 10 người chết](https://vnexpress.net/xe-khach-gap-nan-trong-mua-lon-o-trung-quoc-it-nhat-10-nguoi-chet-4920898.html) - 12:49 30/07/2025
+- 🚀 [Thách thức với Campuchia - Thái Lan sau lệnh ngừng bắn](https://vnexpress.net/thach-thuc-voi-campuchia-thai-lan-sau-lenh-ngung-ban-4920536.html) - 12:00 30/07/2025
+- 🎡 [Một người Việt thiệt mạng khi tắm biển tại Nhật Bản](https://vnexpress.net/mot-nguoi-viet-thiet-mang-khi-tam-bien-tai-nhat-ban-4920865.html) - 11:44 30/07/2025
+- 🕯 [Thượng Hải sơ tán gần 283.000 người vì bão](https://vnexpress.net/thuong-hai-so-tan-gan-283-000-nguoi-vi-bao-4920881.html) - 11:34 30/07/2025
+- 🐻 [Harvard có thể tốn hàng trăm triệu USD để dàn xếp loạt điều tra](https://vnexpress.net/harvard-co-the-ton-hang-tram-trieu-usd-de-dan-xep-loat-dieu-tra-4920654.html) - 11:19 30/07/2025
+- 🚦 [Khoảnh khắc tên lửa Iskander tập kích kép vào thao trường Ukraine](https://vnexpress.net/khoanh-khac-ten-lua-iskander-tap-kich-kep-vao-thao-truong-ukraine-4920802.html) - 11:10 30/07/2025
+- 👍 [Bác sĩ Nga ôm chặt bệnh nhân giữa động đất 8,8 độ](https://vnexpress.net/bac-si-nga-om-chat-benh-nhan-giua-dong-dat-8-8-do-4920859.html) - 10:33 30/07/2025
+- 🚀 [Truy đuổi xuồng cao tốc chở 1,5 tấn ma túy suốt 12 giờ liên tục](https://vnexpress.net/truy-duoi-xuong-cao-toc-cho-1-5-tan-ma-tuy-suot-12-gio-lien-tuc-4920764.html) - 09:46 30/07/2025
+- 🌮 [Sóng thần đổ bộ loạt bờ biển sau trận động đất 8,8 độ](https://vnexpress.net/song-than-do-bo-loat-bo-bien-sau-tran-dong-dat-8-8-do-4920799.html) - 08:51 30/07/2025
+- 😎 [Giây phút sóng thần cuốn trôi nhà cửa ở thị trấn Nga](https://vnexpress.net/giay-phut-song-than-cuon-troi-nha-cua-o-thi-tran-nga-4920761.html) - 08:30 30/07/2025
+- 🐲 [Chủ tịch Quốc hội mong Campuchia - Thái Lan gác lại bất đồng](https://vnexpress.net/chu-tich-quoc-hoi-mong-campuchia-thai-lan-gac-lai-bat-dong-4920743.html) - 08:23 30/07/2025
+- 💫 [Thái Lan cảnh báo &#39;hành động quyết liệt&#39; nếu súng vẫn nổ ở biên giới](https://vnexpress.net/thai-lan-canh-bao-hanh-dong-quyet-liet-neu-sung-van-no-o-bien-gioi-4920759.html) - 08:23 30/07/2025
+- 👀 [Ông Trump ấn định tối hậu thư mới với Nga](https://vnexpress.net/ong-trump-an-dinh-toi-hau-thu-moi-voi-nga-4920696.html) - 07:46 30/07/2025<!-- vnexpress-the-gioi:END -->
