@@ -4,63 +4,63 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Thủy hải sản nội địa hút hàng trong siêu thị](https://vnexpress.net/thuy-hai-san-noi-dia-hut-hang-trong-sieu-thi-4921775.html) - 15:33 01/08/2025
-- 🐲 [Gelex mua lại một phần dự án khu biệt thự tại TP HCM](https://vnexpress.net/gelex-mua-lai-mot-phan-du-an-khu-biet-thu-tai-tp-hcm-4921727.html) - 13:57 01/08/2025
-- 🔥 [Việt Nam - Singapore mở sàn thương mại điện tử xanh](https://vnexpress.net/viet-nam-singapore-mo-san-thuong-mai-dien-tu-xanh-4921548.html) - 13:34 01/08/2025
-- 🐵 [F88 sắp lên UPCoM với giá 634.900 đồng một cổ phiếu](https://vnexpress.net/f88-sap-len-upcom-voi-gia-634-900-dong-mot-co-phieu-4921699.html) - 13:20 01/08/2025
-- 🦅 [Phó thủ tướng: &#39;SCB đang được tái cơ cấu&#39;](https://vnexpress.net/pho-thu-tuong-scb-dang-duoc-tai-co-cau-4921692.html) - 11:04 01/08/2025
-- 😺 [Bộ Công Thương: Mỹ áp thuế đối ứng 20% với Việt Nam](https://vnexpress.net/bo-cong-thuong-my-ap-thue-doi-ung-20-voi-viet-nam-4921740.html) - 10:10 01/08/2025
-- 🤩 [EVNHCMC lập 9 công ty điện lực thành viên](https://vnexpress.net/evnhcmc-lap-9-cong-ty-dien-luc-thanh-vien-4921691.html) - 09:15 01/08/2025
-- 🌮 [Sếp cũ Techcombank làm Tổng giám đốc One Mount Group](https://vnexpress.net/sep-cu-techcombank-lam-tong-giam-doc-one-mount-group-4921672.html) - 09:13 01/08/2025
-- 🧰 [Chứng khoán chốt tuần mất mốc 1.500 điểm](https://vnexpress.net/chung-khoan-hom-nay-1-8-vn-index-chot-tuan-mat-moc-1-500-diem-4921663.html) - 09:05 01/08/2025
-- 🤔 [Người mua dè dặt trong ngày đầu thí điểm bán xăng E10](https://vnexpress.net/nguoi-mua-de-dat-trong-ngay-dau-thi-diem-ban-xang-e10-4921630.html) - 08:56 01/08/2025
-- 🧑‍💻 [Lợi nhuận Coteccons cao nhất 5 năm](https://vnexpress.net/loi-nhuan-coteccons-cao-nhat-5-nam-4921491.html) - 04:46 01/08/2025
-- 🕴 [Campuchia, Thái Lan hoan nghênh thuế đối ứng mới của Mỹ](https://vnexpress.net/campuchia-thai-lan-hoan-nghenh-thue-doi-ung-moi-cua-my-4921483.html) - 04:27 01/08/2025
-- 🦩 [Vinacapital: Dòng vốn nội địa góp phần giúp doanh nghiệp Việt &#39;vươn mình&#39;](https://vnexpress.net/vinacapital-dong-von-noi-dia-gop-phan-giup-doanh-nghiep-viet-vuon-minh-4921450.html) - 04:15 01/08/2025
-- 👍 [OCB tăng lãi trong quý II](https://vnexpress.net/ocb-tang-lai-trong-quy-ii-4921436.html) - 03:15 01/08/2025
-- 🏊 [&#39;Thị trường chứng khoán Việt Nam rộng cửa đón dòng vốn ngoại&#39;](https://vnexpress.net/thi-truong-chung-khoan-viet-nam-rong-cua-don-dong-von-ngoai-4916965.html) - 02:00 01/08/2025
-- 🤡 [Mỹ công bố mức thuế đối ứng mới](https://vnexpress.net/my-cong-bo-muc-thue-doi-ung-moi-4921340.html) - 00:17 01/08/2025
-- 👀 [Doanh nghiệp Việt dịch chuyển trước rủi ro thuế quan](https://vnexpress.net/doanh-nghiep-viet-dich-chuyen-truoc-rui-ro-thue-quan-4920899.html) - 22:00 31/07/2025
+- ⛽️ [Hành trình &#39;sống hết mình, học đến cùng&#39; của ông Hoàng Nam Tiến](https://vnexpress.net/hanh-trinh-song-het-minh-hoc-den-cung-cua-ong-hoang-nam-tien-4921329.html) - 17:01 01/08/2025
+- 🐲 [&#39;Dự thảo Nghị quyết thí điểm thị trường tài sản số sẽ trình trong tháng 8&#39;](https://vnexpress.net/du-thao-nghi-quyet-thi-diem-thi-truong-tai-san-so-se-trinh-trong-thang-8-4921800.html) - 16:07 01/08/2025
+- 🔥 [Thủy hải sản nội địa hút hàng trong siêu thị](https://vnexpress.net/thuy-hai-san-noi-dia-hut-hang-trong-sieu-thi-4921775.html) - 15:33 01/08/2025
+- 🐵 [Gelex mua lại một phần dự án khu biệt thự tại TP HCM](https://vnexpress.net/gelex-mua-lai-mot-phan-du-an-khu-biet-thu-tai-tp-hcm-4921727.html) - 13:57 01/08/2025
+- 🦅 [Việt Nam - Singapore mở sàn thương mại điện tử xanh](https://vnexpress.net/viet-nam-singapore-mo-san-thuong-mai-dien-tu-xanh-4921548.html) - 13:34 01/08/2025
+- 😺 [F88 sắp lên UPCoM với giá 634.900 đồng một cổ phiếu](https://vnexpress.net/f88-sap-len-upcom-voi-gia-634-900-dong-mot-co-phieu-4921699.html) - 13:20 01/08/2025
+- 🤩 [Phó thủ tướng: &#39;SCB đang được tái cơ cấu&#39;](https://vnexpress.net/pho-thu-tuong-scb-dang-duoc-tai-co-cau-4921692.html) - 11:04 01/08/2025
+- 🌮 [Bộ Công Thương: Mỹ áp thuế đối ứng 20% với Việt Nam](https://vnexpress.net/bo-cong-thuong-my-ap-thue-doi-ung-20-voi-viet-nam-4921740.html) - 10:10 01/08/2025
+- 🧰 [EVNHCMC lập 9 công ty điện lực thành viên](https://vnexpress.net/evnhcmc-lap-9-cong-ty-dien-luc-thanh-vien-4921691.html) - 09:15 01/08/2025
+- 🤔 [Sếp cũ Techcombank làm Tổng giám đốc One Mount Group](https://vnexpress.net/sep-cu-techcombank-lam-tong-giam-doc-one-mount-group-4921672.html) - 09:13 01/08/2025
+- 🧑‍💻 [Chứng khoán chốt tuần mất mốc 1.500 điểm](https://vnexpress.net/chung-khoan-hom-nay-1-8-vn-index-chot-tuan-mat-moc-1-500-diem-4921663.html) - 09:05 01/08/2025
+- 🕴 [Người mua dè dặt trong ngày đầu thí điểm bán xăng E10](https://vnexpress.net/nguoi-mua-de-dat-trong-ngay-dau-thi-diem-ban-xang-e10-4921630.html) - 08:56 01/08/2025
+- 🦩 [Lợi nhuận Coteccons cao nhất 5 năm](https://vnexpress.net/loi-nhuan-coteccons-cao-nhat-5-nam-4921491.html) - 04:46 01/08/2025
+- 👍 [Campuchia, Thái Lan hoan nghênh thuế đối ứng mới của Mỹ](https://vnexpress.net/campuchia-thai-lan-hoan-nghenh-thue-doi-ung-moi-cua-my-4921483.html) - 04:27 01/08/2025
+- 🏊 [Vinacapital: Dòng vốn nội địa góp phần giúp doanh nghiệp Việt &#39;vươn mình&#39;](https://vnexpress.net/vinacapital-dong-von-noi-dia-gop-phan-giup-doanh-nghiep-viet-vuon-minh-4921450.html) - 04:15 01/08/2025
+- 🤡 [OCB tăng lãi trong quý II](https://vnexpress.net/ocb-tang-lai-trong-quy-ii-4921436.html) - 03:15 01/08/2025
+- 👀 [&#39;Thị trường chứng khoán Việt Nam rộng cửa đón dòng vốn ngoại&#39;](https://vnexpress.net/thi-truong-chung-khoan-viet-nam-rong-cua-don-dong-von-ngoai-4916965.html) - 02:00 01/08/2025
+- 😺 [Mỹ công bố mức thuế đối ứng mới](https://vnexpress.net/my-cong-bo-muc-thue-doi-ung-moi-4921340.html) - 00:17 01/08/2025
+- 🦣 [Doanh nghiệp Việt dịch chuyển trước rủi ro thuế quan](https://vnexpress.net/doanh-nghiep-viet-dich-chuyen-truoc-rui-ro-thue-quan-4920899.html) - 22:00 31/07/2025
 - 😺 [ACV rót hơn 18.700 tỷ đồng vào sân bay Long Thành](https://vnexpress.net/acv-rot-hon-18-700-ty-dong-vao-san-bay-long-thanh-4921209.html) - 19:05 31/07/2025
-- 🦣 [Mỹ chấm dứt hoàn toàn ưu đãi với hàng nhập khẩu giá trị thấp](https://vnexpress.net/my-cham-dut-hoan-toan-uu-dai-voi-hang-nhap-khau-gia-tri-thap-4921177.html) - 17:00 31/07/2025
-- 😺 [Bộ Công Thương cử 34 lãnh đạo về địa phương hỗ trợ chính quyền hai cấp](https://vnexpress.net/bo-cong-thuong-cu-34-lanh-dao-ve-dia-phuong-ho-tro-chinh-quyen-hai-cap-4921225.html) - 11:51 31/07/2025
-- 💼 [Ông Hoàng Nam Tiến qua đời](https://vnexpress.net/ong-hoang-nam-tien-qua-doi-4921280.html) - 11:16 31/07/2025
-- 🤗 [F88 hợp tác Zalopay mở rộng tài chính số](https://vnexpress.net/f88-hop-tac-zalopay-mo-rong-tai-chinh-so-4921284.html) - 11:15 31/07/2025
-- 👀 [Doanh thu của Vingroup nửa đầu năm tăng gấp đôi](https://vnexpress.net/doanh-thu-cua-vingroup-nua-dau-nam-tang-gap-doi-4921031.html) - 10:57 31/07/2025
-- 🎓 [Ông Nguyễn Văn Được: Chuyển đổi xanh giúp duy trì vai trò đầu tàu kinh tế TP HCM](https://vnexpress.net/ong-nguyen-van-duoc-chuyen-doi-xanh-giup-duy-tri-vai-tro-dau-tau-kinh-te-tp-hcm-4921146.html) - 10:27 31/07/2025
-- 🗽 [Ngân hàng Nhà nước phân bổ thêm &#39;room&#39; tín dụng cho các nhà băng](https://vnexpress.net/ngan-hang-nha-nuoc-phan-bo-them-room-tin-dung-cho-cac-nha-bang-4921210.html) - 10:00 31/07/2025
-- 🚀 [Chứng khoán giằng co giảm hơn 5 điểm](https://vnexpress.net/chung-khoan-hom-nay-31-7-vn-index-giang-co-giam-hon-5-diem-4921202.html) - 09:13 31/07/2025
-- 🤗 [Vietjet lãi trước thuế gần 1.600 tỷ nửa đầu năm](https://vnexpress.net/vietjet-lai-truoc-thue-gan-1-600-ty-nua-dau-nam-4921191.html) - 09:00 31/07/2025
-- 🌜 [Techcombank nhận ba giải thưởng từ The Asian Banker](https://vnexpress.net/techcombank-nhan-ba-giai-thuong-tu-the-asian-banker-4921196.html) - 08:45 31/07/2025
-- 👍 [Ván cược của Chủ tịch Fed](https://vnexpress.net/van-cuoc-cua-chu-tich-fed-4921109.html) - 07:53 31/07/2025
-- 🤖 [Giá xăng lên gần 20.000 đồng một lít](https://vnexpress.net/gia-xang-moi-nhat-hom-nay-31-7-4921147.html) - 07:33 31/07/2025
-- 🫣 [Doanh nghiệp đa cấp có thể phải nộp gấp đôi tiền ký quỹ](https://vnexpress.net/doanh-nghiep-da-cap-co-the-phai-nop-gap-doi-tien-ky-quy-4921126.html) - 07:20 31/07/2025
-- 🌏 [AEON và SeABank thống nhất hướng xử lý thương vụ chuyển nhượng PTF](https://vnexpress.net/aeon-va-seabank-thong-nhat-huong-xu-ly-thuong-vu-chuyen-nhuong-ptf-4921107.html) - 06:30 31/07/2025
-- ⚗️ [Chuỗi bệnh viện tư lớn nhất miền núi phía Bắc lỗ đậm](https://vnexpress.net/tnh-chuoi-benh-vien-tu-lon-nhat-mien-nui-phia-bac-lo-dam-4921112.html) - 06:08 31/07/2025
-- 🕯 [Masan Consumer tăng doanh thu xuất khẩu 35% nhờ thị trường châu Á](https://vnexpress.net/masan-consumer-tang-doanh-thu-xuat-khau-35-nho-thi-truong-chau-a-4921083.html) - 05:00 31/07/2025
-- 👍 [Bình quân mỗi ngày Vietlott thu hơn 25 tỷ đồng](https://vnexpress.net/binh-quan-moi-ngay-vietlott-thu-hon-25-ty-dong-4921085.html) - 04:56 31/07/2025
-- 🤠 [Công ty của bầu Đức hết lỗ lũy kế](https://vnexpress.net/cong-ty-cua-bau-duc-het-lo-luy-ke-4921002.html) - 03:25 31/07/2025
-- 🌊 [HDBank lãi hơn 10.000 tỷ trong nửa đầu năm](https://vnexpress.net/hdbank-lai-hon-10-000-ty-trong-nua-dau-nam-4921024.html) - 03:00 31/07/2025
-- 🌈 [Làm thế nào để xăng sinh học E10 không bị quay lưng như E5?](https://vnexpress.net/lam-the-nao-de-xang-sinh-hoc-e10-khong-bi-quay-lung-nhu-e5-4918454.html) - 02:00 31/07/2025
-- 🥳 [Mỹ áp thuế 15% với Hàn Quốc](https://vnexpress.net/my-ap-thue-15-voi-han-quoc-4920963.html) - 01:06 31/07/2025
-- 🐻 [Vinamilk lập đỉnh doanh thu trong quý II](https://vnexpress.net/vinamilk-lap-dinh-doanh-thu-trong-quy-ii-4920929.html) - 00:30 31/07/2025
-- 💫 [Bán online trên sàn nửa năm không có đơn hàng](https://vnexpress.net/ban-online-tren-san-nhung-nua-nam-khong-chot-duoc-don-nao-4920683.html) - 00:00 31/07/2025
-- 🤩 [Fed tiếp tục không điều chỉnh lãi suất](https://vnexpress.net/fed-tiep-tuc-khong-dieu-chinh-lai-suat-4920941.html) - 21:37 30/07/2025
-- 💻 [1.500 điểm của VN-Index hiện khác gì năm 2022?](https://vnexpress.net/1-500-diem-cua-vn-index-hien-khac-gi-nam-2022-4919566.html) - 20:02 30/07/2025
-- ⚗️ [Nhà sản xuất show &#39;Gia đình haha&#39; lãi đậm](https://vnexpress.net/yeah1-nha-san-xuat-show-gia-dinh-haha-lai-dam-4920904.html) - 19:31 30/07/2025
-- 🌈 [Cách sợi vải &#39;thời trang nhanh&#39; đưa vi nhựa lên bàn ăn của con người](https://vnexpress.net/cach-soi-vai-thoi-trang-nhanh-dua-vi-nhua-len-ban-an-cua-con-nguoi-4920551.html) - 18:24 30/07/2025
-- 🌝 [Nhà phân phối ôtô điện Wuling lãi cao nhất 9 năm](https://vnexpress.net/nha-phan-phoi-oto-dien-wuling-lai-cao-nhat-9-nam-4920932.html) - 17:57 30/07/2025
-- 🥸 [Tập đoàn năng lượng Ấn Độ ngỏ ý đầu tư 10 tỷ USD vào Việt Nam](https://vnexpress.net/tap-doan-nang-luong-an-do-ngo-y-dau-tu-10-ty-usd-vao-viet-nam-4920936.html) - 17:00 30/07/2025
-- 🦆 [Vietnam Airlines lãi kỷ lục nửa đầu năm hơn 6.680 tỷ đồng](https://vnexpress.net/vietnam-airlines-lai-ky-luc-nua-dau-nam-hon-6-680-ty-dong-4920846.html) - 14:35 30/07/2025
-- 🌋 [Kinh tế châu Âu &#39;tốt hơn lo ngại&#39;](https://vnexpress.net/kinh-te-chau-au-tot-hon-lo-ngai-4920890.html) - 13:52 30/07/2025
-- 🦍 [Kinh tế Mỹ tăng trưởng trở lại](https://vnexpress.net/kinh-te-my-tang-truong-tro-lai-4920910.html) - 13:28 30/07/2025
-- 🤔 [Lợi nhuận F88 tăng hơn ba lần trong nửa đầu năm](https://vnexpress.net/loi-nhuan-f88-tang-hon-ba-lan-trong-nua-dau-nam-4920856.html) - 11:51 30/07/2025
-- 🧰 [Xử nghiêm trường hợp cố tình thanh toán tiền mặt để trốn thuế](https://vnexpress.net/xu-nghiem-truong-hop-co-tinh-thanh-toan-tien-mat-de-tron-thue-4920879.html) - 11:16 30/07/2025
-- 🌝 [Vinhomes có hơn 3,5 tỷ USD doanh số chưa ghi nhận](https://vnexpress.net/vinhomes-co-hon-3-5-ty-usd-doanh-so-chua-ghi-nhan-4920821.html) - 10:50 30/07/2025
-- 👍 [Ông Trump áp thuế 25% với Ấn Độ](https://vnexpress.net/ong-trump-ap-thue-25-voi-an-do-4920775.html) - 09:45 30/07/2025
-- 🗽 [Kinh Bắc thành công ty địa ốc có tài sản lớn thứ ba trên sàn](https://vnexpress.net/kinh-bac-thanh-cong-ty-dia-oc-co-tai-san-lon-thu-ba-tren-san-4920786.html) - 09:39 30/07/2025
-- 🐎 [Ông Nguyễn Đức Tài không nhận lương dù Thế Giới Di Động lãi kỷ lục](https://vnexpress.net/ong-nguyen-duc-tai-khong-nhan-luong-du-the-gioi-di-dong-lai-ky-luc-4920818.html) - 09:07 30/07/2025
-- 🪄 [Hà Nội phát hiện hàng trăm bình khí cười không rõ nguồn gốc](https://vnexpress.net/ha-noi-phat-hien-hang-tram-binh-khi-cuoi-khong-ro-nguon-goc-4920798.html) - 08:50 30/07/2025
-- 🎊 [Doanh nghiệp Việt cải thiện niềm tin](https://vnexpress.net/doanh-nghiep-viet-cai-thien-niem-tin-4920682.html) - 08:41 30/07/2025
-- 🗽 [VN-Index lấy lại mốc 1.500 điểm](https://vnexpress.net/vn-index-lay-lai-moc-1-500-diem-4920803.html) - 08:33 30/07/2025
-- 🦩 [Cá linh đầu mùa 200.000 đồng một kg](https://vnexpress.net/ca-linh-dau-mua-200-000-dong-mot-kg-4920137.html) - 04:47 30/07/2025<!-- vnexpress-kinh-doanh:END -->
+- 💼 [Mỹ chấm dứt hoàn toàn ưu đãi với hàng nhập khẩu giá trị thấp](https://vnexpress.net/my-cham-dut-hoan-toan-uu-dai-voi-hang-nhap-khau-gia-tri-thap-4921177.html) - 17:00 31/07/2025
+- 🤗 [Bộ Công Thương cử 34 lãnh đạo về địa phương hỗ trợ chính quyền hai cấp](https://vnexpress.net/bo-cong-thuong-cu-34-lanh-dao-ve-dia-phuong-ho-tro-chinh-quyen-hai-cap-4921225.html) - 11:51 31/07/2025
+- 👀 [Ông Hoàng Nam Tiến qua đời](https://vnexpress.net/ong-hoang-nam-tien-qua-doi-4921280.html) - 11:16 31/07/2025
+- 🎓 [F88 hợp tác Zalopay mở rộng tài chính số](https://vnexpress.net/f88-hop-tac-zalopay-mo-rong-tai-chinh-so-4921284.html) - 11:15 31/07/2025
+- 🗽 [Doanh thu của Vingroup nửa đầu năm tăng gấp đôi](https://vnexpress.net/doanh-thu-cua-vingroup-nua-dau-nam-tang-gap-doi-4921031.html) - 10:57 31/07/2025
+- 🚀 [Ông Nguyễn Văn Được: Chuyển đổi xanh giúp duy trì vai trò đầu tàu kinh tế TP HCM](https://vnexpress.net/ong-nguyen-van-duoc-chuyen-doi-xanh-giup-duy-tri-vai-tro-dau-tau-kinh-te-tp-hcm-4921146.html) - 10:27 31/07/2025
+- 🤗 [Ngân hàng Nhà nước phân bổ thêm &#39;room&#39; tín dụng cho các nhà băng](https://vnexpress.net/ngan-hang-nha-nuoc-phan-bo-them-room-tin-dung-cho-cac-nha-bang-4921210.html) - 10:00 31/07/2025
+- 🌜 [Chứng khoán giằng co giảm hơn 5 điểm](https://vnexpress.net/chung-khoan-hom-nay-31-7-vn-index-giang-co-giam-hon-5-diem-4921202.html) - 09:13 31/07/2025
+- 👍 [Vietjet lãi trước thuế gần 1.600 tỷ nửa đầu năm](https://vnexpress.net/vietjet-lai-truoc-thue-gan-1-600-ty-nua-dau-nam-4921191.html) - 09:00 31/07/2025
+- 🤖 [Techcombank nhận ba giải thưởng từ The Asian Banker](https://vnexpress.net/techcombank-nhan-ba-giai-thuong-tu-the-asian-banker-4921196.html) - 08:45 31/07/2025
+- 🫣 [Ván cược của Chủ tịch Fed](https://vnexpress.net/van-cuoc-cua-chu-tich-fed-4921109.html) - 07:53 31/07/2025
+- 🌏 [Giá xăng lên gần 20.000 đồng một lít](https://vnexpress.net/gia-xang-moi-nhat-hom-nay-31-7-4921147.html) - 07:33 31/07/2025
+- ⚗️ [Doanh nghiệp đa cấp có thể phải nộp gấp đôi tiền ký quỹ](https://vnexpress.net/doanh-nghiep-da-cap-co-the-phai-nop-gap-doi-tien-ky-quy-4921126.html) - 07:20 31/07/2025
+- 🕯 [AEON và SeABank thống nhất hướng xử lý thương vụ chuyển nhượng PTF](https://vnexpress.net/aeon-va-seabank-thong-nhat-huong-xu-ly-thuong-vu-chuyen-nhuong-ptf-4921107.html) - 06:30 31/07/2025
+- 👍 [Chuỗi bệnh viện tư lớn nhất miền núi phía Bắc lỗ đậm](https://vnexpress.net/tnh-chuoi-benh-vien-tu-lon-nhat-mien-nui-phia-bac-lo-dam-4921112.html) - 06:08 31/07/2025
+- 🤠 [Masan Consumer tăng doanh thu xuất khẩu 35% nhờ thị trường châu Á](https://vnexpress.net/masan-consumer-tang-doanh-thu-xuat-khau-35-nho-thi-truong-chau-a-4921083.html) - 05:00 31/07/2025
+- 🌊 [Bình quân mỗi ngày Vietlott thu hơn 25 tỷ đồng](https://vnexpress.net/binh-quan-moi-ngay-vietlott-thu-hon-25-ty-dong-4921085.html) - 04:56 31/07/2025
+- 🌈 [Công ty của bầu Đức hết lỗ lũy kế](https://vnexpress.net/cong-ty-cua-bau-duc-het-lo-luy-ke-4921002.html) - 03:25 31/07/2025
+- 🥳 [HDBank lãi hơn 10.000 tỷ trong nửa đầu năm](https://vnexpress.net/hdbank-lai-hon-10-000-ty-trong-nua-dau-nam-4921024.html) - 03:00 31/07/2025
+- 🐻 [Làm thế nào để xăng sinh học E10 không bị quay lưng như E5?](https://vnexpress.net/lam-the-nao-de-xang-sinh-hoc-e10-khong-bi-quay-lung-nhu-e5-4918454.html) - 02:00 31/07/2025
+- 💫 [Mỹ áp thuế 15% với Hàn Quốc](https://vnexpress.net/my-ap-thue-15-voi-han-quoc-4920963.html) - 01:06 31/07/2025
+- 🤩 [Vinamilk lập đỉnh doanh thu trong quý II](https://vnexpress.net/vinamilk-lap-dinh-doanh-thu-trong-quy-ii-4920929.html) - 00:30 31/07/2025
+- 💻 [Bán online trên sàn nửa năm không có đơn hàng](https://vnexpress.net/ban-online-tren-san-nhung-nua-nam-khong-chot-duoc-don-nao-4920683.html) - 00:00 31/07/2025
+- ⚗️ [Fed tiếp tục không điều chỉnh lãi suất](https://vnexpress.net/fed-tiep-tuc-khong-dieu-chinh-lai-suat-4920941.html) - 21:37 30/07/2025
+- 🌈 [1.500 điểm của VN-Index hiện khác gì năm 2022?](https://vnexpress.net/1-500-diem-cua-vn-index-hien-khac-gi-nam-2022-4919566.html) - 20:02 30/07/2025
+- 🌝 [Nhà sản xuất show &#39;Gia đình haha&#39; lãi đậm](https://vnexpress.net/yeah1-nha-san-xuat-show-gia-dinh-haha-lai-dam-4920904.html) - 19:31 30/07/2025
+- 🥸 [Cách sợi vải &#39;thời trang nhanh&#39; đưa vi nhựa lên bàn ăn của con người](https://vnexpress.net/cach-soi-vai-thoi-trang-nhanh-dua-vi-nhua-len-ban-an-cua-con-nguoi-4920551.html) - 18:24 30/07/2025
+- 🦆 [Nhà phân phối ôtô điện Wuling lãi cao nhất 9 năm](https://vnexpress.net/nha-phan-phoi-oto-dien-wuling-lai-cao-nhat-9-nam-4920932.html) - 17:57 30/07/2025
+- 🌋 [Tập đoàn năng lượng Ấn Độ ngỏ ý đầu tư 10 tỷ USD vào Việt Nam](https://vnexpress.net/tap-doan-nang-luong-an-do-ngo-y-dau-tu-10-ty-usd-vao-viet-nam-4920936.html) - 17:00 30/07/2025
+- 🦍 [Vietnam Airlines lãi kỷ lục nửa đầu năm hơn 6.680 tỷ đồng](https://vnexpress.net/vietnam-airlines-lai-ky-luc-nua-dau-nam-hon-6-680-ty-dong-4920846.html) - 14:35 30/07/2025
+- 🤔 [Kinh tế châu Âu &#39;tốt hơn lo ngại&#39;](https://vnexpress.net/kinh-te-chau-au-tot-hon-lo-ngai-4920890.html) - 13:52 30/07/2025
+- 🧰 [Kinh tế Mỹ tăng trưởng trở lại](https://vnexpress.net/kinh-te-my-tang-truong-tro-lai-4920910.html) - 13:28 30/07/2025
+- 🌝 [Lợi nhuận F88 tăng hơn ba lần trong nửa đầu năm](https://vnexpress.net/loi-nhuan-f88-tang-hon-ba-lan-trong-nua-dau-nam-4920856.html) - 11:51 30/07/2025
+- 👍 [Xử nghiêm trường hợp cố tình thanh toán tiền mặt để trốn thuế](https://vnexpress.net/xu-nghiem-truong-hop-co-tinh-thanh-toan-tien-mat-de-tron-thue-4920879.html) - 11:16 30/07/2025
+- 🗽 [Vinhomes có hơn 3,5 tỷ USD doanh số chưa ghi nhận](https://vnexpress.net/vinhomes-co-hon-3-5-ty-usd-doanh-so-chua-ghi-nhan-4920821.html) - 10:50 30/07/2025
+- 🐎 [Ông Trump áp thuế 25% với Ấn Độ](https://vnexpress.net/ong-trump-ap-thue-25-voi-an-do-4920775.html) - 09:45 30/07/2025
+- 🪄 [Kinh Bắc thành công ty địa ốc có tài sản lớn thứ ba trên sàn](https://vnexpress.net/kinh-bac-thanh-cong-ty-dia-oc-co-tai-san-lon-thu-ba-tren-san-4920786.html) - 09:39 30/07/2025
+- 🎊 [Ông Nguyễn Đức Tài không nhận lương dù Thế Giới Di Động lãi kỷ lục](https://vnexpress.net/ong-nguyen-duc-tai-khong-nhan-luong-du-the-gioi-di-dong-lai-ky-luc-4920818.html) - 09:07 30/07/2025
+- 🗽 [Hà Nội phát hiện hàng trăm bình khí cười không rõ nguồn gốc](https://vnexpress.net/ha-noi-phat-hien-hang-tram-binh-khi-cuoi-khong-ro-nguon-goc-4920798.html) - 08:50 30/07/2025
+- 🦩 [Doanh nghiệp Việt cải thiện niềm tin](https://vnexpress.net/doanh-nghiep-viet-cai-thien-niem-tin-4920682.html) - 08:41 30/07/2025<!-- vnexpress-kinh-doanh:END -->
