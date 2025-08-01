@@ -66,7 +66,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🧰 [Người mua dè dặt trong ngày đầu thí điểm bán xăng E10](https://vnexpress.net/nguoi-mua-de-dat-trong-ngay-dau-thi-diem-ban-xang-e10-4921630.html) - 08:56 01/08/2025
 - 🦒 [Điểm chuẩn Đại học Bách khoa TP HCM dự kiến giảm](https://vnexpress.net/du-doan-diem-chuan-dai-hoc-bach-khoa-tp-hcm-2025-4914783.html) - 08:55 01/08/2025
 - ⛽️ [Đồng Nai sắp đấu giá hơn 106 ha đất làm dự án du lịch núi Chứa Chan](https://vnexpress.net/dong-nai-sap-dau-gia-hon-106-ha-dat-lam-du-an-du-lich-nui-chua-chan-4921568.html) - 08:51 01/08/2025
-- 🚀 [Thử nghiệm phương thức bay tại Long Thành](https://vnexpress.net/thu-nghiem-phuong-thuc-bay-tai-long-thanh-4921623.html) - 08:41 01/08/2025
+- 🚀 [Thử nghiệm chuyến bay đầu tiên tại Long Thành](https://vnexpress.net/thu-nghiem-chuyen-bay-dau-tien-tai-long-thanh-4921623.html) - 08:41 01/08/2025
 - 🪜 [Bóng chuyền nữ Việt Nam thắng dễ ở SEA V-League](https://vnexpress.net/bong-chuyen-nu-viet-nam-thang-de-o-sea-v-league-4921664.html) - 08:38 01/08/2025
 - 🚦 [Thành viên băng đảng Mexico nghi tham chiến ở Ukraine để học lái drone](https://vnexpress.net/thanh-vien-bang-dang-mexico-nghi-tham-chien-o-ukraine-de-hoc-lai-drone-4921363.html) - 08:38 01/08/2025
 - 🕯 [Vì sao nên để lạc &#39;nghỉ&#39; sau khi rang?](https://vnexpress.net/vi-sao-nen-de-lac-nghi-sau-khi-rang-4921656.html) - 08:31 01/08/2025
