@@ -29,7 +29,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🚀 [Robot hình người khéo léo bỏ đồ vào máy giặt](https://vnexpress.net/robot-hinh-nguoi-kheo-leo-bo-do-vao-may-giat-4921773.html) - 22:00 01/08/2025
 - 🧰 [Thần tốc ghép gan của em trai cứu người anh &#39;từ cõi chết&#39;](https://vnexpress.net/than-toc-ghep-gan-cua-em-trai-cuu-nguoi-anh-tu-coi-chet-4921570.html) - 22:00 01/08/2025
 - 🥰 [Hai rào cản với giấc mơ Nobel Hòa bình của ông Trump](https://vnexpress.net/hai-rao-can-voi-giac-mo-nobel-hoa-binh-cua-ong-trump-4921354.html) - 22:00 01/08/2025
-- 🌏 [Dấu hiệu nhận xe máy điện cần thay pin](https://vnexpress.net/dau-hieu-nhan-xe-may-dien-can-thay-pin-4921193.html) - 21:56 01/08/2025
+- 🌏 [Dấu hiệu nhận biết xe máy điện cần thay pin](https://vnexpress.net/dau-hieu-nhan-biet-xe-may-dien-can-thay-pin-4921193.html) - 21:56 01/08/2025
 - 🧐 [Chủ tịch nước: Việt Nam sẽ tiếp tục là đối tác tin cậy của LHQ](https://vnexpress.net/chu-tich-nuoc-viet-nam-se-tiep-tuc-la-doi-tac-tin-cay-cua-lhq-4921808.html) - 21:49 01/08/2025
 - 💫 [Nhà sập, đường tắc do mưa lũ ở Điện Biên, Sơn La](https://vnexpress.net/nha-sap-duong-tac-do-mua-lu-o-dien-bien-son-la-4921782.html) - 21:00 01/08/2025
 - 😺 [Ăn uống thế nào phòng mỡ máu?](https://vnexpress.net/an-uong-the-nao-phong-mo-mau-4920068.html) - 18:00 01/08/2025
