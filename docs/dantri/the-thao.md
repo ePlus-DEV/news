@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Quảng Trị International Marathon 2025 - Camel Cup bước vào thi đấu](https://dantri.com.vn/the-thao/quang-tri-international-marathon-2025-camel-cup-buoc-vao-thi-dau-20250802215052195.htm) - 19:30 02/08/2025
+- 🎡 [Quảng Trị International Marathon 2025 - Camel Cup &quot;gọi tên&quot; Doãn Anh](https://dantri.com.vn/the-thao/quang-tri-international-marathon-2025-camel-cup-goi-ten-doan-anh-20250802215052195.htm) - 19:30 02/08/2025
 - 💯 [PVF-CAND thay CLB Quảng Nam thi đấu tại V-League 2025-2026](https://dantri.com.vn/the-thao/pvf-cand-thay-clb-quang-nam-thi-dau-tai-v-league-2025-2026-20250802195223578.htm) - 14:58 02/08/2025
 - ⛽️ [Thương hiệu Camel Beer đồng hành cùng sự kiện Quang Tri International Marathon 2025](https://dantri.com.vn/the-thao/thuong-hieu-camel-beer-dong-hanh-cung-su-kien-quang-tri-international-marathon-2025-20250802204130917.htm) - 13:41 02/08/2025
 - 💃 [Báo Trung Quốc ca ngợi kỷ lục rất khó phá vỡ của U23 Việt Nam](https://dantri.com.vn/the-thao/bao-trung-quoc-ca-ngoi-ky-luc-rat-kho-pha-vo-cua-u23-viet-nam-20250802141253550.htm) - 10:55 02/08/2025
