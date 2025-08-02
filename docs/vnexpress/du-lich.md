@@ -4,7 +4,7 @@ sidebar_position: 11
 ---
 
 <!-- vnexpress-du-lich:START -->
-- 💂 [Khách tiết lộ điều xảy ra trên du thuyền khỏa thân](https://vnexpress.net/khach-tiet-lo-dieu-xay-ra-tren-du-thuyen-khoa-than-4921481.html) - 03:03 02/08/2025
+- 💂 [Khách tiết lộ hành trình trên du thuyền khỏa thân](https://vnexpress.net/khach-tiet-lo-hanh-trinh-tren-du-thuyen-khoa-than-4921481.html) - 03:03 02/08/2025
 - 🪄 [Cách xin visa 5 quốc gia &#39;khó qua&#39; với khách Việt](https://vnexpress.net/cach-xin-visa-5-quoc-gia-kho-qua-voi-khach-viet-4921279.html) - 02:02 02/08/2025
 - 🦅 [48h du lịch chậm ở &#39;xứ Nẫu&#39;](https://vnexpress.net/48h-du-lich-cham-o-xu-nau-4921550.html) - 17:00 01/08/2025
 - 🕴 [Chặng bay Đà Nẵng - Hà Nội lần đầu vào top nhộn nhịp nhất thế giới](https://vnexpress.net/chang-bay-da-nang-ha-noi-lan-dau-vao-top-nhon-nhip-nhat-the-gioi-4921407.html) - 08:22 01/08/2025
