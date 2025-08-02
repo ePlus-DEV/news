@@ -5,7 +5,7 @@ sidebar_position: 21
 
 <!-- dantri-bat-dong-san:START -->
 - 🌏 [Hơn 87.500 căn hộ ở TPHCM được gỡ vướng pháp lý để cấp sổ](https://dantri.com.vn/bat-dong-san/hon-87500-can-ho-o-tphcm-duoc-go-vuong-phap-ly-de-cap-so-20250802164546999.htm) - 11:24 02/08/2025
-- 👹 [Hé lộ sinh thự triệu USD chuẩn bị lên sóng livestream Sunshine Group ngày 5/8](https://dantri.com.vn/bat-dong-san/he-lo-sinh-thu-trieu-usd-chuan-bi-len-song-livestream-sunshine-group-ngay-58-20250802180118364.htm) - 11:01 02/08/2025
+- 👹 [Hé lộ dinh thự triệu USD chuẩn bị lên sóng livestream Sunshine Group ngày 5/8](https://dantri.com.vn/bat-dong-san/he-lo-dinh-thu-trieu-usd-chuan-bi-len-song-livestream-sunshine-group-ngay-58-20250802180118364.htm) - 11:01 02/08/2025
 - 💡 [Tỷ phú địa ốc Grant Cardone gây sốc với lời khuyên &quot;đừng bao giờ mua nhà&quot;](https://dantri.com.vn/bat-dong-san/ty-phu-dia-oc-grant-cardone-gay-soc-voi-loi-khuyen-dung-bao-gio-mua-nha-20250802123838726.htm) - 07:47 02/08/2025
 - 🌋 [Mẹo dọn dẹp chậm mà chắc giúp ngôi nhà luôn gọn gàng](https://dantri.com.vn/bat-dong-san/meo-don-dep-cham-ma-chac-giup-ngoi-nha-luon-gon-gang-20250729234540583.htm) - 01:19 02/08/2025
 - 🌜 [Chưa đề xuất thu thuế 20% lãi giao dịch bất động sản](https://dantri.com.vn/bat-dong-san/chua-de-xuat-thu-thue-20-lai-giao-dich-bat-dong-san-20250801173858812.htm) - 10:44 01/08/2025
