@@ -7,7 +7,7 @@ sidebar_position: 1
 - 🦒 [Xác cá voi khổng lồ trôi vào biển Lâm Đồng](https://vnexpress.net/xac-ca-voi-khong-lo-troi-vao-bien-lam-dong-4922143.html) - 06:11 03/08/2025
 - 🤓 [Miền Bắc giữa tuần mưa, cuối tuần nắng nóng](https://vnexpress.net/mien-bac-giua-tuan-mua-cuoi-tuan-nang-nong-4922117.html) - 04:52 03/08/2025
 - ⚗️ [Thủ tướng cấp 250 tỷ đồng hỗ trợ ba tỉnh khắc phục hậu quả mưa lũ](https://vnexpress.net/thu-tuong-cap-250-ty-dong-ho-tro-ba-tinh-khac-phuc-hau-qua-mua-lu-4922131.html) - 04:41 03/08/2025
-- 🌊 [Dự án cao tốc Hữu Nghị - Chi Lăng vướng mặt bằng](https://vnexpress.net/du-an-cao-toc-huu-nghi-chi-lang-vuong-mat-bang-4922098.html) - 04:34 03/08/2025
+- 🌊 [Cao tốc Hữu Nghị - Chi Lăng sẽ thông tuyến vào cuối năm](https://vnexpress.net/cao-toc-huu-nghi-chi-lang-se-thong-tuyen-vao-cuoi-nam-4922098.html) - 04:34 03/08/2025
 - 🎓 [Ồ ạt đào hồ nuôi cá lóc trên cát gây ô nhiễm](https://vnexpress.net/o-at-dao-ho-nuoi-ca-loc-tren-cat-gay-o-nhiem-4921852.html) - 03:09 03/08/2025
 - 🔥 [Hiện trạng lầu Bảo Đại hơn 100 tuổi sát vịnh Nha Trang](https://vnexpress.net/hien-trang-lau-bao-dai-hon-100-tuoi-sat-vinh-nha-trang-4921749.html) - 00:10 03/08/2025
 - 🦏 [Nhiều đường ở Quy Nhơn giới hạn tốc độ 30 km/h](https://vnexpress.net/nhieu-duong-o-quy-nhon-gioi-han-toc-do-30-km-h-4921626.html) - 23:47 02/08/2025
