@@ -5,7 +5,7 @@ sidebar_position: 6
 
 <!-- vnexpress-doi-song:START -->
 - 🚀 [Sống sót sau 5 ngày mắc kẹt trong hang ngầm dưới nước](https://vnexpress.net/song-sot-sau-5-ngay-mac-ket-trong-hang-ngam-duoi-nuoc-4922038.html) - 01:38 03/08/2025
-- 🎓 [Những người vào đời không có bằng đại học](https://vnexpress.net/nhung-nguoi-vao-doi-khong-co-bang-dai-hoc-4915163.html) - 23:28 02/08/2025
+- 🎓 [Vào đời không có bằng đại học](https://vnexpress.net/vao-doi-khong-co-bang-dai-hoc-4915163.html) - 23:28 02/08/2025
 - 🚦 [Rút đơn ly hôn trong &#39;thời gian hạ nhiệt&#39;](https://vnexpress.net/rut-don-ly-hon-trong-thoi-gian-ha-nhiet-4921884.html) - 23:00 02/08/2025
 - 🦣 [Mâm cơm dân dã ngày hè Bắc Bộ](https://vnexpress.net/mam-com-dan-da-ngay-he-bac-bo-4921993.html) - 09:56 02/08/2025
 - 🎓 [Thảm kịch từ nghi lễ cắt bao quy đầu](https://vnexpress.net/tham-kich-tu-nghi-le-cat-bao-quy-dau-4921897.html) - 06:07 02/08/2025
