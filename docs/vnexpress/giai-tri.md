@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Hạnh phúc đôi lứa của diễn viên Quang Minh và bạn gái](https://vnexpress.net/hanh-phuc-doi-lua-cua-dien-vien-quang-minh-va-ban-gai-4921861.html) - 17:00 03/08/2025
+- 🌏 [Hạnh phúc của diễn viên Quang Minh và bạn gái](https://vnexpress.net/hanh-phuc-cua-dien-vien-quang-minh-va-ban-gai-4921861.html) - 17:00 03/08/2025
 - 💫 [&#39;Mang mẹ đi bỏ&#39; thu gần 80 tỷ đồng sau ba ngày](https://vnexpress.net/mang-me-di-bo-thu-gan-80-ty-dong-sau-ba-ngay-4922232.html) - 16:48 03/08/2025
 - 🌮 [Nghệ sĩ đóng Phật Tổ Như Lai &#39;Tây du ký&#39; qua đời](https://vnexpress.net/nghe-si-dong-phat-to-nhu-lai-tay-du-ky-qua-doi-4922224.html) - 14:41 03/08/2025
 - 🧠 [Lê Khánh mất 20 giờ đóng cảnh vật lộn dưới nước](https://vnexpress.net/le-khanh-mat-20-gio-dong-canh-vat-lon-duoi-nuoc-4922176.html) - 13:00 03/08/2025
