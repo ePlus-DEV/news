@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Đội tuyển nữ Việt Nam chốt đội hình dự giải Đông Nam Á: Thanh Nhã trở lại](https://dantri.com.vn/the-thao/doi-tuyen-nu-viet-nam-chot-doi-hinh-du-giai-dong-nam-a-thanh-nha-tro-lai-20250804174434066.htm) - 10:44 04/08/2025
+- 🎡 [Đội tuyển nữ Việt Nam chốt đội hình dự giải Đông Nam Á: Thanh Nhã trở lại](https://dantri.com.vn/the-thao/doi-tuyen-nu-viet-nam-chot-doi-hinh-du-giai-dong-nam-a-thanh-nha-tro-lai-20250804174434066.htm) - 11:10 04/08/2025
 - 💯 [Quang Dương nói lời &quot;gan ruột&quot; sau 2 danh hiệu vô địch tại Ấn Độ](https://dantri.com.vn/the-thao/quang-duong-noi-loi-gan-ruot-sau-2-danh-hieu-vo-dich-tai-an-do-20250804150643443.htm) - 08:22 04/08/2025
 - ⛽️ [Fernandes chê cầu thủ Man Utd lười biếng, HLV Amorim hoàn toàn đồng tình](https://dantri.com.vn/the-thao/fernandes-che-cau-thu-man-utd-luoi-bieng-hlv-amorim-hoan-toan-dong-tinh-20250804144833443.htm) - 07:50 04/08/2025
 - 💃 [Bê bối của bóng đá Thái Lan: Cầu thủ đánh đồng nghiệp lẫn trọng tài](https://dantri.com.vn/the-thao/be-boi-cua-bong-da-thai-lan-cau-thu-danh-dong-nghiep-lan-trong-tai-20250804115401389.htm) - 07:11 04/08/2025
