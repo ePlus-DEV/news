@@ -269,7 +269,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎭 [Truy tìm tài xế 7 chỗ đi vào làn khẩn cấp, còn bị tố rút chìa khóa xe khách rồi cầm đi](https://nld.com.vn/truy-tim-tai-xe-7-cho-di-vao-lan-khan-cap-con-bi-to-rut-chia-khoa-xe-khach-roi-cam-di-196250804185845925.htm) - 12:44 04/08/2025
 - 💄 [Vì sao khu vực Bắc Bộ nắng nóng gay gắt gần 40 độ C?](https://nld.com.vn/vi-sao-khu-vuc-bac-bo-nang-nong-gay-gat-gan-40-do-c-196250804182552142.htm) - 12:08 04/08/2025
 - 🎊 [Phân biệt đột tử và đột quỵ: Không hiểu đúng, dễ nguy hiểm tính mạng](https://nld.com.vn/phan-biet-dot-tu-va-dot-quy-khong-hieu-dung-de-nguy-hiem-tinh-mang-196250804185756883.htm) - 12:07 04/08/2025
-- 🎡 [Thùy Tiên đã được thay thế bằng AI trong phim &quot;Chốt đơn&quot;](https://nld.com.vn/thuy-tien-da-duoc-thay-the-bang-ai-trong-phim-chot-don-196250804185142491.htm) - 12:05 04/08/2025
+- 🎡 [Thùy Tiên đã được thay thế bằng diễn viên AI trong phim &quot;Chốt đơn&quot;](https://nld.com.vn/thuy-tien-da-duoc-thay-the-bang-ai-trong-phim-chot-don-196250804185142491.htm) - 12:05 04/08/2025
 - 🎉 [Tri ân nhạc sĩ Trần Long Ẩn và NSƯT Phi Yến](https://nld.com.vn/tri-an-nhac-si-tran-long-an-va-nsut-phi-yen-196250804180854425.htm) - 12:05 04/08/2025
 - 😺 [Bắt được nghi phạm chính trong đường dây mua bán người](https://nld.com.vn/bat-duoc-nghi-pham-chinh-trong-duong-day-mua-ban-nguoi-196250804183425452.htm) - 11:48 04/08/2025
 - 🐻 [Audio: Vì sao người trẻ cũng khó thoát đột quỵ?](https://nld.com.vn/audio-vi-sao-nguoi-tre-cung-kho-thoat-dot-quy-196250804163551658.htm) - 11:45 04/08/2025
