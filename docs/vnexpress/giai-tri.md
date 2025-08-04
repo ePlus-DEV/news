@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-giai-tri:START -->
-- 🌏 [Diễn viên AI thay thế hoa hậu Thùy Tiên trong &#39;Chốt đơn&#39;](https://vnexpress.net/dien-vien-ai-thay-the-hoa-hau-thuy-tien-trong-chot-don-4922607.html) - 10:48 04/08/2025
+- 🌏 [Diễn viên AI thay thế Thùy Tiên trong &#39;Chốt đơn&#39;](https://vnexpress.net/dien-vien-ai-thay-the-thuy-tien-trong-chot-don-4922607.html) - 10:48 04/08/2025
 - 💫 [&#39;Tiến vào đồng cỏ hoang&#39; - trẻ con không thích vâng lời](https://vnexpress.net/tien-vao-dong-co-hoang-tre-con-khong-thich-vang-loi-4922554.html) - 10:32 04/08/2025
 - 🌮 [Nhan sắc thí sinh Miss Hong Kong 2025](https://vnexpress.net/nhan-sac-thi-sinh-miss-hong-kong-2025-4922498.html) - 08:28 04/08/2025
 - 🧠 [Thí sinh Top Model suýt ngất khi chụp ảnh trên không](https://vnexpress.net/thi-sinh-top-model-suyt-ngat-khi-chup-anh-tren-khong-4922366.html) - 04:36 04/08/2025
