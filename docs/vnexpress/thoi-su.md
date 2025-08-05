@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- vnexpress-thoi-su:START -->
 - 🦒 [Lật xe khách ở Phú Thọ, một người chết](https://vnexpress.net/lat-xe-khach-o-phu-tho-mot-nguoi-chet-4923109.html) - 12:52 05/08/2025
-- 🤓 [Ngập lút xe máy sau mưa lớn ở TP HCM](https://vnexpress.net/ngap-lut-xe-may-sau-mua-lon-o-tp-hcm-4923111.html) - 12:20 05/08/2025
+- 🤓 [Ngập lút người và xe sau mưa lớn ở TP HCM](https://vnexpress.net/ngap-lut-nguoi-va-xe-sau-mua-lon-o-tp-hcm-4923111.html) - 12:20 05/08/2025
 - ⚗️ [Chạy ôtô ngược chiều trên quốc lộ vì &#39;không muốn đi đoạn đường dài&#39;](https://vnexpress.net/chay-oto-nguoc-chieu-tren-quoc-lo-vi-khong-muon-di-doan-duong-dai-4923051.html) - 10:19 05/08/2025
 - 🌊 [Thủ tướng: Cần bỏ giấy phép xây dựng và tăng cường hậu kiểm](https://vnexpress.net/thu-tuong-can-bo-giay-phep-xay-dung-va-tang-cuong-hau-kiem-4922921.html) - 09:03 05/08/2025
 - 🎓 [Gần 16.000 quân nhân tổng hợp luyện A80](https://vnexpress.net/gan-16-000-quan-nhan-tong-hop-luyen-a80-4922933.html) - 08:17 05/08/2025
