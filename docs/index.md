@@ -77,10 +77,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🤩 [Lật xe khách ở Phú Thọ, một người chết](https://vnexpress.net/lat-xe-khach-o-phu-tho-mot-nguoi-chet-4923109.html) - 12:52 05/08/2025
 - 🏊 [Bi hài chung cư mất điện đợt nóng cao điểm](https://vnexpress.net/bi-hai-chung-cu-mat-dien-dot-nong-cao-diem-4923093.html) - 12:46 05/08/2025
 - 💂 [Tạm giữ tài xế rút chìa khóa xe khách trên vành đai 3](https://vnexpress.net/tam-giu-tai-xe-rut-chia-khoa-xe-khach-tren-vanh-dai-3-4923110.html) - 12:37 05/08/2025
-- 🚀 [Tập đoàn năng lượng hàng đầu Philippines muốn đầu tư vào ngành điện Việt Nam](https://vnexpress.net/tap-doan-nang-luong-hang-dau-philippines-muon-dau-tu-vao-nganh-dien-viet-nam-4923108.html) - 12:34 05/08/2025
-- 🕴 [Chàng trai Mỹ diễn hài tiếng Việt](https://vnexpress.net/chang-trai-my-dien-hai-tieng-viet-4899564.html) - 12:26 05/08/2025
-- 🦆 [Nhóm thiếu niên trộm 12 xe máy của người đi tắm biển](https://vnexpress.net/nhom-thieu-nien-trom-12-xe-may-cua-nguoi-di-tam-bien-4923106.html) - 12:25 05/08/2025
-- 💫 [Phó thủ tướng: Tính tiền sử dụng đất phải công bằng, khoan sức dân](https://vnexpress.net/pho-thu-tuong-tinh-tien-su-dung-dat-phai-cong-bang-khoan-suc-dan-4923096.html) - 12:23 05/08/2025<!-- vnexpress:END -->
+- 🚀 [Tập đoàn năng lượng hàng đầu Philippines muốn đầu tư vào ngành điện Việt Nam](https://vnexpress.net/tap-doan-nang-luong-hang-dau-philippines-muon-dau-tu-vao-nganh-dien-viet-nam-4923108.html) - 12:34 05/08/2025<!-- vnexpress:END -->
 
 ## Báo Dân Trí
 <!-- dantri:START -->
