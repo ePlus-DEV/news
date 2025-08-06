@@ -531,7 +531,7 @@ thắng đậm trận ra quân](https://thanhnien.vn/thai-lan-0-0-indonesia-aff-
 <!-- muctim:START -->
 - 🤔 [Infographic: V Fest - Thanh xuân rực rỡ và loạt concert nổi bật trong tháng 8](https://muctim.tuoitre.vn/infographic-v-fest-thanh-xuan-ruc-ro-va-loat-concert-noi-bat-trong-thang-8-101250806185106574.htm) - 12:35 06/08/2025
 - 🥷 [NSND Thanh Hoa, Phương Mỹ Chi kết hợp với Trúc Nhân trong dự án mới của DTAP](https://muctim.tuoitre.vn/nsnd-thanh-hoa-phuong-my-chi-ket-hop-voi-truc-nhan-trong-du-an-moi-cua-dtap-101250806182052826.htm) - 12:23 06/08/2025
-- 🤖 [Trực tiếp Giải bóng đá nữ Đông Nam Á 2025 ngày 6-8: Việt Nam 4 - Campuchia 0](https://muctim.tuoitre.vn/truc-tiep-giai-bong-da-nu-dong-nam-a-2025-ngay-6-8-viet-nam-campuchia-101250806183000504.htm) - 12:03 06/08/2025
+- 🤖 [Trực tiếp Giải bóng đá nữ Đông Nam Á 2025 ngày 6-8: Việt Nam 6 - Campuchia 0 &lpar;hiệp 2&rpar;](https://muctim.tuoitre.vn/truc-tiep-giai-bong-da-nu-dong-nam-a-2025-ngay-6-8-viet-nam-campuchia-101250806183000504.htm) - 12:03 06/08/2025
 - 🤓 [Đội viên thành phố về nguồn, tô đậm tình yêu quê hương](https://muctim.tuoitre.vn/doi-vien-thanh-pho-ve-nguon-to-dam-tinh-yeu-que-huong-10125080514483963.htm) - 11:30 06/08/2025
 - 🎉 [Nhạc sĩ Nguyễn Văn Chung thực hiện chuỗi dự án hướng về Quốc khánh 2-9](https://muctim.tuoitre.vn/nhac-si-nguyen-van-chung-thuc-hien-chuoi-du-an-huong-ve-quoc-khanh-2-9-101250806180821956.htm) - 11:15 06/08/2025
 - 👨‍🏫 [Messi và Ronaldo có thể sẽ giải nghệ sau World Cup 2026](https://muctim.tuoitre.vn/messi-va-ronaldo-co-the-se-giai-nghe-sau-world-cup-2026-101250806170553744.htm) - 10:23 06/08/2025
