@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Lộ tạo hình AI thay Thùy Tiên ở &quot;Chốt đơn!&quot;, ra sao mà thổi bùng tranh cãi?](https://dantri.com.vn/giai-tri/lo-tao-hinh-ai-thay-thuy-tien-o-chot-don-ra-sao-ma-thoi-bung-tranh-cai-20250806054858580.htm) - 23:23 05/08/2025
+- 🤩 [Lộ tạo hình AI thay Thùy Tiên ở &quot;Chốt đơn!&quot;: Dân mạng tranh cãi dữ dội](https://dantri.com.vn/giai-tri/lo-tao-hinh-ai-thay-thuy-tien-o-chot-don-dan-mang-tranh-cai-du-doi-20250806054858580.htm) - 23:23 05/08/2025
 - 🔥 [Mỹ nhân Kelly Brook quyến rũ, tự hào với vẻ đẹp tự nhiên ở tuổi U50](https://dantri.com.vn/giai-tri/my-nhan-kelly-brook-quyen-ru-tu-hao-voi-ve-dep-tu-nhien-o-tuoi-u50-20250805133458711.htm) - 13:00 05/08/2025
 - 🚀 [Chi Pu hóa &quot;mỹ nhân ngư&quot; gợi cảm, giọng hát được nâng cấp](https://dantri.com.vn/giai-tri/chi-pu-hoa-my-nhan-ngu-goi-cam-giong-hat-duoc-nang-cap-20250805114639038.htm) - 09:35 05/08/2025
 - 🔥 [Thanh Hằng khóa bình luận sau màn tạo dáng lơ lửng trên cao gây tranh cãi](https://dantri.com.vn/giai-tri/thanh-hang-khoa-binh-luan-sau-man-tao-dang-lo-lung-tren-cao-gay-tranh-cai-20250805145703732.htm) - 09:19 05/08/2025
