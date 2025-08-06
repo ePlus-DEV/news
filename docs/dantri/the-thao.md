@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Báo Indonesia phản ứng khi Xuân Son báo tin không vui](https://dantri.com.vn/the-thao/bao-indonesia-phan-ung-khi-xuan-son-bao-tin-khong-vui-20250806184509195.htm) - 12:00 06/08/2025
+- 🎡 [Báo Indonesia phản ứng khi Xuân Son báo tin không vui](https://dantri.com.vn/the-thao/bao-indonesia-phan-ung-khi-xuan-son-bao-tin-khong-vui-20250806184509195.htm) - 14:00 06/08/2025
 - 💯 [Đội tuyển Thái Lan thắng đậm Indonesia tại giải bóng đá nữ Đông Nam Á](https://dantri.com.vn/the-thao/doi-tuyen-thai-lan-thang-dam-indonesia-tai-giai-bong-da-nu-dong-nam-a-20250806185301860.htm) - 11:59 06/08/2025
 - ⛽️ [Đội tuyển nữ Việt Nam thắng 6-0 trước tuyển Campuchia](https://dantri.com.vn/the-thao/doi-tuyen-nu-viet-nam-thang-6-0-truoc-tuyen-campuchia-20250806183511065.htm) - 11:35 06/08/2025
 - 💃 [Man Utd tung đòn quyết định, đạt thỏa thuận mua Benjamin Sesko](https://dantri.com.vn/the-thao/man-utd-tung-don-quyet-dinh-dat-thoa-thuan-mua-benjamin-sesko-20250806135743824.htm) - 10:01 06/08/2025
