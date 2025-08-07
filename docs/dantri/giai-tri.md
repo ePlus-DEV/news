@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Bạn bè và đồng nghiệp tiễn đưa “Phật Tổ Như Lai” Chu Long Quảng](https://dantri.com.vn/giai-tri/ban-be-va-dong-nghiep-tien-dua-phat-to-nhu-lai-chu-long-quang-20250807095048606.htm) - 04:52 07/08/2025
+- 🤩 [Bạn bè tiễn đưa nam diễn viên đóng vai Phật Tổ trong &quot;Tây du ký&quot;](https://dantri.com.vn/giai-tri/ban-be-tien-dua-nam-dien-vien-dong-vai-phat-to-trong-tay-du-ky-20250807095048606.htm) - 04:52 07/08/2025
 - 🔥 [Mẹ của tài tử Brad Pitt qua đời ở tuổi 84](https://dantri.com.vn/giai-tri/me-cua-tai-tu-brad-pitt-qua-doi-o-tuoi-84-20250807093742154.htm) - 04:49 07/08/2025
 - 🚀 [Hàng trăm người yêu bóng đá đổ về sự kiện OMO gặp huyền thoại Gilberto Silva](https://dantri.com.vn/giai-tri/hang-tram-nguoi-yeu-bong-da-do-ve-su-kien-omo-gap-huyen-thoai-gilberto-silva-20250806213417461.htm) - 03:00 07/08/2025
 - 🔥 [&quot;Chàng rể quốc dân&quot; bị tẩy chay vì gia đình vợ bị tố lừa đảo](https://dantri.com.vn/giai-tri/chang-re-quoc-dan-bi-tay-chay-vi-gia-dinh-vo-bi-to-lua-dao-20250806124732973.htm) - 01:21 07/08/2025
