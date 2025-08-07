@@ -524,7 +524,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Trực tiếp bóng chuyền nữ U21 thế giới ngày 7-8: Việt Nam 25-15 Indonesia &lpar;set 1&rpar;](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nu-u21-the-gioi-ngay-7-8-viet-nam-indonesia-101250807180730348.htm) - 11:50 07/08/2025
+- 🤔 [Trực tiếp bóng chuyền nữ U21 thế giới ngày 7-8: Việt Nam thắng Indonesia 3-0](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nu-u21-the-gioi-ngay-7-8-viet-nam-indonesia-101250807180730348.htm) - 11:50 07/08/2025
 - 🥷 [Karina &lpar;aespa&rpar; trở lại show thực tế; Song Joong Ki, Kim Da Mi tái xuất màn ảnh nhỏ](https://muctim.tuoitre.vn/karina-aespa-tro-lai-show-thuc-te-song-joong-ki-kim-da-mi-tai-xuat-man-anh-nho-101250807171048057.htm) - 10:46 07/08/2025
 - 🤖 [Tại sao khán giả hào hứng với màn nên duyên giữa Yoona và Ahn Bo Hyun?](https://muctim.tuoitre.vn/tai-sao-khan-gia-hao-hung-voi-man-nen-duyen-giua-yoona-va-ahn-bo-hyun-101250807162452768.htm) - 10:08 07/08/2025
 - 🤓 [Có gì đặc biệt tại chương trình &#39;Dưới cờ vinh quang&#39; diễn ra tối 9-8?](https://muctim.tuoitre.vn/co-gi-dac-biet-tai-chuong-trinh-duoi-co-vinh-quang-dien-ra-toi-9-8-101250807153919235.htm) - 10:04 07/08/2025
