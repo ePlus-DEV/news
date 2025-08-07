@@ -4,7 +4,7 @@ sidebar_position: 18
 ---
 
 <!-- dantri-doi-song:START -->
-- 🥳 [Bỏ phố về quê, hai chàng trai bán tài sản xây căn bếp hút chục triệu view](https://dantri.com.vn/doi-song/bo-pho-ve-que-hai-chang-trai-ban-tai-san-xay-can-bep-hut-chuc-trieu-view-20250715195312770.htm) - 22:23 07/08/2025
+- 🥳 [Bỏ phố về quê, hai chàng trai bán tài sản xây căn bếp hút triệu lượt xem](https://dantri.com.vn/doi-song/bo-pho-ve-que-hai-chang-trai-ban-tai-san-xay-can-bep-hut-trieu-luot-xem-20250715195312770.htm) - 22:23 07/08/2025
 - 🌁 [5 tiêu chí chọn nước uống tinh khiết cho gia đình](https://dantri.com.vn/doi-song/5-tieu-chi-chon-nuoc-uong-tinh-khiet-cho-gia-dinh-20250807171336611.htm) - 11:30 07/08/2025
 - 👀 [iHanoi - Hành trình số hóa trải nghiệm công dân Thủ đô](https://dantri.com.vn/doi-song/ihanoi-hanh-trinh-so-hoa-trai-nghiem-cong-dan-thu-do-20250807170743360.htm) - 11:00 07/08/2025
 - 🐻 [Hé lộ các xu hướng ẩm thực mới: Đầu bếp trở thành người kể chuyện bằng món ăn](https://dantri.com.vn/doi-song/he-lo-cac-xu-huong-am-thuc-moi-dau-bep-tro-thanh-nguoi-ke-chuyen-bang-mon-an-20250807161746612.htm) - 09:30 07/08/2025
