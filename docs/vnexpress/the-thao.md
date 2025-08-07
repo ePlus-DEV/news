@@ -4,11 +4,11 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Huyền thoại khuyên Djokovic dốc sức vô địch Mỹ Mở rộng](https://vnexpress.net/huyen-thoai-khuyen-djokovic-doc-suc-vo-dich-my-mo-rong-4923689.html) - 23:01 06/08/2025
-- 🦩 [Giải mật thể thao: &#39;Quỷ Đỏ&#39; ở Tour de France là ai?](https://vnexpress.net/giai-mat-the-thao-quy-do-o-tour-de-france-la-ai-4919988.html) - 23:00 06/08/2025
+- 🪜 [HLV Mai Đức Chung muốn nữ Việt Nam thắng đậm hơn nữa](https://vnexpress.net/hlv-mai-duc-chung-muon-nu-viet-nam-thang-dam-hon-nua-4923702.html) - 00:54 07/08/2025
+- 🦩 [Huyền thoại khuyên Djokovic dốc sức vô địch Mỹ Mở rộng](https://vnexpress.net/huyen-thoai-khuyen-djokovic-doc-suc-vo-dich-my-mo-rong-4923689.html) - 23:01 06/08/2025
 - 🧰 [Mỹ nhân điền kinh Trung Quốc không vui dù vô địch 100m quốc gia](https://vnexpress.net/my-nhan-dien-kinh-trung-quoc-khong-vui-du-vo-dich-100m-quoc-gia-4923683.html) - 22:56 06/08/2025
 - 🤗 [Liverpool sắp thanh lý Darwin Nunez](https://vnexpress.net/liverpool-sap-thanh-ly-darwin-nunez-4923687.html) - 22:55 06/08/2025
-- 🥳 [HLV Shin Tae-yong từ chức Phó chủ tịch LĐBĐ Hàn Quốc](https://vnexpress.net/hlv-shin-tae-yong-tu-chuc-pho-chu-tich-ldbd-han-quoc-4923643.html) - 22:48 06/08/2025
+- 🥳 [HLV Shin Tae-yong từ chức phó Chủ tịch LĐBĐ Hàn Quốc](https://vnexpress.net/hlv-shin-tae-yong-tu-chuc-pho-chu-tich-ldbd-han-quoc-4923643.html) - 22:48 06/08/2025
 - 🦣 [Liverpool được dự đoán tiếp tục vô địch Ngoại hạng Anh](https://vnexpress.net/liverpool-duoc-du-doan-tiep-tuc-vo-dich-ngoai-hang-anh-4923685.html) - 22:43 06/08/2025
 - 🌜 [Kyrgios: &#39;Tôi quá thô lỗ để chơi quần vợt&#39;](https://vnexpress.net/kyrgios-toi-qua-tho-lo-de-choi-quan-vot-4923690.html) - 22:40 06/08/2025
 - 🫶 [Gyokeres nhạt nhòa trong lần đầu đá chính cho Arsenal](https://vnexpress.net/gyokeres-nhat-nhoa-trong-lan-dau-da-chinh-cho-arsenal-4923688.html) - 22:38 06/08/2025
