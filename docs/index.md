@@ -521,7 +521,7 @@ ngày truyền thống ngành Tài chính](https://nld.com.vn/tong-bi-thu-to-lam
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Kiếp sau vẫn là người Việt Nam có làm sai lệch văn hóa, lịch sử?](https://muctim.tuoitre.vn/kiep-sau-van-la-nguoi-viet-nam-co-lam-sai-lech-van-hoa-lich-su-101250808165855401.htm) - 10:07 08/08/2025
-- 🥷 [Nhân ngày Quốc tế mèo 8-8, các con sen rần rần khoe boss trên mạng xã hội](https://muctim.tuoitre.vn/nhan-ngay-quoc-te-meo-8-8-cac-con-sen-ran-ran-khoe-boss-tren-mang-xa-hoi-101250808124709529.htm) - 09:27 08/08/2025
+- 🥷 [Nhân Ngày Quốc tế mèo 8-8, các con sen rần rần khoe boss trên mạng xã hội](https://muctim.tuoitre.vn/nhan-ngay-quoc-te-meo-8-8-cac-con-sen-ran-ran-khoe-boss-tren-mang-xa-hoi-101250808124709529.htm) - 09:27 08/08/2025
 - 🤖 [Cách xem thông tin về chuỗi sự kiện A80 tại &#39;A80 - Tự hào Việt Nam&#39;](https://muctim.tuoitre.vn/cach-xem-thong-tin-ve-chuoi-su-kien-a80-tai-a80-tu-hao-viet-nam-101250808145849559.htm) - 08:11 08/08/2025
 - 🤓 [Đường bích họa 300m ở TP.HCM: Điểm check-in lý tưởng dịp lễ 2-9](https://muctim.tuoitre.vn/duong-bich-hoa-300m-o-tphcm-diem-check-in-ly-tuong-dip-le-2-9-101250808131225412.htm) - 08:01 08/08/2025
 - 🎉 [Việt Nam có chiến thắng thứ hai tại Giải bóng chuyền nữ U21 vô địch thế giới 2025](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nu-u21-the-gioi-ngay-8-8-viet-nam-serbia-101250808132609552.htm) - 06:32 08/08/2025
