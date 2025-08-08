@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- dantri-giai-tri:START -->
-- 🤩 [Lê Nguyễn Bảo Ngọc bất ngờ được chọn thi Hoa hậu Thế giới lần thứ 73](https://dantri.com.vn/giai-tri/le-nguyen-bao-ngoc-bat-ngo-duoc-chon-thi-hoa-hau-the-gioi-lan-thu-73-20250808205543510.htm) - 14:35 08/08/2025
+- 🤩 [Hoa hậu cao 1,86m Bảo Ngọc bất ngờ được chọn thi Hoa hậu Thế giới](https://dantri.com.vn/giai-tri/hoa-hau-cao-186m-bao-ngoc-bat-ngo-duoc-chon-thi-hoa-hau-the-gioi-20250808205543510.htm) - 14:35 08/08/2025
 - 🔥 [Xuân Lan hé lộ &quot;góc khuất&quot; của Vietnam&#39;s Next Top Model](https://dantri.com.vn/giai-tri/xuan-lan-he-lo-goc-khuat-cua-vietnams-next-top-model-20250808092735379.htm) - 07:34 08/08/2025
 - 🚀 [Sao nữ gợi cảm Sydney Sweeney tham gia phim “Yêu nữ thích hàng hiệu 2”?](https://dantri.com.vn/giai-tri/sao-nu-goi-cam-sydney-sweeney-tham-gia-phim-yeu-nu-thich-hang-hieu-2-20250808134134233.htm) - 07:04 08/08/2025
 - 🔥 [Khu Nam Sài Gòn chuẩn bị diễn ra đại nhạc hội T&amp;T City Millennia cuối tuần này](https://dantri.com.vn/giai-tri/khu-nam-sai-gon-chuan-bi-dien-ra-dai-nhac-hoi-tt-city-millennia-cuoi-tuan-nay-20250808113616446.htm) - 07:00 08/08/2025
