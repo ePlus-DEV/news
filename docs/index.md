@@ -311,56 +311,56 @@ ngày truyền thống ngành Tài chính](https://nld.com.vn/tong-bi-thu-to-lam
 
 ## Báo SGGP
 <!-- sggp:START -->
-- 🪜 [Những dấu son đầu tiên của Quốc hội lập quốc](https://www.sggp.org.vn/nhung-dau-son-dau-tien-cua-quoc-hoi-lap-quoc-post807364.html) - 23:46 07/08/2025
-- 🌝 [Đặc khu Côn Đảo trước cuộc “chuyển mình lịch sử”](https://www.sggp.org.vn/dac-khu-con-dao-truoc-cuoc-chuyen-minh-lich-su-post807368.html) - 23:45 07/08/2025
-- 💃 [Maddison bỏ lỡ phần lớn mùa giải của Tottenham vì đứt dây chằng chéo trước](https://www.sggp.org.vn/maddison-bo-lo-phan-lon-mua-giai-cua-tottenham-vi-dut-day-chang-cheo-truoc-post807369.html) - 23:44 07/08/2025
-- 🧑‍💻 [Danh sách 30 đề cử Quả bóng Vàng 2025 và 5 ứng viên CLB của năm](https://www.sggp.org.vn/danh-sach-30-de-cu-qua-bong-vang-2025-va-5-ung-vien-clb-cua-nam-post807367.html) - 23:43 07/08/2025
-- 🌊 [Sau 17 năm ở đỉnh cao, công việc khắc nghiệt đang khiến Pep Guardiola mệt mỏi](https://www.sggp.org.vn/sau-17-nam-o-dinh-cao-cong-viec-khac-nghiet-dang-khien-pep-guardiola-met-moi-post807350.html) - 23:43 07/08/2025
-- 🧑‍💻 [Sự trở lại của Neymar tại Brazil: Phong độ thất thường, xô xát với người hâm mộ và những bàn thắng ấn tượng](https://www.sggp.org.vn/su-tro-lai-cua-neymar-tai-brazil-phong-do-that-thuong-xo-xat-voi-nguoi-ham-mo-va-nhung-ban-thang-an-tuong-post807349.html) - 23:42 07/08/2025
-- ⛽️ [Vợ chồng nghèo nguy kịch vì bệnh nặng](https://www.sggp.org.vn/vo-chong-ngheo-nguy-kich-vi-benh-nang-post807361.html) - 23:14 07/08/2025
-- 😎 [Nhiều giải pháp hỗ trợ tuyển dụng giáo viên](https://www.sggp.org.vn/nhieu-giai-phap-ho-tro-tuyen-dung-giao-vien-post807360.html) - 23:13 07/08/2025
-- 🌜 [Manchester United: Sẵn sàng cho những thử thách khắc nghiệt](https://www.sggp.org.vn/manchester-united-san-sang-cho-nhung-thu-thach-khac-nghiet-post807348.html) - 23:10 07/08/2025
-- 💻 [Lắng nghe cử tri, kiến tạo phát triển](https://www.sggp.org.vn/lang-nghe-cu-tri-kien-tao-phat-trien-post807352.html) - 22:46 07/08/2025
-- 👍 [Giải vô địch điền kinh quốc gia 2025: Thước đo năng lực tuyển thủ quốc gia](https://www.sggp.org.vn/giai-vo-dich-dien-kinh-quoc-gia-2025-thuoc-do-nang-luc-tuyen-thu-quoc-gia-post807359.html) - 22:45 07/08/2025
-- 🦆 [Sức sống Quảng Tây](https://www.sggp.org.vn/suc-song-quang-tay-post807356.html) - 22:43 07/08/2025
-- 🦩 [Tái chế sẽ vô nghĩa nếu không giảm sản xuất nhựa](https://www.sggp.org.vn/tai-che-se-vo-nghia-neu-khong-giam-san-xuat-nhua-post807354.html) - 22:40 07/08/2025
-- 🥰 [Xây dựng mối quan hệ “Đối tác hợp tác cùng phát triển” Việt Nam - Angola](https://www.sggp.org.vn/xay-dung-moi-quan-he-doi-tac-hop-tac-cung-phat-trien-viet-nam-angola-post807353.html) - 22:39 07/08/2025
-- 🎬 [Dựng kịch lịch sử, dựng lòng yêu nước](https://www.sggp.org.vn/dung-kich-lich-su-dung-long-yeu-nuoc-post807357.html) - 22:37 07/08/2025
-- 🦩 [Đặt lợi ích quốc gia, dân tộc lên trên hết](https://www.sggp.org.vn/dat-loi-ich-quoc-gia-dan-toc-len-tren-het-post807351.html) - 22:36 07/08/2025
-- 🌮 [Thái Sơn Nam TPHCM vào bán kết Futsal Cúp quốc gia 2025](https://www.sggp.org.vn/thai-son-nam-tphcm-vao-ban-ket-futsal-cup-quoc-gia-2025-post807342.html) - 15:17 07/08/2025
-- 👍 [Đội tuyển trẻ Việt Nam giành chiến thắng ấn tượng trong ngày khởi tranh giải vô địch U21 thế giới](https://www.sggp.org.vn/doi-tuyen-tre-viet-nam-gianh-chien-thang-an-tuong-trong-ngay-khoi-tranh-giai-vo-dich-u21-the-gioi-post807344.html) - 15:17 07/08/2025
-- 🦒 [Siêu phẩm giúp đội tuyển nữ Myanmar tạo nên địa chấn trước Australia](https://www.sggp.org.vn/sieu-pham-giup-doi-tuyen-nu-myanmar-tao-nen-dia-chan-truoc-australia-post807346.html) - 15:16 07/08/2025
-- 🤡 [World Games 2025 chính thức khai mạc](https://www.sggp.org.vn/world-games-2025-chinh-thuc-khai-mac-post807347.html) - 15:16 07/08/2025
-- 🐎 [Ngày 13-8, TPHCM khởi công dự án bờ Bắc Kênh Đôi 7.300 tỷ đồng](https://www.sggp.org.vn/ngay-13-8-tphcm-khoi-cong-du-an-bo-bac-kenh-doi-7300-ty-dong-post807343.html) - 13:56 07/08/2025
-- 🦆 [Vừa thoát vai du kích, Thái Hòa hóa thân làm không tặc](https://www.sggp.org.vn/vua-thoat-vai-du-kich-thai-hoa-hoa-than-lam-khong-tac-post807340.html) - 13:54 07/08/2025
-- 🦅 [Phó Thủ tướng Trần Hồng Hà: Cầu Rạch Miễu 2 tạo động lực phát triển toàn vùng ĐBSCL](https://www.sggp.org.vn/pho-thu-tuong-tran-hong-ha-cau-rach-mieu-2-tao-dong-luc-phat-trien-toan-vung-dbscl-post807335.html) - 13:39 07/08/2025
-- 🫣 [Tăng cường kết nối hai nền kinh tế Việt Nam – Nhật Bản](https://www.sggp.org.vn/tang-cuong-ket-noi-hai-nen-kinh-te-viet-nam-nhat-ban-post807337.html) - 13:39 07/08/2025
-- 🎭 [Podcast bản tin tối 7-8: Tổng Bí thư Tô Lâm sắp thăm cấp Nhà nước đến Hàn Quốc](https://www.sggp.org.vn/podcast-ban-tin-toi-7-8-tong-bi-thu-to-lam-sap-tham-cap-nha-nuoc-den-han-quoc-post807338.html) - 13:21 07/08/2025
-- 🫶 [Ngư dân xứ Nghệ trúng đậm cá biển](https://www.sggp.org.vn/ngu-dan-xu-nghe-trung-dam-ca-bien-post807339.html) - 13:20 07/08/2025
-- 🎓 [Chủ tịch UBND TPHCM Nguyễn Văn Được thăm cựu tù chính trị ở Đặc khu Côn Đảo](https://www.sggp.org.vn/chu-tich-ubnd-tphcm-nguyen-van-duoc-tham-cuu-tu-chinh-tri-o-dac-khu-con-dao-post807334.html) - 13:11 07/08/2025
-- 🤡 [Ngành giáo dục tổ chức lễ khai giảng “2 trong 1” năm học 2025-2026](https://www.sggp.org.vn/nganh-giao-duc-to-chuc-le-khai-giang-2-trong-1-nam-hoc-2025-2026-post807328.html) - 13:07 07/08/2025
-- 🦅 [Bản tin tối 7-8: Mức nồng độ cồn của phó giám đốc lái xe gây tai nạn liên hoàn](https://www.sggp.org.vn/ban-tin-toi-7-8-muc-nong-do-con-cua-pho-giam-doc-lai-xe-gay-tai-nan-lien-hoan-post807336.html) - 13:00 07/08/2025
-- 🧑‍🏫 [Phát hiện tàu cá tàng trữ chất độc Xyanua tại Côn Đảo](https://www.sggp.org.vn/phat-hien-tau-ca-tang-tru-chat-doc-xyanua-tai-con-dao-post807327.html) - 12:49 07/08/2025
-- 🕴 [Cán bộ CSGT bị người nước ngoài tấn công khi đang làm nhiệm vụ](https://www.sggp.org.vn/can-bo-csgt-bi-nguoi-nuoc-ngoai-tan-cong-khi-dang-lam-nhiem-vu-post807331.html) - 12:34 07/08/2025
-- 🦆 [Bắt giữ đối tượng cưỡng đoạt 250 triệu đồng tại văn phòng đăng ký đất đai](https://www.sggp.org.vn/bat-giu-doi-tuong-cuong-doat-250-trieu-dong-tai-van-phong-dang-ky-dat-dai-post807330.html) - 12:33 07/08/2025
-- 🎃 [Triển khai tập huấn để cán bộ tiếp nhận nhiều loại hồ sơ](https://www.sggp.org.vn/trien-khai-tap-huan-de-can-bo-tiep-nhan-nhieu-loai-ho-so-post807324.html) - 12:33 07/08/2025
-- 🌮 [Đưa hình ảnh dung dị về Bác Hồ lên sân khấu cải lương](https://www.sggp.org.vn/dua-hinh-anh-dung-di-ve-bac-ho-len-san-khau-cai-luong-post807314.html) - 12:33 07/08/2025
-- 🥰 [Lễ đón Chủ tịch nước Lương Cường thăm cấp Nhà nước Cộng hòa Angola](https://www.sggp.org.vn/le-don-chu-tich-nuoc-luong-cuong-tham-cap-nha-nuoc-cong-hoa-angola-post807332.html) - 12:21 07/08/2025
-- 🕯 [Chi tiết các xã, phường ở Lâm Đồng còn “trắng” cán bộ chuyên môn](https://www.sggp.org.vn/chi-tiet-cac-xa-phuong-o-lam-dong-con-trang-can-bo-chuyen-mon-post807312.html) - 12:21 07/08/2025
-- 🙉 [Ít nhất 20% người học từ 15-25 tuổi theo học giáo dục nghề nghiệp](https://www.sggp.org.vn/it-nhat-20-nguoi-hoc-tu-15-25-tuoi-theo-hoc-giao-duc-nghe-nghiep-post807308.html) - 12:12 07/08/2025
-- 💡 [12 tuyển thủ bắn cung Việt Nam sẽ tranh tài ở giải vô địch thế giới 2025](https://www.sggp.org.vn/12-tuyen-thu-ban-cung-viet-nam-se-tranh-tai-o-giai-vo-dich-the-gioi-2025-post807272.html) - 12:08 07/08/2025
-- 💫 [Ngày 13-8, TPHCM khởi công Dự án cải tạo bờ Bắc Kênh Đôi](https://www.sggp.org.vn/ngay-13-8-tphcm-khoi-cong-du-an-cai-tao-bo-bac-kenh-doi-post807326.html) - 12:03 07/08/2025
-- 🧑‍💻 [Lãnh đạo LĐLĐ TPHCM gặp mặt Khối Công vận - Công đoàn hưu trí](https://www.sggp.org.vn/lanh-dao-ldld-tphcm-gap-mat-khoi-cong-van-cong-doan-huu-tri-post807315.html) - 12:02 07/08/2025
-- 🎊 [Giá xăng E10 tăng thêm 230 đồng/lít, cao hơn xăng E5](https://www.sggp.org.vn/gia-xang-e10-tang-them-230-donglit-cao-hon-xang-e5-post807313.html) - 11:56 07/08/2025
-- 🤖 [Quân chủng Hải quân kiểm tra, nắm tình hình tại Vùng 2](https://www.sggp.org.vn/quan-chung-hai-quan-kiem-tra-nam-tinh-hinh-tai-vung-2-post807311.html) - 11:49 07/08/2025
-- 💫 [Khối diễu binh, diễu hành sẽ giao lưu với nhân dân sau lễ kỷ niệm Quốc khánh](https://www.sggp.org.vn/khoi-dieu-binh-dieu-hanh-se-giao-luu-voi-nhan-dan-sau-le-ky-niem-quoc-khanh-post807325.html) - 11:36 07/08/2025
-- 👨‍🏫 [Cử tri xã Hồ Tràm &lpar;TPHCM&rpar; kiến nghị nhiều vấn đề dân sinh](https://www.sggp.org.vn/cu-tri-xa-ho-tram-tphcm-kien-nghi-nhieu-van-de-dan-sinh-post807307.html) - 11:36 07/08/2025
-- 🧰 [Bắt giữ đối tượng đột nhập nhà, khống chế phụ nữ để cướp tài sản](https://www.sggp.org.vn/bat-giu-doi-tuong-dot-nhap-nha-khong-che-phu-nu-de-cuop-tai-san-post807322.html) - 11:33 07/08/2025
-- 🥰 [TPHCM xây dựng quyết định phân cấp quản lý trật tự xây dựng](https://www.sggp.org.vn/tphcm-xay-dung-quyet-dinh-phan-cap-quan-ly-trat-tu-xay-dung-post807318.html) - 11:30 07/08/2025
-- 💼 [Một phó giám đốc lái xe khi say xỉn, gây tai nạn liên hoàn](https://www.sggp.org.vn/mot-pho-giam-doc-lai-xe-khi-say-xin-gay-tai-nan-lien-hoan-post807309.html) - 11:21 07/08/2025
-- 🤗 [Phường Vũng Tàu: Không có chuyện tăng giá thu gom rác](https://www.sggp.org.vn/phuong-vung-tau-khong-co-chuyen-tang-gia-thu-gom-rac-post807323.html) - 11:21 07/08/2025
-- 🦩 [Lâm Đồng gấp rút triển khai các bãi đỗ xe trung tâm](https://www.sggp.org.vn/lam-dong-gap-rut-trien-khai-cac-bai-do-xe-trung-tam-post807285.html) - 11:21 07/08/2025
-- 🫶 [Hướng đến mục tiêu 18% dân số tham gia bảo hiểm nhân thọ](https://www.sggp.org.vn/huong-den-muc-tieu-18-dan-so-tham-gia-bao-hiem-nhan-tho-post807319.html) - 11:20 07/08/2025<!-- sggp:END -->
+- 🪜 [Nhộn nhịp trái phiếu doanh nghiệp](https://www.sggp.org.vn/nhon-nhip-trai-phieu-doanh-nghiep-post807355.html) - 05:42 08/08/2025
+- 🌝 [Trao giải cuộc thi viết &quot;Dấu ấn Tuổi Trẻ trong tôi&quot;](https://www.sggp.org.vn/trao-giai-cuoc-thi-viet-dau-an-tuoi-tre-trong-toi-post807411.html) - 05:34 08/08/2025
+- 💃 [Ngành thể dục thể thao Việt Nam tổ chức hướng nghiệp cho VĐV](https://www.sggp.org.vn/nganh-the-duc-the-thao-viet-nam-to-chuc-huong-nghiep-cho-vdv-post807402.html) - 05:29 08/08/2025
+- 🧑‍💻 [Canadian Open 2025: Victoria Mboko hoàn tất câu chuyện cổ tích ở Montreal](https://www.sggp.org.vn/canadian-open-2025-victoria-mboko-hoan-tat-cau-chuyen-co-tich-o-montreal-post807410.html) - 05:28 08/08/2025
+- 🌊 [Hiện trạng dự án cao ốc “mắc cạn” bên vịnh Nha Trang](https://www.sggp.org.vn/hien-trang-du-an-cao-oc-mac-can-ben-vinh-nha-trang-post807316.html) - 05:20 08/08/2025
+- 🧑‍💻 [1,87 tỷ đồng nâng cấp 7 tuyến hẻm phường Nhiêu Lộc &lpar;TPHCM&rpar;](https://www.sggp.org.vn/187-ty-dong-nang-cap-7-tuyen-hem-phuong-nhieu-loc-tphcm-post807387.html) - 05:05 08/08/2025
+- ⛽️ [Bí quyết chọn Dầu gió xanh Con Ó Eagle Brand đạt tiêu chuẩn, an toàn](https://www.sggp.org.vn/bi-quyet-chon-dau-gio-xanh-con-o-eagle-brand-dat-tieu-chuan-an-toan-post807403.html) - 05:01 08/08/2025
+- 😎 [Phường An Khánh phải là hình mẫu về công tác cải cách hành chính](https://www.sggp.org.vn/phuong-an-khanh-phai-la-hinh-mau-ve-cong-tac-cai-cach-hanh-chinh-post807400.html) - 04:53 08/08/2025
+- 🌜 [Hai người trẻ &quot;thập tử nhất sinh&quot;, máu cô đặc vì sốt xuất huyết](https://www.sggp.org.vn/hai-nguoi-tre-thap-tu-nhat-sinh-mau-co-dac-vi-sot-xuat-huyet-post807395.html) - 04:52 08/08/2025
+- 💻 [Harry Kane ghi bàn vùi dập đội bóng cũ Tottenham](https://www.sggp.org.vn/harry-kane-ghi-ban-vui-dap-doi-bong-cu-tottenham-post807412.html) - 04:52 08/08/2025
+- 👍 [Donnarumma đẩy PSG vào tình thế khó](https://www.sggp.org.vn/donnarumma-day-psg-vao-tinh-the-kho-post807407.html) - 04:51 08/08/2025
+- 🦆 [Lâm Đồng: Bắt giữ nhóm đối tượng cho vay lãi nặng lên tới 240%/năm](https://www.sggp.org.vn/lam-dong-bat-giu-nhom-doi-tuong-cho-vay-lai-nang-len-toi-240nam-post807406.html) - 04:44 08/08/2025
+- 🦩 [Tái hiện hình ảnh duyệt binh trên Quảng trường Đỏ tại concert Quốc gia &quot;Tổ quốc trong tim&quot;](https://www.sggp.org.vn/tai-hien-hinh-anh-duyet-binh-tren-quang-truong-do-tai-concert-quoc-gia-to-quoc-trong-tim-post807401.html) - 04:44 08/08/2025
+- 🥰 [Lịch thi đấu chặng 2 Giải bóng chuyền nữ quốc tế SEA V.League 2025](https://www.sggp.org.vn/lich-thi-dau-chang-2-giai-bong-chuyen-nu-quoc-te-sea-vleague-2025-post807409.html) - 04:41 08/08/2025
+- 🎬 [SEA V.League 2025: HLV Nguyễn Tuấn Kiệt kỳ vọng các học trò giành chiến thắng trên sân nhà](https://www.sggp.org.vn/sea-vleague-2025-hlv-nguyen-tuan-kiet-ky-vong-cac-hoc-tro-gianh-chien-thang-tren-san-nha-post807405.html) - 04:29 08/08/2025
+- 🦩 [Ra mắt 6 đội kiểm tra chuyên ngành xây dựng, giao thông khu vực Bà Rịa - Vũng Tàu](https://www.sggp.org.vn/ra-mat-6-doi-kiem-tra-chuyen-nganh-xay-dung-giao-thong-khu-vuc-ba-ria-vung-tau-post807396.html) - 04:15 08/08/2025
+- 🌮 [Khu Nam Sài Gòn chuẩn bị bùng nổ với đại nhạc hội T&amp;T City Millennia cuối tuần này](https://www.sggp.org.vn/khu-nam-sai-gon-chuan-bi-bung-no-voi-dai-nhac-hoi-tt-city-millennia-cuoi-tuan-nay-post807399.html) - 04:15 08/08/2025
+- 👍 [Ông Nguyễn Kim Long làm Phó Chủ tịch UBND tỉnh Đồng Nai](https://www.sggp.org.vn/ong-nguyen-kim-long-lam-pho-chu-tich-ubnd-tinh-dong-nai-post807392.html) - 04:04 08/08/2025
+- 🦒 [Lan tỏa chiến dịch truyền thông “Tôi yêu Tổ quốc tôi”](https://www.sggp.org.vn/lan-toa-chien-dich-truyen-thong-toi-yeu-to-quoc-toi-post807398.html) - 04:04 08/08/2025
+- 🤡 [Quy định mới về bảo hiểm xã hội bắt buộc](https://www.sggp.org.vn/quy-dinh-moi-ve-bao-hiem-xa-hoi-bat-buoc-post807362.html) - 03:59 08/08/2025
+- 🐎 [Đại hội Đảng bộ VietinBank: Cùng đất nước tiến mạnh trong kỷ nguyên mới](https://www.sggp.org.vn/dai-hoi-dang-bo-vietinbank-cung-dat-nuoc-tien-manh-trong-ky-nguyen-moi-post807390.html) - 03:58 08/08/2025
+- 🦆 [Long Châu đồng hành cùng cuộc thi “Cơ sở y tế Xanh – Sạch – Đẹp” lần thứ I](https://www.sggp.org.vn/long-chau-dong-hanh-cung-cuoc-thi-co-so-y-te-xanh-sach-dep-lan-thu-i-post807383.html) - 03:50 08/08/2025
+- 🦅 [Giá vàng SJC “neo” ở vùng đỉnh](https://www.sggp.org.vn/gia-vang-sjc-neo-o-vung-dinh-post807394.html) - 03:50 08/08/2025
+- 🫣 [Đội tuyển nữ Việt Nam giữ vững hạng 6 châu Á](https://www.sggp.org.vn/doi-tuyen-nu-viet-nam-giu-vung-hang-6-chau-a-post807397.html) - 03:38 08/08/2025
+- 🎭 [Xứng đáng là người đại diện cho ý chí và nguyện vọng của nhân dân](https://www.sggp.org.vn/xung-dang-la-nguoi-dai-dien-cho-y-chi-va-nguyen-vong-cua-nhan-dan-post807389.html) - 03:37 08/08/2025
+- 🫶 [Tổng thống Mỹ đề cử người &quot;lấp ghế trống&quot; tại FED](https://www.sggp.org.vn/tong-thong-my-de-cu-nguoi-lap-ghe-trong-tai-fed-post807393.html) - 03:37 08/08/2025
+- 🎓 [Sau phản ánh Báo SGGP, bắt đầu sửa chữa đường tỉnh như... ruộng](https://www.sggp.org.vn/sau-phan-anh-bao-sggp-bat-dau-sua-chua-duong-tinh-nhu-ruong-post807391.html) - 03:31 08/08/2025
+- 🤡 [Lễ thượng cờ kỷ niệm 58 năm Ngày thành lập ASEAN](https://www.sggp.org.vn/le-thuong-co-ky-niem-58-nam-ngay-thanh-lap-asean-post807386.html) - 03:29 08/08/2025
+- 🦅 [Thể thao Thái Lan đặt mục tiêu đứng đầu SEA Games 33 với 234 HCV](https://www.sggp.org.vn/the-thao-thai-lan-dat-muc-tieu-dung-dau-sea-games-33-voi-234-hcv-post807321.html) - 03:21 08/08/2025
+- 🧑‍🏫 [Một bé trai bị chó nhà tấn công](https://www.sggp.org.vn/mot-be-trai-bi-cho-nha-tan-cong-post807384.html) - 03:12 08/08/2025
+- 🕴 [Mỹ áp thuế đối với vàng thỏi loại 1kg](https://www.sggp.org.vn/my-ap-thue-doi-voi-vang-thoi-loai-1kg-post807388.html) - 03:07 08/08/2025
+- 🦆 [Lãnh đạo TPHCM dâng hương tưởng nhớ anh hùng liệt sĩ tại Côn Đảo](https://www.sggp.org.vn/lanh-dao-tphcm-dang-huong-tuong-nho-anh-hung-liet-si-tai-con-dao-post807382.html) - 03:02 08/08/2025
+- 🎃 [Lễ thượng cờ ASEAN tại TPHCM](https://www.sggp.org.vn/le-thuong-co-asean-tai-tphcm-post807385.html) - 03:02 08/08/2025
+- 🌮 [Bé gái Campuchia phục hồi ngoạn mục sau chấn thương sọ não nghiêm trọng](https://www.sggp.org.vn/be-gai-campuchia-phuc-hoi-ngoan-muc-sau-chan-thuong-so-nao-nghiem-trong-post807381.html) - 02:41 08/08/2025
+- 🥰 [Tổ chức ngoài công lập dự kiến được cấp phép giám định ADN](https://www.sggp.org.vn/to-chuc-ngoai-cong-lap-du-kien-duoc-cap-phep-giam-dinh-adn-post807376.html) - 02:39 08/08/2025
+- 🕯 [Khởi công đồng loạt hơn 200 công trình vào ngày 19-8](https://www.sggp.org.vn/khoi-cong-dong-loat-hon-200-cong-trinh-vao-ngay-19-8-post807380.html) - 02:39 08/08/2025
+- 🙉 [Gia nhập ASEAN là một quyết định lịch sử, một tầm nhìn chiến lược](https://www.sggp.org.vn/gia-nhap-asean-la-mot-quyet-dinh-lich-su-mot-tam-nhin-chien-luoc-post807377.html) - 02:28 08/08/2025
+- 💡 [Bảo vệ tuổi thơ trước làn sóng thương mại hóa](https://www.sggp.org.vn/bao-ve-tuoi-tho-truoc-lan-song-thuong-mai-hoa-post807358.html) - 02:21 08/08/2025
+- 💫 [Lạc vào thế giới cổ tích trên Dòng sông Ánh sáng tại TP Thiên niên kỷ T&amp;T City Millennia](https://www.sggp.org.vn/lac-vao-the-gioi-co-tich-tren-dong-song-anh-sang-tai-tp-thien-nien-ky-tt-city-millennia-post807341.html) - 02:01 08/08/2025
+- 🧑‍💻 [Siêu Cúp quốc gia 2024-2025, Nam Định - CAHN: Ai cũng muốn đầu xuôi đuôi lọt](https://www.sggp.org.vn/sieu-cup-quoc-gia-2024-2025-nam-dinh-cahn-ai-cung-muon-dau-xuoi-duoi-lot-post807251.html) - 02:00 08/08/2025
+- 🎊 [Vietfood &amp; Beverage 2025: Vedan ra mắt sản phẩm mới, thu hút nhiều khách tham quan](https://www.sggp.org.vn/vietfood-beverage-2025-vedan-ra-mat-san-pham-moi-thu-hut-nhieu-khach-tham-quan-post807276.html) - 01:55 08/08/2025
+- 🤖 [Thái Lan: 23 người, công ty bị truy tố vì liên quan vụ sập tòa nhà 30 tầng khi động đất](https://www.sggp.org.vn/thai-lan-23-nguoi-cong-ty-bi-truy-to-vi-lien-quan-vu-sap-toa-nha-30-tang-khi-dong-dat-post807379.html) - 01:43 08/08/2025
+- 💫 [Chủ tịch nước Lương Cường hội kiến Chủ tịch Quốc hội Angola](https://www.sggp.org.vn/chu-tich-nuoc-luong-cuong-hoi-kien-chu-tich-quoc-hoi-angola-post807375.html) - 01:20 08/08/2025
+- 👨‍🏫 [Biển Đông có áp thấp nhiệt đới](https://www.sggp.org.vn/bien-dong-co-ap-thap-nhiet-doi-post807365.html) - 01:16 08/08/2025
+- 🧰 [Tổng thư ký Liên hợp quốc: Thế giới phải tránh chiến tranh thương mại](https://www.sggp.org.vn/tong-thu-ky-lien-hop-quoc-the-gioi-phai-tranh-chien-tranh-thuong-mai-post807372.html) - 01:11 08/08/2025
+- 🥰 [Thời tiết thất thường, cẩn trọng nguy cơ mắc bệnh](https://www.sggp.org.vn/thoi-tiet-that-thuong-can-trong-nguy-co-mac-benh-post807363.html) - 01:05 08/08/2025
+- 💼 [Mỹ: Rơi trực thăng, 2 người thiệt mạng](https://www.sggp.org.vn/my-roi-truc-thang-2-nguoi-thiet-mang-post807371.html) - 01:05 08/08/2025
+- 🤗 [Man.United chuẩn bị ra mắt Sesko vào thứ Bảy](https://www.sggp.org.vn/manunited-chuan-bi-ra-mat-sesko-vao-thu-bay-post807373.html) - 01:01 08/08/2025
+- 🦩 [Báo Sài Gòn Giải Phóng ngày 8/8/2025](https://www.sggp.org.vn/bao-sai-gon-giai-phong-ngay-882025-post807366.html) - 00:45 08/08/2025
+- 🫶 [BỐ CÁO THAY ĐỔI NỘI DUNG ĐĂNG KÝ HOẠT ĐỘNG](https://www.sggp.org.vn/bo-cao-thay-doi-noi-dung-dang-ky-hoat-dong-post807222.html) - 00:30 08/08/2025<!-- sggp:END -->
 
 ## Báo VTC
 <!-- vtc:START -->
