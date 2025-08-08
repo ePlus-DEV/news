@@ -248,7 +248,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Người Lao Động
 <!-- nld:START -->
 - 🐎 [Quan hệ Việt Nam - Nhật Bản là hình mẫu thành công của hợp tác song phương](https://nld.com.vn/quan-he-viet-nam-nhat-ban-la-hinh-mau-thanh-cong-cua-hop-tac-song-phuong-19625080818191626.htm) - 11:48 08/08/2025
-- 😺 [Tôn vinh doanh nghiệp gia đình và văn hoá đọc](https://nld.com.vn/ton-vinh-doanh-nghiep-gia-dinh-va-van-hoa-doc-19625080817254636.htm) - 11:22 08/08/2025
+- 😺 [Tôn vinh doanh nghiệp gia đình và văn hóa đọc](https://nld.com.vn/ton-vinh-doanh-nghiep-gia-dinh-va-van-hoa-doc-19625080817254636.htm) - 11:22 08/08/2025
 - 👍 [CLB Công an TP HCM ra quân hoành tráng trước mùa giải mới](https://nld.com.vn/clb-cong-an-tp-hcm-ra-quan-hoanh-trang-truoc-mua-giai-moi-19625080818130046.htm) - 11:20 08/08/2025
 - 🥷 [Biti’s trao hơn 1,4 tỉ đồng tại học bổng “Nâng niu Tài năng Việt” năm 2025](https://thitruong.nld.com.vn/bitis-trao-hon-14-ti-dong-tai-hoc-bong-nang-niu-tai-nang-viet-nam-2025-196250808181717764.htm) - 11:19 08/08/2025
 - 🤔 [Địa chấn Surabaya: Tuyển bóng chuyền nữ U21 Việt Nam hạ đội hạng 8 thế giới](https://nld.com.vn/dia-chan-surabaya-tuyen-bong-chuyen-nu-u21-viet-nam-ha-doi-hang-8-the-gioi-19625080817581126.htm) - 11:15 08/08/2025
