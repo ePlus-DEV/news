@@ -22,7 +22,7 @@ sidebar_position: 2
 - 💼 [Nhật Bản lần đầu sở hữu tiêm kích F-35 hạ cánh thẳng đứng](https://vnexpress.net/nhat-ban-lan-dau-so-huu-tiem-kich-f-35-ha-canh-thang-dung-4924168.html) - 03:44 08/08/2025
 - 🤡 [Ông Trump lệnh tổng điều tra dân số, loại trừ người nhập cư trái phép](https://vnexpress.net/ong-trump-lenh-tong-dieu-tra-dan-so-loai-tru-nguoi-nhap-cu-trai-phep-4924228.html) - 03:42 08/08/2025
 - 🌁 [Ý tưởng chiếm đóng toàn Gaza gieo bất đồng nội bộ ở Israel](https://vnexpress.net/y-tuong-chiem-dong-toan-gaza-gieo-bat-dong-noi-bo-o-israel-4924071.html) - 03:21 08/08/2025
-- 🤩 [Israel duyệt kế hoạch điều quân đội kiểm soát hoàn toàn Gaza](https://vnexpress.net/israel-duyet-ke-hoach-dieu-quan-doi-kiem-soat-hoan-toan-gaza-4924134.html) - 02:26 08/08/2025
+- 🤩 [Israel duyệt kế hoạch điều quân đội kiểm soát Gaza City](https://vnexpress.net/israel-duyet-ke-hoach-dieu-quan-doi-kiem-soat-gaza-city-4924134.html) - 02:26 08/08/2025
 - 🎉 [Ông Trump sẽ chủ trì lễ ký kết thỏa thuận hòa bình Armenia - Azerbaijan](https://vnexpress.net/ong-trump-se-chu-tri-le-ky-ket-thoa-thuan-hoa-binh-armenia-azerbaijan-4924157.html) - 02:00 08/08/2025
 - 🎉 [Thủ tướng Campuchia đề cử ông Trump cho giải Nobel Hòa bình](https://vnexpress.net/thu-tuong-campuchia-de-cu-ong-trump-cho-giai-nobel-hoa-binh-4924173.html) - 01:37 08/08/2025
 - 🌁 [Thẩm phán Mỹ đình chỉ xây dựng &#39;nhà tù cá sấu&#39;](https://vnexpress.net/tham-phan-my-dinh-chi-xay-dung-nha-tu-ca-sau-4924127.html) - 00:23 08/08/2025
