@@ -11,7 +11,7 @@ sidebar_position: 2
 - 🦏 [Ông Tập và ông Putin điện đàm](https://vnexpress.net/ong-tap-va-ong-putin-dien-dam-4924633.html) - 11:28 08/08/2025
 - 🦒 [Lính Mỹ kể khoảnh khắc khống chế đồng đội xả súng trong căn cứ](https://vnexpress.net/linh-my-ke-khoanh-khac-khong-che-dong-doi-xa-sung-trong-can-cu-4924548.html) - 10:16 08/08/2025
 - 🌈 [Mưa &#39;chưa từng thấy&#39; trút xuống thành phố miền nam Nhật Bản](https://vnexpress.net/mua-chua-tung-thay-trut-xuong-thanh-pho-mien-nam-nhat-ban-4924550.html) - 09:45 08/08/2025
-- 🧑‍🏫 [Loạt nước chỉ trích Israel vì kế hoạch chiếm đóng Dải Gaza](https://vnexpress.net/loat-nuoc-chi-trich-israel-vi-ke-hoach-chiem-dong-dai-gaza-4924485.html) - 08:29 08/08/2025
+- 🧑‍🏫 [Loạt nước chỉ trích Israel vì kế hoạch chiếm đóng Gaza City](https://vnexpress.net/loat-nuoc-chi-trich-israel-vi-ke-hoach-chiem-dong-gaza-city-4924485.html) - 08:29 08/08/2025
 - 🐲 [Tập đoàn Mỹ công bố phác thảo tiêm kích hạm thế hệ 6](https://vnexpress.net/tap-doan-my-cong-bo-phac-thao-tiem-kich-ham-the-he-6-4924497.html) - 08:15 08/08/2025
 - 🦒 [Lễ thượng cờ kỷ niệm 30 năm Việt Nam gia nhập ASEAN](https://vnexpress.net/le-thuong-co-ky-niem-30-nam-viet-nam-gia-nhap-asean-4924387.html) - 05:21 08/08/2025
 - 🐻 [Cầu thời Liên Xô trụ vững sau khi hứng loạt bom lượn Nga](https://vnexpress.net/cau-thoi-lien-xo-tru-vung-sau-khi-hung-loat-bom-luon-nga-4924229.html) - 05:04 08/08/2025
