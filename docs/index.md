@@ -525,9 +525,9 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Trực tiếp: U20 nữ Việt Nam đối đầu U20 nữ Hong Kong &lpar;Trung Quốc&rpar;](https://muctim.tuoitre.vn/truc-tiep-u20-nu-viet-nam-doi-dau-u20-nu-hong-kong-trung-quoc-101250808185336475.htm) - 12:01 08/08/2025
+- 🤔 [Trực tiếp: Hết hiệp 1, U20 nữ Việt Nam dẫn U20 nữ Hong Kong &lpar;Trung Quốc&rpar; với tỉ số 3-0](https://muctim.tuoitre.vn/truc-tiep-u20-nu-viet-nam-doi-dau-u20-nu-hong-kong-trung-quoc-101250808185336475.htm) - 12:01 08/08/2025
 - 🥷 [Chàng trai &#39;cao nhất Bình Dương&#39; và giấc mơ âm nhạc](https://muctim.tuoitre.vn/chang-trai-cao-nhat-binh-duong-va-giac-mo-am-nhac-101250804141329373.htm) - 11:50 08/08/2025
-- 🤖 [Trực tiếp bóng chuyền nữ SEA V.League 2025 ngày 8-8: Việt Nam - Philippines](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nu-sea-vleague-2025-ngay-8-8-viet-nam-philippines-101250808163103527.htm) - 11:46 08/08/2025
+- 🤖 [Trực tiếp bóng chuyền nữ SEA V.League 2025 ngày 8-8: Việt Nam thắng Philippines 30-28 &lpar;set 2&rpar;](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nu-sea-vleague-2025-ngay-8-8-viet-nam-philippines-101250808163103527.htm) - 11:46 08/08/2025
 - 🤓 [Lộ diện các trường THPT góp mặt ở bán kết Giải bóng rổ học sinh TP.HCM 2025](https://muctim.tuoitre.vn/lo-dien-cac-truong-thpt-gop-mat-o-ban-ket-giai-bong-ro-hoc-sinh-tphcm-2025-101250808171821306.htm) - 11:45 08/08/2025
 - 🎉 [Kiếp sau vẫn là người Việt Nam có làm sai lệch văn hóa, lịch sử?](https://muctim.tuoitre.vn/kiep-sau-van-la-nguoi-viet-nam-co-lam-sai-lech-van-hoa-lich-su-101250808165855401.htm) - 10:07 08/08/2025
 - 👨‍🏫 [Nhân Ngày Quốc tế mèo 8-8, các con sen rần rần khoe boss trên mạng xã hội](https://muctim.tuoitre.vn/nhan-ngay-quoc-te-meo-8-8-cac-con-sen-ran-ran-khoe-boss-tren-mang-xa-hoi-101250808124709529.htm) - 09:27 08/08/2025
