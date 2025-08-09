@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- vnexpress-the-gioi:START -->
-- 🎭 [Iran điều tra 20 người bị nghi làm gián điệp cho Israel](https://vnexpress.net/iran-dieu-tra-20-nguoi-bi-nghi-lam-gian-diep-cho-israel-4924912.html) - 15:19 09/08/2025
+- 🎭 [Iran bắt 20 người bị nghi làm gián điệp cho Israel](https://vnexpress.net/iran-bat-20-nguoi-bi-nghi-lam-gian-diep-cho-israel-4924912.html) - 15:19 09/08/2025
 - 🕴 [Ấn Độ tuyên bố S-400 đã hạ loạt máy bay Pakistan trong xung đột 4 ngày](https://vnexpress.net/an-do-tuyen-bo-s-400-da-ha-loat-may-bay-pakistan-trong-xung-dot-4-ngay-4924885.html) - 12:06 09/08/2025
 - 🤭 [Hành trình tìm lại gương mặt cho các thương binh Ukraine](https://vnexpress.net/hanh-trinh-tim-lai-guong-mat-cho-cac-thuong-binh-ukraine-4923701.html) - 12:00 09/08/2025
 - 🧑‍💻 [Lính Thái Lan trúng mìn khi tuần tra biên giới giáp Campuchia](https://vnexpress.net/linh-thai-lan-trung-min-khi-tuan-tra-bien-gioi-giap-campuchia-4924856.html) - 10:07 09/08/2025
