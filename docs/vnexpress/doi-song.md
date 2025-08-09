@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 
 <!-- vnexpress-doi-song:START -->
-- 🚀 [Sai lầm thường gặp khi nấu cháo người ốm](https://vnexpress.net/sai-lam-thuong-gap-khi-nau-chao-nguoi-om-4924610.html) - 09:00 09/08/2025
+- 🚀 [Sai lầm thường gặp khi nấu cháo cho người ốm](https://vnexpress.net/sai-lam-thuong-gap-khi-nau-chao-cho-nguoi-om-4924610.html) - 09:00 09/08/2025
 - 🎓 [Sai lầm có thể trả giá mạng sống khi máy bay hạ cánh khẩn cấp](https://vnexpress.net/sai-lam-co-the-tra-gia-mang-song-khi-may-bay-ha-canh-khan-cap-4923936.html) - 06:51 09/08/2025
 - 🚦 [Cứu hơn 100 người trong trận lũ lịch sử Bắc Kinh](https://vnexpress.net/cuu-hon-100-nguoi-trong-tran-lu-lich-su-bac-kinh-4924702.html) - 00:39 09/08/2025
 - 🦣 [Bị con trai từ mặt vì tái hôn ở tuổi 70](https://vnexpress.net/bi-con-trai-tu-mat-vi-tai-hon-o-tuoi-70-4924629.html) - 00:18 09/08/2025
