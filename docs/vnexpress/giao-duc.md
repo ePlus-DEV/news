@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Đại học chỉ &#39;nuôi quân để tồn tại&#39;, khó đột phá về nghiên cứu khoa học](https://vnexpress.net/dai-hoc-chi-nuoi-quan-de-ton-tai-kho-dot-pha-ve-nghien-cuu-khoa-hoc-4924547.html) - 15:08 09/08/2025
+- 🤓 [&#39;Đại học chỉ nuôi quân để tồn tại, khó đột phá về nghiên cứu&#39;](https://vnexpress.net/dai-hoc-chi-nuoi-quan-de-ton-tai-kho-dot-pha-ve-nghien-cuu-4924547.html) - 15:08 09/08/2025
 - 🦆 [Đồ uống nào của Việt Nam từng lọt top ngon nhất thế giới?](https://vnexpress.net/do-uong-nao-cua-viet-nam-tung-lot-top-ngon-nhat-the-gioi-4924905.html) - 12:59 09/08/2025
 - 🦩 [Kỷ lục 344 tổ hợp xét tuyển đại học năm 2025](https://vnexpress.net/ky-luc-344-to-hop-xet-tuyen-dai-hoc-nam-2025-4924879.html) - 12:25 09/08/2025
 - 🌮 [Trường phổ thông công lập được dạy một số môn bằng tiếng nước ngoài](https://vnexpress.net/truong-pho-thong-cong-lap-duoc-day-mot-so-mon-bang-tieng-nuoc-ngoai-4924679.html) - 06:07 09/08/2025
