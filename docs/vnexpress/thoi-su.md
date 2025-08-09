@@ -13,7 +13,7 @@ sidebar_position: 1
 - 🦏 [Công nhân bị vùi lấp khi thi công tường chắn trước trụ sở xã](https://vnexpress.net/cong-nhan-bi-vui-lap-khi-thi-cong-tuong-chan-truoc-tru-so-xa-4924787.html) - 04:53 09/08/2025
 - 👺 [TP HCM bác đề nghị bồi thường gần 9.000 m2 đất của Đại học Văn Lang](https://vnexpress.net/tp-hcm-bac-de-nghi-boi-thuong-gan-9-000-m2-dat-cua-dai-hoc-van-lang-4924792.html) - 04:43 09/08/2025
 - 🧑‍🏫 [Doanh nghiệp đề xuất xây cầu Cần Giờ hơn 10.500 tỷ đồng](https://vnexpress.net/doanh-nghiep-de-xuat-xay-cau-can-gio-hon-10-500-ty-dong-4924775.html) - 04:17 09/08/2025
-- 🚦 [6 dự án cao tốc được khởi công vào dịp 19/8](https://vnexpress.net/6-du-an-cao-toc-duoc-khoi-cong-vao-dip-19-8-4924732.html) - 03:59 09/08/2025
+- 🚦 [6 dự án cao tốc dự kiến được khởi công vào dịp 19/8](https://vnexpress.net/6-du-an-cao-toc-du-kien-duoc-khoi-cong-vao-dip-19-8-4924732.html) - 03:59 09/08/2025
 - 🎉 [Khánh thành Trường Hy Vọng mới cho trẻ mồ côi sau Covid-19](https://vnexpress.net/khanh-thanh-truong-hy-vong-moi-cho-tre-mo-coi-sau-covid-19-4924692.html) - 03:48 09/08/2025
 - 🦒 [Cháy bãi phế liệu 1.000 m2 cạnh khu dân cư ở TP HCM](https://vnexpress.net/chay-bai-phe-lieu-1-000-m2-canh-khu-dan-cu-o-tp-hcm-4924745.html) - 03:24 09/08/2025
 - 🤗 [Lo ngại nhà nước bị lợi dụng khi thu hồi đất dự án kinh tế xã hội](https://vnexpress.net/lo-ngai-nha-nuoc-bi-loi-dung-khi-thu-hoi-dat-du-an-kinh-te-xa-hoi-4924484.html) - 02:42 09/08/2025
