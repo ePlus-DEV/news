@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Đội tuyển nữ Việt Nam 2-0 Indonesia &lpar;hiệp 2&rpar;: Thanh Nhã, Tuyết Dung vào sân](https://dantri.com.vn/the-thao/doi-tuyen-nu-viet-nam-2-0-indonesia-hiep-2-thanh-nha-tuyet-dung-vao-san-20250809191600978.htm) - 12:16 09/08/2025
+- 🎡 [Thắng đậm Indonesia, tuyển nữ Việt Nam vào bán kết giải Đông Nam Á](https://dantri.com.vn/the-thao/thang-dam-indonesia-tuyen-nu-viet-nam-vao-ban-ket-giai-dong-nam-a-20250809191600978.htm) - 12:16 09/08/2025
 - 💯 [Man Utd công bố vụ Benjamin Sesko, nâng tổng chi lên hơn 200 triệu bảng](https://dantri.com.vn/the-thao/man-utd-cong-bo-vu-benjamin-sesko-nang-tong-chi-len-hon-200-trieu-bang-20250809185939944.htm) - 12:00 09/08/2025
 - ⛽️ [Đội tuyển nữ Thái Lan thắng Campuchia 7-0 ở giải Đông Nam Á](https://dantri.com.vn/the-thao/doi-tuyen-nu-thai-lan-thang-campuchia-7-0-o-giai-dong-nam-a-20250809184911426.htm) - 11:54 09/08/2025
 - 💃 [Thắng nghẹt thở Nam Định, CLB Công an Hà Nội giành siêu cúp Quốc gia](https://dantri.com.vn/the-thao/thang-nghet-tho-nam-dinh-clb-cong-an-ha-noi-gianh-sieu-cup-quoc-gia-20250809180712072.htm) - 11:00 09/08/2025
