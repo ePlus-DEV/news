@@ -525,10 +525,10 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [Cách xem chương trình Dưới cờ vinh quang ngay tại nhà](https://muctim.tuoitre.vn/cach-xem-chuong-trinh-duoi-co-vinh-quang-ngay-tai-nha-101250809192321492.htm) - 12:42 09/08/2025
-- 🥷 [Trực tiếp Man United vs Fiorentina: bàn thắng may mắn cho Quỷ đỏ](https://muctim.tuoitre.vn/man-united-vs-fiorentina-ngay-tro-ve-cua-de-gea-101250809184017134.htm) - 11:59 09/08/2025
+- 🥷 [Man United vượt qua Fiorentina trên chấm đá luân lưu, giành chiếc cúp thứ 2](https://muctim.tuoitre.vn/man-united-vs-fiorentina-ngay-tro-ve-cua-de-gea-101250809184017134.htm) - 11:59 09/08/2025
 - 🤖 [CLB Ngòi bút nhỏ xinh khám phá gì trong buổi sinh hoạt tại Thảo cầm viên?](https://muctim.tuoitre.vn/clb-ngoi-but-nho-xinh-kham-pha-gi-trong-buoi-sinh-hoat-tai-thao-cam-vien-101250809181630504.htm) - 11:49 09/08/2025
-- 🤓 [Trực tiếp bóng đá nữ Đông Nam Á ngày 9-8: Việt Nam đang dẫn Indonesia 2-0](https://muctim.tuoitre.vn/truc-tiep-bong-da-nu-dong-nam-a-ngay-9-8-viet-nam-indonesia-101250809182458568.htm) - 11:46 09/08/2025
-- 🎉 [Trực tiếp Siêu cúp quốc gia 2025: Công An Hà Nội - Thép Xanh Nam Định 3-2](https://muctim.tuoitre.vn/truc-tiep-sieu-cup-quoc-gia-2025-cong-an-ha-noi-thep-xanh-nam-dinh-101250809173010152.htm) - 10:30 09/08/2025
+- 🤓 [Trực tiếp bóng đá nữ Đông Nam Á ngày 9-8: Bàn thắng thứ 4 cho tuyển Việt Nam](https://muctim.tuoitre.vn/truc-tiep-bong-da-nu-dong-nam-a-ngay-9-8-viet-nam-indonesia-101250809182458568.htm) - 11:46 09/08/2025
+- 🎉 [Công An Hà Nội giành Siêu cúp quốc gia 2025 sau màn rượt đuổi tỉ số hấp dẫn với Thép Xanh Nam Định](https://muctim.tuoitre.vn/truc-tiep-sieu-cup-quoc-gia-2025-cong-an-ha-noi-thep-xanh-nam-dinh-101250809173010152.htm) - 10:30 09/08/2025
 - 👨‍🏫 [Ghé thăm 3 làng nghề truyền thống giữa lòng TP.HCM](https://muctim.tuoitre.vn/ghe-tham-3-lang-nghe-truyen-thong-giua-long-tphcm-101250805152953743.htm) - 09:43 09/08/2025
 - 🚦 [Đến Singapore, trải nghiệm thi đấu với học viện bóng đá Barcelona](https://muctim.tuoitre.vn/den-singapore-trai-nghiem-thi-dau-voi-hoc-vien-bong-da-barcelona-101250805162609796.htm) - 09:32 09/08/2025
 - 🤭 [Bóng chuyền nữ SEA V.League ngày 9-8: Việt Nam thắng Indonesia 3-0](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nu-sea-vleague-ngay-9-8-viet-nam-indonesia-101250809151551479.htm) - 08:30 09/08/2025
