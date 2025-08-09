@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- vnexpress-the-thao:START -->
-- 🪜 [Siêu cup Quốc gia: Nam Định - Công an Hà Nội](https://vnexpress.net/sieu-cup-quoc-gia-nam-dinh-cong-an-ha-noi-4924853.html) - 10:47 09/08/2025
+- 🪜 [Nam Định 1-3 Công an Hà Nội &lpar;H2&rpar;: Đình Bắc lập công](https://vnexpress.net/truc-tiep-nam-dinh-vs-cong-an-ha-noi-4924853.html) - 10:47 09/08/2025
 - 🦩 [Man Utd công bố Sesko](https://vnexpress.net/man-utd-cong-bo-sesko-4924887.html) - 10:14 09/08/2025
 - 🧰 [Gerrard: &#39;Owen hay hơn Yamal, Mbappe ở tuổi teen&#39;](https://vnexpress.net/gerrard-owen-hay-hon-yamal-mbappe-o-tuoi-teen-4924846.html) - 08:55 09/08/2025
 - 🤗 [Võ sĩ boxing qua đời 6 ngày sau khi thượng đài](https://vnexpress.net/vo-si-boxing-qua-doi-6-ngay-sau-khi-thuong-dai-4924863.html) - 08:48 09/08/2025
