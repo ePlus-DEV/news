@@ -9,7 +9,7 @@ sidebar_position: 10
 - 💡 [Đang chữa nám có nên trẻ hóa da?](https://vnexpress.net/dang-chua-nam-co-nen-tre-hoa-da-4924819.html) - 11:00 09/08/2025
 - 🤗 [Mẹo kiểm soát trầm cảm không cần thuốc](https://vnexpress.net/meo-kiem-soat-tram-cam-khong-can-thuoc-4924161.html) - 11:00 09/08/2025
 - 🪜 [Dấu hiệu trên da, móng cảnh báo viêm gan C](https://vnexpress.net/dau-hieu-tren-da-mong-canh-bao-viem-gan-c-4924128.html) - 11:00 09/08/2025
-- 🕯 [Chàng trai hồi sinh khi người thân đưa về nhà lo hậu sự](https://vnexpress.net/chang-trai-hoi-sinh-khi-nguoi-than-dua-ve-nha-lo-hau-su-4924843.html) - 10:00 09/08/2025
+- 🕯 [Chàng trai bất ngờ hồi sinh trên đường &#39;về nhà lo hậu sự&#39;](https://vnexpress.net/chang-trai-bat-ngo-hoi-sinh-tren-duong-ve-nha-lo-hau-su-4924843.html) - 10:00 09/08/2025
 - 🤭 [Viêm niệu đạo sau quan hệ không an toàn](https://vnexpress.net/viem-nieu-dao-sau-quan-he-khong-an-toan-4924818.html) - 10:00 09/08/2025
 - 👀 [Nguyên nhân gây mãn kinh sớm](https://vnexpress.net/nguyen-nhan-gay-man-kinh-som-4924801.html) - 10:00 09/08/2025
 - 🌋 [Đờm màu đen do bệnh gì?](https://vnexpress.net/dom-mau-den-do-benh-gi-4924768.html) - 10:00 09/08/2025
