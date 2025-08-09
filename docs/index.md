@@ -524,7 +524,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Khám phá Ngày hội Du học Canada &#39;Right Decision – Bright Future 2025&#39;](https://muctim.tuoitre.vn/kham-pha-ngay-hoi-du-hoc-canada-right-decision-bright-future-2025-101250809093756338.htm) - 03:36 09/08/2025
+- 🤔 [Trực tiếp bóng chuyền nữ U21 thế giới ngày 9-8: Việt Nam - Canada](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nu-u21-the-gioi-ngay-9-8-viet-nam-canada-101250809121750264.htm) - 05:25 09/08/2025
 - 🥷 [Vì sao hoodie xám là áo chống nắng hot trend của teen miền Nam lúc này?](https://muctim.tuoitre.vn/vi-sao-hoodie-xam-la-ao-chong-nang-quoc-dan-cua-teen-mien-nam-101250808164943937.htm) - 03:26 09/08/2025
 - 🤖 [Lịch thi đấu bóng đá nữ Đông Nam Á 2025 ngày 9-8: Việt Nam - Indonesia](https://muctim.tuoitre.vn/lich-thi-dau-bong-da-nu-dong-nam-a-2025-ngay-9-8-viet-nam-indonesia-101250809074939046.htm) - 03:22 09/08/2025
 - 🤓 [Lịch thi đấu bóng chuyền nữ U21 thế giới ngày 9-8: Việt Nam - Canada](https://muctim.tuoitre.vn/lich-thi-dau-bong-chuyen-nu-u21-the-gioi-ngay-9-8-viet-nam-canada-101250809072438113.htm) - 00:44 09/08/2025
