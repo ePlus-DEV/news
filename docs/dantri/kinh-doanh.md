@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 <!-- dantri-kinh-doanh:START -->
-- 🏊 [Xếp hàng 3 giờ chờ cắt dưa: Khi sự biếng của con người thành mỏ vàng bán lẻ](https://dantri.com.vn/kinh-doanh/xep-hang-3-gio-cho-cat-dua-khi-su-bieng-cua-con-nguoi-thanh-mo-vang-ban-le-20250809010735928.htm) - 10:26 09/08/2025
+- 🏊 [3 giờ chờ cắt dưa: Khi sự lười biếng của con người thành mỏ vàng bán lẻ](https://dantri.com.vn/kinh-doanh/3-gio-cho-cat-dua-khi-su-luoi-bieng-cua-con-nguoi-thanh-mo-vang-ban-le-20250809010735928.htm) - 10:26 09/08/2025
 - 🦆 [Thủ tướng: Đến ngày 19/8 phải hoàn thành đường dây 500kV Lào Cai - Vĩnh Yên](https://dantri.com.vn/kinh-doanh/thu-tuong-den-ngay-198-phai-hoan-thanh-duong-day-500kv-lao-cai-vinh-yen-20250809120127563.htm) - 10:04 09/08/2025
 - 🦄 [Tây Ninh xây khu công nghiệp 3.000 tỷ đồng sau sáp nhập tỉnh](https://dantri.com.vn/xa-hoi/tay-ninh-xay-khu-cong-nghiep-3000-ty-dong-sau-sap-nhap-tinh-20250809122216336.htm) - 05:56 09/08/2025
 - 🌝 [Dàn diễn giả của hội thảo &quot;Thực thi ESG bằng AI, doanh nghiệp cần làm gì?&quot;](https://dantri.com.vn/kinh-doanh/dan-dien-gia-cua-hoi-thao-thuc-thi-esg-bang-ai-doanh-nghiep-can-lam-gi-20250808163646852.htm) - 05:25 09/08/2025
