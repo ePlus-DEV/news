@@ -4,10 +4,10 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Đội tuyển nữ Việt Nam 0-0 Indonesia &lpar;hiệp 1&rpar;: Tìm vé vào bán kết](https://dantri.com.vn/the-thao/doi-tuyen-nu-viet-nam-0-0-indonesia-hiep-1-tim-ve-vao-ban-ket-20250809191600978.htm) - 12:16 09/08/2025
+- 🎡 [Đội tuyển nữ Việt Nam 2-0 Indonesia &lpar;hiệp 2&rpar;: Thanh Nhã, Tuyết Dung vào sân](https://dantri.com.vn/the-thao/doi-tuyen-nu-viet-nam-2-0-indonesia-hiep-2-thanh-nha-tuyet-dung-vao-san-20250809191600978.htm) - 12:16 09/08/2025
 - 💯 [Man Utd công bố vụ Benjamin Sesko, nâng tổng chi lên hơn 200 triệu bảng](https://dantri.com.vn/the-thao/man-utd-cong-bo-vu-benjamin-sesko-nang-tong-chi-len-hon-200-trieu-bang-20250809185939944.htm) - 12:00 09/08/2025
 - ⛽️ [Đội tuyển nữ Thái Lan thắng Campuchia 7-0 ở giải Đông Nam Á](https://dantri.com.vn/the-thao/doi-tuyen-nu-thai-lan-thang-campuchia-7-0-o-giai-dong-nam-a-20250809184911426.htm) - 11:54 09/08/2025
-- 💃 [Nam Định 1-1 Công an Hà Nội &lpar;hiệp 2&rpar;: Tiền đạo cao 2,06m ghi bàn sau 1 phút](https://dantri.com.vn/the-thao/nam-dinh-1-1-cong-an-ha-noi-hiep-2-tien-dao-cao-206m-ghi-ban-sau-1-phut-20250809180712072.htm) - 11:00 09/08/2025
+- 💃 [Thắng nghẹt thở Nam Định, CLB Công an Hà Nội giành siêu cúp Quốc gia](https://dantri.com.vn/the-thao/thang-nghet-tho-nam-dinh-clb-cong-an-ha-noi-gianh-sieu-cup-quoc-gia-20250809180712072.htm) - 11:00 09/08/2025
 - 🌈 [King’s Cup xuống vị thế, bóng đá Thái Lan giảm giá vé cho khán giả](https://dantri.com.vn/the-thao/kings-cup-xuong-vi-the-bong-da-thai-lan-giam-gia-ve-cho-khan-gia-20250809130100947.htm) - 08:46 09/08/2025
 - 🦅 [Madam Pang có hành động đặc biệt, chung tay trả nợ cho bóng đá Thái Lan](https://dantri.com.vn/the-thao/madam-pang-co-hanh-dong-dac-biet-chung-tay-tra-no-cho-bong-da-thai-lan-20250809110616481.htm) - 08:44 09/08/2025
 - 🌝 [U21 bóng chuyền nữ Việt Nam làm nên lịch sử ở giải vô địch thế giới](https://dantri.com.vn/the-thao/u21-bong-chuyen-nu-viet-nam-lam-nen-lich-su-o-giai-vo-dich-the-gioi-20250809150640155.htm) - 08:07 09/08/2025
