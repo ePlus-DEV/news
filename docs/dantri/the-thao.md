@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 <!-- dantri-the-thao:START -->
-- 🎡 [Crystal Palace 1-1 Liverpool &lpar;hiệp 1&rpar;: Mateta gỡ hòa](https://dantri.com.vn/the-thao/crystal-palace-1-1-liverpool-hiep-1-mateta-go-hoa-20250810210034817.htm) - 14:00 10/08/2025
+- 🎡 [Crystal Palace 1-2 Liverpool &lpar;hiệp 1&rpar;: Siêu phẩm Frimpong](https://dantri.com.vn/the-thao/crystal-palace-1-2-liverpool-hiep-1-sieu-pham-frimpong-20250810210034817.htm) - 14:00 10/08/2025
 - 💯 [HLV Nhật Bản nói thẳng về tuyển nữ Việt Nam so với Thái Lan](https://dantri.com.vn/the-thao/hlv-nhat-ban-noi-thang-ve-tuyen-nu-viet-nam-so-voi-thai-lan-20250810194649132.htm) - 12:46 10/08/2025
 - ⛽️ [Ngôi sao Việt kiều nổi danh xác lập cột mốc ấn tượng ở Đông Nam Á](https://dantri.com.vn/the-thao/ngoi-sao-viet-kieu-noi-danh-xac-lap-cot-moc-an-tuong-o-dong-nam-a-20250810192444232.htm) - 12:36 10/08/2025
 - 💃 [Thể thao Malaysia muốn nhập tịch hàng loạt VĐV dự SEA Games 33](https://dantri.com.vn/the-thao/the-thao-malaysia-muon-nhap-tich-hang-loat-vdv-du-sea-games-33-20250810132225521.htm) - 08:15 10/08/2025
