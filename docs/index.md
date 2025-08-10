@@ -529,7 +529,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 
 ## Báo Mực Tím
 <!-- muctim:START -->
-- 🤔 [Rực rỡ sắc đỏ trước giờ khai màn đại nhạc hội V Fest](https://muctim.tuoitre.vn/ruc-ro-sac-do-truoc-gio-khai-man-dai-nhac-hoi-v-fest-101250810183913865.htm) - 12:04 10/08/2025
+- 🤔 [Rực rỡ sắc đỏ trước giờ khai màn concert Tổ quốc trong tim](https://muctim.tuoitre.vn/ruc-ro-sac-do-truoc-gio-khai-man-concert-to-quoc-trong-tim-101250810183913865.htm) - 12:04 10/08/2025
 - 🥷 [Tập 3 Chiến sĩ quả cảm: Phan Mạnh Quỳnh ngất xỉu, thử thách tiếp tục căng thẳng](https://muctim.tuoitre.vn/tap-3-chien-si-qua-cam-phan-manh-quynh-ngat-xiu-thu-thach-tiep-tuc-cang-thang-101250810184008106.htm) - 11:58 10/08/2025
 - 🤖 [Những sự thật thú vị về Cẩm nguyệt như ca của Châu Dã và Thừa Lỗi](https://muctim.tuoitre.vn/nhung-su-that-thu-vi-ve-cam-nguyet-nhu-ca-cua-chau-da-va-thua-loi-101250809140316803.htm) - 11:57 10/08/2025
 - 🤓 [Trực tiếp U20 nữ Việt Nam gặp U20 nữ Kyrgyzstan: Hoàng Vân mở tỉ số](https://muctim.tuoitre.vn/truc-tiep-u20-nu-viet-nam-gap-u20-nu-kyrgyzstan-101250810181743074.htm) - 11:55 10/08/2025
