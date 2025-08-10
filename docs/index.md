@@ -528,7 +528,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [V Fest - Thanh xuân rực rỡ có phát trực tiếp không?](https://muctim.tuoitre.vn/v-fest-thanh-xuan-ruc-ro-co-phat-truc-tiep-khong-101250810202953213.htm) - 13:35 10/08/2025
-- 🥷 [Trực tiếp Siêu cúp Anh 2025 &lpar;Community Shield&rpar;, Liverpool đấu Crystal Palace: 2-1 &lpar;hiệp 1&rpar;](https://muctim.tuoitre.vn/truc-tiep-sieu-cup-anh-2025-liverpool-dau-crystal-palace-101250810195945239.htm) - 13:06 10/08/2025
+- 🥷 [Trực tiếp Siêu cúp Anh 2025 &lpar;Community Shield&rpar;, Liverpool đấu Crystal Palace: 2-1 &lpar;hiệp 2&rpar;](https://muctim.tuoitre.vn/truc-tiep-sieu-cup-anh-2025-liverpool-dau-crystal-palace-101250810195945239.htm) - 13:06 10/08/2025
 - 🤖 [Rực rỡ sắc đỏ trước giờ khai màn concert Tổ quốc trong tim](https://muctim.tuoitre.vn/ruc-ro-sac-do-truoc-gio-khai-man-concert-to-quoc-trong-tim-101250810183913865.htm) - 12:04 10/08/2025
 - 🤓 [Tập 3 Chiến sĩ quả cảm: Phan Mạnh Quỳnh ngất xỉu, thử thách tiếp tục căng thẳng](https://muctim.tuoitre.vn/tap-3-chien-si-qua-cam-phan-manh-quynh-ngat-xiu-thu-thach-tiep-tuc-cang-thang-101250810184008106.htm) - 11:58 10/08/2025
 - 🎉 [Những sự thật thú vị về Cẩm nguyệt như ca của Châu Dã và Thừa Lỗi](https://muctim.tuoitre.vn/nhung-su-that-thu-vi-ve-cam-nguyet-nhu-ca-cua-chau-da-va-thua-loi-101250809140316803.htm) - 11:57 10/08/2025
