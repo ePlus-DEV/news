@@ -6,7 +6,7 @@ sidebar_position: 5
 <!-- vnexpress-the-thao:START -->
 - 🪜 [Bóng chuyền nữ Việt Nam lần đầu thắng Thái Lan](https://vnexpress.net/bong-chuyen-nu-viet-nam-lan-dau-thang-thai-lan-4925166.html) - 14:29 10/08/2025
 - 🦩 [&#39;Hotgirl vượt rào&#39; giành HC vàng nhờ 1% giây](https://vnexpress.net/hotgirl-vuot-rao-gianh-hc-vang-nho-1-giay-4925146.html) - 13:58 10/08/2025
-- 🧰 [Crystal Palace 1-2 Liverpool &lpar;H2&rpar;: Các tân binh lập công](https://vnexpress.net/truc-tiep-crystal-palace-vs-liverpool-4925154.html) - 13:24 10/08/2025
+- 🧰 [Liverpool thua Crystal Palace ở Siêu cup Anh](https://vnexpress.net/ket-qua-crystal-palace-vs-liverpool-4925154.html) - 13:24 10/08/2025
 - 🤗 [Hàng công Man Utd sẽ chơi thế nào với 3 tiền đạo mới](https://vnexpress.net/hang-cong-man-utd-se-choi-the-nao-voi-3-tien-dao-moi-4925019.html) - 07:36 10/08/2025
 - 🥳 [Hơn 500 gia đình dự ngày hội đi bộ bên biển Mỹ Khê](https://vnexpress.net/hon-500-gia-dinh-du-ngay-hoi-di-bo-ben-bien-my-khe-4925046.html) - 05:00 10/08/2025
 - 🦣 [Thanh Thúy: &#39;Việt Nam ao ước một lần thắng Thái Lan&#39;](https://vnexpress.net/thanh-thuy-viet-nam-ao-uoc-mot-lan-thang-thai-lan-4925043.html) - 04:24 10/08/2025
