@@ -528,12 +528,12 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 ## Báo Mực Tím
 <!-- muctim:START -->
 - 🤔 [V Fest - Thanh xuân rực rỡ có phát trực tiếp không?](https://muctim.tuoitre.vn/v-fest-thanh-xuan-ruc-ro-co-phat-truc-tiep-khong-101250810202953213.htm) - 13:35 10/08/2025
-- 🥷 [Trực tiếp Siêu cúp Anh 2025, Liverpool đấu Crystal Palace: 1-0 &lpar;hiệp 1&rpar;](https://muctim.tuoitre.vn/truc-tiep-sieu-cup-anh-2025-liverpool-dau-crystal-palace-101250810195945239.htm) - 13:06 10/08/2025
+- 🥷 [Trực tiếp Siêu cúp Anh 2025 &lpar;Community Shield&rpar;, Liverpool đấu Crystal Palace: 2-1 &lpar;hiệp 1&rpar;](https://muctim.tuoitre.vn/truc-tiep-sieu-cup-anh-2025-liverpool-dau-crystal-palace-101250810195945239.htm) - 13:06 10/08/2025
 - 🤖 [Rực rỡ sắc đỏ trước giờ khai màn concert Tổ quốc trong tim](https://muctim.tuoitre.vn/ruc-ro-sac-do-truoc-gio-khai-man-concert-to-quoc-trong-tim-101250810183913865.htm) - 12:04 10/08/2025
 - 🤓 [Tập 3 Chiến sĩ quả cảm: Phan Mạnh Quỳnh ngất xỉu, thử thách tiếp tục căng thẳng](https://muctim.tuoitre.vn/tap-3-chien-si-qua-cam-phan-manh-quynh-ngat-xiu-thu-thach-tiep-tuc-cang-thang-101250810184008106.htm) - 11:58 10/08/2025
 - 🎉 [Những sự thật thú vị về Cẩm nguyệt như ca của Châu Dã và Thừa Lỗi](https://muctim.tuoitre.vn/nhung-su-that-thu-vi-ve-cam-nguyet-nhu-ca-cua-chau-da-va-thua-loi-101250809140316803.htm) - 11:57 10/08/2025
 - 👨‍🏫 [Khánh Vy lập cú đúp, U20 nữ Việt Nam giành vé tham dự vòng chung kết châu Á](https://muctim.tuoitre.vn/truc-tiep-u20-nu-viet-nam-gap-u20-nu-kyrgyzstan-101250810181743074.htm) - 11:55 10/08/2025
-- 🚦 [Trực tiếp bóng chuyền nữ SEA V.League ngày 10-8: Việt Nam - Thái Lan](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nu-sea-vleague-ngay-10-8-viet-nam-thai-lan-10125081016581456.htm) - 10:13 10/08/2025
+- 🚦 [Xuất sắc lội ngược dòng trước Thái Lan, tuyển bóng chuyền nữ Việt Nam vô địch chặng 2 SEA V.League 2025](https://muctim.tuoitre.vn/truc-tiep-bong-chuyen-nu-sea-vleague-ngay-10-8-viet-nam-thai-lan-10125081016581456.htm) - 10:13 10/08/2025
 - 🤭 [Quán cà phê hot tháng 8, khiến người trẻ TP.HCM tìm đến check-in](https://muctim.tuoitre.vn/quan-ca-phe-hot-thang-8-khien-nguoi-tre-tphcm-tim-den-check-in-101250810150830162.htm) - 08:49 10/08/2025
 - 😺 [Các kênh xem trực tiếp concert Tổ quốc trong tim tại nhà](https://muctim.tuoitre.vn/cac-kenh-xem-truc-tiep-concert-to-quoc-trong-tim-tai-nha-101250810143518559.htm) - 08:40 10/08/2025
 - 😎 [Nam sinh Hà Nội là chủ nhân vòng nguyệt quế Đường lên đỉnh Olympia tuần này](https://muctim.tuoitre.vn/nam-sinh-den-tu-ha-noi-la-chu-nhan-vong-nguyet-que-duong-len-dinh-olympia-tuan-nay-101250810132207609.htm) - 08:36 10/08/2025
