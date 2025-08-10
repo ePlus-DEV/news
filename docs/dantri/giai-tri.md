@@ -6,7 +6,7 @@ sidebar_position: 7
 <!-- dantri-giai-tri:START -->
 - 🤩 [Vợ chồng tỷ phú Jeff Bezos đâm đơn kiện anh trai, đòi đền bù 190.000 USD](https://dantri.com.vn/giai-tri/vo-chong-ty-phu-jeff-bezos-dam-don-kien-anh-trai-doi-den-bu-190000-usd-20250810113701992.htm) - 10:31 10/08/2025
 - 🔥 [Thu Quỳnh trở lại phim trường, khẳng định không áp lực kinh tế sau sinh con](https://dantri.com.vn/giai-tri/thu-quynh-tro-lai-phim-truong-khang-dinh-khong-ap-luc-kinh-te-sau-sinh-con-20250810131653727.htm) - 08:55 10/08/2025
-- 🚀 [&quot;Từ trên giời rơi xuống”: Hành trình chữa lành và tìm lại chính mìn](https://dantri.com.vn/giai-tri/tu-tren-gioi-roi-xuong-hanh-trinh-chua-lanh-va-tim-lai-chinh-min-20250810001822443.htm) - 08:17 10/08/2025
+- 🚀 [&quot;Từ trên giời rơi xuống”: Hành trình chữa lành và tìm lại chính mình](https://dantri.com.vn/giai-tri/tu-tren-gioi-roi-xuong-hanh-trinh-chua-lanh-va-tim-lai-chinh-minh-20250810001822443.htm) - 08:17 10/08/2025
 - 🔥 [Đoàn ballet đương đại nổi tiếng thế giới lần đầu tiên đến Việt Nam](https://dantri.com.vn/giai-tri/doan-ballet-duong-dai-noi-tieng-the-gioi-lan-dau-tien-den-viet-nam-20250810122310022.htm) - 07:47 10/08/2025
 - 🌈 [“V-Concert Rạng rỡ Việt Nam” kích hoạt Trung tâm Triển lãm Việt Nam](https://dantri.com.vn/giai-tri/v-concert-rang-ro-viet-nam-kich-hoat-trung-tam-trien-lam-viet-nam-20250810125943099.htm) - 06:46 10/08/2025
 - 📝 [Vy Oanh song ca cùng Jimmii Nguyễn, lần đầu hé lộ mối quan hệ suốt 20 năm](https://dantri.com.vn/giai-tri/vy-oanh-song-ca-cung-jimmii-nguyen-lan-dau-he-lo-moi-quan-he-suot-20-nam-20250810102231692.htm) - 06:25 10/08/2025
